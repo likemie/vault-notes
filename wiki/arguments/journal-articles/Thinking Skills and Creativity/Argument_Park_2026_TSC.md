@@ -73,6 +73,7 @@ related_instruments:
   - "[[Torrance Tests of Creative Thinking]]"
   - "[[California Critical Thinking Disposition Inventory]]"
   - "[[Runco Ideational Behavior Scale]]"
+  - "[[Computational Thinking Scale]]"
   - "[[Consensual Assessment Technique]]"
 related_persons:
   - "[[Socrates]]"
@@ -93,7 +94,7 @@ title: "Argument_Park_2026_TSC"
 argument_key: "Argument_Park_2026_TSC"
 argument_display_title: "Exploring the intersection of creativity and critical thinking among students: A meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 55
+argument_related_count: 56
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -227,7 +228,7 @@ issuing_organization: ""
 > | Guan et al. (2024) | 20.29 | College | East Asia | Critical Thinking Scale（主观） | Creative Self-Efficacy Scale（主观） |
 > | Guan et al. (2024) | 20.29 | College | East Asia | [[Runco Ideational Behavior Scale]]（主观） | Creative Self-Efficacy Scale（主观） |
 > | Khatami et al. (2023) | 22.5 | College | Middle East | Critical Thinking Questionnaire（主观） | TTCT（客观） |
-> | Kocak et al. (2021) | 21.82 | College | Middle East | Computational Thinking Scale – Critical Thinking subdimension（主观） | Computational Thinking Scale - Creativity subdimension（主观） |
+> | Kocak et al. (2021) | 21.82 | College | Middle East | [[Computational Thinking Scale]] – Critical Thinking subdimension（主观） | Computational Thinking Scale - Creativity subdimension（主观） |
 > | Komsu (2021) | 24.5 | Postgraduate | Middle East | UF/EMI Critical Thinking Disposition Scale（主观） | Kaufman Domains of Creativity Scale - Academic Creativity sub-dimension (Investigative Creativity)（主观） |
 > | Komsu (2021) | 24.5 | Postgraduate | Middle East | UF/EMI Critical Thinking Disposition Scale（主观） | Kaufman Domains of Creativity Scale - Academic Creativity sub-dimension (Analytical Creativity)（主观） |
 > | Li et al. (2022) | NA | College | East Asia | 4C Skills – Critical Thinking Domain（主观） | 4C Skills - Creativity Domain（主观） |

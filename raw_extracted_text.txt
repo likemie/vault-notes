@@ -1,1314 +1,938 @@
---- PAGE 1 ---
-Creativity Research Journal
-ISSN: 1040-0419 (Print) 1532-6934 (Online) Journal homepage: www.tandfonline.com/journals/hcrj20
-Second-Order Meta-Analysis of the Creativity
-Research
-Mark A. Runco, Sakhavat Mammadov, Daihe Sui, Taehee Kim & Laura
-Giuliana Neher
-To cite this article: Mark A. Runco, Sakhavat Mammadov, Daihe Sui, Taehee Kim & Laura
-Giuliana Neher (31 Mar 2026): Second-Order Meta-Analysis of the Creativity Research,
-Creativity Research Journal, DOI: 10.1080/10400419.2026.2644245
-To link to this article:  https://doi.org/10.1080/10400419.2026.2644245
-© 2026 The Author(s). Published with
-license by Taylor & Francis Group, LLC.
-Published online: 31 Mar 2026.
-Submit your article to this journal 
-Article views: 879
-View related articles 
-View Crossmark data
-Full Terms & Conditions of access and use can be found at
-https://www.tandfonline.com/action/journalInformation?journalCode=hcrj20
-
---- PAGE 2 ---
-Second-Order Meta-Analysis of the Creativity Research
-Mark A. Runco
+=== PAGE 1 ===
+Review
+The effect of graphic organizers on cultivating higher-order 
+thinking: Evidence from a meta-analysis
+Hao Lei
 a
-, Sakhavat Mammadov
-b
-, Daihe Sui
-c
-, Taehee Kim
-b
-, and Laura Giuliana Neher
-b
+, Yuxin Ding
+a , *
+, Ming Ming Chiu
+b , c
 a
-Aalto University; 
+Institute of Curriculum and Instruction, Faculty of Education, East China Normal University, Shanghai, China
 b
-University of Georgia; 
+Special Education and Counseling Department, The Education University of Hong Kong, Hong Kong, China
 c
-Northwestern University
+Analytics\Assessment Research Centre, The Education University of Hong Kong, Hong Kong, China
+ARTICLE INFO
+Keywords:
+Meta-analysis
+Graphic organizer
+Higher-order thinking
 ABSTRACT
-This second-order meta-analysis examined 52 first-order creativity meta-analyses (164 effect sizes) 
-which met inclusion and exclusion criteria. These meta-analyses provided data from 2609 studies 
-(1,248,416 research participants) and 16,153 primary effect sizes. The original meta-analyses all 
-examined creativity, but each had a specific focus. Even with that large range of foci, certain 
-questions could be addressed with a second-order meta-analysis. More specifically, 
-a comprehensive statistical analysis provided an effect size for all previous meta-analyses (a) 
-where creativity had been used as a predictor and (b) where creativity was the outcome. This 
-moderator was statistically significant, F(1, 16.3) = 9.43, p = .007. The average second-order effect 
-size was .12 when creativity was the criterion and .29 when it was a predictor. Four categories were 
-created for the type of creativity variable used in first-order meta-analyses: creative outcomes, 
-creative process, divergent thinking, and overall creativity. In the first model, where creative 
-process and divergent thinking were analyzed separately, creative process had an effect size of 
-.27, while divergent thinking had an effect size of .14. Different correlates of creativity were also 
-analyzed. Of these, interventions and educational programs yielded the largest effect size ( r = .20). 
-Implications and limitations are discussed.
-Creativity has long been recognized as enormously valu -
-able for individuals. It is associated with health, self- 
-expression, openness to experience, problem solving, 
-and a slew of other adaptive tendencies and traits. 
-Creativity is also an enormously valuable commodity 
-for business and society (Florida & Gabe, 2024 ; Runco 
-et al., 2020 ). Admittedly, the benefits of creativity are 
-not all adaptive and benevolent. Creativity is also some -
-times associated with malevolence and disturbance 
-(Cropley, 1997 ; Runco and Richards, 1997 ).
-Great headway has been made in the creativity 
-research, much of it resulting from the new methods 
-and technologies that have been brought to bear on the 
-topic. A great deal has, for example, been learned from 
-meta-analyses (Acar et al., 2020 ). Meta-analyses contri -
-bute significantly to our understanding of creativity in 
-part because they represent large samples. The second- 
-order meta-analysis of da Costa et al. ( 2015 ), for exam -
-ple, summarized data from over 15,000 research parti -
-cipants and from just over 100 studies. The large 
-samples make meta analyses highly reliable and support 
-the generalizability of the findings (Acar et al., 2020 ). da 
-Costa et al. ( 2015 ) analyzed effect sizes from seven meta- 
-analyses. They included research on both creativity and 
-innovation. Nine years later, we were able to locate over 
-70 meta-analyses, each of which focused on creativity. 
-Our search and inclusion/exclusion procedures are 
-described in detail below.
-da Costa et al. ( 2015 ) only asked about personal 
-correlates of creativity (e.g., intelligence, motivation, 
-and emotion). The second-order meta-analysis reported 
-here took a broader view. Indeed, the meta-analyses we 
-analyzed were categorized, first, in terms of creativity 
-being treated as a predictor or an outcome. One of the 
-moderators compared creativity when it was defined in 
-the earlier research as a criterion vs creativity when it 
-was defined as a predictor. This distinction fits with 
-creativity research and theory, and in particular the 
-psychometric conceptualization of criteria (e.g., as in 
-criterion-related validity) and predictors (e.g., as in pre -
-dictive validity). The distinction reflects the fact that 
-sometimes creativity is defined as an outcome or result 
-and used in analyses as the criterion, with other vari -
-ables used as predictors of the creativity criterion or 
-criteria. Other times the research has used creativity as 
-a predictor and there are other outcomes (e.g., health or 
-problem solving or academic success) other than crea -
-tivity. This dichotomy parallels the distinction between 
-independent variables in research and dependent vari -
-ables. The labels predictor and outcome were used 
-because they do not imply causality. The previous meta- 
-analyses were also categorized in terms of the study 
-CONTACT Mark A. Runco 
- runco.mark.a@gmail.com 
- Radical Creativity, Aalto University, Helsinki, Finland
-CREATIVITY RESEARCH JOURNAL                      
-https://doi.org/10.1080/10400419.2026.2644245
-© 2026 The Author(s). Published with license by Taylor & Francis Group, LLC.  
-This is an Open Access article distributed under the terms of the Creative Commons Attribution License ( http://creativecommons.org/licenses/by/4.0/ ), which permits unrestricted use, 
-distribution, and reproduction in any medium, provided the original work is properly cited. The terms on which this article has been published allow the posting of the Accepted 
-Manuscript in a repository by the author(s) or with their consent.
-
---- PAGE 3 ---
-design. Eighteen of them were comparative and 34 were 
-correlational. Next were categories for the types of crea -
-tivity variables involved. This required four categories 
-for creative outcomes (e.g., achievements, honors, and 
-awards), creative processes (e.g., flexibility and problem 
-finding), divergent thinking (e.g., ideation and origin -
-ality), and overall creativity (e.g., no specific measure 
-was reported). The last categorization of the previous 
-meta-analyses defined moderators for the correlates of 
-creativity involved in the previous meta-analyses, with 
-background variables (e.g., birth order, family size, sex, 
-race diversity), cognitive correlates (e.g., flexibility, 
-time-on-task, problem finding), extracognitive corre -
-lates (e.g., psychoticism, mood, stress), interventions 
-and education (e.g., purdue creative problem solving, 
-brainstorming), and finally, immediate influences (e.g., 
-explicit instructions and stress). The cognitive category 
-represents thinking or intellectual processes. The extra -
-cognitive correlates represent things which research has 
-suggested may influence the creative process but do not 
-represent well-recognized cognitive (or intellectual) 
-processes. Mood, for example, was coded as extracogni -
-tive because it is affective and yet sometimes does influ -
-ence creative thinking (Kaufmann & Vosburg, 2002 ).
-These categorizations were chosen for several rea -
-sons. First, they were chosen a priori and selected 
-because they fit with creativity theory and research. 
-The predictor vs criterion category, for example, fits 
-with psychometric research on creativity (Runco, Park 
-& Acar, 2020 ). The categorizations also represent a fairly 
-optimal number of statistical tests, relative to the sample 
-size. The predictor vs criterion categorization maxi -
-mized power in that it could be applied to all previous 
-meta analyses (rather than just a subsample) and it fits 
-with general concerns about creativity as it may influ -
-ence various aspects of life (and is in that sense 
-a predictor) and creativity as it may be influenced by 
-various factors (and can therefore be supported). It was 
-necessary for the moderator analyses to have a sufficient 
-number of effect sizes per each moderator level, which 
-meant avoiding narrow categories and combined them 
-when conceptually appropriate.
-These categorizations of the previous meta-analyses 
-– or, more precisely, the effect sizes previously 
-reported – allowed second-order meta-analyses to 
-determine what effect sizes have been reported across 
-studies, where creativity was treated as a predictor or 
-treated as an outcome, and, within each of those two 
-broad categories, how the different types of studies 
-(comparative and correlational), different creativity 
-variables (e.g., divergent thinking), and different corre -
-lates (e.g., cognitive, extracognitive, and background) 
-moderated these effect sizes. The current second-order 
-meta-analysis should provide a broad picture of where 
-the field of creative studies stands, where there has been 
-clear progress, and where there is more work to do.
-Second-order meta-analyses (SOMA) have several 
-unique advantages over literature reviews and other 
-approaches used to synthesize research. First, SOMA 
-are empirical rather than theoretical. Relatedly, unlike 
-literature reviews, in SOMA reliability is calculated and 
-reported. Then there is the fact that, instead of some 
-theoretical conclusions offered by a literature review, 
-SOMA synthesize previous results into an overall esti -
-mate (or estimates), with known reliability. As Sala et al. 
-( 2019 ) wrote, “Theory building in science requires repli -
-cation and integration of findings regarding a particular 
-research question. Second-order meta-analysis (i.e., 
-a meta-analysis of meta-analyses) offers a powerful 
-tool for achieving this aim.” Put differently, SOMA 
-offers highly robust analyses. They utilize large samples 
-(the present sample includes 1,248,416 individuals), 
-often from quite varied primary meta-analyses, and 
-thus provide results with justified generalizability. The 
-generalizability is supported by the larger samples but 
-also by the fact that no one methodology is used. 
-Diverse methodologies (e.g., tests, measures, and con -
-trols) had been used in the original meta-analyses, and 
-the results of the SOMA are thus not indicative of any 
-one methodology. Another key advantage of SOMA is 
-that they estimate the proportion of the variance in 
-mean meta-analytic effect sizes across multiple first- 
-order meta-analyses that is attributable to second- 
-order sampling error and use this information to 
-improve the accuracy of the overall estimation for each 
-first order meta-analytic estimates (Schmidt & Oh,  
-2013 ). In short, they are highly accurate.
-A SOMA of the creativity research can address 
-broadly important questions that could not be 
-addressed with any other analytic strategy. Over 70 
-meta-analyses had in some way previously investigat -
-ing the impact of creativity, and the SOMA reported 
-here therefore offers an empirical answer to the ques -
-tion, “does creativity matter?” Data used to answer 
-this question were found in the previous meta- 
-analyses that used creativity as an independent vari -
-able, an influence, or a predictor. The answer to “does 
-creativity matter” would be affirmative if it was in fact 
-predictive of important outcomes (e.g., health, pro -
-blem solving, and creative achievement), as indicated 
-by an overall effect size. Another subset of primary 
-meta-analyses included in the present data in some 
-way investigated the things that influence creativity. 
-Here, creativity was an outcome or the dependent 
-variable. The SOMA reported here could therefore 
-offer an empirical answer to the question, “what can 
+Graphic organizers can pick out and organize key information to release students' cognitive effort 
+from their lower-order thinking for their higher-order thinking (dispositions, cognitive processes, 
+skills), but studies showed mixed results. Hence, this meta-analysis of 4824 students in 66 
+empirical studies with 72 effect sizes determine the overall effect size of graphic organizers on 
+higher order thinking and moderators that explain the different results. Use of graphic organizers 
+showed an overall positive link with higher order thinking (g = 0.778). The effect size is stronger 
+(a) with mind maps, tapering for argument maps and concept maps; (b) in secondary school, 
+tapering for primary school and university; (c) for cognitive processes and dispositions than 
+outcome skills; (d) for divergent thinking than convergent thinking; (e) in countries with higher 
+GDP per capita, and (f) in later publication years. Gender, academic subject and study duration 
+showed no moderation effects. These results inform teachers' judicious use of graphic organizers 
+to boost their students ’ higher order thinking.
+1. Introduction
+In our information-rich modern world, education has shifted from understanding it, recalling it, and applying it ( lower-order 
+thinking , LOT) to analyzing it, evaluating it, and creating it ( higher-order thinking [HOT]; Bloom, 1956 ; Zohar and Ben David, 2009 ). 
+Students with better higher-order thinking (domain general) than others often show more learning motivation ( Purnama & 
+Nurdianingsih, 2019 ), understand ideas more deeply ( Thamrin & Widodo, 2019 ), show greater autonomy and initiative ( Smith & 
+Darvas, 2017 ), and have better learning outcomes in school (e.g. Tanujaya et al., 2017 ).
+Hence, visual tools that pick out key information and spatially organize it (e.g., charts, diagrams, maps; graphic organizers , GO) 
+might release students' cognitive effort from their lower-order thinking to their higher-order thinking ( Eppler & Burkhard, 2008 ). 
+However, studies showed mixed results. Graphic organizers boost students' higher-order thinking in some studies (e.g., Achor et al., 
+2024 ; Min et al., 2023 ) but not others ( Carwie, 2009 ; Su & Long, 2021 ). Differences in participants, settings, or study designs might 
+explain these results. Hence, our meta-analysis of 4824 students in 66 studies (a) determines the overall relation between graphic 
+organizer and higher-order thinking and (b) identifies moderators that account for different results across studies. Understanding 
+graphic organizer's effect on higher-order thinking and factors that boost its effectiveness can help teachers and their students navigate 
+the information avalanche from generative artificial intelligence (e.g., large language models like ChatGPT; Kelly et al., 2023 ).
+* Corresponding author.
+E-mail address: 51274102013@stu.ecnu.edu.cn (Y. Ding). 
+Contents lists available at ScienceDirect
+Educational Research Review
+journal homepag e: www.else vier.com/loc ate/edurev
+https://doi.org/10.1016/j.edurev.2026.100822
+Received 8 May 2025; Received in revised form 29 May 2026; Accepted 14 July 2026  
+Educational Research Review 52 (2026) 100822 
+Available online 16 July 2026 
+1747-938X/© 2026 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies. 
+=== PAGE 2 ===
+2. Conceptual framework
+2.1. Higher-order thinking
+Higher-order thinking is defined as comprising dispositions and cognitive processes that yield the skills of analysis, evaluation, 
+inference, deductive reasoning, and inductive reasoning ( Hwang et al., 2021 ). Higher-order thinking dispositions drive higher-order 
+thinking cognitive processes to yield its outcomes/skills. Consider this example. Ana saw dandelions growing in poisoned soil near 
+factories, and was curious about how they thrived. Her open mind led her to many sources, including journal articles and a professor 
+studying how plants remove contaminants. She read about plants that absorbed metals from poisoned earth. These concepts were hard 
+to grasp, but she persisted. Unsatisfied with abstract ideas, she systematically tested them by examining dandelions in clean and dirty 
+soil. The professor generously helped her use special equipment to find that dandelions in polluted soil had more heavy metals and 
+more intricate roots. She assessed these complicated roots to be relevant rather than coincidence. Synthesizing this information about 
+heavy metals and intricate roots, she creatively inferred that genetic mutations gave dandelions such roots, which helped them survive 
+the poisoned soil. Reflecting on her results, she considered other possible causes, like soil pH and water availability, showing her 
+critical thinking and creativity.
+Higher-order thinking dispositions are orientations and attitudes, such as Ana's curiosity, open-mindedness, perseverance, and 
+systematicity ( Lim, 2017 ). Her curiosity engages her to ask questions (how do dandelions grow in poisoned soil?), dig for answers, find 
+new ideas, and explore them ( Rauscher & Badenhorst, 2021 ). Her open-mindedness let her see many sides of a story (heavy metals, 
+intricate roots, soil pH) and adapt to such new information ( Arviani et al., 2023 ). Her perseverance keeps her going through difficult 
+tasks and setbacks (e.g., difficult concepts) to eventually master skills ( Galita & Bonta, 2023 ). Her systematicity pushes her to organize 
+her thoughts (dandelions, soil, growth), break down problems into simpler parts they can handle (clean vs. dirty soil), and plan and 
+solve problems (compare dandelions in clean vs. dirty soil; Rauscher & Badenhorst, 2021 ). Hence, her curiosity and open-mindedness 
+opened doors to new ideas, while her perseverance and systematicity pushed her beyond her initial efforts.
+These dispositions motivated Ana's higher-order thinking cognitive processes of analysis, evaluation, synthesis, and inference 
+( Thamrin & Widodo, 2019 ). She examined dandelions to understand their parts (heavy metals, intricate roots; analysis ). Then, she 
+assessed the relevance of each part to solving her problem (relevance of roots; evaluation ). Next, she fit relevant parts together (relate 
+heavy metals to intricate roots; synthesis ). Based on her organized information, she drew conclusions (genetic mutation aided survival; 
+inference ).
+These higher-order thinking cognitive processes helped her achieve her higher-order thinking outcomes of critiques/critical 
+thinking, creativity, or problem solving ( Tikhonova & Kudinova, 2015 ). Analysis and evaluation especially aid critical thinking (why 
+intricate roots?), and synthesis and inference particularly facilitate creativity (genetic mutation can aid survival). Nevertheless, any of 
+these cognitive processes might support critical thinking, creativity or problem solving (as in Ana's example).
+2.2. Graphic organizer
+Graphic organizer is defined as a visual tool that pick out key information and organize it (e.g., charts, diagrams, maps; Eppler & 
+Burkhard, 2008 ). We can organize information via a spatial metaphor : time is space; ideas are objects at locations; ideas with shared 
+attributes look similar (color, shape, size, etc.); related ideas are nearby objects; causation is moving from one location to another, and 
+so on ( Lakoff & Johnson, 2024 ). Applying this spatial metaphor, graphic organizers pick out key ideas, organize them and their re -
+lations, and store them on a surface (e.g., paper, screen), which reduces the cognitive load ( Mayer, 2002 ) of understanding and 
+recalling (lower-order thinking) to free brain resources for higher-order thinking ( Eppler & Burkhard, 2008 ; Lee, 2012 ). See example of 
+graphic organizer of Ana's higher-order thinking in Fig. 1 .
+Teachers have used graphic organizers to help their students understand the relations among ideas ( Larkin & Simon, 1987 ; Nesbit & 
+Fig. 1. Graphic organizer of Ana's higher-order thinking dispositions, cognitive processes, and outcomes/skills.
+H. Lei et al.                                                                                                                                                                                                             Educational Research Review 52 (2026) 100822 
+2 
+=== PAGE 3 ===
+Adesope, 2006 ) and use their hippocampi create corresponding links from these visual stimuli to their cerebral cortices (from short-term 
+memory to long-term memory) in their brains. Graphic organizers have boosted students ’ meaningful learning ( Akinsanya & Williams, 
+2004 ; Hay, 2007 ; Romero García et al., 2017 ) and learning outcomes ( Dexter et al. 2011 ), especially for understanding texts (science: 
+Roman et al., 2016 ; social studies: Meo, 2008 ; language learning: Imsa-ard, 2022 ). Hence, we propose this hypothesis. 
+H-1 . Students using graphic organizers outperform other students on higher-order thinking.
+However, some graphic organizers, especially poor ones, can hinder higher-order thinking by worsening cognitive load, split 
+attention, or decrease coherence. Some highlight small details, jumble the order of facts, or mismatch attributes (e.g., color, size, 
+shape) with their meanings ( Schnotz & Bannert, 2003 ). Students might fixate on a complicated graphic organizer (see Fig. 1 ) instead of 
+listening to the teacher, which can burden their minds with unnecessary details ( excessive cognitive load , Sweller et al., 2011 ). Also, the 
+information in the graphic organizer might not align with their learning goals and obstruct their understanding ( Schnotz & Bannert, 
+2003 ). Even as their teacher lectures, students ’ thoughts might wander back to the graphic organizer. This can split their attention, 
+break their focus, disrupt the steady flow of information ( Hittleman, 1985 ). Also, some students know the basic ideas but need the 
+details from the lecture. These students can waste time on the graphic organizer, especially one tangled with tangential ideas (less 
+coherence). These can slow learning ( redundancy effect , Sweller et al., 2011 ) or cause students to ignore the lecture altogether ( Schnotz, 
+2014 ).
+2.3. Potential moderators
+To account for past studies ’ different results, we test for moderation effects of higher-order thinking measures, graphic organizer 
+types, demographics, and study designs.
+2.3.1. Higher-order thinking measures
+2.3.1.1. Higher-order thinking components: dispositions, cognitive processes, and skills. Studies assessed higher-order thinking disposi -
+tions, cognitive processes, or outcomes/skills. As higher-order thinking dispositions and higher-order thinking cognitive processes 
+precede higher-order thinking outcomes, successful higher-order thinking outcomes require both suitable higher-order thinking dis -
+positions and higher-order thinking cognitive processes ( Thamrin & Widodo, 2019 ; Tikhonova & Kudinova, 2015 ). By contrast, neither 
+the dispositions nor the cognitive processes require higher-order thinking outcomes ( Thamrin & Widodo, 2019 ; Tikhonova & 
+Kudinova, 2015 ). Hence, graphic GO-HOT links are likely larger when assessing higher-order thinking dispositions or cognitive 
+processes rather than higher-order thinking skills. 
+H-2 . The positive link between graphic organizer and higher-order thinking is stronger for dispositions or cognitive processes than 
+skills.
+2.3.1.2. Divergent vs. convergent higher-order thinking. Some researchers divide higher-order thinking into (a) logical thinking and 
+assessment, including critical thinking ( convergent ) and (b) original, flexible, creative thinking ( divergent ; Lu et al., 2025 ; Zhan et al., 
+2023 ). As graphic organizers organize ideas with a concise, structured representation of idea (e.g., hierarchies, networks, flow dia -
+grams), they reduce cognitive load, especially LOT and convergent thinking ( Ezzeldin, 2017 ). This frees more resources for more 
+difficult, divergent thinking ( Eppler & Burkhard, 2008 ), creation of new ideas ( Leeds et al., 2019 ), or deeper students ’ conceptual 
+Fig. 2. Illustration of concept map, argument map, and mind map.
+H. Lei et al.                                                                                                                                                                                                             Educational Research Review 52 (2026) 100822 
+3 
+=== PAGE 4 ===
+understanding ( Watson et al., 2016 ). Hence, graphic organizers might benefit divergent higher-order thinking more than convergent 
+one. 
+H-3 . The positive link between graphic organizer and higher-order thinking is stronger for divergent higher-order thinking than 
+convergent higher-order thinking.
+2.3.2. Graphic organizer types
+Graphic organizer types include types of maps (e.g., mind, concept, argument; Kansızo ˘glu, 2017 ), fishbone diagrams, Venn dia -
+grams, flowcharts, and so on ( Scott, 2011 ). However, most studies of graphic organizers and higher-order thinking used mind maps, 
+concept maps or argument maps (see Fig. 2 ). Mind maps are visual diagrams that organize ideas and information around a central 
+concept, with branches representing related themes and subtopics ( Edwards & Cooper, 2010 ). Often used in brainstorming, students 
+using mind maps identified more relations among ideas and used these relations to remember more, compared to other students 
+( Farrand et al., 2002 ; Palaniappan et al., 2023 ). By contrast, concept maps often summarize key ideas and relations, so they are more 
+complex and can become unwieldy compared to the single-concept focus of mind maps ( Shi et al., 2023 ). Indeed, students often learn 
+more from mind maps than concept maps ( Abbas et al., 2018 ; Redhana et al., 2021 ), though their effects on critical did not differ 
+significantly in Suardana et al. (2020) .
+Whereas concept maps and mind maps organize ideas and their relations for greater understanding, argument maps structure the 
+logic behind claims, evidence, warrants and backing to persuade others of a specific conclusion ( Davies, 2011 ). Argument maps boost 
+students ’ critical thinking during structured writing ( Botley & Hakim, 2014 ; Liu et al., 2024 ) and problem-solving ( Hoffmann, 2005 ). 
+As arguments are typically more structured than brainstorming, we expect the added structure of a mind map to be much more 
+beneficial to brainstorming than an argument map to argumentation. Like mind maps, arguments have clear lines, so both are often 
+more organized than concept maps ( Davies, 2011 ). Indeed, among students studying science, those using argument maps learned more 
+than those using concept maps ( Kabatas ¸ Memis ¸ & Karakus ¸ , 2021 ). Hence, we propose the following hypothesis. 
+H-4 . The positive link between graphic organizer and higher-order thinking is strongest for mind maps, weaker for argument maps, 
+and weakest for concept maps.
+2.3.3. Demographics
+Demographics include national income, age, and year. Countries with higher national income ( gross domestic product [GDP] per 
+capita) often spend more money to create better technology or train their teachers better ( Nelson, 2005 ). Better technology can yield 
+better graphic organizers. Such graphic organizers can organize key ideas and their relations better to help students learn them more 
+easily. Furthermore, better teachers can use graphic organizers more effectively to help their students learn more. Hence, graphic 
+organizers might have stronger effects on higher-order thinking in richer countries than in poorer ones. 
+H-5 . The positive link between graphic organizer and higher-order thinking is higher in countries with higher GDP per capita.
+Age might moderate the effect of graphic organizer on higher-order thinking. As older students ’ brains are more mature (e.g., 
+formal operations of secondary school students vs. concrete operations of primary school students; Carey et al., 2015 ), they likely have 
+superior higher-order thinking and representational skills. So, they have more skills that graphic organizers can activate, and can better 
+use graphic organizers. Moreover, unimportant graphic organizer details (e.g., images) more readily distract primary school students 
+and hinder their graphic organizer use, compared to older students ( seductive-details effect , Rowland-Bryant et al., 2009 ). Compared to 
+younger students, secondary school students often have stronger ( meta- ) representational skills ( diSessa and Sherin, 2000 ; Pande & 
+Chandrasekharan, 2017 ; Uttal & Doherty, 2008 ), so they can use graphic organizers more effectively ( Hillmann, 1993 ). As univer -
+sity students have mature representation skills, they can readily create their own spatial metaphors to pick out key ideas and organize 
+them, reducing the comparative benefit of an external graphic organizer ( self-scaffolding , Bickhard, 2013 ). Hence, graphic organizer 
+benefits might be highest among secondary school students and lowest among university students. Indeed, concept maps benefit 
+secondary school students more than university students ( Nesbit & Adesope, 2006 ). 
+H-6 . The positive link between graphic organizer and higher-order thinking is strongest for secondary school students, tapering off 
+for primary school students, and lowest among university students.
+Later years often bring more advanced technology ( Fraillon et al., 2014 ) and progress toward better teaching methods ( Compayre 
+& Payne, 2015 ). Advanced technology can yield more effective graphic organizers. Also, teachers using better teaching methods can 
+help their students use a graphic organizer more effectively. Hence, we expect studies published in later years to show larger effect 
+sizes of graphic organizers on higher-order thinking. 
+H-7 . The positive link between graphic organizer and higher-order thinking is larger in later publication years.
+2.3.4. Other moderators
+We do not expect gender, academic subject, or study duration to moderate the link between graphic organizer and higher-order 
+thinking. Indeed, gender did not moderate the link between concept mapping and critical thinking in a prior analysis ( Barta et al., 
+2022 ). Also, meta-analyses of mind mapping and cognitive outcomes showed no significant academic subject moderations ( Nesbit 
+& Adesope, 2006 ; Shi et al., 2023 ) or study duration moderations ( Shi et al., 2023 ). Still, following other meta-analyses, we test for 
+their possible moderation effects.
+H. Lei et al.                                                                                                                                                                                                             Educational Research Review 52 (2026) 100822 
+4 
+=== PAGE 5 ===
+2.4. This study
+Past studies of graphic organizers and higher-order thinking showed mixed results. So, this meta-analysis adjudicates the overall 
+effect of the independent variable graphic organizer on the dependent variable higher-order thinking and tests for moderators (graphic 
+organizer, higher-order thinking, demographics, etc.) that explain the different results.
+3. Methods
+3.1. Literature search and coding
+3.1.1. Literature search
+We identified relevant primary studies by searching seven databases: Google Scholar, Web of Science, Elsevier SDOL, EBSCO, 
+Springer, PsycINFO and ProQuest Digital Dissertations. We used the following combination of search terms: ( “ diagram ” OR “ graphic 
+organizer ” OR “ mind mapping ” OR “ concept mapping ” OR “ argument mapping ” OR “ cognitive mapping ” ) AND ( “ critical thinking ” OR 
+“ higher-order thinking ” OR “ reasoning ” OR “ creative thinking ” OR “ problem solving ” OR “ argumentation ” OR “ argumentative 
+thinking ” OR “ decision-making ” OR “ metacognitive thinking ” OR “ creativity ” ). If an original study was not publicly available, we tried 
+to get it from a school library or by emailing the authors. We completed this search process in January 2025, retrieving 665 articles.
+3.1.2. Inclusion criteria
+We applied the following inclusion criteria to these studies: (a) empirically tested the relation between the independent variable 
+graphic organizer use and the dependent variable higher-order thinking; (b) had a quasi-experimental, experimental, or pre-post 
+design; (c) had sufficient statistical information to calculate the effect size (e.g., sample sizes, means, standard deviations) (See 
+Fig. 3 ). After applying these criteria, 66 articles remained.
+3.1.3. Quality assessment
+Two authors independently assessed the quality of each study with Kmet, Lee, and Cook's (2004) fourteen-item checklist. These 
+items helped assess the internal validity of quantitative research across multiple methodological dimensions. One such item is the 
+clarity and completeness of the research question/objective. Each item was rated as “ yes ” (2 points), “ partial ” (1 point), or “ no ” (0 
+points) for a maximum of 28 points. To accommodate the heterogeneity of quantitative study designs, some items can be designated 
+“ not applicable ” (N/A). All 66 original studies had at least moderate quality (over 50%; M = 23.75 [85%]) and were included in this 
+Fig. 3. Flow diagram of literature search and study inclusion criteria.
+H. Lei et al.                                                                                                                                                                                                             Educational Research Review 52 (2026) 100822 
+5 
+=== PAGE 6 ===
+meta-analysis.
+3.1.4. Study feature coding
+For each study, two authors coded its features ( Lipsey & Wilson, 2001 ): study name, publication year, sample size, effect size, GDP 
+per capita, grade level, gender, higher-order thinking measures (disposition, cognitive process vs. skill; convergent vs. divergent), 
+graphic organizer type (mind map, concept map, argument map), academic subject, and study duration (see Table 1 ). In one study ( Su, 
+2018 ), the teacher created the graphic organizer and gave it to the students. In all other studies, the students created the graphic 
+organizer. A common sequence in graphic-organizer-based learning activities across the studies involved teachers introducing the 
+basic knowledge of the graphic organizer used in the intervention, students generating their own graphics, and teachers providing 
+feedback. Krippendorff's (2011) α between the two authors' ratings is 0.813, showing acceptable inter-rater reliability.
+Researchers measured higher-order thinking dispositions, cognitive processes, and skills in different ways. To measure higher-order 
+thinking disposition, researchers in all 34 primary studies used Likert-type scales (strongly disagree to strongly agree) with questions 
+such as “ I like to ask something that no one has imagined before ” (e.g. Chiu & Hwang, 2024 ). Meanwhile, researchers in all 17 studies 
+measuring cognitive processes asked participants to solve open problems via writing. Then, they used scoring rubrics to capture these 
+cognitive processes ( Lane, 1993 ). For example, Khrais & Saleh (2020) asked students to read a letter with flawed reasoning and then 
+write an essay assessing the claims in the letter. Then, the researchers applied a rubric to assess participants' quality of reasoning 
+(especially counter-arguments), relevance and clarity of critiques, and use of evidence. Lastly, researchers in all 57 studies used 
+multiple-choice tests to measure higher-order thinking skills. These include standardized tests, like the California Critical Thinking 
+Skills Test (CCTST, Facione, 1990 ). An example item is “ the happiness level in some countries can be higher or lower than in others 
+with the same personal income level. The statement is: (a) True; (b) Probably True; (c) Insufficient Data; (d) Probably False; (e) False. ” 
+Studies in the field of nursing in US used the computerized exams by Health Education Systems, Inc. ( Morrison et al., 2004 ). Other 
+researchers developed and validated multiple-choice questions with high reliability to test students ’ higher-order thinking skills. (e.g., 
+Min et al., 2023 ). We test whether these different measures of the outcome variable higher-order thinking (disposition, cognitive 
+process, skill) moderate the relation between graphic organizer and higher-order thinking ( Chiu & Roberts, 2018 ).
+3.2. Data processing and analysis
+3.2.1. Effect size computation
+For each study, we computed the effect size Hedge's g ( V ø llestad et al., 2012 ). If available, we used the sample sizes, means, and 
+standard deviations in either (1) the post-test data of the experimental and control groups or (2) the pre-test and post-test data of the 
+single experiment. Otherwise, we used χ
 2
- M. A. RUNCO ET AL.
-
---- PAGE 4 ---
-be done about creativity?” The degree to which is 
-creativity influenced by experiences, education, treat -
-ments and training, and group and individual char -
-acteristics indicates whether or not it does react to 
-varied influences. In a sense, this speaks to the ques -
-tion, can anything can be done about creativity? That 
-is a broad question, but in addition, SOMA can ana -
-lyze moderators and thereby offer specific estimates of 
-the degree to which various sources of heterogeneity 
-(moderators) have been related to creativity in the 
-primary meta-analyses. Admittedly, not all sources of 
-heterogeneity can be empirical examined. The present 
-analyses were limited by the available data. Theory 
-might have suggested that one particular sources of 
-heterogeneity should be analyzed (e.g., historical eras), 
-but if there are too few extant primary meta-analyses 
-(and effect sizes) about it, meta-analyses are not pos -
-sible. Given the various advantages of SOMA, it is no 
-wonder that they have been used to synthesize 
-research on cognitive training (Sala et al., 2019 ), the 
-impact of technology on learning (Tamim et al., 2011 ) 
-the impact of relying on college students as research 
-participants (Peterson, 2001 ), the impact of online 
-and distance learning (Martin et al., 2022 ), and 
-a large number of other research questions.
-Abundant theoretical justification could be cited for 
-each of these variables, correlates, and influences. Each 
-of them was justified by theory in the original meta- 
-analyses. Given that there were over 70 of these con -
-tributing effect sizes to the present effort, the specific 
-theories are too numerous to cite here. That being said, 
-the idea that background variables may influence crea -
-tivity follows from the theory that humans have creative 
-potentials which may be fulfilled (e.g., Runco, 2024 ). 
-The idea that there are cognitive correlates of creativity 
-follows from numerous theories which point to diver -
-gent thinking, insight, problem solving, and so on (e.g., 
-Roberts et al., 2021 ). The idea that there are extracogni -
-tive correlates follows from theories of personality (e.g., 
-Eysenck, 2003 ), and mood and affect (Kaufmann & 
-Vosburg, 2002 ; Hirt, 1999 ). The idea that interventions 
-and education may influence creativity follows from 
-theories of instruction, teaching, and training (e.g., 
-Beghetto & van Geffen, 2024 ). Finally, the idea that 
-there are important immediate influences on creativity 
-(e.g., task instructions and stress) follows from theories 
-of creativity an expression of current functioning 
-(Rhodes, 1997 ). These are just examples and additional 
-theoretical detail can be found in the original meta- 
-analyses. The most important theory justifying the cur -
-rent analysis is no doubt that which explains the mean -
-ing and value of second-order meta-analyses (Schmidt 
-& Oh, 2013 ).
-Method
-Search strategy
-A multimodal search strategy was used to identify rele -
-vant first-order meta-analyses on creativity. First, we 
-conducted a multi-database search using EBSCOhost 
-for peer-reviewed literature across the following five 
-databases: ERIC, APA PsycINFO, APA PsycArticles, 
-Education Research Complete, and Academic Search 
-Complete. Additionally, we searched ProQuest 
-Dissertations and Theses for unpublished meta- 
-analyses. The keyword creativity and its associated com -
-ponents and variations (e.g., divergent thinking, origin -
-ality, and fluency) along with specific meta-analysis 
-terms (e.g., meta-analysis and systematic review) were 
-applied to article and dissertation titles and abstracts 
-using Boolean operators and truncation. Second, we 
-manually searched key creativity research journals, 
-including Creativity Research Journal , The Journal of 
-Creative Behavior , Psychology of Aesthetics, Creativity 
-and the Arts , and Thinking Skills and Creativity . Third, 
-a document title search was performed in Google 
-Scholar for additional gray literature. Finally, we 
-reached out to creativity scholars to inquire about addi -
-tional meta-analysis studies, including those not yet 
-published. Our search identified 4228 studies which 
-were screened at the title and abstract levels; 78 were 
-full text assessed for eligibility, with 52 included in 
-this second-order meta-analysis (see Figure 1 ).
-Inclusion and exclusion criteria
-Our database search was limited to first-order meta- 
-analyses published in English between January 1, 1980, 
-and August 1, 2023. To be included, studies had to 
-report at least one meta-analytic effect size related to 
-creativity or its components. Systematic reviews without 
-meta-analytic methods were excluded (e.g., Bicer et al.,  
-2021 ). Additionally, studies involving brain imaging 
-that used Activation Likelihood Estimation (ALE) meta- 
-analysis of fMRI data were excluded, as they did not 
-provide meta-analytic effect sizes on the relationships 
-between creativity and other variables (e.g., Boccia et al.,  
-2015 ).
-Data coding and extraction
-A coding spreadsheet was developed to systematically 
-record the following key features from each first-order 
-meta-analysis: the authors, publication year, publication 
-status (published vs. unpublished), the year span of the 
-included empirical studies, the meta-analytic model 
-employed (fixed effects and random effects), the meta- 
-CREATIVITY RESEARCH JOURNAL
- 3
-
---- PAGE 5 ---
-analytic design (correlational and comparative), the 
-number of included primary studies, and the number 
-of analyzed effect sizes. For each individual reported 
-effect size, we extracted the associated reported sample 
-size, effect size, type of effect size, sampling error, 
-standard deviation, and 95% confidence interval. 
-Additionally, we recorded the type of creativity (e.g., 
-divergent thinking task performance, creative activity 
-performance, and self-perceptions and self-ratings), 
-modality of creativity (e.g., verbal, figural, numerical, 
-Figure 1. Preferred reporting items for systematic reviews and meta-analyses diagram illustrating study search and inclusion process.
-Table 1. Study quality criteria.
-Study Quality Criterion Details
-1. Was an “a priori” design provided? Were the research question and inclusion criteria pre-registered before the review was 
-conducted?
-2. Was there duplicate study selection and data 
-extraction?
-Were there at least two independent data extractors and a consensus procedure in place for 
-disagreements?
-3. Was a comprehensive literature search performed? Were at least two electronic sources searched, with keywords/search specifiers, date ranges, and 
-databases specified? And, was the overall search strategy provided?
-4. Was gray literature included during the search? Did the authors search for reports regardless of their publication type? (Reports should not have 
-been excluded solely based on publication status.)
-5. Was a list of included studies provided? Were studies selected for inclusion listed in the body or clearly annotated with asterisks in the 
-References?
-6. Were the characteristics of included studies provided? Was relevant information provided on each included study (e.g., variables, interventions, 
-outcomes) in an aggregated form such as a table or forest plot?
-7. Was the scientific quality of included studies assessed 
-and documented?
-Did the authors provide details regarding their assessment of the scientific/methodological 
-quality of included studies?
-8. Was the scientific quality of included studies used 
-appropriately in formulating conclusions?
-Did the authors use study quality score as a moderator when analyzing their meta-analytic 
-results and when reporting conclusions and recommendations?
-9. Were the methods used to combine findings of studies 
-appropriate?
-Was a homogeneity assessment conducted to determine whether studies were combinable (e.g., 
-Chi-squared test)? And, if needed, was a multi-level or random effects model employed to 
-ensure the appropriateness of pooling results?
-10. Was a confidence/credibility interval or standard error 
-reported?
-Was at least one of the following reported for the effect size: a confidence interval, a credibility 
-interval, or a standard error?
-11. Was the likelihood of publication bias assessed? Was a graphical aid (e.g., funnel plot) and/or statistical test (e.g., Egger’s regression test, Fail-Safe 
-N test) used to assess publication bias?
-12. Were potential conflicts of interest included? Were sources of funding or support (or lack thereof) clearly acknowledged?
-4
- M. A. RUNCO ET AL.
-
---- PAGE 6 ---
-and mixed), and domain of creativity assessed (e.g., 
-science, arts, and domain general), along with any 
-reported moderators.
-The methodological quality of the included first- 
-order meta-analyses was assessed using the AMSTAR 
-measurement tool (Shea et al., 2017 ). The 12 study 
-quality criteria used in the assessment are detailed in 
-Table 1 . Each criterion was scored dichotomously, and 
-an overall quality score for each meta-analysis was cal -
-culated by averaging the scores across all criteria. Two 
-independent coders evaluated the study quality variable. 
-One coder assessed all 61 studies, while another inde -
-pendently assessed 52 of them. The inter-rater agree -
-ment was 97% for the 636 individual study quality 
-variables. All discrepancies were resolved through con -
-sensus during multiple review meetings involving both 
-coders and an additional author. A dichotomous mod -
-erator that indicated whether or not a first-order meta- 
-analysis was considered high quality was then created, 
-with the threshold for the average quality score set at 
-0.75. In other words, a first-order meta-analysis should 
-meet at least nine out of 12 criteria to be considered high 
-quality.
-Data analysis
-Pearson correlation coefficient (Pearson’s r ) was used as 
-the measure of relationship between creativity and its 
-correlates. In cases where the first-order meta-analyses 
-presented Spearman’s rank correlation coefficients 
-(Spearman’s ρ ), we converted them to Pearson’s 
-r using Equation 1 (Rupinski & Dunlap, 1996 ): 
-If standardized mean differences (Cohen’s d or 
-Hedges’ g ) were reported in the first-order meta- 
-analyses, they were transformed to Pearson’s r using 
-formulas in Borenstein et al. ( 2009 ).
-Due to the non-normality of Pearson’s r , each r was 
-transformed to Fisher’s z to better approximate the 
-normal distribution. The z -transformed correlation 
-coefficients were then used in the subsequent meta- 
-analyses. These meta-analytic estimates were eventually 
-converted back to Pearson’s r to aid interpretation.
-All statistical analyses were performed in R, using the 
-metafor (Viechtbauer, 2010 ) and clubSandwich 
-(Pustejovsky & Tipton, 2017 ) packages.
-The primary analysis employed the combination of 
-a multilevel meta-analytical model with robust variance 
-estimation (RVE; Hedges et al., 2010 ). Initially, 
-a working model was used to approximate the depen -
-dency structure of the effect size data, enabling the 
-calculation of inverse-variance weights. More specifi -
-cally, the CHE model was used (Tipton & Pustejovsky,  
-2022 ). It assumes correlations between effect sizes 
-within the same first-order meta-analysis due to possi -
-ble measurements on shared participants, while 
-acknowledging potential differences between these 
-effect sizes. For the analyses, we assumed that effect 
-sizes within the same first-order meta-analysis were 
-correlated with r = 0.8. To mitigate misspecification 
-risks related to the working model and the assumed 
-correlation, standard errors were estimated and RVE 
-used for hypothesis testing. This combined approach 
-ensured the validity of hypothesis testing and increased 
-the precision of the estimates.
-The average effect size was estimated using an inter -
-cept-only meta-analytic model. For moderator analysis, 
-all potential moderators (i.e., creativity as a criterion or 
-predictor, study design, the types of creativity, the types 
-of correlates of creativity, and the indicator of high- 
-quality meta-analysis) were included in the model. 
-Moderator effects were evaluated using the F test with 
-the Approximate Hotelling’s T -squared approach 
-(Tipton & Pustejovsky, 2015 ). Since all moderators 
-were discrete variables, we also presented the effect 
-estimate at each level of each moderator (representing 
-each subgroup), controlling for the remaining modera -
-tors by centering to their mean levels. Confidence inter -
-vals and prediction intervals were also presented along 
-with the subgroup effect estimates.
-Although no studies have specifically examined 
-methods for publication bias in second-order meta- 
-analyses, the methods used to address publication bias 
-in first-order meta-analyses were presumed to be simi -
-larly effective. A modified Egger’s regression test (Sterne 
-& Egger, 2006 ) was applied within the multilevel meta- 
-analytic model with RVE, to both detect and adjust for 
-any small-study effects, which potentially indicated 
-publication bias. If the test result was significant, then 
-the bias-corrected estimates would be presented. The 
-primary advantage of the regression-based adjustment 
-is that it can be seamlessly integrated into the multilevel 
-meta-analytic framework with RVE. By contrast, alter -
-native approaches, such as the trim-and-fill method 
-(Duval & Tweedie, 2000 ), Fail-Safe N test (Orwin,  
-1983 ), and selection models (Vevea & Hedges, 1995 ) 
-have not yet been thoroughly evaluated in the context 
-of multilevel meta-analysis.
-Results
-Data from 52 meta-analyses were analyzed. These had 
-summarized 2609 studies from 1,248,416 individuals 
-and reported 16,153 effect sizes. On average, the first- 
-CREATIVITY RESEARCH JOURNAL
- 5
-
---- PAGE 7 ---
-order meta-analyses each summarized results from 
-around 50 studies, 323 primary effect sizes, and 24,968 
-individuals. Figure 2 illustrates the frequency distribu -
-tion of the 164 first-order meta-analytic effect sizes 
-included in our study. To verbally classify the second- 
-order effect sizes, this overall distribution was used, 
-taking into account the 33rd and 67th percentiles 
-(following Kraft, 2020 ): effects with an absolute value 
-below 0.16 were classified as small, those ranging from 
-0.16 to 0.31 as medium, and those exceeding 0.31 as 
-large.
-The overall bias-corrected second-order meta- 
-analytic effect size that was calculated in the intercept- 
-only meta-analytic model was .17 (95% CI [.11, .22]). 
-The Egger’s regression test was significant, F (1, 10.9) =  
-15.7, p = .002, indicating the presence of small-study 
-effects and favoring the use of the bias-corrected esti -
-mate; by comparison, the uncorrected overall effect was 
-.21 (95% CI [.17, .26]). The 95% prediction interval was 
-[−.24, .53]. The statistic of effect heterogeneity was 
-Q ( df = 162) = 12494, p < .001, suggesting substantial 
-heterogeneity. This heterogeneity was explored by the 
-meta-regression model which included all moderators 
-simultaneously.
-Examined moderators included creativity as 
-a criterion or predictor, study design, the types of crea -
-tivity, the types of correlates of creativity, and the indi -
-cator of high-quality first-order meta-analysis. 
-Correlates of creativity represented (a) cognitive corre -
-lates (intelligence, imagination, cognitive load, incuba -
-tion; e.g. Gerwig et al., 2021 ; Kim, 2008 ), (b) 
-background (sex, culture; e.g., Acar et al., 2022 ; 
-Abdulla Alabbasi et al. 2022 ), (c) extracognitive corre -
-lates (stress, mood, intrinsic motivation, personality, 
-curiosity, schizotypy, psychoticism; e.g., Acar & 
-Runco, 2012 ; Byron et al., 2010 ), (d) interventions and 
-education (programs such as Osborne’s Creative 
-Problem Solving or the Purdue Creative Thinking 
-Program, explicit instructions given with DT tests; e.g., 
-DeRosa et al., 2007 ; Itsarangkul et al., 2022 ), and (e) 
-immediate influences (team composition or diversity, 
-climate, role expectations; e.g., Hammond et al., 2011 ; 
-Hunter et al., 2007 ). The modality or domain of crea -
-tivity was not assessed because there were not enough 
-first-order effect sizes across their levels. Publication 
-status as a moderator also could not be assessed, as 
-nearly all of the included meta-analyses were published.
-Tables 2 and 3 present detailed meta-regression and 
-subgroup results. In the meta-regression output, the 
-reference level for creativity as a criterion or predictor 
-is creativity as a criterion; the reference level for study 
-design is comparative; the reference level for types of 
-creativity is creative outcomes; the reference level for 
-types of correlates of creativity is background; and the 
-reference level for the indicator of high-quality meta- 
-analysis is not high. The coefficients for the dummies in 
-Table 2 then represented the difference between the 
-corresponding level and the reference level. The 
-Egger’s test was significant, F (1, 11.1) = 19.5, p = .001, 
-indicating that bias-corrected estimates are necessary. 
-Among all moderators, only the criterion/predictor 
-moderator was statistically significant, F (1, 16.3) =  
-9.43, p = .007. The average second-order effect size for 
-the relationship between creativity and its correlates was 
-Figure 2. Distribution of the meta-analytic effect sizes.
-6
- M. A. RUNCO ET AL.
-
---- PAGE 8 ---
-.12 (95% CI [.05, .19]) for studies where creativity was 
-treated as a criterion and .29 (95% CI [.18, .41]) when 
-considered a predictor. The design of the first-order 
-meta-analyses was also tested as a moderator. No statis -
-tical difference was observed, F (1, 23.1) = 1.48, p = .24. 
-For comparative studies, the second-order meta- 
-analytic effect size was .10 (95% CI [−.03, .22]), and 
-for correlational studies, it was .17 (95% CI [.10, .24]). 
-Finally, the indicator of high-quality meta-analysis was 
-not a significant moderator, F (1, 12.9) = 0.97, p = .34.
-Four categories were created for the type of creativity 
-variable used in first-order meta-analyses: creative out -
-comes, creative process, divergent thinking, and overall 
-creativity. The first-order meta-analysis studies 
-specifically focused on divergent thinking in its distinct 
-form. Creative process, however, included a range of 
-other creativity variables that were theoretically and 
-conceptually classified under it. To capture the effect 
-size for divergent thinking, it was initially analyzed 
-separately, and then integrated into the creative process. 
-In both models, there were no significant differences in 
-effect sizes among the types of creativity, with substan -
-tial overlaps between the confidence intervals. In the 
-first model, where creative process and divergent think -
-ing were analyzed separately, creative process had an 
-effect size of .27 (95% CI [.10, .43] while divergent 
-thinking had an effect size of .14 (95% CI [.04, .24]). 
-Of the types of correlates of creativity, interventions and 
-Table 2. Meta-regression results.
-estimate SE 95% CI p
-Model 1
-Intercept −0.03 0.10 [−0.25, 0.19] 0.75
-Creativity as a Predictor 0.18 0.06 [0.06, 0.30] 0.01
-Correlational 0.07 0.06 [−0.05, 0.20] 0.24
-Creative Process 0.16 0.11 [−0.09, 0.41] 0.19
-Divergent Thinking 0.02 0.07 [−0.11, 0.16] 0.71
-Overall Creativity −0.02 0.07 [−0.16, 0.11] 0.73
-Cognitive Correlates 0.04 0.07 [−0.11, 0.20] 0.55
-Extracognitive Correlates 0.07 0.07 [−0.10, 0.24] 0.37
-Intervention/Education 0.13 0.09 [−0.06, 0.32] 0.16
-Immediate Influence 0.08 0.12 [−0.23, 0.39] 0.56
-High Quality 0.06 0.06 [−0.07, 0.18] 0.34
-Model 2
-Intercept −0.04 0.10 [−0.26, 0.18] 0.69
-Creativity as a Predictor 0.17 0.05 [0.05, 0.28] 0.01
-Correlational 0.09 0.06 [−0.03, 0.20] 0.14
-Creative Process
-a
-0.08 0.08 [−0.08, 0.25] 0.31
-Overall Creativity −0.01 0.07 [−0.15, 0.12] 0.83
-Cognitive Correlates 0.04 0.07 [−0.11, 0.20] 0.55
-Extracognitive Correlates 0.06 0.07 [−0.11, 0.24] 0.42
-Intervention/Education 0.14 0.08 [0.03, 0.32] 0.11
-Immediate Influence 0.10 0.12 [−0.20, 0.40] 0.46
-High Quality 0.03 0.05 [−0.09, 0.15] 0.63
-Note. To capture the effect size for divergent thinking, it was initially analyzed separately in Model 1, and 
-then integrated it with the creative process in Model 2.
-Table 3. Subgroup analysis results.
-estimate 95% CI 95% PI
-Creativity as a Criterion or Predictor 
-Creativity as a Criterion .12 [.05, .19] [−.25, .47]
-Creativity as a Predictor 
-Study Design 
-Comparative 
-Correlational 
-Types of Creativity
-.29  
-.10 
-.17
-[.18, .41]  
-[−.02, .22] 
-[.10, .24]
-[−.10, .61]  
-[−.30, .47] 
-[−.21, .50]
-Creative Outcomes .12 [−.02, .26] [−.28, .49]
-Creative Process .27 [.10, .43] [−.17, .62]
-Divergent Thinking .14 [.04, .24] [−.25, .50]
-Overall Creativity 
-Types of Correlates
-.10 [.01, .19] [−.29, .46]
-Background .07 [−.10, .25] [−.38, .49]
-Cognitive Correlates .12 [.04, .19] [−.27, .47]
-Extracognitive Correlates .14 [.06, .22] [−.24, .49]
-Intervention/Education .20 [.10, .29] [−.20, .54]
-Immediate Influence 
-Indicator of High Quality 
-Not High Quality 
-High Quality
-.15 
-.14 
-.19
-[−.07, .35] 
-[.07, .21] 
-[.07, .32]
-[−.35, .59] 
-[−.24, .48] 
-[−.22, .55]
-CREATIVITY RESEARCH JOURNAL
- 7
-
---- PAGE 9 ---
-educational programs yielded the largest effect size in 
-relation to creativity, with a Pearson’s correlation of .20 
-(95% CI [.10, .29]). Cognitive and extracognitive corre -
-lates yielded statistically similar effects of .12 and .14, 
-with largely overlapping confidence intervals. Finally, 
-background factors and immediate influences showed 
-non-significant effects, as evidenced by 95% confidence 
-intervals that included zero.
-Discussion
-Creative studies have grown a great deal in the past 
-several decades, so much so that not only have there 
-been hundreds of original empirical studies, but also 
-dozens of meta-analyses. The present investigation 
-summarized what had been reported in the previous 
-meta-analyses. Fifty-two first-order meta-analyses satis -
-fied the inclusion criteria and were analyzed.
-Across meta-analyses where creativity was used as 
-a predictor, the average effect size was .29. Across 
-those where creativity was instead the criterion (an out -
-come), the average effect size was .12. This might sug -
-gest that creativity as a predictor is easier to 
-operationalize than creativity as an outcome. That may 
-come as a surprise, given that creativity as an outcome 
-could include actual creative activities and accomplish -
-ments – things which can simply be counted. Of some 
-relevance on this point is that the meta-analytic study 
-design examined as a moderator and did not seem to 
-matter. The quality of the first-order meta-analysis was 
-also not important. Each of these nonsignificant mod -
-erators suggests some generality of the present results. If 
-study design had been statistically significant, for exam -
-ple, it would suggest that the effect sizes for creativity as 
-a criterion or as a predictor only applied some of the 
-time (e.g., in studies that used certain designs). If the 
-quality of the meta-analysis had been statistically sig -
-nificant, it would imply that the effect sizes in the pre -
-sent results only applied some of the time (e.g., only in 
-high-quality meta-analyses). Also relevant is that there 
-was a statistically significant amount of heterogeneity, 
-which implies that the range in the previous meta- 
-analyses was substantial, even though the summarized 
-effect size for creativity as a predictor was large, at .29. 
-Sometimes creativity was a reasonable predictor, but 
-sometimes it was not. The significant heterogeneity is 
-a reminder that in some of the previous meta-analyses, 
-creativity as a predictor was more (or less) strongly 
-associated with criteria than the value of .29 might 
-suggest.
-Standing back, these results might imply that there is 
-a stronger argument for the claim that creativity is 
-important (because of what it can predict) than the 
-claim that creativity can accurately be predicted. It 
-may, however, be best to postpone that conclusion. 
-After all, the variables and measures used in the research 
-where creativity was a predictor are not the same as 
-those used in the research where creativity was 
-a criterion, so it is not a fair comparison. Also, keep in 
-mind that although the analyses reported above exam -
-ined 52 meta-analyses, many influences and outcomes 
-were excluded because they have not yet been examined 
-(or not yet justified a meta-analysis). Conclusions about 
-influences on creativity are similarly limited because not 
-all possible influences on creativity have been studied. 
-Conclusions about predictions from creativity must be 
-qualified by the fact that there was a finite number of 
-criteria used in the previous meta-analyses. This is in 
-addition to the well-known criterion problem which has 
-long plagued the creativity research (Paek & Runco,  
-2018 ; Shapiro, 1970 ).
-The type of creativity targeted in the previous meta- 
-analyses was only moderately important. For studies 
-focusing on divergent thinking, the average effect size 
-was .14. When divergent thinking was included with 
-other measures of the creative process, the effect size 
-was .27. This is no surprise, given that divergent think -
-ing is only one component of the creative process 
-(Basadur et al., 2000 ; Cropley, 2006 , Runco & Chand,  
-1995 ; Zeng et al., 2011 ). Thus, it makes sense that more 
-information is provided when all process variables are 
-examined rather than just one, even if it is divergent 
-thinking. Incidentally, the largest effect size reported by 
-da Costa et al. ( 2015 ) in their second-order meta- 
-analysis, which included both creativity and innovation 
-but focused more on personality than the 
-present second-order analysis, was .31. This is very 
-close to the largest effect size uncovered in our own 
-results.
-Analyses of the correlates of creativity as a moderator 
-indicated that interventions and educational efforts had 
-a modest association with creativity; the second-order 
-meta-analytic Pearson correlation coefficient was .20. 
-There was not much difference between the cognitive 
-and extracognitive correlates of creativity, which were 
-.12 and .14. This is important because it reinforces the 
-idea that creativity cannot be well understood by only 
-taking cognitive factors into account. Motivation, affect, 
-attitudes, mood, and so on should also be recognized 
-(Kaufmann & Vosburg, 2002 ). Background variables 
-(birth order, family size, sex, race diversity) were non -
-significant in the current analyses, with a confidence 
-interval that included zero. This was somewhat surpris -
-ing, given the logic for including culture, sex, and other 
-demographics (cf Csikszentmihalyi, 1988 ; Rudowicz,  
-2003 ). However, as is the case with all of the results 
-8
- M. A. RUNCO ET AL.
-
---- PAGE 10 ---
-reported here, the statistics are averages that are not 
-necessarily indicative of what might be found in any 
-single sample. The prediction interval for background 
-variables was −.38 to .49, indicating that the true effect 
-size could range from a negative correlation to a positive 
-correlation.
-This brings us to limitations of the current research 
-and future directions. One limitation was that the only 
-data that could be used in the SOMA were those pro -
-duced in the earlier meta-analyses. This meant that 
-some of the results suggest important questions in 
-need of research. Future research might follow up on 
-some of the particular findings reported here. One 
-obvious example is the result from the present SOMA 
-that creativity as a predictor had a larger effect size 
-than creativity as an outcome. Could that be 
-a reflection of the operationalization of each? Is it 
-a reflection of the creative process, or a measurement 
-artifact? The present data do not provide an answer but 
-perhaps future research can be designed along these 
-lines. Similarly, the present results indicated that crea -
-tive processes had a larger effect size than divergent 
-thinking. Future research might follow up on that as 
-well in an attempt to explain the discrepancy. In addi -
-tion to research like this, additional second-order 
-meta-analyses will be warranted as more and more 
-primary meta-analyses on creativity are published. 
-These will be interesting, especially given what was 
-said above about the limitations of the present 
-research. The current results are not indicative of all 
-measures (predictors and criteria) that could be used 
-when doing research on creativity. This research was 
-also limited in that only certain a priori categories were 
-used as moderators and correlates. Those analyzed 
-(e.g., background variables, cognitive vs. meta- 
-cognitive processes, and educational interventions) fit 
-well with current theory and with the previous meta- 
-analyses, but they were chosen a priori, and other 
-categories could have been hypothesized. Future 
-research might be able to use as of yet unreported 
-meta-analyses on cultural differences or domain differ -
-ences and other important issues. Undoubtedly, other 
-categories will be used in future research when 
-another second-order meta-analysis is justified by 
-further advancements in the field.
-Disclosure statement
-No potential conflict of interest was reported by the author(s).
-ORCID
-Mark A. Runco 
- http://orcid.org/0000-0002-5043-7900
+, t, or F values.
+3.2.2. Homogeneity test
+We computed Cochrane's Q and I
+2 
+to test for heterogeneity in the effect sizes across studies ( Huedo-Medina et al., 2006 ). Substantial 
+heterogeneity (significant Q; I
+2 
+> 75) requires random-effects models and moderation tests ( Lipsey & Wilson, 2001 ).
+3.2.3. Publication bias
+To evaluate publication bias, we made a funnel plot ( Lin & Chu, 2018 ) and ran Egger et al. ’ s (1997) regression. A sharply 
+asymmetric funnel plot or a significant, non-zero regression intercept indicates publication bias.
+3.2.4. Data analysis
+We used the meta , dmetar and metafor packages in R (version 2022.02.0 + 443) for our meta-analysis ( Schwarzer et al., 2015 ). A 
+three-level meta-analytic variance components model ( Assink & Wibbelink, 2016 ) showed no significant variance between effect sizes 
+within studies (level 2), so we used the traditional two-level meta-analysis. Two random-effects models calculated the effect sizes and 
+the homogeneity test, followed by moderator tests. Wald tests determined whether differences in effect sizes were significant ( Hansen, 
+2022 ).
+4. Results
+This meta-analysis examined 72 effect sizes from 66 articles of 4824 participants in 19 countries from 2000 to 2024. Each study's 
+sample size ranged from 20 to 410 (mean = 67).
+4.1. Homogeneity test and effect size
+The significant Q statistic (p < .001) and large I
+2 
+(84%) indicate substantial heterogeneity. So, we used a random-effects model. It 
+showed a positive link between graphic organizer and higher-order thinking, supporting hypothesis H-1 (g = 0.778, k = 72, 95% 
+CI = [0.642, 0.915]) (see Table 2 ).
+4.2. Assessment of publication bias
+The distribution of the 72 effect sizes in the funnel plot was mostly symmetric (see Fig. 4 ), and Egger's regression (see Table 3 ) did 
+H. Lei et al.                                                                                                                                                                                                             Educational Research Review 52 (2026) 100822 
+6 
+=== PAGE 7 ===
+Table 1 
+Studies included in the meta-analysis.
+Author (Year) N Hedge's g SE GDP per 
+capita_Z
+Academic 
+Section
+HOT 
+Component
+HOT 
+Type
+Subject Intervention 
+Duration
+GO 
+type
+Gender Quality 
+Assessment
+Achor et al. (2024) 175 2.158 0.200   0.923 S C C STEM NA other 0.51 24
+Akinoglu (2013) 60 0.834 0.266   0.470 P S C STEM 4-12 Con NA 22
+Alfayoumi (2019) 40 0.448 0.224   0.805 U D C STEM NA Con NA 23
+Atay & Karabacak (2012) 80 1.237 0.242   0.470 U D C STEM ≤ 4 Con NA 22
+Ayal et al. (2016) 130 1.215 0.190   0.796 S S C STEM > 12 Mnd NA 19
+Bilik et al. (2020) 410 0.172 0.099   0.470 U D C STEM NA Con 0.23 23
+Bin et al. (2022) 38 1.837 0.272   0.537 U D D NA ≤ 4 Mnd NA 23
+Bixler et al. (2015) 27 0.250 0.269 1.701 U S C STEM ≤ 4 Con NA 22
+Boyadjian-Samawi (2006) -1 77 0.153 0.229 1.701 U S C STEM > 12 Con 0.12 24
+Boyadjian-Samawi (2006) -2 77 0.286 0.230 1.701 U D C STEM > 12 Con 0.12 24
+Carvalho et al. (2020) -1 21 0.148 0.424   0.328 U S C STEM NA Con NA 20
+Carvalho et al. (2020) -2 56 0.225 0.265   0.328 U S C STEM NA Con NA 20
+Carwie (2009) 98   0.020 0.203 1.701 U S C STEM 4-12 Arg 0.19 24
+Chen & Hwang (2020) 37 0.346 0.232   0.537 U D C HSS 4-12 Con NA 26
+Chen (2020) -1 30 0.900 0.268   0.537 S D D HSS > 12 Mnd 0.17 26
+Chen (2020) -2 30 1.848 0.306   0.537 S C D HSS > 12 Mnd 0.17 26
+Chen et al. (2011) 95 0.350 0.205   0.537 U S C STEM > 12 Con NA 26
+Chiu & Hwang (2024) -1 48 1.095 0.305   0.537 U D C NA 4-12 Mnd NA 28
+Chiu & Hwang (2024) -2 48 1.026 0.303   0.537 U D D NA 4-12 Mnd NA 28
+Crudele & Raffaghelli (2023) 103 1.066 0.148 0.294 U C C NA ≤ 4 Arg NA 28
+Cullen et al. (2018) 105 0.738 0.142 1.701 U C C NA 4-12 Arg NA 18
+D'Antoni et al. (2010) 131 0.194 0.174 1.701 U S C STEM ≤ 4 Mnd 0.47 24
+Dwyer et al. (2011) 53 0.586 0.279 2.365 U S C NA 4-12 Arg NA 27
+Dwyer et al. (2012) 42 0.883 0.227 2.365 U C C NA 4-12 Arg NA 28
+Eggert et al. (2017) 20 0.170 0.311 0.775 S C C STEM ≤ 4 Con NA 27
+Elasrag & Elsabagh (2020) 100 1.145 0.152 0.135 U D C STEM NA Mnd 0.2 24
+Esfandiari et al. (2021) 30 0.569 0.260   0.800 NA S C HSS NA Arg 1 26
+Esquillo (2023) 56 2.043 0.327   0.825 S D C STEM NA Arg NA 25
+Hazaymeh & Alomery (2022) 42 0.986 0.321 0.577 U S C HSS NA Mnd NA 20
+Heglund (2015) 18 0.246 0.327 1.701 S S C STEM 4-12 Arg 0.94 27
+Hu & Hwang (2024) -1 56 0.478 0.268   0.537 U D C NA ≤ 4 Con NA 24
+Hu & Hwang (2024) -2 56 1.151 0.285   0.537 U D D NA ≤ 4 Con NA 24
+Huang et al. (2017) 57 1.056 0.199   0.537 P S C NA > 12 Con 0.46 26
+Huang et al. (2012) -1 134 0.932 0.181   0.537 U D C STEM > 12 Con NA 27
+Huang et al. (2012) -2 134 0.507 0.175   0.537 U S C STEM > 12 Con NA 27
+Hwang et al. (2021) 40 0.152 0.311   0.537 S D C STEM 4-12 Con NA 25
+Israel et al. (2020) 75 0.224 0.156 1.701 U S C STEM 4-12 Mnd 0.18 21
+Kaddoura et al. (2016) 83 0.824 0.227 1.701 U S C STEM NA Con 0.2 21
+Kamble & Tembe (2013) 42 0.583 0.221   0.864 U C D STEM 4-12 Con NA 22
+Kharismayuni et al. (2021) 50 0.666 0.286   0.796 S S NA STEM NA other NA 21
+Khodadady & Ghanizadeh 
+(2011)
+36 1.150 0.353   0.800 U S C HSS 4-12 Con 0.14 26
+Khrais & Saleh (2020) 58 0.748 0.191   0.805 U C C STEM 4-12 Con 0.3 19
+Laelasari & Anggraeni (2017) 74 1.721 0.272   0.796 S C D STEM ≤ 4 other NA 17
+Lazuardini et al. (2019) 33 1.509 0.276   0.796 S S D STEM NA Mnd NA 24
+Lee et al. (2013) 94 0.318 0.206   0.537 U S C STEM > 12 Con 0 24
+Maldonado (2014) 40 0.180 0.222 1.701 U S C STEM > 12 Con NA 25
+Maryam et al. (2021) 100 0.594 0.205   0.800 U S C STEM > 12 Con 0.52 25
+( continued on next page )
+H. Lei et al.                                                                                                                                                                                                             Educational Research Review 52 (2026) 100822 
+7 
+=== PAGE 8 ===
+Table 1 ( continued )
+Author (Year) N Hedge's g SE GDP per 
+capita_Z 
+Academic 
+Section 
+HOT 
+Component 
+HOT 
+Type 
+Subject Intervention 
+Duration 
+GO 
+type 
+Gender Quality 
+Assessment
+Min et al. (2023) 60 0.794 0.268   0.537 S S C HSS > 12 other NA 25
+Mohamed El-Sayed et al. (2023) 156 2.348 0.208   0.845 U D C STEM NA Mnd 0 25
+Mutiara et al. (2021) 59 0.430 0.260   0.796 S S C STEM NA Mnd NA 17
+Ngajie et al. (2020) 39 0.443 0.227   0.537 U C C HSS 4-12 Arg 0.05 26
+Nirmala & Shakuntala (2011) 84 0.172 0.217   0.864 U S C STEM 4-12 Con NA 18
+Pinandito et al. (2023) 54 1.177 0.208   0.796 U S NA STEM ≤ 4 Con NA 22
+Ristanto et al. (2022) 33 1.064 0.260   0.796 S C C STEM NA Arg NA 25
+Silva et al. (2022) 33 0.697 0.354   0.057 U C NA NA > 12 Con 0.15 25
+Simper et al. (2016) 28 0.112 0.367 0.728 U C D HSS ≤ 4 Con 0.11 20
+Su & Long (2021) 72   0.613 0.239   0.537 U C C NA ≤ 4 Con 0.29 26
+Su (2018) 28 0.887 0.277   0.537 U NA C STEM NA Con NA 24
+Sun et al. (2019) 49 2.132 0.252   0.537 S C D STEM NA other 0.57 24
+Tian et al. (2023) 49 0.991 0.213   0.537 U D C HSS ≤ 4 Con NA 19
+Turkestani et al. (2024) 79 0.464 0.226 0.135 U S C STEM > 12 Mnd NA 22
+Twyman (2003) 50 0.781 0.289 1.701 S C D HSS 4-12 Con 0.5 25
+Uçar & Demiraslan Çevik (2020) 43 0.825 0.313   0.470 U C C STEM 4-12 Arg NA 28
+van Boxtel & Veerman (2001) 38 0.908 0.335 1.158 S C C STEM ≤ 4 Con NA 23
+Wang & Liao (2014) 41 1.373 0.342   0.537 U D C HSS 4-12 Con 0.46 26
+Wei et al. (2019) 28 1.222 0.288 1.701 P C C HSS > 12 other 0.46 26
+Wheeler & Collins (2003) 76 0.112 0.230 1.701 U S C STEM 4-12 Con 0.05 22
+Widiana & Jampel (2016) 20 1.271 0.341   0.796 P C D STEM NA Mnd NA 24
+Wu & Wu (2020) 64 0.382 0.294   0.537 U D C STEM NA Mnd 0.03 27
+Wu et al. (2016) 52 1.121 0.177   0.537 U C C STEM ≤ 4 other NA 24
+Yang & Yin (2015) 90 0.158 0.209   0.537 P C D STEM 4-12 other NA 18
+Yilmaz-Na & S ¨onmez (2023) 60 1.289 0.281   0.470 U D D HSS > 12 Arg NA 27
+GO type: argument mapping = Arg, cognitive mapping = Cog, mind mapping = Mnd, other.
+Measure of HOT: disposition = D, skills = S, cognitive process = C.
+HOT type: convergent = C, divergent = D.
+Subject: humanity and social studies = HSS, STEM.
+Grade level: primary = P, secondary = S, university = U.
+Study duration in weeks: ≤ 4, 4-12, > 12.
+Gender: male/all.
+H. Lei et al.                                                                                                                                                                                                             Educational Research Review 52 (2026) 100822 
+8 
+=== PAGE 9 ===
+not have a significant intercept (t = 1.841, p = .070). Hence, we have no evidence of publication bias.
+4.3. Moderator analysis
+Higher-order thinking measures, graphic organizer measures, and demographics moderated the positive link between graphic 
+organizer and higher-order thinking (see Tables 4 and 5 ).
+4.3.1. Higher-order thinking and graphic organizer measures
+Higher-order thinking components moderated the GO-HOT link (Q
+BE 
+= 8.66, p < .05). This link was strongest for dispositions 
+(g = 0.945, 95% CI = [0.670 1.221]) and for cognitive process (g = 0.912, 95% CI = [0.631, 1.194]), and much smaller for skills 
+(g = 0.560, 95% CI = [0.411, 0.708]). Wald tests showed significant differences between the effect size for skills and for both cognitive 
+processes (W = 137.48; p < .001) and dispositions (W = 53.47; p < .001), supporting H-2 . The effects for dispositions and skills did not 
+differ significantly (W = 0.39; p = .533).
+Higher-order thinking type also moderated the GO-HOT link (Q
+BE 
+= 7.07, p < .01). The effect is stronger in divergent thinking 
+(g = 1.167, 95%CI = [0.841, 1.493]) than convergent thinking (g = 0.680, 95%CI = [0.535, 0.825]). Hence, this result support H-3 .
+Graphic organizer type moderated the GO-HOT link (Q
+BE 
+= 9.13, p < .05). This link was largest for mind mapping (g = 1.041, 95% 
+CI = [0.704, 1.379]), tapering for argument mapping (g = 0.798, 95% CI = [0.469, 1.237]), and concept mapping (g = 0.548, 95% 
+CI = [0.704, 1.379]). All effect size differences were significant (W
+mind, argument 
+= 12.52, p < .001; W
+argument, concept 
+= 19.25, p < .001; 
+W
+mind, concept 
+= 70.21, p < .001), supporting H-4 .
+4.3.2. Demographics
+GDP per capita, grade level, and publication year showed significant moderation. The positive link was larger in countries with 
+higher GDP per capita (Q 
+(1, 70) 
+= 9.43, p < .01), supporting H-5 .
+Grade level also moderated the GO-HOT link (Q
+BE 
+= 6.61, p < .05). The link was strongest among secondary students (g = 1.113, 
+95% CI = [0.759, 1.467]), weaker for primary school students (g = 0.877, 95% CI = [0.303, 1.451]) and weakest for university 
+Table 2 
+Random-model of the effect of graphic organizer on students ’ higher order thinking.
+k g 95%-CI t p-value Test of heterogeneity
+Q p-value I
+2 
+(%)
+Graphic organizer 72 0.778 [0.642, 0.915] 11.36 < 0.001 443.56 < 0.001 84.0
+Fig. 4. Funnel plot of the studies included in the meta-analysis.
+H. Lei et al.                                                                                                                                                                                                             Educational Research Review 52 (2026) 100822 
+9 
+=== PAGE 10 ===
+students (g = 0.659, 95% CI = [0.509, 0.808]). All effect size differences were significant (W
+secondary, primary 
+= 6.10, p = .014; W
+primary, 
+university 
+= 60.04, p < .001; W
+secondary, university 
+= 63.77, p < .001), supporting H-6 .
+The positive GO-HOT link was larger in later publication years, supporting H-7 (Q = 7.01, p < .05). Gender, academic subject, and 
+study duration did not moderate the GO-HOT link (Q
+gender 
+= 0.36, p = .553; Q
+subject 
+= 1.35, p = .246; Q
+duration 
+= 2.33, p = .313).
+5. Discussion
+Unlike single studies with small samples in single contexts, this meta-analysis of 72 effect sizes from 66 studies of 4824 students in 
+19 countries showed a positive link between graphic organizer and higher-order thinking. This result extends those of past meta- 
+analyses showing that graphic organizer is linked to greater learning outcomes ( Dexter et al., 2011 ), especially learning language 
+( Kansızo ˘glu, 2017 ). Unlike mono-method, single-site studies that did not test for moderators across interventions or contexts, this 
+meta-analysis showed that higher-order thinking component, higher-order thinking type, graphic organizer type, GDP per capita, 
+Table 3 
+Egger's test for studies included in the meta-analysis.
+Intercept SE 95% CI t p
+Graphic organizer 1.965 1.067 [-0.164 4.094] 1.841 0.070
+Table 4 
+Moderators of Graphic Organizers and Higher Order Thinking: Univariate analyses (categorical variables).
+Group Moderator Between group effect 
+(Qbet)
+k g SE 95% CI Heterogeneity test within groups 
+(Q
+w
+)
+I
+2 
+(%)
+Higher HOT component 8.66* ​ ​ ​ ​ 443.23*** ​
+Order Disposition ​ 20 0.945 0.140 [0.670, 
+1.221]
+​ 88.7
+Thinking Skill ​ 29 0.560 0.076 [0.411, 
+0.708]
+​ 67.8
+(HOT) Process ​ 22 0.912 0.144 [0.631, 
+1.194]
+​ 86.7
+​ HOT type 7.07** ​ ​ ​ ​ 438.78*** ​
+​ Convergent ​ 55 0.680 0.074 [0.535, 
+0.825]
+​ 83.6
+​ Divergent ​ 14 1.167 0.166 [0.841, 
+1.493]
+​ 82.2
+Graphic GO type 9.13* ​ ​ ​ ​ 332.03*** ​
+Organizer Argument mapping ​ 12 0.798 0.150 [0.469, 
+1.237]
+​ 75.6
+(GO) Concept mapping ​ 36 0.548 0.071 [0.403, 
+0.692]
+​ 69.6
+​ Mind mapping ​ 16 1.041 0.158 [0.704, 
+1.379]
+​ 88.0
+Demographics Grade level 6.61* ​ ​ ​ ​ 443.19*** ​
+​ Primary ​ 5 0.877 0.207 [0.303, 
+1.451]
+​ 73.5
+​ Secondary ​ 17 1.113 0.167 [0.759, 
+1.467]
+​ 84.4
+​ University ​ 49 0.659 0.074 [0.509, 
+0.808]
+​ 81.7
+Other Subject 1.35 (p = .246) ​ ​ ​ ​ 380.57*** ​
+​ Humanities ​ 14 0.903 0.120 [0.645, 
+1.161]
+​ 58.9
+​ STEM ​ 47 0.728 0.091 [0.545, 
+0.912]
+​ 86.9
+​ Study duration 2.33 (p = .313) ​ ​ ​ ​ 215.35*** ​
+​ Less than 4 weeks ​ 15 0.791 0.172 [0.421, 
+1.160]
+​ 56.6
+​ 4 weeks to 12 
+weeks
+​ 21 0.563 0.084 [0.389, 
+0.738]
+​ 72.4
+​ More than 12 
+weeks
+​ 17 0.735 0.111 [0.500, 
+0.971]
+​ 86.0
+*p < .05; **p < .01; ***p < .001.
+H. Lei et al.                                                                                                                                                                                                             Educational Research Review 52 (2026) 100822 
+10 
+=== PAGE 11 ===
+grade level and publication year moderated the link between graphic organizer and higher-order thinking.
+5.1. Overall positive GO-HOT link
+The positive link between graphic organizer and higher-order thinking supports hypothesis H-1 . This result fits the view that 
+graphic organizers use spatial metaphors ( Lakoff & Johnson, 2024 ) to select key ideas/relations and organize them, which reduces the 
+cognitive load ( Mayer, 2002 ) of lower-order thinking and lets more brain processes engage in higher-order thinking ( Eppler & 
+Burkhard, 2008 ; Lee, 2012 ). This result also aligns with past studies showing how teachers used graphic organizers to help their 
+students learn new concepts ( Akinsanya & Williams, 2004 ; Hay, 2007 ; Romero García et al., 2017 ) and understand accompanying texts 
+( Imsa-ard, 2022 ; Meo, 2008 ; Roman et al., 2016 ).
+5.2. Higher-order thinking
+The GO-HOT link was much stronger for higher-order thinking dispositions and cognitive processes than for higher-order thinking 
+outcomes/skills, supporting H-2 . This result coheres with the idea that higher-order thinking outcomes require both dispositions and 
+cognitive processes, whereas neither of them require higher-order thinking outcomes ( Thamrin & Widodo, 2019 ; Tikhonova & 
+Kudinova, 2015 ). Hence, this moderation result highlights the importance of distinguishing higher-order thinking outcomes from 
+dispositions and cognitive processes in theoretical models, empirical studies, and meta-analyses. Whether higher-order thinking 
+dispositions and cognitive processes largely co-occur or not requires future studies that capture both phenomena.
+Furthermore, GO-HOT link was larger for divergent higher-order thinking than convergent higher-order thinking, supporting 
+Hypothesis 3. This result fits the view that graphic organizers help organize ideas to reduce cognitive load, especially the need for 
+lower order thinking skills and effort for convergent thinking ( Ezzeldin, 2017 ). This frees up brain resources for divergent thinking 
+( Eppler & Burkhard, 2008 ), such as creation of new ideas ( Leeds et al., 2019 ).
+5.3. Graphic organizer
+Unlike past studies that examined only one type of graphic organizer (e.g., Shi et al., 2023 ), this meta-analysis showed the relative 
+effects of different graphic organizers. Specifically, the GO-HOT link was largest for mind maps, much smaller for argument maps, and 
+smallest for concept maps, supporting H-4 . These results offer evidence to fit the view that the simpler mind-map organization sub -
+stantially boosts relations among ideas during brainstorming ( Davies, 2011 ), compared to the more demanding, complex argument 
+maps and concept maps ( Shi et al., 2023 ). These results also align with those of past studies showing that students often learn more 
+using mind maps rather than concept maps ( Abbas et al., 2018 ; Redhana et al., 2021 ).
+Furthermore, the larger GO-HOT link for argument maps than concept maps coheres with the view that the former is simpler and 
+easier to use ( Davies, 2011 ). Argument maps typically have a linear, logical or temporal structure, so they have simpler organizations 
+than concept maps, which can have any structure and thus be unwieldy ( Davies, 2011 ). This result is also consistent with those of past 
+studies showing that students learn more science using argument maps than concept maps ( Kabatas ¸ Memis ¸ & Karakus ¸ , 2021 ).
+5.4. Demographics
+Extending past studies, this meta-analysis showed that country, publication year, and age moderated the GO-HOT link. Studies in 
+richer countries or later years showed larger GO-HOT links, supporting H-5 and H-7 . These results fit the views that richer countries 
+spend more money to create better graphic organizers or train better teachers to use them more effectively to help their students learn 
+more ( Nelson, 2005 ). Likewise, later years often bring (a) more advanced technology ( Fraillon et al., 2014 ) for better graphic orga -
+nizers and (b) better trained teachers ( Compayre & Payne, 2015 ) who can better use them to improve their students ’ learning.
+Table 5 
+Moderators of Graphic Organizers and Higher Order Thinking: Univariate analyses for continuous variables (random-effects model).
+Parameter Estimate SE 95%CI for B
+Gender β 0 0.643 0.208 [0.216, 1.069]
+β 1 0.325 0.540 [-0.784, 1.434]
+F (df1 = 1, df2 = 27) = 0.362 (p = .553)
+GDP per capita β 0 0.778 0.065 [0.649, 0.907]
+β 1 0.197 0.064 [0.325, 0.069]
+F (df1 = 1, df2 = 70) = 9.430**
+Publish year β 0   62.977 24.086 [-111.016,   14.938]
+β 1 0.032 0.012 [0.008, 0.055]
+F (df1 = 1, df2 = 70) = 7.006*
+*p < .05; **p < .01; ***p < .001.
+H. Lei et al.                                                                                                                                                                                                             Educational Research Review 52 (2026) 100822 
+11 
+=== PAGE 12 ===
+Extending past studies, this meta-analysis showed that the GO-HOT link was strongest among secondary school students, much 
+weaker for primary school students, and weakest among university students, supporting H-6 . This result not only aligns with that of a 
+meta-analysis showing that concept maps benefit secondary students more than university students ( Nesbit & Adesope, 2006 ) but also 
+extends it by showing the relative effect size of primary school students. The weakest GO-HOT link among university students fits the 
+view that their strong representation skills let them create their own graphic organizers, so they do not need an external graphic 
+organizer for their higher-order thinking as much as younger students do. The results for the younger students cohere with the view 
+that compared to primary school students, secondary school students use graphic organizers more effectively. Specifically, they are less 
+distracted by unimportant graphic organizer details ( seductive-details effect , Rowland-Bryant et al., 2009 ) and their stronger ( meta- ) 
+representational skills lets them use graphic organizers more effectively than primary school students ( diSessa and Sherin, 2000 ; 
+Hillmann, 1993 ; Pande & Chandrasekharan, 2017 ).
+Gender, academic subject, and study duration did not moderate the GO-HOT link. These non-significant results are consistent with 
+those of earlier meta-analyses ( Barta et al., 2022 ; Nesbit & Adesope, 2006 ; Shi et al., 2023 ).
+5.5. Implications
+These results have implications for theory, methodology and practice. For theory, these results show that any comprehensive 
+theory of higher-order thinking must include available tools (e.g., graphic organizer), dispositions, cognitive processes, and outcomes/ 
+skills within an ecological model with individual ages, country contexts, and time. Similarly, a rigorous theory of graphic organizers 
+must distinguish among its different types (e.g., mind map vs. argument map vs. concept map), their affordances, disadvantages, and 
+conditions of use.
+Methodologically, researchers must separately measure higher-order thinking dispositions, cognitive processes and skills. Also, 
+they can test the degree to which higher-order thinking dispositions co-occur with cognitive processes. As these meta-analysis results 
+showed differences across student ages, regions, and years, researchers should consider how the local ecology might affect their study 
+and thereby design it accordingly.
+Practically, this meta-analysis suggests that students can use graphic organizers to boost their higher-order thinking. Hence, 
+teachers can use these results to inform their use of graphic organizers. As graphic organizers raise higher-order thinking dispositions 
+and cognitive processes much more than higher-order thinking outcomes/skills, teachers can scaffold their students to help them 
+improve their higher-order thinking skills. As graphic organizers were more effective for secondary school students and in richer 
+countries, educators can support graphic organizer use for them first, before bringing them to other students. As the GO-HOT link was 
+stronger in later years, students might benefit even more from using graphic organizers in the future.
+6. Limitations and implications
+This meta-analysis has three primary limitations: studies of few types of graphic organizers, sparse details in the original studies, 
+measures, and language of publication. As we found studies of only three types of graphic organizers and higher-order thinking, these 
+results might not apply to other types of graphic organizers (e.g., fishbone diagrams). Hence, future primary studies can test whether 
+other types of graphic organizers affect higher-order thinking, which will flow into more comprehensive meta-analyses later.
+Second, sparse details in the primary studies preclude many moderation tests. For example, many studies lacked details about the 
+students (e.g., prior achievement) and their teachers (e.g., years of experience), so future studies should report this information, which 
+can enrich future meta-analyses.
+Third, these primary studies used (a) participants ’ Likert-type scales to measure their higher-order thinking dispositions, (b) their 
+writing to measure their higher-order thinking cognitive processes, and (c) their multiple-choice test responses to measure their 
+higher-order thinking skills. So, these different methodologies might affect the study results. Hence, future studies can apply the same 
+methodology or multiple methods to measure all outcomes. Also, primary studies mostly used three graphic organizers: mind maps, 
+concept maps, or argument maps. As future primary studies examine flowcharts, Venn diagrams, fishbone diagrams and other graphic 
+organizers, future meta-analyses can test whether these effects hold for different graphic organizers.
+Lastly, this meta-analysis only included English publications. Authors of future meta-analysis who can read other languages can 
+include primary studies not published in English.
+7. Conclusion
+This meta-analysis of 72 effect sizes from 66 studies of 4824 students from 19 countries showed that graphic organizers were 
+positively linked to higher-order thinking (g = 0.778). This link was stronger for higher-order thinking dispositions and conceptual 
+processes than for higher-order thinking skills; for mind maps, tapering for argument maps, and concept maps; for divergent higher- 
+order thinking than convergent higher-order thinking; in counties with higher GDP per capita, for secondary school students, tapering 
+for primary school students and university students; and in later publication years.
+Declaration of authors ’ individual contributions
+Hao Lei made substantial contributions to the conception or design of the work; AND acquired, analyzed and interpreted data for 
+the work; AND drafted the work and revised it critically for important intellectual content.
+H. Lei et al.                                                                                                                                                                                                             Educational Research Review 52 (2026) 100822 
+12 
+=== PAGE 13 ===
+Yuxin Ding made substantial contributions to the conception or design of the work; AND acquired, analyzed and interpreted data 
+for the work; AND drafted the work and revised it critically for important intellectual content.
+Ming Chiu revised it critically for important intellectual content; AND provided polishing services for English manuscript; AND 
+approved the final version to be published.
+All authors read and approved the final manuscript.
+Author statement
+Hao Lei: I have made substantial contributions to the conception and design of the work; AND acquired, analyzed and interpreted 
+data for the work; AND revised the manuscript critically for important intellectual content.
+I agree to be accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the 
+work are appropriately investigated and resolved.
+Yuxin Ding: I have made substantial contributions to the conception or design of the work; AND acquired, analyzed and interpreted 
+data for the work; AND drafted the work and revised it critically for important intellectual content.
+I agree to be accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the 
+work are appropriately investigated and resolved.
+Ming Ming Chiu: I have revised it critically for important intellectual content; AND provided polishing services for English 
+manuscript; AND approved the final version to be published.
+All persons who have made substantial contributions to the work reported in the manuscript, including those who provided editing 
+and writing assistance but who are not authors, are named in the Acknowledgments section of the manuscript and have given their 
+written permission to be named. If the manuscript does not include Acknowledgments, it is because the authors have not received 
+substantial contributions from non-authors.
+Funding
+Key Project of the National Social Science Fund for Education of China (Grant Number: APA240021).
+Declaration of competing interests
+The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be 
+construed as a potential conflict of interest.
+Acknowledgements
+All authors read and approved the manuscript.
+Appendix A. Supplementary data
+Supplementary data to this article can be found online at https://doi.org/10.1016/j.edurev.2026.100822 .
+Data availability
+Data will be made available on request.
 References
-References marked with an asterisk indicate studies included 
-in the meta-analysis.
-*Abdulla, A. M., Paek, S. H., Cramond, B., & Runco, M. A. 
-(2020). Problem finding and creativity: A meta-analytic 
-review. Psychology of Aesthetics, Creativity, and the Arts , 
-14 (1), 3–14. https://doi.org/10.1037/aca0000194  
-*Abdulla Alabbasi, A. M., Tadik, H., Acar, S., & Runco, M. A. 
-(2021). Birth order and divergent thinking: A 
-meta-analysis. Creativity Research Journal , 33 (4), 331–346.  
-https://doi.org/10.1080/10400419.2021.1913559  
-Abdulla Alabbasi, A. M., Thompson, T. L., Runco, M. A., 
-Alansari, L. A., & Ayoub, A. E. A. ( 2022 ). Gender differ -
-ences in creative potential: A meta-analysis of mean differ -
-ences and variability. Psychology of Aesthetics, Creativity, 
-and the Arts , 19 (1), 87–100. https://doi.org/10.1037/ 
-aca0000506  
-Acar, S., Ogurlu, U., & Runco, M. A. ( 2020 ). Meta-analytic 
-research on creativity: Challenges and solutions. In 
-M. Stierand & V. Dorfler (Eds.), Handbook of research 
-methods on creativity (pp. 244–258). Edward Elgar 
-Publishers. https://doi.org/10.4337/9781786439659.00028  
-Acar, S., & Runco, M. A. ( 2012 ). Psychoticism and creativity: 
-A meta-analytic review. Psychology of Aesthetics, Creativity, 
-and the Arts , 6 (4), 341–350. https://doi.org/10.1037/ 
-a0027497  
-Acar, S., Runco, M. A., & Park, H. ( 2020 ). What should people 
-be told when they take a divergent thinking test? A 
-meta-analytic review of explicit instructions for divergent 
-thinking. Psychology of Aesthetics, Creativity, and the Arts , 
-14 (1), 39–49. https://doi.org/10.1037/aca0000256  
-*Acar, S., & Sen, S. (2013). A multilevel meta-analysis of the 
-relationship between creativity and schizotypy. Psychology 
-of Aesthetics, Creativity, and the Arts , 7 (3), 214–228. https:// 
-doi.org/10.1037/a0031975  
-Acar, S., Tadik, H., Uysal, R., Myers, D., & Inetas, B. ( 2022 ). 
-Socio-economic status and creativity: A meta analysis. 
-Journal of Creative Behavior , 57 (1), 138–172. https://doi. 
-org/10.1002/jocb.568  
-*Anderson, N., Potočnik, K., & Zhou, J. (2014). Innovation 
-and creativity in organizations: A state-of-the-science 
-review, prospective commentary, and guiding framework. 
-Journal of Management , 40 (5), 1297–1333. https://doi.org/ 
-10.1177/0149206314527128  
-*Ayutthaya, T. I. N., & Damrongpanit, S. (2022). A meta- 
-analysis of instructional management model for students’ 
-creative thinking development: An application of propen -
-sity score matching. European Journal of Educational 
-Research , 11 (4), 2429–2444. https://doi.org/10.12973/eu- 
-jer.11.4.2429  
-*Baas, M., De Dreu, C. K., & Nijstad, B. A. (2008). A 
-meta-analysis of 25 years of mood-creativity research: 
-Hedonic tone, activation, or regulatory focus? 
-Psychological Bulletin , 134 (6), 779–806. https://doi.org/10. 
-1037/a0012815  
-Basadur, M., Runco, M. A., & Vega, L. A. ( 2000 ). 
-Understanding how creative thinking skills, attitudes, and 
-behaviors work together: A causal process model. Journal of 
-Creative Behavior , 34 (2), 77–100. https://doi.org/10.1002/j. 
-2162-6057.2000.tb01203.x  
-CREATIVITY RESEARCH JOURNAL
- 9
-
---- PAGE 11 ---
-Beghetto, R., & van Geffen, B. ( 2024 ). Creativity assessment in 
-schools and classrooms. In M. A. Runco & S. Acar (Eds.), 
-Handbook of creativity assessment (pp. 234–252). Edward 
-Elgar.
-*Bell, S. T., Villado, A. J., Lukasik, M. A., Belau, L., & 
-Briggs, A. L. (2011). Getting specific about demographic 
-diversity variable and team performance relationships: A 
-meta-analysis. Journal of Management , 37 (3), 709–743.  
-https://doi.org/10.1177/0149206310365001  
-*Bharadwaj, S., & Menon, A. (2000). Making innovation hap -
-pen in organizations: Individual creativity mechanisms, 
-organizational creativity mechanisms or both? Journal of 
-Product Innovation Management , 17 (6), 424–434. https:// 
-doi.org/10.1111/1540-5885.1760424  
-Bicer, A., Chamberlin, S., & Perihan, C. ( 2021 ). A 
-meta-analysis of the relationship between mathematics 
-achievement and creativity. Journal of Creative Behavior , 
-55 (3), 569–590. https://doi.org/10.1002/jocb.474  
-Boccia, M., Piccardi, L., Palermo, L., Nori, R., & Palmiero, M. 
-( 2015 ). Where do bright ideas occur in our brain? 
-Meta-analytic evidence from neuroimaging studies of 
-domain-specific creativity. Frontiers in Psychology , 6 , 
-1195. https://doi.org/10.3389/fpsyg.2015.01195  
-Borenstein, M., Hedges, L. V., Higgins, J. P. T., & 
-Rothstein, H. R. ( 2009 ). Introduction to meta-analysis . 
-Wiley. https://doi.org/10.1002/9780470743386  
-*Brown, S., & Kim, E. (2021). The neural basis of creative 
-production: A cross-modal ALE meta-analysis. Open 
-Psychology , 3 (1), 123–152. https://doi.org/10.1515/psych- 
-2020-0114  
-Byron, K., Khazanchi, S., & Nazarian, D. ( 2010 ). The relation -
-ship between stressors and creativity: A meta-analysis 
-examining competing theoretical models. Journal of 
-Applied Psychology , 95 (1), 201–212. https://doi.org/10. 
-1037/a0017868  
-*Carson, S. H., Peterson, J. B., & Higgins, D. M. (2003). 
-Decreased latent inhibition is associated with increased 
-creative achievement in high-functioning individuals. 
-Journal of Personality & Social Psychology , 85 (3), 499–506.  
-https://doi.org/10.1037/0022-3514.85.3.499  
-*Chen, Q., Ding, K., Yang, Y., Yu, R., Kenett, Y., & Qiu, J. 
-(2022). A meta-analysis of the effects of non-invasive brain 
-stimulation on creative thinking. PsyArxiv . https://doi.org/ 
-10.31234/osf.io/nza2f  
-*Colangelo, R. F. (1990). A meta-analysis and confirmatory 
-factor analysis of the relationship between intelligence and 
-divergent thinking-based creative abilities (publication 
-No. 9020293 [Doctoral dissertation, The George 
-Washington University.] ProQuest Dissertations & Theses
-Cropley, A. J. ( 1997 ). Creativity and mental health in everyday 
-life. In M. A. Runco & R. Richards (Eds.), Eminent creativ -
-ity, everyday creativity, and health (pp. 231–246). Ablex.
-Cropley, A. J. ( 2006 ). In praise of convergent thinking. 
-Creativity Research Journal , 18 (3), 391–404. https://doi. 
-org/10.1207/s15326934crj1803_13  
-Csikszentmihalyi, M. ( 1988 ). Society, culture, and person: 
-A system view of creativity. In R. J. Sternberg (Ed.), The 
-nature of creativity (pp. 325–339). Cambridge University 
-Press.
-da Costa, S., Páez, D., Sánchez, F., Garaigordobil, M., & 
-Gondim, S. ( 2015 ). Personal factors of creativity: 
-A second order meta-analysis. Revista de Psicología del 
-Trabajo y de las Organizaciones , 31 (3), 165–173. https:// 
-doi.org/10.1016/j.rpto.2015.06.002  
-*Davis, M. A. (2009). Understanding the relationship between 
-mood and creativity: A meta-analysis. Organizational 
-Behavior and Human Decision Processes , 108 (1), 25–38.  
-https://doi.org/10.1016/j.obhdp.2008.04.001  
-*de Jesus, S. N., Rus, C. L., Lens, W., & Imaginário, S. (2013). 
-Intrinsic motivation and creativity related to product: A 
-meta-analysis of the studies published between 1990-2010. 
-Creativity Research Journal , 25 (1), 80–84. https://doi.org/ 
-10.1080/10400419.2013.752235  
-DeRosa, D. M., Smith, C. L., & Hantula, D. A. ( 2007 ). The 
-medium matters: Mining the long-promised merit of group 
-interaction in creative idea generation tasks in a 
-meta-analysis of the electronic group brainstorming 
-literature. Computers in Human Behavior , 23 (3), 
-1549–1581. https://doi.org/10.1016/j.chb.2005.07.003  
-Duval, S., & Tweedie, R. ( 2000 ). Trim and fill: A simple 
-funnel-plot-based method of testing and adjusting for pub -
-lication bias in meta-analysis. Biometrics , 56 (2), 455–463.  
-https://doi.org/10.1111/j.0006-341x.2000.00455.x  
-*Evans, G. (2009). Creative cities, creative spaces and urban 
-policy. Urban Studies , 46 (5–6), 1003–1040. https://doi.org/ 
-10.1177/0042098009103853  
-Eysenck, H. ( 2003 ). Creativity, personality, and the conver -
-gent-divergent continuum. In M. A. Runco (Ed.), Critical 
-creative processes (pp. 95–114). Hampton Press.
-*Feist, G. J. (1998). A meta-analysis of personality in scientific 
-and artistic creativity. Personality and Social Psychology 
-Review , 2 (4), 290–309. https://doi.org/10.1207/ 
-s15327957pspr0204_5  
-Florida, R., & Gabe, T. ( 2024 ). Assessing the rise and geogra -
-phy of the creative economy. In M. A. Runco & S. Acar 
-(Eds.), Handbook of creativity assessment (pp. 215–233). 
-Edward Elgar.
-*Gajda, A., Karwowski, M., & Beghetto, R. A. (2017). 
-Creativity and academic achievement: A meta-analysis. 
-Journal of Educational Psychology , 109 (2), 269–299.  
-https://doi.org/10.1037/edu0000133  
-*Gelade, G. A. (2002). Creative style, personality, and artistic 
-endeavor. Genetic, Social, and General Psychology 
-Monographs , 128 (3), 213–234.
-Gerwig, A., Miroshnik, K., Forthmann, B., Benedek, M., 
-Karwowski, M., & Holling, H. ( 2021 ). The relationship 
-between intelligence and divergent thinking-a 
-meta-analytic update. Journal of Intelligence , 9 (2), 23.  
-https://doi.org/10.3390/jintelligence9020023  
-*Gonen-Yaacovi, G., De Souza, L. C., Levy, R., Urbanski, M., 
-Josse, G., & Volle, E. (2013). Rostral and caudal prefrontal 
-contribution to creativity: A meta-analysis of functional 
-imaging data. Frontiers in Human Neuroscience , 7 , 465.  
-https://doi.org/10.3389/fnhum.2013.00465  
-*Gralewski, J., & Karwowski, M. (2019). Are teachers’ ratings 
-of students’ creativity related to students’ divergent think -
-ing? A meta-analysis. Thinking Skills and Creativity , 33 , 
-100583. https://doi.org/10.1016/j.tsc.2019.100583  
-*Haase, J., Hoff, E. V., Hanel, P. H., & Innes-Ker, Å. (2018). A 
-meta-analysis of the relation between creative self-efficacy 
-and different creativity measurements. Creativity Research 
-Journal , 30 (1), 1–16. https://doi.org/10.1080/10400419. 
-2018.1411436  
-10
- M. A. RUNCO ET AL.
-
---- PAGE 12 ---
-Hammond, M. M., Neff, N. L., Farr, J. L., Schwall, A. R., & 
-Zhao, X. ( 2011 ). Predictors of individual-level innovation 
-at work: A meta-analysis. Psychology of Aesthetics, 
-Creativity, and the Arts , 5 (1), 90–105. https://doi.org/10. 
-1037/a0018556  
-Hedges, L. V., Tipton, E., & Johnson, M. C. ( 2010 ). Robust 
-variance estimation in meta-regression with dependent 
-effect size estimates. Research Synthesis Methods , 1 (1), 
-39–65. https://doi.org/10.1002/jrsm.5  
-Hirt, E. R. ( 1999 ). Mood. In M. A. Runco & S. R. Pritzker 
-(Eds.), Encyclopedia of creativity (Vol. 2, p. 241 250). New 
-York: Academic Press.
-*Hülsheger, U. R., Anderson, N., & Salgado, J. F. (2009). 
-Team-level predictors of innovation at work: 
-A comprehensive meta-analysis spanning three decades of 
-research. Journal of Applied Psychology , 94 (5), 1128–1145.  
-https://doi.org/10.1037/a0015978  
-Hunter, S. T., Bedell, K. E., & Mumford, M. D. ( 2007 ). Climate 
-for creativity: A quantitative review. Creativity Research 
-Journal , 19 (1), 69–90. https://doi.org/10.1080/ 
-10400410709336883  
-Itsarangkul, T. N. A., & Damrongpanit, S. ( 2022 ). A meta- 
-analysis of instructional management models affecting 
-creative thinking development. European Journal of 
-Educational Research , 11 (4), 2069–2085. https://doi.org/ 
-10.12973/eu-jer.11.4.2069 
-*Kaczykowski, K., Forthmann, B., Benedek, M., & Holling, H. 
-(2021). The manic idea creator? A review and meta-analysis 
-of the relationship between bipolar disorder and creative 
-cognitive potential. PsyArxiv . https://doi.org/10.31234/osf. 
-io/tkc79  
-*Karwowski, M., Czerwonka, M., Wisniewska, E., & 
-Forthmann, B. (2021). How is intelligence test performance 
-associated with creative achievement? A meta-analysis. 
-Journal of Intelligence , 9 (2), 28. https://doi.org/10.3390/ 
-jintelligence9020028  
-*Karwowski, M., & Lebuda, I. (2016). The big five, the huge 
-two, and creative self-beliefs: A meta-analysis. Psychology of 
-Aesthetics, Creativity, and the Arts , 10 (2), 214–232. https:// 
-doi.org/10.1037/aca0000035  
-Kaufmann, G., & Vosburg, S. K. ( 2002 ). Mood effects in early 
-and late idea production. Creativity Research Journal , 14 
-(3–4), 317–330. https://doi.org/10.1207/ 
-S15326934CRJ1434_3  
-*Kim, K. H. (2005). Can only intelligent people be creative? A 
-meta-analysis. Journal of Secondary Gifted Education , 16 
-(2–3), 57–66. https://doi.org/10.4219/jsge-2005-473  
-Kim, K. H. ( 2008 ). Meta analyses of the relationship of crea -
-tive achievement to both IQ and divergent thinking test 
-scores. Journal of Creative Behavior , 42 (2), 106–130.  
-https://doi.org/10.1002/j.2162-6057.2008.tb01290.x  
-Kraft, M. A. ( 2020 ). Interpreting effect sizes of education 
-interventions. Educational Researcher , 49 (4), 241–253.  
-https://doi.org/10.3102/0013189X20912798  
-*Kuncel, N. R., Hezlett, S. A., & Ones, D. S. (2004). Academic 
-performance, career potential, creativity, and job perfor -
-mance: Can one construct predict them all? Journal of 
-Personality & Social Psychology , 86 (1), 148–161. https:// 
-doi.org/10.1037/0022-3514.86.1.148  
-*Kuška, M., Trnka, R., Mana, J., & Nikolai, T. (2020). 
-Emotional creativity: A meta-analysis and integrative 
-review. Creativity Research Journal , 32 (2), 151–160.  
-https://doi.org/10.1080/10400419.2020.1751541  
-*LeBoutillier, N., & Marks, D. F. (2003). Mental imagery and 
-creativity: A meta analytic review study. British Journal of 
-Psychology , 94 (1), 29–44. https://doi.org/10.1348/ 
-000712603762842084  
-*Lebuda, I., Zabelina, D. L., & Karwowski, M. (2016). Mind 
-full of ideas: A meta-analysis of the mindfulness-creativity 
-link. Personality & Individual Differences , 93 , 22–26.  
-https://doi.org/10.1016/j.paid.2015.09.040  
-*Lewandowska, K., & Węziak-Białowolska, D. (2020). The 
-impact of theatre on empathy and self-esteem: A 
-meta-analysis. Creativity Research Journal , 32 (3), 237–245.  
-https://doi.org/10.1080/10400419.2020.1821553  
-*Li, Y., Du, Y., Xie, C., Liu, C., Yang, Y., Li, Y., & Qiu, J. 
-(2023). A meta-analysis of the relationship between seman -
-tic distance and creative thinking. Advances in 
-Psychological Science , 31 (4), 519. https://doi.org/10.3724/ 
-SP.J.1042.2023.00519  
-*Lin, X., Luan, Y., Zhao, K., & Zhao, G. (2022). A 
-meta-analysis of the relationship between leadership styles 
-and employee creative performance: A self-determination 
-perspective. Advances in Psychological Science , 30 (4), 781.  
-https://doi.org/10.3724/SP.J.1042.2022.00781  
-*Ma, H. H. (2006). A synthetic analysis of the effectiveness of 
-single components and packages in creativity training 
-programs. Creativity Research Journal , 18 (4), 435–446.  
-https://doi.org/10.1207/s15326934crj1804_3  
-*Ma, H. H. (2009). The effect size of variables associated with 
-creativity: A meta-analysis. Creativity Research Journal , 21 
-(1), 30–42. https://doi.org/10.1080/10400410802633400  
-Martin, F., Sun, T., Westine, C. D., & Ritzhaupt, A. D. ( 2022 ). 
-Examining research on the impact of distance and online 
-learning: A second-order meta-analysis study. Educational 
-Research Review , 36 (2), 100438. https://doi.org/10.1016/j. 
-edurev.2022.100438  
-*Nijstad, B. A., De Dreu, C. K., Rietzschel, E. F., & Baas, M. 
-(2010). The dual pathway to creativity model: Creative 
-ideation as a function of flexibility and persistence. 
-European Review of Social Psychology , 21 (1), 34–77.  
-https://doi.org/10.1080/10463281003765323  
-Orwin, R. G. ( 1983 ). A fail-safe n for effect size in 
-meta-analysis. Journal of Educational Statistics , 8 (2), 
-157–159. https://doi.org/10.3102/10769986008002157  
-*Pacauskas, D., & Rajala, R. (2017). Information system users’ 
-creativity: A meta-analysis of the link between IT use and 
-creative performance. Information Technology and People , 
-30 (1), 81–116. https://doi.org/10.1108/ITP-04-2015-0090  
-Paek, S.-H., & Runco, M. A. ( 2018 ). A latent profile analysis of 
-the criterion-related validity of a divergent thinking test. 
-Creativity Research Journal , 30 (2), 212–223. https://doi.org/ 
-10.1080/10400419.2018.1446751  
-Peterson, R. A. ( 2001 ). On the use of college students in social 
-science research: Insights from a second-order 
-meta-analysis. Journal of Consumer Research , 28 (3), 
-450–461. https://doi.org/10.1086/323732  
-*Pidgeon, L. M., Grealy, M., Duffy, A. H., Hay, L., 
-McTeague, C., Vuletic, T., & Gilbert, S. J. (2016). 
-Functional neuroimaging of visual creativity: A systematic 
-review and meta-analysis. Brain and Behavior , 6 (10), 
-e00540. https://doi.org/10.1002/brb3.540  
-CREATIVITY RESEARCH JOURNAL
- 11
-
---- PAGE 13 ---
-*Pinheiro, I. R., & Cruz, R. M. (2014). Mapping creativity: 
-Creativity measurements network analysis. Creativity 
-Research Journal , 26 (3), 263–275. https://doi.org/10.1080/ 
-10400419.2014.929404  
-Pustejovsky, J. E., & Tipton, E. ( 2017 ). Small-sample methods 
-for cluster-robust variance estimation and hypothesis test -
-ing in fixed effects models. Journal of Business and 
-Economic Statistics , 36 (4), 672–683. https://doi.org/10. 
-1080/07350015.2016.1247004  
-*Ramdani, D., & Susilo, H. (2022). The effectiveness of colla -
-borative learning on critical thinking, creative thinking, 
-and metacognitive skill ability: Meta-analysis on biological 
-learning. European Journal of Educational Research , 11 (3), 
-1607–1628. https://doi.org/10.12973/eu-jer.11.3.1607  
-Rhodes, C. ( 1997 ). Growth from deficiency creativity to being 
-creativity. In M. A. Runco & R. Richards (Eds.), Eminent 
-creativity, everyday creativity, and health (pp. 247–263). Ablex.
-Roberts, A. M., Sternberg, R. J., Runco, M. A., Acar, S., 
-Ward, T. B., Kolomyts, Y., & Kaufman, J. C. ( 2021 ). 
-Creativity and cognition, divergent thinking, and intelli -
-gence. In J. C. Kaufman & R. J. Sternberg (Eds.), Creativity: 
-An introduction (pp. 102–127). Cambridge University Press.
-*Rose, L. H., & Lin, H. T. (1984). A meta-analysis of long-term 
-creativity training programs. Journal of Creative Behavior , 
-18 (1), 11–22. https://doi.org/10.1002/j.2162-6057.1984. 
-tb00985.x  
-Rudowicz, E. ( 2003 ). Creativity and culture: A two way 
-interaction. Scandinavian Journal of Educational Research , 
-47 (3), 273–290. https://doi.org/10.1080/00313830308602  
-Runco, M. A. ( 2024 ). Assessment of creative potential: Measures, 
-methods, and theories. In M. A. Runco & S. Acar (Eds.), 
-Handbook of creativity assessment (pp. 40–63). Elgar.
-Runco, M. A., & Chand, I. ( 1995 ). Cognition and creativity. 
-Educational Psychology Review , 7 , 243–267.
-Runco, M. A., Park, H., & Acar, S. ( 2020 ). Attitudes towards 
-creativity, creative people, and innovation expressed in TV 
-commercials: Evidence for a creative zeitgeist. The 
-International Journal of Creativity & Problem Solving , 30 
-(1), 31–44.
-Runco, M. A., & Richards, R. (Eds.). ( 1997 ). Eminent creativ -
-ity, everyday creativity, and health . Ablex.
-Rupinski, M. T., & Dunlap, W. P. ( 1996 ). Approximating 
-Pearson product-moment correlations from Kendall’s tau 
-and Spearman’s rho. Educational and Psychological 
-Measurement , 56 (3), 419–429. https://doi.org/10.1177/ 
-0013164496056003004  
-*Said-Metwaly, S., Fernández-Castilla, B., Kyndt, E., & Van 
-den Noortgate, W. (2018). The factor structure of the 
-figural Torrance tests of creative thinking: A 
-meta-confirmatory factor analysis. Creativity Research 
-Journal , 30 (4), 352–360. https://doi.org/10.1080/10400419. 
-2018.1530534  
-*Said-Metwaly, S., Taylor, C. L., Camarda, A., & Barbot, B. 
-(2022). Divergent thinking and creative achievement-how 
-strong is the link? An updated meta-analysis. Psychology of 
-Aesthetics, Creativity, and the Arts , 18 (5), 869–881. https:// 
-doi.org/10.1037/aca0000507  
-Sala, G., Deniz Aksayli, N., Semir Tatlidil, K., Tatsumi, T., 
-Gondo, Y., & Gobet, F. ( 2019 ). Near and far transfer in 
-cognitive training: A second-order meta-analysis. Collabra 
-Psychology , 5 (1), 18. https://doi.org/10.1525/collabra.203  
-*Sarooghi, H., Libaers, D., & Burkemper, A. (2015). 
-Examining the relationship between creativity and innova -
-tion: A meta-analysis of organizational, cultural, and envir -
-onmental factors. Journal of Business Venturing , 30 (5), 
-714–731. https://doi.org/10.1016/j.jbusvent.2014.12.003  
-Schmidt, F. L., & Oh, I.-S. ( 2013 ). Methods for second order 
-meta-analysis and illustrative applications. Organizational 
-Behavior and Human Decision Processes , 121 (2), 204–218.  
-https://doi.org/10.1016/j.obhdp.2013.03.002  
-*Schutte, N. S., & Malouff, J. M. (2020). A meta-analysis of the 
-relationship between curiosity and creativity. Journal of 
-Creative Behavior , 54 (4), 940–947. https://doi.org/10.1002/ 
-jocb.421  
-*Scott, G., Leritz, L. E., & Mumford, M. D. (2004). The effec -
-tiveness of creativity training: A quantitative review. 
-Creativity Research Journal , 16 (4), 361–388. https://doi. 
-org/10.1080/10400410409534549  
-*Sen, S. (2022). A reliability generalization meta-analysis of 
-Runco ideational behavior scale. Creativity Research 
-Journal , 34 (2), 178–194. https://doi.org/10.1080/10400419. 
-2021.1960719  
-Shapiro, R. J. ( 1970 ). The criterion problem. In P. E. Vernon 
-(Ed.), Creativity (pp. 257–269). Penguin.
-Shea, B. J., Reeves, B. C., Wells, G., Thuku, M., Hamel, C., 
-Moran, J., Moher, D., Tugwell, P., Welch, V., Kristjansson, 
-E., & Henry, D. A. ( 2017 ). AMSTAR 2: A critical appraisal 
-tool for systematic reviews that include randomised or non- 
-randomised studies of healthcare interventions, or both. 
-BMJ , 358 , j4008. https://doi.org/10.1136/bmj.j4008 
-*Shen, W., Yuan, Y., Liu, C., Zhang, X., Luo, J., & Gong, Z. 
-(2016). Is creative insight task-specific? A coordinate-based 
-meta-analysis of neuroimaging studies on insightful pro -
-blem solving. International Journal of Psychophysiology , 
-110 , 81–90. https://doi.org/10.1016/j.ijpsycho.2016.10.001  
-*Sio, U. N., & Ormerod, T. C. (2009). Does incubation 
-enhance problem solving? A meta-analytic review. 
-Psychological Bulletin , 135 (1), 94–120. https://doi.org/10. 
-1037/a0014212  
-Sterne, J. A. C., & Egger, M. ( 2006 ). Regression methods to 
-detect publication and other bias in meta-analysis. In 
-H. R. Rothstein, A. J. Sutton, & M. Borenstein (Eds.), 
-Publication bias in meta-analysis: Prevention, assessment 
-and adjustments (pp. 99–110). John Wiley & Sons. https:// 
-doi.org/10.1002/0470870168.ch6  
-*Suganda, E., Latifah, S., Sari, P. M., Ichsan, H., 
-Rahmayanti, I. Z., & Rahman, M. M. (2021). Steam and 
-environment on students’ creative-thinking skills: A meta- 
-analysis study. Journal of Physics: Conference Series , 1796 
-(1), 012101. https://doi.org/10.1088/1742-6596/1796/1/ 
-012101  
-*Susilowati, N. E., Muslim, M., Efendi, R., & Samsudin, A. 
-(2022). What is the most impressive treatment to foster 
-students’ creative thinking skills? A meta-analysis and bib -
-liometric review. Tadris: Jurnal Keguruan dan Ilmu 
-Tarbiyah , 7 (2), 201–219. https://doi.org/10.24042/tadris. 
-v7i2.12690  
-Tamim, R. M., Bernard, R. M., Borokhovski, E., Abrami, P. C., 
-& Schmid, R. F. ( 2011 ). What forty years of research says 
-about the impact of technology on learning: A 
-second-order meta-analysis and validation study. Review 
-of Educational Research , 81 (1), 4–28. https://doi.org/10. 
-3102/0034654310393361  
-12
- M. A. RUNCO ET AL.
-
---- PAGE 14 ---
-Tipton, E., & Pustejovsky, J. E. ( 2015 ). Small-sample adjust -
-ments for tests of moderators and model fit using robust 
-variance estimation in meta-regression. Journal of 
-Educational and Behavioral Statistics , 40 (6), 604–634.  
-https://doi.org/10.3102/1076998615606099  
-Tipton, E., & Pustejovsky, J. E. ( 2022 ). Meta-analysis with 
-robust variance estimation: Expanding the range of work -
-ing models. Prevention Science , 23 (3), 425–438. https://doi. 
-org/10.1007/s11121-021-01246-3  
-*Tsai, K. C. (2013). A review of the effectiveness of creative 
-training on adult learners. Journal of Social Science Studies , 
-1 (1), 17. https://doi.org/10.5296/jsss.v1i1.4329  
-Vevea, J. L., & Hedges, L. V. ( 1995 ). A general linear model for 
-estimating effect size in the presence of publication bias. 
-Psychometrika , 60 (3), 419–435. https://doi.org/10.1007/ 
-BF02294384  
-Viechtbauer, W. ( 2010 ). Conducting meta-analyses in R with 
-the metafor package. Journal of Statistical Software , 36 (3), 
-1–48. https://doi.org/10.18637/jss.v036.i03  
-*Weiss, S., & Steger, D. Ulrich Schroeders 2 and Oliver 
-Wilhelm (2021). A reappraisal of the threshold hypothesis 
-of creativity and intelligence. Journal of Intelligence , 9 , 
-1–20. https://doi.org/10.3390/jintelligence8040038  
-*Wu, X., Yang, W., Tong, D., Sun, J., Chen, Q., Wei, D., 
-Zhang, Q., Zhang, M., & Qiu, J. (2015). A meta-analysis 
-of neuroimaging studies on divergent thinking using 
-activation likelihood estimation. Human Brain Mapping , 
-36 (7), 2703–2718. https://doi.org/10.1002/hbm.22801  
-*Yasin, R. M., & Yunus, N. S. R. (2014). A meta-analysis study 
-on the effectiveness of creativity approaches in technology 
-and engineering education. Asian Social Science , 10 (3), 
-242–252. https://doi.org/10.5539/ass.v10n3p242  
-*Yodchai, N., Ly, P. T. M., & Tran, L. T. T. (2022). Co-creating 
-creative self-efficacy to build creative performance and 
-innovation capability for business success: A 
-meta-analysis. Creativity Studies , 15 (1), 74–88. https://doi. 
-org/10.3846/cs.2022.13852  
-*Yörük, S., & Sen, S. (2022). A reliability generalization 
-meta-analysis of the creative achievement questionnaire. 
-Creativity Research Journal , 35 (4), 1–16. https://doi.org/ 
-10.1080/10400419.2022.2148073  
-*Yunita, Y., Juandi, D., Tamur, M., Adem, A. M. G., & 
-Pereira, J. (2020). A meta-analysis of the effects of problem- 
-based learning on students’ creative thinking in mathe -
-matics. Beta: Jurnal Tadris Matematika , 13 (2), 104–116.  
-https://doi.org/10.20414/betajtm.v13i2.380  
-Zeng, L., Proctor, R. W., & Salvendy, G. ( 2011 ). Can tradi -
-tional divergent thinking tests be trusted in measuring and 
-predicting real-world creativity ? Creativity Research 
-Journal , 23 (1), 24–37. https://doi.org/10.1080/10400419. 
-2011.545713
-CREATIVITY RESEARCH JOURNAL
- 13
-
+Abbas, S. S., Eldin, A. S., & Elsayed, A. (2018). The effect of concept mapping and mind mapping utilization on students' understanding level: An empirical study. In 
+Proceedings of the eight international conference on concept mapping. Medellin, Colombia .
+* Achor, E. E., Jack, G. U., & Uzomah, T. N. (2024). Enhancing students' critical thinking in physics using graphic organizer enhanced and context-based learning 
+strategies. Journal of Research in Science and Mathematics Education, 3(1), 1–20 .
+* Akinoglu, O. (2013). Effects of concept maps on students' critical thinking skills in science education. Journal of Environmental Protection and Ecology, 14(3A), 
+1424–1431 .
+Akinsanya, C., & Williams, M. (2004). Concept mapping for meaningful learning. Nurse Education Today, 24(1), 41–46 .
+* Alfayoumi, I. (2019). The impact of combining concept-based learning and concept-mapping pedagogies on nursing students' clinical reasoning abilities. Nurse 
+Education Today, 72, 40–46 .
+Arviani, F. P., Wahyudin, D., & Dewi, L. (2023). Role of teaching strategies in promoting students' higher order thinking skills and critical thinking dispositions. 
+International Journal of Learning, Teaching and Educational Research, 22(9), 19. https://doi.org/10.26803/ijlter.22.9.19
+Assink, M., & Wibbelink, C. J. (2016). Fitting three-level meta-analytic models in R: A step-by-step tutorial. The Quantitative Methods for Psychology, 12(3), 154–174 .
+* Atay, S., & Karabacak, Ü. (2012). Care plans using concept maps and their effects on the critical thinkin g dispositions of nursing students. International Journal of 
+Nursing Practice, 18(3), 233–239 .
+* Ayal, C. S., Kusuma, Y. S., Sabandar, J., & Dahlan, J. A. (2016). The enhancement of mathematical reasoning ability of junior high school students by applying mind 
+mapping strategy. Journal of Education and Practice, 7(25), 50–58 .
+H. Lei et al.                                                                                                                                                                                                             Educational Research Review 52 (2026) 100822 
+13 
+=== PAGE 14 ===
+Barta, A., Fodor, L. A., Tamas, B., & Szamoskozi, I. (2022). The development of students critical thinking abilities and dispositions through the concept mapping 
+learning method-A meta-analysis. Educational Research Review, 37 , Article 100481 .
+Bickhard, M. H. (2013). Scaffolding and self-scaffolding: Central aspects of development. In Children's development within social context (pp. 33 – 52). Psychology Press . 
+* Bilik, 
+¨
+O., Kankaya, E. A., & Deveci, Z. (2020). Effects of web-based concept mapping education on students' concept mapping and critical thinking skills: A double- 
+blind, randomized, controlled study. Nurse Education Today, 86 , Article 104312 .
+* Bin, H., Zhang, Y., Zhu, Z., Lin, Y., Zhan, Y., & Ma, J. (2022). Research on the influence of collaborative mind mapping strategy in smart classroom on college 
+students' scientific research problem-solving ability and learning anxiety. In 2022 international symposium on educational technology (ISET) (pp. 23 – 27). IEEE .
+* Bixler, G. M., Brown, A., Way, D., Ledford, C., & Mahan, J. D. (2015). Collaborative concept mapping and critical thinking in fourth-year medical students. Clinical 
+Pediatrics, 54 (9), 833 – 839 .
+Bloom, B. (1956). Taxonomy of educational objectives: Handbook I. Cognitive domain . New York: McKay . 
+Botley, S. P., & Hakim, F. (2014). Argument structure in learner writing: A corpus-based analysis using argument mapping. Kajian Malaysia, 32 (1), 45 – 77 .
+* Boyadjian-Samawi, Z. (2006). The effect of concept mapping on critical thinking skills and dispositions of junior and senior baccalaureate nursing students . Widener 
+University School of Nursing .
+Carey, S., Zaitchik, D., & Bascandziev, I. (2015). Theories of development: In dialog with jean piaget. Developmental Review, 38 , 36 – 54 .
+* Carvalho, D. P. D. S. R. P., Vitor, A. F., Cogo, A. L. P., Bittencourt, G. K. G. D., Santos, V. E. P., & Ferreira, M. A. (2020). Critical thinking in nursing students from two 
+Brazilian regions. Revista Brasileira de Enfermagem, 73 (1), Article e20170742 .
+* Carwie, L. (2009). The effect of computer-supported argument mapping on the critical thinking skills of undergraduate nursing students . University of South Alabama .
+* Chen, P. (2020). The effects of painting performance and creativity on the mind mapping thinking strategy on visual arts curriculum for art class students of junior high school . 
+Taiwan: National Taiwan Normal University .
+* Chen, S. L., Liang, T., Lee, M. L., & Liao, I. C. (2011). Effects of concept map teaching on students' critical thinking and approach to learning and studying. Journal of 
+Nursing Education, 50 (8), 466 – 469 .
+* Chen, M. R. A., & Hwang, G. J. (2020). Effects of a concept mapping-based flipped learning approach on EFL students' English speaking performance, critical 
+thinking awareness, and speaking anxiety. British Journal of Educational Technology, 51 (3), 817 – 834 .
+* Chiu, M. C., & Hwang, G. J. (2024). Enhancing students' critical thinking and creative thinking: An integrated mind mapping and robot-based learning approach. 
+Education and Information Technologies , 1 – 34 .
+Chiu, M. M., & Roberts, C. A. (2018). Improved analyses of single cases: Dynamic multilevel analysis. Developmental Neurorehabilitation, 21 (4), 253 – 265 .
+Compayre, G., & Payne, W. H. (2015). The history of pedagogy . Routledge . 
+* Crudele, F., & Raffaghelli, J. E. (2023). Promoting critical thinking through argument mapping: A lab for undergraduate students. Journal of Information Technology 
+Education: Research, 22 , 497 – 525 .
+* Cullen, S., Fan, J., van der Brugge, E., & Elga, A. (2018). Improving analytical reasoning and argument understanding: A quasi-experimental field study of argument 
+visualization. Npj Science of Learning, 3 (1), 21 .
+* D'Antoni, A. V., Zipp, G. P., Olson, V. G., & Cahill, T. F. (2010). Does the mind map learning strategy facilitate information retrieval and critical thinking in medical 
+students?. BMC Medical Education, 10 , 1 – 11 .
+Davies, M. (2011). Concept mapping, mind mapping and argument mapping: What are the differences and do they matter? Higher Education, 62 , 279 – 301 .
+Dexter, D. D., Park, Y. J., & Hughes, C. A. (2011). A meta-analytic review of graphic organizers and science instruction for adolescents with learning disabilities: 
+Implications for the intermediate and secondary science classroom. Learning Disabilities Research & Practice, 26 (4), 204 – 213 .
+diSessa, A. A., & Sherin, B. L. (2000). Meta-representation. The Journal of Mathematical Behavior, 19 (4), 385 – 398. https://doi.org/10.1016/S0732-3123(01)00051-7
+* Dwyer, C. P., Hogan, M. J., & Stewart, I. (2011). The promotion of critical thinking skills through argument mapping .
+* Dwyer, C. P., Hogan, M. J., & Stewart, I. (2012). An evaluation of argument mapping as a method of enhancing critical thinking performance in e-learning 
+environments. Metacognition and Learning, 7 , 219 – 244 .
+Edwards, S., & Cooper, N. (2010). Mind mapping as a teaching resource. The Clinical Teacher, 7 (4), 236 – 239 .
+Egger, M., Smith, G. D., Schneider, M., & Minder, C. (1997). Bias in meta-analysis detected by a simple, graphical test. British Medical Journal, 315 , 629 – 634 .
+* Eggert, S., Nitsch, A., Boone, W. J., Nückles, M., & B ¨ogeholz, S. (2017). Supporting students' learning and socioscientific reasoning about climate change — The effect 
+of computer-based concept mapping scaffolds. Research in Science Education, 47 , 137 – 159 .
+* Elasrag, G. A. A., & Elsabagh, N. E. (2020). The effect of mind mapping on critical thinking skills of undergraduate nursing students. Pharmacophore, 11 (1), 73 – 84 .
+Eppler, M. J., & Burkhard, R. A. (2008). Knowledge visualization. In Knowledge management: Concepts, methodologies, tools, and applications (pp. 781 – 793). IGI Global . 
+* Esfandiari, M. A., Rezvani, E., & Hadian, B. (2021). Impact of critical thinking instruction through argument mapping techniques on Iranian Male and female EFL 
+learners' critical thinking ability and reading skill. Research in English Language Pedagogy, 9 (1), 70 – 89 .
+* Esquillo, S. (2023). Argument mapping method and learners' critical thinking dispositions in physics. WVSU Research Journal, 12 (2), 31 – 46 .
+Ezzeldin, S. M. (2017). The effectiveness of using graphic organizers in development of achievement, reduction of cognitive load associated with solving algorithm 
+problems in analytical chemistry and favored learning styles among female secondary school students in Saudi Arabia. International Journal of Religious Education, 
+41 (2), 77 – 124 .
+Facione, P. A. (1990). The California critical thinking skills Test–College level . Experimental Validation and Content Validity. Technical Report# 1 .
+Farrand, P., Hussain, F., & Hennessy, E. (2002). The efficacy of the mind map study technique. Medical Education, 36 (5), 426 – 431 .
+Fraillon, J., Ainley, J., Schulz, W., Friedman, T., & Gebhardt, E. (2014). Preparing for life in a digital age: The IEA international computer and information literacy study 
+international report . Springer Nature . 
+Galita, R., & Bonta, E. (2023). Critical thinking at play in language autobiographies. The case of intellectual perseverance. In N. Abid, & E. Bonta ’ s (Eds.), Exploring the 
+autobiography as a genre and a data collection tool (pp. 66 – 86) .
+Hansen, B. (2022). Econometrics . Princeton University Press . 
+Hay, D. B. (2007). Using concept maps to measure deep, surface and non-learning outcomes. Studies in Higher Education, 32 (1), 39 – 57 .
+* Hazaymeh, W. A., & Alomery, M. K. (2022). The effectiveness of visual mind mapping strategy for improving English language learners' critical thinking skills and 
+reading ability. European Journal of Educational Research, 11 (1), 141 – 150 .
+* Heglund, B. (2015). Using computer-assisted argumentation mapping to develop effective argumentation skills in high school advanced placement physics (doctoral 
+dissertation, university of Florida) .
+Hillmann, P. J. (1993). Visual literacy in elementary school children: Effects of age, gender and ethnicity on graphic representation and divergent production . The University of 
+Wisconsin-Madison . 
+Hittleman, D. R. (1985). A picture is worth a thousand words … if you know the words. Childhood Education, 62 (1), 32 – 36 .
+Hoffmann, M. H. (2005). Logical argument mapping: A method for overcoming cognitive problems of conflict management. International Journal of Conflict 
+Management, 16 (4), 304 .
+* Hu, Y., & Hwang, G. J. (2024). Promoting students' higher order thinking in virtual museum contexts: A self-adapted Mobile concept mapping-based problem posing 
+approach. Education and Information Technologies, 29 (3), 2741 – 2765 .
+* Huang, M. Y., Tu, H. Y., Wang, W. Y., Chen, J. F., Yu, Y. T., & Chou, C. C. (2017). Effects of cooperative learning and concept mapping intervention on critical 
+thinking and basketball skills in elementary school. Thinking Skills and Creativity, 23 , 207 – 216 .
+* Huang, Y. C., Chen, H. H., Yeh, M. L., & Chung, Y. C. (2012). Case studies combined with or without concept maps improve critical thinking in hospital-based nurses: 
+A randomized-controlled trial. International Journal of Nursing Studies, 49 (6), 747 – 754 .
+Huedo-Medina, T. B., S ´anchez-Meca, J., Marín-Martínez, F., & Botella, J. (2006). Assessing heterogeneity in meta-analysis: Q statistic or I2 index? Psychological 
+Methods, 11 (2), 193 – 206 .
+* Hwang, G. J., Huang, H., Wang, R. X., & Zhu, L. L. (2021). Effects of a concept mapping-based problem-posing approach on students' learning achievements and 
+critical thinking tendency: An application in classical Chinese learning contexts. British Journal of Educational Technology, 52 (1), 374 – 493 .
+H. Lei et al.                                                                                                                                                                                                             Educational Research Review 52 (2026) 100822 
+14 
+=== PAGE 15 ===
+Imsa-ard, P. (2022). Reading better?: Enhancing Thai EFL secondary school students' reading comprehension abilities with the use of graphic organizers. English 
+Language Teaching, 15 (5), 1 – 13 .
+* Israel, C., Zipp, G. P., D'Abundo, M., & Deluca, D. (2020). Mind mapping to enhance critical thinking skills in physician assistant education: A randomized controlled 
+study. Journal Of Allied Health, 49 (2), 135 – 140 .
+Kabatas ¸ Memis ¸ , E., & Karakus ¸ , E. (2021). An evaluation of academic achievements through the use of argument and concept maps embedded in argumentation based 
+inquiry. Asia Pacific Education Review, 22 (3), 463 – 481 .
+* Kaddoura, M., Van-Dyke, O., & Yang, Q. (2016). Impact of a concept map teaching approach on nursing students' critical thinking skills. Nursing and Health Sciences, 
+18 (3), 350 – 354 .
+* Kamble, S. K., & Tembe, B. L. (2013). The effect of use of concept maps on problem solving performance and attitude in mechanical engineering course. Procedia - 
+Social and Behavioral Sciences, 83 , 748 – 754 .
+Kansızo ˘glu, H. B. (2017). The effect of graphic organizers on language teaching and learning areas: A meta-analysis study. Education and Science, 42 (191), 139 – 164 .
+Kelly, A., Sullivan, M., & Strampel, K. (2023). Generative artificial intelligence: University student awareness, experience, and confidence in use across disciplines. 
+Journal of University Teaching and Learning Practice, 20 (6), 1 – 16 .
+* Kharismayuni, E., Feronika, T., & Yunita, L. (2021). Implication of thinking maps assisted inquiry model for higher order thinking skills (HOTS) on chemistry. 
+Journal of Physics: Conference Series, 1836 (1), 12078. IOP Publishing .
+* Khodadady, E., & Ghanizadeh, A. (2011). The impact of concept mapping on EFL learners' critical thinking ability. English Language Teaching, 4 (4), 49 – 60 .
+* Khrais, H., & Saleh, A. M. (2020). The effect of concept mapping on critical thinking of Jordanian nursing students. Creative Nursing, 26 (1), 19 – 24 .
+Kmet, L. M., Cook, L. S., & Lee, R. C. (2004). Standard quality assessment criteria for evaluating primary research papers from a variety of fields .
+Krippendorff, K. (2011). Computing Krippendorff's alpha-reliability .
+* Laelasari, I., & Anggraeni, S. (2017). Improving critical thinking and metacognition ability using vee diagram through problem-based learning of human respiratory 
+system. In In international conference on mathematics and science education (pp. 70 – 72). Atlantis Press .
+Lakoff, G., & Johnson, M. (2024). Metaphors we live by . University of Chicago press . 
+Lane, S. (1993). The conceptual framework for the development of a mathematics performance assessment instrument. Educational Measurement: Issues and Practice, 12 
+(2), 16 – 23. https://doi.org/10.1111/j.1745-3992.1993.tb00529.x
+Larkin, J. H., & Simon, H. A. (1987). Why a diagram is (sometimes) worth ten thousand words. Cognitive Science, 11 (1), 65 – 100 .
+* Lazuardini, D. A., Wilujeng, I., & Kuswanto, H. (2019). Optimizing senior high school students' creative thinking skills of optical devices through inductive learning 
+models assisted by e-Mind map. Journal of Physics: Conference Series, 1233 (1), Article 012029. IOP Publishing .
+Lee, J. (2012). Development of a visual summarizer design model for digital learning . Seoul, Korea: Seoul National University. Unpublished doctoral dissertation .
+* Lee, W., Chiang, C. H., Liao, I. C., Lee, M. L., Chen, S. L., & Liang, T. (2013). The longitudinal effect of concept map teaching on critical thinking of nursing students. 
+Nurse Education Today, 33 (10), 1219 – 1223 .
+Leeds, A. J., Kudrowitz, B., & Kwon, J. (2019). Mapping associations: Exploring divergent thinking through mind mapping. International Journal of Design Creativity 
+and Innovation, 7 (1 – 2), 16 – 29 .
+Lim, C. H. (2017). Cultivating higher order thinking dispositions of undergraduate students. International Journal of Learning and Teaching, 3 , 154 – 159 .
+Lin, L., & Chu, H. (2018). Quantifying publication bias in meta-analysis. Biometrics, 74 (3), 785 – 794 .
+Lipsey, M. W., & Wilson, D. B. (2001). Practical meta-analysis . Sage . 
+Liu, Q., Zhong, Z., & Nesbit, J. C. (2024). Argument mapping as a pre-writing activity: Does it promote writing skills of EFL learners? Education and Information 
+Technologies, 29 (7), 7895 – 7925 .
+Lu, Z., Chiu, M. M., Wang, S., Mao, W., & Lei, H. (2025). Effects of augmented reality on students' higher-order thinking: A meta-analysis. Journal of Educational 
+Computing Research , Article 07356331241309644 .
+* Maldonado, S. (2014). Effects of concept mapping on the critical thinking skills of baccalaureate nursing students (doctoral dissertation, walden university) .
+* Maryam, A., Mohammadreza, D., Abdolhussein, S., Ghobad, R., & Javad, K. (2021). Effect of concept mapping education on critical thinking skills of medical 
+students: A quasi-experimental study. Ethiopian Journal of Health Sciences, 31 (2) .
+Mayer, R. E. (2002). Multimedia learning. In Psychology of learning and motivation (Vol. 41, pp. 85 – 139). Academic Press . 
+Meo, G. (2008). Curriculum planning for all learners: Applying universal design for learning (UDL) to a high school reading comprehension program. Preventing School 
+Failure: Alternative Education for Children and Youth, 52 (2), 21 – 30 .
+* Min, G. S., Albakri, I. S. M. A., Ismail, N., Mokhtar, M. M., Zulkepli, N., Tahir, M. H. M., & Khalid, P. Z. M. (2023). Fostering critical thinking using graphic organizers 
+in English language reading class. Studies in English Language and Education, 10 (3), 1309 – 1325 .
+* Mohamed El-Sayed, N., Mahmoud Abdel-Azeem, A., & Khaled Abd El-Aziz Zaki, A. (2023). The effect of mind mapping on cognitive achievement and critical 
+thinking skills of nursing students. International Egyptian Journal of Nursing Sciences and Research, 3 (2), 685 – 703 .
+Morrison, S., Adamson, C., Nibert, A., & Hsia, S. (2004). HESI exams: An overview of reliability and validity. CIN: Computers, Informatics, Nursing, 22 (4), 220 – 226 .
+* Mutiara, P. A., Achmad, F., Alief, M., Lindasari, L. M., Supriadi, N., Putra, F. G., … Rahmawati, N. K. (2021). Analysis of mathematical critical thinking skills: The 
+impact of RMS (reading, mind mapping, and sharing) learning model assisted by PPW (props, PowerPoint, and worksheet). Journal of Physics: Conference Series, 
+1796 (1), Article 012010. IOP Publishing .
+Nelson, R. R. (2005). Technology, institutions, and economic growth . Harvard University Press . 
+Nesbit, J. C., & Adesope, O. O. (2006). Learning with concept and knowledge maps: A meta-analysis. Review of Educational Research, 76 (3), 413 – 448 .
+* Ngajie, B. N., Li, Y., Tiruneh, D. T., & Cheng, M. (2020). Investigating the effects of a systematic and model-based design of computer-supported argument 
+visualization on critical thinking. Thinking Skills and Creativity, 38 , Article 100742 .
+* Nirmala, T., & Shakuntala, B. S. (2011). Concept mapping-An effective tool to promote critical thinking skills among nurses. Journal of Health and Allied Sciences NU, 
+1 (4), 21 – 26 .
+Palaniappan, V., Karthikeyan, K., & Mohan, R. (2023). Mind mapping as a novel method in teaching the morphology of skin lesions: A quasi-experimental study. 
+Journal of Advances in Medical Education & Professionalism, 11 (2), 80 .
+Pande, P., & Chandrasekharan, S. (2017). Representational competence: Towards a distributed and embodied cognition account. Studies in Science Education, 53 (1), 
+1 – 43 .
+* Pinandito, A., Hayashi, Y., & Hirashima, T. (2023). Promoting students' higher-order thinking with concept mapping recomposition. IEICE Transactions on 
+Information and Systems, 106 (8), 1262 – 1274 .
+Purnama, Y. I., & Nurdianingsih, F. (2019). The impact of higher order thinking skills (HOTS) instructions in teaching EFL speaking skill from the perspective of 
+students' motivation. Lingua e Cultura, 13 (4), 313 – 319 .
+Rauscher, W., & Badenhorst, H. (2021). Thinking critically about critical thinking dispositions in technology education. International Journal of Technology and Design 
+Education, 31 (3), 465 – 488 .
+Redhana, I. W., Widiastari, K., Samsudin, A., & Irwanto, I. (2021). Which is more effective, a mind map or a concept map learning strategy? Jurnal Cakrawala 
+Pendidikan, 40 (2), 520 – 531 .
+* Ristanto, R., Sabrina, A., & Komala, R. (2022). Critical thinking skills of environmental changes: A biological instruction using guided discovery learning-argument 
+mapping (GDL-AM). Participatory Educational Research, 9 (1), 173 – 191 .
+Roman, D., Jones, F., Basaraba, D., & Hironaka, S. (2016). Helping students bridge inferences in science texts using graphic organizers. Journal of Adolescent & Adult 
+Literacy, 60 (2), 121 – 130 .
+Romero García, C., Cazorla, M., & Buz ´on García, O. (2017). Meaningful learning using concept maps as a learning strategy. JOTSE: Journal of Technology and Science 
+Education, 7 (3), 313 – 332 .
+Rowland-Bryant, E., Skinner, C. H., Skinner, A. L., Saudargas, R., Robinson, D. H., & Kirk, E. R. (2009). Investigating the interaction of graphic organizers and 
+seductive details: Can a graphic organizer mitigate the seductive-details effect. Research in the Schools, 16 (2), 29 – 40 .
+H. Lei et al.                                                                                                                                                                                                             Educational Research Review 52 (2026) 100822 
+15 
+=== PAGE 16 ===
+Schnotz, W. (2014). An integrated model of text and picture comprehension. In R. E. Mayer (Ed.), The Cambridge handbook of multimedia learning (2nd ed., pp. 
+72 – 103). Cambridge University Press . 
+Schnotz, W., & Bannert, M. (2003). Construction and interference in learning from multiple representation. Learning and Instruction, 13 (2), 141 – 156 .
+Schwarzer, G., Carpenter, J. R., & Rücker, G. (2015). Meta-analysis with R . Springer. https://doi.org/10.1007/978-3-319-21416-0
+Scott, D. B. (2011). Explicit instruction on rhetorical patterns and student-constructed graphic organizers: The impact on sixth-grade students' comprehension of social studies 
+text (doctoral dissertation) . College Park, Maryland: University of Maryland, The Faculty of the Graduate School . 
+Shi, Y., Yang, H., Dou, Y., & Zeng, Y. (2023). Effects of mind mapping-based instruction on student cognitive learning outcomes: A meta-analysis. Asia Pacific Education 
+Review, 24 (3), 303 – 317 .
+* Silva, H., Lopes, J., Dominguez, C., & Morais, E. (2022). Lecture, cooperative learning, and concept mapping: Any differences on critical and creative thinking 
+development?. International Journal of Instruction, 15 (1), 765 – 780 .
+* Simper, N., Reeve, R., & Kirby, J. R. (2016). Effects of concept mapping on creativity in photo stories. Creativity Research Journal, 28 (1), 46 – 51 .
+Smith, V. D., & Darvas, J. W. (2017). Encouraging student autonomy through higher order thinking skills. Journal of Instructional Research, 6 , 29 – 34 .
+* Su, K. D. (2018). Enhancing students' corresponding reasoning of cognitive performances by animated concept mapping in electrochemistry. Journal of Baltic Science 
+Education, 17 (4), 662 – 673 .
+* Su, G., & Long, T. (2021). Is the text-based cognitive tool more effective than the concept map on improving the pre-service teachers' argumentation skills?. Thinking 
+Skills and Creativity, 41 , Article 100862 .
+Suardana, I. N., Redhana, I. W., & Yunithasari, N. P. M. (2020). Students' critical thinking skills comparison in discovery learning based on constructing concept 
+mapping and mind mapping. Journal of Physics: Conference Series, 1521 (4), Article 042089. IOP Publishing .
+* Sun, M., Wang, M., & Wegerif, R. (2019). Using computer-based cognitive mapping to improve students' divergent thinking for creativity development. British 
+Journal of Educational Technology, 50 (5), 2217 – 2233 .
+Sweller, J., Ayres, P., & Kalyuga, S. (2011). Cognitive load theory . Springer . 
+Tanujaya, B., Mumu, J., & Margono, G. (2017). The relationship between higher order thinking skills and academic performance of student in mathematics 
+instruction. International Education Studies, 10 (11), 78 – 85 .
+Thamrin, N. R., & Widodo, P. (2019). Developing higher order thinking skills (HOTS) for reading comprehension enhancement. Journal of Physics: Conference Series, 
+1179 (1), Article 012073. IOP Publishing .
+* Tian, Y., Zhang, Y., & Lin, Y. (2023). Effects of concept mapping-based review strategy on students' literature review writing ability and critical thinking tendency. 
+2023 international symposium on educational technology (ISET) (pp. 79 – 83). IEEE .
+Tikhonova, E., & Kudinova, N. (2015). Sophisticated thinking: Higher order thinking skills. Journal of Language and Education, 1 (3), 12 – 23 .
+* Turkestani, F. A., Zipp, G. P., Al Nufaiei, Z., Al Zhranei, R., Alhadian, F., Hakeem, J., … Homoud, M. (2024). Mind mapping to enhance critical thinking skills in 
+respiratory therapy education. Journal of Education and Health Promotion, 13 (1), 198 .
+* Twyman, T. (2003). Effects of a conceptually framed, problem/solution/effect graphic organizer on content comprehension and problem-solving skills for seventh-grade social 
+studies students . Doctoral dissertation, University of Oregon .
+* Uçar, B., & Demiraslan Çevik, Y. (2020). The effect of argument mapping supported with peer feedback on pre-service teachers' argumentation skills. Journal of 
+Digital Learning in Teacher Education, 37 (1), 6 – 29 .
+Uttal, D. H., & Doherty, K. O ’ . (2008). Comprehending and learning from ‘visualizations ’ : A developmental perspective. Visualization: Theory and practice in science 
+education (pp. 53 – 72). Dordrecht: Springer Netherlands. https://doi.org/10.1007/978-1-4020-5267-5_3
+* Van Boxtel, C., & Veerman, A. (2001). Diagram-mediated collaborative learning: Diagrams as tools to provoke and support elaboration and argumentation. In 
+Proceedings of the first European conference on computer-supported collaborative learning (EuroCSCL2001), maastricht, the Netherlands (pp. 22 – 24) .
+V ø llestad, J., Nielsen, M. B., & Nielsen, G. H. (2012). Mindfulness and acceptance-based interventions for anxiety disorders: A systematic review and meta-analysis. 
+British Journal of Clinical Psychology, 51 (3), 239 – 260 .
+* Wang, Y. H., & Liao, H. C. (2014). Promoting English oral communication and higher-order thinking in Taiwanese ESL students through the use of knowledge 
+visualization techniques. Perceptual and Motor Skills, 118 (3), 691 – 708 .
+Watson, M. K., Pelkey, J., Noyes, C. R., & Rodgers, M. O. (2016). Assessing conceptual knowledge using three concept map scoring methods. Journal of Engineering 
+Education, 105 (1), 118 – 146 .
+* Wei, L., Firetto, C. M., Murphy, P. K., Li, M., Greene, J. A., & Croninger, R. M. (2019). Facilitating fourth-grade students' written argumentation: The use of an 
+argumentation graphic organizer. The Journal of Educational Research, 112 (5), 627 – 639 .
+* Wheeler, L. A., & Collins, S. K. (2003). The influence of concept mapping on critical thinking in baccalaureate nursing students. Journal of Professional Nursing, 19 (6), 
+339 – 346 .
+* Widiana, I. W., & Jampel, I. N. (2016). Improving students' creative thinking and achievement through the implementation of multiple intelligence approach with 
+mind mapping. International Journal of Evaluation and Research in Education, 5 (3), 246 – 254 .
+* Wu, B., Wang, M., Grotzer, T. A., Liu, J., & Johnson, J. M. (2016). Visualizing complex processes using a cognitive-mapping tool to support the learning of clinical 
+reasoning. BMC Medical Education, 16 , 1 – 8 .
+* Wu, H. Z., & Wu, Q. T. (2020). Impact of mind mapping on the critical thinking ability of clinical nursing students and teaching application. Journal of International 
+Medical Research, 48 (3), Article 0300060519893225 .
+* Yang, H., & Yin, S. (2015). Applying graphic reasoning simulation tool to explore the scientific creativity. In In international conference on computers in education .
+* Yilmaz-Na, E., & S ¨onmez, E. (2023). Unfolding the potential of computer-assisted argument mapping practices for promoting self-regulation of learning and 
+problem-solving skills of pre-service teachers. Computers & Education, 193 , Article 104683 .
+Zhan, Y., Yan, Z., Wan, Z. H., Wang, X., Zeng, Y., Yang, M., & Yang, L. (2023). Effects of online peer assessment on higher-order thinking: A meta-analysis. British 
+Journal of Educational Technology, 54 (4), 817 – 835 .
+Zohar, A., & Ben David, A. (2009). Paving a clear path in a thick forest: A conceptual analysis of a metacognitive component. Metacognition and Learning, 4 (3), 
+177 – 195 .
+H. Lei et al.                                                                                                                                                                                                             Educational Research Review 52 (2026) 100822 
+16 

@@ -10023,6 +10023,17 @@
     ]
   },
   {
+    "title": "Zawacki-Richter AI in Higher Education Framework",
+    "type": "theory",
+    "path": "wiki/theories/educational-technology/Zawacki-Richter AI in Higher Education Framework.md",
+    "aliases": [
+      "高等教育人工智能四维分类框架",
+      "人工智能教育应用四维分类框架",
+      "Zawacki-Richter AIEd Framework",
+      "高等教育人工智能应用框架"
+    ]
+  },
+  {
     "title": "Biglan's Disciplinary Classification Scheme",
     "type": "theory",
     "path": "wiki/theories/higher-education/Biglan's Disciplinary Classification Scheme.md",
@@ -12937,6 +12948,17 @@
     "aliases": [
       "一般学术自我概念量表",
       "Academic Self-Concept Scale"
+    ]
+  },
+  {
+    "title": "Computational Thinking Scale",
+    "type": "instrument",
+    "path": "wiki/instruments/scales/Computational Thinking Scale.md",
+    "aliases": [
+      "计算思维量表",
+      "CTS",
+      "计算思维能力量表",
+      "Computational Thinking Scale for Students"
     ]
   },
   {

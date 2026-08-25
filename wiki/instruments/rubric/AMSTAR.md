@@ -60,10 +60,11 @@ related_arguments:
   - "[[Argument_Runco_2026_CRJ]]"
   - "[[Argument_Gungor_2026_CP]]"
   - "[[Argument_Erdem_2026_SHE]]"
+  - "[[Argument_Unal_2026_JECR]]"
 confidence: medium
 status: draft
 created: 2026-08-23
-updated: 2026-08-24
+updated: 2026-08-25
 ---
 
 # AMSTAR
@@ -135,6 +136,7 @@ updated: 2026-08-24
 > | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | AMSTAR 12 项改编版 | 评估 52 项[[Creativity\|创造力]]一阶[[Meta-analysis\|元分析]]的方法学质量，作为[[Meta-meta-analysis\|二阶元分析]]的质量调节[[Variable\|变量]] | 双人独立[[Coding in Qualitative Research\|编码]]，评定者间一致性为 97%（636 个条目评定） | 高质量（至少满足 9 项标准）与非高质量元分析在综合效应量上无显著差异（$F(1, 12.9) = 0.97, p = .34$） |
 > | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | R-AMSTAR（修订版） | 评估 14 项[[Cooperative Learning\|合作学习]]一阶元分析的方法学质量（得分 24–36），划分为中等与高质量组 | 双人独立编码，评定者间一致性系数 Cohen's $\kappa = 0.89$ | 中等质量组效应量（$ES = 0.83$）高于高质量组（$ES = 0.54$），呈临界显著差异（$Q_b(1) = 3.69, p = .05$） |
 > | [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] | R-AMSTAR（修订版，Kung et al., 2010） | 评估 20 项[[Problem-Based Learning\|问题本位学习]]一阶元分析的方法学质量（11 个章节，剔除 8A/8B 临床应用条目，不计分），得分作为调节[[Variable\|变量]]并统计检验 | 双人独立编码，评定者间一致性系数 Cohen's $\kappa = 0.89$ | 高质量组效应量（$ES = 0.82$）显著高于中等质量组（$ES = 0.46$）（$Q_b(1) = 15.25, p < .01$） |
+> | [[Argument_Unal_2026_JECR\|Ünal et al. (2026)]] | R-AMSTAR（修订版，Kung et al., 2010） | 评估 19 项人工智能教育应用一阶元分析的方法学质量（得分 29–36，均分 33.84，剔除 8C/8D 临床条目），作为二阶元分析的质量调节变量 | 双人独立编码，评定者间一致性系数 Cohen's $\kappa = 0.87$ | 高质量组（$ES = .70$）与中等质量组（$ES = .60$）无显著差异（$Q_{bg}(1) = .62, p = .43$） |
 
 ---
 

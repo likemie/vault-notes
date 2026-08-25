@@ -10,7 +10,7 @@ aliases:
 summary: "伞状综述与二阶元分析中用于量化系统评价间初级研究重复包含程度的标准化重叠率指标，通过排除初级文献首次计数的校正公式以 0–100% 测度文献冗余度与假阳性风险"
 type: concept
 domain: "research-methodology"
-related_count: 18
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -36,6 +36,7 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Unal_2026_JECR]]"
+  - "[[Argument_Wecker_2016_ZfE]]"
 confidence: high
 status: draft
 created: 2026-08-25
@@ -94,6 +95,6 @@ updated: 2026-08-25
 ## 方法论价值与防范偏差功能
 
 > [!warrant]- 为什么[[Meta-meta-analysis|二阶元分析]]必须报告并控制 CCA
-> 1. **破除抽样独立性假定破产危机** 经典二阶固定/随机效应合并模型的数学充要条件是各一阶单元在初级样本上互不重叠（Wecker et al., 2016）。无视重叠会导致相同的经典[[Study Population and Sample|研究样本]]被赋予不成比例的双重甚至三重方差权重。
+> 1. **破除抽样独立性假定破产危机** 经典二阶固定/随机效应合并模型的数学充要条件是各一阶单元在初级样本上互不重叠（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016]]）。无视重叠会导致相同的经典[[Study Population and Sample|研究样本]]被赋予不成比例的双重甚至三重方差权重。
 > 2. **克服主观选择偏差** 过去[[Umbrella Review|伞状综述]]常依赖研究者主观经验判断综述是否相似；CCA 提供了标准化、可复现的数学标尺。
 > 3. **与可视化工具协同集成** 配合基于 Excel 与 R 语言的 [[GROOVE]]（Graphical Representation of Overlap for OVErviews）工具，CCA 不仅能计算全数据集的总体覆盖度，更能生成两两配对的 CCA 交叉热力图，精准定位重叠发生的[[Document|文献]]节点（Bracchiglione et al., 2022; [[Argument_Unal_2026_JECR|Ünal et al., 2026]]）。
