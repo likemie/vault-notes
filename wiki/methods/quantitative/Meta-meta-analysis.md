@@ -186,7 +186,7 @@ updated: 2026-08-25
 >
 > - **第三代：现代多水平与集群稳健二阶元分析（2013–至今）**
 >
->   Schmidt & Oh（2013）在《HRMR》奠定了二阶[[Sampling Error|抽样误差]]与全领域推广理论；Cheung（2014）与 Pustejovsky & Tipton（2022）建立了多水平元分析与集群[[Robust Variance Estimation|稳健方差估计]]（RVE）体系；[[Argument_Runco_2026_CRJ|Runco et al. (2026)]]在[[Creativity|创造力]]全领域综合中确立了第三代范式标杆。第三代方法彻底放弃单水平[[Hypothesis|假设]]，对初级研究进行微观完全去重，采用**[[Correlated and Hierarchical Effects Model|相关与层级效应模型]]（CHE）**进行三水平方差分解（Level 1 抽样误差、Level 2 一阶元分析内依赖、Level 3 跨元分析变异），结合**[[Robust Variance Estimation|稳健方差估计]]（RVE / 三明治估计量）**提供渐近无偏的[[Standard Error|标准误]]与小样本 $T^2 / F$ 校正，并运用多水平改进[[Egger Regression Test|艾格检验]]（[[Multilevel Egger's Test]]）和[[Second-Order Meta-Regression|二阶元回归]]，在无需严苛独立性假定下实现了高度稳健的宏观证据推断。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 2–6)]]
+>   Schmidt & Oh（2013）在《HRMR》奠定了二阶[[Sampling Error|抽样误差]]与全领域推广理论；Cheung（2014）与 Pustejovsky & Tipton（2022）建立了多水平元分析与集群[[Robust Variance Estimation|稳健方差估计]]（RVE）体系；[[Argument_Runco_2026_CRJ|Runco et al. (2026)]]在[[Creativity|创造力]]全领域综合中确立了第三代范式标杆。第三代方法彻底放弃单水平[[Hypothesis|假设]]，对初级研究进行微观完全去重，采用 **[[Correlated and Hierarchical Effects Model|相关与层级效应模型]]（CHE）** 进行三水平方差分解（Level 1 抽样误差、Level 2 一阶元分析内依赖、Level 3 跨元分析变异），结合 **[[Robust Variance Estimation|稳健方差估计]]（RVE / 三明治估计量）** 提供渐近无偏的[[Standard Error|标准误]]与小样本 $T^2 / F$ 校正，并运用多水平改进[[Egger Regression Test|艾格检验]]（[[Multilevel Egger's Test]]）和[[Second-Order Meta-Regression|二阶元回归]]，在无需严苛独立性假定下实现了高度稳健的宏观证据推断。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 2–6)]]
 
 ---
 
@@ -309,7 +309,7 @@ flowchart LR
 ### 步骤三：聚类稳健三明治方差估计原理（破除文献重叠依赖）
 
 > [!concept-lens] 从“理论模型[[Hypothesis|假设]]”到“经验残差修复”
-> [[Robust Variance Estimation|稳健方差估计]]（RVE）是现代二阶元分析破解 Wecker 等人指出的“文献重叠致命软肋”的标准解法。其核心在于经典的**“面包夹肉”三明治结构**
+> [[Robust Variance Estimation|稳健方差估计]]（RVE）是现代二阶元分析破解 Wecker 等人指出的“文献重叠致命软肋”的标准解法。其核心在于经典的 **“面包夹肉”三明治结构**
 >
 > - **两片面包（Bread）** 由 Wecker 经典[[Inverse-Variance Weighting|逆方差加权]]矩阵构成；
 > - **中间的夹心肉（Meat）** 由基于实际数据波动计算出的**经验残差外积矩阵**构成。
