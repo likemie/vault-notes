@@ -95,7 +95,7 @@ Total entries: **120**
 > [!index-list]- Learning Science Cognitive Science (11)
 > - [[Appraisal Theory]] — Frijda 提出的情绪理论，强调认知评估在情绪生成中的核心作用，将情绪过程分解为七个阶段，并认为文化参与每个阶段的调节
 > - [[Attribution Theory]] — Weiner (1976) 提出的动机理论，以因果归因解释人们对成就结果的情感和行为反应，包括 locus、stability、control 三个维度
-> - [[Cognitive Load Theory]] — John Sweller 提出的学习理论，以工作记忆容量有限为核心前提，主张教学设计应减少外在认知负荷、优化内在认知负荷，以促进图式建构和自动化。
+> - [[Cognitive Load Theory]] — 由 John Sweller 于 1988 年创立的经典学习与教学设计理论，以人类工作记忆容量有限与长时记忆图式无限为核心架构，解构内在负荷、外在负荷与相关负荷，主张通过减少外在负荷、优化内在负荷以促进图式建构和自动化。
 > - [[Dual Coding Theory]] — 人类认知由独立的非言语视觉表象与言语符号双通道构成，图文协同表征能显著降低工作记忆负荷并强化长时记忆整合的认知学习理论
 > - [[Hebbian Principles]] — Hebb 突触可塑性原则：经常使用的神经通路被加强，不常用的被移除，是突触修剪的理论基础
 > - [[Miyake's Unity and Diversity Framework of Executive Function]] — Miyake (2000) 的 EF 统一性与多样性框架：抑制、转换、更新与监控三成分既相关又各具独特功能和发展轨迹

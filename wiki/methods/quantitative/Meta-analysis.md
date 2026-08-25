@@ -6,7 +6,7 @@ summary: "通过汇总多项独立初级研究的效应量来综合定量证据�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 72
+method_related_count: 73
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -65,6 +65,7 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-meta-analysis]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Fail-Safe N]]"
   - "[[PRISMA]]"
   - "[[Systematic Review]]"
   - "[[Robust Variance Estimation]]"
@@ -72,7 +73,7 @@ related_methods:
   - "[[Cochran's Q Test]]"
   - "[[Egger Regression Test]]"
   - "[[Trim and Fill Method]]"
-  - "[[Fail-Safe N]]"
+  - "[[Leave-One-Out Sensitivity Analysis]]"
   - "[[Pairwise Wald Tests]]"
   - "[[Experimental Research]]"
 related_persons:
@@ -130,7 +131,7 @@ updated: 2026-08-25
 > - **1904 年 Pearson 的思想先驱** [[Karl Pearson|Karl Pearson]] 在《BMJ》发表伤寒疫苗数据的跨研究合并，首次采用按精度整合多项小研究的思路，其表格形式预示了后来的[[Forest Plot|森林图]]（[[Argument_Higgins_2016_RE|Higgins, 2016]]）。
 > - **1930年代至1950年代 Fisher 的方差统计基础** Ronald Fisher 提出合并独立 $p$ 值的方法，为跨研究比较奠定了推断统计基石。
 > - **1976 年 Glass 的命名与[[Paradigm|范式]]确立** [[Gene Glass|Gene Glass]] 提出元分析概念，并与 Mary Lee Smith 发表心理治疗效果元分析（Smith & Glass, 1977, 平均 $d = 0.60$），确立了以[[Effect Size|效应量]]为通用尺度的实证综合范式。
-> - **1980年代 [[Fixed-Effect and Random-Effects Models|随机效应模型]]与[[Heterogeneity|异质性]]检验** Larry Hedges (1981, 1983) 提出小样本校正 $g$ 与随机效应模型；DerSimonian & Laird (1986) 提出经典的 $\tau^2$ 矩估计封闭解法；Rosenthal (1979) 与 Orwin (1983) 分别提出经典与效应量稀释失安全数。
+> - **1980年代 [[Fixed-Effect and Random-Effects Models|随机效应模型]]与[[Heterogeneity|异质性]]检验** Larry Hedges (1981, 1983) 提出小样本校正 $g$ 与随机效应模型；DerSimonian & Laird (1986) 提出经典的 $\tau^2$ 矩估计封闭解法；Rosenthal (1979) 与 Orwin (1983) 分别提出经典与效应量稀释[[Fail-Safe N|失安全数]]。
 > - **1990年代至2000年代 Cochrane 协作网与 [[PRISMA]] 规范化** 证据本位医学推动了[[Systematic Review|系统综述]]（Systematic Review）与元分析的全球制度化，PRISMA 声明与 Cochrane Handbook 成为规范报告标准。
 > - **2010年代至今 多水平元分析、[[Robust Variance Estimation|稳健方差估计]]与多软件协同** 针对多效应量相关依赖与复杂嵌套数据，[[Three-Level Meta-Analysis|三水平元分析]]（Cheung, 2014）与稳健方差估计（Robust Variance Estimation, RVE, Hedges et al., 2010）成为现代元分析前沿；STATA 与 R 形成完备的元分析计算生态。
 
@@ -163,7 +164,7 @@ flowchart TD
 > | **[[Egger Regression Test\|Egger 线性回归检验]]** | $\frac{y_i}{SE_i} = \beta_0 \frac{1}{SE_i} + \beta_1$ | 定量检验漏斗图不对称性；截距 $\beta_1$ 偏离 0 检验小研究偏倚。 | 若 $p < .05$ 且截距显著偏离 0，确认存在显著发表偏倚与小研究效应。 | 🔗 [[Egger Regression Test]] |
 > | **[[Trim and Fill Method\|剪补法（Trim & Fill）]]** | 非参数迭代剪除与镜像填补 | 估算缺失研究数量并在漏斗图对侧填补虚拟研究，重新计算校正后的合并效应量。 | 检验填补后效应量点估计降幅是否改变原有结论的[[Statistical Significance\|统计显著性]]与实践意义。 | 🔗 [[Trim and Fill Method]] |
 > | **[[Fail-Safe N\|失安全系数（Fail-Safe N）]]** | 经典：$N_{\text{fs}} = \frac{(\sum Z_i)^2}{2.706} - k$<br>Orwin：$N_{\text{fs}} = \frac{k(\bar{g} - g_c)}{g_c - g_{\text{fs}}}$ | 极端抽屉文件敏感性测试：经典法计算推翻显著性所需零效应研究数；Orwin 法计算稀释至微小阈值（如 $g_c = 0.01$）所需研究数。 | **Rosenthal 准则** $N_{\text{fs}} > 5k + 10$；**Orwin 准则** 稀释所需未发表研究量远超现实发表容量。 | 🔗 [[Fail-Safe N]] |
-> | **留一法敏感性分析（Leave-One-Out）** | $\hat{\theta}_{(-i)} = \sum_{j \ne i} w_j^* y_j / \sum_{j \ne i} w_j^*$ | 依次逐一剔除单项初级研究后重新拟合模型，检验是否存在主导结论或扭曲异质性的极端异常值。 | 若剔除任一研究后合并效应量与 95% CI 保持稳定，确认结论具备高度稳健性。 | 🔗 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] |
+> | **[[Leave-One-Out Sensitivity Analysis\|留一法敏感性分析]]（Leave-One-Out）** | $\hat{\theta}_{(-i)} = \sum_{j \ne i} w_j^* y_j / \sum_{j \ne i} w_j^*$ | 依次逐一剔除单项初级研究后重新拟合模型，检验是否存在主导结论或扭曲异质性的极端异常值。 | 若剔除任一研究后合并效应量与 95% CI 保持稳定，确认结论具备高度稳健性。 | 🔗 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] |
 > | **[[Meta-regression\|元回归（Meta-regression）]]** | $\theta_i = \beta_0 + \beta_1 X_{1i} + \dots + u_i + \epsilon_i$ | 将效应量作为[[Dependent Variable\|因变量]]，研究特征作为[[Independent Variable\|自变量]]，检验协[[Variable\|变量]]对效应量变异的调节解释力。 | $F$ 或 $Q_M$ 检验评价模型联合显著性；伪 $R^2$ 评估调节变量对异质性方差的解释率。 | 🔗 [[Meta-regression]] |
 > | **[[Pairwise Wald Tests\|成对 Wald 检验]]** | $W_{jk} = \frac{(\hat{\theta}_j - \hat{\theta}_k)^2}{v_j + v_k} \sim \chi^2(1)$ | 检验三个或更多分类亚组之间两两成对效应量差异的统计显著性与级差排序。 | $W > 3.84$ 判定两亚组间差异显著（$p < .05$）；配合事后多重检验校正。 | 🔗 [[Pairwise Wald Tests]] |
 > | **[[Three-Level Meta-Analysis\|三水平多层元分析]]** | Level 1: 抽样误差<br>Level 2: 研究内变异<br>Level 3: 研究间变异 | 处理单项研究报告多个相关效应量（多重测量或多结局）时的统计非独立性依赖。 | 似然比检验（LRT）比较二水平与三水平模型；分解 Level 2 与 Level 3 异质性方差占比。 | 🔗 [[Three-Level Meta-Analysis]] |
@@ -193,7 +194,7 @@ flowchart LR
 >    - 绘制漏斗图观察几何对称性，配合 Egger 线性回归与 Begg 秩相关定量检验[[Small Study Effects|小研究效应]]；
 >    - 运用 Duval & Tweedie [[Trim and Fill Method|剪补法]]估计潜在缺失研究并校正合并值；
 >    - 计算[[Fail-Safe N|经典失安全数]]（门槛 $5k + 10$）与 Orwin 效应量稀释失安全数，评估结论抵抗抽屉文件效应的能力；
->    - 执行留一法（Leave-One-Out）敏感性分析，逐一排除单项初级研究检验合并效应量与[[Confidence Interval|置信区间]]的扰动边界。
+>    - 执行[[Leave-One-Out Sensitivity Analysis|留一法]]（Leave-One-Out）敏感性分析，逐一排除单项初级研究检验合并效应量与[[Confidence Interval|置信区间]]的扰动边界。
 > 5. **变异分解、调节检验与预测外推** 开展分类亚组分析（$Q_B$ 组间异质性检验）与连续[[Variable|变量]]元回归（Meta-regression），结合 95% [[Prediction Interval|预测区间]]（PI）评估干预在未来单项真实情境下的潜在外推风险。
 
 ---

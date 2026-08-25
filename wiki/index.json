@@ -10361,7 +10361,8 @@
     "path": "wiki/theories/learning-science-cognitive-science/Cognitive Load Theory.md",
     "aliases": [
       "认知负荷理论",
-      "CLT"
+      "认知负荷论",
+      "Sweller's Cognitive Load Theory"
     ]
   },
   {
@@ -12257,10 +12258,12 @@
     "path": "wiki/methods/quantitative/Fail-Safe N.md",
     "aliases": [
       "失安全系数",
-      "失安全N",
+      "失安全数",
       "Rosenthal's Fail-Safe N",
       "经典失安全数",
-      "Fail-Safe Number"
+      "Fail-Safe Number",
+      "Orwin's Fail-Safe N",
+      "效应量失安全数"
     ]
   },
   {
@@ -12351,6 +12354,19 @@
       "Inverse-Variance Method",
       "Inverse-Variance Weighting Method",
       "IVW"
+    ]
+  },
+  {
+    "title": "Leave-One-Out Sensitivity Analysis",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Leave-One-Out Sensitivity Analysis.md",
+    "aliases": [
+      "留一法敏感性分析",
+      "留一敏感性分析",
+      "逐一剔除敏感性检验",
+      "留一法",
+      "Leave-One-Out Method",
+      "Jackknife Sensitivity Analysis"
     ]
   },
   {

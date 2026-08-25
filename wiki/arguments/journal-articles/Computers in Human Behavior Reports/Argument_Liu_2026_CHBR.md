@@ -7,7 +7,7 @@ title: "Argument_Liu_2026_CHBR"
 argument_key: "Argument_Liu_2026_CHBR"
 argument_display_title: "Meta-analysis on the influence of AI agents on K-12 student cognitive performance"
 argument_kind: "journal-article"
-argument_related_count: 50
+argument_related_count: 51
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -44,6 +44,8 @@ related_concepts:
   - "[[Construct]]"
   - "[[Creativity]]"
   - "[[Dependent Variable]]"
+  - "[[Funnel Plot]]"
+  - "[[Publication Bias]]"
   - "[[Gamification]]"
   - "[[General Education]]"
   - "[[Divergent Thinking]]"
@@ -55,8 +57,6 @@ related_concepts:
   - "[[Sample Size Determination]]"
   - "[[Hypothesis]]"
   - "[[Causality]]"
-  - "[[Funnel Plot]]"
-  - "[[Publication Bias]]"
   - "[[Small Study Effects]]"
   - "[[External Validity]]"
   - "[[Internal Validity]]"
@@ -73,10 +73,11 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Systematic Review]]"
   - "[[PRISMA]]"
-  - "[[Fixed-Effect and Random-Effects Models]]"
-  - "[[Experimental Research]]"
   - "[[Trim and Fill Method]]"
   - "[[Fail-Safe N]]"
+  - "[[Leave-One-Out Sensitivity Analysis]]"
+  - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Experimental Research]]"
   - "[[Meta-regression]]"
   - "[[Intervention Research]]"
 related_persons:
@@ -120,7 +121,7 @@ updated: 2026-08-25
 > | **维果茨基社会文化理论与最近发展区支架理论**<br>[[Piaget's Theory of Cognitive Development\|Vygotskian Scaffolding & ZPD]] | 提供技术中介的[[Epistemology\|认识论]]基础。AI [[AI Agent in Education\|智能体]]作为动态脚手架，通过自适应评估感知学习者的最近发展区（Zone of Proximal Development, ZPD），提供即时矫正反馈与个性化线索，助力学生完成独立无法达成的认知任务。（p.2） |
 > | **建构主义学习框架**<br>[[Cognitive Constructivism\|Constructivist Learning Framework]] | 强调学习是学习者在交互中主动建构意义的过程。AI 智能体提供多模态交互环境与探究空间，支持反思与策略演练。（p.2） |
 > | **布鲁姆认知领域目标分类学**<br>[[Bloom's Taxonomy\|Bloom's Revised Taxonomy]] | 提供因变量分类标准，将认知成果操作化为知识类（事实再认与概念识记）、技能类（程序练习与问题解决应用）与高阶思维（[[Critical Thinking\|批判性思维]]、分析推理与发散创造）。（pp.2, 5） |
-> | **认知负荷理论**<br>[[Working Memory\|Cognitive Load Theory]] | 解释 AI 智能体如何通过分步提示与自适应信息呈现减轻外在认知负荷，释放工作记忆以专注于图式建构与核心解题技能演练。（pp.2, 10） |
+> | **认知负荷理论**<br>[[Cognitive Load Theory\|Cognitive Load Theory]] | 解释 AI 智能体如何通过分步提示与自适应信息呈现减轻外在认知负荷，释放[[Working Memory\|工作记忆]]以专注于图式建构与核心解题技能演练。（pp.2, 10） |
 
 > [!warrant]- 理论如何支撑论证
 > 支架理论与[[Constructivist Paradigm|建构主义]]解释了为什么 AI 智能体区别于传统静态教学软件：其主动感知输入并实时自适应调整反馈的特性，直接构成了学习者的外部认知脚手架；布鲁姆分类学则为分解[[Heterogeneity|异质性]]提供了理论坐标，使得[[Meta-analysis|元分析]]能够超越技术整体是否有效的粗糙提问，精确揭示出技术在不同认知加工层级上的差异化机制；[[Cognitive Load Theory|认知负荷理论]]则进一步说明了程序技能练习在人机自适应环境中最易获得稳定增益的心理学机理。（pp.2–3, 9–11）
@@ -155,7 +156,7 @@ updated: 2026-08-25
 > | **文献检索与筛选**<br>Systematic Search & PRISMA | 遵循[[Systematic Review\|系统综述]]和[[Meta-analysis\|元分析]]优先报告条目（[[PRISMA\|Preferred Reporting Items for Systematic Reviews and Meta-Analyses]], PRISMA）2020 规范，系统检索 Web of Science、ScienceDirect、Google Scholar 与 Springer Nature 四大核心数据库（2020年1月1日至2025年12月31日）。检索式融合 [[AI Agent in Education\|AI Agent]]、intelligent tutoring system、educational robot、generative AI、conversational AI、K-12、cognitive performance 等主题词。经去重、初筛、全文资格审查四轮双盲流程，最终纳入 34 项实验与准实验实证研究。（pp.3–4） |
 > | **编码一致性信度检验**<br>Inter-Coder Reliability | 三名受过专业元分析训练的研究者独立进行特征与效应量编码。采用 Holsti（1969）信度公式（$R = \frac{3M}{N_1 + N_2 + N_3}$）计算编码者间一致性，最终跨研究编码信度系数达到 $R = 0.995$。（p.5） |
 > | **效应量计算与合成模型**<br>Random-Effects Meta-Analysis | 采用 Hedges' $g$ 校正小样本正向偏倚；因初级研究在教学法、智能体类型及学段上存在显著实质异质性，采用基于逆方差加权的 DerSimonian-Laird 随机效应模型估计合并效应量与 95% 置信区间（95% Confidence Interval, 95% CI）；计算 Cochran's $Q$ 统计量、$I^2$ 指数（$25\%, 50\%, 75\%$ 分别对应低、中、高异质性）与 $\tau^2$ 评估异质性。（pp.5, 7） |
-> | **亚组调节与发表偏倚检验**<br>Subgroup & Publication Bias | 在 STATA 18.0 中执行认知类别、智能体形态、学段、学科及周期的混合效应亚组分析（$Q_B$ 组间异质性检验）；综合运用漏斗图目视检查、Duval & Tweedie 剪补法、Rosenthal 经典失安全数（门槛 $5k + 10$）与 Orwin 失安全数检验发表偏倚；采用留一法（Leave-one-out）检验单个异常值敏感性。（pp.5, 7–9） |
+> | **亚组调节与发表偏倚检验**<br>Subgroup & Publication Bias | 在 STATA 18.0 中执行认知类别、智能体形态、学段、学科及周期的混合效应亚组分析（$Q_B$ 组间异质性检验）；综合运用[[Funnel Plot\|漏斗图]]目视检查、Duval & Tweedie [[Trim and Fill Method\|剪补法]]、Rosenthal [[Fail-Safe N\|经典失安全数]]（门槛 $5k + 10$）与 Orwin 失安全数检验[[Publication Bias\|发表偏倚]]；采用[[Leave-One-Out Sensitivity Analysis\|留一法]]（Leave-one-out）检验单个异常值敏感性。（pp.5, 7–9） |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成与分布 |
@@ -350,7 +351,7 @@ updated: 2026-08-25
 ### 论证步骤四：偏倚诊断、失安全数计算与留一法敏感性检验确立元分析证据体系的高度稳健性
 
 > [!claim] 证据体系的抗偏倚性与统计稳健性
-> 经[[Funnel Plot|漏斗图]]、[[Trim and Fill Method|剪补法]]、[[Fail-Safe N|经典失安全数]]、Orwin 失安全数及留一法敏感性分析检验，本[[Meta-analysis|元分析]]所合成的总体效应量具有高度稳健性，未受严重[[Publication Bias|发表偏倚]]或极端异常样本的实质干扰。（pp.7–9）
+> 经[[Funnel Plot|漏斗图]]、[[Trim and Fill Method|剪补法]]、[[Fail-Safe N|经典失安全数]]、Orwin 失安全数及[[Leave-One-Out Sensitivity Analysis|留一法敏感性分析]]检验，本[[Meta-analysis|元分析]]所合成的总体效应量具有高度稳健性，未受严重[[Publication Bias|发表偏倚]]或极端异常样本的实质干扰。（pp.7–9）
 
 > [!chain-link] 多重稳健性压力测试数据
 > - **漏斗图对称性（Funnel Plot）** 漏斗图显示 73 个效应量均匀且对称地分布在总体效应量中心垂线两侧，无明显偏倚缺角。
@@ -366,7 +367,7 @@ updated: 2026-08-25
 > | **剪补法（Trim-and-Fill）** | 估计未发表的虚拟缺失研究数 | 估计虚拟缺失研究数 = 0 | 效应量无需校正，合并值高度稳健 |
 > | **经典失安全数（Classic Fail-Safe N）** | 门槛值 $5k + 10 = 180$ | 计算值 $N_{\text{fs}} = 378.00$（$p < .001$） | 抗抽屉文件效应能力极强 |
 > | **Orwin 失安全数（Orwin's Fail-Safe N）** | 稀释至微小阈值 $g = 0.01$ | 所需零效应研究数 $N_{\text{fs}} = 2{,}876.00$ | 结论极度抗稀释 |
-> | **留一法敏感性分析（Leave-one-out）** | 依次排除单项[[Document\|文献]]检验扰动 | 合并 $g$ 稳定在 [0.242, 0.567] | 无单一异常值主导元分析结论 |
+> | **[[Leave-One-Out Sensitivity Analysis\|留一法敏感性分析]]（Leave-one-out）** | 依次排除单项[[Document\|文献]]检验扰动 | 合并 $g$ 稳定在 [0.242, 0.567] | 无单一异常值主导元分析结论 |
 
 > [!example]- 表6：经典失安全数检验结果
 > | 统计参数 | 观测值 |

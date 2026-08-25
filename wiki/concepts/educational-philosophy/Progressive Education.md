@@ -60,8 +60,8 @@ related_arguments:
   - "[[Argument_Cowen_2009_CE]]"
 confidence: medium
 status: draft
-created: 2026-05-26
-updated: '2026-07-22'
+created: 2026-06-08
+updated: 2026-08-25
 ---
 
 # Progressive Education
@@ -181,7 +181,7 @@ updated: '2026-07-22'
 > - **1899–1916 — 经典美式纲领确立** [[John Dewey|杜威]]先后出版《学校与社会》与《民主与教育》，确立以[[Experiential Learning|经验学习]]、项目活动与民主公民培养为核心的进步教育纲领。[[Argument_Ryabyy_2024_Maneto|(Ryabyy, 2024, p. 102)]]
 > - **1910s–1930s — 跨国传播与分支分化** 苏俄 Shatskii 建立大规模农村进步教育实验；中国[[Hu Shi|胡适]]、[[Tao Xingzhi|陶行知]]引进杜威思想；而后苏联在 1930 年代因阶级意识分歧转向全面拒绝杜威。[[Argument_Ryabyy_2024_Maneto|(Ryabyy, 2024, pp. 103–104)]]; [[Argument_Schulte_2009_EncuentrosEducacion|(Schulte, 2009, p. 75)]]
 > - **1940s–1950s — 战后占领区移植与抵抗** 美占当局在二战后向日本与西德推行美式进步教育，日本顺应[[Transfer Translation Transformation|转译]]为现代化逻辑，西德以学术标准为名展开抵制。[[Argument_Cowen_2009_CE|(Cowen, 2009, p. 323)]]
-> - **1980s–2000s — 本土重构与认知负荷论批判** 中国将杜威重构为[[Quality Education|素质教育]]代言人；同时教育心理学家 Sweller 提出[[Cognitive Load Theory|认知负荷理论]]，对进步教育无指导探究提出严厉批评。[[Argument_Schulte_2009_EncuentrosEducacion|(Schulte, 2009, p. 93)]]
+> - **1980s–2000s — 本土重构与[[Cognitive Load Theory|认知负荷论]]批判** 中国将杜威重构为[[Quality Education|素质教育]]代言人；同时教育心理学家 Sweller 提出[[Cognitive Load Theory|认知负荷理论]]，对进步教育无指导探究提出严厉批评。[[Argument_Schulte_2009_EncuentrosEducacion|(Schulte, 2009, p. 93)]]
 > - **2020s — 高压考试下的[[Pragmatic Paradigm|实用主义]]转向与修辞化** Wang & McLaughlin 揭示中国高利害考试下 [[Learner-Centred Education|LCE]]/进步教育的实用主义提分[[Decodification|解码]]；Yan & Morris 分析香港[[General Education|通识教育]]中进步教育修辞的工具化运用。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 601–603)]]; [[Argument_Yan_2025_JCS|(Yan & Morris, 2025, pp. 486–487)]]
 
 ---

@@ -6,7 +6,7 @@ aliases:
 summary: "元分析中以图形方式全景展示各项初级研究效应量点估计、置信区间、权重占比及合并综合菱形效应的标准可视化方法"
 type: concept
 domain: "research-methodology"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -31,6 +31,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Systematic Review]]"
   - "[[Moderator Analysis]]"
+  - "[[Leave-One-Out Sensitivity Analysis]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -92,7 +93,7 @@ flowchart TD
 > 2. **第二步：看置信线段重叠度（直观判读[[Heterogeneity|异质性]]）** 
 >    - 若各研究的水平线段大部分相互重叠，提示研究间高度同质；
 >    - 若大量研究的[[Confidence Interval|置信区间]]完全不重叠、彼此割裂，提示存在高度[[Heterogeneity|异质性]]（需结合 $I^2$ 与 $Q$ 检验开展[[Moderator Analysis|调节变量分析]]）。
-> 3. **第三步：看大权重研究的主导性** 检查是否存在单项方块极大、权重占比过高（如 $> 50\%$）的研究；若存在，需警惕总体结论是否被单一研究所绑架，需进行留一法敏感性分析（Leave-one-out sensitivity analysis）。
+> 3. **第三步：看大权重研究的主导性** 检查是否存在单项方块极大、权重占比过高（如 $> 50\%$）的研究；若存在，需警惕总体结论是否被单一研究所绑架，需进行[[Leave-One-Out Sensitivity Analysis|留一法敏感性分析]]（Leave-one-out sensitivity analysis）。
 
 ---
 

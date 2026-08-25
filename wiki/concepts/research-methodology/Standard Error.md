@@ -8,10 +8,10 @@ aliases:
 summary: "抽样分布的标准差，度量样本统计量对总体参数的估计精度，是中心极限定理的直接推论和置信区间构建的核心材料"
 type: concept
 domain: "research-methodology"
-related_count: 10
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 9
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - statistics
   - quantitative-research
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Effect Size]]"
 related_theories:
   - "[[Central Limit Theorem]]"
-  - "[[Cognitive Load Theory]]"
 related_methods:
   - "[[Causal Modeling]]"
   - "[[Random Sampling]]"
@@ -35,14 +34,14 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-22
-updated: 2026-06-22
+updated: 2026-08-25
 ---
 # Standard Error
 
 ## 定义
 
 > [!def] 核心定义
-> 标准误（standard error, SE）是[[Sampling Error|抽样分布]]的标准差，度量样本统计量（如均值、比例）围绕总体参数的理论变异程度。它是[[Central Limit Theorem|中心极限定理]]的直接推论——[[Cognitive Load Theory|CLT]] 表明样本均值趋近正态分布，SE 则量化了该分布的宽度。SE 越小，样本估计越精确。SE 是[[Confidence Interval|置信区间]]的核心构建材料：$CI = \text{点估计} \pm Z \times SE$。
+> 标准误（Standard Error, SE）是[[Sampling Error|抽样分布]]的标准差，度量样本统计量（如均值、比例）围绕总体参数的理论变异程度。它是[[Central Limit Theorem|中心极限定理]]的直接推论，表明样本均值趋近正态分布，SE 则量化了该分布的宽度。SE 越小，样本估计越精确。SE 是[[Confidence Interval|置信区间]]的核心构建材料：$CI = \text{点估计} \pm Z \times SE$。
 
 > [!concept-lens] 概念透镜
 > - **含义** SE 指向从样本推断总体时固有的不确定性——不是某个具体样本的误差，而是抽样过程本身产生的理论变异。
