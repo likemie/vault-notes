@@ -140,8 +140,9 @@ updated: 2026-08-25
 ## 元分析核心统计参数与方法索引矩阵
 
 ```mermaid
-flowchart TD
+flowchart LR
     subgraph Core["<b>元分析全流程统计体系</b>"]
+        direction LR
         ES["<b>1. 效应量与精度度量</b><br>Cohen's d, Hedges' g, Pearson r, Fisher z"] --> W["<b>2. 逆方差加权建模</b><br>固定效应 vs 随机效应 (DerSimonian-Laird τ²)"]
         W --> H["<b>3. 异质性量化与检验</b><br>Cochran's Q, Higgins I², 95% 预测区间 PI"]
         H --> V["<b>4. 证据可视化</b><br>森林图 (Forest Plot), 漏斗图 (Funnel Plot)"]
