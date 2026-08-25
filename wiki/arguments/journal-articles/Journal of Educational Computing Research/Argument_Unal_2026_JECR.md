@@ -35,7 +35,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Metacognition]]"
   - "[[Sampling Error]]"
-  - "[[Heterogeneity]]"
+  - "[[Corrected Covered Area]]"
   - "[[Construct]]"
   - "[[Dialogue in Education]]"
   - "[[Feedback]]"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Sample Size Determination]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Study Population and Sample]]"
+  - "[[Heterogeneity]]"
   - "[[Hypothesis]]"
   - "[[Learner Autonomy]]"
   - "[[Between-Study Variance]]"
@@ -74,6 +75,7 @@ related_methods:
   - "[[Second-Order Meta-Regression]]"
 related_instruments:
   - "[[AMSTAR]]"
+  - "[[GROOVE]]"
 related_persons:
   - "[[Socrates]]"
 related_facts: []
@@ -131,7 +133,7 @@ issuing_organization: ""
 > | **二阶元分析方法论框架**<br>[[Meta-meta-analysis]] | 依据 Schmidt & Oh (2013) 与 Oh (2020) 的理论，将一阶[[Meta-analysis\|元分析]]的标准化[[Effect Size\|效应量]]作为分析单位，通过[[Fixed-Effect and Random-Effects Models\|随机效应模型]]与经典[[Inverse-Variance Weighting\|逆方差加权]]消除一阶[[Sampling Error\|抽样误差]]，合成全领域宏观效应基准（p. 1367）。 |
 > | **PRISMA 2020 系统评价规范**<br>[[Coding in Qualitative Research]] | 遵循系统评价和元分析优先报告条目 2020 年版（Preferred Reporting Items for Systematic Reviews and Meta-Analyses, PRISMA 2020）指南，提供包含识别、筛查、合格性审查与最终纳入的四阶段循证筛选架构，确保二阶样本提取的透明性与可重复性（Page et al., 2021; pp. 1367–1369）。 |
 > | **R-AMSTAR 系统评价质量评估工具**<br>[[AMSTAR]] | 采用系统评价方法学质量评估工具修订版（Revised Assessment of Multiple Systematic Reviews, R-AMSTAR; Kung et al., 2010; Young, 2017）的 12 项准则（排除临床项 8C/8D），对纳入的一阶元分析进行方法学质量量化评级（0–44 分），识别质量对效应量的调节作用（pp. 1370–1373）。 |
-> | **GROOVE 重叠分析与校正覆盖面积矩阵**<br>[[Heterogeneity]] | 运用系统评价重叠图形表征工具（Graphical Representation of Overlap for OVErviews, GROOVE; Bracchiglione et al., 2022）计算校正覆盖面积（Corrected Covered Area, CCA），设定 10% 重叠率排除阈值，解决一阶元分析因共享初级研究导致的双重计数与假阳性膨胀（pp. 1373–1375）。 |
+> | **GROOVE 重叠分析与校正覆盖面积矩阵**<br>[[GROOVE]] · [[Corrected Covered Area]] | 运用[[GROOVE\|系统评价重叠图形表征工具]]（Graphical Representation of Overlap for OVErviews, GROOVE; Bracchiglione et al., 2022）计算[[Corrected Covered Area\|校正覆盖面积]]（Corrected Covered Area, CCA），设定 10% 重叠率排除阈值，解决一阶元分析因共享初级研究导致的双重计数与假阳性膨胀（pp. 1373–1375）。 |
 
 > [!warrant]- 理论如何支撑论证
 > 布鲁姆教育目标分类学与五维高阶思维框架使本研究摆脱了将所有学生产出简单混同为单一成绩指标的粗放模式，将认知产出清晰区隔为基础事实掌握（[[Academic Achievement|学业成就]]）与复杂探究能力（高阶思维），进而能够实证检验 AI 工具究竟是在取代人类低阶记忆还是真正赋能深层反思。在方法层面上，二阶元分析与 GROOVE 重叠矩阵构成了破除现有证据冲突的技术桥梁：现有 FOM 效应量离散的根源不仅在于实质教学情境差异，更在于[[Document|文献]]重叠与质量参差；通过 CCA 矩阵剔除重叠率超过 10% 的冗余元分析，并引入 R-AMSTAR 质量评分与[[Publication Bias|发表偏倚]]综合诊断，能够有效剥离方法学假象，提炼出真正反映 AI 教育干预效能的稳健证据（pp. 1365–1375）。
@@ -197,7 +199,7 @@ issuing_organization: ""
 > | **统计完整性** | FOM 必须报告充分且恰当的统计数据以生成通用效应量（如 Cohen's $d$、Hedges' $g$、置信区间上下限 LL/UL、标准误（Standard Error, SE）及方差值）。 | 未包含定量元分析合并矩阵的纯质性系统评价予以排除。 |
 > | **独立性与重叠控制** | FOM 必须独立开展以确保研究结论的真实有效性。 | 当重叠 FOM 之间的**校正覆盖面积（CCA）超过 10%** 时，[[Research Scope\|研究范围]]较窄或信息陈旧的 FOM 予以排除。 |
 >
-> **图表解读** 本标准体系在教学取向上严格区分了人工智能作为教学媒介（AI as medium）与作为学科教学内容（Teaching of AI），确保所有合成[[Effect Size|效应量]]均代表学生在学科学习中借助 AI 获得的真实增益；在方法学上通过 10% 的 CCA 覆盖率红线，彻底阻断了二阶证据综合中普遍存在的双重加权偏差。
+> **图表解读** 本标准体系在教学取向上严格区分了人工智能作为教学媒介（AI as medium）与作为学科教学内容（Teaching of AI），确保所有合成[[Effect Size|效应量]]均代表学生在学科学习中借助 AI 获得的真实增益；在方法学上通过 10% 的 [[Corrected Covered Area|CCA]] 覆盖率红线，彻底阻断了二阶证据综合中普遍存在的双重加权偏差。
 
 ---
 
@@ -244,7 +246,7 @@ issuing_organization: ""
 ### 论证步骤二　初级研究重叠审计与质量评级：GROOVE/CCA 矩阵与 R-AMSTAR 检验
 
 > [!claim] 步骤二主张
-> 文献重叠会导致初级[[Study Population and Sample|研究样本]]被重复赋予加权方差，从而人为缩窄[[Confidence Interval|置信区间]]并膨胀假阳性；必须采用 GROOVE 校正覆盖面积（CCA）矩阵剔除重叠率超过 10% 的元分析，并运用 R-[[AMSTAR]] 验证纳入数据集的方法学高质量属性（pp. 1370–1375）。
+> 文献重叠会导致初级[[Study Population and Sample|研究样本]]被重复赋予加权方差，从而人为缩窄[[Confidence Interval|置信区间]]并膨胀假阳性；必须采用 [[GROOVE]] [[Corrected Covered Area|校正覆盖面积]]（CCA）矩阵剔除重叠率超过 10% 的元分析，并运用 R-[[AMSTAR]] 验证纳入数据集的方法学高质量属性（pp. 1370–1375）。
 
 > [!chain-link] 证据到判断
 > - **证据一：GROOVE 重叠分析与排除** 运用 GROOVE 工具计算各 FOM 之间的初级研究重叠矩阵，设定 $CCA > 10\%$ 为不可接受的高重叠阈值；最终果断排除了 6 项存在显著重叠且研究范围较窄的元分析：Wu & Yu (2024)、Zhu et al. (2025)、Sun & Zhou (2024)、Guan et al. (2024)、Liu, Guo, He, & Hu (2025)、Wang & Fan (2025)（pp. 1373–1375）。
@@ -491,7 +493,7 @@ issuing_organization: ""
 > [!warning]
 > - **语言与发表时间窗限制** 本研究仅纳入 2020 年 1 月至 2025 年 4 月之间以英语发表的一阶[[Meta-analysis|元分析]]，可能存在语言[[Publication Bias|发表偏倚]]（Language Publication Bias），未覆盖非英语地区的关键本土元分析证据。
 > - **调节[[Variable|变量]]亚组[[Sample Size Determination|样本量]]不均衡** 部分调节变量亚组所包含的[[Effect Size|效应量]]过少（例如数学学科与计算机科学学科各仅包含 2 项元分析，[[Higher-Order Thinking Skills|高阶思维]]单独亚组仅包含 1 项元分析），因此对这些细分亚组差异的解读须保持审慎。
-> - **未附清单[[Document|文献]]的潜在残留重叠** 尽管敏感性分析证实未对整体效应造成实质性扭曲，但纳入的 3 项未报告初级研究清单的元分析仍可能存在无法完全通过 GROOVE/CCA 矩阵排除的潜在初级研究重叠。
+> - **未附清单[[Document|文献]]的潜在残留重叠** 尽管敏感性分析证实未对整体效应造成实质性扭曲，但纳入的 3 项未报告初级研究清单的元分析仍可能存在无法完全通过 [[GROOVE]]/[[Corrected Covered Area|CCA]] 矩阵排除的潜在初级研究重叠。
 > - **研究对象局限于学生端产出** 本研究仅聚焦 AI 对学生[[Academic Achievement|学业成就]]与高阶思维技能的影响，未涵盖 AI 应用对教师教学行为、教师技术采纳态度以及学校管理流程等系统性层面的影响。（p. 1381）
 
 ---

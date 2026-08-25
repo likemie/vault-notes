@@ -44,6 +44,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Paradigm]]"
   - "[[Cooperative Learning]]"
+  - "[[Corrected Covered Area]]"
   - "[[Creativity]]"
   - "[[Hypothesis]]"
   - "[[Standard Error]]"
@@ -93,6 +94,7 @@ related_methods:
   - "[[Effect Size Conversion]]"
 related_instruments:
   - "[[AMSTAR]]"
+  - "[[GROOVE]]"
 related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Education Endowment Foundation]]"
@@ -105,6 +107,7 @@ related_arguments:
   - "[[Argument_Qvortrup_2015_Paideia]]"
   - "[[Argument_Wrigley_2019_ERE]]"
   - "[[Argument_Erdem_2026_SHE]]"
+  - "[[Argument_Unal_2026_JECR]]"
   - "[[Argument_Simpson_2017_JEP]]"
   - "[[Argument_Allerup_2015_Paideia]]"
   - "[[Argument_Bergeron_2017_MJE]]"
@@ -112,7 +115,6 @@ related_arguments:
   - "[[Argument_OConnor_2020_AJLL]]"
   - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Wiliam_2019_ERE]]"
-  - "[[Argument_Unal_2026_JECR]]"
 confidence: high
 status: draft
 created: 2026-05-03
@@ -182,7 +184,7 @@ updated: 2026-08-25
 >
 > - **第二代：标准伞状综述与经典规范二阶元分析（2010s）**
 >
->   针对第一代的统计乱象，Cooper & Koenka（2012）在《Research Synthesis Methods》系统提出了综述之综述（Overview of Reviews / [[Umbrella Review]]）的方法学标准；Cafri et al.（2010）在《JEBS》奠定了二阶元分析的基础统计框架；Sipe & Curlette（1996, 1997）与 Pieper et al.（2014）规范了重叠控制标准；Wecker, Vogel & Hetmanek（2016）从数学基础推导出六项方法论规范；[[Argument_Gungor_2026_CP|Güngör et al. (2026)]]则将该[[Paradigm|范式]]应用于[[Cooperative Learning|合作学习]]领域。第二代二阶元分析建立了 PRISMA 与 [[AMSTAR]] 质量筛选流程，严格执行效应量测度转换，普遍采用**经典逆方差加权法（$w_i^* = \frac{1}{v_i + \tau^2}$）**与**随机效应模型**（Borenstein et al., 2021），并采用 Cooper & Koenka $\le 25\%$ 重叠率或校正覆盖面积（CCA）控制[[Document|文献]]重叠，全面报告置信区间与[[Publication Bias|发表偏倚]]检验。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016)]]; [[Argument_Gungor_2026_CP|(Güngör et al., 2026)]]
+>   针对第一代的统计乱象，Cooper & Koenka（2012）在《Research Synthesis Methods》系统提出了综述之综述（Overview of Reviews / [[Umbrella Review]]）的方法学标准；Cafri et al.（2010）在《JEBS》奠定了二阶元分析的基础统计框架；Sipe & Curlette（1996, 1997）与 Pieper et al.（2014）规范了重叠控制标准；[[Argument_Wecker_2016_ZfE|Wecker, Vogel & Hetmanek (2016)]] 从数学基础推导出六项方法论规范；[[Argument_Gungor_2026_CP|Güngör et al. (2026)]] 则将该[[Paradigm|范式]]应用于[[Cooperative Learning|合作学习]]领域。第二代二阶元分析建立了 PRISMA 与 [[AMSTAR]] 质量筛选流程，严格执行效应量测度转换，普遍采用**经典逆方差加权法（$w_i^* = \frac{1}{v_i + \tau^2}$）**与**随机效应模型**（Borenstein et al., 2021），并采用 Cooper & Koenka $\le 25\%$ 重叠率或[[Corrected Covered Area|校正覆盖面积]]（CCA）控制[[Document|文献]]重叠，全面报告置信区间与[[Publication Bias|发表偏倚]]检验。
 >
 > - **第三代：现代多水平与集群稳健二阶元分析（2013–至今）**
 >
@@ -221,6 +223,8 @@ updated: 2026-08-25
 > | 统计方法条目 | 方法定位与角色 | 解决的核心统计问题与方法论痛点 | 判断标准与决策阈值 | 深度条目索引 |
 > |:---|:---|:---|:---|:---|
 > | **[[Inverse-Variance Weighting\|经典逆方差加权（IVW）]]** | **精度加权基础算法** | 解决简单算术平均扭曲估计精度的问题，依据抽样方差与研究间异质性方差的倒数（$w_i^* = \frac{1}{v_i + \tau^2}$）分配权重，实现合成效应量方差最小化。 | 观察 95% 置信区间是否跨 0 及 $p < .05$；通过 $Q$ 统计量（$p < .05$）与 $I^2$ 指数（$25\%/50\%/75\%$ 分别对应低/中/高度异质性）判定跨研究离散度。 | 🔗 [[Inverse-Variance Weighting]] |
+> | **[[Corrected Covered Area\|校正覆盖面积（CCA）]]** | **初级研究重叠量化标准** | 解决一阶元分析共享底层[[Document\|文献]]导致样本重复计算与假阳性膨胀的痛点，通过扣除基准出现的校正公式精确计算文献重复冗余比例。 | **四级判定阈值** $< 5\%$ 轻微重叠；$5\%–10\%$ 中等重叠；$10\%–15\%$ 高度重叠；$\ge 15\%$ 极高重叠（**通常以 $10\%$ 为排除高重叠元分析的决策红线**）。 | 🔗 [[Corrected Covered Area]] |
+> | **[[GROOVE\|系统评价重叠图形表征工具（GROOVE）]]** | **重叠审计与热力图诊断工具** | 解决人工排查大样本二阶证据库文献重叠繁琐且难以可视化的痛点，自动生成两两配对 CCA 矩阵与四色色彩热力图，指导精准去重。 | **可视化色块诊断** 绿色表示轻微重叠，黄色表示中等重叠，橙色与红色警示高度与极高重叠；识别并剔除 $CCA > 10\%$ 的冗余节点。 | 🔗 [[GROOVE]] |
 > | **[[Fail-Safe N\|经典失安全系数（Fail-Safe N）]]** | **抽屉文件极端敏感性测试** | 解决潜在未发表阴性研究威胁的判断问题，通过计算将当前显著合并效应拉低至不显著所需零效应隐藏研究篇数，设定 $5k + 10$ 安全判定门槛。 | **Rosenthal 安全准则** 若计算值 **$N_{\text{fs}} > 5k + 10$**（$k$ 为纳入效应量数），则判定发表偏倚极难颠覆当前结论；反之则提示证据稳健性较脆弱。 | 🔗 [[Fail-Safe N]] |
 > | **[[Trim and Fill Method\|剪补法（Trim & Fill / DTTF）]]** | **非参数[[Funnel Plot\|漏斗图]]偏倚填补校正** | 解决单侧[[Publication Bias\|发表偏倚]]导致漏斗图不对称与[[Effect Size\|效应量]]高估的问题，通过迭代剪除极端不对称研究锁定对称中心，并对侧镜像填补虚拟研究以重新估计偏倚校正后的真实效应量。 | **填补数与效应量变动判断** 若估计缺失研究数 **$k_{\text{miss}} = 0$** 且校正后效应量无变化，确证无偏倚；若 $k_{\text{miss}} > 0$，对比填补后效应量点估计降幅与 95% CI 是否仍显著。 | 🔗 [[Trim and Fill Method]] |
 > | **[[Egger Regression Test\|经典艾格回归检验（Egger's Test）]]** | **参数化漏斗图不对称与[[Small Study Effects\|小研究效应]]检验** | 解决传统单水平元分析中主观目测漏斗图不对称的不精确性问题，通过标准化效应量对精度的线性回归截距偏离度定量诊断发表偏倚。 | **回归截距显著性判定** 检验线性方程截距 $a$；若 **$p < .05$** 且截距显著偏离 0，确认存在显著发表偏倚/小研究效应；若 **$p \ge .05$**，未检出显著偏倚。 | 🔗 [[Egger Regression Test]] |
@@ -389,7 +393,7 @@ flowchart LR
 > - **[[Creativity|创造力]]全领域二阶元分析** [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] 综合 52 项一阶元分析（2,609 项原始研究、124 万被试），运用 [[Correlated and Hierarchical Effects Model|CHE]] 与 [[Robust Variance Estimation|RVE]] 确立创造力[[Predictive Validity|预测效度]]与教育干预效应。
 > - **[[Cooperative Learning|合作学习]]全领域二阶元分析** [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] 综合 15 项一阶元分析（403 项原始实证研究），在[[Umbrella Review|伞状综述]]框架下采用单水平经典[[Inverse-Variance Weighting|逆方差加权]][[Fixed-Effect and Random-Effects Models|随机效应模型]]（Cooper & Koenka $\le 25\%$ 重叠率准则）评估合作学习对[[Academic Achievement|学业成就]]、[[Higher-Order Thinking Skills|高阶思维]]与[[Affective Outcomes|情感行为]]的综合促进效应（$ES = 0.71$），并检验教学技术、学科领域与研究设计的[[Interaction Effect|调节效应]]。
 > - **[[Problem-Based Learning|问题本位学习]]高等教育二阶元分析** [[Argument_Erdem_2026_SHE|Erdem et al. (2026)]] 综合 20 项一阶元分析（469 项原始实证研究、47 个独立[[Effect Size|效应量]]），在[[Fixed-Effect and Random-Effects Models|随机效应模型]]下采用经典[[Inverse-Variance Weighting|逆方差加权法]]，依据 Cooper & Koenka $\le 25\%$ 重叠率准则与 R-[[AMSTAR]] 质量评级控制[[Document|文献]]重叠与质量偏倚，报告问题本位学习对学生[[Theoretical Knowledge|理论性知识]]、[[Clinical Skills|临床技能]]、[[Critical Thinking|批判性思维]]、态度与满意度的总体效应（调整后 $ES = 0.60$），并检验结果类型、地域、抽样方法、质量、报告类型与年份的[[Interaction Effect|调节效应]]。
-> - **AI 教育应用全领域二阶元分析** [[Argument_Unal_2026_JECR|Ünal et al. (2026)]] 综合 19 项一阶元分析（58,702 名参与者），采用 GROOVE 宏的校正覆盖面积（CCA）热力图排除 6 项重叠元分析，在[[Fixed-Effect and Random-Effects Models|随机效应模型]]下以经典[[Inverse-Variance Weighting|逆方差加权法]]合并效应量，报告 AI 教育应用对学生[[Academic Achievement|学业成就]]与[[Higher-Order Thinking Skills|高阶思维技能]]的综合效应（$ES = 0.67$，95% CI = [.55, .78]），并识别教育阶段（K12 vs 混合）与学科领域（计算机科学 vs 数学）为显著调节来源。
+> - **AI 教育应用全领域二阶元分析** [[Argument_Unal_2026_JECR|Ünal et al. (2026)]] 综合 19 项一阶元分析（58,702 名参与者），采用 [[GROOVE]] 宏的[[Corrected Covered Area|校正覆盖面积]]（CCA）热力图排除 6 项重叠元分析，在[[Fixed-Effect and Random-Effects Models|随机效应模型]]下以经典[[Inverse-Variance Weighting|逆方差加权法]]合并效应量，报告 AI 教育应用对学生[[Academic Achievement|学业成就]]与[[Higher-Order Thinking Skills|高阶思维技能]]的综合效应（$ES = 0.67$，95% CI = [.55, .78]），并识别教育阶段（K12 vs 混合）与学科领域（计算机科学 vs 数学）为显著调节来源。
 > - **固定效应等价性与方法论批判** [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] 从固定效应数学模型推导 6 项要求并系统审查《可见的学习》。
 
 ---

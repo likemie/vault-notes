@@ -6549,6 +6549,19 @@
     ]
   },
   {
+    "title": "Corrected Covered Area",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Corrected Covered Area.md",
+    "aliases": [
+      "校正覆盖面积",
+      "CCA",
+      "校正覆盖面积矩阵",
+      "覆盖面积",
+      "Covered Area",
+      "Corrected Covered Area Matrix"
+    ]
+  },
+  {
     "title": "Costs Benefits Ratio in Research Ethics",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Costs Benefits Ratio in Research Ethics.md",
@@ -12884,6 +12897,17 @@
       "同感评估技术",
       "共识评估技术",
       "CAT"
+    ]
+  },
+  {
+    "title": "GROOVE",
+    "type": "instrument",
+    "path": "wiki/instruments/rubric/GROOVE.md",
+    "aliases": [
+      "系统评价重叠图形表征工具",
+      "Graphical Representation of Overlap for OVErviews",
+      "GROOVE Tool",
+      "重叠图形表征工具"
     ]
   },
   {
