@@ -74,6 +74,7 @@ related_methods:
   - "[[Umbrella Review]]"
   - "[[Moderator Analysis]]"
   - "[[Second-Order Meta-Regression]]"
+  - "[[Begg and Mazumdar Rank Correlation]]"
 related_instruments:
   - "[[AMSTAR]]"
   - "[[GROOVE]]"
@@ -93,7 +94,7 @@ title: "Argument_Unal_2026_JECR"
 argument_key: "Argument_Unal_2026_JECR"
 argument_display_title: "A second-order meta-analysis on the effects of artificial intelligence applications on student outcomes"
 argument_kind: "journal-article"
-argument_related_count: 55
+argument_related_count: 56
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -161,6 +162,18 @@ issuing_organization: ""
 > | **方法学质量等级（Quality Level）** | 基于 R-AMSTAR 12 项评分量表（排除临床项后总分 44 分）的分级标准：不充分（0–11 分）、低质量（12–22 分）、中等质量（23–33 分）、高质量（34–44 分）。 | 高质量（13 项 FOM，得分 34–36 分，加权平均 $ES = .70$）；中等质量（6 项 FOM，得分 29–33 分，加权平均 $ES = .60$）；全样本平均得分 33.84（标准差（Standard Deviation, SD）为 2.97）；组间差异不显著（$Q_{bg}(1) = .62, p = .43$）。 |
 >
 > **图表解读** 本编码规程将认知结果划分为基础成就与高阶思维，将干预变量细化为对话代理、自适应导学、自动化评估、编程助手与综合平台五大具体技术形态与教学规程，并在学段、学科、偏倚与质量四大维度建立了严格的操作化边界，为后续亚组差异检验（$Q_{bg}$）与多变量[[Meta-regression|元回归]]奠定了标准化数据结构（p. 1373）。
+
+> [!contrast-table] Zawacki-Richter (2019) 理论四维与 SOMA 实证调节分类的映射与收敛关系
+> | 理论四维架构 | 本研究实证调节编码（Table 4） | 纳入 FOM 数量与占比 | 统计结果（$ES$ 与 95% CI） | 编码收敛原因与方法论反思 |
+> |---|---|---|---|---|
+> | **评估与评定（Assessment & Evaluation）** | **`AI-enabled assessment tools`（AI 赋能评估工具）** | $k = 1$（5.3%） | $ES = .39$ [-.19, .97] | 仅 1 项 FOM（Chen et al., 2025）聚焦于 K12 写作与口语自动评分与形成性反馈，构成独立的纯评估工具对照组。 |
+> | **自适应系统与个性化（Adaptive Systems）**<br>+ **智能导学系统（ITS）** | **`Multi-type`（多类型综合平台与智能系统）** | $k = 14$（73.7%） | $ES = .66$ [.53, .79] | **二阶元分析数据打包约束** 一阶元分析普遍将自适应平台、智能导师与推荐系统混合综述，无法向下解构，故统合编码为多类型综合组。 |
+> | **新兴交互形态（NLP / 大语言模型扩展）** | **`Chatbots`（智能对话机器人与代理）** | $k = 4$（21.1%） | $ES = .74$ [.49, .98] | 近年以 ChatGPT、Dialogflow 为代表的对话系统呈爆发式增长，一阶文献中出现了 4 项专属综述，因而独立成组。 |
+> | **画像与预测（Profiling & Prediction）** | *（依准入标准排除）* | $k = 0$（0%） | — | 涉及学业风险与辍学预测的 FOM 偏离了本研究关注的“课堂教学干预与学习成效”标准，在文献筛选阶段被系统排除。 |
+>
+> **方法论反思与理论闭环**
+> 1. **二阶元分析的颗粒度妥协与编码分歧** 作者在方法部分（p. 1370）指出，编码者之间的分歧主要集中在 AI 应用分类这一维度（Kappa $\kappa = .87$），最终在教育技术与 AI 专家协商下，因一阶元分析普遍宏观打包而被迫从理论四维妥协收敛为上述三类实证分组。
+> 2. **讨论中的理论反思（教学法整合远重于工具类型）** Table 4 组间检验显示 AI 工具类型差异不显著（$Q_{bg}(2) = 1.19, p = .55$）。作者在讨论中借此反推：**“AI 如何与教学法整合（How well AI is integrated），远比采用了哪种具体 AI 工具形态（What kinds of AI tools are employed）更为关键”**（pp. 1378–1379），这恰恰深度呼应了 Zawacki-Richter et al. (2019) 呼吁教育界“回归教学法和教师深度参与、超越纯技术工具论”的学科核心主张。
 
 ---
 
@@ -425,7 +438,7 @@ issuing_organization: ""
 ### 论证步骤六　发表偏倚综合诊断与证据审慎性：Egger 显著性与右偏漏斗图解读
 
 > [!claim] 步骤六主张
-> 四项发表偏倚检验呈现不一致结果：Egger 回归显著提示存在[[Small Study Effects|小研究效应]]与右偏倾向，但 Begg-Mazumdar 秩相关与[[Trim and Fill Method|剪补法]]未检测出实质性偏倚；因此必须对二阶效应量保持审慎乐观的解读态度（pp. 1375–1376）。
+> 四项发表偏倚检验呈现不一致结果：Egger 回归显著提示存在[[Small Study Effects|小研究效应]]与右偏倾向，但 [[Begg and Mazumdar Rank Correlation|Begg-Mazumdar 秩相关]]与[[Trim and Fill Method|剪补法]]未检测出实质性偏倚；因此必须对二阶效应量保持审慎乐观的解读态度（pp. 1375–1376）。
 
 > [!chain-link] 证据到判断
 > - **证据一：[[Funnel Plot|漏斗图]]目视检查与右侧聚集** 漏斗图点分布在标准误纵轴两侧呈现出显著的右偏不对称性，尤其是样本量较小（标准误较大）的研究主要聚集在总体平均效应量的右侧区域（$ES > 0.80$），提示小样本研究报告了不成比例的高效应量。
