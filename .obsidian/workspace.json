@@ -98,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -270,20 +270,22 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "c38a61e44c29f91e",
+  "active": "7b1888ea00f7062e",
   "lastOpenFiles": [
+    "wiki/arguments/journal-articles/Educational Research/Argument_Nelson_2017_ER.md",
+    "wiki/concepts/educational-policy-reform/Evidence-Based Education.md",
+    "wiki/arguments/reports-policy-documents/Argument_Bouckaert_2023_OECD.md",
+    "wiki/concepts/educational-philosophy/Critical Thinking.md",
+    "wiki/concepts/educational-policy-reform/Educational Evidence Clearinghouses.md",
     "wiki/arguments/journal-articles/Review of Educational Research/Argument_Wadhwa_2024_RER.md",
     "wiki/facts/us/What Works Clearinghouse.md",
-    "wiki/concepts/educational-policy-reform/Evidence-Based Education.md",
     "wiki/arguments/journal-articles/International Journal of Research & Method in Education/Argument_Peterson_2016_IJRME.md",
-    "wiki/arguments/journal-articles/Educational Research/Argument_Nelson_2017_ER.md",
     "wiki/arguments/journal-articles/Humanities and Social Sciences Communications/Argument_Li_2025_HSSC.md",
     "raw/循证教育与高阶思维培养_大纲.md",
     "wiki/arguments/journal-articles/Computers in Human Behavior Reports/Argument_Liu_2026_CHBR.md",
     "wiki/methods/quantitative/Meta-analysis.md",
     "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Simpson_2017_JEP.md",
     "wiki/concepts/instruction-pedagogy/Visible Learning.md",
-    "wiki/arguments/reports-policy-documents/Argument_Bouckaert_2023_OECD.md",
     "wiki/arguments/journal-articles/SAGE Open/Argument_Kazanci_Tinmaz_Sezgin_2023_SO.md",
     "wiki/facts/global/Campbell Collaboration.md",
     "wiki/arguments/journal-articles/Educational Researcher/Argument_Slavin_2002_ER.md",
@@ -291,13 +293,11 @@
     "wiki/facts/australia/Australian Curriculum.md",
     "wiki/concepts/higher-education/Clinical Trial.md",
     "wiki/concepts/educational-leadership-administration/School Leadership.md",
-    "wiki/concepts/educational-policy-reform/Educational Evidence Clearinghouses.md",
     "wiki/arguments/journal-articles/Journal of Behavioral Education/Argument_Hitchcock_2015_JBE.md",
     "wiki/facts/uk/What Works Network.md",
     "wiki/arguments/journal-articles/Review of Education/Argument_Higgins_2016_RE.md",
     "wiki/theories/research-methodology/Cartwright's Three-Stage Knowledge Framework.md",
     "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Pellegrini_2021_ROE.md",
-    "wiki/arguments/journal-articles/Educational Research and Evaluation/Argument_Wiliam_2019_ERE.md",
     "sources/Bouckaert_2023_OECD/Bouckaert_2023_OECD.pdf",
     "sources/Bouckaert_2023_OECD/figures",
     "sources/Bouckaert_2023_OECD",
