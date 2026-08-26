@@ -7,7 +7,7 @@ title: "Argument_Bouckaert_2023_OECD"
 argument_key: "Argument_Bouckaert_2023_OECD"
 argument_display_title: "The assessment of students' creative and critical thinking skills in higher education across OECD countries: A review of policies and related practices (OECD Education Working Papers No"
 argument_kind: "report"
-argument_related_count: 63
+argument_related_count: 64
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dcfce7"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Academic Freedom]]"
   - "[[Constructive Alignment]]"
   - "[[Authentic Assessment]]"
+  - "[[Critical Thinking Assessment]]"
   - "[[Analytic Framework]]"
   - "[[Assessment Backwash]]"
   - "[[Construct]]"
@@ -121,7 +122,7 @@ updated: 2026-08-26
 > [!concept-lens] 阅读透镜
 > - **对象** OECD 成员国高等教育系统的政策战略文本、国家资格框架、外部质量保障体系、大规模标准化考试以及大学校本评价实践。（pp. 4–8）
 > - **张力** 宏观政策话语对高阶思维能力的“高调倡导”与微观课堂教学中以事实回忆为主的传统考核之间的“松散耦合”（Loose Coupling）与制度脱节。（pp. 18–20, 25–29）
-> - **贡献** 构建了促进高等教育创造力与批判性思维评价的“五大政策杠杆”[[Analytic Framework|分析框架]]，系统厘清了从标准化客观测试向校本[[Authentic Assessment|真实性评价]]转型的实践路径与测量工具谱系，并提出了六大系统性未来行动策略。（pp. 20, 30–34）
+> - **贡献** 构建了促进高等教育创造力与[[Critical Thinking Assessment|批判性思维评价]]的“五大政策杠杆”[[Analytic Framework|分析框架]]，系统厘清了从标准化客观测试向校本[[Authentic Assessment|真实性评价]]转型的实践路径与测量工具谱系，并提出了六大系统性未来行动策略。（pp. 20, 30–34）
 
 ---
 
@@ -283,7 +284,7 @@ updated: 2026-08-26
 > - **英国 HEFCE 学习增益项目（2014–2018）** 英国高等教育拨款委员会（HEFCE）拨款 400 万英镑资助 13 个试点项目，联合 70 多所高校探索测量[[Learning Gain|学习增益]]的多元路径。其中两个项目重点将 CLA+ 适配至英国高教语境，追踪学生从大一至大三的批判性思维纵向成长，揭示了能力增长模式并促进了参与院校对考核体系的反思。（pp. 17–18）
 > - **美国 InTASC 与 ETS 教师教学知识测验（TTK）** 15 个州与美国教育考试服务中心（Educational Testing Service, ETS）合作，依据美国州际新教师评估与支持联盟（InTASC / CCSSO）核心教学标准开发“教师教学知识测验”（Test of Teaching Knowledge, TTK），通过生成性情境分析题评估新任教师运用多元教学策略与促进学生高阶思维的专业胜任力（Darling-Hammond et al., 2010; CCSSO, 2016）。（p. 18）
 
-> [!example]- 图1：促进高等教育中创造力与批判性思维评价的政策杠杆汇总
+> [!example]- 图1：促进高等教育中创造力与[[Critical Thinking Assessment|批判性思维评价]]的政策杠杆汇总
 > ![](https://img.mylikemie.icu/sources/Bouckaert_2023_OECD/figures/Bouckaert_2023_OECD_Fig1_Policy_Levers.jpg)
 
 > [!ref-table]- 促进高等教育创造力与批判性思维评价的五大政策杠杆（Figure 1 复刻）
@@ -307,7 +308,7 @@ updated: 2026-08-26
 > [!claim] 尽管大规模标准化考试在入学与执业选拔中广泛整合了批判性思维，但传统客观选择题存在严重的“[[Construct|构念]]代表性不足”，难以测度生成性高阶思维；高昂的评分成本与低利害动机缺失导致增值统考衰退，促使大规模考试向情境化表现任务与综合口试转型。（pp. 21–26）
 
 > [!chain-link] 标准化测试谱系、方法学批判与统考演进
-> - **通用批判性思维测验谱系的繁荣**
+> - **通用[[Critical Thinking Assessment|批判性思维测评]]谱系的繁荣**
 >   - **经典心理测量学测验** 沃森-格拉瑟批判性思维评估（Watson-Glaser Critical Thinking Appraisal, [[Watson-Glaser Critical Thinking Appraisal|WGCTA]]，考查推理、识别假设、演绎、解释与论点评价五大子维度，Watson & Glaser, 1980）、加州批判性思维技能测验（California Critical Thinking Skills Test, CCTST，Facione & Facione, 1992）、[[Robert Ennis|恩尼斯]]-威尔批判性思维论文测验（Ennis-Weir Critical Thinking Essay Test，采用开放式论述题评估论证逻辑，Ennis & Weir, 1985）、霍尔珀恩批判性思维测评（Halpern Critical Thinking Assessment, HCTA，创新结合生成性问答与客观选答题，Halpern, 2010）、康奈尔批判性思维测验（Cornell Critical Thinking Test, Ennis et al., 2005）以及田纳西理工大学开发的批判性思维评估测验（Critical Thinking Assessment Test, CAT，Stein et al., 2007；明确将创造性问题解决纳为批判性思维的核心子维度）。
 >   - **高等教育通用能力与增值测验** 大学学习评估（Collegiate Learning Assessment, CLA / CLA+，由美国援助教育理事会 Council for Aid to Education, CAE 研发，采用 60 分钟真实文档库表现任务结合 30 分钟选答题，测量院校增值效应，CAE, 2013）、美国大学入学考试机构（American College Testing, ACT）开发的大学学业能力测评（Collegiate Assessment of Academic Proficiency, CAAP）、美国教育考试服务中心（Educational Testing Service, ETS）开发的基础学业能力测验（Measure of Academic Proficiency and Progress, MAPP / ETS学术水平概况测验 ETS Proficiency Profile, EPP）以及 ETS HEIghten 批判性思维测评。Loyalka et al. (2021) 运用 HEIghten 测验在俄、中、印、美四国科学、技术、工程与数学（Science, Technology, Engineering, and Mathematics, STEM）本科生中开展大规模跨国对比，实证测度了不同层级院校学生的批判性思维习得与纵向增长。
 >   - **国际与国家级自愿统考项目** OECD [[OECD AHELO Project|高等教育学习成果评估]]可行性研究（Assessment of Higher Education Learning Outcomes, AHELO，Tremblay et al., 2012）；墨西哥国家高等教育评估中心（CENEVAL）组织的本科毕业统考（EGEL）与研究生入学国家考试（Examen Nacional de Ingreso al Posgrado, EXANI-III）；澳大利亚毕业生技能测验（Graduate Skills Assessment, GSA，由澳大利亚教育研究委员会 Australian Council for Educational Research, ACER 开发用于测量入学与毕业阶段的通用问题解决与批判性思维，Hambur et al., 2002）。
@@ -330,7 +331,7 @@ updated: 2026-08-26
 > | **混合型情境分析测验** | 霍尔珀恩批判性思维测评（Halpern Critical Thinking Assessment, HCTA）<br>田纳西理工批判性思维评估测验（Critical Thinking Assessment Test, CAT）<br>恩尼斯-威尔批判性思维论文测验（Ennis-Weir Critical Thinking Essay Test） | Halpern (2010)<br>Stein et al. (2007)<br>Ennis & Weir (1985) | 论证分析、假设检验、概率推理、决策制定与创造性问题解决。 | 开放情境简答题 + 客观选答题混合编排；或短篇论述。 | **优势** 兼顾生成性与客观性，生态效度显著高于纯单选题。 | **局限** 人工判卷与量规培训成本较高，题库迭代与跨评卷人一致性维护复杂。 |
 > | **高等教育增值表现性测试** | 大学学习评估（Collegiate Learning Assessment, [[Collegiate Learning Assessment\|CLA / CLA+]]）<br>ETS HEIghten 批判性思维测评<br>大学学业能力测评（CAAP）<br>ETS 学术水平概况测验（EPP / MAPP） | CAE (2013)<br>ETS / Loyalka et al. (2021)<br>ACT (2006)<br>ETS (2010) | 复杂现实问题解决、批判性分析、决策论证与书面沟通。 | 60 分钟真实文档库表现任务（PT） + 30 分钟选答题。 | **优势** 模拟真实决策情境，生态效度高，专门用于测量大学全周期纵向[[Learning Gain\|学习增益]]。 | **局限** 阅卷成本昂贵；在低利害系统监测中学生作答努力度严重不足，易导致测验偏差。 |
 > | **专业领域选拔与准入高利害考试** | 医学院入学考试（Medical College Admission Test, MCAT）<br>生物医学入学考试（BioMedical Admissions Test, BMAT）<br>英国法学国家能力测试（Law National Aptitude Test, LNAT）<br>墨西哥研究生入学考试（EXANI-III）<br>澳大利亚毕业生技能测验（GSA） | AAMC<br>Cambridge Assessment<br>Pearson / LNAT 财团<br>CENEVAL<br>ACER (Hambur, 2002) | 批判性分析与推理技能（CARS）、论点重构、科学推理、数据推断、论述表达。 | 复杂专业文本长篇阅读理解 + 论述性小论文。 | **优势** 高利害选拔机制驱动学生付出最大努力度，[[Predictive Validity\|预测效度]]与选拔区分度高。 | **局限** 偏向特定专业入学门槛筛选，难以作为大学日常教学改进的常态化工具。 |
-> | **课程嵌入式真实性评分量规** | AAC&U VALUE 批判性思维量规（[[VALUE Rubrics]]）<br>欧洲 CALOHEE 批判性思维评价参照框架 | 全美大学与学院协会（AAC&U, Rhodes, 2009）<br>欧洲 Tuning / CALOHEE 协会 (Wagenaar, 2018) | 阐明问题、证据运用、情境与假设识别、确立个人立场、得出严谨结论。 | 4 级阶梯表现描述符（Benchmark → Capstone），直接嵌入真实[[Homework|作业]]与论文。 | **优势** 深度融入日常专业教学与评价，直接指导师生形成性反馈与反思改进。 | **局限** 评分信度依赖校内与跨校教师评分校准研讨（Calibration），横向可比性需持续维护。 |
+> | **课程嵌入式真实性评分量规** | AAC&U VALUE 批判性思维量规（[[VALUE Rubrics]]）<br>欧洲 CALOHEE 批判性思维评价参照框架 | 全美大学与学院协会（AAC&U, Rhodes, 2009）<br>欧洲 Tuning / CALOHEE 协会 (Wagenaar, 2018) | 阐明问题、证据运用、情境与假设识别、确立个人立场、得出严谨结论。 | 4 级阶梯表现描述符（Benchmark → Capstone），直接嵌入真实[[Homework\|作业]]与论文。 | **优势** 深度融入日常专业教学与评价，直接指导师生形成性反馈与反思改进。 | **局限** 评分信度依赖校内与跨校教师评分校准研讨（Calibration），横向可比性需持续维护。 |
 >
 > （根据原文 pp. 21–28 系统梳理归纳）
 

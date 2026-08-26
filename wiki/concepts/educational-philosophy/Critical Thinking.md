@@ -6,7 +6,7 @@ aliases:
 summary: "以理由权衡、有目的的反思判断和自我调节为核心，统合认知技能、思维倾向、领域知识与情境标准；在教育研究中用于设计教学、界定学习结果并检验课程与评估的构念效度。"
 type: concept
 domain: "educational-philosophy"
-related_count: 65
+related_count: 70
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -17,6 +17,8 @@ tags:
 related_concepts:
   - "[[Construct]]"
   - "[[Humility in Learning]]"
+  - "[[Critical Thinking Assessment]]"
+  - "[[Ontology]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Creativity]]"
   - "[[Reliability]]"
@@ -57,6 +59,7 @@ related_concepts:
   - "[[Extended Essay]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Formative Assessment]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
@@ -86,10 +89,12 @@ related_instruments:
   - "[[Critical Thinking Strategies Scale]]"
   - "[[California Critical Thinking Disposition Inventory]]"
   - "[[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale]]"
+  - "[[Watson-Glaser Critical Thinking Appraisal]]"
+  - "[[VALUE Rubrics]]"
 confidence: medium
 status: draft
 created: 2026-06-30
-updated: 2026-08-25
+updated: 2026-08-26
 ---
 
 # Critical Thinking
@@ -103,7 +108,7 @@ updated: 2026-08-25
 
 > [!concept-lens] 概念透镜
 > - **含义** 批判性思维把解释、分析、评价、推论、说明和自我调节组织为有理由的判断过程。
-> - **用途** 它用于判断学生能否独立处理知识主张，也用于检查课程目标、教学活动和评估证据是否覆盖预期思维构念。
+> - **用途** 它用于判断学生能否独立处理知识主张，指导教学干预与课程大纲设计，并为[[Critical Thinking Assessment|批判性思维测评]]提供[[Ontology|本体论]]与认知构念基础。
 > - **边界** 技能名称或命令词只能提示认知活动。实际思维质量还取决于倾向、视角、学科知识、任务情境和评价标准。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 32–35)]]
 
 > [!boundary]- 概念边界
@@ -368,3 +373,4 @@ updated: 2026-08-25
 > - **教学策略元分析与复合干预** [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] 综合 341 项实验与准[[Experimental Research|实验研究]]，确立了[[Authentic Instruction|真实性教学]]、[[Dialogue in Education|对话]]与[[Mentorship|导师制]]三维协同对批判性思维技能与倾向的最高干预效应（$g+ = 0.57$）。
 > - **[[Problem-Based Learning|PBL]] 与[[Meta-meta-analysis|二阶元分析]]实证** [[Argument_Erdem_2026_SHE|Erdem et al. (2026)]] 综合 20 项一阶元分析，报告 PBL 对高等教育学生[[Critical Thinking|批判性思维]]的高效应（ES = 0.56），并将批判性思维作为结果类型之一纳入调节分析。
 > - **与[[Creativity|创造力]]关系的元分析实证** [[Argument_Park_2026_TSC|Park et al. (2026)]] 综合 29 项学生研究 51 个[[Effect Size|效应量]]，确立批判性思维与创造力中等正相关（$r = 0.386$），并证实测量类型显著调节相关，双主观测量组合相关最高（$r = 0.509$），提示自陈测量中的[[Common Method Variance|共同方法变异]]放大了观察相关。
+> - **[[Critical Thinking Assessment|批判性思维测评]]与测量方法学** 参见专门概念条目 [[Critical Thinking Assessment|批判性思维测评]]，该条目系统整合了从心理测量学客观测试（[[Watson-Glaser Critical Thinking Appraisal|WGCTA]]/CCTST）、自陈倾向[[Questionnaire|问卷]]（[[California Critical Thinking Disposition Inventory|CCTDI]]/[[Critical Thinking Strategies Scale|CTSS]]）到校本真实性评分量规（[[VALUE Rubrics|VALUE]]/CALOHEE）的工具谱系、共同方法变异机制及形成性[[Formative Assessment|促学评价]]生态。

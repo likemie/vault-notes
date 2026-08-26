@@ -40,6 +40,7 @@ related_concepts:
   - "[[Creative Self-Efficacy]]"
   - "[[Questionnaire]]"
   - "[[Document]]"
+  - "[[Critical Thinking Assessment]]"
   - "[[Standard Error]]"
   - "[[Publication Bias]]"
   - "[[Sampling Error]]"
@@ -90,16 +91,16 @@ sources:
 part_of: ""
 status: draft
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-08-26
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Park_2026_TSC"
 argument_key: "Argument_Park_2026_TSC"
 argument_display_title: "Exploring the intersection of creativity and critical thinking among students: A meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 59
-argument_related_level: 3
-argument_related_stars: "⭐⭐⭐"
+argument_related_count: 60
+argument_related_level: 4
+argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "Thinking Skills and Creativity"
 book_title: ""
@@ -198,7 +199,7 @@ issuing_organization: ""
 > [!method-panel] 研究设计与[[Coding in Qualitative Research|编码]]流程
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **测量类型编码**<br>Measurement Coding | 按创造力元分析的惯例（Storme et al., 2021; N. K. Park et al., 2016），将测量分为主观（自陈/自评，如[[Creative Self-Efficacy\|创造自我效能]]、批判性思维倾向量表）与客观（观念/产品产出或任务表现，如[[Torrance Tests of Creative Thinking\|非常规用途测验]]、沃森-格拉泽批判性思维评价）两类；同时提取参与者平均年龄、学段、发表年份与地理区域。（pp. 4–5） |
+> | **测量类型编码**<br>Measurement Coding | 按创造力与[[Critical Thinking Assessment\|批判性思维测评]]元分析的惯例（Storme et al., 2021; N. K. Park et al., 2016），将测量分为主观（自陈/自评，如[[Creative Self-Efficacy\|创造自我效能]]、批判性思维倾向量表）与客观（观念/产品产出或任务表现，如[[Torrance Tests of Creative Thinking\|非常规用途测验]]、沃森-格拉泽批判性思维评价）两类；同时提取参与者平均年龄、学段、发表年份与地理区域。（pp. 4–5） |
 > | **[[Effect Size\|效应量]]提取**<br>Effect Size Extraction | 从各研究提取创造力与批判性思维测量的相关系数，保留 51 个相关估计（$k = 51$），嵌套于 29 项研究，总样本 $N = 12{,}548$；部分研究因同一参与者施测不同测量、或同一测量用于不同参与者而提供多个相关。（p. 4） |
 > | **统计合成**<br>[[Three-Level Meta-Analysis\|Three-Level Meta-Analysis]] | 由于研究内效应量不独立，采用三水平随机效应元分析：方差分解为效应量抽样误差（Level 1）、研究内效应量间变异（Level 2）与研究间变异（Level 3）；效应量经 Fisher's $z$ 变换，以抽样方差倒数加权，以 $I^2$ 与 $Q$ 检验量化[[Heterogeneity\|异质性]]；使用 R 包 "meta"（Balduzzi et al., 2019）估计。（p. 4） |
 > | **稳健性分析**<br>[[Robust Variance Estimation\|RVE]] | 用稳健方差估计（Robust Variance Estimation, RVE）提供小样本调整[[Standard Error\|标准误]]，即使研究内效应量相关时依然有效；RVE 模型由 R 包 "clubSandwich"（Pustejovsky, 2023）施加于 "metafor"（Viechtbauer, 2010）的三水平模型。（pp. 4–5） |
@@ -362,7 +363,7 @@ issuing_organization: ""
 > - **[[Coding in Qualitative Research|编码]]与调节变量** 测量按主观（自陈/自评）与客观（观念/产品产出或任务表现）[[Coding in Qualitative Research|编码]]，并提取年龄、学段、年份、地理区域四个调节变量。（pp. 4–5）
 
 > [!case] 嵌套效应量的来源：同一研究为何贡献多个相关
-> 29 项研究中的 51 个估计的嵌套来源分两类（p. 4）：一类是**同一参与者施测不同测量**，如 Gilbert (1961) 以沃森-格拉泽批判性思维评价（[[Watson-Glaser Critical Thinking Appraisal|WGCTA]]）分别匹配非常规用途测验、吉尔福德联想流畅性与观念流畅性测验，贡献多个相关；另一类是**同一测量用于不同参与者**，如 Silva et al. (2023) 以同一[[Critical Thinking Disposition|批判性思维倾向]]量表匹配批判与创造思维测验的流畅性、灵活性与独创性三个指标。这些估计共享参与者或测量，统计上并不独立，这解释了三水平模型为何必要。（p. 4）
+> 29 项研究中的 51 个估计的嵌套来源分两类（p. 4）：一类是**同一参与者施测不同测量**，如 Gilbert (1961) 以沃森-格拉泽[[Critical Thinking Assessment|批判性思维评价]]（[[Watson-Glaser Critical Thinking Appraisal|WGCTA]]）分别匹配非常规用途测验、吉尔福德联想流畅性与观念流畅性测验，贡献多个相关；另一类是**同一测量用于不同参与者**，如 Silva et al. (2023) 以同一[[Critical Thinking Disposition|批判性思维倾向]]量表匹配批判与创造思维测验的流畅性、灵活性与独创性三个指标。这些估计共享参与者或测量，统计上并不独立，这解释了三水平模型为何必要。（p. 4）
 
 > [!warrant]- 推理桥梁
 > 三水平模型在统计上正确处理嵌套依赖（模型细节见上文效应量与统计模型一节），RVE 进一步保证标准误对依赖结构稳健，元回归与偏倚检验则分别回应哪些条件改变相关与结论是否被选择性发表扭曲两个问题，四项技术合起来系统回应了 Park et al. (2023) 的五点缺口。（pp. 4–5）
@@ -426,7 +427,7 @@ issuing_organization: ""
 > [!moderator-summary] 调节变量与测量类型交互摘要
 > | 调节变量 | 检验统计量 | 效应方向 | 结论 |
 > |---|---|---|---|
-> | 批判性思维测量类型（主观 vs 客观） | $Q_M(1) = 5.234$，$p = .022$ | 主观更强 | 显著 |
+> | [[Critical Thinking Assessment\|批判性思维测量类型]]（主观 vs 客观） | $Q_M(1) = 5.234$，$p = .022$ | 主观更强 | 显著 |
 > | 创造力测量类型（主观 vs 客观） | $Q_M(1) = 10.133$，$p = .002$ | 主观更强 | 显著 |
 > | 测量类型交互项 | $Q_M(1) = 6.524$，$p = .011$ | 同型组合相关更高 | 显著 |
 > | 年龄 | $Q_M(1) = 1.203$，$p = .273$ | — | 整体不显著 |

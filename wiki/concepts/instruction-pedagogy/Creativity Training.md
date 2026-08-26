@@ -11,10 +11,10 @@ aliases:
 summary: "通过显性认知策略、启发式重构工具、建构主义探究环境与情境指导语，系统识别、激发与提升个体与群体创造潜能的教育教学干预方案。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 39
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 41
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - field/educational-psychology
   - theme/creativity
@@ -32,6 +32,8 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Constructivist Paradigm]]"
   - "[[Problem-Based Learning]]"
+  - "[[Mind Mapping]]"
+  - "[[Concept Mapping]]"
   - "[[Problem Finding]]"
   - "[[Metacognition]]"
   - "[[Hypothesis]]"
@@ -68,7 +70,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-08-26
 ---
 
 # Creativity Training
@@ -116,7 +118,7 @@ updated: 2026-08-24
 > - **结构化认知训练课程** 显性讲授系统化认知策略与思维工具（如[[Creative Problem Solving|创造性问题解决模型]]（Creative Problem Solving, CPS）$d = 0.74$、普渡创造性思维计划（Purdue Creative Thinking Program, PCTP）$d = 0.63$、SCAMPER 创新思维技法）。
 > - **[[Constructivist Paradigm|建构主义]]探究教学模式** 深度整合于学科与跨学科真实问题中的探究式学习（如问题驱动教学法（[[Problem-Based Learning]], PBL）$g = 0.87$、跨学科科学、技术、工程、艺术与数学整合教学（Science, Technology, Engineering, Arts, and Mathematics, STEAM）$g = 0.76$、协作探究 $g = 0.72$）。
 > - **任务框架与认知指导语操纵** 在任务施测时通过显性目标定向即时激活高水平构想生成（如显式独创性指导语 $g = 0.53$、多维量规预告）。
-> - **技术中介与数字化协作工具** 运用数字化平台消除群体互动中的生产力阻滞（如电子头脑风暴（Electronic Brainstorming, EBS）$d = 0.44$、思维导图与概念图构筑 $g = 0.65$）。
+> - **技术中介与数字化协作工具** 运用数字化平台消除群体互动中的生产力阻滞（如电子头脑风暴（Electronic Brainstorming, EBS）$d = 0.44$、[[Mind Mapping|思维导图]]与[[Concept Mapping|概念图]]构筑 $g = 0.65$）。
 > - **外认知与身心调节干预** 通过注意广度扩展与情境视角采择促进思维灵活性（如正念冥想 $r = 0.22$、教育戏剧[[Role-playing|角色扮演]] $d = 0.42$、结构化酝酿期 $d = 0.29$）。
 
 > [!contrast-table] 五大干预范式深度对比矩阵

@@ -8,7 +8,7 @@ summary: "一种通过系统评估文献的真实性、可靠性、意义和语�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 19
+method_related_count: 22
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -24,13 +24,14 @@ related_concepts:
   - "[[Theoretical Perspective]]"
   - "[[Epistemology]]"
   - "[[Positivism]]"
-  - "[[Praxis]]"
   - "[[Linguistic Turn]]"
   - "[[Analytic Framework]]"
   - "[[Interpretive Paradigm]]"
   - "[[Critical Thinking]]"
   - "[[Internal Consistency]]"
   - "[[Construct Validity]]"
+  - "[[Creativity]]"
+  - "[[Critical Thinking Assessment]]"
 related_methods:
   - "[[Discourse Analysis]]"
   - "[[Case Study]]"
@@ -40,6 +41,9 @@ related_methods:
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12]]"
   - "[[Argument_Hughes_2014_JRIE]]"
+  - "[[Argument_Bouckaert_2023_OECD]]"
+related_facts:
+  - "[[OECD]]"
 confidence: medium
 status: draft
 created: 2026-06-24
@@ -74,7 +78,7 @@ updated: 2026-08-26
 > - **知识观** [[Document|文献]]分析的知识观取决于所采用的理论传统。[[Positivism|实证主义]]传统寻求客观、系统的证据；解释性传统视文献为社会建构的产物；批判传统关注权力、控制和意识形态如何在文本中运作。
 > - **研究者角色** 研究者是文献的阐释者，需在文本与语境之间反复移动，既理解文字表层信息，也追问深层预设和价值立场。
 > - **有效性标准** 包括文献真实性（作者、地点、日期是否可验证）、[[Reliability|可靠性]]（描述的可靠性、代表性、幸存偏误）和解释的可信度（意义是否得到语境支撑、是否避免了时代错置）。
-> - **不声称回答的问题** 文献分析无法直接观察教室互动或教学[[Praxis|实践]]，所提供的通常是自上而下的政策视角而非自下而上的日常经验；幸存文献的代表性有限，不能轻易推广为普遍结论。
+> - **不声称回答的问题** 文献分析无法直接观察教室互动或教学实践，所提供的通常是自上而下的政策视角而非自下而上的日常经验；幸存文献的代表性有限，不能轻易推广为普遍结论。
 
 > [!method-stack] 方法层级
 > - **研究设计** 历史研究、[[Case Study|个案研究]]、政策分析、比较研究、多方法混合设计。
@@ -123,7 +127,7 @@ Jupp & Norris (1993) 将文献分析的理论传统归纳为三类：
 
 > [!method-fit] 适用判断
 > - **适合使用** 追溯教育政策的历史演变；研究课程、教科书和教学理念的长时段变迁；分析教育机构或制度的起源与发展；揭示政策制定过程中的幕后博弈和意识形态预设；审视特定时代的教育价值观与社会态度。
-> - **谨慎使用** 单独依赖官方档案（容易偏向自上而下的视角，忽视工人阶级、女性和少数族裔的声音）；研究涉及课堂教学和师生互动等微观[[Praxis|实践]]时需辅以其他方法；[[Document|文献]]幸存率不均，需要明示材料缺失可能造成的偏误。
+> - **谨慎使用** 单独依赖官方档案（容易偏向自上而下的视角，忽视工人阶级、女性和少数族裔的声音）；研究涉及课堂教学和师生互动等微观实践时需辅以其他方法；[[Document|文献]]幸存率不均，需要明示材料缺失可能造成的偏误。
 > - **不适合使用** 需要测量因果效应或进行统计推断的问题；需要实时观察行为或互动的问题；涉及无文献记录的群体或事件时（文献分析无法创造不存在的记录）。
 
 ---
@@ -133,7 +137,7 @@ Jupp & Norris (1993) 将文献分析的理论传统归纳为三类：
 > [!method-limits] 方法局限
 > - **偏误来源** [[Document|文献]]常记录政策制定者和管理者的视角，容易形成自上而下的教育观，并弱化工人阶级儿童、女性与少数族裔的经验（Timutimu et al., 1998）。文献的选择性幸存会削弱代表性和典型性，研究者的材料选择也带有主观判断。
 > - **适用边界** 文献分析多提供法案与事实层面的认知（Goodson, 1988），难以直接触及教室、学习场景及师生互动。
-> - **误用风险** 常见误用包括把政策文献描述等同于教育[[Praxis|实践]]，脱离时代语境解释历史文献，以及忽视文本中未被记录或刻意省略的信息（Andrew, 1985, p. 156）。
+> - **误用风险** 常见误用包括把政策文献描述等同于教育实践，脱离时代语境解释历史文献，以及忽视文本中未被记录或刻意省略的信息（Andrew, 1985, p. 156）。
 > - **补救方式** 可将文献分析与访谈、观察组合。例如，把教师对课程实践的描述与过去三十年的政策文献进行比对（McCulloch et al., 2000），再通过不同文献类型之间的[[Triangulation|三角互证]]检验解释，并明确说明材料缺失与选择偏误。
 
 ---
@@ -155,4 +159,4 @@ Jupp & Norris (1993) 将文献分析的理论传统归纳为三类：
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12|Cohen et al. (2011, Ch. 12)]] 系统介绍了[[Document|文献]]分析方法的核心程序、三种理论传统、伦理与法律议题，并提供了教育研究中文献分析的多个案例。
 > - [[Argument_Hughes_2014_JRIE|Hughes (2014, pp. 35–41)]] 以 2013 年 ToK 课程指南为材料，将课程目标、评估目标和最高等级评分描述符中的命令词与多套[[Critical Thinking|批判性思维]]分类框架进行质性对齐，以判断课程[[Internal Consistency|内部一致性]]及其[[Construct Validity|构念效度]]。
-> - [[Argument_Bouckaert_2023_OECD|Bouckaert (2023, pp. 5–20)]] 对 152 个国家教育政策文件及 OECD 成员国高等教育资格框架、质量保障条例与评价实践展开系统性文献分析（Documentary Analysis），系统梳理了监管、财政与信息三种政策杠杆在推动创造力与批判性思维评价中的实施机制与制度断裂。
+> - [[Argument_Bouckaert_2023_OECD|Bouckaert (2023, pp. 5–20)]] 对 152 个国家教育政策文件及 [[OECD]] 成员国高等教育资格框架、质量保障条例与评价实践展开系统性文献分析（Documentary Analysis），系统梳理了监管、财政与信息三种政策杠杆在推动[[Creativity|创造力]]与[[Critical Thinking Assessment|批判性思维评价]]中的实施机制与制度断裂。
