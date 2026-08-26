@@ -98,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -132,7 +132,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gree",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -153,8 +153,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -270,10 +269,13 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "7b1888ea00f7062e",
+  "active": "1938c14344215b35",
   "lastOpenFiles": [
-    "wiki/concepts/educational-philosophy/Critical Thinking.md",
+    "wiki/arguments/reports-policy-documents/RoyalSociety_2026_ScienceForSociety/Argument_RoyalSociety_2026_ScienceForSociety.md",
+    "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch05.md",
+    "wiki/concepts/educational-policy-reform/Evidence-Based Education.md",
     "wiki/concepts/instruction-pedagogy/Critical Thinking Assessment.md",
+    "wiki/concepts/educational-philosophy/Critical Thinking.md",
     "wiki/arguments/reports-policy-documents/Argument_Bouckaert_2023_OECD.md",
     "wiki/concepts/learning-science-cognitive-science/Higher-Order Thinking Skills.md",
     "wiki/concepts/educational-psychology/Creativity.md",
@@ -285,7 +287,6 @@
     "wiki/arguments/journal-articles/Journal of Educational Computing Research/Argument_Unal_2026_JECR.md",
     "wiki/arguments/journal-articles/Current Psychology/Argument_Gungor_2026_CP.md",
     "wiki/arguments/journal-articles/Educational Research Review/Argument_Lei_Ding_Chiu_2026_ERR.md",
-    "wiki/concepts/educational-policy-reform/Evidence-Based Education.md",
     "raw/循证教育与高阶思维培养_大纲.md",
     "wiki/facts/us/What Works Clearinghouse.md",
     "wiki/facts/australia/Australian Curriculum.md",
@@ -296,8 +297,6 @@
     "wiki/arguments/journal-articles/International Journal of Research & Method in Education/Argument_Peterson_2016_IJRME.md",
     "wiki/arguments/journal-articles/Humanities and Social Sciences Communications/Argument_Li_2025_HSSC.md",
     "wiki/arguments/journal-articles/Computers in Human Behavior Reports/Argument_Liu_2026_CHBR.md",
-    "wiki/methods/quantitative/Meta-analysis.md",
-    "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Simpson_2017_JEP.md",
     "sources/Bouckaert_2023_OECD/Bouckaert_2023_OECD.pdf",
     "sources/Bouckaert_2023_OECD/figures",
     "sources/Bouckaert_2023_OECD",
