@@ -98,7 +98,7 @@ title: "Argument_Park_2026_TSC"
 argument_key: "Argument_Park_2026_TSC"
 argument_display_title: "Exploring the intersection of creativity and critical thinking among students: A meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 60
+argument_related_count: 61
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"

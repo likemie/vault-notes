@@ -34,6 +34,7 @@ sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 related_concepts:
+  - "[[Concept Mapping]]"
   - "[[Hypothesis]]"
   - "[[Criterion-Referenced Test]]"
   - "[[Pre-test and Post-test]]"
@@ -42,6 +43,7 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Locus of Control]]"
+  - "[[Creativity Assessment]]"
   - "[[Questionnaire]]"
   - "[[Reliability]]"
   - "[[Item Analysis]]"
@@ -92,7 +94,7 @@ related_instruments:
   - "[[Consensual Assessment Technique]]"
 status: draft
 created: 2026-07-24
-updated: 2026-07-26
+updated: 2026-08-26
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24
 
@@ -100,7 +102,7 @@ updated: 2026-07-26
 
 #### 概念地图
 
-> [!knowledge-map]- 第24章　概念地图
+> [!knowledge-map]- 第24章　[[Concept Mapping|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_24_Concept_Map.jpg)
 
 ## 章节内容
@@ -172,7 +174,7 @@ updated: 2026-07-26
 > - 学习障碍评估
 > - 能力倾向评估中的偏差
 > - 文化与语言多样化儿童的评估
-> - 创造力评估
+> - [[Creativity Assessment|创造力评估]]
 > - 语言障碍评估
 > - 重度智力迟缓与脑损伤儿童的心理与教育需求评估
 > - 计算机化评估

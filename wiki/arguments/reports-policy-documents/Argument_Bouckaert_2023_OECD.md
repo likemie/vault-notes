@@ -7,7 +7,7 @@ title: "Argument_Bouckaert_2023_OECD"
 argument_key: "Argument_Bouckaert_2023_OECD"
 argument_display_title: "The assessment of students' creative and critical thinking skills in higher education across OECD countries: A review of policies and related practices (OECD Education Working Papers No"
 argument_kind: "report"
-argument_related_count: 64
+argument_related_count: 65
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dcfce7"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Academic Freedom]]"
   - "[[Constructive Alignment]]"
   - "[[Authentic Assessment]]"
+  - "[[Creativity Assessment]]"
   - "[[Critical Thinking Assessment]]"
   - "[[Analytic Framework]]"
   - "[[Assessment Backwash]]"
@@ -122,7 +123,7 @@ updated: 2026-08-26
 > [!concept-lens] 阅读透镜
 > - **对象** OECD 成员国高等教育系统的政策战略文本、国家资格框架、外部质量保障体系、大规模标准化考试以及大学校本评价实践。（pp. 4–8）
 > - **张力** 宏观政策话语对高阶思维能力的“高调倡导”与微观课堂教学中以事实回忆为主的传统考核之间的“松散耦合”（Loose Coupling）与制度脱节。（pp. 18–20, 25–29）
-> - **贡献** 构建了促进高等教育创造力与[[Critical Thinking Assessment|批判性思维评价]]的“五大政策杠杆”[[Analytic Framework|分析框架]]，系统厘清了从标准化客观测试向校本[[Authentic Assessment|真实性评价]]转型的实践路径与测量工具谱系，并提出了六大系统性未来行动策略。（pp. 20, 30–34）
+> - **贡献** 构建了促进高等教育[[Creativity Assessment|创造力评价]]与[[Critical Thinking Assessment|批判性思维评价]]的“五大政策杠杆”[[Analytic Framework|分析框架]]，系统厘清了从标准化客观测试向校本[[Authentic Assessment|真实性评价]]转型的实践路径与测量工具谱系，并提出了六大系统性未来行动策略。（pp. 20, 30–34）
 
 ---
 
@@ -335,7 +336,7 @@ updated: 2026-08-26
 >
 > （根据原文 pp. 21–28 系统梳理归纳）
 
-> [!ref-table]- 创造性思维（Creative Thinking）的主要测量工具谱系与技术路径对比
+> [!ref-table]- 创造性思维（[[Creativity Assessment|创造力测评]]）的主要测量工具谱系与技术路径对比
 > | 测量工具类别 | 代表性工具名称（中文全称、英文全称与缩写） | 开发机构 / 主导学者 | 核心测试构念与测量维度 | 题型格式与作答载体 | 优势与适用场景 | 核心局限与方法学挑战 |
 > |---|---|---|---|---|---|---|
 > | **心理测量学发散思维与联想测验** | 托兰斯创造性思维测验（Torrance Tests of Creative Thinking, [[Torrance Tests of Creative Thinking\|TTCT]]）<br>远距离联想测验（Remote Associates Test, [[Remote Associates Test\|RAT]]） | Torrance (1966/1974)<br>Mednick (1968) | 流畅性（Fluency）、灵活性（Flexibility）、独创性（Originality）、精致性（Elaboration）。 | 图形联想、不完整图形补全、词语发散联想、开放构图任务。 | **优势** 心理测量学标准化程度高，具有成熟的常模参照体系。 | **局限** 高度脱离具体学科专业情境，难以反映高等教育中真实的学术研究与专业实践创造力。 |

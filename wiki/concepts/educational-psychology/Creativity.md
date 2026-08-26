@@ -11,7 +11,7 @@ aliases:
 summary: "个体或群体产生新颖且适切的想法、产品或解决方案的心理能力与综合表现，在教育研究中兼具预测变量与发展结果的双重属性"
 type: concept
 domain: "educational-psychology"
-related_count: 40
+related_count: 42
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -23,52 +23,55 @@ related_concepts:
   - "[[Independent Variable]]"
   - "[[Variable]]"
   - "[[Dependent Variable]]"
+  - "[[Creativity Assessment]]"
+  - "[[Ontology]]"
+  - "[[Construct]]"
   - "[[Divergent Thinking]]"
   - "[[Problem Finding]]"
   - "[[Operationalization]]"
-  - "[[Paradigm]]"
-  - "[[Effect Size]]"
-  - "[[Ecological Validity]]"
-  - "[[Self-Efficacy]]"
-  - "[[Criterion Problem]]"
-  - "[[Questionnaire]]"
-  - "[[Construct Validity]]"
-  - "[[Heterogeneity]]"
   - "[[Problem-Based Learning]]"
+  - "[[Effect Size]]"
   - "[[Threshold Hypothesis]]"
   - "[[Academic Achievement]]"
   - "[[Confidence Interval]]"
   - "[[Predictive Validity]]"
   - "[[Interaction Effect]]"
+  - "[[Heterogeneity]]"
   - "[[Cooperative Learning]]"
   - "[[Critical Thinking]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Champ]]"
+  - "[[Criterion Problem]]"
   - "[[Domain Specificity]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Jigsaw]]"
-  - "[[Construct]]"
   - "[[Common Method Variance]]"
   - "[[Cooperative Integrated Reading and Composition]]"
+  - "[[Critical Thinking Assessment]]"
+  - "[[Formative Assessment]]"
 related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
+  - "[[Systematic Review]]"
 related_instruments:
-  - "[[Consensual Assessment Technique]]"
-  - "[[Creative Achievement Questionnaire]]"
   - "[[Torrance Tests of Creative Thinking]]"
+  - "[[Consensual Assessment Technique]]"
+  - "[[VALUE Rubrics]]"
 related_persons:
   - "[[Mark A. Runco]]"
 related_arguments:
   - "[[Argument_Runco_2026_CRJ]]"
   - "[[Argument_Gungor_2026_CP]]"
   - "[[Argument_Park_2026_TSC]]"
+  - "[[Argument_Bouckaert_2023_OECD]]"
 related_theories:
   - "[[Creative Problem Solving]]"
+related_facts:
+  - "[[OECD]]"
 confidence: medium
 status: draft
 created: 2026-08-23
-updated: 2026-08-25
+updated: 2026-08-26
 ---
 
 # Creativity
@@ -82,7 +85,7 @@ updated: 2026-08-25
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向生成原创且具有现实应用价值成果的复杂心理机制与行为表现。
-> - **用途** 评估个体认知与潜能发展、优化课堂教学干预与思维训练课程、解释跨学科创新与卓越成就。
+> - **用途** 评估个体认知与潜能发展、优化课堂教学干预与思维训练课程，并为[[Creativity Assessment|创造力测评]]提供[[Ontology|本体论]]与认知[[Construct|构念]]基础。
 > - **边界** 创造力不等于缺乏适切性与可行性的纯粹幻想，也不等于常规智力测验表现。
 
 > [!citation-card]- 关键表述
@@ -107,7 +110,7 @@ updated: 2026-08-25
 
 ---
 
-## 核心要素（4P 模型）
+## 核心要素
 
 > [!feature] 核心要素
 > - **创造者（Person）** 探讨创造者的认知能力、人格特质（如经验开放性、精神质）、动机状态（内在动机）与创造潜能。
@@ -127,39 +130,16 @@ updated: 2026-08-25
 
 ---
 
-## 创造力的测量方法与测评体系
-
-创造力测量在心理测量学与教育评价中涵盖四大核心[[Paradigm|范式]]，分别对应创造潜能、认知过程、实际产出与行为特质（Rhodes, 1961; [[Argument_Runco_2026_CRJ|Runco et al., 2026, pp. 5–7]]）：
-
-> [!contrast-table] 创造力四大测量范式与代表性工具矩阵
-> | 测量范式与类别 | 评估核心与指标 | 代表性测量工具 | 测量优势与局限 | 二阶实证[[Effect Size\|效应量]]特征 |
-> |---|---|---|---|---|
-> | **发散思维测验<br>（Divergent Thinking Tests）** | 测量观念生成的流畅性（Fluency）、灵活性（Flexibility）、独创性（Originality）与精致性（Elaboration） | • 非常规用途测验（Alternative Uses Task, AUT; Guilford, 1967）<br>• 托兰斯创造性思维测验（Torrance Tests of Creative Thinking, TTCT; Torrance, 1974）<br>• 沃拉克-科根创造力测验（Wallach-Kogan Creativity Tests, WKCT; Wallach & Kogan, 1965） | 优势在于标准化程度高、评分客观、可群体施测；局限在于侧重认知潜能，不能完全等同于实际创造性成就 | 二阶元分析关联效应为 **$r = 0.14$**（与学业、智力及干预呈现中等关联） |
-> | **创造过程与问题发现<br>（Creative Process & Problem Finding）** | 测量开放情境下的问题重构、[[Problem Finding\|问题发现]]、构想评估与顿悟酝酿等高阶认知加工 | • 问题发现与界定任务（Problem Finding Tasks; Getzels & Csikszentmihalyi, 1976; Runco & Okuda, 1988）<br>• 观念评估与选择测验（Idea Evaluation Tasks; Runco & Basadur, 1993）<br>• 远距离联想测验（Remote Associates Test, RAT; Mednick, 1962） | 优势在于贴近真实创造性解决问题的核心认知瓶颈；局限在于任务情境依赖性强，评分需结合主客观标准 | 二阶元分析中呈现最强的关联系数 **$r = 0.27$**，反映过程加工的核心驱动力 |
-> | **创造性产品评定<br>（Creative Product Evaluation）** | 评估实际产出物（艺术作品、设计、写作、科学方案）的新颖性与适切性 | • 同感评估技术（Consensual Assessment Technique, CAT; Amabile, 1982）<br>• 真实成果与专利计量（Patents, Publications, Artifacts） | 优势在于[[Ecological Validity\|生态效度]]最高，被公认为创造力测评的黄金标准；局限在于耗费领域专家资源，跨领域评分标准一致性受限 | 二阶元分析关联效应为 **$r = 0.12$**（受领域特殊性与专家主观变异影响） |
-> | **创造性成就与自陈量表<br>（Self-Report Achievements & Surveys）** | 评估个体跨领域的终身卓越创造性成就、日常观念产生行为及[[Self-Efficacy\|自我效能]]信念 | • 创造性成就问卷（Creative Achievement Questionnaire, CAQ; Carson et al., 2005）<br>• 朗科观念行为量表（Runco Ideational Behavior Scale, RIBS; Runco et al., 2001）<br>• 创造性自我效能感量表（Creative Self-Efficacy, CSE; Karwowski, 2016） | 优势在于施测便捷、能有效捕捉真实生活中的日常创造力与卓越创造力；局限在于存在社会赞许性效应与主观回忆偏差 | 跨领域综合效应集中于 **$r = 0.10 \sim 0.15$**，作为预测变量时预测效度较高 |
-
-> [!concept-lens] [[Criterion Problem|效标困境]]与多维复合测评
-> 1. **效标问题（The Criterion Problem）的根源** 创造力不同测量工具之间的相关性往往仅为弱至中等（$r = 0.20 \sim 0.40$）。[[Divergent Thinking|发散思维]]测验测查的是**创造潜能（Potential）**，[[Consensual Assessment Technique|同感评估技术]]（Consensual Assessment Technique, CAT）评定测查的是**即时产品（Product）**，创造性成就[[Questionnaire|问卷]]（[[Creative Achievement Questionnaire]], CAQ）记录的是**历史成就（Achievement）**。若研究者将某单一测验等同于整体创造力，将导致严重的[[Construct Validity|构念效度]]滑坡与效应量[[Heterogeneity|异质性]]；
-> 2. **现代测评的复合化趋势** 现代创造力研究倡导结合“发散思维认知测验 + 真实产品同感评定 + 观念行为自陈”的多源复合测评矩阵，从而在兼顾心理测量学信效度的同时，全面覆盖从微观日常创造（Little-c）到专业卓越创造（Pro-c/Big-C）的完整谱系。
-
----
-
 ## 创造力相关因素的多维谱系
 
 依据大规模[[Meta-meta-analysis|二阶元分析]]实证分类，影响创造力或与创造力相关的因素可划分为五大维度：
 
 > [!dimension] 创造力相关因素维度谱系
-> - **教育项目与教学干预（Intervention / Education）**
->   包含专门的[[Creative Problem Solving|创造性问题解决]]训练（CPS, Osborne）、普渡创造性思维计划（Rose & Lin, 1984）、[[Problem-Based Learning|基于问题的学习]]（Yunita et al., 2020）、STEAM 整合教学（Suganda et al., 2021）以及显式指导语（Acar, Runco & Park, 2020），实证二阶[[Effect Size|效应量]]达 $r = 0.20$。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, p. 7)]]
-> - **外认知相关因素（Extracognitive Correlates）**
->   涵盖人格特质（大五人格、经验开放性; Feist, 1998; Karwowski & Lebuda, 2016）、精神质与分裂型人格（Acar & Runco, 2012; Acar & Sen, 2013）、双相情感障碍（Kaczykowski et al., 2021）、情绪心境（Baas et al., 2008; Davis, 2009; Kaufmann & Vosburg, 2002）、内在动机（de Jesus et al., 2013）、好奇心（Schutte & Malouff, 2020）、正念（Lebuda et al., 2016）与压力调节（Byron et al., 2010），二阶效应量为 $r = 0.14$。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, p. 8)]]
-> - **认知相关因素（Cognitive Correlates）**
->   涵盖智力水平（Gerwig et al., 2021; Kim, 2005, 2008; Karwowski et al., 2021）、[[Threshold Hypothesis|智力门槛假说]]检验（Weiss & Steger, 2021）、心理表象（LeBoutillier & Marks, 2003）、语义距离（Li et al., 2023）、[[Problem Finding|问题发现]]能力（Abdulla et al., 2020）、顿悟与酝酿（Shen et al., 2016; Sio & Ormerod, 2009）及[[Academic Achievement|学业成就]]（Gajda et al., 2017），二阶效应量为 $r = 0.12$。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, p. 6)]]
-> - **即时情境影响（Immediate Influences）**
->   涵盖团队构成与多样性（Bell et al., 2011; Hülsheger et al., 2009）、组织创造力气候（Hunter et al., 2007）、领导风格（Lin et al., 2022）与信息技术使用（Pacauskas & Rajala, 2017），二阶效应量为 $r = 0.15$。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, p. 7)]]
-> - **人口学背景[[Variable|变量]]（Background Variables）**
->   涵盖出生顺序（Abdulla Alabbasi et al., 2021）、家庭规模、性别差异（Abdulla Alabbasi et al., 2022）及社会经济地位（Acar et al., 2022），二阶效应量为 $r = 0.07$（[[Confidence Interval|置信区间]]包含 0）。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, p. 8)]]
+> - **教育项目与教学干预（Intervention / Education）** 包含专门的[[Creative Problem Solving|创造性问题解决]]训练（CPS, Osborne）、普渡创造性思维计划（Rose & Lin, 1984）、[[Problem-Based Learning|基于问题的学习]]（Yunita et al., 2020）、STEAM 整合教学（Suganda et al., 2021）以及显式指导语（Acar, Runco & Park, 2020），实证二阶[[Effect Size|效应量]]达 $r = 0.20$。
+> - **外认知相关因素（Extracognitive Correlates）** 涵盖人格特质（大五人格、经验开放性; Feist, 1998; Karwowski & Lebuda, 2016）、精神质与分裂型人格（Acar & Runco, 2012; Acar & Sen, 2013）、双相情感障碍（Kaczykowski et al., 2021）、情绪心境（Baas et al., 2008; Davis, 2009; Kaufmann & Vosburg, 2002）、内在动机（de Jesus et al., 2013）、好奇心（Schutte & Malouff, 2020）、正念（Lebuda et al., 2016）与压力调节（Byron et al., 2010），二阶效应量为 $r = 0.14$。
+> - **认知相关因素（Cognitive Correlates）** 涵盖智力水平（Gerwig et al., 2021; Kim, 2005, 2008; Karwowski et al., 2021）、[[Threshold Hypothesis|智力门槛假说]]检验（Weiss & Steger, 2021）、心理表象（LeBoutillier & Marks, 2003）、语义距离（Li et al., 2023）、[[Problem Finding|问题发现]]能力（Abdulla et al., 2020）、顿悟与酝酿（Shen et al., 2016; Sio & Ormerod, 2009）及[[Academic Achievement|学业成就]]（Gajda et al., 2017），二阶效应量为 $r = 0.12$。
+> - **即时情境影响（Immediate Influences）** 涵盖团队构成与多样性（Bell et al., 2011; Hülsheger et al., 2009）、组织创造力气候（Hunter et al., 2007）、领导风格（Lin et al., 2022）与信息技术使用（Pacauskas & Rajala, 2017），二阶效应量为 $r = 0.15$。
+> - **人口学背景[[Variable|变量]]（Background Variables）** 涵盖出生顺序（Abdulla Alabbasi et al., 2021）、家庭规模、性别差异（Abdulla Alabbasi et al., 2022）及社会经济地位（Acar et al., 2022），二阶效应量为 $r = 0.07$（[[Confidence Interval|置信区间]]包含 0）。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 6–8)]]
 
 ---
 
@@ -206,7 +186,7 @@ updated: 2026-08-25
 > - **1950 年代 天才与智力脱钩** Guilford 在 APA 主席演讲中呼吁重视创造力研究，打破创造力等同于高智商的传统观点。
 > - **1960–1970 年代 4P 框架确立** Rhodes 提出创造者、创造过程、创造产品与创造环境四要素模型，奠定跨学科研究骨架。
 > - **1980–1990 年代 系统论与日常创造力转向** Csikszentmihalyi 提出领域-[[Champ|场域]]系统模型，Runco & Richards 倡导日常创造力与潜能观。
-> - **2020 年代 [[Meta-meta-analysis|二阶元分析]]确立实证效应基准** [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] 综合 52 项一阶[[Meta-analysis|元分析]]确立创造力关联全景基准；[[Argument_Gungor_2026_CP|Güngör et al. (2026)]] 证实[[Cooperative Learning|合作学习]]对创造性思维等高阶认知技能的优先促进效能。
+> - **2020 年代 [[Meta-meta-analysis|二阶元分析]]确立实证效应基准** [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] 综合 52 项一阶[[Meta-analysis|元分析]]确立创造力关联全景基准；[[Argument_Gungor_2026_CP|Güngör et al. (2026)]] 证实[[Cooperative Learning|合作学习]]对创造性思维等[[Higher-Order Thinking Skills|高阶认知技能]]的优先促进效能。
 
 ---
 
@@ -236,7 +216,7 @@ updated: 2026-08-25
 > | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与预测区间 | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | Siagian et al. (2023)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果变量：合作学习对数学创造性思维（[[Divergent Thinking\|发散思维]]与问题提出）的促进效应 | $k = 24$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.69$ $[0.42, 0.98]$ | — | 基础教育阶段准实验与全实验，采用[[Torrance Tests of Creative Thinking\|托兰斯创造性思维测验]]等工具 |
-> | Solissa et al. (2023)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果变量：拼图法对 21 世纪[[21st Century Skills and Competencies Discourse\|核心素养]]（含创造性思维）的促进效应 | $k = 10$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.84$ $[0.66, 1.03]$ | — | 跨学科跨学段综合干预，印证[[Jigsaw\|拼图法]]在促进创造性构想生成中的有效性 |
+> | Solissa et al. (2023)，引自同上 | 结果变量：拼图法对 21 世纪[[21st Century Skills and Competencies Discourse\|核心素养]]（含创造性思维）的促进效应 | $k = 10$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.84$ $[0.66, 1.03]$ | — | 跨学科跨学段综合干预，印证[[Jigsaw\|拼图法]]在促进创造性构想生成中的有效性 |
 > | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 关联构念：学生样本中创造力与[[Critical Thinking\|批判性思维]]的总体相关 | $k = 51$ / $N = 12{,}548$ | 皮尔逊 $r$（Fisher's $z$ 变换）/ 三水平随机效应模型 | $r = 0.386$ $[0.296, 0.470]$ | $I^2 = 95.6\%$，$Q(50) = 1133.19, p < .001$ | 29 项研究 51 个效应量；相关随测量类型组合而变，双主观组合最高 |
 
 > [!ma-table]- 一阶元分析互补维度亚组
@@ -244,10 +224,10 @@ updated: 2026-08-25
 >
 > | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 关联[[Construct\|构念]] | 双主观组合（创造力主观 × 批判性思维主观） | — | $r = 0.509$ | 批判性思维测量类型 $Q_M(1) = 5.234, p = .022$；创造力测量类型 $Q_M(1) = 10.133, p = .002$；交互项 $Q_M(1) = 6.524, p = .011$ | 相关最高；逐组合样本量与 95% CI 未在正文报告，见 [[Argument_Park_2026_TSC\|Park et al. (2026)]] 图 4；提示自陈测量中的[[Common Method Variance\|共同方法变异]]放大观察相关 |
-> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 关联构念 | 双客观组合（创造力客观 × 批判性思维客观） | — | $r = 0.317$ | 同上 | 高于全部混合组合，支持表现型测量间存在真实认知重叠 |
-> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 关联构念 | 创造力客观 × 批判性思维主观组合 | — | $r = 0.260$ | 同上 | 混合组合相关居中 |
-> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 关联构念 | 创造力主观 × 批判性思维客观组合 | — | $r = 0.195$ | 同上 | 混合组合相关最低 |
+> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 关联[[Construct\|构念]] | 双主观组合（创造力主观 × 批判性思维主观） | — | $r = 0.509$ | 批判性思维测量类型 $Q_M(1) = 5.234, p = .022$；创造力测量类型 $Q_M(1) = 10.133, p = .002$；交互项 $Q_M(1) = 6.524, p = .011$ | 相关最高；逐组合样本量与 95% CI 未在正文报告，见原图 4；提示自陈测量中的[[Common Method Variance\|共同方法变异]]放大观察相关 |
+> | 同上 | 关联构念 | 双客观组合（创造力客观 × 批判性思维客观） | — | $r = 0.317$ | 同上 | 高于全部混合组合，支持表现型测量间存在真实认知重叠 |
+> | 同上 | 关联构念 | 创造力客观 × 批判性思维主观组合 | — | $r = 0.260$ | 同上 | 混合组合相关居中 |
+> | 同上 | 关联构念 | 创造力主观 × 批判性思维客观组合 | — | $r = 0.195$ | 同上 | 混合组合相关最低 |
 
 > [!ma-table]- [[Meta-meta-analysis|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
@@ -263,7 +243,7 @@ updated: 2026-08-25
 > | 二阶元分析 | 当前概念角色 | 对应亚组 | 证据数 $M$ / $E$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | [[Variable\|变量]]角色分类 | [[Construct\|构念]]角色互补比较：[[Independent Variable\|预测变量]] vs [[Dependent Variable\|结果变量]] | 预测变量 $E = 84$ / 结果变量 $E = 80$ | 预测变量 $r = 0.29$ $[0.18, 0.41]$；结果变量 $r = 0.12$ $[0.05, 0.19]$ | $F(1, 16.3) = 9.43, p = .007$ | 预设分析；组间差异高度显著，创造力作为预测变量关联显著强于作为结果变量 |
-> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 结果变量 | 关联因素类型亚组：教育干预/项目 vs 外认知 vs 认知 vs 背景特征 | 干预 $E = 21$ / 外认知 $E = 47$ / 认知 $E = 34$ / 背景 $E = 50$ | 教育干预 $r = 0.20$ $[0.10, 0.29]$；外认知 $r = 0.14$ $[0.06, 0.22]$；认知 $r = 0.12$ $[0.03, 0.20]$；背景 $r = 0.05$ $[-0.07, 0.17]$ | $F(4, 15.6) = 0.95, p = .46$ | 预设分析；组间未达统计显著，但教育干预点估计最高，证实创造力具有明显可塑性 |
+> | 同上 | 结果变量 | 关联因素类型亚组：教育干预/项目 vs 外认知 vs 认知 vs 背景特征 | 干预 $E = 21$ / 外认知 $E = 47$ / 认知 $E = 34$ / 背景 $E = 50$ | 教育干预 $r = 0.20$ $[0.10, 0.29]$；外认知 $r = 0.14$ $[0.06, 0.22]$；认知 $r = 0.12$ $[0.03, 0.20]$；背景 $r = 0.05$ $[-0.07, 0.17]$ | $F(4, 15.6) = 0.95, p = .46$ | 预设分析；组间未达统计显著，但教育干预点估计最高，证实创造力具有明显可塑性 |
 > | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果变量 | 合作学习教学技术：综合合作 vs 拼图法 vs 小组调查 vs [[Cooperative Integrated Reading and Composition\|CIRC]] 整合读写 | $E = 14$（综合）/ $E = 6$（拼图）/ $E = 2$（调查）/ $E = 1$（CIRC） | CIRC $ES = 2.04$ $[1.05, 3.03]$；调查法 $ES = 1.08$ $[0.50, 1.66]$；拼图法 $ES = 0.72$ $[0.40, 1.04]$；综合合作 $ES = 0.61$ $[0.40, 0.81]$ | $Q_b(3) = 9.36, \text{df} = 3, p = .02$ | 预设分析；开放探究与结构化合作技术对创造性思维等高阶认知的激发最强 |
 
 
@@ -272,6 +252,8 @@ updated: 2026-08-25
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] 开展创造力领域的[[Meta-meta-analysis|二阶元分析]]，系统整合 52 项一阶[[Meta-analysis|元分析]]，量化确立了创造力作为[[Independent Variable|预测变量]]（$r = 0.29$）与[[Dependent Variable|结果变量]]（$r = 0.12$）的基准效应，并证明教育干预（$r = 0.20$）对创造力的显著促进效能。
-> - [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] 开展[[Cooperative Learning|合作学习]]对多维学习产出的二阶元分析，实证确立了合作学习对创造性思维等高阶认知技能的赋能效应达到 $ES = 0.76$，证实小群体互动与认知冲突对[[Creative Problem Solving|创造性问题解决]]的促进价值。
-> - [[Argument_Park_2026_TSC|Park et al. (2026)]] 开展学生样本中创造力与[[Critical Thinking|批判性思维]]相关的一阶元分析，综合 29 项研究 51 个[[Effect Size|效应量]]，确立两者中等正相关（$r = 0.386$），并证实测量类型显著调节相关大小，双主观组合相关最高（$r = 0.509$），提示自陈测量中的[[Common Method Variance|共同方法变异]]放大了观察相关。
+> - **[[Meta-meta-analysis|二阶元分析]]基准与[[Variable|变量]]角色** [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] 开展创造力领域的[[Meta-meta-analysis|二阶元分析]]，系统整合 52 项一阶[[Meta-analysis|元分析]]，量化确立了创造力作为[[Independent Variable|预测变量]]（$r = 0.29$）与[[Dependent Variable|结果变量]]（$r = 0.12$）的基准效应，并证明教育干预（$r = 0.20$）对创造力的显著促进效能。
+> - **[[Cooperative Learning|合作学习]]对创造性思维赋能** [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] 开展[[Cooperative Learning|合作学习]]对多维学习产出的二阶元分析，实证确立了合作学习对创造性思维等[[Higher-Order Thinking Skills|高阶认知技能]]的赋能效应达到 $ES = 0.76$，证实小群体互动与认知冲突对[[Creative Problem Solving|创造性问题解决]]的促进价值。
+> - **创造力与[[Critical Thinking|批判性思维]]相关元分析** [[Argument_Park_2026_TSC|Park et al. (2026)]] 开展学生样本中创造力与[[Critical Thinking|批判性思维]]相关的一阶元分析，综合 29 项研究 51 个[[Effect Size|效应量]]，确立两者中等正相关（$r = 0.386$），并证实测量类型显著调节相关大小，双主观组合相关最高（$r = 0.509$），提示自陈测量中的[[Common Method Variance|共同方法变异]]放大了观察相关。
+> - **高等教育政策与量规评价实践** [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] [[Systematic Review|系统综述]] [[OECD]] 国家高等教育中创造力与[[Critical Thinking Assessment|批判性思维评价]]的政策与实践，详析创造力在高校微观考核中的显性标准匮乏现状与真实性量规的破局路径。
+> - **[[Creativity Assessment|创造力测评]]与测量方法学** 参见专门概念条目 [[Creativity Assessment|创造力测评]]，该条目系统整合了从[[Divergent Thinking|发散思维]]标准化测验（[[Torrance Tests of Creative Thinking|TTCT]]/AUT）、专家产品同感评定（[[Consensual Assessment Technique|CAT]]）、大学招生情境任务（Rainbow/Kaleidoscope）到校本真实性评分量规（[[VALUE Rubrics|VALUE]]/CERI/CALOHEE）的工具矩阵、[[Criterion Problem|效标困境]]与[[Formative Assessment|促学评价]]生态。

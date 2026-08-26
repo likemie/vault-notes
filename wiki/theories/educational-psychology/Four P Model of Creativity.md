@@ -41,6 +41,7 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Epistemology]]"
   - "[[Document]]"
+  - "[[Creativity Assessment]]"
   - "[[Gatekeepers]]"
 related_methods:
   - "[[Meta-meta-analysis]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-08-26
 ---
 
 # Four P Model of Creativity
@@ -195,7 +196,7 @@ updated: 2026-08-24
 ## 适用边界
 
 > [!theory-boundary] 适用边界
-> - **适合解释** [[Creativity|创造力]]全领域分类学构建、宏观[[Meta-analysis|元分析]][[Heterogeneity|异质性]]分解、综合[[Creativity Training|创造力教学]]干预设计、跨学科创造力测评体系。
+> - **适合解释** [[Creativity|创造力]]全领域分类学构建、宏观[[Meta-analysis|元分析]][[Heterogeneity|异质性]]分解、综合[[Creativity Training|创造力教学]]干预设计、跨学科[[Creativity Assessment|创造力测评]]体系。
 > - **谨慎使用** 微观神经认知脑机制（如单一脑区激活时序），需结合认知神经科学细化过程（Process）的微观网络模型。
 > - **不适合解释** 纯粹由算法主导的非人类生成式 AI 的自主意识与社会意义生产。
 > - **常见误用** 将 4P 视为彼此静态割裂的独立盒子，在教学或测评中只抓[[Divergent Thinking|发散思维]]（Process）而忽视环境心理安全（Press）与主体动机（Person）。

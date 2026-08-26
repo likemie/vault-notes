@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Creativity]]"
   - "[[Divergent Thinking]]"
+  - "[[Creativity Assessment]]"
   - "[[Criterion Problem]]"
   - "[[Problem Finding]]"
   - "[[Variable]]"
@@ -40,7 +41,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-08-23
-updated: 2026-08-24
+updated: 2026-08-26
 ---
 
 # Mark A. Runco
@@ -52,7 +53,7 @@ updated: 2026-08-24
 > [!person-profile] 人物档案
 > - **身份位置** 美国心理学家、[[Creativity|创造力]]研究学者，曾任阿尔托大学（Aalto University）卓越教授、佐治亚大学（University of Georgia）等机构教授，《创造力研究期刊》（*Creativity Research Journal*）创刊主编。
 > - **核心角色** 创造力心理学与教育评估领域的关键奠基人之一，在[[Divergent Thinking|发散思维]]测量效度、[[Runco Ideational Behavior Scale|观念行为量表]]（RIBS）开发及创造潜能理论构建中承担核心节点角色。
-> - **代表贡献** 提出创造潜能与表现双层模型，系统阐述创造力评估心理测量学规范，主持创造力领域的[[Meta-meta-analysis|二阶元分析]]。
+> - **代表贡献** 提出创造潜能与表现双层模型，系统阐述[[Creativity Assessment|创造力评估]]心理测量学规范，主持创造力领域的[[Meta-meta-analysis|二阶元分析]]。
 
 ---
 
@@ -93,7 +94,7 @@ updated: 2026-08-24
 > - **1991 — *[[Divergent Thinking]]*** 奠定发散思维作为[[Creativity|创造潜能]]核心[[Operationalization|操作化]][[Construct|构念]]的理论与实证基础。
 > - **1999 — *Encyclopedia of Creativity***（与 S. R. Pritzker 合编） 汇聚当代创造力理论与跨学科研究的大型工具书。
 > - **2007/2014 — *Creativity: Theories and Themes: Research, Development, and Practice*** 系统梳理创造力发展的认知、人格、生物与社会文化视角。
-> - **2024 — *Handbook of Creativity Assessment***（与 S. Acar 合编） 确立现代创造潜能与创造性表现的评估标准。
+> - **2024 — *Handbook of [[Creativity Assessment]]***（与 S. Acar 合编） 确立现代创造潜能与创造性表现的评估标准。
 > - **2026 — *[[Meta-meta-analysis|Second-Order Meta-Analysis]] of the Creativity Research*** 通过二阶[[Meta-analysis|元分析]]整合半个世纪的创造力定量证据。[[Argument_Runco_2026_CRJ|(Runco et al., 2026)]]
 
 ---

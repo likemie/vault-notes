@@ -26,6 +26,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Creativity]]"
   - "[[Ecological Validity]]"
+  - "[[Creativity Assessment]]"
   - "[[Inter-Rater Reliability]]"
   - "[[Blinding]]"
   - "[[Divergent Thinking]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-08-26
 ---
 
 # Consensual Assessment Technique
@@ -65,7 +66,7 @@ updated: 2026-08-24
 > - **实施方式** 多名具有相关领域专业背景的独立专家评定者，依据个人内隐专业知识对样本进行匿名相对等级评定或排序。
 
 > [!citation-card]- 关键表述
-> 创造性产品评定主要依托阿马比尔的同感评估技术（Consensual Assessment Technique, CAT）或客观成果计量。CAT 具备全领域最高的生态效度，被公认为创造力测评的操作化黄金标准。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 3, 5)]]
+> 创造性产品评定主要依托阿马比尔的同感评估技术（Consensual Assessment Technique, CAT）或客观成果计量。CAT 具备全领域最高的生态效度，被公认为[[Creativity Assessment|创造力测评]]的操作化黄金标准。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 3, 5)]]
 
 ---
 
