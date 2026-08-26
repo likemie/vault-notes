@@ -9,7 +9,7 @@ summary: "美国创造力心理学家，Creativity Research Journal 创刊主编
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 16
+person_related_count: 17
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
