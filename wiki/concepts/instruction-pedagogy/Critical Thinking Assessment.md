@@ -215,50 +215,6 @@ updated: 2026-08-26
 
 ---
 
-## 实证数据
-
-> [!effect-table]- 原始研究结果
-> <span class="concept-effect-table-marker" aria-hidden="true"></span>
-> <span class="concept-effect-table-marker" aria-hidden="true"></span>
->
-> | 研究 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
-> |---|---|---|---|---|---|---|---|
-> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | ToK 学习阶段（Y12 vs Y11） | [[Critical Thinking Strategies Scale\|CTSS]] 批判性思维策略总分 | Y12 $n = 622$；Y11 $n = 620$ | Y12 $M = 4.85$ ($SD = 1.05$)；Y11 $M = 4.62$ ($SD = 1.08$) | Hedges' $g = 0.216$（派生） | $t(1240) = 3.04, p < .001$ | 横断调查；自陈策略测量；受自我报告主观偏误影响 |
-> | 同上 | ToK 学习阶段（Y12 vs Y11） | [[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale\|MSLQ-CT]] 批判性思维动机分量表 | Y12 $n = 622$；Y11 $n = 620$ | Y12 $M = 4.69$ ($SD = 1.15$)；Y11 $M = 4.48$ ($SD = 1.22$) | Hedges' $g = 0.177$（派生） | $t(1240) = 3.04, p < .01$ | 横断调查；自陈测量；反映学习动机中的思维策略感知 |
-
-> [!ma-table]- 一阶[[Meta-analysis|元分析]]总体结果
-> <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
-> <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
->
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 测量类型对[[Critical Thinking\|批判性思维]]与[[Creativity\|创造力]]相关的[[Interaction Effect\|调节效应]] | $k = 51$ / $N = 12{,}548$ | 皮尔逊 $r$（Fisher's $z$）/ 三水平随机效应模型 | $r = 0.386$ $[0.296, 0.470]$ | $I^2 = 95.6\%, Q(50) = 1133.19, p < .001$ | 29 项研究 51 个效应量；证实测量方式（主观 vs 客观）显著改变观察相关 |
-> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 教学干预对通用批判性思维技能测验的促进效应 | $k = 341$ / $N = —$ | Hedges' $g+$ / 随机效应模型 | $g+ = 0.30$ $[0.25, 0.34]$ | $Q(340) = 1,225.89, p = .001, I^2 = 72.27\%$ | 严格限定标准化通用批判性思维技能测验（如 [[Watson-Glaser Critical Thinking Appraisal\|WGCTA]]、CCTST 等） |
-> | 同上 | 教学干预对[[Domain Specificity\|学科特异性]]批判性思维测验的促进效应 | $k = 97$ / $N = —$ | Hedges' $g+$ / 随机效应模型 | $g+ = 0.57$ $[0.47, 0.68]$ | $Q(96) = 544.32, p < .001, I^2 = 82.36\%$ | 包含学科标准化（$g+=0.40$）与自编非标准化表现任务（$g+=0.65$） |
-> | 同上 | 教学干预对[[Critical Thinking Disposition\|批判性思维倾向]]问卷的促进效应 | $k = 25$ / $N = —$ | Hedges' $g+$ / 随机效应模型 | $g+ = 0.23$ $[0.06, 0.40]$ | $Q(24) = 82.32, p < .001, I^2 = 70.84\%$ | 采用 CCTDI 等自陈倾向问卷，干预增益显著低于学科特异性技能测验 |
-
-> [!ma-table]- 一阶元分析互补维度亚组（测量类型组合）
-> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
-> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
->
-> | 一阶元分析 | 当前概念角色 | 对应测量类型组合亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 测量方法调节 | 双主观组合（批判性思维自陈 × 创造力自陈） | — | $r = 0.509$ | 批判性思维测量类型 $Q_M(1) = 5.234, p = .022$；交互项 $Q_M(1) = 6.524, p = .011$ | 效应量最高；自陈[[Questionnaire\|问卷]]中的[[Common Method Variance\|共同方法变异]]（CMV）大幅放大了观察相关 |
-> | 同上 | 测量方法调节 | 双客观组合（批判性思维表现 × 创造力表现） | — | $r = 0.317$ | 同上 | 高于所有混合测量组合，证实表现测验间存在真实的认知与[[Executive Function\|执行功能]]重叠 |
-> | 同上 | 测量方法调节 | 批判性思维主观 × 创造力客观组合 | — | $r = 0.260$ | 同上 | 跨方法组合消除 CMV 干扰，相关大小回落至中低水平 |
-> | 同上 | 测量方法调节 | 批判性思维客观 × 创造力主观组合 | — | $r = 0.195$ | 同上 | 相关最低，反映主客观跨模态测量间的[[Construct\|构念]]差异 |
-
-> [!ref-table]- 宏观高校调查与测评工具库普查实证数据
-> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
-> | 数据来源与调查对象 | 核心调查指标与统计结果 | 测量方法学与制度启示 | 代表[[Document\|文献]]依据 |
-> |---|---|---|---|
-> | **全美大学调查（AAC&U, 2016）**<br>$N = 325$ 所高校学术主管 | - **85%** 高校建立全校通用成果标准（98% 包含批判性思维）。<br>- **91%** 开展累积评价的高校使用评分量规（2008 年为 77%）。<br>- **38%** 高校依赖外部标准化统考（2008 年为 49%）。<br>- **42%** 的量规高校（占全美 28%）正式采纳 AAC&U VALUE 量规。 | 标志着全美高校学业评价从外部标准化选择统考全面转向校本真实性评分量规。 | [[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 27)]] |
-> | **欧洲大学协会调查（EUA Trends 2018）**<br>$N = 303$ 所大学（覆盖 43 国） | - **76%** 大学为所有课程设定预期成果。<br>- **88%** 大学因成果导向调整了考核方式。<br>- **66%** 大学在考核方式对齐中遭遇制度障碍。 | 欧洲高校普遍推行成果导向评价，但微观考核仍受传统闭卷笔试惯性制约。 | [[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 28–29)]] |
-> | **美国质量评估资源库（NILOA / ACE / AIR）**<br>收录 250+ 项评估工具 | - 收录 15 套专门的批判性思维工具（CAAP、EPP、CLA+、VALUE、CCTST、WGCTA、CAT 等）。<br>- 涵盖标准化测试、自陈量表与评分规程三大类。 | 表明批判性思维测评工具库高度丰富，但跨校常模与校本教学改进之间仍存张力。 | [[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 29)]] |
-> | **欧洲 CRITHINKEDU 教师访谈**<br>9 国 11 所大学 53 名教师 | - **47 / 53** 名任课教师在日常考核中完全没有使用任何特定测评工具或显性量规，主要依赖模糊的隐性经验判断。 | 揭示高校微观教学中显性批判性思维测评工具与教师评价素养的严重匮乏。 | 同上 |
-
----
-
 ## 争议与批评
 
 > [!debates] 测评方法学争议与[[Paradigm|范式]]张力
