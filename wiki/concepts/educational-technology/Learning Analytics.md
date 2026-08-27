@@ -3,138 +3,204 @@ title: Learning Analytics
 aliases:
   - 学习分析
   - 学习分析学
-  - LA
   - Educational Data Mining
-  - EDM
-summary: "通过收集、分析和报告学习过程中的数字痕迹来理解和优化学习的技术实践，在教育治理中也常被用于风险预判、行为干预和学生管理。"
+  - 学习分析与教育数据挖掘
+summary: "通过收集、测量、分析和报告学习者及其环境的数字痕迹以理解和优化学习的技术与治理实践；既赋能个性化自适应与纵向学习增益测查，也在先发制人治理、算法主体性规训与构念简化上面临深刻伦理挑战。"
 type: concept
 domain: "educational-technology"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 28
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
-  - learning-analytics
-  - educational-data-mining
-  - personalized-learning
-  - edtech
-  - digitalization
-  - data-science
-  - region/global
-  - level/higher-ed
+  - theme/learning-analytics
+  - theme/educational-data-mining
+  - theme/digitalization
+  - theme/edtech
   - theme/subjectification
+  - theme/higher-order-thinking
+  - level/higher-education
+  - level/k12
 related_concepts:
   - "[[Performativity of Measurement]]"
-  - "[[Homework]]"
-  - "[[Educational Technology Industry]]"
   - "[[Online Self-Assessment]]"
   - "[[Digital Self]]"
   - "[[Digital Optimum]]"
-  - "[[Artefact]]"
   - "[[Preemptive Governance]]"
   - "[[Promising Student]]"
-  - "[[Professional Judgment]]"
+  - "[[Learning Gain]]"
+  - "[[Formative Assessment]]"
+  - "[[Authentic Assessment]]"
+  - "[[Higher-Order Thinking Skills]]"
+  - "[[Critical Thinking]]"
   - "[[Creativity]]"
-  - "[[Transhumanism]]"
   - "[[Bildung]]"
   - "[[Gamification]]"
-  - "[[Theory of Knowledge]]"
   - "[[Data Behaviorism]]"
+  - "[[Theory of Knowledge]]"
+  - "[[Professional Judgment]]"
+  - "[[Educational Technology Industry]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Single-Case Design]]"
+related_instruments:
+  - "[[Collegiate Learning Assessment]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[HEFCE Learning Gain Project]]"
+  - "[[KoKoHs Program]]"
+  - "[[TECO Project]]"
+  - "[[OECD]]"
 related_arguments:
+  - "[[Argument_Bouckaert_2023_OECD]]"
   - "[[Argument_Thompson_2022_Promising_Student]]"
   - "[[Argument_Amos_2022_Springer]]"
   - "[[Argument_Jornitz_2022_Bildung_algorithmic]]"
-confidence: medium
-status: draft
+confidence: high
+status: completed
 created: 2026-05-08
-updated: 2026-05-20
+updated: 2026-08-27
 ---
 
 # Learning Analytics
 
+---
+
 ## 定义
 
-> [!info]
-> 学习分析（Learning Analytics，简称 LA）是指通过对学习过程中产生的数字痕迹——点击流、提交时间、测验成绩、讨论参与度等——进行收集、测量、分析和报告，以理解和优化学习及其发生环境的技术实践。与之密切相关的还有教育数据挖掘（Educational Data Mining, EDM），后者侧重从教育数据中自动发现模式和构建预测模型([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.224]])。
+> [!def] 核心定义
+> 学习分析（Learning Analytics, LA）是指通过对学习者在数字化学习环境中生成的行为轨迹（点击流、停留时长、作业提交、交互日志）及学业表现数据进行系统性收集、测量、挖掘与建模，以理解、预测和优化学习过程及其发生环境的技术与教育治理实践。在现代高等教育中，学习分析已从单纯的在线学习行为追踪，进一步扩展为支撑跨学期[[Learning Gain|学习增益（Learning Gain）]]测查与高阶认知素养评估的系统性数据工程。[[Argument_Thompson_2022_Promising_Student|(Thompson et al., 2022, p. 224)]]; [[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 17–19)]]
 
-从量化社会学的角度看，学习分析的量化过程伴随着"价值化"（valorization）——不仅仅表征世界（如学生的某种能力），还创造了带有等级不平等的新现实(Mau, 2019, pp.40–59; [[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.225]])。这与 [[Performativity of Measurement|测量的生产性]] 一脉相承：学习分析的数据不只是"反映"学习，更是重塑学习行为和主体性的生产性力量。
+> [!concept-lens] 概念透镜
+> - **含义** 包含微观层面的“学习者认知与行为建模（Learner Modeling）”、中观层面的“课程自适应与实时反馈（Adaptive Feedback）”、以及宏观层面的“机构学业预警与[[Learning Gain|学习增益]]分析”。
+> - **用途** 帮助教育者突破传统期末单次考试的黑箱，获得动态、持续的过程性评价证据；在教育治理中为学业预警、自适应推荐及国家级教育干预效果评估提供数据基座。
+> - **生产性反思** 学习分析不仅“反映”学习，更通过[[Performativity of Measurement|测量的生产性]]塑造新的等级秩序与主体性认同；算法设定的“[[Digital Optimum|数字最优]]”直接规训着学生的自我认知与学习策略。[[Argument_Thompson_2022_Promising_Student|(Thompson et al., 2022, p. 225)]]
+> - **边界** 区别于纯粹的后台数据统计，学习分析的核心在于服务教学干预与意义理解；若脱离教育学认识论指导，单纯的算法关联极易退化为[[Data Behaviorism|数据行为主义]]与构念代表性不足。
 
-> [!example]
-> 传统课堂中，教师通过观察学生的面部表情、提问频率和[[Homework|作业]]表现来判断谁在挣扎、谁需要额外挑战。学习分析将这些"教师直觉"转化为数据仪表盘——每个学生的参与度被量化为数字、学习进度被可视化为进度条、薄弱知识点被算法自动标记。教师角色从"观察者-判断者"转变为"数据读取者-响应者"([[Argument_Amos_2022_Springer|Amos, 2022, p.57]])。
+> [!boundary]- 概念边界
+> - 不等于 **教育数据挖掘（Educational Data Mining, EDM）** —— EDM 更偏向计算机科学与统计学导向，侧重于算法自动化发现新模式；学习分析更偏向教育学与人类中心导向，侧重于赋能教师与学生解释数据、开展形成性干预。[[Argument_Thompson_2022_Promising_Student|(Thompson et al., 2022, p. 224)]]
+> - 不等于 **学术分析（Academic Analytics）** —— 学术分析聚焦高校机构层面的运营效率、招生配额、财务与科研产出指标；学习分析严格聚焦教学法、学习过程与学生认知发展本身。
+
+---
+
+## 概念辨析
+
+> [!contrast-table] 学习分析与相关技术治理范式辨析
+> | 维度 | 学习分析 (Learning Analytics) | 传统标准化测验 (Standardized Testing) | 形成性课堂评价 (Formative Assessment) |
+> |---|---|---|---|
+> | **数据源泉** | 动态数字足迹（点击流、交互日志、CBT 反应时） | 静态纸笔或机考终结性答卷（正误得分） | 教师即时口头提问、课堂观察与作业批改 |
+> | **分析时间轴** | 持续、实时或纵向跨阶段追踪 | 离散的单次时间截面 | 教学过程中的嵌入式即时发生 |
+> | **核心功能** | 预测风险、自适应推送、[[Learning Gain\|学习增益]]测算 | 选拔分流、文凭准入、横向常模排序 | 诊断思维卡点、提供指向下一步的精准反馈 |
+> | **潜在危机** | [[Data Behaviorism\|数据行为主义]]、构念代表性不足、主体规训 | 负向反拨诱发应试刷题、忽视能力生成 | 主观偏差、跨班级跨校信度难以标准化 |
+
+---
 
 ## 核心要素
 
-> [!abstract]
+> [!feature] 学习分析的技术与治理核心构件
+> - **全息数据追踪与数字海洋（Digital Ocean）** 从传统教育评价的“数字荒漠”跃升为对学习过程细粒度数字痕迹（交互频率、测验耗时、视频回放、讨论区语义）的全面捕获。[[Argument_Thompson_2022_Promising_Student|(Behrens & DiCerbo, 2014; Thompson et al., 2022, p. 224)]]
+> - **学习者建模与预测分类（Learner Modeling）** 基于多源认知与行为数据构建预测模型（如 ASAP 分类器），早期识别学业失败风险或高潜能力特质。[[Argument_Thompson_2022_Promising_Student|(Pea, 2014; Thompson et al., 2022, p. 224)]]
+> - **纵向[[Learning Gain|学习增益]]测算（Longitudinal Gain Analytics）** 借助计算机自适应测验（CAT）与项目反应理论（IRT），对学生在大学就读期间的高阶思维与跨学科能力增量实施跨年级追踪评估。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 17–19)]]
+> - **仪表盘可视化与即时反馈闭环（Dashboards & Feedback Loop）** 将复杂算法输出转化为红绿警戒色、进度条与推荐雷达图，驱动个性化自适应学习或辅导员先发制人干预。[[Argument_Amos_2022_Springer|(Amos, 2022, pp. 56–57)]]; [[Argument_Jornitz_2022_Bildung_algorithmic|(Jornitz & Klinge, 2022, pp. 242–245)]]
 
-### 数据收集与追踪
+---
 
-Behrens & DiCerbo（2014, pp.39–40）将教育数据的增长描述为从"数字荒漠"（digital desert）到"数字海洋"（digital ocean）的转变——数字痕迹的丰富性使得对学习过程的全面追踪成为可能。Bächle（2016, p.172）指出，这种数据丰富性同时承诺了"通过数据实现对自我的完全可读性"([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.224]])。
+## 围绕概念形成的命题
 
-### 学习者建模与预测
+---
 
-学习分析的核心技术产出是"学习者模型"（learner models）——通过收集和分析学生的兴趣、动机、认知技能和行为数据，识别学业成功的预测因子(Pea, 2014; [[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.224]])。Antunes（2010, pp.353–363）提出的"ASAP 分类器"（ASAP classifiers）是一个典型例子：能够自动预测学生成功或失败概率的算法，以便在最早阶段实施对策。
+### 命题一　学习分析通过将不可见学习过程数据化表征，重构了教学决策并产生生产性现实
 
-### 反馈与适应循环
+> [!concept-lens] 数据化与测量的生产性
+> 学习分析不仅是中立的测量工具，它通过量化与指标赋值，创造出关于“好学生/风险学生”的新型等级秩序并深刻重塑师生互动。
 
-学习分析与个性化学习构成"测量-反馈-适应"循环：学习分析负责数据的收集和建模，个性化推荐引擎根据分析结果推送学习内容([[Argument_Amos_2022_Springer|Amos, 2022, pp.56–57]])。这个闭环承诺了一种"无摩擦学习"（frictionless learning）——学生在不需要主动求助的情况下，系统自动从表现数据中"读取"需求并响应。
+> [!claim] Amos; Thompson et al.
+> **数据表征重塑教师角色并创造新型价值秩序** 学习分析将教师的直觉观察转化为数据仪表盘指标，使教师从“经验观察者”转变为“数据响应者”；同时，量化过程伴随着价值化（Valorization），通过界定何种行为指标具有高权重，反向塑造了学生的学习策略与机构资源分配。[[Argument_Amos_2022_Springer|(Amos, 2022, p. 57)]]; [[Argument_Thompson_2022_Promising_Student|(Thompson et al., 2022, p. 225)]]
 
-## 主要应用场景
+---
 
-### 个性化学习与自适应系统
+### 命题二　学习分析在高等教育质量治理中正从微观点击流转向多维度的纵向“学习增益”评估
 
-> [!abstract]
-> [[Argument_Amos_2022_Springer|Amos (2022, pp.56–57)]]将学习分析定位为 [[Educational Technology Industry|教育技术产业]]三重驱动力中"教师专业发展"维度的核心技术：
+> [!concept-lens] 认知能力增益与宏观质量测查
+> 面对知识经济对高阶素养的要求，国家高教治理正利用测试分析技术开展大规模增值性评价，以衡量院校教学对学生高阶能力的实质贡献。
 
-- **宣称的教育价值** 通过精确追踪每个学生的强项和弱项，提供"恰到好处"的学习内容和难度
-- **创造的新劳动力市场** 催生了数据科学家、学习设计师、教育技术开发者等新职业类别
-- **与利润动机的关联** 学习分析的技术基础设施（数据平台、分析算法、可视化工具）主要由 EdTech 公司提供，使"专业发展"动机与利润动机在实践中难以分离
+> [!claim] Bouckaert / OECD
+> **学习增益分析成为连接国家政策与院校评价的关键工具** 英国 [[HEFCE Learning Gain Project|HEFCE 学习增益项目]]（涵盖 70 余所高校）、德国 [[KoKoHs Program|KoKoHs 计划]] 与意大利 [[TECO Project|TECO 项目]] 表明，现代学习分析正将纵向追踪、机考技术与真实量规相结合，用以精准测定批判性思维与通用能力的增益幅度；这不仅推动了高教增值评价的科学化，也倒逼参与高校系统反思其整体教学与考核设计。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 17–19, 21–22)]]
 
-> [!example]
-> 一个学生在 Coursera 上学习机器学习课程。学习分析系统追踪她观看视频的时长、暂停和回放的频率、测验的答题时间和错误模式。个性化推荐引擎根据这些分析结果，在她卡住的概率概念上推送补充材料，在她已掌握的内容上跳过练习。整个过程不需要学生主动"寻求帮助"([[Argument_Amos_2022_Springer|Amos, 2022, p.57]])。
+---
 
-### 先发制人的学生治理
+### 命题三　基于算法预判的先发制人治理将学生主体性重构为对标“数字最优”的自我调节机器
 
-> [!abstract]
-> 在高等教育入学环节，学习分析的技术能力被用于入学前的"先发制人"（preemptive）治理。Thompson 等人（2022, pp.224–226）以 [[Online Self-Assessment]] 为分析对象展示了这一机制。
+> [!concept-lens] 主体性生产与先发制人规训
+> 算法在学生发生实际学业危机前便提前介入，将求助的自主权转化为被动接受算法调制的依附性。
 
-在 [[Online Self-Assessment|OSA]] 场景中，学习分析将干预窗口从学习过程中提前到了入学之前——通过收集潜在学生的兴趣、期望、动机和认知技能数据，构建 [[Digital Self|数字自我]]，并生成[[Digital Optimum|数字最优]]（digital optimum）作为参照标准。[[Digital Self|数字自我]]与数字最优之间的差距驱动着算法治理——学生被引导主动管理自己的"学习组合"、弥补不足([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.226]])。详见 [[Online Self-Assessment#数据化与主体化效应]]。
+> [!claim] Thompson et al.
+> **先发制人治理重塑有前景学生的主体性** 在 [[Online Self-Assessment|在线自我评估（OSA）]] 等场景中，学习分析在入学前即构建出“[[Digital Self|数字自我]]”并对标“[[Digital Optimum|数字最优]]”；当学生的日常行为偏离最优轨迹时，系统触发先发制人式干预（[[Preemptive Governance|Preemptive Governance]]），迫使个体将自身不断修剪为符合算法预设的“[[Promising Student|有前景的学生]]”，剥夺了学生在真实探索与犯错中生成主体性的空间。[[Argument_Thompson_2022_Promising_Student|(Thompson et al., 2022, pp. 224–226)]]
 
-这一治理模式的运作基础是将学生特征转化为可被归因于该个体的数字指标——即 Bächle（2016, p.194）所说的"统计人造物"（statistical [[Artefact]]）。被建构的 [[Digital Self|数字自我]] 成为后续治理决策的依据：哪些学生需要额外关注、哪些学生适合特定项目、哪些学生面临着高风险([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.224–225]])。
+---
 
-> [!example]
-> 亚利桑那大学的 e-advice 系统是学习分析与[[Preemptive Governance|先发制人治理]]结合的典型案例：当算法自动追踪记录到一系列"问题学生行为"（如未按时完成课程[[Homework|作业]]、花在健身房的时间多于图书馆）时，辅导员被自动通知并介入(Amos, 2019, p.238; [[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.225]])。学生的日常行为被转化为持续的调制信号，干预从反应性（学生主动求助）转变为预判性（系统在学生意识到问题之前就标记风险）。这表明学习分析不仅是"描述学习"的工具，更是"治理学习"的机制——它与 "[[Promising Student|有前景的学生]]" 的主体建构互为表里。
+### 命题四　仪表盘与游戏化界面的视觉符号规训可能以行为主义顺从遮蔽深层的知识论理解
 
-### 教育劳动市场重塑
+> [!concept-lens] 界面认知与算法修养危机
+> 仪表盘的颜色警戒与游戏化代币制造了强烈的情绪刺激，容易使学生陷入刷取指标的数字游戏中，背离深度教化（Bildung）。
 
-> [!success]
-> [[Argument_Amos_2022_Springer|Amos (2022, p.57)]]指出学习分析对教师角色的根本性重塑：
+> [!claim] Jornitz & Klinge
+> **视觉符号条件反射侵蚀质性知识反思** 学习分析仪表盘的色彩符号（红黄绿）与[[Gamification|游戏化]]代币（金币、徽章）具有强大的情绪压迫力；学生与教师逐渐被条件化为追求“100% 处于绿色安全区”或累积虚拟代币，算法绕过了复杂的批判性反思与概念理解，使教育退化为遵循指令的[[Data Behaviorism|数据行为主义]]。[[Argument_Jornitz_2022_Bildung_algorithmic|(Jornitz & Klinge, 2022, pp. 242–245)]]
 
-- **角色转变** 教师从知识传递者和学习设计者，部分转变为算法的执行者和数据的提供者——学习分析系统设计学习路径，教师负责监督和干预
-- **劳动市场分层** 学习分析同时创造高端技术岗位（数据科学家）和"执行层"教学岗位（按仪表盘指示行动的教师），可能加剧教育劳动市场的两极分化
-- **去专业化风险** 当教学决策越来越多地由算法驱动，"教师的[[Professional Judgment|专业判断]]"空间可能被压缩
+---
+
+### 命题总览
+
+> [!contrast-table] 所有命题归纳
+> | 命题类型 | 核心理论判定 | 适用分析情境 | 代表学者与文献 |
+> |---|---|---|---|
+> | **数据化生产性** | 行为数据表征重构教学角色，创造具有等级划分效力的价值秩序 | 在线学习平台、教师专业发展、EdTech 产业 | [[Argument_Amos_2022_Springer\|Amos (2022)]]; [[Argument_Thompson_2022_Promising_Student\|Thompson et al. (2022, p. 225)]] |
+> | **学习增益测查** | 结合机考与量规实现跨阶段追踪，成为高教增值评价核心工具 | 高教质量保障、纵向评估项目（HEFCE/TECO） | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023, p. 17)]] |
+> | **先发制人规训** | 通过数字自我与最优对标实施早期干预，重塑标准化主体性 | 入学在线自测（OSA）、学业预警系统 | [[Argument_Thompson_2022_Promising_Student\|Thompson et al. (2022, p. 226)]] |
+> | **视觉符号异化** | 仪表盘警示色与游戏代币诱发条件反射，以行为顺从替代深度教化 | 自适应平台界面（Antolin/bettermarks）、教育游戏化 | [[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz & Klinge (2022)]] |
+
+---
+
+## 概念演变
+
+> [!dev-timeline] 学习分析发展演进历程
+> - **2000 年代中 — 教育数据挖掘（EDM）萌芽** 随着学习管理系统（LMS, 如 Moodle/Blackboard）普及，研究者开始运用关联规则、分类与聚类算法挖掘学生日志数据。
+> - **2011 年 — 学习分析（LA）概念正式确立** 首届国际学习分析与知识大会（LAK 2011）召开，正式将 LA 定义为聚焦人类学习理解与优化的交叉学科，与偏重算法的 EDM 形成互补。
+> - **2010 年代中 — 先发制人治理与在线自测（OSA）应用** 欧美高校将 LA 技术前移至招生与衔接阶段，通过在线自测构建数字自我并开展先发制人式生源管理。[[Argument_Thompson_2022_Promising_Student|(Thompson et al., 2022, p. 224)]]
+> - **2010 年代末 — 国家级学习增益（Learning Gain）大规模试验** 英国 [[HEFCE Learning Gain Project|HEFCE]]（2014–2018）、德国 [[KoKoHs Program|KoKoHs]] 与意大利 [[TECO Project|TECO]] 运用机考分析与 CLA+ 等工具开展院校增值测查。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 17–19)]]
+> - **2020 年代至今 — 生成式 AI 时代的多模态分析与高阶素养对齐** 面对大语言模型冲击，学习分析正转向多模态过程性证据整合，探索如何通过真实表现量规克服选择题分析的构念代表性不足。
+
+---
 
 ## 争议与批评
 
-> [!warning]
+> [!debates] 学术争议焦点
+>
+> > [!axis] 学习分析面临的四大理论与伦理批评
+> > - **实证改善学习效果的证据依然薄弱（Lack of Empirical Efficacy）** 尽管 EdTech 产业极力标榜自适应算法的优越性，但独立严谨的大规模实证研究仍未能证实学习分析能显著降低辍学率或提升深层学业理解。[[Argument_Amos_2022_Springer|(Amos, 2022, p. 57)]]
+> > - **构念代表性不足与意义剥离（Construct Underrepresentation）** 将复杂的思维过程窄化为停留时间、点击频率等易量化代理变量，严重遗漏了沉思、困惑、灵感酝酿等难以数字化的深层认知维度。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 24–25)]]
+> > - **先发制人预判的伦理暴力（Ethical Violence of Preemption）** 在学生展示自身潜能之前，算法已依据历史模型为其贴上“高风险”或“缺乏前景”的标签，形成自证预言并加剧教育不平等。[[Argument_Thompson_2022_Promising_Student|(Thompson et al., 2022, pp. 224–225)]]
+> > - **对全人教化（[[Bildung]]）开放性的封锁** 教育的本质是指向一个未知且不可预测的自由主体成长，而算法决定论则试图将未来锁死在历史数据的概率相关性中。[[Argument_Jornitz_2022_Bildung_algorithmic|(Jornitz & Klinge, 2022, p. 242)]]
 
-- **"改善学习质量"的证据不足** 学习分析的宣称效果——提高学习成绩、降低辍学率——缺乏大规模、独立评估的经验支持([[Argument_Amos_2022_Springer|Amos, 2022, p.57]])
-- **数据化 ≠ 理解学习** 将学习过程简化为可追踪的数字痕迹，可能遗漏学习中最关键的维度——困惑的质量、[[Creativity|创造性]]的酝酿、同伴之间的非正式互动——这些难以量化但对学习至关重要的过程([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.227]])
-- **与[[Transhumanism|超人类主义]]的亲和性** 学习分析的核心逻辑——通过数据追踪和算法优化来"增强"学习——与 [[Transhumanism]] 的效率最大化逻辑高度兼容([[Argument_Amos_2022_Springer|Amos, 2022, pp.58–59]])
-- **可预测性的幻觉** 学习分析的逻辑预设学生的学业成功可以被入场数据预测，但这排除了教育的根本开放性——[[Bildung]] 指向的是一个超越数据相关性的、开放且不可预测的未来([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.227]])
-- **[[Preemptive Governance|先发制人治理]]的伦理风险** 在 [[Online Self-Assessment|OSA]] 场景中，学习分析在入学前就对"问题学生"进行预判和预管理——这引发了对数据驱动的"预判性身份"（preemptive identity）的伦理担忧：一个人可能在被给予机会证明自己之前，就已经被算法标记为"高风险"([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.224–225]])
+---
 
-## 仪表盘可视化与 Gamification
+## 实证数据
 
-> [!warning]
-> 学习分析的量化输出——积分、百分比、正确率——通过仪表盘（dashboard）被可视化呈现，同时也为 [[Gamification]] 提供了数据基础([[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, pp.242–245]])。
+> [!ref-table]- 学习分析与增益测查关键实证研究
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 / 项目 | 样本规模与实施情境 | 研究设计与数据源 | 核心考察变量 | 原始统计与实证发现 | 解释边界与政策启示 |
+> |---|---|---|---|---|---|
+> | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023, pp. 17–19)]] / HEFCE 计划 | 英国 70 余所高校，13 项试验子项目 | 纵向跨阶段追踪与自适应测验 | 本科生通用能力增益与院校增值 | 证实结合 CLA+ 等工具可实现跨年级学习增益测查，但对高校内部教学考核方式产生长远反思重塑 | 验证了学习分析从点击流向高阶认知增益分析跃迁的政策可行性 |
+> | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023, p. 18)]] / 意大利 TECO 测评 | 意大利 23 所大学逾 6,000 名本科生 | 机考化纵向能力测评分析 | 跨学科核心通用能力分布 | 成功建立全国性大学生高阶素养基准数据库，为大学质量保障提供跨校可比增益依据 | 展示了全国性机考分析平台在支持高校自我诊断中的效能 |
+> | Klinge et al. (2020)（引自 [[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz & Klinge, 2022, pp. 243–244]]） | 数字健康与学习仪表盘实验参与者 | 质性追踪与用户情绪测量 | 仪表盘色彩符号的情感冲击力 | 即使专家已口头澄清结果无大碍，被仪表盘“红色”标示的参与者仍经历数周焦虑与行为自抑 | 证实仪表盘视觉符号具有压倒理性评估的强烈情感与行为规训效应 |
 
-仪表盘的颜色象征（红色=最差，绿色=最好）具有强大的情感冲击力——颜色本身往往压倒对度量背后计算逻辑的理性评估。一项健康测量研究发现，即使专家已对结果做出口头解释，被红色标示的输出仍使参与者经历了数周的焦虑（Klinge et al., 2020, cited in [[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, pp.243–244]]）。在 Antolin 阅读平台的结果页面中，两个在数学上相互矛盾的度量系统被视觉呈现掩盖，学生和教师逐渐被"条件化"以适应"表现应该是 100% 在绿色圆圈中"的信息([[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, pp.244–245]])。
+---
 
-在 bettermarks 等数学平台中，[[Gamification]] 元素（金币、星星）与学习分析数据并列展示，但 Gamification 符号的视觉权重（黄色、大尺寸）远超百分比数字——创造了一套按游戏逻辑而非教学逻辑构造的"货币"。详见 [[Gamification#在教育中的应用与问题]] 和 论证拆解 7b。
+## 相关研究
 
-从[[Theory of Knowledge|知识论]]角度看，这一整套"量化→可视化→Gamification 反馈"的逻辑根植于 [[Data Behaviorism|数据行为主义]]：算法绕过人类的意义建构过程，直接从行为数据模式中生成"知识"并驱动干预。
-
+> [!evidence-grid] 相关文献索引
+> - [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] — OECD 国际报告，系统评述 HEFCE、KoKoHs、TECO 等大规模学习增益分析项目，指出机考分析技术在测查高阶素养时的构念有效性挑战与政策杠杆。
+> - [[Argument_Thompson_2022_Promising_Student|Thompson et al. (2022)]] — 批判性考察在线自我评估（OSA）中的学习分析技术，揭示先发制人治理、数字自我与“有前景学生”的主体性规训机制。
+> - [[Argument_Amos_2022_Springer|Amos (2022)]] — 剖析教育技术产业如何将学习分析包装为教师专业发展工具，指出其实证效益不足与超人类主义效率导向。
+> - [[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge (2022)]] — 探讨算法时代的教化（Bildung）危机，分析仪表盘色彩象征与游戏化代币对学生认知的数据行为主义驯化。
