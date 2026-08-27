@@ -35,6 +35,7 @@ sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 related_concepts:
+  - "[[Concept Mapping]]"
   - "[[Computer Simulation]]"
   - "[[Virtual World]]"
   - "[[Ideal Speech Situation]]"
@@ -44,7 +45,6 @@ related_concepts:
   - "[[Emergence]]"
   - "[[School Effectiveness]]"
   - "[[Construct Validity]]"
-  - "[[Praxis]]"
   - "[[Interaction Effect]]"
   - "[[Reflexivity]]"
   - "[[Avatar]]"
@@ -84,15 +84,17 @@ related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Design-Based Research]]"
   - "[[Internet-based Survey]]"
+related_instruments:
+  - "[[VALUE Rubrics]]"
 status: draft
 created: 2026-07-19
-updated: 2026-07-19
+updated: '2026-08-27'
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19
 
 ## 概念地图
 
-> [!knowledge-map]- 第19章　概念地图
+> [!knowledge-map]- 第19章　[[Concept Mapping|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Chapter_19_Concept_Map.jpg)
 
 ## 章节内容
@@ -571,7 +573,7 @@ updated: 2026-07-19
 > [!citation-card]- Gilbert & Troitzsch 论模拟的三大目的
 > [[Computer Simulation|计算机模拟]]的主要目的是发现、证明和实验。超越简单的预测，计算机模拟使研究者能够理解和解释过程如何随时间展开及其结果。这颠覆了预测作为理论检验标准的价值；相反，它主张理论的检验标准应是其解释力和诠释力，而非预测价值。（Gilbert & Troitzsch, 2005, p. 6; p. 147）
 >
-> *The prime purposes of computer simulations are for discovery, proof and experiment. Beyond simply prediction, computer simulations enable an understanding and explanation to be gained of how processes operate and unfold over time, and the results of these. This explodes the value of prediction as a test of a theory; rather it argues that the test of a theory should be its explanatory and hermeneutic power, rather than its predictive value.*
+> *The prime purposes of computer simulations are for discovery, proof and experiment. Beyond simply prediction, computer simulations enable an understanding and explanation to be gained of how processes operate and unfold over time, and the results of these. This explodes the [[VALUE Rubrics|VALUE]] of prediction as a test of a theory; rather it argues that the test of a theory should be its explanatory and hermeneutic power, rather than its predictive value.*
 
 > [!citation-card]- [[Complexity Theory|复杂性理论]]对[[Virtual World|虚拟世界]]的基础性支撑
 > 真实世界虽然高度复杂，但建立在相对简单的规则之上，这些规则产生了这种复杂性。（Waldrop, 1992; Lewin, 1993; p. 154）

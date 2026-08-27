@@ -31,9 +31,11 @@ tags:
   - paradigm/qualitative
   - research-design
 related_concepts:
+  - "[[Concept Mapping]]"
   - "[[Variable]]"
   - "[[Causality]]"
   - "[[Document]]"
+  - "[[Creativity]]"
   - "[[Ways of Knowing]]"
   - "[[Analytic Framework]]"
   - "[[Hypothesis]]"
@@ -74,7 +76,6 @@ related_concepts:
   - "[[Growth]]"
   - "[[Fitness for Purpose]]"
   - "[[Experimenter Bias]]"
-  - "[[Praxis]]"
   - "[[Presence]]"
 related_methods:
   - "[[Case Study]]"
@@ -101,7 +102,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11]]"
 status: draft
 created: 2026-07-11
-updated: 2026-07-12
+updated: '2026-08-27'
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
@@ -110,7 +111,7 @@ sources:
 
 ## 概念地图
 
-> [!knowledge-map]- 第14章 概念地图
+> [!knowledge-map]- 第14章 [[Concept Mapping|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Chapter_14_Concept_Map.jpg)
 
 ## 章节内容

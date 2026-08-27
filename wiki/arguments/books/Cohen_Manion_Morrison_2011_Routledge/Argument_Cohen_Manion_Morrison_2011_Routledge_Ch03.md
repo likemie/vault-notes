@@ -27,9 +27,9 @@ tags:
   - source/textbook
   - topic/evaluation
 related_concepts:
+  - "[[Concept Mapping]]"
   - "[[Scientific Method]]"
   - "[[Categorical Funding]]"
-  - "[[Praxis]]"
   - "[[Reliability]]"
   - "[[Operationalization]]"
   - "[[Research Question]]"
@@ -66,7 +66,7 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-17
-updated: 2026-08-16
+updated: '2026-08-27'
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03
 
@@ -94,7 +94,7 @@ updated: 2026-08-16
 >   M --> N
 > ```
 
-> [!knowledge-map]- 第3章概念地图
+> [!knowledge-map]- 第3章[[Concept Mapping|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Chapter_3_Concept_Map.jpg)
 
 ---

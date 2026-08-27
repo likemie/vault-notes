@@ -34,6 +34,7 @@ sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 related_concepts:
+  - "[[Concept Mapping]]"
   - "[[Fitness for Purpose]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Rich and Thick Description]]"
@@ -44,7 +45,6 @@ related_concepts:
   - "[[Non-maleficence and Beneficence in Research]]"
   - "[[Dialogue in Education]]"
   - "[[Artefact]]"
-  - "[[Praxis]]"
   - "[[Idiographic]]"
   - "[[Nomothetic]]"
   - "[[Causality]]"
@@ -80,7 +80,7 @@ related_facts: []
 related_arguments: []
 status: draft
 created: 2026-08-14
-updated: 2026-08-16
+updated: '2026-08-27'
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28
 
@@ -88,7 +88,7 @@ updated: 2026-08-16
 
 #### 概念地图
 
-> [!knowledge-map]- 第28章　概念地图
+> [!knowledge-map]- 第28章　[[Concept Mapping|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_28_Concept_Map.jpg)
 
 ## 章节内容

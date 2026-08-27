@@ -31,6 +31,7 @@ tags:
   - paradigm/quantitative
   - causal-inference
 related_concepts:
+  - "[[Concept Mapping]]"
   - "[[Causality]]"
   - "[[Hypothesis]]"
   - "[[Variable]]"
@@ -41,6 +42,7 @@ related_concepts:
   - "[[Co-relational Study]]"
   - "[[Criterion Group Study]]"
   - "[[Sample Size Determination]]"
+  - "[[Student Attitude]]"
   - "[[Effective Teaching]]"
   - "[[Document]]"
   - "[[Post Hoc Ergo Propter Hoc Fallacy]]"
@@ -66,7 +68,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08]]"
 status: draft
 created: 2026-07-12
-updated: 2026-07-13
+updated: '2026-08-27'
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
@@ -75,7 +77,7 @@ sources:
 
 ## 概念地图
 
-> [!knowledge-map]- 第15章 概念地图
+> [!knowledge-map]- 第15章 [[Concept Mapping|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Chapter_15_Concept_Map.jpg)
 
 ## 章节内容

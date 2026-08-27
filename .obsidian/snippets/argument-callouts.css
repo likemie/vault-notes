@@ -3404,74 +3404,180 @@
   background: rgba(170, 130, 50, 0.06);
 }
 
-/* ─── pathways（可行路径 — 榄绿 + 编号轨道） ─────────── */
+/* ─── pathways（实施路径 — 编辑型路线图） ──────────────── */
+@keyframes pathways-route-flow {
+  from { background-position: 0 -180%; }
+  to   { background-position: 0 280%; }
+}
+
+@keyframes pathways-icon-direction {
+  0%, 72%, 100% { transform: translateX(0); }
+  82% { transform: translateX(2px); }
+  90% { transform: translateX(-1px); }
+}
+
 .callout[data-callout="pathways"] {
   --callout-color: 92, 122, 82;
   --callout-icon: lucide-arrow-right-left;
+  position: relative;
+  overflow: hidden;
   background:
-    linear-gradient(135deg, rgba(92, 122, 82, 0.10), rgba(92, 122, 82, 0.025)),
+    linear-gradient(135deg, rgba(var(--callout-color), 0.065), transparent 48%),
     var(--background-primary);
-  border: 1px solid rgba(92, 122, 82, 0.24);
-  border-left: 5px solid rgb(92, 122, 82);
-  border-radius: 10px;
-  box-shadow: 0 8px 20px rgba(92, 122, 82, 0.09);
-  counter-reset: pathway;
-  transition: box-shadow 0.25s ease, border-color 0.25s ease;
+  border: 1px solid rgba(var(--callout-color), 0.22);
+  border-left: 3px solid rgb(var(--callout-color));
+  border-radius: 12px;
+  box-shadow:
+    0 1px 2px rgba(0, 0, 0, 0.04),
+    0 10px 28px rgba(var(--callout-color), 0.055);
+  transition: box-shadow 0.28s ease, border-color 0.25s ease;
+}
+
+.callout[data-callout="pathways"]:hover {
+  border-color: rgba(var(--callout-color), 0.32);
+  box-shadow:
+    0 1px 2px rgba(0, 0, 0, 0.04),
+    0 14px 34px rgba(var(--callout-color), 0.085);
 }
 
 .callout[data-callout="pathways"] > .callout-title {
-  color: rgb(72, 100, 62);
-  font-weight: 650;
-  letter-spacing: 0.02em;
+  position: relative;
+  z-index: 1;
+  padding: 0.68rem 0.9rem 0.62rem;
+  color: color-mix(in srgb, rgb(var(--callout-color)) 82%, black);
+  border-bottom: 1px solid rgba(var(--callout-color), 0.12);
+  font-weight: 680;
+  letter-spacing: 0.012em;
+}
+
+.callout[data-callout="pathways"] > .callout-title > .callout-icon {
+  opacity: 0.88;
+  animation: pathways-icon-direction 5.2s ease-in-out infinite;
 }
 
 .callout[data-callout="pathways"] > .callout-title .callout-title-inner::before {
   content: "PATH";
   display: inline-block;
   margin-right: 0.5rem;
-  padding: 0.06em 0.4em;
+  padding: 0.06em 0.44em;
+  border: 1px solid rgba(var(--callout-color), 0.20);
   border-radius: 4px;
-  background: rgba(92, 122, 82, 0.18);
-  color: rgb(72, 100, 62);
+  background: rgba(var(--callout-color), 0.10);
+  color: color-mix(in srgb, rgb(var(--callout-color)) 82%, black);
   font-size: var(--fs-label);
   font-weight: 800;
-  letter-spacing: 0.05em;
+  letter-spacing: 0.10em;
 }
 
-.callout[data-callout="pathways"] .callout-content > ul {
-  padding-inline-start: 0;
-  margin-block: 0.5rem 0.2rem;
+.callout[data-callout="pathways"] > .callout-content {
+  position: relative;
+  z-index: 1;
+}
+
+.callout[data-callout="pathways"] > .callout-content > :is(ul, ol) {
+  position: relative;
+  margin: 0.14rem 0 0;
+  padding: 0;
   list-style: none;
+  counter-reset: pathway;
 }
 
-.callout[data-callout="pathways"] .callout-content > ul > li {
+.callout[data-callout="pathways"] > .callout-content > :is(ul, ol)::before {
+  content: "";
+  position: absolute;
+  z-index: 0;
+  top: 0.82rem;
+  bottom: 0.82rem;
+  left: 1.01rem;
+  width: 1px;
+  border-radius: 999px;
+  background: linear-gradient(
+    180deg,
+    rgba(var(--callout-color), 0.20) 0%,
+    rgba(var(--callout-color), 0.20) 38%,
+    rgba(var(--callout-color), 0.92) 48%,
+    rgba(var(--callout-color), 0.92) 52%,
+    rgba(var(--callout-color), 0.20) 62%,
+    rgba(var(--callout-color), 0.20) 100%
+  );
+  background-size: 1px 220%;
+  filter: drop-shadow(0 0 2px rgba(var(--callout-color), 0.16));
+  animation: pathways-route-flow 4.8s ease-in-out infinite;
+}
+
+.callout[data-callout="pathways"] > .callout-content > :is(ul, ol) > li {
   counter-increment: pathway;
   position: relative;
-  padding: 0.45rem 0.6rem 0.45rem 2rem;
-  margin-bottom: 0.3rem;
-  border-radius: 6px;
-  line-height: 1.7;
+  z-index: 1;
+  min-height: 2.3rem;
+  margin: 0;
+  padding: 0.46rem 1rem 0.46rem 2.72rem;
+  border: 0;
+  border-bottom: 1px solid rgba(var(--callout-color), 0.10);
+  border-radius: 0;
+  background: transparent;
+  box-shadow: none;
+  line-height: 1.56;
+  transition: background 0.18s ease, padding-left 0.24s cubic-bezier(0.22, 1, 0.36, 1);
 }
 
-.callout[data-callout="pathways"] .callout-content > ul > li::before {
+.callout[data-callout="pathways"] > .callout-content > :is(ul, ol) > li:last-child {
+  border-bottom: 0;
+}
+
+.callout[data-callout="pathways"] > .callout-content > :is(ul, ol) > li::before {
   content: counter(pathway);
   position: absolute;
-  left: 0;
-  top: 0.4rem;
+  z-index: 2;
+  left: 0.36rem;
+  top: 0.5rem;
   display: inline-grid;
   place-items: center;
   width: 1.3rem;
   height: 1.3rem;
+  box-sizing: border-box;
+  border: 1px solid rgba(var(--callout-color), 0.72);
   border-radius: 999px;
-  background: rgb(92, 122, 82);
-  color: #fff;
-  font-size: 0.75em;
-  font-weight: 700;
+  background: var(--background-primary);
+  color: rgb(var(--callout-color));
+  font-size: 0.64em;
+  font-weight: 760;
   font-variant-numeric: tabular-nums;
+  box-shadow: 0 0 0 3px var(--background-primary);
 }
 
-.callout[data-callout="pathways"] .callout-content > ul > li:hover {
-  background: rgba(92, 122, 82, 0.07);
+.callout[data-callout="pathways"] > .callout-content > :is(ul, ol) > li::after {
+  content: none;
+}
+
+.callout[data-callout="pathways"] > .callout-content > :is(ul, ol) > li:hover {
+  background: rgba(var(--callout-color), 0.055);
+  padding-left: 2.9rem;
+}
+
+.theme-dark .callout[data-callout="pathways"] {
+  --callout-color: 105, 145, 92;
+  background:
+    linear-gradient(135deg, rgba(var(--callout-color), 0.055), transparent 48%),
+    var(--background-primary);
+}
+
+.theme-dark .callout[data-callout="pathways"] > .callout-title,
+.theme-dark .callout[data-callout="pathways"] > .callout-title .callout-title-inner::before {
+  color: rgb(135, 174, 121);
+}
+
+@media (max-width: 700px) {
+  .callout[data-callout="pathways"] > .callout-content > :is(ul, ol) > li {
+    padding-right: 0.75rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .callout[data-callout="pathways"] > .callout-title > .callout-icon,
+  .callout[data-callout="pathways"] > .callout-content > :is(ul, ol)::before {
+    animation: none !important;
+  }
 }
 
 /* ─── contrast-table（对照 — 对角线纹 + 顶部重边） ──── */
@@ -11702,6 +11808,16 @@
   box-shadow:
     inset 0 1px 0 rgba(255, 255, 255, 0.06),
     0 2px 7px rgba(0, 0, 0, 0.18);
+}
+
+/* pathways 使用更紧凑的流程标签密度，避免长路径纵向膨胀。 */
+.callout[data-callout="pathways"] > .callout-content > :is(ul, ol) > li > strong:first-of-type,
+.callout[data-callout="pathways"] > .callout-content > :is(ul, ol) > li > p:first-child > strong:first-of-type {
+  margin: 0.03rem 0.42rem 0.08rem 0;
+  padding: 0.09em 0.48em;
+  border-radius: 5px;
+  font-size: 0.91em;
+  line-height: 1.34;
 }
 
 /* ─── AF. [!question] hover（已移至覆盖块统一管理）── */

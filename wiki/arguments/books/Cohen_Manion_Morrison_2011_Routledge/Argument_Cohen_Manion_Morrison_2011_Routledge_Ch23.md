@@ -33,6 +33,7 @@ sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 related_concepts:
+  - "[[Concept Mapping]]"
   - "[[Questionnaire]]"
   - "[[Dialogue in Education]]"
   - "[[Definition of Terms]]"
@@ -40,7 +41,6 @@ related_concepts:
   - "[[Ecological Validity]]"
   - "[[Variable]]"
   - "[[Research Question]]"
-  - "[[Praxis]]"
   - "[[Hypothesis]]"
   - "[[Emergence]]"
   - "[[Value Neutrality]]"
@@ -100,7 +100,7 @@ related_facts:
   - "[[Stanford Prison Experiment]]"
 status: draft
 created: 2026-07-23
-updated: 2026-08-20
+updated: '2026-08-27'
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23
 
@@ -108,7 +108,7 @@ updated: 2026-08-20
 
 #### 概念地图
 
-> [!knowledge-map]- 第23章　概念地图
+> [!knowledge-map]- 第23章　[[Concept Mapping|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_23_Concept_Map.jpg)
 
 ## 章节内容

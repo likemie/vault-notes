@@ -16,7 +16,6 @@ related_concepts:
   - "[[Innovation Hub]]"
   - "[[Innovation Park]]"
   - "[[University-Industry Collaboration]]"
-  - "[[Praxis]]"
   - "[[Asset Mapping]]"
   - "[[Placemaking]]"
   - "[[Analytic Framework]]"
@@ -57,9 +56,11 @@ related_arguments: []
 sources:
   - "[[books/Hall_Boccanfuso_2025_Springer/Ch7_Byrne_2025|Ch7_Byrne_2025]]"
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
+related_instruments:
+  - "[[VALUE Rubrics]]"
 status: draft
 created: 2026-05-28
-updated: '2026-06-08'
+updated: '2026-08-27'
 subtype: book-chapter
 publication_type: book
 title: "Argument_Byrne_2025_InnovationCenters"
@@ -275,7 +276,7 @@ citation_aliases:
 ---
 ### 大学内部协同的挑战
 
-20. 确保分散且经常各自为政的大学各部门保持一致，是产学合作中学术领导力的另一个重要组成部分。为了让尽可能多的利益相关者对总体愿景保持清晰认知，大学必须展示并沟通一个明确的价值主张（clear value proposition）。拥有清晰的角色和流程定位，学术伙伴才能在对外沟通中保持一致性，避免重复对话或冗余。这些行政或官僚流程不应成为研究园区发展的不必要障碍(pp.129–130)。
+20. 确保分散且经常各自为政的大学各部门保持一致，是产学合作中学术领导力的另一个重要组成部分。为了让尽可能多的利益相关者对总体愿景保持清晰认知，大学必须展示并沟通一个明确的价值主张（clear [[VALUE Rubrics|VALUE]] proposition）。拥有清晰的角色和流程定位，学术伙伴才能在对外沟通中保持一致性，避免重复对话或冗余。这些行政或官僚流程不应成为研究园区发展的不必要障碍(pp.129–130)。
 
 21. Clough 卸任后出版了《重新构想的科技大学：佐治亚理工学院，1994–2008》(The Technological University Reimagined, Georgia Institute of Technology, 1994–2008)，提供了大量具体案例来说明佐治亚理工学院的转型在多大程度上来自战略愿景和领导力(p.129)。该书在文中仅作为背景资料提及，暗示 Tech Square 的成功是系统性领导力的结果，而非仅凭一次关键决策。
 

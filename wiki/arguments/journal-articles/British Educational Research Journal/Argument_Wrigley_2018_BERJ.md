@@ -33,7 +33,6 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Evidence-Based Education]]"
   - "[[Value Neutrality]]"
-  - "[[Praxis]]"
   - "[[Ontology]]"
   - "[[Bildung]]"
   - "[[Positivism]]"
@@ -83,6 +82,8 @@ related_arguments:
 sources:
   - "[[sources/Wrigley_2018_BERJ|Wrigley_2018_BERJ]]"
 part_of: ""
+related_instruments:
+  - "[[VALUE Rubrics]]"
 status: draft
 created: 2026-05-01
 updated: 2026-07-09
@@ -101,7 +102,7 @@ citation_aliases:
 > 3. [[Evidence-Based Education|证据本位教育]]（Evidence-Based Education, EBE）的统计修辞如何与新自由主义政策框架合谋，进而导致一线教师的去专业化？
 
 > [!claim] 核心主张
-> 教育中的“证据本位”运动在技术上通过统计聚合层层剥离情境，哲学上基于休谟粗糙的经验论抹杀因果机制与人类能动性（Agency），其本质是新自由主义审计文化的体现，旨在用 [[Value Neutrality|价值中立]]（Value Neutrality）的科学修辞将教育的价值与政治问题转化为纯粹的效率传递技术。
+> 教育中的“证据本位”运动在技术上通过统计聚合层层剥离情境，哲学上基于休谟粗糙的经验论抹杀因果机制与人类能动性（Agency），其本质是新自由主义审计文化的体现，旨在用 [[Value Neutrality|价值中立]]（[[VALUE Rubrics|VALUE]] Neutrality）的科学修辞将教育的价值与政治问题转化为纯粹的效率传递技术。
 
 > [!concept-lens]- 阅读透镜
 > - **对象** 证据本位教学（Evidence-Based Teaching）的方法论内核，尤其是作为其金标准的 [[Randomised Controlled Trials\|RCT]]、[[Meta-analysis|元分析]]以及 [[Meta-meta-analysis|元-元分析]]。

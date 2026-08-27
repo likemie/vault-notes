@@ -49,7 +49,6 @@ related_concepts:
   - "[[Convergence Theory in Comparative Education]]"
   - "[[Growth]]"
   - "[[Policy Science in Comparative Education]]"
-  - "[[Praxis]]"
   - "[[Research Question]]"
   - "[[Democratic Education]]"
   - "[[Realism in International Relations]]"
@@ -87,6 +86,8 @@ related_arguments:
 sources:
   - "[[sources/Cowen_2023_CE|Cowen_2023_CE]]"
 part_of: ''
+related_instruments:
+  - "[[VALUE Rubrics]]"
 status: draft
 created: 2026-06-06
 updated: 2026-08-20
@@ -106,7 +107,7 @@ citation_aliases:
 > 比较教育（Comparative Education）作为一门大学学科已陷入制度性繁荣但理论性空洞的危机。学科中积累了大量用于自我合法化（self-legitimation）的陈词滥调（Banalities），而学者们习惯于待在这些舒适区中，未能意识到未来在隐喻层面上已然临近且极具紧迫性。如何将未来即现在这一直觉性隐喻，转化为审视比较教育学科未来的连贯[[Theoretical Perspective|理论视角]]，是学科面临的核心问题。(p.326)
 
 > [!claim] 核心主张
-> 比较教育必须摆脱塞浦路斯会议透露的历史主义倒退、[[Michael Sadler|迈克尔·萨德勒]]（Michael Sadler, 1900）的[[Pragmatic Paradigm|实用主义]]政策工具论（practical value）、马克-安托万·朱利安（Marc-Antoine Jullien, 1817）的唯[[Scientism|科学主义]]（scientism）预测幻觉以及约翰·斯图亚特·密尔（John Stuart Mill, 1843）的机械对比法等历史陈词滥调。学科应直面其学术与政治共谋的本质，并战略性地回归转移（Transfer，即移动即变形的形态变化）与[[Educated Identity|受教育身份]]（Educated Identity，即伦理与道德拷问）这两个核心基础问题，以此应对监控资本主义（surveillance capitalism）与人工智能（Artificial Intelligence，AI）教学（AI pedagogy）时代[[Totally Pedagogised Society|全盘教育化社会]]（Totally Pedagogised Society）的未来挑战。(pp.326–327, pp.335–336)
+> 比较教育必须摆脱塞浦路斯会议透露的历史主义倒退、[[Michael Sadler|迈克尔·萨德勒]]（Michael Sadler, 1900）的[[Pragmatic Paradigm|实用主义]]政策工具论（practical [[VALUE Rubrics|VALUE]]）、马克-安托万·朱利安（Marc-Antoine Jullien, 1817）的唯[[Scientism|科学主义]]（scientism）预测幻觉以及约翰·斯图亚特·密尔（John Stuart Mill, 1843）的机械对比法等历史陈词滥调。学科应直面其学术与政治共谋的本质，并战略性地回归转移（Transfer，即移动即变形的形态变化）与[[Educated Identity|受教育身份]]（Educated Identity，即伦理与道德拷问）这两个核心基础问题，以此应对监控资本主义（surveillance capitalism）与人工智能（Artificial Intelligence，AI）教学（AI pedagogy）时代[[Totally Pedagogised Society|全盘教育化社会]]（Totally Pedagogised Society）的未来挑战。(pp.326–327, pp.335–336)
 
 > [!concept-lens] 阅读透镜
 > - **对象** 比较教育学科（包括学术研究与咨询应用两个维度）的合法化惯例、[[Epistemology|认识论]]边界与政治预设。(p.326)

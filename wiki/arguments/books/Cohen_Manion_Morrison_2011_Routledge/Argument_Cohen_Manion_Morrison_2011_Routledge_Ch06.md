@@ -27,10 +27,10 @@ tags:
   - source/textbook
   - theme/research-planning
 related_concepts:
+  - "[[Concept Mapping]]"
   - "[[Document]]"
   - "[[Fitness for Purpose]]"
   - "[[Reliability]]"
-  - "[[Praxis]]"
   - "[[Research Topic]]"
   - "[[Research Contribution]]"
   - "[[Literature Search]]"
@@ -59,6 +59,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Emergence]]"
   - "[[Dialogue in Education]]"
+  - "[[Creativity]]"
   - "[[Research Problem]]"
   - "[[Champ]]"
   - "[[Research Ethics]]"
@@ -99,7 +100,7 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-19
-updated: 2026-06-19
+updated: '2026-08-27'
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06
 
@@ -118,7 +119,7 @@ updated: 2026-06-19
 >   G --> H["6.8 Box 6.1<br>36条选择清单"]
 > ```
 
-> [!knowledge-map]- 第6章概念地图
+> [!knowledge-map]- 第6章[[Concept Mapping|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Chapter_6_Concept_Map.jpg)
 
 ---

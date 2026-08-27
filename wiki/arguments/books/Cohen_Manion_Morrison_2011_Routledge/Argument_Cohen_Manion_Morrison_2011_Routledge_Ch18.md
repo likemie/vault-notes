@@ -96,9 +96,11 @@ related_persons:
   - "[[Paulo Freire]]"
   - "[[Carlos Alberto Torres]]"
   - "[[Donald A. Schön]]"
+related_instruments:
+  - "[[VALUE Rubrics]]"
 status: draft
 created: 2026-07-18
-updated: 2026-08-26
+updated: '2026-08-27'
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18
 
@@ -980,7 +982,7 @@ Zuber-Skerritt（1996a, p. 17）进一步提出四个实践问题（p. 296）：
 > [!citation-card]- Melrose 论批判性研究的价值负载
 > 批判性研究因自身价值负载而放弃中立，在审视特定情境中运作的价值观、伦理、道德和政治的幌子下，实际上旨在改变现状。（Melrose, 1996, p. 52; p. 278）
 >
-> *Critical research is, itself, value-laden, it abandons neutrality; it has an explicit social agenda that, under the guise of examining values, ethics, morals and politics that are operating in a particular situation, is actually aimed at transforming the status quo.*
+> *Critical research is, itself, [[VALUE Rubrics|VALUE]]-laden, it abandons neutrality; it has an explicit social agenda that, under the guise of examining values, ethics, morals and politics that are operating in a particular situation, is actually aimed at transforming the status quo.*
 
 ## 来源
 

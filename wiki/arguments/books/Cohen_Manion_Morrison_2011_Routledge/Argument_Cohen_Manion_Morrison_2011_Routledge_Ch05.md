@@ -27,8 +27,8 @@ tags:
   - source/textbook
   - topic/ethics
 related_concepts:
+  - "[[Concept Mapping]]"
   - "[[Document]]"
-  - "[[Praxis]]"
   - "[[Emergence]]"
   - "[[Covert Research]]"
   - "[[Costs Benefits Ratio in Research Ethics]]"
@@ -52,6 +52,7 @@ related_concepts:
   - "[[Sensitive Research]]"
   - "[[Rich and Thick Description]]"
   - "[[Betrayal in Research]]"
+  - "[[Creativity]]"
   - "[[Deception in Research]]"
   - "[[Privacy in Research]]"
   - "[[Academic Freedom]]"
@@ -85,7 +86,7 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-18
-updated: 2026-08-20
+updated: '2026-08-27'
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05
 
@@ -117,7 +118,7 @@ updated: 2026-08-20
 >   R --> S["5.19 结论<br>个人伦理守则六优势"]
 > ```
 
-> [!knowledge-map]- 第5章概念地图
+> [!knowledge-map]- 第5章[[Concept Mapping|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Chapter_5_Concept_Map.jpg)
 
 ---

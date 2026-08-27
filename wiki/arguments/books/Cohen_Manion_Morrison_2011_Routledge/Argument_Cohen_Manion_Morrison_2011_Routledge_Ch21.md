@@ -33,6 +33,7 @@ sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 related_concepts:
+  - "[[Concept Mapping]]"
   - "[[Paradigm]]"
   - "[[Dialogue in Education]]"
   - "[[Knowledge Production]]"
@@ -48,10 +49,10 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Fitness for Purpose]]"
-  - "[[Praxis]]"
   - "[[Open-Ended and Closed-Ended Data]]"
   - "[[Leading Questions]]"
   - "[[Homework]]"
+  - "[[Cooperative Learning]]"
   - "[[Active Listening]]"
   - "[[Construct]]"
   - "[[Chain of Evidence]]"
@@ -88,7 +89,7 @@ related_methods:
   - "[[Accounts]]"
 status: draft
 created: 2026-07-22
-updated: 2026-08-20
+updated: '2026-08-27'
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21
 
@@ -101,7 +102,7 @@ updated: 2026-08-20
 
 
 #### 概念地图
-> [!knowledge-map]- 第21章　概念地图
+> [!knowledge-map]- 第21章　[[Concept Mapping|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_21_Concept_Map.jpg)
 
 ## 章节内容

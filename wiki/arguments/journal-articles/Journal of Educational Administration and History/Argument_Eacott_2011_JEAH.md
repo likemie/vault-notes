@@ -37,7 +37,8 @@ related_theories: []
 related_methods: []
 related_persons:
   - "[[Pierre Bourdieu]]"
-related_facts: []
+related_facts:
+  - "[[Melbourne Declaration]]"
 related_arguments: []
 sources:
   - "[[sources/Eacott_2011_JEAH|Eacott_2011_JEAH]]"

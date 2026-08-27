@@ -33,8 +33,8 @@ sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 related_concepts:
+  - "[[Concept Mapping]]"
   - "[[Questionnaire]]"
-  - "[[Praxis]]"
   - "[[Operationalization]]"
   - "[[Sensitive Questions]]"
   - "[[Questionnaire Wording]]"
@@ -79,13 +79,13 @@ related_methods:
   - "[[Random Sampling]]"
 status: draft
 created: 2026-07-20
-updated: 2026-08-20
+updated: '2026-08-27'
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20
 
 ## 概念地图
 
-> [!knowledge-map]- 第20章　概念地图
+> [!knowledge-map]- 第20章　[[Concept Mapping|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Chapter_20_Concept_Map.jpg)
 
 ## 章节内容

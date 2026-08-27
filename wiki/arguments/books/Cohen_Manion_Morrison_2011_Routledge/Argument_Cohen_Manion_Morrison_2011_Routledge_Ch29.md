@@ -33,6 +33,7 @@ sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 related_concepts:
+  - "[[Concept Mapping]]"
   - "[[Data Reduction and Data Display]]"
   - "[[Reflexivity]]"
   - "[[Research Question]]"
@@ -48,7 +49,6 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Causality]]"
   - "[[Positivism]]"
-  - "[[Praxis]]"
   - "[[Reliability]]"
   - "[[Internal Consistency]]"
   - "[[Variable]]"
@@ -75,7 +75,7 @@ related_facts: []
 related_arguments: []
 status: draft
 created: 2026-08-16
-updated: 2026-08-16
+updated: '2026-08-27'
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29
 
@@ -83,7 +83,7 @@ updated: 2026-08-16
 
 #### 概念地图
 
-> [!knowledge-map]- 第29章　概念地图
+> [!knowledge-map]- 第29章　[[Concept Mapping|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_29_Concept_Map.jpg)
 
 ## 章节内容

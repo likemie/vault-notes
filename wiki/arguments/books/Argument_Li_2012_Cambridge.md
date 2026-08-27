@@ -27,6 +27,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Dialogue in Education]]"
   - "[[Document]]"
+  - "[[Concept Mapping]]"
   - "[[Ideal Learner]]"
   - "[[Questionnaire]]"
   - "[[Parental Cognitive and Affective Socialization]]"
@@ -177,7 +178,7 @@ sources:
 part_of: []
 status: draft
 created: 2026-05-21
-updated: 2026-08-25
+updated: '2026-08-27'
 year: 2012
 doi: ""
 citation_aliases:
@@ -208,7 +209,7 @@ citation_aliases:
 > 全书以跨文化比较为总体框架，各章按[[Research Question|研究问题]]选择不同方法，从宏观历史分析到微观[[Dialogue in Education|对话]]逐层推进。
 
 - **历史-文本分析（Ch2）** 追溯西方（古希腊 → 启蒙 → 现代心理学）与儒家（[[Confucius|孔子]] → 理学 → 当代民间）两种知识传统的经典文本，以《论语》《[[Mencius|孟子]]》等一手[[Document|文献]]为主
-- **[[Prototype Methods|原型方法]]（Ch3）** 自由联想提取"学习"相关词汇 → 聚类分析生成概念地图（研究一）；书面叙事收集[[Ideal Learner|理想学习者形象]] → [[Content Analysis|内容分析]]提取人格结构（研究二）。两条证据线独立后汇聚（convergence）验证[[Cultural Models|文化模型]]
+- **[[Prototype Methods|原型方法]]（Ch3）** 自由联想提取"学习"相关词汇 → 聚类分析生成[[Concept Mapping|概念地图]]（研究一）；书面叙事收集[[Ideal Learner|理想学习者形象]] → [[Content Analysis|内容分析]]提取人格结构（研究二）。两条证据线独立后汇聚（convergence）验证[[Cultural Models|文化模型]]
 - **跨文化[[Survey Research|调查研究]]（Ch3, Ch5, Ch6）** 归因[[Questionnaire|问卷]]、课堂观察、家庭社会化调查、同伴态度测量、学习情感自述——多方法[[Triangulation|三角验证]]同一结论
 - **跨国评测数据（Ch3）** TIMSS 与 [[PISA]] 排名作为东亚学习成就的宏观佐证
 - **[[Mother-Child Conversation|MCC]] 方法（Ch7）** 母亲-儿童对话的三层分析——结构分析（排除"量"的差异）→ 序列分析（胜算比追踪话题流向）→ [[Discourse Analysis|话语分析]]（Vygotsky 认知支架 + Frijda/Gottman [[Parental Cognitive and Affective Socialization|情感社会化]]框架）。200 组对话，欧裔美国 vs 台湾
@@ -1344,7 +1345,7 @@ Watkins and Biggs 将这一悖论系统化为一个研究议程，创造了 **[[
 > > [!example] "椅子原型"如何工作？
 > > 当你看到一把从未见过的椅子时——可能是一种北欧设计的极简椅子——你不会困惑。你会说"这是一把椅子"。为什么？因为你的文化为你提供了一个"椅子原型"（四条腿、一个平面、可以坐），你用它来判断新物体。同样，一种文化为成员提供了"学习原型"——中国成员可能用"读书→勤奋→修身"来理解学习，美国成员可能用"思考→探究→创造"来理解学习。**关键点是：成员通常完全意识不到这些原型的文化特异性**——他们认为自己对学习的理解是"自然的"、"普世的"。
 
-**研究一：学习词汇的概念地图 — 五步程序**
+**研究一：学习词汇的[[Concept Mapping|概念地图]] — 五步程序**
 
 > [!success] 步骤 1：术语对等性验证
 > 这是整个研究设计的**方法论基石**——如果"學習"和"learn/learning"不完全对等，批评者可以直接说"所有差异都是翻译造成的"。

@@ -123,7 +123,7 @@ issuing_organization: ""
 ### 论证步骤一 引入认识目标与价值的必然性
 
 > [!claim] 步骤一主张
-> 必须将[[Epistemic Aims|认识目标]]和[[Epistemic Value|认识价值]]（epistemic value）确立为模型的第一组件，因为它们决定了后续认知策略的选择。
+> 必须将[[Epistemic Aims|认识目标]]和[[Epistemic Value|认识价值]]（epistemic [[VALUE Rubrics|VALUE]]）确立为模型的第一组件，因为它们决定了后续认知策略的选择。
 
 > [!warrant] 哲学辩护（概念合法性）
 > Kvanvig (2003) 与 Goldman (1986) 等学者提出，[[Epistemology|认识论]]本质上是关于达成知识、真理与深层理解等特定认识成就的探讨。如果缺乏特定的认识目标，就无法区分[[Epistemic Cognition|认识论认知]]与非认识论认知（nonepistemic cognition）。

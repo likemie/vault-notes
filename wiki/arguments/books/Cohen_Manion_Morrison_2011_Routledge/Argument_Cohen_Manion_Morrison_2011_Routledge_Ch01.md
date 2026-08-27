@@ -27,6 +27,7 @@ tags:
   - source/textbook
   - paradigm/mixed-methods
 related_concepts:
+  - "[[Concept Mapping]]"
   - "[[Axiology]]"
   - "[[Ontology]]"
   - "[[Hypothesis]]"
@@ -48,10 +49,10 @@ related_concepts:
   - "[[Rich and Thick Description]]"
   - "[[Objectivism]]"
   - "[[Subjectivism]]"
+  - "[[Creativity]]"
   - "[[Nomothetic]]"
   - "[[Idiographic]]"
   - "[[Epistemic Stances]]"
-  - "[[Praxis]]"
   - "[[Reliability]]"
   - "[[Variable]]"
   - "[[Falsification]]"
@@ -122,7 +123,7 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-16
-updated: 2026-08-16
+updated: '2026-08-27'
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01
 
@@ -144,7 +145,7 @@ updated: 2026-08-16
 >   J --> K["复杂性理论<br>新兴范式"]
 > ```
 
-> [!knowledge-map]- 第1章概念地图
+> [!knowledge-map]- 第1章[[Concept Mapping|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Chapter_1_Concept_Map.jpg)
 
 ---

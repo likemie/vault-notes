@@ -161,7 +161,7 @@ issuing_organization: ""
 > - **从实践到研究（CAS → EE）** 学生在 CAS 社区服务和志愿活动中获得的经历，可以转化为 EE 深入调查全球问题（Global Issue）的起点。
 > - **从研究到实践（EE → CAS）** 例如，生态学方向的 EE 课题探讨“安纳托利亚黄鼠种群在多大程度上受城市化的影响？”，学生可将该研究发现转化为实际行动，在 CAS 的全球问题网络（Global Issues Network，GIN）俱乐部中发起社区项目，撰写科学报告并向地方当局展示，从而在地方层面提升对这一具有全球意义问题的保护意识。
 
-*[Figure 1 Placeholder: 核心组件联动概念图。说明 TOK、EE、CAS 三者在并发学习中如何通过反思、探究与行动产生交集。]*
+*[Figure 1 Placeholder: 核心组件联动[[Concept Mapping|概念图]]。说明 TOK、EE、CAS 三者在并发学习中如何通过反思、探究与行动产生交集。]*
 
 > [!proc] 促进并发学习的实施策略
 >

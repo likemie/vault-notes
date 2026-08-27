@@ -33,6 +33,7 @@ tags:
   - paradigm/quantitative
   - causal-inference
 related_concepts:
+  - "[[Concept Mapping]]"
   - "[[Causality]]"
   - "[[Pre-test and Post-test]]"
   - "[[Variable]]"
@@ -62,7 +63,6 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Definition of Terms]]"
   - "[[Construct]]"
-  - "[[Praxis]]"
   - "[[Internal and External Generalizability]]"
   - "[[Threats to External Validity]]"
   - "[[External Validity]]"
@@ -123,13 +123,13 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-07-12
-updated: 2026-07-13
+updated: '2026-08-27'
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16
 
 ## 概念地图
 
-> [!knowledge-map]- 第16章 概念地图
+> [!knowledge-map]- 第16章 [[Concept Mapping|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Chapter_16_Concept_Map.jpg)
 
 ## 章节内容

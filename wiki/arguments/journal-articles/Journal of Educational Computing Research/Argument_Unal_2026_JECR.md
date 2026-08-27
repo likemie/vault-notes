@@ -136,7 +136,7 @@ issuing_organization: ""
 > | 理论工具 | 解释功能 |
 > |----------|----------|
 > | **Zawacki-Richter 高等教育人工智能四维分类框架**<br>[[Zawacki-Richter AI in Higher Education Framework]] | 依据 Zawacki-Richter et al. (2019) 的分类框架，将 AI 教育应用系统划分为画像与预测、评估与评定、自适应系统与个性化、智能导学系统四大核心教学服务域，为本研究对多元 AI 工具的[[Operationalization\|操作化]]分类提供顶层理论架构（pp. 1364–1366）。 |
-> | **布鲁姆教育目标分类学修订版**<br>[[Higher-Order Thinking Skills]] | 区分记忆、理解、应用等较低阶认知目标与分析、评价、创造等高阶思维技能，为将 AI 带来的学习增益拆解为基础知识掌握与复杂认知发展提供理论分类标准（pp. 1365–1366）。 |
+> | **布鲁姆教育目标分类学修订版**<br>[[Higher-Order Thinking Skills]] | 区分记忆、理解、应用等较低阶认知目标与分析、评价、创造等高阶思维技能，为将 AI 带来的[[Learning Gain\|学习增益]]拆解为基础知识掌握与复杂认知发展提供理论分类标准（pp. 1365–1366）。 |
 > | **高阶思维技能五维分类框架**<br>[[Critical Thinking]] | 整合 Resnick (1987)、McLoughlin & Mynard (2009) 与 Liu et al. (2024) 的界定，将高阶思维[[Operationalization\|操作化]]为问题解决、[[Metacognition\|元认知]]、批判性思维、团队协作与创新发展五大维度，用以检验 AI 是否仅停留于浅层算法应答。 |
 > | **二阶元分析方法论框架**<br>[[Meta-meta-analysis]] | 依据 Schmidt & Oh (2013) 与 Oh (2020) 的理论，将一阶[[Meta-analysis\|元分析]]的标准化[[Effect Size\|效应量]]作为分析单位，通过[[Fixed-Effect and Random-Effects Models\|随机效应模型]]与经典[[Inverse-Variance Weighting\|逆方差加权]]消除一阶[[Sampling Error\|抽样误差]]，合成全领域宏观效应基准（p. 1367）。 |
 > | **PRISMA 2020 系统评价规范**<br>[[Coding in Qualitative Research]] | 遵循[[PRISMA\|系统评价和元分析优先报告条目]] 2020 年版（Preferred Reporting Items for Systematic Reviews and Meta-Analyses, PRISMA 2020）指南，提供包含识别、筛查、合格性审查与最终纳入的四阶段循证筛选架构，确保二阶样本提取的透明性与可重复性（Page et al., 2021; pp. 1367–1369）。 |

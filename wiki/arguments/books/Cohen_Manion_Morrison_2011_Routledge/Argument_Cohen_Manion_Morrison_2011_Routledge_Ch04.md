@@ -27,6 +27,7 @@ tags:
   - source/textbook
   - topic/causation
 related_concepts:
+  - "[[Concept Mapping]]"
   - "[[Causality]]"
   - "[[Probabilistic Causation]]"
   - "[[Purpose Statement]]"
@@ -88,7 +89,7 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-17
-updated: 2026-07-13
+updated: '2026-08-27'
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04
 
@@ -111,7 +112,7 @@ updated: 2026-07-13
 >   K --> L
 > ```
 
-> [!knowledge-map]- 第4章概念地图
+> [!knowledge-map]- 第4章[[Concept Mapping|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Chapter_4_Concept_Map.jpg)
 
 ---

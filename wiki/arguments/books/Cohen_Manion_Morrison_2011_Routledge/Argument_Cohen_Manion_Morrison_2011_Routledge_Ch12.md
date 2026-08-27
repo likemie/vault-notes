@@ -27,10 +27,10 @@ tags:
   - paradigm/qualitative
   - source/textbook
 related_concepts:
+  - "[[Concept Mapping]]"
   - "[[Document]]"
   - "[[Areas of Knowledge]]"
   - "[[Epistemology]]"
-  - "[[Praxis]]"
   - "[[Questionnaire]]"
   - "[[Phronesis]]"
   - "[[Visual Data]]"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Sampling Frame]]"
   - "[[Champ]]"
+  - "[[Creativity]]"
   - "[[Reliability]]"
   - "[[Boarding Schools]]"
   - "[[Realism in International Relations]]"
@@ -56,6 +57,7 @@ related_concepts:
   - "[[Linguistic Turn]]"
   - "[[Interpretive Paradigm]]"
   - "[[Doxa]]"
+  - "[[Problem Finding]]"
   - "[[Categorical Funding]]"
 related_methods:
   - "[[Documentary Analysis]]"
@@ -69,7 +71,7 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-24
-updated: 2026-07-11
+updated: '2026-08-27'
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12
 
@@ -77,7 +79,7 @@ updated: 2026-07-11
 
 ## 概念地图
 
-> [!knowledge-map]- 第12章 概念地图
+> [!knowledge-map]- 第12章 [[Concept Mapping|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_12_Concept_Map.jpg)
 
 ## 章节内容

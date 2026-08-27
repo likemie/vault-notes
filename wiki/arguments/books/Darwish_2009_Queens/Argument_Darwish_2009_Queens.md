@@ -34,13 +34,14 @@ tags:
  - school-reform
  - constructivism
 created: '2026-07-28'
-updated: '2026-07-28'
+updated: '2026-08-27'
 sources: []
 related_concepts:
   - "[[Active Learning]]"
   - "[[Epistemology]]"
   - "[[Theory of Knowledge]]"
   - "[[Paradigm]]"
+  - "[[Concept Mapping]]"
   - "[[Socratic Dialogue]]"
   - "[[Dialogue in Education]]"
   - "[[Phronesis]]"
@@ -86,6 +87,7 @@ related_concepts:
   - "[[Curriculum as Process]]"
   - "[[Curriculum as Praxis]]"
   - "[[Reflexivity]]"
+  - "[[Classroom Debate]]"
   - "[[Dehumanization]]"
 related_theories:
   - "[[Critical Theory]]"
@@ -114,7 +116,7 @@ related_persons:
 
 #### 概念地图
 
-> [!knowledge-map]- 第1章　概念地图
+> [!knowledge-map]- 第1章　[[Concept Mapping|概念地图]]
 > ![](https://img.mylikemie.icu/books/Darwish_2009_Queens/figures/Figure_Ch01_Concept_Map.jpg)
 
 #### 章节内容

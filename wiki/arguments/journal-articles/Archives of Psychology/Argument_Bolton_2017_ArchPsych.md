@@ -222,8 +222,8 @@ citation_aliases:
 
 ## 关键引用
 
-> [!citation-card]- 认知阶段过渡是脑发育中 [[Executive Function|EF]] 发展的函数
-> 本文的主张是，这些变化是随着大脑发育，执行功能发展的一个函数。（pp.3–4）
+> [!citation-card]- 认知阶段过渡是脑发育中 EF 发展的函数
+> 本文的主张是，这些变化是随着大脑发育，[[Executive Function|执行功能]]发展的一个函数。（pp.3–4）
 > 
 > Original: It is the claim of this article that the changes are a function of the development of executive functioning as the brain develops.
 

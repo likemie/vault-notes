@@ -34,7 +34,6 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Analytic Framework]]"
   - "[[Epistemology]]"
-  - "[[Praxis]]"
   - "[[Learner Autonomy]]"
   - "[[Educational Neuroscience]]"
   - "[[Classroom Management]]"
@@ -72,6 +71,8 @@ related_arguments: []
 sources:
   - "[[sources/Skourdoumbis_2024_AER|Skourdoumbis_2024_AER]]"
 part_of: ''
+related_instruments:
+  - "[[VALUE Rubrics]]"
 status: draft
 created: 2026-06-06
 updated: 2026-07-13
@@ -300,7 +301,7 @@ citation_aliases:
 > [!citation-card]- “什么有效”运动的意识形态本质
 > “什么有效”运动虽然标榜自己“无价值偏见”，但在形式和意图上都是意识形态的，并受既得利益驱动。（p. 9）
 > 
-> The "what works" movement, whilst presenting itself as "value free", is ideological in shape and intent and driven by vested interests.
+> The "what works" movement, whilst presenting itself as "[[VALUE Rubrics|VALUE]] free", is ideological in shape and intent and driven by vested interests.
 
 > [!citation-card]- 惩罚性问责的本质
 > 核心课程的标准化将与认证过程和毕业生教师标准相绑定，这受到了基于惩罚性问责方法的支持。（p. 2）

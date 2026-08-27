@@ -46,6 +46,7 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Abstract]]"
   - "[[Research Writing Script]]"
+  - "[[Concept Mapping]]"
   - "[[Creativity]]"
   - "[[Didaktik]]"
   - "[[Research Scope]]"
@@ -158,7 +159,7 @@ sources:
 part_of:
 status: draft
 created: 2026-06-25
-updated: '2026-07-21'
+updated: '2026-08-27'
 ---
 # 教育研究方法
 
@@ -190,7 +191,7 @@ updated: '2026-07-21'
 
 #### 概念地图
 
-> [!knowledge-map]- 第1章：概念地图
+> [!knowledge-map]- 第1章：[[Concept Mapping|概念地图]]
 > ![](https://img.mylikemie.icu/books/QiMei_2015_EducationalResearchMethods/figures/Figure_1-1_Concept_Map.jpg)
 
 #### 章节内容

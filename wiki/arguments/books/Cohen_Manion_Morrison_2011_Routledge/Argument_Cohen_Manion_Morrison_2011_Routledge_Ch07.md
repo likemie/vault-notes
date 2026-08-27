@@ -27,9 +27,9 @@ tags:
   - source/textbook
   - theme/research-planning
 related_concepts:
+  - "[[Concept Mapping]]"
   - "[[Fitness for Purpose]]"
   - "[[Research Purpose]]"
-  - "[[Praxis]]"
   - "[[Hypothesis]]"
   - "[[Paradigm]]"
   - "[[Ontology]]"
@@ -109,9 +109,11 @@ related_arguments: []
 sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
+related_instruments:
+  - "[[VALUE Rubrics]]"
 status: draft
 created: 2026-06-21
-updated: 2026-07-13
+updated: '2026-08-27'
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07
 
@@ -131,7 +133,7 @@ updated: 2026-07-13
 >   I --> J["7.14 质量保证<br>35条清单<br>Furlong & Oancea四维度"]
 > ```
 
-> [!knowledge-map]- 第7章概念地图
+> [!knowledge-map]- 第7章[[Concept Mapping|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Chapter_7_Concept_Map.jpg)
 
 ---
@@ -880,7 +882,7 @@ Furlong & Oancea (2005, pp.11–15) 识别了教育研究中的质量维度（pp
 >   - 合宜性（法律和伦理要求）
 >   - 范式依赖性
 > - **技术维度（Technological dimension）**
->   使用价值（value for use）：
+>   使用价值（[[VALUE Rubrics|VALUE]] for use）：
 >   - 显著性/时效性
 >   - 合目的性（purposivity）
 >   - 具体性和可及性

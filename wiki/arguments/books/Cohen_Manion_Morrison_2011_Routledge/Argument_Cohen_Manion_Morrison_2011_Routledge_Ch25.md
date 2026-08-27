@@ -35,6 +35,7 @@ sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 related_concepts:
+  - "[[Concept Mapping]]"
   - "[[Personal Constructs]]"
   - "[[Construct]]"
   - "[[Cognitive Complexity Index]]"
@@ -48,7 +49,6 @@ related_concepts:
   - "[[Pre-test and Post-test]]"
   - "[[Epistemology]]"
   - "[[Research Purpose]]"
-  - "[[Praxis]]"
   - "[[Scale in Higher Education]]"
   - "[[Conatus]]"
   - "[[Halo Effect]]"
@@ -67,7 +67,7 @@ related_persons:
   - "[[George Kelly]]"
 status: draft
 created: 2026-07-28
-updated: 2026-08-01
+updated: '2026-08-27'
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25
 
@@ -75,7 +75,7 @@ updated: 2026-08-01
 
 #### 概念地图
 
-> [!knowledge-map]- 第25章　概念地图
+> [!knowledge-map]- 第25章　[[Concept Mapping|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_25_Concept_Map.jpg)
 
 ## 章节内容

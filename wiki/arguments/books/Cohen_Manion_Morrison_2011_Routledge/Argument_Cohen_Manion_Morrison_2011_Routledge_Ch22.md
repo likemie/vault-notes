@@ -33,13 +33,13 @@ sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 related_concepts:
+  - "[[Concept Mapping]]"
   - "[[Research Scope]]"
   - "[[Dialogue in Education]]"
   - "[[Epistemology]]"
   - "[[Paradigm]]"
   - "[[Rich and Thick Description]]"
   - "[[Social Episodes]]"
-  - "[[Praxis]]"
   - "[[Internal Consistency]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Data Reduction and Data Display]]"
@@ -83,7 +83,7 @@ related_persons:
   - "[[Rom Harré]]"
 status: draft
 created: 2026-07-22
-updated: 2026-08-20
+updated: '2026-08-27'
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22
 
@@ -91,7 +91,7 @@ updated: 2026-08-20
 
 #### 概念地图
 
-> [!knowledge-map]- 第22章　概念地图
+> [!knowledge-map]- 第22章　[[Concept Mapping|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_22_Concept_Map.jpg)
 
 ## 章节内容

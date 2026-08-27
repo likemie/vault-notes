@@ -13762,6 +13762,17 @@
     ]
   },
   {
+    "title": "Thinking Skills Assessment",
+    "type": "instrument",
+    "path": "wiki/instruments/tests/Thinking Skills Assessment.md",
+    "aliases": [
+      "TSA",
+      "剑桥思维技能测评",
+      "思维技能评估",
+      "Thinking Skills Assessment (TSA)"
+    ]
+  },
+  {
     "title": "Watson-Glaser Critical Thinking Appraisal",
     "type": "instrument",
     "path": "wiki/instruments/tests/Watson-Glaser Critical Thinking Appraisal.md",
@@ -15907,6 +15918,16 @@
     ]
   },
   {
+    "title": "Melbourne Declaration",
+    "type": "fact",
+    "path": "wiki/facts/australia/Melbourne Declaration.md",
+    "aliases": [
+      "墨尔本宣言",
+      "墨尔本青年教育目标宣言",
+      "Melbourne Declaration on Educational Goals for Young Australians"
+    ]
+  },
+  {
     "title": "My School Website",
     "type": "fact",
     "path": "wiki/facts/australia/My School Website.md",
@@ -15946,6 +15967,16 @@
       "Victorian HITS and Literacy Toolkit 2017",
       "维州HITS与读写工具包",
       "HITS"
+    ]
+  },
+  {
+    "title": "New Teacher Education Scheme",
+    "type": "fact",
+    "path": "wiki/facts/austria/New Teacher Education Scheme.md",
+    "aliases": [
+      "PädagogInnenbildung Neu",
+      "奥地利新教师教育方案",
+      "奥地利新教师教育改革"
     ]
   },
   {
