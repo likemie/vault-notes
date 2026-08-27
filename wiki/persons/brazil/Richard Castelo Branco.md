@@ -7,7 +7,7 @@ summary: "巴西剧场导演和文化实践者，EspectAtor 方法开发者，�
 type: person
 nationality: brazil
 person_region: "brazil"
-person_related_count: 11
+person_related_count: 10
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -18,7 +18,6 @@ tags:
 - theme/resistance
 related_concepts:
   - "[[Epistemology of Resistance]]"
-  - "[[Praxis]]"
   - "[[Knowledge Production]]"
   - "[[Official Knowledge]]"
   - "[[Epistemology]]"

@@ -17,7 +17,6 @@ tags:
   - "level/higher-education"
 related_concepts:
   - "[[University-Industry Collaboration]]"
-  - "[[Praxis]]"
   - "[[Academic Health System]]"
   - "[[Counterfactual]]"
 related_theories:
@@ -29,6 +28,8 @@ related_facts:
   - "[[University Industry Demonstration Partnership]]"
 related_arguments:
   - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
+related_instruments:
+  - "[[VALUE Rubrics]]"
 confidence: medium
 status: draft
 created: 2026-06-02

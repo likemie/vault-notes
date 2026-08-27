@@ -6,7 +6,7 @@ aliases:
 summary: "国家文化维度理论，用权力距离、个人主义、不确定性规避等维度比较国家文化差异及其组织和教育影响"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 11
+theory_related_count: 10
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -15,7 +15,6 @@ tags:
 - national-culture
 - comparative-education
 related_concepts:
-  - "[[Praxis]]"
   - "[[Dialogue in Education]]"
   - "[[Effective Teaching]]"
   - "[[Paradigm]]"
@@ -40,7 +39,7 @@ updated: '2026-05-18'
 ## 核心主张
 
 > [!info] 核心主张
-> Hofstede 将文化定义为"software of the mind"（心智软件），并把价值观视为国家文化的核心。Laursen 概述其观点：文化价值相对稳定，会影响国家政策、制度及其[[Praxis|实践]]，也影响共享该文化的人们的行为([[Argument_Laursen_2015_Paideia|Laursen, 2015, p.36]])。
+> Hofstede 将文化定义为"software of the mind"（心智软件），并把价值观视为国家文化的核心。Laursen 概述其观点：文化价值相对稳定，会影响国家政策、制度及其实践，也影响共享该文化的人们的行为([[Argument_Laursen_2015_Paideia|Laursen, 2015, p.36]])。
 >
 > > 例：Laursen 用该理论提出教育问题：如果丹麦文化低权力距离、重视个人自主且不太害怕不确定性，那么丹麦学生是否应更适合开放、[[Dialogue in Education|对话]]、弱教师控制的教学？文章随后用丹麦[[Effective Teaching|有效教学]]研究检验这一推论([[Argument_Laursen_2015_Paideia|Laursen, 2015, pp.36–37]])。
 

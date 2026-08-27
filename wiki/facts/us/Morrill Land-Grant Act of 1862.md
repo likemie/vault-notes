@@ -12,7 +12,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 3
+fact_related_count: 2
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#fef3c7"
@@ -22,7 +22,6 @@ tags:
   - "policy/land-grant"
   - "theme/higher-education-history"
 related_concepts:
-  - "[[Praxis]]"
   - "[[Academic Freedom]]"
 related_theories: []
 related_methods: []

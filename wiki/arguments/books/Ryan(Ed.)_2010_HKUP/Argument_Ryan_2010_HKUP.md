@@ -10,7 +10,7 @@ title: "Argument_Ryan_2010_HKUP"
 argument_key: "Argument_Ryan_2010_HKUP"
 argument_display_title: "International Education and the Chinese Learner"
 argument_kind: "book"
-argument_related_count: 18
+argument_related_count: 17
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -30,7 +30,6 @@ tags:
 related_concepts:
   - "[[International Education]]"
   - "[[Chinese Learner]]"
-  - "[[Praxis]]"
   - "[[Dialogue in Education]]"
   - "[[Rationalism in International Relations]]"
   - "[[Paradigm]]"

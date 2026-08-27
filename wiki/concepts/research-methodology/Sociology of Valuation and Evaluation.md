@@ -7,10 +7,10 @@ aliases:
 summary: "Lamont (2012) 概括的研究领域，关注排名和绩效测量如何同时完成资源分配、合法性制造和不平等正当化三重操作，为理解学术评估的非预期效应提供经验基础"
 type: concept
 domain: "research-methodology"
-related_count: 10
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 9
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - sociology-of-evaluation
   - higher-education
@@ -20,7 +20,6 @@ tags:
   - paradigm/critical
   - level/higher-ed
 related_concepts:
-  - "[[Praxis]]"
   - "[[Performativity of Measurement]]"
   - "[[Reliability]]"
   - "[[Discursive Stratification]]"

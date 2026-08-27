@@ -6,7 +6,7 @@ aliases:
 summary: "Deleuze 的社会理论，指后规训时代以持续调制取代封闭式规训的权力形态，教育机构也被纳入企业化网络逻辑"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 9
+theory_related_count: 10
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Learning Analytics]]"
   - "[[Online Self-Assessment]]"
+  - "[[Cooperative Learning]]"
   - "[[Promising Student]]"
   - "[[Digital Self]]"
   - "[[Digital Optimum]]"
@@ -73,7 +74,7 @@ Deleuze 论证规训社会中的封闭机构正在被转化为**持续的网络�
 > 
 > 家庭、学校、军队、工厂不再是趋向于一个所有者（国家或私人权力）的、截然不同的模拟空间，而是变成了单一企业的、可变形且可转化的编码图形，而这个企业现在只有股东。
 
-在教育领域，这表现为大学和企业通过合作学习项目、服务学习（service learning）等方式被连接起来——传统上分离的机构空间被打通和调制([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.222]])。
+在教育领域，这表现为大学和企业通过[[Cooperative Learning|合作学习]]项目、服务学习（service learning）等方式被连接起来——传统上分离的机构空间被打通和调制([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.222]])。
 
 ### 数据化的控制
 

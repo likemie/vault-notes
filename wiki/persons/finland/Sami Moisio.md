@@ -7,7 +7,7 @@ summary: "芬兰政治地理学者，知识经济化与知识经济地缘政治�
 type: person
 nationality: finland
 person_region: "finland"
-person_related_count: 25
+person_related_count: 24
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Spatial Sortings]]"
   - "[[Further Education]]"
   - "[[Corporate Education]]"
-  - "[[Praxis]]"
   - "[[Geopolitical Subject]]"
   - "[[Hub and Flow Imaginaries]]"
   - "[[Research Problem]]"

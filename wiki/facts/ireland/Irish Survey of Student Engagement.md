@@ -11,7 +11,7 @@ subtype: policy
 region: ireland
 fact_region: "ireland"
 fact_kind: "policy"
-fact_related_count: 11
+fact_related_count: 8
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -31,12 +31,9 @@ related_concepts:
   - "[[Growth]]"
 related_theories: []
 related_methods: []
-related_instruments:
-  - "[[National Survey of Student Engagement]]"
+related_instruments: []
 related_persons: []
-related_facts:
-  - "[[Higher Education Authority]]"
-  - "[[Hunt Report]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
 confidence: high

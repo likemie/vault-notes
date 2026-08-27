@@ -8,7 +8,7 @@ summary: "系统比较不同地区或国家教科书的质性分析方法，以�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 19
+method_related_count: 18
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Rich and Thick Description]]"
   - "[[Transfer Translation Transformation]]"
-  - "[[Praxis]]"
   - "[[Imagined Community]]"
 related_theories:
   - "[[Critical Theory]]"

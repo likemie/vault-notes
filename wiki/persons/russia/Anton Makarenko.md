@@ -8,10 +8,10 @@ summary: "苏联教育改革家，因其教育思想与实践被西方学界称�
 type: person
 nationality: russia
 person_region: "russia"
-person_related_count: 8
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 7
+person_related_level: 0
+person_related_stars: ""
+person_related_color: "#e5e7eb"
 tags:
   - field/progressive-education
   - field/correctional-education
@@ -22,7 +22,6 @@ tags:
   - theme/collective-education
   - theme/labor-education
 related_concepts:
-  - "[[Praxis]]"
   - "[[International Education]]"
   - "[[Progressive Education]]"
   - "[[Experiential Learning]]"

@@ -6,7 +6,7 @@ aliases:
 summary: "学生在教育性活动中投入时间、精力和参与质量的概念，常用于解释高等教育中的学习结果、归属感和持续就读差异"
 type: concept
 domain: "higher-education"
-related_count: 21
+related_count: 20
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -15,7 +15,6 @@ tags:
 - higher-education
 - level/higher-ed
 related_concepts:
-  - "[[Praxis]]"
   - "[[Homework]]"
   - "[[Hypothesis]]"
   - "[[Variable]]"

@@ -9,9 +9,9 @@ subtype: policy
 region: hong-kong
 fact_region: "hong-kong"
 fact_kind: "policy"
-fact_related_count: 24
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_count: 23
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
 tags:
 - national-education
@@ -21,7 +21,6 @@ tags:
 - region/china
 - level/k12
 related_concepts:
-  - "[[Praxis]]"
   - "[[Zhonghua Minzu]]"
   - "[[Document]]"
   - "[[Membership-Creating Function of Education]]"

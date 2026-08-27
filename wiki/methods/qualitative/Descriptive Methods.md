@@ -9,7 +9,7 @@ summary: "质性研究中贴近数据本身、使用有限框架和解释、将�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 13
+method_related_count: 12
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Story Line]]"
   - "[[Analytic Framework]]"
   - "[[Reliability]]"
-  - "[[Praxis]]"
   - "[[Research Purpose]]"
 related_theories:
   - "[[Phenomenology]]"

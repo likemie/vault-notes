@@ -7,7 +7,7 @@ summary: "英国哲学家，1946 年提出知其然与知其所用的经典区�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 6
+person_related_count: 5
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
@@ -19,7 +19,6 @@ related_concepts:
   - "[[Knowledge-that and Know-how-to]]"
   - "[[Epistemology]]"
   - "[[Surface and Deep Learning]]"
-  - "[[Praxis]]"
 related_theories:
   - "[[Curriculum Design Coherence Model]]"
 related_methods: []

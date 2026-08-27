@@ -20,7 +20,6 @@ tags:
 related_concepts:
   - "[[Habitus]]"
   - "[[Champ]]"
-  - "[[Praxis]]"
   - "[[Cultural Capital]]"
   - "[[Epistemology]]"
   - "[[Subjectivism]]"
@@ -47,6 +46,7 @@ related_concepts:
   - "[[Post-structuralism]]"
   - "[[Document]]"
   - "[[Positivism]]"
+  - "[[Praxis]]"
 related_theories:
   - "[[Luhmann's Systems Theory]]"
   - "[[Neo-feudalism in Higher Education]]"

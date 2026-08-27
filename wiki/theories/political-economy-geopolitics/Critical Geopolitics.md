@@ -6,7 +6,7 @@ aliases:
 summary: "把地缘政治理解为由政治想象、话语和空间表述持续建构出来的批判理论，反对把领土秩序视为自然和既定事实"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 38
+theory_related_count: 39
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -18,7 +18,6 @@ tags:
   - political-geography
   - region/global
 related_concepts:
-  - "[[Praxis]]"
   - "[[Classical Geopolitics]]"
   - "[[Constructivist Paradigm]]"
   - "[[Analytic Framework]]"
@@ -31,11 +30,13 @@ related_concepts:
   - "[[Spatial Sortings]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Hegemony]]"
+  - "[[Praxis]]"
   - "[[Economic Patriotism]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Hypothesis]]"
   - "[[Performativity]]"
+  - "[[Problem Finding]]"
   - "[[Value Neutrality]]"
   - "[[Scale in Higher Education]]"
   - "[[Space Production]]"
@@ -70,7 +71,7 @@ updated: 2026-06-30
 ## 理论定位
 
 > [!theory-position] 理论定位
-> - **解释对象** 地缘政治秩序如何通过政治想象、话语[[Praxis|实践]]和空间表述被持续建构和生产——而非仅通过领土控制和物质力量被给定。
+> - **解释对象** 地缘政治秩序如何通过政治想象、话语实践和空间表述被持续建构和生产——而非仅通过领土控制和物质力量被给定。
 > - **理论问题** 回应[[Classical Geopolitics|古典地缘政治]]将空间视为客观容器、将国家视为唯一行动者的双重预设：为什么看似客观的地缘政治事实实际上是话语和想象的产物？空间秩序如何通过命名、分类与治理等话语实践被不断生产与重组？
 > - **理论类型** [[Critical Theory|批判理论]]／[[Constructivist Paradigm|建构主义]][[Analytic Framework|分析框架]]。[[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]]指出，在围绕"地缘政治是物质性还是观念性"和"是科学性还是实践性"两个[[Ontology|本体论]]问题的当代争论中，批判地缘政治处于观念—科学端，是[[New Geopolitics|新地缘政治]][[Paradigm|范式]]的代表（pp. 11–12）。
 > - **知识位置** 1990 年代以来在英语世界人文地理学和政治地理学中形成，深受英国人文地理学派（Massey, Harvey）影响。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, pp. 5–6)]]
@@ -110,11 +111,11 @@ updated: 2026-06-30
 > - **前提一** 空间不是天然容器，而是通过社会空间关系被持续建构。Kuus (2017, p. 5) 提出"空间性不限于领土性"的核心命题；空间转向将空间从自然地理事实重新理解为社会建构过程（Thompson & Parreira do Amaral, 2022, p. 10）。
 > - **前提二** 地缘政治关系浸透了社会和文化意义。Dodds (2019, p. 34) 指出，国家间的空间关系——谁被视为威胁、谁被视为伙伴、哪里被划为势力范围——不是地理的客观给定，而是被特定话语框架赋予意义的。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, p. 91)]]
 > - **前提三** 地缘政治知识本身具有履行性（[[Performativity]]）。Sharp (2009) 指出，地缘政治知识不仅"描述"世界，更主动"生产"世界——当我们说"亚洲崛起"时，这不仅是一个经验描述，它同时激活了一整套关于西方衰落和全球重心转移的想象，并引导政策制定者据此重新配置资源和调整同盟。
-> - **推导** 空间不是客观容器（前提一） → 地缘政治关系不是地理给定而是被话语赋义（前提二） → 地缘政治知识在描述世界的同时"生产"世界（前提三） → 因此，我们通常视为"客观地缘政治事实"的事物（"亚洲崛起"、"中美竞争"）本身即是特定话语[[Praxis|实践]]和政治想象的产物。[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|(Parreira do Amaral, 2022, pp. 37–38)]]
+> - **推导** 空间不是客观容器（前提一） → 地缘政治关系不是地理给定而是被话语赋义（前提二） → 地缘政治知识在描述世界的同时"生产"世界（前提三） → 因此，我们通常视为"客观地缘政治事实"的事物（"亚洲崛起"、"中美竞争"）本身即是特定话语实践和政治想象的产物。[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|(Parreira do Amaral, 2022, pp. 37–38)]]
 
 > [!proposition-chain] 核心命题二｜地缘政治知识不是中立的专业知识，而是一种嵌入制度位置的权力形式——它通过将特定空间秩序自然化为常识，服务于特定的政治利益
 > - **前提一** 古典地缘政治理论（Mackinder, Mahan, Spykman）本身就是典型分析对象：这些理论声称是对地理与权力关系的"科学分析"，但实质上是将英帝国和大国竞争的地缘利益包装为自然地理法则。Ó Tuathail (1996) 和 Dalby (2013) 分析了冷战时期美国外交政策中的"地缘政治推理"——将苏联建构为"东方威胁"、将中东建构为"战略要地"——这些表征框架定义了什么是需要应对的"问题"并系统性地排除替代性解读。
-> - **前提二** [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]]将批判地缘政治的分析操作概括为：解构显性权力强制与对抗背后隐藏的合法性生产、问题界定与常识化过程。它将知识明确置于地缘政治分析的中心——知识不再被视为[[Value Neutrality|价值中立]]的认知成果，而被理解为嵌入特定历史—地理位置的权力表达形式；谁有资格生产知识和何种知识被视为普遍有效成为地缘政治问题本身（pp. 11–12）。该理论提供的关键分析工具包括多[[Scale in Higher Education|尺度分析]]视角和[[Space Production|空间生产]]、想象地理等建构论工具（pp. 5–6）。
+> - **前提二** [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]]将批判地缘政治的分析操作概括为：解构显性权力强制与对抗背后隐藏的合法性生产、[[Problem Finding|问题界定]]与常识化过程。它将知识明确置于地缘政治分析的中心——知识不再被视为[[Value Neutrality|价值中立]]的认知成果，而被理解为嵌入特定历史—地理位置的权力表达形式；谁有资格生产知识和何种知识被视为普遍有效成为地缘政治问题本身（pp. 11–12）。该理论提供的关键分析工具包括多[[Scale in Higher Education|尺度分析]]视角和[[Space Production|空间生产]]、想象地理等建构论工具（pp. 5–6）。
 >   > [!evidence-grid]- 证据：大学排名作为常识化操作
 >   > - 当 QS and THE 排名将"英文出版物数量"和"国际合著比率"设为默认指标时，这不只是一个技术选择——它是将特定[[Epistemology|认识论]]标准（英语为权威媒介、量化为绩效逻辑）自然化为"普遍质量标准"的常识化操作，系统性地将非英语知识传统排除在"可见的卓越"之外。
 > - **推导** 地缘政治知识从特定制度位置被生产（前提一） → 通过命名、分类和常识化操作，这些知识获得"客观分析"的地位并服务于特定利益（前提二） → 因此，地缘政治知识的权威来自于制度位置和话语权力，而非对客观世界更准确的把握——对任何自称客观的地缘政治知识，分析任务都是追问它从哪里被生产、服务于谁的利益、排除了谁的视角。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, pp. 11–12)]]
@@ -136,7 +137,7 @@ updated: 2026-06-30
 ## 理论立场与使用方式
 
 > [!theory-stance] [[Epistemology|认识论]]立场
-> - **[[Ontology|本体论]]** 空间不是天然实体，而是通过社会关系和话语[[Praxis|实践]]被关系性建构——空间是过程而非容器。
+> - **[[Ontology|本体论]]** 空间不是天然实体，而是通过社会关系和话语实践被关系性建构——空间是过程而非容器。
 > - **认识论** 关注政治想象、话语和分类的履行性力量——它们不仅"反映"现实，更主动"生产"现实。
 > - **方法含义** [[Discourse Analysis|话语分析]]、政治想象分析、空间政策分析。[[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]]指出，多[[Scale in Higher Education|尺度分析]]视角和[[Space Production|空间生产]]、想象地理等建构论工具是近年引入高等教育研究的关键分析工具（pp. 5–6）。
 > - **不能直接推出的东西** 该理论擅长揭示话语建构和意识形态运作，但不提供对物质权力结构（军事力量、领土控制、技术封锁）的直接因果分析。
@@ -168,7 +169,7 @@ updated: 2026-06-30
 >   在英语世界人文地理学和政治地理学中形成。核心推动力来自人文和文化研究中的空间转向（spatial turn）——空间不再被视为天然预设之物，而被理解为通过社会空间关系网络被持续建构的过程（Thompson & Parreira do Amaral, 2022, p. 10）。
 >
 > - **2009–2019 — 关键文本与系统化**
->   Sharp (2009) 强调地缘政治知识本身的意识形态建构性——地缘政治不是对世界的客观描述，而是通过特定视角和话语[[Praxis|实践]]"生产"世界的政治行为。Dodds (2019) 提供了系统的教科书框架，强调地缘政治关系是"浸透了社会和文化意义"的建构物，将分析焦点从国家精英的话语扩展到"人们的日常经验以及他们为应对地缘政治和地缘经济过程而采取的策略"（Dodds, 2019, p. 36, cited in [[Argument_Rizvi_2022_Springer|Rizvi, 2022, p. 91]]）。Kuus (2017) 提出"空间性不限于领土性"的核心命题，将地缘政治分析从领土框架扩展至关系性和[[Snowball Sampling|网络化]]空间。
+>   Sharp (2009) 强调地缘政治知识本身的意识形态建构性——地缘政治不是对世界的客观描述，而是通过特定视角和话语实践"生产"世界的政治行为。Dodds (2019) 提供了系统的教科书框架，强调地缘政治关系是"浸透了社会和文化意义"的建构物，将分析焦点从国家精英的话语扩展到"人们的日常经验以及他们为应对地缘政治和地缘经济过程而采取的策略"（Dodds, 2019, p. 36, cited in [[Argument_Rizvi_2022_Springer|Rizvi, 2022, p. 91]]）。Kuus (2017) 提出"空间性不限于领土性"的核心命题，将地缘政治分析从领土框架扩展至关系性和[[Snowball Sampling|网络化]]空间。
 >
 > - **2020s — 被引入高等教育研究**
 >   [[Argument_Rizvi_2022_Springer|Rizvi (2022)]]将批判地缘政治用作分析[[Internationalization of Higher Education|高等教育国际化]]和亚洲崛起的核心透镜；[[Argument_Moisio_2022_Springer|Moisio (2022)]]将其整合进对[[Knowledge-Based Economization|知识经济化]]的分析；[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral (2022)]]将其与[[Decolonial Geopolitics of Knowledge|去殖民知识地缘政治]]整合为"新[[Geopolitics of Knowledge|知识地缘政治]]"[[Analytic Framework|分析框架]]；[[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022)]]将其延伸至[[Corporate Education|企业教育]]的跨国化分析。

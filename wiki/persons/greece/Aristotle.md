@@ -6,7 +6,7 @@ summary: "古希腊哲学家，提出目的论、习惯化道德培养与理性�
 type: person
 nationality: greece
 person_region: "greece"
-person_related_count: 11
+person_related_count: 10
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -19,7 +19,6 @@ tags:
 - theme/ethics
 - theme/learning
 related_concepts:
-  - "[[Praxis]]"
   - "[[Phronesis]]"
   - "[[Habituation]]"
   - "[[Hypothesis]]"

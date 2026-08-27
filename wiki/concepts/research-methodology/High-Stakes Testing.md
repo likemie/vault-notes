@@ -9,7 +9,7 @@ aliases:
 summary: "测验结果对受试者、教师或学校产生重大后果的评估情境，风险程度与不伦理行为发生率正相关，表现为从回冲效应到直接泄题的九级准备方式连续体"
 type: concept
 domain: "research-methodology"
-related_count: 5
+related_count: 4
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,7 +19,6 @@ tags:
   - theme/accountability
 related_concepts:
   - "[[Formative Assessment]]"
-  - "[[Praxis]]"
   - "[[Reliability]]"
   - "[[Domain-Referenced Test]]"
 related_arguments:

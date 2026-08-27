@@ -7,7 +7,7 @@ summary: "概率和非概率样本同时并排运行、彼此独立的混合方�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 6
+method_related_count: 5
 method_related_level: 0
 method_related_stars: ""
 method_related_color: "#fef3c7"
@@ -17,7 +17,6 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Sample Size Determination]]"
-  - "[[Praxis]]"
 related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"

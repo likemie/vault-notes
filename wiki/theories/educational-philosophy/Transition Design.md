@@ -5,7 +5,7 @@ aliases:
 summary: "把社会转型视为在复杂生命系统中逐步涌现而非一次性设计完成的变革框架，强调基于地方生活世界的长期设计与协作放大"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 13
+theory_related_count: 12
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -19,7 +19,6 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Emergence]]"
   - "[[Variable]]"
-  - "[[Praxis]]"
   - "[[Epistemology]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Paradigm]]"
@@ -74,7 +73,7 @@ updated: '2026-05-18'
 > [!note-] 发展脉络
 > - **Maturana & Varela (1987)** — *The Tree of Knowledge* 奠定了生命[[Luhmann's Systems Theory|系统理论]]（[[Autopoiesis|自创生]]）的基础，为转型设计的"[[Emergence|涌现]]"命题提供了生物学依据
 > - **Varela (1999)** — *Ethical Know-How* 提出"自我的非固化"概念——自我作为分布式系统的涌现属性——为转型设计中"设计师心态是设计构成要素"的主张提供了理论基础
-> - **Irwin (2015)** — 提出转型设计的十条原则，将系统理论与设计[[Praxis|实践]]连接
+> - **Irwin (2015)** — 提出转型设计的十条原则，将系统理论与设计实践连接
 > - **Escobar (2018)** — *Designs for the Pluriverse* 系统阐述转型设计作为应对现代性危机的全面框架，连接去殖民主义、后榨取主义、替代经济增长模型等议题
 >
 

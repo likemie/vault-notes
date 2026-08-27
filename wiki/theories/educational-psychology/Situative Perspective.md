@@ -20,8 +20,8 @@ related_color: "#e5e7eb"
 tags: []
 related_concepts:
   - "[[Paradigm]]"
-  - "[[Praxis]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Praxis]]"
   - "[[Questionnaire]]"
   - "[[Epistemology]]"
   - "[[Epistemic Climate]]"
@@ -59,7 +59,7 @@ updated: 2026-08-19
 ## 理论定义与提出背景
 
 > [!def] 核心定义
-> 情境主义（Situative Perspective / Situativity Theory）是学习科学与教育心理学中的一大核心理论[[Paradigm|范式]]。深受 [[Lev Vygotsky]] 的社会文化理论影响，它主张知识并非脱离语境的抽象命题（decontextualized propositions），认知也绝非被孤立锁在个体头脑内部的信息加工过程。相反，认知是一种分布式的文化产物，是特定共同体为了解决具体问题而展开的“社会[[Praxis|实践]]（social practices）”。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016)]]
+> 情境主义（Situative Perspective / Situativity Theory）是学习科学与教育心理学中的一大核心理论[[Paradigm|范式]]。深受 [[Lev Vygotsky]] 的社会文化理论影响，它主张知识并非脱离语境的抽象命题（decontextualized propositions），认知也绝非被孤立锁在个体头脑内部的信息加工过程。相反，认知是一种分布式的文化产物，是特定共同体为了解决具体问题而展开的“社会实践（social practices）”。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016)]]
 
 > [!concept-lens] 理论溯源
 > - **理论问题** 它旨在克服传统认知心理学（如信息加工理论）和早期个体[[Constructivist Paradigm|建构主义]]将“人与环境剥离”的脱域（decontextualized）缺陷。
@@ -87,7 +87,7 @@ updated: 2026-08-19
 
 > [!proposition-chain] 核心命题二｜[[Epistemology|认识论]]认知是个体对集体[[Epistemic Climate|认识论氛围]]的适应。
 > - **前提一** 在情境主义视角下，[[Epistemic Cognition|认识论认知]]（Epistemic Cognition）不再是个体头脑里关于“知识是什么”的抽象哲学思考。
-> - **推导** 它是学生在小组合作或科学探究中，通过话语流与他人动态协商“什么样的证据在这里才算数”的社会[[Praxis|实践]]。因此，宏观的认识论氛围（Epistemic Climate）结构性地决定了个体层面的认知调用。
+> - **推导** 它是学生在小组合作或科学探究中，通过话语流与他人动态协商“什么样的证据在这里才算数”的社会实践。因此，宏观的认识论氛围（Epistemic Climate）结构性地决定了个体层面的认知调用。
 
 > [!mechanism-map]- 情境认知生成机制
 > ```mermaid
@@ -107,7 +107,7 @@ updated: 2026-08-19
 > - **方法含义** 强烈排斥脱离情境的纸笔测试或实验室临床访谈，主张必须将研究对象放归自然活动（如真实的科学课堂），使用[[Ethnography|民族志]]或[[Discourse Analysis|话语分析]]等非侵入式观察。
 
 > [!theory-use] 如何用于研究
-> - **作为批判视角** 常被用来批判那些脱离学生生活实际的“标准化测试”或“[[Rote Learning|死记硬背]]”的教学设计，指出这些设计之所以失败，是因为它们没有提供让学生进行有意义“社会[[Praxis|实践]]”的真实情境。
+> - **作为批判视角** 常被用来批判那些脱离学生生活实际的“标准化测试”或“[[Rote Learning|死记硬背]]”的教学设计，指出这些设计之所以失败，是因为它们没有提供让学生进行有意义“社会实践”的真实情境。
 > - **作为分析工具** 在分析课堂录像时，研究者不问“这个学生脑子里在想什么”，而是问“这个学生当下正在顺应什么社会规则，使用了什么文化工具，试图向同伴证明什么”。
 
 ---
@@ -128,7 +128,7 @@ updated: 2026-08-19
 > > 这是学习科学中最旷日持久的“[[Paradigm Wars|范式战争]]”。
 > >
 > > - **[[Cognitive Constructivism|个体建构主义]]（Cognitive Constructivism）** 聚焦个体头脑内部知识结构的同化与顺应，认为环境只是刺激。
-> > - **情境主义（Situative Perspective）** 认为个体建构派彻底搞错了本体论，把“社会[[Praxis|实践]]”错误地还原成了“脑内[[Coding in Qualitative Research|编码]]”。Packer & Goicoechea (2000) 认为这两者是不可通约的（incommensurate）。
+> > - **情境主义（Situative Perspective）** 认为个体建构派彻底搞错了本体论，把“社会实践”错误地还原成了“脑内[[Coding in Qualitative Research|编码]]”。Packer & Goicoechea (2000) 认为这两者是不可通约的（incommensurate）。
 
 > [!warning] 方法论的推论危机（Inference Problem）
 > 尽管情境派崇尚自然观察和[[Discourse Analysis|话语分析]]，但它面临着致命的推论难题：研究者仅靠观察学生外部的行为流和[[Dialogue in Education|对话]]，很难准确无误地推断出学生内心深层到底在运转何种隐蔽的认知承诺（[[Epistemic Commitments]]）。因为有时学生说出某句话仅仅是为了“应付老师”，而非真的相信。为了解决这个危机，当代理论正走向[[Integrative Pluralism|整合的多元主义]]与[[Mixed Methods Research|混合方法]]。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016, p. 467)]]

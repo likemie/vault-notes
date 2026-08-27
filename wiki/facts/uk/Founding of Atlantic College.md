@@ -9,7 +9,7 @@ subtype: event
 region: uk
 fact_region: "uk"
 fact_kind: "event"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -19,8 +19,8 @@ tags:
   - theme/institution-building
 related_concepts:
   - "[[Reliability]]"
-  - "[[Praxis]]"
   - "[[International Baccalaureate]]"
+  - "[[Praxis]]"
   - "[[International Education]]"
 related_theories: []
 related_methods: []
@@ -30,6 +30,7 @@ related_persons:
   - "[[Desmond Hoare]]"
   - "[[Alec Peterson]]"
 related_facts:
+  - "[[United World Colleges]]"
   - "[[Atlantic College Curriculum 1962]]"
   - "[[European Convention on the Equivalence of Diplomas Leading to Admission to Universities 1953]]"
 related_arguments:

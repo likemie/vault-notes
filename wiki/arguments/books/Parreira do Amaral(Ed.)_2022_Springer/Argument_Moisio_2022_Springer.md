@@ -9,9 +9,9 @@ title: "Argument_Moisio_2022_Springer"
 argument_key: "Argument_Moisio_2022_Springer"
 argument_display_title: "In what sense a geopolitical knowledge-based economy? In M"
 argument_kind: "book"
-argument_related_count: 29
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 30
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
 book_title: 'Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation'
 citation: "Moisio, S. (2022). In what sense a geopolitical knowledge-based economy? In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation (pp. 21–33). Cham: Springer."
@@ -28,10 +28,10 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Relational Space]]"
   - "[[Knowledge-Based Economization]]"
-  - "[[Praxis]]"
   - "[[Hegemony]]"
   - "[[Transfer Translation Transformation]]"
   - "[[National Competitive Advantage]]"
+  - "[[Theoretical Knowledge]]"
   - "[[Presence]]"
   - "[[Definition of Terms]]"
   - "[[Knowledge Production]]"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Economic Patriotism]]"
   - "[[Selectivity]]"
   - "[[Geopolitical Subject]]"
+  - "[[Creativity]]"
   - "[[Spatial Sortings]]"
   - "[[Research Problem]]"
   - "[[Progressive Neoliberalism]]"

@@ -11,7 +11,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 7
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dbeafe"
@@ -31,8 +31,7 @@ related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
-related_facts:
-  - "[[Educational Testing Service]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
 confidence: high

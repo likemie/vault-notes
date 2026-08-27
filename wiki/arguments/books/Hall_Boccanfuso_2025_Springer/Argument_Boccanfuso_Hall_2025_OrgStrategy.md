@@ -18,7 +18,6 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[University-Industry Collaboration]]"
   - "[[Knowledge Transfer]]"
-  - "[[Praxis]]"
   - "[[Questionnaire]]"
   - "[[Entrepreneurial University]]"
   - "[[Academic Engagement]]"
@@ -69,7 +68,7 @@ title: "Argument_Boccanfuso_Hall_2025_OrgStrategy"
 argument_key: "Argument_Boccanfuso_Hall_2025_OrgStrategy"
 argument_display_title: "Organization and Strategy for University-Industry Relationships"
 argument_kind: "book"
-argument_related_count: 37
+argument_related_count: 36
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"

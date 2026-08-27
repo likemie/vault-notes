@@ -5,7 +5,7 @@ aliases:
 summary: "以主观意识和直接经验为核心的哲学传统，关注意识如何主动赋予世界意义，是诠释范式的三大研究传统之一。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 37
+theory_related_count: 36
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Dialogue in Education]]"
   - "[[Performance Indicators]]"
-  - "[[Praxis]]"
   - "[[Causality]]"
   - "[[Research Question]]"
   - "[[Operationalization]]"
@@ -59,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-08-20
+updated: '2026-08-27'
 ---
 
 # Phenomenology
@@ -123,7 +122,7 @@ updated: 2026-08-20
 > ```
 
 > [!exegesis]- 教育研究例子
-> 在赫尔辛基大学的 **SveaSus（可持续世界遗产[[Phenomenon-Based Learning|现象本位学习]]）** 教师教育项目中，学生研究“可持续生态”或“气候变化”。他们不只是记住抽象概念（去情境化的事实），而是首先在芬兰堡（Suomenlinna）世界遗产地展开具体的具身、艺术与多语[[Praxis|实践]]（身体感官经验与地点感）。在这个过程中，他们将意识指向特定的水域或周边社区（意向性），进而通过小组协作研讨、共同规划和分担责任（主体间性），反思并打破自己原先对人地关系的天然态度，形成持久的世界观和批判性伦理意识，这比单纯获取预设的、可测量的知识指标更为深远。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 1, 4]]
+> 在赫尔辛基大学的 **SveaSus（可持续世界遗产[[Phenomenon-Based Learning|现象本位学习]]）** 教师教育项目中，学生研究“可持续生态”或“气候变化”。他们不只是记住抽象概念（去情境化的事实），而是首先在芬兰堡（Suomenlinna）世界遗产地展开具体的具身、艺术与多语实践（身体感官经验与地点感）。在这个过程中，他们将意识指向特定的水域或周边社区（意向性），进而通过小组协作研讨、共同规划和分担责任（主体间性），反思并打破自己原先对人地关系的天然态度，形成持久的世界观和批判性伦理意识，这比单纯获取预设的、可测量的知识指标更为深远。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 1, 4]]
 
 ---
 
@@ -158,7 +157,7 @@ updated: 2026-08-20
 > - **适合解释** 个体的深层意识体验、生活世界经验、复杂的反思与自我意识重构、教学中的情感和主体互动，以及对课程政策的哲学与规范性批判。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 2, 4]]
 > - **谨慎使用** 在探讨大规模、宏观社会制度的结构性变迁或资源分配等问题时，需要辅之以批判[[Realism in International Relations|现实主义]]（[[Critical Realism]]）或社会学结构理论，以补充对学科[[Ontology|本体论]]深度及客观制约条件的考量。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 5]]
 > - **不适合解释** 需要精确量化、进行因果控制实验的认知负荷、学习效率提升百分比等技术性问题。
-> - **常见误用** 将现象学理解为纯粹的“极端唯我主义”（认为没有客观现实），或者在教育[[Praxis|实践]]中将其降维为没有任何[[Discipline-Based Theory|学科理论]]深度的“感官活动拼盘”，或者试图将现象学式的反思过程强行编制为标准化、可测量的技能技能点考核。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 2, 5, 10]]
+> - **常见误用** 将现象学理解为纯粹的“极端唯我主义”（认为没有客观现实），或者在教育实践中将其降维为没有任何[[Discipline-Based Theory|学科理论]]深度的“感官活动拼盘”，或者试图将现象学式的反思过程强行编制为标准化、可测量的技能技能点考核。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 2, 5, 10]]
 
 ---
 
@@ -168,7 +167,7 @@ updated: 2026-08-20
 > - **19–20 世纪之交 — 经典奠基** 胡塞尔提出“回到事物本身”的口号，创立先验现象学，确立意向性与[[Epoché|悬置]]方法，视 living subject 为[[Ontology|本体论]]和[[Epistemology|认识论]]努力的核心。[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, Ch. 1]]; [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 2]]
 > - **20 世纪中期 — 存在、社会与具身转向** 舒茨将现象学引入社会学，创立存在现象学，关注日常生活世界的意义结构与主体间性分析。 同期，Heidegger、Sartre 与 梅洛-庞蒂发展了存在与具身转向，特别是梅洛-庞蒂将身体经验置于知觉之前，批判[[René Descartes|笛卡尔]]二元论。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 3]]
 > - **21 世纪初 — 教育哲学与学习现象学** Biesta、Küpers 等将现象学应用于反思当代教育，提出“学习现象学”（Phenomenology of learning），突出具身、情绪、体验和响应性的学习过程，用以批判绩效测量与知识技能原子化。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 3, 10]]
-> - **2014年至今 — 跨学科课程化与实证应用** 芬兰等国将跨学科探究政策化，现象学作为 [[Phenomenon-Based Learning|现象本位学习]]（PhBL） 的关键哲学根源，在教师教育和可持续发展项目（如 SveaSus 项目）中获得实证、艺术及多语教学层面的[[Praxis|实践]]检验。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 1, 2]]
+> - **2014年至今 — 跨学科课程化与实证应用** 芬兰等国将跨学科探究政策化，现象学作为 [[Phenomenon-Based Learning|现象本位学习]]（PhBL） 的关键哲学根源，在教师教育和可持续发展项目（如 SveaSus 项目）中获得实证、艺术及多语教学层面的实践检验。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 1, 2]]
 
 ---
 

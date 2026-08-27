@@ -11,7 +11,7 @@ subtype: event
 region: eu
 fact_region: "eu"
 fact_kind: "event"
-fact_related_count: 11
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -34,7 +34,6 @@ related_persons: []
 related_facts:
   - "[[Bologna Process]]"
   - "[[CALOHEE Project]]"
-  - "[[European Qualifications Framework]]"
   - "[[OECD]]"
 related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"

@@ -8,7 +8,7 @@ subtype: policy
 region: global
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 7
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dbeafe"
@@ -20,7 +20,6 @@ tags:
   - theme/systematic-review
   - policy/evidence-informed-policy
 related_concepts:
-  - "[[Praxis]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Evidence-Based Education]]"
   - "[[Class Size]]"

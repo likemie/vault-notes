@@ -27,7 +27,8 @@ related_concepts:
   - "[[Rightness]]"
 related_theories: []
 related_methods: []
-related_instruments: []
+related_instruments:
+  - "[[VALUE Rubrics]]"
 related_persons:
   - "[[Thomas Kuhn]]"
   - "[[Deanna Kuhn]]"

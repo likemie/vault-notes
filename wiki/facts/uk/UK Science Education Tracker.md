@@ -11,7 +11,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 6
+fact_related_count: 5
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dbeafe"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Sample Size Determination]]"
   - "[[Science Capital]]"
   - "[[Attrition]]"
-  - "[[Praxis]]"
   - "[[Practical Inquiry in Science Education]]"
 related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"

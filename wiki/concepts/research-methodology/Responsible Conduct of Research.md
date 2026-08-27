@@ -19,7 +19,7 @@ related_concepts:
   - "[[Institutional Review Board]]"
   - "[[Informed Consent]]"
   - "[[Variable]]"
-  - "[[Praxis]]"
+  - "[[Creativity]]"
   - "[[University-Industry Collaboration]]"
   - "[[Academic Freedom]]"
 related_theories: []

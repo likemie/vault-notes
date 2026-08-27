@@ -8,7 +8,7 @@ summary: "一种将时间维度引入LISA局部空间自相关的探索性时空
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 5
+method_related_count: 6
 method_related_level: 0
 method_related_stars: ""
 method_related_color: "#dcfce7"
@@ -18,6 +18,7 @@ tags:
   - method/spatiotemporal
 related_concepts:
   - "[[Flow]]"
+  - "[[Cooperative Integrated Reading and Composition]]"
   - "[[Variable]]"
 related_theories: []
 related_methods:

@@ -7,7 +7,7 @@ summary: "瑞士教育政策研究者和OECD指标专家，INES项目创始人�
 type: person
 nationality: switzerland
 person_region: "switzerland"
-person_related_count: 14
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[International Education]]"
   - "[[Decodification]]"
   - "[[Performance Indicators]]"
-  - "[[Praxis]]"
   - "[[Epistemology]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Performativity]]"

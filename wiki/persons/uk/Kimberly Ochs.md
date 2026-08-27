@@ -7,7 +7,7 @@ summary: "英国比较教育学者，政策借用与跨国吸引类型学共同�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 8
+person_related_count: 9
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Cross-National Attraction]]"
   - "[[Analytic Framework]]"
+  - "[[Concept Mapping]]"
   - "[[Document]]"
   - "[[Global Universities Rankings]]"
   - "[[Going Native]]"

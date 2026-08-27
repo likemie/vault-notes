@@ -10,7 +10,7 @@ aliases:
 summary: "Lundvall 等人发展的理论框架，将创新理解为多行动者在特定制度环境下通过网络和市场互动进行的集体学习活动，强调制度、网络和吸收能力对创新绩效的关键作用，1980–90年代后成为多国创新政策的主导范式"
 type: theory
 theory_field: "higher-education"
-theory_related_count: 17
+theory_related_count: 18
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Theoretical Perspective]]"
   - "[[Absorptive Capacity]]"
   - "[[Knowledge Production]]"
+  - "[[Creativity]]"
   - "[[Paradigm]]"
   - "[[Growth]]"
   - "[[Technology Transfer]]"
@@ -64,7 +65,7 @@ updated: 2026-05-27
 > [!abstract]
 > 1. **创新是互动过程** 创新涉及多个行动者的双向互动，远比线性模型所暗示的更复杂；科学-创新-社会之间存在重要的相互作用，不仅是经济制度，社会政治制度同样塑造创新行为（Freeman, 1982）([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, p.29]])。
 > 2. **隐性知识至关重要** 显性知识（codified knowledge，如论文、专利）只是知识流动的一部分；隐性知识（tacit knowledge）在组织间和跨国界的流动对创新同样关键（p.29）。
-> 3. **[[Absorptive Capacity|吸收能力]]与学习能力** 公司和国家的吸收能力（absorptive capacity）——即获取、消化和利用外部知识的能力——与[[Knowledge Production|知识生产]]能力同等重要；学习能力和创造力是创新的核心驱动力（p.29）。
+> 3. **[[Absorptive Capacity|吸收能力]]与学习能力** 公司和国家的吸收能力（absorptive capacity）——即获取、消化和利用外部知识的能力——与[[Knowledge Production|知识生产]]能力同等重要；学习能力和[[Creativity|创造力]]是创新的核心驱动力（p.29）。
 > 4. **创业精神不可或缺** 在现代创新驱动型经济中，创业精神是将知识转化为经济价值的桥梁（p.29）。
 
 ---

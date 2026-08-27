@@ -13,7 +13,7 @@ title: "Argument_Zhang_2023_PHEI"
 argument_key: "Argument_Zhang_2023_PHEI"
 argument_display_title: "科技创新\"双循环\"生态系统：基于粤港澳大湾区的实践与探索"
 argument_kind: "book"
-argument_related_count: 25
+argument_related_count: 24
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -49,7 +49,6 @@ related_concepts:
   - "[[Innovation Park]]"
   - "[[Going Native]]"
   - "[[Evaluation Research]]"
-  - "[[Praxis]]"
   - "[[International Education]]"
   - "[[Document]]"
 related_theories:

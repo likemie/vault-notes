@@ -17,6 +17,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Construct]]"
   - "[[Formal Epistemology]]"
+  - "[[Creativity]]"
   - "[[Document]]"
 related_theories: []
 related_methods:

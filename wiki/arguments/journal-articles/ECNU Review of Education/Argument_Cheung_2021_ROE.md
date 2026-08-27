@@ -10,7 +10,7 @@ title: "Argument_Cheung_2021_ROE"
 argument_key: "Argument_Cheung_2021_ROE"
 argument_display_title: "Evidence-based reform in education: Global perspectives [Editorial]"
 argument_kind: "journal-article"
-argument_related_count: 12
+argument_related_count: 11
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#dbeafe"
@@ -26,7 +26,6 @@ tags:
 - level/k12
 related_concepts:
   - "[[Research Question]]"
-  - "[[Praxis]]"
   - "[[Evidence-Based Reform]]"
   - "[[Evidence-Based Education]]"
   - "[[Implementation Fidelity]]"

@@ -7,7 +7,7 @@ aliases:
 summary: "以 Nelson and Winter（1982）为奠基之作的经济学流派，强调经济活动的多样性、异质性和累积性学习过程，以技术轨迹和产业异质性为核心分析概念，挑战主流经济学的代表性企业和均衡分析假设"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 9
+theory_related_count: 10
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Total Factor Productivity]]"
   - "[[Paradigm]]"
+  - "[[Creativity]]"
 related_theories:
   - "[[Pavitt Taxonomy]]"
   - "[[Technological Trajectories]]"
@@ -53,7 +54,7 @@ updated: 2026-06-10
 ## 理论基础
 
 > [!info] 学术脉络
-> 演化经济学的思想来源包括 Schumpeter 的创新理论（创造性破坏）、Simon 的[[Bounded Rationality|有限理性]]（bounded rationality）以及生物学中的演化隐喻（变异-选择-保留）。Nelson & Winter（1982）将这些思想系统化为一个替代新古典经济学的理论框架，以**组织惯例（organizational routines）**替代最优化行为，以**经济选择**替代均衡市场出清。在创新研究领域，Freeman（1982）、Dosi（1982, 1988）以及后续的新熊彼特学派（Neo-Schumpeterian）学者将演化视角应用于技术和产业变迁分析，建立了技术[[Paradigm|范式]]、[[Technological Trajectories|技术轨迹]]和[[Systems of Innovation|创新系统]]等概念工具。
+> 演化经济学的思想来源包括 Schumpeter 的创新理论（[[Creativity|创造性]]破坏）、Simon 的[[Bounded Rationality|有限理性]]（bounded rationality）以及生物学中的演化隐喻（变异-选择-保留）。Nelson & Winter（1982）将这些思想系统化为一个替代新古典经济学的理论框架，以**组织惯例（organizational routines）**替代最优化行为，以**经济选择**替代均衡市场出清。在创新研究领域，Freeman（1982）、Dosi（1982, 1988）以及后续的新熊彼特学派（Neo-Schumpeterian）学者将演化视角应用于技术和产业变迁分析，建立了技术[[Paradigm|范式]]、[[Technological Trajectories|技术轨迹]]和[[Systems of Innovation|创新系统]]等概念工具。
 
 ---
 ## 在创新研究中的应用

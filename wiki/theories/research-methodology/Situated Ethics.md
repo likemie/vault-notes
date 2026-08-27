@@ -7,7 +7,7 @@ aliases:
 summary: "一种研究伦理立场，主张伦理原则在不同的研究实践中被中介而具有不同意义，伦理决定不可诉诸单义普适原则或守则，必须权衡具体情境中的特殊冲突和困境"
 type: theory
 theory_field: "research-methodology"
-theory_related_count: 11
+theory_related_count: 10
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -15,7 +15,6 @@ tags:
   - theory/research-ethics
   - paradigm/interpretive
 related_concepts:
-  - "[[Praxis]]"
   - "[[Informed Consent]]"
   - "[[Analytic Framework]]"
   - "[[Paradigm]]"
@@ -42,7 +41,7 @@ updated: 2026-06-19
 ## 理论定位
 
 > [!theory-position] 理论定位
-> - **解释对象** 伦理原则在研究[[Praxis|实践]]中的运作方式——为什么同一伦理原则（如[[Informed Consent|知情同意]]）在不同研究情境中具有不同的含义和适用性。
+> - **解释对象** 伦理原则在研究实践中的运作方式——为什么同一伦理原则（如[[Informed Consent|知情同意]]）在不同研究情境中具有不同的含义和适用性。
 > - **理论问题** 回应伦理普遍主义（认为存在一套不变且有效适用于所有情境的一般原则）与伦理相对主义（认为伦理完全取决于个体良心）之间的经典争论。
 > - **理论类型** 中层[[Analytic Framework|分析框架]]——不提供具体伦理守则，而是提供一种关于伦理判断如何被达成的元层次立场。
 > - **知识位置** 根植于[[Qualitative Research|质性研究]]传统和解释主义[[Paradigm|范式]]，代表学者为 Simons & Usher (2000)。
@@ -61,7 +60,7 @@ updated: 2026-06-19
 
 > [!proposition-chain] 命题链
 
-> [!claim] 命题一：伦理原则在研究[[Praxis|实践]]中被中介
+> [!claim] 命题一：伦理原则在研究实践中被中介
 > 同一伦理原则（如[[Informed Consent|知情同意]]、保密）在[[Experimental Research|实验研究]]、[[Ethnography|人种志]]研究和[[Action Research|行动研究]]中的含义和适用范围不同，因为每种研究实践有其独特的[[Epistemology|认识论]]前提、权力关系和社会互动模式（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 76–77, 128]]）。
 
 > [!warrant] 为什么这很重要

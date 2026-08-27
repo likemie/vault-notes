@@ -7,7 +7,7 @@ summary: "中国统战官员与历史学者，现任国家民委主任，因提�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 7
+person_related_count: 6
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
@@ -19,7 +19,6 @@ related_concepts:
   - "[[Wuhu Ruhua]]"
   - "[[Zhonghua Minzu]]"
   - "[[Sinicisation]]"
-  - "[[Praxis]]"
 related_theories: []
 related_methods: []
 related_persons:

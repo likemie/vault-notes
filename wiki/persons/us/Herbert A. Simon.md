@@ -8,7 +8,7 @@ summary: "美国政治学家、经济学家和认知科学家，有限理性理�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 7
+person_related_count: 6
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
@@ -19,7 +19,6 @@ tags:
 - organizational-theory
 - region/us
 related_concepts:
-  - "[[Praxis]]"
   - "[[Hypothesis]]"
   - "[[Professional Judgment]]"
   - "[[Epistemology]]"

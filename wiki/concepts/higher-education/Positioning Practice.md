@@ -7,7 +7,7 @@ aliases:
 summary: "Angermuller 的话语理论概念，将学术交流分析为行动者通过职称、机构隶属和发表记录等地位范畴持续主张自身位置和界定他人归属的日常话语实践，构成学术等级的微观再生产"
 type: concept
 domain: "higher-education"
-related_count: 9
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,7 +19,6 @@ tags:
   - theme/academic-careers
   - level/higher-ed
 related_concepts:
-  - "[[Praxis]]"
   - "[[Champ]]"
   - "[[Discursive Stratification]]"
   - "[[Field Images]]"

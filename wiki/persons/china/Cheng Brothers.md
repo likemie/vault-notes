@@ -11,7 +11,7 @@ summary: "北宋理学家，程颢与程颐兄弟，程朱理学奠基人，重�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 11
+person_related_count: 10
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -20,7 +20,6 @@ related_concepts:
   - "[[Sage]]"
   - "[[Junzi]]"
   - "[[The Great Learning]]"
-  - "[[Praxis]]"
 related_theories:
   - "[[Neo-Confucianism]]"
   - "[[Confucian Learning Tradition]]"

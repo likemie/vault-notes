@@ -14,11 +14,11 @@ tags:
 - level/k12
 - level/higher-ed
 related_concepts:
-  - "[[Praxis]]"
   - "[[International Schools]]"
   - "[[International Baccalaureate]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Global Universities Rankings]]"
+  - "[[Praxis]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Theory of Knowledge]]"
   - "[[Reliability]]"

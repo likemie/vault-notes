@@ -9,7 +9,7 @@ summary: "中国教育家，哥伦比亚大学师范学院毕业，杜威在华�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 17
+person_related_count: 16
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Normal School]]"
   - "[[Quality Education]]"
-  - "[[Praxis]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Revoicing]]"
   - "[[Paradigm Wars]]"

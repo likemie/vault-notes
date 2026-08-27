@@ -7,10 +7,10 @@ summary: "华人教育研究者，布朗大学教授，以中西文化学习模�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 39
-person_related_level: 4
-person_related_stars: "⭐⭐⭐⭐"
-person_related_color: "#fce7f3"
+person_related_count: 40
+person_related_level: 5
+person_related_stars: "⭐⭐⭐⭐⭐"
+person_related_color: "#ffedd5"
 tags:
 - region/china
 - region/us
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Chinese Learner]]"
   - "[[Junzi]]"
   - "[[Sage]]"
+  - "[[Concept Mapping]]"
   - "[[Creativity]]"
   - "[[Pride in Learning]]"
   - "[[Refined Mastery]]"

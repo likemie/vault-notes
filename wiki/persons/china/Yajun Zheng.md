@@ -7,7 +7,7 @@ summary: "中国高等教育研究者，双模式框架提出者和 金榜题名
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 30
+person_related_count: 29
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -19,7 +19,6 @@ tags:
 related_concepts:
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
-  - "[[Praxis]]"
   - "[[Cultural Barrier]]"
   - "[[Academic and Social Integration]]"
   - "[[Cultural Capital]]"

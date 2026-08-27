@@ -6,10 +6,10 @@ aliases:
 summary: "把符号意义建构与结构物质过程放在同一分析框架中的理论，用于解释经济与政治秩序如何同时由话语和制度共同塑造"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 16
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_count: 15
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
 - cultural-political-economy
 - political-economy
@@ -24,7 +24,6 @@ related_concepts:
   - "[[International Education Hubs]]"
   - "[[Cultural Diplomacy]]"
   - "[[Operationalization]]"
-  - "[[Praxis]]"
   - "[[Spatial Sortings]]"
 related_theories:
   - "[[Critical Realism]]"
@@ -87,7 +86,7 @@ updated: 2026-06-02
 
 > [!warning]
 > - **文化政治经济学的[[Operationalization|操作化]]难度** [[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] 自称采用文化政治经济学作为概念框架，但其实证分析更多呈现为两个维度的并列描述，未能充分展示符号维度与结构-物质维度如何相互构成。文化政治经济学所要求的相互构成分析在经验研究中难以兑现——分析者容易滑向分别描述文化因素和经济因素，再断言两者相互作用。
-> - **与批判[[Discourse Analysis|话语分析]]的边界模糊**文化政治经济学与 Fairclough (2003) 的 CDA 在分析焦点上高度重叠——都关注话语如何建构社会现实——文化政治经济学的独特贡献（特别关注符号与物质的相互构成）在[[Praxis|实践]]中未必能与 CDA 有效区分。
+> - **与批判[[Discourse Analysis|话语分析]]的边界模糊**文化政治经济学与 Fairclough (2003) 的 CDA 在分析焦点上高度重叠——都关注话语如何建构社会现实——文化政治经济学的独特贡献（特别关注符号与物质的相互构成）在实践中未必能与 CDA 有效区分。
 
 ---
 

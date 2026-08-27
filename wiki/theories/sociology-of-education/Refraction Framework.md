@@ -5,7 +5,7 @@ aliases:
 summary: "Downey & Condron (2016) 的学校与不平等折射理论：学校可沿不同维度以补偿性、加剧性或中性方式塑造不平等，强调差距在学校入学前已形成"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 14
+theory_related_count: 15
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Postpositivism]]"
   - "[[Causality]]"
+  - "[[Learning Gain]]"
   - "[[Hypothesis]]"
   - "[[Analytic Framework]]"
 related_theories: []
@@ -101,7 +102,7 @@ updated: 2026-08-20
 > [!info] 研究[[Paradigm|范式]]
 > - **[[Epistemology|认识论]]立场** [[Postpositivism|后实证主义]]——承认学校效应的[[Causality|因果推断]]需要严格方法（[[Seasonal Comparison|季节性比较]]作为自然实验），同时重视将学校效应置于更广泛的社会分层系统中进行情境化理解
 > - **核心方法论**[[Seasonal Comparison]] — 利用学年 vs 暑假的自然实验设计
-> - **与传统方法的区别** 反对仅通过统计控制家庭背景或预测学习增值来分离学校效应——这些方法系统性高估学校效应，因为大多数影响儿童学习的非学校特征在大规模调查中无法测量([[Argument_Downey_2016_SoE|Downey & Condron, 2016, p.3]])
+> - **与传统方法的区别** 反对仅通过统计控制家庭背景或预测[[Learning Gain|学习增值]]来分离学校效应——这些方法系统性高估学校效应，因为大多数影响儿童学习的非学校特征在大规模调查中无法测量([[Argument_Downey_2016_SoE|Downey & Condron, 2016, p.3]])
 
 ## 争议与批评
 

@@ -7,7 +7,7 @@ aliases:
 summary: "由 Louise Archer 等学者基于布迪厄资本理论拓展提出的社会学构念，指个体所积累的与科学相关的知识、态度、日常实践、社会网络以及家庭科学资源的集合，直接决定其科学认同与职业抱负"
 type: concept
 domain: "sociology-of-education"
-related_count: 8
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,7 +19,6 @@ related_concepts:
   - "[[Cultural Capital]]"
   - "[[Scientific Literacy]]"
   - "[[Scientific Attitude]]"
-  - "[[Praxis]]"
 related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
 related_theories:

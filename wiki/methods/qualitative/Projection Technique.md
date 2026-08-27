@@ -8,7 +8,7 @@ summary: "通过媒介（如虚拟世界中的化身）让个体外化自我、�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 22
+method_related_count: 21
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Questionnaire]]"
   - "[[Deficiencies Model for an Introduction]]"
   - "[[Transcription in Qualitative Research]]"
-  - "[[Praxis]]"
   - "[[Variable]]"
   - "[[Reliability]]"
   - "[[Internal Validity]]"

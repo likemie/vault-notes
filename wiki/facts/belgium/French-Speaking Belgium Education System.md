@@ -10,7 +10,7 @@ subtype: policy
 region: belgium
 fact_region: "belgium"
 fact_kind: "policy"
-fact_related_count: 9
+fact_related_count: 8
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Grade Retention]]"
   - "[[Evidence-Based Reform]]"
   - "[[Paradigm]]"
-  - "[[Praxis]]"
 related_theories: []
 related_methods: []
 related_persons: []

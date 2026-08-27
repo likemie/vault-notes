@@ -8,7 +8,7 @@ summary: "澳大利亚教育研究者，批判性行动研究的核心理论家�
 type: person
 nationality: australia
 person_region: "australia"
-person_related_count: 13
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -17,7 +17,6 @@ tags:
   - action-research
   - critical-theory
 related_concepts:
-  - "[[Praxis]]"
   - "[[Ideal Speech Situation]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Reflexivity]]"

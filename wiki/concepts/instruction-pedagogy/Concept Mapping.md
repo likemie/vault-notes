@@ -9,7 +9,7 @@ aliases:
 summary: "包含显式命题节点、命题连接词与多节点网状交叉链接，用于结构化表征复杂领域知识与语义关系的认知建模工具"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,6 +19,7 @@ tags:
   - theme/higher-order-thinking
   - cognition/learning-science
 related_concepts:
+  - "[[Mind Mapping]]"
   - "[[Argument Mapping]]"
   - "[[Divergent Thinking]]"
   - "[[Critical Thinking]]"

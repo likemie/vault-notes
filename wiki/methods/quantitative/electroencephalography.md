@@ -8,7 +8,7 @@ summary: "脑电图（EEG）：通过测量相邻神经元群落激活记录脑�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 6
+method_related_count: 5
 method_related_level: 0
 method_related_stars: ""
 method_related_color: "#dcfce7"
@@ -20,7 +20,6 @@ tags:
 related_concepts:
   - "[[Hypothesis]]"
   - "[[Prefrontal Cortex]]"
-  - "[[Executive Function]]"
   - "[[Research Utilization]]"
 related_theories: []
 related_methods:

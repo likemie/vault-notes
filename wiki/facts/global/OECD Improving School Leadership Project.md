@@ -9,7 +9,7 @@ subtype: policy
 region: global
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 12
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[International Education]]"
   - "[[Variable]]"
   - "[[Hypothesis]]"
-  - "[[Praxis]]"
   - "[[New Public Management]]"
   - "[[Evidence-Based Education]]"
 related_theories: []

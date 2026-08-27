@@ -20,6 +20,7 @@ tags:
 - region/global
 - level/higher-ed
 related_concepts:
+  - "[[Student Satisfaction]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Blue Skies Research]]"
@@ -30,7 +31,6 @@ related_concepts:
   - "[[Online Self-Assessment]]"
   - "[[Preemptive Governance]]"
   - "[[Space-Making]]"
-  - "[[Praxis]]"
   - "[[Analytic Framework]]"
   - "[[Non-monetary Competition]]"
   - "[[Champ]]"

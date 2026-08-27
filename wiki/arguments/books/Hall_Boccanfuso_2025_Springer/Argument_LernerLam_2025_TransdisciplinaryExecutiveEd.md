@@ -17,7 +17,6 @@ tags:
   - "level/higher-education"
 related_concepts:
   - "[[Executive Education]]"
-  - "[[Praxis]]"
   - "[[Epistemology]]"
   - "[[Hypothesis]]"
   - "[[Emergence]]"
@@ -46,7 +45,7 @@ title: "Argument_LernerLam_2025_TransdisciplinaryExecutiveEd"
 argument_key: "Argument_LernerLam_2025_TransdisciplinaryExecutiveEd"
 argument_display_title: "Innovating for Curricular Complexity: Executive Education for Transdisciplinary Challenges"
 argument_kind: "book"
-argument_related_count: 13
+argument_related_count: 12
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#ede9fe"

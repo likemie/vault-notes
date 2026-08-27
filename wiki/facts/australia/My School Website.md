@@ -9,7 +9,7 @@ subtype: policy
 region: australia
 fact_region: "australia"
 fact_kind: "policy"
-fact_related_count: 7
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dbeafe"
@@ -23,7 +23,6 @@ tags:
 related_concepts:
   - "[[School Choice]]"
   - "[[Hypothesis]]"
-  - "[[Praxis]]"
   - "[[School Autonomy]]"
   - "[[New Public Management]]"
   - "[[Performativity of Measurement]]"

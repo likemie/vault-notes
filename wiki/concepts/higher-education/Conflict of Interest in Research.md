@@ -8,7 +8,7 @@ aliases:
 summary: "当研究者或机构的财务利益可能损害研究客观性、学生独立性或大学首要职责时产生的伦理问题，产学合作中通过披露、审查和审批制度进行管理"
 type: concept
 domain: "higher-education"
-related_count: 7
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -21,7 +21,6 @@ related_concepts:
   - "[[Sponsored Research Agreement]]"
   - "[[Clinical Trial]]"
   - "[[Academic Freedom]]"
-  - "[[Praxis]]"
   - "[[Technology Transfer]]"
 related_theories: []
 related_methods: []

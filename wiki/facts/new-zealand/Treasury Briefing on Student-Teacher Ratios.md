@@ -8,7 +8,7 @@ subtype: event
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "event"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -36,6 +36,8 @@ related_facts:
   - "[[Tomorrow's Schools Reforms]]"
 related_arguments:
   - "[[Argument_ONeill_2012_NZJES]]"
+related_instruments:
+  - "[[VALUE Rubrics]]"
 confidence: medium
 status: published
 created: '2026-05-06'

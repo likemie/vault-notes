@@ -7,7 +7,7 @@ summary: "中国台湾文化研究学者，Asia as Method作者与去帝国化�
 type: person
 nationality: taiwan
 person_region: "taiwan"
-person_related_count: 6
+person_related_count: 5
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
@@ -20,7 +20,6 @@ tags:
 related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Knowledge Production]]"
-  - "[[Praxis]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge Transfer]]"
 related_theories: []

@@ -9,7 +9,7 @@ aliases:
 summary: "Hart(1992)提出的评估儿童在研究和社会行动中参与程度的八级阶梯模型，从底层的操纵和装饰到顶层的儿童自主发起与主导，为包容性研究设计提供渐进标准"
 type: theory
 theory_field: "research-methodology"
-theory_related_count: 11
+theory_related_count: 10
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -23,7 +23,6 @@ related_methods:
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09]]"
 related_concepts:
-  - "[[Praxis]]"
   - "[[Research Ethics]]"
   - "[[Purpose Statement]]"
   - "[[Epistemology]]"
@@ -43,7 +42,7 @@ updated: 2026-06-22
 > [!theory-position] 理论定位
 > - **解释对象** 儿童和青少年在研究及社会行动中的参与程度——从被动操纵到自主主导的连续谱。
 > - **理论问题** 如何评估和提升儿童在影响其生活的研究和决策中的真实参与度？
-> - **理论类型** 规范性参与模型——既是对现有[[Praxis|实践]]的描述和批判，也是研究者应追求的理想标准。
+> - **理论类型** 规范性参与模型——既是对现有实践的描述和批判，也是研究者应追求的理想标准。
 > - **知识位置** 儿童[[Research Ethics|研究伦理]]和方法论，植根于儿童权利话语（尤其是联合国《儿童权利公约》第 12 条）和[[Participatory Research|参与式研究]]传统。
 
 ## 核心命题与机制
@@ -87,7 +86,7 @@ updated: 2026-06-22
 > [!theory-use] 研究中的使用方式
 > - **框架** 作为设计和[[Evaluation Research|评估研究]]中儿童参与程度的[[Analytic Framework|分析框架]]
 > - **工具** 作为研究者自我审视的工具——"我的研究在阶梯的哪个位置？"
-> - **批判视角** 作为批评"成人中心"研究[[Praxis|实践]]的规范性标准
+> - **批判视角** 作为批评"成人中心"研究实践的规范性标准
 > - **报告方式** 在方法部分说明研究的参与层级并解释其选择
 
 ## 适用边界

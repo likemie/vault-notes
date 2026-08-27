@@ -5,7 +5,7 @@ aliases:
 summary: "将测量视为社会技术来分析的框架，关注测量如何被组织、运作并在实践中塑造对象、关系和世界。"
 type: theory
 theory_field: "research-methodology"
-theory_related_count: 12
+theory_related_count: 11
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -18,7 +18,6 @@ tags:
 related_concepts:
   - "[[Analytic Framework]]"
   - "[[Performativity]]"
-  - "[[Praxis]]"
   - "[[International Education]]"
   - "[[Performativity of Measurement]]"
   - "[[Science and Technology Studies]]"
@@ -44,7 +43,7 @@ updated: '2026-05-18'
 > [!info] 定义
 > Sociology of Measurement（测量社会学）是 Steve Woolgar 提出的[[Analytic Framework|分析框架]]，将 measurement 视为一种"技术"（technology），关注测量的两个关键维度：instrumentalism（工具主义——事物如何被"弄到能用"的实用操作）与 [[Performativity]]（施行性——测量不只是描述世界，更是制造世界）([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.6–7]])。
 >
-> > 测量社会学关注"测量[[Praxis|实践]]的工具主义（使事物在实用意义上'运作'的方式）以及仪器的使用"(Woolgar, 1991b;)
+> > 测量社会学关注"测量实践的工具主义（使事物在实用意义上'运作'的方式）以及仪器的使用"(Woolgar, 1991b;)
 
 ## 历史沿革
 
@@ -57,7 +56,7 @@ updated: '2026-05-18'
 ## 核心要素
 
 > [!abstract] Instrumentalism（工具主义）
-> 关注测量[[Praxis|实践]]中如何解决实际问题——约束如何被处理、利益如何被翻译、分类如何被定义、框架如何被协商、方法如何被建立、协议如何被制定。Gorur 以 [[International Indicators of Education Systems|INES]] 为案例展示了：面对技术不可行性，科学家放弃理论模型，采用以可用性为导向的经验方法([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.8–12]])。
+> 关注测量实践中如何解决实际问题——约束如何被处理、利益如何被翻译、分类如何被定义、框架如何被协商、方法如何被建立、协议如何被制定。Gorur 以 [[International Indicators of Education Systems|INES]] 为案例展示了：面对技术不可行性，科学家放弃理论模型，采用以可用性为导向的经验方法([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.8–12]])。
 
 
 > [!abstract] [[Performativity]]（施行性 / 生产性）
@@ -70,13 +69,13 @@ updated: '2026-05-18'
 > [!example] 与相关概念的区别
 > - vs **[[Performativity of Measurement]]** — Sociology of Measurement 是包含 instrumentalism 和 [[Performativity]] 两个维度的整体框架；Performativity 是其第二个维度
 > - vs **[[Science and Technology Studies]]** — STS 是更广泛的跨学科领域，Sociology of Measurement 是其一个特定分支
-> - vs **Statistics / Statistical Analysis** — 传统统计学关注准确性和代表性，测量社会学关注的则是测量[[Praxis|实践]]如何同时是知识实践和治理实践
+> - vs **Statistics / Statistical Analysis** — 传统统计学关注准确性和代表性，测量社会学关注的则是测量实践如何同时是知识实践和治理实践
 
 ## 理论基础
 
 > [!info] 理论基础
 > - **[[Science and Technology Studies]]** — 共享 STS 的核心关注：知识如何被生产、动员、验证和挑战；拒绝自然/科学、社会/文化的二分([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.6]])
-> - **Latour 的"科学在行动"** — 关注科学[[Praxis|实践]]本身，而非科学的成品（Latour, 1987, 1999;）
+> - **Latour 的"科学在行动"** — 关注科学实践本身，而非科学的成品（Latour, 1987, 1999;）
 > - **Jasanoff 的共同生产（co-production）** — 科学与国家相互构成(Jasanoff, 2004;)
 
 ## 实证发现

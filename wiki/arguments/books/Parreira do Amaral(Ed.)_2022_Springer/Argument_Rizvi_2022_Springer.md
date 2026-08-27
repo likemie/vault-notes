@@ -9,7 +9,7 @@ title: "Argument_Rizvi_2022_Springer"
 argument_key: "Argument_Rizvi_2022_Springer"
 argument_display_title: "Rise of Asia, geopolitical shifts and higher education"
 argument_kind: "book"
-argument_related_count: 34
+argument_related_count: 33
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -37,7 +37,6 @@ related_concepts:
   - "[[Growth]]"
   - "[[Analytic Framework]]"
   - "[[Necessary and Sufficient Conditions]]"
-  - "[[Praxis]]"
   - "[[Conatus]]"
   - "[[International Schools]]"
   - "[[Doxa]]"

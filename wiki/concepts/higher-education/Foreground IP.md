@@ -8,7 +8,7 @@ aliases:
 summary: "产学合作协议中定义的在合作期间、为履行工作范围而产生的知识产权，通常根据发明人归属原则确定所有权"
 type: concept
 domain: "higher-education"
-related_count: 5
+related_count: 4
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,7 +20,6 @@ tags:
 related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Background IP]]"
-  - "[[Praxis]]"
 related_theories: []
 related_methods: []
 related_persons: []

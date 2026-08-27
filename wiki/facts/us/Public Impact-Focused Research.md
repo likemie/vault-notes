@@ -7,7 +7,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 6
+fact_related_count: 5
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dbeafe"
@@ -20,7 +20,6 @@ tags:
   - level/higher-education
 related_concepts:
   - "[[Convergence Research]]"
-  - "[[Praxis]]"
   - "[[Evaluation Research]]"
   - "[[Responsible Innovation]]"
 related_theories: []

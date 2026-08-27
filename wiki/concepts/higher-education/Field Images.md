@@ -6,7 +6,7 @@ aliases:
 summary: "Bloch & Mitterle 提出的概念，将分层从静态的位置分布重新理解为由排名视觉秩序驱动的持续过程，排名通过教导行动者看见层级来制造自我实现的预言"
 type: concept
 domain: "higher-education"
-related_count: 6
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,7 +20,6 @@ tags:
 related_concepts:
   - "[[Champ]]"
   - "[[Discursive Stratification]]"
-  - "[[Praxis]]"
   - "[[Performativity of Measurement]]"
 related_theories: []
 related_methods: []

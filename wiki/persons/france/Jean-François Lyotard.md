@@ -22,7 +22,6 @@ related_concepts:
   - "[[Performativity]]"
   - "[[Global Policy Space]]"
   - "[[Narrative Knowledge]]"
-  - "[[Praxis]]"
   - "[[Positivism]]"
   - "[[Rationalism in International Relations]]"
   - "[[Incommensurability]]"
@@ -38,6 +37,7 @@ related_concepts:
   - "[[Governance by Spin]]"
   - "[[Performance Indicators]]"
   - "[[Research Translation]]"
+  - "[[Praxis]]"
 related_theories:
   - "[[Van Leeuwen's Legitimation Theory]]"
   - "[[Phenomenology]]"

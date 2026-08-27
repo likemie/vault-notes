@@ -9,7 +9,7 @@ summary: "Lincoln and Guba 建立质性研究可信性的六项核心策略之�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 26
+method_related_count: 25
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Researcher as Key Instrument]]"
   - "[[Dialogue in Education]]"
   - "[[Responsible Conduct of Research]]"
-  - "[[Praxis]]"
   - "[[Negative Case Analysis]]"
   - "[[Reliability]]"
   - "[[External Auditor]]"

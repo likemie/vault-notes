@@ -6,7 +6,7 @@ aliases:
 summary: "分析框架附加整合哲学观念的五组件模型。取代或扩展了传统简单的认识论信念维度。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 17
+theory_related_count: 16
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Epistemic Stances]]"
   - "[[Epistemic Virtues and Vices]]"
   - "[[Research Scope]]"
-  - "[[Praxis]]"
   - "[[Epistemic Forms]]"
   - "[[Questionnaire]]"
   - "[[Predictive Validity]]"
@@ -76,7 +75,7 @@ updated: 2026-08-18
 ## 核心命题与机制
 
 > [!proposition-chain] 核心命题一｜[[Epistemology|认识论]]认知是一个包含五个交互组件的多维网络
-> - **前提** 当代哲学[[Epistemology|认识论]]的[[Research Scope|研究范围]]远广于心理学以往关注的确定性、复杂性、来源、确证等维度。[[Epistemological Naturalism|自然化认识论]]促使研究转向具体的认知生成[[Praxis|实践]]。[[Argument_Chinn_2011_EP|(Chinn et al., 2011, p. 145)]]
+> - **前提** 当代哲学[[Epistemology|认识论]]的[[Research Scope|研究范围]]远广于心理学以往关注的确定性、复杂性、来源、确证等维度。[[Epistemological Naturalism|自然化认识论]]促使研究转向具体的认知生成实践。[[Argument_Chinn_2011_EP|(Chinn et al., 2011, p. 145)]]
 > - **推导** 整合自然主义认识论、[[Virtue Epistemology|美德认识论]]与[[Reliabilism|可靠主义]]等哲学基础，[[Epistemic Cognition|认识论认知]]被扩展为涵盖目标与价值、结构、来源确证与立场、美德与恶习、可靠过程的五组件模型。
 
 > [!proposition-chain] 核心命题二｜认识论认知具有高度的情境特异性和细粒度特征

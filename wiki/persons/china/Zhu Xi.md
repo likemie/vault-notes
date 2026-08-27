@@ -23,8 +23,8 @@ related_concepts:
   - "[[Self-Cultivation]]"
   - "[[The Great Learning]]"
   - "[[Official Knowledge]]"
-  - "[[Praxis]]"
   - "[[Sage]]"
+  - "[[Creativity]]"
 related_theories:
   - "[[Neo-Confucianism]]"
   - "[[Confucian Learning Tradition]]"

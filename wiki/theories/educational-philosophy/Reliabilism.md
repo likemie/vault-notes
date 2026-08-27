@@ -6,7 +6,7 @@ aliases:
 summary: "一种外部主义认识论理论，主张信念的确证依赖于产生该信念的因果过程是否可靠，促成了哲学向实证科学的自然主义转向，扩展了认识论认知的研究范畴。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 18
+theory_related_count: 17
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -17,7 +17,6 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Epistemological Naturalism]]"
   - "[[Epistemic Cognition]]"
-  - "[[Praxis]]"
   - "[[Reliability]]"
   - "[[Paradigm]]"
   - "[[Metacognition]]"
@@ -39,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-08-19
+updated: '2026-08-27'
 ---
 
 # Reliabilism
@@ -56,7 +55,7 @@ updated: 2026-08-19
 > - **知识位置** [[Epistemological Naturalism|自然化认识论]]（naturalized epistemology）的核心分支，也是教育心理学中[[Epistemic Cognition|认识论认知]]（Epistemic Cognition）研究的哲学源头。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016)]]
 
 > [!claim] 核心主张
-> 当一个信念是由可靠的认知形成过程或社会[[Praxis|实践]]过程（过程产生真信念的比例高于假信念）产生时，该信念即被视为得到确证的（justified）。在这一理论下，信念的合理性不再完全依赖于个体的逻辑推演能力，而是转移到了评估记忆、知觉、社会互动或制度机制（如同行评审）的经验因果[[Reliability|可靠性]]上。[[Argument_Chinn_2011_EP|(Chinn et al., 2011)]]
+> 当一个信念是由可靠的认知形成过程或社会实践过程（过程产生真信念的比例高于假信念）产生时，该信念即被视为得到确证的（justified）。在这一理论下，信念的合理性不再完全依赖于个体的逻辑推演能力，而是转移到了评估记忆、知觉、社会互动或制度机制（如同行评审）的经验因果[[Reliability|可靠性]]上。[[Argument_Chinn_2011_EP|(Chinn et al., 2011)]]
 
 > [!citation-card]- 关键表述
 > 如果我们将认识论看作是理解人类如何获取知识的学科，那么我们必须将我们的哲学理论建立在关于心智如何运作的现代心理学模型之上。
@@ -84,7 +83,7 @@ updated: 2026-08-19
 > - **推导** 作者得出结论，信念的确证状态是“外部的”客观属性。主体不需要意识到自己认知过程的可靠性机制，只要实际运转的[[Causal Processes|因果过程]]是高保真、可靠的，该信念就具备了认识论上的合理性。[[Argument_Chinn_2011_EP|(Chinn et al., 2011, p. 159)]]
 
 > [!proposition-chain] 核心命题二｜认识论必须引入经验心理学与社会学的实证研究
-> - **前提一** 如果信念的合理性取决于产生该信念的“心理学因果过程”或“社会[[Praxis|实践]]互动”。
+> - **前提一** 如果信念的合理性取决于产生该信念的“心理学因果过程”或“社会实践互动”。
 > - **前提二** 哲学家在书房里的先验冥想，无法准确知道人类记忆机制、知觉偏差，或科学共同体盲审制度的实际运作效能。
 > - **推导** 可靠主义直接导致了[[Epistemology|认识论]]的“自然主义转向”。研究人类如何获取知识，不再是哲学家的专利，而是必须依赖心理学、认知科学以及社会学的实证经验证据。这一命题为“[[Epistemic Cognition|认识论认知]]”作为一个实证研究领域的诞生奠定了绝对的合法性基础。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016, pp. 469-470)]]
 
@@ -105,7 +104,7 @@ updated: 2026-08-19
 ## 理论立场与使用方式
 
 > [!theory-stance] [[Epistemic Stances|认识论立场]]
-> - **[[Ontology|本体论]]** 视认知活动为发生在自然界中的真实因果事件（causal events），社会群体的探究[[Praxis|实践]]也是物质存在的活动系统。
+> - **[[Ontology|本体论]]** 视认知活动为发生在自然界中的真实因果事件（causal events），社会群体的探究实践也是物质存在的活动系统。
 > - **[[Epistemology|认识论]]** 外部主义立场。真理和确证不依赖于主体的主观透明度，而是依赖于产生信念的过程与世界实在状态之间的客观协同度。
 > - **方法含义** 强烈支持甚至要求引入实证心理学实验、社会[[Network Analysis|网络分析]]或[[Discourse Analysis|话语分析]]，以测量和观察认知过程的真实运作情况。
 > - **不能直接推出的东西** 可靠主义不能自动证明某个具体的学习策略（如[[Rote Learning|死记硬背]]）一定不可靠，其[[Reliability|可靠性]]必须针对特定的“[[Epistemic Aims|认识目标]]”（如应对标准化考试 vs. 创新科研）在具体情境中通过实证检验来判定。

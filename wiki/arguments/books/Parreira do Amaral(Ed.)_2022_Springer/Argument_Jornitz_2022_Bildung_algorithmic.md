@@ -10,7 +10,7 @@ title: "Argument_Jornitz_2022_Bildung_algorithmic"
 argument_key: "Argument_Jornitz_2022_Bildung_algorithmic"
 argument_display_title: "\"Bildung\" as a Forgotten Aspect of Algorithmic Technologies"
 argument_kind: "book"
-argument_related_count: 17
+argument_related_count: 16
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -38,7 +38,6 @@ related_concepts:
   - "[[Gamification]]"
   - "[[Knowledge Production]]"
   - "[[Reliability]]"
-  - "[[Praxis]]"
   - "[[Dialogue in Education]]"
   - "[[Variable]]"
   - "[[Geopolitics of Knowledge]]"

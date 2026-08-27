@@ -7,7 +7,7 @@ aliases:
 summary: "Knight 提出的概念，指国家战略性地把自身定位为教育、培训、知识生产和创新活动中心的地缘政治项目。"
 type: concept
 domain: "higher-education"
-related_count: 24
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Innovation Hub]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Paradigm]]"
-  - "[[Praxis]]"
   - "[[Cultural Diplomacy]]"
   - "[[Soft Power]]"
   - "[[Hub and Flow Imaginaries]]"

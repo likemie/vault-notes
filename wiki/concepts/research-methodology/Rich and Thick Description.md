@@ -20,7 +20,6 @@ tags:
 related_concepts:
   - "[[Paradigm]]"
   - "[[Epistemology]]"
-  - "[[Praxis]]"
   - "[[Interpretive Paradigm]]"
   - "[[Epistemic Commitments]]"
   - "[[Trustworthiness]]"
@@ -28,6 +27,7 @@ related_concepts:
   - "[[Qualitative Validity]]"
   - "[[Emic and Etic]]"
   - "[[Naturalistic Generalization]]"
+  - "[[Creativity]]"
   - "[[Dialogue in Education]]"
   - "[[Reflexivity]]"
   - "[[Double Hermeneutic]]"

@@ -7,7 +7,7 @@ aliases:
 summary: "在晚期现代学术审计与新公共管理浪潮中，传统的学术信任与专业伦理被以标准化、可度量和可监控为特征的准契约关系所取代的制度现象"
 type: concept
 domain: "higher-education"
-related_count: 13
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Student-Teacher Relationship]]"
   - "[[Blue Skies Research]]"
   - "[[Shape-Shifting]]"
-  - "[[Praxis]]"
   - "[[Memos]]"
   - "[[Academic Freedom]]"
   - "[[Performance Indicators]]"

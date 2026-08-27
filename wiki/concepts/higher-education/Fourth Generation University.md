@@ -10,7 +10,7 @@ aliases:
 summary: "Malkov et al.（2024）提出的大学代际演化框架，第四代大学在教学、研究与经济参与之外强调直接参与复杂社会挑战的解决，哥伦比亚大学将其类似理念称为第四宗旨（Fourth Purpose）"
 type: concept
 domain: "higher-education"
-related_count: 7
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -21,7 +21,6 @@ tags:
   - "theme/higher-education-policy"
 related_concepts:
   - "[[Research Translation]]"
-  - "[[Praxis]]"
   - "[[Third Mission]]"
   - "[[Knowledge Exchange]]"
   - "[[Knowledge Production]]"

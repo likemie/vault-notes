@@ -9,7 +9,7 @@ title: "Argument_Eacott_2015_EPT"
 argument_key: "Argument_Eacott_2015_EPT"
 argument_display_title: "Problematising the intellectual gaze of the educational administration scholar"
 argument_kind: "journal-article"
-argument_related_count: 13
+argument_related_count: 12
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#dbeafe"
@@ -31,7 +31,6 @@ related_concepts:
   - "[[Epistemological Vigilance]]"
   - "[[Paradigm]]"
   - "[[Knowledge Production]]"
-  - "[[Praxis]]"
   - "[[Reflexivity]]"
 related_theories: []
 related_methods: []

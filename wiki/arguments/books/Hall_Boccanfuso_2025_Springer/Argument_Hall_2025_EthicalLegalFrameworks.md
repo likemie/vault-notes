@@ -13,7 +13,6 @@ tags:
 related_concepts:
   - "[[Academic Freedom]]"
   - "[[University-Industry Collaboration]]"
-  - "[[Praxis]]"
   - "[[Blue Skies Research]]"
   - "[[Sponsored Research Agreement]]"
   - "[[Technology Transfer]]"
@@ -23,6 +22,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Institutional Review Board]]"
   - "[[Informed Consent]]"
+  - "[[Creativity]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Responsible Conduct of Research]]"
   - "[[Technology Transfer Office]]"

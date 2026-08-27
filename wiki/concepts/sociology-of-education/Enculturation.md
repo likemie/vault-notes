@@ -6,7 +6,7 @@ aliases:
 summary: "个体在成长过程中通过日常互动吸收本文化价值观、行为模式与信念体系的社会化过程"
 type: concept
 domain: "sociology-of-education"
-related_count: 11
+related_count: 10
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -16,7 +16,6 @@ tags:
 - discipline/anthropology
 related_concepts:
   - "[[Growth]]"
-  - "[[Praxis]]"
   - "[[Self-Continuity, Self-Distinctness, and Self-Agency]]"
   - "[[Nerd]]"
   - "[[Intellectual-Social Divide]]"

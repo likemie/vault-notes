@@ -30,7 +30,6 @@ related_concepts:
   - "[[Methodological Statism]]"
   - "[[Methodological Nationalism]]"
   - "[[Value Neutrality]]"
-  - "[[Praxis]]"
   - "[[Paradigm]]"
 related_theories: []
 related_methods:
@@ -42,6 +41,8 @@ related_facts:
 related_arguments:
   - "[[Argument_Klerides_2023_CE]]"
   - "[[Argument_Yu_Xie_2025_JHE]]"
+related_instruments:
+  - "[[VALUE Rubrics]]"
 confidence: medium
 status: active
 created: 2026-06-08
@@ -150,7 +151,7 @@ updated: 2026-07-09
 > [!philosophy] [[Epistemology|认识论]]与方法论立场
 > - **[[Ontology|本体论]]** 将国际社会视为被支配-从属阶级斗争和资本主义全球掠夺所撕裂的冲突体（符合[[Revolutionism|革命主义]]传统）。(引自 [[Argument_Klerides_2023_CE|Klerides, 2023, p. 417]])
 > - **方法论** 打破[[Methodological Statism|方法论国家主义]]（[[Methodological Nationalism]]），在跨国及全球尺度下聚焦资本流转与话语剥削链条。
-> - **规范立场** 坚定地承诺于边缘群体的解放和变革，彻底抛弃学术“[[Value Neutrality|价值中立]]”（Value Neutrality）的客观面具。
+> - **规范立场** 坚定地承诺于边缘群体的解放和变革，彻底抛弃学术“[[Value Neutrality|价值中立]]”（[[VALUE Rubrics|VALUE]] Neutrality）的客观面具。
 
 > [!debates] 理论争议
 >
@@ -160,7 +161,7 @@ updated: 2026-07-09
 > > - **后/去殖民学者 (Silova / Mignolo)** 拒绝依附论的社会主义替代方案，指出社会主义依然是西方现代性的普遍主义宏大叙事产物，主张必须与西方认识型彻底脱钩以引入南方知识体系。(引自 [[Argument_Klerides_2023_CE|Klerides, 2023, p. 428]])
 
 > [!critique] 外部批评
-> - **能动性的虚无主义** 批评者（如后殖民主义学者）指出，依附论过于强调资本主义世界体系对边缘教育系统的结构性决定作用，导致边缘本土学校和能动主体的微观反抗、选择性借用及杂糅[[Praxis|实践]]在理论上被完全消解，沦为被动受害者。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 428]])
+> - **能动性的虚无主义** 批评者（如后殖民主义学者）指出，依附论过于强调资本主义世界体系对边缘教育系统的结构性决定作用，导致边缘本土学校和能动主体的微观反抗、选择性借用及杂糅实践在理论上被完全消解，沦为被动受害者。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 428]])
 
 > [!warning] 适用局限
 > 在新自由主义全球化的分散权威与网络流转现实中，单纯的“中心-边缘”二元单向输送模型已难以有效囊括多尺度、多行动者（跨国公司、NGO、算法软件）[[Snowball Sampling|网络化]]政策博弈。([[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊, 2025, p. 5]])

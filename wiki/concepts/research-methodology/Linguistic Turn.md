@@ -15,9 +15,9 @@ tags:
   - paradigm/qualitative
 related_concepts:
   - "[[Document]]"
+  - "[[Creativity]]"
   - "[[Analytic Framework]]"
   - "[[Knowledge Framework]]"
-  - "[[Praxis]]"
   - "[[Champ]]"
 related_theories: []
 related_methods:

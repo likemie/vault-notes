@@ -7,7 +7,7 @@ summary: "丹麦教育哲学学者，Visible Learning 五线批评与纯粹评�
 type: person
 nationality: denmark
 person_region: "denmark"
-person_related_count: 17
+person_related_count: 16
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Bildung]]"
   - "[[Effect Size]]"
-  - "[[Praxis]]"
   - "[[Document]]"
   - "[[Surface and Deep Learning]]"
   - "[[Pragmatic Paradigm]]"

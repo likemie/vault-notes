@@ -11,9 +11,9 @@ subtype: policy
 region: global
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 5
+fact_related_count: 4
 fact_related_level: 0
-fact_related_stars: ""
+fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
 issuing_organization: ''
 tags:
@@ -21,7 +21,6 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Academic Freedom]]"
-  - "[[Praxis]]"
 related_theories: []
 related_methods: []
 related_persons: []

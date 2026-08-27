@@ -12,7 +12,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 3
+fact_related_count: 2
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
@@ -24,7 +24,6 @@ tags:
   - region/uk
 related_concepts:
   - "[[Attrition]]"
-  - "[[Praxis]]"
 related_theories: []
 related_methods: []
 related_instruments: []

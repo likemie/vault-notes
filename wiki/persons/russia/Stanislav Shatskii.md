@@ -9,9 +9,9 @@ summary: "苏俄进步主义教育改革家，十月革命前后在俄国农村�
 type: person
 nationality: russia
 person_region: "russia"
-person_related_count: 5
+person_related_count: 4
 person_related_level: 0
-person_related_stars: ""
+person_related_stars: "☆"
 person_related_color: "#e5e7eb"
 tags:
   - field/progressive-education
@@ -20,7 +20,6 @@ tags:
   - theme/educational-reform
 related_concepts:
   - "[[Progressive Education]]"
-  - "[[Praxis]]"
 related_theories: []
 related_methods: []
 related_persons:

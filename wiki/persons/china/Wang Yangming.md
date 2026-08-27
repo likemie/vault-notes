@@ -23,10 +23,10 @@ tags:
 - school/yangming-school
 related_concepts:
   - "[[Self-Cultivation]]"
-  - "[[Praxis]]"
   - "[[Sage]]"
   - "[[Dialogue in Education]]"
   - "[[Four Sprouts]]"
+  - "[[Praxis]]"
   - "[[Subjectivism]]"
 related_theories:
   - "[[Neo-Confucianism]]"

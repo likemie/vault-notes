@@ -34,7 +34,7 @@ related_concepts:
   - "[[New Geopolitics]]"
   - "[[Champ]]"
   - "[[Knowledge-Based Economization]]"
-  - "[[Praxis]]"
+  - "[[Creativity]]"
   - "[[Global Universities Rankings]]"
   - "[[Further Education]]"
   - "[[Bildung]]"

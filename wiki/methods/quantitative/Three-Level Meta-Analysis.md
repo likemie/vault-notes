@@ -10,7 +10,7 @@ summary: "处理同一原始研究内报告多个相关效应量所致统计依�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 33
+method_related_count: 34
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -50,6 +50,7 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Robust Variance Estimation]]"
   - "[[Systematic Review]]"
+  - "[[PRISMA]]"
   - "[[Effect Size Conversion]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Moderator Analysis]]"

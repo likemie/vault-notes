@@ -17,11 +17,11 @@ tags:
   - teacher-education
   - reflective-practice
 related_concepts:
-  - "[[Praxis]]"
   - "[[Knowledge Production]]"
   - "[[Professional Judgment]]"
   - "[[Didaktik]]"
   - "[[Reflexivity]]"
+  - "[[Praxis]]"
   - "[[Epistemology]]"
   - "[[Positivism]]"
   - "[[Paradigm]]"

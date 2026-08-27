@@ -6,7 +6,7 @@ aliases:
 summary: "量化研究中可被测量或观察且在不同个体或组织之间变化的特征或属性，是构建理论、提出假设和检验因果关系的基本分析单位"
 type: concept
 domain: "research-methodology"
-related_count: 19
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,7 +18,6 @@ related_concepts:
   - "[[Causality]]"
   - "[[Definition of Terms]]"
   - "[[Questionnaire]]"
-  - "[[Praxis]]"
   - "[[Construct]]"
   - "[[Operationalization]]"
   - "[[Independent Variable]]"

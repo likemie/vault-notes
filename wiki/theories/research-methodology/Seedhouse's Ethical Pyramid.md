@@ -8,7 +8,7 @@ aliases:
 summary: "Seedhouse提出的四层伦理决策模型，将伦理考量分为外部层、后果层、道义层和个体层，构成思考研究伦理问题的认识论装置"
 type: theory
 theory_field: "research-methodology"
-theory_related_count: 6
+theory_related_count: 5
 theory_related_level: 0
 theory_related_stars: ""
 theory_related_color: "#e5e7eb"
@@ -18,7 +18,6 @@ tags:
 related_concepts:
   - "[[Analytic Framework]]"
   - "[[Research Ethics]]"
-  - "[[Praxis]]"
   - "[[Evaluation Research]]"
   - "[[Institutional Review Board]]"
 related_theories: []
@@ -55,7 +54,7 @@ updated: 2026-06-19
 > [!proposition-chain] 命题链：从外到内的伦理考量
 
 > [!claim] 外部层（External）：行为受外部规范约束
-> 伦理决策的第一层考量是外部规范——包括法律、制度规定和专业[[Praxis|实践]]守则。研究者的行为首先必须符合这些外在的、可强制执行的标准（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 76–77]]）。
+> 伦理决策的第一层考量是外部规范——包括法律、制度规定和专业实践守则。研究者的行为首先必须符合这些外在的、可强制执行的标准（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 76–77]]）。
 
 > [!claim] 后果层（Consequential）：评估行为对各方的影响
 > 第二层考量行为的后果——对参与个体、相关群体和整个社会的实际影响。这一层迫使研究者跳出自身视角，系统[[Evaluation Research|评估研究]]的可能收益和潜在伤害（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 76–77]]）。

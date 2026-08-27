@@ -9,7 +9,7 @@ title: "Argument_Partaken_2022_Springer"
 argument_key: "Argument_Partaken_2022_Springer"
 argument_display_title: "Two faces of geopolitics of knowledge"
 argument_kind: "book"
-argument_related_count: 42
+argument_related_count: 41
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -37,7 +37,6 @@ related_concepts:
   - "[[Cultural Hierarchy]]"
   - "[[Blue Skies Research]]"
   - "[[Junzi]]"
-  - "[[Praxis]]"
   - "[[Axiology]]"
   - "[[Analytic Framework]]"
   - "[[Technology Transfer]]"

@@ -6,9 +6,9 @@ aliases:
 summary: "以 Bourdieu、Coleman and Putnam 为代表的跨学科理论，将社会关系网络、信任、规范和互惠性视为一种可产生经济和社会回报的资本形式。ODwyer 等（2023）将其应用于产学合作网络演化，揭示声誉基础的信任和诚信基础的信任在合作不同阶段的差异化作用"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 4
+theory_related_count: 5
 theory_related_level: 0
-theory_related_stars: "☆"
+theory_related_stars: ""
 theory_related_color: "#e5e7eb"
 tags:
   - theme/social-capital
@@ -17,6 +17,7 @@ tags:
 related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Analytic Framework]]"
+  - "[[Research Utilization]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -40,7 +41,7 @@ updated: 2026-06-10
 
 社会资本理论为理解产学合作中的三个核心问题提供了[[Analytic Framework|分析框架]]：
 - **信任如何建立和演化** 声誉基础的信任与诚信基础的信任在合作不同阶段发挥不同作用
-- **合作网络如何降低交易成本** 凝聚性和互惠性使合作者敢于从知识利用转向知识探索
+- **合作网络如何降低交易成本** 凝聚性和互惠性使合作者敢于从[[Research Utilization|知识利用]]转向知识探索
 - **先前经验如何转化为合作优势** 产业伙伴之间通过已有网络（如 IBEC R&D 小组）建立的熟悉度是胚胎期最关键的社会资本
 
 ---

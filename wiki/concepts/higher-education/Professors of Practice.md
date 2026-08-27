@@ -7,7 +7,7 @@ aliases:
 summary: "大学基于产业经验而非传统学术资质聘任的全职或兼职教师，在产学合作中充当产业向大学知识流动的重要渠道"
 type: concept
 domain: "higher-education"
-related_count: 7
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -15,7 +15,6 @@ tags:
   - "theme/university-industry-collaboration"
   - "level/higher-education"
 related_concepts:
-  - "[[Praxis]]"
   - "[[University-Industry Collaboration]]"
   - "[[Flow]]"
 related_theories: []

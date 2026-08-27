@@ -7,10 +7,10 @@ summary: "日内瓦国际学校社会研究教师与早期 IB 草根倡议者，
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 8
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 7
+person_related_level: 0
+person_related_stars: ""
+person_related_color: "#e5e7eb"
 tags:
   - region/us
   - field/international-education
@@ -18,7 +18,6 @@ tags:
 related_concepts:
   - "[[International Schools]]"
   - "[[International Baccalaureate]]"
-  - "[[Praxis]]"
   - "[[Theory of Knowledge]]"
 related_theories: []
 related_methods: []

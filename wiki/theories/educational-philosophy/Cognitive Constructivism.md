@@ -7,7 +7,7 @@ aliases:
 summary: "一种将知识视为存在于个体头脑中的内部结构，将学习视为个体同化与顺应外部信息的内部心理过程的理论范式。它是个体认识论研究早期的主导范式。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 14
+theory_related_count: 13
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
   - "[[Paradigm Wars]]"
-  - "[[Praxis]]"
 related_theories:
   - "[[Situative Perspective]]"
   - "[[Integrative Pluralism]]"
@@ -97,7 +96,7 @@ updated: 2026-08-19
 > > - **[[Integrative Pluralism|整合多元主义]]（[[Integrative Pluralism]]）** 则试图在更高的元理论层面上保留个体建构主义的合法性，认为它在探究“个体层级（Individual level）”的认知资源时仍然具有不可替代的价值。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016)]]
 
 > [!warning] 测量的方法论悖论
-> Sandoval (2016) 尖锐地指出了认知建构派在方法论上的“脱域悖论”：建构派大量使用的自陈量表，要求受试者将日常[[Praxis|实践]]中处于缄默（tacit）状态的隐性承诺，强行转化为脱离任何具体实践语境的显性陈述。这种测量根本无法反映个体在面临真实复杂挑战时的行为逻辑。
+> Sandoval (2016) 尖锐地指出了认知建构派在方法论上的“脱域悖论”：建构派大量使用的自陈量表，要求受试者将日常实践中处于缄默（tacit）状态的隐性承诺，强行转化为脱离任何具体实践语境的显性陈述。这种测量根本无法反映个体在面临真实复杂挑战时的行为逻辑。
 
 ---
 

@@ -11,7 +11,7 @@ summary: "美国保守派教育学者、元分析专家与福音派传教士，�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 10
+person_related_count: 9
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Whole Language]]"
   - "[[Effect Size]]"
-  - "[[Praxis]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"

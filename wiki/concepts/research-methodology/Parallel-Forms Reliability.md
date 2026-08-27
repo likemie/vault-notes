@@ -9,7 +9,7 @@ aliases:
 summary: "使用相似测量工具评估同一构念时所得结果的一致性程度，属于跨形式之间一致性的等值系数"
 type: concept
 domain: "research-methodology"
-related_count: 11
+related_count: 10
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Pre-test and Post-test]]"
   - "[[Test-Retest Reliability]]"
   - "[[Construct]]"
-  - "[[Praxis]]"
   - "[[Internal Consistency]]"
 related_theories: []
 related_methods:

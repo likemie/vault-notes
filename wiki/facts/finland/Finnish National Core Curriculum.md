@@ -9,7 +9,7 @@ subtype: policy
 region: finland
 fact_region: "finland"
 fact_kind: "policy"
-fact_related_count: 14
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Didaktik]]"
   - "[[Performance Indicators]]"
   - "[[Epochal Key Problems]]"
-  - "[[Praxis]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Champ]]"
   - "[[Atomisation of Knowledge and Skills]]"

@@ -9,7 +9,7 @@ subtype: event
 region: ireland
 fact_region: "ireland"
 fact_kind: "event"
-fact_related_count: 5
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#fef3c7"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Reliability]]"
   - "[[Technology Transfer Office]]"
+  - "[[Research Utilization]]"
 related_theories:
   - "[[UIC Evolutionary Phases]]"
 related_methods: []

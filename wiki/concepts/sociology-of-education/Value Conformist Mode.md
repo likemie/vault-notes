@@ -7,7 +7,7 @@ aliases:
 summary: "毕业出路分化中的一种类型，以直觉依赖和强价值信念结合为特征，通过内化学校理想与主流规范获得体制赞助性流动"
 type: concept
 domain: "sociology-of-education"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -35,6 +35,8 @@ related_facts:
   - "[[Recommendation-Based Graduate Admission System]]"
 related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
+related_instruments:
+  - "[[VALUE Rubrics]]"
 confidence: medium
 status: draft
 created: 2026-05-09

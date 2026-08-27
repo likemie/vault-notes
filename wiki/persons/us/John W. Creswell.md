@@ -9,7 +9,7 @@ summary: "美国混合方法研究方法论学者，密歇根大学家庭医学�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 13
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -20,7 +20,6 @@ tags:
   - research-design
 related_concepts:
   - "[[Sage]]"
-  - "[[Praxis]]"
   - "[[Paradigm]]"
 related_theories:
   - "[[Phenomenology]]"

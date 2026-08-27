@@ -46,7 +46,6 @@ related_instruments:
   - "[[VALUE Rubrics]]"
 related_persons: []
 related_facts:
-  - "[[Council for Aid to Education]]"
   - "[[TECO Project]]"
 related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"

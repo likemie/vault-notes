@@ -26,10 +26,10 @@ related_concepts:
   - "[[Power-Geometries]]"
   - "[[Heterogeneity]]"
   - "[[Emergence]]"
+  - "[[Creativity]]"
   - "[[Classical Geopolitics]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Scale in Higher Education]]"
-  - "[[Praxis]]"
   - "[[Hypothesis]]"
   - "[[Geopolitics of Higher Education]]"
 related_theories:

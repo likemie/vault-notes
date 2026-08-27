@@ -17,7 +17,7 @@ tags:
   - paradigm/critical
   - region/france
 related_concepts:
-  - "[[Praxis]]"
+  - "[[Creativity]]"
   - "[[Subjectivism]]"
   - "[[Objectivism]]"
   - "[[Growth]]"

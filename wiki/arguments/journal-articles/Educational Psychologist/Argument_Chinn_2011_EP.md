@@ -45,7 +45,8 @@ related_theories:
   - "[[Reliabilism]]"
   - "[[Expanded Framework of Epistemic Cognition]]"
 related_methods: []
-related_instruments: []
+related_instruments:
+  - "[[VALUE Rubrics]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -60,7 +61,7 @@ title: "Argument_Chinn_2011_EP"
 argument_key: "Argument_Chinn_2011_EP"
 argument_display_title: "Expanding the Dimensions of Epistemic Cognition: Arguments From Philosophy and Psychology"
 argument_kind: "journal-article"
-argument_related_count: 28
+argument_related_count: 29
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"

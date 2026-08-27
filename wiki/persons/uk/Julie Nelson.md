@@ -7,10 +7,10 @@ summary: "英国教育研究者，证据知情实践概念整合与测量工具�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 8
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 7
+person_related_level: 0
+person_related_stars: ""
+person_related_color: "#e5e7eb"
 tags:
 - julie-nelson
 - evidence-informed-practice
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Evidence-Informed Practice]]"
   - "[[Research Utilization]]"
   - "[[Professional Judgment]]"
-  - "[[Praxis]]"
 related_theories: []
 related_methods:
   - "[[Pilot Testing]]"

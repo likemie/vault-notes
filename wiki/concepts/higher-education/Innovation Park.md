@@ -20,7 +20,6 @@ tags:
 related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Technology Transfer Office]]"
-  - "[[Praxis]]"
   - "[[Innovation Hub]]"
   - "[[Asset Mapping]]"
   - "[[Presence]]"
@@ -34,6 +33,8 @@ related_facts:
 related_arguments:
   - "[[Argument_Boccanfuso_Hall_2025_OrgStrategy]]"
   - "[[Argument_Byrne_2025_InnovationCenters]]"
+related_instruments:
+  - "[[VALUE Rubrics]]"
 confidence: medium
 status: draft
 created: 2026-05-27

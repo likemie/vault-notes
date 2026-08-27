@@ -10,21 +10,31 @@ aliases:
 summary: "教师专业发展与循证教育中的核心概念，将教师对科研的参与区分为开展研究（Engagement in research，作为研究者进行行动研究）与使用研究（Engagement with research，作为利用者阅读文献并融入教学决策）两种互补模式。"
 type: concept
 domain: "teacher-education"
-related_count: 5
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 15
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept/teacher-education
   - theme/research-use
   - theme/evidence-based-education
 related_concepts:
+  - "[[Document]]"
+  - "[[Dialogue in Education]]"
+  - "[[Knowledge Production]]"
+  - "[[Paradigm]]"
   - "[[Research Literacy]]"
   - "[[Literature Search]]"
-  - "[[Dialogue in Education]]"
+  - "[[Interaction Effect]]"
+  - "[[Research Utilization]]"
+  - "[[Effect Size]]"
+  - "[[Dependent Variable]]"
+  - "[[Variable]]"
 related_theories: []
 related_methods:
   - "[[Action Research]]"
+  - "[[Systematic Review]]"
+  - "[[Analysis of Variance]]"
 related_instruments: []
 related_persons: []
 related_facts: []

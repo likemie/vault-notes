@@ -7,7 +7,7 @@ summary: "质性研究中研究者同时扮演参与者和观察者角色，通�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 43
+method_related_count: 42
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -16,7 +16,6 @@ tags:
   - paradigm/qualitative
   - method/ethnography
 related_concepts:
-  - "[[Praxis]]"
   - "[[Champ]]"
   - "[[Rich and Thick Description]]"
   - "[[Epistemology]]"

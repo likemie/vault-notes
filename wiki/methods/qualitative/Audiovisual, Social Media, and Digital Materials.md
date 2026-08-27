@@ -10,14 +10,15 @@ summary: "质性研究中以照片、录像、艺术品、网站、社交媒体�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 7
-method_related_level: 0
-method_related_stars: ""
+method_related_count: 8
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/qualitative
   - research-methodology
 related_concepts:
+  - "[[Creativity]]"
   - "[[Visual Data]]"
   - "[[Assertiveness]]"
 related_theories: []

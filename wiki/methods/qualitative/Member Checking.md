@@ -9,9 +9,9 @@ summary: "质性研究中将最终报告或特定描述和主题带回给参与�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 16
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 15
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/qualitative
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Qualitative Validity]]"
   - "[[Reflexivity]]"
   - "[[Informed Consent]]"
-  - "[[Praxis]]"
   - "[[Research Ethics]]"
 related_methods:
   - "[[Qualitative Research]]"

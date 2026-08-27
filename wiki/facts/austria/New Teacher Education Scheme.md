@@ -10,9 +10,9 @@ subtype: policy
 region: austria
 fact_region: "austria"
 fact_kind: "policy"
-fact_related_count: 4
+fact_related_count: 7
 fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_stars: ""
 fact_related_color: "#dbeafe"
 issuing_organization: "奥地利联邦教育、科学与研究部（BMBWF）"
 tags:
@@ -21,9 +21,12 @@ tags:
   - theme/competence-framework
   - theme/higher-order-thinking
 related_concepts:
-  - "[[Critical Thinking]]"
-  - "[[Higher-Order Thinking Skills]]"
   - "[[Reflective Thinking]]"
+  - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[Classroom Management]]"
+  - "[[Authentic Assessment]]"
+  - "[[Formative Assessment]]"
+  - "[[Higher-Order Thinking Skills]]"
 related_theories: []
 related_methods: []
 related_instruments: []

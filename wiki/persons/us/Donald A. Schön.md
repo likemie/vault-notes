@@ -8,10 +8,10 @@ summary: "美国哲学家和组织学习学者，反思性实践者与技术理�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 8
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 7
+person_related_level: 0
+person_related_stars: ""
+person_related_color: "#e5e7eb"
 tags:
 - schon
 - professional-practice
@@ -19,7 +19,6 @@ tags:
 - paradigm/pragmatist
 - region/us
 related_concepts:
-  - "[[Praxis]]"
   - "[[Reflexivity]]"
   - "[[Technical Rationality]]"
   - "[[Positivism]]"

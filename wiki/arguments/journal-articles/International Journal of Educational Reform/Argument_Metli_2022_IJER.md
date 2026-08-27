@@ -37,6 +37,7 @@ related_concepts:
   - "[[Literature Review]]"
   - "[[Reliability]]"
   - "[[Hypothesis]]"
+  - "[[Concept Mapping]]"
   - "[[Approaches to Teaching and Learning]]"
   - "[[Document]]"
 related_theories: []
@@ -64,7 +65,7 @@ title: "Argument_Metli_2022_IJER"
 argument_key: "Argument_Metli_2022_IJER"
 argument_display_title: "Concurrency of Learning: Strategies and Challenges of Promoting Coherence in the Core in the International Baccalaureate Diploma Programme (IBDP)"
 argument_kind: "journal-article"
-argument_related_count: 30
+argument_related_count: 31
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"

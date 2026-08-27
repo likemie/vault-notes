@@ -7,7 +7,7 @@ summary: "研究者编撰关于自己生活或情境的个人化、主观性叙�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 14
+method_related_count: 13
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -16,7 +16,6 @@ tags:
   - paradigm/qualitative
 related_concepts:
   - "[[Reflexivity]]"
-  - "[[Praxis]]"
   - "[[Epistemology]]"
   - "[[Dialogue in Education]]"
   - "[[Research Question]]"

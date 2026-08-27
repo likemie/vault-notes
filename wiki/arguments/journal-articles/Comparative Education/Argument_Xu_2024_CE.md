@@ -9,7 +9,7 @@ title: "Argument_Xu_2024_CE"
 argument_key: "Argument_Xu_2024_CE"
 argument_display_title: "'One country, two narratives' of China as a nation: comparing Chinese history education in mainland China and Hong Kong"
 argument_kind: "journal-article"
-argument_related_count: 18
+argument_related_count: 17
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Zhonghua Minzu]]"
   - "[[Sinicisation]]"
   - "[[One Country, Two Systems]]"
-  - "[[Praxis]]"
   - "[[Imagined Community]]"
   - "[[Official Knowledge]]"
   - "[[Value Neutrality]]"

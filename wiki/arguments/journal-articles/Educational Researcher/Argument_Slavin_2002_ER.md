@@ -22,7 +22,6 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Clinical Trial]]"
   - "[[Blue Skies Research]]"
-  - "[[Praxis]]"
   - "[[Document]]"
   - "[[Evidence-Based Reform]]"
   - "[[Research Utilization]]"
@@ -51,9 +50,9 @@ title: "Argument_Slavin_2002_ER"
 argument_key: "Argument_Slavin_2002_ER"
 argument_display_title: "Evidence-based education policies: Transforming educational practice and research"
 argument_kind: "journal-article"
-argument_related_count: 15
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 14
+argument_related_level: 0
+argument_related_stars: ""
 argument_related_color: "#dbeafe"
 journal: "Educational Researcher"
 book_title: ""

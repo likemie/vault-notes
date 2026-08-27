@@ -7,10 +7,10 @@ summary: "中国历史学家与文化保守主义代表人物，新亚书院创�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 8
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 7
+person_related_level: 0
+person_related_stars: ""
+person_related_color: "#e5e7eb"
 tags:
   - region/china
   - region/hong-kong
@@ -21,7 +21,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Sinicisation]]"
   - "[[Zhonghua Minzu]]"
-  - "[[Praxis]]"
   - "[[Official Knowledge]]"
 related_theories: []
 related_methods: []

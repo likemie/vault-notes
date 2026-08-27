@@ -11,18 +11,23 @@ subtype: event
 region: uk
 fact_region: "uk"
 fact_kind: "event"
-fact_related_count: 4
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 9
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
 tags:
   - fact/uk
   - theme/teacher-education
   - theme/evidence-based-education
 related_concepts:
+  - "[[Evidence-Based Education]]"
   - "[[Research Literacy]]"
+  - "[[Engagement in and with Research]]"
+  - "[[Document]]"
+  - "[[Paradigm]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Scale Development]]"
 related_instruments: []
 related_persons: []
 related_facts:

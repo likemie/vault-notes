@@ -12,7 +12,7 @@ subtype: policy
 region: china
 fact_region: "china"
 fact_kind: "policy"
-fact_related_count: 14
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -24,7 +24,6 @@ tags:
   - period/late-qing
   - comparative-education
 related_concepts:
-  - "[[Praxis]]"
   - "[[Bildung]]"
   - "[[Self-Cultivation]]"
   - "[[Champ]]"

@@ -9,7 +9,7 @@ subtype: policy
 region: sweden
 fact_region: "sweden"
 fact_kind: "policy"
-fact_related_count: 7
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dbeafe"
@@ -21,7 +21,6 @@ tags:
   - theme/systematic-review
   - policy/evidence-informed-policy
 related_concepts:
-  - "[[Praxis]]"
   - "[[Dialogue in Education]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Educational Evidence Clearinghouses]]"

@@ -9,7 +9,7 @@ summary: "规范系统综述与元分析检索、筛选、纳入与透明化报�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 34
+method_related_count: 37
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Critical Thinking]]"
   - "[[Epistemic Cognition]]"
+  - "[[Research Utilization]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
@@ -50,6 +51,7 @@ related_methods:
   - "[[Meta-regression]]"
   - "[[Meta-meta-analysis]]"
   - "[[Intervention Research]]"
+  - "[[Critical Review]]"
 related_instruments:
   - "[[AMSTAR]]"
 related_persons: []
@@ -60,6 +62,7 @@ related_arguments:
   - "[[Argument_Park_2026_TSC]]"
   - "[[Argument_Song_Choi_2026_FPSYG]]"
   - "[[Argument_Abrami_2015_RER]]"
+  - "[[Argument_Mausethagen_2025_ERR]]"
 confidence: high
 status: draft
 created: 2026-08-25

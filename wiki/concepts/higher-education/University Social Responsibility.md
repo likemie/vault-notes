@@ -7,7 +7,7 @@ aliases:
 summary: "大学对多元利益相关者和社会议题保持制度化回应与公共责任的取向，用于组织大学的社会参与、伦理承诺和公共使命。"
 type: concept
 domain: "higher-education"
-related_count: 12
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,7 +21,6 @@ related_concepts:
   - "[[Technology Transfer]]"
   - "[[Global Citizenship]]"
   - "[[Otherhood]]"
-  - "[[Praxis]]"
   - "[[Document]]"
 related_theories:
   - "[[World Society Theory]]"

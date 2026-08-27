@@ -9,10 +9,10 @@ aliases:
 summary: "宋明时期儒学复兴运动，以程朱理学与陆王心学为代表，将天理与修身关联，重建儒家学习传统的理论根基"
 type: theory
 theory_field: "chinese-philosophy"
-theory_related_count: 16
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_count: 15
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
   - region/china
   - theory/confucianism
@@ -21,7 +21,6 @@ related_concepts:
   - "[[Sage]]"
   - "[[Self-Cultivation]]"
   - "[[Four Sprouts]]"
-  - "[[Praxis]]"
   - "[[Take the World Upon Oneself]]"
   - "[[Learning Virtues]]"
   - "[[Humility in Learning]]"

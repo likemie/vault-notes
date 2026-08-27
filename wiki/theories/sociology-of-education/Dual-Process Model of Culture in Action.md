@@ -7,7 +7,7 @@ aliases:
 summary: "解释行动为何同时受反思性策略与深层价值倾向驱动的文化社会学理论，强调两种过程在不同意识层次上并存"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 17
+theory_related_count: 18
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
   - "[[Ontology]]"
+  - "[[Creativity]]"
   - "[[Champ]]"
   - "[[Graduation Pathway Typology]]"
 related_theories:
@@ -109,7 +110,7 @@ Vaisey 援引认知科学的双过程发现，区分两种意识层次的认知�
 ## 认识论立场
 
 > [!info]
-> - **[[Ontology|本体论]]** 文化图式是认知结构，其内化存在深浅层次——从自动化、无意识的[[Praxis|实践]]意识（深层），到可被灵活调取和操控的显性知识（浅层）。这一立场兼容Bourdieu的[[Habitus|习性]]概念（作为深层内化）和 Swidler 的[[Culture as Toolkit|文化工具箱]]（作为浅层内化）（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Vaisey, 2009）。
+> - **[[Ontology|本体论]]** 文化图式是认知结构，其内化存在深浅层次——从自动化、无意识的实践意识（深层），到可被灵活调取和操控的显性知识（浅层）。这一立场兼容Bourdieu的[[Habitus|习性]]概念（作为深层内化）和 Swidler 的[[Culture as Toolkit|文化工具箱]]（作为浅层内化）（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Vaisey, 2009）。
 > - **方法论**Vaisey (2009) 论证双过程模型需要结合定量与定性方法——深层文化图式适合通过调查实验和迫选问题测量，浅层文化图式适合通过访谈和[[Discourse Analysis|话语分析]]获取。
 
 ---
@@ -119,7 +120,7 @@ Vaisey 援引认知科学的双过程发现，区分两种意识层次的认知�
 > [!warning]
 > - **认知科学基础的简化** Vaisey 援引的认知双过程理论（如 Kahneman 系统一/系统二）本身在认知科学界存在争议——双过程是否真正独立、抑或是一个连续统的不同阶段，尚无定论（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）。
 > - **实证操作的困难** 如何在经验研究中有效区分深层内化和浅层内化的文化图式？Vaisey (2009) 提出的迫选法 (forced-choice) 与访谈法 (discursive) 的区分是否可靠，仍有待验证。
-> - **教育研究中的中介应用**[[Yajun Zheng|郑雅君]] 对 Vaisey 模型的应用是创造性的，但将两个维度直接对应于两种模式的做法，省略了 Vaisey 原模型中更细致的层次区分。
+> - **教育研究中的中介应用**[[Yajun Zheng|郑雅君]] 对 Vaisey 模型的应用是[[Creativity|创造性]]的，但将两个维度直接对应于两种模式的做法，省略了 Vaisey 原模型中更细致的层次区分。
 
 ---
 

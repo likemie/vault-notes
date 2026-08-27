@@ -7,7 +7,7 @@ summary: "英国社会学家和政治经济学家，文化政治经济学代表�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 13
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Cultural Diplomacy]]"
-  - "[[Praxis]]"
   - "[[Reflexivity]]"
   - "[[Hub and Flow Imaginaries]]"
   - "[[Flow]]"

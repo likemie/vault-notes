@@ -26,7 +26,7 @@ related_concepts:
   - "[[Questionnaire]]"
   - "[[Variable]]"
   - "[[Independent Variable]]"
-  - "[[Praxis]]"
+  - "[[Creativity]]"
 related_theories: []
 related_methods:
   - "[[Longitudinal Study]]"

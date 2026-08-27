@@ -10,7 +10,7 @@ subtype: policy
 region: "china"
 fact_region: "china"
 fact_kind: "policy"
-fact_related_count: 8
+fact_related_count: 9
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Rote Learning]]"
   - "[[Critical Thinking]]"
   - "[[Learner-Centred Education]]"
+  - "[[Higher-Order Thinking Skills]]"
   - "[[Transfer Translation Transformation]]"
 related_theories: []
 related_methods: []

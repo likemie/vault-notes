@@ -13,7 +13,7 @@ title: "Argument_Brady_2023_EPR"
 argument_key: "Argument_Brady_2023_EPR"
 argument_display_title: "How scientific is educational psychology research? The increasing trend of squeezing causality and recommendations from non-intervention studies"
 argument_kind: "journal-article"
-argument_related_count: 18
+argument_related_count: 17
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -28,7 +28,6 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Recommendations for Practice]]"
-  - "[[Praxis]]"
   - "[[Hypothesis]]"
   - "[[Causality]]"
   - "[[Multimethod Research]]"

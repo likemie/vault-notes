@@ -10,7 +10,7 @@ summary: "一种让参与者在具身虚构情境中公开扮演他人角色的�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 18
+method_related_count: 19
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Dramatic Tension]]"
   - "[[Heterogeneity]]"
   - "[[Document]]"
+  - "[[Authentic Assessment]]"
   - "[[Conflict of Interest in Research]]"
 related_theories: []
 related_methods:

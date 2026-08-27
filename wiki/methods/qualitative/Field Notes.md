@@ -7,7 +7,7 @@ summary: "质性研究中研究者在观察现场或观察后尽快记录的文�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 11
+method_related_count: 10
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -27,7 +27,6 @@ related_arguments:
 related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Transcription in Qualitative Research]]"
-  - "[[Praxis]]"
   - "[[Covert Research]]"
   - "[[Questionnaire]]"
 confidence: medium

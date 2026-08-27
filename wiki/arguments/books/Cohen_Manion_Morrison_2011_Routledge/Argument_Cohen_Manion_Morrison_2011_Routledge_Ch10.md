@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_display_title: "Research Methods in Education · Ch10"
 argument_kind: "book-chapter"
-argument_related_count: 129
+argument_related_count: 128
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -86,7 +86,6 @@ related_concepts:
   - "[[Literature Search]]"
   - "[[Cross-cultural Validity]]"
   - "[[Ecological Fallacy]]"
-  - "[[Praxis]]"
   - "[[Scale of Measurement]]"
   - "[[Cultural Validity]]"
   - "[[Response Bias]]"

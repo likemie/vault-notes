@@ -7,7 +7,7 @@ aliases:
 summary: "由 Rauste-von Wright 提出，将杜威的反思概念与米德的社会互动论相融合，主张学习是身心与环境具身交互的情境化过程"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 13
+theory_related_count: 14
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Phenomenon-Based Learning]]"
   - "[[Praxis]]"
+  - "[[Mind Mapping]]"
   - "[[Epistemology]]"
   - "[[Ontology]]"
   - "[[Reflexivity]]"
@@ -75,7 +76,7 @@ updated: '2026-06-22'
 > [!proposition-chain] 核心命题
 > - **前提一（[[John Dewey|杜威]]的反思）** 个体并非被动接受外部信息的容器，而是在面临新经验的挑战时，通过主动反思（Reflection）构建并重组自身的认知图式（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 7–8]]）。
 > - **前提二（[[George Herbert Mead|米德]]的具身与社会互动）** 个体心智的发生与身体经验、自然及社会环境构成密不可分的联合系统。学习必须在主体间的社会互动（Social interaction）中实现（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 8]]）。
-> - **机制（自我修正）** 当学生将自身的生活世界经验带入学习情境，通过与环境、同伴和教师的交互探究，旧有认知与新体验发生碰撞，不断促成主体心智图式的自我更新与修正。
+> - **机制（自我修正）** 当学生将自身的生活世界经验带入学习情境，通过与环境、同伴和教师的交互探究，旧有认知与新体验发生碰撞，不断促成主体[[Mind Mapping|心智图]]式的自我更新与修正。
 > - **结果判断** 有效的教育必须植根于学生的生活世界与真实经历，课程不应在教学前被绝对固化，而必须作为反思实践的工具在交互中动态修正。
 
 > [!mechanism-map]- 机制图

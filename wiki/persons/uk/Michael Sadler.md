@@ -8,7 +8,7 @@ summary: "英国比较教育先驱与历史主义学派代表人物，主持教�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 16
+person_related_count: 17
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -38,6 +38,8 @@ related_arguments:
   - "[[Argument_Cowen_2023_CE]]"
   - "[[Argument_Cowen_2009_CE]]"
   - "[[Argument_Rappleye_2006_RCIE]]"
+related_instruments:
+  - "[[VALUE Rubrics]]"
 confidence: high
 status: draft
 created: '2026-06-08'

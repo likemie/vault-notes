@@ -7,7 +7,7 @@ summary: "英国教育学者，教育领导力知识政治与政策批判研究�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 11
+person_related_count: 10
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -17,7 +17,6 @@ tags:
 related_concepts:
   - "[[Champ]]"
   - "[[Knowledge Production]]"
-  - "[[Praxis]]"
   - "[[Emergence]]"
   - "[[Transformative Leadership]]"
   - "[[School Leadership]]"

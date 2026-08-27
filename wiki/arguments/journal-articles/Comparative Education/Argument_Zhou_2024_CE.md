@@ -28,7 +28,6 @@ tags:
 related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Pragmatism in China]]"
-  - "[[Praxis]]"
   - "[[Democratic Education]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Scientific Attitude]]"
@@ -39,6 +38,7 @@ related_concepts:
   - "[[Knowledge Transfer]]"
   - "[[Document]]"
   - "[[Going Native]]"
+  - "[[Praxis]]"
   - "[[Growth]]"
 related_theories: []
 related_methods:

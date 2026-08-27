@@ -8,10 +8,10 @@ summary: "拉美批判教育学者，将弗莱雷传统与参与式行动研究�
 type: person
 nationality: argentina
 person_region: "argentina"
-person_related_count: 8
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 7
+person_related_level: 0
+person_related_stars: ""
+person_related_color: "#e5e7eb"
 tags:
   - person/theorist
   - participatory-action-research
@@ -20,7 +20,6 @@ tags:
 related_concepts:
   - "[[Critical Pedagogy]]"
   - "[[Epistemology]]"
-  - "[[Praxis]]"
 related_theories:
   - "[[Critical Theory]]"
 related_methods:

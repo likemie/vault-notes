@@ -7,7 +7,7 @@ summary: "德国教育学者和有效教学研究者，Unterrichtsqualität und 
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 6
+person_related_count: 7
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
@@ -18,6 +18,7 @@ tags:
 related_concepts:
   - "[[Effective Teaching]]"
   - "[[Dialogue in Education]]"
+  - "[[Creativity]]"
   - "[[Academic Achievement]]"
   - "[[Feedback]]"
   - "[[Individualised Instruction]]"

@@ -7,7 +7,7 @@ summary: "丹麦教育研究者，高绩效学校与弱势学生提升研究者�
 type: person
 nationality: denmark
 person_region: "denmark"
-person_related_count: 6
+person_related_count: 5
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
@@ -19,7 +19,6 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Classroom Management]]"
   - "[[Effective Teaching]]"
-  - "[[Praxis]]"
 related_theories: []
 related_methods: []
 related_persons: []

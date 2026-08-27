@@ -10,7 +10,7 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 26
+fact_related_count: 25
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#fef3c7"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[International Education]]"
   - "[[Governing at a Distance]]"
   - "[[Paradigm]]"
-  - "[[Praxis]]"
   - "[[Growth]]"
   - "[[Soft Power]]"
   - "[[Reference Society]]"

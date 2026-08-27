@@ -9,9 +9,9 @@ subtype: event
 region: denmark
 fact_region: "denmark"
 fact_kind: "event"
-fact_related_count: 7
-fact_related_level: 0
-fact_related_stars: ""
+fact_related_count: 8
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
 tags:
 - effective-teaching
@@ -19,6 +19,7 @@ tags:
 - level/k12
 - research-report
 related_concepts:
+  - "[[Creativity]]"
   - "[[Classroom Management]]"
   - "[[Individualised Instruction]]"
   - "[[Effective Teaching]]"

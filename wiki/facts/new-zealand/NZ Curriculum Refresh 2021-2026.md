@@ -10,7 +10,7 @@ type: fact
 subtype: policy
 fact_region: "new-zealand"
 fact_kind: "policy"
-fact_related_count: 13
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -22,7 +22,6 @@ tags:
 related_concepts:
   - "[[Outcomes-based Education]]"
   - "[[Big Ideas]]"
-  - "[[Praxis]]"
   - "[[Epistemology]]"
   - "[[Regulative and Instructional Discourse]]"
   - "[[Recontextualization]]"

@@ -5,7 +5,7 @@ summary: "以日常谈话和文本中的语言使用为研究对象的方法，�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 19
+method_related_count: 18
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -13,7 +13,6 @@ tags: [method/qualitative, data-analysis, theme/language, paradigm/interpretive,
 related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Transcription in Qualitative Research]]"
-  - "[[Praxis]]"
   - "[[Variable]]"
   - "[[Epistemology]]"
   - "[[Reflexivity]]"

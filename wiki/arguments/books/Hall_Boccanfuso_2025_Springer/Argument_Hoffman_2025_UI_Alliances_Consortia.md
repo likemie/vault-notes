@@ -16,7 +16,6 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[University-Industry Collaboration]]"
-  - "[[Praxis]]"
   - "[[Precompetitive Research]]"
   - "[[Industry Advisory Board]]"
   - "[[Industry Affiliate Program]]"
@@ -31,6 +30,7 @@ related_concepts:
   - "[[Product-Specific Research]]"
   - "[[Research Translation]]"
   - "[[Growth]]"
+  - "[[Creativity]]"
   - "[[Research Topic]]"
   - "[[Necessary and Sufficient Conditions]]"
 related_theories: []

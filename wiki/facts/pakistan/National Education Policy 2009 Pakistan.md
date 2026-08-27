@@ -10,7 +10,7 @@ subtype: policy
 region: pakistan
 fact_region: "pakistan"
 fact_kind: "policy"
-fact_related_count: 6
+fact_related_count: 5
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dbeafe"
@@ -20,7 +20,6 @@ tags:
   - policy/education
   - theme/critical-thinking
 related_concepts:
-  - "[[Praxis]]"
   - "[[Critical Thinking]]"
   - "[[Theory of Knowledge]]"
   - "[[Learner Autonomy]]"

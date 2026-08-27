@@ -11,7 +11,7 @@ subtype: policy
 region: norway
 fact_region: "norway"
 fact_kind: "policy"
-fact_related_count: 7
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dbeafe"
@@ -31,7 +31,6 @@ related_methods:
 related_instruments: []
 related_persons: []
 related_facts:
-  - "[[Norwegian Agency for Quality Assurance in Education]]"
   - "[[OECD]]"
 related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"

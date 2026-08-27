@@ -37,11 +37,13 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
   - "[[Coding in Qualitative Research]]"
-related_instruments: []
+related_instruments:
+  - "[[VALUE Rubrics]]"
 related_persons: []
 related_arguments:
   - "[[Argument_Runco_2026_CRJ]]"
   - "[[Argument_Park_2026_TSC]]"
+  - "[[Argument_Bouckaert_2023_OECD]]"
 confidence: medium
 status: draft
 created: 2026-08-24

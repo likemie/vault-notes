@@ -24,7 +24,6 @@ related_concepts:
   - "[[International Schools]]"
   - "[[Research Purpose]]"
   - "[[Evaluation Research]]"
-  - "[[Praxis]]"
   - "[[Further Education]]"
   - "[[Criterion-Referenced Test]]"
   - "[[Growth]]"
@@ -41,6 +40,7 @@ related_instruments: []
 related_persons:
   - "[[Gerard Renaud]]"
 related_facts:
+  - "[[United World Colleges]]"
   - "[[1967 Sevres International Conference on the IB]]"
   - "[[1976 Hague Intergovernmental Conference on the International Baccalaureate]]"
   - "[[International Schools Examination Syndicate]]"

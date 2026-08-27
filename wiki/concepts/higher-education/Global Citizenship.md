@@ -10,7 +10,7 @@ aliases:
 summary: "高等与基础教育语境中挑战传统国民身份的受教育者身份与品质能力分析框架。在理性主义脉络下，它表现为包含数字、文化、社会沟通及环境素养的跨界就业能力组合；在批判与革命主义视角中，它被视为缺乏精确性的“漂浮能指”，一方面为超国家组织的数据远处治理与新自由主义经济教义（如全球竞争力）背书，另一方面也构成了再西方化地缘话语的一部分。"
 type: concept
 domain: "higher-education"
-related_count: 29
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -38,7 +38,6 @@ related_concepts:
   - "[[Re-Westernisation]]"
   - "[[Revolutionism]]"
   - "[[Rationalism in International Relations]]"
-  - "[[Praxis]]"
   - "[[Variable]]"
   - "[[Questionnaire]]"
   - "[[Operationalization]]"

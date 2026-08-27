@@ -6,7 +6,7 @@ aliases:
 summary: "用于分析高等教育社会空间如何由物质结构、空间想象和社会实践共同制造的框架。"
 type: concept
 domain: "higher-education"
-related_count: 16
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -17,7 +17,6 @@ tags:
 related_concepts:
   - "[[Analytic Framework]]"
   - "[[Relational Space]]"
-  - "[[Praxis]]"
   - "[[Ontology]]"
   - "[[Reflexivity]]"
   - "[[Dialogue in Education]]"

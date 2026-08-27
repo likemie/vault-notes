@@ -12,10 +12,10 @@ tags: [theme/research-methodology, paradigm/positivism, theme/nature-of-science]
 related_concepts:
   - "[[Hypothesis]]"
   - "[[Falsification]]"
-  - "[[Praxis]]"
   - "[[Positivism]]"
   - "[[Paradigm]]"
   - "[[Formal Epistemology]]"
+  - "[[Creativity]]"
   - "[[Variable]]"
   - "[[Epistemology]]"
 related_theories: []

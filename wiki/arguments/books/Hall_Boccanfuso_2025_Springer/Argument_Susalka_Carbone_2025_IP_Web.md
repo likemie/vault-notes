@@ -14,11 +14,11 @@ tags:
   - theme/technology-transfer
 related_concepts:
   - "[[University-Industry Collaboration]]"
-  - "[[Praxis]]"
   - "[[Freedom to Operate]]"
   - "[[Foreground IP]]"
   - "[[Background IP]]"
   - "[[Technology Transfer]]"
+  - "[[Creativity]]"
   - "[[Blue Skies Research]]"
   - "[[Technology Transfer Office]]"
 related_theories: []

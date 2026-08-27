@@ -8,7 +8,7 @@ summary: "民国教育家，哥伦比亚大学师范学院毕业，杜威在华�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 15
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Scientific Attitude]]"
   - "[[Paradigm]]"
   - "[[Progressive Education]]"
-  - "[[Praxis]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Pragmatism in China]]"
 related_theories: []

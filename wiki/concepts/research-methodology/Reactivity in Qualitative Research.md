@@ -6,7 +6,7 @@ aliases:
 summary: "研究者在场改变被研究情境的现象，在质性研究中通过延长驻留、谨慎自我呈现和反身性来管理而非消除。"
 type: concept
 domain: "research-methodology"
-related_count: 21
+related_count: 20
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Educational Immunology]]"
   - "[[Research Purpose]]"
   - "[[Hypothesis]]"
-  - "[[Praxis]]"
   - "[[Blinding]]"
   - "[[Research Ethics]]"
   - "[[Habituation]]"

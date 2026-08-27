@@ -11,7 +11,7 @@ subtype: policy
 region: germany
 fact_region: "germany"
 fact_kind: "policy"
-fact_related_count: 3
+fact_related_count: 2
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
@@ -21,7 +21,6 @@ tags:
   - subject/vocational-education
   - theme/university-industry-collaboration
 related_concepts:
-  - "[[Praxis]]"
   - "[[Evaluation Research]]"
   - "[[Entrepreneurial University]]"
 related_theories: []

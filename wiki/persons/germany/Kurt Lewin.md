@@ -8,7 +8,7 @@ summary: "社会心理学创始人之一、行动研究的奠基人，提出群�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 11
+person_related_count: 10
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -20,7 +20,6 @@ tags:
   - organizational-change
 related_concepts:
   - "[[Champ]]"
-  - "[[Praxis]]"
   - "[[Gatekeepers]]"
   - "[[Teacher-as-Researcher]]"
   - "[[Reflexivity]]"

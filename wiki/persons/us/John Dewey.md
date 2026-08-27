@@ -26,7 +26,6 @@ related_concepts:
   - "[[Active Learning]]"
   - "[[Recontextualization]]"
   - "[[Democratic Education]]"
-  - "[[Praxis]]"
   - "[[Cultural Diplomacy]]"
   - "[[Critical Thinking]]"
   - "[[Dialogue in Education]]"
@@ -47,6 +46,7 @@ related_concepts:
   - "[[Critical Pedagogy]]"
   - "[[Theory of Knowledge]]"
   - "[[Habituation]]"
+  - "[[Praxis]]"
 related_theories: []
 related_methods: []
 related_persons:

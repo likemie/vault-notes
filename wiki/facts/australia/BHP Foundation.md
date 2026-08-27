@@ -8,7 +8,7 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 10
+fact_related_count: 9
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -20,7 +20,6 @@ tags:
 related_concepts:
   - "[[Venture Philanthropy]]"
   - "[[Knowledge Production]]"
-  - "[[Praxis]]"
   - "[[Value Neutrality]]"
   - "[[Policy Network]]"
   - "[[Paradigm]]"

@@ -8,7 +8,7 @@ type: fact
 subtype: organization
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 6
+fact_related_count: 5
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dcfce7"
@@ -17,7 +17,6 @@ tags:
   - "theme/corporate-engagement"
   - "level/higher-education"
 related_concepts:
-  - "[[Praxis]]"
   - "[[University-Industry Collaboration]]"
   - "[[Partnership Continuum]]"
 related_theories: []

@@ -8,10 +8,10 @@ summary: "德国哲学家与数学家，现象学的创始人，提出悬置（e
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 23
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 24
+person_related_level: 3
+person_related_stars: "⭐⭐⭐"
+person_related_color: "#ede9fe"
 tags:
   - person/philosopher
   - person/phenomenologist
@@ -45,6 +45,8 @@ related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Schaffar_2024_CogentEdu]]"
+related_instruments:
+  - "[[VALUE Rubrics]]"
 confidence: high
 status: draft
 created: 2026-06-13

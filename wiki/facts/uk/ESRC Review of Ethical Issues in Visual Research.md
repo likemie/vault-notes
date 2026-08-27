@@ -10,9 +10,9 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 8
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 7
+fact_related_level: 0
+fact_related_stars: ""
 fact_related_color: "#dbeafe"
 issuing_organization: "Economic and Social Research Council（ESRC）"
 tags:
@@ -21,7 +21,6 @@ tags:
   - region/uk
 related_concepts:
   - "[[Informed Consent]]"
-  - "[[Praxis]]"
   - "[[Visual Data]]"
   - "[[Research Ethics]]"
   - "[[Anonymity in Research]]"

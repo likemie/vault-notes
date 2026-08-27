@@ -7,7 +7,7 @@ aliases:
 summary: "Delamont (1981) 提出的民族志研究策略，通过研究非典型案例、其他文化中的类似现象、相似但不同的机构以及刻意聚焦重大议题，来克服研究者因过于熟悉研究情境而忽视隐性方面的认知盲区。"
 type: concept
 domain: "research-methodology"
-related_count: 6
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -15,7 +15,6 @@ tags:
   - paradigm/qualitative
   - method/ethnography
 related_concepts:
-  - "[[Praxis]]"
   - "[[Cognitive Shifting]]"
   - "[[Hypothesis]]"
   - "[[Reflexivity]]"

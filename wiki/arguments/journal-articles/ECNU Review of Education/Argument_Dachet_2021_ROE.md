@@ -10,7 +10,7 @@ title: "Argument_Dachet_2021_ROE"
 argument_key: "Argument_Dachet_2021_ROE"
 argument_display_title: "Evidence-based education: The not so simple case of French-speaking Belgium"
 argument_kind: "journal-article"
-argument_related_count: 25
+argument_related_count: 24
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Based Reform]]"
-  - "[[Praxis]]"
   - "[[Epistemology]]"
   - "[[Analytic Framework]]"
   - "[[Grade Retention]]"

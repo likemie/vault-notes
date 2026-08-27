@@ -9,9 +9,9 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 5
+fact_related_count: 4
 fact_related_level: 0
-fact_related_stars: ""
+fact_related_stars: "☆"
 fact_related_color: "#fef3c7"
 tags:
   - "region/us"
@@ -22,7 +22,6 @@ tags:
 related_concepts:
   - "[[Asset Mapping]]"
   - "[[University-Industry Collaboration]]"
-  - "[[Praxis]]"
 related_theories: []
 related_methods: []
 related_persons: []

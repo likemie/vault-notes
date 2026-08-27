@@ -7,10 +7,10 @@ aliases:
 summary: "Lincoln and Guba 提出的质性研究质量的替代性总称概念，涵盖可信性、可迁移性、可依赖性和可确认性四项标准，以替代实证主义范式中的内部效度、外部效度、信度和客观性"
 type: concept
 domain: "research-methodology"
-related_count: 20
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 19
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - method/research-methods
   - theme/validity
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Audit Trail]]"
   - "[[External Auditor]]"
   - "[[Pragmatic Paradigm]]"
-  - "[[Praxis]]"
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Triangulation]]"

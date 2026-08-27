@@ -8,7 +8,7 @@ aliases:
 summary: "问卷中用于捕捉回应程度和敏感性的测量工具，通过有序的多级选项将态度、感知或意见转化为可量化的数字，主要包括李克特量表、语义差异量表、瑟斯顿量表和格特曼量表"
 type: concept
 domain: "research-methodology"
-related_count: 15
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Semantic Differential]]"
   - "[[Construct]]"
   - "[[Hypothesis]]"
-  - "[[Praxis]]"
   - "[[Reliability]]"
   - "[[Halo Effect]]"
   - "[[Inter-Rater Reliability]]"

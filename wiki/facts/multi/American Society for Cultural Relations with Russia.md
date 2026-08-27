@@ -10,7 +10,7 @@ subtype: event
 region: multi
 fact_region: "multi"
 fact_kind: "event"
-fact_related_count: 6
+fact_related_count: 5
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#fef3c7"
@@ -22,7 +22,6 @@ tags:
 related_concepts:
   - "[[Knowledge Exchange]]"
   - "[[Cultural Diplomacy]]"
-  - "[[Praxis]]"
 related_theories: []
 related_methods: []
 related_persons:

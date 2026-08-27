@@ -9,15 +9,28 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 0
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 10
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 tags:
   - region/global
   - theme/international-education
   - theme/institution-building
   - theme/school-governance
+related_concepts:
+  - "[[Network Governance]]"
+  - "[[International Schools]]"
+  - "[[Space of Flows and Space of Places]]"
+  - "[[Transitology]]"
+  - "[[Theory of Knowledge]]"
+  - "[[International Education]]"
+  - "[[International Baccalaureate]]"
+  - "[[Boarding Schools]]"
+related_persons:
+  - "[[Louis Mountbatten]]"
+related_arguments:
+  - "[[Argument_Peterson_1987_OpenCourt_Ch05]]"
 confidence: high
 status: draft
 created: 2026-08-24

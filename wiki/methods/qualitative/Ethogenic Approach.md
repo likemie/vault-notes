@@ -5,7 +5,7 @@ summary: "Harré提出的社会行为研究方法论，将人视为制定计划�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 19
+method_related_count: 18
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -17,7 +17,6 @@ related_concepts:
   - "[[Internal Consistency]]"
   - "[[Reliability]]"
   - "[[Hypothesis]]"
-  - "[[Praxis]]"
   - "[[Causality]]"
   - "[[Operationalization]]"
 related_theories:

@@ -9,7 +9,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 7
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dbeafe"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Whole Language]]"
   - "[[Simple View of Reading]]"
   - "[[Decodification]]"
-  - "[[Praxis]]"
   - "[[Teacher Professional Agency]]"
 related_theories: []
 related_methods: []

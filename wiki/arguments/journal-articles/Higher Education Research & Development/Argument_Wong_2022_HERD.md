@@ -31,7 +31,7 @@ related_concepts:
   - "[[Employability]]"
   - "[[Global Citizenship]]"
   - "[[Research Literacy]]"
-  - "[[Procedural Skill]]"
+  - "[[Procedural Knowledge]]"
   - "[[Critical Thinking]]"
 related_theories: []
 related_methods:

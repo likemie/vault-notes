@@ -22,8 +22,8 @@ tags:
   - level/k12
 related_concepts:
   - "[[Encyclopaedism]]"
+  - "[[Creativity]]"
   - "[[Floating Signifier]]"
-  - "[[Praxis]]"
   - "[[Governance by Spin]]"
   - "[[Transfer Translation Transformation]]"
 related_theories: []

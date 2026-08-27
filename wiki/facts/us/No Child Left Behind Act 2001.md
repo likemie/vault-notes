@@ -10,7 +10,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -43,6 +43,8 @@ related_arguments:
   - "[[Argument_Downey_2016_SoE]]"
   - "[[Argument_Zhao_2017_JEC]]"
   - "[[Argument_OConnor_2020_AJLL]]"
+related_instruments:
+  - "[[VALUE Rubrics]]"
 confidence: high
 status: draft
 created: '2026-05-01'

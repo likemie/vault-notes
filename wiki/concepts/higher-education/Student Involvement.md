@@ -6,7 +6,7 @@ aliases:
 summary: "Astin 提出的概念，指学生投入到学习和校园生活中的生理与心理能量的数量和质量。"
 type: concept
 domain: "higher-education"
-related_count: 17
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,7 +21,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Operationalization]]"
   - "[[Academic and Social Integration]]"
-  - "[[Praxis]]"
   - "[[Paradigm]]"
   - "[[Academic Engagement]]"
   - "[[Social Engagement]]"

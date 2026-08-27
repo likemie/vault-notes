@@ -18,9 +18,9 @@ tags:
   - source/textbook
   - theme/research-planning
 related_concepts:
+  - "[[Creativity]]"
   - "[[Literature Review]]"
   - "[[Research Question]]"
-  - "[[Praxis]]"
   - "[[Document]]"
   - "[[Didaktik]]"
   - "[[Research Scope]]"

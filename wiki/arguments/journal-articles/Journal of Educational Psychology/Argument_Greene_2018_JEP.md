@@ -43,7 +43,7 @@ related_concepts:
   - "[[Metacognition]]"
   - "[[Rote Learning]]"
   - "[[Dependent Variable]]"
-  - "[[Procedural Skill]]"
+  - "[[Procedural Knowledge]]"
   - "[[Educational Level]]"
   - "[[Hypothesis]]"
   - "[[Chain of Evidence]]"

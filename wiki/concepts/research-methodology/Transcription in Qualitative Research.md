@@ -7,7 +7,7 @@ aliases:
 summary: "将口头访谈转换为书面文本的过程，是选择性转换而非中性记录，涉及从口头和人际规则系统到书面语言系统的根本性变化"
 type: concept
 domain: "research-methodology"
-related_count: 6
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -18,7 +18,6 @@ tags:
 related_concepts:
   - "[[Reliability]]"
   - "[[Dialogue in Education]]"
-  - "[[Praxis]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
 related_arguments:

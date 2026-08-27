@@ -20,7 +20,6 @@ tags:
 - theory/confucianism
 related_concepts:
   - "[[Self-Cultivation]]"
-  - "[[Praxis]]"
   - "[[Take the World Upon Oneself]]"
   - "[[Learning Virtues]]"
   - "[[Humility in Learning]]"
@@ -32,6 +31,7 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Epistemology]]"
   - "[[Sage]]"
+  - "[[Creativity]]"
   - "[[Knowledge Production]]"
   - "[[Critical Thinking]]"
   - "[[Four Sprouts]]"

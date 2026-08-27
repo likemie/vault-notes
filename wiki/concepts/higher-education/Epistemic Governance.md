@@ -8,7 +8,7 @@ aliases:
 summary: "以规范、认知和知识为基础的治理机制，用于说明高等教育机构如何通过知识权威、专家培养和价值框架参与全球治理。"
 type: concept
 domain: "higher-education"
-related_count: 25
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Document]]"
   - "[[Literature Review]]"
-  - "[[Praxis]]"
   - "[[Epistemic Drift]]"
 related_theories:
   - "[[World Society Theory]]"

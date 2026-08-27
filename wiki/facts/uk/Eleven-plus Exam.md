@@ -9,7 +9,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 9
+fact_related_count: 8
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -21,7 +21,6 @@ tags:
 - examination
 - region/uk
 related_concepts:
-  - "[[Praxis]]"
   - "[[Academic Achievement]]"
   - "[[Selective Education]]"
   - "[[Moral Sidestep]]"

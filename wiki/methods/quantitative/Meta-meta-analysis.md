@@ -16,7 +16,7 @@ summary: "在更高层级汇总多个已发表元分析结果的统计综合方�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 84
+method_related_count: 85
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -77,6 +77,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-regression]]"
   - "[[Robust Variance Estimation]]"
+  - "[[PRISMA]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Inverse-Variance Weighting]]"
   - "[[Correlated and Hierarchical Effects Model]]"

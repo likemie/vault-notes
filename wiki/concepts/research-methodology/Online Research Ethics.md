@@ -8,7 +8,7 @@ aliases:
 summary: "利用互联网和数字技术收集研究数据时需要遵守的伦理原则和操作指南，涉及身份认证、公共/私密边界模糊、知情同意获取和脆弱群体保护等特殊挑战"
 type: concept
 domain: "research-methodology"
-related_count: 7
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,7 +20,6 @@ related_concepts:
   - "[[Informed Consent]]"
   - "[[Research Purpose]]"
   - "[[Hypothesis]]"
-  - "[[Praxis]]"
 related_theories: []
 related_methods:
   - "[[Telephone Interview]]"

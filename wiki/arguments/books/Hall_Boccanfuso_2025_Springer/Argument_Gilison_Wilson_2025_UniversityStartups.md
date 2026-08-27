@@ -17,7 +17,6 @@ related_concepts:
   - "[[Governance by Spin]]"
   - "[[Growth]]"
   - "[[University-Industry Collaboration]]"
-  - "[[Praxis]]"
   - "[[Proof of Concept Programs]]"
   - "[[Hypothesis]]"
   - "[[Sponsored Research Agreement]]"
@@ -64,7 +63,7 @@ title: "Argument_Gilison_Wilson_2025_UniversityStartups"
 argument_key: "Argument_Gilison_Wilson_2025_UniversityStartups"
 argument_display_title: "University-Based Startups and Entrepreneurship: A Practical Guide for Industry Collaboration"
 argument_kind: "book"
-argument_related_count: 34
+argument_related_count: 33
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"

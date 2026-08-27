@@ -20,12 +20,13 @@ related_concepts:
   - "[[Clinical Trial]]"
   - "[[Institutional Review Board]]"
   - "[[Academic Medical Center]]"
-  - "[[Praxis]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
+related_instruments:
+  - "[[VALUE Rubrics]]"
 confidence: medium
 status: draft
 created: 2026-06-03

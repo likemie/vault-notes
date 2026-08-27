@@ -9,10 +9,10 @@ aliases:
 summary: "严格依循非形式逻辑语法将论辩推论链条（主张、理由、证据、反驳）进行空间树状或网络可视化的认知脚手架"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 11
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/instruction
   - construct/cognitive-process
@@ -21,6 +21,8 @@ tags:
 related_concepts:
   - "[[Hypothesis]]"
   - "[[Chain of Evidence]]"
+  - "[[Mind Mapping]]"
+  - "[[Concept Mapping]]"
   - "[[Critical Thinking]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Externalization]]"

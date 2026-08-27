@@ -29,7 +29,6 @@ related_concepts:
   - "[[Literature Review]]"
   - "[[Causality]]"
   - "[[Document]]"
-  - "[[Praxis]]"
   - "[[Internal Validity]]"
   - "[[Sample Size Determination]]"
   - "[[Stable Unit Treatment Value Assumption]]"
@@ -48,6 +47,7 @@ related_methods:
   - "[[Causal Modeling]]"
   - "[[Meta-analysis]]"
   - "[[Systematic Review]]"
+  - "[[Regression Discontinuity Design]]"
 related_persons: []
 related_facts:
   - "[[Daubert v Merrell Dow Pharmaceuticals 1993]]"

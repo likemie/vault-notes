@@ -9,9 +9,9 @@ subtype: policy
 region: denmark
 fact_region: "denmark"
 fact_kind: "policy"
-fact_related_count: 16
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 15
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: ''
 tags:
@@ -22,7 +22,6 @@ tags:
 related_concepts:
   - "[[Visible Learning]]"
   - "[[Learnification]]"
-  - "[[Praxis]]"
   - "[[Academic Achievement]]"
   - "[[Effective Teaching]]"
   - "[[Classroom Management]]"

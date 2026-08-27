@@ -11,7 +11,7 @@ subtype: event
 region: italy
 fact_region: "italy"
 fact_kind: "event"
-fact_related_count: 9
+fact_related_count: 8
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -32,8 +32,7 @@ related_methods: []
 related_instruments:
   - "[[Collegiate Learning Assessment]]"
 related_persons: []
-related_facts:
-  - "[[Council for Aid to Education]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
 confidence: high

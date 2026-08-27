@@ -7,7 +7,7 @@ summary: "英国政治科学家，公共选择理论取向的教育政策分析�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 21
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -37,6 +37,7 @@ related_theories:
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Systematic Review]]"
+  - "[[Critical Review]]"
 related_persons:
   - "[[Nancy Cartwright]]"
   - "[[Gert Biesta]]"

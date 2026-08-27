@@ -8,7 +8,7 @@ aliases:
 summary: "家长为子女选择就读学校的实践与政策逻辑，受家庭经济、社会与文化资本的系统筛选；在不同体制下分化为以新自由主义竞争为导向的市场化择校与以行政分流为导向的城镇化择校。"
 type: concept
 domain: "sociology-of-education"
-related_count: 13
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,7 +18,6 @@ tags:
   - theme/educational-inequality
   - policy/neoliberalism
 related_concepts:
-  - "[[Praxis]]"
   - "[[Habitus]]"
   - "[[Cultural Capital]]"
   - "[[Champ]]"

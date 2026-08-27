@@ -8,7 +8,7 @@ aliases:
 summary: "可能对参与或曾参与其中的人构成实质性威胁的研究，其敏感性主要来源于研究的社会情境而非话题本身，涵盖侵入性威胁、越轨与社会控制、政治联盟三大类"
 type: concept
 domain: "research-methodology"
-related_count: 4
+related_count: 3
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -16,7 +16,6 @@ tags:
   - method/research-ethics
   - theme/sensitive-research
 related_concepts:
-  - "[[Praxis]]"
   - "[[Evaluation Research]]"
 related_methods:
   - "[[Qualitative Research]]"

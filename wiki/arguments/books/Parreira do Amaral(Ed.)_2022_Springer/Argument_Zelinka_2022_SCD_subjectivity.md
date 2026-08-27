@@ -12,7 +12,6 @@ related_concepts:
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Governmentality]]"
   - "[[Discursive Opportunity Structures]]"
-  - "[[Praxis]]"
   - "[[Literature Review]]"
   - "[[Theory of Knowledge]]"
   - "[[Assemblage]]"
@@ -44,7 +43,7 @@ title: "Argument_Zelinka_2022_SCD_subjectivity"
 argument_key: "Argument_Zelinka_2022_SCD_subjectivity"
 argument_display_title: "Subjects and Subjectivities of the (New) Geopolitics of Knowledge"
 argument_kind: "book"
-argument_related_count: 19
+argument_related_count: 18
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"

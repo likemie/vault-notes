@@ -9,7 +9,7 @@ summary: "真实验设计的变体，先将受试者按关键变量配对，再�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 14
+method_related_count: 13
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -20,7 +20,6 @@ tags:
 related_concepts:
   - "[[Independent Variable]]"
   - "[[Sample Size Determination]]"
-  - "[[Praxis]]"
   - "[[Variable]]"
   - "[[Effect Size]]"
   - "[[Pre-test and Post-test]]"

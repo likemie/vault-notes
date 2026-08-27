@@ -9,7 +9,7 @@ subtype: policy
 region: multi
 fact_region: "multi"
 fact_kind: "policy"
-fact_related_count: 7
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dbeafe"
@@ -22,7 +22,6 @@ tags:
 - region/uk
 related_concepts:
   - "[[Evidence-Based Education]]"
-  - "[[Praxis]]"
   - "[[Evidence-Based Reform]]"
 related_theories: []
 related_methods: []

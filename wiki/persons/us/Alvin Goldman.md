@@ -7,16 +7,15 @@ summary: "美国哲学家，可靠主义认识论和社会认识论的主要奠�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 5
+person_related_count: 4
 person_related_level: 0
-person_related_stars: ""
+person_related_stars: "☆"
 person_related_color: "#e5e7eb"
 tags: []
 related_concepts:
   - "[[Epistemology]]"
   - "[[Epistemological Naturalism]]"
   - "[[Reliability]]"
-  - "[[Praxis]]"
 related_theories:
   - "[[Reliabilism]]"
 related_methods: []

@@ -6,7 +6,7 @@ summary: "研究者与实践者合作，通过计划—行动—观察—反思�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 40
+method_related_count: 44
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#fef3c7"
@@ -15,7 +15,6 @@ tags:
   - source/textbook
   - theme/practice-improvement
 related_concepts:
-  - "[[Praxis]]"
   - "[[Paradigm]]"
   - "[[Research Question]]"
   - "[[Reflexivity]]"
@@ -35,11 +34,13 @@ related_concepts:
   - "[[Document]]"
   - "[[Pre-test and Post-test]]"
   - "[[Questionnaire]]"
+  - "[[Creativity]]"
   - "[[Research Problem]]"
   - "[[Causality]]"
   - "[[External Validity]]"
   - "[[Chain of Evidence]]"
   - "[[Ideal Speech Situation]]"
+  - "[[International Baccalaureate]]"
 related_theories:
   - "[[Critical Theory]]"
 related_methods:
@@ -59,6 +60,10 @@ related_persons:
 related_arguments:
   - "[[Argument_QiMei_2015_EducationalResearchMethods]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18]]"
+  - "[[Argument_Peterson_1987_OpenCourt_Ch02]]"
+  - "[[Argument_Peterson_1987_OpenCourt_Ch04]]"
+related_facts:
+  - "[[International Schools Examination Syndicate]]"
 status: draft
 created: 2026-06-25
 updated: 2026-08-23

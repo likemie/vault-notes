@@ -7,7 +7,7 @@ aliases:
 summary: "一种教学理论框架，依据教师把学习结果归因于学生特征、教师行为还是完整教学系统，区分三个递进的教学观层次。"
 type: theory
 theory_field: "instruction-pedagogy"
-theory_related_count: 15
+theory_related_count: 14
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -17,7 +17,6 @@ tags:
   - theme/teacher-development
   - level/higher-ed
 related_concepts:
-  - "[[Praxis]]"
   - "[[Growth]]"
   - "[[Variable]]"
   - "[[Teaching and Learning Activities]]"
@@ -48,7 +47,7 @@ updated: 2026-08-01
 ## 理论定位
 
 > [!theory-position] 理论定位
-> - **解释对象** 教师如何理解学习结果的来源，以及这种理解如何决定教师关注什么、承担什么责任并选择何种教学[[Praxis|实践]]。
+> - **解释对象** 教师如何理解学习结果的来源，以及这种理解如何决定教师关注什么、承担什么责任并选择何种教学实践。
 > - **理论问题** 当学生没有达到预期学习结果时，教师究竟应把原因归于学生条件、教学技巧，还是学生与完整教学情境的互动。
 > - **理论类型** 兼具类型学与发展层级性质的教学观框架；三个层次既区分不同因果模型，也被视为教师能力[[Growth|成长]]中可能依次出现的认识位置。
 > - **知识位置** 由[[John Biggs|约翰·比格斯]]（John Biggs）在教学观研究和系统教学模型的基础上提出，并与 Prosser & Trigwell 的教师中心／学生中心教学观相联系。[[Argument_Biggs_1999_HERD|Biggs (1999, pp. 61–63)]]

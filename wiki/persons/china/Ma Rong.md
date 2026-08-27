@@ -7,7 +7,7 @@ summary: "中国社会学与民族学家，北京大学社会学系教授，因�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 9
+person_related_count: 8
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -19,7 +19,6 @@ related_concepts:
   - "[[Depoliticalization of Ethnic Policy]]"
   - "[[Second-generation Ethnic Policy]]"
   - "[[Zhonghua Minzu]]"
-  - "[[Praxis]]"
   - "[[Analytic Framework]]"
   - "[[Paradigm]]"
 related_theories: []

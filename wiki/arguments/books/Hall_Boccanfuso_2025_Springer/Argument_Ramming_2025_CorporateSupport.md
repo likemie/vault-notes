@@ -9,7 +9,7 @@ title: "Argument_Ramming_2025_CorporateSupport"
 argument_key: "Argument_Ramming_2025_CorporateSupport"
 argument_display_title: "Gaining Support Within Companies for Collaboration"
 argument_kind: "book"
-argument_related_count: 26
+argument_related_count: 25
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -25,7 +25,6 @@ tags:
   - "source/edited-volume"
 related_concepts:
   - "[[University-Industry Collaboration]]"
-  - "[[Praxis]]"
   - "[[Growth]]"
   - "[[Document]]"
   - "[[Innovation Hub]]"

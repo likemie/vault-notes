@@ -24,7 +24,6 @@ related_concepts:
   - "[[General Education]]"
   - "[[International Education]]"
   - "[[Further Education]]"
-  - "[[Praxis]]"
   - "[[Critical Thinking]]"
   - "[[Epistemology]]"
   - "[[Active Learning]]"
@@ -42,6 +41,7 @@ related_persons:
 related_facts:
   - "[[Founding of Atlantic College]]"
   - "[[International Schools Examination Syndicate]]"
+  - "[[United World Colleges]]"
   - "[[Founding of the International Baccalaureate]]"
   - "[[International Baccalaureate Six-Year Experiment]]"
 related_arguments:

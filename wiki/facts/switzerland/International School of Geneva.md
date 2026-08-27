@@ -10,7 +10,7 @@ subtype: organization
 region: switzerland
 fact_region: "switzerland"
 fact_kind: "organization"
-fact_related_count: 10
+fact_related_count: 9
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -22,7 +22,6 @@ tags:
 related_concepts:
   - "[[International Schools]]"
   - "[[International Baccalaureate]]"
-  - "[[Praxis]]"
   - "[[Questionnaire]]"
 related_theories: []
 related_methods: []

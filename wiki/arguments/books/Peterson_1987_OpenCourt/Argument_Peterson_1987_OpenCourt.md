@@ -10,7 +10,7 @@ title: "Argument_Peterson_1987_OpenCourt"
 argument_key: "Argument_Peterson_1987_OpenCourt"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges"
 argument_kind: "book"
-argument_related_count: 34
+argument_related_count: 36
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -32,7 +32,6 @@ related_concepts:
   - "[[International Baccalaureate]]"
   - "[[International Education]]"
   - "[[International Schools]]"
-  - "[[Praxis]]"
   - "[[General Education]]"
   - "[[Extended Essay]]"
   - "[[Creativity, Action, Service]]"
@@ -54,9 +53,11 @@ related_persons:
   - "[[Gerard Renaud]]"
   - "[[John Goormaghtigh]]"
   - "[[Alec Peterson]]"
+  - "[[Louis Mountbatten]]"
   - "[[Kurt Hahn]]"
   - "[[Desmond Hoare]]"
 related_facts:
+  - "[[United World Colleges]]"
   - "[[Founding of Atlantic College]]"
   - "[[Founding of the International Baccalaureate]]"
   - "[[International Schools Examination Syndicate]]"
@@ -69,6 +70,7 @@ related_arguments:
   - "[[Argument_Peterson_1987_OpenCourt_Ch02]]"
   - "[[Argument_Peterson_1987_OpenCourt_Ch03]]"
   - "[[Argument_Peterson_1987_OpenCourt_Ch04]]"
+  - "[[Argument_Peterson_1987_OpenCourt_Ch05]]"
 sources:
   - "[[books/Peterson_1987_OpenCourt/Peterson_1987_OpenCourt|Peterson_1987_OpenCourt]]"
 part_of:

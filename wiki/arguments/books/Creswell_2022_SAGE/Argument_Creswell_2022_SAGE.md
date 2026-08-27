@@ -7,7 +7,7 @@ title: "Argument_Creswell_2022_SAGE"
 argument_key: "Argument_Creswell_2022_SAGE"
 argument_display_title: "Research Design: Qualitative, Quantitative, and Mixed Methods Approaches"
 argument_kind: "book"
-argument_related_count: 188
+argument_related_count: 187
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -72,7 +72,6 @@ related_concepts:
   - "[[Integration Statement]]"
   - "[[Document]]"
   - "[[Emergence]]"
-  - "[[Praxis]]"
   - "[[Positivism]]"
   - "[[Fitness for Purpose]]"
   - "[[Questionnaire]]"

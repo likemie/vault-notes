@@ -5,7 +5,7 @@ aliases:
 summary: "大学生活组织实践的一种模式，以较早确立生涯目标、策略性配置校内外资源和为毕业出路持续准备为特征，常与优势阶层习性相连"
 type: concept
 domain: "sociology-of-education"
-related_count: 25
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -15,7 +15,6 @@ tags:
   - region/china
   - level/higher-ed
 related_concepts:
-  - "[[Praxis]]"
   - "[[Academic Engagement]]"
   - "[[Habitus]]"
   - "[[Champ]]"

@@ -22,12 +22,12 @@ related_concepts:
   - "[[International Education]]"
   - "[[Methodological Statism]]"
   - "[[Methodological Educationism]]"
-  - "[[Praxis]]"
   - "[[Hypothesis]]"
   - "[[Recontextualization]]"
   - "[[Relational Space]]"
   - "[[Multiplicity]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Creativity]]"
 related_theories: []
 related_methods:
   - "[[Network Analysis]]"

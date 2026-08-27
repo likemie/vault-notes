@@ -10,7 +10,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Champ]]"
   - "[[International Education]]"
+  - "[[Concept Mapping]]"
   - "[[Analytic Framework]]"
   - "[[Cross-National Attraction]]"
   - "[[Policy Borrowing]]"

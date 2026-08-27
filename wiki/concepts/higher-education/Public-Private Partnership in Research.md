@@ -9,7 +9,7 @@ aliases:
 summary: "政府、企业与大学三部门联合资助和执行研究项目的合作机制，Ramming（2025）从实践者角度提出治理、竞争理论、技术战略和知识产权四维决策框架"
 type: concept
 domain: "higher-education"
-related_count: 13
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Research Translation]]"
   - "[[Blue Skies Research]]"
-  - "[[Praxis]]"
   - "[[Precompetitive Research]]"
   - "[[Research Scope]]"
   - "[[Academic Engagement Team]]"

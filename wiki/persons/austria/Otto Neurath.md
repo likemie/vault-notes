@@ -24,13 +24,13 @@ related_concepts:
   - "[[Postpositivism]]"
   - "[[Science and Technology Studies]]"
   - "[[Encyclopaedism]]"
-  - "[[Praxis]]"
   - "[[Scientific Method]]"
   - "[[Theory of Knowledge]]"
 related_theories:
   - "[[Duhem-Quine Thesis]]"
 related_methods: []
-related_instruments: []
+related_instruments:
+  - "[[VALUE Rubrics]]"
 related_persons:
   - "[[W. V. O. Quine]]"
   - "[[René Descartes]]"

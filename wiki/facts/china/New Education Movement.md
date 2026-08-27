@@ -10,7 +10,7 @@ subtype: event
 region: china
 fact_region: "china"
 fact_kind: "event"
-fact_related_count: 9
+fact_related_count: 8
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -23,7 +23,6 @@ tags:
 related_concepts:
   - "[[Scientific Attitude]]"
   - "[[Paradigm]]"
-  - "[[Praxis]]"
 related_theories: []
 related_methods: []
 related_persons:

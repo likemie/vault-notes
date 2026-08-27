@@ -5,7 +5,7 @@ summary: "美国哲学家、社会心理学家与社会学家，实用主义哲�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 19
+person_related_count: 20
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Interpretive Paradigm]]"
   - "[[Phenomenon-Based Learning]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Creativity]]"
   - "[[Dialogue in Education]]"
   - "[[Paradigm]]"
   - "[[Progressive Education]]"

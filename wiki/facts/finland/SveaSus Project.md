@@ -19,7 +19,6 @@ tags:
   - region/finland
   - level/higher-ed
 related_concepts:
-  - "[[Praxis]]"
   - "[[Champ]]"
   - "[[Phenomenon-Based Learning]]"
   - "[[Epochal Key Problems]]"
@@ -27,6 +26,7 @@ related_concepts:
   - "[[Going Native]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Performance Indicators]]"
+  - "[[Praxis]]"
 related_theories:
   - "[[Pragmatic Constructivism]]"
   - "[[Phenomenology]]"

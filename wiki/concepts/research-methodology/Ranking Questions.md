@@ -21,9 +21,10 @@ related_concepts:
   - "[[Rating Scale]]"
   - "[[Variable]]"
   - "[[Fitness for Purpose]]"
-  - "[[Praxis]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20]]"
+related_facts:
+  - "[[RAiSE Programme]]"
 confidence: medium
 status: draft
 created: 2026-07-21

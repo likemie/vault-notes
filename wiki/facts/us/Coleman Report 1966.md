@@ -22,9 +22,9 @@ tags:
 related_concepts:
   - "[[Academic Achievement]]"
   - "[[Causality]]"
-  - "[[Praxis]]"
   - "[[Paradigm]]"
   - "[[Variable]]"
+  - "[[Learning Gain]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Counterfactual]]"
 related_theories:

@@ -15,7 +15,6 @@ related_concepts:
   - "[[Zhonghua Minzu]]"
   - "[[Necropolitics]]"
   - "[[Paradigm]]"
-  - "[[Praxis]]"
   - "[[Avatar]]"
   - "[[Retrotopia]]"
   - "[[Sacrifice Theory]]"
@@ -50,7 +49,7 @@ title: "Argument_Bulag_2024_CE"
 argument_key: "Argument_Bulag_2024_CE"
 argument_display_title: "The wheel of history and minorities' 'self-sacrifice' for the Chinese nation"
 argument_kind: "journal-article"
-argument_related_count: 22
+argument_related_count: 21
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"

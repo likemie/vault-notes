@@ -5,13 +5,12 @@ summary: "美国社会学家，俗民方法学（Ethnomethodology）的创始人
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 5
+person_related_count: 4
 person_related_level: 0
-person_related_stars: ""
+person_related_stars: "☆"
 person_related_color: "#e5e7eb"
 tags: [person/sociologist, person/ethnomethodologist, theme/micro-sociology]
 related_concepts:
-  - "[[Praxis]]"
   - "[[Indexicality]]"
   - "[[Reflexivity]]"
 related_theories:

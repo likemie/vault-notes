@@ -4,7 +4,7 @@ aliases: [后实证主义, post-positivism, postpositivist]
 summary: "一种挑战实证主义知识确定性的研究哲学立场，主张知识是推测性的、可证伪的、理论负载的，事实与价值不可分离。"
 type: concept
 domain: "research-methodology"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,6 +27,8 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
+related_instruments:
+  - "[[VALUE Rubrics]]"
 confidence: high
 status: draft
 created: 2026-06-13

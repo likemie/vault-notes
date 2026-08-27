@@ -7,7 +7,7 @@ summary: "德裔英国教育家，以共同服务、挑战性活动与跨文化�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 5
+person_related_count: 6
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
@@ -25,6 +25,7 @@ related_instruments: []
 related_persons:
   - "[[Alec Peterson]]"
 related_facts:
+  - "[[United World Colleges]]"
   - "[[Founding of Atlantic College]]"
 related_arguments:
   - "[[Argument_Peterson_1987_OpenCourt_Ch01]]"

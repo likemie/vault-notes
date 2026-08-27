@@ -8,7 +8,7 @@ summary: "将核心混合方法设计嵌入案例研究开发和比较过程中�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 6
+method_related_count: 5
 method_related_level: 0
 method_related_stars: ""
 method_related_color: "#fef3c7"
@@ -18,7 +18,6 @@ tags:
   - method/complex-design
 related_concepts:
   - "[[Champ]]"
-  - "[[Praxis]]"
 related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"

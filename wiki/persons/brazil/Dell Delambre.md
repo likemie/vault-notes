@@ -17,7 +17,6 @@ tags:
 - field/higher-education
 - field/sustainability
 related_concepts:
-  - "[[Praxis]]"
   - "[[Epistemology]]"
   - "[[Ganz-Methode]]"
   - "[[Social Museology]]"
@@ -26,6 +25,7 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Operationalization]]"
   - "[[Ways of Knowing]]"
+  - "[[Creativity]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Life Power]]"
   - "[[Whole Sustainability]]"

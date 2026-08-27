@@ -22,7 +22,6 @@ related_concepts:
   - "[[Blue Skies Research]]"
   - "[[Theoretical Perspective]]"
   - "[[Technology Transfer]]"
-  - "[[Praxis]]"
   - "[[Document]]"
   - "[[Evaluation Research]]"
   - "[[Return on Investment]]"
@@ -61,7 +60,7 @@ title: "Argument_Wolf_2025_InternationalResearchCollab"
 argument_key: "Argument_Wolf_2025_InternationalResearchCollab"
 argument_display_title: "International research collaborations between universities and industry"
 argument_kind: "book"
-argument_related_count: 31
+argument_related_count: 30
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"

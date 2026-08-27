@@ -22,7 +22,7 @@ related_concepts:
   - "[[Nerd]]"
   - "[[Entity vs Incremental Intelligence]]"
   - "[[Operationalization]]"
-  - "[[Praxis]]"
+  - "[[Creativity]]"
   - "[[Tracking]]"
   - "[[Zero-Sum Competition]]"
   - "[[Intellectual-Social Divide]]"

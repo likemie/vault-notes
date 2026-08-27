@@ -7,7 +7,7 @@ aliases:
 summary: "人类认知由独立的非言语视觉表象与言语符号双通道构成，图文协同表征能显著降低工作记忆负荷并强化长时记忆整合的认知学习理论"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 11
+theory_related_count: 13
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -20,6 +20,8 @@ related_concepts:
   - "[[Graphic Organizer]]"
   - "[[Working Memory]]"
   - "[[Higher-Order Thinking Skills]]"
+  - "[[Mind Mapping]]"
+  - "[[Concept Mapping]]"
   - "[[Argument Mapping]]"
   - "[[Divergent Thinking]]"
   - "[[Convergent Thinking]]"
@@ -85,7 +87,7 @@ updated: 2026-08-25
 > [!proposition-chain] 核心命题一｜图文双通道协同表征能有效卸载单一通道的[[Working Memory|工作记忆]]负荷并提升理解效能
 > - **前提一** 人类工作记忆的单一言语通道容量高度有限（通常仅能瞬时维持少数信息块），纯文本阅读容易导致工作记忆超载。
 > - **前提二** 视觉空间表象系统与言语系统拥有独立的神经加工通道，在感知输入阶段不会发生完全的容量挤占。
-> - **推导** 当教学采用包含空间拓扑分支的[[Graphic Organizer|图形组织器]]（如思维导图、概念图、[[Argument Mapping|论证图]]）呈现抽象知识时：
+> - **推导** 当教学采用包含空间拓扑分支的[[Graphic Organizer|图形组织器]]（如[[Mind Mapping|思维导图]]、[[Concept Mapping|概念图]]、[[Argument Mapping|论证图]]）呈现抽象知识时：
 >   1. 空间视觉通道负责保持概念间的层级与包含关系（表象系统）；
 >   2. 言语通道专注于深层语义分析与批判性推导（语言系统）；
 >   3. 两个系统通过指称联结形成双重[[Coding in Qualitative Research|编码]]网络，显著降低了言语工作记忆维持负荷，使更多心智资源得以释放并投入[[Higher-Order Thinking Skills|高阶思维]]加工（$g = 0.778$）。[[Argument_Lei_Ding_Chiu_2026_ERR|(Lei et al., 2026, pp. 2–3)]]

@@ -20,7 +20,6 @@ tags:
 related_concepts:
   - "[[Innovation Hub]]"
   - "[[University-Industry Collaboration]]"
-  - "[[Praxis]]"
   - "[[Theory of Mind]]"
 related_theories: []
 related_methods: []
@@ -32,6 +31,8 @@ related_facts:
   - "[[Purdue Discovery Park]]"
 related_arguments:
   - "[[Argument_Byrne_2025_InnovationCenters]]"
+related_instruments:
+  - "[[VALUE Rubrics]]"
 confidence: medium
 status: draft
 created: 2026-05-28

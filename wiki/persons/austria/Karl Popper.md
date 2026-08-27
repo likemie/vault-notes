@@ -8,7 +8,7 @@ summary: "奥地利裔英国科学哲学家，以证伪主义（falsification）
 type: person
 nationality: austria
 person_region: "austria"
-person_related_count: 6
+person_related_count: 7
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
@@ -28,6 +28,8 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
+related_instruments:
+  - "[[VALUE Rubrics]]"
 confidence: high
 status: draft
 created: 2026-06-13

@@ -8,9 +8,9 @@ summary: "功能性磁共振成像（fMRI）：通过测量脑区血液成分记
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 5
+method_related_count: 4
 method_related_level: 0
-method_related_stars: ""
+method_related_stars: "☆"
 method_related_color: "#dcfce7"
 tags:
 - fmri
@@ -19,7 +19,6 @@ tags:
 - paradigm/positivist
 related_concepts:
   - "[[Prefrontal Cortex]]"
-  - "[[Executive Function]]"
   - "[[Research Utilization]]"
 related_theories: []
 related_methods:

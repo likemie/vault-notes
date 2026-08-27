@@ -6,7 +6,7 @@ summary: "中国宪法学者，北京大学法学院教授，曾任中联办研�
 type: person
 nationality: "china"
 person_region: "china"
-person_related_count: 11
+person_related_count: 10
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -19,7 +19,6 @@ related_concepts:
   - "[[Schmittian Sovereignty]]"
   - "[[One Country, Two Systems]]"
   - "[[Disciplina and Doctrina]]"
-  - "[[Praxis]]"
   - "[[Psychologisation]]"
 related_theories: []
 related_methods: []

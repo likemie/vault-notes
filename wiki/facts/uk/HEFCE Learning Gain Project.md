@@ -11,7 +11,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 10
+fact_related_count: 9
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -34,8 +34,7 @@ related_methods: []
 related_instruments:
   - "[[Collegiate Learning Assessment]]"
 related_persons: []
-related_facts:
-  - "[[Higher Education Funding Council for England]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
 confidence: high

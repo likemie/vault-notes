@@ -8,7 +8,7 @@ summary: "马提尼克裔法国精神病学家和去殖民思想家，黑皮肤�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 10
+person_related_count: 9
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -19,7 +19,6 @@ tags:
 - postcolonial-studies
 - psychiatry
 related_concepts:
-  - "[[Praxis]]"
   - "[[Cultural Hierarchy]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge Production]]"

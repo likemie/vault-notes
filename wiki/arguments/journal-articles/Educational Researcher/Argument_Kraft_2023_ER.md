@@ -24,9 +24,9 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Effect Size]]"
-  - "[[Praxis]]"
   - "[[Achievement and Aptitude Tests]]"
   - "[[Publication Bias]]"
+  - "[[Learning Gain]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"

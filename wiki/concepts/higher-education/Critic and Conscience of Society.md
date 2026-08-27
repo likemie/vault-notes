@@ -5,10 +5,10 @@ aliases:
 summary: "指大学在民主社会中承担独立批判和公共良知角色的概念，强调其不仅生产知识，也要基于公共责任对权力和社会问题发声。"
 type: concept
 domain: "higher-education"
-related_count: 10
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 9
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - critic-and-conscience-of-society
 - region/new-zealand
@@ -18,7 +18,6 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Visible Learning]]"
   - "[[Cult of the Guru]]"
-  - "[[Praxis]]"
 related_theories: []
 related_methods: []
 related_persons:

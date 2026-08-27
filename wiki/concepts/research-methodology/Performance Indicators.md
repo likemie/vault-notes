@@ -19,13 +19,13 @@ tags:
 - region/global
 - comparative-education
 related_concepts:
-  - "[[Praxis]]"
   - "[[Regulatory Regionalism]]"
   - "[[International Education]]"
   - "[[Selectivity]]"
   - "[[Hypothesis]]"
   - "[[Constructed Knowledge]]"
   - "[[Theories of Policy Change]]"
+  - "[[Creativity]]"
   - "[[Performativity]]"
   - "[[Performativity of Measurement]]"
   - "[[Causality]]"

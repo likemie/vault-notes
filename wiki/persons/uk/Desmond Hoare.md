@@ -7,17 +7,16 @@ summary: "英国海军工程少将、大西洋学院创校校长，以共同任�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 5
+person_related_count: 4
 person_related_level: 0
-person_related_stars: ""
+person_related_stars: "☆"
 person_related_color: "#e5e7eb"
 tags:
   - region/uk
   - field/international-education
   - theme/institution-building
   - theme/service-learning
-related_concepts:
-  - "[[Praxis]]"
+related_concepts: []
 related_theories: []
 related_methods: []
 related_instruments: []

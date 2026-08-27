@@ -7,7 +7,7 @@ summary: "美国比较教育学者，政策借用与借出政治分析代表人�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 8
+person_related_count: 9
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[Policy Borrowing]]"
   - "[[Analytic Framework]]"
+  - "[[Concept Mapping]]"
   - "[[Pre-Transfer Agency]]"
 related_theories:
   - "[[Luhmann's Systems Theory]]"

@@ -8,7 +8,7 @@ summary: "通过结构方程等统计模型表示变量之间因果路径并同�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 30
+method_related_count: 29
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Exogenous and Endogenous Variables]]"
   - "[[Dependent Variable]]"
   - "[[Independent Variable]]"
-  - "[[Praxis]]"
   - "[[Recommendations for Practice]]"
   - "[[Research Question]]"
   - "[[Screening Off]]"

@@ -7,10 +7,10 @@ summary: "加拿大教育领导力学者，证据知情实践与知识动员研�
 type: person
 nationality: canada
 person_region: "canada"
-person_related_count: 8
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 7
+person_related_level: 0
+person_related_stars: ""
+person_related_color: "#e5e7eb"
 tags:
 - carol-campbell
 - evidence-informed-practice
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Evidence-Informed Practice]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Professional Judgment]]"
-  - "[[Praxis]]"
   - "[[Research Utilization]]"
 related_theories: []
 related_methods:

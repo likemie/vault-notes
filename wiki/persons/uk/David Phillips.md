@@ -7,10 +7,10 @@ summary: "英国比较教育学者，政策借用四阶段模型共同提出者�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 7
-person_related_level: 0
-person_related_stars: ""
-person_related_color: "#e5e7eb"
+person_related_count: 9
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
 - david-phillips
 - comparative-education
@@ -22,11 +22,13 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Abstract]]"
   - "[[Going Native]]"
+  - "[[Concept Mapping]]"
 related_theories: []
 related_methods: []
 related_persons:
   - "[[Kimberly Ochs]]"
-related_facts: []
+related_facts:
+  - "[[CREATES Project]]"
 related_arguments:
   - "[[Argument_Rappleye_2006_RCIE]]"
 confidence: medium

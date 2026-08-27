@@ -6,10 +6,10 @@ aliases:
 summary: "Li, Xue & Guo (2025) 提出的理论模型，将 PISA 对各国教育政策的影响机制分为超国家、国家层面和内部行动者网络三个层级，强调全球教育场域中的双向互动"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 24
-theory_related_level: 3
-theory_related_stars: "⭐⭐⭐"
-theory_related_color: "#ede9fe"
+theory_related_count: 23
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - pisa
   - education-policy
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Interaction Effect]]"
   - "[[Policy Network]]"
   - "[[Variable]]"
-  - "[[Praxis]]"
   - "[[Champ]]"
   - "[[Epistemology]]"
   - "[[Ontology]]"
@@ -92,7 +91,7 @@ updated: 2026-07-13
 > [!proposition-chain] 核心命题一｜[[PISA]] 通过超国家层级设立软治理框架，使各国教育政策制定被纳入全球认知共同体
 > - **前提一** [[OECD]] 通过 PISA 将参与国纳入一个国际认知共同体（international cognitive community），在这一共同体中，教育政策及其目标和方法使用相同的概念和分数进行讨论（Rautalin & Alasuutari, 2009）。
 > - **前提二** OECD 采用软治理模式——通过量化 PISA 分数与国家经济发展的联系，推动各国采纳"最佳模式"，而非以法律或制裁强制趋同（Baird et al., 2016）。
-> - **推导** 超国家组织通过建立共同的认知框架和比较语言 → 将教育的比较从国内事务转化为全球治理议题 → 各国在"最佳[[Praxis|实践]]"的话语压力下调整政策方向。
+> - **推导** 超国家组织通过建立共同的认知框架和比较语言 → 将教育的比较从国内事务转化为全球治理议题 → 各国在"最佳实践"的话语压力下调整政策方向。
 
 > [!proposition-chain] 核心命题二｜PISA 在国家层级通过"自我认知落差"和"[[Reference Society|参考社会]]"机制触发政策回应
 > - **前提一** PISA 影响教育改革的关键条件有二：PISA 评估内容在国家话语中被赋予足够权重、国家自我认知与实证结果之间存在显著落差。两个条件同时满足时，PISA 产生巨大的政策影响（Martens & Niemann, 2013）。
@@ -141,7 +140,7 @@ updated: 2026-07-13
 > [!theory-boundary] 适用边界
 > - **适合解释** [[PISA]] 参与国之间教育政策回应差异的来源和机制；为何具有相似 PISA 排名的国家启动了不同的政策改革；PISA 影响从全球话语转化为国内政策行动的中间过程。
 > - **谨慎使用** 非 [[OECD]] 成员国或未参与 PISA 的国家（该模型的超国家机制[[Hypothesis|假设]]了 OECD-PISA 框架的存在）；仅由单一超国家组织驱动的治理情境（模型需要根据具体国际组织调整超国家层级的分析）。
-> - **不适合解释** 与 PISA 完全无关的国内教育改革；微观层面的课堂教学[[Praxis|实践]]变化（该模型聚焦政策层面，不直接解释课堂行为）。
+> - **不适合解释** 与 PISA 完全无关的国内教育改革；微观层面的课堂教学实践变化（该模型聚焦政策层面，不直接解释课堂行为）。
 > - **常见误用** 将三层的[[Analytic Framework|分析框架]]简化为线性因果链条（超国家→国家→行动者），忽略层级间的双向互动和[[Emergence|涌现]]效应；将该模型直接用于预测特定国家的政策结果而不考虑独特的历史和文化条件。
 
 ---

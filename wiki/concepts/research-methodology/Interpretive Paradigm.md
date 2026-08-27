@@ -11,10 +11,10 @@ aliases:
 summary: "与实证主义相对的研究范式，强调从参与者内部视角理解社会世界，关注主观意义、个体独特性、情境复杂性和价值负载性，采用质性方法在自然状态下整体地研究人的意向行为。"
 type: concept
 domain: "research-methodology"
-related_count: 18
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - paradigm/interpretive
   - theme/epistemology
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Hypothesis]]"
   - "[[Rich and Thick Description]]"
+  - "[[Creativity]]"
   - "[[Emergence]]"
   - "[[Construct]]"
   - "[[Emic and Etic]]"
@@ -44,6 +45,8 @@ related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11]]"
+related_instruments:
+  - "[[VALUE Rubrics]]"
 confidence: high
 status: draft
 created: 2026-06-13

@@ -12,7 +12,7 @@ aliases:
 summary: "在产学合作中充当学术界与产业界之间桥梁的专业角色，负责建立信任、翻译双方需求、协调跨组织合作流程"
 type: concept
 domain: "higher-education"
-related_count: 9
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Document]]"
   - "[[Academic Freedom]]"
   - "[[Technology Transfer]]"
-  - "[[Praxis]]"
   - "[[Master Agreement]]"
   - "[[Concierge Service]]"
 related_theories: []

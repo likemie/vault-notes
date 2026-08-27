@@ -9,7 +9,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 9
+fact_related_count: 8
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -22,7 +22,6 @@ tags:
 related_concepts:
   - "[[International Education]]"
   - "[[Development Turn in Comparative Education]]"
-  - "[[Praxis]]"
 related_theories: []
 related_methods: []
 related_persons: []

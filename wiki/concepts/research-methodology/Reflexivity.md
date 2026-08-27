@@ -8,7 +8,7 @@ aliases:
 summary: "研究者反思自身角色、背景和立场如何塑造研究解释的核心概念。在现象学和俗民方法学中有双重哲学根基，在自然主义民族志中更是对客观现实概念本身的质疑。"
 type: concept
 domain: "research-methodology"
-related_count: 31
+related_count: 30
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -20,7 +20,6 @@ related_concepts:
   - "[[Evaluation Research]]"
   - "[[Research Question]]"
   - "[[Memos]]"
-  - "[[Praxis]]"
   - "[[Epistemology]]"
   - "[[Emic and Etic]]"
   - "[[Positivism]]"

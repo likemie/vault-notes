@@ -8,15 +8,27 @@ summary: "英国海军将领与公共人物，1968年后把联合世界书院从
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 0
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 8
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
   - region/uk
   - theme/international-education
   - theme/institution-building
   - theme/school-governance
+related_concepts:
+  - "[[International Schools]]"
+  - "[[International Baccalaureate]]"
+  - "[[International Education]]"
+related_persons:
+  - "[[Kurt Hahn]]"
+  - "[[Desmond Hoare]]"
+  - "[[Alec Peterson]]"
+related_facts:
+  - "[[United World Colleges]]"
+related_arguments:
+  - "[[Argument_Peterson_1987_OpenCourt_Ch05]]"
 confidence: high
 status: draft
 created: 2026-08-24

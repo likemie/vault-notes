@@ -18,10 +18,10 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Constructivist Paradigm]]"
   - "[[Analytic Framework]]"
-  - "[[Praxis]]"
   - "[[Test-Based Accountability]]"
   - "[[Learner-Centred Education]]"
   - "[[Dialogue in Education]]"
+  - "[[Praxis]]"
   - "[[Heterogeneity]]"
   - "[[Theoretical Standpoint]]"
   - "[[Ontology]]"
@@ -59,7 +59,7 @@ updated: '2026-07-21'
 > - **知识位置** 连接微观主体心理与宏观社会结构的跨学科中观[[Analytic Framework|分析框架]]，广泛应用于组织学习、工效学与教育改革研究。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 590–591)]]
 
 > [!claim] 核心主张
-> 人类[[Praxis|实践]]应被概念化为集体的、对象导向的活动系统。第三代活动理论的核心主张在于：不同活动系统之间的相遇、互动与边界跨越是组织变革的根本源泉；当系统内在与系统之间的结构性矛盾被识别和解决时，活动系统能够通过建构共享客体（Shared Object）实现“扩展性改造（Expansive Transformation）”。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 590–591, 600)]]
+> 人类实践应被概念化为集体的、对象导向的活动系统。第三代活动理论的核心主张在于：不同活动系统之间的相遇、互动与边界跨越是组织变革的根本源泉；当系统内在与系统之间的结构性矛盾被识别和解决时，活动系统能够通过建构共享客体（Shared Object）实现“扩展性改造（Expansive Transformation）”。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 590–591, 600)]]
 
 ---
 
@@ -67,7 +67,7 @@ updated: '2026-07-21'
 
 > [!proposition-chain] 三代活动理论的演变命题链
 > - **第一代命题：心理中介三角（Vygotsky, 1978）**
->   人类认知与[[Praxis|实践]]并非刺激—反应的直接联结，个体（主体，Subject）追求发展目标（客体，Object）的过程必然由社会文化符号与工具（中介工具，Mediating Tools）所中介。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 590)]]
+>   人类认知与实践并非刺激—反应的直接联结，个体（主体，Subject）追求发展目标（客体，Object）的过程必然由社会文化符号与工具（中介工具，Mediating Tools）所中介。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 590)]]
 > - **第二代命题：六要素集体活动系统（Engeström, 1987）**
 >   人类行为应作为集体活动来理解，分析单元由个体中介三角扩展为嵌入在社会情境中的六要素系统（主体、客体、中介工具、共同体、规则、劳动分工）。六要素相互咬合与制约。
 > - **第三代命题：多系统碰撞与扩展性改造（Engeström, 2001）**
@@ -120,7 +120,7 @@ updated: '2026-07-21'
 > [!theory-stance] [[Theoretical Standpoint|理论立场]]
 > - **[[Ontology|本体论]]与[[Epistemology|认识论]]** 社会文化历史[[Constructivist Paradigm|建构主义]]——人类认知、心理与组织行为均在具体的文化历史活动系统中被中介和建构，无法脱离中观活动情境单独抽象理解。
 > - **分析单元** 以“集体的、对象导向的活动系统”作为最小分析单元，替代个体行为或宏观制度的单向决定论。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 590)]]
-> - **方法论含义** 倡导质性[[Case Study|案例研究]]、[[Ethnography|民族志]]与发展性工作研究（Developmental Work Research），聚焦系统要素匹配、矛盾演进与转型[[Praxis|实践]]。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 593)]]
+> - **方法论含义** 倡导质性[[Case Study|案例研究]]、[[Ethnography|民族志]]与发展性工作研究（Developmental Work Research），聚焦系统要素匹配、矛盾演进与转型实践。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 593)]]
 > - **不能直接推出的东西** 本理论无法直接推出脱离中观情境的个体心理因果律，也不能将活动系统矛盾等同于机械的因果推论，更不能将共享客体建构误写为无摩擦的完美和谐过程。
 
 > [!theory-use] 理论使用方式
@@ -157,7 +157,7 @@ updated: '2026-07-21'
 > > [!axis] 系统决定论与微观主体主观能动性的张力
 > > 批评者认为活动理论过于强调六要素系统结构的制约，可能掩盖微观个体（如个别教师或学生）在系统压制下的主观能动性与抗争。
 > >
-> > - **Engeström（2001）** 强调扩展性改造正源于主体的边界跨越与[[Praxis|实践]]创新。
+> > - **Engeström（2001）** 强调扩展性改造正源于主体的边界跨越与实践创新。
 >
 > > [!axis] 六要素模型的抽象性与[[Operationalization|操作化]]门槛
 > > 部分研究者指出活动系统的六要素在实际[[Coding in Qualitative Research|编码]]中边界有时较为模糊，容易导致描述性归类而非深度的因果机制分析。

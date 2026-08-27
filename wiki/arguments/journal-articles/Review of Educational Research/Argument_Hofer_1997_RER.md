@@ -28,7 +28,7 @@ related_concepts:
   - "[[Multiplicity]]"
   - "[[Received Knowledge]]"
   - "[[Subjective Knowledge]]"
-  - "[[Procedural Skill]]"
+  - "[[Procedural Knowledge]]"
   - "[[Constructed Knowledge]]"
   - "[[Ways of Knowing]]"
   - "[[Absolute Knowing]]"

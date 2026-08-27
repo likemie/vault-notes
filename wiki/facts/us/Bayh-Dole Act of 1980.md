@@ -11,7 +11,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 15
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -22,7 +22,6 @@ tags:
   - "theme/university-industry-collaboration"
 related_concepts:
   - "[[University-Industry Collaboration]]"
-  - "[[Praxis]]"
   - "[[Technology Transfer]]"
   - "[[Technology Transfer Office]]"
   - "[[Conflict of Interest in Research]]"

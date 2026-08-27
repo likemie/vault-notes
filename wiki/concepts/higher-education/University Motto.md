@@ -7,7 +7,7 @@ aliases:
 summary: "大学用以表达教育理想和制度身份的凝缩文本，可折射不同文化传统对真理、知识、自由、修身与德行的理解"
 type: concept
 domain: "higher-education"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,6 +19,7 @@ tags:
 - theme/cross-cultural-learning
 - source/li-2012-cambridge
 related_concepts:
+  - "[[Creativity]]"
   - "[[Ritual Propriety]]"
   - "[[Self-Cultivation]]"
   - "[[Learning Virtues]]"

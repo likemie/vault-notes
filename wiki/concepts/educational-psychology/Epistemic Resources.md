@@ -5,7 +5,7 @@ aliases:
 summary: "一种细粒度、情境敏感的微观认知图式。该概念主张个体并不拥有跨情境稳定的宏大信念阶段，而是根据当下的活动任务与框架，动态激活并调配不同的底层认知资源。"
 type: concept
 domain: "educational-psychology"
-related_count: 11
+related_count: 10
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -15,7 +15,6 @@ related_concepts:
   - "[[Epistemological Beliefs]]"
   - "[[Questionnaire]]"
   - "[[Rote Learning]]"
-  - "[[Praxis]]"
   - "[[Practical Epistemology]]"
   - "[[Domain Specificity]]"
 related_theories:

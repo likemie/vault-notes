@@ -9,7 +9,7 @@ title: "Argument_Schulte_2009_EncuentrosEducacion"
 argument_key: "Argument_Schulte_2009_EncuentrosEducacion"
 argument_display_title: "The Chinese Dewey: Friend, fiend, and flagship"
 argument_kind: "journal-article"
-argument_related_count: 31
+argument_related_count: 30
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -40,7 +40,6 @@ related_concepts:
   - "[[Growth]]"
   - "[[Scientific Method]]"
   - "[[Scientific Attitude]]"
-  - "[[Praxis]]"
   - "[[Quality Education]]"
   - "[[Creativity Training]]"
   - "[[Analytic Framework]]"

@@ -10,10 +10,10 @@ related_stars: "☆"
 related_color: "#e5e7eb"
 tags: ["theme/discourse", "theme/global-governance", "theme/opportunity", "theme/subjectification", "region/europe"]
 related_concepts:
-  - "[[Praxis]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Analytic Framework]]"
   - "[[Critical Thinking]]"
+  - "[[Creativity]]"
   - "[[Self-Entrepreneur]]"
   - "[[Governmentality]]"
   - "[[Governing at a Distance]]"

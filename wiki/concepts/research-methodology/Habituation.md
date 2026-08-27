@@ -21,11 +21,11 @@ tags:
   - method/observation
 related_concepts:
   - "[[Informed Consent]]"
-  - "[[Praxis]]"
   - "[[Hypothesis]]"
   - "[[Presence]]"
   - "[[Covert Research]]"
   - "[[Habitus]]"
+  - "[[Praxis]]"
   - "[[Critical Pedagogy]]"
   - "[[Active Learning]]"
   - "[[Freedom of the Learner]]"

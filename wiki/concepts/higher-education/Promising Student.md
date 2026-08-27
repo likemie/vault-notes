@@ -20,8 +20,8 @@ tags:
 - theme/subjectification
 related_concepts:
   - "[[Online Self-Assessment]]"
-  - "[[Praxis]]"
   - "[[Performativity of Measurement]]"
+  - "[[Student Satisfaction]]"
   - "[[Academic Achievement]]"
   - "[[Learning Analytics]]"
   - "[[Digital Self]]"

@@ -8,7 +8,7 @@ aliases:
 summary: "Bernstein（2001）提出的概念，指教育关系从学校扩展到整个社会的社会形态，Cowen 视其为分析 21 世纪教育变迁的关键理论资源"
 type: concept
 domain: "sociology-of-education"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -31,6 +31,7 @@ related_persons:
   - "[[Basil Bernstein]]"
   - "[[Robert Cowen]]"
 related_facts:
+  - "[[CREATES Project]]"
   - "[[National Security Law]]"
 related_arguments:
   - "[[Argument_Cowen_2023_CE]]"

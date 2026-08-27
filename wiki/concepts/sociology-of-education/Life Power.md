@@ -14,11 +14,11 @@ tags:
 - region/brazil
 - region/global
 related_concepts:
-  - "[[Praxis]]"
   - "[[Emergence]]"
   - "[[Ganz-Methode]]"
   - "[[Ecomuseology]]"
   - "[[Whole Sustainability]]"
+  - "[[Creativity]]"
   - "[[Operationalization]]"
   - "[[Epistemology]]"
 related_theories:

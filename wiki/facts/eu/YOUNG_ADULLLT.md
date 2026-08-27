@@ -9,7 +9,7 @@ subtype: event
 region: eu
 fact_region: "eu"
 fact_kind: "event"
-fact_related_count: 13
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -21,7 +21,6 @@ tags:
 - research-project
 related_concepts:
   - "[[Lifelong Learning]]"
-  - "[[Praxis]]"
   - "[[Theories of Policy Change]]"
   - "[[Performance Indicators]]"
   - "[[Network Governance]]"

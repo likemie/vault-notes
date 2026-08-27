@@ -10,9 +10,9 @@ summary: "在元分析与调节效应建模中，用于检验三个或更多亚�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 22
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 24
+method_related_level: 3
+method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/statistical
@@ -26,7 +26,9 @@ related_concepts:
   - "[[Variable]]"
   - "[[Construct]]"
   - "[[Interaction Effect]]"
+  - "[[Mind Mapping]]"
   - "[[Argument Mapping]]"
+  - "[[Concept Mapping]]"
   - "[[Epistemology]]"
   - "[[Hypothesis]]"
   - "[[Sample Size Determination]]"

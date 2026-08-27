@@ -7,7 +7,7 @@ summary: "阿根廷裔文学与文化理论家，殖民性、边界思维与认�
 type: person
 nationality: argentina
 person_region: "argentina"
-person_related_count: 22
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Knowledge Transfer]]"
   - "[[Ganz-Methode]]"
-  - "[[Praxis]]"
   - "[[Theoretical Standpoint]]"
   - "[[Corporate University]]"
   - "[[Ways of Knowing]]"

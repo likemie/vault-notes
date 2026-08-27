@@ -8,7 +8,7 @@ aliases:
 summary: "评估研究价值的核心概念，区分原创性与贡献性，涵盖概念、理论、实质和方法论四个贡献维度，以及从知识贡献到知识影响的延伸判断"
 type: concept
 domain: "research-methodology"
-related_count: 6
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,7 +20,6 @@ related_concepts:
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Evaluation Research]]"
   - "[[Champ]]"
-  - "[[Praxis]]"
 related_theories: []
 related_methods:
   - "[[Quantitative Research]]"

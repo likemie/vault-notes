@@ -6,7 +6,7 @@ aliases:
 summary: "指大学从相对封闭的学术共同体转变为连接学生、教师、政府、市场和其他行动者的多利益相关者网络节点的制度形态。"
 type: concept
 domain: "higher-education"
-related_count: 11
+related_count: 10
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Competitiveness]]"
   - "[[Soft Power]]"
   - "[[Disciplina and Doctrina]]"
-  - "[[Praxis]]"
   - "[[Academic Freedom]]"
 related_theories:
   - "[[Societies of Control]]"

@@ -9,7 +9,7 @@ title: "Argument_Gorur_2014_Discourse"
 argument_key: "Argument_Gorur_2014_Discourse"
 argument_display_title: "Producing calculable worlds: education at a glance"
 argument_kind: "journal-article"
-argument_related_count: 17
+argument_related_count: 16
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -25,7 +25,6 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[International Education]]"
-  - "[[Praxis]]"
   - "[[Science and Technology Studies]]"
   - "[[Performativity]]"
   - "[[Analytic Framework]]"

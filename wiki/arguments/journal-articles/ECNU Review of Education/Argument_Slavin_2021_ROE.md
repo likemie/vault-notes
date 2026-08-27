@@ -11,7 +11,7 @@ title: "Argument_Slavin_2021_ROE"
 argument_key: "Argument_Slavin_2021_ROE"
 argument_display_title: "How could evidence-based reform advance education? ECNU Review of Education, 4(1), 7–24"
 argument_kind: "journal-article"
-argument_related_count: 17
+argument_related_count: 16
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Evidence-Based Reform]]"
   - "[[Evidence-Based Education]]"
   - "[[School Leadership]]"
-  - "[[Praxis]]"
   - "[[Entrepreneur in Residence]]"
   - "[[Operationalization]]"
   - "[[Document]]"

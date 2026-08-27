@@ -10,9 +10,9 @@ subtype: organization
 region: mexico
 fact_region: "mexico"
 fact_kind: "organization"
-fact_related_count: 5
+fact_related_count: 4
 fact_related_level: 0
-fact_related_stars: ""
+fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
 issuing_organization: "CENEVAL"
 tags:
@@ -21,11 +21,10 @@ tags:
   - theme/national-examinations
   - theme/higher-order-thinking
 related_concepts:
+  - "[[Academic Achievement]]"
   - "[[Critical Thinking]]"
-  - "[[Critical Thinking Assessment]]"
-  - "[[Higher-Order Thinking Skills]]"
-  - "[[Predictive Validity]]"
-related_theories: []
+related_theories:
+  - "[[Item Response Theory]]"
 related_methods: []
 related_instruments: []
 related_persons: []

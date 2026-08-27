@@ -10,9 +10,9 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 4
+fact_related_count: 5
 fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_stars: ""
 fact_related_color: "#dbeafe"
 issuing_organization: "White House Office of Management and Budget (OMB)"
 tags:
@@ -30,6 +30,8 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Hall_2025_EthicalLegalFrameworks]]"
+related_instruments:
+  - "[[VALUE Rubrics]]"
 confidence: medium
 status: draft
 created: 2026-06-04

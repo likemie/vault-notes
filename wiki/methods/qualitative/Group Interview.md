@@ -9,7 +9,7 @@ summary: "一种同时访谈多位受访者的数据收集方法，通过在群�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 11
+method_related_count: 10
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -20,7 +20,6 @@ tags:
 related_concepts:
   - "[[Epistemology]]"
   - "[[Dialogue in Education]]"
-  - "[[Praxis]]"
 related_methods:
   - "[[Focus Group]]"
   - "[[Cross-checking]]"

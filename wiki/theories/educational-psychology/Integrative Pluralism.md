@@ -6,7 +6,7 @@ aliases:
 summary: "一种承认认知发生在个体、个体-交互及活动系统等多个层级，并主张通过建立不同层级的局部模型进行因果跨层协作，以取代寻找大一统理论的理论范式。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 25
+theory_related_count: 24
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -33,7 +33,6 @@ related_concepts:
   - "[[Questionnaire]]"
   - "[[Knowledge Production]]"
   - "[[Incommensurability]]"
-  - "[[Praxis]]"
   - "[[Hypothesis]]"
 related_theories:
   - "[[Situative Perspective]]"
@@ -147,7 +146,7 @@ updated: 2026-08-19
 > > 各方对跨层级整合在方法论上是否具有实操性存在分歧。
 > >
 > > - **乐观的多元主义者** 认为只要采用[[Mixed Methods Research|混合方法]]（如视频观察+事后认知访谈），就能同时锁定不同层级的数据。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016)]]
-> > - **[[Paradigm|范式]]不可通约论者（[[Incommensurability]]）** 警告，不同层级的测量方法底层预设了完全对立的[[Ontology|本体论假设]]。强行将“关注隐性[[Praxis|实践]]的[[Discourse Analysis|话语分析]]”与“[[Hypothesis|假设]]内部信念存在的自陈[[Questionnaire|问卷]]”缝合，极易在论文中产生严重的逻辑撕裂。
+> > - **[[Paradigm|范式]]不可通约论者（[[Incommensurability]]）** 警告，不同层级的测量方法底层预设了完全对立的[[Ontology|本体论假设]]。强行将“关注隐性实践的[[Discourse Analysis|话语分析]]”与“[[Hypothesis|假设]]内部信念存在的自陈[[Questionnaire|问卷]]”缝合，极易在论文中产生严重的逻辑撕裂。
 
 ---
 

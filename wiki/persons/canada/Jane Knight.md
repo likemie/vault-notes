@@ -7,7 +7,7 @@ summary: "加拿大高等教育学者，国际教育枢纽与跨境高教研究�
 type: person
 nationality: canada
 person_region: "canada"
-person_related_count: 15
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Criterion-Referenced Test]]"
   - "[[Cultural Diplomacy]]"
-  - "[[Praxis]]"
 related_theories: []
 related_methods:
   - "[[Case Study]]"

@@ -5,15 +5,16 @@ summary: "德国哲学家和社会理论家，法兰克福学派第二代代表�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 7
-person_related_level: 0
-person_related_stars: ""
-person_related_color: "#e5e7eb"
+person_related_count: 8
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags: [person/philosopher, person/social-theorist, theme/critical-theory]
 related_concepts:
   - "[[Positivism]]"
   - "[[Scientism]]"
   - "[[Epistemology]]"
+  - "[[Creativity]]"
   - "[[Post-structuralism]]"
   - "[[Postmodernism]]"
 related_theories:

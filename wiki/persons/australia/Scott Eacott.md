@@ -7,7 +7,7 @@ summary: "澳大利亚教育行政学者，关系取向组织理论与领导力�
 type: person
 nationality: australia
 person_region: "australia"
-person_related_count: 20
+person_related_count: 19
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -19,7 +19,6 @@ tags:
   - region/australia
 related_concepts:
   - "[[Epistemology]]"
-  - "[[Praxis]]"
   - "[[Knowledge Production]]"
   - "[[Internal Consistency]]"
   - "[[Parallel Monologues]]"

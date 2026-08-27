@@ -9,7 +9,7 @@ title: "Argument_Cowen_2019_ERE"
 argument_key: "Argument_Cowen_2019_ERE"
 argument_display_title: "For whom does 'what works' work? The political economy of evidence-based education"
 argument_kind: "journal-article"
-argument_related_count: 23
+argument_related_count: 22
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -39,7 +39,6 @@ related_concepts:
   - "[[Champ]]"
   - "[[Hypothesis]]"
   - "[[Effect Size]]"
-  - "[[Praxis]]"
   - "[[Policy Borrowing]]"
 related_theories:
   - "[[Tullock's Bureaucracy Theory]]"

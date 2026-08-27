@@ -33,7 +33,6 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Document]]"
   - "[[Emergence]]"
-  - "[[Praxis]]"
   - "[[Effect Size]]"
   - "[[Causality]]"
   - "[[Avatar]]"
@@ -47,6 +46,7 @@ related_methods:
   - "[[Philosophical Analysis in Education]]"
   - "[[Case Study]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Critical Review]]"
   - "[[Random Assignment]]"
 related_persons:
   - "[[Gene Glass]]"

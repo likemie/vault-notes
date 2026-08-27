@@ -7,7 +7,7 @@ summary: "一种批判理论驱动的研究方法，与社区和群体一起而�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 14
+method_related_count: 13
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -17,7 +17,6 @@ tags:
   - paradigm/critical
 related_concepts:
   - "[[Reflexivity]]"
-  - "[[Praxis]]"
   - "[[Epistemology]]"
   - "[[Dialogue in Education]]"
   - "[[Variable]]"

@@ -10,7 +10,7 @@ subtype: policy
 region: hong-kong
 fact_region: "hong-kong"
 fact_kind: "policy"
-fact_related_count: 21
+fact_related_count: 20
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -25,7 +25,6 @@ tags:
 related_concepts:
   - "[[General Education]]"
   - "[[Zhonghua Minzu]]"
-  - "[[Praxis]]"
   - "[[Critical Thinking]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Soft Power]]"

@@ -15,7 +15,6 @@ tags:
   - theory/critical
   - paradigm/critical
 related_concepts:
-  - "[[Praxis]]"
   - "[[Epistemology]]"
   - "[[Value Neutrality]]"
   - "[[Causality]]"
@@ -23,6 +22,7 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Interpretive Paradigm]]"
   - "[[Rationalism in International Relations]]"
+  - "[[Praxis]]"
   - "[[Knowledge Production]]"
 related_theories:
   - "[[Critical Theory]]"
