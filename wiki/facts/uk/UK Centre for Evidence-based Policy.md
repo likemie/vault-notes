@@ -8,7 +8,7 @@ subtype: event
 region: uk
 fact_region: "uk"
 fact_kind: "event"
-fact_related_count: 4
+fact_related_count: 3
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#fef3c7"
@@ -18,7 +18,6 @@ tags:
   - theme/evidence-based-policy
 related_concepts:
   - "[[Evidence-Based Education]]"
-  - "[[Praxis]]"
 related_facts:
   - "[[EPPI-Centre]]"
 related_arguments:
@@ -26,7 +25,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-14
-updated: 2026-07-14
+updated: '2026-08-27'
 ---
 
 # UK Centre for Evidence-based Policy
@@ -46,7 +45,7 @@ updated: 2026-07-14
 
 ## 职能
 
-中心致力于弥合研究证据与政策制定之间的鸿沟，推动政策形成"以信息为依据"而非依赖直觉或意识形态。在循证[[Praxis|实践]]从医学向社会政策和教育扩散的过程中，该中心代表了社会科学领域对"什么有效"议程的制度化回应。
+中心致力于弥合研究证据与政策制定之间的鸿沟，推动政策形成"以信息为依据"而非依赖直觉或意识形态。在循证实践从医学向社会政策和教育扩散的过程中，该中心代表了社会科学领域对"什么有效"议程的制度化回应。
 
 ---
 

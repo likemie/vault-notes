@@ -8,7 +8,7 @@ aliases:
 summary: "批判性思维测评是对个体在论证分析、证据评价、推论构建与反思判断等高阶认知技能及求真探究倾向的操作化测量与促学评价；在教育与心理研究中用于量化学业增益、诊断思维短板并检验课程对齐与构念效度。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 60
+related_count: 63
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -71,10 +71,13 @@ related_instruments:
   - "[[VALUE Rubrics]]"
   - "[[Halpern Critical Thinking Assessment]]"
   - "[[Critical Thinking Assessment Test]]"
+  - "[[Collegiate Assessment of Academic Proficiency]]"
   - "[[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale]]"
 related_persons:
   - "[[John Biggs]]"
 related_facts:
+  - "[[Voluntary System of Accountability]]"
+  - "[[CALOHEE Project]]"
   - "[[OECD]]"
 related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
@@ -184,7 +187,7 @@ updated: 2026-08-27
 > 探讨如何跨越宏观政策倡导与微观课堂教学考核之间的松散耦合断裂。
 
 > [!claim] [[John Biggs|Biggs, J.]]; Rhodes, T. L.; Wagenaar, R.; Bouckaert, M.
-> **真实性评分量规的[[Ecological Validity|生态效度]]与促学机制** 大规模外部统考（如美国 VSA 计划）因与具体学科脱节、评分昂贵且无法指导教学改进而逐步退潮；以全美 AAC&U [[VALUE Rubrics|VALUE]] 量规和欧洲 CALOHEE 框架为代表的课程嵌入式质性评分量规（Rubrics），将抽象思维目标转化为可观察的阶梯式表现描述符（Benchmark → Capstone），直接嵌入真实[[Homework|作业]]与项目设计中。它既克服了传统评分的主观随意性与客观选择题的构念狭隘，又实现了从宏观资格框架、专业培养方案到课堂任务的[[Constructive Alignment|建构性对齐]]，并通过透明标准全面赋能[[Formative Assessment|形成性评价]]与学生自我调节。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 26–34)]]
+> **真实性评分量规的[[Ecological Validity|生态效度]]与促学机制** 大规模外部统考（如美国 [[Voluntary System of Accountability|VSA]] 计划）因与具体学科脱节、评分昂贵且无法指导教学改进而逐步退潮；以全美 AAC&U [[VALUE Rubrics|VALUE]] 量规和欧洲 [[CALOHEE Project|CALOHEE]] 框架为代表的课程嵌入式质性评分量规（Rubrics），将抽象思维目标转化为可观察的阶梯式表现描述符（Benchmark → Capstone），直接嵌入真实[[Homework|作业]]与项目设计中。它既克服了传统评分的主观随意性与客观选择题的构念狭隘，又实现了从宏观资格框架、专业培养方案到课堂任务的[[Constructive Alignment|建构性对齐]]，并通过透明标准全面赋能[[Formative Assessment|形成性评价]]与学生自我调节。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 26–34)]]
 
 ### 命题四　课程评价的构念效度依赖对高阶认知活动的充分表征并须防范术语表演风险
 
@@ -211,8 +214,8 @@ updated: 2026-08-27
 > [!dev-timeline] [[Critical Thinking|批判性思维]]测评的技术演进与[[Paradigm|范式]]转向
 > - **1960–1980 年代　经典心理测量学客观测试主导** 以沃森-格拉瑟批判性思维评估（WGCTA, 1980）和康奈尔测试为代表，采用客观多项选择题（MCQs）测量推理、前提识别与解释，确立了高[[Reliability|信度]]与标准化常模范式。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 21)]]
 > - **1990 年代　德尔菲框架确立与倾向[[Questionnaire|问卷]]兴起** APA 德尔菲共识报告（Facione, 1990）将[[Construct|构念]]明确划分为认知技能与情意倾向双维度，催生了[[California Critical Thinking Skills Test|加州批判性思维技能测验]]（CCTST, 1992）与[[California Critical Thinking Disposition Inventory|加州批判性思维倾向问卷]]（CCTDI, 1992），开启了技能与倾向分离测量的阶段。[[Argument_Cole_2015_AJE|(Cole et al., 2015, pp. 251–252)]]
-> - **2000 年代　高等教育增值统考与自愿问责体系兴衰** 美国《斯佩林斯报告》（2006）推动建立自愿问责体系（VSA），采用大学学习评估（[[Collegiate Learning Assessment|CLA]]）等情境表现任务（PT）测量全校纵向[[Learning Gain|学习增益]]；但因外部统考与课程脱节、成本高昂及学生低利害动机缺失，增值统考在十年后大范围衰退。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 24–25)]]
-> - **2010 年代至今　校本真实性量规崛起与[[Formative Assessment|促学评价]]生态** 全美高校广泛转向 AAC&U [[VALUE Rubrics|VALUE]] 量规（Rhodes, 2009），欧洲推行 CALOHEE 参照框架（Wagenaar, 2018），批判性思维评价深度回归微观课堂，聚焦真实[[Task Structure|劣构任务]]、纯质性描述评语与多轮形成性反馈迭代。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 26–34)]]
+> - **2000 年代　高等教育增值统考与[[Voluntary System of Accountability|自愿问责体系]]兴衰** 美国《斯佩林斯报告》（2006）推动建立自愿问责体系（VSA），采用大学学习评估（[[Collegiate Learning Assessment|CLA]]）等情境表现任务（PT）测量全校纵向[[Learning Gain|学习增益]]；但因外部统考与课程脱节、成本高昂及学生低利害动机缺失，增值统考在十年后大范围衰退。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 24–25)]]
+> - **2010 年代至今　校本真实性量规崛起与[[Formative Assessment|促学评价]]生态** 全美高校广泛转向 AAC&U [[VALUE Rubrics|VALUE]] 量规（Rhodes, 2009），欧洲推行 [[CALOHEE Project|CALOHEE]] 参照框架（Wagenaar, 2018），批判性思维评价深度回归微观课堂，聚焦真实[[Task Structure|劣构任务]]、纯质性描述评语与多轮形成性反馈迭代。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 26–34)]]
 
 ---
 
@@ -224,7 +227,7 @@ updated: 2026-08-27
 > > 客观多项选择题（MCQs）以高[[Reliability|信度]]和低成本著称，但仅测量被动“再认”；开放表现任务（PT）与真实性量规具有极高[[Ecological Validity|生态效度]]并测度“主动生成”，但面临人工阅卷成本高昂与跨评卷人一致性难题。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 24–26)]]
 >
 > > [!axis] 通用标准化统考 vs 课程嵌入式校本量规
-> > 外部通用统考（如 [[Collegiate Learning Assessment|CLA]]、CAAP）试图提供跨校横向可比的增益基准，但脱离学科情境且低利害下学生作答动机涣散；校本真实性量规（如 [[VALUE Rubrics|VALUE]]）深度融入专业教学，但跨校横向可比性依赖严密的教师校准研讨。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 25–28)]]
+> > 外部通用统考（如 [[Collegiate Learning Assessment|CLA]]、[[Collegiate Assessment of Academic Proficiency|CAAP]]）试图提供跨校横向可比的增益基准，但脱离学科情境且低利害下学生作答动机涣散；校本真实性量规（如 [[VALUE Rubrics|VALUE]]）深度融入专业教学，但跨校横向可比性依赖严密的教师校准研讨。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 25–28)]]
 >
 > > [!axis] 数字打分 vs 纯质性描述反馈
 > > 在过程性评价中，数字评分易诱发学生的自我防卫（Ego-Involvement）与焦虑，抑制智识冒险；而单独给予定性评语能够激发任务卷入（Task-Involvement），是保护批判性探究与反思修正的关键条件。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 33)]]

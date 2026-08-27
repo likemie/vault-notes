@@ -9,10 +9,10 @@ aliases:
 summary: "衡量学生在高等教育阶段从入学到毕业期间在知识储备、高阶思维技能、工作就绪度及个人发展等维度所获得的净增长或纵向发展距离"
 type: concept
 domain: "higher-education"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 26
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 confidence: high
 status: draft
 tags:
@@ -40,14 +40,21 @@ related_instruments:
   - "[[VALUE Rubrics]]"
   - "[[Collegiate Learning Assessment]]"
   - "[[Cognitive Ability Test KFT]]"
+  - "[[Collegiate Assessment of Academic Proficiency]]"
+  - "[[ETS Proficiency Profile]]"
 related_persons: []
 related_facts:
   - "[[Graduate Outcomes Survey]]"
+  - "[[Irish Survey of Student Engagement]]"
+  - "[[Studiebarometeret]]"
+  - "[[KoKoHs Program]]"
+  - "[[TECO Project]]"
   - "[[OECD]]"
+  - "[[HEFCE Learning Gain Project]]"
 related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
 created: 2026-08-26
-updated: 2026-08-26
+updated: '2026-08-27'
 ---
 
 # Learning Gain
@@ -74,9 +81,9 @@ updated: 2026-08-26
 ## 核心要素
 
 > [!feature] 学习增益的三大测量取向与构件（Kandiko Howson, 2018; [[Argument_Bouckaert_2023_OECD|Bouckaert, 2023]]）
-> - **标准化认知前-[[Pre-test and Post-test|后测]]（Standardized Cognitive Pre-Post Testing）** 在新生入学与毕业阶段分别实施通用[[Cognitive Ability Test KFT|认知能力测验]]（如 [[Collegiate Learning Assessment|CLA+]]、CAAP、ETS Proficiency Profile），计算纵向分数增益或相对预期表现的残差值。
+> - **标准化认知前-[[Pre-test and Post-test|后测]]（Standardized Cognitive Pre-Post Testing）** 在新生入学与毕业阶段分别实施通用[[Cognitive Ability Test KFT|认知能力测验]]（如 [[Collegiate Learning Assessment|CLA+]]、[[Collegiate Assessment of Academic Proficiency|CAAP]]、[[ETS Proficiency Profile]]），计算纵向分数增益或相对预期表现的残差值。
 > - **课程[[Academic Achievement|学业表现]]与评分量规（Grades & Authentic Rubrics）** 追踪学生从低年级到高年级在课程[[Homework|作业]]、学术长文与毕业设计中基于表现性量规（如 [[VALUE Rubrics]]）的分数演进。
-> - **学生自陈与参与度调查（Student Self-Reports & Engagement Surveys）** 通过国家或院校层面的调查工具（如澳大利亚 [[Graduate Outcomes Survey|GOS]]、爱尔兰 ISSE、挪威 Studiebarometeret），测量学生感知到的[[Higher-Order Thinking Skills|高阶思维]]与通用技能收获。
+> - **学生自陈与参与度调查（Student Self-Reports & Engagement Surveys）** 通过国家或院校层面的调查工具（如澳大利亚 [[Graduate Outcomes Survey|GOS]]、爱尔兰 [[Irish Survey of Student Engagement|ISSE]]、挪威 [[Studiebarometeret]]），测量学生感知到的[[Higher-Order Thinking Skills|高阶思维]]与通用技能收获。
 
 ---
 
@@ -90,7 +97,7 @@ updated: 2026-08-26
 > 探讨增值评价如何使教育质量评估聚焦于真实教学产出与学生[[Growth|成长]]。
 
 > [!claim] [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]]
-> **增值导向对教学质量问责的重塑** 长期以来，高等教育质量评估过度依赖生源质量、科研产出与经费规模等输入与声誉指标，难以证明大学教育究竟为学生认知带来了何种实质增值（Arum & Roksa, 2011; Bok, 2006）。学习增益理念将评价焦点转移到学生高阶认知能力（[[Critical Thinking|批判性思维]]、创新问题解决）的实际增量上，促使高校关注教学法改进与课程对齐（[[Constructive Alignment]]）。德国 KoKoHs 项目、英国 Learning Gain 计划以及意大利 TECO 试点均表明，系统测量学习增益能够为院校改进教学提供直接实证反馈。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 4, 16–18)]]
+> **增值导向对教学质量问责的重塑** 长期以来，高等教育质量评估过度依赖生源质量、科研产出与经费规模等输入与声誉指标，难以证明大学教育究竟为学生认知带来了何种实质增值（Arum & Roksa, 2011; Bok, 2006）。学习增益理念将评价焦点转移到学生高阶认知能力（[[Critical Thinking|批判性思维]]、创新问题解决）的实际增量上，促使高校关注教学法改进与课程对齐（[[Constructive Alignment]]）。德国 [[KoKoHs Program|KoKoHs]] 项目、英国 Learning Gain 计划以及意大利 [[TECO Project|TECO]] 试点均表明，系统测量学习增益能够为院校改进教学提供直接实证反馈。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 4, 16–18)]]
 
 ---
 
@@ -107,4 +114,4 @@ updated: 2026-08-26
 ## 相关研究
 
 > [!evidence-grid] 相关研究索引
-> - [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] 详细梳理了 [[OECD]] 国家支持学习增益与[[Higher-Order Thinking Skills|高阶思维]]评价的政策项目（包括英国 HEFCE Learning Gain 计划、德国 KoKoHs 项目与意大利 ANVUR TECO 试验），分析了不同测度方法的优劣与政策启示。
+> - [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] 详细梳理了 [[OECD]] 国家支持学习增益与[[Higher-Order Thinking Skills|高阶思维]]评价的政策项目（包括英国 [[HEFCE Learning Gain Project|HEFCE Learning Gain]] 计划、德国 [[KoKoHs Program|KoKoHs]] 项目与意大利 ANVUR [[TECO Project|TECO]] 试验），分析了不同测度方法的优劣与政策启示。

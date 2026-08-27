@@ -10,7 +10,7 @@ aliases:
 summary: "创造力测评是对个体的发散思维潜能、创造过程认知加工、实际创新产品与日常观念行为特质的操作化测定与质性评价；在教育与心理研究中用于诊断创造潜能、衡量干预效果并化解效标困境。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 54
+related_count: 56
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -73,7 +73,9 @@ related_instruments:
 related_persons:
   - "[[Mark A. Runco]]"
 related_facts:
+  - "[[Rainbow Project]]"
   - "[[OECD]]"
+  - "[[CALOHEE Project]]"
   - "[[Gaokao]]"
 related_arguments:
   - "[[Argument_Runco_2026_CRJ]]"
@@ -187,7 +189,7 @@ updated: '2026-08-27'
 > 探讨高校如何跨越标准化测验与微观专业教学之间的鸿沟，构建支持创造力培育的评价体系。
 
 > [!claim] Rhodes, T. L.; Vincent-Lancrin, S., et al.; Wagenaar, R.; Bouckaert, M.
-> **真实性评分量规的促学赋能机制** 斯腾伯格在大学招生中试行的“彩虹项目”与“万花筒项目”虽然证实了创造力任务的增益价值，但因常模校准繁复未能制度化；以 AAC&U [[VALUE Rubrics|VALUE]] 创造性思维量规、[[OECD]] CERI 原型量规和欧洲 CALOHEE 参照框架为代表的课程嵌入式质性评分量规，将“承担智识风险”、“突破常规模式”与“多源观念整合”转化为公开透明的 4 级阶梯表现描述符，直接嵌入专业课程[[Homework|作业]]与毕业设计中。它既克服了标准化测验的常模脱节，又为师生提供了低利害试错与多轮反馈的形成性支架。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 24–30)]]
+> **真实性评分量规的促学赋能机制** 斯腾伯格在大学招生中试行的“[[Rainbow Project|彩虹项目]]”与“万花筒项目”虽然证实了创造力任务的增益价值，但因常模校准繁复未能制度化；以 AAC&U [[VALUE Rubrics|VALUE]] 创造性思维量规、[[OECD]] CERI 原型量规和欧洲 [[CALOHEE Project|CALOHEE]] 参照框架为代表的课程嵌入式质性评分量规，将“承担智识风险”、“突破常规模式”与“多源观念整合”转化为公开透明的 4 级阶梯表现描述符，直接嵌入专业课程[[Homework|作业]]与毕业设计中。它既克服了标准化测验的常模脱节，又为师生提供了低利害试错与多轮反馈的形成性支架。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 24–30)]]
 
 ### 命题总览
 
@@ -206,8 +208,8 @@ updated: '2026-08-27'
 > [!dev-timeline] [[Creativity|创造力]]测评的技术演进与[[Paradigm|范式]]转向
 > - **1950–1960 年代　[[Divergent Thinking|发散思维]]标准化测验奠基** 吉尔福德（Guilford, 1950/1967）提出发散思维结构，托兰斯（Torrance, 1966/1974）研制[[Torrance Tests of Creative Thinking|托兰斯创造性思维测验]]（TTCT），确立了以流畅性、灵活性、独创性与精致性为核心的心理测量学标准化测验范式。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, p. 5)]]
 > - **1980 年代　社会心理学与专家产品共识评定兴起** 阿玛比尔（Amabile, 1982, 1983）提出[[Consensual Assessment Technique|共识评估技术]]（CAT），将测评焦点从抽象的认知潜能转向真实创作成果的专家共识评判，奠定了产品评定的黄金标准。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 23)]]
-> - **2000 年代　大学招生创新探索与终身成就量表发展** 斯腾伯格（Sternberg, 2006, 2009）推行“彩虹项目”与“万花筒项目”在大学本科录取中试点创造力情境任务；卡森等（Carson et al., 2005）研发[[Creative Achievement Questionnaire|创造性成就问卷]]（CAQ），朗科等（Runco et al., 2001）研发[[Runco Ideational Behavior Scale|观念行为量表]]（RIBS），系统拓宽了日常与卓越成就测评通道。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, p. 6)]]
-> - **2010 年代至今　校本真实性量规崛起与多源复合测评** 全美高校推行 AAC&U [[VALUE Rubrics|VALUE]] 创造性思维量规（Rhodes, 2009），OECD CERI（2019）研发高等教育原型量规，欧洲推行 CALOHEE 创新评价框架，创造力评价全面融入专业课程、毕业设计与反思档案袋，走向支持低利害试错与形成性促学的现代评价生态。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 26–34)]]
+> - **2000 年代　大学招生创新探索与终身成就量表发展** 斯腾伯格（Sternberg, 2006, 2009）推行“[[Rainbow Project|彩虹项目]]”与“万花筒项目”在大学本科录取中试点创造力情境任务；卡森等（Carson et al., 2005）研发[[Creative Achievement Questionnaire|创造性成就问卷]]（CAQ），朗科等（Runco et al., 2001）研发[[Runco Ideational Behavior Scale|观念行为量表]]（RIBS），系统拓宽了日常与卓越成就测评通道。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, p. 6)]]
+> - **2010 年代至今　校本真实性量规崛起与多源复合测评** 全美高校推行 AAC&U [[VALUE Rubrics|VALUE]] 创造性思维量规（Rhodes, 2009），OECD CERI（2019）研发高等教育原型量规，欧洲推行 [[CALOHEE Project|CALOHEE]] 创新评价框架，创造力评价全面融入专业课程、毕业设计与反思档案袋，走向支持低利害试错与形成性促学的现代评价生态。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 26–34)]]
 
 ---
 
@@ -240,5 +242,5 @@ updated: '2026-08-27'
 > [!evidence-grid-a] 相关研究索引
 > - **[[Meta-meta-analysis|二阶元分析]]全景基准与[[Criterion Problem|效标困境]]** [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] 系统综合 52 项一阶[[Meta-analysis|元分析]]，确立了[[Creativity|创造力]]四大测量[[Paradigm|范式]]与二阶效应基准，揭示了[[Independent Variable|预测变量]]（$r = 0.29$）与[[Dependent Variable|结果变量]]（$r = 0.12$）的[[Effect Size|效应量]]不对称性，论证了多维复合测评的理论必然性。
 > - **测量类型调节与[[Common Method Variance|共同方法变异]]** [[Argument_Park_2026_TSC|Park et al. (2026)]] 通过[[Three-Level Meta-Analysis|三水平元分析]]检验创造力与[[Critical Thinking|批判性思维]]的测量相关，证实主客观测量类型显著调节观察效应（双主观 $r = 0.509$ vs 双客观 $r = 0.317$ vs 混合 $r = 0.195 \sim 0.260$），揭示了 CMV 膨胀与真实认知共享的双重机制。
-> - **跨国政策测绘与测评工具谱系** [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] [[Systematic Review|系统综述]] [[OECD]] 国家高等教育评价政策与实践，详尽梳理发散测验、[[Consensual Assessment Technique|CAT]] 专家评定、大学招生试验项目（Rainbow/Kaleidoscope）与校本真实性量规（[[VALUE Rubrics|VALUE]]/CERI/CALOHEE）的实施机制与制度困境。
+> - **跨国政策测绘与测评工具谱系** [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] [[Systematic Review|系统综述]] [[OECD]] 国家高等教育评价政策与实践，详尽梳理发散测验、[[Consensual Assessment Technique|CAT]] 专家评定、大学招生试验项目（Rainbow/Kaleidoscope）与校本真实性量规（[[VALUE Rubrics|VALUE]]/CERI/[[CALOHEE Project|CALOHEE]]）的实施机制与制度困境。
 > - **社会建构教学干预与创造性思维赋能** [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] 基于二阶元分析证实[[Cooperative Learning|合作学习]]对创造性思维等[[Higher-Order Thinking Skills|高阶认知技能]]具有显著促进效应（$ES = 0.76$），确立了同伴互动对打破思维定势与激发原创构想的教学价值。

@@ -21,7 +21,6 @@ tags: ["theme/university-industry-collaboration", "theme/faculty-engagement", "t
 related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Conflict of Interest in Research]]"
-  - "[[Praxis]]"
   - "[[Cooperative Education]]"
   - "[[Declaration on Research Assessment]]"
   - "[[Document]]"
@@ -46,13 +45,14 @@ related_facts:
   - "[[University of Waterloo Inventor-Owned IP Policy]]"
   - "[[Schlegel-UW Research Institute for Aging]]"
   - "[[University of Waterloo Global Futures Framework]]"
+  - "[[European Standards and Guidelines]]"
 related_arguments: []
 sources:
   - "[[books/Hall_Boccanfuso_2025_Springer/Ch13_Dean_2025|Ch13_Dean_2025]]"
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 status: draft
 created: 2026-06-03
-updated: 2026-08-20
+updated: '2026-08-27'
 year: 2025
 doi: ""
 citation_aliases:
@@ -74,7 +74,7 @@ citation_aliases:
 
 > [!abstract]
 > 不依赖正式学术理论，而是基于作者在滑铁卢大学研究行政部门的集体实践经验，同时整合以下分析资源：
-> - [[University-Industry Collaboration]] — 采用 Ankrah and Al-Tabbaa（2015, p.388）的定义，将产学合作理解为产业与大学之间的**双向信息交流（bi-directional exchange of information）**，而非狭义的合同研究(p.242)。
+> - [[University-Industry Collaboration]] — 采用 Ankrah & Al-Tabbaa（2015, p.388）的定义，将产学合作理解为产业与大学之间的**双向信息交流（bi-directional exchange of information）**，而非狭义的合同研究(p.242)。
 > - Bruneel、D'Este & Salter(2010)的障碍分类框架 — 将产学合作障碍分为两类：(i) 产学取向差异（differences in UI orientation），即大学与企业在使命、文化和价值观上的系统性差异；(ii) 交易相关障碍（transaction-related barriers），即合同谈判、知识产权安排和行政流程等操作层面的摩擦(p.245)。
 > - [[Declaration on Research Assessment|DORA]]（科研评估宣言） — 作为研究评估改革的参照框架，主张在教师晋升与终身教职评审中关注研究的影响力而非机械依赖[[Document|文献]]计量指标(pp.250–251)。
 
@@ -164,7 +164,7 @@ citation_aliases:
 
 ### 论证四：价值筛选与研究安全——开放与保护的双重考量
 
-13. 大学在决定与哪些产业伙伴合作时，面临一个超越法律合规的价值判断问题。第一层当然是遵守法律和政府制裁规定。但法律底线之上还有道德和伦理考量：环境、社会和治理（ESG）因素是否应该进入合作决策？近年大学投资策略中对气候变化撤资的推动表明，大学对其所建立的关系负有道德责任(p.249)。
+13. 大学在决定与哪些产业伙伴合作时，面临一个超越法律合规的价值判断问题。第一层当然是遵守法律和政府制裁规定。但法律底线之上还有道德和伦理考量：环境、社会和治理（[[European Standards and Guidelines|ESG]]）因素是否应该进入合作决策？近年大学投资策略中对气候变化撤资的推动表明，大学对其所建立的关系负有道德责任(p.249)。
 
 14. **[[Research Security|研究安全]]（research security）**是地缘政治紧张背景下产学合作的新维度。滑铁卢大学采取了多层次策略(pp.249–250)：
     - **第一阶段：教育与会诊**。研究办公室主办了**今日地缘政治时代的研究安全**会议，让利益相关方了解外国行为体对研究的威胁，并听取政府资助机构和官员的安全规划。

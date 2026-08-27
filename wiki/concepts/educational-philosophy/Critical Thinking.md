@@ -6,7 +6,7 @@ aliases:
 summary: "以理由权衡、有目的的反思判断和自我调节为核心，统合认知技能、思维倾向、领域知识与情境标准；在教育研究中用于设计教学、界定学习结果并检验课程与评估的构念效度。"
 type: concept
 domain: "educational-philosophy"
-related_count: 81
+related_count: 83
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -81,7 +81,9 @@ related_persons:
   - "[[Thomas Kuhn]]"
   - "[[Plato]]"
   - "[[Aristotle]]"
-related_facts: []
+related_facts:
+  - "[[CRITHINKEDU Project]]"
+  - "[[CALOHEE Project]]"
 related_arguments:
   - "[[Argument_Hughes_2014_JRIE]]"
   - "[[Argument_Kuhn_2000_CD]]"
@@ -376,7 +378,7 @@ updated: '2026-08-27'
 > | Loyalka et al. (2021)，引自同上 | $N > 30{,}000$ 名中、印、俄、美 STEM 本科生 | 跨国纵向追踪（[[ETS HEIghten Critical Thinking Assessment\|ETS HEIghten]] 测验） | 批判性思维技能跨学段增长轨迹 | 中俄学生大一入学生源测试显著高于美生，但就读四年间技能无明显增长或相对下滑，最终被美生反超 | 跨国组间差异显著 | 证实大学阶段教学法与批判性思维培养对高阶心智增长的决定性作用 |
 > | AAC&U (2016) 调查，引自同上 | $N = 325$ 所全美高校学术主管 | 宏观院校调查 | 全校通用成果标准与量规采纳率 | 85% 高校建立全校通用成果标准，其中 98% 包含批判性思维；开展累积评价的高校中 91% 使用评分量规，42% 采纳 [[VALUE Rubrics\|VALUE]] 量规 | — | 宏观管理实践数据，证实批判性思维已成为全校性核心学习成果 |
 > | EUA Trends (2018) 调查，引自同上 | $N = 303$ 所全欧大学（覆盖 43 国） | 宏观院校调查 | 预期学习成果与考核方式改革 | 76% 大学为所有课程设定预期成果，88% 大学据此调整了考核方式，但 66% 在考核对齐中遭遇制度阻碍 | — | 欧洲高等教育区大范围普查，揭示批判性思维教学与考核对齐的制度惯性 |
-> | CRITHINKEDU (Dominguez, 2018)，引自同上 | $N = 53$ 名欧洲 9 国大学教师 | 深度[[Qualitative Interview\|质性访谈]] | 日常课程中批判性思维显性测评工具使用率 | 47 / 53 名任课教师在日常教学考核中完全没有使用任何特定工具或显性量规 | — | 揭示高校微观教学中显性[[Critical Thinking Assessment\|批判性思维测评]]工具与教师评价素养的严重匮乏 |
+> | [[CRITHINKEDU Project\|CRITHINKEDU]] (Dominguez, 2018)，引自同上 | $N = 53$ 名欧洲 9 国大学教师 | 深度[[Qualitative Interview\|质性访谈]] | 日常课程中批判性思维显性测评工具使用率 | 47 / 53 名任课教师在日常教学考核中完全没有使用任何特定工具或显性量规 | — | 揭示高校微观教学中显性[[Critical Thinking Assessment\|批判性思维测评]]工具与教师评价素养的严重匮乏 |
 
 ---
 
@@ -392,4 +394,4 @@ updated: '2026-08-27'
 > - **教学策略元分析与复合干预** [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] 综合 341 项实验与准[[Experimental Research|实验研究]]，确立了[[Authentic Instruction|真实性教学]]、[[Dialogue in Education|对话]]与[[Mentorship|导师制]]三维协同对批判性思维技能与倾向的最高干预效应（$g+ = 0.57$）。
 > - **[[Problem-Based Learning|PBL]] 与[[Meta-meta-analysis|二阶元分析]]实证** [[Argument_Erdem_2026_SHE|Erdem et al. (2026)]] 综合 20 项一阶元分析，报告 PBL 对高等教育学生[[Critical Thinking|批判性思维]]的高效应（ES = 0.56），并将批判性思维作为结果类型之一纳入调节分析。
 > - **与[[Creativity|创造力]]关系的元分析实证** [[Argument_Park_2026_TSC|Park et al. (2026)]] 综合 29 项学生研究 51 个[[Effect Size|效应量]]，确立批判性思维与创造力中等正相关（$r = 0.386$），并证实测量类型显著调节相关，双主观测量组合相关最高（$r = 0.509$），提示自陈测量中的[[Common Method Variance|共同方法变异]]放大了观察相关。
-> - **[[Critical Thinking Assessment|批判性思维测评]]与测量方法学** 参见专门概念条目 [[Critical Thinking Assessment|批判性思维测评]]，该条目系统整合了从心理测量学客观测试（[[Watson-Glaser Critical Thinking Appraisal|WGCTA]]/[[California Critical Thinking Skills Test|CCTST]]）、自陈倾向[[Questionnaire|问卷]]（[[California Critical Thinking Disposition Inventory|CCTDI]]/[[Critical Thinking Strategies Scale|CTSS]]）到校本真实性评分量规（[[VALUE Rubrics|VALUE]]/CALOHEE）的工具谱系、共同方法变异机制及形成性[[Formative Assessment|促学评价]]生态。
+> - **[[Critical Thinking Assessment|批判性思维测评]]与测量方法学** 参见专门概念条目 [[Critical Thinking Assessment|批判性思维测评]]，该条目系统整合了从心理测量学客观测试（[[Watson-Glaser Critical Thinking Appraisal|WGCTA]]/[[California Critical Thinking Skills Test|CCTST]]）、自陈倾向[[Questionnaire|问卷]]（[[California Critical Thinking Disposition Inventory|CCTDI]]/[[Critical Thinking Strategies Scale|CTSS]]）到校本真实性评分量规（[[VALUE Rubrics|VALUE]]/[[CALOHEE Project|CALOHEE]]）的工具谱系、共同方法变异机制及形成性[[Formative Assessment|促学评价]]生态。

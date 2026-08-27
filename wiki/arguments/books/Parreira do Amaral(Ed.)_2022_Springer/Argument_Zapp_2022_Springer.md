@@ -31,7 +31,6 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Paradigm]]"
   - "[[Realism in International Relations]]"
-  - "[[Praxis]]"
   - "[[Performance Indicators]]"
   - "[[Research Problem]]"
   - "[[University Social Responsibility]]"
@@ -55,6 +54,7 @@ related_facts:
   - "[[UN Sustainable Development Goals]]"
   - "[[OECD]]"
   - "[[Education at a Glance]]"
+  - "[[European Standards and Guidelines]]"
   - "[[GATS and Trade in Education Services]]"
   - "[[Research Excellence Framework]]"
   - "[[THE Impact Ranking]]"
@@ -64,7 +64,7 @@ sources:
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
 created: '2026-05-11'
-updated: 2026-07-09
+updated: '2026-08-27'
 year: 2022
 doi: ""
 citation_aliases:
@@ -156,7 +156,7 @@ Zapp 论证大学经历了两个层次的身份变化(pp.147–149)：
 
 **机制三：内部政策对齐（Aligning Internal Policies）**。大学不仅对外声称支持 SDGs，也在内部落实。Zapp 发现了 [[University Social Responsibility|大学社会责任]]（USR）的制度化趋势——Corporate Register (2019) 和全球报告倡议组织（Global Reporting Initiative, GRI） (2019) 的数据库共列出全球 200+ 所大学的企业社会责任（Corporate Social Responsibility, CSR）报告，其中大多数在过去 5 年内首次发布（Fig. 9.1）。大学校园正被改造为"活实验室"和"可持续发展试验台"——涵盖能源、水、交通、废物和食品的全系统可持续管理，并通过专门的办公室和组织单元实现正式制度化(pp.152–153)。
 
-> 例：这类似于企业从"我们合规了"到"我们在做环境、社会和治理（Environmental, Social and Governance, ESG）报告"的转变。一所大学不再只说"我们有化学实验室"，而是说"我们的化学实验室实现了零碳排放，使用的能源 100% 来自校园太阳能板，相关数据已在年度可持续发展报告中披露"。Zapp 用 Fig. 9.1 展示这种转变的加速：1990 年几乎没有大学发布 CSR 报告，到 2020 年超过 150 所——指数级增长。
+> 例：这类似于企业从"我们合规了"到"我们在做环境、社会和治理（Environmental, Social and Governance, [[European Standards and Guidelines|ESG]]）报告"的转变。一所大学不再只说"我们有化学实验室"，而是说"我们的化学实验室实现了零碳排放，使用的能源 100% 来自校园太阳能板，相关数据已在年度可持续发展报告中披露"。Zapp 用 Fig. 9.1 展示这种转变的加速：1990 年几乎没有大学发布 CSR 报告，到 2020 年超过 150 所——指数级增长。
 
 **机制四：网络对齐（Aligning Networks）**。大学组建"元组织"（meta-organizations，即以组织为成员的组织）来联合应对全球问题。Brankovic (2018) 追溯发现 185 个此类协会，大多数在过去二十年成立(p.153)。在 SDG 领域，联合国可持续发展解决方案网络（UN Sustainable Development Solutions Network, UN SDSN）将大学、政府机构、研究机构和国际组织与非政府组织（International and Non-Governmental Organizations, I(N)GOs）聚集在一起开发和推广 SD 政策。国际大学协会（International Association of Universities, IAU）主办"高等教育与研究促进可持续发展"（Higher Education and Research for Sustainable Development, HEA-RSD）倡议，其 Iquitos Statement 详细说明大学如何为 SDGs 做贡献(pp.153–154)。
 

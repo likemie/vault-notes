@@ -10,7 +10,7 @@ subtype: event
 region: uk
 fact_region: "uk"
 fact_kind: "event"
-fact_related_count: 5
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#fef3c7"
@@ -27,10 +27,12 @@ related_facts:
   - "[[EPPI-Centre]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17]]"
+related_instruments:
+  - "[[VALUE Rubrics]]"
 confidence: medium
 status: draft
 created: 2026-07-14
-updated: 2026-07-14
+updated: '2026-08-27'
 ---
 
 # CEM Centre
@@ -45,7 +47,7 @@ updated: 2026-07-14
 > - **创始人** Carol Fitz-Gibbon and Peter Tymms
 > - **定位** 大学内部最大的教育研究单位，专注于为学校提供基于数据的监测与评估工具
 
-CEM 中心（Curriculum, Evaluation and Management Centre，课程、评估与管理中心）是英国最早系统性地将增值评估（value-added assessment）引入学校实践的研究机构之一（pp.330–335）。
+CEM 中心（Curriculum, Evaluation and Management Centre，课程、评估与管理中心）是英国最早系统性地将增值评估（[[VALUE Rubrics|VALUE]]-added assessment）引入学校实践的研究机构之一（pp.330–335）。
 
 ---
 

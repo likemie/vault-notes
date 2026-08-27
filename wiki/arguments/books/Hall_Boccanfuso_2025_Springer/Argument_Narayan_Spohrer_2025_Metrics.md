@@ -10,7 +10,6 @@ publisher: "Springer"
 tags: ["theme/university-industry-collaboration", "theme/metrics-and-incentives", "theme/talent-development", "source/industry-perspective"]
 related_concepts:
   - "[[University-Industry Collaboration]]"
-  - "[[Praxis]]"
   - "[[Literature Review]]"
   - "[[Six Rs of University-Industry Relations]]"
   - "[[Public-Private Partnership in Research]]"
@@ -39,6 +38,7 @@ related_persons:
   - "[[Jim Spohrer]]"
 related_facts:
   - "[[Kendall Square]]"
+  - "[[CREATES Project]]"
   - "[[National Science Foundation]]"
 related_arguments: []
 sources:
@@ -46,7 +46,7 @@ sources:
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 status: draft
 created: 2026-05-28
-updated: 2026-08-20
+updated: '2026-08-27'
 subtype: book-chapter
 publication_type: book
 title: "Argument_Narayan_Spohrer_2025_Metrics"
@@ -209,7 +209,7 @@ citation_aliases:
 > [!example] MIT-IBM Watson AI Lab（大型 · [[Industry Affiliate Program|产业联盟]]型）
 > 该实验室成立于 2017 年，目前管理超过 80 个项目，重点是基于数据驱动的深度学习方法理解语言和视觉世界，以及使大规模 AI 系统更高效和鲁棒的技术(p.93)。实验室还开发面向医疗保健和各种决策应用的 AI 系统。2021 年，IBM 研究团队搬入 MIT 校园内 [[Kendall Square]] 的新办公室，与 MIT 师生同址办公(p.94)。这种物理共址（[[University-Industry Co-location|co-location]]）旨在降低日常沟通的摩擦成本。该案例最显著的创新是其产业成员模式：Shell、Evonik、Wells Fargo、Boston Scientific、Nexplore、Woodside 等大企业作为成员加入，在顾问委员会中拥有席位，通过领域知识影响研究组合(pp.94–95)。成员企业的收益分三个层次：第一，可商用 IP 条款——与通常只能非商业使用的开源代码不同，该合作中开发的 IP 可用于构建专有技术以产生商业影响；第二，IBM 科学家为成员企业提供战略咨询和规模化路径建议；第三，成员企业可参加研讨会、教程和网络研讨会以发展内部 AI 技能。度量的核心是成员企业数量、成员企业对价值的反馈、以及 IP 被产业采纳的案例数，这些都是论文数之外的新维度。
 
-> [!example] Albany NanoTech / NY CREATES（大型 · 国家战略型）
+> [!example] Albany NanoTech / NY [[CREATES Project|CREATES]]（大型 · 国家战略型）
 > 这是 IBM、纽约州政府与多所学术机构之间持续超过 20 年的半导体研发合作伙伴关系(pp.94–95)。该设施由纽约研究、经济促进、技术、工程与科学中心（Center for Research, Economic Advancement, Technology, Engineering and Science, NY CREATES）拥有和运营，是美国最大和最先进的非营利半导体研发设施之一。自成立以来，Albany NanoTech 园区的资本投资已超过 $150 亿，NY CREATES 的年度运营预算约 $3 亿且仍在增长(p.95)。园区企业合作伙伴包括 GlobalFoundries、Samsung、Applied Materials、Tokyo Electron、ASML and Lam Research，形成了完整的半导体制造生态。最新的技术突破是纳米片（nanosheet），铺平了通向 2 纳米节点的道路。该合作还包含大量的劳动力培训维度，纽约州政府的重大投资正是出于这一考量。州政府关心的不仅是一篇论文或一项专利，而是半导体产业在纽约州创造的就业机会和技术人才储备。度量的重点因利益相关方而异：对企业，看先进制程的研发进展；对州政府，看就业和经济带动效应；对大学，看研究机会和学生就业。这种多利益相关方、多度量维度的复杂性，正是大型项目区别于中型项目的根本特征。
 
 > 三个大型案例放在教育语境下，对应着不同的合作[[Paradigm|范式]]。IIDAI 的平台驱动模式，类似一所师范大学与全省若干县市教育局共建教育数据平台——平台是共享基础设施，各县市在此之上开发自己的应用。MIT-IBM 的产业联盟模式，类似教育学院联合多家教育科技企业、出版商和公益基金会共建教育创新实验室，每家成员带来不同的领域知识和资源，共享研究成果和 IP。Albany 的国家战略模式，类似国家层面推动的区域教师发展中心——长期、大资本投入、政府深度参与、关键是产业生态的培育而不仅是短期项目成果。

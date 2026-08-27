@@ -13385,6 +13385,17 @@
     ]
   },
   {
+    "title": "Course Experience Questionnaire",
+    "type": "instrument",
+    "path": "wiki/instruments/questionnaire/Course Experience Questionnaire.md",
+    "aliases": [
+      "CEQ",
+      "澳大利亚课程体验问卷",
+      "课程体验问卷",
+      "Course Experience Questionnaire (CEQ)"
+    ]
+  },
+  {
     "title": "Creative Achievement Questionnaire",
     "type": "instrument",
     "path": "wiki/instruments/questionnaire/Creative Achievement Questionnaire.md",
@@ -13586,6 +13597,17 @@
     ]
   },
   {
+    "title": "BioMedical Admissions Test",
+    "type": "instrument",
+    "path": "wiki/instruments/tests/BioMedical Admissions Test.md",
+    "aliases": [
+      "BMAT",
+      "生物医学入学考试",
+      "剑桥生物医学入学测验",
+      "BioMedical Admissions Test (BMAT)"
+    ]
+  },
+  {
     "title": "California Critical Thinking Skills Test",
     "type": "instrument",
     "path": "wiki/instruments/tests/California Critical Thinking Skills Test.md",
@@ -13605,6 +13627,17 @@
       "KFT 4-13+R",
       "Kognitiver Fähigkeitstest",
       "认知能力测验"
+    ]
+  },
+  {
+    "title": "Collegiate Assessment of Academic Proficiency",
+    "type": "instrument",
+    "path": "wiki/instruments/tests/Collegiate Assessment of Academic Proficiency.md",
+    "aliases": [
+      "CAAP",
+      "大学学业能力测评",
+      "大学生学业能力测评",
+      "Collegiate Assessment of Academic Proficiency (CAAP)"
     ]
   },
   {
@@ -13663,6 +13696,29 @@
     ]
   },
   {
+    "title": "ETS Proficiency Profile",
+    "type": "instrument",
+    "path": "wiki/instruments/tests/ETS Proficiency Profile.md",
+    "aliases": [
+      "EPP",
+      "MAPP",
+      "学术水平概况测验",
+      "基础学业能力测验",
+      "Measure of Academic Proficiency and Progress"
+    ]
+  },
+  {
+    "title": "Graduate Skills Assessment",
+    "type": "instrument",
+    "path": "wiki/instruments/tests/Graduate Skills Assessment.md",
+    "aliases": [
+      "GSA",
+      "澳大利亚毕业生技能测验",
+      "毕业生技能测验",
+      "Graduate Skills Assessment (GSA)"
+    ]
+  },
+  {
     "title": "Halpern Critical Thinking Assessment",
     "type": "instrument",
     "path": "wiki/instruments/tests/Halpern Critical Thinking Assessment.md",
@@ -13671,6 +13727,29 @@
       "霍尔珀恩批判性思维测评",
       "霍尔珀恩批判性思维测验",
       "Halpern Critical Thinking Assessment (HCTA)"
+    ]
+  },
+  {
+    "title": "Law National Aptitude Test",
+    "type": "instrument",
+    "path": "wiki/instruments/tests/Law National Aptitude Test.md",
+    "aliases": [
+      "LNAT",
+      "英国法学国家能力测试",
+      "法学国家能力测试",
+      "Law National Aptitude Test (LNAT)"
+    ]
+  },
+  {
+    "title": "Medical College Admission Test",
+    "type": "instrument",
+    "path": "wiki/instruments/tests/Medical College Admission Test.md",
+    "aliases": [
+      "MCAT",
+      "医学院入学考试",
+      "批判性分析与推理技能测验",
+      "MCAT CARS",
+      "Medical College Admission Test (MCAT)"
     ]
   },
   {
@@ -15918,6 +15997,16 @@
     ]
   },
   {
+    "title": "Exame Nacional de Desempenho dos Estudantes",
+    "type": "fact",
+    "path": "wiki/facts/brazil/Exame Nacional de Desempenho dos Estudantes.md",
+    "aliases": [
+      "ENADE",
+      "巴西全国学生学业成就测试",
+      "巴西全国学生成绩考试"
+    ]
+  },
+  {
     "title": "Jerudong International School Establishment",
     "type": "fact",
     "path": "wiki/facts/brunei/Jerudong International School Establishment.md",
@@ -16325,6 +16414,26 @@
     ]
   },
   {
+    "title": "CREATES Project",
+    "type": "fact",
+    "path": "wiki/facts/eu/CREATES Project.md",
+    "aliases": [
+      "CREATES",
+      "欧洲共创自主学习项目",
+      "Creating Responsive, Engaging and Active Tertiary Education with Students"
+    ]
+  },
+  {
+    "title": "CRITHINKEDU Project",
+    "type": "fact",
+    "path": "wiki/facts/eu/CRITHINKEDU Project.md",
+    "aliases": [
+      "CRITHINKEDU",
+      "高等教育课程批判性思维项目",
+      "Critical Thinking in Higher Education Curricula"
+    ]
+  },
+  {
     "title": "Lisbon Strategy",
     "type": "fact",
     "path": "wiki/facts/eu/Lisbon Strategy.md",
@@ -16333,6 +16442,17 @@
       "里斯本议程",
       "Lisbon Agenda",
       "Estratégia de Lisboa"
+    ]
+  },
+  {
+    "title": "Tuning Project",
+    "type": "fact",
+    "path": "wiki/facts/eu/Tuning Project.md",
+    "aliases": [
+      "Tuning",
+      "欧洲调整项目",
+      "欧洲高校课程结构调整项目",
+      "Tuning Educational Structures in Europe"
     ]
   },
   {
@@ -16385,6 +16505,27 @@
       "欧洲2020战略",
       "EU 2020 Strategy",
       "Europe 2020"
+    ]
+  },
+  {
+    "title": "European Standards and Guidelines",
+    "type": "fact",
+    "path": "wiki/facts/eu/European Standards and Guidelines.md",
+    "aliases": [
+      "ESG",
+      "ESG 2015",
+      "欧洲高等教育区质量保障标准与准则",
+      "Standards and Guidelines for Quality Assurance in the European Higher Education Area"
+    ]
+  },
+  {
+    "title": "HEInnovate",
+    "type": "fact",
+    "path": "wiki/facts/eu/HEInnovate.md",
+    "aliases": [
+      "欧洲创新型高校评估框架",
+      "创新型高等教育机构自我评估工具",
+      "HEInnovate Initiative"
     ]
   },
   {
@@ -17022,6 +17163,17 @@
     ]
   },
   {
+    "title": "Irish Survey of Student Engagement",
+    "type": "fact",
+    "path": "wiki/facts/ireland/Irish Survey of Student Engagement.md",
+    "aliases": [
+      "ISSE",
+      "StudentSurvey.ie",
+      "爱尔兰学生投入调查",
+      "爱尔兰大学生参与调查"
+    ]
+  },
+  {
     "title": "TECO Project",
     "type": "fact",
     "path": "wiki/facts/italy/TECO Project.md",
@@ -17315,6 +17467,17 @@
     "aliases": [
       "明日学校改革",
       "Tomorrow's Schools"
+    ]
+  },
+  {
+    "title": "Studiebarometeret",
+    "type": "fact",
+    "path": "wiki/facts/norway/Studiebarometeret.md",
+    "aliases": [
+      "挪威全国学生调查",
+      "挪威大学生学业体验晴雨表",
+      "Norwegian National Student Survey",
+      "Studiebarometeret Survey"
     ]
   },
   {
@@ -18397,6 +18560,16 @@
     ]
   },
   {
+    "title": "Rainbow Project",
+    "type": "fact",
+    "path": "wiki/facts/us/Rainbow Project.md",
+    "aliases": [
+      "彩虹项目",
+      "斯腾伯格彩虹项目",
+      "Sternberg Rainbow Project"
+    ]
+  },
+  {
     "title": "Research Triangle Park",
     "type": "fact",
     "path": "wiki/facts/us/Research Triangle Park.md",
@@ -18683,6 +18856,17 @@
     ]
   },
   {
+    "title": "InTASC Standards",
+    "type": "fact",
+    "path": "wiki/facts/us/InTASC Standards.md",
+    "aliases": [
+      "InTASC",
+      "州际新教师评估与支持联盟标准",
+      "InTASC Model Core Teaching Standards",
+      "InTASC Consortium"
+    ]
+  },
+  {
     "title": "Manufacturing USA",
     "type": "fact",
     "path": "wiki/facts/us/Manufacturing USA.md",
@@ -18756,6 +18940,17 @@
       "美国科技创新政策",
       "US Innovation Policy",
       "American Innovation Policy"
+    ]
+  },
+  {
+    "title": "Voluntary System of Accountability",
+    "type": "fact",
+    "path": "wiki/facts/us/Voluntary System of Accountability.md",
+    "aliases": [
+      "VSA",
+      "美国自愿问责体系",
+      "自愿问责体系",
+      "Voluntary System of Accountability (VSA)"
     ]
   },
   {
