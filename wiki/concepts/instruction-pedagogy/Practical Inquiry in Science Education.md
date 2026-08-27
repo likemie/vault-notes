@@ -9,7 +9,7 @@ aliases:
 summary: "指学生通过亲自动手实验、野外考察和真实科学问题探究，体验知识生成过程、发展实证思维并加深对科学本质理解的教学实践"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 6
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

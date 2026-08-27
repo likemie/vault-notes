@@ -69,7 +69,7 @@ updated: '2026-05-18'
 
 > [!success] 效果与评价
 > - **支持立场** Rose Report 的支持者认为以证据为基础的合成语音教学法有助于提高基础阅读技能，特别是对低社会经济地位学生
-> - **批评立场**[[Whole Language|全语言]]倡导者和批判性读写研究者认为 Rose Report 过度简化了阅读过程，将复杂的社会文化[[Praxis|实践]]简化为技术性[[Decodification|解码]]技能
+> - **批评立场**[[Whole Language|全语言]]倡导者和批判性读写研究者认为 Rose Report 过度简化了阅读过程，将复杂的社会文化实践简化为技术性[[Decodification|解码]]技能
 
 ## 争议与评论
 

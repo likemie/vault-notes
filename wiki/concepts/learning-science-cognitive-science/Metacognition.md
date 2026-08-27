@@ -8,10 +8,10 @@ aliases:
 summary: "个体对自己认知过程的意识和调节，包括元认知知识和元认知调节两个核心成分，是批判性思维的高阶认知基础"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 8
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/metacognition
   - theme/cognitive-science

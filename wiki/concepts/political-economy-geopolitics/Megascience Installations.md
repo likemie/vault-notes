@@ -9,7 +9,7 @@ aliases:
 summary: "在粒子物理、受控热核聚变等前沿物理领域建设的独特、高成本、大型科研基础设施。此类装置传统上依靠国际多边合作，但在地缘政治限制下也出现本土独资化建设的趋势。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 7
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

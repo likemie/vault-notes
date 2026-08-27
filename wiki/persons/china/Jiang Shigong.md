@@ -89,7 +89,7 @@ updated: '2026-07-12'
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **政策路径** 其法理建构直接指导了香港特区2020年后《国安法》的司法与行政[[Praxis|实践]]，特别是在教育领域全面取消通识科、强制教科书国安评审，以及将青少年教育重点转向[[Guangdong-Hong Kong-Macau Greater Bay Area|大湾区]]融合和“感恩”等[[Psychologisation|心理化]]情感控制。
+> - **政策路径** 其法理建构直接指导了香港特区2020年后《国安法》的司法与行政实践，特别是在教育领域全面取消通识科、强制教科书国安评审，以及将青少年教育重点转向[[Guangdong-Hong Kong-Macau Greater Bay Area|大湾区]]融合和“感恩”等[[Psychologisation|心理化]]情感控制。
 > - **理论路径** 极大地改变了中国宪法学界对“[[One Country, Two Systems|一国两制]]”及基本法的法学阐释主流，使得“契约论”和“双重宪制权”话语被单一制的“全面管治权”与“单向授权”话语所取代。
 
 > [!evidence-grid-a]- 相关研究索引

@@ -84,7 +84,7 @@ updated: 2026-07-09
 >   - **关键概念** [[Reference Society|参考社会]]、[[Cross-National Attraction|跨国吸引]]。
 >   - **阶段特征** 此时的探索带有强烈的[[Realism in International Relations|现实主义]]地缘政治底色，旨在通过系统研究德国职业教育和实科学校，为英国公共教育系统注入竞争活力，巩固国家竞争地位。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 420)]]
 > - **1900 至今 — 历史[[Situative Perspective|情境主义]]与方法论反思阶段** 这一阶段转而系统回应政策移植的技术主义幻觉，探讨如何从外国教育中获得“实践价值”而不导致体制排异。
->   - **代表著作** 1900 年吉尔福德演讲：《我们能从外国教育系统的研究中获得多少有实践价值的启示？》（*How far can we learn anything of practical value from the study of foreign systems of education?*）。
+>   - **代表著作** 1900 年吉尔福德演讲：《我们能从外国教育系统的研究中获得多少有实践价值的启示？》（*How far can we learn anything of practical [[VALUE Rubrics|VALUE]] from the study of foreign systems of education?*）。
 >   - **关键概念** 情境不可移植性、外部力量与因素（forces and factors outside the school）。
 >   - **阶段转向** 从工具性[[Policy Borrowing|政策借用]]的热衷者，转向了对借用可行性的深度怀疑与情境边界界定。他警示“校外的事情比校内的事情更重要”，确立了以历史和文化为中介的情境分析视角。
 

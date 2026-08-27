@@ -70,7 +70,7 @@ updated: 2026-08-23
 ## 定义
 
 > [!def] 行动研究（Action Research）
-> 行动研究是研究者与[[Praxis|实践]]者合作，通过计划—行动—观察—反思的螺旋循环过程，解决社会或教育情境中实际问题的一种[[Paradigm|研究范式]]。其基本目的是改进实践而不是构建理论。[[Kurt Lewin|勒温]]（Lewin, 1946）最早将其定义为将研究者与实践者的优势相结合以解决社会实际问题的一种方法。[[Argument_QiMei_2015_EducationalResearchMethods|(齐梅, 2015, Ch.9)]]
+> 行动研究是研究者与实践者合作，通过计划—行动—观察—反思的螺旋循环过程，解决社会或教育情境中实际问题的一种[[Paradigm|研究范式]]。其基本目的是改进实践而不是构建理论。[[Kurt Lewin|勒温]]（Lewin, 1946）最早将其定义为将研究者与实践者的优势相结合以解决社会实际问题的一种方法。[[Argument_QiMei_2015_EducationalResearchMethods|(齐梅, 2015, Ch.9)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 社会或教育情境中的实际问题，如教学改进、课程发展、管理评价、政策制定、行为干预等。
@@ -112,7 +112,7 @@ updated: 2026-08-23
 ## 方法定位
 
 > [!method-position] [[Epistemology|认识论]]与方法定位
-> - **知识观** 行动研究跨越[[Positivism|实证主义]]与[[Interpretive Paradigm|诠释范式]]。技术性行动研究接近实证逻辑，[[Praxis|实践]]性行动研究植根于诠释学理解，[[Emancipatory Action Research|解放性行动研究]]以[[Critical Theory|批判理论]]为认识论基础。
+> - **知识观** 行动研究跨越[[Positivism|实证主义]]与[[Interpretive Paradigm|诠释范式]]。技术性行动研究接近实证逻辑，实践性行动研究植根于诠释学理解，[[Emancipatory Action Research|解放性行动研究]]以[[Critical Theory|批判理论]]为认识论基础。
 > - **研究者角色** 研究者同时也是参与者、实践者或促进者。在技术性类型中研究者主导设计；在实践性类型中研究者作为反思伙伴；在解放性类型中研究者是平等共同体中的一员。
 > - **有效性标准** 行动研究的有效性不在于统计推广，而在于实践改进的可验证性、过程的系统性和反思的深度（Kemmis & McTaggart, 1992, p. 10）。
 > - **不声称回答的问题** 不声称从单一个案中得出统计性推广结论；不声称[[Value Neutrality|价值中立]]——解放性行动研究具有明确的政治议程。
@@ -133,7 +133,7 @@ updated: 2026-08-23
 > [!feature] 行动研究的21项特征（Hult & Lennung, 1980; McKernan, 1991）
 >
 > **研究过程与方法取向**
-> - **[[Praxis|实践]]问题解决与科学知识扩展** 同时服务于两个目标：解决眼前的实际问题，并将解决方案提炼为可推广的科学知识
+> - **实践问题解决与科学知识扩展** 同时服务于两个目标：解决眼前的实际问题，并将解决方案提炼为可推广的科学知识
 > - **在地性** 研究在真实的教育情境中就地开展，不脱离日常教学和管理环境
 > - **循环反馈** 数据在持续循环中被收集、分析和反馈，每一轮的结果直接指导下一轮行动
 > - **理解复杂社会情境** 不将问题简化为孤立[[Variable|变量]]，而是寻求理解特定情境中各种因素的整体互动
@@ -229,7 +229,7 @@ updated: 2026-08-23
 > [!info] 从[[Kurt Lewin|勒温]]螺旋到操作模型
 > 行动研究的核心操作逻辑是[[Kurt Lewin|勒温]]（Lewin, 1946, 1948）提出的螺旋循环——计划、行动、观察、反思，每一圈都在前一圈基础上深化。Kemmis 将其发展为计划→行动→观察→反思→再计划的迭代模型。勒温（1948, p. 205）视之为计划、行动和查证结果的螺旋。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 279–280)]]
 >
-> [[Argument_QiMei_2015_EducationalResearchMethods|齐梅 (2015)]]的九步程序和[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|Cohen et al. (2011)]]的综合八阶段模型从不同角度补充了这一基础框架：九步程序侧重[[Praxis|实践]]操作流程，综合模型则增加了协商、[[Document|文献]]审查和正式传播等学术规范环节。
+> [[Argument_QiMei_2015_EducationalResearchMethods|齐梅 (2015)]]的九步程序和[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|Cohen et al. (2011)]]的综合八阶段模型从不同角度补充了这一基础框架：九步程序侧重实践操作流程，综合模型则增加了协商、[[Document|文献]]审查和正式传播等学术规范环节。
 
 > [!proc] 九步程序
 > 1. **发现问题** 问题来源于社会或教育情境和实践，需要提炼出[[Research Question|研究问题]]
@@ -292,14 +292,14 @@ updated: 2026-08-23
 ### 群体数据收集工具
 
 > [!info] 群体工具与特有方法
-> [[Nominal Group Technique|名义小组技术]]（[[Nominal Group Technique]]）和[[Delphi Technique|德尔菲技术]]（[[Delphi Technique]]）是行动研究中两种结构化群体工具（Morrison, 1993）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 286–288)]]名义小组技术通过个体写作→展示评论→聚类排序→群体讨论在单次会议完成；德尔菲技术通过多轮书面问卷迭代收敛意见，不需同时到场。此外还有三种特有方法[[Argument_QiMei_2015_EducationalResearchMethods|(齐梅, 2015, Ch.9)]]：头脑风暴法（激发创造力收集建议）、三角形[[Observation Method|观察法]]（研究者、行动者、评价者三角观察并碰撞观点）、中立主席法（防止强势者控制讨论）。
+> [[Nominal Group Technique|名义小组技术]]（[[Nominal Group Technique]]）和[[Delphi Technique|德尔菲技术]]（[[Delphi Technique]]）是行动研究中两种结构化群体工具（Morrison, 1993）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 286–288)]]名义小组技术通过个体写作→展示评论→聚类排序→群体讨论在单次会议完成；德尔菲技术通过多轮书面问卷迭代收敛意见，不需同时到场。此外还有三种特有方法[[Argument_QiMei_2015_EducationalResearchMethods|(齐梅, 2015, Ch.9)]]：头脑风暴法（激发[[Creativity|创造力]]收集建议）、三角形[[Observation Method|观察法]]（研究者、行动者、评价者三角观察并碰撞观点）、中立主席法（防止强势者控制讨论）。
 
 ---
 
 ## 报告撰写
 
 > [!info] 报告规范
-> McNiff & Whitehead（2009, p. 15）主张报告需明确陈述11项内容：[[Research Problem|研究议题]]及其如何成为改进议题、干预方法论及理由、干预与情境的关系、数据收集时间与对象、数据处理与分析、干预监测与审查、[[Reflexivity|反身性]]处理、成功标准与导出、结论得出与验证、研究者的学习、[[Praxis|实践]]的改変。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 291–293)]]
+> McNiff & Whitehead（2009, p. 15）主张报告需明确陈述11项内容：[[Research Problem|研究议题]]及其如何成为改进议题、干预方法论及理由、干预与情境的关系、数据收集时间与对象、数据处理与分析、干预监测与审查、[[Reflexivity|反身性]]处理、成功标准与导出、结论得出与验证、研究者的学习、实践的改変。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 291–293)]]
 >
 > 报告需展示[[Causality|因果关系]]（改进可归因于干预），并说明对知识扩展的贡献。报告服务于双重标准：研究的规划、实施、报告和评价标准，以及实践/行动的对应标准。行动研究者需同时处于行动之中和从情境中抽离——主观性和客观性在单个研究者身上相结合。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 292–294)]]
 
@@ -308,7 +308,7 @@ updated: 2026-08-23
 ## 行动研究中的反身性
 
 > [!info] [[Reflexivity|反身性]]的核心地位
-> [[Reflexivity|反身性]]是行动研究的核心，因为研究者同时也是参与者和[[Praxis|实践]]者，处于自己所研究的社会世界之中（Hammersley & Atkinson, 1983, p. 14）。Hall（1996, p. 29）指出反身性是[[Emancipatory Action Research|解放性行动研究]]的[[Epistemology|认识论]]基础：数据真实反映所有参与者的经验，研究者的理论负载观点不享有优先地位。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 294–295)]]
+> [[Reflexivity|反身性]]是行动研究的核心，因为研究者同时也是参与者和实践者，处于自己所研究的社会世界之中（Hammersley & Atkinson, 1983, p. 14）。Hall（1996, p. 29）指出反身性是[[Emancipatory Action Research|解放性行动研究]]的[[Epistemology|认识论]]基础：数据真实反映所有参与者的经验，研究者的理论负载观点不享有优先地位。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 294–295)]]
 
 > [!warning] 反身性与偏见
 > 实践者同时也是研究者，可能并非完全无私（Newby, 2010, p. 64），例如为给高级管理者留下印象而呈现更乐观的结果，或为争取资源而呈现更消极的结果。伦理、效度和政治议程在此交汇。
@@ -330,14 +330,14 @@ updated: 2026-08-23
 ## 结论
 
 > [!conclusion] 行动研究的六种概念
-> 行动研究结合了六种概念：直接的循环（识别问题→规划干预→实施干预→评价结果）、[[Reflexivity|反思性]][[Praxis|实践]]、政治解放、[[Critical Theory|批判理论]]、专业发展、参与式实践者研究。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, p. 301)]]它是一种灵活、情境回应的方法论。在推动行动与研究整合的过程中，一个根本追问始终存在：这是确保研究影响实践的乐观方式，还是退化的混合体？
+> 行动研究结合了六种概念：直接的循环（识别问题→规划干预→实施干预→评价结果）、[[Reflexivity|反思性]]实践、政治解放、[[Critical Theory|批判理论]]、专业发展、参与式实践者研究。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, p. 301)]]它是一种灵活、情境回应的方法论。在推动行动与研究整合的过程中，一个根本追问始终存在：这是确保研究影响实践的乐观方式，还是退化的混合体？
 
 ---
 
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用** 教学改进、课程发展、学校管理评价、教育政策制定、学生行为干预等需要[[Praxis|实践]]改进的情境。[[Argument_QiMei_2015_EducationalResearchMethods|(齐梅, 2015, Ch.9)]]
+> - **适合使用** 教学改进、课程发展、学校管理评价、教育政策制定、学生行为干预等需要实践改进的情境。[[Argument_QiMei_2015_EducationalResearchMethods|(齐梅, 2015, Ch.9)]]
 > - **谨慎使用** 需要大范围统计推论的研究；纯理论建构的研究。
 > - **不适合使用** 需要严格控制[[Variable|变量]]的实验室研究；对变革结果需要精确因果归因且可推广至大范围人群的情境。
 
@@ -346,7 +346,7 @@ updated: 2026-08-23
 ## 局限性
 
 > [!method-limits] 方法局限
-> - **偏误来源** [[Praxis|实践]]者同时作为研究者可能导致结果呈现偏误（Newby, 2010, p. 64）；群体动力可能压制异议声音。
+> - **偏误来源** 实践者同时作为研究者可能导致结果呈现偏误（Newby, 2010, p. 64）；群体动力可能压制异议声音。
 > - **适用边界** 对宏观社会结构的改变能力有限；受限于特定情境，[[External Validity|可推广性]]弱于[[Experimental Research|实验研究]]。
 > - **误用风险** 以行动研究之名回避方法论的严谨性；将日常教学反思等同于系统性的行动研究。
 > - **补救方式** 遵循系统的数据收集和分析程序；建立多源[[Chain of Evidence|证据链]]；保持[[Reflexivity|反身性]]日志；接受外部审查。
@@ -372,5 +372,5 @@ updated: 2026-08-23
 
 > [!evidence-grid] 相关研究索引
 > - [[Argument_QiMei_2015_EducationalResearchMethods|齐梅 (2015, Ch.9)]] — 系统介绍行动研究的定义、历史发展、四大特征、螺旋循环过程和常用方法。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|Cohen et al. (2011, Ch18)]] — 系统阐述定义谱系、21项特征、Winter六原则与Kemmis & McTaggart核心原则、三分类型学、操作程序、报告撰写、[[Reflexivity|反身性]]及[[Praxis|实践]]议题。
-> - [[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 23–24, 30–31)]]；[[Argument_Peterson_1987_OpenCourt_Ch04|Peterson (1987, Ch. 4, pp. 61–68)]] — 国际学校考试辛迪加把国际文凭开发组织为六年行动研究：限定获批学校、每年最多 500 名完整文凭考生并争取大学暂时承认，在真实教学、考试与升学过程中检验课程和资格能否运行。实施中，严控少数学校的研究取向让位于扩大学校类型和地区的服务取向；这降低了变量控制，却把[[External Validity|普遍适用性]]、财务可行性和组织延续本身纳入试验结果。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|Cohen et al. (2011, Ch18)]] — 系统阐述定义谱系、21项特征、Winter六原则与Kemmis & McTaggart核心原则、三分类型学、操作程序、报告撰写、[[Reflexivity|反身性]]及实践议题。
+> - [[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 23–24, 30–31)]]；[[Argument_Peterson_1987_OpenCourt_Ch04|Peterson (1987, Ch. 4, pp. 61–68)]] — [[International Schools Examination Syndicate|国际学校考试辛迪加]]把[[International Baccalaureate|国际文凭]]开发组织为六年行动研究：限定获批学校、每年最多 500 名完整文凭考生并争取大学暂时承认，在真实教学、考试与升学过程中检验课程和资格能否运行。实施中，严控少数学校的研究取向让位于扩大学校类型和地区的服务取向；这降低了[[Variable|变量]]控制，却把普遍适用性、财务可行性和组织延续本身纳入试验结果。

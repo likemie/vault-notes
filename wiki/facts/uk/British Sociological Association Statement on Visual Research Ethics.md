@@ -67,7 +67,7 @@ updated: 2026-08-11
 ## 时间线
 
 > [!timeline] 声明时间线
-> - 2006 英国社会学协会发布[[Visual Research Methods|视觉研究]]伦理[[Praxis|实践]]声明。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27|Cohen et al. (2011, Ch. 27)]]
+> - 2006 英国社会学协会发布[[Visual Research Methods|视觉研究]]伦理实践声明。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27|Cohen et al. (2011, Ch. 27)]]
 
 ## 相关概念／理论
 

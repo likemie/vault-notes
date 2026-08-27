@@ -202,4 +202,4 @@ flowchart TD
 > - [[Argument_Park_2026_TSC|Park et al. (2026)]] 依循 PRISMA 规范开展创造力与[[Critical Thinking|批判性思维]]相关性元分析[[Literature Search|文献检索]]与合格性筛查。
 > - [[Argument_Song_Choi_2026_FPSYG|Song & Choi (2026)]] 运用 PRISMA 流程图展示[[Epistemic Cognition|认识论认知]]多水平元分析的文献筛选路径。
 > - [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] 采用规范的系统检索与流转筛选流程综合 341 项批判性思维教学[[Intervention Research|干预研究]]。
-> - [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]] 在教育[[Research Utilization|研究使用]]批判性综述中依据 PRISMA 规范对 ERIC、Scopus、Teacher Reference Center 等数据库进行结构化检索，以流程图报告 1,617 篇初始记录至 34 篇最终纳入文献的筛选全过程。
+> - [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]] 在教育[[Research Utilization|研究使用]][[Critical Review|批判性综述]]中依据 PRISMA 规范对 ERIC、Scopus、Teacher Reference Center 等数据库进行结构化检索，以流程图报告 1,617 篇初始记录至 34 篇最终纳入文献的筛选全过程。

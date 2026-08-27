@@ -4,7 +4,7 @@ aliases: [涌现, emergent properties, emergent order, 涌现秩序]
 summary: "复杂性理论的核心概念，指系统从低层元素互动中自发产生高层复杂性和新结构的过程，整体行为大于部分之和且不可还原为部分。"
 type: concept
 domain: "research-methodology"
-related_count: 12
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

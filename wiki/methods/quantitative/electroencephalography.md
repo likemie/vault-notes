@@ -50,7 +50,7 @@ EEG 通过在头皮上放置电极，测量相邻神经元群落的同步电活�
 > [!success] 适用场景
 > - 将认知功能任务和测试期间的表现与特定脑区联系起来([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.2]])
 > - 检验年幼儿童的脑发育[[Hypothesis|假设]]。便携式 EEG 的引入扩大了在年幼儿童中测试脑发育假设的机会([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.9,引用 Trainor, 2012]])
-> - 研究 [[Prefrontal Cortex|PFC]] 在 [[Executive Function|EF]] 任务中的激活，如 A not B 任务和物体检索任务中 PFC 激活的 EEG 证据([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.9]])
+> - 研究 [[Prefrontal Cortex|PFC]] 在 EF 任务中的激活，如 A not B 任务和物体检索任务中 PFC 激活的 EEG 证据([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.9]])
 > - 连接抑制任务期间的 PFC 激活，如在 Go/No Go 任务中的 EEG 研究([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.12]])
 
 ## 局限性
@@ -66,5 +66,5 @@ EEG 通过在头皮上放置电极，测量相邻神经元群落的同步电活�
 
 ## 相关研究
 
-- [[Argument_Bolton_2017_ArchPsych]] — 综述中引用的多项[[Research Utilization|研究使用]] EEG 检验 [[Executive Function|EF]] 发展中的 [[Prefrontal Cortex|PFC]] 激活
+- [[Argument_Bolton_2017_ArchPsych]] — 综述中引用的多项[[Research Utilization|研究使用]] EEG 检验 EF 发展中的 [[Prefrontal Cortex|PFC]] 激活
 

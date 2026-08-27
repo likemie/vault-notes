@@ -54,7 +54,7 @@ updated: 2026-08-27
 
 ## 工具定位
 
-> [!instrument-profile] [[Educational Testing Service|ETS]] Proficiency Profile（EPP / 原 MAPP）
+> [!instrument-profile] ETS Proficiency Profile（EPP / 原 MAPP）
 > - **工具类型** 标准化通识[[21st Century Skills and Competencies Discourse|核心素养]]测评（Standardized [[General Education]] Assessment）。
 > - **开发者与年份** 美国教育考试服务中心（Educational Testing Service, ETS, 2010，前身为 MAPP）。
 > - **测量目的** 评估高校通识教育课程质量与学生核心认知能力，作为[[Voluntary System of Accountability|美国自愿问责体系]]（VSA）核心推荐工具，测量大一入学到毕业的纵向[[Learning Gain|学习增益]]。

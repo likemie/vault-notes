@@ -5,7 +5,7 @@ aliases:
 summary: "20世纪90年代以来以批判地缘政治为代表的一系列地缘政治理论范式，采取建构主义立场，将空间理解为流动的社会建构，将知识置于地缘政治分析的中心"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

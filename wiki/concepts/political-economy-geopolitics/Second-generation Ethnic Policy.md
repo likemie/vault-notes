@@ -5,7 +5,7 @@ aliases:
 summary: "中国二十一世纪初提出的一种关于民族整合的政策主张，主张借鉴美国熔炉模式，废除区域自治与优惠政策，将各民族融为统一的中华民族国族"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 12
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

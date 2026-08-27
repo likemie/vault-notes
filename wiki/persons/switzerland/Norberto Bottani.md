@@ -73,7 +73,7 @@ updated: '2026-06-08'
 > [!success] 主要贡献
 > - **[[International Indicators of Education Systems]]** — 自 1988 年创立至 1997 年担任 INES 项目负责人近十年，从项目几乎不可能的阶段带领至首版 [[Education at a Glance|EAG]] 出版([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.5, 8]])
 > - **[[Education at a Glance]]** — INES 的最终产品，成为 [[OECD]] 旗舰出版物
-> - **[[Performance Indicators]]** — 在指标方法论层面，Bottani 的[[Praxis|实践]]和理论反思深刻影响了[[International Education|国际教育]]指标的[[Epistemology|认识论]]讨论
+> - **[[Performance Indicators]]** — 在指标方法论层面，Bottani 的实践和理论反思深刻影响了[[International Education|国际教育]]指标的[[Epistemology|认识论]]讨论
 
 ## 主要著作
 

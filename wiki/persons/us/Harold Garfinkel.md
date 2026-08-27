@@ -31,7 +31,7 @@ updated: 2026-07-11
 
 ## 基本信息
 
-哈罗德·加芬克尔（Harold Garfinkel）是[[Ethnomethodology|俗民方法学]]（Ethnomethodology）的创始人。他在1967年出版的《俗民方法学研究》中将俗民方法学的目标定义为："将[[Praxis|实践]]活动、实践情境和实践的社会学推理作为经验研究的课题，并通过给予日常生活最普通的活动通常只给予非凡事件的关注，寻求将其作为自有权利的现象来研究"（Garfinkel, 1967: vii）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
+哈罗德·加芬克尔（Harold Garfinkel）是[[Ethnomethodology|俗民方法学]]（Ethnomethodology）的创始人。他在1967年出版的《俗民方法学研究》中将俗民方法学的目标定义为："将实践活动、实践情境和实践的社会学推理作为经验研究的课题，并通过给予日常生活最普通的活动通常只给予非凡事件的关注，寻求将其作为自有权利的现象来研究"（Garfinkel, 1967: vii）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
 
 ## 核心贡献
 

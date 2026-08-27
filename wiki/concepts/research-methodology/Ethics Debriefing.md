@@ -7,7 +7,7 @@ aliases:
 summary: "在涉及欺骗的研究结束后向参与者解释欺骗原因、研究目的和方法的程序，是抵消欺骗负面效果的主要方式，包含四项基本内容"
 type: concept
 domain: "research-methodology"
-related_count: 9
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

@@ -80,7 +80,7 @@ updated: 2026-06-23
 
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 基于[[Qualitative Research|质性研究]]中"[[Researcher as Key Instrument|研究者作为关键工具]]"的认识论前提——正因为研究者自身的视角不可避免地塑造数据解释，所以才需要引入外部视角作为制衡。同行汇报不追求"客观真理"，而是追求对研究者主观位置的**自觉**和**交叉检验**。
-> - **研究者角色** 研究者从"独自解释者"转变为"在[[Dialogue in Education|对话]]中接受检验的解释者"——主动将自己的推理暴露给外部审视，是一种研究诚信（[[Responsible Conduct of Research|research integrity]]）的[[Praxis|实践]]。
+> - **研究者角色** 研究者从"独自解释者"转变为"在[[Dialogue in Education|对话]]中接受检验的解释者"——主动将自己的推理暴露给外部审视，是一种研究诚信（[[Responsible Conduct of Research|research integrity]]）的实践。
 > - **有效性标准** 服务于质性研究的**可信性（credibility）**标准——Lincoln & Guba (1985) 将其列为六项核心可信性策略之一，与长期田野参与、持续观察、[[Triangulation|三角验证]]、[[Negative Case Analysis|负面案例分析]]和[[Member Checking|成员核查]]并列。也作为**[[Reliability|可依赖性]]（dependability）**达成过程中的操作之一（Anfara et al., 2002）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 160–161, 206)]]
 > - **不声称回答的问题** 同行汇报不能替代研究者对数据的直接沉浸；它不能独立证明研究发现是"正确的"，只能增强其可信性；它不能替代成员核查——L&G 明确区分：三角验证是数据的检查，成员核查是对成员数据建构的检查（p. 315）。
 

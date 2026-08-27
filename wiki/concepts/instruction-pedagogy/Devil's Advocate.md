@@ -7,7 +7,7 @@ aliases:
 summary: "一种为检验论证而替不赞同立场辩护的说话实践，在西方家庭学习社会化中可用于训练儿童论证能力"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 6
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

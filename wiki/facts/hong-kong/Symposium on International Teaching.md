@@ -56,7 +56,7 @@ updated: '2026-05-18'
 ## 影响与后果
 
 > [!success]
-> 该研讨会的价值以及就该主题进行持续[[Dialogue in Education|对话]]的需求，直接催生了论文集《[[International Education]] and the [[Chinese Learner]]》([[Argument_Ryan_2010_HKUP|Ryan & Slethaug, 2010]])。该论文集汇集了中小学教师和大学教师撰写的九篇文章，从理论探讨和[[Praxis|实践]]经验两个层面，考察了在国际情境中教授中国学习者的关切与可能性([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.2]])。
+> 该研讨会的价值以及就该主题进行持续[[Dialogue in Education|对话]]的需求，直接催生了论文集《[[International Education]] and the [[Chinese Learner]]》([[Argument_Ryan_2010_HKUP|Ryan & Slethaug, 2010]])。该论文集汇集了中小学教师和大学教师撰写的九篇文章，从理论探讨和实践经验两个层面，考察了在国际情境中教授中国学习者的关切与可能性([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.2]])。
 
 ---
 

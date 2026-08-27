@@ -9,7 +9,7 @@ aliases:
 summary: "Antonio Gramsci (1971) 的权力理论：区分强制与霸权，指统治阶级通过法律、教育、媒体、科学、大学等文化制度正当化其统治并赢得被统治者积极同意的权力行使方式。在教育研究中，学校课程与高等教育地缘政治充当了制造文化同意与自然化中心—边缘等级的霸权装置"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

@@ -60,7 +60,7 @@ updated: 2026-06-02
 > - 基于分析结果形成案例（如根据数据模式将参与者或[[Champ|场域]]归为不同类型）。
 > - 对每个案例进行描述，然后讨论案例之间的相似性和差异。
 >
-> 核心设计嵌入的方式可以多样化：Shaw et al. (2013) 提供了一个使用[[Convergent Design|聚敛式设计]]嵌入[[Case Study|案例研究]]的良好范例，他们在家庭医学诊所的质量改进[[Praxis|实践]]中比较了量化筛查率和质性实践描述。
+> 核心设计嵌入的方式可以多样化：Shaw et al. (2013) 提供了一个使用[[Convergent Design|聚敛式设计]]嵌入[[Case Study|案例研究]]的良好范例，他们在家庭医学诊所的质量改进实践中比较了量化筛查率和质性实践描述。
 
 > [!example]- 图10.4：多案例研究设计图
 > ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_10-4_Multiple_Case_Study_Design.jpg)

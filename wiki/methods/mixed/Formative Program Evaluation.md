@@ -44,14 +44,14 @@ updated: '2026-05-23'
 > [!info]
 > 形成性项目评价（Formative Program Evaluation）是在项目实施过程中持续收集证据，并把反馈用于改进投入、实施过程和阶段性结果的评价方法。它不同于只在项目结束时判断“是否有效”的总结性评价，更强调在改革推进期间帮助利益相关者理解项目是否按预期发生、哪里需要调整、哪些结果应在什么阶段出现([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.115, 121-124]])。
 
-在复杂教育改革中，[[Formative Assessment|形成性评价]]的作用不是替代因果研究，而是补足严格实验难以回答的问题：项目有没有真正落地，教师和学生如何体验，实施里程碑是否达到，地方利益相关者是否理解证据并据此调整[[Praxis|实践]]([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.121-124]])。
+在复杂教育改革中，[[Formative Assessment|形成性评价]]的作用不是替代因果研究，而是补足严格实验难以回答的问题：项目有没有真正落地，教师和学生如何体验，实施里程碑是否达到，地方利益相关者是否理解证据并据此调整实践([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.121-124]])。
 
 ## 认识论立场
 
 > [!abstract]
 > [[Formative Assessment|形成性评价]]把证据视为改进过程中的反馈，而不是一次性裁决。它默认教育项目会在真实组织中被不断解释、调整和再实施，因此评价者需要同时关注实施过程、短期输出、长期结果和利益相关者理解([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.121-124]])。
 
-这使形成性评价特别接近[[Evidence-Informed Practice|证据知情实践]]：研究证据进入[[Praxis|实践]]后，需要和地方目标、[[Professional Judgment|专业判断]]、实施条件及用户经验共同被解释。若评价只提供终点成绩结果，复杂改革中的中间变化很容易被遮蔽([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.121-123]])。
+这使形成性评价特别接近[[Evidence-Informed Practice|证据知情实践]]：研究证据进入实践后，需要和地方目标、[[Professional Judgment|专业判断]]、实施条件及用户经验共同被解释。若评价只提供终点成绩结果，复杂改革中的中间变化很容易被遮蔽([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.121-123]])。
 
 ## 研究程序
 

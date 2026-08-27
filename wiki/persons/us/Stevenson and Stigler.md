@@ -42,12 +42,12 @@ updated: 2026-08-20
 ## 主要著作
 
 - Stevenson, H. W., & Stigler, J. W. (1992). *The [[Learning Gap]]*. Simon & Schuster. —— 系统呈现了十年跨国比较研究的核心发现，论证东亚与美国小学生数学成就差距的文化根源([[Argument_Li_2012_Cambridge|Li, 2012, p.69]])。
-- Stigler, J. W., & Hiebert, J. (1999). *The Teaching Gap*. Free Press. —— Stigler 后续主导的课堂教学录像研究，比较美国、日本和德国的数学教学[[Praxis|实践]]，发现日本教学法相比西方具有系统性优势([[Argument_Li_2012_Cambridge|Li, 2012, p.70]])。
+- Stigler, J. W., & Hiebert, J. (1999). *The Teaching Gap*. Free Press. —— Stigler 后续主导的课堂教学录像研究，比较美国、日本和德国的数学教学实践，发现日本教学法相比西方具有系统性优势([[Argument_Li_2012_Cambridge|Li, 2012, p.70]])。
 
 ## 核心思想
 
 > [!tip]-
-> Stevenson and Stigler 的核心命题是：东亚学生在数学和科学成就上的持续领先，不能简单归因于先天能力差异或考试制度压力，而应追溯至更深层的文化信念和[[Praxis|实践]]模式。他们发现，美国儿童、家长和教师倾向于用能力 (ability) 来解释[[Academic Achievement|学业成就]]，而东亚对应群体则归因于努力 (effort)。他们将这一系统性差异命名为**学习鸿沟（the [[Learning Gap]]）([[Argument_Li_2012_Cambridge|Li, 2012, p.69]])**。
+> Stevenson and Stigler 的核心命题是：东亚学生在数学和科学成就上的持续领先，不能简单归因于先天能力差异或考试制度压力，而应追溯至更深层的文化信念和实践模式。他们发现，美国儿童、家长和教师倾向于用能力 (ability) 来解释[[Academic Achievement|学业成就]]，而东亚对应群体则归因于努力 (effort)。他们将这一系统性差异命名为**学习鸿沟（the [[Learning Gap]]）([[Argument_Li_2012_Cambridge|Li, 2012, p.69]])**。
 
 > [!quote]
 > "They found that whereas American children, parents, and teachers explained children's achievement based on the notion of ability, their Asian counterparts attributed children's achievement to their effort. They dubbed this learning difference the 'learning gap'."([[Argument_Li_2012_Cambridge|Li, 2012, p.69]])

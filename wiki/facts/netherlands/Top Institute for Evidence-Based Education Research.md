@@ -50,7 +50,7 @@ updated: 2026-05-23
 ## 政策文本摘要
 
 > [!abstract]
-> TIER 旨在开展严谨教育研究，并生产可供教育[[Praxis|实践]]和政策使用的研究结果。它的工作把干预开发、实验评价、社会情境分析、[[Meta-analysis|元分析]]、知识传播和教师培训连接到同一个证据基础设施中([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.34]])。
+> TIER 旨在开展严谨教育研究，并生产可供教育实践和政策使用的研究结果。它的工作把干预开发、实验评价、社会情境分析、[[Meta-analysis|元分析]]、知识传播和教师培训连接到同一个证据基础设施中([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.34]])。
 
 ## 时间线
 
@@ -65,7 +65,7 @@ updated: 2026-05-23
 ## 效果与评价
 
 > [!success]
-> TIER 是欧洲证据基础设施中接近 [[Evidence-Based Reform|证据本位改革]] 四环节的案例：它既开发和评价干预，也通过[[Meta-analysis|元分析]]、知识传播和教师学院把研究结果推向政策和学校[[Praxis|实践]]([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.34]])。
+> TIER 是欧洲证据基础设施中接近 [[Evidence-Based Reform|证据本位改革]] 四环节的案例：它既开发和评价干预，也通过[[Meta-analysis|元分析]]、知识传播和教师学院把研究结果推向政策和学校实践([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.34]])。
 
 ## 争议与评论
 

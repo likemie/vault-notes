@@ -5,7 +5,7 @@ aliases:
 summary: "动态保持和操纵信息以支持当前认知任务的能力，是理解推理、学习和复杂任务处理的重要认知系统。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

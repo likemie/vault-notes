@@ -6,7 +6,7 @@ aliases:
 summary: "要求将研究场所的具体特征纳入研究考量而非假设政策以预定意图的方式被实施的效度类型，更亲近质性研究的厚描述，与外部效度交叉，在实验控制与真实世界适用性之间构成核心张力"
 type: concept
 domain: "research-methodology"
-related_count: 15
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

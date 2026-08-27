@@ -6,7 +6,7 @@ aliases:
 summary: "访谈中访谈者通过非语言反馈、反映和澄清来表明专注和理解的沟通技术，是建立融洽关系和获取深层数据的基础"
 type: concept
 domain: "research-methodology"
-related_count: 2
+related_count: 1
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

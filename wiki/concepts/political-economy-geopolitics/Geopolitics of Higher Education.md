@@ -6,7 +6,7 @@ aliases:
 summary: "将高等教育理解为一类地缘政治行动者或地缘政治场域的分析视角，考察其如何被动或主动地参与全球地缘政治空间和秩序的生产与再生产"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 12
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

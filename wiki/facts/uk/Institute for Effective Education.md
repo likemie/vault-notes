@@ -42,12 +42,12 @@ updated: 2026-05-23
 ## 背景
 
 > [!info]
-> Institute for Effective Education（IEE）是英国约克大学相关的独立慈善机构，目标是通过促进教育政策和[[Praxis|实践]]中的证据使用来改善所有儿童的教育([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.33]])。
+> Institute for Effective Education（IEE）是英国约克大学相关的独立慈善机构，目标是通过促进教育政策和实践中的证据使用来改善所有儿童的教育([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.33]])。
 
 ## 政策文本摘要
 
 > [!abstract]
-> IEE 同时在学校层面和研究层面工作。学校层面，它与教师和校长合作，支持有效[[Praxis|实践]]和项目的使用；研究层面，它开展严格评价和综述，并通过项目把证据转化为实践者可使用的信息([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.33]])。
+> IEE 同时在学校层面和研究层面工作。学校层面，它与教师和校长合作，支持有效实践和项目的使用；研究层面，它开展严格评价和综述，并通过项目把证据转化为实践者可使用的信息([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.33]])。
 
 ## 时间线
 
@@ -62,17 +62,17 @@ updated: 2026-05-23
 ## 效果与评价
 
 > [!success]
-> IEE 展示了欧洲证据机构的混合角色：既做严格评价，又把结果转换成学校可读的[[Praxis|实践]]信息。这与 [[Evidence-Based Reform|证据本位改革]] 中“生产证据”和“让教育者知道哪些项目有效”两个环节相连接([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.33]])。
+> IEE 展示了欧洲证据机构的混合角色：既做严格评价，又把结果转换成学校可读的实践信息。这与 [[Evidence-Based Reform|证据本位改革]] 中“生产证据”和“让教育者知道哪些项目有效”两个环节相连接([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.33]])。
 
 ## 争议与评论
 
 > [!warning]
-> Evidence 4 Impact 等平台可以降低[[Praxis|实践]]者获取证据的门槛，但 [[Argument_Pellegrini_2021_ROE]] 提醒，项目有效性证据进入不同国家和学校时仍需要考虑课程、语言、学段和地方条件([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, pp.35-36]])。
+> Evidence 4 Impact 等平台可以降低实践者获取证据的门槛，但 [[Argument_Pellegrini_2021_ROE]] 提醒，项目有效性证据进入不同国家和学校时仍需要考虑课程、语言、学段和地方条件([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, pp.35-36]])。
 
 ## 相关概念／理论
 
 > [!tip]-
 > - [[Educational Evidence Clearinghouses]] — IEE 的 Evidence 4 Impact 属于把项目证据转化为评级信息的机制。
-> - [[Evidence-Informed Practice]] — IEE 面向教师和学校传播证据知情[[Praxis|实践]]。
+> - [[Evidence-Informed Practice]] — IEE 面向教师和学校传播证据知情实践。
 > - [[Argument_Pellegrini_2021_ROE]] — 集中拆解 IEE 所处欧洲证据基础设施的政策意义。
 

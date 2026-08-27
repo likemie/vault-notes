@@ -55,7 +55,7 @@ updated: '2026-06-08'
 > - 曾任内布拉斯加大学林肯分校 Clifton 讲座教授，担任[[Mixed Methods Research|混合方法研究]]办公室主任。
 > - 创办 [[Sage]] 出版的 Journal of Mixed Methods Research。
 > - 2008 年获富布赖特高级学者资助赴南非，2012 年赴泰国。
-> - 2011 年共同主持美国国立卫生研究院（NIH）"健康科学中混合方法研究最佳[[Praxis|实践]]"工作组。
+> - 2011 年共同主持美国国立卫生研究院（NIH）"健康科学中混合方法研究最佳实践"工作组。
 > - 2014 年任哈佛大学公共卫生学院访问教授。
 > - 2014 年成为[[Mixed Methods International Research Association|混合方法国际研究协会]]（Mixed Methods International Research Association）创始主席。
 > - 2015 年加入密歇根大学家庭医学系，共同领导密歇根混合方法项目。

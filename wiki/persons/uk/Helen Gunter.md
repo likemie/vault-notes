@@ -54,7 +54,7 @@ updated: '2026-06-08'
 >
 > 4. **NPM 与教育改革** Gunter 领导的 LE@DS（Leading Democratic Schools）研究网络揭示了学校校长在 NPM 环境中日益面临合同外包、基准测试和考试分数占据工作中心的处境([[Argument_Møller_2017_EERJ|Møller, 2017, p.381-382, citing Gunter et al., 2016]])
 >
-> 5. **反智识文化与[[Knowledge Production|知识生产]]的专业化** Gunter认为，"理论"和"[[Praxis|实践]]"等标签被**使用和滥用来塑造职业内部以及商业和高等教育中'教育领导力产业'的反智识文化([[Argument_Eacott_2015_EPT|Eacott, 2015, p.323]])**。Gunter（2013）进一步论证，管理主义项目的核心特征是："将智识工作（如研究对象的建构、解构和重构的批判和分析）**贬低为异国情调、放纵和非公共利益**"
+> 5. **反智识文化与[[Knowledge Production|知识生产]]的专业化** Gunter认为，"理论"和"实践"等标签被**使用和滥用来塑造职业内部以及商业和高等教育中'教育领导力产业'的反智识文化([[Argument_Eacott_2015_EPT|Eacott, 2015, p.323]])**。Gunter（2013）进一步论证，管理主义项目的核心特征是："将智识工作（如研究对象的建构、解构和重构的批判和分析）**贬低为异国情调、放纵和非公共利益**"
 >
 > 6. **社会学进路**Gunter（2010）指出，Bourdieusian 社会理论日益增长的使用是教育行政中社会学方法"重新出现"（re-[[Emergence]]）的一部分([[Argument_Eacott_2015_EPT|Eacott, 2015, p.313]])。Gunter（2002）早期已运用 Bourdieu 分析教育管理领域的"目的与位置"
 
@@ -74,7 +74,7 @@ updated: '2026-06-08'
 > - Gunter, H. (2001). *Leaders and Leadership in Education*. London: Paul Chapman. — 教育领导力的批判性基础分析
 > - Gunter, H. (2002). Purposes and positions in the [[Champ|field]] of education management: Putting Bourdieu to work. *Educational Management & Administration*, 30, 7–26. — 运用 Bourdieu 框架分析教育管理领域的知识政治
 > - Gunter, H. (2010). A sociological approach to educational leadership. *British Journal of Sociology of Education*, 31, 519–527. — 系统阐述教育领导力的社会学进路
-> - Gunter, H. (2012). *Leadership and the Reform of Education*. Bristol: Policy Press. — 对 1997–2010 年英国新工党教育政策中领导力角色的批判性研究，论证"理论"和"[[Praxis|实践]]"标签被用来塑造反智识文化
+> - Gunter, H. (2012). *Leadership and the Reform of Education*. Bristol: Policy Press. — 对 1997–2010 年英国新工党教育政策中领导力角色的批判性研究，论证"理论"和"实践"标签被用来塑造反智识文化
 > - Gunter, H. (2013). Researching and conceptualising the field. *Journal of Educational Administration and History*, 45, 201–212. — 揭示管理主义项目对智识工作的系统性贬低（异国情调/放纵/非公共利益）
 > - Gunter, H. (2016). *An Intellectual History of [[School Leadership]] Practice and Research*. London: Bloomsbury. — 追溯学校领导力研究和实践的智识发展史
 > - Gunter, H., Grimaldi, E., Hall, D. & Serpieri, R. (eds) (2016). *[[New Public Management]] and the Reform of Education: European Lessons for Policy and Practice*. London: Routledge. — LE@DS 网络关于 NPM 与教育改革的欧洲比较研究

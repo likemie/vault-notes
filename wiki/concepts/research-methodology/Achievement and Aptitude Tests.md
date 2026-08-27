@@ -11,7 +11,7 @@ aliases:
 summary: "两种按测量目标区分的测验：成就测验测量在特定内容领域已实现的表现，多为总结性；能力倾向测验预测未来表现潜力，测量更一般化的跨学科能力，但二者的区分在实践中存在大量重叠"
 type: concept
 domain: "research-methodology"
-related_count: 3
+related_count: 2
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

@@ -110,7 +110,7 @@ updated: 2026-06-12T18:30:00
 ### 第五步：移动方向
 
 > [!line-a] 计算方式
-> 对每个单元计算起点到终点的向量 $\vec{v}_i = (z_{i,T} - z_{i,1}, Wz_{i,T} - Wz_{i,1})$，求其方向角 $\theta_i = \arctan2(\Delta Wz, \Delta z)$，$\theta_i \in [-180^\circ, 180^\circ]$。[[Argument_Fan_Song_Zhai_2024_RSEE|(Fan et al., 2024, p. 72)]]
+> 对每个单元计算起点到终点的向量 $\vec{v}_i = (z_{i,T} - z_{i,1}, Wz_{i,T} - Wz_{i,1})$，求其方向角 $\theta_i = \arctan2(\Delta Wz, \Delta z)$，$\theta_i \in [-180^\[[Cooperative Integrated Reading and Composition|CIRC]], 180^\circ]$。[[Argument_Fan_Song_Zhai_2024_RSEE|(Fan et al., 2024, p. 72)]]
 
 > [!line-b] 解读
 > - $0^\circ$–$90^\circ$：自身与邻居协同正向增长（双方均进步）

@@ -131,7 +131,7 @@ updated: 2026-08-20
 > [!citation-card]- 人物定位的关键来源
 > 直觉本身还不够，我们必须回到“事物本身”。胡塞尔并不认为存在任何纯粹、中立或脱离价值的物体。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 2]]
 >
-> *Meaning is inspired by intuitions, but since intuitions are not enough, 'we must go back to "the things themselves"'. However, Husserl did not think there was anything like a 'pure' or neutral and value-free object or thing.*
+> *Meaning is inspired by intuitions, but since intuitions are not enough, 'we must go back to "the things themselves"'. However, Husserl did not think there was anything like a 'pure' or neutral and [[VALUE Rubrics|VALUE]]-free object or thing.*
 
 ---
 

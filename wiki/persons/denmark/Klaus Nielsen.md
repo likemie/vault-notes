@@ -56,7 +56,7 @@ updated: '2026-06-08'
 ## 简介
 
 > [!info] 简介
-> Klaus Nielsen 是丹麦奥胡斯大学（Aarhus University）心理学系教授，研究兴趣为社会[[Praxis|实践]]中学习、理论心理学和质性方法（Nielsen & Klitmøller, 2021, p. 92）。他以运用 [[Jürgen Habermas|Habermas]] 的合法化危机理论（Legitimation Crisis）和 Schön 的[[Technical Rationality|技术理性]]（Technical Rationality）概念，从**理论功能**（而非方法论）角度解释 [[John Hattie]] 的 [[Visible Learning]] 为何在全球流行的批判性分析而知名。
+> Klaus Nielsen 是丹麦奥胡斯大学（Aarhus University）心理学系教授，研究兴趣为社会实践中学习、理论心理学和质性方法（Nielsen & Klitmøller, 2021, p. 92）。他以运用 [[Jürgen Habermas|Habermas]] 的合法化危机理论（Legitimation Crisis）和 Schön 的[[Technical Rationality|技术理性]]（Technical Rationality）概念，从**理论功能**（而非方法论）角度解释 [[John Hattie]] 的 [[Visible Learning]] 为何在全球流行的批判性分析而知名。
 >
 > Nielsen 与长期合作者 Jacob Klitmøller 自 2017 年起发表了一系列丹麦语和英语论文，系统性地从理论内核、方法论质量和合法化功能三个维度批判 Hattie 的 VL 项目。
 
@@ -64,7 +64,7 @@ updated: '2026-06-08'
 
 > [!note-] 生平与职涯
 > - 任职于奥胡斯大学（Aarhus University）心理学系（Nielsen & Klitmøller, 2021, p. 92）
-> - 研究领域：社会[[Praxis|实践]]中的学习理论、理论心理学、[[Qualitative Research|质性研究]]方法
+> - 研究领域：社会实践中的学习理论、理论心理学、[[Qualitative Research|质性研究]]方法
 > - 与 Jacob Klitmøller 建立长期合作，自 2017 年起共同发表多篇 [[Visible Learning|VL]] 批判性论文
 
 ## 主要著作
@@ -108,7 +108,7 @@ updated: '2026-06-08'
 
 
 > [!info] VL 对学生意向性的系统性边缘化（2021, IRTP）
-> Nielsen & Klitmøller (2021, IRTP, pp. 88-89) 识别了一个此前 [[Evidence-Based Education|EBE]] 批判[[Document|文献]]中未被充分发展的维度：VL 的技术理性框架**系统性消除了学生和教师的意向性（intentionality）和意义寻求**——学生被"原子化"为一系列变量，学习目标不容讨论，人际[[Dialogue in Education|对话]]被反馈机制取代。他们主张改进教学的出发点不应是"什么方法有效"，而应是"研究学生为什么参与学校[[Praxis|实践]]"（Nielsen & Klitmøller, 2021, p. 89）。
+> Nielsen & Klitmøller (2021, IRTP, pp. 88-89) 识别了一个此前 [[Evidence-Based Education|EBE]] 批判[[Document|文献]]中未被充分发展的维度：VL 的技术理性框架**系统性消除了学生和教师的意向性（intentionality）和意义寻求**——学生被"原子化"为一系列变量，学习目标不容讨论，人际[[Dialogue in Education|对话]]被反馈机制取代。他们主张改进教学的出发点不应是"什么方法有效"，而应是"研究学生为什么参与学校实践"（Nielsen & Klitmøller, 2021, p. 89）。
 
 ## 主要贡献
 

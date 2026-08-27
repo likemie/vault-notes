@@ -48,7 +48,7 @@ updated: 2026-06-10
 
 > [!abstract]
 > 该倡议围绕以下五大核心改进领域组织工作：
-> - **识别监管障碍和行政改进（Identify regulatory impediments and administrative improvements）** 在联邦[[Technology Transfer|技术转移]]政策和[[Praxis|实践]]中发现并消除阻碍
+> - **识别监管障碍和行政改进（Identify regulatory impediments and administrative improvements）** 在联邦[[Technology Transfer|技术转移]]政策和实践中发现并消除阻碍
 > - **增加与私营部门专家的互动（Increase engagement with private sector technology development experts and investors）**
 > - **建立更具创业精神的研发劳动力（Build a more entrepreneurial R&D workforce）**
 > - **支持技术转移的创新工具和服务（Support innovative tools and services for technology transfer）**

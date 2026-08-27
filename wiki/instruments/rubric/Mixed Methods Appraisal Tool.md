@@ -62,7 +62,7 @@ updated: 2026-08-26
 ## 工具定位
 
 > [!instrument-profile] Mixed Methods Appraisal Tool（MMAT）
-> - **工具类型** 混合方法评价工具（Mixed Methods Appraisal Tool, MMAT），批判性评价核查清单（checklist），用于[[Systematic Review|系统综述]]的证据质量评估。
+> - **工具类型** [[Mixed Methods Research|混合方法]]评价工具（Mixed Methods Appraisal Tool, MMAT），批判性评价核查清单（checklist），用于[[Systematic Review|系统综述]]的证据质量评估。
 > - **开发者与年份** Hong et al. (2018)。
 > - **测量目的** 评估纳入系统综述的研究的方法学质量，尤其适合同时包含定性、定量与[[Mixed Methods Research|混合方法]]设计的证据库；2018 版为 2011 版与更早版本的修订。
 > - **实施方式** 由受过训练的评价者（通常两人独立、双盲）逐条核对，再协商或由第三方裁定分歧；本研究采用评价者配对双盲方式。

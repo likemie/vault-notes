@@ -49,7 +49,7 @@ updated: 2026-05-23
 ## 政策文本摘要
 
 > [!abstract]
-> 该机构开展教育研究[[Systematic Review|系统综述]]，并向瑞典[[Praxis|实践]]者传播综述结果；同时资助研究项目，并通过与学校系统工作人员持续[[Dialogue in Education|对话]]来识别需要相关研究的领域([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.33]])。
+> 该机构开展教育研究[[Systematic Review|系统综述]]，并向瑞典实践者传播综述结果；同时资助研究项目，并通过与学校系统工作人员持续[[Dialogue in Education|对话]]来识别需要相关研究的领域([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.33]])。
 
 ## 时间线
 
@@ -64,7 +64,7 @@ updated: 2026-05-23
 ## 效果与评价
 
 > [!success]
-> Swedish Institute for Educational Research 体现了国家级证据机构的一个重要功能：不只是向学校输送已有证据，也让[[Praxis|实践]]者需求反过来影响研究议程。这与 [[Evidence-Informed Practice|证据知情实践]] 中多源互动的取向一致([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.33]])。
+> Swedish Institute for Educational Research 体现了国家级证据机构的一个重要功能：不只是向学校输送已有证据，也让实践者需求反过来影响研究议程。这与 [[Evidence-Informed Practice|证据知情实践]] 中多源互动的取向一致([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.33]])。
 
 ## 争议与评论
 
@@ -75,5 +75,5 @@ updated: 2026-05-23
 
 > [!tip]-
 > - [[Educational Evidence Clearinghouses]] — 该机构是[[Systematic Review|系统综述]]和传播型国家证据机构。
-> - [[Knowledge Mobilisation]] — 该机构通过传播和[[Praxis|实践]]者[[Dialogue in Education|对话]]推动研究知识进入学校。
+> - [[Knowledge Mobilisation]] — 该机构通过传播和实践者[[Dialogue in Education|对话]]推动研究知识进入学校。
 

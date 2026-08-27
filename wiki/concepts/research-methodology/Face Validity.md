@@ -6,7 +6,7 @@ aliases:
 summary: "工具从表面上看起来似乎测量了它声称要测量的东西的判断，是最浅层的效度形式，常作为访谈和问卷的初始效度检查但不被视为充分的效度证据"
 type: concept
 domain: "research-methodology"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

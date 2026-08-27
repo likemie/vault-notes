@@ -66,7 +66,7 @@ updated: '2026-05-18'
 
 11+ 考试主要在英格兰部分地方当局（local authorities）保留，覆盖约 163 所[[Grammar School|文法学校]]。考试内容通常包括数学、英语、言语推理（verbal reasoning）和非言语推理（non-verbal reasoning）。
 
-**与免费校餐（Free School Meals, FSM）的关系([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.25, Appendix 7]])** FSM 儿童进入文法学校的比例极低（仅约 3%），且这一比例在研究期间（2015–2019）未发生可感知的变化。FSM 是英国衡量社会经济弱势的标准指标，这一数据被反复用于证明 11+ 考试在[[Praxis|实践]]中有利于社会经济优势群体。
+**与免费校餐（Free School Meals, FSM）的关系([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.25, Appendix 7]])** FSM 儿童进入文法学校的比例极低（仅约 3%），且这一比例在研究期间（2015–2019）未发生可感知的变化。FSM 是英国衡量社会经济弱势的标准指标，这一数据被反复用于证明 11+ 考试在实践中有利于社会经济优势群体。
 
 Bainbridge et al. 指出：议会辩论中"FSM 儿童在文法学校中的低比例"与"社会流动性"之间的关联被多次提及，但证据表明文法学校未能改变这一结构性不平等（p.25）。
 

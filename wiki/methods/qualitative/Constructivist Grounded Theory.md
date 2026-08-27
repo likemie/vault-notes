@@ -46,7 +46,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> [[Constructivist Paradigm|建构主义]][[Grounded Theory|扎根理论]]（Constructivist Grounded Theory）是美国社会学家 Kathy Charmaz（2006）在 Glaser and Strauss 经典扎根理论基础上发展的[[Qualitative Research|质性研究]]方法论变体。其与传统扎根理论的关键区别在于：建构主义者相信意义和分析都是在具体的情境中由被研究者和研究者**共同建构**起来的，而非如同[[Objectivism|客观主义]]扎根理论所坚持的那样，认为意义内在于数据中"等待着被发现"。[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]在其关于中国精英大学学生出路分化的研究中采用该方法论，并最终由此产出"[[Goal-Controlled Mode|目标掌控模式]]"与"[[Intuition-Dependent Mode|直觉依赖模式]]"两种[[Praxis|实践]]图式的类型学区分。
+> [[Constructivist Paradigm|建构主义]][[Grounded Theory|扎根理论]]（Constructivist Grounded Theory）是美国社会学家 Kathy Charmaz（2006）在 Glaser and Strauss 经典扎根理论基础上发展的[[Qualitative Research|质性研究]]方法论变体。其与传统扎根理论的关键区别在于：建构主义者相信意义和分析都是在具体的情境中由被研究者和研究者**共同建构**起来的，而非如同[[Objectivism|客观主义]]扎根理论所坚持的那样，认为意义内在于数据中"等待着被发现"。[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]在其关于中国精英大学学生出路分化的研究中采用该方法论，并最终由此产出"[[Goal-Controlled Mode|目标掌控模式]]"与"[[Intuition-Dependent Mode|直觉依赖模式]]"两种实践图式的类型学区分。
 >
 > > 建构主义者相信意义和分析都是在具体的情境中由被研究者和研究者建构起来的，而并非如同扎根理论的客观主义观点坚持的那样，认为意义内在于数据中等待着被发现（，引 Charmaz, 2006）
 >
@@ -67,7 +67,7 @@ updated: '2026-05-18'
 > 2. 在个案经验的基础上寻求**理论性命题或[[Hypothesis|假设]]** → 以此确立[[Coding in Qualitative Research|编码]]类目
 > 3. 当新现象**推翻**原有猜想 → 放弃原有编码类别，重新建立新猜想和类属
 > 4. **循环迭代**，持续不断地整合所有发现 → 直到理论命题能够兼容**所有个案**的经验
-> 5. **最终产出** 一个有良好解释力的理论模型（在本研究中即 [[Goal-Controlled Mode]] 与 [[Intuition-Dependent Mode]] 两种"上大学"[[Praxis|实践]]模式的区分）
+> 5. **最终产出** 一个有良好解释力的理论模型（在本研究中即 [[Goal-Controlled Mode]] 与 [[Intuition-Dependent Mode]] 两种"上大学"实践模式的区分）
 >
 > （，引 Charmaz, 2006）
 >

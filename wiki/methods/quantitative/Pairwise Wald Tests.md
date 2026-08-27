@@ -70,7 +70,7 @@ updated: 2026-08-25
 > - **输出形式** 两两比较的 Wald 统计量 $W$（或 $Z$ 值）、自由度 $df$、双尾 $p$ 值以及事后多重比较校正后的显著性判定。
 
 > [!citation-card]- 关键定义
-> 亚组分析显示组织器形态间存在显著异质性；成对 Wald 检验进一步证实思维导图、[[Argument Mapping|论证图]]与概念图两两之间均存在极显著差异。[[Argument_Lei_Ding_Chiu_2026_ERR|(Lei et al., 2026, p. 10)]]
+> 亚组分析显示组织器形态间存在显著异质性；成对 Wald 检验进一步证实[[Mind Mapping|思维导图]]、[[Argument Mapping|论证图]]与[[Concept Mapping|概念图]]两两之间均存在极显著差异。[[Argument_Lei_Ding_Chiu_2026_ERR|(Lei et al., 2026, p. 10)]]
 >
 > *Subgroup analyses showed significant heterogeneity among organizer types; pairwise Wald tests further confirmed that mind mapping, argument mapping, and concept mapping significantly differed from one another.*
 
@@ -182,4 +182,4 @@ updated: 2026-08-25
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] 运用成对 Wald 检验系统验证了[[Graphic Organizer|图形组织器]]形态（思维导图 $g = 1.041$ > [[Argument Mapping|论证图]] $g = 0.798$ > 概念图 $g = 0.548$）、学段（中学 $g = 1.113$ > 小学 $g = 0.877$ > 大学 $g = 0.659$）以及[[Higher-Order Thinking Skills|高阶思维]][[Construct|构念]]层级（倾向与过程显著强于技能结果）的两两级差显著性。
+> - [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] 运用成对 Wald 检验系统验证了[[Graphic Organizer|图形组织器]]形态（[[Mind Mapping|思维导图]] $g = 1.041$ > [[Argument Mapping|论证图]] $g = 0.798$ > [[Concept Mapping|概念图]] $g = 0.548$）、学段（中学 $g = 1.113$ > 小学 $g = 0.877$ > 大学 $g = 0.659$）以及[[Higher-Order Thinking Skills|高阶思维]][[Construct|构念]]层级（倾向与过程显著强于技能结果）的两两级差显著性。

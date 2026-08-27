@@ -47,7 +47,7 @@ fMRI 测量特定脑区血液成分的存在，基于以下原理：活跃的脑
 > [!success] 适用场景
 > - 将认知功能任务和测试期间的表现与特定脑区联系起来([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.2]])
 > - 追踪儿童期到青春期 [[Prefrontal Cortex|PFC]] 的发育变化([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.8]])
-> - 识别成人和儿童在执行相同 [[Executive Function|EF]] 任务时激活的脑区差异。例如 Moriguchi & Hiraki (2013) 使用 fMRI 发现成人在 DCCS 任务中左侧下 PFC 激活更大，而 5 岁儿童在右侧下 PFC 激活更大([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.11–12]])
+> - 识别成人和儿童在执行相同 EF 任务时激活的脑区差异。例如 Moriguchi & Hiraki (2013) 使用 fMRI 发现成人在 DCCS 任务中左侧下 PFC 激活更大，而 5 岁儿童在右侧下 PFC 激活更大([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.11–12]])
 
 ## 局限性
 
@@ -62,5 +62,5 @@ fMRI 测量特定脑区血液成分的存在，基于以下原理：活跃的脑
 
 ## 相关研究
 
-- [[Argument_Bolton_2017_ArchPsych]] — 综述中引用的多项[[Research Utilization|研究使用]] fMRI 检验 [[Prefrontal Cortex|PFC]] 在 [[Executive Function|EF]] 任务中的激活模式
+- [[Argument_Bolton_2017_ArchPsych]] — 综述中引用的多项[[Research Utilization|研究使用]] fMRI 检验 [[Prefrontal Cortex|PFC]] 在 EF 任务中的激活模式
 

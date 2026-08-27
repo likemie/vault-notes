@@ -64,7 +64,7 @@ updated: '2026-06-08'
 >
 > > "Policy discourse is ways of talking about, conceptualizing, and framing education that can be transferred regardless of accompanying policies." ([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 233]])
 >
-> 这一区分深刻影响了 Rappleye (2006) 的概念地图——在[[Cross-National Attraction|跨国吸引]]力阶段，由于尚未做出实际"借用"的决定，研究者的主要关注对象是政策话语而非政策文本。
+> 这一区分深刻影响了 Rappleye (2006) 的[[Concept Mapping|概念地图]]——在[[Cross-National Attraction|跨国吸引]]力阶段，由于尚未做出实际"借用"的决定，研究者的主要关注对象是政策话语而非政策文本。
 
 
 > [!info] 四种吸引力"火花"

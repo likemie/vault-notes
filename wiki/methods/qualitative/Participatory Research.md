@@ -50,7 +50,7 @@ updated: 2026-07-11
 
 > [!method-scope] 方法范围
 > - **研究对象** 被压迫、被剥夺权力、贫困和被剥削的社区和群体的生活境况。
-> - **问题类型** 回答"如何改变处境""如何赋权社区""如何通过知识促进行动和发展"等[[Praxis|实践]]性问题。
+> - **问题类型** 回答"如何改变处境""如何赋权社区""如何通过知识促进行动和发展"等实践性问题。
 > - **分析单位** 社区、工作场所、群体集体而非个体。
 > - **输出形式** 社区发展方案、赋权行动、变革实践、集体行动议程。
 
@@ -136,7 +136,7 @@ updated: 2026-07-11
 ## 相关理论与方法
 
 > [!frames-ref] 相关理论
-> - [[Critical Theory]] — 参与式研究是批判理论在社区赋权[[Praxis|实践]]中的直接表达。
+> - [[Critical Theory]] — 参与式研究是批判理论在社区赋权实践中的直接表达。
 
 > [!ref-table] 相关方法
 > | 方法 | 关系 | 区别 |
@@ -150,4 +150,4 @@ updated: 2026-07-11
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al. (2011, pp. 151–191)]] — 第2.4节以 PR 为例展示[[Critical Theory|批判理论]]在社区赋权中的[[Praxis|实践]]应用，包含 Tandon 的步骤序列和 Hall 的六项原则。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al. (2011, pp. 151–191)]] — 第2.4节以 PR 为例展示[[Critical Theory|批判理论]]在社区赋权中的实践应用，包含 Tandon 的步骤序列和 Hall 的六项原则。

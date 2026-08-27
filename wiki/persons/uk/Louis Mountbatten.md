@@ -36,10 +36,10 @@ updated: 2026-08-24
 
 ## 教育组织活动
 
-> [!timeline] 与联合世界书院有关的活动
+> [!timeline] 与[[United World Colleges|联合世界书院]]有关的活动
 > - **1968 年** 接任大西洋学院理事会主席，条件是提高项目国际化程度，并建立与大西洋学院行政分离的国际办公室。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, p. 104)]]
 > - **1968–1972 年** 与吴丹讨论后采用“联合世界书院”名称，担任国际理事会主席，并推动成立联合世界书院国际有限公司、国际董事会和多国国家委员会。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 105–106)]]
-> - **1970–1975 年** 推动新加坡项目从寻找独立校园转向与新加坡国际学校合作，继而主张将整所全龄学校接纳为正式 UWC。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 110–117)]]
+> - **1970–1975 年** 推动新加坡项目从寻找独立校园转向与新加坡[[International Schools|国际学校]]合作，继而主张将整所全龄学校接纳为正式 UWC。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 110–117)]]
 > - **1975 年** 与玛丽昂·皮尔逊主持莱斯特·B·皮尔逊联合世界书院开幕；同次国际理事会会议正式接受东南亚联合世界书院。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 117, 121–122)]]
 > - **1978 年** 卸任 UWC 主席前推动沃特福德成为关联学校，并把国际办公室交给更完整的全职领导结构。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 124–125)]]
 > - **1979 年 8 月 27 日** 在爱尔兰海岸遇爱尔兰共和军炸弹袭击身亡，未及看到沃特福德和亚得里亚海书院成为正式成员。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 125–130)]]
@@ -64,15 +64,15 @@ updated: 2026-08-24
 > - **组织路径** 把大西洋学院之外的扩展工作变成有名称、法律载体、理事会、董事会和办公室的国际网络。
 > - **政治路径** 借政府首脑、教育官员和国家赞助人支持，为地方创校与奖学金建立公共正当性。
 > - **财政路径** 通过个人捐助与大型活动筹款，帮助运动渡过国际办公室缺少固定收入的阶段。
-> - **成员路径** 促成东南亚书院和沃特福德进入网络，使 UWC 可以接受偏离经典寄宿书院形态、但承诺共同教育目标的学校。
-> - **跨组织路径** 强调 UWC 与国际文凭组织的共同利益，人员交换与 IB 考季调整进一步连接两个网络。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 104–126)]]
+> - **成员路径** 促成东南亚书院和沃特福德进入网络，使 [[United World Colleges|UWC]] 可以接受偏离经典寄宿书院形态、但承诺共同教育目标的学校。
+> - **跨组织路径** 强调 UWC 与[[International Baccalaureate|国际文凭组织]]的共同利益，人员交换与 IB 考季调整进一步连接两个网络。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 104–126)]]
 
 ## 关系网络
 
 > [!person-network] 关键关系
 > - **教育思想前驱** [[Kurt Hahn]] — 提供通过共同生活、服务与探险促进国际理解的教育愿景。
 > - **学校实践者** [[Desmond Hoare]] — 参与德国、加拿大、新加坡和意大利项目，并把大西洋学院经验带入扩展。
-> - **国际教育合作者** [[Alec Peterson]] — 连接 UWC 与 IB 的课程、组织和人员合作。
+> - **[[International Education|国际教育]]合作者** [[Alec Peterson]] — 连接 [[United World Colleges|UWC]] 与 IB 的课程、组织和人员合作。
 > - **机构／运动** [[United World Colleges]] — 蒙巴顿最主要的教育组织工作载体。
 
 ## 解释边界

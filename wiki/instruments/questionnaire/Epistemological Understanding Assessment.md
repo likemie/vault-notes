@@ -68,7 +68,7 @@ updated: 2026-08-17
 > |---|---|---|---|
 > | 个人品味 (Personal taste) | 3 | 测量在高度主观偏好情境下的绝对/多元/评价取向 | 分类计分（3题中有2题符合某一阶段模式，则划归该阶段） |
 > | 审美判断 (Aesthetic judgments) | 3 | 测量在艺术和美学评价情境下的取向 | 分类计分 |
-> | 价值观判断 (Value judgments) | 3 | 测量在道德与规范议题中的取向 | 分类计分 |
+> | 价值观判断 ([[VALUE Rubrics\|VALUE]] judgments) | 3 | 测量在道德与规范议题中的取向 | 分类计分 |
 > | 社会事实 (Truth about social world) | 3 | 测量在社会科学事实探究中的取向 | 分类计分 |
 > | 物理事实 (Truth about physical world) | 3 | 测量在自然科学客观事实情境下的取向 | 分类计分 |
 

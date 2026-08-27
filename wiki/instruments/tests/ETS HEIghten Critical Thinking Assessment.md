@@ -54,7 +54,7 @@ updated: 2026-08-27
 
 ## 工具定位
 
-> [!instrument-profile] [[Educational Testing Service|ETS]] HEIghten [[Critical Thinking Assessment]]
+> [!instrument-profile] ETS HEIghten [[Critical Thinking Assessment]]
 > - **工具类型** 计算机化情境能力测评（Computer-Based Scenario Assessment）。
 > - **开发者与年份** 美国教育考试服务中心（Educational Testing Service, ETS, 2015）/ Ou Lydia Liu et al.
 > - **测量目的** 评估高等教育阶段本科生的通识核心[[Critical Thinking|批判性思维]]与分析推理能力，专门用于测量院校增值效应与跨国大学生[[Learning Gain|学习增益]]。

@@ -269,7 +269,7 @@ Walford（2001, p. 62）报告了研究者角色演变的五阶段过程：
 > - 适合研究教育政策的实施过程，如 Beech & Artopoulos (2015) 使用民族志方法研究阿根廷 [[Conectar Igualdad]] 项目，通过三年的[[Fieldwork|田野工作]]（访谈国家和省级官员、校长、教师和学生，观察课堂和学校活动）揭示了传统[[Analytic Framework|分析框架]]难以察觉的权力关系。
 
 > [!method-fit] 适用判断
-> - **适合使用** 需要深度理解群体文化、意义建构和行为情境的研究；探索性研究或新领域研究；涉及隐性知识、默会[[Praxis|实践]]或不宣之规则的情况。[[Interpretive Paradigm|自然主义探究]]的主要类型中，民族志专门用于对社会群体和情境在其真实生活背景中的描绘和解释（Arsenault & Anderson, 1998; Flick, 2004a, 2004b）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 405–406)]]
+> - **适合使用** 需要深度理解群体文化、意义建构和行为情境的研究；探索性研究或新领域研究；涉及隐性知识、默会实践或不宣之规则的情况。[[Interpretive Paradigm|自然主义探究]]的主要类型中，民族志专门用于对社会群体和情境在其真实生活背景中的描绘和解释（Arsenault & Anderson, 1998; Flick, 2004a, 2004b）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 405–406)]]
 > - **谨慎使用** 高度敏感的研究场景（犯罪团体、权力高度不对称的机构）；研究者可能与参与者[[Conflict of Interest in Research|利益冲突]]的情境；参与者高度脆弱的情况。
 > - **不适合使用** 需要大样本统计概括的研究；需要精确[[Causality|因果关系]]估计的[[Experimental Research|实验研究]]；时间资源极度受限的短期项目。
 

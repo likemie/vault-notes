@@ -32,12 +32,12 @@ updated: '2026-06-08'
 ## 简介
 
 > [!info] 简介
-> 曼彻斯特大学（University of Manchester）教育研究者，研究方向为教育研究中的"第三空间"（third spaces）、研究-政策-[[Praxis|实践]]的混合活动设计、替代性学习结果测量。
+> 曼彻斯特大学（University of Manchester）教育研究者，研究方向为教育研究中的"第三空间"（third spaces）、研究-政策-实践的混合活动设计、替代性学习结果测量。
 
 ## 核心思想
 
 > [!info] 核心思想
-> 关注如何弥合教育研究与[[Praxis|实践]]之间的鸿沟，主张在研究和专业发展的交叉地带设计"混合活动"。与 Pampaka 合作关注非成就性学习结果（如态度、倾向）的测量([[Argument_Pampaka_2016_IJRME|Pampaka et al., 2016, p.235]])。
+> 关注如何弥合教育研究与实践之间的鸿沟，主张在研究和专业发展的交叉地带设计"混合活动"。与 Pampaka 合作关注非成就性学习结果（如态度、倾向）的测量([[Argument_Pampaka_2016_IJRME|Pampaka et al., 2016, p.235]])。
 
 ## 主要贡献
 

@@ -63,7 +63,7 @@ updated: '2026-06-08'
 > [!info] 核心思想
 > Phillips 的核心学术贡献在于将教育政策转移从松散的叙述性描述推进到系统性的理论分析。他承认情境在转移研究中至关重要，但同时认识到情境分析的高度复杂性。
 >
-> > 关于情境的困难，Phillips & Ochs 写道："the complex matter of assessing the extent to which a policy observed elsewhere has been deliberately (purposefully) adopted and adapted to fit the home circumstances ... creates for us the task of disentangling the multifarious contextual elements that will impact on the 'borrowed' policy. This is the most difficult task which researchers interested in [[Policy Borrowing]] face." (Phillips & Ochs, 2004a, p. 782，引自 [[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 226]])
+> > 关于情境的困难，Phillips & Ochs 写道："the complex matter of assessing the extent to which a policy observed elsewhere has been deliberately (purposefully) adopted and adapted to fit the home circumstances ... [[CREATES Project|CREATES]] for us the task of disentangling the multifarious contextual elements that will impact on the 'borrowed' policy. This is the most difficult task which researchers interested in [[Policy Borrowing]] face." (Phillips & Ochs, 2004a, p. 782，引自 [[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 226]])
 >
 > Phillips 对方法论模型持审慎态度，承认其局限：
 >
@@ -79,5 +79,5 @@ updated: '2026-06-08'
 ## 思想发展与影响
 
 > [!note-] 思想发展与影响
-> - Phillips & Ochs 的模型启发了 Rappleye (2006) 进一步发展[[Cross-National Attraction|跨国吸引]]力情境概念地图，后者明确指出其工作建立在 Phillips & Ochs 框架的基础之上
+> - Phillips & Ochs 的模型启发了 Rappleye (2006) 进一步发展[[Cross-National Attraction|跨国吸引]]力情境[[Concept Mapping|概念地图]]，后者明确指出其工作建立在 Phillips & Ochs 框架的基础之上
 > - 影响了 Steiner-Khamsi 等学者对[[Policy Borrowing|政策借用]]政治维度的深入研究

@@ -79,8 +79,8 @@ updated: 2026-08-23
 ## 主要著作与思想
 
 > [!work-line] 主要著作与理念
-> - **1987 — *Schools Across Frontiers: The Story of the [[International Baccalaureate]] and the United World Colleges***
->   以亲历者视角追溯大西洋学院、联合世界书院与国际文凭的形成，首版由 Open Court 出版，2003 年另有重印。第 1 章把大西洋学院的跨国共同生活与课程困境呈现为国际文凭形成的[[Praxis|实践]]起点。[[Argument_Peterson_1987_OpenCourt_Ch01|Peterson (1987, Ch. 1)]]
+> - **1987 — *Schools Across Frontiers: The Story of the [[International Baccalaureate]] and the [[United World Colleges]]***
+>   以亲历者视角追溯大西洋学院、联合世界书院与国际文凭的形成，首版由 Open Court 出版，2003 年另有重印。第 1 章把大西洋学院的跨国共同生活与课程困境呈现为国际文凭形成的实践起点。[[Argument_Peterson_1987_OpenCourt_Ch01|Peterson (1987, Ch. 1)]]
 
 ---
 

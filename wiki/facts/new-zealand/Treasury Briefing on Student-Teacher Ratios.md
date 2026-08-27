@@ -53,7 +53,7 @@ updated: '2026-07-09'
 > [!note]- 经过
 > 2011 年 11 月，新西兰 Treasury 向候任财政部长提交简报，其中包含一项关于学校拨款政策的争议性主张：
 >
-> > "Student achievement can be raised by improving the quality of teaching, which the evidence shows is the largest inschool influence on student outcomes. Increasing student/ teacher ratios, and consolidation of the school network, can free up funding that could be used to support initiatives to enhance the quality of teaching, such as more systemic use of value-add data and a more professionalised workforce."（Treasury, 2011, p.21）
+> > "Student achievement can be raised by improving the quality of teaching, which the evidence shows is the largest inschool influence on student outcomes. Increasing student/ teacher ratios, and consolidation of the school network, can free up funding that could be used to support initiatives to enhance the quality of teaching, such as more systemic use of [[VALUE Rubrics|VALUE]]-add data and a more professionalised workforce."（Treasury, 2011, p.21）
 >
 > 2012 年 2 月 8 日，在议会质询中，教育部长拒绝排除增加[[Class Size|班级规模]]的可能性，理由是 Treasury 的"独立观察"和有影响力的政府顾问 [[John Hattie]] 教授的研究发现均表明，学校教育政策应转而聚焦于提升教学质量（House of Representatives, 2012）。
 >

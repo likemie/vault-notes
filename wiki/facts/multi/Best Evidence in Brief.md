@@ -41,7 +41,7 @@ updated: '2026-05-18'
 ## 背景
 
 > [!info] 背景
-> [[Evidence-Based Education|证据本位教育]]改革面临的关键障碍之一是信息传播：即使研究证明了某些项目有效，如果这些信息不能以可及的方式传达给教育者和政策制定者，证据就无法影响[[Praxis|实践]]。在此背景下，Johns Hopkins University 与英国约克大学合作创建了 Best Evidence in Brief（BEiB）([[Argument_Slavin_2021_ROE|Slavin et al., 2021, p.20-21]])。
+> [[Evidence-Based Education|证据本位教育]]改革面临的关键障碍之一是信息传播：即使研究证明了某些项目有效，如果这些信息不能以可及的方式传达给教育者和政策制定者，证据就无法影响实践。在此背景下，Johns Hopkins University 与英国约克大学合作创建了 Best Evidence in Brief（BEiB）([[Argument_Slavin_2021_ROE|Slavin et al., 2021, p.20-21]])。
 
 ## 政策文本摘要
 

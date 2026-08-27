@@ -97,7 +97,7 @@ updated: 2026-07-25
 > [!timeline] 生平与职涯
 > - **1859** 出生于美国佛蒙特州伯灵顿。
 > - **1884** 获约翰斯·霍普金斯大学博士学位，先后任教于密歇根大学与明尼苏达大学。
-> - **1894–1904** 任芝加哥大学哲学、心理学与教育学系主任，创办芝加哥大学实验学校（University of Chicago Laboratory Schools），将活动课程、社会性学习与“学校即社会”主张置于实验性教育[[Praxis|实践]]中检验。
+> - **1894–1904** 任芝加哥大学哲学、心理学与教育学系主任，创办芝加哥大学实验学校（University of Chicago Laboratory Schools），将活动课程、社会性学习与“学校即社会”主张置于实验性教育实践中检验。
 > - **1904–1930** 任哥伦比亚大学教授，出版 *Democracy and Education* (1916) 等里程碑著作，奠定其作为20世纪最具全球影响力的教育哲学家的学术地位。
 > - **1919–1921** 应邀赴华巡回11个省份发表200余场讲演，深刻影响民国[[New Education Movement|新教育运动]]、[[1922 Educational System Reform|1922年学制改革]]及后续教育现代化讨论。（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, pp.614–618]]）
 > - **1928** 访问苏联并考察试验学校，与 [[Stanislav Shatskii]] 等苏联教育家直接会面，推动[[Progressive Education|进步教育]]在美苏[[Cultural Diplomacy|文化外交]]中的跨国传播。（[[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, pp.102–109]]）
@@ -132,7 +132,7 @@ updated: 2026-07-25
 
 > [!theory-components] 三环节主动学习与[[Pragmatic Paradigm|实用主义]]教育哲学构件
 > - **在“做”（doing）中探究与[[Critical Thinking|批判性思维]]**
->   思想并非源于[[Rote Learning|死记硬背]]，而是源于动手操作与有目的的[[Praxis|实践]]（doing）。通过在情境中解决具体问题，学习者生成知情决策与批判性思维 [[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 8–9)]]。
+>   思想并非源于[[Rote Learning|死记硬背]]，而是源于动手操作与有目的的实践（doing）。通过在情境中解决具体问题，学习者生成知情决策与批判性思维 [[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 8–9)]]。
 > - **[[Dialogue in Education|对话]]与民主经验共享**
 >   批判单向“听讲”带来的被动与吸收状态（Dewey, 1902, p. 32），将对话定义为“共享经验的过程”（Dewey, 1961, p. 9），使学习者摆脱客体地位，成为共同探究者 [[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 9–10)]]。
 > - **以自我实现为核心的[[Growth|生长]]（Growth）**
@@ -169,7 +169,7 @@ updated: 2026-07-25
 > [!influence-path] 影响路径
 > - **理论路径** 奠定[[Pragmatic Paradigm|实用主义]]教育哲学，重构了经验、探究与知识的关系，提出[[Active Learning|主动学习]]三环节模型（[[Critical Thinking|批判性思维]]、[[Dialogue in Education|对话]]、[[Growth|生长]]），反对绝对确定性执念，将证据理解为情境行动中可修正的[[Hypothesis|假设]]（Dewey quoted in Hattie, 2008, p.147; [[Argument_Darwish_2009_Queens|Darwish, 2009]]）。
 > - **方法路径** 推崇[[Reflexivity|反思性]]探究与试错实验，批判[[Technical Rationality|技术理性]]与将教师简化为[[Classroom Management|课堂管理]]技巧训练的倾向，倡导保持[[Professional Judgment|专业判断]]。
-> - **政策与[[Praxis|实践]]路径** 推动了综合课程、活动教学法（如项目制构建模型）、学分制以及从科目隔绝转向社会科整合的全球课程改革趋势。
+> - **政策与实践路径** 推动了综合课程、活动教学法（如项目制构建模型）、学分制以及从科目隔绝转向社会科整合的全球课程改革趋势。
 
 ---
 
@@ -203,7 +203,7 @@ updated: 2026-07-25
 > [!person-network] 关系网络
 > - **理论[[Dialogue in Education|对话]]与课程审查** [[Paulo Freire|保罗·弗莱雷]]（[[Critical Pedagogy|批判教育学]]对话者）、[[Bob Darwish|鲍勃·达维什]]（将杜威与弗莱雷结合提出[[Active Learning|主动学习]]三环节模型） — 共同批判被动[[Banking Model of Education|储蓄式教育]]，强调学生作为能动主体的自由。
 > - **古典批判对象** [[Plato|柏拉图]]、[[Aristotle|亚里士多德]] — 杜威批判古典哲学构建了将统治与理性限定于少数护卫者阶层的静态社会，排斥平民[[Growth|生长]]的可能。
-> - **学生／中国追随者与传播者** [[Hu Shi|胡适]]、[[Jiang Menglin|蒋梦麟]]、[[Tao Xingzhi|陶行知]]、赵乃传、查良钊 — 推动杜威思想在华翻译、讲演安排、制度落地与乡村教育[[Praxis|实践]]。
+> - **学生／中国追随者与传播者** [[Hu Shi|胡适]]、[[Jiang Menglin|蒋梦麟]]、[[Tao Xingzhi|陶行知]]、赵乃传、查良钊 — 推动杜威思想在华翻译、讲演安排、制度落地与乡村教育实践。
 > - **跨国同行** [[Stanislav Shatskii]] — 苏联[[Progressive Education|进步教育]]代表人物，1928年与杜威在苏直接会面交流。
 > - **理论研究与解释者** [[Robert Cowen]] — 提出 [[Transfer Translation Transformation|3T 框架]]解释杜威等外来思想在跨国转移中的拆解与变质。
 > - **核心机构与项目** 芝加哥大学实验学校、哥伦比亚大学师范学院、[[New Education Movement|新教育运动]]、1922年新学制改革。
@@ -224,7 +224,7 @@ updated: 2026-07-25
 > > 1930年代苏联学界批评杜威的教育适应论忽略了阶级斗争与集体主义政治教育，最终导致苏联全面清退杜威思想。（[[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, pp.103–104]]）
 
 > [!critique]- 批评索引
-> - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 指出纯粹的杜威[[Pragmatic Paradigm|实用主义]]若缺乏对社会政治结构不公的批判与解决压迫的[[Praxis|实践]]（Praxis）承诺，仍可能被去政治化为形式上的课程活动。
+> - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 指出纯粹的杜威[[Pragmatic Paradigm|实用主义]]若缺乏对社会政治结构不公的批判与解决压迫的实践（[[Praxis]]）承诺，仍可能被去政治化为形式上的课程活动。
 > - [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] — 记录1950年代中国教育界对杜威自然主义、[[Pragmatic Paradigm|实用主义]]及所谓“反科学”立场的批判。
 > - [[Argument_Zhou_2024_CE|Zhou & Westberg (2024)]] — 评估“碎片化”概念预设完整整体的逻辑局限，指出外来理论在危局中被功能性筛选是跨国传播的常态。
 

@@ -5,7 +5,7 @@ aliases:
 summary: "中枢神经系统中新突触形成和扩增的过程，用于解释大脑如何在发展和经验作用下建立新的神经连接。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 4
+related_count: 3
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

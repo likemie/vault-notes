@@ -5,7 +5,7 @@ aliases:
 summary: "鲍曼提出的概念，指将理想社会定位于被偷走或遗弃但未死的过去的乌托邦想象，用于分析中国的中华民族复兴话语"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 9
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

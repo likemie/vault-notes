@@ -7,7 +7,7 @@ aliases:
 summary: "政府、雇主和工会三方之间制度化合作与协商的治理模式，用于协调政策、利益分配和社会调节。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 15
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

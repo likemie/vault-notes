@@ -55,7 +55,7 @@ updated: '2026-05-28'
 > - **负面外部评估** — 1983 年最早一批 IEA（[[International Education|国际教育]]成就评价协会，International Association for the Evaluation of Educational Achievement）国际比较研究发布，美国学生在数学和科学等科目的表现不如日本等同级经济体
 > - **新型态（new forms）** — 日本经济被广泛预测将在不远的将来超越美国，日企在美国汽车和电子市场"击败"美企，催生了"日本第一"（Japan as No. 1）的大众话语想象
 >
-> 在 Rappleye 的情境概念地图中，四项推力按可感知度从高到低排列——从最易感知的经济变化和政治变化，到相对隐蔽的知识技能创新和新型态。这种多推力同时作用的格局，使得 1980 年代的日本教育吸引力格外强烈（p. 235）。
+> 在 Rappleye 的情境[[Concept Mapping|概念地图]]中，四项推力按可感知度从高到低排列——从最易感知的经济变化和政治变化，到相对隐蔽的知识技能创新和新型态。这种多推力同时作用的格局，使得 1980 年代的日本教育吸引力格外强烈（p. 235）。
 
 ---
 
@@ -84,7 +84,7 @@ updated: '2026-05-28'
 ## 行动者与结构分析
 
 > [!abstract] 行动者与结构分析
-> [[Argument_Rappleye_2006_RCIE|Rappleye (2006, pp. 234–235)]] 以情境概念地图分析此案例，呈现出推力侧与阻力侧的显著失衡。
+> [[Argument_Rappleye_2006_RCIE|Rappleye (2006, pp. 234–235)]] 以情境[[Concept Mapping|概念地图]]分析此案例，呈现出推力侧与阻力侧的显著失衡。
 >
 > ### 改革行动者——密集的推力网络
 >
@@ -139,7 +139,7 @@ updated: '2026-05-28'
 ## 相关概念／政策
 
 > [!example] 相关概念／政策
-> - [[Cross-National Attraction]] — 跨国吸引力的情境概念地图用此案例做了示范性分析
+> - [[Cross-National Attraction]] — 跨国吸引力的情境[[Concept Mapping|概念地图]]用此案例做了示范性分析
 > - [[Policy Borrowing]] — 高吸引力未转化为高借用的对照案例
 > - [[Pre-Transfer Agency]] — 改革行动者在借用决策前运作危机化和合法化火花
 > - [[Externalization]] — 美国行动者将国内焦虑外化到日本参照系中

@@ -48,7 +48,7 @@ updated: 2026-05-23
 ## 政策文本摘要
 
 > [!abstract]
-> CUREE 的主要任务不是开展新研究，而是传播关于[[Effective Teaching|有效教学]]过程和[[Praxis|实践]]的严格研究发现。它还通过专业发展活动和政策分析与学校、政策制定者合作，用以评估政府倡议的质量([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.34]])。
+> CUREE 的主要任务不是开展新研究，而是传播关于[[Effective Teaching|有效教学]]过程和实践的严格研究发现。它还通过专业发展活动和政策分析与学校、政策制定者合作，用以评估政府倡议的质量([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.34]])。
 
 ## 时间线
 
@@ -63,7 +63,7 @@ updated: 2026-05-23
 ## 效果与评价
 
 > [!success]
-> CUREE 补足了 清算中心 只提供证据摘要或评级时可能留下的[[Praxis|实践]]转换空白：它关注研究如何被教师和政策制定者理解并用于学校真实情境([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.34]])。
+> CUREE 补足了 清算中心 只提供证据摘要或评级时可能留下的实践转换空白：它关注研究如何被教师和政策制定者理解并用于学校真实情境([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.34]])。
 
 ## 争议与评论
 

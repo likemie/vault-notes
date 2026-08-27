@@ -9,7 +9,7 @@ aliases:
 summary: "由政府或研究赞助方预先设定研究主题和边界的资助模式，研究者通过竞标承接项目；这一机制在过去二十余年大幅增长，推动了教育研究从研究者自设议程向赞助方指定焦点的系统性转变。"
 type: concept
 domain: "research-methodology"
-related_count: 6
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

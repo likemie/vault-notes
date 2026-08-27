@@ -6,7 +6,7 @@ aliases:
 summary: "位于额叶前部、与计划、抑制、决策和执行功能密切相关的脑区，是理解高阶认知控制和发展晚熟性的关键神经基础。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 8
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

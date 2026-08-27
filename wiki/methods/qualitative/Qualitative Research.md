@@ -144,7 +144,7 @@ Creswell & Creswell（2022, Ch9）识别了质性研究的九大核心特征：
 ## 局限性
 
 > [!warning] 局限性
-> - **[[Recommendations for Practice|实践建议]]边界** 2020 年五本期刊中 65% 的质性研究包含 RFP；如果这些建议暗含"改变[[Praxis|实践]]会改善结果"的因果结构，就需要谨慎区分解释性发现与因果行动建议([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.6-7, 9]])。
+> - **[[Recommendations for Practice|实践建议]]边界** 2020 年五本期刊中 65% 的质性研究包含 RFP；如果这些建议暗含"改变实践会改善结果"的因果结构，就需要谨慎区分解释性发现与因果行动建议([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.6-7, 9]])。
 > - **比例可能受专刊影响** JEP 2020 年质性研究专刊使该年度 JEP 的质性研究数量增加；但排除该专刊后，五刊中质性研究仍占 19%，说明增长并非完全由专刊造成([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.5-6]])。
 
 ## 相关理论
@@ -191,7 +191,7 @@ Creswell & Creswell（2022, Ch9）提出了质性数据分析的七个步骤，�
 
 - vs [[Observational and Correlational Research]] — 两者都不操纵自[[Variable|变量]]；观察/相关研究包含量化数据，质性[[Research Utilization|研究使用]]访谈、观察等文本数据([[Argument_Brady_2023_EPR|Brady et al., 2023, p.4]])。
 - vs Mixed Method and [[Multimethod Research|multi-method research]] — [[Mixed Methods Research|混合方法]]/多方法研究同时包含量化和质性数据；质性研究在 [[Argument_Brady_2023_EPR|Brady et al. (2023)]] 的[[Coding in Qualitative Research|编码]]中只以质性数据为基础([[Argument_Brady_2023_EPR|Brady et al., 2023, p.4]])。
-- vs [[Intervention Research]] — 质性研究可帮助理解教育情境和参与过程，但在该文分类中不操纵变量；干预研究则通过引入处理来检验[[Praxis|实践]][[Hypothesis|假设]]([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.2, 4]])。
+- vs [[Intervention Research]] — 质性研究可帮助理解教育情境和参与过程，但在该文分类中不操纵变量；干预研究则通过引入处理来检验实践[[Hypothesis|假设]]([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.2, 4]])。
 - vs [[Recommendations for Practice]] — 质性研究可以提出实践启发，但若建议暗含"改变实践会改善结果"的因果结构，就需要说明其证据边界([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.6-7, 9]])。
 
 ## 使用此方法的研究

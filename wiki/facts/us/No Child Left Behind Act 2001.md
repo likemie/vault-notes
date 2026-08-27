@@ -92,7 +92,7 @@ NCLB 是美国证据问责运动的重要起点：NCLB 对“科学本位研究�
 >
 > [[Argument_Downey_2016_SoE|Downey & Condron (2016, pp.10–11)]] 指出，NCLB 最初实施时，学校完全基于单一时间点的学生考试成绩被评估，不根据各校不同的非学校环境进行任何调整。考虑到校际成就差距在幼儿园入学时已显著形成，这种完全不考虑情境因素的评估方式"毫无道理"（made no sense）([[Argument_Downey_2016_SoE|Downey & Condron, 2016, p.10]])。
 >
-> - 在 NCLB 实施后，许多州逐步放弃了基于单一时间点考试成绩的学校评估，转向**增值评估（value-added assessments）**——统计模型更有效地分离学校对学生学习的贡献
+> - 在 NCLB 实施后，许多州逐步放弃了基于单一时间点考试成绩的学校评估，转向**增值评估（[[VALUE Rubrics|VALUE]]-added assessments）**——统计模型更有效地分离学校对学生学习的贡献
 > - Downey & Condron 将这一转变定性为"**情境方的一次值得关注的胜利**"（a noteworthy acknowledgment by policymakers that context matters），表明政策制定者开始承认情境的重要性([[Argument_Downey_2016_SoE|Downey & Condron, 2016, p.11]])
 
 ## 效果与评价

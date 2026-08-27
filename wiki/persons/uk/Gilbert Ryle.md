@@ -61,7 +61,7 @@ updated: '2026-06-08'
 > [!example]
 > Ryle 的[[Knowledge-that and Know-how-to|知其然]]/知其所用区分被 [[Curriculum Design Coherence Model|课程设计连贯性模型]]采纳为核心理论框架：
 > - 知其然包括命题、学科概念和内容
-> - 知其所用包括技能、能力和学科[[Praxis|实践]]
+> - 知其所用包括技能、能力和学科实践
 > - 两者的连接是[[Surface and Deep Learning|深层学习]]的先决条件
 > - 当学生能够展示和阐述两种知识形式之间的联系时，就实现了「明智地知其所用」和「知其所以然」([[Argument_McPhail_2023_JCS|McPhail et al., 2023]])
 

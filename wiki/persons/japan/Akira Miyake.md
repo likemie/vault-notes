@@ -51,12 +51,12 @@ updated: '2026-06-08'
 ## 主要贡献
 
 > [!success] 主要贡献
-> - [[Miyake's Unity and Diversity Framework of Executive Function|miyake-unity-diversity-framework]] — [[Executive Function|EF]] 的三成分统一性与多样性模型，成为执行功能研究的基础框架
+> - [[Miyake's Unity and Diversity Framework of Executive Function|miyake-unity-diversity-framework]] — EF 的三成分统一性与多样性模型，成为[[Executive Function|执行功能]]研究的基础框架
 > - 该框架被 Bolton & Hattie (2017) 用作将 EF 发展轨迹与[[Jean Piaget|皮亚杰]]阶段对齐的核心理论工具([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.4, 8–9]])
 
 ## 思想发展与影响
 
 > [!note-] 思想发展与影响
-> - 2000 年 Miyake et al. 首次提出综合多维 [[Executive Function|EF]] 模型
+> - 2000 年 Miyake et al. 首次提出综合多维 EF 模型
 > - 2012 年 Miyake & Friedman 进一步发展该框架
-> - 该框架深刻影响了后续 EF 研究，成为测量和概念化执行功能的标准方法
+> - 该框架深刻影响了后续 EF 研究，成为测量和概念化[[Executive Function|执行功能]]的标准方法

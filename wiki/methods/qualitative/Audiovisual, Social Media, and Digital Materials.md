@@ -41,7 +41,7 @@ updated: 2026-06-01
 ## 定义
 
 > [!info]
-> 视听、社交媒体和数字材料（Audiovisual, Social Media, and Digital Materials）是[[Qualitative Research|质性研究]]中继观察、访谈和文件之后的第四种主要数据收集类型。这类数据可以采取照片、艺术品、录像带、网站主页、电子邮件、短信、社交媒体文本或各种声音的形式。还包括视觉[[Ethnography|民族志]]（Pink, 2001）中的创造性数据收集程序，以及生活故事、隐喻性视觉叙事和数字档案（Clandinin, 2007）（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9, p.200）。
+> 视听、社交媒体和数字材料（Audiovisual, Social Media, and Digital Materials）是[[Qualitative Research|质性研究]]中继观察、访谈和文件之后的第四种主要数据收集类型。这类数据可以采取照片、艺术品、录像带、网站主页、电子邮件、短信、社交媒体文本或各种声音的形式。还包括视觉[[Ethnography|民族志]]（Pink, 2001）中的[[Creativity|创造性]]数据收集程序，以及生活故事、隐喻性视觉叙事和数字档案（Clandinin, 2007）（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9, p.200）。
 
 ## 研究程序
 
@@ -61,7 +61,7 @@ updated: 2026-06-01
 |---|---|
 | 可能是非侵入性的数据收集方法 | 可能难以解释 |
 | 为参与者提供直接分享其现实的机会 | 可能无法公开或私人获取 |
-| 具有创造性，在视觉上吸引注意力 | 由于观察者（如摄影师）的存在，可能造成干扰并影响反应 |
+| 具有[[Creativity\|创造性]]，在视觉上吸引注意力 | 由于观察者（如摄影师）的存在，可能造成干扰并影响反应 |
 
 [[Visual Data|视觉数据]]的使用挑战还包括：图像可能反映文化或社会趋势而非单个个体的视角；当图像包含个体和场所时，匿名性难以保证；使用视觉数据需要获得许可以尊重提供者的隐私（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9）。
 

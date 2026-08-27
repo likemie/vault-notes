@@ -73,7 +73,7 @@ updated: 2026-08-22
 
 > [!finding-cards] 效果与评价
 > - **国际评价框架奠基** 深刻影响了全球教育界对[[Scientific Literacy|科学素养]]的界定方式，将真实情境应用与证据评估确立为国际比较基准。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, p. 31)]]
-> - **课程[[Praxis|实践]]落地** 催生了英格兰覆盖近 60% 中学的《[[Twenty First Century Science|21世纪科学]]》新课程方案。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, p. 31)]]
+> - **课程实践落地** 催生了英格兰覆盖近 60% 中学的《[[Twenty First Century Science|21世纪科学]]》新课程方案。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, p. 31)]]
 
 ---
 

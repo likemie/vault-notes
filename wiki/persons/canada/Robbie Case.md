@@ -59,7 +59,7 @@ Case (1985) 使用**平衡木测试（Balancing Beam Test）** 观察阶段内�
 
 > [!success] 主要贡献
 > - [[Neo-Piagetian Theories|neo-piagetian-theories]] — 四子域发展模型，细化了[[Jean Piaget|皮亚杰]]阶段内部的子阶段结构
-> - 其 Inter-relational → Dimensional 阶段转变（约 4–5 岁）被 Bolton & Hattie (2017) 作为新皮亚杰阶段与 [[Executive Function|EF]] 变化铰链点吻合的证据([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.10]])
+> - 其 Inter-relational → Dimensional 阶段转变（约 4–5 岁）被 Bolton & Hattie (2017) 作为新皮亚杰阶段与 EF 变化铰链点吻合的证据([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.10]])
 
 ## 思想发展与影响
 

@@ -174,7 +174,7 @@ updated: 2026-08-22
 > 若研究目标为正式假设检验（confirmatory），应在数据收集前在公共注册库中**[[Preregistration|预注册]]（Preregistration）**研究计划和假设，以提高[[Quantitative Research|量化研究]]的准确性和透明度（Nosek et al., 2018; 引自 Creswell & Creswell, 2022, Ch8）。常用注册库包括 Center for Open Science（https://www.cos.io）和 NIH 的 ClinicalTrials.gov（https://www.clinicaltrials.gov）。
 
 > [!info]
-> 结果解释包括：报告结果如何回答研究问题或假设（APA, 2020 建议报告完整的描述统计、[[Statistical Significance|统计显著性]]检验、[[Confidence Interval|置信区间]]和[[Effect Size|效应量]]）；将主要发现置于先前研究的语境中讨论；承认[[Praxis|实践]]和研究意义；简要指出研究局限和替代性解释；最后以主要发现及其更广泛的科学和社会重要性收尾（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
+> 结果解释包括：报告结果如何回答研究问题或假设（APA, 2020 建议报告完整的描述统计、[[Statistical Significance|统计显著性]]检验、[[Confidence Interval|置信区间]]和[[Effect Size|效应量]]）；将主要发现置于先前研究的语境中讨论；承认实践和研究意义；简要指出研究局限和替代性解释；最后以主要发现及其更广泛的科学和社会重要性收尾（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 
 ### 调查方法计划检查清单
 
@@ -211,7 +211,7 @@ updated: 2026-08-22
 ---
 ### 调查规划阶段
 
-调查规划通常经历明确的阶段（pp.261–263）。Sapsford（1999, pp. 34–40）提出四项主要规划考虑：问题界定（决定所需答案的类型和内容、待检验假设、待探索变量）；样本选择（确定目标总体、确保可及性和代表性、为比较目的抽取其他样本）；测量设计（确定测量内容和方式、所需变量、如何确保信度和效度）；参与者关怀（保护保密性和匿名性、避免伤害、避免过度侵入性问题、避免强制、[[Informed Consent|知情同意]]）。
+调查规划通常经历明确的阶段（pp.261–263）。Sapsford（1999, pp. 34–40）提出四项主要规划考虑：[[Problem Finding|问题界定]]（决定所需答案的类型和内容、待检验假设、待探索变量）；样本选择（确定目标总体、确保可及性和代表性、为比较目的抽取其他样本）；测量设计（确定测量内容和方式、所需变量、如何确保信度和效度）；参与者关怀（保护保密性和匿名性、避免伤害、避免过度侵入性问题、避免强制、[[Informed Consent|知情同意]]）。
 
 Rosier（1997, pp. 154–162）进一步细化了规划内容，涵盖：明确研究问题；建立调查的概念框架，精确说明将使用和探索的概念；[[Operationalization|操作化]]研究问题（转化为假设）；确定数据收集工具；确定抽样策略和子群体；预试测（pre-pilot）；试测（pilot）；数据收集的实操与实施（许可、资助、伦理考量、回应率）；数据准备（[[Coding in Qualitative Research|编码]]、录入、核查）；数据分析（统计程序、变量构建、因子分析、推断统计）；报告发现（回答研究问题）。
 

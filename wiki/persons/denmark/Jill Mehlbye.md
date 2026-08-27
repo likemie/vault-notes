@@ -47,7 +47,7 @@ updated: '2026-06-08'
 ## 主要贡献
 
 > [!success] 主要贡献
-> - [[Effective Teaching]] — 为丹麦有效教学研究提供高绩效学校证据，尤其凸显高要求、[[Academic Achievement|学业表现]]文化、明确[[Classroom Management|课堂管理]]和测试[[Praxis|实践]]的重要性([[Argument_Laursen_2015_Paideia|Laursen, 2015, pp.37–39]])。
+> - [[Effective Teaching]] — 为丹麦有效教学研究提供高绩效学校证据，尤其凸显高要求、[[Academic Achievement|学业表现]]文化、明确[[Classroom Management|课堂管理]]和测试实践的重要性([[Argument_Laursen_2015_Paideia|Laursen, 2015, pp.37–39]])。
 > - [[SFI Report]] — Mehlbye 研究与 SFI 报告一起构成丹麦本土证据：二者都支持高要求、明确课堂管理等质量的重要性([[Argument_Laursen_2015_Paideia|Laursen, 2015, pp.37–38]])。
 
 ## 主要著作

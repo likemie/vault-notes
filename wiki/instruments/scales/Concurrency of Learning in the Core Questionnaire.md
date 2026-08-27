@@ -50,7 +50,7 @@ updated: 2026-08-11
 > [!instrument-profile] [[Concurrency of Learning]] in the Core [[Questionnaire]]
 > - **工具类型** 问卷 / 量表
 > - **开发者与年份** [[Argument_Metli_2022_IJER|Metli & Akış (2022)]]
-> - **测量目的** 测量 IB 教师与协调员对学校层面核心组件（[[Theory of Knowledge|TOK]]、[[Creativity, Action, Service|CAS]]、EE）之间并发学习（Concurrency of Learning）状态及其连贯性（Coherence）的感知、[[Praxis|实践]]策略与挑战。
+> - **测量目的** 测量 IB 教师与协调员对学校层面核心组件（[[Theory of Knowledge|TOK]]、[[Creativity, Action, Service|CAS]]、EE）之间并发学习（Concurrency of Learning）状态及其连贯性（Coherence）的感知、实践策略与挑战。
 > - **实施方式** 自陈（由研究者设计并经过外部[[International Education|国际教育]]专家审查）
 
 ---

@@ -7,7 +7,7 @@ aliases:
 summary: "学习者生成、评估、修改、发明和跨通道转译外部表征形式（图表、符号、概念图）的高阶元认知能力"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 13
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

@@ -46,7 +46,7 @@ updated: 2026-05-26
 ## 内容
 
 > [!note]-
-Morrill Act of 1862 要求受资助的大学"促进工业阶层的自由和[[Praxis|实践]]教育，涵盖多种人生追求和职业"（"promote the liberal and practical education of the industrial classes in the several pursuits and professions in life"）（p.11）。
+Morrill Act of 1862 要求受资助的大学"促进工业阶层的自由和实践教育，涵盖多种人生追求和职业"（"promote the liberal and practical education of the industrial classes in the several pursuits and professions in life"）（p.11）。
 
 该法案的核心条款是通过联邦赠地的方式支持各州建立面向工农阶层的实践教育大学。
 
@@ -55,7 +55,7 @@ Morrill Act of 1862 要求受资助的大学"促进工业阶层的自由和[[Pra
 > [!success]
 Morrill Act 带来了三个关键转变（p.11）：
 
-1. **高等教育的民主化** 将高等教育从精英的"精修学校"扩展为面向更多人的[[Praxis|实践]]教育
+1. **高等教育的民主化** 将高等教育从精英的"精修学校"扩展为面向更多人的实践教育
 2. **专业教育成为明确目标** 催生了重视工程和农业的大学，支持美国新兴工业
 3. **联邦-州结构的确立** 确立了公共高等教育由各州主导、联邦支持的制度结构，这是美国不同于欧洲国立大学体系的关键特征
 

@@ -86,5 +86,5 @@ updated: '2026-06-08'
 
 > [!note-] 思想发展与影响
 > - Schriewer 的[[Externalization|外化]]概念被 Steiner-Khamsi 的[[Policy Borrowing|政策借用]]框架采纳为核心机制
-> - 被 Rappleye (2006) 整合入[[Cross-National Attraction|跨国吸引]]力情境概念地图，作为连接结构推力和人的行动者的关键话语机制
+> - 被 Rappleye (2006) 整合入[[Cross-National Attraction|跨国吸引]]力情境[[Concept Mapping|概念地图]]，作为连接结构推力和人的行动者的关键话语机制
 > - 影响了比较教育中"情境敏感性"研究的方法论发展

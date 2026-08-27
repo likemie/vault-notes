@@ -55,7 +55,7 @@ updated: '2026-06-08'
 ## 核心思想
 
 > [!info] 核心思想
-> Cohen 的[[Effect Size|效应量]]框架把均值差转化为标准差单位，使不同量表下的差异可以被放在同一统计表达中比较。Cohen 在[[Praxis|实践]]中使用 none/small/medium/large 的分类，常见阈值包括 0.2、0.5、0.8 等；但这些词相对于研究领域和具体方法而成立，不应被当作机械阈值([[Argument_Allerup_2015_Paideia|Allerup, 2015, pp.43–44]])。
+> Cohen 的[[Effect Size|效应量]]框架把均值差转化为标准差单位，使不同量表下的差异可以被放在同一统计表达中比较。Cohen 在实践中使用 none/small/medium/large 的分类，常见阈值包括 0.2、0.5、0.8 等；但这些词相对于研究领域和具体方法而成立，不应被当作机械阈值([[Argument_Allerup_2015_Paideia|Allerup, 2015, pp.43–44]])。
 >
 > Terhart 记录 Cohen 曾用身高差异解释 d=1.0 的直观含义：若两组平均身高分别约为 160cm 和 183cm，这种差异"肉眼可见"；这一例子说明 Cohen 的 d 本来是一种标准化差异语言，而不是教育改进价值的直接排序表([[Argument_Terhart_2011_JCS|Terhart, 2011, p.427]])。
 
@@ -68,7 +68,7 @@ updated: '2026-06-08'
 ## 思想发展与影响
 
 > [!note-] 思想发展与影响
-> Cohen 的阈值经 Hattie 的 [[Visible Learning]] 被重新包装为面向教育[[Praxis|实践]]的排序工具。Hattie 将 d=0.40 设为"期望效应"边界，但从统计检验角度看，这一数值与 p 值的关系依赖[[Sample Size Determination|样本量]]；以 n=25 为例，d≈0.412 才对应双侧 t 检验的 p≈0.05 临界值([[Argument_Allerup_2015_Paideia|Allerup, 2015, p.45]])。因此，Cohen 原本带有谨慎条件的参照框架，在教育政策传播中容易被误读为跨情境的行动阈值。
+> Cohen 的阈值经 Hattie 的 [[Visible Learning]] 被重新包装为面向教育实践的排序工具。Hattie 将 d=0.40 设为"期望效应"边界，但从统计检验角度看，这一数值与 p 值的关系依赖[[Sample Size Determination|样本量]]；以 n=25 为例，d≈0.412 才对应双侧 t 检验的 p≈0.05 临界值([[Argument_Allerup_2015_Paideia|Allerup, 2015, p.45]])。因此，Cohen 原本带有谨慎条件的参照框架，在教育政策传播中容易被误读为跨情境的行动阈值。
 
 ## 争议与批评
 

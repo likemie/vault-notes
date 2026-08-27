@@ -63,7 +63,7 @@ SRC 的独特之处在于它制度化地解决了 PPP 最核心的张力：**如
 > [!note]-
 > 到 2020 年代中期，半导体制造工艺的尺寸缩放（dimensional scaling）正在逼近渐近极限（Kim, 2024）。与此同时，fabless 公司（如 Nvidia）通过架构差异化在 AI 等关键应用中获得巨大竞争优势，市值相对于制造商（Intel、TSMC）持续增长([[Argument_Ramming_2025_CorporateSupport|Ramming, 2025, p.235]])。计算能力日益成为国家安全资产——2022 年 [[CHIPS and Science Act|CHIPS 与科学法案]]推动建立国家半导体技术中心（NSTC），代表了政府以更大规模、更明确的产业政策目标进入半导体研究 [[Public-Private Partnership in Research|PPP]] 领域。
 
-对半导体和计算行业的[[University-Industry Collaboration|产学合作]][[Praxis|实践]]者而言，NSTC 的出现是一个"强制函数"——迫使每个公司重新审视自己的大学合作策略：如何在 SRC（行业联盟型 PPP）和 NSTC（国家战略型 PPP）这两个不同逻辑的制度框架下重新定位（pp.235–236）。
+对半导体和计算行业的[[University-Industry Collaboration|产学合作]]实践者而言，NSTC 的出现是一个"强制函数"——迫使每个公司重新审视自己的大学合作策略：如何在 SRC（行业联盟型 PPP）和 NSTC（国家战略型 PPP）这两个不同逻辑的制度框架下重新定位（pp.235–236）。
 
 ---
 

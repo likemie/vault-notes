@@ -74,7 +74,7 @@ updated: '2026-07-22'
 ## 核心思想
 
 > [!claim] 核心主张
-> Schweisfurth 主张将 [[Learner-Centred Education|LCE]] 视为一种在不同文化语境中具有多重形态的[[Praxis|实践]]流变，而非单一固化的西方模板。她提出了包含尊重学生表达、[[Dialogue in Education|对话]]互动与批判思考在内的最低实施标准；同时指出高利害[[Test-Based Accountability|考试问责]]体制普遍构成 LCE 移植的最大障碍，呼吁实施语境敏感（context-sensitive）的教学改革。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 588, 601)]]
+> Schweisfurth 主张将 [[Learner-Centred Education|LCE]] 视为一种在不同文化语境中具有多重形态的实践流变，而非单一固化的西方模板。她提出了包含尊重学生表达、[[Dialogue in Education|对话]]互动与批判思考在内的最低实施标准；同时指出高利害[[Test-Based Accountability|考试问责]]体制普遍构成 LCE 移植的最大障碍，呼吁实施语境敏感（context-sensitive）的教学改革。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 588, 601)]]
 
 ---
 

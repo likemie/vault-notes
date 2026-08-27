@@ -60,7 +60,7 @@ updated: 2026-06-02
 ## 核心主张
 
 > [!tip]-
-> 儒家学习传统是贯穿中国（以及日本、韩国、越南等）历史的主导性学习传统。其核心主张是：**学习的根本目的不是认识或掌握外部世界，而是完善自我（[[Self-Cultivation|修身]]）**——一个人的自我才是认识、反思、[[Praxis|实践]]和完成的终身工程([[Argument_Li_2012_Cambridge|Li, 2012, pp.36-37]])。
+> 儒家学习传统是贯穿中国（以及日本、韩国、越南等）历史的主导性学习传统。其核心主张是：**学习的根本目的不是认识或掌握外部世界，而是完善自我（[[Self-Cultivation|修身]]）**——一个人的自我才是认识、反思、实践和完成的终身工程([[Argument_Li_2012_Cambridge|Li, 2012, pp.36-37]])。
 
 这一传统以[[Confucius|孔子]]（551–479 BCE）为起点，但他并非发明了这些核心价值——他继承了一个已存在数千年的文化，通过编订经典和讲学将其系统化和传承下来([[Argument_Li_2012_Cambridge|Li, 2012, p.36]])。
 
@@ -114,8 +114,8 @@ updated: 2026-06-02
 
 > [!info]
 > - **[[Ontology|本体论]]** 人性根植于社会关系之中——一个人不仅是 Jenny（或 David），更重要的是一个女儿、姐妹、妻子、母亲、姑姑、老师、同事等等([[Argument_Li_2012_Cambridge|Li, 2012, pp.37-38]])。自我不是孤立的权利个体，而是**承载角色的角色人（role-bearing person, Rosemont 语）**
-> - **[[Epistemology|认识论]]** 知与行不可分离——[[Wang Yangming|王阳明]]认为，一个人必须不懈地[[Praxis|实践]]自己所知道的，才能达成[[Sage|圣人]]境界（知行合一）([[Argument_Li_2012_Cambridge|Li, 2012, p.44]])。Ames and Rosemont 指出，[[Confucius|孔子]]的愿景不是简单地去理解、接受、修改或拒绝……相反，必须被感受、体验、实践和生活([[Argument_Li_2012_Cambridge|Li, 2012, p.38]])
-> - **目标的开放性** 学习过程是开放的、需要个人创造性的——因为每个人的实际生活境遇不同([[Argument_Li_2012_Cambridge|Li, 2012, p.41]])
+> - **[[Epistemology|认识论]]** 知与行不可分离——[[Wang Yangming|王阳明]]认为，一个人必须不懈地实践自己所知道的，才能达成[[Sage|圣人]]境界（知行合一）([[Argument_Li_2012_Cambridge|Li, 2012, p.44]])。Ames and Rosemont 指出，[[Confucius|孔子]]的愿景不是简单地去理解、接受、修改或拒绝……相反，必须被感受、体验、实践和生活([[Argument_Li_2012_Cambridge|Li, 2012, p.38]])
+> - **目标的开放性** 学习过程是开放的、需要个人[[Creativity|创造性]]的——因为每个人的实际生活境遇不同([[Argument_Li_2012_Cambridge|Li, 2012, p.41]])
 
 ---
 

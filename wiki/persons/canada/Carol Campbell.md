@@ -47,7 +47,7 @@ updated: '2026-06-08'
 > [!tip]- 核心思想
 > Campbell 的位置更适合先按主题理解：
 >
-> - **严格证据必须配合严格[[Professional Judgment|专业判断]]** 成为 evidence-informed 不只需要高质量研究，还需要教育者通过认真、可辩护的专业审议过程来整合证据；证据本身不足以直接指导[[Praxis|实践]]([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p.132]])。
+> - **严格证据必须配合严格[[Professional Judgment|专业判断]]** 成为 evidence-informed 不只需要高质量研究，还需要教育者通过认真、可辩护的专业审议过程来整合证据；证据本身不足以直接指导实践([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p.132]])。
 > - **[[Knowledge Mobilisation|知识动员]]不是单向传递** [[Research Utilization|研究使用]]被理解成“社会互动和迭代的共同创造过程”，关键不是把研究送到学校，而是研究者、决策者与实践者共同重组知识([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p.130]])。
 > - **系统支持条件同样重要** 如果没有组织支持、合作关系和能力建设，[[Evidence-Informed Practice|EIP]] 很难从少数教师的零散实践变成系统性的专业学习方式([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, pp.130–131]])。
 >
@@ -57,7 +57,7 @@ updated: '2026-06-08'
 
 > [!success] 主要贡献
 > - **安大略系统改革路径** — 把教育领导力、组织支持和证据使用放进同一框架，而不把[[Research Utilization|研究使用]]看成教师个人习惯问题。
-> - **KNAER [[Case Study|案例研究]]** — 提供系统层面 [[Knowledge Mobilisation]] 的案例，说明研究-[[Praxis|实践]]合作如何作为制度化机制运行([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, pp.130–131]])。
+> - **KNAER [[Case Study|案例研究]]** — 提供系统层面 [[Knowledge Mobilisation]] 的案例，说明研究-实践合作如何作为制度化机制运行([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, pp.130–131]])。
 > - **[[Evidence-Informed Practice|EIP]] 特刊整合工作** — 与 [[Julie Nelson]] 共同把 [[Evidence-Informed Practice]] 从术语争论推进成一个包含定义、应用与测量的清晰问题域。
 
 ## 影响
@@ -77,5 +77,5 @@ updated: '2026-06-08'
 
 > [!note]-
 > - 任多伦多大学安大略教育研究院教授，研究集中于教育领导力、系统改革和[[Research Utilization|研究使用]]。
-> - 参与并推动安大略省 KNAER 等系统层面的研究-[[Praxis|实践]]合作项目([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, pp.130–131]])。
+> - 参与并推动安大略省 KNAER 等系统层面的研究-实践合作项目([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, pp.130–131]])。
 > - **2017** 年与 [[Julie Nelson]] 共同编辑 [[Evidence-Informed Practice|EIP]] 特刊，将证据知情实践讨论系统化。

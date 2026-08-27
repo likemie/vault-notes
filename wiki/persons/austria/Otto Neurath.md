@@ -85,7 +85,7 @@ updated: 2026-07-10
 ## 核心思想
 
 > [!claim] 核心主张
-> 科学不应假装是[[Value Neutrality|价值无涉]]的（value-free），因为它在事实上并非如此。好的科学是将人从教条主义中解放出来的力量，但坏的科学可以变成它声称要取代的东西。承认科学不被价值无涉的原则所驱动，反而允许一种更加丰富但仍然[[Positivism|实证主义]]的科学哲学——不完全决定性（underdetermination）不是科学的弱点，而是其优点：它允许价值观在竞争理论之间发挥作用，从而使进步的社会行动成为可能。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, pp. 183–184)]]
+> 科学不应假装是[[Value Neutrality|价值无涉]]的（[[VALUE Rubrics|VALUE]]-free），因为它在事实上并非如此。好的科学是将人从教条主义中解放出来的力量，但坏的科学可以变成它声称要取代的东西。承认科学不被价值无涉的原则所驱动，反而允许一种更加丰富但仍然[[Positivism|实证主义]]的科学哲学——不完全决定性（underdetermination）不是科学的弱点，而是其优点：它允许价值观在竞争理论之间发挥作用，从而使进步的社会行动成为可能。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, pp. 183–184)]]
 
 > [!citation-card]- 纽拉特原则的核心意象
 > 我们就像在公海上必须重建船只的水手，永远无法从底部重新开始。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, p. 183)]]
@@ -98,7 +98,7 @@ updated: 2026-07-10
 
 > [!influence-path] 影响路径
 > - **理论路径** 纽拉特原则（整体论的反基础主义）通过蒯因进入分析哲学的主流，成为[[Postpositivism|后实证主义]]科学哲学的重要思想资源。纽拉特也被视为科学社会学和 [[Science and Technology Studies|STS]] 研究的先驱之一。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, pp. 183–184)]]
-> - **方法路径** 纽拉特的"[[Encyclopaedism|百科全书主义]]"（encyclopaedism）——一种反基础主义的、多学科的、非还原论的知识组织方式——影响了后来的跨学科研究方法论和知识可视化[[Praxis|实践]]。
+> - **方法路径** 纽拉特的"[[Encyclopaedism|百科全书主义]]"（encyclopaedism）——一种反基础主义的、多学科的、非还原论的知识组织方式——影响了后来的跨学科研究方法论和知识可视化实践。
 > - **政策路径** 纽拉特在维也纳时期的住房政策和社会主义经济规划工作，代表了将科学哲学直接转化为社会政策的早期尝试。
 > - **跨国／跨领域传播** 纽拉特的思想近年来经历了显著的复兴——Cartwright、Cat、Friedman、Richardson、Uebel、Zolo 等学者重新评估了他在逻辑[[Positivism|实证主义]]史中的位置。在教育领域，Matthews（2004）推动了逻辑实证主义在教育研究中的重新评价。
 
@@ -123,7 +123,7 @@ updated: 2026-07-10
 > >
 > > - **Howard（2002）** 认为纽拉特成功地在反基础主义和政治介入之间保持了实证主义的一致性。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, p. 183)]]
 >
-> > [!axis] 教学[[Praxis|实践]]中的适用性
+> > [!axis] 教学实践中的适用性
 > > 纽拉特哲学是否适合高中课堂？[[Argument_Zemplen_2007_SciEduc|Zemplén (2007)]]认为纽拉特的反基础主义是比波普尔式[[Falsification|证伪主义]]更好的 [[Theory of Knowledge|TOK]] 课程起点，但这依赖于教师对科学哲学史的相当深入的理解，在实际推广中可能面临师资培训的瓶颈。
 > >
 > > - **Zemplén** 认为纽拉特的反基础主义实证主义可以在课堂中通过具体的文本阅读和讨论（如"迷路者"比喻、不完全决定性游戏）来有效传达。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, pp. 183–184)]]

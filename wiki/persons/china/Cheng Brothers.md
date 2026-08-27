@@ -80,5 +80,5 @@ updated: '2026-06-08'
 ## 影响
 
 > [!success]
-- 二程的天理学说奠定了[[Neo-Confucianism|宋明理学]]的理论基础，影响了此后近千年东亚的教育思想与[[Praxis|实践]]([[Argument_Li_2012_Cambridge|Li, 2012, pp.43-45]])。
+- 二程的天理学说奠定了[[Neo-Confucianism|宋明理学]]的理论基础，影响了此后近千年东亚的教育思想与实践([[Argument_Li_2012_Cambridge|Li, 2012, pp.43-45]])。
 - 程朱学派主导了中国教育的内容与形式——四书五经成为[[Civil Service Examination|科举]]考试的核心内容，持续十三个世纪([[Argument_Li_2012_Cambridge|Li, 2012, p.47]])。

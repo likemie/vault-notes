@@ -68,5 +68,5 @@ updated: 2026-06-04
 > Uniform Guidance 在[[University-Industry Collaboration|产学合作]]协议谈判中制造了一个具体的制度摩擦点。企业习惯于商业承包商的报价方式——不透明但全成本回收（包括利润）——而大学的预算是"透明但有补贴"的：企业可以看到每位教授的确切工资，但也必须接受大学实际上在以机构资金补贴研究项目（因为 26% 的行政成本上限不可突破）。
 
 > [!note]-
-> 产业赞助的[[Clinical Trial|临床试验]]是这一规则的重要例外：许多临床站点成本按直接费用收取，间接成本费率低于典型的联邦费率，且临床成本按"[[Fair Market Value|公平市场价值]]"（Fair Market Value）确定（p.264）。
+> 产业赞助的[[Clinical Trial|临床试验]]是这一规则的重要例外：许多临床站点成本按直接费用收取，间接成本费率低于典型的联邦费率，且临床成本按"[[Fair Market Value|公平市场价值]]"（Fair Market [[VALUE Rubrics|VALUE]]）确定（p.264）。
 

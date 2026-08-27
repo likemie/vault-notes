@@ -83,7 +83,7 @@ updated: '2026-06-08'
 ## 主要著作
 
 > [!abstract]
-> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]，《金榜题名之后：大学生出路分化之谜》，上海三联书店。 — 基于 62 名中国两所顶尖大学毕业班学生的跟踪[[In-depth Interview|深度访谈]]，运用 Bourdieu 的[[Praxis|实践]]理论和 Swidler 的[[Culture as Toolkit|文化工具箱]]理论，提出[[Goal-Controlled Mode|目标掌控模式]]／[[Intuition-Dependent Mode|直觉依赖模式]]的类型学框架，揭示[[Cultural Barrier|文化障碍]]如何在精英大学中制造毕业出路的阶层分化。
+> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]，《金榜题名之后：大学生出路分化之谜》，上海三联书店。 — 基于 62 名中国两所顶尖大学毕业班学生的跟踪[[In-depth Interview|深度访谈]]，运用 Bourdieu 的实践理论和 Swidler 的[[Culture as Toolkit|文化工具箱]]理论，提出[[Goal-Controlled Mode|目标掌控模式]]／[[Intuition-Dependent Mode|直觉依赖模式]]的类型学框架，揭示[[Cultural Barrier|文化障碍]]如何在精英大学中制造毕业出路的阶层分化。
 
 ---
 
@@ -142,7 +142,7 @@ updated: '2026-06-08'
 
 > [!success]
 > - 在中国高等教育公平研究中，双模式类型学为分析大学生活经验的阶层差异提供了可操作的概念工具
-> - [[Goal-Controlled Mode]] 和 [[Intuition-Dependent Mode]] 概念已被用于解释精英大学中[[Cultural Capital|文化资本]]如何通过日常[[Praxis|实践]]转化为出路分化
+> - [[Goal-Controlled Mode]] 和 [[Intuition-Dependent Mode]] 概念已被用于解释精英大学中[[Cultural Capital|文化资本]]如何通过日常实践转化为出路分化
 > - [[Cultural Barrier]] 概念将 Bourdieu 的文化再生产理论从宏观制度层面延伸到微观的日常生活经验层面，丰富了对教育公平机制的理解
 > - 以[[Constructivist Grounded Theory]]在大规模访谈数据中的系统应用，为高等教育[[Qualitative Research|质性研究]]提供了方法论参照
 

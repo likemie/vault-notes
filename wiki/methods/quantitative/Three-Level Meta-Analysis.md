@@ -94,7 +94,7 @@ updated: 2026-08-25
 
 > [!method-stack] 方法层级
 > - **研究设计** [[Systematic Review|系统综述]]（Systematic Review）与量化证据综合设计。
-> - **数据收集** 基于电子数据库检索、PRISMA 流程筛选以及标准化[[Qualitative Codebook|编码手册]]提取相关系数、标准化均数差或回归系数。
+> - **数据收集** 基于电子数据库检索、[[PRISMA]] 流程筛选以及标准化[[Qualitative Codebook|编码手册]]提取相关系数、标准化均数差或回归系数。
 > - **分析方法** 多层随机效应建模、受限最大似然估计（REML）、多变量[[Meta-regression|元回归]]调节分析、逐一剔除敏感性分析。
 > - **辅助技术** [[Effect Size Conversion|效应量转换]]（如将回归系数 $\beta$ 转换为相关系数 $r$、Fisher\'s $z$ 变换）、三层 Egger 回归检验、标准化残差异常值诊断。
 

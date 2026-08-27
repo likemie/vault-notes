@@ -48,7 +48,7 @@ updated: '2026-06-08'
 
 > [!success] 主要贡献
 > - [[Neo-Piagetian Theories|neo-piagetian-theories]] — 技能理论将环境因素系统性地纳入认知发展阶段模型
-> - 其 Single Representations → Representational Mappings 阶段转变（约 4–5 岁）被 Bolton & Hattie (2017) 作为新[[Jean Piaget|皮亚杰]]阶段与 [[Executive Function|EF]] 变化铰链点吻合的证据([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.10]])
+> - 其 Single Representations → Representational Mappings 阶段转变（约 4–5 岁）被 Bolton & Hattie (2017) 作为新[[Jean Piaget|皮亚杰]]阶段与 EF 变化铰链点吻合的证据([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.10]])
 
 ## 思想发展与影响
 
