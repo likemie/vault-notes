@@ -12868,6 +12868,20 @@
     ]
   },
   {
+    "title": "Multiple-Choice Questions",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Multiple-Choice Questions.md",
+    "aliases": [
+      "多项选择题",
+      "客观选择题",
+      "选择反应题",
+      "MCQ",
+      "MCQs",
+      "Selected-Response Items",
+      "选择题"
+    ]
+  },
+  {
     "title": "Multitrait-Multimethod Matrix",
     "type": "method",
     "path": "wiki/methods/quantitative/Multitrait-Multimethod Matrix.md",
@@ -13458,6 +13472,18 @@
     ]
   },
   {
+    "title": "CALOHEE Assessment Reference Frameworks",
+    "type": "instrument",
+    "path": "wiki/instruments/rubric/CALOHEE Assessment Reference Frameworks.md",
+    "aliases": [
+      "CALOHEE Assessment Frameworks",
+      "CALOHEE Reference Frameworks",
+      "欧洲高等教育学习成果评价参照框架",
+      "欧洲高教学习成果评价参照框架",
+      "评价参照框架"
+    ]
+  },
+  {
     "title": "Consensual Assessment Technique",
     "type": "instrument",
     "path": "wiki/instruments/rubric/Consensual Assessment Technique.md",
@@ -13496,6 +13522,18 @@
       "MMAT",
       "混合方法评价工具",
       "混合方法鉴定工具"
+    ]
+  },
+  {
+    "title": "OECD Rubrics for Creativity and Critical Thinking",
+    "type": "instrument",
+    "path": "wiki/instruments/rubric/OECD Rubrics for Creativity and Critical Thinking.md",
+    "aliases": [
+      "创造力与批判性思维评价量规",
+      "经合组织高阶思维评价量规",
+      "OECD Rubrics",
+      "OECD CERI Rubrics",
+      "CERI Rubrics"
     ]
   },
   {
@@ -13782,6 +13820,17 @@
     "aliases": [
       "RAT",
       "远距离联想测验"
+    ]
+  },
+  {
+    "title": "Test of Teaching Knowledge",
+    "type": "instrument",
+    "path": "wiki/instruments/tests/Test of Teaching Knowledge.md",
+    "aliases": [
+      "TTK",
+      "教学知识测验",
+      "InTASC Test of Teaching Knowledge",
+      "全美教师教学知识测验"
     ]
   },
   {
@@ -16677,6 +16726,17 @@
     ]
   },
   {
+    "title": "Dublin Descriptors",
+    "type": "fact",
+    "path": "wiki/facts/europe/Dublin Descriptors.md",
+    "aliases": [
+      "都柏林描述符",
+      "欧洲高等教育区学位描述符",
+      "博洛尼亚都柏林描述符",
+      "Dublin Cycle Descriptors"
+    ]
+  },
+  {
     "title": "European Convention on the Equivalence of Diplomas Leading to Admission to Universities 1953",
     "type": "fact",
     "path": "wiki/facts/europe/European Convention on the Equivalence of Diplomas Leading to Admission to Universities 1953.md",
@@ -18559,6 +18619,18 @@
     "aliases": [
       "LIS Project",
       "本地创新系统项目"
+    ]
+  },
+  {
+    "title": "Measuring Quality Inventory",
+    "type": "fact",
+    "path": "wiki/facts/us/Measuring Quality Inventory.md",
+    "aliases": [
+      "高等教育质量测量工具清单",
+      "测量质量清单",
+      "高等教育质量评测工具库",
+      "MQI",
+      "NILOA Inventory"
     ]
   },
   {
