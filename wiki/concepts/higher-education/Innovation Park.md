@@ -72,7 +72,7 @@ updated: 2026-05-27
 > - 81% 提供生命科学类初创企业孵化器
 > - 68% 拥有或运营面向产业的创新或研究园区
 >
-> 创新园区相关设施是大学[[University-Industry Collaboration|产学参与]]策略中**采用率最高**的一类[[Praxis|实践]]。在五种组织模式中，经济发展/政府关系模式尤其侧重通过[[Innovation Hub|创新中心]]和商业园区推动产学合作（p.60）。
+> 创新园区相关设施是大学[[University-Industry Collaboration|产学参与]]策略中**采用率最高**的一类实践。在五种组织模式中，经济发展/政府关系模式尤其侧重通过[[Innovation Hub|创新中心]]和商业园区推动产学合作（p.60）。
 
 ## TUFF 实践框架
 
@@ -91,7 +91,7 @@ updated: 2026-05-27
 > 3. 学术与公共对研发的承诺 — 强大的研究项目是吸引企业入驻的基础
 > 4. 筹资与对外关系 — 成功的园区几乎总是精心规划和利益相关者参与的结果
 > 5. 区域合作 — 必须"基于本地"并利用区域独特的文化和地理特征
-> 6. 激活活动与[[Placemaking|场所营造]] — 在建筑"内"创造价值，而非创造建筑"的"价值（value "in" the building, not "of" the building）
+> 6. 激活活动与[[Placemaking|场所营造]] — 在建筑"内"创造价值，而非创造建筑"的"价值（[[VALUE Rubrics|VALUE]] "in" the building, not "of" the building）
 >
 > TUFF 的口号是"密度就是命运"（density is destiny）：不仅指物理邻近性，更指强力、灵活的场所营造项目推动的人际互动频率和质量（p.136）。
 

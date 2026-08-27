@@ -46,6 +46,7 @@ related_instruments:
   - "[[VALUE Rubrics]]"
 related_persons: []
 related_facts:
+  - "[[Council for Aid to Education]]"
   - "[[TECO Project]]"
 related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
@@ -63,7 +64,7 @@ updated: '2026-08-27'
 
 > [!instrument-profile] Collegiate Learning Assessment（CLA / CLA+）
 > - **工具类型** 标准化表现性评估与[[Cognitive Ability Test KFT|认知能力测验]]（Standardized Performance-Based Assessment）。
-> - **开发者与年份** 美国援助教育理事会（Council for Aid to Education, CAE; Benjamin et al., 2000; 2013 年升级为 CLA+）。
+> - **开发者与年份** [[Council for Aid to Education|美国援助教育理事会]]（Council for Aid to Education, CAE; Benjamin et al., 2000; 2013 年升级为 CLA+）。
 > - **测量目的** 测量高等教育阶段学生的[[Critical Thinking|批判性思维]]、分析推理、问题解决与书面沟通等[[Higher-Order Thinking Skills|高阶思维技能]]，评估院校增值效应（[[VALUE Rubrics|VALUE]]-Added）与[[Learning Gain|学习增益]]。
 > - **实施方式** 计算机在线施测（总计 90 分钟），结合基于真实文档库的开放式表现任务与情境化选答题。
 

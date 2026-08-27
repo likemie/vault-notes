@@ -22,7 +22,6 @@ related_concepts:
   - "[[Student Learning Research]]"
   - "[[University-Industry Collaboration]]"
   - "[[Student Engagement]]"
-  - "[[Praxis]]"
   - "[[Homework]]"
   - "[[Analytic Framework]]"
   - "[[Social Engagement]]"
@@ -76,7 +75,7 @@ updated: 2026-05-27
 ### 定义
 
 > [!info]
-> 学业投入（Academic Engagement）是[[Student Engagement|学生投入]]理论的两大核心维度之一，指学生向大学中与学术相关的教育性[[Praxis|实践]]活动投入的时间和精力——包括上课、完成[[Homework|作业]]、与教师讨论学术问题、遵守学术规范要求等（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）。在[[Yajun Zheng|郑雅君]]（2023）的"大学过程"[[Analytic Framework|分析框架]]中，学业投入与[[Social Engagement|社会性投入]]并列构成"投入过程"的两大分析轴。
+> 学业投入（Academic Engagement）是[[Student Engagement|学生投入]]理论的两大核心维度之一，指学生向大学中与学术相关的教育性实践活动投入的时间和精力——包括上课、完成[[Homework|作业]]、与教师讨论学术问题、遵守学术规范要求等（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）。在[[Yajun Zheng|郑雅君]]（2023）的"大学过程"[[Analytic Framework|分析框架]]中，学业投入与[[Social Engagement|社会性投入]]并列构成"投入过程"的两大分析轴。
 
 > [!quote]
 > "学业投入（academic integration/engagement）与社会性投入（social integration/engagement）一般被认为是学生的投入中促进自身发展的两个最重要方面"([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
@@ -166,7 +165,7 @@ updated: 2026-05-27
 
 ### 企业侧的组织对应：学术参与团队
 
-学术参与在企业侧的组织对应物是[[Academic Engagement Team|学术参与团队]]（Academic Engagement Team, AET）——企业内部以预算责任负责领导和管理大学合作的组织单位。[[Argument_Ramming_2025_CorporateSupport|Ramming (2025, pp.217–218)]]区分了[[Praxis|实践]]者（拥有预算和项目执行责任的 AET 成员）与利益相关者（合作的受益方，如业务部门负责人和技术领袖）：AET 作为组织叠加层嵌入公司现有结构，实践者必须同时理解大学和公司两套运作逻辑，才能在矩阵式、高度分权的环境中有效推动合作([[Argument_Ramming_2025_CorporateSupport|Ramming, 2025, pp.222–223]])。
+学术参与在企业侧的组织对应物是[[Academic Engagement Team|学术参与团队]]（Academic Engagement Team, AET）——企业内部以预算责任负责领导和管理大学合作的组织单位。[[Argument_Ramming_2025_CorporateSupport|Ramming (2025, pp.217–218)]]区分了实践者（拥有预算和项目执行责任的 AET 成员）与利益相关者（合作的受益方，如业务部门负责人和技术领袖）：AET 作为组织叠加层嵌入公司现有结构，实践者必须同时理解大学和公司两套运作逻辑，才能在矩阵式、高度分权的环境中有效推动合作([[Argument_Ramming_2025_CorporateSupport|Ramming, 2025, pp.222–223]])。
 
 AET 的资助结构（中央化运营预算、企业基金会、业务部门分布式预算、按职能分配、按技术领域分配）决定了产学合作在企业内部关注什么、忽略什么——这一企业侧的组织视角补充了 Perkmann 等人对大学侧学术参与低组织嵌入性的分析([[Argument_Ramming_2025_CorporateSupport|Ramming, 2025, pp.228–229]])。
 

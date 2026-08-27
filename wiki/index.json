@@ -17194,6 +17194,17 @@
     ]
   },
   {
+    "title": "Higher Education Authority",
+    "type": "fact",
+    "path": "wiki/facts/ireland/Higher Education Authority.md",
+    "aliases": [
+      "HEA",
+      "爱尔兰高等教育局",
+      "爱尔兰高教局",
+      "An tÚdarás um Ard-Oideachas"
+    ]
+  },
+  {
     "title": "Irish Survey of Student Engagement",
     "type": "fact",
     "path": "wiki/facts/ireland/Irish Survey of Student Engagement.md",
@@ -17261,6 +17272,16 @@
       "东京湾区",
       "产业湾区",
       "京滨工业区"
+    ]
+  },
+  {
+    "title": "Centro Nacional de Evaluación para la Educación Superior",
+    "type": "fact",
+    "path": "wiki/facts/mexico/Centro Nacional de Evaluación para la Educación Superior.md",
+    "aliases": [
+      "CENEVAL",
+      "墨西哥国家高等教育评估中心",
+      "墨西哥高等教育评估中心"
     ]
   },
   {
@@ -17498,6 +17519,17 @@
     "aliases": [
       "明日学校改革",
       "Tomorrow's Schools"
+    ]
+  },
+  {
+    "title": "Norwegian Agency for Quality Assurance in Education",
+    "type": "fact",
+    "path": "wiki/facts/norway/Norwegian Agency for Quality Assurance in Education.md",
+    "aliases": [
+      "NOKUT",
+      "挪威教育质量保障局",
+      "挪威教育质量保证局",
+      "Nasjonalt organ for kvalitet i utdanningen"
     ]
   },
   {
@@ -17838,6 +17870,16 @@
       "EEF",
       "教育捐赠基金会",
       "Education Endowment Foundation (EEF)"
+    ]
+  },
+  {
+    "title": "Higher Education Funding Council for England",
+    "type": "fact",
+    "path": "wiki/facts/uk/Higher Education Funding Council for England.md",
+    "aliases": [
+      "HEFCE",
+      "英格兰高等教育拨款委员会",
+      "英国高教拨款委员会"
     ]
   },
   {
@@ -18834,6 +18876,26 @@
       "何者有效清算中心",
       "有效干预清算中心",
       "WWC"
+    ]
+  },
+  {
+    "title": "Council for Aid to Education",
+    "type": "fact",
+    "path": "wiki/facts/us/Council for Aid to Education.md",
+    "aliases": [
+      "CAE",
+      "美国援助教育理事会",
+      "援助教育理事会"
+    ]
+  },
+  {
+    "title": "Educational Testing Service",
+    "type": "fact",
+    "path": "wiki/facts/us/Educational Testing Service.md",
+    "aliases": [
+      "ETS",
+      "美国教育考试服务中心",
+      "教育考试服务中心"
     ]
   },
   {

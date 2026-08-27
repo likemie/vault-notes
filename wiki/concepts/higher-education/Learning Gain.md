@@ -44,6 +44,7 @@ related_instruments:
   - "[[ETS Proficiency Profile]]"
 related_persons: []
 related_facts:
+  - "[[Higher Education Funding Council for England]]"
   - "[[Graduate Outcomes Survey]]"
   - "[[Irish Survey of Student Engagement]]"
   - "[[Studiebarometeret]]"

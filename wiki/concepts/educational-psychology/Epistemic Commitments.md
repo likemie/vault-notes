@@ -13,7 +13,6 @@ related_color: "#e5e7eb"
 tags: []
 related_concepts:
   - "[[Epistemology]]"
-  - "[[Praxis]]"
   - "[[Questionnaire]]"
   - "[[Epistemic Cognition]]"
   - "[[Justificatory Standards]]"
@@ -38,7 +37,7 @@ updated: 2026-08-18
 ## 定义
 
 > [!def] 核心定义
-> [[Epistemology|认识论]]承诺（Epistemic Commitments）指学习者在知识获取和评估过程中遵循的隐性倾向或规则。这些承诺往往是默会的（tacit），学习者可能无法用语言清晰表达，但却能在其具体的探究[[Praxis|实践]]中被稳定观察到。[[Argument_Chinn_2011_EP|(Chinn et al., 2011, p. 146)]]
+> [[Epistemology|认识论]]承诺（Epistemic Commitments）指学习者在知识获取和评估过程中遵循的隐性倾向或规则。这些承诺往往是默会的（tacit），学习者可能无法用语言清晰表达，但却能在其具体的探究实践中被稳定观察到。[[Argument_Chinn_2011_EP|(Chinn et al., 2011, p. 146)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 行动中体现的认识论预设，而非口头陈述的信念。

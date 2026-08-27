@@ -17,7 +17,6 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Epistemological Beliefs]]"
   - "[[Internal Consistency]]"
-  - "[[Praxis]]"
   - "[[Document]]"
   - "[[Construct Validity]]"
   - "[[Disciplina and Doctrina]]"
@@ -62,7 +61,7 @@ updated: 2026-08-19
 > - **非实证标准（Nonevidential Standards）**指与直接感官证据无关的理论美学与逻辑要求，如[[Internal Consistency|内部一致性]]、简洁性（simplicity）、优雅性以及对未来研究的启发性（fruitfulness）。
 
 ### 情境主义视角：社会协商与领域实践
-> [!claim] Sandoval (2016) 的情境[[Praxis|实践]]维度
+> [!claim] Sandoval (2016) 的情境实践维度
 > 确证标准不是孤立存在的静态属性，而是高度依赖特定“颗粒度（grain size）”和情境需求（situational demands）的产物：
 > - **动态切换性**即便是同一个体面对相同领域的文本，也会随任务目标剧烈切换确证标准（如历史学家在考证历史[[Document|文献]]时依赖严谨的“交叉印证标准”，但在阅读宗教文本时可能瞬间切换到“宗教情感标准”）。
 > - **社会协商性（Socially Negotiated）**在真实课堂或科学共同体中，什么是“好的确证标准”是在互动的话语流中被群体协商确立的。它体现了共同体内部的权力关系与学科文化规范。
@@ -86,4 +85,4 @@ updated: 2026-08-19
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Chinn_2011_EP|Chinn et al. (2011)]] — 提出必须在微观层面测量学生的确证标准。粗放地询问学生“是否相信权威”无法预测行为，必须考察其信任权威背后的底层确证标准（是因为权威看起来聪明，还是因为权威的方法学质量高）。
-> - [[Argument_Sandoval_2016_RRE|Sandoval et al. (2016)]] — 将确证标准从个体认知资源扩展为群体协商的社会[[Praxis|实践]]属性，并尖锐指出特定领域的职业确证标准在日常公民生活中面临迁移的断层危机。
+> - [[Argument_Sandoval_2016_RRE|Sandoval et al. (2016)]] — 将确证标准从个体认知资源扩展为群体协商的社会实践属性，并尖锐指出特定领域的职业确证标准在日常公民生活中面临迁移的断层危机。

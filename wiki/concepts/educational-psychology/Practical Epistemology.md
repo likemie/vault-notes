@@ -10,7 +10,6 @@ related_stars: "⭐"
 related_color: "#bfdbfe"
 tags: [theme/epistemology, theme/inquiry, paradigm/constructivism]
 related_concepts:
-  - "[[Praxis]]"
   - "[[Epistemology]]"
   - "[[Formal Epistemology]]"
   - "[[Epistemological Beliefs]]"
@@ -39,7 +38,7 @@ updated: 2026-08-19
 ## 定义
 
 > [!def] 核心定义
-> [[Praxis|实践]][[Epistemology|认识论]]（Practical Epistemology）指学生在学校科学探究过程中，实际应用于自身科学知识建构的认识论观念。这些观念指导着他们在探究中作出的认识论决策，例如如何获取数据、如何根据证据评估主张等。实践认识论与学生对专业科学表达的[[Formal Epistemology|形式认识论]]（Formal Epistemology）不同，它更多是在实践中隐含并发挥作用的。[[Argument_Sandoval_2005_SE|(Sandoval, 2005, p. 635)]]
+> 实践[[Epistemology|认识论]]（Practical Epistemology）指学生在学校科学探究过程中，实际应用于自身科学知识建构的认识论观念。这些观念指导着他们在探究中作出的认识论决策，例如如何获取数据、如何根据证据评估主张等。实践认识论与学生对专业科学表达的[[Formal Epistemology|形式认识论]]（Formal Epistemology）不同，它更多是在实践中隐含并发挥作用的。[[Argument_Sandoval_2005_SE|(Sandoval, 2005, p. 635)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 学生在自己进行科学探究（如实验设计、数据收集、论证构建）时所持有的关于知识生成和评估的观念。
@@ -55,7 +54,7 @@ updated: 2026-08-19
 ## 核心表现与特征
 
 > [!feature] 核心要素
-> - **隐性与[[Praxis|实践]]性** 实践[[Epistemology|认识论]]通常是隐性的（tacit），不一定能被学生用语言清晰表达，而是通过他们在科学探究（如实验操作、论证构建）中的认识论决策反映出来。[[Argument_Sandoval_2005_SE|(Sandoval, 2005, p. 648)]]
+> - **隐性与实践性** 实践[[Epistemology|认识论]]通常是隐性的（tacit），不一定能被学生用语言清晰表达，而是通过他们在科学探究（如实验操作、论证构建）中的认识论决策反映出来。[[Argument_Sandoval_2005_SE|(Sandoval, 2005, p. 648)]]
 > - **情境依赖** 实践认识论往往不是一个连贯统一的信念框架，而是一组在不同探究情境下被触发的细粒度认知资源（resources），具有碎片化和不稳定特征。
 > - **指导探究行为** 观念直接影响学生的行为表现。例如，具有“动态/建构性”观念的学生往往能更系统地寻找数据、提出并论证因果主张；而持有“知识是既定事实”观念的学生则倾向于只做表面记忆或盲目尝试。[[Argument_Sandoval_2005_SE|(Sandoval, 2005, p. 649)]]
 
@@ -63,7 +62,7 @@ updated: 2026-08-19
 
 ## 学术争议与前沿探讨
 
-关于学生[[Praxis|实践]][[Epistemological Beliefs|认识论信念]]的发展与本质，学界存在激烈的[[Ontology|本体论]]争论。
+关于学生实践[[Epistemological Beliefs|认识论信念]]的发展与本质，学界存在激烈的[[Ontology|本体论]]争论。
 
 > [!debates] 学术争议
 >

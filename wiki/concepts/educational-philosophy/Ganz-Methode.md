@@ -17,13 +17,13 @@ tags:
 - region/global
 - level/higher-ed
 related_concepts:
-  - "[[Praxis]]"
   - "[[Tense Society]]"
   - "[[Life Power]]"
   - "[[Ecomuseology]]"
   - "[[Epistemology]]"
   - "[[Operationalization]]"
   - "[[Whole Sustainability]]"
+  - "[[Creativity]]"
   - "[[Epistemology of Resistance]]"
   - "[[Social Museology]]"
   - "[[Knowledge Production]]"
@@ -41,7 +41,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-11'
-updated: 2026-07-08
+updated: '2026-08-27'
 ---
 
 # Ganz-Methode
@@ -49,7 +49,7 @@ updated: 2026-07-08
 ## 定义
 
 > [!info]
-> Ganz-Methode（整体方法，Whole Approach）是 [[Dell Delambre]] 基于 [[Creative Tension of Sense]] 理论开发的[[Praxis|实践]]方法论，旨在帮助个体、组织和社区在 [[Tense Society|张力社会]] 中承载意义张力并做出整体决策。Ganz（德语"整体"）指对所有相关张力的同时识别和连接——但不等于"整全"（holistic），因为整体永远处于运动变化之中([[Argument_Delambre_2022_Springer|Delambre, 2022, p.112]])。
+> Ganz-Methode（整体方法，Whole Approach）是 [[Dell Delambre]] 基于 [[Creative Tension of Sense]] 理论开发的实践方法论，旨在帮助个体、组织和社区在 [[Tense Society|张力社会]] 中承载意义张力并做出整体决策。Ganz（德语"整体"）指对所有相关张力的同时识别和连接——但不等于"整全"（holistic），因为整体永远处于运动变化之中([[Argument_Delambre_2022_Springer|Delambre, 2022, p.112]])。
 >
 > Ganz-Methode 包含两个核心步骤：（1）承载张力以构建运动中的整体进路；（2）通过整体进路发现 [[Life Power|生命力量]] 和生命意义价值([[Argument_Delambre_2022_Springer|Delambre, 2022, p.107–108, 112–113]])。其理论前提详见 [[Creative Tension of Sense#核心命题]]。
 >
@@ -64,7 +64,7 @@ updated: 2026-07-08
 ## 概念演变
 
 > [!note]-
-> - 2013–2020 年，Delambre 在里约热内卢六个领域（个体发展、[[Ecomuseology|生态博物馆]]和剧场、商业、学校、制度、可持续发展）的案例[[Praxis|实践]]中逐步发展出该方法。期间与剧场导演 [[Richard Castelo Branco]]（EspectAtor 方法创始人）和演员 [[Camilla de Hollanda Amado]] 等人合作开展社区文化项目([[Argument_Delambre_2022_Springer|Delambre, 2022, p.107, 109–110]])
+> - 2013–2020 年，Delambre 在里约热内卢六个领域（个体发展、[[Ecomuseology|生态博物馆]]和剧场、商业、学校、制度、可持续发展）的案例实践中逐步发展出该方法。期间与剧场导演 [[Richard Castelo Branco]]（EspectAtor 方法创始人）和演员 [[Camilla de Hollanda Amado]] 等人合作开展社区文化项目([[Argument_Delambre_2022_Springer|Delambre, 2022, p.107, 109–110]])
 > - Ganz-Methode 随后被整合进 WTS Coaching 项目——WTS 代表 Whole-Transdisciplinary Sustainability（整体-跨学科可持续性），是该方法的教练实践版本([[Argument_Delambre_2022_Springer|Delambre, 2022, p.107]])
 > - 2022 年随张力理论在 *Geopolitical Transformations in Higher Education* 论文集中首次系统发表([[Argument_Delambre_2022_Springer|Delambre, 2022]])
 
@@ -79,23 +79,23 @@ updated: 2026-07-08
 ## 理论基础
 
 > [!tip]-
-> - [[Creative Tension of Sense]] — Ganz-Methode 是该理论的[[Praxis|实践]]维度。[[Epistemology|认识论]]与方法是双向互构的：张力认识论依赖于 Ganz-Methode 的整体进路，而整体进路取决于张力认识论的意义张力概念([[Argument_Delambre_2022_Springer|Delambre, 2022, p.117]])
+> - [[Creative Tension of Sense]] — Ganz-Methode 是该理论的实践维度。[[Epistemology|认识论]]与方法是双向互构的：张力认识论依赖于 Ganz-Methode 的整体进路，而整体进路取决于张力认识论的意义张力概念([[Argument_Delambre_2022_Springer|Delambre, 2022, p.117]])
 
 ## 实证发现
 
 > [!success]
-> 该方法的实证基础为 Delambre 2013–2020 年在里约热内卢开展的多案例[[Praxis|实践]]，但论文未报告系统的实证评估数据([[Argument_Delambre_2022_Springer|Delambre, 2022, p.107]])。
+> 该方法的实证基础为 Delambre 2013–2020 年在里约热内卢开展的多案例实践，但论文未报告系统的实证评估数据([[Argument_Delambre_2022_Springer|Delambre, 2022, p.107]])。
 
 ## 争议与批评
 
 > [!warning]
 > - 方法的两步法描述仍然停留在原则层面，缺乏可复制的方法论细节——例如"承载张力"的具体操作程序、时间框架、评估标准等均未明确
-> - 方法的有效性仅基于作者个人的[[Praxis|实践]]经验和案例叙述，缺乏独立评估和比较研究
+> - 方法的有效性仅基于作者个人的实践经验和案例叙述，缺乏独立评估和比较研究
 
 ## 相关案例／政策
 
 > [!example]
-> - **WTS Coaching** — Delambre 开发的教练项目，将 Ganz-Methode [[Operationalization|操作化]]。在教练[[Praxis|实践]]中，三重模型构成"整体商业"（whole business）：（1）个体和集体在局部社区中的[[Life Power|生命力量]]商业（happiness businesses within [[Whole Sustainability]]）；（2）数字转型的技术资源；（3）在指数级张力和张力[[Epistemology|认识论]]的时代中，三者形成"智慧经济"（wisdom economy）——个体和组织利用局部知识和智慧开发创造性解决方案，为快乐、健康和幸福创造条件([[Argument_Delambre_2022_Springer|Delambre, 2022, p.107, 117–120]])
+> - **WTS Coaching** — Delambre 开发的教练项目，将 Ganz-Methode [[Operationalization|操作化]]。在教练实践中，三重模型构成"整体商业"（whole business）：（1）个体和集体在局部社区中的[[Life Power|生命力量]]商业（happiness businesses within [[Whole Sustainability]]）；（2）数字转型的技术资源；（3）在指数级张力和张力[[Epistemology|认识论]]的时代中，三者形成"智慧经济"（wisdom economy）——个体和组织利用局部知识和智慧开发[[Creativity|创造性]]解决方案，为快乐、健康和幸福创造条件([[Argument_Delambre_2022_Springer|Delambre, 2022, p.107, 117–120]])
 > - **Rocinha 贫民窟剧场项目（Bando Cultural Favelados da Rocinha）**— 里约热内卢案例，导演 [[Richard Castelo Branco]] 以自创 EspectAtor 方法（一种 [[Epistemology of Resistance|抵抗认识论]]）指导戏剧创作，居民讲述自身暴力创伤故事。Delambre 与巴西女演员 [[Camilla de Hollanda Amado]]（1941–2021）共同创立"Bora Bora em Bando"项目为这一文化团体争取社会可见度([[Argument_Delambre_2022_Springer|Delambre, 2022, p.109–110]])
 > - **巴西[[Social Museology|社会博物馆学]]（social museology）**和[[Ecomuseology|生态博物馆学]]（ecomuseology）实践 — 以居民自身为主角，自己选择展品、讲述故事、保护记忆，抵抗霸权系统对地方历史的抹除。口述性（orality）被视为[[Knowledge Production|知识生产]]和智慧传播的核心方式，与非洲和拉丁美洲的伟大传统一脉相承([[Argument_Delambre_2022_Springer|Delambre, 2022, p.110]])
 

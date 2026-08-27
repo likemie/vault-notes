@@ -17,7 +17,8 @@ related_concepts:
   - "[[Theoretical Knowledge]]"
 related_theories: []
 related_methods: []
-related_instruments: []
+related_instruments:
+  - "[[VALUE Rubrics]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -35,7 +36,7 @@ updated: 2026-08-20
 ## 定义
 
 > [!def] 核心定义
-> [[Epistemology|认识论]]价值（Epistemic Value）是特定的认识成就（epistemic achievements），如理论推导、实用技巧、深层理解等，对个体的价值、意义或重要性。[[Argument_Chinn_2011_EP|(Chinn et al., 2011, p. 142)]]
+> [[Epistemology|认识论]]价值（Epistemic [[VALUE Rubrics|VALUE]]）是特定的认识成就（epistemic achievements），如理论推导、实用技巧、深层理解等，对个体的价值、意义或重要性。[[Argument_Chinn_2011_EP|(Chinn et al., 2011, p. 142)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 判断某种知识或认知成果是否值得追求。

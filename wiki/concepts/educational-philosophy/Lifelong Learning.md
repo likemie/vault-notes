@@ -22,7 +22,6 @@ related_concepts:
   - "[[Cognitive Shifting]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Employability]]"
-  - "[[Praxis]]"
   - "[[Policy Borrowing]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Learner Autonomy]]"
@@ -38,6 +37,7 @@ related_concepts:
   - "[[Informal Science Learning]]"
   - "[[Dialogue in Education]]"
   - "[[Science Capital]]"
+  - "[[Praxis]]"
   - "[[Document]]"
   - "[[Variable]]"
   - "[[Questionnaire]]"
@@ -79,7 +79,7 @@ updated: 2026-08-23
 > - **边界** 终身学习不应被窄化为纯粹服务劳动力市场[[Employability|就业能力]]的职业培训，亦不应演变为将国家公共教育保障责任推卸给个体的借口，而是必须依托普惠均等的公共社会与文化基础设施予以制度化支撑。
 
 > [!boundary]- 概念边界
-> - 不等于正规学校教育：正规教育仅是终身学习的奠基起点，终身学习涵盖大量校外非正式、非结构化与兴趣驱动的探索[[Praxis|实践]]。
+> - 不等于正规学校教育：正规教育仅是终身学习的奠基起点，终身学习涵盖大量校外非正式、非结构化与兴趣驱动的探索实践。
 > - 不等于传统成人扫盲或补习教育：它并非对学校教育失败的事后查漏补缺，而是贯穿全生命周期的常态化素养累积与自主更新机制。
 
 ---
@@ -97,7 +97,7 @@ updated: 2026-08-23
 
 ## 核心理论维度与实践支柱
 
-> [!dimension] 终身学习的三重理论维度与[[Praxis|实践]]支柱
+> [!dimension] 终身学习的三重理论维度与实践支柱
 > - **1. 人本主义与全人发展维度（Humanistic & Personal Development）**
 >   将学习视为个体探索未知世界、丰富精神生活与提升生命福祉的内在需求。通过非正式探究、艺术科技体验与闲暇阅读，激发持久好奇心与[[Critical Thinking|批判性思维]]，促进身心健康与认知多样性包容。
 > - **2. 人力资本与经济适应维度（Human Capital & Economic Adaptability）**
@@ -170,7 +170,7 @@ updated: 2026-08-23
 > > - **新自由主义政策话语** 将学习责任单向转嫁给个人，宣称失业是由于个人未能积极终身学习所致。
 > > - **社会批判学者与皇家学会建议四** 强调国家必须设立法定专项资金，将科普场馆与成人技能重塑确立为公共财政保障的社会基础设施。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026b, p. 52)]]
 
-> [!critique] 外部批评与[[Praxis|实践]]落差
+> [!critique] 外部批评与实践落差
 > - **修辞盛宴与资源贫瘠的断层** 各国官方文件高调宣示终身学习愿景，但公共财政中用于成人非正规教育和校外科技场馆的经费屡遭削减。
 > - **[[Science Capital|科学资本]]自选与阶层固化壁垒** 高端终身学习项目常被高社会经济地位人群垄断，欠发达地区与低技能群体因时间贫困与经济门槛面临实质性排斥。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026b, p. 48)]]
 

@@ -43,6 +43,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Descriptive Analysis]]"
   - "[[Dependent Variable]]"
+  - "[[Engagement in and with Research]]"
   - "[[Heterogeneity]]"
   - "[[Questionnaire]]"
   - "[[Causality]]"
@@ -61,6 +62,8 @@ related_facts:
   - "[[No Child Left Behind Act 2001]]"
   - "[[OECD]]"
   - "[[National Education]]"
+related_theories:
+  - "[[Theory of Planned Behavior]]"
 status: draft
 created: 2026-08-26
 updated: 2026-08-26
@@ -83,7 +86,7 @@ journal: "SAGE Open"
 ## 研究问题
 
 > [!question]
-> 尽管国际政策（如美国《每一个学生成功法案》（Every Student Succeeds Act, ESSA）、《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》（No Child Left Behind Act, [[No Child Left Behind Act 2001|NCLB]]））与专业组织（[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, [[OECD]]）、英国教育研究学会与英国皇家艺术学会（[[BERA-RSA Inquiry into the Role of Research in Teacher Education|BERA-RSA]]））持续强调[[Evidence-Based Education|循证教育]]与以研究为基础的教学实践，但在土耳其等许多国家的现实教育情境中，教师参与科研与运用科研的程度普遍极低（如 Kazancı-Tınmaz, 2020 调查显示 82% 的教师从未开展过任何研究且不检索[[Document|文献]]；土耳其国民教育部（Ministry of [[National Education]], MoNE）公布的 65 项教师专业能力指标中仅有 3 项涉及科研）。更严峻的是，既有教师[[Research Literacy|研究素养]]测量工具普遍存在理论根基薄弱、缺乏严格信效度检验（Lawlor et al., 2019 系统综述指出仅 27.77% 的研究利用工具报告了信度证据，仅 38.8% 报告了效度证据）、且割裂了[[Engagement in and with Research|开展研究与使用研究]]的系统联系。本研究旨在基于[[Theory of Planned Behavior|计划行为理论]]（Theory of Planned Behavior, TPB）与[[Research Utilization|研究利用]]模型，开发并验证一套具有坚实心理测量学特质的[[Research Literacy Scale for Teachers|教师研究素养量表]]（Research Literacy Scale for Teachers, RLS），并实证检验教师的研究素养水平及其受学术期刊阅读和科研参与经验的影响机制。（pp.1–4）
+> 尽管国际政策（如美国《每一个学生成功法案》（Every Student Succeeds Act, ESSA）、《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》（No Child Left Behind Act, [[No Child Left Behind Act 2001|NCLB]]））与专业组织（[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, [[OECD]]）、英国教育研究学会与英国皇家艺术学会（BERA-RSA））持续强调[[Evidence-Based Education|循证教育]]与以研究为基础的教学实践，但在土耳其等许多国家的现实教育情境中，教师参与科研与运用科研的程度普遍极低（如 Kazancı-Tınmaz, 2020 调查显示 82% 的教师从未开展过任何研究且不检索[[Document|文献]]；土耳其国民教育部（Ministry of [[National Education]], MoNE）公布的 65 项教师专业能力指标中仅有 3 项涉及科研）。更严峻的是，既有教师[[Research Literacy|研究素养]]测量工具普遍存在理论根基薄弱、缺乏严格信效度检验（Lawlor et al., 2019 系统综述指出仅 27.77% 的研究利用工具报告了信度证据，仅 38.8% 报告了效度证据）、且割裂了开展研究与使用研究的系统联系。本研究旨在基于[[Theory of Planned Behavior|计划行为理论]]（Theory of Planned Behavior, TPB）与[[Research Utilization|研究利用]]模型，开发并验证一套具有坚实心理测量学特质的[[Research Literacy Scale for Teachers|教师研究素养量表]]（Research Literacy Scale for Teachers, RLS），并实证检验教师的研究素养水平及其受学术期刊阅读和科研参与经验的影响机制。（pp.1–4）
 
 > [!claim] 核心主张
 > 教师研究素养是一个由研究意识、研究态度、研究技能与研究使用构成的四维度二阶结构；其中研究技能作为知觉行为控制[[Variable|变量]]贡献了高达 46.90% 的绝大部分方差解释力，构成态度转化为使用行为的核心控制枢纽；实际从事科研与定期追踪学术期刊能显著打破高态度认同与低实践转化的断层，对教师素养各维度产生独立的显著赋能效应。（pp.6–15）
@@ -100,7 +103,7 @@ journal: "SAGE Open"
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **[[Theory of Planned Behavior|计划行为理论]]**<br>Theory of Planned Behavior (TPB) | 整合 Ajzen (1991, 2005) 理论，将研究意识界定为背景认知变量，研究态度界定为意向驱动变量，研究技能界定为知觉行为控制（Perceived Behavioral Control, PBC），研究使用界定为外显目标行为，构建起“意识背景 $\rightarrow$ 态度意向 $\rightarrow$ 技能知觉控制 $\rightarrow$ 实践使用”的行为演化全景链条。（pp.3–4） |
+> | **[[Theory of Planned Behavior\|计划行为理论]]**<br>Theory of Planned Behavior (TPB) | 整合 Ajzen (1991, 2005) 理论，将研究意识界定为背景认知变量，研究态度界定为意向驱动变量，研究技能界定为知觉行为控制（Perceived Behavioral Control, PBC），研究使用界定为外显目标行为，构建起“意识背景 $\rightarrow$ 态度意向 $\rightarrow$ 技能知觉控制 $\rightarrow$ 实践使用”的行为演化全景链条。（pp.3–4） |
 > | **研究利用模型**<br>Research Utilization Models | 借鉴 Weiss (1979) 的经典分类（问题解决模型、启蒙模型与战术模型）以及 Pelz (1978)、Beyer & Trice (1982) 的概念性、工具性与[[Conceptual, Instrumental, and Symbolic Use of Research\|象征性使用]]框架，将[[Research Utilization\|研究使用]][[Operationalization\|操作化]]为备课设计、教学法优化、解决课堂问题及专业[[Dialogue in Education\|对话]]等多维实践。 |
 > | **多元素养整合模型**<br>Subtypes of Research Literacy | 整合 Beaudry & Miller (2016) 与 Jemsy (2018) 的素养细分，将信息与技术检索素养、语言讨论素养、视觉图表素养与数理统计素养统整纳入研究技能维度。（pp.4–5） |
 
@@ -201,7 +204,7 @@ journal: "SAGE Open"
 > | | B4 | 0.465 | 0.444 | 4.29 | 0.65 | 对教育科研领域的前沿动态保持敏锐关注 |
 
 > [!warrant]- 推理桥梁
-> 技能因子解释了近半数方差，这与计划行为理论中知觉行为控制作为核心促发[[Variable|变量]]的设定完全吻合；各题项在所属因子上的高载荷与零跨载荷证实了量表具备优良的[[Face Validity|表面效度]]与初步[[Construct Validity|构念效度]]。（pp.6–7）
+> 技能因子解释了近半数方差，这与[[Theory of Planned Behavior|计划行为理论]]中知觉行为控制作为核心促发[[Variable|变量]]的设定完全吻合；各题项在所属因子上的高载荷与零跨载荷证实了量表具备优良的[[Face Validity|表面效度]]与初步[[Construct Validity|构念效度]]。（pp.6–7）
 
 ---
 
@@ -376,10 +379,10 @@ journal: "SAGE Open"
 > [!citation-card]- 教师[[Research Literacy|研究素养]]的统整定义
 > 研究素养可以定义为：具备研究意识，积极参与科研活动与研究[[Document|文献]]，坚信科学研究的重要性与有用性（即持有积极态度），掌握检索、阅读与开展研究的充分技能，并在专业教学实践中运用科研成果。（p.14）
 >
-> *According to our results, it is possible to define RL as "having awareness of research, engagement in and with research, belief in the importance and usefulness of research, in other words a positive attitude towards scientific research, having sufficient skills in accessing, reading, and conducting research, and using research in professional practice."*
+> *According to our results, it is possible to define RL as "having awareness of research, [[Engagement in and with Research]], belief in the importance and usefulness of research, in other words a positive attitude towards scientific research, having sufficient skills in accessing, reading, and conducting research, and using research in professional practice."*
 
 > [!citation-card]- 技能作为知觉控制的核心地位
-> 研究技能维度的方差在所有因子中最高。这一发现支持了计划行为理论中将知觉行为控制作为直接解释行为的[[Variable|变量]]的设定。（p.14）
+> 研究技能维度的方差在所有因子中最高。这一发现支持了[[Theory of Planned Behavior|计划行为理论]]中将知觉行为控制作为直接解释行为的[[Variable|变量]]的设定。（p.14）
 >
 > *On the other hand, the variance of the research skill is the highest among the factors. This finding supports the consideration of perceived behavioral control as a variable that directly explains behavior in TPB.*
 

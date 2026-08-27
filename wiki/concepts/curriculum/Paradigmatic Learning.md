@@ -19,7 +19,6 @@ related_concepts:
   - "[[International Baccalaureate]]"
   - "[[General Education]]"
   - "[[Encyclopaedism]]"
-  - "[[Praxis]]"
   - "[[Areas of Knowledge]]"
 related_theories: []
 related_methods: []
@@ -137,7 +136,7 @@ updated: 2026-08-22
 > 范例学习要求教师改变完成课程的判断标准，也要求考试停止奖励知识清单的完整复现。结构改革若没有进入备课和评价，旧课程逻辑会继续运行。
 
 > [!claim] Becker
-> **教师接受决定改革能否进入[[Praxis|实践]]** 德国教育委员会围绕高中课程先后形成十四版建议，最终由教育部长据此向各州提出核心与选项结构。Becker 后来发现，教师虽知道全面覆盖已经不可能，仍按照仿佛全部知识可以掌握的方式备课，也没有接受主动留下空白。正式制度已经改变，课堂仍维持百科全书式规划，范例学习因而没有真正实施。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 44–45)]]
+> **教师接受决定改革能否进入实践** 德国教育委员会围绕高中课程先后形成十四版建议，最终由教育部长据此向各州提出核心与选项结构。Becker 后来发现，教师虽知道全面覆盖已经不可能，仍按照仿佛全部知识可以掌握的方式备课，也没有接受主动留下空白。正式制度已经改变，课堂仍维持百科全书式规划，范例学习因而没有真正实施。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 44–45)]]
 
 ### 命题总览
 
@@ -158,7 +157,7 @@ updated: 2026-08-22
 > - **1968 — 六门多样学科的深度学习** 让·卡佩勒主张，与其浏览十余个[[Areas of Knowledge|知识领域]]，不如深入学习约六门性质不同的学科，让学生形成自己的头脑。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, p. 43)]]
 > - **1960 年代后期 — 进入[[International Baccalaureate|国际文凭]]课程设计** Becker 的建议被转化为国际文凭（International Baccalaureate，IB）学科大纲中的概略共同核心和多个深度选项。六学科负责通识分布，单科范例负责学习深度。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 43–45)]]
 > - **1970 年代 — 德国核心与选项建议经历十四版修订** Becker 参与德国教育委员会的建议起草，第十四版获得通过；教育部长随后据此向各州提出高中阶段的核心与选项结构。正式政策开始接近范例课程的制度形态。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 44–45)]]
-> - **1979 — 德国改革实施反思** Becker 指出，教师即使承认知识爆炸使百科全书教育不可能，仍会依照固定知识全集备课。主动留下空白没有进入课堂判断，结构改革因而没有转化为教学[[Praxis|实践]]。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 44–45)]]
+> - **1979 — 德国改革实施反思** Becker 指出，教师即使承认知识爆炸使百科全书教育不可能，仍会依照固定知识全集备课。主动留下空白没有进入课堂判断，结构改革因而没有转化为教学实践。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 44–45)]]
 
 ---
 

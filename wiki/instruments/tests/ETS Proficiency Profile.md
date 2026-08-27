@@ -37,6 +37,7 @@ related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Educational Testing Service]]"
   - "[[Voluntary System of Accountability]]"
   - "[[OECD]]"
 related_arguments:
@@ -53,7 +54,7 @@ updated: 2026-08-27
 
 ## 工具定位
 
-> [!instrument-profile] ETS Proficiency Profile（EPP / 原 MAPP）
+> [!instrument-profile] [[Educational Testing Service|ETS]] Proficiency Profile（EPP / 原 MAPP）
 > - **工具类型** 标准化通识[[21st Century Skills and Competencies Discourse|核心素养]]测评（Standardized [[General Education]] Assessment）。
 > - **开发者与年份** 美国教育考试服务中心（Educational Testing Service, ETS, 2010，前身为 MAPP）。
 > - **测量目的** 评估高校通识教育课程质量与学生核心认知能力，作为[[Voluntary System of Accountability|美国自愿问责体系]]（VSA）核心推荐工具，测量大一入学到毕业的纵向[[Learning Gain|学习增益]]。
@@ -103,4 +104,4 @@ updated: 2026-08-27
 > | 版本 | 语言与地区 | 目标人群 | 题项数 | 主要变化 | 来源 |
 > |---|---|---|---|---|---|
 > | MAPP 原始版 | 英语（美国） | 本科生各年级 | 108 题 / 36 题 | 确立通识四领域与[[Critical Thinking\|批判性思维]]分量表结构 | ETS (2006) |
-> | EPP 修订版 | 英语（全球） | 大学生与成人 | 108 题 / 36 题 | 更名为 ETS Proficiency Profile，更新题库与在线自适应测评平台 | ETS (2010) |
+> | EPP 修订版 | 英语（全球） | 大学生与成人 | 108 题 / 36 题 | 更名为 [[Educational Testing Service\|ETS]] Proficiency Profile，更新题库与在线自适应测评平台 | ETS (2010) |

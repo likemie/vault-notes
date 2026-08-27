@@ -32,6 +32,7 @@ related_concepts:
   - "[[Re-Westernisation]]"
   - "[[Orientalism]]"
   - "[[Analytic Framework]]"
+  - "[[Concept Mapping]]"
   - "[[Realism in International Relations]]"
   - "[[Revolutionism]]"
   - "[[Government to Governance Shift]]"
@@ -257,7 +258,7 @@ updated: 2026-07-13
 > - **2002 — [[Cross-National Attraction|跨国吸引力]]结构类型学** Ochs & Phillips 提出跨国吸引力的结构类型学，系统归纳了六类政策焦点与 13 种情境因子。([[Argument_Rappleye_2006_RCIE|Ochs & Phillips, 2002, 引自 Rappleye, 2006, pp. 225–226]])
 > - **2003 — [[Externalization|外化]]话语概念提出** Schriewer 提出教育系统通过“外部化”将国内问题投射到“国际趋势”或“传统”话语中的过滤与合法化机制。([[Argument_Rappleye_2006_RCIE|Schriewer, 2003, 引自 Rappleye, 2006, pp. 230–232]])
 > - **2003–2004 — 四阶段循环模型系统化** Phillips & Ochs 整合推出跨国吸引力、决策、实施、[[Going Native|本土化]]的四阶段循环生命周期模型。([[Argument_Rappleye_2006_RCIE|Phillips & Ochs, 2003, 引自 Rappleye, 2006, p. 225]])
-> - **2006 — 跨国吸引力情境地图** Rappleye 提出推拉力情境概念地图，理清了[[Pre-Transfer Agency|前转移能动性]]与多层次结构因素的作用机制。([[Argument_Rappleye_2006_RCIE|Rappleye, 2006]])
+> - **2006 — 跨国吸引力情境地图** Rappleye 提出推拉力情境[[Concept Mapping|概念地图]]，理清了[[Pre-Transfer Agency|前转移能动性]]与多层次结构因素的作用机制。([[Argument_Rappleye_2006_RCIE|Rappleye, 2006]])
 > - **2009 — 形态变异理论主张** Cowen 建立“转移—[[Transfer Translation Transformation|转译]]—变形”链条，论证政策元素在跨国流动中由于微观权力的介入必然发生形态变异。([[Argument_Cowen_2009_CE|Cowen, 2009]])
 > - **2012 — 政治借用与实质学习的系统区隔** Steiner-Khamsi 系统界定“政治借用”（选择性、仪式性）与“实质学习”（开放、交流性）的分野。
 > - **2023 — 怀特三大传统地缘解构** Klerides 将[[Wight's Three Traditions of International Theory|国际关系三大传统]]（[[Realism in International Relations|现实主义]]、[[Rationalism in International Relations|理性主义]]和[[Revolutionism|革命主义]]）引入政策借用研究，将政策借用与地缘政治焦虑深度绑定，完成了概念的批判性地缘政治学转向。([[Argument_Klerides_2023_CE|Klerides, 2023]])
@@ -298,7 +299,7 @@ updated: 2026-07-13
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Yan_2025_JCS|Yan & Morris (2025)]] — 追踪香港通识科创立与废除的完整生命周期，展现了政策借用框架的高压政治语境失效边界条件。
-> - [[Argument_Rappleye_2006_RCIE|Rappleye (2006)]] — 提出[[Cross-National Attraction|跨国吸引力]]情境概念地图，剖析[[Pre-Transfer Agency|前转移能动性]]与吸引力动机。
+> - [[Argument_Rappleye_2006_RCIE|Rappleye (2006)]] — 提出[[Cross-National Attraction|跨国吸引力]]情境[[Concept Mapping|概念地图]]，剖析[[Pre-Transfer Agency|前转移能动性]]与吸引力动机。
 > - [[Argument_Cowen_2009_CE|Cowen (2009)]] — 阐述教育转移、[[Transfer Translation Transformation|转译]]与形态变异（reforms morph as they move）的分析视角与变异阶段。
 > - [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] — 详细呈现了 [[Visible Learning]] 进入俄罗斯教育界后，遭遇方法论、文化和制度冲突并建议拒绝的完整分析过程。
 > - [[Argument_Amos_2022_Springer|Amos (2022)]] — 剖析[[Michael Sadler|迈克尔·萨德勒]]和迈克尔·考恩的学术遗产，说明政策借用如何随着现代性转型从偶发外交变成常规合法化手段。

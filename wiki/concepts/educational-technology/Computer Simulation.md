@@ -25,7 +25,6 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[School Effectiveness]]"
   - "[[Construct Validity]]"
-  - "[[Praxis]]"
   - "[[Interaction Effect]]"
 related_theories:
   - "[[Complexity Theory]]"
@@ -165,7 +164,7 @@ Gilbert & Troitzsch（2005, p. 6）指出计算机模拟的三个主要目的（
 
 > [!critique-logic] 逻辑与概念层面的批评
 > - **解释是回溯性的** 模拟中的[[Complexity Theory|复杂性理论]]可以解释多样化、可变的结果（如[[School Effectiveness|学校效能]]研究），但未必能帮助干预以促进改进（Morrison, 2002a）。
-> - **如何确定初始条件** 输入模拟的关键初始条件如何确定（[[Construct Validity|构念效度]]），以及如何从中导出[[Praxis|实践]]处方？
+> - **如何确定初始条件** 输入模拟的关键初始条件如何确定（[[Construct Validity|构念效度]]），以及如何从中导出实践处方？
 > - **系统仅是同一公式的反复迭代** 这在多大程度上是可以接受的？
 > - **过程过于确定性** 模拟仅[[Hypothesis|假设]]初始条件的[[Interaction Effect|交互作用]]，忽略了过程中引入的额外因素（尽管存在学习型计算机模拟）。
 

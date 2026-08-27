@@ -47,7 +47,7 @@ updated: 2026-08-25
 ## 定义
 
 > [!def] 核心定义
-> 论证图（Argument Mapping）是指依据非形式逻辑与论辩推论语法（如 Toulmin 论证模型的六要素：主张 Claim、证据 Data/Evidence、保证 Warrant、支撑 Backing、反驳 Rebuttal 与限定 Qualifier），将复杂文本或思维中的论证结构、前提[[Hypothesis|假设]]与[[Chain of Evidence|证据链]]条进行双向或多层空间树状可视化的认知支架与教学工具。与自由发散的思维导图（Mind Map）和多向语义交叉的概念图（Concept Map）不同，论证图的核心特征在于其严格的逻辑推导约束与说服性论证链条表征。[[Argument_Lei_Ding_Chiu_2026_ERR|(Lei et al., 2026, pp. 4, 9–10)]]
+> 论证图（Argument Mapping）是指依据非形式逻辑与论辩推论语法（如 Toulmin 论证模型的六要素：主张 Claim、证据 Data/Evidence、保证 Warrant、支撑 Backing、反驳 Rebuttal 与限定 Qualifier），将复杂文本或思维中的论证结构、前提[[Hypothesis|假设]]与[[Chain of Evidence|证据链]]条进行双向或多层空间树状可视化的认知支架与教学工具。与自由发散的[[Mind Mapping|思维导图]]（Mind Map）和多向语义交叉的[[Concept Mapping|概念图]]（Concept Map）不同，论证图的核心特征在于其严格的逻辑推导约束与说服性论证链条表征。[[Argument_Lei_Ding_Chiu_2026_ERR|(Lei et al., 2026, pp. 4, 9–10)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 将抽象隐蔽的论辩逻辑与反驳结构转化为清晰可见的空间树状拓扑图。
@@ -63,7 +63,7 @@ updated: 2026-08-25
 
 ## 概念辨析
 
-> [!contrast-table] 论证图 vs 思维导图 vs 概念图
+> [!contrast-table] 论证图 vs [[Mind Mapping|思维导图]] vs [[Concept Mapping|概念图]]
 > | 比较维度 | 论证图（Argument Mapping） | 思维导图（Mind Mapping） | 概念图（Concept Mapping） |
 > |---|---|---|---|
 > | **拓扑结构** | **树状逻辑链**（自顶向下主张—理由—证据） | **放射状多级分支**（单中心核心词） | **复杂多向网络**（多节点双向交叉连接） |
@@ -106,10 +106,10 @@ flowchart TD
 ### 命题一　论证图在结构化写作与批判性论辩中效能优异且认知开销适中
 
 > [!concept-lens] 逻辑严密性与认知门槛的权衡
-> 论证图通过显式[[Externalization|外化]]论据与反驳链条有效指引推论方向，其促进效能显著优于结构过于冗余的概念图。
+> 论证图通过显式[[Externalization|外化]]论据与反驳链条有效指引推论方向，其促进效能显著优于结构过于冗余的[[Concept Mapping|概念图]]。
 
 > [!claim] Davies; van Gelder; Lei, Ding & Chiu
-> **[[Graphic Organizer|图形组织器]]形态级差命题** 在针对[[Higher-Order Thinking Skills|高阶思维]]培养的[[Meta-analysis|元分析]]中，论证图表现出强效的显著促进作用（$g = 0.798$），显著优于概念图（$g = 0.548, W = 13.98, p < .001$），但略低于思维导图（$g = 1.041, W = 11.23, p < .001$）。这一效能级差表明：论证图所提供的逻辑语法既有效避免了概念图多向交叉网状连接所带来的认知超载与视觉拥挤，又提供了比思维导图更严密的推理约束，因而在科学论辩与批判性写作教学中具有独特的育人价值。[[Argument_Lei_Ding_Chiu_2026_ERR|(Lei et al., 2026, pp. 4, 9–11)]]
+> **[[Graphic Organizer|图形组织器]]形态级差命题** 在针对[[Higher-Order Thinking Skills|高阶思维]]培养的[[Meta-analysis|元分析]]中，论证图表现出强效的显著促进作用（$g = 0.798$），显著优于概念图（$g = 0.548, W = 13.98, p < .001$），但略低于[[Mind Mapping|思维导图]]（$g = 1.041, W = 11.23, p < .001$）。这一效能级差表明：论证图所提供的逻辑语法既有效避免了概念图多向交叉网状连接所带来的认知超载与视觉拥挤，又提供了比思维导图更严密的推理约束，因而在科学论辩与批判性写作教学中具有独特的育人价值。[[Argument_Lei_Ding_Chiu_2026_ERR|(Lei et al., 2026, pp. 4, 9–11)]]
 
 ---
 
@@ -127,4 +127,4 @@ flowchart TD
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] 系统对比了论证图（$g = 0.798$）、思维导图（$g = 1.041$）与概念图（$g = 0.548$）对[[Higher-Order Thinking Skills|高阶思维]]的促学效能级差。
+> - [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] 系统对比了论证图（$g = 0.798$）、[[Mind Mapping|思维导图]]（$g = 1.041$）与[[Concept Mapping|概念图]]（$g = 0.548$）对[[Higher-Order Thinking Skills|高阶思维]]的促学效能级差。

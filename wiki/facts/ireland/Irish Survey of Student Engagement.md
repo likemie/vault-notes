@@ -33,7 +33,8 @@ related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Higher Education Authority]]"
 related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
 confidence: high
@@ -49,7 +50,7 @@ updated: 2026-08-27
 ## 背景
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 2013 年由爱尔兰高等教育局（Higher Education Authority, HEA）联合爱尔兰大学协会（IUA）与爱尔兰学生联盟（USI）共同设立。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 16)]]
+> - **发布时间 / 发布主体** 2013 年由[[Higher Education Authority|爱尔兰高等教育局]]（Higher Education Authority, HEA）联合爱尔兰大学协会（IUA）与爱尔兰学生联盟（USI）共同设立。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 16)]]
 > - **适用地区 / 对象** 爱尔兰全境所有公立大学、理工学院与技术大学的一年级本科生、毕业班本科生及授课型硕士生。
 > - **问题背景** 爱尔兰《国家高等教育战略2030》（Hunt Report）强调以学生为中心的卓越教学，需要科学工具系统测量学生的[[Surface and Deep Learning|深层学习]]投入。
 > - **制度位置** 爱尔兰高等教育国家战略质量监测与院校绩效契约审核的重要数据支撑。

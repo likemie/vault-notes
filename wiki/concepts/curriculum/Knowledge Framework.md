@@ -21,7 +21,6 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Domain Analysis]]"
   - "[[Research Scope]]"
-  - "[[Praxis]]"
   - "[[Critical Thinking]]"
   - "[[Ways of Knowing]]"
   - "[[Knowledge Questions]]"
@@ -55,7 +54,7 @@ updated: 2026-08-04
 > [!concept-lens] 概念透镜
 > - **含义** 知识框架把一个知识领域拆解为[[Research Scope|研究范围]]、概念语言、方法、历史与认知者关系等相互关联的部分。
 > - **用途** 它为跨领域比较提供稳定的问题结构，帮助学生分析知识如何形成、获得正当化并随历史变化。
-> - **分析对象** 框架考察选定的知识领域及其知识[[Praxis|实践]]，知识领域本身仍是课程分类单位。
+> - **分析对象** 框架考察选定的知识领域及其知识实践，知识领域本身仍是课程分类单位。
 > - **边界** 五个维度提供比较路径，其作用限于组织领域分析，不能直接决定某个知识主张是否可靠，也不能覆盖完整的[[Critical Thinking|批判性思维]]技能分类。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 36, 41–43)]]
 
 > [!boundary]- 概念边界

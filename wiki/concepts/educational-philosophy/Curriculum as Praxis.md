@@ -49,7 +49,7 @@ updated: 2026-08-03
 ## 定义
 
 > [!def] 核心定义
-> **作为[[Praxis|实践]]的课程（Curriculum as Praxis）**由雪莉·葛兰蒂（Shirley Grundy, 1987）结合保罗·[[Paulo Freire|弗莱雷]]的解放教育学正式提出 (Grundy, 1987; [[Argument_Darwish_2009_Queens|Darwish, 2009, pp. 68–71]])。该[[Paradigm|范式]]是[[Curriculum as Process|作为过程的课程]]的批判性深化：它主张行动不仅要由[[Phronesis|实践明智]]所指导，更必须具备**对政治解放的显性承诺（commitment to emancipation）**。课程的核心目标是引导师生在共同探究中觉醒批判意识，并采取实质性变革行动（[[Praxis|Praxis]]）解构不公正的社会结构。
+> **作为实践的课程（Curriculum as [[Praxis]]）**由雪莉·葛兰蒂（Shirley Grundy, 1987）结合保罗·[[Paulo Freire|弗莱雷]]的解放教育学正式提出 (Grundy, 1987; [[Argument_Darwish_2009_Queens|Darwish, 2009, pp. 68–71]])。该[[Paradigm|范式]]是[[Curriculum as Process|作为过程的课程]]的批判性深化：它主张行动不仅要由[[Phronesis|实践明智]]所指导，更必须具备**对政治解放的显性承诺（commitment to emancipation）**。课程的核心目标是引导师生在共同探究中觉醒批判意识，并采取实质性变革行动（[[Praxis|Praxis]]）解构不公正的社会结构。
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向以[[Conscientization|批判意识觉醒]]、政治解放承诺与变革社会行动为归宿的批判课程范式。
@@ -82,7 +82,7 @@ updated: 2026-08-03
 
 > [!feature] 核心要素
 > - **解放政治承诺（Commitment to Emancipation）** 明确将消除社会不公与[[Dehumanization|非人性化]]作为课程使命。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 68)]]
-> - **集体[[Praxis|实践]]行动（Collective Praxis Action）** 探究必须延伸至课堂之外的社区与社会变革实践。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 70)]]
+> - **集体实践行动（Collective [[Praxis]] Action）** 探究必须延伸至课堂之外的社区与社会变革实践。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 70)]]
 > - **文化协商（Cultural Negotiation）** 课程内容由师生在横向[[Dialogue in Education|对话]]中共同协商构建。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 69)]]
 
 > [!logic-map]- 要素关系
@@ -103,7 +103,7 @@ updated: 2026-08-03
 ### 命题一　作为实践的课程是真正实现解放教育与打破沉默文化的唯一课程范式
 
 > [!concept-lens] 课程解放维度
-> 探讨[[Praxis|实践]][[Paradigm|范式]]如何通过要求改变压迫结构的行动，防止教育退化为无用的口头学术游戏。
+> 探讨实践[[Paradigm|范式]]如何通过要求改变压迫结构的行动，防止教育退化为无用的口头学术游戏。
 
 > [!claim] Grundy, S.
 > **实践范式的解放承诺** 葛兰蒂与达维什断言，唯有当课程超越纯粹的过程探讨、做出显性的解放承诺并要求变革实践时，[[Active Learning|主动学习]]才能获得终极的伦理与政治意义。[[Argument_Darwish_2009_Queens|(Grundy, 1987, p. 102; Darwish, 2009, pp. 68–71, p. 81)]]
@@ -122,7 +122,7 @@ updated: 2026-08-03
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1987 — 理论构建** 雪莉·葛兰蒂出版《课程：产品、过程与[[Praxis|实践]]》，确立实践[[Paradigm|范式]]。[[Argument_Darwish_2009_Queens|(Grundy, 1987)]]
+> - **1987 — 理论构建** 雪莉·葛兰蒂出版《课程：产品、过程与实践》，确立实践[[Paradigm|范式]]。[[Argument_Darwish_2009_Queens|(Grundy, 1987)]]
 > - **2009 — [[Theory of Knowledge|TOK]] 缺陷批判** 达维什在学位论文第 5 章中使用实践范式指出了 IB TOK 课程“有过程无实践”的致命缺陷。[[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 78–81)]]
 
 ---
@@ -137,4 +137,4 @@ updated: 2026-08-03
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 结合[[Paulo Freire|弗莱雷]]与葛兰蒂理论，批评 [[Theory of Knowledge|TOK]] 课程止于过程而缺乏[[Praxis|实践]][[Paradigm|范式]]。
+> - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 结合[[Paulo Freire|弗莱雷]]与葛兰蒂理论，批评 [[Theory of Knowledge|TOK]] 课程止于过程而缺乏实践[[Paradigm|范式]]。

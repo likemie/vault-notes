@@ -10,9 +10,9 @@ subtype: policy
 region: australia
 fact_region: "australia"
 fact_kind: "policy"
-fact_related_count: 4
+fact_related_count: 5
 fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_stars: ""
 fact_related_color: "#dbeafe"
 issuing_organization: "澳大利亚教育、就业、培训与青年事务部长级理事会（MCEETYA）"
 tags:

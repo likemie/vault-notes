@@ -26,7 +26,6 @@ related_concepts:
   - "[[Selectivity]]"
   - "[[Knowledge Production]]"
   - "[[Hegemony]]"
-  - "[[Praxis]]"
   - "[[One Country, Two Systems]]"
   - "[[Varieties of Capitalism]]"
   - "[[Policy Borrowing]]"
@@ -38,6 +37,8 @@ related_facts: []
 related_arguments:
   - "[[Argument_Yu_2024_CE]]"
   - "[[Argument_Xu_2024_CE]]"
+related_instruments:
+  - "[[VALUE Rubrics]]"
 confidence: high
 status: active
 created: '2026-05-21'
@@ -61,7 +62,7 @@ updated: '2026-07-22'
 > [!citation-card]- 关键表述
 > 学校课程并非[[Value Neutrality|价值中立]]，而是官方知识——即特定群体的知识被选择性地合法化，这一选择过程本身就是政治性的。[[Argument_Yu_2024_CE|(Apple, 2000, 引自 Yu & Zhao, 2024, p. 59)]]
 >
-> *“Schools are not value-neutral, but are 'official knowledge' – the selective legitimation of particular groups' knowledge, a process that is itself political.”*
+> *“Schools are not [[VALUE Rubrics|VALUE]]-neutral, but are 'official knowledge' – the selective legitimation of particular groups' knowledge, a process that is itself political.”*
 
 > [!boundary]- 概念边界
 > - **不等于 隐性课程（Hidden Curriculum）** — 隐性课程侧重非正式的规范、服从态度与阶层习惯再生产；官方知识侧重显性教学大纲、标准教材与法定考核内容的政治合法化。
@@ -109,7 +110,7 @@ updated: '2026-07-22'
 > 探讨学校课程如何通过选择性合法化主流传统，将特定群体的文化价值观升格为国家常识，进而再生产不平等的[[Cultural Hierarchy|文化等级]]。
 
 > [!claim] Michael Apple (1993/2000) & [[Argument_Yu_2024_CE|Yu & Zhao (2024)]]
-> **课程选择的政治性与文化等级再生产** 学校课程并非中性的自然知识积累，而是国家与支配群体将特定阶层与主流文化传统的知识选择性地合法化为正统的政治过程。在教育[[Praxis|实践]]中，官方知识通过将主导群体的价值观制度化为值得传授的常识，造成边缘化非主流群体与少数民族文化的文化等级再生产。例如在必修教材中，儒家传统常被塑造为中华文化的核心等价物，而少数民族文化则被边缘化呈现。[[Argument_Yu_2024_CE|(Yu & Zhao, 2024, pp. 59, 67–68)]]
+> **课程选择的政治性与文化等级再生产** 学校课程并非中性的自然知识积累，而是国家与支配群体将特定阶层与主流文化传统的知识选择性地合法化为正统的政治过程。在教育实践中，官方知识通过将主导群体的价值观制度化为值得传授的常识，造成边缘化非主流群体与少数民族文化的文化等级再生产。例如在必修教材中，儒家传统常被塑造为中华文化的核心等价物，而少数民族文化则被边缘化呈现。[[Argument_Yu_2024_CE|(Yu & Zhao, 2024, pp. 59, 67–68)]]
 
 ---
 
@@ -152,7 +153,7 @@ updated: '2026-07-22'
 > > - **去中心化市场审查模式（[[Argument_Xu_2024_CE|Xu, 2024]]）** — 依靠民间出版自由竞争与政府柔性审核，但容易受商业利益与历史保守主义妥协的影响。
 
 > [!critique] 外部批评
-> - **忽略抵制与再解释（Agency Deficit）** — 结构主义批评指出，过分强调官方知识的统治霸权容易忽视教师在课堂[[Praxis|实践]]中的微观再解释，以及学生作为主体对官方话语的疏离或抵制。
+> - **忽略抵制与再解释（Agency Deficit）** — 结构主义批评指出，过分强调官方知识的统治霸权容易忽视教师在课堂实践中的微观再解释，以及学生作为主体对官方话语的疏离或抵制。
 > - **过度政治化风险** — [[Social Realism|社会实在论]]学者（如 [[Michael Young]]）批评批判课程论将所有学科知识均简化为“统治权力的政治工具”，忽略了知识本身所具有的客观结构与认知赋权价值。
 
 > [!warning] 适用局限

@@ -68,7 +68,7 @@ updated: 2026-08-20
 
 **前景 IP 的权利转让**。产业方自动获得大学拥有的[[Foreground IP|前景知识产权]]（Foreground IP, FIP）的非排他、免版税（Non-Exclusive Royalty-Free, NERF）内部使用许可，企业可以制造和使用但不可对外销售。协议同时包含有时间限制的选择期（通常 6 个月），企业可在此期间通知大学其希望协商含版税的商业许可。如果企业未在 6 个月内行使选择权，或双方未能在后续 3 个月内达成许可协议，大学可自由将 FIP 许可给任何其他方（pp.281–282）。
 
-**背景 IP 的处理**。SRA 中[[Background IP|背景知识产权]]（Background IP, BIP）条款是谈判的焦点。产业方通常希望获得大学控制的 BIP 的免费或低成本访问权以保证[[Freedom to Operate|自由实施权]]（Freedom to Operate, FTO）。大学则倾向于将 BIP 权利与 SRA 解耦。[[Praxis|实践]]中通过时间限制、空间限制（合作首席研究员（Principal Investigator, PI）实验室）、必要性限制和排除已被束缚 IP 的组合策略寻找中间地带（pp.280–281）。
+**背景 IP 的处理**。SRA 中[[Background IP|背景知识产权]]（Background IP, BIP）条款是谈判的焦点。产业方通常希望获得大学控制的 BIP 的免费或低成本访问权以保证[[Freedom to Operate|自由实施权]]（Freedom to Operate, FTO）。大学则倾向于将 BIP 权利与 SRA 解耦。实践中通过时间限制、空间限制（合作首席研究员（Principal Investigator, PI）实验室）、必要性限制和排除已被束缚 IP 的组合策略寻找中间地带（pp.280–281）。
 
 **发表延迟机制**。大学保留随时发表研究结果的权利，但在提交发表前将稿件提供给企业方审查（最好提前 30 天）。企业有 30 天时间识别保密信息和可专利发明。如果发现可专利主题，大学同意尽合理努力提交专利申请，但无义务为配合专利申请而修订或延迟发表（pp.283–284）。
 

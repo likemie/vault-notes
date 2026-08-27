@@ -60,7 +60,7 @@ updated: 2026-08-03
 
 > [!boundary]- 概念边界
 > - 不等于 [[Curriculum as Product|作为产物的课程]] — 产物模式强调预设行为目标与标准化测量。
-> - 不等于 [[Curriculum as Praxis|作为实践的课程]] — 过程模式关注课堂内的理解与审议，但未明确承诺指向解构社会压迫的政治[[Praxis|实践]]（Praxis）。
+> - 不等于 [[Curriculum as Praxis|作为实践的课程]] — 过程模式关注课堂内的理解与审议，但未明确承诺指向解构社会压迫的政治实践（[[Praxis]]）。
 
 ---
 
@@ -99,7 +99,7 @@ updated: 2026-08-03
 
 ### 命题一　过程范式通过实践明智与探究原则保障了知识的内在价值与主体自由
 
-> [!concept-lens] 探究自由与[[Praxis|实践]]审议维度
+> [!concept-lens] 探究自由与实践审议维度
 > 探讨过程模式如何消除预设控制，恢复教育作为人文学艺与理智审议的本质。
 
 > [!claim] Stenhouse, L.
@@ -120,7 +120,7 @@ updated: 2026-08-03
 
 > [!dev-timeline] 概念演变
 > - **1975 — 过程模式提出** 斯滕豪斯在《课程研究与开发引论》中创立过程模式。[[Argument_Darwish_2009_Queens|(Stenhouse, 1975)]]
-> - **1987 — 理论归类** 格伦迪将过程模式归结为基于[[Aristotle|亚里士多德]] *[[Phronesis]]* 的[[Praxis|实践]]利益[[Paradigm|范式]]。[[Argument_Darwish_2009_Queens|(Grundy, 1987)]]
+> - **1987 — 理论归类** 格伦迪将过程模式归结为基于[[Aristotle|亚里士多德]] *[[Phronesis]]* 的实践利益[[Paradigm|范式]]。[[Argument_Darwish_2009_Queens|(Grundy, 1987)]]
 > - **2009 — [[Theory of Knowledge|TOK]] 定位评价** 达维什将 IB TOK 课程成功定位为卓越的“作为过程的课程”。[[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 72–78)]]
 
 ---

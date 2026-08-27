@@ -46,7 +46,6 @@ related_concepts:
   - "[[Research Scope]]"
   - "[[Statistical Significance]]"
   - "[[Sample Size Determination]]"
-  - "[[Praxis]]"
   - "[[International Education]]"
   - "[[Professional Judgment]]"
   - "[[Criterion-Referenced Test]]"
@@ -73,13 +72,15 @@ related_persons:
   - "[[Baruch Spinoza]]"
 related_facts:
   - "[[International School of Geneva]]"
+  - "[[United World Colleges]]"
+  - "[[Educational Testing Service]]"
 related_arguments: []
 sources:
   - "[[books/Peterson_1987_OpenCourt/Peterson_1987_OpenCourt|Peterson_1987_OpenCourt]]"
 part_of: "[[Argument_Peterson_1987_OpenCourt]]"
 status: draft
 created: 2026-08-23
-updated: 2026-08-23
+updated: '2026-08-27'
 ---
 # Argument_Peterson_1987_OpenCourt_Ch04
 
@@ -827,7 +828,7 @@ updated: 2026-08-23
 > - **学术治理与行政执行可以分离** 课程与试题内容仍由国际主考官委员会控制，行政操作则可分散；这一边界降低了转移业务导致课程重新国家化的风险（pp. 85–87）。
 
 > [!warrant]- 行政分权为什么不等于英国接管 IB 学术标准
-> 彼得森区分“谁决定考试内容”与“谁执行年度考试”。课程、试题内容和评分判断继续由国际主考官委员会掌握；可以迁移的是印刷、校对、翻译、分发、口试考官行程和成绩汇总等操作。美国大学入学考试委员会把年度考试行政交由普林斯顿教育考试服务中心、剑桥考试委员会把海外证书执行交给独立行政机构，都为这种分离提供先例。IBO 因而可以利用英国英语人员和较低成本，而不把资格的学术所有权交给英国国家体系（p. 86）。
+> 彼得森区分“谁决定考试内容”与“谁执行年度考试”。课程、试题内容和评分判断继续由国际主考官委员会掌握；可以迁移的是印刷、校对、翻译、分发、口试考官行程和成绩汇总等操作。美国大学入学考试委员会把年度考试行政交由普林斯顿[[Educational Testing Service|教育考试服务中心]]、剑桥考试委员会把海外证书执行交给独立行政机构，都为这种分离提供先例。IBO 因而可以利用英国英语人员和较低成本，而不把资格的学术所有权交给英国国家体系（p. 86）。
 
 > [!case] 从“朋友临时应对”转为“人性化官僚机构”
 > 彼得森把早期 IBO 描述为一群受共同理想驱动的同事和朋友，每遇到新问题便依靠个人加班、无偿劳动和临时关系解决。学校与考试扩大后，这种方式无法保证流程、岗位责任和成本可预测性。行政改革的目标不是追求官僚化本身，而是建立一个“希望仍有人性的官僚机构”：能够经济而稳定地承担更广、持续更久的任务，同时不完全失去早期网络的使命感。语言考试从日内瓦完整转移到英国，是这一转型的第一项实质步骤（p. 91）。

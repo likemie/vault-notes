@@ -59,7 +59,8 @@ related_theories:
 related_methods:
   - "[[Case Study]]"
   - "[[Critical Incidents]]"
-related_instruments: []
+related_instruments:
+  - "[[VALUE Rubrics]]"
 related_persons:
   - "[[Bruno Latour]]"
   - "[[Deanna Kuhn]]"
@@ -518,7 +519,7 @@ issuing_organization: ""
 > [!citation-card]- 纽拉特的[[Phronesis|实践智慧]]
 > 不完全决定性是好事，因为它允许价值观在竞争理论之间做出选择，从而使进步的社会行动成为可能。承认科学不是[[Value Neutrality|价值无涉]]的、确实受价值驱动，反而允许一种更丰富但仍然实证主义的科学哲学路径（pp.183–184）。
 >
-> *Underdetermination was good because it allowed values to play a role in opting for one of the competing theories, and thus made progressive social action possible. To recognise that science is not value-free, and indeed is driven by values allows for a richer and nevertheless positivist approach.*
+> *Underdetermination was good because it allowed values to play a role in opting for one of the competing theories, and thus made progressive social action possible. To recognise that science is not [[VALUE Rubrics|VALUE]]-free, and indeed is driven by values allows for a richer and nevertheless positivist approach.*
 
 ---
 

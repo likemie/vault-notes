@@ -15,7 +15,6 @@ tags: [theme/general-education, theme/curriculum, level/upper-secondary]
 related_concepts:
   - "[[International Baccalaureate]]"
   - "[[Whole Person Education]]"
-  - "[[Praxis]]"
   - "[[Encyclopaedism]]"
   - "[[Curriculum as Process]]"
   - "[[Paradigmatic Learning]]"
@@ -56,7 +55,7 @@ updated: 2026-08-23
 > [!boundary]- 通识性不等于内容越多越好
 > - **事实仍是思考材料** 学生无法在缺少历史事实和较宽背景时学习历史地思考，也无法脱离科学概念进行实验判断。
 > - **覆盖本身不构成理解** 同时接触许多科目，若每科只能记忆信息和预先组织的解释，学生仍未形成可使用的思想工具。
-> - **笼统思维训练不能取代学科[[Praxis|实践]]** 历史解释、科学检验、数学推演和审美判断各有对象与规则，需要在具体学科活动中形成。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 41–44)]]
+> - **笼统思维训练不能取代学科实践** 历史解释、科学检验、数学推演和审美判断各有对象与规则，需要在具体学科活动中形成。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 41–44)]]
 
 ---
 
@@ -79,7 +78,7 @@ updated: 2026-08-23
 
 > [!feature] 从教育理念到课程结构的五个要素
 > - **多种思维方式** 学生需要接触语言、数学、历史、科学、道德与审美判断等性质不同的思想工具。
-> - **学科[[Praxis|实践]]** 思维方式通过处理材料、提出问题、检验证据和形成解释来习得，不能化为一组脱离对象的通用技巧。
+> - **学科实践** 思维方式通过处理材料、提出问题、检验证据和形成解释来习得，不能化为一组脱离对象的通用技巧。
 > - **广度与深度分层** 跨学科分布承担广度，[[Paradigmatic Learning|范例学习]]在每门学科内承担深度，避免把二者压缩成浅层折中。
 > - **跨领域反思** 学生需要比较不同学科接受何种证据、怎样形成知识以及各自能够回答什么问题。
 > - **制度保护** 课表、课程要求和评价必须承认通识经验，否则升学考试会把时间重新吸向少数计分科目。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 39–48, 50–57)]]
@@ -111,7 +110,7 @@ updated: 2026-08-23
 ### 命题二　通识广度需要通过有分布的专门学习形成
 
 > [!concept-lens] 跨科分布与科内深究
-> 广度和深度由不同课程层次承担。学生在若干性质不同的领域学习，以获得思想工具的广度；每个领域再保留足够时间，使学生真正进入学科[[Praxis|实践]]。
+> 广度和深度由不同课程层次承担。学生在若干性质不同的领域学习，以获得思想工具的广度；每个领域再保留足够时间，使学生真正进入学科实践。
 
 > [!claim] Peterson, A. D. C.
 > **通过专门化实现通识教育** 英国高中后期的两三门专业科目过窄，法国和德国的十余门课程又过浅。让·卡佩勒（Jean Capelle）主张把十余个浅学领域缩减为约六门性质不同的学科，丹尼尔·贝尔（Daniel Bell）把相近方向概括为通过专门化实现通识教育。[[International Baccalaureate|国际文凭]]以六学科分布维持差异，再用共同核心和深度选项组织单科学习，使学生既不会困在单一专业方向，也无需用浅层浏览换取表面广度。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 39–45)]]
@@ -174,7 +173,7 @@ updated: 2026-08-23
 ## 应用案例
 
 > [!case] [[International Baccalaureate|国际文凭]]把通识教育转化为六学科与三项核心经验
-> 六学科让学生接触语言与文学、第二语言、个人与社会、实验科学、数学和艺术等不同领域。每门课以共同核心维持背景，以深度选项形成学科[[Praxis|实践]]。[[Extended Essay|拓展论文]]（Extended Essay，EE）让学生自行组织较长研究，创造、审美与社会服务（[[Creativity, Action, Service|Creative, Aesthetic and Social Service]]，CASS）保护直接经验，[[Theory of Knowledge|TOK]] 则比较不同知识形式。多元评价把这些经验纳入可被学校持续实施的文凭结构。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 43–57)]]
+> 六学科让学生接触语言与文学、第二语言、个人与社会、实验科学、数学和艺术等不同领域。每门课以共同核心维持背景，以深度选项形成学科实践。[[Extended Essay|拓展论文]]（Extended Essay，EE）让学生自行组织较长研究，创造、审美与社会服务（[[Creativity, Action, Service|Creative, Aesthetic and Social Service]]，CASS）保护直接经验，[[Theory of Knowledge|TOK]] 则比较不同知识形式。多元评价把这些经验纳入可被学校持续实施的文凭结构。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 43–57)]]
 
 ---
 

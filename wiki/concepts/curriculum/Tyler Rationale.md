@@ -19,7 +19,6 @@ related_concepts:
   - "[[Theory of Knowledge]]"
   - "[[Emergence]]"
   - "[[Cultural Capital]]"
-  - "[[Praxis]]"
   - "[[Constructivist Paradigm]]"
   - "[[Hypothesis]]"
   - "[[Champ]]"
@@ -78,7 +77,7 @@ updated: 2026-07-11
 > Tyler 原理与哈贝马斯的技术兴趣（预测与控制）共振：将课程呈现为需要"交付"给被动接受者的商品，课程只是消费者社会中另一种商品，其中差异化的[[Cultural Capital|文化资本]]不可避免。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, pp. 141–142)]]
 
 > [!claim] 命题二：Tyler 原理代表了封闭的课程系统
-> Doll（1993）批评 Tyler 原理代表了一个封闭的规划和[[Praxis|实践]]系统，与教育的开放过程本质、后现代社会的开放与多样、以及[[Constructivist Paradigm|建构主义]]心理学的进展这三者根本冲突。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, p. 133)]]
+> Doll（1993）批评 Tyler 原理代表了一个封闭的规划和实践系统，与教育的开放过程本质、后现代社会的开放与多样、以及[[Constructivist Paradigm|建构主义]]心理学的进展这三者根本冲突。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, p. 133)]]
 
 ---
 

@@ -23,7 +23,6 @@ related_concepts:
   - "[[Surface and Deep Learning]]"
   - "[[Epistemology]]"
   - "[[Powerful Knowledge]]"
-  - "[[Praxis]]"
   - "[[Big Ideas]]"
 related_theories:
   - "[[Curriculum Design Coherence Model]]"
@@ -67,7 +66,7 @@ updated: 2026-06-06
 
 > [!abstract]
 > - **知其然的内容**。在 [[Curriculum Design Coherence Model|课程设计连贯性模型]]中，知其然包括命题（提出主要主张的陈述）、学科概念（通过词语或短语表达的抽象思想）和内容（概念的物质体现，可包括事实、情境、意识形态等）([[Argument_McPhail_2023_JCS|McPhail et al., 2023]])。
-> - **知其所用的内容**。知其所用包括技能、能力和学科[[Praxis|实践]]，即通过使用与学科相关的技能或实践来应用知识。
+> - **知其所用的内容**。知其所用包括技能、能力和学科实践，即通过使用与学科相关的技能或实践来应用知识。
 > - **连接的重要性**。在 [[Curriculum Design Coherence Model|课程设计连贯性模型]]中，当学生能够将所学知识灵活运用并清楚阐述两种知识形式之间的联系时，[[Surface and Deep Learning|深层学习]]才真正发生。这种联系是深层学习的标志，而非表层学习。
 > - **明智地知其所用**。CDCM 中的「明智地知其所用」（intelligent know-how-to）和「知其所以然」（knowing-why），发生在学生能够展示和阐述两种知识形式之间的联系时。这标志着深层学习，而非表面学习（如背诵事实或机械展示技能）。
 

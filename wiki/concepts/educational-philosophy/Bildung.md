@@ -21,7 +21,6 @@ related_concepts:
   - "[[Growth]]"
   - "[[Analytic Framework]]"
   - "[[Epochal Key Problems]]"
-  - "[[Praxis]]"
   - "[[Buen Vivir]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Learning Analytics]]"
@@ -51,7 +50,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: 2026-07-13
+updated: '2026-08-27'
 ---
 
 # Bildung
@@ -115,7 +114,7 @@ updated: 2026-07-13
 > 这类命题关注教化（Bildung）的核心目的，强调其作为自主人格形成的非目的论与开放性特征，反对将教育目的窄化为可测量的技术性指标。
 
 > [!claim] [[Argument_Larsen_2019_EducSci|Larsen (2019)]]
-> 教化具有非还原的内在尊严与[[Praxis|实践]]目的。它是个体决定其知识与技能如何以远超外在要求和期望的方式被使用的能力与勇气，不能被还原为可量化、标准化的一般技能目标。[[Argument_Larsen_2019_EducSci|Larsen, 2019, pp. 8, 10]]
+> 教化具有非还原的内在尊严与实践目的。它是个体决定其知识与技能如何以远超外在要求和期望的方式被使用的能力与勇气，不能被还原为可量化、标准化的一般技能目标。[[Argument_Larsen_2019_EducSci|Larsen, 2019, pp. 8, 10]]
 
 > [!claim] Schleiermacher
 > 教化实践的核心路径在于学会在关于何为[[Buen Vivir|美好生活]]的“追问”而非“标准答案”中生活。教化是一个非预设方向的自主[[Growth|生长]]过程，无法通过灌输现成答案来达成。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 5–6]]
@@ -163,7 +162,7 @@ updated: 2026-07-13
 > [!debates] 学术争议
 > 
 > > [!abstract] 激进政治性与精英保守主义之争
-> > 批评者指出，Bildung 在德国和芬兰的历史[[Praxis|实践]]中常被用作维持社会阶层排他性和强化民族主义意识形态的保守工具。然而 Klafki 等人论证，经典教化理论的核心主张在本质上具有激进的社会政治性，旨在促进人类的解放、正义、自由与共同责任。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 6]]
+> > 批评者指出，Bildung 在德国和芬兰的历史实践中常被用作维持社会阶层排他性和强化民族主义意识形态的保守工具。然而 Klafki 等人论证，经典教化理论的核心主张在本质上具有激进的社会政治性，旨在促进人类的解放、正义、自由与共同责任。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 6]]
 > 
 > > [!abstract]- 理想主义与可操作性之争
 > > 部分政策研究者批评 Bildung 概念过于虚无缥缈，缺乏明确的行为指标，无法在当代大规模大众教育和质量监测体系中被[[Operationalization|操作化]]。支持者则回应，教化的价值物在于其不可形式化，保护学生免受量化绩效主义的异化。[[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 9]]
@@ -182,5 +181,5 @@ updated: 2026-07-13
 > - **[[IB Diploma Programme|IB DP]] [[Theory of Knowledge|知识论]]课程批判** 分析了 TOK 课程将学生设定为“[[Empty Knower|空无知者]]”的[[Georg Wilhelm Friedrich Hegel|黑格尔]]式教化预设，揭示了缺乏具身想象力和情感支持的理性训练容易异化为策略性应试。[[Argument_Cole_2005_JRIE|Cole, 2005, pp. 212–213]]
 > - **丹麦公立学校改革** 2014 年改革在课程中嵌入近 3000 个细碎的学习目标，体现了学习[[Paradigm|范式]]对教化空间的挤压。[[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 2]]
 > - **芬兰基础教育国家核心课程** 其倡导的跨学科[[Phenomenon-Based Learning|现象本位学习]]，在哲学上可理解为通过教化和教学论传统对抗技能原子化倾向的政策尝试。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 7]]
-> - **SveaSus 项目** 高等教师教育领域的教学实验，提供了一个围绕可持续性开展具身、情感与认知多维教化[[Praxis|实践]]的具体情境。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 1]]
+> - **SveaSus 项目** 高等教师教育领域的教学实验，提供了一个围绕可持续性开展具身、情感与认知多维教化实践的具体情境。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 1]]
 > - **丹麦 Maglegård 学校案例** 曾悬挂“我们的学习是可见的”巨幅标语并彻底采用可见学习项目，成为学习范式吞噬 Bildung 空间的典型实证标本。[[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 1]]

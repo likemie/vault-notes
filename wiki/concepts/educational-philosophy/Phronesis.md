@@ -16,11 +16,11 @@ tags:
   - phronesis
   - curriculum-process
 related_concepts:
-  - "[[Praxis]]"
   - "[[Curriculum as Process]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
   - "[[Dialogue in Education]]"
+  - "[[Praxis]]"
   - "[[Curriculum as Product]]"
   - "[[Theory of Knowledge]]"
 related_theories: []
@@ -34,7 +34,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-03
-updated: 2026-08-03
+updated: '2026-08-27'
 ---
 
 # Phronesis（实践明智）
@@ -44,7 +44,7 @@ updated: 2026-08-03
 ## 定义
 
 > [!def] 核心定义
-> **[[Praxis|实践]]明智（Phronesis）**源自古希腊哲学[[Aristotle|亚里士多德]]的《尼各马可伦理学》（*Nicomachean Ethics*），是[[Curriculum as Process|作为过程的课程]][[Paradigm|范式]]的[[Epistemology|认识论]]根基 (Grundy, 1987; [[Argument_Darwish_2009_Queens|Darwish, 2009, p. 67 注脚80]])。实践明智是指针对具体伦理情境中什么是“人类至善”（human flourishing）而做出的真实、理智且带有道德善导向的审议判断力，它指导个体在复杂社会关系中做出适切的行动。
+> **实践明智（Phronesis）**源自古希腊哲学[[Aristotle|亚里士多德]]的《尼各马可伦理学》（*Nicomachean Ethics*），是[[Curriculum as Process|作为过程的课程]][[Paradigm|范式]]的[[Epistemology|认识论]]根基 (Grundy, 1987; [[Argument_Darwish_2009_Queens|Darwish, 2009, p. 67 注脚80]])。实践明智是指针对具体伦理情境中什么是“人类至善”（human flourishing）而做出的真实、理智且带有道德善导向的审议判断力，它指导个体在复杂社会关系中做出适切的行动。
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向在具体伦理情境中追求人类至善的实践审议与道德判断智慧。
@@ -96,7 +96,7 @@ updated: 2026-08-03
 
 ### 命题一　实践明智是超越技术控制、保障过程课程理性审议的认识论基础
 
-> [!concept-lens] [[Praxis|实践]]审议与课程模式维度
+> [!concept-lens] 实践审议与课程模式维度
 > 探讨实践明智如何通过强调具体情境中的道德善审议，防止课程退化为技术流水线。
 
 > [!claim] [[Aristotle]]
@@ -116,7 +116,7 @@ updated: 2026-08-03
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **BC 350 — 哲学奠基** [[Aristotle|亚里士多德]]在《尼各马可伦理学》中提出 *Phronesis*，区分理论智慧、技术技能与[[Praxis|实践]]明智。[[Argument_Darwish_2009_Queens|(Aristotle, 1140b)]]
+> - **BC 350 — 哲学奠基** [[Aristotle|亚里士多德]]在《尼各马可伦理学》中提出 *Phronesis*，区分理论智慧、技术技能与实践明智。[[Argument_Darwish_2009_Queens|(Aristotle, 1140b)]]
 > - **1987 — 课程理论转化** 雪莉·葛兰蒂在《课程：产品、过程与实践》中将 *Phronesis* 确定为[[Curriculum as Process|作为过程的课程]]的指导理性。[[Argument_Darwish_2009_Queens|(Grundy, 1987, p. 61)]]
 > - **2009 — [[Theory of Knowledge|TOK]] 评估应用** 达维什在学位论文中分析 TOK 课程[[Dialogue in Education|对话]]如何依赖师生的实践明智展开道德审议。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 67)]]
 
@@ -125,11 +125,11 @@ updated: 2026-08-03
 ## 争议与批评
 
 > [!warning] 适用局限
-> [[Praxis|实践]]明智强调在既定伦理与社会规范内进行实践审议，若缺乏批判解放理论对压迫结构的彻底揭露，可能陷入政治中立或维持现状的局限。[[Argument_Darwish_2009_Queens|(Grundy, 1987, p. 64; Darwish, 2009, p. 68)]]
+> 实践明智强调在既定伦理与社会规范内进行实践审议，若缺乏批判解放理论对压迫结构的彻底揭露，可能陷入政治中立或维持现状的局限。[[Argument_Darwish_2009_Queens|(Grundy, 1987, p. 64; Darwish, 2009, p. 68)]]
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 探讨[[Praxis|实践]]明智在斯滕豪斯过程模式与 [[Theory of Knowledge|TOK]] 课程讨论中的作用。
+> - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 探讨实践明智在斯滕豪斯过程模式与 [[Theory of Knowledge|TOK]] 课程讨论中的作用。

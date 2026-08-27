@@ -16,7 +16,6 @@ tags:
 - theme/development
 related_concepts:
   - "[[Life Power]]"
-  - "[[Praxis]]"
   - "[[Paradigm]]"
   - "[[Ganz-Methode]]"
   - "[[Epistemology]]"
@@ -44,7 +43,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info]
-> Whole Sustainability（整体可持续性）是 [[Dell Delambre]] 在 [[Creative Tension of Sense]] 理论中提出的可持续性概念，其核心主张是：**真正具有可持续性的项目必须纳入局部社区代表 [[Life Power|生命力量]] 的一切要素——包括记忆、口述传统、艺术、精神性、人际关系和日常[[Praxis|实践]]——以及其面临的内外部威胁([[Argument_Delambre_2022_Springer|Delambre, 2022, p.109 脚注]])**。
+> Whole Sustainability（整体可持续性）是 [[Dell Delambre]] 在 [[Creative Tension of Sense]] 理论中提出的可持续性概念，其核心主张是：**真正具有可持续性的项目必须纳入局部社区代表 [[Life Power|生命力量]] 的一切要素——包括记忆、口述传统、艺术、精神性、人际关系和日常实践——以及其面临的内外部威胁([[Argument_Delambre_2022_Springer|Delambre, 2022, p.109 脚注]])**。
 
 > Whole Sustainability 质疑从属于霸权发展模式的常规可持续性概念——后者将可持续性视为在现有发展[[Paradigm|范式]]内通过技术改良实现的"绿色增长"。"整体"（Whole = Ganz）在此不是静态的完整体，而是通过 [[Ganz-Methode]] 将所有相关的新旧张力同时纳入考量，在运动变化中不断重新连接。关于 Ganz 与 holistic 的核心区分，详见 [[Ganz-Methode#概念辨析]]([[Argument_Delambre_2022_Springer|Delambre, 2022, p.109 脚注, 112]])。
 
@@ -60,7 +59,7 @@ updated: '2026-05-18'
 
 > [!note]-
 > - Delambre 在 2014 年专著 *Sustentabilidade In-sustentável* 中从对 Rio+20 峰会可持续性概念的批判出发，初步形成了"整体可持续性"的问题意识([[Argument_Delambre_2022_Springer|Delambre, 2022, p.105, 2014]])
-> - 在 2013–2020 年里约热内卢多案例[[Praxis|实践]]中，Delambre 通过贫民窟剧场、社区博物馆和[[Ecomuseology|生态博物馆]]等项目，观察到局部社区的"[[Life Power|生命力量]]"——那些被常规可持续性框架所排除的要素（记忆、口述传统、精神性、文化实践）——恰恰是社区维持存在意义连续性的关键资源。这一观察使"整体"的内涵从理论批判发展为经验性概念([[Argument_Delambre_2022_Springer|Delambre, 2022, p.107, 109–110]])
+> - 在 2013–2020 年里约热内卢多案例实践中，Delambre 通过贫民窟剧场、社区博物馆和[[Ecomuseology|生态博物馆]]等项目，观察到局部社区的"[[Life Power|生命力量]]"——那些被常规可持续性框架所排除的要素（记忆、口述传统、精神性、文化实践）——恰恰是社区维持存在意义连续性的关键资源。这一观察使"整体"的内涵从理论批判发展为经验性概念([[Argument_Delambre_2022_Springer|Delambre, 2022, p.107, 109–110]])
 > - 2022 年随 [[Creative Tension of Sense]] 理论系统发表，在 Ch7 中以脚注形式给出正式定义([[Argument_Delambre_2022_Springer|Delambre, 2022, p.109 脚注]])
 
 ## 核心要素
@@ -81,12 +80,12 @@ updated: '2026-05-18'
 ## 实证发现
 
 > [!success]
-> 概念仍处于理论建构阶段。[[Argument_Delambre_2022_Springer|Delambre (2022)]] 的实证基础为 2013–2020 年里约热内卢多案例[[Praxis|实践]]，但未提供 Whole Sustainability 的具体操作案例或系统评估数据([[Argument_Delambre_2022_Springer|Delambre, 2022, p.107, 109 脚注]])。
+> 概念仍处于理论建构阶段。[[Argument_Delambre_2022_Springer|Delambre (2022)]] 的实证基础为 2013–2020 年里约热内卢多案例实践，但未提供 Whole Sustainability 的具体操作案例或系统评估数据([[Argument_Delambre_2022_Springer|Delambre, 2022, p.107, 109 脚注]])。
 
 ## 争议与批评
 
 > [!warning]
 > - "纳入一切"的整体性要求在操作层面面临挑战——一个可持续性项目如何同时考量"记忆、口述传统、艺术、精神性、人际关系"和"内外部威胁"而仍然保持可管理性？
 > - Whole Sustainability 的概念边界与 [[Life Power]] 高度重叠——两者都被定义为"局部社区代表存在意义的一切"，区分度有限
-> - 论文未提供 Whole Sustainability 在可持续发展政策或[[Praxis|实践]]中的具体应用案例，概念仍停留在原则声明层面([[Argument_Delambre_2022_Springer|Delambre, 2022, p.109 脚注]])
+> - 论文未提供 Whole Sustainability 在可持续发展政策或实践中的具体应用案例，概念仍停留在原则声明层面([[Argument_Delambre_2022_Springer|Delambre, 2022, p.109 脚注]])
 

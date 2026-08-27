@@ -57,7 +57,7 @@ updated: 2026-06-03
 ## 所有权规则
 
 > [!info]
-> 在美国[[University-Industry Collaboration|产学合作]][[Praxis|实践]]中，FIP 的所有权通常遵循"发明人归属"原则：每位发明人或作者将其权利转让给雇主。因此（pp.279–280）：
+> 在美国[[University-Industry Collaboration|产学合作]]实践中，FIP 的所有权通常遵循"发明人归属"原则：每位发明人或作者将其权利转让给雇主。因此（pp.279–280）：
 
 - 完全由大学人员创造的 FIP → 大学单独所有
 - 完全由企业人员创造的 FIP → 企业单独所有

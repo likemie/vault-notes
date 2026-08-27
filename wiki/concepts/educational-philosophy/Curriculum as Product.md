@@ -122,7 +122,7 @@ updated: 2026-08-03
 
 > [!dev-timeline] 概念演变
 > - **1949 — [[Tyler Rationale|泰勒原理]]奠基** 泰勒在《课程与教学的基本原理》中确立行为目标产物模式。[[Argument_Darwish_2009_Queens|(Tyler, 1949)]]
-> - **1987 — 批判解构** 葛兰蒂（Shirley Grundy）在《课程：产品、过程与[[Praxis|实践]]》中将其归类为技术利益[[Paradigm|范式]]。[[Argument_Darwish_2009_Queens|(Grundy, 1987)]]
+> - **1987 — 批判解构** 葛兰蒂（Shirley Grundy）在《课程：产品、过程与实践》中将其归类为技术利益[[Paradigm|范式]]。[[Argument_Darwish_2009_Queens|(Grundy, 1987)]]
 > - **2009 — [[Theory of Knowledge|TOK]] 对比评估** 达维什在学位论文第 5 章中将产物范式作为评价传统教育与 TOK 课程的基础标尺。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 64)]]
 
 ---
@@ -137,4 +137,4 @@ updated: 2026-08-03
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 结合课程理论对比分析产物模式与过程/[[Praxis|实践]]模式的[[Epistemology|认识论]]差异。
+> - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 结合课程理论对比分析产物模式与过程/实践模式的[[Epistemology|认识论]]差异。

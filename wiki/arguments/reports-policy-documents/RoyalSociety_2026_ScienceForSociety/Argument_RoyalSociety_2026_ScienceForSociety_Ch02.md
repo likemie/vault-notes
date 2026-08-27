@@ -58,7 +58,8 @@ related_methods:
   - "[[Focus Group]]"
   - "[[Cohort Study]]"
   - "[[Stratified Sampling]]"
-related_instruments: []
+related_instruments:
+  - "[[VALUE Rubrics]]"
 related_persons: []
 related_facts:
   - "[[Association for Science and Discovery Centres]]"
@@ -76,7 +77,7 @@ sources:
 part_of: "[[sources/RoyalSociety_2026_ScienceForSociety/RoyalSociety_2026_ScienceForSociety|RoyalSociety_2026_ScienceForSociety]]"
 status: draft
 created: 2026-08-23
-updated: 2026-08-23
+updated: '2026-08-27'
 ---
 # Argument_RoyalSociety_2026_ScienceForSociety_Ch02
 
@@ -248,7 +249,7 @@ updated: 2026-08-23
 在运营成本飙升与资助结构调整的夹击下，非正式科学部门正面临生存威胁。（pp. 48–50）
 
 > [!claim] 步骤四核心主张
-> 受通胀高企、场馆维护与能源成本激增、地方政府预算缩减、生活成本危机抑制门票消费，以及惠康信托等传统支柱基金会战略转向国际和专项研究等多重挤压，英国非正式科学参与部门正面临系统性的**生存威胁（Existential Threat）**；必须打破部门壁垒，确立与文化艺术部门对等的财税政策，并引入政府采购社会价值条款（Social Value Procurement）与现代慈善激励机制。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026b, pp. 42, 48–50)]]
+> 受通胀高企、场馆维护与能源成本激增、地方政府预算缩减、生活成本危机抑制门票消费，以及惠康信托等传统支柱基金会战略转向国际和专项研究等多重挤压，英国非正式科学参与部门正面临系统性的**生存威胁（Existential Threat）**；必须打破部门壁垒，确立与文化艺术部门对等的财税政策，并引入政府采购社会价值条款（Social [[VALUE Rubrics|VALUE]] Procurement）与现代慈善激励机制。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026b, pp. 42, 48–50)]]
 
 > [!factors] 威胁非正式科学部门可持续性的四大财务结构瓶颈
 > - **1. 地方政府财政预算与支持大幅萎缩** 自 COVID-19 封控以来，地方政府财政普遍陷入严重赤字，对地方中小型科技探索馆与社区科学活动的经常性补贴和实物支持遭遇大幅削减。（p. 48）

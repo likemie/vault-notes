@@ -18,6 +18,7 @@ tags:
 related_concepts:
   - "[[Epistemology]]"
   - "[[Cross-National Attraction]]"
+  - "[[Concept Mapping]]"
   - "[[Policy Borrowing]]"
 related_theories:
   - "[[Luhmann's Systems Theory]]"
@@ -35,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-06'
-updated: '2026-05-18'
+updated: '2026-08-27'
 ---
 
 ## 定义
@@ -55,7 +56,7 @@ updated: '2026-05-18'
 > - **Schriewer (1990)** — 在比较教育方法论中首次系统提出外化概念，将其定位为比较方法的[[Epistemology|认识论]]工具
 > - **Schriewer (2003)** — 将外化纳入更广泛的话语形成（Discourse Formation）理论框架
 > - **Schriewer & Martinez (2004)** — 区分"进化过程"（更广阔世界的变化）和"语义建构"（人类与结构领域的互动产物），强调两者完全独立
-> - **[[Argument_Rappleye_2006_RCIE|Rappleye (2006)]]** — 将外化概念整合入[[Cross-National Attraction|跨国吸引]]力情境概念地图，赋予其在改革和抵制两侧的对称位置
+> - **[[Argument_Rappleye_2006_RCIE|Rappleye (2006)]]** — 将外化概念整合入[[Cross-National Attraction|跨国吸引]]力情境[[Concept Mapping|概念地图]]，赋予其在改革和抵制两侧的对称位置
 
 ## 核心要素
 

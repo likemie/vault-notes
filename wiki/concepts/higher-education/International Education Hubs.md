@@ -94,7 +94,7 @@ Knight 的研究为 IEH 提供了基本的概念坐标，但其框架主要采�
 [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] 从亚洲崛起的视角为 IEHs 提供了关键的再概念化。其核心论点是：IEHs 的创建集中体现了亚洲国家将高等教育**系统性地整合进经济竞争力和地缘政治定位**的战略转变([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.95–100]])。
 
 > [!note]- 从被动接受到主动塑造
-> 在旧的发展主义[[Paradigm|范式]]下，亚洲国家是西方[[Internationalization of Higher Education|高等教育国际化]]的接受方——西方大学招收亚洲学生被视为"援助和发展"的延伸。IEHs 的出现标志着角色的根本转变：亚洲国家不再是[[International Education|国际教育]]的被动消费者，而是成为全球知识流动网络的**主动塑造者**。这一转变由三层动力支撑：亚洲经济体融入全球供应链和资本流动创造了庞大的中产阶级教育需求；各国政府将高等教育视为[[Knowledge-Based Economy|知识经济]]时代人力资本投资的核心渠道；以及一个强烈的"追赶"话语——亚洲各国政府渴望采纳"世界最佳[[Praxis|实践]]"、在排名和声誉上"追赶"西方顶尖大学([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.95–96]])。
+> 在旧的发展主义[[Paradigm|范式]]下，亚洲国家是西方[[Internationalization of Higher Education|高等教育国际化]]的接受方——西方大学招收亚洲学生被视为"援助和发展"的延伸。IEHs 的出现标志着角色的根本转变：亚洲国家不再是[[International Education|国际教育]]的被动消费者，而是成为全球知识流动网络的**主动塑造者**。这一转变由三层动力支撑：亚洲经济体融入全球供应链和资本流动创造了庞大的中产阶级教育需求；各国政府将高等教育视为[[Knowledge-Based Economy|知识经济]]时代人力资本投资的核心渠道；以及一个强烈的"追赶"话语——亚洲各国政府渴望采纳"世界最佳实践"、在排名和声誉上"追赶"西方顶尖大学([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.95–96]])。
 
 Rizvi 进一步揭示了 IEHs 兴起背后的**话语理性转移** 其正当性从"帮助发展中国家现代化"的发展主义话语转向"提升全球经济竞争力"的市场理性。这一转变与 Rizvi 诊断的[[Internationalization of Higher Education|高等教育国际化]]整体理性转变——从发展主义到市场理性——是同一过程在国家层面的战略表达([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.96–97]])。
 
@@ -198,7 +198,7 @@ Knight & Lee (2014) 提出的递进模型（Knight & Lee, 2014, pp.31–34, cite
 
 > [!example]
 - 香港 — 追求区域教育枢纽地位（Mok & Bodycott, 2014）
-- 新加坡 — "[[Singapore Education Hub Policy|东方波士顿]]"战略和"全球校园"项目代表了教育枢纽的早期[[Praxis|实践]]形态(Sidhu et al., 2014; [[Argument_Erfurth_2022_education-hubs|Erfurth, 2022]])
+- 新加坡 — "[[Singapore Education Hub Policy|东方波士顿]]"战略和"全球校园"项目代表了教育枢纽的早期实践形态(Sidhu et al., 2014; [[Argument_Erfurth_2022_education-hubs|Erfurth, 2022]])
 - 阿拉伯联合酋长国 — 阿布扎比和迪拜呈现出[[Cultural Diplomacy|文化外交]]与政治经济两种不同的枢纽运作逻辑(Halsey Fox & Al Shamisi, 2014; [[Argument_Erfurth_2022_education-hubs|Erfurth, 2022]])
 - [[Minerva University]] — [[Geopolitics of Knowledge|知识地缘政治]]中与 IEHs 构成对照的"流动"策略代表([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.45–48]])
 

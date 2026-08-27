@@ -19,7 +19,6 @@ tags:
   - theme/sustainability
   - theme/environmental-education
 related_concepts:
-  - "[[Praxis]]"
   - "[[Paradigm]]"
   - "[[Big Ideas]]"
 related_arguments:
@@ -37,7 +36,7 @@ updated: 2026-08-23
 ## 定义
 
 > [!def] 核心定义
-> 可持续发展教育是指面向 21 世纪全球气候变化、生物多样性丧失与资源环境承载力危机，培养个体掌握生态科学与复杂系统运行规律、具备跨学科批判性审思与绿色技能（Green Skills），并在日常生活、公民参与及职业[[Praxis|实践]]中能够采取负责任行动的综合教育[[Paradigm|范式]]。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, p. 32)]]
+> 可持续发展教育是指面向 21 世纪全球气候变化、生物多样性丧失与资源环境承载力危机，培养个体掌握生态科学与复杂系统运行规律、具备跨学科批判性审思与绿色技能（Green Skills），并在日常生活、公民参与及职业实践中能够采取负责任行动的综合教育[[Paradigm|范式]]。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, p. 32)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 区别于单一学科内的片段化环保知识点灌输，强调将生态环境议题置于自然科学、经济社会、地缘政治与伦理价值的多维交汇点上。
@@ -75,7 +74,7 @@ updated: 2026-08-23
 > 能源转型与产业绿色化对具备科学与技术复合技能的劳动力提出了爆发式需求，课程脱节将严重制约国家转型进程。
 
 > [!claim] 绿色技能劳动力管道
-> 英国能源转型与产业绿色化面临约 20 万劳动者的“绿色技能缺口”（PwC, 2022）；国家基础教育大纲必须尽早引入工程技术与生态建模[[Praxis|实践]]，确保全体青年具备应对未来绿色就业市场的专业素养。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, p. 32)]]
+> 英国能源转型与产业绿色化面临约 20 万劳动者的“绿色技能缺口”（PwC, 2022）；国家基础教育大纲必须尽早引入工程技术与生态建模实践，确保全体青年具备应对未来绿色就业市场的专业素养。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, p. 32)]]
 
 ---
 

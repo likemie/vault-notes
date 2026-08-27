@@ -30,6 +30,7 @@ related_concepts:
   - "[[Student-Teacher Relationship]]"
   - "[[Humility in Learning]]"
   - "[[Pride in Learning]]"
+  - "[[Concept Mapping]]"
   - "[[Dialogue in Education]]"
   - "[[Cognitive Source]]"
   - "[[Necessary and Sufficient Conditions]]"
@@ -172,7 +173,7 @@ updated: 2026-08-20
 > - **能动过程（agentic process）** 认真、勤奋、刻苦、恒心、专心——这五种在实证中出现了**直接的行为描述对应**
 > - **情感（affect）** 尊师（尊重／接纳）、谦虚——这两种在实证中出现了**情感描述对应**，而非行为过程描述
 >
-> 在 [[Heart and Mind for Wanting to Learn|好學心]] 概念地图（Figure 3.2）中，勤奋、刻苦、恒心、专心构成"**学习美德四重奏**"（Quartet: Diligence, Hardship, Steadfastness, Concentration），是好學心集群的四个子维度之一——仅次于终身追求（life-long pursuit）。谦虚和渴望（desire）并列作为好學心的另外两个独立子维度([[Argument_Li_2012_Cambridge|Li, 2012, pp.94-97]])。
+> 在 [[Heart and Mind for Wanting to Learn|好學心]] [[Concept Mapping|概念地图]]（Figure 3.2）中，勤奋、刻苦、恒心、专心构成"**学习美德四重奏**"（Quartet: Diligence, Hardship, Steadfastness, Concentration），是好學心集群的四个子维度之一——仅次于终身追求（life-long pursuit）。谦虚和渴望（desire）并列作为好學心的另外两个独立子维度([[Argument_Li_2012_Cambridge|Li, 2012, pp.94-97]])。
 >
 > 这种分布暗示了一个重要的文化逻辑：在中国学习模型中，**"如何学习"的问题首先被理解为"一个什么样的人在学习"的问题**——方法从属于品德。
 
@@ -218,7 +219,7 @@ updated: 2026-08-20
 > **学习美德 vs 西方的"学习动机"** Li 强调这些品质被称为"美德"（而非 skills 或 motivations），是因为它们在中国文化中承载了道德含义——它们不只是心理品质，更是道德品质。在此意义上，学习美德不仅服务于 [[Self-Cultivation|修身]]，它们本身就是修身的具体内容([[Argument_Li_2012_Cambridge|Li, 2012, p.52]])。
 
 > [!example]
-> **学习美德 vs [[Heart and Mind for Wanting to Learn|好學心]]** 两者密切相关但处于不同层级。好學心是**动力源**（"想学"的欲望本身），学习美德是**动力机制**（"怎么学"的品质）。好學心集群的概念地图结构直接反映了这层关系：五美德的四重奏、[[Humility in Learning|谦虚]]和渴望都是好學心的**子维度**——没有好學心，这些美德无法持续；没有这些美德，好學心无法转化为实际学习([[Argument_Li_2012_Cambridge|Li, 2012, pp.94, 97]])。
+> **学习美德 vs [[Heart and Mind for Wanting to Learn|好學心]]** 两者密切相关但处于不同层级。好學心是**动力源**（"想学"的欲望本身），学习美德是**动力机制**（"怎么学"的品质）。好學心集群的[[Concept Mapping|概念地图]]结构直接反映了这层关系：五美德的四重奏、[[Humility in Learning|谦虚]]和渴望都是好學心的**子维度**——没有好學心，这些美德无法持续；没有这些美德，好學心无法转化为实际学习([[Argument_Li_2012_Cambridge|Li, 2012, pp.94, 97]])。
 
 ---
 
@@ -227,7 +228,7 @@ updated: 2026-08-20
 > [!tip]-
 > - [[Self-Cultivation]] — 七种学习美德是实现修身的内在品质基础；美德不是修身的手段，而是修身在日常学习行为中的具体体现
 > - [[Benevolence]] — 学习美德是通往仁的[[Necessary and Sufficient Conditions|必要条件]]
-> - [[Heart and Mind for Wanting to Learn]] — 好學心是动力源，学习美德是动力机制，两者构成概念地图中最大的集群
+> - [[Heart and Mind for Wanting to Learn]] — 好學心是动力源，学习美德是动力机制，两者构成[[Concept Mapping|概念地图]]中最大的集群
 > - [[Confucius]] — 孔子是最早阐述这些学习美德的典范
 
 ---

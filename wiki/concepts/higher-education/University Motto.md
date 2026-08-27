@@ -72,7 +72,7 @@ updated: 2026-08-20
 | 大学 | 校训 | 出处 | 英文含义 |
 |------|------|------|----------|
 | 清华大学 | 自强不息，厚德载物 | 《周易》 | Strengthen self ceaselessly and cultivate virtue to nurture the world |
-| 北京大学 | 勤奋、严谨、求实、创新 | — | Diligence, rigor, truthfulness, and creativity |
+| 北京大学 | 勤奋、严谨、求实、创新 | — | Diligence, rigor, truthfulness, and [[Creativity]] |
 | 复旦大学 | 博学而笃志，切问而近思 | 《论语》 | Learn broadly and focus on your purpose, question earnestly and reflect closely |
 | 南京大学 | 诚朴雄伟，励学敦行 | 《礼记》 | Be sincere and hold high aspirations, learn diligently and practice earnestly |
 | 暨南大学 | 忠信笃敬 | 《论语》 | Utmost dedication, trust, earnestness, and respect |
@@ -102,7 +102,7 @@ updated: 2026-08-20
 中国校训的核心语义集中在：
 - **[[Self-Cultivation|修身]]与德行** 清华"自强不息，厚德载物"、港大"明德格物"——"明确且一致地强调，道德和自我的修养必须先于对世界的探究"([[Argument_Li_2012_Cambridge|Li, 2012, p.55]])
 - **勤奋与刻苦** 北大以"勤奋"开头（Li 特意标注了其位置），新加坡国立"通过艰苦努力达成伟业"——与[[Learning Virtues|学习美德]]中的勤奋和刻苦直接呼应
-- **儒家经典的直接引用** 大多数校训"直接取自或浓缩自儒家文本"。即使有"求是"（truth seeking）和"创新"（creativity），它们通常被放置在儒家学习目的与过程之后([[Argument_Li_2012_Cambridge|Li, 2012, p.55]])
+- **儒家经典的直接引用** 大多数校训"直接取自或浓缩自儒家文本"。即使有"求是"（truth seeking）和"创新"（[[Creativity]]），它们通常被放置在儒家学习目的与过程之后([[Argument_Li_2012_Cambridge|Li, 2012, p.55]])
 
 ### 3. 反直觉的历史事实：中国大学校训的"儒家性"是主动选择
 

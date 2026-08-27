@@ -19,7 +19,6 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Epistemology]]"
   - "[[Critical Thinking]]"
-  - "[[Praxis]]"
   - "[[Hypothesis]]"
   - "[[Epistemological Theories]]"
   - "[[Justification for Knowing]]"
@@ -61,7 +60,7 @@ updated: 2026-08-14
 > [!feature] [[John Dewey|杜威]]的[[Reflexivity|反思性]]思维五大步骤
 > 杜威认为，真正的反思性探究包含严格的心智运转程序：
 > 1. **感知难题与问题觉察（A Felt Difficulty）** 探究始于某种困惑、怀疑或经验中的不确定状态。
-> 2. **明确与定位问题（Definition and Location of the Problem）** 对困惑进行理性梳理，将其精确界定为一个具体的学术或[[Praxis|实践]]问题。
+> 2. **明确与定位问题（Definition and Location of the Problem）** 对困惑进行理性梳理，将其精确界定为一个具体的学术或实践问题。
 > 3. **提出[[Hypothesis|假设]]与可能解法（Suggestion of Possible Solution）** 结合已有知识与联想，提出解决该难题的替代方案或猜测。
 > 4. **推演假设的逻辑后果（Development by Reasoning of Bearings）** 运用推理展开假设，分析“如果采用该方案，将会产生何种连带后果”。
 > 5. **实证检验与观察验证（Further Observation and Experimentation）** 通过进一步的实验与实践行动，验证假设是否符合现实，从而接受或拒绝它。[[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 37-38)]]
@@ -114,5 +113,5 @@ updated: 2026-08-14
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 系统梳理了[[John Dewey|杜威]][[Reflexivity|反思性]]思维的 5 大步骤及其在[[Active Learning|主动学习]]模型中的[[Praxis|实践]]应用。
+> - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 系统梳理了[[John Dewey|杜威]][[Reflexivity|反思性]]思维的 5 大步骤及其在[[Active Learning|主动学习]]模型中的实践应用。
 > - [[Argument_Hofer_1997_RER|Hofer & Pintrich (1997)]] — 梳理了反思性思维如何演变为衡量大学生“劣构问题辩护能力”的心理学发展模型。

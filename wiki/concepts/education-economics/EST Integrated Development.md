@@ -17,6 +17,7 @@ tags:
   - theme/systems-theory
 related_concepts:
   - "[[Quality Education]]"
+  - "[[Creativity]]"
   - "[[Causality]]"
 related_theories:
   - "[[Coupling Coordination Theory]]"
@@ -61,7 +62,7 @@ updated: 2026-06-12
 > [!line-b] 关系命题：两两耦合机制
 > - **教育 ↔ 科技** 教育提供科技所需的人力资本基础，科技通过信息技术赋能教育现代化和人才培养模式更新
 > - **教育 ↔ 人才** 教育是人才生产的主渠道，高技能人才的持续供给反过来提升教育系统的质量和声誉
-> - **科技 ↔ 人才** 科技创新需要高技能人才的主动性和创造力，科技发展创造的新产业和新场景反过来重塑人才需求结构
+> - **科技 ↔ 人才** 科技创新需要高技能人才的主动性和[[Creativity|创造力]]，科技发展创造的新产业和新场景反过来重塑人才需求结构
 >
 > 三对关系中任一环节薄弱都会通过系统耦合效应拉低整体水平。[[Argument_Fan_Song_Zhai_2024_RSEE|(Fan et al., 2024, pp. 62–64)]]
 

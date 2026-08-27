@@ -67,7 +67,7 @@ updated: 2026-06-01
 ## 概念辨析
 
 > [!example]
-> - vs [[Discursive Stratification]]：话语分层是更广义的分析路径——强调所有话语[[Praxis|实践]]如何建构社会等级。[[Champ|场域]]图像是话语分层的一种**特定机制**——通过制造垂直的视觉秩序来具体操作等级建构
+> - vs [[Discursive Stratification]]：话语分层是更广义的分析路径——强调所有话语实践如何建构社会等级。[[Champ|场域]]图像是话语分层的一种**特定机制**——通过制造垂直的视觉秩序来具体操作等级建构
 > - vs [[Performativity of Measurement]]：测量的履行性关注指标如何改变被测量者的行为——教授因 [[Research Excellence Framework|REF]] 而改变研究方向。场域图像关注更宏观的认知层面——排名如何改变整个社会对高等教育层级秩序的认知框架
 > - vs 社会分层（social stratification）：社会分层通常被理解为客观的位置分布。场域图像强调位置分布的**认知前提**——人们必须首先"看见"层级，层级才能产生社会效应
 

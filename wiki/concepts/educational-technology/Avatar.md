@@ -19,7 +19,6 @@ related_concepts:
   - "[[Externalization]]"
   - "[[Emergence]]"
   - "[[Ideal Speech Situation]]"
-  - "[[Praxis]]"
   - "[[Informed Consent]]"
 related_theories: []
 related_methods:
@@ -33,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-19
-updated: 2026-07-19
+updated: '2026-08-27'
 ---
 
 # Avatar
@@ -107,7 +106,7 @@ updated: 2026-07-19
 > 化身提供的匿名性不仅是技术特征，更创造了特定类型的沟通条件，这些条件在规范层面与哈贝马斯[[Ideal Speech Situation|理想言说情境]]的原则深度契合。
 
 > [!claim] [[Jürgen Habermas|Habermas]] (1979, 1984); Castells (2009)
-> **匿名性促进自由表达** 化身提供的匿名性使参与者在探索敏感或争议性议题时感到更安全。化身沟通是社交性的私有化（Castells, 2009, p. 389）的例子，与理想言说情境的原则深度契合：参与者享有自由进入话语、检查可疑主张、评估解释和改变规范的自由，共识仅源于更好论证的力量，而非参与者的位置或政治权力。在真实世界群体互动中因伦理或[[Praxis|实践]]原因不可行的研究——如探索公民身份、宗教认同和政治价值观——通过化身匿名性成为可能（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19|Cohen et al., 2011, Ch. 19, pp. 157–159]]）。
+> **匿名性促进自由表达** 化身提供的匿名性使参与者在探索敏感或争议性议题时感到更安全。化身沟通是社交性的私有化（Castells, 2009, p. 389）的例子，与理想言说情境的原则深度契合：参与者享有自由进入话语、检查可疑主张、评估解释和改变规范的自由，共识仅源于更好论证的力量，而非参与者的位置或政治权力。在真实世界群体互动中因伦理或实践原因不可行的研究——如探索公民身份、宗教认同和政治价值观——通过化身匿名性成为可能（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19|Cohen et al., 2011, Ch. 19, pp. 157–159]]）。
 
 ---
 

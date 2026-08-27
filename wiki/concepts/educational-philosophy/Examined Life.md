@@ -26,7 +26,6 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Academic Freedom]]"
   - "[[Conatus]]"
-  - "[[Praxis]]"
   - "[[Socratic Elenchus]]"
   - "[[Sage]]"
   - "[[Avatar]]"
@@ -41,6 +40,7 @@ related_concepts:
   - "[[Buen Vivir]]"
   - "[[Freedom of the Learner]]"
   - "[[Effective Teaching]]"
+  - "[[Praxis]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -71,7 +71,7 @@ updated: 2026-07-25
 > [!concept-lens] 概念透镜
 > - **含义** 拒绝盲从传统、教条与表面现象，主张个体应运用理性通过自我反思与[[Dialogue in Education|对话]]探究审视生活与知识的根基。
 > - **用途** 用于解释西方文化中[[Critical Thinking|批判性思维]]与[[Academic Freedom|学术自由]]的产[[Conatus|生机]]制，以及比较东西方学习取向的差异。
-> - **边界** 古典省察常带有精英主义色彩（如柏拉图将深度省察限定于护卫者阶层）；现代主动学习则主张将省察生活拓展为所有个体打破沉默、追求意识觉醒与[[Praxis|实践]]的民主权利。
+> - **边界** 古典省察常带有精英主义色彩（如柏拉图将深度省察限定于护卫者阶层）；现代主动学习则主张将省察生活拓展为所有个体打破沉默、追求意识觉醒与实践的民主权利。
 
 > [!citation-card]- 关键表述：苏格拉底的终极宣告
 > 我告诉你们，每天讨论美德以及你们听到我审视自己和他人所谈论的其他主题，是人类最大的善，而未经省察的生活是不值得过的。（柏拉图，《申辩篇》 38a；引自 Li, 2012, p. 31; [[Argument_Darwish_2009_Queens|Darwish, 2009, p. 2]]）
@@ -157,7 +157,7 @@ updated: 2026-07-25
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 批判古典教育哲学将省察生活工具化为维护静态社会阶层的手段。
 
 > [!warning] 未解问题与边界
-> 普遍的“省察一切”是否会在没有伦理锚定或[[Praxis|实践]]（Praxis）承诺的情况下导向虚无主义或纯粹形式化的批判辩驳（如现代某些课程口头强调批判却缺乏社会变革动作），仍是教育哲学中的核心悬案。
+> 普遍的“省察一切”是否会在没有伦理锚定或实践（[[Praxis]]）承诺的情况下导向虚无主义或纯粹形式化的批判辩驳（如现代某些课程口头强调批判却缺乏社会变革动作），仍是教育哲学中的核心悬案。
 
 ---
 

@@ -19,7 +19,6 @@ tags:
   - theory/transfer-frameworks
   - comparative-education
 related_concepts:
-  - "[[Praxis]]"
   - "[[Shape-Shifting]]"
   - "[[Champ]]"
   - "[[Policy Borrowing]]"
@@ -28,6 +27,7 @@ related_concepts:
   - "[[Cross-National Attraction]]"
   - "[[Recontextualization]]"
   - "[[Transitology]]"
+  - "[[Praxis]]"
   - "[[Floating Signifier]]"
   - "[[Paradigm]]"
   - "[[Governance by Spin]]"
@@ -73,7 +73,7 @@ updated: '2026-07-24'
 ## 定义
 
 > [!def] 核心定义
-> 转移、转译、转化（Transfer, Translation, Transformation，简称 3T 框架）由 [[Robert Cowen]] (2009) 提出，是一个用来追踪教育思想、制度与[[Praxis|实践]]在跨境流动中如何被重新释义、二次建构与形态变形（[[Shape-Shifting|Shape-Shifting]]）的三阶段过程分析模型。（[[Argument_Cowen_2009_CE|Cowen, 2009, p.255]]）
+> 转移、转译、转化（Transfer, Translation, Transformation，简称 3T 框架）由 [[Robert Cowen]] (2009) 提出，是一个用来追踪教育思想、制度与实践在跨境流动中如何被重新释义、二次建构与形态变形（[[Shape-Shifting|Shape-Shifting]]）的三阶段过程分析模型。（[[Argument_Cowen_2009_CE|Cowen, 2009, p.255]]）
 
 > [!concept-lens] 概念透镜
 > - **含义** 将复杂的教育知识跨国流动分解为三个串联的分析切片：物理空间跨越（转移）、本土文本重[[Coding in Qualitative Research|编码]]（转译）与本土权力[[Champ|场域]]重塑（转化）。
@@ -125,7 +125,7 @@ updated: '2026-07-24'
 > [!feature] 核心要素
 > - **转移 (Transfer) — 空间跨越与话语抽离** 发生在“[[Space of Flows and Space of Places|流动空间]]”中的物理或虚拟移动（Space-gate Moment）。理念常被抽离特定历史经验变成高可塑性的[[Floating Signifier|漂浮能指]]，受国际关系[[Paradigm|范式]]塑造。（[[Argument_Beech_2009_CE|Beech, 2009, p.349]]）
 > - **转译 (Translation) — 国家政策重编与话语杂糅** 接受国行动者在官方政策与法律中重新[[Coding in Qualitative Research|编码]]外来思想（Chameleon Process）。政策制定者常用[[Governance by Spin|舆论操控]]手段制造杂糅话语，受既有教育传统（如[[Encyclopaedism|百科全书主义]]）过滤（[[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009]]）。
-> - **转化 (Transformation) — 地方[[Praxis|实践]]落地与微观权力挤压** 新语境中社会、政治、经济权力的压缩以及微观物质约束施加的深层结构形态重塑（Metamorphoses），其结果分布在[[Going Native|本土化]]到“灭绝”的光谱上（[[Argument_Cowen_2009_CE|Cowen, 2009, p.255]]）。
+> - **转化 (Transformation) — 地方实践落地与微观权力挤压** 新语境中社会、政治、经济权力的压缩以及微观物质约束施加的深层结构形态重塑（Metamorphoses），其结果分布在[[Going Native|本土化]]到“灭绝”的光谱上（[[Argument_Cowen_2009_CE|Cowen, 2009, p.255]]）。
 
 > [!logic-map]- 要素关系与传导链
 > ```mermaid
@@ -157,7 +157,7 @@ updated: '2026-07-24'
 > - **权力压缩与“本质[[Shape-Shifting|形变]]／灭绝”（Transformation）** 本土社会经济权力施加重力挤压，导致产物在“[[Going Native|本土化]]”到“灭绝”的光谱上发生形变。
 
 > [!claim] [[Argument_Beech_2009_CE|Beech (2009, p.348)]]
-> **三层地理社会空间映射** 将 3T 三阶段分别映射至“[[Global Policy Space|全球政策空间]]—国家官方政策—微观学校[[Praxis|实践]]”三个具体的社会空间，解释了拉美课程改革中[[Floating Signifier|漂浮能指]]如何转化为学校层面的再生产障碍。
+> **三层地理社会空间映射** 将 3T 三阶段分别映射至“[[Global Policy Space|全球政策空间]]—国家官方政策—微观学校实践”三个具体的社会空间，解释了拉美课程改革中[[Floating Signifier|漂浮能指]]如何转化为学校层面的再生产障碍。
 
 ---
 
@@ -203,7 +203,7 @@ updated: '2026-07-24'
 > [!dev-timeline] 概念演变与学术脉络
 > - **1990s–2000s — 转移主题的重新聚焦 (Pre-3T Era)** Schriewer (1990, 2000), Phillips (1993, 2004), Popkewitz (1998, 2005) 重新确立转移主题的重要性，超越传统二元借用研究。（[[Argument_Cowen_2009_CE|Cowen, 2009, pp.316–317]]）
 > - **2009 — Cowen 3T 模型的正式提出 (Theory Formulation)** [[Robert Cowen]] 提出 3T 框架，将转移主题升级为“空间转移、变色龙式转译、权力压缩下的转化”三阶段过程模型。（[[Argument_Cowen_2009_CE|Cowen, 2009, p.255]]）
-> - **2009 — Beech 的空间与[[Praxis|实践]]拓展 (Empirical Mapping)** [[Jason Beech]] 结合 Castells 的[[Network Society|网络社会]]与[[Space of Flows and Space of Places|流动空间]]理论，将 3T 阶段分别映射至“[[Global Policy Space|全球政策空间]]—国家官方政策—微观学校实践”三个地理与社会空间。（[[Argument_Beech_2009_CE|Beech, 2009, p.348]]）
+> - **2009 — Beech 的空间与实践拓展 (Empirical Mapping)** [[Jason Beech]] 结合 Castells 的[[Network Society|网络社会]]与[[Space of Flows and Space of Places|流动空间]]理论，将 3T 阶段分别映射至“[[Global Policy Space|全球政策空间]]—国家官方政策—微观学校实践”三个地理与社会空间。（[[Argument_Beech_2009_CE|Beech, 2009, p.348]]）
 > - **2023 — Klerides 的国际关系[[Paradigm|范式]]引入 (Theoretical Expansion)** Klerides 从[[Wight's Three Traditions of International Theory|国际关系理论]]视角拓展 3T 分析范式，划分为[[Realism in International Relations|现实主义]]、[[Rationalism in International Relations|理性主义]]与[[Revolutionism|革命主义]]三大路径。（[[Argument_Klerides_2023_CE|Klerides, 2023, pp.422–427]]）
 > - **2024 — Zhou & Westberg 的中国民国实证深化 (Historical Application)** [[Argument_Zhou_2024_CE|Zhou & Westberg (2024)]] 运用 3T 框架精准拆解民国时期（1919–1928）[[John Dewey|杜威]][[Pragmatic Paradigm|实用主义]]在华转移、去政治化转译与转化为[[Scientific Attitude|科学态度]]的历史过程。
 

@@ -16,7 +16,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Justificatory Standards]]"
   - "[[Epistemic Resources]]"
-  - "[[Praxis]]"
   - "[[Dialogue in Education]]"
   - "[[Constructivist Paradigm]]"
   - "[[Questionnaire]]"
@@ -47,7 +46,7 @@ updated: 2026-08-19
 > [!concept-lens] 概念透镜
 > - **含义** 塑造认知行为的宏观社会文化容器。
 > - **用途** 用于解释为什么同样一批学生，在强调“批判性质询”的科学课和强调“权威记忆”的另一门课中，会表现出完全不同的讨论模式；因为他们在顺应不同环境的认识论氛围。
-> - **边界** 在[[Integrative Pluralism|整合的多元主义]]框架中，它是最高聚合层级（活动系统层级，Activity System）的专属概念。它不同于存在于学生脑海中的[[Epistemic Resources|认识论资源]]，而是悬浮于集体[[Praxis|实践]]与制度中的外部结构。
+> - **边界** 在[[Integrative Pluralism|整合的多元主义]]框架中，它是最高聚合层级（活动系统层级，Activity System）的专属概念。它不同于存在于学生脑海中的[[Epistemic Resources|认识论资源]]，而是悬浮于集体实践与制度中的外部结构。
 
 ---
 

@@ -7,7 +7,7 @@ title: "Argument_Bouckaert_2023_OECD"
 argument_key: "Argument_Bouckaert_2023_OECD"
 argument_display_title: "The assessment of students' creative and critical thinking skills in higher education across OECD countries: A review of policies and related practices (OECD Education Working Papers No"
 argument_kind: "report"
-argument_related_count: 89
+argument_related_count: 92
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -111,18 +111,24 @@ related_facts:
   - "[[HEFCE Learning Gain Project]]"
   - "[[Voluntary System of Accountability]]"
   - "[[Bologna Process]]"
+  - "[[Norwegian Agency for Quality Assurance in Education]]"
   - "[[CRITHINKEDU Project]]"
   - "[[CALOHEE Project]]"
   - "[[CREATES Project]]"
+  - "[[Higher Education Authority]]"
   - "[[HEInnovate]]"
   - "[[European Standards and Guidelines]]"
+  - "[[Council for Aid to Education]]"
+  - "[[Higher Education Funding Council for England]]"
   - "[[InTASC Standards]]"
+  - "[[Educational Testing Service]]"
   - "[[Melbourne Declaration]]"
   - "[[New Teacher Education Scheme]]"
   - "[[Graduate Outcomes Survey]]"
   - "[[Irish Survey of Student Engagement]]"
   - "[[Studiebarometeret]]"
   - "[[Exame Nacional de Desempenho dos Estudantes]]"
+  - "[[Centro Nacional de Evaluación para la Educación Superior]]"
   - "[[Rainbow Project]]"
   - "[[Gaokao]]"
   - "[[TESTA Project]]"
@@ -243,8 +249,8 @@ updated: 2026-08-27
 > [!contrast-table] 高等教育治理中三类政策工具的设计特征与运作机制对比
 > | 政策工具类别 | 核心治理目标 | 政策实施载体与机制 | 对学业评价的实际穿透力 | 制度优势与主要短板 | 典型国际与国别案例 |
 > |---|---|---|---|---|---|
-> | **法规监管（Regulation）** | 划定最低办学红线与质量准入门槛，建立制度问责底线。 | 外部质量保障（External Quality Assurance, QA）审计、专业认证（Accreditation）、国家准入资格考试。 | **弱** 侧重办学条件与管理流程等输入/过程指标，难以穿透至微观课堂评价设计。 | **优势** 具有硬性法律约束力与强制合规效应。<br>**短板** 易诱发形式主义合规，抑制教学创新。 | 欧洲质保标准（ESG 2015）、德国专业/系统认证、挪威教育质量保障局（Norwegian Agency for Quality Assurance in Education, NOKUT）机构质保审计、德国国家考试（Staatsexamen）。 |
-> | **财政支持（Financial Support）** | 引导高校与科研团队投身评价技术攻关，孵化优秀实践范式。 | 竞争性教改基金、跨校协同研发专项、基础设施与数字化测评资助。 | **中至强** 能直接催生高信效度的评价工具与学科方案，但推广依赖持续经费供给。 | **优势** 激励导向明确，能激发学术共同体研发活力。<br>**短板** 项目周期结束后成果扩散与制度化面临断崖风险。 | 欧盟 Erasmus+ 战略资助（[[CRITHINKEDU Project\|高等教育课程批判性思维项目]]（Critical Thinking in Higher Education Curricula, CRITHINKEDU）、[[CALOHEE Project\|欧洲高等教育学习成果测度与比较项目]]（Measuring and Comparing Achievements of Learning Outcomes in Higher Education in Europe, CALOHEE）、[[CREATES Project\|欧洲共创自主学习项目]]（Creating Responsive, Engaging and Active Tertiary Education with Students, CREATES））、爱尔兰高等教育局（Higher Education Authority, HEA）转型基金、美国“力争上游”评估资助。 |
+> | **法规监管（Regulation）** | 划定最低办学红线与质量准入门槛，建立制度问责底线。 | 外部质量保障（External Quality Assurance, QA）审计、专业认证（Accreditation）、国家准入资格考试。 | **弱** 侧重办学条件与管理流程等输入/过程指标，难以穿透至微观课堂评价设计。 | **优势** 具有硬性法律约束力与强制合规效应。<br>**短板** 易诱发形式主义合规，抑制教学创新。 | 欧洲质保标准（ESG 2015）、德国专业/系统认证、[[Norwegian Agency for Quality Assurance in Education\|挪威教育质量保障局]]（Norwegian Agency for Quality Assurance in Education, NOKUT）机构质保审计、德国国家考试（Staatsexamen）。 |
+> | **财政支持（Financial Support）** | 引导高校与科研团队投身评价技术攻关，孵化优秀实践范式。 | 竞争性教改基金、跨校协同研发专项、基础设施与数字化测评资助。 | **中至强** 能直接催生高信效度的评价工具与学科方案，但推广依赖持续经费供给。 | **优势** 激励导向明确，能激发学术共同体研发活力。<br>**短板** 项目周期结束后成果扩散与制度化面临断崖风险。 | 欧盟 Erasmus+ 战略资助（[[CRITHINKEDU Project\|高等教育课程批判性思维项目]]（Critical Thinking in Higher Education Curricula, CRITHINKEDU）、[[CALOHEE Project\|欧洲高等教育学习成果测度与比较项目]]（Measuring and Comparing Achievements of Learning Outcomes in Higher Education in Europe, CALOHEE）、[[CREATES Project\|欧洲共创自主学习项目]]（Creating Responsive, Engaging and Active Tertiary Education with Students, CREATES））、[[Higher Education Authority\|爱尔兰高等教育局]]（Higher Education Authority, HEA）转型基金、美国“力争上游”评估资助。 |
 > | **信息引导（Information）** | 提升院校与教师评价素养，形成全行业质量共识与自律文化。 | 最佳实践指南、国家质量准则、机构自评诊断工具（如 [[HEInnovate]] 创新高校自评框架）、高校质量信息公开。 | **间接但深远** 依托专业声誉与同伴压力推动自发变革，重塑教师教学评价理念。 | **优势** 尊重高校自治与学术自由，阻力最小。<br>**短板** 缺乏强制执行力，对惰性较强的传统院校约束有限。 | 英国 QAA《学业评价建议与指导》、欧盟/[[OECD]] HEInnovate 自评工具、美国州级政策意向引导。 |
 >
 > （pp. 5–8）
@@ -297,13 +303,13 @@ updated: 2026-08-27
 
 > [!case] 意、英、美对高阶能力评价的[[Going Native|本土化]]探索与实践
 > - **意大利 ANVUR [[TECO Project|TECO]] 试验（2012–2015）：情境化表现测试跨国移植**
->   - **制度背景与[[Transfer Translation Transformation|转译]]** 意大利国家大学与科研评估署（Agenzia Nazionale di Valutazione del Sistema Universitario e della Ricerca, ANVUR）探索国家级本科质量监测，与美国援助教育理事会（Council for Aid to Education, CAE）深度合作，将大学学习评估（[[Collegiate Learning Assessment|CLA+]]）系统翻译与文化本土化为意大利大学生素养测验（Test sulle Competenze, TECO）。
+>   - **制度背景与[[Transfer Translation Transformation|转译]]** 意大利国家大学与科研评估署（Agenzia Nazionale di Valutazione del Sistema Universitario e della Ricerca, ANVUR）探索国家级本科质量监测，与[[Council for Aid to Education|美国援助教育理事会]]（Council for Aid to Education, CAE）深度合作，将大学学习评估（[[Collegiate Learning Assessment|CLA+]]）系统翻译与文化本土化为意大利大学生素养测验（Test sulle Competenze, TECO）。
 >   - **实证检验** 2015 年在全意 23 所大学对 6,000 多名本科生实施全真施测，成功验证了在欧洲大陆大学语境下运用真实文档库情境化表现任务（Performance Tasks）测量批判性思维与书面沟通的[[Ecological Validity|生态效度]]与测量[[Reliability|信度]]。（p. 17）
-> - **英国英格兰高等教育拨款委员会学习增益项目（Higher Education Funding Council for England, HEFCE Learning Gain Project, 2014–2018）：纵向队列增益追踪**
->   - **资金与协作规模** 英格兰高等教育拨款委员会（HEFCE）注资 400 万英镑设立国家专项，联合全英 70 多所高校开展 13 个试点项目，探索标准化测试、纵向学业增益、[[Student Engagement|学生投入]]与[[Learning Analytics|学习分析]]大数据的多元路径。
+> - **英国[[Higher Education Funding Council for England|英格兰高等教育拨款委员会]]学习增益项目（Higher Education Funding Council for England, HEFCE Learning Gain Project, 2014–2018）：纵向队列增益追踪**
+>   - **资金与协作规模** [[Higher Education Funding Council for England|英格兰高等教育拨款委员会]]（HEFCE）注资 400 万英镑设立国家专项，联合全英 70 多所高校开展 13 个试点项目，探索标准化测试、纵向学业增益、[[Student Engagement|学生投入]]与[[Learning Analytics|学习分析]]大数据的多元路径。
 >   - **增益机制探索** 其中两个项目重点将 CLA+ 适配至英国高教语境，开展大一入学至大三毕业的纵向队列追踪，精确绘制了批判性思维在本科阶段的增长轨迹，有力推动了参与高校对日常考核中缺乏高阶思维任务的制度反思。（pp. 17–18）
-> - **美国州际新教师评估与支持联盟（[[InTASC Standards|InTASC]]）与美国教育考试服务中心（ETS）教师教学知识测验（TTK）：生成性情境执业评估**
->   - **跨州政策联盟** 美国各州首席教育官理事会（Council of Chief State School Officers, CCSSO）下属州际新教师评估与支持联盟（InTASC）联合 15 个州教育厅与美国教育考试服务中心（Educational Testing Service, ETS）联合研制。
+> - **美国州际新教师评估与支持联盟（[[InTASC Standards|InTASC]]）与[[Educational Testing Service|美国教育考试服务中心]]（ETS）教师教学知识测验（TTK）：生成性情境执业评估**
+>   - **跨州政策联盟** 美国各州首席教育官理事会（Council of Chief State School Officers, CCSSO）下属州际新教师评估与支持联盟（InTASC）联合 15 个州教育厅与[[Educational Testing Service|美国教育考试服务中心]]（Educational Testing Service, ETS）联合研制。
 >   - **[[Construct|构念]]与题型创新** 将“促进学生批判性思维与创造性探究的教学能力”确立为核心胜任力，摒弃纯客观选择题，采用高度真实的教学情境生成性任务（Constructed-Response Items），要求考生对学习困难诊断、教学策略调整与思维支架设计进行开放论述。
 >   - **多维评价体系** 结合学科内容测试与真实教学实践档案袋（Teaching Portfolios），构建起贯通师范教育与教师准入资格认证的[[Authentic Assessment|表现性评价]]链条。（p. 18）
 
@@ -316,7 +322,7 @@ updated: 2026-08-27
 > | **1. 采纳综合政策议程**<br>(Comprehensive Agenda) | 向高等教育部门发出优先培养高阶思维与对齐评价的明确政治信号，作为顶层政策框架。 | 发布国家白皮书、中长期教育战略规划，明确将批判与创新确立为全系统质量核心基准。 | 澳大利亚[[Melbourne Declaration\|《墨尔本宣言》]]、爱尔兰《面向2030年国家高等教育战略》、日本《第三期教育振兴基本计划》、挪威《高等教育质量文化白皮书》。 |
 > | **2. 优化国家资格框架**<br>(Enhance NQFs) | 将创造力与批判性思维界定为核心学习成果，并细化不同学段与学科领域的阶梯式进阶水平。 | 建立清晰的分级描述符，将抽象素养逐级[[Transfer Translation Transformation\|转译]]为可观察的行为表征与学科成果要求。 | 新西兰资格框架（NZQF）、澳大利亚资格框架（AQF）、奥地利[[New Teacher Education Scheme\|《新教师教育方案》]]。 |
 > | **3. 调整质量保障与认证**<br>(Align QA & Accreditation) | 引导与激励高校反思现有考核实践，将高阶思维评价纳入质保指标，破除评价制度障碍。 | 在外部质保与专业认证中增设过程性评价指标，破除单一笔试合规导向，给予考核创新空间。 | 美国弗吉尼亚州本科教育质量与学习评价政策（SCHEV）、宾夕法尼亚州州立高等教育系统（Pennsylvania State System of Higher Education, PASSHE）《2020战略计划》。 |
-> | **4. 改造政府主导的统考**<br>(Adapt Large-Scale Exams) | 认证个人在高等教育各阶段获得的高级思维能力，并为系统政策提供技能发展诊断数据。 | 入学统考增设开放表现任务与答辩；毕业统考引入跨学科探究；开展全国学生通用素养调查。 | 爱沙尼亚（Riigieksamid）/瑞士（Matura）/法国（Grand Oral）入学联考、澳大利亚课程体验问卷（[[Course Experience Questionnaire\|CEQ]]）与毕业生成果调查（[[Graduate Outcomes Survey\|GOS]]）、爱尔兰学生投入调查（[[Irish Survey of Student Engagement\|ISSE]]）、挪威（[[Studiebarometeret]]）调查、巴西（[[Exame Nacional de Desempenho dos Estudantes\|ENADE]]）。 |
+> | **4. 改造政府主导的统考**<br>(Adapt Large-Scale Exams) | 认证个人在高等教育各阶段获得的高级思维能力，并为系统政策提供技能发展诊断数据。 | 入学统考增设开放表现任务与答辩；毕业统考引入跨学科探究；开展全国学生通用素养调查。 | 爱沙尼亚（Riigieksamid）/瑞士（Matura）/法国（[[French Baccalaureat 2021 Reform|Grand Oral 会考大口试]]）入学联考、澳大利亚课程体验问卷（[[Course Experience Questionnaire\|CEQ]]）与毕业生成果调查（[[Graduate Outcomes Survey\|GOS]]）、爱尔兰学生投入调查（[[Irish Survey of Student Engagement\|ISSE]]）、挪威（[[Studiebarometeret]]）调查、巴西（[[Exame Nacional de Desempenho dos Estudantes\|ENADE]]）。 |
 > | **5. 资助创新评价研发**<br>(Fund Innovative R&D) | 积累信效度兼备的高阶思维测评方法，培育高校利益相关者专业能力，实现优秀经验跨校推广。 | 设立国家竞争性专项基金，资助跨校学者研制学科化量规、表现任务与自适应测评工具。 | 德国 [[KoKoHs Program\|KoKoHs]] 研究计划、意大利 ANVUR [[TECO Project\|TECO]] 测试、英国 [[HEFCE Learning Gain Project\|HEFCE 学习增益项目]]、美国 InTASC 教师教学知识测验（TTK）。 |
 >
 > （p. 20, Fig. 1）
@@ -342,7 +348,7 @@ updated: 2026-08-27
 > | **经典心理测量学客观测试** | 沃森-格拉瑟批判性思维评估（Watson-Glaser Critical Thinking Appraisal, [[Watson-Glaser Critical Thinking Appraisal\|WGCTA]]）<br>[[California Critical Thinking Skills Test\|加州批判性思维技能测验]]（California Critical Thinking Skills Test, CCTST）<br>[[Cornell Critical Thinking Test\|康奈尔批判性思维测验]]（Cornell Critical Thinking Test） | Watson & Glaser (1980)<br>Facione (1992)<br>Ennis et al. (2005) | 推理、识别前提[[Hypothesis\|假设]]、演绎推理、解释与论据评价。 | 客观多项选择题（MCQs）。 | **优势** 测量[[Reliability\|信度]]极高、成本极低、可完全自动化阅卷，适合大规模标准化横向对比。 | **局限** 局限于封闭选项“再认”，无法测量论据“主动生成”与真实劣构问题解决，构念代表性不足。 |
 > | **混合型情境分析测验** | [[Halpern Critical Thinking Assessment\|霍尔珀恩批判性思维测评]]（Halpern Critical Thinking Assessment, HCTA）<br>[[Critical Thinking Assessment Test\|田纳西理工批判性思维评估测验]]（Critical Thinking Assessment Test, CAT）<br>[[Ennis-Weir Critical Thinking Essay Test\|恩尼斯-威尔批判性思维论文测验]]（Ennis-Weir Critical Thinking Essay Test） | Halpern (2010)<br>Stein et al. (2007)<br>Ennis & Weir (1985) | 论证分析、假设检验、概率推理、决策制定与创造性问题解决。 | 开放情境简答题 + 客观选答题混合编排；或短篇论述。 | **优势** 兼顾生成性与客观性，[[Ecological Validity\|生态效度]]显著高于纯单选题。 | **局限** 人工判卷与量规培训成本较高，题库迭代与跨评卷人一致性维护复杂。 |
 > | **高等教育增值表现性测试** | 大学学习评估（Collegiate Learning Assessment, [[Collegiate Learning Assessment\|CLA / CLA+]]）<br>[[ETS HEIghten Critical Thinking Assessment\|ETS HEIghten 批判性思维测评]]<br>[[Collegiate Assessment of Academic Proficiency\|大学学业能力测评]]（Collegiate Assessment of Academic Proficiency, CAAP）<br>[[ETS Proficiency Profile\|ETS 学术水平概况测验]]（Measure of Academic Proficiency and Progress, MAPP / ETS Proficiency Profile, EPP） | CAE (2013)<br>ETS / Loyalka et al. (2021)<br>美国大学入学考试机构（American College Testing, ACT, 2006）<br>ETS (2010) | 复杂现实问题解决、批判性分析、决策论证与书面沟通。 | 60 分钟真实文档库情境表现任务（Performance Tasks, PT） + 30 分钟选答题。 | **优势** 模拟真实决策情境，生态效度高，专门用于测量大学全周期纵向[[Learning Gain\|学习增益]]。 | **局限** 阅卷成本昂贵；在低利害系统监测中学生作答努力度严重不足，易导致测验偏差。 |
-> | **专业领域选拔与准入高利害考试** | [[Thinking Skills Assessment\|剑桥思维技能测评]]（Thinking Skills Assessment, TSA）<br>[[Medical College Admission Test\|医学院入学考试]]（Medical College Admission Test, MCAT）<br>[[BioMedical Admissions Test\|生物医学入学考试]]（BioMedical Admissions Test, BMAT）<br>[[Law National Aptitude Test\|英国法学国家能力测试]]（Law National Aptitude Test, LNAT）<br>墨西哥国家研究生入学考试（Examen Nacional de Ingreso al Posgrado, EXANI-III）<br>[[Graduate Skills Assessment\|澳大利亚毕业生技能测验]]（Graduate Skills Assessment, GSA） | 剑桥大学考评部<br>美国医学院协会（Association of American Medical Colleges, AAMC）<br>Cambridge Assessment<br>Pearson / LNAT 财团<br>墨西哥国家高等教育评估中心（Centro Nacional de Evaluación para la Educación Superior, CENEVAL）<br>澳大利亚教育研究委员会（Australian Council for Educational Research, ACER; Hambur, 2002） | 批判性分析与推理技能模块（Critical Analysis and Reasoning Skills, CARS）、论点重构、科学推理、数据推断、论述表达。 | 复杂专业文本长篇阅读理解 + 论述性小论文。 | **优势** 高利害选拔机制驱动学生付出最大努力度，[[Predictive Validity\|预测效度]]与选拔区分度高。 | **局限** 偏向特定专业入学门槛筛选，难以作为大学日常教学改进的常态化工具。 |
+> | **专业领域选拔与准入高利害考试** | [[Thinking Skills Assessment\|剑桥思维技能测评]]（Thinking Skills Assessment, TSA）<br>[[Medical College Admission Test\|医学院入学考试]]（Medical College Admission Test, MCAT）<br>[[BioMedical Admissions Test\|生物医学入学考试]]（BioMedical Admissions Test, BMAT）<br>[[Law National Aptitude Test\|英国法学国家能力测试]]（Law National Aptitude Test, LNAT）<br>墨西哥国家研究生入学考试（Examen Nacional de Ingreso al Posgrado, EXANI-III）<br>[[Graduate Skills Assessment\|澳大利亚毕业生技能测验]]（Graduate Skills Assessment, GSA） | 剑桥大学考评部<br>美国医学院协会（Association of American Medical Colleges, AAMC）<br>Cambridge Assessment<br>Pearson / LNAT 财团<br>[[Centro Nacional de Evaluación para la Educación Superior\|墨西哥国家高等教育评估中心]]（Centro Nacional de Evaluación para la Educación Superior, CENEVAL）<br>澳大利亚教育研究委员会（Australian Council for Educational Research, ACER; Hambur, 2002） | 批判性分析与推理技能模块（Critical Analysis and Reasoning Skills, CARS）、论点重构、科学推理、数据推断、论述表达。 | 复杂专业文本长篇阅读理解 + 论述性小论文。 | **优势** 高利害选拔机制驱动学生付出最大努力度，[[Predictive Validity\|预测效度]]与选拔区分度高。 | **局限** 偏向特定专业入学门槛筛选，难以作为大学日常教学改进的常态化工具。 |
 > | **课程嵌入式真实性评分量规** | AAC&U VALUE 批判性思维量规（[[VALUE Rubrics]]）<br>欧洲 CALOHEE 批判性思维评价参照框架 | 全美大学与学院协会（AAC&U, Rhodes, 2009）<br>欧洲 Tuning / CALOHEE 协会 (Wagenaar, 2018) | 阐明问题、证据运用、情境与假设识别、确立个人立场、得出严谨结论。 | 4 级阶梯表现描述符（Benchmark → Capstone），直接嵌入真实[[Homework\|作业]]与论文。 | **优势** 深度融入日常专业教学与评价，直接指导师生形成性反馈与反思改进。 | **局限** 评分信度依赖校内与跨校教师评分校准研讨（Calibration），横向可比性需持续维护。 |
 >
 > （pp. 21–28）
@@ -377,7 +383,7 @@ updated: 2026-08-27
 > - **瑞士高中毕业与大学入学统考（Matura）**
 >   - **独立研究硬性门槛** 瑞士各州长期坚持将学术研究项目列为高中毕业与升入大学的法定[[Necessary and Sufficient Conditions|必要条件]]。
 >   - **毕业大论文（Matura Paper）与现场答辩** 每位考生必须在教师指导下独立完成一篇耗时数月、符合学术规范的跨学科研究论文，并面向校内外专家委员会进行现场陈述与答辩质规，全面考察[[Problem Finding|问题界定]]、证据检索、批判审视与创造性论证能力。（p. 24）
-> - **法国国家高中会考全面改革（Baccalauréat 2021）**
+> - **[[French Baccalaureat 2021 Reform|法国国家高中会考全面改革]]（French Baccalauréat 2021 Reform, Baccalauréat 2021）**
 >   - **平时与统考再平衡** 强制推行平时过程性考核（Contrôle continu，占总成绩 40%），打破“单一终结性考试决定命运”的制度惯性。
 >   - **标志性“大口试”（Grand Oral）模块** 考生须围绕高中最后两年主修的两门专业学科自主确定跨学科探究课题，并在会考中完成 20 分钟全真现场答辩：包含 5 分钟脱稿立论陈述、10 分钟与考官委员会展开深度思辨质辩、5 分钟阐述该研究与未来大学专业学术规划的关联，直接评估逻辑推理、思维敏捷度与即席学术表达。（pp. 24–25）
 > - **韩国大学入学选拔自主化与综合录取改革（2008 起）**

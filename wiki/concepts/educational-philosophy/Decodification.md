@@ -19,8 +19,8 @@ related_concepts:
   - "[[Problem-Posing Education]]"
   - "[[Dialogue in Education]]"
   - "[[Conscientization]]"
-  - "[[Praxis]]"
   - "[[Epistemology]]"
+  - "[[Praxis]]"
   - "[[Active Learning]]"
 related_theories: []
 related_methods:
@@ -34,7 +34,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-02
-updated: 2026-08-02
+updated: '2026-08-27'
 ---
 
 # Decodification（解码）
@@ -49,7 +49,7 @@ updated: 2026-08-02
 > [!concept-lens] 概念透镜
 > - **含义** 指向对编码中介符号进行社会学与政治学结构拆解的共同认知跃升过程。
 > - **用途** 帮助受教者揭示隐藏在日常生活现象背后的不公结构，促成[[Conscientization|批判意识觉醒]]。
-> - **边界** 不等于传统的语法分析或文本解析；必须包含对现实社会权力的批判与[[Praxis|实践]]指向。
+> - **边界** 不等于传统的语法分析或文本解析；必须包含对现实社会权力的批判与实践指向。
 
 > [!citation-card]- 关键表述
 > 在解码过程中，学习者重新感知他们此前感知到的现实；通过对这一现实的批判性拆解，他们开始将其视为一个可被变革的人类产物。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 61)]]
@@ -58,7 +58,7 @@ updated: 2026-08-02
 
 > [!boundary]- 概念边界
 > - 不等于 传统文本解析 — 传统解析理解既定文本原意，而解码揭示现实背后的权力压迫结构。
-> - 不等于 纯粹智力操练 — 解码直接指向改变现实的[[Praxis|实践]]行动。
+> - 不等于 纯粹智力操练 — 解码直接指向改变现实的实践行动。
 
 ---
 
@@ -78,7 +78,7 @@ updated: 2026-08-02
 > [!feature] 核心要素
 > - **结构跃升（Structural Elevation）** 从“照片里有一块泥砖”拆解为“烧砖者为何住不起砖房”的结构分析。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 48)]]
 > - **横向合作（Horizontal Dialogue）** 师生作为平等探究主体共同解码，拒绝教师单向灌输结论。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 47)]]
-> - **[[Praxis|实践]]指向（Praxis Orientation）** 解码理性觉察直接转化为改变压迫现状的[[Praxis|实践]]行动。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 61)]]
+> - **实践指向（[[Praxis]] Orientation）** 解码理性觉察直接转化为改变压迫现状的实践行动。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 61)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid

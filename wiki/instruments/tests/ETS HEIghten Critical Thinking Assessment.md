@@ -38,6 +38,7 @@ related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Educational Testing Service]]"
   - "[[OECD]]"
 related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
@@ -53,7 +54,7 @@ updated: 2026-08-27
 
 ## 工具定位
 
-> [!instrument-profile] ETS HEIghten [[Critical Thinking Assessment]]
+> [!instrument-profile] [[Educational Testing Service|ETS]] HEIghten [[Critical Thinking Assessment]]
 > - **工具类型** 计算机化情境能力测评（Computer-Based Scenario Assessment）。
 > - **开发者与年份** 美国教育考试服务中心（Educational Testing Service, ETS, 2015）/ Ou Lydia Liu et al.
 > - **测量目的** 评估高等教育阶段本科生的通识核心[[Critical Thinking|批判性思维]]与分析推理能力，专门用于测量院校增值效应与跨国大学生[[Learning Gain|学习增益]]。
@@ -89,7 +90,7 @@ updated: 2026-08-27
 >
 > | 研究 | 工具版本 | 样本与用途 | 测量属性 | 关键结果 |
 > |---|---|---|---|---|
-> | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] | ETS HEIghten 机考版 | [[OECD]] 报告分析大规模标准化增值测试在高等教育中的应用[[Paradigm\|范式]] | 跨国机考能力测试 | 综述了 Loyalka et al. (2021) 运用 HEIghten 在俄、中、印、美四国 STEM 本科生中开展的超大规模纵向追踪，证实其在跨国对比中的优良常模[[Reliability\|信度]] |
+> | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] | [[Educational Testing Service\|ETS]] HEIghten 机考版 | [[OECD]] 报告分析大规模标准化增值测试在高等教育中的应用[[Paradigm\|范式]] | 跨国机考能力测试 | 综述了 Loyalka et al. (2021) 运用 HEIghten 在俄、中、印、美四国 STEM 本科生中开展的超大规模纵向追踪，证实其在跨国对比中的优良常模[[Reliability\|信度]] |
 
 ---
 

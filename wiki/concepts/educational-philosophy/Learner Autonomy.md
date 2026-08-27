@@ -30,8 +30,8 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Constructivist Paradigm]]"
   - "[[Necessary and Sufficient Conditions]]"
-  - "[[Praxis]]"
   - "[[IB Diploma Programme]]"
+  - "[[Higher-Order Thinking Skills]]"
 related_theories:
   - "[[Explicit Critical Thinking Instruction]]"
 related_facts: []
@@ -105,11 +105,11 @@ updated: 2026-07-02
 
 ## 与批判性思维的关系
 
-自主性与[[Critical Thinking|批判性思维]]紧密关联：自主性[[Praxis|实践]]要求学习者能够批判性地反思自身信念和知识主张。Little（1991）将自主性视为"批判性反思的能力"。[[Theory of Knowledge|知识论]]（TOK）课程作为IB 的[[Explicit Critical Thinking Instruction|显性批判性思维教学]]载体，其核心设计——质疑信念、反思日常经验、[[Creativity|创造性]]沟通——直接服务于自主性的培养。
+自主性与[[Critical Thinking|批判性思维]]紧密关联：自主性实践要求学习者能够批判性地反思自身信念和知识主张。Little（1991）将自主性视为"批判性反思的能力"。[[Theory of Knowledge|知识论]]（TOK）课程作为IB 的[[Explicit Critical Thinking Instruction|显性批判性思维教学]]载体，其核心设计——质疑信念、反思日常经验、[[Creativity|创造性]]沟通——直接服务于自主性的培养。
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 检验澳大利亚 [[IB Diploma Programme|IB DP]] 中 ToK 课程与[[Critical Thinking|批判性思维]]技能发展的关系，间接涉及自主性学习者的高阶思维培养。
+> - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 检验澳大利亚 [[IB Diploma Programme|IB DP]] 中 ToK 课程与[[Critical Thinking|批判性思维]]技能发展的关系，间接涉及自主性学习者的[[Higher-Order Thinking Skills|高阶思维]]培养。

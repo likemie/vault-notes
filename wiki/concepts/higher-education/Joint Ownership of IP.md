@@ -40,7 +40,7 @@ updated: 2026-06-03
 ## 定义
 
 > [!info]
-> 知识产权的共同所有（Joint Ownership of IP）指一项专利或版权由两个或以上的实体共同拥有。在[[University-Industry Collaboration|产学合作]]中，共同所有通常发生在[[Foreground IP|前景知识产权]]（Foreground IP, FIP）由大学和企业双方的研究人员混合创造的情形下。在美国产学合作[[Praxis|实践]]中，FIP 的所有权通常遵循"所有权跟随发明人"原则：每位发明人将其权利转让给雇主，因此由双方人员共同创造的 FIP 归双方共同所有([[Argument_Susalka_Carbone_2025_IP_Web|Susalka & Carbone, 2025, pp.279–280]])。
+> 知识产权的共同所有（Joint Ownership of IP）指一项专利或版权由两个或以上的实体共同拥有。在[[University-Industry Collaboration|产学合作]]中，共同所有通常发生在[[Foreground IP|前景知识产权]]（Foreground IP, FIP）由大学和企业双方的研究人员混合创造的情形下。在美国产学合作实践中，FIP 的所有权通常遵循"所有权跟随发明人"原则：每位发明人将其权利转让给雇主，因此由双方人员共同创造的 FIP 归双方共同所有([[Argument_Susalka_Carbone_2025_IP_Web|Susalka & Carbone, 2025, pp.279–280]])。
 
 ## 法律含义
 

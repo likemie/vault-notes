@@ -18,7 +18,6 @@ tags:
   - theme/educational-policy
   - region/global
 related_concepts:
-  - "[[Praxis]]"
   - "[[Performance Indicators]]"
   - "[[Examination-Oriented Education]]"
   - "[[Formative Assessment]]"
@@ -28,6 +27,7 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Critical Thinking]]"
   - "[[Global Education Reform Movement]]"
+  - "[[Higher-Order Thinking Skills]]"
   - "[[New Public Management]]"
   - "[[Decodification]]"
   - "[[Performativity]]"
@@ -66,7 +66,7 @@ updated: 2026-07-21
 ## 定义
 
 > [!def] 核心定义
-> 基于考试的问责制（Test-Based Accountability）指以学生标准化考试成绩评估、监督和规制学校与教师教学[[Praxis|实践]]的制度安排。问责（Accountability）的核心在于角色承担者对其行为负责、接受审查，并在未满足标准时可能受到制裁（Kogan, 1986, p. 25）。在教育语境中，这一机制将学生考试成绩作为衡量教育质量的核心指标，是全球教育体系中的显著特征之一（Darling-Hammond, 2004）。
+> 基于考试的问责制（Test-Based Accountability）指以学生标准化考试成绩评估、监督和规制学校与教师教学实践的制度安排。问责（Accountability）的核心在于角色承担者对其行为负责、接受审查，并在未满足标准时可能受到制裁（Kogan, 1986, p. 25）。在教育语境中，这一机制将学生考试成绩作为衡量教育质量的核心指标，是全球教育体系中的显著特征之一（Darling-Hammond, 2004）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 该概念指向将标准化考试成绩制度化地与学校评价、资源分配、校长考核及教师绩效挂钩的治理机制。
@@ -118,7 +118,7 @@ updated: 2026-07-21
 ### 命题一　高利害考试问责倾向于窄化课程并挤压探究性教学法
 
 > [!concept-lens] 课程窄化与教学法挤压
-> 这类命题探讨外部高利害问责对课堂教学[[Praxis|实践]]的塑造，重点关注[[Performance Indicators|绩效指标]]对教学目标的替换以及对创新教学法的抑制。
+> 这类命题探讨外部高利害问责对课堂教学实践的塑造，重点关注[[Performance Indicators|绩效指标]]对教学目标的替换以及对创新教学法的抑制。
 
 > [!claim] [[Stephen Ball|Ball, S.]] J.
 > **表演性文化与教学窄化** 依赖考试成绩规制教学会产生表演性文化，将教学焦点窄化为官方绩效指标可测量的目标，挤压了更广泛的教育目的。[[Argument_Wang_2025_CE|(Ball, 2003, 引自 Wang & McLaughlin, 2025, p. 588)]]
@@ -160,7 +160,7 @@ updated: 2026-07-21
 | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 |---|---|---|---|
 | **课程窄化与异化** | 高利害问责导致教学窄化与表演性文化 | 强管制、单指标高利害评价场景 | Ball (2003); Schweisfurth (2013) |
-| **情境化并行与改造** | 建立共享目标可驱动问责与改革协同 | 考试转向高阶思维考核或学校重构规则场景 | Boardman & Woodruff (2004); Solomon & Lewin (2016); [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]] |
+| **情境化并行与改造** | 建立共享目标可驱动问责与改革协同 | 考试转向[[Higher-Order Thinking Skills\|高阶思维]]考核或学校重构规则场景 | Boardman & Woodruff (2004); Solomon & Lewin (2016); [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]] |
 | **全球中观嵌入** | 国际比较评估推动国家层面问责建制 | 全球教育治理与 GERM 扩散场景 | [[Argument_Li_2025_HSSC\|Li et al. (2025)]] |
 
 ---
@@ -179,7 +179,7 @@ updated: 2026-07-21
 
 > [!debates] 学术争议
 >
-> > [!axis] 对教育质量与教学[[Praxis|实践]]的影响
+> > [!axis] 对教育质量与教学实践的影响
 > > 焦点在于考试问责是提供了清晰的教学框架支持，还是导致了课程窄化与应试异化。
 > >
 > > - **Ball（2003）** 认为问责导致表演性文化与课程窄化。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 588)]]
@@ -193,7 +193,7 @@ updated: 2026-07-21
 
 > [!critique] 外部批评
 > - **师魂剥离与表演性（[[Performativity]]）** 外部问责迫使教师将精力投入到迎合评估指标上，削弱了基于[[Professional Judgment|专业判断]]的教育伦理。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 588)]]
-> - **高阶思维忽视与[[Rote Learning|死记硬背]]依赖** 传统的问责测试往往偏重低阶记忆，促使学校依赖高密度的讲授与死记硬背。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 594)]]
+> - **[[Higher-Order Thinking Skills|高阶思维]]忽视与[[Rote Learning|死记硬背]]依赖** 传统的问责测试往往偏重低阶记忆，促使学校依赖高密度的讲授与死记硬背。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 594)]]
 
 > [!warning] 适用局限
 > - **外部问责不能自动转化为内部改进** 仅靠行政惩罚与分数挂钩无法提升教学能力；缺乏校本领导力与评价规则重构时，问责压力容易导致教学行为的防御性退缩([[Argument_Wang_2025_CE|Wang & McLaughlin, 2025, pp. 597-598]])。
@@ -215,7 +215,7 @@ updated: 2026-07-21
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]] — 运用[[Third Generation Activity Theory|第三代活动理论]]揭示中国学校在考试问责下建立共享目标、推动以学生为中心教育扩展性改造的[[Praxis|实践]]机制。
+> - [[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]] — 运用[[Third Generation Activity Theory|第三代活动理论]]揭示中国学校在考试问责下建立共享目标、推动以学生为中心教育扩展性改造的实践机制。
 > - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — 揭示 [[PISA]] 比较逻辑如何在中观治理层面嵌入国家考试问责体系。
 > - [[Civil Service Examination]] — 中国古代科举制度为现代考试问责与考试文化奠定了深厚的历史传统。
 > - [[Quality Education]] — 中国素质教育改革试图调和[[Examination-Oriented Education|应试教育]]与学生全面发展的张力。

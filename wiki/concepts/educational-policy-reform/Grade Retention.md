@@ -20,7 +20,6 @@ tags:
   - level/k12
   - region/global
 related_concepts:
-  - "[[Praxis]]"
   - "[[Evidence-Based Education]]"
   - "[[Literature Review]]"
 related_theories: []
@@ -43,7 +42,7 @@ updated: 2026-05-24
 ## 定义
 
 > [!info]
-> Grade retention 指让学生重复一个已经就读过的年级，通常被学校系统用来处理学习困难或学业未达标问题。Dachet and Baye 在讨论法语比利时教育改革时将其界定为“让学生重复一年”的[[Praxis|实践]]，并把它作为[[Evidence-Based Education|证据本位教育]]在既有教育制度中难以落地的典型例子([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, p.165]])。
+> Grade retention 指让学生重复一个已经就读过的年级，通常被学校系统用来处理学习困难或学业未达标问题。Dachet and Baye 在讨论法语比利时教育改革时将其界定为“让学生重复一年”的实践，并把它作为[[Evidence-Based Education|证据本位教育]]在既有教育制度中难以落地的典型例子([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, p.165]])。
 
 在[[Evidence-Based Education|证据本位教育]]讨论中，留级的重要性不只在于它是一项学生分流或补救措施，更在于它展示了“研究证据”和“学校惯例”之间可能长期脱节：即使已有大量研究质疑其效果，某些教育系统仍会继续依赖它来处理学生差异和失败风险([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, p.165]])。
 

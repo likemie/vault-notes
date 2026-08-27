@@ -88,7 +88,7 @@ updated: 2026-06-10
 ### 大学作为锚点
 
 > [!abstract]
-学院和大学是区域创新生态系统的关键"锚点"（anchors）——斯坦福大学之于硅谷，MIT 之于波士顿。研究型大学中的创造性互动催生新技术和新公司，后者可能进一步衍生更多企业。Fischman et al.（2014）和 Roberts & Eesley（2009）考察了 MIT 的创新战略，强调[[Academic Freedom|学术自由]]如何催化了学生、教师和校友的创造力（pp.12–13）。
+学院和大学是区域创新生态系统的关键"锚点"（anchors）——斯坦福大学之于硅谷，MIT 之于波士顿。研究型大学中的[[Creativity|创造性]]互动催生新技术和新公司，后者可能进一步衍生更多企业。Fischman et al.（2014）和 Roberts & Eesley（2009）考察了 MIT 的创新战略，强调[[Academic Freedom|学术自由]]如何催化了学生、教师和校友的创造力（pp.12–13）。
 
 > 大学的学科结构会影响生态系统的自增强程度。滑铁卢大学的工程学院规模较大，其文化期待教师从事[[Evaluation Research|应用研究]]、与产业保持紧密联系，这种文化已显示出"自增强"（self-reinforcing）特征：已有的[[University-Industry Collaboration|产学合作]]成功吸引更多教师参与，教师的参与又进一步巩固了合作文化([[Argument_Dean_2025_UICollaborationSupport|Dean et al., 2025, p.246]])。相反，文学院等合作体量较低的院系则难以进入这一正反馈循环——合作越少，行政支持资源越少，教师越缺乏合作经验，形成负向锁定（pp.246–247）。这意味着生态系统内部的"锚点效应"不是均匀分布的，大学内部各学院对生态系统的参与深度可能存在显著差异。
 
@@ -157,7 +157,7 @@ Scott & Kirst（2017）在 Higher Education and Silicon Valley 中指出，基�
 
 > [!tip]-
 - [[Triple Helix]] — Etzkowitz & Leydesdorff（1995）将大学-产业-政府之间的反馈循环描述为相互支撑的三重螺旋，是理解创新生态系统制度结构的核心理论（p.13）
-- Schumpeter（1942）的创新理论 — "创造性破坏"（creative destruction）是创新生态系统动态演化的理论基础（p.12）
+- Schumpeter（1942）的创新理论 — "[[Creativity|创造性]]破坏"（creative destruction）是创新生态系统动态演化的理论基础（p.12）
 - Ridley（2020）How Innovation Works — 强调自由、实验和开放竞争对创新的决定性作用（p.12）
 - [[Systems of Innovation|创新系统理论]]（Lundvall et al., 2002）— 创新生态系统的近邻理论，将创新理解为多行动者在制度环境下的集体学习活动，两者共享多行动者网络的分析视角([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.29–31]])
 - 创新模型的演变 — 人们对"创新如何发生"的理解经历了从线性（技术推动→需求拉动）到耦合（Kline & Rosenberg, 1986）再到系统集成与网络化（1990s）的演进，最终在 1990 年代形成了[[Systems of Innovation|创新系统]]理论框架。这些模型在现实中并非替代关系而是共存关系([[Argument_Caraca_2009_TFSC|Caraça et al., 2009]]; [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.27–29]])

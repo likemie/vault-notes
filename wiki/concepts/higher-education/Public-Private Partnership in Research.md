@@ -58,7 +58,7 @@ PPP 在 2020 年代中期的美国经历了显著的制度化浪潮：2022 年 [
 ## 概念辨析
 
 > [!example]
-> - vs 双边[[University-Industry Collaboration|产学合作]]（Bilateral UI Collaboration）— 双边合作只涉及一所大学和一家企业，治理结构简单，决策速度快。PPP 引入政府作为第三方，放大了资金规模但也引入了多方治理的复杂性。[[Argument_Ramming_2025_CorporateSupport|Ramming (2025, p.233)]]指出[[Praxis|实践]]者应"考虑和创造超越双边大学协议的资金和合作选项"
+> - vs 双边[[University-Industry Collaboration|产学合作]]（Bilateral UI Collaboration）— 双边合作只涉及一所大学和一家企业，治理结构简单，决策速度快。PPP 引入政府作为第三方，放大了资金规模但也引入了多方治理的复杂性。[[Argument_Ramming_2025_CorporateSupport|Ramming (2025, p.233)]]指出实践者应"考虑和创造超越双边大学协议的资金和合作选项"
 > - vs [[Precompetitive Research|前竞争研究]]（Precompetitive Research）— 前竞争研究是 PPP 的典型[[Research Scope|研究范围]]定位：当 PPP 包含直接竞争的公司时，将研究限定在前竞争阶段（共同基础设施、行业外部性、互操作性等）是管理"竞争与合作共存"的关键策略（p.234）
 > - vs [[Triple Helix|三重螺旋]]（Triple Helix）— 三重螺旋是描述政产学三者互动关系的理论框架（Etzkowitz & Leydesdorff, 1995）；PPP 是该框架在组织层面的制度化实现形式：规定了资金分担、决策权和知识产权归属的具体规则
 
@@ -67,7 +67,7 @@ PPP 在 2020 年代中期的美国经历了显著的制度化浪潮：2022 年 [
 ## 核心要素
 
 > [!abstract]
-> [[Argument_Ramming_2025_CorporateSupport|Ramming (2025, pp.233–234)]]从企业 [[Academic Engagement Team|AET]] [[Praxis|实践]]者的角度提出了参与和设计 PPP 时必须评估的四个决策维度：
+> [[Argument_Ramming_2025_CorporateSupport|Ramming (2025, pp.233–234)]]从企业 [[Academic Engagement Team|AET]] 实践者的角度提出了参与和设计 PPP 时必须评估的四个决策维度：
 
 - **治理（Governance）** 多方代表参与的提案范围界定、提案评审与选择、资助后管理——在多方利益相关者代表参与的环境中，每个环节的决策都比双边合作复杂得多。治理结构需要明确权限边界、决策层级（战略 vs 运营）和代表的轮换机制
 - **竞争理论（Theory of Competition）** 许多 PPP 包含直接彼此竞争的公司——如 [[Semiconductor Research Corporation|SRC]] 成员包括 Intel 和其直接竞争对手。竞争与合作的共存需要精心管理。可选策略包括：将[[Research Scope|研究范围]]限定在前竞争阶段、分摊共同基础设施成本、解决生态系统层面的问题（互操作性、碳足迹、公共安全等）
@@ -90,7 +90,7 @@ Intel and Microsoft 于 2008 年联合资助 UC Berkeley and UIUC 的 [[Universa
 
 ### 国家战略制度化（NSTC 模式）
 
-2022 年 [[CHIPS and Science Act|CHIPS 与科学法案]]推动建立的国家半导体技术中心（NSTC）代表了 PPP 从一次性项目到持久制度安排的升级：由联邦立法授权、大规模拨款、明确的国家安全和产业战略目标。对半导体行业的 [[Academic Engagement Team|AET]] [[Praxis|实践]]者而言，NSTC 是一个"强制函数"——迫使每个公司重新审视自己的大学合作策略在大型 PPP 框架下的定位（pp.235–236）。
+2022 年 [[CHIPS and Science Act|CHIPS 与科学法案]]推动建立的国家半导体技术中心（NSTC）代表了 PPP 从一次性项目到持久制度安排的升级：由联邦立法授权、大规模拨款、明确的国家安全和产业战略目标。对半导体行业的 [[Academic Engagement Team|AET]] 实践者而言，NSTC 是一个"强制函数"——迫使每个公司重新审视自己的大学合作策略在大型 PPP 框架下的定位（pp.235–236）。
 
 ---
 

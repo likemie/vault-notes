@@ -18,7 +18,6 @@ tags:
   - theme/university-industry-collaboration
   - level/higher-education
 related_concepts:
-  - "[[Praxis]]"
   - "[[Research Translation]]"
   - "[[Implementation Fidelity]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
@@ -51,7 +50,7 @@ updated: 2026-06-05
 ## 定义
 
 > [!info]
-> 吸收能力（Absorptive Capacity）指组织识别、理解、吸收外部知识或信息并将其转化为内部能力以改进[[Praxis|实践]]的组织性特征。这一概念在两种截然不同的组织语境中得到了独立验证：一是 K-12 学区对外部评价证据的吸收和使用([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021]])，二是企业在产学研发合作中对大学研究成果的吸收和商业化（Cohen, Fernandes, & Godinho, 2025）。
+> 吸收能力（Absorptive Capacity）指组织识别、理解、吸收外部知识或信息并将其转化为内部能力以改进实践的组织性特征。这一概念在两种截然不同的组织语境中得到了独立验证：一是 K-12 学区对外部评价证据的吸收和使用([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021]])，二是企业在产学研发合作中对大学研究成果的吸收和商业化（Cohen, Fernandes, & Godinho, 2025）。
 
 两种语境揭示了吸收能力的共同核心：外部知识的价值不会自动实现——它取决于接收组织是否具备理解知识的认知基础、开放沟通的内部渠道、以及将知识付诸行动的制度激励。无论是对学区还是对企业，吸收能力都不是一种个体技能，而是嵌入组织结构、沟通习惯和领导行为中的系统性条件。
 
@@ -83,12 +82,12 @@ updated: 2026-06-05
 > | 关键发现 | 组织学习条件提高证据使用机会 | 吸收能力薄弱的企业被系统排除在资助外 | 接近前沿的行业从间谍中获益最大，与标准 R&D [[Document\|文献]]相反 |
 
 > [!note]
-> 教育组织与技术追赶两个领域对吸收能力的共同发现是：外部知识的价值不会自动实现——它取决于接收方是否具有理解知识、将其与已有知识整合并付诸[[Praxis|实践]]的能力。这一机制在学区评价、[[University-Industry Collaboration|产学合作]]和国家间[[Technology Transfer|技术转移]]三个尺度上均得到了经验验证。
+> 教育组织与技术追赶两个领域对吸收能力的共同发现是：外部知识的价值不会自动实现——它取决于接收方是否具有理解知识、将其与已有知识整合并付诸实践的能力。这一机制在学区评价、[[University-Industry Collaboration|产学合作]]和国家间[[Technology Transfer|技术转移]]三个尺度上均得到了经验验证。
 
 ## 核心要素
 
 > [!abstract]
-> 吸收能力在学区改革中至少包含三个要素：关键伙伴清楚理解项目，伙伴之间保持开放沟通，领导支持使用评价证据进行调整。三者共同影响评价证据是否能进入部门[[Praxis|实践]]、伙伴协作和项目延续决策([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.122-124]])。
+> 吸收能力在学区改革中至少包含三个要素：关键伙伴清楚理解项目，伙伴之间保持开放沟通，领导支持使用评价证据进行调整。三者共同影响评价证据是否能进入部门实践、伙伴协作和项目延续决策([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.122-124]])。
 
 ### 项目理解
 

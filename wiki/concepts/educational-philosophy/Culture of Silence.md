@@ -16,7 +16,6 @@ tags:
   - theme/active-learning
 related_concepts:
   - "[[Critical Pedagogy]]"
-  - "[[Praxis]]"
   - "[[Banking Model of Education]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Growth]]"
@@ -50,7 +49,7 @@ updated: 2026-07-25
 ## 定义
 
 > [!def] 核心定义
-> 沉默文化（Culture of Silence）是[[Paulo Freire|保罗·弗莱雷]]（Paulo Freire）在[[Critical Pedagogy|批判教育学]]与扫盲[[Praxis|实践]]中提炼的核心概念。它指被压迫者与受教育者在社会压迫结构及[[Banking Model of Education|储蓄式教育]]的长期[[Disciplina and Doctrina|规训]]下，丧失了对自身生活现实进行批判性审视与发声的权力，陷入被动接受统治者话语与价值认同的无声状态。在 Freire and Darwish (2009) 的论述中，真正[[Growth|生长]]/成长与[[Active Learning|主动学习]]的发生，本质上就是打破这一沉默文化、实现[[Conscientization|批判意识觉醒]]并迈向[[Praxis|实践]]的过程 [[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 7)]]。
+> 沉默文化（Culture of Silence）是[[Paulo Freire|保罗·弗莱雷]]（Paulo Freire）在[[Critical Pedagogy|批判教育学]]与扫盲实践中提炼的核心概念。它指被压迫者与受教育者在社会压迫结构及[[Banking Model of Education|储蓄式教育]]的长期[[Disciplina and Doctrina|规训]]下，丧失了对自身生活现实进行批判性审视与发声的权力，陷入被动接受统治者话语与价值认同的无声状态。在 Freire and Darwish (2009) 的论述中，真正[[Growth|生长]]/成长与[[Active Learning|主动学习]]的发生，本质上就是打破这一沉默文化、实现[[Conscientization|批判意识觉醒]]并迈向实践的过程 [[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 7)]]。
 
 > [!concept-lens] 概念透镜
 > - **含义** 揭示了被动受教不仅仅是认知层面的知识缺乏，更是政治与精神层面的被剥夺状态（被视作被动的客体 Objects）。
@@ -88,7 +87,7 @@ updated: 2026-07-25
 
 ## 理论与实践路径
 
-> [!influence-path] 理论与[[Praxis|实践]]路径
+> [!influence-path] 理论与实践路径
 > - **理论路径** 成为[[Critical Pedagogy|批判教育学]]、去殖民化理论与后殖民研究中揭露政治与[[Hegemony|文化霸权]]的核心概念。
 > - **实践路径** 指导解放性扫盲运动、社区赋权项目以及民主[[Dialogue in Education|对话]]课堂的设计。
 

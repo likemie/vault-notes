@@ -21,7 +21,6 @@ related_concepts:
   - "[[Humility in Learning]]"
   - "[[Conscientization]]"
   - "[[Empty Knower]]"
-  - "[[Praxis]]"
   - "[[Democratic Education]]"
   - "[[Problem-Posing Education]]"
 related_theories: []
@@ -79,7 +78,7 @@ updated: 2026-08-02
 > [!feature] 核心要素
 > - **权力质询（Critique of Knowledge Power）** 拒绝将既有教材或权威宣讲视为无立场的绝对真理。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 57)]]
 > - **[[Humility in Learning|谦逊]]开放（Epistemic Openness）** 教育者与学生保持对新思想、质疑与好奇心的开放姿态。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 57)]]
-> - **知行统一（Unity of Cognition & Action）** 认识到盲从本身即是对不公妥协，将认知觉察转化为抵制[[Praxis|实践]]。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 61)]]
+> - **知行统一（Unity of Cognition & Action）** 认识到盲从本身即是对不公妥协，将认知觉察转化为抵制实践。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 61)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid

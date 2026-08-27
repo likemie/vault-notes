@@ -9,7 +9,7 @@ title: "Argument_Eacott_2011_JEAH"
 argument_key: "Argument_Eacott_2011_JEAH"
 argument_display_title: "Preparing 'educational' leaders in managerialist times: an Australian story"
 argument_kind: "journal-article"
-argument_related_count: 11
+argument_related_count: 12
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#dbeafe"
@@ -81,7 +81,7 @@ Eacott 的核心论点是：NSW 的校长培养不过是"当代国家对公共�
 > [!info]
 > - **方法** 理论性／批判性政策分析（polemical intervention），以 Bourdieuian 社会理论为分析透镜
 > - **案例** NSW 公立学校系统（澳大利亚最大的学校系统：约 740,000 学生、50,000+ 教师、2,200+ 学校）
-> - **数据来源** 政策文件（NSW *Leading and Managing* 文件、NSW 教师学院专业标准、Scott 的 *Learning Principals* 报告、MCEETYA *Melbourne Declaration*）、联邦/州教育政策、学术[[Document|文献]]
+> - **数据来源** 政策文件（NSW *Leading and Managing* 文件、NSW 教师学院专业标准、Scott 的 *Learning Principals* 报告、MCEETYA *[[Melbourne Declaration]]*）、联邦/州教育政策、学术[[Document|文献]]
 > - **立场声明** 论文明确承认其"对大学本位、理论丰富的项目的潜在特权化"(p.44)，以及其从"对澳大利亚教育领导力培养现状的不满"出发的立场
 
 

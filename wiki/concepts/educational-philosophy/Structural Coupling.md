@@ -18,7 +18,6 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Professional Judgment]]"
   - "[[Ontology]]"
-  - "[[Praxis]]"
   - "[[Effect Size]]"
   - "[[School Leadership]]"
   - "[[Visible Learning]]"
@@ -59,7 +58,7 @@ updated: '2026-05-18'
 
 > [!example] 与相关概念的区别
 > - vs 因果教学模型（causal teaching model） — 因果模型[[Hypothesis|假设]]输入→输出的线性关系；结构耦合强调教学与学习之间的非因果、非线性的系统间关系
-> - vs [[Professional Judgment]] — 结构耦合从[[Ontology|本体论]]角度描述教学与学习的关系性质；专业判断从[[Praxis|实践]]角度描述教师在这种关系中的行动方式
+> - vs [[Professional Judgment]] — 结构耦合从[[Ontology|本体论]]角度描述教学与学习的关系性质；专业判断从实践角度描述教师在这种关系中的行动方式
 
 ## 理论基础
 
@@ -70,7 +69,7 @@ updated: '2026-05-18'
 ## 实证发现
 
 > [!success] 实证发现
-> - [[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019, p.6)]]基于 Luhmann 的理论框架推断：可以识别统计概率（如 Hattie 的[[Effect Size|效应量]]），但不能识别简单的、[[Causality|因果性]]的教学干预与学习成果之间的机制。这一推断的实质意义在于：效应量作为概率信息具有[[Praxis|实践]]价值，但不应被解释为因果知识。
+> - [[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019, p.6)]]基于 Luhmann 的理论框架推断：可以识别统计概率（如 Hattie 的[[Effect Size|效应量]]），但不能识别简单的、[[Causality|因果性]]的教学干预与学习成果之间的机制。这一推断的实质意义在于：效应量作为概率信息具有实践价值，但不应被解释为因果知识。
 
 ## [[Argument_Larsen_2019_EducSci|Larsen (2019)]] 的用法
 

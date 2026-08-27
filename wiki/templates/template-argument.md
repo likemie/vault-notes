@@ -100,7 +100,7 @@ issuing_organization: ""
 
 ## 论证结构
 
-%% 根据论文实际论证方式，综合运用 [!claim]、[!chain-link]、[!warrant]、[!line-a]、[!contrast-table]、[!evidence-grid]、[!logic-map] 等 callout。下面只是最小骨架，不要求每篇都保留同样组合。 %%
+%% 根据论文实际论证方式，综合运用 [!claim]、[!warrant]、[!line-a]、[!contrast-table]、[!evidence-grid]、[!logic-map] 等 callout。只有存在 3–5 个逐层依赖、不可换序并共同指向一个结论的连续链节时，才使用 [!chain-link]；超过 5 项必须合并，无法压缩时改用 logic-map 和分段散文。普通“证据到判断”改用 warrant、evidence-grid 或散文。下面只是最小骨架，不要求每篇都保留同样组合。 %%
 
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
@@ -129,8 +129,9 @@ issuing_organization: ""
 > [!claim] 步骤一主张
 > 写出这一论证步骤的局部主张。
 
-> [!chain-link] 证据到判断
-> 说明关键材料、数据或文本如何支持这一步主张。抽象处加入原文例子或简短教育情境说明。
+> [!evidence-grid]- 支持步骤一主张的证据
+> - **证据一** 记录关键材料、数据或文本，并说明它支持主张的哪一部分。
+> - **证据二** 记录另一项相互独立的支持证据；没有第二项时删除本 callout，改用普通散文。
 
 > [!warrant]- 推理桥梁
 > 说明为什么这组证据足以推出上述判断，指出中间假设、分类标准或解释规则。
@@ -144,8 +145,11 @@ issuing_organization: ""
 > [!claim] 步骤二主张
 > 写出第二步如何推进、修正或限定第一步。
 
-> [!chain-link] 证据到判断
-> 说明这一组证据如何推动论证进入下一层。
+> [!evidence-grid]- 支持步骤二主张的证据
+> - **证据一** 记录推动论证进入下一层的材料、数据或文本。
+
+> [!warrant]- 推理桥梁
+> 说明为什么这些证据足以推进、修正或限定上一阶段判断。
 
 ---
 

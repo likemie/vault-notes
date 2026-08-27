@@ -98,7 +98,7 @@ updated: 2026-08-23
 > 教育目标需要落实为学生实际经历什么、学校为哪些活动保留时间，以及评价承认哪些表现。
 
 > [!claim] [[Alec Peterson|Peterson, A. D. C.]]
-> **课程翻译构成目标的首要检验** 理解、改变和享受环境是一项高度概括的目标，单独陈述无法说明学生会得到何种教育。国家教育系统可以借助法律、师资培养和督学影响整个学校生活，[[International Baccalaureate|国际文凭]]办公室（International Baccalaureate Office，IBO）缺少这些权力，主要通过课程与考试规章发生作用。全人目标因此必须被拆解为学科分布、个人研究、创造与服务、跨学科反思、评价形式和可自由使用的时间，才能进入学校[[Praxis|实践]]。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 33–38)]]
+> **课程翻译构成目标的首要检验** 理解、改变和享受环境是一项高度概括的目标，单独陈述无法说明学生会得到何种教育。国家教育系统可以借助法律、师资培养和督学影响整个学校生活，[[International Baccalaureate|国际文凭]]办公室（International Baccalaureate Office，IBO）缺少这些权力，主要通过课程与考试规章发生作用。全人目标因此必须被拆解为学科分布、个人研究、创造与服务、跨学科反思、评价形式和可自由使用的时间，才能进入学校实践。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 33–38)]]
 
 ---
 

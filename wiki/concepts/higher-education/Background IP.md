@@ -21,7 +21,6 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Foreground IP]]"
   - "[[Freedom to Operate]]"
-  - "[[Praxis]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -52,7 +51,7 @@ updated: 2026-06-03
 ## 限制策略
 
 > [!note]-
-> [[Praxis|实践]]中通常通过多重限制来找到 BIP 条款的中间地带（pp.280–281）：
+> 实践中通常通过多重限制来找到 BIP 条款的中间地带（pp.280–281）：
 
 - **时间限制** 将 BIP 限制在协议生效日已存在的 IP，或至多在协议期内开发的 IP
 - **空间／人员限制** 将 BIP 限制在合作首席研究员（Principal Investigator, PI）实验室内开发的 IP。这是常见的妥协方案

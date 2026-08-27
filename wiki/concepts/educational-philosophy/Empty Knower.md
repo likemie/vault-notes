@@ -20,7 +20,6 @@ related_concepts:
   - "[[Theory of Knowledge]]"
   - "[[Rationalism in International Relations]]"
   - "[[Big Ideas]]"
-  - "[[Praxis]]"
   - "[[Knowledge Questions]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Reflexivity]]"
@@ -80,7 +79,7 @@ updated: 2026-07-13
 
 ### 命题一　空无的认知者预设在课程实践中容易导致理性异化与机械应试
 
-> [!concept-lens] 课程[[Praxis|实践]]中的理性异化
+> [!concept-lens] 课程实践中的理性异化
 > 探讨空无的认知者这一[[Rationalism in International Relations|理性主义]]预设在具体教学环境中如何与应试评估体制发生冲突，以及如何导致学生表面化、策略性地应对[[Knowledge Questions|知识问题]]。
 
 > [!claim] Cole, D. R.

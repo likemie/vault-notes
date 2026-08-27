@@ -26,7 +26,6 @@ related_concepts:
   - "[[Matthew Effect in Academia]]"
   - "[[Knowledge Production]]"
   - "[[Performance Indicators]]"
-  - "[[Praxis]]"
 related_theories:
   - "[[Neo-feudalism in Higher Education]]"
 related_methods: []
@@ -98,5 +97,5 @@ Clark（1983）的三角协调模型，国家权威、市场力量、专业寡�
 - **市场力量的重新定义** 所谓的"市场"主要不是价格驱动的自由竞争，而是国家设计的准市场，[[Performance Indicators|绩效指标]]、排名、评估驱动的拨款
 - **专业寡头的巩固** 在国家和市场的双重转型中，专业寡头（资深教授、精英大学、期刊编辑网络）实际上**增强**了其对学术价值定义的控制。因为准市场的运作需要"质量标准"，而谁来决定这些标准？正是寡头本身
 
-Angermuller进一步指出，学术行动者通过日常的话语[[Praxis|实践]]，使用可用的地位范畴（"Harvard 教授"、"Nature 论文"、"[[Research Excellence Framework|REF]] 4*"）来定位自己和他人，在 Burdon Clark 的国家-市场-专业寡头三角中持续进行着符号位置的协商和争夺([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.807–808]])。
+Angermuller进一步指出，学术行动者通过日常的话语实践，使用可用的地位范畴（"Harvard 教授"、"Nature 论文"、"[[Research Excellence Framework|REF]] 4*"）来定位自己和他人，在 Burdon Clark 的国家-市场-专业寡头三角中持续进行着符号位置的协商和争夺([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.807–808]])。
 

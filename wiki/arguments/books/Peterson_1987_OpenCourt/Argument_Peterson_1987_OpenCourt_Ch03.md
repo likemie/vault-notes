@@ -38,7 +38,6 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Assessment Backwash]]"
   - "[[General Education]]"
-  - "[[Praxis]]"
   - "[[Encyclopaedism]]"
   - "[[Paradigmatic Learning]]"
   - "[[International Schools]]"
@@ -50,6 +49,7 @@ related_concepts:
   - "[[Areas of Knowledge]]"
   - "[[Dialogue in Education]]"
   - "[[Face Validity]]"
+  - "[[Praxis]]"
   - "[[Conatus]]"
 related_theories: []
 related_methods:
@@ -60,14 +60,16 @@ related_persons:
   - "[[William Foote Whyte]]"
   - "[[Kurt Hahn]]"
   - "[[Gerard Renaud]]"
-related_facts: []
+related_facts:
+  - "[[United World Colleges]]"
+  - "[[Educational Testing Service]]"
 related_arguments: []
 sources:
   - "[[books/Peterson_1987_OpenCourt/Peterson_1987_OpenCourt|Peterson_1987_OpenCourt]]"
 part_of: "[[Argument_Peterson_1987_OpenCourt]]"
 status: draft
 created: 2026-08-17
-updated: 2026-08-22
+updated: '2026-08-27'
 ---
 # Argument_Peterson_1987_OpenCourt_Ch03
 
@@ -340,7 +342,7 @@ EE 的早期调整在学生选择、长期投入和整体课程负担之间重�
 
 > [!tension] 早期选择题同时受到课程论与测量技术质疑
 > - **欧洲课程论批评** 一些欧洲教育者把选择题视为带有不良教学反拨的美国输入，担心教师把语言教学压缩为孤立项目训练。设计者以其在整套评价中的低权重回应：当作文、阅读、听力和口语仍占主要位置时，小范围选择题不至于支配课程。
-> - **测量技术批评** 另一方认为 IBO 无法进行充分的[[Pilot Testing|预测试]]和质量控制。原因既包括经费不足，也包括当时没有与 IB 多国考生真正可比的预测试人群。早期试题质量确实低于教育考试服务中心（Educational Testing Service，ETS）和英国普通教育证书考试委员会的标准，部分题目受到批评具有事实根据（pp. 55–56）。
+> - **测量技术批评** 另一方认为 IBO 无法进行充分的[[Pilot Testing|预测试]]和质量控制。原因既包括经费不足，也包括当时没有与 IB 多国考生真正可比的预测试人群。早期试题质量确实低于[[Educational Testing Service|教育考试服务中心]]（Educational Testing Service，ETS）和英国普通教育证书考试委员会的标准，部分题目受到批评具有事实根据（pp. 55–56）。
 
 > [!case] 弗莱彻·沃森（Fletcher Watson）用总评权重重新界定一道问题题目的风险
 > 哈佛大学教授 Watson 把讨论从单题质量转向它在整个文凭中的实际影响。一道受质疑题目只是语言 B 选择题测试 40 题中的一题；选择题部分占语言 B 总分五分之一；语言 B 又是构成文凭总评的六门学科之一。按这一简化结构计算，单题约占总评的 1／1,200。这个判断说明，评价项目需要在整套证据中解释其风险：题目仍应改进，其误差却不会直接等同于文凭判断的全部误差（p. 56）。

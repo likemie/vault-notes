@@ -22,6 +22,7 @@ related_concepts:
   - "[[Enculturation]]"
   - "[[Learning Virtues]]"
   - "[[Cross-cultural Validity]]"
+  - "[[Concept Mapping]]"
   - "[[Humility in Learning]]"
   - "[[Active Learning]]"
   - "[[Lifelong Learning]]"
@@ -117,7 +118,7 @@ Li 随后在与哈佛教育学院的中国同侪讨论时，他们一致认可�
 
 > [!success]
 > ### [[Prototype Methods|原型方法]]研究：好學心作为最大的概念群
-> Li 通过原型方法（prototype methods）对中国和欧裔美国学习词汇进行了系统比较研究([[Argument_Li_2012_Cambridge|Li, 2012, pp.88-97]])。在大学中征集的近 500 个初始学习相关词汇中，经过群体共识筛选获得核心词表（中文 225 个，英文 203 个）。聚类分析产生的概念地图（Figure 3.2）显示：
+> Li 通过原型方法（prototype methods）对中国和欧裔美国学习词汇进行了系统比较研究([[Argument_Li_2012_Cambridge|Li, 2012, pp.88-97]])。在大学中征集的近 500 个初始学习相关词汇中，经过群体共识筛选获得核心词表（中文 225 个，英文 203 个）。聚类分析产生的[[Concept Mapping|概念地图]]（Figure 3.2）显示：
 >
 > ![](https://img.mylikemie.icu/books/Li_2012_Cambridge/figures/Chinese%20Conceptualization%20of%20Learning.png)
 >

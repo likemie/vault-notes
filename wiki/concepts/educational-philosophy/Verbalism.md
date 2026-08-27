@@ -17,8 +17,8 @@ tags:
   - praxis
 related_concepts:
   - "[[Dialogue in Education]]"
-  - "[[Praxis]]"
   - "[[Theory of Knowledge]]"
+  - "[[Praxis]]"
   - "[[Active Learning]]"
 related_theories: []
 related_methods: []
@@ -31,7 +31,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-03
-updated: 2026-08-03
+updated: '2026-08-27'
 ---
 
 # Verbalism（言语主义 / 空谈）
@@ -41,7 +41,7 @@ updated: 2026-08-03
 ## 定义
 
 > [!def] 核心定义
-> **言语主义（Verbalism）**由保罗·[[Paulo Freire|弗莱雷]]在《被压迫者教育学》（2000）中确立。它指在教育与政治讨论中，[[Dialogue in Education|对话]]被剥离了改变现实的行动（Action）而退化为纯粹的空谈或无意义的口头文字游戏。弗莱雷指出，真正的[[Praxis|实践]]是“反思与行动的统一”，若只有反思而缺乏行动，对话就会异化为言语主义。[[Argument_Darwish_2009_Queens|Darwish (2009, p. 48, p. 81)]]
+> **言语主义（Verbalism）**由保罗·[[Paulo Freire|弗莱雷]]在《被压迫者教育学》（2000）中确立。它指在教育与政治讨论中，[[Dialogue in Education|对话]]被剥离了改变现实的行动（Action）而退化为纯粹的空谈或无意义的口头文字游戏。弗莱雷指出，真正的实践是“反思与行动的统一”，若只有反思而缺乏行动，对话就会异化为言语主义。[[Argument_Darwish_2009_Queens|Darwish (2009, p. 48, p. 81)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向只有理性觉察与嘴上批评、却拒绝或缺乏改变压迫结构实际行动的异化病态。
@@ -55,7 +55,7 @@ updated: 2026-08-03
 
 > [!boundary]- 概念边界
 > - 不等于 盲动主义 — 盲动主义牺牲了理智反思进行盲目冲动，而言语主义牺牲了变革行动进行纯文字体操。
-> - 不等于 [[Praxis|实践]] — 实践是理智反思与变革行动的不可分割统一。
+> - 不等于 实践 — 实践是理智反思与变革行动的不可分割统一。
 
 ---
 
@@ -94,7 +94,7 @@ updated: 2026-08-03
 ### 命题一　言语主义通过切断行动维度将对话异化为维持不公现状的假对话
 
 > [!concept-lens] [[Dialogue in Education|对话]]与行动断层维度
-> 探讨言语主义如何通过剥离社会[[Praxis|实践]]，将教育反思退化为象牙塔内的空谈。
+> 探讨言语主义如何通过剥离社会实践，将教育反思退化为象牙塔内的空谈。
 
 > [!claim] [[Paulo Freire|Freire, P.]]
 > **言语主义的假对话本质** 弗莱雷与达维什论证指出，缺乏实践行动的批判思考必将退化为言语主义；如果不把课堂讨论转化为改变不公的社区行动，[[Active Learning|主动学习]]就会陷入假对话的迷局。[[Argument_Darwish_2009_Queens|(Freire, 2000, p. 87; Darwish, 2009, p. 48, p. 81)]]

@@ -14,7 +14,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Epistemological Beliefs]]"
   - "[[Practical Epistemology]]"
-  - "[[Praxis]]"
+  - "[[Creativity]]"
   - "[[Questionnaire]]"
   - "[[Evaluation Research]]"
   - "[[Ontology]]"
@@ -46,7 +46,7 @@ updated: 2026-08-19
 > - **边界** 容易与学生在具体探究任务中实际使用的 [[Practical Epistemology]] 脱节。形式认识论测评经常被批评预设了特定的哲学立场，且脱离了具体探究情境。
 
 > [!boundary]- 概念边界
-> - 不等于 [[Practical Epistemology]]：形式认识论关注远端的专业科学，而实践认识论关注学生自身的知识构建[[Praxis|实践]]。两者之所以脱节，是因为学生常常没有把学校科学（做实验、探究）与专业科学建立本质上的等价连接。
+> - 不等于 [[Practical Epistemology]]：形式认识论关注远端的专业科学，而实践认识论关注学生自身的知识构建实践。两者之所以脱节，是因为学生常常没有把学校科学（做实验、探究）与专业科学建立本质上的等价连接。
 
 ---
 
@@ -54,7 +54,7 @@ updated: 2026-08-19
 
 > [!feature] [[Epistemology|认识论]]的四个共识主题
 > 尽管科学哲学家对细节存在争议，但科学教育界对学生应该掌握的最低限度形式认识论存在四个核心共识：
-> 1. **建构性（Constructed）** 科学知识并非被动发现的事实，而是创造性的社会建构。
+> 1. **建构性（Constructed）** 科学知识并非被动发现的事实，而是[[Creativity|创造性]]的社会建构。
 > 2. **方法多样性（Diverse Methods）** 科学探究不仅只有受控实验，还包含建模、历史推演等多种途径。
 > 3. **知识形式多元（Forms of Knowledge）** 理论、定律和模型具有不同的认识论地位和解释功能。
 > 4. **确定性差异（Varying Certainty）** 所有科学知识都是暂时的（tentative），但不同主张的确凿程度有别。[[Argument_Sandoval_2005_SE|(Sandoval, 2005, p. 637)]]

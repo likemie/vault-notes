@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Policy Entrepreneur]]"
+  - "[[Concept Mapping]]"
   - "[[Realism in International Relations]]"
   - "[[Reference Society]]"
   - "[[Attrition]]"
@@ -60,7 +61,7 @@ updated: 2026-07-13
 >
 > ![](https://img.mylikemie.icu/sources/Rappleye_2006_RCIE/figures/Rappleye_2006_Fig2_Structural_Typology.png)
 > - **Phillips & Ochs (2003, 2004a)** — 将跨国吸引力纳入[[Policy Borrowing|政策借用]]四阶段循环模型，定位为第一阶段
-> - **[[Argument_Rappleye_2006_RCIE|Rappleye (2006)]]** — 提出跨国吸引力情境概念地图（Conceptual Map of the Context of Cross-National Attraction），系统区分结构推力／人的推力、结构阻力／抵制行动者、以及四种吸引力"火花"
+> - **[[Argument_Rappleye_2006_RCIE|Rappleye (2006)]]** — 提出跨国吸引力情境[[Concept Mapping|概念地图]]（Conceptual Map of the Context of Cross-National Attraction），系统区分结构推力／人的推力、结构阻力／抵制行动者、以及四种吸引力"火花"
 
 > [!note]- 国际关系视角下的跨国吸引
 > [[Argument_Klerides_2023_CE|Klerides (2023)]]从[[Wight's Three Traditions of International Theory|国际关系理论]]角度指出，跨国吸引力可被理解为[[Realism in International Relations|现实主义]]比较教育的一个核心表现。在国际无政府状态下，国家将教育视为提升权力能力和维持国际地位的工具，由此驱动对外国教育模式的"贪婪而好奇"的观察（Tröhler, 2023, p.7）。跨国吸引不仅是教育改良的手段，更是国际竞争和生存焦虑的产物。[[Sputnik Shock 1957|Sputnik]] 冲击（[[Sputnik Shock 1957]]）提供了典型例证：苏联卫星发射触发了美国对自身科技教育落后的恐慌，促使美国同时转向苏联的科学教育模式和英国的儿童中心教学法。这一逻辑也解释了"[[Reference Society|参照社会]]"（reference societies）和"反参照社会"（counter reference societies）的形成——国家选择性地关注某些外国教育系统以验证自身位置或建构他者形象([[Argument_Klerides_2023_CE|Klerides, 2023, pp.420–421]])。
@@ -68,7 +69,7 @@ updated: 2026-07-13
 ## 核心要素
 
 > [!abstract] 核心要素
-> [[Argument_Rappleye_2006_RCIE|Rappleye (2006)]] 的概念地图将跨国吸引力的情境分解为以下构成要素（p. 228–234）：
+> [[Argument_Rappleye_2006_RCIE|Rappleye (2006)]] 的[[Concept Mapping|概念地图]]将跨国吸引力的情境分解为以下构成要素（p. 228–234）：
 >
 > ![](https://img.mylikemie.icu/sources/Rappleye_2006_RCIE/figures/Rappleye_2006_Fig3_Conceptual_Map.png)
 
@@ -148,7 +149,7 @@ updated: 2026-07-13
 ## 实证发现
 
 > [!success] 实证发现
-> - **美国 1980 年代对日本教育的吸引力：** Rappleye 以概念地图分析发现，改革方引用的日本范例远多于抵制方；高影响力行动者（白宫、教育部）使用极端修辞（《[[A Nation at Risk 1983|国家在危机中]]》的丑闻化策略）推动改革；抵制方缺乏有力的对立论述（p. 234–235）
+> - **美国 1980 年代对日本教育的吸引力：** Rappleye 以[[Concept Mapping|概念地图]]分析发现，改革方引用的日本范例远多于抵制方；高影响力行动者（白宫、教育部）使用极端修辞（《[[A Nation at Risk 1983|国家在危机中]]》的丑闻化策略）推动改革；抵制方缺乏有力的对立论述（p. 234–235）
 > - **中国晚清对日本教育的吸引力：** 改革派（主张西学）和保守派（维护儒家秩序）出于完全不同的理由都视日本教育为好模型——改革派看到日本的现代化成功，保守派看到日本对儒家传统的保存——这种"不可能联盟"使吸引力转化为大规模借用（p. 233–234）
 > - **德国对综合学校的抵制：** Gymnasium and Realschule 的声望构成"内部满意"的结构性阻力，而独特教育传统的"神话"为抵制行动者提供话语武器（p. 231–232）
 >

@@ -37,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-25
-updated: 2026-07-25
+updated: '2026-08-27'
 ---
 
 # Growth
@@ -47,7 +47,7 @@ updated: 2026-07-25
 ## 定义与译名
 
 > [!def] 核心定义
-> 生长／成长（Growth）是教育哲学中的根本理想与终极标准。在[[John Dewey|杜威]]（John Dewey）的[[Pragmatic Paradigm|实用主义]]教育哲学中，Growth 经典地被翻译为“**生长**”（如著名的命题“教育即生长”，Education is Growth），指儿童以自身经验为中心、在与环境及社区沟通中实现的持续自我重组与自我实现（self-realization）。在[[Paulo Freire|弗莱雷]]（Paulo Freire）与 Darwish (2009) 的[[Critical Pedagogy|批判教育学]]框架中，生长/成长进一步表现为克服社会与传统教育强加的“[[Culture of Silence|沉默文化]]”，实现[[Conscientization|批判意识觉醒]]，并最终通过改造现实不公的[[Praxis|实践]]（Praxis）行动来加以衡量 [[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 7–8, 10)]]。
+> 生长／成长（Growth）是教育哲学中的根本理想与终极标准。在[[John Dewey|杜威]]（John Dewey）的[[Pragmatic Paradigm|实用主义]]教育哲学中，Growth 经典地被翻译为“**生长**”（如著名的命题“教育即生长”，Education is Growth），指儿童以自身经验为中心、在与环境及社区沟通中实现的持续自我重组与自我实现（self-realization）。在[[Paulo Freire|弗莱雷]]（Paulo Freire）与 Darwish (2009) 的[[Critical Pedagogy|批判教育学]]框架中，生长/成长进一步表现为克服社会与传统教育强加的“[[Culture of Silence|沉默文化]]”，实现[[Conscientization|批判意识觉醒]]，并最终通过改造现实不公的实践（[[Praxis]]）行动来加以衡量 [[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 7–8, 10)]]。
 
 > [!concept-lens] 概念透镜
 > - **含义** 拒绝将生长/成长简化为[[Rote Learning|死记硬背]]事实或适应既有社会阶层，强调个体在能动经验与社会参与中的持续重组与政治解放。

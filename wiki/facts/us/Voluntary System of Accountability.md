@@ -34,7 +34,9 @@ related_instruments:
   - "[[Collegiate Assessment of Academic Proficiency]]"
   - "[[ETS Proficiency Profile]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Council for Aid to Education]]"
+  - "[[Educational Testing Service]]"
 related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
 confidence: high
@@ -85,7 +87,7 @@ updated: 2026-08-27
 > [!actor-grid] 实施角色分工
 > - **发起主体** APLU 与 AASCU（代表全美绝大多数公立大学系统）。
 > - **执行主体** 各公立大学教务处、测评办公室与受试师生。
-> - **测评提供商** CAE（提供 [[Collegiate Learning Assessment|CLA+]]）、ACT（提供 [[Collegiate Assessment of Academic Proficiency|CAAP]]）、ETS（提供 [[ETS Proficiency Profile|MAPP]]）。
+> - **测评提供商** [[Council for Aid to Education|CAE]]（提供 [[Collegiate Learning Assessment|CLA+]]）、ACT（提供 [[Collegiate Assessment of Academic Proficiency|CAAP]]）、[[Educational Testing Service|ETS]]（提供 [[ETS Proficiency Profile|MAPP]]）。
 > - **社会受众** 高中毕业生、家长、纳税人与州立法机构。
 
 ---

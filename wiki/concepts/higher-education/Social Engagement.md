@@ -55,7 +55,7 @@ updated: 2026-08-20
 ## 定义
 
 > [!info]
-> 社会性投入（Social Engagement）是[[Student Engagement|学生投入]]理论的两大核心维度之一，指学生向大学中人际互动、课外活动、职业探索和社会融入等方面的教育性[[Praxis|实践]]活动投入的时间和精力——包括加入学生组织与社团、参与实习和志愿服务、与教师和同伴建立关系等（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）。在[[Yajun Zheng|郑雅君]]（2023）的"大学过程"[[Analytic Framework|分析框架]]中，社会性投入与[[Academic Engagement|学业投入]]并列构成"投入过程"的两大分析轴。
+> 社会性投入（Social Engagement）是[[Student Engagement|学生投入]]理论的两大核心维度之一，指学生向大学中人际互动、课外活动、职业探索和社会融入等方面的教育性实践活动投入的时间和精力——包括加入学生组织与社团、参与实习和志愿服务、与教师和同伴建立关系等（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）。在[[Yajun Zheng|郑雅君]]（2023）的"大学过程"[[Analytic Framework|分析框架]]中，社会性投入与[[Academic Engagement|学业投入]]并列构成"投入过程"的两大分析轴。
 
 > [!quote]
 > "学业投入（academic integration/engagement）与社会性投入（social integration/engagement）一般被认为是学生的投入中促进自身发展的两个最重要方面"([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])

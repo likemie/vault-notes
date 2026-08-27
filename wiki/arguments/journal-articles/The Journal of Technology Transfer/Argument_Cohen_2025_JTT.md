@@ -32,6 +32,7 @@ related_concepts:
   - "[[Absorptive Capacity]]"
   - "[[Literature Review]]"
   - "[[Document]]"
+  - "[[Concept Mapping]]"
   - "[[Research Utilization]]"
   - "[[Praxis]]"
   - "[[Responsible Innovation]]"
@@ -137,7 +138,7 @@ UIC 影响测量长期面临三个相互交织的困难。
 
 ---
 
-**前提：UIC 影响的学术讨论处于零散状态，缺少统一的概念地图。**
+**前提：UIC 影响的学术讨论处于零散状态，缺少统一的[[Concept Mapping|概念地图]]。**
 
 不同[[Research Utilization|研究使用]]不同的术语指代实质上相同的现象。例如，一项研究用"创新绩效提升"来描述合作对企业 R&D 产出的促进作用(Fan et al., 2019)，另一项研究用"新产品开发"来描述几乎同一件事(Zhang et al., 2019)。同时，绝大多数研究只从单一利益相关者视角出发——或是产业视角（"合作帮我们赚了多少钱"）、或是大学视角（"合作帮我们发了多少论文"）——而将直接受到合作影响的社区、患者、学生等社会群体排除在分析之外(pp.350–351)。
 

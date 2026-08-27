@@ -20,7 +20,6 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Growth]]"
   - "[[Bildung]]"
-  - "[[Praxis]]"
   - "[[Critical Pedagogy]]"
   - "[[Critical Thinking]]"
   - "[[Ontology]]"
@@ -37,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-13
-updated: 2026-08-20
+updated: '2026-08-27'
 ---
 
 # Conatus
@@ -75,7 +74,7 @@ updated: 2026-08-20
 > 探讨欲力在激发学生本源性学习兴趣和情感能量中的地位，并反思外部理性强制对个体生命力与学习效能的抑制。
 
 > [!claim] Cole, D. R.
-> **内在于无意识情感的本源学习** 欲力构成了学习行为的内在根基。真正的学习并非发生在被外部理性强行拉向普遍性和公民社会的过程，即[[Georg Wilhelm Friedrich Hegel|黑格尔]]式[[Bildung|教化]]的过程中，而是发生于主体内在的无意识情感转化中。以欲力为导向的教育能够让学生审视社区和机构将知识框定在特定位置的权力[[Praxis|实践]]，并转向内在欲望与想象力的解放，从而在本质上抵抗外部理性的学科规训。[[Argument_Cole_2005_JRIE|(Cole, 2005, p. 222)]]
+> **内在于无意识情感的本源学习** 欲力构成了学习行为的内在根基。真正的学习并非发生在被外部理性强行拉向普遍性和公民社会的过程，即[[Georg Wilhelm Friedrich Hegel|黑格尔]]式[[Bildung|教化]]的过程中，而是发生于主体内在的无意识情感转化中。以欲力为导向的教育能够让学生审视社区和机构将知识框定在特定位置的权力实践，并转向内在欲望与想象力的解放，从而在本质上抵抗外部理性的学科规训。[[Argument_Cole_2005_JRIE|(Cole, 2005, p. 222)]]
 
 ---
 

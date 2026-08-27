@@ -24,7 +24,6 @@ related_concepts:
   - "[[Generative Themes]]"
   - "[[Decodification]]"
   - "[[Empty Knower]]"
-  - "[[Praxis]]"
 related_theories: []
 related_methods:
   - "[[Coding in Qualitative Research]]"
@@ -104,7 +103,7 @@ updated: 2026-08-02
 > 探讨叙事病如何切断词汇的探究功能，从而维护现存压迫社会秩序。
 
 > [!claim] [[Paulo Freire|Freire, P.]]
-> **叙事病的驯化本质** 弗莱雷断言，叙事病通过将知识异化为预存存货，消解了语言重构现实的[[Praxis|实践]]力量，迫使受教者被动适应压迫现状，沦为霸权秩序的顺从维护者。[[Argument_Darwish_2009_Queens|(Freire, 2000, p. 71; Darwish, 2009, pp. 45–46)]]
+> **叙事病的驯化本质** 弗莱雷断言，叙事病通过将知识异化为预存存货，消解了语言重构现实的实践力量，迫使受教者被动适应压迫现状，沦为霸权秩序的顺从维护者。[[Argument_Darwish_2009_Queens|(Freire, 2000, p. 71; Darwish, 2009, pp. 45–46)]]
 
 ---
 

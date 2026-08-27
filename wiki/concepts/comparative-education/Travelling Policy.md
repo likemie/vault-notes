@@ -25,13 +25,13 @@ tags:
 related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[Creativity]]"
   - "[[Policy Network]]"
   - "[[Realism in International Relations]]"
   - "[[Policy Borrowing]]"
   - "[[Hypothesis]]"
   - "[[Global Policy Space]]"
   - "[[Recontextualization]]"
-  - "[[Praxis]]"
   - "[[Policy Entrepreneur]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Rationalism in International Relations]]"
@@ -64,7 +64,7 @@ updated: 2026-07-11
 > [!concept-lens] 概念透镜
 > - **非线性流动** 否定了传统线性“输入-输出”或简单“借用-出借”的双边对称模式，认为政策流动是多向、网格式且难以预测的流变过程。(引自 [[Argument_Beech_2009_CE|Beech, 2009]])
 > - **无主权属** 政策在流通过程中由于被不断转译，往往成为“无明确单一源头”与“多重轨迹”的共同体拼贴，即成为“无人拥有却人人效法的改革”（nobody's and everybody's reform）。
-> - **话语中介** 全球性的“流动话语”（flowing discourses，如“[[21st Century Skills and Competencies Discourse|21世纪技能]]”、“创造力”等）充当了政策旅行的催化剂，使地方[[Policy Network|政策网络]]在追求“世界级”标准的焦虑下主动将其嵌入。 (引自 [[Argument_Klerides_2023_CE|Klerides, 2023, pp. 424–425]])
+> - **话语中介** 全球性的“流动话语”（flowing discourses，如“[[21st Century Skills and Competencies Discourse|21世纪技能]]”、“[[Creativity|创造力]]”等）充当了政策旅行的催化剂，使地方[[Policy Network|政策网络]]在追求“世界级”标准的焦虑下主动将其嵌入。 (引自 [[Argument_Klerides_2023_CE|Klerides, 2023, pp. 424–425]])
 
 > [!boundary]- 概念边界
 > 不适用于 — 传统民族国家在 19 世纪（如明治维新）通过单一官方使团针对特定国家开展的、边界清晰的“强主权双边引借鉴”（这主要属于传统[[Realism in International Relations|现实主义]] [[Policy Borrowing]] 的解释范畴）。
@@ -86,7 +86,7 @@ updated: 2026-07-11
 ## 核心要素
 
 > [!feature] 核心要素
-> - **去脉络化与[[Recontextualization|再脉络化]]（Decontextualization & Recontextualization）** 政策模型从其源起国的制度性“土壤”剥离，被提炼为可复制的“最佳[[Praxis|实践]]”话语（去脉络），进入他国后又被注入当地的社会政治博弈中重新阐释（再脉络）。(引自 [[Argument_Beech_2009_CE|Beech, 2009]])
+> - **去脉络化与[[Recontextualization|再脉络化]]（Decontextualization & Recontextualization）** 政策模型从其源起国的制度性“土壤”剥离，被提炼为可复制的“最佳实践”话语（去脉络），进入他国后又被注入当地的社会政治博弈中重新阐释（再脉络）。(引自 [[Argument_Beech_2009_CE|Beech, 2009]])
 > - **[[Policy Entrepreneur|政策企业家]]与超国家网络的代理机制（Policy Entrepreneurs & Transnational Networks）** 政策不再单纯由国家官僚运作，而是由多边机构、NGO、政策企业家和跨国咨询公司等行动者组成的网络节点共同推销与扩散。
 > - **协调与标准化的结构性对齐（Harmonisation & Standardisation）** 在全球或区域空间（如欧洲高等教育区）通过柔性[[Disciplina and Doctrina|规训]]（OMC），迫使主权国家自愿使其国内指标与流动的全球标准对齐。(引自 [[Argument_Klerides_2023_CE|Klerides, 2023, p. 425]])
 
@@ -107,7 +107,7 @@ updated: 2026-07-11
 ### 命题一　旅途政策并非简单的制度复制，而是本土政治力量借用全球话语进行“二次创作”的转译过程
 
 > [!concept-lens] 政策[[Transfer Translation Transformation|转译]]与本土博弈
-> 这一命题分析为何同一政策模型在不同国家呈现出完全相异的[[Praxis|实践]]面貌。
+> 这一命题分析为何同一政策模型在不同国家呈现出完全相异的实践面貌。
 
 > [!claim] [[Gita Steiner-Khamsi|Steiner-Khamsi, G.]] et al.
 > **外生政策的本土政治工具化** 阐明，在全球流动中旅行的教育政策，被接收国吸收的动力往往不是出于技术优化，而是本土政治行动者将其用作“外在合法化”（externalisation）的借口，以压制国内反对意见或换取外部资金援助（如世界银行贷款）。政策一旦落地，便会经历深度的本地化“ Indigenisation ”，与其宣称的全球统一效果产生严重的“实施偏差”（implementation gaps），呈现出混杂（hybridity）的非预期形态。([[Argument_Beech_2009_CE|Beech, 2009]])

@@ -23,7 +23,6 @@ related_concepts:
   - "[[International Baccalaureate]]"
   - "[[IB Diploma Programme]]"
   - "[[Concurrency of Learning]]"
-  - "[[Praxis]]"
   - "[[Knowledge Production]]"
   - "[[Creativity, Action, Service]]"
   - "[[Creativity]]"
@@ -31,6 +30,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Critical Thinking]]"
   - "[[Hypothesis]]"
+  - "[[Praxis]]"
   - "[[Research Question]]"
   - "[[Operationalization]]"
   - "[[Task Structure]]"
@@ -58,7 +58,7 @@ updated: 2026-08-11
 ## 定义
 
 > [!def] 核心定义
-> 知识问题（Knowledge Questions，KQ）是[[Theory of Knowledge|知识论]]（Theory of Knowledge，TOK）课程中关于知识本身的开放且一般化问题。它从具体知识主张或情境出发，追问知识如何形成、获得支持、受到限制或发生变化。问题可以涉及模型、因果、解释、反常、归纳、确定性、不确定性和信念，并由[[Ways of Knowing|认知方式]]与[[Areas of Knowledge|知识领域]]提供分析路径 [[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 35–36)]]。在[[International Baccalaureate|国际文凭]]大学预科项目（[[IB Diploma Programme|International Baccalaureate Diploma Programme]]，IBDP）的[[Concurrency of Learning|并发学习]]（Concurrency of Learning）中，它也作为跨学科反思和[[Praxis|实践]]联动的枢纽 [[Argument_Metli_2022_IJER|(Metli & Akış, 2022, p. 228)]]。
+> 知识问题（Knowledge Questions，KQ）是[[Theory of Knowledge|知识论]]（Theory of Knowledge，TOK）课程中关于知识本身的开放且一般化问题。它从具体知识主张或情境出发，追问知识如何形成、获得支持、受到限制或发生变化。问题可以涉及模型、因果、解释、反常、归纳、确定性、不确定性和信念，并由[[Ways of Knowing|认知方式]]与[[Areas of Knowledge|知识领域]]提供分析路径 [[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 35–36)]]。在[[International Baccalaureate|国际文凭]]大学预科项目（[[IB Diploma Programme|International Baccalaureate Diploma Programme]]，IBDP）的[[Concurrency of Learning|并发学习]]（Concurrency of Learning）中，它也作为跨学科反思和实践联动的枢纽 [[Argument_Metli_2022_IJER|(Metli & Akış, 2022, p. 228)]]。
 
 > [!concept-lens] 概念透镜
 > - **含义** 知识问题把对某一事实或事件的讨论提升为对[[Knowledge Production|知识生产]]、正当化与边界的探究。
@@ -133,7 +133,7 @@ updated: 2026-08-11
 ### 命题二　知识问题作为实现跨组件并发学习（Concurrency of Learning）的认知枢纽
 
 > [!concept-lens] 核心组件联动
-> 知识问题不仅仅是完成 TOK 评估的工具，它还是实现 [[IB Diploma Programme|IBDP]] 中跨组件有机联动的有效认识论桥梁，引导学生将[[Praxis|实践]]经验升华为系统的学术思考。
+> 知识问题不仅仅是完成 TOK 评估的工具，它还是实现 [[IB Diploma Programme|IBDP]] 中跨组件有机联动的有效认识论桥梁，引导学生将实践经验升华为系统的学术思考。
 
 > [!claim] Metli, A. & Akış, D.
 > **作为 [[Creativity, Action, Service|CAS]] 反思向导与 EE 研究灵感的 KQ** 
@@ -172,7 +172,7 @@ updated: 2026-08-11
 > [!evidence-grid] 知识问题在评估与跨组件联动中的应用
 > - **规定题目论文** [[Argument_Hughes_2014_JRIE|Hughes (2014, pp. 38–40)]] 展示知识问题如何组织跨学科论证，并成为论文聚焦程度与分析质量的主要评价对象。
 > - **真实情境展示** [[Argument_Hughes_2014_JRIE|Hughes (2014, pp. 39–40)]] 说明展示如何从特定真实情境识别知识问题，再考察不同观点及分析结果对该情境和其他情境的意义。
-> - **由 [[Theory of Knowledge|TOK]] 启发的 [[Creativity, Action, Service|CAS]] [[Praxis|实践]]** [[Argument_Metli_2022_IJER|Metli & Akış (2022, pp. 228–229)]] 记录了学生利用 KQ（“我们能在多大程度上对过去行为进行道德评判？”）进行伦理探究后，直接发起口述历史的社区 CAS 项目，将[[Epistemology|认识论]]反思转化为具体社会行动。
+> - **由 [[Theory of Knowledge|TOK]] 启发的 [[Creativity, Action, Service|CAS]] 实践** [[Argument_Metli_2022_IJER|Metli & Akış (2022, pp. 228–229)]] 记录了学生利用 KQ（“我们能在多大程度上对过去行为进行道德评判？”）进行伦理探究后，直接发起口述历史的社区 CAS 项目，将[[Epistemology|认识论]]反思转化为具体社会行动。
 > - **由 CAS 经 TOK 转向 EE 研究** [[Argument_Metli_2022_IJER|Metli & Akış (2022, p. 229)]] 记录了学生在 CAS 中接触涂鸦活动，并在 TOK 阶段利用 KQ 探究其艺术伦理边界，最终在 EE 阶段提炼出关于“涂鸦的视觉文化贡献”的[[Research Question|研究问题]]，完成从实践反思到深入研究的闭环。
 
 ---

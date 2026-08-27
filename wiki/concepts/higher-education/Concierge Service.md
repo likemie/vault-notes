@@ -67,7 +67,7 @@ updated: 2026-06-03
 ## 实证发现
 
 > [!success]
-> Boccanfuso & Hall（2025, pp.62–63, 67）的实证研究揭示了礼宾服务在[[Praxis|实践]]中的核心地位：
+> Boccanfuso & Hall（2025, pp.62–63, 67）的实证研究揭示了礼宾服务在实践中的核心地位：
 >
 > **在权限分类中的分布** 对 65 所 [[University Industry Demonstration Partnership|UIDP]] 成员大学的网站分析显示，中心办公室在八项产学活动中被归类为"礼宾"的总次数为 115 次——仅次于"导航者"（120 次），远高于"直接负责"（39 次）（pp.62–63）。
 >

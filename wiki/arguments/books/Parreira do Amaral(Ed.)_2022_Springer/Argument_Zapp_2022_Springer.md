@@ -55,6 +55,7 @@ related_facts:
   - "[[OECD]]"
   - "[[Education at a Glance]]"
   - "[[European Standards and Guidelines]]"
+  - "[[Higher Education Authority]]"
   - "[[GATS and Trade in Education Services]]"
   - "[[Research Excellence Framework]]"
   - "[[THE Impact Ranking]]"
@@ -158,7 +159,7 @@ Zapp 论证大学经历了两个层次的身份变化(pp.147–149)：
 
 > 例：这类似于企业从"我们合规了"到"我们在做环境、社会和治理（Environmental, Social and Governance, [[European Standards and Guidelines|ESG]]）报告"的转变。一所大学不再只说"我们有化学实验室"，而是说"我们的化学实验室实现了零碳排放，使用的能源 100% 来自校园太阳能板，相关数据已在年度可持续发展报告中披露"。Zapp 用 Fig. 9.1 展示这种转变的加速：1990 年几乎没有大学发布 CSR 报告，到 2020 年超过 150 所——指数级增长。
 
-**机制四：网络对齐（Aligning Networks）**。大学组建"元组织"（meta-organizations，即以组织为成员的组织）来联合应对全球问题。Brankovic (2018) 追溯发现 185 个此类协会，大多数在过去二十年成立(p.153)。在 SDG 领域，联合国可持续发展解决方案网络（UN Sustainable Development Solutions Network, UN SDSN）将大学、政府机构、研究机构和国际组织与非政府组织（International and Non-Governmental Organizations, I(N)GOs）聚集在一起开发和推广 SD 政策。国际大学协会（International Association of Universities, IAU）主办"高等教育与研究促进可持续发展"（Higher Education and Research for Sustainable Development, HEA-RSD）倡议，其 Iquitos Statement 详细说明大学如何为 SDGs 做贡献(pp.153–154)。
+**机制四：网络对齐（Aligning Networks）**。大学组建"元组织"（meta-organizations，即以组织为成员的组织）来联合应对全球问题。Brankovic (2018) 追溯发现 185 个此类协会，大多数在过去二十年成立(p.153)。在 SDG 领域，联合国可持续发展解决方案网络（UN Sustainable Development Solutions Network, UN SDSN）将大学、政府机构、研究机构和国际组织与非政府组织（International and Non-Governmental Organizations, I(N)GOs）聚集在一起开发和推广 SD 政策。国际大学协会（International Association of Universities, IAU）主办"高等教育与研究促进可持续发展"（Higher Education and Research for Sustainable Development, [[Higher Education Authority|HEA]]-RSD）倡议，其 Iquitos Statement 详细说明大学如何为 SDGs 做贡献(pp.153–154)。
 
 Zapp 特别指出一个有趣的细节：THE 影响力排名允许大学自选 10 项 SDGs 进行报告，但 SDG 17（"促进目标实现的伙伴关系"）**是唯一强制报告的指标(p.154)**。这暗示：即使在竞争驱动的排名逻辑中，"联合行动"也被视为大学不可避免的责任。
 
@@ -222,7 +223,7 @@ Zapp 的最终判断(p.157)：大学已经跃入全球治理的舞台，但它�
 ### 网络对齐：组建元组织联合行动
 
 - Brankovic (2018) 追溯发现 185 个大学协会/元组织，大多数在过去二十年成立(p.153)
-- 联合国可持续发展解决方案网络（UN SDSN）将大学、政府机构、研究机构和国际组织与非政府组织（I(N)GOs）聚集在一起开发和推广 SD 政策与解决方案；国际大学协会（IAU）主办 HEA-RSD 倡议并发布 Iquitos Statement(pp.153–154)
+- 联合国可持续发展解决方案网络（UN SDSN）将大学、政府机构、研究机构和国际组织与非政府组织（I(N)GOs）聚集在一起开发和推广 SD 政策与解决方案；国际大学协会（IAU）主办 [[Higher Education Authority|HEA]]-RSD 倡议并发布 Iquitos Statement(pp.153–154)
 - 2019 年 THE 影响力排名覆盖 85 个国家近 800 所大学，SDG 17（伙伴关系）是唯一强制报告指标(p.147, 154)
 
 ### 知识治理的双重风险

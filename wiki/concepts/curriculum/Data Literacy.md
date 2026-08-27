@@ -18,7 +18,6 @@ tags:
 related_concepts:
   - "[[Variable]]"
   - "[[Reliability]]"
-  - "[[Praxis]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Dialogue in Education]]"
 related_arguments:
@@ -51,7 +50,7 @@ updated: 2026-08-23
 > - **概率与风险推断（Probability and Risk Reasoning）** 准确把握随机性、期望值与风险概率，克服直觉偏差与恐慌心理。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, p. 31)]]
 > - **数据批判性审视（Critical Data Evaluation）** 识别数据收集的代表性、遗漏[[Variable|变量]]、选择性报告与测量误差，评估证据[[Reliability|可靠性]]。
 > - **可视化与表达解读（Visualisation Interpretation）** 敏锐识破坐标轴截断、比例失真及图表操纵，准确获取图表信息。
-> - **真实数据清洗与探究（Data Cleaning & Modelling）** 掌握在理科实验与跨学科项目中处理不完整、杂乱原始数据的[[Praxis|实践]]经验。
+> - **真实数据清洗与探究（Data Cleaning & Modelling）** 掌握在理科实验与跨学科项目中处理不完整、杂乱原始数据的实践经验。
 
 ---
 

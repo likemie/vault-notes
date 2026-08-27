@@ -31,6 +31,7 @@ related_methods:
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Norwegian Agency for Quality Assurance in Education]]"
   - "[[OECD]]"
 related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
@@ -47,7 +48,7 @@ updated: 2026-08-27
 ## 背景
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 2013 年由挪威教育质量保障局（NOKUT）受挪威教育与研究部委托正式发起。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 16)]]
+> - **发布时间 / 发布主体** 2013 年由[[Norwegian Agency for Quality Assurance in Education|挪威教育质量保障局]]（NOKUT）受挪威教育与研究部委托正式发起。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 16)]]
 > - **适用地区 / 对象** 挪威全境所有公立与私立大学及高等专业学院的大二、大三本科生与硕士生。
 > - **问题背景** 挪威高等教育体系享有高度自治，政府需要透明、可比且立足学生视角的质量感知数据，以促进高校内部质量文化建设。
 > - **制度位置** 作为挪威国家高等教育质量监测与外部质保审计（Institutional QA Audits）的核心信息基础设施。

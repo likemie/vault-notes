@@ -64,7 +64,7 @@ updated: '2026-08-24'
 ## 定义
 
 > [!def] 核心定义
-> 国际教育（international education）是跨越单一国家教育边界组织人员、共同生活、课程、教学、评价和资格承认的教育[[Praxis|实践]]与制度。它既指以跨文化理解、共同责任和多种思维方式为目的的教育计划，也指全球化条件下学生与教师流动、课程跨境采用、[[International Schools|国际学校]]、海外分校、跨国评价和教育市场形成的制度现象。前者强调教育要改变怎样的人与关系，后者强调教育活动如何越过国家管辖、进入全球网络。[[Argument_Peterson_1987_OpenCourt_Ch01|Peterson (1987, pp. 1–13)]] [[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, pp. 15–31)]] [[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, pp. 1–5, 19–31)]]
+> 国际教育（international education）是跨越单一国家教育边界组织人员、共同生活、课程、教学、评价和资格承认的教育实践与制度。它既指以跨文化理解、共同责任和多种思维方式为目的的教育计划，也指全球化条件下学生与教师流动、课程跨境采用、[[International Schools|国际学校]]、海外分校、跨国评价和教育市场形成的制度现象。前者强调教育要改变怎样的人与关系，后者强调教育活动如何越过国家管辖、进入全球网络。[[Argument_Peterson_1987_OpenCourt_Ch01|Peterson (1987, pp. 1–13)]] [[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, pp. 15–31)]] [[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, pp. 1–5, 19–31)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 国家边界不再独占学生归属、课程内容、评价标准和资格效力；人与制度可在多个教育系统之间流动和组合。
@@ -258,5 +258,5 @@ updated: '2026-08-24'
 ## 相关研究
 
 > [!evidence-grid] 相关研究索引
-> - [[Argument_Peterson_1987_OpenCourt|Peterson (1987, Chs. 1–4)]] — 从大西洋学院的共同生活和服务[[Praxis|实践]]，追踪到教师倡议、独立组织、课程与考试设计，再以六年试验说明学校、资格承认、行政和资金如何把国际教育目标转化为常设制度。
+> - [[Argument_Peterson_1987_OpenCourt|Peterson (1987, Chs. 1–4)]] — 从大西洋学院的共同生活和服务实践，追踪到教师倡议、独立组织、课程与考试设计，再以六年试验说明学校、资格承认、行政和资金如何把国际教育目标转化为常设制度。
 > - [[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010)]] — 描述国际教育从国家绑定走向大众流动、全球比较、市场化和去国家化，并集中讨论文化预设、师资缺口与统计问题。

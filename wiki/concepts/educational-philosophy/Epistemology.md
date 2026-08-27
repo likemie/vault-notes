@@ -49,10 +49,12 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Kuhn_2000_CD]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07]]"
+related_instruments:
+  - "[[VALUE Rubrics]]"
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-08-16
+updated: '2026-08-27'
 ---
 
 # Epistemology
@@ -123,7 +125,7 @@ updated: 2026-08-16
 > 探讨事实与价值分离的[[Objectivism|客观主义]]神话是如何被打破的。
 
 > [!claim] Cohen, L. 等
-> **事实的理论负载与社会建构** [[Postpositivism|后实证主义]]对传统的实证主义认识论提出了根本性挑战。它主张事实和理论是可错的（fallible）；所有的事实和观察都是理论负载和价值负载的（theory-laden and value-laden）。社会事实甚至思维方式本身都是社会建构，而非客观普遍真实。事实与价值的绝对分离不可持续，因为研究者的价值观和范式预设本身就决定了研究焦点和解释路径。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1)]]
+> **事实的理论负载与社会建构** [[Postpositivism|后实证主义]]对传统的实证主义认识论提出了根本性挑战。它主张事实和理论是可错的（fallible）；所有的事实和观察都是理论负载和价值负载的（theory-laden and [[VALUE Rubrics|VALUE]]-laden）。社会事实甚至思维方式本身都是社会建构，而非客观普遍真实。事实与价值的绝对分离不可持续，因为研究者的价值观和范式预设本身就决定了研究焦点和解释路径。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1)]]
 
 ---
 

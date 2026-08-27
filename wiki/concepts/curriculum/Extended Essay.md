@@ -22,6 +22,7 @@ related_concepts:
   - "[[Creativity, Action, Service]]"
   - "[[Creativity]]"
   - "[[Epistemology]]"
+  - "[[Problem Finding]]"
   - "[[Literature Review]]"
   - "[[Homework]]"
   - "[[Research Practicability]]"
@@ -33,7 +34,6 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Academic Achievement]]"
   - "[[Document]]"
-  - "[[Praxis]]"
   - "[[Questionnaire]]"
   - "[[Necessary and Sufficient Conditions]]"
 related_theories: []
@@ -68,7 +68,7 @@ updated: 2026-08-22
 
 > [!concept-lens] 课程位置、学习功能与资格作用
 > - **课程位置** 六学科和科内选项仍由课程大纲规定学习范围，EE 进一步把问题选择和持续研究交给学生，使个人兴趣进入正式文凭结构。
-> - **学习功能** 研究过程集中训练问题界定、资料检索、[[Literature Review|文献综述]]、证据判断、分析论证、学术写作和长期任务管理。
+> - **学习功能** 研究过程集中训练[[Problem Finding|问题界定]]、资料检索、[[Literature Review|文献综述]]、证据判断、分析论证、学术写作和长期任务管理。
 > - **资格作用** 独立研究由外部考官评价，使高度个人化的探究能够成为不同学校共同认可的文凭证据；EE 与 TOK 的等级还共同进入核心奖励分矩阵。
 
 > [!boundary]- 概念边界
@@ -151,13 +151,13 @@ updated: 2026-08-22
 > - **早期实施　形成四至六个月、约 4,000 字、导师指导和外部评价的基本形态** 研究通常安排在两年课程中段，由学生主要使用自己的时间完成，教师给予指导，外部考官负责评价。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, p. 45)]]
 > - **早期调整　提交期限因学生过度投入而提前** 一些学生沉浸于自选题目，开始忽视其他课程并危及文凭考试。[[International Baccalaureate|国际文凭]]办公室（International Baccalaureate Office，IBO）把截止日期提前到课程结束前数月，为六学科恢复学习时间。
 > - **2009 年所记录的制度　EE 与 [[Theory of Knowledge|TOK]] 共同进入核心奖励分矩阵** 两项外部评价等级交叉换算零至三分奖励分，EE 的最低等级还与文凭资格直接相连。[[Argument_Darwish_2009_Queens|Darwish (2009, pp. 18–19)]]
-> - **2022 年　EE 被进一步理解为核心组件之间的连接点** TOK 的知识审查可以进入 EE 的研究设计和[[Document|文献]]评价，[[Creativity, Action, Service|CAS]] 的经验可以生成[[Research Question|研究问题]]，EE 的发现也可以转化为 CAS 行动。学校[[Praxis|实践]]中的连接仍经常停留在表层。[[Argument_Metli_2022_IJER|Metli & Akış (2022, pp. 226–230)]]
+> - **2022 年　EE 被进一步理解为核心组件之间的连接点** TOK 的知识审查可以进入 EE 的研究设计和[[Document|文献]]评价，[[Creativity, Action, Service|CAS]] 的经验可以生成[[Research Question|研究问题]]，EE 的发现也可以转化为 CAS 行动。学校实践中的连接仍经常停留在表层。[[Argument_Metli_2022_IJER|Metli & Akış (2022, pp. 226–230)]]
 
 ---
 
 ## 实证数据
 
-> [!ref-table]- EE 与核心课程连贯性的学校[[Praxis|实践]]
+> [!ref-table]- EE 与核心课程连贯性的学校实践
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
 > | 研究 | 样本与情境 | 研究设计 | 与 EE 相关的关键结果 | 解释边界 |

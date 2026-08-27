@@ -20,7 +20,6 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Growth]]"
   - "[[Critical Thinking]]"
-  - "[[Praxis]]"
   - "[[Humility in Learning]]"
 related_theories: []
 related_methods: []
@@ -50,7 +49,7 @@ updated: 2026-07-25
 
 > [!concept-lens] 概念透镜
 > - **含义** 将教育理解为一种政治行为（political act），通过赋予学习者自由使其能够选择立场并最终摆脱社会压迫与传统灌输。
-> - **用途** 用于批判那些表面倡导民主、[[Critical Thinking|批判性思维]]但在[[Praxis|实践]]中仍维持阶层隔阂或被动灌输的课程体系。
+> - **用途** 用于批判那些表面倡导民主、[[Critical Thinking|批判性思维]]但在实践中仍维持阶层隔阂或被动灌输的课程体系。
 > - **边界** 学习者的自由并非放任主义，而是建立在爱、尊重、关怀、[[Humility in Learning|谦逊]]、合作以及与社区环境互动基础上的有责任能动性。
 
 > [!citation-card]- 关键表述
