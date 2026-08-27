@@ -98,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -270,8 +270,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "7b1888ea00f7062e",
+  "active": "241aa259925f5c97",
   "lastOpenFiles": [
+    "wiki/facts/us/What Works Clearinghouse.md",
+    "wiki/arguments/journal-articles/Computers in Human Behavior Reports/Argument_Liu_2026_CHBR.md",
     "wiki/concepts/educational-technology/AI Agent in Education.md",
     "wiki/arguments/journal-articles/Journal of Educational Computing Research/Argument_Unal_2026_JECR.md",
     "wiki/methods/quantitative/Meta-meta-analysis.md",
@@ -285,7 +287,6 @@
     "wiki/concepts/learning-science-cognitive-science/Higher-Order Thinking Skills.md",
     "wiki/methods/quantitative/Meta-analysis.md",
     "wiki/arguments/reports-policy-documents/Argument_Bouckaert_2023_OECD.md",
-    "wiki/facts/us/What Works Clearinghouse.md",
     "wiki/arguments/reports-policy-documents/RoyalSociety_2026_ScienceForSociety/Argument_RoyalSociety_2026_ScienceForSociety.md",
     "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch05.md",
     "wiki/concepts/educational-policy-reform/Evidence-Based Education.md",
@@ -297,7 +298,6 @@
     "wiki/arguments/journal-articles/Educational Research Review/Argument_Lei_Ding_Chiu_2026_ERR.md",
     "raw/循证教育与高阶思维培养_大纲.md",
     "wiki/facts/australia/Australian Curriculum.md",
-    "wiki/arguments/journal-articles/Review of Educational Research/Argument_Wadhwa_2024_RER.md",
     "sources/Bouckaert_2023_OECD/Bouckaert_2023_OECD.pdf",
     "sources/Bouckaert_2023_OECD/figures",
     "sources/Bouckaert_2023_OECD",
