@@ -94,7 +94,7 @@ related_instruments:
   - "[[Consensual Assessment Technique]]"
 status: draft
 created: 2026-07-24
-updated: 2026-08-26
+updated: '2026-08-27'
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24
 

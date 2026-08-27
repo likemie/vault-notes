@@ -78,6 +78,7 @@ related_instruments:
   - "[[Watson-Glaser Critical Thinking Appraisal]]"
   - "[[Runco Ideational Behavior Scale]]"
   - "[[Computational Thinking Scale]]"
+  - "[[Cornell Critical Thinking Test]]"
   - "[[Consensual Assessment Technique]]"
 related_persons:
   - "[[Socrates]]"
@@ -91,14 +92,14 @@ sources:
 part_of: ""
 status: draft
 created: 2026-08-25
-updated: 2026-08-26
+updated: '2026-08-27'
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Park_2026_TSC"
 argument_key: "Argument_Park_2026_TSC"
 argument_display_title: "Exploring the intersection of creativity and critical thinking among students: A meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 60
+argument_related_count: 61
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -236,7 +237,7 @@ issuing_organization: ""
 > | Komsu (2021) | 24.5 | Postgraduate | Middle East | UF/EMI Critical Thinking Disposition Scale（主观） | Kaufman Domains of Creativity Scale - Academic Creativity sub-dimension (Investigative Creativity)（主观） |
 > | Komsu (2021) | 24.5 | Postgraduate | Middle East | UF/EMI Critical Thinking Disposition Scale（主观） | Kaufman Domains of Creativity Scale - Academic Creativity sub-dimension (Analytical Creativity)（主观） |
 > | Li et al. (2022) | NA | College | East Asia | 4C Skills – Critical Thinking Domain（主观） | 4C Skills - Creativity Domain（主观） |
-> | Ling & Loh (2020) | 17.5 | Middle/High school | East Asia | CCTT (modified)（客观） | Creativity Selected Elements Questionnaire (modified)（主观） |
+> | Ling & Loh (2020) | 17.5 | Middle/High school | East Asia | [[Cornell Critical Thinking Test\|CCTT]] (modified)（客观） | Creativity Selected Elements Questionnaire (modified)（主观） |
 > | Long & Long (2023) | 19.08 | College | East Asia | Critical Thinking Scale（主观） | Creative Self-Efficacy Scale（主观） |
 > | Long & Long (2023) | 19.08 | College | East Asia | Critical Thinking Scale（主观） | Creativity Scale（主观） |
 > | Lu et al. (2023) | 20.13 | College | East Asia | Critical Thinking Disposition Scale（主观） | Creative Self-Efficacy Scale（主观） |

@@ -8,7 +8,7 @@ aliases:
 summary: "批判性思维测评是对个体在论证分析、证据评价、推论构建与反思判断等高阶认知技能及求真探究倾向的操作化测量与促学评价；在教育与心理研究中用于量化学业增益、诊断思维短板并检验课程对齐与构念效度。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 59
+related_count: 60
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -49,27 +49,28 @@ related_concepts:
   - "[[Evaluative Validity]]"
   - "[[Knowledge Questions]]"
   - "[[Task Structure]]"
-  - "[[Dependent Variable]]"
-  - "[[Effect Size]]"
-  - "[[Heterogeneity]]"
-  - "[[Prediction Interval]]"
-  - "[[Domain Specificity]]"
   - "[[Rating Scale]]"
   - "[[Variable]]"
   - "[[Analytic Framework]]"
+  - "[[Domain Specificity]]"
 related_theories: []
 related_methods:
   - "[[Three-Level Meta-Analysis]]"
   - "[[Meta-regression]]"
-  - "[[Meta-analysis]]"
   - "[[Systematic Review]]"
+  - "[[Meta-analysis]]"
   - "[[Experimental Research]]"
 related_instruments:
   - "[[Watson-Glaser Critical Thinking Appraisal]]"
+  - "[[California Critical Thinking Skills Test]]"
+  - "[[Cornell Critical Thinking Test]]"
   - "[[California Critical Thinking Disposition Inventory]]"
   - "[[Critical Thinking Strategies Scale]]"
   - "[[Collegiate Learning Assessment]]"
+  - "[[ETS HEIghten Critical Thinking Assessment]]"
   - "[[VALUE Rubrics]]"
+  - "[[Halpern Critical Thinking Assessment]]"
+  - "[[Critical Thinking Assessment Test]]"
   - "[[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale]]"
 related_persons:
   - "[[John Biggs]]"
@@ -86,7 +87,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-08-26
+updated: 2026-08-27
 ---
 
 # Critical Thinking Assessment
@@ -120,7 +121,7 @@ updated: 2026-08-26
 > [!contrast-table] [[Critical Thinking|批判性思维]]主要测评技术路径辨析
 > | 测评路径类别 | 经典心理测量学客观测试 | 主观自陈倾向与策略量表 | 高等教育增值表现性测试 | 课程嵌入式真实性评分量规 |
 > |---|---|---|---|---|
-> | **代表性工具** | [[Watson-Glaser Critical Thinking Appraisal\|WGCTA]]、CCTST、Cornell 测验 | [[California Critical Thinking Disposition Inventory\|CCTDI]]、[[Critical Thinking Strategies Scale\|CTSS]]、MSLQ-CT | [[Collegiate Learning Assessment\|CLA / CLA+]]、ETS HEIghten、CAAP | AAC&U [[VALUE Rubrics\|VALUE 批判性思维量规]]、欧洲 CALOHEE 框架 |
+> | **代表性工具** | [[Watson-Glaser Critical Thinking Appraisal\|WGCTA]]、[[California Critical Thinking Skills Test\|CCTST]]、[[Cornell Critical Thinking Test\|Cornell 测验]] | [[California Critical Thinking Disposition Inventory\|CCTDI]]、[[Critical Thinking Strategies Scale\|CTSS]]、MSLQ-CT | [[Collegiate Learning Assessment\|CLA / CLA+]]、[[ETS HEIghten Critical Thinking Assessment\|ETS HEIghten]]、CAAP | AAC&U [[VALUE Rubrics\|VALUE 批判性思维量规]]、欧洲 CALOHEE 框架 |
 > | **作答载体与题型** | 客观多项选择题（MCQs） | 莱克特（Likert）自陈量表 / [[Questionnaire\|问卷]] | 真实文档库（[[Document]] in-basket）开放情境表现任务（PT） + 选答题 | 嵌入课程真实大[[Homework\|作业]]、研究论文、设计原型与反思档案袋的 4 级表现描述符 |
 > | **核心测量对象** | 推理、识别[[Hypothesis\|假设]]、演绎、解释、论据评价（再认型） | 求真、开放、探究、分析性、[[Self-Efficacy\|自我效能]]与自述策略使用 | 复杂问题分析、跨文档证据综合、决策制定与论述写作 | 阐明问题、证据运用、情境识别、个人立场确立、结论推导 |
 > | **[[Reliability\|信度]]与实施成本** | 机器阅卷信度极高，自动化成本极低 | 施测便捷，自评信度依赖作答诚实度 | 依赖专业阅卷员/算法，评分成本高昂 | 依赖校内与跨校教师评分校准研讨（Calibration） |
@@ -142,7 +143,7 @@ updated: 2026-08-26
 > | 测量构念属性 | 主观测量（自陈倾向 / 策略[[Questionnaire\|问卷]]） | 客观测量（标准化技能测验 / 表现任务 / 量规评定） |
 > |---|---|---|
 > | **[[Critical Thinking Disposition\|批判性思维倾向]]与[[Self-Efficacy\|自我效能]]** | - 加州批判性思维倾向问卷（CCTDI）<br>- 批判性思维倾向量表（Critical Thinking Disposition Scale）<br>- UF/EMI 批判性思维倾向量表<br>- 批判性思维策略量表（CTSS）<br>- 学习动机策略问卷批判性思维分量表（MSLQ-CT） | - 暂无（倾向主要依赖自陈或长周期行为观察清单） |
-> | **批判性思维技能与论证表现** | - 4C 技能量表批判性思维自评维度<br>- 学生元技能调查（Student MetaSkills Survey）批判性思维分量表 | - 沃森-格拉瑟批判性思维评估（WGCTA）<br>- 康奈尔批判性思维测验（CCTT）<br>- 加州批判性思维技能测验（CCTST）<br>- 霍尔珀恩批判性思维测评（HCTA）<br>- 田纳西理工批判性思维评估测验（CAT）<br>- 大学学习评估（CLA / CLA+）<br>- ETS HEIghten 批判性思维测验<br>- 医学院入学考试批判性分析模块（MCAT-CARS）<br>- 英国法学国家能力测试（LNAT）<br>- AAC&U VALUE 批判性思维评分量规<br>- 欧洲 CALOHEE 评价参照框架 |
+> | **批判性思维技能与论证表现** | - 4C 技能量表批判性思维自评维度<br>- 学生元技能调查（Student MetaSkills Survey）批判性思维分量表 | - [[Watson-Glaser Critical Thinking Appraisal\|沃森-格拉瑟批判性思维评估]]（WGCTA）<br>- [[Cornell Critical Thinking Test\|康奈尔批判性思维测验]]（CCTT）<br>- [[California Critical Thinking Skills Test\|加州批判性思维技能测验]]（CCTST）<br>- [[Halpern Critical Thinking Assessment\|霍尔珀恩批判性思维测评]]（HCTA）<br>- [[Critical Thinking Assessment Test\|田纳西理工批判性思维评估测验]]（CAT）<br>- [[Collegiate Learning Assessment\|大学学习评估]]（CLA / CLA+）<br>- [[ETS HEIghten Critical Thinking Assessment\|ETS HEIghten 批判性思维测验]]<br>- 医学院入学考试批判性分析模块（MCAT-CARS）<br>- 英国法学国家能力测试（LNAT）<br>- AAC&U VALUE 批判性思维评分量规<br>- 欧洲 CALOHEE 评价参照框架 |
 >
 > （根据 [[Argument_Park_2026_TSC|Park et al. (2026, Table 1)]] 结合 [[Argument_Bouckaert_2023_OECD|Bouckaert (2023, pp. 21–28)]] 整理）
 
@@ -209,7 +210,7 @@ updated: 2026-08-26
 
 > [!dev-timeline] [[Critical Thinking|批判性思维]]测评的技术演进与[[Paradigm|范式]]转向
 > - **1960–1980 年代　经典心理测量学客观测试主导** 以沃森-格拉瑟批判性思维评估（WGCTA, 1980）和康奈尔测试为代表，采用客观多项选择题（MCQs）测量推理、前提识别与解释，确立了高[[Reliability|信度]]与标准化常模范式。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 21)]]
-> - **1990 年代　德尔菲框架确立与倾向[[Questionnaire|问卷]]兴起** APA 德尔菲共识报告（Facione, 1990）将[[Construct|构念]]明确划分为认知技能与情意倾向双维度，催生了加州批判性思维技能测验（CCTST, 1992）与[[California Critical Thinking Disposition Inventory|加州批判性思维倾向问卷]]（CCTDI, 1992），开启了技能与倾向分离测量的阶段。[[Argument_Cole_2015_AJE|(Cole et al., 2015, pp. 251–252)]]
+> - **1990 年代　德尔菲框架确立与倾向[[Questionnaire|问卷]]兴起** APA 德尔菲共识报告（Facione, 1990）将[[Construct|构念]]明确划分为认知技能与情意倾向双维度，催生了[[California Critical Thinking Skills Test|加州批判性思维技能测验]]（CCTST, 1992）与[[California Critical Thinking Disposition Inventory|加州批判性思维倾向问卷]]（CCTDI, 1992），开启了技能与倾向分离测量的阶段。[[Argument_Cole_2015_AJE|(Cole et al., 2015, pp. 251–252)]]
 > - **2000 年代　高等教育增值统考与自愿问责体系兴衰** 美国《斯佩林斯报告》（2006）推动建立自愿问责体系（VSA），采用大学学习评估（[[Collegiate Learning Assessment|CLA]]）等情境表现任务（PT）测量全校纵向[[Learning Gain|学习增益]]；但因外部统考与课程脱节、成本高昂及学生低利害动机缺失，增值统考在十年后大范围衰退。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 24–25)]]
 > - **2010 年代至今　校本真实性量规崛起与[[Formative Assessment|促学评价]]生态** 全美高校广泛转向 AAC&U [[VALUE Rubrics|VALUE]] 量规（Rhodes, 2009），欧洲推行 CALOHEE 参照框架（Wagenaar, 2018），批判性思维评价深度回归微观课堂，聚焦真实[[Task Structure|劣构任务]]、纯质性描述评语与多轮形成性反馈迭代。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 26–34)]]
 

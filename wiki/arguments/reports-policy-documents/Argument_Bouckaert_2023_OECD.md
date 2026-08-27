@@ -7,7 +7,7 @@ title: "Argument_Bouckaert_2023_OECD"
 argument_key: "Argument_Bouckaert_2023_OECD"
 argument_display_title: "The assessment of students' creative and critical thinking skills in higher education across OECD countries: A review of policies and related practices (OECD Education Working Papers No"
 argument_kind: "report"
-argument_related_count: 65
+argument_related_count: 66
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dcfce7"
@@ -54,12 +54,15 @@ related_concepts:
   - "[[Growth]]"
   - "[[Lifelong Learning]]"
   - "[[Active Learning]]"
+  - "[[Domain Specificity]]"
   - "[[Going Native]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Ecological Validity]]"
+  - "[[Reliability]]"
+  - "[[Student Engagement]]"
+  - "[[Learning Analytics]]"
   - "[[Attrition]]"
   - "[[Hypothesis]]"
-  - "[[Reliability]]"
-  - "[[Ecological Validity]]"
   - "[[Predictive Validity]]"
   - "[[Homework]]"
   - "[[Divergent Thinking]]"
@@ -67,21 +70,31 @@ related_concepts:
   - "[[Task Structure]]"
   - "[[Internal Consistency]]"
   - "[[Rote Learning]]"
+  - "[[Necessary and Sufficient Conditions]]"
+  - "[[Problem Finding]]"
   - "[[Chain of Evidence]]"
   - "[[Feedback]]"
 related_theories:
   - "[[Creative Problem Solving]]"
+  - "[[Item Response Theory]]"
 related_methods:
   - "[[Documentary Analysis]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Cohort Study]]"
 related_instruments:
   - "[[VALUE Rubrics]]"
   - "[[Collegiate Learning Assessment]]"
   - "[[Watson-Glaser Critical Thinking Appraisal]]"
   - "[[Torrance Tests of Creative Thinking]]"
   - "[[Epistemological Understanding Assessment]]"
-  - "[[Remote Associates Test]]"
   - "[[Consensual Assessment Technique]]"
+  - "[[California Critical Thinking Skills Test]]"
+  - "[[Cornell Critical Thinking Test]]"
+  - "[[Halpern Critical Thinking Assessment]]"
+  - "[[Critical Thinking Assessment Test]]"
+  - "[[Ennis-Weir Critical Thinking Essay Test]]"
+  - "[[ETS HEIghten Critical Thinking Assessment]]"
+  - "[[Remote Associates Test]]"
 related_persons: []
 related_facts:
   - "[[OECD]]"
@@ -106,7 +119,7 @@ updated: 2026-08-27
 > 在全球[[Knowledge-Based Economy|知识经济]]、技术自动化与复杂社会挑战背景下，[[Higher-Order Thinking Skills|高阶思维技能]]（Higher-Order Thinking Skills, HOTS，特别是[[Creativity|创造力]]与[[Critical Thinking|批判性思维]]）已被广泛确立为高等教育的核心培养目标；然而，政策层面的高度重视是否真正转化为系统化、有效度且广泛落地的学生学业评价实践？[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）成员国在宏观国家政策、中观大规模标准化考试与微观高校校本考核中分别采取了哪些政策工具与评价载体？其间存在何种制度断裂与方法学挑战？如何构建支持高阶思维评价的系统性政策与实践生态？（pp. 4–5）
 
 > [!claim] 核心主张
-> 尽管 OECD 成员国的宏观政策议程与国家资格框架普遍将创造力与批判性思维列为毕业生的[[21st Century Skills and Competencies Discourse|核心素养]]，但这些高阶能力在系统级标准化统考中极少得到实质测度；在微观高校层面，由于高度的院校自治与[[Academic Freedom|学术自由]]，宏观政策未能自动穿透为微观课堂考核的深层变革，传统的闭卷笔试与事实记忆考核仍牢固主导着大学评价。推进高阶思维评价必须依托[[Constructive Alignment|建构性对齐]]，实现从宏观资格框架、学科标准到微观课堂任务的多层级贯通，并将政策重心转向资助创新[[Authentic Assessment|表现性评价]]研发、推广课程嵌入式本科生教育学习成果有效评估量规（[[VALUE Rubrics|Valid Assessment of Learning in Undergraduate Education]], VALUE量规）与构建全方位的教师教学能力支持体系。（pp. 3–5, 18–20, 30–34）
+> 尽管 OECD 成员国的宏观政策议程与国家资格框架普遍将创造力与批判性思维列为毕业生的[[21st Century Skills and Competencies Discourse|核心素养]]，但这些高阶能力在系统级标准化统考中极少得到实质测度；在微观高校层面，由于高度的院校自治与[[Academic Freedom|学术自由]]，宏观政策未能自动穿透为微观课堂考核的深层变革，传统的闭卷笔试与事实记忆考核仍牢固主导着大学评价。推进高阶思维评价必须依托[[Constructive Alignment|建构性对齐]]，实现从宏观资格框架、学科标准到微观课堂任务的多层级贯通，并将政策重心转向资助创新[[Authentic Assessment|表现性评价]]研发、推广课程嵌入式本科生教育学习成果有效评估（[[VALUE Rubrics|Valid Assessment of Learning in Undergraduate Education]], VALUE）量规与构建全方位的教师教学能力支持体系。（pp. 3–5, 18–20, 30–34）
 
 > [!concept-lens] 阅读透镜
 > - **对象** OECD 成员国高等教育系统的政策战略文本、国家资格框架、外部质量保障体系、大规模标准化考试以及大学校本评价实践。（pp. 4–8）
@@ -136,8 +149,8 @@ updated: 2026-08-27
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **政策[[Documentary Analysis\|文献分析]]**<br>Documentary Analysis | 系统检索与[[Coding in Qualitative Research\|编码]]全球 152 个国家的教育战略[[Document\|文献]]，深度剖析 OECD 成员国的高等教育法案、国家资格框架（如欧洲高等教育区资格框架（Framework for Qualifications of the European Higher Education Area, QF-EHEA）、新西兰资格框架（New Zealand Qualifications Framework, NZQF）、澳大利亚资格框架（Australian Qualifications Framework, AQF）、苏格兰学分与资格框架（Scottish Credit and Qualifications Framework, SCQF）与质量保障指南（如欧洲高等教育区质量保障标准与指南 ESG 2015、英国高等教育质量保障署 Quality Assurance Agency for Higher Education, QAA 指南）。（pp. 5–18） |
-> | **测评工具与国家科研项目案例分析**<br>Case & Instrument Analysis | 比较分析跨国通用与专业测评工具（[[Collegiate Learning Assessment\|大学学习评估 CLA / CLA+]]、[[Watson-Glaser Critical Thinking Appraisal\|沃森-格拉瑟批判性思维评估 WGCTA]]、[[Torrance Tests of Creative Thinking\|托兰斯创造性思维测验 TTCT]]、[[VALUE Rubrics\|VALUE量规]]）以及德、意、英、美等国国家级评价研发项目（德国能力建模与测量计划 KoKoHs、意大利素养测验 TECO、英国学习增益项目 Learning Gain、美国州际新教师评估与支持联盟 InTASC 标准）。（pp. 16–18, 21–28） |
+> | **政策[[Documentary Analysis\|文献分析]]**<br>Documentary Analysis | 系统检索与[[Coding in Qualitative Research\|编码]]全球 152 个国家的教育战略[[Document\|文献]]，深度剖析 OECD 成员国的高等教育法案、国家资格框架（如欧洲高等教育区资格框架（Framework for Qualifications of the European Higher Education Area, QF-EHEA）、新西兰资格框架（New Zealand Qualifications Framework, NZQF）、澳大利亚资格框架（Australian Qualifications Framework, AQF）、苏格兰学分与资格框架（Scottish Credit and Qualifications Framework, SCQF）与质量保障指南（如欧洲高等教育区质量保障标准与指南（Standards and Guidelines for Quality Assurance in the European Higher Education Area, ESG 2015）、英国高等教育质量保障署（Quality Assurance Agency for Higher Education, QAA）指南）。（pp. 5–18） |
+> | **测评工具与国家科研项目案例分析**<br>Case & Instrument Analysis | 比较分析跨国通用与专业测评工具（[[Collegiate Learning Assessment\|大学学习评估]]（Collegiate Learning Assessment, CLA / CLA+）、[[Watson-Glaser Critical Thinking Appraisal\|沃森-格拉瑟批判性思维评估]]（Watson-Glaser Critical Thinking Appraisal, WGCTA）、[[Torrance Tests of Creative Thinking\|托兰斯创造性思维测验]]（Torrance Tests of Creative Thinking, TTCT）、[[VALUE Rubrics\|本科生教育学习成果有效评估]]（Valid Assessment of Learning in Undergraduate Education, VALUE）量规）以及德、意、英、美等国国家级评价研发项目（[[KoKoHs Program|德国高等教育能力建模与测量计划]]（Kompetenzmodellierung und Kompetenzerfassung im Hochschulsektor, KoKoHs）、[[TECO Project|意大利大学生素养测验]]（Test sulle Competenze, TECO）、[[HEFCE Learning Gain Project|英国学习增益项目]]（Learning Gain）、美国州际新教师评估与支持联盟（Interstate New Teacher Assessment and Support Consortium, InTASC）标准）。（pp. 16–18, 21–28） |
 > | **跨国院校调查实证综合**<br>Survey Synthesis | 综合分析全美大学与学院协会（Association of American Colleges and Universities, AAC&U / Hart Research Associates, 2016，325 所高校）与欧洲大学协会（European University Association, EUA Trends 2018，43 国 303 所大学）等大规模院校实证数据。（pp. 27–29） |
 
 > [!sample-panel]- 样本与材料快照
@@ -177,8 +190,8 @@ updated: 2026-08-27
 > | 评价类型 | 核心功能与终极目的 | 主要评价主体与层级 | 评价结果形态与用途 | 区域制度传统倾向 | 对高阶思维技能的作用机制 |
 > |---|---|---|---|---|---|
 > | **总结性评价（Summative Assessment）** | 认证学生学术成就与知识技能获取，做出学分授予与毕业资质判定。 | 任课教师、系所考务委员会、专业资格认证机构。 | 等级分数、平均学分绩点（Grade Point Average, [[Academic Achievement\|GPA]]）、文凭与职业证书。 | 全球各高等教育体系普遍采纳的基础制度。 | 作为高利害[[Assessment Backwash\|反拨]]指挥棒，直接牵引学生对深层/表层学习策略的选择。 |
-> | **管理监测性评价（Administrative / Monitoring Assessment）** | 提供绩效测量基准，用于监控机构、院系或专业质量并指导组织决策与资源配置。 | 大学行政管理层、外部质量保障机构、政府高教拨款部门。 | 增值指标（[[VALUE Rubrics\|VALUE]]-Added）、认证报告、院校质量排行榜与问责档案。 | 在**美国体系**中尤为突出（如美国自愿问责体系 Voluntary System of Accountability, VSA 计划），欧洲相对侧重流程审计（Kuh & Ewell, 2010）。 | 为系统级高阶能力培养提供纵向[[Learning Gain\|学习增益]]基准与政策问责证据。 |
-> | **[[Formative Assessment\|形成性评价]]（Formative Assessment）** | 诊断学习困难，提供针对性反馈以触发、纠偏和定向后续学习过程。 | 任课教师、教学助教、学习同伴以及学生自身（自我调节）。 | 定性评语、诊断性建议、多轮修改草稿与[[Growth\|成长]]档案。 | 在推行以学生为中心的学习（Student-Centred Learning, SCL）的创新院校中快速发展。 | 营造低利害试错环境，保护智识探索动机，是创造与批判生成的核心支架。 |
+> | **管理监测性评价（Administrative / Monitoring Assessment）** | 提供绩效测量基准，用于监控机构、院系或专业质量并指导组织决策与资源配置。 | 大学行政管理层、外部质量保障机构、政府高教拨款部门。 | 增值指标（[[VALUE Rubrics\|VALUE]]-Added）、认证报告、院校质量排行榜与问责档案。 | 在**美国体系**中尤为突出（如美国自愿问责体系（Voluntary System of Accountability, VSA）计划），欧洲相对侧重流程审计（Kuh & Ewell, 2010）。 | 为系统级高阶能力培养提供纵向[[Learning Gain\|学习增益]]基准与政策问责证据。 |
+> | **[[Formative Assessment\|形成性评价]]（Formative Assessment）** | 诊断学习困难，提供针对性反馈以触发、纠偏和定向后续学习过程。 | 任课教师、教学助教、学习同伴以及学生自身（自我调节）。 | 定性评语、诊断性建议、多轮修改草稿与[[Growth\|成长]]档案。 | 在推行以学生为中心学习（Student-Centred Learning, SCL）的创新院校中快速发展。 | 营造低利害试错环境，保护智识探索动机，是创造与批判生成的核心支架。 |
 >
 > （p. 4; Wu & Jessop, 2018; Kuh & Ewell, 2010）
 
@@ -204,8 +217,8 @@ updated: 2026-08-27
 > [!contrast-table] 高等教育治理中三类政策工具的设计特征与运作机制对比
 > | 政策工具类别 | 核心治理目标 | 政策实施载体与机制 | 对学业评价的实际穿透力 | 制度优势与主要短板 | 典型国际与国别案例 |
 > |---|---|---|---|---|---|
-> | **法规监管（Regulation）** | 划定最低办学红线与质量准入门槛，建立制度问责底线。 | 外部质量保障（QA）审计、专业认证（Accreditation）、国家准入资格考试。 | **弱** 侧重办学条件与管理流程等输入/过程指标，难以穿透至微观课堂评价设计。 | **优势** 具有硬性法律约束力与强制合规效应。<br>**短板** 易诱发形式主义合规，抑制教学创新。 | 欧洲质保标准（ESG 2015）、德国专业/系统认证、挪威 NOKUT 机构质保审计、德国国家考试（Staatsexamen）。 |
-> | **财政支持（Financial Support）** | 引导高校与科研团队投身评价技术攻关，孵化优秀实践范式。 | 竞争性教改基金、跨校协同研发专项、基础设施与数字化测评资助。 | **中至强** 能直接催生高信效度的评价工具与学科方案，但推广依赖持续经费供给。 | **优势** 激励导向明确，能激发学术共同体研发活力。<br>**短板** 项目周期结束后成果扩散与制度化面临断崖风险。 | 欧盟 Erasmus+ 战略资助（CRITHINKEDU、CALOHEE、CREATES）、爱尔兰 HEA 转型基金、美国“力争上游”评估资助。 |
+> | **法规监管（Regulation）** | 划定最低办学红线与质量准入门槛，建立制度问责底线。 | 外部质量保障（External Quality Assurance, QA）审计、专业认证（Accreditation）、国家准入资格考试。 | **弱** 侧重办学条件与管理流程等输入/过程指标，难以穿透至微观课堂评价设计。 | **优势** 具有硬性法律约束力与强制合规效应。<br>**短板** 易诱发形式主义合规，抑制教学创新。 | 欧洲质保标准（ESG 2015）、德国专业/系统认证、挪威教育质量保障局（Norwegian Agency for Quality Assurance in Education, NOKUT）机构质保审计、德国国家考试（Staatsexamen）。 |
+> | **财政支持（Financial Support）** | 引导高校与科研团队投身评价技术攻关，孵化优秀实践范式。 | 竞争性教改基金、跨校协同研发专项、基础设施与数字化测评资助。 | **中至强** 能直接催生高信效度的评价工具与学科方案，但推广依赖持续经费供给。 | **优势** 激励导向明确，能激发学术共同体研发活力。<br>**短板** 项目周期结束后成果扩散与制度化面临断崖风险。 | 欧盟 Erasmus+ 战略资助（高等教育课程批判性思维项目（Critical Thinking in Higher Education Curricula, CRITHINKEDU）、[[CALOHEE Project|欧洲高等教育学习成果测度与比较项目]]（Measuring and Comparing Achievements of Learning Outcomes in Higher Education in Europe, CALOHEE）、高等教育敏捷教学共创项目（Co-Creating Agile Teaching and Learning in Higher Education, CREATES））、爱尔兰高等教育局（Higher Education Authority, HEA）转型基金、美国“力争上游”评估资助。 |
 > | **信息引导（Information）** | 提升院校与教师评价素养，形成全行业质量共识与自律文化。 | 最佳实践指南、国家质量准则、机构自评诊断工具、高校质量信息公开。 | **间接但深远** 依托专业声誉与同伴压力推动自发变革，重塑教师教学评价理念。 | **优势** 尊重高校自治与学术自由，阻力最小。<br>**短板** 缺乏强制执行力，对惰性较强的传统院校约束有限。 | 英国 QAA《学业评价建议与指导》、欧盟/[[OECD]] HEInnovate 自评工具、美国州级政策意向引导。 |
 >
 > （pp. 5–8）
@@ -216,7 +229,7 @@ updated: 2026-08-27
 > | **欧洲高等教育区资格框架（QF-EHEA 都柏林描述符）** | 欧洲高等教育区 49 国；本/硕/博三级学位结构。 | 学士要求搜集和解释相关数据做出反思判断；硕士要求在信息不全时严谨推论；博士要求批判分析与综合全新复杂思想。 | 学士要求创新应用；硕士整合跨学科知识解决新问题；博士通过原创研究拓展知识疆界。 | **宏观倡导** 确立了学位终结性标准，但未提供具体的考核方法与量规指南。 |
 > | **欧洲[[Lifelong Learning\|终身学习]]资格框架（EQF-LLL）** | 涵盖中等职业到高等教育 8 个进阶等级。 | 5–8 级逐步递进：从评估复杂专业问题、批判性评估既有知识到批判性审视前沿知识。 | 5–8 级逐步递进：从制定创造性解决方案、开发创新流程到开辟全新学术与专业领域。 | **参考基准** 促进跨国文凭互认，但具体评价权力完全归属各国与院校自治。 |
 > | **欧洲质保标准与指南（ESG 2015）** | 欧洲高等教育区所有高校与质保机构。 | Standard 1.3 强调以学生为中心的学习与评价，要求考核反映预期成果并鼓励批判反思。 | 鼓励教师采用促进创造性探索与多样化表现的评价方式。 | **流程规约** 强制要求公开考核标准与提供形成性反馈，但具体素养考核留白。 |
-> | **全球区域资格框架（AQRF / CQHRD / PQF）** | 东南亚（东盟）、加勒比共同体、太平洋岛国等区域。 | 均明确将独立批判思考、逻辑推理与证据辨析确立为高等教育毕业生的核心预期成果。 | 普遍将创新能力、适应多变情境与创业精神作为关键通用素养纳入分级标准。 | **区域互认** 侧重跨境劳动力流动与资格对齐，评价实践指引仍处于起步阶段。 |
+> | **全球区域资格框架（如东盟资格参考框架 ASEAN Qualifications Reference Framework, AQRF；加勒比共同体人力资源开发资格框架 CARICOM Qualifications Framework for Human Resource Development, CQHRD；太平洋资格框架 Pacific Qualifications Framework, PQF）** | 东南亚（东盟）、加勒比共同体、太平洋岛国等区域。 | 均明确将独立批判思考、逻辑推理与证据辨析确立为高等教育毕业生的核心预期成果。 | 普遍将创新能力、适应多变情境与创业精神作为关键通用素养纳入分级标准。 | **区域互认** 侧重跨境劳动力流动与资格对齐，评价实践指引仍处于起步阶段。 |
 >
 > （pp. 8–11）
 
@@ -230,7 +243,7 @@ updated: 2026-08-27
 > [!claim] 各国政府广泛将高阶思维写入国家战略与资格框架，但面临行政规约与高校自治的松散耦合；通过综合议程、资格框架、质保认证、统考改造与研发资助“五大政策杠杆”，可实现系统性推进。（pp. 11–20）
 
 > [!chain-link] 国家政策测绘、松散耦合矛盾与五大政策杠杆
-> - **国家政策战略规划与资格框架下沉** OECD 成员国广泛将高阶思维确立为国家核心人力资本，国家资格框架（NQF）普及率剧增并逐步细化跨学段阶梯式描述符。（pp. 11–16）
+> - **国家政策战略规划与资格框架下沉** OECD 成员国广泛将高阶思维确立为国家核心人力资本，国家资格框架（National Qualifications Framework, NQF）普及率剧增并逐步细化跨学段阶梯式描述符。（pp. 11–16）
 > - **行政规约与学术自治的“松散耦合”治理困境** 高等教育深厚的[[Academic Freedom|学术自由]]与院校自治传统使得政策穿透面临两难：刚性行政指令易诱发教师群体抵制与形式主义应付，宽泛倡议又难以撼动闭卷事实笔试的惯性，政策制定者必须在行政规约与学术开放间寻求精准平衡。（pp. 18–19）
 > - **构建系统协同的“五大政策杠杆”[[Analytic Framework|分析框架]]** 单一政策指令无法打破考核惯性，必须依托战略议程（政治信号）、资格框架（能力进阶）、质保认证（破除阻碍）、统考改造（正面反拨）与专项研发资助（工具供给）的五大政策杠杆系统合力。（p. 20）
 
@@ -241,20 +254,32 @@ updated: 2026-08-27
 > | **日本** | 《第三期教育振兴基本计划》（文部科学省, 2018） | 强调培养学生在未可预测社会中的主体探究与批判思考力。 | 推动大学开展学修成果可视化学业评价，引导从被动听讲考试转向[[Active Learning\|主动学习]]评价。 |
 > | **挪威** | 《高等教育质量文化白皮书》（Report No. 16, 2017） | 将批判思维与创新能力纳为高质量教育文化的核心内涵。 | 强化机构质保审计（NOKUT），要求大学公开评价准则并系统推行促学评价。 |
 > | **法国** | 国家高教战略（StraNES, 2017）与《学士学位法令》（2018） | 强调跨学科批判素养、智识自主性与创新实践能力。 | 法律明令废除单一期末统考主导，强制推行平时过程性考核（Contrôle continu）。 |
-> | **美国（弗州）** | 弗吉尼亚州高等教育总体规划（SCHEV 政策） | 将批判性思维、书面沟通列为大学本科六大通识核心能力。 | 州高教委员会强制要求公立院校定期评估并呈报学生的批判性思维与通用能力增益。 |
+> | **美国（弗州）** | 弗吉尼亚州高等教育总体规划（弗吉尼亚州高等教育委员会 State Council of Higher Education for Virginia, SCHEV 政策） | 将批判性思维、书面沟通列为大学本科六大通识核心能力。 | 州高教委员会强制要求公立院校定期评估并呈报学生的批判性思维与通用能力增益。 |
 > | **奥地利** | 《新教师教育方案》（PädagogInnenbildung Neu, 2013/2014） | 将创造力、批判反思与审美教育确立为师范生核心胜任力。 | 在初任教师国家培养标准中建立跨学段阶梯式观察指标与表现评价要求。 |
 >
 > （pp. 11–16）
 
-> [!case] 德国 KoKoHs 计划：高等教育能力建模与测量的国家级典范
-> 德国联邦教育与研究部（BMBF）在 2011–2020 年间持续资助“高等教育能力建模与测量”（KoKoHs）大型科研计划，成为全球范围内最具系统性的国家级高教测评研发工程（KoKoHs, 2015; Zlatkin-Troitschanskaia et al., 2017, 2020）。
-> - **第一阶段（2011–2015）** 汇聚来自 50 余所大学的 220 名学者，设立 70 个研究项目，成功研制出 41 套高等教育能力框架与 116 套测量工具，系统覆盖了通用高阶认知技能（批判性思维、复杂问题解决）与多学科专业能力。
-> - **第二阶段（2015–2020）** 聚焦工具效度验证、方法创新（计算机化自适应测试、心理测量统计模型与纵向追踪）与成果转化，在全德 350 所高校的 75,000 余名学生中完成了大规模心理测量学验证，为高等教育评估提供了坚实的实证与工具库支持。（pp. 16–17）
+> [!case] [[KoKoHs Program|德国 KoKoHs 计划]]：高等教育能力建模与测量的国家级典范
+> 德国联邦教育与研究部（BMBF）在 2011–2020 年间持续资助“高等教育能力建模与测量”（Kompetenzmodellierung und Kompetenzerfassung im Hochschulsektor, KoKoHs）大型国家级科研工程，成为全球范围内规模最大、体系最完备的高教测评研发标杆（KoKoHs, 2015; Zlatkin-Troitschanskaia et al., 2017, 2020）：
+> - **第一阶段（KoKoHs I, 2011–2015）能力建模与工具研发**
+>   - **跨校学术网络** 汇聚全德 50 余所大学与科研机构的 220 余名资深研究者，下设 70 个跨学科独立子项目。
+>   - **研发产出** 成功研制出 41 套高等教育能力理论模型与 116 套配套心理测量学工具，系统覆盖经济学、工程学、医学、教师教育等专业胜任力以及批判性思维、复杂问题解决等跨学科通用高阶认知技能。
+> - **第二阶段（KoKoHs II, 2015–2020）心理测量学验证与方法创新**
+>   - **实证常模样本** 在全德 350 所高等院校的 75,000 余名本科生及研究生中完成了大规模常模测试与工具效度验证。
+>   - **测评技术突破** 重点推进计算机化自适应测试（[[Consensual Assessment Technique|CAT]]）、多维[[Item Response Theory|项目反应理论]]（Multidimensional IRT）统计模型以及多学段纵向[[Cohort Study|追踪研究]]。
+>   - **制度化价值** 建立了兼具[[Domain Specificity|学科特异性]]与通用高阶思维的测评工具库，为德国高校质量保障与国际高教评估提供了扎实的心理测量学依据。（pp. 16–17）
 
 > [!case] 意、英、美对高阶能力评价的[[Going Native|本土化]]探索与实践
-> - **意大利 ANVUR TECO 试验（2012–2015）** 意大利国家大学与科研评估署（ANVUR）与美国援助教育理事会（Council for Aid to Education, CAE）合作，将 大学学习评估（[[Collegiate Learning Assessment|CLA+]]）本土化改编为意大利大学生素养测验（TECO）。2015 年在全意 23 所大学对 6,000 多名本科生实施测试，成功验证了在欧洲大学情境下利用情境化表现任务测量大学生批判性思维与书面沟通的可行性。（p. 17）
-> - **英国 HEFCE 学习增益项目（2014–2018）** 英国高等教育拨款委员会（HEFCE）拨款 400 万英镑资助 13 个试点项目，联合 70 多所高校探索测量[[Learning Gain|学习增益]]的多元路径。其中两个项目重点将 CLA+ 适配至英国高教语境，追踪学生从大一至大三的批判性思维纵向成长，揭示了能力增长模式并促进了参与院校对考核体系的反思。（pp. 17–18）
-> - **美国 InTASC 与 ETS 教师教学知识测验（TTK）** 15 个州与美国教育考试服务中心（Educational Testing Service, ETS）合作，依据美国州际新教师评估与支持联盟（InTASC / CCSSO）核心教学标准开发“教师教学知识测验”（Test of Teaching Knowledge, TTK），通过生成性情境分析题评估新任教师运用多元教学策略与促进学生高阶思维的专业胜任力（Darling-Hammond et al., 2010; CCSSO, 2016）。（p. 18）
+> - **[[TECO Project|意大利 ANVUR TECO 试验]]（2012–2015）：情境化表现测试跨国移植**
+>   - **制度背景与[[Transfer Translation Transformation|转译]]** 意大利国家大学与科研评估署（Agenzia Nazionale di Valutazione del Sistema Universitario e della Ricerca, ANVUR）探索国家级本科质量监测，与美国援助教育理事会（Council for Aid to Education, CAE）深度合作，将大学学习评估（[[Collegiate Learning Assessment|CLA+]]）系统翻译与文化本土化为意大利大学生素养测验（Test sulle Competenze, TECO）。
+>   - **实证检验** 2015 年在全意 23 所大学对 6,000 多名本科生实施全真施测，成功验证了在欧洲大陆大学语境下运用真实文档库情境化表现任务（Performance Tasks）测量批判性思维与书面沟通的[[Ecological Validity|生态效度]]与测量[[Reliability|信度]]。（p. 17）
+> - **[[HEFCE Learning Gain Project|英国英格兰高等教育拨款委员会（Higher Education Funding Council for England, HEFCE）学习增益项目]]（2014–2018）：纵向队列增益追踪**
+>   - **资金与协作规模** 英格兰高等教育拨款委员会（HEFCE）注资 400 万英镑设立国家专项，联合全英 70 多所高校开展 13 个试点项目，探索标准化测试、纵向学业增益、[[Student Engagement|学生投入]]与[[Learning Analytics|学习分析]]大数据的多元路径。
+>   - **增益机制探索** 其中两个项目重点将 CLA+ 适配至英国高教语境，开展大一入学至大三毕业的纵向队列追踪，精确绘制了批判性思维在本科阶段的增长轨迹，有力推动了参与高校对日常考核中缺乏高阶思维任务的制度反思。（pp. 17–18）
+> - **美国州际新教师评估与支持联盟（InTASC）与美国教育考试服务中心（ETS）教师教学知识测验（TTK）：生成性情境执业评估**
+>   - **跨州政策联盟** 美国各州首席教育官理事会（Council of Chief State School Officers, CCSSO）下属州际新教师评估与支持联盟（InTASC）联合 15 个州教育厅与美国教育考试服务中心（Educational Testing Service, ETS）联合研制。
+>   - **[[Construct|构念]]与题型创新** 将“促进学生批判性思维与创造性探究的教学能力”确立为核心胜任力，摒弃纯客观选择题，采用高度真实的教学情境生成性任务（Constructed-Response Items），要求考生对学习困难诊断、教学策略调整与思维支架设计进行开放论述。
+>   - **多维评价体系** 结合学科内容测试与真实教学实践档案袋（Teaching Portfolios），构建起贯通师范教育与教师准入资格认证的[[Authentic Assessment|表现性评价]]链条。（p. 18）
 
 > [!example]- 图1：促进高等教育中创造力与[[Critical Thinking Assessment|批判性思维评价]]的政策杠杆汇总
 > ![](https://img.mylikemie.icu/sources/Bouckaert_2023_OECD/figures/Bouckaert_2023_OECD_Fig1_Policy_Levers.jpg)
@@ -264,7 +289,7 @@ updated: 2026-08-27
 > |---|---|---|---|
 > | **1. 采纳综合政策议程**<br>(Comprehensive Agenda) | 向高等教育部门发出优先培养高阶思维与对齐评价的明确政治信号，作为顶层政策框架。 | 发布国家白皮书、中长期教育战略规划，明确将批判与创新确立为全系统质量核心基准。 | 爱尔兰《面向2030年国家高等教育战略》、日本《第三期教育振兴基本计划》、挪威《高等教育质量文化白皮书》。 |
 > | **2. 优化国家资格框架**<br>(Enhance NQFs) | 将创造力与批判性思维界定为核心学习成果，并细化不同学段与学科领域的阶梯式进阶水平。 | 建立清晰的分级描述符，将抽象素养逐级[[Transfer Translation Transformation\|转译]]为可观察的行为表征与学科成果要求。 | 新西兰资格框架（NZQF）、澳大利亚资格框架（AQF）、奥地利《新教师教育方案》。 |
-> | **3. 调整质量保障与认证**<br>(Align QA & Accreditation) | 引导与激励高校反思现有考核实践，将高阶思维评价纳入质保指标，破除评价制度障碍。 | 在外部质保与专业认证中增设过程性评价指标，破除单一笔试合规导向，给予考核创新空间。 | 美国弗吉尼亚州本科教育质量与学习评价政策（SCHEV）、宾夕法尼亚州高等教育系统《2020战略计划》（PASSHE）。 |
+> | **3. 调整质量保障与认证**<br>(Align QA & Accreditation) | 引导与激励高校反思现有考核实践，将高阶思维评价纳入质保指标，破除评价制度障碍。 | 在外部质保与专业认证中增设过程性评价指标，破除单一笔试合规导向，给予考核创新空间。 | 美国弗吉尼亚州本科教育质量与学习评价政策（SCHEV）、宾夕法尼亚州州立高等教育系统（Pennsylvania State System of Higher Education, PASSHE）《2020战略计划》。 |
 > | **4. 改造政府主导的统考**<br>(Adapt Large-Scale Exams) | 认证个人在高等教育各阶段获得的高级思维能力，并为系统政策提供技能发展诊断数据。 | 入学统考增设开放表现任务与答辩；毕业统考引入跨学科探究；开展全国学生通用素养调查。 | 爱沙尼亚（Riigieksamid）/瑞士（Matura）/法国（Grand Oral）入学联考、澳大利亚（[[Graduate Outcomes Survey\|GOS]]）/挪威（Studiebarometeret）调查、巴西（ENADE）。 |
 > | **5. 资助创新评价研发**<br>(Fund Innovative R&D) | 积累信效度兼备的高阶思维测评方法，培育高校利益相关者专业能力，实现优秀经验跨校推广。 | 设立国家竞争性专项基金，资助跨校学者研制学科化量规、表现任务与自适应测评工具。 | 德国 KoKoHs 研究计划、意大利 ANVUR TECO 测试、英国 HEFCE 学习增益项目（Learning Gain）、美国 InTASC 教师教学知识测验（TTK）。 |
 >
@@ -288,10 +313,10 @@ updated: 2026-08-27
 > [!ref-table]- 批判性思维（Critical Thinking）的主要测量工具谱系与技术路径对比
 > | 测量工具类别 | 代表性工具名称（中文全称、英文全称与缩写） | 开发机构 / 主导学者 | 核心测试构念与测量维度 | 题型格式与作答载体 | 优势与适用场景 | 核心局限与方法学挑战 |
 > |---|---|---|---|---|---|---|
-> | **经典心理测量学客观测试** | 沃森-格拉瑟批判性思维评估（Watson-Glaser Critical Thinking Appraisal, [[Watson-Glaser Critical Thinking Appraisal\|WGCTA]]）<br>加州批判性思维技能测验（California Critical Thinking Skills Test, CCTST）<br>康奈尔批判性思维测验（Cornell Critical Thinking Test） | Watson & Glaser (1980)<br>Facione (1992)<br>Ennis et al. (2005) | 推理、识别前提[[Hypothesis\|假设]]、演绎推理、解释与论据评价。 | 客观多项选择题（MCQs）。 | **优势** 测量[[Reliability\|信度]]极高、成本极低、可完全自动化阅卷，适合大规模标准化横向对比。 | **局限** 局限于封闭选项“再认”，无法测量论据“主动生成”与真实劣构问题解决，构念代表性不足。 |
-> | **混合型情境分析测验** | 霍尔珀恩批判性思维测评（Halpern Critical Thinking Assessment, HCTA）<br>田纳西理工批判性思维评估测验（Critical Thinking Assessment Test, CAT）<br>恩尼斯-威尔批判性思维论文测验（Ennis-Weir Critical Thinking Essay Test） | Halpern (2010)<br>Stein et al. (2007)<br>Ennis & Weir (1985) | 论证分析、假设检验、概率推理、决策制定与创造性问题解决。 | 开放情境简答题 + 客观选答题混合编排；或短篇论述。 | **优势** 兼顾生成性与客观性，[[Ecological Validity\|生态效度]]显著高于纯单选题。 | **局限** 人工判卷与量规培训成本较高，题库迭代与跨评卷人一致性维护复杂。 |
-> | **高等教育增值表现性测试** | 大学学习评估（Collegiate Learning Assessment, [[Collegiate Learning Assessment\|CLA / CLA+]]）<br>ETS HEIghten 批判性思维测评<br>大学学业能力测评（CAAP）<br>ETS 学术水平概况测验（EPP / MAPP） | CAE (2013)<br>ETS / Loyalka et al. (2021)<br>ACT (2006)<br>ETS (2010) | 复杂现实问题解决、批判性分析、决策论证与书面沟通。 | 60 分钟真实文档库表现任务（PT） + 30 分钟选答题。 | **优势** 模拟真实决策情境，生态效度高，专门用于测量大学全周期纵向[[Learning Gain\|学习增益]]。 | **局限** 阅卷成本昂贵；在低利害系统监测中学生作答努力度严重不足，易导致测验偏差。 |
-> | **专业领域选拔与准入高利害考试** | 医学院入学考试（Medical College Admission Test, MCAT）<br>生物医学入学考试（BioMedical Admissions Test, BMAT）<br>英国法学国家能力测试（Law National Aptitude Test, LNAT）<br>墨西哥研究生入学考试（EXANI-III）<br>澳大利亚毕业生技能测验（GSA） | AAMC<br>Cambridge Assessment<br>Pearson / LNAT 财团<br>CENEVAL<br>ACER (Hambur, 2002) | 批判性分析与推理技能（CARS）、论点重构、科学推理、数据推断、论述表达。 | 复杂专业文本长篇阅读理解 + 论述性小论文。 | **优势** 高利害选拔机制驱动学生付出最大努力度，[[Predictive Validity\|预测效度]]与选拔区分度高。 | **局限** 偏向特定专业入学门槛筛选，难以作为大学日常教学改进的常态化工具。 |
+> | **经典心理测量学客观测试** | 沃森-格拉瑟批判性思维评估（Watson-Glaser Critical Thinking Appraisal, [[Watson-Glaser Critical Thinking Appraisal\|WGCTA]]）<br>[[California Critical Thinking Skills Test\|加州批判性思维技能测验]]（California Critical Thinking Skills Test, CCTST）<br>[[Cornell Critical Thinking Test\|康奈尔批判性思维测验]]（Cornell Critical Thinking Test） | Watson & Glaser (1980)<br>Facione (1992)<br>Ennis et al. (2005) | 推理、识别前提[[Hypothesis\|假设]]、演绎推理、解释与论据评价。 | 客观多项选择题（MCQs）。 | **优势** 测量[[Reliability\|信度]]极高、成本极低、可完全自动化阅卷，适合大规模标准化横向对比。 | **局限** 局限于封闭选项“再认”，无法测量论据“主动生成”与真实劣构问题解决，构念代表性不足。 |
+> | **混合型情境分析测验** | [[Halpern Critical Thinking Assessment\|霍尔珀恩批判性思维测评]]（Halpern Critical Thinking Assessment, HCTA）<br>[[Critical Thinking Assessment Test\|田纳西理工批判性思维评估测验]]（Critical Thinking Assessment Test, CAT）<br>[[Ennis-Weir Critical Thinking Essay Test\|恩尼斯-威尔批判性思维论文测验]]（Ennis-Weir Critical Thinking Essay Test） | Halpern (2010)<br>Stein et al. (2007)<br>Ennis & Weir (1985) | 论证分析、假设检验、概率推理、决策制定与创造性问题解决。 | 开放情境简答题 + 客观选答题混合编排；或短篇论述。 | **优势** 兼顾生成性与客观性，[[Ecological Validity\|生态效度]]显著高于纯单选题。 | **局限** 人工判卷与量规培训成本较高，题库迭代与跨评卷人一致性维护复杂。 |
+> | **高等教育增值表现性测试** | 大学学习评估（Collegiate Learning Assessment, [[Collegiate Learning Assessment\|CLA / CLA+]]）<br>[[ETS HEIghten Critical Thinking Assessment\|ETS HEIghten 批判性思维测评]]<br>大学学业能力测评（CAAP）<br>ETS 学术水平概况测验（EPP / MAPP） | CAE (2013)<br>ETS / Loyalka et al. (2021)<br>美国大学入学考试机构（American College Testing, ACT, 2006）<br>ETS (2010) | 复杂现实问题解决、批判性分析、决策论证与书面沟通。 | 60 分钟真实文档库情境表现任务（Performance Tasks, PT） + 30 分钟选答题。 | **优势** 模拟真实决策情境，生态效度高，专门用于测量大学全周期纵向[[Learning Gain\|学习增益]]。 | **局限** 阅卷成本昂贵；在低利害系统监测中学生作答努力度严重不足，易导致测验偏差。 |
+> | **专业领域选拔与准入高利害考试** | 医学院入学考试（Medical College Admission Test, MCAT）<br>生物医学入学考试（BioMedical Admissions Test, BMAT）<br>英国法学国家能力测试（Law National Aptitude Test, LNAT）<br>墨西哥国家研究生入学考试（Examen Nacional de Ingreso al Posgrado, EXANI-III）<br>澳大利亚毕业生技能测验（Graduate Skills Assessment, GSA） | 美国医学院协会（Association of American Medical Colleges, AAMC）<br>Cambridge Assessment<br>Pearson / LNAT 财团<br>墨西哥国家高等教育评估中心（Centro Nacional de Evaluación para la Educación Superior, CENEVAL）<br>澳大利亚教育研究委员会（Australian Council for Educational Research, ACER; Hambur, 2002） | 批判性分析与推理技能模块（Critical Analysis and Reasoning Skills, CARS）、论点重构、科学推理、数据推断、论述表达。 | 复杂专业文本长篇阅读理解 + 论述性小论文。 | **优势** 高利害选拔机制驱动学生付出最大努力度，[[Predictive Validity\|预测效度]]与选拔区分度高。 | **局限** 偏向特定专业入学门槛筛选，难以作为大学日常教学改进的常态化工具。 |
 > | **课程嵌入式真实性评分量规** | AAC&U VALUE 批判性思维量规（[[VALUE Rubrics]]）<br>欧洲 CALOHEE 批判性思维评价参照框架 | 全美大学与学院协会（AAC&U, Rhodes, 2009）<br>欧洲 Tuning / CALOHEE 协会 (Wagenaar, 2018) | 阐明问题、证据运用、情境与假设识别、确立个人立场、得出严谨结论。 | 4 级阶梯表现描述符（Benchmark → Capstone），直接嵌入真实[[Homework\|作业]]与论文。 | **优势** 深度融入日常专业教学与评价，直接指导师生形成性反馈与反思改进。 | **局限** 评分信度依赖校内与跨校教师评分校准研讨（Calibration），横向可比性需持续维护。 |
 >
 > （pp. 21–28）
@@ -301,14 +326,14 @@ updated: 2026-08-27
 > |---|---|---|---|---|---|---|
 > | **心理测量学[[Divergent Thinking\|发散思维]]与联想测验** | 托兰斯创造性思维测验（Torrance Tests of Creative Thinking, [[Torrance Tests of Creative Thinking\|TTCT]]）<br>远距离联想测验（Remote Associates Test, [[Remote Associates Test\|RAT]]） | Torrance (1966/1974)<br>Mednick (1968) | 流畅性（Fluency）、灵活性（Flexibility）、独创性（Originality）、精致性（Elaboration）。 | 图形联想、不完整图形补全、词语发散联想、开放构图任务。 | **优势** 心理测量学标准化程度高，具有成熟的常模参照体系。 | **局限** 高度脱离具体学科专业情境，难以反映高等教育中真实的学术研究与专业实践创造力。 |
 > | **专家主观产品[[Consensual Assessment Technique\|共识评估技术]]** | 共识评估技术（Consensual Assessment Technique, [[Consensual Assessment Technique\|CAT]]） | Amabile (1982, 1983) | 领域专家对真实创作成果独创性（Novelty）与适切性（Appropriateness）的主观共识评判。 | 艺术作品、文学创作、工程设计原型、学术小论文、研究提案。 | **优势** 直接评定学生生成的真实产品，被学术界公认为创造力测量的“黄金标准”（Gold Standard）。 | **局限** 高度依赖多名同领域专家的独立主观评审，在大规模测试中组织成本极高，难以自动化。 |
-> | **大学招生选拔创造力试验项目** | 彩虹项目（Rainbow Project）<br>万花筒项目（Kaleidoscope Project） | Sternberg (2006, 2009) | 分析性能力、创造性能力（发散故事创作、幽默图说设计、口头叙事）与实践性问题解决。 | 补充性开放式创造力[[Questionnaire\|问卷]]与情境解决任务（塔夫茨大学与俄克拉荷马大学录取试点）。 | **优势** 能显著提高生源多元化程度，有效预测大学学业潜能并超越传统 SAT 偏误。 | **局限** 评分耗时长、常模校准困难，难以在常规大规模高利害[[Gaokao\|高考]]中实现低成本推广。 |
-> | **整合型批判-创造力情境测验** | 田纳西理工批判性思维评估测验（CAT）创造性子维度 | Center for Assessment & Improvement of Learning (Stein et al., 2007) | 将创造性问题解决、新信息整合与构想替代方案内嵌于批判性分析中。 | 真实情境简答题，要求学生主动提出解决复杂问题的创新替代方案。 | **优势** 巧妙打破批判与创造的二元割裂，在同一情境任务中兼测批判论证与创新构想。 | **局限** 评分需经过培训的校内教师团队实施，试卷维护与跨学科通用性存在边界。 |
-> | **课程嵌入式真实性评分量规** | AAC&U VALUE 创造性思维量规（[[VALUE Rubrics]]）<br>OECD CERI 创造力原型评分量规<br>欧洲 CALOHEE 创新评价参照框架 | AAC&U (Rhodes, 2009)<br>OECD CERI (Vincent-Lancrin et al., 2019)<br>CALOHEE (Wagenaar, 2018) | 承担智识风险（Risk-Taking）、突破常规思维模式（Novelty）、整合多源矛盾观念、创造性产出转化。 | 4 级阶梯表现描述符，直接应用于课程大作业、毕业设计、科研项目与反思档案。 | **优势** 评价标准公开透明，完美赋能师生形成性反馈与自主探索，与专业教学无缝共生。 | **局限** 要求教师具备高水平评价素养与设计真实[[Task Structure\|劣构任务]]的能力，评分一致性需研讨保障。 |
+> | **大学招生选拔创造力试验项目** | 彩虹项目（Rainbow Project）<br>万花筒项目（Kaleidoscope Project） | Sternberg (2006, 2009) | 分析性能力、创造性能力（发散故事创作、幽默图说设计、口头叙事）与实践性问题解决。 | 补充性开放式创造力[[Questionnaire\|问卷]]与情境解决任务（塔夫茨大学与俄克拉荷马大学录取试点）。 | **优势** 能显著提高生源多元化程度，有效预测大学学业潜能并超越传统学术能力评估测试（Scholastic Assessment Test, SAT）偏误。 | **局限** 评分耗时长、常模校准困难，难以在常规大规模高利害[[Gaokao\|高考]]中实现低成本推广。 |
+> | **整合型批判-创造力情境测验** | [[Critical Thinking Assessment Test\|田纳西理工批判性思维评估测验]]（CAT）创造性子维度 | Center for Assessment & Improvement of Learning (Stein et al., 2007) | 将创造性问题解决、新信息整合与构想替代方案内嵌于批判性分析中。 | 真实情境简答题，要求学生主动提出解决复杂问题的创新替代方案。 | **优势** 巧妙打破批判与创造的二元割裂，在同一情境任务中兼测批判论证与创新构想。 | **局限** 评分需经过培训的校内教师团队实施，试卷维护与跨学科通用性存在边界。 |
+> | **课程嵌入式真实性评分量规** | AAC&U VALUE 创造性思维量规（[[VALUE Rubrics]]）<br>经合组织教育研究与创新中心（Centre for Educational Research and Innovation, CERI）创造力原型评分量规<br>欧洲 CALOHEE 创新评价参照框架 | AAC&U (Rhodes, 2009)<br>OECD CERI (Vincent-Lancrin et al., 2019)<br>CALOHEE (Wagenaar, 2018) | 承担智识风险（Risk-Taking）、突破常规思维模式（Novelty）、整合多源矛盾观念、创造性产出转化。 | 4 级阶梯表现描述符，直接应用于课程大作业、毕业设计、科研项目与反思档案。 | **优势** 评价标准公开透明，完美赋能师生形成性反馈与自主探索，与专业教学无缝共生。 | **局限** 要求教师具备高水平评价素养与设计真实[[Task Structure\|劣构任务]]的能力，评分一致性需研讨保障。 |
 >
 > （pp. 23–28）
 
 > [!tension-table] 大规模标准化考试中客观选择题与开放表现任务的系统权衡
-> | 评价维度 | 客观多项选择题（Selected-Response MCQs） | 开放式情境表现任务（Constructed Performance Tasks） |
+> | 评价维度 | 客观多项选择题（Multiple-Choice Questions, MCQs） | 开放式情境表现任务（Constructed Performance Tasks） |
 > |---|---|---|
 > | **心理测量学信度** | **极高** 机器阅卷无评分者主观误差，[[Internal Consistency\|内部一致性]]极高。 | **中等** 依赖人工量规打分与算法校准，评分一致性需持续维护。 |
 > | **构念代表性与效度** | **低** 偏向孤立事实识记与封闭推理，存在严重的构念代表性不足。 | **极高** 模拟真实劣构情境，直接测度分析、综合推理与创新生成。 |
@@ -319,11 +344,19 @@ updated: 2026-08-27
 > （pp. 24–26）
 
 > [!case] 国家大规模入学与毕业统考的创新改革前沿
-> 为克服客观选择题的弊端，若干 OECD 国家在国家级大规模高利害考试中推行了极具前瞻性的改革：
-> - **爱沙尼亚国家高中毕业与大学入学联考（Riigieksamid）** 改革传统考试结构，在母语、数学与外语统考中系统融入开放式论述题、综合分析题与跨学科复杂任务，直接考察学生的批判性思维与高阶应用能力。
-> - **瑞士高中毕业与大学入学统考（Matura）** 严格要求每位考生在笔试之外，必须独立完成一篇跨学科深度研究论文（Matura Paper）并进行现场答辩，将研究设计、批判反思与创造性问题解决直接挂钩大学入学资格。
-> - **法国国家高中会考改革（Baccalauréat 2021）** 重构考试体系，设立核心考核模块“大口试”（Grand Oral）。考生需围绕两门选修专业课程准备跨学科研究课题，进行 20 分钟的口头陈述、现场辩论与答辩，直接评估批判性论证、即时思维敏捷度与综合表达能力。
-> - **韩国大学入学选拔自主化改革（2008）** 逐步降低单一以选择题为主的“大学修学能力考试”（College Scholastic Ability Test, CSAT）在录取中的绝对权重，赋予高校更多自主权，综合考察学生的研究论文、创造性作品集与综合面试表现。
+> 为克服客观选择题构念不足的弊端，若干 OECD 国家在国家级大规模高利害考试中推行了极具前瞻性的表现性评价改革：
+> - **爱沙尼亚国家高中毕业与大学入学联考（Riigieksamid）**
+>   - **考试结构重构** 爱沙尼亚教育与青年委员会彻底改造国家统考架构，在母语、数学与外语统考中大幅压缩孤立事实识记题。
+>   - **高阶任务嵌入** 系统增设开放式长篇论述题、跨学科复杂案例分析与生成性探究任务，将批判性推理、数据综合解释与创新方案设计作为大学入学选拔的核心依据，形成了强有力的正面反拨效应。（pp. 23–24）
+> - **瑞士高中毕业与大学入学统考（Matura）**
+>   - **独立研究硬性门槛** 瑞士各州长期坚持将学术研究项目列为高中毕业与升入大学的法定[[Necessary and Sufficient Conditions|必要条件]]。
+>   - **毕业大论文（Matura Paper）与现场答辩** 每位考生必须在教师指导下独立完成一篇耗时数月、符合学术规范的跨学科研究论文，并面向校内外专家委员会进行现场陈述与答辩质规，全面考察[[Problem Finding|问题界定]]、证据检索、批判审视与创造性论证能力。（p. 24）
+> - **[[French Baccalaureat 2021 Reform|法国国家高中会考全面改革]]（Baccalauréat 2021）**
+>   - **平时与统考再平衡** 强制推行平时过程性考核（Contrôle continu，占总成绩 40%），打破“单一终结性考试决定命运”的制度惯性。
+>   - **标志性“大口试”（Grand Oral）模块** 考生须围绕高中最后两年主修的两门专业学科自主确定跨学科探究课题，并在会考中完成 20 分钟全真现场答辩：包含 5 分钟脱稿立论陈述、10 分钟与考官委员会展开深度思辨质辩、5 分钟阐述该研究与未来大学专业学术规划的关联，直接评估逻辑推理、思维敏捷度与即席学术表达。（pp. 24–25）
+> - **韩国大学入学选拔自主化与综合录取改革（2008 起）**
+>   - **破除单选题统考垄断** 逐步压缩以客观选择题为主的“大学修学能力考试”（College Scholastic Ability Test, CSAT / 修能）在大学录取中的绝对决定权。
+>   - **学生簿综合评价（Student Record Comprehensive Screening）** 赋予大学充分的招生自主裁量权，系统引入高中学业成长档案、跨学科探究小论文、创造性作品集与结构化深度面试，驱动高中教学从被动应试转向主动探究。（p. 25）
 >
 > （pp. 23–25）
 
@@ -338,7 +371,7 @@ updated: 2026-08-27
 
 > [!chain-link] 微观考核惯性、模块化危机与校本真实性量规的崛起
 > - **[[Constructive Alignment|建构性对齐]]在微观转译中的制度性断裂** 宏观资格框架普遍缺乏经验实证与学科操作化细则，导致高校在教学大纲与考试命题中出现“名义对齐、实质脱节”的合规幻象。（p. 26）
-> - **学分模块化与 TESTA 过度考核危机** 密集学分模块化导致期末终结性大考过度拥挤，教师疲于判卷无暇提供指导性评语，迫使学生采取应试策略，严重挤压了需要低利害试错与多轮迭代的高阶思维成长。（pp. 26–27）
+> - **学分模块化与[[TESTA Project|全课程评价体验项目]]（Transforming the Experience of Students Through Assessment, TESTA）过度考核危机** 密集学分模块化导致期末终结性大考过度拥挤，教师疲于判卷无暇提供指导性评语，迫使学生采取应试策略，严重挤压了需要低利害试错与多轮迭代的高阶思维成长。（pp. 26–27）
 > - **校本真实性评分量规的技术破局** 以 AAC&U VALUE 量规和 CALOHEE 框架为代表的质性量规，将抽象素养分解为阶梯式可观察描述符直接嵌入课程作业与设计中，兼顾了生态效度与评分信度，成为联通教学与评价的核心支架。（pp. 27–28）
 > - **跨大西洋高校普查揭示的实践瓶颈** 大规模实证调查证实：欧美高校普遍将批判性思维列为核心预期成果并积极采纳量规；但在微观课堂中，缺乏学科化操作指南与教师评价素养不足仍是阻碍深层考核变革的共同瓶颈。（pp. 28–30）
 
@@ -352,6 +385,16 @@ updated: 2026-08-27
 > | **改革遭遇的核心制度障碍** | 教师量规评分一致性（Calibration）与繁重的教学评价工作负荷。 | **63%** 高校在课程转译中遇阻，**66%** 高校在考核方式对齐中遭遇制度障碍。 | **瓶颈** 缺乏学科化操作指南与教师评价素养支持是两岸共同的深层瓶颈。 |
 >
 > （pp. 27–29）
+
+> [!case] [[CALOHEE Project|欧洲 CALOHEE 项目]]与全美 AAC&U VALUE 量规的学科化落地典范
+> - **欧洲 CALOHEE 项目（2016–2018）：跨国学科化评价参照框架**
+>   - **承袭 Tuning 进程** 欧洲高等教育学习成果测度与比较项目（CALOHEE）由欧盟委员会资助，联合全欧数十所大学、学科专家、行业雇主与校友代表共同研发。
+>   - **五大专业学科突破** 在土木工程、教师教育、历史、护理和物理五大专业领域，开创性研制出超越抽象都柏林描述符的“评价参照框架”（Assessment Reference Frameworks）。
+>   - **高阶思维学科操作化** 将批判性思维（覆盖全部 5 个专业）与创造力（覆盖教师教育、历史与物理）转化为可测量的课程预期学习成果、劣构表现任务设计范例与评分标准，构建起跨国可比且深植具体学科的真实性评价模型。（pp. 27–28）
+> - **全美 AAC&U VALUE 量规套件（2009–至今）：校本真实性评价标准共享**
+>   - **全美跨校协作研发** 全美大学与学院协会（AAC&U）组织数百所高校跨学科教师团队，历时多年研制出 16 套面向本科通用核心素养的“本科生教育学习成果有效评估”（[[VALUE Rubrics|VALUE]]）质性评分量规。
+>   - **4 级阶梯表现描述符** 建立从基准（Benchmark 1）、里程碑（Milestones 2–3）到顶峰（Capstone 4）的可观察阶梯指标，直接嵌入课程大作业、毕业设计、科研论文与反思档案袋。
+>   - **规模化制度影响** 全美超过 40% 的高校正式采纳或参考 VALUE 量规，在全美高校掀起了依托校内及跨校教师评分校准（Calibration）研讨提升评价素养的改革浪潮，成功化解了外部通用统考脱离学科课程的危机。（pp. 26–27）
 
 > [!contrast-table] 高等教育高阶思维评价的三种技术路径对比
 > | 评价路径 | 代表工具与案例 | 构念代表性与生态效度 | 实施成本与跨校可比性 | 对日常教学的形成性指导 |
@@ -395,8 +438,8 @@ updated: 2026-08-27
 > | **1. 确立系统级政策导向**<br>(System-Wide Orientations) | 国家高教主管部门、地方政府。 | 发布顶层战略白皮书，确立以高阶思维为核心的质量基准，将学业评价改革列为质量审核的必要维度。 | 形成统领性政策雨伞框架，消除“重课程宣示、轻考核对齐”的制度虚化。 |
 > | **2. 确保各层级建构性对齐**<br>(Alignment at All Levels) | 学科指导委员会、院系教务处、任课教师。 | 贯通“国家资格框架 → 学科基准 → 培养方案 → 课程成果目标 → 教学探究 → 真实性任务与量规”六级链条。 | 破除名义对齐，引导学生从表层应试走向深层探究与批判创造。 |
 > | **3. 改造大规模与高利害考试**<br>(Large-Scale Assessments) | 国家考试命题机构、大学招生委员会、行业资格协会。 | 入学与执业考试系统压缩纯客观选择题，增设开放表现任务、跨学科深度论文与现场答辩（如法国 Grand Oral、瑞士 Matura）。 | 撬动高利害考试的强大反拨力量，倒逼基础与中等教育以及大学教学模式深层转型。 |
-> | **4. 提供中央教学与评价支持**<br>(Central Support Network) | 国家教学发展联盟、高校卓越教学中心（CTL / TLC）。 | 资助卓越教学中心常态化运营，组织量规开发与跨教师评分校准（Calibration）工作坊，建设国家学科评价资源库。 | 赋能一线教师的评价素养，在尊重学术自治的前提下系统提升命题与促学指导质量。 |
-> | **5. 试点创新评价并推广经验**<br>(Pilot & Disseminate) | 跨学科科研团队、高校创新联合体、实践共同体（CoP）。 | 设立国家竞争性专项教改基金（如 KoKoHs / CALOHEE 模式），资助数字化真实性情境测评工具研发与微证书推广。 | 积累科学可靠的测评工具储备，依托跨校实践共同体实现优质评价范式的规模化辐射。 |
+> | **4. 提供中央教学与评价支持**<br>(Central Support Network) | 国家教学发展联盟、高校卓越教学中心（Centers for Teaching and Learning, CTL / Teaching and Learning Centers, TLC）。 | 资助卓越教学中心常态化运营，组织量规开发与跨教师评分校准（Calibration）工作坊，建设国家学科评价资源库。 | 赋能一线教师的评价素养，在尊重学术自治的前提下系统提升命题与促学指导质量。 |
+> | **5. 试点创新评价并推广经验**<br>(Pilot & Disseminate) | 跨学科科研团队、高校创新联合体、实践共同体（Communities of Practice, CoP）。 | 设立国家竞争性专项教改基金（如 KoKoHs / CALOHEE 模式），资助数字化真实性情境测评工具研发与微证书推广。 | 积累科学可靠的测评工具储备，依托跨校实践共同体实现优质评价范式的规模化辐射。 |
 > | **6. 建立长效监测与循证评估**<br>(Monitoring & Evaluation) | 外部质保机构（QA）、国家教育统计与科研评估机构。 | 建立课程考核大纲普查机制；研制科学工具对代表性大学生队列定期开展纵向抽样增益测评。 | 摸清基层评价落地的真实演进，为国家高教拨款、质量问责与政策迭代提供坚实实证依据。 |
 >
 > （pp. 30–35）

@@ -7,7 +7,7 @@ title: "Argument_Lei_Ding_Chiu_2026_ERR"
 argument_key: "Argument_Lei_Ding_Chiu_2026_ERR"
 argument_display_title: "The effect of graphic organizers on cultivating higher-order thinking: Evidence from a meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 45
+argument_related_count: 47
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -34,7 +34,9 @@ related_concepts:
   - "[[Higher-Order Thinking Skills]]"
   - "[[Graphic Organizer]]"
   - "[[Effect Size]]"
+  - "[[Mind Mapping]]"
   - "[[Argument Mapping]]"
+  - "[[Concept Mapping]]"
   - "[[Construct]]"
   - "[[Divergent Thinking]]"
   - "[[Convergent Thinking]]"
@@ -87,7 +89,7 @@ sources:
 part_of:
 status: draft
 created: 2026-08-25
-updated: 2026-08-25
+updated: '2026-08-27'
 ---
 # Argument_Lei_Ding_Chiu_2026_ERR
 
@@ -96,7 +98,7 @@ updated: 2026-08-25
 ## 研究问题
 
 > [!question]
-> 在人工智能普及与生成式大语言模型带来的信息爆炸时代，学校教育的核心目标已从事实记忆、机械理解与常规套用等低阶思维（Lower-Order Thinking, LOT），转向分析、评价、创造、批判与推理等[[Higher-Order Thinking Skills|高阶思维]]（Higher-Order Thinking, HOT）。虽然理论上[[Graphic Organizer|图形组织器]]（Graphic Organizer, GO）能够通过空间隐喻提取关键信息并组织拓扑关系，将学生的认知努力从低阶信息保持中解放出来投入高阶思维，但既有实证研究结论存在显著分歧，部分研究显示显著强促进，部分研究未发现效果甚至报告负向干扰。本研究旨在通过大样本[[Meta-analysis|元分析]]系统回答两个核心问题：图形组织器对学生高阶思维的培养究竟具有多大的总体干预[[Effect Size|效应量]]？不同组织器形态（思维导图、[[Argument Mapping|论证图]]、概念图）、高阶思维[[Construct|构念]]层级（倾向、过程、技能）、思维类型（发散与聚合）、学习者学段（小学、中学、大学）以及社会经济背景（人均国内生产总值 Gross Domestic Product per capita, GDP per capita 与发表年份）如何调节这一促进效应？
+> 在人工智能普及与生成式大语言模型带来的信息爆炸时代，学校教育的核心目标已从事实记忆、机械理解与常规套用等低阶思维（Lower-Order Thinking, LOT），转向分析、评价、创造、批判与推理等[[Higher-Order Thinking Skills|高阶思维]]（Higher-Order Thinking, HOT）。虽然理论上[[Graphic Organizer|图形组织器]]（Graphic Organizer, GO）能够通过空间隐喻提取关键信息并组织拓扑关系，将学生的认知努力从低阶信息保持中解放出来投入高阶思维，但既有实证研究结论存在显著分歧，部分研究显示显著强促进，部分研究未发现效果甚至报告负向干扰。本研究旨在通过大样本[[Meta-analysis|元分析]]系统回答两个核心问题：图形组织器对学生高阶思维的培养究竟具有多大的总体干预[[Effect Size|效应量]]？不同组织器形态（[[Mind Mapping|思维导图]]、[[Argument Mapping|论证图]]、[[Concept Mapping|概念图]]）、高阶思维[[Construct|构念]]层级（倾向、过程、技能）、思维类型（发散与聚合）、学习者学段（小学、中学、大学）以及社会经济背景（人均国内生产总值 Gross Domestic Product per capita, GDP per capita 与发表年份）如何调节这一促进效应？
 
 > [!claim] 核心主张
 > 图形组织器对学生高阶思维的发展具有中等至强效的显著促进作用（$g = 0.778$）；其干预收益表现出明确的结构开销梯度与认知加工层级性：单中心低开销的思维导图促学效应最强（$g = 1.041$），显著优于线性逻辑的论证图（$g = 0.798$）与多向交叉网络的概念图（$g = 0.548$）；对[[Divergent Thinking|发散思维]]的赋能（$g = 1.167$）显著大于[[Convergent Thinking|聚合思维]]（$g = 0.680$）；对高阶思维倾向（$g = 0.945$）与即时认知过程（$g = 0.912$）的促进幅度显著高于远端技能测验结果（$g = 0.560$）；中学生群体因具备成熟的形式运算与[[Meta-Representational Competence|元表征能力]]且能抵抗诱人细节干扰，获益最为突出（$g = 1.113$）。
@@ -120,7 +122,7 @@ updated: 2026-08-25
 > | **[[Dual Coding Theory\|双重编码理论（Dual Coding Theory）]]与 ITPC 模型**<br>Paivio / Mayer / Schnotz | 阐明视觉空间通道与言语听觉通道的协同表征机制，说明图形组织器如何通过图文协同构建双重认知通道，增强概念整合与深层理解。（pp.2–3） |
 
 > [!warrant]- 理论如何支撑论证
-> 理论框架通过空间表征卸载负荷、释放高阶工作记忆、驱动探究倾向与认知过程、沉淀为稳定思维技能的逻辑链条，将外在教学脚手架与内在认知机能紧密连接。认知负荷理论与空间隐喻解释了图形组织器何以能产生整体促进效应（$g = 0.778$）；高阶思维三元结构与表征复杂度理论则为解释导图类型级差（导图 > [[Argument Mapping|论证图]] > 概念图）、思维维度级差（发散 > 聚合；倾向与过程 > 技能）以及学段发展倒U型特征提供了严密的机制推论桥梁。（pp.2–4, 11–12）
+> 理论框架通过空间表征卸载负荷、释放高阶工作记忆、驱动探究倾向与认知过程、沉淀为稳定思维技能的逻辑链条，将外在教学脚手架与内在认知机能紧密连接。认知负荷理论与空间隐喻解释了图形组织器何以能产生整体促进效应（$g = 0.778$）；高阶思维三元结构与表征复杂度理论则为解释导图类型级差（导图 > [[Argument Mapping|论证图]] > [[Concept Mapping|概念图]]）、思维维度级差（发散 > 聚合；倾向与过程 > 技能）以及学段发展倒U型特征提供了严密的机制推论桥梁。（pp.2–4, 11–12）
 
 ### 核心变量与操作化编码表
 
@@ -231,7 +233,7 @@ updated: 2026-08-25
 
 ### 论证步骤三　图形组织器结构复杂度与认知开销的效能级差检验
 
-> [!example]- 图2：概念图、[[Argument Mapping|论证图]]与思维导图结构形态对比
+> [!example]- 图2：[[Concept Mapping|概念图]]、[[Argument Mapping|论证图]]与[[Mind Mapping|思维导图]]结构形态对比
 > ![](https://img.mylikemie.icu/sources/Lei_Ding_Chiu_2026_ERR/figures/Lei_Ding_Chiu_2026_ERR_Fig2_Graphic_Organizer_Types.jpg)
 
 > [!claim] 步骤三主张
@@ -328,7 +330,7 @@ updated: 2026-08-25
 > [!finding-cards] 核心发现
 > 1. **确立总体显著促进基准** [[Graphic Organizer|图形组织器]]对学生[[Higher-Order Thinking Skills|高阶思维]]的培养具有中等到强效的显著促进作用（$g = 0.778$），证实了空间可视化工具卸载低阶认知负荷、赋能高阶加工的理论[[Hypothesis|假设]]。（pp.1, 9）
 > 2. **揭示思维层级与类型级差** 图形组织器对高阶思维倾向（$g = 0.945$）与认知过程（$g = 0.912$）的促进显著强于技能结果（$g = 0.560$），对[[Divergent Thinking|发散思维]]（$g = 1.167$）的提升显著强于[[Convergent Thinking|聚合思维]]（$g = 0.680$）。（pp.9–10）
-> 3. **厘清组织器形态结构开销** 工具形态复杂度直接决定促学效能，思维导图（$g = 1.041$）显著优于[[Argument Mapping|论证图]]（$g = 0.798$）与概念图（$g = 0.548$）。（pp.9–10）
+> 3. **厘清组织器形态结构开销** 工具形态复杂度直接决定促学效能，[[Mind Mapping|思维导图]]（$g = 1.041$）显著优于[[Argument Mapping|论证图]]（$g = 0.798$）与[[Concept Mapping|概念图]]（$g = 0.548$）。（pp.9–10）
 > 4. **发现学段发展倒U型与社会技术红利** 中学生群体获益最大（$g = 1.113$），且国家人均 GDP 与近年发表[[Document|文献]]表现出更强的促学效应，性别、学科门类与干预时长无显著调节作用。（pp.10–11）
 
 > [!stat-cards]- 核心数据

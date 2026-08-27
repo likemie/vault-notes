@@ -9,7 +9,7 @@ aliases:
 summary: "由美国哲学学会主持、Peter Facione 领衔 46 位国际学者达成的里程碑式共识报告，系统确立了批判性思维的六大核心认知技能与七大情意倾向双元框架"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 21
+theory_related_count: 23
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -40,6 +40,8 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
 related_instruments:
   - "[[California Critical Thinking Disposition Inventory]]"
+  - "[[California Critical Thinking Skills Test]]"
+  - "[[Ennis-Weir Critical Thinking Essay Test]]"
 related_persons:
   - "[[Robert Ennis]]"
   - "[[Peter Facione]]"
@@ -49,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-08-25
+updated: '2026-08-27'
 ---
 
 # APA Delphi Consensus on Critical Thinking
@@ -123,7 +125,7 @@ flowchart TD
 
 > [!proposition-chain] 命题推导
 > - **前提一** 早期[[Critical Thinking|批判性思维]]研究由于缺乏权威共识，导致测验工具与教学干预内容严重脱节，无法进行跨研究定量综合。
-> - **前提二** 德尔菲报告明确将批判性思维界定为六大核心技能，使得研究者能够以此为标准筛选出真正测量批判性思维的标准化测试工具（如 CCTST、Ennis-Weir 等）。
+> - **前提二** 德尔菲报告明确将批判性思维界定为六大核心技能，使得研究者能够以此为标准筛选出真正测量批判性思维的标准化测试工具（如 [[California Critical Thinking Skills Test|CCTST]]、[[Ennis-Weir Critical Thinking Essay Test|Ennis-Weir]] 等）。
 > - **实证支持** [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] 严格以德尔菲技能框架为纳入标准，在 341 项标准化实验与准[[Experimental Research|实验研究]]中测得总体干预效应为 $g+ = 0.30$（$95\%\text{ CI } [0.25, 0.34]$），证明了基于德尔菲[[Construct|构念]]的[[Operationalization|操作化]]测量具有极高的稳健性与跨情境一致性。
 
 ---

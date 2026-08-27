@@ -9,7 +9,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 4
+fact_related_count: 3
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
@@ -21,7 +21,6 @@ tags:
   - policy/teacher-training
 related_concepts:
   - "[[New Sociology of Education]]"
-  - "[[Praxis]]"
   - "[[School Effectiveness]]"
 related_theories: []
 related_methods: []
@@ -32,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-05-23
+updated: '2026-08-27'
 ---
 
 # Committee for the Accreditation of Teacher Education
@@ -45,7 +44,7 @@ updated: 2026-05-23
 ## 政策文本摘要
 
 > [!abstract] 政策摘要
-> Committee for the Accreditation of Teacher Education（CATE）是 1984 年英国保守党政府设立的教师教育认证机制。它将以学科基础为核心的教师教育，替换为以课堂技能和能力为中心的教师训练版本；除心理学的一些元素外，教育社会学和其他教育基础学科被视为对未来[[Praxis|实践]]者无关，甚至具有政治危险性([[Argument_Ball_2008_SR|Ball, 2008, p.659]])。
+> Committee for the Accreditation of Teacher Education（CATE）是 1984 年英国保守党政府设立的教师教育认证机制。它将以学科基础为核心的教师教育，替换为以课堂技能和能力为中心的教师训练版本；除心理学的一些元素外，教育社会学和其他教育基础学科被视为对未来实践者无关，甚至具有政治危险性([[Argument_Ball_2008_SR|Ball, 2008, p.659]])。
 
 ## 时间线
 
@@ -66,7 +65,7 @@ updated: 2026-05-23
 ## 争议与评论
 
 > [!warning] 学科基础的边缘化
-> CATE 所代表的转向将教育社会学和其他教育基础学科排除在教师训练核心之外，把这些学科描述为对[[Praxis|实践]]无关或政治上危险。这一变化可被理解为教师专业知识被技术化、能力化的一部分([[Argument_Ball_2008_SR|Ball, 2008, p.659]])。
+> CATE 所代表的转向将教育社会学和其他教育基础学科排除在教师训练核心之外，把这些学科描述为对实践无关或政治上危险。这一变化可被理解为教师专业知识被技术化、能力化的一部分([[Argument_Ball_2008_SR|Ball, 2008, p.659]])。
 
 ## 相关概念／理论
 

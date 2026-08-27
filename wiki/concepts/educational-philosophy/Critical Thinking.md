@@ -6,7 +6,7 @@ aliases:
 summary: "以理由权衡、有目的的反思判断和自我调节为核心，统合认知技能、思维倾向、领域知识与情境标准；在教育研究中用于设计教学、界定学习结果并检验课程与评估的构念效度。"
 type: concept
 domain: "educational-philosophy"
-related_count: 71
+related_count: 81
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -42,6 +42,8 @@ related_concepts:
   - "[[Knowledge Questions]]"
   - "[[Construct Validity]]"
   - "[[Growth]]"
+  - "[[Constructive Alignment]]"
+  - "[[Learning Gain]]"
   - "[[Problem-Based Learning]]"
   - "[[Variable]]"
   - "[[Prediction Interval]]"
@@ -49,6 +51,7 @@ related_concepts:
   - "[[Domain Specificity]]"
   - "[[Critical Thinking Disposition]]"
   - "[[Jigsaw]]"
+  - "[[Immersion Approach]]"
   - "[[Direct Instruction]]"
   - "[[Common Method Variance]]"
   - "[[Cooperative Integrated Reading and Composition]]"
@@ -60,14 +63,18 @@ related_concepts:
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Constructivist Paradigm]]"
   - "[[Formative Assessment]]"
-related_theories: []
+related_theories:
+  - "[[Explicit Critical Thinking Instruction]]"
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Role-playing]]"
+  - "[[Systematic Review]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Longitudinal Study]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Qualitative Interview]]"
   - "[[Experimental Research]]"
 related_persons:
   - "[[Deanna Kuhn]]"
@@ -80,22 +87,25 @@ related_arguments:
   - "[[Argument_Kuhn_2000_CD]]"
   - "[[Argument_Abrami_2015_RER]]"
   - "[[Argument_Cole_2015_AJE]]"
+  - "[[Argument_Bouckaert_2023_OECD]]"
   - "[[Argument_Gungor_2026_CP]]"
   - "[[Argument_Zemplen_2007_SciEduc]]"
   - "[[Argument_Bergeron_2015_TeachingTOK]]"
   - "[[Argument_Erdem_2026_SHE]]"
   - "[[Argument_Park_2026_TSC]]"
-  - "[[Argument_Bouckaert_2023_OECD]]"
 related_instruments:
   - "[[Critical Thinking Strategies Scale]]"
   - "[[California Critical Thinking Disposition Inventory]]"
+  - "[[Collegiate Learning Assessment]]"
   - "[[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale]]"
-  - "[[Watson-Glaser Critical Thinking Appraisal]]"
+  - "[[ETS HEIghten Critical Thinking Assessment]]"
   - "[[VALUE Rubrics]]"
+  - "[[Watson-Glaser Critical Thinking Appraisal]]"
+  - "[[California Critical Thinking Skills Test]]"
 confidence: medium
 status: draft
 created: 2026-06-30
-updated: 2026-08-26
+updated: '2026-08-27'
 ---
 
 # Critical Thinking
@@ -202,7 +212,7 @@ updated: 2026-08-26
 > 研究关注批判性思维是否需要被明确命名、示范和练习，以及独立课程获得的策略如何与学科知识、教师能力和学校组织结合。
 
 > [!claim] Abrami, P. C., et al.; Marin, L. M., & Halpern, D. F.; Behar-Horenstein, L. S., & Niu, L.
-> **显性教学与复合策略优势** [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] 基于 341 个标准化[[Effect Size|效应量]]进行[[Meta-analysis|元分析]]，证实显性混合教学模式（Mixed approach，独立思维教学 + 学科融入，效应量 $g+ = 0.38$）显著优于单纯隐性沉浸模式（$g+ = 0.23$）；同时，将[[Authentic Instruction|真实性教学]]（应用型解题与[[Role-playing|角色扮演]]）、深度[[Dialogue in Education|对话]]与导师指导整合的三维复合干预（A + D + M）产生最高增益（$g+ = 0.57$），揭示了显性示范、情境锚定与过程脚手架的协同机制。Abrami et al. (2008) 对 117 项早期研究（$N = 20{,}698$）的元分析（$d = 0.34$）与 Behar-Horenstein & Niu (2011) 对 61 项高教实证干预的系统综述亦一致证实，唯有明确界定高阶认知目标并结合显性示范，才能产生稳定增益。Marin and Halpern 在低表现学校开展的[[Randomised Controlled Trials|随机对照实验]]也发现，显性教学组的技能增益显著更大。[[Argument_Abrami_2015_RER|(Abrami et al., 2015, pp. 293–295)]] [[Argument_Cole_2015_AJE|(Cole et al., 2015, pp. 249–250)]] [[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 33)]]
+> **显性教学与复合策略优势** [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] 基于 341 个标准化[[Effect Size|效应量]]进行[[Meta-analysis|元分析]]，证实显性混合教学模式（Mixed approach，独立思维教学 + 学科融入，效应量 $g+ = 0.38$）显著优于单纯隐性沉浸模式（$g+ = 0.23$）；同时，将[[Authentic Instruction|真实性教学]]（应用型解题与[[Role-playing|角色扮演]]）、深度[[Dialogue in Education|对话]]与导师指导整合的三维复合干预（A + D + M）产生最高增益（$g+ = 0.57$），揭示了显性示范、情境锚定与过程脚手架的协同机制。Abrami et al. (2008) 对 117 项早期研究（$N = 20{,}698$）的元分析（$d = 0.34$）与 Behar-Horenstein & Niu (2011) 对 61 项高教实证干预的[[Systematic Review|系统综述]]亦一致证实，唯有明确界定高阶认知目标并结合显性示范，才能产生稳定增益。Marin and Halpern 在低表现学校开展的[[Randomised Controlled Trials|随机对照实验]]也发现，显性教学组的技能增益显著更大。[[Argument_Abrami_2015_RER|(Abrami et al., 2015, pp. 293–295)]] [[Argument_Cole_2015_AJE|(Cole et al., 2015, pp. 249–250)]] [[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 33)]]
 
 > [!claim] Willingham, D. T.; Bailin, S.; Cole, D. R., et al.
 > **知识与实施约束** 历史、科学及其他领域采用不同的证据和论证标准，学生需要足够的背景知识才能运用通用策略。Cole 等人的学校案例进一步显示，同一 ToK 框架可产生高度整合或近乎随意的课堂实践。课程形式只有与领域知识、教师培训、学校文化和跨学科协作结合，才可能稳定支持批判性思维。[[Argument_Cole_2015_AJE|(Cole et al., 2015, pp. 249–250, 255–259)]]
@@ -236,7 +246,7 @@ updated: 2026-08-26
 > **主观评估的实操困境** 即使课程在构念覆盖上设计良好，在教学实操层面，“评估学生批判性思维的进展”（Mean=3.56/5，排名第一）依旧是教师面临的最大痛点。探究性思维缺乏绝对标准答案，而学[[Growth|生长]]期受传统体系影响往往索要数字化的绝对分数，这种隐性认知转变与显性量化评分的摩擦，构成了评估批判性思维的普遍挑战。[[Argument_Bergeron_2015_TeachingTOK|(Bergeron & Rogers, 2015, pp. 18, 33)]]
 
 > [!claim] Bok, D.; Arum, R., & Roksa, J.; Huber, C. R., & Kuncel, N. R.; Bouckaert, M.
-> **高等教育中的批判性思维增益匮乏悖论** Bok (2006) 深刻揭示，即便大学教师一致将批判性思维奉为大学教育的首要目标，仍有大量学生无法清晰推理或胜任复杂现实问题的分析。Arum & Roksa (2011) 基于全美 24 所高校 2,300 余名本科生的大规模 CLA 追踪证实，45% 的学生在大学前两年批判性思维与复杂推理无显著增长，36% 的学生在四年全周期中增益微弱；Huber & Kuncel (2016) 对 71 项纵向研究（$N = 10{,}751$）的元分析显示大学全周期平均增益为中等（$d = 0.59$），且各校各学科异质性极高。[[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] 指出，这一“增益匮乏”的根本症结在于宏观培养目标与微观事实性闭卷笔试之间的松散耦合断裂，亟需依托建构性对齐与真实性量规重构评价生态。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 4–5, 24–28)]]
+> **高等教育中的批判性思维增益匮乏悖论** Bok (2006) 深刻揭示，即便大学教师一致将批判性思维奉为大学教育的首要目标，仍有大量学生无法清晰推理或胜任复杂现实问题的分析。Arum & Roksa (2011) 基于全美 24 所高校 2,300 余名本科生的大规模 [[Collegiate Learning Assessment|CLA]] 追踪证实，45% 的学生在大学前两年批判性思维与复杂推理无显著增长，36% 的学生在四年全周期中增益微弱；Huber & Kuncel (2016) 对 71 项[[Longitudinal Study|纵向研究]]（$N = 10{,}751$）的元分析显示大学全周期平均增益为中等（$d = 0.59$），且各校各学科异质性极高。[[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] 指出，这一“增益匮乏”的根本症结在于宏观培养目标与微观事实性闭卷笔试之间的松散耦合断裂，亟需依托[[Constructive Alignment|建构性对齐]]与真实性量规重构评价生态。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 4–5, 24–28)]]
 
 
 ### 命题五　批判性思维的动机受制于个体的认识论发展阶段
@@ -255,7 +265,7 @@ updated: 2026-08-26
 > | **构念组成** | 技能、倾向、知识和情境共同决定思维质量 | 定义、测量、量表解释 | Siegel; Ennis; Facione; Paul |
 > | **教学与实施** | 显性教学具有显著优势，效果依赖领域知识与实施条件 | 课程设计、教师发展、课堂干预 | Abrami et al.; Behar-Horenstein & Niu; Marin & Halpern; Willingham; Cole et al. |
 > | **迁移条件** | 通用认知结构通过领域知识和情境线索实现迁移 | 跨学科课程、迁移任务 | Halpern; Salomon & Perkins; Glaser; Lave; Ritchhart & Perkins |
-> | **操作化与效度** | 目标与评估须充分覆盖构念，高等教育普遍面临增益匮乏与评价断裂 | 课程审查、学习增益评估、效度研究 | Hughes; Zemplén; Bergeron & Rogers; Bok; Arum & Roksa; Huber & Kuncel; Bouckaert |
+> | **操作化与效度** | 目标与评估须充分覆盖构念，高等教育普遍面临增益匮乏与评价断裂 | 课程审查、[[Learning Gain\|学习增益]]评估、效度研究 | Hughes; Zemplén; Bergeron & Rogers; Bok; Arum & Roksa; Huber & Kuncel; Bouckaert |
 > | **认知动力** | 评价论是触发批判性思维论辩的[[Epistemology\|认识论]]引擎 | 成人思维发展、批判动机缺失 | [[Deanna Kuhn\|Kuhn]] |
 
 ---
@@ -326,7 +336,7 @@ updated: 2026-08-26
 > | Siagian et al. (2023)，引自同上 | 结果变量：[[Cooperative Learning\|合作学习]]对数学批判性思维技能的促进效应 | $k = 35$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.79$ $[0.58, 1.00]$ | — | 印尼中小学数学教学情境，合作学习显著增强批判性解题能力 |
 > | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 关联构念：学生样本中批判性思维与[[Creativity\|创造力]]的总体相关 | $k = 51$ / $N = 12{,}548$ | 皮尔逊 $r$（Fisher's $z$ 变换）/ 三水平随机效应模型 | $r = 0.386$ $[0.296, 0.470]$ | $I^2 = 95.6\%$，$Q(50) = 1133.19, p < .001$ | 29 项研究 51 个效应量；相关随测量类型组合而变，双主观组合最高 |
 > | Huber & Kuncel (2016)，引自 [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] | 结果变量：大学生就读全周期批判性思维纵向增益 | $k = 71$ / $N = 10{,}751$ | Cohen's $d$ / 随机效应模型 | $d = 0.59$ | — | 综合全美高校纵向追踪数据；大学四年能力增长幅度中等，跨校与跨专业异质性高 |
-> | Abrami et al. (2008)，引自同上 | 结果变量：显性批判性思维教学干预的总体促进效应 | $k = 117$ / $N = 20{,}698$ | Cohen's $d$ / 随机效应模型 | $d = 0.34$ $[0.30, 0.38]$ | — | 涵盖各学段教学干预；明确设定高阶认知目标的显性教学显著优于隐性渗透模式 |
+> | Abrami et al. (2008)，引自同上 | 结果变量：[[Explicit Critical Thinking Instruction\|显性批判性思维教学]]干预的总体促进效应 | $k = 117$ / $N = 20{,}698$ | Cohen's $d$ / 随机效应模型 | $d = 0.34$ $[0.30, 0.38]$ | — | 涵盖各学段教学干预；明确设定高阶认知目标的显性教学显著优于[[Immersion Approach\|隐性渗透模式]] |
 
 > [!ma-table]- 一阶元分析互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
@@ -363,10 +373,10 @@ updated: 2026-08-26
 > | [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]] | $N = 129$ 名成人与青少年（含高管与非专家群体） | 跨领域[[Epistemology\|认识论]]评估测试 | 价值观领域的评价论阶段达成率与批判论辩倾向 | 在成人精英群体（EMBA 等）中，仅 22% 达成[[Evaluativist\|评价论]]阶段并展现批判反思意愿，绝大多数停滞于[[Multiplist\|多元论]] | 组间差异极其显著 | 证实批判性思维意愿受制于底层认识论成熟度 |
 > | [[Argument_Bergeron_2015_TeachingTOK\|Bergeron & Rogers (2015)]] | $N = 960$ 名全球 [[IB Diploma Programme\|IBDP]] 教师 | [[Questionnaire\|问卷调查]]与开放[[Coding in Qualitative Research\|编码]] | 批判性思维在其他学科（441 次）、[[Extended Essay\|拓展论文]]（154 次）及大学学业（226 次）中的溢出频次 | 教师反馈批判性思维为显性探究课程中最高频溢出的[[21st Century Skills and Competencies Discourse\|核心素养]]；同时“评估批判性思维进展”列为首要教学痛点（$M = 3.56/5$） | — | 质性与频数证据，证实显性思维教学的可迁移性，但依赖自报数据 |
 > | Arum & Roksa (2011)，引自 [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] | $N = 2{,}322$ 名全美本科生（24 所高校） | 4 年纵向追踪（[[Collegiate Learning Assessment\|CLA]] 测验） | 批判性思维与复杂推理能力纵向增长率 | 45% 学生前两年无统计显著增益；36% 学生四年全周期无显著增益 | $p < .05$ 显著性判定 | 揭示大学本科阶段批判性思维增益匮乏的“学术漂泊”现象 |
-> | Loyalka et al. (2021)，引自同上 | $N > 30{,}000$ 名中、印、俄、美 STEM 本科生 | 跨国纵向追踪（ETS HEIghten 测验） | 批判性思维技能跨学段增长轨迹 | 中俄学生大一入学生源测试显著高于美生，但就读四年间技能无明显增长或相对下滑，最终被美生反超 | 跨国组间差异显著 | 证实大学阶段教学法与批判性思维培养对高阶心智增长的决定性作用 |
-> | AAC&U (2016) 调查，引自同上 | $N = 325$ 所全美高校学术主管 | 宏观院校调查 | 全校通用成果标准与量规采纳率 | 85% 高校建立全校通用成果标准，其中 98% 包含批判性思维；开展累积评价的高校中 91% 使用评分量规，42% 采纳 VALUE 量规 | — | 宏观管理实践数据，证实批判性思维已成为全校性核心学习成果 |
+> | Loyalka et al. (2021)，引自同上 | $N > 30{,}000$ 名中、印、俄、美 STEM 本科生 | 跨国纵向追踪（[[ETS HEIghten Critical Thinking Assessment\|ETS HEIghten]] 测验） | 批判性思维技能跨学段增长轨迹 | 中俄学生大一入学生源测试显著高于美生，但就读四年间技能无明显增长或相对下滑，最终被美生反超 | 跨国组间差异显著 | 证实大学阶段教学法与批判性思维培养对高阶心智增长的决定性作用 |
+> | AAC&U (2016) 调查，引自同上 | $N = 325$ 所全美高校学术主管 | 宏观院校调查 | 全校通用成果标准与量规采纳率 | 85% 高校建立全校通用成果标准，其中 98% 包含批判性思维；开展累积评价的高校中 91% 使用评分量规，42% 采纳 [[VALUE Rubrics\|VALUE]] 量规 | — | 宏观管理实践数据，证实批判性思维已成为全校性核心学习成果 |
 > | EUA Trends (2018) 调查，引自同上 | $N = 303$ 所全欧大学（覆盖 43 国） | 宏观院校调查 | 预期学习成果与考核方式改革 | 76% 大学为所有课程设定预期成果，88% 大学据此调整了考核方式，但 66% 在考核对齐中遭遇制度阻碍 | — | 欧洲高等教育区大范围普查，揭示批判性思维教学与考核对齐的制度惯性 |
-> | CRITHINKEDU (Dominguez, 2018)，引自同上 | $N = 53$ 名欧洲 9 国大学教师 | 深度质性访谈 | 日常课程中批判性思维显性测评工具使用率 | 47 / 53 名任课教师在日常教学考核中完全没有使用任何特定工具或显性量规 | — | 揭示高校微观教学中显性批判性思维测评工具与教师评价素养的严重匮乏 |
+> | CRITHINKEDU (Dominguez, 2018)，引自同上 | $N = 53$ 名欧洲 9 国大学教师 | 深度[[Qualitative Interview\|质性访谈]] | 日常课程中批判性思维显性测评工具使用率 | 47 / 53 名任课教师在日常教学考核中完全没有使用任何特定工具或显性量规 | — | 揭示高校微观教学中显性[[Critical Thinking Assessment\|批判性思维测评]]工具与教师评价素养的严重匮乏 |
 
 ---
 
@@ -382,4 +392,4 @@ updated: 2026-08-26
 > - **教学策略元分析与复合干预** [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] 综合 341 项实验与准[[Experimental Research|实验研究]]，确立了[[Authentic Instruction|真实性教学]]、[[Dialogue in Education|对话]]与[[Mentorship|导师制]]三维协同对批判性思维技能与倾向的最高干预效应（$g+ = 0.57$）。
 > - **[[Problem-Based Learning|PBL]] 与[[Meta-meta-analysis|二阶元分析]]实证** [[Argument_Erdem_2026_SHE|Erdem et al. (2026)]] 综合 20 项一阶元分析，报告 PBL 对高等教育学生[[Critical Thinking|批判性思维]]的高效应（ES = 0.56），并将批判性思维作为结果类型之一纳入调节分析。
 > - **与[[Creativity|创造力]]关系的元分析实证** [[Argument_Park_2026_TSC|Park et al. (2026)]] 综合 29 项学生研究 51 个[[Effect Size|效应量]]，确立批判性思维与创造力中等正相关（$r = 0.386$），并证实测量类型显著调节相关，双主观测量组合相关最高（$r = 0.509$），提示自陈测量中的[[Common Method Variance|共同方法变异]]放大了观察相关。
-> - **[[Critical Thinking Assessment|批判性思维测评]]与测量方法学** 参见专门概念条目 [[Critical Thinking Assessment|批判性思维测评]]，该条目系统整合了从心理测量学客观测试（[[Watson-Glaser Critical Thinking Appraisal|WGCTA]]/CCTST）、自陈倾向[[Questionnaire|问卷]]（[[California Critical Thinking Disposition Inventory|CCTDI]]/[[Critical Thinking Strategies Scale|CTSS]]）到校本真实性评分量规（[[VALUE Rubrics|VALUE]]/CALOHEE）的工具谱系、共同方法变异机制及形成性[[Formative Assessment|促学评价]]生态。
+> - **[[Critical Thinking Assessment|批判性思维测评]]与测量方法学** 参见专门概念条目 [[Critical Thinking Assessment|批判性思维测评]]，该条目系统整合了从心理测量学客观测试（[[Watson-Glaser Critical Thinking Appraisal|WGCTA]]/[[California Critical Thinking Skills Test|CCTST]]）、自陈倾向[[Questionnaire|问卷]]（[[California Critical Thinking Disposition Inventory|CCTDI]]/[[Critical Thinking Strategies Scale|CTSS]]）到校本真实性评分量规（[[VALUE Rubrics|VALUE]]/CALOHEE）的工具谱系、共同方法变异机制及形成性[[Formative Assessment|促学评价]]生态。

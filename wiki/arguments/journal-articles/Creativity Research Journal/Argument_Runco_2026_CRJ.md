@@ -69,6 +69,7 @@ related_concepts:
   - "[[Cognitive Shifting]]"
   - "[[Constructivist Paradigm]]"
   - "[[Metacognition]]"
+  - "[[Concept Mapping]]"
   - "[[Self-Efficacy]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Emergence]]"
@@ -99,14 +100,14 @@ related_theories:
   - "[[Creative Problem Solving]]"
 status: draft
 created: 2026-08-23
-updated: 2026-08-24
+updated: '2026-08-27'
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Runco_2026_CRJ"
 argument_key: "Argument_Runco_2026_CRJ"
 argument_display_title: "Second-order meta-analysis of the creativity research"
 argument_kind: "journal-article"
-argument_related_count: 69
+argument_related_count: 70
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -397,7 +398,7 @@ issuing_organization: ""
 >    - **多元量规预告** 提前展示评价标准，引导学生在观念生成后进行自我监控与筛选。
 > 4. **技术中介与数字化协作工具**
 >    - **电子头脑风暴（EBS）** 数字化平台匿名异步或同步提交，消除评价顾虑并打破发言轮流阻塞，DeRosa et al. (2007) 元分析（$k = 39$）表明大群体（$N \ge 8$）构想数量达到 **$d = 0.44$**，构想质量达到 **$d = 0.38$**。
->    - **思维可视化工具** 借助概念图直观呈现远距离联想与语义网络扩展（Ayutthaya & Damrongpanit, 2022 报告结构化教学管理与可视化综合效应 **$g = 0.65$**）。
+>    - **思维可视化工具** 借助[[Concept Mapping|概念图]]直观呈现远距离联想与语义网络扩展（Ayutthaya & Damrongpanit, 2022 报告结构化教学管理与可视化综合效应 **$g = 0.65$**）。
 > 5. **外认知与身心调节干预**
 >    - **正念冥想与开放监控** 降低习惯性思维定势与认知僵化，增强注意广度，Lebuda et al. (2016) 元分析（$k = 20$）报告关联效应量为 **$r = 0.22$**（开放监控冥想达到 **$r = 0.28$**）。
 >    - **教育戏剧与[[Role-playing|角色扮演]]** 模拟社会角色与情境冲突，提升共情与视角采择能力，Lewandowska & Węziak-Białowolska (2020) 元分析报告促进效应为 **$d = 0.42$**（$r \approx 0.21$）。

@@ -13586,6 +13586,17 @@
     ]
   },
   {
+    "title": "California Critical Thinking Skills Test",
+    "type": "instrument",
+    "path": "wiki/instruments/tests/California Critical Thinking Skills Test.md",
+    "aliases": [
+      "CCTST",
+      "加州批判性思维技能测验",
+      "加州批判性思维测验",
+      "California Critical Thinking Skills Test (CCTST)"
+    ]
+  },
+  {
     "title": "Cognitive Ability Test KFT",
     "type": "instrument",
     "path": "wiki/instruments/tests/Cognitive Ability Test KFT.md",
@@ -13606,6 +13617,60 @@
       "大学生学习评估",
       "大学生学习评价",
       "Collegiate Learning Assessment Plus"
+    ]
+  },
+  {
+    "title": "Cornell Critical Thinking Test",
+    "type": "instrument",
+    "path": "wiki/instruments/tests/Cornell Critical Thinking Test.md",
+    "aliases": [
+      "CCTT",
+      "康奈尔批判性思维测验",
+      "康奈尔批判性思维测试",
+      "Cornell Critical Thinking Test Level X / Level Z"
+    ]
+  },
+  {
+    "title": "Critical Thinking Assessment Test",
+    "type": "instrument",
+    "path": "wiki/instruments/tests/Critical Thinking Assessment Test.md",
+    "aliases": [
+      "TTU CAT",
+      "TTU-CAT",
+      "田纳西理工批判性思维评估测验",
+      "批判性思维评估测验"
+    ]
+  },
+  {
+    "title": "Ennis-Weir Critical Thinking Essay Test",
+    "type": "instrument",
+    "path": "wiki/instruments/tests/Ennis-Weir Critical Thinking Essay Test.md",
+    "aliases": [
+      "恩尼斯-威尔批判性思维论文测验",
+      "Ennis-Weir",
+      "Ennis-Weir Essay Test",
+      "恩尼斯-威尔论文测验"
+    ]
+  },
+  {
+    "title": "ETS HEIghten Critical Thinking Assessment",
+    "type": "instrument",
+    "path": "wiki/instruments/tests/ETS HEIghten Critical Thinking Assessment.md",
+    "aliases": [
+      "HEIghten",
+      "ETS HEIghten",
+      "HEIghten Critical Thinking Assessment"
+    ]
+  },
+  {
+    "title": "Halpern Critical Thinking Assessment",
+    "type": "instrument",
+    "path": "wiki/instruments/tests/Halpern Critical Thinking Assessment.md",
+    "aliases": [
+      "HCTA",
+      "霍尔珀恩批判性思维测评",
+      "霍尔珀恩批判性思维测验",
+      "Halpern Critical Thinking Assessment (HCTA)"
     ]
   },
   {
@@ -16240,6 +16305,16 @@
     ]
   },
   {
+    "title": "CALOHEE Project",
+    "type": "fact",
+    "path": "wiki/facts/eu/CALOHEE Project.md",
+    "aliases": [
+      "CALOHEE",
+      "欧洲高等教育学习成果测度与比较项目",
+      "Measuring and Comparing Achievements of Learning Outcomes in European Higher Education"
+    ]
+  },
+  {
     "title": "Comparative Education Society in Europe",
     "type": "fact",
     "path": "wiki/facts/eu/Comparative Education Society in Europe.md",
@@ -16450,6 +16525,17 @@
     ]
   },
   {
+    "title": "French Baccalaureat 2021 Reform",
+    "type": "fact",
+    "path": "wiki/facts/france/French Baccalaureat 2021 Reform.md",
+    "aliases": [
+      "Baccalauréat 2021",
+      "法国2021年高中会考改革",
+      "法国高考大口试改革",
+      "Grand Oral Reform"
+    ]
+  },
+  {
     "title": "French Class Size Reduction",
     "type": "fact",
     "path": "wiki/facts/france/French Class Size Reduction.md",
@@ -16512,6 +16598,17 @@
       "German High-Tech Strategy",
       "German Cluster Policy",
       "德国集群政策"
+    ]
+  },
+  {
+    "title": "KoKoHs Program",
+    "type": "fact",
+    "path": "wiki/facts/germany/KoKoHs Program.md",
+    "aliases": [
+      "KoKoHs",
+      "德国高等教育能力建模与测量计划",
+      "德国能力建模与测量计划",
+      "Kompetenzmodellierung und Kompetenzerfassung im Hochschulsektor"
     ]
   },
   {
@@ -16922,6 +17019,17 @@
     "aliases": [
       "青年发展蓝图",
       "香港青年发展蓝图"
+    ]
+  },
+  {
+    "title": "TECO Project",
+    "type": "fact",
+    "path": "wiki/facts/italy/TECO Project.md",
+    "aliases": [
+      "TECO",
+      "意大利大学生素养测验",
+      "意大利素养测验项目",
+      "Test sulle Competenze"
     ]
   },
   {
@@ -17510,6 +17618,17 @@
     "path": "wiki/facts/uk/ResearchED.md"
   },
   {
+    "title": "TESTA Project",
+    "type": "fact",
+    "path": "wiki/facts/uk/TESTA Project.md",
+    "aliases": [
+      "TESTA",
+      "全课程评价体验项目",
+      "英国全课程评价体验项目",
+      "Transforming the Experience of Students Through Assessment"
+    ]
+  },
+  {
     "title": "UK Centre for Evidence-based Policy",
     "type": "fact",
     "path": "wiki/facts/uk/UK Centre for Evidence-based Policy.md",
@@ -17692,6 +17811,17 @@
     "path": "wiki/facts/uk/Grammar School.md",
     "aliases": [
       "文法学校"
+    ]
+  },
+  {
+    "title": "HEFCE Learning Gain Project",
+    "type": "fact",
+    "path": "wiki/facts/uk/HEFCE Learning Gain Project.md",
+    "aliases": [
+      "HEFCE Learning Gain",
+      "英国学习增益项目",
+      "英格兰高等教育学习增益项目",
+      "Learning Gain Project"
     ]
   },
   {

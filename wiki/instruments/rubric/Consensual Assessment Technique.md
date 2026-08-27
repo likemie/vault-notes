@@ -50,7 +50,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-08-26
+updated: '2026-08-27'
 ---
 
 # Consensual Assessment Technique

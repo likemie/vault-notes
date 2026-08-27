@@ -83,7 +83,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-08-26
+updated: '2026-08-27'
 ---
 
 # Creativity Assessment
