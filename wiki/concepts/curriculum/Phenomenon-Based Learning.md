@@ -6,7 +6,7 @@ aliases:
 summary: "芬兰课程语境中的现象本位学习，以复杂现象组织跨学科探究，强调学科深度、生活世界、协作和共同责任。"
 type: concept
 domain: "curriculum"
-related_count: 32
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"

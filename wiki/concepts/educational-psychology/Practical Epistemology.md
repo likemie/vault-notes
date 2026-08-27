@@ -4,10 +4,10 @@ aliases: [实践认识论]
 summary: "学生在探究过程中实际应用于自身科学知识建构的认识论观念。"
 type: concept
 domain: "educational-psychology"
-related_count: 10
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 9
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags: [theme/epistemology, theme/inquiry, paradigm/constructivism]
 related_concepts:
   - "[[Epistemology]]"

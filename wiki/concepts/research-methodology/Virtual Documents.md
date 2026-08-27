@@ -51,7 +51,7 @@ updated: 2026-07-09
 
 > [!feature] 虚拟[[Document|文献]]的四个核心特征
 > - **数字可访问性（digital accessibility）** 研究者无需前往实体档案馆即可在线获取文献内容，大幅降低了[[Documentary Analysis|文献研究]]的时间和旅行成本（Crook, 2000）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12|(p. 12)]]
-> - **研究价值（research value）** 大多数虚拟文献对研究者具有实质价值，它们使原本难以接触的一手材料变得广泛可及，拓展了文献研究的范围和深度（Crook, 2000）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12|(p. 12)]]
+> - **研究价值（research [[VALUE Rubrics|VALUE]]）** 大多数虚拟文献对研究者具有实质价值，它们使原本难以接触的一手材料变得广泛可及，拓展了文献研究的范围和深度（Crook, 2000）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12|(p. 12)]]
 > - **呈现偏误（presentation bias）** 政府和组织的官方网站可能将文献以对自身有利的方式选择和呈现，这意味着虚拟文献的数字载体本身可能引入新的偏误——文献的筛选、排序和呈现框架可能服务于托管机构的利益。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12|(p. 12)]]
 > - **物质性的丧失（loss of materiality）** 许多历史学家并不完全信服数字文献的优点，指出它们失去了原始纸质文献的直接性和物质感。Schama（1999）反思道：屏幕上的扫描件与发黄的纸页在手的感觉，对历史理解而言可能是两种不同的认知体验。这一批评揭示了虚拟文献的一个根本局限——数字化再现无法完全传递[[Primary and Secondary Documents|原始文献]]的物质、触觉和空间信息。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12|(p. 12)]]
 

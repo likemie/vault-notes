@@ -18,12 +18,14 @@ tags:
   - theme/critical-thinking
 related_concepts:
   - "[[Critical Thinking]]"
-  - "[[Creativity]]"
   - "[[Academic Achievement]]"
   - "[[Theory of Knowledge]]"
   - "[[Learner Autonomy]]"
+  - "[[Construct]]"
+  - "[[Creativity]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Meta-analysis]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -33,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-01
-updated: 2026-08-25
+updated: '2026-08-27'
 ---
 
 # Metacognition
@@ -65,7 +67,7 @@ updated: 2026-08-25
 ### 命题一　元认知是批判性思维的高阶认知基础
 
 > [!concept-lens] 高阶认知调控
-> 批判性思维不仅包含澄清、分析、评估等具体认知操作，还要求个体反思知识本质并监控自身推理过程，元认知构成其高阶调控维度。
+> [[Critical Thinking|批判性思维]]不仅包含澄清、分析、评估等具体认知操作，还要求个体反思知识本质并监控自身推理过程，元认知构成其高阶调控维度。
 
 > [!claim] 元认知是[[Critical Thinking|批判性思维]]的高阶认知基础
 > 批判性思维要求个体反思知识本质和自身推理过程，这本质上是系统性的元认知训练。[[Theory of Knowledge|TOK]] 课程的核心设计——要求学生反复追问"我们如何知道我们所知道的"——直接对应元认知调节中的监控和评估功能（[[Argument_Cole_2015_AJE|Cole et al., 2015, p. 249]]; McGuire, 2012; Pintrich, 2002）。
@@ -74,7 +76,7 @@ updated: 2026-08-25
 
 ### 命题二　元认知意识构成学习者自主性的核心
 
-> [!concept-lens] 自主学习动力
+> [!concept-lens] [[Learner Autonomy|自主学习]]动力
 > 自主学习要求学习者对自身信念与行动保持意识与自评，元认知意识支撑知情的决策与资源利用。
 
 > [!claim] 元认知意识是[[Learner Autonomy|学习者自主性]]的核心构成
@@ -84,8 +86,8 @@ updated: 2026-08-25
 
 ### 命题三　创造力与批判性思维共享元认知成分
 
-> [!concept-lens] 跨构念共同基础
-> 创造力与批判性思维都涉及评价、判断与自我调节等元认知过程，元认知构成两者正相关的共同基础。
+> [!concept-lens] 跨[[Construct|构念]]共同基础
+> [[Creativity|创造力]]与批判性思维都涉及评价、判断与自我调节等元认知过程，元认知构成两者正相关的共同基础。
 
 > [!claim] [[Argument_Park_2026_TSC|Park et al. (2026)]]
 > **创造力与批判性思维共享元认知成分** [[Creativity|创造力]]与[[Critical Thinking|批判性思维]]都涉及评价、判断与自我调节等认知与元认知过程，要求灵活而目标导向的推理（Halpern, 2003; Sternberg & Halpern, 2020），元认知因此是两者正相关的共同基础，也支撑联合培养的可行性。（pp. 2–3）
@@ -96,4 +98,4 @@ updated: 2026-08-25
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 将 ToK 课程定位为系统性的元认知训练，通过要求学生反思知识本质来培养[[Critical Thinking|批判性思维]]的高阶认知调控能力。
-> - [[Argument_Park_2026_TSC|Park et al. (2026)]] — 在[[Meta-analysis|元分析]]中指出创造力与批判性思维共享评价、判断与自我调节等元认知成分，元认知是两者正相关的共同基础。
+> - [[Argument_Park_2026_TSC|Park et al. (2026)]] — 在[[Meta-analysis|元分析]]中指出[[Creativity|创造力]]与批判性思维共享评价、判断与自我调节等元认知成分，元认知是两者正相关的共同基础。

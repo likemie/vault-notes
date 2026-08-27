@@ -19,7 +19,6 @@ tags:
   - field/instruction-pedagogy
 related_concepts:
   - "[[Growth]]"
-  - "[[Praxis]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -29,7 +28,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-24
-updated: 2026-07-08
+updated: '2026-08-27'
 ---
 
 # Revoicing
@@ -77,7 +76,7 @@ updated: 2026-07-08
 ## 跨文化对比
 
 > [!warning]
-> Revoicing 在东亚课堂中几乎没有对应[[Praxis|实践]]。Agnes He 对中国语言课堂的观察显示：教师收集学生的各种回答，但从不指明"谁说了一个更好的建议、谁不同意谁"——相反，"他们只讨论什么是正确的汉字写作，然后进入下一个学习任务"([[Argument_Li_2012_Cambridge|Li, 2012, p.115]])。
+> Revoicing 在东亚课堂中几乎没有对应实践。Agnes He 对中国语言课堂的观察显示：教师收集学生的各种回答，但从不指明"谁说了一个更好的建议、谁不同意谁"——相反，"他们只讨论什么是正确的汉字写作，然后进入下一个学习任务"([[Argument_Li_2012_Cambridge|Li, 2012, p.115]])。
 
 这种差异根植于东亚文化对"不把想法归因于个人"的偏好——东亚课堂的焦点是学习内容本身，而非任何学生个人的智力贡献。Li 指出，这种做法的潜在好处是"实际上消除了学生之间社会比较的不利影响"([[Argument_Li_2012_Cambridge|Li, 2012, p.116]])。
 

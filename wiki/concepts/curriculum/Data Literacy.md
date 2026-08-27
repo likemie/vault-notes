@@ -7,7 +7,7 @@ aliases:
 summary: "指个体在日益数字化的社会中，有效收集、解读、批判性评估和负责任使用数据，理解概率、风险、不确定性与数据可靠性的核心综合素养"
 type: concept
 domain: "curriculum"
-related_count: 6
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

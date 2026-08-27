@@ -34,6 +34,7 @@ related_concepts:
   - "[[Surface and Deep Learning]]"
   - "[[Causality]]"
   - "[[Academic Achievement]]"
+  - "[[Learning Gain]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Achievement and Aptitude Tests]]"
   - "[[Prediction Interval]]"
@@ -240,7 +241,7 @@ updated: 2026-08-24
 > [!info] Kraft 的经验基准
 > [[Argument_Kraft_2023_ER|Kraft (2023)]]主张以教育干预随机对照试验中标准化[[Academic Achievement|学业成就]]效应量的经验分布替代 Cohen 的 $0.2/0.5/0.8$ 通用锚点。他在 3,426 个效应量中发现分布相当稳定：30 百分位 0.02、50 百分位 0.10、70 百分位 0.21（[[Argument_Kraft_2023_ER|Kraft, 2023, pp.183–184]]）。
 >
-> Kraft 的基准同时考虑年度学习增益、教师与学校效应等经验参照点，聚焦"正向效应量的政策相关性"，因此承认这些基准具有主观性——更合适的做法是随新增研究检验既有基准在分布中的相对排名（[[Argument_Kraft_2023_ER|Kraft, 2023, pp.185-186]]）。Kraft and Simpson 的分歧在于：Simpson（2021）认为跨研究效应量因设计、测量、样本差异而本质不可比；Kraft 则认为完全禁止比较会削弱证据本位政策，只要承认噪声和限制，仍可从因果研究中获得粗略参照，但同意按"联盟表"排名是可疑的（[[Argument_Kraft_2023_ER|Kraft, 2023, p.184]]）。
+> Kraft 的基准同时考虑年度[[Learning Gain|学习增益]]、教师与学校效应等经验参照点，聚焦"正向效应量的政策相关性"，因此承认这些基准具有主观性——更合适的做法是随新增研究检验既有基准在分布中的相对排名（[[Argument_Kraft_2023_ER|Kraft, 2023, pp.185-186]]）。Kraft and Simpson 的分歧在于：Simpson（2021）认为跨研究效应量因设计、测量、样本差异而本质不可比；Kraft 则认为完全禁止比较会削弱证据本位政策，只要承认噪声和限制，仍可从因果研究中获得粗略参照，但同意按"联盟表"排名是可疑的（[[Argument_Kraft_2023_ER|Kraft, 2023, p.184]]）。
 
 ---
 

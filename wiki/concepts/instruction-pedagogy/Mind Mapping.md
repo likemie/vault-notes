@@ -21,6 +21,7 @@ tags:
   - cognition/learning-science
 related_concepts:
   - "[[Divergent Thinking]]"
+  - "[[Concept Mapping]]"
   - "[[Argument Mapping]]"
   - "[[Critical Thinking]]"
   - "[[Higher-Order Thinking Skills]]"
@@ -65,14 +66,14 @@ updated: 2026-08-25
 > *Mind maps use a single central topic with radiating branches and keywords. They have low structural complexity and minimal cognitive overhead, maximizing ideational fluency and divergent thinking...*
 
 > [!boundary]- 概念边界
-> - 不等于 概念图：概念图采用多中心网络拓扑，要求标明概念间的命题连接词（Linking words）并包含复杂的交叉连接（Cross-links）；思维导图围绕单一中心树状放射，无严格命题语法约束。
+> - 不等于 [[Concept Mapping|概念图]]：概念图采用多中心网络拓扑，要求标明概念间的命题连接词（Linking words）并包含复杂的交叉连接（Cross-links）；思维导图围绕单一中心树状放射，无严格命题语法约束。
 > - 不等于 [[Argument Mapping|论证图]]：论证图依循非形式逻辑的论辩语法（主张、理由、证据、反驳），强调线性推导的严密性；思维导图强调自由联想的发散性与多样性。
 
 ---
 
 ## 概念辨析
 
-> [!contrast-table] 思维导图 vs 概念图 vs [[Argument Mapping|论证图]]
+> [!contrast-table] 思维导图 vs [[Concept Mapping|概念图]] vs [[Argument Mapping|论证图]]
 > | 比较维度 | 思维导图（Mind Mapping） | 概念图（[[Concept Mapping]]） | 论证图（[[Argument Mapping]]） |
 > |---|---|---|---|
 > | **拓扑结构** | **单中心放射状树形**（放射性多级分支） | **多节点复杂网状**（包含双向交叉连线） | **树状/层级推论链**（主张—理由—证据） |
@@ -140,7 +141,7 @@ mindmap
 > - **1970s — Tony Buzan 提出放射性思维与思维导图** 确立单中心、多分支、色彩与关键词[[Coding in Qualitative Research|编码]]的经典脑图[[Paradigm|范式]]。
 > - **2000s — 数字化导图软件普及** MindManager、XMind 等数字化工具[[Emergence|涌现]]，支持大规模团队协作与动态展开。
 > - **2010s — 认知神经科学与多媒体整合** 研究证实视觉导图利用海马体空间记忆通道强化图文双重编码。
-> - **2020s — [[Meta-analysis|元分析]]量化确立工具效能级差** [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] 实证确立思维导图（$g = 1.041$）对[[Higher-Order Thinking Skills|高阶思维]]的促学效应显著超越[[Argument Mapping|论证图]]与概念图。
+> - **2020s — [[Meta-analysis|元分析]]量化确立工具效能级差** [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] 实证确立思维导图（$g = 1.041$）对[[Higher-Order Thinking Skills|高阶思维]]的促学效应显著超越[[Argument Mapping|论证图]]与[[Concept Mapping|概念图]]。
 
 ---
 

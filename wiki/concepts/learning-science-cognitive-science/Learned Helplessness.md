@@ -21,7 +21,6 @@ related_concepts:
   - "[[Epistemological Beliefs]]"
   - "[[Self-Efficacy]]"
   - "[[Entity vs Incremental Intelligence]]"
-  - "[[Praxis]]"
   - "[[Epistemology]]"
   - "[[Growth]]"
   - "[[Academic Achievement]]"
@@ -94,7 +93,7 @@ updated: 2026-08-20
 
 > [!claim] Dweck & Leggett (1988); [[Argument_Li_2012_Cambridge|Li (2012)]]
 > **实体智力观致病假说** 学生的行为模式深刻取决于其内隐智力理论。
-> 持有实体论（Entity Theory）的学生认为智力是固定的天生特质。在他们看来，付出巨大努力本身就是能力低下的证明，一旦遭遇挫折便会推导出我能力不行且不可改变的结论，从而直接诱发习得性无助；相反，持有增长论（Incremental Theory）的学生将智力视为可通过[[Praxis|实践]]拓展的技能网络，能将失败转化为寻求新策略的动力，展现出高水平韧性。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 58-59)]]
+> 持有实体论（Entity Theory）的学生认为智力是固定的天生特质。在他们看来，付出巨大努力本身就是能力低下的证明，一旦遭遇挫折便会推导出我能力不行且不可改变的结论，从而直接诱发习得性无助；相反，持有增长论（Incremental Theory）的学生将智力视为可通过实践拓展的技能网络，能将失败转化为寻求新策略的动力，展现出高水平韧性。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 58-59)]]
 
 ---
 

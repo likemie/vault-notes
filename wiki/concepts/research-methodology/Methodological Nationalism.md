@@ -95,7 +95,7 @@ updated: 2026-07-11
 > - **三主义的叠加效应** 在全球化世界中仅关注国家教育系统不仅是方法论民族主义，还会与[[Methodological Statism|方法论国家中心主义]]（methodological statism，将国家视为唯一行动者）和[[Methodological Educationism|方法论教育主义]]（methodological educationism，将教育等同于学校教育）叠加。[[Argument_Klerides_2023_CE|Klerides, 2023, p. 423]]
 > - **与规范性民族主义共谋** 认为“国家是唯一分析单位”的预设会强化“本国优先”的价值立场，Massey（2005）称之为“对连贯国族性的浪漫幻想”和净化国家空间的徒劳尝试。
 > - **高等教育中的具体表现** 表现为大学排名将“国家表现”作为关键指标；研究将大学的国际合作与流动视为国家政策的附属物。[[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 8–9]]
-> - **比较教育中的具体表现** 主流传统寻找“在一个语境中有效”的制度、思想或[[Praxis|实践]]，试图将其转移到新语境，这一传统隐含着以国家为边界的[[Hypothesis|假设]]。即使文化主义视角强调本地适应 and [[Recontextualization|再脉络化]]，仍然基于地缘政治和领土性的空间定义。[[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]]
+> - **比较教育中的具体表现** 主流传统寻找“在一个语境中有效”的制度、思想或实践，试图将其转移到新语境，这一传统隐含着以国家为边界的[[Hypothesis|假设]]。即使文化主义视角强调本地适应 and [[Recontextualization|再脉络化]]，仍然基于地缘政治和领土性的空间定义。[[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]]
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -121,7 +121,7 @@ updated: 2026-07-11
 > 探讨学者如何分析方法论民族主义在语言和理论层面对空间维度的遮蔽，以及如何引入超越国家地理边界的空间概念对其进行重构。
 
 > [!claim] [[Jason Beech|Beech, J.]]
-> 比较教育常用的“跨国”、“国际”甚至“超国家”术语均在语言层面内嵌了民族国家预设。为彻底摆脱国家作为默认空间参照，应引入 Castells 的[[Space of Flows and Space of Places|流动空间与地方空间]]区隔，将全球教育政策空间（流动空间）与学校[[Praxis|实践]]（地方空间）作为纵向不对称的尺度进行分析。[[Argument_Beech_2009_CE|Beech, 2009, pp. 348–349]]
+> 比较教育常用的“跨国”、“国际”甚至“超国家”术语均在语言层面内嵌了民族国家预设。为彻底摆脱国家作为默认空间参照，应引入 Castells 的[[Space of Flows and Space of Places|流动空间与地方空间]]区隔，将全球教育政策空间（流动空间）与学校实践（地方空间）作为纵向不对称的尺度进行分析。[[Argument_Beech_2009_CE|Beech, 2009, pp. 348–349]]
 
 > [!claim] Marginson, S.
 > 高等教育具有“双重空间性”（国家空间性与全球空间性共存）。批判方法论民族主义不等于主张国家不重要，而是强调国家不是唯一的[[Analytic Framework|分析框架]]。应引入 Massey 的[[Relational Space|关系性空间]]与[[Multiplicity|多重性]]理论作为[[Ontology|本体论]]基础，以捕捉高等教育在地方、国家和全球多重尺度共存且不可相互化约的特征。[[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 8–9]]
@@ -174,7 +174,7 @@ updated: 2026-07-11
 > > [!axis] 空间封闭性与[[Multiplicity|多重性]]的对立
 > > 批判方法论民族主义对领土空间的本质化倾向，主张空间应是开放和关系性的。
 > > 
-> > - **Massey（2005）** 方法论民族主义对领土空间的本质化，本质上是试图“驯服”空间内在的开放性和多重性，消解其颠覆性与创造性潜力。[[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 5–6]]
+> > - **Massey（2005）** 方法论民族主义对领土空间的本质化，本质上是试图“驯服”空间内在的开放性和多重性，消解其颠覆性与[[Creativity|创造性]]潜力。[[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 5–6]]
 
 > [!critique] 外部批评
 > - **全球尺度的不可化约性** 在高等教育中，仅引入“国家+全球”双层分析仍不足以捕捉空间的多重性。全球科学（没有规范中心，由期刊、计量网络构成）与国家教育（规范中心为国家）等不同尺度是共存且无法相互化约的。[[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 8–9]]

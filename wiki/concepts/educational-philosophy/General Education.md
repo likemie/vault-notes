@@ -7,7 +7,7 @@ aliases:
 summary: "一种以多种思维方式及其迁移能力界定教育广度的课程理念，用于协调知识范围、学科学习深度与共同教育经验。"
 type: concept
 domain: "educational-philosophy"
-related_count: 14
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

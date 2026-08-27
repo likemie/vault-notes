@@ -6,7 +6,7 @@ aliases:
 summary: "大学教师和学生在追求学术兴趣、分享研究成果方面的高度自主权，使大学在信息和创意上具有渗透性，是产学合作中最根本的文化张力来源"
 type: concept
 domain: "higher-education"
-related_count: 13
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

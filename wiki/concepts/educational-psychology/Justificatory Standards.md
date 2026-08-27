@@ -7,7 +7,7 @@ aliases:
 summary: "个体或群体在评估知识主张、证据或解释是否合理时所依据的细粒度准则，既包含内部认知量尺，也包含在社会互动中动态协商的实践规范。"
 type: concept
 domain: "educational-psychology"
-related_count: 12
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

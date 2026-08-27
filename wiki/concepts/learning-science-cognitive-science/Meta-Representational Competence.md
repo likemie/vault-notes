@@ -18,11 +18,13 @@ tags:
   - cognition/learning-science
 related_concepts:
   - "[[Construct]]"
+  - "[[Concept Mapping]]"
   - "[[Metacognition]]"
   - "[[Graphic Organizer]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Effect Size]]"
+  - "[[Mind Mapping]]"
   - "[[Argument Mapping]]"
   - "[[Self-Scaffolding]]"
   - "[[Variable]]"
@@ -49,7 +51,7 @@ updated: 2026-08-25
 ## 定义
 
 > [!def] 核心定义
-> 元表征能力（Meta-Representational Competence, MRC）是由 diSessa & Sherin (2000) 提出的学习科学高阶认知[[Construct|构念]]，指学习者不仅能够被动阅读和理解现有的外部表征形式（如文本、概念图、数学方程、树状图、统计图表），而且能够深入理解不同表征形式的设计逻辑与表征局限，具备自主发明新表征、批判性评估表征的适切性与完备性、根据任务情境修改优化表征结构以及在多种不同表征模态之间自由转换与映射的高阶[[Metacognition|元认知]]能力。[[Argument_Lei_Ding_Chiu_2026_ERR|(Lei et al., 2026, pp. 4, 12)]]
+> 元表征能力（Meta-Representational Competence, MRC）是由 diSessa & Sherin (2000) 提出的学习科学高阶认知[[Construct|构念]]，指学习者不仅能够被动阅读和理解现有的外部表征形式（如文本、[[Concept Mapping|概念图]]、数学方程、树状图、统计图表），而且能够深入理解不同表征形式的设计逻辑与表征局限，具备自主发明新表征、批判性评估表征的适切性与完备性、根据任务情境修改优化表征结构以及在多种不同表征模态之间自由转换与映射的高阶[[Metacognition|元认知]]能力。[[Argument_Lei_Ding_Chiu_2026_ERR|(Lei et al., 2026, pp. 4, 12)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向“对表征的表征与反思”（Thinking about representations）。
@@ -80,7 +82,7 @@ updated: 2026-08-25
 > 1. **表征发明（Invention）** 面对新颖问题情境时，自发构思并绘制全新图示或符号表征形式的能力。
 > 2. **表征评估与批判（Critique & Evaluation）** 能够从清晰度、紧凑性、完备性与易读性等维度，判断某种图示是否胜任当前交流或推理任务。
 > 3. **表征功能理解（Understanding Function & Form）** 理解空间拓扑、颜色[[Coding in Qualitative Research|编码]]、箭头方向与节点包含关系如何映射抽象语义与因果逻辑。
-> 4. **表征修饰与[[Transfer Translation Transformation|转译]]（Modification & Translation）** 能够在文字、概念图、逻辑公式与表格等不同模态之间自如转译信息。
+> 4. **表征修饰与[[Transfer Translation Transformation|转译]]（Modification & Translation）** 能够在文字、[[Concept Mapping|概念图]]、逻辑公式与表格等不同模态之间自如转译信息。
 
 ```mermaid
 flowchart TD
@@ -103,7 +105,7 @@ flowchart TD
 > 外部认知脚手架的促学效能取决于学习者内在元表征能力与工具结构复杂度之间的动态匹配。
 
 > [!claim] diSessa & Sherin; Lei, Ding & Chiu
-> **中学生群体的元表征发展峰值效应** 在大样本[[Meta-analysis|元分析]]中，中学生群体利用[[Graphic Organizer|图形组织器]]发展[[Higher-Order Thinking Skills|高阶思维]]的[[Effect Size|效应量]]最为突出（$g = 1.113$），显著高于小学生（$g = 0.877$）与大学生（$g = 0.659$）。[[Jean Piaget|皮亚杰]]发展理论与元表征理论表明：中学生刚进入形式运算阶段，其元表征能力已足以自如理解和操控多层级思维导图、[[Argument Mapping|论证图]]与概念图，且能有效抵抗诱人细节干扰；同时其内部[[Self-Scaffolding|自我脚手架]]尚未完全固化，外部结构化工具恰好提供了最及时的认知支架，从而产生了最强的发展红利。[[Argument_Lei_Ding_Chiu_2026_ERR|(Lei et al., 2026, pp. 4, 12)]]
+> **中学生群体的元表征发展峰值效应** 在大样本[[Meta-analysis|元分析]]中，中学生群体利用[[Graphic Organizer|图形组织器]]发展[[Higher-Order Thinking Skills|高阶思维]]的[[Effect Size|效应量]]最为突出（$g = 1.113$），显著高于小学生（$g = 0.877$）与大学生（$g = 0.659$）。[[Jean Piaget|皮亚杰]]发展理论与元表征理论表明：中学生刚进入形式运算阶段，其元表征能力已足以自如理解和操控多层级[[Mind Mapping|思维导图]]、[[Argument Mapping|论证图]]与[[Concept Mapping|概念图]]，且能有效抵抗诱人细节干扰；同时其内部[[Self-Scaffolding|自我脚手架]]尚未完全固化，外部结构化工具恰好提供了最及时的认知支架，从而产生了最强的发展红利。[[Argument_Lei_Ding_Chiu_2026_ERR|(Lei et al., 2026, pp. 4, 12)]]
 
 ---
 

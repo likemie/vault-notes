@@ -19,7 +19,6 @@ related_concepts:
   - "[[Informed Consent]]"
   - "[[Research Ethics]]"
   - "[[Hypothesis]]"
-  - "[[Praxis]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -79,7 +78,7 @@ updated: 2026-06-19
 > [!timeline] 概念演变
 > - **1992** Frankfort-Nachmias & Nachmias 将成本/收益比系统表述为社会研究的基本伦理困境概念
 > - **1999** Howe & Moses 从道义论和后果论视角分别审视成本/收益分析，指出其核心问题：(a) 不清楚哪些成本和收益应被纳入分析；(b) [[Hypothesis|假设]]所有成本和收益具有同等强度
-> - **2003** Oliver 将成本/收益比与具体的研究[[Praxis|实践]]——如参与诱导、儿童研究、资助研究——联系起来，扩展了其应用范围
+> - **2003** Oliver 将成本/收益比与具体的研究实践——如参与诱导、儿童研究、资助研究——联系起来，扩展了其应用范围
 
 ---
 

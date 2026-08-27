@@ -18,7 +18,6 @@ related_concepts:
   - "[[Necropolitics]]"
   - "[[Wuhu Ruhua]]"
   - "[[Paradigm]]"
-  - "[[Praxis]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -31,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: '2026-06-25'
+updated: '2026-08-27'
 ---
 
 # Retrotopia
@@ -90,7 +89,7 @@ updated: '2026-06-25'
 > - **少数民族主体性的消解** 这种怀旧乌托邦具有根本性的排斥性。它不承认少数民族文化有其内在价值，主张只有在融入中华民族后才获得意义，从而将同化政策包装为“民族团结”。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 112]])
 
 > [!warning] 适用局限
-> 该分析[[Paradigm|范式]]主要适用于分析官方的国家主义宏大叙事以及主流精英的历史建构，但可能低估了地方社会和普通少数民族成员日常[[Praxis|实践]]中的文化韧性与策略性顺从。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 111]])
+> 该分析[[Paradigm|范式]]主要适用于分析官方的国家主义宏大叙事以及主流精英的历史建构，但可能低估了地方社会和普通少数民族成员日常实践中的文化韧性与策略性顺从。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 111]])
 
 ---
 

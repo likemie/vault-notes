@@ -52,7 +52,7 @@ updated: 2026-07-08
 
 > [!example]
 > - vs [[Organizational Actorhood]] — actorhood 描述组织作为自主行动者的一般特征（自主性、目标导向、问责性、社会嵌入性）；otherhood 是 actorhood 在社会嵌入性维度上的激进延伸。关键区别：actorhood 回答"组织如何成为一个能动者"，otherhood 回答"组织为谁行动"。一个大学可以具有很强的 actorhood（战略清晰、问责到位），但其研究可能主要服务于自身排名提升——这不构成 otherhood。Otherhood 要求组织的行动以他者利益为指向([[Argument_Zapp_2022_Springer|Zapp, 2022, pp.148–149]])
-> - vs 企业社会责任（CSR） — CSR 主要指企业对其利益相关者承担的经济、法律、伦理和慈善责任，本质上仍以企业自身的合法性为核心；otherhood 是一个更根本的社会学概念，不限于企业部门，涵盖所有类型组织为"他者"行使代理权的过程。二者的重叠在于：大学的 [[University Social Responsibility]] [[Praxis|实践]]可以被视为 otherhood 的制度化表达([[Argument_Zapp_2022_Springer|Zapp, 2022, pp.152–153]])
+> - vs 企业社会责任（CSR） — CSR 主要指企业对其利益相关者承担的经济、法律、伦理和慈善责任，本质上仍以企业自身的合法性为核心；otherhood 是一个更根本的社会学概念，不限于企业部门，涵盖所有类型组织为"他者"行使代理权的过程。二者的重叠在于：大学的 [[University Social Responsibility]] 实践可以被视为 otherhood 的制度化表达([[Argument_Zapp_2022_Springer|Zapp, 2022, pp.152–153]])
 > - vs 慈善／利他主义 — 慈善和利他主义主要描述个体的道德行为；otherhood 是[[World Society Theory|世界社会理论]]中解释**组织层面**社会运作的机制性概念——它不依赖组织成员的道德品质，而是现代组织身份建构中的结构性特征([[Argument_Zapp_2022_Springer|Zapp, 2022, p.149]])
 
 ---

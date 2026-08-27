@@ -7,7 +7,7 @@ aliases:
 summary: "杜威提出的哲学概念（对信念进行积极周密的审慎思考），后被心理学发展为个体在面对劣构问题时运用概率性辩护的高阶心智能力。"
 type: concept
 domain: "educational-philosophy"
-related_count: 12
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

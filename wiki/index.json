@@ -13424,6 +13424,17 @@
     ]
   },
   {
+    "title": "National Survey of Student Engagement",
+    "type": "instrument",
+    "path": "wiki/instruments/questionnaire/National Survey of Student Engagement.md",
+    "aliases": [
+      "NSSE",
+      "全美学生投入调查",
+      "美国大学生学习投入调查",
+      "National Survey of Student Engagement (NSSE)"
+    ]
+  },
+  {
     "title": "Schommer's Modified Epistemological Questionnaire",
     "type": "instrument",
     "path": "wiki/instruments/questionnaire/Schommer's Modified Epistemological Questionnaire.md",
@@ -13672,6 +13683,17 @@
       "TTU-CAT",
       "田纳西理工批判性思维评估测验",
       "批判性思维评估测验"
+    ]
+  },
+  {
+    "title": "Dental Admission Test",
+    "type": "instrument",
+    "path": "wiki/instruments/tests/Dental Admission Test.md",
+    "aliases": [
+      "DAT",
+      "牙医学院入学考试",
+      "北美牙医入学考试",
+      "Dental Admission Test (DAT)"
     ]
   },
   {
@@ -16539,6 +16561,18 @@
     ]
   },
   {
+    "title": "European Qualifications Framework",
+    "type": "fact",
+    "path": "wiki/facts/eu/European Qualifications Framework.md",
+    "aliases": [
+      "EQF",
+      "QF-EHEA",
+      "欧洲资格框架",
+      "欧洲高等教育区资格框架",
+      "European Qualifications Framework for Lifelong Learning"
+    ]
+  },
+  {
     "title": "European Standards and Guidelines",
     "type": "fact",
     "path": "wiki/facts/eu/European Standards and Guidelines.md",
@@ -16714,6 +16748,16 @@
     "aliases": [
       "French Class Size Reduction 2017",
       "法国2017年班额缩减政策"
+    ]
+  },
+  {
+    "title": "StraNES",
+    "type": "fact",
+    "path": "wiki/facts/france/StraNES.md",
+    "aliases": [
+      "法国国家高等教育战略白皮书",
+      "法国高教战略",
+      "Stratégie Nationale de l'Enseignement Supérieur"
     ]
   },
   {
@@ -17202,6 +17246,16 @@
       "爱尔兰高等教育局",
       "爱尔兰高教局",
       "An tÚdarás um Ard-Oideachas"
+    ]
+  },
+  {
+    "title": "Hunt Report",
+    "type": "fact",
+    "path": "wiki/facts/ireland/Hunt Report.md",
+    "aliases": [
+      "亨特报告",
+      "爱尔兰面向2030年国家高等教育战略",
+      "National Strategy for Higher Education to 2030"
     ]
   },
   {
@@ -19014,6 +19068,17 @@
     "aliases": [
       "ROI Initiative",
       "美国释放创新倡议"
+    ]
+  },
+  {
+    "title": "Spellings Report",
+    "type": "fact",
+    "path": "wiki/facts/us/Spellings Report.md",
+    "aliases": [
+      "斯佩林斯报告",
+      "美国高等教育未来委员会报告",
+      "A Test of Leadership",
+      "Commission on the Future of Higher Education Report"
     ]
   },
   {

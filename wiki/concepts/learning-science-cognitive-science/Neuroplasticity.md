@@ -18,7 +18,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Ontology]]"
   - "[[Synaptogenesis]]"
-  - "[[Executive Function]]"
   - "[[Synaptic Pruning]]"
   - "[[Prefrontal Cortex]]"
   - "[[Myelination]]"
@@ -36,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: '2026-05-18'
+updated: '2026-08-27'
 ---
 
 ## 定义
@@ -59,7 +58,7 @@ updated: '2026-05-18'
 > [!abstract] 突触可塑性的细胞机制
 > 脑可塑性在细胞层面主要通过两个过程影响细胞间通信的效能([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.6]])：
 >
-> - **[[Synaptogenesis|突触发生]]（Synaptogenesis）** — 中枢神经系统中神经元之间新突触（连接）的创建。该过程涉及神经元和连接的过度生产，贯穿整个儿童期发育，在性成熟年龄左右开始减少。出生至 2 岁期间大脑形成最大数量的新连接，7–12 个月发生剧烈突触发生，时间上与 [[Executive Function|EF]] 任务测量的转换和抑制的改善一致([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.9]])
+> - **[[Synaptogenesis|突触发生]]（Synaptogenesis）** — 中枢神经系统中神经元之间新突触（连接）的创建。该过程涉及神经元和连接的过度生产，贯穿整个儿童期发育，在性成熟年龄左右开始减少。出生至 2 岁期间大脑形成最大数量的新连接，7–12 个月发生剧烈突触发生，时间上与 EF 任务测量的转换和抑制的改善一致([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.9]])
 > - **[[Synaptic Pruning|突触修剪]]（Synaptic Pruning）** — 突触消除的过程，即神经元之间连接的程序性丧失。基于 Hebb 原则：经常使用的神经通路被加强，不常用的被移除。儿童大脑中兴奋性突触数量是成人的 2–3 倍；在 [[Prefrontal Cortex|PFC]] 中，突触连接密度从 2 岁时比成人高 55% 降至 7 岁时仅比成人高 10%([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.6, 12]])
 > - **[[Myelination|髓鞘化]]（Myelination）** — 在轴突周围积累髓鞘（白质）的过程，增加厚度并对神经细胞段进行电绝缘，使信号传输更快速([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.7]])。髓鞘化在儿童早期开始，导致白质体积增加，dlPFC 的白质密度在 2–5 岁持续增加([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.12]])
 

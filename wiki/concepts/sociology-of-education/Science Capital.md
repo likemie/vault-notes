@@ -79,7 +79,7 @@ updated: 2026-08-23
 > 通过将科学教学与学生多元文化背景、日常生活经验及社区问题相联结，能显著拓宽学生对“谁能从事科学”的认知。
 
 > [!claim] 普惠探究与认同构建
-> 依托 [[CREST Awards]]、[[Institute for Research in Schools|IRIS]] 等真实科研课题与课外拓展，为缺乏家庭科学资源的弱势学生提供[[Praxis|实践]]平台，能有效打破学科刻板印象并激发内在科学抱负。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, pp. 32–33)]]
+> 依托 [[CREST Awards]]、[[Institute for Research in Schools|IRIS]] 等真实科研课题与课外拓展，为缺乏家庭科学资源的弱势学生提供实践平台，能有效打破学科刻板印象并激发内在科学抱负。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, pp. 32–33)]]
 
 ---
 

@@ -75,7 +75,7 @@ updated: '2026-06-02'
 > [!example]
 > THE Impact Ranking 的方法论特征([[Argument_Zapp_2022_Springer|Zapp, 2022, pp.147, 154]])：
 > - 基于 11 项 [[UN Sustainable Development Goals|SDGs]]（大学自选其中 10 项，SDG 17 为强制）。
-> - 指标涵盖大学在[[Academic Freedom|学术自由]]、雇佣政策、性别平等、气候行动和可持续城市等方面的政策和[[Praxis|实践]]。
+> - 指标涵盖大学在[[Academic Freedom|学术自由]]、雇佣政策、性别平等、气候行动和可持续城市等方面的政策和实践。
 > - 强调大学作为他者的社会嵌入性——不仅评估大学自身的运营，也评估其对更广泛社会的影响。
 > - SDG 17（促进目标实现的伙伴关系）为强制报告指标，反映了大学通过元组织和跨部门联盟联合应对全球问题的趋势。
 

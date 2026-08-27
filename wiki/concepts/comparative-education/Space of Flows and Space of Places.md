@@ -9,7 +9,7 @@ aliases:
 summary: "Castells 提出的空间二分法，将社会空间区分为无需领土毗连的流动空间和附着于领土的地方空间，为分析全球教育话语的跨空间流通与转化提供了空间分析基础"
 type: concept
 domain: "comparative-education"
-related_count: 21
+related_count: 20
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

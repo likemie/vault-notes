@@ -36,7 +36,7 @@ updated: 2026-08-05
 ## 定义
 
 > [!def] 核心定义
-> 教师信念（Teacher Beliefs）是指教师对教育环境、学生能力、知识本质、[[Effective Teaching|有效教学]]方式等方面所持有的个人观念和前提[[Hypothesis|假设]]。这些信念并非静态不变，而是与教师的实际教学经验相互作用，并且被认为是影响教师教学[[Praxis|实践]]的最强直接预测指标之一。[[Argument_Bergeron_2019_JRIE|(Bergeron & Rogers, 2019, p. 171)]]
+> 教师信念（Teacher Beliefs）是指教师对教育环境、学生能力、知识本质、[[Effective Teaching|有效教学]]方式等方面所持有的个人观念和前提[[Hypothesis|假设]]。这些信念并非静态不变，而是与教师的实际教学经验相互作用，并且被认为是影响教师教学实践的最强直接预测指标之一。[[Argument_Bergeron_2019_JRIE|(Bergeron & Rogers, 2019, p. 171)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 教师内在的教育价值观和教学认知模式。
@@ -51,7 +51,7 @@ updated: 2026-08-05
 
 ### 命题一　教师信念与教学实践存在双向影响关系
 
-> [!concept-lens] [[Praxis|实践]]与信念的交互机制
+> [!concept-lens] 实践与信念的交互机制
 > 简述信念与行为在特定课程经验中是如何相互构建的。
 
 > [!claim] Bergeron, L., & Rogers, L.

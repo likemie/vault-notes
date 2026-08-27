@@ -18,13 +18,13 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Knowledge-Based Economy]]"
-  - "[[Praxis]]"
   - "[[Academic Freedom]]"
   - "[[Geopolitical Subject]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Growth]]"
   - "[[Economic Patriotism]]"
   - "[[Analytic Framework]]"
+  - "[[Praxis]]"
   - "[[Innovation Ecosystem]]"
   - "[[Doxa]]"
   - "[[Knowledge Production]]"
@@ -71,7 +71,7 @@ updated: '2026-06-02'
 ## 定义
 
 > [!info] 定义
-> [[Knowledge-Based Economy|知识经济]]化（Knowledge-Based Economization）是 [[Sami Moisio]]（2018, 2022）提出的核心分析概念。其主张可以概括为一句话：**知识经济不是自然存在的经济形态，而是被持续制造出来的——通过政策话语、空间规划、制度[[Praxis|实践]]和主体形塑，一个社会不断将自身经济化为知识经济。**
+> [[Knowledge-Based Economy|知识经济]]化（Knowledge-Based Economization）是 [[Sami Moisio]]（2018, 2022）提出的核心分析概念。其主张可以概括为一句话：**知识经济不是自然存在的经济形态，而是被持续制造出来的——通过政策话语、空间规划、制度实践和主体形塑，一个社会不断将自身经济化为知识经济。**
 >
 > > "the knowledge economy as an actually existing economy as a continuous process of social and political production in all kinds of economic imaginaries as well as economic and non-economic practices."([[Argument_Moisio_2022_Springer|Moisio, 2022, p.25]])
 > > 
@@ -118,7 +118,7 @@ Moisio 借用了这个双方向运动的框架，将其聚焦于高等教育和�
 
 ### Polanyi（1982）的经济作为制度化过程：经济不是自治的
 
-Polanyi 论证，任何经济——包括资本主义市场经济——都不可能是自治的（autonomous）。所有资本积累体制都是**制度化过程（instituted processes）** 国家和教育、科学、法律、社会制度、传统等**额外经济（extra-economic）**[[Praxis|实践]]在其中扮演构成性角色([[Argument_Moisio_2022_Springer|Moisio, 2022, p.25]])。
+Polanyi 论证，任何经济——包括资本主义市场经济——都不可能是自治的（autonomous）。所有资本积累体制都是**制度化过程（instituted processes）** 国家和教育、科学、法律、社会制度、传统等**额外经济（extra-economic）**实践在其中扮演构成性角色([[Argument_Moisio_2022_Springer|Moisio, 2022, p.25]])。
 
 这个论证对知识经济化分析至关重要：它意味着知识经济不可能纯粹通过市场交易运作——它**必须**依赖非经济制度（大学、法律体系、国家政策、文化规范）来支撑其运转。大学在 KBE 话语中被凸显，不是因为大学天然应该服务经济，而是因为知识经济化过程需要大学作为额外经济的锚定点——这就是为什么国家投入巨额资金改造大学，为什么大学的空间、课程和治理被重新设计。
 

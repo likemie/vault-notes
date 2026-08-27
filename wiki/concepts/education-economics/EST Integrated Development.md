@@ -7,7 +7,7 @@ aliases:
 summary: "教育（Education）、科技（Science and Technology）与人才（Talent）三个子系统协同演进的一体化发展概念，以系统论为理论基础，强调三者之间相互支撑、相互制约的耦合关系"
 type: concept
 domain: "education-economics"
-related_count: 4
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

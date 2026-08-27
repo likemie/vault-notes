@@ -9,7 +9,7 @@ aliases:
 summary: "指培养学生理解气候变化、生物多样性丧失与生态系统复杂性，掌握跨学科系统思维与绿色技能，并能在生活和职业中采取可持续行动的教育模式与综合素养"
 type: concept
 domain: "curriculum"
-related_count: 4
+related_count: 3
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

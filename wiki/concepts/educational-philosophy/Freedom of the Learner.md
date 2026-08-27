@@ -6,7 +6,7 @@ aliases:
 summary: "由杜威与弗雷尔共同倡导的教育哲学理想，主张赋予每一个学习者（而非少数精英）成长、批判性思考与改变自身处境的平等权利与能动性"
 type: concept
 domain: "educational-philosophy"
-related_count: 12
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

@@ -134,7 +134,7 @@ McCormick & James（1988, p. 191）进一步论述了操作含义：高度的反
 ## 反身性在行动研究中的位置
 
 > [!info] [[Action Research|行动研究]]中反身性的特殊地位
-> 在[[Action Research|行动研究]]中，反身性是核心要素，因为研究者同时也是参与者和[[Praxis|实践]]者——他们处于自己所研究的社会世界之中（Hammersley & Atkinson, 1983, p. 14）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 294–295)]]
+> 在[[Action Research|行动研究]]中，反身性是核心要素，因为研究者同时也是参与者和实践者——他们处于自己所研究的社会世界之中（Hammersley & Atkinson, 1983, p. 14）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 294–295)]]
 
 > [!claim] 反身性作为[[Emancipatory Action Research|解放性行动研究]]的[[Epistemology|认识论]]基础
 > Hall（1996, p. 29）指出反身性是解放性行动研究的构成要素和[[Epistemology|认识论]]基础，因其采取如下知识建构观点：(a) 数据是真实的并反映所有参与者的经验；(b) 所有研究者之间存在民主关系——研究者的观点（可能是理论负载的）并不优先于参与者的观点。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 294–295)]]

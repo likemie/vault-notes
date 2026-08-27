@@ -18,6 +18,8 @@ tags:
   - cognition/learning-science
   - construct/cognitive-scaffold
 related_concepts:
+  - "[[Mind Mapping]]"
+  - "[[Concept Mapping]]"
   - "[[Argument Mapping]]"
   - "[[Working Memory]]"
   - "[[Higher-Order Thinking Skills]]"
@@ -60,7 +62,7 @@ updated: 2026-08-25
 ## 定义
 
 > [!def] 核心定义
-> 图形组织器（Graphic Organizer, GO）是指通过空间排布、几何节点与可视化拓扑连线提取并表征关键信息及其内部逻辑关联的视觉教学与认知脚手架（如思维导图、概念图、[[Argument Mapping|论证图]]、流程图、文氏图等）。在认知学习理论中，图形组织器利用空间隐喻（Spatial Metaphors）将抽象语义与逻辑层级具象化，有效卸载学习者在信息识别、提取与记忆等低阶思维（Lower-Order Thinking, LOT）过程中的[[Working Memory|工作记忆]]负担，进而将有限的心智资源重新配置并聚焦于[[Higher-Order Thinking Skills|高阶思维]]（Higher-Order Thinking, HOT）的倾向激发、认知加工与技能迁移。[[Argument_Lei_Ding_Chiu_2026_ERR|(Lei et al., 2026, pp. 1–3)]]
+> 图形组织器（Graphic Organizer, GO）是指通过空间排布、几何节点与可视化拓扑连线提取并表征关键信息及其内部逻辑关联的视觉教学与认知脚手架（如[[Mind Mapping|思维导图]]、[[Concept Mapping|概念图]]、[[Argument Mapping|论证图]]、流程图、文氏图等）。在认知学习理论中，图形组织器利用空间隐喻（Spatial Metaphors）将抽象语义与逻辑层级具象化，有效卸载学习者在信息识别、提取与记忆等低阶思维（Lower-Order Thinking, LOT）过程中的[[Working Memory|工作记忆]]负担，进而将有限的心智资源重新配置并聚焦于[[Higher-Order Thinking Skills|高阶思维]]（Higher-Order Thinking, HOT）的倾向激发、认知加工与技能迁移。[[Argument_Lei_Ding_Chiu_2026_ERR|(Lei et al., 2026, pp. 1–3)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 将复杂知识网络、论证链条或发散观念空间化与结构化的外在可视化表征工具。
@@ -82,7 +84,7 @@ updated: 2026-08-25
 ## 概念辨析
 
 > [!contrast-table] 常见图形组织器类型对比
-> | 比较维度 | 思维导图（Mind Map） | [[Argument Mapping\|论证图]]（Argument Map） | 概念图（Concept Map） |
+> | 比较维度 | [[Mind Mapping\|思维导图]]（Mind Map） | [[Argument Mapping\|论证图]]（Argument Map） | [[Concept Mapping\|概念图]]（Concept Map） |
 > |---|---|---|---|
 > | **拓扑结构** | **中心辐射树状结构** 单一核心主题向外放射多级分支 | **逻辑推论树与层次网** 主张、证据、保证与反驳的单向推导链 | **非对称多元网络拓扑** 包含多节点交叉连线（Cross-links）与命题连接词 |
 > | **认知功能** | 头脑风暴、联想拓展、非结构化观念发散与信息速记 | 论辩逻辑梳理、批判性写作、证据评估与论证有效性检验 | 复杂领域概念体系建模、深层知识整合与命题网络建构 |
@@ -135,7 +137,7 @@ updated: 2026-08-25
 ### 命题二　图形组织器的结构复杂度与操作门槛调节其促学效应量
 
 > [!concept-lens] 组织器类型与结构冗余度
-> 该命题探讨不同形态的图形组织器（思维导图、[[Argument Mapping|论证图]]、概念图）在结构复杂度、形式规则与认知门槛上的差异如何决定其对高阶思维的干预效能。
+> 该命题探讨不同形态的图形组织器（[[Mind Mapping|思维导图]]、[[Argument Mapping|论证图]]、[[Concept Mapping|概念图]]）在结构复杂度、形式规则与认知门槛上的差异如何决定其对高阶思维的干预效能。
 
 > [!claim] Lei, Ding & Chiu
 > **结构开销与工具效能级差** 思维导图（Mind Map）因聚焦单一核心概念并向外自由放射，操作规则简洁且结构开销极低，在头脑风暴与构想发散中能最大化释放认知资源，因而促进效应最强（$g = 1.041$）；论证图（Argument Map）具有清晰的线性或树状逻辑论证规则，能有效支撑结构化论辩与批判性写作，效应次之（$g = 0.798$）；而概念图（Concept Map）因包含复杂的交叉连线与严格的关系命名规则，极易诱发较高的外在认知负荷与视觉繁复，效应相对最弱（$g = 0.548$）。[[Argument_Lei_Ding_Chiu_2026_ERR|(Lei et al., 2026, pp. 4, 10–12)]]
@@ -171,13 +173,13 @@ updated: 2026-08-25
 > > 关于图形组织器应由学生独立绘制生成还是由教师或教材直接呈现，学界存在生成性学习与认知过载的路径争论。
 > >
 > > - **Lei, Ding & Chiu（2026）** 实证纳入的绝大多数研究均采用教师指导基本规范、学生自主绘制生成、教师反馈修改的生成性程序，强调学生在主动空间表征建构中深化高阶认知加工。[[Argument_Lei_Ding_Chiu_2026_ERR|(Lei et al., 2026, pp. 5, 13)]]
-> > - **Su（2018）** 探讨教师预先制作动态概念图对学生电化学推理的辅助作用，认为高质量的专家预制图示可减少学生的初始建构迷茫。[[Argument_Lei_Ding_Chiu_2026_ERR|(Lei et al., 2026, pp. 5, 13)]]
+> > - **Su（2018）** 探讨教师预先制作动态[[Concept Mapping|概念图]]对学生电化学推理的辅助作用，认为高质量的专家预制图示可减少学生的初始建构迷茫。[[Argument_Lei_Ding_Chiu_2026_ERR|(Lei et al., 2026, pp. 5, 13)]]
 >
 > > [!axis] 视觉线索丰富度与[[Seductive Details Effect|诱人细节效应]]的张力
 > > 图像、色彩、图标等视觉增强手段能否促进思维，抑或产生认知干扰。
 > >
 > > - **Rowland-Bryant et al.（2009）** 指出低龄学生极易被图示中不重要的修饰性图像（Seductive Details）分散注意力，阻碍核心概念逻辑的提取。[[Argument_Lei_Ding_Chiu_2026_ERR|(Lei et al., 2026, p. 4)]]
-> > - **Buzan & Edwards & Cooper（2010）** 主张思维导图中的多色分支与生动图标能够激活左右脑协同并增强联想记忆与[[Creativity|创造力]]。[[Argument_Lei_Ding_Chiu_2026_ERR|(Lei et al., 2026, p. 4)]]
+> > - **Buzan & Edwards & Cooper（2010）** 主张[[Mind Mapping|思维导图]]中的多色分支与生动图标能够激活左右脑协同并增强联想记忆与[[Creativity|创造力]]。[[Argument_Lei_Ding_Chiu_2026_ERR|(Lei et al., 2026, p. 4)]]
 
 > [!warning] 适用局限
 > 图形组织器的促学成效高度依赖学习者的[[Meta-Representational Competence|元表征能力]]与反思训练；若仅将其作为机械填空或[[Rote Learning|死记硬背]]的板书替代品，则无法有效激活[[Higher-Order Thinking Skills|高阶思维]]。此外，在缺乏长期追踪的情况下，其向远迁移问题情境的可持续保留效应仍有待检验。[[Argument_Lei_Ding_Chiu_2026_ERR|(Lei et al., 2026, pp. 12–13)]]
@@ -198,9 +200,9 @@ updated: 2026-08-25
 >
 > | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | **干预因素**（组织器形态） | **思维导图（Mind Mapping）** | $k = 16$ / — | $g = 1.041$, $95\%\text{ CI} = [0.704, 1.379]$ | $Q_b = 9.13, p < .05$；Wald 两两比较均 $p < .001$ | 单一中心发散，认知开销最低，促学效应最强 |
+> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | **干预因素**（组织器形态） | **[[Mind Mapping\|思维导图]]（Mind Mapping）** | $k = 16$ / — | $g = 1.041$, $95\%\text{ CI} = [0.704, 1.379]$ | $Q_b = 9.13, p < .05$；Wald 两两比较均 $p < .001$ | 单一中心发散，认知开销最低，促学效应最强 |
 > | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | **干预因素**（组织器形态） | **[[Argument Mapping\|论证图]]（Argument Mapping）** | $k = 12$ / — | $g = 0.798$, $95\%\text{ CI} = [0.469, 1.237]$ | 组间差异显著 | 逻辑结构清晰，支持批判性论辩与写作 |
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | **干预因素**（组织器形态） | **概念图（Concept Mapping）** | $k = 36$ / — | $g = 0.548$, $95\%\text{ CI} = [0.403, 0.692]$ | 组间差异显著 | 交叉网络复杂度高，易带来额外认知负荷 |
+> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | **干预因素**（组织器形态） | **[[Concept Mapping\|概念图]]（Concept Mapping）** | $k = 36$ / — | $g = 0.548$, $95\%\text{ CI} = [0.403, 0.692]$ | 组间差异显著 | 交叉网络复杂度高，易带来额外认知负荷 |
 > | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | **干预因素（[[Dependent Variable\|结果变量]]类型）** | **[[Divergent Thinking\|发散思维]]（Divergent Thinking）** | $k = 14$ / — | $g = 1.167$, $95\%\text{ CI} = [0.841, 1.493]$ | $Q_b = 7.07, p < .01$ | 对生成性与独创性发散构想的促进效应显著强于聚合思维 |
 > | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | **干预因素（结果[[Variable\|变量]]类型）** | **[[Convergent Thinking\|聚合思维]]（Convergent Thinking）** | $k = 55$ / — | $g = 0.680$, $95\%\text{ CI} = [0.535, 0.825]$ | 组间差异显著 | 侧重逻辑判断与确定性推导 |
 > | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | **干预因素（结果[[Construct\|构念]]层级）** | **高阶思维倾向（Dispositions）** | $k = 20$ / — | $g = 0.945$, $95\%\text{ CI} = [0.670, 1.221]$ | $Q_b = 8.66, p < .05$；与技能差异 $W = 53.47, p < .001$ | 李克特量表测度，激发探究与反思心向 |

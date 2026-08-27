@@ -17,7 +17,6 @@ tags:
 - cognitive-science
 related_concepts:
   - "[[Synaptic Pruning]]"
-  - "[[Executive Function]]"
   - "[[Prefrontal Cortex]]"
 related_theories: []
 related_methods: []
@@ -28,7 +27,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: 2026-07-08
+updated: '2026-08-27'
 ---
 
 ## 定义
@@ -46,7 +45,7 @@ updated: 2026-07-08
 ## 发展时间线
 
 - 出生至 2 岁期间，大脑形成最大数量的新神经元间连接，大脑增长至其绝对大小([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.9]])
-- 7 至 12 个月期间大脑发生剧烈突触发生，时间上与 [[Executive Function|EF]] 任务测量的转换和抑制的可观察改善一致([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.9]])
+- 7 至 12 个月期间大脑发生剧烈突触发生，时间上与 EF 任务测量的转换和抑制的可观察改善一致([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.9]])
 - 具体而言，dlPFC 第三层锥体细胞的树突突触连接延伸并达到成人连接长度([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.9,引用 Koenderink, Uylings, & Mrzljak, 1994]])
 - [[Prefrontal Cortex|PFC]] 经历延迟发育：2 岁时树突突触连接仅增长到成人水平的一半([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.9]])
 

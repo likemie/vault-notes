@@ -22,6 +22,7 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Direct Instruction]]"
   - "[[Task Structure]]"
+  - "[[Concept Mapping]]"
   - "[[Mentorship]]"
   - "[[Dialogue in Education]]"
   - "[[Authentic Instruction]]"
@@ -72,7 +73,7 @@ updated: 2026-08-25
 > [!feature] 认知学徒制的六大教学策略体系
 > - **示范（Modeling）** 导师在真实任务中执行解题过程，通过出声思考显性化其思维路径、[[Hypothesis|假设]]审查与策略选择。
 > - **辅导（Coaching）** 在学生尝试执行任务时，导师进行实时观察，提供精准点拨、反馈、线索提醒与[[Task Structure|任务结构]]重组。
-> - **支架与渐退（Scaffolding & Fading）** 导师提供认知支架（如提问句干、流程向导、概念图），随着学生能力增长逐步撤除支持，将控制权移交学生。
+> - **支架与渐退（Scaffolding & Fading）** 导师提供认知支架（如提问句干、流程向导、[[Concept Mapping|概念图]]），随着学生能力增长逐步撤除支持，将控制权移交学生。
 > - **阐明（Articulation）** 要求学生清晰表达并辩护自己的推理过程、概念模型与解题依据，实现知识的显性化。
 > - **反思（Reflection）** 引导学生将自己的解题策略与专家或同伴进行横向对比，诊断自身认知偏见与盲区。
 > - **探索（Exploration）** 推动学生自主进入独立探究模式，自主定义问题、设立检验标准并尝试创新解法。

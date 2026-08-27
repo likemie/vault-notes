@@ -16,8 +16,7 @@ tags:
   - communication
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21]]"
-related_concepts:
-  - "[[Praxis]]"
+related_concepts: []
 confidence: medium
 status: draft
 created: 2026-07-22
@@ -54,7 +53,7 @@ updated: 2026-07-22
 
 ## 概念辨析
 
-积极倾听常与以下概念共同出现在访谈[[Praxis|实践]]中：
+积极倾听常与以下概念共同出现在访谈实践中：
 
 - **提示** 帮助澄清问题理解，发生在受访者未理解时；积极倾听则贯穿访谈全程。
 - **追问** 主动扩展和深化回应；积极倾听是追问的前提——先理解再追问。

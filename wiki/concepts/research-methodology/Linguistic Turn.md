@@ -40,7 +40,7 @@ updated: 2026-07-09
 ## 定义
 
 > [!def] 核心定义
-> 语言学转向（linguistic turn）在[[Documentary Analysis|文献分析]]中指对[[Document|文献]]的语言和话语进行细致研究，以理解文本如何**建构**其所呈现的事实和论证，而非仅仅从中提取信息。这一取向遵循解释学（hermeneutics）原则，并受到文学批评的影响（Reinfandt, 2009）。一些教育史学者已创造性地将其运用于文献研究。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12|(pp. 17–18)]]
+> 语言学转向（linguistic turn）在[[Documentary Analysis|文献分析]]中指对[[Document|文献]]的语言和话语进行细致研究，以理解文本如何**建构**其所呈现的事实和论证，而非仅仅从中提取信息。这一取向遵循解释学（hermeneutics）原则，并受到文学批评的影响（Reinfandt, 2009）。一些教育史学者已[[Creativity|创造性]]地将其运用于文献研究。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12|(pp. 17–18)]]
 
 > [!citation-card]- 关键表述
 > 文献应被理解为与文本生产的符号学相关：意义如何在文本中被制造、读者如何从文本中获取意义、作者意图相对于读者解释的地位、话语共同体在文本接受中的角色等。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12|(Cohen, 1999, p. 81, 转引自 p. 18)]]
@@ -55,7 +55,7 @@ Sol Cohen（1999, p. 81）提出了[[Documentary Analysis|文献分析]]中语�
 
 > [!feature] Cohen 的五维[[Analytic Framework|分析框架]]
 > - **文本生产的符号学（semiotics of text production）** 意义如何在文本中被制造——语言选择、修辞策略和叙事结构如何共同生产特定的"事实"和"论证"。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12|(p. 18)]]
-> - **读者的意义获取（how readers take meaning from text）** 读者不是意义的被动接收者，而是通过自身的[[Knowledge Framework|知识框架]]、制度位置和阅读[[Praxis|实践]]积极地建构文本的意义。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12|(p. 18)]]
+> - **读者的意义获取（how readers take meaning from text）** 读者不是意义的被动接收者，而是通过自身的[[Knowledge Framework|知识框架]]、制度位置和阅读实践积极地建构文本的意义。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12|(p. 18)]]
 > - **作者意图与读者解释（authorial intention vs. reader's interpretation）** 作者的意图能在多大程度上控制读者的理解？语言学转向倾向于认为文本的意义不能被作者意图所穷尽。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12|(p. 18)]]
 > - **话语共同体（community of discourse）** 同一个文本在不同的话语共同体中可能被以完全不同的方式理解和利用。文本的意义部分取决于它在哪个解释社群中被阅读和讨论。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12|(p. 18)]]
 > - **文本的语言与形式** 语言学转向的根本操作是对[[Document|文献]]的语言和话语进行细致研究，从文本的语言特征（词汇选择、语法结构、修辞手段）和形式特征（体裁、结构、视觉呈现）出发，揭示这些形式要素如何塑造和限制文本所传达的内容。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12|(p. 18)]]

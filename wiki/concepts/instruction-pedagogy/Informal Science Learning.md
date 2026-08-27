@@ -198,7 +198,7 @@ updated: 2026-08-23
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|The Royal Society (2026b)]] — 详尽论证英国非正式科学参与生态、生存危机、公众诉求与多元筹资及长期评估体系。
-> - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026a)]] — 提出宽口径大纲与交叉素养底座，强调正规教育与校外[[Praxis|实践]]的贯通协同。
+> - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026a)]] — 提出宽口径大纲与交叉素养底座，强调正规教育与校外实践的贯通协同。
 > - [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026c)]] — 宏观倡导面向全体公民的全生命周期[[Scientific Literacy|科学素养]]建设与普惠公共参与生态。
 
 ---

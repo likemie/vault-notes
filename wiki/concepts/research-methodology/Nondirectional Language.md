@@ -59,7 +59,7 @@ updated: 2026-05-31
 > **方向性语言 vs 非方向性语言** 方向性语言暗示某种结果优于另一种（如"成功的自我表达""有益的干预效果"）；非方向性语言保持中立（如"自我表达经验""干预的效果"）。两者的区别不在于语法而在于预设——方向性语言已经为研究结果预先划定了"理想方向"。
 
 > [!example]
-> **非方向性语言 vs 中性语言（neutral language）** 两个术语在[[Qualitative Research|质性研究]]方法论[[Document|文献]]中常互换使用，但略有侧重。"非方向性"更强调避免引导受访者走向特定答案；"中性"更强调不加价值判断。在[[Purpose Statement|目的陈述]]写作的语境中，两者指向同一[[Praxis|实践]]原则。
+> **非方向性语言 vs 中性语言（neutral language）** 两个术语在[[Qualitative Research|质性研究]]方法论[[Document|文献]]中常互换使用，但略有侧重。"非方向性"更强调避免引导受访者走向特定答案；"中性"更强调不加价值判断。在[[Purpose Statement|目的陈述]]写作的语境中，两者指向同一实践原则。
 
 ## 核心要素
 
@@ -88,7 +88,7 @@ updated: 2026-05-31
 ## 理论基础
 
 > [!tip]-
-> 非方向性语言的深层理据植根于[[Qualitative Research|质性研究]]的[[Constructivist Paradigm|建构主义]][[Epistemology|认识论]]。建构主义认为意义是个体通过与世界的互动建构的，研究者不能将先验的"好/坏"框架强加于参与者的经验之上。非方向性法则正是这一[[Epistemic Stances|认识论立场]]在方法[[Praxis|实践]]层面的[[Operationalization|操作化]]：它要求研究者[[Epoché|悬置]]（bracket）自己的价值预设，让参与者的经验和表述成为意义的直接来源。
+> 非方向性语言的深层理据植根于[[Qualitative Research|质性研究]]的[[Constructivist Paradigm|建构主义]][[Epistemology|认识论]]。建构主义认为意义是个体通过与世界的互动建构的，研究者不能将先验的"好/坏"框架强加于参与者的经验之上。非方向性法则正是这一[[Epistemic Stances|认识论立场]]在方法实践层面的[[Operationalization|操作化]]：它要求研究者[[Epoché|悬置]]（bracket）自己的价值预设，让参与者的经验和表述成为意义的直接来源。
 >
 > 这一原则也与质性研究的**[[Emergent Design|涌现式设计]]（emerging design）**一脉相承——如果研究设计可以在过程中改变和调整，那么在表述[[Research Purpose|研究目的]]时就不应该预设一个固定不变的方向。
 

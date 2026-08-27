@@ -17,7 +17,6 @@ tags:
 related_concepts:
   - "[[Epistemology]]"
   - "[[Doxa]]"
-  - "[[Praxis]]"
   - "[[Definition of Terms]]"
   - "[[Knowledge Production]]"
   - "[[Reflexivity]]"
@@ -64,7 +63,7 @@ updated: 2026-05-18
 >
 > 教育行政学者大多是前任学校/系统层面的行政人员，且许多人在大学中也担任行政职务。这使得研究者本身就是"自发社会学家"（spontaneous sociologist）——通过社会化过程内化了社会世界的客观结构，以 doxic 模态感知社会世界([[Argument_Eacott_2015_EPT|Eacott, 2015, p.317]])。
 >
-> > 例：一位教育行政教授曾担任校长，其认知图式（如何定义"好学校"、"有效领导"）已通过职业轨迹被塑造——若无[[Epistemology|认识论]]断裂，其研究极易沦为对既有[[Praxis|实践]]框架的确认而非质疑。
+> > 例：一位教育行政教授曾担任校长，其认知图式（如何定义"好学校"、"有效领导"）已通过职业轨迹被塑造——若无[[Epistemology|认识论]]断裂，其研究极易沦为对既有实践框架的确认而非质疑。
 >
 > 研究者的社会史和与教育制度的个人关系"时常在不知不觉中定向我们的思考"——这模糊了经验与认识的边界，因为"教育行政"作为研究对象的本身就是"一个植根于对研究对象本身无争议价值的先反思信念的观点的制度化"。
 >
@@ -106,6 +105,6 @@ updated: 2026-05-18
 
 > [!warning] 争议与批评
 > - **是否可能完全断裂** Bourdieu 自己也承认研究者永远无法完全逃脱社会世界——"the inexhaustible intellectual project of getting beyond the everyday is never finally won"([[Argument_Eacott_2015_EPT|Eacott, 2015, p.322]])。批评者质疑这是否意味着"断裂"是一个永远达不到的理想状态。
-> - **与"[[Praxis|实践]]相关性"的张力** 教育行政作为"应用领域"，其体制合法性部分来自与实践的紧密关联。彻底的断裂是否会使研究对实践者不可理解或无关？([[Argument_Eacott_2015_EPT|Eacott, 2015, p.319-320,讨论 Bachelard & Bourdieu 拒绝简化复杂内容]])
+> - **与"实践相关性"的张力** 教育行政作为"应用领域"，其体制合法性部分来自与实践的紧密关联。彻底的断裂是否会使研究对实践者不可理解或无关？([[Argument_Eacott_2015_EPT|Eacott, 2015, p.319-320,讨论 Bachelard & Bourdieu 拒绝简化复杂内容]])
 > - **Evers & Lakomski 立场** Evers & Lakomski（1991, 1996, 2000, 2012）认为问题不在科学，而在科学的模型——逻辑经验主义的狭隘[[Operationalization|操作化]]。若采用更丰富的科学模型（如自然主义的科学观），是否需要"断裂"本身也有待商榷([[Argument_Eacott_2015_EPT|Eacott, 2015, p.316]])。
 

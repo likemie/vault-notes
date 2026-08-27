@@ -57,7 +57,7 @@ updated: 2026-06-16
 ## 经过
 
 > [!timeline] 机构发展与关键活动
-> - 2021 受官方教育证据中介[[Australian Education Research Organisation|澳大利亚教育研究组织]] (AERO) 委托，针对澳大利亚在教育中采纳“循证[[Praxis|实践]]”的现状开展桌面审查（Desktop Review），并于当年完成撰写。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
+> - 2021 受官方教育证据中介[[Australian Education Research Organisation|澳大利亚教育研究组织]] (AERO) 委托，针对澳大利亚在教育中采纳“循证实践”的现状开展桌面审查（Desktop Review），并于当年完成撰写。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
 > - 2023 该桌面审查报告被 TEEP 专家小组采纳，成为起草《强劲开端》全国教师教育“大脑与学习”核心内容规范的隐藏大纲设计依据。
 
 ---

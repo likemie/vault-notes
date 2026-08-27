@@ -14,6 +14,7 @@ tags:
   - paradigm/statism
 related_concepts:
   - "[[Informationalization]]"
+  - "[[Creativity]]"
   - "[[Evaluation Research]]"
   - "[[Soviet Statism]]"
 related_theories: []
@@ -50,7 +51,7 @@ updated: 2026-06-12
 ## 核心命题
 
 > [!abstract]
-> 国家垂直结构通过两条路径阻碍[[Informationalization|信息化]]转型：一是将科研、应用和生产隔离在封闭回路中，扼杀创新所需的知识交叉；二是使体制难以容纳"创造性破坏"，因为新技术的引入可能打乱自上而下的计划链条。
+> 国家垂直结构通过两条路径阻碍[[Informationalization|信息化]]转型：一是将科研、应用和生产隔离在封闭回路中，扼杀创新所需的知识交叉；二是使体制难以容纳"[[Creativity|创造性]]破坏"，因为新技术的引入可能打乱自上而下的计划链条。
 
 > [!line-a] 科研–应用–生产的封闭回路
 > 在苏联的研究与开发（R&D）体系中，基础科学（科学院）、[[Evaluation Research|应用研究]]（各部委研究机构）和工业生产（企业）在彼此隔离的封闭回路中运行。科学院与工业界几乎不存在跨院系或跨部委合作。对外部间谍活动的恐惧和苏联自身对外国科学发展的怀疑，使苏联科学家在相对孤立中工作（pp.8–9）。

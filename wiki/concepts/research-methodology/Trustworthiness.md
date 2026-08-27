@@ -86,4 +86,4 @@ updated: 2026-07-11
 
 > [!tension] 替代还是补充？
 > - **Lincoln & Guba 的替代立场** 可信赖性不是对[[Positivism|实证主义]]标准的"质性翻译"——它是从根本上拒绝实证主义效度概念后在自然主义[[Paradigm|范式]]内建立的**独立标准体系**。
-> - **[[Pragmatic Paradigm|实用主义]]的补充立场** 一些研究者（如 Miles & Huberman, 1994）在[[Praxis|实践]]中同时使用量化和质性标准——不拒绝[[Internal Validity|内部效度]]等概念，而是将其与可信赖性标准互补使用。这种实用主义立场在[[Mixed Methods Research|混合方法研究]]中尤为常见。
+> - **[[Pragmatic Paradigm|实用主义]]的补充立场** 一些研究者（如 Miles & Huberman, 1994）在实践中同时使用量化和质性标准——不拒绝[[Internal Validity|内部效度]]等概念，而是将其与可信赖性标准互补使用。这种实用主义立场在[[Mixed Methods Research|混合方法研究]]中尤为常见。

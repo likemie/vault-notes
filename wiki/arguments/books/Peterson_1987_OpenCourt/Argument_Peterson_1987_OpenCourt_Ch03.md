@@ -10,7 +10,7 @@ title: "Argument_Peterson_1987_OpenCourt_Ch03"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch03"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch03"
 argument_kind: "book-chapter"
-argument_related_count: 27
+argument_related_count: 29
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#fef3c7"

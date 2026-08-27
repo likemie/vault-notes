@@ -69,7 +69,7 @@ related_arguments:
 > 《基础教育课程改革纲要（试行）》宣告了全国基础教育从“双基”知识传授向“[[Quality Education|素质教育]]”与学生中心教学的根本转向，旨在构建开放、积极、互动的学习环境与更平等的[[Student-Teacher Relationship|师生关系]][[Argument_Ryan_2010_ChineseLearner|(Ryan, 2010, pp. 54–55)]]。
 
 > [!policy-design]- 政策设计
-> - **目标** 摆脱[[Examination-Oriented Education|应试教育]]取向，培育学生的创新精神、[[Praxis|实践]]能力与[[Learner Autonomy|自主学习]]态度，实现从知识灌输到综合素质发展的跨越[[Argument_Ryan_2010_ChineseLearner|(Ryan, 2010, p. 54)]]。
+> - **目标** 摆脱[[Examination-Oriented Education|应试教育]]取向，培育学生的创新精神、实践能力与[[Learner Autonomy|自主学习]]态度，实现从知识灌输到综合素质发展的跨越[[Argument_Ryan_2010_ChineseLearner|(Ryan, 2010, p. 54)]]。
 > - **对象** 覆盖全国中小学校、教师、学生及教科书编写出版体系[[Argument_Yu_2024_CE|(Yu & Zhao, 2024, p. 65)]]。
 > - **工具** 国家课程标准、分层与国家/地方/学校三级课程管理、教科书审定制度、多元评价与教师专业发展培训。
 > - **约束方式** 采取中央顶层设计、大城市先行试点、偏远地区跟进推行以及跨国合作交流等混合推进机制[[Argument_Ryan_2010_ChineseLearner|(Ryan, 2010, pp. 53–55)]]。
@@ -87,7 +87,7 @@ related_arguments:
 > - **2001** — 教育部发布《基础教育课程改革纲要（试行）》，全国基础教育课程与教学改革正式启动[[Argument_Ryan_2010_ChineseLearner|(Ryan, 2010, p. 54)]]。
 > - **2001–2007** — 各级学校逐步实施新课程和教学改革，试点从大城市全面向偏远地区扩展[[Argument_Ryan_2010_ChineseLearner|(Ryan, 2010, p. 55)]]。
 > - **2001–2016** — 基于 2001 纲要出版了六门必修科目（语文、英语、政治、地理、历史、历史与社会）共 217 册教科书，承载国家[[Official Knowledge|官方知识]][[Argument_Yu_2024_CE|(Yu & Zhao, 2024, p. 65)]]。
-> - **2007 年 7 月** — 内蒙古东胜召开首届“学习与发展共同体年会”，来自 8 省的 600 名教师与学者参会展示[[Praxis|实践]]成果[[Argument_Ryan_2010_ChineseLearner|(Ryan, 2010, p. 55)]]。
+> - **2007 年 7 月** — 内蒙古东胜召开首届“学习与发展共同体年会”，来自 8 省的 600 名教师与学者参会展示实践成果[[Argument_Ryan_2010_ChineseLearner|(Ryan, 2010, p. 55)]]。
 > - **2007** — 开展中—加—澳跨国课程改革合作项目，推动国际化经验交流[[Argument_Ryan_2010_ChineseLearner|(Ryan, 2010, pp. 53–54)]]。
 
 ---
@@ -102,7 +102,7 @@ related_arguments:
 
 > [!pathways]- 实施路径
 > - **大城市先行示范** 北京、上海、广州等发达城市的学校率先推进学生中心教学与课堂创新[[Argument_Ryan_2010_ChineseLearner|(Ryan, 2010, p. 55)]]。
-> - **偏远地区全面跟进** 内蒙古与甘肃省等中西部地区积极开展[[Praxis|实践]]跟进与合作项目（如东胜试点）[[Argument_Ryan_2010_ChineseLearner|(Ryan, 2010, p. 55)]]。
+> - **偏远地区全面跟进** 内蒙古与甘肃省等中西部地区积极开展实践跟进与合作项目（如东胜试点）[[Argument_Ryan_2010_ChineseLearner|(Ryan, 2010, p. 55)]]。
 > - **教师层面的微观创新** 教师积极参与实验创新教学、高水平师生互动，并持续开展教学反思、研究与发表[[Argument_Ryan_2010_ChineseLearner|(Ryan, 2010, pp. 53–54)]]。
 > - **跨国合作与学术交流** 与加拿大、澳大利亚学者开展课程改革和教师专业发展合作[[Argument_Ryan_2010_ChineseLearner|(Ryan, 2010, p. 53)]]。
 

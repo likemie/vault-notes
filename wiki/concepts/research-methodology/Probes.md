@@ -101,6 +101,6 @@ updated: 2026-07-22
 
 ## 应用案例
 
-> [!example] 追问在[[Praxis|实践]]中的应用场景
+> [!example] 追问在实践中的应用场景
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 追问被写入[[Interview Protocol|访谈协议]]作为结构化提醒，确保所有受访者获得同等深度的追问。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|Cohen et al. (2011, Ch. 21)]] — 在半结构化提纲中，每个话题和问题都需预设计对应的追问提示，以解决丰富性和诚实性问题。

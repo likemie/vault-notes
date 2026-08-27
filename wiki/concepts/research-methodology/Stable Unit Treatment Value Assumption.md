@@ -39,7 +39,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 稳定单位处理价值[[Hypothesis|假设]]（Stable Unit Treatment Value Assumption, SUTVA）是[[Potential Outcomes Framework|潜在结果框架]]下[[Causality|因果推断]]的一个核心假定：每个研究主体的潜在结果仅取决于该主体自身接受的处理，不受其他主体接受何种处理的影响。当 SUTVA 被违反时，即出现**主体间干扰（subject interference）**，因果效应不再被唯一地定义——每个可能的研究单位分配方式都可能产生不同的因果效应([[Argument_Berk_2011_ER|Berk, 2011, pp.194–195]])。
+> 稳定单位处理价值[[Hypothesis|假设]]（Stable Unit Treatment [[VALUE Rubrics|VALUE]] Assumption, SUTVA）是[[Potential Outcomes Framework|潜在结果框架]]下[[Causality|因果推断]]的一个核心假定：每个研究主体的潜在结果仅取决于该主体自身接受的处理，不受其他主体接受何种处理的影响。当 SUTVA 被违反时，即出现**主体间干扰（subject interference）**，因果效应不再被唯一地定义——每个可能的研究单位分配方式都可能产生不同的因果效应([[Argument_Berk_2011_ER|Berk, 2011, pp.194–195]])。
 >
 > > "Because the outcome for any one student depends on the students with whom he or she interacts, and because that depends on which students are assigned to which interventions, causal effects are defined not just by the interventions, but by which students happen to be assigned where." ([[Argument_Berk_2011_ER|Berk, 2011, p.195]])
 

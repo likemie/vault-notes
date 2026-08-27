@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-24
-updated: 2026-07-25
+updated: '2026-08-27'
 ---
 
 # Habituation
@@ -77,7 +77,7 @@ updated: 2026-07-25
 ### 1. 德性伦理与教学论中的“习惯化”
 
 > [!theory-components] [[Aristotle|亚里士多德]]式习惯化的运作特征
-> - **[[Praxis|实践]]先行于理知（Action preceding Understanding）**
+> - **实践先行于理知（Action preceding Understanding）**
 >   道德德性并非起源于纯理论讲授，而是在青年时期通过重复合乎德性的行为形成肌肉记忆与心理倾向 [[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 4)]]。
 > - **权威日程的依循（Adherence to External Agenda）**
 >   习惯化[[Hypothesis|假设]]社会权威（如教育行政部门、学校董事会或教师）预先设定好学生应当习得的规范，学生通过重复行为适应既有日程，通常无需质疑系统本身的合法性 [[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 4–5)]]。
@@ -120,7 +120,7 @@ updated: 2026-07-25
 > [!debates] 学术争议
 >
 > > [!axis] 习惯化与进步主义/[[Critical Pedagogy|批判教育学]]的冲突（习惯化 vs 批判能动性）
-> > [[John Dewey|杜威]]与[[Paulo Freire|弗莱雷]]批判[[Aristotle|亚里士多德]]式习惯化：如果教育仅停留在通过习惯化重复既有规范，学生就会被降格为遵从状态的客体（Objects） [[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 4–6)]]。真正的[[Active Learning|主动学习]]必须超越无批判的习惯化，赋予学生[[Freedom of the Learner|学习者的自由]]，使其通过省察、[[Dialogue in Education|对话]]与[[Praxis|实践]]去改变不正义的规范。
+> > [[John Dewey|杜威]]与[[Paulo Freire|弗莱雷]]批判[[Aristotle|亚里士多德]]式习惯化：如果教育仅停留在通过习惯化重复既有规范，学生就会被降格为遵从状态的客体（Objects） [[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 4–6)]]。真正的[[Active Learning|主动学习]]必须超越无批判的习惯化，赋予学生[[Freedom of the Learner|学习者的自由]]，使其通过省察、[[Dialogue in Education|对话]]与实践去改变不正义的规范。
 
 ---
 

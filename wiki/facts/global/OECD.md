@@ -78,7 +78,7 @@ updated: 2026-07-11
 > - **1948 — 欧洲经济合作组织（OEEC）的奠基** 美国政府创建OEEC以负责管理二战后的马歇尔计划。这一技术援助框架从一开始就孕育了教育规划与西欧经济复兴的关联。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 422]])
 > - **1961 — 经合组织（OECD）的正式改组** OECD正式取代OEEC，系统地将教育规划纳入其经济增长议程。在冷战动员和美国[[Economics of Education Movement|教育经济学运动]]的影响下，教育在技术官僚话语中从传统的文化陶冶重构为能带来高收益回报的“资本投资”。
 > - **1960s–1970s — 冷战时期的[[Development Turn in Comparative Education|发展转向]]与人力资本扩张** OECD与联合国教科文组织[[International Education|国际教育]]规划研究所（[[International Institute for Educational Planning|IIEP]]）形成双翼，成为比较教育“发展转向”的关键载体。通过将教育投资因果链作为援助的科学条件，将人力资本理论从美国学术界成功扩散到西欧、南欧和拉丁美洲地区。
-> - **1990s 至今 — 新自由主义全球化与大数据[[Governing at a Distance|远处治理]]** 苏联解体后，冷战发展[[Paradigm|范式]]平稳过渡为新自由主义的“最佳[[Praxis|实践]]”输出话语。OECD于2000年推出[[PISA]]项目，通过软治理和基准数据比较协调全球教育政策，转型为实质性全球教育治理的核心协调者([[Argument_Klerides_2023_CE|Klerides, 2023, pp. 424–425]])。
+> - **1990s 至今 — 新自由主义全球化与大数据[[Governing at a Distance|远处治理]]** 苏联解体后，冷战发展[[Paradigm|范式]]平稳过渡为新自由主义的“最佳实践”输出话语。OECD于2000年推出[[PISA]]项目，通过软治理和基准数据比较协调全球教育政策，转型为实质性全球教育治理的核心协调者([[Argument_Klerides_2023_CE|Klerides, 2023, pp. 424–425]])。
 
 ---
 
@@ -93,7 +93,7 @@ updated: 2026-07-11
 > *The aims of the Organisation for Economic Co-operation and Development shall be to promote policies designed: (a) to achieve the highest sustainable economic [[Growth]] and employment and a rising standard of living in Member countries... (b) to contribute to sound economic expansion in Member as well as non-member countries... and (c) to contribute to the expansion of world trade on a multilateral, non-discriminatory basis...*
 
 > [!citation-card]- 《地中海区域项目报告》（1962年）
-> 地中海区域项目（Mediterranean Regional Project）是经合组织在教育领域的第一个重大制度[[Praxis|实践]]。它将成员国（如意大利、西班牙、葡萄牙、希腊、土耳其和南斯拉夫）的教育规划与未来十五年经济发展的预期人力资本需求挂钩，系统地将教育投入重构为经济“投资”，成为冷战“[[Development Turn in Comparative Education|发展转向]]”期间将人力资本理论转化为国家政策模板的关键蓝本。
+> 地中海区域项目（Mediterranean Regional Project）是经合组织在教育领域的第一个重大制度实践。它将成员国（如意大利、西班牙、葡萄牙、希腊、土耳其和南斯拉夫）的教育规划与未来十五年经济发展的预期人力资本需求挂钩，系统地将教育投入重构为经济“投资”，成为冷战“[[Development Turn in Comparative Education|发展转向]]”期间将人力资本理论转化为国家政策模板的关键蓝本。
 >
 > *The Mediterranean Regional Project (MRP) represents the first major attempt by the OECD to relate educational planning to economic growth, setting a template for translating human capital theory into national educational plans.*
 
@@ -108,7 +108,7 @@ updated: 2026-07-11
 
 > [!finding-cards] 经合组织对教育治理的深远影响
 > - **政策影响** OECD通过[[PISA]]评估，将冷战地缘博弈中确立的“教育质量—科技实力—国家竞争力”政策链条全球制度化，促使各国在中观层面建立起与PISA测验标准对接的全国性教育质量监测与考问责机制，例如挪威、瑞士和中国的国家教育监测体系([[Argument_Li_2025_HSSC|Li et al., 2025]])。
-> - **[[Praxis|实践]]影响** 确立了“超国家—国家—内部行动者网络”的三层政策传导路径。在超国家层面实施以量化指标为基础的[[Soft Power|软实力]]协调；在国家层面建立“[[Reference Society|参考社会]]”模范，导致德国、日本等国爆发“PISA冲击”，倒逼落后国家借用高表现者的“最佳实践”模式。
+> - **实践影响** 确立了“超国家—国家—内部行动者网络”的三层政策传导路径。在超国家层面实施以量化指标为基础的[[Soft Power|软实力]]协调；在国家层面建立“[[Reference Society|参考社会]]”模范，导致德国、日本等国爆发“PISA冲击”，倒逼落后国家借用高表现者的“最佳实践”模式。
 > - **知识影响** 推动了比较教育领域向“[[Evidence-Based Education|循证教育]]政策”的科学化与实证化转向。但也通过标准和去情境化的数据排名，固化了[[Methodological Statism|方法论国家主义]]、statism（国家主义）及[[Methodological Educationism|教育主义]]的认识型，用技术主义效率掩盖了新自由主义资本积累的逻辑([[Argument_Klerides_2023_CE|Klerides, 2023, p. 422]])。
 
 ---

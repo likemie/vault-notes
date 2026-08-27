@@ -39,7 +39,7 @@ updated: 2026-06-02
 ## 背景
 
 > [!info]
-> [[Mixed Methods Research|混合方法研究]]在 2000 年代经历了快速的发展：2003 年 Handbook of Mixed Methods 奠定领域框架，2007 年 Journal of Mixed Methods Research 创刊，2011 年美国 NIH 发布混合方法最佳[[Praxis|实践]]报告。到 2010 年代初，一个不断壮大的国际混合方法学者社群已经形成，建立正式的国际学术组织成为自然的发展需求([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.232]])。
+> [[Mixed Methods Research|混合方法研究]]在 2000 年代经历了快速的发展：2003 年 Handbook of Mixed Methods 奠定领域框架，2007 年 Journal of Mixed Methods Research 创刊，2011 年美国 NIH 发布混合方法最佳实践报告。到 2010 年代初，一个不断壮大的国际混合方法学者社群已经形成，建立正式的国际学术组织成为自然的发展需求([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.232]])。
 
 ## 经过
 

@@ -69,7 +69,7 @@ W.K. Kellogg 基金会（2004）在其 Logic Model Development Guide 中对逻�
 ## 适用场景
 
 > [!success]
-> 逻辑模型适用于多组件教育项目，尤其适合[[Technology Infusion|技术融入]]、全学区改革、学校改进和专业发展项目。此类项目的效果常不会直接表现为短期成绩提升，而是先表现为教师准备、课堂[[Praxis|实践]]、资源使用和学生参与的变化([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.115, 121-123]])。
+> 逻辑模型适用于多组件教育项目，尤其适合[[Technology Infusion|技术融入]]、全学区改革、学校改进和专业发展项目。此类项目的效果常不会直接表现为短期成绩提升，而是先表现为教师准备、课堂实践、资源使用和学生参与的变化([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.115, 121-123]])。
 
 ## 局限性
 
@@ -83,7 +83,7 @@ W.K. Kellogg 基金会（2004）在其 Logic Model Development Guide 中对逻�
 
 > [!tip]-
 > - [[Implementation Fidelity]] — 逻辑模型为判断项目是否按计划实施提供参照。
-> - [[Absorptive Capacity]] — 共同建构逻辑模型可以增强关键伙伴对项目的理解，从而提高评价证据进入改进[[Praxis|实践]]的可能性([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.123-124]])。
+> - [[Absorptive Capacity]] — 共同建构逻辑模型可以增强关键伙伴对项目的理解，从而提高评价证据进入改进实践的可能性([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.123-124]])。
 
 ## 使用此方法的研究
 

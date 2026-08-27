@@ -7,7 +7,7 @@ aliases:
 summary: "对真实世界系统的计算机表征，通过数学模型建模系统特征，用于发现、证明和实验，是教育研究中理解复杂动态系统的工具"
 type: concept
 domain: "educational-technology"
-related_count: 13
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

@@ -19,6 +19,7 @@ tags:
 - method/narrative
 related_concepts:
   - "[[Enculturation]]"
+  - "[[Concept Mapping]]"
   - "[[Growth]]"
   - "[[Learning Virtues]]"
   - "[[Self-Cultivation]]"
@@ -53,7 +54,7 @@ Li 选择研究"理想"而非"一般"学习者的理论依据来自发展心理�
 ## 在 Li 研究设计中的位置
 
 > [!info]
-> 理想学习者研究是 Li 的**研究二**，与研究一（[[Prototype Methods|原型方法]]的词汇概念地图）构成**证据[[Triangulation|三角验证]]（triangulation）**结构([[Argument_Li_2012_Cambridge|Li, 2012, pp.94-96]])。
+> 理想学习者研究是 Li 的**研究二**，与研究一（[[Prototype Methods|原型方法]]的词汇[[Concept Mapping|概念地图]]）构成**证据[[Triangulation|三角验证]]（triangulation）**结构([[Argument_Li_2012_Cambridge|Li, 2012, pp.94-96]])。
 
 ### 为什么需要研究二？
 
@@ -121,7 +122,7 @@ Li 选择研究"理想"而非"一般"学习者的理论依据来自发展心理�
 
 > [!success]
 > ### 两条证据线的汇聚
-> 理想学习者形象（研究二）与词汇概念地图（研究一）高度一致，构成了 Li 论证的核心支柱([[Argument_Li_2012_Cambridge|Li, 2012, p.96]])。两条独立的证据线——语言材料揭示概念结构，叙事材料揭示完整学习者形象——指向同一方向：两种文化的学习模型在目的、过程、成就和情感四个维度上具有**系统性差异**。详见 论证第 8 步。
+> 理想学习者形象（研究二）与词汇[[Concept Mapping|概念地图]]（研究一）高度一致，构成了 Li 论证的核心支柱([[Argument_Li_2012_Cambridge|Li, 2012, p.96]])。两条独立的证据线——语言材料揭示概念结构，叙事材料揭示完整学习者形象——指向同一方向：两种文化的学习模型在目的、过程、成就和情感四个维度上具有**系统性差异**。详见 论证第 8 步。
 
 ---
 

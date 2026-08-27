@@ -17,7 +17,6 @@ tags:
   - theory/nationalism
   - paradigm/constructivist
 related_concepts:
-  - "[[Praxis]]"
   - "[[Official Knowledge]]"
   - "[[Constructivist Paradigm]]"
   - "[[Paradigm]]"
@@ -44,7 +43,7 @@ updated: '2026-07-22'
 > 想象的共同体（Imagined Community），由 Benedict Anderson (2006) 提出，是现代性与民族主义研究中界定民族（nation）的核心哲学概念。它主张民族是一个**被想象的、有边界的和主权的政治共同体**。民族之所以是“想象的”，是因为即便是最小民族的成员也绝不可能认识、遇见甚至听说过大多数同胞，但在每个人的心灵深处，都活着他们共属一个共同体的同在图像。[[Argument_Xu_2024_CE|(Xu, 2024, p. 575, 引述 Anderson, 2006)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 主张民族非原生自然的存在，而是一种由符号、媒介与社会政治[[Praxis|实践]]共同维持的主观心理建构与政治同盟。
+> - **含义** 主张民族非原生自然的存在，而是一种由符号、媒介与社会政治实践共同维持的主观心理建构与政治同盟。
 > - **用途** 帮助比较教育与政治学研究者解构历史教科书、课程大纲及国家机器如何通过制造[[Official Knowledge|官方知识]]与集体记忆来塑造群众的国家认同。
 > - **边界** 不等于虚构或假象（fabrication）；不适用于描述小规模面对面直接互动的原生部落或村落社群。
 

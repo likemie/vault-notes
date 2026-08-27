@@ -78,6 +78,7 @@ related_persons:
 related_facts:
   - "[[Voluntary System of Accountability]]"
   - "[[CALOHEE Project]]"
+  - "[[Spellings Report]]"
   - "[[OECD]]"
 related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
@@ -214,7 +215,7 @@ updated: 2026-08-27
 > [!dev-timeline] [[Critical Thinking|批判性思维]]测评的技术演进与[[Paradigm|范式]]转向
 > - **1960–1980 年代　经典心理测量学客观测试主导** 以沃森-格拉瑟批判性思维评估（WGCTA, 1980）和康奈尔测试为代表，采用客观多项选择题（MCQs）测量推理、前提识别与解释，确立了高[[Reliability|信度]]与标准化常模范式。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 21)]]
 > - **1990 年代　德尔菲框架确立与倾向[[Questionnaire|问卷]]兴起** APA 德尔菲共识报告（Facione, 1990）将[[Construct|构念]]明确划分为认知技能与情意倾向双维度，催生了[[California Critical Thinking Skills Test|加州批判性思维技能测验]]（CCTST, 1992）与[[California Critical Thinking Disposition Inventory|加州批判性思维倾向问卷]]（CCTDI, 1992），开启了技能与倾向分离测量的阶段。[[Argument_Cole_2015_AJE|(Cole et al., 2015, pp. 251–252)]]
-> - **2000 年代　高等教育增值统考与[[Voluntary System of Accountability|自愿问责体系]]兴衰** 美国《斯佩林斯报告》（2006）推动建立自愿问责体系（VSA），采用大学学习评估（[[Collegiate Learning Assessment|CLA]]）等情境表现任务（PT）测量全校纵向[[Learning Gain|学习增益]]；但因外部统考与课程脱节、成本高昂及学生低利害动机缺失，增值统考在十年后大范围衰退。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 24–25)]]
+> - **2000 年代　高等教育增值统考与[[Voluntary System of Accountability|自愿问责体系]]兴衰** 美国《[[Spellings Report|斯佩林斯报告]]》（2006）推动建立自愿问责体系（VSA），采用大学学习评估（[[Collegiate Learning Assessment|CLA]]）等情境表现任务（PT）测量全校纵向[[Learning Gain|学习增益]]；但因外部统考与课程脱节、成本高昂及学生低利害动机缺失，增值统考在十年后大范围衰退。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 24–25)]]
 > - **2010 年代至今　校本真实性量规崛起与[[Formative Assessment|促学评价]]生态** 全美高校广泛转向 AAC&U [[VALUE Rubrics|VALUE]] 量规（Rhodes, 2009），欧洲推行 [[CALOHEE Project|CALOHEE]] 参照框架（Wagenaar, 2018），批判性思维评价深度回归微观课堂，聚焦真实[[Task Structure|劣构任务]]、纯质性描述评语与多轮形成性反馈迭代。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 26–34)]]
 
 ---

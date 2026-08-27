@@ -143,6 +143,8 @@ related_arguments:
   - "[[Argument_ONeill_2012_NZJES]]"
   - "[[Argument_Blass_2020_JESP]]"
   - "[[Argument_Qvortrup_2019_NordSTEP]]"
+related_instruments:
+  - "[[VALUE Rubrics]]"
 confidence: medium
 status: draft
 created: 2026-05-21
@@ -954,7 +956,7 @@ Nielsen & Klitmøller（2021）开辟了一个此前 VL 批评文献中未被触
 随着晚期现代社会的发展，社会制度（贸易、法律、教育体系）的复杂性和组织方式发生了根本改变：
 
 - 大量社会制度逐渐从**基于共识的传统理性**转向由**外部的系统逻辑**治理
-- 这一转变的关键特征是**价值中立的工具理性**取代了传统共识理性——*"This kind of rationality is characterized by being instrumental and value neutral"*（p. 85）
+- 这一转变的关键特征是**价值中立的工具理性**取代了传统共识理性——*"This kind of rationality is characterized by being instrumental and [[VALUE Rubrics|VALUE]] neutral"*（p. 85）
 - 现代国家机构通过**咨询专家**（而非公民积极参与）并应用技术科学逻辑来解决复杂的经济、政治和文化问题——*"modern state institutions seek to solve the complex economic, political, and cultural problems of society by consulting experts (not through citizens' active participation) and applying technical scientific logic"*（Habermas, 1976, p. 34, cited in Nielsen & Klitmøller, 2021, p. 85）
 
 > [!example]- 丹麦：[[PISA]] 冲击后的政策转向（Nielsen & Klitmøller, 2021, p. 82）

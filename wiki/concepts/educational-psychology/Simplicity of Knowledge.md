@@ -8,7 +8,7 @@ aliases:
 summary: "衡量个体认为知识是孤立、离散的事实片段，还是高度互联的复杂概念网络。构成了认识论理论中“知识的本质”维度的核心支柱，实证表明其是制约学生在劣构任务中开展反思性判断与获得优异学业成就的关键认知瓶颈。"
 type: concept
 domain: "educational-psychology"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

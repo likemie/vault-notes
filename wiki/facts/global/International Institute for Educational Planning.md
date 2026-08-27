@@ -64,7 +64,7 @@ updated: 2026-07-09
 ## 影响与后果
 
 > [!success]
-> - IIEP 的创建标志着比较教育[[Development Turn in Comparative Education|发展转向]]的制度化高峰。它将教育规划的技术援助确立为核心业务模式，深刻塑造了比较教育在"发展中国家"的研究和[[Praxis|实践]]形态([[Argument_Klerides_2023_CE|Klerides, 2023, pp.422–423]])。
+> - IIEP 的创建标志着比较教育[[Development Turn in Comparative Education|发展转向]]的制度化高峰。它将教育规划的技术援助确立为核心业务模式，深刻塑造了比较教育在"发展中国家"的研究和实践形态([[Argument_Klerides_2023_CE|Klerides, 2023, pp.422–423]])。
 > - 与[[Comparative Education Center at Chicago 1958|芝加哥大学比较教育中心]]（1958 年由 C. Arnold Anderson 创立）一起，IIEP 在将比较教育与教育经济学融合方面发挥了关键作用，帮助人力资本理论在全球扩散（Brehm, 2023, cited in [[Argument_Klerides_2023_CE|Klerides, 2023, p.423]]）。
 > - IIEP 是[[Realism in International Relations|现实主义]]比较教育在制度层面的典型体现：教育被视为国家竞争力的工具，国际组织充当了最强大国家外交政策延伸的渠道。
 

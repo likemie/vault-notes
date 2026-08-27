@@ -83,7 +83,7 @@ Diener & Crandall (1978) 的定义涉及四个前提要素（[[Argument_Cohen_Ma
 > - **自愿（Voluntarism）**
 >   参与者自由选择参与或拒绝，确保对风险的暴露是知情且自愿的。这一要素可能存在问题，尤其是在医学研究领域，不知情的患者被用作受试者。
 > - **充分信息（Full Information）**
->   同意应建立在充分信息之上，但[[Praxis|实践]]中研究者往往无法告知参与者一切（如数据的统计处理）。在此情况下适用合理知情同意（reasonably informed consent）策略。
+>   同意应建立在充分信息之上，但实践中研究者往往无法告知参与者一切（如数据的统计处理）。在此情况下适用合理知情同意（reasonably informed consent）策略。
 > - **理解（Comprehension）**
 >   参与者完全理解研究项目的性质，即使程序复杂且涉及风险。可通过使用受过高等教育的参与者、聘请顾问解释困难或在请求参与与决策时间之间建立间隔来确保理解。
 
@@ -167,7 +167,7 @@ Diener & Crandall (1978) 的定义涉及四个前提要素（[[Argument_Cohen_Ma
 > | **灵活性** | 更大灵活性决定研究方案审查和受试者保护方式 | 受共同规则约束——只要研究符合"旨在发展或贡献可推广知识的系统性调查"即触发 IRB 义务 |
 
 
-> [!implication]- [[Praxis|实践]]后果
+> [!implication]- 实践后果
 > 1. [[University-Industry Collaboration|产学合作]]可能将企业不习惯遵守的法规引入其研究活动。对于习惯了内部研发灵活性的企业，IRB 的审查周期和知情同意流程可能构成意外的延迟和额外约束
 > 2. 在协议谈判中，大学应将 IRB 审查的时间线和知情同意的要求作为不可协商的前提条件，因为遵守共同规则是大学在联邦法律层面的义务
 > 3. 企业在进入涉及人类受试者的产学合作之前，需要提前了解 IRB 审查和知情同意程序的时间成本，将其纳入项目时间表的预期之中
@@ -223,7 +223,7 @@ Lee (1993, p. 139) 进一步指出，一些参与者可能故意制造让研究�
 ---
 ## 视觉研究中的知情同意
 
-[[Visual Research Methods|视觉研究方法]]及其产生的数据对以文字与数字为基础的[[Research Ethics|研究伦理]][[Praxis|实践]]提出挑战，尤其在知情同意、匿名与保密以及传播策略方面；视觉研究的伦理发展比数字与文本研究更不成熟（Prosser et al., 2008, p. 2）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27|Cohen et al. (2011, 27.5)]]
+[[Visual Research Methods|视觉研究方法]]及其产生的数据对以文字与数字为基础的[[Research Ethics|研究伦理]]实践提出挑战，尤其在知情同意、匿名与保密以及传播策略方面；视觉研究的伦理发展比数字与文本研究更不成熟（Prosser et al., 2008, p. 2）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27|Cohen et al. (2011, 27.5)]]
 
 > [!challenges] 视觉研究者获取知情同意的七个挑战（Prosser et al., 2008, pp. 12–14）
 > 1. 获取知情同意并非总是恰当的（如[[Covert Research|隐蔽研究]]或监控工作）。

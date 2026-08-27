@@ -17,7 +17,6 @@ tags:
 - learning-science
 - cognitive-science
 related_concepts:
-  - "[[Executive Function]]"
   - "[[Working Memory]]"
   - "[[Growth]]"
   - "[[Synaptogenesis]]"
@@ -49,7 +48,7 @@ updated: '2026-05-18'
 > PFC 在结构上可分为三个不同区域([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.7–8]])：
 >
 > - **眼眶 PFC（Orbital PFC）** — 负责大脑其他区域的细胞和神经元抑制，包括基底神经节、下丘脑、其余皮层及 PFC 的其他组成部分。还负责情境和社会行为。此区域损伤导致无法容忍任何形式的干扰或分心([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.8,引用 Fuster, 2001]])
-> - **内侧 PFC（Medial PFC）** — 包含前扣带皮层（ACC），与一般运动性、注意力和情绪相关。在 [[Executive Function|EF]] 任务的监控和评估阶段被激活。此区域损伤者常缺乏自发性，难以发起运动和言语([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.8]])
+> - **内侧 PFC（Medial PFC）** — 包含前扣带皮层（ACC），与一般运动性、注意力和情绪相关。在 EF 任务的监控和评估阶段被激活。此区域损伤者常缺乏自发性，难以发起运动和言语([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.8]])
 > - **外侧 PFC（Lateral PFC）** — 负责支持和开发行为、言语和推理的时间组织与中介。特别是涉及规划和控制与任务相关的目标。通过控制注意力和任务相关策略，外侧 PFC 负责 EF 的主动控制。损伤表现为计划以及口语和书面语言的缺陷
 >
 > 外侧 PFC 可进一步分为两个子区域：
@@ -71,5 +70,5 @@ PFC 在学习序列或任务开始时被激活（通过功能神经影像学观�
 
 ## 功能定位的注意事项
 
-不同 [[Executive Function|EF]] 任务使用 PFC 的略有不同的区域以及大脑的其他区域（如前扣带皮层 ACC）。但不同区域的功能性更多由接收的认知信息类型而非区域的特定位置所中介，部分原因是 PFC 与其他皮层区域的广泛连接以及遍布皮层的广泛反馈回路([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.7–8]])。
+不同 EF 任务使用 PFC 的略有不同的区域以及大脑的其他区域（如前扣带皮层 ACC）。但不同区域的功能性更多由接收的认知信息类型而非区域的特定位置所中介，部分原因是 PFC 与其他皮层区域的广泛连接以及遍布皮层的广泛反馈回路([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.7–8]])。
 

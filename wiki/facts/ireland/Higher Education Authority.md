@@ -11,9 +11,9 @@ subtype: organization
 region: ireland
 fact_region: "ireland"
 fact_kind: "organization"
-fact_related_count: 5
+fact_related_count: 4
 fact_related_level: 0
-fact_related_stars: ""
+fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
 issuing_organization: "Higher Education Authority"
 tags:
@@ -29,6 +29,7 @@ related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Hunt Report]]"
   - "[[Irish Survey of Student Engagement]]"
 related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
@@ -55,7 +56,7 @@ updated: 2026-08-27
 ## 核心职能与战略改革
 
 > [!feature] 核心业务与高阶能力推进举措
-> - **统筹实施国家顶层战略** 牵头落实爱尔兰《面向2030年国家高等教育战略》（Hunt Report），明确将批判反思、创新思维与以学生为中心教学列为全系统战略优先级。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 11)]]
+> - **统筹实施国家顶层战略** 牵头落实爱尔兰《面向2030年国家高等教育战略》（[[Hunt Report]]），明确将批判反思、创新思维与以学生为中心教学列为全系统战略优先级。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 11)]]
 > - **设立全国学生参与调查机制** 2013 年正式引入并资助全国性年度调查——[[Irish Survey of Student Engagement|爱尔兰学生投入调查]]（ISSE / StudentSurvey.ie），系统采集大学生在高级学习与论据探究中的真实参与度。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 16)]]
 > - **推行战略绩效契约（Performance Compacts）** 将政府经常性财政拨款与各高校在教学创新、[[Learning Gain|学习增益]]及拔尖人才培养上的具体指标达成度挂钩。
 

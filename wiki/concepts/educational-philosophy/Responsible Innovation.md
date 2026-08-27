@@ -4,7 +4,7 @@ aliases: ["负责任创新"]
 summary: "一种集体的、参与性的、包容受创新影响的不同利益相关者的创新方式，强调将伦理问题置于技术开发的核心而非事后补救，在 AI 和大数据技术治理中尤为重要"
 type: concept
 domain: "educational-philosophy"
-related_count: 5
+related_count: 4
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

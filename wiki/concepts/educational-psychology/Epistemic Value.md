@@ -6,7 +6,7 @@ aliases:
 summary: "哲学与心理学概念附加特定认识成就的相对价值。影响探究中权衡成本与收益的决策。"
 type: concept
 domain: "educational-psychology"
-related_count: 4
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

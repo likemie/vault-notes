@@ -17,13 +17,13 @@ tags:
 related_concepts:
   - "[[Chinese Learner]]"
   - "[[Paradox of the Chinese Learner]]"
+  - "[[Creativity]]"
   - "[[Western Learner]]"
   - "[[Hypothesis]]"
   - "[[Familiarization]]"
   - "[[Surface and Deep Learning]]"
   - "[[Virtue-Oriented Learning Process]]"
   - "[[Refined Mastery]]"
-  - "[[Praxis]]"
   - "[[Outcomes-based Education]]"
   - "[[Constructivist Paradigm]]"
   - "[[Social Realism]]"
@@ -63,7 +63,7 @@ updated: 2026-05-25
 当西方访问者观察东亚课堂时，他们看到的是([[Argument_Li_2012_Cambridge|Li, 2012, pp.136-137]])：
 - 学生在重复、背诵、抄写——本质上就是将材料记忆下来的行为
 - 表面上没有任何思维的突破和发现
-- 结合教师主导的课堂和家长主导的家庭学习环境，观察者很容易感到"没有明显的自由、创造力、探索、探究和自我表达"
+- 结合教师主导的课堂和家长主导的家庭学习环境，观察者很容易感到"没有明显的自由、[[Creativity|创造力]]、探索、探究和自我表达"
 
 Li 指出，这种现象与她在中国的亲身体验之间存在"完全的脱节"——这种脱节源于西方研究者持续以局外人（etic）的解读替代局内人（emic）的意义([[Argument_Li_2012_Cambridge|Li, 2012, p.136]])。
 
@@ -140,7 +140,7 @@ Marton 的团队使用[[Phenomenology|现象学]]方法（phenomenological metho
 ## 争议与批评
 
 > [!warning]
-> 仍有大量中国教育者自己也加入了谴责死记硬背的行列([[Argument_Li_2012_Cambridge|Li, 2012, p.136]])，表明这一争议并非仅存在于东西方文化之间。在东亚社会内部，随着现代教育理念的输入，"死记硬背"本身也是一个被广泛批评的教学[[Praxis|实践]]问题。中国内部的批评者与西方观察者虽然出发点不同，但在现象层面共享类似的关切。
+> 仍有大量中国教育者自己也加入了谴责死记硬背的行列([[Argument_Li_2012_Cambridge|Li, 2012, p.136]])，表明这一争议并非仅存在于东西方文化之间。在东亚社会内部，随着现代教育理念的输入，"死记硬背"本身也是一个被广泛批评的教学实践问题。中国内部的批评者与西方观察者虽然出发点不同，但在现象层面共享类似的关切。
 >
 > Li 的立场并非全盘为记忆辩护，而是强调不应以表面观察替代对学习者内心经验的了解，不应忽视记忆——尤其是作为通往深度理解的初始步骤——在不同文化语境中的不同功能和意义([[Argument_Li_2012_Cambridge|Li, 2012, p.138]])。
 

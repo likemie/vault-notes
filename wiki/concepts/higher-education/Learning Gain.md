@@ -9,7 +9,7 @@ aliases:
 summary: "衡量学生在高等教育阶段从入学到毕业期间在知识储备、高阶思维技能、工作就绪度及个人发展等维度所获得的净增长或纵向发展距离"
 type: concept
 domain: "higher-education"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -73,7 +73,7 @@ updated: '2026-08-27'
 > - **边界** 学习增益测量容易受到学生作答动机（低利害测试中的努力程度）、天花板效应以及跨学科测量[[Incommensurability|不可通约性]]的干扰。
 
 > [!citation-card]- 核心内涵界定
-> 学习增益被理解为学生在高等教育求学期间所实现的知识、技能、就业准备及个人发展的提升。英国高等教育拨款委员会（HEFCE）资助的“学习增益项目”将批判性思维作为多项增值试点研究的核心组成部分，采用标准化表现测试（如 [[Collegiate Learning Assessment|CLA+]] [[Going Native|本土化]]版）探索跨院校的能力成长测度。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 17)]]
+> 学习增益被理解为学生在高等教育求学期间所实现的知识、技能、就业准备及个人发展的提升。英国高等教育拨款委员会（[[Higher Education Funding Council for England|HEFCE]]）资助的“学习增益项目”将批判性思维作为多项增值试点研究的核心组成部分，采用标准化表现测试（如 [[Collegiate Learning Assessment|CLA+]] [[Going Native|本土化]]版）探索跨院校的能力成长测度。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 17)]]
 >
 > *Learning gains are understood as the improvement of students' knowledge, skills, work-readiness and personal development over the course of their higher education studies... Critical thinking was a central component of learning gains in several projects supported by the programme.*
 

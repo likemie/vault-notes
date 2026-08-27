@@ -25,7 +25,6 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Scientific Method]]"
   - "[[Theory of Knowledge]]"
-  - "[[Praxis]]"
   - "[[Positivism]]"
   - "[[Variable]]"
   - "[[Postpositivism]]"
@@ -43,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-07-11
+updated: '2026-08-27'
 ---
 
 # Falsification
@@ -105,7 +104,7 @@ updated: 2026-07-11
 >
 > 这些矛盾不是 Alchin 个人的知识不足——他引用了 Polanyi and Lakatos——而是 TOK 课程的深层设计矛盾：[[Critical Thinking|批判性思维]]要求自由审查一切知识主张，但科学教育的制度性任务是将科学呈现为最权威的知识形式。当这两个要求在同一个课程空间中碰撞，简化版证伪主义成了最安全的折中方案。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, pp. 175–178)]]
 
-> [!critique] 证伪主义不能描述科学[[Praxis|实践]]
+> [!critique] 证伪主义不能描述科学实践
 > 证伪主义作为科学划界标准面临两个经典反驳。第一，拉卡托斯指出科学史上科学家经常在理论被反常"证伪"后继续使用和修改该理论，证伪在历史实践中极少是决定性的。第二，迪昂-蒯因的[[Duhem-Quine Thesis|不完全决定性论题]]表明，孤立的假说从来不能被单独检验——当预测失败时，逻辑无法指定该否定核心假说还是辅助假说或测量程序（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, pp. 183–184)]]
 
 > [!warrant]- Zemplén 的教学替代方案

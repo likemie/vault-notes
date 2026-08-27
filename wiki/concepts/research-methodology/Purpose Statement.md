@@ -105,7 +105,7 @@ updated: 2026-07-13
 > 以女性主义视角为透镜，聚焦于母亲们的记忆和她们的"活过"经验，探讨五位在孕晚期失去婴儿的母亲的生活经验意义 ("The phenomenal care of the caregiver: A feminist view of postnatal bereavement." p.134)。
 
 > [!example] 案例研究示例（Frelin, 2015）
-> 追溯并例示关系和专业[[Praxis|实践]]，以帮助教师和其他学校员工协助学生克服障碍并在学校中取得更好的成就 ("to trace and exemplify relations and professional practices that help teachers and other school staff to assist students to overcome hurdles and achieve better in school." p.590)。
+> 追溯并例示关系和专业实践，以帮助教师和其他学校员工协助学生克服障碍并在学校中取得更好的成就 ("to trace and exemplify relations and professional practices that help teachers and other school staff to assist students to overcome hurdles and achieve better in school." p.590)。
 
 > [!example] 叙事研究示例（Chan, 2010）
 > 考察一位中国移民学生 Ai Mei Zhang 的经验，探索她参与加拿大中学课程的过程，以及族裔认同如何被学校和家庭对其[[Academic Achievement|学业表现]]和行为的期望所塑造 ("to examine the experiences of one Chinese immigrant student, Ai Mei Zhang . . . to explore her participation in her Canadian middle school curriculum . . . to examine ways in which her sense of ethnic identity may be shaped by expectations for her academic performance and her behavior in her school and her home." p.113)。

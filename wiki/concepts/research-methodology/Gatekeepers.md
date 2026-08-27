@@ -42,7 +42,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05]]"
 status: draft
 created: 2026-06-01
-updated: 2026-07-11
+updated: '2026-08-27'
 ---
 # Gatekeepers
 
@@ -179,7 +179,7 @@ Gewirtz & Ozga (1994, pp. 192–193) 将有权者研究中的守门问题总结�
 > Lee (1993, p. 127) 提出了一条[[Pragmatic Paradigm|实用主义]]原则：研究者可能需要做一些让步——做一点守门人要求的事，总比根本无法做研究要好。但让步必须在不可协商的伦理底线之内。Lee 的建议是[[Realism in International Relations|现实主义]]而非理想主义的：它承认研究者的权力有限，但拒绝无限妥协（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 208]]）。
 
 > [!claim] 命题四：准入过程本身就是数据
-> Hammersley & Atkinson (1983, p. 54) 指出准入不仅是一个[[Praxis|实践]]问题——它本身提供了关于研究场所的社会组织的洞察。研究者在尝试进入一个[[Champ|场域]]时遇到的阻力、被要求走的流程、被问的问题——这些本身就是数据，揭示了研究场所的权力结构、信任边界和制度文化。
+> Hammersley & Atkinson (1983, p. 54) 指出准入不仅是一个实践问题——它本身提供了关于研究场所的社会组织的洞察。研究者在尝试进入一个[[Champ|场域]]时遇到的阻力、被要求走的流程、被问的问题——这些本身就是数据，揭示了研究场所的权力结构、信任边界和制度文化。
 
 ---
 

@@ -20,7 +20,6 @@ tags:
   - comparative-education
 related_concepts:
   - "[[Hegemony]]"
-  - "[[Praxis]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Sinicisation]]"
   - "[[Pride in Learning]]"
@@ -108,7 +107,7 @@ updated: '2026-07-13'
 
 ### 命题二　去殖民悖论在课程重组中表现为以“清除殖民遗毒”为掩护推行彻底的思想控制，将政治参与转为忠诚表演
 
-> [!concept-lens] [[Praxis|实践]]机制
+> [!concept-lens] 实践机制
 > 剖析官方如何以反殖民的进步话语作为修辞包装，在学校课程中实施全方位的臣民化改造，将课程异化为[[Disciplina and Doctrina|规训]]工具。
 
 > [!claim] Vickers, 2024

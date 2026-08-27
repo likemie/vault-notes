@@ -49,7 +49,7 @@ updated: '2026-05-18'
 ## 背景
 
 > [!info]
-> YOUNG_ADULLLT 是欧盟 Horizon 2020 框架资助的研究项目（Grant No 693167），旨在系统考察欧盟各成员国和区域的[[Lifelong Learning|终身学习]]（lifelong learning）政策治理[[Praxis|实践]]。该项目特别关注：终身学习政策在区域层面如何被治理、地方专业人员如何理解和实施这些政策、以及他们运作中依赖何种 [[Theories of Policy Change]]([[Argument_Rambla_2022_Springer|Rambla, 2022, p.172]])。
+> YOUNG_ADULLLT 是欧盟 Horizon 2020 框架资助的研究项目（Grant No 693167），旨在系统考察欧盟各成员国和区域的[[Lifelong Learning|终身学习]]（lifelong learning）政策治理实践。该项目特别关注：终身学习政策在区域层面如何被治理、地方专业人员如何理解和实施这些政策、以及他们运作中依赖何种 [[Theories of Policy Change]]([[Argument_Rambla_2022_Springer|Rambla, 2022, p.172]])。
 >
 > 项目的政策背景是 [[Europe 2020 Strategy]] 及其旗舰倡议 [[EU Skills Agenda]] 和 [[Youth Guarantee Scheme]] 的实施期——这一时期欧盟通过 [[Performance Indicators]] 和区域排名体系推动成员国和区域的教育培训改革，而 YOUNG_ADULLLT 正为理解这些政策在地方层面的实际接受与转化提供了系统的经验证据（p.172–174）。
 
@@ -92,7 +92,7 @@ updated: '2026-05-18'
 
 ### 就业优先偏向
 
-除芬兰外，所有受访国家的终身学习专业人员将政策首要目标理解为就业安置（employment-first）——即在短期内帮助青年获得工作。政策的个人发展和公民参与维度在[[Praxis|实践]]中被系统性地边缘化。这一发现为 [[Selectivity]] 概念在终身学习领域的运作提供了直接的经验证据([[Argument_Rambla_2022_Springer|Rambla, 2022, p.174–175]])。
+除芬兰外，所有受访国家的终身学习专业人员将政策首要目标理解为就业安置（employment-first）——即在短期内帮助青年获得工作。政策的个人发展和公民参与维度在实践中被系统性地边缘化。这一发现为 [[Selectivity]] 概念在终身学习领域的运作提供了直接的经验证据([[Argument_Rambla_2022_Springer|Rambla, 2022, p.174–175]])。
 
 > [!info]- 核心数据
 > - 项目资助：Horizon 2020, Grant No 693167

@@ -21,6 +21,8 @@ related_concepts:
   - "[[Criterion-related Validity]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
+related_instruments:
+  - "[[VALUE Rubrics]]"
 status: draft
 created: 2026-06-23
 updated: 2026-06-23
@@ -32,7 +34,7 @@ updated: 2026-06-23
 ## 定义
 
 > [!def] 核心定义
-> 表面效度（Face validity）是效度类型中最浅层的一种：一个测量工具**在表面上看起来**——在表面价值上（at face value）——似乎测试了它设计要测试的内容。它不是通过数据分析或理论论证来确立的，而是基于非专业观察者的直观判断。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 208, 225)]]
+> 表面效度（Face validity）是效度类型中最浅层的一种：一个测量工具**在表面上看起来**——在表面价值上（at face [[VALUE Rubrics|VALUE]]）——似乎测试了它设计要测试的内容。它不是通过数据分析或理论论证来确立的，而是基于非专业观察者的直观判断。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 208, 225)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 表面效度回答的是"这个工具看起来合理吗"的问题——一个门外汉拿起这个工具时，是否觉得它问的问题是相关的、任务是有意义的？

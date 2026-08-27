@@ -24,7 +24,6 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Epistemology]]"
   - "[[Direct Instruction]]"
-  - "[[Praxis]]"
   - "[[Constructive Alignment]]"
 related_theories:
   - "[[Phenomenography]]"
@@ -114,7 +113,7 @@ updated: 2026-08-20
 
 ### 命题三　面向教学改进的学习理论必须能够支持教师反思并转化为课程设计
 
-> [!concept-lens] 理论的[[Praxis|实践]]可转化性
+> [!concept-lens] 理论的实践可转化性
 > 这一命题关注学习理论除了描述学习之外，还需要具备哪些条件才能帮助教师改进课程。
 
 > [!claim] Biggs, J.

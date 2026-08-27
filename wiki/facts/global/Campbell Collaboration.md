@@ -43,7 +43,7 @@ updated: 2026-05-23
 ## 背景
 
 > [!info]
-> Campbell Collaboration 是一个开展社会和经济领域[[Systematic Review|系统综述]]的组织，目标是促进证据本位政策与[[Praxis|实践]]。其想法源于 1999 年伦敦一次会议，与会者认为社会科学也需要类似 Cochrane Collaboration 的综述中心，以审查社会、经济和教育干预的有效性研究([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.32]])。
+> Campbell Collaboration 是一个开展社会和经济领域[[Systematic Review|系统综述]]的组织，目标是促进证据本位政策与实践。其想法源于 1999 年伦敦一次会议，与会者认为社会科学也需要类似 Cochrane Collaboration 的综述中心，以审查社会、经济和教育干预的有效性研究([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.32]])。
 
 ## 政策文本摘要
 

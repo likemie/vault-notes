@@ -23,7 +23,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Dialogue in Education]]"
   - "[[Variable]]"
-  - "[[Praxis]]"
+  - "[[Creativity]]"
 related_theories:
   - "[[Hofstede's Cultural Dimensions]]"
 related_methods:
@@ -130,7 +130,7 @@ Laursen 的结论是，Hattie、Meyer and Helmke 关于有效教学的综合"总
 > [!warning] 争议与批评
 > - **国家文化解释的限度** Laursen 起初认为文化差异[[Hypothesis|假设]]合理，因为同一教学措施会被教师和学生在本地文化语境中解释；但比较国际综合与丹麦研究后，他认为国家文化并未显示出强影响([[Argument_Laursen_2015_Paideia|Laursen, 2015, pp.34, 39–40]])。
 > - **社会背景比国家文化更能解释差异** 丹麦证据显示，开放教学是否有效主要取决于学生社会背景，而不是"丹麦国家文化"本身。Hofstede 的丹麦文化画像可能更接近受教育中产阶级文化([[Argument_Laursen_2015_Paideia|Laursen, 2015, p.40]])。
-> - **学业成绩不是教育全部目的** SFI 报告主要以毕业考试成绩衡量学习，因此它能说明哪些教学质量提高学业成绩，却不能充分回答教育目的、学生意义建构、创造力或民主参与等更宽问题([[Argument_Laursen_2015_Paideia|Laursen, 2015, p.37]])。
+> - **学业成绩不是教育全部目的** SFI 报告主要以毕业考试成绩衡量学习，因此它能说明哪些教学质量提高学业成绩，却不能充分回答教育目的、学生意义建构、[[Creativity|创造力]]或民主参与等更宽问题([[Argument_Laursen_2015_Paideia|Laursen, 2015, p.37]])。
 > - **测试频率可能存在适度区间** 丹麦频繁测试的正向关联不一定意味着"测试越多越好"。Laursen 的解释是，丹麦学校的测试使用可能低于最有利于学习的水平；在测试更频繁的国家，继续增加测试未必会有同样效果([[Argument_Laursen_2015_Paideia|Laursen, 2015, p.39]])。
 
 ## 相关研究与案例
@@ -138,7 +138,7 @@ Laursen 的结论是，Hattie、Meyer and Helmke 关于有效教学的综合"总
 > [!example] 相关研究与案例
 > - [[Argument_Laursen_2015_Paideia]] — 比较 Hattie、Meyer、Helmke 国际综合与丹麦研究，论证有效教学核心质量在丹麦总体适用。
 > - [[SFI Report]] — 检验国际有效教学综合丹麦适用性的主要本土证据。
-> - [[Jill Mehlbye]] — 通过丹麦高绩效学校研究，为高要求、[[Academic Achievement|学业表现]]取向、明确[[Classroom Management|课堂管理]]和测试[[Praxis|实践]]提供补充证据。
+> - [[Jill Mehlbye]] — 通过丹麦高绩效学校研究，为高要求、[[Academic Achievement|学业表现]]取向、明确[[Classroom Management|课堂管理]]和测试实践提供补充证据。
 > - [[Danish Public School Reform]] — 丹麦政策语境中对学习目标、学生学习结果和 Hattie 的采纳，使有效教学问题与[[Visible Learning]]在丹麦的传播相互交织。
 > - [[Hofstede's Cultural Dimensions]] — 提供国家文化[[Hypothesis|假设]]，但丹麦证据提示社会背景比国家文化更能解释开放教学效果差异。
 

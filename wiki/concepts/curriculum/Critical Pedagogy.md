@@ -5,7 +5,7 @@ aliases:
 summary: "一种将课程和教学视为文化政治形式的批判教育理论，主张通过审视学生活经验中的压迫、赋权边缘声音，以可能性的语言替代支配性文化叙事。"
 type: concept
 domain: "curriculum"
-related_count: 6
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

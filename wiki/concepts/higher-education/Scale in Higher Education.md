@@ -7,10 +7,10 @@ aliases:
 summary: "用于分析高等教育活动如何在全球、区域、国家、地方和个体等不同尺度上同时展开并相互作用的关系性概念。"
 type: concept
 domain: "higher-education"
-related_count: 10
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 9
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - theme/spatiality
 - level/higher-ed

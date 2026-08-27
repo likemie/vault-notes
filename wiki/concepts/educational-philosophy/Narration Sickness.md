@@ -6,7 +6,7 @@ aliases:
 summary: "保罗·弗莱雷在《被压迫者教育学》中提出的批判性概念，指传统储蓄式教育中教师单向宣讲脱离学生切身现实的抽象词汇，导致教育退化为无意义词语灌输与记忆机械复制的教学生态病态现象。"
 type: concept
 domain: "educational-philosophy"
-related_count: 12
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

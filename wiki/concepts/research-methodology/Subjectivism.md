@@ -44,7 +44,7 @@ updated: 2026-08-16
 > [!assumptions] 主观主义的四组假设
 > - **[[Ontology|本体论]]：唯名论（nominalism）**思想的对象仅仅是词语（objects of thought are merely words），不存在独立于知者的、构成一个词语意义的可及事物。组织是被发明的社会实在（Organizations are invented social reality）
 > - **[[Epistemology|认识论]]：[[Interpretive Paradigm|反实证主义]]（anti-positivist）**知识是个人的、主观的、独特的（personal, subjective and unique）。要求研究者投入研究对象之中（an involvement with their subjects），拒绝自然科学家的方式
-> - **人性：意志论（voluntarism）**人是自身行动的发起者，具有自由意志和创造力，创造自己的环境（as initiators of their own actions with free will and creativity, producing their own environments）
+> - **人性：意志论（voluntarism）**人是自身行动的发起者，具有自由意志和[[Creativity|创造力]]，创造自己的环境（as initiators of their own actions with free will and creativity, producing their own environments）
 > - **方法论：[[Idiographic|个例式]]（idiographic）**关注独特个体案例的理解。通过语言和意义的分析来呈现现实以便比较（The representation of reality for purposes of comparison. analysis of language and meaning）
 
 ## Table 1.1 十维度特征

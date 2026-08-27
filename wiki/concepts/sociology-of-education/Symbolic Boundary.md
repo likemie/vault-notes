@@ -60,7 +60,7 @@ related_arguments:
 > - **边界** 不同于客观的社会边界（Social Boundary）；前者属于观念与道德分类的范畴，后者则属于资源分配、法律身份与阶级区隔等硬性社会事实（Lamont & Molnár, 2002）。
 
 > [!citation-card]- 关键表述
-> 象征边界是行动者用来对对象、人、[[Praxis|实践]]乃至时空进行分类的脑海中的区隔线……当象征边界被广泛认同并转化为社会配给与资源控制时，它们就硬化成了社会边界。[[Argument_Zheng_2023_ShanghaiSanlian|(转引自 Lamont & Molnár, 2002, p. 168)]]
+> 象征边界是行动者用来对对象、人、实践乃至时空进行分类的脑海中的区隔线……当象征边界被广泛认同并转化为社会配给与资源控制时，它们就硬化成了社会边界。[[Argument_Zheng_2023_ShanghaiSanlian|(转引自 Lamont & Molnár, 2002, p. 168)]]
 >
 > *“Symbolic boundaries are conceptual distinctions made by social actors to categorize objects, people, practices, and even time and space. ... Only when symbolic boundaries are widely agreed upon can they take on a constraining character and become social boundaries.”*
 
@@ -138,7 +138,7 @@ related_arguments:
 > 探讨观念上的道德对立与排斥如何阻碍社会资本与[[Cultural Capital|文化资本]]的流动，最终硬化为客观的社会阶层与族群屏障。
 
 > [!claim] Lamont & Molnár (2002) / [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]
-> **象征边界硬化为社会边界的机制** Lamont & Molnár (2002) 论证，象征边界并非停留在心理活动层面，当道德拒斥导致群体间拒绝互动、否定对方[[Praxis|实践]]的合法性时，象征边界就会“硬化”（harden）为社会边界[[Argument_Zheng_2023_ShanghaiSanlian|(郑雅君, 2023, p. 168)]]。在郑雅君 (2023) 的案例中，直觉依赖者对策略行为的道德贬低阻止了他们向目标掌控者获取隐性知识，从而巩固了阶层文化资本的不平等传递[[Argument_Zheng_2023_ShanghaiSanlian|(郑雅君, 2023, p. 171)]]。
+> **象征边界硬化为社会边界的机制** Lamont & Molnár (2002) 论证，象征边界并非停留在心理活动层面，当道德拒斥导致群体间拒绝互动、否定对方实践的合法性时，象征边界就会“硬化”（harden）为社会边界[[Argument_Zheng_2023_ShanghaiSanlian|(郑雅君, 2023, p. 168)]]。在郑雅君 (2023) 的案例中，直觉依赖者对策略行为的道德贬低阻止了他们向目标掌控者获取隐性知识，从而巩固了阶层文化资本的不平等传递[[Argument_Zheng_2023_ShanghaiSanlian|(郑雅君, 2023, p. 171)]]。
 
 ---
 
@@ -180,7 +180,7 @@ related_arguments:
 > > - **[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]** — 发现直觉依赖者往往通过道德固化（道德贬低功利行为）来保护自我认同，但也因此错失了跨越学业边界的机会[[Argument_Zheng_2023_ShanghaiSanlian|(郑雅君, 2023, p. 170)]]。
 
 > [!critique]- 外部批评
-> - **文化过度道德化风险** — 部分批评指出，过分强调“道德化区隔”可能忽视了行动者在日常[[Praxis|实践]]中的[[Pragmatic Paradigm|实用主义]]策略与非道德化的情境适应。
+> - **文化过度道德化风险** — 部分批评指出，过分强调“道德化区隔”可能忽视了行动者在日常实践中的[[Pragmatic Paradigm|实用主义]]策略与非道德化的情境适应。
 > - **[[Official Knowledge|官方知识]]边界的排他性后果** — [[Argument_Yu_2024_CE|Yu & Zhao (2024)]] 强调，国家若在课程中单向固化汉儒符号边界，将削弱多民族多元一体的实质凝聚力，加剧边缘群体的符号剥夺感[[Argument_Yu_2024_CE|(Yu & Zhao, 2024, p. 72)]]。
 
 > [!warning] 适用局限

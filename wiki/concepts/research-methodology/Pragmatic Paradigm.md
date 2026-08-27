@@ -69,7 +69,7 @@ updated: '2026-07-24'
 > [!def] 核心定义（从哲学层面到方法论层次的演进）
 > 实用主义[[Paradigm|范式]]（Pragmatic Paradigm）包含逻辑与历史递进的两个层次：
 > 1. **哲学层面（古典哲学传统）** 首先起源于 Peirce、James、[[George Herbert Mead|Mead]] 与 [[John Dewey|杜威]]，是一门关于经验连续性、[[Reflexivity|反思性]]探究、行动后果与民主重组的古典哲学体系，拒绝绝对形而上学与脱离情境的确定性真理。
-> 2. **方法论层次（研究方法论范式）** 随后由 Cherryholmes (1992)、Morgan (2007)、Denscombe (2008)、[[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] 与 [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] 等学者拓展，专指[[Mixed Methods Research|混合方法研究]]的哲学基础，主张以[[Research Question|研究问题]]为中心、以[[Fitness for Purpose|适合目的]]与[[Praxis|实践]]效用为取向，超越纯量化与纯质性的范式对立。
+> 2. **方法论层次（研究方法论范式）** 随后由 Cherryholmes (1992)、Morgan (2007)、Denscombe (2008)、[[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] 与 [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] 等学者拓展，专指[[Mixed Methods Research|混合方法研究]]的哲学基础，主张以[[Research Question|研究问题]]为中心、以[[Fitness for Purpose|适合目的]]与实践效用为取向，超越纯量化与纯质性的范式对立。
 
 > [!concept-lens] 概念透镜（双层演进脉络）
 > - **第一部分：哲学层面（杜威等）** 先完整回答[[Epistemology|认识论]]与探究论问题，将真理定义为情境行动中经受检验的有效后果与“担保性断言”，强调渐进实验与试错。
@@ -122,7 +122,7 @@ updated: '2026-07-24'
 > [!feature] 方法论层次要素
 > - **[[Research Question|研究问题]]驱动** 放弃量化与质性优劣的纯哲学争论，直接判断研究是否成功回答了想了解的问题（Feilzer, 2010, p. 14）。
 > - **[[Fitness for Purpose|适合目的]]与技术自由** 基于问题需求自由组合最合适的数据收集与分析程序（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）。
-> - **[[Praxis|实践]]共同体（Community of Practice）** 从[[Deanna Kuhn|库恩]][[Paradigm|范式]]论出发，将[[Mixed Methods Research|混合方法研究]]者理解为由共同实用主义标准凝聚的学术共同体（Denscombe, 2008）。
+> - **实践共同体（Community of Practice）** 从[[Deanna Kuhn|库恩]][[Paradigm|范式]]论出发，将[[Mixed Methods Research|混合方法研究]]者理解为由共同实用主义标准凝聚的学术共同体（Denscombe, 2008）。
 
 > [!logic-map]- 从哲学层面到方法论层次的推演图
 > ```mermaid
@@ -181,7 +181,7 @@ updated: '2026-07-24'
 
 ### 命题三（跨国与实践层）　实用主义在跨国传播与现实危机中易遭遇哲学理想与方法手段的解耦
 
-> [!concept-lens] [[Praxis|实践]]应用层：现实政治危机中实用主义理论构件的拆解与重构
+> [!concept-lens] 实践应用层：现实政治危机中实用主义理论构件的拆解与重构
 > 比较教育学者进一步指出：当实用主义哲学传播到缺乏民主或处于危机的社会时，其哲学层面的“民主理想（目标）”与方法论层次的“渐进实验（手段）”常常发生分道扬镳。
 
 > [!claim] [[Argument_Zhou_2024_CE|Zhou & Westberg (2024)]]
@@ -220,7 +220,7 @@ updated: '2026-07-24'
 > > 传统[[Positivism|实证主义]]与[[Constructivist Paradigm|建构主义]]学者质疑[[Mixed Methods Research|混合方法]]是否打破了[[Deanna Kuhn|库恩]][[Paradigm|范式]]的不可通约性（incommensurability），担心将不同[[Ontology|本体论假设]]混用会导致逻辑不自洽。
 > >
 > > - **Guba & Lincoln (1994)** 认为范式具有不可调和的[[Epistemology|认识论]]根基。
-> > - **Denscombe (2008)** 主张将混合方法理解为[[Praxis|实践]]共同体，以效用与[[Fitness for Purpose|适合目的]]超越教条对立。
+> > - **Denscombe (2008)** 主张将混合方法理解为实践共同体，以效用与[[Fitness for Purpose|适合目的]]超越教条对立。
 >
 > > [!axis] 效用优先与价值批评的张力（哲学与方法论双层）
 > > 批评者担心过度强调实用后果与“有效”（What works）可能流于无批判的技术主义，忽略对社会权力结构的反思。

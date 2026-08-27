@@ -17,7 +17,6 @@ tags:
 - evidence-informed-practice
 related_concepts:
   - "[[Hypothesis]]"
-  - "[[Praxis]]"
   - "[[Dialogue in Education]]"
   - "[[Evidence-Informed Practice]]"
 related_theories: []
@@ -48,7 +47,7 @@ updated: '2026-05-18'
 > 1. **扫描（Scanning）** 理解学生如何体验他们的教育
 > 2. **聚焦（Focusing）** 发展一个探究焦点
 > 3. **直觉（Hunch）** 形成关于哪些教师行动可以改变观察到的模式的[[Hypothesis|假设]]
-> 4. **学习（Learning）** 查阅已发表证据来指导[[Praxis|实践]]
+> 4. **学习（Learning）** 查阅已发表证据来指导实践
 > 5. **采取行动（Taking Action）** 实施改变
 > 6. **检查（Checking）** 检查行动是否产生预期效果——可能通过调查学生，但核心过程涉及教师或管理者与学生进行个别或小组[[Dialogue in Education|对话]]，使用先前使用者开发的问题([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 306]])
 
@@ -61,7 +60,7 @@ updated: '2026-05-18'
 > [!success] 实证发现
 > - [[OECD]] (2015) 在 *Schooling Redesigned* 报告中特别强调探究螺旋支持新学习和教学方法规模化实施的能力([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 306]])
 > - 实证研究已为探究螺旋底层的行动理论提供了证据（McGregor, 2013; Timperley, Parr, & Meisel, 2010）
-> - Peterson 将其定位为与"什么有效"策略互补——当教师参与持续探究工作时，他们更可能发现新证据并以持续的方式融入[[Praxis|实践]]
+> - Peterson 将其定位为与"什么有效"策略互补——当教师参与持续探究工作时，他们更可能发现新证据并以持续的方式融入实践
 
 ## 与相关概念的区别
 

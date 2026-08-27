@@ -5,7 +5,7 @@ aliases:
 summary: "把可持续性理解为纳入局部社区生命力量、关系网络和内外部威胁的整体性概念。"
 type: concept
 domain: "educational-philosophy"
-related_count: 13
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

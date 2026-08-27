@@ -102,7 +102,7 @@ Skills Agenda 与 [[Innovation Union]] 共享一个核心变革理论（[[Theori
 
 ### 制度传统较弱的地区
 
-- **南欧和东欧** 政策网络较弱，专业人员缺乏系统的 [[Theories of Policy Change]] 支撑，倾向于依赖对青年受益人的负面刻板印象组织服务。选择性效应在此更为显著——"帮助青年尽快找到任何工作"成为压倒性的[[Praxis|实践]]取向([[Argument_Rambla_2022_Springer|Rambla, 2022, p.173–174]])
+- **南欧和东欧** 政策网络较弱，专业人员缺乏系统的 [[Theories of Policy Change]] 支撑，倾向于依赖对青年受益人的负面刻板印象组织服务。选择性效应在此更为显著——"帮助青年尽快找到任何工作"成为压倒性的实践取向([[Argument_Rambla_2022_Springer|Rambla, 2022, p.173–174]])
 - **意大利利古里亚和西班牙加泰罗尼亚** 第二机会学校展示了自下而上的创新路径，从"最后一搏的补救站"演变为"教育性、高标准的服务机构"。在加泰罗尼亚，非营利组织先行创建模式再寻求公共支持，形成了新型政治关系（p.173）
 
 ## 效果与评价
@@ -118,7 +118,7 @@ Skills Agenda 与 [[Innovation Union]] 共享一个核心变革理论（[[Theori
 ## 争议与评论
 
 > [!warning]
-> - **就业优先偏向** 除芬兰外，大多数欧盟成员国的[[Lifelong Learning|终身学习]]专业人员将 Skills Agenda 的核心目标理解为就业优先——即短期内帮助青年获得工作。政策的个人发展和公民参与维度在[[Praxis|实践]]中被显著边缘化。这一偏向并非决策者有意的偏见，而是 [[Selectivity]] 的结构性效应——[[Performance Indicators|绩效指标]]体系使就业安置在操作上比个人发展更容易被衡量和奖励([[Argument_Rambla_2022_Springer|Rambla, 2022, p.174]])
+> - **就业优先偏向** 除芬兰外，大多数欧盟成员国的[[Lifelong Learning|终身学习]]专业人员将 Skills Agenda 的核心目标理解为就业优先——即短期内帮助青年获得工作。政策的个人发展和公民参与维度在实践中被显著边缘化。这一偏向并非决策者有意的偏见，而是 [[Selectivity]] 的结构性效应——[[Performance Indicators|绩效指标]]体系使就业安置在操作上比个人发展更容易被衡量和奖励([[Argument_Rambla_2022_Springer|Rambla, 2022, p.174]])
 > - **绩效指标的窄化效应** EUROSTAT 的教育培训指标只能捕捉各年龄段人群的"在学状态"，无法反映非正式学习、公民教育和整个生命历程中学习的丰富性。指标在定义"教育培训体系"的同时也窄化了终身学习的内涵([[Argument_Rambla_2022_Springer|Rambla, 2022, p.170, 174–175]])。详见 [[Performance Indicators]]
 > - **治理协调挑战** Skills Agenda 与 [[Innovation Union]] 通过模糊此前分离的政策领域边界，为代表布鲁塞尔、国家和次国家政府的行动者带来了大量协调问题——这些在政策设计层面可能未被充分预见([[Argument_Rambla_2022_Springer|Rambla, 2022, p.169]])
 

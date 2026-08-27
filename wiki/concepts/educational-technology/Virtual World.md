@@ -7,7 +7,7 @@ aliases:
 summary: "计算机生成的模拟环境，参与者通过化身互动并共创世界，为教育研究提供安全、匿名和沉浸式的敏感议题探索空间"
 type: concept
 domain: "educational-technology"
-related_count: 19
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

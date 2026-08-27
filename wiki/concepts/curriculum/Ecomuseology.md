@@ -8,7 +8,7 @@ aliases:
 summary: "将整个地域视为博物馆并由社区主导保护和阐释自然与文化遗产的博物馆学取向。"
 type: concept
 domain: "curriculum"
-related_count: 13
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

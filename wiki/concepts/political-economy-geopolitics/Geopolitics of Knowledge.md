@@ -45,7 +45,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Epistemic Stances]]"
   - "[[International Education Hubs]]"
-  - "[[Praxis]]"
   - "[[Ontology]]"
   - "[[Space-Making]]"
   - "[[Heterogeneity]]"
@@ -221,7 +220,7 @@ updated: 2026-08-20
 ## 理论语境
 
 > [!logic-map] 理论归属
-> - [[Knowledge-Based Economization]] — Moisio（2018）提供关键分析工具，将注意力从[[Knowledge-Based Economy|知识经济]]话语层面转向物质过程和[[Praxis|实践]]
+> - [[Knowledge-Based Economization]] — Moisio（2018）提供关键分析工具，将注意力从[[Knowledge-Based Economy|知识经济]]话语层面转向物质过程和实践
 > - [[Critical Geopolitics]] — 批判地缘政治学脉络提供[[Relational Space|关系性空间]]分析和话语建构分析工具；[[Sami Moisio]] 为 GPK 批判地缘政治学方向的核心代表
 > - [[Decolonial Geopolitics of Knowledge]] — Mignolo and Dussel 的去殖民批判揭示当前知识经济化在[[Epistemology|认识论]]层面的殖民性延续
 > - [[Doreen Massey]] — Massey（2005）的[[Relational Space|关系性空间]]理论为 GPK 提供核心[[Ontology|本体论]]基础：空间不是固定容器而是多重轨迹的交汇，任何权力系统都不可能永久固定（[[Argument_Marginson_2025_ROE|Marginson, 2025, pp.5–7]]）
@@ -300,7 +299,7 @@ updated: 2026-08-20
 
 > [!finding-cards] 市场化转型的三重连锁后果
 > 1. **公共价值被"挤出"** 随着国际学生学费成为主要收入来源，"政府不再感到有必要为高等教育机构提供所需的公共资金"（[[Argument_Rizvi_2022_Springer|Rizvi, 2022, p.97]]）
-> 2. **内生私有化的永久化** 以澳大利亚为例——招收全额付费国际学生的成功，使政府有底气推动其他市场导向政策。"内生私有化[[Praxis|实践]]似乎已成为大多数西方国家公立高等教育的永久特征"（Ball, 2012, cit. in Rizvi, 2022, pp.97–98）
+> 2. **内生私有化的永久化** 以澳大利亚为例——招收全额付费国际学生的成功，使政府有底气推动其他市场导向政策。"内生私有化实践似乎已成为大多数西方国家公立高等教育的永久特征"（Ball, 2012, cit. in Rizvi, 2022, pp.97–98）
 > 3. **NPM 的企业化改造** NPM 的理念、技术和实践被从企业部门广泛引入，使公立高等教育机构更像企业运作。本地代理网络、跨国项目、特许经营安排、学分衔接和双联安排——彻底改造了全球高等教育的空间架构（[[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.97–98]]）
 
 **亚洲中产阶级作为 GPK 的驱动力量** Rizvi 的分析展示了[[Critical Geopolitics|批判地缘政治学]]关注"日常经验"的洞察如何具体化。亚洲中产阶级对西方教育的渴望深植于殖民历史——海外教育在亚洲中产阶级中排名极高，被视为"资本积累的预设来源"和"社会地位和声望的标志"（Ong, 2006, cited in [[Argument_Rizvi_2022_Springer|Rizvi, 2022, p.96]]）。一个曼谷或上海中产家庭决定送孩子去悉尼大学读书，这个看似私人的消费决策，汇聚成巨大的资金流和人员流，改变了西方大学的财政结构、政府的政策取向，甚至影响了澳大利亚与亚洲国家之间的外交关系([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.95–97]])。详见 Rizvi 论证 > 第四步。

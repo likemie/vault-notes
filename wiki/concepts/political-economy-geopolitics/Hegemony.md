@@ -45,14 +45,15 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Paulo Freire]]"
-related_facts: []
+related_facts:
+  - "[[International Schools Association]]"
 related_arguments:
   - "[[Argument_Marginson_2025_ROE]]"
   - "[[Argument_Yu_2024_CE]]"
 confidence: high
 status: active
 created: 2026-05-13
-updated: 2026-07-23
+updated: '2026-08-27'
 ---
 
 # Hegemony
@@ -83,7 +84,7 @@ updated: 2026-07-23
 ## 概念辨析
 
 > [!contrast-table] 霸权与相关权力机制的比较
-> | 维度 | 霸权（Hegemony） | 强制（Coercion / Force） | 意识形态国家机器（Althusser ISA） |
+> | 维度 | 霸权（Hegemony） | 强制（Coercion / Force） | 意识形态国家机器（Althusser [[International Schools Association\|ISA]]） |
 > |------|-----------------|-------------------------|--------------------------------|
 > | **核心机制** | 依靠文化制度制造共识与“积极同意” | 依靠军队、警察等暴力机器实施物理逼迫 | 依靠国家制度进行无意识的修辞与主体召唤 |
 > | **服从性质** | 被统治者“自愿”接受并将其内化为常识 | 被统治者因恐惧惩罚而被迫服从 | 主体在意识形态唤醒中被动认同 |

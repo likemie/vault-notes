@@ -8,7 +8,7 @@ aliases:
 summary: "衡量扣除资本和劳动投入贡献后产出增长剩余部分的生产率指标，用于衡量技术进步和技术效率变化"
 type: concept
 domain: "education-economics"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

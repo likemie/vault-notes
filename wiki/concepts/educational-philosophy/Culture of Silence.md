@@ -6,7 +6,7 @@ aliases:
 summary: "保罗·弗莱雷与批判教育学提出的概念，指在压迫性社会与储蓄式教育中被压迫者被剥夺批判性话语权与表达自由、陷入被动服从的无声状态。"
 type: concept
 domain: "educational-philosophy"
-related_count: 16
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

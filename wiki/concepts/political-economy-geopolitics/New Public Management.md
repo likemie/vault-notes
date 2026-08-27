@@ -15,7 +15,6 @@ tags:
 - region/global
 - level/higher-ed
 related_concepts:
-  - "[[Praxis]]"
   - "[[Public-Private Partnership in Research]]"
   - "[[Doxa]]"
   - "[[Performativity of Measurement]]"
@@ -54,7 +53,7 @@ updated: 2026-07-09
 ## 定义
 
 > [!info] 定义
-> 新公共管理（New Public Management, NPM）在教育中的应用指过去约三十年间，西方教育系统以企业管理逻辑重塑公共教育的改革浪潮。其核心特征为：绩效标准与测量、产出控制、供给竞争和管理问责[[Praxis|实践]]([[Argument_Møller_2017_EERJ|Møller, 2017, pp.381–382]])。
+> 新公共管理（New Public Management, NPM）在教育中的应用指过去约三十年间，西方教育系统以企业管理逻辑重塑公共教育的改革浪潮。其核心特征为：绩效标准与测量、产出控制、供给竞争和管理问责实践([[Argument_Møller_2017_EERJ|Møller, 2017, pp.381–382]])。
 >
 > [[Argument_Amos_2022_Springer|Amos (2022)]] 诊断 NPM 的话语已"深刻嵌入我们当前的教育结构"——效率、效能、绩效、质量保证、[[Public-Private Partnership in Research|公私合作伙伴关系]]、创业教育等术语覆盖从 K-12 到高等教育的所有层级，使其被视为[[Doxa|不言自明]]的前提([[Argument_Amos_2022_Springer|Amos, 2022, p.56]])。
 >
@@ -65,7 +64,7 @@ updated: 2026-07-09
 ## 概念辨析
 
 > [!example] 概念辨析
-> - vs 专业[[Praxis|实践]]共同体话语：Møller 指出了一个悖论——[[OECD]] 同时推崇两个表面上矛盾的话语([[Argument_Møller_2017_EERJ|Møller, 2017, p.377]])：(1) 将学校从科层制转变为专业实践共同体的分布式领导建议（社区隐喻）；(2) NPM 的外部控制话语（市场隐喻）。两者并非互相替代，而是**并行运作**
+> - vs 专业实践共同体话语：Møller 指出了一个悖论——[[OECD]] 同时推崇两个表面上矛盾的话语([[Argument_Møller_2017_EERJ|Møller, 2017, p.377]])：(1) 将学校从科层制转变为专业实践共同体的分布式领导建议（社区隐喻）；(2) NPM 的外部控制话语（市场隐喻）。两者并非互相替代，而是**并行运作**
 > - → [[Performativity of Measurement]] — NPM 是绩效文化的制度根源，绩效测量是 NPM 的技术手段
 > - → [[Evidence-Based Education]] — "什么有效"议程在 NPM 框架下获得额外的制度驱动力
 > - vs 内生私有化 — NPM 是内生私有化的核心操作机制（将企业管理逻辑引入公共部门内部），但内生私有化的范畴更广（涵盖私营部门思维进入公共系统的所有方式）。详见 [[Endogenous and Exogenous Privatisation#与 NPM 的关系]]
@@ -100,7 +99,7 @@ updated: 2026-07-09
 >
 > 1. 大学在招收全额付费国际学生方面取得成功 → 国际学生学费成为核心收入来源
 > 2. "政府不再感到有必要为高等教育机构提供所需的公共资金"([[Argument_Rizvi_2022_Springer|Rizvi, 2022, p.97]])
-> 3. 公共资金削减迫使大学采纳企业化运营模式：NPM 的"理念、技术和[[Praxis|实践]]从企业部门被广泛引入，以使公立高等教育机构更像企业运作"([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.97–98]])
+> 3. 公共资金削减迫使大学采纳企业化运营模式：NPM 的"理念、技术和实践从企业部门被广泛引入，以使公立高等教育机构更像企业运作"([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.97–98]])
 > 4. 企业化运营反过来使大学更依赖国际学生市场收入 → 加固了第 1 步
 >
 > 最终结果：内生私有化成为大多数西方国家公立高等教育的"永久特征"（Ball, 2012, cited in）。澳大利亚是最激进的案例——其高等教育机构在国际招生方面的成功使政府有底气推动其他市场导向政策，包括《[[Australia in the Asian Century White Paper|亚洲世纪白皮书]]》和《[[International Education|国际教育]]国家战略 2025》([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.97–100]])。

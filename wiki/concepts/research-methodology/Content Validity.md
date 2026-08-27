@@ -26,7 +26,6 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Internal Consistency]]"
   - "[[Consequential Validity]]"
-  - "[[Praxis]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
 status: draft
@@ -89,5 +88,5 @@ updated: 2026-06-23
 ## 争议与批评
 
 > [!warning] 内容效度的局限
-> 内容效度完全依赖**[[Professional Judgment|专业判断]]**——不同的内容专家可能对"什么构成该领域的充分代表"有不同意见。这使内容效度在根本上是一个**社会共识**问题而非纯粹方法论问题。此外，时间或受访者动机的[[Praxis|实践]]限制意味着不可能在一套工具中涵盖每个问题——研究者必须在广度和深度之间做出权衡，而这种权衡本身就是一种判断行为。
+> 内容效度完全依赖**[[Professional Judgment|专业判断]]**——不同的内容专家可能对"什么构成该领域的充分代表"有不同意见。这使内容效度在根本上是一个**社会共识**问题而非纯粹方法论问题。此外，时间或受访者动机的实践限制意味着不可能在一套工具中涵盖每个问题——研究者必须在广度和深度之间做出权衡，而这种权衡本身就是一种判断行为。
 

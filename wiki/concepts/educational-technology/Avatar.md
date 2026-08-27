@@ -6,7 +6,7 @@ aliases:
 summary: "虚拟世界中代表参与者的三维数字形象，可随时更改形态，是参与者投射自我、表达观点和与他人互动的媒介"
 type: concept
 domain: "educational-technology"
-related_count: 9
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

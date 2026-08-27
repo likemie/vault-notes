@@ -19,7 +19,6 @@ tags:
   - paradigm/critical
   - level/higher-ed
 related_concepts:
-  - "[[Praxis]]"
   - "[[Performance Indicators]]"
   - "[[Constructivist Paradigm]]"
   - "[[Cultural Capital]]"
@@ -47,7 +46,7 @@ updated: 2026-06-01
 ## 定义
 
 > [!info]
-> 话语分层（Discursive Stratification）是 Schulze-Cleven et al.（2017）作为高等教育新政治经济学的两大分析路径之一提出的概念。它主张话语——包括文本、符号、数字和图像——积极参与建构社会不平等和等级秩序，而非简单地反映或再现社会[[Praxis|实践]]、政治决策和经济机制([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.805]])。
+> 话语分层（Discursive Stratification）是 Schulze-Cleven et al.（2017）作为高等教育新政治经济学的两大分析路径之一提出的概念。它主张话语——包括文本、符号、数字和图像——积极参与建构社会不平等和等级秩序，而非简单地反映或再现社会实践、政治决策和经济机制([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.805]])。
 
 在这一视角下，高等教育中的社会变迁具有内在的符号性（inherently symbolic）。排名的激增、[[Performance Indicators|绩效指标]]的使用、以及学术地位和声望的测量，都为社会等级如何通过话语被生产、协商和固化提供了丰富的研究材料。政治和经济决策依赖于符号结构和意义体系——而这些结构和体系本身正是话语实践的产物([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.805–807]])。
 
@@ -57,7 +56,7 @@ updated: 2026-06-01
 ## 概念辨析
 
 > [!example]
-> - vs 社会分层（social stratification）：社会分层通常关注客观的结构位置（收入、职业、教育程度），话语分层则关注这些位置如何通过符号[[Praxis|实践]]被赋予意义、合法化和再生产。
+> - vs 社会分层（social stratification）：社会分层通常关注客观的结构位置（收入、职业、教育程度），话语分层则关注这些位置如何通过符号实践被赋予意义、合法化和再生产。
 > - vs [[Cultural Political Economy]]：CPE 同样关注符号与物质的相互构成，但更侧重经济秩序的宏观分析；话语分层更聚焦高等教育内部微观到中观层面的等级建构过程。
 
 ## 核心分析维度
@@ -79,7 +78,7 @@ Bouchard 追溯了法国媒体杂志自 1970 年代末以来的营销策略和�
 
 ### 学术定位实践
 
-Angermuller 将学术交流分析为行动者通过社会范畴主张自身位置的话语[[Praxis|实践]]。详见 [[Positioning Practice]]。
+Angermuller 将学术交流分析为行动者通过社会范畴主张自身位置的话语实践。详见 [[Positioning Practice]]。
 
 ### 跨国身份资本
 

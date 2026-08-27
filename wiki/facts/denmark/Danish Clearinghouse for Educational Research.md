@@ -48,7 +48,7 @@ updated: 2026-05-23
 ## 政策文本摘要
 
 > [!abstract]
-> 该中心通过教育研究[[Systematic Review|系统综述]]，为在学校场景中工作的丹麦[[Praxis|实践]]者提供研究证据。它体现了 清算中心 的一种基础功能：把分散研究整理成实践者更容易使用的证据资源([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.32]])。
+> 该中心通过教育研究[[Systematic Review|系统综述]]，为在学校场景中工作的丹麦实践者提供研究证据。它体现了 清算中心 的一种基础功能：把分散研究整理成实践者更容易使用的证据资源([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.32]])。
 
 ## 时间线
 
@@ -58,7 +58,7 @@ updated: 2026-05-23
 ## 实施情况
 
 > [!example]
-> 该中心的主要工作是开展研究[[Systematic Review|系统综述]]，而不是直接实施学校项目。它面向丹麦学校[[Praxis|实践]]者，帮助他们了解教育研究对学校情境的启示([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.32]])。
+> 该中心的主要工作是开展研究[[Systematic Review|系统综述]]，而不是直接实施学校项目。它面向丹麦学校实践者，帮助他们了解教育研究对学校情境的启示([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.32]])。
 
 ## 效果与评价
 

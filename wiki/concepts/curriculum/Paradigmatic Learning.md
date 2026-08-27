@@ -6,7 +6,7 @@ aliases:
 summary: "一种以共同核心维持学科背景、以代表性问题承载深度研究的课程取舍原则，使有限课时用于形成学科思维，并为知识爆炸条件下的课程选择提供依据。"
 type: concept
 domain: "curriculum"
-related_count: 7
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

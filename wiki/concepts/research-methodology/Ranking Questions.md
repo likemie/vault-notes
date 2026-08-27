@@ -44,7 +44,7 @@ updated: 2026-08-20
 > [!citation-card]- 零和逻辑——排序题的核心
 > 排序题操作在零和模型上：提高一项的排位意味着另一项下降。与评定量表中各题项独立评分不同，排序中受访者必须考虑其他变量，因为他们被要求判断相对价值、权重或重要性。（Ovadia, 2004, p. 406; p. 123）
 >
-> *Ranking operates on a zero-sum model: to raise the ranking of one item is to lower the ranking of another. In a rating scale, by contrast, each item is rated independently, without reference to other items or variables.*
+> *Ranking operates on a zero-sum model: to [[RAiSE Programme|RAiSE]] the ranking of one item is to lower the ranking of another. In a rating scale, by contrast, each item is rated independently, without reference to other items or variables.*
 
 > [!boundary]- 与相近题型的区分
 > - 不等于评定量表（Rating Scale） — 评分中各变量独立评分、互不影响；排序中变量相互比较、排位相互依赖。评分能捕捉数值随时间的变化，排序对变化不敏感。
@@ -123,7 +123,7 @@ updated: 2026-08-20
 >
 > 排序结果完全相同（努力第一、家庭第二、享受第三），但实际分数差异巨大——受访者 A 认为这些因素远比受访者 B 认为的重要。如果 A 的分数随时间分别下降 2/1/3 分，排序依然不变。**排序对变化不敏感**。
 >
-> **选择建议** 如果研究者希望受访者在变量之间做比较并赋予相对权重，排序是合适的。如果希望受访者对各个独立变量分别赋值，则评分更合适。[[Praxis|实践]]中许多[[Rating Scale|评定量表]]的结果也能让研究者将项目排出顺序，但评分可能导致多个变量得分并列——这可能是巧合，也可能是受访者对题项不敏感，只是快速逐项勾选中间框（如五点量表中的 3）（Ovadia, 2004, p. 405）。
+> **选择建议** 如果研究者希望受访者在变量之间做比较并赋予相对权重，排序是合适的。如果希望受访者对各个独立变量分别赋值，则评分更合适。实践中许多[[Rating Scale|评定量表]]的结果也能让研究者将项目排出顺序，但评分可能导致多个变量得分并列——这可能是巧合，也可能是受访者对题项不敏感，只是快速逐项勾选中间框（如五点量表中的 3）（Ovadia, 2004, p. 405）。
 
 ---
 

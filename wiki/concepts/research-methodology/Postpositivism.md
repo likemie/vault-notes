@@ -47,7 +47,7 @@ updated: 2026-07-11
 ## 核心主张
 
 > [!finding-cards]
-> - **事实与观察是理论负载和价值负载的（facts and observations are theory-laden and value-laden, Popper, 1980; Feyerabend, 1975; Reichardt and Rallis, 1994）**——[[Positivism|实证主义]]中事实与价值的分离（the separation of fact and value）不可持续
+> - **事实与观察是理论负载和价值负载的（facts and observations are theory-laden and value-laden, Popper, 1980; Feyerabend, 1975; Reichardt and Rallis, 1994）**——[[Positivism|实证主义]]中事实与价值的分离（the separation of fact and [[VALUE Rubrics|VALUE]]）不可持续
 > - **事实和理论是可错的（facts and theories are fallible）**，不同理论可能支持特定的观察或事实
 > - **社会事实是社会的建构（social constructions rather than objectively and universally true）**——甚至思维方式和观察方式都是社会建构（Nisbett, 2005）
 > - **研究受价值观驱动**——研究者的价值观、视角、[[Paradigm|范式]]乃至研究共同体，决定了关注什么、如何研究、什么算作重要、什么算作知识、研究"显示"了什么、如何解释研究发现，以及什么构成"好的"研究

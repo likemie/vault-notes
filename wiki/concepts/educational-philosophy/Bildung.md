@@ -6,7 +6,7 @@ aliases:
 summary: "源自德国精神科学传统的品格陶成与自我形成概念，主张教育应指向超越工具性学习和数据相关性的开放未来；在数字治理语境中，其开放性与在线自我评估（Online Self-Assessment, OSA）可预测性逻辑构成根本张力。"
 type: concept
 domain: "educational-philosophy"
-related_count: 32
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"

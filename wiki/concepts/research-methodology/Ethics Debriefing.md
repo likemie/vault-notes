@@ -19,7 +19,6 @@ related_concepts:
   - "[[Deception in Research]]"
   - "[[Hypothesis]]"
   - "[[Non-maleficence and Beneficence in Research]]"
-  - "[[Praxis]]"
   - "[[Purpose Statement]]"
 related_theories: []
 related_methods:
@@ -74,7 +73,7 @@ updated: 2026-06-19
 > Kelman (1967) 将 debriefing 作为处理欺骗问题的三种方式之一（方式二：抵消和最小化欺骗的负面效果）。其底层原则是不伤害（[[Non-maleficence and Beneficence in Research|non-maleficence]]）：受试者不应以比来时更大的焦虑或更低的自尊离开。理想情况下，受试者应当被经历所丰富，带着学到了一些东西的感觉离开（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, p. 112]]）。
 
 > [!claim] Debriefing 的有效性取决于方式而非内容
-> Aronson & Carlsmith (1969) 的核心洞察是：debriefing 的效果不在于告知了什么信息，而在于如何告知。研究者自身的真诚和不适感是比任何客观信息更有效的修复工具。这意味着 debriefing 不是可标准化的程序，而是一种需要研究者真实在场的伦理[[Praxis|实践]]（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, p. 113]]）。
+> Aronson & Carlsmith (1969) 的核心洞察是：debriefing 的效果不在于告知了什么信息，而在于如何告知。研究者自身的真诚和不适感是比任何客观信息更有效的修复工具。这意味着 debriefing 不是可标准化的程序，而是一种需要研究者真实在场的伦理实践（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, p. 113]]）。
 
 ---
 

@@ -96,7 +96,7 @@ updated: 2026-08-20
 ## 理论基础
 
 > [!info] 理论基础
-> - **[[Science and Technology Studies]]** — Gorur 将 INES 的发展视为"科学在制造中"的案例，用 Latour、Jasanoff 等人的工具分析[[Knowledge Production|知识生产]]与治理[[Praxis|实践]]的纠缠([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.6]])
+> - **[[Science and Technology Studies]]** — Gorur 将 INES 的发展视为"科学在制造中"的案例，用 Latour、Jasanoff 等人的工具分析[[Knowledge Production|知识生产]]与治理实践的纠缠([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.6]])
 
 ## 实证发现
 

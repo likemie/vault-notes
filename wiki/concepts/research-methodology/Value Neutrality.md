@@ -71,7 +71,7 @@ updated: 2026-07-11
 ## 定义
 
 > [!def] 核心定义
-> 价值中立（Value neutrality / Value freedom / 德语：Wertfreiheit）是主张科学研究应系统排除研究者个人的价值偏好、偏见、意识形态和利益立场，以客观、中性的程序追求客观知识的主张。它强调“事实判断”（Fact）与“价值判断”（Value）之间的二分，要求研究发现不受研究者主观信念的干扰。([[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 29]])
+> 价值中立（[[VALUE Rubrics|VALUE]] neutrality / Value freedom / 德语：Wertfreiheit）是主张科学研究应系统排除研究者个人的价值偏好、偏见、意识形态和利益立场，以客观、中性的程序追求客观知识的主张。它强调“事实判断”（Fact）与“价值判断”（Value）之间的二分，要求研究发现不受研究者主观信念的干扰。([[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 29]])
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向一种[[Positivism|实证主义]]的[[Epistemology|认识论]]立场，预设外部客观实在可以与研究者的主观世界相分离，知识的有效性仅取决于程序和证据的科学性。
@@ -87,7 +87,7 @@ updated: 2026-07-11
 ## 概念辨析
 
 > [!contrast-table]- 价值中立与多重价值呈现的辨析
-> | 维度 | 价值中立 (Value Neutrality) | 多重价值呈现 (Multi-value Stance) |
+> | 维度 | 价值中立 ([[VALUE Rubrics\|VALUE]] Neutrality) | 多重价值呈现 (Multi-value Stance) |
 > |---|---|---|
 > | **核心立场** | 排除一切主观价值，追求单一的客观事实。 | 承认价值在社会行动中的首要性，系统收集不同立场的价值数据。 |
 > | **主要领域** | 理论研究与实证科学（如[[Positivism\|实证主义]]研究）。 | 应用评估与政策规划（如项目评估）。 |

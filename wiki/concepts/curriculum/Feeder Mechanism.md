@@ -7,7 +7,7 @@ aliases:
 summary: "Cole 提出的关于后现代课程的功能隐喻。它主张教育（特别是探究性课程）不应追求导向预设的普世真理或统一结论，而应作为一种持续激发群体想象力、甚至将负面情感转化为生产性动力的引擎，借此不断孕育出跨学科的新知识与新探索。"
 type: concept
 domain: "curriculum"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
