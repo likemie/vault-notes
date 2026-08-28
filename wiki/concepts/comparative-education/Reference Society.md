@@ -69,10 +69,10 @@ updated: 2026-07-10
 ## 概念辨析
 
 > [!contrast-table] 与邻近概念的区别
-> | 维度 | Reference Society | [[Policy Borrowing|政策借用]]（Policy Borrowing） | [[Cross-National Attraction|跨国吸引力]]（Cross-National Attraction） |
+> | 维度 | Reference Society | [[Policy Borrowing\|政策借用]]（Policy Borrowing） | [[Cross-National Attraction\|跨国吸引力]]（Cross-National Attraction） |
 > |------|--------|----------------|----------------|
 > | **分析对象** | 被效仿的目标社会或教育体系 | 借用的行为、过程和政治逻辑 | 外国教育引发国内关注的阶段和机制 |
-> | **核心机制** | 排名、文化亲近性与地缘政治如何确立某一社会为模范 | 选择性借用、合法化功能、方案的本地[[Transfer Translation Transformation|转译]]与变异 | 结构性推力与改革行动者如何驱动吸引力 |
+> | **核心机制** | 排名、文化亲近性与地缘政治如何确立某一社会为模范 | 选择性借用、合法化功能、方案的本地[[Transfer Translation Transformation\|转译]]与变异 | 结构性推力与改革行动者如何驱动吸引力 |
 > | **时间位置** | 存在于借用行为的全过程中，可能在 [[PISA]] 周期之间动态转换 | 覆盖从吸引、决策、实施到内化的全过程 | 政策借用四阶段循环的第一阶段 |
 > | **典型问题** | 为什么是芬兰而非日本成为全球参考社会？ | 借用者借用了什么、为何借用、效果如何？ | 什么条件使外国教育引发国内关注？ |
 

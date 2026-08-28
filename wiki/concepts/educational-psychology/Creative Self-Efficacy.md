@@ -77,9 +77,9 @@ updated: 2026-08-24
 ## 概念辨析
 
 > [!contrast-table] 概念辨析
-> | 维度 | [[Creativity|创造性]][[Self-Efficacy|自我效能感]]（CSE） | 一般[[Self-Efficacy|自我效能感]]（General Self-Efficacy） | 创造性自我概念（Creative Self-Concept） |
+> | 维度 | [[Creativity\|创造性]][[Self-Efficacy\|自我效能感]]（CSE） | 一般[[Self-Efficacy\|自我效能感]]（General Self-Efficacy） | 创造性自我概念（Creative Self-Concept） |
 > |---|---|---|---|
-> | **[[Construct|构念]]范畴** | [[Domain Specificity|领域特异性]]能力信念（Domain-Specific Belief） | 泛化特质性应对信念（Generalized Trait） | 综合自我身份认同（Self-Identity） |
+> | **[[Construct\|构念]]范畴** | [[Domain Specificity\|领域特异性]]能力信念（Domain-Specific Belief） | 泛化特质性应对信念（Generalized Trait） | 综合自我身份认同（Self-Identity） |
 > | **核心指向** | “我是否有能力在当前任务中产出创新构想” | “我是否有能力应对一般生活与学习压力” | “我在多大程度上将自己定义为一个创新者” |
 > | **情境敏感度** | 高，受即时任务指导语、评价压力与教师反馈显著调节 | 低，跨情境高度稳定 | 中等，随长周期自我反思逐步固化 |
 > | **对创造表现的预测力** | 强（元分析关联 $r = 0.39$） | 弱至中等（$r pprox 0.15 \sim 0.20$） | 中等（$r pprox 0.25 \sim 0.30$） |
@@ -134,7 +134,7 @@ updated: 2026-08-24
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **成果预测与中介机制** | 创造性自我效能感直接驱动高阶创造表现（$r = 0.39$），是潜能转化的核心外认知中介 | 拔尖创新人才选拔、创新表现测评与心理机制建模 | Haase et al. (2018); [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] |
+> | **成果预测与中介机制** | 创造性自我效能感直接驱动高阶创造表现（$r = 0.39$），是潜能转化的核心外认知中介 | 拔尖创新人才选拔、创新表现测评与心理机制建模 | Haase et al. (2018); [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] |
 > | **教学干预与环境塑造** | 探究式教学、容错氛围与即时正向反馈显著提升学生创造信心 | 课堂教学改革、项目式学习与创新素养培养 | Bandura (1997); Beghetto & Karwowski (2017) |
 
 ---
@@ -170,12 +170,12 @@ updated: 2026-08-24
 > [!ma-table]- [[Meta-analysis|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 元分析 | [[Dependent Variable|结果变量]] | k / N | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval|CI]] | [[Heterogeneity|异质性]]与[[Prediction Interval|预测区间]] | 证据确定性 |
+> | 元分析 | [[Dependent Variable\|结果变量]] | k / N | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 证据确定性 |
 > |---|---|---|---|---|---|---|
-> | Haase et al. (2018) | [[Creativity|创造性]][[Self-Efficacy|自我效能感]]与创造性表现/成就关联 | $k = 34$ / $N = 12,058$ | 皮尔逊 $r$ / 随机效应 | **$r = 0.39$** $[0.33, 0.45]$ | 存在显著异质性 | 高，确立外认知动力核心地位 |
-> | 同上 ([[Divergent Thinking|发散思维]]分维度) | 创造性自我效能感与[[Divergent Thinking|发散思维]]测验关联 | $k = 21$ / $N = 6,842$ | 皮尔逊 $r$ / 随机效应 | **$r = 0.26$** $[0.19, 0.33]$ | 纸笔测验情境效应较弱 | 高 |
+> | Haase et al. (2018) | [[Creativity\|创造性]][[Self-Efficacy\|自我效能感]]与创造性表现/成就关联 | $k = 34$ / $N = 12,058$ | 皮尔逊 $r$ / 随机效应 | **$r = 0.39$** $[0.33, 0.45]$ | 存在显著异质性 | 高，确立外认知动力核心地位 |
+> | 同上 ([[Divergent Thinking\|发散思维]]分维度) | 创造性自我效能感与[[Divergent Thinking\|发散思维]]测验关联 | $k = 21$ / $N = 6,842$ | 皮尔逊 $r$ / 随机效应 | **$r = 0.26$** $[0.19, 0.33]$ | 纸笔测验情境效应较弱 | 高 |
 > | Yodchai et al. (2022) | 创造性自我效能感与创新能力/绩效关联 | $k = 28$ / $N = 8,920$ | 皮尔逊 $r$ / 随机效应 | **$r = 0.44$** $[0.38, 0.50]$ | 组织与教育情境高度一致 | 高 |
-> | [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] | 全领域外认知相关因素（含 CSE）二阶效应 | 52 项元分析 (164 ES) / 1,248,416 人 | 皮尔逊 $r$ / 多水平 CHE + RVE | **$r = 0.14$** $[0.06, 0.22]$ | 95% PI $[-0.24, 0.49]$ | 高，全域稳健性支持 |
+> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 全领域外认知相关因素（含 CSE）二阶效应 | 52 项元分析 (164 ES) / 1,248,416 人 | 皮尔逊 $r$ / 多水平 CHE + RVE | **$r = 0.14$** $[0.06, 0.22]$ | 95% PI $[-0.24, 0.49]$ | 高，全域稳健性支持 |
 
 ---
 
@@ -194,8 +194,8 @@ updated: 2026-08-24
 >
 > | 条目 | 类型 | 关联方向 | 说明 |
 > |:-----|:-----|:---------|:-----|
-> | [[Creativity]] | 概念 | 上位概念 | 创造性[[Self-Efficacy|自我效能感]]是促进创造潜能向显性创造表现转化的核心外认知动力。 |
+> | [[Creativity]] | 概念 | 上位概念 | 创造性[[Self-Efficacy\|自我效能感]]是促进创造潜能向显性创造表现转化的核心外认知动力。 |
 > | [[Creativity Training]] | 概念 | 干预载体 | 系统的创造力训练通过提供成功探究经验与策略支架显著提升学生自我效能。 |
 > | [[Divergent Thinking]] | 概念 | 认知构件 | 发散思维为效能感提供认知能力支撑，效能感反向激发更高强度的发散努力。 |
 > | [[Four P Model of Creativity]] | 理论 | 理论定位 | 在 4P 模型中属于“人（Person）”维度的核心外认知心理特质。 |
-> | [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] | 论证 | 实证来源 | 二阶元分析证实外认知因素对创造力具有显著且稳健的促进效应（$r = 0.14$）。 |
+> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 论证 | 实证来源 | 二阶元分析证实外认知因素对创造力具有显著且稳健的促进效应（$r = 0.14$）。 |

@@ -106,7 +106,7 @@ updated: 2026-08-27
 > [!concept-lens] 概念透镜
 > - **对象** 学生的批判性认知加工过程（解释、分析、评价、推论）、[[Reflective Thinking|反思性思维]]倾向（求真、开放、探究、判断成熟度）、书面/口头论证产品以及在真实劣构情境中的决策表现。
 > - **用途** 用于院校与系统的质量问责与增值监测、高利害专业准入与招生选拔、课程大纲与评估任务的[[Constructive Alignment|建构性对齐]]审核，以及日常课堂中向师生提供精准的[[Formative Assessment|形成性评价]]反馈。
-> - **边界** 测量命令词或题型格式本身不能等同于高阶思维的实际发生；客观选择题易陷入“选项再认”而非“主动生成”的效度局限，自陈[[Questionnaire|问卷]]则易受[[Common Method Variance|共同方法变异]]与社会期望污染。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 24–26)]] [[Argument_Park_2026_TSC|(Park et al., 2026, pp. 8–10)]]
+> - **边界** 测量命令词或题型格式本身不能等同于高阶思维的实际发生；[[Multiple-Choice Questions|客观选择题]]易陷入“选项再认”而非“主动生成”的效度局限，自陈[[Questionnaire|问卷]]则易受[[Common Method Variance|共同方法变异]]与社会期望污染。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 24–26)]] [[Argument_Park_2026_TSC|(Park et al., 2026, pp. 8–10)]]
 
 > [!citation-card]- 真实性任务与测评[[Paradigm|范式]]转型
 > 测量[[Creativity|创造力]]与批判性思维等高阶思维技能，需要采用精细的开放式且嵌入课程的表现任务（如研究项目、产品开发、学术展示等），使学生能够深入分析、应用知识并创造全新解决方案，而非仅仅在预设选项中进行勾选。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 24)]]
@@ -125,11 +125,11 @@ updated: 2026-08-27
 > [!contrast-table] [[Critical Thinking|批判性思维]]主要测评技术路径辨析
 > | 测评路径类别 | 经典心理测量学客观测试 | 主观自陈倾向与策略量表 | 高等教育增值表现性测试 | 课程嵌入式真实性评分量规 |
 > |---|---|---|---|---|
-> | **代表性工具** | [[Watson-Glaser Critical Thinking Appraisal|WGCTA]]、[[California Critical Thinking Skills Test|CCTST]]、[[Cornell Critical Thinking Test|Cornell 测验]] | [[California Critical Thinking Disposition Inventory|CCTDI]]、[[Critical Thinking Strategies Scale|CTSS]]、MSLQ-CT | [[Collegiate Learning Assessment|CLA / CLA+]]、[[ETS HEIghten Critical Thinking Assessment|ETS HEIghten]]、CAAP | AAC&U [[VALUE Rubrics|VALUE 批判性思维量规]]、欧洲 CALOHEE 框架 |
-> | **作答载体与题型** | 客观多项选择题（MCQs） | 莱克特（Likert）自陈量表 / [[Questionnaire|问卷]] | 真实文档库（[[Document]] in-basket）开放情境表现任务（PT） + 选答题 | 嵌入课程真实大[[Homework|作业]]、研究论文、设计原型与反思档案袋的 4 级表现描述符 |
-> | **核心测量对象** | 推理、识别[[Hypothesis|假设]]、演绎、解释、论据评价（再认型） | 求真、开放、探究、分析性、[[Self-Efficacy|自我效能]]与自述策略使用 | 复杂问题分析、跨文档证据综合、决策制定与论述写作 | 阐明问题、证据运用、情境识别、个人立场确立、结论推导 |
-> | **[[Reliability|信度]]与实施成本** | 机器阅卷信度极高，自动化成本极低 | 施测便捷，自评信度依赖作答诚实度 | 依赖专业阅卷员/算法，评分成本高昂 | 依赖校内与跨校教师评分校准研讨（Calibration） |
-> | **[[Ecological Validity|生态效度]]与促学价值** | 生态效度低，仅输出总分，促学反馈弱 | 易受社会期望与[[Common Method Variance|共同方法变异]]（CMV）干扰 | 生态效度高，可测纵向增益，但低利害下动机不足 | 生态效度极高，标准公开透明，全面赋能形成性促学与自我调节 |
+> | **代表性工具** | [[Watson-Glaser Critical Thinking Appraisal\|WGCTA]]、[[California Critical Thinking Skills Test\|CCTST]]、[[Cornell Critical Thinking Test\|Cornell 测验]] | [[California Critical Thinking Disposition Inventory\|CCTDI]]、[[Critical Thinking Strategies Scale\|CTSS]]、MSLQ-CT | [[Collegiate Learning Assessment\|CLA / CLA+]]、[[ETS HEIghten Critical Thinking Assessment\|ETS HEIghten]]、CAAP | AAC&U [[VALUE Rubrics\|VALUE 批判性思维量规]]、欧洲 CALOHEE 框架 |
+> | **作答载体与题型** | 客观[[Multiple-Choice Questions\|多项选择题]]（MCQs） | 莱克特（Likert）自陈量表 / [[Questionnaire\|问卷]] | 真实文档库（[[Document]] in-basket）开放情境表现任务（PT） + 选答题 | 嵌入课程真实大[[Homework\|作业]]、研究论文、设计原型与反思档案袋的 4 级表现描述符 |
+> | **核心测量对象** | 推理、识别[[Hypothesis\|假设]]、演绎、解释、论据评价（再认型） | 求真、开放、探究、分析性、[[Self-Efficacy\|自我效能]]与自述策略使用 | 复杂问题分析、跨文档证据综合、决策制定与论述写作 | 阐明问题、证据运用、情境识别、个人立场确立、结论推导 |
+> | **[[Reliability\|信度]]与实施成本** | 机器阅卷信度极高，自动化成本极低 | 施测便捷，自评信度依赖作答诚实度 | 依赖专业阅卷员/算法，评分成本高昂 | 依赖校内与跨校教师评分校准研讨（Calibration） |
+> | **[[Ecological Validity\|生态效度]]与促学价值** | 生态效度低，仅输出总分，促学反馈弱 | 易受社会期望与[[Common Method Variance\|共同方法变异]]（CMV）干扰 | 生态效度高，可测纵向增益，但低利害下动机不足 | 生态效度极高，标准公开透明，全面赋能形成性促学与自我调节 |
 >
 > （根据 [[Argument_Bouckaert_2023_OECD|Bouckaert (2023, pp. 21–28)]] 与 [[Argument_Park_2026_TSC|Park et al. (2026, pp. 4–5)]] 综合梳理）
 
@@ -144,21 +144,21 @@ updated: 2026-08-27
 > - **情境与知识维度（Context & Domain Standards）** 包含通用跨学科逻辑规则与特定学科（如医学临床决策、历史证据考据、物理实验设计）的实质性证据评价标准。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 26–28)]]
 
 > [!dual-header] [[Critical Thinking|批判性思维]]测量工具的主客观分类映射
-> | 测量构念属性 | 主观测量（自陈倾向 / 策略[[Questionnaire|问卷]]） | 客观测量（标准化技能测验 / 表现任务 / 量规评定） |
+> | 测量构念属性 | 主观测量（自陈倾向 / 策略[[Questionnaire\|问卷]]） | 客观测量（标准化技能测验 / 表现任务 / 量规评定） |
 > |---|---|---|
-> | **[[Critical Thinking Disposition|批判性思维倾向]]与[[Self-Efficacy|自我效能]]** | - 加州批判性思维倾向问卷（CCTDI）<br>- 批判性思维倾向量表（Critical Thinking Disposition Scale）<br>- UF/EMI 批判性思维倾向量表<br>- 批判性思维策略量表（CTSS）<br>- 学习动机策略问卷批判性思维分量表（MSLQ-CT） | - 暂无（倾向主要依赖自陈或长周期行为观察清单） |
-> | **批判性思维技能与论证表现** | - 4C 技能量表批判性思维自评维度<br>- 学生元技能调查（Student MetaSkills Survey）批判性思维分量表 | - [[Watson-Glaser Critical Thinking Appraisal|沃森-格拉瑟批判性思维评估]]（WGCTA）<br>- [[Cornell Critical Thinking Test|康奈尔批判性思维测验]]（CCTT）<br>- [[California Critical Thinking Skills Test|加州批判性思维技能测验]]（CCTST）<br>- [[Halpern Critical Thinking Assessment|霍尔珀恩批判性思维测评]]（HCTA）<br>- [[Critical Thinking Assessment Test|田纳西理工批判性思维评估测验]]（CAT）<br>- [[Collegiate Learning Assessment|大学学习评估]]（CLA / CLA+）<br>- [[ETS HEIghten Critical Thinking Assessment|ETS HEIghten 批判性思维测验]]<br>- 医学院入学考试批判性分析模块（MCAT-CARS）<br>- 英国法学国家能力测试（LNAT）<br>- AAC&U VALUE 批判性思维评分量规<br>- 欧洲 CALOHEE 评价参照框架 |
+> | **[[Critical Thinking Disposition\|批判性思维倾向]]与[[Self-Efficacy\|自我效能]]** | - 加州批判性思维倾向问卷（CCTDI）<br>- 批判性思维倾向量表（Critical Thinking Disposition Scale）<br>- UF/EMI 批判性思维倾向量表<br>- 批判性思维策略量表（CTSS）<br>- 学习动机策略问卷批判性思维分量表（MSLQ-CT） | - 暂无（倾向主要依赖自陈或长周期行为观察清单） |
+> | **批判性思维技能与论证表现** | - 4C 技能量表批判性思维自评维度<br>- 学生元技能调查（Student MetaSkills Survey）批判性思维分量表 | - [[Watson-Glaser Critical Thinking Appraisal\|沃森-格拉瑟批判性思维评估]]（WGCTA）<br>- [[Cornell Critical Thinking Test\|康奈尔批判性思维测验]]（CCTT）<br>- [[California Critical Thinking Skills Test\|加州批判性思维技能测验]]（CCTST）<br>- [[Halpern Critical Thinking Assessment\|霍尔珀恩批判性思维测评]]（HCTA）<br>- [[Critical Thinking Assessment Test\|田纳西理工批判性思维评估测验]]（CAT）<br>- [[Collegiate Learning Assessment\|大学学习评估]]（CLA / CLA+）<br>- [[ETS HEIghten Critical Thinking Assessment\|ETS HEIghten 批判性思维测验]]<br>- 医学院入学考试批判性分析模块（MCAT-CARS）<br>- 英国法学国家能力测试（LNAT）<br>- AAC&U VALUE 批判性思维评分量规<br>- 欧洲 CALOHEE 评价参照框架 |
 >
 > （根据 [[Argument_Park_2026_TSC|Park et al. (2026, Table 1)]] 结合 [[Argument_Bouckaert_2023_OECD|Bouckaert (2023, pp. 21–28)]] 整理）
 
-> [!tension-table] 大规模客观选择题与真实性表现任务的系统权衡
+> [!tension-table] 大规模[[Multiple-Choice Questions|客观选择题]]与真实性表现任务的系统权衡
 > | 评价维度 | 客观多项选择题（Selected-Response MCQs） | 开放式情境表现任务（Constructed Performance Tasks） |
 > |---|---|---|
-> | **心理测量学[[Reliability|信度]]** | **极高** 机器阅卷无评分者主观误差，[[Internal Consistency|内部一致性]]信度极高。 | **中等** 依赖人工量规打分与算法校准，评分一致性需持续维护。 |
+> | **心理测量学[[Reliability\|信度]]** | **极高** 机器阅卷无评分者主观误差，[[Internal Consistency\|内部一致性]]信度极高。 | **中等** 依赖人工量规打分与算法校准，评分一致性需持续维护。 |
 > | **构念代表性与效度** | **低** 偏向孤立事实识记与封闭推理，存在严重的构念代表性不足。 | **极高** 模拟真实劣构情境，直接测度分析、综合推理与创新生成。 |
 > | **实施成本与可扩展性** | **极低** 计算机自动化施测与即时评分，适于数十万人规模。 | **高昂** 任务设计与专业评分员阅卷开销巨大，耗时漫长。 |
-> | **学生作答动机影响** | **低利害下易盲目乱猜** 答题耗时短但学生容易采取猜测策略。 | **低利害下极易疲劳[[Attrition|流失]]** 需耗费大量心智书写，无利害下作答努力度显著下降。 |
-> | **对课堂教学的反拨效应** | **负向反拨** 诱发应试刷题、[[Rote Learning|死记硬背]]与[[Surface and Deep Learning|表层学习]]。 | **正向反拨** 引导学生开展深度探究、批判审视与实践创作。 |
+> | **学生作答动机影响** | **低利害下易盲目乱猜** 答题耗时短但学生容易采取猜测策略。 | **低利害下极易疲劳[[Attrition\|流失]]** 需耗费大量心智书写，无利害下作答努力度显著下降。 |
+> | **对课堂教学的反拨效应** | **负向反拨** 诱发应试刷题、[[Rote Learning\|死记硬背]]与[[Surface and Deep Learning\|表层学习]]。 | **正向反拨** 引导学生开展深度探究、批判审视与实践创作。 |
 >
 > （综合 [[Argument_Bouckaert_2023_OECD|Bouckaert (2023, pp. 24–26)]] 分析归纳）
 
@@ -172,7 +172,7 @@ updated: 2026-08-27
 > 探讨标准化测试中选项辨析与真实[[Higher-Order Thinking Skills|高阶思维]]加工之间的认知鸿沟。
 
 > [!claim] Frederiksen, N.; Lane, S.; Shepard, L. A.; Bouckaert, M.
-> **选项再认与主动生成的认知鸿沟** 传统客观多项选择题（MCQs）虽然具备极高的心理测量学[[Reliability|信度]]与低廉的自动化评分成本，但受限于题型格式，测量的只是学生从预设答案中辨析正误的“再认（Recognition）”能力，无法激活真实世界专业实践中至关重要的“主动生成（Generation）”新论点、构想替代解释与构建复杂论证的高级认知加工，存在严重的[[Construct|构念]]代表性不足（Construct Underrepresentation）。因此，单纯依靠选择题统考无法全面表征[[Critical Thinking|批判性思维]]全貌。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 24–26)]]
+> **选项再认与主动生成的认知鸿沟** 传统客观[[Multiple-Choice Questions|多项选择题]]（MCQs）虽然具备极高的心理测量学[[Reliability|信度]]与低廉的自动化评分成本，但受限于题型格式，测量的只是学生从预设答案中辨析正误的“再认（Recognition）”能力，无法激活真实世界专业实践中至关重要的“主动生成（Generation）”新论点、构想替代解释与构建复杂论证的高级认知加工，存在严重的[[Construct|构念]]代表性不足（Construct Underrepresentation）。因此，单纯依靠选择题统考无法全面表征[[Critical Thinking|批判性思维]]全貌。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 24–26)]]
 
 ### 命题二　测量类型显著调节实证相关，自陈测量受共同方法变异污染而表现型测验捕获真实认知重叠
 
@@ -204,7 +204,7 @@ updated: 2026-08-27
 > | 命题类型 | 核心理论断言 | 涉及核心机制与方法学工具 | 代表学者依据 |
 > |---|---|---|---|
 > | **认知效度与题型局限** | 客观选择题存在构念代表性不足，难以测度生成性论证与复杂问题解决 | 选项再认 vs 主动生成、构念代表性不足 | Frederiksen; Lane; Shepard; Bouckaert |
-> | **测量方法学调节** | 测量类型显著调节实证相关，自陈测量受 CMV 污染而表现测验具真实认知重叠 | 共同方法变异（CMV）、三水平[[Meta-regression|元回归]]调节分析 | Park, Myszkowski & Niu; Podsakoff |
+> | **测量方法学调节** | 测量类型显著调节实证相关，自陈测量受 CMV 污染而表现测验具真实认知重叠 | 共同方法变异（CMV）、三水平[[Meta-regression\|元回归]]调节分析 | Park, Myszkowski & Niu; Podsakoff |
 > | **校本促学评价** | 课程嵌入式真实性评分量规是实现建构性对齐与形成性促学的核心枢纽 | 真实性评分量规、阶梯描述符、建构性对齐、促学反馈 | Biggs; Rhodes; Wagenaar; Bouckaert |
 > | **课程操作化效度** | 评价任务需充分表征构念全貌，且面临术语套用表演与主观评分痛点 | 构念效度审查、术语表演（Jargon Performance）、主观评分 | Hughes; Zemplén; Bergeron & Rogers |
 
@@ -213,7 +213,7 @@ updated: 2026-08-27
 ## 概念演变
 
 > [!dev-timeline] [[Critical Thinking|批判性思维]]测评的技术演进与[[Paradigm|范式]]转向
-> - **1960–1980 年代　经典心理测量学客观测试主导** 以沃森-格拉瑟批判性思维评估（WGCTA, 1980）和康奈尔测试为代表，采用客观多项选择题（MCQs）测量推理、前提识别与解释，确立了高[[Reliability|信度]]与标准化常模范式。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 21)]]
+> - **1960–1980 年代　经典心理测量学客观测试主导** 以沃森-格拉瑟批判性思维评估（WGCTA, 1980）和康奈尔测试为代表，采用客观[[Multiple-Choice Questions|多项选择题]]（MCQs）测量推理、前提识别与解释，确立了高[[Reliability|信度]]与标准化常模范式。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 21)]]
 > - **1990 年代　德尔菲框架确立与倾向[[Questionnaire|问卷]]兴起** APA 德尔菲共识报告（Facione, 1990）将[[Construct|构念]]明确划分为认知技能与情意倾向双维度，催生了[[California Critical Thinking Skills Test|加州批判性思维技能测验]]（CCTST, 1992）与[[California Critical Thinking Disposition Inventory|加州批判性思维倾向问卷]]（CCTDI, 1992），开启了技能与倾向分离测量的阶段。[[Argument_Cole_2015_AJE|(Cole et al., 2015, pp. 251–252)]]
 > - **2000 年代　高等教育增值统考与[[Voluntary System of Accountability|自愿问责体系]]兴衰** 美国《[[Spellings Report|斯佩林斯报告]]》（2006）推动建立自愿问责体系（VSA），采用大学学习评估（[[Collegiate Learning Assessment|CLA]]）等情境表现任务（PT）测量全校纵向[[Learning Gain|学习增益]]；但因外部统考与课程脱节、成本高昂及学生低利害动机缺失，增值统考在十年后大范围衰退。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 24–25)]]
 > - **2010 年代至今　校本真实性量规崛起与[[Formative Assessment|促学评价]]生态** 全美高校广泛转向 AAC&U [[VALUE Rubrics|VALUE]] 量规（Rhodes, 2009），欧洲推行 [[CALOHEE Project|CALOHEE]] 参照框架（Wagenaar, 2018），批判性思维评价深度回归微观课堂，聚焦真实[[Task Structure|劣构任务]]、纯质性描述评语与多轮形成性反馈迭代。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 26–34)]]
@@ -225,7 +225,7 @@ updated: 2026-08-27
 > [!debates] 测评方法学争议与[[Paradigm|范式]]张力
 >
 > > [!axis] 选项再认 vs 主动生成
-> > 客观多项选择题（MCQs）以高[[Reliability|信度]]和低成本著称，但仅测量被动“再认”；开放表现任务（PT）与真实性量规具有极高[[Ecological Validity|生态效度]]并测度“主动生成”，但面临人工阅卷成本高昂与跨评卷人一致性难题。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 24–26)]]
+> > 客观[[Multiple-Choice Questions|多项选择题]]（MCQs）以高[[Reliability|信度]]和低成本著称，但仅测量被动“再认”；开放表现任务（PT）与真实性量规具有极高[[Ecological Validity|生态效度]]并测度“主动生成”，但面临人工阅卷成本高昂与跨评卷人一致性难题。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 24–26)]]
 >
 > > [!axis] 通用标准化统考 vs 课程嵌入式校本量规
 > > 外部通用统考（如 [[Collegiate Learning Assessment|CLA]]、[[Collegiate Assessment of Academic Proficiency|CAAP]]）试图提供跨校横向可比的增益基准，但脱离学科情境且低利害下学生作答动机涣散；校本真实性量规（如 [[VALUE Rubrics|VALUE]]）深度融入专业教学，但跨校横向可比性依赖严密的教师校准研讨。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 25–28)]]

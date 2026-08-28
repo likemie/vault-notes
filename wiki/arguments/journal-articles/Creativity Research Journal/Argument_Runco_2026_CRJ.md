@@ -143,10 +143,10 @@ issuing_organization: ""
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **创造力 4P 模型与多维相关因素**<br>[[Four P Model of Creativity]] | 将影响[[Creativity|创造力]]的相关因素系统结构化为认知（过程 Process）、外认知（人 Person）、[[Creativity Training|干预与教育教学]]、即时情境（压力/环境 Press）及人口学背景五大理论维度（Rhodes, 1961; Kaufmann & Vosburg, 2002; pp. 3–4）。 |
-> | **创造潜能与表现理论**<br>[[Creativity]] | 区分人类普遍具有的[[Creativity|创造潜能]]（Creative Potential）与显性创造表现（Creative Performance），解释人口背景、认知加工与外认知调节对潜能发挥的支持机制（Runco, 2024, p. 4）。 |
-> | **心理测量学预测源与效标双分模型**<br>[[Predictive Validity]] / [[Criterion-related Validity]] | 依据[[Predictive Validity|预测效度]]与[[Criterion-related Validity|效标关联效度]]逻辑，将实证研究区分为创造力作为[[Independent Variable|预测变量]]与创造力作为[[Dependent Variable|结果变量]]，并揭示[[Criterion Problem|效标问题]]对效标关联系数的稀释机制（Runco et al., 2020, pp. 2–3, 7–8）。 |
-> | **二阶抽样误差与稳健综合理论**<br>[[Meta-meta-analysis]] / [[Sampling Error]] | 从统计学上分离一阶[[Sampling Error|抽样误差]]与二阶[[Sampling Error|抽样误差]]，通过大样本聚合消除单一测量工具与研究方法的特异性偏误，为多水平[[Robust Variance Estimation|稳健方差估计]]奠定理论基础（Schmidt & Oh, 2013, p. 3）。 |
+> | **创造力 4P 模型与多维相关因素**<br>[[Four P Model of Creativity]] | 将影响[[Creativity\|创造力]]的相关因素系统结构化为认知（过程 Process）、外认知（人 Person）、[[Creativity Training\|干预与教育教学]]、即时情境（压力/环境 Press）及人口学背景五大理论维度（Rhodes, 1961; Kaufmann & Vosburg, 2002; pp. 3–4）。 |
+> | **创造潜能与表现理论**<br>[[Creativity]] | 区分人类普遍具有的[[Creativity\|创造潜能]]（Creative Potential）与显性创造表现（Creative Performance），解释人口背景、认知加工与外认知调节对潜能发挥的支持机制（Runco, 2024, p. 4）。 |
+> | **心理测量学预测源与效标双分模型**<br>[[Predictive Validity]] / [[Criterion-related Validity]] | 依据[[Predictive Validity\|预测效度]]与[[Criterion-related Validity\|效标关联效度]]逻辑，将实证研究区分为创造力作为[[Independent Variable\|预测变量]]与创造力作为[[Dependent Variable\|结果变量]]，并揭示[[Criterion Problem\|效标问题]]对效标关联系数的稀释机制（Runco et al., 2020, pp. 2–3, 7–8）。 |
+> | **二阶抽样误差与稳健综合理论**<br>[[Meta-meta-analysis]] / [[Sampling Error]] | 从统计学上分离一阶[[Sampling Error\|抽样误差]]与二阶[[Sampling Error\|抽样误差]]，通过大样本聚合消除单一测量工具与研究方法的特异性偏误，为多水平[[Robust Variance Estimation\|稳健方差估计]]奠定理论基础（Schmidt & Oh, 2013, p. 3）。 |
 
 > [!warrant]- 理论如何支撑论证
 > 理论工具箱将多源异质的一阶[[Meta-analysis|元分析]]纳入统一的输入、过程与输出概念框架。预测源与效标[[Variable|变量]]的先验划分使得二阶分析能够检验创造力在不同测量位置上的结构性差异；二阶抽样误差理论则为跨越数十年不同测量[[Paradigm|范式]]提供了统计可比性与聚合精度。（pp. 2–4）
@@ -154,21 +154,21 @@ issuing_organization: ""
 ### 核心变量与调节因素操作化定义
 
 > [!index-table] 核心变量与调节因素[[Operationalization|操作化]]定义与测量工具
-> | 变量与调节因素 | [[Construct|理论构念]]与操作化定义 | 典型测量工具与代表案例 |
+> | 变量与调节因素 | [[Construct\|理论构念]]与操作化定义 | 典型测量工具与代表案例 |
 > |---|---|---|
-> | **创造力作为预测变量**<br>（Predictor Variable） | [[Creativity|创造力]]（潜能、思维或产出）作为[[Independent Variable|自变量]]或预测变量，用于预测后续[[Academic Achievement|学业成就]]、职业发展、身心适应或终身创造力。 | [[Cohort Study|追踪研究]]中使用[[Torrance Tests of Creative Thinking|托兰斯创造性思维测验]]（Torrance Tests of Creative Thinking, TTCT）预测成人期重大创造性成就或平均学分绩点（Grade Point Average, GPA）。 |
-> | **创造力作为结果变量**<br>（Criterion Variable） | [[Creativity|创造力]]作为[[Dependent Variable|因变量]]或效标，用于检验[[Creativity Training|教育教学干预]]、认知能力、人格特征或情境环境对创造力的塑造与提升效果。 | 准[[Experimental Research|实验研究]]检验[[Problem-Based Learning|问题驱动教学法]]（Problem-Based Learning, PBL）或[[Creative Problem Solving|创造性问题解决模型]]（Creative Problem Solving, CPS）项目对学生创造性思维的提升幅度。 |
-> | **[[Divergent Thinking|发散思维]]**<br>（Divergent Thinking） | 评估个体在开放性任务中沿多方向生成多样、新颖观念的认知能力，通常以流畅性、灵活性和独创性计分。 | [[Torrance Tests of Creative Thinking|托兰斯创造性思维测验]]（TTCT）、非常规用途测验（Alternative Uses Task, AUT）、连线测验。 |
-> | **创造过程**<br>（Creative Process） | 涵盖观念生成之外的复杂多阶段认知操作，包括[[Problem Finding|问题发现]]、信息重构、顿悟、观念评估与选择等环节。 | [[Problem Finding|问题发现]]任务（Problem Finding Tasks）、远距离联想测验（Remote Associates Test, RAT）、电子头脑风暴（Electronic Brainstorming, EBS）。 |
-> | **创造性成果**<br>（Creative Outcomes） | 个体产出的显性创造性产品或客观成就，由外部专家主观评定或依据客观社会记录衡量。 | [[Consensual Assessment Technique|同感评估技术]]（Consensual Assessment Technique, CAT）、[[Creative Achievement Questionnaire|自陈创造性成就问卷]]（Creative Achievement Questionnaire, CAQ）、专利与出版物。 |
-> | **总体创造力**<br>（Overall Creativity） | 未明确区分过程与成果、或采用综合测评套件获取的宽泛创造力总分指标。 | [[Runco Ideational Behavior Scale|伦科观念行为量表]]（Runco Ideational Behavior Scale, RIBS）、综合创造潜能评估包、教师综合创造力[[Rating Scale|评定量表]]。 |
+> | **创造力作为预测变量**<br>（Predictor Variable） | [[Creativity\|创造力]]（潜能、思维或产出）作为[[Independent Variable\|自变量]]或预测变量，用于预测后续[[Academic Achievement\|学业成就]]、职业发展、身心适应或终身创造力。 | [[Cohort Study\|追踪研究]]中使用[[Torrance Tests of Creative Thinking\|托兰斯创造性思维测验]]（Torrance Tests of Creative Thinking, TTCT）预测成人期重大创造性成就或平均学分绩点（Grade Point Average, GPA）。 |
+> | **创造力作为结果变量**<br>（Criterion Variable） | [[Creativity\|创造力]]作为[[Dependent Variable\|因变量]]或效标，用于检验[[Creativity Training\|教育教学干预]]、认知能力、人格特征或情境环境对创造力的塑造与提升效果。 | 准[[Experimental Research\|实验研究]]检验[[Problem-Based Learning\|问题驱动教学法]]（Problem-Based Learning, PBL）或[[Creative Problem Solving\|创造性问题解决模型]]（Creative Problem Solving, CPS）项目对学生创造性思维的提升幅度。 |
+> | **[[Divergent Thinking\|发散思维]]**<br>（Divergent Thinking） | 评估个体在开放性任务中沿多方向生成多样、新颖观念的认知能力，通常以流畅性、灵活性和独创性计分。 | [[Torrance Tests of Creative Thinking\|托兰斯创造性思维测验]]（TTCT）、非常规用途测验（Alternative Uses Task, AUT）、连线测验。 |
+> | **创造过程**<br>（Creative Process） | 涵盖观念生成之外的复杂多阶段认知操作，包括[[Problem Finding\|问题发现]]、信息重构、顿悟、观念评估与选择等环节。 | [[Problem Finding\|问题发现]]任务（Problem Finding Tasks）、远距离联想测验（Remote Associates Test, RAT）、电子头脑风暴（Electronic Brainstorming, EBS）。 |
+> | **创造性成果**<br>（Creative Outcomes） | 个体产出的显性创造性产品或客观成就，由外部专家主观评定或依据客观社会记录衡量。 | [[Consensual Assessment Technique\|同感评估技术]]（Consensual Assessment Technique, CAT）、[[Creative Achievement Questionnaire\|自陈创造性成就问卷]]（Creative Achievement Questionnaire, CAQ）、专利与出版物。 |
+> | **总体创造力**<br>（Overall Creativity） | 未明确区分过程与成果、或采用综合测评套件获取的宽泛创造力总分指标。 | [[Runco Ideational Behavior Scale\|伦科观念行为量表]]（Runco Ideational Behavior Scale, RIBS）、综合创造潜能评估包、教师综合创造力[[Rating Scale\|评定量表]]。 |
 > | **人口学背景**<br>（Background Variables） | 个体的生物学与社会人口统计学静态或宏观特征。 | 年龄、性别、社会经济地位（Socioeconomic Status, SES）、年级水平。 |
-> | **认知相关因素**<br>（Cognitive Correlates） | 与信息加工、逻辑推理、知识存储与注意控制相关的基础智力与认知能力。 | 智商测验（Intelligence Quotient, IQ）与[[Threshold Hypothesis|智力门槛假说]]检验、[[Working Memory|工作记忆]]广度、[[Executive Function|执行功能]]任务、流体智力、注意力控制。 |
-> | **外认知相关因素**<br>（Extracognitive Correlates） | 情绪与心境状态、大五人格特质、动机倾向与创造性自我信念等非认知心理特征。 | 大五人格量表（经验开放性、外向性）、内在动机构念、心境诱发、[[Creative Self-Efficacy|创造性自我效能感]]（Creative Self-Efficacy, CSE）。 |
-> | **干预与教育教学**<br>（Intervention / Education） | 旨在提升创造思维与解决问题能力的[[Structured Teaching|结构化教学]]方案、[[Creativity Training|课程训练]]、教学法或显性指导语。 | [[Creative Problem Solving|创造性问题解决模型]]（CPS）、普渡创造性思维计划（Purdue Creative Thinking Program, PCTP）、问题驱动教学法（PBL）、跨学科科学、技术、工程、艺术与数学教学（Science, Technology, Engineering, Arts, and Mathematics, STEAM）、显性原创性指导语。 |
+> | **认知相关因素**<br>（Cognitive Correlates） | 与信息加工、逻辑推理、知识存储与注意控制相关的基础智力与认知能力。 | 智商测验（Intelligence Quotient, IQ）与[[Threshold Hypothesis\|智力门槛假说]]检验、[[Working Memory\|工作记忆]]广度、[[Executive Function\|执行功能]]任务、流体智力、注意力控制。 |
+> | **外认知相关因素**<br>（Extracognitive Correlates） | 情绪与心境状态、大五人格特质、动机倾向与创造性自我信念等非认知心理特征。 | 大五人格量表（经验开放性、外向性）、内在动机构念、心境诱发、[[Creative Self-Efficacy\|创造性自我效能感]]（Creative Self-Efficacy, CSE）。 |
+> | **干预与教育教学**<br>（Intervention / Education） | 旨在提升创造思维与解决问题能力的[[Structured Teaching\|结构化教学]]方案、[[Creativity Training\|课程训练]]、教学法或显性指导语。 | [[Creative Problem Solving\|创造性问题解决模型]]（CPS）、普渡创造性思维计划（Purdue Creative Thinking Program, PCTP）、问题驱动教学法（PBL）、跨学科科学、技术、工程、艺术与数学教学（Science, Technology, Engineering, Arts, and Mathematics, STEAM）、显性原创性指导语。 |
 > | **即时情境影响**<br>（Immediate Influence） | 测评或任务执行过程中的即时环境诱因、情境压力与外部交互线索。 | 评价威胁、时间限制、竞争氛围、外部奖励机制、多媒体环境线索。 |
-> | **研究设计**<br>（Study Design） | 原始一阶实证研究所采用的研究架构（考察自然状态关联或实验操纵效应）。 | 相关设计（自然关联横截面/追踪） vs 比较设计（实验组/控制组[[Pre-test and Post-test|前-后测]]）。 |
-> | **方法学质量**<br>（Methodological Quality） | 基于[[AMSTAR|系统评价方法学质量评估工具]]（A MeaSurement Tool to Assess systematic Reviews, AMSTAR）12 项准则评定的一阶元分析规范度与偏倚控制水平。 | 高质量（AMSTAR 得分 $\ge 0.75$，至少满足 9 项） vs 非高质量。 |
+> | **研究设计**<br>（Study Design） | 原始一阶实证研究所采用的研究架构（考察自然状态关联或实验操纵效应）。 | 相关设计（自然关联横截面/追踪） vs 比较设计（实验组/控制组[[Pre-test and Post-test\|前-后测]]）。 |
+> | **方法学质量**<br>（Methodological Quality） | 基于[[AMSTAR\|系统评价方法学质量评估工具]]（A MeaSurement Tool to Assess systematic Reviews, AMSTAR）12 项准则评定的一阶元分析规范度与偏倚控制水平。 | 高质量（AMSTAR 得分 $\ge 0.75$，至少满足 9 项） vs 非高质量。 |
 >
 > **图表解读** 本表系统界定了[[Meta-meta-analysis|二阶元分析]]所涵盖的全部 13 个核心变量与调节因素的操作化定义、测量范式及代表性实证研究工具，为理解二阶统计建模、亚组[[Heterogeneity|异质性]]与跨模型比较提供了统一的概念基准。（pp. 3–5）
 
@@ -179,15 +179,15 @@ issuing_organization: ""
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **文献检索与筛选**<br>[[Meta-meta-analysis]] | 检索五个大型数据库与博硕士论文库，人工检索专业期刊与灰色[[Document|文献]]，经系统评价和荟萃分析优先报告条目声明（Preferred Reporting Items for Systematic Reviews and Meta-Analyses, PRISMA）流程筛选出 52 项符合标准的一阶[[Meta-analysis|元分析]]。（pp. 3–4） |
-> | **方法学质量评价**<br>[[AMSTAR]] | 采用系统评价方法学质量评估工具（AMSTAR）改编的 12 项规程评估一阶元分析质量（双人独立[[Coding in Qualitative Research|编码]]一致率 97%），以得分达到 0.75（至少满足 9 项标准）作为高质量指示[[Variable|变量]]。（p. 4） |
+> | **文献检索与筛选**<br>[[Meta-meta-analysis]] | 检索五个大型数据库与博硕士论文库，人工检索专业期刊与灰色[[Document\|文献]]，经系统评价和荟萃分析优先报告条目声明（Preferred Reporting Items for Systematic Reviews and Meta-Analyses, PRISMA）流程筛选出 52 项符合标准的一阶[[Meta-analysis\|元分析]]。（pp. 3–4） |
+> | **方法学质量评价**<br>[[AMSTAR]] | 采用系统评价方法学质量评估工具（AMSTAR）改编的 12 项规程评估一阶元分析质量（双人独立[[Coding in Qualitative Research\|编码]]一致率 97%），以得分达到 0.75（至少满足 9 项标准）作为高质量指示[[Variable\|变量]]。（p. 4） |
 > | **效应量转换与正态化**<br>[[Effect Size Conversion]] | 将各类一阶效应指标统一转换为皮尔逊相关系数 $r$，并进一步进行费舍尔 $z$ 正态化转换；计算加权效应后再逆转换为 $r$ 呈现。（p. 5） |
-> | **多水平统计建模与方差校正**<br>[[Robust Variance Estimation]] | 采用[[Correlated and Hierarchical Effects Model|相关与层级效应模型]]（Correlated and Hierarchical Effects Model, CHE，设定集群内相关系数为 0.8）与稳健方差估计（RVE）计算稳健标准误与小样本 $F$ 检验；运用多水平改进艾格回归检验并校正小研究效应。（p. 6） |
+> | **多水平统计建模与方差校正**<br>[[Robust Variance Estimation]] | 采用[[Correlated and Hierarchical Effects Model\|相关与层级效应模型]]（Correlated and Hierarchical Effects Model, CHE，设定集群内相关系数为 0.8）与稳健方差估计（RVE）计算稳健标准误与小样本 $F$ 检验；运用多水平改进艾格回归检验并校正小研究效应。（p. 6） |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |----------|------|
-> | **元分析与[[Effect Size|效应量]]样本** | 52 项一阶元分析，包含 164 个一阶效应量；涵盖 2,609 项主要实证研究，16,153 个原始效应量。（pp. 2, 5） |
+> | **元分析与[[Effect Size\|效应量]]样本** | 52 项一阶元分析，包含 164 个一阶效应量；涵盖 2,609 项主要实证研究，16,153 个原始效应量。（pp. 2, 5） |
 > | **参与者样本** | 累计覆盖 1,248,416 名研究被试；单项一阶元分析平均汇总约 50 项研究、323 个原始效应量与 24,968 名被试。（pp. 2, 5–6） |
 > | **时间跨度与设计** | 纳入 1980 年 1 月 1 日至 2023 年 8 月 1 日发表的文献；34 项为相关设计，18 项为比较或实验设计。（pp. 3–4） |
 
@@ -230,25 +230,25 @@ issuing_organization: ""
 > [!seq-table]- 表 1：AMSTAR 12 项方法学质量评估准则
 > | 评估维度 | 准则核心内容与检验要求 |
 > |---|---|
-> | 先验方案设计 | [[Research Question|研究问题]]与纳入标准是否在综述开展前预先注册？ |
+> | 先验方案设计 | [[Research Question\|研究问题]]与纳入标准是否在综述开展前预先注册？ |
 > | 双人重复提取 | 是否进行独立重复筛选提取，并具备分歧协商程序？ |
 > | 全面文献检索 | 是否检索至少两个数据库，明确关键词、检索式与整体策略？ |
 > | 纳入灰色文献 | 检索是否涵盖未出版报告，未仅凭发表状态排除文献？ |
 > | 纳入研究清单 | 是否在正文或参考文献中明确提供选定研究清单？ |
-> | 研究特征呈现 | 是否以汇总表格或[[Forest Plot|森林图]]提供研究[[Variable|变量]]、干预与结果特征？ |
+> | 研究特征呈现 | 是否以汇总表格或[[Forest Plot\|森林图]]提供研究[[Variable\|变量]]、干预与结果特征？ |
 > | 科学质量评估 | 是否详细评估并记录纳入研究的方法学科学质量？ |
 > | 质量结果应用 | 原始研究质量得分是否在结论或调节分析中恰当使用？ |
-> | 统计合并模型 | 用于合并结果的方法是否恰当（[[Heterogeneity|异质性]]检验、多水平随机效应）？ |
-> | 不确定性报告 | 效应量是否完整报告置信区间、可信区间或[[Standard Error|标准误]]（Standard Error, SE）？ |
-> | [[Publication Bias|发表偏倚]]检验 | 是否通过[[Funnel Plot|漏斗图]]、艾格回归等评估潜在发表偏倚？ |
-> | [[Conflict of Interest in Research|利益冲突]]声明 | 是否明确列出资金资助来源与无潜在利益冲突声明？ |
+> | 统计合并模型 | 用于合并结果的方法是否恰当（[[Heterogeneity\|异质性]]检验、多水平随机效应）？ |
+> | 不确定性报告 | 效应量是否完整报告置信区间、可信区间或[[Standard Error\|标准误]]（Standard Error, SE）？ |
+> | [[Publication Bias\|发表偏倚]]检验 | 是否通过[[Funnel Plot\|漏斗图]]、艾格回归等评估潜在发表偏倚？ |
+> | [[Conflict of Interest in Research\|利益冲突]]声明 | 是否明确列出资金资助来源与无潜在利益冲突声明？ |
 >
 > **图表解读** 本表呈现了用于评估 52 项一阶元分析科学规范度的 12 项 AMSTAR 评估指标。每项指标按满足（1 分）与未满足（0 分）进行二分类独立双盲编码（评定者间一致性达到 97%）。以得分达到 0.75（即至少满足 9 项准则）作为高质量元分析判定阈值。统计检验显示，方法学质量未对综合效应量产生显著调节影响（$F(1, 12.9) = 0.97, p = .34$），表明纳入研究在不同质量等级下均展现出一致稳健的实证效应。（pp. 4–6）
 
 > [!ref-table]- 表 3：调节变量亚组分析与[[Prediction Interval|预测区间]]
-> | 调节变量与亚组分类 | 估计效应量 | 95% 置信区间（CI） | 95% [[Prediction Interval|预测区间]]（Prediction Interval, PI） |
+> | 调节变量与亚组分类 | 估计效应量 | 95% 置信区间（CI） | 95% [[Prediction Interval\|预测区间]]（Prediction Interval, PI） |
 > |---|---|---|---|
-> | **变量角色（[[Dependent Variable|效标变量]] vs [[Independent Variable|预测变量]]）** | | | |
+> | **变量角色（[[Dependent Variable\|效标变量]] vs [[Independent Variable\|预测变量]]）** | | | |
 > | 创造力作为效标结果变量 | .12 | [.05, .19] | [−.25, .47] |
 > | 创造力作为预测变量 | .29 | [.18, .41] | [−.10, .61] |
 > | **研究设计** | | | |
@@ -257,7 +257,7 @@ issuing_organization: ""
 > | **创造力测量类型** | | | |
 > | 创造性成果 | .12 | [−.02, .26] | [−.28, .49] |
 > | 创造过程 | .27 | [.10, .43] | [−.17, .62] |
-> | [[Divergent Thinking|发散思维]] | .14 | [.04, .24] | [−.25, .50] |
+> | [[Divergent Thinking\|发散思维]] | .14 | [.04, .24] | [−.25, .50] |
 > | 总体创造力 | .10 | [.01, .19] | [−.29, .46] |
 > | **相关因素类型** | | | |
 > | 人口学背景 | .07 | [−.10, .25] | [−.38, .49] |
@@ -315,12 +315,12 @@ issuing_organization: ""
 >
 > | 变量与模型 | 估计值 | 标准误（SE） | 95% 置信区间（CI） | $p$ 值 |
 > |---|---|---|---|---|
-> | **模型 1（过程与[[Divergent Thinking|发散思维]]分离）** | | | | |
+> | **模型 1（过程与[[Divergent Thinking\|发散思维]]分离）** | | | | |
 > | 截距项 | −0.03 | 0.10 | [−0.25, 0.19] | 0.75 |
 > | 创造力作为预测变量 | 0.18 | 0.06 | [0.06, 0.30] | 0.01 |
 > | 相关设计 | 0.07 | 0.06 | [−0.05, 0.20] | 0.24 |
 > | 创造过程 | 0.16 | 0.11 | [−0.09, 0.41] | 0.19 |
-> | [[Divergent Thinking|发散思维]] | 0.02 | 0.07 | [−0.11, 0.16] | 0.71 |
+> | [[Divergent Thinking\|发散思维]] | 0.02 | 0.07 | [−0.11, 0.16] | 0.71 |
 > | 总体创造力 | −0.02 | 0.07 | [−0.16, 0.11] | 0.73 |
 > | 认知相关因素 | 0.04 | 0.07 | [−0.11, 0.20] | 0.55 |
 > | 外认知相关因素 | 0.07 | 0.07 | [−0.10, 0.24] | 0.37 |
@@ -368,16 +368,16 @@ issuing_organization: ""
 > [!contrast-table] 综合创造过程测量 vs 单一发散思维测验
 > | 比较维度 | 综合创造过程 | 单一发散思维测验 |
 > |---|---|---|
-> | **测量[[Paradigm|范式]]** | 涵盖问题发现、酝酿、顿悟、[[Cognitive Shifting|认知灵活性]]与方案重构等多阶段整合任务 | 局限于非常规用途测验、托兰斯测试等观念生成任务 |
+> | **测量[[Paradigm\|范式]]** | 涵盖问题发现、酝酿、顿悟、[[Cognitive Shifting\|认知灵活性]]与方案重构等多阶段整合任务 | 局限于非常规用途测验、托兰斯测试等观念生成任务 |
 > | **二阶效应量** | $r = 0.27$（95% 置信区间 $[0.10, 0.43]$，95% 预测区间 $[-0.17, 0.62]$） | $r = 0.14$（95% 置信区间 $[0.04, 0.24]$，95% 预测区间 $[-0.25, 0.50]$） |
 > | **元回归系数** | 模型 1 中 $\beta = 0.16, p = .19$；模型 2 整合后 $\beta = 0.08, p = .31$ | 模型 1 中 $\beta = 0.02, p = .71$ |
-> | **理论机制** | 过程变量整合了更多认知加工信息，能更完整地反映创造性解决复杂问题的实际潜能 | 仅作为创造潜能的构件之一，无法涵盖观念评估与[[Problem Finding|问题发现]]的全部变异 |
+> | **理论机制** | 过程变量整合了更多认知加工信息，能更完整地反映创造性解决复杂问题的实际潜能 | 仅作为创造潜能的构件之一，无法涵盖观念评估与[[Problem Finding\|问题发现]]的全部变异 |
 
 > [!framework-table] 创造力干预与教育教学的主要范式与量化效应量
 > | 干预范式 | 核心机制与教学策略 | 代表性模型与元分析量化效应 |
 > |---|---|---|
 > | **结构化认知训练课程** | 显性讲授系统化认知启发式策略，传授问题重构与概念搜索工具 | CPS 复合训练包 **$d = 0.74–0.77$**（Scott et al., 2004; Ma, 2006）；PCTP 方案 **$d = 0.47–0.63$**（Rose & Lin, 1984） |
-> | **[[Constructivist Paradigm|建构主义]]探究教学** | 嵌入学科与跨学科真实劣构情境，通过自主探究与原型制作驱动深度加工 | 数学 PBL 教学 **$g = 0.87$**（Yunita et al., 2020）；跨学科 STEAM **$g = 0.76$**（Suganda et al., 2021）；协作探究 **$g = 0.72$** |
+> | **[[Constructivist Paradigm\|建构主义]]探究教学** | 嵌入学科与跨学科真实劣构情境，通过自主探究与原型制作驱动深度加工 | 数学 PBL 教学 **$g = 0.87$**（Yunita et al., 2020）；跨学科 STEAM **$g = 0.76$**（Suganda et al., 2021）；协作探究 **$g = 0.72$** |
 > | **任务框架与显式指导语** | 在任务呈现时通过明确指令即时定向注意资源分配，激活原创性目标 | 显式独创性指导语 **$g = 0.53$**（托兰斯图形测验 $g = 0.62$）（Acar, Runco & Park, 2020） |
 > | **技术中介与协作交互** | 借助数字化平台消除群体互动中的评价顾虑与发言轮流阻塞 | 电子头脑风暴大群体数量 **$d = 0.44$**、质量 **$d = 0.38$**（DeRosa et al., 2007; Ayutthaya & Damrongpanit, 2022） |
 > | **外认知与身心调节** | 降低习惯性思维定势与认知僵化，增强注意广度与情境视角采择 | 正念冥想 **$r = 0.22$**（开放监控 $r = 0.28$）（Lebuda et al., 2016）；戏剧训练 **$d = 0.42$**；酝酿期 **$d = 0.29–0.43$** |
@@ -409,8 +409,8 @@ issuing_organization: ""
 > |---|---|---|---|
 > | **教育项目与教学干预**<br>（Intervention / Education） | **$r = 0.20$**<br>95% CI $[0.10, 0.29]$<br>95% PI $[-0.20, 0.54]$ | 创造性问题解决复合包（$d = 0.74–0.77$）、普渡思维方案（$d = 0.47–0.63$）、数学与科学问题驱动教学（$g = 0.87$）、STEAM 项目（$g = 0.76$）及显式指导语（$g = 0.53$）。 | 统计显著不为 0，位列所有外部相关因素第一；证实创造潜能具有高度的教育可塑性与教学响应度，彻底破除创造力纯属天赋不可教的宿命论。（p. 7） |
 > | **即时情境与环境影响**<br>（Immediate Influences） | **$r = 0.15$**<br>95% CI $[-0.07, 0.35]$<br>95% PI $[-0.35, 0.59]$ | 支持型领导（$r \approx 0.31$）、组织创新气候（$r \approx 0.22–0.30$）、团队认知多样性（$r \approx 0.16–0.26$）与挑战性任务压力。 | 呈现中等关联系数，但由于不同组织形态与具体任务情境间异质性极大导致置信区间跨越 0；外部情境是激活潜能的即时催化剂，但须以心理安全感为前提。（p. 8） |
-> | **外认知与心理倾向因素**<br>（Extracognitive Correlates） | **$r = 0.14$**<br>95% CI $[0.06, 0.22]$<br>95% PI $[-0.24, 0.49]$ | 创造力[[Self-Efficacy|自我效能感]]（$r = 0.29–0.39$）、好奇心（$r = 0.30$）、内在动机（$r = 0.28–0.32$）、经验开放性特质（$r \approx 0.25–0.30$）、积极高唤醒心境（$r \approx 0.16–0.24$）与正念（$r = 0.22$）。 | 统计显著稳定不为 0，效应强度与认知因素相当（$0.14$ vs $0.12$）；证实创造力绝非纯粹冷认知，动机、情绪与自我信念构成了创造表现的核心心理动力引擎。（p. 9） |
-> | **认知基础与思维加工能力**<br>（Cognitive Correlates） | **$r = 0.12$**<br>95% CI $[0.04, 0.19]$<br>95% PI $[-0.27, 0.47]$ | 远距离联想与语义距离（$r = 0.23$）、基础智力与智商（$r \approx 0.17–0.22$）、心理表象能力（$r \approx 0.19–0.27$）、酝酿与顿悟解决（$d = 0.29–0.43$）及低潜抑制。 | 统计显著稳定不为 0，为复杂重构提供信息加工支持；基础认知是创造力的必要非[[Necessary and Sufficient Conditions|充分条件]]，智力无法单独决定创造力表现。（p. 6） |
+> | **外认知与心理倾向因素**<br>（Extracognitive Correlates） | **$r = 0.14$**<br>95% CI $[0.06, 0.22]$<br>95% PI $[-0.24, 0.49]$ | 创造力[[Self-Efficacy\|自我效能感]]（$r = 0.29–0.39$）、好奇心（$r = 0.30$）、内在动机（$r = 0.28–0.32$）、经验开放性特质（$r \approx 0.25–0.30$）、积极高唤醒心境（$r \approx 0.16–0.24$）与正念（$r = 0.22$）。 | 统计显著稳定不为 0，效应强度与认知因素相当（$0.14$ vs $0.12$）；证实创造力绝非纯粹冷认知，动机、情绪与自我信念构成了创造表现的核心心理动力引擎。（p. 9） |
+> | **认知基础与思维加工能力**<br>（Cognitive Correlates） | **$r = 0.12$**<br>95% CI $[0.04, 0.19]$<br>95% PI $[-0.27, 0.47]$ | 远距离联想与语义距离（$r = 0.23$）、基础智力与智商（$r \approx 0.17–0.22$）、心理表象能力（$r \approx 0.19–0.27$）、酝酿与顿悟解决（$d = 0.29–0.43$）及低潜抑制。 | 统计显著稳定不为 0，为复杂重构提供信息加工支持；基础认知是创造力的必要非[[Necessary and Sufficient Conditions\|充分条件]]，智力无法单独决定创造力表现。（p. 6） |
 > | **人口学与社会背景变量**<br>（Background Variables） | **$r = 0.07$**<br>95% CI $[-0.10, 0.25]$<br>95% PI $[-0.38, 0.49]$ | 性别差异（$r \approx 0.02–0.05$）、出生顺序、家庭规模与宏观社会经济地位。 | 效应最为微弱且置信区间包含 0（统计不显著）；强力支持全民创造潜能观，证实创造潜能非特定阶层或特权群体所专属。（pp. 7–8） |
 
 > [!evidence-grid] 支持创造力教育干预有效性的一阶元分析实证证据

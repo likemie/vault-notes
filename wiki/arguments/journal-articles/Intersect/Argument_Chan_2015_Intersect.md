@@ -97,7 +97,7 @@ issuing_organization: ""
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **[[Informationalism]]**<br>[[Manuel Castells]] | 区分两种本质不同的发展模式。工业化（industrialism）依赖重工业物质投入的线性扩张，即钢铁、水泥、石油等重工业产品；[[Informationalization|信息化]]（informationalism）依赖基于知识和信息优化生产要素组合与使用的质化能力。成功完成前者不自动导向后者。 |
+> | **[[Informationalism]]**<br>[[Manuel Castells]] | 区分两种本质不同的发展模式。工业化（industrialism）依赖重工业物质投入的线性扩张，即钢铁、水泥、石油等重工业产品；[[Informationalization\|信息化]]（informationalism）依赖基于知识和信息优化生产要素组合与使用的质化能力。成功完成前者不自动导向后者。 |
 > | **[[Soviet Statism]]** | 国家主义社会系统围绕国家机器权力持有者对社会经济剩余的占有而组织（Castells, 2011）。与资本主义追求利润最大化不同，国家主义追求国家机器权力最大化。在苏联表现为党对国家、国家对社会的全面控制，通过中央计划经济以马克思列宁主义意识形态为支撑。 |
 
 Castells 的框架将技术发展嵌入社会制度结构中理解：信息革命所要求的社会组织方式（分散决策、水平协作、信息共享）本身就对特定政治经济体制构成了选择压力。苏联的案例说明，一个国家可以拥有充足的科学家、工程师和物质资源，但如果制度结构系统性地抑制信息流动和创新激励，就无法完成从工业化到[[Informationalization|信息化的]]转型。
@@ -108,7 +108,7 @@ Castells 的框架将技术发展嵌入社会制度结构中理解：信息革�
 > | **核心驱动力** | 物质投入规模（钢铁、水泥、石油） | 知识和信息优化生产要素组合的能力 |
 > | **组织方式** | 垂直指令、集中计划、资源动员 | 水平网络、分散决策、信息自由流动 |
 > | **创新模式** | 线性模型（x 投入 → c(x) 产出） | 演化模型（试错迭代、加速回报） |
-> | **制度兼容性** | 与中央计划体制兼容 | 与[[State Vertical|国家垂直结构]]和信息控制不兼容 |
+> | **制度兼容性** | 与中央计划体制兼容 | 与[[State Vertical\|国家垂直结构]]和信息控制不兼容 |
 
 ---
 ## 研究方法
@@ -116,8 +116,8 @@ Castells 的框架将技术发展嵌入社会制度结构中理解：信息革�
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **历史分析**<br>Historical Analysis | 基于对苏联经济、科技政策和制度结构的二手文献综合分析，以 Castells 的[[Informationalism|信息主义]]—[[Soviet Statism|国家主义]]框架组织证据。 |
-> | **[[Document|文献]]来源** | Castells 信息时代三部曲；苏联科技史（Graham, 1990; Fortescue, 1986; Josephson, 1991, 1998）；苏联经济分析（Goldman, 1983）；美国情报部门技术评估（Office of Scientific and Weapons Research, 1986）；冷战史（Lundestad, 2000; Beissinger, 2002） |
+> | **历史分析**<br>Historical Analysis | 基于对苏联经济、科技政策和制度结构的二手文献综合分析，以 Castells 的[[Informationalism\|信息主义]]—[[Soviet Statism\|国家主义]]框架组织证据。 |
+> | **[[Document\|文献]]来源** | Castells 信息时代三部曲；苏联科技史（Graham, 1990; Fortescue, 1986; Josephson, 1991, 1998）；苏联经济分析（Goldman, 1983）；美国情报部门技术评估（Office of Scientific and Weapons Research, 1986）；冷战史（Lundestad, 2000; Beissinger, 2002） |
 
 该文是一篇历史分析性论文，通过理论[[Framework Synthesis|框架综合]]已有研究证据，对苏联技术落后提出结构性解释。非实证研究，属思辨—综合类文献。
 

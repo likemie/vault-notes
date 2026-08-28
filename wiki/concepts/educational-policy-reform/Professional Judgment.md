@@ -85,12 +85,12 @@ updated: 2026-08-26
 ## 概念辨析
 
 > [!contrast-table] 专业判断与技术执行的对照
-> | 维度 | [[Professional Judgment|专业判断]] | 技术化执行（Technocratic Implementation） |
+> | 维度 | [[Professional Judgment\|专业判断]] | 技术化执行（Technocratic Implementation） |
 > |------|--------|----------------|
-> | **证据角色** | 作为概率性资源，需要情境化解释和权衡 | 作为行政指令或最佳[[Praxis|实践]]，必须忠实遵循 |
+> | **证据角色** | 作为概率性资源，需要情境化解释和权衡 | 作为行政指令或最佳[[Praxis\|实践]]，必须忠实遵循 |
 > | **教育目标** | 关注"为了什么目的（to what ends）"与民主协商 | 关注"什么有效（what works）"与技术传递效率 |
 > | **教师定位** | 拥有自主权和反思能力的专业人员（Professional） | 接受数据审计的流水线装配工人（Technician） |
-> | **系统[[Hypothesis|假设]]** | 学校是开放、复杂、充满主体能动性的系统 | 学校是封闭、可控、输入-输出的实验室系统 |
+> | **系统[[Hypothesis\|假设]]** | 学校是开放、复杂、充满主体能动性的系统 | 学校是封闭、可控、输入-输出的实验室系统 |
 
 > [!term] 与相近概念的区分
 > - **vs [[Evidence-Informed Practice|证据知情实践]]（EIP）** — EIP 是证据进入决策的取向，专业判断是 EIP 四源整合（判断、系统数据、课堂数据、研究证据）的枢纽与枢纽能力([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p.129]])。
@@ -188,9 +188,9 @@ updated: 2026-08-26
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **证据的概率性** | 效应量只是概率分布，须经判断转化为情境行动 | 教学决策、证据使用 | [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]]; Pawson (2006) |
-> | **数字治理侵蚀** | 审计文化去专业化，挤压判断空间 | 政策评估、学校改进 | [[Argument_Wrigley_2018_BERJ|Wrigley (2018, pp.4, 16)]]; [[Argument_Biesta_2010_SPE|Biesta (2010)]] |
-> | **EIP 枢纽地位** | 判断是四源整合枢纽，与严谨证据并存 | 证据知情实践 | [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] |
+> | **证据的概率性** | 效应量只是概率分布，须经判断转化为情境行动 | 教学决策、证据使用 | [[Argument_Wrigley_2018_BERJ\|Wrigley (2018)]]; Pawson (2006) |
+> | **数字治理侵蚀** | 审计文化去专业化，挤压判断空间 | 政策评估、学校改进 | [[Argument_Wrigley_2018_BERJ\|Wrigley (2018, pp.4, 16)]]; [[Argument_Biesta_2010_SPE\|Biesta (2010)]] |
+> | **EIP 枢纽地位** | 判断是四源整合枢纽，与严谨证据并存 | 证据知情实践 | [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]] |
 
 ---
 
@@ -211,12 +211,12 @@ updated: 2026-08-26
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | [[Variable|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p.132]] | 特刊论文与更广 [[Evidence-Informed Practice|EIP]] [[Document|文献]] | 特刊导言综合 | 教育者最常使用的证据来源 | 多来自专业经验与同事，而非原始研究 | — | 支撑专业经验在判断中的核心地位 |
-> | [[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p.130]] 转述 Cooper et al. | 教师群体，课堂评估信息获取 | 访谈为主 | 教师获取信息渠道 | 教师主要从其他教师获取评估实践信息 | — | 专业间传播主导证据流动 |
-> | [[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.122-123]] | 马里兰州[[Students and Teachers Accessing Tomorrow|STAT]] 技术改革项目 | [[Formative Program Evaluation|形成性项目评价]]案例 | 不同决策者对同一评估结果的解读 | 校董、校长与教师依据专业判断给出不同解读 | — | 专业判断在评价解释中的持续作用 |
-> | [[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p.12]] | 英国学校预算缩减 | 实证案例分析 | [[Education Endowment Foundation|EEF]] 工具包效应量排行的使用 | 因盲信扁平化排行误裁教学助理 | — | 抹杀专业判断的技术官僚决策的破坏性后果 |
+> | [[Argument_Nelson_2017_ER\|Nelson & Campbell, 2017, p.132]] | 特刊论文与更广 [[Evidence-Informed Practice\|EIP]] [[Document\|文献]] | 特刊导言综合 | 教育者最常使用的证据来源 | 多来自专业经验与同事，而非原始研究 | — | 支撑专业经验在判断中的核心地位 |
+> | [[Argument_Nelson_2017_ER\|Nelson & Campbell, 2017, p.130]] 转述 Cooper et al. | 教师群体，课堂评估信息获取 | 访谈为主 | 教师获取信息渠道 | 教师主要从其他教师获取评估实践信息 | — | 专业间传播主导证据流动 |
+> | [[Argument_Ross_Morrison_2021_ROE\|Ross & Morrison, 2021, pp.122-123]] | 马里兰州[[Students and Teachers Accessing Tomorrow\|STAT]] 技术改革项目 | [[Formative Program Evaluation\|形成性项目评价]]案例 | 不同决策者对同一评估结果的解读 | 校董、校长与教师依据专业判断给出不同解读 | — | 专业判断在评价解释中的持续作用 |
+> | [[Argument_Wrigley_2018_BERJ\|Wrigley, 2018, p.12]] | 英国学校预算缩减 | 实证案例分析 | [[Education Endowment Foundation\|EEF]] 工具包效应量排行的使用 | 因盲信扁平化排行误裁教学助理 | — | 抹杀专业判断的技术官僚决策的破坏性后果 |
 
 ---
 

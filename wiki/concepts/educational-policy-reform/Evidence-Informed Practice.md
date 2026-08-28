@@ -91,11 +91,11 @@ updated: 2026-08-26
 ## 概念辨析
 
 > [!contrast-table] 概念辨析
-> | 维度 | 证据知情实践（EIP） | [[Evidence-Based Education|证据本位教育]]（EBE） | [[Research-Informed Teaching Practice|研究知情教学实践]]（RITP） | [[Data-Based Decision Making|基于数据的决策]]（DBDM） |
+> | 维度 | 证据知情实践（EIP） | [[Evidence-Based Education\|证据本位教育]]（EBE） | [[Research-Informed Teaching Practice\|研究知情教学实践]]（RITP） | [[Data-Based Decision Making\|基于数据的决策]]（DBDM） |
 > |------|----------------|----------------|----------------|----------------|
 > | 证据地位 | 多种因素之一 | 决策中心 | 研究依据 | 数据依据 |
 > | 证据来源 | 研究＋数据＋专业经验 | 研究（尤其实验） | 学术研究 | 校内/系统数据 |
-> | 决策机制 | [[Professional Judgment|专业判断]]整合 | 证据驱动 | 研究指导实践 | 数据指导调整 |
+> | 决策机制 | [[Professional Judgment\|专业判断]]整合 | 证据驱动 | 研究指导实践 | 数据指导调整 |
 > | 与专业判断的关系 | 判断是枢纽 | 判断从属于证据 | 研究提供依据，判断仍在场 | 数据提供信号，判断仍在场 |
 
 > [!term] 研究 vs 证据 vs 研究本位
@@ -192,7 +192,7 @@ updated: 2026-08-26
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **多源整合** | 证据是多种决策资源之一，专业判断为枢纽 | EIP 的定义与实践 | [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] |
+> | **多源整合** | 证据是多种决策资源之一，专业判断为枢纽 | EIP 的定义与实践 | [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]] |
 > | **证据合法性** | 实验黄金标准与实践本位证据并存 | "谁的证据算数"争论 | Goldacre (2013); Bredo (2006); Bryk (2015) |
 > | **系统条件** | 知识动员四类策略决定 EIP 成败 | 学校与系统改进 | Roberts (2015); CUREE (2011) |
 > | **成果测量** | 中间与长期成果并用 | EIP 成效评价 | Wentworth et al.（本特刊） |
@@ -217,14 +217,14 @@ updated: 2026-08-26
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | [[Variable|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p.130]] 转述 Cooper et al. | 教师群体，课堂评估实践信息获取 | 访谈为主 | 教师获取信息的主要渠道 | 教师主要从其他教师获取评估实践信息 | — | 反映教师间传播在证据流动中的主导地位 |
+> | [[Argument_Nelson_2017_ER\|Nelson & Campbell, 2017, p.130]] 转述 Cooper et al. | 教师群体，课堂评估实践信息获取 | 访谈为主 | 教师获取信息的主要渠道 | 教师主要从其他教师获取评估实践信息 | — | 反映教师间传播在证据流动中的主导地位 |
 > | 同上 转述 LaPointe-McEwan et al. | 教师证据使用 | 实证研究 | 证据来源使用频率 | 实践来源证据的使用比原始研究更普遍 | — | 即使主动发展证据使用亦然 |
-> | 同上 转述 CUREE (2011) | 英格兰实践者参与研究 | [[Systematic Review|系统综述]] | 实践者参与研究程度 | 参与日益普遍，但仍"路漫漫其修远" | — | 对教学实践与学习有潜在益处，未成专业常态 |
-> | [[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p.131]] 转述 Dagenais et al. (2012) | EIP 成效实证[[Document|文献]] | 实证证据综述 | EIP 影响与收益证据量 | 证据稀少 | — | 需更严格定性与定量评价 |
-> | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] | 109 项学校[[Research Utilization|研究使用]]实证研究，来自 28 个国家 | [[Systematic Review|系统综述]]＋框架综合 | 研究使用方式分布 | 以象征性与工具性使用为主，深思熟虑参与相对罕见；研究常为三方[[Dialogue in Education|对话]]中的"第三声音" | — | 支持从实施转向整合 |
-> | [[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.120-121]] | 教育产品消费者（学校决策者） | 调查 | 决策信息渠道偏好 | 偏好同伴推荐与本地试点，而非正式研究证据 | — | 这些渠道提供实施、成本与使用体验信息 |
+> | 同上 转述 CUREE (2011) | 英格兰实践者参与研究 | [[Systematic Review\|系统综述]] | 实践者参与研究程度 | 参与日益普遍，但仍"路漫漫其修远" | — | 对教学实践与学习有潜在益处，未成专业常态 |
+> | [[Argument_Nelson_2017_ER\|Nelson & Campbell, 2017, p.131]] 转述 Dagenais et al. (2012) | EIP 成效实证[[Document\|文献]] | 实证证据综述 | EIP 影响与收益证据量 | 证据稀少 | — | 需更严格定性与定量评价 |
+> | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] | 109 项学校[[Research Utilization\|研究使用]]实证研究，来自 28 个国家 | [[Systematic Review\|系统综述]]＋框架综合 | 研究使用方式分布 | 以象征性与工具性使用为主，深思熟虑参与相对罕见；研究常为三方[[Dialogue in Education\|对话]]中的"第三声音" | — | 支持从实施转向整合 |
+> | [[Argument_Ross_Morrison_2021_ROE\|Ross & Morrison, 2021, pp.120-121]] | 教育产品消费者（学校决策者） | 调查 | 决策信息渠道偏好 | 偏好同伴推荐与本地试点，而非正式研究证据 | — | 这些渠道提供实施、成本与使用体验信息 |
 
 ---
 

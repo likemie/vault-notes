@@ -99,9 +99,9 @@ issuing_organization: ""
 > [!method-panel] [[Mixed Methods Research|混合方法]]设计（Mixed Method Research）
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **[[Questionnaire|问卷调查]]** | N=40，包含土耳其 15 所 [[International Baccalaureate|IB]] 授权学校的 DP 协调员、核心组件教师及管理者。使用[[Concurrency of Learning in the Core Questionnaire|并发学习问卷]]（Concurrency of Learning in the Core Questionnaire，CLCQ）收集人口统计数据，并通过[[Likert Scale|李克特量表]]和开放式问题评估参与者对[[Concurrency of Learning|并发学习]]的认知与[[Praxis|实践]]情况。 |
-> | **[[Focus Group|焦点小组]]** | N=7（5 名 DP 协调员，2 名管理者）。进行 40 分钟[[Semi-structured Interview|半结构化访谈]]，探讨并发学习的定义、促进策略、重要性、跨组件链接实例及实施困境。 |
-> | **分析策略** | 使用主题内容分析法（Thematic Content Analysis）[[Coding in Qualitative Research|编码]]访谈和问卷简答题；采用[[Descriptive Analysis|描述性统计分析]]定量问卷结果，以印证定性发现。 |
+> | **[[Questionnaire\|问卷调查]]** | N=40，包含土耳其 15 所 [[International Baccalaureate\|IB]] 授权学校的 DP 协调员、核心组件教师及管理者。使用[[Concurrency of Learning in the Core Questionnaire\|并发学习问卷]]（Concurrency of Learning in the Core Questionnaire，CLCQ）收集人口统计数据，并通过[[Likert Scale\|李克特量表]]和开放式问题评估参与者对[[Concurrency of Learning\|并发学习]]的认知与[[Praxis\|实践]]情况。 |
+> | **[[Focus Group\|焦点小组]]** | N=7（5 名 DP 协调员，2 名管理者）。进行 40 分钟[[Semi-structured Interview\|半结构化访谈]]，探讨并发学习的定义、促进策略、重要性、跨组件链接实例及实施困境。 |
+> | **分析策略** | 使用主题内容分析法（Thematic Content Analysis）[[Coding in Qualitative Research\|编码]]访谈和问卷简答题；采用[[Descriptive Analysis\|描述性统计分析]]定量问卷结果，以印证定性发现。 |
 
 ### 测量工具复刻
 
@@ -111,8 +111,8 @@ issuing_organization: ""
 > | 1 | 您如何定义并发学习？ |
 > | 2 | 如何在 DP 核心课程中促进并发学习？ |
 > | 3 | 为什么在核心课程中促进连贯性很重要？ |
-> | 4 | 贵校 DP 核心组件是如何相互链接的？（分别追问 [[Creativity, Action, Service|CAS]]与[[Theory of Knowledge|TOK]]、CAS与[[Extended Essay|EE]]、TOK与EE 的具体实例） |
-> | 5 | 贵校在[[Conatus|努力]]促进核心连贯性时遇到了哪些问题？如何解决？效果如何？ |
+> | 4 | 贵校 DP 核心组件是如何相互链接的？（分别追问 [[Creativity, Action, Service\|CAS]]与[[Theory of Knowledge\|TOK]]、CAS与[[Extended Essay\|EE]]、TOK与EE 的具体实例） |
+> | 5 | 贵校在[[Conatus\|努力]]促进核心连贯性时遇到了哪些问题？如何解决？效果如何？ |
 
 ---
 

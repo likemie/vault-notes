@@ -120,12 +120,12 @@ updated: 2026-08-27
 ## 概念辨析
 
 > [!contrast-table] 核心素养及相关概念辨析
-> | 维度 | 21 世纪技能与素养话语 ([[Single-Case Design|SCD]]) | [[Graduate Attributes|毕业生特质]] | 传统学科知识体系 |
+> | 维度 | 21 世纪技能与素养话语 ([[Single-Case Design\|SCD]]) | [[Graduate Attributes\|毕业生特质]] | 传统学科知识体系 |
 > |---|---|---|---|
-> | **运作[[Champ|场域]]** | [[Global Policy Space|全球政策空间]]、多边组织、跨国智库 | 高等院校内部课程治理与培养方案 | 基础学科院系、专业学术共同体 |
-> | **核心机制** | 经济不确定性修辞、标准化评估驱动 | 院校愿景[[Transfer Translation Transformation|转译]]、学习产出对齐 | 概念演进、[[Epistemology|认识论]]探究与[[Paradigm|范式]]训练 |
-> | **核心主体假定** | 自我负责、时刻升级的[[Self-Entrepreneur|自我企业家]] | 兼具专业素养与社会责任的合格毕业生 | 掌握特定学科范式与[[Big Ideas|大概念]]的学者/学徒 |
-> | **潜在实践危机** | [[Floating Signifier|漂浮能指]]运作、技能空心化、加剧不平等 | 机构修辞与院系落实脱节 | 事实[[Rote Learning|死记硬背]]过载、缺乏横向可迁移性 |
+> | **运作[[Champ\|场域]]** | [[Global Policy Space\|全球政策空间]]、多边组织、跨国智库 | 高等院校内部课程治理与培养方案 | 基础学科院系、专业学术共同体 |
+> | **核心机制** | 经济不确定性修辞、标准化评估驱动 | 院校愿景[[Transfer Translation Transformation\|转译]]、学习产出对齐 | 概念演进、[[Epistemology\|认识论]]探究与[[Paradigm\|范式]]训练 |
+> | **核心主体假定** | 自我负责、时刻升级的[[Self-Entrepreneur\|自我企业家]] | 兼具专业素养与社会责任的合格毕业生 | 掌握特定学科范式与[[Big Ideas\|大概念]]的学者/学徒 |
+> | **潜在实践危机** | [[Floating Signifier\|漂浮能指]]运作、技能空心化、加剧不平等 | 机构修辞与院系落实脱节 | 事实[[Rote Learning\|死记硬背]]过载、缺乏横向可迁移性 |
 
 ---
 
@@ -138,13 +138,13 @@ updated: 2026-08-27
 > - **沟通（Communication）** 多模态学术表达、向多元受众清晰传递复杂逻辑的思想表达能力。[[Argument_Zelinka_2022_SCD_subjectivity|(Zelinka, 2022, p. 257)]]
 
 > [!ref-table] 主要国际与前沿跨学科素养框架横向对比
-> | 框架名称（发布年） | 主导机构 / 来源 | 核心素养分类与集群 | [[Epistemology|认识论]]倾向与重点 |
+> | 框架名称（发布年） | 主导机构 / 来源 | 核心素养分类与集群 | [[Epistemology\|认识论]]倾向与重点 |
 > |---|---|---|---|
 > | **P21 框架 (2009)** | 美国 21 世纪技能伙伴组织 | 基础学科核心、4C 学习创新技能、信息媒体技术、生活职业技能 | 奠定 4C 技能作为全球通用最小公分母的基础 |
 > | **WEF 技能框架 (2016)** | 世界经济论坛 | 基础素养（读写/数理/ICT/财商）、能力（4C）、性格品质（好奇心/韧性） | 劳动力市场直接需求导向，强调适应性与灵活性 |
-> | **OECD Learning Compass 2030 (2019)** | [[OECD|经合组织]] | 变革性胜任力（创造新价值、调和张力、承担责任）、核心基础素养 | 强调学生能动性（Student Agency）与复合素养 |
-> | **[[European Qualifications Framework|欧洲资格框架]] (EQF, 2008/2017)** | 欧洲议会与欧盟理事会 | 知识、技能、自主与责任（6–8 级聚焦批判分析与前沿创新） | 具法律效力的区域文凭元框架，驱动成果本位课程改革 |
-> | **皇家学会交叉素养蓝图 (2026)** | 英国皇家学会 | [[Scientific Literacy|科学素养]]（证据评估）、[[Data Literacy|数据素养]]（风险概率）、[[AI Literacy|AI 素养]]、气候生态素养 | 纠正技能空心化，扎根于学科[[Big Ideas|大概念]]与面向 18 岁宽口径大纲（p. 31） |
+> | **OECD Learning Compass 2030 (2019)** | [[OECD\|经合组织]] | 变革性胜任力（创造新价值、调和张力、承担责任）、核心基础素养 | 强调学生能动性（Student Agency）与复合素养 |
+> | **[[European Qualifications Framework\|欧洲资格框架]] (EQF, 2008/2017)** | 欧洲议会与欧盟理事会 | 知识、技能、自主与责任（6–8 级聚焦批判分析与前沿创新） | 具法律效力的区域文凭元框架，驱动成果本位课程改革 |
+> | **皇家学会交叉素养蓝图 (2026)** | 英国皇家学会 | [[Scientific Literacy\|科学素养]]（证据评估）、[[Data Literacy\|数据素养]]（风险概率）、[[AI Literacy\|AI 素养]]、气候生态素养 | 纠正技能空心化，扎根于学科[[Big Ideas\|大概念]]与面向 18 岁宽口径大纲（p. 31） |
 
 ---
 
@@ -199,7 +199,7 @@ updated: 2026-08-27
 
 > [!claim] Bouckaert
 > **宏观能力宣示与微观评价实践的制度断裂** 尽管[[OECD|经合组织]]成员国几乎全员在国家资格框架（如 [[European Qualifications Framework|EQF]]、《[[Melbourne Declaration|墨尔本宣言]]》）中将创造力与批判性思维列为最高培养目标，但微观评价层面存在三重系统性阻碍：
-> 1. **大规模考试[[Construct|构念]]代表性不足** 入学与执业考试依赖多项选择题（MCQs），仅测预设选项“再认”而无法测量“主动生成”；
+> 1. **大规模考试[[Construct|构念]]代表性不足** 入学与执业考试依赖[[Multiple-Choice Questions|多项选择题]]（MCQs），仅测预设选项“再认”而无法测量“主动生成”；
 > 2. **课程模块化导致碎片化过度考核（Hyper-Assessment）** 学生三年需应付 60–80 项孤立测试，直接诱发应试[[Surface and Deep Learning|表层学习]]；
 > 3. **教师缺乏量规校准（Calibration）与[[Authentic Assessment|真实性评价]]素养** 导致表现性任务[[Reliability|信度]]难以维护。五大政策杠杆若不重塑微观考核，核心素养话语将沦为空泛的修辞宣示。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 4–5, 23–28)]]
 
@@ -210,11 +210,11 @@ updated: 2026-08-27
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **漂浮能指** | 概念抽象化促成全球政策同质化趋同 | [[Global Policy Space|全球政策空间]]、跨国组织议程分析 | [[Argument_Beech_2009_CE|Beech (2009)]]; [[Argument_Zelinka_2022_SCD_subjectivity|Zelinka (2022, p. 258)]] |
-> | **认识论扎根** | 批判抽象技能清单，倡导学科大概念与实证探究融合 | K-12 科学课程设计、跨学科素养整合 | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026a)]] |
-> | **自我企业家** | 将结构性经济风险转化为个体自我责任化 | 劳动力政策、主体性社会学分析 | [[Argument_Zelinka_2022_SCD_subjectivity|Zelinka (2022, p. 260)]] |
-> | **课堂教学效能** | 合作学习是培养 21 世纪高阶复合素养的强效载体 | 课堂教学法改革、高阶思维培养干预 | [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] |
-> | **评价制度断裂** | 宏观素养宣示与高校微观考核滞后脱节，亟需真实表现评价 | 高教质量保障、学习增益测查、国家统考改革 | [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] |
+> | **漂浮能指** | 概念抽象化促成全球政策同质化趋同 | [[Global Policy Space\|全球政策空间]]、跨国组织议程分析 | [[Argument_Beech_2009_CE\|Beech (2009)]]; [[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka (2022, p. 258)]] |
+> | **认识论扎根** | 批判抽象技能清单，倡导学科大概念与实证探究融合 | K-12 科学课程设计、跨学科素养整合 | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026a)]] |
+> | **自我企业家** | 将结构性经济风险转化为个体自我责任化 | 劳动力政策、主体性社会学分析 | [[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka (2022, p. 260)]] |
+> | **课堂教学效能** | 合作学习是培养 21 世纪高阶复合素养的强效载体 | 课堂教学法改革、高阶思维培养干预 | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] |
+> | **评价制度断裂** | 宏观素养宣示与高校微观考核滞后脱节，亟需真实表现评价 | 高教质量保障、学习增益测查、国家统考改革 | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] |
 
 ---
 
@@ -251,33 +251,33 @@ updated: 2026-08-27
 > [!ma-table]- 一阶[[Meta-analysis|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval|CI]] | [[Heterogeneity|异质性]]与预测区间 | 关键解释边界 |
+> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与预测区间 | 关键解释边界 |
 > |---|---|---|---|---|---|---|
-> | Solissa et al. (2023)，引自 [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] | [[Dependent Variable|结果变量]]：拼图法（Jigsaw）对 21 世纪技能（批判思维、[[Creativity|创造性]]与问题解决）的促进效应 | $k = 10$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.84$ $[0.66, 1.03]$ | — | 跨学科跨学段综合干预，印证[[Jigsaw|拼图法]]对 21 世纪多元核心素养的稳健赋能 |
+> | Solissa et al. (2023)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | [[Dependent Variable\|结果变量]]：拼图法（Jigsaw）对 21 世纪技能（批判思维、[[Creativity\|创造性]]与问题解决）的促进效应 | $k = 10$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.84$ $[0.66, 1.03]$ | — | 跨学科跨学段综合干预，印证[[Jigsaw\|拼图法]]对 21 世纪多元核心素养的稳健赋能 |
 
 > [!ma-table]- [[Meta-meta-analysis|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
 >
 > | 二阶元分析 | 当前概念角色与总体结果 | 证据规模 $M$ / $E$ / $k$ / $N$ | 效应指标与模型 | 二阶汇总效应与 95% CI | 异质性与 95% PI | 关键解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] | 结果变量：[[Cooperative Learning|合作学习]]对涵盖 21 世纪技能的高阶思维产出的干预效应 | $M = 3$；$E = 4$；$k = —$；$N = —$（全数据集总 $k = 403$） | Cohen's $d$ / 随机效应模型经典逆方差加权 | $ES = 0.76$ $[0.42, 1.11]$ | 全集 $Q(22) = 349.48, p < .01, I^2 = 93.70\%, 	au^2 = 0.13$；95% PI 未报告 | 纳入一阶研究涵盖 21 世纪技能、批判性思维与创造性思维，证实合作建构对高阶素养的高效力 |
+> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果变量：[[Cooperative Learning\|合作学习]]对涵盖 21 世纪技能的高阶思维产出的干预效应 | $M = 3$；$E = 4$；$k = —$；$N = —$（全数据集总 $k = 403$） | Cohen's $d$ / 随机效应模型经典逆方差加权 | $ES = 0.76$ $[0.42, 1.11]$ | 全集 $Q(22) = 349.48, p < .01, I^2 = 93.70\%, 	au^2 = 0.13$；95% PI 未报告 | 纳入一阶研究涵盖 21 世纪技能、批判性思维与创造性思维，证实合作建构对高阶素养的高效力 |
 
 > [!ma-table]- 二阶元分析互补维度亚组
 > <span class="scrollable-table-marker concept-second-order-role-subgroup-marker" aria-hidden="true"></span>
 >
 > | 二阶元分析 | 当前概念角色 | 对应亚组 | 证据数 $M$ / $E$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] | 结果[[Variable|变量]] | 合作学习教学技术：综合合作 vs 拼图法 vs 小组调查 vs [[Cooperative Integrated Reading and Composition|CIRC]] 整合读写 | $E = 14$（综合）/ $E = 6$（拼图）/ $E = 2$（调查）/ $E = 1$（CIRC） | CIRC $ES = 2.04$ $[1.05, 3.03]$；调查法 $ES = 1.08$ $[0.50, 1.66]$；拼图法 $ES = 0.72$ $[0.40, 1.04]$；综合合作 $ES = 0.61$ $[0.40, 0.81]$ | $Q_b(3) = 9.36, 	ext{df} = 3, p = .02$ | 预设分析；组间差异达统计显著，开放探究与结构化合作更能激发 21 世纪高阶素养 |
+> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果[[Variable\|变量]] | 合作学习教学技术：综合合作 vs 拼图法 vs 小组调查 vs [[Cooperative Integrated Reading and Composition\|CIRC]] 整合读写 | $E = 14$（综合）/ $E = 6$（拼图）/ $E = 2$（调查）/ $E = 1$（CIRC） | CIRC $ES = 2.04$ $[1.05, 3.03]$；调查法 $ES = 1.08$ $[0.50, 1.66]$；拼图法 $ES = 0.72$ $[0.40, 1.04]$；综合合作 $ES = 0.61$ $[0.40, 0.81]$ | $Q_b(3) = 9.36, 	ext{df} = 3, p = .02$ | 预设分析；组间差异达统计显著，开放探究与结构化合作更能激发 21 世纪高阶素养 |
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
 > | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] / TESTA 项目 | 英国等 70 余所高校 100 多个本科专业 | 纵向全课程评价调查与追踪 | 模块化考核负荷与[[Learning Gain|学习增益]] | 本科三年经历 60–80 项独立终结性考试；大一至大三[[Critical Thinking|批判性思维]]增益微弱 | 描述性与跨校对比统计 | 揭示模块化碎片化考核（Hyper-Assessment）迫使学生采取应试[[Surface and Deep Learning|表层学习]]，阻碍 21 世纪高阶素养养成 |
-> | [[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]] | 美新三国 136 名 PhD 校友 | [[Comparative Case Study|比较案例研究]] | 4C 技能与可迁移特质自报感知 | 研究批判技能均值 4.4/5；团队合作 2.9/5，跨界沟通 3.7/5；环境素养 2.8/5（垫底） | 组间均值差异显著 | 揭示博士教育中高阶探究技能与社会协作及环境伦理的系统性断裂 |
-> | [[Argument_Beech_2009_CE|Beech (2009)]] | 阿根廷与巴西教师教育者 | [[In-depth Interview|深度访谈]]与[[Coding in Qualitative Research|质性编码]] | 对能力课程标准的[[Transfer Translation Transformation|转译]]理解 | 产生四种互不兼容的解读：归入旧行为目标、坦承不懂、视为既有合法化、[[Epistemology|认识论]]大杂烩 | — | 全球[[Floating Signifier|漂浮能指]]在具体国家与教师实践转译中产生严重概念混乱 |
-> | UK Science Education Tracker，引自 [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026a)]] | 英格兰 11–18 岁中学生（纵向追踪） | 追踪调查统计 | 课堂动手实验双周率与[[Science Capital|科学资本]] | 动手实验率从 44%（2016）暴跌至 26%（2023），高 SES 家庭科学资本优势扩大 | 下降幅度达 18 个百分点 | 揭示技能话语宣称与应试刷题及课时削减之间的尖锐断裂 |
+> | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] / TESTA 项目 | 英国等 70 余所高校 100 多个本科专业 | 纵向全课程评价调查与追踪 | 模块化考核负荷与[[Learning Gain\|学习增益]] | 本科三年经历 60–80 项独立终结性考试；大一至大三[[Critical Thinking\|批判性思维]]增益微弱 | 描述性与跨校对比统计 | 揭示模块化碎片化考核（Hyper-Assessment）迫使学生采取应试[[Surface and Deep Learning\|表层学习]]，阻碍 21 世纪高阶素养养成 |
+> | [[Argument_SpronkenSmith_2024_AEHE\|Spronken-Smith et al. (2024)]] | 美新三国 136 名 PhD 校友 | [[Comparative Case Study\|比较案例研究]] | 4C 技能与可迁移特质自报感知 | 研究批判技能均值 4.4/5；团队合作 2.9/5，跨界沟通 3.7/5；环境素养 2.8/5（垫底） | 组间均值差异显著 | 揭示博士教育中高阶探究技能与社会协作及环境伦理的系统性断裂 |
+> | [[Argument_Beech_2009_CE\|Beech (2009)]] | 阿根廷与巴西教师教育者 | [[In-depth Interview\|深度访谈]]与[[Coding in Qualitative Research\|质性编码]] | 对能力课程标准的[[Transfer Translation Transformation\|转译]]理解 | 产生四种互不兼容的解读：归入旧行为目标、坦承不懂、视为既有合法化、[[Epistemology\|认识论]]大杂烩 | — | 全球[[Floating Signifier\|漂浮能指]]在具体国家与教师实践转译中产生严重概念混乱 |
+> | UK Science Education Tracker，引自 [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026a)]] | 英格兰 11–18 岁中学生（纵向追踪） | 追踪调查统计 | 课堂动手实验双周率与[[Science Capital\|科学资本]] | 动手实验率从 44%（2016）暴跌至 26%（2023），高 SES 家庭科学资本优势扩大 | 下降幅度达 18 个百分点 | 揭示技能话语宣称与应试刷题及课时削减之间的尖锐断裂 |
 
 ---
 

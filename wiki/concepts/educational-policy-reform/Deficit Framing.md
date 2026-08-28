@@ -78,12 +78,12 @@ updated: 2026-08-26
 ## 概念辨析
 
 > [!contrast-table] 赤字框架与专业敏感型框架辨析
-> | 维度 | 赤字框架（Deficit Framing） | [[Profession-Sensitive Conceptualisations of Research Use|专业敏感型框架]] | 纯结构制约视角 |
+> | 维度 | 赤字框架（Deficit Framing） | [[Profession-Sensitive Conceptualisations of Research Use\|专业敏感型框架]] | 纯结构制约视角 |
 > |------|--------------------------|-----------------------------------------------------------------------------|----------------|
-> | **核心[[Hypothesis|假设]]** | 实践者缺乏必要的科研知识与素养，需外源输入弥补缺陷 | 教师具备复合多元的专业知识库，在教学中主动权衡与整合多方资源 | 外部资源不足与制度阻碍限制了知识流动 |
+> | **核心[[Hypothesis\|假设]]** | 实践者缺乏必要的科研知识与素养，需外源输入弥补缺陷 | 教师具备复合多元的专业知识库，在教学中主动权衡与整合多方资源 | 外部资源不足与制度阻碍限制了知识流动 |
 > | **教师定位** | 被动的知识接受者、需要补课的执行客体 | 具备能动性的专业决策者、知识整合者 | 受制于外部制度环境的系统齿轮 |
-> | **问题归因** | 教师个体的认知缺陷、技能匮乏或态度消极 | 知识本身的[[Heterogeneity|异质性]]、育人价值冲突与实践情境复杂性 | 时间匮乏、数据库权限不足与组织壁垒 |
-> | **解决路径** | 实施补救性培训、强化考核问责、推广标准化方案 | 尊重教师的[[Professional Judgment|专业判断]]、支持微观情境下的知识协商与因地制宜 | 增加教研经费、购买数据库权限、配备科研中介人员 |
+> | **问题归因** | 教师个体的认知缺陷、技能匮乏或态度消极 | 知识本身的[[Heterogeneity\|异质性]]、育人价值冲突与实践情境复杂性 | 时间匮乏、数据库权限不足与组织壁垒 |
+> | **解决路径** | 实施补救性培训、强化考核问责、推广标准化方案 | 尊重教师的[[Professional Judgment\|专业判断]]、支持微观情境下的知识协商与因地制宜 | 增加教研经费、购买数据库权限、配备科研中介人员 |
 
 ---
 
@@ -135,8 +135,8 @@ updated: 2026-08-26
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **问题预设与结论停滞** | 揭示赤字框架如何导致三十年来学术提问与调查结论的高度雷同 | 审视教育循证改革文献与政策话语 | [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]]; Hodges (1996); Cain et al. (2019) |
-> | **推论简单化与自我循环** | 剖析政策建议退回技能补课的还原主义机制与理论盲点 | [[Evaluation Research|评估研究]]使用干预方案与教师培训设计 | [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]]; Schaik et al. (2018); Brown & Zhang (2018) |
+> | **问题预设与结论停滞** | 揭示赤字框架如何导致三十年来学术提问与调查结论的高度雷同 | 审视教育循证改革文献与政策话语 | [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]]; Hodges (1996); Cain et al. (2019) |
+> | **推论简单化与自我循环** | 剖析政策建议退回技能补课的还原主义机制与理论盲点 | [[Evaluation Research\|评估研究]]使用干预方案与教师培训设计 | [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]]; Schaik et al. (2018); Brown & Zhang (2018) |
 
 ---
 
@@ -154,10 +154,10 @@ updated: 2026-08-26
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | [[Variable|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]] | 34 项同行评议学术[[Document|文献]]（1996–2024 年，涵盖英国 9、美国 4、加拿大 3 等） | [[Critical Review|批判性综述]]＋系统综述与元分析优先报告条目（Preferred Reporting Items for Systematic Reviews and Meta-Analyses, PRISMA）流程 | 30 年间文献的[[Problem Finding|问题界定]]取向 | 纳入文献普遍采用赤字框架，将教师预设为缺乏知识、技能或素养的被动客体 | — | 显示赤字框架在问题出发点上保持了长达 30 年的高度一致与理论停滞 |
-> | [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]] | 同上 | 同上 | 实证研究设计与结论分布 | 24 项实证研究中 13 项采用自陈[[Questionnaire|问卷调查]]，100% 得出教师实际使用有限的结论 | — | 表明[[Methodological Individualism|方法论个体主义]]主导的调查设计不断复制同质化结论，陷入推论循环 |
+> | [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] | 34 项同行评议学术[[Document\|文献]]（1996–2024 年，涵盖英国 9、美国 4、加拿大 3 等） | [[Critical Review\|批判性综述]]＋系统综述与元分析优先报告条目（Preferred Reporting Items for Systematic Reviews and Meta-Analyses, PRISMA）流程 | 30 年间文献的[[Problem Finding\|问题界定]]取向 | 纳入文献普遍采用赤字框架，将教师预设为缺乏知识、技能或素养的被动客体 | — | 显示赤字框架在问题出发点上保持了长达 30 年的高度一致与理论停滞 |
+> | [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] | 同上 | 同上 | 实证研究设计与结论分布 | 24 项实证研究中 13 项采用自陈[[Questionnaire\|问卷调查]]，100% 得出教师实际使用有限的结论 | — | 表明[[Methodological Individualism\|方法论个体主义]]主导的调查设计不断复制同质化结论，陷入推论循环 |
 
 ---
 

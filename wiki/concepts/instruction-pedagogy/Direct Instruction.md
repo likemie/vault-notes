@@ -94,13 +94,13 @@ updated: 2026-08-25
 ## 概念辨析
 
 > [!contrast-table] 直接教学与主流教学取向对比
-> | 比较维度 | 直接教学（Direct Instruction） | [[Problem-Based Learning|问题导向学习（PBL）]] | [[Infusion Approach|学科融入显性教学]] | 隐性发现/[[Immersion Approach|沉浸模式]] |
+> | 比较维度 | 直接教学（Direct Instruction） | [[Problem-Based Learning\|问题导向学习（PBL）]] | [[Infusion Approach\|学科融入显性教学]] | 隐性发现/[[Immersion Approach\|沉浸模式]] |
 > |---|---|---|---|---|
 > | **教学起点** | 教师明确说明概念、规则与分步示范 | 呈现复杂劣构的真实情境问题 | 学科内容与显性思维准则双重锚定 | 深入学科高难度任务，不揭示通用规则 |
-> | **教师角色** | **激活者（Activator）** 与示范专家 | 资源顾问、认知促进者（Facilitator） | 领域专家与思维导师（[[Mentorship|mentor]]） | 任务发布者与环境提供者 |
-> | **认知负荷控制** | **小步子切分，最小化[[Working Memory|工作记忆]]负荷** | 初始内在与外在认知负荷极高 | 中等（依托脚手架平衡负荷） | 极高（易导致工作记忆超载） |
-> | **优势领域** | [[Procedural Skill|程序性技能]]、良构知识、初学者入门 | 真实问题解决、[[Metacognition|元认知]]反思、团队协作 | 兼顾学科理解与通用[[Higher-Order Thinking Skills|高阶思维]]迁移 | 专业高手的领域直觉淬炼 |
-> | **潜在风险** | 抑制发散探索，诱发被动依赖与[[Side Effects|副作用]] | 初学者因缺乏先验知识而[[Lost Mode|迷失]]低效 | 需教师兼备学科与思维教学素养 | “沉浸迷思”导致自发领悟落空（$g+=0.23$） |
+> | **教师角色** | **激活者（Activator）** 与示范专家 | 资源顾问、认知促进者（Facilitator） | 领域专家与思维导师（[[Mentorship\|mentor]]） | 任务发布者与环境提供者 |
+> | **认知负荷控制** | **小步子切分，最小化[[Working Memory\|工作记忆]]负荷** | 初始内在与外在认知负荷极高 | 中等（依托脚手架平衡负荷） | 极高（易导致工作记忆超载） |
+> | **优势领域** | [[Procedural Skill\|程序性技能]]、良构知识、初学者入门 | 真实问题解决、[[Metacognition\|元认知]]反思、团队协作 | 兼顾学科理解与通用[[Higher-Order Thinking Skills\|高阶思维]]迁移 | 专业高手的领域直觉淬炼 |
+> | **潜在风险** | 抑制发散探索，诱发被动依赖与[[Side Effects\|副作用]] | 初学者因缺乏先验知识而[[Lost Mode\|迷失]]低效 | 需教师兼备学科与思维教学素养 | “沉浸迷思”导致自发领悟落空（$g+=0.23$） |
 
 ---
 
@@ -176,11 +176,11 @@ flowchart LR
 ## 命题总览
 
 > [!contrast-table] 直接教学核心命题体系
-> | 命题维度 | 核心论点 | 实践与研究适用情境 | 代表学者与关键[[Document|文献]] |
+> | 命题维度 | 核心论点 | 实践与研究适用情境 | 代表学者与关键[[Document\|文献]] |
 > |---|---|---|---|
-> | **认知负荷与技能精熟** | 小步子示范与指导练习最大化优化认知负荷，在基础知识与程序性技能教学中效应量显著（$d \approx 0.59$）。 | 基础教育入门阶段、数学计算、语法规则、技能补救 | Rosenshine (1986); Sweller; [[John Hattie|Hattie (2009)]] |
-> | **[[Higher-Order Thinking Skills|高阶思维]]的工具箱定位** | 显性直接传授思维准则是高阶能力跃迁的前提，但必须与情境探究结合成混合模式。 | [[Critical Thinking|批判性思维]]课程改革、跨学科思维训练 | [[Robert Ennis|Ennis (1989)]]; [[Argument_Abrami_2015_RER|Abrami et al. (2015)]]; [[Argument_Park_2026_TSC|Park et al. (2026)]] |
-> | **教育副作用与生态代价** | 长期依赖高控制直接教学可能压制学生的[[Creativity|创造性]]探索、好奇心与自我调节能力。 | 教学政策评估、全人发展与长周期教育追踪 | [[Argument_Zhao_2017_JEC|Zhao (2017)]]; [[Argument_Terhart_2011_JCS|Terhart (2011)]] |
+> | **认知负荷与技能精熟** | 小步子示范与指导练习最大化优化认知负荷，在基础知识与程序性技能教学中效应量显著（$d \approx 0.59$）。 | 基础教育入门阶段、数学计算、语法规则、技能补救 | Rosenshine (1986); Sweller; [[John Hattie\|Hattie (2009)]] |
+> | **[[Higher-Order Thinking Skills\|高阶思维]]的工具箱定位** | 显性直接传授思维准则是高阶能力跃迁的前提，但必须与情境探究结合成混合模式。 | [[Critical Thinking\|批判性思维]]课程改革、跨学科思维训练 | [[Robert Ennis\|Ennis (1989)]]; [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]]; [[Argument_Park_2026_TSC\|Park et al. (2026)]] |
+> | **教育副作用与生态代价** | 长期依赖高控制直接教学可能压制学生的[[Creativity\|创造性]]探索、好奇心与自我调节能力。 | 教学政策评估、全人发展与长周期教育追踪 | [[Argument_Zhao_2017_JEC\|Zhao (2017)]]; [[Argument_Terhart_2011_JCS\|Terhart (2011)]] |
 
 ---
 
@@ -199,23 +199,23 @@ flowchart LR
 >
 > | 一阶元分析 | 当前概念角色与总体结果 | 证据规模 $k$ | 效应指标与模型 | 汇总效应与 95% CI | 组间检验 $Q_b$ (df, $p$) | 关键解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] | **直接通用模式（General / Direct）** 对通用[[Critical Thinking|批判性思维]]的干预效果 | 44 | Hedges' $g+$ (随机效应) | **$g+ = 0.26$** [0.14, 0.37] | $Q_b(3) = 4.10, p = .25$ | 独立于学科的直接思维教学可稳步提升通用思维，但低于结合学科的混合模式（$g+ = 0.38$）。 |
-> | [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] | **直接模式** 对学科特异思维测验的干预效果 | 10 | Hedges' $g+$ (随机效应) | **$g+ = 0.74$** | $Q_b(3) = 3.19, p = .363$ | 直接针对特定思维技能的教学在匹配测验中表现出极高的近迁移效应。 |
+> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | **直接通用模式（General / Direct）** 对通用[[Critical Thinking\|批判性思维]]的干预效果 | 44 | Hedges' $g+$ (随机效应) | **$g+ = 0.26$** [0.14, 0.37] | $Q_b(3) = 4.10, p = .25$ | 独立于学科的直接思维教学可稳步提升通用思维，但低于结合学科的混合模式（$g+ = 0.38$）。 |
+> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | **直接模式** 对学科特异思维测验的干预效果 | 10 | Hedges' $g+$ (随机效应) | **$g+ = 0.74$** | $Q_b(3) = 3.19, p = .363$ | 直接针对特定思维技能的教学在匹配测验中表现出极高的近迁移效应。 |
 
 > [!ma-table]- 一阶元分析总体结果（Park et al., 2026 · 创造力教学显性指导）
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
 >
 > | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ | 亚组汇总效应与 95% CI | 组间检验 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Park_2026_TSC|Park et al. (2026)]] | 干预设计特征 | 显性直接指导策略（Explicit Instruction） | 30 | **$g+ = 0.44$** [0.33, 0.55] | — | 在[[Creativity Training|创造力干预]]中，包含显性直接示范的策略显著优于纯隐性探索活动。 |
+> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 干预设计特征 | 显性直接指导策略（Explicit Instruction） | 30 | **$g+ = 0.44$** [0.33, 0.55] | — | 在[[Creativity Training\|创造力干预]]中，包含显性直接示范的策略显著优于纯隐性探索活动。 |
 
 > [!ref-table]- 其他实证结果与历史综合研究
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | [[Variable|变量]]或指标 | 原始统计结果 | 显著性或不确定性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果 | 显著性或不确定性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Zhao_2017_JEC|Zhao (2017)]] | 转述 Hattie (2009) 可见学习综合数据库 | [[Meta-meta-analysis|二阶元分析]]汇总 | 直接教学对综合[[Academic Achievement|学业成就]]的影响 | $d = 0.59$（排名前列） | 高于基准线 $d = 0.40$ | 主要反映标准化知识与常规学科考试成绩，未能测查[[Creativity|创造力]]与非认知副作用。 |
-> | [[Argument_Zhao_2017_JEC|Zhao (2017)]] | 美国联邦 Project Follow Through（史上最大规模教育实验） | 大规模准实验追踪对比（20余种教学模式） | 基础技能、认知理解与自尊情感 | 脚本化直接教学（DI）在基础学术技能上显著夺冠，但在情感与探索维度未显优势 | 跨学区一致显著 | 奠定了直接教学在基础技能补救教学中的经典地位。 |
+> | [[Argument_Zhao_2017_JEC\|Zhao (2017)]] | 转述 Hattie (2009) 可见学习综合数据库 | [[Meta-meta-analysis\|二阶元分析]]汇总 | 直接教学对综合[[Academic Achievement\|学业成就]]的影响 | $d = 0.59$（排名前列） | 高于基准线 $d = 0.40$ | 主要反映标准化知识与常规学科考试成绩，未能测查[[Creativity\|创造力]]与非认知副作用。 |
+> | [[Argument_Zhao_2017_JEC\|Zhao (2017)]] | 美国联邦 Project Follow Through（史上最大规模教育实验） | 大规模准实验追踪对比（20余种教学模式） | 基础技能、认知理解与自尊情感 | 脚本化直接教学（DI）在基础学术技能上显著夺冠，但在情感与探索维度未显优势 | 跨学区一致显著 | 奠定了直接教学在基础技能补救教学中的经典地位。 |
 
 ---
 

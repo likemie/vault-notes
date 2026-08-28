@@ -56,7 +56,7 @@ updated: 2026-08-26
 ## 定义
 
 > [!def] 核心定义
-> 真实性评价（Authentic Assessment）是一种直接评估学生在模拟现实工作、专业实践或公民生活情境中解决复杂劣构问题能力的教学评价取向。它强调让学生运用已有知识主动建构、推演并生成真实的学术产品或实践成果（Constructed Response），而非在去情境化的封闭选择题中进行机械再认与被动选答（Selected Response）；通过将评价深度嵌入课程学习活动，真实性评价旨在直接测量与促进[[Critical Thinking|批判性思维]]、[[Creativity|创造力]]及高级问题解决等[[Higher-Order Thinking Skills|高阶思维技能]]。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 24–25)]]; Wiggins (1998); Shepard (2000)
+> 真实性评价（Authentic Assessment）是一种直接评估学生在模拟现实工作、专业实践或公民生活情境中解决复杂劣构问题能力的教学评价取向。它强调让学生运用已有知识主动建构、推演并生成真实的学术产品或实践成果（Constructed Response），而非在去情境化的封闭[[Multiple-Choice Questions|选择题]]中进行机械再认与被动选答（Selected Response）；通过将评价深度嵌入课程学习活动，真实性评价旨在直接测量与促进[[Critical Thinking|批判性思维]]、[[Creativity|创造力]]及高级问题解决等[[Higher-Order Thinking Skills|高阶思维技能]]。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 24–25)]]; Wiggins (1998); Shepard (2000)
 
 > [!concept-lens] 概念透镜
 > - **含义** 将评价任务锚定于现实生活中的真实认知挑战与专业实践标准，关注生成性表现而非记忆提取。
@@ -82,10 +82,10 @@ updated: 2026-08-26
 > |---|---|---|
 > | **任务情境** | 现实专业/社会生活中的劣构情境、开放式问题 | 去情境化、高度结构化的封闭式题目 |
 > | **作答机制** | **生成性反应（Constructed Response）** 撰写报告、设计方案、公开答辩 | **选答性反应（Selected Response）** 单选、多选、匹配、判断对错 |
-> | **主要评估目标** | [[Critical Thinking|批判性思维]]、[[Creativity|创造力]]、综合推理与元认知调节 | 事实记忆、基础算法熟练度、孤立概念再认 |
-> | **评价功能** | 兼顾[[Formative Assessment|形成性反馈]]与总结性认证，支持学习过程 | 侧重终结性排名、常模参照甄选与行政问责 |
-> | **评价工具** | 表现任务、学习档案袋、[[VALUE Rubrics|质性评分量规]] | 标准化试卷、自动化光标卡读卡计分 |
-> | **主要挑战** | 评分耗时较长、成本高昂、跨评分员一致性需校准 | [[Construct|构念]]代表性不足、诱发机械应试与[[Surface and Deep Learning|表层学习]] |
+> | **主要评估目标** | [[Critical Thinking\|批判性思维]]、[[Creativity\|创造力]]、综合推理与元认知调节 | 事实记忆、基础算法熟练度、孤立概念再认 |
+> | **评价功能** | 兼顾[[Formative Assessment\|形成性反馈]]与总结性认证，支持学习过程 | 侧重终结性排名、常模参照甄选与行政问责 |
+> | **评价工具** | 表现任务、学习档案袋、[[VALUE Rubrics\|质性评分量规]] | 标准化试卷、自动化光标卡读卡计分 |
+> | **主要挑战** | 评分耗时较长、成本高昂、跨评分员一致性需校准 | [[Construct\|构念]]代表性不足、诱发机械应试与[[Surface and Deep Learning\|表层学习]] |
 
 ---
 
@@ -109,7 +109,7 @@ updated: 2026-08-26
 > 探讨客观选答题在测量批判性与[[Creativity|创造性思维]]时的效度局限，以及开放表现任务如何还原真实心智加工。
 
 > [!claim] [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]]
-> **真实生成任务对[[Higher-Order Thinking Skills|高阶思维]]的必然要求** 标准化多项选择题由于追求高评分者一致性与低成本，往往不可避免地偏向测试事实识记与封闭推理。然而，创造力与[[Critical Thinking|批判性思维]]的核心在于提出未预设的[[Hypothesis|假设]]、在冲突信息中构建独立论点并生成创新设计，这些心智机能只能通过开放式的真实表现任务（如研究项目、案例分析、实作设计与综合论述）得到充分测量。若仅依赖封闭选答，评价系统将产生严重的[[Construct|构念]]代表性不足（Construct Underrepresentation），进而通过[[Assessment Backwash|评价反拨]]诱发学生的[[Surface and Deep Learning|表层学习]]。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 24–25)]]
+> **真实生成任务对[[Higher-Order Thinking Skills|高阶思维]]的必然要求** 标准化[[Multiple-Choice Questions|多项选择题]]由于追求高评分者一致性与低成本，往往不可避免地偏向测试事实识记与封闭推理。然而，创造力与[[Critical Thinking|批判性思维]]的核心在于提出未预设的[[Hypothesis|假设]]、在冲突信息中构建独立论点并生成创新设计，这些心智机能只能通过开放式的真实表现任务（如研究项目、案例分析、实作设计与综合论述）得到充分测量。若仅依赖封闭选答，评价系统将产生严重的[[Construct|构念]]代表性不足（Construct Underrepresentation），进而通过[[Assessment Backwash|评价反拨]]诱发学生的[[Surface and Deep Learning|表层学习]]。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 24–25)]]
 
 ---
 

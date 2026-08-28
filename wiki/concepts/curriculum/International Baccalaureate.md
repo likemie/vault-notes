@@ -184,28 +184,28 @@ updated: 2026-08-24
 >
 > | 研究 | 时期与情境 | 指标 | 关键结果 | 解释边界 |
 > |---|---|---|---|---|
-> | [[Argument_Peterson_1987_OpenCourt_Ch04|Peterson (1987, Ch. 4, pp. 67–68)]] | 1970–1975 年正式考试 | 完整文凭考生与通过率 | 考生由 29 人增至 377 人；1971–1975 年通过率为 70%、63%、79%、80%、75% | 学生与学校并非[[Random Sampling|随机样本]]，数量和通过率不能单独证明课程效果 |
-> | [[Argument_Peterson_1987_OpenCourt_Ch04|Peterson (1987, Ch. 4, p. 71)]] | 截至 1973 年底 | 承认范围 | 20 国给予一般承认，学生进入 25 国 175 所大学 | 入学、分班、免修和部分承认未在总数中分开 |
+> | [[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, Ch. 4, pp. 67–68)]] | 1970–1975 年正式考试 | 完整文凭考生与通过率 | 考生由 29 人增至 377 人；1971–1975 年通过率为 70%、63%、79%、80%、75% | 学生与学校并非[[Random Sampling\|随机样本]]，数量和通过率不能单独证明课程效果 |
+> | [[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, Ch. 4, p. 71)]] | 截至 1973 年底 | 承认范围 | 20 国给予一般承认，学生进入 25 国 175 所大学 | 入学、分班、免修和部分承认未在总数中分开 |
 
 > [!effect-table]- [[Critical Thinking|批判性思维]]与学术成就 ([[Argument_Cole_2015_AJE|Cole et al., 2015]])
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 比较或干预 | [[Dependent Variable|结果变量]] | 分析样本 | 组别统计 | [[Effect Size|效应量]] | 显著性或不确定性 | 设计与解释边界 |
+> | 研究 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
 > |---|---|---|---|---|---|---|---|
-> | 同上 | DP 学生 12 年级 vs 11 年级 | [[Critical Thinking Strategies Scale|CTSS]] 总分 | n=1,338 | Y12: 4.85 vs Y11: 4.62 | $g=0.216$ (推算) | $p < .001$ | 追踪测量，发现批判性思维随项目进程提升 |
-> | 同上 | DP 毕业生 vs 非 DP 毕业生 | [[California Critical Thinking Disposition Inventory|CCTDI]] 总分 | — | DP: 300.95 vs 非DP: 293.98 | $g=0.245$ (推算) | — | 观察性对比 |
+> | 同上 | DP 学生 12 年级 vs 11 年级 | [[Critical Thinking Strategies Scale\|CTSS]] 总分 | n=1,338 | Y12: 4.85 vs Y11: 4.62 | $g=0.216$ (推算) | $p < .001$ | 追踪测量，发现批判性思维随项目进程提升 |
+> | 同上 | DP 毕业生 vs 非 DP 毕业生 | [[California Critical Thinking Disposition Inventory\|CCTDI]] 总分 | — | DP: 300.95 vs 非DP: 293.98 | $g=0.245$ (推算) | — | 观察性对比 |
 > | 同上 | DP 毕业生 vs 非 DP 毕业生 | ATAR 成绩 | — | DP: 94.13 vs 非DP: 89.29 | $g=0.441$ (推算) | $p < .001$ | — |
-> | 同上 | DP 毕业生 vs 非 DP 毕业生 | [[Academic Self-Concept|学术自我概念]] | — | DP: 6.25 vs 非DP: 5.75 | $g=0.497$ (推算) | $p < .001$ | — |
+> | 同上 | DP 毕业生 vs 非 DP 毕业生 | [[Academic Self-Concept\|学术自我概念]] | — | DP: 6.25 vs 非DP: 5.75 | $g=0.497$ (推算) | $p < .001$ | — |
 
 > [!ref-table]- 核心组件效益的其他实证结果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | [[Variable|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | Inkelas et al. (2012) | IB and AP 学生对比 | 观察对比 | [[Extended Essay|EE]] 成绩与大学 GPA | 两者具有统计学显著正相关 | 显著 | 说明 EE 具有较好的大学预测效度 (Metli, 2022 综述) |
+> | Inkelas et al. (2012) | IB and AP 学生对比 | 观察对比 | [[Extended Essay\|EE]] 成绩与大学 GPA | 两者具有统计学显著正相关 | 显著 | 说明 EE 具有较好的大学预测效度 (Metli, 2022 综述) |
 > | Wray (2013) / Aulls (2013) | DP 毕业生 | 追踪调查 | 探究能力与自我调节 | 在大学中表现出更高的独立思考与自我调节评分 | — | (Metli, 2022 综述) |
-> | Bergeron (2016) | DP 教师反馈 | 调查 | 跨学科联系意识 | 教师报告 [[Theory of Knowledge|TOK]] 成功帮学生建立跨学科联系并反思预设 | — | (Metli, 2022 综述) |
-> | Billig & Good (2013) | DP 学生 | 调查 | 公民责任感与服务伦理 | [[Creativity, Action, Service|CAS]] 提升了自我成熟度与思想开放度 | — | (Metli, 2022 综述) |
+> | Bergeron (2016) | DP 教师反馈 | 调查 | 跨学科联系意识 | 教师报告 [[Theory of Knowledge\|TOK]] 成功帮学生建立跨学科联系并反思预设 | — | (Metli, 2022 综述) |
+> | Billig & Good (2013) | DP 学生 | 调查 | 公民责任感与服务伦理 | [[Creativity, Action, Service\|CAS]] 提升了自我成熟度与思想开放度 | — | (Metli, 2022 综述) |
 
 ---
 

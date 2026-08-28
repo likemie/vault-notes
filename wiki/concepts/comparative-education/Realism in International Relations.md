@@ -76,7 +76,7 @@ updated: 2026-07-09
 ## 概念辨析
 
 > [!contrast-table] 关键理论构件对照表
-> | 维度 | Realism (现实主义) | [[Rationalism in International Relations|Rationalism (理性主义)]] | [[Revolutionism|Revolutionism (革命主义)]] |
+> | 维度 | Realism (现实主义) | [[Rationalism in International Relations\|Rationalism (理性主义)]] | [[Revolutionism\|Revolutionism (革命主义)]] |
 > |------|------------------|------------------------------------|------------------------|
 > | **行动主体** | 主权国家实体。 | 国家与超国家组织（如 [[OECD]]）。 | 个体与跨国社会阶级（如中心/边缘）。 |
 > | **核心概念** | 权力（Power/国家实力与利益）。 | 权威（Authority/道德与合法规则）。 | 武力（Force/革命变革力量）。 |

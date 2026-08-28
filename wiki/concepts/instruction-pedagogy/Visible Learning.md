@@ -140,8 +140,8 @@ updated: 2026-08-20
 > [!contrast-table] 核心方法论概念对比
 > | 维度 | [[Visible Learning]] | [[Effect Size]] | [[Evidence-Based Education]] |
 > |------|----------------------|-----------------|------------------------------|
-> | 分析对象 | 150+ 教学干预的排名 + 学校改进逻辑与教师培训体系 | 量化效果大小的统计指标（均值差/标准差比值） | 循证原则在教育政策制定与学校[[Praxis|实践]]中的制度化运动 |
-> | 核心机制 | [[Meta-meta-analysis|元-元分析]] + 教师思维框架（mind frames）+ 忠实实施培训 | Cohen's d 等标准化差异量，d=0.40 为 Hattie 所设"铰链点" | 研究-政策-实践传播链；包含 [[Education Endowment Foundation|EEF]]、[[What Works Clearinghouse]] 等机构 |
+> | 分析对象 | 150+ 教学干预的排名 + 学校改进逻辑与教师培训体系 | 量化效果大小的统计指标（均值差/标准差比值） | 循证原则在教育政策制定与学校[[Praxis\|实践]]中的制度化运动 |
+> | 核心机制 | [[Meta-meta-analysis\|元-元分析]] + 教师思维框架（mind frames）+ 忠实实施培训 | Cohen's d 等标准化差异量，d=0.40 为 Hattie 所设"铰链点" | 研究-政策-实践传播链；包含 [[Education Endowment Foundation\|EEF]]、[[What Works Clearinghouse]] 等机构 |
 > | 边界说明 | VL 以效应量为骨架，但效应量本身是工具而非 VL 的全部 | 方法论工具，不含实施逻辑；统计假设与解释边界见 [[Effect Size]] | VL 是 EBE 运动中最具全球品牌影响力的具体项目 |
 
 其他相关条目消歧：[[Critiques of Visible Learning]] 处理 VL 的批评谱系；[[Visible Learning Branding and Global Influences]] 处理品牌扩张与商业网络；[[Evidence-Based Reform]] 是 Slavin 的开发-评估-推广[[Paradigm|范式]]，与 VL 侧重不同；[[Dynamic Knowledge and Learning Model]] 要求区分 VL 所忽略的不同知识形态上的学习结果；[[Scientism]] 是对 VL 的外部批判框架之一。
@@ -182,8 +182,8 @@ updated: 2026-08-20
 > |--------|--------|---------|
 > | 负面效应区 | d<0 | 暑假、看电视（d=-0.18）、转学（d=-0.34）|
 > | 发展效应区 | d=0–0.15 | 教师学科知识（d=0.09）、教师教育（d=0.11）|
-> | 低中效应区 | d=0.15–0.4 | [[Class Size|班级规模]]（d=0.21）、家庭结构（d=0.17）|
-> | 期望效应区 | d>0.4 | 微格教学（d=0.88）、教学清晰度（d=0.75）、[[Student-Teacher Relationship|师生关系]]（d=0.72）、[[Formative Assessment|形成性评价]]（d=0.90）|
+> | 低中效应区 | d=0.15–0.4 | [[Class Size\|班级规模]]（d=0.21）、家庭结构（d=0.17）|
+> | 期望效应区 | d>0.4 | 微格教学（d=0.88）、教学清晰度（d=0.75）、[[Student-Teacher Relationship\|师生关系]]（d=0.72）、[[Formative Assessment\|形成性评价]]（d=0.90）|
 
 ### 学习方差分解
 
@@ -306,7 +306,7 @@ Hattie（2015, p.81）提出"教师是 DIE for"的首字母缩略词来描述成
 > | 评估自身影响力 / 教师合作 | 0.91 | 教师相信主要角色是评估自身影响力；与同事合作了解和评估影响 |
 > | 先前学习 | 0.85 | 基于学生带到课堂的先前知识进行教学 |
 > | 明确成功标准 | 0.77 | 在系列课程开始时告知学生成功标准 |
-> | 最优表深层比例 | 0.71 | 实施具有最优[[Surface and Deep Learning|表层/深层学习]]比例的方案 |
+> | 最优表深层比例 | 0.71 | 实施具有最优[[Surface and Deep Learning\|表层/深层学习]]比例的方案 |
 > | 适当挑战 | 0.57 | 设置适当挑战水平，不只要求"尽力而为" |
 
 > [!finding-cards] 应用发现

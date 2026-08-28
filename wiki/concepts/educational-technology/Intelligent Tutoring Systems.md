@@ -72,7 +72,7 @@ updated: 2026-08-25
 ## 概念辨析
 
 > [!contrast-table] 概念辨析
-> | 维度 | 智能导师系统（[[Time Series Design|ITS]]） | [[Educational Robotics|教育机器人]]（Educational Robotics） | 生成式[[AI Agent in Education|教育智能体]]（GenAI Agent） |
+> | 维度 | 智能导师系统（[[Time Series Design\|ITS]]） | [[Educational Robotics\|教育机器人]]（Educational Robotics） | 生成式[[AI Agent in Education\|教育智能体]]（GenAI Agent） |
 > |---|---|---|---|
 > | **核心架构** | 领域模型 + 学生模型 + 教学模型 + 界面 | 物理具身/虚拟拟人实体 + 多模态交互 | 大语言模型提示工程 + 检索增强 + 工具调用 |
 > | **交互机制** | 步骤级确定性诊断与逐级结构化提示 | 语音、面部表情、手势动作与触控伴读 | 自然语言多轮追问、代码生成与开放式头脑风暴 |
@@ -136,18 +136,18 @@ updated: 2026-08-25
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 比较或干预 | [[Dependent Variable|结果变量]] | 分析样本 | 组别统计 | [[Effect Size|效应量]] | 显著性或不确定性 | 设计与解释边界 |
+> | 研究 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
 > |---|---|---|---|---|---|---|---|
-> | Chen et al. (2025)，引自 [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] | 历史多源事实导学 ITS vs. 传统课堂讲授 | 历史事实识记与时间线图式构建 | $N = 84$ | — | Hedges' $g = 0.52$ | $p < .01$ | 准实验设计；ITS 自适应支架有效提升人文历史事实知识掌握度 |
-> | Tasdelen & Bodemer (2025)，引自 [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] | 自适应分步微提示 ITS vs. 传统纸笔解题 | 小学数学长除法步骤解题技能 | $N = 114$（干预 $n = 57$, 控制 $n = 57$） | — | Hedges' $g = 0.21$ | $p < .05$ | 准实验设计；基于认知负荷理论的分步微提示降低外在负荷 |
-> | Khazanchi et al. (2025)，引自 [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] | 代数几何智能导师 vs. 常规教学 | 中学几何辅助线推导与代数解题 | $N = 96$ | — | Hedges' $g = 0.05$ | $p > .05$ | [[Quasi-Experimental Designs|准实验设计]]；高抽象度几何证明任务中短期干预效应较温和 |
+> | Chen et al. (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 历史多源事实导学 ITS vs. 传统课堂讲授 | 历史事实识记与时间线图式构建 | $N = 84$ | — | Hedges' $g = 0.52$ | $p < .01$ | 准实验设计；ITS 自适应支架有效提升人文历史事实知识掌握度 |
+> | Tasdelen & Bodemer (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 自适应分步微提示 ITS vs. 传统纸笔解题 | 小学数学长除法步骤解题技能 | $N = 114$（干预 $n = 57$, 控制 $n = 57$） | — | Hedges' $g = 0.21$ | $p < .05$ | 准实验设计；基于认知负荷理论的分步微提示降低外在负荷 |
+> | Khazanchi et al. (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 代数几何智能导师 vs. 常规教学 | 中学几何辅助线推导与代数解题 | $N = 96$ | — | Hedges' $g = 0.05$ | $p > .05$ | [[Quasi-Experimental Designs\|准实验设计]]；高抽象度几何证明任务中短期干预效应较温和 |
 
 > [!ma-table]- 一阶[[Meta-analysis|元分析]]互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
 >
 > | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] | 干预因素（[[AI Agent in Education|智能体]]技术类型） | 智能导师系统（ITS） | $k = 10$ / — | $g = 0.540$ $[0.241, 0.839]$ | 智能体类型间检验 $Q_B = 0.069, p = .793$ | 聚焦基础教育理科解题与规则引导场景，在四大技术形态中汇总点估计最高 |
+> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（[[AI Agent in Education\|智能体]]技术类型） | 智能导师系统（ITS） | $k = 10$ / — | $g = 0.540$ $[0.241, 0.839]$ | 智能体类型间检验 $Q_B = 0.069, p = .793$ | 聚焦基础教育理科解题与规则引导场景，在四大技术形态中汇总点估计最高 |
 
 ---
 

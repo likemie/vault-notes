@@ -104,10 +104,10 @@ updated: 2026-08-25
 > [!contrast-table] 领域特异性 vs 领域一般性核心维度对比
 > | 比较维度 | 领域特异性（Domain Specificity） | 领域一般性（Domain Generality） | 双层整合模型（Dual-Level Integration） |
 > |---|---|---|---|
-> | **核心主张** | 思维技能与[[Epistemology|认识论]]标准被深度锁定在特定学科或判断域内。 | 认知发展是整体心智能力的升级，通用逻辑原则可自发跨域迁移。 | 上层为跨情境通用的逻辑与[[Metacognition|元认知]]规则，下层为学科特异的证据与探究规范。 |
+> | **核心主张** | 思维技能与[[Epistemology\|认识论]]标准被深度锁定在特定学科或判断域内。 | 认知发展是整体心智能力的升级，通用逻辑原则可自发跨域迁移。 | 上层为跨情境通用的逻辑与[[Metacognition\|元认知]]规则，下层为学科特异的证据与探究规范。 |
 > | **发展节奏** | 高度**非同步**。在不同学科与判断领域呈现差异化甚至反转的发展曲线。 | **全局同步**。随年龄成熟或通用训练实现全领域同步跃迁。 | 通用认知框架作为脚手架加速各学科特异性标准的内化。 |
-> | **[[Critical Thinking|批判性思维]]定位** | McPeck (1981)：思维永远是“关于某种具体事物的思维”，不存在独立的通用思维技能。 | Ennis (1989), Paul (1993)：批判性思维包含跨领域通用的论证分析与证据评价原则。 | [[Argument_Abrami_2015_RER|Abrami et al. (2015)]]：通用显性原则与学科内容深度融入的**混合模式（Mixed Approach）**效果最佳。 |
-> | **理论代表** | McPeck (1981, 1990); [[Argument_Greene_2010_JEP|Greene et al. (2010)]] | [[Jean Piaget|Piaget]] 发生认识论; 传统智力因子理论 | Ennis (1989); [[Argument_Hofer_1997_RER|Hofer & Pintrich (1997)]]; [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] |
+> | **[[Critical Thinking\|批判性思维]]定位** | McPeck (1981)：思维永远是“关于某种具体事物的思维”，不存在独立的通用思维技能。 | Ennis (1989), Paul (1993)：批判性思维包含跨领域通用的论证分析与证据评价原则。 | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]]：通用显性原则与学科内容深度融入的**混合模式（Mixed Approach）**效果最佳。 |
+> | **理论代表** | McPeck (1981, 1990); [[Argument_Greene_2010_JEP\|Greene et al. (2010)]] | [[Jean Piaget\|Piaget]] 发生认识论; 传统智力因子理论 | Ennis (1989); [[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]]; [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] |
 
 ---
 
@@ -204,13 +204,13 @@ flowchart TD
 ## 命题总览
 
 > [!contrast-table] 领域特异性核心命题体系
-> | 命题维度 | 核心论点 | 实践与研究适用情境 | 代表学者与关键[[Document|文献]] |
+> | 命题维度 | 核心论点 | 实践与研究适用情境 | 代表学者与关键[[Document\|文献]] |
 > |---|---|---|---|
-> | **发展序列非同步性** | 劣构与主观领域的认知发展独立于良构/客观领域，发展难度甚至呈现逆向反转。 | 跨学科素养对比、思维发展阶段评估 | [[Deanna Kuhn|Kuhn et al. (2000)]]; [[Argument_Greene_2010_JEP|Greene et al. (2010)]] |
-> | **测量结构特异性** | 心理测量数据显示不同学科的[[Epistemological Beliefs|认识论信念]]在统计上构成相互独立的潜在因子。 | [[Epistemology|认识论]]量表开发、[[Questionnaire|问卷]][[Construct Validity|结构效度]]验证 | [[Argument_Greene_2010_JEP|Greene et al. (2010)]]; [[Argument_Hofer_1997_RER|Hofer & Pintrich (1997)]] |
-> | **跨学科有效与混合最优** | [[Critical Thinking|批判性思维]]在所有学科均可训练，且通用显性原则与学科融入相结合的混合模式效果最强。 | 课程体系设计、批判性思维教学改革 | McPeck (1981); [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] |
-> | **微观情境资源化** | 宏观学科边界颗粒度过大，主张用微观任务情境中按需激活的认知资源替代固定领域信念。 | 课堂互动[[Discourse Analysis|话语分析]]、真实探究任务设计 | [[Argument_Sandoval_2016_RRE|Sandoval et al. (2016)]]; Hammer & Elby (2002) |
-> | **领域负荷与测量后果** | [[Creativity|创造力]]与批判性思维均具领域特殊性，创造力测量依赖领域特定产出，任务特异技能重叠抬高[[Construct|构念]]间观察相关。 | 创造力测量设计、构念间相关解读、[[Meta-analysis|元分析]]测量[[Coding in Qualitative Research|编码]] | [[Argument_Park_2026_TSC|Park et al. (2026)]]; Baer (2012); Myszkowski (2024) |
+> | **发展序列非同步性** | 劣构与主观领域的认知发展独立于良构/客观领域，发展难度甚至呈现逆向反转。 | 跨学科素养对比、思维发展阶段评估 | [[Deanna Kuhn\|Kuhn et al. (2000)]]; [[Argument_Greene_2010_JEP\|Greene et al. (2010)]] |
+> | **测量结构特异性** | 心理测量数据显示不同学科的[[Epistemological Beliefs\|认识论信念]]在统计上构成相互独立的潜在因子。 | [[Epistemology\|认识论]]量表开发、[[Questionnaire\|问卷]][[Construct Validity\|结构效度]]验证 | [[Argument_Greene_2010_JEP\|Greene et al. (2010)]]; [[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] |
+> | **跨学科有效与混合最优** | [[Critical Thinking\|批判性思维]]在所有学科均可训练，且通用显性原则与学科融入相结合的混合模式效果最强。 | 课程体系设计、批判性思维教学改革 | McPeck (1981); [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] |
+> | **微观情境资源化** | 宏观学科边界颗粒度过大，主张用微观任务情境中按需激活的认知资源替代固定领域信念。 | 课堂互动[[Discourse Analysis\|话语分析]]、真实探究任务设计 | [[Argument_Sandoval_2016_RRE\|Sandoval et al. (2016)]]; Hammer & Elby (2002) |
+> | **领域负荷与测量后果** | [[Creativity\|创造力]]与批判性思维均具领域特殊性，创造力测量依赖领域特定产出，任务特异技能重叠抬高[[Construct\|构念]]间观察相关。 | 创造力测量设计、构念间相关解读、[[Meta-analysis\|元分析]]测量[[Coding in Qualitative Research\|编码]] | [[Argument_Park_2026_TSC\|Park et al. (2026)]]; Baer (2012); Myszkowski (2024) |
 
 ---
 
@@ -221,29 +221,29 @@ flowchart TD
 >
 > | 调节维度 | 分类亚组 | 效应量数 $k$ | 加权效应 $g+$ | 95% CI 下限 | 95% CI 上限 | 组间异质性 $Q_b$ (df, $p$) | 理论与实践意义 |
 > |---|---|---|---|---|---|---|---|
-> | **学科领域**<br>(Discipline) | STEM 理工学科 | 48 | 0.31 | 0.20 | 0.42 | $Q_b(2) = 1.05, p = .59$ | [[Critical Thinking|批判性思维]]在各学科均产生显著获益，跨学科组间无显著差异，证明通用思维的可训练性。 |
+> | **学科领域**<br>(Discipline) | STEM 理工学科 | 48 | 0.31 | 0.20 | 0.42 | $Q_b(2) = 1.05, p = .59$ | [[Critical Thinking\|批判性思维]]在各学科均产生显著获益，跨学科组间无显著差异，证明通用思维的可训练性。 |
 > | | 非 STEM 文社科与人文学科 | 62 | 0.29 | 0.17 | 0.40 | | |
 > | | 医学与健康教育领域 | 16 | 0.20 | 0.05 | 0.35 | | |
 > | **Ennis 课程模式**<br>(Course Typology) | **混合模式（Mixed: 显性教学 + 学科融入）** | 84 | **0.38** | 0.29 | 0.48 | $Q_b(3) = 4.10, p = .25$ | **混合模式产生最强促进效果**，证明通用原则与学科情境结合是认知迁移的最佳路径。 |
-> | | [[Infusion Approach|学科融入模式]]（Infusion） | 165 | 0.29 | 0.22 | 0.36 | | |
+> | | [[Infusion Approach\|学科融入模式]]（Infusion） | 165 | 0.29 | 0.22 | 0.36 | | |
 > | | 独立直接通用模式（General） | 44 | 0.26 | 0.14 | 0.37 | | |
-> | | 学科沉浸模式（[[Presence|immersion]]） | 48 | 0.23 | 0.09 | 0.36 | | |
+> | | 学科沉浸模式（[[Presence\|immersion]]） | 48 | 0.23 | 0.09 | 0.36 | | |
 > | **测验类型对比** | 通用批判性思维测验（Generic CT） | 341 | 0.30 | 0.25 | 0.34 | — | 教学对通用与学科特异思维均具促进力，学科特异测验显示更强近迁移效应。 |
 > | | 学科特异思维测验（Content-Specific CT） | 97 | 0.59 | 0.48 | 0.70 | — | |
 
 > [!effect-table]- 一级研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 比较或干预 | [[Dependent Variable|结果变量]] | 分析样本 | 组别统计 | [[Effect Size|效应量]] | 显著性或不确定性 | 设计与解释边界 |
+> | 研究 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
 > |---|---|---|---|---|---|---|---|
-> | [[Argument_Greene_2010_JEP|Greene et al. (2010)]] | 领域特异性模型 vs 领域一般性模型拟合度对比 | 简单知识维度的[[Confirmatory Factor Analysis|验证性因子分析]]模型拟合卡方值（CFA） | $N = 740$ | 领域特异性模型拟合更优 | 卡方差异 $\Delta\chi^2(10) = 245.56$ | $p < .001$ | 证明测量维度必须分学科独立构建，强有力支持领域特异性。 |
+> | [[Argument_Greene_2010_JEP\|Greene et al. (2010)]] | 领域特异性模型 vs 领域一般性模型拟合度对比 | 简单知识维度的[[Confirmatory Factor Analysis\|验证性因子分析]]模型拟合卡方值（CFA） | $N = 740$ | 领域特异性模型拟合更优 | 卡方差异 $\Delta\chi^2(10) = 245.56$ | $p < .001$ | 证明测量维度必须分学科独立构建，强有力支持领域特异性。 |
 
 > [!ref-table]- 其他实证结果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | [[Variable|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Kuhn_2000_CD|Kuhn et al. (2000)]] | $N = 129$ 名跨年龄组样本 | 测量 5 个领域的[[Epistemological Understanding|认识论理解]] | 跨领域的组合模式（Profile） | 有 83% 的个体呈现混合模式。例如，只有在物理和事实领域，多数个体才能找回评价论，而在价值观领域大比例停滞于多元论或绝对论。 | 跨领域反转规律极强 | 彻底排除了认知发展是领域一般性同步推进的假说。 |
+> | [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]] | $N = 129$ 名跨年龄组样本 | 测量 5 个领域的[[Epistemological Understanding\|认识论理解]] | 跨领域的组合模式（Profile） | 有 83% 的个体呈现混合模式。例如，只有在物理和事实领域，多数个体才能找回评价论，而在价值观领域大比例停滞于多元论或绝对论。 | 跨领域反转规律极强 | 彻底排除了认知发展是领域一般性同步推进的假说。 |
 
 ---
 

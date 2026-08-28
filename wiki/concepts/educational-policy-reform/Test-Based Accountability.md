@@ -93,11 +93,11 @@ updated: 2026-07-21
 ## 概念辨析
 
 > [!contrast-table] 概念辨析
-> | 维度 | 考试问责（Test-Based Accountability） | 专业责任（Professional Responsibility） | 一般教育评价（Educational Evaluation） | [[Examination-Oriented Education|应试教育]]（Examination-Oriented Education） |
+> | 维度 | 考试问责（Test-Based Accountability） | 专业责任（Professional Responsibility） | 一般教育评价（Educational Evaluation） | [[Examination-Oriented Education\|应试教育]]（Examination-Oriented Education） |
 > |---|---|---|---|---|
-> | **驱动机制** | 外部行政监管与绩效奖惩(Kogan, 1986) | 专业共同体内部的伦理承诺与[[Professional Judgment|专业判断]](Solbrekke & Englund, 2011) | 信息收集与教学改善 | 升学竞争与考试文化(Feng, 1995) |
+> | **驱动机制** | 外部行政监管与绩效奖惩(Kogan, 1986) | 专业共同体内部的伦理承诺与[[Professional Judgment\|专业判断]](Solbrekke & Englund, 2011) | 信息收集与教学改善 | 升学竞争与考试文化(Feng, 1995) |
 > | **核心焦点** | 学生的标准化考试成绩(Darling-Hammond, 2004) | 学生的全面发展与长远利益 | 教学目标的达成度 | 卷面得分与应试技巧 |
-> | **制度后果** | 评价结果直接挂钩绩效考核与资源配置 | 行业声誉与[[Self-Efficacy|自我效能感]] | 提供诊断反馈，无强制惩罚 | 教学行为高度围绕考试转 |
+> | **制度后果** | 评价结果直接挂钩绩效考核与资源配置 | 行业声誉与[[Self-Efficacy\|自我效能感]] | 提供诊断反馈，无强制惩罚 | 教学行为高度围绕考试转 |
 
 ---
 
@@ -160,8 +160,8 @@ updated: 2026-07-21
 | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 |---|---|---|---|
 | **课程窄化与异化** | 高利害问责导致教学窄化与表演性文化 | 强管制、单指标高利害评价场景 | Ball (2003); Schweisfurth (2013) |
-| **情境化并行与改造** | 建立共享目标可驱动问责与改革协同 | 考试转向[[Higher-Order Thinking Skills|高阶思维]]考核或学校重构规则场景 | Boardman & Woodruff (2004); Solomon & Lewin (2016); [[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]] |
-| **全球中观嵌入** | 国际比较评估推动国家层面问责建制 | 全球教育治理与 GERM 扩散场景 | [[Argument_Li_2025_HSSC|Li et al. (2025)]] |
+| **情境化并行与改造** | 建立共享目标可驱动问责与改革协同 | 考试转向[[Higher-Order Thinking Skills\|高阶思维]]考核或学校重构规则场景 | Boardman & Woodruff (2004); Solomon & Lewin (2016); [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]] |
+| **全球中观嵌入** | 国际比较评估推动国家层面问责建制 | 全球教育治理与 GERM 扩散场景 | [[Argument_Li_2025_HSSC\|Li et al. (2025)]] |
 
 ---
 
@@ -205,10 +205,10 @@ updated: 2026-07-21
 
 > [!ref-table]- 其他实证结果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
-> | 研究 | 样本与情境 | 研究设计 | [[Variable|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]] | 华北某区 4 所案例学校（2 城市、2 农村），4 位校长，9 位骨干教师，25 份访谈[[Transcription in Qualitative Research|转录]]稿 | 质性[[Case Study|案例研究]]与[[Third Generation Activity Theory|活动理论]]模板分析 | 考试问责与教学改革系统 6 要素（规则、工具、分工等） | 城市一校（前 5%）与农村一校由于未调整考评规则与分工而陷入改革停滞；城市二校（优生率增长 10%）与农村二校（垫底校）通过重构观课规则与绩效加分，将改革绑定为高阶考题与课堂 45 分钟效率工具，实现扩展性改造 | 质性案例研究，无量化显著性检验 | 样本规模较小（4 校），田野窗口为 1 年，仅代表特定东亚考试文化情境 |
-> | [[Argument_Li_2025_HSSC|Li et al. (2025)]] | 全球多个国家（包括瑞士、挪威、中国、加拿大等）教育政策与监测体系 | 质性[[Systematic Review|系统综述]]与[[Documentary Analysis|文献分析]] | [[PISA]] 比较逻辑与国家中观教育监测制度 | PISA 推动各国建立与国际标准对接的全国性监测体系（如瑞士 [[HarmoS]] 标准、中挪质量监测），在中观治理层面深化了 [[Global Education Reform Movement|GERM]] 逻辑 | 质性综述 | 侧重中观政策分析，未深入微观课堂观察 |
+> | [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]] | 华北某区 4 所案例学校（2 城市、2 农村），4 位校长，9 位骨干教师，25 份访谈[[Transcription in Qualitative Research\|转录]]稿 | 质性[[Case Study\|案例研究]]与[[Third Generation Activity Theory\|活动理论]]模板分析 | 考试问责与教学改革系统 6 要素（规则、工具、分工等） | 城市一校（前 5%）与农村一校由于未调整考评规则与分工而陷入改革停滞；城市二校（优生率增长 10%）与农村二校（垫底校）通过重构观课规则与绩效加分，将改革绑定为高阶考题与课堂 45 分钟效率工具，实现扩展性改造 | 质性案例研究，无量化显著性检验 | 样本规模较小（4 校），田野窗口为 1 年，仅代表特定东亚考试文化情境 |
+> | [[Argument_Li_2025_HSSC\|Li et al. (2025)]] | 全球多个国家（包括瑞士、挪威、中国、加拿大等）教育政策与监测体系 | 质性[[Systematic Review\|系统综述]]与[[Documentary Analysis\|文献分析]] | [[PISA]] 比较逻辑与国家中观教育监测制度 | PISA 推动各国建立与国际标准对接的全国性监测体系（如瑞士 [[HarmoS]] 标准、中挪质量监测），在中观治理层面深化了 [[Global Education Reform Movement\|GERM]] 逻辑 | 质性综述 | 侧重中观政策分析，未深入微观课堂观察 |
 
 ---
 

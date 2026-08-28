@@ -94,11 +94,11 @@ updated: 2026-08-22
 > [!contrast-table] 清算中心对评估者独立性（Evaluator Independence）的审查规则（基于 Wadhwa et al., 2024）
 > | 清算中心 | 对独立评估者的制度要求 | 门槛未达标处理结果 | 制度取向定性 |
 > |:---|:---|:---|:---|
-> | **[[Blueprints for Healthy Youth Development|Blueprints]]** | **强制要求** 最高评级（Model Plus）必须包含至少 1 项由**无经济与研发关联的独立团队**完成的高质量 [[Randomised Controlled Trials|RCT]] 复制。 | 仅有开发者自评的研究，即使设计无可挑剔，**最高只能评为 Model 或 Promising**。 | **极高（严格防范[[Conflict of Interest in Research|利益冲突]]）** |
-> | **[[National Dropout Prevention Center|NDPC]]** | **原则性要求** 明确要求研究须由独立于开发者的评估者完成。 | [[Praxis|实践]]中准入门槛较为包容，依赖作者自述。 | **适度（实践倡导型）** |
-> | **[[What Works Clearinghouse|WWC]]** | **未设强制要求** 只要研究满足因果设计（低[[Attrition|流失]] RCT / 基线等值 [[Quasi-Experimental Designs|QED]]），允许全部由开发者团队完成。 | 开发者自评研究可直接获得最高级别（Positive / Meets Without Reservations）。 | **中立（仅审查方法技术指标）** |
-> | **[[Best Evidence Encyclopedia|BEE]]** | **未设强制要求** 允许开发者自评研究进入[[Meta-analysis|元分析]]，依赖样本加权与实质重要性门槛综合。 | 开发者自评研究可作为支撑 Strong Evidence 的核心证据。 | **宽容（面临角色重叠批评）** |
-> | **[[California Evidence Based Clearinghouse for Child Social and Economic Welfare|CEBC]]** | **未设强制要求** 聚焦研究设计、同行评审与 12 个月随访期，不要求评估者与开发者完全隔离。 | 只要随访期达标即可授予 Well-Supported。 | **临床导向（重随访轻身份）** |
+> | **[[Blueprints for Healthy Youth Development\|Blueprints]]** | **强制要求** 最高评级（Model Plus）必须包含至少 1 项由**无经济与研发关联的独立团队**完成的高质量 [[Randomised Controlled Trials\|RCT]] 复制。 | 仅有开发者自评的研究，即使设计无可挑剔，**最高只能评为 Model 或 Promising**。 | **极高（严格防范[[Conflict of Interest in Research\|利益冲突]]）** |
+> | **[[National Dropout Prevention Center\|NDPC]]** | **原则性要求** 明确要求研究须由独立于开发者的评估者完成。 | [[Praxis\|实践]]中准入门槛较为包容，依赖作者自述。 | **适度（实践倡导型）** |
+> | **[[What Works Clearinghouse\|WWC]]** | **未设强制要求** 只要研究满足因果设计（低[[Attrition\|流失]] RCT / 基线等值 [[Quasi-Experimental Designs\|QED]]），允许全部由开发者团队完成。 | 开发者自评研究可直接获得最高级别（Positive / Meets Without Reservations）。 | **中立（仅审查方法技术指标）** |
+> | **[[Best Evidence Encyclopedia\|BEE]]** | **未设强制要求** 允许开发者自评研究进入[[Meta-analysis\|元分析]]，依赖样本加权与实质重要性门槛综合。 | 开发者自评研究可作为支撑 Strong Evidence 的核心证据。 | **宽容（面临角色重叠批评）** |
+> | **[[California Evidence Based Clearinghouse for Child Social and Economic Welfare\|CEBC]]** | **未设强制要求** 聚焦研究设计、同行评审与 12 个月随访期，不要求评估者与开发者完全隔离。 | 只要随访期达标即可授予 Well-Supported。 | **临床导向（重随访轻身份）** |
 
 ---
 
@@ -120,4 +120,4 @@ updated: 2026-08-22
 > | [[Publication Bias]] | 关联偏误 | 缺乏独立性是加剧学术界与商业咨询界发表偏倚的最关键推手。 |
 > | [[Blueprints for Healthy Youth Development]] | 评价机构 | 将独立评估者设为区分 Model Plus 与 Model 的国际标杆机构。 |
 > | [[Best Evidence Encyclopedia]] | 评价机构 | 因未强制要求独立性而在研发者自评治理上受到方法学审思。 |
-> | [[Campbellian Validity Framework]] | 理论基础 | 独立性保障了[[Construct Validity|构念效度]]与外在效度在真实政策扩散中的稳健性。 |
+> | [[Campbellian Validity Framework]] | 理论基础 | 独立性保障了[[Construct Validity\|构念效度]]与外在效度在真实政策扩散中的稳健性。 |

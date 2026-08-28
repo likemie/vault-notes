@@ -114,8 +114,8 @@ updated: '2026-07-24'
 > [!contrast-table] 3T 框架的三大核心阶段对比
 > | 维度 | 转移 (Transfer) | 转译 (Translation) | 转化 (Transformation) |
 > |------|----------------|-------------------|----------------------|
-> | **核心语义** | 思想或[[Praxis|实践]]在超国家、跨国或国际空间中的物理移动 | 接受国行动者对外来思想或制度的本土化重释与[[Coding in Qualitative Research|编码]] | 社会经济与政治权力压缩对转译产物施加的二次重塑与改观 |
-> | **隐喻意象** | **太空门时刻 (Space-gate Moment)** 穿越地理边界进入本土边界的入口点 | **变色龙过程 (Chameleon Process)** 随接受国本土环境而自动变换形态颜色 | **本土化与灭绝 (Indigenisation & Extinction)** 因本土深层权力关系挤压而产生本质[[Shape-Shifting|形变]]或消亡 |
+> | **核心语义** | 思想或[[Praxis\|实践]]在超国家、跨国或国际空间中的物理移动 | 接受国行动者对外来思想或制度的本土化重释与[[Coding in Qualitative Research\|编码]] | 社会经济与政治权力压缩对转译产物施加的二次重塑与改观 |
+> | **隐喻意象** | **太空门时刻 (Space-gate Moment)** 穿越地理边界进入本土边界的入口点 | **变色龙过程 (Chameleon Process)** 随接受国本土环境而自动变换形态颜色 | **本土化与灭绝 (Indigenisation & Extinction)** 因本土深层权力关系挤压而产生本质[[Shape-Shifting\|形变]]或消亡 |
 > | **分析重点** | 关注谁将什么知识通过何种管道带到哪里 | 关注外来思想如何与接受国法律、体制与课程语言融合 | 关注本土宏观社会矛盾与微观物质约束如何扭曲落地实践 |
 
 ---
@@ -192,9 +192,9 @@ updated: '2026-07-24'
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **3T 阶段演进与形态重塑** | 追踪知识移动中太空门时刻、变色龙过程与权力压缩变形 | 比较教育学、政策流动 | [[Argument_Cowen_2009_CE|Cowen (2009, p.255)]]; [[Argument_Beech_2009_CE|Beech (2009, p.348)]] |
-> | **地缘政治与制度移植** | 分析国际关系范式与强制占领下的差异化转化 | 比较教育史、后殖民研究 | [[Argument_Klerides_2023_CE|Klerides (2023, pp.422–427)]]; [[Argument_Cowen_2009_CE|Cowen (2009, p.257)]] |
-> | **危机社会中的解耦与重组** | 揭示民国与建国后中国对外来思想的去政治化折算与三重变形 | 中国教育思想史、跨国转移 | [[Argument_Zhou_2024_CE|Zhou & Westberg (2024, pp.614–623)]]; [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009, pp.79–93)]] |
+> | **3T 阶段演进与形态重塑** | 追踪知识移动中太空门时刻、变色龙过程与权力压缩变形 | 比较教育学、政策流动 | [[Argument_Cowen_2009_CE\|Cowen (2009, p.255)]]; [[Argument_Beech_2009_CE\|Beech (2009, p.348)]] |
+> | **地缘政治与制度移植** | 分析国际关系范式与强制占领下的差异化转化 | 比较教育史、后殖民研究 | [[Argument_Klerides_2023_CE\|Klerides (2023, pp.422–427)]]; [[Argument_Cowen_2009_CE\|Cowen (2009, p.257)]] |
+> | **危机社会中的解耦与重组** | 揭示民国与建国后中国对外来思想的去政治化折算与三重变形 | 中国教育思想史、跨国转移 | [[Argument_Zhou_2024_CE\|Zhou & Westberg (2024, pp.614–623)]]; [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009, pp.79–93)]] |
 
 ---
 

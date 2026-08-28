@@ -74,9 +74,9 @@ updated: 2026-06-10
 > [!framework-table] 分析视角
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **演化视角**<br>Evolutionary Perspective | 将[[University-Industry Collaboration|产学合作]]视为随时间演化的动态过程，而非静态状态 |
+> | **演化视角**<br>Evolutionary Perspective | 将[[University-Industry Collaboration\|产学合作]]视为随时间演化的动态过程，而非静态状态 |
 > | **[[UIC Evolutionary Phases]]**<br>产学合作演化四阶段 | 胚胎期、启动期、参与期、确立期，每阶段有三组界面（产业-产业、产业-大学、大学-大学）的差异化障碍和促进因素 |
-> | **[[Social Capital Theory|社会资本理论]]**<br>Social Capital Theory | 解释信任（声誉基础 vs 诚信基础）、凝聚性和互惠性在合作演化中的角色变化 |
+> | **[[Social Capital Theory\|社会资本理论]]**<br>Social Capital Theory | 解释信任（声誉基础 vs 诚信基础）、凝聚性和互惠性在合作演化中的角色变化 |
 
 ---
 ## 研究方法
@@ -84,15 +84,15 @@ updated: 2026-06-10
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **单一站点案例研究**<br>Single Site Case Study | 以 [[Synthesis and Solid State Pharmaceutical Centre|SSPC]] 为案例，追踪其从成立前到成熟（13 年以上）的完整演化过程 |
+> | **单一站点案例研究**<br>Single Site Case Study | 以 [[Synthesis and Solid State Pharmaceutical Centre\|SSPC]] 为案例，追踪其从成立前到成熟（13 年以上）的完整演化过程 |
 > | **半结构化深度访谈**<br>Semi-structured Interviews | 10 次访谈，每次 50-105 分钟，覆盖学术界和产业界的核心参与者 |
-> | **主题分析**<br>Thematic Analysis | 开放式[[Coding in Qualitative Research|编码]] → 抽象编码 → 概念与理论编码的三阶段分析过程 |
+> | **主题分析**<br>Thematic Analysis | 开放式[[Coding in Qualitative Research\|编码]] → 抽象编码 → 概念与理论编码的三阶段分析过程 |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |----------|------|
 > | **产业参与者** | 10 家跨国制药企业的高级研发管理者 |
-> | **[[Academic Engagement|学术参与]]者** | 8 所学术机构的项目负责人和研究者 |
+> | **[[Academic Engagement\|学术参与]]者** | 8 所学术机构的项目负责人和研究者 |
 > | **时间跨度** | 13+ 年（从正式合作前到确立期） |
 > | **匿名化** | 所有受访者使用化名 |
 

@@ -76,7 +76,7 @@ updated: 2026-08-03
 > - **创造—行动—服务（[[Creativity, Action, Service|CAS]]）** 要求学生参与社区服务、体育和[[Creativity|创造性]]活动，培养全人发展。
 
 > [!info] TOK 评估结构
-> TOK 评估由两部分组成，均不采用选择题等快速反应测试，以呼应[[Critical Thinking|批判性思维]]需要充分反思时间的理念（[[Argument_Zemplen_2007_SciEduc|Zemplén, 2007, p. 171]]）：
+> TOK 评估由两部分组成，均不采用[[Multiple-Choice Questions|选择题]]等快速反应测试，以呼应[[Critical Thinking|批判性思维]]需要充分反思时间的理念（[[Argument_Zemplen_2007_SciEduc|Zemplén, 2007, p. 171]]）：
 > - **内部评估（1/3）** 学生完成一次与 TOK 相关的简短演讲，个人或小组形式均可。评分标准明确惩罚非个人化的套路性表达
 > - **外部评估（2/3）** 学生在家完成 1200–1600 字的论文，从每年公布的十个题目中选择一个，约半数题目与 NOS、HPS 或 SSI 直接相关
 
@@ -85,10 +85,10 @@ updated: 2026-08-03
 ## 实证数据
 
 > [!effect-table]- DP 毕业生 vs 非 DP 毕业生（[[Argument_Cole_2015_AJE|Cole et al., 2015]]）
-> | 比较 | 结果[[Variable|变量]] | n (DP/非DP) | Cohen's $d$（派生） | Hedges' $g$（派生） | [[School Effectiveness|SE]] | 设计 |
+> | 比较 | 结果[[Variable\|变量]] | n (DP/非DP) | Cohen's $d$（派生） | Hedges' $g$（派生） | [[School Effectiveness\|SE]] | 设计 |
 > |:-----|:---------|:-----------|:--------------------|:--------------------|:--|:-----|
 > | DP vs 非DP (澳大利亚) | ATAR | 94/267 | 0.442 | 0.441 | 0.121 | 组间比较 |
-> | DP vs 非DP (澳大利亚) | [[Academic Self-Concept|学术自我概念]] | 99/283 | 0.498 | 0.497 | 0.118 | 组间比较 |
+> | DP vs 非DP (澳大利亚) | [[Academic Self-Concept\|学术自我概念]] | 99/283 | 0.498 | 0.497 | 0.118 | 组间比较 |
 > | DP vs 非DP (澳大利亚) | 预期大学成果 | 99/283 | 0.239 | 0.239 | 0.117 | 组间比较 |
 >
 > 样本：$N = 389$ 名澳大利亚大学新生（DP=99, 非DP=290），来自悉尼大学和 QUT。Cohen's $d$ 与 Hedges' $g$ 由原文报告的均值、标准差和分组[[Sample Size Determination|样本量]]以 Python 计算，均非原文报告。无法分离 ToK 独立效果与 DP 整体效果；选课效应无法排除。

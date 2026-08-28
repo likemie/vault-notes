@@ -71,9 +71,9 @@ updated: 2026-06-05
 | 重大捐赠（冠名教席、建筑、原型基金） | 为专业发展、人员招聘、基础设施或优先项目提供重大资源 |
 | 联合合作（合资企业、发明优先权） | 产学双方共担风险，共享专业和资源支持研究和技术开发 |
 | 联合传播与营销 | 共同制定策略宣传共享项目和优先事项 |
-| 对国家组织的支持（如 [[University Industry Demonstration Partnership|UIDP]]、GUIRR） | 通过产学联合体组织加强合作和政策发展 |
+| 对国家组织的支持（如 [[University Industry Demonstration Partnership\|UIDP]]、GUIRR） | 通过产学联合体组织加强合作和政策发展 |
 | 员工校友匹配项目与校友团体组织 | 公司激励员工向母校捐赠，或组织员工校友团体 |
-| 大学-产业-政府三方互动 | [[University-Industry Collaboration|产学合作]]参与与双方利益一致的政府项目 |
+| 大学-产业-政府三方互动 | [[University-Industry Collaboration\|产学合作]]参与与双方利益一致的政府项目 |
 
 ---
 
