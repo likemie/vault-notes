@@ -122,8 +122,8 @@ citation_aliases:
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **[[Wight's Three Traditions of International Theory|怀特国际理论三大传统（Wight's Three Traditions）]]** | 马丁·[[William Foote Whyte|怀特]]（Martin Wight）在1950年代末至1960年代将国际关系思想归纳为三大传统。每一传统对国际社会的性质提供不同的理解，由此决定了什么值得比较、如何比较以及比较服务于什么目的(p. 417)。 |
-> | **[[Agendas of Attention|注意力议程（Agendas of Attention）]]** | 源自[[Robert Cowen|罗伯特·考恩]]（Robert Cowen, 2000）的[[Readings of the Global|阅读全球]]（reading the global）。不同的传统代表不同的阅读方式，产生多重的比较教育（multiple comparative educations），即选择性关注某些问题而忽略另一些。 |
+> | **[[Wight's Three Traditions of International Theory\|怀特国际理论三大传统（Wight's Three Traditions）]]** | 马丁·[[William Foote Whyte\|怀特]]（Martin Wight）在1950年代末至1960年代将国际关系思想归纳为三大传统。每一传统对国际社会的性质提供不同的理解，由此决定了什么值得比较、如何比较以及比较服务于什么目的(p. 417)。 |
+> | **[[Agendas of Attention\|注意力议程（Agendas of Attention）]]** | 源自[[Robert Cowen\|罗伯特·考恩]]（Robert Cowen, 2000）的[[Readings of the Global\|阅读全球]]（reading the global）。不同的传统代表不同的阅读方式，产生多重的比较教育（multiple comparative educations），即选择性关注某些问题而忽略另一些。 |
 > 
 > > [!warrant]- 理论如何支撑论证
 > > 怀特的三大传统（[[Realism in International Relations|现实主义]]、[[Rationalism in International Relations|理性主义]]、[[Revolutionism|革命主义]]）是分析的理想类型（ideal types），而非对经验现实的直接描述。虽然赫德利·布尔（Hedley Bull）指出这些传统过度欧洲中心主义，且其代表人物尼科洛·马基雅维利（Niccolò Machiavelli）、雨果·格劳秀斯（Hugo Grotius）和伊曼纽尔·[[Immanuel Kant|康德]]（Immanuel Kant）均来自西欧思想脉络(pp. 430–431)。然而，这一框架依然能够强有力地解释比较教育内部的核心论争（如[[Policy Borrowing|政策借用]]与情境理解、技术治理与批判解放的对立），展示这些分歧本质上是对国际社会性质底层设想的分歧。这些传统在打开未来的同时，生成了对比较教育学科多重且竞争性的身份与历史的感知。
@@ -135,8 +135,8 @@ citation_aliases:
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **理论建构与概念分析**<br>Theoretical Analysis and Conceptual Deconstruction | 这属于思辨性探讨，不涉及经验数据收集，具体方法逻辑是将怀特的[[Wight's Three Traditions of International Theory|国际关系三大传统]]作为分析透镜，逐一提取比较教育思想与实践在过去与现在的形态(p. 417)。 |
-> | **历史与当代案例检索**<br>Case Retrieval and Extraction | 从比较教育的历史[[Document|文献]]与当代文献中检索与三大传统核心概念（权力、权威、武力）相匹配的学术议程、政策实践和大学建制安排(pp. 417–418)。 |
+> | **理论建构与概念分析**<br>Theoretical Analysis and Conceptual Deconstruction | 这属于思辨性探讨，不涉及经验数据收集，具体方法逻辑是将怀特的[[Wight's Three Traditions of International Theory\|国际关系三大传统]]作为分析透镜，逐一提取比较教育思想与实践在过去与现在的形态(p. 417)。 |
+> | **历史与当代案例检索**<br>Case Retrieval and Extraction | 从比较教育的历史[[Document\|文献]]与当代文献中检索与三大传统核心概念（权力、权威、武力）相匹配的学术议程、政策实践和大学建制安排(pp. 417–418)。 |
 
 ---
 

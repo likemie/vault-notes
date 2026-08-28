@@ -171,7 +171,7 @@ citation_aliases:
 |------|------|------|
 | 时间尺度 | 百年以上历史 | 主导企业多在近五十年内成立 |
 | 治理模式 | 共享治理（shared governance），非营利 | 以营利为目的，上市公司或风投持有 |
-| 核心价值 | [[Academic Freedom|学术自由]]（academic freedom），组织"具有渗透性" | 知识产权控制，限制信息与人员流动 |
+| 核心价值 | [[Academic Freedom\|学术自由]]（academic freedom），组织"具有渗透性" | 知识产权控制，限制信息与人员流动 |
 | 成果输出 | 公开发表、开放分享 | 商业机密、专利保护 |
 | 目标优先级 | 声誉 > 收入 | 利润 > 声誉 |
 
@@ -199,8 +199,8 @@ citation_aliases:
 
 | 层次 | 章节 | 关注焦点 | 涵盖主题 |
 |------|------|----------|----------|
-| **Foundations**（基础） | Chaps. 1–5 | [[University-Industry Collaboration|产学合作]]的演化、组织模型、动机与成功指标 | 国际比较概览；以普林斯顿大学和 IBM 为具体案例 |
-| **Avenues**（路径） | Chaps. 6–13 | 产学合作发挥作用的领域 | 战略联盟与联合体、[[Innovation Hub|创新中心]]与经济发展、创业、高管教育、学术医疗系统、临床试验；如何在企业和大学内部争取支持 |
+| **Foundations**（基础） | Chaps. 1–5 | [[University-Industry Collaboration\|产学合作]]的演化、组织模型、动机与成功指标 | 国际比较概览；以普林斯顿大学和 IBM 为具体案例 |
+| **Avenues**（路径） | Chaps. 6–13 | 产学合作发挥作用的领域 | 战略联盟与联合体、[[Innovation Hub\|创新中心]]与经济发展、创业、高管教育、学术医疗系统、临床试验；如何在企业和大学内部争取支持 |
 | **Mechanics**（机制） | Chaps. 14–17 | 建立和维持产学关系的具体步骤 | 伦理与法律框架、知识产权管理、研究数据管理、国际合作关系 |
 
 ### Table 1.1: 各章主题
@@ -210,9 +210,9 @@ citation_aliases:
 | 产学合作的演化 | 战略伙伴关系与联合体 | 伦理与法律框架 |
 | 组织模型 | 创新中心与经济发展 | 知识产权管理 |
 | 动机与成功指标 | 创业 | 研究数据管理 |
-| 国际比较 | [[Executive Education|高管教育]] | 国际合作关系 |
+| 国际比较 | [[Executive Education\|高管教育]] | 国际合作关系 |
 | 产学合作案例： | 学术医疗系统 | |
-| · IBM | [[Clinical Trial|临床试验]] | |
+| · IBM | [[Clinical Trial\|临床试验]] | |
 | · Princeton | 争取内部支持： | |
 | | · 企业 | |
 | | · 大学 | |
@@ -228,15 +228,15 @@ citation_aliases:
 | 定位与战略 | 校友与外部参与   | 商业化      |
 | 障碍与机遇 | 临床研究与资助研究 | 版权       |
 | 合作    | 社区伙伴关系    | 数据安全与共享  |
-| 参与    | [[Cooperative Education|合作教育]]      | 外部参与     |
-| 重大挑战  | [[Corporate Venture Capital|企业风险投资]]    | 知识产权     |
+| 参与    | [[Cooperative Education\|合作教育]]      | 外部参与     |
+| 重大挑战  | [[Corporate Venture Capital\|企业风险投资]]    | 知识产权     |
 | 创新与接口 | 经济与区域发展   | 国际合作     |
-| [[Organizational Culture|组织文化]]  | 创业        | 许可与专利    |
+| [[Organizational Culture\|组织文化]]  | 创业        | 许可与专利    |
 | 伙伴关系  | 资金与支持计划   | 材料转移     |
 | 路线图   | 产业伙伴关系    | 政策与法规    |
-| 利益相关者 | [[Innovation Park|研究园区]]      | 隐私与透明度   |
+| 利益相关者 | [[Innovation Park\|研究园区]]      | 隐私与透明度   |
 |       | 初创企业      | 宣传推广     |
-|       | 人才与技能发展   | [[Research Ethics|研究伦理]]     |
+|       | 人才与技能发展   | [[Research Ethics\|研究伦理]]     |
 |       |           | 负责任的科研行为 |
 |       |           | 培训与专业发展  |
 

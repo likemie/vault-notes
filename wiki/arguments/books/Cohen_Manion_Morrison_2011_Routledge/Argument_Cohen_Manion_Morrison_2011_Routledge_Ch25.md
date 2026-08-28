@@ -203,7 +203,7 @@ Fransella（2003, pp. 455–457）提供了该理论所有组成部分的简明�
 > | 类型 | 自由度 | 示例 |
 > |------|--------|------|
 > | 无选择 | 完全固定 | 现在的我 |
-> | 有限选择 | 可替换[[Role-playing|角色扮演]]者 | 你的母亲，或在你生活中承担该角色的人 |
+> | 有限选择 | 可替换[[Role-playing\|角色扮演]]者 | 你的母亲，或在你生活中承担该角色的人 |
 > | 广泛选择 | 自由提名 | 一位你敬佩的教师 |
 
 > [!warning] 价值负载角色头衔的极化效应
@@ -518,7 +518,7 @@ Fransella（2003, pp. 455–457）提供了该理论所有组成部分的简明�
 > >
 > > | 类别 | 内容 | 示例构念 |
 > > |------|------|---------|
-> > | （i）科学本质 | 科学的[[Epistemology|认识论]]特征 | 客观/主观 |
+> > | （i）科学本质 | 科学的[[Epistemology\|认识论]]特征 | 客观/主观 |
 > > | （ii）探究面向 | 研究方法与工具 | 使用地图或图表/不这样使用 |
 > > | （iii）应用与专业面向 | 就业和环境影响 | 更多就业机会/更少；改变环境/保护环境 |
 > > | （iv）情感面向 | 个人偏好与难度感知 | 喜欢/不喜欢；困难/容易 |
@@ -618,7 +618,7 @@ Fransella（2003, pp. 455–457）提供了该理论所有组成部分的简明�
 > > |------|------|------|
 > > | 第一层 | Basic system description | 对系统基本特征的描述 |
 > > | 第二层 | Evaluative description | 对这些特征的评价性描述 |
-> > | 第三层 | Key evaluations | 易用性、效率、[[Conatus|努力]]和有效性的核心评价 |
+> > | 第三层 | Key evaluations | 易用性、效率、[[Conatus\|努力]]和有效性的核心评价 |
 >
 > 关键评价模型（含程序要素的连接）为进一步从用户视角评估搜索引擎提供了研究框架（p. 15）。
 
@@ -678,7 +678,7 @@ Fransella（2003, pp. 455–457）提供了该理论所有组成部分的简明�
 > | **综合门户** | [PCP-net](https://www.pcp-net.org/) | 极为全面的网站，含大量资源和链接 |
 > | **综合门户** | [Enquire Within](https://www.enquirewithin.co.nz/) | 另一个综合网站 |
 > | **在线期刊** | [Personal Construct Theory and Practice](https://www.pcp-net.org/journal/) | 同行评审在线期刊 |
-> | **北美组织** | [Constructivist Psychology](https://www.constructivistpsych.org/) | 北美[[Constructivist Paradigm|建构主义]]心理学组织 |
+> | **北美组织** | [Constructivist Psychology](https://www.constructivistpsych.org/) | 北美[[Constructivist Paradigm\|建构主义]]心理学组织 |
 > | **澳大利亚组织** | [Aus PCP](https://www.pcp-net.org/aus/) | 澳大利亚个人建构心理学 |
 > | **免费软件 - Windows** | [Idiogrid](https://www.idiogrid.com/) | 全面的 Windows 网格程序 |
 > | **购买软件** | [Gridsuite](https://www.gridsuite.de/) | 德语或英语版本 |
