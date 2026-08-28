@@ -12325,6 +12325,17 @@
     ]
   },
   {
+    "title": "Average Variance Extracted",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Average Variance Extracted.md",
+    "aliases": [
+      "平均方差抽取量",
+      "平均方差提取量",
+      "AVE",
+      "平均方差变异抽取量"
+    ]
+  },
+  {
     "title": "Begg and Mazumdar Rank Correlation",
     "type": "method",
     "path": "wiki/methods/quantitative/Begg and Mazumdar Rank Correlation.md",
@@ -12447,12 +12458,39 @@
     ]
   },
   {
+    "title": "Composite Reliability",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Composite Reliability.md",
+    "aliases": [
+      "组合信度",
+      "复合信度",
+      "构念信度",
+      "construct reliability",
+      "Raykov rho",
+      "Dillon-Goldstein rho"
+    ]
+  },
+  {
     "title": "Confirmatory Factor Analysis",
     "type": "method",
     "path": "wiki/methods/quantitative/Confirmatory Factor Analysis.md",
     "aliases": [
       "验证性因子分析",
       "CFA"
+    ]
+  },
+  {
+    "title": "Content Validity Index",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Content Validity Index.md",
+    "aliases": [
+      "内容效度指数",
+      "CVI",
+      "I-CVI",
+      "S-CVI",
+      "Content Validity Ratio",
+      "CVR",
+      "专家内容效度评估"
     ]
   },
   {
@@ -12771,6 +12809,18 @@
     "path": "wiki/methods/quantitative/Matching.md",
     "aliases": [
       "匹配法"
+    ]
+  },
+  {
+    "title": "Measurement Invariance",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Measurement Invariance.md",
+    "aliases": [
+      "测量等值性",
+      "测量不变性",
+      "多组测量等值性",
+      "测量等同性",
+      "跨组测量不变性"
     ]
   },
   {
@@ -13165,7 +13215,9 @@
       "量表开发",
       "量表构建",
       "Scale Construction",
-      "Scale Validation"
+      "Scale Validation",
+      "Psychometric Scale Development",
+      "量表开发与心理计量验证"
     ]
   },
   {
