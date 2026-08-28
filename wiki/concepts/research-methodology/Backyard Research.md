@@ -47,5 +47,5 @@ updated: 2026-06-01
 如果研究后院不可避免，研究者有责任展示（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9）：
 - 数据如何不被妥协
 - 信息如何不将参与者（或研究者）置于风险之中
-- 多种效度策略（[[Triangulation\|三角验证]]、[[Member Checking\|成员核查]]等）如何证明信息的准确性
+- 多种效度策略（[[Triangulation|三角验证]]、[[Member Checking|成员核查]]等）如何证明信息的准确性
 

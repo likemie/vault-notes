@@ -127,12 +127,12 @@ issuing_organization: ""
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |---|---|
-> | **德尔菲共识框架（APA Delphi Consensus）**<br>[[APA Delphi Consensus on Critical Thinking]] · [[Critical Thinking]] | [[Peter Facione\|Facione (1990)]] 领衔确立的批判性思维六项核心认知技能（解释 Interpretation、分析 Analysis、评价 Evaluation、推论 Inference、说明 Explanation、自我调节 Self-Regulation）及[[Critical Thinking Disposition\|思维倾向]][[Construct\|构念]]，为干预效果的界定与标准化测试筛选提供[[Operationalization\|操作化]]判据。（pp. 277–278） |
-> | **显性教学与四类课程模式**<br>[[Explicit Critical Thinking Instruction]] · [[Ennis's Curricular Typology]] | [[Robert Ennis\|Ennis (1989)]] 提出的通用（General）、[[Infusion Approach\|融入（Infusion）]]、[[Immersion Approach\|沉浸（Immersion）]]与混合（Mixed）四类课程模式，用于区分思维原则的显性示范程度与学科知识的结合架构。（pp. 280–281） |
-> | **实用主义探究与真实学习**<br>[[Authentic Instruction]] | [[John Dewey\|杜威]]（Dewey）关于“言之有物”与真实情境探究的理论，论证真实生活问题、模拟演练与劣构情境在激发主动思考动机与提供认知锚点中的基底作用。（pp. 286–287） |
-> | **苏格拉底对话与社会建构**<br>[[Dialogue in Education]] | 强调师生提问、结构化辩论与同伴协商在暴露认知矛盾、检验论证充分性与[[Externalization\|外化]]思维过程中的核心中介机制。（pp. 285–286） |
-> | **学徒制与认知脚手架理论**<br>[[Mentorship]] | 导师示范专家思维、提供反思反馈并在[[Zone of Proximal Development\|最近发展区]]内提供适时支持，发挥认知脚手架与催化功能。（pp. 287–288） |
-> | **批判哲学视角的反思**<br>[[Gert Biesta\|Biesta]] & Stams; Marshall | 从反教条主义与福柯“自由实践”视角审视标准化测量与工具化批判性思维的局限，为理解思维干预的深层价值与边界提供反思透镜。（pp. 278–280） |
+> | **德尔菲共识框架（APA Delphi Consensus）**<br>[[APA Delphi Consensus on Critical Thinking]] · [[Critical Thinking]] | [[Peter Facione|Facione (1990)]] 领衔确立的批判性思维六项核心认知技能（解释 Interpretation、分析 Analysis、评价 Evaluation、推论 Inference、说明 Explanation、自我调节 Self-Regulation）及[[Critical Thinking Disposition|思维倾向]][[Construct|构念]]，为干预效果的界定与标准化测试筛选提供[[Operationalization|操作化]]判据。（pp. 277–278） |
+> | **显性教学与四类课程模式**<br>[[Explicit Critical Thinking Instruction]] · [[Ennis's Curricular Typology]] | [[Robert Ennis|Ennis (1989)]] 提出的通用（General）、[[Infusion Approach|融入（Infusion）]]、[[Immersion Approach|沉浸（Immersion）]]与混合（Mixed）四类课程模式，用于区分思维原则的显性示范程度与学科知识的结合架构。（pp. 280–281） |
+> | **实用主义探究与真实学习**<br>[[Authentic Instruction]] | [[John Dewey|杜威]]（Dewey）关于“言之有物”与真实情境探究的理论，论证真实生活问题、模拟演练与劣构情境在激发主动思考动机与提供认知锚点中的基底作用。（pp. 286–287） |
+> | **苏格拉底对话与社会建构**<br>[[Dialogue in Education]] | 强调师生提问、结构化辩论与同伴协商在暴露认知矛盾、检验论证充分性与[[Externalization|外化]]思维过程中的核心中介机制。（pp. 285–286） |
+> | **学徒制与认知脚手架理论**<br>[[Mentorship]] | 导师示范专家思维、提供反思反馈并在[[Zone of Proximal Development|最近发展区]]内提供适时支持，发挥认知脚手架与催化功能。（pp. 287–288） |
+> | **批判哲学视角的反思**<br>[[Gert Biesta|Biesta]] & Stams; Marshall | 从反教条主义与福柯“自由实践”视角审视标准化测量与工具化批判性思维的局限，为理解思维干预的深层价值与边界提供反思透镜。（pp. 278–280） |
 
 > [!warrant]- 理论如何支撑论证
 > 德尔菲框架确立了目标能力的认知与倾向维度；Ennis 模式提供了课程架构维度的解释工具；而真实性教学、对话与导师制三维框架则直接切入微观教学过程，解释了情境锚点、互动论辩与认知脚手架如何共同促成批判性思维的发展与迁移。（pp. 281–288）
@@ -142,14 +142,14 @@ issuing_organization: ""
 ### 核心变量与操作化编码表
 
 > [!index-table] 核心[[Variable|变量]]操作化定义与[[Coding in Qualitative Research|编码]]规程
-> | [[Variable\|变量]]维度与分类 | [[Construct\|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
+> | [[Variable|变量]]维度与分类 | [[Construct|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
 > |---|---|---|
-> | **通用批判性思维技能**<br>（Generic CT Skills） | 跨领域的通用认知技能，包括论证分析、证据评价、[[Hypothesis\|假设]]识别与逻辑推论。 | 标准化测试：[[California Critical Thinking Disposition Inventory\|CCTDI]] 关联技能量表、加州批判性思维技能测验（CCTST）、Watson-Glaser 批判性思维评估（WGCTA）、Ennis-Weir 批判性思维论证测试、Cornell 批判性思维测试；纳入 $k = 341$ 个效应量。（pp. 283–284, 289–291） |
-> | **[[Domain Specificity\|学科特异性]]批判性思维技能**<br>（Content-Specific CT Skills） | 嵌入特定学科领域（如化学、历史、护理）的情境化批判性思维表现。 | 学科特异性标准化与自编测验；纳入 $k = 97$ 个效应量。（pp. 295–296） |
-> | **[[Critical Thinking Disposition\|批判性思维倾向]]**<br>（CT Dispositions） | 运用批判性思维的习惯、态度与倾向（求真、开放、探究、系统性等）。 | 加州批判性思维倾向问卷（[[California Critical Thinking Disposition Inventory\|CCTDI]]）等自陈量表；排除前实验后纳入 $k = 25$ 个效应量。（pp. 296–297） |
+> | **通用批判性思维技能**<br>（Generic CT Skills） | 跨领域的通用认知技能，包括论证分析、证据评价、[[Hypothesis|假设]]识别与逻辑推论。 | 标准化测试：[[California Critical Thinking Disposition Inventory|CCTDI]] 关联技能量表、加州批判性思维技能测验（CCTST）、Watson-Glaser 批判性思维评估（WGCTA）、Ennis-Weir 批判性思维论证测试、Cornell 批判性思维测试；纳入 $k = 341$ 个效应量。（pp. 283–284, 289–291） |
+> | **[[Domain Specificity|学科特异性]]批判性思维技能**<br>（Content-Specific CT Skills） | 嵌入特定学科领域（如化学、历史、护理）的情境化批判性思维表现。 | 学科特异性标准化与自编测验；纳入 $k = 97$ 个效应量。（pp. 295–296） |
+> | **[[Critical Thinking Disposition|批判性思维倾向]]**<br>（CT Dispositions） | 运用批判性思维的习惯、态度与倾向（求真、开放、探究、系统性等）。 | 加州批判性思维倾向问卷（[[California Critical Thinking Disposition Inventory|CCTDI]]）等自陈量表；排除前实验后纳入 $k = 25$ 个效应量。（pp. 296–297） |
 > | **学业成就**<br>（Achievement） | 课程学科知识与常规内容掌握度。 | 学科期末考试、标准化成就测验；纳入 $k = 140$ 个效应量。（p. 295） |
-> | **教学策略：对话**<br>（Dialogue） | 师生或生生之间针对有争议问题的互动论辩与研讨。 | 11 个子类编码：教师提问（2.1）、学生提问（2.2）、双人配对（2.3/2.6）、全班研讨（2.4/2.7）、小组研讨（2.5/2.8）、正式辩论（2.9）、学生汇报后研讨（2.10）、[[Socrates\|苏格拉底]]对话（2.11）。（pp. 285–286） |
-> | **教学策略：真实性教学**<br>（Authentic Instruction） | 呈现源自现实生活的真实、复杂或有意义的探究情境。 | 4 个子类编码：应用型问题解决（3.1）、[[Role-playing\|角色扮演]]（3.2）、情境模拟（3.3）、两难困境分析（3.4）。（pp. 286–287） |
+> | **教学策略：对话**<br>（Dialogue） | 师生或生生之间针对有争议问题的互动论辩与研讨。 | 11 个子类编码：教师提问（2.1）、学生提问（2.2）、双人配对（2.3/2.6）、全班研讨（2.4/2.7）、小组研讨（2.5/2.8）、正式辩论（2.9）、学生汇报后研讨（2.10）、[[Socrates|苏格拉底]]对话（2.11）。（pp. 285–286） |
+> | **教学策略：真实性教学**<br>（Authentic Instruction） | 呈现源自现实生活的真实、复杂或有意义的探究情境。 | 4 个子类编码：应用型问题解决（3.1）、[[Role-playing|角色扮演]]（3.2）、情境模拟（3.3）、两难困境分析（3.4）。（pp. 286–287） |
 > | **教学策略：导师制**<br>（Mentoring） | 专家、教师或同伴对学习者提供个性化一对一或小班指导与示范。 | 3 个子类编码：教师-学生导师制（4.1）、同伴辅导（4.2）、校外专家导师制（4.3）。（pp. 287–288） |
 > | **课程模式（Ennis 框架）**<br>（Course Typology） | 批判性思维与学科内容的结构关系。 | 通用模式（独立设课）、融入模式（学科内显性教思维）、沉浸模式（学科内隐性渗透）、混合模式（独立显性教学 + 学科融入）。（pp. 280–281） |
 >
@@ -163,8 +163,8 @@ issuing_organization: ""
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
 > | **文献检索与数据库**<br>Systematic Search | 检索 15 个教育学、心理学、医学与跨学科数据库（包括 ERIC, PsycINFO, Web of Science, ProQuest Dissertations, PubMed 等），时间跨度从 1930 年代末至 2009 年，涵盖已发表论文、硕博论文及会议报告。（pp. 282–283, 306） |
-> | **纳入与排除标准**<br>Eligibility Criteria | 纳入研究必须：(1) 包含明确的[[Critical Thinking\|批判性思维]]教学干预；(2) 报告对照组或前[[Pre-test and Post-test\|后测]]定量数据以计算[[Effect Size\|效应量]]；(3) 针对正规或成人教育学习者。排除未报告充分统计量、无教学干预或纯理论[[Document\|文献]]。（pp. 283–284） |
-> | **效应量计算与模型**<br>[[Meta-analysis\|Meta-Analytic]] Synthesis | 计算无偏估计量 Hedges' $g+$；采用随机效应模型（Random-Effects Model）进行总体合成，混合效应模型进行调节变量分析；使用 Comprehensive Meta-Analysis（CMA v2.2）软件执行。（pp. 284–285） |
+> | **纳入与排除标准**<br>Eligibility Criteria | 纳入研究必须：(1) 包含明确的[[Critical Thinking|批判性思维]]教学干预；(2) 报告对照组或前[[Pre-test and Post-test|后测]]定量数据以计算[[Effect Size|效应量]]；(3) 针对正规或成人教育学习者。排除未报告充分统计量、无教学干预或纯理论[[Document|文献]]。（pp. 283–284） |
+> | **效应量计算与模型**<br>[[Meta-analysis|Meta-Analytic]] Synthesis | 计算无偏估计量 Hedges' $g+$；采用随机效应模型（Random-Effects Model）进行总体合成，混合效应模型进行调节变量分析；使用 Comprehensive Meta-Analysis（CMA v2.2）软件执行。（pp. 284–285） |
 > | **质量控制与偏倚检验**<br>Sensitivity & Bias Audit | 剔除 15 个极端异常值（$g \ge +2.5$）；剔除前实验设计（Pre-experiments，单组前后测），保留高质量准实验（$k=243$）与真实验（$k=98$）；通用技能分析严格限制为标准化测试；检验漏斗图对称性、经典失安全系数（Fail-Safe $N = 434,819$）与 Orwin 失安全系数（$N = 1,833$）。（pp. 288–291） |
 
 > [!sample-panel]- 样本与材料快照
@@ -214,13 +214,13 @@ issuing_organization: ""
 > 4. **干预时长** 从数天内的短期强化（$g+ = 0.66$）、中期干预（$g+ = 0.33$）到一学期（$g+ = 0.27$）及长程教学（$g+ = 0.23$），干预均产生持续成效。（pp. 292–293）
 
 > [!ma-table]- 表 1A 与表 1B：通用批判性思维效应量在出版类型与研究设计中的分布
-> | 调节[[Variable\|变量]]维度 | 分类亚组 | 效应量数 $k$ | 汇总加权效应 $g+$ | 95% CI 下限 | 95% CI 上限 | 组内异质性 [[Cochran's Q Test\|$Q_w$]] | 组内 [[I-squared Statistic\|$I^2$ (%) ]] | 组间检验 $Q_b$ (df, $p$) |
+> | 调节[[Variable|变量]]维度 | 分类亚组 | 效应量数 $k$ | 汇总加权效应 $g+$ | 95% CI 下限 | 95% CI 上限 | 组内异质性 [[Cochran's Q Test|$Q_w$]] | 组内 [[I-squared Statistic|$I^2$ (%) ]] | 组间检验 $Q_b$ (df, $p$) |
 > |---|---|---|---|---|---|---|---|---|
 > | **出版类型**<br>(Table 1A) | 期刊论文（Journal Articles） | 188 | 0.28 | 0.22 | 0.35 | 663.26 ($p < .001$) | 71.81% | $Q_b(2) = 1.02$ ($p = .60$) |
 > | | 著作章节/会议论文（Book/Conference） | 36 | 0.30 | 0.17 | 0.44 | 127.81 ($p < .001$) | 72.62% | |
 > | | 硕博论文（Theses/Dissertations） | 117 | 0.33 | 0.25 | 0.40 | 433.80 ($p < .001$) | 73.26% | |
-> | **研究设计**<br>(Table 1B) | [[True Experimental Design\|真实验设计]]（True Experiments） | 98 | 0.34 | 0.25 | 0.43 | 347.16 ($p < .001$) | 72.06% | $Q_b(1) = 1.25$ ($p = .26$) |
-> | | [[Quasi-Experimental Designs\|准实验设计]]（Quasi-Experiments） | 243 | 0.28 | 0.23 | 0.33 | 874.83 ($p < .001$) | 72.34% | |
+> | **研究设计**<br>(Table 1B) | [[True Experimental Design|真实验设计]]（True Experiments） | 98 | 0.34 | 0.25 | 0.43 | 347.16 ($p < .001$) | 72.06% | $Q_b(1) = 1.25$ ($p = .26$) |
+> | | [[Quasi-Experimental Designs|准实验设计]]（Quasi-Experiments） | 243 | 0.28 | 0.23 | 0.33 | 874.83 ($p < .001$) | 72.34% | |
 > | **总体合并** | **全样本标准化通用批判性思维测验** | **341** | **0.30** | **0.25** | **0.34** | **1225.89 ($p < .001$)** | **72.27%** | — |
 
 > [!ma-table]- 表 2A 与表 2B：通用批判性思维效应量在学段与学科领域中的分布
@@ -252,22 +252,22 @@ issuing_organization: ""
 > 3. **[[Mentorship|导师制]]（Mentoring）** 涵盖专家导师与[[Peer Mentoring|同伴导师制]]，实验组高于对照组时获得 $g+ = 0.39$ 的正向效应，但作为单一策略维度时组间差异未达统计显著，暗示其作用机制需要与其他情境策略配合。（pp. 287, 294–295）
 
 > [!ma-table]- 表 3B 与 3C：对话与真实性教学具体子策略效应量分布
-> | 策略分类维度 | 子类代码与具体教学策略 | $k$ | $g+$ | 95% CI 下限 | 95% CI 上限 | 组内 [[Cochran's Q Test\|$Q_w$]] | 组内 [[I-squared Statistic\|$I^2$ (%) ]] | 实践特征与效应表现 |
+> | 策略分类维度 | 子类代码与具体教学策略 | $k$ | $g+$ | 95% CI 下限 | 95% CI 上限 | 组内 [[Cochran's Q Test|$Q_w$]] | 组内 [[I-squared Statistic|$I^2$ (%) ]] | 实践特征与效应表现 |
 > |---|---|---|---|---|---|---|---|---|
 > | **对话子策略**<br>(Table 3B) | 2.1 教师针对性提问（Teacher posing questions） | 19 | 0.38 | 0.21 | 0.56 | 57.90 ($p < .001$) | 68.91% | 启发式提问激活认知反思 |
-> | | 2.2 [[Reciprocal Peer Questioning\|学生自主提问]]（Students posing questions） | 4 | 0.37 | -0.02 | 0.77 | 10.99 ($p = .012$) | 72.70% | 学生对等互问生成深层探究 |
+> | | 2.2 [[Reciprocal Peer Questioning|学生自主提问]]（Students posing questions） | 4 | 0.37 | -0.02 | 0.77 | 10.99 ($p = .012$) | 72.70% | 学生对等互问生成深层探究 |
 > | | 2.3 教师引导双人配对（Dyad with teacher） | 2 | 0.43 | -0.17 | 1.04 | 4.31 ($p = .038$) | 76.81% | 高度个别化的对话引导 |
 > | | 2.4 教师引导全班研讨（Whole class with teacher） | 16 | 0.42 | 0.20 | 0.64 | 54.02 ($p < .001$) | 72.23% | 师生共同建构多重视角 |
 > | | 2.5 教师引导小组研讨（Small group with teacher） | 14 | 0.41 | 0.19 | 0.63 | 46.38 ($p < .001$) | 71.97% | 兼具同伴互动与教师脚手架 |
 > | | 2.6 无教师双人配对（Dyad without teacher） | 12 | 0.19 | -0.04 | 0.42 | 31.18 ($p = .001$) | 64.71% | 缺乏引导时深度受限 |
 > | | 2.7 无教师全班讨论（Whole class without teacher） | 2 | 0.04 | -0.56 | 0.63 | 4.46 ($p = .035$) | 77.56% | 自由讨论易流于表层 |
 > | | 2.8 无教师小组讨论（Small group without teacher） | 24 | 0.26 | 0.09 | 0.43 | 84.97 ($p < .001$) | 72.93% | 自主合作产生适度增益 |
-> | | 2.9 [[Classroom Debate\|正式论辩]]（Debate） | 8 | 0.32 | 0.03 | 0.61 | 21.41 ($p = .003$) | 67.31% | 规则约束下的论点质询 |
+> | | 2.9 [[Classroom Debate|正式论辩]]（Debate） | 8 | 0.32 | 0.03 | 0.61 | 21.41 ($p = .003$) | 67.31% | 规则约束下的论点质询 |
 > | | 2.10 口头汇报后研讨（Oral presentations） | 5 | 0.29 | -0.07 | 0.65 | 14.59 ($p = .006$) | 72.58% | 成果展示与答辩互动 |
-> | | 2.11 [[Socratic Dialogue\|苏格拉底对话]]（Socratic dialogue） | 8 | 0.27 | -0.01 | 0.55 | 21.59 ($p = .003$) | 67.58% | 追问[[Hypothesis\|假设]]与概念澄清 |
+> | | 2.11 [[Socratic Dialogue|苏格拉底对话]]（Socratic dialogue） | 8 | 0.27 | -0.01 | 0.55 | 21.59 ($p = .003$) | 67.58% | 追问[[Hypothesis|假设]]与概念澄清 |
 > | **真实性教学子策略**<br>(Table 3C) | 3.1 应用型问题解决（Applied problem solving） | 31 | 0.35 | 0.20 | 0.49 | 101.59 ($p < .001$) | 70.47% | 解决现实复杂劣构问题 |
-> | | 3.2 [[Role-playing\|角色扮演]]（Role-playing） | 5 | 0.61 | 0.24 | 0.98 | 10.76 ($p = .030$) | 62.83% | 换位思考多方利益与伦理冲突 |
-> | | 3.3 [[Simulation-Based Learning\|情境模拟]]（Simulations） | 23 | 0.26 | 0.09 | 0.43 | 80.03 ($p < .001$) | 72.51% | 动态情境决策与即时反馈 |
+> | | 3.2 [[Role-playing|角色扮演]]（Role-playing） | 5 | 0.61 | 0.24 | 0.98 | 10.76 ($p = .030$) | 62.83% | 换位思考多方利益与伦理冲突 |
+> | | 3.3 [[Simulation-Based Learning|情境模拟]]（Simulations） | 23 | 0.26 | 0.09 | 0.43 | 80.03 ($p < .001$) | 72.51% | 动态情境决策与即时反馈 |
 > | | 3.4 两难困境分析（Dilemmas） | 3 | 0.11 | -0.37 | 0.58 | 8.21 ($p = .017$) | 75.64% | 价值冲突与伦理权衡 |
 
 > [!ma-table]- 表 4：三大教学策略有无的组间检验比较
@@ -337,14 +337,14 @@ issuing_organization: ""
 > [!ma-table]- 表 3A、7A、7B、表 8 与表 9：课程模式与多维成果（特异性思维、学业成就、思维倾向）综合检验
 > | 结果维度 | 分类维度与亚组 | $k$ | $g+$ | 95% CI 下限 | 95% CI 上限 | 组间检验 $Q_b$ (df, $p$) | 理论与实践启示 |
 > |---|---|---|---|---|---|---|---|
-> | **通用批判性思维 [[Ennis's Curricular Typology\|Ennis 模式]]**<br>(Table 3A) | 直接/通用模式（Direct / General） | 44 | 0.26 | 0.14 | 0.37 | $Q_b(3) = 4.10, p = .25$ | 显性混合模式（独立教学+学科融入）表现最佳 |
-> | | [[Infusion Approach\|融入模式]]（Infusion） | 152 | 0.29 | 0.23 | 0.36 | | |
-> | | [[Immersion Approach\|沉浸模式]]（Immersion） | 61 | 0.23 | 0.12 | 0.34 | | |
+> | **通用批判性思维 [[Ennis's Curricular Typology|Ennis 模式]]**<br>(Table 3A) | 直接/通用模式（Direct / General） | 44 | 0.26 | 0.14 | 0.37 | $Q_b(3) = 4.10, p = .25$ | 显性混合模式（独立教学+学科融入）表现最佳 |
+> | | [[Infusion Approach|融入模式]]（Infusion） | 152 | 0.29 | 0.23 | 0.36 | | |
+> | | [[Immersion Approach|沉浸模式]]（Immersion） | 61 | 0.23 | 0.12 | 0.34 | | |
 > | | 混合模式（Mixed approach） | 84 | 0.38 | 0.26 | 0.51 | | |
 > | **学科特异性思维技能**<br>(Table 7A & 7B) | 标准化测验（Standardized） | 31 | 0.40 | 0.25 | 0.56 | $Q_b(1) = 6.47, p = .011$ | 嵌入学科情境的批判性思维干预获得更高成效（总体 $g+=0.57$） |
 > | | 非标准化/自编测验（Nonstandardized） | 66 | 0.65 | 0.52 | 0.78 | | |
 > | | Ennis 模式：直接 ($k=10$) / 融入 ($k=55$) / 沉浸 ($k=18$) / 混合 ($k=14$) | 97 | 0.74 / 0.56 / 0.45 / 0.67 | — | — | $Q_b(3) = 3.19, p = .363$ | 直接与混合模式对学科思维促进突出 |
-> | **常规学业成就**<br>(Table 8) | 标准化[[Achievement and Aptitude Tests\|成就测验]]（Standardized） | 25 | 0.13 | -0.03 | 0.28 | $Q_b(1) = 7.97, p = .005$ | 批判性思维教学不仅不损害常规成绩，反而带来显著正向溢出（总体 $g+=0.33$） |
+> | **常规学业成就**<br>(Table 8) | 标准化[[Achievement and Aptitude Tests|成就测验]]（Standardized） | 25 | 0.13 | -0.03 | 0.28 | $Q_b(1) = 7.97, p = .005$ | 批判性思维教学不仅不损害常规成绩，反而带来显著正向溢出（总体 $g+=0.33$） |
 > | | 课程期末考试（Nonstandardized） | 115 | 0.37 | 0.29 | 0.46 | | |
 > | **批判性思维倾向**<br>(Table 9) | 总体合并（真实验 $k=10$ + 准实验 $k=15$） | 25 | 0.23 | 0.06 | 0.40 | $Q(24) = 82.32, p < .001$ | 证明思维倾向可通过教学干预显著培育 |
 > | | 出版类型：已发表 ($k=13$) vs 未发表 ($k=12$) | 25 | 0.29 vs 0.17 | — | — | $Q_b(1) = 0.99, p = .320$ | 无明显出版偏倚 |

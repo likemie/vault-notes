@@ -89,7 +89,7 @@ updated: 2026-08-25
 > |---|---|---|---|
 > | **交互机制** | 双向动态自适应交互，依学生表现实时响应 | 单向线性播放或预设分支跳转 | 深度双向言语沟通与非言语具身互动 |
 > | **支架形态** | 算法驱动的认知与练习即时微支架 | 固化静态提示、参考答案解析 | 宏观教学设计、认知冲突激发与情感支持 |
-> | **适用认知领域** | [[Procedural Skill\|程序性技能]]练习、规则化知识巩固与局部探索 | 事实性信息呈现与标准化选择测验 | 价值引导、复杂[[Higher-Order Thinking Skills\|高阶思维]]启发与劣构问题解决 |
+> | **适用认知领域** | [[Procedural Skill|程序性技能]]练习、规则化知识巩固与局部探索 | 事实性信息呈现与标准化选择测验 | 价值引导、复杂[[Higher-Order Thinking Skills|高阶思维]]启发与劣构问题解决 |
 > | **个性化颗粒度** | 细粒度题项级反应跟踪与自适应推送 | 班级或大组统一步调 | 受精力与师生比限制，难以实现全天候即时微追踪 |
 
 ---
@@ -181,9 +181,9 @@ updated: 2026-08-25
 > [!contrast-table] 教育智能体核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **程序技能优先** | 自适应即时反馈与分步演练优先赋能程序性解题与技能熟练度，促进成效优于单纯事实识记。 | K-12 阶段数学解题、外语听说与[[Computational Thinking\|计算思维]]教学 | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] |
-> | **学段学科适配** | 高小学段处于具体向抽象思维过渡期，结合语言读写与艺术创造的多轮交互特性，形成干预最优效能区间。 | 基础教育[[Informationalization\|信息化]]课程设计与学段教学资源配置 | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] |
-> | **高阶思维支架依赖** | 高阶认知发展具有高度变异性，必须依赖显性教学脚手架、探究活动与反思量规的深度整合。 | 复杂科学问题解决、开放式写作与高阶计算思维培养 | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] |
+> | **程序技能优先** | 自适应即时反馈与分步演练优先赋能程序性解题与技能熟练度，促进成效优于单纯事实识记。 | K-12 阶段数学解题、外语听说与[[Computational Thinking|计算思维]]教学 | [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] |
+> | **学段学科适配** | 高小学段处于具体向抽象思维过渡期，结合语言读写与艺术创造的多轮交互特性，形成干预最优效能区间。 | 基础教育[[Informationalization|信息化]]课程设计与学段教学资源配置 | [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] |
+> | **高阶思维支架依赖** | 高阶认知发展具有高度变异性，必须依赖显性教学脚手架、探究活动与反思量规的深度整合。 | 复杂科学问题解决、开放式写作与高阶计算思维培养 | [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] |
 
 ---
 
@@ -218,41 +218,41 @@ updated: 2026-08-25
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
+> | 研究 | 比较或干预 | [[Dependent Variable|结果变量]] | 分析样本 | 组别统计 | [[Effect Size|效应量]] | 显著性或不确定性 | 设计与解释边界 |
 > |---|---|---|---|---|---|---|---|
-> | Elmaadaway et al. (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 智能语音[[Dialogue in Education\|对话]]机器人 vs. 常规听说练习 | 初中 EFL 英语口语阅读流利度（WCPM） | $N = 60$ | — | Hedges' $g = 2.12$ | $p < .001$ | 准实验设计；对话式智能体实时发音重铸与情景交互 |
-> | Chen et al. (2024)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 交互式古诗词虚拟人物问答智能体 vs. 传统精读教学 | 语文古诗词意境理解与鉴赏表现 | $N = 80$ | — | Hedges' $g = 1.15$ | $p < .001$ | 准实验设计；多轮对话激发深度意境共鸣 |
-> | Feng & Wang (2023)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 拟人表情双语伴读机器人 vs. 传统音频听读 | 小学低段英语口语与听力理解 | $N = 64$ | — | Hedges' $g = 0.76$ | $p < .01$ | 准实验设计；具身多模态实体机器人低龄促学效果突出 |
-> | Fang et al. (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | [[Generative AI Agent in Education\|生成式 AI]]+显性反思量规 vs. 传统编程教学 | Python [[Computational Thinking\|计算思维]]与代码调试表现 | $N = 92$ | — | Hedges' $g = 0.40$ | $p < .05$ | 准实验设计；生成式智能体必须依赖反思量规以赋能高阶思维 |
-> | Tong et al. (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 开放无支架生成式 AI 辅助 vs. 传统探究实验 | 中学物理探究推理与概念理解 | $N = 54$ | — | Hedges' $g = -0.73$ | $p < .05$ | 准实验设计；缺乏教学法约束导致认知卸载与探究阻碍 |
+> | Elmaadaway et al. (2025)，引自 [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] | 智能语音[[Dialogue in Education|对话]]机器人 vs. 常规听说练习 | 初中 EFL 英语口语阅读流利度（WCPM） | $N = 60$ | — | Hedges' $g = 2.12$ | $p < .001$ | 准实验设计；对话式智能体实时发音重铸与情景交互 |
+> | Chen et al. (2024)，引自 [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] | 交互式古诗词虚拟人物问答智能体 vs. 传统精读教学 | 语文古诗词意境理解与鉴赏表现 | $N = 80$ | — | Hedges' $g = 1.15$ | $p < .001$ | 准实验设计；多轮对话激发深度意境共鸣 |
+> | Feng & Wang (2023)，引自 [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] | 拟人表情双语伴读机器人 vs. 传统音频听读 | 小学低段英语口语与听力理解 | $N = 64$ | — | Hedges' $g = 0.76$ | $p < .01$ | 准实验设计；具身多模态实体机器人低龄促学效果突出 |
+> | Fang et al. (2025)，引自 [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] | [[Generative AI Agent in Education|生成式 AI]]+显性反思量规 vs. 传统编程教学 | Python [[Computational Thinking|计算思维]]与代码调试表现 | $N = 92$ | — | Hedges' $g = 0.40$ | $p < .05$ | 准实验设计；生成式智能体必须依赖反思量规以赋能高阶思维 |
+> | Tong et al. (2025)，引自 [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] | 开放无支架生成式 AI 辅助 vs. 传统探究实验 | 中学物理探究推理与概念理解 | $N = 54$ | — | Hedges' $g = -0.73$ | $p < .05$ | 准实验设计；缺乏教学法约束导致认知卸载与探究阻碍 |
 
 > [!ma-table]- 一阶[[Meta-analysis|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
+> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity|异质性]]与[[Prediction Interval|预测区间]] | 关键解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素：AI 智能体对 K-12 学生认知学习成果的总体促进效应 | $k = 73$ / $N = 3{,}042$（34 项独立研究） | Hedges' $g$ / 随机效应模型 | $g = 0.404$ $[0.242, 0.567]$ | $Q(72) = 813.56, p < .001, I^2 = 91.2\%, \tau^2 = 0.448$ | 仅纳入 2020–2025 年实验与准实验研究；67.65% 样本来自亚洲，未作个别研究偏倚风险工具质评 |
+> | [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] | 干预因素：AI 智能体对 K-12 学生认知学习成果的总体促进效应 | $k = 73$ / $N = 3{,}042$（34 项独立研究） | Hedges' $g$ / 随机效应模型 | $g = 0.404$ $[0.242, 0.567]$ | $Q(72) = 813.56, p < .001, I^2 = 91.2\%, \tau^2 = 0.448$ | 仅纳入 2020–2025 年实验与准实验研究；67.65% 样本来自亚洲，未作个别研究偏倚风险工具质评 |
 
 > [!ma-table]- 一阶元分析互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
 >
 > | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（认知结果分类） | [[Procedural Skill\|技能类认知结果]]（Skill-Based Outcomes） | $k = 42$ / — | $g = 0.391$ $[0.197, 0.584]$ | $Q = 409.56, I^2 = 90.0\%, p < .001$ | 涵盖数学解题、编程、读写技能，效应高度稳定显著 |
-> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（认知结果分类） | 知识类认知结果（Knowledge-Based Outcomes） | $k = 18$ / — | $g = 0.344$ $[0.040, 0.649]$ | $Q = 143.82, I^2 = 88.2\%, p = .026$ | 概念与事实记忆，效应相对适度 |
-> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（认知结果分类） | [[Higher-Order Thinking Skills\|高阶思维技能]]（Higher-Order Thinking） | $k = 13$ / — | $g = 0.540$ $[-0.036, 1.117]$ | $Q = 259.62, I^2 = 95.4\%, p = .066$ | 点估计大但未达统计显著，异质性极高 |
-> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（智能体技术类型） | [[Intelligent Tutoring Systems\|智能导师系统]]（ITS） | $k = 10$ / — | $g = 0.540$ $[0.241, 0.839]$ | 智能体类型间检验 $Q_B = 0.069, p = .793$ | 点估计最高，分步规则引导能力强 |
-> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（智能体技术类型） | [[Educational Robotics\|人工智能教育机器人]]（Robotics） | $k = 16$ / — | $g = 0.474$ $[0.150, 0.799]$ | $p < .001$ | 具身多模态互动，适合低龄与语言学习 |
-> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（智能体技术类型） | [[Conversational AI in Education\|对话式智能体]]（Conversational AI） | $k = 30$ / — | $g = 0.468$ $[0.008, 0.645]$ | $p < .05$ | 语言问答与即时互动 |
-> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（智能体技术类型） | [[Generative AI Agent in Education\|生成式智能体]]（GenAI Agent） | $k = 17$ / — | $g = 0.421$ $[0.198, 0.645]$ | $p < .001$ | 依赖支架引导与任务约束 |
-> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（学段分类） | 高小学段（Upper-primary, 4–6年级） | $k = 28$ / — | $g = 0.877$ $[0.502, 1.253]$ | 学段间检验 $Q_B = 12.97, p = .005$ | 处于抽象推理过渡期，获益极显著且最为突出 |
-> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（学段分类） | 低小学段（Lower-primary, 1–3年级） | $k = 8$ / — | $g = 0.237$ $[0.044, 0.431]$ | $p < .05$ | 基础概念习得 |
-> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（学段分类） | 初中阶段（Lower-secondary, 7–9年级） | $k = 17$ / — | $g = 0.195$ $[0.012, 0.402]$ | $p < .05$ | 学科进阶技能练习 |
-> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（学段分类） | 高中学段（Upper-secondary, 10–12年级） | $k = 19$ / — | $g = 0.037$ $[-0.217, 0.290]$ | $p > .05$ | 未达统计显著 |
-> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（学科分类） | 语言与读写（Language and Literacy） | $k = 28$ / — | $g = 0.830$ $[0.384, 1.127]$ | 学科间检验 $Q_B = 7.61, p = .006$ | [[Dialogue in Education\|对话]]与生成特性高度匹配语言学习 |
-> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（学科分类） | 艺术与[[Creativity\|创造力]]（Arts and Creativity） | $k = 4$ / — | $g = 0.755$ $[0.112, 1.548]$ | $p < .05$ | 激发发散思维与创新设计 |
-> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（学科分类） | 数学与技术（Mathematics and Technology） | $k = 28$ / — | $g = 0.230$ $[0.067, 0.393]$ | $p < .01$ | 程序性运算与代码调试 |
-> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（学科分类） | 自然科学（Natural Science） | $k = 11$ / — | $g = -0.065$ $[-0.454, 0.324]$ | $p > .05$ | 未显现显著促学效果 |
+> | [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] | 干预因素（认知结果分类） | [[Procedural Skill|技能类认知结果]]（Skill-Based Outcomes） | $k = 42$ / — | $g = 0.391$ $[0.197, 0.584]$ | $Q = 409.56, I^2 = 90.0\%, p < .001$ | 涵盖数学解题、编程、读写技能，效应高度稳定显著 |
+> | [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] | 干预因素（认知结果分类） | 知识类认知结果（Knowledge-Based Outcomes） | $k = 18$ / — | $g = 0.344$ $[0.040, 0.649]$ | $Q = 143.82, I^2 = 88.2\%, p = .026$ | 概念与事实记忆，效应相对适度 |
+> | [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] | 干预因素（认知结果分类） | [[Higher-Order Thinking Skills|高阶思维技能]]（Higher-Order Thinking） | $k = 13$ / — | $g = 0.540$ $[-0.036, 1.117]$ | $Q = 259.62, I^2 = 95.4\%, p = .066$ | 点估计大但未达统计显著，异质性极高 |
+> | [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] | 干预因素（智能体技术类型） | [[Intelligent Tutoring Systems|智能导师系统]]（ITS） | $k = 10$ / — | $g = 0.540$ $[0.241, 0.839]$ | 智能体类型间检验 $Q_B = 0.069, p = .793$ | 点估计最高，分步规则引导能力强 |
+> | [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] | 干预因素（智能体技术类型） | [[Educational Robotics|人工智能教育机器人]]（Robotics） | $k = 16$ / — | $g = 0.474$ $[0.150, 0.799]$ | $p < .001$ | 具身多模态互动，适合低龄与语言学习 |
+> | [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] | 干预因素（智能体技术类型） | [[Conversational AI in Education|对话式智能体]]（Conversational AI） | $k = 30$ / — | $g = 0.468$ $[0.008, 0.645]$ | $p < .05$ | 语言问答与即时互动 |
+> | [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] | 干预因素（智能体技术类型） | [[Generative AI Agent in Education|生成式智能体]]（GenAI Agent） | $k = 17$ / — | $g = 0.421$ $[0.198, 0.645]$ | $p < .001$ | 依赖支架引导与任务约束 |
+> | [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] | 干预因素（学段分类） | 高小学段（Upper-primary, 4–6年级） | $k = 28$ / — | $g = 0.877$ $[0.502, 1.253]$ | 学段间检验 $Q_B = 12.97, p = .005$ | 处于抽象推理过渡期，获益极显著且最为突出 |
+> | [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] | 干预因素（学段分类） | 低小学段（Lower-primary, 1–3年级） | $k = 8$ / — | $g = 0.237$ $[0.044, 0.431]$ | $p < .05$ | 基础概念习得 |
+> | [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] | 干预因素（学段分类） | 初中阶段（Lower-secondary, 7–9年级） | $k = 17$ / — | $g = 0.195$ $[0.012, 0.402]$ | $p < .05$ | 学科进阶技能练习 |
+> | [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] | 干预因素（学段分类） | 高中学段（Upper-secondary, 10–12年级） | $k = 19$ / — | $g = 0.037$ $[-0.217, 0.290]$ | $p > .05$ | 未达统计显著 |
+> | [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] | 干预因素（学科分类） | 语言与读写（Language and Literacy） | $k = 28$ / — | $g = 0.830$ $[0.384, 1.127]$ | 学科间检验 $Q_B = 7.61, p = .006$ | [[Dialogue in Education|对话]]与生成特性高度匹配语言学习 |
+> | [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] | 干预因素（学科分类） | 艺术与[[Creativity|创造力]]（Arts and Creativity） | $k = 4$ / — | $g = 0.755$ $[0.112, 1.548]$ | $p < .05$ | 激发发散思维与创新设计 |
+> | [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] | 干预因素（学科分类） | 数学与技术（Mathematics and Technology） | $k = 28$ / — | $g = 0.230$ $[0.067, 0.393]$ | $p < .01$ | 程序性运算与代码调试 |
+> | [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] | 干预因素（学科分类） | 自然科学（Natural Science） | $k = 11$ / — | $g = -0.065$ $[-0.454, 0.324]$ | $p > .05$ | 未显现显著促学效果 |
 
 ---
 

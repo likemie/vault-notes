@@ -108,10 +108,10 @@ updated: 2026-08-23
 > [!contrast-table] 表：终身学习三大[[Theoretical Perspective|理论取向]]系统特征对比表
 > | 比较维度 | 人本主义取向（Humanistic Approach） | 人力资本取向（Human Capital Approach） | 社会文化基础设施取向（Infrastructure Approach） |
 > |---|---|---|---|
-> | **理论源流** | UNESCO Faure (1972) / Delors (1996) 报告 | [[OECD]] / 世界银行[[Knowledge-Based Economy\|知识经济]]话语 | 英国国家学术院 / 皇家学会 (2026) 报告 |
+> | **理论源流** | UNESCO Faure (1972) / Delors (1996) 报告 | [[OECD]] / 世界银行[[Knowledge-Based Economy|知识经济]]话语 | 英国国家学术院 / 皇家学会 (2026) 报告 |
 > | **核心目的** | 个体全人发展、生活乐趣与生命福祉 | 劳动力就业竞争力与国家经济增长 | 公共理性、社区繁荣与民主治理参与 |
 > | **典型载体** | 社区文化中心、终身兴趣研讨、哲学反思 | 职业技能再培训、在职认证、微证书 | 科学探索馆、自然保护区、公民科学平台 |
-> | **衡量指标** | [[Self-Efficacy\|自我效能感]]、生活满意度、全人素养 | 就业率、薪酬溢价、技能缺口弥合率 | 场馆年访问率、社会资本累积、公共信任 |
+> | **衡量指标** | [[Self-Efficacy|自我效能感]]、生活满意度、全人素养 | 就业率、薪酬溢价、技能缺口弥合率 | 场馆年访问率、社会资本累积、公共信任 |
 
 ---
 
@@ -148,11 +148,11 @@ updated: 2026-08-23
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
-> | 命题类型 | 核心指向 | [[Praxis\|实践]]机制与政策含义 | 代表[[Document\|文献]] / 来源 |
+> | 命题类型 | 核心指向 | [[Praxis|实践]]机制与政策含义 | 代表[[Document|文献]] / 来源 |
 > |---|---|---|---|
-> | **政策借用与修辞合法化** | 终身学习被用作外部化国内矛盾与推动争议改革的话语工具 | 批判性审视政策文本背后的政治动因与修辞包装 | [[Argument_Yan_2025_JCS\|Yan & Morris (2025)]]; Elfert (2015) |
-> | **社会文化基础设施定位** | 终身科学参与构成与绿地、图书馆并列的核心公共品 | 建立政府采购 10% 社会价值与财税激励平权机制 | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|The Royal Society (2026b)]] |
-> | **全周期累积与技能重塑** | 宽基础课程支撑跨生命周期的交叉素养与职业转型 | 破除过早狭隘分科，启动国家长期队列[[Cohort Study\|追踪研究]] | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026a)]] |
+> | **政策借用与修辞合法化** | 终身学习被用作外部化国内矛盾与推动争议改革的话语工具 | 批判性审视政策文本背后的政治动因与修辞包装 | [[Argument_Yan_2025_JCS|Yan & Morris (2025)]]; Elfert (2015) |
+> | **社会文化基础设施定位** | 终身科学参与构成与绿地、图书馆并列的核心公共品 | 建立政府采购 10% 社会价值与财税激励平权机制 | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|The Royal Society (2026b)]] |
+> | **全周期累积与技能重塑** | 宽基础课程支撑跨生命周期的交叉素养与职业转型 | 破除过早狭隘分科，启动国家长期队列[[Cohort Study|追踪研究]] | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026a)]] |
 
 ---
 
@@ -181,12 +181,12 @@ updated: 2026-08-23
 > [!ref-table]- 终身学习与科学参与宏观监测及纵向队列实证数据
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 监测体系 / 研究 | 样本与情境 | 研究设计 | 核心[[Variable\|变量]]与指标 | 关键实证结果 | 政策与理论启示 |
+> | 监测体系 / 研究 | 样本与情境 | 研究设计 | 核心[[Variable|变量]]与指标 | 关键实证结果 | 政策与理论启示 |
 > |---|---|---|---|---|---|
-> | **[[Public Attitudes to Science\|PAS 2025 调查]]** | 英国代表性成年公众样本 | 全国抽样[[Questionnaire\|问卷调查]] | 信息渴求度、决策参与感、场馆访问率 | **62%** 渴求更多科学信息；仅 **12%** 认为公众充分参与科技决策；动植物园年访问率 42%、科技馆 33%、科学探索中心 24% | 揭示出公众终身参与意愿高涨与制度化参与渠道匮乏的结构性落差。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|(The Royal Society, 2026b, p. 47)]] |
-> | **[[UK Science Education Tracker\|SET 2016–2023 追踪]]** | 英格兰 14–16 岁青少年样本 | 7 年三期纵向追踪 | 课堂动手实验参与频率 | 双周动手实验率自 **44%** 骤降至 **26%** | 早期实证探究萎缩将削弱青少年终身科学素养与探究信心的养成。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026a, p. 33)]] |
-> | **PwC 绿色技能缺口模型** | 英国劳动力市场预测 | 计量经济劳动力模型 | 绿色转型岗位技能缺口 | 英国低碳转型面临约 **20 万**名绿色技能专业人才缺口 | 证实成年劳动力终身技能重构（可持续素养）是实现国家战略转型的物质前提。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026a, p. 32)]] |
-> | **ASPIRES 纵向[[Cohort Study\|队列研究]]** | 英国 10–19+ 岁青少年队列 | 多节点混合研究设计 | [[Science Capital\|科学资本]]、职业抱负与终身发展 | 科学资本积累对个体全生命周期职业选择与科学认同产生持久深远影响 | 实证支持将终身科学参与作为长效社会机制，而非短期功利培训。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|(The Royal Society, 2026b, p. 52)]] |
+> | **[[Public Attitudes to Science|PAS 2025 调查]]** | 英国代表性成年公众样本 | 全国抽样[[Questionnaire|问卷调查]] | 信息渴求度、决策参与感、场馆访问率 | **62%** 渴求更多科学信息；仅 **12%** 认为公众充分参与科技决策；动植物园年访问率 42%、科技馆 33%、科学探索中心 24% | 揭示出公众终身参与意愿高涨与制度化参与渠道匮乏的结构性落差。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026b, p. 47)]] |
+> | **[[UK Science Education Tracker|SET 2016–2023 追踪]]** | 英格兰 14–16 岁青少年样本 | 7 年三期纵向追踪 | 课堂动手实验参与频率 | 双周动手实验率自 **44%** 骤降至 **26%** | 早期实证探究萎缩将削弱青少年终身科学素养与探究信心的养成。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, p. 33)]] |
+> | **PwC 绿色技能缺口模型** | 英国劳动力市场预测 | 计量经济劳动力模型 | 绿色转型岗位技能缺口 | 英国低碳转型面临约 **20 万**名绿色技能专业人才缺口 | 证实成年劳动力终身技能重构（可持续素养）是实现国家战略转型的物质前提。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, p. 32)]] |
+> | **ASPIRES 纵向[[Cohort Study|队列研究]]** | 英国 10–19+ 岁青少年队列 | 多节点混合研究设计 | [[Science Capital|科学资本]]、职业抱负与终身发展 | 科学资本积累对个体全生命周期职业选择与科学认同产生持久深远影响 | 实证支持将终身科学参与作为长效社会机制，而非短期功利培训。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026b, p. 52)]] |
 
 ---
 

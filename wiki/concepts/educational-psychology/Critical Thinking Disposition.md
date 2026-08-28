@@ -79,9 +79,9 @@ updated: 2026-08-25
 > [!contrast-table] [[Critical Thinking|批判性思维]]技能 vs 批判性思维倾向
 > | 比较维度 | 批判性思维认知技能（Skills） | 批判性思维倾向（Dispositions） | 整合视角（Perkins 三元模型） |
 > |---|---|---|---|
-> | **核心指向** | 认知操作技术（“能做”，Can do） | 动机与心智[[Habitus\|习性]]（“愿做”，Will do） | 敏感性（Sensitivity）+ 倾向（Inclination）+ 能力（Ability） |
-> | **典型表现** | 识别隐含[[Hypothesis\|假设]]、评估证据效力、避免逻辑谬误 | 求真、思想开放、审慎判断、求知欲强 | 能察觉思维契机，并有动力且正确地执行批判性反思 |
-> | **测量方式** | 标准化客观测试（CCTST, [[Watson-Glaser Critical Thinking Appraisal\|WGCTA]], 论证测试） | 自陈量表（[[California Critical Thinking Disposition Inventory\|CCTDI]]）或真实情境行为观察 | 复杂[[Task Structure\|劣构任务]]与开放式长周期行为追踪 |
+> | **核心指向** | 认知操作技术（“能做”，Can do） | 动机与心智[[Habitus|习性]]（“愿做”，Will do） | 敏感性（Sensitivity）+ 倾向（Inclination）+ 能力（Ability） |
+> | **典型表现** | 识别隐含[[Hypothesis|假设]]、评估证据效力、避免逻辑谬误 | 求真、思想开放、审慎判断、求知欲强 | 能察觉思维契机，并有动力且正确地执行批判性反思 |
+> | **测量方式** | 标准化客观测试（CCTST, [[Watson-Glaser Critical Thinking Appraisal|WGCTA]], 论证测试） | 自陈量表（[[California Critical Thinking Disposition Inventory|CCTDI]]）或真实情境行为观察 | 复杂[[Task Structure|劣构任务]]与开放式长周期行为追踪 |
 > | **干预提升效应** | 元分析加权效应 $g+ = 0.30$（$k = 341$） | 元分析加权效应 $g+ = 0.23$（$k = 25$） | 导师制催化下倾向效应可达 $g+ = 0.38$ |
 > | **经典代表学者** | Ennis (1989); Paul (1993) | Siegel (1988); Facione (1990) | Perkins et al. (1993); Dewey (1933) |
 
@@ -146,14 +146,14 @@ flowchart TD
 >
 > | 调节维度 | 亚组分类 | 效应量数 $k$ | 汇总加权 $g+$ | 95% CI 下限 | 95% CI 上限 | 异质性检验 $Q$ 或 $Q_b$ (df, $p$) | 理论与实践意义 |
 > |---|---|---|---|---|---|---|---|
-> | **总体合并** | **全样本[[Critical Thinking\|批判性思维]]倾向测量** | **25** | **0.23** | **0.06** | **0.40** | $Q(24) = 82.32, p < .001$ | 确证教学干预能够显著塑造思维倾向。 |
-> | **研究设计** | [[True Experimental Design\|真实验设计]]（True Experiments） | 10 | 0.21 | 0.05 | 0.37 | $Q_b(1) = 0.15, p = .700$ | 真实验与准实验结论高度一致。 |
-> | | [[Quasi-Experimental Designs\|准实验设计]]（Quasi-Experiments） | 15 | 0.26 | 0.01 | 0.51 | | |
-> | **出版类型** | 已发表[[Document\|文献]]（Published） | 13 | 0.29 | 0.08 | 0.50 | $Q_b(1) = 0.99, p = .320$ | 组间差异不显著，排除了显著[[Publication Bias\|发表偏倚]]。 |
+> | **总体合并** | **全样本[[Critical Thinking|批判性思维]]倾向测量** | **25** | **0.23** | **0.06** | **0.40** | $Q(24) = 82.32, p < .001$ | 确证教学干预能够显著塑造思维倾向。 |
+> | **研究设计** | [[True Experimental Design|真实验设计]]（True Experiments） | 10 | 0.21 | 0.05 | 0.37 | $Q_b(1) = 0.15, p = .700$ | 真实验与准实验结论高度一致。 |
+> | | [[Quasi-Experimental Designs|准实验设计]]（Quasi-Experiments） | 15 | 0.26 | 0.01 | 0.51 | | |
+> | **出版类型** | 已发表[[Document|文献]]（Published） | 13 | 0.29 | 0.08 | 0.50 | $Q_b(1) = 0.99, p = .320$ | 组间差异不显著，排除了显著[[Publication Bias|发表偏倚]]。 |
 > | | 未发表文献（Unpublished） | 12 | 0.17 | -0.05 | 0.39 | | |
-> | **教学策略** | **[[Mentorship\|导师制]]（Mentoring）** | **5** | **0.38** | **0.03** | **0.73** | — | **导师指导产生最强促进效应**。 |
-> | | [[Authentic Instruction\|真实性教学]]（Authentic） | 8 | 0.29 | 0.05 | 0.53 | — | 真实情境激发理性探究承诺。 |
-> | | [[Dialogue in Education\|对话]]研讨（Dialogue） | 12 | 0.27 | -0.01 | 0.55 | — | 观点交锋促成思维开放。 |
+> | **教学策略** | **[[Mentorship|导师制]]（Mentoring）** | **5** | **0.38** | **0.03** | **0.73** | — | **导师指导产生最强促进效应**。 |
+> | | [[Authentic Instruction|真实性教学]]（Authentic） | 8 | 0.29 | 0.05 | 0.53 | — | 真实情境激发理性探究承诺。 |
+> | | [[Dialogue in Education|对话]]研讨（Dialogue） | 12 | 0.27 | -0.01 | 0.55 | — | 观点交锋促成思维开放。 |
 
 ---
 

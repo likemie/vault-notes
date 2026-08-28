@@ -87,11 +87,11 @@ updated: '2026-07-21'
 ## 概念辨析
 
 > [!contrast-table] 概念辨析
-> | 维度 | 再脉络化（Recontextualization） | [[Policy Borrowing\|政策借用]]（Policy Borrowing） | [[Transfer Translation Transformation\|3T 框架]]（3T Framework） | 认知误解（Misunderstanding） |
+> | 维度 | 再脉络化（Recontextualization） | [[Policy Borrowing|政策借用]]（Policy Borrowing） | [[Transfer Translation Transformation|3T 框架]]（3T Framework） | 认知误解（Misunderstanding） |
 > |---|---|---|---|---|
 > | **分析重点** | 话语脱离原情境后的选择性过滤与意义变异机制 | 国家层面上对外来政策的决策采纳、修辞与合法化 | 教育思想跨国流动的三个宏观阶段（转移—转译—转化） | 将接受者的吸收偏差归咎于被动的认知失误 |
-> | **行动者角色** | 主动选择、过滤、扭曲与重构的权力主体 | 寻求政策正当性与解决本土危机的借用者 | 跨国流动各阶段中的[[Boundary Spanner\|中介者]]与转译者 | 缺少正确理解能力的被动接受者 |
-> | **空间[[Hypothesis\|假设]]** | 假设存在原始生产场所与本土接收[[Champ\|场域]] | 假设存在政策输出国与输入国 | 假设存在源头、中介端与吸收端 | 假设正统知识位于源头，接收端发生偏离 |
+> | **行动者角色** | 主动选择、过滤、扭曲与重构的权力主体 | 寻求政策正当性与解决本土危机的借用者 | 跨国流动各阶段中的[[Boundary Spanner|中介者]]与转译者 | 缺少正确理解能力的被动接受者 |
+> | **空间[[Hypothesis|假设]]** | 假设存在原始生产场所与本土接收[[Champ|场域]] | 假设存在政策输出国与输入国 | 假设存在源头、中介端与吸收端 | 假设正统知识位于源头，接收端发生偏离 |
 > | **解释功能** | 解构知识变形、意识形态控制与本土制度调试 | 解释国家为何及如何引入国外政策 | 描绘教育思想跨国传播的宏观全貌 | 描述吸收偏差，忽视接受者主体能动性 |
 
 ---
@@ -124,8 +124,8 @@ updated: '2026-07-21'
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **跨系统转移中的意义再造机制** | 教育思想与话语在跨国或跨系统转移中必然经历接受者的选择性挪用、重构与意义再造 | 跨国思想传播、教育[[Policy Borrowing\|政策借用]]与历史接受史 | [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]]; [[Argument_Beech_2009_CE\|Beech (2009)]]; [[Argument_McPhail_2023_JCS\|McPhail et al. (2023, p. 33)]] |
-> | **本土制度约束与权力共享硬边界** | 外来教育模式的再脉络化受制于本土制度架构与文化传统的[[Selective Affinity\|选择性亲和]]，并形成不可跨越的权力共享硬边界 | 东亚高利害考试文化、课程改革与教学法[[Going Native\|本土化]] | [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]]; [[Argument_McPhail_2023_JCS\|McPhail et al. (2023, pp. 33–40)]] |
+> | **跨系统转移中的意义再造机制** | 教育思想与话语在跨国或跨系统转移中必然经历接受者的选择性挪用、重构与意义再造 | 跨国思想传播、教育[[Policy Borrowing|政策借用]]与历史接受史 | [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]]; [[Argument_Beech_2009_CE|Beech (2009)]]; [[Argument_McPhail_2023_JCS|McPhail et al. (2023, p. 33)]] |
+> | **本土制度约束与权力共享硬边界** | 外来教育模式的再脉络化受制于本土制度架构与文化传统的[[Selective Affinity|选择性亲和]]，并形成不可跨越的权力共享硬边界 | 东亚高利害考试文化、课程改革与教学法[[Going Native|本土化]] | [[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]]; [[Argument_McPhail_2023_JCS|McPhail et al. (2023, pp. 33–40)]] |
 
 ---
 
@@ -192,12 +192,12 @@ updated: '2026-07-21'
 > [!ref-table]- 其他实证结果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] | 中国 1919–2009 年近百年间关于[[John Dewey\|杜威]]教育思想的[[Document\|文献]]与论述 | 历史再脉络化追踪与[[Documentary Analysis\|文献分析]] | 意识形态议程、个人网络、外来思想元素的拾取/忽略/扭曲 | 杜威思想经历了民国反迷信武器、毛泽东时代批判魔鬼、1980s 现代化旗帜到当代[[Quality Education\|素质教育]]代言人的四次质变再脉络化 | [[Historical Document Analysis of Curriculum\|历史文献分析]] — | 聚焦特定思想家在中国的接受史 |
-> | [[Argument_Beech_2009_CE\|Beech (2009)]] | 阿根廷与巴西 1990 年代国家课程改革文件及教师教育者访谈 | 跨国比较分析与多层话语追踪 | 全球[[Floating Signifier\|漂浮能指]]、国家政策话语并置、教师地缘实践解读 | 全球层将能力抽象化，国家层将能力与学科并置，学校层根据贫困等地缘条件做出完全不同的现实解读 | 跨国质性比较 — | 揭示了全球—国家—[[Praxis\|实践]]三层再脉络化断裂 |
-> | [[Argument_McPhail_2023_JCS\|McPhail et al. (2023)]] | 新西兰 2021–2026 课程改革官方文件与学术评论 | 课程再脉络化原则批判分析 | 双文化主义、地方化、道德原则与知识结构 | 课程文件通过三重原则重构话语秩序，但隐伏着[[Mātauranga Māori\|毛利知识体系]]与课程知识增长之间的[[Ontology\|本体论]]张力 | 文本批判分析 — | 属于国家官方再脉络化[[Champ\|场域]]的政策分析 |
-> | [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]] | 华北某区域 4 所案例学校（2 城市、2 农村），4 校长 9 骨干教师 | 质性多[[Case Study\|案例研究]]（Case Study），结合第三代活动理论 | [[Test-Based Accountability\|考试问责]]、[[Learner-Centred Education\|LCE]] 改革系统、共享目标解码与权力共享边界 | 谋求突破的学校成功将 LCE [[Pragmatic Paradigm\|实用主义]]地再脉络化为攻克高阶考题或提升 45 分钟效率的工具，但受限于高考大纲而排除了学生共决课程的权力维度 | 质性转录与[[Qualitative Observation\|田野观察]] — | 展现了高利害考试环境下外来教学法本土再脉络化的机制与硬边界 |
+> | [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] | 中国 1919–2009 年近百年间关于[[John Dewey|杜威]]教育思想的[[Document|文献]]与论述 | 历史再脉络化追踪与[[Documentary Analysis|文献分析]] | 意识形态议程、个人网络、外来思想元素的拾取/忽略/扭曲 | 杜威思想经历了民国反迷信武器、毛泽东时代批判魔鬼、1980s 现代化旗帜到当代[[Quality Education|素质教育]]代言人的四次质变再脉络化 | [[Historical Document Analysis of Curriculum|历史文献分析]] — | 聚焦特定思想家在中国的接受史 |
+> | [[Argument_Beech_2009_CE|Beech (2009)]] | 阿根廷与巴西 1990 年代国家课程改革文件及教师教育者访谈 | 跨国比较分析与多层话语追踪 | 全球[[Floating Signifier|漂浮能指]]、国家政策话语并置、教师地缘实践解读 | 全球层将能力抽象化，国家层将能力与学科并置，学校层根据贫困等地缘条件做出完全不同的现实解读 | 跨国质性比较 — | 揭示了全球—国家—[[Praxis|实践]]三层再脉络化断裂 |
+> | [[Argument_McPhail_2023_JCS|McPhail et al. (2023)]] | 新西兰 2021–2026 课程改革官方文件与学术评论 | 课程再脉络化原则批判分析 | 双文化主义、地方化、道德原则与知识结构 | 课程文件通过三重原则重构话语秩序，但隐伏着[[Mātauranga Māori|毛利知识体系]]与课程知识增长之间的[[Ontology|本体论]]张力 | 文本批判分析 — | 属于国家官方再脉络化[[Champ|场域]]的政策分析 |
+> | [[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]] | 华北某区域 4 所案例学校（2 城市、2 农村），4 校长 9 骨干教师 | 质性多[[Case Study|案例研究]]（Case Study），结合第三代活动理论 | [[Test-Based Accountability|考试问责]]、[[Learner-Centred Education|LCE]] 改革系统、共享目标解码与权力共享边界 | 谋求突破的学校成功将 LCE [[Pragmatic Paradigm|实用主义]]地再脉络化为攻克高阶考题或提升 45 分钟效率的工具，但受限于高考大纲而排除了学生共决课程的权力维度 | 质性转录与[[Qualitative Observation|田野观察]] — | 展现了高利害考试环境下外来教学法本土再脉络化的机制与硬边界 |
 
 ---
 

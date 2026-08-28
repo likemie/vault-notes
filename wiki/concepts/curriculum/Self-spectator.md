@@ -112,4 +112,4 @@ updated: 2026-08-03
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26\|Cohen, Manion & Morrison (2011, Ch. 26)]] — O'Sullivan 系统阐述了自观在[[Role-playing|角色扮演]]研究中的保护功能和激活条件，并以 [[Stanford Prison Experiment]] 作为自观失败的反面案例。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26|Cohen, Manion & Morrison (2011, Ch. 26)]] — O'Sullivan 系统阐述了自观在[[Role-playing|角色扮演]]研究中的保护功能和激活条件，并以 [[Stanford Prison Experiment]] 作为自观失败的反面案例。

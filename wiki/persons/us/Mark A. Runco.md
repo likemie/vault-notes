@@ -134,6 +134,6 @@ updated: 2026-08-26
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Creativity]] | 概念 | 构建创造潜能理论并提供大规模[[Meta-meta-analysis\|二阶元分析]][[Effect Size\|效应量]]基准。 |
+> | [[Creativity]] | 概念 | 构建创造潜能理论并提供大规模[[Meta-meta-analysis|二阶元分析]][[Effect Size|效应量]]基准。 |
 > | [[Divergent Thinking]] | 概念 | 阐明发散思维的认知机制、测评方法及其在创造过程中的核心地位。 |
-> | [[Meta-meta-analysis]] | 方法 | 率先在创造力领域应用 CHE [[Robust Variance Estimation\|稳健方差估计]]模型开展二阶[[Meta-analysis\|元分析]]。 |
+> | [[Meta-meta-analysis]] | 方法 | 率先在创造力领域应用 CHE [[Robust Variance Estimation|稳健方差估计]]模型开展二阶[[Meta-analysis|元分析]]。 |

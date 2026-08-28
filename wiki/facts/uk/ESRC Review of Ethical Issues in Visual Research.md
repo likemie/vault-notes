@@ -71,7 +71,7 @@ updated: 2026-08-11
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Research Ethics]] | 概念 | 该综述是研究伦理在[[Visual Research Methods\|视觉研究]]情境中的系统性梳理。 |
+> | [[Research Ethics]] | 概念 | 该综述是研究伦理在[[Visual Research Methods|视觉研究]]情境中的系统性梳理。 |
 > | [[Informed Consent]] | 概念 | 综述将照片引谈与知情同意列为重要议题，呼应视觉研究中的同意难题。 |
 > | [[Anonymity in Research]] | 概念 | 综述详细处理视觉图像的匿名化与遮蔽。 |
-> | [[Visual Research Methods]] | 方法 | 综述为以照片、影片与[[Artefact\|器物]]收集资料的视觉研究者提供伦理指引。 |
+> | [[Visual Research Methods]] | 方法 | 综述为以照片、影片与[[Artefact|器物]]收集资料的视觉研究者提供伦理指引。 |

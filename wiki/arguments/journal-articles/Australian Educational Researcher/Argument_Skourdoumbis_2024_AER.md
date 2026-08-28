@@ -108,8 +108,8 @@ citation_aliases:
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **批判政策社会学**<br>Critical Policy Sociology | 质疑权力、[[Knowledge Production\|知识生产]]和政策流动（Ozga, 2021）。用于分析《强劲开端》报告中的政策主张是如何在特定的权力与利益网络中被动员与生产的，而非作为中性的技术方案自然传导。 |
-> | **Bacchi的WPR分析法**<br>[[Bacchi's WPR Approach]] | “什么是问题表征”（What's the problem represented to be?）[[Analytic Framework\|分析框架]]（Bacchi, 2009）。通过六个递进问题审视《强劲开端》优先改革1及附录D中的核心内容规范和参考文献，解构政策如何建构问题、隐藏假设、制造沉默并产生排他性效果。 |
+> | **批判政策社会学**<br>Critical Policy Sociology | 质疑权力、[[Knowledge Production|知识生产]]和政策流动（Ozga, 2021）。用于分析《强劲开端》报告中的政策主张是如何在特定的权力与利益网络中被动员与生产的，而非作为中性的技术方案自然传导。 |
+> | **Bacchi的WPR分析法**<br>[[Bacchi's WPR Approach]] | “什么是问题表征”（What's the problem represented to be?）[[Analytic Framework|分析框架]]（Bacchi, 2009）。通过六个递进问题审视《强劲开端》优先改革1及附录D中的核心内容规范和参考文献，解构政策如何建构问题、隐藏假设、制造沉默并产生排他性效果。 |
 
 > [!warrant]- 理论如何支撑论证
 > 批判政策社会学和WPR分析法引导我们打破对“循证改革”的盲目信任。它提供了一套解构工具：首先追踪政策文本中被界定的“问题”（即教师质量缺陷），接着寻找该界定背后的[[Epistemology|认识论假设]]（即大脑作为中性信息处理器的简化预设），然后通过“寻找沉默”暴露其剔除的历史脉络（优生学与赤字话语风险），最后把视野从文本延伸至[[Policy Network|政策网络]]，勾勒出[[Australian Education Research Organisation|AERO]]、[[Australian Institute for Teaching and School Leadership|AITSL]]、[[Community Innovation Survey|CIS]]等网络节点如何协同垄断“有效知识”的定义权，从而把政策转化为对教师教育和教师实践的惩罚性控制。
@@ -121,16 +121,16 @@ citation_aliases:
 > [!method-panel] 研究设计
 > | 模块 | 核心方法与说明 |
 > |------|----------------|
-> | **批判性政策文本分析**<br>Critical Policy Text Analysis | 运用Bacchi (2009) 的[[Bacchi's WPR Approach\|WPR方法]]，对《强劲开端》（2023）报告的主文本、14项具体建议、优先改革1（Priority Reform 1）以及附录D（Appendix D）中关于“大脑与学习”的核心课程规范、指定参考文献进行细致的话语与逻辑解构。 |
-> | **政策网络与利益关系追踪**<br>Policy Network Tracing | 采用批判政策社会学方法，梳理政策的“理念编排”（Idea Orchestration）网络。具体分析专家小组起草成员、官方循证中介机构（AERO）、行业准入与评估机构（AITSL）、民间保守智库（CIS）及国际教育捐赠基金会（Education Endowment Foundation, [[Education Endowment Foundation\|EEF]]）之间的人事重叠、引文交织和资金纽带。 |
+> | **批判性政策文本分析**<br>Critical Policy Text Analysis | 运用Bacchi (2009) 的[[Bacchi's WPR Approach|WPR方法]]，对《强劲开端》（2023）报告的主文本、14项具体建议、优先改革1（Priority Reform 1）以及附录D（Appendix D）中关于“大脑与学习”的核心课程规范、指定参考文献进行细致的话语与逻辑解构。 |
+> | **政策网络与利益关系追踪**<br>Policy Network Tracing | 采用批判政策社会学方法，梳理政策的“理念编排”（Idea Orchestration）网络。具体分析专家小组起草成员、官方循证中介机构（AERO）、行业准入与评估机构（AITSL）、民间保守智库（CIS）及国际教育捐赠基金会（Education Endowment Foundation, [[Education Endowment Foundation|EEF]]）之间的人事重叠、引文交织和资金纽带。 |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成与细节说明 |
 > |----------|------|
 > | **核心政策文本** | 澳大利亚政府教师教育专家小组报告《强劲开端》（*Strong Beginnings*, 2023）及其核心内容附录D（pp. 95–96）。 |
-> | **历史背景文本** | 1979年以来的澳大利亚教师教育审查文献（Louden, 2008）；2015年[[Teacher Education Ministerial Advisory Group\|TEMAG]]报告《行动立即开始》；2021年QITE审查报告《下一步：优质初始教师教育审查报告》。 |
-> | **循证与中介[[Document\|文献]]** | AERO公开的《证据标准》（AERO, 2021）；证据与实施中心（Centre for Evidence and Implementation, CEI）为澳大利亚教育研究组织（AERO）撰写的桌面审查报告（Abdo et al., 2021）；[[Education Endowment Foundation\|EEF]]的全球循证生态建设计划（EEF, 2024）；[[Centre for Independent Studies\|CIS]]出版的研究及政策倡议（Sweller, 2021）。 |
-> | **实证与满意度数据** | 2022年澳大利亚毕业生结果调查数据（GOS, 2023）；[[Australian Institute for Teaching and School Leadership\|AITSL]]教师工作量与流失率调查数据（AITSL, 2021）。 |
+> | **历史背景文本** | 1979年以来的澳大利亚教师教育审查文献（Louden, 2008）；2015年[[Teacher Education Ministerial Advisory Group|TEMAG]]报告《行动立即开始》；2021年QITE审查报告《下一步：优质初始教师教育审查报告》。 |
+> | **循证与中介[[Document|文献]]** | AERO公开的《证据标准》（AERO, 2021）；证据与实施中心（Centre for Evidence and Implementation, CEI）为澳大利亚教育研究组织（AERO）撰写的桌面审查报告（Abdo et al., 2021）；[[Education Endowment Foundation|EEF]]的全球循证生态建设计划（EEF, 2024）；[[Centre for Independent Studies|CIS]]出版的研究及政策倡议（Sweller, 2021）。 |
+> | **实证与满意度数据** | 2022年澳大利亚毕业生结果调查数据（GOS, 2023）；[[Australian Institute for Teaching and School Leadership|AITSL]]教师工作量与流失率调查数据（AITSL, 2021）。 |
 
 ---
 
@@ -182,7 +182,7 @@ citation_aliases:
 > | 维度 | 实际劳动力市场状况（GOS 2022 / AITSL） | 《强劲开端》政策表征（2023） |
 > | :--- | :--- | :--- |
 > | **核心痛点** | 过度工作量与行政繁文缛节是离职与供给不足的主因（Heffernan et al., 2022） | 教师准备度不足，缺乏课堂就绪度（p. 23） |
-> | **满意度数据** | 毕业生对 ITE 课程的整体满意度高达 75%，就业率和起薪表现优异（GOS, 2023） | 强调 32% 的毕业生期盼更好课程内容，以弱[[Causality\|因果]]推论支撑改革 |
+> | **满意度数据** | 毕业生对 ITE 课程的整体满意度高达 75%，就业率和起薪表现优异（GOS, 2023） | 强调 32% 的毕业生期盼更好课程内容，以弱[[Causality|因果]]推论支撑改革 |
 > | **政策回应性** | 2021年 QITE 明确建议“减少工作量”（建议3），去除繁文缛节（p. vi） | 全文 120 页仅提 2 次工作量且与实习体验绑定，回避结构性负荷 |
 > | **改革终极靶心** | 需要政府性资源投入及雇主制度重构的结构性变革 | 剑指教师教育机构，确立并强化“对教师的缺陷看法”（Barnes, 2021, p. 8） |
 
@@ -197,7 +197,7 @@ citation_aliases:
 > 优先改革1强制将“大脑与学习”（脑科学）列为核心课程，预设该学说是客观、[[Value Neutrality|价值中立]]且能解决教育痛点的“银弹”。然而，这种脑科学推理不仅完全排斥了社会文化与情境维度的教学法，而且极度简化了学习过程，直接违背了国际政策组织（如[[OECD|经济合作与发展组织]]，Organisation for Economic Co-operation and Development, OECD）对脑科学过度科学化及被滥用风险的历史警示。
 
 > [!critique-logic] 生物学决定论与国际组织预警的冲突
-> - **教育的社会性丧失** 脑科学将复杂的、情境化的学习活动约化为脑部神经元的信息处理过程，完全忽视了 [[Lev Vygotsky\|维果茨基]] 社会文化理论所强调的关系和情境维度。Rose & Rose (1976) 批判指出，脑科学不能被用来消解社会学，两者应当是辩证的互动（p. 121）。
+> - **教育的社会性丧失** 脑科学将复杂的、情境化的学习活动约化为脑部神经元的信息处理过程，完全忽视了 [[Lev Vygotsky|维果茨基]] 社会文化理论所强调的关系和情境维度。Rose & Rose (1976) 批判指出，脑科学不能被用来消解社会学，两者应当是辩证的互动（p. 121）。
 > - **排他性教学法指引** 附录D（p. 95）强制要求掌握新手/专家脑差异、生物初级/次级知识特征，并明确反对[[Learner Autonomy|自主学习]]与探究式学习，导致教学法走向单一化。
 > - **背离 OECD 预警历史**
 >   - **OECD (2002)** 指出，神经科学存在“创建一个过度科学化和高度顺从的教育体系的风险”（p. 17）。
@@ -205,7 +205,7 @@ citation_aliases:
 >   - **Choudhury & Wannyn (2022)** 指出，许多脑科学教育倡导者缺乏专业训练，将其作为赚取利润的“打包解决方案”进行营销（p. 35）。
 
 > [!warrant]- 推理桥梁
-> 脑科学之所以被政策网络捧为圣经，是因为它所承诺的生理和机械决定论（如刺激-反应、大脑工作机制），提供了一种“技术治理解药”。在这种视角下，复杂的[[Classroom Management\|课堂管理]]和学生的学习差异被约化为简单的认知规律和大脑反应。这种看似科学、剥离了意识形态和政治诉求的“无偏见科学”，能够轻松绕过关于教育公平、社会阶级和文化再生产的政治辩论，将教学实践压缩为单一的顺从性技术操作。
+> 脑科学之所以被政策网络捧为圣经，是因为它所承诺的生理和机械决定论（如刺激-反应、大脑工作机制），提供了一种“技术治理解药”。在这种视角下，复杂的[[Classroom Management|课堂管理]]和学生的学习差异被约化为简单的认知规律和大脑反应。这种看似科学、剥离了意识形态和政治诉求的“无偏见科学”，能够轻松绕过关于教育公平、社会阶级和文化再生产的政治辩论，将教学实践压缩为单一的顺从性技术操作。
 
 ---
 
@@ -228,7 +228,7 @@ citation_aliases:
 ### 论证步骤四：问题表征的生产者：AERO的未发表证据与跨国“循证”网络
 
 > [!claim] 步骤四主张
-> 神经科学这一问题表征并非自发形成，而是由[[Australian Education Research Organisation\|澳大利亚教育研究组织]]（AERO）这一证据中介机构深度编排并直接起草的。AERO在改革中扮演了“自己出题、自己答题、自己判卷”的封闭角色，其背后潜藏着庞大的英澳跨国政策移动网络与惩罚性问责的制度偏好。
+> 神经科学这一问题表征并非自发形成，而是由[[Australian Education Research Organisation|澳大利亚教育研究组织]]（AERO）这一证据中介机构深度编排并直接起草的。AERO在改革中扮演了“自己出题、自己答题、自己判卷”的封闭角色，其背后潜藏着庞大的英澳跨国政策移动网络与惩罚性问责的制度偏好。
 
 > [!actor-grid] 循证政策移动的核心行动者与利益网络
 > - **跨界专家 (Jenny Donovan)** 既是 AERO 首席执行官，又是本次审查的专家起草小组成员（p. 94），曾任新南威尔士州教育评估中心（Centre for Education Statistics and Evaluation, [[Comparative Education Society in Europe|CESE]]）主任，具有极强的量化绩效管理偏好。

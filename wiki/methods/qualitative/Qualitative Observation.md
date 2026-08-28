@@ -84,10 +84,10 @@ updated: '2026-06-19'
 > - **不声称回答的问题** 不能声称回答大规模[[Variable|变量]]之间的统计相关，也不能进行高[[Internal Validity|内部效度]]的净因果效果识别。
 
 > [!method-stack] 方法层级
-> - **研究设计**[[Ethnography\|民族志]]、[[Qualitative Research\|质性研究]]、[[Case Study|个案研究]]。
+> - **研究设计**[[Ethnography|民族志]]、[[Qualitative Research|质性研究]]、[[Case Study|个案研究]]。
 > - **数据收集** 参与式观察、[[Non-participant Observation|非参与式观察]]、[[Field Notes|田野笔记]]记录。
-> - **分析方法**[[Coding in Qualitative Research\|质性编码]]、主题分析、叙事重构。
-> - **辅助技术**[[Triangulation\|三角互证]]、成员检查、[[Observation Protocol\|观察协议]]。
+> - **分析方法**[[Coding in Qualitative Research|质性编码]]、主题分析、叙事重构。
+> - **辅助技术**[[Triangulation|三角互证]]、成员检查、[[Observation Protocol|观察协议]]。
 
 ---
 
@@ -107,8 +107,8 @@ updated: '2026-06-19'
 > | 维度 | 信息 |
 > |---|---|
 > | 材料来源 | 实地课堂观察记录、会议记录、校长或教师日常活动的田野笔记、物证与档案资料。 |
-> | 抽样或选案 | 目的抽样、[[Non-probability Sampling\|理论抽样]]、最大变异或关键案例（如选取特定新校长个案进行研究）。 |
-> | 研究者位置 | 研究者需要在现场确定隐蔽程度与参与程度，保持审慎的反身性与[[Research Ethics\|研究伦理]]。 |
+> | 抽样或选案 | 目的抽样、[[Non-probability Sampling|理论抽样]]、最大变异或关键案例（如选取特定新校长个案进行研究）。 |
+> | 研究者位置 | 研究者需要在现场确定隐蔽程度与参与程度，保持审慎的反身性与[[Research Ethics|研究伦理]]。 |
 > | 资料边界 | 明确限定的实地观察周期（如为期四个月）、特定物理场所以及观察对象范围。 |
 
 > [!proc] 质性分析程序
@@ -144,11 +144,11 @@ updated: '2026-06-19'
 > 
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Qualitative Research\|质性研究]] | 方法 | 质性观察是质性研究收集一手现场数据的主要前置方法之一。 |
-> | [[Observation Protocol\|观察协议]] | 方法 | 提供记录描述性与[[Reflexivity\|反思性]]笔记的标准一页纸格式工具。 |
-> | [[Triangulation\|三角互证]] | 方法 | 观察通常与访谈、文件分析组合使用，以实现互证和提升可[[Reliability\|信度]]。 |
-> | [[Ethnography\|民族志]] | 方法 | 质性观察是民族志研究中不可或缺的浸润式现场考察工具。 |
-> | [[Critical Realism\|批判实在论]] | 理论 | 里格利（[[Argument_Wrigley_2018_BERJ\|Wrigley, 2018, p. 16]]）指出，探索复杂的因果涌现与行动者推理需要引入质性观察以配合方法论多元主义。 |
+> | [[Qualitative Research|质性研究]] | 方法 | 质性观察是质性研究收集一手现场数据的主要前置方法之一。 |
+> | [[Observation Protocol|观察协议]] | 方法 | 提供记录描述性与[[Reflexivity|反思性]]笔记的标准一页纸格式工具。 |
+> | [[Triangulation|三角互证]] | 方法 | 观察通常与访谈、文件分析组合使用，以实现互证和提升可[[Reliability|信度]]。 |
+> | [[Ethnography|民族志]] | 方法 | 质性观察是民族志研究中不可或缺的浸润式现场考察工具。 |
+> | [[Critical Realism|批判实在论]] | 理论 | 里格利（[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 16]]）指出，探索复杂的因果涌现与行动者推理需要引入质性观察以配合方法论多元主义。 |
 
 ---
 

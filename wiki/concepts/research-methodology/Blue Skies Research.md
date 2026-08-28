@@ -66,14 +66,14 @@ updated: 2026-06-17
 ## 概念辨析
 
 > [!contrast-table] 蓝天研究 vs [[Evaluation Research|评估研究]]
-> | 维度 | 蓝天研究（Blue Skies Research） | [[Evaluation Research\|评估研究]]（Evaluative Research） |
+> | 维度 | 蓝天研究（Blue Skies Research） | [[Evaluation Research|评估研究]]（Evaluative Research） |
 > |------|-------------------------------|---------------------------------------------|
 > | 研究动机 | 研究者好奇心和求知欲 | 回答委托方或政策给定的问题 |
 > | 理论角色 | 理论被开放探索、检验和修正 | 理论被给定，不审问或检验 |
 > | 议程设定 | 研究者自主设定 | 赞助方或政策制定者设定 |
 > | 受众 | 学术同行、研究社区 | 委托方、利益相关者、特定决策者 |
 > | 时间约束 | 通常不受限，遵循研究内在节奏 | 有明确的截止期限 |
-> | 评判标准 | 方法论贡献与领域推进（内部与[[External Validity\|外部效度]]） | 效用（utility）与可[[Reliability\|信度]]（credibility） |
+> | 评判标准 | 方法论贡献与领域推进（内部与[[External Validity|外部效度]]） | 效用（utility）与可[[Reliability|信度]]（credibility） |
 
 ---
 

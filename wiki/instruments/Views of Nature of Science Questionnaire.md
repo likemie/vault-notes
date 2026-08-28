@@ -57,10 +57,10 @@ VNOS 的核心测量[[Construct|构念]]为[[Formal Epistemology|形式认识论
 >
 > | 维度 | 题项数 | 测量内容 | 计分方式 |
 > |---|---|---|---|
-> | **暂定性（Tentative）** | — | 科学知识是暂时的，可根据新证据修改。 | [[Coding in Qualitative Research\|质性编码]]：朴素 / 过渡 / 知情 |
+> | **暂定性（Tentative）** | — | 科学知识是暂时的，可根据新证据修改。 | [[Coding in Qualitative Research|质性编码]]：朴素 / 过渡 / 知情 |
 > | **主观性（Subjective）** | — | 科学知识承载了理论负载（theory-laden）。 | 质性编码：朴素 / 过渡 / 知情 |
 > | **经验基础（Empirical）** | — | 科学主张依赖于经验观察。 | 质性编码：朴素 / 过渡 / 知情 |
-> | **[[Creativity\|创造性]]（Creative）** | — | 科学知识的产生包含科学家的直觉、创造和想象。 | 质性编码：朴素 / 过渡 / 知情 |
+> | **[[Creativity|创造性]]（Creative）** | — | 科学知识的产生包含科学家的直觉、创造和想象。 | 质性编码：朴素 / 过渡 / 知情 |
 > | **社会文化镶嵌（Social/Cultural）** | — | 科学受到社会与文化的深刻影响。 | 质性编码：朴素 / 过渡 / 知情 |
 > | **观察与推论（Observation vs Inference）** | — | 区分所看到的现象（观察）与对现象的解释（推论）。 | 质性编码：朴素 / 过渡 / 知情 |
 > | **理论与定律的区别（Theories vs Laws）** | — | 理论是因果解释，定律是关系描述，两者功能不同，不可互相转化。 | 质性编码：朴素 / 过渡 / 知情 |
@@ -79,7 +79,7 @@ VNOS 的核心测量[[Construct|构念]]为[[Formal Epistemology|形式认识论
 >
 > | 编号 | 题项 | 作答选项 | 计分 | 来源 |
 > |---|---|---|---|---|
-> | — | （受限于当前收录[[Document\|文献]]，具体题目暂缺） | 开放作答 | [[Coding in Qualitative Research\|质性编码]]（朴素/知情） | [[Argument_Sandoval_2005_SE\|Sandoval (2005, p. 638)]] |
+> | — | （受限于当前收录[[Document|文献]]，具体题目暂缺） | 开放作答 | [[Coding in Qualitative Research|质性编码]]（朴素/知情） | [[Argument_Sandoval_2005_SE|Sandoval (2005, p. 638)]] |
 
 ---
 
@@ -90,7 +90,7 @@ VNOS 的核心测量[[Construct|构念]]为[[Formal Epistemology|形式认识论
 >
 > | 研究 | 工具版本 | 样本与用途 | 测量属性 | 关键结果与批评 |
 > |---|---|---|---|---|
-> | [[Argument_Sandoval_2005_SE\|Sandoval (2005)]] | VNOS（各子版本） | 用于评估大范围学生的科学本质观，及探究干预对[[Epistemology\|认识论]]的影响。 | — | 批评其具有“脱离情境（decontextualized）”的局限性。许多学生在面对 VNOS 的脱域问题时，给出非常幼稚的回答（如把实验视为按部就班的证明），但这可能仅仅激活了他们对遥远专业科学的“刻板印象”，而非他们真实的认识论能力。 |
+> | [[Argument_Sandoval_2005_SE|Sandoval (2005)]] | VNOS（各子版本） | 用于评估大范围学生的科学本质观，及探究干预对[[Epistemology|认识论]]的影响。 | — | 批评其具有“脱离情境（decontextualized）”的局限性。许多学生在面对 VNOS 的脱域问题时，给出非常幼稚的回答（如把实验视为按部就班的证明），但这可能仅仅激活了他们对遥远专业科学的“刻板印象”，而非他们真实的认识论能力。 |
 
 ---
 
@@ -101,4 +101,4 @@ VNOS 的核心测量[[Construct|构念]]为[[Formal Epistemology|形式认识论
 >
 > | 版本 | 语言与地区 | 目标人群 | 题项数 | 主要变化 | 来源 |
 > |---|---|---|---|---|---|
-> | 原始版 VNOS-C 等 | 英语 | 学生与教师 | — | 原始开放式[[Questionnaire\|问卷]]架构 | Lederman et al. (2002) |
+> | 原始版 VNOS-C 等 | 英语 | 学生与教师 | — | 原始开放式[[Questionnaire|问卷]]架构 | Lederman et al. (2002) |

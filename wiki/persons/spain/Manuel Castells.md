@@ -65,12 +65,12 @@ updated: 2026-06-24
 > [!entry-map]
 > | 类型 | 条目 | 贡献 |
 > |:-----|:-----|:-----|
-> | 概念 | [[Space of Flows and Space of Places]] | 区分地理定位的物理环境与允许在非领土毗连下同时发生的流动空间，解释社会[[Praxis\|实践]]的脱嵌。 |
+> | 概念 | [[Space of Flows and Space of Places]] | 区分地理定位的物理环境与允许在非领土毗连下同时发生的流动空间，解释社会[[Praxis|实践]]的脱嵌。 |
 > | 概念 | [[Governance by Spin]] | 其媒体政治与电视语言特性，被用于解释国家如何借助印象管理将复杂政策话语塑造成简化口号。 |
-> | 概念 | [[Informationalization]] | 阐明信息化与[[Soviet Statism\|国家主义]]体制的结构性冲突，论证信息自由流动与[[Snowball Sampling\|网络化]]逻辑。 |
+> | 概念 | [[Informationalization]] | 阐明信息化与[[Soviet Statism|国家主义]]体制的结构性冲突，论证信息自由流动与[[Snowball Sampling|网络化]]逻辑。 |
 > | 概念 | [[Soviet Statism]] | 定义国家主义围绕国家机器所有者对社会剩余价值的占有，阐明其在信息时代的转型困境。 |
 > | 概念 | [[Military-Industrial Black Hole]] | 揭示苏联国家主义因将超额科技资源与人才封锁在封闭保密的军工系统而阻碍民用信息化创新的恶性循环。 |
-> | 概念 | [[Ideological Capture of Science]] | 指出科学研究的真理标准被政治意识形态忠诚所压制和取代（如[[Lysenkoism\|李森科主义]]），是国家主义阻碍信息时代转型的核心机制。 |
+> | 概念 | [[Ideological Capture of Science]] | 指出科学研究的真理标准被政治意识形态忠诚所压制和取代（如[[Lysenkoism|李森科主义]]），是国家主义阻碍信息时代转型的核心机制。 |
 > | 理论 | [[Network Society]] | 奠定信息时代社会网络化组织形态的四项运作逻辑（自动机运作、二元逻辑、非等值性、临时互通性）。 |
 > | 理论 | [[Informationalism]] | 提出信息主义作为一种新的发展模式，生产力主要来自知识与信息的优化使用。 |
 > | 政策 | [[Education International]] | 其与 IMF 和世界银行的项目合作，验证了网络社会中不同意识形态组织在临时互通性驱动下的项目联盟。 |
@@ -94,12 +94,12 @@ updated: 2026-06-24
 > [!work-line] 主要著作
 > | 年份 | 著作 | 核心贡献 | 关联条目 |
 > |------|------|----------|----------|
-> | 1996 | *The Rise of the [[Network Society]]* | 奠定[[Informationalism\|信息主义]]作为新发展模式的理论框架，系统分析网络社会的兴起。 | [[Network Society]] |
+> | 1996 | *The Rise of the [[Network Society]]* | 奠定[[Informationalism|信息主义]]作为新发展模式的理论框架，系统分析网络社会的兴起。 | [[Network Society]] |
 > | 1997 | *The Power of Identity* | 阐述网络社会中身份认同、社会运动与国家权力结构的重组。 | [[Network Society]] |
-> | 1998 | *End of Millennium* | 分析苏联等[[Soviet Statism\|国家主义]]体制的崩溃，提出国家主义由于压制信息流动而与[[Informationalization\|信息化]]不相容的命题。 | [[Soviet Statism]] |
-> | 2009 | *Communication Power* | 系统分析网络社会中的大众自传播（mass self-communication）与[[Snowball Sampling\|网络化]]权力控制逻辑。 | [[Governance by Spin]] |
+> | 1998 | *End of Millennium* | 分析苏联等[[Soviet Statism|国家主义]]体制的崩溃，提出国家主义由于压制信息流动而与[[Informationalization|信息化]]不相容的命题。 | [[Soviet Statism]] |
+> | 2009 | *Communication Power* | 系统分析网络社会中的大众自传播（mass self-communication）与[[Snowball Sampling|网络化]]权力控制逻辑。 | [[Governance by Spin]] |
 > 
-> 著作与核心命题来源见：[[Argument_Chan_2015_Intersect\|Chi Ling Chan, 2015]] / [[Argument_Beech_2009_CE\|Beech, 2009, pp. 349–351]]
+> 著作与核心命题来源见：[[Argument_Chan_2015_Intersect|Chi Ling Chan, 2015]] / [[Argument_Beech_2009_CE|Beech, 2009, pp. 349–351]]
 
 ---
 
@@ -121,7 +121,7 @@ updated: 2026-06-24
 >    “一个政治信息必然是一个媒体信息。只要政治相关的消息通过媒体传播，就必须以媒体的特定语言来表达。”
 >    *“A political message is necessarily a media message. And whenever a politically related message is conveyed through the media, it must be couched in the specific language of the media.”* (Castells, 2007, 241). (p. 357)
 >
-> 引语出处引自：[[Argument_Beech_2009_CE\|Beech, 2009, pp. 353, 357]]
+> 引语出处引自：[[Argument_Beech_2009_CE|Beech, 2009, pp. 353, 357]]
 
 ---
 
@@ -133,12 +133,12 @@ updated: 2026-06-24
 > - **实证应用** 其理论被广泛应用于研究跨国教育治理机构（如 [[OECD]]、世界银行）的影响力，以及拉美（巴西、阿根廷）与中国的高等教育和基础教育改革实践。
 
 > [!evidence-grid-a]- 相关研究索引
-> - [[Argument_Beech_2009_CE\|Beech, 2009]] — 引入 Castells 的空间二分法、网络国家和媒体政治概念，建立解释全球教育话语在流动—地方空间多层流转中发生变异的[[Analytic Framework|分析框架]]。
-> - [[Argument_Chan_2015_Intersect\|Chi Ling Chan, 2015]] — 运用 Castells 关于国家主义与[[Informationalization|信息化]]不相容的理论命题，剖析中国 and 苏联的高等教育体制变革及学术自主性变迁。
+> - [[Argument_Beech_2009_CE|Beech, 2009]] — 引入 Castells 的空间二分法、网络国家和媒体政治概念，建立解释全球教育话语在流动—地方空间多层流转中发生变异的[[Analytic Framework|分析框架]]。
+> - [[Argument_Chan_2015_Intersect|Chi Ling Chan, 2015]] — 运用 Castells 关于国家主义与[[Informationalization|信息化]]不相容的理论命题，剖析中国 and 苏联的高等教育体制变革及学术自主性变迁。
 
 ---
 
 ## 争议与批评
 
 > [!critique]- 批评索引
-> - [[Argument_Beech_2009_CE\|Beech (2009, p. 349)]] — 指出虽然 Castells 强调了[[Space of Flows and Space of Places|流动空间]]对地方空间的支配地位，但教育的最终实践（如具体的教学与学习）必须附着于特定的地理领土（地方空间）。忽略地方空间的物质条件和既有历史话语的中介作用，将导致无法解释全球政策话语在落地时发生的深层[[Shape-Shifting|形变]]。
+> - [[Argument_Beech_2009_CE|Beech (2009, p. 349)]] — 指出虽然 Castells 强调了[[Space of Flows and Space of Places|流动空间]]对地方空间的支配地位，但教育的最终实践（如具体的教学与学习）必须附着于特定的地理领土（地方空间）。忽略地方空间的物质条件和既有历史话语的中介作用，将导致无法解释全球政策话语在落地时发生的深层[[Shape-Shifting|形变]]。

@@ -105,9 +105,9 @@ updated: 2026-08-22
 > [!contrast-table] 循证清算中心对依从性偏差的处理哲学（基于 Wadhwa et al., 2024）
 > | 评价机构 | 核心审查倾向 | 允许的估计量与门槛要求 | 政策与实践取向 |
 > |:---|:---|:---|:---|
-> | **[[What Works Clearinghouse\|WWC]] (联邦官方)** | **兼顾政策与纯效能** | 优先审查 ITT；在严格满足工具变量排除性约束且第一阶段 $F > 10$ 时，**完全认可 CACE 估计值**并据此评级。 | 既关注政策推广净值，也重视对干预纯教学功效的度量。 |
-> | **[[Blueprints for Healthy Youth Development\|Blueprints]]** | **严格公共卫生 ITT** | **强制要求 ITT**；拒绝单独采信去除不依从者后的 CACE 或 Per-Protocol 估计作为最高认证依据。 | 防范由于自选择依从性导致的虚假疗效夸大，确保现实[[External Validity\|可推广性]]。 |
-> | **[[Social Programs That Work\|SPTW]]** | **保守因果推断** | 仅认可基于全体初始分配样本的 ITT 结果，严防依从性分析中的潜[[Variable\|变量]]偏倚。 | 避免财政资金资助仅在极少数高度自律学生中起效的脆弱项目。 |
+> | **[[What Works Clearinghouse|WWC]] (联邦官方)** | **兼顾政策与纯效能** | 优先审查 ITT；在严格满足工具变量排除性约束且第一阶段 $F > 10$ 时，**完全认可 CACE 估计值**并据此评级。 | 既关注政策推广净值，也重视对干预纯教学功效的度量。 |
+> | **[[Blueprints for Healthy Youth Development|Blueprints]]** | **严格公共卫生 ITT** | **强制要求 ITT**；拒绝单独采信去除不依从者后的 CACE 或 Per-Protocol 估计作为最高认证依据。 | 防范由于自选择依从性导致的虚假疗效夸大，确保现实[[External Validity|可推广性]]。 |
+> | **[[Social Programs That Work|SPTW]]** | **保守因果推断** | 仅认可基于全体初始分配样本的 ITT 结果，严防依从性分析中的潜[[Variable|变量]]偏倚。 | 避免财政资金资助仅在极少数高度自律学生中起效的脆弱项目。 |
 
 ---
 
@@ -135,8 +135,8 @@ updated: 2026-08-22
 >
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|
-> | [[Intent-to-Treat Analysis]] | 孪生方法 | [[Causality\|因果推断]]的两大基石：ITT 关注分配意向，CACE 关注顺从者净效能。 |
+> | [[Intent-to-Treat Analysis]] | 孪生方法 | [[Causality|因果推断]]的两大基石：ITT 关注分配意向，CACE 关注顺从者净效能。 |
 > | [[Randomised Controlled Trials]] | 实验母方法 | CACE 专门用于解决 RCT 现场实施中的不完全依从与中途脱落难题。 |
 > | [[Regression Discontinuity Design]] | 关联方法 | 模糊断点回归（Fuzzy RDD）在数理本质上就是局域维度的 CACE 估计。 |
 > | [[Attrition]] | 关联概念 | 受试脱落是不完全依从的一种极端形态，CACE 提供部分流失纠偏手段。 |
-> | [[Campbellian Validity Framework]] | 理论基础 | 解释[[Construct Validity\|构念效度]]（理论效能）与统计结论效度（估计无偏性）的桥梁。 |
+> | [[Campbellian Validity Framework]] | 理论基础 | 解释[[Construct Validity|构念效度]]（理论效能）与统计结论效度（估计无偏性）的桥梁。 |

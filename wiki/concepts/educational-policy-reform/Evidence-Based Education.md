@@ -164,10 +164,10 @@ updated: 2026-08-26
 ## 概念辨析
 
 > [!contrast-table] 概念辨析
-> | 维度 | 证据本位教育 (EBE) | [[Evidence-Informed Practice\|证据知情实践]] (EIP) | [[Value-Based Education\|价值本位教育]] (Value-Based) | 循证医学 (EBM) | [[Local Knowledge in Evidence-Based Policy\|地方知识]] (Local Knowledge) |
+> | 维度 | 证据本位教育 (EBE) | [[Evidence-Informed Practice|证据知情实践]] (EIP) | [[Value-Based Education|价值本位教育]] (Value-Based) | 循证医学 (EBM) | [[Local Knowledge in Evidence-Based Policy|地方知识]] (Local Knowledge) |
 > |------|--------|----------------|----------------|----------------|----------------|
-> | **分析对象** | 经严格实验评估（[[Randomised Controlled Trials\|RCT]]）的干预效果 | 多源证据的整合与[[Praxis\|实践]]应用过程 | 教育的根本目的与"什么是值得做的" | 临床诊断、治疗技术与病患个案的结合 | 特定时间和地点环境的独特经验与上下文 |
-> | **核心机制** | 以 RCT/[[Systematic Review\|系统综述]]的统计平均值作为实践决策核心依据 | 视证据为重要信息来源，需通过[[Professional Judgment\|专业判断]]与情境调适结合 | 民主协商、伦理反思与[[Axiology\|价值论]]争 | 结合基础科学理论，通过实验确认药效 | 本地试点、同伴推荐、师生反馈与非正式探索 |
+> | **分析对象** | 经严格实验评估（[[Randomised Controlled Trials|RCT]]）的干预效果 | 多源证据的整合与[[Praxis|实践]]应用过程 | 教育的根本目的与"什么是值得做的" | 临床诊断、治疗技术与病患个案的结合 | 特定时间和地点环境的独特经验与上下文 |
+> | **核心机制** | 以 RCT/[[Systematic Review|系统综述]]的统计平均值作为实践决策核心依据 | 视证据为重要信息来源，需通过[[Professional Judgment|专业判断]]与情境调适结合 | 民主协商、伦理反思与[[Axiology|价值论]]争 | 结合基础科学理论，通过实验确认药效 | 本地试点、同伴推荐、师生反馈与非正式探索 |
 > | **适用范围** | 标准化项目推广、系统清算、政策合规评估 | 教师日常教学改进、学校探究网络、课堂设计 | 教育目的论证、课程大纲与政治抉择 | 具备生理机制一致性的病患护理与药物开发 | 复杂的课堂交互、偶发性教育情境的应对 |
 
 > [!info] 邻近概念辨析
@@ -228,9 +228,9 @@ updated: 2026-08-26
 > [!ref-table] EBE 的三项深层假设及其哲学批判
 > | 核心假设 | 对应领域 | 批判者与批判内容 |
 > |---|---|---|
-> | **休谟因果观** 因果关系等于观察到的经验恒常规则性（若 X 则 Y） | 存在论（Ontology） | [[Argument_Wrigley_2018_BERJ\|Wrigley (2018)]] 借助[[Critical Realism\|批判实在论]]指出，教育是"开放系统"而非实验室封闭系统，因果取决于事物本质与环境交互，均值无法反映真实的因果机制 |
-> | **机械干预假设** 干预措施如同药物注射，其效果与受试者的能动反思无关 | 实践论（Praxiology） | [[Argument_Biesta_2010_SPE\|Biesta (2010)]] 与 Pawson (2006) 论证，教育项目提供的是资源，其起作用的关键在于受试者的"推理（Reasoning）"与主动能动性 |
-> | **科学应用假设** 研究证据从"在某处有效"到"在这里有效"是线性的 | [[Epistemology\|认识论]]（Epistemology） | Cartwright & Hardie (2012) 提出[[Cartwright's Three-Stage Knowledge Framework\|三阶段知识框架]]，指出外推需要"支撑因素"和"本地情境规则"的配合，而非直接套用 |
+> | **休谟因果观** 因果关系等于观察到的经验恒常规则性（若 X 则 Y） | 存在论（Ontology） | [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] 借助[[Critical Realism|批判实在论]]指出，教育是"开放系统"而非实验室封闭系统，因果取决于事物本质与环境交互，均值无法反映真实的因果机制 |
+> | **机械干预假设** 干预措施如同药物注射，其效果与受试者的能动反思无关 | 实践论（Praxiology） | [[Argument_Biesta_2010_SPE|Biesta (2010)]] 与 Pawson (2006) 论证，教育项目提供的是资源，其起作用的关键在于受试者的"推理（Reasoning）"与主动能动性 |
+> | **科学应用假设** 研究证据从"在某处有效"到"在这里有效"是线性的 | [[Epistemology|认识论]]（Epistemology） | Cartwright & Hardie (2012) 提出[[Cartwright's Three-Stage Knowledge Framework|三阶段知识框架]]，指出外推需要"支撑因素"和"本地情境规则"的配合，而非直接套用 |
 
 > [!warning] 教师质量作为 RCT 的结构性混淆因素
 > [[Argument_Wiliam_2019|Wiliam (2019, pp. 7–8)]] 从教师质量的未测量变异这一角度补充了效力缺陷的具体例证：[[Tracking|能力分组]]研究即使设计良好，如果未测量和未控制教师质量的变异（一标准差教师质量差异对应 0.15 SD 学生成就差异，Hanushek & Rivkin, 2010），观察到的"能力分组效应"可能实际上是"教师分配效应"。

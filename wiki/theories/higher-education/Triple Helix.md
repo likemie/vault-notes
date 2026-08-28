@@ -126,7 +126,7 @@ updated: 2026-06-10
 
 | 国家 | 三重螺旋特征 | 关键机制 |
 |------|-------------|----------|
-| **美国** | 政府立法触发 + 市场驱动 | [[Bayh-Dole Act of 1980\|Bayh-Dole Act]]、NSF ERC/IUCRC、SBIR、风险投资、2022 年 CHIPS Act |
+| **美国** | 政府立法触发 + 市场驱动 | [[Bayh-Dole Act of 1980|Bayh-Dole Act]]、NSF ERC/IUCRC、SBIR、风险投资、2022 年 CHIPS Act |
 | **英国** | 政府系统性拨款驱动 | 取消 BTG 垄断→Alvey 计划→1993 白皮书→公式化长期拨款→系统化知识交流支持体系 |
 | **中国** | 政府立法 + 行政推动 | 1993 年《科学技术进步法》、允许大学办企业、研究人员创业休假制度 |
 
@@ -162,9 +162,9 @@ updated: 2026-06-10
 
 | 层次 | 理论/概念 | 分析对象 | Ch3 的贡献 |
 |------|----------|---------|-----------|
-| **宏观** | Triple Helix（Etzkowitz & Leydesdorff, 1995） | 大学-产业-政府三个制度领域的交织关系 | 提供制度背景：政府通过 [[Bayh-Dole Act of 1980\|Bayh-Dole Act]] 和 NSF 项目塑造产学互动环境（p.52） |
+| **宏观** | Triple Helix（Etzkowitz & Leydesdorff, 1995） | 大学-产业-政府三个制度领域的交织关系 | 提供制度背景：政府通过 [[Bayh-Dole Act of 1980|Bayh-Dole Act]] 和 NSF 项目塑造产学互动环境（p.52） |
 | **中观** | [[Entrepreneurial University]]（Etzkowitz et al., 2000） | 大学作为一个组织的战略转向——主动寻求产业合作 | 指出创业型大学的具体组织形态尚缺乏系统研究（p.52） |
-| **微观** | [[University-Industry Collaboration\|产学参与]]的五种组织模式 | 中心办公室的报告链、职责范围、权限等级 | 发现五种模式，且无一完全全面——中心办公室是**导航者**而非**执行者（pp.60–63）** |
+| **微观** | [[University-Industry Collaboration|产学参与]]的五种组织模式 | 中心办公室的报告链、职责范围、权限等级 | 发现五种模式，且无一完全全面——中心办公室是**导航者**而非**执行者（pp.60–63）** |
 
 这一链条揭示了一个值得注意的理论张力：Triple Helix 预测大学、产业、政府三个领域日益交织和整合，但在大学内部的组织层面，产学参与实际上高度碎片化——产业关系官员分散在学院、科研办公室和发展部门之间，中心办公室平均仅覆盖 12 个活动领域中的 3.5 个，报告链五花八门（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, pp.64–65]]）。
 

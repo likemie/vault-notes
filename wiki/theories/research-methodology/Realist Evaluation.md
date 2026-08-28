@@ -67,7 +67,7 @@ updated: 2026-07-13
 > - **解释对象** 社会政策、教育干预及改进项目在复杂社会系统中的因果实现机制。
 > - **理论问题** 批判[[Positivism|实证主义]]将评估等同于单纯测量“干预是否有效”的扁平化经验规律（休谟因果观），回应“什么在什么情境中对谁有效，为什么，以及如何有效”的现实评估需求。
 > - **理论类型** 社会科学评估理论与研究方法论框架。
-> - **知识位置** 由[[Ray Pawson\|雷·波森]]（Ray Pawson）与尼克·蒂利（Nick Tilley, 1997, 2006）提出，其哲学根基为[[Roy Bhaskar\|罗伊·巴斯卡]]（Roy Bhaskar）的[[Critical Realism\|批判实在论]]（Depth Realism）。
+> - **知识位置** 由[[Ray Pawson|雷·波森]]（Ray Pawson）与尼克·蒂利（Nick Tilley, 1997, 2006）提出，其哲学根基为[[Roy Bhaskar|罗伊·巴斯卡]]（Roy Bhaskar）的[[Critical Realism|批判实在论]]（Depth Realism）。
 
 > [!claim] 核心主张
 > 社会与教育干预不是机械的物理因果（即“注射式”干预），而是通过向受试者提供资源，并依赖受试者对这些资源的认知与行动推理（Reasoning）来发挥作用。因此，因果效应的产生是机制（Mechanism）与特定背景（Context）[[Interaction Effect|交互作用]]并导致特定结果（Outcome）的非线性过程。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 7]])；另见波森（Ray Pawson）于 2006 年的著作。
@@ -115,10 +115,10 @@ updated: 2026-07-13
 > 
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
-> | 背景（Context） | 概念 | 指项目实施的社会环境、制度特征、人际关系和当事人的个人经历，决定了[[Causality\|因果]]机制是否能被激活。 |
-> | 机制（Mechanism） | 概念 | 指社会干预中所包含的因果力量以及受试者对资源的心理/行动推理（Reasoning）。([[Argument_Wrigley_2018_BERJ\|Wrigley, 2018, p. 7]]) |
-> | 结果（Outcome） | 概念 | 在特定背景中激活特定机制后产生的非线性[[Emergence\|涌现]]结果，表现为成功、失败或反效果。 |
-> | 实在论综合 | 方法 | 一种系统综述（Systematic Review）方法，旨在通过探究不同研究中的 CMO 配置来综合出关于“干预如何工作”的中层理论，而非对效应量进行数学平均。([[Argument_Wrigley_2018_BERJ\|Wrigley, 2018, p. 14]]) |
+> | 背景（Context） | 概念 | 指项目实施的社会环境、制度特征、人际关系和当事人的个人经历，决定了[[Causality|因果]]机制是否能被激活。 |
+> | 机制（Mechanism） | 概念 | 指社会干预中所包含的因果力量以及受试者对资源的心理/行动推理（Reasoning）。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 7]]) |
+> | 结果（Outcome） | 概念 | 在特定背景中激活特定机制后产生的非线性[[Emergence|涌现]]结果，表现为成功、失败或反效果。 |
+> | 实在论综合 | 方法 | 一种系统综述（Systematic Review）方法，旨在通过探究不同研究中的 CMO 配置来综合出关于“干预如何工作”的中层理论，而非对效应量进行数学平均。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 14]]) |
 
 ---
 
@@ -162,7 +162,7 @@ updated: 2026-07-13
 > [!dev-timeline] 发展脉络
 > - **1997 年 — Pawson & Tilley (Realistic Evaluation)** 奠定实在论评估的理论基石，提出 C-M-O 框架。
 > - **2006 年 — Pawson (Evidence-based Policy: A Realist Guide)** 将实在论评估扩展到[[Systematic Review|系统综述]]领域，提出“实在论综合（Realist Synthesis）”方法，系统批判经验主义循证政策。
-> - **2018 年 — 教育研究批评**[[Argument_Wrigley_2018_BERJ\|Wrigley, 2018]] 在 BERJ 中将实在论评估和[[Critical Realism\|批判实在论]]作为解构 [[Evidence-Based Education|EBE]] 统计聚合（Hattie、[[Education Endowment Foundation|EEF]] Toolkit）的主要方法论武器。
+> - **2018 年 — 教育研究批评**[[Argument_Wrigley_2018_BERJ|Wrigley, 2018]] 在 BERJ 中将实在论评估和[[Critical Realism|批判实在论]]作为解构 [[Evidence-Based Education|EBE]] 统计聚合（Hattie、[[Education Endowment Foundation|EEF]] Toolkit）的主要方法论武器。
 
 ---
 
@@ -178,5 +178,5 @@ updated: 2026-07-13
 
 > [!evidence-grid-a] 相关研究与应用索引
 > - [[Argument_Wrigley_2018_BERJ|Wrigley, 2018]] — 用实在论评估的因果机制观，深度解构了 [[Education Endowment Foundation|EEF]] Fresh Start 拼读项目和教学助理项目由于去情境化聚合导致的政策误导。
-> - [[Argument_Rambla_2022_Springer|Rambla, 2022]] — 将实在论评估框架应用于剖析[[EU Skills Agenda\|欧盟技能议程]]政策，分析特定政策干预在特定情境中激活的因果机制。
+> - [[Argument_Rambla_2022_Springer|Rambla, 2022]] — 将实在论评估框架应用于剖析[[EU Skills Agenda|欧盟技能议程]]政策，分析特定政策干预在特定情境中激活的因果机制。
 > - [[Professional Judgment]] — 实在论评估对个体推理和能动性的强调，为重构和确立教师在循证实践中的专业判断力提供了理论支撑。

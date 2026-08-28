@@ -165,8 +165,8 @@ related_arguments:
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Social Realism]] | 概念 | 其“科学概念 vs 自发概念”的拆解为社会实在论划分日常知识与[[Epistemology\|认识论]]知识提供了理论基础。 |
+> | [[Social Realism]] | 概念 | 其“科学概念 vs 自发概念”的拆解为社会实在论划分日常知识与[[Epistemology|认识论]]知识提供了理论基础。 |
 > | [[Third Generation Activity Theory]] | 理论 | 其提出的主体—中介工具—客体心理三角是第一代活动理论的核心，为第二代与第三代活动理论提供了起点。 |
-> | [[Learner-Centred Education]] | 概念 | 其社会互动促进认知发展的理论与[[Confucius\|孔子]]对话传统产生亲和，为东亚高压考试下的 LCE 改革提供了解构视角。 |
-> | [[Mother-Child Conversation]] | 方法 | 其认知支架（Cognitive Scaffolding）概念为 MCC 质性话语分析中的[[Parental Cognitive and Affective Socialization\|认知社会化]]提供了理论锚点。 |
+> | [[Learner-Centred Education]] | 概念 | 其社会互动促进认知发展的理论与[[Confucius|孔子]]对话传统产生亲和，为东亚高压考试下的 LCE 改革提供了解构视角。 |
+> | [[Mother-Child Conversation]] | 方法 | 其认知支架（Cognitive Scaffolding）概念为 MCC 质性话语分析中的[[Parental Cognitive and Affective Socialization|认知社会化]]提供了理论锚点。 |
 > | [[Curriculum Design Coherence Model]] | 理论 | 其概念分化理论为 CDCM 模型的课程知识连贯性设计提供了关键参照。 |

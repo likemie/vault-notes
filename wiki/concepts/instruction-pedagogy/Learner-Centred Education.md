@@ -84,13 +84,13 @@ updated: '2026-07-21'
 ## 概念辨析
 
 > [!contrast-table] 概念辨析
-> | 维度 | 以学生为中心教育（LCE） | 教师主导教学法（Teacher-Led Pedagogy） | [[Constructivist Paradigm\|建构主义教学]] |
+> | 维度 | 以学生为中心教育（LCE） | 教师主导教学法（Teacher-Led Pedagogy） | [[Constructivist Paradigm|建构主义教学]] |
 > |---|---|---|---|
-> | **分析对象** | 以学生为主体、强调自主与对话的整体教学[[Paradigm\|范式]] | 以教师为知识权威和控制核心的讲授范式 | 关注学习者主观知识建构过程的[[Epistemology\|认识论]]与教学法 |
-> | **核心机制** | 内在动机驱动、已有经验联系、课堂对话与[[Critical Thinking\|批判性思维]] | 系统讲授、知识传授、精细练习与数据诊断提分 | 发现学习、认知冲突解决、社会文化互动与意义建构 |
-> | **知识观** | 知识在师生与生生[[Dialogue in Education\|对话]]协商中建构与深化 | 知识为客观确定的符号体系，需被记忆与掌握 | 知识由个人或共同体在情境中主观建构 |
+> | **分析对象** | 以学生为主体、强调自主与对话的整体教学[[Paradigm|范式]] | 以教师为知识权威和控制核心的讲授范式 | 关注学习者主观知识建构过程的[[Epistemology|认识论]]与教学法 |
+> | **核心机制** | 内在动机驱动、已有经验联系、课堂对话与[[Critical Thinking|批判性思维]] | 系统讲授、知识传授、精细练习与数据诊断提分 | 发现学习、认知冲突解决、社会文化互动与意义建构 |
+> | **知识观** | 知识在师生与生生[[Dialogue in Education|对话]]协商中建构与深化 | 知识为客观确定的符号体系，需被记忆与掌握 | 知识由个人或共同体在情境中主观建构 |
 > | **教师角色** | 学习促进者（facilitator）、设计者与探究引导者 | 知识权威、课堂主导者与统考冲刺指挥官 | 认知支架提供者、情境创设者 |
-> | **[[Test-Based Accountability\|考试问责]]适应性** | 易被质疑效率低，但可被重构为攻克高阶考题与提升课堂吸收率的工具 | 与标准考核高度适配，风险低且能稳定输出中等分数 | 强调深度理解，与传统记忆型考核存在摩擦 |
+> | **[[Test-Based Accountability|考试问责]]适应性** | 易被质疑效率低，但可被重构为攻克高阶考题与提升课堂吸收率的工具 | 与标准考核高度适配，风险低且能稳定输出中等分数 | 强调深度理解，与传统记忆型考核存在摩擦 |
 
 ---
 
@@ -136,8 +136,8 @@ updated: '2026-07-21'
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **[[Test-Based Accountability\|考试问责]]与 LCE 协同机制** | LCE 可通过共享客体重构为提升高阶考分与课堂效率的工具，实现与应试的并行协同 | 高利害考试问责环境下谋求突破性提分的学校 | [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025, pp. 598–602)]]; Schweisfurth (2015) |
-> | **跨文化再情境化与权力边界** | 东亚语境下的 LCE 发生认知/效率转向并与传统启发式[[Dialogue in Education\|对话]]共振，但受限于刚性大纲而保留权力共享硬边界 | 跨国[[Policy Borrowing\|政策借用]]、东亚考试文化与中高考改革背景 | [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025, pp. 601–603)]]; You (2019) |
+> | **[[Test-Based Accountability|考试问责]]与 LCE 协同机制** | LCE 可通过共享客体重构为提升高阶考分与课堂效率的工具，实现与应试的并行协同 | 高利害考试问责环境下谋求突破性提分的学校 | [[Argument_Wang_2025_CE|Wang & McLaughlin (2025, pp. 598–602)]]; Schweisfurth (2015) |
+> | **跨文化再情境化与权力边界** | 东亚语境下的 LCE 发生认知/效率转向并与传统启发式[[Dialogue in Education|对话]]共振，但受限于刚性大纲而保留权力共享硬边界 | 跨国[[Policy Borrowing|政策借用]]、东亚考试文化与中高考改革背景 | [[Argument_Wang_2025_CE|Wang & McLaughlin (2025, pp. 601–603)]]; You (2019) |
 
 ---
 
@@ -207,10 +207,10 @@ updated: '2026-07-21'
 > [!ref-table]- 其他实证结果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]] | 华北某区域 4 所案例学校（2 城市、2 农村），4 校长 9 骨干教师，共 25 份访谈与文档[[Field Notes\|田野笔记]] | 质性多[[Case Study\|案例研究]]（Case Study），结合[[Third Generation Activity Theory\|第三代活动理论]]模板分析 | [[Test-Based Accountability\|考试问责]]与 LCE 改革双系统要素、共享目标建构、评课规则与教学行为 | 谋求突破的学校（城市二校冲击前 20%、农村二校 45 分钟效率）成功建立共享目标，实现双系统扩展性改造；维持顶尖（城市一校前 5%）与缺乏支撑学校（农村一校）改革停滞 | 质性转录与[[Qualitative Observation\|田野观察]] — | [[Sample Size Determination\|样本量]]为 4 所学校，属于小规模质性观察，结论具机制解释力但不具统计推论性 |
-> | [[Argument_Wang_2025_CE\|Schweisfurth (2013, 2015)]] | 全球多国跨国教育比较数据库与[[Document\|文献]] | 跨国比较分析与[[Policy Borrowing\|政策借用]]追踪 | LCE 政策移植、考试体制、教师角色与课堂[[Praxis\|实践]] | 高利害标准化考试普遍构成 LCE 落地最大障碍；LCE 在不同文化语境中呈现高度差异化的[[Transfer Translation Transformation\|转译]]形态 | 比较分析 — | 跨国宏观观察，需结合具体国家微观学校案例 |
+> | [[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]] | 华北某区域 4 所案例学校（2 城市、2 农村），4 校长 9 骨干教师，共 25 份访谈与文档[[Field Notes|田野笔记]] | 质性多[[Case Study|案例研究]]（Case Study），结合[[Third Generation Activity Theory|第三代活动理论]]模板分析 | [[Test-Based Accountability|考试问责]]与 LCE 改革双系统要素、共享目标建构、评课规则与教学行为 | 谋求突破的学校（城市二校冲击前 20%、农村二校 45 分钟效率）成功建立共享目标，实现双系统扩展性改造；维持顶尖（城市一校前 5%）与缺乏支撑学校（农村一校）改革停滞 | 质性转录与[[Qualitative Observation|田野观察]] — | [[Sample Size Determination|样本量]]为 4 所学校，属于小规模质性观察，结论具机制解释力但不具统计推论性 |
+> | [[Argument_Wang_2025_CE|Schweisfurth (2013, 2015)]] | 全球多国跨国教育比较数据库与[[Document|文献]] | 跨国比较分析与[[Policy Borrowing|政策借用]]追踪 | LCE 政策移植、考试体制、教师角色与课堂[[Praxis|实践]] | 高利害标准化考试普遍构成 LCE 落地最大障碍；LCE 在不同文化语境中呈现高度差异化的[[Transfer Translation Transformation|转译]]形态 | 比较分析 — | 跨国宏观观察，需结合具体国家微观学校案例 |
 
 ---
 

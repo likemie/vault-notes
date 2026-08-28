@@ -117,13 +117,13 @@ updated: '2026-08-27'
 ## 概念辨析
 
 > [!contrast-table] [[Creativity|创造力]]五大主要测评[[Paradigm|范式]]与技术路径辨析
-> | 测评范式类别 | [[Divergent Thinking\|发散思维]]标准化测验 | 创造过程与[[Problem Finding\|问题发现]]任务 | 专家主观产品同感评定 | 创造性成就与自陈量表 | 课程嵌入式真实性评分量规 |
+> | 测评范式类别 | [[Divergent Thinking|发散思维]]标准化测验 | 创造过程与[[Problem Finding|问题发现]]任务 | 专家主观产品同感评定 | 创造性成就与自陈量表 | 课程嵌入式真实性评分量规 |
 > |---|---|---|---|---|---|
-> | **代表性工具** | [[Torrance Tests of Creative Thinking\|TTCT]]、非常规用途测验（AUT）、WKCT | [[Remote Associates Test\|RAT]]、问题发现与界定任务、观念评估选择任务 | [[Consensual Assessment Technique\|共识评估技术（CAT）]]、彩虹项目（Rainbow Project） | [[Creative Achievement Questionnaire\|CAQ]]、[[Runco Ideational Behavior Scale\|RIBS]]、创造自我效能量表（CSE） | AAC&U [[VALUE Rubrics\|VALUE 创造性思维量规]]、OECD CERI 原型量规、CALOHEE |
-> | **核心测量[[Construct\|构念]]** | 创造潜能（Potential）：发散生成的流畅性、灵活性、独创性与精致性 | 认知加工过程（Process）：远距离概念联想、劣构问题表征与重构 | 实体产品（Product）：实际创作的新颖性与适切性（专家共识评判） | 创造特质与行为（Person）：终身跨领域卓越成就、日常观念产生频率与[[Self-Efficacy\|自我效能]] | 表现性表现（Performance）：承担智识风险、突破常规思维、整合多源观念并转化为成果 |
-> | **作答载体与题型** | 计时开放任务（如列举非常规用途、图形联想与补充） | 远距词汇联想三元组、开放情境下的问题提出与方案筛选 | 真实艺术作品、文学创作、工程原型、学术小论文、设计提案 | 莱克特（Likert）自评量表或跨领域里程碑成就核查清单 | 4 级阶梯表现描述符（Benchmark → Capstone），直接嵌入真实[[Homework\|作业]]与项目 |
-> | **评分[[Reliability\|信度]]与实施成本** | 评分客观且标准化，心理测量学信度极高，施测成本低 | 评分具有标准答案或明确[[Coding in Qualitative Research\|编码]]规则，施测便捷 | 依赖领域多位专家独立匿名评审，组织成本极高，难以自动化 | 施测便捷高效，受社会期望与[[Common Method Variance\|共同方法变异]]（CMV）干扰 | 依赖校内与跨校教师评分校准研讨（Calibration），需持续能力建设 |
-> | **[[Ecological Validity\|生态效度]]与促学价值** | 生态效度受限，高度脱离具体学科情境与真实任务 | 贴近创造性解决问题的核心认知瓶颈，具微观诊断价值 | 生态效度极高，被学界公认为产品测量的“黄金标准” | 生态效度中等，反映长周期真实生活成就，但促学反馈较弱 | 生态效度极高，评价标准公开透明，全面赋能形成性促学与自我调节 |
+> | **代表性工具** | [[Torrance Tests of Creative Thinking|TTCT]]、非常规用途测验（AUT）、WKCT | [[Remote Associates Test|RAT]]、问题发现与界定任务、观念评估选择任务 | [[Consensual Assessment Technique|共识评估技术（CAT）]]、彩虹项目（Rainbow Project） | [[Creative Achievement Questionnaire|CAQ]]、[[Runco Ideational Behavior Scale|RIBS]]、创造自我效能量表（CSE） | AAC&U [[VALUE Rubrics|VALUE 创造性思维量规]]、OECD CERI 原型量规、CALOHEE |
+> | **核心测量[[Construct|构念]]** | 创造潜能（Potential）：发散生成的流畅性、灵活性、独创性与精致性 | 认知加工过程（Process）：远距离概念联想、劣构问题表征与重构 | 实体产品（Product）：实际创作的新颖性与适切性（专家共识评判） | 创造特质与行为（Person）：终身跨领域卓越成就、日常观念产生频率与[[Self-Efficacy|自我效能]] | 表现性表现（Performance）：承担智识风险、突破常规思维、整合多源观念并转化为成果 |
+> | **作答载体与题型** | 计时开放任务（如列举非常规用途、图形联想与补充） | 远距词汇联想三元组、开放情境下的问题提出与方案筛选 | 真实艺术作品、文学创作、工程原型、学术小论文、设计提案 | 莱克特（Likert）自评量表或跨领域里程碑成就核查清单 | 4 级阶梯表现描述符（Benchmark → Capstone），直接嵌入真实[[Homework|作业]]与项目 |
+> | **评分[[Reliability|信度]]与实施成本** | 评分客观且标准化，心理测量学信度极高，施测成本低 | 评分具有标准答案或明确[[Coding in Qualitative Research|编码]]规则，施测便捷 | 依赖领域多位专家独立匿名评审，组织成本极高，难以自动化 | 施测便捷高效，受社会期望与[[Common Method Variance|共同方法变异]]（CMV）干扰 | 依赖校内与跨校教师评分校准研讨（Calibration），需持续能力建设 |
+> | **[[Ecological Validity|生态效度]]与促学价值** | 生态效度受限，高度脱离具体学科情境与真实任务 | 贴近创造性解决问题的核心认知瓶颈，具微观诊断价值 | 生态效度极高，被学界公认为产品测量的“黄金标准” | 生态效度中等，反映长周期真实生活成就，但促学反馈较弱 | 生态效度极高，评价标准公开透明，全面赋能形成性促学与自我调节 |
 >
 > （根据 [[Argument_Runco_2026_CRJ|Runco et al. (2026, pp. 5–7)]]、[[Argument_Park_2026_TSC|Park et al. (2026, pp. 4–5)]] 与 [[Argument_Bouckaert_2023_OECD|Bouckaert (2023, pp. 23–28)]] 综合梳理）
 
@@ -138,7 +138,7 @@ updated: '2026-08-27'
 > - **创造环境支持（Press / Environment）** 测量组织创新气候、教学支持度、心理安全感与资源可及性对创造表现的[[Interaction Effect|调节效应]]。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, p. 7)]]
 
 > [!dual-header] 创造力测量工具的主客观分类映射
-> | 测量[[Construct\|构念]]属性 | 主观测量（自陈倾向 / 自我效能 / 成就[[Questionnaire\|问卷]]） | 客观测量（标准化认知测验 / 专家产品评定 / 真实任务量规） |
+> | 测量[[Construct|构念]]属性 | 主观测量（自陈倾向 / 自我效能 / 成就[[Questionnaire|问卷]]） | 客观测量（标准化认知测验 / 专家产品评定 / 真实任务量规） |
 > |---|---|---|
 > | **创造潜能与认知过程** | - 创造性自我效能量表（Creative Self-Efficacy Scale）<br>- 马尔马拉创造性思维倾向量表（Marmara Creative Thinking Dispositions Scale）<br>- 考夫曼创造力领域量表（K-DOCS）<br>- 朗科观念行为量表（RIBS）<br>- 创造性人格量表（Creative Personality Scale） | - 托兰斯创造性思维测验（TTCT，言语/图画版）<br>- 非常规用途测验（AUT）<br>- 吉尔福德联想与观念流畅性测验<br>- 远距离联想测验（RAT）<br>- 筷子创造力测验（Chopsticks Creativity Test）<br>- 科学创造力测验（Scientific Creativity Test） |
 > | **创造性产品与综合表现** | - 创造性成就问卷（CAQ）<br>- 创造力量表自评维度（Creativity Scale）<br>- 学生元技能调查（Student MetaSkills Survey）创造力分量表 | - 专家共识评估技术（CAT）<br>- 产品设计创作任务（Product Design Creation）<br>- 批判与创造思维测验（Critical and Creative Thinking Test）<br>- 斯腾伯格彩虹项目与万花筒项目招生情境任务<br>- AAC&U VALUE 创造性思维评分量规<br>- OECD CERI 创造力原型评分量规<br>- 欧洲 CALOHEE 创新评价参照框架 |
@@ -146,12 +146,12 @@ updated: '2026-08-27'
 > （根据 [[Argument_Park_2026_TSC|Park et al. (2026, Table 1)]] 结合 [[Argument_Bouckaert_2023_OECD|Bouckaert (2023, pp. 23–28)]] 整理）
 
 > [!tension-table] 标准化发散思维测验与专家同感产品评定（CAT）的系统权衡
-> | 评价维度 | 标准化发散思维测验（如 [[Torrance Tests of Creative Thinking\|TTCT]] / AUT） | 专家共识评估技术（Consensual Assessment Technique, CAT） |
+> | 评价维度 | 标准化发散思维测验（如 [[Torrance Tests of Creative Thinking|TTCT]] / AUT） | 专家共识评估技术（Consensual Assessment Technique, CAT） |
 > |---|---|---|
-> | **心理测量学[[Reliability\|信度]]** | **极高** 具有标准化评分指南与常模参照，[[Inter-Rater Reliability\|评分者间信度]]与[[Test-Retest Reliability\|重测信度]]稳定。 | **中等** 依赖多名专家的主观共识（通常要求 ICC $\ge 0.70$），受评委偏好影响。 |
-> | **[[Ecological Validity\|生态效度]]与真实性** | **低至中等** 采用脱离真实专业情境的抽象任务，测量的仅是创造潜能而非实际成就。 | **极高** 直接评定真实世界中的艺术作品、工程设计或学术研究，被誉为“黄金标准”。 |
+> | **心理测量学[[Reliability|信度]]** | **极高** 具有标准化评分指南与常模参照，[[Inter-Rater Reliability|评分者间信度]]与[[Test-Retest Reliability|重测信度]]稳定。 | **中等** 依赖多名专家的主观共识（通常要求 ICC $\ge 0.70$），受评委偏好影响。 |
+> | **[[Ecological Validity|生态效度]]与真实性** | **低至中等** 采用脱离真实专业情境的抽象任务，测量的仅是创造潜能而非实际成就。 | **极高** 直接评定真实世界中的艺术作品、工程设计或学术研究，被誉为“黄金标准”。 |
 > | **施测成本与自动化** | **极低** 可大样本团体施测，近年已逐步实现自然语言处理（NLP）与 AI 自动评分。 | **高昂** 需要聘请多位领域专家进行耗时的人工独立盲审，难以在大规模选拔中普及。 |
-> | **对课堂教学的指导** | **弱** 输出抽象的流畅性/独创性分数，难以直接指导具体学科[[Homework\|作业]]的修改与迭代。 | **强** 专家评语与作品反馈可直接转化为质性改进建议，支持学生的深度反思。 |
+> | **对课堂教学的指导** | **弱** 输出抽象的流畅性/独创性分数，难以直接指导具体学科[[Homework|作业]]的修改与迭代。 | **强** 专家评语与作品反馈可直接转化为质性改进建议，支持学生的深度反思。 |
 >
 > （综合 [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] 与 [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] 分析归纳）
 
@@ -196,10 +196,10 @@ updated: '2026-08-27'
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心理论断言 | 涉及核心机制与方法学工具 | 代表学者依据 |
 > |---|---|---|---|
-> | **效标困境与多维测评** | 创造力测量受制于效标问题，单一工具无法表征构念全貌，[[Predictive Validity\|预测效度]]显著强于结果效应 | 效标问题（The Criterion Problem）、潜能 vs 过程 vs 产品 vs 成就、预测效度不对称性 | Runco et al.; Shapiro; Hocevar |
-> | **测量方法学调节** | 测量类型显著调节实证相关，自陈测量受 CMV 污染而表现测验反映真实认知重叠 | 共同方法变异（CMV）、三水平[[Meta-regression\|元回归]]调节分析、执行功能重叠 | Park, Myszkowski & Niu; Podsakoff |
+> | **效标困境与多维测评** | 创造力测量受制于效标问题，单一工具无法表征构念全貌，[[Predictive Validity|预测效度]]显著强于结果效应 | 效标问题（The Criterion Problem）、潜能 vs 过程 vs 产品 vs 成就、预测效度不对称性 | Runco et al.; Shapiro; Hocevar |
+> | **测量方法学调节** | 测量类型显著调节实证相关，自陈测量受 CMV 污染而表现测验反映真实认知重叠 | 共同方法变异（CMV）、三水平[[Meta-regression|元回归]]调节分析、执行功能重叠 | Park, Myszkowski & Niu; Podsakoff |
 > | **专家产品同感评定** | CAT 是评定真实产品的黄金标准，但面临专家主观偏好与高昂组织成本挑战 | 共识评估技术（CAT）、生态效度、评分者一致性 | Amabile; Baer & McKool; Bouckaert |
-> | **校本真实性量规** | 课程嵌入式真实性量规有效联结专业教学，全面赋能[[Formative Assessment\|形成性评价]]与低利害试错 | 真实性评分量规、阶梯描述符、[[Constructive Alignment\|建构性对齐]]、促学反馈 | Rhodes; Vincent-Lancrin et al.; Wagenaar; Bouckaert |
+> | **校本真实性量规** | 课程嵌入式真实性量规有效联结专业教学，全面赋能[[Formative Assessment|形成性评价]]与低利害试错 | 真实性评分量规、阶梯描述符、[[Constructive Alignment|建构性对齐]]、促学反馈 | Rhodes; Vincent-Lancrin et al.; Wagenaar; Bouckaert |
 
 ---
 

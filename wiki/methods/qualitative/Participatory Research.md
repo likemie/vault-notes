@@ -141,8 +141,8 @@ updated: 2026-07-11
 > | 方法 | 关系 | 区别 |
 > |---|---|---|
 > | [[Ideology Critique]] | 理论根源 | 意识形态批判侧重分析权力运作，PR 侧重集体行动与赋权实践。 |
-> | [[Action Research\|行动研究]]（Action Research） | 亲缘方法 | PR 比行动研究更具政治性；行动研究更关注实践者改进自身实践，PR 更关注社区集体解放。 |
-> | [[Mixed Methods Research\|混合方法研究]] | [[Pragmatic Paradigm\|实用主义]]亲缘 | PR 同样务实——如有必要，为了"实用效用"可以牺牲"严格控制"（Brown, 2005a: 92）。 |
+> | [[Action Research|行动研究]]（Action Research） | 亲缘方法 | PR 比行动研究更具政治性；行动研究更关注实践者改进自身实践，PR 更关注社区集体解放。 |
+> | [[Mixed Methods Research|混合方法研究]] | [[Pragmatic Paradigm|实用主义]]亲缘 | PR 同样务实——如有必要，为了"实用效用"可以牺牲"严格控制"（Brown, 2005a: 92）。 |
 
 ---
 

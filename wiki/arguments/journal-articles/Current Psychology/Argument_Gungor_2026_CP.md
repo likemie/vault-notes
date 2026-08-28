@@ -147,9 +147,9 @@ issuing_organization: ""
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **[[Constructivist Paradigm\|社会建构主义]]学习理论（Social Constructivist Learning Theory）** | 强调知识是通过学习者在特定社会文化情境中，依托同伴互动、[[Dialogue in Education\|对话]]协商与认知冲突主动建构生成的，为[[Cooperative Learning\|合作学习]]促进高阶认知加工与社会交往能力提供根本[[Epistemology\|认识论]]支撑。（pp. 1–2） |
-> | **[[Social Interdependence Theory\|社会互赖理论]]（Social Interdependence Theory）** | 阐明小组合作的动力学机制在于建立积极互赖（Positive Interdependence）与个体责任（Individual Accountability），确立组员利益休戚与共的共同体，激发同伴支持、反馈与自我调节。（pp. 2–3） |
-> | **[[Bloom's Taxonomy\|布鲁姆教育目标分类学三维框架]]（Bloom's Tripartite Taxonomy）** | 将学习产出系统划分为认知领域（Cognitive Domain）、情感领域（Affective Domain）与动作技能领域（Psychomotor Domain）；本研究在此基础上因应[[Meta-analysis\|元分析]]数据实态，进一步将认知领域细分为低阶[[Academic Achievement\|学业成就]]与复杂[[Higher-Order Thinking Skills\|高阶思维技能]]。（pp. 3–4） |
+> | **[[Constructivist Paradigm|社会建构主义]]学习理论（Social Constructivist Learning Theory）** | 强调知识是通过学习者在特定社会文化情境中，依托同伴互动、[[Dialogue in Education|对话]]协商与认知冲突主动建构生成的，为[[Cooperative Learning|合作学习]]促进高阶认知加工与社会交往能力提供根本[[Epistemology|认识论]]支撑。（pp. 1–2） |
+> | **[[Social Interdependence Theory|社会互赖理论]]（Social Interdependence Theory）** | 阐明小组合作的动力学机制在于建立积极互赖（Positive Interdependence）与个体责任（Individual Accountability），确立组员利益休戚与共的共同体，激发同伴支持、反馈与自我调节。（pp. 2–3） |
+> | **[[Bloom's Taxonomy|布鲁姆教育目标分类学三维框架]]（Bloom's Tripartite Taxonomy）** | 将学习产出系统划分为认知领域（Cognitive Domain）、情感领域（Affective Domain）与动作技能领域（Psychomotor Domain）；本研究在此基础上因应[[Meta-analysis|元分析]]数据实态，进一步将认知领域细分为低阶[[Academic Achievement|学业成就]]与复杂[[Higher-Order Thinking Skills|高阶思维技能]]。（pp. 3–4） |
 
 > [!warrant]- 理论如何支撑论证
 > [[Social Interdependence Theory|社会互赖理论]]与社会建构主义将小群体教学活动[[Operationalization|操作化]]为五大核心要素（积极互赖、促进性面对面互动、个体责任、人际与小群体技能、小组自我评价），从机制上解释了为何结构化的小组合作能够打破传统被动听讲的认知钝化，激发成员间的深层解释与互助；布鲁姆分类学则为整合[[Heterogeneity|异质性]]一阶元分析中的多元[[Dependent Variable|因变量]]提供了明确的[[Criterion-Referenced Test|标准参照]]，使跨学科、跨学段的[[Effect Size|效应量]]合并具备坚实的[[Construct Validity|构念效度]]。（pp. 2–4）
@@ -157,18 +157,18 @@ issuing_organization: ""
 ### 核心变量与合作学习技术操作化编码表
 
 > [!index-table] 学习产出与合作学习技术操作化定义与[[Coding in Qualitative Research|编码]]规程
-> | [[Variable\|变量]]维度与分类 | [[Construct\|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
+> | [[Variable|变量]]维度与分类 | [[Construct|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
 > |---|---|---|
-> | **[[Higher-Order Thinking Skills\|高阶思维技能]]**<br>（Higher-Order Thinking Skills，HOTS） | 依据布鲁姆修订版认知目标分类学的高阶层级（分析、评价、创造），指超越机械识记与常规运算、需综合多源信息进行深层认知加工的心智能力，涵盖[[Critical Thinking\|批判性思维]]、[[Creativity\|创造性思维]]、复杂问题解决及[[21st Century Skills and Competencies Discourse\|21世纪核心素养]]。 | 加州批判性思维倾向问卷（California Critical Thinking Disposition Inventory，CCTDI）、托兰斯创造性思维测验（Torrance Tests of Creative Thinking，TTCT）、开放性探究任务表现量表；纳入 Siagian et al. (2023, 数学批判与创造性思维, $ES = 0.79/0.69$)、Solissa et al. (2023, 21世纪技能, $ES = 0.84$)、Özkan & Çetinkaya-Uslusoy (2024, 护理批判性思维, $ES = 0.70$) 等 4 个效应量，加权平均 $ES = 0.76$。 |
-> | **[[Academic Achievement\|学业成就]]** | 学生在特定学科大纲要求下对事实性知识、概念理解与程序性计算的掌握水平，属于布鲁姆认知领域的识记、领会与常规应用层级。 | 标准化学科期末统考、章节知识测试、平均学分绩点（Grade Point Average，GPA）、阅读理解测试；纳入 Çapar & Tarım (2015, 数学, $ES = 0.59$)、Fuad et al. (2023, 语言阅读, $ES = 2.04$)、Gürdoğan-Bayır & Bozkurt (2018, 社科, $ES = 0.96$)、Ridwan et al. (2022, $ES = 0.87/0.92$) 等 12 个效应量，加权平均 $ES = 0.71$。 |
-> | **情感与行为产出** | 学生在教学干预中表现出的内在心理倾向、情绪体验、态度信念与社会交往行为，涵盖学习动机、学科态度、同伴协作技能及社交[[Self-Efficacy\|自我效能感]]。 | 学习动机策略问卷（Motivated Strategies for Learning Questionnaire，MSLQ）、学科态度量表、同伴互动观察量表；纳入 Kyndt et al. (2013, 情感态度, $ES = 0.15/0.18$)、Liu & Lipowski (2021, 体育动机, $ES = 0.05$)、Tanjung et al. (2022, 物理情感能力, $ES = 1.26$)、Özkan & Çetinkaya-Uslusoy (2024, 护理态度, $ES = 1.18$) 等 6 个效应量，加权平均 $ES = 0.51$。 |
+> | **[[Higher-Order Thinking Skills|高阶思维技能]]**<br>（Higher-Order Thinking Skills，HOTS） | 依据布鲁姆修订版认知目标分类学的高阶层级（分析、评价、创造），指超越机械识记与常规运算、需综合多源信息进行深层认知加工的心智能力，涵盖[[Critical Thinking|批判性思维]]、[[Creativity|创造性思维]]、复杂问题解决及[[21st Century Skills and Competencies Discourse|21世纪核心素养]]。 | 加州批判性思维倾向问卷（California Critical Thinking Disposition Inventory，CCTDI）、托兰斯创造性思维测验（Torrance Tests of Creative Thinking，TTCT）、开放性探究任务表现量表；纳入 Siagian et al. (2023, 数学批判与创造性思维, $ES = 0.79/0.69$)、Solissa et al. (2023, 21世纪技能, $ES = 0.84$)、Özkan & Çetinkaya-Uslusoy (2024, 护理批判性思维, $ES = 0.70$) 等 4 个效应量，加权平均 $ES = 0.76$。 |
+> | **[[Academic Achievement|学业成就]]** | 学生在特定学科大纲要求下对事实性知识、概念理解与程序性计算的掌握水平，属于布鲁姆认知领域的识记、领会与常规应用层级。 | 标准化学科期末统考、章节知识测试、平均学分绩点（Grade Point Average，GPA）、阅读理解测试；纳入 Çapar & Tarım (2015, 数学, $ES = 0.59$)、Fuad et al. (2023, 语言阅读, $ES = 2.04$)、Gürdoğan-Bayır & Bozkurt (2018, 社科, $ES = 0.96$)、Ridwan et al. (2022, $ES = 0.87/0.92$) 等 12 个效应量，加权平均 $ES = 0.71$。 |
+> | **情感与行为产出** | 学生在教学干预中表现出的内在心理倾向、情绪体验、态度信念与社会交往行为，涵盖学习动机、学科态度、同伴协作技能及社交[[Self-Efficacy|自我效能感]]。 | 学习动机策略问卷（Motivated Strategies for Learning Questionnaire，MSLQ）、学科态度量表、同伴互动观察量表；纳入 Kyndt et al. (2013, 情感态度, $ES = 0.15/0.18$)、Liu & Lipowski (2021, 体育动机, $ES = 0.05$)、Tanjung et al. (2022, 物理情感能力, $ES = 1.26$)、Özkan & Çetinkaya-Uslusoy (2024, 护理态度, $ES = 1.18$) 等 6 个效应量，加权平均 $ES = 0.51$。 |
 > | **综合学习产出** | 一阶元分析未对认知与情感分量进行拆分，直接汇总的全维度综合发展总分。 | 综合教学评价档案袋、全维产出合成指数；纳入 Shakerian et al. (2020, 健康科学, $ES = 1.25$) 1 个效应量。 |
-> | **[[Cooperative Integrated Reading and Composition\|合作整合阅读与写作]]**<br>（Cooperative Integrated Reading and Composition，CIRC） | 由 Stevens et al. (1987) 开发的综合性语言与读写教学方案，将基础读写技能教学与异质小组[[Peer-Supported Learning\|同伴互助]]紧密结合。 | 教学规程：教师主导阅读策略精讲 $\to$ 异质小组结对朗读与词汇意义协商 $\to$ 故事主线结构图解 $\to$ 同伴互评修改与编辑 $\to$ 故事复述续写；纳入 Fuad et al. (2023, $ES = 2.04$)，综合效应居全场首位。 |
-> | **[[Group Investigation\|小组调查法]]**<br>（Group Investigation，GI） | 由 Sharan & Sharan (1992) 开发的高度开放式社会探究教学法，强调学生民主参与、多源探究与高阶合作。 | 六步规程：全班确定大主题 $\to$ 异质小组自主选定子课题与分工 $\to$ 搜集资料开展合作调查 $\to$ 整合分析形成报告 $\to$ 向全班展示成果 $\to$ 师生多元评价；纳入 Tanjung et al. (2022, $ES = 0.96/1.26$) 2 个效应量，加权平均 $ES = 1.08$。 |
-> | **[[Jigsaw\|拼图法]]**<br>（Jigsaw） | 由 Aronson et al. (1978) 开创并经 Slavin (1986) 发展的角色互补型合作技术，通过任务信息不对称强制组员相互依存。 | 四步规程：原属组（Home Group）分派不同学习模块 $\to$ 各组负责相同模块者组成专家组（Expert Group）深入研讨 $\to$ 返回原属组轮流教授组员 $\to$ 个人独立测验；纳入 Özkan & Çetinkaya-Uslusoy (2024)、Solissa et al. (2023)、Stanczak et al. (2022)、Shakerian et al. (2020) 等 6 个效应量，加权平均 $ES = 0.72$。 |
+> | **[[Cooperative Integrated Reading and Composition|合作整合阅读与写作]]**<br>（Cooperative Integrated Reading and Composition，CIRC） | 由 Stevens et al. (1987) 开发的综合性语言与读写教学方案，将基础读写技能教学与异质小组[[Peer-Supported Learning|同伴互助]]紧密结合。 | 教学规程：教师主导阅读策略精讲 $\to$ 异质小组结对朗读与词汇意义协商 $\to$ 故事主线结构图解 $\to$ 同伴互评修改与编辑 $\to$ 故事复述续写；纳入 Fuad et al. (2023, $ES = 2.04$)，综合效应居全场首位。 |
+> | **[[Group Investigation|小组调查法]]**<br>（Group Investigation，GI） | 由 Sharan & Sharan (1992) 开发的高度开放式社会探究教学法，强调学生民主参与、多源探究与高阶合作。 | 六步规程：全班确定大主题 $\to$ 异质小组自主选定子课题与分工 $\to$ 搜集资料开展合作调查 $\to$ 整合分析形成报告 $\to$ 向全班展示成果 $\to$ 师生多元评价；纳入 Tanjung et al. (2022, $ES = 0.96/1.26$) 2 个效应量，加权平均 $ES = 1.08$。 |
+> | **[[Jigsaw|拼图法]]**<br>（Jigsaw） | 由 Aronson et al. (1978) 开创并经 Slavin (1986) 发展的角色互补型合作技术，通过任务信息不对称强制组员相互依存。 | 四步规程：原属组（Home Group）分派不同学习模块 $\to$ 各组负责相同模块者组成专家组（Expert Group）深入研讨 $\to$ 返回原属组轮流教授组员 $\to$ 个人独立测验；纳入 Özkan & Çetinkaya-Uslusoy (2024)、Solissa et al. (2023)、Stanczak et al. (2022)、Shakerian et al. (2020) 等 6 个效应量，加权平均 $ES = 0.72$。 |
 > | **学生小组成就区分法**<br>（Student Teams-Achievement Divisions，STAD） | 由 Slavin (1978) 开发的经典结构化合作技术，强调个人进步分与团队奖励机制，以消除组内搭便车与同伴地位差异。 | 规程：教师授课 $\to$ 异质小组研讨与互测 $\to$ 独立小测 $\to$ 基于个人超越历史基线的进步分（Improvement Points）计算团队奖励；在一阶元分析中广泛整合于综合合作学习池中。 |
-> | **[[Teams-Games-Tournament\|团队游戏竞赛法]]**<br>（Teams-Games-Tournament，TGT） | 由 DeVries & Edwards (1973) 提出的合作-竞赛混合[[Paradigm\|范式]]，用同质学术竞赛台替代传统闭卷测验。 | 规程：异质小组共同准备 $\to$ 组员按先前成就水平分派至同质三人竞赛台（Tournament Tables）竞答抢分 $\to$ 赢取积分带回原属小组 $\to$ 组间竞争表彰；整合于综合合作学习类别中。 |
-> | **[[Think-Pair-Share\|思考配对分享]]**<br>（Think-Pair-Share，TPS） | 由 Lyman (1981) 提出的低门槛短周期即时合作策略，旨在最大化课堂全员参与度。 | 规程：教师提问 $\to$ 学生独立思考（Think, 1-2分钟） $\to$ 同桌两人配对交流修正（Pair, 3-5分钟） $\to$ 面向全班分享（Share）；整合于综合合作学习类别中。 |
+> | **[[Teams-Games-Tournament|团队游戏竞赛法]]**<br>（Teams-Games-Tournament，TGT） | 由 DeVries & Edwards (1973) 提出的合作-竞赛混合[[Paradigm|范式]]，用同质学术竞赛台替代传统闭卷测验。 | 规程：异质小组共同准备 $\to$ 组员按先前成就水平分派至同质三人竞赛台（Tournament Tables）竞答抢分 $\to$ 赢取积分带回原属小组 $\to$ 组间竞争表彰；整合于综合合作学习类别中。 |
+> | **[[Think-Pair-Share|思考配对分享]]**<br>（Think-Pair-Share，TPS） | 由 Lyman (1981) 提出的低门槛短周期即时合作策略，旨在最大化课堂全员参与度。 | 规程：教师提问 $\to$ 学生独立思考（Think, 1-2分钟） $\to$ 同桌两人配对交流修正（Pair, 3-5分钟） $\to$ 面向全班分享（Share）；整合于综合合作学习类别中。 |
 > | **综合合作学习** | 涵盖 Johnson & Johnson (1989) 合作学习五要素模型（学习在一起（Learning Together，LT）），或一阶元分析未对具体教学法拆分而进行统合评估的整体干预模式。 | 强调积极互赖、个体责任、面对面促进性互动、社交技能与小组自评五要素；纳入 Çapar & Tarım (2015)、Kyndt et al. (2013)、Ridwan et al. (2022)、Siagian et al. (2023)、Warfa (2016) 等 14 个效应量，加权平均 $ES = 0.61$。 |
 >
 > **图表解读** 本表系统界定了[[Meta-meta-analysis|二阶元分析]]中 4 类学习产出与 7 类合作学习技术的核心理论构念、操作化定义、典型教学规程、代表性测评工具及纳入的一阶元分析实证案例，为二阶亚组调节分析与教学转化提供了精准的分类学与操作化基准。（pp. 3–7）
@@ -180,37 +180,37 @@ issuing_organization: ""
 > [!method-panel] 研究设计与[[Coding in Qualitative Research|编码]]流程
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **文献检索与筛选**<br>Systematic Search & Screening | 检索 Web of Science、Scopus、EBSCO 旗下数据库（包含教育资源信息中心（Educational Resources Information Center，ERIC）、Academic Search Ultimate、MEDLINE Complete、Teacher Reference Center、MasterFILE Complete Academic）及 Google Academic 灰色文献；使用[[Cooperative Learning\|合作学习]]技术（拼图法 jigsaw、小组[[Survey Research\|调查法]] group investigation、学生小组成就区分法 STAD、团队游戏竞赛法 TGT、合作整合阅读与写作 CIRC、思考配对分享 think-pair-share 等）与[[Meta-analysis\|元分析]]（meta-analysis、[[Systematic Review\|系统评价]] systematic review）的二元关键词组合；遵循系统综述和荟萃分析优先报告条目（Preferred Reporting Items for Systematic Reviews and Meta-Analyses，PRISMA）2020 指南，限定 2010–2024 年英文期刊文献；排除技术或网络支持学习及重叠率超过 25% 的一阶元分析，最终纳入 15 项独立一阶元分析。（pp. 4–5） |
-> | **方法学质量评估**<br>Quality Assessment | 采用[[AMSTAR\|系统评价质量评估工具修订版]]（Revised Assessment of Multiple Systematic Reviews，R-AMSTAR，Kung et al., 2010）对 14 项元分析进行独立双人评定（得分 24–36 分，分为中等与高质量，无低质量或不充分级）；对 1 项内部元分析（Stanczak et al., 2022）采用乔安娜布里格斯研究所（Joanna Briggs Institute，JBI）实验研究批判性评价清单（Tufanaru et al., 2017）进行评估。（p. 5） |
-> | **数据提取与双人编码**<br>Data Extraction & Coding | 两位研究者独立[[Coding in Qualitative Research\|编码]]学习产出、合作学习技术、学科范围、教育阶段、研究设计、地理区域、方法质量、发表偏倚状态及发表年份，评定者间一致性系数 Cohen's $\kappa = 0.89$；分歧经研讨与教育科学专家咨询后达成共识。（pp. 5–6） |
-> | **效应量转换与统计合成**<br>Effect Size Conversion & Synthesis | 将比值比（Odds Ratio，OR）与皮尔逊相关系数（$r$）转换为 Cohen's $d$（Borenstein et al., 2021）；基于样本量足够大的假设合并 Hedges' $g$（$k=14$）与 Cohen's $d$（$k=7$），提取 23 个独立[[Effect Size\|效应量]]；在[[Fixed-Effect and Random-Effects Models\|随机效应模型]]（Random-Effects Models，REM）下采用经典[[Inverse-Variance Weighting\|逆方差加权法]]（Inverse-Variance Weighting，IVW）合成，各效应量权重计算为 $w_i^* = \frac{1}{v_i + \tau^2}$（其中 $v_i$ 为一阶元分析抽样方差，$\tau^2 = 0.13$ 为研究间异质性方差）；合并报告 95% [[Confidence Interval\|置信区间]]并计算总[[Heterogeneity\|异质性]] $Q$、$I^2$ 与 $\tau^2$；执行亚组调节分析与多重[[Publication Bias\|发表偏倚检验]]。（pp. 6–7） |
+> | **文献检索与筛选**<br>Systematic Search & Screening | 检索 Web of Science、Scopus、EBSCO 旗下数据库（包含教育资源信息中心（Educational Resources Information Center，ERIC）、Academic Search Ultimate、MEDLINE Complete、Teacher Reference Center、MasterFILE Complete Academic）及 Google Academic 灰色文献；使用[[Cooperative Learning|合作学习]]技术（拼图法 jigsaw、小组[[Survey Research|调查法]] group investigation、学生小组成就区分法 STAD、团队游戏竞赛法 TGT、合作整合阅读与写作 CIRC、思考配对分享 think-pair-share 等）与[[Meta-analysis|元分析]]（meta-analysis、[[Systematic Review|系统评价]] systematic review）的二元关键词组合；遵循系统综述和荟萃分析优先报告条目（Preferred Reporting Items for Systematic Reviews and Meta-Analyses，PRISMA）2020 指南，限定 2010–2024 年英文期刊文献；排除技术或网络支持学习及重叠率超过 25% 的一阶元分析，最终纳入 15 项独立一阶元分析。（pp. 4–5） |
+> | **方法学质量评估**<br>Quality Assessment | 采用[[AMSTAR|系统评价质量评估工具修订版]]（Revised Assessment of Multiple Systematic Reviews，R-AMSTAR，Kung et al., 2010）对 14 项元分析进行独立双人评定（得分 24–36 分，分为中等与高质量，无低质量或不充分级）；对 1 项内部元分析（Stanczak et al., 2022）采用乔安娜布里格斯研究所（Joanna Briggs Institute，JBI）实验研究批判性评价清单（Tufanaru et al., 2017）进行评估。（p. 5） |
+> | **数据提取与双人编码**<br>Data Extraction & Coding | 两位研究者独立[[Coding in Qualitative Research|编码]]学习产出、合作学习技术、学科范围、教育阶段、研究设计、地理区域、方法质量、发表偏倚状态及发表年份，评定者间一致性系数 Cohen's $\kappa = 0.89$；分歧经研讨与教育科学专家咨询后达成共识。（pp. 5–6） |
+> | **效应量转换与统计合成**<br>Effect Size Conversion & Synthesis | 将比值比（Odds Ratio，OR）与皮尔逊相关系数（$r$）转换为 Cohen's $d$（Borenstein et al., 2021）；基于样本量足够大的假设合并 Hedges' $g$（$k=14$）与 Cohen's $d$（$k=7$），提取 23 个独立[[Effect Size|效应量]]；在[[Fixed-Effect and Random-Effects Models|随机效应模型]]（Random-Effects Models，REM）下采用经典[[Inverse-Variance Weighting|逆方差加权法]]（Inverse-Variance Weighting，IVW）合成，各效应量权重计算为 $w_i^* = \frac{1}{v_i + \tau^2}$（其中 $v_i$ 为一阶元分析抽样方差，$\tau^2 = 0.13$ 为研究间异质性方差）；合并报告 95% [[Confidence Interval|置信区间]]并计算总[[Heterogeneity|异质性]] $Q$、$I^2$ 与 $\tau^2$；执行亚组调节分析与多重[[Publication Bias|发表偏倚检验]]。（pp. 6–7） |
 
 > [!ref-table]- [[Variable|变量]]编码程序规范表（Table 1）
-> | 编码分组 | 编码类别与[[Operationalization\|操作化]]定义 |
+> | 编码分组 | 编码类别与[[Operationalization|操作化]]定义 |
 > |---|---|
 > | **研究标识** | 研究者姓名与发表年份。 |
-> | **学习产出** | [[Academic Achievement\|学业成就]]、[[Higher-Order Thinking Skills\|高阶思维技能]]（HOTS）、情感行为；合并报告时编码为综合产出。 |
-> | **合作学习技术** | [[Cooperative Learning\|综合合作学习]]或具体技术名称（如拼图法 Jigsaw、小组调查法 Group Investigation、合作整合阅读与写作 CIRC 等）。 |
+> | **学习产出** | [[Academic Achievement|学业成就]]、[[Higher-Order Thinking Skills|高阶思维技能]]（HOTS）、情感行为；合并报告时编码为综合产出。 |
+> | **合作学习技术** | [[Cooperative Learning|综合合作学习]]或具体技术名称（如拼图法 Jigsaw、小组调查法 Group Investigation、合作整合阅读与写作 CIRC 等）。 |
 > | **学科范围** | 覆盖的具体学术学科（数学、自然科学、语言、社会科、体育、护理教育、健康科学等）；多学科合并时编码为混合学科。 |
 > | **教育阶段** | 基础教育阶段（K-12）、高等教育；跨学段编码为混合学段。 |
-> | **[[Blue Skies Research\|基础研究]]设计** | 一阶元分析所涵盖原始实证研究的设计类型：全实验设计、[[Quasi-Experimental Designs\|准实验设计]]、全实验与准实验混合。 |
+> | **[[Blue Skies Research|基础研究]]设计** | 一阶元分析所涵盖原始实证研究的设计类型：全实验设计、[[Quasi-Experimental Designs|准实验设计]]、全实验与准实验混合。 |
 > | **基础研究地理区域** | 原始研究所属国别或地区：印度尼西亚、土耳其、瑞士、伊朗、非特定多国、其他国家。 |
-> | **一阶元分析质量** | 依据 [[AMSTAR\|R-AMSTAR]] 量表得分划分为中等质量（24–30分）与高质量（31–36分）；本数据集无低质量等级。 |
-> | **发表偏倚状态** | 一阶元分析是否检出[[Publication Bias\|发表偏倚]]：是、否、未报告或不清楚。 |
+> | **一阶元分析质量** | 依据 [[AMSTAR|R-AMSTAR]] 量表得分划分为中等质量（24–30分）与高质量（31–36分）；本数据集无低质量等级。 |
+> | **发表偏倚状态** | 一阶元分析是否检出[[Publication Bias|发表偏倚]]：是、否、未报告或不清楚。 |
 > | **发表年份区间** | 2010 年至 2024 年之间（细分为 2020 年前与 2021 年后两组）。 |
 
 > [!ref-table]- 纳入一阶元分析特征全量清单（Table 2）
-> | 一阶元分析研究 | 效应量 ES | 95% CI 下限 | 95% CI 上限 | 原始研究数 k | 学科领域 | 教育阶段 | 合作学习技术 | 研究区域 | 实验设计类型 | 测量产出 | 方法质量 | 发表偏倚 | 纳入[[Document\|文献]]年代 |
+> | 一阶元分析研究 | 效应量 ES | 95% CI 下限 | 95% CI 上限 | 原始研究数 k | 学科领域 | 教育阶段 | 合作学习技术 | 研究区域 | 实验设计类型 | 测量产出 | 方法质量 | 发表偏倚 | 纳入[[Document|文献]]年代 |
 > |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 > | **Çapar & Tarım (2015)** | 0.59 | 0.38 | 0.80 | 36 | 数学 | 混合学段 | 综合合作学习 | 土耳其与其他 | 全实验与准实验 | 学业成就 | 中等 | 无偏倚 | 1988–2010 |
 > | **Çapar & Tarım (2015)** | 0.52 | -0.20 | 1.24 | 7 | 数学 | 混合学段 | 综合合作学习 | 土耳其与其他 | 全实验与准实验 | 情感态度 | 中等 | 不清楚 | 1988–2010 |
-> | **Fuad et al. (2023)** | 2.04 | 1.35 | 2.74 | 10 | 语言（阅读） | K-12 | 整合阅读（[[Cooperative Integrated Reading and Composition\|CIRC]]） | 印度尼西亚 | 准实验设计 | 学业成就 | 中等 | 无偏倚 | 2015–2021 |
+> | **Fuad et al. (2023)** | 2.04 | 1.35 | 2.74 | 10 | 语言（阅读） | K-12 | 整合阅读（[[Cooperative Integrated Reading and Composition|CIRC]]） | 印度尼西亚 | 准实验设计 | 学业成就 | 中等 | 无偏倚 | 2015–2021 |
 > | **Gürdoğan-Bayır & Bozkurt (2018)** | 0.96 | 0.72 | 1.19 | 32 | 社会科 | K-12 | 综合合作学习 | 土耳其 | 全实验与准实验 | 学业成就 | 中等 | 不清楚 | 2005–2016 |
 > | **Kyndt et al. (2013)** | 0.54 | 0.47 | 0.60 | 51 | 混合学科 | 混合学段 | 综合合作学习 | 非特定多国 | 全实验与准实验 | 学业成就 | 高 | 检出偏倚 | 1995–2012 |
 > | **Kyndt et al. (2013)** | 0.15 | 0.04 | 0.26 | 19 | 混合学科 | 混合学段 | 综合合作学习 | 非特定多国 | 全实验与准实验 | 情感态度 | 高 | 检出偏倚 | 1995–2012 |
 > | **Kyndt et al. (2013)** | 0.18 | -0.05 | 0.40 | 4 | 混合学科 | 混合学段 | 综合合作学习 | 土耳其与其他 | 全实验与准实验 | 情感态度 | 高 | 检出偏倚 | 1995–2012 |
 > | **Liu & Lipowski (2021)** | 0.05 | -1.30 | 1.41 | 6 | 体育教育 | K-12 | 综合合作学习 | 非特定多国 | 全实验与准实验 | 情感动机 | 中等 | 检出偏倚 | 2000–2020 |
-> | **Özkan & Çetinkaya-Uslusoy (2024)** | 0.58 | 0.47 | 0.70 | 7 | 护理教育 | 高等教育 | [[Jigsaw\|拼图法]]（Jigsaw） | 非特定多国 | 全实验与准实验 | 学业成就 | 高 | 无偏倚 | 2011–2022 |
+> | **Özkan & Çetinkaya-Uslusoy (2024)** | 0.58 | 0.47 | 0.70 | 7 | 护理教育 | 高等教育 | [[Jigsaw|拼图法]]（Jigsaw） | 非特定多国 | 全实验与准实验 | 学业成就 | 高 | 无偏倚 | 2011–2022 |
 > | **Özkan & Çetinkaya-Uslusoy (2024)** | 0.70 | 0.13 | 1.26 | 4 | 护理教育 | 高等教育 | 拼图法（Jigsaw） | 非特定多国 | 全实验与准实验 | 高阶思维（批判性） | 高 | 无偏倚 | 2011–2022 |
 > | **Özkan & Çetinkaya-Uslusoy (2024)** | 1.18 | 0.53 | 1.84 | 6 | 护理教育 | 高等教育 | 拼图法（Jigsaw） | 非特定多国 | 全实验与准实验 | 情感态度 | 高 | 无偏倚 | 2011–2022 |
 > | **Ridwan et al. (2022)** | 0.87 | 0.63 | 1.10 | 10 | 数学（中职） | K-12 | 综合合作学习 | 印度尼西亚 | 准实验设计 | 学业成就 | 中等 | 无偏倚 | 2013–2021 |
@@ -219,9 +219,9 @@ issuing_organization: ""
 > | **Shakerian et al. (2020)** | 1.25 | 1.08 | 1.51 | 7 | 健康科学 | 高等教育 | 拼图法（Jigsaw） | 伊朗 | 全实验与准实验 | 综合产出 | 高 | 不清楚 | 2010–2020 |
 > | **Siagian et al. (2023)** | 0.79 | 0.58 | 1.00 | 35 | 数学 | K-12 | 综合合作学习 | 印度尼西亚 | 全实验与准实验 | 高阶思维（批判与创造） | 中等 | 无偏倚 | 2012–2022 |
 > | **Siagian et al. (2023)** | 0.69 | 0.42 | 0.98 | 24 | 数学 | K-12 | 综合合作学习 | 印度尼西亚 | 全实验与准实验 | 高阶思维（批判与创造） | 中等 | 无偏倚 | 2012–2022 |
-> | **Solissa et al. (2023)** | 0.84 | 0.66 | 1.03 | 10 | 混合学科 | 混合学段 | 拼图法（Jigsaw） | 非特定多国 | 全实验与准实验 | 高阶思维（[[21st Century Skills and Competencies Discourse\|21世纪技能]]） | 中等 | 无偏倚 | 2018–2023 |
-> | **Stanczak et al. (2022)** | 0.00 | -0.10 | 0.09 | 5 | 混合学科 | K-12（六年级） | 拼图法（Jigsaw） | 瑞士 | 全实验设计（[[Randomised Controlled Trials\|随机对照试验]]（Randomized Controlled Trial，RCT）） | 学业成就 | 高 | 不清楚 | 内部元分析 |
-> | **Tanjung et al. (2022)** | 0.96 | 0.74 | 1.17 | 15 | 物理 | K-12 | [[Group Investigation\|小组调查法]] | 印度尼西亚 | 全实验与准实验 | 学业成就 | 中等 | 不清楚 | 2011–2020 |
+> | **Solissa et al. (2023)** | 0.84 | 0.66 | 1.03 | 10 | 混合学科 | 混合学段 | 拼图法（Jigsaw） | 非特定多国 | 全实验与准实验 | 高阶思维（[[21st Century Skills and Competencies Discourse|21世纪技能]]） | 中等 | 无偏倚 | 2018–2023 |
+> | **Stanczak et al. (2022)** | 0.00 | -0.10 | 0.09 | 5 | 混合学科 | K-12（六年级） | 拼图法（Jigsaw） | 瑞士 | 全实验设计（[[Randomised Controlled Trials|随机对照试验]]（Randomized Controlled Trial，RCT）） | 学业成就 | 高 | 不清楚 | 内部元分析 |
+> | **Tanjung et al. (2022)** | 0.96 | 0.74 | 1.17 | 15 | 物理 | K-12 | [[Group Investigation|小组调查法]] | 印度尼西亚 | 全实验与准实验 | 学业成就 | 中等 | 不清楚 | 2011–2020 |
 > | **Tanjung et al. (2022)** | 1.26 | 0.69 | 1.88 | 4 | 物理 | K-12 | 小组调查法 | 印度尼西亚 | 全实验与准实验 | 情感能力 | 中等 | 不清楚 | 2011–2020 |
 > | **Turgut & Gülşen Turgut (2018)** | 0.84 | 0.68 | 0.99 | 59 | 数学 | 混合学段 | 综合合作学习 | 土耳其 | 全实验与准实验 | 学业成就 | 中等 | 不清楚 | 2000–2017 |
 > | **Warfa (2016)** | 0.69 | 0.42 | 0.95 | 25 | 化学 | 高等教育 | 综合合作学习 | 非特定多国 | 全实验与准实验 | 学业成就 | 高 | 检出偏倚 | 2001–2015 |

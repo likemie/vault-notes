@@ -74,7 +74,7 @@ updated: 2026-08-25
 > | **言语表征（Logogens）** | 概念 | 负责存储和处理词汇、语法、命题陈述与抽象语义的语言认知表征单元。 |
 > | **联想联结（Associative Connections）** | 机制 | 处于同一子系统内部（言语—言语，或视觉—视觉）的单模态观念联结。 |
 > | **指称联结（Referential Connections）** | 机制 | 跨越视觉系统与言语系统之间的双向映射桥梁（如看到导图分支立即激活相关概念词汇）。 |
-> | **[[Graphic Organizer]]** | 工具 | 将言语概念结构化转化为空间视觉拓扑、主动触发双重[[Coding in Qualitative Research\|编码]]的典型教学脚手架。 |
+> | **[[Graphic Organizer]]** | 工具 | 将言语概念结构化转化为空间视觉拓扑、主动触发双重[[Coding in Qualitative Research|编码]]的典型教学脚手架。 |
 
 ---
 
@@ -108,10 +108,10 @@ updated: 2026-08-25
 > [!ma-table]- 一阶[[Meta-analysis|元分析]]理论验证数据
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 检验[[Hypothesis\|假设]] | 汇总效应与 95% CI | 理论验证结论 |
+> | 一阶元分析 | 检验[[Hypothesis|假设]] | 汇总效应与 95% CI | 理论验证结论 |
 > |---|---|---|---|
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 图形组织器对高阶思维的总体促进效应（$k = 72, N = 4{,}824$） | $g = 0.778$, $[0.642, 0.915]$ | 实证支持双重[[Coding in Qualitative Research\|编码]]与空间隐喻理论的负荷卸载假设 |
-> | ^ | [[Divergent Thinking\|发散思维]] vs [[Convergent Thinking\|聚合思维]]干预敏感度比较 | $g = 1.167$ vs $0.680$ ($Q_b = 7.07, p < .01$) | 实证支持空间分支双重编码对生成性发散联想的更强赋能 |
+> | [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] | 图形组织器对高阶思维的总体促进效应（$k = 72, N = 4{,}824$） | $g = 0.778$, $[0.642, 0.915]$ | 实证支持双重[[Coding in Qualitative Research|编码]]与空间隐喻理论的负荷卸载假设 |
+> | ^ | [[Divergent Thinking|发散思维]] vs [[Convergent Thinking|聚合思维]]干预敏感度比较 | $g = 1.167$ vs $0.680$ ($Q_b = 7.07, p < .01$) | 实证支持空间分支双重编码对生成性发散联想的更强赋能 |
 
 ---
 

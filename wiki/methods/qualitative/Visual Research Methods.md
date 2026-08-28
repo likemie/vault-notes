@@ -156,11 +156,11 @@ updated: 2026-08-11
 > |:-----|:-----|:-----|
 > | [[Visual Data]] | 概念 | 视觉研究方法的对象，被收集、制作与解读的视觉材料及其类型。 |
 > | [[Photo-elicitation]] | 子方法 | 以照片唤起讨论、反思与记忆的访谈技术，是视觉研究中最常用的具体技术之一。 |
-> | [[Artefact]] | 概念 | 器物作为视觉数据的一种来源，支撑器物观察与[[Organizational Culture\|组织文化]]分析。 |
+> | [[Artefact]] | 概念 | 器物作为视觉数据的一种来源，支撑器物观察与[[Organizational Culture|组织文化]]分析。 |
 > | [[Triangulation]] | 补充方法 | 视觉数据通常作为三角互证中的一种元素，与其他数据来源并列使用。 |
 > | [[Reflexivity]] | 概念 | 图像解读者的背景、价值观与目的塑造解读，要求研究者保持反身性。 |
 > | [[Informed Consent]] | 前置方法 | 视觉研究的伦理前提，其达成在图像情境中面临特殊困难。 |
-> | [[Audiovisual, Social Media, and Digital Materials]] | 相关方法 | [[Qualitative Research\|质性研究]]中对视听、社交媒体与数字材料的总体分类，与视觉研究方法部分重叠。 |
+> | [[Audiovisual, Social Media, and Digital Materials]] | 相关方法 | [[Qualitative Research|质性研究]]中对视听、社交媒体与数字材料的总体分类，与视觉研究方法部分重叠。 |
 > | [[Observation Method]] | 相关方法 | 视觉数据常作为观察数据的一种补充形式，与现场观察并列。 |
 
 ## 使用此方法的研究

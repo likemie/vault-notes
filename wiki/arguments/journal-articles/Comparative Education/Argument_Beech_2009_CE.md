@@ -117,9 +117,9 @@ issuing_organization: ""
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **流动空间与地方空间 (Space of Flows and Space of Places)**<br>[[Space of Flows and Space of Places]] | 用于区分地理定位的物理环境（地方空间，如具体的学校教室）与允许社会[[Praxis\|实践]]在非领土毗连下同时发生的物质安排（流动空间，如超国家信息网络），解释空间如何从地方中脱嵌(p.349)。 |
+> | **流动空间与地方空间 (Space of Flows and Space of Places)**<br>[[Space of Flows and Space of Places]] | 用于区分地理定位的物理环境（地方空间，如具体的学校教室）与允许社会[[Praxis|实践]]在非领土毗连下同时发生的物质安排（流动空间，如超国家信息网络），解释空间如何从地方中脱嵌(p.349)。 |
 > | **网络社会理论 (Network Society)**<br>[[Network Society]] | 用于分析流动空间中运行的社会组织（网络）的自动机运作、纳入/排除的二元逻辑、无中心但有主导节点的权力结构以及跨网络互通的逻辑(pp.350–351)。 |
-> | **操演性概念 (Performativity)**<br>[[Performativity]] | Lyotard (1984) 的概念。用于解释[[Global Policy Space\|全球政策空间]]中机构的评估逻辑（优化输入产出比与追求最大影响力的操演性竞争），说明 [[Pragmatism in China\|pragmatism]]（[[Pragmatic Paradigm\|实用主义]]）如何压倒意识形态(pp.352–353)。 |
+> | **操演性概念 (Performativity)**<br>[[Performativity]] | Lyotard (1984) 的概念。用于解释[[Global Policy Space|全球政策空间]]中机构的评估逻辑（优化输入产出比与追求最大影响力的操演性竞争），说明 [[Pragmatism in China|pragmatism]]（[[Pragmatic Paradigm|实用主义]]）如何压倒意识形态(pp.352–353)。 |
 
 > [!warrant]- 理论如何支撑论证
 > 空间理论（流动空间 vs. 地方空间）打破了地缘疆界的限制，将分析的起点建立在话语的“非领土承载”上；网络社会理论则揭示了为什么流动空间中的行动者能够脱离领土限制产生联盟；操演性原则进一步解释了机构为了在全球网络中生存并追求可见影响力，为何必须生产出极其“可塑”的[[Floating Signifier|漂浮能指]]。最后，通过将这些脱嵌的话语降落到附着于特定领土的地方空间（国家和学校），理论逻辑能够严密推导出话语重组与本土[[Transfer Translation Transformation|转译]]的必然性。
@@ -202,16 +202,16 @@ Castells 据此区分了两种空间逻辑：
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **理论建构与概念分析**<br>Conceptual Analysis | 批判比较教育学中的[[Methodological Nationalism\|方法论民族主义]]，调用 Castells 的空间/网络理论与 Lyotard 的操演性概念，推导话语在流动空间与地方空间转译的理论命题(pp.348–353)。 |
+> | **理论建构与概念分析**<br>Conceptual Analysis | 批判比较教育学中的[[Methodological Nationalism|方法论民族主义]]，调用 Castells 的空间/网络理论与 Lyotard 的操演性概念，推导话语在流动空间与地方空间转译的理论命题(pp.348–353)。 |
 > | **经验佐证与文献分析**<br>Document Analysis | 追踪“能力发展”与“尊重多样性”两条话语线索，分析 [[OECD]]、世界银行、巴西与阿根廷课程改革文件，以及相关政策实施研究的文献(pp.353–361)。 |
-> | **定性深度访谈分析**<br>[[Qualitative Interview]] | 分析对阿根廷和巴西教师教育者的访谈数据(Beech, 2005)，考察实践者如何理解与[[Transfer Translation Transformation\|转译]]抽象政策词汇(pp.358–359)。 |
+> | **定性深度访谈分析**<br>[[Qualitative Interview]] | 分析对阿根廷和巴西教师教育者的访谈数据(Beech, 2005)，考察实践者如何理解与[[Transfer Translation Transformation|转译]]抽象政策词汇(pp.358–359)。 |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |----------|------|
-> | **[[Document\|文献]]样本** | [[OECD]]（1990）、UNESCO（1996）等超国家组织的核心报告，以及阿根廷（2006）、巴西中等教育课程指南（1998）等国家政策与法律文本(pp.353–360)。 |
+> | **[[Document|文献]]样本** | [[OECD]]（1990）、UNESCO（1996）等超国家组织的核心报告，以及阿根廷（2006）、巴西中等教育课程指南（1998）等国家政策与法律文本(pp.353–360)。 |
 > | **访谈样本** | 阿根廷和巴西的若干教师教育者（Teacher Educators），这群人直接负责培养未来的中小学教师(p.358)。 |
-> | **经验案例** | [[Bolivian Education Reform 1994\|玻利维亚1994年教育改革]]、阿根廷跨文化双语教育项目、布宜诺斯艾利斯郊区（棚户区与富人区毗邻）的学校实践环境(pp.359–361)。 |
+> | **经验案例** | [[Bolivian Education Reform 1994|玻利维亚1994年教育改革]]、阿根廷跨文化双语教育项目、布宜诺斯艾利斯郊区（棚户区与富人区毗邻）的学校实践环境(pp.359–361)。 |
 
 为了具体展示同一套话语在三个空间层面中的逐层转化，本文选择两个概念作为贯穿全文的追踪线索：
 

@@ -127,19 +127,20 @@ flowchart LR
 > [!contrast-table] 阶段一核心方法与工具矩阵
 > | 统计方法/工具条目 | 方法定位与角色 | 解决的核心问题与痛点 | 判断标准与决策阈值 | 深度条目索引 |
 > |:---|:---|:---|:---|:---|
-> | **[[Content Validity Index\|内容效度指数（CVI / CVR）]]** | **专家内容效度量化工具** | 将同行专家对题项适切性的定性判断转化为定量指标，解决初始题池主观随意性问题。 | Lynn 判定标准：6–10 位专家时，题项级 **$\text{I-CVI} \ge .78$**，量表级 **$\text{S-CVI/Ave} \ge .90$**；Lawshe CVR 达显著水平。 | 🔗 [[Content Validity Index]] |
-> | **[[Delphi Technique\|德尔菲法（Delphi Technique）]]** | **专家共识汇聚方法** | 解决不同专家对构念维度与题项表述意见分歧的问题，通过多轮匿名函询形成稳定共识。 | 专家积极系数 $> 80\%$，专家权威系数 $Cr \ge 0.70$，肯德尔和谐系数（Kendall's $W$）检验显著（$p < .05$）。 | 🔗 [[Delphi Technique]] |
-> | **[[Pilot Testing\|预测试与认知访谈（Pilot Testing）]]** | **目标群体试读与质控** | 解决题项语言对一线被试晦涩难懂、存在双重否定或理解偏差的痛点。 | 收集 10–20 位目标被试的逐题出声思考（Think-aloud）反馈，消除所有歧义题项。 | 🔗 [[Pilot Testing]] |
+> | **[[Content Validity Index|内容效度指数（CVI / CVR）]]** | **专家内容效度量化工具** | 将同行专家对题项适切性的定性判断转化为定量指标，解决初始题池主观随意性问题。 | Lynn 判定标准：6–10 位专家时，题项级 **$\text{I-CVI} \ge .78$**，量表级 **$\text{S-CVI/Ave} \ge .90$**；Lawshe CVR 达显著水平。 | 🔗 [[Content Validity Index]] |
+> | **[[Delphi Technique|德尔菲法（Delphi Technique）]]** | **专家共识汇聚方法** | 解决不同专家对构念维度与题项表述意见分歧的问题，通过多轮匿名函询形成稳定共识。 | 专家积极系数 $> 80\%$，专家权威系数 $Cr \ge 0.70$，肯德尔和谐系数（Kendall's $W$）检验显著（$p < .05$）。 | 🔗 [[Delphi Technique]] |
+> | **[[Pilot Testing|预测试与认知访谈（Pilot Testing）]]** | **目标群体试读与质控** | 解决题项语言对一线被试晦涩难懂、存在双重否定或理解偏差的痛点。 | 收集 10–20 位目标被试的逐题出声思考（Think-aloud）反馈，消除所有歧义题项。 | 🔗 [[Pilot Testing]] |
 
-#### 阶段一核心建模步骤与方法学原理
+> [!proc] 阶段一核心操作规程与题池开发步骤
+> 1. **理论构念操作化与题池编制** 基于系统文献综述明确构念外延与内涵，编写 3–4 倍于目标题数的题项池（40–80 题），避免双重陈述与复杂双重否定，设定平衡的李克特计分点。
+> 2. **专家内容效度量化评定与筛选** 组织 5–10 位同行专家以 4 级相关性量表独立打分，计算题项级指数（$\text{I-CVI}$）与量表级指数（$\text{S-CVI/Ave}$），结合 Lawshe CVR 剔除效度偏低题项。
 
-- **步骤 1：理论构念操作化与初始题池编制**
-  - **理论边界界定** 基于系统文献综述，界定构念的外延与内涵，区分单维构念与多维复合构念。
-  - **题池拟定原则** 编写目标长度 3–4 倍的题项（通常 40–80 题），确保每个理论子维度至少包含 6–10 道备选题；严格避免双重陈述（Double-barreled items）、诱导性词汇与复杂双重否定；设定对称平衡的李克特计分点（如 5 级或 7 级）。
-- **步骤 2：专家内容效度量化评定（CVI & CVR）**
-  - **评定机制** 邀请 5–10 位学科同行与测量学者，采用 4 级相关性量表对每道题进行独立背对背打分。
-  - **指标计算** 计算题项级内容效度指数（$\text{I-CVI} = n_{\text{agree}} / N$）与量表级指数（$\text{S-CVI/Ave}$），结合 Lawshe 内容效度比率（CVR）识别并剔除 $\text{I-CVI} < .78$ 的低质题项。
-  - 🔗 完整数学公式、判定临界表与评定规程参见：[[Content Validity Index]]。
+> [!feature] 阶段一核心量化指标与判定准则
+> - **题项级内容效度指数** $\text{I-CVI} \ge .78$（Lynn 1986 准则），6–10 位专家时需至少 8 位评为高度相关。
+> - **量表级平均内容效度指数** $\text{S-CVI/Ave} \ge .90$，表明量表整体内容代表性与覆盖度卓越。
+> - **Lawshe 内容效度比率** $\text{CVR} > 0$，显著超越 $50\%$ 的随机猜测赞同基线。
+
+🔗 完整数学公式、判定临界表与评定规程参见：[[Content Validity Index]]。
 
 ---
 
@@ -151,19 +152,20 @@ flowchart LR
 > [!contrast-table] 阶段二核心方法与工具矩阵
 > | 统计方法/工具条目 | 方法定位与角色 | 解决的核心问题与痛点 | 判断标准与决策阈值 | 深度条目索引 |
 > |:---|:---|:---|:---|:---|
-> | **[[Item Analysis\|项目分析（Item Analysis）]]** | **题项质量统计初筛** | 解决题项区分度低下、与总分脱节或分布极度偏态的问题，在因子分析前净化题池。 | 筛选红线：矫正题总相关 **$r_{\text{it}} \ge .30$**；高低 27% 极端分组决断值 $t$ 检验达极显著水平（$p < .001$）。 | 🔗 [[Item Analysis]] |
-> | **[[Exploratory Factor Analysis\|探索性因子分析（EFA）]]** | **潜在维度结构探索与精简** | 解决观测变量高维冗余问题，通过方差分解提炼出最具解释力的潜变量结构。 | 判定准则：KMO $> .80$，Bartlett 球形检验 $p < .001$；依据特征值 $> 1$、碎石图与平行分析确定因子；载荷 **$> .32$** 且跨载荷差值 **$> .10$**。 | 🔗 [[Exploratory Factor Analysis]] |
+> | **[[Item Analysis|项目分析（Item Analysis）]]** | **题项质量统计初筛** | 解决题项区分度低下、与总分脱节或分布极度偏态的问题，在因子分析前净化题池。 | 筛选红线：矫正题总相关 **$r_{\text{it}} \ge .30$**；高低 27% 极端分组决断值 $t$ 检验达极显著水平（$p < .001$）。 | 🔗 [[Item Analysis]] |
+> | **[[Exploratory Factor Analysis|探索性因子分析（EFA）]]** | **潜在维度结构探索与精简** | 解决观测变量高维冗余问题，通过方差分解提炼出最具解释力的潜变量结构。 | 判定准则：KMO $> .80$，Bartlett 球形检验 $p < .001$；依据特征值 $> 1$、碎石图与平行分析确定因子；载荷 **$> .32$** 且跨载荷差值 **$> .10$**。 | 🔗 [[Exploratory Factor Analysis]] |
 
-#### 阶段二核心建模步骤与方法学原理
+> [!proc] 阶段二核心操作规程与因子提炼步骤
+> 1. **样本 1 施测与项目分析初筛** 在样本 1（$N \ge 300$）中施测，计算矫正题总相关（剔除 $r_{\text{it}} < .30$），执行前 27% 与后 27% 极端分组决断值独立样本 $t$ 检验（淘汰 $p \ge .05$ 题项）。
+> 2. **探索性因子分析与维度精简** 检验 KMO 与 Bartlett 检验，采用主轴因子提取法（PAF）与方差最大正交旋转（Varimax），依据载荷 $> .32$ 且跨载荷差值 $> .10$ 逐题筛选，提炼出清晰的公共因子。
 
-- **步骤 3：样本 1 施测与项目分析统计初筛（Item Analysis）**
-  - **矫正题总相关** 计算每道题与剔除该题后量表总分的相关系数，严格剔除 $r_{\text{it}} < .30$ 的题项。
-  - **极端分组检验（决断值法）** 按量表总分排列前 27%（高分组）与后 27%（低分组），执行独立样本 $t$ 检验；若 $t$ 检验未达显著水平（$p \ge .05$），表明该题无鉴别力，予以删除。
-  - 🔗 完整区分度公式与干扰项分析参见：[[Item Analysis]]。
-- **步骤 4：探索性因子分析与维度提炼（EFA）**
-  - **数据适宜性检验** 检验相关矩阵（大部分 $> .30$）、Anti-image 对角线值（$> .70$）、Kaiser-Meyer-Olkin 抽样适宜性系数（KMO $> .80$）及 Bartlett 球形检验（$p < .001$）。
-  - **因子提取与旋转** 采用主轴因子提取法（PAF）或极大似然法（ML），结合 Kaiser 特征值大于 1 准则、碎石图拐点与平行分析（Parallel Analysis）确定公因子数；采用方差最大正交旋转（Varimax）或斜交旋转（Promax），依据“因子载荷 $> .32$ 且跨载荷差值 $> .10$”的原则逐一剔除多重载荷杂题，提炼出正交或相关的精简因子结构。
-  - 🔗 完整方差分解方程与旋转算法参见：[[Exploratory Factor Analysis]]。
+> [!feature] 阶段二核心指标与筛选门槛
+> - **矫正题总相关** $r_{\text{it}} \ge .30$，确保题项与构念整体方向高度一致。
+> - **极端分组决断值** 高低 27% 组间差异达到极显著水平（$p < .001$），确立题项敏感区分度。
+> - **抽样适宜性系数** $\text{KMO} > .80$ 且 Bartlett 球形检验 $p < .001$，证实因子分解合法性。
+> - **因子截断与载荷准则** 特征值大于 1，结合平行分析拐点；主载荷 $> .32$ 且跨载荷差值 $> .10$。
+
+🔗 完整区分度公式参见：[[Item Analysis]]；因子提取与旋转算法参见：[[Exploratory Factor Analysis]]。
 
 ---
 
@@ -175,40 +177,34 @@ flowchart LR
 > [!contrast-table] 阶段三核心方法与工具矩阵
 > | 统计方法/工具条目 | 方法定位与角色 | 解决的核心问题与痛点 | 判断标准与决策阈值 | 深度条目索引 |
 > |:---|:---|:---|:---|:---|
-> | **[[Confirmatory Factor Analysis\|验证性因子分析（CFA）]]** | **理论模型拟合确证** | 检验 EFA 探索出的因子结构是否能在独立新样本中稳定复现，对比竞争模型并检验高阶二阶构念。 | 拟合优良标准：$\chi^2/df < 3.0$，**$\text{RMSEA} < 0.08$**（优选 $< 0.06$），**$\text{SRMR} < 0.08$**，**$\text{CFI} \ge 0.90$**，**$\text{TLI/NNFI} \ge 0.90$**。 | 🔗 [[Confirmatory Factor Analysis]] |
-> | **[[Average Variance Extracted\|平均方差抽取量（AVE）]]** | **收敛与区分效度判定标准** | 解决传统方法无法量化潜变量真实解释变异比例的痛点，提供 Fornell-Larcker 区分效度基准。 | 收敛标准：**$\text{AVE} \ge .50$**；区分标准：各因子 $\text{AVE}_j > r_{jk}^2$（或 $\sqrt{\text{AVE}_j} > |r_{jk}|$）。 | 🔗 [[Average Variance Extracted]] |
-> | **[[Composite Reliability\|组合信度（CR）]]** | **现代潜变量内部一致性指标** | 解决 Cronbach's $\alpha$ 强求等载荷假设导致信度系统性低估的缺陷，提供无偏合成信度估计。 | 决策阈值：**$\text{CR} \ge .70$**（探索性研究 $\ge .60$，高精度要求 $\ge .80$）。 | 🔗 [[Composite Reliability]] |
-> | **[[Measurement Invariance\|多组测量等值性（MI / MG-CFA）]]** | **跨组可比性与测量偏倚检验** | 解决量表在不同子群体（如性别、文化、年龄）中是否存在测量偏差、是否允许直接跨组比较均值的合法性问题。 | Cheung & Rensvold / Chen 准则：形态 $\to$ 弱 $\to$ 强 $\to$ 严格四阶递进，满足 **$|\Delta\text{CFI}| \le .010$** 且 **$\Delta\text{RMSEA} \le .015$**。 | 🔗 [[Measurement Invariance]] |
+> | **[[Confirmatory Factor Analysis|验证性因子分析（CFA）]]** | **理论模型拟合确证** | 检验 EFA 探索出的因子结构是否能在独立新样本中稳定复现，对比竞争模型并检验高阶二阶构念。 | 拟合优良标准：$\chi^2/df < 3.0$，**$\text{RMSEA} < 0.08$**（优选 $< 0.06$），**$\text{SRMR} < 0.08$**，**$\text{CFI} \ge 0.90$**，**$\text{TLI/NNFI} \ge 0.90$**。 | 🔗 [[Confirmatory Factor Analysis]] |
+> | **[[Average Variance Extracted|平均方差抽取量（AVE）]]** | **收敛与区分效度判定标准** | 解决传统方法无法量化潜变量真实解释变异比例的痛点，提供 Fornell-Larcker 区分效度基准。 | 收敛标准：**$\text{AVE} \ge .50$**；区分标准：各因子 $\text{AVE}_j > r_{jk}^2$（或 $\sqrt{\text{AVE}_j} > |r_{jk}|$）。 | 🔗 [[Average Variance Extracted]] |
+> | **[[Composite Reliability|组合信度（CR）]]** | **现代潜变量内部一致性指标** | 解决 Cronbach's $\alpha$ 强求等载荷假设导致信度系统性低估的缺陷，提供无偏合成信度估计。 | 决策阈值：**$\text{CR} \ge .70$**（探索性研究 $\ge .60$，高精度要求 $\ge .80$）。 | 🔗 [[Composite Reliability]] |
+> | **[[Measurement Invariance|多组测量等值性（MI / MG-CFA）]]** | **跨组可比性与测量偏倚检验** | 解决量表在不同子群体（如性别、文化、年龄）中是否存在测量偏差、是否允许直接跨组比较均值的合法性问题。 | Cheung & Rensvold / Chen 准则：形态 $\to$ 弱 $\to$ 强 $\to$ 严格四阶递进，满足 **$|\Delta\text{CFI}| \le .010$** 且 **$\Delta\text{RMSEA} \le .015$**。 | 🔗 [[Measurement Invariance]] |
 
-#### 阶段三核心建模步骤与方法学原理
+> [!proc] 阶段三核心操作规程与高级验证步骤
+> 1. **独立样本 2 施测与 CFA 拟合确证** 采集全新独立样本 2（$N \ge 250$）拟合竞争模型（单因子 vs 一阶多因子 vs 二阶高阶模型），评估 $\chi^2/df < 3$、$\text{RMSEA} < 0.08$、$\text{CFI} \ge 0.90$。
+> 2. **构念收敛效度与区分效度检验** 计算各潜变量的平均方差抽取量（$\text{AVE} \ge .50$），并验证 Fornell-Larcker 准则（$\text{AVE}_j > r_{jk}^2$）。
+> 3. **现代构念组合信度检验** 基于完全标准化解计算组合信度（$\text{CR} \ge .70$），同步报告 McDonald's $\omega$ 与折半信度。
+> 4. **跨群体多组测量等值性阶梯检验** 依次检验形态等值 $\to$ 弱等值 $\to$ 强等值 $\to$ 严格等值（$|\Delta\text{CFI}| \le .010, \Delta\text{RMSEA} \le .015$）。
 
-- **步骤 5：独立样本 2 施测与验证性因子分析测量模型（CFA）**
-  - **独立样本检验** 在全新的独立样本 2 中拟合竞争模型（单因子模型 vs 一阶多因子模型 vs 二阶高阶因子模型），彻底杜绝在单一样本上循环拟合导致的样本过拟合偏差。
-  
-  > [!formula-step] 公式步骤　验证性因子分析基本测量方程与二阶高阶方程
-  > $$\boldsymbol{X} = \boldsymbol{\Lambda}_x \boldsymbol{\xi} + \boldsymbol{\delta}, \quad \boldsymbol{\xi} = \boldsymbol{\Gamma} \boldsymbol{\Xi} + \boldsymbol{\zeta}$$
-  >
-  > **这个公式在做什么** 
-  > - **一阶方程** 将观测题项向量 $\boldsymbol{X}$ 分解为由一阶潜变量 $\boldsymbol{\xi}$ 乘以因子载荷矩阵 $\boldsymbol{\Lambda}_x$ 加上测量残差 $\boldsymbol{\delta}$；
-  > - **二阶方程** 将一阶因子向量 $\boldsymbol{\xi}$ 进一步回归到更高阶的统整潜变量 $\boldsymbol{\Xi}$ 上，由二阶载荷矩阵 $\boldsymbol{\Gamma}$ 统摄，残余变异为 $\boldsymbol{\zeta}$。
-  >
-  > **数学直觉** 二阶高阶模型检验各个一阶维度（如研究意识、态度、技能、使用）是否均隶属于一个统摄性的全局构念（如总体“研究素养”）。二阶拟合良好为研究者在实践中直接计算量表总分提供了坚实的心理测量学合法性。
-  >
-  > 🔗 完整协方差结构方程推导与模型拟合指数判定参见：[[Confirmatory Factor Analysis]]。
+> [!formula-step] 公式步骤　验证性因子分析基本测量方程与二阶高阶方程
+> $$\boldsymbol{X} = \boldsymbol{\Lambda}_x \boldsymbol{\xi} + \boldsymbol{\delta}, \quad \boldsymbol{\xi} = \boldsymbol{\Gamma} \boldsymbol{\Xi} + \boldsymbol{\zeta}$$
+>
+> **这个公式在做什么** 
+> - **一阶方程** 将观测题项向量 $\boldsymbol{X}$ 分解为由一阶潜变量 $\boldsymbol{\xi}$ 乘以因子载荷矩阵 $\boldsymbol{\Lambda}_x$ 加上测量残差 $\boldsymbol{\delta}$；
+> - **二阶方程** 将一阶因子向量 $\boldsymbol{\xi}$ 进一步回归到更高阶的统整潜变量 $\boldsymbol{\Xi}$ 上，由二阶载荷矩阵 $\boldsymbol{\Gamma}$ 统摄，残余变异为 $\boldsymbol{\zeta}$。
+>
+> **数学直觉** 二阶高阶模型检验各个一阶维度（如研究意识、态度、技能、使用）是否均隶属于一个统摄性的全局构念（如总体“研究素养”）。二阶拟合良好为研究者在实践中直接计算量表总分提供了坚实的心理测量学合法性。
 
-- **步骤 6：构念收敛效度与区分效度检验（AVE & Fornell-Larcker 准则）**
-  - **收敛效度** 计算各潜变量的平均方差抽取量（$\text{AVE} = \frac{\sum \lambda_i^2}{\sum \lambda_i^2 + \sum \theta_i}$），要求 $\text{AVE} \ge .50$，确证潜变量解释的指标方差大于测量误差。
-  - **区分效度** 应用 Fornell-Larcker 准则，检验各因子的 $\text{AVE}_j$ 是否严格大于它与其他任何因子之间的共享方差（决定系数 $r_{jk}^2$），确保不同理论维度之间具有清晰的经验隔离度。
-  - 🔗 完整数学推导与计算流程参见：[[Average Variance Extracted]]。
+> [!feature] 阶段三核心指标与判定门槛
+> - **模型拟合优良标准** $\chi^2/df < 3.0$、$\text{RMSEA} < 0.08$、$\text{SRMR} < 0.08$、$\text{CFI} \ge 0.90$、$\text{TLI} \ge 0.90$。
+> - **平均方差抽取量** $\text{AVE} \ge .50$，确证潜变量解释的指标方差大于测量误差。
+> - **Fornell-Larcker 区分准则** 各因子的 $\text{AVE}_j$ 严格大于它与其他因子间的共享方差（$r_{jk}^2$）。
+> - **现代组合信度** $\text{CR} \ge .70$，准确估计异质载荷下潜变量合成信度。
+> - **测量等值性判据** $|\Delta\text{CFI}| \le .010$ 且 $\Delta\text{RMSEA} \le .015$，确立跨组无测量偏倚。
 
-- **步骤 7：现代构念组合信度检验（Composite Reliability, CR）**
-  - **信度电池** 克服传统 Cronbach's $\alpha$ 假定等载荷的理论局限，基于完全标准化解计算组合信度（$\text{CR} = \frac{(\sum \lambda_i)^2}{(\sum \lambda_i)^2 + \sum \theta_i}$），要求 $\text{CR} \ge .70$，同步报告 McDonald's $\omega$ 与折半信度。
-  - 🔗 完整公式与 Alpha 差异对比参见：[[Composite Reliability]]。
-
-- **步骤 8：跨群体多组测量等值性阶梯检验（Measurement Invariance）**
-  - **等值阶梯** 依次检验形态等值（Configural） $\to$ 弱等值（Metric，因子载荷相等） $\to$ 强等值（Scalar，测量截距相等） $\to$ 严格等值（Strict，残差方差相等）。
-  - **决策判定** 采用 Cheung & Rensvold 与 Chen 拟合改变量标准（$|\Delta\text{CFI}| \le .010$ 且 $\Delta\text{RMSEA} \le .015$），确立工具在不同性别、文化或教龄子群体中均无测量偏倚，解锁潜变量均值比较与观测总分分析的合法性。
-  - 🔗 四阶等值模型约束条件与检验判据参见：[[Measurement Invariance]]。
+🔗 完整推导参见：[[Confirmatory Factor Analysis]]、[[Average Variance Extracted]]、[[Composite Reliability]] 与 [[Measurement Invariance]]。
 
 ---
 

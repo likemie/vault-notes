@@ -132,7 +132,7 @@ updated: 2026-08-20
 > 探讨如何将多维独立信念重新整合为发展阶段，并在不同学科之间体现出差异。
 
 > [!claim] [[Argument_Greene_2010_JEP|Greene et al. (2010)]]
-> **多维阶段融合模型与领域特殊性** Greene 等人提出整合性的[[Epistemic and Ontological Cognition|认识论与本体论认知]]（[[Epistemic and Ontological Cognition\|EOC]]）模型，认为“[[Simplicity of Knowledge|知识的简单性]]与确定性”属于[[Ontology|本体论]]层面的分类，而“辩护方式”属于认识论层面。同时，借助量化的多维度测量与[[Factor Mixture Modeling|因子混合模型]]聚类，可以识别出个体的特定信念组合档案，从而映射出其所处的发展阶段（[[Realism in International Relations|现实主义]]者、教条主义者、怀疑论者、[[Rationalism in International Relations|理性主义]]者）。研究还证实，认识论发展并非绝对领域一般性，个体在劣构领域（如历史）中的认知往往先于良构领域（如数学）发展。[[Argument_Greene_2010_JEP|(Greene et al., 2010, pp. 245-247)]]
+> **多维阶段融合模型与领域特殊性** Greene 等人提出整合性的[[Epistemic and Ontological Cognition|认识论与本体论认知]]（[[Epistemic and Ontological Cognition|EOC]]）模型，认为“[[Simplicity of Knowledge|知识的简单性]]与确定性”属于[[Ontology|本体论]]层面的分类，而“辩护方式”属于认识论层面。同时，借助量化的多维度测量与[[Factor Mixture Modeling|因子混合模型]]聚类，可以识别出个体的特定信念组合档案，从而映射出其所处的发展阶段（[[Realism in International Relations|现实主义]]者、教条主义者、怀疑论者、[[Rationalism in International Relations|理性主义]]者）。研究还证实，认识论发展并非绝对领域一般性，个体在劣构领域（如历史）中的认知往往先于良构领域（如数学）发展。[[Argument_Greene_2010_JEP|(Greene et al., 2010, pp. 245-247)]]
 
 ---
 
@@ -142,8 +142,8 @@ updated: 2026-08-20
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **独立维度假说** | 认识论假设由多个可各自独立发展、测量和预测学业成就的维度构成 | 强调量表测量与在各群体间的分布差异 | Schommer (1990) |
-> | **个人理论假说** | 认识论假设的各维度在心智中连贯互构，共同形成解释知识本质的个人理论框架 | 强调维度的整合性与底层认识论机制 | [[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] |
-> | **多维阶段融合模型** | 将认识论与本体论区分，通过因子混合模型将连续维度分数聚类回认知发展阶段 | 跨学科领域特殊性与阶段类型识别 | [[Argument_Greene_2010_JEP\|Greene et al. (2010)]] |
+> | **个人理论假说** | 认识论假设的各维度在心智中连贯互构，共同形成解释知识本质的个人理论框架 | 强调维度的整合性与底层认识论机制 | [[Argument_Hofer_1997_RER|Hofer & Pintrich (1997)]] |
+> | **多维阶段融合模型** | 将认识论与本体论区分，通过因子混合模型将连续维度分数聚类回认知发展阶段 | 跨学科领域特殊性与阶段类型识别 | [[Argument_Greene_2010_JEP|Greene et al. (2010)]] |
 
 ---
 
@@ -152,10 +152,10 @@ updated: 2026-08-20
 > [!ref-table]- 其他实证结果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与设计 | 测量工具 | 控制[[Variable\|变量]] | 核心结果 |
+> | 研究 | 样本与设计 | 测量工具 | 控制[[Variable|变量]] | 核心结果 |
 > |---|---|---|---|---|
-> | [[Argument_Trautwein_2007_CEP\|Trautwein & Lüdtke (2007)]] | 德国巴登-符腾堡州高中毕业生纵向追踪（TOSCA 项目，T1 $N = 2854$；大学追踪 T2 $N = 1094$） | 7 题全局确定性量表（4 点李克特计分，T1 $\alpha = .75$；T2 $\alpha = .73$） | 认知推理能力（KFT 4-13+R [[Item Response Theory\|IRT]] 分数）、家庭 SES（ISEI）、[[Cultural Capital\|文化资本]]（藏书量）、性别、年龄 | 确定性信念显著负向预测毕业总评成绩（$\beta = -0.15, p < .001$）；工科（$b = 0.38$）、商科（$b = 0.33$）学生在高中阶段已持有更高确定性（自我选择），大学阶段工科（$\Delta b = 0.40$）与商科（$\Delta b = 0.22$）确定性进一步上升，社科显著下降（$\Delta b = -0.26$）（社会化效应） |
-> | [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] | 447名加拿大十年级中学生（公立与独立教会学校，横截面与组内任务对比） | 52题 [[Schommer's Modified Epistemological Questionnaire\|SMEQ]]（5点李克特计分，提取 FQAL、SK、CK 三因子） | 确定知识（CK，控制学校宗教导向差异）、性别、任务顺序 | FQAL（$R^2 = .04, p < .001$）与 SK（$R^2 = .05, p < .001$）显著负向预测学生总体学业成就预估值（整体模型 $R^2 = .08$）；在学术任务中，SK 显著负向预测劣构任务总分（$R^2 = .06, p = .02$）及反思性判断得分（$R^2 = .06, p = .02$），但在良构任务中无显著预测力（$R^2 = .002, p = .69$）；女生在 FQAL 与 CK 上的信念成熟度显著高于男生 |
+> | [[Argument_Trautwein_2007_CEP|Trautwein & Lüdtke (2007)]] | 德国巴登-符腾堡州高中毕业生纵向追踪（TOSCA 项目，T1 $N = 2854$；大学追踪 T2 $N = 1094$） | 7 题全局确定性量表（4 点李克特计分，T1 $\alpha = .75$；T2 $\alpha = .73$） | 认知推理能力（KFT 4-13+R [[Item Response Theory|IRT]] 分数）、家庭 SES（ISEI）、[[Cultural Capital|文化资本]]（藏书量）、性别、年龄 | 确定性信念显著负向预测毕业总评成绩（$\beta = -0.15, p < .001$）；工科（$b = 0.38$）、商科（$b = 0.33$）学生在高中阶段已持有更高确定性（自我选择），大学阶段工科（$\Delta b = 0.40$）与商科（$\Delta b = 0.22$）确定性进一步上升，社科显著下降（$\Delta b = -0.26$）（社会化效应） |
+> | [[Argument_Lodewyk_2007_EP|Lodewyk (2007)]] | 447名加拿大十年级中学生（公立与独立教会学校，横截面与组内任务对比） | 52题 [[Schommer's Modified Epistemological Questionnaire|SMEQ]]（5点李克特计分，提取 FQAL、SK、CK 三因子） | 确定知识（CK，控制学校宗教导向差异）、性别、任务顺序 | FQAL（$R^2 = .04, p < .001$）与 SK（$R^2 = .05, p < .001$）显著负向预测学生总体学业成就预估值（整体模型 $R^2 = .08$）；在学术任务中，SK 显著负向预测劣构任务总分（$R^2 = .06, p = .02$）及反思性判断得分（$R^2 = .06, p = .02$），但在良构任务中无显著预测力（$R^2 = .002, p = .69$）；女生在 FQAL 与 CK 上的信念成熟度显著高于男生 |
 
 ---
 

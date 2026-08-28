@@ -94,7 +94,7 @@ updated: 2026-08-21
 > [!contrast-table] CMFR 证据连续体评级等级
 > | 评级等级 | 核心准入条件与方法学门槛 |
 > |:---|:---|
-> | **Effective（有效·最高级）** | 拥有 **至少 2 项在同行评审期刊发表的高质量 [[Randomised Controlled Trials\|RCT]] 或严格控制的 [[Quasi-Experimental Designs\|QED]]**；[[Study Population and Sample\|研究样本]]充分；在核心结果指标上表现出统计显著的正向因果效应；无任何有害副反应。 |
+> | **Effective（有效·最高级）** | 拥有 **至少 2 项在同行评审期刊发表的高质量 [[Randomised Controlled Trials|RCT]] 或严格控制的 [[Quasi-Experimental Designs|QED]]**；[[Study Population and Sample|研究样本]]充分；在核心结果指标上表现出统计显著的正向因果效应；无任何有害副反应。 |
 > | **Promising（有前景）** | 拥有至少 1 项同行评审发表的高质量研究，展示出统计显著的正向效果。 |
 > | **Tentative（初步探索）** | 仅有小样本或前实验数据，初步呈现积极效果。 |
 > | **Unclear / Ineffective** | 证据不足、设计存在重大偏倚风险，或经检验无显著效果/存在潜在危害。 |

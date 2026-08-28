@@ -138,10 +138,10 @@ Edovald & Nevill (2020) 总结了英国 [[Education Endowment Foundation|Educati
 > [!example] 与 [[Evidence-Based Education]] 的区别
 > | | Evidence-Based Education | Evidence-Based Reform |
 > |---|---|---|
-> | 焦点 | 教育[[Praxis\|实践]]应基于研究证据的**理念** | 推动该理念落地的**政策机制** |
+> | 焦点 | 教育[[Praxis|实践]]应基于研究证据的**理念** | 推动该理念落地的**政策机制** |
 > | 层级 | 哲学/方法论 | 政策/制度设计 |
 > | 核心问题 | "证据应在教育中扮演什么角色？" | "如何使证据真正影响教育采购和教学决策？" |
-> | 代表性学者 | [[John Hattie\|Hattie]], Marzano, Biesta（批判） | Slavin 系列文章 |
+> | 代表性学者 | [[John Hattie|Hattie]], Marzano, Biesta（批判） | Slavin 系列文章 |
 > | 与政府的关系 | 松散 | 紧密——依赖 ESSA 等法律和政府拨款 |
 >
 > 简单说：证据本位教育是**理念**，证据本位改革是实现该理念的**政策议程**。
@@ -183,8 +183,8 @@ Slavin 认为，鉴于当时教育领域经过严格评估的项目数量有限�
 >
 > | # | 条件 | 2019 年进展 |
 > |---|------|-----------|
-> | 1 | **大量经过验证的项目** — 每级每科都有达到实验标准的可选项 | [[Investing in Innovation Program\|i3]]/EIR 资助了 171+ 项目；EEF 资助了 180+ [[Randomised Controlled Trials\|RCT]]；ESSA 强/中标准已有约 100 个项目 |
-> | 2 | **可信赖的、面向教育者的证据审查** — 让校长和学区知道哪些项目有效 | [[What Works Clearinghouse\|WWC]], [[Best Evidence Encyclopedia\|BEE]], Evidence for ESSA（70,000+ 月活用户） |
+> | 1 | **大量经过验证的项目** — 每级每科都有达到实验标准的可选项 | [[Investing in Innovation Program|i3]]/EIR 资助了 171+ 项目；EEF 资助了 180+ [[Randomised Controlled Trials|RCT]]；ESSA 强/中标准已有约 100 个项目 |
+> | 2 | **可信赖的、面向教育者的证据审查** — 让校长和学区知道哪些项目有效 | [[What Works Clearinghouse|WWC]], [[Best Evidence Encyclopedia|BEE]], Evidence for ESSA（70,000+ 月活用户） |
 > | 3 | **政府政策提供激励** — 拨款、竞争偏好点或授权 | ESSA 2015 将联邦学校改进基金与使用已验证项目绑定；若干州进一步扩展 |
 
 ### 实践者需要的第四类信息：本地可用性
@@ -214,10 +214,10 @@ ESSA (2015) 定义了四层证据标准，用于判定教育项目是否值得�
 
 | 等级 | 要求 |
 |------|------|
-| **强（Strong）** | 至少 1 项设计良好且实施良好的**[[Experimental Research\|实验研究]]**（随机分配） |
-| **中（Moderate）** | 至少 1 项设计良好且实施良好的**准实验研究（[[Matching\|匹配]]样本）** |
-| **有希望（Promising）** | 至少 1 项设计良好且实施良好的**[[Observational and Correlational Research\|相关研究]]**（统计控制选择偏差） |
-| **基于原理（Demonstrates a rationale）** | 具有清晰[[Logic Model\|逻辑模型]]，并得到高质量研究或正向评价支持 |
+| **强（Strong）** | 至少 1 项设计良好且实施良好的**[[Experimental Research|实验研究]]**（随机分配） |
+| **中（Moderate）** | 至少 1 项设计良好且实施良好的**准实验研究（[[Matching|匹配]]样本）** |
+| **有希望（Promising）** | 至少 1 项设计良好且实施良好的**[[Observational and Correlational Research|相关研究]]**（统计控制选择偏差） |
+| **基于原理（Demonstrates a rationale）** | 具有清晰[[Logic Model|逻辑模型]]，并得到高质量研究或正向评价支持 |
 
 前三个层级通常要求统计显著正向结果，并要求测量工具、[[Sample Size Determination|样本量]]、持续时间和分析方法足以支持因果或相关推断；第四层的门槛较低，重点是逻辑模型和可持续评价，而不是已经证明的成就效果([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.109]])。
 

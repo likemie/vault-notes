@@ -142,4 +142,4 @@ updated: 2026-07-13
 > | [[Schmittian Sovereignty]] | 概念 | 国安法实施展现的例外状态主权逻辑在香港的落地。 |
 > | [[National Education]] | 政策/事实 | 国安法为强制推行国民教育提供了法定框架。 |
 > | [[Liberal Studies]] | 政策/事实 | 被国安法直接推动并废除的高中核心科目。 |
-> | [[Citizenship and Social Development]] | 政策/事实 | 取代[[General Education\|通识教育]]科并强制推行的新课程。 |
+> | [[Citizenship and Social Development]] | 政策/事实 | 取代[[General Education|通识教育]]科并强制推行的新课程。 |

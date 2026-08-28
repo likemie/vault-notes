@@ -68,6 +68,6 @@ DCSF 于 2010 年改组为教育部（Department for Education，DfE），原网
 > [!ref-table] 关联索引
 > | 条目 | 关系 |
 > |---|---|
-> | [[Evidence-Based Education]] | 研究知情[[Praxis\|实践]]网站是循证教育的制度基础设施之一 |
+> | [[Evidence-Based Education]] | 研究知情[[Praxis|实践]]网站是循证教育的制度基础设施之一 |
 > | [[EPPI-Centre]] | 同为英国循证教育的制度组成部分 |
-> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|Cohen et al. (2011, Ch17)]] | 第17章系统介绍该网站在循证教育制度网络中的角色与功能 |
+> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al. (2011, Ch17)]] | 第17章系统介绍该网站在循证教育制度网络中的角色与功能 |

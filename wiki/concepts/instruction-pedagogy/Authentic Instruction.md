@@ -81,10 +81,10 @@ updated: 2026-08-25
 ## 概念辨析
 
 > [!contrast-table] 真实性教学与相近教学模式辨析
-> | 维度 | 真实性教学（Authentic Instruction） | [[Problem-Based Learning\|问题本位学习（PBL）]] | 传统讲授式教学 |
+> | 维度 | 真实性教学（Authentic Instruction） | [[Problem-Based Learning|问题本位学习（PBL）]] | 传统讲授式教学 |
 > |---|---|---|---|
 > | **问题性质** | 真实生活情境、模拟演练、伦理困境或应用型案例 | 跨学科复杂劣构问题，作为整门课程的组织核心 | 预先分解的良构知识点与练习题 |
-> | **认知过程** | 在情境中识别矛盾、权衡证据、形成判断并检验方案 | 自主探究、小组协作、[[Hypothesis\|假设]]生成与方案构建 | 概念识记、例题模仿、演绎应用 |
+> | **认知过程** | 在情境中识别矛盾、权衡证据、形成判断并检验方案 | 自主探究、小组协作、[[Hypothesis|假设]]生成与方案构建 | 概念识记、例题模仿、演绎应用 |
 > | **知识定位** | 解决真实问题的思想工具与行动资源 | 驱动问题解决的生成性理解 | 独立于情境的静态真理与符号系统 |
 
 ---
@@ -102,12 +102,12 @@ updated: 2026-08-25
 > [!ref-table]- 真实性教学具体子策略与实证索引表
 > <span class="concept-authentic-strategy-table-marker" aria-hidden="true"></span>
 >
-> | 策略编码与名称 | 核心机制与操作特征 | 证据规模 $k$ | 效应量 $g+$ (95% CI) | 关联条目 / 代表[[Document\|文献]] |
+> | 策略编码与名称 | 核心机制与操作特征 | 证据规模 $k$ | 效应量 $g+$ (95% CI) | 关联条目 / 代表[[Document|文献]] |
 > |---|---|---|---|---|
-> | **3.2 [[Role-playing\|角色扮演教学法]]**<br>（Role-playing） | 代入不同利益方视角，经历价值冲突与证据协商 | $k = 5$ | $0.61$ $[0.24, 0.98]$ | [[Role-playing]] |
-> | **3.1 应用型问题解决**<br>（Applied problem solving） | 面对现实应用问题收集数据并论证方案 | $k = 31$ | $0.35$ $[0.20, 0.49]$ | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] |
-> | **3.3 [[Simulation-Based Learning\|模拟教学法]]**<br>（Simulations） | 在仿真受控环境中操纵变量、决策并即时复盘 | $k = 23$ | $0.26$ $[0.09, 0.43]$ | [[Simulation-Based Learning]] |
-> | **3.4 两难困境分析**<br>（Dilemmas） | 权衡伦理道德与相互冲突的政策准则 | $k = 3$ | $0.11$ $[-0.37, 0.58]$ | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] |
+> | **3.2 [[Role-playing|角色扮演教学法]]**<br>（Role-playing） | 代入不同利益方视角，经历价值冲突与证据协商 | $k = 5$ | $0.61$ $[0.24, 0.98]$ | [[Role-playing]] |
+> | **3.1 应用型问题解决**<br>（Applied problem solving） | 面对现实应用问题收集数据并论证方案 | $k = 31$ | $0.35$ $[0.20, 0.49]$ | [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] |
+> | **3.3 [[Simulation-Based Learning|模拟教学法]]**<br>（Simulations） | 在仿真受控环境中操纵变量、决策并即时复盘 | $k = 23$ | $0.26$ $[0.09, 0.43]$ | [[Simulation-Based Learning]] |
+> | **3.4 两难困境分析**<br>（Dilemmas） | 权衡伦理道德与相互冲突的政策准则 | $k = 3$ | $0.11$ $[-0.37, 0.58]$ | [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] |
 > | **宏观情境抛锚范式**<br>（Anchored Instruction） | 基于嵌入式数据的多媒体故事开展连锁推理 | 经典范例 | — | [[Anchored Instruction]] |
 
 ---
@@ -166,18 +166,18 @@ updated: 2026-08-25
 > [!ma-table]- 一阶[[Meta-analysis|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
+> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity|异质性]]与[[Prediction Interval|预测区间]] | 关键解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 干预因素：真实性教学对通用[[Critical Thinking\|批判性思维]]技能的促进效应 | $k = 96$（实验组高于对照组） / $N = —$ | Hedges' $g+$ / 随机效应模型 | $g+ = 0.34$ $[0.24, 0.44]$ | $Q_b(1) = 4.07, p = .044$（对比无差异组 $g+=0.22, k=118$） | 纳入真实验与高质准实验，采用标准化批判性思维测试作为结果测量 |
+> | [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] | 干预因素：真实性教学对通用[[Critical Thinking|批判性思维]]技能的促进效应 | $k = 96$（实验组高于对照组） / $N = —$ | Hedges' $g+$ / 随机效应模型 | $g+ = 0.34$ $[0.24, 0.44]$ | $Q_b(1) = 4.07, p = .044$（对比无差异组 $g+=0.22, k=118$） | 纳入真实验与高质准实验，采用标准化批判性思维测试作为结果测量 |
 
 > [!ma-table]- 一阶元分析互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
 >
 > | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 干预因素 | 具体教学子策略：[[Role-playing\|角色扮演]] vs 应用型问题解决 vs [[Simulation-Based Learning\|情境模拟]] vs 两难困境分析 | 角色扮演 $k = 5$；应用解题 $k = 31$；情境模拟 $k = 23$；两难困境 $k = 3$ | 角色扮演 $g+ = 0.61$ $[0.24, 0.98]$；应用解题 $g+ = 0.35$ $[0.20, 0.49]$；情境模拟 $g+ = 0.26$ $[0.09, 0.43]$；两难困境 $g+ = 0.11$ $[-0.37, 0.58]$ | [[Role-playing\|角色扮演]]、应用解题与情境模拟均显著大于 0 | 角色扮演能够强力驱动换位思考与多重证据权衡，[[Effect Size\|效应量]]最高 |
-> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 干预因素 | 策略组合梯度：真实性教学（A）vs 真实性+[[Dialogue in Education\|对话]]（A+D）vs 真实性+对话+导师指导（A+D+M） | A 单独 $k = 22$；A+D $k = 45$；A+D+M $k = 19$ | A $g+ = 0.25$ $[0.05, 0.46]$；A+D $g+ = 0.32$ $[0.17, 0.47]$；A+D+M $g+ = 0.57$ $[0.38, 0.77]$ | $Q_b(3) = 8.19, \text{df} = 3, p = .04$；A+D+M 对比 A+D $z = 1.98, p = .024$ | 三维组合展现最强协同增益 |
-> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 干预因素 | 思维倾向培养：真实性教学干预对[[Critical Thinking Disposition\|批判性思维倾向]]的促进效应 | $k = 8$ | $g+ = 0.29$ | 显著大于 0 | 解决真实劣构问题有助于激发探究动机与审慎求真的思维倾向 |
+> | [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] | 干预因素 | 具体教学子策略：[[Role-playing|角色扮演]] vs 应用型问题解决 vs [[Simulation-Based Learning|情境模拟]] vs 两难困境分析 | 角色扮演 $k = 5$；应用解题 $k = 31$；情境模拟 $k = 23$；两难困境 $k = 3$ | 角色扮演 $g+ = 0.61$ $[0.24, 0.98]$；应用解题 $g+ = 0.35$ $[0.20, 0.49]$；情境模拟 $g+ = 0.26$ $[0.09, 0.43]$；两难困境 $g+ = 0.11$ $[-0.37, 0.58]$ | [[Role-playing|角色扮演]]、应用解题与情境模拟均显著大于 0 | 角色扮演能够强力驱动换位思考与多重证据权衡，[[Effect Size|效应量]]最高 |
+> | [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] | 干预因素 | 策略组合梯度：真实性教学（A）vs 真实性+[[Dialogue in Education|对话]]（A+D）vs 真实性+对话+导师指导（A+D+M） | A 单独 $k = 22$；A+D $k = 45$；A+D+M $k = 19$ | A $g+ = 0.25$ $[0.05, 0.46]$；A+D $g+ = 0.32$ $[0.17, 0.47]$；A+D+M $g+ = 0.57$ $[0.38, 0.77]$ | $Q_b(3) = 8.19, \text{df} = 3, p = .04$；A+D+M 对比 A+D $z = 1.98, p = .024$ | 三维组合展现最强协同增益 |
+> | [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] | 干预因素 | 思维倾向培养：真实性教学干预对[[Critical Thinking Disposition|批判性思维倾向]]的促进效应 | $k = 8$ | $g+ = 0.29$ | 显著大于 0 | 解决真实劣构问题有助于激发探究动机与审慎求真的思维倾向 |
 
 ---
 

@@ -109,7 +109,7 @@ updated: 2026-06-24
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Documentary Analysis]] | 并列方法 | [[Archival Correspondence Analysis\|档案研究]]侧重材料的发现和获取；[[Document\|文献]]分析侧重材料的评估和解释。二者在实际研究中高度互补。 |
+> | [[Documentary Analysis]] | 并列方法 | [[Archival Correspondence Analysis|档案研究]]侧重材料的发现和获取；[[Document|文献]]分析侧重材料的评估和解释。二者在实际研究中高度互补。 |
 > | [[Archival Correspondence Analysis]] | 相关方法 | 一种聚焦于档案信件中通信关系分析的特定档案研究方法。 |
 
 ---

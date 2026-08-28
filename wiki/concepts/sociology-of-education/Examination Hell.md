@@ -66,7 +66,7 @@ updated: 2026-08-20
 ## 概念辨析
 
 > [!contrast-table] 概念辨析：考试地狱与相关选拔[[Paradigm|范式]]的对比
-> | 维度 | 考试地狱 (Examination Hell) | [[Civil Service Examination\|科举制]] (Imperial Exam) | 西方综合评估 (Holistic Review) |
+> | 维度 | 考试地狱 (Examination Hell) | [[Civil Service Examination|科举制]] (Imperial Exam) | 西方综合评估 (Holistic Review) |
 > | :--- | :--- | :--- | :--- |
 > | **核心基础** | 现代学校制度下的高风险纸笔考分竞争。 | 古代官僚选拔中的经典文本默写与策论。 | 结合学术、课外活动、推荐信的多元评估。 |
 > | **社会公平机制** | 通过**去人性化**的纯粹考分排除关系干扰。 | 通过糊名、易书等国家行政机制维护公正。 | 依赖评估人员的专业主观判断。 |

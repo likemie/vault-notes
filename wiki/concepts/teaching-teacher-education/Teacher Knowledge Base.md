@@ -144,8 +144,8 @@ updated: 2026-08-26
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **异质知识动态整合** | 教师知识库是多元资源的复合体，[[Research Utilization\|研究使用]]本质是多源知识整合 | 课堂教学设计、校本课程开发、循证教学调适 | Shulman (1987); Grimen (2008); [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] |
-> | **专业伦理价值中介** | 专业规范与育人伦理作为过滤器，调节外部证据的适用边界 | 教学改革推行、价值冲突情境、教育公平权衡 | Eriksen (2022); Hermansen & Mausethagen (2023); [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] |
+> | **异质知识动态整合** | 教师知识库是多元资源的复合体，[[Research Utilization|研究使用]]本质是多源知识整合 | 课堂教学设计、校本课程开发、循证教学调适 | Shulman (1987); Grimen (2008); [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]] |
+> | **专业伦理价值中介** | 专业规范与育人伦理作为过滤器，调节外部证据的适用边界 | 教学改革推行、价值冲突情境、教育公平权衡 | Eriksen (2022); Hermansen & Mausethagen (2023); [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]] |
 
 ---
 
@@ -164,9 +164,9 @@ updated: 2026-08-26
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] | 34 篇关于教育中[[Research Utilization\|研究使用]]的同行评议学术[[Document\|文献]]（1996–2024 年） | [[Critical Review\|批判性综述]]＋系统检索 | 既有实证对微观知识整合过程的关注度 | 24 项实证研究中，仅 3 项（12.5%）包含微观课堂决策观察，其余均将知识使用简化为[[Questionnaire\|问卷]]打分 | — | 凸显既有实证研究严重缺乏对教师知识库在微观实践中动态整合过程的质性[[Rich and Thick Description\|深描]] |
+> | [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]] | 34 篇关于教育中[[Research Utilization|研究使用]]的同行评议学术[[Document|文献]]（1996–2024 年） | [[Critical Review|批判性综述]]＋系统检索 | 既有实证对微观知识整合过程的关注度 | 24 项实证研究中，仅 3 项（12.5%）包含微观课堂决策观察，其余均将知识使用简化为[[Questionnaire|问卷]]打分 | — | 凸显既有实证研究严重缺乏对教师知识库在微观实践中动态整合过程的质性[[Rich and Thick Description|深描]] |
 
 ---
 

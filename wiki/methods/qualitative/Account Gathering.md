@@ -83,8 +83,8 @@ updated: 2026-07-23
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Accounts]] | 父方法 | 陈述收集是实现陈述法的具体操作框架 |
-> | [[Ethogenic Approach]] | 方法论基础 | 人因取向是陈述收集的[[Epistemology\|认识论]]和理论前提 |
-> | [[Experience-Sampling Method]] | 姐妹方法 | [[Experience Sampling Method\|经验取样法]]提供了另一种引发陈述的质性技术，更偏向非结构化 |
+> | [[Ethogenic Approach]] | 方法论基础 | 人因取向是陈述收集的[[Epistemology|认识论]]和理论前提 |
+> | [[Experience-Sampling Method]] | 姐妹方法 | [[Experience Sampling Method|经验取样法]]提供了另一种引发陈述的质性技术，更偏向非结构化 |
 > | [[Cross-checking]] | 验证方法 | 交叉佐证是陈述后验证的关键控制程序 |
 
 ## 使用此方法的研究

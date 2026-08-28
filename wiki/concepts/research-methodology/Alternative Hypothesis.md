@@ -64,10 +64,10 @@ updated: 2026-06-21
 ## 概念辨析
 
 > [!contrast-table] 备择[[Hypothesis|假设]] vs [[Null Hypothesis|零假设]]
-> | 维度 | 备择假设（H₁） | [[Null Hypothesis\|零假设]]（H₀） |
+> | 维度 | 备择假设（H₁） | [[Null Hypothesis|零假设]]（H₀） |
 > |---|---|---|
-> | 核心陈述 | [[Variable\|变量]]间**存在**关系，或组间**存在**显著差异 | 变量间**没有**关系，或组间**没有**显著差异 |
-> | 典型场景 | 动机与表现之间存在相关；前测与后测之间存在差异（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|Cohen et al., 2011, Ch.7, p.140]]） | 男性和女性在科学成绩上无差异；参与者在前[[Pre-test and Post-test\|后测]]中无变化（p.140） |
+> | 核心陈述 | [[Variable|变量]]间**存在**关系，或组间**存在**显著差异 | 变量间**没有**关系，或组间**没有**显著差异 |
+> | 典型场景 | 动机与表现之间存在相关；前测与后测之间存在差异（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, p.140]]） | 男性和女性在科学成绩上无差异；参与者在前[[Pre-test and Post-test|后测]]中无变化（p.140） |
 > | 逻辑角色 | 研究者真正想支持的主张 | 被尝试拒绝的稻草人 |
 > | 书写形式 | `H₁: ...` | `H₀: ...` |
 

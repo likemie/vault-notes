@@ -76,9 +76,9 @@ updated: 2026-08-20
 > [!entry-map]
 > | 类型 | 条目 | 贡献 |
 > |:-----|:-----|:-----|
-> | 概念 | [[Epoché\|悬置]] | 提出将日常生活和科学中对“客观世界”的先入之见放入括号，从而直面事物本身的显现。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011, Ch. 1]] |
-> | 理论 | [[Phenomenology\|现象学]] | 创立了现象学哲学体系，用以抗衡实证主义和客观主义，将主观意识意向性置于真理的核心。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 2–3]] |
-> | 课程 | [[Phenomenon-Based Learning\|现象本位学习]] | 其“生活世界”和“现象”概念被芬兰跨学科课程模型吸收，作为引导学生重建世界观的课程地基。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 1, 7]] |
+> | 概念 | [[Epoché|悬置]] | 提出将日常生活和科学中对“客观世界”的先入之见放入括号，从而直面事物本身的显现。[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, Ch. 1]] |
+> | 理论 | [[Phenomenology|现象学]] | 创立了现象学哲学体系，用以抗衡实证主义和客观主义，将主观意识意向性置于真理的核心。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 2–3]] |
+> | 课程 | [[Phenomenon-Based Learning|现象本位学习]] | 其“生活世界”和“现象”概念被芬兰跨学科课程模型吸收，作为引导学生重建世界观的课程地基。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 1, 7]] |
 
 ---
 

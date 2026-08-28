@@ -147,7 +147,7 @@ updated: 2026-08-20
 | **研究（Research）** | 方法、技能、管理（项目管理、学术诚信、伦理、经费管理） |
 | **沟通（Communication）** | 沟通原则、媒介、语言技能、发表、教学与指导、公众参与及政策与企业 |
 | **人际技能（Interpersonal skills）** | 协作与团队合作、领导力 |
-| **高阶思维技能（Higher order thinking）** | [[Critical Thinking\|批判性思维]]、问题解决、认知能力、创新、创造力与好奇心 |
+| **高阶思维技能（Higher order thinking）** | [[Critical Thinking|批判性思维]]、问题解决、认知能力、创新、创造力与好奇心 |
 | **个人资源fulness（Personal resourcefulness）** | 个人品质、自我管理、**职业管理**（含网络建立）、学术声誉 |
 | **全球公民（Global citizenship）** | 倡导、社会正义取向、数字素养、文化素养、社会沟通素养、环境素养 |
 

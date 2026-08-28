@@ -59,12 +59,12 @@ updated: 2026-08-25
 ## 概念辨析
 
 > [!contrast-table] 抛锚式教学与传统例题教学及 [[Problem-Based Learning|PBL]] 辨析
-> | 维度 | 抛锚式教学（Anchored Instruction） | 传统例题示范（Worked Examples） | [[Problem-Based Learning\|问题本位学习（PBL）]] |
+> | 维度 | 抛锚式教学（Anchored Instruction） | 传统例题示范（Worked Examples） | [[Problem-Based Learning|问题本位学习（PBL）]] |
 > |---|---|---|---|
 > | **情境载体** | 叙事性、多媒体宏观情境故事（“锚”） | 孤立、抽象的良构文字题 | 开放、跨学科的现实生活/专业劣构问题 |
 > | **数据呈现** | 隐蔽嵌入故事中，需自主筛选与提取 | 题目直接给出全部已知条件 | 学生需自主通过多元外部渠道检索信息 |
 > | **问题生成** | 学生自主识别并生成一系列关联子问题 | 题目预先指定求解目标 | 学生团队自主界定学习议题 |
-> | **核心目标** | 克服惰性知识、培养多步因果探究 | 掌握标准化解题算法与套路 | 发展[[Learner Autonomy\|自主学习]]、协作与综合解题能力 |
+> | **核心目标** | 克服惰性知识、培养多步因果探究 | 掌握标准化解题算法与套路 | 发展[[Learner Autonomy|自主学习]]、协作与综合解题能力 |
 
 ---
 
@@ -97,7 +97,7 @@ updated: 2026-08-25
 >
 > | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 关键解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 范例所属大类：[[Authentic Instruction\|真实性教学]]对[[Critical Thinking\|批判性思维]]的干预效应 | 真实性教学整体干预维度 | $k = 96$ | $g+ = 0.34$ $[0.24, 0.44]$ | $Q_b(1) = 4.07, p = .044$ | 纳入真实验与准实验；证实情境锚定与应用解题对[[Higher-Order Thinking Skills\|高阶思维]]的显著赋能 |
+> | [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] | 范例所属大类：[[Authentic Instruction|真实性教学]]对[[Critical Thinking|批判性思维]]的干预效应 | 真实性教学整体干预维度 | $k = 96$ | $g+ = 0.34$ $[0.24, 0.44]$ | $Q_b(1) = 4.07, p = .044$ | 纳入真实验与准实验；证实情境锚定与应用解题对[[Higher-Order Thinking Skills|高阶思维]]的显著赋能 |
 
 ---
 

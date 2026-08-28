@@ -149,11 +149,16 @@ updated: 2026-08-24
 > [!textbook-overview] 章节叙事表
 > | 章节 | 内容概要 | 主要关联条目 |
 > |---|---|---|
-> | [[Argument_Peterson_1987_OpenCourt_Ch01\|第1章 大西洋学院的创办]] | 追踪和平教育理念怎样经由领导、场地、资金、共同生活与服务课程成为学校制度，并说明英国国家资格为何无法解决国际课程与跨国升学问题。 | [[Kurt Hahn\|库尔特·哈恩（Kurt Hahn）]]、[[Desmond Hoare\|德斯蒙德·霍尔（Desmond Hoare）]]、[[Atlantic College Curriculum 1962]]、[[European Convention on the Equivalence of Diplomas Leading to Admission to Universities 1953]]、[[Founding of Atlantic College]] |
-> | [[Argument_Peterson_1987_OpenCourt_Ch02\|第2章 国际文凭的创立]] | 说明实际需求、教师动员、独立组织、连续资金、改革型课程、试验学校和有限大学承认怎样共同构成国际资格。 | [[International Schools Examination Syndicate]]、[[1967 Sevres International Conference on the IB]]、[[Founding of the International Baccalaureate]]、[[Action Research]] |
-> | [[Argument_Peterson_1987_OpenCourt_Ch03\|第3章 从教育目标到课程与考试]] | 追踪 IB 如何在三种[[General Education\|通识教育]]传统的张力中形成六学科与核心组件，并以效度、可靠性和评估反拨之间的权衡设计综合评价。 | [[Paradigmatic Learning]]、[[Extended Essay]]、[[Creativity, Action, Service]]、[[Theory of Knowledge]]、[[Assessment Backwash]] |
-> | [[Argument_Peterson_1987_OpenCourt_Ch04\|第4章 国际文凭六年试验]] | 说明考试实施、大学承认、学校扩展、语言折中、业务分权和资金组合如何相互强化，使改革项目成为常设国际资格组织。 | [[International Baccalaureate Six-Year Experiment]]、[[International Qualification Recognition]]、[[Action Research]]、[[Criterion-Referenced Test]] |
-> | [[Argument_Peterson_1987_OpenCourt_Ch05\|第5章 蒙巴顿与联合世界书院扩展]] | 追踪国际理事会、国际办公室、国家委员会和自治书院如何形成网络，并比较政府全奖书院、城市国际学校、关联学校与村落型书院。 | [[United World Colleges]]、[[Louis Mountbatten]]、[[International Education]]、[[International Baccalaureate]] |
+> | [[Argument_Peterson_1987_OpenCourt_Ch01 | 第1章 大西洋学院的创办]] | 追踪和平教育理念怎样经由领导、场地、资金、共同生活与服务课程成为学校制度，并说明英国国家资格为何无法解决国际课程与跨国升学问题。 |
+> | [[Argument_Peterson_1987_OpenCourt_Ch02 | 第2章 国际文凭的创立]] | 说明实际需求、教师动员、独立组织、连续资金、改革型课程、试验学校和有限大学承认怎样共同构成国际资格。 |
+> | [[Argument_Peterson_1987_OpenCourt_Ch03 | 第3章 从教育目标到课程与考试]] | 追踪 IB 如何在三种[[General Education |
+> | [[Argument_Peterson_1987_OpenCourt_Ch04 | 第4章 国际文凭六年试验]] | 说明考试实施、大学承认、学校扩展、语言折中、业务分权和资金组合如何相互强化，使改革项目成为常设国际资格组织。 |
+> | [[Argument_Peterson_1987_OpenCourt_Ch05 | 第5章 蒙巴顿与联合世界书院扩展]] | 追踪国际理事会、国际办公室、国家委员会和自治书院如何形成网络，并比较政府全奖书院、城市国际学校、关联学校与村落型书院。 |
+> | [[Argument_Peterson_1987_OpenCourt_Ch01\|第1章]] | | |
+> | [[Argument_Peterson_1987_OpenCourt_Ch02\|第2章]] | | |
+> | [[Argument_Peterson_1987_OpenCourt_Ch03\|第3章]] | | |
+> | [[Argument_Peterson_1987_OpenCourt_Ch04\|第4章]] | | |
+> | [[Argument_Peterson_1987_OpenCourt_Ch05\|第5章]] | | |
 
 ## 跨章综合
 

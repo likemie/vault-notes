@@ -62,9 +62,9 @@ updated: 2026-05-31
 >
 > | 类型 | 询问的内容 |
 > |---|---|
-> | [[Quantitative Research\|量化研究]]问题／假设 | [[Variable\|变量]]间的关系、群体间比较 |
-> | 质性[[Research Question\|研究问题]] | [[Central Phenomenon\|核心现象]]的意义、参与者的体验 |
-> | 混合方法研究问题 | 从[[Integration in Mixed Methods\|整合]]两类数据中获得的洞见——这是一个关于方法的问题，而非关于研究内容的问题 |
+> | [[Quantitative Research|量化研究]]问题／假设 | [[Variable|变量]]间的关系、群体间比较 |
+> | 质性[[Research Question|研究问题]] | [[Central Phenomenon|核心现象]]的意义、参与者的体验 |
+> | 混合方法研究问题 | 从[[Integration in Mixed Methods|整合]]两类数据中获得的洞见——这是一个关于方法的问题，而非关于研究内容的问题 |
 >
 > 典型的研究问题关注[[Research Topic|研究主题]]的内容，而非方法。混合方法研究问题之所以不同，是因为它询问的是整合（integration）带来的学习。整合是混合方法研究的核心组件（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）。
 

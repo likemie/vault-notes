@@ -69,8 +69,8 @@ updated: 2026-08-27
 >
 > | 维度 | 题项数 | 测量内容 | 计分方式 |
 > |---|---|---|---|
-> | **评估与利用信息（Evaluating Information）** | 4 题 | 识别有缺陷的因果断言、评估证据来源的可[[Reliability\|信度]]并识别隐含前提。 | 量规阶梯打分（0–2/3 分） |
-> | **[[Creativity\|创造性]]问题解决（Creative Problem Solving）** | 4 题 | 生成创新替代解决方案、整合多源信息并克服常规思维定势。 | 量规阶梯打分（0–3/4 分） |
+> | **评估与利用信息（Evaluating Information）** | 4 题 | 识别有缺陷的因果断言、评估证据来源的可[[Reliability|信度]]并识别隐含前提。 | 量规阶梯打分（0–2/3 分） |
+> | **[[Creativity|创造性]]问题解决（Creative Problem Solving）** | 4 题 | 生成创新替代解决方案、整合多源信息并克服常规思维定势。 | 量规阶梯打分（0–3/4 分） |
 > | **从新信息中学习与推理（Learning and Problem Solving）** | 4 题 | 将新证据与先验知识结合、调整初步结论并推导合逻辑推论。 | 量规阶梯打分（0–2/3 分） |
 > | **有效沟通（Communication）** | 3 题 | 清晰阐述复杂论证理由、解释分析路径并撰写结构严谨的论据摘要。 | 量规阶梯打分（0–2 分） |
 
@@ -92,7 +92,7 @@ updated: 2026-08-27
 >
 > | 研究 | 工具版本 | 样本与用途 | 测量属性 | 关键结果 |
 > |---|---|---|---|---|
-> | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] | [[Consensual Assessment Technique\|CAT]] 标准版 | [[OECD]] 报告综述分析，作为将[[Creativity\|创造性思维]]显性内嵌于[[Critical Thinking Assessment\|批判性思维评估]]中的创新测评典范 | 跨学科表现性测试 | 证实 CAT 巧妙打破了批判与创造的二元割裂，依托高校任课教师参与评分的机制有效驱动了校内教学改进 |
+> | [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] | [[Consensual Assessment Technique|CAT]] 标准版 | [[OECD]] 报告综述分析，作为将[[Creativity|创造性思维]]显性内嵌于[[Critical Thinking Assessment|批判性思维评估]]中的创新测评典范 | 跨学科表现性测试 | 证实 CAT 巧妙打破了批判与创造的二元割裂，依托高校任课教师参与评分的机制有效驱动了校内教学改进 |
 
 ---
 
@@ -103,4 +103,4 @@ updated: 2026-08-27
 >
 > | 版本 | 语言与地区 | 目标人群 | 题项数 | 主要变化 | 来源 |
 > |---|---|---|---|---|---|
-> | [[Consensual Assessment Technique\|CAT]] 原始版 | 英语（全美数百所高校） | 本科生各年级 | 15 题 | 确立 15 项核心技能与高校教师集体评分校准模式 | Stein et al. (2007, 2010) |
+> | [[Consensual Assessment Technique|CAT]] 原始版 | 英语（全美数百所高校） | 本科生各年级 | 15 题 | 确立 15 项核心技能与高校教师集体评分校准模式 | Stein et al. (2007, 2010) |

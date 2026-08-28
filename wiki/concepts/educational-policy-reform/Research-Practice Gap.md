@@ -109,8 +109,8 @@ updated: 2026-08-26
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **结构性归因** | 鸿沟源于研究者与实践者之间的结构脱节 | 解释研究为何难以进入课堂 | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] |
-> | **关系性弥合** | 弥合需要互惠关系、伙伴关系与开放对话 | 设计学校改进与[[Knowledge Mobilisation\|知识动员]] | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] |
+> | **结构性归因** | 鸿沟源于研究者与实践者之间的结构脱节 | 解释研究为何难以进入课堂 | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] |
+> | **关系性弥合** | 弥合需要互惠关系、伙伴关系与开放对话 | 设计学校改进与[[Knowledge Mobilisation|知识动员]] | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] |
 
 ---
 
@@ -128,9 +128,9 @@ updated: 2026-08-26
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] | 109 项学校[[Research Utilization\|研究使用]]实证研究 | [[Systematic Review\|系统综述]]＋[[Framework Synthesis\|框架综合]] | 研究-实践鸿沟被报告的频次 | 作为系统层面障碍出现于 k = 13 项研究；关系机制中被视为最清晰的跨层表现 | — | 综述层面的描述性统计，反映[[Document\|文献]]报道频次而非鸿沟本身的发生率 |
+> | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] | 109 项学校[[Research Utilization|研究使用]]实证研究 | [[Systematic Review|系统综述]]＋[[Framework Synthesis|框架综合]] | 研究-实践鸿沟被报告的频次 | 作为系统层面障碍出现于 k = 13 项研究；关系机制中被视为最清晰的跨层表现 | — | 综述层面的描述性统计，反映[[Document|文献]]报道频次而非鸿沟本身的发生率 |
 
 ---
 

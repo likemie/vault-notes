@@ -98,9 +98,9 @@ Ezzy（2002, pp. 74–75）在其失业研究中给出了另一个示例：初�
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Analytic Induction\|分析归纳法]] | 概念 | 理论抽样的延伸（Znaniecki, 1934）。从理论出发，有意寻找偏差或否证案例，通过 Popper 式证伪检验增强最终理论的稳健性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, pp. 423–424)]] |
-> | [[Saturation\|理论饱和]] | 概念 | 理论抽样的终点标准（Glaser & Strauss, 1967, p. 61）：额外数据不再推进、修正、精炼或导致理论调整时达到。需谨慎避免过早终止数据收集，进一步抽样可能重组理论。 |
-> | [[Grounded Theory\|扎根理论]] | 方法 | 理论抽样是扎根理论的核心抽样机制——两者互为前提：扎根理论从数据中涌现，理论抽样随理论涌现调整下一步数据收集方向。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, pp. 421–423)]] |
+> | [[Analytic Induction|分析归纳法]] | 概念 | 理论抽样的延伸（Znaniecki, 1934）。从理论出发，有意寻找偏差或否证案例，通过 Popper 式证伪检验增强最终理论的稳健性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 423–424)]] |
+> | [[Saturation|理论饱和]] | 概念 | 理论抽样的终点标准（Glaser & Strauss, 1967, p. 61）：额外数据不再推进、修正、精炼或导致理论调整时达到。需谨慎避免过早终止数据收集，进一步抽样可能重组理论。 |
+> | [[Grounded Theory|扎根理论]] | 方法 | 理论抽样是扎根理论的核心抽样机制——两者互为前提：扎根理论从数据中涌现，理论抽样随理论涌现调整下一步数据收集方向。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 421–423)]] |
 
 ---
 

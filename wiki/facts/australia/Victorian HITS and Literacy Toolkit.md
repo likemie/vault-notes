@@ -106,9 +106,9 @@ citation_aliases: []
 > [!actor-grid] 维州政策争议的多元透镜
 > | 利益相关方 | 核心立场与利益诉求 |
 > | :--- | :--- |
-> | **教育部技术官僚** | 宣称 HITS 是“卓越教与学”的法宝，通过引入[[John Hattie\|哈蒂]]的[[Effect Size\|效应量]]，为全州提供了一种低成本、可大范围复制且极易监管的教师绩效改进工具 (p.141, p.150)。 |
-> | **前线教师与学者** | 批判政策沦为“伪科学数据”的传声筒。哈蒂的数据抹杀了复杂的[[Whole Language\|全语言]]质性优势（如 Dahl & Freppon 的 ownership 情感发展），粗暴压制了教师的情境化[[Professional Judgment\|专业判断]] (p.141, p.149)。 |
-> | **教育商业巨头 (Corwin)** | 借助维州教育部官方对《[[Visible Learning\|VL]]读写教学》图书和 “Visible Learning plus” 培训品牌的深度绑定，将公立教育预算源源不断地转化为商业品牌特许使用费 (p.141)。 |
+> | **教育部技术官僚** | 宣称 HITS 是“卓越教与学”的法宝，通过引入[[John Hattie|哈蒂]]的[[Effect Size|效应量]]，为全州提供了一种低成本、可大范围复制且极易监管的教师绩效改进工具 (p.141, p.150)。 |
+> | **前线教师与学者** | 批判政策沦为“伪科学数据”的传声筒。哈蒂的数据抹杀了复杂的[[Whole Language|全语言]]质性优势（如 Dahl & Freppon 的 ownership 情感发展），粗暴压制了教师的情境化[[Professional Judgment|专业判断]] (p.141, p.149)。 |
+> | **教育商业巨头 (Corwin)** | 借助维州教育部官方对《[[Visible Learning|VL]]读写教学》图书和 “Visible Learning plus” 培训品牌的深度绑定，将公立教育预算源源不断地转化为商业品牌特许使用费 (p.141)。 |
 
 ---
 

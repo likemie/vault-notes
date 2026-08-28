@@ -92,12 +92,12 @@ updated: 2026-08-24
 ## 概念辨析
 
 > [!contrast-table] 预测效度与相关效度维度的辨析
-> | 维度 | 预测效度（Predictive Validity） | [[Concurrent Validity\|共时效度]]（Concurrent Validity） | [[Construct Validity\|构念效度]]（Construct Validity） | [[Content Validity\|内容效度]]（Content Validity） |
+> | 维度 | 预测效度（Predictive Validity） | [[Concurrent Validity|共时效度]]（Concurrent Validity） | [[Construct Validity|构念效度]]（Construct Validity） | [[Content Validity|内容效度]]（Content Validity） |
 > |---|---|---|---|---|
-> | **分析对象** | 当[[Pre-test and Post-test\|前测]]量分数与未来外部效标的跨期关联 | 当前测量与已有公认标准的同时关联 | 测量工具与理论特质[[Construct\|构念]]的吻合程度 | 测验题目对目标内容领域的代表性抽样 |
+> | **分析对象** | 当[[Pre-test and Post-test|前测]]量分数与未来外部效标的跨期关联 | 当前测量与已有公认标准的同时关联 | 测量工具与理论特质[[Construct|构念]]的吻合程度 | 测验题目对目标内容领域的代表性抽样 |
 > | **时间属性** | **具有显著时间滞后（Time Lag）** | **无时滞，两类工具同时施测** | 无特定时间限制 | 测验编制与设计阶段即时确定 |
-> | **检验方法** | 追踪研究、跨期回归分析、[[Effect Size\|效应量]] $r$ | 同步[[Pearson Product-Moment Correlation\|皮尔逊相关]]系数、交叉表一致性 | 验证性因素分析（[[Confirmatory Factor Analysis\|CFA]]）、多质多法（[[Multitrait-Multimethod Matrix\|MTMM]]） | 专家内容评定、题目蓝图双向细目表 |
-> | **典型应用** | 大学入学考试、早期潜能预测、职业筛选 | 简化版新[[Scale Development\|量表开发]]、替代性测验效验 | 心理特质理论建构、抽象能力测量 | 学科[[Achievement and Aptitude Tests\|成就测验]]、专业资格认证考试 |
+> | **检验方法** | 追踪研究、跨期回归分析、[[Effect Size|效应量]] $r$ | 同步[[Pearson Product-Moment Correlation|皮尔逊相关]]系数、交叉表一致性 | 验证性因素分析（[[Confirmatory Factor Analysis|CFA]]）、多质多法（[[Multitrait-Multimethod Matrix|MTMM]]） | 专家内容评定、题目蓝图双向细目表 |
+> | **典型应用** | 大学入学考试、早期潜能预测、职业筛选 | 简化版新[[Scale Development|量表开发]]、替代性测验效验 | 心理特质理论建构、抽象能力测量 | 学科[[Achievement and Aptitude Tests|成就测验]]、专业资格认证考试 |
 
 ---
 
@@ -148,8 +148,8 @@ updated: 2026-08-24
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **效标无偏性约束** | 预测效度的测量学真实度严格取决于效标是否排除污染与主观偏倚 | 选拔考试开发、绩效评估体系设计 | Wolf (1994); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al. (2011)]] |
-> | **预测效度不对称性** | 高阶潜能作为预测源时的关联强度（$r = 0.29$）系统性高于作为效标结果（$r = 0.12$） | 纵向[[Cohort Study\|追踪研究]]、拔尖创新人才选拔与发展评估 | [[Mark A. Runco\|Runco et al. (2026)]]; Paek & Runco (2018) |
+> | **效标无偏性约束** | 预测效度的测量学真实度严格取决于效标是否排除污染与主观偏倚 | 选拔考试开发、绩效评估体系设计 | Wolf (1994); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Cohen et al. (2011)]] |
+> | **预测效度不对称性** | 高阶潜能作为预测源时的关联强度（$r = 0.29$）系统性高于作为效标结果（$r = 0.12$） | 纵向[[Cohort Study|追踪研究]]、拔尖创新人才选拔与发展评估 | [[Mark A. Runco|Runco et al. (2026)]]; Paek & Runco (2018) |
 
 ---
 
@@ -190,17 +190,17 @@ updated: 2026-08-24
 > [!ma-table]- [[Meta-analysis|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 元分析 | [[Dependent Variable\|结果变量]] | k / N | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与预测区间 | 证据确定性 |
+> | 元分析 | [[Dependent Variable|结果变量]] | k / N | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval|CI]] | [[Heterogeneity|异质性]]与预测区间 | 证据确定性 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | [[Creativity\|创造力]]作为[[Independent Variable\|预测变量]]对未来成就与表现的预测效度 | 52 项元分析 (164 ES) / 2609 项研究 / 1,248,416 人 | 皮尔逊 $r$ / 多水平 CHE + RVE（相关与层级效应模型 + 稳健方差估计） | **$r = 0.29$** $[0.18, 0.41]$ | 显著异质性 | 高，展现中等偏强的跨领域预测效度 |
-> | 同上 | 创造力作为效标[[Variable\|变量]]受前因因素预测效应 | 52 项元分析 (164 ES) / 2609 项研究 / 1,248,416 人 | 皮尔逊 $r$ / 多水平 CHE + RVE | **$r = 0.12$** $[0.05, 0.19]$ | 显著异质性 | 高，反映效标界定多样性导致的离散 |
+> | [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] | [[Creativity|创造力]]作为[[Independent Variable|预测变量]]对未来成就与表现的预测效度 | 52 项元分析 (164 ES) / 2609 项研究 / 1,248,416 人 | 皮尔逊 $r$ / 多水平 CHE + RVE（相关与层级效应模型 + 稳健方差估计） | **$r = 0.29$** $[0.18, 0.41]$ | 显著异质性 | 高，展现中等偏强的跨领域预测效度 |
+> | 同上 | 创造力作为效标[[Variable|变量]]受前因因素预测效应 | 52 项元分析 (164 ES) / 2609 项研究 / 1,248,416 人 | 皮尔逊 $r$ / 多水平 CHE + RVE | **$r = 0.12$** $[0.05, 0.19]$ | 显著异质性 | 高，反映效标界定多样性导致的离散 |
 
 > [!ma-table]- 调节变量与亚组分析
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
 >
 > | 元分析 | 调节变量 | 分析方式 | 效应较大的条件或方向 | 条件效应或 β | 交互或回归检验 | 是否预设 | 解释边界 |
 > |---|---|---|---|---|---|---|---|
-> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 变量角色（预测变量 vs 结果变量） | [[Second-Order Meta-Regression\|二阶元回归]] | 创造力作为预测变量效应显著高于作为结果变量 | $r = 0.29$ vs $r = 0.12$ ($\beta = 0.18$) | $F(1, 16.3) = 9.43, p = .007$ | 预设 | 全领域唯一显著调节变量，证实预测效度的稳健性 |
+> | [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] | 变量角色（预测变量 vs 结果变量） | [[Second-Order Meta-Regression|二阶元回归]] | 创造力作为预测变量效应显著高于作为结果变量 | $r = 0.29$ vs $r = 0.12$ ($\beta = 0.18$) | $F(1, 16.3) = 9.43, p = .007$ | 预设 | 全领域唯一显著调节变量，证实预测效度的稳健性 |
 
 ---
 
@@ -230,8 +230,8 @@ updated: 2026-08-24
 > |:-----|:-----|:---------|:-----|
 > | [[Criterion-related Validity]] | 概念 | 上位概念 | 预测效度是效标关联效度在存在时间跨度情境下的主要分支形式。 |
 > | [[Concurrent Validity]] | 概念 | 平行概念 | 预测效度与共时效度核心逻辑一致，主要区别在于预测效度具备时间滞后性。 |
-> | [[Construct Validity]] | 概念 | 理论基础 | 预测效度为[[Construct\|理论构念]]提供外在效标关联证据，是现代统一效度框架的关键组成。 |
+> | [[Construct Validity]] | 概念 | 理论基础 | 预测效度为[[Construct|理论构念]]提供外在效标关联证据，是现代统一效度框架的关键组成。 |
 > | [[Creativity]] | 概念 | 实证对象 | 创造力实证研究确立了其作为预测变量时的稳健预测效度（$r = 0.29$）。 |
-> | [[Second-Order Meta-Regression]] | 方法 | 检验工具 | 二阶[[Meta-regression\|元回归]]实证检验并确立了预测变量与[[Dependent Variable\|效标变量]]的[[Effect Size\|效应量]]不对称性。 |
-> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al. (2011)]] | 论证 | 理论来源 | 系统阐述预测效度的定义、效标要求与高风险考试应用。 |
-> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 论证 | 实证基石 | 综合 124 万人样本实证确立创造潜能对长期成就的量化预测效度基准。 |
+> | [[Second-Order Meta-Regression]] | 方法 | 检验工具 | 二阶[[Meta-regression|元回归]]实证检验并确立了预测变量与[[Dependent Variable|效标变量]]的[[Effect Size|效应量]]不对称性。 |
+> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Cohen et al. (2011)]] | 论证 | 理论来源 | 系统阐述预测效度的定义、效标要求与高风险考试应用。 |
+> | [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] | 论证 | 实证基石 | 综合 124 万人样本实证确立创造潜能对长期成就的量化预测效度基准。 |

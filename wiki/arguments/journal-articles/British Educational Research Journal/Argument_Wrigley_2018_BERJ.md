@@ -105,7 +105,7 @@ citation_aliases:
 > 教育中的“证据本位”运动在技术上通过统计聚合层层剥离情境，哲学上基于休谟粗糙的经验论抹杀因果机制与人类能动性（Agency），其本质是新自由主义审计文化的体现，旨在用 [[Value Neutrality|价值中立]]（[[VALUE Rubrics|VALUE]] Neutrality）的科学修辞将教育的价值与政治问题转化为纯粹的效率传递技术。
 
 > [!concept-lens]- 阅读透镜
-> - **对象** 证据本位教学（Evidence-Based Teaching）的方法论内核，尤其是作为其金标准的 [[Randomised Controlled Trials\|RCT]]、[[Meta-analysis|元分析]]以及 [[Meta-meta-analysis|元-元分析]]。
+> - **对象** 证据本位教学（Evidence-Based Teaching）的方法论内核，尤其是作为其金标准的 [[Randomised Controlled Trials|RCT]]、[[Meta-analysis|元分析]]以及 [[Meta-meta-analysis|元-元分析]]。
 > - **张力** 统计平均值追求的“客观、普适、去情境”的量化规则性，与教育实践作为“开放系统”固有的递归性、符号意义交互性以及人类意志主体性之间的根本张力。
 > - **贡献** 借助 [[Critical Realism|批判实在论]]（Critical Realism）的分层 [[Ontology|本体论]]（Ontology），解构了 EBE 统计聚合的三级失真机制；剖析了“新起点（Fresh Start）”等关键项目，揭示了政治压力下的“糟糕 [[Random Assignment|随机分配]]”幻象；提出了以“实在论综合（Realist Synthesis）”与“方法论多元主义”作为重建教师专业反思能力的替代方案。
 
@@ -116,12 +116,12 @@ citation_aliases:
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **[[Critical Realism\|批判实在论]]**<br>[[Roy Bhaskar\|Bhaskar (1978)]]<br>Sayer (2000) | 区分“深层实在（Real，指因果机制与结构）”、“实际发生（Actual，指事件与结果）”与“经验现象（Empirical，指观察到的规则性）”的三层[[Ontology\|本体论]]结构 (p. 8)。说明教育作为开放系统，因果力量取决于事物的本质与环境交互，而不是休谟式经验重复。 |
-> | **[[Realist Evaluation\|实在论评估（Realist Evaluation）]]**<br>[[Ray Pawson\|Pawson (2006)]] | 认为社会与教育项目不是机械的物理因果，而是通过“受试者对资源的推理（Reasoning）”发挥作用。批评单纯计算平均[[Effect Size\|效应量]]的盲目经验主义，主张通过探究“背景-机制-结果（Context-Mechanism-Outcome, CMO）”配置的实在论综合。 |
-> | **新自由主义审计文化**<br>[[Stephen Ball\|Ball (2013)]]<br>Power (1997) | 剖析“审计社会”与“以数字治理”机制。揭示 EBE 如何将复杂的教育 [[Bildung\|陶冶（Bildung）]]转化为可测量、可审计的效率指标，服务于政府对“人力资源交付”的技术化控制。 |
+> | **[[Critical Realism|批判实在论]]**<br>[[Roy Bhaskar|Bhaskar (1978)]]<br>Sayer (2000) | 区分“深层实在（Real，指因果机制与结构）”、“实际发生（Actual，指事件与结果）”与“经验现象（Empirical，指观察到的规则性）”的三层[[Ontology|本体论]]结构 (p. 8)。说明教育作为开放系统，因果力量取决于事物的本质与环境交互，而不是休谟式经验重复。 |
+> | **[[Realist Evaluation|实在论评估（Realist Evaluation）]]**<br>[[Ray Pawson|Pawson (2006)]] | 认为社会与教育项目不是机械的物理因果，而是通过“受试者对资源的推理（Reasoning）”发挥作用。批评单纯计算平均[[Effect Size|效应量]]的盲目经验主义，主张通过探究“背景-机制-结果（Context-Mechanism-Outcome, CMO）”配置的实在论综合。 |
+> | **新自由主义审计文化**<br>[[Stephen Ball|Ball (2013)]]<br>Power (1997) | 剖析“审计社会”与“以数字治理”机制。揭示 EBE 如何将复杂的教育 [[Bildung|陶冶（Bildung）]]转化为可测量、可审计的效率指标，服务于政府对“人力资源交付”的技术化控制。 |
 
 > [!warrant]- 理论如何支撑论证
-> 批判实在论和实在论评估理论为解构 [[Evidence-Based Education\|EBE]] 提供了强大的 [[Epistemology|认识论]]武器。通过这套理论，作者能指出教育是一个符号与递归（semiotic and recursive）的开放系统，人类意志和信念在其中具有因果效应（例如[[Aristotle|亚里士多德]]（Aristotle）所说的“目的因”）。这打破了 [[Randomised Controlled Trials\|RCT]] 将教师和学生意志视为“干扰噪声”的实验室神话，论证了为什么去情境化的统计均值无法反映真实的因果机制。
+> 批判实在论和实在论评估理论为解构 [[Evidence-Based Education|EBE]] 提供了强大的 [[Epistemology|认识论]]武器。通过这套理论，作者能指出教育是一个符号与递归（semiotic and recursive）的开放系统，人类意志和信念在其中具有因果效应（例如[[Aristotle|亚里士多德]]（Aristotle）所说的“目的因”）。这打破了 [[Randomised Controlled Trials|RCT]] 将教师和学生意志视为“干扰噪声”的实验室神话，论证了为什么去情境化的统计均值无法反映真实的因果机制。
 
 ---
 
@@ -130,16 +130,16 @@ citation_aliases:
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **概念批判与哲学解构**<br>概念批判（Conceptual Critique） | 对 [[Evidence-Based Education\|EBE]] 的[[Positivism\|实证主义]]前提（以 [[Randomised Controlled Trials\|RCT]] 为金标准）进行方法论解构，将统计学偏误与科学哲学（如休谟的因果归纳困境）及[[Critical Realism\|批判实在论]]进行交叉分析。 |
-> | **案例剖析与政策还原**<br>案例分析（Case Analysis） | 针对三个方法论聚合层级，分别抽取核心案例进行高精度技术解构（如“新起点”RCT 的前测/后测差异、[[Education Endowment Foundation\|EEF]]《教学与学习工具包》中的反馈与 TA 类目、[[John Hattie\|哈蒂]]的[[Effect Size\|效应量]]计算基准）。 |
-> | **医学循证史比照**<br>比较分析（Comparative Analysis） | 比照循证医学（Evidence-Based Medicine, EBM）内部对教条化规则遵循的批判，指出医学在进行 RCT 前已有深厚的理论建构，而教育学 RCT 往往面临“缺失[[Causality\|因果]]理论”的盲目经验主义困境。 |
+> | **概念批判与哲学解构**<br>概念批判（Conceptual Critique） | 对 [[Evidence-Based Education|EBE]] 的[[Positivism|实证主义]]前提（以 [[Randomised Controlled Trials|RCT]] 为金标准）进行方法论解构，将统计学偏误与科学哲学（如休谟的因果归纳困境）及[[Critical Realism|批判实在论]]进行交叉分析。 |
+> | **案例剖析与政策还原**<br>案例分析（Case Analysis） | 针对三个方法论聚合层级，分别抽取核心案例进行高精度技术解构（如“新起点”RCT 的前测/后测差异、[[Education Endowment Foundation|EEF]]《教学与学习工具包》中的反馈与 TA 类目、[[John Hattie|哈蒂]]的[[Effect Size|效应量]]计算基准）。 |
+> | **医学循证史比照**<br>比较分析（Comparative Analysis） | 比照循证医学（Evidence-Based Medicine, EBM）内部对教条化规则遵循的批判，指出医学在进行 RCT 前已有深厚的理论建构，而教育学 RCT 往往面临“缺失[[Causality|因果]]理论”的盲目经验主义困境。 |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |----------|------|
-> | **评估报告样本** | [[Education Endowment Foundation\|EEF]]“新起点”评估报告（EEF, 2015）及其学术发表版本（葛拉德等, 2016）；EEF 项目制学习（Project-based Learning）评估报告（EEF, 2016）。 |
-> | **聚合工具样本** | [[John Hattie\|Hattie]] (2009)《[[Visible Learning\|VL]]》所含 800 项元分析及 50,000 项研究；EEF 发布的《教学与学习工具包》；[[Argument_Simpson_2017_JEP\|Simpson (2017)]] 对该工具包效应量偏差的测量学分析；Blatchford et al. (2012) 关于课堂教学助理（Teaching Assistants, TA）的大型实证研究。 |
-> | **理论[[Document\|文献]]样本** | Greenhalgh (2014, 2015) 的循证医学危机文献；[[Roy Bhaskar\|Bhaskar]] (1978)、[[Ray Pawson\|Pawson]] (2006) 的社会 [[Scientific Method\|科学方法论（Scientific Method）]]论著。 |
+> | **评估报告样本** | [[Education Endowment Foundation|EEF]]“新起点”评估报告（EEF, 2015）及其学术发表版本（葛拉德等, 2016）；EEF 项目制学习（Project-based Learning）评估报告（EEF, 2016）。 |
+> | **聚合工具样本** | [[John Hattie|Hattie]] (2009)《[[Visible Learning|VL]]》所含 800 项元分析及 50,000 项研究；EEF 发布的《教学与学习工具包》；[[Argument_Simpson_2017_JEP|Simpson (2017)]] 对该工具包效应量偏差的测量学分析；Blatchford et al. (2012) 关于课堂教学助理（Teaching Assistants, TA）的大型实证研究。 |
+> | **理论[[Document|文献]]样本** | Greenhalgh (2014, 2015) 的循证医学危机文献；[[Roy Bhaskar|Bhaskar]] (1978)、[[Ray Pawson|Pawson]] (2006) 的社会 [[Scientific Method|科学方法论（Scientific Method）]]论著。 |
 
 ---
 
@@ -170,7 +170,7 @@ citation_aliases:
 
 ### 论证步骤一：随机对照试验与第一级（Level 1）统计简化的局限性
 
-> [!claim] [[Randomised Controlled Trials\|RCT]] 作为教育研究金标准面临不可逾越的技术与哲学困境
+> [!claim] [[Randomised Controlled Trials|RCT]] 作为教育研究金标准面临不可逾越的技术与哲学困境
 > RCT 试图在复杂的教育社会场景中复制实验室的“封闭系统”，但由于无法实现“双盲”、缺乏类似安慰剂的对照设计，以及将人类能动性视为干扰，导致其 [[Effect Size|效应量]]计算极易扭曲。
 
 > [!case] “新起点”案例解构：数据包装与[[Random Assignment|随机分配]]失败
@@ -239,7 +239,7 @@ citation_aliases:
 
 ### 论证步骤四：证据本位教育的政治定位与意识形态后果
 
-> [!claim] [[Evidence-Based Education\|EBE]] 本质上是新自由主义管理主义与审计文化的权力延伸
+> [!claim] [[Evidence-Based Education|EBE]] 本质上是新自由主义管理主义与审计文化的权力延伸
 > 科学中立的修辞规避了其新自由主义的政治图谋。它将教育的根本目的（陶冶与价值）转化为纯粹的技术传递，消解了教师的 [[Professional Judgment|专业判断]]力，使其沦为国家的流水线工人。
 
 > [!tension] “什么有效（What Works）”与“为了什么目的（To What Ends）”的冲突

@@ -216,8 +216,8 @@ updated: 2026-07-13
 > > | 研究类型 | 最低样本量 |
 > > |---|---|
 > > | 相关研究（correlational） | ≥ 30 案例 |
-> > | 因果比较与[[Experimental Research\|实验研究]] | ≥ 15 案例 |
-> > | [[Survey Research\|调查研究]] | 每个主要子组 ≥ 100，每个次要子组 20–50 |
+> > | 因果比较与[[Experimental Research|实验研究]] | ≥ 15 案例 |
+> > | [[Survey Research|调查研究]] | 每个主要子组 ≥ 100，每个次要子组 20–50 |
 >
 > Borg & Gall（1979, p. 186）强调应从最小子组的最小案例数出发向上推算，而非反过来。例如：
 > - 若 5% 的样本必须是青少年男生，且该子组需 30 例（如相关研究）→ 总样本 = $30 \div 0.05 = 600$
@@ -259,7 +259,7 @@ updated: 2026-07-13
 > | 常用边际误差 | 5% | 3% |
 > | 样本量趋势 | 更大 | 相对较小 |
 > | 总体 ≥ 2,000 时样本量 | 仍随总体增加 | 不再变化 |
-> | 多元回归最小比率（观察值:[[Independent Variable\|自变量]]） | 5:1（建议 10:1） | 5:1（建议 10:1） |
+> | 多元回归最小比率（观察值:[[Independent Variable|自变量]]） | 5:1（建议 10:1） | 5:1（建议 10:1） |
 > | 5:1 比率下最小样本量 | ≥ 313，自变量 ≤ 62 | ≥ 111，自变量 ≤ 22 |
 > | 10:1 比率下最小样本量 | ≥ 313，自变量 ≤ 31 | ≥ 111，自变量 ≤ 11 |
 
@@ -481,14 +481,14 @@ $$[[Causal Modeling|SEM]] = \frac{SD_{s}}{\sqrt{N}}$$
 抽样策略分为两大类，核心区别在于：
 
 > [!contrast-table] 概率抽样 vs 非概率抽样
-> | 维度 | [[Random Sampling\|概率抽样]] | [[Non-probability Sampling\|非概率抽样]] |
+> | 维度 | [[Random Sampling|概率抽样]] | [[Non-probability Sampling|非概率抽样]] |
 > |---|---|---|
 > | 成员被选中的概率 | 已知，每个成员有均等概率 | 未知，某些肯定排除、另一些肯定纳入 |
 > | 选择机制 | 随机，纯概率问题 | 有意，研究者有目的地选择 |
 > | 代表性 | 追求代表更广泛的总体 | 只代表自身或同类群体中的实例 |
 > | 推广性 | 支持统计推广（generalization） | 不支持统计推广 |
 > | 偏差风险 | 较低，但仍有抽样误差 | 较高，可能呈现偏斜或偏差 |
-> | 典型应用 | [[Randomised Controlled Trials\|随机对照试验]]、大规模调查 | 小规模研究、[[Case Study\|案例研究]]、试点研究 |
+> | 典型应用 | [[Randomised Controlled Trials|随机对照试验]]、大规模调查 | 小规模研究、[[Case Study|案例研究]]、试点研究 |
 
 ---
 
@@ -665,7 +665,7 @@ $$[[Causal Modeling|SEM]] = \frac{SD_{s}}{\sqrt{N}}$$
 但这并不意味着质性研究中的样本永远不能代表总体。Onwuegbuzie & Leech（2007）做出了重要区分：
 
 > [!contrast-table] [[Internal and External Generalizability|内部推广性]] vs 外部推广性
-> | 维度 | 内部推广性（Internal [[External Validity\|generalizability]]） | 外部推广性（External Generalizability） |
+> | 维度 | 内部推广性（Internal [[External Validity|generalizability]]） | 外部推广性（External Generalizability） |
 > |---|---|---|
 > | 推广范围 | 子组数据 → 整个样本 | 样本 → 更广泛的总体 |
 > | 所需条件 | 子组足够大 | 通常需大样本 |

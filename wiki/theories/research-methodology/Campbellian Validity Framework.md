@@ -113,13 +113,13 @@ updated: 2026-08-21
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:---|:---|:---|
-> | [[Internal Validity\|内部效度（Internal Validity）]] | 概念 / 核心维度 | 确证所观察到的结果变化确实是由[[Independent Variable\|自变量]]干预引起而非外在混杂所致的因果可[[Reliability\|信度]]。 |
-> | [[External Validity\|外部效度（External Validity）]] | 概念 / 核心维度 | [[Causality\|因果推断]]在不同人群、场所、时间及类似但不同的[[Dependent Variable\|结果变量]]上依然成立的推广范围。 |
-> | [[Construct Validity\|构念效度（Construct Validity）]] | 概念 / 核心维度 | 实际[[Operationalization\|操作化]]测量的[[Variable\|变量]]与干预方案在多大程度上精确表征了理论所预设的高阶概念特质。 |
-> | [[Statistical Significance\|统计结论效度（Statistical Conclusion Validity）]] | 概念 / 核心维度 | 基于样本数据判断两变量之间是否存在协变关系的统计检验力与估计准确性。 |
-> | [[Threats to Internal Validity\|效度威胁（Threats to Validity）]] | 分类 / 机制 | 造成实验假象与因果误判的各种竞争性替代解释清单（如历史、成熟、回归均值、选择偏倚、[[Attrition\|流失]]）。 |
-> | [[Gating Procedure\|门控程序（Gating Procedure）]] | 方法 / 评价规程 | 依据“内部效度优先”原则设立的方法学初筛机制，未通过内部效度门槛的研究不进入推广性评估。 |
-> | [[Multitrait-Multimethod Matrix\|多特质-多方法矩阵（MTMM）]] | 方法 / 检验程序 | 通过多特质与多方法的双向交叉，系统检验测量与评价工具的[[Convergent and Discriminant Validity\|收敛效度]]与判别效度。 |
+> | [[Internal Validity|内部效度（Internal Validity）]] | 概念 / 核心维度 | 确证所观察到的结果变化确实是由[[Independent Variable|自变量]]干预引起而非外在混杂所致的因果可[[Reliability|信度]]。 |
+> | [[External Validity|外部效度（External Validity）]] | 概念 / 核心维度 | [[Causality|因果推断]]在不同人群、场所、时间及类似但不同的[[Dependent Variable|结果变量]]上依然成立的推广范围。 |
+> | [[Construct Validity|构念效度（Construct Validity）]] | 概念 / 核心维度 | 实际[[Operationalization|操作化]]测量的[[Variable|变量]]与干预方案在多大程度上精确表征了理论所预设的高阶概念特质。 |
+> | [[Statistical Significance|统计结论效度（Statistical Conclusion Validity）]] | 概念 / 核心维度 | 基于样本数据判断两变量之间是否存在协变关系的统计检验力与估计准确性。 |
+> | [[Threats to Internal Validity|效度威胁（Threats to Validity）]] | 分类 / 机制 | 造成实验假象与因果误判的各种竞争性替代解释清单（如历史、成熟、回归均值、选择偏倚、[[Attrition|流失]]）。 |
+> | [[Gating Procedure|门控程序（Gating Procedure）]] | 方法 / 评价规程 | 依据“内部效度优先”原则设立的方法学初筛机制，未通过内部效度门槛的研究不进入推广性评估。 |
+> | [[Multitrait-Multimethod Matrix|多特质-多方法矩阵（MTMM）]] | 方法 / 检验程序 | 通过多特质与多方法的双向交叉，系统检验测量与评价工具的[[Convergent and Discriminant Validity|收敛效度]]与判别效度。 |
 
 ---
 
@@ -137,13 +137,13 @@ updated: 2026-08-21
 > - **推导** ① 识别干预后结果变化的潜在威胁清单（成熟、历史、仪器变异、均值回归、[[Attrition|流失]]偏倚） → ② 构建能有效阻断这些威胁的设计机制 → ③ 确立内部效度门控程序（[[Gating Procedure]]），仅对通过因果质量审查的研究开展后续合成。[[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015, pp. 462–466)]]
 
 > [!index-table] 内部效度的核心威胁与实验控制机制（Shadish et al., 2002; [[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015]]）
-> | [[Threats to Internal Validity\|内部效度威胁]] | 威胁机制与含义 | 组间设计 (RCT/[[Quasi-Experimental Designs\|QED]]) 的控制方式 | 单一个案设计 (SCD) 的控制方式 |
+> | [[Threats to Internal Validity|内部效度威胁]] | 威胁机制与含义 | 组间设计 (RCT/[[Quasi-Experimental Designs|QED]]) 的控制方式 | 单一个案设计 (SCD) 的控制方式 |
 > |:---|:---|:---|:---|
-> | **成熟（Maturation）** | 被试随时间推移自然生理/心理发展或学习疲劳 | 随机分配设立同步对照组进行抵消 | [[ABAB Design\|ABAB 设计]]中的撤除与再引入阶段；若行为随干预开闭系统性变化则排除成熟效应 |
+> | **成熟（Maturation）** | 被试随时间推移自然生理/心理发展或学习疲劳 | 随机分配设立同步对照组进行抵消 | [[ABAB Design|ABAB 设计]]中的撤除与再引入阶段；若行为随干预开闭系统性变化则排除成熟效应 |
 > | **历史（History）** | 实验期间发生的外部事件或同期混杂政策 | 设立处于相同外部环境的对照组 | 多基线设计（Multiple-Baseline）在不同时间点阶梯式引入干预；若各基线仅在引入时变化则排除历史效应 |
 > | **回归均值（Regression to the Mean）** | 基于极端分数（极高或极低）筛选被试后，重测分数向均值自然靠拢 | 避免极端截断入组，采用协方差调整 | 建立稳定且有足够数据点的基线期（Baseline Phase），确认无自然回归趋势后再施加干预 |
 > | **处理扩散（Diffusion of Treatment）** | 实验组干预信息、材料或技能向对照组泄漏污染 | 集群随机化（以学校或学区为单位随机） | 严格物理隔离各实验阶段，检验无干预控制条件是否遭受意外污染 |
-> | **工具化（Instrumentation）** | 测量工具校准漂移、评卷标准松紧或观察者疲劳 | 采用标准化盲审与高[[Test-Retest Reliability\|重测信度]]量表 | 强制实施观察者评分一致性检验（IOA ≥ 80%）与[[Definition of Terms\|操作性定义]]规范 |
+> | **工具化（Instrumentation）** | 测量工具校准漂移、评卷标准松紧或观察者疲劳 | 采用标准化盲审与高[[Test-Retest Reliability|重测信度]]量表 | 强制实施观察者评分一致性检验（IOA ≥ 80%）与[[Definition of Terms|操作性定义]]规范 |
 > | **样本流失（Attrition）** | 参与者因各种原因退出研究，导致组间基线等值性破坏 | 严格核算整体流失与差异流失边界模型 | 密集高频次追踪，完整记录个案每个阶段的数据点完整性 |
 
 ---
@@ -160,11 +160,11 @@ updated: 2026-08-21
 > [!index-table] 外部效度的核心威胁与推广维度（Kazdin, 2011; Shadish et al., 2002; [[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015]]）
 > | 外部效度威胁 | 机制含义与潜在风险 | 审查与推广评估应对策略 |
 > |:---|:---|:---|
-> | **多重处理干扰（Multiple-Treatment Interference）** | 观察到的积极效应是由多种并存的干预措施[[Interaction Effect\|交互作用]]导致，无法推广至单一孤立实施的情境 | 在研究设计中实施处理组件拆解分析（Component Analysis），排除复合干预混杂 |
+> | **多重处理干扰（Multiple-Treatment Interference）** | 观察到的积极效应是由多种并存的干预措施[[Interaction Effect|交互作用]]导致，无法推广至单一孤立实施的情境 | 在研究设计中实施处理组件拆解分析（Component Analysis），排除复合干预混杂 |
 > | **跨情境推广性（Generality across Settings）** | 在特定场所（如大学附属示范校、高资源郊区学校）取得的效果能否在普通公立校或社区推广 | 系统记录场所类型、班级硬件、师生比及配套支持环境（如 WWC Review Guide 规范） |
 > | **跨被试推广性（Generality across Subjects）** | 效果是否适用于不同年龄、文化背景、社会经济地位（SES）或特殊需要的学生群体 | 详细描绘受试者的基线人口统计学与能力特征，防范样本同质化导致的推广错觉 |
-> | **跨结果推广性（Generality across Outcomes）** | 在某一具体测量指标（如即时课堂行为）上的成功能否迁移至高阶[[Academic Achievement\|学业表现]]或远期素养 | 采用多维度结果测量集，细分近端结果（Proximal）与远端结果（Distal） |
-> | **实施者效应（Implementer Effect）** | 效果由极度热情的开发者亲自授课产生，常规一线教师难以复现相同[[Effect Size\|效应量]] | 考察由常规一线教师在自然教学状态下交付的干预忠实度（[[Implementation Fidelity\|fidelity of implementation]]） |
+> | **跨结果推广性（Generality across Outcomes）** | 在某一具体测量指标（如即时课堂行为）上的成功能否迁移至高阶[[Academic Achievement|学业表现]]或远期素养 | 采用多维度结果测量集，细分近端结果（Proximal）与远端结果（Distal） |
+> | **实施者效应（Implementer Effect）** | 效果由极度热情的开发者亲自授课产生，常规一线教师难以复现相同[[Effect Size|效应量]] | 考察由常规一线教师在自然教学状态下交付的干预忠实度（[[Implementation Fidelity|fidelity of implementation]]） |
 
 ---
 

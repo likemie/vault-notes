@@ -143,12 +143,12 @@ updated: '2026-08-27'
 > [!ref-table] 循证教育的制度基础设施（pp. 329–335）
 > | 机构 | 隶属与说明 | 功能与运营状况 |
 > |---|---|---|
-> | [[EPPI-Centre]]（[eppi.ioe.ac.uk](https://eppi.ioe.ac.uk/cms/)） | 证据知情政策与[[Praxis\|实践]]信息与协调中心（Evidence for Policy and Practice Information and Co-ordinating Centre），原伦敦大学教育学院，现隶属于伦敦大学学院（University College London，UCL） | 教育与社会政策领域的系统综述方法论开发、证据使用研究和培训。持续运营中，由 David Gough 教授领导 |
+> | [[EPPI-Centre]]（[eppi.ioe.ac.uk](https://eppi.ioe.ac.uk/cms/)） | 证据知情政策与[[Praxis|实践]]信息与协调中心（Evidence for Policy and Practice Information and Co-ordinating Centre），原伦敦大学教育学院，现隶属于伦敦大学学院（University College London，UCL） | 教育与社会政策领域的系统综述方法论开发、证据使用研究和培训。持续运营中，由 David Gough 教授领导 |
 > | [[Campbell Collaboration]]（[campbellcollaboration.org](https://www.campbellcollaboration.org/)） | Campbell 协作网，前身为社会、心理、教育和犯罪学控制试验注册库（SPECTR）（Milwain, 1998; Milwain et al., 1999），Cochrane 协作网在教育和社会科学领域的平行机构 | 社会与教育领域控制试验的系统综述与元分析。持续运营中 |
-> | [[CEM Centre]]（[cem.org](https://www.cem.org/)） | 原属杜伦大学，由 Fitz-Gibbon and Tymms 创立，展示指标系统与实验方法结合以提供[[Causality\|因果推断]]证据 | 开发学校监测与评估系统（如 PIPS、MidYIS、ALIS），提供增值评估。2019 年被剑桥大学出版与评估院（Cambridge University Press & Assessment）收购，更名为 Cambridge CEM，仍在运营 |
+> | [[CEM Centre]]（[cem.org](https://www.cem.org/)） | 原属杜伦大学，由 Fitz-Gibbon and Tymms 创立，展示指标系统与实验方法结合以提供[[Causality|因果推断]]证据 | 开发学校监测与评估系统（如 PIPS、MidYIS、ALIS），提供增值评估。2019 年被剑桥大学出版与评估院（Cambridge University Press & Assessment）收购，更名为 Cambridge CEM，仍在运营 |
 > | [[UK Centre for Evidence-based Policy]]（[ukri.org/councils/esrc](https://www.ukri.org/councils/esrc/)） | 原属英国经济与社会研究理事会（Economic and Social Research Council，ESRC），ESRC 后并入英国国家科研与创新署（UK Research and Innovation，UKRI） | 推动循证政策研究与实践。ESRC 原有专门页面已下线，职能已整合至 UKRI 体系 |
 > | [[Evidence Network]]（[kcl.ac.uk/policy-institute](https://www.kcl.ac.uk/policy-institute)） | 原属伦敦国王学院 | 原为证据网络的建立与推广。网址已废弃，国王学院现由政策研究所（Policy Institute）承担类似职能 |
-> | [[What Works Clearinghouse]]（[ies.ed.gov/ncee/wwc](https://ies.ed.gov/ncee/wwc/)） | 美国教育部教育科学研究所（Institute of Education Sciences，IES），附带[[Recommendations for Practice\|实践建议]]报告 | 教育干预证据的系统性审查与评级。2025 年 2 月因联邦合同取消而停止新审阅，网站可能保留为存档 |
+> | [[What Works Clearinghouse]]（[ies.ed.gov/ncee/wwc](https://ies.ed.gov/ncee/wwc/)） | 美国教育部教育科学研究所（Institute of Education Sciences，IES），附带[[Recommendations for Practice|实践建议]]报告 | 教育干预证据的系统性审查与评级。2025 年 2 月因联邦合同取消而停止新审阅，网站可能保留为存档 |
 > | [[Research Informed Practice Site]]（[gov.uk/dfe](https://www.gov.uk/government/organisations/department-for-education)） | 原属英国儿童、学校与家庭部（Department for Children, Schools and Families，DCSF），DCSF 于 2010 年改组为教育部（Department for Education，DfE） | 提供研究主题与证据资源。原网址已废弃，相关职能并入英国教育部 GOV.UK 体系
 
 以上七个机构构成了本教材第七版出版时（2011 年）循证教育制度基础设施的核心。此后二十余年间，该领域扩展至更多国家和机构类型，详见 [[Evidence-Based Education Institutions]]。对 EBE 的系统性批判见 [[Critique of Evidence-Based Education]]。
@@ -507,14 +507,14 @@ Thomas & Pring（2004, pp. 54–55）从研究设计层面补充了元分析应�
 > | **叙事综述与总结** | 对研究发现进行叙述性总结 | — |
 > | **投票计数综述** | 计数有多少结果在一个方向上有统计显著性，多少无效应 | Davies, 2000, p. 367 |
 > | **最佳证据综合** | 基于明确标准和方法论选择研究 | Slavin, 1986 |
-> | **元[[Ethnography\|民族志]]** | 总结和综合来自民族志和解释性质性研究的证据 | — |
+> | **元[[Ethnography|民族志]]** | 总结和综合来自民族志和解释性质性研究的证据 | — |
 > | **主题分析** | 基于主题的综合 | — |
-> | **[[Grounded Theory\|扎根理论]]** | 使用扎根理论方法综合 | — |
+> | **[[Grounded Theory|扎根理论]]** | 使用扎根理论方法综合 | — |
 > | **元研究** | 对研究的研究进行综合 | — |
 > | **实在论综合** | 关注干预"为什么有效、对谁有效、在什么条件下有效" | — |
 > | **质性数据分析技术** | 基于 Miles & Huberman（1984）的跨案例和案例内分析 | — |
-> | **[[Content Analysis\|内容分析]]** | 对研究内容的系统分析 | — |
-> | **案例调查** | 对多个[[Case Study\|案例研究]]的调查综合 | — |
+> | **[[Content Analysis|内容分析]]** | 对研究内容的系统分析 | — |
+> | **案例调查** | 对多个[[Case Study|案例研究]]的调查综合 | — |
 > | **质性比较分析** | 跨案例的质性比较 | — |
 
 关于定性研究综合的进一步介绍，教材指引读者参阅 Howell Major & Savin-Baden（2010）（p. 385）。

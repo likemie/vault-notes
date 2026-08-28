@@ -27,19 +27,14 @@ tags:
   - theme/creativity
   - region/us
 related_concepts:
-  - "[[Constructive Alignment]]"
   - "[[Critical Thinking]]"
   - "[[Creativity]]"
-  - "[[Higher-Order Thinking Skills]]"
-  - "[[Authentic Assessment]]"
-  - "[[Didaktik]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
   - "[[InTASC Standards]]"
-  - "[[Educational Testing Service]]"
 related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
 confidence: high
@@ -71,7 +66,7 @@ updated: 2026-08-28
 > |---|---|---|---|
 > | **教学策略与课程设计** | 建构反应型教学案例 | 教师根据学科大概念设计结构化探究、问题解决与差异化教学策略的能力 | 专业量规分级评分（Rubrics-Based） |
 > | **教育理论与学习科学应用** | 劣构学情分析题 | 将认知发展、建构主义与动机理论转化为具体课堂干预的实践转化力 | 标准参照质性评定（Criterion-Referenced） |
-> | **高阶思维培育素养** | 批判与创造教学设计题 | 教师在自身教学中激发、脚手架支持并评估学生[[Critical Thinking\|批判性思维]]与[[Creativity\|创造力]]的专门教学法知识（PCK） | 经校准的专家评分员双评（Double-Scored） |
+> | **高阶思维培育素养** | 批判与创造教学设计题 | 教师在自身教学中激发、脚手架支持并评估学生[[Critical Thinking|批判性思维]]与[[Creativity|创造力]]的专门教学法知识（PCK） | 经校准的专家评分员双评（Double-Scored） |
 > | **学习者发展与课堂环境** | 课堂危机与互动模拟 | 营造包容、支持性深度对话氛围与管理异质性学习群体的专业判断力 | 专业量规分级评分 |
 
 ---

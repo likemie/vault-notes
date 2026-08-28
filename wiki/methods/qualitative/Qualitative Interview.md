@@ -126,8 +126,8 @@ updated: 2026-07-22
 > | 类型 | 描述 |
 > |---|---|
 > | 面对面访谈 | 研究者与参与者一对一、面对面进行 |
-> | [[Telephone Interview\|电话访谈]] | 通过电话进行 |
-> | [[Focus Group\|焦点小组]] | 以小组形式访谈，每组 6–8 人 |
+> | [[Telephone Interview|电话访谈]] | 通过电话进行 |
+> | [[Focus Group|焦点小组]] | 以小组形式访谈，每组 6–8 人 |
 > | 电子邮件/网络访谈 | 通过电子邮件或网络平台进行 |
 
 > [!goal] 访谈的四类目的（Lincoln & Guba, 1985, pp. 268–270）
@@ -206,10 +206,10 @@ Kvale（1996, p. 88）提出访谈调查的七个阶段（[[Argument_Cohen_Manio
 > | [[In-depth Interview]] | 子方法 | 深度访谈是质性访谈的最核心变体，通过持续追问和渐进聚焦进入受访者意义世界。 |
 > | [[Focus Group]] | 子方法 | 焦点小组是质性访谈的群体形式，依赖小组内部互动产出集体观点。 |
 > | [[Group Interview]] | 子方法 | 小组访谈同时访谈多位受访者，分析单位为群体而非个体。 |
-> | [[Interview Protocol]] | 配套方法 | 访谈提纲是将研究目标[[Operationalization\|操作化]]为问题序列的结构化指南，包含引言、内容问题、追问和结束说明。 |
+> | [[Interview Protocol]] | 配套方法 | 访谈提纲是将研究目标[[Operationalization|操作化]]为问题序列的结构化指南，包含引言、内容问题、追问和结束说明。 |
 > | [[Probes]] | 配套概念 | 追问是质性访谈中扩展、深化和澄清回应的核心技术。 |
-> | [[Interviewer Effects]] | 相关概念 | 访谈者效应是访谈中系统性偏差的核心来源，需通过培训、匹配和[[Reflexivity\|反思性]]实践来减轻。 |
-> | [[Qualitative Research]] | 父方法 | 质性访谈是质性研究的方法家族成员，共享[[Epistemology\|认识论]]基础和设计逻辑。 |
+> | [[Interviewer Effects]] | 相关概念 | 访谈者效应是访谈中系统性偏差的核心来源，需通过培训、匹配和[[Reflexivity|反思性]]实践来减轻。 |
+> | [[Qualitative Research]] | 父方法 | 质性访谈是质性研究的方法家族成员，共享[[Epistemology|认识论]]基础和设计逻辑。 |
 
 ---
 

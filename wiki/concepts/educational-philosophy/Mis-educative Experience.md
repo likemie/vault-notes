@@ -66,11 +66,11 @@ updated: 2026-08-01
 ## 概念辨析
 
 > [!contrast-table] 概念辨析
-> | 维度 | 反教育经验（Mis-educative） | [[Educative Experience\|教育性经验（Educative）]] |
+> | 维度 | 反教育经验（Mis-educative） | [[Educative Experience|教育性经验（Educative）]] |
 > |------|--------------------------------------|-----------------------------------|
-> | **分析对象** | 阻碍或截断[[Growth\|生长]]的经验品质 | 促进持续生长的经验品质 |
-> | **典型教学手段** | 强迫灌输、脱离语境的对象课、身体镇压 | 手脑并用、真实生态探究、面对面[[Dialogue in Education\|对话]] |
-> | **对心智的影响** | 造成理智麻木、依赖机械公式与标准答案 | 激发[[Reflective Thinking\|反思性思维]]与自主掌控 |
+> | **分析对象** | 阻碍或截断[[Growth|生长]]的经验品质 | 促进持续生长的经验品质 |
+> | **典型教学手段** | 强迫灌输、脱离语境的对象课、身体镇压 | 手脑并用、真实生态探究、面对面[[Dialogue in Education|对话]] |
+> | **对心智的影响** | 造成理智麻木、依赖机械公式与标准答案 | 激发[[Reflective Thinking|反思性思维]]与自主掌控 |
 
 ---
 
@@ -114,7 +114,7 @@ updated: 2026-08-01
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **认识论危害命题** | 机械灌输与身体压抑导致学习敏感度丧失 | 传统[[Examination-Oriented Education\|应试教育]]与储蓄式课堂批判 | [[John Dewey\|Dewey, J.]]; [[Argument_Darwish_2009_Queens\|Darwish, B.]] |
+> | **认识论危害命题** | 机械灌输与身体压抑导致学习敏感度丧失 | 传统[[Examination-Oriented Education|应试教育]]与储蓄式课堂批判 | [[John Dewey|Dewey, J.]]; [[Argument_Darwish_2009_Queens|Darwish, B.]] |
 
 ---
 

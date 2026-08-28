@@ -70,12 +70,12 @@ updated: 2026-08-25
 ## 概念辨析
 
 > [!contrast-table] [[Dialogue in Education|对话教学]]与诘问概念辨析
-> | 维度 | [[Socrates\|苏格拉底]]对话（Socratic Dialogue） | [[Socratic Elenchus\|苏格拉底驳诘法（Elenchus）]] | [[Banking Model of Education\|储蓄式灌输教学]] |
+> | 维度 | [[Socrates|苏格拉底]]对话（Socratic Dialogue） | [[Socratic Elenchus|苏格拉底驳诘法（Elenchus）]] | [[Banking Model of Education|储蓄式灌输教学]] |
 > |---|---|---|---|
 > | **核心机制** | 结构化探究提问与反例脚手架 | 交叉诘问、反讽与暴露认知矛盾 | 教师讲授与单向知识沉积 |
 > | **师生权力关系** | 共同探究者与认知助产士 | 哲学论辩交锋对手 | 权威施教者与被动接受容器 |
-> | **预期产出** | 自主建构的理性概念与[[Critical Thinking\|批判性思维]] | 破除无知与自相矛盾信念 | 标准化知识记忆与复述 |
-> | **主要应用[[Champ\|场域]]** | 现代中小学与大学探究式课堂 | 哲学思辨与[[Epistemology\|认识论]]审查 | 传统讲授型课堂 |
+> | **预期产出** | 自主建构的理性概念与[[Critical Thinking|批判性思维]] | 破除无知与自相矛盾信念 | 标准化知识记忆与复述 |
+> | **主要应用[[Champ|场域]]** | 现代中小学与大学探究式课堂 | 哲学思辨与[[Epistemology|认识论]]审查 | 传统讲授型课堂 |
 
 ---
 
@@ -131,9 +131,9 @@ updated: 2026-08-25
 > [!ma-table]- 一阶[[Meta-analysis|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与检验 | 关键解释边界 |
+> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity|异质性]]与检验 | 关键解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 干预因素：[[Socrates\|苏格拉底]][[Dialogue in Education\|对话]]对[[Critical Thinking\|批判性思维]]技能的促进效应 | $k = 8$ / $N = —$ | Hedges' $g+$ / 随机效应模型 | $g+ = 0.27$ $[-0.01, 0.55]$ | $Q(7) = 21.59, p = .003, I^2 = 67.58\%$ | 纳入实验与准实验；作为对话维度的细分子策略检验 |
+> | [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] | 干预因素：[[Socrates|苏格拉底]][[Dialogue in Education|对话]]对[[Critical Thinking|批判性思维]]技能的促进效应 | $k = 8$ / $N = —$ | Hedges' $g+$ / 随机效应模型 | $g+ = 0.27$ $[-0.01, 0.55]$ | $Q(7) = 21.59, p = .003, I^2 = 67.58\%$ | 纳入实验与准实验；作为对话维度的细分子策略检验 |
 
 ---
 

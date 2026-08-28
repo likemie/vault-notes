@@ -68,7 +68,7 @@ updated: 2026-07-13
 > | 理论工具 | 解释功能 |
 > |----------|----------|
 > | **[[Pavitt Taxonomy]]**<br>Pavitt 分类法 | 根据技术来源、用户需求和专有可能性将产业分为三类 |
-> | **[[Technological Trajectories\|技术轨迹理论]]**<br>Technological Trajectories | 不同产业沿不同的技术轨迹演进，由累积性学习和专有条件塑造 |
+> | **[[Technological Trajectories|技术轨迹理论]]**<br>Technological Trajectories | 不同产业沿不同的技术轨迹演进，由累积性学习和专有条件塑造 |
 
 ---
 ## 研究方法

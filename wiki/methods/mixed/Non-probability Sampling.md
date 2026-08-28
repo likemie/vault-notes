@@ -95,13 +95,13 @@ updated: 2026-06-22
 >
 > | 类型 | 英文 | 核心特征 | 典型应用 |
 > |---|---|---|---|
-> | [[Convenience Sampling\|便利抽样]] | Convenience Sampling | 选择最近便的个体；不追求代表性 | [[Case Study\|案例研究]]、问卷试点 |
-> | [[Quota Sampling\|配额抽样]] | Quota Sampling | 按总体比例代表显著特征；三步程序 | 已知比例但无法随机抽样 |
-> | [[Purposeful Sampling\|目的性抽样]] | Purposive Sampling | 手工挑选；三大类 14 种子类型 | [[Qualitative Research\|质性研究]]核心方法 |
-> | [[Dimensional Sampling\|维度抽样]] | Dimensional Sampling | 配额抽样的细化；多维交叉覆盖 | 多因素组合探索 |
-> | [[Snowball Sampling\|滚雪球抽样]] | Snowball Sampling | 社会网络逐层扩展；受访者驱动 | 难以接触人群、敏感话题 |
-> | [[Volunteer Sampling\|志愿者抽样]] | Volunteer Sampling | 依赖自愿参与者；最后选择 | 准入极度受限 |
-> | [[Theoretical Sampling\|理论抽样]] | Theoretical Sampling | [[Grounded Theory\|扎根理论]]核心；迭代至理论饱和 | 理论生成研究 |
+> | [[Convenience Sampling|便利抽样]] | Convenience Sampling | 选择最近便的个体；不追求代表性 | [[Case Study|案例研究]]、问卷试点 |
+> | [[Quota Sampling|配额抽样]] | Quota Sampling | 按总体比例代表显著特征；三步程序 | 已知比例但无法随机抽样 |
+> | [[Purposeful Sampling|目的性抽样]] | Purposive Sampling | 手工挑选；三大类 14 种子类型 | [[Qualitative Research|质性研究]]核心方法 |
+> | [[Dimensional Sampling|维度抽样]] | Dimensional Sampling | 配额抽样的细化；多维交叉覆盖 | 多因素组合探索 |
+> | [[Snowball Sampling|滚雪球抽样]] | Snowball Sampling | 社会网络逐层扩展；受访者驱动 | 难以接触人群、敏感话题 |
+> | [[Volunteer Sampling|志愿者抽样]] | Volunteer Sampling | 依赖自愿参与者；最后选择 | 准入极度受限 |
+> | [[Theoretical Sampling|理论抽样]] | Theoretical Sampling | [[Grounded Theory|扎根理论]]核心；迭代至理论饱和 | 理论生成研究 |
 
 ## 适用场景
 

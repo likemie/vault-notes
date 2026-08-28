@@ -78,9 +78,9 @@ updated: 2026-08-26
 ## 概念辨析
 
 > [!contrast-table] 概念辨析
-> | 维度 | 研究素养（德性与整合视角） | [[Teacher Professional Agency\|教师专业能动性]] | 传统研究技术技能 |
+> | 维度 | 研究素养（德性与整合视角） | [[Teacher Professional Agency|教师专业能动性]] | 传统研究技术技能 |
 > |------|--------------------------|----------------|----------------|
-> | **分析重点** | 与科研证据打交道时的[[Professional Judgment\|专业判断力]]与育人德性 | 教师在教学决策中行使自主裁决的能动空间 | 检索[[Document\|文献]]、阅读统计图表与撰写报告的操作技能 |
+> | **分析重点** | 与科研证据打交道时的[[Professional Judgment|专业判断力]]与育人德性 | 教师在教学决策中行使自主裁决的能动空间 | 检索[[Document|文献]]、阅读统计图表与撰写报告的操作技能 |
 > | **核心机制** | 技艺模型下的情境敏感度与多源知识整合 | 制度赋能与组织信任支持下的自主决断 | 流程性操作规范的训练与机械模仿 |
 > | **适用情境** | 教师在教学实践中遇到外部研究时的取舍过程 | 课程设计、教学法选择与评价改革全过程 | 具体的科研项目操作与数据统计任务 |
 
@@ -162,10 +162,10 @@ updated: 2026-08-26
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **技艺模型与再情境化** | 研究素养是调和有效性与适切性的专业德性 | 教学决策、循证课程改编、[[Reflexivity\|反思性]]教学实践 | Eriksen (2022); Mausethagen & Hermansen (2023) |
-> | **跨层系统赋能培养** | 研究素养的养成依赖职前与职后系统的协同支持 | 师范生培养、骨干教师培训、校本教研体系建设 | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] |
-> | **多源知识整合实践** | 超越技能赤字测度，强调育人伦理与知识动态权衡 | 教师科研素养评价、[[Evidence-Based Education\|循证教育]]改革反思 | [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] |
-> | **行为转化与知觉控制** | 技能是态度转化为行动的核心控制枢纽，科研与阅读具赋能效应 | 教师科研素养测评、校本研修与学术期刊阅读支持 | [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] |
+> | **技艺模型与再情境化** | 研究素养是调和有效性与适切性的专业德性 | 教学决策、循证课程改编、[[Reflexivity|反思性]]教学实践 | Eriksen (2022); Mausethagen & Hermansen (2023) |
+> | **跨层系统赋能培养** | 研究素养的养成依赖职前与职后系统的协同支持 | 师范生培养、骨干教师培训、校本教研体系建设 | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] |
+> | **多源知识整合实践** | 超越技能赤字测度，强调育人伦理与知识动态权衡 | 教师科研素养评价、[[Evidence-Based Education|循证教育]]改革反思 | [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]] |
+> | **行为转化与知觉控制** | 技能是态度转化为行动的核心控制枢纽，科研与阅读具赋能效应 | 教师科研素养测评、校本研修与学术期刊阅读支持 | [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|Kazancı Tınmaz & Sezgin (2023)]] |
 
 ---
 
@@ -186,11 +186,11 @@ updated: 2026-08-26
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] | 109 项学校[[Research Utilization\|研究使用]]实证研究 | [[Systematic Review\|系统综述]]＋框架综合 | 技能发展与个体能力主题报告频数 | k = 91 项研究（83%）涉及个体技能与素养 | — | 显示既有[[Document\|文献]]高度聚焦于个体技能测量，存在个体层面偏倚 |
-> | [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] | 34 项同行评议学术文献（1996–2024 年） | [[Critical Review\|批判性综述]]＋系统综述与元分析优先报告条目（Preferred Reporting Items for Systematic Reviews and Meta-Analyses, PRISMA）流程 | 研究素养调查设计与实证结论 | 13 项[[Questionnaire\|问卷调查]]均测出教师态度积极，但 100% 实证研究报告实际使用有限 | — | 表明仅测量个体研究素养无法解释实际使用困境，存在态度与行动的严重脱节 |
-> | [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] | 258 名土耳其中小学在职教师 | 横断面调查（[[Research Literacy Scale for Teachers\|教师研究素养量表]]（RLS）与验证性因子分析（CFA）及多变量方差分析（MANOVA）） | 教师研究素养 4 维度得分及做研究与期刊追踪赋能效应 | 态度均值最高（$M=4.37$），技能（$M=3.74$）与使用（$M=3.78$）偏低；做研究显著提升技能（$\eta^2=.056, p<.001$）；期刊追踪显著提升使用（$\eta^2=.046, p=.001$） | $\Delta\text{CFI} \le .003, \text{RMSEA}=0.060, \text{CFI}=0.94$ | 实证确立四因子二阶结构，证实态度与行为断层及科研经验赋能机制 |
+> | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] | 109 项学校[[Research Utilization|研究使用]]实证研究 | [[Systematic Review|系统综述]]＋框架综合 | 技能发展与个体能力主题报告频数 | k = 91 项研究（83%）涉及个体技能与素养 | — | 显示既有[[Document|文献]]高度聚焦于个体技能测量，存在个体层面偏倚 |
+> | [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]] | 34 项同行评议学术文献（1996–2024 年） | [[Critical Review|批判性综述]]＋系统综述与元分析优先报告条目（Preferred Reporting Items for Systematic Reviews and Meta-Analyses, PRISMA）流程 | 研究素养调查设计与实证结论 | 13 项[[Questionnaire|问卷调查]]均测出教师态度积极，但 100% 实证研究报告实际使用有限 | — | 表明仅测量个体研究素养无法解释实际使用困境，存在态度与行动的严重脱节 |
+> | [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|Kazancı Tınmaz & Sezgin (2023)]] | 258 名土耳其中小学在职教师 | 横断面调查（[[Research Literacy Scale for Teachers|教师研究素养量表]]（RLS）与验证性因子分析（CFA）及多变量方差分析（MANOVA）） | 教师研究素养 4 维度得分及做研究与期刊追踪赋能效应 | 态度均值最高（$M=4.37$），技能（$M=3.74$）与使用（$M=3.78$）偏低；做研究显著提升技能（$\eta^2=.056, p<.001$）；期刊追踪显著提升使用（$\eta^2=.046, p=.001$） | $\Delta\text{CFI} \le .003, \text{RMSEA}=0.060, \text{CFI}=0.94$ | 实证确立四因子二阶结构，证实态度与行为断层及科研经验赋能机制 |
 
 ---
 

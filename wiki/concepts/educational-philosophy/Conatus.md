@@ -83,7 +83,7 @@ updated: '2026-08-27'
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **内在自主学习与外部规训 of 冲突** | 论证学习本源于个体的欲力与情感流转，批判外在规训对主体存在力的压制 | [[Critical Pedagogy\|批判教育学]]、反规训教育理论与[[Critical Thinking\|批判性思维]]研究 | [[Argument_Cole_2005_JRIE\|Cole (2005)]] |
+> | **内在自主学习与外部规训 of 冲突** | 论证学习本源于个体的欲力与情感流转，批判外在规训对主体存在力的压制 | [[Critical Pedagogy|批判教育学]]、反规训教育理论与[[Critical Thinking|批判性思维]]研究 | [[Argument_Cole_2005_JRIE|Cole (2005)]] |
 
 ---
 

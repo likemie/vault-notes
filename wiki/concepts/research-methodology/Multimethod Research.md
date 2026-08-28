@@ -50,10 +50,10 @@ updated: 2026-06-02
 > [!example]
 > **多方法研究 vs [[Mixed Methods Research|混合方法研究]]**
 >
-> | 维度 | 多方法研究 | [[Mixed Methods Research\|混合方法研究]] |
+> | 维度 | 多方法研究 | [[Mixed Methods Research|混合方法研究]] |
 > |---|---|---|
 > | **数据类型** | 仅量化或仅质性 | 同时包含量化和质性 |
-> | **数据整合** | 不涉及跨类型整合 | 必须进行[[Integration in Mixed Methods\|整合]] |
+> | **数据整合** | 不涉及跨类型整合 | 必须进行[[Integration in Mixed Methods|整合]] |
 > | **核心操作** | 在同类方法内收集多种来源 | 收集两类数据并合并/连接/嵌入 |
 >
 > **多方法研究的典型实例**

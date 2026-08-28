@@ -68,15 +68,15 @@ updated: 2026-07-11
 Single-case design 在教育研究方法论中有两种截然不同的含义，分属不同方法论传统：
 
 > [!contrast-table] 量化实验 SCD 与[[Case Study|个案研究]]单案例设计
-> | 维度 | 量化实验 SCD（本条目） | 个案研究单案例设计（[[Case Study\|个案研究]]语境） |
+> | 维度 | 量化实验 SCD（本条目） | 个案研究单案例设计（[[Case Study|个案研究]]语境） |
 > |---|---|---|
-> | 方法论传统 | 量化实验，[[Campbellian Validity Framework]] | 质性/混合方法，[[Case Study\|个案研究]]方法论 |
+> | 方法论传统 | 量化实验，[[Campbellian Validity Framework]] | 质性/混合方法，[[Case Study|个案研究]]方法论 |
 > | 典型设计 | ABAB、多基线、交替处理 | 关键案例、极端案例、独特案例、启示性案例、纵向案例 |
 > | 分析单位 | 个体作为自身控制，重复测量 | 一个案例（可包含多个子分析单位） |
-> | [[Causality\|因果]]逻辑 | 通过撤除/引入干预排除替代解释 | 通过深度理解情境中的机制建立因果解释 |
-> | 推广方式 | 复制逻辑（跨被试、跨情境） | [[Analytic Generalization\|分析性推广]]，案例不是样本 |
-> | 代表[[Document\|文献]] | Kazdin (2011); [[Argument_Hitchcock_2015_JBE\|Hitchcock et al. (2015)]] | Yin (2009, pp. 46ff.); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14\|Cohen et al. (2011, Ch14)]] |
-> | 核心风险 | 推广性受限，单一研究不足以支撑[[Theories of Policy Change\|政策变革]] | 全有或全无风险，把所有鸡蛋放在一个篮子里 |
+> | [[Causality|因果]]逻辑 | 通过撤除/引入干预排除替代解释 | 通过深度理解情境中的机制建立因果解释 |
+> | 推广方式 | 复制逻辑（跨被试、跨情境） | [[Analytic Generalization|分析性推广]]，案例不是样本 |
+> | 代表[[Document|文献]] | Kazdin (2011); [[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015)]] | Yin (2009, pp. 46ff.); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14|Cohen et al. (2011, Ch14)]] |
+> | 核心风险 | 推广性受限，单一研究不足以支撑[[Theories of Policy Change|政策变革]] | 全有或全无风险，把所有鸡蛋放在一个篮子里 |
 
 本条目聚焦量化实验传统中的 SCD。个案研究中的单案例设计见 [[Case Study]] 和 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14|Cohen et al. (2011, Ch14)]]。
 
@@ -156,9 +156,9 @@ Single-case design 在教育研究方法论中有两种截然不同的含义，�
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Gating Procedure]] | 方法 | [[What Works Clearinghouse\|WWC]] 在 SCD 审查中采用的门控程序，只有通过[[Internal Validity\|内部效度]]门槛的研究才进入推广性评估 |
+> | [[Gating Procedure]] | 方法 | [[What Works Clearinghouse|WWC]] 在 SCD 审查中采用的门控程序，只有通过[[Internal Validity|内部效度]]门槛的研究才进入推广性评估 |
 > | [[5-3-20 Rule]] | 概念 | WWC 用于判断 SCD 证据充分性的阈值 |
-> | [[Educational Evidence Clearinghouses]] | 概念 | WWC 和 [[Home Visiting Evidence of Effectiveness\|HomVEE]] 展示了 SCD 如何被纳入证据清算中心的设计标准体系 |
+> | [[Educational Evidence Clearinghouses]] | 概念 | WWC 和 [[Home Visiting Evidence of Effectiveness|HomVEE]] 展示了 SCD 如何被纳入证据清算中心的设计标准体系 |
 > | [[What Works Clearinghouse]] | 事实 | 将 SCD 列为可纳入的影响研究设计，并使用门控程序与 5-3-20 规则审查 SCD 证据 |
 > | [[WWC SCD Pilot Standards]] | 事实 | SCD 在 WWC 审查体系中的专门技术标准，规范 WWC 如何审查 SCD 研究，但不等同于 SCD 方法本身 |
 

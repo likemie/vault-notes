@@ -62,7 +62,7 @@ Stevens 借鉴 Archer（2000）的 corporate agency 与 primary agency 区分来
 
 ### 两种类型对比
 
-| 维度 | 回避型（Stevens, 2019） | 建构型([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022]]) |
+| 维度 | 回避型（Stevens, 2019） | 建构型([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022]]) |
 |------|------------------------|----------------------------------|
 | 运作方向 | 被动回避证据 | 主动建构替代话语 |
 | 核心机制 | 去人性化他者 | 扭曲技术语言为道德判断 |

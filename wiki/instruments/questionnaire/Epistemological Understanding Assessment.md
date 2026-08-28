@@ -69,7 +69,7 @@ updated: 2026-08-17
 > |---|---|---|---|
 > | 个人品味 (Personal taste) | 3 | 测量在高度主观偏好情境下的绝对/多元/评价取向 | 分类计分（3题中有2题符合某一阶段模式，则划归该阶段） |
 > | 审美判断 (Aesthetic judgments) | 3 | 测量在艺术和美学评价情境下的取向 | 分类计分 |
-> | 价值观判断 ([[VALUE Rubrics\|VALUE]] judgments) | 3 | 测量在道德与规范议题中的取向 | 分类计分 |
+> | 价值观判断 ([[VALUE Rubrics|VALUE]] judgments) | 3 | 测量在道德与规范议题中的取向 | 分类计分 |
 > | 社会事实 (Truth about social world) | 3 | 测量在社会科学事实探究中的取向 | 分类计分 |
 > | 物理事实 (Truth about physical world) | 3 | 测量在自然科学客观事实情境下的取向 | 分类计分 |
 
@@ -95,7 +95,7 @@ updated: 2026-08-17
 >
 > | 编号 | 题项 | 作答选项 | 计分 | 来源 |
 > |---|---|---|---|---|
-> | 1 | Robin says warm summer days are nicest.<br>Chris says cool autumn days are nicest.<br>*(Robin 说温暖的夏日最棒。 / Chris 说凉爽的秋日最棒。)* | 两步选择 | 阶段分类 | [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000, p. 317)]] |
+> | 1 | Robin says warm summer days are nicest.<br>Chris says cool autumn days are nicest.<br>*(Robin 说温暖的夏日最棒。 / Chris 说凉爽的秋日最棒。)* | 两步选择 | 阶段分类 | [[Argument_Kuhn_2000_CD|Kuhn et al. (2000, p. 317)]] |
 > | 2 | Robin says the stew is spicy.<br>Chris says the stew is not spicy at all.<br>*(Robin 说这道炖菜很辣。 / Chris 说这道炖菜一点也不辣。)* | 两步选择 | 阶段分类 | 同上 |
 > | 3 | Robin thinks weddings should be held in the afternoon.<br>Chris thinks weddings should be held in the evening.<br>*(Robin 认为婚礼应该在下午举行。 / Chris 认为婚礼应该在晚上举行。)* | 两步选择 | 阶段分类 | 同上 |
 
@@ -106,7 +106,7 @@ updated: 2026-08-17
 >
 > | 编号 | 题项 | 作答选项 | 计分 | 来源 |
 > |---|---|---|---|---|
-> | 4 | Robin thinks the first piece of music they listen to is better.<br>Chris thinks the second piece of music they listen to is better.<br>*(Robin 认为他们听的第一首乐曲更好。 / Chris 认为他们听的第二首乐曲更好。)* | 两步选择 | 阶段分类 | [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000, p. 317)]] |
+> | 4 | Robin thinks the first piece of music they listen to is better.<br>Chris thinks the second piece of music they listen to is better.<br>*(Robin 认为他们听的第一首乐曲更好。 / Chris 认为他们听的第二首乐曲更好。)* | 两步选择 | 阶段分类 | [[Argument_Kuhn_2000_CD|Kuhn et al. (2000, p. 317)]] |
 > | 5 | Robin thinks the first painting they look at is better.<br>Chris thinks the second painting they look at is better.<br>*(Robin 认为他们看的第一幅画更好。 / Chris 认为他们看的第二幅画更好。)* | 两步选择 | 阶段分类 | 同上 |
 > | 6 | Robin thinks the first book they both read is better.<br>Chris thinks the second book they both read is better.<br>*(Robin 认为他们俩读的第一本书更好。 / Chris 认为他们俩读的第二本书更好。)* | 两步选择 | 阶段分类 | 同上 |
 
@@ -117,7 +117,7 @@ updated: 2026-08-17
 >
 > | 编号 | 题项 | 作答选项 | 计分 | 来源 |
 > |---|---|---|---|---|
-> | 7 | Robin thinks people should take responsibility for themselves.<br>Chris thinks people should work together to take care of each other.<br>*(Robin 认为人们应该为自己负责。 / Chris 认为人们应该齐心协力互相照顾。)* | 两步选择 | 阶段分类 | [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000, p. 317)]] |
+> | 7 | Robin thinks people should take responsibility for themselves.<br>Chris thinks people should work together to take care of each other.<br>*(Robin 认为人们应该为自己负责。 / Chris 认为人们应该齐心协力互相照顾。)* | 两步选择 | 阶段分类 | [[Argument_Kuhn_2000_CD|Kuhn et al. (2000, p. 317)]] |
 > | 8 | Robin thinks lying is wrong.<br>Chris thinks lying is permissible in certain situations.<br>*(Robin 认为撒谎是错的。 / Chris 认为撒谎在某些情况下是允许的。)* | 两步选择 | 阶段分类 | 同上 |
 > | 9 | Robin thinks the government should limit the number of children families are allowed to have to keep the population from getting too big.<br>Chris thinks families should have as many children as they choose.<br>*(Robin 认为政府应该限制家庭生育孩子的数量以防止人口过剩。 / Chris 认为家庭应该有权决定生育多少孩子。)* | 两步选择 | 阶段分类 | 同上 |
 
@@ -128,7 +128,7 @@ updated: 2026-08-17
 >
 > | 编号 | 题项 | 作答选项 | 计分 | 来源 |
 > |---|---|---|---|---|
-> | 10 | Robin has one view of why criminals keep going back to crime.<br>Chris has a different view of why criminals keep going back to crime.<br>*(Robin 对犯罪分子为何屡教不改有一种看法。 / Chris 对犯罪分子为何屡教不改有另一种看法。)* | 两步选择 | 阶段分类 | [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000, p. 317)]] |
+> | 10 | Robin has one view of why criminals keep going back to crime.<br>Chris has a different view of why criminals keep going back to crime.<br>*(Robin 对犯罪分子为何屡教不改有一种看法。 / Chris 对犯罪分子为何屡教不改有另一种看法。)* | 两步选择 | 阶段分类 | [[Argument_Kuhn_2000_CD|Kuhn et al. (2000, p. 317)]] |
 > | 11 | Robin thinks one book’s explanation of why the Crimean wars began is right.<br>Chris thinks another book’s explanation of why the Crimean wars began is right.<br>*(Robin 认为一本书关于克里米亚战争起因的解释是正确的。 / Chris 认为另一本书关于克里米亚战争起因的解释是正确的。)* | 两步选择 | 阶段分类 | 同上 |
 > | 12 | Robin agrees with one book’s explanation of how children learn language.<br>Chris agrees with another book’s explanation of how children learn language.<br>*(Robin 赞同一本书对儿童如何学习语言的解释。 / Chris 赞同另一本书对儿童如何学习语言的解释。)* | 两步选择 | 阶段分类 | 同上 |
 
@@ -139,9 +139,9 @@ updated: 2026-08-17
 >
 > | 编号 | 题项 | 作答选项 | 计分 | 来源 |
 > |---|---|---|---|---|
-> | 13 | Robin believes one book’s explanation of what atoms are made up of.<br>Chris believes another book’s explanation of what atoms are made up of.<br>*(Robin 相信一本书关于原子构成要素的解释。 / Chris 相信另一本书关于原子构成要素的解释。)* | 两步选择 | 阶段分类 | [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000, p. 317)]] |
+> | 13 | Robin believes one book’s explanation of what atoms are made up of.<br>Chris believes another book’s explanation of what atoms are made up of.<br>*(Robin 相信一本书关于原子构成要素的解释。 / Chris 相信另一本书关于原子构成要素的解释。)* | 两步选择 | 阶段分类 | [[Argument_Kuhn_2000_CD|Kuhn et al. (2000, p. 317)]] |
 > | 14 | Robin believes one book’s explanation of how the brain works.<br>Chris believes another book’s explanation of how the brain works.<br>*(Robin 相信一本书关于大脑如何运作的解释。 / Chris 相信另一本书关于大脑如何运作的解释。)* | 两步选择 | 阶段分类 | 同上 |
-> | 15 | Robin believes one mathematician’s proof of the math formula is right.<br>Chris believes another mathematician’s proof of the math formula is right.<br>*(Robin 相信一位数学家对该数学公式的证明是正确的。 / Chris 相信另一位数学家对该数学公式的证明是正确的。)* | 两步选择 | 阶段分类 | [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000, p. 318)]] |
+> | 15 | Robin believes one mathematician’s proof of the math formula is right.<br>Chris believes another mathematician’s proof of the math formula is right.<br>*(Robin 相信一位数学家对该数学公式的证明是正确的。 / Chris 相信另一位数学家对该数学公式的证明是正确的。)* | 两步选择 | 阶段分类 | [[Argument_Kuhn_2000_CD|Kuhn et al. (2000, p. 318)]] |
 
 ---
 
@@ -152,7 +152,7 @@ updated: 2026-08-17
 >
 > | 研究 | 工具版本 | 样本与用途 | 测量属性 | 关键结果 |
 > |---|---|---|---|---|
-> | [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]] | 原始 15 题英文版 | N=129，涵盖小学五年级至研究生及成人的跨年龄样本，用于探讨跨领域的[[Epistemology\|认识论]]发展规律。 | — | 发现了不同领域的认识论演进具有高度的领域非同步性：事实领域的成熟最晚但也最易达到评价论，而价值观和审美领域的评价论在成人中极其罕见。 |
+> | [[Argument_Kuhn_2000_CD|Kuhn et al. (2000)]] | 原始 15 题英文版 | N=129，涵盖小学五年级至研究生及成人的跨年龄样本，用于探讨跨领域的[[Epistemology|认识论]]发展规律。 | — | 发现了不同领域的认识论演进具有高度的领域非同步性：事实领域的成熟最晚但也最易达到评价论，而价值观和审美领域的评价论在成人中极其罕见。 |
 
 ---
 
@@ -163,4 +163,4 @@ updated: 2026-08-17
 >
 > | 版本 | 语言与地区 | 目标人群 | 题项数 | 主要变化 | 来源 |
 > |---|---|---|---|---|---|
-> | 原始版 | 英语（美国） | 中小学生与成人 | 15 | 原始结构 | [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]] |
+> | 原始版 | 英语（美国） | 中小学生与成人 | 15 | 原始结构 | [[Argument_Kuhn_2000_CD|Kuhn et al. (2000)]] |

@@ -68,7 +68,7 @@ updated: 2026-08-27
 > | 核心维度 | 测量内容 | 题项样例 |
 > |---|---|---|
 > | **高级学习（Higher-Order Learning）** | 考核课程要求学生应用理论、分析数值/文本证据、评估对立观点以及形成新见解的频率与深度。 | “课程要求您将概念应用于实际问题解决的程度”；“课程要求您评估论据有效性的程度”。 |
-> | **[[Reflexivity\|反思性]]与整合性学习（Reflective & Integrative Learning）** | 跨学科联系知识、结合多重视角审视问题、反思自身先入之见的实践频率。 | “将不同学科的观念整合进[[Homework\|作业]]中”；“依据新证据改变个人原有理解”。 |
+> | **[[Reflexivity|反思性]]与整合性学习（Reflective & Integrative Learning）** | 跨学科联系知识、结合多重视角审视问题、反思自身先入之见的实践频率。 | “将不同学科的观念整合进[[Homework|作业]]中”；“依据新证据改变个人原有理解”。 |
 > | **定量推理（Quantitative Reasoning）** | 运用数据图表解决复杂社会或学术现实问题的能力。 | “使用统计数据得出合乎逻辑的结论”。 |
 > | **学术挑战与生师互动（Academic Challenge & Faculty Interaction）** | 课程阅读量、学术写作负荷以及与教师就课程反馈与学术研究开展深度互动的频次。 | “与教授讨论职业规划与学术课题”。 |
 
@@ -89,7 +89,7 @@ updated: 2026-08-27
 >
 > | 研究 | 工具版本 | 样本与用途 | 测量属性 | 关键结果 |
 > |---|---|---|---|---|
-> | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] | NSSE 指标框架 | [[OECD]] 报告分析国家级学生调查作为高教质量监测信息工具的全球演进[[Paradigm\|范式]] | 全球[[Student Engagement\|学生投入]]基准调查 | 证实 NSSE 高级学习分量表为各国监测[[Higher-Order Thinking Skills\|高阶思维]]教学提供了最具代表性的实证工具母体 |
+> | [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] | NSSE 指标框架 | [[OECD]] 报告分析国家级学生调查作为高教质量监测信息工具的全球演进[[Paradigm|范式]] | 全球[[Student Engagement|学生投入]]基准调查 | 证实 NSSE 高级学习分量表为各国监测[[Higher-Order Thinking Skills|高阶思维]]教学提供了最具代表性的实证工具母体 |
 
 ---
 

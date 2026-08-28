@@ -42,7 +42,7 @@ updated: 2026-06-01
 ## 概念辨析
 
 > [!example]
-> - vs [[Peer Debriefing\|同行审议]] — 同行审议者通常对研究领域有一定了解，提出基于内容的问题；外部审计者不熟悉研究者或项目，提供的是更客观的、程序性的评估。外部审计审视的范围也更广——涵盖[[Transcription in Qualitative Research|转录]]准确性、[[Research Question|研究问题]]与数据的关系、从原始数据到解释的分析层次等多个方面。
+> - vs [[Peer Debriefing|同行审议]] — 同行审议者通常对研究领域有一定了解，提出基于内容的问题；外部审计者不熟悉研究者或项目，提供的是更客观的、程序性的评估。外部审计审视的范围也更广——涵盖[[Transcription in Qualitative Research|转录]]准确性、[[Research Question|研究问题]]与数据的关系、从原始数据到解释的分析层次等多个方面。
 
 外部审计审视的主要方面（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9）：
 - 转录的准确性

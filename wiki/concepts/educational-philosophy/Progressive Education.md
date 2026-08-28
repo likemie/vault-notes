@@ -93,11 +93,11 @@ updated: 2026-08-25
 ## 概念辨析
 
 > [!contrast-table] 概念辨析
-> | 维度 | 进步主义教育（Progressive Education） | 传统服从式讲授法（Traditional Gymnasium Style） | [[Learner-Centred Education\|以学生为中心教育（LCE）]] | [[Direct Instruction\|直接教学]]法 / 认知负荷取向（Direct Instruction） |
+> | 维度 | 进步主义教育（Progressive Education） | 传统服从式讲授法（Traditional Gymnasium Style） | [[Learner-Centred Education|以学生为中心教育（LCE）]] | [[Direct Instruction|直接教学]]法 / 认知负荷取向（Direct Instruction） |
 > |---|---|---|---|---|
-> | **分析重点** | 以[[Experiential Learning\|经验学习]]与民主育人为核心的社会教育运动 | 以教师权威、纪律服从与文本背诵为核心的旧式体系 | 强调学生认知参与、自主探究与对话互动的教学[[Paradigm\|范式]] | 基于人类认知架构、强调清晰讲解与引导练习的教学法 |
-> | **核心机制** | 项目活动课程、经验建构、民主合作与社会参与 | 统一分配阅读、轮流朗读、教师提问与背诵抽查 | 诊断引导、[[Dialogue in Education\|对话]]教学、提分效率与高阶思维解构 | 显性讲解、架构支撑（scaffolding）、自动化练习 |
-> | **教育目标** | 培养能参与和塑造民主社会的积极公民 | 培养服从规则、掌握标准知识的社会成员 | 提升学生[[Learner Autonomy\|自主学习]]效能与高压考试环境下的吸收率 | 减轻[[Working Memory\|工作记忆]]负荷、高效率掌握基础知识与技能 |
+> | **分析重点** | 以[[Experiential Learning|经验学习]]与民主育人为核心的社会教育运动 | 以教师权威、纪律服从与文本背诵为核心的旧式体系 | 强调学生认知参与、自主探究与对话互动的教学[[Paradigm|范式]] | 基于人类认知架构、强调清晰讲解与引导练习的教学法 |
+> | **核心机制** | 项目活动课程、经验建构、民主合作与社会参与 | 统一分配阅读、轮流朗读、教师提问与背诵抽查 | 诊断引导、[[Dialogue in Education|对话]]教学、提分效率与高阶思维解构 | 显性讲解、架构支撑（scaffolding）、自动化练习 |
+> | **教育目标** | 培养能参与和塑造民主社会的积极公民 | 培养服从规则、掌握标准知识的社会成员 | 提升学生[[Learner Autonomy|自主学习]]效能与高压考试环境下的吸收率 | 减轻[[Working Memory|工作记忆]]负荷、高效率掌握基础知识与技能 |
 > | **知识与教师观** | 知识在经验活动中建构；教师为促进者与活动设计者 | 知识为确定性权威符号；教师为统治者与检查者 | 知识在对话中深化；教师为促进者与提分架构师 | 知识为系统性认知结构；教师为专家指导者 |
 
 ---
@@ -131,8 +131,8 @@ updated: 2026-08-25
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **教学重构与民主育人** | 进步教育旨在通过项目与经验活动重构教学[[Paradigm\|范式]]，以培养能积极参与和塑造民主社会的独立公民 | 教学改革、课程设计与教育哲学比较 | Zilversmit（1993）；[[Argument_Li_2012_Cambridge\|Li (2012)]]；[[Argument_Yan_2025_JCS\|Yan & Morris (2025, Ch4)]] |
-> | **跨国传播与本土[[Recontextualization\|再脉络化]]** | 进步教育思想在跨国传播中经历[[Heterogeneity\|异质性]]再脉络化，演化出社会主义改造、[[Pragmatic Paradigm\|实用主义]]提分与政策修辞等多重本土形态 | 比较教育学、[[Policy Borrowing\|政策借用]]、教育历史接受史 | [[Argument_Ryabyy_2024_Maneto\|Ryabyy (2024, pp. 103–104)]]；[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]]；[[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]]；[[Argument_Cowen_2009_CE\|Cowen (2009)]] |
+> | **教学重构与民主育人** | 进步教育旨在通过项目与经验活动重构教学[[Paradigm|范式]]，以培养能积极参与和塑造民主社会的独立公民 | 教学改革、课程设计与教育哲学比较 | Zilversmit（1993）；[[Argument_Li_2012_Cambridge|Li (2012)]]；[[Argument_Yan_2025_JCS|Yan & Morris (2025, Ch4)]] |
+> | **跨国传播与本土[[Recontextualization|再脉络化]]** | 进步教育思想在跨国传播中经历[[Heterogeneity|异质性]]再脉络化，演化出社会主义改造、[[Pragmatic Paradigm|实用主义]]提分与政策修辞等多重本土形态 | 比较教育学、[[Policy Borrowing|政策借用]]、教育历史接受史 | [[Argument_Ryabyy_2024_Maneto|Ryabyy (2024, pp. 103–104)]]；[[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]]；[[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]]；[[Argument_Cowen_2009_CE|Cowen (2009)]] |
 
 ---
 
@@ -215,13 +215,13 @@ updated: 2026-08-25
 > [!ref-table]- 其他实证结果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Ryabyy_2024_Maneto\|Ryabyy (2024)]] | 1920–1930 年代美苏进步教育交流历史[[Document\|文献]]、Dewey and Shatskii 通信 | 历史比较与[[Documentary Analysis\|文献分析]] | 进步教育方法、民主 vs 阶级意识育人目标、跨国接触 | Shatskii 在苏俄建成了规模最大的农村进步教育实验，但因阶级意识分歧于 1930 年代被官方全面否定 | [[Historical Document Analysis of Curriculum\|历史文献分析]] — | 聚焦美苏早期进步教育交流史 |
-> | [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] | 中国 1919–2009 年近百年间关于[[John Dewey\|杜威]]教育思想的文献与论述 | 历史[[Recontextualization\|再脉络化]]追踪与文献分析 | 意识形态议程、个人网络、外来思想元素的拾取/忽略/扭曲 | 杜威思想经历了民国反迷信武器、毛泽东时代批判魔鬼、1980s 现代化旗帜到当代[[Quality Education\|素质教育]]代言人的四次质变再脉络化 | 历史文献分析 — | 聚焦特定思想家在中国的接受史 |
-> | [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]] | 华北某区域 4 所案例学校（2 城市、2 农村），4 校长 9 骨干教师 | 质性多[[Case Study\|案例研究]]（Case Study），结合第三代活动理论 | [[Test-Based Accountability\|考试问责]]、[[Learner-Centred Education\|LCE]]/进步教育系统、共享目标解码与权力共享边界 | 谋求突破的学校成功将进步探究法[[Pragmatic Paradigm\|实用主义]]地再脉络化为攻克高阶考题或提升 45 分钟效率的工具，但受限于高考大纲而排除了学生共决课程的权力维度 | 质性转录与[[Qualitative Observation\|田野观察]] — | 展现了高利害考试环境下外来教学法本土再脉络化的机制与硬边界 |
-> | [[Argument_Cowen_2009_CE\|Cowen (2009)]] | 战后占领期日本与西德美占区教育改革档案与立法记录 | 比较教育转移与[[Transfer Translation Transformation\|转译]]分析 | 美式学制与进步教育指令、地方政治文化、转译修辞 | 日本顺应美式指令转译为民主重生与行政效能结合，西德保守精英以学术标准为名联合抵制综合中学 | 历史比较分析 — | 揭示战后美式进步教育移植的[[Heterogeneity\|异质性]]结果 |
-> | [[Argument_Yan_2025_JCS\|Yan & Morris (2025)]] | 香港[[General Education\|通识教育]]（LS）1990s–2020s 创立与废除全过程官方文档与立法记录 | 课程政策历史分析，结合 Cuban 3 因素框架 | 进步教育运动、国家安全/新冷战、立法协商 | 创立阶段政府将进步教育探究法包装为全球趋势修辞；废除阶段国家安全上升为决定性力量 | 课程政策分析 — | 揭示了进步教育话语在课程政治中的修辞功能 |
+> | [[Argument_Ryabyy_2024_Maneto|Ryabyy (2024)]] | 1920–1930 年代美苏进步教育交流历史[[Document|文献]]、Dewey and Shatskii 通信 | 历史比较与[[Documentary Analysis|文献分析]] | 进步教育方法、民主 vs 阶级意识育人目标、跨国接触 | Shatskii 在苏俄建成了规模最大的农村进步教育实验，但因阶级意识分歧于 1930 年代被官方全面否定 | [[Historical Document Analysis of Curriculum|历史文献分析]] — | 聚焦美苏早期进步教育交流史 |
+> | [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] | 中国 1919–2009 年近百年间关于[[John Dewey|杜威]]教育思想的文献与论述 | 历史[[Recontextualization|再脉络化]]追踪与文献分析 | 意识形态议程、个人网络、外来思想元素的拾取/忽略/扭曲 | 杜威思想经历了民国反迷信武器、毛泽东时代批判魔鬼、1980s 现代化旗帜到当代[[Quality Education|素质教育]]代言人的四次质变再脉络化 | 历史文献分析 — | 聚焦特定思想家在中国的接受史 |
+> | [[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]] | 华北某区域 4 所案例学校（2 城市、2 农村），4 校长 9 骨干教师 | 质性多[[Case Study|案例研究]]（Case Study），结合第三代活动理论 | [[Test-Based Accountability|考试问责]]、[[Learner-Centred Education|LCE]]/进步教育系统、共享目标解码与权力共享边界 | 谋求突破的学校成功将进步探究法[[Pragmatic Paradigm|实用主义]]地再脉络化为攻克高阶考题或提升 45 分钟效率的工具，但受限于高考大纲而排除了学生共决课程的权力维度 | 质性转录与[[Qualitative Observation|田野观察]] — | 展现了高利害考试环境下外来教学法本土再脉络化的机制与硬边界 |
+> | [[Argument_Cowen_2009_CE|Cowen (2009)]] | 战后占领期日本与西德美占区教育改革档案与立法记录 | 比较教育转移与[[Transfer Translation Transformation|转译]]分析 | 美式学制与进步教育指令、地方政治文化、转译修辞 | 日本顺应美式指令转译为民主重生与行政效能结合，西德保守精英以学术标准为名联合抵制综合中学 | 历史比较分析 — | 揭示战后美式进步教育移植的[[Heterogeneity|异质性]]结果 |
+> | [[Argument_Yan_2025_JCS|Yan & Morris (2025)]] | 香港[[General Education|通识教育]]（LS）1990s–2020s 创立与废除全过程官方文档与立法记录 | 课程政策历史分析，结合 Cuban 3 因素框架 | 进步教育运动、国家安全/新冷战、立法协商 | 创立阶段政府将进步教育探究法包装为全球趋势修辞；废除阶段国家安全上升为决定性力量 | 课程政策分析 — | 揭示了进步教育话语在课程政治中的修辞功能 |
 
 ---
 

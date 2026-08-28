@@ -122,10 +122,10 @@ issuing_organization: ""
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **认知发展阶段图式**<br>[[Perry's Scheme of Intellectual and Ethical Development\|Perry's Scheme of Intellectual and Ethical Development]] | 将[[Epistemology\|认识论]]发展界定为从二元论（非黑即白、权威掌握绝对真理）、多元论到相对主义与承诺的单向演进过程；主张教育环境通过“涵化（[[Enculturation]]）”机制重塑学生的认识论思维。 |
-> | **多维认识论信念体系**<br>[[Epistemological Beliefs\|Epistemological Beliefs]] | Schommer (1990) 打破阶段论假说，提出多维独立信念模型；[[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] 进一步提炼出“知识的本质”与“认知的本质”四大核心维度，确立[[Certainty of Knowledge\|知识的确定性]]（Certainty of Knowledge）为认知成熟度的核心指标。 |
-> | **反思性判断模型**<br>Reflective Judgment Model | King & Kitchener (1994) 构建反思性判断模型（Reflective Judgment Model，RJM），阐明个体如何从前反思阶段（确信知识是确定给定的）过渡到准反思阶段（承认知识具有不确定性），最终达成[[Reflexivity\|反思性]]判断（在语境与证据中建构概率性判断）。 |
-> | **学科分类与生命历程模型**<br>[[Biglan's Disciplinary Classification Scheme\|Biglan's Disciplinary Classification Scheme]] | [[Biglan's Disciplinary Classification Scheme\|Biglan (1973)]] 与 Jehng et al. (1993) 的“硬科学 vs. 软科学”学科文化分类，结合 Pulkkinen & Caspi (2002) 的生命历程发展模型，提供区分个体先验特质主动匹配（自我选择）与[[Disciplinary Socialization\|学科社会化]]（环境规范持续塑造）的分析框架。 |
+> | **认知发展阶段图式**<br>[[Perry's Scheme of Intellectual and Ethical Development|Perry's Scheme of Intellectual and Ethical Development]] | 将[[Epistemology|认识论]]发展界定为从二元论（非黑即白、权威掌握绝对真理）、多元论到相对主义与承诺的单向演进过程；主张教育环境通过“涵化（[[Enculturation]]）”机制重塑学生的认识论思维。 |
+> | **多维认识论信念体系**<br>[[Epistemological Beliefs|Epistemological Beliefs]] | Schommer (1990) 打破阶段论假说，提出多维独立信念模型；[[Argument_Hofer_1997_RER|Hofer & Pintrich (1997)]] 进一步提炼出“知识的本质”与“认知的本质”四大核心维度，确立[[Certainty of Knowledge|知识的确定性]]（Certainty of Knowledge）为认知成熟度的核心指标。 |
+> | **反思性判断模型**<br>Reflective Judgment Model | King & Kitchener (1994) 构建反思性判断模型（Reflective Judgment Model，RJM），阐明个体如何从前反思阶段（确信知识是确定给定的）过渡到准反思阶段（承认知识具有不确定性），最终达成[[Reflexivity|反思性]]判断（在语境与证据中建构概率性判断）。 |
+> | **学科分类与生命历程模型**<br>[[Biglan's Disciplinary Classification Scheme|Biglan's Disciplinary Classification Scheme]] | [[Biglan's Disciplinary Classification Scheme|Biglan (1973)]] 与 Jehng et al. (1993) 的“硬科学 vs. 软科学”学科文化分类，结合 Pulkkinen & Caspi (2002) 的生命历程发展模型，提供区分个体先验特质主动匹配（自我选择）与[[Disciplinary Socialization|学科社会化]]（环境规范持续塑造）的分析框架。 |
 
 > [!warrant]- 理论如何支撑论证
 > 理论框架为研究提供了双重推论逻辑：一方面，认识论信念作为指导学习与认知加工的“个人理论”，其成熟度决定了学生在面对劣构问题和复杂学术材料时的[[Metacognition|元认知]]监控与深层加工策略，因而能直接转化为[[Academic Achievement|学业表现]]差距；另一方面，不同学科在知识确定性上的认识论文化差异，既成为中学生依据自身信念进行学科选择的过滤网（自我选择），又在入学后通过学科训练持续塑造和极化学生的认知取向（[[Disciplinary Socialization|学科社会化]]）。
@@ -176,7 +176,7 @@ issuing_organization: ""
 ### 学科认识论分化的理论模型：自我选择 vs. 学科社会化
 
 > [!contrast-table] 学科认识论分化的两大竞争性[[Theoretical Perspective|理论视角]]
-> | 分析维度 | 自我选择假说（Self-Selection [[Hypothesis]]） | [[Disciplinary Socialization\|学科社会化假说（Socialization Hypothesis）]] |
+> | 分析维度 | 自我选择假说（Self-Selection [[Hypothesis]]） | [[Disciplinary Socialization|学科社会化假说（Socialization Hypothesis）]] |
 > |----------|-----------------------------------------|----------------------------------------------------------|
 > | **理论源起** | 生命历程发展模型（Pulkkinen & Caspi, 2002） | 认知涵化理论（Perry, 1970; Jehng et al., 1993） |
 > | **发生时序** | 进入大学前（中学毕业阶段） | 进入大学后（大学就读期间） |
@@ -191,17 +191,17 @@ issuing_organization: ""
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **追踪设计**<br>[[Longitudinal Study\|Longitudinal Study]] | 依托 [[TOSCA]] 项目采用两波前瞻性面板设计。时间点 1（T1）在高中毕业年（2002 年 2–5 月）进行学校现场施测；时间点 2（T2）在升入大学两年后通过邮寄问卷进行追踪调查。 |
-> | **信念测量**<br>[[Global Certainty Scale\|Global Certainty Scale]] | 使用改编自 Hofer (2000)、Schommer (1990) 及 Schiefele et al. (2002) 的 7 题全局确定性量表（详见 [[Global Certainty Scale]]），4 点李克特（Likert）计分。涵盖科学理论可证伪性与绝对真理信念，适用于泛科学领域。 |
-> | **能力与背景测量**<br>[[Cognitive Ability Test KFT\|Cognitive Ability Test KFT]] & Background Assessment | 认知推理能力采用德国认知能力测验（Kognitiver Fähigkeitstest，[[Cognitive Ability Test KFT\|KFT 4-13+R]]）（图形类比 Figure Analogies 25 题 + 言语类比 Verbal Analogies 20 题），通过 ConQuest 软件进行项目反应理论（Item Response Theory，IRT）潜变量估计（复本信度 $R_{TT} = .91$）并构建 5 个平衡题包（Test Parcels）；家庭 SES 依据国际标准职业分类（International Standard Classification of Occupations 1988，ISCO-88）转化为国际职业社会经济地位指数（International Socio-Economic Index of Occupational Status，ISEI）；[[Cultural Capital\|文化资本]]（Cultural Capital）采用家庭藏书量自陈指标；学业成就采用官方学校档案中的高中毕业总评成绩（Abiturgesamtnote）。 |
-> | **因果与结构建模**<br>[[Causal Modeling\|Causal Modeling]] | 使用 Mplus 3.1 软件构建潜[[Variable\|变量]]结构方程模型（Structural Equation Modeling，SEM）。利用复杂抽样校正（Type=Complex）校正学校层面的组内相关系数（Intraclass Correlation Coefficient，ICC < .10）聚类效应；在跨期回归中控制 T1 初始信念以估计学科对认识论信念变化的净效应。 |
+> | **追踪设计**<br>[[Longitudinal Study|Longitudinal Study]] | 依托 [[TOSCA]] 项目采用两波前瞻性面板设计。时间点 1（T1）在高中毕业年（2002 年 2–5 月）进行学校现场施测；时间点 2（T2）在升入大学两年后通过邮寄问卷进行追踪调查。 |
+> | **信念测量**<br>[[Global Certainty Scale|Global Certainty Scale]] | 使用改编自 Hofer (2000)、Schommer (1990) 及 Schiefele et al. (2002) 的 7 题全局确定性量表（详见 [[Global Certainty Scale]]），4 点李克特（Likert）计分。涵盖科学理论可证伪性与绝对真理信念，适用于泛科学领域。 |
+> | **能力与背景测量**<br>[[Cognitive Ability Test KFT|Cognitive Ability Test KFT]] & Background Assessment | 认知推理能力采用德国认知能力测验（Kognitiver Fähigkeitstest，[[Cognitive Ability Test KFT|KFT 4-13+R]]）（图形类比 Figure Analogies 25 题 + 言语类比 Verbal Analogies 20 题），通过 ConQuest 软件进行项目反应理论（Item Response Theory，IRT）潜变量估计（复本信度 $R_{TT} = .91$）并构建 5 个平衡题包（Test Parcels）；家庭 SES 依据国际标准职业分类（International Standard Classification of Occupations 1988，ISCO-88）转化为国际职业社会经济地位指数（International Socio-Economic Index of Occupational Status，ISEI）；[[Cultural Capital|文化资本]]（Cultural Capital）采用家庭藏书量自陈指标；学业成就采用官方学校档案中的高中毕业总评成绩（Abiturgesamtnote）。 |
+> | **因果与结构建模**<br>[[Causal Modeling|Causal Modeling]] | 使用 Mplus 3.1 软件构建潜[[Variable|变量]]结构方程模型（Structural Equation Modeling，SEM）。利用复杂抽样校正（Type=Complex）校正学校层面的组内相关系数（Intraclass Correlation Coefficient，ICC < .10）聚类效应；在跨期回归中控制 T1 初始信念以估计学科对认识论信念变化的净效应。 |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |----------|------|
 > | **T1 调查样本** | 依托 [[TOSCA]] 项目抽自德国巴登-符腾堡州 90 所代表性高级文理中学（Gymnasium，占同龄人口前 30% 精英选拔序列），学校参与率 100%，学生参与率 > 80%；有效样本 $N = 2854$（男生 45%，平均年龄 19.29 岁，标准差 Standard Deviation $SD = 0.79$）。 |
 > | **T2 追踪样本** | 1886 名学生（66.4%）签署追踪知情同意书，两年后回收问卷 1495 份；最终纳入可清晰归类大学专业的有效纵向追踪样本 $N = 1094$（分布于全德近 100 所大学）。 |
-> | **专业分类分布** | 依据德国联邦统计局官方学科分类（Statistisches Bundesamt, 2001）与 [[Biglan's Disciplinary Classification Scheme\|Biglan 学科分类理论]]划分为七大主要学科门类：人文艺术（257 人，基准组）、数学与自然科学（241 人）、商科/经济（203 人）、工科/工程（142 人）、社会科学（88 人）、医学（84 人）、法学（79 人）。401 人就读其他学科、无法归类或未上大学。 |
+> | **专业分类分布** | 依据德国联邦统计局官方学科分类（Statistisches Bundesamt, 2001）与 [[Biglan's Disciplinary Classification Scheme|Biglan 学科分类理论]]划分为七大主要学科门类：人文艺术（257 人，基准组）、数学与自然科学（241 人）、商科/经济（203 人）、工科/工程（142 人）、社会科学（88 人）、医学（84 人）、法学（79 人）。401 人就读其他学科、无法归类或未上大学。 |
 
 ---
 
@@ -263,7 +263,7 @@ issuing_organization: ""
 > | 2. 年龄（Age） | -.12 | — | | | | | |
 > | 3. 家庭 SES | .00 | -.17 | — | | | | |
 > | 4. 文化资本（藏书量） | -.01 | -.11 | .52 | — | | | |
-> | 5. 认知能力（[[Cognitive Ability Test KFT\|KFT]]） | -.26 | -.18 | .05 | .17 | — | | |
+> | 5. 认知能力（[[Cognitive Ability Test KFT|KFT]]） | -.26 | -.18 | .05 | .17 | — | | |
 > | 6. 确定性信念（T1） | -.02 | -.04 | -.09 | -.17 | -.18 | — | |
 > | 7. 最终毕业成绩（Abitur） | .10 | -.26 | .11 | .25 | .33 | -.23 | — |
 >
@@ -305,7 +305,7 @@ issuing_organization: ""
 > | 文化资本 $\to$ 确定性信念 | **-0.13** | $p < .05$ | 文化资本丰富的家庭提供更多质疑教条的刺激，降低确定性信念（中介前半段） |
 > | 女性 $\to$ 确定性信念 | **-0.18** | $p < .05$ | 女性学生在认识论发展上表现出更成熟的非确定性立场 |
 > | 家庭 SES $\to$ 确定性信念 | **-0.02** | $ns$ | 纯经济地位对确定性信念无直接影响（其效应已被文化资本完全吸收） |
-> | 年龄 $\to$ 确定性信念 | **-0.02** | $ns$ | 同一年级内略微的年龄差异不影响[[Epistemological Beliefs\|认识论信念]] |
+> | 年龄 $\to$ 确定性信念 | **-0.02** | $ns$ | 同一年级内略微的年龄差异不影响[[Epistemological Beliefs|认识论信念]] |
 
 > [!example]- 图2：结构方程模型预测高中毕业总评成绩
 > ![](https://img.mylikemie.icu/sources/Trautwein_2007_CEP/figures/Trautwein_2007_CEP_Fig2_Predicting_Final_School_Grades.jpg)
@@ -385,9 +385,9 @@ issuing_organization: ""
 > [!ref-table]- 表4：各学科门类在 T1 与 T2 阶段的确定性信念均值、[[Standard Error|标准误]]与纵向轨迹（p.359）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 学科门类（样本量 $N$） | T1 高中毕业均值（均值 Mean $M \pm$ 标准误 Standard Error $SE$） | T2 大学就读均值（$M \pm SE$） | 两年净变化量（$\Delta M$） | 纵向发展形态 | 学科认识论属性（[[Biglan's Disciplinary Classification Scheme\|Biglan 分类]]） |
+> | 学科门类（样本量 $N$） | T1 高中毕业均值（均值 Mean $M \pm$ 标准误 Standard Error $SE$） | T2 大学就读均值（$M \pm SE$） | 两年净变化量（$\Delta M$） | 纵向发展形态 | 学科认识论属性（[[Biglan's Disciplinary Classification Scheme|Biglan 分类]]） |
 > |---|---|---|---|---|---|
-> | **社会科学（$N = 88$）** | $1.70 \pm 0.05$ | $1.48 \pm 0.05$ | **-0.22** | 确定性大幅下降（全样本最低） | 软学科、[[Reflexivity\|反思性]]领域 |
+> | **社会科学（$N = 88$）** | $1.70 \pm 0.05$ | $1.48 \pm 0.05$ | **-0.22** | 确定性大幅下降（全样本最低） | 软学科、[[Reflexivity|反思性]]领域 |
 > | **人文艺术（$N = 257$）** | $1.83 \pm 0.03$ | $1.62 \pm 0.03$ | **-0.21** | 确定性大幅下降（批判性演进） | 软学科、纯理论领域 |
 > | **法学（$N = 79$）** | $1.90 \pm 0.05$ | $1.88 \pm 0.05$ | **-0.02** | 保持平稳，轻微下降 | 专业职业领域 |
 > | **数学与自然科学（$N = 241$）** | $2.02 \pm 0.03$ | $1.95 \pm 0.03$ | **-0.07** | 维持高确定性，轻微下降 | 硬学科、纯科学领域 |
@@ -420,10 +420,10 @@ issuing_organization: ""
 > [!framework-table] 科学教育直面不确定性的认知困境与教学转向
 > | 比较维度 | 传统“事实灌输型”科学教学模式 | “认识论话语型”不确定性科学教学模式 |
 > |---|---|---|
-> | **知识本质预设** | 视科学为由客观、绝对、永恒确定的“硬事实（Hard Facts）”构成的封闭体系。 | 视科学为人类在特定历史时期主观建构、不断演变且随时可被[[Falsification\|证伪]]的“暂时性终产物（Temporary End-Product）”。 |
+> | **知识本质预设** | 视科学为由客观、绝对、永恒确定的“硬事实（Hard Facts）”构成的封闭体系。 | 视科学为人类在特定历史时期主观建构、不断演变且随时可被[[Falsification|证伪]]的“暂时性终产物（Temporary End-Product）”。 |
 > | **媒体与科普导向** | 媒体常将前沿研究简化为无可置疑的标准答案，强化公众对“权威科学”的盲从。 | 引导学生透视媒体背后的科学争端，理解科学证据的概率性、测量误差与理论边界。 |
-> | **学生学习行为** | 倾向于表层[[Rote Learning\|死记硬背]]与套用公式，面对劣构与争议议题时迅速得出草率、武断的结论。 | 主动运用深层精加工策略，权衡多方证据与局限性，在不确定性中做出反思性承诺。 |
-> | **教育干预目标** | 追求测验标准答案的记忆与复现。 | 激发“认识论怀疑（Epistemic Doubt）”，培育面对复杂现实问题的[[Critical Thinking\|批判性思维]]与科学探究能力。 |
+> | **学生学习行为** | 倾向于表层[[Rote Learning|死记硬背]]与套用公式，面对劣构与争议议题时迅速得出草率、武断的结论。 | 主动运用深层精加工策略，权衡多方证据与局限性，在不确定性中做出反思性承诺。 |
+> | **教育干预目标** | 追求测验标准答案的记忆与复现。 | 激发“认识论怀疑（Epistemic Doubt）”，培育面对复杂现实问题的[[Critical Thinking|批判性思维]]与科学探究能力。 |
 
 > [!exegesis]- 科学知识暂时性案例：胃溃疡病因认识的[[Paradigm|范式]]转变与科学史对照
 > - **历史上的“医学铁律”与确定性迷思** 在 20 世纪的大部分时间里，主流医学教科书与临床权威均将胃溃疡牢固地界定为是由“心理社会压力（Psychosocial Stress）与胃酸分泌过多”所直接引发的确定事实。基于这一权威定论，全球医学界与制药工业耗费数十亿美元开发抑酸药物（如 H2 受体阻滞剂）并推行心理减压疗法。在当时的医学生与大众认知中，这一病因机制被视为无可辩驳的客观真理。（p.362）

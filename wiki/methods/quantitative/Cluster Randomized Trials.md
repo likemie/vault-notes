@@ -143,9 +143,9 @@ updated: 2026-08-22
 ### 清算中心对集群试验的技术审查盲区
 
 > [!contrast-table] 循证清算中心对集群处理的技术审查对比（基于 Wadhwa et al., 2024）
-> | 审查维度 | [[What Works Clearinghouse\|WWC]] (联邦官方) | [[Blueprints for Healthy Youth Development\|Blueprints]] / [[California Evidence Based Clearinghouse for Child Social and Economic Welfare\|CEBC]] | [[National Dropout Prevention Center\|NDPC]] / [[Collaborative for Academic Social and Emotional Learning Guide\|CASEL]] |
+> | 审查维度 | [[What Works Clearinghouse|WWC]] (联邦官方) | [[Blueprints for Healthy Youth Development|Blueprints]] / [[California Evidence Based Clearinghouse for Child Social and Economic Welfare|CEBC]] | [[National Dropout Prevention Center|NDPC]] / [[Collaborative for Academic Social and Emotional Learning Guide|CASEL]] |
 > |:---|:---|:---|:---|
-> | **集群效应审查技术** | **独立重算与强制纠偏**，若原作者未做 HLM，WWC 自行根据行业 ICC 常模重新膨胀标准误并重估 $p$ 值。 | 要求原作者在论文中报告适当的多层模型或集群稳健[[Standard Error\|标准误]]（CRSE）。 | **普遍缺乏集群识别能力**，直接采信未校正的单层 OLS 显著性结论。 |
+> | **集群效应审查技术** | **独立重算与强制纠偏**，若原作者未做 HLM，WWC 自行根据行业 ICC 常模重新膨胀标准误并重估 $p$ 值。 | 要求原作者在论文中报告适当的多层模型或集群稳健[[Standard Error|标准误]]（CRSE）。 | **普遍缺乏集群识别能力**，直接采信未校正的单层 OLS 显著性结论。 |
 > | **自由度惩罚与集群数底线** | 对集群数较少（如单组 $< 5$ 个班）的研究实施小样本惩罚，限制评级上限。 | 考察集群规模与分析单位一致性，淘汰存在严重单位错位的研究。 | 未设置集群数量底线要求。 |
 > | **流失模型扩展** | 实施双重流失核验：**集群整体流失**（学校退出）与**个体流失**（学生退出）。 | 要求对脱落集群与留存集群实施平衡性检验。 | 仅考察总体表面样本变化。 |
 
@@ -176,8 +176,8 @@ updated: 2026-08-22
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|
 > | [[Randomised Controlled Trials]] | 母类方法 | CRCT 是 RCT 在群体组织嵌套情境下的高级拓展形态。 |
-> | [[Quasi-Experimental Designs]] | 替代设计 | 当集群数量无法满足[[Random Assignment\|随机分配]]时，研究常被迫退化为非等对控制组 QED。 |
-> | 多层线性模型（HLM） | 分析工具 | CRCT 正确估计[[Standard Error\|标准误]]与群间方差的核心计量分析方法。 |
+> | [[Quasi-Experimental Designs]] | 替代设计 | 当集群数量无法满足[[Random Assignment|随机分配]]时，研究常被迫退化为非等对控制组 QED。 |
+> | 多层线性模型（HLM） | 分析工具 | CRCT 正确估计[[Standard Error|标准误]]与群间方差的核心计量分析方法。 |
 > | [[Campbellian Validity Framework]] | 理论基础 | CRCT 通过组织隔离有效消除处理扩散（Diffusion of Treatments）威胁。 |
 > | [[What Works Clearinghouse]] | 评价机构 | 建立了国际最严谨的 CRCT 多层集群校正与自由度审查规则。 |
 

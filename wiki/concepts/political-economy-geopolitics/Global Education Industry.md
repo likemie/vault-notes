@@ -87,11 +87,11 @@ updated: '2026-06-22'
 ## 概念辨析
 
 > [!contrast-table] 概念辨析
-> | 维度 | 全球教育产业 (GEI) | [[Endogenous and Exogenous Privatisation\|教育私有化]] | 教育市场化 (Marketisation) | [[Knowledge-Based Economization\|知识化经济化]] |
+> | 维度 | 全球教育产业 (GEI) | [[Endogenous and Exogenous Privatisation|教育私有化]] | 教育市场化 (Marketisation) | [[Knowledge-Based Economization|知识化经济化]] |
 > |------|--------|----------------|----------------|----------------|
-> | **分析对象** | 跨国教育产业场域及被经济理性形塑的教育供给、政策与想象（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022]]）。 | 公共教育中私营参与的具体政策机制与运营形式（内生/外生）。 | 公共教育体制内部引入的竞争、选择与准市场化激励机制。 | 知识密集型资本主义中，国家以经济竞争力为目标对教育和研究的重组。 |
-> | **核心机制** | 涵盖私有化、金融化、商品化，以及通过国际组织进行的政策软治理与标准量化（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024]]）。 | 外部承包、教育券、私营资本进入公立教育系统或转为准企业运营。 | 自主办学、[[School Choice\|择校]]制度、以绩效为基础的财政拨款等。 | 培育[[Knowledge-Based Economy\|知识经济]]所需的劳动力（人力资本）、促进大学知识的商业转化。 |
-> | **适用范围** | 包含 EdTech、[[Corporate Education\|企业教育]]、跨国咨询公司、横向能力指标等广泛的全球[[Champ\|场域]]。 | 侧重公共教育体系的产权、供给及决策权的转移。 | 侧重国家或地区层面的公共教育制度与治理结构变革。 | 聚焦国家发展战略宏观视角，探讨教育作为知识资本的政治经济学定位。 |
+> | **分析对象** | 跨国教育产业场域及被经济理性形塑的教育供给、政策与想象（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022]]）。 | 公共教育中私营参与的具体政策机制与运营形式（内生/外生）。 | 公共教育体制内部引入的竞争、选择与准市场化激励机制。 | 知识密集型资本主义中，国家以经济竞争力为目标对教育和研究的重组。 |
+> | **核心机制** | 涵盖私有化、金融化、商品化，以及通过国际组织进行的政策软治理与标准量化（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024]]）。 | 外部承包、教育券、私营资本进入公立教育系统或转为准企业运营。 | 自主办学、[[School Choice|择校]]制度、以绩效为基础的财政拨款等。 | 培育[[Knowledge-Based Economy|知识经济]]所需的劳动力（人力资本）、促进大学知识的商业转化。 |
+> | **适用范围** | 包含 EdTech、[[Corporate Education|企业教育]]、跨国咨询公司、横向能力指标等广泛的全球[[Champ|场域]]。 | 侧重公共教育体系的产权、供给及决策权的转移。 | 侧重国家或地区层面的公共教育制度与治理结构变革。 | 聚焦国家发展战略宏观视角，探讨教育作为知识资本的政治经济学定位。 |
 
 ---
 
@@ -103,7 +103,7 @@ updated: '2026-06-22'
 > - **多样化的行动者网络** 包含跨国公司、慈善基金会、社会企业、数据经纪人以及私营教育提供者等，通过数字平台、行业联盟和复杂连结构成跨国政策影响网络（Parreira do Amaral & Thompson, 2019, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p. 43]]）。
 > - **教育想象的话语生产** 不限于物质的商业交易，而是通过关于“技能缺口”、“个性化学习”与“教育创新”的话语，生产一套替代性或颠覆性的教育想象，侵蚀公立教育的合法性（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp. 42–43]]）。
 > - **全球渗透性与软治理** 通过以经济为基础的概念（如效率、竞争），以及国际组织（如 [[OECD]]、欧盟）的标准化测量与基准比较（Benchmarking），全球渗透至各国的教育改革议程中（；[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 8–9]]）。
-> - **[[Corporate Education\|企业教育]]与技能采购市场** 企业培训是 GEI 极其庞大的板块。欧盟三分之一至三分之二的企业培训已外包给第三方提供商。该市场由在线学习平台、管理咨询公司和 IT 巨头垄断，并通过证书认证体系确立了事实上的准入标准（[[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, pp. 190–193]]）。
+> - **[[Corporate Education|企业教育]]与技能采购市场** 企业培训是 GEI 极其庞大的板块。欧盟三分之一至三分之二的企业培训已外包给第三方提供商。该市场由在线学习平台、管理咨询公司和 IT 巨头垄断，并通过证书认证体系确立了事实上的准入标准（[[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, pp. 190–193]]）。
 > - **技能原子化与测量驱动** 强调将复杂的、整体性的教育实践（如跨学科学习）拆解为细小的、可标准化的、具有明确经济实用价值的技能单元（如 [[21st Century Skills and Competencies Discourse|21世纪技能]] 或横向能力），使之适合进行[[External Auditor|外部审计]]、比较和市场化交易（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 9–10]]）。
 
 > [!logic-map]- 要素关系
@@ -178,8 +178,8 @@ updated: '2026-06-22'
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **全球教育治理与国家课程吸纳** | GEI 借助话语生产和国际组织软治理，将地方整体性教育改革矮化并重构为工具化、原子化的技能清单。 | 国家课程标准改革、国际比较评估（如 [[PISA]]）对国家政策的塑造。 | [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022]]; [[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024]] |
-> | **教育科技与数字教学算法异化** | 专有 EdTech 产品凭借利润、正义和专业发展的多重驱动，确立平台技术垄断，在算法中植入特定学习假设并去地方化。 | 混合式教学、个性化学习软件应用、教育科技平台的跨国推广。 | [[Argument_Amos_2022_Springer\|Amos, 2022]]; [[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz & Klinge, 2022]] |
+> | **全球教育治理与国家课程吸纳** | GEI 借助话语生产和国际组织软治理，将地方整体性教育改革矮化并重构为工具化、原子化的技能清单。 | 国家课程标准改革、国际比较评估（如 [[PISA]]）对国家政策的塑造。 | [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022]]; [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024]] |
+> | **教育科技与数字教学算法异化** | 专有 EdTech 产品凭借利润、正义和专业发展的多重驱动，确立平台技术垄断，在算法中植入特定学习假设并去地方化。 | 混合式教学、个性化学习软件应用、教育科技平台的跨国推广。 | [[Argument_Amos_2022_Springer|Amos, 2022]]; [[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022]] |
 
 ---
 
@@ -187,11 +187,11 @@ updated: '2026-06-22'
 
 > [!dev-timeline] 概念演变
 > - **1990年代 — 危机驱动的[[New Public Management|新公共管理]]改革与[[Corporate University|企业大学]]起步**
->   - **苏联解体与芬兰经济危机** 苏联解体后芬兰陷入深重经济萧条，促使政策制定者推动国家向以信息和技术为导向的社会转型。这期间芬兰废除了传统的对学校教材的审查，转而遵循 [[OECD]] 以劳动力市场为核心的软治理逻辑（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 8]]）。
->   - **美国企业大学兴起** 第一所企业大学由通用汽车（GM）建立，随后 Motorola、Apple、IBM 等企业跟进，将内部培训整合为 brand 化教育项目，使[[Corporate Education|企业教育]]发展为 GEI 的关键支柱（[[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, p. 189]]）。
-> - **1990年代–2000年代 — 跨国企业大学扩散与欧洲本土争议** 德国 Lufthansa、法国 AXA、西班牙 Santander 等跨国巨头陆续跟进设立企业大学，但在欧陆该模式受到更多合法性质疑，如被认为缺乏学术严谨性、流于营销包装（[[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, pp. 185, 189]]）。
-> - **2000年代 — [[PISA]]测试“夺冠”效应与芬兰政策转化** 芬兰在 PISA 测试中意外取得卓越名次，这不仅确立了其全球教育改革“最佳模型”的地位，也催生了其对丧失优势的焦虑。政策制定者开始积极吸纳 OECD “[[21st Century Skills and Competencies Discourse|21世纪技能]]”与欧盟“横向能力”等新自由主义工具，加速了[[Phenomenon-Based Learning|现象本位学习]]（PhBL）等课程理念在国家核心课程中的指标化与绩效化吸收（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 8–9]]）。
-> - **2010年代至今 — 在线教育寡头化与数据垄断** 以 K-12 阶段的 Google Classroom 等免费平台以及高等/企业教育中的 Skillsoft、LinkedIn Learning 为代表，IT 技术巨头通过知识产权限制、平台网络效应及跨业务协同作用（如 LinkedIn 利用其简历大数据指导课程开发）形成了高度集中的垄断市场，使教师逐步从“学习的设计者”沦为“算法的执行者”（[[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, pp. 191–193]]；[[Argument_Amos_2022_Springer\|Amos, 2022, p. 57]]）。
+>   - **苏联解体与芬兰经济危机** 苏联解体后芬兰陷入深重经济萧条，促使政策制定者推动国家向以信息和技术为导向的社会转型。这期间芬兰废除了传统的对学校教材的审查，转而遵循 [[OECD]] 以劳动力市场为核心的软治理逻辑（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 8]]）。
+>   - **美国企业大学兴起** 第一所企业大学由通用汽车（GM）建立，随后 Motorola、Apple、IBM 等企业跟进，将内部培训整合为 brand 化教育项目，使[[Corporate Education|企业教育]]发展为 GEI 的关键支柱（[[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, p. 189]]）。
+> - **1990年代–2000年代 — 跨国企业大学扩散与欧洲本土争议** 德国 Lufthansa、法国 AXA、西班牙 Santander 等跨国巨头陆续跟进设立企业大学，但在欧陆该模式受到更多合法性质疑，如被认为缺乏学术严谨性、流于营销包装（[[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, pp. 185, 189]]）。
+> - **2000年代 — [[PISA]]测试“夺冠”效应与芬兰政策转化** 芬兰在 PISA 测试中意外取得卓越名次，这不仅确立了其全球教育改革“最佳模型”的地位，也催生了其对丧失优势的焦虑。政策制定者开始积极吸纳 OECD “[[21st Century Skills and Competencies Discourse|21世纪技能]]”与欧盟“横向能力”等新自由主义工具，加速了[[Phenomenon-Based Learning|现象本位学习]]（PhBL）等课程理念在国家核心课程中的指标化与绩效化吸收（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 8–9]]）。
+> - **2010年代至今 — 在线教育寡头化与数据垄断** 以 K-12 阶段的 Google Classroom 等免费平台以及高等/企业教育中的 Skillsoft、LinkedIn Learning 为代表，IT 技术巨头通过知识产权限制、平台网络效应及跨业务协同作用（如 LinkedIn 利用其简历大数据指导课程开发）形成了高度集中的垄断市场，使教师逐步从“学习的设计者”沦为“算法的执行者”（[[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, pp. 191–193]]；[[Argument_Amos_2022_Springer|Amos, 2022, p. 57]]）。
 
 ---
 

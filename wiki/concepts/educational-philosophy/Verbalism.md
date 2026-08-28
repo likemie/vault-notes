@@ -62,7 +62,7 @@ updated: '2026-08-27'
 ## 概念辨析
 
 > [!contrast-table] 概念辨析
-> | 维度 | 言语主义（Verbalism） | 盲动主义（Activism） | 解放[[Praxis\|实践]]（Praxis） |
+> | 维度 | 言语主义（Verbalism） | 盲动主义（Activism） | 解放[[Praxis|实践]]（Praxis） |
 > |------|-----------------------|---------------------|-------------------|
 > | **缺失要素** | 牺牲行动（Sacrifice of Action） | 牺牲反思（Sacrifice of Reflection） | 无缺失：反思与行动统一 |
 > | **表现形态** | 象牙塔内的空谈与文字游戏 | 盲目的冲动与无策略暴动 | 改变压迫结构的理性变革实践 |
@@ -106,7 +106,7 @@ updated: '2026-08-27'
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **假对话命题** | 言语主义剥离行动维度的异化本质 | 理论脱离实践的应试辩论与 [[Theory of Knowledge\|TOK]] 课堂 | [[Paulo Freire\|Freire, P.]]; [[Argument_Darwish_2009_Queens\|Darwish, B.]] |
+> | **假对话命题** | 言语主义剥离行动维度的异化本质 | 理论脱离实践的应试辩论与 [[Theory of Knowledge|TOK]] 课堂 | [[Paulo Freire|Freire, P.]]; [[Argument_Darwish_2009_Queens|Darwish, B.]] |
 
 ---
 

@@ -167,14 +167,14 @@ updated: 2026-08-20
 
 > [!ref-table] 六条批评线索
 >
-> | 批评线索 | 核心问题 | 代表[[Document\|文献]] |
+> | 批评线索 | 核心问题 | 代表[[Document|文献]] |
 > |---|---|---|
-> | **方法论批评** | [[Effect Size\|效应量]]阈值武断、二级[[Meta-analysis\|元分析]]统计缺陷、研究质量未筛选 | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]；[[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] |
-> | **[[Didaktik\|教学理论]]批评** | 教学概念空洞、教育乐观主义、教师角色浪漫化 | [[Argument_Terhart_2011_JCS\|Terhart (2011)]] |
-> | **教育哲学批判** | 评价理论替代教育目的、[[Bildung]] 被遮蔽 | [[Argument_Rømer_2018_EPT\|Rømer (2018)]]；[[Argument_Larsen_2019_EducSci\|Larsen (2019)]] |
-> | **文化政治批评** | 可见性作为支配形式、知识／权力再生产 | [[Argument_McKnight_2020_Discourse\|McKnight & Whitburn (2020)]] |
-> | **[[Cult of the Guru\|大师崇拜]]与[[Neo-Taylorism\|新泰勒主义]]** | 制度权力集中、教师自主性被压缩 | [[Argument_Eacott_2017_SLM\|Eacott (2017)]] |
-> | **政策与制度批评** | 政策外推正当性、非学校因素排除、商业化 | [[Argument_Grace_2010_NZJES\|Grace (2010)]]；[[Argument_Johnson_2023_CE\|Johnson & Janzen (2023)]] |
+> | **方法论批评** | [[Effect Size|效应量]]阈值武断、二级[[Meta-analysis|元分析]]统计缺陷、研究质量未筛选 | [[Argument_Snook_2009_NZJES|Snook et al. (2009)]]；[[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] |
+> | **[[Didaktik|教学理论]]批评** | 教学概念空洞、教育乐观主义、教师角色浪漫化 | [[Argument_Terhart_2011_JCS|Terhart (2011)]] |
+> | **教育哲学批判** | 评价理论替代教育目的、[[Bildung]] 被遮蔽 | [[Argument_Rømer_2018_EPT|Rømer (2018)]]；[[Argument_Larsen_2019_EducSci|Larsen (2019)]] |
+> | **文化政治批评** | 可见性作为支配形式、知识／权力再生产 | [[Argument_McKnight_2020_Discourse|McKnight & Whitburn (2020)]] |
+> | **[[Cult of the Guru|大师崇拜]]与[[Neo-Taylorism|新泰勒主义]]** | 制度权力集中、教师自主性被压缩 | [[Argument_Eacott_2017_SLM|Eacott (2017)]] |
+> | **政策与制度批评** | 政策外推正当性、非学校因素排除、商业化 | [[Argument_Grace_2010_NZJES|Grace (2010)]]；[[Argument_Johnson_2023_CE|Johnson & Janzen (2023)]] |
 
 
 ---
@@ -365,9 +365,9 @@ Wecker 等人首先检查 Hattie 使用的一级元分析数据库是否满足�
 > [!ref-table] 方法论要求：主要研究表必须包含
 > | 字段 | 符号 | 说明 |
 > |-----|------|------|
-> | [[Sample Size Determination\|样本量]] | $n_E$, $n_C$ | 实验组与对照组各自的受试者数量 |
+> | [[Sample Size Determination|样本量]] | $n_E$, $n_C$ | 实验组与对照组各自的受试者数量 |
 > | 效应量估计 | $d$ | 每项主要研究的效应量值 |
-> | 统计精度 | $SE_d$、$v_d$ 或 CI | [[Sampling Error\|标准误]]、方差或置信区间（三选一）|
+> | 统计精度 | $SE_d$、$v_d$ 或 CI | [[Sampling Error|标准误]]、方差或置信区间（三选一）|
 
 > [!critique] 四项系统缺陷（Wecker et al., pp. 26–27）
 > - **主要研究表缺失** "许多一级元分析缺乏完整的主要研究表"——Hattie 的方法在数据透明度的第一道门槛就已失守（p. 27）
@@ -422,7 +422,7 @@ Hattie 在不同元分析之间交替使用多种效应量测度而不做转换�
 > | $M_C$ | 66.53 | 对照组均值（原始出版物）|
 > | $M_E$ | 80.21 | 实验组均值（原始出版物）|
 > | Hattie 的"$SD$" | **1.65** | **实为标准误 $SE$**，非标准差 |
-> | 错误效应量 | $d = (80.21-66.53)/1.65 = -8.291$ | ← 以 [[School Effectiveness\|SE]] 代入 SD 公式 |
+> | 错误效应量 | $d = (80.21-66.53)/1.65 = -8.291$ | ← 以 [[School Effectiveness|SE]] 代入 SD 公式 |
 > 
 > **正确计算** $SD_C = SE \times \sqrt{n} = 2.74 \times \sqrt{107} \approx 28.35$，正确 $d \approx -0.80$
 >
@@ -591,8 +591,8 @@ Wecker 等人展示了正确加权如何改变效应量估计：
 > | 类型（例） | 比较基线的问题 | 排名含义 |
 > |-----------|--------------|---------|
 > | 制度框架条件（学校规模） | 无统一对照组，不同规模学校基线各异 | 不是教师可选择或改变的因素 |
-> | 个人特征（[[Self-concept\|自我概念]]） | [[Observational and Correlational Research\|相关研究]]为主，非[[Intervention Research\|干预研究]] | [[Causality\|因果]]方向可能反向——高成就带来高自我概念 |
-> | 综合教学项目（[[Direct Instruction\|直接教学]]） | 与"传统"课程比较——存在共同参照点 | 排名相对有意义：可比较基线下的项目比较 |
+> | 个人特征（[[Self-concept|自我概念]]） | [[Observational and Correlational Research|相关研究]]为主，非[[Intervention Research|干预研究]] | [[Causality|因果]]方向可能反向——高成就带来高自我概念 |
+> | 综合教学项目（[[Direct Instruction|直接教学]]） | 与"传统"课程比较——存在共同参照点 | 排名相对有意义：可比较基线下的项目比较 |
 > | 设计参数变体（集中 vs. 分散练习） | 同一干预的两种变体相互比较 | 与"选哪种教学法"属完全不同的决策类型 |
 
 > [!citation-card]- Wecker et al., 2016, p. 34
@@ -641,7 +641,7 @@ Wecker 等人最终的可靠性判断是层次化的（pp. 34–36）：
 >
 > | 公式 | 类型 | 排名结果 | 问题 |
 > |------|------|---------|------|
-> | (a) 组间比较 | 实验 vs 对照组[[Pre-test and Post-test\|后测]]差异 | 3 > 2 > 1 > 0 | 与真实效果一致 |
+> | (a) 组间比较 | 实验 vs 对照组[[Pre-test and Post-test|后测]]差异 | 3 > 2 > 1 > 0 | 与真实效果一致 |
 > | (b) 前后比较 | 各组前后测变化 | 1 = 2 = 3 | 均值增加与变异性同步增长，$d$ 抹除了真实差异 |
 > | (c) $r\to d$ 转换 | 二列相关系数转换 | 0 > 3 > 2 > 1 | 与公式(a)完全逆转——"它不测量成绩的增加，而是测量这种变化周围的噪声"（p. 245） |
 >
@@ -676,7 +676,7 @@ Hattie (2009) 的反馈综合基于 23 项元分析（67,931 人），$d=0.73$�
 > |--------|:---:|---:|---:|------|
 > | Lysakowski & Walberg (1980) | ✗ | 4,842 | **1.17** | 39 种**强化技术（reinforcement techniques）**；Hattie 本人亦批评"奖励是否应被视为反馈值得怀疑" |
 > | Lysakowski & Walberg (1982) | ✗ | 15,689 | **0.97** | **线索、参与和纠正性强化**；聚焦教学策略而非反馈 |
-> | Kluger & DeNisi (1996) | ✓ | 12,652 | **0.38** | **反馈干预（[[Feedback\|FI]]）**——唯一符合 Hattie 定义；但 *d* 仅 0.38，且 **38% 效应为负** |
+> | Kluger & DeNisi (1996) | ✓ | 12,652 | **0.38** | **反馈干预（[[Feedback|FI]]）**——唯一符合 Hattie 定义；但 *d* 仅 0.38，且 **38% 效应为负** |
 > | Witt et al. (2004) | ✗ | 24,474 | **1.15** | **教师即时性（verbal & nonverbal immediacy）**；"文本中未提及反馈"；22/34 项未发表 |
 > | Swanson & Lussier (2001) | ✗ | 5,104 | **1.12** | **考官辅助／动态评估**；研究考官在测试中提供的"线索、暗示或提示" |
 
@@ -747,7 +747,7 @@ Nielsen & Klitmøller 的独特贡献在于：不同于 Wecker 等人（2016）�
 > |---------|---------|-----------|
 > | 数据质量 | 元分析包含设计差、计划差的研究（"垃圾进垃圾出"）；基础数据已过时（1980s-1990s） | Lupton, Myburgh, Terhart |
 > | 统计方法 | 效应量平均化不当；异构研究"苹果与橘子"比较；*d* = 0.40 阈值任意；低于 0.40 的效应量不应忽略 | Brown, Kamenetz, Snook et al., Jones, Slavin |
-> | 证据排除 | 定性研究被系统忽略；校外因素（贫困、种族、不平等）未被考虑；[[Causality\|因果关系]]被[[Statistical Significance\|统计显著性]]替代 | Terhart, Snook et al. |
+> | 证据排除 | 定性研究被系统忽略；校外因素（贫困、种族、不平等）未被考虑；[[Causality|因果关系]]被[[Statistical Significance|统计显著性]]替代 | Terhart, Snook et al. |
 > | 推广局限 | 结论来自英语国家不可全球推广；效应量不适用于普通教师在普通课堂 | Snook et al. |
 > | 效度缺失 | 未评估基础研究的效度；未提供质量标准信息；无预测功能 | Snook et al., Terhart |
 > | 文化政治 | VL 与新自由主义、性别歧视、能力主义议程结盟 | McKnight & Whitburn |
@@ -918,13 +918,13 @@ Nielsen & Klitmøller（2021）开辟了一个此前 VL 批评文献中未被触
 > [!critique] VL 的七项方法论缺陷（Nielsen & Klitmøller, 2021, pp. 80–81）
 > | 问题 | 描述 | 例 |
 > |------|------|-----|
-> | 复杂性还原 | 聚焦单一[[Causality\|因果]]因素对应单一效应 | 作业、[[Class Size\|班级规模]]、反馈 |
+> | 复杂性还原 | 聚焦单一[[Causality|因果]]因素对应单一效应 | 作业、[[Class Size|班级规模]]、反馈 |
 > | 消除调节因素 | 忽略如学生 SES 等重要调节变量 | 学生 SES 是学习的重要调节因素 |
 > | 去情境化标准 | d=0.40 截断点武断设定 | 低剂量阿司匹林预防心脏病 |
-> | 任意划分 | 效应量的划分隐藏重要区分 | [[Homework\|作业]]的多种形式被聚合 |
+> | 任意划分 | 效应量的划分隐藏重要区分 | [[Homework|作业]]的多种形式被聚合 |
 > | 苹果与橘子 | 不同现象被聚合在同一效应量下 | 反馈的多种形式 |
 > | 垃圾进垃圾出 | 纳入低质量研究 | 同上 |
-> | 统计问题 | 效应量计算错误 | Bergeron (2017); [[Argument_Simpson_2017_JEP\|Simpson (2017)]] |
+> | 统计问题 | 效应量计算错误 | Bergeron (2017); [[Argument_Simpson_2017_JEP|Simpson (2017)]] |
 
 尽管存在这些问题，Hattie 仍被 Mansell（2008）称为"教学的圣杯"的发现者，Evans（2012）称其为*"possibly the world's most influential education academic"*。丹麦学者警告："拒绝使用 Hattie 和其他人结果的人承担了实质性的道德责任"([[Argument_Hansen_2015_Paideia|Hansen et al., 2015, p. 7, cited in Nielsen & Klitmøller, 2021, p. 80]])。
 
@@ -1064,8 +1064,8 @@ Nielsen & Klitmøller（2021）的独特贡献在于：不加入"VL 错了"的�
 > [!ref-table] Nielsen & Klitmøller 在 VL 批评文献中的位置
 > | 批评者 | 追问的问题 | 答案 |
 > |--------|-----------|------|
-> | [[Argument_Terhart_2011_JCS\|Terhart (2011)]], [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]], Bergeron (2017), Simpson (2017-2019) | VL 的方法论有什么问题？ | 效应量类别错误、统计计算错误、模型假设违反等 |
-> | [[Argument_McKnight_2020_Discourse\|McKnight & Whitburn (2020)]] | VL 的文化政治含义是什么？ | 新自由主义监控、性别歧视、能力主义——VL 的论述与这些不平等结构结盟 |
+> | [[Argument_Terhart_2011_JCS|Terhart (2011)]], [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]], Bergeron (2017), Simpson (2017-2019) | VL 的方法论有什么问题？ | 效应量类别错误、统计计算错误、模型假设违反等 |
+> | [[Argument_McKnight_2020_Discourse|McKnight & Whitburn (2020)]] | VL 的文化政治含义是什么？ | 新自由主义监控、性别歧视、能力主义——VL 的论述与这些不平等结构结盟 |
 > | **Nielsen & Klitmøller (2021)** | **为什么有严重问题的 VL 仍然主导政策？** | **合法化危机——VL 的技术理性内核恰好满足了教育系统亟需的合法化功能** |
 
 此分析与 Cowen (2019) 的 Tullock 官僚制解释形成平行关系：Cowen 从 公共选择理论出发，论证 [[Randomised Controlled Trials|RCT]]/[[Systematic Review|系统综述]]提供"对主权者透明的过滤机制"；Nielsen & Klitmøller 从 Habermas 的 [[Critical Theory|批判理论]]出发，论证 VL 提供合法化承诺——两者共同构成 [[Evidence-Based Education|EBE]]/VL 批评的**"制度功能"解释维度**，补充了此前以方法论（Wrigley, Simpson）、认识论（Biesta, Wiliam）和文化政治（McKnight & Whitburn）为主的批评。

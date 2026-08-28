@@ -109,9 +109,9 @@ issuing_organization: ""
 > [!evidence-grid] 论证过程拆解
 > | 分论点 (Sub-claims) | 论证过程与依据 (Argumentation & Evidence) | 结论/理论推演 (Conclusion) |
 > |---|---|---|
-> | **1. 需要严格澄清认识论构念的边界** | 作者系统审视六大模型，指出不同学者对“认识论”的定义混淆不清。特别是批评 Schommer (1990) 的模型将“固定智力”、“快速学习”等归为认识论因子。作者论证，这本质上属于对任务难度和个人心理特征的预期，并非关于“知识本身”的哲学探讨。([[Argument_Hofer_1997_RER\|Hofer & Pintrich, 1997, p. 108]]) | 必须将“关于学习与智力的信念”作为边缘信念剔除，以确保认识论[[Construct\|构念]]的纯粹性。 |
-> | **2. 认识论核心应聚焦于四个基本维度** | 作者通过对比对齐（如本文表2所示），对剥离边缘成分后的各模型进行求同。发现各大模型实质上都在探讨两大核心领域：“知识的本质”与“认知的过程”。将其进一步细化，便推导出了确定性、简单性、来源和辩护这四个共性维度。([[Argument_Hofer_1997_RER\|Hofer & Pintrich, 1997, p. 119]]) | 个体的认识论信念不是无序的，而是围绕这四个核心维度展开。 |
-> | **3. 这些信念构成了一种个人“理论”** | 作者反对 Schommer 所主张的“各维度完全独立论”，引入 Wellman (1990) 关于“知识如何构成理论”的三个标准：具有连贯性、存在本体论区分、提供因果解释框架。作者论证道：如果一个人认为知识是绝对的（确定性），那他必然认为知识由权威传授（来源）。这种内在的强关联性证明了各维度间的连贯互构。([[Argument_Hofer_1997_RER\|Hofer & Pintrich, 1997, p. 117-118]]) | 认识论信念不仅是一组零散的观点，更是在个体心智中具有解释力的“个人理论（personal theories）”。 |
+> | **1. 需要严格澄清认识论构念的边界** | 作者系统审视六大模型，指出不同学者对“认识论”的定义混淆不清。特别是批评 Schommer (1990) 的模型将“固定智力”、“快速学习”等归为认识论因子。作者论证，这本质上属于对任务难度和个人心理特征的预期，并非关于“知识本身”的哲学探讨。([[Argument_Hofer_1997_RER|Hofer & Pintrich, 1997, p. 108]]) | 必须将“关于学习与智力的信念”作为边缘信念剔除，以确保认识论[[Construct|构念]]的纯粹性。 |
+> | **2. 认识论核心应聚焦于四个基本维度** | 作者通过对比对齐（如本文表2所示），对剥离边缘成分后的各模型进行求同。发现各大模型实质上都在探讨两大核心领域：“知识的本质”与“认知的过程”。将其进一步细化，便推导出了确定性、简单性、来源和辩护这四个共性维度。([[Argument_Hofer_1997_RER|Hofer & Pintrich, 1997, p. 119]]) | 个体的认识论信念不是无序的，而是围绕这四个核心维度展开。 |
+> | **3. 这些信念构成了一种个人“理论”** | 作者反对 Schommer 所主张的“各维度完全独立论”，引入 Wellman (1990) 关于“知识如何构成理论”的三个标准：具有连贯性、存在本体论区分、提供因果解释框架。作者论证道：如果一个人认为知识是绝对的（确定性），那他必然认为知识由权威传授（来源）。这种内在的强关联性证明了各维度间的连贯互构。([[Argument_Hofer_1997_RER|Hofer & Pintrich, 1997, p. 117-118]]) | 认识论信念不仅是一组零散的观点，更是在个体心智中具有解释力的“个人理论（personal theories）”。 |
 
 > [!logic-map]- 概念重构机制图
 > ```mermaid
@@ -247,12 +247,12 @@ Deanna Kuhn (1991) 将认识论的研究扩展到了日常非正式推理，通�
 ### 表1：发展模型在青春期晚期及成年的阶段对比
 
 > [!contrast-table] 表1：认识论发展模型的阶段对齐
-> | 佩里<br>（Perry, 1970） | 女性认知方式<br>（Belenky et al., 1986） | 认识论反思<br>（Baxter Magolda, 1992） | 反思性判断<br>（King & Kitchener, 1994） | [[Argumentative Reasoning\|论辩推理]]<br>（Kuhn, 1991） |
+> | 佩里<br>（Perry, 1970） | 女性认知方式<br>（Belenky et al., 1986） | 认识论反思<br>（Baxter Magolda, 1992） | 反思性判断<br>（King & Kitchener, 1994） | [[Argumentative Reasoning|论辩推理]]<br>（Kuhn, 1991） |
 > |---|---|---|---|---|
-> | **二元论**<br>（dualism） | 沉默（silence）<br>[[Received Knowledge\|接收知识]]（received knowledge） | [[Absolute Knowing\|绝对认知]]<br>（absolute knowing） | 前反思思维<br>（pre-reflective thinking） | [[Absolutist\|绝对论者]]<br>（absolutists） |
-> | **多元论**<br>（multiplicity） | [[Subjective Knowledge\|主观知识]]<br>（subjective knowledge） | [[Transitional Knowing\|过渡认知]]<br>（transitional knowing） | 准反思思维<br>（quasi-reflective thinking） | [[Multiplist\|多元论者]]<br>（multiplists） |
-> | **相对主义**<br>（relativism） | [[Procedural Knowledge\|程序知识]]（procedural knowledge）<br>(a) 连结型<br>(b) 分离型 | [[Independent Knowing\|独立认知]]<br>（independent knowing） | 准反思思维<br>（横跨多/相对论） | |
-> | **相对主义内的承诺**<br>（commitment within relativism） | [[Constructed Knowledge\|建构知识]]<br>（constructed knowledge） | [[Contextual Knowing\|语境认知]]<br>（contextual knowing） | 反思思维<br>（reflective thinking） | [[Evaluativist\|评价论者]]<br>（evaluatists） |
+> | **二元论**<br>（dualism） | 沉默（silence）<br>[[Received Knowledge|接收知识]]（received knowledge） | [[Absolute Knowing|绝对认知]]<br>（absolute knowing） | 前反思思维<br>（pre-reflective thinking） | [[Absolutist|绝对论者]]<br>（absolutists） |
+> | **多元论**<br>（multiplicity） | [[Subjective Knowledge|主观知识]]<br>（subjective knowledge） | [[Transitional Knowing|过渡认知]]<br>（transitional knowing） | 准反思思维<br>（quasi-reflective thinking） | [[Multiplist|多元论者]]<br>（multiplists） |
+> | **相对主义**<br>（relativism） | [[Procedural Knowledge|程序知识]]（procedural knowledge）<br>(a) 连结型<br>(b) 分离型 | [[Independent Knowing|独立认知]]<br>（independent knowing） | 准反思思维<br>（横跨多/相对论） | |
+> | **相对主义内的承诺**<br>（commitment within relativism） | [[Constructed Knowledge|建构知识]]<br>（constructed knowledge） | [[Contextual Knowing|语境认知]]<br>（contextual knowing） | 反思思维<br>（reflective thinking） | [[Evaluativist|评价论者]]<br>（evaluatists） |
 
 ---
 
@@ -288,7 +288,7 @@ Schommer (1990) 编制了包含 63 个题目的量表，提取出了四到五个
 > 1. **第一步：剥离非[[Epistemology|认识论]]的“边缘信念”**
 >    将 Schommer (1990) 模型中的“快速学习”、“固定能力”，以及 Baxter Magolda (1992) 模型中关于学习者、同伴和评价方式的预期果断剔除，仅保留纯粹探讨知识本身的要素。
 > 2. **第二步：归纳“知识的本质”（Nature of Knowledge）**
->    对比剩余成分发现，所有六大模型都在探讨知识是绝对客观的还是相对演变的（如 Perry (1970) 的二元论 vs 相对主义），作者将此共性概括为“**[[Certainty of Knowledge\|知识的确定性]]**”。同时，King & Kitchener (1994) 与 Schommer 额外指出了知识是孤立片段还是互联网络，这被提炼为“**[[Simplicity of Knowledge\|知识的简单性]]**”。
+>    对比剩余成分发现，所有六大模型都在探讨知识是绝对客观的还是相对演变的（如 Perry (1970) 的二元论 vs 相对主义），作者将此共性概括为“**[[Certainty of Knowledge|知识的确定性]]**”。同时，King & Kitchener (1994) 与 Schommer 额外指出了知识是孤立片段还是互联网络，这被提炼为“**[[Simplicity of Knowledge|知识的简单性]]**”。
 > 3. **第三步：归纳“认知的本质”（Nature of Knowing）**
 >    几乎所有模型（如 Belenky et al., 1986，的[[Received Knowledge|接收知识]] vs. [[Constructed Knowledge|建构知识]]）都在探讨知识是由外部权威下达还是自我生成的，这被概括为“**[[Source of Knowledge|知识的来源]]**”。此外，较新的模型（如 Kuhn, 1991；King & Kitchener, 1994）重点关注了个体如何运用证据来评估对立观点，这被归纳为“**[[Justification for Knowing|认知的辩护]]**”。
 

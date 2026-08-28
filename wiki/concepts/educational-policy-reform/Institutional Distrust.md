@@ -101,8 +101,8 @@ updated: 2026-08-26
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **结构压制** | 问责设计制造不信任并压缩专业能动域 | 解释政策与实践的矛盾 | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] |
-> | **信任替代** | 用信任机制取代不信任以支持整合 | 设计治理与学校改进 | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] |
+> | **结构压制** | 问责设计制造不信任并压缩专业能动域 | 解释政策与实践的矛盾 | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] |
+> | **信任替代** | 用信任机制取代不信任以支持整合 | 设计治理与学校改进 | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] |
 
 ---
 

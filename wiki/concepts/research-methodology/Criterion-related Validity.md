@@ -86,12 +86,12 @@ updated: 2026-08-24
 ## 概念辨析
 
 > [!contrast-table] 效标关联效度与主要效度维度的辨析
-> | 维度 | 效标关联效度（Criterion-related Validity） | [[Construct Validity\|构念效度]]（Construct Validity） | [[Content Validity\|内容效度]]（Content Validity） |
+> | 维度 | 效标关联效度（Criterion-related Validity） | [[Construct Validity|构念效度]]（Construct Validity） | [[Content Validity|内容效度]]（Content Validity） |
 > |---|---|---|---|
 > | **核心诉求** | 工具能否准确关联或预测外部成熟标准 | 工具是否真实测到了理论假定的潜在特质 | 测验题项是否全面代表了目标内容域 |
-> | **验证依据** | 与外部效标的统计相关系数（$r$、回归系数） | 因素分析、多质多法矩阵、[[Hypothesis\|假设]]检验 | 教学大纲双向细目表、学科专家定性评审 |
-> | **核心支柱** | [[Predictive Validity\|预测效度]]（跨期）与 [[Concurrent Validity\|共时效度]]（同时） | 会聚效度（Convergent）与[[Convergent and Discriminant Validity\|区分效度]]（Discriminant） | [[Face Validity\|表面效度]]（Face）与抽样代表性 |
-> | **致命威胁** | **效标污染（Contamination）与效标缺失（Deficiency）** | [[Construct\|构念]]混淆、测量不相关变异 | 题项抽样代表性不足、内容覆盖偏差 |
+> | **验证依据** | 与外部效标的统计相关系数（$r$、回归系数） | 因素分析、多质多法矩阵、[[Hypothesis|假设]]检验 | 教学大纲双向细目表、学科专家定性评审 |
+> | **核心支柱** | [[Predictive Validity|预测效度]]（跨期）与 [[Concurrent Validity|共时效度]]（同时） | 会聚效度（Convergent）与[[Convergent and Discriminant Validity|区分效度]]（Discriminant） | [[Face Validity|表面效度]]（Face）与抽样代表性 |
+> | **致命威胁** | **效标污染（Contamination）与效标缺失（Deficiency）** | [[Construct|构念]]混淆、测量不相关变异 | 题项抽样代表性不足、内容覆盖偏差 |
 
 ---
 
@@ -152,8 +152,8 @@ updated: 2026-08-24
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **效标无偏性准则** | 效标关联效度不仅检验测验本身，更依赖外部效标的无偏性与测量信度 | 测量工具开发、评估量规制定 | Wolf (1994); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al. (2011)]] |
-> | **效标问题与异质性** | 缺乏统一黄金效标会导致特质作为效标时的效应量分散且被系统低估（$r = 0.12$） | 复杂心理特质评估、多维综合评价 | Shapiro (1970); [[Mark A. Runco\|Runco et al. (2026)]] |
+> | **效标无偏性准则** | 效标关联效度不仅检验测验本身，更依赖外部效标的无偏性与测量信度 | 测量工具开发、评估量规制定 | Wolf (1994); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Cohen et al. (2011)]] |
+> | **效标问题与异质性** | 缺乏统一黄金效标会导致特质作为效标时的效应量分散且被系统低估（$r = 0.12$） | 复杂心理特质评估、多维综合评价 | Shapiro (1970); [[Mark A. Runco|Runco et al. (2026)]] |
 
 ---
 
@@ -194,9 +194,9 @@ updated: 2026-08-24
 > [!ma-table]- [[Meta-analysis|元分析]]实证结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 元分析 | 效标关联类型与[[Variable\|变量]]角色 | k / N | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与检验量 | 证据确定性与结论 |
+> | 元分析 | 效标关联类型与[[Variable|变量]]角色 | k / N | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval|CI]] | [[Heterogeneity|异质性]]与检验量 | 证据确定性与结论 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 潜能作为预测源预测外部成就效标（[[Predictive Validity\|预测效度]]） | 52 项元分析 (164 ES) / 2609 项研究 / 1,248,416 人 | 皮尔逊 $r$ / 多水平 CHE + RVE（相关与层级效应模型 + 稳健方差估计） | **$r = 0.29$** $[0.18, 0.41]$ | 显著异质性 | 高，证实潜能对外部效标具备强预测力 |
+> | [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] | 潜能作为预测源预测外部成就效标（[[Predictive Validity|预测效度]]） | 52 项元分析 (164 ES) / 2609 项研究 / 1,248,416 人 | 皮尔逊 $r$ / 多水平 CHE + RVE（相关与层级效应模型 + 稳健方差估计） | **$r = 0.29$** $[0.18, 0.41]$ | 显著异质性 | 高，证实潜能对外部效标具备强预测力 |
 > | 同上 | 潜能作为效标结果受前因预测（效标角色） | 52 项元分析 (164 ES) / 2609 项研究 / 1,248,416 人 | 皮尔逊 $r$ / 多水平 CHE + RVE | **$r = 0.12$** $[0.05, 0.19]$ | 显著异质性 | 高，证实效标定义分歧导致关联偏低 |
 
 ---
@@ -227,8 +227,8 @@ updated: 2026-08-24
 > |:-----|:-----|:---------|:-----|
 > | [[Predictive Validity]] | 概念 | 下位概念 | 预测效度是效标关联效度在存在时间跨度情境下的核心分支。 |
 > | [[Concurrent Validity]] | 概念 | 下位概念 | 共时效度是效标关联效度在同时态情境下的主要分支。 |
-> | [[Construct Validity]] | 概念 | 核心基础 | 效标关联效度为[[Construct\|构念]]效度提供外在经验证据，两者在现代效度框架中深度交织。 |
-> | [[Creativity]] | 概念 | 实证对象 | 创造力实证研究深刻展现了[[Criterion Problem\|效标问题]]与效标关联效应的不对称性。 |
+> | [[Construct Validity]] | 概念 | 核心基础 | 效标关联效度为[[Construct|构念]]效度提供外在经验证据，两者在现代效度框架中深度交织。 |
+> | [[Creativity]] | 概念 | 实证对象 | 创造力实证研究深刻展现了[[Criterion Problem|效标问题]]与效标关联效应的不对称性。 |
 > | [[Triangulation]] | 方法 | 配合技术 | 共时效度常借助多源数据的三角验证来确立测量一致性。 |
-> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al. (2011)]] | 论证 | 理论来源 | 系统阐述效标关联效度的定义、分类与效标选择难题。 |
-> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 论证 | 实证基石 | [[Meta-meta-analysis\|二阶元分析]]实证揭示了[[Variable\|变量]]角色对效标关联强度的显著调制机制。 |
+> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Cohen et al. (2011)]] | 论证 | 理论来源 | 系统阐述效标关联效度的定义、分类与效标选择难题。 |
+> | [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] | 论证 | 实证基石 | [[Meta-meta-analysis|二阶元分析]]实证揭示了[[Variable|变量]]角色对效标关联强度的显著调制机制。 |

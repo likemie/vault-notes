@@ -150,11 +150,11 @@ updated: 2026-08-25
 > | 术语 | 提出者 / 使用者 | 含义侧重与历史定位 |
 > |---|---|---|
 > | **Meta-[[Meta-analysis]]** | Kazrin et al. (1979) | 强调对元分析进行再分析与统计聚合。 |
-> | **Mega-analysis** | Smith (1982) | 强调在样本与[[Document\|文献]]规模上的超级扩展。 |
+> | **Mega-analysis** | Smith (1982) | 强调在样本与[[Document|文献]]规模上的超级扩展。 |
 > | **Super-analysis** | Dillon (1982) | 强调统计抽象层级上的超越。 |
 > | **Super-synthesis** | Sipe & Curlette (1996) | 强调跨元分析的系统综合过程。 |
-> | **Meta-synthesis** | Sipe & Curlette (1997); [[Argument_Higgins_2016_RE\|Higgins (2016)]] | 质性与量化综合的通用统称。 |
-> | **Second-Order Meta-Analysis (SOMA)** | Schmidt & Oh (2013); [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 强调估计一阶[[Sampling Error\|抽样误差]]并采用多水平稳健方差模型进行精确校正的现代统计学标准术语。 |
+> | **Meta-synthesis** | Sipe & Curlette (1997); [[Argument_Higgins_2016_RE|Higgins (2016)]] | 质性与量化综合的通用统称。 |
+> | **Second-Order Meta-Analysis (SOMA)** | Schmidt & Oh (2013); [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] | 强调估计一阶[[Sampling Error|抽样误差]]并采用多水平稳健方差模型进行精确校正的现代统计学标准术语。 |
 
 > [!concept-lens] [[Argument_Higgins_2016_RE|Higgins (2016)]] 的两种用法区分
 > [[Argument_Higgins_2016_RE|Higgins (2016, p. 41)]] 区分了二阶综合的两种截然不同的[[Research Purpose|研究目的]]：
@@ -164,14 +164,14 @@ updated: 2026-08-25
 > [!contrast-table] 二阶元分析三代方法谱系多维对比
 > | 比较维度 | 第一代：粗放元综合<br>（Naive Meta-Synthesis） | 第二代：标准伞状二阶元分析<br>（Standard Umbrella / SOMA） | 第三代：现代多水平稳健二阶元分析<br>（Modern Multilevel & Robust SOMA） |
 > |---|---|---|---|
-> | **代表学者与文献** | Fraser, Walberg & Hattie (1987); Hattie (1992, 2008, 2009); Marzano (1998) | Cooper & Koenka (2012); Cafri et al. (2010); [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]]; [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | Schmidt & Oh (2013); Cheung (2014); Pustejovsky & Tipton (2022); [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] |
-> | **分析单位** | 一阶元分析报告的算术平均值 $d$ | 一阶元分析提取的汇总效应量（$k$ 个独立观测项） | 一阶元分析[[Effect Size\|效应量]]及其多水平依赖集群（Clusters） |
-> | **[[Literature Search\|文献检索]]与质控** | 粗放纳入、无统一质量准入门槛 | 遵循 PRISMA 指南、采用 [[AMSTAR]] / R-AMSTAR 进行严格方法学质量评级 | 遵循 [[PRISMA]] 2020、严格 AMSTAR-2 质控并建立初级研究全量引用矩阵 |
+> | **代表学者与文献** | Fraser, Walberg & Hattie (1987); Hattie (1992, 2008, 2009); Marzano (1998) | Cooper & Koenka (2012); Cafri et al. (2010); [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]]; [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] | Schmidt & Oh (2013); Cheung (2014); Pustejovsky & Tipton (2022); [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] |
+> | **分析单位** | 一阶元分析报告的算术平均值 $d$ | 一阶元分析提取的汇总效应量（$k$ 个独立观测项） | 一阶元分析[[Effect Size|效应量]]及其多水平依赖集群（Clusters） |
+> | **[[Literature Search|文献检索]]与质控** | 粗放纳入、无统一质量准入门槛 | 遵循 PRISMA 指南、采用 [[AMSTAR]] / R-AMSTAR 进行严格方法学质量评级 | 遵循 [[PRISMA]] 2020、严格 AMSTAR-2 质控并建立初级研究全量引用矩阵 |
 > | **效应量尺度处理** | 混用 $d, g, r, \Delta$ 等不同测度而不转换 | 将 OR、$r$、Hedges' $g$ 规范转换为统一 Cohen's $d$ 或 Fisher's $z$ | 统一进行效应量标准化、Fisher's $z$ 变换并保留完整协方差结构 |
-> | **初级研究重叠处理** | 完全忽略（容忍 90%+ 的初级研究重叠） | 宏观经验门槛控制（Cooper & Koenka $\le 25\%$ 重叠率门槛，或计算校正覆盖面积 CCA） | 微观[[Primary and Secondary Documents\|初级文献]]完全矩阵去重，或构建跨元分析重叠协方差矩阵进行统计校正 |
-> | **加权与统计模型** | 简单未加权算术平均、违规套用单级[[Fixed-Effect and Random-Effects Models\|固定效应模型]] | 单水平经典[[Inverse-Variance Weighting\|逆方差加权法]]（$w_i^* = \frac{1}{v_i + \tau^2}$）与[[Fixed-Effect and Random-Effects Models\|随机效应模型]]（Borenstein et al., 2021） | 三水平[[Correlated and Hierarchical Effects Model\|相关与层级效应模型]]（CHE）+ [[Robust Variance Estimation\|稳健方差估计]]（RVE / 三明治估计量） |
-> | **发表偏倚检验** | 无偏倚检验与校正 | 经典漏斗图、Egger 回归截距检验与[[Trim and Fill Method\|剪补法]]（DTTF） | 多水平改进艾格检验（[[Multilevel Egger's Test]]）截距校正与二阶元回归 |
-> | **核心目的与产出** | 建立宏观全景排行榜（League Table）与气压计 | 评估特定领域宏观平均效应、检验亚组调节[[Variable\|变量]]并评估发表偏倚 | 估计无偏宏观效应基准、精确分解全领域多层级异质性、检验理论调节模型 |
+> | **初级研究重叠处理** | 完全忽略（容忍 90%+ 的初级研究重叠） | 宏观经验门槛控制（Cooper & Koenka $\le 25\%$ 重叠率门槛，或计算校正覆盖面积 CCA） | 微观[[Primary and Secondary Documents|初级文献]]完全矩阵去重，或构建跨元分析重叠协方差矩阵进行统计校正 |
+> | **加权与统计模型** | 简单未加权算术平均、违规套用单级[[Fixed-Effect and Random-Effects Models|固定效应模型]] | 单水平经典[[Inverse-Variance Weighting|逆方差加权法]]（$w_i^* = \frac{1}{v_i + \tau^2}$）与[[Fixed-Effect and Random-Effects Models|随机效应模型]]（Borenstein et al., 2021） | 三水平[[Correlated and Hierarchical Effects Model|相关与层级效应模型]]（CHE）+ [[Robust Variance Estimation|稳健方差估计]]（RVE / 三明治估计量） |
+> | **发表偏倚检验** | 无偏倚检验与校正 | 经典漏斗图、Egger 回归截距检验与[[Trim and Fill Method|剪补法]]（DTTF） | 多水平改进艾格检验（[[Multilevel Egger's Test]]）截距校正与二阶元回归 |
+> | **核心目的与产出** | 建立宏观全景排行榜（League Table）与气压计 | 评估特定领域宏观平均效应、检验亚组调节[[Variable|变量]]并评估发表偏倚 | 估计无偏宏观效应基准、精确分解全领域多层级异质性、检验理论调节模型 |
 
 ---
 
@@ -196,14 +196,14 @@ updated: 2026-08-25
 ## 经典二阶综合操作案例：Hattie 的六大领域与影响气压计
 
 > [!ref-table]- Hattie (2009) 六大影响因素领域与气压计分区
-> | 领域分组 | 涵盖维度与特征 | 一阶[[Meta-analysis\|元分析]]数量 | 平均效应量（Cohen's $d$） |
+> | 领域分组 | 涵盖维度与特征 | 一阶[[Meta-analysis|元分析]]数量 | 平均效应量（Cohen's $d$） |
 > |---|---|---|---|
-> | **教师（Teacher）** | 教师期望、[[Student-Teacher Relationship\|师生关系]]、清晰度、微格教学 | 约 36 项元分析 | **$d = 0.49$** |
+> | **教师（Teacher）** | 教师期望、[[Student-Teacher Relationship|师生关系]]、清晰度、微格教学 | 约 36 项元分析 | **$d = 0.49$** |
 > | **课程（Curricula）** | 阅读干预、数学方案、整合课程、户外项目 | 约 147 项元分析 | **$d = 0.45$** |
-> | **教学方法（Teaching）** | 反馈、[[Direct Instruction\|直接教学]]、合作学习、[[Metacognition\|元认知]]策略 | 约 332 项元分析 | **$d = 0.42$** |
+> | **教学方法（Teaching）** | 反馈、[[Direct Instruction|直接教学]]、合作学习、[[Metacognition|元认知]]策略 | 约 332 项元分析 | **$d = 0.42$** |
 > | **学生（Student）** | 先前成就、动机倾向、自我概念、认知能力 | 约 141 项元分析 | **$d = 0.40$** |
 > | **家庭（Home）** | 社会经济地位、家庭环境、父母参与 | 约 33 项元分析 | **$d = 0.31$** |
-> | **学校（School）** | [[Class Size\|班级规模]]、校舍设施、[[Tracking\|分轨制]]、[[School Leadership\|学校领导]] | 约 127 项元分析 | **$d = 0.23$** |
+> | **学校（School）** | [[Class Size|班级规模]]、校舍设施、[[Tracking|分轨制]]、[[School Leadership|学校领导]] | 约 127 项元分析 | **$d = 0.23$** |
 
 > [!tip] 影响气压计的四个判定区间
 > 1. **负面效应区（$d < 0$）** 对学业产生阻碍或倒退（如留级 $d = -0.16$、暑期滑坡）；
@@ -223,13 +223,13 @@ updated: 2026-08-25
 > [!contrast-table] 第二代核心统计方法矩阵
 > | 统计方法条目 | 方法定位与角色 | 解决的核心统计问题与方法论痛点 | 判断标准与决策阈值 | 深度条目索引 |
 > |:---|:---|:---|:---|:---|
-> | **[[Inverse-Variance Weighting\|经典逆方差加权（IVW）]]** | **精度加权基础算法** | 解决简单算术平均扭曲估计精度的问题，依据抽样方差与研究间异质性方差的倒数（$w_i^* = \frac{1}{v_i + \tau^2}$）分配权重，实现合成效应量方差最小化。 | 观察 95% 置信区间是否跨 0 及 $p < .05$；通过 $Q$ 统计量（$p < .05$）与 $I^2$ 指数（$25\%/50\%/75\%$ 分别对应低/中/高度异质性）判定跨研究离散度。 | 🔗 [[Inverse-Variance Weighting]] |
-> | **[[Corrected Covered Area\|校正覆盖面积（CCA）]]** | **初级研究重叠量化标准** | 解决一阶元分析共享底层[[Document\|文献]]导致样本重复计算与假阳性膨胀的痛点，通过扣除基准出现的校正公式精确计算文献重复冗余比例。 | **四级判定阈值** $< 5\%$ 轻微重叠；$5\%–10\%$ 中等重叠；$10\%–15\%$ 高度重叠；$\ge 15\%$ 极高重叠（**通常以 $10\%$ 为排除高重叠元分析的决策红线**）。 | 🔗 [[Corrected Covered Area]] |
-> | **[[GROOVE\|系统评价重叠图形表征工具（GROOVE）]]** | **重叠审计与热力图诊断工具** | 解决人工排查大样本二阶证据库文献重叠繁琐且难以可视化的痛点，自动生成两两配对 CCA 矩阵与四色色彩热力图，指导精准去重。 | **可视化色块诊断** 绿色表示轻微重叠，黄色表示中等重叠，橙色与红色警示高度与极高重叠；识别并剔除 $CCA > 10\%$ 的冗余节点。 | 🔗 [[GROOVE]] |
-> | **[[Fail-Safe N\|经典失安全系数（Fail-Safe N）]]** | **抽屉文件极端敏感性测试** | 解决潜在未发表阴性研究威胁的判断问题，通过计算将当前显著合并效应拉低至不显著所需零效应隐藏研究篇数，设定 $5k + 10$ 安全判定门槛。 | **Rosenthal 安全准则** 若计算值 **$N_{\text{fs}} > 5k + 10$**（$k$ 为纳入效应量数），则判定发表偏倚极难颠覆当前结论；反之则提示证据稳健性较脆弱。 | 🔗 [[Fail-Safe N]] |
-> | **[[Trim and Fill Method\|剪补法（Trim & Fill / DTTF）]]** | **非参数[[Funnel Plot\|漏斗图]]偏倚填补校正** | 解决单侧[[Publication Bias\|发表偏倚]]导致漏斗图不对称与[[Effect Size\|效应量]]高估的问题，通过迭代剪除极端不对称研究锁定对称中心，并对侧镜像填补虚拟研究以重新估计偏倚校正后的真实效应量。 | **填补数与效应量变动判断** 若估计缺失研究数 **$k_{\text{miss}} = 0$** 且校正后效应量无变化，确证无偏倚；若 $k_{\text{miss}} > 0$，对比填补后效应量点估计降幅与 95% CI 是否仍显著。 | 🔗 [[Trim and Fill Method]] |
-> | **[[Egger Regression Test\|经典艾格回归检验（Egger's Test）]]** | **参数化漏斗图不对称与[[Small Study Effects\|小研究效应]]检验** | 解决传统单水平元分析中主观目测漏斗图不对称的不精确性问题，通过标准化效应量对精度的线性回归截距偏离度定量诊断发表偏倚。 | **回归截距显著性判定** 检验线性方程截距 $a$；若 **$p < .05$** 且截距显著偏离 0，确认存在显著发表偏倚/小研究效应；若 **$p \ge .05$**，未检出显著偏倚。 | 🔗 [[Egger Regression Test]] |
-> | **[[Begg and Mazumdar Rank Correlation\|Begg 秩相关检验（Rank Correlation）]]** | **非参数等级相关偏倚检验** | 解决小样本研究与效应量大小单调关联的诊断问题，通过计算标准化效应量与方差的 Kendall's $\tau$ 秩相关，提供不受正态性假定约束的偏倚检验。 | **等级相关显著性标准** 若 **$p \ge .05$**（$\tau$ 接近 0），判定效应量与样本量无单调关联，未提示发表偏倚；若 **$p < .05$** 且 $\tau > 0$，提示存在显著小研究偏倚。 | 🔗 [[Begg and Mazumdar Rank Correlation]] |
+> | **[[Inverse-Variance Weighting|经典逆方差加权（IVW）]]** | **精度加权基础算法** | 解决简单算术平均扭曲估计精度的问题，依据抽样方差与研究间异质性方差的倒数（$w_i^* = \frac{1}{v_i + \tau^2}$）分配权重，实现合成效应量方差最小化。 | 观察 95% 置信区间是否跨 0 及 $p < .05$；通过 $Q$ 统计量（$p < .05$）与 $I^2$ 指数（$25\%/50\%/75\%$ 分别对应低/中/高度异质性）判定跨研究离散度。 | 🔗 [[Inverse-Variance Weighting]] |
+> | **[[Corrected Covered Area|校正覆盖面积（CCA）]]** | **初级研究重叠量化标准** | 解决一阶元分析共享底层[[Document|文献]]导致样本重复计算与假阳性膨胀的痛点，通过扣除基准出现的校正公式精确计算文献重复冗余比例。 | **四级判定阈值** $< 5\%$ 轻微重叠；$5\%–10\%$ 中等重叠；$10\%–15\%$ 高度重叠；$\ge 15\%$ 极高重叠（**通常以 $10\%$ 为排除高重叠元分析的决策红线**）。 | 🔗 [[Corrected Covered Area]] |
+> | **[[GROOVE|系统评价重叠图形表征工具（GROOVE）]]** | **重叠审计与热力图诊断工具** | 解决人工排查大样本二阶证据库文献重叠繁琐且难以可视化的痛点，自动生成两两配对 CCA 矩阵与四色色彩热力图，指导精准去重。 | **可视化色块诊断** 绿色表示轻微重叠，黄色表示中等重叠，橙色与红色警示高度与极高重叠；识别并剔除 $CCA > 10\%$ 的冗余节点。 | 🔗 [[GROOVE]] |
+> | **[[Fail-Safe N|经典失安全系数（Fail-Safe N）]]** | **抽屉文件极端敏感性测试** | 解决潜在未发表阴性研究威胁的判断问题，通过计算将当前显著合并效应拉低至不显著所需零效应隐藏研究篇数，设定 $5k + 10$ 安全判定门槛。 | **Rosenthal 安全准则** 若计算值 **$N_{\text{fs}} > 5k + 10$**（$k$ 为纳入效应量数），则判定发表偏倚极难颠覆当前结论；反之则提示证据稳健性较脆弱。 | 🔗 [[Fail-Safe N]] |
+> | **[[Trim and Fill Method|剪补法（Trim & Fill / DTTF）]]** | **非参数[[Funnel Plot|漏斗图]]偏倚填补校正** | 解决单侧[[Publication Bias|发表偏倚]]导致漏斗图不对称与[[Effect Size|效应量]]高估的问题，通过迭代剪除极端不对称研究锁定对称中心，并对侧镜像填补虚拟研究以重新估计偏倚校正后的真实效应量。 | **填补数与效应量变动判断** 若估计缺失研究数 **$k_{\text{miss}} = 0$** 且校正后效应量无变化，确证无偏倚；若 $k_{\text{miss}} > 0$，对比填补后效应量点估计降幅与 95% CI 是否仍显著。 | 🔗 [[Trim and Fill Method]] |
+> | **[[Egger Regression Test|经典艾格回归检验（Egger's Test）]]** | **参数化漏斗图不对称与[[Small Study Effects|小研究效应]]检验** | 解决传统单水平元分析中主观目测漏斗图不对称的不精确性问题，通过标准化效应量对精度的线性回归截距偏离度定量诊断发表偏倚。 | **回归截距显著性判定** 检验线性方程截距 $a$；若 **$p < .05$** 且截距显著偏离 0，确认存在显著发表偏倚/小研究效应；若 **$p \ge .05$**，未检出显著偏倚。 | 🔗 [[Egger Regression Test]] |
+> | **[[Begg and Mazumdar Rank Correlation|Begg 秩相关检验（Rank Correlation）]]** | **非参数等级相关偏倚检验** | 解决小样本研究与效应量大小单调关联的诊断问题，通过计算标准化效应量与方差的 Kendall's $\tau$ 秩相关，提供不受正态性假定约束的偏倚检验。 | **等级相关显著性标准** 若 **$p \ge .05$**（$\tau$ 接近 0），判定效应量与样本量无单调关联，未提示发表偏倚；若 **$p < .05$** 且 $\tau > 0$，提示存在显著小研究偏倚。 | 🔗 [[Begg and Mazumdar Rank Correlation]] |
 
 ---
 
@@ -241,10 +241,10 @@ updated: 2026-08-25
 > [!contrast-table] 第三代核心统计方法矩阵
 > | 统计方法条目 | 方法定位与角色 | 解决的核心统计问题与方法论痛点 | 判断标准与决策阈值 | 深度条目索引 |
 > |:---|:---|:---|:---|:---|
-> | **[[Correlated and Hierarchical Effects Model\|相关与层级效应模型（CHE）]]** | **方差分解与三水平加权工作模型** | 解决同一研究内多重测量相关（相关效应）与跨元分析嵌套（层级效应）的**双重依赖问题**，通过三水平方差分解提供最优逆方差权重矩阵 $\mathbf{W}$，最大化统计估计效率。 | **三水平方差分布诊断** 计算 $\sigma_1^2$（Level 1 抽样误差）、$\sigma_2^2$（Level 2 簇内测量间方差）、$\sigma_3^2$（Level 3 跨元分析间方差）占比；若 $\sigma_2^2 + \sigma_3^2 > 0$ 则证明多水平建模必要。 | 🔗 [[Correlated and Hierarchical Effects Model]] |
-> | **[[Robust Variance Estimation\|稳健方差估计（RVE / 三明治估计量）]]** | **稳健统计推断与[[Standard Error\|标准误]]校正** | 解决文献重叠与聚类依赖导致传统理论方差严重低估（标准误虚假缩水、假阳性率急剧膨胀）的**推断失真问题**，在无需严苛独立性假定下提供渐近无偏的标准误与霍特林 $T^2$ 小样本调整。 | **小样本自由度安全门槛** 检查调整后的有效自由度 **$\text{df} \ge 4$**（Pustejovsky & Tipton 准则）；在小样本下以霍特林 $T^2$ 与 $F$ 检验替代正态 $Z$ 检验以严格控制 I 型错误率。 | 🔗 [[Robust Variance Estimation]] |
-> | **[[Multilevel Egger's Test\|多水平艾格检验（Multilevel Egger's Test）]]** | **多水平[[Small Study Effects\|小研究效应]]诊断与截距偏倚校正** | 解决传统单水平发表偏倚检验在聚类依赖数据下假阳性率高的问题，并同时实现<strong>“小研究偏倚定量诊断”与“截距校正真实效应量”</strong>的一体化输出。 | **双重参数研判准则** ① 检验斜率系数 $\beta_1$：若 $p < .05$，确认存在显著小研究发表偏倚；② 提取截距项 $\beta_0$：将其作为剔除样本量偏倚后的**无偏真实效应量基准**。 | 🔗 [[Multilevel Egger's Test]] |
-> | **[[Second-Order Meta-Regression\|二阶元回归（Second-Order Meta-Regression）]]** | **全领域[[Heterogeneity\|异质性]]来源多水平分解与调节检验** | 解决宏观二阶效应量高度离散、单一平均值掩盖因果机制的问题，在控制文献重叠下系统检验[[Construct\|构念]]分类、[[Variable\|变量]]角色与研究特征的[[Interaction Effect\|调节效应]]。 | **全模型与亚组解释力标准** 通过多变量 $F$ 检验（$p < .05$）判断协变量联合调节显著性；计算 $R^2$ 评估调节变量对 Level 2 与 Level 3 异质性方差的解释比例。 | 🔗 [[Second-Order Meta-Regression]] |
+> | **[[Correlated and Hierarchical Effects Model|相关与层级效应模型（CHE）]]** | **方差分解与三水平加权工作模型** | 解决同一研究内多重测量相关（相关效应）与跨元分析嵌套（层级效应）的**双重依赖问题**，通过三水平方差分解提供最优逆方差权重矩阵 $\mathbf{W}$，最大化统计估计效率。 | **三水平方差分布诊断** 计算 $\sigma_1^2$（Level 1 抽样误差）、$\sigma_2^2$（Level 2 簇内测量间方差）、$\sigma_3^2$（Level 3 跨元分析间方差）占比；若 $\sigma_2^2 + \sigma_3^2 > 0$ 则证明多水平建模必要。 | 🔗 [[Correlated and Hierarchical Effects Model]] |
+> | **[[Robust Variance Estimation|稳健方差估计（RVE / 三明治估计量）]]** | **稳健统计推断与[[Standard Error|标准误]]校正** | 解决文献重叠与聚类依赖导致传统理论方差严重低估（标准误虚假缩水、假阳性率急剧膨胀）的**推断失真问题**，在无需严苛独立性假定下提供渐近无偏的标准误与霍特林 $T^2$ 小样本调整。 | **小样本自由度安全门槛** 检查调整后的有效自由度 **$\text{df} \ge 4$**（Pustejovsky & Tipton 准则）；在小样本下以霍特林 $T^2$ 与 $F$ 检验替代正态 $Z$ 检验以严格控制 I 型错误率。 | 🔗 [[Robust Variance Estimation]] |
+> | **[[Multilevel Egger's Test|多水平艾格检验（Multilevel Egger's Test）]]** | **多水平[[Small Study Effects|小研究效应]]诊断与截距偏倚校正** | 解决传统单水平发表偏倚检验在聚类依赖数据下假阳性率高的问题，并同时实现<strong>“小研究偏倚定量诊断”与“截距校正真实效应量”</strong>的一体化输出。 | **双重参数研判准则** ① 检验斜率系数 $\beta_1$：若 $p < .05$，确认存在显著小研究发表偏倚；② 提取截距项 $\beta_0$：将其作为剔除样本量偏倚后的**无偏真实效应量基准**。 | 🔗 [[Multilevel Egger's Test]] |
+> | **[[Second-Order Meta-Regression|二阶元回归（Second-Order Meta-Regression）]]** | **全领域[[Heterogeneity|异质性]]来源多水平分解与调节检验** | 解决宏观二阶效应量高度离散、单一平均值掩盖因果机制的问题，在控制文献重叠下系统检验[[Construct|构念]]分类、[[Variable|变量]]角色与研究特征的[[Interaction Effect|调节效应]]。 | **全模型与亚组解释力标准** 通过多变量 $F$ 检验（$p < .05$）判断协变量联合调节显著性；计算 $R^2$ 评估调节变量对 Level 2 与 Level 3 异质性方差的解释比例。 | 🔗 [[Second-Order Meta-Regression]] |
 
 ---
 
@@ -419,12 +419,12 @@ flowchart LR
 >
 > | 条目 | 类型 | 关联方向 | 说明 |
 > |:-----|:-----|:---------|:-----|
-> | [[Critique of Meta-meta-analysis]] | 概念 | 方法学反思 | 系统阐释元-[[Meta-analysis\|元分析]]在[[Epistemology\|认识论]]、测量错位与政策误用层面的理论批判。 |
-> | [[Effect Size Conversion]] | 方法 | 计算前置 | 二阶元分析依赖[[Effect Size\|效应量]]转换统一不同一阶研究的量规尺度。 |
+> | [[Critique of Meta-meta-analysis]] | 概念 | 方法学反思 | 系统阐释元-[[Meta-analysis|元分析]]在[[Epistemology|认识论]]、测量错位与政策误用层面的理论批判。 |
+> | [[Effect Size Conversion]] | 方法 | 计算前置 | 二阶元分析依赖[[Effect Size|效应量]]转换统一不同一阶研究的量规尺度。 |
 > | [[Correlated and Hierarchical Effects Model]] | 方法 | 建模工作模型 | CHE 三水平方差分解为二阶合成提供最优逆方差权重矩阵。 |
-> | [[Robust Variance Estimation]] | 方法 | 稳健推断方法 | RVE 三明治估计量是解决二阶[[Document\|文献]]重叠与聚类依赖的支柱技术。 |
-> | [[Multilevel Egger's Test]] | 方法 | 偏倚控制方法 | 在控制聚类依赖下定量诊断[[Publication Bias\|发表偏倚]]并输出校正后真实效应量。 |
-> | [[Second-Order Meta-Regression]] | 方法 | 调节分析方法 | 运用多水平稳健[[Meta-regression\|元回归]]系统检验全领域[[Construct\|理论构念]]与研究特征的[[Interaction Effect\|调节效应]]。 |
+> | [[Robust Variance Estimation]] | 方法 | 稳健推断方法 | RVE 三明治估计量是解决二阶[[Document|文献]]重叠与聚类依赖的支柱技术。 |
+> | [[Multilevel Egger's Test]] | 方法 | 偏倚控制方法 | 在控制聚类依赖下定量诊断[[Publication Bias|发表偏倚]]并输出校正后真实效应量。 |
+> | [[Second-Order Meta-Regression]] | 方法 | 调节分析方法 | 运用多水平稳健[[Meta-regression|元回归]]系统检验全领域[[Construct|理论构念]]与研究特征的[[Interaction Effect|调节效应]]。 |
 > | [[AMSTAR]] | 工具 | 质量控制 | 用于二阶元分析中对一阶元分析规范度进行量化评级的方法学工具。 |
-> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 论证 | 典范应用 | [[Creativity\|创造力]]领域二阶元分析代表作，确立了现代六步建模与偏倚校正规程。 |
-> | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] | 论证 | 诊断先驱 | 严格证明二级固定效应等价性与文献重叠时经典方差失效的机制。 |
+> | [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] | 论证 | 典范应用 | [[Creativity|创造力]]领域二阶元分析代表作，确立了现代六步建模与偏倚校正规程。 |
+> | [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] | 论证 | 诊断先驱 | 严格证明二级固定效应等价性与文献重叠时经典方差失效的机制。 |

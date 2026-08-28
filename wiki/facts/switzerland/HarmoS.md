@@ -93,4 +93,4 @@ updated: 2026-07-09
 > |:-----|:-----|:-----|
 > | [[PISA]] | 事实 | PISA 结果触发了瑞士的教育改革议程，HarmoS 直接纳入 [[OECD]] 建议。 |
 > | [[OECD]] | 事实 | 通过 PISA 为 HarmoS 提供了政策建议和制度模板。 |
- [[Systematic Review\|系统综述]]中将 HarmoS 作为 PISA 在中观决策层面影响教育改革的典型案例。 |
+ [[Systematic Review|系统综述]]中将 HarmoS 作为 PISA 在中观决策层面影响教育改革的典型案例。 |

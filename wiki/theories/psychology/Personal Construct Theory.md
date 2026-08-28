@@ -65,11 +65,11 @@ updated: 2026-08-01
 > | 元素（Elements） | 概念 | 被建构或理解的对象，包括事件（如"教学"）和心理对象（如"理想自我"）。 |
 > | 基本公设（Fundamental Postulate） | 命题 | 理论的首要前提：心理过程由预期事件的方式所引导。 |
 > | 双极性推论（Dichotomy Corollary） | 机制 | 构念本质上是双极的，可用两极形容词或短语定义——这是 [[Repertory Grid Technique]] 的技术基础。 |
-> | 组织推论（Organization Corollary） | 机制 | [[Construct\|构念]]之间存在从属和上属的层级关系，影响网格分析和阶梯法的使用。 |
+> | 组织推论（Organization Corollary） | 机制 | [[Construct|构念]]之间存在从属和上属的层级关系，影响网格分析和阶梯法的使用。 |
 > | 个体性推论（Individuality Corollary） | 机制 | 人对事件的建构各不相同，支持引发而非提供构念的方法论原则。 |
 > | 共同性推论（Commonality Corollary） | 机制 | 相似的建构方式导致相似的心理过程，为使用提供构念提供了理论依据。 |
 > | 范围推论（Range Corollary） | 机制 | 一个构念只适用于有限范围的事件，说明网格中允许不适用的情况。 |
-> | 选择推论（Choice Corollary） | 机制 | 人选择那些使建构系统获得更大扩展和定义的可能性的替代方案，是[[Laddering\|阶梯法]]的理论基础。 |
+> | 选择推论（Choice Corollary） | 机制 | 人选择那些使建构系统获得更大扩展和定义的可能性的替代方案，是[[Laddering|阶梯法]]的理论基础。 |
 
 ---
 

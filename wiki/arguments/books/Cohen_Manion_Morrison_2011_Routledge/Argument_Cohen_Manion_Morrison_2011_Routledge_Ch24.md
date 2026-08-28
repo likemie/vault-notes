@@ -133,16 +133,16 @@ updated: '2026-08-27'
 > | 类别（英文） | 中文 | 类别（英文） | 中文 |
 > |:--|:--|:--|:--|
 > | ability | 能力 | achievement | 成就 |
-> | anxiety | 焦虑 | aptitude | [[Achievement and Aptitude Tests\|能力倾向]] |
+> | anxiety | 焦虑 | aptitude | [[Achievement and Aptitude Tests|能力倾向]] |
 > | attainment | 学业成绩 | attitudes and values | 态度与价值观 |
 > | behavioural disorders | 行为障碍 | competence-based assessment | 能力本位评估 |
 > | computer-based assessment | 计算机化评估 | [[Creativity]] | 创造力 |
-> | [[Critical Thinking\|critical thinking]] | 批判思维 | cross-cultural adjustment | 跨文化适应 |
+> | [[Critical Thinking|critical thinking]] | 批判思维 | cross-cultural adjustment | 跨文化适应 |
 > | depression | 抑郁 | diagnostic assessment | 诊断性评估 |
-> | diagnosis of difficulties | 困难诊断 | [[Higher-Order Thinking Skills\|higher order thinking]] | 高阶思维 |
+> | diagnosis of difficulties | 困难诊断 | [[Higher-Order Thinking Skills|higher order thinking]] | 高阶思维 |
 > | intelligence | 智力 | interest inventories | 兴趣量表 |
 > | introversion and extraversion | 内外向 | language proficiency tests | 语言能力测验 |
-> | learning disabilities | 学习障碍 | [[Locus of Control\|locus of control]] | 控制点 |
+> | learning disabilities | 学习障碍 | [[Locus of Control|locus of control]] | 控制点 |
 > | motivation and interest | 动机与兴趣 | neuropsychological assessment | 神经心理学评估 |
 > | performance | 表现 | performance in school subjects | 学校科目成绩 |
 > | personality | 人格 | potential | 潜能 |
@@ -293,7 +293,7 @@ updated: '2026-08-27'
 > |------|---------|---------|---------|
 > | **参照对象** | 其他学生的成绩分布 | 预设的绝对标准或结果 | 明确定义的内容全域 |
 > | **变异性** | 至关重要——需要大分数范围 | 不重要——目的在于达标 | 不重要——重点在于代表性推断 |
-> | **[[Item Analysis\|项目区分度]]** | 高度重要——项目必须能区分学生 | 非中央关注 | 非中央关注 |
+> | **[[Item Analysis|项目区分度]]** | 高度重要——项目必须能区分学生 | 非中央关注 | 非中央关注 |
 > | **项目难度** | 理想约为 50%（Frisbie, 1981） | 匹配任务或目标的固有难度 | 由全域内容决定 |
 
 > [!info] 标准参照测验中的区分度与难度悖论
@@ -314,9 +314,9 @@ updated: '2026-08-27'
 
 > [!strength] 商业测验的优势
 > - **客观性** 经过客观开发和标准化
-> - **已优化** 已经过[[Pilot Testing\|预测试]]和优化
+> - **已优化** 已经过[[Pilot Testing|预测试]]和优化
 > - **标准化** 在指定总体（地区、全国、特定年龄组或多个年龄组）上进行了标准化，代表更广泛总体
-> - **信效度明确** 在施测说明手册中声明了[[Reliability\|信度]]和效度的统计数据
+> - **信效度明确** 在施测说明手册中声明了[[Reliability|信度]]和效度的统计数据
 > - **参数测验** 通常为参数测验，支持复杂统计
 > - **说明完备** 附有施测说明，通常直截了当且快速施测和计分
 > - **解释指南** 手册中通常包含数据解释指南
@@ -665,7 +665,7 @@ Gronlund & Linn（1990）建议题目分析需考虑八项准则：
 > | 开放式论文 | 高阶：分析、综合、评价 | 低 |
 > | 事实性高度定向论文 | 中阶：理解、应用、分析 | 中 |
 > | 简答题 | 低-中阶：回忆、理解 | 高 |
-> | [[Divergent Thinking\|发散思维]]题 | 高阶：创造、综合 | 低 |
+> | [[Divergent Thinking|发散思维]]题 | 高阶：创造、综合 | 低 |
 > | 填空题 | 低阶：回忆 | 高 |
 > | 多项选择题 | 低-高阶：全部层级 | 高（机器可读） |
 > | 配对题 | 低-中阶：回忆、理解 | 高 |

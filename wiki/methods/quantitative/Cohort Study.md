@@ -115,8 +115,8 @@ Douglas（1976）对队列研究相对于横截面设计的优势进行了有力
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Longitudinal Study]] | 父类型 | 队列研究是纵向研究的一种子类型。 |
-> | [[Cross-sectional Study]] | 替代方法 | 横截面研究成本更低、速度更快，但不能进行[[Causality\|因果]]分析或个体层面追踪。 |
-> | [[Trend Study]] | 替代方法 | 趋势研究每次使用不同样本，避免[[Pre-test Sensitisation\|预试敏感化]]但不能进行个体层面分析。 |
+> | [[Cross-sectional Study]] | 替代方法 | 横截面研究成本更低、速度更快，但不能进行[[Causality|因果]]分析或个体层面追踪。 |
+> | [[Trend Study]] | 替代方法 | 趋势研究每次使用不同样本，避免[[Pre-test Sensitisation|预试敏感化]]但不能进行个体层面分析。 |
 > | [[Survey Research]] | 前置方法 | 调查是队列研究最常用的数据收集框架。 |
 
 ## 使用此方法的研究

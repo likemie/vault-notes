@@ -63,7 +63,7 @@ updated: 2026-07-19
 > |:-----|:-----|:-----|
 > | [[Action Research]] | 方法 | 与 McTaggart 提出全纳定义（1988）和 17 条核心原则（1992），将行动研究定义为"集体性自我反思探究"；细化勒温的螺旋模型为可操作性步骤（1981） |
 > | [[Participatory Action Research]] | 方法 | 将行动研究追溯至勒温对群体决策的承诺，论证合作性与批判动力不可分割（1992） |
-> | [[Critical Theory]] | 理论 | 与 Carr（1986）将哈贝马斯的知识构成性兴趣和[[Ideal Speech Situation\|理想言说情境]]系统应用于行动研究 |
+> | [[Critical Theory]] | 理论 | 与 Carr（1986）将哈贝马斯的知识构成性兴趣和[[Ideal Speech Situation|理想言说情境]]系统应用于行动研究 |
 
 ---
 

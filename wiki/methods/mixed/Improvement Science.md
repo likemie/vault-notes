@@ -78,13 +78,13 @@ updated: 2026-08-20
 > [!abstract] 与"什么有效"的互补性
 > [[Argument_Peterson_2016_IJRME|Peterson (2016, pp. 306–307)]] 论证改进科学与实验科学并非对立而是互补：
 >
-> | | 实验科学（[[Randomised Controlled Trials\|RCT]]） | 改进科学 |
+> | | 实验科学（[[Randomised Controlled Trials|RCT]]） | 改进科学 |
 > |---|---|---|
-> | 目的 | 建立高[[Internal Validity\|内部效度]]的因果主张 | 在真实情境中持续改进实践 |
-> | 证据形式 | 因果效应估计（[[Effect Size\|效应量]]） | 关于互动和过程的洞见 |
+> | 目的 | 建立高[[Internal Validity|内部效度]]的因果主张 | 在真实情境中持续改进实践 |
+> | 证据形式 | 因果效应估计（[[Effect Size|效应量]]） | 关于互动和过程的洞见 |
 > | 决策模式 | 一次性二选一 | 持续小决策 |
 > | 研究阶段 | 前期"效力研究" | 后期实施和规模扩展 |
-> | 核心弱点 | 生成仅适用于二选一决策的证据（Cartwright & Hardie, 2012） | 缺乏稳健可靠的[[Causality\|因果]]估计来指导改进方向 |
+> | 核心弱点 | 生成仅适用于二选一决策的证据（Cartwright & Hardie, 2012） | 缺乏稳健可靠的[[Causality|因果]]估计来指导改进方向 |
 >
 > Peterson 的整合方案：**[[Mechanism Experiments|机制实验]]**的因果估计为改进网络中的教师探究提供方向性输入；改进网络的实践洞见反馈回新的机制[[Hypothesis|假设]]以进行实验测试([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 307]])。
 

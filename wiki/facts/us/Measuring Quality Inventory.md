@@ -12,9 +12,9 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 7
+fact_related_count: 3
 fact_related_level: 0
-fact_related_stars: ""
+fact_related_stars: "☆"
 fact_related_color: "#fef3c7"
 issuing_organization: "AIR, ACE, NILOA"
 tags:
@@ -22,16 +22,12 @@ tags:
   - theme/quality-assurance
   - level/higher-education
   - region/us
-related_concepts:
-  - "[[Authentic Assessment]]"
-  - "[[Critical Thinking]]"
-  - "[[Creativity]]"
-  - "[[Construct Validity]]"
+related_concepts: []
 related_theories: []
 related_methods: []
 related_instruments:
-  - "[[VALUE Rubrics]]"
   - "[[National Survey of Student Engagement]]"
+  - "[[VALUE Rubrics]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -64,7 +60,7 @@ updated: 2026-08-28
 > | 工具类别 | 收录数量与代表工具 | 批判性思维覆盖情况 | 创造力覆盖情况 | 核心生态特征 |
 > |---|---|---|---|---|
 > | **标准化认知测验** | CLA+、CAAP、ETS-PP、CCTST 等数十种 | **广泛覆盖**（但多依赖选择题） | **几乎为零** | 偏重通用认知推理与读写算能力，依赖常模排序 |
-> | **学生投入与体验问卷** | [[National Survey of Student Engagement\|NSSE]]、CEQ 等 | 间接自报涵盖 | 间接自报涵盖 | 测量学生感知与学习行为投入，非直接表现性测查 |
+> | **学生投入与体验问卷** | [[National Survey of Student Engagement|NSSE]]、CEQ 等 | 间接自报涵盖 | 间接自报涵盖 | 测量学生感知与学习行为投入，非直接表现性测查 |
 > | **表现性校本量规** | AAC&U [[VALUE Rubrics]] 系列 | 专设批判性思维量规 | 仅有唯一专设量规（AAC&U VALUE 创造力量规） | 依赖教师校准与课程嵌入，具有极高生态效度 |
 > | **软件与管理平台** | 各类数据挖掘与院校研究分析软件 | 算法间接建模 | 无法直接测度 | 偏重机构效率与学业完成度指标 |
 

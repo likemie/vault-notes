@@ -182,7 +182,7 @@ updated: 2026-08-25
 > |:-----|:-----|:-----|
 > | [[Meta-analysis]] | 基础方法 | 三层元分析是传统二层元分析在多层数据结构下的拓展。 |
 > | [[Fixed-Effect and Random-Effects Models]] | 统计模型 | 提供了三层模型中随机效应设定的理论基础。 |
-> | [[Moderator Analysis]] | 分析策略 | 在三层架构下通过多元[[Meta-regression\|元回归]]检验研究内与研究间协[[Variable\|变量]]的[[Interaction Effect\|调节效应]]。 |
+> | [[Moderator Analysis]] | 分析策略 | 在三层架构下通过多元[[Meta-regression|元回归]]检验研究内与研究间协[[Variable|变量]]的[[Interaction Effect|调节效应]]。 |
 > | [[Meta-regression]] | 分析方法 | 三层混合效应模型通过元回归整合固定效应协变量。 |
 
 ---

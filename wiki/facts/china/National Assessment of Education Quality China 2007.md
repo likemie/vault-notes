@@ -93,4 +93,4 @@ updated: 2026-07-09
 > |:-----|:-----|:-----|
 > | [[PISA]] | 事实 | NAEQ 参照 PISA 标准并进行了批判性改编。 |
 > | [[OECD]] | 事实 | PISA 的运营主体，通过 PISA 框架间接影响了 NAEQ 的指标体系设计。 |
- [[Systematic Review\|系统综述]]中将 NAEQ 作为 PISA 在中观决策层面影响教育改革的典型案例。 |
+ [[Systematic Review|系统综述]]中将 NAEQ 作为 PISA 在中观决策层面影响教育改革的典型案例。 |

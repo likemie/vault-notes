@@ -93,9 +93,9 @@ issuing_organization: ""
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **自然化认识论**<br>[[Epistemological Naturalism]] | 论证心理学可以直接研究人类形成和评估信念的自然[[Causal Processes\|因果过程]]（causal processes），为引入来源与确证以及可靠过程提供哲学合法性。 |
-> | **美德认识论**<br>[[Virtue Epistemology]] | 关注[[Epistemology\|认识论]]美德，论证主体的性情（如理智勇气）是知识获取的核心条件，为主张引入第四组件提供基础。 |
-> | **可靠主义**<br>[[Reliabilism]] | 论证产生真信念的因果过程本身的[[Reliability\|可靠性]]比主观给出的理由更具决定意义，为引入第五组件提供逻辑起点。 |
+> | **自然化认识论**<br>[[Epistemological Naturalism]] | 论证心理学可以直接研究人类形成和评估信念的自然[[Causal Processes|因果过程]]（causal processes），为引入来源与确证以及可靠过程提供哲学合法性。 |
+> | **美德认识论**<br>[[Virtue Epistemology]] | 关注[[Epistemology|认识论]]美德，论证主体的性情（如理智勇气）是知识获取的核心条件，为主张引入第四组件提供基础。 |
+> | **可靠主义**<br>[[Reliabilism]] | 论证产生真信念的因果过程本身的[[Reliability|可靠性]]比主观给出的理由更具决定意义，为引入第五组件提供逻辑起点。 |
 > | **扩展的认识论认知框架**<br>[[Expanded Framework of Epistemic Cognition]] | 整合双重辩护生成的五组件模型。 |
 
 ---

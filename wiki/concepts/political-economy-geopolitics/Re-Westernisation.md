@@ -73,11 +73,11 @@ updated: 2026-07-11
 ## 概念辨析
 
 > [!contrast-table] 概念辨析
-> | 维度 | Re-Westernisation (再西方化) | [[De-Westernisation\|De-Westernisation (去西方化)]] |
+> | 维度 | Re-Westernisation (再西方化) | [[De-Westernisation|De-Westernisation (去西方化)]] |
 > |------|--------|----------------|
 > | **地缘代表主体** | 以美国与西欧等资本主义帝国核心为主导。 | 以中国等新兴崛起非西方力量为代表。 |
-> | **权力目标** | 巩固和维系启蒙以来以西方为中心的全球规则与[[Epistemology\|认识论]]霸权。 | 争夺全球资本分配、地缘控制权与知识主导权，而非制度性替代。 |
-> | **在比较教育中的表现** | 推广 [[PISA]] 测评、世界文化理性规范和[[Governing at a Distance\|远处治理]]技术。 | 利用国家机器构建本土文化话语，并在技术民族主义下重塑知识版图。 |
+> | **权力目标** | 巩固和维系启蒙以来以西方为中心的全球规则与[[Epistemology|认识论]]霸权。 | 争夺全球资本分配、地缘控制权与知识主导权，而非制度性替代。 |
+> | **在比较教育中的表现** | 推广 [[PISA]] 测评、世界文化理性规范和[[Governing at a Distance|远处治理]]技术。 | 利用国家机器构建本土文化话语，并在技术民族主义下重塑知识版图。 |
 
 ---
 
@@ -85,7 +85,7 @@ updated: 2026-07-11
 
 > [!feature] 核心要素 (本要素归纳自 [[Argument_Klerides_2023_CE|Klerides, 2023, p. 429]])
 > - **新帝国主义与[[Governing at a Distance|远处治理]]（New Imperialism & Governing at a Distance）** 将全球治理重构为“新帝国主义”（Tikly, 2004），将 [[OECD]] 等机构重塑为“知识新帝国”（Klerides et al., 2014）与“更精巧的帝国”（Cowen, 2018），把教育从文明化话语推向新殖民的“发展”[[Paradigm|范式]]。
-> - **[[Banal Imperialism|平庸的帝国主义]]与数据[[Disciplina and Doctrina|规训]]（Banal Imperialism & Big Data Governance）** [[PISA]] 等评估被解读为“[[Banal Imperialism\|平庸的帝国主义]]”（banal imperialism），通过大数据的日常生产和流动，以科学中立名义再生产对非西方社会的他者化（Othering）与规训。(Silova & Auld, 2019)
+> - **[[Banal Imperialism|平庸的帝国主义]]与数据[[Disciplina and Doctrina|规训]]（Banal Imperialism & Big Data Governance）** [[PISA]] 等评估被解读为“[[Banal Imperialism|平庸的帝国主义]]”（banal imperialism），通过大数据的日常生产和流动，以科学中立名义再生产对非西方社会的他者化（Othering）与规训。(Silova & Auld, 2019)
 > - **[[Orientalism|东方主义]]矮化与[[Epistemology|认识论]]优越感（Orientalist Othering & Epistemic Superiority）** 即使非西方系统（如东亚）在量化测评中取得高分，西方话语仍通过东方主义的矮化与选择性剪裁，延续西方认识型的垄断地位。(Takayama, 2018, 引自 [[Argument_Klerides_2023_CE|Klerides, 2023, p. 428]])
 
 > [!logic-map]- 要素关系
@@ -107,7 +107,7 @@ updated: 2026-07-11
 > 这一命题分析大数据评估如何作为日常帝国主义运作。
 
 > [!claim] [[Eleftherios Klerides|Klerides, E.]]
-> **[[Banal Imperialism|平庸的帝国主义]]与远处[[Disciplina and Doctrina|规训]]** 指出在新自由主义全球化下，再西方化不需要通过领土侵占，而是将 [[OECD]] 等机构重塑为“知识新帝国”来行使软性[[Governing at a Distance|远处治理]]。[[PISA]] 大数据的日常生产和跨国流动，构成了“[[Banal Imperialism\|平庸的帝国主义]]”（Banal Imperialism），强迫发展中国家为了被承承认为世界社会成员而削足适履地趋同于西方的学校模型，本质上维持了中心对边缘的结构性剥削。([[Argument_Klerides_2023_CE|Klerides, 2023, pp. 428–429]])
+> **[[Banal Imperialism|平庸的帝国主义]]与远处[[Disciplina and Doctrina|规训]]** 指出在新自由主义全球化下，再西方化不需要通过领土侵占，而是将 [[OECD]] 等机构重塑为“知识新帝国”来行使软性[[Governing at a Distance|远处治理]]。[[PISA]] 大数据的日常生产和跨国流动，构成了“[[Banal Imperialism|平庸的帝国主义]]”（Banal Imperialism），强迫发展中国家为了被承承认为世界社会成员而削足适履地趋同于西方的学校模型，本质上维持了中心对边缘的结构性剥削。([[Argument_Klerides_2023_CE|Klerides, 2023, pp. 428–429]])
 
 ---
 

@@ -86,10 +86,10 @@ updated: 2026-08-24
 > [!contrast-table] 小研究效应 vs [[Publication Bias|发表偏倚]] vs 方法学质量缺陷
 > | 比较维度 | 小研究效应（Small-Study Effects） | 发表偏倚（Publication Bias） | 方法学质量缺陷（Methodological Quality Defect） |
 > |---|---|---|---|
-> | **性质定位** | **可观测的统计现象（[[Effect Size\|效应量]]与[[Standard Error\|标准误]]正相关）** | 导致现象产生的机制之一（基于 $p$ 值筛选发表） | 导致现象产生的机制之一（缺乏双盲、[[Random Assignment\|随机化]]不足） |
-> | **表现形态** | [[Funnel Plot\|漏斗图]]底部散点向有利益偏向的一侧严重倾斜 | 漏斗图左下角（小样本非显著区）数据点大面积缺失 | 小样本研究中报告的效应量因执行松散而虚高 |
-> | **检测与校正手段** | **艾格回归（Egger's Test）、多水平 [[Robust Variance Estimation\|RVE]] 截距模型** | [[Trim and Fill Method\|剪补法]]（Trim and Fill）、选择模型（Selection Models） | [[AMSTAR]] 质量评分分层、[[Second-Order Meta-Regression\|二阶元回归]]调节检验 |
-> | **[[Meta-meta-analysis\|二阶元分析]]表现** | 显著存在（$F = 15.7, p = .002$），校正后为 $r = 0.17$ | 经全面灰色[[Literature Search\|文献检索]]与博硕士论文纳入得到部分控制 | AMSTAR 高质量 vs 低质量调节不显著（$p = .34$） |
+> | **性质定位** | **可观测的统计现象（[[Effect Size|效应量]]与[[Standard Error|标准误]]正相关）** | 导致现象产生的机制之一（基于 $p$ 值筛选发表） | 导致现象产生的机制之一（缺乏双盲、[[Random Assignment|随机化]]不足） |
+> | **表现形态** | [[Funnel Plot|漏斗图]]底部散点向有利益偏向的一侧严重倾斜 | 漏斗图左下角（小样本非显著区）数据点大面积缺失 | 小样本研究中报告的效应量因执行松散而虚高 |
+> | **检测与校正手段** | **艾格回归（Egger's Test）、多水平 [[Robust Variance Estimation|RVE]] 截距模型** | [[Trim and Fill Method|剪补法]]（Trim and Fill）、选择模型（Selection Models） | [[AMSTAR]] 质量评分分层、[[Second-Order Meta-Regression|二阶元回归]]调节检验 |
+> | **[[Meta-meta-analysis|二阶元分析]]表现** | 显著存在（$F = 15.7, p = .002$），校正后为 $r = 0.17$ | 经全面灰色[[Literature Search|文献检索]]与博硕士论文纳入得到部分控制 | AMSTAR 高质量 vs 低质量调节不显著（$p = .34$） |
 
 ---
 
@@ -140,5 +140,5 @@ updated: 2026-08-24
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **复合偏倚识别** | 小研究效应源于[[Publication Bias\|发表偏倚]]、方法学妥协与真实[[Heterogeneity\|异质性]]的复合作用 | 循证研究质量评估、[[Systematic Review\|系统综述]]检验 | Sterne & Egger (2005); Sterne et al. (2000) |
-> | **多水平截距校正** | 借助多水平 RVE 艾格回归外推无偏截距，确立创造力二阶基准效应（$r = 0.17$） | 二阶元分析建模、发表偏倚敏感性校正 | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]]; Rodgers & Pustejovsky (2021) |
+> | **复合偏倚识别** | 小研究效应源于[[Publication Bias|发表偏倚]]、方法学妥协与真实[[Heterogeneity|异质性]]的复合作用 | 循证研究质量评估、[[Systematic Review|系统综述]]检验 | Sterne & Egger (2005); Sterne et al. (2000) |
+> | **多水平截距校正** | 借助多水平 RVE 艾格回归外推无偏截距，确立创造力二阶基准效应（$r = 0.17$） | 二阶元分析建模、发表偏倚敏感性校正 | [[Argument_Runco_2026_CRJ|Runco et al. (2026)]]; Rodgers & Pustejovsky (2021) |

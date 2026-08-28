@@ -84,9 +84,9 @@ updated: 2026-08-25
 > [!contrast-table] 经典逆方差模型 vs 多水平[[Fixed-Effect and Random-Effects Models|随机效应模型]] vs RVE 三明治估计量
 > | 比较维度 | Wecker 经典固定效应逆方差 | 经典多水平随机效应模型 | RVE 稳健三明治估计量 |
 > |---|---|---|---|
-> | **依赖性[[Hypothesis\|假设]]** | 严格假设所有研究互不重叠且独立 | 假设研究内完全符合特定层级正态分布 | **允许未知的复杂文献重叠与聚类依赖** |
+> | **依赖性[[Hypothesis|假设]]** | 严格假设所有研究互不重叠且独立 | 假设研究内完全符合特定层级正态分布 | **允许未知的复杂文献重叠与聚类依赖** |
 > | **方差估计机制** | 依赖模型理论方差 $\operatorname{Var} = 1/\sum w_j$ | 依赖参数似然估计 $\operatorname{Var} = (\mathbf{X}' \mathbf{V}^{-1} \mathbf{X})^{-1}$ | **“面包”夹“经验残差外积肉层”非参数校正** |
-> | **重叠数据表现** | [[Standard Error\|标准误]]人为严重低估，假阳性爆炸 | 工作模型误设时标准误失真 | **自动吸收未知重叠，标准误严格渐近无偏** |
+> | **重叠数据表现** | [[Standard Error|标准误]]人为严重低估，假阳性爆炸 | 工作模型误设时标准误失真 | **自动吸收未知重叠，标准误严格渐近无偏** |
 > | **小样本表现** | 无法处理小样本抽样依赖 | 容易低估随机效应方差 | **CR2 杠杆校正 + Hotelling $T^2$ 保证严格名义检验** |
 
 ---
@@ -239,9 +239,9 @@ updated: 2026-08-25
 >
 > | 条目 | 类型 | 关联方向 | 说明 |
 > |:-----|:-----|:---------|:-----|
-> | [[Meta-meta-analysis]] | 综合方法 | 核心支撑 | 二阶[[Meta-analysis\|元分析]]运用 RVE 彻底解决一阶[[Document\|文献]]重叠导致的虚假显著性问题。 |
+> | [[Meta-meta-analysis]] | 综合方法 | 核心支撑 | 二阶[[Meta-analysis|元分析]]运用 RVE 彻底解决一阶[[Document|文献]]重叠导致的虚假显著性问题。 |
 > | [[Correlated and Hierarchical Effects Model]] | 基础模型 | 最佳搭档 | CHE 模型提供最优化加权工作矩阵，RVE 在此基础上进行稳健方差校正。 |
-> | [[Multilevel Egger's Test]] | 偏倚方法 | 结合应用 | 运用 RVE 确保多水平艾格回归偏倚检验斜率与截距[[Standard Error\|标准误]]的稳健性。 |
-> | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] | 论证 | 理论基础 | 严格证明二阶逆方差等价性及文献重叠时经典方差失效机制，构成 RVE 的理论出发点。 |
-> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 论证 | 典范应用 | 在[[Creativity\|创造力]]二阶元分析中运用 CHE + RVE 完成了 52 项元分析的稳健推断与[[Meta-regression\|元回归]]。 |
-> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 论证 | 敏感性分析 | 在三水平[[Meta-analysis\|元分析]]基础上采用 RVE（clubSandwich，CR 调整）检验研究内依赖效应的稳健性，得到与主分析一致的估计（$r = 0.386, 95\%\text{ CI }[0.292, 0.473]$）。 |
+> | [[Multilevel Egger's Test]] | 偏倚方法 | 结合应用 | 运用 RVE 确保多水平艾格回归偏倚检验斜率与截距[[Standard Error|标准误]]的稳健性。 |
+> | [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] | 论证 | 理论基础 | 严格证明二阶逆方差等价性及文献重叠时经典方差失效机制，构成 RVE 的理论出发点。 |
+> | [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] | 论证 | 典范应用 | 在[[Creativity|创造力]]二阶元分析中运用 CHE + RVE 完成了 52 项元分析的稳健推断与[[Meta-regression|元回归]]。 |
+> | [[Argument_Park_2026_TSC|Park et al. (2026)]] | 论证 | 敏感性分析 | 在三水平[[Meta-analysis|元分析]]基础上采用 RVE（clubSandwich，CR 调整）检验研究内依赖效应的稳健性，得到与主分析一致的估计（$r = 0.386, 95\%\text{ CI }[0.292, 0.473]$）。 |

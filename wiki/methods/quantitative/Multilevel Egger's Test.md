@@ -76,8 +76,8 @@ updated: 2026-08-24
 > [!contrast-table] 传统单水平 Egger 检验 vs [[Funnel Plot|漏斗图]][[Trim and Fill Method|剪补法]] vs 多水平 Egger 检验
 > | 比较维度 | 传统 Egger 检验（1997） | 漏斗图剪补法（Trim and Fill） | 多水平 Egger 检验（Rodgers & Pustejovsky, 2021） |
 > |---|---|---|---|
-> | **独立性[[Hypothesis\|假设]]** | 假定每项[[Research Contribution\|研究贡献]]单一独立[[Effect Size\|效应量]] | 假定漏斗图基于独立样本 | **允许效应量嵌套于研究/[[Meta-analysis\|元分析]]中（聚类依赖）** |
-> | **依赖数据下的表现** | [[Standard Error\|标准误]]严重低估，假阳性率急剧上升（把聚类相关误判为偏倚） | 插补伪造研究，在多水平数据下失效 | **结合 CHE/[[Robust Variance Estimation\|RVE]] 正确控制多层误差结构** |
+> | **独立性[[Hypothesis|假设]]** | 假定每项[[Research Contribution|研究贡献]]单一独立[[Effect Size|效应量]] | 假定漏斗图基于独立样本 | **允许效应量嵌套于研究/[[Meta-analysis|元分析]]中（聚类依赖）** |
+> | **依赖数据下的表现** | [[Standard Error|标准误]]严重低估，假阳性率急剧上升（把聚类相关误判为偏倚） | 插补伪造研究，在多水平数据下失效 | **结合 CHE/[[Robust Variance Estimation|RVE]] 正确控制多层误差结构** |
 > | **核心产出** | 仅给出偏倚显著性检验 $p$ 值 | 填补虚拟研究后的粗糙估计 | **同时输出偏倚显著性 $p$ 值与偏倚校正后的无偏截距 $\beta_0$** |
 
 > [!concept-lens] 多水平 Egger 检验解决的核心痛点
@@ -181,7 +181,7 @@ updated: 2026-08-24
 >
 > | 条目 | 类型 | 关联方向 | 说明 |
 > |:-----|:-----|:---------|:-----|
-> | [[Meta-meta-analysis]] | 综合方法 | 偏倚控制 | 二阶[[Meta-analysis\|元分析]]运用多水平艾格检验输出全领域校正后真实[[Effect Size\|效应量]]。 |
+> | [[Meta-meta-analysis]] | 综合方法 | 偏倚控制 | 二阶[[Meta-analysis|元分析]]运用多水平艾格检验输出全领域校正后真实[[Effect Size|效应量]]。 |
 > | [[Correlated and Hierarchical Effects Model]] | 基础模型 | 建模底层 | 多水平艾格回归建立在 CHE 三水平随机效应方差分解之上。 |
-> | [[Robust Variance Estimation]] | 推断方法 | 统计保障 | 运用 RVE 确保多水平艾格回归截距与斜率的[[Standard Error\|标准误]]保持稳健。 |
-> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 论证 | 典范应用 | 检验发现显著小研究效应（$p = .002$），并将创造力总体效应量校正为 $r = 0.17$。 |
+> | [[Robust Variance Estimation]] | 推断方法 | 统计保障 | 运用 RVE 确保多水平艾格回归截距与斜率的[[Standard Error|标准误]]保持稳健。 |
+> | [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] | 论证 | 典范应用 | 检验发现显著小研究效应（$p = .002$），并将创造力总体效应量校正为 $r = 0.17$。 |

@@ -140,9 +140,9 @@ updated: 2026-08-20
 > [!effect-table]- 班级规模效应的一级研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | 效应量 | 显著性或不确定性 | 设计与解释边界 |
+> | 研究 | 比较或干预 | [[Dependent Variable|结果变量]] | 分析样本 | 组别统计 | 效应量 | 显著性或不确定性 | 设计与解释边界 |
 > |---|---|---|---|---|---|---|---|
-> | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] | 小班 13–17 人 与 22–25 人的大班进行比较（STAR 项目） | 标准化测试成绩 | — | — | $d = 0.62$–$0.66$ | — | 随机实验设计，两年[[Pre-test and Post-test\|后测]]量；学校代表性、[[Random Assignment\|随机分配]]和教师质量影响外推 |
+> | [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] | 小班 13–17 人 与 22–25 人的大班进行比较（STAR 项目） | 标准化测试成绩 | — | — | $d = 0.62$–$0.66$ | — | 随机实验设计，两年[[Pre-test and Post-test|后测]]量；学校代表性、[[Random Assignment|随机分配]]和教师质量影响外推 |
 > | 同上 | Smith & Glass 班级规模元分析 | 阅读 | — | — | $d = 0.30$ | — | 采用更严格纳入标准后的估计 |
 > | 同上 | Smith & Glass 班级规模元分析 | 数学 | — | — | $d = 0.32$ | — | 同上 |
 > | 同上 | 伦敦班级规模研究 | 读写与算术 | 199 校 / 330 班 / 7,142 生 | Reception 年有明显效果 | — | Year 1 后效果不再明显 | 自然主义设计；效果集中在低年级和低能力儿童 |

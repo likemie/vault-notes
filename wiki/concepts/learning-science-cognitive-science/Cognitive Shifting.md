@@ -71,8 +71,8 @@ updated: 2026-08-25
 > [!ref-table]- 常用测量工具
 > | 工具 | 说明 |
 > |---|---|
-> | **威斯康星卡片分类任务**<br>（Wisconsin Card Sorting Task, WCST） | 要求参与者按某一标准（颜色、形状或图像）对卡片进行分类，然后在给定时刻切换标准；切换可通过明确陈述规则变更或通过任务同步的正负反馈给出。（[[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p. 5]]） |
-> | **维度变化卡片分类任务**<br>（Dimensional Change Card Sort, DCCS） | WCST 的简化变体，用于幼儿；切换前阶段按一种标准分类，切换后阶段按另一种标准分类。3 岁以下儿童虽能正确执行切换前阶段，但无法独立完成切换后阶段。（[[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p. 11]]） |
+> | **威斯康星卡片分类任务**<br>（Wisconsin Card Sorting Task, WCST） | 要求参与者按某一标准（颜色、形状或图像）对卡片进行分类，然后在给定时刻切换标准；切换可通过明确陈述规则变更或通过任务同步的正负反馈给出。（[[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p. 5]]） |
+> | **维度变化卡片分类任务**<br>（Dimensional Change Card Sort, DCCS） | WCST 的简化变体，用于幼儿；切换前阶段按一种标准分类，切换后阶段按另一种标准分类。3 岁以下儿童虽能正确执行切换前阶段，但无法独立完成切换后阶段。（[[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p. 11]]） |
 
 ---
 

@@ -82,18 +82,18 @@ updated: 2026-08-25
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
+> | 研究 | 比较或干预 | [[Dependent Variable|结果变量]] | 分析样本 | 组别统计 | [[Effect Size|效应量]] | 显著性或不确定性 | 设计与解释边界 |
 > |---|---|---|---|---|---|---|---|
-> | Elmaadaway et al. (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 智能语音[[Dialogue in Education\|对话]]聊天机器人 vs. 常规听说练习 | 初中 EFL 英语口语阅读流利度（WCPM） | $N = 60$（干预 $n = 30$, 控制 $n = 30$） | — | Hedges' $g = 2.12$ | $p < .001$ | 准实验设计；秒级发音重铸与低焦虑环境带来巨大促学增益 |
-> | Chen et al. (2024)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 交互式古诗词虚拟人物问答[[AI Agent in Education\|智能体]] vs. 传统精读教学 | 语文古诗词意境理解与发散鉴赏表现 | $N = 80$ | — | Hedges' $g = 1.15$ | $p < .001$ | 准实验设计；多轮启发式对话显著促进情境代入与深层理解 |
-> | Sapan & Uzun (2024)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 对话式写作助手分步脚手架 vs. 独立自由写作 | 初中英语段落结构与论点展开质量 | $N = 68$ | — | Hedges' $g = 0.08$ | $p > .05$ | [[Quasi-Experimental Designs\|准实验设计]]；写作提示若缺乏教师干预则增益较为有限 |
+> | Elmaadaway et al. (2025)，引自 [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] | 智能语音[[Dialogue in Education|对话]]聊天机器人 vs. 常规听说练习 | 初中 EFL 英语口语阅读流利度（WCPM） | $N = 60$（干预 $n = 30$, 控制 $n = 30$） | — | Hedges' $g = 2.12$ | $p < .001$ | 准实验设计；秒级发音重铸与低焦虑环境带来巨大促学增益 |
+> | Chen et al. (2024)，引自 [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] | 交互式古诗词虚拟人物问答[[AI Agent in Education|智能体]] vs. 传统精读教学 | 语文古诗词意境理解与发散鉴赏表现 | $N = 80$ | — | Hedges' $g = 1.15$ | $p < .001$ | 准实验设计；多轮启发式对话显著促进情境代入与深层理解 |
+> | Sapan & Uzun (2024)，引自 [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] | 对话式写作助手分步脚手架 vs. 独立自由写作 | 初中英语段落结构与论点展开质量 | $N = 68$ | — | Hedges' $g = 0.08$ | $p > .05$ | [[Quasi-Experimental Designs|准实验设计]]；写作提示若缺乏教师干预则增益较为有限 |
 
 > [!ma-table]- 一阶[[Meta-analysis|元分析]]互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
 >
 > | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（[[AI Agent in Education\|智能体]]技术类型） | [[Dialogue in Education\|对话]]式智能体（Conversational AI） | $k = 30$ / — | $g = 0.468$ $[0.008, 0.645]$ | $p < .05$ | 证据库中[[Sample Size Determination\|样本量]]最大（占总体[[Effect Size\|效应量]] 41%），在语言读写与口语互动中优势突出 |
+> | [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] | 干预因素（[[AI Agent in Education|智能体]]技术类型） | [[Dialogue in Education|对话]]式智能体（Conversational AI） | $k = 30$ / — | $g = 0.468$ $[0.008, 0.645]$ | $p < .05$ | 证据库中[[Sample Size Determination|样本量]]最大（占总体[[Effect Size|效应量]] 41%），在语言读写与口语互动中优势突出 |
 
 ---
 

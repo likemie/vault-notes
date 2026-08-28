@@ -76,10 +76,10 @@ updated: 2026-06-24
 > |---|---|---|
 > | 1 | 准备初步版本——使用回译技术 | 回译本身 |
 > | 2 | 委员会评估（3–5 人专家审查） | 检查回译版本是否可接受 |
-> | 3 | [[Pilot Testing\|预测试]]实验版本 | — |
-> | 4 | 双语参与者评估内容和[[Concurrent Validity\|共时效度]] | 比较两种语言版本的回答 |
-> | 5 | [[Reliability\|信度]]分析（[[Internal Consistency\|Cronbach alpha]]） | — |
-> | 6 | 评估[[Construct Validity\|构念效度]]（因子分析） | — |
+> | 3 | [[Pilot Testing|预测试]]实验版本 | — |
+> | 4 | 双语参与者评估内容和[[Concurrent Validity|共时效度]] | 比较两种语言版本的回答 |
+> | 5 | [[Reliability|信度]]分析（[[Internal Consistency|Cronbach alpha]]） | — |
+> | 6 | 评估[[Construct Validity|构念效度]]（因子分析） | — |
 > | 7 | 建立常模 | — |
 
 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 184–185)]]

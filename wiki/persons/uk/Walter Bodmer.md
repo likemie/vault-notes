@@ -120,4 +120,4 @@ updated: 2026-08-23
 > |:-----|:-----|:-----|
 > | [[Bodmer Report 1985]] | 政策 | 1985年主持撰写的奠基性报告，重塑英国科学传播政策体系。 |
 > | [[Public Engagement with Science]] | 概念 | 将科学传播确立为科学家的制度化职业职责。 |
-> | [[Scientific Literacy]] | 概念 | 倡导贯穿义务教育与高中阶段的[[Citizen Science\|公民科学]]素养培养。 |
+> | [[Scientific Literacy]] | 概念 | 倡导贯穿义务教育与高中阶段的[[Citizen Science|公民科学]]素养培养。 |

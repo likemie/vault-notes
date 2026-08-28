@@ -88,7 +88,7 @@ updated: 2026-06-16
 > [!ref-table] 相关条目索引
 > | 条目 | 关系 | 来源 |
 > |---|---|---|
-> | [[LANTITE]] | ACER 负责运营并据此获取数百万营业额的全国初始教师毕业门槛统考。 | ([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]]) |
-> | [[Teacher Education Ministerial Advisory Group\|TEMAG]] | 建议推行 LANTITE 并将 ACER 确立为主要统考管理实体的改革政策文本。 | |
-> | [[Australian Education Research Organisation]] | 共同编织澳大利亚[[Evidence-Based Education\|循证教育]]生态并影响大纲改造的证据中介网络节点。 | ([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 8]]) |
+> | [[LANTITE]] | ACER 负责运营并据此获取数百万营业额的全国初始教师毕业门槛统考。 | ([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]]) |
+> | [[Teacher Education Ministerial Advisory Group|TEMAG]] | 建议推行 LANTITE 并将 ACER 确立为主要统考管理实体的改革政策文本。 | |
+> | [[Australian Education Research Organisation]] | 共同编织澳大利亚[[Evidence-Based Education|循证教育]]生态并影响大纲改造的证据中介网络节点。 | ([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]]) |
 > | [[Australian Institute for Teaching and School Leadership]] | 将大纲与准入挂钩，配合 ACER 测试结果进行准入认证的教师监管机构。 | |

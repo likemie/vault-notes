@@ -62,7 +62,7 @@ updated: 2026-06-22
 ## 概念辨析
 
 > [!contrast-table] 抽样框 vs 邻近概念
-> | 维度 | 抽样框（Sampling Frame） | [[Study Population and Sample\|研究总体]]（Population） | [[Study Population and Sample\|样本]]（Sample） |
+> | 维度 | 抽样框（Sampling Frame） | [[Study Population and Sample|研究总体]]（Population） | [[Study Population and Sample|样本]]（Sample） |
 > |---|---|---|---|
 > | 性质 | 操作性名单/范围 | 概念上的推论目标 | 实际研究的子集 |
 > | 问题 | 从哪里抽 | 对谁做推论 | 实际研究了谁 |

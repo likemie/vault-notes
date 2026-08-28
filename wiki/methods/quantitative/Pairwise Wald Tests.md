@@ -177,7 +177,7 @@ updated: 2026-08-25
 > | [[Meta-analysis]] | 前置方法 | 成对 Wald 检验依附于元分析的亚组调节检验模块，为其提供事后两两推断工具。 |
 > | [[Cochran's Q Test]] | 互补检验 | $Q_{between}$ 检验提供分类变量的总体泛指检验，成对 Wald 检验提供事后两两精确检验。 |
 > | [[Meta-regression]] | 替代与并列方法 | 元回归适用于连续型与多变量联合调节建模，成对 Wald 检验专注于离散亚组的事后成对级差比较。 |
-> | [[Fixed-Effect and Random-Effects Models]] | 建模基础 | 各亚组的合并[[Effect Size\|效应量]]与抽样方差来源于随机或固定效应模型的加权估计。 |
+> | [[Fixed-Effect and Random-Effects Models]] | 建模基础 | 各亚组的合并[[Effect Size|效应量]]与抽样方差来源于随机或固定效应模型的加权估计。 |
 
 ---
 

@@ -47,16 +47,16 @@ updated: 2026-06-01
 
 | 分析框架 | 分析操作 | 关键来源 |
 |---|---|---|
-| [[Narrative Research\|叙事研究]] | 用情节、场景、活动、高潮和结局等结构装置重述参与者故事 | Clandinin & Connelly, 2000 |
-| [[Phenomenology\|现象学]] | 分析意义陈述→生成意义单元→发展"本质"描述 | Moustakas, 1994 |
-| [[Grounded Theory\|扎根理论]] | 开放编码生成信息类别→轴心编码将类别置于理论模型→选择性编码推进故事 | Corbin & Strauss, 2015; Strauss & Corbin, 1990, 1998 |
-| [[Ethnography\|民族志]] | 详细描述场所或个体→分析主题或议题 | Wolcott, 1994 |
-| [[Case Study\|案例研究]] | 详细描述场所或个体→分析主题或议题 | Stake, 1995 |
+| [[Narrative Research|叙事研究]] | 用情节、场景、活动、高潮和结局等结构装置重述参与者故事 | Clandinin & Connelly, 2000 |
+| [[Phenomenology|现象学]] | 分析意义陈述→生成意义单元→发展"本质"描述 | Moustakas, 1994 |
+| [[Grounded Theory|扎根理论]] | 开放编码生成信息类别→轴心编码将类别置于理论模型→选择性编码推进故事 | Corbin & Strauss, 2015; Strauss & Corbin, 1990, 1998 |
+| [[Ethnography|民族志]] | 详细描述场所或个体→分析主题或议题 | Wolcott, 1994 |
+| [[Case Study|案例研究]] | 详细描述场所或个体→分析主题或议题 | Stake, 1995 |
 
 ## 概念辨析
 
 > [!example]
-> - vs [[Descriptive Methods\|描述性方法]] — 描述性方法贴近数据、基于参与者日常语言、使用有限框架解释；分析框架在此基础上叠加特定的分析传统，使用"超越日常语言"的学术框架进行解释。描述性方法是基础，分析框架是进阶——两者并非价值高低的关系。
+> - vs [[Descriptive Methods|描述性方法]] — 描述性方法贴近数据、基于参与者日常语言、使用有限框架解释；分析框架在此基础上叠加特定的分析传统，使用"超越日常语言"的学术框架进行解释。描述性方法是基础，分析框架是进阶——两者并非价值高低的关系。
 > - [[Document|文献]]中存在大量分析框架：Tesch（1990）识别了 28 种，Wolcott（2008）列出 22 种，Creswell & Poth（2018）讨论了 5 种。Marshall & Rossman（2022）讨论了五位不同作者共有的五种类型。
 
 分析框架的四个特征（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9）：

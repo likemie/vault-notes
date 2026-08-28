@@ -82,10 +82,10 @@ updated: 2026-07-13
 > [!contrast-table] 概念辨析
 > | 维度 | 治理操演性（Performativity in Governance） | 测量操演性（[[Performativity of Measurement]]） | 身份表演性（Performative Gender/Identity） |
 > |------|--------|----------------|----------------|
-> | **分析对象** | 后现代社会系统的合法化逻辑与网络空间治理规则。 | 教育评价与统计测量技术对[[Praxis\|实践]]行为的扭曲。 | 个体主体性与社会身份（如性别）的生成机制。 |
-> | **核心机制** | 可见性强制、输入输出优化、[[Pragmatic Paradigm\|实用主义]]联盟。 | 测量指标替代实际目标，如“为考试而教”（Washback）。 | 言语行为的重复实施，通过模拟和操演建构实体。 |
-> | **代表学者** | 让-弗朗索瓦·利奥塔（[[Jean-François Lyotard]]）、斯蒂芬·鲍尔（Stephen Ball） | 戴维·科恩（David Cohen）、[[Ray Pawson\|雷·波森]]（Ray Pawson） | 朱迪斯·巴特勒（Judith Butler）、雅克·德里达（Jacques Derrida） |
-> | **教育应用** | [[Policy Network\|全球政策网络]]的话语流通、绩效评估体系的“恐怖”机制。 | 大学排名、标准化考试的非意图后果（Goodhart定律）。 | 课堂教学中师生多元性别身份的话语建构与协商。 |
+> | **分析对象** | 后现代社会系统的合法化逻辑与网络空间治理规则。 | 教育评价与统计测量技术对[[Praxis|实践]]行为的扭曲。 | 个体主体性与社会身份（如性别）的生成机制。 |
+> | **核心机制** | 可见性强制、输入输出优化、[[Pragmatic Paradigm|实用主义]]联盟。 | 测量指标替代实际目标，如“为考试而教”（Washback）。 | 言语行为的重复实施，通过模拟和操演建构实体。 |
+> | **代表学者** | 让-弗朗索瓦·利奥塔（[[Jean-François Lyotard]]）、斯蒂芬·鲍尔（Stephen Ball） | 戴维·科恩（David Cohen）、[[Ray Pawson|雷·波森]]（Ray Pawson） | 朱迪斯·巴特勒（Judith Butler）、雅克·德里达（Jacques Derrida） |
+> | **教育应用** | [[Policy Network|全球政策网络]]的话语流通、绩效评估体系的“恐怖”机制。 | 大学排名、标准化考试的非意图后果（Goodhart定律）。 | 课堂教学中师生多元性别身份的话语建构与协商。 |
 
 ---
 
@@ -145,8 +145,8 @@ updated: 2026-07-13
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **系统恐怖与排除机制** | 无法被[[Performance Indicators\|绩效指标]]量化与展示的节点在网络中将面临被排除和淘汰的风险，引发审计恐慌。 | 超国家机构排名竞争、学校绩效问责、教师日常审计。 | Let-François Lyotard; Manuel Castells; Stephen Ball |
-> | **实用主义联盟与话语空虚化** | 以影响力广度为导向，促使行动者搁置意识形态分歧结成项目联盟，迫使政策话语脱离具体历史经验而空洞化。 | [[Policy Network\|全球政策网络]]的话语生产、跨国教育项目的混合话语分析。 | Jason Beech |
+> | **系统恐怖与排除机制** | 无法被[[Performance Indicators|绩效指标]]量化与展示的节点在网络中将面临被排除和淘汰的风险，引发审计恐慌。 | 超国家机构排名竞争、学校绩效问责、教师日常审计。 | Let-François Lyotard; Manuel Castells; Stephen Ball |
+> | **实用主义联盟与话语空虚化** | 以影响力广度为导向，促使行动者搁置意识形态分歧结成项目联盟，迫使政策话语脱离具体历史经验而空洞化。 | [[Policy Network|全球政策网络]]的话语生产、跨国教育项目的混合话语分析。 | Jason Beech |
 
 ---
 

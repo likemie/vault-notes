@@ -73,8 +73,8 @@ updated: 2026-08-20
 > [!framework-table] 分析视角
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **[[Coupling Coordination Theory\|耦合协调理论]]**<br>Coupling Coordination Theory | 将教育、科技、人才视为三个相互关联的子系统，耦合度衡量相互作用强度，协调度衡量协同演进水平 |
-> | **空间计量经济学**<br>Spatial Econometrics | 通过LISA局部空间自相关和[[LISA Spatiotemporal Transition\|空间转移矩阵]]检验EST发展的空间依赖性和格局稳定性 |
+> | **[[Coupling Coordination Theory|耦合协调理论]]**<br>Coupling Coordination Theory | 将教育、科技、人才视为三个相互关联的子系统，耦合度衡量相互作用强度，协调度衡量协同演进水平 |
+> | **空间计量经济学**<br>Spatial Econometrics | 通过LISA局部空间自相关和[[LISA Spatiotemporal Transition|空间转移矩阵]]检验EST发展的空间依赖性和格局稳定性 |
 
 ---
 ## 研究方法
@@ -82,9 +82,9 @@ updated: 2026-08-20
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **评价指标体系**<br>Evaluation Index System | 教育5项+科技6项+人才4项共15项指标。采用[[Combined Weighting AHP-EWM\|AHP和熵权法组合赋权]]，通过最小二乘决策模型控制主客观权重偏差 |
+> | **评价指标体系**<br>Evaluation Index System | 教育5项+科技6项+人才4项共15项指标。采用[[Combined Weighting AHP-EWM|AHP和熵权法组合赋权]]，通过最小二乘决策模型控制主客观权重偏差 |
 > | **耦合协调模型**<br>Coupling Coordination Model | 计算三系统耦合度C和协调度D。仅用耦合度可能虚高——当三个子系统均低水平时C仍可很高 |
-> | **时空分析**<br>Spatiotemporal Analysis | ArcGIS自然断点法分级。[[LISA Time Path\|LISA时空路径]]刻画局部空间自相关动态演化。[[LISA Spatiotemporal Transition\|空间转移矩阵]]检验格局稳定性。构建经济-地理双重非对称空间向量权重矩阵 |
+> | **时空分析**<br>Spatiotemporal Analysis | ArcGIS自然断点法分级。[[LISA Time Path|LISA时空路径]]刻画局部空间自相关动态演化。[[LISA Spatiotemporal Transition|空间转移矩阵]]检验格局稳定性。构建经济-地理双重非对称空间向量权重矩阵 |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |

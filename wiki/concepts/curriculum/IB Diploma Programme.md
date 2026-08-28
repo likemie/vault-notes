@@ -85,10 +85,10 @@ updated: 2026-08-03
 ## 实证数据
 
 > [!effect-table]- DP 毕业生 vs 非 DP 毕业生（[[Argument_Cole_2015_AJE|Cole et al., 2015]]）
-> | 比较 | 结果[[Variable\|变量]] | n (DP/非DP) | Cohen's $d$（派生） | Hedges' $g$（派生） | [[School Effectiveness\|SE]] | 设计 |
+> | 比较 | 结果[[Variable|变量]] | n (DP/非DP) | Cohen's $d$（派生） | Hedges' $g$（派生） | [[School Effectiveness|SE]] | 设计 |
 > |:-----|:---------|:-----------|:--------------------|:--------------------|:--|:-----|
 > | DP vs 非DP (澳大利亚) | ATAR | 94/267 | 0.442 | 0.441 | 0.121 | 组间比较 |
-> | DP vs 非DP (澳大利亚) | [[Academic Self-Concept\|学术自我概念]] | 99/283 | 0.498 | 0.497 | 0.118 | 组间比较 |
+> | DP vs 非DP (澳大利亚) | [[Academic Self-Concept|学术自我概念]] | 99/283 | 0.498 | 0.497 | 0.118 | 组间比较 |
 > | DP vs 非DP (澳大利亚) | 预期大学成果 | 99/283 | 0.239 | 0.239 | 0.117 | 组间比较 |
 >
 > 样本：$N = 389$ 名澳大利亚大学新生（DP=99, 非DP=290），来自悉尼大学和 QUT。Cohen's $d$ 与 Hedges' $g$ 由原文报告的均值、标准差和分组[[Sample Size Determination|样本量]]以 Python 计算，均非原文报告。无法分离 ToK 独立效果与 DP 整体效果；选课效应无法排除。

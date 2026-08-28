@@ -94,9 +94,9 @@ updated: 2026-08-21
 > [!contrast-table] CNCS EE / AmeriCorps 证据分层标准
 > | 证据等级 | 核心准入条件与方法学门槛 |
 > |:---|:---|
-> | **Strong Evidence [[Top Institute for Evidence-Based Education Research\|TIER]]（强证据层级·最高级）** | 拥有 **至少 2 项独立开展的高质量实证研究（[[Randomised Controlled Trials\|RCT]] 或严格匹配 [[Quasi-Experimental Designs\|QED]]）**；在关键结果指标上展示出具有[[Statistical Significance\|统计显著性]]的正向因果效应；研究具有高[[Internal Validity\|内部效度]]与样本代表性。 |
-> | **Moderate Evidence Tier（中等证据层级）** | 拥有至少 1 项良好实施的 RCT 或具有良好对照组的准[[Experimental Research\|实验研究]]支持。 |
-> | **Preliminary Evidence Tier（初步证据层级）** | 具备前[[Pre-test and Post-test\|后测]]对比或描述性成效数据，呈现积极效果但缺乏严格对照组。 |
+> | **Strong Evidence [[Top Institute for Evidence-Based Education Research|TIER]]（强证据层级·最高级）** | 拥有 **至少 2 项独立开展的高质量实证研究（[[Randomised Controlled Trials|RCT]] 或严格匹配 [[Quasi-Experimental Designs|QED]]）**；在关键结果指标上展示出具有[[Statistical Significance|统计显著性]]的正向因果效应；研究具有高[[Internal Validity|内部效度]]与样本代表性。 |
+> | **Moderate Evidence Tier（中等证据层级）** | 拥有至少 1 项良好实施的 RCT 或具有良好对照组的准[[Experimental Research|实验研究]]支持。 |
+> | **Preliminary Evidence Tier（初步证据层级）** | 具备前[[Pre-test and Post-test|后测]]对比或描述性成效数据，呈现积极效果但缺乏严格对照组。 |
 > | **Pre-preliminary Tier（预备探索层级）** | 拥有清晰的变革理论（Theory of Change）但尚未开展正式效果评估。 |
 
 ---

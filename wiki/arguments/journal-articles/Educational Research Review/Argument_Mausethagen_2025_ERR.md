@@ -104,10 +104,10 @@ updated: 2026-08-26
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **[[Four Generations of Research Use\|公共部门证据使用三代演进模型（Boaz & Nutley, 2019）]]** | 将[[Research Utilization\|研究使用]]思维划分为第一代理性-线性（单向传递）、第二代关系网络（伙伴合作）与第三代系统全局（制度嵌入），作为审视 30 年[[Document\|文献]]演进的基准坐标。（p. 2） |
+> | **[[Four Generations of Research Use|公共部门证据使用三代演进模型（Boaz & Nutley, 2019）]]** | 将[[Research Utilization|研究使用]]思维划分为第一代理性-线性（单向传递）、第二代关系网络（伙伴合作）与第三代系统全局（制度嵌入），作为审视 30 年[[Document|文献]]演进的基准坐标。（p. 2） |
 > | **线性与复杂性二维张力（Linearity vs Complexity）** | 区分是将研究使用理解为研究者单向生产向教师机械套用的传递过程，还是理解为教师在具体教学情境中主动改造与反思重构的复杂过程。（pp. 3–4） |
-> | **个体主义与情境化取向（Individualist vs Contextual Approaches）** | 区分是基于[[Methodological Individualism\|方法论个体主义]]将研究使用窄化为教师个体的技能、态度或[[Research Literacy\|研究素养]]水平，还是理解为嵌入在学校组织文化、信任、领导力与制度环境中的集体实践。（pp. 4, 6–7） |
-> | **[[Profession-Sensitive Conceptualisations of Research Use\|专业敏感型概念化（Fourth Generation）]]** | 本文提出的第四代框架，核心在于立足教师职业实践的独特性，聚焦多源知识动态整合（Knowledge Integration）与专业伦理规范。（pp. 7–8） |
+> | **个体主义与情境化取向（Individualist vs Contextual Approaches）** | 区分是基于[[Methodological Individualism|方法论个体主义]]将研究使用窄化为教师个体的技能、态度或[[Research Literacy|研究素养]]水平，还是理解为嵌入在学校组织文化、信任、领导力与制度环境中的集体实践。（pp. 4, 6–7） |
+> | **[[Profession-Sensitive Conceptualisations of Research Use|专业敏感型概念化（Fourth Generation）]]** | 本文提出的第四代框架，核心在于立足教师职业实践的独特性，聚焦多源知识动态整合（Knowledge Integration）与专业伦理规范。（pp. 7–8） |
 
 > [!warrant]- 理论如何支撑论证
 > 借助 Boaz & Nutley（2019）的代际框架以及线性与复杂、个体与情境两组分析工具，本研究得以系统解构 34 篇文献的深层[[Hypothesis|假设]]，清晰梳理出研究者在提问方式、[[Variable|变量]]测量和建议推论中潜藏的思维盲区，进而解释为何单靠增加外部组织支持依然无法跳出赤字话语的怪圈。（pp. 2, 4）
@@ -119,15 +119,15 @@ updated: 2026-08-26
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **文献检索与筛选**<br>[[Systematic Review\|Systematic Review]] & [[PRISMA]] | 在教育资源信息中心（Educational Resources Information Center, ERIC）、Education Source、Teacher Reference Center 及 Scopus 数据库中，检索 [[Research Utilization\|Research Use]]/evidence use 与中小学教育管理、教学改进等关键词；经过严格去重、标题摘要初筛与全文审查，最终纳入 34 篇聚焦基础教育学校引入外部科研成果的高质量英文学术[[Document\|文献]]。（pp. 2–3） |
-> | **综述综合方法**<br>[[Critical Review\|Critical Review]] | 采用批判性综述方法（Grant & Booth, 2009; Gough et al., 2012），不满足于简单的[[Document\|文献]]事实罗列，而是聚焦学术概念的发展脉络，深度剖析各研究在问题预设、实证设计和政策推论上的逻辑机制。（pp. 2–4） |
-> | **编码与多维分析**<br>[[Coding in Qualitative Research\|Coding in Qualitative Research]] | 首先提取发表年份、国别、学段、调查对象、研究设计等基本特征；接着针对核心概念的界定方式、线性与复杂维度、个体与情境取向，以及结论中的还原主义倾向进行深度的概念编码分析。（pp. 3–4） |
+> | **文献检索与筛选**<br>[[Systematic Review|Systematic Review]] & [[PRISMA]] | 在教育资源信息中心（Educational Resources Information Center, ERIC）、Education Source、Teacher Reference Center 及 Scopus 数据库中，检索 [[Research Utilization|Research Use]]/evidence use 与中小学教育管理、教学改进等关键词；经过严格去重、标题摘要初筛与全文审查，最终纳入 34 篇聚焦基础教育学校引入外部科研成果的高质量英文学术[[Document|文献]]。（pp. 2–3） |
+> | **综述综合方法**<br>[[Critical Review|Critical Review]] | 采用批判性综述方法（Grant & Booth, 2009; Gough et al., 2012），不满足于简单的[[Document|文献]]事实罗列，而是聚焦学术概念的发展脉络，深度剖析各研究在问题预设、实证设计和政策推论上的逻辑机制。（pp. 2–4） |
+> | **编码与多维分析**<br>[[Coding in Qualitative Research|Coding in Qualitative Research]] | 首先提取发表年份、国别、学段、调查对象、研究设计等基本特征；接着针对核心概念的界定方式、线性与复杂维度、个体与情境取向，以及结论中的还原主义倾向进行深度的概念编码分析。（pp. 3–4） |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |----------|------|
 > | **文献构成** | 共纳入 34 篇核心文献（2021 年检索纳入 28 篇，2024 年更新追加至 34 篇）。其中一阶实证研究 24 篇、实证综述 4 篇、理论探讨 6 篇。 |
-> | **研究方法分布** | 实证研究高度依赖主观自陈数据：[[Questionnaire\|问卷调查]] 13 篇、访谈 4 篇、[[Mixed Methods Research\|混合方法]] 7 篇；而直接观察课堂教学实际决策的研究极少，仅有 3 篇。 |
+> | **研究方法分布** | 实证研究高度依赖主观自陈数据：[[Questionnaire|问卷调查]] 13 篇、访谈 4 篇、[[Mixed Methods Research|混合方法]] 7 篇；而直接观察课堂教学实际决策的研究极少，仅有 3 篇。 |
 > | **地域与学段** | 涵盖英国（9 篇）、美国（4 篇）、加拿大（3 篇），以及中国、土耳其、西班牙、澳大利亚等 8 个国家各 1 篇。研究对象以中小学（K-12）教师为主，其次为校长与管理者。（p. 3） |
 
 > [!example]- 图1：[[Literature Search|文献检索]]与筛选系统综述与[[Meta-analysis|元分析]]优先报告条目（PRISMA）流程图
@@ -179,10 +179,10 @@ updated: 2026-08-26
 > [!contrast-table] 研究使用概念化的二维分析矩阵与实证表征
 > | 维度组合 | 理性-线性取向（Linearity） | 复杂性与情境化取向（Complexity & Contextual） |
 > |----------|--------------------------|-----------------------------------------------|
-> | **核心视角** | 知识自上而下单向传递，侧重考察教师是否直接照搬论文方案（Brown et al., 2018）。（p. 5） | 关注教师在真实情境中如何[[Transfer Translation Transformation\|转译]]、改编与反思科研成果（Cordingley, 2008; La Velle & Flores, 2018）。 |
-> | **分析单位** | 个人层面：受[[Methodological Individualism\|方法论个体主义]]主导，调查教师个人的态度、问卷打分与信息素养（Brown & Zhang, 2016）。 | 组织生态层面：关注学校信任氛围、领导支持与教研制度（Farley-Ripple, 2012; Schaik et al., 2018）。 |
+> | **核心视角** | 知识自上而下单向传递，侧重考察教师是否直接照搬论文方案（Brown et al., 2018）。（p. 5） | 关注教师在真实情境中如何[[Transfer Translation Transformation|转译]]、改编与反思科研成果（Cordingley, 2008; La Velle & Flores, 2018）。 |
+> | **分析单位** | 个人层面：受[[Methodological Individualism|方法论个体主义]]主导，调查教师个人的态度、问卷打分与信息素养（Brown & Zhang, 2016）。 | 组织生态层面：关注学校信任氛围、领导支持与教研制度（Farley-Ripple, 2012; Schaik et al., 2018）。 |
 > | **代表性研究** | Williams & Coles (2007) 测度教师信息素养；Brown & Zhang (2016) 检验教师循证行为的理性选择逻辑。 | Cooper (2013); Lysenko et al. (2015); Proctor (2015) 考察学区中介与学校支持环境。 |
-> | **实证结论** | 教师缺乏[[Research Literacy\|研究素养]]与技能，实际使用极少。（p. 6） | 尽管学校提供了系统支持且教师态度积极，但实际使用依然处于低水平。（p. 6） |
+> | **实证结论** | 教师缺乏[[Research Literacy|研究素养]]与技能，实际使用极少。（p. 6） | 尽管学校提供了系统支持且教师态度积极，但实际使用依然处于低水平。（p. 6） |
 
 > [!chain-link] 证据到判断
 > - **理性行为[[Hypothesis|假设]]的局限** Brown & Zhang (2016, p. 784) 探讨教师参与循证实践是否属于理性行为，其前提假定循证教学具有明晰效益，因而积极使用科研理所当然；这一范式在方法论上将非使用行为直接判定为不理性或能力缺失。

@@ -69,7 +69,7 @@ updated: 2026-07-13
 ## 概念辨析
 
 > [!contrast-table] 概念辨析
-> | 维度 | 择校 (School Choice) | [[Peidu\|陪读 (Peidu)]] | 就近入学 (Proximity) |
+> | 维度 | 择校 (School Choice) | [[Peidu|陪读 (Peidu)]] | 就近入学 (Proximity) |
 > | :--- | :--- | :--- | :--- |
 > | **分析对象** | 主动更换学校偏好 | 家庭地理迁移与脱产照料 | 被动接受学区行政划片 |
 > | **核心机制** | 资本竞争与选择自由 | 空间折叠与家庭劳动力重组 | 户籍与居住地行政绑定 |
@@ -173,9 +173,9 @@ updated: 2026-07-13
 > [!ref-table]- 其他实证结果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 > 
-> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
 > | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-> | [[Argument_Teng_2025_CE\|Teng & Wang (2025)]] | G 县 814 份[[Questionnaire\|问卷]]及 128 例访谈 | [[Mixed Methods Research\|混合方法]]实证研究 | 择校进城成本与比例 | 县城随迁择校家庭年生活成本逾 2 万元，占家庭总收入 40% 以上 | — | 反映小城镇低门槛入学下的高昂私人财务负担 |
+> | [[Argument_Teng_2025_CE|Teng & Wang (2025)]] | G 县 814 份[[Questionnaire|问卷]]及 128 例访谈 | [[Mixed Methods Research|混合方法]]实证研究 | 择校进城成本与比例 | 县城随迁择校家庭年生活成本逾 2 万元，占家庭总收入 40% 以上 | — | 反映小城镇低门槛入学下的高昂私人财务负担 |
 
 ---
 

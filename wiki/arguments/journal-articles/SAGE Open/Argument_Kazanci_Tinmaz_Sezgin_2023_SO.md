@@ -37,12 +37,8 @@ related_concepts:
   - "[[Interaction Effect]]"
   - "[[Reliability]]"
   - "[[Growth]]"
-  - "[[Face Validity]]"
-  - "[[Construct Validity]]"
   - "[[Convergent and Discriminant Validity]]"
   - "[[Hypothesis]]"
-  - "[[Descriptive Analysis]]"
-  - "[[Dependent Variable]]"
   - "[[Engagement in and with Research]]"
   - "[[Heterogeneity]]"
   - "[[Questionnaire]]"
@@ -77,7 +73,7 @@ title: "Argument_Kazanci_Tinmaz_Sezgin_2023_SO"
 argument_key: "Argument_Kazanci_Tinmaz_Sezgin_2023_SO"
 argument_display_title: "Development of the Research Literacy Scale for Teachers"
 argument_kind: "journal-article"
-argument_related_count: 44
+argument_related_count: 40
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -107,8 +103,8 @@ journal: "SAGE Open"
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **[[Theory of Planned Behavior\|计划行为理论]]**<br>Theory of Planned Behavior (TPB) | 整合 Ajzen (1991, 2005) 理论，将研究意识界定为背景认知变量，研究态度界定为意向驱动变量，研究技能界定为知觉行为控制（Perceived Behavioral Control, PBC），研究使用界定为外显目标行为，构建起“意识背景 $\rightarrow$ 态度意向 $\rightarrow$ 技能知觉控制 $\rightarrow$ 实践使用”的行为演化全景链条。（pp.3–4） |
-> | **研究利用模型**<br>Research Utilization Models | 借鉴 Weiss (1979) 的经典分类（问题解决模型、启蒙模型与战术模型）以及 Pelz (1978)、Beyer & Trice (1982) 的概念性、工具性与[[Conceptual, Instrumental, and Symbolic Use of Research\|象征性使用]]框架，将[[Research Utilization\|研究使用]][[Operationalization\|操作化]]为备课设计、教学法优化、解决课堂问题及专业[[Dialogue in Education\|对话]]等多维实践。 |
+> | **[[Theory of Planned Behavior|计划行为理论]]**<br>Theory of Planned Behavior (TPB) | 整合 Ajzen (1991, 2005) 理论，将研究意识界定为背景认知变量，研究态度界定为意向驱动变量，研究技能界定为知觉行为控制（Perceived Behavioral Control, PBC），研究使用界定为外显目标行为，构建起“意识背景 $\rightarrow$ 态度意向 $\rightarrow$ 技能知觉控制 $\rightarrow$ 实践使用”的行为演化全景链条。（pp.3–4） |
+> | **研究利用模型**<br>Research Utilization Models | 借鉴 Weiss (1979) 的经典分类（问题解决模型、启蒙模型与战术模型）以及 Pelz (1978)、Beyer & Trice (1982) 的概念性、工具性与[[Conceptual, Instrumental, and Symbolic Use of Research|象征性使用]]框架，将[[Research Utilization|研究使用]][[Operationalization|操作化]]为备课设计、教学法优化、解决课堂问题及专业[[Dialogue in Education|对话]]等多维实践。 |
 > | **多元素养整合模型**<br>Subtypes of Research Literacy | 整合 Beaudry & Miller (2016) 与 Jemsy (2018) 的素养细分，将信息与技术检索素养、语言讨论素养、视觉图表素养与数理统计素养统整纳入研究技能维度。（pp.4–5） |
 
 > [!warrant]- 理论如何支撑论证
@@ -117,15 +113,15 @@ journal: "SAGE Open"
 ### 核心变量与操作化编码表（仅量化研究填写）
 
 > [!index-table] 核心[[Variable|变量]]操作化定义与[[Coding in Qualitative Research|编码]]规程
-> | [[Variable\|变量]]维度与分类 | [[Construct\|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
+> | [[Variable|变量]]维度与分类 | [[Construct|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
 > |---|---|---|
-> | **研究素养**<br>（Research Literacy, 因变量/二阶潜变量） | 教师在理解、评价、开展科研并将其应用于专业教学实践的综合素养，由 4 个一阶维度构成。 | 使用本研究编制的[[Research Literacy Scale for Teachers\|教师研究素养量表（RLS）]]（20 题，5 级李克特计分，1=完全不同意，5=完全同意）。（pp.5–6） |
-> | **研究意识**<br>（Research Awareness, 子维度 1） | 教师对科研主题构成、发表渠道、[[Literature Search\|文献检索]]路径及专业阅读先验认知的敏锐度与知识准备。 | 4 题（R1–R4），如“我知道科研成果在何处发表”、“我知道研究所包含的主题”。（p.6, p.11） |
+> | **研究素养**<br>（Research Literacy, 因变量/二阶潜变量） | 教师在理解、评价、开展科研并将其应用于专业教学实践的综合素养，由 4 个一阶维度构成。 | 使用本研究编制的[[Research Literacy Scale for Teachers|教师研究素养量表（RLS）]]（20 题，5 级李克特计分，1=完全不同意，5=完全同意）。（pp.5–6） |
+> | **研究意识**<br>（Research Awareness, 子维度 1） | 教师对科研主题构成、发表渠道、[[Literature Search|文献检索]]路径及专业阅读先验认知的敏锐度与知识准备。 | 4 题（R1–R4），如“我知道科研成果在何处发表”、“我知道研究所包含的主题”。（p.6, p.11） |
 > | **研究态度**<br>（Attitude toward Research, 子维度 2） | 教师对科研对教学专业重要性、专业发展促进价值及教育者应否受益于科研的积极情感与价值认同。 | 3 题（R5–R7），如“科学研究对我的职业至关重要”、“教育者应当在专业实践中受益于研究”。 |
-> | **研究技能**<br>（Research Skills, 子维度 3） | 教师在开展[[Literature Review\|文献综述]]、探讨学术议题、解读图表与统计分析结果等方面的实际操作能力与知觉控制。 | 6 题（R8–R13），如“在需要时能进行[[Document\|文献]]综述”、“能解读研究出版物中的图表与统计结果”。 |
+> | **研究技能**<br>（Research Skills, 子维度 3） | 教师在开展[[Literature Review|文献综述]]、探讨学术议题、解读图表与统计分析结果等方面的实际操作能力与知觉控制。 | 6 题（R8–R13），如“在需要时能进行[[Document|文献]]综述”、“能解读研究出版物中的图表与统计结果”。 |
 > | **研究使用**<br>（Research Use, 子维度 4） | 教师在日常教学活动组织、课程内容准备、教学法知识更新及教育决策中主动借鉴与应用科研的实际行为。 | 7 题（R14–R20），如“运用科研组织日常专业活动”、“在备课时借鉴科研”、“利用研究提升教学法知识”。 |
-> | **追踪教育学术期刊**<br>（Following Scientific Journals about Education, FSJE, 自变量/分类变量） | 教师是否持续追踪与阅读与教育相关的学术科研期刊（二分类：是／否）。 | 调查题项“是否追踪教育类学术期刊”，作为多变量方差分析（Multivariate Analysis of Variance, MANOVA）[[Independent Variable\|自变量]]。（p.7, p.12） |
-> | **实际从事研究**<br>（自变量/分类变量） | 教师是否曾亲身参与科研项目、[[Research Proposal\|课题申报]]、[[Action Research\|行动研究]]或研究生学位论文研究（二分类：是／否）。 | 调查题项“是否曾开展科研”，作为 MANOVA 自变量。 |
+> | **追踪教育学术期刊**<br>（Following Scientific Journals about Education, FSJE, 自变量/分类变量） | 教师是否持续追踪与阅读与教育相关的学术科研期刊（二分类：是／否）。 | 调查题项“是否追踪教育类学术期刊”，作为多变量方差分析（Multivariate Analysis of Variance, MANOVA）[[Independent Variable|自变量]]。（p.7, p.12） |
+> | **实际从事研究**<br>（自变量/分类变量） | 教师是否曾亲身参与科研项目、[[Research Proposal|课题申报]]、[[Action Research|行动研究]]或研究生学位论文研究（二分类：是／否）。 | 调查题项“是否曾开展科研”，作为 MANOVA 自变量。 |
 
 ---
 
@@ -134,10 +130,10 @@ journal: "SAGE Open"
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **[[Scale Development\|量表编制程序]]**<br>Scale Development Protocol | 严格遵循 DeVellis (2017) 五阶段开发流程：文献提炼构念 $\rightarrow$ 生成 56 题初始题池（5 级李克特计分） $\rightarrow$ 5 位教育学专家[[Content Validity|内容效度]]评审（运用[[Content Validity Index|内容效度指数 CVI]] 与 CVR） $\rightarrow$ 12 位教师/校长可读性评估 $\rightarrow$ 现场施测。（pp.4–5） |
-> | **探索性因子分析**<br>[[Exploratory Factor Analysis\|Exploratory Factor Analysis (EFA)]] | 针对样本 1（$N=310$），采用主轴因子提取法（Principal Axis Factoring, PAF）与方差最大正交旋转（Varimax Rotation），依据题总相关（$> .30$）、因子载荷（$> .32$）与跨载荷差值（$> .10$）逐题筛选。（pp.5–6） |
-> | **验证性因子分析**<br>[[Confirmatory Factor Analysis\|Confirmatory Factor Analysis (CFA)]] | 针对独立样本 2（$N=258$），使用极大似然估计（Maximum Likelihood, ML）与 LISREL 8.80 评估单因子、一阶四因子与二阶因子模型；通过[[Average Variance Extracted|平均方差抽取量（AVE）]]、[[Composite Reliability|组合信度（CR）]]与相关矩阵检验收敛与区分效度；运用多组 CFA 检验[[Measurement Invariance|跨性别测量等值性]]（形态、弱、强与严格等值）。（pp.7–12） |
-> | **差异与赋能分析**<br>Multivariate Analysis of Variance (MANOVA) | 建立 2×2 多[[Variable\|变量]][[Analysis of Variance\|方差分析]]模型，检验期刊追踪与开展科研对素养各维度的单独主效应、[[Interaction Effect\|交互效应]]与方差解释率。（pp.8–13） |
+> | **[[Scale Development|量表编制程序]]**<br>Scale Development Protocol | 严格遵循 DeVellis (2017) 五阶段开发流程：文献提炼构念 $\rightarrow$ 生成 56 题初始题池（5 级李克特计分） $\rightarrow$ 5 位教育学专家[[Content Validity|内容效度]]评审（运用[[Content Validity Index|内容效度指数 CVI]] 与 CVR） $\rightarrow$ 12 位教师/校长可读性评估 $\rightarrow$ 现场施测。（pp.4–5） |
+> | **探索性因子分析**<br>[[Exploratory Factor Analysis|Exploratory Factor Analysis (EFA)]] | 针对样本 1（$N=310$），采用主轴因子提取法（Principal Axis Factoring, PAF）与方差最大正交旋转（Varimax Rotation），依据题总相关（$> .30$）、因子载荷（$> .32$）与跨载荷差值（$> .10$）逐题筛选。（pp.5–6） |
+> | **验证性因子分析**<br>[[Confirmatory Factor Analysis|Confirmatory Factor Analysis (CFA)]] | 针对独立样本 2（$N=258$），使用极大似然估计（Maximum Likelihood, ML）与 LISREL 8.80 评估单因子、一阶四因子与二阶因子模型；通过[[Average Variance Extracted|平均方差抽取量（AVE）]]、[[Composite Reliability|组合信度（CR）]]与相关矩阵检验收敛与区分效度；运用多组 CFA 检验[[Measurement Invariance|跨性别测量等值性]]（形态、弱、强与严格等值）。（pp.7–12） |
+> | **差异与赋能分析**<br>Multivariate Analysis of Variance (MANOVA) | 建立 2×2 多[[Variable|变量]][[Analysis of Variance|方差分析]]模型，检验期刊追踪与开展科研对素养各维度的单独主效应、[[Interaction Effect|交互效应]]与方差解释率。（pp.8–13） |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |

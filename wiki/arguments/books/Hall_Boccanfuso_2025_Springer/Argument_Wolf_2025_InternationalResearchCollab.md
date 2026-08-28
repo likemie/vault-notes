@@ -183,7 +183,7 @@ citation_aliases:
 > [!example]- 三个不同深度的共同选址案例
 > | 案例 | 选址深度 | 关键参数 |
 > |------|---------|---------|
-> | **联合利华（Unilever）**全球食品[[Innovation Hub\|创新中心]] Hive（荷兰瓦赫宁根大学，Wageningen University & Research） | 最深 | 500 名员工、18000 m²、2019 年启用，含中试车间、实验室和厨房(p.317) |
+> | **联合利华（Unilever）**全球食品[[Innovation Hub|创新中心]] Hive（荷兰瓦赫宁根大学，Wageningen University & Research） | 最深 | 500 名员工、18000 m²、2019 年启用，含中试车间、实验室和厨房(p.317) |
 > | **菲仕兰坎皮纳（FrieslandCampina）**创新中心（瓦赫宁根大学） | 中等 | 2010 年起集中研发团队，含中试车间、体验中心和实验室 |
 > | **拜耳（Bayer）**研究与创新中心（Bayer Research and Innovation Center, BRIC，毗邻麻省理工学院与哈佛大学博德研究所，Broad Institute of MIT and Harvard） | 较浅 | 非严格共同选址，但物理邻近性促进了十多年癌症疗法合作(pp.317–318) |
 >

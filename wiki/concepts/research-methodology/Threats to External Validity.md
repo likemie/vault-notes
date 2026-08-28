@@ -161,12 +161,12 @@ Onwuegbuzie & Leech (2006b: 237–8) 进一步识别了质性研究中跨越十�
 ## 两种范式处理外部效度威胁的不同逻辑
 
 > [!contrast-table] 量化与[[Qualitative Research|质性研究]]处理[[External Validity|外部效度]]威胁的不同逻辑
-> | 维度 | [[Quantitative Research\|量化研究]] | 质性研究 |
+> | 维度 | [[Quantitative Research|量化研究]] | 质性研究 |
 > |---|---|---|
-> | **核心策略** | 通过大样本[[Random Sampling\|随机抽样]]和统计推断**扩大**推广范围 | 通过[[Rich and Thick Description\|厚描述]]和典型案例让读者**自行判断**迁移可能性 |
+> | **核心策略** | 通过大样本[[Random Sampling|随机抽样]]和统计推断**扩大**推广范围 | 通过[[Rich and Thick Description|厚描述]]和典型案例让读者**自行判断**迁移可能性 |
 > | **威胁态度** | 需要测量和控制的偏差来源 | 情境本身即是意义——威胁概念需要重新定义 |
 > | **推广方式** | 从样本到总体的统计推广 | 从典型案例到类似情境的分析性迁移 |
-> | **研究者任务** | 提供可推广性证据（[[Sampling Error\|抽样误差]]、[[Confidence Interval\|置信区间]]） | 提供足够丰富的描述，不提供可迁移性指标（Lincoln & Guba, 1985, p. 316） |
+> | **研究者任务** | 提供可推广性证据（[[Sampling Error|抽样误差]]、[[Confidence Interval|置信区间]]） | 提供足够丰富的描述，不提供可迁移性指标（Lincoln & Guba, 1985, p. 316） |
 > | **判断者** | 研究者通过统计证据来判断 | 读者基于厚描述自行判断迁移是否可能 |
 
 > [!note] Schofield 的质性可推广性路径

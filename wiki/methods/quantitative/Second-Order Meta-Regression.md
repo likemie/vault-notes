@@ -90,10 +90,10 @@ updated: 2026-08-25
 > | 比较维度 | 经典一阶元回归（[[Meta-regression]]） | 现代二阶元回归（[[Second-Order Meta-Regression]]） |
 > |:---|:---|:---|
 > | **观测单元 $\mathbf{y}$** | 原始实证研究的独立效应量 $y_i$<br>（Primary Study Effect Size） | 嵌套于第 $j$ 个元分析集群中的一阶汇总效应量 $z_{ij}$<br>（Cluster-Nested Effect Size） |
-> | **误差方程与方差分解** | 两水平方差分解<br>$$y_i = \mathbf{x}_i \boldsymbol{\beta} + u_i + \epsilon_i$$<br>$\operatorname{Var}(u_i) = \tau^2$（研究间真实异质性）<br>$\operatorname{Var}(\epsilon_i) = v_i$（抽样方差） | 三水平方差分解与协方差插补（[[Correlated and Hierarchical Effects Model\|CHE 模型]]）<br>$$z_{ij} = \mathbf{x}_{ij} \boldsymbol{\beta} + \zeta_{(3)j} + \zeta_{(2)ij} + \epsilon_{ij}$$<br>$\operatorname{Var}(\zeta_{(3)j}) = \tau_3^2$（Level 3 集群间变异）<br>$\operatorname{Var}(\zeta_{(2)ij}) = \tau_2^2$（Level 2 集群内变异）<br>$\operatorname{Cov}(\epsilon_{aj}, \epsilon_{bj}) = \rho \sqrt{V_{aj} V_{bj}}$（集群内测量相关） |
+> | **误差方程与方差分解** | 两水平方差分解<br>$$y_i = \mathbf{x}_i \boldsymbol{\beta} + u_i + \epsilon_i$$<br>$\operatorname{Var}(u_i) = \tau^2$（研究间真实异质性）<br>$\operatorname{Var}(\epsilon_i) = v_i$（抽样方差） | 三水平方差分解与协方差插补（[[Correlated and Hierarchical Effects Model|CHE 模型]]）<br>$$z_{ij} = \mathbf{x}_{ij} \boldsymbol{\beta} + \zeta_{(3)j} + \zeta_{(2)ij} + \epsilon_{ij}$$<br>$\operatorname{Var}(\zeta_{(3)j}) = \tau_3^2$（Level 3 集群间变异）<br>$\operatorname{Var}(\zeta_{(2)ij}) = \tau_2^2$（Level 2 集群内变异）<br>$\operatorname{Cov}(\epsilon_{aj}, \epsilon_{bj}) = \rho \sqrt{V_{aj} V_{bj}}$（集群内测量相关） |
 > | **加权矩阵 $\mathbf{W}$ 结构** | 对角矩阵（Diagonal Matrix）<br>$$\mathbf{W} = \operatorname{diag}\left( \frac{1}{\tau^2 + v_1}, \dots, \frac{1}{\tau^2 + v_k} \right)$$<br>假定所有纳入研究完全独立，非对角协方差恒为 0 | 块对角矩阵（Block-Diagonal Matrix）<br>$$\mathbf{W}_j = \left( \tau_3^2 \mathbf{I} + \tau_2^2 \mathbf{J} + \mathbf{V}_j \right)^{-1}$$<br>显式包含由先验相关系数（$\rho = 0.8$）构建的群内已知抽样协方差矩阵 $\mathbf{V}_j$ |
-> | **[[Standard Error\|标准误]]与协方差估计** | 基于模型假定的理论方差<br>$$\operatorname{Var}(\hat{\boldsymbol{\beta}}) = \left( \mathbf{X}^T \mathbf{W} \mathbf{X} \right)^{-1}$$<br>严格依赖模型设定正确且研究间无数据重叠 | 非参数经验三明治估计量（[[Robust Variance Estimation\|RVE]]）<br>$$\mathbf{V}_{\text{RVE}} = (\mathbf{X}^T \mathbf{W} \mathbf{X})^{-1} \left[ \sum_{j=1}^J \mathbf{X}_j^T \mathbf{W}_j \mathbf{e}_j \mathbf{e}_j^T \mathbf{W}_j \mathbf{X}_j \right] (\mathbf{X}^T \mathbf{W} \mathbf{X})^{-1}$$<br>利用经验残差外积自动吸收未知的跨综述文献重叠 |
-> | **小样本调节[[Hypothesis\|假设]]检验** | Knapp-Hartung 调整 $t$ 检验或标准 Wald $\chi^2$ 检验<br>（自由度直接基于研究总数 $k - p - 1$） | CR2 杠杆调整残差与 Hotelling $T^2$ 调整 $F$ 检验<br>$$\tilde{\mathbf{e}}_j = (\mathbf{I} - \mathbf{H}_j)^{-1/2} \mathbf{e}_j$$<br>基于 Satterthwaite 近似估计有效集群自由度 $\nu$ |
+> | **[[Standard Error|标准误]]与协方差估计** | 基于模型假定的理论方差<br>$$\operatorname{Var}(\hat{\boldsymbol{\beta}}) = \left( \mathbf{X}^T \mathbf{W} \mathbf{X} \right)^{-1}$$<br>严格依赖模型设定正确且研究间无数据重叠 | 非参数经验三明治估计量（[[Robust Variance Estimation|RVE]]）<br>$$\mathbf{V}_{\text{RVE}} = (\mathbf{X}^T \mathbf{W} \mathbf{X})^{-1} \left[ \sum_{j=1}^J \mathbf{X}_j^T \mathbf{W}_j \mathbf{e}_j \mathbf{e}_j^T \mathbf{W}_j \mathbf{X}_j \right] (\mathbf{X}^T \mathbf{W} \mathbf{X})^{-1}$$<br>利用经验残差外积自动吸收未知的跨综述文献重叠 |
+> | **小样本调节[[Hypothesis|假设]]检验** | Knapp-Hartung 调整 $t$ 检验或标准 Wald $\chi^2$ 检验<br>（自由度直接基于研究总数 $k - p - 1$） | CR2 杠杆调整残差与 Hotelling $T^2$ 调整 $F$ 检验<br>$$\tilde{\mathbf{e}}_j = (\mathbf{I} - \mathbf{H}_j)^{-1/2} \mathbf{e}_j$$<br>基于 Satterthwaite 近似估计有效集群自由度 $\nu$ |
 
 > [!warning] 一阶元回归处理二阶数据时的“数学失效”机理
 > 若直接将一阶元回归套用于[[Meta-meta-analysis|二阶元分析]]数据，会触发两大致命的数学偏差：
@@ -211,13 +211,13 @@ updated: 2026-08-25
 >
 > | 条目 | 类型 | 关联方向 | 说明 |
 > |:-----|:-----|:---------|:-----|
-> | [[Meta-meta-analysis]] | 综合方法 | 核心模块 | 二阶[[Meta-regression\|元回归]]是现代二阶[[Meta-analysis\|元分析]]用于解释全领域[[Heterogeneity\|异质性]]来源的标准分析工具。 |
+> | [[Meta-meta-analysis]] | 综合方法 | 核心模块 | 二阶[[Meta-regression|元回归]]是现代二阶[[Meta-analysis|元分析]]用于解释全领域[[Heterogeneity|异质性]]来源的标准分析工具。 |
 > | [[Correlated and Hierarchical Effects Model]] | 基础模型 | 建模底层 | 二阶元回归基于 CHE 三水平随机效应方程与协方差工作矩阵构建。 |
-> | [[Robust Variance Estimation]] | 推断方法 | 统计引擎 | RVE 三明治估计量为二阶元回归各系数及 Wald 检验提供稳健[[Standard Error\|标准误]]。 |
-> | [[Multilevel Egger's Test]] | 偏倚方法 | 特殊形式 | 多水平艾格检验本质上是以抽样标准误为唯一调节[[Variable\|变量]]的单变量二阶元回归。 |
+> | [[Robust Variance Estimation]] | 推断方法 | 统计引擎 | RVE 三明治估计量为二阶元回归各系数及 Wald 检验提供稳健[[Standard Error|标准误]]。 |
+> | [[Multilevel Egger's Test]] | 偏倚方法 | 特殊形式 | 多水平艾格检验本质上是以抽样标准误为唯一调节[[Variable|变量]]的单变量二阶元回归。 |
 > | [[Meta-regression]] | 基础方法 | 概念源流 | 经典一阶元回归在多水平二阶元分析领域的理论与技术延伸。 |
-> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 论证 | 典范应用 | 运用二阶元回归系统检验了[[Independent Variable\|自变量]]角色、横断面设计与干预模式对[[Creativity\|创造力]]效应的调节机制。 |
-> | [[Argument_Unal_2026_JECR\|Ünal et al. (2026)]] | 论证 | 应用案例 | 采用连续变量元回归检验 AI 教育[[Sample Size Determination\|样本量]]、发表年份与纳入原始研究数量对[[Effect Size\|效应量]]的预测效应，发现仅纳入研究数量具有正向预测关系。 |
+> | [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] | 论证 | 典范应用 | 运用二阶元回归系统检验了[[Independent Variable|自变量]]角色、横断面设计与干预模式对[[Creativity|创造力]]效应的调节机制。 |
+> | [[Argument_Unal_2026_JECR|Ünal et al. (2026)]] | 论证 | 应用案例 | 采用连续变量元回归检验 AI 教育[[Sample Size Determination|样本量]]、发表年份与纳入原始研究数量对[[Effect Size|效应量]]的预测效应，发现仅纳入研究数量具有正向预测关系。 |
 
 ---
 

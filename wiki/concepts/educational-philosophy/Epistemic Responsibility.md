@@ -65,11 +65,11 @@ updated: 2026-08-02
 ## 概念辨析
 
 > [!contrast-table] 概念辨析
-> | 维度 | [[Epistemology\|认识论]]责任（Epistemic Responsibility） | 被动认知依顺（Passive Epistemic Conformity） |
+> | 维度 | [[Epistemology|认识论]]责任（Epistemic Responsibility） | 被动认知依顺（Passive Epistemic Conformity） |
 > |------|-----------------------------------|-----------------------------------|
 > | **认知姿态** | 理智审查：追问知识背后的权力与利益立场 | 被动接收：盲从权威与既定教材宣讲 |
 > | **主体责任** | 负起审查真理性与社会后果的道德伦理义务 | 放弃思考责任，将判断权剥离给权威 |
-> | **育人指向** | 培育具备批判独立思考能力的民主公民 | 培养顺从现存秩序的“[[Empty Knower\|空白知者]]” |
+> | **育人指向** | 培育具备批判独立思考能力的民主公民 | 培养顺从现存秩序的“[[Empty Knower|空白知者]]” |
 
 ---
 
@@ -110,7 +110,7 @@ updated: 2026-08-02
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **认识论责任命题** | 探讨认识论责任如何保障真实民主探究 | 解放教育与民主公民培养 | [[Paulo Freire\|Freire, P.]]; [[Argument_Darwish_2009_Queens\|Darwish, B.]] |
+> | **认识论责任命题** | 探讨认识论责任如何保障真实民主探究 | 解放教育与民主公民培养 | [[Paulo Freire|Freire, P.]]; [[Argument_Darwish_2009_Queens|Darwish, B.]] |
 
 ---
 

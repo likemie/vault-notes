@@ -111,9 +111,9 @@ issuing_organization: "International Baccalaureate Organization"
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **[[Teacher Beliefs\|教师信念]]（Teacher beliefs）** | 教师信念与教学实践之间存在双向影响。知识论因其强调[[Critical Thinking\|批判性思维]]，要求教师改变传统的指令性教学法；这种教学实践的反向作用能深刻重塑教师的认识论信念与自我效能感（Buehl & Beck, 2015）。 |
-> | **期望效应（Expectancy effects）** | 即罗森塔尔效应（Rosenthal effect）。教师对学生的期望能积极影响其表现（Rosenthal & Jacobson, 1968）。对[[Theory of Knowledge\|知识论]]高度投入的教师会形成对自我的积极期望，从而转化并溢出为学生的积极学习体验和成绩提升。 |
-> | **国际文凭学习者特质（[[IB Learner Profile\|IB learner profile]]）** | 将组织使命[[Operationalization\|操作化]]为探究者、思想开放者和反思者等10项特质，作为评估课程非学术目标（[[Global Citizenship\|全球公民]]与国际情怀）是否在学生行为中落实的对齐标尺（p. 4）。 |
+> | **[[Teacher Beliefs|教师信念]]（Teacher beliefs）** | 教师信念与教学实践之间存在双向影响。知识论因其强调[[Critical Thinking|批判性思维]]，要求教师改变传统的指令性教学法；这种教学实践的反向作用能深刻重塑教师的认识论信念与自我效能感（Buehl & Beck, 2015）。 |
+> | **期望效应（Expectancy effects）** | 即罗森塔尔效应（Rosenthal effect）。教师对学生的期望能积极影响其表现（Rosenthal & Jacobson, 1968）。对[[Theory of Knowledge|知识论]]高度投入的教师会形成对自我的积极期望，从而转化并溢出为学生的积极学习体验和成绩提升。 |
+> | **国际文凭学习者特质（[[IB Learner Profile|IB learner profile]]）** | 将组织使命[[Operationalization|操作化]]为探究者、思想开放者和反思者等10项特质，作为评估课程非学术目标（[[Global Citizenship|全球公民]]与国际情怀）是否在学生行为中落实的对齐标尺（p. 4）。 |
 
 > [!warrant]- 理论如何支撑论证
 > 教师信念理论解释了知识论不仅作用于学生，更因其开放性和跨学科特性成为强力专业发展途径的原因。衡量课程结果与[[International Baccalaureate|国际文凭]]学习者特质的对齐程度，为判断这门无法通过标准化纸笔测验简单考核的课程确立了有效性基准。
@@ -125,17 +125,17 @@ issuing_organization: "International Baccalaureate Organization"
 > [!method-panel] 研究设计
 > | 模块 | 实施细节 |
 > |------|----------|
-> | **[[Mixed Methods Research\|混合方法研究]]** | 采用[[Explanatory Sequential Design\|解释性序列设计]]（explanatory sequential design），先收集量化[[Questionnaire\|问卷]]数据以勾勒总体趋势，再通过[[Focus Group\|焦点小组]]的质性数据深入解释量化结果背后的机制与情境（Creswell, 2008）。 |
-> | **量化工具** | 研究者自编的《知识论调查问卷》（The TOK Survey）。采用分支逻辑：在第10题后，教师回答教学感知题项（包含由11道题项组成、效度极高的“[[Confidence Teaching TOK Scale\|教学信心量表]]”），协调员回答行政支持题项（p. 10）。 |
-> | **质性工具** | 使用“[[6-Item TOK Focus Group Protocol\|知识论焦点小组六题协议]]”（6-item TOK Focus Group Protocol），对参与国际专业发展工作坊的群体进行半结构化深度访谈（pp. 12-13）。 |
-> | **分析策略** | 量化部分使用独立样本t检验和方差分析（ANOVA）比较教龄与班级规模的组间差异，利用[[Exploratory Factor Analysis\|探索性因子分析]]（EFA）检验量表单维结构；质性部分使用持续比较法（constant comparison method）与词频分析进行归纳编码（p. 14）。 |
+> | **[[Mixed Methods Research|混合方法研究]]** | 采用[[Explanatory Sequential Design|解释性序列设计]]（explanatory sequential design），先收集量化[[Questionnaire|问卷]]数据以勾勒总体趋势，再通过[[Focus Group|焦点小组]]的质性数据深入解释量化结果背后的机制与情境（Creswell, 2008）。 |
+> | **量化工具** | 研究者自编的《知识论调查问卷》（The TOK Survey）。采用分支逻辑：在第10题后，教师回答教学感知题项（包含由11道题项组成、效度极高的“[[Confidence Teaching TOK Scale|教学信心量表]]”），协调员回答行政支持题项（p. 10）。 |
+> | **质性工具** | 使用“[[6-Item TOK Focus Group Protocol|知识论焦点小组六题协议]]”（6-item TOK Focus Group Protocol），对参与国际专业发展工作坊的群体进行半结构化深度访谈（pp. 12-13）。 |
+> | **分析策略** | 量化部分使用独立样本t检验和方差分析（ANOVA）比较教龄与班级规模的组间差异，利用[[Exploratory Factor Analysis|探索性因子分析]]（EFA）检验量表单维结构；质性部分使用持续比较法（constant comparison method）与词频分析进行归纳编码（p. 14）。 |
 
 > [!sample-panel]- 样本与受访者背景细节（表1）
 > | 样本层面 | 构成与特征 |
 > |----------|------|
 > | **总体规模** | 1,534名有效受访者（960名任课教师，585名协调员），来自全球111个国家（美国占24.6%）。 |
 > | **学历背景** | 受访者学历普遍较高，60.7%拥有硕士学位，9.5%拥有博士学位。 |
-> | **教龄分布** | 教师在[[Theory of Knowledge\|知识论]]课程上的教学经验丰富：超过12年的占61.2%，10-12年的占14.5%，1-3年的新手占4.7%（p. 11）。 |
+> | **教龄分布** | 教师在[[Theory of Knowledge|知识论]]课程上的教学经验丰富：超过12年的占61.2%，10-12年的占14.5%，1-3年的新手占4.7%（p. 11）。 |
 > | **质性样本** | 在阿姆斯特丹、布里斯班和芝加哥举办的3场焦点小组，共33名教师参与（13男，20女），其教授知识论的经验横跨1至28年（p. 13）。 |
 
 ---
@@ -169,17 +169,17 @@ issuing_organization: "International Baccalaureate Organization"
 > [!contrast-table] 知识论与传统哲学的区别
 > | 维度 | 知识论（TOK） | 传统哲学课程 |
 > |---|---|---|
-> | **探讨重心** | 认知的过程（[[Ways of Knowing\|认知方式]]）与知识的分类（[[Areas of Knowledge\|知识领域]]） | 哲学史流派、形而上学或经典文本 |
-> | **经典依托** | 作为启发探究的引子（如洞穴之喻等[[Epistemology\|认识论]]原点） | 课程的绝对主体与通读对象 |
+> | **探讨重心** | 认知的过程（[[Ways of Knowing|认知方式]]）与知识的分类（[[Areas of Knowledge|知识领域]]） | 哲学史流派、形而上学或经典文本 |
+> | **经典依托** | 作为启发探究的引子（如洞穴之喻等[[Epistemology|认识论]]原点） | 课程的绝对主体与通读对象 |
 > | **探究目的** | 建立跨学科联系，挑战自我中心，培养国际情怀 | 深入理解哲学家的思想与推导逻辑 |
 
 > [!feature] 知识论的哲学原点与核心组件
 > 尽管在定位上刻意区别于传统哲学，知识论的底层依然深受经典认识论（Epistemology）的启发。报告（p. 5）指出，课程的奠基性阅读通常包括四大经典文本：**[[Plato|柏拉图]]**的《洞穴之喻》（*Allegory of the Cave*）、**[[René Descartes|笛卡尔]]**的《方法论》（*Discourse on method*）、**洛克**的《人类理解论》（*An Essay Concerning Human Understanding*）以及**[[Immanuel Kant|康德]]**的《纯粹理性批判》（*Critique of Pure Reason*）。
 > 
 > 在此哲学原点之上，课程被具象化为两大核心分析矩阵：
-> - **八大[[Areas of Knowledge\|知识领域]]（AOKs）**
+> - **八大[[Areas of Knowledge|知识领域]]（AOKs）**
 >   伦理学、历史、人文科学、本土知识系统、数学、自然科学、宗教知识系统、艺术。作为分类不同知识属性的框架。
-> - **八大[[Ways of Knowing\|认知方式]]（WOKs）**
+> - **八大[[Ways of Knowing|认知方式]]（WOKs）**
 >   情感、信仰、想象、本能、直觉、语言、记忆、理性、感官知觉。作为探究人类如何获取和加工知识的工具。
 
 ---
@@ -197,7 +197,7 @@ issuing_organization: "International Baccalaureate Organization"
 > |---|---|---|---|
 > | 建立对个体和群体如何构建、批判性审视与更新知识的认识 | 753 | 1.80 | 1.28 |
 > | 帮助学生在学术门类之间、以及思想、情感和行动之间建立联系 | 746 | 2.90 | 1.18 |
-> | 帮助学生建立对个人和意识形态[[Hypothesis\|假设]]的认识 | 745 | 3.01 | 1.21 |
+> | 帮助学生建立对个人和意识形态[[Hypothesis|假设]]的认识 | 745 | 3.01 | 1.21 |
 > | 鼓励学生反思他们在学校和日常生活中的经历 | 747 | 3.24 | 1.24 |
 > | 为学生进一步的学习做准备 | 738 | 4.33 | 1.20 |
 
@@ -211,16 +211,16 @@ issuing_organization: "International Baccalaureate Organization"
 > |---|---|---|---|
 > | 学生更能批判性地评估知识 | 747 | 1.76 | 1.10 |
 > | 学生更能识别并反思个人假设 | 744 | 2.57 | 0.99 |
-> | 学生更能跨 IB 课程应用[[Critical Thinking\|批判性思维]]技能 | 748 | 2.82 | 1.17 |
+> | 学生更能跨 IB 课程应用[[Critical Thinking|批判性思维]]技能 | 748 | 2.82 | 1.17 |
 > | 学生更能识别并反思意识形态假设 | 737 | 3.05 | 0.92 |
 
 > [!ref-table]- 表5 溢出效应反馈频率
-> | 领域 | [[Coding in Qualitative Research\|编码]]（Code） | 频率 |
+> | 领域 | [[Coding in Qualitative Research|编码]]（Code） | 频率 |
 > |------|-------------|------|
 > | **其他 IBDP 科目** | 批判性思维（critical thinking） | 441 |
 > | | 关联内容（connect to content） | 439 |
 > | | 国际情怀（international mindedness） | 170 |
-> | **[[Extended Essay\|拓展论文]]（Extended Essay）** | 批判性思维 | 154 |
+> | **[[Extended Essay|拓展论文]]（Extended Essay）** | 批判性思维 | 154 |
 > | | 评价来源（evaluate sources） | 124 |
 > | | 使用证据（use evidence） | 120 |
 > | **大学成功** | 批判性思维 | 226 |
@@ -318,7 +318,7 @@ issuing_organization: "International Baccalaureate Organization"
 > |---|---|---|---|
 > | 近期认知方式（WOKs）的改变提升了 TOK 课程 | 695 | 3.32 | 0.86 |
 > | 近期知识领域（AOKs）的改变提升了 TOK 课程 | 692 | 3.28 | 0.86 |
-> | 近期[[Knowledge Framework\|知识框架]]的改变提升了 TOK 课程 | 691 | 3.27 | 0.88 |
+> | 近期[[Knowledge Framework|知识框架]]的改变提升了 TOK 课程 | 691 | 3.27 | 0.88 |
 
 ---
 

@@ -89,7 +89,7 @@ updated: 2026-07-26
 > | [[John Dewey]] | 人物 | 提出“民主即联合生活方式”的教育哲学。 |
 > | [[Freedom of the Learner]] | 概念 | 民主教育保障学习者的自由。 |
 > | [[Dialogue in Education]] | 概念 | 民主教育依赖平等对话作为中介。 |
-> | [[Praxis]] | 概念 | [[Paulo Freire\|弗莱雷]]对杜威民主教育的实践性补充。 |
+> | [[Praxis]] | 概念 | [[Paulo Freire|弗莱雷]]对杜威民主教育的实践性补充。 |
 
 > [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 深入分析杜威民主教育思想及其与弗莱雷解放教育的张力。

@@ -73,11 +73,11 @@ updated: 2026-08-25
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
-> | [[Cooperative Learning\|积极互赖（Positive Interdependence）]] | 核心概念 | 确立“同舟共济（Sink or Swim Together）”的心理联结，是一人成功依赖全员成功的核心机制。 |
+> | [[Cooperative Learning|积极互赖（Positive Interdependence）]] | 核心概念 | 确立“同舟共济（Sink or Swim Together）”的心理联结，是一人成功依赖全员成功的核心机制。 |
 > | 消极互赖（Negative Interdependence） | 对比概念 | 确立“你赢我输”的零和博弈目标结构，诱发阻碍性竞争行为。 |
 > | 促进性面对面互动（Promotive Interaction） | 机制构件 | 组员相互解释概念、提供认知反馈、互相激励的微观言语与非言语行为载体。 |
-> | [[Task Structure\|个体责任（Individual Accountability）]] | 调节构件 | 确保每位成员承担独立掌握责任，防止积极互赖退化为社会惰化与搭便车。 |
-> | [[Meta-meta-analysis\|二阶元分析检验]] | 方法构件 | 检验互赖理论在跨学科、多产出维度下的经验普遍性与稳健性。 |
+> | [[Task Structure|个体责任（Individual Accountability）]] | 调节构件 | 确保每位成员承担独立掌握责任，防止积极互赖退化为社会惰化与搭便车。 |
+> | [[Meta-meta-analysis|二阶元分析检验]] | 方法构件 | 检验互赖理论在跨学科、多产出维度下的经验普遍性与稳健性。 |
 
 ---
 
@@ -113,8 +113,8 @@ updated: 2026-08-25
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **目标驱动互动** | 积极互赖激发促进性[[Dialogue in Education\|对话]]与知识重构，消极互赖引发防守与阻碍 | 全学段各类协同学习与群体组织情境 | Deutsch (1949); Johnson & Johnson (2009) |
-> | **互赖与责任协同** | 积极互赖与个体责任严格绑定才能消除搭便车并保障认知增益 | 课堂教学技术选型与小组绩效评价 | Slavin (2014); [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] |
+> | **目标驱动互动** | 积极互赖激发促进性[[Dialogue in Education|对话]]与知识重构，消极互赖引发防守与阻碍 | 全学段各类协同学习与群体组织情境 | Deutsch (1949); Johnson & Johnson (2009) |
+> | **互赖与责任协同** | 积极互赖与个体责任严格绑定才能消除搭便车并保障认知增益 | 课堂教学技术选型与小组绩效评价 | Slavin (2014); [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] |
 
 ---
 

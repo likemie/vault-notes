@@ -73,11 +73,11 @@ updated: '2026-07-22'
 ## 概念辨析
 
 > [!contrast-table] 课程知识概念辨析
-> | 维度 | 官方知识（Official Knowledge） | 隐性课程（Hidden Curriculum） | 强[[Powerful Knowledge\|有力知识]]（Powerful Knowledge） |
+> | 维度 | 官方知识（Official Knowledge） | 隐性课程（Hidden Curriculum） | 强[[Powerful Knowledge|有力知识]]（Powerful Knowledge） |
 > |---|---|---|---|
 > | **核心视角** | 支配群体利益的合法化与文化加冕 | 规范、服从态度与阶层习惯的隐性传授 | 学科专门化、概念化与非经验的客观知识 |
-> | **载体形式** | 法定大纲、统编教材、国家考试 | 课堂秩序、时间管理、师生权力互动 | 系统化[[Discipline-Based Theory\|学科理论]]体系与抽象概念 |
-> | **主要理论家** | Michael Apple | Philip Jackson; Samuel Bowles | [[Michael Young]] ([[Social Realism\|社会实在论]]) |
+> | **载体形式** | 法定大纲、统编教材、国家考试 | 课堂秩序、时间管理、师生权力互动 | 系统化[[Discipline-Based Theory|学科理论]]体系与抽象概念 |
+> | **主要理论家** | Michael Apple | Philip Jackson; Samuel Bowles | [[Michael Young]] ([[Social Realism|社会实在论]]) |
 
 ---
 
@@ -129,8 +129,8 @@ updated: '2026-07-22'
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **课程选择与文化霸权** | 官方知识作为文化等级与统治政治再生产的载体 | 批判课程论、民族文化呈现分析 | Apple (1993); [[Argument_Yu_2024_CE\|Yu & Zhao (2024)]] |
-> | **教科书控制与国家构建** | 教科书[[Varieties of Capitalism\|生产体制]]与审查权决定官方知识形态 | 比较教科书研究、一国两制历史教育 | [[Argument_Xu_2024_CE\|Xu (2024)]] |
+> | **课程选择与文化霸权** | 官方知识作为文化等级与统治政治再生产的载体 | 批判课程论、民族文化呈现分析 | Apple (1993); [[Argument_Yu_2024_CE|Yu & Zhao (2024)]] |
+> | **教科书控制与国家构建** | 教科书[[Varieties of Capitalism|生产体制]]与审查权决定官方知识形态 | 比较教科书研究、一国两制历史教育 | [[Argument_Xu_2024_CE|Xu (2024)]] |
 
 ---
 

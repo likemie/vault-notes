@@ -143,16 +143,16 @@ issuing_organization: ""
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **文献检索／[[Meta-analysis]]** | 搜索 PsycINFO, ERIC 等 9 个数据库，结合引用追踪（如对 *Handbook of [[Epistemic Cognition]]* 各章的追溯）。仅纳入报告了相关系数的非实验[[Quantitative Research\|定量研究]]，排除[[Intervention Research\|干预研究]]和[[Qualitative Research\|质性研究]]以控制方差。 |
-> | **数据编码／[[Coding in Qualitative Research]]** | 按照研究特征、样本特征、[[Epistemology\|认识论]]认知[[Variable\|变量]]（模型、[[Construct\|构念]]、测量工具、[[Domain Specificity\|领域特异性]]）、[[Academic Achievement\|学业成就]]变量四大类进行系统编码。 |
+> | **文献检索／[[Meta-analysis]]** | 搜索 PsycINFO, ERIC 等 9 个数据库，结合引用追踪（如对 *Handbook of [[Epistemic Cognition]]* 各章的追溯）。仅纳入报告了相关系数的非实验[[Quantitative Research|定量研究]]，排除[[Intervention Research|干预研究]]和[[Qualitative Research|质性研究]]以控制方差。 |
+> | **数据编码／[[Coding in Qualitative Research]]** | 按照研究特征、样本特征、[[Epistemology|认识论]]认知[[Variable|变量]]（模型、[[Construct|构念]]、测量工具、[[Domain Specificity|领域特异性]]）、[[Academic Achievement|学业成就]]变量四大类进行系统编码。 |
 > | **分析策略／[[Moderator Analysis]]** | 使用综合元分析软件（Comprehensive Meta-Analysis, CMA）。考虑到依赖效应（同一研究的多个效应量），采用“转移分析单位”（shifting unit of analysis）策略计算平均相关系数 $r$ 和 95% 置信区间。使用 $Q$ 统计量进行异质性检验。 |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |----------|------|
-> | **[[Study Population and Sample\|研究样本]]** | 132 项非[[Experimental Research\|实验研究]]，151 个独立样本，752 个[[Effect Size\|效应量]]，共 55,418 名参与者。 |
+> | **[[Study Population and Sample|研究样本]]** | 132 项非[[Experimental Research|实验研究]]，151 个独立样本，752 个[[Effect Size|效应量]]，共 55,418 名参与者。 |
 > | **样本阶段** | 大学生最多（68 个样本），其次为高中（39 个），小学（8 个）、初中（10 个）、研究生（4 个）及职前教师（10 个）。 |
-> | **[[Document\|文献]]清洗** | 初始搜到 737 篇，剔除不含相关性的（278 篇）、非该主题的（105 篇）、干预类（36 篇）等。 |
+> | **[[Document|文献]]清洗** | 初始搜到 737 篇，剔除不含相关性的（278 篇）、非该主题的（105 篇）、干预类（36 篇）等。 |
 
 > [!index-table]- 表 4：研究报告中编码的信息
 > | 类别 (Category) | 编码指标 (Codes) |
@@ -198,7 +198,7 @@ issuing_organization: ""
 > > - **Duval & Tweedie 修剪与填充 (Trim-and-fill)** 检验未指示需要进行任何修剪或填充，效应量分布未见偏倚倾斜。
 
 > [!ma-table]- 表 5：认识论认知与学业成就的总体相关性
-> | 模型 | k | [[Effect Size\|效应量]]（Effect Size, ES） | 95% [[Confidence Interval\|置信区间]]（Confidence Interval, CI） | Z 值 | Q 值 | df | I² |
+> | 模型 | k | [[Effect Size|效应量]]（Effect Size, ES） | 95% [[Confidence Interval|置信区间]]（Confidence Interval, CI） | Z 值 | Q 值 | df | I² |
 > |---|---|---|---|---|---|---|---|---|
 > | 固定效应 | 151 | .158 | [.150, .166] | 37.317 | 1,335.222 | 150 | 88.766 |
 > | 随机效应 | 151 | .162 | [.135, .189] | 11.741 | | | |
@@ -231,22 +231,22 @@ issuing_organization: ""
 > [!index-table]- 核心认识论构念释义
 > | 认识论构念 (Epistemic cognition construct) | 构念内涵解释 |
 > |---|---|
-> | **[[Development of Knowledge\|知识的发展]] (Development of knowledge)** | 认识到知识是不断演化和发展的。 |
+> | **[[Development of Knowledge|知识的发展]] (Development of knowledge)** | 认识到知识是不断演化和发展的。 |
 > | **一般认识论认知 (General epistemic cognition)** | 将多维度的不同认识论信念加总求和的整体粗略得分。 |
 > | **Kuhn 的发展层次 (Kuhn's levels)** | 测试学生所处阶段（绝对主义、多元主义、评价主义）。 |
 > | **知识的证成 (Justification of knowledge)** | 关注如何评估知识主张以及何种证据能使其成立。 |
 > | **多源证成 (Multiple justification)** | 认为需要整合多个来源的证据来交叉验证知识。 |
 > | **学习速度 (Quick learning)** | 认为学习要么很快发生，要么永远学不会（归为智力内隐理论）。 |
 > | **建构主义 (Constructivism)** | 认为学习是主动建构意义的过程（已被证实存在严重的概念混杂）。 |
-> | **[[Source of Knowledge\|知识的来源]] (Source of knowledge)** | 关注知识是来自外部权威赋权还是由个人内部建构。 |
+> | **[[Source of Knowledge|知识的来源]] (Source of knowledge)** | 关注知识是来自外部权威赋权还是由个人内部建构。 |
 > | **个人证成 (Personal justification)** | 倾向于基于个人经验、观点或直觉来确证知识。 |
-> | **[[Simplicity of Knowledge\|简单知识]] (Simple knowledge)** | 认为知识是孤立的、碎片化的事实，而非复杂的关联网络。 |
+> | **[[Simplicity of Knowledge|简单知识]] (Simple knowledge)** | 认为知识是孤立的、碎片化的事实，而非复杂的关联网络。 |
 > | **简单与确定知识 (Simple and certain)** | 混合维度：认为知识不仅是碎片化的事实，而且一成不变。 |
 > | **先天能力 (Innate ability)** | 认为学习能力是天生的、不可改变的（归为智力内隐理论）。 |
 > | **确定知识 (Certain knowledge)** | 认为知识是绝对不变的，排斥知识的暂定性（tentative）。 |
 > | **基于权威的证成 (Justification by authority)** | 认为知识只需要权威（如书本、专家）背书即可成立。 |
 > | **全知权威 (Omniscient authority)** | 认为权威掌握着所有的真理，不会犯错。 |
-> | **[[Epistemic Aims\|认识论目标]] (Epistemic aims)** | 认知活动追求的终点（如获得满分 vs 追求深层理解）。 |
+> | **[[Epistemic Aims|认识论目标]] (Epistemic aims)** | 认知活动追求的终点（如获得满分 vs 追求深层理解）。 |
 > | **真理的可及性 (Attainability of truth)** | 是否认为最终可以获得绝对且客观的真理。 |
 > | **知识的结构 (Structure of knowledge)** | 关注知识的组织形态（如层级式或网络式）。 |
 > | **微观可变性 (Texture & Variability)** | 特定实验任务中的细粒度知识建构属性。 |
@@ -357,7 +357,7 @@ issuing_organization: ""
 > | 成就类型 (Achievement Type) | 样本数 (k) | 效应量 (ES) | 95% CI | 认知加工层级特征 |
 > |---|---|---|---|---|
 > | 概念性知识 (Conceptual) | 11 | .190 | [.073, .301] | 高阶加工：概念转变、原理解释、跨情境迁移 |
-> | 论证能力 (Argumentation) | 12 | .154 | [.081, .226] | 高阶加工：多文本整合、[[Chain of Evidence\|证据链]]权衡、反思辩驳 |
+> | 论证能力 (Argumentation) | 12 | .154 | [.081, .226] | 高阶加工：多文本整合、[[Chain of Evidence|证据链]]权衡、反思辩驳 |
 > | 一般综合成绩 (General/GPA) | 126 | .160 | [.132, .188] | 综合测评：学期绩点、标准化期末统考 |
 > | 陈述性知识 (Declarative) | 7 | .127 | [.053, .200] | 低阶加工：封闭式事实检索、术语复述 |
 > | 程序性知识 (Procedural) | 2 | .077 | [-.102, .251] | 低阶加工：机械算法套用、固定操作流程（不显著） |
@@ -422,7 +422,7 @@ issuing_organization: ""
 > | 印第安纳数学信念量表 | 5 | .421 | [.196, .604] |
 > | 希腊物理认识论信念评估工具（Greek Epistemological Beliefs Evaluation Instrument for Physics, GEBEP） | 1 | .284 | [.062, .478] |
 > | Conley et al. (2004) 问卷 | 17 | .242 | [.155, .325] |
-> | [[Epistemological Understanding\|认识论理解]]量表（Epistemic Understanding Inventory, EUI） | 5 | .242 | [.104, .371] |
+> | [[Epistemological Understanding|认识论理解]]量表（Epistemic Understanding Inventory, EUI） | 5 | .242 | [.104, .371] |
 > | Bråten et al. 认知证成问卷（[[Justification for Knowing]] Questionnaire, JFK-Q） | 7 | .179 | [.100, .255] |
 > | 认识论信念内涵方面问卷（Connotative Aspects of Epistemological Beliefs Questionnaire, CAEB） | 3 | .170 | [.022, .312] |
 > | Elder (1999) 问卷（Elder Questionnaire） | 4 | .166 | [.006, .317] |

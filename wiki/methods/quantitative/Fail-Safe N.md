@@ -180,11 +180,11 @@ flowchart TD
 ## 方法学批判与适用边界
 
 > [!contrast-table] 失安全数与现代偏倚检验方法对比
-> | 维度 | Rosenthal 经典失安全数 | Orwin [[Effect Size\|效应量]]失安全数 | 现代偏倚校正法（[[Trim and Fill Method\|剪补法]] / Egger 检验 / [[Leave-One-Out Sensitivity Analysis\|留一法]]） |
+> | 维度 | Rosenthal 经典失安全数 | Orwin [[Effect Size|效应量]]失安全数 | 现代偏倚校正法（[[Trim and Fill Method|剪补法]] / Egger 检验 / [[Leave-One-Out Sensitivity Analysis|留一法]]） |
 > |---|---|---|---|
-> | **关注核心** | 统计显著性（$p$ 值） | 效应量绝对大小（Effect Size） | [[Funnel Plot\|漏斗图]]不对称几何形态与分布[[Heterogeneity\|异质性]] |
-> | **[[Hypothesis\|假设]]前提** | 假设未发表[[Document\|文献]]效应严格为 0 | 假设未发表文献效应为 0 或指定常数 | 基于已有研究分布迭代剪除与镜像填补 |
-> | **效应量校正** | **无法修正点估计** | **无法修正点估计** | **可输出校正后的真实效应量与[[Confidence Interval\|置信区间]]** |
+> | **关注核心** | 统计显著性（$p$ 值） | 效应量绝对大小（Effect Size） | [[Funnel Plot|漏斗图]]不对称几何形态与分布[[Heterogeneity|异质性]] |
+> | **[[Hypothesis|假设]]前提** | 假设未发表[[Document|文献]]效应严格为 0 | 假设未发表文献效应为 0 或指定常数 | 基于已有研究分布迭代剪除与镜像填补 |
+> | **效应量校正** | **无法修正点估计** | **无法修正点估计** | **可输出校正后的真实效应量与[[Confidence Interval|置信区间]]** |
 > | **敏感性识别** | 无法检测单个异常值主导效应 | 无法检测单个异常值主导效应 | **留一法可直接识别极端异常值干扰** |
 > | **现代定位** | 辅助性压力测试工具 | 辅助性效应量稀释指标 | Cochrane 与 [[PRISMA]] 推荐的标准报告工具 |
 
@@ -213,11 +213,11 @@ flowchart TD
 > [!entry-map]
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Meta-analysis]] | 上位方法 | 提供失安全数运行的总体[[Effect Size\|效应量]]与方差统计环境。 |
+> | [[Meta-analysis]] | 上位方法 | 提供失安全数运行的总体[[Effect Size|效应量]]与方差统计环境。 |
 > | [[Trim and Fill Method]] | 补充方法 | 相比失安全数，剪补法能通过镜像填补给出校正后的效应量点估计。 |
 > | [[Leave-One-Out Sensitivity Analysis]] | 互补方法 | 逐一排除单项研究以检验异常值扰动，弥补失安全数无法识别单项极端样本的缺陷。 |
-> | [[Multilevel Egger's Test]] | 协同方法 | 通过回归截距检验[[Funnel Plot\|漏斗图]]不对称性，提供连续型偏倚检验统计量。 |
-> | [[Publication Bias]] | 目标[[Construct\|构念]] | 失安全数所致力于诊断与抵抗的理论偏误来源。 |
+> | [[Multilevel Egger's Test]] | 协同方法 | 通过回归截距检验[[Funnel Plot|漏斗图]]不对称性，提供连续型偏倚检验统计量。 |
+> | [[Publication Bias]] | 目标[[Construct|构念]] | 失安全数所致力于诊断与抵抗的理论偏误来源。 |
 
 ---
 

@@ -152,8 +152,8 @@ updated: 2026-08-22
 > [!framework-table] 循证清算中心（[[What Works Clearinghouse|WWC]] / [[Home Visiting Evidence of Effectiveness|HomVEE]]）对 RDD 的审查规程与门槛（基于 Wadhwa et al., 2024）
 > | 审查维度 | WWC / HomVEE 规定技术门槛 | 违规或不达标处理结果 |
 > |:---|:---|:---|
-> | **因果设计评级** | **3 级（建立专属完整审查标准）**；达标者评为 **Meets Standards Without Reservations**（一级最高认证）。 | 全库仅 WWC 与 HomVEE 赋予 RDD 与 [[Randomised Controlled Trials\|RCT]] 相同的最高准入地位。 |
-> | **驱动变量[[Manipulation Check\|操纵检验]]** | 强制要求提供驱动变量在断点处的分布直方图与 McCrary 密度检验，证明无统计显著跳跃。 | 若存在人为扎堆操纵（Manipulation），直接判定未达标（Does Not Meet）。 |
+> | **因果设计评级** | **3 级（建立专属完整审查标准）**；达标者评为 **Meets Standards Without Reservations**（一级最高认证）。 | 全库仅 WWC 与 HomVEE 赋予 RDD 与 [[Randomised Controlled Trials|RCT]] 相同的最高准入地位。 |
+> | **驱动变量[[Manipulation Check|操纵检验]]** | 强制要求提供驱动变量在断点处的分布直方图与 McCrary 密度检验，证明无统计显著跳跃。 | 若存在人为扎堆操纵（Manipulation），直接判定未达标（Does Not Meet）。 |
 > | **带宽与函数形式拟合** | 优先推荐局部线性回归或局部二次回归；限制使用全样本高阶多项式（防止边缘摆动假象）。 | 若使用 3 阶以上多项式且未作带宽截断，要求提供敏感性检验。 |
 > | **共时外生政策排查** | 必须论证在断点 $c$ 处不存在其他同时发生截断的混杂政策（如免学费线与资优生辅导线重合）。 | 若存在共时政策重叠，因果归因失效。 |
 
@@ -184,12 +184,12 @@ updated: 2026-08-22
 >
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|
-> | [[Quasi-Experimental Designs]] | 母类方法 | RDD 是准实验设计体系中内部效度最高、[[Causality\|因果推断]]力最强的亚型。 |
-> | [[Randomised Controlled Trials]] | 黄金参照 | RDD 在断点邻域内实现局部[[Random Assignment\|随机化]]，被 [[What Works Clearinghouse\|WWC]] 视作与 RCT 并列的一级证据。 |
-> | [[Time Series Design]] | 关联设计 | [[Intelligent Tutoring Systems\|ITS]] 属于“时间维度断点”，RDD 属于“属性分数维度断点”，二者共享局部跃升检验逻辑。 |
-> | [[Campbellian Validity Framework]] | 理论基础 | 提供排查选择、历史与工具测量偏倚的[[Luhmann's Systems Theory\|系统理论]]工具。 |
-> | [[Causality]] | 核心概念 | LATE 因果推断的现代计量[[Paradigm\|范式]]。 |
-> | [[What Works Clearinghouse]] | 评价机构 | 制定了国际最完备的 RDD 强迫[[Variable\|变量]]操纵与带宽审查技术手册。 |
+> | [[Quasi-Experimental Designs]] | 母类方法 | RDD 是准实验设计体系中内部效度最高、[[Causality|因果推断]]力最强的亚型。 |
+> | [[Randomised Controlled Trials]] | 黄金参照 | RDD 在断点邻域内实现局部[[Random Assignment|随机化]]，被 [[What Works Clearinghouse|WWC]] 视作与 RCT 并列的一级证据。 |
+> | [[Time Series Design]] | 关联设计 | [[Intelligent Tutoring Systems|ITS]] 属于“时间维度断点”，RDD 属于“属性分数维度断点”，二者共享局部跃升检验逻辑。 |
+> | [[Campbellian Validity Framework]] | 理论基础 | 提供排查选择、历史与工具测量偏倚的[[Luhmann's Systems Theory|系统理论]]工具。 |
+> | [[Causality]] | 核心概念 | LATE 因果推断的现代计量[[Paradigm|范式]]。 |
+> | [[What Works Clearinghouse]] | 评价机构 | 制定了国际最完备的 RDD 强迫[[Variable|变量]]操纵与带宽审查技术手册。 |
 
 ---
 

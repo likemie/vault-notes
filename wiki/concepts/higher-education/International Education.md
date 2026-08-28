@@ -91,9 +91,9 @@ updated: '2026-08-24'
 ## 概念辨析
 
 > [!contrast-table] 相近概念的分析层级
-> | 维度 | 国际教育 | [[Internationalization of Higher Education\|高等教育国际化]] | 比较教育 | [[Global Universities Rankings\|全球大学排名]] |
+> | 维度 | 国际教育 | [[Internationalization of Higher Education|高等教育国际化]] | 比较教育 | [[Global Universities Rankings|全球大学排名]] |
 > |---|---|---|---|---|
-> | **核心对象** | 跨国教育[[Praxis\|实践]]、关系和制度 | 高校主动实施的国际化政策与战略 | 对不同国家教育制度的研究与解释 | 对大学表现进行跨国测量和排序的工具系统 |
+> | **核心对象** | 跨国教育[[Praxis|实践]]、关系和制度 | 高校主动实施的国际化政策与战略 | 对不同国家教育制度的研究与解释 | 对大学表现进行跨国测量和排序的工具系统 |
 > | **学段范围** | 幼儿园至十二年级（kindergarten through grade 12，K–12）、高等教育及跨学段资格衔接 | 主要是高等教育 | 不限学段 | 高等教育 |
 > | **典型问题** | 如何共同学习、跨境升学并获得承认 | 如何发展国际招生、课程、合作与海外布局 | 国家之间为何相同或不同 | 用什么指标和权重比较大学 |
 > | **与国家的关系** | 可能跨越、组合或部分去国家化 | 通常由国家或高校战略推动 | 把国家体系作为比较单位或问题对象 | 把机构置入全球竞争序列 |
@@ -203,14 +203,14 @@ updated: '2026-08-24'
 >
 > | 研究 | 样本与情境 | 指标 | 关键结果 | 解释边界 |
 > |---|---|---|---|---|
-> | [[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010, pp. 22–23)]] | 全球[[International Schools\|国际学校]]，1964–2005 | 学校与学生规模 | 约 50 所（1964）→约 1,000 所、50 万学生（1994）→约 3,000 所、约 200 万学生（2005） | 不同来源的机构定义和统计口径未被系统核验 |
-> | [[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010, p. 24)]] | 国际学校，1960 与 2005 | 创始国学生比例 | 约 70% 降至约 30%，显示生源从母国侨民转向更广泛、尤其是本地家庭 | “去国家化”描述生源变化，不证明课程和教学已经文化中立 |
-> | [[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010, p. 28)]] | 全球 [[International Baccalaureate\|IB]]，2008–2009 | 学生、学校与国家 | 2009 年 709,000 名学生、2,609 所学校、135 国；一年前为 596,000 名、2,218 所、125 国 | 规模不能单独说明教育质量或跨文化效果 |
-> | [[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010, pp. 1–2)]] | 全球高等教育流动 | 跨境学生 | 2006 年出国大学生超过 270 万；计入短期交流、海外实习和教师交换后，参与者超过 600 万 | “参与国际教育”涵盖项目差异很大的活动 |
-> | [[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010, pp. 17–18)]] | 中国学生流动，1978–2007 | 出境与入境人数 | 1978–2003 年 580,000 名中国本科生和研究生赴美；赴华外国学生由 61,869（2001）增至 110,844（2004）和 140,000 以上（2005） | 中国出境数据在媒体与[[Education International\|国际教育协会]]（Institute of International Education，IIE）之间差异显著 |
-> | [[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010, p. 2)]] | 美国新入学国际学生，2008 | 来源地区 | 南亚、东亚（含中国）及印度次大陆学生占 61% | 区域聚合不能代表内部学习者具有同质文化 |
-> | [[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010, p. 26)]] | 香港国际学校 | 学费 | 年费约 10,000–20,000 美元 | 价格显示市场与阶层门槛，不代表全球国际学校共同水平 |
-> | [[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, pp. 67–71)]] | IB 六年试验，1970–1975 | 考试与承认规模 | 完整文凭考生由 29 人增至 377 人；截至 1973 年底，20 国给予一般承认，学生进入 25 国 175 所大学 | 样本非随机，承认用途和部分承认范围未在总数中分开 |
+> | [[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, pp. 22–23)]] | 全球[[International Schools|国际学校]]，1964–2005 | 学校与学生规模 | 约 50 所（1964）→约 1,000 所、50 万学生（1994）→约 3,000 所、约 200 万学生（2005） | 不同来源的机构定义和统计口径未被系统核验 |
+> | [[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, p. 24)]] | 国际学校，1960 与 2005 | 创始国学生比例 | 约 70% 降至约 30%，显示生源从母国侨民转向更广泛、尤其是本地家庭 | “去国家化”描述生源变化，不证明课程和教学已经文化中立 |
+> | [[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, p. 28)]] | 全球 [[International Baccalaureate|IB]]，2008–2009 | 学生、学校与国家 | 2009 年 709,000 名学生、2,609 所学校、135 国；一年前为 596,000 名、2,218 所、125 国 | 规模不能单独说明教育质量或跨文化效果 |
+> | [[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, pp. 1–2)]] | 全球高等教育流动 | 跨境学生 | 2006 年出国大学生超过 270 万；计入短期交流、海外实习和教师交换后，参与者超过 600 万 | “参与国际教育”涵盖项目差异很大的活动 |
+> | [[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, pp. 17–18)]] | 中国学生流动，1978–2007 | 出境与入境人数 | 1978–2003 年 580,000 名中国本科生和研究生赴美；赴华外国学生由 61,869（2001）增至 110,844（2004）和 140,000 以上（2005） | 中国出境数据在媒体与[[Education International|国际教育协会]]（Institute of International Education，IIE）之间差异显著 |
+> | [[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, p. 2)]] | 美国新入学国际学生，2008 | 来源地区 | 南亚、东亚（含中国）及印度次大陆学生占 61% | 区域聚合不能代表内部学习者具有同质文化 |
+> | [[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, p. 26)]] | 香港国际学校 | 学费 | 年费约 10,000–20,000 美元 | 价格显示市场与阶层门槛，不代表全球国际学校共同水平 |
+> | [[Argument_Peterson_1987_OpenCourt_Ch04|Peterson (1987, pp. 67–71)]] | IB 六年试验，1970–1975 | 考试与承认规模 | 完整文凭考生由 29 人增至 377 人；截至 1973 年底，20 国给予一般承认，学生进入 25 国 175 所大学 | 样本非随机，承认用途和部分承认范围未在总数中分开 |
 
 > [!stat-cards]- 补充案例数据
 > - **40%–50%** 香港英基学校协会（English Schools Foundation，[[English Schools Foundation Hong Kong|ESF]]）学生为本地香港华人，显示侨民学校向本地家庭开放。
@@ -250,8 +250,8 @@ updated: '2026-08-24'
 > | **学校与课程** | [[International Schools]]、[[International Baccalaureate]] | 国际学校提供共同学习空间，IB 提供跨国课程、评价和升学资格。 |
 > | **资格与组织实验** | [[International Qualification Recognition]]、[[International Baccalaureate Six-Year Experiment]]、[[1976 Hague Intergovernmental Conference on the International Baccalaureate]] | 展示国际课程如何经由入学、分班、免修和国家等值取得跨境效力，并形成考试行政、收入与政府参与的治理结构。 |
 > | **比较与评价** | [[PISA]]、[[Academic Ranking of World Universities]]、[[Global Universities Rankings]] | 以共同指标把国家和大学置入跨国比较，同时引出指标权力问题。 |
-> | **跨境机构布局** | [[Education City Doha]]、[[International Education Hubs]] | 大学海外分校和国家教育枢纽把教育纳入地缘政治、[[Knowledge-Based Economy\|知识经济]]与服务市场。 |
-> | **地方转型与跨文化教学** | [[English Schools Foundation Hong Kong]]、[[Transnationalism and America Project SYSU\|中山大学跨国主义与美国项目]] | 前者显示侨民学校向本地家庭转型，后者呈现跨文化团队教学[[Praxis\|实践]]。 |
+> | **跨境机构布局** | [[Education City Doha]]、[[International Education Hubs]] | 大学海外分校和国家教育枢纽把教育纳入地缘政治、[[Knowledge-Based Economy|知识经济]]与服务市场。 |
+> | **地方转型与跨文化教学** | [[English Schools Foundation Hong Kong]]、[[Transnationalism and America Project SYSU|中山大学跨国主义与美国项目]] | 前者显示侨民学校向本地家庭转型，后者呈现跨文化团队教学[[Praxis|实践]]。 |
 
 ---
 

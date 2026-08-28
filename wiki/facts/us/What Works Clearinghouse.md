@@ -146,8 +146,8 @@ updated: 2026-08-21
 > | **单项研究评级** | Meets WWC Standards Without Reservations（无保留达标，限低流失 RCT/合格 RDD）；<br>Meets WWC Standards With Reservations（有保留达标，限高质量 QED 或高流失等值 RCT）；<br>Does Not Meet WWC Standards（未达标） |
 > | **干预效果等级** | Positive（积极）；Potentially Positive（潜在积极）；Mixed（混合）；Potentially Negative（潜在消极）；Negative（消极）；No Discernible Effects（无明显效果） |
 > | **最高评级门槛** | 需 **至少 2 项研究**，且至少 1 项为“无保留达标”；在指定结果域上表现出正向且统计显著的效果 |
-> | **[[Evaluator Independence\|独立评估者]]要求** | **未做要求**（允许全部由课程开发者自行完成的研究支持） |
-> | **干预后随访期** | **未做要求（干预刚结束即测即可，不考察 12 个月[[Fade-out Effect\|持续效果]]）** |
+> | **[[Evaluator Independence|独立评估者]]要求** | **未做要求**（允许全部由课程开发者自行完成的研究支持） |
+> | **干预后随访期** | **未做要求（干预刚结束即测即可，不考察 12 个月[[Fade-out Effect|持续效果]]）** |
 > | **结果域聚合机制** | **按微观结果域分别评级**（如阅读理解、数学计算独立发布，不强行跨域合并为单一综合分） |
 
 ---
@@ -198,7 +198,7 @@ updated: 2026-08-21
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|
 > | [[Educational Evidence Clearinghouses]] | 核心概念 | WWC 是教育领域最具支配地位与制度可见度的公共清算中心。 |
-> | [[Evidence-Based Education]] | 政策[[Paradigm\|范式]] | WWC 作为 EBE [[Causality\|因果推断]]标准的旗舰载体，将[[Clinical Trial\|临床试验]]逻辑系统引入教育学。 |
+> | [[Evidence-Based Education]] | 政策[[Paradigm|范式]] | WWC 作为 EBE [[Causality|因果推断]]标准的旗舰载体，将[[Clinical Trial|临床试验]]逻辑系统引入教育学。 |
 > | [[Campbellian Validity Framework]] | 理论基础 | WWC 审查程序与门控机制直接奠基于 Campbellian 效度体系。 |
 > | [[5-3-20 Rule]] | 技术规程 | WWC 单一被试实验审查与综合证据认定的标志性门槛规则。 |
 > | [[ESSA 2015 Evidence Standards]] | 法律依托 | ESSA 法案将联邦教育经费分配与 WWC 评级直接绑定。 |

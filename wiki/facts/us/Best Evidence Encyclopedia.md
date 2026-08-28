@@ -115,7 +115,7 @@ updated: 2026-08-21
 > [!contrast-table] BEE 评级层级与标准
 > | 评级等级 | 核心准入条件与证据门槛 |
 > |:---|:---|
-> | **强证据（Strong Evidence of Effectiveness）** | 拥有 **至少 2 项高质量 [[Randomised Controlled Trials\|RCT]]（或 1 项大型多中心 RCT + 1 项高质量 [[Quasi-Experimental Designs\|QED]]）**；总[[Sample Size Determination\|样本量]]丰富（跨多校多班）；加权平均[[Effect Size\|效应量]]达到 **$\mathbf{ES \ge +0.20\text{ SD}}$ 且统计显著**；至少 1 项研究干预持续一整学年。 |
+> | **强证据（Strong Evidence of Effectiveness）** | 拥有 **至少 2 项高质量 [[Randomised Controlled Trials|RCT]]（或 1 项大型多中心 RCT + 1 项高质量 [[Quasi-Experimental Designs|QED]]）**；总[[Sample Size Determination|样本量]]丰富（跨多校多班）；加权平均[[Effect Size|效应量]]达到 **$\mathbf{ES \ge +0.20\text{ SD}}$ 且统计显著**；至少 1 项研究干预持续一整学年。 |
 > | **中等证据（Moderate Evidence of Effectiveness）** | 至少 1 项 RCT 或 2 项高质量 QED，加权平均效应量 **$\mathbf{ES \ge +0.20\text{ SD}}$**；或多项达标研究加权效应量在 $+0.10$ 至 $+0.19\text{ SD}$ 之间。 |
 > | **有限证据（Limited Evidence of Effectiveness）** | 存在至少 1 项达标研究呈现积极趋势（$ES > 0$），但研究数量或样本量不足以得出稳健结论。 |
 > | **证据不足（Insufficient Evidence / No Qualifying Studies）** | 缺乏达标实证研究，或既有研究存在严重方法学缺陷（如无对照组、严重基线不平衡、干预小于 12 周）。 |
@@ -166,6 +166,6 @@ updated: 2026-08-21
 > |:---|:---|:---|
 > | [[Educational Evidence Clearinghouses]] | 核心概念 | BEE 是大学学术研究团队主导的教育专精清算中心典型代表。 |
 > | [[Robert Slavin]] | 关键人物 | BEE 的创立者与学术灵魂，最佳证据综合法（BES）提出者。 |
-> | [[Evidence-Based Education]] | 政策[[Paradigm\|范式]] | BEE 将[[Meta-analysis\|元分析]]量化综合深度融入循证教育评价体系。 |
+> | [[Evidence-Based Education]] | 政策[[Paradigm|范式]] | BEE 将[[Meta-analysis|元分析]]量化综合深度融入循证教育评价体系。 |
 > | [[ESSA 2015 Evidence Standards]] | 政策依托 | BEE 准则直接孵化了新一代 Evidence for ESSA 决策支持平台。 |
 > | [[Success for All]] | 干预项目 | BEE 创立团队研发的旗舰全校综合改革方案。 |

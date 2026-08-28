@@ -59,12 +59,12 @@ updated: '2026-07-09'
 ## 概念辨析
 
 > [!contrast-table] 概念辨析
-> | 维度 | 北欧教育模式 | [[Global Education Industry\|全球教育产业]] (GEI) 驱动模式 |
+> | 维度 | 北欧教育模式 | [[Global Education Industry|全球教育产业]] (GEI) 驱动模式 |
 > |------|---|---|
-> | **核心价值** | 民主、团结、公平与社会包容（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 8]]）。 | 效率、个人竞争、市场选择与经济增长（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 9]]）。 |
-> | **知识定位** | 整体性、存在性的生活世界探索与德性塑造（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 4, 10]]）。 | 原子化的、可测量的、面向市场就业的技能单元（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 9–10]]）。 |
-> | **评价机制** | 内部反馈、教师专业信任、非排序式评价。 | 外部审计、标准化数据测量、跨国排名（如 PISA）与绩效问责（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 8–9]]）。 |
-> | **社会后果** | 缩小阶层差距，保障弱势群体，促进社会信任。 | 增加竞争焦虑，排斥不达标的淘汰者，弱化社会安全网（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 10]]）。 |
+> | **核心价值** | 民主、团结、公平与社会包容（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 8]]）。 | 效率、个人竞争、市场选择与经济增长（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 9]]）。 |
+> | **知识定位** | 整体性、存在性的生活世界探索与德性塑造（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 4, 10]]）。 | 原子化的、可测量的、面向市场就业的技能单元（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 9–10]]）。 |
+> | **评价机制** | 内部反馈、教师专业信任、非排序式评价。 | 外部审计、标准化数据测量、跨国排名（如 PISA）与绩效问责（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 8–9]]）。 |
+> | **社会后果** | 缩小阶层差距，保障弱势群体，促进社会信任。 | 增加竞争焦虑，排斥不达标的淘汰者，弱化社会安全网（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 10]]）。 |
 
 ---
 

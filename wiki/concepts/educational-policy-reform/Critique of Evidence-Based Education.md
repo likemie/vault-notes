@@ -227,9 +227,9 @@ updated: 2026-07-15
 > [!contrast-table] EBE 方法偏好 vs 方法多元论（Cowen 2019）
 > | EBE 优先的方法 | EBE 排除或边缘化的方法 |
 > |---|---|
-> | RCT（个体[[Random Assignment\|随机分配]]） | 准实验、自然实验 |
-> | 系统综述 / 元分析 | 工具[[Variable\|变量]]估计、合成控制、差异中差 |
-> | 效应量呈现（如 EEF Toolkit） | 调查、[[Participant Observation\|参与观察]]、访谈、[[Case Study\|案例研究]] |
+> | RCT（个体[[Random Assignment|随机分配]]） | 准实验、自然实验 |
+> | 系统综述 / 元分析 | 工具[[Variable|变量]]估计、合成控制、差异中差 |
+> | 效应量呈现（如 EEF Toolkit） | 调查、[[Participant Observation|参与观察]]、访谈、[[Case Study|案例研究]] |
 > | 学校/课堂层面干预测试 | 过程追踪、分析性叙事 |
 
 ---

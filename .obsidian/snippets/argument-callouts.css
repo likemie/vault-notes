@@ -7248,28 +7248,57 @@
    垂直连接线贯穿步骤列表；白底环形隔离连接线与徽章
    适用：多步操作程序、算法流程、实验步骤
    ─────────────────────────────────────────────────────── */
+@keyframes proc-flow-line {
+  from { background-position: 0 -180%; }
+  to   { background-position: 0 280%; }
+}
+
+@keyframes proc-node-breathe {
+  0%, 100% {
+    box-shadow:
+      0 0 0 3px var(--background-primary),
+      0 0 0 4px rgba(var(--callout-color), 0.16);
+  }
+  50% {
+    box-shadow:
+      0 0 0 3px var(--background-primary),
+      0 0 0 6px rgba(var(--callout-color), 0.07);
+  }
+}
+
+@keyframes proc-badge-sheen {
+  0%, 72%, 100% { background-position: 120% 0; }
+  88% { background-position: -20% 0; }
+}
+
 .callout[data-callout="proc"] {
   --callout-color: 30, 100, 130;
   --callout-icon: lucide-route;
   position: relative;
   overflow: hidden;
   background:
-    radial-gradient(circle at 96% 10%, rgba(30, 100, 130, 0.16), transparent 30%),
-    linear-gradient(135deg, rgba(30, 100, 130, 0.10), rgba(30, 100, 130, 0.025)),
+    radial-gradient(circle at 96% 8%, rgba(var(--callout-color), 0.11), transparent 27%),
+    linear-gradient(135deg, rgba(var(--callout-color), 0.075), transparent 48%),
     var(--background-primary);
-  border: 1px solid rgba(30, 100, 130, 0.22);
-  border-left: 6px solid rgb(30, 100, 130);
-  border-radius: 8px;
-  box-shadow: 0 2px 10px rgba(30, 100, 130, 0.07);
+  border: 1px solid rgba(var(--callout-color), 0.21);
+  border-left: 3px solid rgb(var(--callout-color));
+  border-radius: 11px;
+  box-shadow: 0 8px 24px rgba(var(--callout-color), 0.065);
+  transition: border-color 0.22s ease, box-shadow 0.26s ease;
+}
+
+.callout[data-callout="proc"]:hover {
+  border-color: rgba(var(--callout-color), 0.32);
+  box-shadow: 0 12px 30px rgba(var(--callout-color), 0.10);
 }
 
 .callout[data-callout="proc"] > .callout-title {
   color: rgb(25, 88, 115);
   font-weight: 760;
   letter-spacing: 0.015em;
-  border-bottom: 1px solid rgba(30, 100, 130, 0.14);
-  padding-bottom: 0.4rem;
-  margin-bottom: 0.1rem;
+  border-bottom: 1px solid rgba(var(--callout-color), 0.12);
+  padding: 0.64rem 0.86rem 0.56rem;
+  margin: 0;
 }
 
 .callout[data-callout="proc"] > .callout-title .callout-title-inner::before {
@@ -7278,20 +7307,24 @@
   margin-right: 0.55rem;
   padding: 1px 7px;
   border-radius: 999px;
-  background: rgba(30, 100, 130, 0.13);
+  background:
+    linear-gradient(105deg, transparent 32%, rgba(255, 255, 255, 0.34) 48%, transparent 64%),
+    rgba(var(--callout-color), 0.13);
+  background-size: 240% 100%, 100% 100%;
   color: rgb(25, 88, 115);
   font-size: var(--fs-label);
   font-weight: 820;
   letter-spacing: 0.08em;
   vertical-align: middle;
+  animation: proc-badge-sheen 5.6s ease-in-out infinite;
 }
 
 /* ─── 步骤列表容器 ──────────────────────────────────── */
 .callout[data-callout="proc"] > .callout-content > ol {
   counter-reset: proc-n;
   list-style: none;
-  padding-left: 3rem;
-  margin: 0.5rem 0 0.2rem;
+  padding-left: 2.5rem;
+  margin: 0.24rem 0 0.04rem;
   position: relative;
 }
 
@@ -7299,97 +7332,108 @@
 .callout[data-callout="proc"] > .callout-content > ol::before {
   content: "";
   position: absolute;
-  left: 0.82rem;
-  top: 1.55rem;
-  bottom: 1.45rem;
-  width: 2px;
+  left: 0.68rem;
+  top: 0.86rem;
+  bottom: 0.86rem;
+  width: 1.5px;
   border-radius: 1px;
   background: linear-gradient(
     to bottom,
-    rgba(30, 100, 130, 0)    0%,
-    rgba(30, 100, 130, 0.38) 10%,
-    rgba(30, 100, 130, 0.38) 90%,
-    rgba(30, 100, 130, 0)   100%
+    rgba(var(--callout-color), 0.18) 0%,
+    rgba(var(--callout-color), 0.18) 38%,
+    rgba(var(--callout-color), 0.88) 48%,
+    rgba(var(--callout-color), 0.88) 52%,
+    rgba(var(--callout-color), 0.18) 62%,
+    rgba(var(--callout-color), 0.18) 100%
   );
+  background-size: 100% 220%;
+  filter: drop-shadow(0 0 2px rgba(var(--callout-color), 0.16));
+  animation: proc-flow-line 3.8s ease-in-out infinite;
 }
 
 /* ─── 单步条目 ──────────────────────────────────────── */
 .callout[data-callout="proc"] > .callout-content > ol > li {
   counter-increment: proc-n;
   position: relative;
-  padding: 0.72rem 1rem 0.72rem 0.75rem;
-  margin-bottom: 0.42rem;
-  border: 1px solid rgba(30, 100, 130, 0.12);
-  border-radius: 8px;
+  padding: 0.4rem 0.7rem 0.42rem 0.62rem;
+  margin-bottom: 0.2rem;
+  border: 1px solid rgba(var(--callout-color), 0.11);
+  border-radius: 6px;
   background:
     linear-gradient(180deg, rgba(255, 255, 255, 0.32), transparent),
-    color-mix(in srgb, var(--background-primary) 93%, rgb(30, 100, 130) 7%);
-  line-height: 1.68;
-  transition: background 0.12s ease, transform 0.12s ease;
+    color-mix(in srgb, var(--background-primary) 95%, rgb(var(--callout-color)) 5%);
+  line-height: 1.52;
+  transition: background 0.16s ease, border-color 0.16s ease, transform 0.18s ease;
 }
 
 .callout[data-callout="proc"] > .callout-content > ol > li:hover {
-  background: rgba(30, 100, 130, 0.06);
-  transform: translateX(2px);
+  background: rgba(var(--callout-color), 0.065);
+  border-color: rgba(var(--callout-color), 0.24);
+  transform: translateX(3px);
 }
 
 /* 步骤编号徽章 — 白色环形隔离，使徽章浮于连接线之上 */
 .callout[data-callout="proc"] > .callout-content > ol > li::before {
   content: counter(proc-n);
   position: absolute;
-  left: -2.18rem;
-  top: 0.65rem;
-  width: 1.58rem;
-  height: 1.58rem;
+  left: -1.91rem;
+  top: 0.43rem;
+  width: 1.34rem;
+  height: 1.34rem;
   border-radius: 50%;
   background: rgb(30, 100, 130);
   color: #fff;
-  font-size: 0.72em;
+  font-size: 0.66em;
   font-weight: 800;
-  line-height: 1.58rem;
+  line-height: 1.34rem;
   text-align: center;
   box-shadow: 0 0 0 3px var(--background-primary);
   z-index: 1;
+  animation: proc-node-breathe 3.4s ease-in-out infinite;
 }
 
+.callout[data-callout="proc"] > .callout-content > ol > li:nth-child(2)::before { animation-delay: 0.34s; }
+.callout[data-callout="proc"] > .callout-content > ol > li:nth-child(3)::before { animation-delay: 0.68s; }
+.callout[data-callout="proc"] > .callout-content > ol > li:nth-child(4)::before { animation-delay: 1.02s; }
+.callout[data-callout="proc"] > .callout-content > ol > li:nth-child(5)::before { animation-delay: 1.36s; }
+.callout[data-callout="proc"] > .callout-content > ol > li:nth-child(6)::before { animation-delay: 1.70s; }
+.callout[data-callout="proc"] > .callout-content > ol > li:nth-child(7)::before { animation-delay: 2.04s; }
+.callout[data-callout="proc"] > .callout-content > ol > li:nth-child(8)::before { animation-delay: 2.38s; }
+
 .callout[data-callout="proc"] > .callout-content > ol > li:not(:last-child)::after {
-  content: "↓";
-  position: absolute;
-  left: -1.73rem;
-  bottom: -0.78rem;
-  color: rgba(30, 100, 130, 0.58);
-  font-weight: 900;
-  font-size: var(--fs-body);
-  line-height: 1;
-  z-index: 2;
+  content: none;
 }
 
 /* ─── 步骤标题 / 正文分行 ──────────────────────────────── */
 /* 紧凑列表（无 <p> 包裹）：首个 strong 作为标题行 */
 .callout[data-callout="proc"] > .callout-content > ol > li > strong:first-of-type {
-  display: block;
-  font-size: 0.93em;
+  display: inline-block;
+  margin: 0.02rem 0.4rem 0.06rem 0;
+  padding: 0.06em 0.4em;
+  border: 1px solid rgba(var(--callout-color), 0.28);
+  border-radius: 4px;
+  background: rgba(var(--callout-color), 0.075);
+  font-size: 0.91em;
   font-weight: 750;
   color: rgb(20, 82, 108);
-  margin-bottom: 0.18rem;
-  line-height: 1.4;
+  line-height: 1.34;
 }
 
 /* 松散列表（有 <p> 包裹）：p:first-child 作为标题段 */
 .callout[data-callout="proc"] > .callout-content > ol > li > p:first-of-type {
-  margin: 0 0 0.20rem 0;
-  padding-bottom: 0.18rem;
+  margin: 0 0 0.14rem 0;
+  padding-bottom: 0.12rem;
   border-bottom: 1px solid rgba(30, 100, 130, 0.12);
   font-weight: 700;
   font-size: 0.93em;
   color: rgb(20, 82, 108);
-  line-height: 1.4;
+  line-height: 1.36;
 }
 
 .callout[data-callout="proc"] > .callout-content > ol > li > p:not(:first-of-type) {
   margin: 0;
   font-size: 0.88em;
-  line-height: 1.62;
+  line-height: 1.52;
   color: var(--text-normal);
   opacity: 0.90;
 }
@@ -7404,7 +7448,8 @@
 .theme-dark .callout[data-callout="proc"] {
   --callout-color: 80, 160, 195;
   background:
-    linear-gradient(135deg, rgba(30, 100, 130, 0.14), rgba(30, 100, 130, 0.04)),
+    radial-gradient(circle at 96% 8%, rgba(var(--callout-color), 0.09), transparent 27%),
+    linear-gradient(135deg, rgba(var(--callout-color), 0.065), transparent 48%),
     var(--background-primary);
   border-color: rgba(80, 160, 195, 0.28);
   border-left-color: rgb(80, 160, 195);
@@ -7415,7 +7460,10 @@
 }
 
 .theme-dark .callout[data-callout="proc"] > .callout-title .callout-title-inner::before {
-  background: rgba(80, 160, 195, 0.18);
+  background:
+    linear-gradient(105deg, transparent 32%, rgba(255, 255, 255, 0.25) 48%, transparent 64%),
+    rgba(var(--callout-color), 0.16);
+  background-size: 240% 100%, 100% 100%;
   color: rgb(125, 195, 225);
 }
 
@@ -7428,6 +7476,19 @@
 
 .theme-dark .callout[data-callout="proc"] > .callout-content > ol > li::before {
   background: rgb(70, 145, 180);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .callout[data-callout="proc"] > .callout-title .callout-title-inner::before,
+  .callout[data-callout="proc"] > .callout-content > ol::before,
+  .callout[data-callout="proc"] > .callout-content > ol > li::before {
+    animation: none !important;
+  }
+
+  .callout[data-callout="proc"] > .callout-content > ol > li:hover,
+  .callout[data-callout="proc"] > .callout-content > ol > li:hover::before {
+    transform: none !important;
+  }
 }
 
 /* ════════════════════════════════════════════════════════════════════
@@ -11339,8 +11400,8 @@
 }
 
 .callout[data-callout="proc"] > .callout-content > ol > li:hover {
-  transform: translateX(4px);
-  border-color: rgba(30, 100, 130, 0.22);
+  transform: translateX(3px);
+  border-color: rgba(var(--callout-color), 0.24);
 }
 
 /* 步骤编号徽章：hover 时放大 + 填色 */
@@ -11352,8 +11413,8 @@
 }
 
 .callout[data-callout="proc"] > .callout-content > ol > li:hover::before {
-  transform: scale(1.18);
-  background: rgb(30, 100, 130);
+  transform: scale(1.08);
+  background: rgb(var(--callout-color));
   color: #fff;
 }
 

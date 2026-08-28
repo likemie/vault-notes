@@ -87,13 +87,13 @@ updated: 2026-08-21
 ## 循证清算中心评级全景对比
 
 > [!contrast-table] 六大清算中心对 Success for All 的评级与审查机制对比（基于 Wadhwa et al., 2024）
-> | 审查维度 | [[What Works Clearinghouse\|WWC]] (联邦官方) | [[Best Evidence Encyclopedia\|BEE]] (JHU/Slavin) | [[Blueprints for Healthy Youth Development\|Blueprints]] | [[Social Programs That Work\|SPTW]] (Arnold) | [[Clearinghouse for Military Family Readiness Continuum of Evidence\|CMFR]] / [[California Evidence Based Clearinghouse for Child Social and Economic Welfare\|CEBC]] |
+> | 审查维度 | [[What Works Clearinghouse|WWC]] (联邦官方) | [[Best Evidence Encyclopedia|BEE]] (JHU/Slavin) | [[Blueprints for Healthy Youth Development|Blueprints]] | [[Social Programs That Work|SPTW]] (Arnold) | [[Clearinghouse for Military Family Readiness Continuum of Evidence|CMFR]] / [[California Evidence Based Clearinghouse for Child Social and Economic Welfare|CEBC]] |
 > |:---|:---|:---|:---|:---|:---|
 > | **底线评级** | **分域评定**<br>(Positive 至 Mixed) | **Strong Evidence**<br>(基础版加权 $ES=+0.29$) | **Promising（有望）**<br>(二级认证) | **Top Tier / Promising**<br>(唯 RCT 严谨认证) | **Level 2 (Supported) / Effective** |
-> | **合格[[Document\|文献]]池规模** | 纳入 **9 项研究** | 合成 **23 项研究** (初读综述) | 审查 16 项，**仅认证 1 项** | 纳入 **6 项研究** | 纳入 **8 项研究** |
-> | **对核心 [[Randomised Controlled Trials\|RCT]] (Borman 2007) 的审视** | 认定为高质量集群 RCT，认可其在大规模多学区样本中的提分效果。 | 作为元分析核心证据；估算阅读总分效应量在 $+0.25$ 至 $+0.33\text{ SD}$ 之间。 | 认证该 RCT，但**指出其缺乏长期随访且种族/族裔基线等值存疑**。 | 认证该 RCT，**完全认可其基线等值性与随访期**。 | 认可该项 RCT 及后续多中心跟踪研究。 |
-> | **微观结果域穿透** | 分域极化：拼读评为 Positive；流畅度评为 Potentially Positive；阅读理解与总分评为 Mixed。 | 未按微观测验子项拆分，采用标准化学业总分进行[[Meta-analysis\|元分析]]合成。 | 项目级整体评级（聚焦整体阅读与[[Academic Achievement\|学业成就]]）。 | 项目级整体评级（要求在标准化阅读测验上达标）。 | 整体项目评级（作为军属与儿童福利推荐方案）。 |
-> | **项目变体分层** | 未对多语变体作独立分层。 | 变体分层：基础读写方案评为 Strong；西英双语过渡版 $ES=+0.16$ 降为 Modest。 | 统一纳入[[Master Protocol\|主方案]]评估。 | 聚焦基础全校模式。 | 纳入基础模式。 |
+> | **合格[[Document|文献]]池规模** | 纳入 **9 项研究** | 合成 **23 项研究** (初读综述) | 审查 16 项，**仅认证 1 项** | 纳入 **6 项研究** | 纳入 **8 项研究** |
+> | **对核心 [[Randomised Controlled Trials|RCT]] (Borman 2007) 的审视** | 认定为高质量集群 RCT，认可其在大规模多学区样本中的提分效果。 | 作为元分析核心证据；估算阅读总分效应量在 $+0.25$ 至 $+0.33\text{ SD}$ 之间。 | 认证该 RCT，但**指出其缺乏长期随访且种族/族裔基线等值存疑**。 | 认证该 RCT，**完全认可其基线等值性与随访期**。 | 认可该项 RCT 及后续多中心跟踪研究。 |
+> | **微观结果域穿透** | 分域极化：拼读评为 Positive；流畅度评为 Potentially Positive；阅读理解与总分评为 Mixed。 | 未按微观测验子项拆分，采用标准化学业总分进行[[Meta-analysis|元分析]]合成。 | 项目级整体评级（聚焦整体阅读与[[Academic Achievement|学业成就]]）。 | 项目级整体评级（要求在标准化阅读测验上达标）。 | 整体项目评级（作为军属与儿童福利推荐方案）。 |
+> | **项目变体分层** | 未对多语变体作独立分层。 | 变体分层：基础读写方案评为 Strong；西英双语过渡版 $ES=+0.16$ 降为 Modest。 | 统一纳入[[Master Protocol|主方案]]评估。 | 聚焦基础全校模式。 | 纳入基础模式。 |
 
 ---
 
@@ -147,5 +147,5 @@ updated: 2026-08-21
 > | [[Robert Slavin]] | 关键人物 | SFA 的联合创立者与学术灵魂，主导了数十项 SFA 实验评估。 |
 > | [[Best Evidence Encyclopedia]] | 评价机构 | SFA 创立团队依托 JHU 设立的清算平台，将 SFA 列为强证据标杆。 |
 > | [[Comprehensive School Reform Program]] | 联邦政策 | 1990 年代末联邦 CSR 拨款直接推动了 SFA 在全美数千所薄弱校的铺开。 |
-> | [[Educational Evidence Clearinghouses]] | 核心概念 | SFA 是检验多机构评价一致性、[[Document\|文献]]池差异与变体分层的代表案例。 |
+> | [[Educational Evidence Clearinghouses]] | 核心概念 | SFA 是检验多机构评价一致性、[[Document|文献]]池差异与变体分层的代表案例。 |
 > | [[What Works Clearinghouse]] | 评价机构 | 对 SFA 开展微观分域审查，揭示了不同技能层面的差异化反应。 |

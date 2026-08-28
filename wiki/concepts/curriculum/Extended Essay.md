@@ -162,7 +162,7 @@ updated: 2026-08-22
 >
 > | 研究 | 样本与情境 | 研究设计 | 与 EE 相关的关键结果 | 解释边界 |
 > |---|---|---|---|---|
-> | [[Argument_Metli_2022_IJER\|Metli & Akış (2022)]] | 土耳其 15 所国际文凭授权学校，[[Questionnaire\|问卷]] N=40；[[Focus Group\|焦点小组]] N=7 | [[Mixed Methods Research\|混合方法]]问卷、开放题与焦点小组 | 参与者普遍认可核心课程连贯性的价值，超过半数仍承认组件经常孤立运行；[[Theory of Knowledge\|TOK]] 至 EE 的证据审查迁移、[[Creativity, Action, Service\|CAS]] 与 EE 的问题和行动转化被识别为可行路径。 | 结果主要反映土耳其双轨课程和大学入学考试压力下的学校实施，不能直接推及所有地区。 |
+> | [[Argument_Metli_2022_IJER|Metli & Akış (2022)]] | 土耳其 15 所国际文凭授权学校，[[Questionnaire|问卷]] N=40；[[Focus Group|焦点小组]] N=7 | [[Mixed Methods Research|混合方法]]问卷、开放题与焦点小组 | 参与者普遍认可核心课程连贯性的价值，超过半数仍承认组件经常孤立运行；[[Theory of Knowledge|TOK]] 至 EE 的证据审查迁移、[[Creativity, Action, Service|CAS]] 与 EE 的问题和行动转化被识别为可行路径。 | 结果主要反映土耳其双轨课程和大学入学考试压力下的学校实施，不能直接推及所有地区。 |
 
 ---
 

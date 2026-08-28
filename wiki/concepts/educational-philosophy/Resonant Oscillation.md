@@ -98,7 +98,7 @@ updated: 2026-08-12
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **认知突破的发生[[Champ\|场域]]** | 将共振震荡视为促成深度学习和反思的必需机制 | 存在多重认识论冲突的跨学科或批判性课程（如[[International Baccalaureate\|IB]] TOK） | Cole |
+> | **认知突破的发生[[Champ|场域]]** | 将共振震荡视为促成深度学习和反思的必需机制 | 存在多重认识论冲突的跨学科或批判性课程（如[[International Baccalaureate|IB]] TOK） | Cole |
 
 ---
 

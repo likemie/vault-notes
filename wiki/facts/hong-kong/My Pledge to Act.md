@@ -133,4 +133,4 @@ updated: 2026-07-13
 > | [[Citizenship and Social Development]] | 政策/事实 | 与计划协同，分别在课内和大纲层面对青年的身份和情感实施去政治化重塑。 |
 | [[Youth Development Blueprint]] | 政策/事实 | 与计划协同，作为课外大纲，系统宣扬“探索、希望”的正向心理治理方案。 |
 | [[National Security Law]] | 政策/事实 | 提供了强力的法治和制度威慑，强制全港中小学全面配合落实感恩与快乐计划。 |
-| [[Cuban's Curriculum Change Theory]] | 理论 | 用于透视教育局如何通过强力的专项拨款与行政审查，越过[[School Autonomy\|学校自主权]]强推此项计划。 |
+| [[Cuban's Curriculum Change Theory]] | 理论 | 用于透视教育局如何通过强力的专项拨款与行政审查，越过[[School Autonomy|学校自主权]]强推此项计划。 |

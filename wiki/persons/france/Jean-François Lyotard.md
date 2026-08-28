@@ -125,7 +125,7 @@ updated: 2026-07-11
 >   - **关键概念／方法** 非人（The Inhuman）、童年思想（infantia）、时间现象学。
 >   - **阶段转向** 思想从语言政治转向对科技加速主义的宏观批评。在《非人》中，他探讨太阳在45亿年后爆炸的科幻思想实验，批判人类的“发展”沦为无目的的效率自我增殖；在《童年阅读》中，他重提“童年”作为未被成人语言/理性系统同化的本原冲动；并在绝笔《奥古斯丁的忏悔》中回归早期的时间现象学原点。
 
-著作与思想脉络来源见 [[Argument_Partaken_2022_Springer\|Partaken, 2022]] / [[Argument_Beech_2009_CE\|Beech, 2009, pp. 352–353]]
+著作与思想脉络来源见 [[Argument_Partaken_2022_Springer|Partaken, 2022]] / [[Argument_Beech_2009_CE|Beech, 2009, pp. 352–353]]
 
 ---
 
@@ -151,7 +151,7 @@ updated: 2026-07-11
 >    “我愿意把‘分歧’定义为这样一种情况：原告被剥夺了进行论证的手段，因而成为了受害者。如果发信者、收信者以及见证的意义被中和了，一切就像没有发生损害一样。两方之间的分歧发生在一个冲突的解决是以其中一方的语言进行的，而另一方所遭受的损害在那种语言中得不到表达。”
 >    *“I would like to call a differend the case where the plaintiff is divested of the means to argue and becomes for that reason a victim. (...) A case of differend between two parties takes place when the regulation of the conflict that opposes them is done in the idiom of one of the parties while the wrong suffered by the other is not signified in that idiom.”* (Lyotard, 1983/1988, p. 9)
 
-引语出处引自 [[Argument_Beech_2009_CE\|Beech, 2009, p. 352]]
+引语出处引自 [[Argument_Beech_2009_CE|Beech, 2009, p. 352]]
 
 ---
 
@@ -164,8 +164,8 @@ updated: 2026-07-11
 
 > [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Cole_2005_JRIE|Cole (2005)]] — 借用 Lyotard 对后现代“完美信息博弈”的诊断与绩效性批判，论证了在当代教育中，核心竞争力不再是信息的获取，而是能够改变规则的“想象力”，这为[[International Spinozian Curriculum|国际斯宾诺莎主义课程]]提供了时代合理性。
-> - [[Argument_Beech_2009_CE\|Beech, 2009]] — 引入 Lyotard 的绩效性原则与“要么可操作、要么消失”的预警，揭示超国家机构在[[Policy Network|全球政策网络]]中生产去历史、去语境之“[[Floating Signifier|漂浮能指]]”的生存博弈机制。
-> - [[Argument_Partaken_2022_Springer\|Partaken, 2022]] — 运用 Lyotard 的叙事知识与科学知识二分法，分析全球知识地缘政治中地方性叙事知识的急剧衰落与西方商业化效用知识的霸权。
+> - [[Argument_Beech_2009_CE|Beech, 2009]] — 引入 Lyotard 的绩效性原则与“要么可操作、要么消失”的预警，揭示超国家机构在[[Policy Network|全球政策网络]]中生产去历史、去语境之“[[Floating Signifier|漂浮能指]]”的生存博弈机制。
+> - [[Argument_Partaken_2022_Springer|Partaken, 2022]] — 运用 Lyotard 的叙事知识与科学知识二分法，分析全球知识地缘政治中地方性叙事知识的急剧衰落与西方商业化效用知识的霸权。
 
 ---
 
@@ -184,7 +184,7 @@ updated: 2026-07-11
 ## 争议与批评
 
 > [!critique]- 批评索引
-> - [[Argument_Beech_2009_CE\|Beech (2009, p. 352)]] — 警示[[Performativity|绩效性]]逻辑的全面渗透会抹杀教育的多元价值，使教育机构退化为只关注指标量化影响力的操演机器。
+> - [[Argument_Beech_2009_CE|Beech (2009, p. 352)]] — 警示[[Performativity|绩效性]]逻辑的全面渗透会抹杀教育的多元价值，使教育机构退化为只关注指标量化影响力的操演机器。
 
 ---
 
@@ -193,14 +193,14 @@ updated: 2026-07-11
 > [!entry-map]
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Feeder Mechanism]] | 概念 | 其对“完美信息博弈”与“想象力”附加绩效的论断，被用于构建后现代跨学科课程的滋养机制理论。[[Argument_Cole_2005_JRIE\|(Cole, 2005, p. 220)]] |
-> | [[Performativity]] | 概念 | 引入绩效性/表演性概念分析知识在后工业社会中以效率为核心 of 合法化逻辑，揭示评估体系的“恐怖”机制。[[Argument_Beech_2009_CE\|(Beech, 2009, pp. 352–353)]] |
-> | [[Narrative Knowledge]] | 概念 | 区分传统社会的叙事知识与依靠外部验证的科学知识，阐释科学知识本身对元叙事合法化的依赖。[[Argument_Partaken_2022_Springer\|(Partaken, 2022, pp. 71, 74)]] |
-> | [[Postmodernism]] | 概念 | 定义后现代为对启蒙、人类解放等宏大元叙事的怀疑，解释了国家同质化文化叙事在当代的式微。[[Argument_Beech_2009_CE\|(Beech, 2009, p. 354)]] / [[Argument_Partaken_2022_Springer\|(Partaken, 2022, p. 74)]] |
-> | [[Governance by Spin]] | 概念 | 绩效性竞争逻辑解释了超国家机构为何需要生产兼具稳定性与可塑性的[[Floating Signifier\|漂浮能指]]话语，进而催生了国家的舆论操控治理。[[Argument_Beech_2009_CE\|(Beech, 2009, pp. 352–353, 361)]] |
-> | [[Incommensurability]] | 概念 | 指出不同语言游戏规则之间无法用同一种元语言进行评判，任何强行通约都会制造压制受害者的“分歧”不义。[[Argument_Beech_2009_CE\|(Beech, 2009, p. 352)]] |
-> | [[Post-structuralism]] | 概念 | 以欲望释放的力比多经济学与话语碎片解构传统的宏大结构，影响了教育[[Critical Theory\|批判理论]]中对主导叙事的反抗。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|(Cohen et al., 2011, Ch. 1)]] |
-> | [[Geopolitics of Knowledge]] | 概念 | 其叙事知识的式微与科学知识的主导性博弈，被用于揭示全球化背景下软实力与可测量[[Performance Indicators\|绩效指标]]的跨国博弈。[[Argument_Partaken_2022_Springer\|(Partaken, 2022, pp. 74–75)]] |
-> | [[Academic Capitalism]] | 概念 | 绩效性竞争逻辑在高等教育制度层面的具体化，迫使学术机构将学术[[Research Translation\|研究转化]]为以效率与可见度为目标的商业性输出。[[Argument_Partaken_2022_Springer\|(Partaken, 2022, p. 71)]] |
+> | [[Feeder Mechanism]] | 概念 | 其对“完美信息博弈”与“想象力”附加绩效的论断，被用于构建后现代跨学科课程的滋养机制理论。[[Argument_Cole_2005_JRIE|(Cole, 2005, p. 220)]] |
+> | [[Performativity]] | 概念 | 引入绩效性/表演性概念分析知识在后工业社会中以效率为核心 of 合法化逻辑，揭示评估体系的“恐怖”机制。[[Argument_Beech_2009_CE|(Beech, 2009, pp. 352–353)]] |
+> | [[Narrative Knowledge]] | 概念 | 区分传统社会的叙事知识与依靠外部验证的科学知识，阐释科学知识本身对元叙事合法化的依赖。[[Argument_Partaken_2022_Springer|(Partaken, 2022, pp. 71, 74)]] |
+> | [[Postmodernism]] | 概念 | 定义后现代为对启蒙、人类解放等宏大元叙事的怀疑，解释了国家同质化文化叙事在当代的式微。[[Argument_Beech_2009_CE|(Beech, 2009, p. 354)]] / [[Argument_Partaken_2022_Springer|(Partaken, 2022, p. 74)]] |
+> | [[Governance by Spin]] | 概念 | 绩效性竞争逻辑解释了超国家机构为何需要生产兼具稳定性与可塑性的[[Floating Signifier|漂浮能指]]话语，进而催生了国家的舆论操控治理。[[Argument_Beech_2009_CE|(Beech, 2009, pp. 352–353, 361)]] |
+> | [[Incommensurability]] | 概念 | 指出不同语言游戏规则之间无法用同一种元语言进行评判，任何强行通约都会制造压制受害者的“分歧”不义。[[Argument_Beech_2009_CE|(Beech, 2009, p. 352)]] |
+> | [[Post-structuralism]] | 概念 | 以欲望释放的力比多经济学与话语碎片解构传统的宏大结构，影响了教育[[Critical Theory|批判理论]]中对主导叙事的反抗。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1)]] |
+> | [[Geopolitics of Knowledge]] | 概念 | 其叙事知识的式微与科学知识的主导性博弈，被用于揭示全球化背景下软实力与可测量[[Performance Indicators|绩效指标]]的跨国博弈。[[Argument_Partaken_2022_Springer|(Partaken, 2022, pp. 74–75)]] |
+> | [[Academic Capitalism]] | 概念 | 绩效性竞争逻辑在高等教育制度层面的具体化，迫使学术机构将学术[[Research Translation|研究转化]]为以效率与可见度为目标的商业性输出。[[Argument_Partaken_2022_Springer|(Partaken, 2022, p. 71)]] |
 > | [[Phenomenology]] | 理论 | 现象学为其早期现象学导论著作与晚期奥古斯丁时间现象学阐释提供了核心哲学框架。（根据维基百科关于生平与著作的记载） |
-> | [[PISA]] | 政策 | 其评估与排名机制在学校[[Praxis\|实践]]中强加了操演性监控，体现了 Lyotard 所揭示的“要么可操作、要么消失”的系统恐怖。 |
+> | [[PISA]] | 政策 | 其评估与排名机制在学校[[Praxis|实践]]中强加了操演性监控，体现了 Lyotard 所揭示的“要么可操作、要么消失”的系统恐怖。 |

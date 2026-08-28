@@ -72,7 +72,7 @@ Onwuegbuzie & Leech (2006b: 239–46) 将其列为[[Qualitative Validity|质性�
 > [!ref-table] 审计追踪在 Lincoln & Guba 框架中的功能
 > | 服务标准 | 机制 | 核心问题 |
 > |---|---|---|
-> | **[[Reliability\|可依赖性]]（dependability）** | 通过记录研究过程使[[External Auditor\|外部审计者]]能判断程序是否可接受 | 研究是否以一致和系统的方式进行？ |
+> | **[[Reliability|可依赖性]]（dependability）** | 通过记录研究过程使[[External Auditor|外部审计者]]能判断程序是否可接受 | 研究是否以一致和系统的方式进行？ |
 > | **可确认性（confirmability）** | 通过展示数据→分析→结论的链条确保发现源于数据而非研究者偏见 | 研究发现是否能追溯到数据本身？ |
 
 审计追踪使研究能解决结果的**可确认性**问题——在过程和产品两个方面（Golafshani, 2003, p. 601）。在可依赖性框架中，它还与[[Member Checking|成员核查]]、同伴汇报、[[Triangulation|三角验证]]、长期田野参与、反思日志、[[Negative Case Analysis|负面案例分析]]和独立审计并列（Lincoln & Guba, 1985, pp. 108–9; Anfara et al., 2002）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, p. 206)]]

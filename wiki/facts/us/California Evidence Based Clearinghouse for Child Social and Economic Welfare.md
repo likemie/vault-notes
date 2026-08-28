@@ -100,10 +100,10 @@ updated: 2026-08-21
 > | 科学评级等级 | 核心准入条件与随访要求 |
 > |:---|:---|
 > | **Level 1: Well-Supported（强力支持·最高级）** | **至少 2 项非重叠样本的高质量 RCT**；在核心使命领域展示统计显著正效应；<br>🔴 **强制要求** 至少 1 项 RCT 证明干预结束后 **12 个月以上仍维持积极持续效果**；<br>🔴 **零医源性伤害** 无任何有害或法理存疑的负面效应。 |
-> | **Level 2: Supported（得到支持·次高级）** | 至少 1 项高质量 [[Randomised Controlled Trials\|RCT]]，干预结束后随访期要求缩短至 **6 个月** 仍维持持续效果。 |
-> | **Level 3: Promising（有前景[[Praxis\|实践]]）** | 至少 1 项建立在已确立理论基础上的高质量 [[Quasi-Experimental Designs\|QED]]，干预刚结束即测呈现正效应（无长期随访要求）。 |
-> | **Level 4 & 5: Evidence Fails / Concerning Practice** | 未能证实效果，或存在确凿的[[Iatrogenic Effects in Education\|医源性伤害]]风险。 |
-> | **NR: Not Ratable** | 缺乏同行评审[[Document\|文献]]支持，不予评级。 |
+> | **Level 2: Supported（得到支持·次高级）** | 至少 1 项高质量 [[Randomised Controlled Trials|RCT]]，干预结束后随访期要求缩短至 **6 个月** 仍维持持续效果。 |
+> | **Level 3: Promising（有前景[[Praxis|实践]]）** | 至少 1 项建立在已确立理论基础上的高质量 [[Quasi-Experimental Designs|QED]]，干预刚结束即测呈现正效应（无长期随访要求）。 |
+> | **Level 4 & 5: Evidence Fails / Concerning Practice** | 未能证实效果，或存在确凿的[[Iatrogenic Effects in Education|医源性伤害]]风险。 |
+> | **NR: Not Ratable** | 缺乏同行评审[[Document|文献]]支持，不予评级。 |
 
 ---
 

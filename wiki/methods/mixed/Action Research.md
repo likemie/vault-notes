@@ -216,9 +216,9 @@ updated: 2026-08-23
 > | 维度 | 技术性（Technical） | 实践性（Practical） | 解放性（Emancipatory） |
 > |---|---|---|---|
 > | **核心目标** | 使现有情境更有效率 | 促进教师专业性，借助其知情判断 | 发展参与者对约束的理解，从约束走向自由和社会正义 |
-> | **理论对应** | 单环学习（Argyris）; 行动中反思（Schön） | 行动后反思（Schön）; 诠释学活动 | 解放兴趣（[[Jürgen Habermas\|Habermas]]）; 双环学习（Argyris） |
+> | **理论对应** | 单环学习（Argyris）; 行动中反思（Schön） | 行动后反思（Schön）; 诠释学活动 | 解放兴趣（[[Jürgen Habermas|Habermas]]）; 双环学习（Argyris） |
 > | **教师角色** | 技术执行者 | 反思性专业者 | 批判性变革者 |
-> | **议程来源** | 外部设定（效率导向） | 教师[[Professional Judgment\|专业判断]]驱动 | 参与者自主识别权力约束 |
+> | **议程来源** | 外部设定（效率导向） | 教师[[Professional Judgment|专业判断]]驱动 | 参与者自主识别权力约束 |
 
 > [!info] 三种类型的详细说明
 > 技术性行动研究旨在使现有情境更有效率（Grundy, 1987, p. 154），但 Elliott（1991, p. 55）认为过于个体化，将教师孤立于更广泛因素之外。实践性行动研究支撑[[Teacher-as-Researcher|教师即研究者]]运动（Stenhouse, 1975），Kincheloe（2003, p. 42）主张其拒绝[[Positivism|实证主义]]的理性和客观性观念。[[Emancipatory Action Research|解放性行动研究]]具有明确的政治议程（Grundy, 1987, pp. 146–147），但受到多重批评：乌托邦性、过于控制性、削弱个体教师即研究者、三分类型化站不住脚、低估权力问题、高估共识导向、非批判和自相矛盾等。
@@ -364,7 +364,7 @@ updated: 2026-08-23
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Critical Theory]] | 理论 | 解放性行动研究的[[Epistemology\|认识论]]基础，提供知识构成性兴趣和[[Ideal Speech Situation\|理想言说情境]]的理论框架 |
+> | [[Critical Theory]] | 理论 | 解放性行动研究的[[Epistemology|认识论]]基础，提供知识构成性兴趣和[[Ideal Speech Situation|理想言说情境]]的理论框架 |
 > | [[Participatory Action Research]] | 子方法 | 行动研究的政治化分支，以赋权和解放为核心议程 |
 > | [[Nominal Group Technique]] | 工具 | 结构化群体议题聚焦和共识建立方法 |
 > | [[Delphi Technique]] | 工具 | NGT 的书面对应版本，适合多轮迭代和匿名保护 |

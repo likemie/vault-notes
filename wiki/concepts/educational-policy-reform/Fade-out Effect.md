@@ -89,11 +89,11 @@ updated: 2026-08-22
 > [!contrast-table] 清算中心对干预后随访期（Sustained Effects）的审查规则（基于 Wadhwa et al., 2024）
 > | 清算中心 | 强制随访期门槛 | 门槛未达标处理结果 | 典型案例影响 |
 > |:---|:---|:---|:---|
-> | **[[Blueprints for Healthy Youth Development\|Blueprints]]** | **干预彻底结束后 $\ge 12$ 个月** | 即使即时[[Pre-test and Post-test\|后测]][[Effect Size\|效应量]]巨大，直接剥夺顶级认证资格（最多降为 Promising 或不予认证）。 | 淘汰了 90% 以上仅有即时后测的商业教育方案。 |
-> | **[[California Evidence Based Clearinghouse for Child Social and Economic Welfare\|CEBC]]** | 干预彻底结束后 $\ge 12$ 个月 (Well-Supported) / $\ge 6$ 个月 (Supported) | 随访期不足 12 个月者不得评为最高级 Well-Supported。 | 严格甄选具备长期亲子与行为改善的福利方案。 |
-> | **[[Clearinghouse for Military Family Readiness Continuum of Evidence\|CMFR]]** | **干预彻底结束后 $\ge 6$ 个月** | **刚性一票否决**，缺乏 6 个月随访数据直接判定为 Insufficient Evidence。 | 导致 [[Peer-Assisted Learning Strategies\|PALS]] 与 [[Communities in Schools\|CIS]] 双双被判定为不推荐。 |
-> | **[[What Works Clearinghouse\|WWC]]** | **未设强制随访期门槛** (干预结束即测即可) | 允许仅依据干预结束时的即时测验授予 Positive / [[Top Institute for Evidence-Based Education Research\|TIER]] 1 推荐。 | 大量即时显著但随访衰减的项目顺利通过审查。 |
-> | **[[National Dropout Prevention Center\|NDPC]]** | **未设强制随访期门槛** | 仅要求项目在学校现场实际运行 3 年，不考察受试者脱离干预后的追踪数据。 | 全面包容一线正在运行的各种短期支持项目。 |
+> | **[[Blueprints for Healthy Youth Development|Blueprints]]** | **干预彻底结束后 $\ge 12$ 个月** | 即使即时[[Pre-test and Post-test|后测]][[Effect Size|效应量]]巨大，直接剥夺顶级认证资格（最多降为 Promising 或不予认证）。 | 淘汰了 90% 以上仅有即时后测的商业教育方案。 |
+> | **[[California Evidence Based Clearinghouse for Child Social and Economic Welfare|CEBC]]** | 干预彻底结束后 $\ge 12$ 个月 (Well-Supported) / $\ge 6$ 个月 (Supported) | 随访期不足 12 个月者不得评为最高级 Well-Supported。 | 严格甄选具备长期亲子与行为改善的福利方案。 |
+> | **[[Clearinghouse for Military Family Readiness Continuum of Evidence|CMFR]]** | **干预彻底结束后 $\ge 6$ 个月** | **刚性一票否决**，缺乏 6 个月随访数据直接判定为 Insufficient Evidence。 | 导致 [[Peer-Assisted Learning Strategies|PALS]] 与 [[Communities in Schools|CIS]] 双双被判定为不推荐。 |
+> | **[[What Works Clearinghouse|WWC]]** | **未设强制随访期门槛** (干预结束即测即可) | 允许仅依据干预结束时的即时测验授予 Positive / [[Top Institute for Evidence-Based Education Research|TIER]] 1 推荐。 | 大量即时显著但随访衰减的项目顺利通过审查。 |
+> | **[[National Dropout Prevention Center|NDPC]]** | **未设强制随访期门槛** | 仅要求项目在学校现场实际运行 3 年，不考察受试者脱离干预后的追踪数据。 | 全面包容一线正在运行的各种短期支持项目。 |
 
 ---
 
@@ -102,9 +102,9 @@ updated: 2026-08-22
 > [!framework-table] 维持干预长效性的三大生态支柱
 > | 维持支柱 | 核心干预策略 | 实践机制 |
 > |:---|:---|:---|
-> | **关键基础构件锚定 (Trifles vs [[Gatekeepers\|gatekeeper]] Skills)** | 优先聚焦培养具有**衍生杠杆效应的门禁技能（Gatekeeper Skills）**（如深度阅读理解、数理抽象推理），而非容易被自发追赶的机械记忆技能（如死记单词）。 | 门禁技能一旦突破，能激发自主自我强化机制（Self-reinforcing Multipliers）。 |
+> | **关键基础构件锚定 (Trifles vs [[Gatekeepers|gatekeeper]] Skills)** | 优先聚焦培养具有**衍生杠杆效应的门禁技能（Gatekeeper Skills）**（如深度阅读理解、数理抽象推理），而非容易被自发追赶的机械记忆技能（如死记单词）。 | 门禁技能一旦突破，能激发自主自我强化机制（Self-reinforcing Multipliers）。 |
 > | **承接性环境建设 (Sustaining Environments)** | 在早期干预结束后，与后续高年级教师对接，建立贯通式阶梯教学架构，防止支持断层。 | 为从干预中获益的学生提供持续适配的挑战性学习环境。 |
-> | **重塑社会情感与家庭系统 (Systemic Footprints)** | 改变家长的[[Bildung\|教养]]方式、提升学生的[[Self-Efficacy\|自我效能感]]与学业抱负。 | 即使特定知识技能遗忘，内化的心理素养仍能提供长期抗逆力。 |
+> | **重塑社会情感与家庭系统 (Systemic Footprints)** | 改变家长的[[Bildung|教养]]方式、提升学生的[[Self-Efficacy|自我效能感]]与学业抱负。 | 即使特定知识技能遗忘，内化的心理素养仍能提供长期抗逆力。 |
 
 ---
 
@@ -129,5 +129,5 @@ updated: 2026-08-22
 > | [[Educational Evidence Clearinghouses]] | 评价体系 | 随访期要求的长短是导致各清算中心评级结论大面积冲突的根源。 |
 > | [[Effect Size]] | 统计指标 | 效应衰退直接表现为随访期标准化效应量（Cohen's d / Hedges' g）的持续收缩。 |
 > | [[Blueprints for Healthy Youth Development]] | 评价机构 | 确立了 12 个月干预后持续效果作为顶级认证的刚性红线。 |
-> | [[What Works Clearinghouse]] | 评价机构 | 聚焦即时[[Pre-test and Post-test\|后测]]效应，代表了与 Blueprints 截然不同的随访审查哲学。 |
+> | [[What Works Clearinghouse]] | 评价机构 | 聚焦即时[[Pre-test and Post-test|后测]]效应，代表了与 Blueprints 截然不同的随访审查哲学。 |
 > | [[Hawthorne Effect]] | 关联偏误 | 新奇效应的消退是解释干预后即时收益迅速衰退的重要微观机制。 |

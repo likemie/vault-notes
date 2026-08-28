@@ -68,10 +68,10 @@ updated: 2026-08-25
 ## 概念辨析
 
 > [!contrast-table] 元表征能力 vs 表征识读技能 vs 一般[[Metacognition|元认知]]
-> | 比较维度 | 元表征能力（MRC） | 表征识读技能（Representational Literacy） | 一般元认知（General [[Metacognition\|Metacognition]]） |
+> | 比较维度 | 元表征能力（MRC） | 表征识读技能（Representational Literacy） | 一般元认知（General [[Metacognition|Metacognition]]） |
 > |---|---|---|---|
 > | **认知客体** | 外部表征系统本身（图式、图表、符号网络） | 特定图表或文本的既定内容信息 | 自身的记忆、注意力与思维监控过程 |
-> | **核心操作** | 发明新图示、评估表征优劣、跨模态[[Transfer Translation Transformation\|转译]] | 照章读图、提取图表中的具体数值与标签 | 计划任务进度、检查计算错误、调控做题速度 |
+> | **核心操作** | 发明新图示、评估表征优劣、跨模态[[Transfer Translation Transformation|转译]] | 照章读图、提取图表中的具体数值与标签 | 计划任务进度、检查计算错误、调控做题速度 |
 > | **发展转折点** | 形式运算期与中等教育阶段迅速成熟 | 具体运算期（小学中高年级）初步掌握 | 贯穿终身，随反思训练持续增强 |
 
 ---
@@ -114,9 +114,9 @@ flowchart TD
 > [!ma-table]- 一阶[[Meta-analysis|元分析]]相关结果
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 对应调节[[Variable\|变量]] | 亚组与效应量 $g$ | 组间检验 $Q_b$ / $W$ | 理论机制解释 |
+> | 一阶元分析 | 对应调节[[Variable|变量]] | 亚组与效应量 $g$ | 组间检验 $Q_b$ / $W$ | 理论机制解释 |
 > |---|---|---|---|---|
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 学习者学段对[[Higher-Order Thinking Skills\|高阶思维]]的调节 | 中学生（$g = 1.113$） vs 小学（$g = 0.877$） vs 大学（$g = 0.659$） | $Q_b = 6.61, p < .05$；两两成对 Wald 检验均极显著 | 中学生元表征能力成熟且正处于形式运算爆发期，促学效应达到峰值 |
+> | [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] | 学习者学段对[[Higher-Order Thinking Skills|高阶思维]]的调节 | 中学生（$g = 1.113$） vs 小学（$g = 0.877$） vs 大学（$g = 0.659$） | $Q_b = 6.61, p < .05$；两两成对 Wald 检验均极显著 | 中学生元表征能力成熟且正处于形式运算爆发期，促学效应达到峰值 |
 
 ---
 

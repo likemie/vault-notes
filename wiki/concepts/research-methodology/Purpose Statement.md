@@ -123,11 +123,11 @@ updated: 2026-07-13
 > | 要素 | 在陈述中的体现 |
 > |---|---|
 > | 信号词 | 未显式使用"purpose"，但"考察"（examined）、"探索"（explore）传达了研究意图 |
-> | 单一[[Central Phenomenon\|核心现象]] | 族裔认同（ethnic identity）——学校与家庭叙事的交织如何塑造认同 |
+> | 单一[[Central Phenomenon|核心现象]] | 族裔认同（ethnic identity）——学校与家庭叙事的交织如何塑造认同 |
 > | 行动动词 | 考察（examined）、探索（explore）——均为开放、探索性动词 |
 > | 参与者 | 一位中国移民学生 Ai Mei Zhang（单一个案） |
 > | 研究场所 | 加拿大中学课程环境 + 学校与家庭的双重情境 |
-> | 质性路径 | 叙事研究（narrative inquiry）——长期的、学校本位的叙事探究，含大量课堂观察、[[Document\|文件]]审阅、与关键参与者的对话和田野笔记 |
+> | 质性路径 | 叙事研究（narrative inquiry）——长期的、学校本位的叙事探究，含大量课堂观察、[[Document|文件]]审阅、与关键参与者的对话和田野笔记 |
 > | 非方向性语言 | 全文未使用 successful、positive 等方向性词语；聚焦于认同"如何被塑造"而非"是否成功塑造" |
 
 >
@@ -169,10 +169,10 @@ updated: 2026-07-13
 > | 要素 | 在陈述中的体现 |
 > |---|---|
 > | 信号词 | "The purpose of this study was to..."——显式引入，且单独成节（"Statement of the Problem"） |
-> | 量化路径 | [[Survey Research\|调查研究]]（survey），使用 EWCS 问卷收集数据 |
+> | 量化路径 | [[Survey Research|调查研究]]（survey），使用 EWCS 问卷收集数据 |
 > | 理论/模型 | 未在目的陈述中显式命名（该陈述的一个不足），但通过变量关系隐含了理论框架 |
-> | [[Variable\|自变量]]（独立变量） | 个人特征（personal characteristics）——分为背景信息（机构信息、教育水平、先前培训等）和对更换工作的想法两类 |
-> | [[Variable\|因变量]] | 工作动机（job motivation）——由 EWCS 问卷的六个因素定义 |
+> | [[Variable|自变量]]（独立变量） | 个人特征（personal characteristics）——分为背景信息（机构信息、教育水平、先前培训等）和对更换工作的想法两类 |
+> | [[Variable|因变量]] | 工作动机（job motivation）——由 EWCS 问卷的六个因素定义 |
 > | 连接词 | "relationship"——明确标示变量间的关系性质 |
 > | 变量顺序 | 个人特征（自变量）→ 工作动机（因变量），从左到右排列 |
 > | 参与者与分析单元 | 在美国选定州立成人矫正机构中任教的认证教育者 |
@@ -194,9 +194,9 @@ updated: 2026-07-13
 
 | 设计类型 | 整合洞见 |
 |---|---|
-| [[Convergent Design\|聚敛式设计]] | 通过比较两类数据库来更全面地理解[[Research Problem\|研究问题]] |
-| [[Explanatory Sequential Design\|解释性序列设计]] | 用质性后续数据进一步解释量化结果 |
-| [[Exploratory Sequential Design\|探索性序列设计]] | 先质性探索再开发或改进量化测量工具 |
+| [[Convergent Design|聚敛式设计]] | 通过比较两类数据库来更全面地理解[[Research Problem|研究问题]] |
+| [[Explanatory Sequential Design|解释性序列设计]] | 用质性后续数据进一步解释量化结果 |
+| [[Exploratory Sequential Design|探索性序列设计]] | 先质性探索再开发或改进量化测量工具 |
 | 复杂设计 | 将质性、量化或两者数据嵌入框架或过程以丰富该框架 |
 
 三种核心设计——聚敛式、解释性序列和探索性序列——各自对应不同的整合洞见和写作脚本。各设计的完整脚本、范例和要素拆解分别见对应条目：

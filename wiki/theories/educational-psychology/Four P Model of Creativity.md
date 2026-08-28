@@ -90,12 +90,12 @@ updated: 2026-08-26
 
 > [!entry-map]
 >
-> | 核心构件（4P） | 构件类型 | 心理测量与[[Operationalization\|操作化]]指向 | 在理论中的核心功能与实证机制（[[Meta-meta-analysis\|二阶元分析]]基准） |
+> | 核心构件（4P） | 构件类型 | 心理测量与[[Operationalization|操作化]]指向 | 在理论中的核心功能与实证机制（[[Meta-meta-analysis|二阶元分析]]基准） |
 > |:---|:---|:---|:---|
-> | **人<br>（Person）** | 心理与主体构件 | 大五人格特质（经验开放性）、[[Threshold Hypothesis\|智力门槛]]、[[Self-Efficacy\|自我效能感]]、内在动机、人口学背景 | 承载创造潜能（Creative Potential）的主体核心；二阶元分析表明外认知特质（$r = 0.14$）与基础认知（$r = 0.12$）同为内部支柱，人口背景不构成发展门槛（$r = 0.07$）[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, pp. 6–8)]]。 |
-> | **过程<br>（Process）** | 认知加工构件 | [[Problem Finding\|问题发现]]、[[Divergent Thinking\|发散思维]]、远距离联想、观念评估、酝酿与顿悟 | 观念生成与概念重组的信息加工动态网络；涵盖多维认知的完整创造过程呈现出高达 **$r = 0.27$** 的关联，显著超越单一发散思维测验（$r = 0.14$）[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, p. 7)]]。 |
-> | **产品<br>（Product）** | 物化与效标构件 | 同感评估（[[Consensual Assessment Technique\|CAT]]）、专利、学术出版物、设计原型、自陈成就问卷（CAQ） | 创造力的显性物化载体，接受外部社会与领域的效度检验；因跨领域测量工具分散而受[[Criterion Problem\|效标问题]]制约，实证关联系数适中（$r = 0.12$）[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, pp. 7–8)]]。 |
-> | **压力/环境<br>（Press）** | 外部生态构件 | [[Creativity Training\|教育教学干预]]、[[Structured Teaching\|结构化教学]]、组织创新气候、即时评价威胁、显式指导语 | 外部物理、社会与文化环境的推拉场域；其中专门的教育教学干预产生全领域最强的正向关联（**$r = 0.20$**），即时情境呈现中等关联（$r = 0.15$）[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, p. 8)]]。 |
+> | **人<br>（Person）** | 心理与主体构件 | 大五人格特质（经验开放性）、[[Threshold Hypothesis|智力门槛]]、[[Self-Efficacy|自我效能感]]、内在动机、人口学背景 | 承载创造潜能（Creative Potential）的主体核心；二阶元分析表明外认知特质（$r = 0.14$）与基础认知（$r = 0.12$）同为内部支柱，人口背景不构成发展门槛（$r = 0.07$）[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 6–8)]]。 |
+> | **过程<br>（Process）** | 认知加工构件 | [[Problem Finding|问题发现]]、[[Divergent Thinking|发散思维]]、远距离联想、观念评估、酝酿与顿悟 | 观念生成与概念重组的信息加工动态网络；涵盖多维认知的完整创造过程呈现出高达 **$r = 0.27$** 的关联，显著超越单一发散思维测验（$r = 0.14$）[[Argument_Runco_2026_CRJ|(Runco et al., 2026, p. 7)]]。 |
+> | **产品<br>（Product）** | 物化与效标构件 | 同感评估（[[Consensual Assessment Technique|CAT]]）、专利、学术出版物、设计原型、自陈成就问卷（CAQ） | 创造力的显性物化载体，接受外部社会与领域的效度检验；因跨领域测量工具分散而受[[Criterion Problem|效标问题]]制约，实证关联系数适中（$r = 0.12$）[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 7–8)]]。 |
+> | **压力/环境<br>（Press）** | 外部生态构件 | [[Creativity Training|教育教学干预]]、[[Structured Teaching|结构化教学]]、组织创新气候、即时评价威胁、显式指导语 | 外部物理、社会与文化环境的推拉场域；其中专门的教育教学干预产生全领域最强的正向关联（**$r = 0.20$**），即时情境呈现中等关联（$r = 0.15$）[[Argument_Runco_2026_CRJ|(Runco et al., 2026, p. 8)]]。 |
 
 ---
 

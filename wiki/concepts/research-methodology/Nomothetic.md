@@ -51,12 +51,12 @@ updated: 2026-08-16
 ## 概念辨析
 
 > [!contrast-table] 通则式 vs [[Idiographic|个例式]]
-> | 维度 | 通则式（nomothetic） | [[Idiographic\|个例式]]（idiographic） |
+> | 维度 | 通则式（nomothetic） | [[Idiographic|个例式]]（idiographic） |
 > |---|---|---|
 > | 目标 | 发现普遍法则 | 理解独特个体案例 |
 > | 方法 | 以量化为主，抽象现实 | 兼顾量化与质性，重语言与意义 |
 > | 分析单位 | 因素及其关系、规律性 | 个体、事件、情境与意图 |
-> | 方法论传统 | [[Positivism\|实证主义]] | [[Interpretive Paradigm\|诠释范式]] |
+> | 方法论传统 | [[Positivism|实证主义]] | [[Interpretive Paradigm|诠释范式]] |
 
 > [!boundary]- 概念边界
 > - 不等于与质性的简单对立 — 通则式偏向量化，但并非所有[[Quantitative Research|量化研究]]都追求普遍法则；两者是方法论的连续体而非截然二分。
@@ -79,5 +79,5 @@ updated: 2026-08-16
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011, Ch. 1)]] — 将通则式置于 Burrell & Morgan 四组[[Hypothesis|假设]]推导链的终点，与[[Idiographic\|个例式]]相对。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011, Ch. 1)]] — 将通则式置于 Burrell & Morgan 四组[[Hypothesis|假设]]推导链的终点，与[[Idiographic|个例式]]相对。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|Cohen et al. (2011, Ch. 28)]] — 说明质性数据可分析其通则式属性（模式、主题、趋势、共性、概括、相似性、行为规律），以 Miles & Huberman（1994）为代表。

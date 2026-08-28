@@ -79,11 +79,11 @@ updated: '2026-07-24'
 ## 概念辨析
 
 > [!contrast-table] 概念辨析
-> | 维度 | [[Pragmatism in China\|实用主义在中国]] | [[Pragmatic Paradigm\|实用主义范式]] | [[Recontextualization\|再脉络化]] | [[Knowledge Transfer\|知识转移]] |
+> | 维度 | [[Pragmatism in China|实用主义在中国]] | [[Pragmatic Paradigm|实用主义范式]] | [[Recontextualization|再脉络化]] | [[Knowledge Transfer|知识转移]] |
 > |------|---------------------------------------|------------------------------------|---------------------------------|-------------------------------|
-> | **分析对象** | [[John Dewey\|杜威]]思想在华传播与政治变迁史 | [[Mixed Methods Research\|混合方法研究]]的哲学与方法论基础 | 思想脱离原语境进入新语境的机制 | 知识跨越国界与社会边界的移动 |
-> | **核心机制** | 译名压印、3T 拆解与[[Revoicing\|话语重构]] | 研究问题驱动与[[Fitness for Purpose\|适合目的]] | 语义剥离、功能筛选与制度重[[Coding in Qualitative Research\|编码]] | 接入、[[Transfer Translation Transformation\|转译]]与[[Going Native\|本土化]] |
-> | **主要领域** | 比较教育史、中国教育思想史 | 混合方法研究、教育研究方法 | 比较教育学、知识社会学 | 比较教育学、[[International Education\|国际教育]]政策 |
+> | **分析对象** | [[John Dewey|杜威]]思想在华传播与政治变迁史 | [[Mixed Methods Research|混合方法研究]]的哲学与方法论基础 | 思想脱离原语境进入新语境的机制 | 知识跨越国界与社会边界的移动 |
+> | **核心机制** | 译名压印、3T 拆解与[[Revoicing|话语重构]] | 研究问题驱动与[[Fitness for Purpose|适合目的]] | 语义剥离、功能筛选与制度重[[Coding in Qualitative Research|编码]] | 接入、[[Transfer Translation Transformation|转译]]与[[Going Native|本土化]] |
+> | **主要领域** | 比较教育史、中国教育思想史 | 混合方法研究、教育研究方法 | 比较教育学、知识社会学 | 比较教育学、[[International Education|国际教育]]政策 |
 
 ---
 
@@ -151,9 +151,9 @@ updated: '2026-07-24'
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **语义压印与方法极端化** | 探讨“经世致用”传统与译名对 Pragmatism 的工具化压缩 | 思想史与译介学 | [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009, pp.71–72)]]; [[Hu Shi\|胡适]] |
-> | **3T 拆解与范式转向** | 揭示民国时期民主目标与渐进方法的分离及向科学态度的转向 | 比较教育与跨国[[Knowledge Transfer\|知识转移]] | [[Argument_Zhou_2024_CE\|Zhou & Westberg (2024)]]; [[Argument_Cowen_2009_CE\|Cowen (2009)]] |
-> | **建国后三重政治变形** | 追踪建国后实用主义从批判靶点向素质教育盟友的演变 | 政治话语与教育政策 | [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009, pp.79–93)]] |
+> | **语义压印与方法极端化** | 探讨“经世致用”传统与译名对 Pragmatism 的工具化压缩 | 思想史与译介学 | [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009, pp.71–72)]]; [[Hu Shi|胡适]] |
+> | **3T 拆解与范式转向** | 揭示民国时期民主目标与渐进方法的分离及向科学态度的转向 | 比较教育与跨国[[Knowledge Transfer|知识转移]] | [[Argument_Zhou_2024_CE|Zhou & Westberg (2024)]]; [[Argument_Cowen_2009_CE|Cowen (2009)]] |
+> | **建国后三重政治变形** | 追踪建国后实用主义从批判靶点向素质教育盟友的演变 | 政治话语与教育政策 | [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009, pp.79–93)]] |
 
 ---
 

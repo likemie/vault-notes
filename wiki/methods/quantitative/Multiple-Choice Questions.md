@@ -12,9 +12,9 @@ summary: "教育测量与心理测验中最经典的客观量化题型，由题�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 15
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 3
+method_related_level: 0
+method_related_stars: "☆"
 method_related_color: "#dcfce7"
 tags:
   - method/quantitative
@@ -26,24 +26,12 @@ tags:
   - level/higher-education
 related_concepts:
   - "[[Construct Validity]]"
-  - "[[Construct Validity]]"
-  - "[[Assessment Backwash]]"
-  - "[[Critical Thinking]]"
-  - "[[Creativity]]"
-  - "[[Higher-Order Thinking Skills]]"
   - "[[Constructive Alignment]]"
-  - "[[Surface and Deep Learning]]"
-  - "[[Authentic Assessment]]"
 related_theories: []
 related_methods: []
-related_instruments:
-  - "[[Critical Thinking Assessment Test]]"
-  - "[[ETS Proficiency Profile]]"
-  - "[[Thinking Skills Assessment]]"
-  - "[[California Critical Thinking Skills Test]]"
+related_instruments: []
 related_persons: []
-related_facts:
-  - "[[Educational Testing Service]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
 confidence: high
@@ -109,7 +97,7 @@ updated: 2026-08-28
 >
 > | 研究文献 | 考察对象与样本 | 研究设计 | 核心发现与统计结论 | 测量学解释边界 |
 > |---|---|---|---|---|
-> | Frederiksen (1984); Lane (2004)，引自 [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023, pp. 24–25)]] | 高等教育与中等教育大规模测验数据 | 题型因子分析与认知过程追踪 | 证实选择反应题与建构反应题在认知加工上加载于不同潜在特质因子，选择题无法有效预测开放情境下的问题解决生成力 | 确立了再认与生成在心理测量学上的质性差异 |
-> | Shavelson, Baxter & Pine (1991); Linn, Baker & Dunbar (1991)，引自 [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023, p. 24)]] | 科学探究与高阶思维表现测验 | 概化理论（Generalizability Theory）方差分量分析 | 表现性任务跨任务情境变异大导致任务信度受限，而多项选择题虽具备高评分信度，但以牺牲任务的生态效度为代价 | 揭示了信度（选择题优势）与效度（表现任务优势）之间的经典测量学张力 |
+> | Frederiksen (1984); Lane (2004)，引自 [[Argument_Bouckaert_2023_OECD|Bouckaert (2023, pp. 24–25)]] | 高等教育与中等教育大规模测验数据 | 题型因子分析与认知过程追踪 | 证实选择反应题与建构反应题在认知加工上加载于不同潜在特质因子，选择题无法有效预测开放情境下的问题解决生成力 | 确立了再认与生成在心理测量学上的质性差异 |
+> | Shavelson, Baxter & Pine (1991); Linn, Baker & Dunbar (1991)，引自 [[Argument_Bouckaert_2023_OECD|Bouckaert (2023, p. 24)]] | 科学探究与高阶思维表现测验 | 概化理论（Generalizability Theory）方差分量分析 | 表现性任务跨任务情境变异大导致任务信度受限，而多项选择题虽具备高评分信度，但以牺牲任务的生态效度为代价 | 揭示了信度（选择题优势）与效度（表现任务优势）之间的经典测量学张力 |
 
 ---

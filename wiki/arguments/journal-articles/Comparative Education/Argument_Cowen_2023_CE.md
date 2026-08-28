@@ -121,11 +121,11 @@ citation_aliases:
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **[[Educated Identity\|受教育身份]]** | 核心概念。Lauwerys (1965) 最早将其作为学术理解的文化理想模型（如分析英、美、法、苏等国理想的培养目标）。Cowen 将其提炼为一个兼具伦理、政治和学术维度的核心拷问。它之所以是学科重建的道德与智识支点，是因为它直白地要求我们去见证、拷问并记录：我们在这个世界上以教育和改革之名对孩子们实施了怎样的系统行为，将冷冰冰的效率指标与国家机器测试拉回到对生命伦理的关切底线，作为见证教育实际人道后果的学术手段。(p.333, p.336) |
-> | **[[Readings of the Global\|全球解读]] (Readings of the Global)** | 分析维度。指比较教育在特定历史分期中所选择阅读的全球政治与经济大叙事体系。它定性了学科理解世界的风格，不仅直接框定了考察的议程，也是分析的时间轴。它展示了比较教育从来不是真空中发展的中立学科，而是地缘政治秩序的晴雨表。例如在 19 世纪借用普鲁士模式以发明国民小学，在冷战时期通过[[International Education\|国际教育]]成就评价协会（International Association for the Evaluation of Educational Achievement，IEA）的国际测试为自由民主阵营展开教育效能的“军备竞赛”，以及当代全球化大叙事对学科议程与学界研究的限制，用以解构其表面中立但随地缘政治起舞的共谋本质。(pp.330–331) |
-> | **[[Deductive Rationality\|演绎理性]] (Deductive Rationality)** | 批判工具。指当代大学管理主义中自上而下的行政命令与绩效话语体系。Cowen 提出这一批判工具，用以横向解构当代大学管理主义的行政绩效枷锁（如强行要求博士论文附带影响声明、或盲目追求世界一流大学指标），揭示并批判大学系统如何用一套指令式理性垄断合法知识的定义，把学术性思考异化成功绩机器上的螺丝钉，进而无情摧毁了学术的原创性与[[Critical Theory\|批判理论]]空间。(p.332) |
-> | **[[Totally Pedagogised Society\|全盘教育化社会]]** | 前瞻框架。基于 Bernstein (2001) 的社会学思想，指教育关系弥散至传统学校围墙之外、嵌入社会每个角落的趋势。在本文中它作为前瞻框架，用以引导学者超越 19 世纪遗传至今的学校系统边界，去预见和洞察未来由 AI 教学与监控资本主义主导的、无处不在的社会控制网络，为 21 世纪后期的教育变迁提供前瞻性的解释力。(p.336) |
-> | **[[Heroic, Strange, and Barbaric\|英雄、陌生与野蛮]] (Heroic, Strange, and Barbaric)** | 震荡工具。包含三个极具情感和道德张力的批判形容词。Cowen 提出要直接将“英雄的”、“陌生的”与“野蛮的”这类带有强烈道德和审美色彩的形容词，直接运用于学校系统和教育政策的分析。这种词汇的使用能够产生情感与智识上的震荡（shock），强力撕开学科日常的精致伪装，逼迫学者直面教育背后的国家暴力、极端政治或伦理悲剧。例如，直接指明某些压制儿童天性的教育模式是“野蛮的”，或者在战争与动荡中坚持教学的[[Conatus\|努力]]是“英雄的”，以此打破学术界精致中立的专业相对主义滤镜。 |
+> | **[[Educated Identity|受教育身份]]** | 核心概念。Lauwerys (1965) 最早将其作为学术理解的文化理想模型（如分析英、美、法、苏等国理想的培养目标）。Cowen 将其提炼为一个兼具伦理、政治和学术维度的核心拷问。它之所以是学科重建的道德与智识支点，是因为它直白地要求我们去见证、拷问并记录：我们在这个世界上以教育和改革之名对孩子们实施了怎样的系统行为，将冷冰冰的效率指标与国家机器测试拉回到对生命伦理的关切底线，作为见证教育实际人道后果的学术手段。(p.333, p.336) |
+> | **[[Readings of the Global|全球解读]] (Readings of the Global)** | 分析维度。指比较教育在特定历史分期中所选择阅读的全球政治与经济大叙事体系。它定性了学科理解世界的风格，不仅直接框定了考察的议程，也是分析的时间轴。它展示了比较教育从来不是真空中发展的中立学科，而是地缘政治秩序的晴雨表。例如在 19 世纪借用普鲁士模式以发明国民小学，在冷战时期通过[[International Education|国际教育]]成就评价协会（International Association for the Evaluation of Educational Achievement，IEA）的国际测试为自由民主阵营展开教育效能的“军备竞赛”，以及当代全球化大叙事对学科议程与学界研究的限制，用以解构其表面中立但随地缘政治起舞的共谋本质。(pp.330–331) |
+> | **[[Deductive Rationality|演绎理性]] (Deductive Rationality)** | 批判工具。指当代大学管理主义中自上而下的行政命令与绩效话语体系。Cowen 提出这一批判工具，用以横向解构当代大学管理主义的行政绩效枷锁（如强行要求博士论文附带影响声明、或盲目追求世界一流大学指标），揭示并批判大学系统如何用一套指令式理性垄断合法知识的定义，把学术性思考异化成功绩机器上的螺丝钉，进而无情摧毁了学术的原创性与[[Critical Theory|批判理论]]空间。(p.332) |
+> | **[[Totally Pedagogised Society|全盘教育化社会]]** | 前瞻框架。基于 Bernstein (2001) 的社会学思想，指教育关系弥散至传统学校围墙之外、嵌入社会每个角落的趋势。在本文中它作为前瞻框架，用以引导学者超越 19 世纪遗传至今的学校系统边界，去预见和洞察未来由 AI 教学与监控资本主义主导的、无处不在的社会控制网络，为 21 世纪后期的教育变迁提供前瞻性的解释力。(p.336) |
+> | **[[Heroic, Strange, and Barbaric|英雄、陌生与野蛮]] (Heroic, Strange, and Barbaric)** | 震荡工具。包含三个极具情感和道德张力的批判形容词。Cowen 提出要直接将“英雄的”、“陌生的”与“野蛮的”这类带有强烈道德和审美色彩的形容词，直接运用于学校系统和教育政策的分析。这种词汇的使用能够产生情感与智识上的震荡（shock），强力撕开学科日常的精致伪装，逼迫学者直面教育背后的国家暴力、极端政治或伦理悲剧。例如，直接指明某些压制儿童天性的教育模式是“野蛮的”，或者在战争与动荡中坚持教学的[[Conatus|努力]]是“英雄的”，以此打破学术界精致中立的专业相对主义滤镜。 |
 
 > [!warrant]- 理论如何支撑论证
 > 上述概念工具在文中构成了一个有机的[[Analytic Framework|分析框架]]：通过全球解读与四种理解形式勾勒学科共谋的历史轨迹；运用演绎理性剖析当代绩效主义的微观政治；以英雄、陌生与野蛮的词汇打破学术中立滤镜；最终以转移与受教育身份为支点重新确立道德底线，前瞻性地审视全盘教育化社会下的未来变迁。(pp.331–336)
@@ -137,15 +137,15 @@ citation_aliases:
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **[[Ideology Critique\|意识形态批判]] (Ideology Critique)** | 对比较教育史中的合法化修辞、大学管理主义话语及[[PISA\|国际学生评估项目]]（Programme for International Student Assessment，PISA）背后的新自由主义合谋进行解构，揭示其隐藏的政治预设。(p.332, pp.333–334) |
-> | **[[Philosophical Analysis in Education\|教育哲学分析]] (Philosophical Analysis in Education)** | 探讨教育的本质目的，重构转移（形态变化）与[[Educated Identity\|受教育身份]]（伦理关切）的[[Ontology\|本体论]]与伦理学基础。(pp.335–336) |
-> | **[[Documentary Analysis\|文献分析]] (Documentary Analysis)** | 梳理两百年来比较教育经典[[Document\|文献]]（Sadler, Jullien, Mill）及当代理论争论，分析地缘政治与[[Epistemology\|认识论]]遭遇的矛盾。(pp.327–329) |
+> | **[[Ideology Critique|意识形态批判]] (Ideology Critique)** | 对比较教育史中的合法化修辞、大学管理主义话语及[[PISA|国际学生评估项目]]（Programme for International Student Assessment，PISA）背后的新自由主义合谋进行解构，揭示其隐藏的政治预设。(p.332, pp.333–334) |
+> | **[[Philosophical Analysis in Education|教育哲学分析]] (Philosophical Analysis in Education)** | 探讨教育的本质目的，重构转移（形态变化）与[[Educated Identity|受教育身份]]（伦理关切）的[[Ontology|本体论]]与伦理学基础。(pp.335–336) |
+> | **[[Documentary Analysis|文献分析]] (Documentary Analysis)** | 梳理两百年来比较教育经典[[Document|文献]]（Sadler, Jullien, Mill）及当代理论争论，分析地缘政治与[[Epistemology|认识论]]遭遇的矛盾。(pp.327–329) |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |----------|------|
-> | **文献样本** | 1817年的朱利安文献至2023年的比较教育经典理论文本、专刊文章（包括 Will Brehm、Terri Seddon、[[Daniel Tröhler]] 等的论文）、以及[[Comparative Education Society in Europe\|欧洲比较教育学会]]（Comparative Education Society in Europe，CESE）2018 塞浦路斯会议的主题演讲。(pp.326–327, p.334) |
-> | **经验情境** | 英国、美国、日本、中国等国的比较教育学科地缘政治定位；大学效率管理政治（如丹麦、法国、海湾国家等）；非西方殖民与极端政治情境（如[[National Security Law\|香港国安法]]、阿富汗、伊朗与乌克兰战争）。(p.329, p.332, p.335) |
+> | **文献样本** | 1817年的朱利安文献至2023年的比较教育经典理论文本、专刊文章（包括 Will Brehm、Terri Seddon、[[Daniel Tröhler]] 等的论文）、以及[[Comparative Education Society in Europe|欧洲比较教育学会]]（Comparative Education Society in Europe，CESE）2018 塞浦路斯会议的主题演讲。(pp.326–327, p.334) |
+> | **经验情境** | 英国、美国、日本、中国等国的比较教育学科地缘政治定位；大学效率管理政治（如丹麦、法国、海湾国家等）；非西方殖民与极端政治情境（如[[National Security Law|香港国安法]]、阿富汗、伊朗与乌克兰战争）。(p.329, p.332, p.335) |
 > | **材料限制** | 本文为学科诊断与方向性纲领，不涉及大规模量化实证样本，重在理论建构的广度与启发性。(p.326) |
 
 ---
@@ -221,7 +221,7 @@ citation_aliases:
 > 评估比较教育的前瞻方向必须遵循特定的分类原则，其智识命运取决于它如何阅读地缘政治与经济大叙事（[[Readings of the Global|全球解读]]）。(pp.329–331)
 
 > [!chain-link] 证据到判断
-> - **[[Hierarchy of Future Issues in Comparative Education\|未来议题分类原则]]** 决定学科智识命运与前瞻方向的五个核心议题层级：
+> - **[[Hierarchy of Future Issues in Comparative Education|未来议题分类原则]]** 决定学科智识命运与前瞻方向的五个核心议题层级：
 >   1. **常规谜题 (Normal-puzzle topics)** 学科日常运转的核心业务，侧重于对学校系统及其各个组成部分的运转和改革分析。具体包括：学前教育、初等教育、中等教育、考试、课程、教师教育、职业技术教育、衡量学校与大学质量、以及新型教学技术。(p.329, p.330)
 >   2. **热门主题 (Hot topics)** 产出极其丰厚、学者关注度极高且将持续维持热度的领域。具体包括：种族与性别（例如 Unterhalter 于 2023 年编辑的女孩教育专刊），以及各种以“后”（post）为标志的新理论研究，如后社会主义、后现代、[[Posthumanism|后人类主义]]理论，以及系统装配 (assemblages) 解释视角。
 >   3. **突破性主题 (Break-through themes)** 近年[[Emergence|涌现]]、不仅突然显性化且直穿未来的突破性议题。具体包括：治理与控制模式 (governance and modes of control)；数据霸权；后殖民主义与全球南方 (post-colonialism and the Global South)；[[PISA]] 等国际测试批判；从全球化洪流中重新解救民族主义概念；以及人工智能尤其是智能[[Dialogue in Education|对话]]机器人（如 ChatGPT）带来的急剧技术变革与行业恐慌。

@@ -81,6 +81,6 @@ updated: 2026-06-16
 > [!ref-table] 相关条目索引
 > | 条目 | 关系 | 来源 |
 > |---|---|---|
-> | [[Australian Institute for Teaching and School Leadership]] | AITSL 在底层系统与日常数字平台上高度依赖 ESA 提供的基础设施支撑。 | [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]] |
+> | [[Australian Institute for Teaching and School Leadership]] | AITSL 在底层系统与日常数字平台上高度依赖 ESA 提供的基础设施支撑。 | [[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]] |
 > | [[Australian Education Research Organisation]] | AERO 在成立后被编织入 ESA 的跨机构底层系统与行政服务网中。 | |
 > | [[Strong Beginnings Report]] | 2023 年改革报告所推动的强制性问责审计，其落地实施高度依赖 ESA 提供的数字化支撑底座。 | |
