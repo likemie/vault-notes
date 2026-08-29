@@ -64,6 +64,7 @@ related_methods:
   - "[[Cohort Study]]"
   - "[[Trend Study]]"
   - "[[Longitudinal Study]]"
+  - "[[Model Fit Indices in SEM and CFA]]"
   - "[[Multiple Regression]]"
   - "[[Cross-sectional Study]]"
 related_instruments:
@@ -81,14 +82,14 @@ sources:
 part_of: ""
 status: draft
 created: 2026-08-19
-updated: 2026-08-19
+updated: 2026-08-29
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Trautwein_2007_CEP"
 argument_key: "Argument_Trautwein_2007_CEP"
 argument_display_title: "Epistemological beliefs, school achievement, and college major: A large-scale longitudinal study on the impact of certainty beliefs"
 argument_kind: "journal-article"
-argument_related_count: 48
+argument_related_count: 49
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -288,7 +289,7 @@ issuing_organization: ""
 > 知识确定性信念对高中毕业总评成绩具有显著且稳健的净负向预测作用；同时，确定性信念部分中介了认知能力、家庭文化资本与性别对学业成就的促进效应。（p.358）
 
 > [!chain-link] 潜变量中介结构方程模型证据
-> 构建以 5 个题包代表的认知能力（KFT 测验）、家庭 SES（父/母最高 ISEI）、文化资本（藏书量）、性别、年龄为外生预测源，以 7 题潜变量确定性信念为中介变量，以毕业总评成绩为最终[[Dependent Variable|结果变量]]的结构方程模型（表2、图2）。模型自由估计了 3 道反向计分题的残差相关以控制方法因子，模型拟合优度极佳（卡方自由度比 $\chi^2(115) = 478.47$，Tucker-Lewis 指数 $\text{TLI} = .952$，近似误差均方根 Root Mean Square Error of Approximation $\text{RMSEA} = .033$，标准化残差均方根 Standardized Root Mean Square Residual $\text{SRMR} = .025$）。（pp.357–358）
+> 构建以 5 个题包代表的认知能力（KFT 测验）、家庭 SES（父/母最高 ISEI）、文化资本（藏书量）、性别、年龄为外生预测源，以 7 题潜变量确定性信念为中介变量，以毕业总评成绩为最终[[Dependent Variable|结果变量]]的结构方程模型（表2、图2）。模型自由估计了 3 道反向计分题的残差相关以控制方法因子，模型拟合优度极佳（卡方自由度比 $\chi^2(115) = 478.47$，Tucker-Lewis 指数 $\text{[[Model Fit Indices in SEM and CFA|TLI]]} = .952$，近似误差均方根 Root Mean Square Error of Approximation $\text{RMSEA} = .033$，标准化残差均方根 Standardized Root Mean Square Residual $\text{SRMR} = .025$）。（pp.357–358）
 
 > [!ref-table]- 表2：结构方程模型预测高中毕业总评成绩的路径系数与拟合指标（p.358）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

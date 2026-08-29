@@ -8,9 +8,9 @@ summary: "在元分析框架下，通过加权回归检验研究特征与连续�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 49
-method_related_level: 5
-method_related_stars: "⭐⭐⭐⭐⭐"
+method_related_count: 50
+method_related_level: 6
+method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/statistical
@@ -65,6 +65,7 @@ related_methods:
   - "[[Pairwise Wald Tests]]"
   - "[[Correlated and Hierarchical Effects Model]]"
   - "[[Robust Variance Estimation]]"
+  - "[[Cronbach's Alpha]]"
   - "[[Effect Size Conversion]]"
   - "[[Meta-meta-analysis]]"
   - "[[Moderator Analysis]]"
@@ -73,7 +74,7 @@ related_methods:
 status: active
 confidence: high
 created: 2026-08-19
-updated: 2026-08-25
+updated: 2026-08-29
 ---
 
 # Meta-regression
@@ -176,7 +177,7 @@ updated: 2026-08-25
 >
 > **符号说明**
 > - $\hat{r}_i$ 第 $i$ 项研究报告的相关系数
-> - $\text{Reliability}_i$ [[Epistemology|认识论]]问卷的内部一致性信度系数（0 到 1）
+> - $\text{Reliability}_i$ [[Epistemology|认识论]]问卷的[[Cronbach's Alpha|内部一致性信度系数]]（0 到 1）
 > - $\beta_1$ 信度元回归斜率估计值（Greene et al. 报告为 $b = .300, p < .001$）
 >
 > **数学直觉** [[Classical Test Theory|经典测量理论]]表明测量误差会导致相关系数发生统计衰减。元回归实证验证了这一规律：问卷信度越高，可观测到的效应量越大；若信度为 0，效应量归零；若信度达 1.0，理论真实相关性可达 $r = .300$。

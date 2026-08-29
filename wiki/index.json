@@ -7778,9 +7778,7 @@
     "path": "wiki/concepts/research-methodology/Internal Consistency.md",
     "aliases": [
       "内部一致性",
-      "Cronbach alpha",
-      "Cronbach α",
-      "克隆巴赫系数",
+      "内部一致性信度",
       "internal consistency reliability"
     ]
   },
@@ -12536,6 +12534,20 @@
     ]
   },
   {
+    "title": "Cronbach's Alpha",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Cronbach's Alpha.md",
+    "aliases": [
+      "克隆巴赫系数",
+      "克隆巴赫阿尔法系数",
+      "克隆巴赫α系数",
+      "内部一致性信度系数",
+      "Cronbach alpha",
+      "Cronbach's α",
+      "Alpha reliability"
+    ]
+  },
+  {
     "title": "Cross-sectional Study",
     "type": "method",
     "path": "wiki/methods/quantitative/Cross-sectional Study.md",
@@ -12760,6 +12772,19 @@
     ]
   },
   {
+    "title": "KMO and Bartlett's Test of Sphericity",
+    "type": "method",
+    "path": "wiki/methods/quantitative/KMO and Bartlett's Test of Sphericity.md",
+    "aliases": [
+      "巴特利特球形度检验",
+      "巴特利特球形检验",
+      "抽样适宜性系数",
+      "Kaiser-Meyer-Olkin",
+      "KMO and Bartlett's Test",
+      "Bartlett's Test of Sphericity"
+    ]
+  },
+  {
     "title": "Leave-One-Out Sensitivity Analysis",
     "type": "method",
     "path": "wiki/methods/quantitative/Leave-One-Out Sensitivity Analysis.md",
@@ -12824,6 +12849,20 @@
     ]
   },
   {
+    "title": "McDonald's Omega",
+    "type": "method",
+    "path": "wiki/methods/quantitative/McDonald's Omega.md",
+    "aliases": [
+      "麦克唐纳系数",
+      "麦克唐纳欧米伽系数",
+      "麦克唐纳ω系数",
+      "组合信度系数",
+      "McDonald omega",
+      "McDonald's ω",
+      "Omega reliability"
+    ]
+  },
+  {
     "title": "Measurement Invariance",
     "type": "method",
     "path": "wiki/methods/quantitative/Measurement Invariance.md",
@@ -12877,6 +12916,23 @@
       "元回归",
       "meta-regression analysis",
       "元回归分析"
+    ]
+  },
+  {
+    "title": "Model Fit Indices in SEM and CFA",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Model Fit Indices in SEM and CFA.md",
+    "aliases": [
+      "结构方程模型拟合指数",
+      "验证性因子分析拟合指数",
+      "模型拟合度指数",
+      "模型拟合指数",
+      "Goodness-of-Fit Indices",
+      "RMSEA",
+      "CFI",
+      "TLI",
+      "NNFI",
+      "SRMR"
     ]
   },
   {

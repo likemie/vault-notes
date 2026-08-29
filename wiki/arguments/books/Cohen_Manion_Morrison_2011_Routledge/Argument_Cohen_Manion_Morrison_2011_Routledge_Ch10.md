@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_display_title: "Research Methods in Education · Ch10"
 argument_kind: "book-chapter"
-argument_related_count: 128
+argument_related_count: 130
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -90,7 +90,6 @@ related_concepts:
   - "[[Cultural Validity]]"
   - "[[Response Bias]]"
   - "[[Back Translation]]"
-  - "[[Internal Consistency]]"
   - "[[Research Question]]"
   - "[[Gatekeepers]]"
   - "[[Definition of Terms]]"
@@ -106,6 +105,7 @@ related_concepts:
   - "[[Halo Effect]]"
   - "[[Test-Retest Reliability]]"
   - "[[Statistical Significance]]"
+  - "[[Internal Consistency]]"
   - "[[Trustworthiness]]"
   - "[[Qualitative Reliability]]"
   - "[[Paradigm Wars]]"
@@ -145,6 +145,7 @@ related_methods:
   - "[[Analysis of Variance]]"
   - "[[Qualitative Interview]]"
   - "[[Pilot Testing]]"
+  - "[[Cronbach's Alpha]]"
   - "[[Meta-analysis]]"
   - "[[Experimental Research]]"
   - "[[Role-playing]]"
@@ -157,6 +158,7 @@ related_methods:
   - "[[Telephone Interview]]"
   - "[[Participant Observation]]"
   - "[[Observation Method]]"
+  - "[[Multiple-Choice Questions]]"
   - "[[Accounts]]"
 related_facts:
   - "[[ResearchED]]"
@@ -164,7 +166,7 @@ sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-22
-updated: 2026-08-20
+updated: 2026-08-29
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10
 
@@ -758,7 +760,7 @@ Liu (2002) 补充建议：使用**主动而非被动语态**、简单短句、�
 > 2. **委员会评估** 使用一个专家委员会（3 至 5 人）审查——评估初步版本（检查回译版本是否可接受，或在回译项目的不同版本之间裁决），准备实验版本——从而避免单一研究者的偏见（Vallerand et al., 1992; Liu, 2002, p. 82）
 > 3. **[[Pilot Testing|预测试]]实验版本** 使用随机调查方法——检查指令的清晰性和工具的适当性
 > 4. **评估内容和共时效度** 使用双语参与者（20 至 30 人）检查他们是否以相同方式回答两种语言版本，以及工具是否适当——内容效度通过质性评估（专家审查），共时效度通过量化评估（t 检验）
-> 5. **信度分析** 检查内部信度和时间稳定性——寻找高信度系数（[[Internal Consistency|Cronbach alpha]]）。移除低信度项目
+> 5. **信度分析** 检查内部信度和时间稳定性——寻找高信度系数（[[Cronbach's Alpha|Cronbach alpha]]）。移除低信度项目
 > 6. **评估构念效度** 通过因子分析、量表间相关分析以及检验理论衍生的假设
 > 7. **建立常模** 通过选择样本来自的总体、统计指标以及计算均值、标准差和 z 分数——使用大量人群以建立常模的稳定性
 
@@ -1067,7 +1069,7 @@ Guba & Lincoln (1994) 认为信度概念主要是实证主义的。虽然广泛�
 
 半分法假设测试可被分成两个匹配的半份，但许多测试在每半份中有**不同难度梯度或不同项目内容**。如果测试有 20 个项目——研究者可以将所有偶数号项目分配给一组、所有奇数号项目分配给另一组，而非将项目 1–10 分配给一半、11–20 分配给另一半。这将使两半在内容和累积难度程度上更匹配。
 
-> [!formula-step] Cronbach's Alpha 公式
+> [!formula-step] [[Cronbach's Alpha]] 公式
 > $$
 > \alpha = \frac{k}{k - 1} \left(1 - \frac{\sum \sigma^2_i}{\sigma^2_{\text{total}}}\right)
 > $$

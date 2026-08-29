@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24"
 argument_display_title: "Research Methods in Education · Ch24"
 argument_kind: "book-chapter"
-argument_related_count: 55
+argument_related_count: 57
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -89,6 +89,8 @@ related_methods:
   - "[[Experimental Research]]"
   - "[[Pilot Testing]]"
   - "[[Rasch Measurement]]"
+  - "[[Cronbach's Alpha]]"
+  - "[[Multiple-Choice Questions]]"
   - "[[Role-playing]]"
 related_instruments:
   - "[[Consensual Assessment Technique]]"
@@ -525,7 +527,7 @@ IRT 建立在以下关键假设之上：
 > - **[[Test-Retest Reliability|重测信度]]** 同一测验在不同时间对同一组人施测，两次分数的相关
 > - **[[Parallel-Forms Reliability|复本信度]]** 同一测验的两个等价版本施测后分数的相关
 > - **[[Split-Half Reliability|分半信度]]** 将测验项目分成两半后两部分得分的相关
-> - **[[Internal Consistency|内部一致性]]** 各项目之间的一致性程度，常用 Cronbach's alpha 衡量
+> - **[[Internal Consistency|内部一致性]]** 各项目之间的一致性程度，常用 [[Cronbach's Alpha]] 衡量
 
 ---
 

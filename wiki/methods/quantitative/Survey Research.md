@@ -9,7 +9,7 @@ summary: "通过研究样本以提供总体趋势、态度或意见的量化或�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 59
+method_related_count: 60
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -68,6 +68,7 @@ related_methods:
   - "[[Random Sampling]]"
   - "[[Systematic Sampling]]"
   - "[[Convenience Sampling]]"
+  - "[[Cronbach's Alpha]]"
   - "[[Pilot Testing]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Trend Study]]"
@@ -85,7 +86,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-30
-updated: 2026-08-22
+updated: 2026-08-29
 ---
 
 # Survey Research
@@ -133,7 +134,7 @@ updated: 2026-08-22
 > [!info]
 > - **工具与测量** 工具（instrument）是收集变量测量值的设备（如温度计之于体温，[[Questionnaire|问卷]]之于倦怠症状）。测量（measure）在社会科学中通常指研究受试者的某种特征。
 > - **工具的效度** 报告过去使用该工具所获得分数的已确立效度。两个常见形式为[[Construct Validity|构念效度]]（工具是否准确测量目标[[Construct|构念]]）和效标／[[Concurrent Validity|同时效度]]（工具是否与金标准测量相关联或预测效标测量）（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
-> - **工具的[[Reliability|信度]]** 报告分数的[[Internal Consistency|内部一致性]]（internal consistency），即多项目工具的条目间是否测量同一构念，通过 Cronbach's α 值量化（范围 0–1，最佳值.7–.9）。如 10 项 Perceived Stress Scale（PSS; Cohen et al., 1983）在三项研究中内部一致性为 α =.84–.86。[[Test-Retest Reliability|重测信度]]（test-retest reliability）评估工具在重复施测中的稳定程度。若修改或组合工具，原有信效度可能不再成立（, Ch8）。
+> - **工具的[[Reliability|信度]]** 报告分数的[[Internal Consistency|内部一致性]]（internal consistency），即多项目工具的条目间是否测量同一构念，通过 [[Cronbach's Alpha|Cronbach's α]] 值量化（范围 0–1，最佳值.7–.9）。如 10 项 Perceived Stress Scale（PSS; Cohen et al., 1983）在三项研究中内部一致性为 α =.84–.86。[[Test-Retest Reliability|重测信度]]（test-retest reliability）评估工具在重复施测中的稳定程度。若修改或组合工具，原有信效度可能不再成立（, Ch8）。
 > - **[[Inter-Rater Reliability|评分者间信度]]（Inter-Rater Reliability）** 当多位评判者或专家使用同一工具评分时，需要评估独立评分者之间的一致性程度。
 > - **工具内容** 包括[[Covering Letter|封面信]]（Dillman, 2007 提供了封面信应包含的项目清单）、题项（人口学、态度、行为、事实题项）和结束说明。量表类型包括连续量表（如 strongly agree 到 strongly disagree）和类别量表（如 yes/no、重要性排名）。
 > - **[[Pilot Testing|试点测试]]（Pilot Testing）** 评估工具对研究样本的适用性、条目内部一致性，改进问题、格式和说明。同时[[Evaluation Research|评估研究]]耗时和受试者疲劳风险。说明测试人数和修改计划（, Ch8）。

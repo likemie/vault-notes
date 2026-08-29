@@ -7,7 +7,7 @@ title: "Argument_Creswell_2022_SAGE"
 argument_key: "Argument_Creswell_2022_SAGE"
 argument_display_title: "Research Design: Qualitative, Quantitative, and Mixed Methods Approaches"
 argument_kind: "book"
-argument_related_count: 188
+argument_related_count: 189
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -181,6 +181,7 @@ related_methods:
   - "[[Interview Protocol]]"
   - "[[Random Sampling]]"
   - "[[Pilot Testing]]"
+  - "[[Cronbach's Alpha]]"
   - "[[t-test]]"
   - "[[Analysis of Variance]]"
   - "[[Multiple Regression]]"
@@ -218,7 +219,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-30
-updated: 2026-07-13
+updated: 2026-08-29
 year: 2022
 doi: ""
 citation_aliases:
@@ -1217,7 +1218,7 @@ Creswell & Creswell 建议，理想格式是将三类问题分别写入不同章
 > | 1. 回应率报告 | 回应与未回应人数及百分比 | 回应者/非回应者频率表 | [[Survey Research]] |
 > | 2. 回应偏差检查 | 非回应者若回应是否会改变结果 | 波次分析(Leslie, 1972)或回应者/非回应者电话对比 | [[Response Bias]] |
 > | 3. 描述性分析 | 均值、标准差、得分范围；缺失数据识别与处理 | 缺失数据处理策略(Schafer & Graham, 2002) | [[Descriptive Analysis]] |
-> | 4. 信度检查 | 反向计分、量表总分计算、[[Internal Consistency\|内部一致性]] | Cronbach's α | [[Internal Consistency and Cronbach's Alpha]] |
+> | 4. 信度检查 | 反向计分、量表总分计算、[[Internal Consistency\|内部一致性]] | [[Cronbach's Alpha\|Cronbach's α]] | [[Cronbach's Alpha\|内部一致性（Cronbach's $\alpha$）]] |
 > | 5. 推断统计 | 选择适当统计量检验假设 | Table 8.3 六因素选择矩阵 | [[t-test]]、[[Analysis of Variance\|ANOVA]]、[[Multiple Regression]] 等 |
 > | 6. 结果呈现 | 表格或图形呈现 + 解释 | — | [[Survey Research]] |
 >

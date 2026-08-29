@@ -9,7 +9,7 @@ aliases:
 summary: "将测验分数分解为真实分数与误差之和的测量理论，假设真实分数是无限次独立施测的期望值，是题目分析和信度计算的基础框架"
 type: theory
 theory_field: "research-methodology"
-theory_related_count: 14
+theory_related_count: 15
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -34,11 +34,12 @@ related_theories:
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]]"
 related_methods:
+  - "[[Cronbach's Alpha]]"
   - "[[Measurement Invariance]]"
 confidence: medium
 status: draft
 created: 2026-07-24
-updated: 2026-07-26
+updated: 2026-08-29
 ---
 
 # Classical Test Theory
@@ -113,7 +114,7 @@ updated: 2026-07-26
 > - **作为理论框架** 为测验编制中的信度评估和题目分析提供基本概念框架。
 > - **作为分析工具** 使用 $X = T + E$ 公式理解分数构成，通过信度系数估计误差方差。
 > - **作为批判视角** 提醒研究者注意文化偏差、语言媒介和施测条件对观测分数的影响。
-> - **报告方式** 在研究报告中应明确报告测验的信度系数（如 Cronbach's alpha）以及样本特征。
+> - **报告方式** 在研究报告中应明确报告测验的信度系数（如 [[Cronbach's Alpha]]）以及样本特征。
 
 ---
 

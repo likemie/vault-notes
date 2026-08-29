@@ -8,7 +8,7 @@ aliases:
 summary: "研究工具、数据和发现在跨时间、跨工具和跨受访者群体上的一致性、可依赖性和可复制性，是效度的必要非充分条件，在量化研究中分为稳定性、等值性和内部一致性三种形式，在质性研究中转化为可依赖性、可信赖性和可确认性"
 type: concept
 domain: "research-methodology"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -43,6 +43,7 @@ related_concepts:
 related_methods:
   - "[[Quantitative Research]]"
   - "[[Qualitative Research]]"
+  - "[[Cronbach's Alpha]]"
   - "[[Survey Research]]"
   - "[[Triangulation]]"
 related_arguments:
@@ -50,7 +51,7 @@ related_arguments:
   - "[[Argument_QiMei_2015_EducationalResearchMethods]]"
 status: draft
 created: 2026-06-23
-updated: 2026-08-20
+updated: 2026-08-29
 ---
 # Reliability
 
@@ -107,7 +108,7 @@ updated: 2026-08-20
 >   > - **等价形式（equivalent forms / alternate forms）** 设计出工具的等价形式并产生相似结果。实验中的[[Pre-test and Post-test|前测]]和后测预设了这种信度。通过 t 检验、高相关系数及相似均值和标准差衡量。
 >   > - **[[Inter-Rater Reliability|评分者间信度]]（inter-rater reliability）** 对于观察数据，通过培训课程使用视频材料确保录入数据的同等性。简单计算可用评分者间一致性百分比；Robson (2002, p. 341) 提出了更复杂的方法。
 > - **信度作为[[Internal Consistency|内部一致性]]（Reliability as internal consistency）**
->   测试/重测和等价形式要求两次施测，而内部一致性只需要**一次**——通过半分法和 Cronbach alpha 系数来衡量多项目量表中条目之间的一致性。详细公式、操作流程和解读标准见 [[Internal Consistency|内部一致性]] 条目。
+>   测试/重测和等价形式要求两次施测，而内部一致性只需要**一次**——通过半分法和 [[Cronbach's Alpha|Cronbach alpha]] 系数来衡量多项目量表中条目之间的一致性。详细公式、操作流程和解读标准见 [[Internal Consistency|内部一致性]] 条目。
 
 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 200–204)]]
 

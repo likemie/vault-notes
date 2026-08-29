@@ -7,7 +7,7 @@ summary: "一种用于检验观测变量（如问卷题项）与潜在结构（�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 17
+method_related_count: 20
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -27,8 +27,11 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Exploratory Factor Analysis]]"
+  - "[[Model Fit Indices in SEM and CFA]]"
+  - "[[Measurement Invariance]]"
   - "[[Causal Modeling]]"
   - "[[Chi-Squared Test]]"
+  - "[[Average Variance Extracted]]"
 related_instruments:
   - "[[Epistemic and Ontological Cognition Questionnaire]]"
 related_persons: []
@@ -39,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-15
-updated: 2026-08-26
+updated: 2026-08-29
 ---
 
 # Confirmatory Factor Analysis
@@ -55,7 +58,7 @@ updated: 2026-08-26
 > - **研究对象** 多维度的量表测量数据、外显指标体系。
 > - **问题类型** 回答预设的测量模型是否具有良好的[[Construct Validity|结构效度]]（[[Construct]] Validity）。
 > - **分析单位** 个体。
-> - **输出形式** 因子载荷估计值、模型整体拟合指数（如 $\chi^2$, RMSEA, CFI, SRMR 等）。
+> - **输出形式** 因子载荷估计值、模型整体拟合指数（如 $\chi^2$, [[Model Fit Indices in SEM and CFA|RMSEA]], CFI, SRMR 等）。
 
 ---
 
@@ -64,7 +67,7 @@ updated: 2026-08-26
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 认为心理与教育测量中的诸多概念（如智力、动机、[[Epistemological Beliefs|认识论信念]]）是无法直接观测的潜[[Variable|变量]]，必须通过一组可观测的指标来推断。
 > - **研究者角色** 研究者基于先验理论或前期探索研究提出结构[[Hypothesis|假设]]，主观决定模型的设定。
-> - **有效性标准** 各种绝对拟合指数和相对拟合指数（如 RMSEA < .08, CFI > .90 等）。
+> - **有效性标准** 各种绝对拟合指数和相对拟合指数（如 [[Model Fit Indices in SEM and CFA|RMSEA]] < .08, CFI > .90 等）。
 
 > [!method-stack] 方法层级
 > - **分析方法** 验证性因子分析（CFA）。
@@ -84,10 +87,10 @@ updated: 2026-08-26
 ### 量化方法模块
 
 > [!method-stack] 数据、[[Variable|变量]]与模型
-> - **数据结构** 横截面数据为主，追踪数据可用于做测量等值性（Measurement Invariance）检验。
+> - **数据结构** 横截面数据为主，追踪数据可用于做[[Measurement Invariance|测量等值性]]（Measurement Invariance）检验。
 > - **变量或指标** 观测变量（题项分数）、潜变量（因子）、测量误差。
 > - **模型或统计量** 结构方程模型（[[Causal Modeling|SEM]]）的测量模型部分。
-> - **诊断与检验** $\chi^2$ 检验（易受大[[Sample Size Determination|样本量]]影响）、RMSEA、SRMR、CFI、TLI 等拟合指标。
+> - **诊断与检验** $\chi^2$ 检验（易受大[[Sample Size Determination|样本量]]影响）、[[Model Fit Indices in SEM and CFA|RMSEA]]、SRMR、CFI、TLI 等拟合指标。
 
 > [!formula-step] 公式步骤　CFA 基础测量方程
 > $$ y_i = \Lambda \eta_i + \epsilon_i $$
@@ -154,4 +157,4 @@ updated: 2026-08-26
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Greene_2010_JEP|Greene et al. (2010)]] —  使用验证性因子分析（CFA）评估了《[[Epistemic and Ontological Cognition Questionnaire|认识论与本体论认知问卷]]》（EOCQ）在数学和历史领域的维度结构及其数据拟合度。
-> - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|Kazancı Tınmaz & Sezgin (2023)]] — 使用 LISREL 8.80 对 258 名中小学在职教师数据进行一阶与二阶 CFA 检验，对比单因子（$\chi^2/df=5.07, \text{CFI}=0.75$）、一阶四因子修正模型（$\chi^2/df=1.94, \text{RMSEA}=0.060, \text{CFI}=0.94$）与二阶因子模型（$\chi^2/df=2.11, \text{RMSEA}=0.064, \text{CFI}=0.94$），确立了包含意识、态度、技能与使用的四因子二阶结构；同时通过 AVE（.50–.56）与 CR（.75–.90）确证收敛与[[Convergent and Discriminant Validity|区分效度]]，并利用多组 CFA 确立了跨性别的严格测量等值性（$\Delta\text{CFI} \le .003, \Delta\text{RMSEA} \le .003$）。
+> - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|Kazancı Tınmaz & Sezgin (2023)]] — 使用 LISREL 8.80 对 258 名中小学在职教师数据进行一阶与二阶 CFA 检验，对比单因子（$\chi^2/df=5.07, \text{[[Model Fit Indices in SEM and CFA|CFI]]}=0.75$）、一阶四因子修正模型（$\chi^2/df=1.94, \text{RMSEA}=0.060, \text{CFI}=0.94$）与二阶因子模型（$\chi^2/df=2.11, \text{RMSEA}=0.064, \text{CFI}=0.94$），确立了包含意识、态度、技能与使用的四因子二阶结构；同时通过 [[Average Variance Extracted|AVE]]（.50–.56）与 CR（.75–.90）确证收敛与[[Convergent and Discriminant Validity|区分效度]]，并利用多组 CFA 确立了跨性别的严格[[Measurement Invariance|测量等值性]]（$\Delta\text{CFI} \le .003, \Delta\text{RMSEA} \le .003$）。

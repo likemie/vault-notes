@@ -13,7 +13,7 @@ summary: "在正式数据收集前使用少量受试者测试研究材料和程�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 24
+method_related_count: 25
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -43,6 +43,7 @@ related_concepts:
 related_methods:
   - "[[Survey Research]]"
   - "[[Experimental Research]]"
+  - "[[Cronbach's Alpha]]"
   - "[[Multiple Regression]]"
   - "[[Coding in Qualitative Research]]"
 related_arguments:
@@ -52,7 +53,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-07-21
+updated: 2026-08-29
 ---
 # Pilot Testing
 
@@ -84,7 +85,7 @@ updated: 2026-07-21
 > [!method-stack] 预测试在方法体系中的层级
 > - **研究设计层** [[Survey Research|调查研究]]、[[Experimental Research|实验研究]]均将预测试列为质量保证的核心步骤
 > - **数据收集层** 使用与正式研究相同的工具和程序进行小规模试运行
-> - **分析方法层** 信度分析（Cronbach's α）、共线性诊断、[[Multiple Regression|多元回归]]、因子分析（第二类预测试）
+> - **分析方法层** 信度分析（[[Cronbach's Alpha|Cronbach's α]]）、共线性诊断、[[Multiple Regression|多元回归]]、因子分析（第二类预测试）
 > - **辅助技术层** 受试者口头反馈、专家评审、完成时间记录、非预期回应模式分析
 
 ---
@@ -96,7 +97,7 @@ updated: 2026-07-21
 > 2. **在接近正式研究的条件下施测** 全部研究材料和程序。
 > 3. **收集中间过程的反馈** 包括受试者对问题理解、格式清晰度、说明完整性的意见。
 > 4. **评估总耗时和疲劳风险** 一次过长的测试可能导致正式研究中退出率升高。
-> 5. **检查条目[[Internal Consistency|内部一致性]]** 对试点数据检查 Cronbach's α。
+> 5. **检查条目[[Internal Consistency|内部一致性]]** 对试点数据检查 [[Cronbach's Alpha|Cronbach's α]]。
 > 6. **修订并优化** 基于试点反馈修订问题措辞、量表格式、施测说明和程序流程。
 
 > [!note]- 调查与实验中的预测试差异

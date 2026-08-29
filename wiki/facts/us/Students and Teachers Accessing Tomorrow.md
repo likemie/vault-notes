@@ -8,7 +8,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 9
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Focus Group]]"
+  - "[[Cronbach's Alpha]]"
   - "[[Formative Program Evaluation]]"
 related_persons: []
 related_facts: []
@@ -38,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-05-23
+updated: 2026-08-29
 ---
 
 ## 背景
@@ -67,7 +68,7 @@ updated: 2026-05-23
 
 > [!info]- 核心数据
 > - 教师问卷在 2016、2017、2018 年秋季分别有 2,209、1,798、1,901 名教师回应([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.116]])。
-> - 课堂观察从 2014 年秋至 2019 年春持续进行，单次观察约 20 分钟；观察工具总体评分者一致性 Cronbach's alpha 为 .972([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.117]])。
+> - 课堂观察从 2014 年秋至 2019 年春持续进行，单次观察约 20 分钟；观察工具总体评分者一致性 [[Cronbach's Alpha]] 为 .972([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.117]])。
 > - BCPS 接近 50% 学生符合免费或减价餐资格，PARCC 结果通常接近州平均但略低，低于许多经济条件更优的学区([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.118]])。
 
 ## 效果与评价

@@ -10,7 +10,7 @@ aliases:
 summary: "评价抽象构念的界定、操作化与所得证据是否共同支持预期解释；涵盖测量工具、实验操纵、质性范畴、课程评估以及宏观政策认证体系（MTMM收敛与判别效度），防范构念不足呈现与无关方差污染。"
 type: concept
 domain: "research-methodology"
-related_count: 51
+related_count: 52
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -64,6 +64,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Qualitative Research]]"
   - "[[Causal Modeling]]"
+  - "[[Cronbach's Alpha]]"
   - "[[Content Analysis]]"
 related_instruments: []
 related_persons:
@@ -83,7 +84,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-01
-updated: 2026-08-21
+updated: 2026-08-29
 ---
 
 # Construct Validity
@@ -255,7 +256,7 @@ updated: 2026-08-21
 
 > [!critique] 常见方法学误用
 > - **把效度视为工具固有的“永久标签”** 误以为量表曾获验证便可在任何文化、语言及新群体中永久有效。
-> - **以[[Internal Consistency|内部一致性]]（Cronbach's α）代替构念效度** α 仅反映题目同质性，高 α 完全可能伴随严重的构念不足呈现或无关方差。
+> - **以[[Internal Consistency|内部一致性]]（[[Cronbach's Alpha|Cronbach's α]]）代替构念效度** α 仅反映题目同质性，高 α 完全可能伴随严重的构念不足呈现或无关方差。
 > - **用内部自洽掩盖共同遗漏** 课程目标与测试题高度吻合，但两者共同遗漏了学科[[21st Century Skills and Competencies Discourse|核心素养]]的大半内涵([[Argument_Hughes_2014_JRIE|Hughes, 2014, pp. 40–43]])。
 
 > [!warning] 适用局限

@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20"
 argument_display_title: "Research Methods in Education · Ch20"
 argument_kind: "book-chapter"
-argument_related_count: 43
+argument_related_count: 44
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -75,6 +75,7 @@ related_methods:
   - "[[Case Study]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Telephone Interview]]"
+  - "[[Cronbach's Alpha]]"
   - "[[Cross-checking]]"
   - "[[Random Sampling]]"
 status: draft
@@ -853,7 +854,7 @@ Sudman & Bradburn（1982, Ch. 3）系统讨论了问卷中纳入敏感题项的�
 从大量题项列表（如 120 题）开始，通过对**有代表性的大样本**（50–100 人）进行统计分析来缩减题项至可管理规模（Kgaile and Morrison, 2006）（pp. 178–179）：
 
 > [!proc] 统计缩减预测试的四种分析策略
-> 1. **信度分析** 移除低 Cronbach's α（[[Internal Consistency|内部一致性]]）的题项
+> 1. **信度分析** 移除低 [[Cronbach's Alpha|Cronbach's α]]（[[Internal Consistency|内部一致性]]）的题项
 > 2. **共线性检查** 如果题项与其它题项高度相关，可决定移除其中一个或多个，前提是人类判断必须凌驾于统计分析之上，确保不因此丢失重要研究领域
 > 3. **多元回归** 移除低标准化 beta值的题项，同样以人类判断凌驾于统计分析之上
 > 4. **因子分析** 识别关键变量群和冗余题项

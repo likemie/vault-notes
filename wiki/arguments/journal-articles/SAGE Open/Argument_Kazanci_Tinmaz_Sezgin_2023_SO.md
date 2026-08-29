@@ -60,6 +60,9 @@ related_methods:
   - "[[Average Variance Extracted]]"
   - "[[Composite Reliability]]"
   - "[[Analysis of Variance]]"
+  - "[[KMO and Bartlett's Test of Sphericity]]"
+  - "[[Model Fit Indices in SEM and CFA]]"
+  - "[[McDonald's Omega]]"
 related_instruments:
   - "[[Research Literacy Scale for Teachers]]"
 related_facts:
@@ -71,14 +74,14 @@ related_theories:
   - "[[Research Utilization Models]]"
 status: draft
 created: 2026-08-26
-updated: 2026-08-28
+updated: 2026-08-29
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Kazanci_Tinmaz_Sezgin_2023_SO"
 argument_key: "Argument_Kazanci_Tinmaz_Sezgin_2023_SO"
 argument_display_title: "Development of the Research Literacy Scale for Teachers"
 argument_kind: "journal-article"
-argument_related_count: 45
+argument_related_count: 47
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -189,8 +192,8 @@ journal: "SAGE Open"
 >   教师对科研主题构成、发表渠道、前沿动态及专业阅读先验认知的敏锐度与知识准备。（解释 3.80% 方差）
 
 > [!evidence-grid] 样本 1（$N=310$）探索性因子分析与题池精简证据
-> - **专家评审与预试净化** 遵循 DeVellis 规范编写 56 题初始题池，经 5 位专家[[Content Validity Index|内容效度指数]]（CVI）评审与 12 位教师/管理者预试后，在样本 1 中完成施测。(pp. 4–5)
-> - **数据适宜性优异** 剔除 3 个题总相关低于 $.30$ 的题项后，Kaiser-Meyer-Olkin 抽样适宜性系数（KMO）达 $.966$，Bartlett 球形检验高度显著（$\chi^2 = 14332.69, p < .001$）。（p.6）
+> - **专家评审与预试净化** 遵循 DeVellis 规范编写 56 题初始题池，经 5 位专家[[Content Validity Index|内容效度指数]]（CVI）评审，并通过 KMO 与[[KMO and Bartlett's Test of Sphericity|巴特利特球形检验]]（$\text{KMO}=.92, p<.001$）与 12 位教师/管理者预试后，在样本 1 中完成施测。(pp. 4–5)
+> - **数据适宜性优异** 剔除 3 个题总相关低于 $.30$ 的题项后，[[KMO and Bartlett's Test of Sphericity|Kaiser-Meyer-Olkin]] 抽样适宜性系数（KMO）达 $.966$，Bartlett 球形检验高度显著（$\chi^2 = 14332.69, p < .001$）。（p.6）
 > - **公因子提取与累积方差** 采用主轴因子提取法（PAF）与方差最大正交旋转（Varimax），依据特征值大于 1 标准提取出 4 个公共因子，共解释 $62.602\%$ 的累积方差。
 > - **题项负荷与共同度筛选** 依据“因子载荷 $> .32$ 且跨载荷差值 $> .10$”的原则逐一剔除杂题，最终精简保留 20 题，标准载荷介于 $.465 \sim .898$，共同度介于 $.444 \sim .853$。
 
@@ -233,9 +236,9 @@ journal: "SAGE Open"
 > 独立样本数据支持了四因子一阶模型与高阶单一研究素养二阶模型，量表在[[Convergent and Discriminant Validity|收敛效度]]、区分效度、[[Composite Reliability|复合信度]]及跨性别[[Measurement Invariance|测量等值性]]上均达到优异标准。（pp.7–12）
 
 > [!evidence-grid] 独立样本 2（$N=258$）[[Confirmatory Factor Analysis|验证性因子分析]]与效信度证据
-> - **二阶高阶因子模型确立** 验证性因子分析（CFA）显示单因子模型严重失真（$\chi^2/df=5.07, \text{CFI}=0.75$）；一阶四因子修正模型拟合优异（$\chi^2/df=1.94, \text{RMSEA}=0.060, \text{CFI}=0.94$）；二阶因子模型同样拟合良好（$\chi^2/df=2.11, \text{RMSEA}=0.064, \text{CFI}=0.94$），确立了二阶统整结构。(p. 9)
+> - **二阶高阶因子模型确立** 验证性因子分析（CFA）显示单因子模型严重失真（$\chi^2/df=5.07, \text{[[Model Fit Indices in SEM and CFA|CFI]]}=0.75$）；依据 CFA 拟合指数，一阶四因子修正模型拟合优异（$\chi^2/df=1.94, \text{RMSEA}=0.060, \text{CFI}=0.94$）；二阶因子模型同样拟合良好（$\chi^2/df=2.11, \text{RMSEA}=0.064, \text{CFI}=0.94$），确立了二阶统整结构。(p. 9)
 > - **收敛与区分效度双重达标** 4 个分维度的[[Average Variance Extracted|平均方差抽取量]]（AVE）均达到 $.50 \sim .56$，组合信度（CR）均达 $.75 \sim .90$，且各维度 AVE 均大于因子间的决定系数（$r^2$ 为 $.31\sim.59$），收敛效度与 Fornell-Larcker 区分效度完全确立。（p.9, p.11）
-> - **复合信度体系完备** 20 题 [[Research Literacy Scale for Teachers|RLS]] 总量表 Cronbach's $\alpha = .94$，McDonald's $\omega = .95$，Armor's $\theta = .93$，[[Split-Half Reliability|折半信度]] $= .91$；各分量表 $\alpha$ 介于 $.83 \sim .90$，矫正题总相关介于 $.48 \sim .72$。（p.11）
+> - **复合信度体系完备** 20 题 [[Research Literacy Scale for Teachers|RLS]] 总量表 Cronbach's $\alpha = .94$，[[McDonald's Omega|McDonald's ω]]（$\omega = .95$），Armor's $\theta = .93$，[[Split-Half Reliability|折半信度]] $= .91$；各分量表 $\alpha$ 介于 $.83 \sim .90$，矫正题总相关介于 $.48 \sim .72$。（p.11）
 > - **跨性别严格测量不变性** 跨性别多组 CFA 阶梯约束检验表明，从形态等值到严格等值，比较拟合指数改变量 $|\Delta\text{CFI}| \le .003$，RMSEA 改变量 $\Delta\text{RMSEA} \le .003$，完全满足 $\le .010$ 判据，证实不存在跨性别测量偏倚。（p.12）
 
 > [!example]- 图2：[[Research Literacy Scale for Teachers|RLS]] 一阶四因子模型标准化路径图
@@ -244,7 +247,7 @@ journal: "SAGE Open"
 > [!example]- 图3：RLS 二阶因子结构标准化路径图
 > ![](https://img.mylikemie.icu/sources/Kazanci_Tinmaz_Sezgin_2023_SO/figures/Kazanci_Tinmaz_Sezgin_2023_SO_Fig3_Second_Order_Model.jpg)
 
-> [!ref-table]- 表3：[[Confirmatory Factor Analysis|验证性因子分析]]模型拟合指数对比（N=258）
+> [!ref-table]- 表3：[[Confirmatory Factor Analysis|验证性因子分析]]模型拟合指数体系对比（N=258）
 >
 > | 模型设定 | $\chi^2(df)$ | $\chi^2/df$ | RMSEA | SRMR | NNFI | CFI | 模型判定 |
 > |---|---|---|---|---|---|---|---|
@@ -362,8 +365,8 @@ journal: "SAGE Open"
 
 > [!stat-cards]- 核心数据
 > - **$62.602\%$** EFA 4 因子解释的总方差（技能 $46.90\%$，态度 $7.20\%$，使用 $4.60\%$，意识 $3.80\%$）。（p.6）
-> - **$\a\alpha = .94, \omega = .95$** 20 题 RLS 总量表的 Cronbach's $\a\alpha$ 与 McDonald's $\omega$ 复合[[Reliability|信度]]。（p.11）
-> - **$\chi^2/df = 1.94, \text{CFI} = 0.94, \text{RMSEA} = 0.060$** 一阶四因子修正模型的 [[Confirmatory Factor Analysis|CFA]] 拟合参数。（p.9）
+> - **$\a\alpha = .94, \omega = .95$** 20 题 RLS 总量表的 Cronbach's $\a\alpha$ 与 [[McDonald's Omega|McDonald's ω]] 复合[[Reliability|信度]]。（p.11）
+> - **$\chi^2/df = 1.94, \text{[[Model Fit Indices in SEM and CFA|CFI]]} = 0.94, \text{RMSEA} = 0.060$** 一阶四因子修正模型的 [[Confirmatory Factor Analysis|CFA]] 拟合参数。（p.9）
 > - **$\Delta\text{CFI} \le .003, \Delta\text{RMSEA} \le .003$** 跨性别严格等值性检验指标。（p.12）
 > - **$\eta^2 = .056$ 与 $\eta^2 = .046$** 开展科研对技能、追踪期刊对使用的最大[[Analysis of Variance|方差分析]]主效应。（p.13）
 

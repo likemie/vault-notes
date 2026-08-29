@@ -12,9 +12,9 @@ summary: "在心理学与教育学中开发和验证测量不可直接观测潜�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 44
-method_related_level: 5
-method_related_stars: "⭐⭐⭐⭐⭐"
+method_related_count: 50
+method_related_level: 6
+method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/quantitative
@@ -47,6 +47,7 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Domain Specificity]]"
   - "[[Common Method Variance]]"
+  - "[[Hypothesis]]"
 related_theories:
   - "[[Classical Test Theory]]"
   - "[[Item Response Theory]]"
@@ -62,6 +63,11 @@ related_methods:
   - "[[Multivariate Analysis of Variance]]"
   - "[[Imputation Methods]]"
   - "[[Pilot Testing]]"
+  - "[[Model Fit Indices in SEM and CFA]]"
+  - "[[KMO and Bartlett's Test of Sphericity]]"
+  - "[[Cronbach's Alpha]]"
+  - "[[McDonald's Omega]]"
+  - "[[Causal Modeling]]"
 related_instruments:
   - "[[Research Literacy Scale for Teachers]]"
   - "[[Confidence Teaching TOK Scale]]"
@@ -73,7 +79,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-08-28
+updated: 2026-08-29
 ---
 
 # Scale Development
@@ -122,7 +128,7 @@ updated: 2026-08-28
 > 3. **专家[[Content Validity|内容效度]]评审与认知访谈** 邀请 5–10 位专家计算 [[Content Validity Index|内容效度指数]]（CVI） 与 CVR，结合 10–20 位目标被试的[[Pilot Testing|预测试]]完成题池初审。
 > 4. **样本 1 施测与[[Item Analysis|项目分析]]初筛** 在样本 1（$N \ge 300$）中施测，计算矫正题总相关（剔除 $r < .30$），执行极端分组 $t$ 检验。
 > 5. **[[Exploratory Factor Analysis|探索性因子分析]]（EFA）与维度提炼** 检验 KMO 与 Bartlett 球形检验，采用主轴因子提取法（PAF）与方差最大正交旋转，依据载荷 $> .32$ 且跨载荷差 $> .10$ 精简题项。
-> 6. **独立样本 2 施测与[[Confirmatory Factor Analysis|验证性因子分析]]（CFA）** 收集独立样本 2（$N \ge 200\sim300$），拟合并对比单因子、一阶多因子与二阶因子模型，评估拟合指数（$\chi^2/df, \text{RMSEA}, \text{CFI}$）。
+> 6. **独立样本 2 施测与[[Confirmatory Factor Analysis|验证性因子分析]]（CFA）** 收集独立样本 2（$N \ge 200\sim300$），拟合并对比单因子、一阶多因子与二阶因子模型，评估拟合指数（$\chi^2/df, \text{[[Model Fit Indices in SEM and CFA|RMSEA]]}, \text{CFI}$）。
 > 7. **[[Construct Validity|构念效度]]与[[Composite Reliability|复合信度]]电池检验** 计算各因子的[[Average Variance Extracted|平均方差抽取量]]（AVE $\ge .50$）与组合[[Reliability|信度]]（CR $\ge .70$），验证 Fornell-Larcker [[Convergent and Discriminant Validity|区分效度]]准则，报告 Cronbach's $\alpha$ 与 McDonald's $\omega$。
 > 8. **跨群体[[Measurement Invariance|多组测量等值性]]检验与实证应用** 阶梯检验形态、弱、强与严格等值性（$|\Delta\text{CFI}| \le .010$），结合[[Analysis of Variance|方差分析]]（[[Multivariate Analysis of Variance|MANOVA]]）探索背景[[Variable|变量]]的赋能效应。
 
@@ -170,7 +176,8 @@ flowchart LR
 > | 统计方法/工具条目 | 方法定位与角色 | 解决的核心问题与痛点 | 判断标准与决策阈值 | 深度条目索引 |
 > |:---|:---|:---|:---|:---|
 > | **[[Item Analysis\|项目分析（Item Analysis）]]** | **题项质量统计初筛** | 解决题项区分度低下、与总分脱节或分布极度偏态的问题，在因子分析前净化题池。 | 筛选红线：矫正题总相关 **$r_{\text{it}} \ge .30$**；高低 27% 极端分组决断值 $t$ 检验达极显著水平（$p < .001$）。 | 🔗 [[Item Analysis]] |
-> | **[[Exploratory Factor Analysis\|探索性因子分析（EFA）]]** | **潜在维度结构探索与精简** | 解决观测[[Variable\|变量]]高维冗余问题，通过方差分解提炼出最具解释力的潜变量结构。 | 判定准则：KMO $> .80$，Bartlett 球形检验 $p < .001$；依据特征值 $> 1$、碎石图与平行分析确定因子；载荷 **$> .32$** 且跨载荷差值 **$> .10$**。 | 🔗 [[Exploratory Factor Analysis]] |
+> | **[[KMO and Bartlett's Test of Sphericity\|KMO与巴特利特球形检验]]** | **因子分解前置适宜性诊断** | 解决数据是否具备公因子提取与降维合法性的前提判定问题。 | 判定红线：**$\text{KMO} \ge .80$**（优秀），Bartlett 球形度检验极显著（**$p < .001$**）。 | 🔗 [[KMO and Bartlett's Test of Sphericity]] |
+> | **[[Exploratory Factor Analysis\|探索性因子分析（EFA）]]** | **潜在维度结构探索与精简** | 解决观测[[Variable\|变量]]高维冗余问题，通过方差分解提炼出最具解释力的潜变量结构。 | 判定准则：KMO $> .80$，Bartlett 检验 $p < .001$；依据特征值 $> 1$、碎石图与平行分析确定因子；载荷 **$> .32$** 且跨载荷差值 **$> .10$**。 | 🔗 [[Exploratory Factor Analysis]] |
 
 > [!proc] 阶段二核心操作规程与因子提炼步骤
 > 1. **样本 1 施测与项目分析初筛** 在样本 1（$N \ge 300$）中施测，计算矫正题总相关（剔除 $r_{\text{it}} < .30$），执行前 27% 与后 27% 极端分组决断值独立样本 $t$ 检验（淘汰 $p \ge .05$ 题项）。
@@ -194,9 +201,12 @@ flowchart LR
 > [!contrast-table] 阶段三核心方法与工具矩阵
 > | 统计方法/工具条目 | 方法定位与角色 | 解决的核心问题与痛点 | 判断标准与决策阈值 | 深度条目索引 |
 > |:---|:---|:---|:---|:---|
-> | **[[Confirmatory Factor Analysis\|验证性因子分析（CFA）]]** | **理论模型拟合确证** | 检验 EFA 探索出的因子结构是否能在独立新样本中稳定复现，对比竞争模型并检验高阶二阶构念。 | 拟合优良标准：$\chi^2/df < 3.0$，**$\text{RMSEA} < 0.08$**（优选 $< 0.06$），**$\text{SRMR} < 0.08$**，**$\text{CFI} \ge 0.90$**，**$\text{TLI/NNFI} \ge 0.90$**。 | 🔗 [[Confirmatory Factor Analysis]] |
+> | **[[Confirmatory Factor Analysis\|验证性因子分析（CFA）]]** | **理论模型拟合确证** | 检验 EFA 探索出的因子结构是否能在独立新样本中稳定复现，对比竞争模型并检验高阶二阶构念。 | 拟合优良标准：$\chi^2/df < 3.0$，**$\text{RMSEA} < 0.08$**（优选 $< 0.06$），**$\text{SRMR} < 0.08$**，**$\text{CFI} \ge 0.90$**，**$\text{TLI} \ge 0.90$**。 | 🔗 [[Confirmatory Factor Analysis]] |
+> | **[[Model Fit Indices in SEM and CFA\|结构方程拟合指数体系]]** | **多维模型适配度量化判定** | 提供绝对拟合（$\chi^2/df, \text{RMSEA}, \text{SRMR}$）与增量拟合（$\text{CFI}, \text{TLI}$）的综合决策标准。 | Hu & Bentler 准则：**$\text{CFI} \ge .95$**，**$\text{TLI} \ge .95$**，**$\text{RMSEA} \le .06$**，**$\text{SRMR} \le .08$**。 | 🔗 [[Model Fit Indices in SEM and CFA]] |
+> | **[[Cronbach's Alpha\|克隆巴赫 α 系数]]** | **经典测量[[Internal Consistency\|内部一致性]]基准** | 评估量表各题项在同质性测量中的一致性，提供基线信度参考。 | 决策阈值：**$\alpha \ge .70$**（可接受），**$\alpha \ge .80$**（良好），**$\alpha \ge .90$**（卓越）。 | 🔗 [[Cronbach's Alpha]] |
+> | **[[McDonald's Omega\|麦克唐纳 ω 系数]]** | **现代潜变量内部一致性首选** | 突破等载荷假设，精准估计异质载荷下的总信度（$\omega_t$）与分层信度（$\omega_h$）。 | 决策阈值：**$\omega_t \ge .70$**，若作为单维合成总分要求 **$\omega_h \ge .80$**。 | 🔗 [[McDonald's Omega]] |
 > | **[[Average Variance Extracted\|平均方差抽取量（AVE）]]** | **收敛与[[Convergent and Discriminant Validity\|区分效度]]判定标准** | 解决传统方法无法量化潜变量真实解释变异比例的痛点，提供 Fornell-Larcker 区分效度基准。 | 收敛标准：**$\text{AVE} \ge .50$**；区分标准：各因子 $\text{AVE}_j > r_{jk}^2$（或 $\sqrt{\text{AVE}_j} > |r_{jk}|$）。 | 🔗 [[Average Variance Extracted]] |
-> | **[[Composite Reliability\|组合信度（CR）]]** | **现代潜变量[[Internal Consistency\|内部一致性]]指标** | 解决 Cronbach's $\alpha$ 强求等载荷假设导致信度系统性低估的缺陷，提供无偏合成信度估计。 | 决策阈值：**$\text{CR} \ge .70$**（探索性研究 $\ge .60$，高精度要求 $\ge .80$）。 | 🔗 [[Composite Reliability]] |
+> | **[[Composite Reliability\|组合信度（CR）]]** | **结构方程潜变量合成信度** | 基于 CFA 标准化载荷直接计算潜变量合成信度，克服 $\alpha$ 低估缺陷。 | 决策阈值：**$\text{CR} \ge .70$**（探索性研究 $\ge .60$，高精度要求 $\ge .80$）。 | 🔗 [[Composite Reliability]] |
 > | **[[Measurement Invariance\|多组测量等值性（MI / MG-CFA）]]** | **跨组可比性与测量偏倚检验** | 解决量表在不同子群体（如性别、文化、年龄）中是否存在测量偏差、是否允许直接跨组比较均值的合法性问题。 | Cheung & Rensvold / Chen 准则：形态 $\to$ 弱 $\to$ 强 $\to$ 严格四阶递进，满足 **$|\Delta\text{CFI}| \le .010$** 且 **$\Delta\text{RMSEA} \le .015$**。 | 🔗 [[Measurement Invariance]] |
 
 > [!proc] 阶段三核心操作规程与高级验证步骤
@@ -301,7 +311,7 @@ flowchart LR
 > 1. **样本割裂与过拟合风险** 严禁在同一数据集上既跑 [[Exploratory Factor Analysis|EFA]] 又跑 [[Confirmatory Factor Analysis|CFA]]；若未采集独立新样本进行跨样本确证，提炼出的因子结构极易受到特定样本随机噪声的污染（Sample Overfitting）。
 > 2. **修正指数（MI）滥用风险** 严禁盲目依据修正指数释放无关题项的残差协方差（Error Covariance）以机械凑出优良拟合，任何协方差释放必须具有充分的理论依据或语义重叠支持。
 > 3. **同源方法变异（[[Common Method Variance|CMV]]）** 自陈量表容易受社会赞许性、中心化趋势与共同方法偏差影响，建议在设计阶段采用匿名施测、反向题混排或多来源数据互证。
-> 4. **等值性检验过度拒绝** 在大样本下避免仅依赖 $\Delta\chi^2$ 差异检验，应全面依据 $|\Delta\text{CFI}| \le .010$ 与 $\Delta\text{RMSEA} \le .015$ 进行稳健判据。
+> 4. **等值性检验过度拒绝** 在大样本下避免仅依赖 $\Delta\chi^2$ 差异检验，应全面依据 $|\Delta\text{[[Model Fit Indices in SEM and CFA|CFI]]}| \le .010$ 与 $\Delta\text{RMSEA} \le .015$ 进行稳健判据。
 
 ---
 
@@ -315,10 +325,14 @@ flowchart LR
 > | [[Construct Validity]] | 理论概念 | 量表编制追求的核心效度目标，统摄内容、结构、收敛与[[Convergent and Discriminant Validity\|区分效度]]。 |
 > | [[Content Validity Index]] | 工具/方法 | 阶段一用于量化同行专家对初始题池[[Content Validity\|内容效度]]评定的核心工具。 |
 > | [[Item Analysis]] | 前置方法 | 阶段二用于检验题项区分度与题总相关以净化题池的初筛方法。 |
+> | [[KMO and Bartlett's Test of Sphericity]] | 诊断方法 | 阶段二用于检验观测数据是否具备因子降维分解适宜性的前置诊断体系。 |
 > | [[Exploratory Factor Analysis]] | 核心方法 | 阶段二用于精简题项、发现并提炼潜在因子维度的核心统计技术。 |
 > | [[Confirmatory Factor Analysis]] | 核心方法 | 阶段三用于在新独立样本中确证因子模型与高阶结构的验证性工具。 |
+> | [[Model Fit Indices in SEM and CFA]] | 评估指标 | 阶段三用于量化 CFA/[[Causal Modeling\|SEM]] 模型与数据吻合度的多维拟合指数（CFI/TLI/RMSEA/SRMR）。 |
+> | [[Cronbach's Alpha]] | 评估指标 | 阶段三用于度量测验[[Internal Consistency\|内部一致性]]的经典信度指标。 |
+> | [[McDonald's Omega]] | 评估指标 | 阶段三用于突破等载荷[[Hypothesis\|假设]]、精确估计潜[[Variable\|变量]]合成[[Reliability\|信度]]与分层信度的现代指标。 |
 > | [[Average Variance Extracted]] | 评估指标 | 阶段三用于量化潜[[Variable\|变量]]收敛效度与 Fornell-Larcker 区分效度的指标。 |
-> | [[Composite Reliability]] | 评估指标 | 阶段三用于克服 Alpha 缺陷、精确估计潜变量[[Internal Consistency\|内部一致性]]的现代信度指标。 |
+> | [[Composite Reliability]] | 评估指标 | 阶段三用于结构方程模型中精确估计潜变量[[Internal Consistency\|内部一致性]]的合成信度指标。 |
 > | [[Measurement Invariance]] | 高级方法 | 阶段三用于确立测量工具跨群体（如性别、文化）[[External Validity\|可推广性]]的等值性检验方法。 |
 > | [[Research Literacy Scale for Teachers]] | 测量工具 | 严格践行量表编制八步规范与心理测量学验证的典范测量工具。 |
 > | [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] | 论证[[Document\|文献]] | 提供量表编制全流程实证数据与心理测量指标报告的代表论文。 |

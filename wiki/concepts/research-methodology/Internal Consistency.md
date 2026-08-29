@@ -2,14 +2,12 @@
 title: Internal Consistency
 aliases:
   - 内部一致性
-  - Cronbach alpha
-  - Cronbach α
-  - 克隆巴赫系数
+  - 内部一致性信度
   - internal consistency reliability
 summary: "信度作为内部一致性的形式，衡量多项目量表中各条目测量同一底层构念的程度，通过半分法与Spearman-Brown公式或Cronbach alpha量化，后者等效于所有可能半分方式的Spearman-Brown校正值的平均值"
 type: concept
 domain: "research-methodology"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -33,12 +31,13 @@ related_concepts:
 related_methods:
   - "[[Survey Research]]"
   - "[[Scale Development]]"
+  - "[[Cronbach's Alpha]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
 status: draft
 created: 2026-05-31
-updated: 2026-06-23
+updated: 2026-08-29
 ---
 # Internal Consistency
 
@@ -71,7 +70,7 @@ updated: 2026-06-23
 > | **核心问题** | 条目是否一致地测量同一[[Construct\|构念]]？ | 测量在不同时间是否稳定？ | 不同评分者是否一致？ |
 > | **施测次数** | 一次 | 两次（间隔一定时间） | 一次（但多位评分者） |
 > | **偏差来源** | 条目之间的[[Heterogeneity\|异质性]] | 时间带来的变化 | 评分者之间的主观差异 |
-> | **典型指标** | Cronbach's α、Spearman-Brown | 前[[Pre-test and Post-test\|后测]]相关系数 | Cohen's κ、Fleiss' κ、ICC |
+> | **典型指标** | [[Cronbach's Alpha\|Cronbach's α]]、Spearman-Brown | 前[[Pre-test and Post-test\|后测]]相关系数 | Cohen's κ、Fleiss' κ、ICC |
 > | **[[Reliability\|信度]]类型** | 内部一致性 | 稳定性 | 等值性 |
 
 ---
@@ -103,7 +102,7 @@ updated: 2026-06-23
 
 ### Cronbach's Alpha
 
-Cronbach alpha 是内部一致性最常用的量化指标，提供了**跨项目相关**的系数——即每个项目与所有其他相关项目之和的相关。与半分法不同，alpha 不需要将测试分成两半：它**等效于所有可能半分方式的 Spearman-Brown 校正值的平均值（p.203）**。
+[[Cronbach's Alpha|Cronbach alpha]] 是内部一致性最常用的量化指标，提供了**跨项目相关**的系数——即每个项目与所有其他相关项目之和的相关。与半分法不同，alpha 不需要将测试分成两半：它**等效于所有可能半分方式的 Spearman-Brown 校正值的平均值（p.203）**。
 
 > [!formula-step] Cronbach's Alpha 公式
 > $$

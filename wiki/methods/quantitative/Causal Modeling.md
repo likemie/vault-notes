@@ -8,7 +8,7 @@ summary: "通过结构方程等统计模型表示变量之间因果路径并同�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 29
+method_related_count: 30
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -39,6 +39,7 @@ related_concepts:
 related_theories:
   - "[[Potential Outcomes Framework]]"
 related_methods:
+  - "[[Model Fit Indices in SEM and CFA]]"
   - "[[Multiple Regression]]"
   - "[[Matching]]"
   - "[[Coding in Qualitative Research]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-03
-updated: 2026-08-19
+updated: 2026-08-29
 ---
 
 # Causal Modeling
@@ -69,7 +70,7 @@ updated: 2026-08-19
 > - **研究对象**[[Variable|变量]]之间的因果路径和结构关系，通常基于理论[[Hypothesis|假设]]构建模型。
 > - **问题类型** 适合检验理论驱动的因果结构——"这些变量之间的因果方向、中介路径和效应强度是怎样的？"可用于分析直接效应、间接效应和总效应。
 > - **分析单位** 个体、群体或组织层面的观察数据。
-> - **输出形式** 路径系数、模型拟合指数、直接效应与间接效应估计、总效应分解。
+> - **输出形式** 路径系数、[[Model Fit Indices in SEM and CFA|模型拟合指数]]、直接效应与间接效应估计、总效应分解。
 
 > [!citation-card]- 关键定义
 > Its aim is to impose on an observational study a model of how nature generated the data and then from the data, to estimate the values of the parameters nature employed. [[Argument_Berk_2011_ER|(Berk, 2011, p.196)]]
@@ -81,7 +82,7 @@ updated: 2026-08-19
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观**因果建模隐含一种强[[Hypothesis|假设]]——研究者可以通过统计模型捕捉数据生成过程的结构性特征。这与[[Potential Outcomes Framework|潜在结果框架]]形成对比——后者从假设性比较出发定义因果效应，而非从模型假设出发估计因果参数。[[Argument_Berk_2011_ER|Berk (2011, p.196)]] 认为因果建模对[[Evaluation Research|评估研究]]的影响"最好说是好坏参半的"（mixed at best）。
 > - **研究者角色** 研究者基于理论构建模型结构（指定[[Variable|变量]]间的因果路径和方向），然后从数据中估计参数。研究者的理论判断决定了模型的形式——模型的力量不可能强大过支撑它的因果假设。
-> - **有效性标准** 模型拟合优度（CFI、RMSEA、SRMR 等）、路径系数的[[Statistical Significance|统计显著性]]、理论模型与竞争模型的比较。但模型拟合良好不等于因果结构正确——"模型'足够接近正确'与模型'不正确'之间没有明确的经验界限"（[[Argument_Berk_2011_ER|Berk, 2011, p.197]]）。
+> - **有效性标准** 模型拟合优度（[[Model Fit Indices in SEM and CFA|CFI]]、RMSEA、SRMR 等）、路径系数的[[Statistical Significance|统计显著性]]、理论模型与竞争模型的比较。但模型拟合良好不等于因果结构正确——"模型'足够接近正确'与模型'不正确'之间没有明确的经验界限"（[[Argument_Berk_2011_ER|Berk, 2011, p.197]]）。
 > - **不声称回答的问题** 因果建模本身不能证明因果方向——它只能检验预设的因果结构是否与数据一致。它不能替代随机实验来确立[[Causality|因果关系]]。统计工具"可能只是强化已有假设和模型而非识别实际因果性"（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, p. 71]]）。
 
 ---

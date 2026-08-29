@@ -10,7 +10,7 @@ title: "Argument_Ross_Morrison_2021_ROE"
 argument_key: "Argument_Ross_Morrison_2021_ROE"
 argument_display_title: "Achieving better educational practices through research evidence: A critical analysis and case illustration of benefits and challenges"
 argument_kind: "journal-article"
-argument_related_count: 27
+argument_related_count: 28
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -49,6 +49,7 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Experimental Research]]"
+  - "[[Cronbach's Alpha]]"
 related_persons: []
 related_facts:
   - "[[No Child Left Behind Act 2001]]"
@@ -183,7 +184,7 @@ citation_aliases:
 
 > [!info]- 核心数据
 > - STAT 教师[[Questionnaire|问卷]]在 2016、2017、2018 年秋季分别有 2,209、1,798、1,901 名教师回应(p.116)。
-> - 课堂观察覆盖 2014 年秋至 2019 年春，单次观察约 20 分钟；观察工具总体评分者一致性 Cronbach's alpha 为 .972(p.117)。
+> - 课堂观察覆盖 2014 年秋至 2019 年春，单次观察约 20 分钟；观察工具总体评分者一致性 [[Cronbach's Alpha]] 为 .972(p.117)。
 > - 141 项大型教育 [[Randomised Controlled Trials|RCT]] 的平均成就效应量仅为 .06 SD，且只有 23% 的效应显著大于零，这说明即使最严格的设计也常给出很小或不显著的成就结果(p.112)。
 
 ## 关键引用
