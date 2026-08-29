@@ -420,7 +420,7 @@ updated: 2026-08-24
 > | 条目 | 类型 | 关联方向 | 说明 |
 > |:-----|:-----|:---------|:-----|
 > | [[Effect Size Conversion]] | 方法 | 核心计算 | 解决跨研究设计与不同统计量之间的标准化数学换算。 |
-> | [[Critique of Effect Size]] | 概念 | 理论批评 | 剖析效应量跨研究聚合与政策排名中的方法学与[[Epistemology\|认识论]]争议。 |
+> | [[Critique of Effect Size]] | 概念 | 理论批评 | 剖析效应量跨研究聚合与政策排名中的方法学与[[Epistemology|认识论]]争议。 |
 > | [[Meta-analysis]] | 方法 | 应用场景 | 效应量是元分析合成证据的核心统计单位。 |
 > | [[Visible Learning]] | 概念 | 政策应用 | Hattie 采用效应量对教育干预进行全球排名。 |
 > | [[EEF Teaching and Learning Toolkit]] | 事实 | 证据工具 | 将效应量转换为额外学习月数的循证决策工具。 |

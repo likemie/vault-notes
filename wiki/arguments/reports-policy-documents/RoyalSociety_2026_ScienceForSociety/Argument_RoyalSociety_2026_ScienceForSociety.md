@@ -99,9 +99,9 @@ updated: 2026-08-23
 > [!framework-table] 全书五大核心[[Research Question|研究问题]]矩阵
 > | 问题维度 | 核心探讨问题 | 对应报告章节 |
 > |---|---|---|
-> | **宏观历史演进** | 40 年间科学传播范式如何从单向灌输的[[Deficit Model of Science Communication\|赤字模型]]演变为双向平权的[[Public Engagement with Science\|公众科学参与]]？（pp. 4–10） | 引言、执行摘要 |
-> | **公众态度与信任** | 现代公众如何看待科学的价值与风险？其对双向[[Dialogue in Education\|对话]]的诉求与对科学获取公平性的担忧何在？（pp. 9–13） | 导论、Ch. 2（非正式参与）、Ch. 3（媒体） |
-> | **人才与素养根基** | 基础教育如何培养兼具科学本质理解、[[Data Literacy\|数据素养]]与 AI 素养的未来公民，遏制实验探究萎缩与学科狭隘化？（pp. 29–40） | Ch. 1（教育） |
+> | **宏观历史演进** | 40 年间科学传播范式如何从单向灌输的[[Deficit Model of Science Communication|赤字模型]]演变为双向平权的[[Public Engagement with Science|公众科学参与]]？（pp. 4–10） | 引言、执行摘要 |
+> | **公众态度与信任** | 现代公众如何看待科学的价值与风险？其对双向[[Dialogue in Education|对话]]的诉求与对科学获取公平性的担忧何在？（pp. 9–13） | 导论、Ch. 2（非正式参与）、Ch. 3（媒体） |
+> | **人才与素养根基** | 基础教育如何培养兼具科学本质理解、[[Data Literacy|数据素养]]与 AI 素养的未来公民，遏制实验探究萎缩与学科狭隘化？（pp. 29–40） | Ch. 1（教育） |
 > | **信息生态与治理** | 数字算法、社交媒体与生成式 AI 如何重构公众认知？科学界如何构建抵御虚假信息的免疫防线？（pp. 11–13, 55–66） | Ch. 3（大众传媒与虚假信息） |
 > | **制度机制与全生命周期** | 大学考评体制、科研经费与职业保障如何消除阻碍，使科研人员投身公众参与获得实质支持与认可？（pp. 14–15, 91–106） | Ch. 4（产业/第三部门）、Ch. 5（政策）、Ch. 6（学术界） |
 
@@ -180,8 +180,8 @@ updated: 2026-08-23
 > [!textbook-overview] 章节概览表
 > | 章节 | 论证核心与主张 | 主要关联条目 |
 > |---|---|---|
-> | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|第1章 学校科学教育]] | 阐明科学教育作为公民科学素养与人才管道的基石，破除[[Rote Learning\|死记硬背]]公式，应对实验动手课时腰斩危机，破除高中过早文理分科并赋权科学师资。 | [[Scientific Literacy]]、[[Data Literacy]]、[[AI Literacy]]、[[Practical Inquiry in Science Education]]、[[Science Capital]]、[[Beyond 2000 Report]]、[[Twenty First Century Science]]、[[UK Science Education Tracker]] |
-> | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|第2章 校外科学参与]] | 确立非正式科学作为维系繁荣社会的必备文化基建，诊断 PAS 2025 信息渴求与决策边缘化落差，依托资产下沉与公民科学打破自选壁垒，化解场馆生存危机并建立国家长期队列追踪。 | [[Informal Science Learning]]、[[Citizen Science]]、[[Public Engagement with Science]]、[[Association for Science and Discovery Centres]]、[[Public Attitudes to Science]]、[[Dippy on Tour]]、[[Big Butterfly Count]]、[[The Perception Census]]、[[Cohort Study]] |
+> | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|第1章 学校科学教育]] | 阐明科学教育作为公民科学素养与人才管道的基石，破除[[Rote Learning|死记硬背]]公式，应对实验动手课时腰斩危机，破除高中过早文理分科并赋权科学师资。 | [[Scientific Literacy]]、[[Data Literacy]]、[[AI Literacy]]、[[Practical Inquiry in Science Education]]、[[Science Capital]]、[[Beyond 2000 Report]]、[[Twenty First Century Science]]、[[UK Science Education Tracker]] |
+> | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|第2章 校外科学参与]] | 确立非正式科学作为维系繁荣社会的必备文化基建，诊断 PAS 2025 信息渴求与决策边缘化落差，依托资产下沉与公民科学打破自选壁垒，化解场馆生存危机并建立国家长期队列追踪。 | [[Informal Science Learning]]、[[Citizen Science]]、[[Public Engagement with Science]]、[[Association for Science and Discovery Centres]]、[[Public Attitudes to Science]]、[[Dippy on Tour]]、[[Big Butterfly Count]]、[[The Perception Census]]、[[Cohort Study]] |
 
 ---
 

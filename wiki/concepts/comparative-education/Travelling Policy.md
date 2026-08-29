@@ -74,12 +74,12 @@ updated: 2026-07-11
 ## 概念辨析
 
 > [!contrast-table] 关键转移机制对照表
-> | 维度 | Travelling Policy (旅途政策) | [[Policy Borrowing\|Policy Borrowing (政策借用)]] | [[Transfer Translation Transformation\|3T 框架 (Cowen)]] |
+> | 维度 | Travelling Policy (旅途政策) | [[Policy Borrowing|Policy Borrowing (政策借用)]] | [[Transfer Translation Transformation|3T 框架 (Cowen)]] |
 > |------|----------------------------|-------------------------------------------------|----------------------------------------------------|
-> | **流动路径** | [[Snowball Sampling\|网络化]]、多边、非线性、无固定源头。 | 双边、线性、有明确的源头与目的地。 | 跨境移动（转移）后在目的地转译与转化。 |
-> | **空间[[Hypothesis\|假设]]** | **[[Global Policy Space\|全球政策空间]]**/流动的空间。 | 国家间独立地理实体边界。 | 领土物理空间与社会空间叠合。 |
+> | **流动路径** | [[Snowball Sampling|网络化]]、多边、非线性、无固定源头。 | 双边、线性、有明确的源头与目的地。 | 跨境移动（转移）后在目的地转译与转化。 |
+> | **空间[[Hypothesis|假设]]** | **[[Global Policy Space|全球政策空间]]**/流动的空间。 | 国家间独立地理实体边界。 | 领土物理空间与社会空间叠合。 |
 > | **核心机制** | 全球流动话语的多维循环与网格转译。 | 寻求外部“方案”来解决国内“问题”。 | 政策在结构性社会挤压下的“变形”。 |
-> | **代表学者** | Ozga & Jones (2006); Steiner-Khamsi (2012)。 | Phillips & Ochs (2003)。 | [[Argument_Cowen_2009_CE\|Cowen (2009)]]; [[Argument_Beech_2009_CE\|Beech (2009)]]。 |
+> | **代表学者** | Ozga & Jones (2006); Steiner-Khamsi (2012)。 | Phillips & Ochs (2003)。 | [[Argument_Cowen_2009_CE|Cowen (2009)]]; [[Argument_Beech_2009_CE|Beech (2009)]]。 |
 
 ---
 

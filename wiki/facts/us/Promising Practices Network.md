@@ -104,7 +104,7 @@ updated: 2026-08-21
 > | 评级等级 | 核心准入条件与方法学门槛 |
 > |:---|:---|
 > | **Proven Programs（已证实项目·最高级）** | 至少拥有 **1 项高质量 RCT 或具有严格匹配组的高质量 QED**；<br>🔴 **样本量门槛** 总样本量必须大于 100 人（N > 100）；<br>🔴 **效应量门槛** 至少在一个主要结果指标上达到 **ES ≥ 0.25 SD 且 p < 0.05**；<br>🔴 **实质成果** 必须呈现实质性、有意义的长期或中期改善。 |
-> | **Promised Programs（有前景项目）** | 拥有 1 项[[Sample Size Determination\|样本量]]较小或[[Quasi-Experimental Designs\|准实验设计]]的正向研究，结果统计显著但未完全达到 Proven 的严苛量化标准。 |
+> | **Promised Programs（有前景项目）** | 拥有 1 项[[Sample Size Determination|样本量]]较小或[[Quasi-Experimental Designs|准实验设计]]的正向研究，结果统计显著但未完全达到 Proven 的严苛量化标准。 |
 > | **Other Reviewed Programs** | 经审查未达到上述标准的其他干预项目。 |
 
 ---

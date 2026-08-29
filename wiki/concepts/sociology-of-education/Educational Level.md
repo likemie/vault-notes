@@ -52,9 +52,9 @@ updated: 2026-08-15
 > [!ref-table]- 其他实证结果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Greene_2010_JEP\|Greene et al. (2010)]] | 740名美国中学生至研究生 | [[Questionnaire\|问卷调查]]（[[Multinomial Logistic Regression\|多项逻辑回归]]） | 受教育年限（连续变量） | 受教育水平的增加会显著降低学生被归入初级“[[Realism in International Relations\|现实主义]]”认知类群（Class 1）的几率（相对于较高阶的 Class 2，OR = 0.496）。 | $p < .01$ | 提供了随教育年限增长、学生[[Epistemological Beliefs\|认识论信念]]自然向高阶发展的强有力证据。 |
+> | [[Argument_Greene_2010_JEP|Greene et al. (2010)]] | 740名美国中学生至研究生 | [[Questionnaire|问卷调查]]（[[Multinomial Logistic Regression|多项逻辑回归]]） | 受教育年限（连续变量） | 受教育水平的增加会显著降低学生被归入初级“[[Realism in International Relations|现实主义]]”认知类群（Class 1）的几率（相对于较高阶的 Class 2，OR = 0.496）。 | $p < .01$ | 提供了随教育年限增长、学生[[Epistemological Beliefs|认识论信念]]自然向高阶发展的强有力证据。 |
 
 ---
 

@@ -81,10 +81,10 @@ updated: '2026-08-27'
 ## 概念辨析
 
 > [!contrast-table] 教育目的论辨析
-> | 维度 | 教化（Bildung） | [[Visible Learning\|可见的学习（Visible Learning, VL）]] | [[Learnification\|学习化（Learnification）]] |
+> | 维度 | 教化（Bildung） | [[Visible Learning|可见的学习（Visible Learning, VL）]] | [[Learnification|学习化（Learnification）]] |
 > |------|--------|----------------|----------------|
 > | **教育目的** | 超越预设指标，指向开放的人格形成 (pp.5-6) | 追求可测量、可见的学习效果最大化 | 强调对结果和学习过程的技术性控制 |
-> | **核心机制** | 个体与世界独立的具身交互与反思 | 以[[Effect Size\|效应量]]对教学干预进行排序 | 将教育关系转化为服务提供者与消费者的关系 |
+> | **核心机制** | 个体与世界独立的具身交互与反思 | 以[[Effect Size|效应量]]对教学干预进行排序 | 将教育关系转化为服务提供者与消费者的关系 |
 > | **未来取向** | 拥抱不可预测、充满探索的未知未来 (p.6) | 预设特定指标，使学习结果标准化 | 简化复杂性，适应已知的劳动力市场需求 |
 
 > [!boundary]- 概念边界与关联
@@ -142,8 +142,8 @@ updated: '2026-08-27'
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **教化目的的自主人格性与开放性** | 强调教化作为非预设人格形成的内在尊严，反对将教育还原为标准化指标 | 批判原子化绩效改革与窄化的职业技能训练 | [[Argument_Larsen_2019_EducSci\|Larsen (2019)]]; Schleiermacher; Hegel |
-> | **教化环境中的反抗与相对独立性** | 强调教化需要维护自主空间以抵抗外部社会规训和数字化算法预测 | 批判高等教育数字化治理中的预测性技术与社会化规训 | [[Argument_Thompson_2022_Promising_Student\|Thompson et al. (2022)]]; [[Argument_Sarbiewska_2019_JSR\|Sarbiewska (2019)]] |
+> | **教化目的的自主人格性与开放性** | 强调教化作为非预设人格形成的内在尊严，反对将教育还原为标准化指标 | 批判原子化绩效改革与窄化的职业技能训练 | [[Argument_Larsen_2019_EducSci|Larsen (2019)]]; Schleiermacher; Hegel |
+> | **教化环境中的反抗与相对独立性** | 强调教化需要维护自主空间以抵抗外部社会规训和数字化算法预测 | 批判高等教育数字化治理中的预测性技术与社会化规训 | [[Argument_Thompson_2022_Promising_Student|Thompson et al. (2022)]]; [[Argument_Sarbiewska_2019_JSR|Sarbiewska (2019)]] |
 
 ---
 

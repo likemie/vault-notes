@@ -82,10 +82,10 @@ updated: 2026-06-29
 > [!ref-table] 关键关联概念
 > | 概念 | 关系说明 |
 > |------|---------|
-> | [[Epistemic Governance\|认识论治理]] | [[Epistemology\|认识论]]殖民描述的是结构性条件（不平等的知识规则系统），认识论治理描述的是这一结构在当代的运作机制（排名、出版、自我[[Disciplina and Doctrina\|规训]]） |
+> | [[Epistemic Governance|认识论治理]] | [[Epistemology|认识论]]殖民描述的是结构性条件（不平等的知识规则系统），认识论治理描述的是这一结构在当代的运作机制（排名、出版、自我[[Disciplina and Doctrina|规训]]） |
 > | 零点傲慢（Hubris of the Zero Point） | 特洛斯坦诺娃对认识论殖民的认知基础的诊断：假定知识可脱离身体与地理背景而具备客观中立性 |
-> | [[Geopolitics of Knowledge\|知识地缘政治]] | 认识论殖民是知识地缘政治中维持西方中心秩序的核心机制之一 |
-> | [[Decolonial Geopolitics of Knowledge\|去殖民知识地缘政治]] | 去殖民知识地缘政治提供了超越认识论殖民的理论方案，主张以去殖民视角反转"我思故我在"为"我在我思之处"（I am where I think） |
+> | [[Geopolitics of Knowledge|知识地缘政治]] | 认识论殖民是知识地缘政治中维持西方中心秩序的核心机制之一 |
+> | [[Decolonial Geopolitics of Knowledge|去殖民知识地缘政治]] | 去殖民知识地缘政治提供了超越认识论殖民的理论方案，主张以去殖民视角反转"我思故我在"为"我在我思之处"（I am where I think） |
 
 ---
 

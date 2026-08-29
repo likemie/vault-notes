@@ -146,9 +146,9 @@ updated: 2026-08-22
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |---|---|
-> | **Campbellian 效度框架**<br>[[Campbellian Validity Framework]] | 从 Campbell & Fiske (1959) 的[[Multitrait-Multimethod Matrix\|多特质-多方法（MTMM）矩阵]]视角出发，将“基于证据”视作教育科学[[Praxis\|实践]]中的[[Construct\|构念]]。不同清算中心（不同测量方法）对同一项目（同一特质）的评级必须高度收敛，[[Reliability\|信度]]与可靠性是[[Construct Validity\|构念效度]]的[[Necessary and Sufficient Conditions\|必要条件]](p. 4)。 |
-> | **循证教育**<br>[[Evidence-Based Education]] | 提供制度与政策背景[[Hypothesis\|假设]]：假设高质量科学证据能够有效识别干预因果效应并支持大规模推广。论文严格区分了科学语境中基于严谨因果标准的 evidence-based 与公共政策语境中宽泛等同于“有正向效果”的 evidence-based。 |
-> | **因果识别与因果估计**<br>[[Causality]] | 区分单项研究的因果推断有效性（[[Internal Validity\|内部效度]]控制、[[Attrition\|流失]]、基线等值）与跨研究因果证据综合的附加条件（外部复制、独立性、时间持久性）(pp. 8–15)。 |
+> | **Campbellian 效度框架**<br>[[Campbellian Validity Framework]] | 从 Campbell & Fiske (1959) 的[[Multitrait-Multimethod Matrix|多特质-多方法（MTMM）矩阵]]视角出发，将“基于证据”视作教育科学[[Praxis|实践]]中的[[Construct|构念]]。不同清算中心（不同测量方法）对同一项目（同一特质）的评级必须高度收敛，[[Reliability|信度]]与可靠性是[[Construct Validity|构念效度]]的[[Necessary and Sufficient Conditions|必要条件]](p. 4)。 |
+> | **循证教育**<br>[[Evidence-Based Education]] | 提供制度与政策背景[[Hypothesis|假设]]：假设高质量科学证据能够有效识别干预因果效应并支持大规模推广。论文严格区分了科学语境中基于严谨因果标准的 evidence-based 与公共政策语境中宽泛等同于“有正向效果”的 evidence-based。 |
+> | **因果识别与因果估计**<br>[[Causality]] | 区分单项研究的因果推断有效性（[[Internal Validity|内部效度]]控制、[[Attrition|流失]]、基线等值）与跨研究因果证据综合的附加条件（外部复制、独立性、时间持久性）(pp. 8–15)。 |
 
 > [!warrant]- 理论如何支撑论证
 > 论文将清算中心视为教育政策生态中的“特质测量工具”：如果各个清算中心对同一项目的有效性评级能够高度收敛（[[Convergent and Discriminant Validity|convergent validity]]），则表明学界与政策界对“何为循证”存在共识性操作定义；反之，若评级离散且最常发生极端冲突（1&3 完全不一致），则说明“基于证据”在[[Operationalization|操作化]]层面缺乏一致意义。理论框架明确了“信度是效度的必要条件”这一逻辑底线，将实证测量的不一致性直接上升为对循证运动制度化实践的构念效度反思(pp. 4, 26–27)。
@@ -161,9 +161,9 @@ updated: 2026-08-22
 > | 模块 | 材料与处理方式 |
 > |---|---|
 > | **清算中心检索与筛选**<br>Comparative Review | 检索美英 43 个候选清算中心，依据三阶段排除标准（是否发布自身评级、是否在线可访问、是否评估 pre-K 至大学教育干预及教育结果）最终确定 12 个教育清算中心(pp. 5–6)。 |
-> | **网站标准系统编码**<br>Systematic Content Coding | 于 2019 年 6 月至 2020 年 8 月全面收集并[[Coding in Qualitative Research\|编码]] 12 个清算中心公开文档与技术手册，涵盖使命领域、目标人群、资金来源、评级对象、单项研究质量标准（涵盖[[Randomised Controlled Trials\|随机对照试验]] [RCT]、[[Quasi-Experimental Designs\|准实验设计]] [Quasi-[[Experimental Research\|experimental design]], QED]、[[Regression Discontinuity Design\|[[Regression Discontinuity Design|断点回归设计（RDD）]]]] 与中断时间序列 [[Time Series Design\|interrupted time series]], ITS] 等评级规则，0–3 级编码）、项目最高评级门槛等维度(pp. 5–15)。 |
-> | **评级一致性量化分析**<br>Descriptive Analysis & Pairwise Consistency | 提取 10 个清算中心共 1,359 个去重教育项目（排除停止运营的[[Promising Practices Network\|前景广阔的实践网络]] [Promising Practices Network, PPN] 与无分层评级的[[Promise Neighborhoods Research Consortium\|承诺社区研究联盟]] [Promise Neighborhoods Research Consortium, PNRC]）。将评级统一转换为三级量表（1=Recommended, 2=Promising, 3=Not Recommended）以及二元有效性指标，计算 2 至 5 个清算中心共同评级时的配对一致性百分比(pp. 16–19)。 |
-> | **典型案例深度比较**<br>Comparative Case Studies | 选取 5 个横跨完全有望、中度一致、中度分歧与完全对立的成熟知名教育干预项目（开放式阅读 [[Open Court Reading]], OCR]、人人成功 [[Success for All]], SFA]、[[Peer-Supported Learning\|同伴互助学习]]策略 [[Peer-Assisted Learning Strategies]], PALS]、量子机会项目 [[Quantum Opportunity Program]], QOP] 以及校内社区 [[Communities in Schools]], [[Community Innovation Survey\|CIS]]）进行微观证据追踪，逐一对比纳入[[Document\|文献]]池、[[Effect Size\|效应量]]估算、设计缺陷判定与评级推导过程(pp. 21–25)。 |
+> | **网站标准系统编码**<br>Systematic Content Coding | 于 2019 年 6 月至 2020 年 8 月全面收集并[[Coding in Qualitative Research|编码]] 12 个清算中心公开文档与技术手册，涵盖使命领域、目标人群、资金来源、评级对象、单项研究质量标准（涵盖[[Randomised Controlled Trials|随机对照试验]] [RCT]、[[Quasi-Experimental Designs|准实验设计]] [Quasi-[[Experimental Research|experimental design]], QED]、[[Regression Discontinuity Design|[[Regression Discontinuity Design|断点回归设计（RDD）]]]] 与中断时间序列 [[Time Series Design|interrupted time series]], ITS] 等评级规则，0–3 级编码）、项目最高评级门槛等维度(pp. 5–15)。 |
+> | **评级一致性量化分析**<br>Descriptive Analysis & Pairwise Consistency | 提取 10 个清算中心共 1,359 个去重教育项目（排除停止运营的[[Promising Practices Network|前景广阔的实践网络]] [Promising Practices Network, PPN] 与无分层评级的[[Promise Neighborhoods Research Consortium|承诺社区研究联盟]] [Promise Neighborhoods Research Consortium, PNRC]）。将评级统一转换为三级量表（1=Recommended, 2=Promising, 3=Not Recommended）以及二元有效性指标，计算 2 至 5 个清算中心共同评级时的配对一致性百分比(pp. 16–19)。 |
+> | **典型案例深度比较**<br>Comparative Case Studies | 选取 5 个横跨完全有望、中度一致、中度分歧与完全对立的成熟知名教育干预项目（开放式阅读 [[Open Court Reading]], OCR]、人人成功 [[Success for All]], SFA]、[[Peer-Supported Learning|同伴互助学习]]策略 [[Peer-Assisted Learning Strategies]], PALS]、量子机会项目 [[Quantum Opportunity Program]], QOP] 以及校内社区 [[Communities in Schools]], [[Community Innovation Survey|CIS]]）进行微观证据追踪，逐一对比纳入[[Document|文献]]池、[[Effect Size|效应量]]估算、设计缺陷判定与评级推导过程(pp. 21–25)。 |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
@@ -201,24 +201,24 @@ updated: 2026-08-22
 > | 排除理由与依据 | 排除数量 | 被排除机构清单（共 19 所） |
 > |:---|:---:|:---|
 > | **不发布有效性评级**<br>主要作为研究资料库或其他社会科学用途 | 8 | California Healthy Kids Resource Center; Center on Knowledge Translation for Disability and Rehabilitation Research; My Brother's Keeper; National Quality Measures Clearinghouse; National Guideline Clearinghouse; Washington State Institute of Public Policy (WSIPP); Out-of-School Time Program Database; United States Interagency Council on Homelessness Solutions Database |
-> | **无法在线访问或已停运**<br>截至 2019 年 5 月已关闭或无法获取标准 | 6 | 美国物质滥用和精神健康服务管理局国家循证项目与[[Praxis\|实践]]登记库（National Registry of Evidence-based Programs and Practices, NREPP SAMHSA）; Social Work Policy Institute; Evidence-based Practices for Substance Abuse; FindYouthInfo.gov; Self-Sufficiency Research Clearinghouse; 培育儿童成功终身干预（Lifecourse Interventions to Nurture Kids Successfully, LINKS） |
+> | **无法在线访问或已停运**<br>截至 2019 年 5 月已关闭或无法获取标准 | 6 | 美国物质滥用和精神健康服务管理局国家循证项目与[[Praxis|实践]]登记库（National Registry of Evidence-based Programs and Practices, NREPP SAMHSA）; Social Work Policy Institute; Evidence-based Practices for Substance Abuse; FindYouthInfo.gov; Self-Sufficiency Research Clearinghouse; 培育儿童成功终身干预（Lifecourse Interventions to Nurture Kids Successfully, LINKS） |
 > | **不进行自身独立评级**<br>仅转载、链接或采纳其他清算中心评级 | 5 | 美国少年司法和预防犯罪办公室示范项目指南（Office of Juvenile Justice and Delinquency Prevention Model Programs Guide, OJJDP）; What Works in Reentry Clearinghouse; Youth.gov; Best Practices Registry for Suicide Prevention; [[Campbell Collaboration]] |
 
 > [!dual-header] Table 2：12 个教育清算中心的制度异质性特征与当前运营状态（可横向拖拽浏览）
 > | 清算中心名称与缩写 (CH) | 主要领域与学科焦点 | 目标人群定位 | 资助性质与归属机构 | 评估对象级别 | 当前运营状态 | 官方网址与最新动态说明 |
 > |:---|:---|:---|:---|:---|:---:|:---|
-> | **[[California Evidence Based Clearinghouse for Child Social and Economic Welfare\|加利福尼亚儿童福利循证清算中心]]**<br>*(California Evidence-Based Clearinghouse for Child Welfare, CEBC)* | **多领域跨界**<br>儿童福利 · 基础教育 · 行为发展 · 身心健康 · 经济福利 | 儿童与家庭 | **公共部门 (Public)**<br>加州社会服务部 (CDSS) | 具名项目 | 🟢 **活跃运营**<br>*(Active)* | [cebc4cw.org](https://www.cebc4cw.org)<br>持续活跃维护，提供儿童福利与教育干预评级数据库。 |
-> | **[[Promising Practices Network\|前景广阔的实践网络]]**<br>*(Promising Practices Network, PPN)* | **多领域跨界**<br>社会与行为发展 · 身心健康 · 基础教育 · 经济福利 | 儿童与家庭 | **非营利组织 (Nonprofit)**<br>兰德公司 (RAND Corporation) | 具名项目 | 🔴 **终止并归档**<br>*(Discontinued)* | [rand.org (TL145)](https://www.rand.org/pubs/tools/TL145.html)<br>兰德于 2014 年结项，网站于 2019 年下线，历史评级收录于免费电子书。 |
-> | **[[Best Evidence Encyclopedia\|最佳证据百科全书]]**<br>*(Best Evidence Encyclopedia, BEE)* | **教育专精**<br>早期读写 · 中小学数学 · 科学教育 · 全校综合改革 | 学前至中小学学生 | **公共资助 (Public)**<br>约翰斯·霍普金斯大学 (JHU CRRE) | 具名项目 | 🟡 **在线·重心迁移**<br>*(Shifted)* | [bestevidence.org](https://www.bestevidence.org)<br>网站作为学术库仍在线；评级主力转向新平台 [Evidence for ESSA](https://www.evidenceforessa.org)。 |
-> | **[[National Dropout Prevention Center\|国家预防辍学中心]]**<br>*(National Dropout Prevention Center, NDPC)* | **教育专精**<br>高危学生辍学预防 · 出勤与学业留存 · 学业促进 | 处于辍学风险的学生 | **非营利组织 (Nonprofit)**<br>Successful Practices Network (SPN) | 具名项目 | 🟢 **活跃运营**<br>*(Active)* | [dropoutprevention.org](https://dropoutprevention.org)<br>持续举办年度全国大会、开展专业培训并维护干预项目库。 |
-> | **[[Social Programs That Work\|行之有效的社会项目]]**<br>*(Social Programs That Work, SPTW)* | **多领域跨界**<br>基础与高等教育 · 全人群健康 · 劳动就业 · 社会福利 | 全体人群 (All) | **非营利组织 (Nonprofit)**<br>阿诺德基金会 (Arnold Ventures) | 具名项目 | 🟡 **活跃·极高准入**<br>*(Selective)* | [evidencebasedprograms.org](https://evidencebasedprograms.org)<br>持续由 Arnold Ventures 团队维护，仅收录顶级 RCT 验证的干预项目。 |
-> | **[[Clearinghouse for Military Family Readiness Continuum of Evidence\|军人家庭准备清算中心]]**<br>*(Clearinghouse for Military Family Readiness, CMFR)* | **多领域跨界**<br>军人子女教育 · 军属身心健康 · 行为准备 · 劳动就业 | 军人家庭及子女 | **公共部门 (Public)**<br>国防部 (DoD) / 农业部 (USDA) / 宾州州立 | 具名项目 | 🟢 **活跃运营**<br>*(Active)* | [militaryfamilies.psu.edu](https://militaryfamilies.psu.edu)<br>持续维护“证据连续体”数据库，与美军各军种及国防部教育处紧密合作。 |
-> | **[[Collaborative for Academic Social and Emotional Learning Guide\|学术、社会与情感学习协作指南]]**<br>*(CASEL Program Guide, CASEL)* | **教育专精**<br>社会情感学习 (SEL) 专项 · 课堂行为与学业整合 | 学前至中小学学生 | **非营利组织 (Nonprofit)**<br>CASEL 协作组织 | 具名项目 | 🟢 **活跃运营**<br>*(Active)* | [pg.casel.org](https://pg.casel.org)<br>持续维护 SEL 项目评级指南并接受新项目准入评审。 |
-> | **[[Blueprints for Healthy Youth Development\|健康青年发展蓝图]]**<br>*(Blueprints for Healthy Youth Development, Blueprints)* | **多领域跨界**<br>青少年行为发展 · 犯罪与暴力预防 · 身心健康 · 学业表现 | 青少年群体 (Youth) | **非营利组织 (Nonprofit)**<br>科罗拉多大学博尔德分校 IBS | 具名项目<br>单项研究 | 🟢 **活跃运营**<br>*(Active)* | [blueprintsprograms.org](https://www.blueprintsprograms.org)<br>持续获联邦 ONDCP 资助，定期更新并认证 Model Plus / Model / Promising 项目。 |
-> | **[[Home Visiting Evidence of Effectiveness\|家访成效证据]]**<br>*(Home Visiting Evidence of Effectiveness, HomVEE)* | **多领域跨界**<br>早期教育 · 妇幼保健 · 亲子互动 · 就学准备 · 家庭经济 | 孕妇家庭及 0–5 岁儿童 | **公共部门 (Public)**<br>卫生与公众服务部 (HHS/ACF) | 具名项目<br>单项研究 | 🟢 **活跃运营**<br>*(Active)* | [homvee.acf.hhs.gov](https://homvee.acf.hhs.gov)<br>联邦官方项目，定期发布早期儿童家访模型的循证审核报告与技术简报。 |
-> | **[[CNCS Evidence Exchange\|国家与社区服务公司证据交流中心]]**<br>*(CNCS EE / 现 AmeriCorps EE)* | **多领域跨界**<br>国民志愿服务 · 社区能力建设 · 青年与退伍军人教育 · 劳动 | 青年、退伍军人、学校、社区 | **公共部门 (Public)**<br>美国国家与社区服务公司 (AmeriCorps) | 项目与具体干预 | 🟢 **活跃运营**<br>*(Active)* | [americorps.gov/evidence-exchange](https://americorps.gov/about/our-impact/evidence-exchange)<br>持续作为联邦资助拨款中评估项目证据力度的核心依据。 |
-> | **[[Promise Neighborhoods Research Consortium\|承诺社区研究联盟]]**<br>*(Promise Neighborhoods Research Consortium, PNRC)* | **多领域跨界**<br>脆弱社区综合治理 · 贫困儿童就学准备 · 心理健康 · 劳动 | 脆弱社区青少年 (Youth) | **公共部门 (Public)**<br>国家药物滥用研究所 (NIDA) 联合体 | 项目、政策与实践 | 🔴 **停运·结项关闭**<br>*(Defunct)* | 原网站已下线<br>2009–2012 年科研专项，结项后理论框架沉淀于学术期刊文献中。 |
-> | **[[What Works Clearinghouse\|有效干预清算中心]]**<br>*(What Works Clearinghouse, WWC)* | **教育专精（全学科全学段）**<br>学前早教 · K–12 读写与数学 · 英语学习者 · 特殊教育 · 教师卓越 · 高等教育 · 毕业路径 | 早期教育至高等教育全体学生 | **公共部门 (Public)**<br>教育部教育科学研究院 (IES/ED, >$100M) | 项目、政策、实践<br>单项研究 | 🟢 **活跃运营**<br>*(Active)* | [ies.ed.gov/ncee/wwc](https://ies.ed.gov/ncee/wwc)<br>联邦旗舰平台，持续发布实践指南与报告，标准已升级至 Handbook v5.0。 |
+> | **[[California Evidence Based Clearinghouse for Child Social and Economic Welfare|加利福尼亚儿童福利循证清算中心]]**<br>*(California Evidence-Based Clearinghouse for Child Welfare, CEBC)* | **多领域跨界**<br>儿童福利 · 基础教育 · 行为发展 · 身心健康 · 经济福利 | 儿童与家庭 | **公共部门 (Public)**<br>加州社会服务部 (CDSS) | 具名项目 | 🟢 **活跃运营**<br>*(Active)* | [cebc4cw.org](https://www.cebc4cw.org)<br>持续活跃维护，提供儿童福利与教育干预评级数据库。 |
+> | **[[Promising Practices Network|前景广阔的实践网络]]**<br>*(Promising Practices Network, PPN)* | **多领域跨界**<br>社会与行为发展 · 身心健康 · 基础教育 · 经济福利 | 儿童与家庭 | **非营利组织 (Nonprofit)**<br>兰德公司 (RAND Corporation) | 具名项目 | 🔴 **终止并归档**<br>*(Discontinued)* | [rand.org (TL145)](https://www.rand.org/pubs/tools/TL145.html)<br>兰德于 2014 年结项，网站于 2019 年下线，历史评级收录于免费电子书。 |
+> | **[[Best Evidence Encyclopedia|最佳证据百科全书]]**<br>*(Best Evidence Encyclopedia, BEE)* | **教育专精**<br>早期读写 · 中小学数学 · 科学教育 · 全校综合改革 | 学前至中小学学生 | **公共资助 (Public)**<br>约翰斯·霍普金斯大学 (JHU CRRE) | 具名项目 | 🟡 **在线·重心迁移**<br>*(Shifted)* | [bestevidence.org](https://www.bestevidence.org)<br>网站作为学术库仍在线；评级主力转向新平台 [Evidence for ESSA](https://www.evidenceforessa.org)。 |
+> | **[[National Dropout Prevention Center|国家预防辍学中心]]**<br>*(National Dropout Prevention Center, NDPC)* | **教育专精**<br>高危学生辍学预防 · 出勤与学业留存 · 学业促进 | 处于辍学风险的学生 | **非营利组织 (Nonprofit)**<br>Successful Practices Network (SPN) | 具名项目 | 🟢 **活跃运营**<br>*(Active)* | [dropoutprevention.org](https://dropoutprevention.org)<br>持续举办年度全国大会、开展专业培训并维护干预项目库。 |
+> | **[[Social Programs That Work|行之有效的社会项目]]**<br>*(Social Programs That Work, SPTW)* | **多领域跨界**<br>基础与高等教育 · 全人群健康 · 劳动就业 · 社会福利 | 全体人群 (All) | **非营利组织 (Nonprofit)**<br>阿诺德基金会 (Arnold Ventures) | 具名项目 | 🟡 **活跃·极高准入**<br>*(Selective)* | [evidencebasedprograms.org](https://evidencebasedprograms.org)<br>持续由 Arnold Ventures 团队维护，仅收录顶级 RCT 验证的干预项目。 |
+> | **[[Clearinghouse for Military Family Readiness Continuum of Evidence|军人家庭准备清算中心]]**<br>*(Clearinghouse for Military Family Readiness, CMFR)* | **多领域跨界**<br>军人子女教育 · 军属身心健康 · 行为准备 · 劳动就业 | 军人家庭及子女 | **公共部门 (Public)**<br>国防部 (DoD) / 农业部 (USDA) / 宾州州立 | 具名项目 | 🟢 **活跃运营**<br>*(Active)* | [militaryfamilies.psu.edu](https://militaryfamilies.psu.edu)<br>持续维护“证据连续体”数据库，与美军各军种及国防部教育处紧密合作。 |
+> | **[[Collaborative for Academic Social and Emotional Learning Guide|学术、社会与情感学习协作指南]]**<br>*(CASEL Program Guide, CASEL)* | **教育专精**<br>社会情感学习 (SEL) 专项 · 课堂行为与学业整合 | 学前至中小学学生 | **非营利组织 (Nonprofit)**<br>CASEL 协作组织 | 具名项目 | 🟢 **活跃运营**<br>*(Active)* | [pg.casel.org](https://pg.casel.org)<br>持续维护 SEL 项目评级指南并接受新项目准入评审。 |
+> | **[[Blueprints for Healthy Youth Development|健康青年发展蓝图]]**<br>*(Blueprints for Healthy Youth Development, Blueprints)* | **多领域跨界**<br>青少年行为发展 · 犯罪与暴力预防 · 身心健康 · 学业表现 | 青少年群体 (Youth) | **非营利组织 (Nonprofit)**<br>科罗拉多大学博尔德分校 IBS | 具名项目<br>单项研究 | 🟢 **活跃运营**<br>*(Active)* | [blueprintsprograms.org](https://www.blueprintsprograms.org)<br>持续获联邦 ONDCP 资助，定期更新并认证 Model Plus / Model / Promising 项目。 |
+> | **[[Home Visiting Evidence of Effectiveness|家访成效证据]]**<br>*(Home Visiting Evidence of Effectiveness, HomVEE)* | **多领域跨界**<br>早期教育 · 妇幼保健 · 亲子互动 · 就学准备 · 家庭经济 | 孕妇家庭及 0–5 岁儿童 | **公共部门 (Public)**<br>卫生与公众服务部 (HHS/ACF) | 具名项目<br>单项研究 | 🟢 **活跃运营**<br>*(Active)* | [homvee.acf.hhs.gov](https://homvee.acf.hhs.gov)<br>联邦官方项目，定期发布早期儿童家访模型的循证审核报告与技术简报。 |
+> | **[[CNCS Evidence Exchange|国家与社区服务公司证据交流中心]]**<br>*(CNCS EE / 现 AmeriCorps EE)* | **多领域跨界**<br>国民志愿服务 · 社区能力建设 · 青年与退伍军人教育 · 劳动 | 青年、退伍军人、学校、社区 | **公共部门 (Public)**<br>美国国家与社区服务公司 (AmeriCorps) | 项目与具体干预 | 🟢 **活跃运营**<br>*(Active)* | [americorps.gov/evidence-exchange](https://americorps.gov/about/our-impact/evidence-exchange)<br>持续作为联邦资助拨款中评估项目证据力度的核心依据。 |
+> | **[[Promise Neighborhoods Research Consortium|承诺社区研究联盟]]**<br>*(Promise Neighborhoods Research Consortium, PNRC)* | **多领域跨界**<br>脆弱社区综合治理 · 贫困儿童就学准备 · 心理健康 · 劳动 | 脆弱社区青少年 (Youth) | **公共部门 (Public)**<br>国家药物滥用研究所 (NIDA) 联合体 | 项目、政策与实践 | 🔴 **停运·结项关闭**<br>*(Defunct)* | 原网站已下线<br>2009–2012 年科研专项，结项后理论框架沉淀于学术期刊文献中。 |
+> | **[[What Works Clearinghouse|有效干预清算中心]]**<br>*(What Works Clearinghouse, WWC)* | **教育专精（全学科全学段）**<br>学前早教 · K–12 读写与数学 · 英语学习者 · 特殊教育 · 教师卓越 · 高等教育 · 毕业路径 | 早期教育至高等教育全体学生 | **公共部门 (Public)**<br>教育部教育科学研究院 (IES/ED, >$100M) | 项目、政策、实践<br>单项研究 | 🟢 **活跃运营**<br>*(Active)* | [ies.ed.gov/ncee/wwc](https://ies.ed.gov/ncee/wwc)<br>联邦旗舰平台，持续发布实践指南与报告，标准已升级至 Handbook v5.0。 |
 
 > [!warrant]- 步骤一深度解读：制度定位与资源禀赋如何塑造评价逻辑
 > 1. **机构属性对评价标准的塑形作用**
@@ -242,20 +242,20 @@ updated: 2026-08-22
 > 作者将清算中心对四类因果设计的描述程度编码为 0–3 级（0=不提及；1=简要提及但无标准；2=描述设计但无专属实施标准；3=提供专属因果推断与实施质量标准）。
 
 > [!index-table] Table 3：因果设计标准描述程度编码表（Extent of Description, 0–3）
-> | 清算中心名称 | 随机对照试验 (RCT) | 通用准实验 (QED) | 断点回归设计 (RDD) | 中断时间序列 ([[Intelligent Tutoring Systems\|ITS]]) |
+> | 清算中心名称 | 随机对照试验 (RCT) | 通用准实验 (QED) | 断点回归设计 (RDD) | 中断时间序列 ([[Intelligent Tutoring Systems|ITS]]) |
 > |:---|:---:|:---:|:---:|:---:|
-> | **[[What Works Clearinghouse\|WWC]]** | **3** | 2 | **3** | 2 |
-> | **[[Blueprints for Healthy Youth Development\|Blueprints]]** | 2 | 1 | 0 | 0 |
-> | **[[California Evidence Based Clearinghouse for Child Social and Economic Welfare\|CEBC]]** | 2 | 1 | 0 | 0 |
-> | **[[Home Visiting Evidence of Effectiveness\|HomVEE]]** | **3** | **3** | **3** | 0 |
-> | **[[Promising Practices Network\|PPN]]** | 1 | 1 | 0 | 0 |
-> | **[[Best Evidence Encyclopedia\|BEE]]** | 1 | 1 | 0 | 0 |
-> | **[[National Dropout Prevention Center\|NDPC]]** | 1 | 1 | 0 | 0 |
-> | **[[Social Programs That Work\|SPTW]]** | **3** | 1 | 0 | 0 |
-> | **[[Clearinghouse for Military Family Readiness Continuum of Evidence\|CMFR]]** | **3** | **3** | 0 | 0 |
-> | **[[Collaborative for Academic Social and Emotional Learning Guide\|CASEL]]** | 1 | 1 | 0 | 0 |
-> | **[[Promise Neighborhoods Research Consortium\|PNRC]]** | 2 | 1 | 1 | 1 |
-> | **[[CNCS Evidence Exchange\|CNCS EE]]** | 2 | 2 | 0 | 0 |
+> | **[[What Works Clearinghouse|WWC]]** | **3** | 2 | **3** | 2 |
+> | **[[Blueprints for Healthy Youth Development|Blueprints]]** | 2 | 1 | 0 | 0 |
+> | **[[California Evidence Based Clearinghouse for Child Social and Economic Welfare|CEBC]]** | 2 | 1 | 0 | 0 |
+> | **[[Home Visiting Evidence of Effectiveness|HomVEE]]** | **3** | **3** | **3** | 0 |
+> | **[[Promising Practices Network|PPN]]** | 1 | 1 | 0 | 0 |
+> | **[[Best Evidence Encyclopedia|BEE]]** | 1 | 1 | 0 | 0 |
+> | **[[National Dropout Prevention Center|NDPC]]** | 1 | 1 | 0 | 0 |
+> | **[[Social Programs That Work|SPTW]]** | **3** | 1 | 0 | 0 |
+> | **[[Clearinghouse for Military Family Readiness Continuum of Evidence|CMFR]]** | **3** | **3** | 0 | 0 |
+> | **[[Collaborative for Academic Social and Emotional Learning Guide|CASEL]]** | 1 | 1 | 0 | 0 |
+> | **[[Promise Neighborhoods Research Consortium|PNRC]]** | 2 | 1 | 1 | 1 |
+> | **[[CNCS Evidence Exchange|CNCS EE]]** | 2 | 2 | 0 | 0 |
 
 > [!warrant]- 步骤二深度解读：因果质量评估的技术分歧与方法学盲区
 > 1. **RCT 黄金标准的表象共识与实质割裂**
@@ -280,17 +280,17 @@ updated: 2026-08-22
 > 作者选取具有代表性的四个清算中心（WWC、Blueprints、NDPC、CEBC）进行全要素对比，揭示“最高评级”在不同机构间的巨大内涵差异。
 
 > [!contrast-table] Table 4：四大清算中心证据标准与评级门槛深度对照
-> | 比较维度 | [[What Works Clearinghouse\|WWC]] | [[Blueprints for Healthy Youth Development\|Blueprints]] | [[National Dropout Prevention Center\|NDPC]] | [[California Evidence Based Clearinghouse for Child Social and Economic Welfare\|CEBC]] |
+> | 比较维度 | [[What Works Clearinghouse|WWC]] | [[Blueprints for Healthy Youth Development|Blueprints]] | [[National Dropout Prevention Center|NDPC]] | [[California Evidence Based Clearinghouse for Child Social and Economic Welfare|CEBC]] |
 > |:---|:---|:---|:---|:---|
-> | **评级对象** | 单项研究；按**结果域**独立评价干预有效性（不跨域聚合） | 单项研究；具名项目整体 | 项目整体（不为单项研究独立评级） | 项目整体（提供[[Abstract\|研究摘要]]，不为单项研究独立评级） |
+> | **评级对象** | 单项研究；按**结果域**独立评价干预有效性（不跨域聚合） | 单项研究；具名项目整体 | 项目整体（不为单项研究独立评级） | 项目整体（提供[[Abstract|研究摘要]]，不为单项研究独立评级） |
 > | **总体评级等级** | Positive; potentially positive; mixed; potentially negative; negative; no discernible effects（证据量标为 medium to large 或 small） | Model plus; model; promising; non-certified（证据不足/不确定、无效或有害） | Strong evidence; moderate evidence; limited evidence; insufficient evidence of effectiveness | Well-supported; supported; promising; evidence fails to demonstrate effect; NR (Not ratable) |
 > | **单项研究评级机制** | Meets standards without reservations; meets standards with reservations; does not meet standards | Certified（认证进入综述）或 Not certified | 未说明 | 内部工作人员依据设计、对照组、信效度等评估，不发布独立评级 |
-> | **最高研究质量规则** | 个体 RCT 低流失、集群 RCT 无偏倚风险、合格 RDD；第二层级为高流失 RCT 与满足基线等值的 QED | 基于分配程序、流失、基线等值、统计方法、ITT、测量信效度、[[Sample Size Determination\|样本量]]认证 | 未具体说明 | 要求为 RCT 或 QED，考察对照组性质、至少一个结果测量的信效度、组件联合分析 |
+> | **最高研究质量规则** | 个体 RCT 低流失、集群 RCT 无偏倚风险、合格 RDD；第二层级为高流失 RCT 与满足基线等值的 QED | 基于分配程序、流失、基线等值、统计方法、ITT、测量信效度、[[Sample Size Determination|样本量]]认证 | 未具体说明 | 要求为 RCT 或 QED，考察对照组性质、至少一个结果测量的信效度、组件联合分析 |
 > | **最高项目评级所需研究** | **至少 2 项研究**，且至少 1 项为“Meets standards without reservations” | **至少 2 项高质量 RCT**，或 1 项高质量 RCT 联合 1 项高质量 QED | **仅需 1 项** RCT 或高质量 QED | **至少 2 项非重叠样本**的高质量 RCT |
-> | **效果展示与 [[Statistical Significance\|统计显著性]]** | 指定结果域上表现出正向效果；**必须具备统计显著性** | 核心使命领域内表现出正向效果；**必须具备统计显著性** | 指定结果上有正向效果；未明确统计显著性技术细节 | 指定结果上有正向效果；未明确统计显著性技术细节 |
+> | **效果展示与 [[Statistical Significance|统计显著性]]** | 指定结果域上表现出正向效果；**必须具备统计显著性** | 核心使命领域内表现出正向效果；**必须具备统计显著性** | 指定结果上有正向效果；未明确统计显著性技术细节 | 指定结果上有正向效果；未明确统计显著性技术细节 |
 > | **医源性／有害效果** | 纳入研究中**不得有统计显著或实质重要的负效应** | 认证研究中**不得在核心使命领域发现任何医源性效果** | 不报告／未说明 | **不允许存在医源性**或法律上有问题的负面效果 |
-> | **[[Evaluator Independence\|评估者独立性]]要求** | **未做要求**（可全部由开发者团队完成） | **强制要求** 至少 1 项研究由**独立于开发者和前人研究者**的团队完成 | **要求** 研究须由独立于开发者的评估者完成 | **未做要求** |
-> | **干预后随访期要求** | **未做要求**（干预刚结束即测即可） | **强制要求** 至少 1 项研究显示干预结束后 **12 个月以上的[[Fade-out Effect\|持续效果]]** | **未做要求** | **强制要求** 至少 1 项 RCT 显示干预结束后 **12 个月以上的持续效果** |
+> | **[[Evaluator Independence|评估者独立性]]要求** | **未做要求**（可全部由开发者团队完成） | **强制要求** 至少 1 项研究由**独立于开发者和前人研究者**的团队完成 | **要求** 研究须由独立于开发者的评估者完成 | **未做要求** |
+> | **干预后随访期要求** | **未做要求**（干预刚结束即测即可） | **强制要求** 至少 1 项研究显示干预结束后 **12 个月以上的[[Fade-out Effect|持续效果]]** | **未做要求** | **强制要求** 至少 1 项 RCT 显示干预结束后 **12 个月以上的持续效果** |
 > | **其他前置条件** | 未特别列出 | 项目干预手册／文档须在线或以实物形式可获取 | 项目必须在现场**实际运行至少 3 年**（排除试验性试点） | 必须具备明确的项目构成组件与管理文档 |
 > | **次高评级与最高评级差异** | 仅需 1 项研究；允许统计显著或实质重要（>0.25 SD）正向效果；不确定效果研究数 ≤ 正向研究数 | 与最高评级要求相同，**唯独免除独立研究者**的要求（即降为 Model） | 可由非独立评估者完成的 QED 支持（降为 Moderate） | 仅需 1 项 RCT，且干预后随访期可缩短至 **6 个月（降为 Supported）** |
 
@@ -318,16 +318,16 @@ updated: 2026-08-22
 > [!index-table] Table 5：10 个清算中心教育项目选取池与领域范围
 > | 清算中心名称 | 纳入项目数 | 纳入项目的学科与人群范围 |
 > |:---|:---:|:---|
-> | **[[What Works Clearinghouse\|WWC]]** | 537 | 该中心评估的所有项目：读写、数学、幼儿教育、英语学习者、科学、行为、特许学校、高等教育、特殊教育、幼儿园至高中（Kindergarten to 12th Grade, K–12）、教师卓越、毕业路径等 |
-> | **[[Blueprints for Healthy Youth Development\|Blueprints]]** | 310 | 42 个认证教育项目（学术表现、认知发展、毕业、学前语言、就学准备等）与 268 个摘要表明聚焦教育的未认证项目 |
-> | **[[National Dropout Prevention Center\|NDPC]]** | 274 | 该中心评级的全部项目（均属于辍学预防与学业促进） |
-> | **[[Clearinghouse for Military Family Readiness Continuum of Evidence\|CMFR]]** | 166 | 属于[[Academic Achievement\|学业表现]]、学校文化、就学准备主题下的项目 |
-> | **[[Best Evidence Encyclopedia\|BEE]]** | 124 | BEE 网站按字母顺序列出的全部具名项目（涵盖阅读、写作、早教、全校改革、数学等） |
-> | **[[Home Visiting Evidence of Effectiveness\|HomVEE]]** | 53 | 处理儿童发展与就学准备结果的家访模型项目 |
-> | **[[Collaborative for Academic Social and Emotional Learning Guide\|CASEL]]** | 25 | 2015 版 CASEL 指南中收录的全部社会情感学习项目 |
-> | **[[Social Programs That Work\|SPTW]]** | 24 | 产前/早期儿童、K–12 教育、高等教育主题下的项目 |
-> | **[[California Evidence Based Clearinghouse for Child Social and Economic Welfare\|CEBC]]** | 11 | 儿童福利系统下儿童与青少年教育干预主题项目 |
-> | **[[CNCS Evidence Exchange\|CNCS EE]]** | 52 | “教育”与“能力建设”领域内有成效研究且具备证据等级的项目 |
+> | **[[What Works Clearinghouse|WWC]]** | 537 | 该中心评估的所有项目：读写、数学、幼儿教育、英语学习者、科学、行为、特许学校、高等教育、特殊教育、幼儿园至高中（Kindergarten to 12th Grade, K–12）、教师卓越、毕业路径等 |
+> | **[[Blueprints for Healthy Youth Development|Blueprints]]** | 310 | 42 个认证教育项目（学术表现、认知发展、毕业、学前语言、就学准备等）与 268 个摘要表明聚焦教育的未认证项目 |
+> | **[[National Dropout Prevention Center|NDPC]]** | 274 | 该中心评级的全部项目（均属于辍学预防与学业促进） |
+> | **[[Clearinghouse for Military Family Readiness Continuum of Evidence|CMFR]]** | 166 | 属于[[Academic Achievement|学业表现]]、学校文化、就学准备主题下的项目 |
+> | **[[Best Evidence Encyclopedia|BEE]]** | 124 | BEE 网站按字母顺序列出的全部具名项目（涵盖阅读、写作、早教、全校改革、数学等） |
+> | **[[Home Visiting Evidence of Effectiveness|HomVEE]]** | 53 | 处理儿童发展与就学准备结果的家访模型项目 |
+> | **[[Collaborative for Academic Social and Emotional Learning Guide|CASEL]]** | 25 | 2015 版 CASEL 指南中收录的全部社会情感学习项目 |
+> | **[[Social Programs That Work|SPTW]]** | 24 | 产前/早期儿童、K–12 教育、高等教育主题下的项目 |
+> | **[[California Evidence Based Clearinghouse for Child Social and Economic Welfare|CEBC]]** | 11 | 儿童福利系统下儿童与青少年教育干预主题项目 |
+> | **[[CNCS Evidence Exchange|CNCS EE]]** | 52 | “教育”与“能力建设”领域内有成效研究且具备证据等级的项目 |
 
 > [!stat-cards]- 评价重叠度与覆盖广度
 > - **1,359 个** 纳入分析的去重教育干预项目总量

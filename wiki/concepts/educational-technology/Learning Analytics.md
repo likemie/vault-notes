@@ -77,10 +77,10 @@ updated: 2026-08-27
 > [!contrast-table] 学习分析与相关技术治理[[Paradigm|范式]]辨析
 > | 维度 | 学习分析 (Learning Analytics) | 传统标准化测验 (Standardized Testing) | 形成性课堂评价 ([[Formative Assessment]]) |
 > |---|---|---|---|
-> | **数据源泉** | 动态数字足迹（点击流、交互日志、CBT 反应时） | 静态纸笔或机考终结性答卷（正误得分） | 教师即时口头提问、课堂观察与[[Homework\|作业]]批改 |
+> | **数据源泉** | 动态数字足迹（点击流、交互日志、CBT 反应时） | 静态纸笔或机考终结性答卷（正误得分） | 教师即时口头提问、课堂观察与[[Homework|作业]]批改 |
 > | **分析时间轴** | 持续、实时或纵向跨阶段追踪 | 离散的单次时间截面 | 教学过程中的嵌入式即时发生 |
-> | **核心功能** | 预测风险、自适应推送、[[Learning Gain\|学习增益]]测算 | 选拔分流、文凭准入、横向常模排序 | 诊断思维卡点、提供指向下一步的精准反馈 |
-> | **潜在危机** | [[Data Behaviorism\|数据行为主义]]、构念代表性不足、主体规训 | 负向反拨诱发应试刷题、忽视能力生成 | 主观偏差、跨班级跨校[[Reliability\|信度]]难以标准化 |
+> | **核心功能** | 预测风险、自适应推送、[[Learning Gain|学习增益]]测算 | 选拔分流、文凭准入、横向常模排序 | 诊断思维卡点、提供指向下一步的精准反馈 |
+> | **潜在危机** | [[Data Behaviorism|数据行为主义]]、构念代表性不足、主体规训 | 负向反拨诱发应试刷题、忽视能力生成 | 主观偏差、跨班级跨校[[Reliability|信度]]难以标准化 |
 
 ---
 
@@ -141,12 +141,12 @@ updated: 2026-08-27
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
-> | 命题类型 | 核心理论判定 | 适用分析情境 | 代表学者与[[Document\|文献]] |
+> | 命题类型 | 核心理论判定 | 适用分析情境 | 代表学者与[[Document|文献]] |
 > |---|---|---|---|
-> | **数据化生产性** | 行为数据表征重构教学角色，创造具有等级划分效力的价值秩序 | 在线学习平台、教师专业发展、EdTech 产业 | [[Argument_Amos_2022_Springer\|Amos (2022)]]; [[Argument_Thompson_2022_Promising_Student\|Thompson et al. (2022, p. 225)]] |
-> | **学习增益测查** | 结合机考与量规实现跨阶段追踪，成为高教增值评价核心工具 | 高教质量保障、纵向评估项目（HEFCE/TECO） | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023, p. 17)]] |
-> | **先发制人规训** | 通过数字自我与最优对标实施早期干预，重塑标准化主体性 | 入学在线自测（OSA）、学业预警系统 | [[Argument_Thompson_2022_Promising_Student\|Thompson et al. (2022, p. 226)]] |
-> | **视觉符号异化** | 仪表盘警示色与游戏代币诱发条件反射，以行为顺从替代深度教化 | 自适应平台界面（Antolin/bettermarks）、教育游戏化 | [[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz & Klinge (2022)]] |
+> | **数据化生产性** | 行为数据表征重构教学角色，创造具有等级划分效力的价值秩序 | 在线学习平台、教师专业发展、EdTech 产业 | [[Argument_Amos_2022_Springer|Amos (2022)]]; [[Argument_Thompson_2022_Promising_Student|Thompson et al. (2022, p. 225)]] |
+> | **学习增益测查** | 结合机考与量规实现跨阶段追踪，成为高教增值评价核心工具 | 高教质量保障、纵向评估项目（HEFCE/TECO） | [[Argument_Bouckaert_2023_OECD|Bouckaert (2023, p. 17)]] |
+> | **先发制人规训** | 通过数字自我与最优对标实施早期干预，重塑标准化主体性 | 入学在线自测（OSA）、学业预警系统 | [[Argument_Thompson_2022_Promising_Student|Thompson et al. (2022, p. 226)]] |
+> | **视觉符号异化** | 仪表盘警示色与游戏代币诱发条件反射，以行为顺从替代深度教化 | 自适应平台界面（Antolin/bettermarks）、教育游戏化 | [[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge (2022)]] |
 
 ---
 
@@ -178,11 +178,11 @@ updated: 2026-08-27
 > [!ref-table]- 学习分析与增益测查关键实证研究
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 / 项目 | 样本规模与实施情境 | 研究设计与数据源 | 核心考察[[Variable\|变量]] | 原始统计与实证发现 | 解释边界与政策启示 |
+> | 研究 / 项目 | 样本规模与实施情境 | 研究设计与数据源 | 核心考察[[Variable|变量]] | 原始统计与实证发现 | 解释边界与政策启示 |
 > |---|---|---|---|---|---|
-> | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023, pp. 17–19)]] / HEFCE 计划 | 英国 70 余所高校，13 项试验子项目 | 纵向跨阶段追踪与自适应测验 | 本科生通用能力增益与院校增值 | 证实结合 [[Collegiate Learning Assessment\|CLA+]] 等工具可实现跨年级[[Learning Gain\|学习增益]]测查，但对高校内部教学考核方式产[[Growth\|生长]]远反思重塑 | 验证了学习分析从点击流向高阶认知增益分析跃迁的政策可行性 |
-> | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023, p. 18)]] / 意大利 TECO 测评 | 意大利 23 所大学逾 6,000 名本科生 | 机考化纵向能力测评分析 | 跨学科核心通用能力分布 | 成功建立全国性大学生高阶素养基准数据库，为大学质量保障提供跨校可比增益依据 | 展示了全国性机考分析平台在支持高校自我诊断中的效能 |
-> | Klinge et al. (2020)（引自 [[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz & Klinge, 2022, pp. 243–244]]） | 数字健康与学习仪表盘实验参与者 | 质性追踪与用户情绪测量 | 仪表盘色彩符号的情感冲击力 | 即使专家已口头澄清结果无大碍，被仪表盘“红色”标示的参与者仍经历数周焦虑与行为自抑 | 证实仪表盘视觉符号具有压倒理性评估的强烈情感与行为[[Disciplina and Doctrina\|规训]]效应 |
+> | [[Argument_Bouckaert_2023_OECD|Bouckaert (2023, pp. 17–19)]] / HEFCE 计划 | 英国 70 余所高校，13 项试验子项目 | 纵向跨阶段追踪与自适应测验 | 本科生通用能力增益与院校增值 | 证实结合 [[Collegiate Learning Assessment|CLA+]] 等工具可实现跨年级[[Learning Gain|学习增益]]测查，但对高校内部教学考核方式产[[Growth|生长]]远反思重塑 | 验证了学习分析从点击流向高阶认知增益分析跃迁的政策可行性 |
+> | [[Argument_Bouckaert_2023_OECD|Bouckaert (2023, p. 18)]] / 意大利 TECO 测评 | 意大利 23 所大学逾 6,000 名本科生 | 机考化纵向能力测评分析 | 跨学科核心通用能力分布 | 成功建立全国性大学生高阶素养基准数据库，为大学质量保障提供跨校可比增益依据 | 展示了全国性机考分析平台在支持高校自我诊断中的效能 |
+> | Klinge et al. (2020)（引自 [[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, pp. 243–244]]） | 数字健康与学习仪表盘实验参与者 | 质性追踪与用户情绪测量 | 仪表盘色彩符号的情感冲击力 | 即使专家已口头澄清结果无大碍，被仪表盘“红色”标示的参与者仍经历数周焦虑与行为自抑 | 证实仪表盘视觉符号具有压倒理性评估的强烈情感与行为[[Disciplina and Doctrina|规训]]效应 |
 
 ---
 

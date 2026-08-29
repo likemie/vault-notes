@@ -60,7 +60,7 @@ AMC 的本质是一种学术-临床二元结构：将大学的医学教育、基
 > | **核心构成** | 大学医学院 + 教学医院 | 旗舰医院 + 研究所 + 区域性医院网络 + FQHC 合作 |
 > | **组织逻辑** | 学术-临床二元 | 学术-临床-产业三元 |
 > | **创新角色** | 以教学和基础科研为重心 | 在患者诊疗之外深度融合产业创新 |
-> | **[[University-Industry Collaboration\|产学合作]]位置** | 合作参与者 | 合作促进者（facilitator） |
+> | **[[University-Industry Collaboration|产学合作]]位置** | 合作参与者 | 合作促进者（facilitator） |
 > | **典型代表** | 大多数大学附属医院 | Houston Methodist、Cleveland Clinic、Cedars-Sinai 等 |
 >
 > 关键区分在于：AMC 是学术与临床的双元组合([[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones, 2025, p.179]])，而 AHS 在此基础上叠加了产业创新和系统内技术部署能力。
@@ -81,12 +81,12 @@ AMC 的本质是一种学术-临床二元结构：将大学的医学教育、基
 > [!warning] AMC 的效率劣势
 > 在产业方申办的[[Clinical Trial|临床试验]]中，AMC 面临系统性的效率挑战。从产业方视角，AMC 与非学术试验基地的关键绩效差距([[Argument_Bang_2025_ClinicalTrials|Bang, 2025, pp.211–212]])：
 >
-> | 启动[[Performance Indicators\|绩效指标]] | 非学术基地 | 典型 AMC |
+> | 启动[[Performance Indicators|绩效指标]] | 非学术基地 | 典型 AMC |
 > |---|---|---|
 > | 从基地选择到激活 | > 45–90 天 | > 120 天 |
 > | 委员会审查数量 | 0–1 个 | ~3 个（经常按顺序进行） |
 > | 监管包提交时间 | 0 ~ > 30 天 | > 30–45 天 |
-> | 监管提交到 [[Institutional Review Board\|IRB]] 批准 | 0 ~ > 15 天 | > 30–60 天 |
+> | 监管提交到 [[Institutional Review Board|IRB]] 批准 | 0 ~ > 15 天 | > 30–60 天 |
 > | 合同/预算收到到执行 | > 30–45 天 | > 60–120 天 |
 > | 合同执行到激活 | > 30–45 天 | > 30–60 天 |
 

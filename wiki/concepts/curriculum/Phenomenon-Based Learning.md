@@ -83,11 +83,11 @@ updated: 2026-07-09
 ## 概念辨析
 
 > [!contrast-table] 教学取向辨析
-> | 维度 | PhBL（现象本位学习） | [[Problem-Based Learning\|PBL（问题导向学习）]] | 能力本位课程 |
+> | 维度 | PhBL（现象本位学习） | [[Problem-Based Learning|PBL（问题导向学习）]] | 能力本位课程 |
 > |------|--------|----------------|----------------|
-> | **核心起点** | 真实或抽象的生活世界现象 ([[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 2, 4]]) | 预设的[[Research Question\|研究问题]]或任务情境 | 预设的技能或横向能力清单 |
-> | **学科定位** | 保留学科内部逻辑与[[Ontology\|本体论]]深度 ([[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 5]]) | 学科知识服务于问题解决 | 学科边界常被能力指标拆散并碎片化 ([[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 10]]) |
-> | **哲学根源** | [[Phenomenology\|现象学]]、[[Bildung\|教化]]哲学与教学论传统 ([[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 2]]) | 主要是认知心理学与[[Constructivist Paradigm\|建构主义]] ([[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 8]]) | 人力资本理论与新自由主义绩效管理 ([[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 9–10]]) |
+> | **核心起点** | 真实或抽象的生活世界现象 ([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 2, 4]]) | 预设的[[Research Question|研究问题]]或任务情境 | 预设的技能或横向能力清单 |
+> | **学科定位** | 保留学科内部逻辑与[[Ontology|本体论]]深度 ([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 5]]) | 学科知识服务于问题解决 | 学科边界常被能力指标拆散并碎片化 ([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 10]]) |
+> | **哲学根源** | [[Phenomenology|现象学]]、[[Bildung|教化]]哲学与教学论传统 ([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 2]]) | 主要是认知心理学与[[Constructivist Paradigm|建构主义]] ([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 8]]) | 人力资本理论与新自由主义绩效管理 ([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 9–10]]) |
 
 > [!term] 知识结构辨析：[[Disciplina and Doctrina|disciplina]] 与 Doctrina
 > - **Disciplina（学科/纪律）** 词源学上强调“灌输知识的方法”及中世纪“训诫、纠错与惩戒”含义。它属于“寄存已发现知识的地方”，而非“动态的知识产出系统”。过度偏重 `disciplina` 易导致知识僵化和外部控制。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 5]]

@@ -67,9 +67,9 @@ updated: 2026-08-20
 ## 概念辨析
 
 > [!contrast-table] 核心概念辨析
-> | 维度 | 全球解读 (Readings of the Global) | 四种理解形式 ([[Four Forms of Understanding of Comparative Education\|four forms of understanding]]) | [[Transitology\|转型学]] (Transitology) |
+> | 维度 | 全球解读 (Readings of the Global) | 四种理解形式 ([[Four Forms of Understanding of Comparative Education|four forms of understanding]]) | [[Transitology|转型学]] (Transitology) |
 > |------|-------------------|-------------------|-------------------|
-> | **分析焦点** | 学科在特定时期所关注的地缘政治与经济大叙事。([[Argument_Cowen_2023_CE\|Cowen, 2023, p. 331]]) | 比较教育在学术界长期并存且相互冲突的[[Epistemology\|认识论]]立场。(p. 332) | 教育思想和制度在社会剧烈转型中的功能与机制。 |
+> | **分析焦点** | 学科在特定时期所关注的地缘政治与经济大叙事。([[Argument_Cowen_2023_CE|Cowen, 2023, p. 331]]) | 比较教育在学术界长期并存且相互冲突的[[Epistemology|认识论]]立场。(p. 332) | 教育思想和制度在社会剧烈转型中的功能与机制。 |
 > | **核心拷问** | **对象与焦点** 我们在读哪个世界？学科的注意力随何种地缘政治起舞？ | **方法与逻辑** 我们如何理解和比较教育现象？携带何种政治预设？ | **过程与变迁** 教育如何在社会转型中发挥重建或整合作用？ |
 
 ---

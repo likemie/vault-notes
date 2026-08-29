@@ -67,10 +67,10 @@ updated: 2026-08-03
 ## 概念辨析
 
 > [!contrast-table] 概念辨析
-> | 维度 | 作为过程的课程（Process） | [[Curriculum as Praxis\|作为实践的课程（Praxis）]] |
+> | 维度 | 作为过程的课程（Process） | [[Curriculum as Praxis|作为实践的课程（Praxis）]] |
 > |------|----------------------------------|----------------------------------|
-> | **核心理性** | [[Aristotle\|亚里士多德]][[Phronesis\|实践明智]]（*Phronesis*） | 解放理性与反压迫[[Praxis\|实践]]（*Praxis*） |
-> | **课堂焦点** | 批判反思、观念交流与开放审议 | 对抗社会不公、觉醒[[Conscientization\|批判意识]]并采取行动 |
+> | **核心理性** | [[Aristotle|亚里士多德]][[Phronesis|实践明智]]（*Phronesis*） | 解放理性与反压迫[[Praxis|实践]]（*Praxis*） |
+> | **课堂焦点** | 批判反思、观念交流与开放审议 | 对抗社会不公、觉醒[[Conscientization|批判意识]]并采取行动 |
 > | **解放承诺** | 隐性人文关怀；不强制社会变革目标 | 显性政治承诺；明确要求解构压迫结构 |
 
 ---
@@ -112,7 +112,7 @@ updated: 2026-08-03
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **探究自由命题** | 过程模式通过[[Phronesis\|实践明智]]保障自由探究 | 人文科学、[[Theory of Knowledge\|TOK]] 课程与反思课堂 | Stenhouse (1975); [[Argument_Darwish_2009_Queens\|Darwish, B.]] |
+> | **探究自由命题** | 过程模式通过[[Phronesis|实践明智]]保障自由探究 | 人文科学、[[Theory of Knowledge|TOK]] 课程与反思课堂 | Stenhouse (1975); [[Argument_Darwish_2009_Queens|Darwish, B.]] |
 
 ---
 

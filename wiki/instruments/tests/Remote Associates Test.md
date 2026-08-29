@@ -82,5 +82,5 @@ updated: 2026-08-25
 >
 > | 研究 | 工具版本 | 样本与用途 | 测量属性 | 关键结果 |
 > |---|---|---|---|---|
-> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | — | 讨论中作为思维型[[Creativity\|创造力]]测量示例；未直接纳入[[Meta-analysis\|元分析]] | — | RAT 与[[Divergent Thinking\|发散思维]]任务强调的分析推理、联想流畅性与[[Critical Thinking\|批判性思维]]高度一致，相关方向支持两[[Construct\|构念]]共享认知过程 |
-> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 过程类测量代表 | 二阶综合中创造过程与[[Problem Finding\|问题发现]]类测量 | — | 过程类测量二阶关联效应 $r = 0.27$，在创造力关联中最强 |
+> | [[Argument_Park_2026_TSC|Park et al. (2026)]] | — | 讨论中作为思维型[[Creativity|创造力]]测量示例；未直接纳入[[Meta-analysis|元分析]] | — | RAT 与[[Divergent Thinking|发散思维]]任务强调的分析推理、联想流畅性与[[Critical Thinking|批判性思维]]高度一致，相关方向支持两[[Construct|构念]]共享认知过程 |
+> | [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] | 过程类测量代表 | 二阶综合中创造过程与[[Problem Finding|问题发现]]类测量 | — | 过程类测量二阶关联效应 $r = 0.27$，在创造力关联中最强 |

@@ -77,7 +77,7 @@ updated: 2026-08-26
 > [!contrast-table] 研究利用的多[[Scale in Higher Education|尺度分析]]维度辨析
 > | 维度 | 宏观政策研究利用 | 中观学校治理机制 | 微观教师知识整合 |
 > |------|----------------|----------------|----------------|
-> | **分析对象** | 政府立法、政策文本与政治议程（Weiss, 1991b） | 学校组织文化、信任氛围、领导力与制度环境（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al., 2026]]） | 课堂教学决策、具体学情与师生微观互动（[[Argument_Mausethagen_2025_ERR\|Mausethagen et al., 2025]]） |
+> | **分析对象** | 政府立法、政策文本与政治议程（Weiss, 1991b） | 学校组织文化、信任氛围、领导力与制度环境（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al., 2026]]） | 课堂教学决策、具体学情与师生微观互动（[[Argument_Mausethagen_2025_ERR|Mausethagen et al., 2025]]） |
 > | **核心机制** | 政治可接受性、概念启发渗透与合法化背书 | 跨层治理机制（信任、技能、结构、关系） | 多源知识动态整合（Knowledge Integration）与专业裁决 |
 > | **知识角色** | 政治辩护武器、政策重构透镜或参考方案 | 学校改进指南、教研组集体研讨素材 | 多元备选参考资源之一（与实践经验、学情并列） |
 > | **成效标准** | 政策话语采纳与议题设置成功 | 形成可持续的循证教研常规与良好信任生态 | 兼顾教学成效与育人适切性的真实教学改善 |
@@ -162,8 +162,8 @@ updated: 2026-08-26
 > |---|---|---|---|
 > | **政治约束与议程筛选** | 研究利用受政治可行性与权力议程的直接决定 | 宏观教育政策制定、立法与重大改革 | Thomas (1991); Cook (1991); James (1993) |
 > | **知识渗透与传播悖论** | 异质知识类型的间接渗透与传播生态平衡 | 知识转化、智库传播、政策咨询 | Caplan (1991); Knott & Wildavsky (1991) |
-> | **跨层生态治理** | 信任、技能、结构与关系四机制共同治理学校研究使用 | 学校改进、学区改革、教研制度建设 | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] |
-> | **专业敏感与知识整合** | 教师立足育人伦理对多源知识进行主动整合与裁决 | 课堂教学决策、教师专业发展、校本教研 | [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]]; Eriksen (2022) |
+> | **跨层生态治理** | 信任、技能、结构与关系四机制共同治理学校研究使用 | 学校改进、学区改革、教研制度建设 | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] |
+> | **专业敏感与知识整合** | 教师立足育人伦理对多源知识进行主动整合与裁决 | 课堂教学决策、教师专业发展、校本教研 | [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]]; Eriksen (2022) |
 
 ---
 
@@ -182,13 +182,13 @@ updated: 2026-08-26
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] | 109 项学校研究使用实证研究，来自 28 个国家，57% 出自英语国家（英国 27、美国 15、加拿大 13、澳大利亚 5、新西兰 1、爱尔兰 1） | [[Systematic Review\|系统综述]]＋框架综合 | 研究使用被报告的层级分布 | 个体层面 k = 91（83% 研究），组织层面 k = 56，系统层面 k = 46，核心构件 k = 94 | — | 聚合分析显示研究使用研究呈个体偏向，组织与系统层面因素被较少报告 |
-> | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] | 同上 | 同上 | 纳入研究设计分布 | 35% 定量（38 项，多采用调查）、45% 质性（48 项，多采用访谈）、20% [[Mixed Methods Research\|混合方法]]（23 项）；约 80% 为横断面研究 | — | 证据形态以横断面调查与访谈为主，纵向证据稀缺 |
-> | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] | 同上 | 同上 | 纳入研究质量分布 | 41 项（38%）混合方法评估工具（Mixed Methods Appraisal Tool, [[Mixed Methods Appraisal Tool\|MMAT]]）评 5 分、18 项（17%）4 分、31 项（28%）3 分、其余 17% 评 2 分及以下 | 1 项未通过筛选不作评估 | 大多数发现来自评 4–5 分的 59 项较高质量研究 |
-> | [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] | 34 项同行评议英文学术[[Document\|文献]]（跨度 1996–2024 年，涵盖英国 9、美国 4、加拿大 3 及其他 8 国） | [[Critical Review\|批判性综述]]＋系统综述与元分析优先报告条目（Preferred Reporting Items for Systematic Reviews and Meta-Analyses, PRISMA）流程 | 纳入研究类型与数据源分布 | 一阶实证研究 24 篇（自陈调查 13 项、混合 7 项、访谈 4 项、课堂观察仅 3 项）、实证综述 4 篇、概念讨论 6 篇 | — | 实证研究高度依赖[[Questionnaire\|问卷]]自陈，微观课堂互动与现场观察数据严重匮乏 |
-> | [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] | 同上 | 同上 | 30 年文献[[Problem Finding\|问题界定]]与结论特征 | 100% 纳入实证文献均报告教师实际研究使用有限；且问题界定普遍采用[[Deficit Framing\|赤字框架]] | — | 揭示文献在方法多样性下同质化重复使用不足结论，陷入推论循环 |
+> | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] | 109 项学校研究使用实证研究，来自 28 个国家，57% 出自英语国家（英国 27、美国 15、加拿大 13、澳大利亚 5、新西兰 1、爱尔兰 1） | [[Systematic Review|系统综述]]＋框架综合 | 研究使用被报告的层级分布 | 个体层面 k = 91（83% 研究），组织层面 k = 56，系统层面 k = 46，核心构件 k = 94 | — | 聚合分析显示研究使用研究呈个体偏向，组织与系统层面因素被较少报告 |
+> | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] | 同上 | 同上 | 纳入研究设计分布 | 35% 定量（38 项，多采用调查）、45% 质性（48 项，多采用访谈）、20% [[Mixed Methods Research|混合方法]]（23 项）；约 80% 为横断面研究 | — | 证据形态以横断面调查与访谈为主，纵向证据稀缺 |
+> | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] | 同上 | 同上 | 纳入研究质量分布 | 41 项（38%）混合方法评估工具（Mixed Methods Appraisal Tool, [[Mixed Methods Appraisal Tool|MMAT]]）评 5 分、18 项（17%）4 分、31 项（28%）3 分、其余 17% 评 2 分及以下 | 1 项未通过筛选不作评估 | 大多数发现来自评 4–5 分的 59 项较高质量研究 |
+> | [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]] | 34 项同行评议英文学术[[Document|文献]]（跨度 1996–2024 年，涵盖英国 9、美国 4、加拿大 3 及其他 8 国） | [[Critical Review|批判性综述]]＋系统综述与元分析优先报告条目（Preferred Reporting Items for Systematic Reviews and Meta-Analyses, PRISMA）流程 | 纳入研究类型与数据源分布 | 一阶实证研究 24 篇（自陈调查 13 项、混合 7 项、访谈 4 项、课堂观察仅 3 项）、实证综述 4 篇、概念讨论 6 篇 | — | 实证研究高度依赖[[Questionnaire|问卷]]自陈，微观课堂互动与现场观察数据严重匮乏 |
+> | [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]] | 同上 | 同上 | 30 年文献[[Problem Finding|问题界定]]与结论特征 | 100% 纳入实证文献均报告教师实际研究使用有限；且问题界定普遍采用[[Deficit Framing|赤字框架]] | — | 揭示文献在方法多样性下同质化重复使用不足结论，陷入推论循环 |
 
 ---
 

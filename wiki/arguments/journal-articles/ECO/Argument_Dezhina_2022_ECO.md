@@ -95,15 +95,15 @@ issuing_organization: ""
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **多案例研究**<br>Case Study | 选取俄罗斯科学系统自给自足转型的四个关键投影面（人员流动与合作、行政管制、基金资助、[[Megascience Installations\|大科学装置]]）作为案例进行系统剖析。（p.39） |
-> | **文献计量与统计分析**<br>Bibliometric and Statistical Analysis | 分析Scopus数据库中俄罗斯及对比国国际合著论文比例的变化趋势，以及[[National Science Foundation\|美国国家科学基金会]]（NSF）关于海外人才分布的公开数据。（pp.40–43） |
-> | **政策文本分析**<br>Policy Document Analysis | 梳理联邦政府关于“外国代理人”、教育部2019年涉外交流限令以及[[Federal Law No. 85-FZ on Enlightenment Activities\|第85-FZ号教育法修正案]]等政策[[Document\|文件]]。（pp.44–46） |
+> | **多案例研究**<br>Case Study | 选取俄罗斯科学系统自给自足转型的四个关键投影面（人员流动与合作、行政管制、基金资助、[[Megascience Installations|大科学装置]]）作为案例进行系统剖析。（p.39） |
+> | **文献计量与统计分析**<br>Bibliometric and Statistical Analysis | 分析Scopus数据库中俄罗斯及对比国国际合著论文比例的变化趋势，以及[[National Science Foundation|美国国家科学基金会]]（NSF）关于海外人才分布的公开数据。（pp.40–43） |
+> | **政策文本分析**<br>Policy Document Analysis | 梳理联邦政府关于“外国代理人”、教育部2019年涉外交流限令以及[[Federal Law No. 85-FZ on Enlightenment Activities|第85-FZ号教育法修正案]]等政策[[Document|文件]]。（pp.44–46） |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |----------|------|
 > | **政策文本** | 包括2012年第121-FZ号法律、2015年第129-FZ号法律、2019年教育部涉外会面规定、2020年第481-FZ/525-FZ号法律、2021年第14-FZ号和第85-FZ号法律等（pp.44–46） |
-> | **高校数据** | 俄罗斯“[[Project 5-100\|5-100计划]]”参与的21所研究型大学引智比例及规划指标（p.41） |
+> | **高校数据** | 俄罗斯“[[Project 5-100|5-100计划]]”参与的21所研究型大学引智比例及规划指标（p.41） |
 > | **引智对比** | 美国国家科学基金会（NSF）2020年科学与工程指标中关于外籍学者、博士后的占比统计数据（p.42） |
 > | **合著统计** | 2014–2019年间俄罗斯、中国、美国、德国在Scopus中的国际合著论文占比走势数据（p.43） |
 

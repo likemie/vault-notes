@@ -67,11 +67,11 @@ updated: 2026-08-02
 ## 概念辨析
 
 > [!contrast-table] 概念辨析
-> | 维度 | 叙事病（Narration Sickness） | [[Problem-Posing Education\|提问式教育（Problem-Posing）]] |
+> | 维度 | 叙事病（Narration Sickness） | [[Problem-Posing Education|提问式教育（Problem-Posing）]] |
 > |------|-----------------------------------|--------------------------------------|
 > | **分析对象** | 单向宣讲与词汇异化的教学生态 | 横向合作与问题探究的教学过程 |
-> | **核心机制** | 脱离现实的词汇灌输与机械复述 | 生存矛盾[[Coding in Qualitative Research\|编码]]、[[Generative Themes\|生成性主题]]与[[Decodification\|解码]] |
-> | **受教者状态** | “[[Empty Knower\|空白知者]]”与适应压迫的客体 | 重新解读与重塑现实的能动“主体” |
+> | **核心机制** | 脱离现实的词汇灌输与机械复述 | 生存矛盾[[Coding in Qualitative Research|编码]]、[[Generative Themes|生成性主题]]与[[Decodification|解码]] |
+> | **受教者状态** | “[[Empty Knower|空白知者]]”与适应压迫的客体 | 重新解读与重塑现实的能动“主体” |
 
 ---
 
@@ -112,7 +112,7 @@ updated: 2026-08-02
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **驯化本质命题** | 叙事病切断语言与现实联系，维护压迫 | 传统灌输课堂与标准化应试 | [[Paulo Freire\|Freire, P.]]; [[Argument_Darwish_2009_Queens\|Darwish, B.]] |
+> | **驯化本质命题** | 叙事病切断语言与现实联系，维护压迫 | 传统灌输课堂与标准化应试 | [[Paulo Freire|Freire, P.]]; [[Argument_Darwish_2009_Queens|Darwish, B.]] |
 
 ---
 

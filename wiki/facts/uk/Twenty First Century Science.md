@@ -79,4 +79,4 @@ updated: 2026-08-23
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Beyond 2000 Report]] | 政策 | 课程方案的直接理论源泉与政策蓝本。 |
-> | [[Scientific Literacy]] | 概念 | 课程致力于培育的[[21st Century Skills and Competencies Discourse\|核心素养]]目标。 |
+> | [[Scientific Literacy]] | 概念 | 课程致力于培育的[[21st Century Skills and Competencies Discourse|核心素养]]目标。 |

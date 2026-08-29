@@ -97,9 +97,9 @@ updated: 2026-08-22
 > [!ref-table]- 其他实证结果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026)]] | 英国科研人员[[Questionnaire\|问卷调查]]（Technopolis 2025） | 全国科研人员抽样调查 | 参与意愿与制度障碍 | 学术研究人员参与公众科学意愿持续高涨，但仍面临时间、资金匮乏与晋升考评不认可等严重系统性障碍 | — | 揭示了科研人员意愿与高校考评体制之间的结构性矛盾 |
+> | [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026)]] | 英国科研人员[[Questionnaire|问卷调查]]（Technopolis 2025） | 全国科研人员抽样调查 | 参与意愿与制度障碍 | 学术研究人员参与公众科学意愿持续高涨，但仍面临时间、资金匮乏与晋升考评不认可等严重系统性障碍 | — | 揭示了科研人员意愿与高校考评体制之间的结构性矛盾 |
 
 ---
 

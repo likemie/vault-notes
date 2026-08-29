@@ -171,11 +171,11 @@ updated: 2026-06-02
 >
 > | 要素 | 在陈述中的体现 |
 > | :--- | :--- |
-> | **总体意图** | 识别持续就学因素，具有改进项目的[[Praxis\|实践]]价值。 |
+> | **总体意图** | 识别持续就学因素，具有改进项目的[[Praxis|实践]]价值。 |
 > | **设计类型** | 解释性序列 (Sequential Explanatory)。 |
 > | **量化术语** | identify factors, predictors, statistical tests。 |
 > | **质性术语** | explore in more depth, case study analysis。 |
-> | **第一量化阶段** | 278 名学生调查；涵盖五类[[Independent Variable\|预测变量]]。 |
+> | **第一量化阶段** | 278 名学生调查；涵盖五类[[Independent Variable|预测变量]]。 |
 > | **第二质性阶段** | 四个不同参与者群体的案例研究。 |
 > | **整合洞见** | 用案例研究解释统计结果——为量化发现提供机制性阐释。 |
 

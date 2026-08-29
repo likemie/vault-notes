@@ -100,9 +100,9 @@ updated: 2026-08-17
 >
 > | 资金阶段 | 资助逻辑 | 可以完成的工作 | 尚未解决的问题 |
 > |:---|:---|:---|:---|
-> | **UNESCO 小额合同** | 围绕东西方文化相互理解和[[International Schools\|国际学校]]课程提供一次性项目经费。 | 召集教师、准备少量工作文件、扩大课程讨论范围。 | 没有办公室和专职人员，会议之间缺乏连续执行。 |
+> | **UNESCO 小额合同** | 围绕东西方文化相互理解和[[International Schools|国际学校]]课程提供一次性项目经费。 | 召集教师、准备少量工作文件、扩大课程讨论范围。 | 没有办公室和专职人员，会议之间缺乏连续执行。 |
 > | **二十世纪基金** | 以研究资助检验国际大学入学考试的可行性。 | 制订发展计划、设办公室和执行秘书，委托报告并访问潜在学校。 | 组织仍受兼职治理、委员会膨胀和日内瓦内部权力关系制约。 |
-> | **福特基金** | 在 Oxford 和美国大学理事会作出明确投入后，承担[[Action Research\|行动研究]]风险。 | 把课程、考试、学校招募、家长风险和大学承认推进为小规模真实试验。 | 项目能否取得大学承认并在实践中运行仍需塞夫尔会议及后续考试验证。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, pp. 18–24)]] |
+> | **福特基金** | 在 Oxford 和美国大学理事会作出明确投入后，承担[[Action Research|行动研究]]风险。 | 把课程、考试、学校招募、家长风险和大学承认推进为小规模真实试验。 | 项目能否取得大学承认并在实践中运行仍需塞夫尔会议及后续考试验证。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 18–24)]] |
 
 > [!case] 二十世纪基金把外部报告和学校调查嵌入资助
 > 《日内瓦论坛报》编辑、二十世纪基金受托人乔治-亨利·马丁（Georges-Henri Martin）把 ISES 带入基金会视野。基金会委托马丁·梅耶（Martin Mayer）撰写可行性调查结果，并资助 Mayer and [[International School of Geneva|Ecolint]] 教师吉恩·沃拉克（Gene Wallach）访问可能采用项目的国际学校。资金因而同时产生行政能力和外部检验证据，学校的课程需求、升学方向与采用意愿也开始进入组织决策。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 20–22)]]
@@ -125,13 +125,13 @@ updated: 2026-08-17
 >
 > | 行动者 | 组织位置与资源 | 对 ISES 的具体贡献 |
 > |:---|:---|:---|
-> | **[[John Goormaghtigh\|约翰·戈尔马蒂赫]]（John Goormaghtigh）** | [[International School of Geneva\|Ecolint]] 董事会主席、卡内基国际和平基金会欧洲办事处主任及国际律师。 | 接受 ISES 主席职务后不久辞去 Ecolint 主席，集中领导 ISES／IBO；以跨文化协调和法律经验维持治理连续性，任理事会主席至 1980 年。 |
+> | **[[John Goormaghtigh|约翰·戈尔马蒂赫]]（John Goormaghtigh）** | [[International School of Geneva|Ecolint]] 董事会主席、卡内基国际和平基金会欧洲办事处主任及国际律师。 | 接受 ISES 主席职务后不久辞去 Ecolint 主席，集中领导 ISES／IBO；以跨文化协调和法律经验维持治理连续性，任理事会主席至 1980 年。 |
 > | **乔治·潘绍（Georges Panchaud）** | 洛桑大学教育学教授。 | 成为最早加入项目、具有国际声誉和联系的教育学者，为教师网络增加专业信誉。 |
 > | **让·西奥蒂（Jean Siotis）** | 卡内基欧洲办事处希腊籍助理主任。 | 参加理事会并主持第一届考试委员会，负责 Ecolint 当代史试验考试。 |
 > | **[[Gerard Renaud]] and Halls** | Ecolint 哲学教师与 Oxford 比较教育研究者。 | 分别推进课程结构与学科大纲、比较课程研究、考试性质说明和样题。 |
 > | **Desmond Cole and Harlan Hanson** | UNIS 校长与美国大学理事会大学先修课程主管。 | 带来实际学校、考试技术、美国大学联系和基金会信任，推动治理跨出日内瓦。 |
 > | **[[Alec Peterson]]** | Oxford 教育系与大西洋学院网络。 | 把课程、考试、资金、试验学校、家庭风险和大学承认整合为单一实施计划。 |
-> | **Ruth Bonner and Lucette Donche** | Geneva 办公室行政与财务人员。 | 把会议之间的文件、联络、账务和日常协调转化为持续行政工作。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, pp. 19–24, 26–28)]] |
+> | **Ruth Bonner and Lucette Donche** | Geneva 办公室行政与财务人员。 | 把会议之间的文件、联络、账务和日常协调转化为持续行政工作。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 19–24, 26–28)]] |
 
 > [!case] 国际扩员同时增加改革资源并改变原始权力分布
 > 理事会新增让·卡佩勒（Jean Capelle）、阿廷盖夫人（Madame Hatinguais）和赫尔穆特·贝克尔（Hellmut Becker）等国家课程改革者。他们把 IB 视为检验本国改革建议的跨国试验场。1966 至 1967 年又加入安德伦博士（Dr Andren）、穆罕默德·法西（Mohammed El Fasi）、海因茨·菲舍尔-沃尔珀特（Heinz Fischer-Wollpert）、汉基勋爵（Lord Hankey）、森特扎·卡朱比（Senteza Kajubi）、查尔斯·萨阿德（Charles Sa'd）和扎科娃夫人（Madame Zakowa），分别连接欧洲、北非、东非、中东和东欧的大学、学校、外交与教育行政网络。代表性的扩大提高了项目获得学校和政府支持的可能，也削弱了日内瓦原始小组的相对控制。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 24–26)]]
@@ -142,7 +142,7 @@ updated: 2026-08-17
 > |:---|:---|:---|
 > | **早期研究阶段** | 理事会、全体会议、执行委员会、教育委员会和技术委员会并存。 | 机构数量超过实际执行需要，讨论和权限安排消耗大量精力，考试仍未出现。 |
 > | **1966–1967 年重组** | 理事会每年开会，五人执行委员会负责持续决策。 | 把国际代表性与较小规模的日常决策结构结合起来。 |
-> | **考试运行阶段** | 另设主考官委员会，由苏黎世大学地理学教授汉斯·伯施（Hans Boesch）自 1969 年起主持年度考试。 | 将课程与治理决策同具体考试责任分开，为年度命题、评分和标准维护建立专门机构。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, pp. 21, 25–26)]] |
+> | **考试运行阶段** | 另设主考官委员会，由苏黎世大学地理学教授汉斯·伯施（Hans Boesch）自 1969 年起主持年度考试。 | 将课程与治理决策同具体考试责任分开，为年度命题、评分和标准维护建立专门机构。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 21, 25–26)]] |
 
 ---
 
@@ -198,5 +198,5 @@ updated: 2026-08-17
 > | [[Founding of the International Baccalaureate]] | 事件 | ISES 是把教师倡议转化为资格制度的组织载体。 |
 > | [[1967 Sevres International Conference on the IB]] | 事件 | ISES／IBO 在会议上提交课程、考试与六年试验方案。 |
 > | [[International Baccalaureate]] | 概念 | ISES 负责早期课程和考试项目的制度化。 |
-> | [[International Schools]] | 概念 | [[International School of Geneva\|Ecolint]] and [[International Schools Association\|ISA]] 提供教师网络和初始项目空间，也因自身能力边界推动独立组织形成。 |
+> | [[International Schools]] | 概念 | [[International School of Geneva|Ecolint]] and [[International Schools Association|ISA]] 提供教师网络和初始项目空间，也因自身能力边界推动独立组织形成。 |
 > | [[John Goormaghtigh]] | 人物 | 长期主持理事会并提供国际法律与治理连续性。 |

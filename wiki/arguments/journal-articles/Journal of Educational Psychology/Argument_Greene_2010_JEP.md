@@ -100,8 +100,8 @@ issuing_organization: ""
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **三个核心信念维度**<br>SC, JA, PJ | 作者梳理了前人（如 Hofer & Pintrich, 1997; Schommer-Aikins, 2004）的量化维度：将“知识是简单/复杂的”与“知识是确定/变化的”合并为[[Ontology\|本体论]]层面的**简单与确定知识（SC）**维度；将[[Epistemology\|认识论]]层面的知识辩护机制拆分为依赖外部权威的**权威辩护（JA）**与依赖主观经验的**个人辩护（PJ）**。 |
-> | **认识论与本体论认知模型**<br>[[Epistemic and Ontological Cognition]] | 将[[Certainty of Knowledge\|知识的确定性]]与简单性界定为本体论认知，将[[Justification for Knowing\|认知的辩护]]机制保留为认识论认知。理论预设了[[Realism in International Relations\|现实主义]]、教条主义、怀疑论与[[Rationalism in International Relations\|理性主义]]四个阶段，并设定了相应的三个维度（SC, JA, PJ）的强弱配置。 |
+> | **三个核心信念维度**<br>SC, JA, PJ | 作者梳理了前人（如 Hofer & Pintrich, 1997; Schommer-Aikins, 2004）的量化维度：将“知识是简单/复杂的”与“知识是确定/变化的”合并为[[Ontology|本体论]]层面的**简单与确定知识（SC）**维度；将[[Epistemology|认识论]]层面的知识辩护机制拆分为依赖外部权威的**权威辩护（JA）**与依赖主观经验的**个人辩护（PJ）**。 |
+> | **认识论与本体论认知模型**<br>[[Epistemic and Ontological Cognition]] | 将[[Certainty of Knowledge|知识的确定性]]与简单性界定为本体论认知，将[[Justification for Knowing|认知的辩护]]机制保留为认识论认知。理论预设了[[Realism in International Relations|现实主义]]、教条主义、怀疑论与[[Rationalism in International Relations|理性主义]]四个阶段，并设定了相应的三个维度（SC, JA, PJ）的强弱配置。 |
 
 > [!warrant]- 理论如何支撑论证
 > 个体的认知本质反映在多维度的组合特征档案（profile）中。通过[[Factor Mixture Modeling|因子混合模型]]寻找潜在的类群轮廓，可将离散的维度得分匹配回认识论与本体论认知模型[[Hypothesis|假设]]的发展序列中，从而实现对整合理论的实证检验。
@@ -113,8 +113,8 @@ issuing_organization: ""
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **调查测量**<br>定量调查（Quantitative Survey） | 采用[[Epistemic and Ontological Cognition Questionnaire\|认识论与本体论认知问卷]]（Epistemic and Ontological Cognition Questionnaire, EOCQ），测量简单与确定知识（Simple and Certain Knowledge, SC）、权威辩护（Justification by Authority, JA）以及个人辩护（Personal Justification, PJ）三大维度。问卷分别针对数学和历史两门学科提供平行题。 |
-> | **分析策略**<br>[[Factor Mixture Modeling]] | 1. [[Confirmatory Factor Analysis\|验证性因子分析（Confirmatory Factor Analysis, CFA）]]检验工具的结构信度，并对比领域特定与领域一般性模型拟合度。<br>2. 因子混合模型探索隐含类别群组，并将类别与理论预设的发展阶段轮廓进行比对。<br>3. [[Multinomial Logistic Regression\|多项逻辑回归]]检验[[Educational Level\|教育水平]]和[[Academic Achievement\|学业成绩]]对类别成员身份的预测能力。 |
+> | **调查测量**<br>定量调查（Quantitative Survey） | 采用[[Epistemic and Ontological Cognition Questionnaire|认识论与本体论认知问卷]]（Epistemic and Ontological Cognition Questionnaire, EOCQ），测量简单与确定知识（Simple and Certain Knowledge, SC）、权威辩护（Justification by Authority, JA）以及个人辩护（Personal Justification, PJ）三大维度。问卷分别针对数学和历史两门学科提供平行题。 |
+> | **分析策略**<br>[[Factor Mixture Modeling]] | 1. [[Confirmatory Factor Analysis|验证性因子分析（Confirmatory Factor Analysis, CFA）]]检验工具的结构信度，并对比领域特定与领域一般性模型拟合度。<br>2. 因子混合模型探索隐含类别群组，并将类别与理论预设的发展阶段轮廓进行比对。<br>3. [[Multinomial Logistic Regression|多项逻辑回归]]检验[[Educational Level|教育水平]]和[[Academic Achievement|学业成绩]]对类别成员身份的预测能力。 |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
@@ -149,9 +149,9 @@ issuing_organization: ""
 > 传统的阶段模型（见表1）本质上可以解构为对客观现实、知识来源和评价机制的不同量化态度。
 
 > [!contrast-table] 表1：[[Argument_Kuhn_2000_CD|Kuhn et al. (2000)]] 认识论思维模型（[[Thomas Kuhn|Kuhn]] et al.'s Model of Epistemological Thinking）
-> | 阶段（Level） | 客观现实（Reality） | 知识（Knowledge） | [[Critical Thinking\|批判性思维]]（Critical thinking） | 知识主张（Assertions） |
+> | 阶段（Level） | 客观现实（Reality） | 知识（Knowledge） | [[Critical Thinking|批判性思维]]（Critical thinking） | 知识主张（Assertions） |
 > | --- | --- | --- | --- | --- |
-> | [[Realism in International Relations\|现实主义]]者（Realist） | 可直接认知 | 确定，来自外部来源 | 不必要 | 对外部现实的复制 |
+> | [[Realism in International Relations|现实主义]]者（Realist） | 可直接认知 | 确定，来自外部来源 | 不必要 | 对外部现实的复制 |
 > | 绝对主义者（[[Absolutist]]） | 可直接认知 | 确定，来自外部来源 | 用于确定谁是“正确的” | 可对可错的事实 |
 > | 多元主义者（[[Multiplist]]） | 无法直接认知 | 不确定，来自人类心智 | 不相关 | 不可质疑的观点 |
 > | 评价主义者（[[Evaluativist]]） | 无法直接认知 | 不确定，来自人类心智 | 用于做出好决定并促进理解 | 可供评估的判断 |
@@ -191,7 +191,7 @@ issuing_organization: ""
 > ```
 
 > [!contrast-table] 表2：[[Epistemic and Ontological Cognition|认识论与本体论认知]]模型（Model of Epistemic and Ontological Cognition）
-> | [[Educational Level\|受教育水平]] | 劣构领域阶段 | SC 信念 | JA 信念 | PJ 信念 | 良构领域阶段 | SC 信念 | JA 信念 | PJ 信念 |
+> | [[Educational Level|受教育水平]] | 劣构领域阶段 | SC 信念 | JA 信念 | PJ 信念 | 良构领域阶段 | SC 信念 | JA 信念 | PJ 信念 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 > | 小学早期 | 现实主义 | 强 | 强 | 强 | 现实主义 | 强 | 强 | 强 |
 > | 小学晚期至大学早期 | 教条/怀疑主义 | 弱<br>弱 | 强<br>弱 | 弱<br>强 | 现实主义 | 强 | 强 | 强 |
@@ -395,7 +395,7 @@ issuing_organization: ""
 > 认识论阶段不仅是一个心理学模型，它必须具备现实的[[External Validity|外部效度]]。回归分析补齐了论证的最后一环：随着受教育年限的增长，学生接触到的冲突观点增多，客观上推动了他们从幼稚的“现实主义”向高级的“理性主义”演化；反之，那些死抱着“知识只有唯一标准答案”的初级认知阶段学生，在应对复杂的学术任务时必然受挫（表现为 [[Academic Achievement|GPA]] 较差）。这就证明了该阶段模型对真实学业发展具有强大的解释力和预测力。
 
 > [!ref-table]- 附表：多项逻辑回归预测潜类别归属（Multinomial Logistic Regression, 部分摘录）
-> | 类别对比（目标 vs 参照） | [[Independent Variable\|预测变量]] | 估计系数 ($b$) | 胜率比 ($e^b$) | 显著性 |
+> | 类别对比（目标 vs 参照） | [[Independent Variable|预测变量]] | 估计系数 ($b$) | 胜率比 ($e^b$) | 显著性 |
 > | --- | --- | --- | --- | --- |
 > | **类别 1 vs 类别 2** | 受教育年限 | -0.702 | 0.496 | $p < .01$ |
 > | | 数学成绩（分值越高表现越差） | 0.571 | 1.770 | $p < .01$ |

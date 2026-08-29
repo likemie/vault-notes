@@ -230,17 +230,17 @@ citation_aliases:
 
 | 章节            | 内容概要                                                                                                                                                                                                                                                                                                             | 主要关联条目                                                                                                                                                     |
 | ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 前言            | 介绍教材的写作目的、面向读者、格式特色、第六版新增内容，以及全书两大部分共十章的结构概览。全书核心线索是量化、质性与[[Mixed Methods Research\|混合方法]]三种研究路径的系统比较。                                                                                                                                                                                                                                       | [[Crotty's Four Levels of Research Design]], [[Knowledge Production]]                                                                                      |
-| 第1章 研究路径的选择   | 界定量化、质性和混合方法三种研究路径，建立"世界观、设计、方法"三层框架，逐一介绍[[Postpositivism\|后实证主义]]、[[Constructivist Paradigm\|建构主义]]、[[Transformative Paradigm\|变革主义]]和[[Pragmatic Paradigm\|实用主义]]四种哲学世界观，列出量化、质性和混合方法的主要研究设计类型，讨论选择研究路径的三项标准（[[Research Question\|研究问题]]、个人经验、受众）。                                                                                                                                                                                          | [[Qualitative Research]], [[Quantitative Research]], [[Postpositivism]], [[Constructivist Paradigm]], [[Transformative Paradigm]], [[Pragmatic Paradigm]]  |
-| 第2章 [[Literature Review\|文献综述]]      | 介绍[[Research Topic\|研究主题]]的确定（草拟标题、评估显著性）、文献综述在不同研究路径中的目的与组织差异（量化五部分结构、质性三种位置、混合方法的灵活策略）、[[Literature Search\|文献检索]]的系统步骤与主要数据库、[[Literature Map\|文献地图]]的绘制方法、[[Abstract\|文献摘要]]的撰写要点、APA 格式手册的使用，以及[[Definition of Terms\|术语定义]]的原则与路径差异。                                                                                                                                                                             | [[Literature Review]], [[Literature Map]], [[Abstract]], [[Definition of Terms]], [[Inverted Triangle Literature Search]]                                  |
-| 第3章 理论的使用     | 系统讲解理论在量化、质性和混合方法研究中的不同定位与运用方式。量化研究以演绎方式将理论置于研究前端，通过[[Variable\|变量]]间因果模型检验假设；质性研究以三种方式运用理论——演绎解释、[[Theoretical Standpoint\|理论立场]]（透镜）和[[Theoretical End Point\|理论终点]]（归纳生成）；混合方法[[Research Utilization\|研究使用]][[Discipline-Based Theory\|学科理论]]或[[Social Justice Theory\|社会正义理论]]来指导设计的各个层面。                                                                                                                                                                           | [[Theoretical Perspective]], [[Theoretical Standpoint]], [[Discipline-Based Theory]], [[Social Justice Theory]], [[Causality]]                             |
+| 前言            | 介绍教材的写作目的、面向读者、格式特色、第六版新增内容，以及全书两大部分共十章的结构概览。全书核心线索是量化、质性与[[Mixed Methods Research|混合方法]]三种研究路径的系统比较。                                                                                                                                                                                                                                       | [[Crotty's Four Levels of Research Design]], [[Knowledge Production]]                                                                                      |
+| 第1章 研究路径的选择   | 界定量化、质性和混合方法三种研究路径，建立"世界观、设计、方法"三层框架，逐一介绍[[Postpositivism|后实证主义]]、[[Constructivist Paradigm|建构主义]]、[[Transformative Paradigm|变革主义]]和[[Pragmatic Paradigm|实用主义]]四种哲学世界观，列出量化、质性和混合方法的主要研究设计类型，讨论选择研究路径的三项标准（[[Research Question|研究问题]]、个人经验、受众）。                                                                                                                                                                                          | [[Qualitative Research]], [[Quantitative Research]], [[Postpositivism]], [[Constructivist Paradigm]], [[Transformative Paradigm]], [[Pragmatic Paradigm]]  |
+| 第2章 [[Literature Review|文献综述]]      | 介绍[[Research Topic|研究主题]]的确定（草拟标题、评估显著性）、文献综述在不同研究路径中的目的与组织差异（量化五部分结构、质性三种位置、混合方法的灵活策略）、[[Literature Search|文献检索]]的系统步骤与主要数据库、[[Literature Map|文献地图]]的绘制方法、[[Abstract|文献摘要]]的撰写要点、APA 格式手册的使用，以及[[Definition of Terms|术语定义]]的原则与路径差异。                                                                                                                                                                             | [[Literature Review]], [[Literature Map]], [[Abstract]], [[Definition of Terms]], [[Inverted Triangle Literature Search]]                                  |
+| 第3章 理论的使用     | 系统讲解理论在量化、质性和混合方法研究中的不同定位与运用方式。量化研究以演绎方式将理论置于研究前端，通过[[Variable|变量]]间因果模型检验假设；质性研究以三种方式运用理论——演绎解释、[[Theoretical Standpoint|理论立场]]（透镜）和[[Theoretical End Point|理论终点]]（归纳生成）；混合方法[[Research Utilization|研究使用]][[Discipline-Based Theory|学科理论]]或[[Social Justice Theory|社会正义理论]]来指导设计的各个层面。                                                                                                                                                                           | [[Theoretical Perspective]], [[Theoretical Standpoint]], [[Discipline-Based Theory]], [[Social Justice Theory]], [[Causality]]                             |
 | 第4章 写作策略与伦理考量 | 提供量化、质性和混合方法研究计划的结构模型，讨论学术写作的过程策略、连贯性技巧和语言精炼方法，按研究前—启动—数据收集—分析—报告五个阶段系统梳理伦理问题与应对策略。                                                                                                                                                                                                                              | [[Research Ethics]], [[Institutional Review Board]], [[Informed Consent]], [[Writing Habit]], [[Coherence in Writing]], [[Hook and Eye Technique]]         |
-| 第5章 引言        | 提供撰写学术引言的系统方法，首先讨论撰写研究摘要的五个核心组成部分，随后比较量化、质性和混合方法[[Research Introduction\|研究引言]]写法的差异，最后重点介绍[[Deficiencies Model for an Introduction\|引言缺陷模型]]的四个部分——陈述研究问题（含[[Narrative Hook\|叙事钩子]]）、综述文献证据（含倒三角检索策略）、指出文献缺陷和说明研究对受众的重要性。                                                                                                                                                                                  | [[Research Introduction]], [[Research Problem]], [[Deficiencies Model for an Introduction]], [[Narrative Hook]], [[Deficiencies in Past Literature]]       |
-| 第6章 [[Purpose Statement\|目的陈述]]      | 系统讲解研究计划中目的陈述（或研究目标）的核心地位。区分研究问题、目的陈述和研究问题三个环节的递进逻辑，逐一剖析质性目的陈述七要素、量化目的陈述八要素和混合方法目的陈述四要素，为每种路径提供填空式[[Research Writing Script\|写作脚本]]，并辅以已发表研究的多个范例。                                                                                                                                                                                            | [[Purpose Statement]], [[Central Phenomenon]], [[Nondirectional Language]], [[Research Writing Script]]                                                    |
-| 第7章 研究问题与[[Hypothesis\|假设]]   | 系统讲解量化研究问题和假设（描述性与关系型、[[Null Hypothesis\|零假设]]与[[Alternative Hypothesis\|方向性备择假设]]）、质性[[Central Question\|核心研究问题]]和子问题、混合方法的三类研究问题（量化、质性、[[Integration in Mixed Methods\|混合方法整合]]问题），每一类均提供填空式写作脚本和已发表研究范例。                                                                                                                                                                                                               | [[Research Question]], [[Hypothesis]], [[Central Question]], [[Mixed Methods Question]], [[Null Hypothesis]]                                               |
+| 第5章 引言        | 提供撰写学术引言的系统方法，首先讨论撰写研究摘要的五个核心组成部分，随后比较量化、质性和混合方法[[Research Introduction|研究引言]]写法的差异，最后重点介绍[[Deficiencies Model for an Introduction|引言缺陷模型]]的四个部分——陈述研究问题（含[[Narrative Hook|叙事钩子]]）、综述文献证据（含倒三角检索策略）、指出文献缺陷和说明研究对受众的重要性。                                                                                                                                                                                  | [[Research Introduction]], [[Research Problem]], [[Deficiencies Model for an Introduction]], [[Narrative Hook]], [[Deficiencies in Past Literature]]       |
+| 第6章 [[Purpose Statement|目的陈述]]      | 系统讲解研究计划中目的陈述（或研究目标）的核心地位。区分研究问题、目的陈述和研究问题三个环节的递进逻辑，逐一剖析质性目的陈述七要素、量化目的陈述八要素和混合方法目的陈述四要素，为每种路径提供填空式[[Research Writing Script|写作脚本]]，并辅以已发表研究的多个范例。                                                                                                                                                                                            | [[Purpose Statement]], [[Central Phenomenon]], [[Nondirectional Language]], [[Research Writing Script]]                                                    |
+| 第7章 研究问题与[[Hypothesis|假设]]   | 系统讲解量化研究问题和假设（描述性与关系型、[[Null Hypothesis|零假设]]与[[Alternative Hypothesis|方向性备择假设]]）、质性[[Central Question|核心研究问题]]和子问题、混合方法的三类研究问题（量化、质性、[[Integration in Mixed Methods|混合方法整合]]问题），每一类均提供填空式写作脚本和已发表研究范例。                                                                                                                                                                                                               | [[Research Question]], [[Hypothesis]], [[Central Question]], [[Mixed Methods Question]], [[Null Hypothesis]]                                               |
 | 第8章 量化方法      | 系统讲解调查研究和实验研究的方法计划组成部分：调查研究计划涵盖调查目的与设计类型、总体与样本（抽样设计、分层、[[Power Analysis]]）、工具信效度、变量与数据分析六步骤；实验研究计划涵盖参与者分配与[[Random Assignment]]、变量（独立变量、操纵检查、因变量、混淆变量）、工具与封面故事、实验程序（[[Pre-Experimental Designs]]、准实验、[[Factorial Design]]、[[Single-Subject Design]]）、[[Internal Validity]]与[[External Validity]]威胁控制、数据分析步骤和预注册。 | [[Survey Research]], [[Experimental Research]], [[Power Analysis]], [[Internal Validity]], ANOVA                                                           |
-| 第9章 质性方法      | 系统讲解质性研究方法的全部组成部分：九大核心特征、[[Descriptive Methods\|描述性方法]]与[[Analytic Framework\|分析框架]]的区分、四种数据收集类型与协议设计、七步数据分析流程与 Tesch [[Coding in Qualitative Research\|编码]]八步骤、解释的组成部分、八种效度策略与信度程序，以及质性写作的六种策略。                                                                                                                                                                                                                             | [[Qualitative Research]], [[Descriptive Methods]], [[Coding in Qualitative Research]], [[Purposeful Sampling]], [[Qualitative Validity]], [[Reflexivity]]                                |
-| 第10章 混合方法程序   | 界定混合方法研究的六个核心特征与历史定位，论证使用混合方法的多元理由，区分开放式与[[Open-Ended and Closed-Ended Data\|封闭式数据]]，详解三种核心设计（聚敛式、解释性序列、探索性序列）的意图、程序、[[Joint Display\|联合展示]]模板、[[Metainferences\|元推论]]与效度威胁，拓展四种复杂设计（实验干预、案例研究、参与式社会正义、评价），提供设计选择流程图和[[Integration Statement\|整合陈述]]写作指南，以四个完整研究实例展示各类设计的实际运用。 | [[Mixed Methods Research]], [[Integration in Mixed Methods]], [[Convergent Design]], [[Joint Display]], [[Metainferences]], [[Mixed Methods Evaluation Design]], [[Integration Statement]] |
+| 第9章 质性方法      | 系统讲解质性研究方法的全部组成部分：九大核心特征、[[Descriptive Methods|描述性方法]]与[[Analytic Framework|分析框架]]的区分、四种数据收集类型与协议设计、七步数据分析流程与 Tesch [[Coding in Qualitative Research|编码]]八步骤、解释的组成部分、八种效度策略与信度程序，以及质性写作的六种策略。                                                                                                                                                                                                                             | [[Qualitative Research]], [[Descriptive Methods]], [[Coding in Qualitative Research]], [[Purposeful Sampling]], [[Qualitative Validity]], [[Reflexivity]]                                |
+| 第10章 混合方法程序   | 界定混合方法研究的六个核心特征与历史定位，论证使用混合方法的多元理由，区分开放式与[[Open-Ended and Closed-Ended Data|封闭式数据]]，详解三种核心设计（聚敛式、解释性序列、探索性序列）的意图、程序、[[Joint Display|联合展示]]模板、[[Metainferences|元推论]]与效度威胁，拓展四种复杂设计（实验干预、案例研究、参与式社会正义、评价），提供设计选择流程图和[[Integration Statement|整合陈述]]写作指南，以四个完整研究实例展示各类设计的实际运用。 | [[Mixed Methods Research]], [[Integration in Mixed Methods]], [[Convergent Design]], [[Joint Display]], [[Metainferences]], [[Mixed Methods Evaluation Design]], [[Integration Statement]] |
 
 ---
 
@@ -366,14 +366,14 @@ citation_aliases:
 
 > [!abstract] 表1.2：四种世界观（Four Worldviews）
 >
-> | 维度 | [[Postpositivism\|后实证主义]] | [[Constructivist Paradigm\|建构主义]] | [[Transformative Paradigm\|变革主义]] | [[Pragmatic Paradigm\|实用主义]] |
+> | 维度 | [[Postpositivism|后实证主义]] | [[Constructivist Paradigm|建构主义]] | [[Transformative Paradigm|变革主义]] | [[Pragmatic Paradigm|实用主义]] |
 > |---|---|---|---|---|
 > | **核心信念** | 决定论：原因可能决定结果；还原论：将观念缩约为小的离散集进行检验 | 理解：个体寻求对生活世界的理解；主观意义通过社会和历史互动形成 | 政治性：研究必须与政治议程交织以对抗社会压迫 | 关注行动后果：以"什么有效"和问题解决为核心 |
 > | **知识观** | 知识是推测性的，绝对真理无法被找到；证据总是不完美的 | 意义是多样的、多元的；研究者寻找复杂性而非窄化范畴 | 研究应为边缘群体发声，提升意识，推进变革 | 真理是当下有效的；不基于心灵独立与心灵内部的双重性 |
-> | **方法论倾向** | 量化为主：从理论出发→收集数据→支持或反驳→修正再检验 | 质性为主：归纳式，从数据中生成意义模式，不预设理论 | 质性或混合：研究者与参与者协作，参与者可参与问题设计、数据收集和分析 | 混合方法：以研究问题为中心，自由选择最[[Fitness for Purpose\|适合目的]]的方法 |
-> | **思想来源** | 19 世纪 Comte, Mill, Durkheim, Newton, Locke；Phillips & Burbules (2000) | Berger & Luckmann (1967)；Lincoln & Guba (1985)；Crotty (1998) | Marx, Adorno, Marcuse, Habermas, [[Paulo Freire\|Freire]]；Fay (1987)；Mertens (2009, 2010) | Peirce, James, Mead, Dewey；Cherryholmes (1992)；Morgan (2007) |
+> | **方法论倾向** | 量化为主：从理论出发→收集数据→支持或反驳→修正再检验 | 质性为主：归纳式，从数据中生成意义模式，不预设理论 | 质性或混合：研究者与参与者协作，参与者可参与问题设计、数据收集和分析 | 混合方法：以研究问题为中心，自由选择最[[Fitness for Purpose|适合目的]]的方法 |
+> | **思想来源** | 19 世纪 Comte, Mill, Durkheim, Newton, Locke；Phillips & Burbules (2000) | Berger & Luckmann (1967)；Lincoln & Guba (1985)；Crotty (1998) | Marx, Adorno, Marcuse, Habermas, [[Paulo Freire|Freire]]；Fay (1987)；Mertens (2009, 2010) | Peirce, James, Mead, Dewey；Cherryholmes (1992)；Morgan (2007) |
 > | **研究者姿态** | 客观性：必须审查方法和结论中的偏差；信效度标准重要 | 自我定位：承认自身背景塑造解释；在研究中定位自身 | 合作性：不进一步边缘化参与者；提供发声和变革议程 | 自由选择：不受制于任一哲学体系；多元方法收集数据 |
-> | **典型应用** | [[Experimental Research\|实验研究]]、[[Survey Research\|调查研究]] | 民族志、现象学、扎根理论、叙事研究 | 参与式行动研究、批判民族志、[[Feminist Research\|女性主义研究]] | 混合方法研究 |
+> | **典型应用** | [[Experimental Research|实验研究]]、[[Survey Research|调查研究]] | 民族志、现象学、扎根理论、叙事研究 | 参与式行动研究、批判民族志、[[Feminist Research|女性主义研究]] | 混合方法研究 |
 
 > [!abstract] 世界观与方法论的对应
 > 四种世界观各自倾向于某种研究路径：后实证主义 → 量化，建构主义 → 质性，变革主义 → 质性或混合方法，实用主义 → 混合方法。这一对应反映了各路径的典型哲学倾向，并非强制锁定。
@@ -386,12 +386,12 @@ citation_aliases:
 >
 > | 量化设计（Quantitative Designs） | 质性设计（Qualitative Designs） | 混合方法设计（Mixed Methods Designs） |
 > |---|---|---|
-> | 实验与准实验（Experimental and quasi-experimental） | [[Qualitative Research\|描述性方法]]（Descriptive method） | [[Convergent Design\|聚敛式]]（Convergent） |
-> | [[Single-Subject Design\|单受试者]]（Single-subject） | [[Narrative Research\|叙事研究]]（Narrative research） | [[Explanatory Sequential Design\|解释性序列]]（Explanatory sequential） |
-> | 非实验（如调查）（Nonexperimental such as surveys） | [[Phenomenology\|现象学]]（Phenomenology） | [[Exploratory Sequential Design\|探索性序列]]（Exploratory sequential） |
-> | [[Longitudinal Study\|纵向研究]]（Longitudinal） | [[Grounded Theory\|扎根理论]]（Grounded theory） | [[Mixed Methods Research\|复杂设计]]（Complex designs with embedded core designs） |
-> | | [[Ethnography\|民族志]]（Ethnography） | |
-> | | [[Case Study\|案例研究]]（Case study） | |
+> | 实验与准实验（Experimental and quasi-experimental） | [[Qualitative Research|描述性方法]]（Descriptive method） | [[Convergent Design|聚敛式]]（Convergent） |
+> | [[Single-Subject Design|单受试者]]（Single-subject） | [[Narrative Research|叙事研究]]（Narrative research） | [[Explanatory Sequential Design|解释性序列]]（Explanatory sequential） |
+> | 非实验（如调查）（Nonexperimental such as surveys） | [[Phenomenology|现象学]]（Phenomenology） | [[Exploratory Sequential Design|探索性序列]]（Exploratory sequential） |
+> | [[Longitudinal Study|纵向研究]]（Longitudinal） | [[Grounded Theory|扎根理论]]（Grounded theory） | [[Mixed Methods Research|复杂设计]]（Complex designs with embedded core designs） |
+> | | [[Ethnography|民族志]]（Ethnography） | |
+> | | [[Case Study|案例研究]]（Case study） | |
 
 量化设计中，[[Survey Research|调查研究]]通过[[Questionnaire|问卷]]或结构化访谈从样本收集数据以推广至总体(Fowler, 2008)。[[Experimental Research|实验研究]]通过[[Random Assignment|随机分配]]处理条件并比较组间差异来检验因果效应(Keppel, 1991)，真实验使用随机分配，准实验使用非随机分配，[[Single-Subject Design|单受试者设计]]在时间维度上对少数个体施加和撤销处理(Cooper et al., 2007)。
 
@@ -409,7 +409,7 @@ citation_aliases:
 > |---|---|---|---|
 > | **问题类型** | 预设的（Predetermined） | 预设与涌现兼有 | 涌现的（Emerging） |
 > | **提问方式** | 基于工具的封闭式问题 | 开放与封闭兼有 | 开放式问题 |
-> | **数据形式** | 表现数据、态度数据、观察数据、人口统计数据 | 利用所有可能性的多种数据形式 | 访谈数据、观察数据、[[Qualitative Documents\|文件数据]]、视听数据 |
+> | **数据形式** | 表现数据、态度数据、观察数据、人口统计数据 | 利用所有可能性的多种数据形式 | 访谈数据、观察数据、[[Qualitative Documents|文件数据]]、视听数据 |
 > | **分析方式** | 统计分析 | 统计分析与文本分析 | 文本与图像分析 |
 > | **解释方式** | 统计解释 | 跨数据库解释 | 主题、模式与解释 |
 
@@ -735,7 +735,7 @@ Rossman & Rallis (2012) 将批判和后现代视角概括为四个相互关联�
 > [!note]- 四种格式对照
 > | 特征 | 质性建构主义 | 质性社会正义 | 量化 | 混合方法 |
 > |---|---|---|---|---|
-> | 哲学基础 | [[Constructivist Paradigm\|建构主义]] | [[Transformative Paradigm\|变革主义]] | [[Postpositivism\|后实证主义]] | [[Pragmatic Paradigm\|实用主义]] |
+> | 哲学基础 | [[Constructivist Paradigm|建构主义]] | [[Transformative Paradigm|变革主义]] | [[Postpositivism|后实证主义]] | [[Pragmatic Paradigm|实用主义]] |
 > | 文献位置 | 可选，通常简要 | 含社会正义理论 | 前端，五部分结构 | 依设计类型而定 |
 > | 独有要素 | 研究者角色、涌现式叙事结构 | 合作性数据收集、预期变革 | 变量操作化、假设检验 | 设计图示、整合声明、联合展示 |
 > | 附录 | 访谈协议、观察表、时间表、预算 | 同左 | 工具和材料 | 工具、协议、设计图、时间表、预算 |
@@ -997,9 +997,9 @@ Script 是一种填空式模板工具，将质性目的陈述的所有要素串�
 
 | 路径 | 使用工具 | 核心特征 |
 |---|---|---|
-| [[Quantitative Research\|量化]] | 研究问题 + 假设 | 围绕[[Variable\|变量]]间关系提问或做方向性预测，通过统计程序检验 |
-| [[Qualitative Research\|质性]] | 只使用研究问题 | 以 what/how 开头，开放探索[[Central Phenomenon\|核心现象]]，不预设结果方向 |
-| [[Mixed Methods Research\|混合方法]] | 量化问题/假设 + 质性问题 + 整合问题 | 三类问题覆盖三类研究组件，顺序反映设计步骤 |
+| [[Quantitative Research|量化]] | 研究问题 + 假设 | 围绕[[Variable|变量]]间关系提问或做方向性预测，通过统计程序检验 |
+| [[Qualitative Research|质性]] | 只使用研究问题 | 以 what/how 开头，开放探索[[Central Phenomenon|核心现象]]，不预设结果方向 |
+| [[Mixed Methods Research|混合方法]] | 量化问题/假设 + 质性问题 + 整合问题 | 三类问题覆盖三类研究组件，顺序反映设计步骤 |
 
 ---
 
@@ -1011,7 +1011,7 @@ Script 是一种填空式模板工具，将质性目的陈述的所有要素串�
 
 量化研究问题分为两类：
 
-| | [[Descriptive Research Question\|描述性研究问题]] | 关系型／推论性研究问题 |
+| | [[Descriptive Research Question|描述性研究问题]] | 关系型／推论性研究问题 |
 |---|---|---|
 | 变量数量 | 单一变量 | 两个或多个变量 |
 | 分析方式 | 描述性统计（均值、标准差、方差、范围） | 推论性统计（如相关分析） |
@@ -1019,7 +1019,7 @@ Script 是一种填空式模板工具，将质性目的陈述的所有要素串�
 
 量化假设的两种基本形式：
 
-| | [[Null Hypothesis\|零假设]] | [[Alternative Hypothesis\|备择假设]] |
+| | [[Null Hypothesis|零假设]] | [[Alternative Hypothesis|备择假设]] |
 |---|---|---|
 | 预测内容 | 总体中无关系或无显著差异 | 存在显著关系 |
 | 方向性 | 无方向（否定性预期） | 最好有方向（directional） |
@@ -1058,11 +1058,11 @@ Script 是一种填空式模板工具，将质性目的陈述的所有要素串�
 
 | 质性路径 | 研究问题的特征 | 关键来源 |
 |---|---|---|
-| [[Ethnography\|民族志]] | 五类问题分类法：微型导览、经历、本土语言、对比、验证性问题 | Spradley (1980) |
-| [[Phenomenology\|现象学]] | 宽泛陈述，不引用文献或类型学；询问参与者经历了什么及在什么情境下 | Moustakas (1994) |
-| [[Grounded Theory\|扎根理论]] | 指向生成关于某一过程的理论，如"照顾者和病人如何互动？" | Creswell |
-| [[Case Study\|案例研究]] | 可包含对案例的描述及研究涌现的主题 | Yin (2009, 2014) |
-| [[Narrative Research\|叙事研究]] | 报告或反思故事 | Clandinin & Connelly (2000) |
+| [[Ethnography|民族志]] | 五类问题分类法：微型导览、经历、本土语言、对比、验证性问题 | Spradley (1980) |
+| [[Phenomenology|现象学]] | 宽泛陈述，不引用文献或类型学；询问参与者经历了什么及在什么情境下 | Moustakas (1994) |
+| [[Grounded Theory|扎根理论]] | 指向生成关于某一过程的理论，如"照顾者和病人如何互动？" | Creswell |
+| [[Case Study|案例研究]] | 可包含对案例的描述及研究涌现的主题 | Yin (2009, 2014) |
+| [[Narrative Research|叙事研究]] | 报告或反思故事 | Clandinin & Connelly (2000) |
 
 质性研究问题的九条写作指南：① 提出一至两个核心问题；② 辅以五至七个子问题；③ 关联特定质性路径；④ 以 what 或 how 开头（why 暗示因果解释思维，属于量化[[Paradigm|范式]]）；⑤ 聚焦单一核心现象；⑥ 使用探索性动词（report/reflect, describe the essence, discover/generate, seek to understand, explore, describe the themes）；⑦ 预计问题会演变；⑧ 使用开放性问题，不引用文献或理论；⑨ 指定参与者和研究场所。
 
@@ -1091,7 +1091,7 @@ Script 是一种填空式模板工具，将质性目的陈述的所有要素串�
 
 ...
 
-| [[Exploratory Sequential Design\|探索性序列设计]] | 质性研究问题在前 → 量化评估问题/假设在后 |
+| [[Exploratory Sequential Design|探索性序列设计]] | 质性研究问题在前 → 量化评估问题/假设在后 |
 
 > [!quote]
 > “在一个合并量化和质性结果的单阶段混合方法项目（[[Convergent Design|聚敛式设计]]）中，量化问题或质性问题都可以首先提出。在一个分为两阶段的项目（[[Explanatory Sequential Design|解释性序列设计]]）中，第一阶段的量化问题或假设将最先出现，随后是第二阶段的质性问题。”
@@ -1150,15 +1150,15 @@ Creswell & Creswell 建议，理想格式是将三类问题分别写入不同章
 
 > [!abstract] 调查设计与实验设计的系统对比
 >
-> | 维度 | [[Survey Research\|调查设计]] | [[Experimental Research\|实验设计]] |
+> | 维度 | [[Survey Research|调查设计]] | [[Experimental Research|实验设计]] |
 > |---|---|---|
 > | 核心目标 | 描述总体趋势、态度、意见，或检验变量间关联 | 检验一个变量对另一个变量的因果效应 |
 > | 变量角色 | 所有变量均被测量，无操纵 | 自变量被主动操纵，因变量被测量 |
 > | 因果推断 | 仅能做出关联推断 | 通过保持其他变量恒定，可做出因果推断 |
-> | 分配方式 | [[Random Sampling\|随机抽样]]（关注样本→总体的代表性） | [[Random Assignment\|随机分配]]（关注组间等价性） |
+> | 分配方式 | [[Random Sampling|随机抽样]]（关注样本→总体的代表性） | [[Random Assignment|随机分配]]（关注组间等价性） |
 > | 典型问题类型 | 描述性、关系性、预测性（纵向） | 因果性（"X 是否导致 Y？"） |
-> | 主要优势 | 经济、快捷、可覆盖大样本 | [[Internal Validity\|内部效度]]高，可建立因果关系 |
-> | 主要局限 | 无法建立因果关系；[[Self-report Bias\|自我报告偏差]] | 操作与伦理约束；[[Ecological Validity\|生态效度]]可能受限 |
+> | 主要优势 | 经济、快捷、可覆盖大样本 | [[Internal Validity|内部效度]]高，可建立因果关系 |
+> | 主要局限 | 无法建立因果关系；[[Self-report Bias|自我报告偏差]] | 操作与伦理约束；[[Ecological Validity|生态效度]]可能受限 |
 > | 典型应用 | 民意调查、态度研究、大规模教育评估 | 干预效果评估、实验室行为研究、教学法比较 |
 >
 > Source: Creswell & Creswell, 2022, Ch8
@@ -1172,14 +1172,14 @@ Creswell & Creswell 建议，理想格式是将三类问题分别写入不同章
 
 > [!abstract] 调查方法计划组件一览
 >
-> | 组件 | 关键决策 | [[Big Ideas\|核心概念]] | 详见 |
+> | 组件 | 关键决策 | [[Big Ideas|核心概念]] | 详见 |
 > |---|---|---|---|
 > | 调查设计 | 目的声明 → 选择理由 → 横截面/纵向 → 数据收集形式 | 设计类型选择、不可行性辩护 | [[Survey Research]] |
-> | 总体与样本 | 总体识别 → 抽样设计（单阶段/整群）→ 抽样类型（随机/系统/便利）→ 分层 → [[Sample Size Determination\|样本量确定]] | [[Study Population and Sample\|总体 vs 样本]]、[[Random Sampling\|抽样层级]]、[[Power Analysis\|功效分析]] | [[Survey Research]]、[[Power Analysis]] |
-> | 工具 | 选择已有/修改/自编工具 → 报告分数效度 → 报告分数信度 → [[Pilot Testing\|试点测试]] → 施测流程 | [[Construct Validity in Quantitative Measurement\|构念效度]]与效标效度、[[Internal Consistency and Cronbach's Alpha\|内部一致性]]（Cronbach's α, .7–.9）、[[Test-Retest Reliability\|重测信度]]、[[Inter-Rater Reliability\|评分者间信度]] | [[Survey Research]]、[[Pilot Testing]] |
+> | 总体与样本 | 总体识别 → 抽样设计（单阶段/整群）→ 抽样类型（随机/系统/便利）→ 分层 → [[Sample Size Determination|样本量确定]] | [[Study Population and Sample|总体 vs 样本]]、[[Random Sampling|抽样层级]]、[[Power Analysis|功效分析]] | [[Survey Research]]、[[Power Analysis]] |
+> | 工具 | 选择已有/修改/自编工具 → 报告分数效度 → 报告分数信度 → [[Pilot Testing|试点测试]] → 施测流程 | [[Construct Validity in Quantitative Measurement|构念效度]]与效标效度、[[Internal Consistency and Cronbach's Alpha|内部一致性]]（Cronbach's α, .7–.9）、[[Test-Retest Reliability|重测信度]]、[[Inter-Rater Reliability|评分者间信度]] | [[Survey Research]]、[[Pilot Testing]] |
 > | 变量 | 变量名称 → 操作性定义 → 测量工具 → 变量对照表 | Table 8.2 变量—定义—工具三列对照 | [[Variable]] |
-> | 数据分析 | 回应率 → [[Response Bias\|回应偏差]] → [[Descriptive Analysis\|描述性分析]] → 信度检查 → 推断统计 → 结果呈现 | Table 8.3 六因素统计选择矩阵 | [[Survey Research]]、[[Descriptive Analysis]] |
-> | [[Preregistration\|预注册]]与解释 | 探索性 vs 确认性 → 预注册 → 四层结果报告 → 讨论写作 | [[Preregistration\|预注册]]、[[Statistical Significance\|显著性]]（p 值）、[[Confidence Interval\|置信区间]]、[[Effect Size\|效应量]] | [[Preregistration]]、[[Statistical Significance]] |
+> | 数据分析 | 回应率 → [[Response Bias|回应偏差]] → [[Descriptive Analysis|描述性分析]] → 信度检查 → 推断统计 → 结果呈现 | Table 8.3 六因素统计选择矩阵 | [[Survey Research]]、[[Descriptive Analysis]] |
+> | [[Preregistration|预注册]]与解释 | 探索性 vs 确认性 → 预注册 → 四层结果报告 → 讨论写作 | [[Preregistration|预注册]]、[[Statistical Significance|显著性]]（p 值）、[[Confidence Interval|置信区间]]、[[Effect Size|效应量]] | [[Preregistration]]、[[Statistical Significance]] |
 >
 > Source: Creswell & Creswell, 2022, Ch8
 
@@ -1216,8 +1216,8 @@ Creswell & Creswell 建议，理想格式是将三类问题分别写入不同章
 > | 1. 回应率报告 | 回应与未回应人数及百分比 | 回应者/非回应者频率表 | [[Survey Research]] |
 > | 2. 回应偏差检查 | 非回应者若回应是否会改变结果 | 波次分析(Leslie, 1972)或回应者/非回应者电话对比 | [[Response Bias]] |
 > | 3. 描述性分析 | 均值、标准差、得分范围；缺失数据识别与处理 | 缺失数据处理策略(Schafer & Graham, 2002) | [[Descriptive Analysis]] |
-> | 4. 信度检查 | 反向计分、量表总分计算、[[Internal Consistency\|内部一致性]] | Cronbach's α | [[Internal Consistency and Cronbach's Alpha]] |
-> | 5. 推断统计 | 选择适当统计量检验假设 | Table 8.3 六因素选择矩阵 | [[t-test]]、[[Analysis of Variance\|ANOVA]]、[[Multiple Regression]] 等 |
+> | 4. 信度检查 | 反向计分、量表总分计算、[[Internal Consistency|内部一致性]] | Cronbach's α | [[Internal Consistency and Cronbach's Alpha]] |
+> | 5. 推断统计 | 选择适当统计量检验假设 | Table 8.3 六因素选择矩阵 | [[t-test]]、[[Analysis of Variance|ANOVA]]、[[Multiple Regression]] 等 |
 > | 6. 结果呈现 | 表格或图形呈现 + 解释 | — | [[Survey Research]] |
 >
 > Source: Creswell & Creswell, 2022, Ch8
@@ -1226,12 +1226,12 @@ Creswell & Creswell 建议，理想格式是将三类问题分别写入不同章
 >
 > | 问题性质 | 自变量数 | 因变量数 | 协变量数 | 变量类型 | 分数分布 | 统计检验 | 检验产出 |
 > |---|---|---|---|---|---|---|---|
-> | 组间比较 | 1 | 1 | 0 | 类别/连续 | 正态 | [[t-test\|t 检验]]（t） | 两组在结果上的比较 |
-> | 组间比较 | ≥1 | 1 | 0 | 类别/连续 | 正态 | [[Analysis of Variance\|ANOVA]]（F） | 两组或多组在结果上的比较 |
-> | 组间比较 | ≥1 | 1 | 1 | 类别/连续 | 正态 | [[Analysis of Variance\|ANCOVA]]（F） | 控制协变量后两组或多组在结果上的比较 |
-> | 组间关联 | 1 | 1 | 0 | 类别/类别 | 非正态 | [[Chi-Squared Test\|χ² 检验]]（χ²） | 两个类别变量的关联 |
-> | 变量关联 | 1 | 1 | 0 | 连续/连续 | 正态 | [[Pearson Product-Moment Correlation\|Pearson 相关]]（r） | 两变量关联的强度与方向 |
-> | 变量关联 | ≥2 | 1 | 0 | 连续/连续 | 正态 | [[Multiple Regression\|多元回归]]（R², F, b, t） | 多预测变量对一个结果变量的关系，每个预测变量的相对贡献 |
+> | 组间比较 | 1 | 1 | 0 | 类别/连续 | 正态 | [[t-test|t 检验]]（t） | 两组在结果上的比较 |
+> | 组间比较 | ≥1 | 1 | 0 | 类别/连续 | 正态 | [[Analysis of Variance|ANOVA]]（F） | 两组或多组在结果上的比较 |
+> | 组间比较 | ≥1 | 1 | 1 | 类别/连续 | 正态 | [[Analysis of Variance|ANCOVA]]（F） | 控制协变量后两组或多组在结果上的比较 |
+> | 组间关联 | 1 | 1 | 0 | 类别/类别 | 非正态 | [[Chi-Squared Test|χ² 检验]]（χ²） | 两个类别变量的关联 |
+> | 变量关联 | 1 | 1 | 0 | 连续/连续 | 正态 | [[Pearson Product-Moment Correlation|Pearson 相关]]（r） | 两变量关联的强度与方向 |
+> | 变量关联 | ≥2 | 1 | 0 | 连续/连续 | 正态 | [[Multiple Regression|多元回归]]（R², F, b, t） | 多预测变量对一个结果变量的关系，每个预测变量的相对贡献 |
 >
 > Source: Creswell & Creswell, 2022, Ch8, Table 8.3
 
@@ -1258,9 +1258,9 @@ Creswell & Creswell 建议，理想格式是将三类问题分别写入不同章
 > | 层次 | 回答的问题 | 核心指标 |
 > |---|---|---|
 > | 描述统计 | 数据看起来是什么样的？ | 均值、标准差、范围、频率 |
-> | [[Statistical Significance\|统计显著性]] | 结果是否可能仅由偶然产生？ | p 值（通常以 .05 或 .01 为阈值） |
-> | [[Confidence Interval\|置信区间]] | 估计值的精确度如何？ | 95% CI 表示若重复 100 次，其中 95 次该区间包含真实总体值 |
-> | [[Effect Size\|效应量]] | 效果的强度有多大？（实际意义） | 与统计显著性独立，回答"差异有多大"而非"差异是否存在" |
+> | [[Statistical Significance|统计显著性]] | 结果是否可能仅由偶然产生？ | p 值（通常以 .05 或 .01 为阈值） |
+> | [[Confidence Interval|置信区间]] | 估计值的精确度如何？ | 95% CI 表示若重复 100 次，其中 95 次该区间包含真实总体值 |
+> | [[Effect Size|效应量]] | 效果的强度有多大？（实际意义） | 与统计显著性独立，回答"差异有多大"而非"差异是否存在" |
 >
 > Source: APA, 2020; 引自 Creswell & Creswell, 2022, Ch8
 
@@ -1274,13 +1274,13 @@ Creswell & Creswell 建议，理想格式是将三类问题分别写入不同章
 >
 > | 组件 | 关键决策 | 实验独有要素 | 详见 |
 > |---|---|---|---|
-> | 参与者与设计 | 招募 → 纳入排除标准 → 随机分配 → 功效分析 → 设计声明 | [[Random Assignment\|随机分配]]（真实验 vs 准实验的分界线） | [[Experimental Research]]、[[Random Assignment]] |
-> | 变量 | 自变量操纵 → 操纵检查 → 因变量测量 → 其他变量控制 | [[Manipulation Check\|操纵检查]]（验证操纵是否成功） | [[Experimental Research]]、[[Manipulation Check]] |
-> | 工具与材料 | 操纵材料 + 测量工具 + [[Cover Story\|封面故事]] | [[Cover Story\|封面故事]]（表面可信的解释）+ 解除欺骗 | [[Cover Story]] |
-> | 实验程序 | 设计类型 → 符号图示 → 分配模式 | [[Campbell and Stanley Notation System\|Campbell & Stanley 符号系统]]（X/O/R）；[[Pre-Experimental Designs\|前实验]]/[[Quasi-Experimental Designs\|准实验]]/真实验/[[Single-Subject Design\|单受试者]] | [[Between-Subjects and Within-Subjects Designs]]、[[Factorial Design]]、[[Solomon Four-Group Design]] |
-> | 效度威胁 | 识别 → 分类 → 应对策略 | 10 种[[Internal Validity\|内部效度威胁]] + 3 种[[External Validity\|外部效度威胁]] | [[Internal Validity]]、[[External Validity]] |
-> | 操作步骤 | 时序流程 → 偏差最小化 | [[Blinding\|盲法]]降低[[Experimenter Bias\|实验者偏差]] | [[Blinding]]、[[Experimenter Bias]] |
-> | 数据分析与预注册 | 描述统计 → 初步分析 → 推断检验 → 预注册 | 组间比较为主（ANOVA/[[Analysis of Covariance\|ANCOVA]]/MANOVA）；因子设计检交互 | [[Analysis of Variance\|ANOVA]]、[[Preregistration]] |
+> | 参与者与设计 | 招募 → 纳入排除标准 → 随机分配 → 功效分析 → 设计声明 | [[Random Assignment|随机分配]]（真实验 vs 准实验的分界线） | [[Experimental Research]]、[[Random Assignment]] |
+> | 变量 | 自变量操纵 → 操纵检查 → 因变量测量 → 其他变量控制 | [[Manipulation Check|操纵检查]]（验证操纵是否成功） | [[Experimental Research]]、[[Manipulation Check]] |
+> | 工具与材料 | 操纵材料 + 测量工具 + [[Cover Story|封面故事]] | [[Cover Story|封面故事]]（表面可信的解释）+ 解除欺骗 | [[Cover Story]] |
+> | 实验程序 | 设计类型 → 符号图示 → 分配模式 | [[Campbell and Stanley Notation System|Campbell & Stanley 符号系统]]（X/O/R）；[[Pre-Experimental Designs|前实验]]/[[Quasi-Experimental Designs|准实验]]/真实验/[[Single-Subject Design|单受试者]] | [[Between-Subjects and Within-Subjects Designs]]、[[Factorial Design]]、[[Solomon Four-Group Design]] |
+> | 效度威胁 | 识别 → 分类 → 应对策略 | 10 种[[Internal Validity|内部效度威胁]] + 3 种[[External Validity|外部效度威胁]] | [[Internal Validity]]、[[External Validity]] |
+> | 操作步骤 | 时序流程 → 偏差最小化 | [[Blinding|盲法]]降低[[Experimenter Bias|实验者偏差]] | [[Blinding]]、[[Experimenter Bias]] |
+> | 数据分析与预注册 | 描述统计 → 初步分析 → 推断检验 → 预注册 | 组间比较为主（ANOVA/[[Analysis of Covariance|ANCOVA]]/MANOVA）；因子设计检交互 | [[Analysis of Variance|ANOVA]]、[[Preregistration]] |
 >
 > Source: Creswell & Creswell, 2022, Ch8
 
@@ -1306,12 +1306,12 @@ Creswell & Creswell 建议，理想格式是将三类问题分别写入不同章
 
 > [!abstract] 四种实验设计类型的系统对比
 >
-> | 维度 | [[Pre-Experimental Designs\|前实验设计]] | [[Quasi-Experimental Designs\|准实验设计]] | 真实验 | [[Single-Subject Design\|单受试者设计]] |
+> | 维度 | [[Pre-Experimental Designs|前实验设计]] | [[Quasi-Experimental Designs|准实验设计]] | 真实验 | [[Single-Subject Design|单受试者设计]] |
 > |---|---|---|---|---|
-> | [[Random Assignment\|随机分配]] | 无 | 部分或完全缺失 | 有，核心特征 | 无（个体内比较） |
+> | [[Random Assignment|随机分配]] | 无 | 部分或完全缺失 | 有，核心特征 | 无（个体内比较） |
 > | 对照组 | 无或非等价 | 有但非等价 | 有且等价（随机分配保证） | 自身为对照（A-B-A） |
-> | [[Internal Validity\|内部效度]] | 最低 | 中等 | 最高 | 中等（依赖视觉分析） |
-> | 典型设计 | 一次性个案、单组前[[Pre-test and Post-test\|后测]]、静态组比较 | 非等价对照组前后测、中断时间序列 | 前后测对照组、仅后测对照组、[[Solomon Four-Group Design\|Solomon 四组]] | A-B-A、多基线 |
+> | [[Internal Validity|内部效度]] | 最低 | 中等 | 最高 | 中等（依赖视觉分析） |
+> | 典型设计 | 一次性个案、单组前[[Pre-test and Post-test|后测]]、静态组比较 | 非等价对照组前后测、中断时间序列 | 前后测对照组、仅后测对照组、[[Solomon Four-Group Design|Solomon 四组]] | A-B-A、多基线 |
 > | 核心局限 | 无法排除历史/成熟等替代解释 | 选择偏差无法完全排除 | 生态效度可能受限 | 外部效度有限（N 小） |
 > | 适用情境 | 初步探索、教学演示 | 无法随机化的实地研究（学校、医院） | 实验室研究、可随机分配的干预 | 特殊教育、行为干预、临床个案 |
 >
@@ -1323,10 +1323,10 @@ Creswell & Creswell 建议，理想格式是将三类问题分别写入不同章
 >
 > | 威胁类别 | 数量 | 核心问题 | 应对逻辑 | 详见 |
 > |---|---|---|---|---|
-> | [[Internal Validity\|内部效度威胁]]—受试者相关 | 5 种（历史、成熟、回归、选择、[[Attrition\|流失]]） | 受试者自身变化或特征是否替代了处理效应？ | 保持组间等价（随机分配、同质样本） | [[Internal Validity]] |
-> | [[Internal Validity\|内部效度威胁]]—处理相关 | 3 种（扩散、补偿性怨恨、补偿性竞争） | 组间互动或心理反应是否污染了处理效应？ | 隔离或补偿对照组 | [[Internal Validity]] |
-> | [[Internal Validity\|内部效度威胁]]—程序相关 | 2 种（测验、工具） | 测量过程本身是否改变了结果？ | 统一前后测工具、延长间隔 | [[Internal Validity]] |
-> | [[External Validity\|外部效度威胁]] | 3 种（选择×处理、情境×处理、历史×处理） | 结果能否推广到其他人群、情境和时间？ | 限制推广范围、在不同条件下复制 | [[External Validity]] |
+> | [[Internal Validity|内部效度威胁]]—受试者相关 | 5 种（历史、成熟、回归、选择、[[Attrition|流失]]） | 受试者自身变化或特征是否替代了处理效应？ | 保持组间等价（随机分配、同质样本） | [[Internal Validity]] |
+> | [[Internal Validity|内部效度威胁]]—处理相关 | 3 种（扩散、补偿性怨恨、补偿性竞争） | 组间互动或心理反应是否污染了处理效应？ | 隔离或补偿对照组 | [[Internal Validity]] |
+> | [[Internal Validity|内部效度威胁]]—程序相关 | 2 种（测验、工具） | 测量过程本身是否改变了结果？ | 统一前后测工具、延长间隔 | [[Internal Validity]] |
+> | [[External Validity|外部效度威胁]] | 3 种（选择×处理、情境×处理、历史×处理） | 结果能否推广到其他人群、情境和时间？ | 限制推广范围、在不同条件下复制 | [[External Validity]] |
 >
 > Source: Adapted from Creswell & Guetterman (2018); 引自 Creswell & Creswell, 2022, Ch8
 
@@ -1353,14 +1353,14 @@ Creswell 在此做了一个关键的层次区分：内部效度与外部效度�
 
 > [!abstract] 调查与实验方法计划的组件对照
 >
-> | 组件 | [[Survey Research\|调查方法计划]] | [[Experimental Research\|实验方法计划]] | 共性/差异 |
+> | 组件 | [[Survey Research|调查方法计划]] | [[Experimental Research|实验方法计划]] | 共性/差异 |
 > |---|---|---|---|
-> | 起点 | 调查目的与设计类型 | 参与者招募与[[Random Assignment\|随机分配]] | 调查从"测什么"出发；实验从"谁是受试者、如何分组"出发 |
-> | 样本 | [[Study Population and Sample\|总体→样本]]、抽样设计、分层、[[Power Analysis\|功效分析]] | 纳入排除标准、[[Power Analysis\|功效分析]]（焦点转向组间检测） | 功效分析共享，但调查关注关联检测，实验关注组间差异检测 |
-> | 变量 | 预测变量+结果变量+控制变量 | 自变量+[[Manipulation Check\|操纵检查]]+因变量+混淆变量 | 实验独有的操纵检查是质量控制的标志 |
-> | 工具 | 工具信效度、[[Pilot Testing\|试点测试]]、内容构成、施测流程 | 操纵材料+测量工具+[[Cover Story\|封面故事]] | 实验增加了操纵材料和封面故事 |
-> | 设计核心 | 横截面/纵向选择 | [[Pre-Experimental Designs\|前实验]]→[[Quasi-Experimental Designs\|准实验]]→真实验→[[Single-Subject Design\|单受试者]]选择 + [[Campbell and Stanley Notation System\|符号图示]] | 实验设计类型的复杂度远高于调查 |
-> | 质量控制 | [[Response Bias\|回应偏差]]检查 | [[Internal Validity\|内部效度]]+[[External Validity\|外部效度]]威胁识别与应对 + [[Blinding\|盲法]] | 调查关注数据收集偏差；实验关注因果推论威胁 |
+> | 起点 | 调查目的与设计类型 | 参与者招募与[[Random Assignment|随机分配]] | 调查从"测什么"出发；实验从"谁是受试者、如何分组"出发 |
+> | 样本 | [[Study Population and Sample|总体→样本]]、抽样设计、分层、[[Power Analysis|功效分析]] | 纳入排除标准、[[Power Analysis|功效分析]]（焦点转向组间检测） | 功效分析共享，但调查关注关联检测，实验关注组间差异检测 |
+> | 变量 | 预测变量+结果变量+控制变量 | 自变量+[[Manipulation Check|操纵检查]]+因变量+混淆变量 | 实验独有的操纵检查是质量控制的标志 |
+> | 工具 | 工具信效度、[[Pilot Testing|试点测试]]、内容构成、施测流程 | 操纵材料+测量工具+[[Cover Story|封面故事]] | 实验增加了操纵材料和封面故事 |
+> | 设计核心 | 横截面/纵向选择 | [[Pre-Experimental Designs|前实验]]→[[Quasi-Experimental Designs|准实验]]→真实验→[[Single-Subject Design|单受试者]]选择 + [[Campbell and Stanley Notation System|符号图示]] | 实验设计类型的复杂度远高于调查 |
+> | 质量控制 | [[Response Bias|回应偏差]]检查 | [[Internal Validity|内部效度]]+[[External Validity|外部效度]]威胁识别与应对 + [[Blinding|盲法]] | 调查关注数据收集偏差；实验关注因果推论威胁 |
 > | 数据分析 | 描述→回应偏差→信度→推断六步骤 | 描述→初步分析（随机化/操纵检查）→推断（组间比较） | 实验增加了操纵成功性检验 |
 > | 终点 | 四层结果解释+讨论写作 | 假设检验+讨论（因果主张+局限+推广范围） | 实验讨论需额外说明推广的边界条件 |
 >
@@ -1401,7 +1401,7 @@ Creswell 在此做了一个关键的层次区分：内部效度与外部效度�
 > |---|---|
 > | 1 | 是否提及了质性研究的基本特征？ |
 > | 2 | 是否提及了研究将使用的具体质性设计类型？ |
-> | 3 | 是否指出了对场所和个体的[[Purposeful Sampling\|目的性抽样]]策略？ |
+> | 3 | 是否指出了对场所和个体的[[Purposeful Sampling|目的性抽样]]策略？ |
 > | 4 | 是否提出了明确的参与者招募策略？ |
 > | 5 | 是否提及了具体的数据收集形式并说明了使用理由？ |
 > | 6 | 是否识别了潜在的伦理问题并提出了应对策略？是否已获得 IRB 批准？ |
@@ -1424,17 +1424,17 @@ Creswell 在此做了一个关键的层次区分：内部效度与外部效度�
 |---|---|
 | 参与者意义 | 研究聚焦参与者对问题所持有的意义，而非研究者或文献的意义 |
 | 自然情境 | 在参与者经历问题的现场收集数据，不进入实验室或发送工具 |
-| [[Researcher as Key Instrument\|研究者作为关键工具]] | 自行通过检查文件、观察行为或访谈收集和解释数据 |
-| 多种数据来源 | 访谈、观察、文件、[[Audiovisual, Social Media, and Digital Materials\|视听材料]]等多形式数据汇集为编码和主题 |
+| [[Researcher as Key Instrument|研究者作为关键工具]] | 自行通过检查文件、观察行为或访谈收集和解释数据 |
+| 多种数据来源 | 访谈、观察、文件、[[Audiovisual, Social Media, and Digital Materials|视听材料]]等多形式数据汇集为编码和主题 |
 | 归纳与演绎分析 | 从数据向上建构模式（归纳），再从主题回查数据（演绎） |
-| [[Emergent Design\|涌现式设计]] | 初始计划不固定，随深入探究而在研究过程中演变 |
-| [[Reflexivity\|反身性]] | 反思自身背景（性别、文化、历史、社会经济出身）如何塑造解释，讨论建立在 [[Memos\|备忘录]] 基础上 |
+| [[Emergent Design|涌现式设计]] | 初始计划不固定，随深入探究而在研究过程中演变 |
+| [[Reflexivity|反身性]] | 反思自身背景（性别、文化、历史、社会经济出身）如何塑造解释，讨论建立在 [[Memos|备忘录]] 基础上 |
 
 > [!quote]
 > “[[Reflexivity|反身性]]要求就两个重要方面做出评论：(a) 包括关于与[[Research Question|研究问题]]、参与者或场所的过去经验陈述，帮助读者理解研究者与研究之间的联系——这些经验可能涉及场所参与、过去教育或工作经验、文化、族裔、种族、社会经济地位或其他直接连接研究者与研究的人口学特征——以及 (b) 明确这些经验如何可能潜在地塑造研究者在研究过程中做出的解释。例如，经验可能使研究者倾向于某些主题、主动寻找支持自身立场的证据，并形成对场所或参与者的有利或不利结论。”
 > (“Reflexivity requires commenting on two important aspects: (a) include statements about past experiences with the [[Research Problem]] or with the participants or setting that help the reader understand the connection between the researchers and the study... and (b) be explicit about how these experiences may potentially shape the interpretations the researchers make during the study. For example, the experiences may cause researchers to lean toward certain themes, actively look for evidence to support their positions, and create favorable or unfavorable conclusions about the sites or participants.”)（第9章, p.195）
 
-| 研究者角色 | 警惕 [[Backyard Research\|后院研究]] 的权力失衡与信息妥协 |
+| 研究者角色 | 警惕 [[Backyard Research|后院研究]] 的权力失衡与信息妥协 |
 | 复杂性描述 | 报告多重视角和非线性、多因素交互的图景 |
 
 ---
@@ -1479,10 +1479,10 @@ Creswell 在此做了一个关键的层次区分：内部效度与外部效度�
 
 | 类型 | 定义 | 优势 | 局限 |
 |---|---|---|---|
-| [[Qualitative Observation\|质性观察]] | 在现场记录行为和活动的田野笔记；角色从完全参与者到完全观察者 | 一手经验、即时记录、可探索参与者不愿讨论的话题 | 可能被视为侵入、私人信息不可报告、观察技能不足 |
-| [[Qualitative Interview\|质性访谈]] | 面对面、电话或[[Focus Group\|焦点小组]]（6-8人）的非结构化和开放式问答 | 当无法直接观察时有用、可获取历史信息、问题线索可控 | 间接过滤信息、非自然场所、研究者在场偏差 |
-| [[Qualitative Documents\|质性文件]] | 公共文件（报纸、会议记录）或私人文件（日记、信件、电邮） | 获取参与者语言、非侵入性、节省[[Transcription in Qualitative Research\|转录]]时间 | 可能不完整或不真实、受保护信息、需要搜索 |
-| [[Audiovisual, Social Media, and Digital Materials\|视听和数字材料]] | 照片、录像、网站、社交媒体文本、声音等 |
+| [[Qualitative Observation|质性观察]] | 在现场记录行为和活动的田野笔记；角色从完全参与者到完全观察者 | 一手经验、即时记录、可探索参与者不愿讨论的话题 | 可能被视为侵入、私人信息不可报告、观察技能不足 |
+| [[Qualitative Interview|质性访谈]] | 面对面、电话或[[Focus Group|焦点小组]]（6-8人）的非结构化和开放式问答 | 当无法直接观察时有用、可获取历史信息、问题线索可控 | 间接过滤信息、非自然场所、研究者在场偏差 |
+| [[Qualitative Documents|质性文件]] | 公共文件（报纸、会议记录）或私人文件（日记、信件、电邮） | 获取参与者语言、非侵入性、节省[[Transcription in Qualitative Research|转录]]时间 | 可能不完整或不真实、受保护信息、需要搜索 |
+| [[Audiovisual, Social Media, and Digital Materials|视听和数字材料]] | 照片、录像、网站、社交媒体文本、声音等 |
 
 > [!warning] 伦理问题
 > 每个伦理问题需要讨论应对策略。关键做法包括：寻求文化群体的本地合作、试点测试数据收集程序、获得关键领导人的许可、建立信任、使用无偏见语言、赋予参与者对结果的所有权(p.200)。
@@ -1538,14 +1538,14 @@ Creswell 在此做了一个关键的层次区分：内部效度与外部效度�
 
 | 策略 | 核心操作 |
 |---|---|
-| [[Triangulation\|三角验证]] | 从多个数据来源汇聚证据，为每个主题构建一致基础 |
-| [[Member Checking\|成员核查]] | 将部分打磨后的产品（主要发现、主题等）带回参与者确认，而非带回原始转录稿 |
-| [[Rich and Thick Description\|丰富密集描述]] | 详细场所描述和多重视角，将读者”传送”到现场，赋予共享经验的元素 |
-| 澄清偏见 | 通过[[Reflexivity\|反身性]]自我反思，创造开放诚实的叙事——背景（性别、文化、历史、社会经济出身）如何塑造解释 |
+| [[Triangulation|三角验证]] | 从多个数据来源汇聚证据，为每个主题构建一致基础 |
+| [[Member Checking|成员核查]] | 将部分打磨后的产品（主要发现、主题等）带回参与者确认，而非带回原始转录稿 |
+| [[Rich and Thick Description|丰富密集描述]] | 详细场所描述和多重视角，将读者”传送”到现场，赋予共享经验的元素 |
+| 澄清偏见 | 通过[[Reflexivity|反身性]]自我反思，创造开放诚实的叙事——背景（性别、文化、历史、社会经济出身）如何塑造解释 |
 | 呈现负面或矛盾信息 | 真实生活包含不相容视角，讨论与主题相矛盾的证据增加报告可信度和真实感 |
 | 延长现场时间 | 在现场停留越久→对现象的理解越深入→发现越准确→叙述的可信度越高 |
-| [[Peer Debriefing\|同行审议]] | 同行审议者审查并提出问题，确保报告与研究者以外的人共鸣——涉及研究者解释以外的另一个人的解读 |
-| [[External Auditor\|外部审计]] | 不熟悉研究者或项目的[[External Auditor\|外部审计者]]审查整个项目全过程——从转录准确性到数据从原始到解释的分析层次 |
+| [[Peer Debriefing|同行审议]] | 同行审议者审查并提出问题，确保报告与研究者以外的人共鸣——涉及研究者解释以外的另一个人的解读 |
+| [[External Auditor|外部审计]] | 不熟悉研究者或项目的[[External Auditor|外部审计者]]审查整个项目全过程——从转录准确性到数据从原始到解释的分析层次 |
 
 质性信度关注方法一致性(Gibbs, 2007)，[[Intercoder Agreement|编码者间一致性]]要求≥80%(Miles & Huberman, 1994)，各策略的完整讨论见 [[Qualitative Validity]] 和 [[Qualitative Reliability]] 条目。
 
@@ -1670,10 +1670,10 @@ Creswell & Creswell 提出混合方法研究的六个定义性特征，从核心
 
 | 复杂设计 | 核心机制 | 详见 |
 |---|---|---|
-| [[Mixed Methods Experimental Design\|混合方法实验设计]] | 质性数据嵌入实验前（探索性序列）、中（聚敛式）、后（解释性序列）三个时间点(Sandelowski, 1996) | 健康科学领域尤为流行 |
-| [[Mixed Methods Case Study Design\|混合方法案例研究设计]] | 演绎法（预先确定案例）和归纳法（从数据中形成案例）两种变体，核心设计嵌入案例比较框架 | 需结合 Stake / Yin 的案例研究方法论 |
-| [[Mixed Methods Participatory-Social Justice Design\|混合方法参与式社会正义设计]] | 需求评估→侦察→规划→实施→评价→改进的循环流程，在侦察和评价阶段嵌入核心设计 | 建议团队方式，社区信任关系要求高 |
-| [[Mixed Methods Evaluation Design\|混合方法评价设计]] | 五阶段（需求评估→理论概念化→工具开发→实施检验→跟进完善），阶段间整合对应探索性序列和解释性序列的串联 | 混合方法作为评价过程支持性方法论 |
+| [[Mixed Methods Experimental Design|混合方法实验设计]] | 质性数据嵌入实验前（探索性序列）、中（聚敛式）、后（解释性序列）三个时间点(Sandelowski, 1996) | 健康科学领域尤为流行 |
+| [[Mixed Methods Case Study Design|混合方法案例研究设计]] | 演绎法（预先确定案例）和归纳法（从数据中形成案例）两种变体，核心设计嵌入案例比较框架 | 需结合 Stake / Yin 的案例研究方法论 |
+| [[Mixed Methods Participatory-Social Justice Design|混合方法参与式社会正义设计]] | 需求评估→侦察→规划→实施→评价→改进的循环流程，在侦察和评价阶段嵌入核心设计 | 建议团队方式，社区信任关系要求高 |
+| [[Mixed Methods Evaluation Design|混合方法评价设计]] | 五阶段（需求评估→理论概念化→工具开发→实施检验→跟进完善），阶段间整合对应探索性序列和解释性序列的串联 | 混合方法作为评价过程支持性方法论 |
 
 将核心设计嵌入复杂程序的通用五步法：识别数据收集→绘制流程图→定位混合机会→判断整合方式（合并→聚敛式，连接→序列设计）→呈现双重图表。四种复杂设计的图示（图10.3–10.6）见各自方法条目。
 
@@ -1687,7 +1687,7 @@ Creswell & Creswell 提出混合方法研究的六个定义性特征，从核心
 > |---|---|---|---|
 > | **聚敛式设计** | Compare, Match, Corroborate/Validate, Expand, Enhance, Diffract, Identify Cases, Initiating, Complete Understanding | Merge（合并） | 量化与质性两者 |
 > | **解释性序列设计** | Expand, Explain | Connect（连接）：量化结果连接到质性数据收集 | 量化与质性两者 |
-> | **探索性序列设计** | Build Upon, Transfer, Generalize | Connect（连接）：质性[[Outcomes-based Education\|结果导向]]量化评估设计并检验 | 量化与质性两者 |
+> | **探索性序列设计** | Build Upon, Transfer, Generalize | Connect（连接）：质性[[Outcomes-based Education|结果导向]]量化评估设计并检验 | 量化与质性两者 |
 > | **复杂混合方法设计** | Augment（optimize, ascertain needs, monitor） | Add into a process/framework（加入过程/框架） | 量化、质性或两者 |
 
 设计选择的首要依据是意图和程序（表 10.5）。两张决策流程图（图10.7 基于意图、图10.8 基于程序）见 [[Integration Statement]] 条目。次要依据包括学科倾向、研究者规模、导师推荐。Creswell 明确反对将时间安排和数据优先级作为设计选择标准，主张量化和质性数据应享有同等合法性(p.251)。

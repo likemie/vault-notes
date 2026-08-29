@@ -110,7 +110,7 @@ updated: 2026-07-13
 ## 概念辨析
 
 > [!contrast-table] 重测[[Reliability|信度]] vs [[Internal Consistency|内部一致性]] vs [[Inter-Rater Reliability|评分者间信度]]
-> | 维度 | 重测信度 | [[Internal Consistency\|内部一致性]] | [[Inter-Rater Reliability\|评分者间信度]] |
+> | 维度 | 重测信度 | [[Internal Consistency|内部一致性]] | [[Inter-Rater Reliability|评分者间信度]] |
 > |---|---|---|---|
 > | 核心问题 | 同一量表在不同时间是否一致？ | 同一时间点各条目是否一致？ | 不同评分者之间是否一致？ |
 > | 信度类型 | 纵向信度（稳定性） | 横截面信度（条目间一致） | 评分者间信度（等值性） |

@@ -66,10 +66,10 @@ updated: 2026-06-02
 >
 > | 设计类型 | 整合意图 | 整合程序 |
 > |---|---|---|
-> | [[Convergent Design\|聚敛式设计]] | 比较、匹配、确认、扩展、完整理解 | 合并（将数据库并排） |
-> | [[Explanatory Sequential Design\|解释性序列设计]] | 扩展、解释 | 连接（量化结果连接质性数据收集） |
-> | [[Exploratory Sequential Design\|探索性序列设计]] | 构建、迁移、推广 | 连接（质性结果导向量化评估的设计与检验） |
-> | [[Mixed Methods Research\|复杂混合方法设计]] | 增强（优化、确定需求、监控） | 嵌入过程/框架中 |
+> | [[Convergent Design|聚敛式设计]] | 比较、匹配、确认、扩展、完整理解 | 合并（将数据库并排） |
+> | [[Explanatory Sequential Design|解释性序列设计]] | 扩展、解释 | 连接（量化结果连接质性数据收集） |
+> | [[Exploratory Sequential Design|探索性序列设计]] | 构建、迁移、推广 | 连接（质性结果导向量化评估的设计与检验） |
+> | [[Mixed Methods Research|复杂混合方法设计]] | 增强（优化、确定需求、监控） | 嵌入过程/框架中 |
 
 ---
 

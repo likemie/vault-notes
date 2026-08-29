@@ -70,11 +70,11 @@ updated: 2026-08-03
 ## 概念辨析
 
 > [!contrast-table] 概念辨析
-> | 维度 | [[Curriculum as Process\|作为过程的课程]]（Process） | 作为[[Praxis\|实践]]的课程（Praxis） |
+> | 维度 | [[Curriculum as Process|作为过程的课程]]（Process） | 作为[[Praxis|实践]]的课程（Praxis） |
 > |------|----------------------------------|----------------------------------|
-> | **指导理性** | [[Phronesis\|实践明智]]（*Phronesis*） | 解放理性与[[Praxis\|实践]]（*Praxis*） |
+> | **指导理性** | [[Phronesis|实践明智]]（*Phronesis*） | 解放理性与[[Praxis|实践]]（*Praxis*） |
 > | **社会立场** | 政治中立或人文客套 | 明确站在受压迫者立场，致力于反压迫 |
-> | **评估标准** | 探究过程的理智质量与[[Dialogue in Education\|对话]]氛围 | 是否促成了[[Conscientization\|批判意识觉醒]]与实质社会变革行动 |
+> | **评估标准** | 探究过程的理智质量与[[Dialogue in Education|对话]]氛围 | 是否促成了[[Conscientization|批判意识觉醒]]与实质社会变革行动 |
 
 ---
 
@@ -115,7 +115,7 @@ updated: 2026-08-03
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **解放承诺命题** | 课程必须包含改变不公的实践行动 | [[Critical Pedagogy\|批判教育学]]与变革型课程设计 | Grundy (1987); [[Paulo Freire\|Freire, P.]]; [[Argument_Darwish_2009_Queens\|Darwish, B.]] |
+> | **解放承诺命题** | 课程必须包含改变不公的实践行动 | [[Critical Pedagogy|批判教育学]]与变革型课程设计 | Grundy (1987); [[Paulo Freire|Freire, P.]]; [[Argument_Darwish_2009_Queens|Darwish, B.]] |
 
 ---
 

@@ -148,7 +148,7 @@ Jupp & Norris (1993) 将文献分析的理论传统归纳为三类：
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Interpretive Paradigm\|解释主义与诠释学（Interpretive Paradigm）]] | 理论 | 解释学原则为[[Document\|文献]]的文本意义阐释提供了方法论基础，影响了对文本语言和形式的深层分析。 |
+> | [[Interpretive Paradigm|解释主义与诠释学（Interpretive Paradigm）]] | 理论 | 解释学原则为[[Document|文献]]的文本意义阐释提供了方法论基础，影响了对文本语言和形式的深层分析。 |
 > | [[Archival Correspondence Analysis]] | 相关方法 | 一种具体的档案文献分析方法，聚焦于档案信件中的通信关系分析。 |
 > | [[Historical Document Analysis of Curriculum]] | 相关方法 | 专注于课程文献的历史分析，是文献分析在课程研究领域的特定应用。 |
 

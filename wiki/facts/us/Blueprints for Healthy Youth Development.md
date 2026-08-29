@@ -112,9 +112,9 @@ updated: 2026-08-21
 > | 评级等级 | 准入条件与方法学门槛 |
 > |:---|:---|
 > | **Model Plus（最高典范）** | **至少 2 项高质量 RCT（或 1 项高质量 RCT + 1 项高质量 QED）**；在核心使命领域展示统计显著正效应；<br>🔴 **过滤器 1（独立评估者）** 强制要求至少 1 项研究由**独立于开发者和早期研究者的第三方团队**完成；<br>🔴 **过滤器 2（持续效果）** 强制要求干预彻底结束后 **12 个月以上仍维持显著持续效果**；<br>🔴 **过滤器 3（零医源性伤害）** 核心领域不得存在任何统计显著或实质性的负面/有害效应。 |
-> | **Model（典范项目）** | 达到与 Model Plus 完全相同的质量与 12 个月[[Fade-out Effect\|持续效果]]标准，**唯独免除[[Evaluator Independence\|独立评估者]]复制**（即允许全由开发者团队完成）。 |
-> | **Promising（有前景项目）** | 至少 1 项高质量 [[Randomised Controlled Trials\|RCT]] 或 [[Quasi-Experimental Designs\|QED]]，干预刚结束即测呈现显著正效应，但随访未达 12 个月或缺乏独立复制。 |
-> | **Non-Certified（未予认证）** | 证据不足、研究存在严重[[Threats to Internal Validity\|内部效度威胁]]、效果不确定或发现有害副反应。 |
+> | **Model（典范项目）** | 达到与 Model Plus 完全相同的质量与 12 个月[[Fade-out Effect|持续效果]]标准，**唯独免除[[Evaluator Independence|独立评估者]]复制**（即允许全由开发者团队完成）。 |
+> | **Promising（有前景项目）** | 至少 1 项高质量 [[Randomised Controlled Trials|RCT]] 或 [[Quasi-Experimental Designs|QED]]，干预刚结束即测呈现显著正效应，但随访未达 12 个月或缺乏独立复制。 |
+> | **Non-Certified（未予认证）** | 证据不足、研究存在严重[[Threats to Internal Validity|内部效度威胁]]、效果不确定或发现有害副反应。 |
 
 ---
 

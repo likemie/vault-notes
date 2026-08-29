@@ -72,7 +72,7 @@ updated: 2026-08-26
 > | 时间系统（chrono） | 分类 | 时间维度上的变化与历史脉络 |
 > | [[Knowledge Mobilisation]] | 概念 | 学校与更大系统之间双向、相互强化的知识动员纽带 |
 > | [[Research-Practice Gap]] | 概念 | 生态中研究者与实践者之间的脱节，是需要弥合的跨层机制 |
-> | [[Quality Use of Research Evidence Framework\|QURE]] | 框架 | 常与生态模型并用，为"质量使用"提供标准 |
+> | [[Quality Use of Research Evidence Framework|QURE]] | 框架 | 常与生态模型并用，为"质量使用"提供标准 |
 
 ---
 

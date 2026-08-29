@@ -87,7 +87,7 @@ updated: 2026-08-20
 > [!work-line] 主要著作
 > | 年份 | 著作 | 核心贡献 | 关联条目 |
 > |------|------|----------|----------|
-> | 战国时期 | 《孟子》（*Mencius*） | 由孟子及其弟子共同编纂，记录其治国与伦理辩论。被[[Zhu Xi\|朱熹]]编入“四书”，成为 1949 年以前每个中国学生和学者的必读书，亦为当代语文必修教材的核心语料[[Argument_Li_2012_Cambridge\|(Li, 2012, pp. 43–44)]][[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 67)]]。 | [[Confucian Learning Tradition]] |
+> | 战国时期 | 《孟子》（*Mencius*） | 由孟子及其弟子共同编纂，记录其治国与伦理辩论。被[[Zhu Xi|朱熹]]编入“四书”，成为 1949 年以前每个中国学生和学者的必读书，亦为当代语文必修教材的核心语料[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 43–44)]][[Argument_Yu_2024_CE|(Yu & Zhao, 2024, p. 67)]]。 | [[Confucian Learning Tradition]] |
 
 > [!thought-timeline] 思想发展
 > - **早期修养与承袭孔学 — 确立人性论问题意识** — 认为孔学预设了人与禽兽的本质区别，即人类内含的道德感，由此展开对性善论的系统论证[[Argument_Li_2012_Cambridge|(Li, 2012, p. 42)]]。
@@ -111,8 +111,8 @@ updated: 2026-08-20
 > | 先天萌芽（四端） | 心理表现 | 导出德目 |
 > |------------------|----------|----------|
 > | 恻隐之心 | 对他人苦难的同理共情（compassion） | → [[Benevolence]]（仁） |
-> | 羞恶之心 | 对不道德行为的[[Sense of Shame\|羞耻感]]（feeling shame） | → [[Rightness]]（义） |
-> | 辞让之心 | [[Humility in Learning\|谦逊]]与礼让态度（courtesy & modesty） | → [[Ritual Propriety]]（礼） |
+> | 羞恶之心 | 对不道德行为的[[Sense of Shame|羞耻感]]（feeling shame） | → [[Rightness]]（义） |
+> | 辞让之心 | [[Humility in Learning|谦逊]]与礼让态度（courtesy & modesty） | → [[Ritual Propriety]]（礼） |
 > | 是非之心 | 辨别善恶对错的能力（distinguishing right/wrong） | → 智（wisdom） |
 
 ---

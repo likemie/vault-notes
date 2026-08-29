@@ -114,7 +114,7 @@ Thompson 等人（2022, pp.223–224）从大学政策文件和进展报告中�
 |------|------|
 | 2004 | Wissenschaftsrat 发布建议，推荐实施以咨询为目的的性向评估程序 |
 | 2004–2014 | OSA 在德国大学逐步推广，各大学自行开发或采购自评工具 |
-| 2017 | OSA-Portal 上线，尝试[[Integration in Mixed Methods\|整合]]德语区在线自评工具（Höft & Hell, 2017） |
+| 2017 | OSA-Portal 上线，尝试[[Integration in Mixed Methods|整合]]德语区在线自评工具（Höft & Hell, 2017） |
 | 2018 | 德国已有超过 600 个自评工具（Hell et al., 2018, p.133） |
 | 2019 | 德国约有 20,000 个学习项目，OSA 使用方式从可选到强制不等（HRK, 2019） |
 

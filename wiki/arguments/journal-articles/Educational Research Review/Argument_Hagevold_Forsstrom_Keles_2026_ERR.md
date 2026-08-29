@@ -123,11 +123,11 @@ updated: 2026-08-26
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **[[Quality Use of Research Evidence Framework\|研究证据质量使用框架（Quality Use of Research Evidence, QURE）]]**<br>Rickinson et al. (2022) | 回答什么样的[[Research Utilization\|研究使用]]才算用得好：好使用不是泛泛接触研究，而是深思熟虑地参与（thoughtful engagement）恰当研究（appropriate research）并加以实施，且受个体（技能、心态、关系）、组织（结构、文化、领导）和系统三层条件支持。用作判断质量使用的基准。（pp.4–5） |
-> | **[[Governing Mechanisms of Research Use\|研究使用治理机制（Governing Mechanisms of Research Use）]]**<br>[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] | 修订框架：信任、技能发展、可持续结构和关系四类机制横跨并贯通个体、组织、系统三层，解释最顽固的研究使用障碍为何反复出现、靠什么条件才能转化。（pp.4, 8, 18–19） |
-> | **[[Conceptual, Instrumental, and Symbolic Use of Research\|深层使用框架（Deep Use）]]**<br>Farley-Ripple et al. (2018, 2022) | 关注学校用的是什么证据、怎么用：区分工具性、策略性和概念性使用，并把实践者如何搜寻、解释、整合研究视为研究使用的核心活动；用来界定深思熟虑参与与恰当研究之间的双向关系。（p.4） |
-> | **[[Research Literacy\|研究素养（Research Literacy）]]**<br>Eriksen (2022) | 把教师专业工作看成一种技艺而非艺术/科学的两极，主张教师靠完整性、讲理、灵活性三种德性来判断研究是否适合当下情境；用来界定恰当研究的标准，即研究要被实践者带判断地消化，而不是照搬。（pp.4–5） |
-> | **[[Ecosystem for Research-Engaged Schools\|研究参与学校生态系统模型（Ecosystem for Research-Engaged Schools）]]**<br>Godfrey & Brown (2019) | 用微观、中观、外、宏观、时间五个生态层刻画研究参与如何嵌入更大的教育生态，为个体、组织、系统三个分析层级提供子主题来源。（pp.4–5） |
+> | **[[Quality Use of Research Evidence Framework|研究证据质量使用框架（Quality Use of Research Evidence, QURE）]]**<br>Rickinson et al. (2022) | 回答什么样的[[Research Utilization|研究使用]]才算用得好：好使用不是泛泛接触研究，而是深思熟虑地参与（thoughtful engagement）恰当研究（appropriate research）并加以实施，且受个体（技能、心态、关系）、组织（结构、文化、领导）和系统三层条件支持。用作判断质量使用的基准。（pp.4–5） |
+> | **[[Governing Mechanisms of Research Use|研究使用治理机制（Governing Mechanisms of Research Use）]]**<br>[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] | 修订框架：信任、技能发展、可持续结构和关系四类机制横跨并贯通个体、组织、系统三层，解释最顽固的研究使用障碍为何反复出现、靠什么条件才能转化。（pp.4, 8, 18–19） |
+> | **[[Conceptual, Instrumental, and Symbolic Use of Research|深层使用框架（Deep Use）]]**<br>Farley-Ripple et al. (2018, 2022) | 关注学校用的是什么证据、怎么用：区分工具性、策略性和概念性使用，并把实践者如何搜寻、解释、整合研究视为研究使用的核心活动；用来界定深思熟虑参与与恰当研究之间的双向关系。（p.4） |
+> | **[[Research Literacy|研究素养（Research Literacy）]]**<br>Eriksen (2022) | 把教师专业工作看成一种技艺而非艺术/科学的两极，主张教师靠完整性、讲理、灵活性三种德性来判断研究是否适合当下情境；用来界定恰当研究的标准，即研究要被实践者带判断地消化，而不是照搬。（pp.4–5） |
+> | **[[Ecosystem for Research-Engaged Schools|研究参与学校生态系统模型（Ecosystem for Research-Engaged Schools）]]**<br>Godfrey & Brown (2019) | 用微观、中观、外、宏观、时间五个生态层刻画研究参与如何嵌入更大的教育生态，为个体、组织、系统三个分析层级提供子主题来源。（pp.4–5） |
 > | **内外复杂性（Internal and External Complexity）**<br>Kvernbekk (2016); Perry & Morris (2023) | 实践者面对研究时该追问四件事：研究在什么内部条件下产生、将用到什么外部情境、会有什么副作用、有没有替代办法；用来界定深思熟虑参与要回答的判定问题。（p.4） |
 
 > [!warrant]- 理论如何支撑论证
@@ -143,18 +143,18 @@ updated: 2026-08-26
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **文献检索与筛选**<br>Systematic Search & PRISMA | 检索词覆盖[[Research Utilization\|研究使用]]的各种说法（如 evidence-based practice、[[Knowledge Mobilisation\|knowledge mobilization]]、use of research evidence、research-informed teaching 等）与教育情境词。2025 年 1 月在 Scopus、Web of Science 和教育资源信息中心（Education Resources Information Center, ERIC）三个数据库正式检索，共得到 32,333 条记录，去重后剩 23,299 条。用 EPPI-Reviewer 做两轮独立盲筛（先标题摘要、后全文），标题摘要一致率 98.1%、全文一致率 81%，最终纳入 109 项实证研究。方案预先在开放科学框架（Open Science Framework, OSF）注册，报告遵循[[Systematic Review\|系统综述]]和[[Meta-analysis\|元分析]]优先报告条目（[[PRISMA\|Preferred Reporting Items for Systematic Reviews and Meta-Analyses]], PRISMA）。（pp.6–7, 9） |
-> | **纳入标准与质量评估**<br>Eligibility & Quality Appraisal | 纳入对象限定为小学或中学的教师和[[School Leadership\|学校领导]]者、以英语发表、刊登在同行评议期刊、采用质性/定量/[[Mixed Methods Research\|混合方法]]设计的实证研究；学前教育（Early Childhood Education and Care, ECEC）、高等教育、职前教师等不在范围内。质量由配对评价者用[[Mixed Methods Appraisal Tool\|混合方法评价工具]]（Mixed Methods Appraisal Tool, MMAT；Hong et al., 2018）双盲评估，分歧由第三方裁定；低质量研究的发现只在至少一项较高质量研究佐证时才被采用。（pp.7–8） |
-> | **数据提取与综合**<br>[[Framework Synthesis]] | 提取分两阶段。第一阶段记录每项研究的年份、国家、设计、对象等特征；第二阶段在 NVivo 15 里按[[Research Question\|研究问题]]对应的主节点（框定与描述、障碍、促进因素）对结果和部分讨论[[Coding in Qualitative Research\|编码]]，障碍节点由团队盲编码并讨论到 100% 一致。聚合式分析统计各主代码来自多少项研究；配置式分析进一步识别跨越层级的主题。（pp.7–8） |
+> | **文献检索与筛选**<br>Systematic Search & PRISMA | 检索词覆盖[[Research Utilization|研究使用]]的各种说法（如 evidence-based practice、[[Knowledge Mobilisation|knowledge mobilization]]、use of research evidence、research-informed teaching 等）与教育情境词。2025 年 1 月在 Scopus、Web of Science 和教育资源信息中心（Education Resources Information Center, ERIC）三个数据库正式检索，共得到 32,333 条记录，去重后剩 23,299 条。用 EPPI-Reviewer 做两轮独立盲筛（先标题摘要、后全文），标题摘要一致率 98.1%、全文一致率 81%，最终纳入 109 项实证研究。方案预先在开放科学框架（Open Science Framework, OSF）注册，报告遵循[[Systematic Review|系统综述]]和[[Meta-analysis|元分析]]优先报告条目（[[PRISMA|Preferred Reporting Items for Systematic Reviews and Meta-Analyses]], PRISMA）。（pp.6–7, 9） |
+> | **纳入标准与质量评估**<br>Eligibility & Quality Appraisal | 纳入对象限定为小学或中学的教师和[[School Leadership|学校领导]]者、以英语发表、刊登在同行评议期刊、采用质性/定量/[[Mixed Methods Research|混合方法]]设计的实证研究；学前教育（Early Childhood Education and Care, ECEC）、高等教育、职前教师等不在范围内。质量由配对评价者用[[Mixed Methods Appraisal Tool|混合方法评价工具]]（Mixed Methods Appraisal Tool, MMAT；Hong et al., 2018）双盲评估，分歧由第三方裁定；低质量研究的发现只在至少一项较高质量研究佐证时才被采用。（pp.7–8） |
+> | **数据提取与综合**<br>[[Framework Synthesis]] | 提取分两阶段。第一阶段记录每项研究的年份、国家、设计、对象等特征；第二阶段在 NVivo 15 里按[[Research Question|研究问题]]对应的主节点（框定与描述、障碍、促进因素）对结果和部分讨论[[Coding in Qualitative Research|编码]]，障碍节点由团队盲编码并讨论到 100% 一致。聚合式分析统计各主代码来自多少项研究；配置式分析进一步识别跨越层级的主题。（pp.7–8） |
 
 > [!ref-table]- 表 1：纳入标准（Eligibility Criteria）
 > | 标准 | 纳入 | 排除 |
 > |---|---|---|
-> | **主题** | 研究必须包含对（某群体）积极参与并利用研究证据以改进决策或实践的描述（如搜索、解释、审议、讨论、尝试、反思、基于研究证据的[[Action Research\|行动研究]]、对项目或证据本位实践的回应） | 不包含参与或使用描述的；仅整校实施研究本位项目或证据本位实践，除非研究描述教师／[[School Leadership\|学校领导]]者在该干预/项目中积极利用研究证据 |
+> | **主题** | 研究必须包含对（某群体）积极参与并利用研究证据以改进决策或实践的描述（如搜索、解释、审议、讨论、尝试、反思、基于研究证据的[[Action Research|行动研究]]、对项目或证据本位实践的回应） | 不包含参与或使用描述的；仅整校实施研究本位项目或证据本位实践，除非研究描述教师／[[School Leadership|学校领导]]者在该干预/项目中积极利用研究证据 |
 > | **目标人群** | 在小学或中学工作的教师或学校领导者 | 学区层面学校领导者、学校董事会成员、高等教育教师／领导者、学前教育（ECEC）教师／领导者、职前教师、研究者、学生、学校图书馆员／护士／社工／心理学家 |
 > | **语言** | 英语 | 非英语 |
-> | **研究类型** | 采用质性、定量或[[Mixed Methods Research\|混合方法]]设计的实证研究 | 理论或概念性论文、评论、二手研究 |
-> | **发表类型** | 同行评议期刊 | 书籍章节、灰色[[Document\|文献]]、报告 |
+> | **研究类型** | 采用质性、定量或[[Mixed Methods Research|混合方法]]设计的实证研究 | 理论或概念性论文、评论、二手研究 |
+> | **发表类型** | 同行评议期刊 | 书籍章节、灰色[[Document|文献]]、报告 |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
@@ -227,7 +227,7 @@ updated: 2026-08-26
 > | 系统层面 | 问责（k = 11） | 高利害考试是时间使用的优先项，挤占研究阅读（Baildon & Ong, 2022）；威胁教师自由与自主（Brown et al., 2022）；还把“数据”与“研究”混为一谈，教师更信 [[Ofsted]] 报告而非同行评议论文（Cain, 2017）；低表现学校尤其风险规避，高表现系统也可能用它阻止资源分配（Barrett & Prendergast, 2025） |
 > |  | 教师培训不足（k = 12） | 职前教师教育普遍缺乏研究方法训练（如 Agbenyega et al., 2023; Ashur & Bagadood, 2022），持续专业发展也少有研究能力建设（Cooper et al., 2017; Kowalczuk-Walędziak et al., 2024） |
 > |  | 工作条件（k = 16） | 极端工作量让教师忙于日常“救火”，还要面对大班额与复杂学生需求；低薪与低士气进一步削弱投入（Ahmed & Pervin, 2015） |
-> |  | [[Research-Practice Gap\|研究-实践鸿沟]]（k = 13） | 被形容为“两个分离的世界”（Hartmann & Decristan, 2018）、“巨大的空洞”（Davidson & Nowicki, 2012）；法国研究者与实践者“彼此不理解”（Gaussel et al., 2021） |
+> |  | [[Research-Practice Gap|研究-实践鸿沟]]（k = 13） | 被形容为“两个分离的世界”（Hartmann & Decristan, 2018）、“巨大的空洞”（Davidson & Nowicki, 2012）；法国研究者与实践者“彼此不理解”（Gaussel et al., 2021） |
 > | 组织层面 | 时间（k = 46） | 最常被引用的障碍；缺乏专门、受保护的教研时间，研究参与只能挤占教师已很紧张的日程 |
 > |  | 获取（k = 31） | 难以获得研究材料与中介支持，教师接触不到合适的文献与资源 |
 > |  | 资源（k = 15） | 材料、角色分工与经费不足，与时间和获取共同构成结构性障碍 |
@@ -250,7 +250,7 @@ updated: 2026-08-26
 > | 个体层面 | 技能（k = 22） | 基本研究技能、转化应用技能、人际协作技能都促进使用；正式教育与专门训练是研究使用的预测因子（Davidson, 2013; Reichenberg, 2021） |
 > |  | 有利心态（k = 29） | 好奇与专业伦理构成内在动机（Bergmark, 2022; Brown, 2017），承诺满足学生需求也是强劲动力（Kowalczuk-Walędziak et al., 2024）；外部激励（地位、奖金、课程资助）也有帮助（Abbott et al., 2017） |
 > |  | 关系连接（k = 35） | 信任的同事网络、期刊俱乐部（Boyne & Beadle, 2017）、探究小组（Cornelissen et al., 2017）、实践共同体，以及跨校与研究者/大学伙伴关系（Ion et al., 2021） |
-> | 核心构件 | 深思熟虑参与（k = 18） | 既可以是工具性的（教师用它解决实践问题，Sinnema et al., 2011），也可以是协作性的（引发对话讨论，Brown & Zhang, 2017）；带来具体改变并增强[[Teacher Professional Agency\|教师能动性]]（“我可以拥有自己工作的所有权”，Hofmann & Ilie, 2022, p. 14） |
+> | 核心构件 | 深思熟虑参与（k = 18） | 既可以是工具性的（教师用它解决实践问题，Sinnema et al., 2011），也可以是协作性的（引发对话讨论，Brown & Zhang, 2017）；带来具体改变并增强[[Teacher Professional Agency|教师能动性]]（“我可以拥有自己工作的所有权”，Hofmann & Ilie, 2022, p. 14） |
 > |  | 恰当研究（k = 35） | 兼具实用性并维护研究完整性，需要在格式、内容、情境相关性与语言之间取得平衡 |
 
 > [!example]- 图3：研究使用的障碍与促进因素

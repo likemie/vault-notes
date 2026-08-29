@@ -84,10 +84,10 @@ updated: '2026-08-27'
 > [!contrast-table] 终极效标 vs 实际效标 vs 中间效标
 > | 比较维度 | 终极效标（Ultimate Criterion） | 实际效标（Actual Criterion） | 中间代理效标（Intermediate Criterion） |
 > |---|---|---|---|
-> | **测量学本质** | 理论上完全纯净、囊括全部价值维度的理想真值 | 实证研究中具体采用的[[Operationalization\|操作化]]测量指标 | 任务过程中的阶段性产出或即时表现指标 |
+> | **测量学本质** | 理论上完全纯净、囊括全部价值维度的理想真值 | 实证研究中具体采用的[[Operationalization|操作化]]测量指标 | 任务过程中的阶段性产出或即时表现指标 |
 > | **现实可得性** | 现实中**无法直接完全测得（抽象构想）** | 可以通过量表、产品评定或客观记录获得 | 实验室任务中的反应时、观念数量或流畅性 |
 > | **主要缺陷** | 无法操作化 | 必然存在**效标污染**与**效标缺失** | 与长期真实成就之间存在生态断层 |
-> | **[[Creativity\|创造力]]研究案例** | 个体终其一生的真实卓越创造贡献总量 | 自陈创造性成就[[Questionnaire\|问卷]]（CAQ）得分、[[Consensual Assessment Technique\|同感评估技术（CAT）]]专家评定产品质量 | [[Divergent Thinking\|非常规用途测验（AUT）]]的独创性即时打分 |
+> | **[[Creativity|创造力]]研究案例** | 个体终其一生的真实卓越创造贡献总量 | 自陈创造性成就[[Questionnaire|问卷]]（CAQ）得分、[[Consensual Assessment Technique|同感评估技术（CAT）]]专家评定产品质量 | [[Divergent Thinking|非常规用途测验（AUT）]]的独创性即时打分 |
 
 ---
 
@@ -145,7 +145,7 @@ updated: '2026-08-27'
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **效应不对称归因** | 效标异质性与污染稀释了因变量关联，导致结果变量效应量系统性偏低（$r = 0.12$ vs $0.29$） | [[Meta-meta-analysis\|二阶元分析建模]]、[[Predictive Validity\|构念预测力评估]] | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]]; Paek & Runco (2018) |
+> | **效应不对称归因** | 效标异质性与污染稀释了因变量关联，导致结果变量效应量系统性偏低（$r = 0.12$ vs $0.29$） | [[Meta-meta-analysis|二阶元分析建模]]、[[Predictive Validity|构念预测力评估]] | [[Argument_Runco_2026_CRJ|Runco et al. (2026)]]; Paek & Runco (2018) |
 > | **复合效标矩阵** | 结合潜能认知测验、真实产品评定与自陈问卷是破解效标困境的唯一有效路径 | 心理测量工具开发、教育综合评价体系 | Wolf (1994); Amabile (1982) |
 
 ---

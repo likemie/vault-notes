@@ -85,10 +85,10 @@ updated: 2026-08-25
 > [!contrast-table] 发散思维 vs [[Convergent Thinking|聚合思维]] vs 整体创造过程
 > | 比较维度 | 发散思维（Divergent Thinking） | 聚合思维（[[Convergent Thinking]]） | 整体创造过程（Creative Process） |
 > |---|---|---|---|
-> | **认知目标** | **发散生成** 产生多样化、新颖多向的构想与替代方案 | **收敛求精** 评估、筛选并收敛至唯一最优解 | **系统创造** 整合[[Problem Finding\|问题发现]]、观念生成、方案评估与产品实现 |
+> | **认知目标** | **发散生成** 产生多样化、新颖多向的构想与替代方案 | **收敛求精** 评估、筛选并收敛至唯一最优解 | **系统创造** 整合[[Problem Finding|问题发现]]、观念生成、方案评估与产品实现 |
 > | **核心评价指标** | 流畅性、灵活性、独创性与精细性 | 逻辑有效性、精确性、一致性与最优性 | 新颖性与领域适切性的有机统一 |
-> | **典型测评任务** | 非常规用途测验、托兰斯图形/言语测验、头脑风暴任务 | 标准化演绎推理测验、[[Remote Associates Test\|远距离联想测验]] | 综合开放性劣构问题解决任务、[[Creativity\|创造性]]成就量表 |
-> | **[[Graphic Organizer\|图形组织器]]促学效应** | **强效显著促进（$g = 1.167$）** | **中等显著促进（$g = 0.680$）** | **中等至强效促进** |
+> | **典型测评任务** | 非常规用途测验、托兰斯图形/言语测验、头脑风暴任务 | 标准化演绎推理测验、[[Remote Associates Test|远距离联想测验]] | 综合开放性劣构问题解决任务、[[Creativity|创造性]]成就量表 |
+> | **[[Graphic Organizer|图形组织器]]促学效应** | **强效显著促进（$g = 1.167$）** | **中等显著促进（$g = 0.680$）** | **中等至强效促进** |
 
 ---
 
@@ -151,9 +151,9 @@ updated: 2026-08-25
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **过程构件定位** | 发散思维是创造潜能的重要指标，与更宽泛的创造过程相比效应适中（$r = 0.14$ vs $0.27$） | 认知测评与能力预测 | [[Mark A. Runco\|Runco et al. (2026)]]; Cropley (2006) |
-> | **教学与干预可塑性** | 发散思维可通过显式指导语、专门训练与开放教学显著提升（$r = 0.20$） | 课堂教学与思维训练 | Acar et al. (2020); [[Mark A. Runco\|Runco et al. (2026)]] |
-> | **空间脚手架赋能** | 图形组织器对发散思维促进强效（$g = 1.167$），显著强于聚合思维（$g = 0.680$） | 教学可视化工具应用 | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei, Ding & Chiu (2026)]] |
+> | **过程构件定位** | 发散思维是创造潜能的重要指标，与更宽泛的创造过程相比效应适中（$r = 0.14$ vs $0.27$） | 认知测评与能力预测 | [[Mark A. Runco|Runco et al. (2026)]]; Cropley (2006) |
+> | **教学与干预可塑性** | 发散思维可通过显式指导语、专门训练与开放教学显著提升（$r = 0.20$） | 课堂教学与思维训练 | Acar et al. (2020); [[Mark A. Runco|Runco et al. (2026)]] |
+> | **空间脚手架赋能** | 图形组织器对发散思维促进强效（$g = 1.167$），显著强于聚合思维（$g = 0.680$） | 教学可视化工具应用 | [[Argument_Lei_Ding_Chiu_2026_ERR|Lei, Ding & Chiu (2026)]] |
 
 ---
 
@@ -184,25 +184,25 @@ updated: 2026-08-25
 > [!ma-table]- 一阶[[Meta-analysis|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
+> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity|异质性]]与[[Prediction Interval|预测区间]] | 关键解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | **[[Dependent Variable\|结果变量]]** 检验[[Graphic Organizer\|图形组织器]]教学干预对发散思维（Divergent Thinking）的促进效应 | $k = 14$ / — | Hedges' $g$；随机效应模型 | $g = 1.167$, $95\%\text{ CI} = [0.841, 1.493]$ | $I^2 = 82.2\%$；$Q_b = 7.07, p < .01$（对比聚合思维） | 涵盖 14 项独立效应量，以思维导图为代表的空间分支工具促进效应最为突出 |
+> | [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] | **[[Dependent Variable|结果变量]]** 检验[[Graphic Organizer|图形组织器]]教学干预对发散思维（Divergent Thinking）的促进效应 | $k = 14$ / — | Hedges' $g$；随机效应模型 | $g = 1.167$, $95\%\text{ CI} = [0.841, 1.493]$ | $I^2 = 82.2\%$；$Q_b = 7.07, p < .01$（对比聚合思维） | 涵盖 14 项独立效应量，以思维导图为代表的空间分支工具促进效应最为突出 |
 
 > [!ma-table]- 一阶元分析互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
 >
 > | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 结果[[Variable\|变量]]（思维类型） | **发散思维（Divergent Thinking）** | $k = 14$ / — | $g = 1.167$, $95\%\text{ CI} = [0.841, 1.493]$ | $Q_b = 7.07, p < .01$；两组差异极显著 | 空间分支辐射极大激发联想网络与独创构想 |
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 结果变量（思维类型） | **[[Convergent Thinking\|聚合思维]]（Convergent Thinking）** | $k = 55$ / — | $g = 0.680$, $95\%\text{ CI} = [0.535, 0.825]$ | 组间差异显著 | 受确定性规则与形式逻辑约束 |
+> | [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] | 结果[[Variable|变量]]（思维类型） | **发散思维（Divergent Thinking）** | $k = 14$ / — | $g = 1.167$, $95\%\text{ CI} = [0.841, 1.493]$ | $Q_b = 7.07, p < .01$；两组差异极显著 | 空间分支辐射极大激发联想网络与独创构想 |
+> | [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] | 结果变量（思维类型） | **[[Convergent Thinking|聚合思维]]（Convergent Thinking）** | $k = 55$ / — | $g = 0.680$, $95\%\text{ CI} = [0.535, 0.825]$ | 组间差异显著 | 受确定性规则与形式逻辑约束 |
 
 > [!ma-table]- [[Meta-meta-analysis|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
 >
 > | 二阶元分析 | 当前概念角色与总体结果 | 证据规模 $M$ / $E$ / $k$ / $N$ | 效应指标与模型 | 二阶汇总效应与 95% CI | 异质性与 95% PI | 关键解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 预测/相关变量：发散思维（DT）与[[Creativity\|创造力]]及相关指标的关系 | $M = 52$；$E = 1$；$k = —$；$N = 1,240,000$ | Pearson $r$ / 多水平 CHE 协方差 + RVE 稳健方差估计 | $r = 0.14$ $[0.04, 0.24]$ | 95% PI $[-0.25, 0.50]$ | 经[[Publication Bias\|发表偏倚]]校正，证实发散思维具有稳健正相关但效应适中 |
-> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 预测/相关变量：综合创造过程（含发散思维、[[Problem Finding\|问题发现]]、顿悟等） | $M = 52$；$E = 1$；$k = —$；$N = 1,240,000$ | Pearson $r$ / 多水平 CHE 协方差 + RVE 稳健方差估计 | $r = 0.27$ $[0.10, 0.43]$ | 95% PI $[-0.17, 0.62]$ | 整体过程[[Effect Size\|效应量]]约为单一发散思维的 2 倍 |
+> | [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] | 预测/相关变量：发散思维（DT）与[[Creativity|创造力]]及相关指标的关系 | $M = 52$；$E = 1$；$k = —$；$N = 1,240,000$ | Pearson $r$ / 多水平 CHE 协方差 + RVE 稳健方差估计 | $r = 0.14$ $[0.04, 0.24]$ | 95% PI $[-0.25, 0.50]$ | 经[[Publication Bias|发表偏倚]]校正，证实发散思维具有稳健正相关但效应适中 |
+> | [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] | 预测/相关变量：综合创造过程（含发散思维、[[Problem Finding|问题发现]]、顿悟等） | $M = 52$；$E = 1$；$k = —$；$N = 1,240,000$ | Pearson $r$ / 多水平 CHE 协方差 + RVE 稳健方差估计 | $r = 0.27$ $[0.10, 0.43]$ | 95% PI $[-0.17, 0.62]$ | 整体过程[[Effect Size|效应量]]约为单一发散思维的 2 倍 |
 
 ---
 

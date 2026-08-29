@@ -69,7 +69,7 @@ updated: 2026-08-02
 > |------|-----------------------------------|--------------------------------------|
 > | **内容来源** | 社区生活调查与切身生存矛盾提取 (p. 47) | 教育官僚或专家自上而下统一预设 |
 > | **生成机制** | 从具体词汇向社会权力结构动态延伸 | 静态固定的知识点序列与记忆指标 |
-> | **育人指向** | 促成[[Conscientization\|批判意识觉醒]]与[[Praxis\|实践]] | 维持现存社会秩序与技术官僚选拔 |
+> | **育人指向** | 促成[[Conscientization|批判意识觉醒]]与[[Praxis|实践]] | 维持现存社会秩序与技术官僚选拔 |
 
 ---
 
@@ -110,7 +110,7 @@ updated: 2026-08-02
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **生成性主题命题** | 探讨切身主题如何促成[[Conscientization\|批判意识觉醒]] | [[Problem-Posing Education\|提问式教育]]与批判课程设计 | [[Paulo Freire\|Freire, P.]]; [[Argument_Darwish_2009_Queens\|Darwish, B.]] |
+> | **生成性主题命题** | 探讨切身主题如何促成[[Conscientization|批判意识觉醒]] | [[Problem-Posing Education|提问式教育]]与批判课程设计 | [[Paulo Freire|Freire, P.]]; [[Argument_Darwish_2009_Queens|Darwish, B.]] |
 
 ---
 

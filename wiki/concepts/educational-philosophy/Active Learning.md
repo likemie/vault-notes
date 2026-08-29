@@ -65,11 +65,11 @@ updated: 2026-08-25
 ## 概念辨析
 
 > [!contrast-table] 概念辨析
-> | 维度 | 主动学习（Active Learning） | [[Banking Model of Education\|储蓄式教育]] | 古典理性[[Habituation\|习惯化]]模式 |
+> | 维度 | 主动学习（Active Learning） | [[Banking Model of Education|储蓄式教育]] | 古典理性[[Habituation|习惯化]]模式 |
 > |------|--------|----------------|----------------|
 > | 学生定位 | 行动主体（Subjects），共同探究者 | 储蓄容器（Objects），被动接收者 | 受训者，依循权威指令 |
-> | 教学机制 | 问题解决、[[Dialogue in Education\|对话]]与[[Praxis\|实践]]变革 | 知识存入与记忆提取 | 理论推导与习惯化训练 |
-> | 终极目标 | 批判意识觉醒、社会变革与[[Freedom of the Learner\|学习者的自由]] | 维持既有社会阶层与秩序 | 实现固定阶层职能或纯粹理性沉思 |
+> | 教学机制 | 问题解决、[[Dialogue in Education|对话]]与[[Praxis|实践]]变革 | 知识存入与记忆提取 | 理论推导与习惯化训练 |
+> | 终极目标 | 批判意识觉醒、社会变革与[[Freedom of the Learner|学习者的自由]] | 维持既有社会阶层与秩序 | 实现固定阶层职能或纯粹理性沉思 |
 
 ---
 

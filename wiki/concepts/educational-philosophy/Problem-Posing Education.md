@@ -80,11 +80,11 @@ updated: 2026-07-25
 ## 概念辨析
 
 > [!contrast-table] 概念辨析
-> | 维度 | 提问式教育（Problem-Posing Education） | [[Banking Model of Education\|储蓄式教育]] |
+> | 维度 | 提问式教育（Problem-Posing Education） | [[Banking Model of Education|储蓄式教育]] |
 > |------|---------------------------------------|--------------------------------|
 > | 知识观 | 动态生成，在人与世界的互动问题中被重构 | 静态沉积，自上而下的预制事实与礼物 |
 > | 师生定位 | 批判性共同探究者（Subjects） | 储户（教师）与被动的存储容器（Objects） |
-> | 教学目标 | 解放意识、打破沉默、通往[[Praxis\|实践]] | 驯化顺从、维持既有社会阶层与秩序 |
+> | 教学目标 | 解放意识、打破沉默、通往[[Praxis|实践]] | 驯化顺从、维持既有社会阶层与秩序 |
 
 ---
 
@@ -111,8 +111,8 @@ updated: 2026-07-25
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Banking Model of Education]] | 概念 | 提问式教育的正面批判与对立[[Paradigm\|范式]]。 |
-> | [[Active Learning]] | 概念 | 提问式教育是主动学习模型中培养[[Critical Thinking\|批判性思维]]的核心机制。 |
+> | [[Banking Model of Education]] | 概念 | 提问式教育的正面批判与对立[[Paradigm|范式]]。 |
+> | [[Active Learning]] | 概念 | 提问式教育是主动学习模型中培养[[Critical Thinking|批判性思维]]的核心机制。 |
 > | [[Conscientization]] | 概念 | 提问式教育的心理与政治结果（批判意识觉醒）。 |
 > | [[Praxis]] | 概念 | 提问式教育的终极行动落地。 |
 

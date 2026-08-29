@@ -75,12 +75,12 @@ updated: 2026-08-25
 ## 概念辨析
 
 > [!contrast-table] 概念辨析
-> | 维度 | 教育机器人（Educational Robotics） | [[Intelligent Tutoring Systems\|智能导师系统]]（[[Time Series Design\|ITS]]） | [[Conversational AI in Education\|对话式智能体]]（Conversational AI） |
+> | 维度 | 教育机器人（Educational Robotics） | [[Intelligent Tutoring Systems|智能导师系统]]（[[Time Series Design|ITS]]） | [[Conversational AI in Education|对话式智能体]]（Conversational AI） |
 > |---|---|---|---|
 > | **物理形态** | 具有物理实体（如仿人机器人、伴读机）或拟人化 3D 具身实体 | 纯软件界面，通常嵌入学习管理系统或题库 | 文本输入框或语音交互界面 |
-> | **角色定位** | 伴读同伴、游戏玩伴、实体助教 | 严谨权威的个性化导师、知识诊断者 | 实时[[Dialogue in Education\|对话]]搭子、语法润色助手 |
+> | **角色定位** | 伴读同伴、游戏玩伴、实体助教 | 严谨权威的个性化导师、知识诊断者 | 实时[[Dialogue in Education|对话]]搭子、语法润色助手 |
 > | **核心优势** | 极强的社会情感存在感与动作示范力 | 极高的步骤级推理精度与知识追踪深度 | 极低的使用门槛与灵活的多轮语言交互 |
-> | **[[Meta-analysis\|元分析]]促学效应** | $g = 0.474$（$p < .001$） | $g = 0.540$（$p < .001$） | $g = 0.468$（$p < .001$） |
+> | **[[Meta-analysis|元分析]]促学效应** | $g = 0.474$（$p < .001$） | $g = 0.540$（$p < .001$） | $g = 0.468$（$p < .001$） |
 
 ---
 
@@ -108,18 +108,18 @@ updated: 2026-08-25
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
+> | 研究 | 比较或干预 | [[Dependent Variable|结果变量]] | 分析样本 | 组别统计 | [[Effect Size|效应量]] | 显著性或不确定性 | 设计与解释边界 |
 > |---|---|---|---|---|---|---|---|
-> | Feng & Wang (2023)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 拟人表情双语伴读机器人 vs. 传统音频听读 | 小学低段英语口语与听力理解得分 | $N = 64$（干预 $n = 32$, 控制 $n = 32$） | — | Hedges' $g = 0.76$ | $p < .01$ | 准实验设计；具身多模态与拟人表情显著降低低龄儿童外语焦虑 |
-> | Pareto et al. (2022)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 卡牌算术自适应对战机器人 vs. 纸笔算术卡片 | 小学低段速算准确率与四则运算熟练度 | $N = 72$ | — | Hedges' $g = 0.24$ | $p < .05$ | 实验设计；游戏化互动激发操作性技能练习动机 |
-> | Zhexenova et al. (2020)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 仿人实体机器人示范纠错 vs. 教师板书示范 | 哈萨克语字母笔画书写与认读得分 | $N = 50$ | — | Hedges' $g = 0.17$ | $p < .05$ | 准实验设计；实体机器人肢体示范辅助低幼语言动作技能习得 |
+> | Feng & Wang (2023)，引自 [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] | 拟人表情双语伴读机器人 vs. 传统音频听读 | 小学低段英语口语与听力理解得分 | $N = 64$（干预 $n = 32$, 控制 $n = 32$） | — | Hedges' $g = 0.76$ | $p < .01$ | 准实验设计；具身多模态与拟人表情显著降低低龄儿童外语焦虑 |
+> | Pareto et al. (2022)，引自 [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] | 卡牌算术自适应对战机器人 vs. 纸笔算术卡片 | 小学低段速算准确率与四则运算熟练度 | $N = 72$ | — | Hedges' $g = 0.24$ | $p < .05$ | 实验设计；游戏化互动激发操作性技能练习动机 |
+> | Zhexenova et al. (2020)，引自 [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] | 仿人实体机器人示范纠错 vs. 教师板书示范 | 哈萨克语字母笔画书写与认读得分 | $N = 50$ | — | Hedges' $g = 0.17$ | $p < .05$ | 准实验设计；实体机器人肢体示范辅助低幼语言动作技能习得 |
 
 > [!ma-table]- 一阶[[Meta-analysis|元分析]]互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
 >
 > | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（[[AI Agent in Education\|智能体]]技术类型） | 人工智能教育机器人（Robotics） | $k = 16$ / — | $g = 0.474$ $[0.150, 0.799]$ | $p < .001$ | 具身多模态互动，对学前至小学阶段语言听说伴读与[[Gamification\|游戏化学习]]增益尤为显著 |
+> | [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] | 干预因素（[[AI Agent in Education|智能体]]技术类型） | 人工智能教育机器人（Robotics） | $k = 16$ / — | $g = 0.474$ $[0.150, 0.799]$ | $p < .001$ | 具身多模态互动，对学前至小学阶段语言听说伴读与[[Gamification|游戏化学习]]增益尤为显著 |
 
 ---
 

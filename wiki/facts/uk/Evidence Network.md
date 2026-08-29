@@ -70,4 +70,4 @@ updated: '2026-08-27'
 > |---|---|
 > | [[Evidence-Based Education]] | 证据网络是循证教育的制度基础设施之一 |
 > | [[Knowledge Mobilisation]] | 证据网络的工作属于知识动员范畴 |
-> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|Cohen et al. (2011, Ch17)]] | 第17章系统介绍证据网络在循证教育制度网络中的角色与功能 |
+> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al. (2011, Ch17)]] | 第17章系统介绍证据网络在循证教育制度网络中的角色与功能 |

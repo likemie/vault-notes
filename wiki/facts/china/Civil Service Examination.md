@@ -99,7 +99,7 @@ updated: '2026-07-21'
 > | 条目 | 类型 | 关系说明 |
 > |---|---|---|
 > | [[Self-Cultivation]] | Concept | 科举制度使个人修身之学与政治功名实现制度化合流 |
-> | [[Chinese Learner]] | Concept | 科举培育的长效[[Student Attitude\|学习态度]]与刻苦精神延续至现代华人学习者 |
+> | [[Chinese Learner]] | Concept | 科举培育的长效[[Student Attitude|学习态度]]与刻苦精神延续至现代华人学习者 |
 > | [[Confucian Learning Tradition]] | Theory | 科举制度是儒家学习传统的制度化与政治化表达 |
-> | [[Test-Based Accountability]] | Concept | 科举传统为现代高利害考试问责制度与[[Gaokao\|高考]]提供了文化正当性基石 |
+> | [[Test-Based Accountability]] | Concept | 科举传统为现代高利害考试问责制度与[[Gaokao|高考]]提供了文化正当性基石 |
 > | [[Learner-Centred Education]] | Concept | 科举带来的高利害考试压力限定了现代教学法改革中权力共享的硬边界 |

@@ -74,7 +74,7 @@ updated: 2026-06-09
 ## 概念辨析
 
 > [!contrast-table] 三种创新模型的比较
-> | 维度 | [[Linear Model of Innovation\|线性模型]] | 链式模型 | [[Multi-channel Interactive Learning Model\|多通道互动学习模型]] |
+> | 维度 | [[Linear Model of Innovation|线性模型]] | 链式模型 | [[Multi-channel Interactive Learning Model|多通道互动学习模型]] |
 > |------|------------------|----------|------------------------------|
 > | 创新起点 | 基础科学 | 潜在市场用途的广泛想法 | 可从任何地方开始（技术、市场、组织、用户） |
 > | 科学角色 | 初始推动力、主导因素 | 过程的一部分，按需调用或创造 | 多元知识来源之一，通过界面进入学习循环 |

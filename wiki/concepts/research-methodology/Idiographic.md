@@ -52,12 +52,12 @@ updated: 2026-08-16
 ## 概念辨析
 
 > [!contrast-table] 个例式 vs [[Nomothetic|通则式]]
-> | 维度 | 个例式（idiographic） | [[Nomothetic\|通则式]]（nomothetic） |
+> | 维度 | 个例式（idiographic） | [[Nomothetic|通则式]]（nomothetic） |
 > |---|---|---|
 > | 目标 | 理解独特个体案例 | 发现普遍法则 |
 > | 方法 | 兼顾量化与质性，重语言与意义 | 以量化为主，抽象现实 |
 > | 分析单位 | 个体、事件、情境与意图 | 因素及其关系、规律性 |
-> | 方法论传统 | [[Interpretive Paradigm\|诠释范式]] | [[Positivism\|实证主义]] |
+> | 方法论传统 | [[Interpretive Paradigm|诠释范式]] | [[Positivism|实证主义]] |
 
 > [!boundary]- 概念边界
 > - 不等于与量化的简单对立 — 个例式可兼顾量化手段，但以独特案例的理解为核心。

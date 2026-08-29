@@ -96,12 +96,12 @@ updated: 2026-07-11
 >
 > | 概念 | 类型 | 与诠释范式的关系 |
 > |:-----|:-----|:-----------------|
-> | [[Positivism\|规范性范式（Normative）vs 诠释范式]] | 根本对立 | Douglas（1973）：规范性范式关注**行为（behaviour，对刺激的反应，原因在过去）**，诠释范式关注**行动（action，行为加意义，意向行为面向未来）**。理论目的、实在观和理论形态均截然不同。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|(Cohen et al., 2011, Ch. 1)]] |
-> | [[Emic and Etic\|主位（Emic）vs 客位（Etic）]] | 方法论区分 | LeCompte & Preissle（1993, p. 45）：主位进路捕捉参与者赋予情境的主观意义（内部人视角），客位进路识别研究者的客观建构（外部人视角）。诠释范式以主位进路为核心。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, p. 405)]] |
-> | [[Ethnography\|自然主义/民族志 vs 质性方法]] | 方法类型区分 | 自然主义/民族志要求长期驻留；质性方法关乎数据类型和问题类型，不强制长期驻留。小型短期质性研究属于质性但不属于自然主义/民族志。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, pp. 402–403)]] |
-> | [[Phenomenology\|现象学]] | 理论传统 | 核心研究传统之一，关注个体对生活世界的主观体验和意义建构。 |
-> | [[Ethnomethodology\|俗民方法学]] | 理论传统 | 核心研究传统之一，研究人们如何通过日常互动方法建构和维持社会秩序。 |
-> | [[Symbolic Interactionism\|符号互动论]] | 理论传统 | 核心研究传统之一，关注人们通过符号和互动建构意义和自我（Blumer, 1969）。 |
+> | [[Positivism|规范性范式（Normative）vs 诠释范式]] | 根本对立 | Douglas（1973）：规范性范式关注**行为（behaviour，对刺激的反应，原因在过去）**，诠释范式关注**行动（action，行为加意义，意向行为面向未来）**。理论目的、实在观和理论形态均截然不同。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1)]] |
+> | [[Emic and Etic|主位（Emic）vs 客位（Etic）]] | 方法论区分 | LeCompte & Preissle（1993, p. 45）：主位进路捕捉参与者赋予情境的主观意义（内部人视角），客位进路识别研究者的客观建构（外部人视角）。诠释范式以主位进路为核心。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, p. 405)]] |
+> | [[Ethnography|自然主义/民族志 vs 质性方法]] | 方法类型区分 | 自然主义/民族志要求长期驻留；质性方法关乎数据类型和问题类型，不强制长期驻留。小型短期质性研究属于质性但不属于自然主义/民族志。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 402–403)]] |
+> | [[Phenomenology|现象学]] | 理论传统 | 核心研究传统之一，关注个体对生活世界的主观体验和意义建构。 |
+> | [[Ethnomethodology|俗民方法学]] | 理论传统 | 核心研究传统之一，研究人们如何通过日常互动方法建构和维持社会秩序。 |
+> | [[Symbolic Interactionism|符号互动论]] | 理论传统 | 核心研究传统之一，关注人们通过符号和互动建构意义和自我（Blumer, 1969）。 |
 
 ---
 

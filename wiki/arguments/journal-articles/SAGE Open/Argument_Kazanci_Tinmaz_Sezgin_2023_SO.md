@@ -2,8 +2,8 @@
 summary: "基于计划行为理论与研究利用模型开发并验证20题4维度的教师研究素养量表，证实研究技能是解释力最强的核心知觉控制变量，且开展科研与阅读期刊能显著赋能教师研究素养。"
 type: argument
 authors:
-  - "[[Ayşe Kazancı Tınmaz|Kazancı Tınmaz, A.]]"
-  - "[[Ferudun Sezgin|Sezgin, F.]]"
+  - "Kazancı Tınmaz, A."
+  - "Sezgin, F."
 source_language: en
 citation: "Kazancı Tınmaz, A., & Sezgin, F. (2023). Development of the Research Literacy Scale for Teachers. SAGE Open, 13(4), 1–19. https://doi.org/10.1177/21582440231199033"
 year: 2023
@@ -106,8 +106,8 @@ journal: "SAGE Open"
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **[[Theory of Planned Behavior\|计划行为理论]]**<br>Theory of Planned Behavior (TPB) | 整合 Ajzen (1991, 2005) 理论，将研究意识界定为背景认知变量，研究态度界定为意向驱动变量，研究技能界定为知觉行为控制（Perceived Behavioral Control, PBC），研究使用界定为外显目标行为，构建起“意识背景 $\rightarrow$ 态度意向 $\rightarrow$ 技能知觉控制 $\rightarrow$ 实践使用”的行为演化全景链条。（pp.3–4） |
-> | **[[Research Utilization Models|研究利用模型]]**<br>Research Utilization Models | 借鉴 Weiss (1979) 的经典分类（问题解决模型、启蒙模型与战术模型）以及 Pelz (1978)、Beyer & Trice (1982) 的概念性、工具性与[[Conceptual, Instrumental, and Symbolic Use of Research\|象征性使用]]框架，将[[Research Utilization\|研究使用]][[Operationalization\|操作化]]为备课设计、教学法优化、解决课堂问题及专业[[Dialogue in Education\|对话]]等多维实践。 |
+> | **[[Theory of Planned Behavior|计划行为理论]]**<br>Theory of Planned Behavior (TPB) | 整合 Ajzen (1991, 2005) 理论，将研究意识界定为背景认知变量，研究态度界定为意向驱动变量，研究技能界定为知觉行为控制（Perceived Behavioral Control, PBC），研究使用界定为外显目标行为，构建起“意识背景 $\rightarrow$ 态度意向 $\rightarrow$ 技能知觉控制 $\rightarrow$ 实践使用”的行为演化全景链条。（pp.3–4） |
+> | **[[Research Utilization Models|研究利用模型]]**<br>Research Utilization Models | 借鉴 Weiss (1979) 的经典分类（问题解决模型、启蒙模型与战术模型）以及 Pelz (1978)、Beyer & Trice (1982) 的概念性、工具性与[[Conceptual, Instrumental, and Symbolic Use of Research|象征性使用]]框架，将[[Research Utilization|研究使用]][[Operationalization|操作化]]为备课设计、教学法优化、解决课堂问题及专业[[Dialogue in Education|对话]]等多维实践。 |
 > | **多元素养整合模型**<br>Subtypes of Research Literacy | 整合 Beaudry & Miller (2016) 与 Jemsy (2018) 的素养细分，将信息与技术检索素养、语言讨论素养、视觉图表素养与数理统计素养统整纳入研究技能维度。（pp.4–5） |
 
 > [!warrant]- 理论如何支撑论证
@@ -116,15 +116,15 @@ journal: "SAGE Open"
 ### 核心变量与操作化编码表（仅量化研究填写）
 
 > [!index-table] 核心[[Variable|变量]]操作化定义与[[Coding in Qualitative Research|编码]]规程
-> | [[Variable\|变量]]维度与分类 | [[Construct\|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
+> | [[Variable|变量]]维度与分类 | [[Construct|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
 > |---|---|---|
-> | **研究素养**<br>（Research Literacy, 因变量/二阶潜变量） | 教师在理解、评价、开展科研并将其应用于专业教学实践的综合素养，由 4 个一阶维度构成。 | 使用本研究编制的[[Research Literacy Scale for Teachers\|教师研究素养量表（RLS）]]（20 题，5 级李克特计分，1=完全不同意，5=完全同意）。（pp.5–6） |
-> | **研究意识**<br>（Research Awareness, 子维度 1） | 教师对科研主题构成、发表渠道、[[Literature Search\|文献检索]]路径及专业阅读先验认知的敏锐度与知识准备。 | 4 题（R1–R4），如“我知道科研成果在何处发表”、“我知道研究所包含的主题”。（p.6, p.11） |
+> | **研究素养**<br>（Research Literacy, 因变量/二阶潜变量） | 教师在理解、评价、开展科研并将其应用于专业教学实践的综合素养，由 4 个一阶维度构成。 | 使用本研究编制的[[Research Literacy Scale for Teachers|教师研究素养量表（RLS）]]（20 题，5 级李克特计分，1=完全不同意，5=完全同意）。（pp.5–6） |
+> | **研究意识**<br>（Research Awareness, 子维度 1） | 教师对科研主题构成、发表渠道、[[Literature Search|文献检索]]路径及专业阅读先验认知的敏锐度与知识准备。 | 4 题（R1–R4），如“我知道科研成果在何处发表”、“我知道研究所包含的主题”。（p.6, p.11） |
 > | **研究态度**<br>（Attitude toward Research, 子维度 2） | 教师对科研对教学专业重要性、专业发展促进价值及教育者应否受益于科研的积极情感与价值认同。 | 3 题（R5–R7），如“科学研究对我的职业至关重要”、“教育者应当在专业实践中受益于研究”。 |
-> | **研究技能**<br>（Research Skills, 子维度 3） | 教师在开展[[Literature Review\|文献综述]]、探讨学术议题、解读图表与统计分析结果等方面的实际操作能力与知觉控制。 | 6 题（R8–R13），如“在需要时能进行[[Document\|文献]]综述”、“能解读研究出版物中的图表与统计结果”。 |
+> | **研究技能**<br>（Research Skills, 子维度 3） | 教师在开展[[Literature Review|文献综述]]、探讨学术议题、解读图表与统计分析结果等方面的实际操作能力与知觉控制。 | 6 题（R8–R13），如“在需要时能进行[[Document|文献]]综述”、“能解读研究出版物中的图表与统计结果”。 |
 > | **研究使用**<br>（Research Use, 子维度 4） | 教师在日常教学活动组织、课程内容准备、教学法知识更新及教育决策中主动借鉴与应用科研的实际行为。 | 7 题（R14–R20），如“运用科研组织日常专业活动”、“在备课时借鉴科研”、“利用研究提升教学法知识”。 |
-> | **追踪教育学术期刊**<br>（Following Scientific Journals about Education, FSJE, 自变量/分类变量） | 教师是否持续追踪与阅读与教育相关的学术科研期刊（二分类：是／否）。 | 调查题项“是否追踪教育类学术期刊”，作为多变量方差分析（Multivariate Analysis of Variance, MANOVA）[[Independent Variable\|自变量]]。（p.7, p.12） |
-> | **实际从事研究**<br>（自变量/分类变量） | 教师是否曾亲身参与科研项目、[[Research Proposal\|课题申报]]、[[Action Research\|行动研究]]或研究生学位论文研究（二分类：是／否）。 | 调查题项“是否曾开展科研”，作为 MANOVA 自变量。 |
+> | **追踪教育学术期刊**<br>（Following Scientific Journals about Education, FSJE, 自变量/分类变量） | 教师是否持续追踪与阅读与教育相关的学术科研期刊（二分类：是／否）。 | 调查题项“是否追踪教育类学术期刊”，作为多变量方差分析（Multivariate Analysis of Variance, MANOVA）[[Independent Variable|自变量]]。（p.7, p.12） |
+> | **实际从事研究**<br>（自变量/分类变量） | 教师是否曾亲身参与科研项目、[[Research Proposal|课题申报]]、[[Action Research|行动研究]]或研究生学位论文研究（二分类：是／否）。 | 调查题项“是否曾开展科研”，作为 MANOVA 自变量。 |
 
 ---
 
@@ -133,10 +133,10 @@ journal: "SAGE Open"
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **[[Scale Development\|量表编制程序]]**<br>Scale Development Protocol | 严格遵循 DeVellis (2017) 五阶段开发流程：文献提炼构念 $\rightarrow$ 生成 56 题初始题池（5 级李克特计分） $\rightarrow$ 5 位教育学专家[[Content Validity\|内容效度]]评审（运用[[Content Validity Index\|内容效度指数 CVI]] 与 CVR） $\rightarrow$ 12 位教师/校长可读性评估 $\rightarrow$ 现场施测。（pp.4–5） |
-> | **探索性因子分析**<br>[[Exploratory Factor Analysis\|Exploratory Factor Analysis (EFA)]] | 针对样本 1（$N=310$），采用主轴因子提取法（Principal Axis Factoring, PAF）与方差最大正交旋转（Varimax Rotation），依据题总相关（$> .30$）、因子载荷（$> .32$）与跨载荷差值（$> .10$）逐题筛选。（pp.5–6） |
-> | **验证性因子分析**<br>[[Confirmatory Factor Analysis\|Confirmatory Factor Analysis (CFA)]] | 针对独立样本 2（$N=258$），使用极大似然估计（Maximum Likelihood, ML）与 LISREL 8.80 评估单因子、一阶四因子与二阶因子模型；通过[[Average Variance Extracted\|平均方差抽取量（AVE）]]、[[Composite Reliability\|组合信度（CR）]]与相关矩阵检验收敛与区分效度；运用多组 CFA 检验[[Measurement Invariance\|跨性别测量等值性]]（形态、弱、强与严格等值）。（pp.7–12） |
-> | **差异与赋能分析**<br>Multivariate Analysis of Variance (MANOVA) | 建立 2×2 多[[Variable\|变量]][[Analysis of Variance\|方差分析]]模型，检验期刊追踪与开展科研对素养各维度的单独主效应、[[Interaction Effect\|交互效应]]与方差解释率。（pp.8–13） |
+> | **[[Scale Development|量表编制程序]]**<br>Scale Development Protocol | 严格遵循 DeVellis (2017) 五阶段开发流程：文献提炼构念 $\rightarrow$ 生成 56 题初始题池（5 级李克特计分） $\rightarrow$ 5 位教育学专家[[Content Validity|内容效度]]评审（运用[[Content Validity Index|内容效度指数 CVI]] 与 CVR） $\rightarrow$ 12 位教师/校长可读性评估 $\rightarrow$ 现场施测。（pp.4–5） |
+> | **探索性因子分析**<br>[[Exploratory Factor Analysis|Exploratory Factor Analysis (EFA)]] | 针对样本 1（$N=310$），采用主轴因子提取法（Principal Axis Factoring, PAF）与方差最大正交旋转（Varimax Rotation），依据题总相关（$> .30$）、因子载荷（$> .32$）与跨载荷差值（$> .10$）逐题筛选。（pp.5–6） |
+> | **验证性因子分析**<br>[[Confirmatory Factor Analysis|Confirmatory Factor Analysis (CFA)]] | 针对独立样本 2（$N=258$），使用极大似然估计（Maximum Likelihood, ML）与 LISREL 8.80 评估单因子、一阶四因子与二阶因子模型；通过[[Average Variance Extracted|平均方差抽取量（AVE）]]、[[Composite Reliability|组合信度（CR）]]与相关矩阵检验收敛与区分效度；运用多组 CFA 检验[[Measurement Invariance|跨性别测量等值性]]（形态、弱、强与严格等值）。（pp.7–12） |
+> | **差异与赋能分析**<br>Multivariate Analysis of Variance (MANOVA) | 建立 2×2 多[[Variable|变量]][[Analysis of Variance|方差分析]]模型，检验期刊追踪与开展科研对素养各维度的单独主效应、[[Interaction Effect|交互效应]]与方差解释率。（pp.8–13） |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
@@ -199,13 +199,13 @@ journal: "SAGE Open"
 >
 > | 维度（解释方差） | 题号 | 载荷 | 共同度 | 题项核心内容 |
 > |---|---|---|---|---|
-> | **研究技能**（46.90%） | B51 | .795 | .746 | 独立开展特定主题[[Literature Search\|文献检索]]与综述 |
+> | **研究技能**（46.90%） | B51 | .795 | .746 | 独立开展特定主题[[Literature Search|文献检索]]与综述 |
 > | | B52 | .785 | .715 | 就特定主题科研成果与同行深入讨论 |
-> | | B47 | .623 | .560 | 评价科研成果的质量与证据可[[Reliability\|信度]] |
+> | | B47 | .623 | .560 | 评价科研成果的质量与证据可[[Reliability|信度]] |
 > | | B46 | .595 | .507 | 解读研究出版物中的表格与统计图表 |
 > | | B45 | .569 | .570 | 准确理解并解释学术论文统计分析结果 |
-> | | B28 | .535 | .545 | 掌握开展课堂[[Action Research\|行动研究]]的方法论程序 |
-> | **研究态度**（7.20%） | B2 | .898 | .853 | 科学研究对教师职业与专业[[Growth\|成长]]至关重要 |
+> | | B28 | .535 | .545 | 掌握开展课堂[[Action Research|行动研究]]的方法论程序 |
+> | **研究态度**（7.20%） | B2 | .898 | .853 | 科学研究对教师职业与专业[[Growth|成长]]至关重要 |
 > | | B1 | .786 | .703 | 教育工作者应当在专业实践中充分受益于研究 |
 > | | B15 | .478 | .445 | 关注并参与科研能有效促进教学改进 |
 > | **研究使用**（4.60%） | B19 | .766 | .732 | 运用科研成果规划与组织日常教学活动 |
@@ -213,7 +213,7 @@ journal: "SAGE Open"
 > | | B17 | .717 | .668 | 备课与设计课程内容时主动借鉴科研证据 |
 > | | B32 | .589 | .582 | 将科研知识融入课堂教学以解决具体问题 |
 > | | B10 | .582 | .512 | 借鉴科研成果丰富与提升教学法知识 |
-> | | B5 | .563 | .648 | 积极参与基于科研成果的教研交流与[[Dialogue in Education\|对话]] |
+> | | B5 | .563 | .648 | 积极参与基于科研成果的教研交流与[[Dialogue in Education|对话]] |
 > | | B36 | .557 | .594 | 向同事推荐或分享对教学有启发的学术成果 |
 > | **研究意识**（3.80%） | B6 | .709 | .689 | 了解科学研究所包含的主题与构成要素 |
 > | | B8 | .704 | .685 | 具备阅读与理解学术研究报告的先验准备 |
@@ -231,10 +231,10 @@ journal: "SAGE Open"
 > 独立样本数据支持了四因子一阶模型与高阶单一研究素养二阶模型，量表在[[Convergent and Discriminant Validity|收敛效度]]、区分效度、[[Composite Reliability|复合信度]]及跨性别[[Measurement Invariance|测量等值性]]上均达到优异标准。（pp.7–12）
 
 > [!evidence-grid] 独立样本 2（$N=258$）[[Confirmatory Factor Analysis|验证性因子分析]]与效信度证据
-> - **二阶高阶因子模型确立** 验证性因子分析（CFA）显示单因子模型严重失真（$\chi^2/df=5.07, 	ext{CFI}=0.75$）；一阶四因子修正模型拟合优异（$\chi^2/df=1.94, 	ext{RMSEA}=0.060, 	ext{CFI}=0.94$）；二阶因子模型同样拟合良好（$\chi^2/df=2.11, 	ext{RMSEA}=0.064, 	ext{CFI}=0.94$），确立了二阶统整结构。(p. 9)
+> - **二阶高阶因子模型确立** 验证性因子分析（CFA）显示单因子模型严重失真（$\chi^2/df=5.07, \text{CFI}=0.75$）；一阶四因子修正模型拟合优异（$\chi^2/df=1.94, \text{RMSEA}=0.060, \text{CFI}=0.94$）；二阶因子模型同样拟合良好（$\chi^2/df=2.11, \text{RMSEA}=0.064, \text{CFI}=0.94$），确立了二阶统整结构。(p. 9)
 > - **收敛与区分效度双重达标** 4 个分维度的[[Average Variance Extracted|平均方差抽取量]]（AVE）均达到 $.50 \sim .56$，组合信度（CR）均达 $.75 \sim .90$，且各维度 AVE 均大于因子间的决定系数（$r^2$ 为 $.31\sim.59$），收敛效度与 Fornell-Larcker 区分效度完全确立。（p.9, p.11）
-> - **复合信度体系完备** 20 题 [[Research Literacy Scale for Teachers|RLS]] 总量表 Cronbach's $lpha = .94$，McDonald's $\omega = .95$，Armor's $	heta = .93$，[[Split-Half Reliability|折半信度]] $= .91$；各分量表 $lpha$ 介于 $.83 \sim .90$，矫正题总相关介于 $.48 \sim .72$。（p.11）
-> - **跨性别严格测量不变性** 跨性别多组 CFA 阶梯约束检验表明，从形态等值到严格等值，比较拟合指数改变量 $|\Delta	ext{CFI}| \le .003$，RMSEA 改变量 $\Delta	ext{RMSEA} \le .003$，完全满足 $\le .010$ 判据，证实不存在跨性别测量偏倚。（p.12）
+> - **复合信度体系完备** 20 题 [[Research Literacy Scale for Teachers|RLS]] 总量表 Cronbach's $\alpha = .94$，McDonald's $\omega = .95$，Armor's $\theta = .93$，[[Split-Half Reliability|折半信度]] $= .91$；各分量表 $\alpha$ 介于 $.83 \sim .90$，矫正题总相关介于 $.48 \sim .72$。（p.11）
+> - **跨性别严格测量不变性** 跨性别多组 CFA 阶梯约束检验表明，从形态等值到严格等值，比较拟合指数改变量 $|\Delta\text{CFI}| \le .003$，RMSEA 改变量 $\Delta\text{RMSEA} \le .003$，完全满足 $\le .010$ 判据，证实不存在跨性别测量偏倚。（p.12）
 
 > [!example]- 图2：[[Research Literacy Scale for Teachers|RLS]] 一阶四因子模型标准化路径图
 > ![](https://img.mylikemie.icu/sources/Kazanci_Tinmaz_Sezgin_2023_SO/figures/Kazanci_Tinmaz_Sezgin_2023_SO_Fig2_First_Order_Model.jpg)
@@ -246,7 +246,7 @@ journal: "SAGE Open"
 >
 > | 模型设定 | $\chi^2(df)$ | $\chi^2/df$ | RMSEA | SRMR | NNFI | CFI | 模型判定 |
 > |---|---|---|---|---|---|---|---|
-> | **单因子模型** | 1060.05 (209) | 5.07 | 0.126 | 0.081 | 0.72 | 0.75 | 拟合恶劣，拒绝单维[[Hypothesis\|假设]] |
+> | **单因子模型** | 1060.05 (209) | 5.07 | 0.126 | 0.081 | 0.72 | 0.75 | 拟合恶劣，拒绝单维[[Hypothesis|假设]] |
 > | **一阶四因子（初始）** | 421.67 (164) | 2.57 | 0.078 | 0.069 | 0.90 | 0.91 | 拟合可接受 |
 > | **一阶四因子（修正）** | 316.25 (163) | **1.94** | **0.060** | **0.068** | **0.93** | **0.94** | 拟合优异（释放 S5–S6 协方差） |
 > | **二阶因子（初始）** | 436.94 (166) | 2.61 | 0.080 | 0.071 | 0.90 | 0.91 | 拟合可接受 |
@@ -265,7 +265,7 @@ journal: "SAGE Open"
 
 > [!ref-table]- 表5：分量表与总量表心理测量指标综合汇总（N=258）
 >
-> | 维度 | 题数 | $M \pm SD$ | 题总相关 | $lpha$ | $\omega$ | AVE | CR |
+> | 维度 | 题数 | $M \pm SD$ | 题总相关 | $\alpha$ | $\omega$ | AVE | CR |
 > |---|---|---|---|---|---|---|---|
 > | **研究意识** | 4 | $3.91 \pm 0.66$ | .61–.70 | .83 | .83 | .56 | .83 |
 > | **研究态度** | 3 | $4.37 \pm 0.59$ | .48–.59 | .83 | .75 | .50 | .75 |
@@ -275,7 +275,7 @@ journal: "SAGE Open"
 
 > [!ref-table]- 表6：跨性别多组验证性因子分析测量等值性检验（N=258）
 >
-> | 等值阶梯 | $\chi^2/df$ | RMSEA | SRMR | CFI | $\Delta	ext{CFI}$ | 检验判定 |
+> | 等值阶梯 | $\chi^2/df$ | RMSEA | SRMR | CFI | $\Delta\text{CFI}$ | 检验判定 |
 > |---|---|---|---|---|---|---|
 > | **1. 形态等值（Configural）** | 1.90 | 0.084 | 0.077 | 0.907 | — | 因子结构跨组基线成立 |
 > | **2. 弱等值（Metric）** | 1.86 | 0.082 | 0.082 | 0.906 | .001 | 因子负荷跨组等值 |
@@ -297,9 +297,9 @@ journal: "SAGE Open"
 > - **实践转化不足（技能与使用偏低）** 实际日常追踪教育期刊者仅 $28.3\%$，亲身开展科研者仅 $31.8\%$，技能（$M=3.74$）与使用（$M=3.78$）均值显著滞后，呈现出强烈的“高认知、低行动”知行脱节。
 
 > [!factors] 期刊追踪与开展科研对研究素养的双轨赋能效应
-> - **亲身开展科研** 对研究技能产生最大主效应（$F=15.02, p<.001, 	ext{partial } \eta^2=.056$），其次为使用（$\eta^2=.031$）、意识（$\eta^2=.028$）与态度（$\eta^2=.018$），是打破实践能力瓶颈的核心引擎。(p. 13)
-> - **追踪教育学术期刊** 对研究使用产生最大主效应（$F=12.11, p=.001, 	ext{partial } \eta^2=.046$），其次为意识（$\eta^2=.037$）与技能（$\eta^2=.034$），对态度无显著影响（$\eta^2=.000$），最强效地驱动日常教学备课与反思应用。
-> - **双轨独立机制** 期刊追踪与开展科研的[[Interaction Effect|交互效应]]在所有维度上均不显著（$p > .27, 	ext{partial } \eta^2 \le .005$），证实阅读文献（输入型）与亲身做研究（输出型）具有独立且差异化的赋能路径，两者互不替代。
+> - **亲身开展科研** 对研究技能产生最大主效应（$F=15.02, p<.001, \text{partial } \eta^2=.056$），其次为使用（$\eta^2=.031$）、意识（$\eta^2=.028$）与态度（$\eta^2=.018$），是打破实践能力瓶颈的核心引擎。(p. 13)
+> - **追踪教育学术期刊** 对研究使用产生最大主效应（$F=12.11, p=.001, \text{partial } \eta^2=.046$），其次为意识（$\eta^2=.037$）与技能（$\eta^2=.034$），对态度无显著影响（$\eta^2=.000$），最强效地驱动日常教学备课与反思应用。
+> - **双轨独立机制** 期刊追踪与开展科研的[[Interaction Effect|交互效应]]在所有维度上均不显著（$p > .27, \text{partial } \eta^2 \le .005$），证实阅读文献（输入型）与亲身做研究（输出型）具有独立且差异化的赋能路径，两者互不替代。
 
 > [!ref-table]- 表2：教师研究素养各分维度与总量表描述性统计（N=258）
 >
@@ -353,14 +353,14 @@ journal: "SAGE Open"
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **成功开发出 20 题 4 维度的[[Research Literacy Scale for Teachers|教师研究素养量表]]（RLS）** 确立了包含研究意识（4 题）、态度（3 题）、技能（6 题）与使用（7 题）的二阶模型，具备优良的信效度（$\alpha=.94, \omega=.95$）与跨性别严格[[Measurement Invariance|测量等值性]]。（p.9, p.11）
+> 1. **成功开发出 20 题 4 维度的[[Research Literacy Scale for Teachers|教师研究素养量表]]（RLS）** 确立了包含研究意识（4 题）、态度（3 题）、技能（6 题）与使用（7 题）的二阶模型，具备优良的信效度（$\a\alpha=.94, \omega=.95$）与跨性别严格[[Measurement Invariance|测量等值性]]。（p.9, p.11）
 > 2. **研究技能是解释力最强的核心控制枢纽** 在 [[Exploratory Factor Analysis|EFA]] 中技能因子单独解释了 $46.90\%$ 的方差，实证证实知觉行为技能是连接积极态度与外显使用行为的最核心中介，确立了[[Engagement in and with Research|做研究与用研究]]的双轨独立赋能机制。（p.6, p.14）
 > 3. **教师群体存在普遍的高态度认同与低实践转化断层** 教师科研态度均值极高（$M=4.37$），但技能（$M=3.74$）与使用（$M=3.78$）明显滞后，且定期读刊率仅 $28.3\%$、做研究率仅 $31.8\%$。（p.8, p.12）
 > 4. **亲自做研究与期刊追踪具有差异化赋能机制** 开展科研对提升技能产生最大主效应（$\eta^2 = .056$），追踪专业期刊则最强效地驱动[[Research Utilization|研究使用]]行为（$\eta^2 = .046$）。（p.13）
 
 > [!stat-cards]- 核心数据
 > - **$62.602\%$** EFA 4 因子解释的总方差（技能 $46.90\%$，态度 $7.20\%$，使用 $4.60\%$，意识 $3.80\%$）。（p.6）
-> - **$\alpha = .94, \omega = .95$** 20 题 RLS 总量表的 Cronbach's $\alpha$ 与 McDonald's $\omega$ 复合[[Reliability|信度]]。（p.11）
+> - **$\a\alpha = .94, \omega = .95$** 20 题 RLS 总量表的 Cronbach's $\a\alpha$ 与 McDonald's $\omega$ 复合[[Reliability|信度]]。（p.11）
 > - **$\chi^2/df = 1.94, \text{CFI} = 0.94, \text{RMSEA} = 0.060$** 一阶四因子修正模型的 [[Confirmatory Factor Analysis|CFA]] 拟合参数。（p.9）
 > - **$\Delta\text{CFI} \le .003, \Delta\text{RMSEA} \le .003$** 跨性别严格等值性检验指标。（p.12）
 > - **$\eta^2 = .056$ 与 $\eta^2 = .046$** 开展科研对技能、追踪期刊对使用的最大[[Analysis of Variance|方差分析]]主效应。（p.13）

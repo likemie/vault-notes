@@ -73,7 +73,7 @@ updated: 2026-06-22
 > | 定义 | 对结果落在给定范围内的确信程度 | 希望确保的变异范围 |
 > | 典型取值 | 90%、95%、99% | $\pm 1\%$、$\pm 3\%$、$\pm 5\%$ |
 > | 在公式中的角色 | 决定 $Z$ 值（95% → $Z = 1.96$） | 决定 $e$（边际误差） |
-> | 对[[Sample Size Determination\|样本量]]的影响 | 越高 → $n$ 越大 | 越小 → $n$ 越大 |
+> | 对[[Sample Size Determination|样本量]]的影响 | 越高 → $n$ 越大 | 越小 → $n$ 越大 |
 > | 常规策略 | 95% | $\pm 3\%$ |
 
 两者的组合直接进入[[Sample Size Determination|样本量]]公式：$n = (Z \cdot \sigma / e)^2$，其中 $Z$ 由置信水平决定，$e$ 等于置信区间半宽。
@@ -81,9 +81,9 @@ updated: 2026-06-22
 ### 与相关概念的区别
 
 > [!contrast-table] CI vs 邻近概念
-> | 维度 | 置信区间（CI） | [[Statistical Significance\|统计显著性]] | [[Effect Size\|效应量]] | [[Sampling Error\|标准误]] |
+> | 维度 | 置信区间（CI） | [[Statistical Significance|统计显著性]] | [[Effect Size|效应量]] | [[Sampling Error|标准误]] |
 > |---|---|---|---|---|
-> | 回答的问题 | 真值大概在哪个范围 | 是否拒绝[[Null Hypothesis\|零假设]] | 差异有多大 | 样本估计的变异程度 |
+> | 回答的问题 | 真值大概在哪个范围 | 是否拒绝[[Null Hypothesis|零假设]] | 差异有多大 | 样本估计的变异程度 |
 > | 输出形式 | 区间 $[L, U]$ | $p$ 值 | $d$、$r$ 等 | $SE$ 数值 |
 > | 关系 | $CI = \text{估计值} \pm Z \times SE$ | $p < 0.05$ 等价于 95% CI 不含零 | CI 说明效应量的不稳定性 | $SE$ 是 CI 的构建材料 |
 
@@ -157,6 +157,6 @@ updated: 2026-06-22
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Meta-analysis]] | 方法 | 元分析中平均[[Effect Size\|效应量]]需伴随 [[School Effectiveness\|SE]] 或 CI 才能说明估计精度。 |
-> | [[Meta-meta-analysis]] | 方法 | 联合 SE and CI 是二级元分析报告联合效应量时的必要信息。[[Argument_Wecker_2016_ZfE\|Wecker et al. (2016, p. 30)]] |
+> | [[Meta-analysis]] | 方法 | 元分析中平均[[Effect Size|效应量]]需伴随 [[School Effectiveness|SE]] 或 CI 才能说明估计精度。 |
+> | [[Meta-meta-analysis]] | 方法 | 联合 SE and CI 是二级元分析报告联合效应量时的必要信息。[[Argument_Wecker_2016_ZfE|Wecker et al. (2016, p. 30)]] |
 > | [[Sample Size Determination]] | 概念 | CI and CL 是确定概率样本量的两个核心参数。 |

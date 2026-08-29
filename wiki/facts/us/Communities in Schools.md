@@ -87,14 +87,14 @@ updated: 2026-08-22
 ## 循证清算中心评级全景对比
 
 > [!contrast-table] 六大清算中心对 [[Community Innovation Survey|CIS]] 的评级与审查机制对比（基于 Wadhwa et al., 2024）
-> | 清算中心 | 最终底线评级结论 | 核心支撑实证池与[[Document\|文献]]来源 | 评级推导机制与方法学裁量依据 |
+> | 清算中心 | 最终底线评级结论 | 核心支撑实证池与[[Document|文献]]来源 | 评级推导机制与方法学裁量依据 |
 > |:---|:---|:---|:---|
-> | **[[National Dropout Prevention Center\|NDPC]]** | **Strong Evidence**<br>(强力推荐·最高级) | 声称依据多项学生级 [[Randomised Controlled Trials\|RCT]] 和 1 项学校级 [[Quasi-Experimental Designs\|QED]] | **未公开具体篇目**；宣称项目在出勤、[[Academic Achievement\|GPA]]、学分、初中读写及高中防辍上全面卓越。 |
-> | **[[Promising Practices Network\|PPN]]** | **Promising（有望）**<br>(历史认证推荐) | Urban Institute 评估报告 (Rossman & Morley, 1995) | 基于多地点准[[Experimental Research\|实验研究]]，但**干预组与比较组完全未实施任何匹配控制**。 |
-> | **[[CNCS Evidence Exchange]]** | **Moderate Support（中度支持）**<br>(联邦志愿服务资助认证) | MDRC 系列评估报告 (Parise 2017; Somers 2017) | 采纳 2 年期 RCT（改善非学业参与）与间断时间序列（[[Time Series Design\|ITS]]），认可其系统推进成效。 |
-> | **[[Blueprints for Healthy Youth Development\|Blueprints]]** | **Inconclusive / Uncertified**<br>(证据不确定·不予认证) | 检索审查现有候选实证文献 | **方法学缺陷一票否决**，指出研究普遍存在严重[[Attrition\|差异流失]]、基线不平衡及缺乏独立复制。 |
-> | **[[Clearinghouse for Military Family Readiness Continuum of Evidence\|CMFR]]** | **Insufficient Evidence**<br>(证据不足·不予推荐) | 检索截至 2018 年初公开文献 | **刚性排斥灰色文献**，因检索不到任何**同行评审学术期刊发表**的评估论文而直接拒绝背书。 |
-> | **[[What Works Clearinghouse\|WWC]]** | **No Discernible Effects**<br>(无明显效果·未证实) | 审查防辍学协议下达标因果研究 | 严格因果识别判定：在防辍学核心学业指标上未发现统计显著或实质重要的正向因果效应。 |
+> | **[[National Dropout Prevention Center|NDPC]]** | **Strong Evidence**<br>(强力推荐·最高级) | 声称依据多项学生级 [[Randomised Controlled Trials|RCT]] 和 1 项学校级 [[Quasi-Experimental Designs|QED]] | **未公开具体篇目**；宣称项目在出勤、[[Academic Achievement|GPA]]、学分、初中读写及高中防辍上全面卓越。 |
+> | **[[Promising Practices Network|PPN]]** | **Promising（有望）**<br>(历史认证推荐) | Urban Institute 评估报告 (Rossman & Morley, 1995) | 基于多地点准[[Experimental Research|实验研究]]，但**干预组与比较组完全未实施任何匹配控制**。 |
+> | **[[CNCS Evidence Exchange]]** | **Moderate Support（中度支持）**<br>(联邦志愿服务资助认证) | MDRC 系列评估报告 (Parise 2017; Somers 2017) | 采纳 2 年期 RCT（改善非学业参与）与间断时间序列（[[Time Series Design|ITS]]），认可其系统推进成效。 |
+> | **[[Blueprints for Healthy Youth Development|Blueprints]]** | **Inconclusive / Uncertified**<br>(证据不确定·不予认证) | 检索审查现有候选实证文献 | **方法学缺陷一票否决**，指出研究普遍存在严重[[Attrition|差异流失]]、基线不平衡及缺乏独立复制。 |
+> | **[[Clearinghouse for Military Family Readiness Continuum of Evidence|CMFR]]** | **Insufficient Evidence**<br>(证据不足·不予推荐) | 检索截至 2018 年初公开文献 | **刚性排斥灰色文献**，因检索不到任何**同行评审学术期刊发表**的评估论文而直接拒绝背书。 |
+> | **[[What Works Clearinghouse|WWC]]** | **No Discernible Effects**<br>(无明显效果·未证实) | 审查防辍学协议下达标因果研究 | 严格因果识别判定：在防辍学核心学业指标上未发现统计显著或实质重要的正向因果效应。 |
 
 ---
 
@@ -127,8 +127,8 @@ updated: 2026-08-22
 >
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|
-> | [[Educational Evidence Clearinghouses]] | 核心概念 | [[Community Innovation Survey\|CIS]] 是检验全美清算体系最大极性分歧与制度壁垒的终极案型。 |
-> | [[National Dropout Prevention Center]] | 评价机构 | 依据一线[[Praxis\|实践]]与未公开实证赋予 CIS 最高级 Strong 推荐。 |
+> | [[Educational Evidence Clearinghouses]] | 核心概念 | [[Community Innovation Survey|CIS]] 是检验全美清算体系最大极性分歧与制度壁垒的终极案型。 |
+> | [[National Dropout Prevention Center]] | 评价机构 | 依据一线[[Praxis|实践]]与未公开实证赋予 CIS 最高级 Strong 推荐。 |
 > | [[What Works Clearinghouse]] | 评价机构 | 经严格因果审查裁定 CIS 在防辍学领域无明显证实效果。 |
 > | [[Blueprints for Healthy Youth Development]] | 评价机构 | 因方法缺陷与缺乏独立复制对 CIS 判定为证据不确定。 |
 > | [[Clearinghouse for Military Family Readiness Continuum of Evidence]] | 评价机构 | 因缺乏同行评审期刊发表论文对 CIS 判定为证据不足。 |

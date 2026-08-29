@@ -90,8 +90,8 @@ updated: 2026-07-13
 > [!entry-map]
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
-> | [[Pre-Experimental Designs]] | 方法 | 所属类别——单组前[[Pre-test and Post-test\|后测]]是前实验设计的典型形式 |
-> | [[Pretest-Posttest Control Group Design]] | 方法 | 升级版——增加控制组和[[Random Assignment\|随机分配]]，[[Internal Validity\|内部效度]]质的提升 |
+> | [[Pre-Experimental Designs]] | 方法 | 所属类别——单组前[[Pre-test and Post-test|后测]]是前实验设计的典型形式 |
+> | [[Pretest-Posttest Control Group Design]] | 方法 | 升级版——增加控制组和[[Random Assignment|随机分配]]，[[Internal Validity|内部效度]]质的提升 |
 > | [[Quasi-Experimental Designs]] | 方法 | 升级替代——增加控制组（即使非随机）即可显著改善 |
 > | [[Random Assignment]] | 方法 | 缺失的关键——该设计最根本的缺陷就是缺乏随机分配 |
 

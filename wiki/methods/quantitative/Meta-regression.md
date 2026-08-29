@@ -102,13 +102,13 @@ updated: 2026-08-25
 > - **不声称回答的问题** 元回归揭示的是研究层面的生态关联（Ecological Association），不能直接推断个体层面的微观因果中介，不可犯[[Ecological Fallacy|生态谬误]]。
 
 > [!contrast-table] 经典一阶元回归 vs [[Second-Order Meta-Regression|二阶元回归]] vs 分类亚组检验
-> | 比较维度 | 经典一阶元回归（[[Meta-regression]]） | 二阶元回归（[[Second-Order Meta-Regression]]） | 分类亚组检验与[[Pairwise Wald Tests\|成对 Wald 检验]] |
+> | 比较维度 | 经典一阶元回归（[[Meta-regression]]） | 二阶元回归（[[Second-Order Meta-Regression]]） | 分类亚组检验与[[Pairwise Wald Tests|成对 Wald 检验]] |
 > |---|---|---|---|
-> | **分析单位** | 原始实证研究（Primary Studies） | 一阶[[Meta-analysis\|元分析]]汇总效应量集群（Meta-Analysis Clusters） | 原始实证研究按属性划分的离散子群 |
-> | **自变量形态** | 连续型变量（如信度、人均 GDP、年份）或哑变量 | 宏观[[Construct\|理论构念]]与跨领域特征指标 | 离散分类变量（如学段、干预形态、学科） |
-> | **依赖性处理** | 假定各研究抽样独立或采用简单多水平结构 | 采用 [[Correlated and Hierarchical Effects Model\|CHE]] 块对角协方差与 [[Robust Variance Estimation\|RVE]] 经验三明治估计 | 假定各亚组效应量独立或分层建模 |
+> | **分析单位** | 原始实证研究（Primary Studies） | 一阶[[Meta-analysis|元分析]]汇总效应量集群（Meta-Analysis Clusters） | 原始实证研究按属性划分的离散子群 |
+> | **自变量形态** | 连续型变量（如信度、人均 GDP、年份）或哑变量 | 宏观[[Construct|理论构念]]与跨领域特征指标 | 离散分类变量（如学段、干预形态、学科） |
+> | **依赖性处理** | 假定各研究抽样独立或采用简单多水平结构 | 采用 [[Correlated and Hierarchical Effects Model|CHE]] 块对角协方差与 [[Robust Variance Estimation|RVE]] 经验三明治估计 | 假定各亚组效应量独立或分层建模 |
 > | **统计推断核心** | 估计连续斜率 $\beta_1$ 与模型 $F / Q_M$ 检验 | 跨越数千项研究检验全领域理论边界 | 检验组间总异质性 $Q_{between}$ 与两两 Wald 级差 |
-> | **典型代表应用** | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]]; [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]]; [[Argument_Unal_2026_JECR\|Ünal et al. (2026)]] | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] 工具与学段级差比较 |
+> | **典型代表应用** | [[Argument_Greene_2018_JEP|Greene et al. (2018)]]; [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] | [[Argument_Gungor_2026_CP|Güngör et al. (2026)]]; [[Argument_Unal_2026_JECR|Ünal et al. (2026)]] | [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] 工具与学段级差比较 |
 
 ---
 
@@ -225,13 +225,13 @@ updated: 2026-08-25
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Meta-analysis]] | 前置方法 | 元回归依附于元[[Analytic Framework\|分析框架]]，以元分析提取的[[Effect Size\|效应量]]与抽样方差作为建模输入。 |
-> | [[Pairwise Wald Tests]] | 互补方法 | 元回归处理连续型协[[Variable\|变量]]与多变量线性趋势，成对 Wald 检验处理离散多亚组的事后成对级差推断。 |
-> | [[Second-Order Meta-Regression]] | 进阶方法 | 在[[Meta-meta-analysis\|二阶元分析]]多层嵌套与文献重叠数据下，运用 [[Correlated and Hierarchical Effects Model\|CHE]] 与 [[Robust Variance Estimation\|RVE]] 检验宏观[[Interaction Effect\|调节效应]]的高阶形态。 |
-> | [[Moderator Analysis]] | 关联方法 | 元回归是调节分析的高阶形态，弥补了传统子组[[Analysis of Variance\|方差分析]]无法处理连续变量的缺陷。 |
+> | [[Meta-analysis]] | 前置方法 | 元回归依附于元[[Analytic Framework|分析框架]]，以元分析提取的[[Effect Size|效应量]]与抽样方差作为建模输入。 |
+> | [[Pairwise Wald Tests]] | 互补方法 | 元回归处理连续型协[[Variable|变量]]与多变量线性趋势，成对 Wald 检验处理离散多亚组的事后成对级差推断。 |
+> | [[Second-Order Meta-Regression]] | 进阶方法 | 在[[Meta-meta-analysis|二阶元分析]]多层嵌套与文献重叠数据下，运用 [[Correlated and Hierarchical Effects Model|CHE]] 与 [[Robust Variance Estimation|RVE]] 检验宏观[[Interaction Effect|调节效应]]的高阶形态。 |
+> | [[Moderator Analysis]] | 关联方法 | 元回归是调节分析的高阶形态，弥补了传统子组[[Analysis of Variance|方差分析]]无法处理连续变量的缺陷。 |
 > | [[Heterogeneity]] | 诊断基础 | 研究间异质性是实施元回归的前提依据，元回归的核心目标即为解释此异质性。 |
-> | [[Effect Size]] | [[Dependent Variable\|因变量]] | 各项研究的效应量点估计构成元回归模型的响应变量。 |
-> | [[Reliability]] | 核心应用 | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] 通过元回归证明了测量信度是决定效应量大小的底层方法学变量。 |
+> | [[Effect Size]] | [[Dependent Variable|因变量]] | 各项研究的效应量点估计构成元回归模型的响应变量。 |
+> | [[Reliability]] | 核心应用 | [[Argument_Greene_2018_JEP|Greene et al. (2018)]] 通过元回归证明了测量信度是决定效应量大小的底层方法学变量。 |
 
 ---
 

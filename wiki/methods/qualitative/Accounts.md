@@ -86,10 +86,10 @@ updated: 2026-07-23
 > [!sample-panel] 材料与进入现场
 > | 维度 | 信息 |
 > |---|---|
-> | 材料来源 | 录音访谈、参与者观察记录、[[Dialogue in Education\|对话]][[Transcription in Qualitative Research\|转录]]。陈述可以是个人记录、对话、信件、日记等。 |
+> | 材料来源 | 录音访谈、参与者观察记录、[[Dialogue in Education|对话]][[Transcription in Qualitative Research|转录]]。陈述可以是个人记录、对话、信件、日记等。 |
 > | 抽样或选案 | 界定社会片段的角色群体 → 识别典型代表 → 选择个体信息提供者（Brown & Sime, 1981） |
-> | 研究者位置 | 研究者需建立融洽关系、协商进入现场、保持[[Reflexivity\|反身性]]，并对自己作出的对陈述的再陈述负责 |
-> | 资料边界 | 以[[Social Episodes\|社会片段]]为自然边界；需说明分析所基于的片段范围和时间跨度 |
+> | 研究者位置 | 研究者需建立融洽关系、协商进入现场、保持[[Reflexivity|反身性]]，并对自己作出的对陈述的再陈述负责 |
+> | 资料边界 | 以[[Social Episodes|社会片段]]为自然边界；需说明分析所基于的片段范围和时间跨度 |
 
 > [!proc] 质性分析程序
 > 1. 在自然情境中引发参与者的言语陈述，使用录音记录完整对话
@@ -126,9 +126,9 @@ updated: 2026-07-23
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Ethogenic Approach]] | 前置方法 | 人因取向是[[Account Gathering\|陈述收集]]与分析的理论基础和方法论框架 |
+> | [[Ethogenic Approach]] | 前置方法 | 人因取向是[[Account Gathering|陈述收集]]与分析的理论基础和方法论框架 |
 > | [[Account Gathering]] | 子方法 | 陈述收集是陈述法中引发和记录陈述的具体操作程序 |
-> | [[Experience-Sampling Method]] | 子方法 | [[Experience Sampling Method\|经验取样法]]是引发和分析陈述的一种具体质性技术 |
+> | [[Experience-Sampling Method]] | 子方法 | [[Experience Sampling Method|经验取样法]]是引发和分析陈述的一种具体质性技术 |
 > | [[Discourse Analysis]] | 姐妹方法 | 话语分析同样以情境中的语言为焦点，但更侧重语言如何执行社会行动 |
 > | [[Ethnomethodology]] | 理论基础 | 俗民方法学提供了将日常活动作为经验研究对象的理论前提 |
 > | [[Member Tests]] | 验证方法 | 成员核验是验证陈述分析真确性的核心手段 |

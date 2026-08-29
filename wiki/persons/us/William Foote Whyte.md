@@ -75,6 +75,6 @@ updated: 2026-08-16
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Reflexivity\|反身性]] | 概念 | 其田野反思为反身性提供经典论述。 |
-> | [[Participatory Action Research\|参与式行动研究]] | 方法 | 提出 PAR 作为弥合研究者与组织成员鸿沟的途径。 |
-> | [[Participant Observation\|参与式观察]] | 方法 | 以《街角社会》奠定参与式观察传统。 |
+> | [[Reflexivity|反身性]] | 概念 | 其田野反思为反身性提供经典论述。 |
+> | [[Participatory Action Research|参与式行动研究]] | 方法 | 提出 PAR 作为弥合研究者与组织成员鸿沟的途径。 |
+> | [[Participant Observation|参与式观察]] | 方法 | 以《街角社会》奠定参与式观察传统。 |

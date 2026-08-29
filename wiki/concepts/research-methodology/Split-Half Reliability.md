@@ -72,7 +72,7 @@ updated: 2026-06-26
 > | Flanagan 系数 | 基于两半个分的方差分别估计 |
 > | Rulon 系数 | 基于两半个分差值的方差估计，不要求两半等方差 |
 > | Kuder-Richardson 系数（KR-20、KR-21） | 适用于二分计分（0/1）的条目 |
-> | [[Internal Consistency\|Cronbach α]] 系数 | 将折半思路推广至逐条目层面，是当前最通用的[[Internal Consistency\|内部一致性]]指标 |
+> | [[Internal Consistency|Cronbach α]] 系数 | 将折半思路推广至逐条目层面，是当前最通用的[[Internal Consistency|内部一致性]]指标 |
 
 > [!note] 从折半到 α
 > Cronbach α 可以理解为**所有可能折半方式的平均信度**——它将折半的思路推广到每一个条目，计算的是条目间的平均协方差相对于总方差的比例。因此在实际应用中，α 系数已在很大程度上取代了传统的折半信度。
@@ -82,7 +82,7 @@ updated: 2026-06-26
 ## 概念辨析
 
 > [!contrast-table] 折半[[Reliability|信度]] vs [[Internal Consistency|内部一致性]] vs [[Test-Retest Reliability|重测信度]]
-> | 维度 | 折半信度 | [[Internal Consistency\|内部一致性（Cronbach α）]] | [[Test-Retest Reliability\|重测信度]] |
+> | 维度 | 折半信度 | [[Internal Consistency|内部一致性（Cronbach α）]] | [[Test-Retest Reliability|重测信度]] |
 > |---|---|---|---|
 > | 核心逻辑 | 将条目分两半→计算两半相关→校正 | 逐条目计算平均协方差 | 同一工具两次施测 |
 > | 施测次数 | 一次 | 一次 | 至少两次 |

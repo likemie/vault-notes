@@ -6,10 +6,10 @@ aliases:
 summary: "Biggs 提出的课程系统设计原则，以学生实际开展的学习活动为核心，并用同一组目标动词协调预期学习结果、教学／学习活动与标准参照评估；OECD报告进一步将其扩展为涵盖宏观资格框架、中观全课程整合与微观真实性评价的多层级治理工程。"
 type: concept
 domain: "curriculum"
-related_count: 13
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 38
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - theme/constructive-alignment
   - theme/curriculum-design
@@ -18,21 +18,46 @@ tags:
   - level/higher-education
   - level/k12
 related_concepts:
+  - "[[Constructed Knowledge]]"
+  - "[[Teaching and Learning Activities]]"
+  - "[[Hypothesis]]"
+  - "[[Higher-Order Thinking Skills]]"
+  - "[[Rote Learning]]"
   - "[[Assessment Backwash]]"
   - "[[Surface and Deep Learning]]"
   - "[[Problem-Based Learning]]"
   - "[[Learning Portfolio]]"
   - "[[SOLO Taxonomy]]"
   - "[[Criterion-Referenced Test]]"
+  - "[[Homework]]"
   - "[[Learning Gap]]"
+  - "[[Document]]"
+  - "[[Operationalization]]"
+  - "[[Constructivist Paradigm]]"
+  - "[[Outcomes-based Education]]"
+  - "[[Visible Learning]]"
+  - "[[Authentic Assessment]]"
+  - "[[Learning Gain]]"
+  - "[[Variable]]"
+  - "[[Critical Thinking]]"
+  - "[[Effect Size]]"
+  - "[[Academic Achievement]]"
+  - "[[Feedback]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Multiple-Choice Questions]]"
+  - "[[Meta-analysis]]"
+  - "[[Intervention Research]]"
 related_instruments:
   - "[[VALUE Rubrics]]"
+  - "[[Collegiate Learning Assessment]]"
+  - "[[ETS HEIghten Critical Thinking Assessment]]"
 related_persons: []
 related_facts:
+  - "[[OECD]]"
   - "[[European Qualifications Framework]]"
   - "[[TESTA Project]]"
+  - "[[Bologna Process]]"
 related_arguments:
   - "[[Argument_Biggs_1999_HERD]]"
   - "[[Argument_Bouckaert_2023_OECD]]"
@@ -40,7 +65,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-04
-updated: 2026-08-27
+updated: 2026-08-29
 ---
 
 # Constructive Alignment
@@ -68,7 +93,7 @@ updated: 2026-08-27
 ## 概念辨析
 
 > [!contrast-table] 建构性对齐与相邻概念辨析
-> | 维度 | 建构性对齐 (Constructive Alignment) | [[SOLO Taxonomy\|SOLO 分类法]] | [[Surface and Deep Learning\|表层与深层学习]] | [[Criterion-Referenced Test\|标准参照评估]] |
+> | 维度 | 建构性对齐 (Constructive Alignment) | [[SOLO Taxonomy|SOLO 分类法]] | [[Surface and Deep Learning|表层与深层学习]] | [[Criterion-Referenced Test|标准参照评估]] |
 > |---|---|---|---|---|
 > | **分析对象** | 课程目标、学习活动与评估之间的系统关系 | 学习结果的结构复杂性阶梯 | 学生在具体任务中采用的学习方式 | 学生表现与预设质量标准之间的达标关系 |
 > | **核心问题** | 目标、教学与考核是否要求学生开展同一种认知活动 | 学生的理解处于何种结构层次 | 学生如何组织、提取和应用信息 | 学生是否达到目标，以及达到何种质量水平 |
@@ -102,7 +127,7 @@ updated: 2026-08-27
 > [!taxonomy] 图 2 中的 A–D 理解质量与表现标准
 > | 等级 | 理解质量 | 可观察表现 |
 > |---|---|---|
-> | **A (拓展抽象)** | 达到本阶段合理期待的最高水平 | 提出[[Hypothesis\|假设]]、迁移到较远陌生领域、形成新理论见解、联系跨学科基本原则 |
+> | **A (拓展抽象)** | 达到本阶段合理期待的最高水平 | 提出[[Hypothesis|假设]]、迁移到较远陌生领域、形成新理论见解、联系跨学科基本原则 |
 > | **B (关联结构)** | 理解充分，整体表现优良 | 解释机制、整合多源信息解决复杂问题、系统比较与批判分析 |
 > | **C (多点结构)** | 具备较完整的陈述性理解 | 展开说明、罗列事实、分类描述并覆盖主要大纲知识点 |
 > | **D (单点结构)** | 达到最低可接受水平 | 以孤立识别和简单记忆为主；高阶任务未能完整展开 |
@@ -134,7 +159,7 @@ updated: 2026-08-27
 >     Meso -.->|质量保障与机构认证| Macro
 > ```
 
-> [!frames-ref]- 多层级对齐的核心内涵（Bouckaert, 2023）
+> [!frames-ref]- 多层级对齐的核心内涵（[[Argument_Bouckaert_2023_OECD|Bouckaert, 2023]]）
 > - **宏观层级（Macro）** [[European Qualifications Framework|欧洲资格框架]]（EQF）与各国 NQF 将[[Higher-Order Thinking Skills|高阶思维]]确立为学士、硕士与博士的核心学习成果。
 > - **中观层级（Meso / 全课程级）** 克服模块化（Modularisation）导致的考核碎片化危机；依托 [[TESTA Project|TESTA]] 等模式在专业整体层面统整评价任务，保障跨学期复合能力的螺旋式上升。
 > - **微观层级（Micro / 课堂与量规）** 采用 [[VALUE Rubrics|VALUE]] 等经过教师校准研讨（Calibration）的表现性量规，直接嵌入日常大[[Homework|作业]]与论文中，实现教、学、评一体化。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 6–8, 26–28)]]
@@ -208,14 +233,14 @@ updated: 2026-08-27
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
-> | 命题类型 | 核心理论判定 | 适用分析情境 | 代表学者与[[Document\|文献]] |
+> | 命题类型 | 核心理论判定 | 适用分析情境 | 代表学者与[[Document|文献]] |
 > |---|---|---|---|
-> | **活动中介** | 学生的实际认知活动是连接教学安排与理解质量的直接中介 | 课堂教学法设计、学习过程分析 | [[Argument_Biggs_1999_HERD\|Biggs (1999, p. 60)]] |
-> | **动词统整** | 同一组认知动词为目标、活动与评估提供一致的[[Operationalization\|操作化]]标记 | 教学大纲编制、学习成果对齐 | [[Argument_Biggs_1999_HERD\|Biggs (1999, p. 64)]] |
-> | **建设性反拨** | 考核与目标对齐可将应试动力转化为促进深层学习的正面反拨 | 考试制度改革、反拨效应评估 | [[Argument_Biggs_1999_HERD\|Biggs (1999, p. 68)]] |
-> | **标准参照** | 依据定性质量标准评定表现，排斥破坏对齐的常模曲线评分 | 学业成绩评定、等级分转换 | [[Argument_Biggs_1999_HERD\|Biggs (1999, p. 69)]] |
-> | **多路径实现** | 对齐可通过 PBL 自上而下设计，亦可通过档案袋自下而上生成 | 课程与教学模式创新实践 | [[Argument_Biggs_1999_HERD\|Biggs (1999, p. 70)]] |
-> | **多层级系统协同** | 对齐需跃升为涵盖资格框架、全课程架构与表现量规的多层级工程 | 高教宏观治理、全课程评价改革 | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023, p. 6)]] |
+> | **活动中介** | 学生的实际认知活动是连接教学安排与理解质量的直接中介 | 课堂教学法设计、学习过程分析 | [[Argument_Biggs_1999_HERD|Biggs (1999, p. 60)]] |
+> | **动词统整** | 同一组认知动词为目标、活动与评估提供一致的[[Operationalization|操作化]]标记 | 教学大纲编制、学习成果对齐 | [[Argument_Biggs_1999_HERD|Biggs (1999, p. 64)]] |
+> | **建设性反拨** | 考核与目标对齐可将应试动力转化为促进深层学习的正面反拨 | 考试制度改革、反拨效应评估 | [[Argument_Biggs_1999_HERD|Biggs (1999, p. 68)]] |
+> | **标准参照** | 依据定性质量标准评定表现，排斥破坏对齐的常模曲线评分 | 学业成绩评定、等级分转换 | [[Argument_Biggs_1999_HERD|Biggs (1999, p. 69)]] |
+> | **多路径实现** | 对齐可通过 PBL 自上而下设计，亦可通过档案袋自下而上生成 | 课程与教学模式创新实践 | [[Argument_Biggs_1999_HERD|Biggs (1999, p. 70)]] |
+> | **多层级系统协同** | 对齐需跃升为涵盖资格框架、全课程架构与表现量规的多层级工程 | 高教宏观治理、全课程评价改革 | [[Argument_Bouckaert_2023_OECD|Bouckaert (2023, p. 6)]] |
 
 ---
 
@@ -248,12 +273,12 @@ updated: 2026-08-27
 > [!ref-table]- 高等教育对齐机制与[[Learning Gain|学习增益]]实证研究
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 / 项目 | 样本与情境 | 研究设计 | 核心[[Variable\|变量]]与考察维度 | 原始统计与实证发现 | 解释边界与政策启示 |
+> | 研究 / 项目 | 样本与情境 | 研究设计 | 核心[[Variable|变量]]与考察维度 | 原始统计与实证发现 | 解释边界与政策启示 |
 > |---|---|---|---|---|---|
-> | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023, pp. 26–27)]] / TESTA 计划 | 英国等国 70 余所大学 100 余个本科专业 | 跨校全课程评价调研与追踪 | 模块化考核负荷与学习策略 | 本科三年经历 60–80 项独立终结性考试，形成性反馈严重匮乏，迫使学生采取应试[[Surface and Deep Learning\|表层学习]] | 证实微观模块对齐若缺乏全课程统整，会引发碎片化过度考核并阻碍[[Higher-Order Thinking Skills\|高阶思维]]养成 |
-> | Arum & Roksa (2011) / Loyalka et al. (2021)（引自 [[Argument_Bouckaert_2023_OECD\|Bouckaert, 2023, pp. 4–5]]） | 全美 24 所高校与中俄印美四国 30,000 余名大学生 | [[Collegiate Learning Assessment\|CLA+]] / [[ETS HEIghten Critical Thinking Assessment\|HEIghten]] 纵向队列追踪 | 大学生[[Critical Thinking\|批判性思维]]与高阶推理增益 | 超过 45% 的本科生在大学前两年批判性思维无统计学显著增长 | 揭示高校学业考核未与高阶思维形成建构性对齐时，宏观政策倡导无法转化为实际能力增益 |
-> | [[Argument_Hattie_2015_SOTLP\|Hattie (2015b, p. 86)]] | 涵盖 1,200 项[[Meta-analysis\|元分析]]、6.5 万项研究 | 元分析[[Effect Size\|效应量]]整合 | 明确成功标准 (Success Criteria) 对学习表现的促进效应 | $d = 0.77$ | 证实提前公开目标质量标准并与评价对齐对学生[[Academic Achievement\|学业成就]]具有高度促进效应 |
-> | [[Argument_Hattie_2015_SOTLP\|Hattie (2015b, p. 88)]] | 全球教育[[Intervention Research\|干预研究]] | 元分析效应量整合 | 指向下一步改进的反馈 ([[Feedback]]) 效应 | $d = 0.73$ | 证实对齐的形成性反馈循环是推动深层学习的核心机制 |
+> | [[Argument_Bouckaert_2023_OECD|Bouckaert (2023, pp. 26–27)]] / TESTA 计划 | 英国等国 70 余所大学 100 余个本科专业 | 跨校全课程评价调研与追踪 | 模块化考核负荷与学习策略 | 本科三年经历 60–80 项独立终结性考试，形成性反馈严重匮乏，迫使学生采取应试[[Surface and Deep Learning|表层学习]] | 证实微观模块对齐若缺乏全课程统整，会引发碎片化过度考核并阻碍[[Higher-Order Thinking Skills|高阶思维]]养成 |
+> | Arum & Roksa (2011) / Loyalka et al. (2021)（引自 [[Argument_Bouckaert_2023_OECD|Bouckaert, 2023, pp. 4–5]]） | 全美 24 所高校与中俄印美四国 30,000 余名大学生 | [[Collegiate Learning Assessment|CLA+]] / [[ETS HEIghten Critical Thinking Assessment|HEIghten]] 纵向队列追踪 | 大学生[[Critical Thinking|批判性思维]]与高阶推理增益 | 超过 45% 的本科生在大学前两年批判性思维无统计学显著增长 | 揭示高校学业考核未与高阶思维形成建构性对齐时，宏观政策倡导无法转化为实际能力增益 |
+> | [[Argument_Hattie_2015_SOTLP|Hattie (2015b, p. 86)]] | 涵盖 1,200 项[[Meta-analysis|元分析]]、6.5 万项研究 | 元分析[[Effect Size|效应量]]整合 | 明确成功标准 (Success Criteria) 对学习表现的促进效应 | $d = 0.77$ | 证实提前公开目标质量标准并与评价对齐对学生[[Academic Achievement|学业成就]]具有高度促进效应 |
+> | [[Argument_Hattie_2015_SOTLP|Hattie (2015b, p. 88)]] | 全球教育[[Intervention Research|干预研究]] | 元分析效应量整合 | 指向下一步改进的反馈 ([[Feedback]]) 效应 | $d = 0.73$ | 证实对齐的形成性反馈循环是推动深层学习的核心机制 |
 
 ---
 

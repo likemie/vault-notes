@@ -67,9 +67,9 @@ updated: '2026-08-27'
 > [!contrast-table] 概念辨析
 > | 维度 | 解码（Decodification） | 传统文本解析（Textual Exegesis） |
 > |------|--------------------------|---------------------------------|
-> | **[[Epistemology\|认识论]]目标** | 揭示生活现象背后的压迫权力结构 | 理解和再现作者既定的文本原意 |
+> | **[[Epistemology|认识论]]目标** | 揭示生活现象背后的压迫权力结构 | 理解和再现作者既定的文本原意 |
 > | **主体关系** | 学习者作为“我们共同思考”的共同探究主体 | 学习者作为被动接受标准答案的客体 |
-> | **[[Praxis\|实践]]指向** | 直接指向改变现实的[[Praxis\|实践]]行动 | 停留在象牙塔内的纯粹智力体操 |
+> | **[[Praxis|实践]]指向** | 直接指向改变现实的[[Praxis|实践]]行动 | 停留在象牙塔内的纯粹智力体操 |
 
 ---
 
@@ -110,7 +110,7 @@ updated: '2026-08-27'
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **解码飞跃命题** | 探讨解码如何促成“我们思考”与[[Praxis\|实践]] | [[Problem-Posing Education\|提问式教育]]与文化圈[[Dialogue in Education\|对话]] | [[Paulo Freire\|Freire, P.]]; [[Argument_Darwish_2009_Queens\|Darwish, B.]] |
+> | **解码飞跃命题** | 探讨解码如何促成“我们思考”与[[Praxis|实践]] | [[Problem-Posing Education|提问式教育]]与文化圈[[Dialogue in Education|对话]] | [[Paulo Freire|Freire, P.]]; [[Argument_Darwish_2009_Queens|Darwish, B.]] |
 
 ---
 

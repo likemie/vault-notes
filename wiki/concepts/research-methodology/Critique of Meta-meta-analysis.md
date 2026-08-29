@@ -155,11 +155,11 @@ updated: 2026-08-24
 ## 方法学反思与建设性替代路径
 
 > [!contrast-table] 传统粗糙[[Meta-meta-analysis|元综合]] vs 批判后建设性替代路径
-> | 维度 | 传统粗糙元综合（如早版 Hattie） | [[Critical Realism\|批判实在论]]与现代二阶[[Meta-analysis\|元分析]]方案 |
+> | 维度 | 传统粗糙元综合（如早版 Hattie） | [[Critical Realism|批判实在论]]与现代二阶[[Meta-analysis|元分析]]方案 |
 > |---|---|---|
 > | **数据合成逻辑** | 跨领域粗放收集、未加权算术平均、忽略重叠 | 严格 PRISMA 检索、[[AMSTAR]] 质量准入、排除主要研究重叠 |
-> | **统计推断模型** | 伪[[Fixed-Effect and Random-Effects Models\|固定效应模型]]、无[[Confidence Interval\|置信区间]]、忽略依赖性 | 多水平相关与层级效应（CHE）+ [[Robust Variance Estimation\|稳健方差估计]]（RVE）三明治估计量 |
-> | **偏倚控制机制** | 声称不关心研究质量、无[[Small Study Effects\|小研究效应]]检验 | 改进[[Multilevel Egger's Test\|多水平艾格回归]]检验并进行截距偏倚校正 |
+> | **统计推断模型** | 伪[[Fixed-Effect and Random-Effects Models|固定效应模型]]、无[[Confidence Interval|置信区间]]、忽略依赖性 | 多水平相关与层级效应（CHE）+ [[Robust Variance Estimation|稳健方差估计]]（RVE）三明治估计量 |
+> | **偏倚控制机制** | 声称不关心研究质量、无[[Small Study Effects|小研究效应]]检验 | 改进[[Multilevel Egger's Test|多水平艾格回归]]检验并进行截距偏倚校正 |
 > | **知识产出定位** | 全球普适性有效性联盟表与排名 | 探索效应量异质性来源、识别调节变量、实在论因果机制解释（Pawson, 2006） |
 
 > [!pathways] 建设性替代方向
@@ -176,8 +176,8 @@ updated: 2026-08-24
 >
 > | 条目 | 类型 | 关联方向 | 说明 |
 > |:-----|:-----|:---------|:-----|
-> | [[Meta-meta-analysis]] | 方法 | 批判对象 | 元-[[Meta-analysis\|元分析]]是本条目系统审视与方法论重构的核心技术对象。 |
-> | [[Critique of Effect Size]] | 概念 | 理论基石 | 元-[[Critique of Meta-analysis\|元分析批判]]继承并推进了效应量指标在试验灵敏度层面的批判。 |
-> | [[Critique of Evidence-Based Education]] | 概念 | 宏观语境 | 揭示二阶聚合作为[[Evidence-Based Education\|循证教育]]政策工具的[[Epistemology\|认识论]]局限。 |
+> | [[Meta-meta-analysis]] | 方法 | 批判对象 | 元-[[Meta-analysis|元分析]]是本条目系统审视与方法论重构的核心技术对象。 |
+> | [[Critique of Effect Size]] | 概念 | 理论基石 | 元-[[Critique of Meta-analysis|元分析批判]]继承并推进了效应量指标在试验灵敏度层面的批判。 |
+> | [[Critique of Evidence-Based Education]] | 概念 | 宏观语境 | 揭示二阶聚合作为[[Evidence-Based Education|循证教育]]政策工具的[[Epistemology|认识论]]局限。 |
 > | [[Visible Learning]] | 概念 | 典型案例 | Hattie 的可见学习是元-元分析方法论缺陷与争议的最主要发源地。 |
 > | [[Robust Variance Estimation]] | 方法 | 技术解方 | 现代二阶元分析用于克服传统元-元分析统计缺陷的核心进阶工具。 |

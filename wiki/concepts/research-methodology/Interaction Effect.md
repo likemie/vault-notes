@@ -68,10 +68,10 @@ updated: 2026-07-13
 > [!contrast-table] 交互效应 vs 主效应
 > | 维度 | 主效应（Main Effect） | 交互效应（Interaction Effect） |
 > |---|---|---|
-> | **含义** | 一个[[Independent Variable\|自变量]]对[[Dependent Variable\|因变量]]的独立平均效应 | 一个自[[Variable\|变量]]的效应依赖于另一个自变量的水平 |
+> | **含义** | 一个[[Independent Variable|自变量]]对[[Dependent Variable|因变量]]的独立平均效应 | 一个自[[Variable|变量]]的效应依赖于另一个自变量的水平 |
 > | **检验方式** | 比较该自变量各水平的边际均值 | 比较一个自变量在不同条件下的简单效应 |
 > | **图示** | 平行线（各水平的效应恒定） | 不平行线（各水平的效应因另一变量而变化） |
-> | **[[Causality\|因果]]含义** | "X 对 Y 有效应" | "X 对 Y 的效应**取决于** Z" |
+> | **[[Causality|因果]]含义** | "X 对 Y 有效应" | "X 对 Y 的效应**取决于** Z" |
 
 ---
 

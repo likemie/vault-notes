@@ -75,8 +75,8 @@ updated: 2026-06-10
 | **学生导向参与（Student-Oriented Engagement）** | 人才培养、就业与招聘 | 实习项目、奖学金、客座讲座、定制化学位 |
 | **研究者互动（Involvement with Researchers）** | 联合知识创造 | 赞助研究、联合发表、咨询、联合指导研究生 |
 | **资源获取（Access to Resources）** | 设施、设备与数据共享 | 设备使用协议、数据库共享、共建核心设施 |
-| **专业中心与学院参与（Centers of Expertise & Schools）** | 机构层面的深度制度化合作 | 共建研究中心、[[Industry Advisory Board\|行业咨询委员会]]、企业冠名学院 |
-| **经济发展（Economic Development）** | 区域创新、产业政策与创业 | [[Innovation Park\|创新园区]]共建、创业孵化、区域产业集群规划 |
+| **专业中心与学院参与（Centers of Expertise & Schools）** | 机构层面的深度制度化合作 | 共建研究中心、[[Industry Advisory Board|行业咨询委员会]]、企业冠名学院 |
+| **经济发展（Economic Development）** | 区域创新、产业政策与创业 | [[Innovation Park|创新园区]]共建、创业孵化、区域产业集群规划 |
 
 五个领域中，当合作双方在全部五个领域都建立了深度关系时，就形成了报告所谓的**多面关系（Multi-Faceted Relationships）**——产学合作的最高形态，意味着合作已经超越任何单一维度的交易，成为制度化的全方位战略联盟（p.5, Fig. 2）。
 

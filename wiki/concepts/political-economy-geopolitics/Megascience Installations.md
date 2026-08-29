@@ -82,7 +82,7 @@ updated: '2026-06-30'
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **国际联合共建范式** | 分摊财政成本，促进全球物理学界要素流动与技术外溢，避免低水平重复。 | 开放的国际学术协作区（如CERN、ITER） | [[Argument_Dezhina_2022_ECO\|Dezhina & Egerev (2022)]]; American Academy of Arts & Sciences (2020) |
+> | **国际联合共建范式** | 分摊财政成本，促进全球物理学界要素流动与技术外溢，避免低水平重复。 | 开放的国际学术协作区（如CERN、ITER） | [[Argument_Dezhina_2022_ECO|Dezhina & Egerev (2022)]]; American Academy of Arts & Sciences (2020) |
 > | **本土单边独资范式** | 在地缘政治限制下确保技术主权，但承受极高的财政预算压力与科研孤立风险。 | 地缘政治脱钩与自给自足转型期 | Dezhina & Egerev; Bitzinger (2015) |
 
 ---
@@ -113,9 +113,9 @@ updated: '2026-06-30'
 > [!ref-table]- 其他实证结果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Dezhina_2022_ECO\|Dezhina & Egerev (2022)]] | 俄罗斯与美国科研基建与预算对比 | 政策分析与国家预算对比 | 国家研发预算体量对比 | 美国科学 research and 研发总预算是俄罗斯的 13 倍，揭示了俄罗斯追求单边大科学装置面临的巨大财政鸿沟。 | — | 仅说明宏观预算差异，不能推断具体学科的配置效能。 |
+> | [[Argument_Dezhina_2022_ECO|Dezhina & Egerev (2022)]] | 俄罗斯与美国科研基建与预算对比 | 政策分析与国家预算对比 | 国家研发预算体量对比 | 美国科学 research and 研发总预算是俄罗斯的 13 倍，揭示了俄罗斯追求单边大科学装置面临的巨大财政鸿沟。 | — | 仅说明宏观预算差异，不能推断具体学科的配置效能。 |
 
 ---
 

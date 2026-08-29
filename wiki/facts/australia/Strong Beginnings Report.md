@@ -131,10 +131,10 @@ updated: 2026-07-13
 > [!ref-table] 相关条目索引
 > | 条目 | 关系 | 来源 |
 > |---|---|---|
-> | [[Bacchi's WPR Approach]] | 用来分析和解构《强劲开端》报告中“问题是如何被界定的”。 | ([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 3–4]]) |
-> | [[What Works Movement]] | 解释报告背后证据中介和跨国[[Policy Network\|政策网络]]运作的理论传统。 | ([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 8]]) |
+> | [[Bacchi's WPR Approach]] | 用来分析和解构《强劲开端》报告中“问题是如何被界定的”。 | ([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 3–4]]) |
+> | [[What Works Movement]] | 解释报告背后证据中介和跨国[[Policy Network|政策网络]]运作的理论传统。 | ([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]]) |
 > | [[Australian Education Research Organisation]] | 专家小组证据和核心大纲设计方案背后的关键中介组织。 | |
-> | [[Australian Institute for Teaching and School Leadership]] | 负责将核心大纲作为附表强制纳入全国认证标准的权力机构。 | ([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 5–6]]) |
-> | [[Centre for Independent Studies]] | 资助和推广作为强制大纲必修参考[[Document\|文献]]的保守智库。 | ([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 9–10]]) |
-> | [[John Sweller]] | [[Cognitive Load Theory\|认知负荷理论]]提出者，其文献被强制列为核心大纲指定文献。 | |
-> | [[Educational Services Australia]] | 在底层技术与系统行政层面上共同支撑 AITSL and AERO 运行的机构。 | ([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]]) |
+> | [[Australian Institute for Teaching and School Leadership]] | 负责将核心大纲作为附表强制纳入全国认证标准的权力机构。 | ([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 5–6]]) |
+> | [[Centre for Independent Studies]] | 资助和推广作为强制大纲必修参考[[Document|文献]]的保守智库。 | ([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 9–10]]) |
+> | [[John Sweller]] | [[Cognitive Load Theory|认知负荷理论]]提出者，其文献被强制列为核心大纲指定文献。 | |
+> | [[Educational Services Australia]] | 在底层技术与系统行政层面上共同支撑 AITSL and AERO 运行的机构。 | ([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]]) |

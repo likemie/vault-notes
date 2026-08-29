@@ -138,8 +138,8 @@ updated: 2026-08-24
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **角色互换与认知加工** | 专家责任与同伴互教深度促进批判思维、学业掌握与积极态度 | K-12 与高等教育概念/阅读/临床教学 | Aronson (1978); Slavin (1986); [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] |
-> | **生态文化依赖** | 依赖班级长周期常态互动文化，短期人工脱嵌实验易失效 | 循证教学干预评估与课堂生态建构 | Stanczak et al. (2022); [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] |
+> | **角色互换与认知加工** | 专家责任与同伴互教深度促进批判思维、学业掌握与积极态度 | K-12 与高等教育概念/阅读/临床教学 | Aronson (1978); Slavin (1986); [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] |
+> | **生态文化依赖** | 依赖班级长周期常态互动文化，短期人工脱嵌实验易失效 | 循证教学干预评估与课堂生态建构 | Stanczak et al. (2022); [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] |
 
 ---
 
@@ -166,21 +166,21 @@ updated: 2026-08-24
 > [!ma-table]- 一阶[[Meta-analysis|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与预测区间 | 关键解释边界 |
+> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval|CI]] | [[Heterogeneity|异质性]]与预测区间 | 关键解释边界 |
 > |---|---|---|---|---|---|---|
-> | Özkan & Çetinkaya-Uslusoy (2024)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 干预因素：拼图法对高等护理[[Academic Achievement\|学业成就]]的干预效应 | $k = 7$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.58$ $[0.47, 0.70]$ | — | 高等护理教育临床情境，效应稳健显著 |
-> | Özkan & Çetinkaya-Uslusoy (2024)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 干预因素：拼图法对护理临床[[Critical Thinking\|批判性思维]]的干预效应 | $k = 4$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.70$ $[0.13, 1.26]$ | — | 临床决策情境，结构化互助显著提升反思决策能力 |
-> | Özkan & Çetinkaya-Uslusoy (2024)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 干预因素：拼图法对护理专业态度的干预效应 | $k = 6$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 1.18$ $[0.53, 1.84]$ | — | 角色互换对专业认同感与[[Student Attitude\|学习态度]]赋能突出 |
-> | Shakerian et al. (2020)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 干预因素：拼图法对健康科学综合学习产出的干预效应 | $k = 7$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 1.25$ $[1.08, 1.51]$ | — | 伊朗高等健康教育，全维学习产出提升极大 |
-> | Solissa et al. (2023)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 干预因素：拼图法对 21 世纪[[21st Century Skills and Competencies Discourse\|核心素养]]的干预效应 | $k = 10$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.84$ $[0.66, 1.03]$ | — | 跨学科跨学段综合干预，涵盖批判性、[[Creativity\|创造性]]与问题解决技能 |
-> | Stanczak et al. (2022)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 干预因素：拼图法对六年级学业成就的干预效应 | $k = 5$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.00$ $[-0.10, 0.09]$ | — | 瑞士严格个体[[Randomised Controlled Trials\|随机对照试验]]（RCT），全实验控制下效应为零 |
+> | Özkan & Çetinkaya-Uslusoy (2024)，引自 [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] | 干预因素：拼图法对高等护理[[Academic Achievement|学业成就]]的干预效应 | $k = 7$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.58$ $[0.47, 0.70]$ | — | 高等护理教育临床情境，效应稳健显著 |
+> | Özkan & Çetinkaya-Uslusoy (2024)，引自 [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] | 干预因素：拼图法对护理临床[[Critical Thinking|批判性思维]]的干预效应 | $k = 4$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.70$ $[0.13, 1.26]$ | — | 临床决策情境，结构化互助显著提升反思决策能力 |
+> | Özkan & Çetinkaya-Uslusoy (2024)，引自 [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] | 干预因素：拼图法对护理专业态度的干预效应 | $k = 6$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 1.18$ $[0.53, 1.84]$ | — | 角色互换对专业认同感与[[Student Attitude|学习态度]]赋能突出 |
+> | Shakerian et al. (2020)，引自 [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] | 干预因素：拼图法对健康科学综合学习产出的干预效应 | $k = 7$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 1.25$ $[1.08, 1.51]$ | — | 伊朗高等健康教育，全维学习产出提升极大 |
+> | Solissa et al. (2023)，引自 [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] | 干预因素：拼图法对 21 世纪[[21st Century Skills and Competencies Discourse|核心素养]]的干预效应 | $k = 10$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.84$ $[0.66, 1.03]$ | — | 跨学科跨学段综合干预，涵盖批判性、[[Creativity|创造性]]与问题解决技能 |
+> | Stanczak et al. (2022)，引自 [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] | 干预因素：拼图法对六年级学业成就的干预效应 | $k = 5$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.00$ $[-0.10, 0.09]$ | — | 瑞士严格个体[[Randomised Controlled Trials|随机对照试验]]（RCT），全实验控制下效应为零 |
 
 > [!ma-table]- [[Meta-meta-analysis|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
 >
 > | 二阶元分析 | 当前概念角色与总体结果 | 证据规模 $M$ / $E$ / $k$ / $N$ | 效应指标与模型 | 二阶汇总效应与 95% CI | 异质性与 95% PI | 关键解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 干预因素：拼图法亚组对多维学习产出的二阶综合干预效应 | $M = 4$；$E = 6$；$k = —$；$N = —$ | Cohen's $d$ / 随机效应模型经典逆方差加权 | $ES = 0.72$ $[0.40, 1.04]$ | $Q_b(3) = 9.36, p = .02$（教学技术亚组检验） | 涵盖护理、健康科学、21世纪素养与基础教育，证实拼图法在中高等教育中的稳健高效益 |
+> | [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] | 干预因素：拼图法亚组对多维学习产出的二阶综合干预效应 | $M = 4$；$E = 6$；$k = —$；$N = —$ | Cohen's $d$ / 随机效应模型经典逆方差加权 | $ES = 0.72$ $[0.40, 1.04]$ | $Q_b(3) = 9.36, p = .02$（教学技术亚组检验） | 涵盖护理、健康科学、21世纪素养与基础教育，证实拼图法在中高等教育中的稳健高效益 |
 
 ---
 

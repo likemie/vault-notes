@@ -85,14 +85,14 @@ updated: 2026-08-26
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
-> | 信任（Trust） | 机制 | 涵盖系统外的机构信任与不信任、组织层面的信任文化、个体层面的[[Epistemology\|认识论]]信任；是开放[[Dialogue in Education\|对话]]与风险承担的前提 |
-> | 技能发展（Skills Development） | 机制 | 教师与[[School Leadership\|学校领导]]者检索、评估、整合研究的技能，以及系统层面领导者使用研究的技能；依赖初始教育与持续专业发展 |
+> | 信任（Trust） | 机制 | 涵盖系统外的机构信任与不信任、组织层面的信任文化、个体层面的[[Epistemology|认识论]]信任；是开放[[Dialogue in Education|对话]]与风险承担的前提 |
+> | 技能发展（Skills Development） | 机制 | 教师与[[School Leadership|学校领导]]者检索、评估、整合研究的技能，以及系统层面领导者使用研究的技能；依赖初始教育与持续专业发展 |
 > | 可持续结构（Sustainable Structures） | 机制 | 时间与工作条件、教研组织与制度安排的结构化分配，使研究参与成为长期整合特征而非临时项目 |
-> | 关系（Relationships） | 机制 | 研究者、决策者与实践者之间的互惠关系与[[Research-Practice Partnership\|研究-实践伙伴关系]]，是信任的社会基础设施 |
+> | 关系（Relationships） | 机制 | 研究者、决策者与实践者之间的互惠关系与[[Research-Practice Partnership|研究-实践伙伴关系]]，是信任的社会基础设施 |
 > | 领导力（Leadership） | 催化条件 | 不被纳入四机制本身，而是启动与分配资源、创造愿景、推动四机制的催化剂 |
 > | 文化（Culture） | 结果 | 四机制运行的环境，同时是机制运作的产物 |
-> | [[Research Utilization\|研究利用（Research Utilization）]] | 概念 | 框架所解释的总体现象：研究进入专业决策与实践的方式 |
-> | [[Teacher Professional Agency\|教师专业能动性（Teacher Professional Agency）]] | 概念 | 机制所要促成或可能被[[Institutional Distrust\|制度性不信任]]压制的专业行动空间 |
+> | [[Research Utilization|研究利用（Research Utilization）]] | 概念 | 框架所解释的总体现象：研究进入专业决策与实践的方式 |
+> | [[Teacher Professional Agency|教师专业能动性（Teacher Professional Agency）]] | 概念 | 机制所要促成或可能被[[Institutional Distrust|制度性不信任]]压制的专业行动空间 |
 
 ---
 

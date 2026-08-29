@@ -71,8 +71,8 @@ updated: 2026-08-27
 >
 > | 维度 | 题项数 | 测量内容 | 计分方式 |
 > |---|---|---|---|
-> | **分析技能（Analytic Skills）** | 13 题 | 识别论述中的核心论点、论据与隐含[[Hypothesis\|假设]]；重构论证的逻辑结构；分析因果链条。 | 计算机自动计分（0–1 分） |
-> | **综合技能（Synthetic Skills）** | 13 题 | 评估论证的逻辑有效性与置[[Reliability\|信度]]；推导出合逻辑的有效结论；辨析替代解释并处理证据冲突。 | 计算机自动计分（0–1 分） |
+> | **分析技能（Analytic Skills）** | 13 题 | 识别论述中的核心论点、论据与隐含[[Hypothesis|假设]]；重构论证的逻辑结构；分析因果链条。 | 计算机自动计分（0–1 分） |
+> | **综合技能（Synthetic Skills）** | 13 题 | 评估论证的逻辑有效性与置[[Reliability|信度]]；推导出合逻辑的有效结论；辨析替代解释并处理证据冲突。 | 计算机自动计分（0–1 分） |
 
 ---
 
@@ -92,7 +92,7 @@ updated: 2026-08-27
 >
 > | 研究 | 工具版本 | 样本与用途 | 测量属性 | 关键结果 |
 > |---|---|---|---|---|
-> | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] | [[Educational Testing Service\|ETS]] HEIghten 机考版 | [[OECD]] 报告分析大规模标准化增值测试在高等教育中的应用[[Paradigm\|范式]] | 跨国机考能力测试 | 综述了 Loyalka et al. (2021) 运用 HEIghten 在俄、中、印、美四国 STEM 本科生中开展的超大规模纵向追踪，证实其在跨国对比中的优良常模[[Reliability\|信度]] |
+> | [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] | [[Educational Testing Service|ETS]] HEIghten 机考版 | [[OECD]] 报告分析大规模标准化增值测试在高等教育中的应用[[Paradigm|范式]] | 跨国机考能力测试 | 综述了 Loyalka et al. (2021) 运用 HEIghten 在俄、中、印、美四国 STEM 本科生中开展的超大规模纵向追踪，证实其在跨国对比中的优良常模[[Reliability|信度]] |
 
 ---
 
@@ -103,5 +103,5 @@ updated: 2026-08-27
 >
 > | 版本 | 语言与地区 | 目标人群 | 题项数 | 主要变化 | 来源 |
 > |---|---|---|---|---|---|
-> | 标准版 | 英语（美国/国际） | 本科生各年级 | 26 题 | 确立分析与综合两大核心维度的 [[Item Response Theory\|IRT]] 评分量表 | Liu et al. (2014, 2016) |
-> | 跨国比较版 | 中文、俄语、印地语 | 俄中印美四国 STEM 大学生 | 26 题 | 完成严格的跨文化[[Measurement Invariance\|测量不变性]]（Measurement Invariance）检验与翻译适配 | Loyalka et al. (2021) |
+> | 标准版 | 英语（美国/国际） | 本科生各年级 | 26 题 | 确立分析与综合两大核心维度的 [[Item Response Theory|IRT]] 评分量表 | Liu et al. (2014, 2016) |
+> | 跨国比较版 | 中文、俄语、印地语 | 俄中印美四国 STEM 大学生 | 26 题 | 完成严格的跨文化[[Measurement Invariance|测量不变性]]（Measurement Invariance）检验与翻译适配 | Loyalka et al. (2021) |

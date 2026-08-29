@@ -76,6 +76,6 @@ updated: 2026-07-11
 > [!ref-table] 相关条目
 > | 条目 | 关系 |
 > |---|---|
-> | [[Feminist Research]] | GIST 是女性主义[[Action Research\|行动研究]]的标志性案例 |
+> | [[Feminist Research]] | GIST 是女性主义[[Action Research|行动研究]]的标志性案例 |
 > | [[Critical Theory]] | 项目直接体现了批判理论研究者不能声称中立的核心主张 |
-> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02\|Cohen et al. (2011, pp. 408–409)]] | 第2.5节以 GIST 为女性主义研究案例 |
+> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al. (2011, pp. 408–409)]] | 第2.5节以 GIST 为女性主义研究案例 |

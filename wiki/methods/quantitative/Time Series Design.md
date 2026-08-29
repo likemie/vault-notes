@@ -121,8 +121,8 @@ updated: 2026-08-21
 > | 设计亚型 | 经典符号模型 | 核心机制与控制优势 | 主要效度威胁与防范 | 典型应用情境 |
 > |:---|:---:|:---|:---|:---|
 > | **单组间断时间序列<br>(Single-Group ITS)** | $O_1 O_2 O_3 O_4 \ \mathbf{X} \ O_5 O_6 O_7 O_8$ | 受试组成为自身对照；多次前测建立动态基线，有效控制成熟与均值回归 | 威胁：**共时历史事件（Co-occurring History）**；防范：查证同期外部政策 | 全校推行新晨读方案对阅读能力的演进影响 |
-> | **控制组间断时间序列<br>(Comparative ITS / C-ITS)** | $\frac{O_1 O_2 O_3 O_4 \ \mathbf{X} \ O_5 O_6 O_7 O_8}{O_1 O_2 O_3 O_4 \ \quad\quad \ O_5 O_6 O_7 O_8}$ | 增加平行非等对对照组时间序列；通过双序列差分彻底剥离外部共时历史事件 | 威胁：对照组与干预组的差异性历史事件；防范：选择平行性最优的对照学区 | 某州[[Gaokao\|高考]]改革试点与未改革邻州的历年追踪对比 |
-> | **相等时间样本设计<br>(Equivalent Time Samples)** | $X_1 O_1 \ X_0 O_2 \ X_1 O_3 \ X_0 O_4$ | 实验处理 $X_1$ 与常规控制 $X_0$ 在相等时间段交替出现（可采用 ABBA 轮换） | 威胁：**[[Order Effects\|练习效应]]与处理残留污染**；防范：设置充足的重置清洗期 | 两种短期互补课堂教学管理软件的交替测试 |
+> | **控制组间断时间序列<br>(Comparative ITS / C-ITS)** | $\frac{O_1 O_2 O_3 O_4 \ \mathbf{X} \ O_5 O_6 O_7 O_8}{O_1 O_2 O_3 O_4 \ \quad\quad \ O_5 O_6 O_7 O_8}$ | 增加平行非等对对照组时间序列；通过双序列差分彻底剥离外部共时历史事件 | 威胁：对照组与干预组的差异性历史事件；防范：选择平行性最优的对照学区 | 某州[[Gaokao|高考]]改革试点与未改革邻州的历年追踪对比 |
+> | **相等时间样本设计<br>(Equivalent Time Samples)** | $X_1 O_1 \ X_0 O_2 \ X_1 O_3 \ X_0 O_4$ | 实验处理 $X_1$ 与常规控制 $X_0$ 在相等时间段交替出现（可采用 ABBA 轮换） | 威胁：**[[Order Effects|练习效应]]与处理残留污染**；防范：设置充足的重置清洗期 | 两种短期互补课堂教学管理软件的交替测试 |
 > | **多基线跨情境时间序列<br>(Multiple Baseline ITS)** | $\begin{aligned} &O O O \ \mathbf{X} \ O O O O O \ &O O O O O \ \mathbf{X} \ O O O \end{aligned}$ | 在不同学校或班级分批次、阶梯式引入干预，通过交错介入点确证因果特异性 | 威胁：处理扩散与外溢效应；防范：物理隔离不同介入试点 | 区域分批次推进数字化教学平台的梯次因果检验 |
 
 ---
@@ -139,7 +139,7 @@ eq 0$ | 干预重塑了发展机制（如培养了自主阅读习惯），效应
 > | **复合跃升与演进型 (Combined Level & Slope)** | 干预点既出现显著垂直跃升，且后续斜率进一步持续加速上升 | $\beta_2 
 eq 0, \beta_3 
 eq 0$ | 最理想的政策效应，兼具即时止血提分与长期自我造血发展功能。 |
-> | **暂时跃升与衰减型 (Transient Decay)** | 干预初期出现垂直跃升，但后续斜率转为向下并回归原趋势 | $\beta_2 > 0, \beta_3 < 0$ | 提示存在典型的**[[Hawthorne Effect\|霍桑效应]]（新奇效应）**，政策缺乏长效机制。 |
+> | **暂时跃升与衰减型 (Transient Decay)** | 干预初期出现垂直跃升，但后续斜率转为向下并回归原趋势 | $\beta_2 > 0, \beta_3 < 0$ | 提示存在典型的**[[Hawthorne Effect|霍桑效应]]（新奇效应）**，政策缺乏长效机制。 |
 
 > [!formula-step] 分段线性回归模型（Segmented Linear Regression）
 > 间断时间序列的标准双向分段回归模型表达为：
@@ -163,7 +163,7 @@ ho \varepsilon_{t-1} + u_t$），必须采用 Newey-West HAC 估计或 Prais-Win
 > [!framework-table] 循证清算中心（[[What Works Clearinghouse|WWC]] / [[Home Visiting Evidence of Effectiveness|HomVEE]]）对 [[Intelligent Tutoring Systems|ITS]] 的审查规程与门槛（基于 Wadhwa et al., 2024）
 > | 审查维度 | WWC / HomVEE 规定技术门槛 | 未达标裁定结果 |
 > |:---|:---|:---|
-> | **因果设计评级** | **2 级（明确规程）**；最高评定为 **Meets Standards With Reservations** 或 ESSA [[Top Institute for Evidence-Based Education Research\|TIER]] 2 | 无法单独支撑 WWC 一级最高认证（Tier 1 无保留达标）。 |
+> | **因果设计评级** | **2 级（明确规程）**；最高评定为 **Meets Standards With Reservations** 或 ESSA [[Top Institute for Evidence-Based Education Research|TIER]] 2 | 无法单独支撑 WWC 一级最高认证（Tier 1 无保留达标）。 |
 > | **时间点数量底线** | 要求干预前与干预后必须分别具备 **至少 3–5 个以上等间隔独立观测点** | 若时间点不足，退化为普通单组前后测，直接裁定为未达标（Does Not Meet）。 |
 > | **趋势与自相关建模** | 必须采用分段回归、ARIMA 或广义最小二乘法显式建模时间趋势并校正序列相关 | 若仅比较前后平均值而忽略时间趋势，裁定为方法学不合格。 |
 > | **排除共时混杂干预** | 必须论证在干预切入时间点没有发生其他足以解释效应的共时重大政策或外部冲击 | 若存在未控制共时事件，因果归因失效。 |
@@ -195,11 +195,11 @@ ho \varepsilon_{t-1} + u_t$），必须采用 Newey-West HAC 估计或 Prais-Win
 >
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|
-> | [[Quasi-Experimental Designs]] | 母类方法 | [[Intelligent Tutoring Systems\|ITS]] 是准实验设计中控制成熟与历史演变最强有力的亚型之一。 |
+> | [[Quasi-Experimental Designs]] | 母类方法 | [[Intelligent Tutoring Systems|ITS]] 是准实验设计中控制成熟与历史演变最强有力的亚型之一。 |
 > | [[Single-Case Design]] | 孪生方法 | SCD 是微观个体层面的密集时间序列，二者共享相内测量与相间对比逻辑。 |
-> | [[Quasi-Experimental Designs\|断点回归设计（RDD）]] | 关联设计 | [[Regression Discontinuity Design\|RDD]] 基于评价值（Score）断点，ITS 基于时间（Time）断点，共享局域因果跳跃识别逻辑。 |
+> | [[Quasi-Experimental Designs|断点回归设计（RDD）]] | 关联设计 | [[Regression Discontinuity Design|RDD]] 基于评价值（Score）断点，ITS 基于时间（Time）断点，共享局域因果跳跃识别逻辑。 |
 > | [[Campbellian Validity Framework]] | 理论基础 | 提供 ITS 排查成熟、历史、测验与均值回归等效度威胁的系统框架。 |
-> | [[Causality]] | 核心概念 | ITS 通过历史轨迹外推的[[Counterfactual\|反事实]]模型确立概率性因果关系。 |
+> | [[Causality]] | 核心概念 | ITS 通过历史轨迹外推的[[Counterfactual|反事实]]模型确立概率性因果关系。 |
 > | [[What Works Clearinghouse]] | 评价机构 | 为 ITS 建立了包含时间点底线与自相关校正的独立审查标准。 |
 
 ---

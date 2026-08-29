@@ -9,8 +9,8 @@ type: instrument
 instrument_type: scale
 part_of: ""
 developers:
-  - "[[Ayşe Kazancı Tınmaz|Kazancı Tınmaz, A.]]"
-  - "[[Ferudun Sezgin|Sezgin, F.]]"
+  - "Kazancı Tınmaz, A."
+  - "Sezgin, F."
 original_year: "2023"
 languages:
   - Turkish
@@ -63,8 +63,8 @@ updated: 2026-08-26
 > |---|---|---|---|
 > | **研究意识（Research awareness）** | 4 | 测量教师对科研主题构成、发表渠道及阅读的先前知识与信息敏锐度 | 5 级计分均值（1–5 分） |
 > | **研究态度（Attitude toward research）** | 3 | 测量教师对科研促进教学专业性、专业发展价值的积极信念与情感认同 | 5 级计分均值（1–5 分） |
-> | **研究技能（Research skills）** | 6 | 测量教师在[[Literature Search\|文献检索]]、学术探讨、图表与统计分析结果解读等方面的操作能力 | 5 级计分均值（1–5 分） |
-> | **[[Research Utilization\|研究使用]]（Research use）** | 7 | 测量教师在日常备课、教学法改进与教育决策中运用科研成果的实际行为 | 5 级计分均值（1–5 分） |
+> | **研究技能（Research skills）** | 6 | 测量教师在[[Literature Search|文献检索]]、学术探讨、图表与统计分析结果解读等方面的操作能力 | 5 级计分均值（1–5 分） |
+> | **[[Research Utilization|研究使用]]（Research use）** | 7 | 测量教师在日常备课、教学法改进与教育决策中运用科研成果的实际行为 | 5 级计分均值（1–5 分） |
 
 ---
 
@@ -158,7 +158,7 @@ updated: 2026-08-26
 > | **研究意识** | 4 | 3.91 | 0.66 | .61–.70 | .83 | .83 | .56 | .83 |
 > | **研究态度** | 3 | 4.37 | 0.59 | .48–.59 | .83 | .75 | .50 | .75 |
 > | **研究技能** | 6 | 3.74 | 0.69 | .58–.69 | .88 | .87 | .54 | .87 |
-> | **[[Research Utilization\|研究使用]]** | 7 | 3.78 | 0.64 | .65–.72 | .90 | .90 | .56 | .90 |
+> | **[[Research Utilization|研究使用]]** | 7 | 3.78 | 0.64 | .65–.72 | .90 | .90 | .56 | .90 |
 > | **总量表** | 20 | 3.95 | 0.53 | .48–.72 | .94 | .95 | — | — |
 
 ---
@@ -170,4 +170,4 @@ updated: 2026-08-26
 >
 > | 版本 | 语言与地区 | 目标人群 | 题项数 | 主要变化 | 来源 |
 > |---|---|---|---|---|---|
-> | 原始版（RLS） | 土耳其语/英语，土耳其 | 中小学在职教师 | 20 | 初始 56 题池经专家评审与 [[Exploratory Factor Analysis\|EFA]]/[[Confirmatory Factor Analysis\|CFA]] 筛选确立 20 题 4 因子结构 | [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|Kazancı Tınmaz & Sezgin (2023)]] |
+> | 原始版（RLS） | 土耳其语/英语，土耳其 | 中小学在职教师 | 20 | 初始 56 题池经专家评审与 [[Exploratory Factor Analysis|EFA]]/[[Confirmatory Factor Analysis|CFA]] 筛选确立 20 题 4 因子结构 | [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|Kazancı Tınmaz & Sezgin (2023)]] |

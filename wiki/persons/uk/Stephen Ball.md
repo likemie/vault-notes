@@ -74,10 +74,10 @@ updated: 2026-07-13
 > 
 > | 类型 | 条目 | 贡献 |
 > |:-----|:-----|:-----|
-> | 概念 | [[Endogenous and Exogenous Privatisation\|内生与外生私有化]] | 区分了学校内部的企业化运营（内生）与将学校和教学服务外包给私营部门（外生）的两种趋势，成为分析教育私有化及公共性[[Attrition\|流失]]的奠基框架。 |
-> | 概念 | [[Policy Network\|政策网络]] | 分析传统的科层与市场治理如何被非正式、跨国的政策[[Network Governance\|网络治理]]形态所补充与重塑。 |
-> | 概念 | [[Policy Entrepreneur\|政策创业者]] | 将其[[Research Scope\|研究范围]]扩展至跨国维度，指认在全球范围内游说并推销私有化、绩效化方案的全球政策行动者。 |
-> | 概念 | [[Network Governance\|网络治理]] | 提供了探究多中心、多利益相关者非正式网络教育治理变迁的[[Analytic Framework\|分析框架]]。 |
+> | 概念 | [[Endogenous and Exogenous Privatisation|内生与外生私有化]] | 区分了学校内部的企业化运营（内生）与将学校和教学服务外包给私营部门（外生）的两种趋势，成为分析教育私有化及公共性[[Attrition|流失]]的奠基框架。 |
+> | 概念 | [[Policy Network|政策网络]] | 分析传统的科层与市场治理如何被非正式、跨国的政策[[Network Governance|网络治理]]形态所补充与重塑。 |
+> | 概念 | [[Policy Entrepreneur|政策创业者]] | 将其[[Research Scope|研究范围]]扩展至跨国维度，指认在全球范围内游说并推销私有化、绩效化方案的全球政策行动者。 |
+> | 概念 | [[Network Governance|网络治理]] | 提供了探究多中心、多利益相关者非正式网络教育治理变迁的[[Analytic Framework|分析框架]]。 |
 
 ---
 

@@ -110,10 +110,10 @@ issuing_organization: ""
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |---|---|
-> | **[[Epistemological Beliefs\|认识论信念多维系统模型]]**<br>Schommer (1990, 1993) | 主张个体的[[Epistemology\|认识论]]信念是由学习速度、能力本质、知识结构与知识确定性等相对独立的维度构成的系统，打破了单一线性发展阶段论，为量化测量各维度对[[Academic Achievement\|学业表现]]的独立贡献提供基础[[Analytic Framework\|分析框架]]。（pp.309–310） |
-> | **[[Reflective Judgment Model\|反思性判断模型]]**<br>King & Kitchener (1994, 2002) | 描述个体面对没有唯一标准答案的劣构问题时，从前反思阶段（阶段1–3：知识绝对）、准反思阶段（阶段4–5：知识主观相对）到反思阶段（阶段6–7：情境化概率辩护）的发展路径，为评定学生的认知反思水平提供评价准则。（pp.309, 316–317） |
-> | **[[Task Structure\|任务结构理论与连续谱假说]]**<br>Frederiksen (1984); Spiro et al. (1988); Doyle (1983) | 区分良构任务（清晰目标、现成算法、透明标准）与劣构任务（开放目标、无现成算法、评价开放），解释不同任务环境对认知负荷、线索依赖与自我调节学习的差异化要求。（pp.310–312） |
-> | **常人认识论与认识动机理论（Lay Epistemic Theory / Epistemic Motivation）**<br>Kruglanski (1990) | 阐明面对模糊与复杂任务情境时，认识动机如何驱动个体展开信息检索、[[Hypothesis\|假设]]检验、矛盾权衡以及寻求适度认知闭合（seeking appropriate closure）的自我调节心理过程。（pp.310–311, 323–324） |
+> | **[[Epistemological Beliefs|认识论信念多维系统模型]]**<br>Schommer (1990, 1993) | 主张个体的[[Epistemology|认识论]]信念是由学习速度、能力本质、知识结构与知识确定性等相对独立的维度构成的系统，打破了单一线性发展阶段论，为量化测量各维度对[[Academic Achievement|学业表现]]的独立贡献提供基础[[Analytic Framework|分析框架]]。（pp.309–310） |
+> | **[[Reflective Judgment Model|反思性判断模型]]**<br>King & Kitchener (1994, 2002) | 描述个体面对没有唯一标准答案的劣构问题时，从前反思阶段（阶段1–3：知识绝对）、准反思阶段（阶段4–5：知识主观相对）到反思阶段（阶段6–7：情境化概率辩护）的发展路径，为评定学生的认知反思水平提供评价准则。（pp.309, 316–317） |
+> | **[[Task Structure|任务结构理论与连续谱假说]]**<br>Frederiksen (1984); Spiro et al. (1988); Doyle (1983) | 区分良构任务（清晰目标、现成算法、透明标准）与劣构任务（开放目标、无现成算法、评价开放），解释不同任务环境对认知负荷、线索依赖与自我调节学习的差异化要求。（pp.310–312） |
+> | **常人认识论与认识动机理论（Lay Epistemic Theory / Epistemic Motivation）**<br>Kruglanski (1990) | 阐明面对模糊与复杂任务情境时，认识动机如何驱动个体展开信息检索、[[Hypothesis|假设]]检验、矛盾权衡以及寻求适度认知闭合（seeking appropriate closure）的自我调节心理过程。（pp.310–311, 323–324） |
 
 > [!warrant]- 理论如何支撑论证
 > 认识论信念被视作学习者在自我调节学习中校准理解与评估反馈的标准。当面对良构任务时，外部环境提供了充分的算法与明确的评分标准，朴素认识论信念的负面影响被外在支架所补偿；然而当置身于劣构任务时，缺乏现成程序与唯一答案的情境激活了认识动机，要求学生动用高阶的[[Reflexivity|反思性]]判断，此时持有知识由简单孤立碎片构成等朴素信念的学生因回避整合与多元辩护而遭遇系统性绩效受损。（pp.310–312, 323–324）
@@ -125,19 +125,19 @@ issuing_organization: ""
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |---|---|
-> | **问卷调查与因子分析**<br>[[Survey Research]] & [[Exploratory Factor Analysis\|EFA]] | 采用加拿大十年级科学课修订版 52 题 [[Schommer's Modified Epistemological Questionnaire\|SMEQ]]（5点 Likert 计分），结合探索性因子分析（exploratory factor analysis, EFA）的主轴提取与 Varimax 正交旋转，识别中学生认识论信念的底层因子维度。（pp.314–315, 317–318） |
+> | **问卷调查与因子分析**<br>[[Survey Research]] & [[Exploratory Factor Analysis|EFA]] | 采用加拿大十年级科学课修订版 52 题 [[Schommer's Modified Epistemological Questionnaire|SMEQ]]（5点 Likert 计分），结合探索性因子分析（exploratory factor analysis, EFA）的主轴提取与 Varimax 正交旋转，识别中学生认识论信念的底层因子维度。（pp.314–315, 317–318） |
 > | **学业成就与群体差异检验**<br>MANOVA & [[t-test]] | 自编 14 题人口学问卷（demographic questionnaire, DQ）采集总体学业成就预估值（EOAA，与实际总评成绩相关 $r = .91$）。运用多变量方差分析（multivariate analysis of variance, MANOVA）与事后 $t$ 检验，对比公立与教会学校、不同学业水平组（高/中/低）及性别间的认识论信念差异。（pp.314, 318–320） |
-> | **组内平衡任务实验**<br>Counterbalanced Within-Subject Design | 在独立学校 89 名学生中实施平衡顺序设计的两类癌症学术任务（各4节80分钟课时完成）：[[Task Structure\|良构任务]]（个人生活方式计划）与劣构任务（专案组癌症资金分配辩护）。（pp.315–316） |
-> | **任务表现与反思性判断评定**<br>Rubric Scoring & [[Reflective Judgment Model\|RJ]] Rating | 任务总分采用评分量规（权重 .90）与 10 题单选题（权重 .10）合成（评分者信度 $r = .88 \sim .93$）；劣构任务中基于 King & Kitchener (1994) 模型独立评定 1–5 分的反思性判断（RJ）得分（评分者信度 $r = .89$）。（pp.316–317） |
-> | **分层与多元回归分析**<br>[[Multiple Regression]] | 采用多元回归与分层回归，在控制学校导向因子（确定知识）前后，分别检验[[Epistemological Beliefs\|认识论信念]]对[[Academic Achievement\|学业成就]]、两类任务总成绩及[[Reflexivity\|反思性]]判断得分的预测力。（pp.318–321） |
+> | **组内平衡任务实验**<br>Counterbalanced Within-Subject Design | 在独立学校 89 名学生中实施平衡顺序设计的两类癌症学术任务（各4节80分钟课时完成）：[[Task Structure|良构任务]]（个人生活方式计划）与劣构任务（专案组癌症资金分配辩护）。（pp.315–316） |
+> | **任务表现与反思性判断评定**<br>Rubric Scoring & [[Reflective Judgment Model|RJ]] Rating | 任务总分采用评分量规（权重 .90）与 10 题单选题（权重 .10）合成（评分者信度 $r = .88 \sim .93$）；劣构任务中基于 King & Kitchener (1994) 模型独立评定 1–5 分的反思性判断（RJ）得分（评分者信度 $r = .89$）。（pp.316–317） |
+> | **分层与多元回归分析**<br>[[Multiple Regression]] | 采用多元回归与分层回归，在控制学校导向因子（确定知识）前后，分别检验[[Epistemological Beliefs|认识论信念]]对[[Academic Achievement|学业成就]]、两类任务总成绩及[[Reflexivity|反思性]]判断得分的预测力。（pp.318–321） |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |---|---|
 > | **总样本（Combined Sample）** | 447名十年级科学课学生（男生219人，女生228人；平均年龄15.3岁；85%白人、9%亚裔、6%其他；中产阶级为主；来自大温哥华地区5所公立学校与1所独立学校）。（pp.313–314） |
 > | **公立学校子样本（Public School Sub-sample）** | 358名学生（男生174人，女生184人；平均年龄15.2岁；86%白人、7.5%亚裔、6.4%其他）。（p.313） |
-> | **独立学校子样本（Independent School Sub-sample）** | 89名学生（男生45人，女生44人；平均年龄15.3岁；全员具备新教基督信仰；完成两项学术任务与全部[[Questionnaire\|问卷]]）。 |
-> | **材料情境** | 问卷与任务均在常规科学课课时由第一作者与任课教师共同施测；任务按班级轮换平衡先后顺序以排除[[Order Effects\|顺序效应]]与时间效应。（p.314） |
+> | **独立学校子样本（Independent School Sub-sample）** | 89名学生（男生45人，女生44人；平均年龄15.3岁；全员具备新教基督信仰；完成两项学术任务与全部[[Questionnaire|问卷]]）。 |
+> | **材料情境** | 问卷与任务均在常规科学课课时由第一作者与任课教师共同施测；任务按班级轮换平衡先后顺序以排除[[Order Effects|顺序效应]]与时间效应。（p.314） |
 
 ### 学术任务设计案例对比
 
@@ -302,7 +302,7 @@ issuing_organization: ""
 >    认识论三因子整体显著预测劣构任务的反思性判断得分（$R^2 = .10, F[3,85] = 2.97, p = .04$）。其中**简单知识（SK）是唯一的显著负向预测源（$\beta = -.24, R^2 = .06, F[1,87] = 5.56, p = .02$；控制 CK 后增量 $\Delta R^2 = .07, F[2,86] = 4.20, p = .02$）**。（pp.320–321）
 
 > [!ref-table]- 表 3：显著多元回归模型汇总（Table 3, p. 320）
-> | [[Independent Variable\|预测变量]]（Predictor） | [[Dependent Variable\|结果变量]]（Outcome） | $R^2$ | $F$ 统计量 | $p$ 值 |
+> | [[Independent Variable|预测变量]]（Predictor） | [[Dependent Variable|结果变量]]（Outcome） | $R^2$ | $F$ 统计量 | $p$ 值 |
 > |---|---|:---:|:---:|:---:|
 > | **全样本（Combined Sample, $N = 447$）** | | | | |
 > | 认识论信念三因子（EB factors） | 学业成就预估（EOAA） | .08 | $12.09***$ | $<.001$ |
@@ -311,7 +311,7 @@ issuing_organization: ""
 > | **独立学校子样本（Independent Sub-sample, $n = 89$）** | | | | |
 > | 认识论信念三因子（EB factors） | 劣构任务表现（IST Performance） | .12 | $3.80*$ | $.01$ |
 > | 简单知识（Simple Knowledge, SK） | 劣构任务表现（IST Performance） | .06 | $5.84*$ | $.02$ |
-> | 认识论信念三因子（EB factors） | 反思性判断得分（[[Reflective Judgment Model\|Reflective Judgment]], RJ） | .10 | $2.97*$ | $.04$ |
+> | 认识论信念三因子（EB factors） | 反思性判断得分（[[Reflective Judgment Model|Reflective Judgment]], RJ） | .10 | $2.97*$ | $.04$ |
 > | 简单知识（Simple Knowledge, SK） | 反思性判断得分（Reflective Judgment, RJ） | .06 | $5.56*$ | $.02$ |
 > 
 > *注：EOAA = 总体学业成就预估值；IST = 劣构任务；EB factors = FQAL、SK 与 CK 三因子；* $p < .05$; *** $p < .001$。*

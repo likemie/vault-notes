@@ -118,10 +118,10 @@ IRB 特别关注**弱势群体（vulnerable populations）**的保护，包括�
 
 | 协会 | 守则特点 |
 |---|---|
-| **British Psychological Society** (2005) | 涵盖胜任、征得同意、保密和个人行为；不强制要求[[Informed Consent\|知情同意]]（"尽可能告知"），不禁绝欺骗（承认在某些情况下必要） |
+| **British Psychological Society** (2005) | 涵盖胜任、征得同意、保密和个人行为；不强制要求[[Informed Consent|知情同意]]（"尽可能告知"），不禁绝欺骗（承认在某些情况下必要） |
 | **American Psychological Association** (2002) | 五项总原则：行善与不伤害、忠诚与责任、诚信、正义、尊重人的权利和尊严 |
 | **American Sociological Association** (1999) | 五项总原则：专业胜任、诚信、专业和科学责任、尊重人的权利尊严和多样性、社会责任 |
-| **British Sociological Association** (2002, 2004更新) | 包括[[Covert Research\|隐蔽研究]]、匿名隐私保密、资助方责任等 |
+| **British Sociological Association** (2002, 2004更新) | 包括[[Covert Research|隐蔽研究]]、匿名隐私保密、资助方责任等 |
 | **Social Research Association** (2003) | 四个层级的义务：对社会、对资助方和雇主、对同事、对参与者 |
 | **BERA** (2004) | 责任对象：研究专业、参与者、公众、资助机构、出版、知识产权、宿主机构 |
 | **AERA** (2000) | "不鼓励欺骗"，"仅当明确必要时使用"；需对当地情况敏感（文化、宗教、性别） |
@@ -175,7 +175,7 @@ IRB 特别关注**弱势群体（vulnerable populations）**的保护，包括�
 > |---|---|---|
 > | **使用场景** | 非学术基地（社区、去中心化）的默认选择 | AMC 的标准配置 |
 > | **审查速度** | 0 ~ > 15 天（独立商业 IRB 每月多次会议） | > 30–60 天（取决于委员会会议时间和提交截止日期） |
-> | **启动优势** | 申办方可预先选择熟悉的 IRB，免除机构间协议 | 需要定制[[Informed Consent\|知情同意书]]（Informed Consent Form, ICF），提交 IRB 依赖协议 |
+> | **启动优势** | 申办方可预先选择熟悉的 IRB，免除机构间协议 | 需要定制[[Informed Consent|知情同意书]]（Informed Consent Form, ICF），提交 IRB 依赖协议 |
 > | **管理费** | 纳入申办方预算 | 额外的机构 IRB 依赖管理费 |
 
 中心或单一 IRB 依赖协议（central or single IRB reliance agreements）被 [[Clinical Trials Transformation Initiative|CTTI]] 倡导为加速启动的关键措施之一——允许机构的修改在收到监管文件后高效实施，而不需要从头走完本地 IRB 的完整审查周期([[Argument_Bang_2025_ClinicalTrials|Bang, 2025, pp.210–211]])。

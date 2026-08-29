@@ -88,10 +88,10 @@ issuing_organization: ""
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **[[Linear Model of Innovation\|线性模型]]**<br>Linear Model of Innovation<br>Bush (1945); Bernal (1939) | 预设基础科学 → 技术开发 → 经济增长的单向[[Causality\|因果]]链条，研究（Research，白大褂科学）天然支配开发（Development，邋遢工程）。二战后成为配置公共研究资源最有力的理论依据，在工业组织内部塑造了科学家高于工程师的层级结构 (pp.862–863)。欧盟巴塞罗那目标（2%+1%）、欧洲悖论、大学被推向专利生产者，均源于线性模型的推导惯性。 |
-> | **[[Chain-linked Model\|链式模型]]**<br>Chain-linked Model<br>Kline & Rosenberg (1986) | 创新始于潜在市场用途的想法而非研究。既有科学知识（K）可在任何阶段被调用，新知识（R）可在需要时创造；有时新科学催生激进应用（路径 D），有时科学反而从创新中受益（路径 I、S）。核心命题是开发（D）至少与研究（R）同等重要 (pp.863–864)。该模型揭示了线性模型的单向因果谬误，但因其遗漏组织维度、未区分知识类型、创新产出定义过窄，仍需要进一步扩展。 |
-> | **[[Multi-channel Interactive Learning Model]]**<br>Multi-channel Interactive Learning Model<br>[[Argument_Caraca_2009_TFSC\|Caraça et al. (2009)]] | 三个核心创新构成分析网格：螺旋式学习循环不指定创新起点，产出覆盖产品、流程、新市场细分和组织常规四类；三类知识池（物理与生物科技知识、组织与治理知识、营销与顾客行为知识）取代了单一科学知识来源；界面作为解释性管道连接企业与环境，决定外部知识的识别、选择与吸收 (pp.864–866)。该模型将创新重新定位在[[Learning Economy\|学习经济]]之中。 |
-> | **[[Learning Economy\|学习经济]]**<br>Learning Economy<br>Lundvall & Johnson (1994) | 在全球化与技术加速变迁的环境中，企业和经济体的竞争力越来越取决于学习能力而非静态知识存量。经验型学习和互动式学习是创新的前提条件 (p.864)。三类知识池的并列必要性由此获得宏观语境：组织知识和营销知识不是科学知识的附庸，而是同等重要的创新投入。 |
+> | **[[Linear Model of Innovation|线性模型]]**<br>Linear Model of Innovation<br>Bush (1945); Bernal (1939) | 预设基础科学 → 技术开发 → 经济增长的单向[[Causality|因果]]链条，研究（Research，白大褂科学）天然支配开发（Development，邋遢工程）。二战后成为配置公共研究资源最有力的理论依据，在工业组织内部塑造了科学家高于工程师的层级结构 (pp.862–863)。欧盟巴塞罗那目标（2%+1%）、欧洲悖论、大学被推向专利生产者，均源于线性模型的推导惯性。 |
+> | **[[Chain-linked Model|链式模型]]**<br>Chain-linked Model<br>Kline & Rosenberg (1986) | 创新始于潜在市场用途的想法而非研究。既有科学知识（K）可在任何阶段被调用，新知识（R）可在需要时创造；有时新科学催生激进应用（路径 D），有时科学反而从创新中受益（路径 I、S）。核心命题是开发（D）至少与研究（R）同等重要 (pp.863–864)。该模型揭示了线性模型的单向因果谬误，但因其遗漏组织维度、未区分知识类型、创新产出定义过窄，仍需要进一步扩展。 |
+> | **[[Multi-channel Interactive Learning Model]]**<br>Multi-channel Interactive Learning Model<br>[[Argument_Caraca_2009_TFSC|Caraça et al. (2009)]] | 三个核心创新构成分析网格：螺旋式学习循环不指定创新起点，产出覆盖产品、流程、新市场细分和组织常规四类；三类知识池（物理与生物科技知识、组织与治理知识、营销与顾客行为知识）取代了单一科学知识来源；界面作为解释性管道连接企业与环境，决定外部知识的识别、选择与吸收 (pp.864–866)。该模型将创新重新定位在[[Learning Economy|学习经济]]之中。 |
+> | **[[Learning Economy|学习经济]]**<br>Learning Economy<br>Lundvall & Johnson (1994) | 在全球化与技术加速变迁的环境中，企业和经济体的竞争力越来越取决于学习能力而非静态知识存量。经验型学习和互动式学习是创新的前提条件 (p.864)。三类知识池的并列必要性由此获得宏观语境：组织知识和营销知识不是科学知识的附庸，而是同等重要的创新投入。 |
 > | **[[Systems of Innovation]]**<br>Systems of Innovation<br>Freeman (2002); Lundvall et al. (2002); Malerba (2002); Asheim & Gertler (2004) | 部门创新系统（Malerba, 2002）和区域创新系统（Asheim & Gertler, 2004）对应企业创新过程的微观与行业环境，国家创新系统（Freeman, 2002; Lundvall et al., 2002）对应宏观制度环境。多通道互动学习模型的微观和宏观环境概念整合了上述多层分析，并进一步强调了各层次之间的共同演化和可能的制度错配 (p.865)。 |
 
 ---
@@ -101,8 +101,8 @@ issuing_organization: ""
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **模型回顾／文献分析**<br>Literature Review | 回顾线性模型从 Bernal（1939）和 Bush（1945）到公共品经济学论证的知识史，以及[[Chain-linked Model\|链式模型]]（Kline & Rosenberg, 1986）的理论突破与局限 (pp.861–863)。 |
-> | **框架建构／理论综合**<br>Framework Construction | 在回顾基础上提出[[Multi-channel Interactive Learning Model\|多通道互动学习模型]]，作为对链式模型的更新、补充和扩展，旨在提供一个分析网格来理解创新过程中涉及的主要变量及其相互关系 (pp.864–866)。 |
+> | **模型回顾／文献分析**<br>Literature Review | 回顾线性模型从 Bernal（1939）和 Bush（1945）到公共品经济学论证的知识史，以及[[Chain-linked Model|链式模型]]（Kline & Rosenberg, 1986）的理论突破与局限 (pp.861–863)。 |
+> | **框架建构／理论综合**<br>Framework Construction | 在回顾基础上提出[[Multi-channel Interactive Learning Model|多通道互动学习模型]]，作为对链式模型的更新、补充和扩展，旨在提供一个分析网格来理解创新过程中涉及的主要变量及其相互关系 (pp.864–866)。 |
 
 > [!sample-panel]- 模型定位说明
 > | 层面 | 说明 |

@@ -66,11 +66,11 @@ updated: 2026-06-24
 ## 概念辨析
 
 > [!contrast-table] 概念辨析：教育移动的四种形态结果
-> | 维度 | 形变 (Shape-Shifting) | 忠实复制 (Faithful Copying) | [[Going Native\|本土化]] (Indigenisation) | 灭绝 (Extinction) |
+> | 维度 | 形变 (Shape-Shifting) | 忠实复制 (Faithful Copying) | [[Going Native|本土化]] (Indigenisation) | 灭绝 (Extinction) |
 > | :--- | :--- | :--- | :--- | :--- |
-> | **核心状态** | 核心结构发生改变，呈现出混合或新形态。([[Argument_Cowen_2009_CE\|Cowen, 2009, p. 315]]) | 外来制度或[[Praxis\|实践]]被原封不动地复制和应用。 | 外来事物与接受地权力系统深度嵌入与内生交融。(p. 255) | 外来思想或实践在落地过程中彻底消失或不留痕迹。(p. 255) |
-> | **发生概率** | 最为普遍，是教育流动的常态。 | 极低，仅在极端的强权干预下可能短暂存在。 | 较高，通常是成功[[Transfer Translation Transformation\|转译]]并经二次转化后的最终状态。 | 较高，常发生在外来设计与本土传统完全不可兼容时。 |
-> | **行动者角色** | 本土行动者主动重[[Coding in Qualitative Research\|编码]]、杂糅与[[Transfer Translation Transformation\|转译]]。 | 接受方完全被动地接受外来机制的输入。 | 本土行动者对外来构件完成深度内化，使其具有自主[[Growth\|生长]]力。 | 本土历史惯性或政治力量强力排斥、挤压外来输入。 |
+> | **核心状态** | 核心结构发生改变，呈现出混合或新形态。([[Argument_Cowen_2009_CE|Cowen, 2009, p. 315]]) | 外来制度或[[Praxis|实践]]被原封不动地复制和应用。 | 外来事物与接受地权力系统深度嵌入与内生交融。(p. 255) | 外来思想或实践在落地过程中彻底消失或不留痕迹。(p. 255) |
+> | **发生概率** | 最为普遍，是教育流动的常态。 | 极低，仅在极端的强权干预下可能短暂存在。 | 较高，通常是成功[[Transfer Translation Transformation|转译]]并经二次转化后的最终状态。 | 较高，常发生在外来设计与本土传统完全不可兼容时。 |
+> | **行动者角色** | 本土行动者主动重[[Coding in Qualitative Research|编码]]、杂糅与[[Transfer Translation Transformation|转译]]。 | 接受方完全被动地接受外来机制的输入。 | 本土行动者对外来构件完成深度内化，使其具有自主[[Growth|生长]]力。 | 本土历史惯性或政治力量强力排斥、挤压外来输入。 |
 
 ---
 

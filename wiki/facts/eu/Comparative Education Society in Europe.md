@@ -102,4 +102,4 @@ updated: 2026-07-09
 > | [[Development Turn in Comparative Education]] | 概念 | CESE的发展契机与战后比较教育向多边技术援助转移的机制相辅相成。 |
 > | [[Joseph Lauwerys]] | 人物 | CESE的奠基人、首任主席，将“国际理解”列为欧洲比较教育的第一价值。 |
 > | [[Comparative and International Education Society]] | 事实 | 美国对应学会（CIES），与CESE共同构成了二战后大西洋两岸学科建制化的高峰。 |
-> | [[OECD]] | 事实 | 许多CESE的学者同时深度参与了OECD早期的教育规划与[[Policy Borrowing\|政策借用]]框架搭建。 |
+> | [[OECD]] | 事实 | 许多CESE的学者同时深度参与了OECD早期的教育规划与[[Policy Borrowing|政策借用]]框架搭建。 |

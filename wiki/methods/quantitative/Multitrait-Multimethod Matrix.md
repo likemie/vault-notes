@@ -195,10 +195,10 @@ updated: 2026-08-21
 >
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|
-> | [[Campbellian Validity Framework]] | 理论 | 坎贝尔效度体系为 MTMM 提供了[[Construct Validity\|构念效度]]与排除替代解释的元理论基础。 |
-> | [[Construct Validity]] | 目标[[Construct\|构念]] | MTMM 专门用于实证确证与量化构念效度中的收敛与判别维度。 |
+> | [[Campbellian Validity Framework]] | 理论 | 坎贝尔效度体系为 MTMM 提供了[[Construct Validity|构念效度]]与排除替代解释的元理论基础。 |
+> | [[Construct Validity]] | 目标[[Construct|构念]] | MTMM 专门用于实证确证与量化构念效度中的收敛与判别维度。 |
 > | [[Confirmatory Factor Analysis]] | 替代与升级方法 | CFA-MTMM 提供了检验特质与方法因子载荷的标准参数化统计工具。 |
-> | [[Pearson Product-Moment Correlation]] | 基础技术 | MTMM 矩阵的底层基础单元为[[Variable\|变量]]间的成对积差相关系数。 |
+> | [[Pearson Product-Moment Correlation]] | 基础技术 | MTMM 矩阵的底层基础单元为[[Variable|变量]]间的成对积差相关系数。 |
 
 ---
 

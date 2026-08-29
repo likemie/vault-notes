@@ -71,12 +71,12 @@ updated: '2026-07-02'
 ## 概念辨析
 
 > [!contrast-table] 概念辨析：转型学与相关教育流动理论的对比
-> | 维度 | 转型学 (Transitology) | [[Transfer Translation Transformation\|3T 框架]] | [[Policy Borrowing\|政策借用]] (Policy Borrowing) |
+> | 维度 | 转型学 (Transitology) | [[Transfer Translation Transformation|3T 框架]] | [[Policy Borrowing|政策借用]] (Policy Borrowing) |
 > | :--- | :--- | :--- | :--- |
 > | **分析焦点** | 宏观社会崩溃与重建中的**教育重塑机制**。 | 教育理念与制度在跨国移动中的**变形轨迹**。 | 具体教育政策和模式的**借用与移植行为**。 |
-> | **核心动词** | 崩解（Collapse）与重构（Reconstruction）。 | 转移（Transfer）、转译（Translation）、转化（Transformation）。 | 吸引、决策、实施、[[Going Native\|本土化]]。 |
+> | **核心动词** | 崩解（Collapse）与重构（Reconstruction）。 | 转移（Transfer）、转译（Translation）、转化（Transformation）。 | 吸引、决策、实施、[[Going Native|本土化]]。 |
 > | **主要特征** | 历史性时间压缩，多系统在十年内颠覆。 | 关注物理和空间移动带来的内涵变异。 | 往往是主权国家在正常状态下的主动性决策。 |
-> | **典型例证** | 1917年俄国十月革命后的教育重建。 | 美国单轨制在日本被升学[[Examination Hell\|考试地狱]][[Shape-Shifting\|形变]]。 | 发展中国家引入芬兰现象本位教学模式。 |
+> | **典型例证** | 1917年俄国十月革命后的教育重建。 | 美国单轨制在日本被升学[[Examination Hell|考试地狱]][[Shape-Shifting|形变]]。 | 发展中国家引入芬兰现象本位教学模式。 |
 
 ---
 

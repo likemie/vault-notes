@@ -113,7 +113,7 @@ updated: 2026-07-13
 > |---|---|---|
 > | [[Single-Case Design]] | 方法 | 母方法——ABAB 是单一案研究中最经典的实验格式 |
 > | [[Repeated Measures Design]] | 方法 | 亲缘方法——共享重复测量和个体作为自身控制的逻辑 |
-> | [[Experimental Research]] | 方法 | 对比参照——组间实验依赖[[Random Assignment\|随机化]]和平均效应，ABAB 依赖可逆性和视觉分析 |
+> | [[Experimental Research]] | 方法 | 对比参照——组间实验依赖[[Random Assignment|随机化]]和平均效应，ABAB 依赖可逆性和视觉分析 |
 
 ## 使用此方法的研究
 

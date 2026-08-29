@@ -101,9 +101,9 @@ $$\text{因果效应} = (O_2 - O_1) - (O_4 - O_3)$$
 > [!entry-map]
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
-> | [[Experimental Research]] | 方法 | 母方法——前后测控制组设计是最经典的[[True Experimental Design\|真实验设计]]形式 |
+> | [[Experimental Research]] | 方法 | 母方法——前后测控制组设计是最经典的[[True Experimental Design|真实验设计]]形式 |
 > | [[Random Assignment]] | 方法 | 前提条件——随机分配是实现组间等价的关键 |
-> | [[Solomon Four-Group Design]] | 方法 | 升级版——通过增加两个无前测组来分离前测×处理[[Interaction Effect\|交互效应]] |
+> | [[Solomon Four-Group Design]] | 方法 | 升级版——通过增加两个无前测组来分离前测×处理[[Interaction Effect|交互效应]] |
 > | [[Quasi-Experimental Designs]] | 方法 | 降级替代——当无法随机分配时使用的设计 |
 
 ## 使用此方法的研究

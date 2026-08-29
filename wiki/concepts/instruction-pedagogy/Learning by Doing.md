@@ -90,7 +90,7 @@ updated: 2026-07-26
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[John Dewey]] | 人物 | 提出“在做中学”的核心教育哲学。 |
-> | [[Active Learning]] | 概念 | “在做中学”是主动学习模型的[[Critical Thinking\|批判性思维]]基石。 |
+> | [[Active Learning]] | 概念 | “在做中学”是主动学习模型的[[Critical Thinking|批判性思维]]基石。 |
 > | [[Experiential Learning]] | 概念 | “做”是经验生成与重组的中介。 |
 > | [[Reflective Thinking]] | 概念 | 区别智性“做”与动物盲目试错的关键。 |
 

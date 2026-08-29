@@ -204,10 +204,10 @@ updated: 2026-08-24
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Meta-analysis]] | 基础方法 | 逆方差加权法是一阶定量元分析的核心数学基石。 |
-> | [[Meta-meta-analysis]] | 进阶方法 | 二阶元分析在第二代标准[[Umbrella Review\|伞状综述]]中广泛采用逆方差加权法进行跨元分析定量合成。 |
+> | [[Meta-meta-analysis]] | 进阶方法 | 二阶元分析在第二代标准[[Umbrella Review|伞状综述]]中广泛采用逆方差加权法进行跨元分析定量合成。 |
 > | [[Fixed-Effect and Random-Effects Models]] | 模型框架 | 逆方差加权法分别在固定效应与随机效应模型下具有不同的方差构造形式。 |
-> | [[Robust Variance Estimation]] | 进阶替代与补充 | 解决逆方差加权法在面对[[Document\|文献]]重叠与多重结果集群依赖时[[Standard Error\|标准误]]失真的现代稳健统计方案。 |
-> | [[Meta-regression]] | 扩展方法 | 基于逆方差加权最小二乘法（WLS）检验调节[[Variable\|变量]]对[[Effect Size\|效应量]]的线性影响。 |
+> | [[Robust Variance Estimation]] | 进阶替代与补充 | 解决逆方差加权法在面对[[Document|文献]]重叠与多重结果集群依赖时[[Standard Error|标准误]]失真的现代稳健统计方案。 |
+> | [[Meta-regression]] | 扩展方法 | 基于逆方差加权最小二乘法（WLS）检验调节[[Variable|变量]]对[[Effect Size|效应量]]的线性影响。 |
 
 ---
 

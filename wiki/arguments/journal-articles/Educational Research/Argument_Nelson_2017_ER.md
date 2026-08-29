@@ -107,11 +107,11 @@ updated: 2026-08-26
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **研究利用（Research Utilization）**<br>[[Research Utilization]] | [[Carol Weiss\|Weiss (1979)]] 以来，研究利用文献解释研究如何以多种路径进入政策与实践（直接应用、概念渗透、策略性引用等），构成整个 EIP 讨论的起点与背景框架，说明"证据进入实践"并非新生议题。(p.132) |
-> | **证据知情实践（EIP）**<br>[[Evidence-Informed Practice]] | 导言的核心对象：证据只是影响教育决策的多种因素之一，教育者须以[[Professional Judgment\|专业判断]]整合研究、系统数据与课堂数据，将 EIP 定位为多源整合而非单一研究驱动。(pp.127–129) |
+> | **研究利用（Research Utilization）**<br>[[Research Utilization]] | [[Carol Weiss|Weiss (1979)]] 以来，研究利用文献解释研究如何以多种路径进入政策与实践（直接应用、概念渗透、策略性引用等），构成整个 EIP 讨论的起点与背景框架，说明"证据进入实践"并非新生议题。(p.132) |
+> | **证据知情实践（EIP）**<br>[[Evidence-Informed Practice]] | 导言的核心对象：证据只是影响教育决策的多种因素之一，教育者须以[[Professional Judgment|专业判断]]整合研究、系统数据与课堂数据，将 EIP 定位为多源整合而非单一研究驱动。(pp.127–129) |
 > | **知识动员（Knowledge Mobilisation）**<br>[[Knowledge Mobilisation]] | 解释证据为何不自动转化为实践：研究知识须经传播、翻译、中介与共创才能进入行动，特刊从中归纳出沟通传播、能力建设、伙伴关系与网络、系统化方法四类策略。(pp.130–131) |
 > | **专业判断（Professional Judgment）**<br>[[Professional Judgment]] | EIP 的整合枢纽：证据只是输入，须经教育者基于经验、价值观与情境理解的判断才能转化为课堂行动，成为证据知情需要严谨证据与严谨判断并存。 |
-> | **研究使用的类型学**<br>[[Conceptual, Instrumental, and Symbolic Use of Research]] | 区分研究成果的工具性、概念性与象征性三种影响：工具性直接作用于实践，概念性间接改变思维，象征性用于事后合法化；Wentworth et al. 据此拆解[[Research-Practice Partnership\|研究-实践伙伴关系]]对教育者决策的影响。(pp.131–132) |
+> | **研究使用的类型学**<br>[[Conceptual, Instrumental, and Symbolic Use of Research]] | 区分研究成果的工具性、概念性与象征性三种影响：工具性直接作用于实践，概念性间接改变思维，象征性用于事后合法化；Wentworth et al. 据此拆解[[Research-Practice Partnership|研究-实践伙伴关系]]对教育者决策的影响。(pp.131–132) |
 
 > [!warrant]- 理论如何支撑论证
 > 研究利用与知识动员构成证据如何进入实践的解释链条：前者说明证据使用有多种形态，后者说明证据流动需要条件；EIP 与专业判断把链条收束到教师个体的决策整合；类型学则为怎么算有效提供测量语言。
@@ -124,8 +124,8 @@ updated: 2026-08-26
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
 > | **特刊导言（Editorial）**<br>Special issue editorial | 以 2017 年《Educational Research》特刊导言形式撰写，综合特刊七篇论文的发现。 |
-> | **概念综合（Conceptual synthesis）**<br>Conceptual synthesis | 围绕定义、应用（知识动员条件）、成果与测量三轴整合来自澳大利亚、加拿大、英格兰、荷兰与美国的论文，并嵌入更广的 EIP 文献（[[Carol Weiss\|Weiss, 1979]]; Hargreaves, 1996; Goldacre, 2013; [[Anthony Bryk\|Bryk, 2015]] 等）。 |
-> | **[[Analytic Framework\|分析框架]]** | 三个关键主题：[[Evidence-Informed Practice\|EIP]] 的定义（问题 1）；EIP 的应用与[[Knowledge Mobilisation\|知识动员]]条件（问题 4–5）；相关成果与测量挑战（问题 2–3）。(pp.127–128) |
+> | **概念综合（Conceptual synthesis）**<br>Conceptual synthesis | 围绕定义、应用（知识动员条件）、成果与测量三轴整合来自澳大利亚、加拿大、英格兰、荷兰与美国的论文，并嵌入更广的 EIP 文献（[[Carol Weiss|Weiss, 1979]]; Hargreaves, 1996; Goldacre, 2013; [[Anthony Bryk|Bryk, 2015]] 等）。 |
+> | **[[Analytic Framework|分析框架]]** | 三个关键主题：[[Evidence-Informed Practice|EIP]] 的定义（问题 1）；EIP 的应用与[[Knowledge Mobilisation|知识动员]]条件（问题 4–5）；相关成果与测量挑战（问题 2–3）。(pp.127–128) |
 
 > [!note]-
 > 特刊导言属评论类，综合其他研究而不提供新的实证数据；因此不需要方法案例记录。
@@ -248,7 +248,7 @@ updated: 2026-08-26
 > |---|---|---|
 > | **美国** | 教育研究使用中心（Center for Research Use in Education, CRUE）与国家政策与实践研究中心（National Center for Research in Policy and Practice, NCRPP） | 开发测量学校与学区研究使用的系列调查工具，覆盖多种成果层面 |
 > | **苏格兰** | 圣安德鲁斯大学研究利用研究单位（Research Unit for Research Utilisation, RuRu） | 从跨部门视角（含教育）考虑测量问题 |
-> | **英格兰** | 教育捐赠基金会（Education Endowment Foundation, [[Education Endowment Foundation\|EEF]]）与国家教育研究基金会（National Foundation for Educational Research, NFER） | EEF 资助多个协作项目改善研究信息动员并评估相对成效；NFER 开发测量[[Questionnaire\|问卷]]供评估团队使用 |
+> | **英格兰** | 教育捐赠基金会（Education Endowment Foundation, [[Education Endowment Foundation|EEF]]）与国家教育研究基金会（National Foundation for Educational Research, NFER） | EEF 资助多个协作项目改善研究信息动员并评估相对成效；NFER 开发测量[[Questionnaire|问卷]]供评估团队使用 |
 
 > [!case] 案例六：RPP 影响测量的概念与实践挑战（Wentworth et al.）
 > Wentworth et al.（加州教育伙伴、教育西北、巴尔的摩教育研究联盟）在本特刊深入探讨测量：开发问卷以量化美国[[Research-Practice Partnership|研究-实践伙伴关系]]（RPP）对教育者证据本位决策的感知影响(p.132)。借鉴 Coburn 与 NCRPP 的思路，强调拆解促成影响的成果。

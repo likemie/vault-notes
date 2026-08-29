@@ -272,4 +272,4 @@ updated: 2026-08-24
 > | [[Effect Size]] | 概念 | 上位概念 | 效应量转换是实现效应量跨设计比较的基础计算工具。 |
 > | [[Meta-analysis]] | 方法 | 应用场景 | 元分析依赖效应量转换构建统一的数据矩阵。 |
 > | [[Robust Variance Estimation]] | 方法 | 统计进阶 | 效应量转换后常需结合 RVE 校正依赖数据的方差结构。 |
-> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 论证 | 实证应用 | 在创造力二阶元分析中将 164 个一阶效应量统一转换为 $r$ 并行 Fisher's $z$ 变换。 |
+> | [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] | 论证 | 实证应用 | 在创造力二阶元分析中将 164 个一阶效应量统一转换为 $r$ 并行 Fisher's $z$ 变换。 |

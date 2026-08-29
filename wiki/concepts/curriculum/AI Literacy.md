@@ -91,8 +91,8 @@ updated: 2026-08-23
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 关键主张 / 来源 |
 > |---|---|---|---|
-> | **认知放大原则** | 防范认知外包，保持思维主体性 | 课堂探究与课后学习 | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026a, p. 32)]] |
-> | **测评效度重塑** | 开发情境化、现场推理测评破除作弊冲击 | 国家课程与资格考试改革 | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026a, p. 34)]] |
+> | **认知放大原则** | 防范认知外包，保持思维主体性 | 课堂探究与课后学习 | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, p. 32)]] |
+> | **测评效度重塑** | 开发情境化、现场推理测评破除作弊冲击 | 国家课程与资格考试改革 | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, p. 34)]] |
 
 ---
 

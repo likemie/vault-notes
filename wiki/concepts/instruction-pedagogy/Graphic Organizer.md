@@ -84,12 +84,12 @@ updated: 2026-08-25
 ## 概念辨析
 
 > [!contrast-table] 常见图形组织器类型对比
-> | 比较维度 | [[Mind Mapping\|思维导图]]（Mind Map） | [[Argument Mapping\|论证图]]（Argument Map） | [[Concept Mapping\|概念图]]（Concept Map） |
+> | 比较维度 | [[Mind Mapping|思维导图]]（Mind Map） | [[Argument Mapping|论证图]]（Argument Map） | [[Concept Mapping|概念图]]（Concept Map） |
 > |---|---|---|---|
 > | **拓扑结构** | **中心辐射树状结构** 单一核心主题向外放射多级分支 | **逻辑推论树与层次网** 主张、证据、保证与反驳的单向推导链 | **非对称多元网络拓扑** 包含多节点交叉连线（Cross-links）与命题连接词 |
 > | **认知功能** | 头脑风暴、联想拓展、非结构化观念发散与信息速记 | 论辩逻辑梳理、批判性写作、证据评估与论证有效性检验 | 复杂领域概念体系建模、深层知识整合与命题网络建构 |
 > | **认知负荷门槛** | **低** 组织形式直观自由，规则极简，心智开销最小 | **中等** 结构受形式逻辑与论证语法约束，具有明确推理路径 | **较高** 网络交错且需明确标注关系词，易产生视觉拥挤与认知过载 |
-> | **[[Higher-Order Thinking Skills\|高阶思维]]促进效应** | **最强（$g = 1.041$）** | **中等（$g = 0.798$）** | **相对最弱（$g = 0.548$）** |
+> | **[[Higher-Order Thinking Skills|高阶思维]]促进效应** | **最强（$g = 1.041$）** | **中等（$g = 0.798$）** | **相对最弱（$g = 0.548$）** |
 
 ---
 
@@ -191,26 +191,26 @@ updated: 2026-08-25
 > [!ma-table]- 一阶[[Meta-analysis|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
+> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity|异质性]]与[[Prediction Interval|预测区间]] | 关键解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | **干预因素** 检验图形组织器教学干预对学生[[Higher-Order Thinking Skills\|高阶思维]]（HOT）的总体促进效应 | $k = 72$ / $N = 4{,}824$（66 项独立研究） | Hedges' $g$；随机效应模型（Random-effects） | $g = 0.778$, $95\%\text{ CI} = [0.649, 0.907]$ | $Q(71) = 485.49, p < .001$；$I^2 = 85.37\%$ | 涵盖 19 国大中小学样本；主要为学生自主绘制干预；未发现发表偏倚（Egger $p = .070$；Fail-Safe $N = 7{,}183$） |
+> | [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] | **干预因素** 检验图形组织器教学干预对学生[[Higher-Order Thinking Skills|高阶思维]]（HOT）的总体促进效应 | $k = 72$ / $N = 4{,}824$（66 项独立研究） | Hedges' $g$；随机效应模型（Random-effects） | $g = 0.778$, $95\%\text{ CI} = [0.649, 0.907]$ | $Q(71) = 485.49, p < .001$；$I^2 = 85.37\%$ | 涵盖 19 国大中小学样本；主要为学生自主绘制干预；未发现发表偏倚（Egger $p = .070$；Fail-Safe $N = 7{,}183$） |
 
 > [!ma-table]- 一阶元分析互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
 >
 > | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | **干预因素**（组织器形态） | **[[Mind Mapping\|思维导图]]（Mind Mapping）** | $k = 16$ / — | $g = 1.041$, $95\%\text{ CI} = [0.704, 1.379]$ | $Q_b = 9.13, p < .05$；Wald 两两比较均 $p < .001$ | 单一中心发散，认知开销最低，促学效应最强 |
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | **干预因素**（组织器形态） | **[[Argument Mapping\|论证图]]（Argument Mapping）** | $k = 12$ / — | $g = 0.798$, $95\%\text{ CI} = [0.469, 1.237]$ | 组间差异显著 | 逻辑结构清晰，支持批判性论辩与写作 |
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | **干预因素**（组织器形态） | **[[Concept Mapping\|概念图]]（Concept Mapping）** | $k = 36$ / — | $g = 0.548$, $95\%\text{ CI} = [0.403, 0.692]$ | 组间差异显著 | 交叉网络复杂度高，易带来额外认知负荷 |
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | **干预因素（[[Dependent Variable\|结果变量]]类型）** | **[[Divergent Thinking\|发散思维]]（Divergent Thinking）** | $k = 14$ / — | $g = 1.167$, $95\%\text{ CI} = [0.841, 1.493]$ | $Q_b = 7.07, p < .01$ | 对生成性与独创性发散构想的促进效应显著强于聚合思维 |
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | **干预因素（结果[[Variable\|变量]]类型）** | **[[Convergent Thinking\|聚合思维]]（Convergent Thinking）** | $k = 55$ / — | $g = 0.680$, $95\%\text{ CI} = [0.535, 0.825]$ | 组间差异显著 | 侧重逻辑判断与确定性推导 |
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | **干预因素（结果[[Construct\|构念]]层级）** | **高阶思维倾向（Dispositions）** | $k = 20$ / — | $g = 0.945$, $95\%\text{ CI} = [0.670, 1.221]$ | $Q_b = 8.66, p < .05$；与技能差异 $W = 53.47, p < .001$ | 李克特量表测度，激发探究与反思心向 |
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | **干预因素**（结果构念层级） | **高阶认知过程（Processes）** | $k = 22$ / — | $g = 0.912$, $95\%\text{ CI} = [0.631, 1.194]$ | 与技能差异 $W = 137.48, p < .001$；与倾向差异不显著 | 开放性写作与评分量规测度，直接反映思维加工质量 |
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | **干预因素**（结果构念层级） | **高阶思维技能结果（Skills）** | $k = 29$ / — | $g = 0.560$, $95\%\text{ CI} = [0.411, 0.708]$ | 组间差异显著 | 多项选择标准化测验测度，反映远端综合技能 |
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | **干预因素**（学习者学段） | **中学生** | $k = 17$ / — | $g = 1.113$, $95\%\text{ CI} = [0.759, 1.467]$ | $Q_b = 6.61, p < .05$；两两比较均显著 | 处于形式运算阶段且具抗干扰力，获益最大 |
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | **干预因素**（学习者学段） | **小学生** | $k = 5$ / — | $g = 0.877$, $95\%\text{ CI} = [0.303, 1.451]$ | 组间差异显著 | [[Meta-Representational Competence\|元表征能力]]较弱，易受诱人细节干扰 |
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | **干预因素**（学习者学段） | **大学生** | $k = 49$ / — | $g = 0.659$, $95\%\text{ CI} = [0.509, 0.808]$ | 组间差异显著 | 内部[[Self-Scaffolding\|自我脚手架]]成熟，外在工具增益边际递减 |
+> | [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] | **干预因素**（组织器形态） | **[[Mind Mapping|思维导图]]（Mind Mapping）** | $k = 16$ / — | $g = 1.041$, $95\%\text{ CI} = [0.704, 1.379]$ | $Q_b = 9.13, p < .05$；Wald 两两比较均 $p < .001$ | 单一中心发散，认知开销最低，促学效应最强 |
+> | [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] | **干预因素**（组织器形态） | **[[Argument Mapping|论证图]]（Argument Mapping）** | $k = 12$ / — | $g = 0.798$, $95\%\text{ CI} = [0.469, 1.237]$ | 组间差异显著 | 逻辑结构清晰，支持批判性论辩与写作 |
+> | [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] | **干预因素**（组织器形态） | **[[Concept Mapping|概念图]]（Concept Mapping）** | $k = 36$ / — | $g = 0.548$, $95\%\text{ CI} = [0.403, 0.692]$ | 组间差异显著 | 交叉网络复杂度高，易带来额外认知负荷 |
+> | [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] | **干预因素（[[Dependent Variable|结果变量]]类型）** | **[[Divergent Thinking|发散思维]]（Divergent Thinking）** | $k = 14$ / — | $g = 1.167$, $95\%\text{ CI} = [0.841, 1.493]$ | $Q_b = 7.07, p < .01$ | 对生成性与独创性发散构想的促进效应显著强于聚合思维 |
+> | [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] | **干预因素（结果[[Variable|变量]]类型）** | **[[Convergent Thinking|聚合思维]]（Convergent Thinking）** | $k = 55$ / — | $g = 0.680$, $95\%\text{ CI} = [0.535, 0.825]$ | 组间差异显著 | 侧重逻辑判断与确定性推导 |
+> | [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] | **干预因素（结果[[Construct|构念]]层级）** | **高阶思维倾向（Dispositions）** | $k = 20$ / — | $g = 0.945$, $95\%\text{ CI} = [0.670, 1.221]$ | $Q_b = 8.66, p < .05$；与技能差异 $W = 53.47, p < .001$ | 李克特量表测度，激发探究与反思心向 |
+> | [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] | **干预因素**（结果构念层级） | **高阶认知过程（Processes）** | $k = 22$ / — | $g = 0.912$, $95\%\text{ CI} = [0.631, 1.194]$ | 与技能差异 $W = 137.48, p < .001$；与倾向差异不显著 | 开放性写作与评分量规测度，直接反映思维加工质量 |
+> | [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] | **干预因素**（结果构念层级） | **高阶思维技能结果（Skills）** | $k = 29$ / — | $g = 0.560$, $95\%\text{ CI} = [0.411, 0.708]$ | 组间差异显著 | 多项选择标准化测验测度，反映远端综合技能 |
+> | [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] | **干预因素**（学习者学段） | **中学生** | $k = 17$ / — | $g = 1.113$, $95\%\text{ CI} = [0.759, 1.467]$ | $Q_b = 6.61, p < .05$；两两比较均显著 | 处于形式运算阶段且具抗干扰力，获益最大 |
+> | [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] | **干预因素**（学习者学段） | **小学生** | $k = 5$ / — | $g = 0.877$, $95\%\text{ CI} = [0.303, 1.451]$ | 组间差异显著 | [[Meta-Representational Competence|元表征能力]]较弱，易受诱人细节干扰 |
+> | [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] | **干预因素**（学习者学段） | **大学生** | $k = 49$ / — | $g = 0.659$, $95\%\text{ CI} = [0.509, 0.808]$ | 组间差异显著 | 内部[[Self-Scaffolding|自我脚手架]]成熟，外在工具增益边际递减 |
 
 ---
 

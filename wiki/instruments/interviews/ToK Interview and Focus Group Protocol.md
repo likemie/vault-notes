@@ -65,10 +65,10 @@ updated: 2026-07-01
 >
 > | 维度 | 题项数 | 测量内容 | 计分方式 |
 > |---|---|---|---|
-> | ToK 课程体验 | 4 | ToK 的有效性、改进方向、个人意义、与 [[International Baccalaureate\|IB]] 学习的关系 | 定性[[Coding in Qualitative Research\|编码]] |
+> | ToK 课程体验 | 4 | ToK 的有效性、改进方向、个人意义、与 [[International Baccalaureate|IB]] 学习的关系 | 定性[[Coding in Qualitative Research|编码]] |
 > | 批判性思维理解 | 7 | 批判性思维的定义、可教性、要素、特质、标准、效用、必要技能 | 定性编码 |
 > | CT and ToK 的关联 | 3 | CT and ToK 的关系、CT 在 ToK 中的评价方式、CT 改进路径 | 定性编码 |
-> | 课堂[[Praxis\|实践]]与态度 | 4 | CT 在课堂中的诱发方式、学校对 CT/ToK 的态度、好课标准、自我评价 | 定性编码 |
+> | 课堂[[Praxis|实践]]与态度 | 4 | CT 在课堂中的诱发方式、学校对 CT/ToK 的态度、好课标准、自我评价 | 定性编码 |
 > | 身份与哲学 | 2 | ToK/CT 与身份的关系、对哲学及其与 ToK 关系的理解 | 定性编码 |
 
 ---
@@ -85,11 +85,11 @@ updated: 2026-07-01
 >
 > | 编号 | 主题或维度 | 核心问题 | 可选追问 | 来源 |
 > |---|---|---|---|---|
-> | 1 | ToK 课程体验 | ToK 中对你最有效的是什么？<br><small>What works best for you in ToK?</small> | 为什么？ | [[Argument_Cole_2015_AJE\|Cole et al. (2015, Appendix A)]] |
+> | 1 | ToK 课程体验 | ToK 中对你最有效的是什么？<br><small>What works best for you in ToK?</small> | 为什么？ | [[Argument_Cole_2015_AJE|Cole et al. (2015, Appendix A)]] |
 > | 2 | ToK 课程体验 | ToK 可以如何改进？<br><small>How could ToK be improved?</small> | 能否解释原因？ | 同上 |
 > | 3 | ToK 课程体验 | ToK 对你意味着什么？<br><small>What does ToK mean for you?</small> | — | 同上 |
 > | 4 | ToK 课程体验 | ToK 如何与你的 IB 学习或教学产生关联？<br><small>How does ToK relate to your IB study/teaching in general?</small> | — | 同上 |
-> | 5 | [[Critical Thinking\|批判性思维]]理解 | 对你而言，什么是批判性思维？<br><small>What is critical thinking for you?</small> | — | 同上 |
+> | 5 | [[Critical Thinking|批判性思维]]理解 | 对你而言，什么是批判性思维？<br><small>What is critical thinking for you?</small> | — | 同上 |
 > | 6 | 批判性思维理解 | 批判性思维可以被教授或学习吗？<br><small>Can critical thinking be taught/learnt?</small> | 为什么？如何做？ | 同上 |
 > | 7 | 批判性思维理解 | 能否讨论批判性思维的若干要素？<br><small>Can you discuss some of the elements of critical thinking?</small> | 目的、概念、推论、视角、问题生成、问题解决或批判 | 同上 |
 > | 8 | 批判性思维理解 | 批判性思考者有哪些特质？<br><small>What are the traits of a critical thinker?</small> | — | 同上 |
@@ -99,7 +99,7 @@ updated: 2026-07-01
 > | 12 | CT and ToK 的关联 | 批判性思维与 ToK 之间是什么关系？<br><small>What is the relationship between critical thought and ToK?</small> | — | 同上 |
 > | 13 | CT and ToK 的关联 | ToK 如何评估批判性思维的表现？<br><small>How is performance in critical thought evaluated through ToK?</small> | 评估过程可以如何改进？ | 同上 |
 > | 14 | CT and ToK 的关联 | 批判性思维可以改进吗？<br><small>Can critical thinking be improved?</small> | 如何改进？ | 同上 |
-> | 15 | 课堂[[Praxis\|实践]]与态度 | 批判性思维在课堂中是如何被激发的？<br><small>How is involvement with critical thinking induced in the classroom?</small> | — | 同上 |
+> | 15 | 课堂[[Praxis|实践]]与态度 | 批判性思维在课堂中是如何被激发的？<br><small>How is involvement with critical thinking induced in the classroom?</small> | — | 同上 |
 > | 16 | 课堂实践与态度 | 学校中对批判性思维和 ToK 持有什么态度？<br><small>What attitudes to critical thinking and ToK do you find in your school?</small> | 能否解释原因？ | 同上 |
 > | 17 | 课堂实践与态度 | 一堂好的 ToK 或批判性思维课是什么样的？<br><small>What is a good ToK or critical thinking class?</small> | 为什么？ | 同上 |
 > | 18 | 课堂实践与态度 | 你擅长 ToK 或批判性思维吗？<br><small>Are you good at ToK or critical thinking?</small> | 能否解释原因？ | 同上 |
@@ -111,10 +111,10 @@ updated: 2026-07-01
 >
 > | 编号 | 主题或维度 | 核心问题 | 可选追问 | 来源 |
 > |---|---|---|---|---|
-> | F1 | ToK 课程定位 | ToK 作为大学预科科目的有效性 | — | [[Argument_Cole_2015_AJE\|Cole et al. (2015, Appendix A)]] |
+> | F1 | ToK 课程定位 | ToK 作为大学预科科目的有效性 | — | [[Argument_Cole_2015_AJE|Cole et al. (2015, Appendix A)]] |
 > | F2 | 学习动机 | 在 ToK 中取得成功的动机或缺乏动机 | — | 同上 |
 > | F3 | 高等教育准备 | ToK 作为高等教育准备 | — | 同上 |
-> | F4 | [[International Baccalaureate\|IB]] 课程结构 | ToK 作为 IB 的核心支柱 | — | 同上 |
+> | F4 | [[International Baccalaureate|IB]] 课程结构 | ToK 作为 IB 的核心支柱 | — | 同上 |
 > | F5 | 课程体验 | ToK 的学习体验 | — | 同上 |
 > | F6 | 学习能力 | 理解和掌握 ToK 的能力 | — | 同上 |
 > | F7 | 课程关联 | ToK 与当前学习的相关性 | — | 同上 |
@@ -135,7 +135,7 @@ updated: 2026-07-01
 >
 > | 研究 | 工具版本 | 样本与用途 | 测量属性 | 关键结果 |
 > |---|---|---|---|---|
-> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | 英文原始版 | 四所 NSW 学校：22 次教师访谈（40 分钟/人）、8 组学生[[Focus Group\|焦点小组]]（30 分钟/组，4–7 人）、5 次行政人员访谈 | — | 与课堂观察和文件分析[[Triangulation\|三角验证]]后，识别出四校在 ToK 概念化和[[Operationalization\|操作化]]上的四种差异模式 |
+> | [[Argument_Cole_2015_AJE|Cole et al. (2015)]] | 英文原始版 | 四所 NSW 学校：22 次教师访谈（40 分钟/人）、8 组学生[[Focus Group|焦点小组]]（30 分钟/组，4–7 人）、5 次行政人员访谈 | — | 与课堂观察和文件分析[[Triangulation|三角验证]]后，识别出四校在 ToK 概念化和[[Operationalization|操作化]]上的四种差异模式 |
 
 ---
 
@@ -146,4 +146,4 @@ updated: 2026-07-01
 >
 > | 版本 | 语言与地区 | 目标人群 | 题项数 | 主要变化 | 来源 |
 > |---|---|---|---|---|---|
-> | 原始版 | 英语，澳大利亚 | ToK 教师、学生、行政人员 | 20 题 + 14 主题 | — | [[Argument_Cole_2015_AJE\|Cole et al. (2015, Appendix A)]] |
+> | 原始版 | 英语，澳大利亚 | ToK 教师、学生、行政人员 | 20 题 + 14 主题 | — | [[Argument_Cole_2015_AJE|Cole et al. (2015, Appendix A)]] |

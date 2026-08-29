@@ -80,7 +80,7 @@ updated: 2026-08-26
 > | 时间关系 | 累积、缓慢渗透 | 即时、指向明确问题 | 决策在前、使用在后 |
 > | 典型形态 | 知识渗透（Weiss, 1980） | 用研究解决眼前问题 | 引用研究支持既定立场 |
 > | 与深层使用的关系 | 常被视为合理使用 | 可能浅层或深层次 | 最常见于浅层或策略性使用 |
-> | 作为长期成果 | 概念性成果（影响思维） | 工具性成果（影响实践） | 象征性成果（合法化做法）([[Argument_Nelson_2017_ER\|Nelson & Campbell, 2017, p.132]]) |
+> | 作为长期成果 | 概念性成果（影响思维） | 工具性成果（影响实践） | 象征性成果（合法化做法）([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p.132]]) |
 
 ---
 
@@ -168,8 +168,8 @@ updated: 2026-08-26
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **类型学源流** | 从七模型到三分类的收敛 | 研究利用的分类与分析 | Weiss (1979); Nutley et al. (2007) |
-> | **学校中的分布** | 象征与工具性使用为主，深思熟虑参与罕见 | 学校研究使用的实证描述 | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] |
-> | **成果分类应用** | 类型学扩展为长期成果分类 | 研究影响测量 | [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]] |
+> | **学校中的分布** | 象征与工具性使用为主，深思熟虑参与罕见 | 学校研究使用的实证描述 | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] |
+> | **成果分类应用** | 类型学扩展为长期成果分类 | 研究影响测量 | [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] |
 
 ---
 
@@ -190,9 +190,9 @@ updated: 2026-08-26
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] | 109 项学校[[Research Utilization\|研究使用]]实证研究，来自 28 个国家 | [[Systematic Review\|系统综述]]＋框架综合 | 研究使用方式的分布 | 以象征性与工具性使用为主，深思熟虑参与相对罕见；研究常为三方[[Dialogue in Education\|对话]]中的"第三声音" | — | 描述性综合，反映[[Document\|文献]]报道分布而非精确比例 |
+> | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] | 109 项学校[[Research Utilization|研究使用]]实证研究，来自 28 个国家 | [[Systematic Review|系统综述]]＋框架综合 | 研究使用方式的分布 | 以象征性与工具性使用为主，深思熟虑参与相对罕见；研究常为三方[[Dialogue in Education|对话]]中的"第三声音" | — | 描述性综合，反映[[Document|文献]]报道分布而非精确比例 |
 
 ---
 

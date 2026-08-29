@@ -83,11 +83,11 @@ updated: 2026-08-11
 ## 概念辨析
 
 > [!contrast-table] 器物 vs 相近概念
-> | 维度 | [[Artefact\|器物]] | [[Visual Data\|视觉数据]] | [[Document\|文献]] |
+> | 维度 | [[Artefact|器物]] | [[Visual Data|视觉数据]] | [[Document|文献]] |
 > |------|------|------|------|
 > | 形态 | 三维有形物体 | 一切图像性资料 | 文字与记录 |
 > | 感知通道 | 可多感官分析 | 以观看为主 | 以阅读为主 |
-> | 典型用途 | [[Organizational Culture\|组织文化]]观察、儿童研究 | 研究资料的总体分类 | 真实性考证与[[Content Analysis\|内容分析]] |
+> | 典型用途 | [[Organizational Culture|组织文化]]观察、儿童研究 | 研究资料的总体分类 | 真实性考证与[[Content Analysis|内容分析]] |
 
 ## 相关研究
 

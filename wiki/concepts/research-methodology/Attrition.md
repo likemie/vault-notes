@@ -128,10 +128,10 @@ ight|$$
 > [!contrast-table] 四大清算中心对样本流失的审查门槛对比（基于 Wadhwa et al., 2024）
 > | 清算中心 | 流失审查技术模型 | 对高流失研究的补救与降级要求 | 审查严苛度定性 |
 > |:---|:---|:---|:---|
-> | **[[What Works Clearinghouse\|WWC]] (联邦官方)** | **整体 vs 差异二维连续曲线模型**<br>(严格控制潜在偏误 $\le 0.05\text{ SD}$) | 高流失 RCT 降级为准实验规程；强制要求前测基线差异 $\le 0.25\text{ SD}$ 且控制协变量。 | **极高（数理精细模型）** |
-> | **[[Blueprints for Healthy Youth Development\|Blueprints]]** | **脱落者与留守者双重平衡性检验** | 必须在实验组与对照组内部分别对脱落者与保留者实施 $\chi^2$ 或 $t$ 检验，证明无选择偏差。 | **极高（双重平衡检验）** |
-> | **[[Social Programs That Work\|SPTW]] / [[Clearinghouse for Military Family Readiness Continuum of Evidence\|CMFR]]** | **单一固定百分比阈值**<br>(通常设定整体流失率 $\le 20\%$ 上限) | 仅粗筛总流失率，未建立精细的差异流失与基线联动补偿模型。 | **中等（粗线条过滤）** |
-> | **[[National Dropout Prevention Center\|NDPC]]** | **未设量化流失门槛** | 宽容采纳具备正向实践效果的实证，不因样本流失做制度性降级。 | **包容（实践导向）** |
+> | **[[What Works Clearinghouse|WWC]] (联邦官方)** | **整体 vs 差异二维连续曲线模型**<br>(严格控制潜在偏误 $\le 0.05\text{ SD}$) | 高流失 RCT 降级为准实验规程；强制要求前测基线差异 $\le 0.25\text{ SD}$ 且控制协变量。 | **极高（数理精细模型）** |
+> | **[[Blueprints for Healthy Youth Development|Blueprints]]** | **脱落者与留守者双重平衡性检验** | 必须在实验组与对照组内部分别对脱落者与保留者实施 $\chi^2$ 或 $t$ 检验，证明无选择偏差。 | **极高（双重平衡检验）** |
+> | **[[Social Programs That Work|SPTW]] / [[Clearinghouse for Military Family Readiness Continuum of Evidence|CMFR]]** | **单一固定百分比阈值**<br>(通常设定整体流失率 $\le 20\%$ 上限) | 仅粗筛总流失率，未建立精细的差异流失与基线联动补偿模型。 | **中等（粗线条过滤）** |
+> | **[[National Dropout Prevention Center|NDPC]]** | **未设量化流失门槛** | 宽容采纳具备正向实践效果的实证，不因样本流失做制度性降级。 | **包容（实践导向）** |
 
 ---
 
@@ -140,10 +140,10 @@ ight|$$
 > [!framework-table] 应对流失偏差的四大统计纠偏工具
 > | 统计纠偏技术 | 核心操作原理 | 适用场景与优劣势 |
 > |:---|:---|:---|
-> | **[[Intent-to-Treat Analysis\|意向治疗分析]] (ITT)** | **“一旦随机，永远分析”**；将所有最初[[Random Assignment\|随机分配]]的学生（无论是否中途脱落或未完整接受干预）全部纳入最终分析。 | 彻底捍卫随机化基线等价性，防止虚假高估；缺点是可能稀释干预在足额完成者中的真实潜在功效。 |
-> | **基线等值性重新核查 (Baseline Equivalence)** | 丢弃初始样本基线，仅针对最终留在[[Pre-test and Post-test\|后测]]中的分析样本（Analytic Sample）重新检验前测均值与协[[Variable\|变量]]平衡。 | 高流失 RCT 挽救因果资格的唯一通道；若前测差值在 $0.05–0.25\text{ SD}$ 间必须纳入回归协变量调整。 |
-> | **多重插补 (Multiple [[Imputation Methods\|imputation]], MI) / FIML** | 依据受试者基线成绩、人口学变量与过程数据，通过统计算法多重填补缺失的后测结果。 | 假定数据为**随机缺失（MAR）**；若属于非随机缺失（MNAR，如最差的学生故意缺考），插补结果仍有偏倚。 |
-> | **工具变量法与 [[Complier Average Causal Effect\|CACE]] 估计 (Complier Average Effect)** | 以初始随机分组作为工具变量（IV），剥离脱落与不顺从行为，估计**顺从者平均因果效应（CACE）**。 | 精准识别真正坚持完成干预者的净效应，是现代因果计量经济学纠偏标准[[Paradigm\|范式]]。 |
+> | **[[Intent-to-Treat Analysis|意向治疗分析]] (ITT)** | **“一旦随机，永远分析”**；将所有最初[[Random Assignment|随机分配]]的学生（无论是否中途脱落或未完整接受干预）全部纳入最终分析。 | 彻底捍卫随机化基线等价性，防止虚假高估；缺点是可能稀释干预在足额完成者中的真实潜在功效。 |
+> | **基线等值性重新核查 (Baseline Equivalence)** | 丢弃初始样本基线，仅针对最终留在[[Pre-test and Post-test|后测]]中的分析样本（Analytic Sample）重新检验前测均值与协[[Variable|变量]]平衡。 | 高流失 RCT 挽救因果资格的唯一通道；若前测差值在 $0.05–0.25\text{ SD}$ 间必须纳入回归协变量调整。 |
+> | **多重插补 (Multiple [[Imputation Methods|imputation]], MI) / FIML** | 依据受试者基线成绩、人口学变量与过程数据，通过统计算法多重填补缺失的后测结果。 | 假定数据为**随机缺失（MAR）**；若属于非随机缺失（MNAR，如最差的学生故意缺考），插补结果仍有偏倚。 |
+> | **工具变量法与 [[Complier Average Causal Effect|CACE]] 估计 (Complier Average Effect)** | 以初始随机分组作为工具变量（IV），剥离脱落与不顺从行为，估计**顺从者平均因果效应（CACE）**。 | 精准识别真正坚持完成干预者的净效应，是现代因果计量经济学纠偏标准[[Paradigm|范式]]。 |
 
 ---
 
@@ -177,10 +177,10 @@ ight|$$
 >
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|
-> | [[Internal Validity]] | 核心概念 | 流失是 Campbellian 效度体系中最致命的[[Threats to Internal Validity\|内部效度威胁]]之一。 |
-> | [[Intent-to-Treat Analysis]] | 纠偏方法 | 防范流失偏差、保全初始[[Random Assignment\|随机化]]等价性的标准分析方法。 |
+> | [[Internal Validity]] | 核心概念 | 流失是 Campbellian 效度体系中最致命的[[Threats to Internal Validity|内部效度威胁]]之一。 |
+> | [[Intent-to-Treat Analysis]] | 纠偏方法 | 防范流失偏差、保全初始[[Random Assignment|随机化]]等价性的标准分析方法。 |
 > | [[Randomised Controlled Trials]] | 实验方法 | 流失能够直接击穿 RCT 的因果识别前提，使其降级为准实验。 |
 > | [[What Works Clearinghouse]] | 评价机构 | 制定了国际最权威的“整体-差异流失”二维数学边界模型。 |
-> | [[Campbellian Validity Framework]] | 理论基础 | 将实验死亡率（Experimental Mortality）列为[[Causality\|因果推断]]八大威胁之一。 |
+> | [[Campbellian Validity Framework]] | 理论基础 | 将实验死亡率（Experimental Mortality）列为[[Causality|因果推断]]八大威胁之一。 |
 
 ---

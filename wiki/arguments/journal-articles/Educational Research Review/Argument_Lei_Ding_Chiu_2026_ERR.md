@@ -115,11 +115,11 @@ updated: '2026-08-27'
 > [!framework-table] 理论工具箱
 > | 理论工具 | 核心解释功能 |
 > |---|---|
-> | **[[Cognitive Load Theory\|认知负荷理论（Cognitive Load Theory）]]**<br>Sweller / Mayer | 解释人类[[Working Memory\|工作记忆]]容量的有限性；阐明[[Graphic Organizer\|图形组织器]]如何通过外在空间拓扑结构整合零散信息，降低瞬时工作记忆中的表层信息检索与识别负荷，将有限的心智资源释放并重新配置到高阶认知加工中。（pp.1–3） |
+> | **[[Cognitive Load Theory|认知负荷理论（Cognitive Load Theory）]]**<br>Sweller / Mayer | 解释人类[[Working Memory|工作记忆]]容量的有限性；阐明[[Graphic Organizer|图形组织器]]如何通过外在空间拓扑结构整合零散信息，降低瞬时工作记忆中的表层信息检索与识别负荷，将有限的心智资源释放并重新配置到高阶认知加工中。（pp.1–3） |
 > | **空间隐喻理论（Spatial Metaphor Theory）**<br>Lakoff & Johnson | 阐明大脑如何借助空间邻近性、包含关系与分支走向等视觉拓扑隐喻表征抽象语义与逻辑关联，通过海马体至大脑皮层的神经通道强化从短时记忆向长时记忆的深层理解转化。（pp.2–3） |
-> | **高阶思维三元发展模型（Higher-Order Thinking Tripartite Framework, HOT Tripartite Framework）**<br>Hwang et al. / Thamrin & Widodo | 将[[Higher-Order Thinking Skills\|高阶思维]]解构为驱动端（思维倾向）、加工端（认知过程）与产出端（技能结果），揭示外在认知脚手架对即时生成过程与探究心向的直接赋能机制。（pp.2–3） |
-> | **[[Meta-Representational Competence\|元表征能力]]与[[Self-Scaffolding\|自我脚手架理论]]**<br>diSessa & Sherin / Bickhard | 解释不同年龄学段学生利用外在视觉表征工具的认知门槛与自适应能力，阐明中学生、小学生与大学生获益差异的发[[Conatus\|生机]]制。（p.4） |
-> | **[[Dual Coding Theory\|双重编码理论（Dual Coding Theory）]]与 ITPC 模型**<br>Paivio / Mayer / Schnotz | 阐明视觉空间通道与言语听觉通道的协同表征机制，说明图形组织器如何通过图文协同构建双重认知通道，增强概念整合与深层理解。（pp.2–3） |
+> | **高阶思维三元发展模型（Higher-Order Thinking Tripartite Framework, HOT Tripartite Framework）**<br>Hwang et al. / Thamrin & Widodo | 将[[Higher-Order Thinking Skills|高阶思维]]解构为驱动端（思维倾向）、加工端（认知过程）与产出端（技能结果），揭示外在认知脚手架对即时生成过程与探究心向的直接赋能机制。（pp.2–3） |
+> | **[[Meta-Representational Competence|元表征能力]]与[[Self-Scaffolding|自我脚手架理论]]**<br>diSessa & Sherin / Bickhard | 解释不同年龄学段学生利用外在视觉表征工具的认知门槛与自适应能力，阐明中学生、小学生与大学生获益差异的发[[Conatus|生机]]制。（p.4） |
+> | **[[Dual Coding Theory|双重编码理论（Dual Coding Theory）]]与 ITPC 模型**<br>Paivio / Mayer / Schnotz | 阐明视觉空间通道与言语听觉通道的协同表征机制，说明图形组织器如何通过图文协同构建双重认知通道，增强概念整合与深层理解。（pp.2–3） |
 
 > [!warrant]- 理论如何支撑论证
 > 理论框架通过空间表征卸载负荷、释放高阶工作记忆、驱动探究倾向与认知过程、沉淀为稳定思维技能的逻辑链条，将外在教学脚手架与内在认知机能紧密连接。认知负荷理论与空间隐喻解释了图形组织器何以能产生整体促进效应（$g = 0.778$）；高阶思维三元结构与表征复杂度理论则为解释导图类型级差（导图 > [[Argument Mapping|论证图]] > [[Concept Mapping|概念图]]）、思维维度级差（发散 > 聚合；倾向与过程 > 技能）以及学段发展倒U型特征提供了严密的机制推论桥梁。（pp.2–4, 11–12）
@@ -127,19 +127,19 @@ updated: '2026-08-27'
 ### 核心变量与操作化编码表
 
 > [!index-table] 核心[[Variable|变量]][[Operationalization|操作化]]定义与[[Coding in Qualitative Research|编码]]规程
-> | 变量类别与维度 | [[Construct\|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
+> | 变量类别与维度 | [[Construct|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
 > |---|---|---|
-> | **结果变量：[[Higher-Order Thinking Skills\|高阶思维倾向]]**<br>（HOT Disposition） | 个体主动探究未知、寻求理由、保持开放心智与坚持探究的主观心向与态度习惯。 | 34 项研究采用 5 点李克特量表；代表题项如“我喜欢提出前人从未想象过的问题”（Chiu & Hwang, 2024）。 |
-> | **结果变量：[[Higher-Order Thinking Skills\|高阶认知过程]]**<br>（HOT Cognitive Process） | 面对劣构问题时执行分析、评估、推论、综合与批判性反驳的即时心智运作。 | 17 项研究采用开放式写作任务与评分量规（Lane, 1993），评估推理深度、反驳质量与证据运用（Khrais & Saleh, 2020）。 |
-> | **结果变量：[[Higher-Order Thinking Skills\|高阶思维技能]]**<br>（HOT Outcome Skill） | 在特定情境或标准化测验中表现出的分析、推理、批判与问题解决综合能力结果。 | 57 项研究采用标准化多选题，如加州批判性思维技能测验（California Critical Thinking Skills Test, CCTST, Facione, 1990）与健康教育系统公司护理专业统考（Health Education Systems, Inc., HESI, Morrison et al., 2004）。 |
-> | **结果变量：[[Divergent Thinking\|发散思维]]**<br>（Divergent Thinking） | 面对开放性问题生成新颖、多样且非常规构想与替代方案的[[Creativity\|创造性]]心智加工。 | 采用观念流畅性与独创性测验、头脑风暴方案多样性评分与创造性解题任务（Bin et al., 2022; Chen, 2020）。 |
-> | **结果变量：[[Convergent Thinking\|聚合思维]]**<br>（Convergent Thinking） | 基于严密逻辑规则对信息进行批判性审视、筛选、演绎与收敛至最优解的思维。 | 采用演绎推理测验、论据有效性识别与标准化单项选择推理题（Akinoglu, 2013; Bilik et al., 2020）。 |
-> | **干预变量：[[Mind Mapping\|思维导图]]**<br>（Mind Mapping） | 以单一中心概念为核心向外辐射多级分支，低结构复杂度，强调联想发散与速记。 | 教学采用教师导入规则、自主发散绘制与反馈迭代规程，应用于头脑风暴与创意写作（Chiu & Hwang, 2024; Chen, 2020）。 |
-> | **干预变量：[[Argument Mapping\|论证图]]**<br>（Argument Mapping） | 严格依循主张、证据、保证与反驳的逻辑语法，表征线性或树状论辩推导链条。 | 教学引导学生梳理争议论据与批判性写作逻辑，结构化支撑论辩推理（Botley & Hakim, 2014; Ristanto et al., 2022）。 |
-> | **干预变量：[[Concept Mapping\|概念图]]**<br>（Concept Mapping） | 包含多节点交叉连接（Cross-links）与命题连接词的复杂网状语义表征工具。 | 教学用于复杂领域概念建模，要求标明概念间命题关系，结构复杂度较高（Bilik et al., 2020; Su, 2018）。 |
-> | **调节变量：学习者学段**<br>（Grade Level） | 划分为小学、中学与大学三个发展阶段。 | 检验[[Jean Piaget\|皮亚杰]]形式运算、[[Meta-Representational Competence\|元表征能力]]成熟度与[[Self-Scaffolding\|自我脚手架]]水平对促学效应的调节作用（纳入大学 49 项、中学 17 项、小学 5 项）。 |
-> | **调节变量：宏观社会经济**<br>（GDP & Publication Year） | 纳入国家人均国内生产总值（按世界银行数据做 Z 分数标准化）与[[Document\|文献]]发表年份（反映技术发展）。 | 检验经济投入、数字化图示工具可获得性与现代教学法培训对工具促学效能的正向赋能效应（[[Meta-regression\|元回归]]模型）。 |
-> | **控制变量：学科与时长**<br>（Subject & Duration） | 学科划分为科学、技术、工程与数学领域（Science, Technology, Engineering, and Mathematics, STEM）与人文社科；干预时长划分为 4 周以内、4 至 12 周与 12 周以上。 | 检验图形组织器的跨学科普适性与时间效应稳定性（[[Meta-analysis\|元分析]]证实学科与时长均无显著调节作用）。 |
+> | **结果变量：[[Higher-Order Thinking Skills|高阶思维倾向]]**<br>（HOT Disposition） | 个体主动探究未知、寻求理由、保持开放心智与坚持探究的主观心向与态度习惯。 | 34 项研究采用 5 点李克特量表；代表题项如“我喜欢提出前人从未想象过的问题”（Chiu & Hwang, 2024）。 |
+> | **结果变量：[[Higher-Order Thinking Skills|高阶认知过程]]**<br>（HOT Cognitive Process） | 面对劣构问题时执行分析、评估、推论、综合与批判性反驳的即时心智运作。 | 17 项研究采用开放式写作任务与评分量规（Lane, 1993），评估推理深度、反驳质量与证据运用（Khrais & Saleh, 2020）。 |
+> | **结果变量：[[Higher-Order Thinking Skills|高阶思维技能]]**<br>（HOT Outcome Skill） | 在特定情境或标准化测验中表现出的分析、推理、批判与问题解决综合能力结果。 | 57 项研究采用标准化多选题，如加州批判性思维技能测验（California Critical Thinking Skills Test, CCTST, Facione, 1990）与健康教育系统公司护理专业统考（Health Education Systems, Inc., HESI, Morrison et al., 2004）。 |
+> | **结果变量：[[Divergent Thinking|发散思维]]**<br>（Divergent Thinking） | 面对开放性问题生成新颖、多样且非常规构想与替代方案的[[Creativity|创造性]]心智加工。 | 采用观念流畅性与独创性测验、头脑风暴方案多样性评分与创造性解题任务（Bin et al., 2022; Chen, 2020）。 |
+> | **结果变量：[[Convergent Thinking|聚合思维]]**<br>（Convergent Thinking） | 基于严密逻辑规则对信息进行批判性审视、筛选、演绎与收敛至最优解的思维。 | 采用演绎推理测验、论据有效性识别与标准化单项选择推理题（Akinoglu, 2013; Bilik et al., 2020）。 |
+> | **干预变量：[[Mind Mapping|思维导图]]**<br>（Mind Mapping） | 以单一中心概念为核心向外辐射多级分支，低结构复杂度，强调联想发散与速记。 | 教学采用教师导入规则、自主发散绘制与反馈迭代规程，应用于头脑风暴与创意写作（Chiu & Hwang, 2024; Chen, 2020）。 |
+> | **干预变量：[[Argument Mapping|论证图]]**<br>（Argument Mapping） | 严格依循主张、证据、保证与反驳的逻辑语法，表征线性或树状论辩推导链条。 | 教学引导学生梳理争议论据与批判性写作逻辑，结构化支撑论辩推理（Botley & Hakim, 2014; Ristanto et al., 2022）。 |
+> | **干预变量：[[Concept Mapping|概念图]]**<br>（Concept Mapping） | 包含多节点交叉连接（Cross-links）与命题连接词的复杂网状语义表征工具。 | 教学用于复杂领域概念建模，要求标明概念间命题关系，结构复杂度较高（Bilik et al., 2020; Su, 2018）。 |
+> | **调节变量：学习者学段**<br>（Grade Level） | 划分为小学、中学与大学三个发展阶段。 | 检验[[Jean Piaget|皮亚杰]]形式运算、[[Meta-Representational Competence|元表征能力]]成熟度与[[Self-Scaffolding|自我脚手架]]水平对促学效应的调节作用（纳入大学 49 项、中学 17 项、小学 5 项）。 |
+> | **调节变量：宏观社会经济**<br>（GDP & Publication Year） | 纳入国家人均国内生产总值（按世界银行数据做 Z 分数标准化）与[[Document|文献]]发表年份（反映技术发展）。 | 检验经济投入、数字化图示工具可获得性与现代教学法培训对工具促学效能的正向赋能效应（[[Meta-regression|元回归]]模型）。 |
+> | **控制变量：学科与时长**<br>（Subject & Duration） | 学科划分为科学、技术、工程与数学领域（Science, Technology, Engineering, and Mathematics, STEM）与人文社科；干预时长划分为 4 周以内、4 至 12 周与 12 周以上。 | 检验图形组织器的跨学科普适性与时间效应稳定性（[[Meta-analysis|元分析]]证实学科与时长均无显著调节作用）。 |
 >
 > **图表解读** 本表系统界定了元分析中高阶思维结果构念的三元层级与二元类型，并解构了三种核心图形组织器的空间拓扑特征与实施规程，为多水平调节检验提供了标准化的变量编码框架。（pp.5–8）
 
@@ -150,10 +150,10 @@ updated: '2026-08-27'
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |---|---|
-> | **文献检索与筛选**<br>Systematic Search & PRISMA | 系统检索 Web of Science、Scopus、ERIC、PsycINFO 与 CNKI 数据库（建库至 2024 年 1 月），采用[[Graphic Organizer\|图形组织器]]关键词（concept map, mind map, argument map, visual organizer 等）与[[Higher-Order Thinking Skills\|高阶思维]]关键词（higher-order thinking, [[Critical Thinking]], problem solving, [[Creativity\|creative thinking]] 等）布尔组合检索。依据严格的实验/[[Quasi-Experimental Designs\|准实验设计]]与完整统计量报告标准，依循[[PRISMA\|系统评价和元分析优先报告条目（Preferred Reporting Items for Systematic Reviews and Meta-Analyses, PRISMA）]]最终纳入 66 篇符合标准的实证[[Document\|文献]]（共 72 个[[Effect Size\|效应量]]，图 3 PRISMA 流程图）。（pp.4–5） |
-> | **数据提取与质量评估**<br>Coding & Quality Assessment | 由两位研究者独立提取样本量、均值、标准差、$t/F/\chi^2$ 统计量及调节变量信息，[[Inter-Rater Reliability\|编码者间一致性信度（Inter-Rater Reliability）]]达 Krippendorff's $\alpha = 0.813$。采用 [[Kmet Quality Assessment Checklist\|Kmet 方法学质量评价量表]]（14 项准则，满分 28 分）评估各研究的组别等质性、测量信效度与控制严密性（纳入研究得分介于 17 至 28 分，$M = 23.6$）。（pp.5–8） |
-> | **效应量计算与统计建模**<br>Meta-Analysis & Meta-Regression | 计算无偏[[Effect Size\|效应量]] Hedges' $g$；采用 [[Cochran's Q Test\|Cochran's Q 检验]]与 [[I-squared Statistic\|I² 统计量]]检验效应[[Heterogeneity\|异质性]]；鉴于初级研究在教学情境与人群上的异质性，采用[[Fixed-Effect and Random-Effects Models\|随机效应模型（Random-Effects Model）]]估计总体效应；运用亚组 $Q_{between}$ 检验与[[Pairwise Wald Tests\|成对 Wald 检验（Pairwise Wald Tests）]]比较分类调节变量组间及两两亚组差异；运用单变量[[Meta-regression\|元回归（Meta-regression）]]检验连续型协变量（人均 GDP、发表年份、性别比例）。（pp.5–6, 9–10） |
-> | **发表偏倚诊断**<br>Publication Bias Diagnostics | 综合运用[[Funnel Plot\|漏斗图（Funnel Plot）]]、[[Egger Regression Test\|Egger 线性回归检验]]、Begg 秩相关检验与 [[Fail-Safe N\|Rosenthal 失安全系数（Fail-Safe N）]]系统诊断潜在[[Publication Bias\|发表偏倚]]。（pp.6, 9） |
+> | **文献检索与筛选**<br>Systematic Search & PRISMA | 系统检索 Web of Science、Scopus、ERIC、PsycINFO 与 CNKI 数据库（建库至 2024 年 1 月），采用[[Graphic Organizer|图形组织器]]关键词（concept map, mind map, argument map, visual organizer 等）与[[Higher-Order Thinking Skills|高阶思维]]关键词（higher-order thinking, [[Critical Thinking]], problem solving, [[Creativity|creative thinking]] 等）布尔组合检索。依据严格的实验/[[Quasi-Experimental Designs|准实验设计]]与完整统计量报告标准，依循[[PRISMA|系统评价和元分析优先报告条目（Preferred Reporting Items for Systematic Reviews and Meta-Analyses, PRISMA）]]最终纳入 66 篇符合标准的实证[[Document|文献]]（共 72 个[[Effect Size|效应量]]，图 3 PRISMA 流程图）。（pp.4–5） |
+> | **数据提取与质量评估**<br>Coding & Quality Assessment | 由两位研究者独立提取样本量、均值、标准差、$t/F/\chi^2$ 统计量及调节变量信息，[[Inter-Rater Reliability|编码者间一致性信度（Inter-Rater Reliability）]]达 Krippendorff's $\alpha = 0.813$。采用 [[Kmet Quality Assessment Checklist|Kmet 方法学质量评价量表]]（14 项准则，满分 28 分）评估各研究的组别等质性、测量信效度与控制严密性（纳入研究得分介于 17 至 28 分，$M = 23.6$）。（pp.5–8） |
+> | **效应量计算与统计建模**<br>Meta-Analysis & Meta-Regression | 计算无偏[[Effect Size|效应量]] Hedges' $g$；采用 [[Cochran's Q Test|Cochran's Q 检验]]与 [[I-squared Statistic|I² 统计量]]检验效应[[Heterogeneity|异质性]]；鉴于初级研究在教学情境与人群上的异质性，采用[[Fixed-Effect and Random-Effects Models|随机效应模型（Random-Effects Model）]]估计总体效应；运用亚组 $Q_{between}$ 检验与[[Pairwise Wald Tests|成对 Wald 检验（Pairwise Wald Tests）]]比较分类调节变量组间及两两亚组差异；运用单变量[[Meta-regression|元回归（Meta-regression）]]检验连续型协变量（人均 GDP、发表年份、性别比例）。（pp.5–6, 9–10） |
+> | **发表偏倚诊断**<br>Publication Bias Diagnostics | 综合运用[[Funnel Plot|漏斗图（Funnel Plot）]]、[[Egger Regression Test|Egger 线性回归检验]]、Begg 秩相关检验与 [[Fail-Safe N|Rosenthal 失安全系数（Fail-Safe N）]]系统诊断潜在[[Publication Bias|发表偏倚]]。（pp.6, 9） |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
@@ -197,9 +197,9 @@ updated: '2026-08-27'
 > 基于 66 项研究与 72 个独立[[Effect Size|效应量]]的[[Fixed-Effect and Random-Effects Models|随机效应模型]]计算，图形组织器对高阶思维的加权平均效应量为 Hedges' $g = 0.778$（详细统计参数见表 2）。该效应量高度显著，且大幅超越了常规教育干预的平均基准效应。（pp.1, 9）
 
 > [!ref-table]- 表 2：图形组织器对学生高阶思维影响的随机效应模型总体检验
-> | 综合模型 | 效应量数 $k$ | 汇总[[Effect Size\|效应量]] $g$ | 95% [[Confidence Interval\|置信区间（CI）]] | 检验统计量 $t$ | $p$ 值 | [[Cochran's Q Test\|异质性检验 Q]] | $p$ 值 | [[I-squared Statistic\|异质性 I² (%)]] |
+> | 综合模型 | 效应量数 $k$ | 汇总[[Effect Size|效应量]] $g$ | 95% [[Confidence Interval|置信区间（CI）]] | 检验统计量 $t$ | $p$ 值 | [[Cochran's Q Test|异质性检验 Q]] | $p$ 值 | [[I-squared Statistic|异质性 I² (%)]] |
 > |---|---|---|---|---|---|---|---|---|
-> | **[[Fixed-Effect and Random-Effects Models\|随机效应模型（Random-Effects）]]** | 72 | 0.778 | [0.642, 0.915] | 11.36 | < 0.001 | 443.56 | < 0.001 | 84.0 |
+> | **[[Fixed-Effect and Random-Effects Models|随机效应模型（Random-Effects）]]** | 72 | 0.778 | [0.642, 0.915] | 11.36 | < 0.001 | 443.56 | < 0.001 | 84.0 |
 >
 > **图表解读** 随机效应模型证实图形组织器对高阶思维具有高度显著且稳健的中到强促进效应，同时极高的组间[[Heterogeneity|异质性]]（$I^2 = 84.0\%$）表明促学成效受到多重调节变量的深刻制约。（p.9）
 
@@ -218,13 +218,13 @@ updated: '2026-08-27'
 > 2. **思维类型调节** 图形组织器对[[Divergent Thinking|发散思维]]的促进效应（$g = 1.167$）显著高于对[[Convergent Thinking|聚合思维]]的促进效应（$g = 0.680$）。详细亚组检验参数见表 4。（pp.9–10）
 
 > [!contrast-table] 高阶思维各维度在图形组织器干预下的促学效应对比
-> | 调节维度 | 亚组分类 | 效应量数 $k$ | 效应量 $g$ | [[Standard Error\|标准误（SE）]] | 95% [[Confidence Interval\|置信区间（CI）]] | 组内[[Heterogeneity\|异质性]] [[I-squared Statistic\|I²]] | 组间检验与显著性 |
+> | 调节维度 | 亚组分类 | 效应量数 $k$ | 效应量 $g$ | [[Standard Error|标准误（SE）]] | 95% [[Confidence Interval|置信区间（CI）]] | 组内[[Heterogeneity|异质性]] [[I-squared Statistic|I²]] | 组间检验与显著性 |
 > |---|---|---|---|---|---|---|---|
-> | **构念层级（HOT Component）** | **[[Higher-Order Thinking Skills\|高阶思维倾向]]（Dispositions）** | 20 | 0.945 | 0.140 | [0.670, 1.221] | 88.7% | $Q_{BE} = 8.66, p < .05$；与技能比较 $W = 53.47^{***}$ |
-> | | **[[Higher-Order Thinking Skills\|高阶认知过程]]（Processes）** | 22 | 0.912 | 0.144 | [0.631, 1.194] | 86.7% | 与技能比较 $W = 137.48^{***}$；与倾向比较 $W = 0.39$ (n.s.) |
-> | | **[[Higher-Order Thinking Skills\|高阶思维技能结果]]（Skills）** | 29 | 0.560 | 0.076 | [0.411, 0.708] | 67.8% | 显著低于倾向与过程（$p < .001$） |
-> | **思维类型（HOT Type）** | **[[Divergent Thinking\|发散思维]]（Divergent Thinking）** | 14 | 1.167 | 0.166 | [0.841, 1.493] | 82.2% | $Q_{BE} = 7.07, p < .01$ |
-> | | **[[Convergent Thinking\|聚合思维]]（Convergent Thinking）** | 55 | 0.680 | 0.074 | [0.535, 0.825] | 83.6% | 显著低于发散思维（$p < .01$） |
+> | **构念层级（HOT Component）** | **[[Higher-Order Thinking Skills|高阶思维倾向]]（Dispositions）** | 20 | 0.945 | 0.140 | [0.670, 1.221] | 88.7% | $Q_{BE} = 8.66, p < .05$；与技能比较 $W = 53.47^{***}$ |
+> | | **[[Higher-Order Thinking Skills|高阶认知过程]]（Processes）** | 22 | 0.912 | 0.144 | [0.631, 1.194] | 86.7% | 与技能比较 $W = 137.48^{***}$；与倾向比较 $W = 0.39$ (n.s.) |
+> | | **[[Higher-Order Thinking Skills|高阶思维技能结果]]（Skills）** | 29 | 0.560 | 0.076 | [0.411, 0.708] | 67.8% | 显著低于倾向与过程（$p < .001$） |
+> | **思维类型（HOT Type）** | **[[Divergent Thinking|发散思维]]（Divergent Thinking）** | 14 | 1.167 | 0.166 | [0.841, 1.493] | 82.2% | $Q_{BE} = 7.07, p < .01$ |
+> | | **[[Convergent Thinking|聚合思维]]（Convergent Thinking）** | 55 | 0.680 | 0.074 | [0.535, 0.825] | 83.6% | 显著低于发散思维（$p < .01$） |
 
 > [!warrant]- 推理桥梁
 > 成功的思维技能表现必须以探究倾向和主动认知加工为必要前提，而倾向与过程并不必然要求标准化的技能测验输出。图形组织器作为即时生成性支架，直接介入开放性解题与写作过程，因而对倾向与过程产生立竿见影的强刺激；而标准化多选题测验测度的是去情境化的远端聚合技能，受到测量形式与天花板效应的制约。同时，空间视觉分支极大地激活了语义联想网络与观念流畅性，因而对发散性创新的赋能显著超越了受形式逻辑约束的聚合推导。（pp.3–4, 11）
@@ -263,16 +263,16 @@ updated: '2026-08-27'
 > 3. **无[[Interaction Effect|调节效应]]变量** 性别比例、学科门类（人文社科 $g = 0.903$ vs STEM $g = 0.728$）及干预时长均未表现出显著调节效应。详细参数见表 4 与表 5。（pp.9–11）
 
 > [!ref-table]- 表 4：图形组织器与高阶思维关系的单变量调节分析（分类变量）
-> | 变量类别 | 调节变量与亚组 | [[Cochran's Q Test\|组间检验 Q_BE]] | 效应数 $k$ | 效应量 $g$ | [[Standard Error\|标准误（SE）]] | 95% [[Confidence Interval\|置信区间（CI）]] | 组内[[Heterogeneity\|异质性]] [[I-squared Statistic\|I²]] |
+> | 变量类别 | 调节变量与亚组 | [[Cochran's Q Test|组间检验 Q_BE]] | 效应数 $k$ | 效应量 $g$ | [[Standard Error|标准误（SE）]] | 95% [[Confidence Interval|置信区间（CI）]] | 组内[[Heterogeneity|异质性]] [[I-squared Statistic|I²]] |
 > |---|---|---|---|---|---|---|---|
-> | **[[Higher-Order Thinking Skills\|高阶思维构念]]**<br>（HOT component） | **[[Higher-Order Thinking Skills\|思维倾向]]（Disposition）** | **8.66\*** | 20 | 0.945 | 0.140 | [0.670, 1.221] | 88.7% |
-> | | **[[Higher-Order Thinking Skills\|认知过程]]（Process）** | — | 22 | 0.912 | 0.144 | [0.631, 1.194] | 86.7% |
-> | | **[[Higher-Order Thinking Skills\|思维技能]]（Skill）** | — | 29 | 0.560 | 0.076 | [0.411, 0.708] | 67.8% |
-> | **高阶思维类型**<br>（HOT type） | **[[Divergent Thinking\|发散思维]]（Divergent）** | **7.07\*\*** | 14 | 1.167 | 0.166 | [0.841, 1.493] | 82.2% |
-> | | **[[Convergent Thinking\|聚合思维]]（Convergent）** | — | 55 | 0.680 | 0.074 | [0.535, 0.825] | 83.6% |
-> | **图形组织器形态**<br>（GO type） | **[[Mind Mapping\|思维导图]]（Mind mapping）** | **9.13\*** | 16 | 1.041 | 0.158 | [0.704, 1.379] | 88.0% |
-> | | **[[Argument Mapping\|论证图]]（Argument mapping）** | — | 12 | 0.798 | 0.150 | [0.469, 1.237] | 75.6% |
-> | | **[[Concept Mapping\|概念图]]（Concept mapping）** | — | 36 | 0.548 | 0.071 | [0.403, 0.692] | 69.6% |
+> | **[[Higher-Order Thinking Skills|高阶思维构念]]**<br>（HOT component） | **[[Higher-Order Thinking Skills|思维倾向]]（Disposition）** | **8.66\*** | 20 | 0.945 | 0.140 | [0.670, 1.221] | 88.7% |
+> | | **[[Higher-Order Thinking Skills|认知过程]]（Process）** | — | 22 | 0.912 | 0.144 | [0.631, 1.194] | 86.7% |
+> | | **[[Higher-Order Thinking Skills|思维技能]]（Skill）** | — | 29 | 0.560 | 0.076 | [0.411, 0.708] | 67.8% |
+> | **高阶思维类型**<br>（HOT type） | **[[Divergent Thinking|发散思维]]（Divergent）** | **7.07\*\*** | 14 | 1.167 | 0.166 | [0.841, 1.493] | 82.2% |
+> | | **[[Convergent Thinking|聚合思维]]（Convergent）** | — | 55 | 0.680 | 0.074 | [0.535, 0.825] | 83.6% |
+> | **图形组织器形态**<br>（GO type） | **[[Mind Mapping|思维导图]]（Mind mapping）** | **9.13\*** | 16 | 1.041 | 0.158 | [0.704, 1.379] | 88.0% |
+> | | **[[Argument Mapping|论证图]]（Argument mapping）** | — | 12 | 0.798 | 0.150 | [0.469, 1.237] | 75.6% |
+> | | **[[Concept Mapping|概念图]]（Concept mapping）** | — | 36 | 0.548 | 0.071 | [0.403, 0.692] | 69.6% |
 > | **学习者学段**<br>（Grade level） | **中学阶段** | **6.61\*** | 17 | 1.113 | 0.167 | [0.759, 1.467] | 84.4% |
 > | | **小学阶段** | — | 5 | 0.877 | 0.207 | [0.303, 1.451] | 73.5% |
 > | | **大学阶段** | — | 49 | 0.659 | 0.074 | [0.509, 0.808] | 81.7% |
@@ -285,7 +285,7 @@ updated: '2026-08-27'
 > 注：\*\*$p < .05$；\*\*\*$p < .01$。（p.10）
 
 > [!ref-table]- 表 5：连续型变量的单变量元回归分析（随机效应模型）
-> | 协变量参数 | 参数类型 | 回归系数 $B$ | [[Standard Error\|标准误（SE）]] | 95% [[Confidence Interval\|置信区间（CI）]] | 模型检验统计量 | 显著性判定 |
+> | 协变量参数 | 参数类型 | 回归系数 $B$ | [[Standard Error|标准误（SE）]] | 95% [[Confidence Interval|置信区间（CI）]] | 模型检验统计量 | 显著性判定 |
 > |---|---|---|---|---|---|---|
 > | **国家人均国内生产总值（GDP per capita, Z）** | 截距 $\beta_0$ | 0.778 | 0.065 | [0.649, 0.907] | $F(1, 70) = 9.430$ | $p < .01^{**}$（显著正向调节） |
 > | | 斜率 $\beta_1$ | 0.197 | 0.064 | [0.069, 0.325] | | |
@@ -316,9 +316,9 @@ updated: '2026-08-27'
 > 纳入研究的方法学质量良好（均分 23.6/28）。漏斗图目视呈现高度对称分布（图 4）；Egger 检验与 Begg 检验均未发现显著发表偏倚（截距参数见表 3）；故障安全数（$N = 7{,}183$）远超临界值，各项检验一致表明元分析结果具有高度稳健性。（pp.6, 9）
 
 > [!ref-table]- 表 3：纳入研究的 Egger 线性回归发表偏倚检验
-> | 检验方法 | 回归截距 Intercept | [[Standard Error\|标准误（SE）]] | 95% [[Confidence Interval\|置信区间（CI）]] | 检验统计量 $t$ | $p$ 值 | 偏倚诊断结论 |
+> | 检验方法 | 回归截距 Intercept | [[Standard Error|标准误（SE）]] | 95% [[Confidence Interval|置信区间（CI）]] | 检验统计量 $t$ | $p$ 值 | 偏倚诊断结论 |
 > |---|---|---|---|---|---|---|
-> | **[[Egger Regression Test\|Egger 线性回归检验]]** | 1.965 | 1.067 | [-0.164, 4.094] | 1.841 | 0.070 | 截距未达统计显著，无发表偏倚证据 |
+> | **[[Egger Regression Test|Egger 线性回归检验]]** | 1.965 | 1.067 | [-0.164, 4.094] | 1.841 | 0.070 | 截距未达统计显著，无发表偏倚证据 |
 
 > [!warrant]- 推理桥梁
 > 严格的跨语种与跨数据库文献检索策略、独立双盲数据提取以及全方位的偏倚统计检验，确保了所合成效应量反映的是图形组织器与高阶思维之间的真实效应，而非小样本或出版偏倚造成的统计假象。（pp.4–6, 9）

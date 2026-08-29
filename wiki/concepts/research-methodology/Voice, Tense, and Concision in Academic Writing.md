@@ -57,7 +57,7 @@ APA Publication Manual (2020) 对不同文本位置使用不同时态的指导�
 
 | 文本位置 | 推荐时态 | 示例 |
 |---|---|---|
-| [[Literature Review\|文献综述]]和基于过去事件的程序 | 过去时或现在完成时 | "Jones reported"; "Researchers have reported" |
+| [[Literature Review|文献综述]]和基于过去事件的程序 | 过去时或现在完成时 | "Jones reported"; "Researchers have reported" |
 | 结果描述 | 过去时 | "stress lowered self-esteem" |
 | 讨论结果和呈现结论 | 现在时 | "the qualitative findings show" |
 
@@ -107,7 +107,7 @@ Creswell & Creswell (2022, 第4章) 建议通过阅读高水平期刊来培养�
 | Qualitative Inquiry | 质性 | [QI](https://journals.sagepub.com/home/qix) |
 | [[Qualitative Research]] | 质性 | [QR](https://journals.sagepub.com/home/qrj) |
 | Journal of [[Mixed Methods Research]] | 混合方法 | [JMMR](https://journals.sagepub.com/home/mmr) |
-| [[Champ\|field]] Methods | 混合方法 | [FM](https://journals.sagepub.com/home/fmx) |
+| [[Champ|field]] Methods | 混合方法 | [FM](https://journals.sagepub.com/home/fmx) |
 | Quality and Quantity | 混合方法 | [QQ](https://link.springer.com/journal/11135) |
 | International Journal of Social Research Methodology | 混合方法 | [IJSRM](https://www.tandfonline.com/toc/tsrm20/current) |
 | Annals of Family Medicine | 混合方法 | [AFM](https://www.annfammed.org/) |

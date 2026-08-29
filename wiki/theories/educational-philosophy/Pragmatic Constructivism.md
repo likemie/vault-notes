@@ -65,9 +65,9 @@ updated: '2026-06-22'
 > [!entry-map]
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
-> | [[Constructivist Paradigm\|建构主义转向]] | [[Paradigm\|范式]]背景 | 强调学习者的主动自我调节（Self-regulation）与认知图式建构，取代外部控制的行为主义范式（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 7]]）。 |
-> | [[Phenomenon-Based Learning\|现象本位学习]] | 教学[[Praxis\|实践]] | 该理论为现象本位学习提供了心理学和教学法基础，强调跨学科现象探究的生态与社会性维度（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 7–8]]）。 |
-> | 课程自我修正模型 | [[Analytic Framework\|分析框架]] | 视课程为动态、不断反思修正的过程，用以打破理论与学校实践的隔阂（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 8]]）。 |
+> | [[Constructivist Paradigm|建构主义转向]] | [[Paradigm|范式]]背景 | 强调学习者的主动自我调节（Self-regulation）与认知图式建构，取代外部控制的行为主义范式（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 7]]）。 |
+> | [[Phenomenon-Based Learning|现象本位学习]] | 教学[[Praxis|实践]] | 该理论为现象本位学习提供了心理学和教学法基础，强调跨学科现象探究的生态与社会性维度（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 7–8]]）。 |
+> | 课程自我修正模型 | [[Analytic Framework|分析框架]] | 视课程为动态、不断反思修正的过程，用以打破理论与学校实践的隔阂（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 8]]）。 |
 
 ---
 

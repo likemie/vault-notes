@@ -124,7 +124,7 @@ updated: 2026-08-24
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **认知加工与排练** | 思考等待时间与同伴对讲促进深层概念建构与焦虑缓解 | 中小学与大学常态课堂概念教学 | Lyman (1981); Rowe (1986) |
-> | **普适参与支撑** | 作为低门槛微结构，保障大班教学中 100% 的即时认知参与 | 跨学科大班互动与合作学习基础模块 | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]]; Kagan (1994) |
+> | **普适参与支撑** | 作为低门槛微结构，保障大班教学中 100% 的即时认知参与 | 跨学科大班互动与合作学习基础模块 | [[Argument_Gungor_2026_CP|Güngör et al. (2026)]]; Kagan (1994) |
 
 ---
 
@@ -150,16 +150,16 @@ updated: 2026-08-24
 > [!ma-table]- 一阶[[Meta-analysis|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与预测区间 | 关键解释边界 |
+> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval|CI]] | [[Heterogeneity|异质性]]与预测区间 | 关键解释边界 |
 > |---|---|---|---|---|---|---|
-> | 综合合作学习研究池，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 干预因素：[[Totally Pedagogised Society\|TPS]] 作为核心组成部分的综合[[Cooperative Learning\|合作学习]]对总体学习产出的促进效应 | $k = 14$（一阶汇总效应数） / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.61$ $[0.40, 0.81]$ | — | 在一阶元分析中通常作为常态课堂综合合作学习策略整合报告 |
+> | 综合合作学习研究池，引自 [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] | 干预因素：[[Totally Pedagogised Society|TPS]] 作为核心组成部分的综合[[Cooperative Learning|合作学习]]对总体学习产出的促进效应 | $k = 14$（一阶汇总效应数） / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.61$ $[0.40, 0.81]$ | — | 在一阶元分析中通常作为常态课堂综合合作学习策略整合报告 |
 
 > [!ma-table]- [[Meta-meta-analysis|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
 >
 > | 二阶元分析 | 当前概念角色与总体结果 | 证据规模 $M$ / $E$ / $k$ / $N$ | 效应指标与模型 | 二阶汇总效应与 95% CI | 异质性与 95% PI | 关键解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 干预因素：涵盖 TPS 等常态技术的合作学习对学生学习产出的综合干预效应 | $M = 15$；$E = 23$；$k = 403$；$N = —$ | Cohen's $d$ / 随机效应模型经典逆方差加权 | $ES = 0.71$ $[0.55, 0.87]$ | $Q(22) = 349.48, p < .01, I^2 = 93.70\%$ | 二阶宏观基准，确立了以 TPS 为代表的生生互动策略对学业与[[Higher-Order Thinking Skills\|高阶思维]]的稳健促进 |
+> | [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] | 干预因素：涵盖 TPS 等常态技术的合作学习对学生学习产出的综合干预效应 | $M = 15$；$E = 23$；$k = 403$；$N = —$ | Cohen's $d$ / 随机效应模型经典逆方差加权 | $ES = 0.71$ $[0.55, 0.87]$ | $Q(22) = 349.48, p < .01, I^2 = 93.70\%$ | 二阶宏观基准，确立了以 TPS 为代表的生生互动策略对学业与[[Higher-Order Thinking Skills|高阶思维]]的稳健促进 |
 
 ---
 

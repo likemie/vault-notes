@@ -80,9 +80,9 @@ citation_aliases: []
 ## 概念辨析
 
 > [!contrast-table] 全语言与相关识字教学概念的对比
-> | 对比维度 | 全语言 (Whole Language) | [[Language Experience Approach\|语言经验法]] (LEA) | [[Simple View of Reading\|简单阅读观]] (Simple View) | [[Direct Instruction\|直接教学]] (Direct Instruction) |
+> | 对比维度 | 全语言 (Whole Language) | [[Language Experience Approach|语言经验法]] (LEA) | [[Simple View of Reading|简单阅读观]] (Simple View) | [[Direct Instruction|直接教学]] (Direct Instruction) |
 > | :--- | :--- | :--- | :--- | :--- |
-> | **核心定义** | 基于真实语境和文学作品整体习得语言的教学哲学 (Goodman, 2005)。 | 基于儿童自身口语经验和记录生成读写材料的早期方法 (Allen, 1964)。 | 认为阅读理解等于[[Decodification\|解码]]与听力理解的乘积 (Gough & Tunmer, 1986)。 | 教师主导的、高度结构化的明确技能训练序列。 |
+> | **核心定义** | 基于真实语境和文学作品整体习得语言的教学哲学 (Goodman, 2005)。 | 基于儿童自身口语经验和记录生成读写材料的早期方法 (Allen, 1964)。 | 认为阅读理解等于[[Decodification|解码]]与听力理解的乘积 (Gough & Tunmer, 1986)。 | 教师主导的、高度结构化的明确技能训练序列。 |
 > | **拼读地位** | 拼读是自然融入共享阅读和写作情境的技能，非孤立传授 (Hornsby, 1993)。 | 拼读和写作结合，主要基于儿童口语词汇来建立音形关联。 | 拼读（解码）是阅读的必要前提和物理核心，必须“先、快、且唯一” (Rose, 2006)。 | 拼读被切分为细小步骤进行显性、系统和脱离情境的强化训练。 |
 > | **阅读理解观** | 阅读即理解，理解是读者主动利用多重线索建构意义的猜测游戏 (Goodman, 1967)。 | 阅读是儿童将自我思想与他人文字连接的口语连续体 (p.144)。 | 理解与解码分离，解码是阅读的必要前提 (p.149)。 | 理解被拆解为可单独测量的词汇、段落归纳等子技能。 |
 

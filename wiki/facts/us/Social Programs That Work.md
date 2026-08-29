@@ -99,8 +99,8 @@ updated: 2026-08-21
 > [!contrast-table] SPTW 评级层级与标准
 > | 评级等级 | 核心准入条件与证据门槛 |
 > |:---|:---|
-> | **Top [[Top Institute for Evidence-Based Education Research\|TIER]]（顶级项目·最高级）** | 拥有 **1 项或多项良好实施的大型多中心 [[Randomised Controlled Trials\|RCT]]**；[[Attrition\|样本流失]]极低；在具有重大政策意义的最终结果（如大学毕业、实际收入、犯罪减少）上展示统计显著且实质重要的正效应；并在不同地点成功复制。 |
-> | **Near Top Tier（接近顶级）** | 拥有实施良好的高质量 RCT，产生了有希望的显著结果，但在[[Sample Size Determination\|样本量]]、随访周期或跨地点复制数量上稍有欠缺，尚待进一步验证。 |
+> | **Top [[Top Institute for Evidence-Based Education Research|TIER]]（顶级项目·最高级）** | 拥有 **1 项或多项良好实施的大型多中心 [[Randomised Controlled Trials|RCT]]**；[[Attrition|样本流失]]极低；在具有重大政策意义的最终结果（如大学毕业、实际收入、犯罪减少）上展示统计显著且实质重要的正效应；并在不同地点成功复制。 |
+> | **Near Top Tier（接近顶级）** | 拥有实施良好的高质量 RCT，产生了有希望的显著结果，但在[[Sample Size Determination|样本量]]、随访周期或跨地点复制数量上稍有欠缺，尚待进一步验证。 |
 > | **Suggestive Tier（启发性项目）** | 具备初步 RCT 证据，但存在一定方法学局限，仅供探索性参考。 |
 
 ---

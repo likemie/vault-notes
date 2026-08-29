@@ -151,4 +151,4 @@ related_arguments:
 > | [[Cultural Hierarchy]] | 概念 | 儒家复兴在教育中建立了汉儒中心与少数民族边缘的文化等级。 |
 > | [[Cultural Disembedding]] | 概念 | 强行推行儒家复兴在少数民族学生中引发的疏离后果。 |
 > | [[Sinicisation]] | 概念 | 儒家复兴与中国化/汉化政策紧密交织。 |
-> | [[Soft Power]] | 概念 | 儒家符号通过[[Confucius\|孔子]]学院被用作对外软实力工具。 |
+> | [[Soft Power]] | 概念 | 儒家符号通过[[Confucius|孔子]]学院被用作对外软实力工具。 |

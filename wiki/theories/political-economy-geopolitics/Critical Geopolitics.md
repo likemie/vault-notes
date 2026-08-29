@@ -91,15 +91,15 @@ updated: 2026-06-30
 > [!entry-map] 理论构件
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
-> | [[Relational Space\|关系性空间]] | 概念 | 替代[[Classical Geopolitics\|古典地缘政治]]的领土空间观——空间是多重社会关系的动态配置而非固定容器 |
-> | [[Hub and Flow Imaginaries\|枢纽与流动想象]] | 概念 | 政治想象的履行性力量的当代表现：将全球空间划分为知识资本流动的枢纽中心与被动接受流动的边缘区域 |
-> | [[Geopolitical Subject\|地缘政治主体]] | 概念 | 高等教育空间被用于塑造知识密集型资本主义所需的主体性——创新性、创业性、连接性 |
-> | [[Spatial Sortings\|空间分选]] | 机制 | [[Knowledge-Based Economization\|知识经济化]]将某些地点和人群置于发展中心，同时边缘化其他，国家通过空间选择性政策中介 |
-> | [[Fixity-Motion Tension\|固着-流动张力]] | 机制 | 资本需要地方锚定来促进流动，但流动又不断破坏既有空间配置——Harvey 揭示的核心地缘政治悖论 |
-> | [[Hegemony\|霸权理论]]（Gramsci, 1971） | 理论资源 | 分析文化领导权和意识形态如何通过日常制度和话语[[Praxis\|实践]]获得同意 |
-> | [[Cultural Political Economy\|文化政治经济学]]（Jessop, 2005） | 理论资源 | 揭示"想象"的履行性——话语和象征不仅反映经济过程，更主动构成经济过程 |
-> | [[Economic Patriotism\|经济爱国主义]] | 概念 | 国家在[[Knowledge-Based Economy\|知识经济]]化中作为空间分选中介和竞争力推手的角色 |
-> | [[Decolonial Geopolitics of Knowledge\|去殖民知识地缘政治]] | 互补理论 | 与批判地缘政治构成[[Geopolitics of Knowledge\|知识地缘政治]]的两条理论脉络，从去殖民视角进一步追问知识生产的种族和殖民维度 |
+> | [[Relational Space|关系性空间]] | 概念 | 替代[[Classical Geopolitics|古典地缘政治]]的领土空间观——空间是多重社会关系的动态配置而非固定容器 |
+> | [[Hub and Flow Imaginaries|枢纽与流动想象]] | 概念 | 政治想象的履行性力量的当代表现：将全球空间划分为知识资本流动的枢纽中心与被动接受流动的边缘区域 |
+> | [[Geopolitical Subject|地缘政治主体]] | 概念 | 高等教育空间被用于塑造知识密集型资本主义所需的主体性——创新性、创业性、连接性 |
+> | [[Spatial Sortings|空间分选]] | 机制 | [[Knowledge-Based Economization|知识经济化]]将某些地点和人群置于发展中心，同时边缘化其他，国家通过空间选择性政策中介 |
+> | [[Fixity-Motion Tension|固着-流动张力]] | 机制 | 资本需要地方锚定来促进流动，但流动又不断破坏既有空间配置——Harvey 揭示的核心地缘政治悖论 |
+> | [[Hegemony|霸权理论]]（Gramsci, 1971） | 理论资源 | 分析文化领导权和意识形态如何通过日常制度和话语[[Praxis|实践]]获得同意 |
+> | [[Cultural Political Economy|文化政治经济学]]（Jessop, 2005） | 理论资源 | 揭示"想象"的履行性——话语和象征不仅反映经济过程，更主动构成经济过程 |
+> | [[Economic Patriotism|经济爱国主义]] | 概念 | 国家在[[Knowledge-Based Economy|知识经济]]化中作为空间分选中介和竞争力推手的角色 |
+> | [[Decolonial Geopolitics of Knowledge|去殖民知识地缘政治]] | 互补理论 | 与批判地缘政治构成[[Geopolitics of Knowledge|知识地缘政治]]的两条理论脉络，从去殖民视角进一步追问知识生产的种族和殖民维度 |
 
 ---
 

@@ -114,9 +114,9 @@ updated: 2026-08-26
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 治理维度 | 代表案例 / 来源 |
 > |---|---|---|---|
-> | **赋权与留任保障** | 自主权提升满意度，直接遏制师资流失 | 教师工作环境与专业信任 | Arthur & Bradley (2022); [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026a)]] |
-> | **卓越与公平双赢** | 宏观宽大纲赋权教师因材施教 | 课程治理与国际比较 | [[Estonian STEM Education Model\|爱沙尼亚 STEM 模式]]; The Royal Society |
-> | **制度信任与能动性** | 制度性不信任压制能动性，研究使用缺陷源于系统条件 | 治理机制与专业自主 | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] |
+> | **赋权与留任保障** | 自主权提升满意度，直接遏制师资流失 | 教师工作环境与专业信任 | Arthur & Bradley (2022); [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026a)]] |
+> | **卓越与公平双赢** | 宏观宽大纲赋权教师因材施教 | 课程治理与国际比较 | [[Estonian STEM Education Model|爱沙尼亚 STEM 模式]]; The Royal Society |
+> | **制度信任与能动性** | 制度性不信任压制能动性，研究使用缺陷源于系统条件 | 治理机制与专业自主 | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] |
 
 ---
 

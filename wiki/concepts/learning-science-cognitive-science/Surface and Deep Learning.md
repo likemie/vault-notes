@@ -218,12 +218,12 @@ updated: 2026-08-20
 > [!ma-table]- [[Meta-analysis|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 元分析 | [[Dependent Variable\|结果变量]] | k / N | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与预测区间 | 证据确定性 |
+> | 元分析 | [[Dependent Variable|结果变量]] | k / N | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval|CI]] | [[Heterogeneity|异质性]]与预测区间 | 证据确定性 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Hattie_2015_SOTLP\|Henk & Stahl (1985, as cited in Hattie, 2015b, p. 84)]] | 听讲时记笔记后的学习结果 | — | Cohen's d；模型未报告 | d = 0.34；95% CI 未报告 | 未报告 | 原文未评级；二手转引，不能据此区分表层或深层结果 |
-> | [[Argument_Hattie_2015_SOTLP\|Henk & Stahl (1985, as cited in Hattie, 2015b, p. 84)]] | 复习同一批笔记后的学习结果 | — | Cohen's d；模型未报告 | d = 1.56；95% CI 未报告 | 未报告 | 原文未评级；结果表明后续加工的效果高于单纯记录，但测量层次未说明 |
-> | [[Argument_Hattie_2015_SOTLP\|Hattie (2015b)]] | [[Problem-Based Learning\|问题本位学习]]的总体学习结果 | 9 项元分析 / N 未报告 | Cohen's d；二级综合模型未报告 | d ≈ 0.08；95% CI 未报告 | 各元分析结果约为 −0.30 至 0.32；未报告正式异质性指标 | 原文未评级；平均值混合了知识获取、技能、评估结果和不同学段 |
-> | [[Argument_Hattie_2015_SOTLP\|Dochy et al. (2003, as cited in Hattie, 2015b, p. 86)]] | 问题本位学习中的知识获取 | — | Cohen's d；模型未报告 | d = −0.79；95% CI 未报告 | 未报告 | 原文未评级；说明缺乏事实基础时的风险，不能推出问题本位学习普遍无效 |
+> | [[Argument_Hattie_2015_SOTLP|Henk & Stahl (1985, as cited in Hattie, 2015b, p. 84)]] | 听讲时记笔记后的学习结果 | — | Cohen's d；模型未报告 | d = 0.34；95% CI 未报告 | 未报告 | 原文未评级；二手转引，不能据此区分表层或深层结果 |
+> | [[Argument_Hattie_2015_SOTLP|Henk & Stahl (1985, as cited in Hattie, 2015b, p. 84)]] | 复习同一批笔记后的学习结果 | — | Cohen's d；模型未报告 | d = 1.56；95% CI 未报告 | 未报告 | 原文未评级；结果表明后续加工的效果高于单纯记录，但测量层次未说明 |
+> | [[Argument_Hattie_2015_SOTLP|Hattie (2015b)]] | [[Problem-Based Learning|问题本位学习]]的总体学习结果 | 9 项元分析 / N 未报告 | Cohen's d；二级综合模型未报告 | d ≈ 0.08；95% CI 未报告 | 各元分析结果约为 −0.30 至 0.32；未报告正式异质性指标 | 原文未评级；平均值混合了知识获取、技能、评估结果和不同学段 |
+> | [[Argument_Hattie_2015_SOTLP|Dochy et al. (2003, as cited in Hattie, 2015b, p. 86)]] | 问题本位学习中的知识获取 | — | Cohen's d；模型未报告 | d = −0.79；95% CI 未报告 | 未报告 | 原文未评级；说明缺乏事实基础时的风险，不能推出问题本位学习普遍无效 |
 
 这些[[Effect Size|效应量]]没有直接测量统一的深层学习结果。Hattie 指出，大量研究依赖表层学习指标。因此，表格适合说明教学活动与后续加工的差异，不能单凭数值证明学生已经形成概念理解或迁移能力。[[Argument_Hattie_2015_Paideia|Hattie (2015a, pp. 18–19)]]；[[Argument_Qvortrup_2015_Paideia|Qvortrup (2015, pp. 27–29)]]
 

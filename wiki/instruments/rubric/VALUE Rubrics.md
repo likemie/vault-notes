@@ -77,9 +77,9 @@ updated: '2026-08-27'
 >
 > | 量规模块 | 核心维度 | 评定重点 | 表现阶梯 |
 > |---|---|---|---|
-> | **批判性思维量规（Critical Thinking Rubric）** | **解释说明（Explanation of issues）** | [[Problem Finding\|问题界定]]清晰度、背景脉络完整性与关键争议识别。 | 4 个层级（基准 1 分 $\to$ 里程碑 2–3 分 $\to$ 顶峰 4 分） |
-> | 同上 | **证据使用（Evidence）** | 来源[[Reliability\|可靠性]]评估、数据解读充分度与对反面证据的包容审视。 | 同上 |
-> | 同上 | **情境与[[Hypothesis\|假设]]（Context and assumptions）** | 识别自身与他人立场中的未言明假设及其文化/学科情境约束。 | 同上 |
+> | **批判性思维量规（Critical Thinking Rubric）** | **解释说明（Explanation of issues）** | [[Problem Finding|问题界定]]清晰度、背景脉络完整性与关键争议识别。 | 4 个层级（基准 1 分 $\to$ 里程碑 2–3 分 $\to$ 顶峰 4 分） |
+> | 同上 | **证据使用（Evidence）** | 来源[[Reliability|可靠性]]评估、数据解读充分度与对反面证据的包容审视。 | 同上 |
+> | 同上 | **情境与[[Hypothesis|假设]]（Context and assumptions）** | 识别自身与他人立场中的未言明假设及其文化/学科情境约束。 | 同上 |
 > | 同上 | **个人立场（Student's position）** | 提出明确、具备自我反思且充分吸纳反驳意见的独立主张。 | 同上 |
 > | 同上 | **结论与后果（Conclusions and outcomes）** | 结论与证据的逻辑契合度及对潜在深远影响的预判。 | 同上 |
 > | **创造性思维量规（Creative Thinking Rubric）** | **获取好奇（Acquiring competencies）** | 突破常规范畴、主动探索未知领域与整合多源知识的意愿。 | 同上 |
@@ -106,8 +106,8 @@ updated: '2026-08-27'
 >
 > | 研究 | 工具版本 | 样本与用途 | 测量属性 | 关键结果 |
 > |---|---|---|---|---|
-> | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] | VALUE Rubrics | 政策与实践综述，考察全美高校在从标准化统考（如 [[Voluntary System of Accountability\|VSA]]）向校本评分量规转向过程中对批判性与[[Creativity\|创造性思维]]的评价实践 | [[Authentic Assessment\|表现性评价]]的[[Ecological Validity\|生态效度]]与[[External Validity\|可推广性]] | 表明相较于标准化闭卷测试，VALUE 量规更受大学教师认可且更易与课程教学相融合，但跨校评分一致性与大规模校准成本仍是其主要限制 |
-> | Hart Research Associates (2016) | VALUE Rubrics 全套 | 全美 325 所高等院校学术主管调查，考察本科生核心能力评价工具的普及率 | 院校采用率与评价实践分布 | 调查显示超过 40% 的受访院校正式采用或参考了 VALUE 量规评估学生通用能力，批判性思维与书面沟通量规使用最为广泛（引自 [[Argument_Bouckaert_2023_OECD\|Bouckaert, 2023, p. 27]]） |
+> | [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] | VALUE Rubrics | 政策与实践综述，考察全美高校在从标准化统考（如 [[Voluntary System of Accountability|VSA]]）向校本评分量规转向过程中对批判性与[[Creativity|创造性思维]]的评价实践 | [[Authentic Assessment|表现性评价]]的[[Ecological Validity|生态效度]]与[[External Validity|可推广性]] | 表明相较于标准化闭卷测试，VALUE 量规更受大学教师认可且更易与课程教学相融合，但跨校评分一致性与大规模校准成本仍是其主要限制 |
+> | Hart Research Associates (2016) | VALUE Rubrics 全套 | 全美 325 所高等院校学术主管调查，考察本科生核心能力评价工具的普及率 | 院校采用率与评价实践分布 | 调查显示超过 40% 的受访院校正式采用或参考了 VALUE 量规评估学生通用能力，批判性思维与书面沟通量规使用最为广泛（引自 [[Argument_Bouckaert_2023_OECD|Bouckaert, 2023, p. 27]]） |
 
 ---
 
@@ -119,4 +119,4 @@ updated: '2026-08-27'
 > | 版本 | 语言与地区 | 目标人群 | 题项数 | 主要变化 | 来源 |
 > |---|---|---|---|---|---|
 > | 原始 16 套 VALUE 量规 | 英语（美国） | 本科生 | 16 套独立量规 | 确立 16 项通识能力标准及 4 级描述阶梯 | Rhodes (2009) |
-> | [[OECD]]/CERI [[Creativity\|创造力]]与[[Critical Thinking\|批判性思维]]量规 | 英语/法语/多语 | 大中小学生 | 领域化与通识量规 | 经 OECD CERI 项目根据国际教学情境改编的专门量规 | Vincent-Lancrin et al. (2019) |
+> | [[OECD]]/CERI [[Creativity|创造力]]与[[Critical Thinking|批判性思维]]量规 | 英语/法语/多语 | 大中小学生 | 领域化与通识量规 | 经 OECD CERI 项目根据国际教学情境改编的专门量规 | Vincent-Lancrin et al. (2019) |

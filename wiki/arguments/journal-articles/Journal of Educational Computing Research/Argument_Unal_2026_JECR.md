@@ -136,13 +136,13 @@ issuing_organization: ""
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **Zawacki-Richter 高等教育人工智能四维分类框架**<br>[[Zawacki-Richter AI in Higher Education Framework]] | 依据 Zawacki-Richter et al. (2019) 的分类框架，将 AI 教育应用系统划分为画像与预测、评估与评定、自适应系统与个性化、智能导学系统四大核心教学服务域，为本研究对多元 AI 工具的[[Operationalization\|操作化]]分类提供顶层理论架构（pp. 1364–1366）。 |
-> | **布鲁姆教育目标分类学修订版**<br>[[Higher-Order Thinking Skills]] | 区分记忆、理解、应用等较低阶认知目标与分析、评价、创造等高阶思维技能，为将 AI 带来的[[Learning Gain\|学习增益]]拆解为基础知识掌握与复杂认知发展提供理论分类标准（pp. 1365–1366）。 |
-> | **高阶思维技能五维分类框架**<br>[[Critical Thinking]] | 整合 Resnick (1987)、McLoughlin & Mynard (2009) 与 Liu et al. (2024) 的界定，将高阶思维[[Operationalization\|操作化]]为问题解决、[[Metacognition\|元认知]]、批判性思维、团队协作与创新发展五大维度，用以检验 AI 是否仅停留于浅层算法应答。 |
-> | **二阶元分析方法论框架**<br>[[Meta-meta-analysis]] | 依据 Schmidt & Oh (2013) 与 Oh (2020) 的理论，将一阶[[Meta-analysis\|元分析]]的标准化[[Effect Size\|效应量]]作为分析单位，通过[[Fixed-Effect and Random-Effects Models\|随机效应模型]]与经典[[Inverse-Variance Weighting\|逆方差加权]]消除一阶[[Sampling Error\|抽样误差]]，合成全领域宏观效应基准（p. 1367）。 |
-> | **PRISMA 2020 系统评价规范**<br>[[Coding in Qualitative Research]] | 遵循[[PRISMA\|系统评价和元分析优先报告条目]] 2020 年版（Preferred Reporting Items for Systematic Reviews and Meta-Analyses, PRISMA 2020）指南，提供包含识别、筛查、合格性审查与最终纳入的四阶段循证筛选架构，确保二阶样本提取的透明性与可重复性（Page et al., 2021; pp. 1367–1369）。 |
+> | **Zawacki-Richter 高等教育人工智能四维分类框架**<br>[[Zawacki-Richter AI in Higher Education Framework]] | 依据 Zawacki-Richter et al. (2019) 的分类框架，将 AI 教育应用系统划分为画像与预测、评估与评定、自适应系统与个性化、智能导学系统四大核心教学服务域，为本研究对多元 AI 工具的[[Operationalization|操作化]]分类提供顶层理论架构（pp. 1364–1366）。 |
+> | **布鲁姆教育目标分类学修订版**<br>[[Higher-Order Thinking Skills]] | 区分记忆、理解、应用等较低阶认知目标与分析、评价、创造等高阶思维技能，为将 AI 带来的[[Learning Gain|学习增益]]拆解为基础知识掌握与复杂认知发展提供理论分类标准（pp. 1365–1366）。 |
+> | **高阶思维技能五维分类框架**<br>[[Critical Thinking]] | 整合 Resnick (1987)、McLoughlin & Mynard (2009) 与 Liu et al. (2024) 的界定，将高阶思维[[Operationalization|操作化]]为问题解决、[[Metacognition|元认知]]、批判性思维、团队协作与创新发展五大维度，用以检验 AI 是否仅停留于浅层算法应答。 |
+> | **二阶元分析方法论框架**<br>[[Meta-meta-analysis]] | 依据 Schmidt & Oh (2013) 与 Oh (2020) 的理论，将一阶[[Meta-analysis|元分析]]的标准化[[Effect Size|效应量]]作为分析单位，通过[[Fixed-Effect and Random-Effects Models|随机效应模型]]与经典[[Inverse-Variance Weighting|逆方差加权]]消除一阶[[Sampling Error|抽样误差]]，合成全领域宏观效应基准（p. 1367）。 |
+> | **PRISMA 2020 系统评价规范**<br>[[Coding in Qualitative Research]] | 遵循[[PRISMA|系统评价和元分析优先报告条目]] 2020 年版（Preferred Reporting Items for Systematic Reviews and Meta-Analyses, PRISMA 2020）指南，提供包含识别、筛查、合格性审查与最终纳入的四阶段循证筛选架构，确保二阶样本提取的透明性与可重复性（Page et al., 2021; pp. 1367–1369）。 |
 > | **R-AMSTAR 系统评价质量评估工具**<br>[[AMSTAR]] | 采用系统评价方法学质量评估工具修订版（Revised Assessment of Multiple Systematic Reviews, R-AMSTAR; Kung et al., 2010; Young, 2017）的 12 项准则（排除临床项 8C/8D），对纳入的一阶元分析进行方法学质量量化评级（0–44 分），识别质量对效应量的调节作用（pp. 1370–1373）。 |
-> | **GROOVE 重叠分析与校正覆盖面积矩阵**<br>[[GROOVE]] · [[Corrected Covered Area]] | 运用[[GROOVE\|系统评价重叠图形表征工具]]（Graphical Representation of Overlap for OVErviews, GROOVE; Bracchiglione et al., 2022）计算[[Corrected Covered Area\|校正覆盖面积]]（Corrected Covered Area, CCA），设定 10% 重叠率排除阈值，解决一阶元分析因共享初级研究导致的双重计数与假阳性膨胀（pp. 1373–1375）。 |
+> | **GROOVE 重叠分析与校正覆盖面积矩阵**<br>[[GROOVE]] · [[Corrected Covered Area]] | 运用[[GROOVE|系统评价重叠图形表征工具]]（Graphical Representation of Overlap for OVErviews, GROOVE; Bracchiglione et al., 2022）计算[[Corrected Covered Area|校正覆盖面积]]（Corrected Covered Area, CCA），设定 10% 重叠率排除阈值，解决一阶元分析因共享初级研究导致的双重计数与假阳性膨胀（pp. 1373–1375）。 |
 
 > [!warrant]- 理论如何支撑论证
 > [[Bloom's Taxonomy|布鲁姆教育目标分类学]]与五维高阶思维框架使本研究摆脱了将所有学生产出简单混同为单一成绩指标的粗放模式，将认知产出清晰区隔为基础事实掌握（[[Academic Achievement|学业成就]]）与复杂探究能力（高阶思维），进而能够实证检验 AI 工具究竟是在取代人类低阶记忆还是真正赋能深层反思。在方法层面上，二阶元分析与 GROOVE 重叠矩阵构成了破除现有证据冲突的技术桥梁：现有 FOM 效应量离散的根源不仅在于实质教学情境差异，更在于[[Document|文献]]重叠与质量参差；通过 CCA 矩阵剔除重叠率超过 10% 的冗余元分析，并引入 R-AMSTAR 质量评分与[[Publication Bias|发表偏倚]]综合诊断，能够有效剥离方法学假象，提炼出真正反映 AI 教育干预效能的稳健证据（pp. 1365–1375）。
@@ -152,19 +152,19 @@ issuing_organization: ""
 ### 核心变量与操作化编码表
 
 > [!index-table] 核心[[Variable|变量]]操作化定义与编码规程（pp. 1370–1374）
-> | 变量维度与分类 | [[Construct\|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
+> | 变量维度与分类 | [[Construct|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
 > |---|---|---|
-> | **[[Academic Achievement\|学业成就]]（Academic Achievement）** | 学生在特定学科教学大纲要求下对事实性知识、概念理解与[[Procedural Skill\|程序性技能]]的掌握水平，属于布鲁姆认知目标分类学中的识记、领会与常规应用层级（York et al., 2015; Steinmayr et al., 2024）。 | 典型测量工具：标准化学科期末统考、课程知识测验、平均学分绩点（Grade Point Average, GPA）、托福（Test of English as a Foreign Language, TOEFL）与雅思（International English Language Testing System, IELTS）标准化模拟测试；纳入 8 项独立 FOM：Dong et al. (2025, 多学科, $ES = .92$)、Tlili et al. (2025, 多学科, $ES = 1.10$)、Tlili (2024, 计算机科学, $ES = 1.36$)、Wu & Li (2024, 语言, $ES = .65$)、Chen et al. (2025, 语言评估, $ES = .39$)、Lee & Lee (2024, 语言, $ES = .39$)、Hwang (2022, 数学, $ES = .35$)、Lin et al. (2022, 多学科, $ES = .51$)；亚组加权平均 $ES = .68$（95% CI [.48, .87]）。 |
-> | **[[Higher-Order Thinking Skills\|高阶思维技能]]（Higher-Order Thinking Skills, HOTS）** | 依据布鲁姆修订版分类学与五维高阶思维框架（Liu et al., 2024），指超越机械识记与算法性规则套用的复杂自我调节认知过程，涵盖计算思维、[[Critical Thinking\|批判性思维]]、复杂问题解决、元认知监控与创造性倾向（Resnick, 1987; Liu et al., 2024）。 | 典型测量工具：加州批判性思维倾向问卷（California Critical Thinking Disposition Inventory, CCTDI）、计算思维量表（Computational Thinking Scale, CTS）、开放性探究任务表现评价量规、创造性解题测验；纳入 Dibek et al. (2025, 多学科, $ES = .63$, 95% CI [.12, 1.14]) 1 项专门 FOM（涵盖 29 项初级研究、2,966 名学生）；并在 10 项综合 FOM 中作为复合因变量。 |
+> | **[[Academic Achievement|学业成就]]（Academic Achievement）** | 学生在特定学科教学大纲要求下对事实性知识、概念理解与[[Procedural Skill|程序性技能]]的掌握水平，属于布鲁姆认知目标分类学中的识记、领会与常规应用层级（York et al., 2015; Steinmayr et al., 2024）。 | 典型测量工具：标准化学科期末统考、课程知识测验、平均学分绩点（Grade Point Average, GPA）、托福（Test of English as a Foreign Language, TOEFL）与雅思（International English Language Testing System, IELTS）标准化模拟测试；纳入 8 项独立 FOM：Dong et al. (2025, 多学科, $ES = .92$)、Tlili et al. (2025, 多学科, $ES = 1.10$)、Tlili (2024, 计算机科学, $ES = 1.36$)、Wu & Li (2024, 语言, $ES = .65$)、Chen et al. (2025, 语言评估, $ES = .39$)、Lee & Lee (2024, 语言, $ES = .39$)、Hwang (2022, 数学, $ES = .35$)、Lin et al. (2022, 多学科, $ES = .51$)；亚组加权平均 $ES = .68$（95% CI [.48, .87]）。 |
+> | **[[Higher-Order Thinking Skills|高阶思维技能]]（Higher-Order Thinking Skills, HOTS）** | 依据布鲁姆修订版分类学与五维高阶思维框架（Liu et al., 2024），指超越机械识记与算法性规则套用的复杂自我调节认知过程，涵盖计算思维、[[Critical Thinking|批判性思维]]、复杂问题解决、元认知监控与创造性倾向（Resnick, 1987; Liu et al., 2024）。 | 典型测量工具：加州批判性思维倾向问卷（California Critical Thinking Disposition Inventory, CCTDI）、计算思维量表（Computational Thinking Scale, CTS）、开放性探究任务表现评价量规、创造性解题测验；纳入 Dibek et al. (2025, 多学科, $ES = .63$, 95% CI [.12, 1.14]) 1 项专门 FOM（涵盖 29 项初级研究、2,966 名学生）；并在 10 项综合 FOM 中作为复合因变量。 |
 > | **综合学习成果（Combined Outcomes）** | 一阶元分析未对基础学业成就与高阶认知或情感分量进行完全剥离，直接综合报告的宏观学习产出指标。 | 典型测量工具：综合课程评价档案袋、学业成绩与认知或态度混合合成指数；纳入 10 项独立 FOM：Setiawan et al. (2025, $ES = .58$)、Dai et al. (2024, $ES = .43$)、Yi et al. (2025, $ES = .32$)、Zheng et al. (2023, $ES = .70$)、García-Martínez et al. (2023, $ES = .72$)、Wu (2024, $ES = .98$)、Liu et al. (2025, $ES = .97$)、Wang et al. (2024, $ES = .70$)、Zhang et al. (2024, $ES = .59$)、Deng et al. (2025, $ES = .72$)；亚组加权平均 $ES = .67$（95% CI [.50, .83]）。 |
-> | **智能[[Dialogue in Education\|对话]]代理与聊天机器人（AI Chatbots & Conversational Agents）** | 依托自然语言处理（Natural Language Processing, NLP）与大语言模型（Large Language Model, LLM，如 ChatGPT、GPT-4）或规则驱动的对话式智能辅导系统，能够模拟人类教师或学伴进行即时互动、[[Socrates\|苏格拉底]]式追问与个性化语言交流。 | 教学规程：学生提出问题 $\to$ 聊天机器人提供自适应解释或引导性线索 $\to$ 开展多轮人机对话反思 $\to$ 总结提炼；典型工具：ChatGPT, Dialogflow, Duolingo Max, 智能外语口语助手；纳入 4 项独立 FOM：Liu et al. (2025, 语言, $ES = .97$)、Wu & Li (2024, 语言, $ES = .65$)、Zhang et al. (2024, 残障学生, $ES = .59$)、Deng et al. (2025, 多学科, $ES = .72$)；亚组加权平均 $ES = .74$（95% CI [.49, .98]）。 |
+> | **智能[[Dialogue in Education|对话]]代理与聊天机器人（AI Chatbots & Conversational Agents）** | 依托自然语言处理（Natural Language Processing, NLP）与大语言模型（Large Language Model, LLM，如 ChatGPT、GPT-4）或规则驱动的对话式智能辅导系统，能够模拟人类教师或学伴进行即时互动、[[Socrates|苏格拉底]]式追问与个性化语言交流。 | 教学规程：学生提出问题 $\to$ 聊天机器人提供自适应解释或引导性线索 $\to$ 开展多轮人机对话反思 $\to$ 总结提炼；典型工具：ChatGPT, Dialogflow, Duolingo Max, 智能外语口语助手；纳入 4 项独立 FOM：Liu et al. (2025, 语言, $ES = .97$)、Wu & Li (2024, 语言, $ES = .65$)、Zhang et al. (2024, 残障学生, $ES = .59$)、Deng et al. (2025, 多学科, $ES = .72$)；亚组加权平均 $ES = .74$（95% CI [.49, .98]）。 |
 > | **智能导学与自适应学习系统（[[Intelligent Tutoring Systems]] & Adaptive Systems）** | 具备领域专家知识模型、学生认知状态追踪模型、教学策略决策模型与交互界面的个性化学习系统，能够实现学习路径动态规划与练习难度自适应调整。 | 教学规程：初始先验知识前测 $\to$ 算法动态推送定制化学习内容 $\to$ 提供细粒度即时步骤诊断提示 $\to$ 掌握度达标后晋级；典型系统：ALEKS, Cognitive Tutor, ASSISTments, Knewton；纳入 Wang et al. (2024, 自适应系统, $ES = .70$)、Hwang (2022, $ES = .35$)、Steenbergen-Hu & Cooper (2013) 等；归入多类型 AI 组。 |
 > | **AI 赋能评估与自动化评分反馈工具（AI-enabled Assessment & Automated [[Feedback]] Tools）** | 运用自然语言处理与机器学习算法对学生主观产出（如作文、口语录音、开放问答）实施自动作文评分（Automated Essay Scoring, AES）、错误诊断并生成多维度形成性反馈的专用评估技术。 | 教学规程：学生提交初稿 $\to$ AI 算法即时生成语法、篇章、逻辑层级诊断报告 $\to$ 学生根据反馈进行多轮自主修改与反思 $\to$ 终结性测评；典型工具：ETS Criterion, 批改网, Grammarly Edu；纳入 Chen et al. (2025, K12 英语写作与口语评估, $ES = .39$, 95% CI [-.19, .97]) 1 项专属 FOM。 |
-> | **生成式 AI 编程助手与[[Computational Thinking\|计算思维]]支架（GenAI Code Assistants & Computational Scaffolds）** | 利用代码大模型与生成式[[AI Agent in Education\|智能体]]为学生提供实时代码解释、语法与逻辑纠错、算法思路拆解与伪代码转化的认知脚手架。 | 教学规程：复杂编程任务拆解 $\to$ 提示词构建与代码框架生成 $\to$ AI 代码审查与错误定位 $\to$ 算法效率优化与同伴讨论；典型工具：GitHub Copilot, ChatGPT Code Interpreter；纳入 Tlili (2024, 计算机科学, $ES = 1.36$)、García-Martínez et al. (2023, 计算机科学, $ES = .72$)；亚组加权平均 $ES = .99$（95% CI [.62, 1.35]）。 |
+> | **生成式 AI 编程助手与[[Computational Thinking|计算思维]]支架（GenAI Code Assistants & Computational Scaffolds）** | 利用代码大模型与生成式[[AI Agent in Education|智能体]]为学生提供实时代码解释、语法与逻辑纠错、算法思路拆解与伪代码转化的认知脚手架。 | 教学规程：复杂编程任务拆解 $\to$ 提示词构建与代码框架生成 $\to$ AI 代码审查与错误定位 $\to$ 算法效率优化与同伴讨论；典型工具：GitHub Copilot, ChatGPT Code Interpreter；纳入 Tlili (2024, 计算机科学, $ES = 1.36$)、García-Martínez et al. (2023, 计算机科学, $ES = .72$)；亚组加权平均 $ES = .99$（95% CI [.62, 1.35]）。 |
 > | **综合多类型 AI 教育平台与智能媒体（Multi-type AI Learning Media & Platforms）** | 涵盖多种 AI 技术的集成化智慧学习环境，或一阶元分析未对具体技术子类作拆分的统合型智能教学干预。 | 教学规程：融合自适应内容推送、智能推荐、多模态互动练习与学习分析数据看板；纳入 14 项独立 FOM：Dong et al. (2025, $ES = .92$)、Setiawan et al. (2025, $ES = .58$)、Dai et al. (2024, $ES = .43$)、Dibek et al. (2025, $ES = .63$)、Yi et al. (2025, $ES = .32$)、Zheng et al. (2023, $ES = .70$)、Tlili et al. (2025, $ES = 1.10$)、Wu (2024, $ES = .98$) 等；亚组加权平均 $ES = .66$（95% CI [.53, .79]）。 |
 > | **教育阶段（Education Level）** | 学习者所处学段划分：包含 K12 基础教育（小学至高中）与涵盖本科、研究生及跨学段综合样本的 K12 与高等教育混合学段。 | K12 专属样本（4 项 FOM：Yi et al., 2025; Hwang, 2022; Chen et al., 2025; Zhang et al., 2024，加权平均 $ES = .40$）；K12 与高等教育混合样本（15 项 FOM，如 Tlili, 2024; Dong et al., 2025; Wu, 2024，加权平均 $ES = .73$）；组间差异显著（$Q_{bg}(1) = 6.95, p = .01$）。 |
-> | **学科领域（Education [[Champ\|field]]）** | 教学内容所属学科领域分类：包含计算机科学、作为外语的英语（English as a Foreign Language, EFL）与第二语言（Second Language, L2）读写听说的语言学习领域、多学科综合领域、数学领域。 | 计算机科学（2 项 FOM，加权平均 $ES = .99$）；语言学习（5 项 FOM：Wu, 2024; Liu et al., 2025; Chen et al., 2025; Wu & Li, 2024; Lee & Lee, 2024，加权平均 $ES = .69$）；多学科综合（10 项 FOM，加权平均 $ES = .68$）；数学（2 项 FOM：Yi et al., 2025; Hwang, 2022，加权平均 $ES = .34$）；组间差异显著（$Q_{bg}(3) = 8.36, p = .04$）。 |
-> | **发表偏倚状态（Publication Bias Status）** | 一阶元分析自身经统计检验（[[Funnel Plot\|漏斗图]]、Begg 秩相关、Egger 回归、[[Trim and Fill Method\|剪补法]]）判定的偏倚程度：无偏倚（No）、低偏倚（Low）、中等偏倚（Medium）、高偏倚（Large）。 | 无偏倚（12 项 FOM，加权平均 $ES = .58$）；低偏倚（3 项 FOM，加权平均 $ES = .86$）；中等偏倚（1 项 FOM，加权平均 $ES = 1.10$）；高偏倚（3 项 FOM，加权平均 $ES = .63$）；组间差异显著（$Q_{bg}(3) = 8.90, p = .03$）。 |
+> | **学科领域（Education [[Champ|field]]）** | 教学内容所属学科领域分类：包含计算机科学、作为外语的英语（English as a Foreign Language, EFL）与第二语言（Second Language, L2）读写听说的语言学习领域、多学科综合领域、数学领域。 | 计算机科学（2 项 FOM，加权平均 $ES = .99$）；语言学习（5 项 FOM：Wu, 2024; Liu et al., 2025; Chen et al., 2025; Wu & Li, 2024; Lee & Lee, 2024，加权平均 $ES = .69$）；多学科综合（10 项 FOM，加权平均 $ES = .68$）；数学（2 项 FOM：Yi et al., 2025; Hwang, 2022，加权平均 $ES = .34$）；组间差异显著（$Q_{bg}(3) = 8.36, p = .04$）。 |
+> | **发表偏倚状态（Publication Bias Status）** | 一阶元分析自身经统计检验（[[Funnel Plot|漏斗图]]、Begg 秩相关、Egger 回归、[[Trim and Fill Method|剪补法]]）判定的偏倚程度：无偏倚（No）、低偏倚（Low）、中等偏倚（Medium）、高偏倚（Large）。 | 无偏倚（12 项 FOM，加权平均 $ES = .58$）；低偏倚（3 项 FOM，加权平均 $ES = .86$）；中等偏倚（1 项 FOM，加权平均 $ES = 1.10$）；高偏倚（3 项 FOM，加权平均 $ES = .63$）；组间差异显著（$Q_{bg}(3) = 8.90, p = .03$）。 |
 > | **方法学质量等级（Quality Level）** | 基于 R-AMSTAR 12 项评分量表（排除临床项后总分 44 分）的分级标准：不充分（0–11 分）、低质量（12–22 分）、中等质量（23–33 分）、高质量（34–44 分）。 | 高质量（13 项 FOM，得分 34–36 分，加权平均 $ES = .70$）；中等质量（6 项 FOM，得分 29–33 分，加权平均 $ES = .60$）；全样本平均得分 33.84（标准差（Standard Deviation, SD）为 2.97）；组间差异不显著（$Q_{bg}(1) = .62, p = .43$）。 |
 >
 > **图表解读** 本编码规程将认知结果划分为基础成就与高阶思维，将干预变量细化为对话代理、自适应导学、自动化评估、编程助手与综合平台五大具体技术形态与教学规程，并在学段、学科、偏倚与质量四大维度建立了严格的操作化边界，为后续亚组差异检验（$Q_{bg}$）与多变量[[Meta-regression|元回归]]奠定了标准化数据结构（p. 1373）。
@@ -189,7 +189,7 @@ issuing_organization: ""
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
 > | **二阶元分析架构**<br>Second-Order Meta-Analysis | 以独立一阶元分析报告的标准化汇总效应量（Cohen's $d$ 或 Hedges' $g$）及其伴随方差作为分析单位，采用经典逆方差加权法与随机效应模型（Random-Effects Model, DerSimonian & Laird 方法）进行宏观效应量合并（Borenstein et al., 2021; Schmidt & Oh, 2013; pp. 1367–1375）。 |
-> | **检索与数据库覆盖**<br>Systematic Search Protocol | 检索科学网数据库（Web of Science, WoS）、Scopus、教育资源信息中心（Education Resources Information Center, ERIC）、Academic Search Ultimate、ProQuest 五大国际学术数据库；时间跨度限定为 2020 年 1 月至 2025 年 4 月；采用双组布尔逻辑全两两配对检索式：以 artificial intelligence、AI、ChatGPT、GPT、Copilot、Gemini 为第一组技术术语，以 [[Meta-analysis]]、meta-analytic、[[Systematic Review]] 为第二组方法术语；勾选标题包含选项；初始检出[[Document\|文献]] 4,558 篇（pp. 1367–1368）。 |
+> | **检索与数据库覆盖**<br>Systematic Search Protocol | 检索科学网数据库（Web of Science, WoS）、Scopus、教育资源信息中心（Education Resources Information Center, ERIC）、Academic Search Ultimate、ProQuest 五大国际学术数据库；时间跨度限定为 2020 年 1 月至 2025 年 4 月；采用双组布尔逻辑全两两配对检索式：以 artificial intelligence、AI、ChatGPT、GPT、Copilot、Gemini 为第一组技术术语，以 [[Meta-analysis]]、meta-analytic、[[Systematic Review]] 为第二组方法术语；勾选标题包含选项；初始检出[[Document|文献]] 4,558 篇（pp. 1367–1368）。 |
 > | **筛选与准入标准**<br>Inclusion & Exclusion Criteria | 严格遵循 6 项准入与 6 项排除准则（见下表 Table 1）：限定英语发表、2020–2025 年、以学生认知或情感或行为成果为因变量、将 AI 作为教学干预技术（排除以 AI 知识本身教学为主题者）、具备完整效应量与方差统计量、初级研究重叠率 $CCA \le 10\%$（pp. 1368–1369）。 |
 > | **质量评级与编码一致性**<br>R-AMSTAR & Coder Agreement | 采用 R-AMSTAR 量表，排除两项临床导向题项（8C 和 8D），由两名研究者对纳入的元分析独立双盲编码并评级；编码一致性达 Cohen's Kappa $\kappa = .87$；分歧通过咨询教育技术学与人工智能专家集体裁决（p. 1370）。 |
 > | **重叠审计与排除**<br>Overlap Analysis (GROOVE & CCA) | 使用基于 Excel 的 GROOVE 工具宏构建校正覆盖面积（CCA）交叉矩阵与热力图（Bracchiglione et al., 2022）；对 CCA $> 10\%$ 的重叠元分析实施逐一剔除，共排除 6 项高重叠 FOM（pp. 1373–1375）。 |
@@ -200,11 +200,11 @@ issuing_organization: ""
 > | 样本层面 | 构成 |
 > |----------|------|
 > | **纳入元分析规模** | 最终纳入 19 项独立一阶元分析（FOMs），共计 19 个独立效应量（$k = 19$） |
-> | **底层参与者总规模** | 报告[[Sample Size Determination\|样本量]]的 14 项元分析累计涵盖 **58,702 名学生**（另有 5 项未明确报告总参与人数） |
+> | **底层参与者总规模** | 报告[[Sample Size Determination|样本量]]的 14 项元分析累计涵盖 **58,702 名学生**（另有 5 项未明确报告总参与人数） |
 > | **底层初级实证研究** | 各 FOM 纳入的初级研究数量介于 21 至 85 篇之间，时间跨度自 **1993 年至 2024 年** |
 > | **元分析发表时间窗** | 2020 年至 2025 年（其中 2024–2025 年发表者占 16 项，体现大语言模型时代的研究爆发） |
 > | **方法学质量分布** | 高质量（R-[[AMSTAR]] 34–36 分）共 13 项（68.4%）；中等质量（29–33 分）共 6 项（31.6%）；全样本均分 33.84 |
-> | **重叠剔除样本** | 经 GROOVE 分析排除 6 项严重重叠 FOM；另有 3 项未提供[[Primary and Secondary Documents\|初级文献]]清单者纳入敏感性分析 |
+> | **重叠剔除样本** | 经 GROOVE 分析排除 6 项严重重叠 FOM；另有 3 项未提供[[Primary and Secondary Documents|初级文献]]清单者纳入敏感性分析 |
 
 ---
 
@@ -218,7 +218,7 @@ issuing_organization: ""
 > | **干预目标** | 首要目标必须是识别针对学生**认知、情感或行为学习成果**的人工智能应用。 | 旨在预测或建模学生行为、课堂过程或非教学性管理预测的研究予以排除。 |
 > | **教学取向** | AI 应用与工具必须作为具备**明确教学法取向的教学技术**在教学过程中加以应用。 | 仅关注**人工智能知识本身的教学与教育（Teaching and Education of AI）**的研究予以排除。 |
 > | **统计完整性** | FOM 必须报告充分且恰当的统计数据以生成通用效应量（如 Cohen's $d$、Hedges' $g$、置信区间上下限 LL/UL、标准误（Standard Error, SE）及方差值）。 | 未包含定量元分析合并矩阵的纯质性系统评价予以排除。 |
-> | **独立性与重叠控制** | FOM 必须独立开展以确保研究结论的真实有效性。 | 当重叠 FOM 之间的**校正覆盖面积（CCA）超过 10%** 时，[[Research Scope\|研究范围]]较窄或信息陈旧的 FOM 予以排除。 |
+> | **独立性与重叠控制** | FOM 必须独立开展以确保研究结论的真实有效性。 | 当重叠 FOM 之间的**校正覆盖面积（CCA）超过 10%** 时，[[Research Scope|研究范围]]较窄或信息陈旧的 FOM 予以排除。 |
 >
 > **图表解读** 本标准体系在教学取向上严格区分了人工智能作为教学媒介（AI as medium）与作为学科教学内容（Teaching of AI），确保所有合成[[Effect Size|效应量]]均代表学生在学科学习中借助 AI 获得的真实增益；在方法学上通过 10% 的 [[Corrected Covered Area|CCA]] 覆盖率红线，彻底阻断了二阶证据综合中普遍存在的双重加权偏差。
 
@@ -285,7 +285,7 @@ issuing_organization: ""
 ### 纳入的一阶元分析基本特征全景表
 
 > [!ref-table] Table 2. Characteristics of the FOMs（pp. 1371–1372）
-> | 纳入一阶元分析（FOM Study） | 初级研究数 $N$ | 效应量 $ES$ | 95% CI 下限 | 95% CI 上限 | 学科领域（[[Champ\|field]]） | 结果指标（Outcome） | AI 工具类型（AI Type） | 教育阶段（Edu.） | [[Publication Bias\|发表偏倚]]（Bias） | 覆盖年份范围 | [[Sample Size Determination\|样本量]]（Part.） | 方法学质量等级 |
+> | 纳入一阶元分析（FOM Study） | 初级研究数 $N$ | 效应量 $ES$ | 95% CI 下限 | 95% CI 上限 | 学科领域（[[Champ|field]]） | 结果指标（Outcome） | AI 工具类型（AI Type） | 教育阶段（Edu.） | [[Publication Bias|发表偏倚]]（Bias） | 覆盖年份范围 | [[Sample Size Determination|样本量]]（Part.） | 方法学质量等级 |
 > |---|---|---|---|---|---|---|---|---|---|---|---|---|
 > | **Dong et al. (2025)** | 29 | .92 | 0.61 | 1.24 | 多学科（Multi-field） | 学业成就（A. Ach） | 多类型（Multi-type） | K12 与高等教育 | 低偏倚（Low） | 2019–2024 | 2,657 | 中等质量（Medium） |
 > | **Setiawan et al. (2025)** | 31 | .58 | 0.30 | 0.85 | 多学科（Multi-field） | 综合成果（Combined） | 多类型（Multi-type） | K12 与高等教育 | 高偏倚（Large） | 2019–2024 | 未报告（Not） | 中等质量（Medium） |
@@ -331,10 +331,10 @@ issuing_organization: ""
 > |---|---|---|
 > | **纳入元分析数量 $k$** | 19 | 涵盖 19 项独立一阶元分析，代表 19 个标准化二阶分析单元 |
 > | **底层参与者总人数 $N$** | 58,702 | 14 项提供人数的元分析累计样本，具备极高统计功效 |
-> | **效应量测度与统计模型** | 标准化均数差（SMD，涵盖 Cohen's $d$ 与 Hedges' $g$）/ 随机效应模型 | 采用经典[[Inverse-Variance Weighting\|逆方差加权法]]，平衡[[Between-Study Variance\|研究间真实方差]]与抽样方差 |
+> | **效应量测度与统计模型** | 标准化均数差（SMD，涵盖 Cohen's $d$ 与 Hedges' $g$）/ 随机效应模型 | 采用经典[[Inverse-Variance Weighting|逆方差加权法]]，平衡[[Between-Study Variance|研究间真实方差]]与抽样方差 |
 > | **二阶合并效应量 $ES$** | **.67** | 表明接受 AI 辅助学习的学生比传统对照组平均高出 0.67 个标准差（$U_3 = 74.9\%$，提升约 25 个百分等级） |
 > | **95% 置信区间（CI）** | **[.55, .78]** | 置信区间远不跨 0，统计显著性极高（$Z = 11.45, p < .001$），最低边界仍达中等效应 |
-> | **标准误 $SE$** | .06 | 宏观估计精度高，[[Standard Error\|标准误]]处于极低水平 |
+> | **标准误 $SE$** | .06 | 宏观估计精度高，[[Standard Error|标准误]]处于极低水平 |
 > | **效应量极值范围** | .32 至 1.36 | 19 项元分析效应量全为正向，但学科与学段间离散幅度超过 1 个标准差 |
 > | **Cochran's $Q$ 统计量** | $Q(18) = 118.26, p < .001$ | 拒绝效应量同质性假设，证实研究间存在高度实质性差异 |
 > | **异质性指数 $I^2$** | **84.78%** | 远超 75% 高异质性门槛，84.78% 的方差来自真实的教学与情境调节机制 |
@@ -364,7 +364,7 @@ issuing_organization: ""
 ### 分类调节变量分析详表
 
 > [!moderator-summary] Table 4. Moderator Analysis of FOM Dataset（p. 1377）
-> | 调节[[Variable\|变量]]维度（Moderator） | 亚组类别（Subgroup） | 元分析数 $k$ | 效应量 $ES$ | 95% CI 下限（LL） | 95% CI 上限（UL） | 组间检验 $Q_{bg}$ | 自由度 df | $p$ 值 |
+> | 调节[[Variable|变量]]维度（Moderator） | 亚组类别（Subgroup） | 元分析数 $k$ | 效应量 $ES$ | 95% CI 下限（LL） | 95% CI 上限（UL） | 组间检验 $Q_{bg}$ | 自由度 df | $p$ 值 |
 > |---|---|---|---|---|---|---|---|---|
 > | **成果类型（Outcome）** | | | | | | .03 | 2 | .98 |
 > | | 综合成果（Combined） | 10 | .67 | .50 | .83 | | | |

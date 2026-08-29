@@ -163,9 +163,9 @@ updated: '2026-07-21'
 > [!ref-table] 相关方法
 > | 方法 | 关系 | 区别 |
 > |---|---|---|
-> | [[Ideology Critique]] | 理论基础 | 女性主义研究将意识形态批判聚焦于性别权力和父权制[[Knowledge Production\|知识生产]]。 |
+> | [[Ideology Critique]] | 理论基础 | 女性主义研究将意识形态批判聚焦于性别权力和父权制[[Knowledge Production|知识生产]]。 |
 > | [[Participatory Research]] | 亲缘方法 | 两者都强调赋权和平等参与；PR 更聚焦社区发展，女性主义研究更聚焦性别压迫。 |
-> | [[Action Research\|行动研究]] | [[Praxis\|实践]]工具 | 女性主义行动研究（如 [[Girls Into Science and Technology Project\|GIST]] 项目）将性别意识融入行动和研究的整合中。 |
+> | [[Action Research|行动研究]] | [[Praxis|实践]]工具 | 女性主义行动研究（如 [[Girls Into Science and Technology Project|GIST]] 项目）将性别意识融入行动和研究的整合中。 |
 
 ---
 

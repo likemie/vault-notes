@@ -115,4 +115,4 @@ updated: '2026-07-24'
 > | [[May Fourth Movement]] | 事件/事实 | 五四运动赋予了新文化运动政治维度与群众动员特征。 |
 > | [[New Education Movement]] | 事件/事实 | 新文化运动直接催生并提供了新教育运动的意识形态框架。 |
 > | [[1904 Educational System]] | 政策/事实 | 新文化运动摧毁了1904年旧学制中儒家经典课的合法性。 |
-> | [[Pragmatism in China]] | 概念 | 新文化运动构成[[John Dewey\|杜威]][[Pragmatic Paradigm\|实用主义]]在华转移与解耦的文化土壤。 |
+> | [[Pragmatism in China]] | 概念 | 新文化运动构成[[John Dewey|杜威]][[Pragmatic Paradigm|实用主义]]在华转移与解耦的文化土壤。 |

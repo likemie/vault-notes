@@ -67,8 +67,8 @@ updated: '2026-08-27'
 > | 维度 | 人性化（Humanization） | 非人性化（Dehumanization） |
 > |------|-------------------------|----------------------------|
 > | **存在论定位** | 人类追求成为“更完整的人”的天职 | 将人类剥夺降格为被动客体或“东西” (p. 61) |
-> | **社会关系形态** | 横向平等[[Dialogue in Education\|对话]]、爱与社会团结 | 垂直统治、剥削、霸权与驯化 (p. 46) |
-> | **教育归宿** | [[Problem-Posing Education\|提问式解放教育]]与[[Praxis\|实践]] | [[Banking Model of Education\|储蓄式教育]]与[[Culture of Silence\|沉默文化]] |
+> | **社会关系形态** | 横向平等[[Dialogue in Education|对话]]、爱与社会团结 | 垂直统治、剥削、霸权与驯化 (p. 46) |
+> | **教育归宿** | [[Problem-Posing Education|提问式解放教育]]与[[Praxis|实践]] | [[Banking Model of Education|储蓄式教育]]与[[Culture of Silence|沉默文化]] |
 
 ---
 
@@ -109,7 +109,7 @@ updated: '2026-08-27'
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **恢复人性命题** | 探讨教育如何消解物化恢复人性 | 批判教育哲学与社会变革 | [[Paulo Freire\|Freire, P.]]; [[Argument_Darwish_2009_Queens\|Darwish, B.]] |
+> | **恢复人性命题** | 探讨教育如何消解物化恢复人性 | 批判教育哲学与社会变革 | [[Paulo Freire|Freire, P.]]; [[Argument_Darwish_2009_Queens|Darwish, B.]] |
 
 ---
 

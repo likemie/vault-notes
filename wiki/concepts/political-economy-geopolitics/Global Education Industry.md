@@ -87,11 +87,11 @@ updated: '2026-06-22'
 ## 概念辨析
 
 > [!contrast-table] 概念辨析
-> | 维度 | 全球教育产业 (GEI) | [[Endogenous and Exogenous Privatisation\|教育私有化]] | 教育市场化 (Marketisation) | [[Knowledge-Based Economization\|知识化经济化]] |
+> | 维度 | 全球教育产业 (GEI) | [[Endogenous and Exogenous Privatisation|教育私有化]] | 教育市场化 (Marketisation) | [[Knowledge-Based Economization|知识化经济化]] |
 > |------|--------|----------------|----------------|----------------|
-> | **分析对象** | 跨国教育产业场域及被经济理性形塑的教育供给、政策与想象（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022]]）。 | 公共教育中私营参与的具体政策机制与运营形式（内生/外生）。 | 公共教育体制内部引入的竞争、选择与准市场化激励机制。 | 知识密集型资本主义中，国家以经济竞争力为目标对教育和研究的重组。 |
-> | **核心机制** | 涵盖私有化、金融化、商品化，以及通过国际组织进行的政策软治理与标准量化（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024]]）。 | 外部承包、教育券、私营资本进入公立教育系统或转为准企业运营。 | 自主办学、[[School Choice\|择校]]制度、以绩效为基础的财政拨款等。 | 培育[[Knowledge-Based Economy\|知识经济]]所需的劳动力（人力资本）、促进大学知识的商业转化。 |
-> | **适用范围** | 包含 EdTech、[[Corporate Education\|企业教育]]、跨国咨询公司、横向能力指标等广泛的全球[[Champ\|场域]]。 | 侧重公共教育体系的产权、供给及决策权的转移。 | 侧重国家或地区层面的公共教育制度与治理结构变革。 | 聚焦国家发展战略宏观视角，探讨教育作为知识资本的政治经济学定位。 |
+> | **分析对象** | 跨国教育产业场域及被经济理性形塑的教育供给、政策与想象（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022]]）。 | 公共教育中私营参与的具体政策机制与运营形式（内生/外生）。 | 公共教育体制内部引入的竞争、选择与准市场化激励机制。 | 知识密集型资本主义中，国家以经济竞争力为目标对教育和研究的重组。 |
+> | **核心机制** | 涵盖私有化、金融化、商品化，以及通过国际组织进行的政策软治理与标准量化（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024]]）。 | 外部承包、教育券、私营资本进入公立教育系统或转为准企业运营。 | 自主办学、[[School Choice|择校]]制度、以绩效为基础的财政拨款等。 | 培育[[Knowledge-Based Economy|知识经济]]所需的劳动力（人力资本）、促进大学知识的商业转化。 |
+> | **适用范围** | 包含 EdTech、[[Corporate Education|企业教育]]、跨国咨询公司、横向能力指标等广泛的全球[[Champ|场域]]。 | 侧重公共教育体系的产权、供给及决策权的转移。 | 侧重国家或地区层面的公共教育制度与治理结构变革。 | 聚焦国家发展战略宏观视角，探讨教育作为知识资本的政治经济学定位。 |
 
 ---
 
@@ -178,8 +178,8 @@ updated: '2026-06-22'
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **全球教育治理与国家课程吸纳** | GEI 借助话语生产和国际组织软治理，将地方整体性教育改革矮化并重构为工具化、原子化的技能清单。 | 国家课程标准改革、国际比较评估（如 [[PISA]]）对国家政策的塑造。 | [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022]]; [[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024]] |
-> | **教育科技与数字教学算法异化** | 专有 EdTech 产品凭借利润、正义和专业发展的多重驱动，确立平台技术垄断，在算法中植入特定学习假设并去地方化。 | 混合式教学、个性化学习软件应用、教育科技平台的跨国推广。 | [[Argument_Amos_2022_Springer\|Amos, 2022]]; [[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz & Klinge, 2022]] |
+> | **全球教育治理与国家课程吸纳** | GEI 借助话语生产和国际组织软治理，将地方整体性教育改革矮化并重构为工具化、原子化的技能清单。 | 国家课程标准改革、国际比较评估（如 [[PISA]]）对国家政策的塑造。 | [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022]]; [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024]] |
+> | **教育科技与数字教学算法异化** | 专有 EdTech 产品凭借利润、正义和专业发展的多重驱动，确立平台技术垄断，在算法中植入特定学习假设并去地方化。 | 混合式教学、个性化学习软件应用、教育科技平台的跨国推广。 | [[Argument_Amos_2022_Springer|Amos, 2022]]; [[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022]] |
 
 ---
 

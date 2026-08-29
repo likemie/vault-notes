@@ -119,7 +119,7 @@ updated: 2026-07-13
 
 **表 10.4：探索性序列设计联合展示模板（以调查开发为例）**
 
-| 质性阶段 (Qualitative Phase) | 设计特征 (Design Features) | [[Metainferences\|元推论]] (Meta-inferences) |
+| 质性阶段 (Qualitative Phase) | 设计特征 (Design Features) | [[Metainferences|元推论]] (Meta-inferences) |
 | :--- | :--- | :--- |
 | **质性引用(Quotes)** | **量化调查条目(Survey Items)** | 评估条目的清晰度与适切性 |
 | **质性编码(Codes)** | **量化调查变量(Variables)** | 评估变量结构的代表性 |
