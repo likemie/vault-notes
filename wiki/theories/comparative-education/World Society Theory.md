@@ -86,9 +86,9 @@ updated: 2026-07-13
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
 > | [[Otherhood]] | 概念 | 世界社会非强制运行的核心中立授权机制，非国家行动者充当无私代言人输出规范。 |
-> | [[Organizational Actorhood]] | 概念 | 全球[[Cultural Models|文化模型]]塑造的组织自主性、目标性、问责性与嵌入性特征，是趋同的微观体现。 |
-> | [[Cultural Models]] | 概念 | 理智化、标准化的全球进步与正义模板，是跨国模仿和解耦[[Praxis|实践]]的内容载体。 |
-> | [[Lifelong Learning]] | 概念 | 理性化世界文化在教育领域的典型政策表现，是超国家组织[[Governing at a Distance|远程治理]]的表征。 |
+> | [[Organizational Actorhood]] | 概念 | 全球[[Cultural Models\|文化模型]]塑造的组织自主性、目标性、问责性与嵌入性特征，是趋同的微观体现。 |
+> | [[Cultural Models]] | 概念 | 理智化、标准化的全球进步与正义模板，是跨国模仿和解耦[[Praxis\|实践]]的内容载体。 |
+> | [[Lifelong Learning]] | 概念 | 理性化世界文化在教育领域的典型政策表现，是超国家组织[[Governing at a Distance\|远程治理]]的表征。 |
 > | [[Knowledge-Based Economy]] | 概念 | 世界社会中占支配地位的理智化经济论述，为教育的资本投资重构提供神话支撑。 |
 
 ---

@@ -101,6 +101,6 @@ updated: 2026-06-16
 > [!ref-table] 相关条目索引
 > | 条目 | 关系说明 | 来源 |
 > |---|---|---|
-> | [[OECD]] | 多次发布报告系统性论述教育神经科学的边界，警告其不能替代社会学与哲学，且极易被政策滥用。 | [[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 7–8]] |
-> | [[Strong Beginnings Report]] | 强制强推“大脑与学习”作为澳洲初始教师教育必修大纲的核心政策[[Document|文件]]。 | [[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 3–4]] |
-> | [[Argument_Skourdoumbis_2024_AER]] | 对《强劲开端》报告中脑科学大纲进行批判性话语解构，指出其简化主义与历史政治风险。 | [[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 6–7]] |
+> | [[OECD]] | 多次发布报告系统性论述教育神经科学的边界，警告其不能替代社会学与哲学，且极易被政策滥用。 | [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 7–8]] |
+> | [[Strong Beginnings Report]] | 强制强推“大脑与学习”作为澳洲初始教师教育必修大纲的核心政策[[Document\|文件]]。 | [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 3–4]] |
+> | [[Argument_Skourdoumbis_2024_AER]] | 对《强劲开端》报告中脑科学大纲进行批判性话语解构，指出其简化主义与历史政治风险。 | [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 6–7]] |

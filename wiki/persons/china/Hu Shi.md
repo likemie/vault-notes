@@ -152,6 +152,6 @@ updated: 2026-08-20
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Pragmatism in China]] | 概念 | 将[[Pragmatic Paradigm|实用主义]][[Transfer Translation Transformation|转译]]为“实验主义”反迷信武器，奠定民国实用主义话语。 |
+> | [[Pragmatism in China]] | 概念 | 将[[Pragmatic Paradigm\|实用主义]][[Transfer Translation Transformation\|转译]]为“实验主义”反迷信武器，奠定民国实用主义话语。 |
 > | [[New Culture Movement]] | 事实/事件 | 发起白话文运动与文学革命，提供思想启蒙框架。 |
-> | [[May Fourth Movement]] | 事实/事件 | 作为[[John Dewey|杜威]]首席翻译，为杜威访华创造了巨大的舆论关注。 |
+> | [[May Fourth Movement]] | 事实/事件 | 作为[[John Dewey\|杜威]]首席翻译，为杜威访华创造了巨大的舆论关注。 |

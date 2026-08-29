@@ -93,7 +93,7 @@ updated: '2026-05-28'
 >
 > | 行动者 | 影响力 | 修辞风格 | 关键出版物/行动 |
 > |--------|--------|---------|---------------|
-> | 白宫（里根政府） | 极高 | 最激烈 | *[[A Nation at Risk 1983|A Nation at Risk]]* (1983) |
+> | 白宫（里根政府） | 极高 | 最激烈 | *[[A Nation at Risk 1983\|A Nation at Risk]]* (1983) |
 > | 美国教育部 | 高 | 激烈 | *Japanese Education Today* (1987) |
 > | 学者（Lynn 等） | 中等 | 较克制 | *Educational Achievement in Japan* (1988) |
 > | 智库（Heritage Foundation） | 中高 | 激烈 | 美国教育系列讲座 (1991) |

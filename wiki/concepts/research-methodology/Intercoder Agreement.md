@@ -68,11 +68,11 @@ updated: 2026-07-18
 ## 概念辨析
 
 > [!contrast-table] 与相近概念的区别
-> | 维度 | Intercoder Agreement | [[Inter-Rater Reliability|Inter-Rater Reliability]] | [[Reliability]] |
+> | 维度 | Intercoder Agreement | [[Inter-Rater Reliability\|Inter-Rater Reliability]] | [[Reliability]] |
 > |------|---------------------|----------------------|-----------------|
-> | 核心关注 | [[Coding in Qualitative Research|编码]]者对同一文本的编码是否一致 | 评分者对同一表现的评分是否一致 | 测量结果的稳定性与一致性 |
-> | 典型场景 | [[Coding in Qualitative Research|质性编码]]、元分析的特征编码 | 作文评分、课堂观察评分、面试评分 | 测验、[[Questionnaire|问卷]]、实验测量 |
-> | 计算方式 | 一致性百分比、Cohen's κ | 组内相关系数（ICC）、加权 κ | Cronbach's α、[[Test-Retest Reliability|重测信度]]、[[Split-Half Reliability|折半信度]] |
+> | 核心关注 | [[Coding in Qualitative Research\|编码]]者对同一文本的编码是否一致 | 评分者对同一表现的评分是否一致 | 测量结果的稳定性与一致性 |
+> | 典型场景 | [[Coding in Qualitative Research\|质性编码]]、元分析的特征编码 | 作文评分、课堂观察评分、面试评分 | 测验、[[Questionnaire\|问卷]]、实验测量 |
+> | 计算方式 | 一致性百分比、Cohen's κ | 组内相关系数（ICC）、加权 κ | Cronbach's α、[[Test-Retest Reliability\|重测信度]]、[[Split-Half Reliability\|折半信度]] |
 > | 关系 | 属于信度的一种形式 | 与编码者间信度功能等价，常用于量化评分场景 | 上位概念 |
 
 在[[Meta-analysis|元分析]][[Document|文献]]中，编码者间信度（intercoder reliability）与评分者间信度（inter-rater reliability）常互换使用，功能等价——均衡量多个评判者独立判断的一致性程度（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al., 2011, Ch17, p.362]]）。

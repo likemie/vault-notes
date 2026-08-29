@@ -88,12 +88,12 @@ LeCompte & Preissle（1993, p. 47）将[[Ethnography|民族志]]的概括性重�
 ## 概念辨析
 
 > [!contrast-table] 自然主义概括 vs 统计概括 vs [[Theoretical End Point|理论终点]]
-> | 维度 | 统计概括 | 自然主义概括 | [[Theoretical End Point|理论终点]] |
+> | 维度 | 统计概括 | 自然主义概括 | [[Theoretical End Point\|理论终点]] |
 > |------|----------|-------------|---------|
-> | 基础 | [[Random Sampling|随机抽样]]和概率理论。 | 读者对案例情境与自身情境相似性的判断。 | [[Qualitative Research|质性研究]]归纳逻辑的最终产物。 |
+> | 基础 | [[Random Sampling\|随机抽样]]和概率理论。 | 读者对案例情境与自身情境相似性的判断。 | [[Qualitative Research\|质性研究]]归纳逻辑的最终产物。 |
 > | 完成者 | 研究者（通过统计推断）。 | 读者（通过认知对照）。 | 研究者（通过主题归纳）。 |
-> | 代表对象 | 从样本到总体参数。 | 从案例到读者的[[Praxis|实践]]情境。 | 从数据到理论模型。 |
-> | 适用范围 | [[Quantitative Research|量化研究]]。 | 案例研究和[[Ethnography|民族志]]。 | 质性研究各类设计。 |
+> | 代表对象 | 从样本到总体参数。 | 从案例到读者的[[Praxis\|实践]]情境。 | 从数据到理论模型。 |
+> | 适用范围 | [[Quantitative Research\|量化研究]]。 | 案例研究和[[Ethnography\|民族志]]。 | 质性研究各类设计。 |
 
 ---
 

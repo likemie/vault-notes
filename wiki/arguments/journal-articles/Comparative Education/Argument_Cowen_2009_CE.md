@@ -102,10 +102,10 @@ citation_aliases:
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **[[Transfer Translation Transformation|转移、转译、转化框架]]（3T Framework）** | 描述教育移动的三个连续且差异化的时空阶段：跨境空间位移、本土再[[Coding in Qualitative Research|编码]]与制度化、以及社会权力压缩下的长期演变（p.323）。 |
-> | **[[Shape-Shifting|形变]]（Shape-Shifting）** | 关注教育制度与思想在时空推移中核心配置的变化，例如治理结构、教学契约与科研取向的实质改变（p.320）。 |
-> | **[[Transitology|转型学]]（Transitology）** | 描述教育移动最密集的历史语境，即政治边界与愿景在十年左右的短时间内彻底崩溃并重建的时期（p.319）。 |
-> | **[[Geometries of Insertion|嵌入几何学]]（Geometries of Insertion）** | 探讨在一处创造的教育实践如何能系统、精确地植入另一处的理论，将情境重新概念化为可分析的[[Variable|变量]]（p.324）。 |
+> | **[[Transfer Translation Transformation\|转移、转译、转化框架]]（3T Framework）** | 描述教育移动的三个连续且差异化的时空阶段：跨境空间位移、本土再[[Coding in Qualitative Research\|编码]]与制度化、以及社会权力压缩下的长期演变（p.323）。 |
+> | **[[Shape-Shifting\|形变]]（Shape-Shifting）** | 关注教育制度与思想在时空推移中核心配置的变化，例如治理结构、教学契约与科研取向的实质改变（p.320）。 |
+> | **[[Transitology\|转型学]]（Transitology）** | 描述教育移动最密集的历史语境，即政治边界与愿景在十年左右的短时间内彻底崩溃并重建的时期（p.319）。 |
+> | **[[Geometries of Insertion\|嵌入几何学]]（Geometries of Insertion）** | 探讨在一处创造的教育实践如何能系统、精确地植入另一处的理论，将情境重新概念化为可分析的[[Variable\|变量]]（p.324）。 |
 
 > [!warrant]- 理论如何支撑论证
 > 这些理论工具提供了解析教育流动的社会学范畴。它们将情境从单纯的移植障碍转化为可操作的变量，解释了相同的教育输入在不同接受国演化出截然相反形状的根本原因，进而推动对[[Social Cloning|社会克隆]]能力的伦理反思。
@@ -117,14 +117,14 @@ citation_aliases:
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **学科史梳理**<br>Conceptual History | 分析比较教育学自朱利安和[[Michael Sadler|萨德勒]]以来的历史演变，梳理转移和流动性概念，诊断方法论、形式与情境三大历史惯例的偏离。 |
-> | **案例剖析**<br>Qualitative Case Analysis | 剖析英格兰大学从学术共同体向管理主义机构[[Shape-Shifting|形变]]的四维结构，并对战后德日教育改革的转移、[[Transfer Translation Transformation|转译]]和转化路径进行理论重释。 |
-> | **批判性理论综合**<br>Theoretical Synthesis | 综合前人借用模型提出 3T 阶段性机制，并基于后殖民教育变迁史展开[[Geometries of Insertion|嵌入几何学]]的政治和伦理推论。 |
+> | **学科史梳理**<br>Conceptual History | 分析比较教育学自朱利安和[[Michael Sadler\|萨德勒]]以来的历史演变，梳理转移和流动性概念，诊断方法论、形式与情境三大历史惯例的偏离。 |
+> | **案例剖析**<br>Qualitative Case Analysis | 剖析英格兰大学从学术共同体向管理主义机构[[Shape-Shifting\|形变]]的四维结构，并对战后德日教育改革的转移、[[Transfer Translation Transformation\|转译]]和转化路径进行理论重释。 |
+> | **批判性理论综合**<br>Theoretical Synthesis | 综合前人借用模型提出 3T 阶段性机制，并基于后殖民教育变迁史展开[[Geometries of Insertion\|嵌入几何学]]的政治和伦理推论。 |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |----------|------|
-> | **[[Document|文献]]样本** | 比较教育经典文本及当代[[Policy Borrowing|政策借用]]理论文献。 |
+> | **[[Document\|文献]]样本** | 比较教育经典文本及当代[[Policy Borrowing\|政策借用]]理论文献。 |
 > | **案例情境** | 英格兰大学改革（1990年代至今）、战后盟军占领下的德日改革（1945年之后）、加拿大与澳大利亚等移民社会的建构历史。 |
 > | **时空特征** | 结合长时段历史分析与冷战、战后重建及新自由主义审计文化等特定历史节点。 |
 

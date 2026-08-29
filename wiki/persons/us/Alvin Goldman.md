@@ -55,5 +55,5 @@ updated: 2026-08-18
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Reliabilism|可靠主义]] | 理论 | Goldman 是该理论的核心创立者。 |
-> | [[Epistemological Naturalism|认识论自然主义]] | 概念 | 他将其发展为“温和”的、保留规范性的自然主义。 |
+> | [[Reliabilism\|可靠主义]] | 理论 | Goldman 是该理论的核心创立者。 |
+> | [[Epistemological Naturalism\|认识论自然主义]] | 概念 | 他将其发展为“温和”的、保留规范性的自然主义。 |

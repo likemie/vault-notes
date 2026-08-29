@@ -97,8 +97,8 @@ updated: 2026-08-21
 > [!contrast-table] NDPC 评级层级与标准
 > | 评级等级 | 核心准入条件与方法学门槛 |
 > |:---|:---|
-> | **Strong Evidence of Effectiveness（强证据·最高级）** | **仅需 1 项** 具有统计显著正效应的高质量 [[Randomised Controlled Trials|RCT]] 或 [[Quasi-Experimental Designs|QED]]；研究可由开发者独立或合作完成；项目现场实际运行满 3 年。 |
-> | **Moderate Evidence of Effectiveness（中等证据）** | 拥有 1 项呈现积极效果但方法学控制稍弱的准[[Experimental Research|实验研究]]支持。 |
+> | **Strong Evidence of Effectiveness（强证据·最高级）** | **仅需 1 项** 具有统计显著正效应的高质量 [[Randomised Controlled Trials\|RCT]] 或 [[Quasi-Experimental Designs\|QED]]；研究可由开发者独立或合作完成；项目现场实际运行满 3 年。 |
+> | **Moderate Evidence of Effectiveness（中等证据）** | 拥有 1 项呈现积极效果但方法学控制稍弱的准[[Experimental Research\|实验研究]]支持。 |
 > | **Limited Evidence of Effectiveness（有限证据）** | 仅有描述性调查或预试验数据，呈现有益趋势但缺乏严格对照。 |
 > | **Insufficient Evidence（证据不足）** | 缺乏实证数据或未能证明降低辍学率。 |
 

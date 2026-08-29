@@ -94,7 +94,7 @@ updated: 2026-08-23
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **[[Citizen Science|公民科学]]素养范式** | 强调证据评估、科学本质与日常决策能力 | 中小学全员基础科学教育 | Millar & Osborne (1998); The Royal Society (2026) |
+> | **[[Citizen Science\|公民科学]]素养范式** | 强调证据评估、科学本质与日常决策能力 | 中小学全员基础科学教育 | Millar & Osborne (1998); The Royal Society (2026) |
 
 ---
 
@@ -112,10 +112,10 @@ updated: 2026-08-23
 > [!ref-table]- 其他实证结果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | [[Variable|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026)]] | 英国全国代表性成年公众（PAS 2025） | 全国抽样[[Questionnaire|问卷调查]] | 公众科学认知与信息诉求 | 60% 公众认为获知科学信息过少，渴望参与科学[[Dialogue in Education|对话]]；87% 信任大学科学家 | — | 宏观态度调查，反映公众对科学素养与信息获取的强烈意愿 |
-> | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026)]] | 英格兰 14–16 岁中学生（SET 2023） | 全国纵向追踪调查 | 课堂动手实验频率 | 每两周至少一次实验比例从 2016 年 44% 降至 2023 年 26% | — | 反映传统应试与[[Rote Learning|死记硬背]]教学对科学探究素养[[Praxis|实践]]的挤压 |
+> | [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026)]] | 英国全国代表性成年公众（PAS 2025） | 全国抽样[[Questionnaire\|问卷调查]] | 公众科学认知与信息诉求 | 60% 公众认为获知科学信息过少，渴望参与科学[[Dialogue in Education\|对话]]；87% 信任大学科学家 | — | 宏观态度调查，反映公众对科学素养与信息获取的强烈意愿 |
+> | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026)]] | 英格兰 14–16 岁中学生（SET 2023） | 全国纵向追踪调查 | 课堂动手实验频率 | 每两周至少一次实验比例从 2016 年 44% 降至 2023 年 26% | — | 反映传统应试与[[Rote Learning\|死记硬背]]教学对科学探究素养[[Praxis\|实践]]的挤压 |
 
 ---
 

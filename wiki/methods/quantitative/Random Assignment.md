@@ -140,13 +140,13 @@ updated: 2026-07-13
 > - **诊断与检验** 组间基线不平衡诊断、[[Attrition|样本流失]]率（Attrition Rate）检验。
 
 > [!contrast-table] 随机分配 vs [[Random Sampling|随机抽样]] vs 匹配
-> | 维度 | [[Random Assignment|随机分配]] | [[Random Sampling|随机抽样]] | 匹配（[[Matching]]） |
+> | 维度 | [[Random Assignment\|随机分配]] | [[Random Sampling\|随机抽样]] | 匹配（[[Matching]]） |
 > |---|---|---|---|
-> | **目的** | 消除组间系统性偏差，确立[[Causality|因果推断]] | 提升样本对总体的代表性 | 在少数命名变量上确保组间等价 |
-> | **保障的效度** | [[Internal Validity|内部效度]] | [[External Validity|外部效度]] | 有限的内部效度 |
+> | **目的** | 消除组间系统性偏差，确立[[Causality\|因果推断]] | 提升样本对总体的代表性 | 在少数命名变量上确保组间等价 |
+> | **保障的效度** | [[Internal Validity\|内部效度]] | [[External Validity\|外部效度]] | 有限的内部效度 |
 > | **操作时机** | 样本已选定后，分派至实验条件时 | 从总体中选取样本时 | 样本选定后，配对再随机分配 |
 > | **等价性范围** | **全部变量**（已知和未知、已测量和未测量） | 样本与总体在关键特征上的相似性 | 仅**少数命名变量** |
-> | **来源** | Creswell & Creswell (2022, Ch8) | 同上 | Smith (1991, p. 215); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16]] |
+> | **来源** | Creswell & Creswell (2022, Ch8) | 同上 | Smith (1991, p. 215); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch16]] |
 
 Smith (1991, p. 215) 明确指出：匹配在排除替代因果解释方面**远不如随机化**——因为随机化控制所有变量，匹配只控制命名变量（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16]]）。
 
@@ -186,10 +186,10 @@ Smith (1991, p. 215) 明确指出：匹配在排除替代因果解释方面**远
 > 
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Critical Realism|批判实在论]] | 理论 | 批判实在论指出社会系统是分层的、开放的，[[Causality|因果关系]]取决于机制与背景的交互，对随机分配所基于的封闭系统恒常规则因果观提出了根本质疑。 |
-> | [[Realist Evaluation|实在论评估]] | 理论 | 实在论评估主张社会项目是通过激发受试者的推理而起作用，打破了随机分配将人的能动性视为污染源的黑箱[[Paradigm|范式]]。 |
-> | [[Randomised Controlled Trials|随机对照试验]] | 方法 | 随机对照试验是将随机分配作为核心程序的研究设计，用于评估干预项目的平均效应。 |
-> | [[Random Sampling|随机抽样]] | 方法 | 随机抽样用于抽取具有总体代表性的样本，而随机分配则用于将样本分派入处理组以保障[[Internal Validity|内部效度]]。 |
+> | [[Critical Realism\|批判实在论]] | 理论 | 批判实在论指出社会系统是分层的、开放的，[[Causality\|因果关系]]取决于机制与背景的交互，对随机分配所基于的封闭系统恒常规则因果观提出了根本质疑。 |
+> | [[Realist Evaluation\|实在论评估]] | 理论 | 实在论评估主张社会项目是通过激发受试者的推理而起作用，打破了随机分配将人的能动性视为污染源的黑箱[[Paradigm\|范式]]。 |
+> | [[Randomised Controlled Trials\|随机对照试验]] | 方法 | 随机对照试验是将随机分配作为核心程序的研究设计，用于评估干预项目的平均效应。 |
+> | [[Random Sampling\|随机抽样]] | 方法 | 随机抽样用于抽取具有总体代表性的样本，而随机分配则用于将样本分派入处理组以保障[[Internal Validity\|内部效度]]。 |
 
 ---
 

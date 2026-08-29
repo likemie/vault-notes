@@ -70,11 +70,11 @@ updated: 2026-08-28
 > 质量测量工具清单对全球高等教育评价生态的实证盘点揭示了一个深刻的结构性失衡：传统学科知识与常模化读写[[Questionnaire|问卷]]占据绝对统治地位，而针对高阶[[Creativity|创造力]]的评价工具极度匮乏。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 29)]]
 
 > [!ref-table]- 清单收录的工具类别与高阶素养分布
-> | 工具类别 | 收录数量与代表工具 | [[Critical Thinking|批判性思维]]覆盖情况 | 创造力覆盖情况 | 核心生态特征 |
+> | 工具类别 | 收录数量与代表工具 | [[Critical Thinking\|批判性思维]]覆盖情况 | 创造力覆盖情况 | 核心生态特征 |
 > |---|---|---|---|---|
-> | **标准化认知测验** | [[Collegiate Learning Assessment|CLA+]]、[[Collegiate Assessment of Academic Proficiency|CAAP]]、[[Educational Testing Service|ETS]]-PP、[[California Critical Thinking Skills Test|CCTST]] 等数十种 | **广泛覆盖**，但多依赖[[Multiple-Choice Questions|选择题]] | **几乎为零** | 偏重通用认知推理与读写算能力，依赖常模排序 |
-> | **[[Student Engagement|学生投入]]与体验问卷** | [[National Survey of Student Engagement|NSSE]]、CEQ 等 | 间接自报涵盖 | 间接自报涵盖 | 测量学生感知与学习行为投入，非直接表现性测查 |
-> | **表现性校本量规** | AAC&U [[VALUE Rubrics]] 系列 | 专设批判性思维量规 | 仅有唯一专设量规（AAC&U VALUE 创造力量规） | 依赖教师校准与课程嵌入，具有极高[[Ecological Validity|生态效度]] |
+> | **标准化认知测验** | [[Collegiate Learning Assessment\|CLA+]]、[[Collegiate Assessment of Academic Proficiency\|CAAP]]、[[Educational Testing Service\|ETS]]-PP、[[California Critical Thinking Skills Test\|CCTST]] 等数十种 | **广泛覆盖**，但多依赖[[Multiple-Choice Questions\|选择题]] | **几乎为零** | 偏重通用认知推理与读写算能力，依赖常模排序 |
+> | **[[Student Engagement\|学生投入]]与体验问卷** | [[National Survey of Student Engagement\|NSSE]]、CEQ 等 | 间接自报涵盖 | 间接自报涵盖 | 测量学生感知与学习行为投入，非直接表现性测查 |
+> | **表现性校本量规** | AAC&U [[VALUE Rubrics]] 系列 | 专设批判性思维量规 | 仅有唯一专设量规（AAC&U VALUE 创造力量规） | 依赖教师校准与课程嵌入，具有极高[[Ecological Validity\|生态效度]] |
 > | **软件与管理平台** | 各类数据挖掘与院校研究分析软件 | 算法间接建模 | 无法直接测度 | 偏重机构效率与学业完成度指标 |
 
 ---

@@ -106,8 +106,8 @@ updated: '2026-06-22'
 > [!entry-map]
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Phenomenon-Based Learning]] | Concept | SveaSus 项目是芬兰现象本位学习（PhBL）在高等教育层面的具体教学法[[Praxis|实践]]。 |
+> | [[Phenomenon-Based Learning]] | Concept | SveaSus 项目是芬兰现象本位学习（PhBL）在高等教育层面的具体教学法[[Praxis\|实践]]。 |
 > | [[Finnish National Core Curriculum]] | Fact | 芬兰 2014 年国家核心课程是 SveaSus 推广 PhBL 的政策制度背景。 |
-> | [[Pragmatic Constructivism]] | Theory | 劳斯特-von Wright 整合[[John Dewey|杜威]]与[[George Herbert Mead|米德]]提出的“课程自我修正模型”，构成了 SveaSus 教学法的理论基础。 |
+> | [[Pragmatic Constructivism]] | Theory | 劳斯特-von Wright 整合[[John Dewey\|杜威]]与[[George Herbert Mead\|米德]]提出的“课程自我修正模型”，构成了 SveaSus 教学法的理论基础。 |
 > | [[Disciplina and Doctrina]] | Concept | SveaSus 强调的动态协作和开放探究是对 `doctrina` 维度的坚守，抵御了技能原子化的 `disciplina` 倾向。 |
-> | [[Phenomenology]] | Theory | 项目倡导的具身学习、真实[[Champ|场域]]和主体间性具有深刻的现象学体验根源。 |
+> | [[Phenomenology]] | Theory | 项目倡导的具身学习、真实[[Champ\|场域]]和主体间性具有深刻的现象学体验根源。 |

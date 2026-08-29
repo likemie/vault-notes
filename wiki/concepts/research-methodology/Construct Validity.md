@@ -119,10 +119,10 @@ updated: 2026-08-21
 > [!contrast-table] [[Construct|构念]]效度在不同研究情境中的形态对照
 > | 比较维度 | 心理测量与调查量表 | 实验干预操纵 | 质性经验范畴 | 宏观政策评价体系（清算中心） |
 > |:---|:---|:---|:---|:---|
-> | **分析单位** | [[Questionnaire|问卷]]题项、测验总分与维度 | 实验处理程序、任务设置、[[Dependent Variable|因变量]] | [[Coding in Qualitative Research|编码]]节点、本土概念、生活经验 | 教育清算中心评级标签（如 Recommended） |
-> | **核心检验问题** | 题目是否真正测出了心理特质 | 实验刺激是否纯净表征了因果[[Variable|变量]] | 理论范畴是否反映参与者真实意义 | “基于证据”标签是否代表客观特质 |
-> | **主要威胁** | 题项表征不足、语言理解干扰 | [[Hawthorne Effect|霍桑效应]]、[[Experimenter Bias|实验者偏差]]、处理混杂 | 研究者理论强加、脱离情境脉络 | 综合门槛割裂、跨机构评级大面积对立 |
-> | **典型验证方式** | [[Confirmatory Factor Analysis|验证性因子分析]]、[[Test-Retest Reliability|重测信度]]、区分相关 | 操作性检查（[[Manipulation Check]]） | 成员核对（[[Member Checking]]）、[[Ethnography|民族志]][[Rich and Thick Description|深描]] | [[Multitrait-Multimethod Matrix|MTMM]] 跨机构评级一致性与收敛性检验 |
+> | **分析单位** | [[Questionnaire\|问卷]]题项、测验总分与维度 | 实验处理程序、任务设置、[[Dependent Variable\|因变量]] | [[Coding in Qualitative Research\|编码]]节点、本土概念、生活经验 | 教育清算中心评级标签（如 Recommended） |
+> | **核心检验问题** | 题目是否真正测出了心理特质 | 实验刺激是否纯净表征了因果[[Variable\|变量]] | 理论范畴是否反映参与者真实意义 | “基于证据”标签是否代表客观特质 |
+> | **主要威胁** | 题项表征不足、语言理解干扰 | [[Hawthorne Effect\|霍桑效应]]、[[Experimenter Bias\|实验者偏差]]、处理混杂 | 研究者理论强加、脱离情境脉络 | 综合门槛割裂、跨机构评级大面积对立 |
+> | **典型验证方式** | [[Confirmatory Factor Analysis\|验证性因子分析]]、[[Test-Retest Reliability\|重测信度]]、区分相关 | 操作性检查（[[Manipulation Check]]） | 成员核对（[[Member Checking]]）、[[Ethnography\|民族志]][[Rich and Thick Description\|深描]] | [[Multitrait-Multimethod Matrix\|MTMM]] 跨机构评级一致性与收敛性检验 |
 
 ---
 
@@ -151,9 +151,9 @@ updated: 2026-08-21
 > ```
 
 > [!framework-table] 构念效度两大核心威胁表现
-> | 威胁类型 | 威胁本质与产[[Conatus|生机]]制 | 典型教育与测量实例 | 防范与修正策略 |
+> | 威胁类型 | 威胁本质与产[[Conatus\|生机]]制 | 典型教育与测量实例 | 防范与修正策略 |
 > |:---|:---|:---|:---|
-> | **构念不足呈现（Construct Underrepresentation）** | 操作化范围过窄，遗漏了目标构念的重要核心维度，导致测量只能捕捉构念的一小部分 | 数学素养测验仅考察四则运算计算速度，完全遗漏数学建模、推理与问题解决能力([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Cohen et al., 2011, p. 225]])；ToK 课程声称培养批判性思维却未考核假设检验与来源质疑([[Argument_Hughes_2014_JRIE|Hughes, 2014, pp. 40–43]]) | 依据理论蓝图拓宽任务形态，增加开放性表现评估与复杂真实任务 |
+> | **构念不足呈现（Construct Underrepresentation）** | 操作化范围过窄，遗漏了目标构念的重要核心维度，导致测量只能捕捉构念的一小部分 | 数学素养测验仅考察四则运算计算速度，完全遗漏数学建模、推理与问题解决能力([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al., 2011, p. 225]])；ToK 课程声称培养批判性思维却未考核假设检验与来源质疑([[Argument_Hughes_2014_JRIE\|Hughes, 2014, pp. 40–43]]) | 依据理论蓝图拓宽任务形态，增加开放性表现评估与复杂真实任务 |
 > | **构念无关方差（Construct-Irrelevant Variance）** | 测量过程中混入了与目标构念无关的外在因素，这些外在因素系统性影响了最终得分或评价结果 | 纯数学应用题包含大量生僻词汇，导致学生的阅读理解障碍直接拉低数学成绩；或评价项目时评审者偏好商业包装而非实际效果 | 实施无障碍设计、降低非必要语言负荷、采用标准化盲审机制 |
 
 ---
@@ -210,10 +210,10 @@ updated: 2026-08-21
 > [!contrast-table] 构念效度核心命题总览
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |:---|:---|:---|:---|
-> | **表述对应命题** | 操作化必须与理论核心含义精确相容，排查反例 | 量表开发、[[Variable|变量]]定义、[[Manipulation Check|操纵检查]] | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Cohen et al. (2011)]]; [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] |
+> | **表述对应命题** | 操作化必须与理论核心含义精确相容，排查反例 | 量表开发、[[Variable\|变量]]定义、[[Manipulation Check\|操纵检查]] | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al. (2011)]]; [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] |
 > | **MTMM 验证命题** | 收敛效度与判别效度构成构念成立的经验基准 | 多方法测量、量表验证研究 | Campbell & Fiske (1959); Cohen 等人 |
-> | **制度元评估命题** | 跨机构评级发散证明“循证”标签实践构念效度受限 | 循证清算中心、政策评级[[Meta-analysis|元分析]] | [[Argument_Wadhwa_2024_RER|Wadhwa, Zheng, & Cook (2024)]] |
-> | **课程表征命题** | 内部自洽对齐可能掩盖目标构念不足呈现 | 课程纲要审查、[[Higher-Order Thinking Skills|高阶思维]]评估 | [[Argument_Hughes_2014_JRIE|Hughes (2014)]] |
+> | **制度元评估命题** | 跨机构评级发散证明“循证”标签实践构念效度受限 | 循证清算中心、政策评级[[Meta-analysis\|元分析]] | [[Argument_Wadhwa_2024_RER\|Wadhwa, Zheng, & Cook (2024)]] |
+> | **课程表征命题** | 内部自洽对齐可能掩盖目标构念不足呈现 | 课程纲要审查、[[Higher-Order Thinking Skills\|高阶思维]]评估 | [[Argument_Hughes_2014_JRIE\|Hughes (2014)]] |
 
 ---
 
@@ -268,11 +268,11 @@ updated: 2026-08-21
 > [!ref-table]- [[Construct|构念]]效度核心实证研究数据
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | [[Variable|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
 > |:---|:---|:---|:---|:---|:---:|:---|
-> | [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] | 10 个清算中心审查的 1,359 个去重教育项目 | [[Multitrait-Multimethod Matrix|MTMM]] 跨平台一致性检验 | 评级[[Convergent and Discriminant Validity|收敛效度]] (Table 8) | 2-CH 评级对中完全一致率仅 **30.5%**（其中共同推荐 1&1 仅 1.2%）；**完全对立冲突 (1&3) 高达 35.4%** | 全样本去重配对核算 | 揭示清算中心“循证”构念[[Praxis|实践]]效度有限 |
-> | [[Argument_Hughes_2014_JRIE|Hughes (2014)]] | [[International Baccalaureate|IB]] [[Theory of Knowledge|知识论]] (ToK) 课程大纲与评估指南 | [[Content Analysis|内容分析]]与构念映射 | [[Critical Thinking|批判性思维]]构念表征率 | 8 个批判性思维核心维度中，指南仅覆盖 2 项（论证与反主张），其余 6 项（批判阅读、[[Hypothesis|假设]]检验、问题解决等）均未进入评分标准 | 系统文本[[Coding in Qualitative Research|质性编码]] | 揭示课程评估中内部对齐与构念不足呈现并存 |
-> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Cohen et al. (2011)]] | 测量学实验与调查设计案例 | 方法论论证与反例分析 | 构念对应性与方差分解 | 证明削铅笔测验与智力构念相关近乎为 0；数学测验中阅读负荷导致无关方差占比显著上升 | 测量学经典理论案例 | 阐明[[Operationalization|操作化]]相容性与无关方差机制 |
+> | [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] | 10 个清算中心审查的 1,359 个去重教育项目 | [[Multitrait-Multimethod Matrix\|MTMM]] 跨平台一致性检验 | 评级[[Convergent and Discriminant Validity\|收敛效度]] (Table 8) | 2-CH 评级对中完全一致率仅 **30.5%**（其中共同推荐 1&1 仅 1.2%）；**完全对立冲突 (1&3) 高达 35.4%** | 全样本去重配对核算 | 揭示清算中心“循证”构念[[Praxis\|实践]]效度有限 |
+> | [[Argument_Hughes_2014_JRIE\|Hughes (2014)]] | [[International Baccalaureate\|IB]] [[Theory of Knowledge\|知识论]] (ToK) 课程大纲与评估指南 | [[Content Analysis\|内容分析]]与构念映射 | [[Critical Thinking\|批判性思维]]构念表征率 | 8 个批判性思维核心维度中，指南仅覆盖 2 项（论证与反主张），其余 6 项（批判阅读、[[Hypothesis\|假设]]检验、问题解决等）均未进入评分标准 | 系统文本[[Coding in Qualitative Research\|质性编码]] | 揭示课程评估中内部对齐与构念不足呈现并存 |
+> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al. (2011)]] | 测量学实验与调查设计案例 | 方法论论证与反例分析 | 构念对应性与方差分解 | 证明削铅笔测验与智力构念相关近乎为 0；数学测验中阅读负荷导致无关方差占比显著上升 | 测量学经典理论案例 | 阐明[[Operationalization\|操作化]]相容性与无关方差机制 |
 
 ---
 

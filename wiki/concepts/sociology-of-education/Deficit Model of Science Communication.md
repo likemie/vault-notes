@@ -74,5 +74,5 @@ updated: 2026-08-22
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Public Engagement with Science]] | 概念 | 超越赤字模型后确立的双向[[Dialogue in Education|对话]][[Paradigm|范式]]。 |
-> | [[Bodmer Report 1985]] | 事实 | 早期[[Praxis|实践]]中常被反思包含一定赤字模型色彩的政策文本。 |
+> | [[Public Engagement with Science]] | 概念 | 超越赤字模型后确立的双向[[Dialogue in Education\|对话]][[Paradigm\|范式]]。 |
+> | [[Bodmer Report 1985]] | 事实 | 早期[[Praxis\|实践]]中常被反思包含一定赤字模型色彩的政策文本。 |

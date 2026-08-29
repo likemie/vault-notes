@@ -83,9 +83,9 @@ updated: 2026-08-25
 >
 > | 研究 | 工具版本 | 样本与用途 | 测量属性 | 关键结果 |
 > |---|---|---|---|---|
-> | [[Argument_Cole_2015_AJE|Cole et al. (2015)]] | Insight Assessment 2000 英文版 | 澳大利亚大学一年级学生，DP 毕业生 n = 42，非 DP 毕业生 n = 126。使用独立在线入口与登录信息施测，样本流失明显；用于比较[[Critical Thinking|批判性思维]]倾向 | 既有证据总量表 α = .90；测试手册七个分量表 α = .67–.82；当前样本[[Reliability|信度]]、效度与可比性 — | DP 毕业生七个维度均值均较高，总分 300.95 对 293.98；显著性 — |
-> | [[Argument_Park_2026_TSC|Park et al. (2026)]] | — | 元分析中 CCTDI 被编码为主观批判性思维倾向测量（如 Pepe, 2018; Qiang et al., 2020; Ulger, 2016 等） | — | 采用主观批判性思维测量的相关显著更高（$Q_M(1) = 5.234, p = .022$） |
-> | [[Argument_Unal_2026_JECR|Ünal et al. (2026)]] | CCTDI 英文/多语版 | 作为人工智能教育应用一阶元分析中[[Critical Thinking|批判性思维]]与[[Higher-Order Thinking Skills|高阶思维技能]]的操作化测评工具 | 纳入高阶思维技能（HOTS）合成模型 | 证实 AI 赋能教学对高阶思维产出具有显著促进效应（$ES = .63$） |
+> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | Insight Assessment 2000 英文版 | 澳大利亚大学一年级学生，DP 毕业生 n = 42，非 DP 毕业生 n = 126。使用独立在线入口与登录信息施测，样本流失明显；用于比较[[Critical Thinking\|批判性思维]]倾向 | 既有证据总量表 α = .90；测试手册七个分量表 α = .67–.82；当前样本[[Reliability\|信度]]、效度与可比性 — | DP 毕业生七个维度均值均较高，总分 300.95 对 293.98；显著性 — |
+> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | — | 元分析中 CCTDI 被编码为主观批判性思维倾向测量（如 Pepe, 2018; Qiang et al., 2020; Ulger, 2016 等） | — | 采用主观批判性思维测量的相关显著更高（$Q_M(1) = 5.234, p = .022$） |
+> | [[Argument_Unal_2026_JECR\|Ünal et al. (2026)]] | CCTDI 英文/多语版 | 作为人工智能教育应用一阶元分析中[[Critical Thinking\|批判性思维]]与[[Higher-Order Thinking Skills\|高阶思维技能]]的操作化测评工具 | 纳入高阶思维技能（HOTS）合成模型 | 证实 AI 赋能教学对高阶思维产出具有显著促进效应（$ES = .63$） |
 
 ---
 

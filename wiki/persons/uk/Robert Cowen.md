@@ -158,7 +158,7 @@ updated: 2026-07-08
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Transitology]] | 概念 | 他原创的变迁分析概念，探讨教育在社会形态跃迁中的重构性位置。 |
-> | [[Transfer Translation Transformation]] | 概念 | 他提出的 3T [[Analytic Framework|分析框架]]，用以结构化解释教育跨国流动的[[Shape-Shifting|形变]]过程。 |
+> | [[Transfer Translation Transformation]] | 概念 | 他提出的 3T [[Analytic Framework\|分析框架]]，用以结构化解释教育跨国流动的[[Shape-Shifting\|形变]]过程。 |
 > | [[Shape-Shifting]] | 概念 | 他为描述教育制度和思想在跨国转移中的形态突变而提出的核心问题意识。 |
 > | [[Educated Identity]] | 概念 | 他提出的学科重建的核心伦理拷问，见证教育政策对生命的实际人道后果。 |
 > | [[Four Sins of Comparative Education]] | 概念 | 他对学科史中重复重演的四类方法论认知偏差的诊断。 |

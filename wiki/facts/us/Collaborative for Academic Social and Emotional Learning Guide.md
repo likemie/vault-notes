@@ -92,7 +92,7 @@ updated: 2026-08-21
 > [!contrast-table] CASEL 核心评级等级与标准
 > | 评级等级 | 核心准入条件与证据门槛 |
 > |:---|:---|
-> | **CASEL SELect（最高精选认证）** | 包含成套且连贯的 SEL 教学设计；为学校提供高质量的专业发展培训；拥有 **至少 1 项良好实施的实证研究（[[Randomised Controlled Trials|RCT]] 或 [[Quasi-Experimental Designs|QED]]）** 证明对行为或学业有显著正向效果。 |
+> | **CASEL SELect（最高精选认证）** | 包含成套且连贯的 SEL 教学设计；为学校提供高质量的专业发展培训；拥有 **至少 1 项良好实施的实证研究（[[Randomised Controlled Trials\|RCT]] 或 [[Quasi-Experimental Designs\|QED]]）** 证明对行为或学业有显著正向效果。 |
 > | **Promising Programs（有前景项目）** | 教学设计符合 CASEL 框架且具备初步实证成效支持，但在全校性推广支持或实证证据量上稍有欠缺。 |
 > | **Not Included / Insufficient Evidence** | 未达到实证或实施支持门槛的项目。 |
 

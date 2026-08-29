@@ -62,9 +62,9 @@ updated: 2026-08-27
 > | 维度 | 科研与发表维度的学术自由 | 教学与评价维度的学术自由 | 企业商业化逻辑 |
 > |---|---|---|---|
 > | **核心诉求** | 追求前沿真理、公开数据与开放发表 | 自主决定大纲、设计教学活动与评定成绩 | 保护商业秘密、排他性知识产权与资本回报 |
-> | **组织特征** | 开放、非营利、全球[[Peer Debriefing|同行审议]] | 分散化决策、院系自主、抵制科层指令 | 封闭研发、层级授权、目标驱动 |
+> | **组织特征** | 开放、非营利、全球[[Peer Debriefing\|同行审议]] | 分散化决策、院系自主、抵制科层指令 | 封闭研发、层级授权、目标驱动 |
 > | **制度机制** | 终身教职（Tenure）、开放获取期刊 | 教师自主命题、同行评价审定（Moderation） | 保密协议（NDA）、排他许可、专利防御 |
-> | **潜在危机** | 与企业知识产权保护冲突阻碍衍生企业 | 惯性沿用低阶[[Multiple-Choice Questions|选择题]]阻碍[[21st Century Skills and Competencies Discourse|核心素养]]改革 | 市场化侵蚀学术好奇心与公共品价值 |
+> | **潜在危机** | 与企业知识产权保护冲突阻碍衍生企业 | 惯性沿用低阶[[Multiple-Choice Questions\|选择题]]阻碍[[21st Century Skills and Competencies Discourse\|核心素养]]改革 | 市场化侵蚀学术好奇心与公共品价值 |
 
 ---
 
@@ -125,12 +125,12 @@ updated: 2026-08-27
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
-> | 命题类型 | 核心理论判定 | 适用分析情境 | 代表学者与[[Document|文献]] |
+> | 命题类型 | 核心理论判定 | 适用分析情境 | 代表学者与[[Document\|文献]] |
 > |---|---|---|---|
-> | **组织渗透性** | 学术自由与客观性共同确立大学高渗透性与开放[[Innovation Ecosystem|创新生态]] | [[University-Industry Collaboration|产学合作]]萌发、跨学科创新网络 | [[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall (2025b)]] |
-> | **产学产权张力** | 发表自由要求触发企业排他锁定，构成衍生企业融资毒丸 | 产业赞助协议、大学衍生企业孵化 | [[Argument_Gilison_Wilson_2025_UniversityStartups|Gilison & Wilson (2025)]]; [[Argument_Hall_2025_EthicalLegalFrameworks|Hall (2025)]] |
-> | **评价转译缓冲** | 教师评价自主权阻断自上而下政策指令，需转向柔性校准赋能 | 高教治理、学业考核改革、国家框架落地 | [[Argument_Bouckaert_2023_OECD|Bouckaert / OECD (2023)]] |
-> | **安全边界重塑** | 地缘政治冲突促使建立研究安全机制，重构国际合作开放边界 | 国际科研合作、跨国敏感技术管理 | [[Argument_Dean_2025_UICollaborationSupport|Dean et al. (2025)]] |
+> | **组织渗透性** | 学术自由与客观性共同确立大学高渗透性与开放[[Innovation Ecosystem\|创新生态]] | [[University-Industry Collaboration\|产学合作]]萌发、跨学科创新网络 | [[Argument_Boccanfuso_Hall_2025_OrgStrategy\|Boccanfuso & Hall (2025b)]] |
+> | **产学产权张力** | 发表自由要求触发企业排他锁定，构成衍生企业融资毒丸 | 产业赞助协议、大学衍生企业孵化 | [[Argument_Gilison_Wilson_2025_UniversityStartups\|Gilison & Wilson (2025)]]; [[Argument_Hall_2025_EthicalLegalFrameworks\|Hall (2025)]] |
+> | **评价转译缓冲** | 教师评价自主权阻断自上而下政策指令，需转向柔性校准赋能 | 高教治理、学业考核改革、国家框架落地 | [[Argument_Bouckaert_2023_OECD\|Bouckaert / OECD (2023)]] |
+> | **安全边界重塑** | 地缘政治冲突促使建立研究安全机制，重构国际合作开放边界 | 国际科研合作、跨国敏感技术管理 | [[Argument_Dean_2025_UICollaborationSupport\|Dean et al. (2025)]] |
 
 ---
 
@@ -162,9 +162,9 @@ updated: 2026-08-27
 >
 > | 观察情境 / 研究 | 样本与分析对象 | 核心考察维度 | 原始统计与制度发现 | 解释边界与政策启示 |
 > |---|---|---|---|---|
-> | [[Argument_Bouckaert_2023_OECD|Bouckaert (2023, p. 26)]] / OECD 政策分析 | [[OECD]] 成员国高等教育系统 | 考核决策权分布与国家政策传导 | 绝大多数 OECD 国家由单门课程任课教师独立决定期末考试与考核方式，国家仅能实施软性引导 | 证实由于教师评价学术自由的存在，自上而下的政策指令无法直接促成微观考核改革 |
-> | [[Argument_Gilison_Wilson_2025_UniversityStartups|Gilison & Wilson (2025, pp. 143–144)]] | 美国研究型[[University Spin-Out|大学衍生企业]]与赞助协议 | 产业赞助研究知识产权条款分析 | 商业赞助方为防范大学发表自由泄露机密，要求排他许可与范围分割，直接降低衍生[[Corporate Venture Capital|企业风投]]获取率 | 揭示发表权与商业资本诉求碰撞对大学创业生态造成的结构性约束 |
-> | [[Argument_Hall_2025_EthicalLegalFrameworks|Hall (2025, p. 266)]] | 美国高校[[University-Industry Collaboration|产学合作]]与国家安全项目 | 发表延迟（Postponement）与保密研究审批 | 高校普遍实行 30–90 天发表延迟机制；南加州大学（USC）通过教师委员会专门审批涉密项目发表限制 | 表明学术自由在现实契约实践中存在制度化妥协机制 |
+> | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023, p. 26)]] / OECD 政策分析 | [[OECD]] 成员国高等教育系统 | 考核决策权分布与国家政策传导 | 绝大多数 OECD 国家由单门课程任课教师独立决定期末考试与考核方式，国家仅能实施软性引导 | 证实由于教师评价学术自由的存在，自上而下的政策指令无法直接促成微观考核改革 |
+> | [[Argument_Gilison_Wilson_2025_UniversityStartups\|Gilison & Wilson (2025, pp. 143–144)]] | 美国研究型[[University Spin-Out\|大学衍生企业]]与赞助协议 | 产业赞助研究知识产权条款分析 | 商业赞助方为防范大学发表自由泄露机密，要求排他许可与范围分割，直接降低衍生[[Corporate Venture Capital\|企业风投]]获取率 | 揭示发表权与商业资本诉求碰撞对大学创业生态造成的结构性约束 |
+> | [[Argument_Hall_2025_EthicalLegalFrameworks\|Hall (2025, p. 266)]] | 美国高校[[University-Industry Collaboration\|产学合作]]与国家安全项目 | 发表延迟（Postponement）与保密研究审批 | 高校普遍实行 30–90 天发表延迟机制；南加州大学（USC）通过教师委员会专门审批涉密项目发表限制 | 表明学术自由在现实契约实践中存在制度化妥协机制 |
 
 ---
 

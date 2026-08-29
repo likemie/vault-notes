@@ -108,7 +108,7 @@ updated: 2026-08-20
 > [!framework-table] 分析视角
 > | 分析工具 | 解释功能 |
 > |----------|----------|
-> | **[[Innovation Ecosystem]]**<br>创新生态系统 | 理解大学、企业、政府和其他组织之间通过互动推动创新的系统环境，以及如何通过战略性地发展本地生态系统来增强[[University-Industry Collaboration|产学合作]]的价值主张 |
+> | **[[Innovation Ecosystem]]**<br>创新生态系统 | 理解大学、企业、政府和其他组织之间通过互动推动创新的系统环境，以及如何通过战略性地发展本地生态系统来增强[[University-Industry Collaboration\|产学合作]]的价值主张 |
 > | **[[Triple Helix]]**<br>三重螺旋 | 分析大学-产业-政府三个制度领域日益交织的动态关系，政府政策如何塑造产学合作的激励机制 |
 > | **[[Lester's Typology of University Contributions to Local Industry]]**<br>Lester 大学贡献分类 | 根据本地产业的类型和所处产业生命周期阶段，区分大学对本地经济的不同贡献方式 |
 > | **[[King-Persily Model]]**<br>金-珀斯利模型 | 解决产学合作中敏感数据共享的治理框架，通过独立第三方委员会解耦研究者对产业数据的完全访问 |
@@ -122,8 +122,8 @@ updated: 2026-08-20
 > [!method-panel] 峰会议程设计
 > | 模块 | 形式与目的 |
 > |------|-----------|
-> | **专家小组会议**<br>Expert Panel Sessions | 由[[University-Industry Collaboration|产学合作]]领域的思想领袖主持专题讨论，引入关键议题和多元视角 |
-> | **引导式分组讨论**<br>Facilitated Breakouts | 围绕预设议题进行深度辩论，促进不同背景代表之间的[[Dialogue in Education|对话]]与经验分享 |
+> | **专家小组会议**<br>Expert Panel Sessions | 由[[University-Industry Collaboration\|产学合作]]领域的思想领袖主持专题讨论，引入关键议题和多元视角 |
+> | **引导式分组讨论**<br>Facilitated Breakouts | 围绕预设议题进行深度辩论，促进不同背景代表之间的[[Dialogue in Education\|对话]]与经验分享 |
 > | **全体会议综合**<br>Plenary Synthesis | 汇总各分组讨论的发现和共识，提炼跨议题的共通线索 |
 
 峰会项目委员会由来自大学、产业和政府机构的思想领袖组成，在峰会前确定了三个优先探索领域：寻找可收集的、有说服力的度量指标来指导[[University-Industry Collaboration|产学合作]]发展；理解 AI 和机器学习解决方案在产学合作决策中的机会和问题；探索应对全球结构变化的新合作模式。
@@ -278,7 +278,7 @@ updated: 2026-08-20
 > | **合作目的** | 技术**生成**——创造新知识、新技术 | 技术**适应与吸收**——采用、消化已有技术 |
 > | **典型伙伴** | 颠覆性科技公司、前沿研发企业 | 法律服务、金融服务、建筑业、新兴本地生态 |
 > | **关键机制** | 前沿科学 ↔ 前沿创新，共同研发 | 知识扩散、供应链传导、网络效应、标准推广 |
-> | **度量挑战** | 投资回报周期长，[[Technology Readiness Level|技术就绪度]]低 | 影响更难归因，需要关注[[Absorptive Capacity|吸收能力]]而非仅产出 |
+> | **度量挑战** | 投资回报周期长，[[Technology Readiness Level\|技术就绪度]]低 | 影响更难归因，需要关注[[Absorptive Capacity\|吸收能力]]而非仅产出 |
 >
 > 这一区分意味着超越传统伙伴不能简单套用前沿合作的模式——两类逻辑需要不同的合作设计、不同的度量指标、不同的期望管理（pp.18–19）。
 

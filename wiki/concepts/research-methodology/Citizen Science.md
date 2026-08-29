@@ -68,9 +68,9 @@ updated: 2026-08-23
 > [!contrast-table] 表：公民科学四大协作梯度对比表（Haklay, 2013; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|The Royal Society, 2026b]]）
 > | 参与层级 | 核心定义与公众角色 | 权力关系与参与深度 | 典型案例 |
 > |---|---|---|---|
-> | **1. 贡献型（Contributory）** | 公众作为传感器，负责就地采集、记录或分类数据 | 科学家预设协议，公众提供数据输入 | [[Big Butterfly Count|大蝴蝶计数]]、Zooniverse 天文图像分类 |
+> | **1. 贡献型（Contributory）** | 公众作为传感器，负责就地采集、记录或分类数据 | 科学家预设协议，公众提供数据输入 | [[Big Butterfly Count\|大蝴蝶计数]]、Zooniverse 天文图像分类 |
 > | **2. 合作型（Collaborative）** | 公众不仅采集数据，还参与数据初步分析与假说检验修正 | 科学家与公众共同推进研究执行 | 社区水质污染长期协同监测 |
-> | **3. 共创型（Co-created）** | 科学家与公众从源头共同[[Design-Based Research|设计研究]]问题与实验流程 | 深度平权，贯穿课题全流程 | [[The Perception Census|感知普查]]认知多样性跨界共创 |
+> | **3. 共创型（Co-created）** | 科学家与公众从源头共同[[Design-Based Research\|设计研究]]问题与实验流程 | 深度平权，贯穿课题全流程 | [[The Perception Census\|感知普查]]认知多样性跨界共创 |
 > | **4. 社区自主型（Community-Led）** | 社区居民自主界定痛点并掌管经费，选聘学者提供顾问支持 | 权力关系彻底反转，社区拥有最终决策权 | The Ideas Fund 社区自主科研基金（p. 43） |
 
 ---
@@ -140,7 +140,7 @@ updated: 2026-08-23
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 实践机制与政策含义 | 代表案例 / 来源 |
 > |---|---|---|---|
-> | **知识共创与能动性** | 从被动听众转向真实科研主动贡献者 | 观测、记录与真实数据交互 | [[The Perception Census]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|The Royal Society (2026b)]] |
+> | **知识共创与能动性** | 从被动听众转向真实科研主动贡献者 | 观测、记录与真实数据交互 | [[The Perception Census]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|The Royal Society (2026b)]] |
 > | **空间平权与普惠** | 穿透物理场馆集聚限制，普及边远社区 | 去中心化移动应用与极简标准化协议 | [[Big Butterfly Count]]; Butterfly Conservation |
 > | **认识论重塑与包容** | 破除常识实在论，培育神经多样性共情 | 艺术沉浸装置与线上多维知觉测试矩阵 | [[The Perception Census]]; Seth et al. (2022) |
 
@@ -172,10 +172,10 @@ updated: 2026-08-23
 >
 > | 项目名称 | 发起机构与学科领域 | 参与规模与受众特征 | 关键科研产出 | 政策与社会治理影响 |
 > |---|---|---|---|---|
-> | **[[Big Butterfly Count|大蝴蝶计数]]** | 英国蝴蝶保护协会 / 生态学与昆虫学 | 每年逾 **10 万**名公众（盛夏三周） | 累计近百万条高空间分辨率蝴蝶与日行蛾类点位数据 | 直接接入英国国家生物多样性网络（NBN），支撑 Defra 制定《英格兰物种恢复战略》。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|（Butterfly Conservation UK, 2025）]] |
-> | **[[The Perception Census|感知普查]]** | 苏塞克斯大学与 Collective Act / 认知神经科学 | 全球 100+ 国家逾 **20,000** 名受访者 | 建立了人类认知科学史上规模最大、维度最全的知觉多样性开放数据库 | 参与者获得知觉指纹画像，从[[Epistemology|认识论]]根基上重塑对神经多样性的社会包容与共情。 |
-> | **Zooniverse 众包平台** | 牛津大学等联合发起 / 天文、历史与生物学 | 全球数百万注册志愿者 | 完成数亿次星系形态分类、历史手稿[[Transcription in Qualitative Research|转录]]与野生动物红外图像标注 | 催生数百篇《自然》《科学》顶刊论文，成为全球数字公民科学的标准基础设施。 |
-> | **The Ideas Fund** | 英国科学协会与惠康信托 / 社区健康与环境 | 赫尔、奥德姆等欠发达地区草根团体 | 社区自主界定研究课题并掌管数百万英镑资金 | 彻底反转学者与社区的资助权力关系，树立社区主导型公民科学典范。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026b, p. 43)]] |
+> | **[[Big Butterfly Count\|大蝴蝶计数]]** | 英国蝴蝶保护协会 / 生态学与昆虫学 | 每年逾 **10 万**名公众（盛夏三周） | 累计近百万条高空间分辨率蝴蝶与日行蛾类点位数据 | 直接接入英国国家生物多样性网络（NBN），支撑 Defra 制定《英格兰物种恢复战略》。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|（Butterfly Conservation UK, 2025）]] |
+> | **[[The Perception Census\|感知普查]]** | 苏塞克斯大学与 Collective Act / 认知神经科学 | 全球 100+ 国家逾 **20,000** 名受访者 | 建立了人类认知科学史上规模最大、维度最全的知觉多样性开放数据库 | 参与者获得知觉指纹画像，从[[Epistemology\|认识论]]根基上重塑对神经多样性的社会包容与共情。 |
+> | **Zooniverse 众包平台** | 牛津大学等联合发起 / 天文、历史与生物学 | 全球数百万注册志愿者 | 完成数亿次星系形态分类、历史手稿[[Transcription in Qualitative Research\|转录]]与野生动物红外图像标注 | 催生数百篇《自然》《科学》顶刊论文，成为全球数字公民科学的标准基础设施。 |
+> | **The Ideas Fund** | 英国科学协会与惠康信托 / 社区健康与环境 | 赫尔、奥德姆等欠发达地区草根团体 | 社区自主界定研究课题并掌管数百万英镑资金 | 彻底反转学者与社区的资助权力关系，树立社区主导型公民科学典范。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|(The Royal Society, 2026b, p. 43)]] |
 
 ---
 

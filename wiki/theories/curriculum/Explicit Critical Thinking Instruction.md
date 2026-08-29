@@ -90,10 +90,10 @@ updated: 2026-08-25
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
-> | [[Critical Thinking]] | 概念 | 理论所要发展的目标能力——包括分析和评估论证、澄清意义、反思[[Hypothesis|假设]]、基于证据推理等认知技能与倾向 |
-> | [[Theory of Knowledge]] | 概念 | [[International Baccalaureate|IB]] DP 中体现显性教学路径的实践案例，即一个不教授固定内容、专门培养学生批判性思维的独立课程 |
-> | [[Metacognition|元认知]]（Metacognition） | 概念 | 批判性思维的高阶组成部分，指对自己思维过程的意识和调节；显性教学被认为更能促进元认知发展 |
-> | 教师培训（Teacher Training） | 机制 | 调节显性教学效果的关键[[Variable|变量]]——教师接受批判性思维教学法培训后，学生获益最大 |
+> | [[Critical Thinking]] | 概念 | 理论所要发展的目标能力——包括分析和评估论证、澄清意义、反思[[Hypothesis\|假设]]、基于证据推理等认知技能与倾向 |
+> | [[Theory of Knowledge]] | 概念 | [[International Baccalaureate\|IB]] DP 中体现显性教学路径的实践案例，即一个不教授固定内容、专门培养学生批判性思维的独立课程 |
+> | [[Metacognition\|元认知]]（Metacognition） | 概念 | 批判性思维的高阶组成部分，指对自己思维过程的意识和调节；显性教学被认为更能促进元认知发展 |
+> | 教师培训（Teacher Training） | 机制 | 调节显性教学效果的关键[[Variable\|变量]]——教师接受批判性思维教学法培训后，学生获益最大 |
 > | 迁移（Transfer） | 机制 | 理论必须解释的关键过程，即在独立课程中学到的批判性思维技能能否以及如何迁移到具体学科和生活中 |
 
 ---
@@ -183,27 +183,27 @@ updated: 2026-08-25
 > [!effect-table]- 原始研究实证结果
 > <span class="theory-effect-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 比较或干预 | 结果[[Variable|变量]] | 分析样本 | 组别统计 | [[Effect Size|效应量]] | 显著性或不确定性 | 设计与解释边界 |
+> | 研究 | 比较或干预 | 结果[[Variable\|变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
 > |---|---|---|---|---|---|---|---|
-> | [[Argument_Cole_2015_AJE|Cole et al. (2015)]] | ToK 独立显性课程学习阶段（Y12 vs Y11） | [[Critical Thinking Strategies Scale|CTSS]] 策略总分 | Y12 $n = 622$；Y11 $n = 620$ | Y12 $M = 4.85$ ($SD = 1.05$)；Y11 $M = 4.62$ ($SD = 1.08$) | Hedges' $g = 0.216$（派生） | $t(1240) = 3.04, p < .001$ | 显性独立探究课程；自报测量；横断设计边界 |
-> | [[Argument_Cole_2015_AJE|Cole et al. (2015)]] | ToK 独立显性课程学习阶段（Y12 vs Y11） | [[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale|MSLQ-CT]] | Y12 $n = 622$；Y11 $n = 620$ | Y12 $M = 4.69$ ($SD = 1.15$)；Y11 $M = 4.48$ ($SD = 1.22$) | Hedges' $g = 0.177$（派生） | $t(1240) = 3.04, p < .01$ | 与 CTSS 汇聚于一致方向，支持高年级显性课程增益 |
+> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | ToK 独立显性课程学习阶段（Y12 vs Y11） | [[Critical Thinking Strategies Scale\|CTSS]] 策略总分 | Y12 $n = 622$；Y11 $n = 620$ | Y12 $M = 4.85$ ($SD = 1.05$)；Y11 $M = 4.62$ ($SD = 1.08$) | Hedges' $g = 0.216$（派生） | $t(1240) = 3.04, p < .001$ | 显性独立探究课程；自报测量；横断设计边界 |
+> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | ToK 独立显性课程学习阶段（Y12 vs Y11） | [[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale\|MSLQ-CT]] | Y12 $n = 622$；Y11 $n = 620$ | Y12 $M = 4.69$ ($SD = 1.15$)；Y11 $M = 4.48$ ($SD = 1.22$) | Hedges' $g = 0.177$（派生） | $t(1240) = 3.04, p < .01$ | 与 CTSS 汇聚于一致方向，支持高年级显性课程增益 |
 
 > [!ma-table]- 一阶[[Meta-analysis|元分析]]总体结果
 > <span class="theory-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 理论检验角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity|异质性]]与[[Prediction Interval|预测区间]] | 关键解释边界 |
+> | 一阶元分析 | 理论检验角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] | 理论支撑：检验教学干预对通用[[Critical Thinking|批判性思维]]技能的促进效应 | $k = 341$ / $N = —$ | Hedges' $g+$ / [[Fixed-Effect and Random-Effects Models|随机效应模型]] | $g+ = 0.30$ $[0.25, 0.34]$ | $Q(340) = 1,225.89, p = .001, I^2 = 72.27\%$ | 严格排除前实验；确立批判性思维教学的跨情境可教性（改善指数 11.79%） |
-> | [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] | 理论支撑：检验教学干预对[[Domain Specificity|学科特异性]]批判性思维技能的促进效应 | $k = 97$ / $N = —$ | Hedges' $g+$ / 随机效应模型 | $g+ = 0.57$ $[0.47, 0.68]$ | $Q(96) = 544.32, p < .001, I^2 = 82.36\%$ | 排除前实验；包含学科特异性标准化（$g+=0.40$）与非标准化（$g+=0.65$）测验 |
-> | [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] | 理论支撑：检验教学干预对[[Critical Thinking Disposition|批判性思维倾向]]的促进效应 | $k = 25$ / $N = —$ | Hedges' $g+$ / 随机效应模型 | $g+ = 0.23$ $[0.06, 0.40]$ | $Q(24) = 82.32, p < .001, I^2 = 70.84\%$ | 排除前实验；采用 CCTDI 等自陈倾向问卷测量 |
+> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 理论支撑：检验教学干预对通用[[Critical Thinking\|批判性思维]]技能的促进效应 | $k = 341$ / $N = —$ | Hedges' $g+$ / [[Fixed-Effect and Random-Effects Models\|随机效应模型]] | $g+ = 0.30$ $[0.25, 0.34]$ | $Q(340) = 1,225.89, p = .001, I^2 = 72.27\%$ | 严格排除前实验；确立批判性思维教学的跨情境可教性（改善指数 11.79%） |
+> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 理论支撑：检验教学干预对[[Domain Specificity\|学科特异性]]批判性思维技能的促进效应 | $k = 97$ / $N = —$ | Hedges' $g+$ / 随机效应模型 | $g+ = 0.57$ $[0.47, 0.68]$ | $Q(96) = 544.32, p < .001, I^2 = 82.36\%$ | 排除前实验；包含学科特异性标准化（$g+=0.40$）与非标准化（$g+=0.65$）测验 |
+> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 理论支撑：检验教学干预对[[Critical Thinking Disposition\|批判性思维倾向]]的促进效应 | $k = 25$ / $N = —$ | Hedges' $g+$ / 随机效应模型 | $g+ = 0.23$ $[0.06, 0.40]$ | $Q(24) = 82.32, p < .001, I^2 = 70.84\%$ | 排除前实验；采用 CCTDI 等自陈倾向问卷测量 |
 
 > [!ma-table]- 一阶元分析互补维度亚组
 > <span class="theory-meta-moderator-table-marker" aria-hidden="true"></span>
 >
 > | 一阶元分析 | 理论检验角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] | 核心命题检验 | Ennis 课程模式：[[Direct Instruction|直接教学]] vs 融入模式 vs 沉浸模式 vs 混合模式 | 直接教学 $k = 44$；融入 $k = 152$；沉浸 $k = 61$；混合 $k = 84$ | 直接 $g+ = 0.26$；融入 $g+ = 0.29$；沉浸 $g+ = 0.23$；混合 $g+ = 0.38$ $[0.26, 0.51]$ | $Q_b(3) = 4.10, \text{df} = 3, p = .25$ | 显性混合模式（独立显性教学 + 学科融入）实证增益最高，确立显性整合课程优势 |
-> | [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] | 核心命题检验 | 教学干预策略组合：单独真实性（A）vs 单独[[Dialogue in Education|对话]]（D）vs 真实性+对话（A+D）vs 真实性+对话+[[Mentorship|导师制]]（A+D+M） | A 单独 $k = 22$；D 单独 $k = 43$；A+D $k = 45$；A+D+M $k = 19$ | A $g+ = 0.25$；D $g+ = 0.23$；A+D $g+ = 0.32$；A+D+M $g+ = 0.57$ $[0.38, 0.77]$ | $Q_b(3) = 8.19, \text{df} = 3, p = .04$；A+D+M 对比 A+D $z = 1.98, p = .024$ | 三维复合策略显著最优，导师指导发挥关键催化功能 |
+> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 核心命题检验 | Ennis 课程模式：[[Direct Instruction\|直接教学]] vs 融入模式 vs 沉浸模式 vs 混合模式 | 直接教学 $k = 44$；融入 $k = 152$；沉浸 $k = 61$；混合 $k = 84$ | 直接 $g+ = 0.26$；融入 $g+ = 0.29$；沉浸 $g+ = 0.23$；混合 $g+ = 0.38$ $[0.26, 0.51]$ | $Q_b(3) = 4.10, \text{df} = 3, p = .25$ | 显性混合模式（独立显性教学 + 学科融入）实证增益最高，确立显性整合课程优势 |
+> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 核心命题检验 | 教学干预策略组合：单独真实性（A）vs 单独[[Dialogue in Education\|对话]]（D）vs 真实性+对话（A+D）vs 真实性+对话+[[Mentorship\|导师制]]（A+D+M） | A 单独 $k = 22$；D 单独 $k = 43$；A+D $k = 45$；A+D+M $k = 19$ | A $g+ = 0.25$；D $g+ = 0.23$；A+D $g+ = 0.32$；A+D+M $g+ = 0.57$ $[0.38, 0.77]$ | $Q_b(3) = 8.19, \text{df} = 3, p = .04$；A+D+M 对比 A+D $z = 1.98, p = .024$ | 三维复合策略显著最优，导师指导发挥关键催化功能 |
 
 ---
 

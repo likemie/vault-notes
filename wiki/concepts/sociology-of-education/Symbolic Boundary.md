@@ -74,11 +74,11 @@ related_arguments:
 > [!contrast-table] 象征边界与社会边界的分野
 > | 维度 | 象征边界（Symbolic Boundary） | 社会边界（Social Boundary） |
 > |:---|:---|:---|
-> | **核心性质** | 主观的、观念上的分类与道德区隔界限[[Argument_Zheng_2023_ShanghaiSanlian|(郑雅君, 2023, p. 168)]] | 客观的、制度化或物质性的社会区隔与屏障[[Argument_Zheng_2023_ShanghaiSanlian|(郑雅君, 2023, p. 168)]] |
-> | **表现形式** | 道德词汇、身份标识、偏见、排斥性常识[[Argument_Yu_2024_CE|(Yu & Zhao, 2024, p. 71)]] | 资源分配不均、法律身份差异、阶层隔离、自治权限制 |
+> | **核心性质** | 主观的、观念上的分类与道德区隔界限[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, p. 168)]] | 客观的、制度化或物质性的社会区隔与屏障[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, p. 168)]] |
+> | **表现形式** | 道德词汇、身份标识、偏见、排斥性常识[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 71)]] | 资源分配不均、法律身份差异、阶层隔离、自治权限制 |
 > | **作用机制** | 差异道德化、边界自然化、排斥正当化 | 资源控制、配给壁垒、制度强制与社会再生产 |
-> | **演化关系** | 处于动态建构中，是社会边界的前夜与意识形态基础 | 是象征边界长期巩固并获得制度认可后的“硬化”产物[[Argument_Zheng_2023_ShanghaiSanlian|(郑雅君, 2023, p. 168)]] |
-> | **代表研究** | [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]；[[Argument_Yu_2024_CE|Yu & Zhao (2024)]] | Lamont & Molnár (2002)；Bourdieu (1984) |
+> | **演化关系** | 处于动态建构中，是社会边界的前夜与意识形态基础 | 是象征边界长期巩固并获得制度认可后的“硬化”产物[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, p. 168)]] |
+> | **代表研究** | [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]]；[[Argument_Yu_2024_CE\|Yu & Zhao (2024)]] | Lamont & Molnár (2002)；Bourdieu (1984) |
 
 ---
 
@@ -116,8 +116,8 @@ related_arguments:
 > [!contrast-table] 两种大学模式的道德象征边界对比
 > | 模式 | 标识自我的道德话语 | 区隔他者的方式 | 典型口述与行为 |
 > |:---|:---|:---|:---|
-> | **[[Goal-Controlled Mode|目标掌控者]]** | “有趣”、“对自己负责”、“规划清晰” | 将无目标地组织生活视为“不负责任”；用“学霸”（略带贬义）指称只会做好事情但不知为何要做的人[[Argument_Zheng_2023_ShanghaiSanlian|(郑雅君, 2023, p. 169)]] | “有些人虽然成绩好，但生活得毫无趣味，只是一台考试机器。” |
-> | **[[Intuition-Dependent Mode|直觉依赖者]]** | “淳朴”、“纯真”、“没有套路”、“脚踏实地” | 将策略性地组织大学生活视为“功利心强”、“动机不纯粹”；对与老师套近乎等行为“非常不齿”[[Argument_Zheng_2023_ShanghaiSanlian|(郑雅君, 2023, p. 170)]] | “我从来没有操纵过我的成绩……选课挑简单的选、跟老师套近乎，这些事情我从来都不会去做。”[[Argument_Zheng_2023_ShanghaiSanlian|(郑雅君, 2023, p. 170)]] |
+> | **[[Goal-Controlled Mode\|目标掌控者]]** | “有趣”、“对自己负责”、“规划清晰” | 将无目标地组织生活视为“不负责任”；用“学霸”（略带贬义）指称只会做好事情但不知为何要做的人[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, p. 169)]] | “有些人虽然成绩好，但生活得毫无趣味，只是一台考试机器。” |
+> | **[[Intuition-Dependent Mode\|直觉依赖者]]** | “淳朴”、“纯真”、“没有套路”、“脚踏实地” | 将策略性地组织大学生活视为“功利心强”、“动机不纯粹”；对与老师套近乎等行为“非常不齿”[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, p. 170)]] | “我从来没有操纵过我的成绩……选课挑简单的选、跟老师套近乎，这些事情我从来都不会去做。”[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, p. 170)]] |
 
 ---
 
@@ -146,9 +146,9 @@ related_arguments:
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 分析层次 | 核心机制 | 代表学者 |
 > |:---|:---|:---|:---|
-> | **微观习性与道德区隔** | 微观个体 / 大学[[Champ|场域]] | 阶层[[Habitus|习性]]转化为“淳朴 vs. 功利”的道德拒斥与自我标识[[Argument_Zheng_2023_ShanghaiSanlian|(郑雅君, 2023)]] | [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] |
-> | **宏观课程与符号霸权** | 宏观制度 / 教科书场域 | 国家通过[[Official Knowledge|官方知识]]自然化“中国文化=汉儒文化”边界[[Argument_Yu_2024_CE|(Yu & Zhao, 2024)]] | [[Argument_Yu_2024_CE|Yu & Zhao (2024)]] |
-> | **边界硬化与结构再生产** | 中观—宏观跨层 | 主观道德拒斥阻断文化资本传递，硬化为客观[[Social Boundary|社会边界]] | Lamont & Molnár (2002) |
+> | **微观习性与道德区隔** | 微观个体 / 大学[[Champ\|场域]] | 阶层[[Habitus\|习性]]转化为“淳朴 vs. 功利”的道德拒斥与自我标识[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023)]] | [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] |
+> | **宏观课程与符号霸权** | 宏观制度 / 教科书场域 | 国家通过[[Official Knowledge\|官方知识]]自然化“中国文化=汉儒文化”边界[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024)]] | [[Argument_Yu_2024_CE\|Yu & Zhao (2024)]] |
+> | **边界硬化与结构再生产** | 中观—宏观跨层 | 主观道德拒斥阻断文化资本传递，硬化为客观[[Social Boundary\|社会边界]] | Lamont & Molnár (2002) |
 
 ---
 

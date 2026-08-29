@@ -109,9 +109,9 @@ journal: "Australian Journal of Education"
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **[[Explicit Critical Thinking Instruction]]**<br>显性批判性思维教学理论 | 组织核心论证框架，预测显性独立课程比隐性融入路径更能提升批判性思维技能。该理论以 Abrami et al.（2008）对 117 项研究（$N = 20,698$）的[[Meta-analysis|元分析]]和 Marin & Halpern（2011）在低表现学校的[[Experimental Research|随机对照实验]]为核心证据基础 |
-> | **[[Critical Thinking]] 的 Delphi 定义与测量框架**<br>Facione（1990） | 提供批判性思维的可[[Operationalization|操作化]]定义，并支撑[[Critical Thinking Strategies Scale|CTSS]]对批判性思维策略的测量。[[California Critical Thinking Disposition Inventory|CCTDI]]则承担批判性思维倾向测量 |
-> | **元认知理论**<br>Flavell（1977） | 解释批判性思维的高阶认知维度，指个体对自己思维过程的意识和调节。ToK 要求学生反复追问"我们如何知道我们所知道的"，这本质上是系统性的[[Metacognition|元认知]]训练（Bruer, 2000; McGuire, 2012; Pintrich, 2002） |
+> | **[[Explicit Critical Thinking Instruction]]**<br>显性批判性思维教学理论 | 组织核心论证框架，预测显性独立课程比隐性融入路径更能提升批判性思维技能。该理论以 Abrami et al.（2008）对 117 项研究（$N = 20,698$）的[[Meta-analysis\|元分析]]和 Marin & Halpern（2011）在低表现学校的[[Experimental Research\|随机对照实验]]为核心证据基础 |
+> | **[[Critical Thinking]] 的 Delphi 定义与测量框架**<br>Facione（1990） | 提供批判性思维的可[[Operationalization\|操作化]]定义，并支撑[[Critical Thinking Strategies Scale\|CTSS]]对批判性思维策略的测量。[[California Critical Thinking Disposition Inventory\|CCTDI]]则承担批判性思维倾向测量 |
+> | **元认知理论**<br>Flavell（1977） | 解释批判性思维的高阶认知维度，指个体对自己思维过程的意识和调节。ToK 要求学生反复追问"我们如何知道我们所知道的"，这本质上是系统性的[[Metacognition\|元认知]]训练（Bruer, 2000; McGuire, 2012; Pintrich, 2002） |
 
 > [!warrant]- 理论如何支撑论证
 > 显性批判性思维[[Didaktik|教学理论]]提出两条可检验预测。接受独立批判性思维课程的学生应在标准化测量上表现更好，这一效果同时受教师培训和学校实施调节。阶段一以 CTSS 和 [[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale|MSLQ]] 比较 11–12 年级差异，阶段二以[[Case Study|案例研究]]解释学校实施差异，阶段三以 DP 与非 DP 毕业生比较提供汇聚证据。
@@ -123,7 +123,7 @@ journal: "Australian Journal of Education"
 > [!method-panel] 整体研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **三阶段收敛式[[Mixed Methods Research|混合方法]]设计**<br>Three-stage Convergent Mixed Methods Design | 三个阶段的量化和质性数据同时收集、分别分析、合并比较，以实现对 ToK 与[[Critical Thinking|批判性思维]]关系的[[Triangulation|三角验证]]（Creswell, 2012; Creswell & Plano-Clark, 2011）。ToK 教师问卷数据不进入当前论证范围 |
+> | **三阶段收敛式[[Mixed Methods Research\|混合方法]]设计**<br>Three-stage Convergent Mixed Methods Design | 三个阶段的量化和质性数据同时收集、分别分析、合并比较，以实现对 ToK 与[[Critical Thinking\|批判性思维]]关系的[[Triangulation\|三角验证]]（Creswell, 2012; Creswell & Plano-Clark, 2011）。ToK 教师问卷数据不进入当前论证范围 |
 
 ---
 
@@ -132,15 +132,15 @@ journal: "Australian Journal of Education"
 > [!method-panel] 阶段一设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **招募方式** | [[International Baccalaureate|IB]] 组织（IBO）向所有澳大利亚 DP 学校领导发送电子邮件邀请，内含在线问卷 URL，由学校分发给 11–12 年级 ToK 学生 |
-> | **伦理与同意** | 学生年龄 ≥16 岁，免除家长同意；问卷完成即视为[[Informed Consent|知情同意]]，参与信息置于问卷开头 |
-> | **测量工具一 [[Critical Thinking Strategies Scale|CTSS]]** | [[Critical Thinking Strategies Scale|CTSS]]测量学生自报的批判性思维策略使用，作为年级差异比较的主要工具 |
-> | **测量工具二 [[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale|MSLQ-CT]]** | [[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale|MSLQ 批判性思维分量表]]作为既有量表参照，用于检验 CTSS 结果是否获得汇聚支持 |
+> | **招募方式** | [[International Baccalaureate\|IB]] 组织（IBO）向所有澳大利亚 DP 学校领导发送电子邮件邀请，内含在线问卷 URL，由学校分发给 11–12 年级 ToK 学生 |
+> | **伦理与同意** | 学生年龄 ≥16 岁，免除家长同意；问卷完成即视为[[Informed Consent\|知情同意]]，参与信息置于问卷开头 |
+> | **测量工具一 [[Critical Thinking Strategies Scale\|CTSS]]** | [[Critical Thinking Strategies Scale\|CTSS]]测量学生自报的批判性思维策略使用，作为年级差异比较的主要工具 |
+> | **测量工具二 [[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale\|MSLQ-CT]]** | [[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale\|MSLQ 批判性思维分量表]]作为既有量表参照，用于检验 CTSS 结果是否获得汇聚支持 |
 
 > [!sample-panel]- 阶段一样本构成
 > | 样本层面 | 构成 |
 > |----------|------|
-> | **总[[Sample Size Determination|样本量]]** | 1,338 名 ToK 学生（11 年级 $n = 630,$ 12 年级 $n = 632$），来自 47 所学校 |
+> | **总[[Sample Size Determination\|样本量]]** | 1,338 名 ToK 学生（11 年级 $n = 630,$ 12 年级 $n = 632$），来自 47 所学校 |
 > | **覆盖率** | 约占澳大利亚当时 ToK 学生总人口的 $37\%$（IBO 估算），除北领地外所有州和领地均有代表 |
 > | **州分布** | QLD 423（$31.6\%$, 8 校）、NSW 363（$27.1\%$, 14 校）、VIC 263（$19.7\%$, 8 校）、SA 208（$15.5\%$, 7 校）、WA 36（$2.7\%$, 4 校）、ACT 34（$2.5\%$, 5 校）、TAS 11（$0.8\%$, 1 校） |
 
@@ -151,10 +151,10 @@ journal: "Australian Journal of Education"
 > [!method-panel] 阶段二设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **抽样策略** | [[Convenience Sampling|便利抽样]]，即选择四所 NSW 提供 IB DP 的学校作为深度[[Case Study|案例研究]]地点 |
-> | **材料一：[[Semi-structured Interview|半结构化访谈]]** | 22 次教师访谈（每次约 40 分钟）、8 组学生[[Focus Group|焦点小组]]（每次约 30 分钟，每组 4–7 名学生）、5 次行政人员访谈。访谈问题围绕受访者如何看待 ToK 课程、ToK 在课程体系中的位置及其价值（完整问题清单见附录 A） |
+> | **抽样策略** | [[Convenience Sampling\|便利抽样]]，即选择四所 NSW 提供 IB DP 的学校作为深度[[Case Study\|案例研究]]地点 |
+> | **材料一：[[Semi-structured Interview\|半结构化访谈]]** | 22 次教师访谈（每次约 40 分钟）、8 组学生[[Focus Group\|焦点小组]]（每次约 30 分钟，每组 4–7 名学生）、5 次行政人员访谈。访谈问题围绕受访者如何看待 ToK 课程、ToK 在课程体系中的位置及其价值（完整问题清单见附录 A） |
 > | **材料二：课堂观察** | 10 次 ToK 课堂观察，记录教师如何教授 ToK、学生如何回应教学法、课堂中应用了哪些批判性思维要素、教学法的有效性受哪些因素影响（观察重点见附录 A） |
-> | **材料三：文件分析** | 学校与 ToK 相关的[[Document|文件]]，包括学校报告、课程文件、学生帮助指南 |
+> | **材料三：文件分析** | 学校与 ToK 相关的[[Document\|文件]]，包括学校报告、课程文件、学生帮助指南 |
 > | **分析策略** | 质性数据由研究团队经过严格讨论后就质性主题达成一致，试图框架和发展 ToK 在四所学校中的运作方式。研究者在四个月内定期返回学校（最多 4 次/校），进行后续访谈、额外观察和澄清，特别是关于 ToK 是否以及如何为批判性思维技能发展提供了平台 |
 
 ---
@@ -164,10 +164,10 @@ journal: "Australian Journal of Education"
 > [!method-panel] 阶段三设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **招募：DP 毕业生** | 通过澳大利亚 IBO 校友联系名单，由 IBO 发送电子邮件邀请（含在线[[Questionnaire|问卷]] URL）给上一届 DP 毕业生 |
+> | **招募：DP 毕业生** | 通过澳大利亚 IBO 校友联系名单，由 IBO 发送电子邮件邀请（含在线[[Questionnaire\|问卷]] URL）给上一届 DP 毕业生 |
 > | **招募：非 DP 毕业生** | 通过各大学单元的在线内容管理系统（如 Blackboard）发布定向电子邮件或在线公告。多所大学被定向接触，但仅悉尼大学和昆士兰科技大学协助了招募 |
-> | **测量工具一 [[California Critical Thinking Disposition Inventory|CCTDI]]** | [[California Critical Thinking Disposition Inventory|CCTDI]]测量七个维度的批判性思维倾向，用于比较 DP 与非 DP 毕业生 |
-> | **测量工具二 [[Academic Self-Concept|ASC]]** | [[Academic Self-Concept General Scale|ASC]]测量一般学术自我概念，并在跨学校成绩难以标准化时作为实际学业成果的代理指标 |
+> | **测量工具一 [[California Critical Thinking Disposition Inventory\|CCTDI]]** | [[California Critical Thinking Disposition Inventory\|CCTDI]]测量七个维度的批判性思维倾向，用于比较 DP 与非 DP 毕业生 |
+> | **测量工具二 [[Academic Self-Concept\|ASC]]** | [[Academic Self-Concept General Scale\|ASC]]测量一般学术自我概念，并在跨学校成绩难以标准化时作为实际学业成果的代理指标 |
 > | **测量工具三：ATAR 与预期成果** | 学生自报 ATAR（澳大利亚高等教育入学排名，即 12 年级成绩的标准化度量）；6 题项自编预期大学成果量表（样题："我将完成我的课程且不会挂掉任何一门课"），Cronbach's $\alpha$ = .78 |
 
 > [!sample-panel]- 阶段三样本构成
@@ -251,7 +251,7 @@ journal: "Australian Journal of Education"
 > | 9 | 基于证据得出结论 | 4.90 (1.41) | 5.00 (1.46) | 0.070 | 1.61 | $p = .25$, NS |
 > | 10 | 限制主张于证据范围内 | 4.29 (1.44) | 4.28 (1.48) | -0.007 | 0.07 | $p = .95$, NS |
 > | 11 | 搜索对立信息 | 4.66 (1.50) | 4.86 (1.49) | 0.134 | 2.37 | $< .05$ |
-> | 12 | 反思[[Hypothesis|假设]]如何塑造观点 | 4.67 (1.45) | 4.87 (1.48) | 0.136 | 2.43 | $< .05$ |
+> | 12 | 反思[[Hypothesis\|假设]]如何塑造观点 | 4.67 (1.45) | 4.87 (1.48) | 0.136 | 2.43 | $< .05$ |
 > | 13 | 论证策略辩护 | 4.61 (1.41) | 4.78 (1.43) | 0.120 | 2.04 | $< .05$ |
 > | 14 | 清晰呈现论证 | 4.84 (1.46) | 4.99 (1.42) | 0.104 | 1.84 | $p = .07$, NS |
 > | **总** | **CTSS 总分** | **4.62 (1.08)** | **4.85 (1.05)** | **0.216** | **3.04** | **$< .001$** |
@@ -279,9 +279,9 @@ journal: "Australian Journal of Education"
 > [!contrast-table] 四校 ToK 实施模式对比
 > | 维度 | 学校 1 | 学校 2 | 学校 3 | 学校 4 |
 > |:-----|:-------|:-------|:-------|:-------|
-> | **做法** | ToK 跨学科链接，探究式学习，系统性质疑知识假设，研究性活动，围绕[[Knowledge Questions|知识问题]]的资源 | 全班讨论，开放式辩论（正反方），主题工作，ToK 论文写作，知识作为文化实践 | 逻辑训练，哲学辩论，[[Socrates|苏格拉底]]对话，论证前提—结论分析，ToK 日志写作 | 生活世界讨论，伦理议题，语言学准备，出版 ToK 作品，思维常规教学，[[Creativity, Action, Service|CAS]] 连接 |
-> | **CT 教学形式** | 基于 ToK 课程指南和 IBO 文件，围绕认识方式与知识[[Domain Analysis|领域分析]] | 非目的性讨论为主，受学科教师影响大 | 传统哲学教学法，以逻辑论证严密性为核心 | 大学风格技能训练，全校整合的批判性思维路径 |
-> | **ToK and CT 的关系** | 对齐整合，全校统一 [[International Baccalaureate|IB]] 概念与课程 | 松散间接，CT 主要通过历史、英语等学科传递 | CT 等同于哲学逻辑论证，ToK 是哲学研究子集 | ToK 嵌入全校 CT 计划，课时用于集中提升他处所学 CT 技能 |
+> | **做法** | ToK 跨学科链接，探究式学习，系统性质疑知识假设，研究性活动，围绕[[Knowledge Questions\|知识问题]]的资源 | 全班讨论，开放式辩论（正反方），主题工作，ToK 论文写作，知识作为文化实践 | 逻辑训练，哲学辩论，[[Socrates\|苏格拉底]]对话，论证前提—结论分析，ToK 日志写作 | 生活世界讨论，伦理议题，语言学准备，出版 ToK 作品，思维常规教学，[[Creativity, Action, Service\|CAS]] 连接 |
+> | **CT 教学形式** | 基于 ToK 课程指南和 IBO 文件，围绕认识方式与知识[[Domain Analysis\|领域分析]] | 非目的性讨论为主，受学科教师影响大 | 传统哲学教学法，以逻辑论证严密性为核心 | 大学风格技能训练，全校整合的批判性思维路径 |
+> | **ToK and CT 的关系** | 对齐整合，全校统一 [[International Baccalaureate\|IB]] 概念与课程 | 松散间接，CT 主要通过历史、英语等学科传递 | CT 等同于哲学逻辑论证，ToK 是哲学研究子集 | ToK 嵌入全校 CT 计划，课时用于集中提升他处所学 CT 技能 |
 > | **整体效果** | **强** | **弱** | **中等** | **强** |
 > | **核心优势** | 全校整合为核心枢纽，学习策略迁移至各学科 | — | 学生对论证结构有严谨理解，逻辑有效性的深度掌握 | CT 为学校使命核心，已复制课程给非 IB 学生 |
 > | **核心风险** | — | 退化为学生聊天课，隐性融入披 ToK 外衣 | CT 局限在哲学领域，忽视科学和社会科学中的推理应用 | — |
@@ -319,7 +319,7 @@ journal: "Australian Journal of Education"
 > | 指标 | DP M (SD) | 非DP M (SD) | Hedges' $g$（派生） | t | df | p |
 > |:-----|:----------|:-----------|:------------------|:--|:---|:---|
 > | ATAR | 94.13 (6.79) | 89.29 (12.07) | 0.441 | 4.76 | 290 | $< .001$ |
-> | 学术自我概念 ([[Academic Self-Concept General Scale|ASC]]) | 6.25 (0.96) | 5.75 (1.02) | 0.497 | 4.24 | 380 | $< .001$ |
+> | 学术自我概念 ([[Academic Self-Concept General Scale\|ASC]]) | 6.25 (0.96) | 5.75 (1.02) | 0.497 | 4.24 | 380 | $< .001$ |
 > | 预期大学成果 | 3.43 (0.43) | 3.32 (0.47) | 0.239 | 2.25 | 380 | $< .001$ |
 >
 > ATAR 均值差为 $+4.84$分，DP 毕业生在三项大学学术准备指标上均占优势。Hedges' $g$ 由组别均值、标准差和样本量以 Python 计算，非原文报告。ASC 的工具结构与测量证据见 ASC 工具条目。

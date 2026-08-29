@@ -75,7 +75,7 @@ updated: '2026-08-27'
 > [!construct-table] [[Creativity|创造性]]产品同感评定维度
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
 >
-> | 评定维度 | 测量核心内容 | 评定方式与指导原则 | 典型[[Inter-Rater Reliability|评定者间信度]] |
+> | 评定维度 | 测量核心内容 | 评定方式与指导原则 | 典型[[Inter-Rater Reliability\|评定者间信度]] |
 > |---|---|---|---|
 > | **创造性（Creativity）** | 产品在所属领域内兼具**新颖性（Novelty）**与**适切性（Appropriateness）**的综合程度。 | 专家依据内隐标准进行 1–7 分（或 1–9 分）相对评分，不提供细化量规以避免刻板约束。 | $\alpha \ge 0.70 \sim 0.90$ |
 > | **技术质量（Technical Quality）** | 产品的基本工艺、技法熟练度、语法严谨性或制作规范度。 | 独立于创造性单列评定，用以析出单纯技能熟练度对创造性评价的干扰。 | $\alpha \ge 0.75 \sim 0.92$ |
@@ -100,18 +100,18 @@ updated: '2026-08-27'
 > [!contrast-table] CAT 产品评定 vs 经典纸笔[[Divergent Thinking|发散思维]]测验（如 [[Torrance Tests of Creative Thinking|TTCT]]）
 > | 比较维度 | 同感评估技术（CAT） | 托兰斯测验（TTCT） |
 > |---|---|---|
-> | **测量对象** | **真实显性[[Creativity|创造性]]产物（Product）** | 内隐认知发散潜能（Potential） |
-> | **[[Ecological Validity|生态效度]]** | **极高（贴近真实艺术与科学创作实践）** | 中等（受实验室纸笔形式限制） |
-> | **[[Domain Specificity|领域特殊性]]** | 强（跨领域评定一致性较低，需特定领域专家） | 弱（侧重领域一般性发散认知能力） |
+> | **测量对象** | **真实显性[[Creativity\|创造性]]产物（Product）** | 内隐认知发散潜能（Potential） |
+> | **[[Ecological Validity\|生态效度]]** | **极高（贴近真实艺术与科学创作实践）** | 中等（受实验室纸笔形式限制） |
+> | **[[Domain Specificity\|领域特殊性]]** | 强（跨领域评定一致性较低，需特定领域专家） | 弱（侧重领域一般性发散认知能力） |
 > | **施测成本** | 高（需招募并报酬多位资深领域专家） | 低（可大班集体施测、客观电脑评分） |
-> | **二阶[[Effect Size|效应量]]** | **$r = 0.12$**（受领域专家主观方差稀释） | **$r = 0.14$**（标准化程度高） |
+> | **二阶[[Effect Size\|效应量]]** | **$r = 0.12$**（受领域专家主观方差稀释） | **$r = 0.14$**（标准化程度高） |
 
 > [!ma-table] CAT 与创造性产品评估相关[[Meta-analysis|元分析]]
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 元分析来源 | 测量对象与[[Construct|构念]] | 评定者[[Reliability|信度]]水平 | 二阶效应量与 95% [[Confidence Interval|CI]] | 核心结论与启示 |
+> | 元分析来源 | 测量对象与[[Construct\|构念]] | 评定者[[Reliability\|信度]]水平 | 二阶效应量与 95% [[Confidence Interval\|CI]] | 核心结论与启示 |
 > |---|---|---|---|---|
-> | Baer & McKool (2009) | CAT 在教育与心理学研究中的跨学科应用 | 平均 $\alpha = 0.81$ | — | 证实专家共识评定具备高度稳健的[[Inter-Rater Reliability|评定者间信度]] |
-> | [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] | 创造性成果（包含 CAT 评定）二阶综合 | 专家评定产品汇总 | **$r = 0.12$** $[−0.02, 0.26]$ | 证实真实产品评定具备极高生态价值，但受情境变异制约 |
+> | Baer & McKool (2009) | CAT 在教育与心理学研究中的跨学科应用 | 平均 $\alpha = 0.81$ | — | 证实专家共识评定具备高度稳健的[[Inter-Rater Reliability\|评定者间信度]] |
+> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 创造性成果（包含 CAT 评定）二阶综合 | 专家评定产品汇总 | **$r = 0.12$** $[−0.02, 0.26]$ | 证实真实产品评定具备极高生态价值，但受情境变异制约 |
 >
 > 在[[Argument_Park_2026_TSC|Park et al. (2026)]]的[[Creativity|创造力]]与[[Critical Thinking|批判性思维]]相关[[Meta-analysis|元分析]]中，产品型评定（如 CAT）被归入与思维型测量（如[[Remote Associates Test|远距离联想测验]]、发散思维任务）不同的评价标准，这解释了混合测量组合相关较低的现象。

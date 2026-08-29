@@ -138,9 +138,9 @@ updated: 2026-08-21
 > | 设计亚型 | 经典符号模型 | 核心机制与控制优势 | 主要效度威胁与防范 | 典型应用情境 |
 > |:---|:---:|:---|:---|:---|
 > | **非等对控制组前后测设计<br>(Non-equivalent Control Group)** | $\frac{O_1 \quad X \quad O_2}{O_3 \quad\quad\quad O_4}$ | 教育中最广泛使用；通过前测 $O_1, O_3$ 建立基线，控制历史与成熟主效应 | 威胁：**选择-成熟交互（Selection $\times$ Maturation）**；防范：协变量调整与倾向匹配 | 班级或学校整体采纳新课程的教学对比 |
-> | **间断时间序列设计<br>(Interrupted Time Series, ITS)** | $O_1 O_2 O_3 \ X \ O_4 O_5 O_6$ | 干预前后多时间点连续观测，通过前测趋势线外推建立动态[[Counterfactual|反事实]] | 威胁：与干预同时发生的历史事件；防范：引入非等对对照时间序列 | 区域性中[[Gaokao|高考]]改革、全校行为管理系统实施 |
-> | **断点回归设计<br>(Regression Discontinuity, RDD)** | $\frac{C \quad X \quad O_1}{C \quad\quad\quad O_2}$ | 依据连续变量阈值（Cut-off）分组，断点局域近似[[Random Assignment|随机分配]]（因果效力最高） | 威胁：阈值操纵（Manipulation）；防范：断点密度检验与带宽敏感性分析 | 依据成绩达线入选的资优生项目或补救辅导 |
-> | **轮换对等设计<br>(Counterbalanced Design)** | $\frac{X_A O_1 X_B O_2}{X_B O_3 X_A O_4}$ | 两组交叉接受不同干预，所有被试兼任自身对照，控制组间不可测[[Heterogeneity|异质性]] | 威胁：**处理滞留污染（[[Order Effects|carry-over effect]]）**；防范：设置充足的清洗期（Washout Period） | 两种短期互补教学策略或数字软件轮换测试 |
+> | **间断时间序列设计<br>(Interrupted Time Series, ITS)** | $O_1 O_2 O_3 \ X \ O_4 O_5 O_6$ | 干预前后多时间点连续观测，通过前测趋势线外推建立动态[[Counterfactual\|反事实]] | 威胁：与干预同时发生的历史事件；防范：引入非等对对照时间序列 | 区域性中[[Gaokao\|高考]]改革、全校行为管理系统实施 |
+> | **断点回归设计<br>(Regression Discontinuity, RDD)** | $\frac{C \quad X \quad O_1}{C \quad\quad\quad O_2}$ | 依据连续变量阈值（Cut-off）分组，断点局域近似[[Random Assignment\|随机分配]]（因果效力最高） | 威胁：阈值操纵（Manipulation）；防范：断点密度检验与带宽敏感性分析 | 依据成绩达线入选的资优生项目或补救辅导 |
+> | **轮换对等设计<br>(Counterbalanced Design)** | $\frac{X_A O_1 X_B O_2}{X_B O_3 X_A O_4}$ | 两组交叉接受不同干预，所有被试兼任自身对照，控制组间不可测[[Heterogeneity\|异质性]] | 威胁：**处理滞留污染（[[Order Effects\|carry-over effect]]）**；防范：设置充足的清洗期（Washout Period） | 两种短期互补教学策略或数字软件轮换测试 |
 > | **仅后测非等对组设计<br>(Posttest-Only Non-equivalent)** | $\frac{X \quad O_1}{\quad\quad O_2}$ | 无法获取前测时的妥协设计；依赖事后统计匹配尝试控制已知背景变量 | 威胁：严重的初始选择偏倚；属于弱因果设计 | 突发教育事件评估或历史档案回溯研究 |
 
 ---
@@ -166,11 +166,11 @@ updated: 2026-08-21
 > [!framework-table] 循证清算中心对 QED 的准入门槛与评级待遇对比（基于 Wadhwa et al., 2024）
 > | 清算中心 / 政策法规 | 对 QED 因果设计的描述强度 | 允许获得的最高评级待遇 | 关键限制条件与特殊要求 |
 > |:---|:---:|:---|:---|
-> | **[[What Works Clearinghouse|WWC]] (美国联邦)** | 2 级 (明确规程) | **Meets Standards With Reservations**<br>(封顶于二等，不得作为单项一等证据) | 必须满足严苛的基线等值性要求（$\le 0.25\text{ SD}$）及整体/差异流失模型。 |
-> | **[[ESSA 2015 Evidence Standards|ESSA 2015]] (联邦立法)** | 法定分级 | **Tier 2 (Moderate Evidence)**<br>(中等证据法定上限) | 要求具备良好的统计控制与广泛代表性，作为学区申请联邦资助的合法依据。 |
-> | **[[Best Evidence Encyclopedia|BEE]] (JHU/Slavin)** | 1 级 ([[Meta-analysis|元分析]]纳入) | **Moderate / Strong** (需与 [[Randomised Controlled Trials|RCT]] 结合) | 允许高质量 QED 纳入元分析；最高 Strong 证据允许“1 项大型多中心 RCT + 1 项高质量 QED”组合。 |
-> | **[[Blueprints for Healthy Youth Development|Blueprints]]** | 3 级 (严苛规程) | **Promising** (封顶于二等) | 排除单独 QED 参评 Model / Model Plus 顶级认证；强制要求[[Evaluator Independence|独立评估者]]报告与[[Fade-out Effect|持续效果]]。 |
-> | **[[National Dropout Prevention Center|NDPC]]** | 1 级 (宽松包容) | **Strong Evidence** (允许 QED 获评最高级) | 准入门槛包容，仅要求存在显著正向 QED 证据且方案在学校现场实际运行满 3 年。 |
+> | **[[What Works Clearinghouse\|WWC]] (美国联邦)** | 2 级 (明确规程) | **Meets Standards With Reservations**<br>(封顶于二等，不得作为单项一等证据) | 必须满足严苛的基线等值性要求（$\le 0.25\text{ SD}$）及整体/差异流失模型。 |
+> | **[[ESSA 2015 Evidence Standards\|ESSA 2015]] (联邦立法)** | 法定分级 | **Tier 2 (Moderate Evidence)**<br>(中等证据法定上限) | 要求具备良好的统计控制与广泛代表性，作为学区申请联邦资助的合法依据。 |
+> | **[[Best Evidence Encyclopedia\|BEE]] (JHU/Slavin)** | 1 级 ([[Meta-analysis\|元分析]]纳入) | **Moderate / Strong** (需与 [[Randomised Controlled Trials\|RCT]] 结合) | 允许高质量 QED 纳入元分析；最高 Strong 证据允许“1 项大型多中心 RCT + 1 项高质量 QED”组合。 |
+> | **[[Blueprints for Healthy Youth Development\|Blueprints]]** | 3 级 (严苛规程) | **Promising** (封顶于二等) | 排除单独 QED 参评 Model / Model Plus 顶级认证；强制要求[[Evaluator Independence\|独立评估者]]报告与[[Fade-out Effect\|持续效果]]。 |
+> | **[[National Dropout Prevention Center\|NDPC]]** | 1 级 (宽松包容) | **Strong Evidence** (允许 QED 获评最高级) | 准入门槛包容，仅要求存在显著正向 QED 证据且方案在学校现场实际运行满 3 年。 |
 
 > [!abstract] [[Counterfactual|反事实]]可行性与比较组强度（Counterfactual Viability）
 > [[Argument_Ross_Morrison_2021_ROE|Ross & Morrison (2021, p. 112)]] 指出，QED 的有效性高度依赖于反事实可行性（Counterfactual Viability）：
@@ -204,12 +204,12 @@ updated: 2026-08-21
 >
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|
-> | [[Randomised Controlled Trials]] | 量化方法 | 真实实验母方法，QED 在无法[[Random Assignment|随机化]]时的主要替代与对照基准。 |
-> | [[Campbellian Validity Framework]] | 核心理论 | 提供 QED 内[[Threats to External Validity|外部效度威胁]]分类体系与[[Causality|因果推断]]逻辑框架。 |
-> | [[Causality]] | 核心概念 | QED 的[[Epistemology|认识论]]归宿，通过[[Counterfactual|反事实]]控制建立概率性因果关系。 |
+> | [[Randomised Controlled Trials]] | 量化方法 | 真实实验母方法，QED 在无法[[Random Assignment\|随机化]]时的主要替代与对照基准。 |
+> | [[Campbellian Validity Framework]] | 核心理论 | 提供 QED 内[[Threats to External Validity\|外部效度威胁]]分类体系与[[Causality\|因果推断]]逻辑框架。 |
+> | [[Causality]] | 核心概念 | QED 的[[Epistemology\|认识论]]归宿，通过[[Counterfactual\|反事实]]控制建立概率性因果关系。 |
 > | [[Single-Case Design]] | 替代方法 | 针对单一个案通过密集重复测量建立因果证据的非组间替代设计。 |
-> | [[ESSA 2015 Evidence Standards]] | 政策依据 | 确立 QED 对应 [[Top Institute for Evidence-Based Education Research|TIER]] 2 Moderate Evidence 的联邦法定资助地位。 |
-> | [[What Works Clearinghouse]] | 评价机构 | 制定了最具代表性的 QED 基线等值性与[[Attrition|流失]]纠偏审查技术规程。 |
+> | [[ESSA 2015 Evidence Standards]] | 政策依据 | 确立 QED 对应 [[Top Institute for Evidence-Based Education Research\|TIER]] 2 Moderate Evidence 的联邦法定资助地位。 |
+> | [[What Works Clearinghouse]] | 评价机构 | 制定了最具代表性的 QED 基线等值性与[[Attrition\|流失]]纠偏审查技术规程。 |
 
 ---
 

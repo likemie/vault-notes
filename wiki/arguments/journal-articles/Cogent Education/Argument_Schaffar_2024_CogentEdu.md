@@ -91,10 +91,10 @@ updated: 2026-06-22
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **[[Phenomenology|现象学]]**<br>Phenomenology | 用于澄清现象（Phenomenon）的哲学含义。解释学习作为具身经验（Embodied experience）、生活世界（Lifeworld）探究和主体间性（Intersubjectivity）[[Dialogue in Education|对话]]的存在性本质，批判将学习量化和指标化的倾向。(pp.2–4) |
-> | **[[Bildung|教化传统]]**<br>Bildung Tradition | 用于说明教育的内在价值和开放未来。强调人的自我形成与共同体建设，批判以经济增长为导向、将教育工具化的工具主义取向。(pp.5–7) |
-> | **[[Didaktik|欧陆教学论]]**<br>Didaktik | 特别是 [[Wolfgang Klafki]] 的[[Epochal Key Problems|时代关键问题]]（Epochal key problems）命题，用以论证如何围绕复杂社会危机（如环境恶化、社会不平等）组织跨学科教学，统合学科深度与跨学科广度。(pp.6–7) |
-> | **[[Constructivist Paradigm|建构主义心理学]]**<br>Educational Psychology & Constructivism | 特别是[[Pragmatic Constructivism|实用主义建构主义]]（Pragmatic Constructivism），用于追溯芬兰 [[Phenomenon-Based Learning|PhBL]] 政策在教学心理学层面的直接学术来源（如 Dewey 与 [[George Herbert Mead|Mead]] 的思想整合）。(pp.7–8) |
+> | **[[Phenomenology\|现象学]]**<br>Phenomenology | 用于澄清现象（Phenomenon）的哲学含义。解释学习作为具身经验（Embodied experience）、生活世界（Lifeworld）探究和主体间性（Intersubjectivity）[[Dialogue in Education\|对话]]的存在性本质，批判将学习量化和指标化的倾向。(pp.2–4) |
+> | **[[Bildung\|教化传统]]**<br>Bildung Tradition | 用于说明教育的内在价值和开放未来。强调人的自我形成与共同体建设，批判以经济增长为导向、将教育工具化的工具主义取向。(pp.5–7) |
+> | **[[Didaktik\|欧陆教学论]]**<br>Didaktik | 特别是 [[Wolfgang Klafki]] 的[[Epochal Key Problems\|时代关键问题]]（Epochal key problems）命题，用以论证如何围绕复杂社会危机（如环境恶化、社会不平等）组织跨学科教学，统合学科深度与跨学科广度。(pp.6–7) |
+> | **[[Constructivist Paradigm\|建构主义心理学]]**<br>Educational Psychology & Constructivism | 特别是[[Pragmatic Constructivism\|实用主义建构主义]]（Pragmatic Constructivism），用于追溯芬兰 [[Phenomenon-Based Learning\|PhBL]] 政策在教学心理学层面的直接学术来源（如 Dewey 与 [[George Herbert Mead\|Mead]] 的思想整合）。(pp.7–8) |
 
 > [!warrant]- 理论如何支撑论证
 > 上述理论工具构成了一个从[[Ontology|本体论]]到社会批判的推理链条。现象学为现象本位提供了体验论与存在论根基，使学习回归生活世界。教化与教学论传统为跨学科整合提供了规范性方向（即面向时代危机培养自治公民）。[[Pragmatic Paradigm|实用主义]]建构主义则提供了具体实施的教学心理学机制。这三者的结合，使我们能够识别并批判当代政策治理中将 [[Phenomenon-Based Learning|PhBL]] 矮化为碎片化技能包的政治经济学过程。(pp.2–3, 6, 8–10)
@@ -106,16 +106,16 @@ updated: 2026-06-22
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **哲学与概念分析**<br>Philosophical Analysis | 运用[[Philosophical Analysis in Education|教育哲学分析]]方法，对现象（Phenomenon）、学科（Discipline）、教化（Bildung）及技能原子化（Atomisation of Skills）等核心概念进行演变考掘与逻辑辨析。(pp.2–6, 9) |
-> | **历史与思想史梳理**<br>Historical Review | 梳理古希腊以来的学科分类史、19世纪德语哲学对芬兰学术界的影响、20世纪芬兰教育心理学[[Paradigm|范式]]的流变，以及芬兰基础教育课程改革的脉络。(pp.5–8) |
+> | **哲学与概念分析**<br>Philosophical Analysis | 运用[[Philosophical Analysis in Education\|教育哲学分析]]方法，对现象（Phenomenon）、学科（Discipline）、教化（Bildung）及技能原子化（Atomisation of Skills）等核心概念进行演变考掘与逻辑辨析。(pp.2–6, 9) |
+> | **历史与思想史梳理**<br>Historical Review | 梳理古希腊以来的学科分类史、19世纪德语哲学对芬兰学术界的影响、20世纪芬兰教育心理学[[Paradigm\|范式]]的流变，以及芬兰基础教育课程改革的脉络。(pp.5–8) |
 > | **课程政策与治理批判**<br>Policy Critique | 对芬兰基础教育国家核心课程文本进行解读，并结合全球软治理（Soft governance）理论，分析 [[OECD]]、欧盟（EU）等国际组织对芬兰教育政策的渗透与重塑。(pp.8–10) |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |----------|------|
 > | **政策文本样本** | 2014年版芬兰基础教育国家核心课程（Finnish National Core Curriculum for Basic Education 2014）及其英文译本。(p.2) |
-> | **历史与哲学[[Document|文献]]** | 涵盖 Kant, [[Edmund Husserl|Husserl]], Heidegger, Sartre, Merleau-Ponty 的[[Phenomenology|现象学]]著作；Snellman 的[[Bildung|教化]]哲学论述；Klafki 的批判建设性教学论；以及 Rauste-von Wright 的[[Constructivist Paradigm|建构主义]]教育心理学文献。(pp.3–8) |
-> | **教学[[Praxis|实践]]情境** | 赫尔辛基大学 2018–2023 年运行的 [[SveaSus Project|SveaSus（可持续世界遗产现象本位学习）项目]]，以芬兰堡（Suomenlinna）世界遗产地为真实学习场域，提供具身、艺术与多语教学的实证脉络。(p.1) |
+> | **历史与哲学[[Document\|文献]]** | 涵盖 Kant, [[Edmund Husserl\|Husserl]], Heidegger, Sartre, Merleau-Ponty 的[[Phenomenology\|现象学]]著作；Snellman 的[[Bildung\|教化]]哲学论述；Klafki 的批判建设性教学论；以及 Rauste-von Wright 的[[Constructivist Paradigm\|建构主义]]教育心理学文献。(pp.3–8) |
+> | **教学[[Praxis\|实践]]情境** | 赫尔辛基大学 2018–2023 年运行的 [[SveaSus Project\|SveaSus（可持续世界遗产现象本位学习）项目]]，以芬兰堡（Suomenlinna）世界遗产地为真实学习场域，提供具身、艺术与多语教学的实证脉络。(p.1) |
 
 ---
 
@@ -164,9 +164,9 @@ updated: 2026-06-22
 > [!contrast-table] 学科秩序的演变与整合
 > | 历史阶段 / 理论 | 知识组织方式 | 对现象的理解方式 |
 > |-----------------|--------------|------------------|
-> | **古希腊亚里士多德秩序**<br>Aristotelian Order | 区分理论科学（数学/物理/生物）、[[Praxis|实践]]科学（伦理/政治）与生产科学（技术/艺术）。(p.5) | 将知识归于宇宙秩序定位与人类社会实践的不同现象。 |
+> | **古希腊亚里士多德秩序**<br>Aristotelian Order | 区分理论科学（数学/物理/生物）、[[Praxis\|实践]]科学（伦理/政治）与生产科学（技术/艺术）。(p.5) | 将知识归于宇宙秩序定位与人类社会实践的不同现象。 |
 > | **中世纪七艺**<br>Seven Liberal Arts | 分为三科（Trivium：语法/逻辑/修辞）与四艺（Quadrivium：算术/几何/音乐/天文）。 | 视沟通媒介与时空数量关系为观察世界的系统窗口。 |
-> | **批判现实主义知识观**<br>Critical Realism (Wheelahan) | 强调[[Discipline-Based Theory|学科理论]]知识具有自身的[[Ontology|本体论]]深度（Ontological depth）和内在逻辑结构。 | 警告将系统知识拆解为细碎能力单元会削弱学科的教育价值。 |
+> | **批判现实主义知识观**<br>Critical Realism (Wheelahan) | 强调[[Discipline-Based Theory\|学科理论]]知识具有自身的[[Ontology\|本体论]]深度（Ontological depth）和内在逻辑结构。 | 警告将系统知识拆解为细碎能力单元会削弱学科的教育价值。 |
 
 > [!warrant]- 推理桥梁：从学科深度走向跨学科广度
 > 学科的演变逻辑表明，人类分类知识正是为了更好地解释特定现象。因此，PhBL 应当引导学生遵循人类好奇心的历史足迹，既尊重学科内部的理论逻辑，又根据[[Epochal Key Problems|时代关键问题]]重新统合知识，而不应模糊学科边界。(pp.4–5)

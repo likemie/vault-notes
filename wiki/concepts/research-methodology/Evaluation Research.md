@@ -70,7 +70,7 @@ updated: 2026-06-17
 > | 受众 | 委托方、利益相关者、特定决策者 | 学术同行、研究社区 |
 > | 时间约束 | 有明确的截止期限 | 通常不受限 |
 > | 数据所有权 | 完成时通常转让给赞助方 | 研究者保留所有权 |
-> | 评判标准 | 效用（utility）与可[[Reliability|信度]]（credibility） | 方法论贡献与领域推进（内部与[[External Validity|外部效度]]） |
+> | 评判标准 | 效用（utility）与可[[Reliability\|信度]]（credibility） | 方法论贡献与领域推进（内部与[[External Validity\|外部效度]]） |
 
 ---
 

@@ -102,10 +102,10 @@ updated: 2026-08-27
 > [!contrast-table] 知识经济与相关发展[[Paradigm|范式]]辨析
 > | 维度 | 知识经济 (KBE) | 福特制工业经济 | 后工业社会 (Bell) |
 > |---|---|---|---|
-> | **核心价值源泉** | 无形知识、研发、[[Higher-Order Thinking Skills|高阶认知技能]]与创新 | 土地、厂房、标准化机器与低技能劳动力 | [[Theoretical Knowledge|理论知识]]与专业服务业 |
-> | **生产组织逻辑** | 敏捷研发、永久创新、网络化协作与[[Reflexivity|知识反身性]] | 流水线分工、大规模标准化重复制造 | 服务经济主导、专业技术阶层崛起 |
-> | **对高等教育的定位** | 全球竞争核心基础设施、创新与高阶能力孵化器 | 少数精英培养或标准化技术官僚培训 | 科学研究与理论[[Knowledge Production|知识生产]]策源地 |
-> | **劳动力要求** | 能够应对劣构复杂问题的审辩与[[Creativity|创造性]]主体 | 遵循既定操作手册的纪律化体力/程序化工人 | 掌握专业学科知识的服务性白领 |
+> | **核心价值源泉** | 无形知识、研发、[[Higher-Order Thinking Skills\|高阶认知技能]]与创新 | 土地、厂房、标准化机器与低技能劳动力 | [[Theoretical Knowledge\|理论知识]]与专业服务业 |
+> | **生产组织逻辑** | 敏捷研发、永久创新、网络化协作与[[Reflexivity\|知识反身性]] | 流水线分工、大规模标准化重复制造 | 服务经济主导、专业技术阶层崛起 |
+> | **对高等教育的定位** | 全球竞争核心基础设施、创新与高阶能力孵化器 | 少数精英培养或标准化技术官僚培训 | 科学研究与理论[[Knowledge Production\|知识生产]]策源地 |
+> | **劳动力要求** | 能够应对劣构复杂问题的审辩与[[Creativity\|创造性]]主体 | 遵循既定操作手册的纪律化体力/程序化工人 | 掌握专业学科知识的服务性白领 |
 
 ---
 
@@ -177,12 +177,12 @@ updated: 2026-08-27
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
-> | 命题类型 | 核心理论判定 | 适用分析情境 | 代表学者与[[Document|文献]] |
+> | 命题类型 | 核心理论判定 | 适用分析情境 | 代表学者与[[Document\|文献]] |
 > |---|---|---|---|
-> | **地缘战略定位** | 大学被重构为国家知识资本与全球博弈核心基础设施 | 高教财政扩张、教育出口、国际化枢纽政策 | [[Argument_Moisio_2022_Springer|Moisio (2022)]]; [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] |
-> | **能力[[Paradigm|范式]]跃迁** | 自动化压力迫使价值来源从事实记忆转向批判与创造技能 | 劳动力技能转型、课程改革、人才需求测绘 | [[Argument_Bouckaert_2023_OECD|Bouckaert / OECD (2023)]] |
-> | **主体性规训** | 通过技能话语将劳动力市场风险转化为个体终身投资义务 | [[Lifelong Learning|终身学习]]、继续教育、自我企业家精神 | [[Argument_Zelinka_2022_SCD_subjectivity|Zelinka (2022)]]; [[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022)]] |
-> | **评价断裂悖论** | 宏观政策高阶能力宣示与微观学业考核事实导向严重脱节 | 高教质量保障、学习增益测量、考试制度改革 | [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] |
+> | **地缘战略定位** | 大学被重构为国家知识资本与全球博弈核心基础设施 | 高教财政扩张、教育出口、国际化枢纽政策 | [[Argument_Moisio_2022_Springer\|Moisio (2022)]]; [[Argument_Rizvi_2022_Springer\|Rizvi (2022)]] |
+> | **能力[[Paradigm\|范式]]跃迁** | 自动化压力迫使价值来源从事实记忆转向批判与创造技能 | 劳动力技能转型、课程改革、人才需求测绘 | [[Argument_Bouckaert_2023_OECD\|Bouckaert / OECD (2023)]] |
+> | **主体性规训** | 通过技能话语将劳动力市场风险转化为个体终身投资义务 | [[Lifelong Learning\|终身学习]]、继续教育、自我企业家精神 | [[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka (2022)]]; [[Argument_Hartmann_2022_CorporateEducation\|Hartmann (2022)]] |
+> | **评价断裂悖论** | 宏观政策高阶能力宣示与微观学业考核事实导向严重脱节 | 高教质量保障、学习增益测量、考试制度改革 | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] |
 
 ---
 

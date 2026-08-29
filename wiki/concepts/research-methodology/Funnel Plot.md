@@ -68,11 +68,11 @@ updated: 2026-08-25
 ## 概念辨析
 
 > [!contrast-table] 漏斗图与[[Forest Plot|森林图]]辨析
-> | 维度 | 漏斗图（Funnel Plot） | [[Forest Plot|森林图（Forest Plot）]] |
+> | 维度 | 漏斗图（Funnel Plot） | [[Forest Plot\|森林图（Forest Plot）]] |
 > |---|---|---|
-> | **图表性质** | 偏倚与[[Heterogeneity|异质性]]诊断散点图 | 综合结果与[[Effect Size|效应量]]点估计展示图 |
-> | **坐标轴定义** | 横轴为效应量，纵轴为[[Standard Error|标准误]]（倒置刻度） | 纵轴为独立研究清单，横轴为效应量与[[Confidence Interval|置信区间]] |
-> | **核心判读** | 散点是否呈倒置漏斗对称分布（检查[[Small Study Effects|小研究效应]]） | 各研究置信区间重叠度与菱形合并效应量显著性 |
+> | **图表性质** | 偏倚与[[Heterogeneity\|异质性]]诊断散点图 | 综合结果与[[Effect Size\|效应量]]点估计展示图 |
+> | **坐标轴定义** | 横轴为效应量，纵轴为[[Standard Error\|标准误]]（倒置刻度） | 纵轴为独立研究清单，横轴为效应量与[[Confidence Interval\|置信区间]] |
+> | **核心判读** | 散点是否呈倒置漏斗对称分布（检查[[Small Study Effects\|小研究效应]]） | 各研究置信区间重叠度与菱形合并效应量显著性 |
 > | **使用阶段** | 证据质控与偏倚检验阶段 | 结果汇总与模型报告阶段 |
 
 ---
@@ -115,10 +115,10 @@ flowchart TD
 > [!ref-table]- 漏斗图辅助检验与校正工具矩阵
 > | 工具/方法 | 方法性质 | 检验逻辑与研判标准 | 关联条目 |
 > |---|---|---|---|
-> | **[[Egger Regression Test|Egger 回归检验]]** | 参数化线性回归 | 检验标准化效应量对精度的回归截距是否显著偏离 0（$p < .05$ 提示不对称） | [[Egger Regression Test]] |
-> | **[[Begg and Mazumdar Rank Correlation|Begg 秩相关检验]]** | 非参数等级相关 | 检验标准化效应量与方差的 Kendall's $\tau$ 等级相关（$p < .05$ 提示小研究效应） | [[Begg and Mazumdar Rank Correlation]] |
-> | **[[Trim and Fill Method|剪补法（Trim & Fill）]]** | 非参数迭代估计 | 剪除不对称极值研究并镜像填补缺失研究，评估填补前后[[Effect Size|效应量]]稳健性 | [[Trim and Fill Method]] |
-> | **[[Multilevel Egger's Test|多水平 Egger 检验]]** | 多水平[[Meta-regression|元回归]] | 针对嵌套数据与集群依赖，提供无偏截距估计与稳健[[Small Study Effects|小研究效应]]检验 | [[Multilevel Egger's Test]] |
+> | **[[Egger Regression Test\|Egger 回归检验]]** | 参数化线性回归 | 检验标准化效应量对精度的回归截距是否显著偏离 0（$p < .05$ 提示不对称） | [[Egger Regression Test]] |
+> | **[[Begg and Mazumdar Rank Correlation\|Begg 秩相关检验]]** | 非参数等级相关 | 检验标准化效应量与方差的 Kendall's $\tau$ 等级相关（$p < .05$ 提示小研究效应） | [[Begg and Mazumdar Rank Correlation]] |
+> | **[[Trim and Fill Method\|剪补法（Trim & Fill）]]** | 非参数迭代估计 | 剪除不对称极值研究并镜像填补缺失研究，评估填补前后[[Effect Size\|效应量]]稳健性 | [[Trim and Fill Method]] |
+> | **[[Multilevel Egger's Test\|多水平 Egger 检验]]** | 多水平[[Meta-regression\|元回归]] | 针对嵌套数据与集群依赖，提供无偏截距估计与稳健[[Small Study Effects\|小研究效应]]检验 | [[Multilevel Egger's Test]] |
 
 ---
 

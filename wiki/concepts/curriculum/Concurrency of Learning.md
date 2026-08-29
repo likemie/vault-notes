@@ -83,9 +83,9 @@ updated: 2026-08-10
 > [!ref-table]- 其他实证结果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | [[Variable|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Metli_2022_IJER|Metli & Akış (2022)]] | 40 名土耳其境内 DP 协调员、教师和管理者 | [[Mixed Methods Research|混合方法研究]] | 对 [[IB Diploma Programme|IBDP]] 核心课程并发学习连贯性的认同与挑战感知 | 虽然超过一半参与者认同课程组件间存在联系，但也指认核心要素在各自学校往往是“孤立运作的” | — | 基于调查和访谈的感知数据，不能证明课程连贯性的实际学习收益，反映了系统性实施障碍 |
+> | [[Argument_Metli_2022_IJER\|Metli & Akış (2022)]] | 40 名土耳其境内 DP 协调员、教师和管理者 | [[Mixed Methods Research\|混合方法研究]] | 对 [[IB Diploma Programme\|IBDP]] 核心课程并发学习连贯性的认同与挑战感知 | 虽然超过一半参与者认同课程组件间存在联系，但也指认核心要素在各自学校往往是“孤立运作的” | — | 基于调查和访谈的感知数据，不能证明课程连贯性的实际学习收益，反映了系统性实施障碍 |
 
 ---
 

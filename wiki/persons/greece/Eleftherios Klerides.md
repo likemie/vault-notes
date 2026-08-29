@@ -105,4 +105,4 @@ updated: 2026-07-09
 > |:-----|:-----|:-----|
 > | [[Wight's Three Traditions of International Theory]] | 理论 | 他引入比较教育分析的国际关系理论基石。 |
 > | [[Agendas of Attention]] | 概念 | 他提出用以描述比较教育关注点随地缘政治变迁而流转的分析概念。 |
-> | [[Cross-National Attraction]] | 概念 | 他从现实主义 IR 视角重新定义为国家在无政府竞争下的策略性“[[Policy Borrowing|政策借用]]”。 |
+> | [[Cross-National Attraction]] | 概念 | 他从现实主义 IR 视角重新定义为国家在无政府竞争下的策略性“[[Policy Borrowing\|政策借用]]”。 |

@@ -105,7 +105,7 @@ updated: 2026-08-26
 > | **检索策略** | 预设布尔逻辑检索式，跨多个权威数据库穷尽检索 | 随机检索或基于研究者既有知识积累选择性阅读 |
 > | **筛选规程** | 依据明确的纳入/排除准则执行双盲背对背独立筛选 | 单人主观判断，无明确可复现的筛选门槛 |
 > | **流程记录** | 绘制标准四阶段流转图，透明报告各环节淘汰篇数与原因 | 仅报告最终引用的文献，中间筛选过程为黑箱 |
-> | **偏倚控制** | 全程评估文献质量、选择偏倚与[[Publication Bias|发表偏倚]] | 容易陷入确认偏误（Confirmation Bias）与引用选择偏倚 |
+> | **偏倚控制** | 全程评估文献质量、选择偏倚与[[Publication Bias\|发表偏倚]] | 容易陷入确认偏误（Confirmation Bias）与引用选择偏倚 |
 
 ---
 
@@ -189,9 +189,9 @@ flowchart TD
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Meta-analysis]] | 应用场景 | PRISMA 为定量元分析提供标准化的[[Literature Search|文献检索]]、筛选与质量报告框架。 |
+> | [[Meta-analysis]] | 应用场景 | PRISMA 为定量元分析提供标准化的[[Literature Search\|文献检索]]、筛选与质量报告框架。 |
 > | [[Systematic Review]] | 上位方法 | PRISMA 是系统综述方法学操作与论文报告的国际金标准。 |
-> | [[Literature Search]] | 组成步骤 | [[Document|文献]]检索是 PRISMA 识别阶段的核心操作引擎。 |
+> | [[Literature Search]] | 组成步骤 | [[Document\|文献]]检索是 PRISMA 识别阶段的核心操作引擎。 |
 > | [[Inter-Rater Reliability]] | 质控指标 | 编码者间一致性信度（如 Krippendorff's $\alpha$）用于衡量 PRISMA 筛选与提取阶段的可靠性。 |
 > | [[AMSTAR]] | 评价工具 | AMSTAR 是外部评估系统综述是否严格遵循 PRISMA 等规范的方法学质量量表。 |
 

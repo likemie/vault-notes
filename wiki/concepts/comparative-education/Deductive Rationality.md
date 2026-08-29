@@ -62,10 +62,10 @@ updated: '2026-07-04'
 ## 概念辨析
 
 > [!contrast-table] 核心概念辨析
-> | 维度 | 演绎理性 (Deductive Rationality) | [[Totally Pedagogised Society|全盘教育化社会]] (Totally Pedagogised Society) | [[New Public Management|新公共管理]] (New Public Management) |
+> | 维度 | 演绎理性 (Deductive Rationality) | [[Totally Pedagogised Society\|全盘教育化社会]] (Totally Pedagogised Society) | [[New Public Management\|新公共管理]] (New Public Management) |
 > |------|-------------------|-------------------|-------------------|
 > | **分析焦点** | 当代大学内部自上而下的行政管理指令与绩效控制话语。(p. 332) | 全社会范围内教育关系与评价指标泛化、日常化的结构性变迁。(p. 336) | 整个公共部门（包括医疗、教育等）引入市场竞争机制的治理变革运动。 |
-> | **作用机制** | **微观政治控制** 通过压缩政策话语（如影响声明、排名指标）判定“合法知识”。(p. 332) | **宏观社会[[Disciplina and Doctrina|规训]]** 迫使个体在日常生活的每个阶段和角落接受[[Lifelong Learning|终身学习]]规训。 | **中观制度重组** 通过引入外包、合同化管理与绩效审计重塑公共服务组织。 |
+> | **作用机制** | **微观政治控制** 通过压缩政策话语（如影响声明、排名指标）判定“合法知识”。(p. 332) | **宏观社会[[Disciplina and Doctrina\|规训]]** 迫使个体在日常生活的每个阶段和角落接受[[Lifelong Learning\|终身学习]]规训。 | **中观制度重组** 通过引入外包、合同化管理与绩效审计重塑公共服务组织。 |
 
 ---
 

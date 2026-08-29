@@ -155,5 +155,5 @@ updated: 2026-07-09
 > |:-----|:-----|:-----|
 > | [[Policy Borrowing]] | 概念 | 首次系统提出情境不可移植假说，奠定了反机械化借用的规范方法论边界。 |
 > | [[Cross-National Attraction]] | 概念 | 指出国家工业实力竞争构成了向他者学习和跨国政策吸引的核心地缘心理机制。 |
-> | [[Wight's Three Traditions of International Theory]] | 理论 | 作为[[Realism in International Relations|现实主义]]思想在比较教育实践中的最典型代拟节点，论证了学术如何服务于地缘政治自保。 |
-> | [[OECD]] | 政策 | 萨德勒建立的国家竞争力调查模型，在数十年后被重塑为以基准测试为主导的多边[[Governing at a Distance|远处治理]]技术。 |
+> | [[Wight's Three Traditions of International Theory]] | 理论 | 作为[[Realism in International Relations\|现实主义]]思想在比较教育实践中的最典型代拟节点，论证了学术如何服务于地缘政治自保。 |
+> | [[OECD]] | 政策 | 萨德勒建立的国家竞争力调查模型，在数十年后被重塑为以基准测试为主导的多边[[Governing at a Distance\|远处治理]]技术。 |

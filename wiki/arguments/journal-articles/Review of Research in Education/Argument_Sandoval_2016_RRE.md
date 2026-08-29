@@ -117,8 +117,8 @@ issuing_organization: ""
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **自然化认识论**<br>[[Epistemological Naturalism]] | 将[[Epistemology|认识论]]从先验的哲学思辨转向对实际[[Causal Processes|因果过程]]（causal processes）的实证考察，为跨越传统认知模型提供合法性，强调社会认知[[Praxis|实践]]。 |
-> | **心智理论**<br>[[Theory of Mind]] | 解释[[Epistemic Cognition|认识论认知]]在儿童早期的前置发育基础，打破阶段论模型关于儿童不具备认识论反思能力的论断。 |
+> | **自然化认识论**<br>[[Epistemological Naturalism]] | 将[[Epistemology\|认识论]]从先验的哲学思辨转向对实际[[Causal Processes\|因果过程]]（causal processes）的实证考察，为跨越传统认知模型提供合法性，强调社会认知[[Praxis\|实践]]。 |
+> | **心智理论**<br>[[Theory of Mind]] | 解释[[Epistemic Cognition\|认识论认知]]在儿童早期的前置发育基础，打破阶段论模型关于儿童不具备认识论反思能力的论断。 |
 > | **整合的多元主义**<br>[[Integrative Pluralism]] | 作为解决多学科模型冲突的统合框架，主张在个体、个体交互、活动系统等多个层级同时开展研究并建立关联。 |
 
 > [!warrant]- 理论如何支撑论证
@@ -131,14 +131,14 @@ issuing_organization: ""
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **文献检索与筛选**<br>Literature Review | 在 Web of Science 数据库中以对应英文术语为检索词，筛选出被引超过10次的[[Document|文献]]，结合领域内三本核心著作的章节，锁定267篇核心文献。 |
+> | **文献检索与筛选**<br>Literature Review | 在 Web of Science 数据库中以对应英文术语为检索词，筛选出被引超过10次的[[Document\|文献]]，结合领域内三本核心著作的章节，锁定267篇核心文献。 |
 > | **文献计量分析**<br>Bibliometric Analysis | 提取核心文献在不同数据库的被引总数和年均被引数，进行排序和斯皮尔曼等级相关分析（Spearman rank correlation），验证高被引文献的高度一致性（r > .834）。 |
-> | **主题综合与理论批判**<br>Theoretical Synthesis | 放弃按年代线性综述的常规做法，采用识别断层线的方法，横向切割各流派在核心[[Hypothesis|假设]]上的根本分歧。 |
+> | **主题综合与理论批判**<br>Theoretical Synthesis | 放弃按年代线性综述的常规做法，采用识别断层线的方法，横向切割各流派在核心[[Hypothesis\|假设]]上的根本分歧。 |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |----------|------|
-> | **文本样本** | 267篇[[Epistemic Cognition|认识论认知]]领域的核心实证研究、理论模型与综述文献，时间跨越近半个世纪。 |
+> | **文本样本** | 267篇[[Epistemic Cognition\|认识论认知]]领域的核心实证研究、理论模型与综述文献，时间跨越近半个世纪。 |
 
 ---
 

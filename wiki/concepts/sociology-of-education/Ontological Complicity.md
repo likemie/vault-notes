@@ -61,10 +61,10 @@ updated: 2026-06-10
 ## 概念辨析
 
 > [!contrast-table] 共谋与顺从的机制辨析
-> | 维度 | [[Ontology|本体论]]共谋 (Ontological Complicity) | 理性共谋 (Rational Complicity) | 盲目顺从 (Blind Conformity) |
+> | 维度 | [[Ontology\|本体论]]共谋 (Ontological Complicity) | 理性共谋 (Rational Complicity) | 盲目顺从 (Blind Conformity) |
 > |------|--------|----------------|----------------|
-> | **认知维度** | 前[[Reflexivity|反思性]]、具身化的潜意识契合。 | 意识层面的工具理性算计。 | 外部压力下的被动合规行为。 |
-> | **核心机制** | 惯习与[[Champ|场域]]的同构性（共鸣）。 | 利益交换、合规性策略选择。 | [[Disciplina and Doctrina|规训]]、奖惩与行政问责。 |
+> | **认知维度** | 前[[Reflexivity\|反思性]]、具身化的潜意识契合。 | 意识层面的工具理性算计。 | 外部压力下的被动合规行为。 |
+> | **核心机制** | 惯习与[[Champ\|场域]]的同构性（共鸣）。 | 利益交换、合规性策略选择。 | [[Disciplina and Doctrina\|规训]]、奖惩与行政问责。 |
 > | **再生产效果** | 隐蔽且极其深厚的结构性深锁。 | 局部的、随利益变动的不稳定再生产。 | 表面化的行为依从，缺乏内化。 |
 
 ---

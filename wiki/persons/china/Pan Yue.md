@@ -57,8 +57,8 @@ updated: 2026-06-26
 > 
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Wuhu Ruhua]] | 概念 | 该历史叙事概念由潘岳完整建构并推广，是其统战史观的核心支撑。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 107]]) |
-> | [[Sinicisation]] | 概念 | 其史论为“汉化”（Sinicisation）赋予了“少数民族自愿融入”的全新历史定义。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 108]]) |
+> | [[Wuhu Ruhua]] | 概念 | 该历史叙事概念由潘岳完整建构并推广，是其统战史观的核心支撑。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 107]]) |
+> | [[Sinicisation]] | 概念 | 其史论为“汉化”（Sinicisation）赋予了“少数民族自愿融入”的全新历史定义。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 108]]) |
 > | [[Zhonghua Minzu]] | 概念 | 作为国家民委主任，直接运用其理论去“铸牢中华民族共同体意识”的一体化建设。 |
 
 ---

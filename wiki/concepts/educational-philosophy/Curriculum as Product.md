@@ -69,10 +69,10 @@ updated: 2026-08-03
 ## 概念辨析
 
 > [!contrast-table] 概念辨析
-> | 维度 | 作为产物的课程（Product） | [[Curriculum as Process|作为过程的课程（Process）]] | [[Curriculum as Praxis|作为实践的课程（Praxis）]] |
+> | 维度 | 作为产物的课程（Product） | [[Curriculum as Process\|作为过程的课程（Process）]] | [[Curriculum as Praxis\|作为实践的课程（Praxis）]] |
 > |------|---------------------------|----------------------------------|----------------------------------|
-> | **[[Epistemology|认识论]]取向** | [[Positivism|实证主义]]与技术控制理性 | 人文主义与实践审议（*[[Phronesis]]*） | [[Critical Theory|批判理论]]与解放[[Praxis|实践]]（*Praxis*） |
-> | **核心机制** | 预设行为目标与标准化测量 | 过程原则与师生共同探究[[Dialogue in Education|对话]] | [[Conscientization|批判意识觉醒]]与反压迫社会变革 |
+> | **[[Epistemology\|认识论]]取向** | [[Positivism\|实证主义]]与技术控制理性 | 人文主义与实践审议（*[[Phronesis]]*） | [[Critical Theory\|批判理论]]与解放[[Praxis\|实践]]（*Praxis*） |
+> | **核心机制** | 预设行为目标与标准化测量 | 过程原则与师生共同探究[[Dialogue in Education\|对话]] | [[Conscientization\|批判意识觉醒]]与反压迫社会变革 |
 > | **教师角色** | 传递既定目标的“技术员” | 促进开放探究的“高级研究者” | 践行言行一致的“批判教育者” |
 
 ---
@@ -114,7 +114,7 @@ updated: 2026-08-03
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **技术控制命题** | 产物模式切断探究过程，压制主体能动性 | 标准化考试与技术官僚课程 | Grundy (1987); [[Argument_Darwish_2009_Queens|Darwish, B.]] |
+> | **技术控制命题** | 产物模式切断探究过程，压制主体能动性 | 标准化考试与技术官僚课程 | Grundy (1987); [[Argument_Darwish_2009_Queens\|Darwish, B.]] |
 
 ---
 

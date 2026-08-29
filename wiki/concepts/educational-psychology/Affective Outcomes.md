@@ -80,11 +80,11 @@ updated: 2026-08-24
 ## 概念辨析
 
 > [!contrast-table] 三类核心学习产出概念辨析
-> | 维度 | 情感产出 (Affective Outcomes) | [[Academic Achievement|学业成就]] | [[Higher-Order Thinking Skills|高阶思维技能]] |
+> | 维度 | 情感产出 (Affective Outcomes) | [[Academic Achievement\|学业成就]] | [[Higher-Order Thinking Skills\|高阶思维技能]] |
 > |---|---|---|---|
 > | 分类领域 | 情感域（Affective Domain） | 认知域低阶（Cognitive Lower-order） | 认知域高阶（Cognitive Higher-order） |
-> | 核心关注 | 态度倾向、兴趣、自信心、内在动机 | 知识识记、理解、公式套用与学业成绩 | 逻辑批判、发散创造、[[Metacognition|元认知]]与复杂问题解决 |
-> | 核心测量载体 | 自陈量表、态度[[Questionnaire|问卷]]、反思日志 | 标准化考试、学科期末测验、GPA | 开放探究表现、思维量表、真实任务解题 |
+> | 核心关注 | 态度倾向、兴趣、自信心、内在动机 | 知识识记、理解、公式套用与学业成绩 | 逻辑批判、发散创造、[[Metacognition\|元认知]]与复杂问题解决 |
+> | 核心测量载体 | 自陈量表、态度[[Questionnaire\|问卷]]、反思日志 | 标准化考试、学科期末测验、GPA | 开放探究表现、思维量表、真实任务解题 |
 > | 在教学中的角色 | 动力引擎与学习体验的情感支撑 | 显性学业达标与常规效标要求 | 知识社会所需的高阶迁移与创新素养 |
 
 ---
@@ -128,8 +128,8 @@ updated: 2026-08-24
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **干预有效性** | 合作学习对情感产出具有显著正向赋能（ES = 0.51） | K-12 与高等教育课堂教学法改革 | [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] |
-> | **情境依赖性** | 情感产出对干预的响应受学科任务结构与互动机制深度调节 | 具体学科教学设计与情感干预规划 | [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] |
+> | **干预有效性** | 合作学习对情感产出具有显著正向赋能（ES = 0.51） | K-12 与高等教育课堂教学法改革 | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] |
+> | **情境依赖性** | 情感产出对干预的响应受学科任务结构与互动机制深度调节 | 具体学科教学设计与情感干预规划 | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] |
 
 ---
 
@@ -158,28 +158,28 @@ updated: 2026-08-24
 > [!ma-table]- 一阶[[Meta-analysis|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval|CI]] | [[Heterogeneity|异质性]]与预测区间 | 关键解释边界 |
+> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与预测区间 | 关键解释边界 |
 > |---|---|---|---|---|---|---|
-> | Çapar & Tarım (2015)，引自 [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] | [[Dependent Variable|结果变量]]：综合[[Cooperative Learning|合作学习]]对数学学科态度的促进效应 | $k = 7$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.52$ $[-0.20, 1.24]$ | — | 土耳其等地区数学混合学段，跨零未达统计显著 |
-> | Kyndt et al. (2013)，引自 [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] | 结果[[Variable|变量]]：面对面合作学习对一般态度的促进效应 | $k = 19$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.15$ $[0.04, 0.26]$ | — | 多国混合学科与混合学段，效应显著但整体偏低且检出[[Publication Bias|发表偏倚]] |
-> | Kyndt et al. (2013)，引自 [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] | 结果变量：合作学习对土耳其等地区[[Student Attitude|学生态度]]的促进效应 | $k = 4$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.18$ $[-0.05, 0.40]$ | — | [[Sample Size Determination|样本量]]较小，置信区间跨零未达统计显著 |
-> | Liu & Lipowski (2021)，引自 [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] | 结果变量：合作学习对体育课内在动机的促进效应 | $k = 6$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.05$ $[-1.30, 1.41]$ | — | K-12 体育教育，置信区间极宽且检出发表偏倚 |
-> | Özkan & Çetinkaya-Uslusoy (2024)，引自 [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] | 结果变量：[[Jigsaw|拼图法]]（Jigsaw）对护理学生专业态度的促进效应 | $k = 6$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 1.18$ $[0.53, 1.84]$ | — | 高等护理教育临床情境，角色互换显著增强专业认同 |
-> | Tanjung et al. (2022)，引自 [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] | 结果变量：小组[[Survey Research|调查法]]对物理情感能力的促进效应 | $k = 4$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 1.26$ $[0.69, 1.88]$ | — | 印尼 10-11 年级物理课，探究合作对学科情感与效能感赋能突出 |
+> | Çapar & Tarım (2015)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | [[Dependent Variable\|结果变量]]：综合[[Cooperative Learning\|合作学习]]对数学学科态度的促进效应 | $k = 7$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.52$ $[-0.20, 1.24]$ | — | 土耳其等地区数学混合学段，跨零未达统计显著 |
+> | Kyndt et al. (2013)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果[[Variable\|变量]]：面对面合作学习对一般态度的促进效应 | $k = 19$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.15$ $[0.04, 0.26]$ | — | 多国混合学科与混合学段，效应显著但整体偏低且检出[[Publication Bias\|发表偏倚]] |
+> | Kyndt et al. (2013)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果变量：合作学习对土耳其等地区[[Student Attitude\|学生态度]]的促进效应 | $k = 4$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.18$ $[-0.05, 0.40]$ | — | [[Sample Size Determination\|样本量]]较小，置信区间跨零未达统计显著 |
+> | Liu & Lipowski (2021)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果变量：合作学习对体育课内在动机的促进效应 | $k = 6$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.05$ $[-1.30, 1.41]$ | — | K-12 体育教育，置信区间极宽且检出发表偏倚 |
+> | Özkan & Çetinkaya-Uslusoy (2024)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果变量：[[Jigsaw\|拼图法]]（Jigsaw）对护理学生专业态度的促进效应 | $k = 6$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 1.18$ $[0.53, 1.84]$ | — | 高等护理教育临床情境，角色互换显著增强专业认同 |
+> | Tanjung et al. (2022)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果变量：小组[[Survey Research\|调查法]]对物理情感能力的促进效应 | $k = 4$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 1.26$ $[0.69, 1.88]$ | — | 印尼 10-11 年级物理课，探究合作对学科情感与效能感赋能突出 |
 
 > [!ma-table]- [[Meta-meta-analysis|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
 >
 > | 二阶元分析 | 当前概念角色与总体结果 | 证据规模 $M$ / $E$ / $k$ / $N$ | 效应指标与模型 | 二阶汇总效应与 95% CI | 异质性与 95% PI | 关键解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] | 结果变量：[[Cooperative Learning|合作学习]]对情感行为（Affective Behaviors）的干预效应 | $M = 6$；$E = 6$；$k = —$；$N = —$（全数据集总 $k = 403$） | Cohen's $d$ / 随机效应模型经典逆方差加权 | $ES = 0.51$ $[0.17, 0.84]$ | 全集 $Q(22) = 349.48, p < .01, I^2 = 93.70\%, \tau^2 = 0.13$；95% PI 未报告 | 情感行为包含态度、动机与自信心等异质测量，点估计为三类产出中最低；一阶研究集中于土耳其与印尼 |
+> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果变量：[[Cooperative Learning\|合作学习]]对情感行为（Affective Behaviors）的干预效应 | $M = 6$；$E = 6$；$k = —$；$N = —$（全数据集总 $k = 403$） | Cohen's $d$ / 随机效应模型经典逆方差加权 | $ES = 0.51$ $[0.17, 0.84]$ | 全集 $Q(22) = 349.48, p < .01, I^2 = 93.70\%, \tau^2 = 0.13$；95% PI 未报告 | 情感行为包含态度、动机与自信心等异质测量，点估计为三类产出中最低；一阶研究集中于土耳其与印尼 |
 
 > [!ma-table]- 二阶元分析互补维度亚组
 > <span class="scrollable-table-marker concept-second-order-role-subgroup-marker" aria-hidden="true"></span>
 >
 > | 二阶元分析 | 当前概念角色 | 对应亚组 | 证据数 $M$ / $E$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] | 结果变量 | 产出类型互补比较：[[Higher-Order Thinking Skills|高阶思维技能]] vs [[Academic Achievement|学业成就]] vs 情感行为 | $E = 4$（HOTS）/ $E = 12$（成就）/ $E = 6$（情感） | HOTS $ES = 0.76$ $[0.42, 1.11]$；成就 $ES = 0.71$ $[0.52, 0.90]$；情感 $ES = 0.51$ $[0.17, 0.84]$ | $Q_b(3) = 4.35, \text{df} = 3, p = .23$ | 预设分析；产出类型间差异未达统计显著，不能依据点估计断言有效性绝对优劣 |
+> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果变量 | 产出类型互补比较：[[Higher-Order Thinking Skills\|高阶思维技能]] vs [[Academic Achievement\|学业成就]] vs 情感行为 | $E = 4$（HOTS）/ $E = 12$（成就）/ $E = 6$（情感） | HOTS $ES = 0.76$ $[0.42, 1.11]$；成就 $ES = 0.71$ $[0.52, 0.90]$；情感 $ES = 0.51$ $[0.17, 0.84]$ | $Q_b(3) = 4.35, \text{df} = 3, p = .23$ | 预设分析；产出类型间差异未达统计显著，不能依据点估计断言有效性绝对优劣 |
 
 ---
 

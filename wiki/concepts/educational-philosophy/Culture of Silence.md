@@ -78,10 +78,10 @@ updated: 2026-07-25
 ## 概念辨析
 
 > [!contrast-table] 概念辨析
-> | 维度 | 沉默文化（Culture of Silence） | [[Conscientization|批判意识觉醒]]（Conscientização） |
+> | 维度 | 沉默文化（Culture of Silence） | [[Conscientization\|批判意识觉醒]]（Conscientização） |
 > |------|-------------------------------|-----------------------------------------|
 > | 状态 | 被动服从、无声、认同既有压迫秩序 | 能动审视、发声、揭露并对抗社会压迫结构 |
-> | 教学产物 | [[Banking Model of Education|储蓄式教育]]与单向听讲的必然产物 | [[Problem-Posing Education|提问式教育]]与平等[[Dialogue in Education|对话]]的结果 |
+> | 教学产物 | [[Banking Model of Education\|储蓄式教育]]与单向听讲的必然产物 | [[Problem-Posing Education\|提问式教育]]与平等[[Dialogue in Education\|对话]]的结果 |
 
 ---
 
@@ -110,7 +110,7 @@ updated: 2026-07-25
 > |:-----|:-----|:-----|
 > | [[Banking Model of Education]] | 概念 | 制造与维持沉默文化的教学制度形式。 |
 > | [[Conscientization]] | 概念 | 打破沉默文化的心理与社会觉醒过程。 |
-> | [[Problem-Posing Education]] | 概念 | 打破沉默文化的教学中介与提问[[Paradigm|范式]]。 |
+> | [[Problem-Posing Education]] | 概念 | 打破沉默文化的教学中介与提问[[Paradigm\|范式]]。 |
 > | [[Freedom of the Learner]] | 概念 | 摆脱沉默文化后的终极学习者自由状态。 |
 
 > [!evidence-grid-a]- 相关研究索引

@@ -146,7 +146,7 @@ citation_aliases:
 | 协议类型 | 核心特征 |
 |---------|---------|
 | 临床试验（Clinical Trial） | 在受控环境中按照获批方案测试技术、药品或程序，使用人类或动物受试者，成本报销 |
-| 保密协议（[[Confidentiality in Research|confidentiality]] / NDA） | 为特定用途（如提案开发）指定共享和保密的信息范围，通常无付款 |
+| 保密协议（[[Confidentiality in Research\|confidentiality]] / NDA） | 为特定用途（如提案开发）指定共享和保密的信息范围，通常无付款 |
 | 数据使用协议（Data Use） | 组织间共享数据（通常为研究数据），对接收方有指定的使用限制和责任，通常无付款 |
 | 捐赠（Gift） | 为指定目的（如研究）进行的不可撤销付款，不附带承诺的交付物或知识产权权利 |
 | 合资企业（Joint Venture） | 组织间合作创建新的共同控制和拥有的实体，如商业化企业 |

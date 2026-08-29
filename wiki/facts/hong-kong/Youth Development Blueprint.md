@@ -132,6 +132,6 @@ updated: 2026-07-13
 > | [[Psychologisation]] | 概念 | 蓝图所代表的去政治化与个体归因治理策略。 |
 > | [[Citizenship and Social Development]] | 政策/事实 | 与蓝图形成课内课外协同、共同落实重组青年身份认同的核心政策。 |
 | [[Liberal Studies]] | 政策/事实 | 被废除的高中必修课程，蓝图旨在清理其残留的青年批判能动性。 |
-| [[My Pledge to Act]] | 政策/事实 | 教育局推行的课外项目，与蓝图共同组成感恩与快乐的情感[[Disciplina and Doctrina|规训]]网络。 |
+| [[My Pledge to Act]] | 政策/事实 | 教育局推行的课外项目，与蓝图共同组成感恩与快乐的情感[[Disciplina and Doctrina\|规训]]网络。 |
 | [[National Security Law]] | 政策/事实 | 为蓝图的行政强推和青年组织的政治清洗提供了强制性的宪制底座。 |
 | [[Cuban's Curriculum Change Theory]] | 理论 | 解释蓝图及相关政策如何实施自上而下、缺乏妥协的结构性变革。 |

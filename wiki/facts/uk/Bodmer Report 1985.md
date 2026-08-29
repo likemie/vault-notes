@@ -97,4 +97,4 @@ updated: 2026-08-22
 > | [[Walter Bodmer]] | 人物 | 报告委员会主席与核心起草者。 |
 > | [[Public Engagement with Science]] | 概念 | 报告推动奠定的核心制度化概念。 |
 > | [[Scientific Literacy]] | 概念 | 报告所倡导提升的全民素养目标。 |
-> | [[Deficit Model of Science Communication]] | 概念 | 报告早期[[Praxis|实践]]所引发的反思与批评对象。 |
+> | [[Deficit Model of Science Communication]] | 概念 | 报告早期[[Praxis\|实践]]所引发的反思与批评对象。 |

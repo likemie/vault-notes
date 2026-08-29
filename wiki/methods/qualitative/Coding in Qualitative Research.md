@@ -72,8 +72,8 @@ updated: 2026-08-16
 >
 > | 步骤 | 操作 | 说明 |
 > |---|---|---|
-> | 1 | **获得整体感（Get a sense of the whole）** | 仔细阅读所有[[Transcription in Qualitative Research|转录]]稿，边读边在脑海中记下浮现的想法 |
-> | 2 | **挑选一份[[Document|文件]]深入分析（Pick one document）** | 选一份最有趣或最短的访谈，逐行问自己"这段在说什么"，关注深层含义而非表面内容，在页边写下想法 |
+> | 1 | **获得整体感（Get a sense of the whole）** | 仔细阅读所有[[Transcription in Qualitative Research\|转录]]稿，边读边在脑海中记下浮现的想法 |
+> | 2 | **挑选一份[[Document\|文件]]深入分析（Pick one document）** | 选一份最有趣或最短的访谈，逐行问自己"这段在说什么"，关注深层含义而非表面内容，在页边写下想法 |
 > | 3 | **形成话题清单（Make a list of topics）** | 对多个参与者的文件完成后，列出所有话题，将相似话题聚类，排列为主要话题、独特话题和剩余话题 |
 > | 4 | **回到数据检验编码（Go back to data, abbreviate topics as codes）** | 将话题缩写为编码写回文本对应段落，检验是否有新类别和编码出现 |
 > | 5 | **将话题转化为类别（Turn topics into categories）** | 为话题找到最具描述性的措辞，通过归并相关话题缩减类别总数，可在类别之间画线显示相互关系 |
@@ -91,7 +91,7 @@ updated: 2026-08-16
 > | **预期编码（Expected）** | 基于文献和常识，读者预期会出现的编码 | 欺凌研究中编码"对自我的态度" |
 > | **意外编码（Surprising）** | 研究前无法预见、数据收集中意外发现 | 领导力研究中发现"地理变暖对办公室位置的影响" |
 > | **概念性兴趣编码（Unusual/Conceptual Interest）** | 具有概念意义的不寻常编码 | Asmussen & Creswell（1995）校园枪击案研究中的"再触发"（retriggering） |
-> | **预设编码（Predetermined）** | 基于理论框架预先设定，辅以 [[Qualitative Codebook|编码手册]] 管理 | 健康科学领域尤常见 |
+> | **预设编码（Predetermined）** | 基于理论框架预先设定，辅以 [[Qualitative Codebook\|编码手册]] 管理 | 健康科学领域尤常见 |
 
 ### 视觉图像作为编码
 

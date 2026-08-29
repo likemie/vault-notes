@@ -95,11 +95,11 @@ updated: 2026-08-25
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
-> | **认知领域（Cognitive Domain）** | 领域分类 | 涵盖智力技能与思维过程的发展，从最基础的事实召回到复杂的评价与创新。[[Argument_Liu_2026_CHBR|(Liu et al., 2026, p. 2)]] |
-> | **知识维度（Knowledge Dimension）** | [[Construct|构念]]划分 | 将学习客体划分为事实性知识（Factual）、概念性知识（Conceptual）、程序性知识（Procedural）与元认知知识（Metacognitive）。[[Argument_Qvortrup_2015_Paideia|(Qvortrup, 2015, p. 30)]] |
-> | **认知过程维度（Cognitive Process Dimension）** | 层级阶梯 | 包含记忆（Remember）、理解（Understand）、应用（Apply）、分析（Analyze）、评价（Evaluate）与创造（Create）六个动词化层级。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, p. 34)]] |
-> | [[Higher-Order Thinking Skills|高阶思维技能（Higher-Order Thinking Skills, HOTS）]] | 衍生构念 | 对应分析、评价与创造等复杂心智运作层级，区别于记忆与简单理解等低阶技能。[[Argument_Gungor_2026_CP|(Güngör et al., 2026, pp. 3–4)]] |
-> | [[Constructive Alignment|建构性格局对齐]] | 教学机制 | 强调通过分类学矩阵使教学活动与测验评估形式严格对齐于预期目标的认知层级。[[Argument_Biggs_1999_HERD|(Biggs, 1999, pp. 64–66)]] |
+> | **认知领域（Cognitive Domain）** | 领域分类 | 涵盖智力技能与思维过程的发展，从最基础的事实召回到复杂的评价与创新。[[Argument_Liu_2026_CHBR\|(Liu et al., 2026, p. 2)]] |
+> | **知识维度（Knowledge Dimension）** | [[Construct\|构念]]划分 | 将学习客体划分为事实性知识（Factual）、概念性知识（Conceptual）、程序性知识（Procedural）与元认知知识（Metacognitive）。[[Argument_Qvortrup_2015_Paideia\|(Qvortrup, 2015, p. 30)]] |
+> | **认知过程维度（Cognitive Process Dimension）** | 层级阶梯 | 包含记忆（Remember）、理解（Understand）、应用（Apply）、分析（Analyze）、评价（Evaluate）与创造（Create）六个动词化层级。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, p. 34)]] |
+> | [[Higher-Order Thinking Skills\|高阶思维技能（Higher-Order Thinking Skills, HOTS）]] | 衍生构念 | 对应分析、评价与创造等复杂心智运作层级，区别于记忆与简单理解等低阶技能。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, pp. 3–4)]] |
+> | [[Constructive Alignment\|建构性格局对齐]] | 教学机制 | 强调通过分类学矩阵使教学活动与测验评估形式严格对齐于预期目标的认知层级。[[Argument_Biggs_1999_HERD\|(Biggs, 1999, pp. 64–66)]] |
 
 ---
 

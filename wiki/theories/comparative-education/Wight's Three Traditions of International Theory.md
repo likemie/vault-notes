@@ -89,11 +89,11 @@ updated: 2026-07-11
 > 
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
-> | **[[Realism in International Relations|现实主义]]（Realism）** | 思想传统 | 马基雅维利传统：视国家为唯一行动者，核心是无政府斗争与“权力”，在比较教育中对应工具性借用与文明化工程。 |
-> | **[[Rationalism in International Relations|理性主义]]（Rationalism）** | 思想传统 | 格劳秀斯传统：视国际社会为存在制度缺陷的合作体，核心是法律与“权威”，在比较教育中对应远处治理、多边合作与[[International Mind|国际心智]]。 |
-> | **[[Revolutionism|革命主义]]（Revolutionism）** | 思想传统 | [[Immanuel Kant|康德]]传统：视政治的终极现实为普遍人类共同体，核心是推翻压迫的“武力”，在比较教育中对应揭露不平等和开辟去殖民的道德解放事业。 |
-> | [[Agendas of Attention|注意力议程]] | 理论概念 | 决定了比较教育研究中哪些国家、政策和议题是“在场”的，哪些是被选择性忽略而“缺席”的。 |
-> | [[Readings of the Global|阅读全球]] | 分析工具 | 将全球化及跨国政策流动视为多重文本，三大传统各自构成不同的阅读全球透镜。 |
+> | **[[Realism in International Relations\|现实主义]]（Realism）** | 思想传统 | 马基雅维利传统：视国家为唯一行动者，核心是无政府斗争与“权力”，在比较教育中对应工具性借用与文明化工程。 |
+> | **[[Rationalism in International Relations\|理性主义]]（Rationalism）** | 思想传统 | 格劳秀斯传统：视国际社会为存在制度缺陷的合作体，核心是法律与“权威”，在比较教育中对应远处治理、多边合作与[[International Mind\|国际心智]]。 |
+> | **[[Revolutionism\|革命主义]]（Revolutionism）** | 思想传统 | [[Immanuel Kant\|康德]]传统：视政治的终极现实为普遍人类共同体，核心是推翻压迫的“武力”，在比较教育中对应揭露不平等和开辟去殖民的道德解放事业。 |
+> | [[Agendas of Attention\|注意力议程]] | 理论概念 | 决定了比较教育研究中哪些国家、政策和议题是“在场”的，哪些是被选择性忽略而“缺席”的。 |
+> | [[Readings of the Global\|阅读全球]] | 分析工具 | 将全球化及跨国政策流动视为多重文本，三大传统各自构成不同的阅读全球透镜。 |
 
 ---
 

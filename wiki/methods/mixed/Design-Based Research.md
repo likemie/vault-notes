@@ -131,7 +131,7 @@ Design-Based Research Collective (2003, p. 8) 将其生成的知识概括为四�
 > [!entry-map]
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
-> | [[Experimental Research]] | 方法 | 对比参照——真实验追求控制和[[Causality|因果推断]]，设计研究追求迭代和情境效用 |
+> | [[Experimental Research]] | 方法 | 对比参照——真实验追求控制和[[Causality\|因果推断]]，设计研究追求迭代和情境效用 |
 > | [[Mixed Methods Research]] | 方法 | 亲和方法——设计实验因其"实用主义根基"（Cobb et al., 2003, p. 10）与混合方法有天然的亲和性（Gorard et al., 2004, pp. 579, 593） |
 > | [[Pragmatic Paradigm]] | 概念 | 哲学根基——Cobb et al. (2003, p. 10) 指出设计实验具有实用主义根基 |
 

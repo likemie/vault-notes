@@ -163,12 +163,12 @@ updated: 2026-08-19
 ### 与替代方法的比较
 
 > [!contrast-table] 因果建模 vs 匹配
-> | 维度 | 因果建模（SEM 等） | [[Matching|匹配]] |
+> | 维度 | 因果建模（SEM 等） | [[Matching\|匹配]] |
 > |------|------------------|-------------------|
 > | 假设依赖 | 较多——依赖不可检验的模型假设 | 较少——更多受实证诊断约束 |
-> | 模型选择 | 面临模型选择问题 | 匹配[[Variable|变量]]在不参考结果变量的情况下确定 |
+> | 模型选择 | 面临模型选择问题 | 匹配[[Variable\|变量]]在不参考结果变量的情况下确定 |
 > | 透明度 | 模型修改过程可能不透明 | 协变量平衡可通过标准化均值差等诊断评估 |
-> | Berk 的推荐 | — | **推荐替代策略（[[Argument_Berk_2011_ER|Berk, 2011, pp.197–198]]）** |
+> | Berk 的推荐 | — | **推荐替代策略（[[Argument_Berk_2011_ER\|Berk, 2011, pp.197–198]]）** |
 
 ---
 
@@ -196,19 +196,19 @@ updated: 2026-08-19
 > [!ref-table] 相关概念
 > | 概念 | 关系 | 说明 |
 > |------|------|------|
-> | [[Causality]] | 核心对象 | 因果性是因果建模所[[Operationalization|操作化]]的核心概念，时间顺序是构建因果模型的基本前提 |
-> | [[Exogenous and Endogenous Variables]] | 结构基础 | 外生和内生[[Variable|变量]]的区分是因果模型结构的基础，递归与非递归模型的选择决定了因果方向的设定 |
-> | [[Variable]] | 分析单位 | 因果模型中的基本分析单位，包括[[Independent Variable|自变量]]、[[Dependent Variable|因变量]]、中介变量和调节变量 |
+> | [[Causality]] | 核心对象 | 因果性是因果建模所[[Operationalization\|操作化]]的核心概念，时间顺序是构建因果模型的基本前提 |
+> | [[Exogenous and Endogenous Variables]] | 结构基础 | 外生和内生[[Variable\|变量]]的区分是因果模型结构的基础，递归与非递归模型的选择决定了因果方向的设定 |
+> | [[Variable]] | 分析单位 | 因果模型中的基本分析单位，包括[[Independent Variable\|自变量]]、[[Dependent Variable\|因变量]]、中介变量和调节变量 |
 > | [[Screening Off]] | 辅助工具 | Pearl 的图形方法可用于识别因果模型中应被筛选掉的因素（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04]]） |
 
 > [!ref-table] 相关方法
 > | 方法 | 关系 | 说明 |
 > |------|------|------|
 > | [[Observational and Correlational Research]] | 数据来源 | 因果建模通常在此类数据中估计因果路径，推论风险直接相关 |
-> | [[Matching]] | 替代策略 | [[Argument_Berk_2011_ER|Berk (2011)]] 推荐的替代方法，以协变量平衡降低混杂风险 |
-> | [[Covariate Adjustment]] | 配套技术 | 通过纳入协变量调整效应估计，变量选择影响[[Effect Size|效应量]]与显著性 |
-> | [[Multiple Regression]] | 基本构件 | 估计单个路径系数；[[Standard Error|SEM]] 扩展了多元回归以同时处理多方程系统 |
-> | [[Recommendations for Practice]] | 风险关联 | [[Argument_Brady_2023_EPR|Brady et al. (2023)]] 关注建模语汇推动越界实践建议的风险 |
+> | [[Matching]] | 替代策略 | [[Argument_Berk_2011_ER\|Berk (2011)]] 推荐的替代方法，以协变量平衡降低混杂风险 |
+> | [[Covariate Adjustment]] | 配套技术 | 通过纳入协变量调整效应估计，变量选择影响[[Effect Size\|效应量]]与显著性 |
+> | [[Multiple Regression]] | 基本构件 | 估计单个路径系数；[[Standard Error\|SEM]] 扩展了多元回归以同时处理多方程系统 |
+> | [[Recommendations for Practice]] | 风险关联 | [[Argument_Brady_2023_EPR\|Brady et al. (2023)]] 关注建模语汇推动越界实践建议的风险 |
 
 ---
 

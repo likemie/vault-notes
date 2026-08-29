@@ -83,7 +83,7 @@ updated: 2026-08-19
 >
 > | Perry (1970) | Belenky et al. (1986) | King & Kitchener (1994) | Kuhn (1991) |
 > |---|---|---|---|
-> | 相对主义内的承诺 | **建构知识** | 反思思维（第 6–7 阶段） | [[Evaluativist|评价论者]] |
+> | 相对主义内的承诺 | **建构知识** | 反思思维（第 6–7 阶段） | [[Evaluativist\|评价论者]] |
 
 ---
 
@@ -117,8 +117,8 @@ updated: 2026-08-19
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **主客观整合的顶阶** | 建构知识标志个体超越[[Subjectivism|主观主义]]，整合两种认识论立场，在情境中主动建构知识 | 认识论发展阶段诊断、高等教育认知评估 | Belenky et al. |
-> | **顶阶假设的挑战** | 线性发展终点假设忽视了情境性，发展论模型的样本代表性与[[Cross-cultural Validity|跨文化效度]]也受质疑 | [[Epistemological Theories|认识论理论]]比较、[[Situative Perspective|情境认知]]研究 | Hofer & Pintrich; Greene et al. |
+> | **主客观整合的顶阶** | 建构知识标志个体超越[[Subjectivism\|主观主义]]，整合两种认识论立场，在情境中主动建构知识 | 认识论发展阶段诊断、高等教育认知评估 | Belenky et al. |
+> | **顶阶假设的挑战** | 线性发展终点假设忽视了情境性，发展论模型的样本代表性与[[Cross-cultural Validity\|跨文化效度]]也受质疑 | [[Epistemological Theories\|认识论理论]]比较、[[Situative Perspective\|情境认知]]研究 | Hofer & Pintrich; Greene et al. |
 
 ---
 

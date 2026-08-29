@@ -75,7 +75,7 @@ updated: 2026-08-26
 ## 概念辨析
 
 > [!contrast-table] 专业敏感型框架与传统模型辨析
-> | 维度 | 专业敏感型[[Research Utilization|研究使用]] | [[Technical Rationality|技术理性]]照搬模型 | 经验主义手艺模型 |
+> | 维度 | 专业敏感型[[Research Utilization\|研究使用]] | [[Technical Rationality\|技术理性]]照搬模型 | 经验主义手艺模型 |
 > |------|------------------|----------------|----------------|
 > | **知识定位** | 多元知识生态中的一环（与经验、学情并列） | 具有最高权威的外部科学处方 | 仅作参考，甚至视为脱离实际的书生之见 |
 > | **运用方式** | 结合具体情境权衡取舍、因地制宜剪裁 | 机械对照流程操作、追求标准化复制 | 凭个人直觉与习惯做主观过滤 |
@@ -134,8 +134,8 @@ updated: 2026-08-26
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **多源知识动态整合** | 阐明教师多元知识库中科研证据与其他经验资源的权衡机制 | 课堂教学决策、校本教研、课程开发 | [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]]; Shulman (1987); Grimen (2008) |
-> | **专业伦理价值把关** | 揭示育人价值观与伦理考量对研究使用的调节作用 | 循证改革推行、绩效考核与育人理念冲突情境 | [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]]; Eriksen (2022) |
+> | **多源知识动态整合** | 阐明教师多元知识库中科研证据与其他经验资源的权衡机制 | 课堂教学决策、校本教研、课程开发 | [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]]; Shulman (1987); Grimen (2008) |
+> | **专业伦理价值把关** | 揭示育人价值观与伦理考量对研究使用的调节作用 | 循证改革推行、绩效考核与育人理念冲突情境 | [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]]; Eriksen (2022) |
 
 ---
 
@@ -153,10 +153,10 @@ updated: 2026-08-26
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | [[Variable|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]] | 34 项同行评议学术[[Document|文献]]（1996–2024 年） | [[Critical Review|批判性综述]]＋系统综述与元分析优先报告条目（Preferred Reporting Items for Systematic Reviews and Meta-Analyses, PRISMA）流程 | 证据形态与微观观察缺失比例 | 24 项实证研究中[[Questionnaire|问卷]]自陈调查 13 项（54%），微观课堂决策观察仅 3 项（12.5%） | — | 凸显既有实证缺乏微观知识整合与互动数据，支撑了转向专业敏感型质性[[Rich and Thick Description|深描]]的必要性 |
-> | [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]] | 同上 | 同上 | 教师[[Research Utilization|研究使用]]态度与实际行为比较 | [[Survey Research|调查研究]]普遍报告教师高度认可研究价值，但实际日常教学使用率持续处于极低水平 | — | 证明非使用往往源自情境复杂性与知识整合难度，而非教师主观抵触 |
+> | [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] | 34 项同行评议学术[[Document\|文献]]（1996–2024 年） | [[Critical Review\|批判性综述]]＋系统综述与元分析优先报告条目（Preferred Reporting Items for Systematic Reviews and Meta-Analyses, PRISMA）流程 | 证据形态与微观观察缺失比例 | 24 项实证研究中[[Questionnaire\|问卷]]自陈调查 13 项（54%），微观课堂决策观察仅 3 项（12.5%） | — | 凸显既有实证缺乏微观知识整合与互动数据，支撑了转向专业敏感型质性[[Rich and Thick Description\|深描]]的必要性 |
+> | [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] | 同上 | 同上 | 教师[[Research Utilization\|研究使用]]态度与实际行为比较 | [[Survey Research\|调查研究]]普遍报告教师高度认可研究价值，但实际日常教学使用率持续处于极低水平 | — | 证明非使用往往源自情境复杂性与知识整合难度，而非教师主观抵触 |
 
 ---
 

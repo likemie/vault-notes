@@ -106,7 +106,7 @@ updated: 2026-08-16
 ### 两种反思性的对比
 
 > [!contrast-table] 舒茨式 vs 加芬克尔式反思性
-> | 维度 | 舒茨式（[[Phenomenology|现象学]]） | 加芬克尔式（[[Ethnomethodology|俗民方法学]]） |
+> | 维度 | 舒茨式（[[Phenomenology\|现象学]]） | 加芬克尔式（[[Ethnomethodology\|俗民方法学]]） |
 > |------|---------------------------|----------------------------------------|
 > | 意义生成 | 回顾性地赋予——通过回到自身审视经验流来建构理解。 | 说明与情境相互依存——说明本身参与构成它所描述的情境。 |
 > | 性质 | 时间性的、个体性的。 | 社会性的、构成性的。 |
@@ -189,9 +189,9 @@ McCormick & James（1988, p. 191）进一步论述了操作含义：高度的反
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Researcher as Key Instrument|研究者作为关键工具]] | 概念 | 反身性是研究者作为工具的必然推论——如果研究者本人就是工具，那么审视工具本身如何影响研究就是必要的。两者互为因果。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 409–410)]] |
-> | [[Backyard Research|后院研究]] | 概念 | 研究者研究自己的组织、朋友或直接工作环境时，反身性尤为重要——这往往导致信息披露能力的妥协和权力不平衡（Glesne & Peshkin, 1992）。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch9)]] |
-> | [[Critical Ethnography|批判民族志]] | 方法 | 在批判民族志中，反身性从自我审视升级为积极的政治行动主义——研究者不仅要反思自身，还要反思研究如何帮助打破支配和不平等（Madison, 2005）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 447–448)]] |
+> | [[Researcher as Key Instrument\|研究者作为关键工具]] | 概念 | 反身性是研究者作为工具的必然推论——如果研究者本人就是工具，那么审视工具本身如何影响研究就是必要的。两者互为因果。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, pp. 409–410)]] |
+> | [[Backyard Research\|后院研究]] | 概念 | 研究者研究自己的组织、朋友或直接工作环境时，反身性尤为重要——这往往导致信息披露能力的妥协和权力不平衡（Glesne & Peshkin, 1992）。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, Ch9)]] |
+> | [[Critical Ethnography\|批判民族志]] | 方法 | 在批判民族志中，反身性从自我审视升级为积极的政治行动主义——研究者不仅要反思自身，还要反思研究如何帮助打破支配和不平等（Madison, 2005）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, pp. 447–448)]] |
 
 ---
 

@@ -115,7 +115,7 @@ updated: 2026-08-20
 > | 命题类型 | 核心主张 | 适用情境与作用机制 | 代表学者 |
 > |---|---|---|---|
 > | **规范与动机中介** | 性别差异主要经由课堂规范适应与持续工作努力等过程变量间接传导。 | 课堂行为管理、评价偏差控制与动机辅导 | Lekhal et al. |
-> | **学业与[[Epistemology|认识论]]双领先** | 女生在长周期成绩与良构/[[Task Structure|劣构任务]]上全面领先，受更成熟的[[Growth|成长]]型能力观与真理演变观支撑。 | 中学科学教育、良构与劣构任务实验 | Lodewyk |
+> | **学业与[[Epistemology\|认识论]]双领先** | 女生在长周期成绩与良构/[[Task Structure\|劣构任务]]上全面领先，受更成熟的[[Growth\|成长]]型能力观与真理演变观支撑。 | 中学科学教育、良构与劣构任务实验 | Lodewyk |
 > | **心理性别角色转向** | 超越生理二分，引入心理性别取向与关系性认识方式能更深层解释学业分化。 | 性别平等教育、学术角色认同与心理辅导 | Pintrich; Lodewyk |
 
 ---
@@ -142,10 +142,10 @@ updated: 2026-08-20
 > [!ref-table]- [[Academic Achievement|学业成就]]性别差异实证研究汇总
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | [[Variable|变量]]或指标 | 关键结果 | [[Statistical Significance|统计显著性]]与[[Effect Size|效应量]] | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | [[Statistical Significance\|统计显著性]]与[[Effect Size\|效应量]] | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Lekhal_2015_Paideia|Lekhal et al. (2015)]] | 4,128名挪威5–10年级中小学生 | [[Questionnaire|问卷调查]]与多元分层回归 | 教师评定成绩、学生自评成绩、[[School Norm Adaptation|学校规范适应]]、动机[[Conatus|努力]]、[[Self-control|自我控制]] | 女生教师评定成绩整体显著高于男生；规范适应与动机努力是核心预测源；性别变量在模型末端仅解释约 0.2% 方差 | 男生模型 Adjusted $R^2 = .483$；女生模型 Adjusted $R^2 = .452$；性别增量 $p < .05$ | 证实性别对成绩的影响主要是经由校内行为与评价机制交互实现的间接作用 |
-> | [[Argument_Lodewyk_2007_EP|Lodewyk (2007)]] | 447名加拿大十年级科学课学生（及89名实验子样本） | 组内平衡实验、独立样本 t 检验与 MANOVA | 生理性别（男/女）、EOAA、WST 表现、IST 表现、[[Epistemology|认识论]]三因子（FQAL, [[Simplicity of Knowledge|SK]], CK） | 女生在所有学业指标上全面显著领先：EOAA（$76.90\%$ vs $72.05\%$）、WST（$75.60$ vs $65.12$）、IST（$71.64$ vs $63.88$）；女生在 FQAL 和 CK 成熟度上显著超越男生 | EOAA 性别差异 $t(444) = 3.99, p < .001$；WST $t(87) = 2.92, p = .004, ES = .58$；IST $t(87) = 2.08, p = .04, ES = .44$；MANOVA 性别主效应 $F(3,437) = 12.82, p < .001, \eta^2 = .08$ | 表明女生在科学学业表现上的全面优势受更成熟的能力可塑性与不确定性容忍信念驱动 |
+> | [[Argument_Lekhal_2015_Paideia\|Lekhal et al. (2015)]] | 4,128名挪威5–10年级中小学生 | [[Questionnaire\|问卷调查]]与多元分层回归 | 教师评定成绩、学生自评成绩、[[School Norm Adaptation\|学校规范适应]]、动机[[Conatus\|努力]]、[[Self-control\|自我控制]] | 女生教师评定成绩整体显著高于男生；规范适应与动机努力是核心预测源；性别变量在模型末端仅解释约 0.2% 方差 | 男生模型 Adjusted $R^2 = .483$；女生模型 Adjusted $R^2 = .452$；性别增量 $p < .05$ | 证实性别对成绩的影响主要是经由校内行为与评价机制交互实现的间接作用 |
+> | [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] | 447名加拿大十年级科学课学生（及89名实验子样本） | 组内平衡实验、独立样本 t 检验与 MANOVA | 生理性别（男/女）、EOAA、WST 表现、IST 表现、[[Epistemology\|认识论]]三因子（FQAL, [[Simplicity of Knowledge\|SK]], CK） | 女生在所有学业指标上全面显著领先：EOAA（$76.90\%$ vs $72.05\%$）、WST（$75.60$ vs $65.12$）、IST（$71.64$ vs $63.88$）；女生在 FQAL 和 CK 成熟度上显著超越男生 | EOAA 性别差异 $t(444) = 3.99, p < .001$；WST $t(87) = 2.92, p = .004, ES = .58$；IST $t(87) = 2.08, p = .04, ES = .44$；MANOVA 性别主效应 $F(3,437) = 12.82, p < .001, \eta^2 = .08$ | 表明女生在科学学业表现上的全面优势受更成熟的能力可塑性与不确定性容忍信念驱动 |
 
 ---
 

@@ -88,11 +88,11 @@ updated: 2026-07-13
 
 
 > [!contrast-table] 匹配 vs [[Causal Modeling|因果建模]]
-> | 维度 | 匹配 | [[Causality|因果]]建模（SEM） |
+> | 维度 | 匹配 | [[Causality\|因果]]建模（SEM） |
 > |---|---|---|
 > | 变量选择 | 不参考结果变量 | 常涉及模型选择 |
 > | 模型选择问题 | 匹配变量锁定后不再搜索 | 所有后续统计推断可能严重错误（Leeb & Pötscher, 2005, 2006） |
-> | 对软件依赖 | 较低 | 较高——统计软件包使因果建模看似容易（[[Argument_Berk_2011_ER|Berk, 2011, p.197]]） |
+> | 对软件依赖 | 较低 | 较高——统计软件包使因果建模看似容易（[[Argument_Berk_2011_ER\|Berk, 2011, p.197]]） |
 
 ## 资料与分析
 
@@ -120,10 +120,10 @@ updated: 2026-07-13
 > [!entry-map]
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
-> | [[Potential Outcomes Framework]] | 理论 | 匹配的[[Causality|因果推断]]逻辑直接建立在潜在结果框架之上 |
+> | [[Potential Outcomes Framework]] | 理论 | 匹配的[[Causality\|因果推断]]逻辑直接建立在潜在结果框架之上 |
 > | [[Random Assignment]] | 方法 | 对比参照——随机化控制所有变量，匹配只控制命名变量（Smith, 1991, p. 215） |
-> | [[Causal Modeling]] | 方法 | [[Argument_Berk_2011_ER|Berk (2011)]] 将匹配定位为因果建模的替代路径，认为其较少依赖不可检验模型假设 |
-> | [[Covariate Adjustment]] | 方法 | 匹配和协[[Variable|变量]]控制都试图处理第三变量问题；前者通过样本平衡，后者在模型中纳入协变量 |
+> | [[Causal Modeling]] | 方法 | [[Argument_Berk_2011_ER\|Berk (2011)]] 将匹配定位为因果建模的替代路径，认为其较少依赖不可检验模型假设 |
+> | [[Covariate Adjustment]] | 方法 | 匹配和协[[Variable\|变量]]控制都试图处理第三变量问题；前者通过样本平衡，后者在模型中纳入协变量 |
 > | [[Matched Pairs Design]] | 方法 | 实验设计中的匹配——配对后随机分配，是匹配在真实验中的具体实现 |
 > | [[Non-intervention Research]] | 方法 | 匹配属于在非干预数据中改善因果推断的策略 |
 

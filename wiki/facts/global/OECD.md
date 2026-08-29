@@ -133,8 +133,8 @@ updated: 2026-07-11
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[PISA]] | 事实 | OECD主导的全球最大规模基础教育标准化评估项目，其核心治理工具。 |
-> | [[Development Turn in Comparative Education]] | 概念 | OECD在冷战时期与[[International Institute for Educational Planning|IIEP]]共同推动了比较教育向发展中国家的研究焦点转移。 |
+> | [[Development Turn in Comparative Education]] | 概念 | OECD在冷战时期与[[International Institute for Educational Planning\|IIEP]]共同推动了比较教育向发展中国家的研究焦点转移。 |
 > | [[PISA Shock]] | 概念 | OECD公布的排名表现低于国家自我认知时所引发的全国性教育治理危机。 |
 > | [[Governing by Numbers]] | 概念 | OECD通过量化指标、评估和排行等数字手段实施软治理的主要机制。 |
-> | [[Reference Society]] | 概念 | PISA排名自动塑造的、供其他国家[[Policy Borrowing|政策借用]]的教育模范社会。 |
-> | [[Economics of Education Movement]] | 事实 | [[Sputnik Shock 1957|Sputnik]]冲击后在美国兴起的运动，为OECD将教育视为资本投资奠定了理论基石。 |
+> | [[Reference Society]] | 概念 | PISA排名自动塑造的、供其他国家[[Policy Borrowing\|政策借用]]的教育模范社会。 |
+> | [[Economics of Education Movement]] | 事实 | [[Sputnik Shock 1957\|Sputnik]]冲击后在美国兴起的运动，为OECD将教育视为资本投资奠定了理论基石。 |

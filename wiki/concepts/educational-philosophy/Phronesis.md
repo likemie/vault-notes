@@ -65,10 +65,10 @@ updated: '2026-08-27'
 ## 概念辨析
 
 > [!contrast-table] 概念辨析
-> | 维度 | [[Praxis|实践]]明智（Phronesis） | 命题知识（Episteme） | 技术技能（Techne） |
+> | 维度 | [[Praxis\|实践]]明智（Phronesis） | 命题知识（Episteme） | 技术技能（Techne） |
 > |------|-----------------------|---------------------|-------------------|
 > | **关注焦点** | 具体情境中的道德善与人类繁荣 | 永恒普遍的理论法则与抽象命题 | 特定制造目标的工匠技术 |
-> | **课程应用** | [[Curriculum as Process|作为过程的课程]]审议 | 传统工具书知识点传递 | [[Curriculum as Product|作为产物的课程]]目标控制 |
+> | **课程应用** | [[Curriculum as Process\|作为过程的课程]]审议 | 传统工具书知识点传递 | [[Curriculum as Product\|作为产物的课程]]目标控制 |
 
 ---
 
@@ -109,7 +109,7 @@ updated: '2026-08-27'
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **实践审议命题** | 实践明智是过程模式开放探究的[[Epistemology|认识论]]基础 | 过程模式课程与道德伦理审议 | [[Aristotle|Aristotle]]; Grundy (1987); [[Argument_Darwish_2009_Queens|Darwish, B.]] |
+> | **实践审议命题** | 实践明智是过程模式开放探究的[[Epistemology\|认识论]]基础 | 过程模式课程与道德伦理审议 | [[Aristotle\|Aristotle]]; Grundy (1987); [[Argument_Darwish_2009_Queens\|Darwish, B.]] |
 
 ---
 

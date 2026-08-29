@@ -137,10 +137,10 @@ updated: 2026-07-13
 > 
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
-> | [[Ontology|分层本体论]] | 概念 | 区分实在界（深层因果机制与结构）、实际界（事件发生）与经验界（观察数据与体验），确立批判实在论的核心解释层次。([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 117]]) |
-> | [[Causality|因果机制]] | 概念 | 主张因果关系源于事物内部深层的潜在倾向（Tendency），而非表面的恒常规则性，强调在开放系统中探讨机制的激活或阻断。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 8]]) |
-> | [[Emergence|涌现]] | 概念 | 用于解释社会结构的自主因果力（Emergent Powers），强调不同层级非线性交互产生的新特质无法简单还原为个体行为的加总。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 15]]) |
-> | 实在论综合 | 方法 | 致力于综合不同情境下的 CMO 配置（Context-Mechanism-Outcome），从而揭示 “什么在什么背景下如何起作用”，作为替代传统统计元分析（Meta-analysis）的研究方法论。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 14]]) |
+> | [[Ontology\|分层本体论]] | 概念 | 区分实在界（深层因果机制与结构）、实际界（事件发生）与经验界（观察数据与体验），确立批判实在论的核心解释层次。([[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019, p. 117]]) |
+> | [[Causality\|因果机制]] | 概念 | 主张因果关系源于事物内部深层的潜在倾向（Tendency），而非表面的恒常规则性，强调在开放系统中探讨机制的激活或阻断。([[Argument_Wrigley_2018_BERJ\|Wrigley, 2018, p. 8]]) |
+> | [[Emergence\|涌现]] | 概念 | 用于解释社会结构的自主因果力（Emergent Powers），强调不同层级非线性交互产生的新特质无法简单还原为个体行为的加总。([[Argument_Wrigley_2018_BERJ\|Wrigley, 2018, p. 15]]) |
+> | 实在论综合 | 方法 | 致力于综合不同情境下的 CMO 配置（Context-Mechanism-Outcome），从而揭示 “什么在什么背景下如何起作用”，作为替代传统统计元分析（Meta-analysis）的研究方法论。([[Argument_Wrigley_2018_BERJ\|Wrigley, 2018, p. 14]]) |
 
 ---
 

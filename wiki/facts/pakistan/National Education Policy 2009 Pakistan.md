@@ -75,4 +75,4 @@ updated: 2026-07-02
 > |:-----|:-----|:-----|
 > | [[Learner Autonomy]] | 概念 | 该政策将培养自主学习者列为核心目标之一 |
 > | [[Critical Thinking]] | 概念 | 政策强调分析性思维和原创思维能力的培养 |
-> | [[Theory of Knowledge]] | 概念 | [[Argument_Lakhani_2012_AKUIED|Lakhani (2012)]] 以 TOK 为[[Case Study|案例研究]]如何在已有批判性思维成分的课程中实现该政策目标 |
+> | [[Theory of Knowledge]] | 概念 | [[Argument_Lakhani_2012_AKUIED\|Lakhani (2012)]] 以 TOK 为[[Case Study\|案例研究]]如何在已有批判性思维成分的课程中实现该政策目标 |

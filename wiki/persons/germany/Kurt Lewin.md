@@ -125,11 +125,11 @@ updated: 2026-07-18
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Action Research]] | 方法 | 奠基人——提出计划—行动—观察—反思的螺旋循环模型（1946），将研究[[Coding in Qualitative Research|编码]]为"理性社会管理" |
-> | 力场分析（Force [[Champ|field]] Analysis） | 方法 | 创立——分析变革情境中推动力和阻力之间的动态平衡 |
+> | [[Action Research]] | 方法 | 奠基人——提出计划—行动—观察—反思的螺旋循环模型（1946），将研究[[Coding in Qualitative Research\|编码]]为"理性社会管理" |
+> | 力场分析（Force [[Champ\|field]] Analysis） | 方法 | 创立——分析变革情境中推动力和阻力之间的动态平衡 |
 > | [[Participatory Action Research]] | 方法 | 思想渊源——关注弱势和边缘群体（Kemmis & McTaggart 将合作性定位在勒温对群体决策的承诺中） |
-> | 群体动力学（Group Dynamics） | 概念 | 创立——开创群体决策、群体规范和群体凝聚力的[[Experimental Research|实验研究]] |
+> | 群体动力学（Group Dynamics） | 概念 | 创立——开创群体决策、群体规范和群体凝聚力的[[Experimental Research\|实验研究]] |
 > | 单环学习（Single-Loop Learning） | 概念 | 间接影响——通过 Argyris（勒温学生）发展为行动科学中的学习类型学 |
 > | 双环学习（Double-Loop Learning） | 概念 | 间接影响——Argyris 在勒温行动研究传统中发展 |
 > | [[Gatekeepers]] | 概念 | 提出——勒温最早在群体动力学研究中引入守门人概念 |
-> | 场论（Field Theory） | 理论 | 创立——行为是人与环境的函数（B = f(P, E)），为后续的生态[[Luhmann's Systems Theory|系统理论]]提供基础 |
+> | 场论（Field Theory） | 理论 | 创立——行为是人与环境的函数（B = f(P, E)），为后续的生态[[Luhmann's Systems Theory\|系统理论]]提供基础 |

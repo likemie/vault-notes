@@ -67,9 +67,9 @@ updated: 2026-08-03
 > [!effect-table]- 一级研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 比较或干预 | 结果[[Variable|变量]] | 分析样本 | 组别统计 | [[Effect Size|效应量]] | 显著性或不确定性 | 设计与解释边界 |
+> | 研究 | 比较或干预 | 结果[[Variable\|变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
 > |---|---|---|---|---|---|---|---|
-> | [[Argument_Cole_2015_AJE|Cole et al. (2015)]] | DP 与非 DP 毕业生 | [[Academic Self-Concept General Scale|ASC]] | DP 99<br>非 DP 283 | DP 6.25（0.96）<br>非 DP 5.75（1.02） | Hedges' $g=0.497$（派生） | $t(380)=4.24$<br>$p<.001$ | 组间比较；[[Convenience Sampling|便利抽样]]；不能排除选课效应，不能将差异归因于 ToK 或 DP |
+> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | DP 与非 DP 毕业生 | [[Academic Self-Concept General Scale\|ASC]] | DP 99<br>非 DP 283 | DP 6.25（0.96）<br>非 DP 5.75（1.02） | Hedges' $g=0.497$（派生） | $t(380)=4.24$<br>$p<.001$ | 组间比较；[[Convenience Sampling\|便利抽样]]；不能排除选课效应，不能将差异归因于 ToK 或 DP |
 
 ---
 

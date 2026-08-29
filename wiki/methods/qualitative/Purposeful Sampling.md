@@ -75,12 +75,12 @@ Miles & Huberman（1994）提出了讨论参与者和场所时应涵盖的四个
 
 | 设计类型 | 建议样本量 |
 |---|---|
-| [[Narrative Research|叙事研究]] | 1-2 人 |
-| [[Phenomenology|现象学]] | 3-10 人 |
-| [[Grounded Theory|扎根理论]] | 20-30 人 |
-| [[Ethnography|民族志]] | 一个文化共享群体 |
-| [[Case Study|案例研究]] | 约 4-5 个案例 |
-| [[Descriptive Methods|描述性方法]] | 至少 20 人 |
+| [[Narrative Research\|叙事研究]] | 1-2 人 |
+| [[Phenomenology\|现象学]] | 3-10 人 |
+| [[Grounded Theory\|扎根理论]] | 20-30 人 |
+| [[Ethnography\|民族志]] | 一个文化共享群体 |
+| [[Case Study\|案例研究]] | 约 4-5 个案例 |
+| [[Descriptive Methods\|描述性方法]] | 至少 20 人 |
 
 > [!note]- 样本量 vs 案例数
 > 案例研究的样本量指的是"案例数量"而非"参与者数量"——每个案例内部可能包含多名参与者。
@@ -103,7 +103,7 @@ Teddlie & Yu（2007）和 Teddlie & Tashakkori（2009, p. 174）系统梳理了�
 > | 强度抽样 | Intensity Sampling | 研究特定群体（如高效教师、高天赋儿童），样本提供议题的清晰例证。 |
 > | 最大变异抽样 | Maximum Variation Sampling | 选取在特定议题上具有极广泛特征或行为的样本。 |
 > | 同质抽样 | Homogeneous Sampling | 选取因相似性而被选中的样本，可用于对比分析。 |
-> | 声誉个案抽样 | Reputational Case Sampling | 样本由关键信息提供者选择或经他人推荐——亦见[[Non-probability Sampling|滚雪球抽样]]。 |
+> | 声誉个案抽样 | Reputational Case Sampling | 样本由关键信息提供者选择或经他人推荐——亦见[[Non-probability Sampling\|滚雪球抽样]]。 |
 
 > [!taxonomy] 特殊／独特个案抽样
 >
@@ -118,10 +118,10 @@ Teddlie & Yu（2007）和 Teddlie & Tashakkori（2009, p. 174）系统梳理了�
 >
 > | 类型 | 英文 | 说明 |
 > |---|---|---|
-> | [[Theoretical Sampling|理论抽样]] | Theoretical Sampling | [[Grounded Theory|扎根理论]]的核心方法（Glaser & Strauss, 1967）。数据收集服务于理论生成，持续至理论饱和。 |
+> | [[Theoretical Sampling\|理论抽样]] | Theoretical Sampling | [[Grounded Theory\|扎根理论]]的核心方法（Glaser & Strauss, 1967）。数据收集服务于理论生成，持续至理论饱和。 |
 > | 确认／否定个案抽样 | Confirming/Disconfirming Case Sampling | 从符合和不符合典型趋势的案例中选取，以研究其原因。 |
-> | [[Convenience Sampling|机会抽样]] | Opportunistic Sampling | 随研究发展而纳入更多个体或群体——效度和[[Reliability|信度]]要求时应予纳入。 |
-> | [[Snowball Sampling|滚雪球抽样]] | Snowball Sampling | 利用社会网络、信息提供者和联系人将研究者引介给更多个体。 |
+> | [[Convenience Sampling\|机会抽样]] | Opportunistic Sampling | 随研究发展而纳入更多个体或群体——效度和[[Reliability\|信度]]要求时应予纳入。 |
+> | [[Snowball Sampling\|滚雪球抽样]] | Snowball Sampling | 利用社会网络、信息提供者和联系人将研究者引介给更多个体。 |
 
 ### 饱和作为终止标准
 

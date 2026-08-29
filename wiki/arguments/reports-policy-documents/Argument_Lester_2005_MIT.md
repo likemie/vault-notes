@@ -69,7 +69,7 @@ updated: 2026-06-10
 > | 理论工具 | 解释功能 |
 > |----------|----------|
 > | **[[Lester's Typology of University Contributions to Local Industry]]**<br>Lester 大学贡献分类 | 根据本地产业转型类型（新产业形成、产业移植、产业多样化、产业升级）区分大学的不同贡献方式 |
-> | **创新系统理论**<br>Innovation Systems | 将大学视为本地[[Systems of Innovation|创新系统]]的锚点，其贡献取决于系统内企业的[[Absorptive Capacity|吸收能力]]和转型路径 |
+> | **创新系统理论**<br>Innovation Systems | 将大学视为本地[[Systems of Innovation\|创新系统]]的锚点，其贡献取决于系统内企业的[[Absorptive Capacity\|吸收能力]]和转型路径 |
 
 ---
 ## 研究方法
@@ -79,7 +79,7 @@ updated: 2026-06-10
 > |------|----------------|
 > | **多案例比较研究**<br>Multi-case Comparative Study | 22 个地区，每个地区聚焦一个特定产业，选定一个时间段研究其产业转型过程 |
 > | **半结构化访谈**<br>Semi-structured Interviews | 涵盖大学、企业、政府和其他机构，按国家分布（见报告 Table 2） |
-> | **匹配案例对比**<br>Matched Case Contrasts | 通过配对比较增强发现的普遍性，从特例中提取可推广的[[Causality|因果]]模型 |
+> | **匹配案例对比**<br>Matched Case Contrasts | 通过配对比较增强发现的普遍性，从特例中提取可推广的[[Causality\|因果]]模型 |
 
 > [!ref-table] LIS 项目 22 个案例地区一览
 > 2002-2005 年共 714 次访谈（美国 258、芬兰 238、英国 103、日本 84、挪威 31），台湾另 117 次。覆盖高技术区（波士顿、剑桥）和欠发达区（扬斯敦、阿伦敦），从拥有一流大学到没有大学的地区。

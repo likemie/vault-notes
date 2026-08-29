@@ -65,9 +65,9 @@ updated: 2026-08-15
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
-> | [[Epistemological Beliefs|本体论认知（Ontological Cognition）]] | 概念 | 将“知识的简单与确定性”剥离为[[Ontology|本体论]]认知，强调知识分类和属性的发展。 |
-> | [[Epistemological Beliefs|认识论认知（Epistemic Cognition）]] | 概念 | 指个体如何辩护和证成知识。 |
-> | [[Epistemic and Ontological Cognition Questionnaire]] | 方法 | EOC 模型的[[Operationalization|操作化]][[Scale of Measurement|测量量表]]。 |
+> | [[Epistemological Beliefs\|本体论认知（Ontological Cognition）]] | 概念 | 将“知识的简单与确定性”剥离为[[Ontology\|本体论]]认知，强调知识分类和属性的发展。 |
+> | [[Epistemological Beliefs\|认识论认知（Epistemic Cognition）]] | 概念 | 指个体如何辩护和证成知识。 |
+> | [[Epistemic and Ontological Cognition Questionnaire]] | 方法 | EOC 模型的[[Operationalization\|操作化]][[Scale of Measurement\|测量量表]]。 |
 
 ---
 

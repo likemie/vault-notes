@@ -97,7 +97,7 @@ updated: 2026-06-16
 > [!ref-table] 相关条目索引
 > | 条目 | 关系 | 来源 |
 > |---|---|---|
-> | [[Strong Beginnings Report]] | 强制指定其资助的报告为全国初始教师教育大纲参考[[Document|文献]]的国家改革文本。 | ([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 9]]) |
-> | [[John Sweller]] | 长期与 [[Community Innovation Survey|CIS]] 保持学术合作关系、其智库报告的实际作者。 | |
-> | [[Australian Institute for Teaching and School Leadership]] | 负责将核心参考文献嵌入规范的国家监管机构，其董事会包含 CIS 董事。 | ([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]]) |
+> | [[Strong Beginnings Report]] | 强制指定其资助的报告为全国初始教师教育大纲参考[[Document\|文献]]的国家改革文本。 | ([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 9]]) |
+> | [[John Sweller]] | 长期与 [[Community Innovation Survey\|CIS]] 保持学术合作关系、其智库报告的实际作者。 | |
+> | [[Australian Institute for Teaching and School Leadership]] | 负责将核心参考文献嵌入规范的国家监管机构，其董事会包含 CIS 董事。 | ([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]]) |
 > | [[Cognitive Load Theory]] | CIS 在教师教育改革中推广的认知心理学核心理论。 | |

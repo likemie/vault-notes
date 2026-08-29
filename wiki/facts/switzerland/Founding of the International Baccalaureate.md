@@ -78,16 +78,16 @@ updated: 2026-08-17
 >
 > | 人物 | 角色定位 | 可归属的具体贡献 | 不宜夸大的边界 |
 > |:---|:---|:---|:---|
-> | 保罗·迈霍弗（Paul Meyhoffer） | 思想先驱 | 1925 年向 17 位欧洲教育改革者发出[[Questionnaire|问卷]]，提出 *maturité internationale*。 | 没有收到可查证的回复，也未建立课程、考试或组织，属于前史而非直接制度创立。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, p. 15)]] |
-> | 德斯蒙德·科尔-贝克（Desmond Cole-Baker） | 校内发动者 | 1961 年出任[[International School of Geneva|日内瓦国际学校]]英语部主任后，把长期设想转为教师协作和机构行动。 | 主要作用是组织和启动；后续课程、考试与治理由多人共同完成。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, p. 17)]] |
-> | [[Bob Leach|鲍勃·利奇（Bob Leach）]] | 草根倡议者 | 组织 1962 年日内瓦会议，明确讨论“International Baccalaureate”，并取得 UNESCO 2,500 美元资助；以社会研究课程为切入口建立跨校教师网络。 | 他自称“original promoter”，彼得森同时提醒他只是众多推动者之一，不能据此视为唯一创始人。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, pp. 17–18)]] |
-> | [[Gerard Renaud|杰拉德·雷诺（Gerard Renaud）]] | 课程总架构者 | 与范·斯梅沃德提出六学科组折中；协商把法国必修哲学转化为全体学生共同修读的知识论，连接课程广度、选择和[[Reflexivity|反思性]]共同核心。 | 他的贡献集中于课程架构；法律组织、融资、考试实施及资格承认并非由他单独完成。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, pp. 28–30)]] |
-> | 安德烈·范·斯梅沃德（André van Smeevoorde） | 课程与考试设计者 | 与雷诺形成六学科组方案，随后担任语言科首任主考官，帮助法英课程传统进入共同考试结构。 | 是关键共同设计者，但不是整个项目的行政负责人。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, pp. 28–30)]] |
-> | [[John Goormaghtigh|约翰·戈尔马蒂赫（John Goormaghtigh）]] | 组织奠基者 | 借助卡内基国际和平基金会欧洲中心的法律与国际网络，长期领导 [[International Schools Examination Syndicate|ISES]]／IBO 理事会，使项目获得独立治理和连续性。 | 主要贡献在制度治理与国际协调，而不是原创课程方案。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, pp. 18–20)]] |
-> | [[Alec Peterson|亚历克·皮特森（Alec Peterson）]] | 执行领导与制度整合者 | 1966–1967 年近一年全职领导项目，与汉森促成福特基金 300,000 美元资助，把课程、考试、试验学校、家庭风险、大学承认和持续资金整合为可检验方案。 | 他是把分散工作推向实施的核心领导者，但 IB 的设想、教师网络和部分课程结构均早于其全职介入。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, pp. 23–24)]] |
-> | 哈兰·“哈波”·汉森（Harlan “Harpo” Hanson） | 考试与筹资合作者 | 以美国大学理事会大学先修课程主管的经验补足考试专业和美国大学联系，并与彼得森促成福特基金支持。 | 属于关键支持与共同实施者，而非最早倡议者。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, pp. 21–24)]] |
-> | 德斯蒙德·科尔（Desmond Cole） | 跨大西洋与开放性设计者 | 代表联合国国际学校加入项目；1967 年提出在整体文凭之外颁发单科证书，防止 IB 学生在学校内部形成封闭精英群体。 | 贡献集中于项目开放性和北美参与，不等同于课程整体架构。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, pp. 22, 30)]] |
-> | 拉尔夫·泰勒（Ralph Tyler） | 试验设计者 | 1967 年提出自 1969 年开始、为期六年、每年最多 500 人并由大学和主管机关承认的行动研究方案。 | 他设计的是验证和扩展机制，而非最初课程理念。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, p. 31)]] |
+> | 保罗·迈霍弗（Paul Meyhoffer） | 思想先驱 | 1925 年向 17 位欧洲教育改革者发出[[Questionnaire\|问卷]]，提出 *maturité internationale*。 | 没有收到可查证的回复，也未建立课程、考试或组织，属于前史而非直接制度创立。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, p. 15)]] |
+> | 德斯蒙德·科尔-贝克（Desmond Cole-Baker） | 校内发动者 | 1961 年出任[[International School of Geneva\|日内瓦国际学校]]英语部主任后，把长期设想转为教师协作和机构行动。 | 主要作用是组织和启动；后续课程、考试与治理由多人共同完成。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, p. 17)]] |
+> | [[Bob Leach\|鲍勃·利奇（Bob Leach）]] | 草根倡议者 | 组织 1962 年日内瓦会议，明确讨论“International Baccalaureate”，并取得 UNESCO 2,500 美元资助；以社会研究课程为切入口建立跨校教师网络。 | 他自称“original promoter”，彼得森同时提醒他只是众多推动者之一，不能据此视为唯一创始人。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, pp. 17–18)]] |
+> | [[Gerard Renaud\|杰拉德·雷诺（Gerard Renaud）]] | 课程总架构者 | 与范·斯梅沃德提出六学科组折中；协商把法国必修哲学转化为全体学生共同修读的知识论，连接课程广度、选择和[[Reflexivity\|反思性]]共同核心。 | 他的贡献集中于课程架构；法律组织、融资、考试实施及资格承认并非由他单独完成。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, pp. 28–30)]] |
+> | 安德烈·范·斯梅沃德（André van Smeevoorde） | 课程与考试设计者 | 与雷诺形成六学科组方案，随后担任语言科首任主考官，帮助法英课程传统进入共同考试结构。 | 是关键共同设计者，但不是整个项目的行政负责人。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, pp. 28–30)]] |
+> | [[John Goormaghtigh\|约翰·戈尔马蒂赫（John Goormaghtigh）]] | 组织奠基者 | 借助卡内基国际和平基金会欧洲中心的法律与国际网络，长期领导 [[International Schools Examination Syndicate\|ISES]]／IBO 理事会，使项目获得独立治理和连续性。 | 主要贡献在制度治理与国际协调，而不是原创课程方案。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, pp. 18–20)]] |
+> | [[Alec Peterson\|亚历克·皮特森（Alec Peterson）]] | 执行领导与制度整合者 | 1966–1967 年近一年全职领导项目，与汉森促成福特基金 300,000 美元资助，把课程、考试、试验学校、家庭风险、大学承认和持续资金整合为可检验方案。 | 他是把分散工作推向实施的核心领导者，但 IB 的设想、教师网络和部分课程结构均早于其全职介入。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, pp. 23–24)]] |
+> | 哈兰·“哈波”·汉森（Harlan “Harpo” Hanson） | 考试与筹资合作者 | 以美国大学理事会大学先修课程主管的经验补足考试专业和美国大学联系，并与彼得森促成福特基金支持。 | 属于关键支持与共同实施者，而非最早倡议者。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, pp. 21–24)]] |
+> | 德斯蒙德·科尔（Desmond Cole） | 跨大西洋与开放性设计者 | 代表联合国国际学校加入项目；1967 年提出在整体文凭之外颁发单科证书，防止 IB 学生在学校内部形成封闭精英群体。 | 贡献集中于项目开放性和北美参与，不等同于课程整体架构。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, pp. 22, 30)]] |
+> | 拉尔夫·泰勒（Ralph Tyler） | 试验设计者 | 1967 年提出自 1969 年开始、为期六年、每年最多 500 人并由大学和主管机关承认的行动研究方案。 | 他设计的是验证和扩展机制，而非最初课程理念。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, p. 31)]] |
 
 ---
 
@@ -151,6 +151,6 @@ updated: 2026-08-17
 > | [[Alec Peterson]] | 人物 | 连接大西洋学院、牛津课程研究、国际筹资与 IBO 全职领导。 |
 > | [[Bob Leach]] | 人物 | 发动 1962 年课程会议、推动 IB 命名并取得首笔 UNESCO 资助。 |
 > | [[Gerard Renaud]] | 人物 | 设计六学科组结构，并推动知识论成为共同核心。 |
-> | [[John Goormaghtigh]] | 人物 | 为 [[International Schools Examination Syndicate|ISES]]／IBO 建立长期的国际治理与组织连续性。 |
+> | [[John Goormaghtigh]] | 人物 | 为 [[International Schools Examination Syndicate\|ISES]]／IBO 建立长期的国际治理与组织连续性。 |
 > | [[International Schools Examination Syndicate]] | 组织 | 把日内瓦教师网络转化为具有法律身份、资金管理与考试开发能力的治理主体。 |
 > | [[1967 Sevres International Conference on the IB]] | 事件 | 确认六学科和考试原则，并把大学承认组织为有限规模的六年试验。 |

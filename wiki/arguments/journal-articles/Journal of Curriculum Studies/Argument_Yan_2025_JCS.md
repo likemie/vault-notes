@@ -150,7 +150,7 @@ LS 的设计恰好可以吸收这批教师。由于 LS 没有单一学科基础�
 > | 经济及公共事务 | 今日香港 |
 > | 政府与公共行政 | 今日香港 |
 > | 社会教育 | 今日香港、现代中国 |
-> | 综合人文 | 个人[[Growth|成长]]与人际关系、全球化 |
+> | 综合人文 | 个人[[Growth\|成长]]与人际关系、全球化 |
 > | 科学与技术 | 公共卫生、能源科技与环境 |
 >
 > 许多原本教授这些选修科的教师通过转教 LS 保留了职位(Yan, 2021, 引自 p. 485)。
@@ -193,9 +193,9 @@ LS 的课程设计大量参照了国际文凭大学预科课程（[[IB Diploma P
 > [!example] LS and IBDP 的三个对应关系
 > | LS 组件 | IBDP 对应组件 | 共同特征 |
 > |---|---|---|
-> | 其他学习经历 | 创造、行动与服务（Creativity, Activity, Service, [[Creativity, Action, Service|CAS]]） | 强调学生对社区的参与 |
-> | 自由教育与建构主义理念 | 知识论（[[Epistemology|theory of knowledge]], TOK） | 引导学生理解知识本质、发展批判性思维 |
-> | 独立专题探究（Independent Enquiry Study, IES） | 延伸论文（[[Extended Essay]]） | 学生自主选题、自主研究方法、[[Self-Directed Learning|自我导向学习]] |
+> | 其他学习经历 | 创造、行动与服务（Creativity, Activity, Service, [[Creativity, Action, Service\|CAS]]） | 强调学生对社区的参与 |
+> | 自由教育与建构主义理念 | 知识论（[[Epistemology\|theory of knowledge]], TOK） | 引导学生理解知识本质、发展批判性思维 |
+> | 独立专题探究（Independent Enquiry Study, IES） | 延伸论文（[[Extended Essay]]） | 学生自主选题、自主研究方法、[[Self-Directed Learning\|自我导向学习]] |
 >
 > IES 被设计为"一种自我导向的学习体验，学生承担学习的主要责任......自主[[Multiple-Choice Questions|选择题]]目、[[Research Scope|研究范围]]、研究方法以及呈现研究发现和成果的方式"(CDC & HKEAA, 2007, pp. 57–58)。
 
@@ -298,7 +298,7 @@ CSD 的课程内容也发生了根本性转变。六个跨学科模块被三个�
 | **立法/法律决定** | 长期协商后立法。公众咨询、立法会讨论、多方参与 | 直接行政命令。《国安法》颁布后十个月内完成废除与替换，无公众咨询 |
 | **公民社会参与** | 广泛参与。教协、教师专业团体、媒体、立法会各派均参与讨论 | 完全缺席。教协被关闭，媒体被压制，专责小组建议被无视 |
 | **外部参照** | 大量引用。国际文凭课程、全球趋势、海外学者背书 | 不适用。废除不以全球参照为理由，而以国家安全为旗帜 |
-| **全球化论述** | 核心修辞。[[Lifelong Learning|终身学习]]、[[Knowledge-Based Economy|知识经济]]被用作改革的合法化话语 | 被替换为国家主义论述。"国家安全"和"[[Zhonghua Minzu|中华民族]]伟大复兴"成为新的合法化话语 |
+| **全球化论述** | 核心修辞。[[Lifelong Learning\|终身学习]]、[[Knowledge-Based Economy\|知识经济]]被用作改革的合法化话语 | 被替换为国家主义论述。"国家安全"和"[[Zhonghua Minzu\|中华民族]]伟大复兴"成为新的合法化话语 |
 
 ---
 

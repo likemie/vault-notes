@@ -77,8 +77,8 @@ updated: 2026-08-20
 > | 维度 | 信度（Reliability） | 效度（Validity） |
 > |---|---|---|
 > | **核心问题** | 测量是否稳定和一致？ | 测量是否准确——是否测量了声称要测量的东西？ |
-> | **逻辑关系** | 效度的必要非[[Necessary and Sufficient Conditions|充分条件]] | 可能以信度为前提，但不反过来保证信度 |
-> | **量化形式** | 稳定性、等值性、[[Internal Consistency and Cronbach's Alpha|内部一致性]] | [[Internal Validity|内部效度]]、[[External Validity|外部效度]]、[[Construct Validity|构念效度]]等 |
+> | **逻辑关系** | 效度的必要非[[Necessary and Sufficient Conditions\|充分条件]] | 可能以信度为前提，但不反过来保证信度 |
+> | **量化形式** | 稳定性、等值性、[[Internal Consistency and Cronbach's Alpha\|内部一致性]] | [[Internal Validity\|内部效度]]、[[External Validity\|外部效度]]、[[Construct Validity\|构念效度]]等 |
 > | **质性对应** | 可依赖性（dependability） | 可信性（credibility） |
 > | **简单类比** | 漏水的水龙头每天漏一升——可靠地漏 | 水龙头漏的是"水"而不是"油"——测量了正确的东西 |
 
@@ -119,8 +119,8 @@ updated: 2026-08-20
 > | 类型 | 对应关系 | 核心说明 |
 > |---|---|--|
 > | 重测信度（Test-Retest） | 稳定性 | 同一测量工具在不同时间重复测量结果的一致性。适用于事实性问卷或不易受环境影响的态度。间隔以2周~1个月为宜，用Pearson积矩相关系数计算。 |
-> | [[Parallel-Forms Reliability|复本信度]]（Parallel-Forms） | 等值性（等价形式） | 相似测量工具所得结果的一致性。需要不同工具在测试目标和结构上高度一致。 |
-> | [[Split-Half Reliability|折半信度]]（Split-Half） | 内部一致性 | 将测量项目分成对等两半所测结果的一致性。常用奇偶数分半，需满足两半在难度、区分度和测量目标上高度趋同。计算公式包括Spearman-Brown、Flanagan、Rulon、Kuder-Richardson、Cronbach α等。 |
+> | [[Parallel-Forms Reliability\|复本信度]]（Parallel-Forms） | 等值性（等价形式） | 相似测量工具所得结果的一致性。需要不同工具在测试目标和结构上高度一致。 |
+> | [[Split-Half Reliability\|折半信度]]（Split-Half） | 内部一致性 | 将测量项目分成对等两半所测结果的一致性。常用奇偶数分半，需满足两半在难度、区分度和测量目标上高度趋同。计算公式包括Spearman-Brown、Flanagan、Rulon、Kuder-Richardson、Cronbach α等。 |
 > | 评分者信度（Inter-Rater） | 等值性（评分者间） | 不同评定者使用相同工具所得结果的一致性，分为评分者间信度和评分者内信度。两名评分者可用Pearson或Kendall/Spearman等级相关系数。 |
 
 ### 信度系数的评价标准
@@ -154,16 +154,16 @@ Denzin & Lincoln (1994) 认为质性研究中信度作为可复制性可通过�
 > | 量化信度基础 | 质性信度基础 |
 > |---|---|
 > | 信度（Reliability） | 可依赖性（Dependability） |
-> | 可证明性（Demonstrability） | 可信赖性（[[Qualitative Validity|trustworthiness]]） |
+> | 可证明性（Demonstrability） | 可信赖性（[[Qualitative Validity\|trustworthiness]]） |
 > | 稳定性（Stability） | 稳定性（Stability） |
-> | [[Variable|变量]]的隔离、控制和操纵 | 忠实于自然情境和真实生活（Fidelity） |
+> | [[Variable\|变量]]的隔离、控制和操纵 | 忠实于自然情境和真实生活（Fidelity） |
 > | 可复制性（Replicability） | 可复制性（Replicability） |
 > | 去情境化（Context-freedom） | 情境特定性（Context-specificity） |
 > | 客观性（Objectivity） | 真实性（Authenticity） |
 > | 精简性（Parsimony） | 丰富性（Richness） |
-> | [[Internal Consistency and Cronbach's Alpha|内部一致性]]（Internal consistency） | 可信性（Credibility） |
-> | [[Inter-Rater Reliability|评分者间信度]]（Inter-rater reliability） | 评分者间信度（Inter-rater reliability） |
-> | [[Triangulation|三角验证]]（Triangulation） | 三角验证（Triangulation） |
+> | [[Internal Consistency and Cronbach's Alpha\|内部一致性]]（Internal consistency） | 可信性（Credibility） |
+> | [[Inter-Rater Reliability\|评分者间信度]]（Inter-rater reliability） | 评分者间信度（Inter-rater reliability） |
+> | [[Triangulation\|三角验证]]（Triangulation） | 三角验证（Triangulation） |
 > | 替代形式 / 半分法 / Alphas | — |
 
 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, p. 207)]]

@@ -71,7 +71,7 @@ updated: 2026-07-13
 ## 概念辨析
 
 > [!contrast-table] 复本[[Reliability|信度]] vs [[Test-Retest Reliability|重测信度]] vs [[Internal Consistency|内部一致性]]
-> | 维度 | 复本信度 | [[Test-Retest Reliability|重测信度]] | [[Internal Consistency|内部一致性]] |
+> | 维度 | 复本信度 | [[Test-Retest Reliability\|重测信度]] | [[Internal Consistency\|内部一致性]] |
 > |---|---|---|---|
 > | 核心问题 | 不同但等价的工具是否一致？ | 同一工具跨时间是否一致？ | 同一工具各条目是否一致？ |
 > | 工具数量 | 两套等价工具 | 同一套工具 | 同一套工具 |

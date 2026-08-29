@@ -79,9 +79,9 @@ updated: 2026-07-13
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
 > | [[PISA]] 软治理（Soft Governance） | 概念 | 超国家层级的核心机制：[[OECD]] 通过量化国家教育政策表现与经济发展的联系，推动"最佳模式"的采纳 |
-> | [[Policy Borrowing|政策借用]] | 概念 | 国家层级的核心机制：各国选择性参照[[Reference Society|模范社会]]的教育政策与制度模板 |
-> | [[Actor-Network Theory|行动者网络]] | 理论 | 内部行动者层级的核心机制：PISA 信息通过国家[[Policy Network|政策网络]]中的行动者进行[[Transfer Translation Transformation|转译]]和传递 |
-> | 参考社会（Reference Society） | 概念 | 国家层级的中介[[Variable|变量]]：PISA 排名建立的模范社会为各国提供替代性政策选项 |
+> | [[Policy Borrowing\|政策借用]] | 概念 | 国家层级的核心机制：各国选择性参照[[Reference Society\|模范社会]]的教育政策与制度模板 |
+> | [[Actor-Network Theory\|行动者网络]] | 理论 | 内部行动者层级的核心机制：PISA 信息通过国家[[Policy Network\|政策网络]]中的行动者进行[[Transfer Translation Transformation\|转译]]和传递 |
+> | 参考社会（Reference Society） | 概念 | 国家层级的中介[[Variable\|变量]]：PISA 排名建立的模范社会为各国提供替代性政策选项 |
 > | 自我认知落差（Self-Perception Gap） | 机制 | 国家层级的关键触发条件：国家长期自我认知与 PISA 实证结果之间的巨大差距决定了政策反应的强度 |
 
 ---

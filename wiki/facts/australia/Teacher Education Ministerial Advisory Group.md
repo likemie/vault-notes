@@ -106,7 +106,7 @@ updated: 2026-06-16
 > [!ref-table] 相关条目索引
 > | 条目 | 关系 | 来源 |
 > |---|---|---|
-> | [[LANTITE]] | TEMAG报告直接建议并促成的全国职前教师读写与算术门槛测试。 | [[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]] |
-> | [[Strong Beginnings Report]] | 延续了TEMAG标准化问责的逻辑，但更进一步强制要求嵌入脑科学内容。 | [[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 3]] |
+> | [[LANTITE]] | TEMAG报告直接建议并促成的全国职前教师读写与算术门槛测试。 | [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]] |
+> | [[Strong Beginnings Report]] | 延续了TEMAG标准化问责的逻辑，但更进一步强制要求嵌入脑科学内容。 | [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 3]] |
 > | [[Australian Institute for Teaching and School Leadership]] | 负责执行TEMAG建议中课程认证与合规管理的主要机构。 | |
 > | [[Australian Council for Educational Research]] | 受命开发和独立运营LANTITE测试的非政府中介机构。 | |

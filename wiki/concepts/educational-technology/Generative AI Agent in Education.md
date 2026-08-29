@@ -121,12 +121,12 @@ flowchart LR
 ## 概念辨析
 
 > [!contrast-table] 四类[[AI Agent in Education|教育智能体]]技术形态对比
-> | 维度 | [[Intelligent Tutoring Systems|智能导师系统（ITS）]] | [[Educational Robotics|教育机器人（Robotics）]] | [[Conversational AI in Education|对话式智能体（Conversational AI）]] | **生成式智能体（GenAI Agent）** |
+> | 维度 | [[Intelligent Tutoring Systems\|智能导师系统（ITS）]] | [[Educational Robotics\|教育机器人（Robotics）]] | [[Conversational AI in Education\|对话式智能体（Conversational AI）]] | **生成式智能体（GenAI Agent）** |
 > |---|---|---|---|---|
 > | **驱动核心** | 产生式规则库与贝叶斯知识追踪 | 物理具身微控制器与多模态传感系统 | 检索与槽位匹配自然语言处理系统 | **大语言模型（LLM）与多模态生成中枢** |
-> | **交互界面** | 结构化图形界面与解题工作区 | 实体机器人（动作、表情、语音） | 语音/文本聊天窗口 | **开放式多轮[[Dialogue in Education|对话]]、代码与多模态画布** |
-> | **主要任务[[Paradigm|范式]]** | 良构学科解题分步演练与错因诊断 | 低龄外语口语伴读与[[Gamification|游戏化]]算术对战 | 口语听力流利度训练与事实问答 | **复杂探究任务、编程调试与发散性写作** |
-> | **支架生成方式** | 预设专家规则与分步线索库 | 拟人表情动作与即时语音反馈 | 预设意图回复与形成性语法[[Revoicing|重铸]] | **实时上下文动态自适应生成** |
+> | **交互界面** | 结构化图形界面与解题工作区 | 实体机器人（动作、表情、语音） | 语音/文本聊天窗口 | **开放式多轮[[Dialogue in Education\|对话]]、代码与多模态画布** |
+> | **主要任务[[Paradigm\|范式]]** | 良构学科解题分步演练与错因诊断 | 低龄外语口语伴读与[[Gamification\|游戏化]]算术对战 | 口语听力流利度训练与事实问答 | **复杂探究任务、编程调试与发散性写作** |
+> | **支架生成方式** | 预设专家规则与分步线索库 | 拟人表情动作与即时语音反馈 | 预设意图回复与形成性语法[[Revoicing\|重铸]] | **实时上下文动态自适应生成** |
 > | **主要局限与风险** | 开发成本高昂、跨领域迁移困难 | 硬件维护成本高、长程部署受限 | 语义理解泛化度有限、难以深度推断 | **输出幻觉、过度依赖与认知卸载风险** |
 
 ---
@@ -136,18 +136,18 @@ flowchart LR
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 比较或干预 | [[Dependent Variable|结果变量]] | 分析样本 | 组别统计 | [[Effect Size|效应量]] | 显著性或不确定性 | 设计与解释边界 |
+> | 研究 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
 > |---|---|---|---|---|---|---|---|
-> | Fang et al. (2025)，引自 [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] | 生成式 AI 辅导+显性反思量规 vs. 传统编程教学 | Python [[Computational Thinking|计算思维]]与代码调试表现 | $N = 92$（干预 $n = 46$, 控制 $n = 46$） | — | Hedges' $g = 0.40$ | $p < .05$ | 准实验设计；证实显性教学支架能有效转化生成式 AI 潜能 |
-> | Tong et al. (2025)，引自 [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] | 开放无支架生成式 AI 辅助 vs. 传统探究实验 | 中学物理探究推理与概念理解 | $N = 54$ | — | Hedges' $g = -0.73$ | $p < .05$ | 准实验设计；缺乏教学法约束导致认知卸载与探究能力受挫 |
-> | Kohnke et al. (2024)，引自 [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] | 生成式写作[[AI Agent in Education|智能体]]递进提问 vs. 独立自由写作 | 英语议论文论证结构与逻辑严密性 | $N = 70$ | — | Hedges' $g = 0.35$ | $p < .05$ | 准实验设计；苏格拉底式提问显著提升写作论证质量 |
+> | Fang et al. (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 生成式 AI 辅导+显性反思量规 vs. 传统编程教学 | Python [[Computational Thinking\|计算思维]]与代码调试表现 | $N = 92$（干预 $n = 46$, 控制 $n = 46$） | — | Hedges' $g = 0.40$ | $p < .05$ | 准实验设计；证实显性教学支架能有效转化生成式 AI 潜能 |
+> | Tong et al. (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 开放无支架生成式 AI 辅助 vs. 传统探究实验 | 中学物理探究推理与概念理解 | $N = 54$ | — | Hedges' $g = -0.73$ | $p < .05$ | 准实验设计；缺乏教学法约束导致认知卸载与探究能力受挫 |
+> | Kohnke et al. (2024)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 生成式写作[[AI Agent in Education\|智能体]]递进提问 vs. 独立自由写作 | 英语议论文论证结构与逻辑严密性 | $N = 70$ | — | Hedges' $g = 0.35$ | $p < .05$ | 准实验设计；苏格拉底式提问显著提升写作论证质量 |
 
 > [!ma-table]- 一阶[[Meta-analysis|元分析]]互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
 >
 > | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] | 干预因素（智能体技术类型） | 生成式智能体（GenAI Agent） | $k = 17$ / — | $g = 0.421$ $[0.198, 0.645]$ | 智能体类型间检验 $Q_B = 0.069, p = .793$ | 依赖外部脚手架约束与提示词设计；未作支架约束时易导致效应高度分化 |
+> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（智能体技术类型） | 生成式智能体（GenAI Agent） | $k = 17$ / — | $g = 0.421$ $[0.198, 0.645]$ | 智能体类型间检验 $Q_B = 0.069, p = .793$ | 依赖外部脚手架约束与提示词设计；未作支架约束时易导致效应高度分化 |
 
 ---
 

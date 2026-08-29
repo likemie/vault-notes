@@ -66,11 +66,11 @@ updated: 2026-08-02
 ## 概念辨析
 
 > [!contrast-table] 概念辨析
-> | 维度 | [[Coding in Qualitative Research|编码]]（Codification） | 传统直观教具（Visual Aids） |
+> | 维度 | [[Coding in Qualitative Research\|编码]]（Codification） | 传统直观教具（Visual Aids） |
 > |------|------------------------|--------------------------|
 > | **功能目的** | 拉开反思距离，呈现社会矛盾与权力关系 | 辅助学生记忆抽象概念或事实点 |
 > | **内容属性** | 包含受教者切身的生成性生存痛点 | 脱离受教者生活的通用标准化图示 |
-> | **探究指向** | 诱发[[Decodification|解码]]对话与批判意识觉醒 | 强化知识点的单向接收与再现 |
+> | **探究指向** | 诱发[[Decodification\|解码]]对话与批判意识觉醒 | 强化知识点的单向接收与再现 |
 
 ---
 
@@ -111,7 +111,7 @@ updated: 2026-08-02
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **编码中介命题** | 探讨编码如何拉开反思距离促成[[Dialogue in Education|对话]] | 识字文化圈与批判课堂 | [[Paulo Freire|Freire, P.]]; Heaney (2005); [[Argument_Darwish_2009_Queens|Darwish, B.]] |
+> | **编码中介命题** | 探讨编码如何拉开反思距离促成[[Dialogue in Education\|对话]] | 识字文化圈与批判课堂 | [[Paulo Freire\|Freire, P.]]; Heaney (2005); [[Argument_Darwish_2009_Queens\|Darwish, B.]] |
 
 ---
 

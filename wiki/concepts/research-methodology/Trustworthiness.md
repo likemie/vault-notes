@@ -72,9 +72,9 @@ updated: 2026-07-11
 > [!ref-table] 可信赖性标准与[[Positivism|实证主义]]标准的替代关系
 > | Lincoln & Guba (1985) 标准 | 替代的实证主义概念 | 核心保障策略 |
 > |---|---|---|
-> | 可信性（credibility） | [[Internal Validity|内部效度]] | 长期田野参与、持续观察、三角验证、同伴汇报、负面案例分析、成员核查 |
-> | 可迁移性（transferability） | [[External Validity|外部效度]] | 厚描述——由读者判断迁移可能性 |
-> | 可依赖性（dependability） | [[Reliability|信度]] | 审计追踪、成员核查、同伴汇报、三角验证、反思日志、独立审计 |
+> | 可信性（credibility） | [[Internal Validity\|内部效度]] | 长期田野参与、持续观察、三角验证、同伴汇报、负面案例分析、成员核查 |
+> | 可迁移性（transferability） | [[External Validity\|外部效度]] | 厚描述——由读者判断迁移可能性 |
+> | 可依赖性（dependability） | [[Reliability\|信度]] | 审计追踪、成员核查、同伴汇报、三角验证、反思日志、独立审计 |
 > | 可确认性（confirmability） | 客观性 | 审计追踪——展示数据→分析→结论的链条 |
 
 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 160–161, 206)]]

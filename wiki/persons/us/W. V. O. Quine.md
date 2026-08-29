@@ -65,4 +65,4 @@ updated: 2026-08-18
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Epistemological Naturalism|认识论自然主义]] | 概念 | Quine 是该概念的缔造者与强版本主张者。 |
+> | [[Epistemological Naturalism\|认识论自然主义]] | 概念 | Quine 是该概念的缔造者与强版本主张者。 |

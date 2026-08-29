@@ -51,12 +51,12 @@ updated: 2026-08-16
 ## 概念辨析
 
 > [!contrast-table] 通则式 vs [[Idiographic|个例式]]
-> | 维度 | 通则式（nomothetic） | [[Idiographic|个例式]]（idiographic） |
+> | 维度 | 通则式（nomothetic） | [[Idiographic\|个例式]]（idiographic） |
 > |---|---|---|
 > | 目标 | 发现普遍法则 | 理解独特个体案例 |
 > | 方法 | 以量化为主，抽象现实 | 兼顾量化与质性，重语言与意义 |
 > | 分析单位 | 因素及其关系、规律性 | 个体、事件、情境与意图 |
-> | 方法论传统 | [[Positivism|实证主义]] | [[Interpretive Paradigm|诠释范式]] |
+> | 方法论传统 | [[Positivism\|实证主义]] | [[Interpretive Paradigm\|诠释范式]] |
 
 > [!boundary]- 概念边界
 > - 不等于与质性的简单对立 — 通则式偏向量化，但并非所有[[Quantitative Research|量化研究]]都追求普遍法则；两者是方法论的连续体而非截然二分。

@@ -71,7 +71,7 @@ updated: 2026-07-26
 > |:-----|:-----|:-----|
 > | [[John Dewey]] | 人物 | 阐发经验教育体系与双重判定原则。 |
 > | [[Learning by Doing]] | 概念 | 经验学习的具体教学操作体现。 |
-> | [[Growth]] | 概念 | 连续性与[[Interaction Effect|交互作用]]所指向的教育终极目标。 |
+> | [[Growth]] | 概念 | 连续性与[[Interaction Effect\|交互作用]]所指向的教育终极目标。 |
 
 > [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 详细分析杜威《经验与教育》中的连续性与交互作用原则及其在[[Active Learning|主动学习]]中的地位。

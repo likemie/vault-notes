@@ -141,19 +141,19 @@ issuing_organization: ""
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **创造力的共识定义**<br>（Original + Useful） | [[Creativity|创造力]]指在特定领域生成既新颖又有用的观念或产品（Amabile, 2019; Kaufman & Beghetto, 2009; Stein, 1953; Sternberg & Lubart, 1998），为界定创造力测量的范围提供基准。（p. 2） |
-> | **批判性思维的科学构念化**<br>（Skills + Dispositions + 自我调节） | [[Critical Thinking|批判性思维]]从哲学与教育领域扩展为可测量的科学[[Construct|构念]]，涵盖态度、知识、技能与倾向，以及质疑、分析、解释、评价、判断与辨识信息的能力（Glaser, 1941），并以自我调节为本质（Dwyer, 2017）。（p. 2） |
-> | **共享执行功能基础**<br>（Executive Functions） | 两个构念都依赖抑制、[[Cognitive Shifting|认知灵活性]]与[[Working Memory|工作记忆]]等[[Executive Function|执行功能]]（Benedek et al., 2012, 2014），为两者正相关提供认知神经层面的共同基础。（pp. 2–3） |
+> | **创造力的共识定义**<br>（Original + Useful） | [[Creativity\|创造力]]指在特定领域生成既新颖又有用的观念或产品（Amabile, 2019; Kaufman & Beghetto, 2009; Stein, 1953; Sternberg & Lubart, 1998），为界定创造力测量的范围提供基准。（p. 2） |
+> | **批判性思维的科学构念化**<br>（Skills + Dispositions + 自我调节） | [[Critical Thinking\|批判性思维]]从哲学与教育领域扩展为可测量的科学[[Construct\|构念]]，涵盖态度、知识、技能与倾向，以及质疑、分析、解释、评价、判断与辨识信息的能力（Glaser, 1941），并以自我调节为本质（Dwyer, 2017）。（p. 2） |
+> | **共享执行功能基础**<br>（Executive Functions） | 两个构念都依赖抑制、[[Cognitive Shifting\|认知灵活性]]与[[Working Memory\|工作记忆]]等[[Executive Function\|执行功能]]（Benedek et al., 2012, 2014），为两者正相关提供认知神经层面的共同基础。（pp. 2–3） |
 > | **高阶认知互补框架**<br>（Complementary Higher-Order Cognition） | 创造力经由发散过程生成新颖有用的观念，批判性思维经由收敛推理分析与评价信息；两者均可作为复杂问题解决中互补的阶段，创造力产出可能性，批判性思维加以精炼与选择（Cropley, 2006; Sternberg & Lubart, 1998）。（pp. 2–3） |
-> | **[[Creative Problem Solving|创造性问题解决]]整合模型** | 将批判性评价视为创造力必要阶段的框架（Isaksen & Treffinger, 2004），以及把创造性[[Hypothesis|假设]]生成纳入反思判断的批判性思维模型（Kuhn, 1999），支持两个构念边界比传统假设更可渗透。（p. 10） |
+> | **[[Creative Problem Solving\|创造性问题解决]]整合模型** | 将批判性评价视为创造力必要阶段的框架（Isaksen & Treffinger, 2004），以及把创造性[[Hypothesis\|假设]]生成纳入反思判断的批判性思维模型（Kuhn, 1999），支持两个构念边界比传统假设更可渗透。（p. 10） |
 
 > [!contrast-table] 创造力与批判性思维的概念对照
-> | 维度 | [[Creativity|创造力]]（Creativity） | [[Critical Thinking|批判性思维]]（Critical Thinking） |
+> | 维度 | [[Creativity\|创造力]]（Creativity） | [[Critical Thinking\|批判性思维]]（Critical Thinking） |
 > |------|-------------------|-----------------------------|
 > | **核心特征** | 生成既新颖又有用的观念或产品（Amabile, 2019; Kaufman & Beghetto, 2009） | 有目的、可自我调节的反思判断，包含质疑、分析、解释、评价、判断与辨识（Glaser, 1941; Dwyer, 2017） |
-> | **典型过程** | [[Divergent Thinking|发散思维]]：生成可能性（divergent thought processes） | 收敛推理：分析与评价信息（convergent reasoning） |
+> | **典型过程** | [[Divergent Thinking\|发散思维]]：生成可能性（divergent thought processes） | 收敛推理：分析与评价信息（convergent reasoning） |
 > | **思维风格** | 非预期、非传统、非常规（unexpected, unconventional） | 理性、有目的、基于标准（rational, purposeful, criteria-based） |
-> | **[[Domain Specificity|领域特殊性]]** | 多维多领域的构念 | 心理批判性思维强调按心理科学原则评价信息（Lawson, 1999, 2015）；护理批判性思维强调为改善照护的批判分析与条件识别（Alfaro-LeFevre, 1999; Bandman & Bandman, 1988; Papathanasiou et al., 2014） |
+> | **[[Domain Specificity\|领域特殊性]]** | 多维多领域的构念 | 心理批判性思维强调按心理科学原则评价信息（Lawson, 1999, 2015）；护理批判性思维强调为改善照护的批判分析与条件识别（Alfaro-LeFevre, 1999; Bandman & Bandman, 1988; Papathanasiou et al., 2014） |
 >
 > 两者虽被概念化为对立风格，却共享评价、判断与自我调节等认知与[[Metacognition|元认知]]成分，这一概念重叠为检验两者相关是否存在提供了理论前提。（pp. 2–3）
 
@@ -163,18 +163,18 @@ issuing_organization: ""
 > [!dual-header] 纳入研究的测量工具分类：构念 × 主客观
 > | 测量构念 | 主观测量（自陈/自评） | 客观测量（任务/产品表现） |
 > |---|---|---|
-> | **[[Creativity|创造力]]** | <br>- 创造自我效能量表（Creative Self-Efficacy Scale）<br>- 马尔马拉创造性思维倾向量表（Marmara Creative Thinking Dispositions Scale）<br>- [[Creative Achievement Questionnaire|创造性成就问卷]]（CAQ）<br>- 考夫曼创造力领域量表（Kaufman Domains of Creativity Scale）<br>- 创造力量表（Creativity Scale）<br>- 创造性人格量表（Creative Personality Scale）<br>- 特质性创造自我效能（Trait-like Creative Self Efficacy） | <br>- [[Torrance Tests of Creative Thinking|托兰斯创造性思维测验]]（TTCT）<br>- 非常规用途测验（Alternate Uses Test）<br>- 吉尔福德联想流畅性与观念流畅性测验（Guilford Fluency Tests）<br>- 发散思维测验（Divergent Thinking Test）<br>- 筷子创造力测验（Chopsticks Creativity Test）<br>- 科学创造力（Scientific Creativity）<br>- 产品设计创作（Product Design Creation）<br>- 批判与创造思维测验（Critical and Creative Thinking Test） |
-> | **[[Critical Thinking|批判性思维]]** | <br>- [[California Critical Thinking Disposition Inventory|加州批判性思维倾向问卷]]（CCTDI）<br>- 批判性思维倾向量表（Critical Thinking Disposition Scale）<br>- 批判性思维量表（Critical Thinking Scale）<br>- UF/EMI 批判性思维倾向量表<br>- 批判性思维问卷（Critical Thinking Questionnaire）<br>- 批判性思维倾向工具（Critical Thinking Disposition Instrument） | <br>- 沃森-格拉泽批判性思维评价（Watson-Glaser Critical Thinking Appraisal, WGCTA）<br>- 康奈尔批判性思维测验（Cornell Critical Thinking Test, CCTT）<br>- PENCRISAL 批判性思维测验<br>- 高级智力结构批判与分析思维测验（Advanced Structure of Intellect Test）<br>- 批判性思维评估工具（Critical Thinking Assessment Tool）<br>- 按批判性思维评分规准评定的书面分析 |
+> | **[[Creativity\|创造力]]** | <br>- 创造自我效能量表（Creative Self-Efficacy Scale）<br>- 马尔马拉创造性思维倾向量表（Marmara Creative Thinking Dispositions Scale）<br>- [[Creative Achievement Questionnaire\|创造性成就问卷]]（CAQ）<br>- 考夫曼创造力领域量表（Kaufman Domains of Creativity Scale）<br>- 创造力量表（Creativity Scale）<br>- 创造性人格量表（Creative Personality Scale）<br>- 特质性创造自我效能（Trait-like Creative Self Efficacy） | <br>- [[Torrance Tests of Creative Thinking\|托兰斯创造性思维测验]]（TTCT）<br>- 非常规用途测验（Alternate Uses Test）<br>- 吉尔福德联想流畅性与观念流畅性测验（Guilford Fluency Tests）<br>- 发散思维测验（Divergent Thinking Test）<br>- 筷子创造力测验（Chopsticks Creativity Test）<br>- 科学创造力（Scientific Creativity）<br>- 产品设计创作（Product Design Creation）<br>- 批判与创造思维测验（Critical and Creative Thinking Test） |
+> | **[[Critical Thinking\|批判性思维]]** | <br>- [[California Critical Thinking Disposition Inventory\|加州批判性思维倾向问卷]]（CCTDI）<br>- 批判性思维倾向量表（Critical Thinking Disposition Scale）<br>- 批判性思维量表（Critical Thinking Scale）<br>- UF/EMI 批判性思维倾向量表<br>- 批判性思维问卷（Critical Thinking Questionnaire）<br>- 批判性思维倾向工具（Critical Thinking Disposition Instrument） | <br>- 沃森-格拉泽批判性思维评价（Watson-Glaser Critical Thinking Appraisal, WGCTA）<br>- 康奈尔批判性思维测验（Cornell Critical Thinking Test, CCTT）<br>- PENCRISAL 批判性思维测验<br>- 高级智力结构批判与分析思维测验（Advanced Structure of Intellect Test）<br>- 批判性思维评估工具（Critical Thinking Assessment Tool）<br>- 按批判性思维评分规准评定的书面分析 |
 > 
 > **图表解读** 主客观[[Coding in Qualitative Research|编码]]遵循创造力[[Meta-analysis|元分析]]惯例（Storme et al., 2021; N. K. Park et al., 2016）：主观指自陈或自评作答，客观指观念/产品产出或任务表现。同一构念的编码随研究而异，完整逐研究归属见下方 Table 1。（pp. 4–5）
 
 ### 核心变量与操作化编码表
 
 > [!index-table] 核心[[Variable|变量]][[Operationalization|操作化]]定义与[[Coding in Qualitative Research|编码]]规程
-> | [[Variable|变量]]维度与分类 | [[Construct|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
+> | [[Variable\|变量]]维度与分类 | [[Construct\|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
 > |---|---|---|
-> | **[[Creativity|创造力]]测量类型**<br>（Creativity Measure Type） | 编码为主观（Subjective）或客观（Objective）两类：主观指自陈或自评方式（如[[Creative Self-Efficacy|创造自我效能]]、创造性思维倾向量表）；客观指观念/产品产出或任务表现测量。 | 主观：创造自我效能量表（Creative Self-Efficacy Scale）、马尔马拉创造性思维倾向量表（Marmara Creative Thinking Dispositions Scale）、创造性成就问卷（[[Creative Achievement Questionnaire]], CAQ）；客观：[[Torrance Tests of Creative Thinking|托兰斯创造性思维测验（Torrance Tests of Creative Thinking, TTCT）]]、非常规用途测验（Alternate Uses Test）、筷子创造力测验（Chopsticks Creativity Test）。 |
-> | **[[Critical Thinking|批判性思维]]测量类型**<br>（Critical Thinking Measure Type） | 编码为主观（自陈倾向/[[Questionnaire|问卷]]）或客观（技能任务表现）两类：主观指标为倾向或问卷得分；客观指标为标准化技能测验或书面/产品任务评定。 | 主观：[[California Critical Thinking Disposition Inventory|加州批判性思维倾向问卷（California Critical Thinking Disposition Inventory, CCTDI）]]、批判性思维倾向量表（Critical Thinking Disposition Scale）；客观：沃森-格拉泽批判性思维评价（Watson-Glaser Critical Thinking Appraisal, WGCTA）、康奈尔批判性思维测验（Cornell Critical Thinking Test, CCTT）、PENCRISAL 批判性思维测验。 |
+> | **[[Creativity\|创造力]]测量类型**<br>（Creativity Measure Type） | 编码为主观（Subjective）或客观（Objective）两类：主观指自陈或自评方式（如[[Creative Self-Efficacy\|创造自我效能]]、创造性思维倾向量表）；客观指观念/产品产出或任务表现测量。 | 主观：创造自我效能量表（Creative Self-Efficacy Scale）、马尔马拉创造性思维倾向量表（Marmara Creative Thinking Dispositions Scale）、创造性成就问卷（[[Creative Achievement Questionnaire]], CAQ）；客观：[[Torrance Tests of Creative Thinking\|托兰斯创造性思维测验（Torrance Tests of Creative Thinking, TTCT）]]、非常规用途测验（Alternate Uses Test）、筷子创造力测验（Chopsticks Creativity Test）。 |
+> | **[[Critical Thinking\|批判性思维]]测量类型**<br>（Critical Thinking Measure Type） | 编码为主观（自陈倾向/[[Questionnaire\|问卷]]）或客观（技能任务表现）两类：主观指标为倾向或问卷得分；客观指标为标准化技能测验或书面/产品任务评定。 | 主观：[[California Critical Thinking Disposition Inventory\|加州批判性思维倾向问卷（California Critical Thinking Disposition Inventory, CCTDI）]]、批判性思维倾向量表（Critical Thinking Disposition Scale）；客观：沃森-格拉泽批判性思维评价（Watson-Glaser Critical Thinking Appraisal, WGCTA）、康奈尔批判性思维测验（Cornell Critical Thinking Test, CCTT）、PENCRISAL 批判性思维测验。 |
 > | **学段**<br>（Student Level） | 中学/高中学生（Middle/High School）vs 大学生（College）vs 研究生（Postgraduate），检验发展水平的调节作用。 | 中学/高中：Gilbert (1961)、Misset (2012)、Yang & Lin (2004) 等；大学：多数纳入研究；研究生：Komsu (2021)。 |
 > | **地理区域**<br>（Geographical Region） | 北美、东亚、中东与其他国家四类。 | 北美：Brubaker (1971)、Gilbert (1961)、Runco et al. (1992) 等；东亚：Li et al. (2022)、Long & Long (2023)、Yang & Lin (2004) 等；中东：Akpur (2020)、Ulger (2016) 等。 |
 > | **测量类型组合**<br>（S/O Combination） | 创造力测量类型 × 批判性思维测量类型的四类组合，检验同型测量放大相关的交互假设。 | 双主观组合合并相关 $r = 0.509$；双客观组合 $r = 0.317$；创造力客观×批判性思维主观 $r = 0.260$；创造力主观×批判性思维客观 $r = 0.195$。（p. 9） |
@@ -200,12 +200,12 @@ issuing_organization: ""
 > [!method-panel] 研究设计与[[Coding in Qualitative Research|编码]]流程
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **测量类型编码**<br>Measurement Coding | 按创造力与[[Critical Thinking Assessment|批判性思维测评]]元分析的惯例（Storme et al., 2021; N. K. Park et al., 2016），将测量分为主观（自陈/自评，如[[Creative Self-Efficacy|创造自我效能]]、批判性思维倾向量表）与客观（观念/产品产出或任务表现，如[[Torrance Tests of Creative Thinking|非常规用途测验]]、沃森-格拉泽批判性思维评价）两类；同时提取参与者平均年龄、学段、发表年份与地理区域。（pp. 4–5） |
-> | **[[Effect Size|效应量]]提取**<br>Effect Size Extraction | 从各研究提取创造力与批判性思维测量的相关系数，保留 51 个相关估计（$k = 51$），嵌套于 29 项研究，总样本 $N = 12{,}548$；部分研究因同一参与者施测不同测量、或同一测量用于不同参与者而提供多个相关。（p. 4） |
-> | **统计合成**<br>[[Three-Level Meta-Analysis|Three-Level Meta-Analysis]] | 由于研究内效应量不独立，采用三水平随机效应元分析：方差分解为效应量抽样误差（Level 1）、研究内效应量间变异（Level 2）与研究间变异（Level 3）；效应量经 Fisher's $z$ 变换，以抽样方差倒数加权，以 $I^2$ 与 $Q$ 检验量化[[Heterogeneity|异质性]]；使用 R 包 "meta"（Balduzzi et al., 2019）估计。（p. 4） |
-> | **稳健性分析**<br>[[Robust Variance Estimation|RVE]] | 用稳健方差估计（Robust Variance Estimation, RVE）提供小样本调整[[Standard Error|标准误]]，即使研究内效应量相关时依然有效；RVE 模型由 R 包 "clubSandwich"（Pustejovsky, 2023）施加于 "metafor"（Viechtbauer, 2010）的三水平模型。（pp. 4–5） |
-> | **[[Publication Bias|发表偏倚]]检验**<br>Publication Bias Tests | 采用[[Egger Regression Test|艾格回归检验]]（Egger's regression test of funnel plot asymmetry）与等高线增强漏斗图，区分不对称来自缺失的非显著研究（发表偏倚）还是研究间真实差异（Peters et al., 2008）。（p. 4） |
-> | **调节分析**<br>[[Meta-regression|Meta-regression]] | 以三水平元回归逐一检验年龄、学段、地理区域、发表年份、创造力测量类型与批判性思维测量类型的调节作用，并检验两类测量类型的交互项；以 omnibus 检验（$Q_M$）判断调节变量解释的异质性是否显著，调节变量既单独进入也在一项额外调节变量控制下进入模型。（pp. 4–5） |
+> | **测量类型编码**<br>Measurement Coding | 按创造力与[[Critical Thinking Assessment\|批判性思维测评]]元分析的惯例（Storme et al., 2021; N. K. Park et al., 2016），将测量分为主观（自陈/自评，如[[Creative Self-Efficacy\|创造自我效能]]、批判性思维倾向量表）与客观（观念/产品产出或任务表现，如[[Torrance Tests of Creative Thinking\|非常规用途测验]]、沃森-格拉泽批判性思维评价）两类；同时提取参与者平均年龄、学段、发表年份与地理区域。（pp. 4–5） |
+> | **[[Effect Size\|效应量]]提取**<br>Effect Size Extraction | 从各研究提取创造力与批判性思维测量的相关系数，保留 51 个相关估计（$k = 51$），嵌套于 29 项研究，总样本 $N = 12{,}548$；部分研究因同一参与者施测不同测量、或同一测量用于不同参与者而提供多个相关。（p. 4） |
+> | **统计合成**<br>[[Three-Level Meta-Analysis\|Three-Level Meta-Analysis]] | 由于研究内效应量不独立，采用三水平随机效应元分析：方差分解为效应量抽样误差（Level 1）、研究内效应量间变异（Level 2）与研究间变异（Level 3）；效应量经 Fisher's $z$ 变换，以抽样方差倒数加权，以 $I^2$ 与 $Q$ 检验量化[[Heterogeneity\|异质性]]；使用 R 包 "meta"（Balduzzi et al., 2019）估计。（p. 4） |
+> | **稳健性分析**<br>[[Robust Variance Estimation\|RVE]] | 用稳健方差估计（Robust Variance Estimation, RVE）提供小样本调整[[Standard Error\|标准误]]，即使研究内效应量相关时依然有效；RVE 模型由 R 包 "clubSandwich"（Pustejovsky, 2023）施加于 "metafor"（Viechtbauer, 2010）的三水平模型。（pp. 4–5） |
+> | **[[Publication Bias\|发表偏倚]]检验**<br>Publication Bias Tests | 采用[[Egger Regression Test\|艾格回归检验]]（Egger's regression test of funnel plot asymmetry）与等高线增强漏斗图，区分不对称来自缺失的非显著研究（发表偏倚）还是研究间真实差异（Peters et al., 2008）。（p. 4） |
+> | **调节分析**<br>[[Meta-regression\|Meta-regression]] | 以三水平元回归逐一检验年龄、学段、地理区域、发表年份、创造力测量类型与批判性思维测量类型的调节作用，并检验两类测量类型的交互项；以 omnibus 检验（$Q_M$）判断调节变量解释的异质性是否显著，调节变量既单独进入也在一项额外调节变量控制下进入模型。（pp. 4–5） |
 
 > [!synthesis-model] 效应量与统计模型
 > - **效应量指标** 皮尔逊 $r$，经 Fisher's $z$ 变换稳定方差并正态化（p. 4）。
@@ -219,16 +219,16 @@ issuing_organization: ""
 > | 研究（国家） | 参与者年龄 | 学段 | 地理区域 | 批判性思维测量（主观/客观） | 创造力测量（主观/客观） |
 > |---|---|---|---|---|---|
 > | Akpur (2020) | NA | College | Middle East | The Critical Thinking Scale（客观） | Marmara Creative Thinking Dispositions Scale（主观） |
-> | AlMahdawi et al. (2021) | 16.5 | Middle/High school | Middle East | [[Internet-based Survey|online survey]] [[Questionnaire]] for High School Students’ [[Performance Indicators]] in Distance Learning in Chemistry during the COVID-19 Pandemic - Critical Thinking Domain（主观） | Online Survey Questionnaire for High School Students’ Performance Indicators in Distance Learning in Chemistry during the COVID-19 Pandemic - Creativity and Innovation Domain（主观） |
+> | AlMahdawi et al. (2021) | 16.5 | Middle/High school | Middle East | [[Internet-based Survey\|online survey]] [[Questionnaire]] for High School Students’ [[Performance Indicators]] in Distance Learning in Chemistry during the COVID-19 Pandemic - Critical Thinking Domain（主观） | Online Survey Questionnaire for High School Students’ Performance Indicators in Distance Learning in Chemistry during the COVID-19 Pandemic - Creativity and Innovation Domain（主观） |
 > | Álvarez-Huerta et al. (2022) | 20.35 | College | Other countries | [[Critical Thinking Disposition]] Scale (Spanish adaptation)（主观） | Creative [[Self-Efficacy]] Instrument（主观） |
 > | Anderson & Beach (2022) | 14.5 | Middle/High school | North America | Student MetaSkills Survey - Critical Thinking Domain（主观） | Student MetaSkills Survey - Creativity Domain（主观） |
 > | Brubaker (1971) | NA | College | North America | The Critical Thinking Scale（客观） | Creative Personality Scale（主观） |
 > | Egger et al. (1997) | NA | College | North America | Written analysis provided by students assessed using a critical thinking rubric（客观） | Creation of Product Design（客观） |
-> | Gadzella & Penland (1995) | NA | College | North America | [[Watson-Glaser Critical Thinking Appraisal|WGCTA]]（客观） | 16 Personality Factor Creativity scale（主观） |
+> | Gadzella & Penland (1995) | NA | College | North America | [[Watson-Glaser Critical Thinking Appraisal\|WGCTA]]（客观） | 16 Personality Factor Creativity scale（主观） |
 > | Gibson et al. (1968) | NA | College | North America | WGCTA（客观） | Alternate Uses Test（客观） |
 > | Gilbert (1961) | NA | Middle/High school | North America | WGCTA（客观） | Alternate Uses Test（客观） |
 > | Gilbert (1961) | NA | Middle/High school | North America | WGCTA（客观） | Guilford Associational Fluency Test（客观） |
-> | Gilbert (1961) | NA | Middle/High school | North America | WGCTA（客观） | Guilford [[Divergent Thinking|ideational fluency]] Test – Fluency（客观） |
+> | Gilbert (1961) | NA | Middle/High school | North America | WGCTA（客观） | Guilford [[Divergent Thinking\|ideational fluency]] Test – Fluency（客观） |
 > | Gilbert (1961) | NA | Middle/High school | North America | WGCTA（客观） | Guilford Ideational Fluency Test – Originality（客观） |
 > | Guan et al. (2024) | 20.29 | College | East Asia | Critical Thinking Scale（主观） | Creative Self-Efficacy Scale（主观） |
 > | Guan et al. (2024) | 20.29 | College | East Asia | [[Runco Ideational Behavior Scale]]（主观） | Creative Self-Efficacy Scale（主观） |
@@ -237,7 +237,7 @@ issuing_organization: ""
 > | Komsu (2021) | 24.5 | Postgraduate | Middle East | UF/EMI Critical Thinking Disposition Scale（主观） | Kaufman Domains of Creativity Scale - Academic Creativity sub-dimension (Investigative Creativity)（主观） |
 > | Komsu (2021) | 24.5 | Postgraduate | Middle East | UF/EMI Critical Thinking Disposition Scale（主观） | Kaufman Domains of Creativity Scale - Academic Creativity sub-dimension (Analytical Creativity)（主观） |
 > | Li et al. (2022) | NA | College | East Asia | 4C Skills – Critical Thinking Domain（主观） | 4C Skills - Creativity Domain（主观） |
-> | Ling & Loh (2020) | 17.5 | Middle/High school | East Asia | [[Cornell Critical Thinking Test|CCTT]] (modified)（客观） | Creativity Selected Elements Questionnaire (modified)（主观） |
+> | Ling & Loh (2020) | 17.5 | Middle/High school | East Asia | [[Cornell Critical Thinking Test\|CCTT]] (modified)（客观） | Creativity Selected Elements Questionnaire (modified)（主观） |
 > | Long & Long (2023) | 19.08 | College | East Asia | Critical Thinking Scale（主观） | Creative Self-Efficacy Scale（主观） |
 > | Long & Long (2023) | 19.08 | College | East Asia | Critical Thinking Scale（主观） | Creativity Scale（主观） |
 > | Lu et al. (2023) | 20.13 | College | East Asia | Critical Thinking Disposition Scale（主观） | Creative Self-Efficacy Scale（主观） |
@@ -246,7 +246,7 @@ issuing_organization: ""
 > | Misset (2012) | NA | Middle/High school | North America | CCTT（客观） | TTCT - Verbal Flexibility（客观） |
 > | Misset (2012) | NA | Middle/High school | North America | CCTT（客观） | TTCT - Verbal Originality（客观） |
 > | Orakci (2023) | NA | College | Middle East | Critical Thinking Scale（主观） | Creativity Scale (How Creative Are You?)（主观） |
-> | Pepe (2018) | 23.5 | College | Middle East | [[California Critical Thinking Disposition Inventory|CCTDI]]（主观） | The Creativity Level Scale（主观） |
+> | Pepe (2018) | 23.5 | College | Middle East | [[California Critical Thinking Disposition Inventory\|CCTDI]]（主观） | The Creativity Level Scale（主观） |
 > | Prakoso et al. (2021) | NA | College | East Asia | Critical Thinking Disposition Instrument（主观） | Creativity Scale（主观） |
 > | Qiang et al. (2020) | 16.2 | Middle/High school | East Asia | CCTDI（主观） | Scientific Creativity（客观） |
 > | Qiang et al. (2020) | 16.2 | Middle/High school | East Asia | CCTDI（主观） | Trait-like Creative Self Efficacy（主观） |
@@ -428,7 +428,7 @@ issuing_organization: ""
 > [!moderator-summary] 调节变量与测量类型交互摘要
 > | 调节变量 | 检验统计量 | 效应方向 | 结论 |
 > |---|---|---|---|
-> | [[Critical Thinking Assessment|批判性思维测量类型]]（主观 vs 客观） | $Q_M(1) = 5.234$，$p = .022$ | 主观更强 | 显著 |
+> | [[Critical Thinking Assessment\|批判性思维测量类型]]（主观 vs 客观） | $Q_M(1) = 5.234$，$p = .022$ | 主观更强 | 显著 |
 > | 创造力测量类型（主观 vs 客观） | $Q_M(1) = 10.133$，$p = .002$ | 主观更强 | 显著 |
 > | 测量类型交互项 | $Q_M(1) = 6.524$，$p = .011$ | 同型组合相关更高 | 显著 |
 > | 年龄 | $Q_M(1) = 1.203$，$p = .273$ | — | 整体不显著 |

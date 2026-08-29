@@ -90,9 +90,9 @@ citation_aliases:
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **[[Piaget's Theory of Cognitive Development|皮亚杰认知发展理论 (Piaget's Theory of Cognitive Development)]]** | 感觉运动、前运算、具体运算和形式运算阶段，作为评估儿童认知成熟度的基线心理学框架（pp.2–3）。 |
-> | **[[Neo-Piagetian Theories|新皮亚杰理论 (Neo-Piagetian Theories)]]** | [[Juan Pascual-Leone|帕斯卡尔-莱昂 (Juan Pascual-Leone)]] (1970) 的心理能量 (M-power) 与干扰算子 (I-operator)；[[Robbie Case|凯斯 (Robbie Case)]] (1985, 1992) 的领域子阶段和平衡木测试 (Balancing Beam Test)；[[Kurt Fischer|菲舍尔 (Kurt Fischer)]] (1980) 的代表性映射 (Representational Mapping) 与环境经验可塑性 (Experience-Dependent Plasticity) 框架，用作修正经典阶段论、引入信息加工视角的中介工具（pp.3–4）。 |
-> | **[[Miyake's Unity and Diversity Framework of Executive Function|Miyake执行功能统一性与多样性框架 (Miyake's Unity and Diversity Framework of Executive Function)]]** | 区分并定义了执行功能的三个核心成分：抑制优势反应 [[Cognitive Inhibition|抑制控制 (Inhibition)]]、任务/精神集转换 [[Cognitive Shifting|认知转换 (Shifting)]]、以及工作内存信息更新与监控 [[Updating and Monitoring|工作记忆更新 (Updating)]]，作为解构认知控制能力的操作化量尺（p.4）。 |
+> | **[[Piaget's Theory of Cognitive Development\|皮亚杰认知发展理论 (Piaget's Theory of Cognitive Development)]]** | 感觉运动、前运算、具体运算和形式运算阶段，作为评估儿童认知成熟度的基线心理学框架（pp.2–3）。 |
+> | **[[Neo-Piagetian Theories\|新皮亚杰理论 (Neo-Piagetian Theories)]]** | [[Juan Pascual-Leone\|帕斯卡尔-莱昂 (Juan Pascual-Leone)]] (1970) 的心理能量 (M-power) 与干扰算子 (I-operator)；[[Robbie Case\|凯斯 (Robbie Case)]] (1985, 1992) 的领域子阶段和平衡木测试 (Balancing Beam Test)；[[Kurt Fischer\|菲舍尔 (Kurt Fischer)]] (1980) 的代表性映射 (Representational Mapping) 与环境经验可塑性 (Experience-Dependent Plasticity) 框架，用作修正经典阶段论、引入信息加工视角的中介工具（pp.3–4）。 |
+> | **[[Miyake's Unity and Diversity Framework of Executive Function\|Miyake执行功能统一性与多样性框架 (Miyake's Unity and Diversity Framework of Executive Function)]]** | 区分并定义了执行功能的三个核心成分：抑制优势反应 [[Cognitive Inhibition\|抑制控制 (Inhibition)]]、任务/精神集转换 [[Cognitive Shifting\|认知转换 (Shifting)]]、以及工作内存信息更新与监控 [[Updating and Monitoring\|工作记忆更新 (Updating)]]，作为解构认知控制能力的操作化量尺（p.4）。 |
 
 ---
 
@@ -101,17 +101,17 @@ citation_aliases:
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **研究方法**<br>文献综述 (Literature Review) | [[Literature Review|文献综述]] (Literature Review)。对跨越发展心理学、认知神经科学和教育科学的多领域文献进行多学科整合分析（p.2）。 |
-> | **脑发育数据来源**<br>神经生物学证据 (Neurobiological Evidence) | 整合分析已发表的尸检脑解剖数据 (突触连结与细胞生长) 及各年龄段儿童的[[Electroencephalography|脑电图 (Electroencephalography, EEG)]]、[[Functional Magnetic Resonance Imaging|功能性磁共振成像 (Functional Magnetic Resonance Imaging, fMRI)]]、正电子发射断层扫描 (Positron Emission Tomography, PET)、和近红外光谱 (Near-infrared Spectroscopy, NIRS) 扫描数据（p.2, pp.9–13）。 |
-> | **执行功能行为任务**<br>执行功能任务 (Executive Function Tasks) | 汇总分析维度变化卡片分类任务 (Dimensional Change Card Sort, DCCS)、Stroop式日夜任务 (Stroop-like Day-Night Task)、Go/No-Go任务 (Go/No-Go Task)、A非B任务 (A-not-B Task)、数字广度任务 (Digit Span Task)、威斯康星卡片分类任务 (Wisconsin Card Sorting Test, WCST) 等行为学[[Paradigm|范式]]（pp.9–15）。 |
-> | **认知发展测试**<br>皮亚杰测试任务 (Piagetian Tasks) | 锚定经典守恒任务 (如液体守恒任务 [[Piaget's Theory of Cognitive Development|Liquid Conservation Task]]、类包含任务 [[Piaget's Theory of Cognitive Development|Class Inclusion Task]]) 和新皮亚杰平衡木测试 (Balancing Beam Test) 的心理学数据（pp.2–4）。 |
+> | **研究方法**<br>文献综述 (Literature Review) | [[Literature Review\|文献综述]] (Literature Review)。对跨越发展心理学、认知神经科学和教育科学的多领域文献进行多学科整合分析（p.2）。 |
+> | **脑发育数据来源**<br>神经生物学证据 (Neurobiological Evidence) | 整合分析已发表的尸检脑解剖数据 (突触连结与细胞生长) 及各年龄段儿童的[[Electroencephalography\|脑电图 (Electroencephalography, EEG)]]、[[Functional Magnetic Resonance Imaging\|功能性磁共振成像 (Functional Magnetic Resonance Imaging, fMRI)]]、正电子发射断层扫描 (Positron Emission Tomography, PET)、和近红外光谱 (Near-infrared Spectroscopy, NIRS) 扫描数据（p.2, pp.9–13）。 |
+> | **执行功能行为任务**<br>执行功能任务 (Executive Function Tasks) | 汇总分析维度变化卡片分类任务 (Dimensional Change Card Sort, DCCS)、Stroop式日夜任务 (Stroop-like Day-Night Task)、Go/No-Go任务 (Go/No-Go Task)、A非B任务 (A-not-B Task)、数字广度任务 (Digit Span Task)、威斯康星卡片分类任务 (Wisconsin Card Sorting Test, WCST) 等行为学[[Paradigm\|范式]]（pp.9–15）。 |
+> | **认知发展测试**<br>皮亚杰测试任务 (Piagetian Tasks) | 锚定经典守恒任务 (如液体守恒任务 [[Piaget's Theory of Cognitive Development\|Liquid Conservation Task]]、类包含任务 [[Piaget's Theory of Cognitive Development\|Class Inclusion Task]]) 和新皮亚杰平衡木测试 (Balancing Beam Test) 的心理学数据（pp.2–4）。 |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |----------|------|
-> | **[[Document|文献]]样本池** | 覆盖 1950 年代至 2017 年间发表的认知心理学、神经科学及教育管理文献（p.2）。 |
+> | **[[Document\|文献]]样本池** | 覆盖 1950 年代至 2017 年间发表的认知心理学、神经科学及教育管理文献（p.2）。 |
 > | **测评任务范围** | 包含 A非B任务 (A-not-B Task, 0–2岁)、Stroop式日夜任务与维度变化卡片分类任务 (Day-Night & DCCS Tasks, 3–5岁)、守恒任务与 Go/No-Go 任务 (Conservation & Go/No-Go Tasks, 7–11岁)、威斯康星卡片分类任务与 Keep-track 任务 (WCST & Keep-track Tasks, 11–16岁) 等代表性行为学测试（pp.9–15）。 |
-> | **大脑解剖样本** | 包含尸检解剖数据 (如背外侧前额叶皮层 [[Prefrontal Cortex|Dorsolateral Prefrontal Cortex, dlPFC]] 锥体细胞) 以及不同年龄段儿童与成人的神经成像扫描数据（pp.9–13）。 |
+> | **大脑解剖样本** | 包含尸检解剖数据 (如背外侧前额叶皮层 [[Prefrontal Cortex\|Dorsolateral Prefrontal Cortex, dlPFC]] 锥体细胞) 以及不同年龄段儿童与成人的神经成像扫描数据（pp.9–13）。 |
 
 ---
 

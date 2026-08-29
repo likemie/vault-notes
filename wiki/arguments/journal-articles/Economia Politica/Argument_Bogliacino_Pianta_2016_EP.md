@@ -79,7 +79,7 @@ updated: 2026-06-10
 > | 理论工具 | 解释功能 |
 > |----------|----------|
 > | **[[Pavitt Taxonomy]]**<br>Pavitt 分类法（1984） | 将制造业按创新来源、性质和规模特征分为科学基础型（SB）、专业供应商型（SS）、规模密集型（SI）、供应商主导型（SD）四类 |
-> | **[[Evolutionary Economics|演化经济学]]**<br>Nelson & Winter (1982) | 经济活动的多样性和[[Heterogeneity|异质性]]是演化过程的核心特征，[[Technological Trajectories|技术轨迹]]和累积性学习塑造产业差异 |
+> | **[[Evolutionary Economics\|演化经济学]]**<br>Nelson & Winter (1982) | 经济活动的多样性和[[Heterogeneity\|异质性]]是演化过程的核心特征，[[Technological Trajectories\|技术轨迹]]和累积性学习塑造产业差异 |
 
 ---
 ## 研究方法
@@ -87,7 +87,7 @@ updated: 2026-06-10
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **部门创新数据库**<br>[[Sectoral Innovation Database|Sectoral Innovation Database]]（SID） | Urbino 大学开发的跨国家产业层面数据库，整合 [[Centre for Independent Studies|CIS]] 2、3、4 数据，匹配经济表现指标。覆盖德国、法国、意大利、荷兰、葡萄牙、西班牙、英国和挪威 |
+> | **部门创新数据库**<br>[[Sectoral Innovation Database\|Sectoral Innovation Database]]（SID） | Urbino 大学开发的跨国家产业层面数据库，整合 [[Centre for Independent Studies\|CIS]] 2、3、4 数据，匹配经济表现指标。覆盖德国、法国、意大利、荷兰、葡萄牙、西班牙、英国和挪威 |
 > | **主成分分析**<br>Principal Component Analysis | 检验创新来源、目标和产出的维度结构，验证不同行业分组的统计合理性 |
 > | **回归分析**<br>Regression Analysis | 以创新-绩效关系为检验平台，比较不同行业分组方案的解释力 |
 
@@ -96,7 +96,7 @@ updated: 2026-06-10
 > |----------|------|
 > | **行业覆盖** | 22 个制造业 + 17 个服务业，NACE Rev. 1 两位数分类 |
 > | **国家覆盖** | 德国、法国、意大利、荷兰、葡萄牙、西班牙、英国 + 挪威（EFTA） |
-> | **时间跨度** | [[Community Innovation Survey|CIS]] 2、3、4 三轮调查（每轮覆盖当年及前两年） |
+> | **时间跨度** | [[Community Innovation Survey\|CIS]] 2、3、4 三轮调查（每轮覆盖当年及前两年） |
 > | **分类转换** | 从 NACE Rev. 1 到 NACE Rev. 2 的匹配基于 Perani & Cirillo (2015) 和 Pianta et al. (2015) |
 
 ---

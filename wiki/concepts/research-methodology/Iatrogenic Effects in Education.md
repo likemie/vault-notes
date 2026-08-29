@@ -91,10 +91,10 @@ updated: 2026-08-22
 > [!contrast-table] 清算中心对医源性/有害效应（Iatrogenic Harm）的排查规范（基于 Wadhwa et al., 2024）
 > | 清算中心 | 对医源性/负效应的排查要求 | 发现负效应时的处置结果 | 制度关注焦点 |
 > |:---|:---|:---|:---|
-> | **[[Blueprints for Healthy Youth Development|Blueprints]]** | **全面且强制** 系统审查全部认证研究中的暴力、毒品、犯罪及学业负向指标。 | **一票否决** 核心使命领域只要发现统计显著的负向效果，直接判定为有害并公开通报。 | 严密防范青少年同伴聚合中的越轨传染。 |
-> | **[[California Evidence Based Clearinghouse for Child Social and Economic Welfare|CEBC]]** | **刚性排查** 考察儿童福祉、安全及法制指标，要求无医源性风险。 | 判定为“未能证明有效或有害（NR / Fails to Demonstrate）”，禁止进入推荐库。 | 保护处境不利儿童免受二次心理创伤。 |
-> | **[[What Works Clearinghouse|WWC]]** | **局部排查** 在干预报告中区分 Positive、Potentially Negative 与 Negative。 | 若存在显著负效应，评为 Negative 或 Mixed，但通常作为独立结果域报告。 | 关注特定学科认知领域的负向表现。 |
-> | **[[National Dropout Prevention Center|NDPC]]** | **未明确排查规程** 主要基于方案呈报的正向成效材料进行评级。 | 缺乏独立的有害效应筛查与预警机制。 | 侧重基层方案的包容性展示。 |
+> | **[[Blueprints for Healthy Youth Development\|Blueprints]]** | **全面且强制** 系统审查全部认证研究中的暴力、毒品、犯罪及学业负向指标。 | **一票否决** 核心使命领域只要发现统计显著的负向效果，直接判定为有害并公开通报。 | 严密防范青少年同伴聚合中的越轨传染。 |
+> | **[[California Evidence Based Clearinghouse for Child Social and Economic Welfare\|CEBC]]** | **刚性排查** 考察儿童福祉、安全及法制指标，要求无医源性风险。 | 判定为“未能证明有效或有害（NR / Fails to Demonstrate）”，禁止进入推荐库。 | 保护处境不利儿童免受二次心理创伤。 |
+> | **[[What Works Clearinghouse\|WWC]]** | **局部排查** 在干预报告中区分 Positive、Potentially Negative 与 Negative。 | 若存在显著负效应，评为 Negative 或 Mixed，但通常作为独立结果域报告。 | 关注特定学科认知领域的负向表现。 |
+> | **[[National Dropout Prevention Center\|NDPC]]** | **未明确排查规程** 主要基于方案呈报的正向成效材料进行评级。 | 缺乏独立的有害效应筛查与预警机制。 | 侧重基层方案的包容性展示。 |
 
 ---
 
@@ -120,4 +120,4 @@ updated: 2026-08-22
 > | [[Internal Validity]] | 效度维度 | 医源性效应揭示了干预与环境/同伴相互作用对内部效度造成的深层扭曲。 |
 > | [[Cluster Randomized Trials]] | 检验方法 | 集群试验能有效隔离班级层面的同伴越轨传染，准确度量群体聚合效应。 |
 > | [[Blueprints for Healthy Youth Development]] | 评价机构 | 将零医源性伤害列为最高认证的绝对门禁。 |
-> | [[Campbellian Validity Framework]] | 理论基础 | 扩展了因果结论效度的伦理边界，强调对未预期反向因果的[[Falsification|证伪]]检验。 |
+> | [[Campbellian Validity Framework]] | 理论基础 | 扩展了因果结论效度的伦理边界，强调对未预期反向因果的[[Falsification\|证伪]]检验。 |

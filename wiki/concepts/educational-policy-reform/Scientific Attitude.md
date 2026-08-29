@@ -106,9 +106,9 @@ updated: 2026-08-23
 > [!contrast-table] 表：科学态度在不同历史语境与应用[[Champ|场域]]中的内涵对比
 > | 应用场域 / 语境 | 核心关注点 | 典型倡导者 / 监测工具 | 关键机制与功能 |
 > |---|---|---|---|
-> | **当代科学教育认识论** | 证据评估、[[Falsification|可证伪性]]、理解科学不确定性 | 英国皇家学会 (2026a); [[PISA]] [[Scientific Literacy|科学素养]]框架 | 破除[[Rote Learning|死记硬背]]，培育公民面对健康与气候议题的理性决策能力 |
-> | **民国[[New Education Movement|新教育运动]]后期** | 客观事实、实验渐进、精细研究与适应国情 | 赵乃传 (1925); [[Tao Xingzhi|陶行知]]; 《新教育评论》 | 克服激进空想与教条移植，建立国家建设导向的渐进实验闭环 |
-> | **现代科技政策与公众参与** | 科学信任、信息需求、民主治理与协商参与 | [[Public Attitudes to Science|PAS 2025 调查]]; [[Bodmer Report 1985|Bodmer 报告]] | 诊断公众信息渴求与决策边缘化落差，推动从单向科普转向双向参与 |
+> | **当代科学教育认识论** | 证据评估、[[Falsification\|可证伪性]]、理解科学不确定性 | 英国皇家学会 (2026a); [[PISA]] [[Scientific Literacy\|科学素养]]框架 | 破除[[Rote Learning\|死记硬背]]，培育公民面对健康与气候议题的理性决策能力 |
+> | **民国[[New Education Movement\|新教育运动]]后期** | 客观事实、实验渐进、精细研究与适应国情 | 赵乃传 (1925); [[Tao Xingzhi\|陶行知]]; 《新教育评论》 | 克服激进空想与教条移植，建立国家建设导向的渐进实验闭环 |
+> | **现代科技政策与公众参与** | 科学信任、信息需求、民主治理与协商参与 | [[Public Attitudes to Science\|PAS 2025 调查]]; [[Bodmer Report 1985\|Bodmer 报告]] | 诊断公众信息渴求与决策边缘化落差，推动从单向科普转向双向参与 |
 
 ---
 
@@ -151,11 +151,11 @@ updated: 2026-08-23
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
-> | 命题类型 | 核心指向 | 适用情境与[[Praxis|实践]]机制 | 代表[[Document|文献]] / 来源 |
+> | 命题类型 | 核心指向 | 适用情境与[[Praxis\|实践]]机制 | 代表[[Document\|文献]] / 来源 |
 > |---|---|---|---|
-> | **范式转向与国情适应** | 揭示民国[[New Education Movement|新教育运动]]从激进民主向科学态度的转型 | 比较教育史、教育范式演进 | [[Argument_Zhou_2024_CE|Zhou & Westberg (2024)]] |
-> | **[[Epistemology|认识论]]与不确定性接纳** | 强调掌握多源证据批判与科学暂定性认知的核心地位 | 科学课程改革、[[Citizen Science|公民科学]]素养 | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026a)]] |
-> | **公众民主审议与双向参与** | 诊断公众信息渴求与科技决策边缘化的深层矛盾 | 科技政策、[[Public Engagement with Science|公众科学参与]]（PES） | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|The Royal Society (2026b)]] |
+> | **范式转向与国情适应** | 揭示民国[[New Education Movement\|新教育运动]]从激进民主向科学态度的转型 | 比较教育史、教育范式演进 | [[Argument_Zhou_2024_CE\|Zhou & Westberg (2024)]] |
+> | **[[Epistemology\|认识论]]与不确定性接纳** | 强调掌握多源证据批判与科学暂定性认知的核心地位 | 科学课程改革、[[Citizen Science\|公民科学]]素养 | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026a)]] |
+> | **公众民主审议与双向参与** | 诊断公众信息渴求与科技决策边缘化的深层矛盾 | 科技政策、[[Public Engagement with Science\|公众科学参与]]（PES） | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|The Royal Society (2026b)]] |
 
 ---
 
@@ -192,9 +192,9 @@ updated: 2026-08-23
 > [!ref-table]- 科学态度与公众参与宏观民意实证数据
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 调查项目 / 来源 | 样本特征 | 核心[[Variable|变量]]与测量维度 | 关键实证数据 | 政策含义与理论洞见 |
+> | 调查项目 / 来源 | 样本特征 | 核心[[Variable\|变量]]与测量维度 | 关键实证数据 | 政策含义与理论洞见 |
 > |---|---|---|---|---|
-> | **[[Public Attitudes to Science|PAS 2025 全英调查]]** | 英国全国代表性成年样本 | 科学家信任度、科学价值认同、信息渴求度、科技决策参与感 | • **87%** 高度信任高校科学家<br>• **83%** 认为科学对社会作出巨大贡献<br>• **62%** 渴求更多科学信息<br>• 仅 **12%** 认为公众充分参与了科技决策 | 公众具备高度正向的科学态度与求知渴望，但面临严重的决策边缘化落差。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026b, p. 47)]] |
+> | **[[Public Attitudes to Science\|PAS 2025 全英调查]]** | 英国全国代表性成年样本 | 科学家信任度、科学价值认同、信息渴求度、科技决策参与感 | • **87%** 高度信任高校科学家<br>• **83%** 认为科学对社会作出巨大贡献<br>• **62%** 渴求更多科学信息<br>• 仅 **12%** 认为公众充分参与了科技决策 | 公众具备高度正向的科学态度与求知渴望，但面临严重的决策边缘化落差。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|(The Royal Society, 2026b, p. 47)]] |
 > | **CaSE 探索十年追踪（2026）** | 英国公众代表性样本 | 科学在日常生活与经济中的重要性感知 | 超过 **70%** 公众认为研发与科学创新是国家长期繁荣的关键支柱 | 巩固了将科学参与确立为国家社会文化基础设施的民意基础。 |
 
 ---

@@ -82,9 +82,9 @@ updated: 2026-08-17
 >
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|
-> | [[International Baccalaureate]] | 概念 | 大西洋学院的课程与升学资格困难构成国际文凭形成的[[Praxis|实践]]来源之一。 |
+> | [[International Baccalaureate]] | 概念 | 大西洋学院的课程与升学资格困难构成国际文凭形成的[[Praxis\|实践]]来源之一。 |
 > | [[Kurt Hahn]] | 人物 | 为跨国共同生活、行动与服务课程提供教育愿景。 |
 > | [[Alec Peterson]] | 人物 | 参与学术课程设计，并把大西洋学院经验与国际文凭制度连接起来。 |
 > | [[Desmond Hoare]] | 人物 | 创校校长，把共同任务、技能训练、救援服务和男女同校转化为学校制度。 |
-> | [[Atlantic College Curriculum 1962]] | 课程方案 | 以 A-level 与辅助学院课程组合维持升学资格和[[International Education|国际教育]]广度。 |
+> | [[Atlantic College Curriculum 1962]] | 课程方案 | 以 A-level 与辅助学院课程组合维持升学资格和[[International Education\|国际教育]]广度。 |
 > | [[European Convention on the Equivalence of Diplomas Leading to Admission to Universities 1953]] | 政策 | 提供外国文凭的申请权，也暴露等值承认与实际录取之间的差距。 |

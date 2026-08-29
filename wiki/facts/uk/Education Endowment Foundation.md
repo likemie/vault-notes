@@ -132,5 +132,5 @@ updated: 2026-06-20
 > |:-----|:-----|:-----|
 > | [[Australian Education Research Organisation]] | 组织/事实 | AERO 在设立时被建议直接以 EEF 为直接蓝本，且 EEF 创始人出任其专家委员会成员。 |
 > | [[BHP Foundation]] | 组织/事实 | 必和必拓基金会是 EEF 全球扩张计划的核心资金赞助方，助其在全球推广证据治理模式。 |
-> | [[Strong Beginnings Report]] | 政策/事实 | 澳大利亚初始教师教育改革大纲中，EEF 推荐的科学[[Document|文献]]被列为必修核心大纲的参考文献。 |
-> | [[EEF Teaching and Learning Toolkit]] | 工具/事实 | EEF 维护的旗舰证据产品，将复杂的教学[[Praxis|实践]]折算为“学习月份”进行排名展示。 |
+> | [[Strong Beginnings Report]] | 政策/事实 | 澳大利亚初始教师教育改革大纲中，EEF 推荐的科学[[Document\|文献]]被列为必修核心大纲的参考文献。 |
+> | [[EEF Teaching and Learning Toolkit]] | 工具/事实 | EEF 维护的旗舰证据产品，将复杂的教学[[Praxis\|实践]]折算为“学习月份”进行排名展示。 |

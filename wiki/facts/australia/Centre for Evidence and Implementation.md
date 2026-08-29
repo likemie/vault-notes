@@ -96,6 +96,6 @@ updated: 2026-06-16
 > [!ref-table] 相关条目索引
 > | 条目 | 关系 | 来源 |
 > |---|---|---|
-> | [[Australian Education Research Organisation]] | 委托 CEI 进行桌面审查，并在[[Policy Network|政策网络]]中推广其报告的官方教育证据机构。 | ([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]]) |
+> | [[Australian Education Research Organisation]] | 委托 CEI 进行桌面审查，并在[[Policy Network\|政策网络]]中推广其报告的官方教育证据机构。 | ([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 8]]) |
 > | [[Strong Beginnings Report]] | 强制指定核心课程附表、以 CEI 的桌面审查作为隐藏科学底座的改革文本。 | |
 > | [[What Works Movement]] | CEI and AERO 共同隶属并推动的跨国标准化教学证据评级运动。 | |

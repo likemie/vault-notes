@@ -83,12 +83,12 @@ updated: 2026-08-21
 ## 循证清算中心评级全景对比
 
 > [!contrast-table] 五大清算中心对 PALS 的评级与审查机制对比（基于 Wadhwa et al., 2024）
-> | 审查维度 | [[National Dropout Prevention Center|NDPC]] | [[Blueprints for Healthy Youth Development|Blueprints]] | [[Best Evidence Encyclopedia|BEE]] (JHU/Slavin) | [[What Works Clearinghouse|WWC]] (联邦官方) | [[Clearinghouse for Military Family Readiness Continuum of Evidence|CMFR]] |
+> | 审查维度 | [[National Dropout Prevention Center\|NDPC]] | [[Blueprints for Healthy Youth Development\|Blueprints]] | [[Best Evidence Encyclopedia\|BEE]] (JHU/Slavin) | [[What Works Clearinghouse\|WWC]] (联邦官方) | [[Clearinghouse for Military Family Readiness Continuum of Evidence\|CMFR]] |
 > |:---|:---|:---|:---|:---|:---|
 > | **底线评级结论** | **Strong Evidence**<br>(强力推荐·最高级) | **Promising（有望）**<br>(二级认证) | **Recommended**<br>(推荐小学数学版) | **分域离散评定**<br>(Promising 至 Not Recommended) | **Insufficient Evidence**<br>(证据不足·不推荐) |
-> | **合格[[Document|文献]]池规模** | 未公开具体研究篇目 | 审查 18 项，**仅认证 1 项** | 仅纳入 **1 项研究** (数学版) | 依据结果域纳入 **1 至 3 项研究** | 阅读版纳入 **10 项**，数学版纳入 **2 项** |
+> | **合格[[Document\|文献]]池规模** | 未公开具体研究篇目 | 审查 18 项，**仅认证 1 项** | 仅纳入 **1 项研究** (数学版) | 依据结果域纳入 **1 至 3 项研究** | 阅读版纳入 **10 项**，数学版纳入 **2 项** |
 > | **机构间文献重叠度** | 未知 | 独立文献池 | 独立文献池 | 与 CMFR **仅共享 2 项研究** | 与 WWC **仅共享 2 项研究** |
-> | **6 个月[[Fade-out Effect|持续效果]]审查** | 未作要求 | 尝试考察但因缺乏独立复制止步于有望 | 未作硬性要求 | 未作硬性要求（以干预结束即测为主） | **刚性一票否决**，因缺乏 6 个月随访数据直接拒绝给予认证 |
+> | **6 个月[[Fade-out Effect\|持续效果]]审查** | 未作要求 | 尝试考察但因缺乏独立复制止步于有望 | 未作硬性要求 | 未作硬性要求（以干预结束即测为主） | **刚性一票否决**，因缺乏 6 个月随访数据直接拒绝给予认证 |
 > | **学科组件切分方式** | 整体项目统一评级 | 整体项目统一评级 | 仅专项评估小学数学组件 | 按 5 个微观细分结果域独立发布 | 将阅读与数学作为两个独立项目分别评定 |
 
 ---
@@ -132,8 +132,8 @@ updated: 2026-08-21
 >
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|
-> | [[Educational Evidence Clearinghouses]] | 核心概念 | PALS 是检验[[Document|文献]]池割裂与组件拆分如何制造评级冲突的典型案例。 |
+> | [[Educational Evidence Clearinghouses]] | 核心概念 | PALS 是检验[[Document\|文献]]池割裂与组件拆分如何制造评级冲突的典型案例。 |
 > | [[What Works Clearinghouse]] | 评价机构 | 对 PALS 开展分域审查，揭示阅读与数学维度的证据不对称性。 |
-> | [[Best Evidence Encyclopedia]] | 评价机构 | 专项审查 PALS Math 并基于[[Effect Size|效应量]]给予推荐评级。 |
+> | [[Best Evidence Encyclopedia]] | 评价机构 | 专项审查 PALS Math 并基于[[Effect Size\|效应量]]给予推荐评级。 |
 > | [[Blueprints for Healthy Youth Development]] | 评价机构 | 严苛过滤 18 项实证并因缺乏独立复制评为 Promising。 |
 > | [[Clearinghouse for Military Family Readiness Continuum of Evidence]] | 评价机构 | 因 6 个月随访门槛未满足而对 PALS 判定为证据不足。 |

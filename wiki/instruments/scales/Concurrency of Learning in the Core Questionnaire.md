@@ -62,8 +62,8 @@ updated: 2026-08-11
 >
 > | 维度 | 题项数 | 测量内容 | 计分方式 |
 > |---|---|---|---|
-> | 并发学习感知与现状 | 17 | 学校对核心组件连贯性的支持程度、各组件间的连接情况、面临的困难等 | [[Likert Scale|李克特量表]]（同意程度，具体级数原文未详述，通常为 5 点） |
-> | 开放性反馈 | 3 | 并发学习的具体良好[[Praxis|实践]]、遇到的挑战以及改进建议 | 文本分析 / 简答 |
+> | 并发学习感知与现状 | 17 | 学校对核心组件连贯性的支持程度、各组件间的连接情况、面临的困难等 | [[Likert Scale\|李克特量表]]（同意程度，具体级数原文未详述，通常为 5 点） |
+> | 开放性反馈 | 3 | 并发学习的具体良好[[Praxis\|实践]]、遇到的挑战以及改进建议 | 文本分析 / 简答 |
 
 ---
 
@@ -80,9 +80,9 @@ updated: 2026-08-11
 >
 > | 编号 | 题项 (英文原文) | 作答选项 |
 > |---|---|---|
-> | 1 | A coherent core program supports [[Concurrency of Learning]] at [[My School Website|My School]]. | 同意程度 |
-> | 2 | There is a link and relationship between [[Creativity, Action, Service|CAS]] & [[Theory of Knowledge|TOK]] at my school. | 同意程度 |
-> | 3 | There is a link and relationship between TOK & [[Extended Essay|EE]] at my school. | 同意程度 |
+> | 1 | A coherent core program supports [[Concurrency of Learning]] at [[My School Website\|My School]]. | 同意程度 |
+> | 2 | There is a link and relationship between [[Creativity, Action, Service\|CAS]] & [[Theory of Knowledge\|TOK]] at my school. | 同意程度 |
+> | 3 | There is a link and relationship between TOK & [[Extended Essay\|EE]] at my school. | 同意程度 |
 > | 4 | There is a link and relationship between CAS & EE at my school. | 同意程度 |
 > | 5 | A coherent core program enables concurrency of learning at my school. | 同意程度 |
 > | 6 | Core lessons are planned, reviewed and reflected collaboratively at my school. | 同意程度 |
@@ -95,7 +95,7 @@ updated: 2026-08-11
 > | 13 | [[Experiential Learning]] helps achieve concurrency of learning at my school. | 同意程度 |
 > | 14 | The links and relationships are evident among the core components at my school. | 同意程度 |
 > | 15 | The core is coherently connected with the academic subjects at my school. | 同意程度 |
-> | 16 | Concurrency of learning supports the development of [[IB Learner Profile|Learner Profile]] attributes at my school. | 同意程度 |
+> | 16 | Concurrency of learning supports the development of [[IB Learner Profile\|Learner Profile]] attributes at my school. | 同意程度 |
 > | 17 | My school evaluates how coherence in the core program is implemented. | 同意程度 |
 
 ### 实践与挑战（简答题部分）
@@ -118,7 +118,7 @@ updated: 2026-08-11
 >
 > | 研究 | 工具版本 | 样本与用途 | 测量属性 | 关键结果 |
 > |---|---|---|---|---|
-> | [[Argument_Metli_2022_IJER|Metli & Akış (2022)]] | 原始英文版 | N=40，包括来自土耳其连续与非连续 [[International Baccalaureate|IB]] 授权学校的 DP 协调员、核心组件教师和学校管理者。用于探讨核心组件连贯性的实现现状。 | 经过熟悉 IB 事务的[[International Education|国际教育]]专家审查[[Face Validity|表面效度]]，使用[[Descriptive Analysis|描述性统计分析]]定量部分。 | 大多数受访者认可核心连贯性对跨学科学习的价值，但在具体联结策略上呈现表面化；超过一半受访者认为核心组件在学校中实际上是孤立运行的（题项7）；学校在发现核心组件联系（题项10）及时间规划上面临显著挑战。 |
+> | [[Argument_Metli_2022_IJER\|Metli & Akış (2022)]] | 原始英文版 | N=40，包括来自土耳其连续与非连续 [[International Baccalaureate\|IB]] 授权学校的 DP 协调员、核心组件教师和学校管理者。用于探讨核心组件连贯性的实现现状。 | 经过熟悉 IB 事务的[[International Education\|国际教育]]专家审查[[Face Validity\|表面效度]]，使用[[Descriptive Analysis\|描述性统计分析]]定量部分。 | 大多数受访者认可核心连贯性对跨学科学习的价值，但在具体联结策略上呈现表面化；超过一半受访者认为核心组件在学校中实际上是孤立运行的（题项7）；学校在发现核心组件联系（题项10）及时间规划上面临显著挑战。 |
 
 ---
 
@@ -129,4 +129,4 @@ updated: 2026-08-11
 >
 > | 版本 | 语言与地区 | 目标人群 | 题项数 | 主要变化 | 来源 |
 > |---|---|---|---|---|---|
-> | 原始版 | 英文，土耳其 | [[IB Diploma Programme|IB DP]] 管理者与教师 | 20 | 由研究者自编并经过专家审阅 | [[Argument_Metli_2022_IJER|Metli & Akış (2022)]] |
+> | 原始版 | 英文，土耳其 | [[IB Diploma Programme\|IB DP]] 管理者与教师 | 20 | 由研究者自编并经过专家审阅 | [[Argument_Metli_2022_IJER\|Metli & Akış (2022)]] |

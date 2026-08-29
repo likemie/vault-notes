@@ -100,7 +100,7 @@ updated: '2026-07-22'
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Third Generation Activity Theory]] | 理论 | 为模板分析提供先验[[Coding in Qualitative Research|编码]]框架（主体、客体、工具、规则、共同体、分工）。 |
+> | [[Third Generation Activity Theory]] | 理论 | 为模板分析提供先验[[Coding in Qualitative Research\|编码]]框架（主体、客体、工具、规则、共同体、分工）。 |
 > | [[Coding in Qualitative Research]] | 方法 | 模板分析属于结构化质性编码方法范畴。 |
 
 ---

@@ -127,7 +127,7 @@ issuing_organization: ""
 > | 理论工具 | 解释功能 |
 > |----------|----------|
 > | **国际技术扩散理论**<br>[[Technology Transfer]] | 将工业间谍视为国际知识流动的一种渠道，与贸易、FDI、移民等传统渠道并列。后发国家通过获取前沿国家的技术知识来加速生产率增长。（pp.1057–1058） |
-> | **距离技术前沿的创新与采用模型**<br>（Distance to Frontier） | 后发国家的 [[Total Factor Productivity|TFP]] 增长同时取决于自主 R&D 和从技术前沿的独立技术转移；距离前沿越远，技术转移的边际效应越大。本文以此推导估计方程。（pp.1074–1075） |
+> | **距离技术前沿的创新与采用模型**<br>（Distance to Frontier） | 后发国家的 [[Total Factor Productivity\|TFP]] 增长同时取决于自主 R&D 和从技术前沿的独立技术转移；距离前沿越远，技术转移的边际效应越大。本文以此推导估计方程。（pp.1074–1075） |
 
 > [!warrant]- 理论如何支撑论证
 > 研究将工业间谍的情报流入嵌入标准的生产函数框架中。设行业 TFP 增长率取决于 R&D 投入、间谍情报流入和与前沿的距离。通过差分消除国家层面不随时间变化的不可观测因素后，估计方程将两德 TFP 差距的变化回归到滞后情报流入、R&D 差距和初始 TFP 差距上。关键识别[[Hypothesis|假设]]是条件于行业和时间固定效应、专利差距和初始 TFP 差距后，情报流入的变动与未观测的 TFP 冲击不相关。（pp.1074–1076）
@@ -140,9 +140,9 @@ issuing_organization: ""
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
 > | **SIRA 数据库关键词映射** | 将 2,000 个最频繁出现的关键词（覆盖 63.8% 的关键词条目）手动分配到 16 个行业；使用机器学习（线性 SVM）进行稳健性检验。（pp.1060–1062, 1087–1088） |
-> | **行业 TFP 测算**<br>Production Function Approach | 基于 Heske (2009, 2013, 2014) 构建的行业总增加值、就业和固定资本投资时间序列，使用[[Perpetual Inventory Method|永续盘存法]]估计资本存量，通过 C-D 生产函数倒推 [[Total Factor Productivity|TFP]]。（pp.1063–1065, 1074–1076） |
-> | **面板固定效应模型**<br>Panel Fixed Effects | 以三年重叠间隔估计，被解释[[Variable|变量]]为两德 log TFP 差距变化，核心解释变量为过去三年情报流入/行业产出，控制行业和年份固定效应、专利差距和初始 TFP 差距。（pp.1076–1078） |
-> | **工具变量策略**<br>Instrumental Variables | 两种 IV (1) 基于 1970 年初已在活动的"老线人"的[[Shift-Share Instrument|shift-share 工具变量]]，(2) 利用高产线人突然退出作为外生变异来源的退出工具变量。（pp.1080–1083） |
+> | **行业 TFP 测算**<br>Production Function Approach | 基于 Heske (2009, 2013, 2014) 构建的行业总增加值、就业和固定资本投资时间序列，使用[[Perpetual Inventory Method\|永续盘存法]]估计资本存量，通过 C-D 生产函数倒推 [[Total Factor Productivity\|TFP]]。（pp.1063–1065, 1074–1076） |
+> | **面板固定效应模型**<br>Panel Fixed Effects | 以三年重叠间隔估计，被解释[[Variable\|变量]]为两德 log TFP 差距变化，核心解释变量为过去三年情报流入/行业产出，控制行业和年份固定效应、专利差距和初始 TFP 差距。（pp.1076–1078） |
+> | **工具变量策略**<br>Instrumental Variables | 两种 IV (1) 基于 1970 年初已在活动的"老线人"的[[Shift-Share Instrument\|shift-share 工具变量]]，(2) 利用高产线人突然退出作为外生变异来源的退出工具变量。（pp.1080–1083） |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |

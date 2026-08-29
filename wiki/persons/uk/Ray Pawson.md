@@ -66,7 +66,7 @@ updated: '2026-06-19'
 > 
 > | 类型 | 条目 | 贡献 |
 > |:-----|:-----|:-----|
-> | 方法 | [[Realist Evaluation|实在论评估]] | 突破传统实验评估，构建以 CMO 为核心的[[Causality|因果]][[Analytic Framework|分析框架]]，并提出 “实在论综合” 替代去情境的[[Meta-analysis|元分析]][[Effect Size|效应量]]均值计算。 |
+> | 方法 | [[Realist Evaluation\|实在论评估]] | 突破传统实验评估，构建以 CMO 为核心的[[Causality\|因果]][[Analytic Framework\|分析框架]]，并提出 “实在论综合” 替代去情境的[[Meta-analysis\|元分析]][[Effect Size\|效应量]]均值计算。 |
 
 ---
 

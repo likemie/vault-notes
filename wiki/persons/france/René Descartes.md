@@ -74,7 +74,7 @@ updated: 2026-07-11
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Epistemology]] | Concept | 将认识论确立为哲学的首要问题，取代了经院哲学的[[Ontology|本体论]]优先 |
+> | [[Epistemology]] | Concept | 将认识论确立为哲学的首要问题，取代了经院哲学的[[Ontology\|本体论]]优先 |
 > | [[Ontology]] | Concept | 心物二元论——思维实体与广延实体的根本区分 |
 > | [[Critical Thinking]] | Concept | 笛卡尔怀疑的方法深刻影响了现代批判性思维训练 |
 > | [[Otto Neurath]] | Person | 纽拉特的反基础主义（1913）直接以笛卡尔的基础主义为批判对象 |

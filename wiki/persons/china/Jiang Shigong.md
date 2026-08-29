@@ -125,7 +125,7 @@ updated: '2026-07-12'
 > 
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Schmittian Sovereignty]] | 概念 | 核心法理，强世功将其决断论翻译为[[One Country, Two Systems|一国两制]]中的“中央管治权”逻辑。 |
+> | [[Schmittian Sovereignty]] | 概念 | 核心法理，强世功将其决断论翻译为[[One Country, Two Systems\|一国两制]]中的“中央管治权”逻辑。 |
 > | [[One Country, Two Systems]] | 概念 | 解释对象，强世功将其重新定义为非契约性的单一制地方授权。 |
 > | [[Citizenship and Social Development]] | 政策/事实 | 政策效果，其思想直接指导了这一去政治化课程的设立和教科书重构。 |
 | [[National Security Law]] | 政策/事实 | 制度工具，为其主权决断理论在特区的落地确立了法律基础。 |

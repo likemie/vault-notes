@@ -76,10 +76,10 @@ updated: 2026-08-28
 >
 > | 测量维度 | 题型与载体 | 核心测量内容与考核重点 | 计分方式 |
 > |---|---|---|---|
-> | **教学策略与课程设计** | 建构反应型教学案例 | 教师根据学科[[Big Ideas|大概念]]设计结构化探究、问题解决与差异化教学策略的能力 | 专业量规分级评分（Rubrics-Based） |
-> | **教育理论与学习科学应用** | 劣构学情分析题 | 将认知发展、[[Constructivist Paradigm|建构主义]]与动机理论转化为具体课堂干预的实践转化力 | [[Criterion-Referenced Test|标准参照]]质性评定（Criterion-Referenced） |
-> | **[[Higher-Order Thinking Skills|高阶思维]]培育素养** | 批判与创造教学设计题 | 教师在自身教学中激发、脚手架支持并评估学生[[Critical Thinking|批判性思维]]与[[Creativity|创造力]]的专门教学法知识（PCK） | 经校准的专家评分员双评（Double-Scored） |
-> | **学习者发展与课堂环境** | 课堂危机与互动模拟 | 营造包容、支持性深度[[Dialogue in Education|对话]]氛围与管理[[Heterogeneity|异质性]]学习群体的[[Professional Judgment|专业判断力]] | 专业量规分级评分 |
+> | **教学策略与课程设计** | 建构反应型教学案例 | 教师根据学科[[Big Ideas\|大概念]]设计结构化探究、问题解决与差异化教学策略的能力 | 专业量规分级评分（Rubrics-Based） |
+> | **教育理论与学习科学应用** | 劣构学情分析题 | 将认知发展、[[Constructivist Paradigm\|建构主义]]与动机理论转化为具体课堂干预的实践转化力 | [[Criterion-Referenced Test\|标准参照]]质性评定（Criterion-Referenced） |
+> | **[[Higher-Order Thinking Skills\|高阶思维]]培育素养** | 批判与创造教学设计题 | 教师在自身教学中激发、脚手架支持并评估学生[[Critical Thinking\|批判性思维]]与[[Creativity\|创造力]]的专门教学法知识（PCK） | 经校准的专家评分员双评（Double-Scored） |
+> | **学习者发展与课堂环境** | 课堂危机与互动模拟 | 营造包容、支持性深度[[Dialogue in Education\|对话]]氛围与管理[[Heterogeneity\|异质性]]学习群体的[[Professional Judgment\|专业判断力]] | 专业量规分级评分 |
 
 ---
 

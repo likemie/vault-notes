@@ -80,7 +80,7 @@ updated: 2026-08-20
 > [!work-line] 主要著作
 > | 年份 | 著作 | 核心贡献 | 关联条目 |
 > |------|------|----------|----------|
-> | 1190 | 《四书章句集注》（*Four Books*） | 编纂《大学》《中庸》《论语》《[[Mencius|孟子]]》并撰写详细注释，将“四书”置于“五经”之上，确立为 1949 年以前每个中国学生与学者的必读典籍[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 43–44)]]。 | [[Confucian Learning Tradition]] |
+> | 1190 | 《四书章句集注》（*Four Books*） | 编纂《大学》《中庸》《论语》《[[Mencius\|孟子]]》并撰写详细注释，将“四书”置于“五经”之上，确立为 1949 年以前每个中国学生与学者的必读典籍[[Argument_Li_2012_Cambridge\|(Li, 2012, pp. 43–44)]]。 | [[Confucian Learning Tradition]] |
 > | 南宋时期 | 《太极图说解》《通书解》等 | 厘清理与气、天理与人欲的关系，构建了宏大的理学宇宙观与道德形而上学。 | [[Neo-Confucianism]] |
 
 > [!thought-timeline] 思想发展
@@ -160,7 +160,7 @@ updated: 2026-08-20
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Self-Cultivation]] | 概念 | 提炼《大学》[[The Great Learning|八条目]]，将修身确定为枢纽。 |
+> | [[Self-Cultivation]] | 概念 | 提炼《大学》[[The Great Learning\|八条目]]，将修身确定为枢纽。 |
 > | [[Sage]] | 概念 | 主张“圣人可及”，赋予所有人追求道德卓越的责任。 |
 > | [[Neo-Confucianism]] | 理论 | 继承程氏兄弟思想，成为程朱理学的集大成者。 |
 > | [[Confucian Learning Tradition]] | 理论 | 编纂《四书》并主导中国教育近千年。 |

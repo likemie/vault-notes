@@ -79,7 +79,7 @@ updated: '2026-08-19'
 > |----------|----------|
 > | **毕业生特质**<br>[[Graduate Attributes]] | 大学社群达成共识，期望学生在学期间发展的品质、技能与理解力，这些特质不仅塑造其专业贡献，也塑造其作为公民的贡献。（p. 86）在此用于确定博士生应具备的多元、立体能力维度。 |
 > | **全球公民素养**<br>[[Global Citizenship]] | 包含跨媒介技术的数字素养（digital literacy）、同理并理解多元视角的文化素养（cultural literacy）、跨文化协商的社会沟通素养（socio-communicative literacy）以及关注可持续发展的环境素养（environmental literacy）。（p. 87）在此用于细化并测量博士生在研究相关技能之外的社会和伦理属性。 |
-> | **21世纪技能与胜任力话语**<br>[[21st Century Skills and Competencies Discourse]] | 关于毕业生应当具备可转移、跨情境的通用能力以应对复杂多变职场的全球性教育改革话语。在此用于呼应博士学位质量保证与提升[[Employability|就业能力]]（employability）的现实背景。 |
+> | **21世纪技能与胜任力话语**<br>[[21st Century Skills and Competencies Discourse]] | 关于毕业生应当具备可转移、跨情境的通用能力以应对复杂多变职场的全球性教育改革话语。在此用于呼应博士学位质量保证与提升[[Employability\|就业能力]]（employability）的现实背景。 |
 > | **结果导向教育**<br>[[Outcomes-based Education]] | 以学生学习成果（即毕业时所能获得的知识、能力与素养）为核心导向的教学质量保障与课程设计模式。在此用于分析高等教育机构面临的博士培养质量认证和成效评估压力。 |
 
 ---
@@ -90,10 +90,10 @@ updated: '2026-08-19'
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
 > | **比较案例研究**<br>[[Comparative Case Study]] | 选取三所研究密集型大学（两所美国大学、一所新西兰大学）作为案例进行对比，分析不同制度背景下博士毕业生的能力感知差异。（p. 88） |
-> | **混合方法研究**<br>[[Mixed Methods Research]] | 整合量化与质性设计。通过问卷调查收集毕业生对[[Graduate Attributes|毕业生特质]]的发展与应用评分，辅以半结构化访谈，以深化对数据背后机制的理解。 |
-> | **问卷调查法**<br>Survey Method | 改编自美国研究生院理事会（Council of Graduate Schools，CGS）的博士职业路径调查[[Questionnaire|问卷]]。包含 20 项特质，采用五点 Likert 量表分别测量发展程度与应用程度。（p. 89） |
+> | **混合方法研究**<br>[[Mixed Methods Research]] | 整合量化与质性设计。通过问卷调查收集毕业生对[[Graduate Attributes\|毕业生特质]]的发展与应用评分，辅以半结构化访谈，以深化对数据背后机制的理解。 |
+> | **问卷调查法**<br>Survey Method | 改编自美国研究生院理事会（Council of Graduate Schools，CGS）的博士职业路径调查[[Questionnaire\|问卷]]。包含 20 项特质，采用五点 Likert 量表分别测量发展程度与应用程度。（p. 89） |
 > | **卡方检验**<br>[[Chi-Squared Test]] | 用于检验不同大学之间在毕业生特质发展、应用以及专业发展活动参与率是否存在统计显著的关联。 |
-> | **质性主题编码**<br>[[Coding in Qualitative Research]] | 对 21 份[[Semi-structured Interview|半结构化访谈]]文本在 Atlas.ti 软件中进行编码，生成 22 个核心主题，提取关于可转移技能与职业准备的具体陈述。 |
+> | **质性主题编码**<br>[[Coding in Qualitative Research]] | 对 21 份[[Semi-structured Interview\|半结构化访谈]]文本在 Atlas.ti 软件中进行编码，生成 22 个核心主题，提取关于可转移技能与职业准备的具体陈述。 |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
@@ -223,10 +223,10 @@ updated: '2026-08-19'
 > | 素养维度 (Domain) | 子维度 (Subdomain) | 典型技能与品质示例 (Examples of attributes and skills) |
 > |---|---|---|
 > | **知识 (Knowledge)** | • 学科特定 (Discipline-specific)<br>• 跨学科 (Interdisciplinary)<br>• 专业职业 (Professional) | 评估自身原创性贡献的相关性与价值；整合两门或多门学科知识的能力；理解工作环境中的行政与运营流程。（p. 98） |
-> | **研究 (Research)** | • 研究方法 (Methods)<br>• 研究技能 (Skills)<br>• 研究管理 (Management) | 论证研究所用原则与方法的合理性；检索与评判[[Document|文献]]、管理信息、掌握数据收集与分析技术；项目管理、学术诚信、科研伦理、资金与财务管理。 |
+> | **研究 (Research)** | • 研究方法 (Methods)<br>• 研究技能 (Skills)<br>• 研究管理 (Management) | 论证研究所用原则与方法的合理性；检索与评判[[Document\|文献]]、管理信息、掌握数据收集与分析技术；项目管理、学术诚信、科研伦理、资金与财务管理。 |
 > | **沟通 (Communication)** | • 沟通原则 (Principles)<br>• 媒介与语言 (Media/Language)<br>• 学术发表 (Publication)<br>• 教学指导 (Teaching)<br>• 公众与企业 (Public/Enterprise) | 构建连贯论证、进行知识交换、向不同受众介绍研究；跨媒介与多语种沟通；理解发表流程；发展教学哲学、参与教学指导；促进公众理解、提升政策意识、了解学术成果商业化的可能性。 |
 > | **人际技能 (Interpersonal)** | • 协作团队 (Teamwork)<br>• 领导力 (Leadership) | 公开、直接且公正地与他人沟通，理解自身行为对他人的影响，有效管理关系与成功谈判，倾听他人；支持他人的学习。 |
-> | **高阶思维 (Higher-order)** | • 认知与创新 (Cognitive/Innovation) | 批判性思维、问题解决、认知能力、[[Creativity|创造力]]与好奇心。 |
+> | **高阶思维 (Higher-order)** | • 认知与创新 (Cognitive/Innovation) | 批判性思维、问题解决、认知能力、[[Creativity\|创造力]]与好奇心。 |
 > | **个人资源丰富性 (Resourcefulness)** | • 个人品质 (Qualities)<br>• 自我管理 (Self-management)<br>• 职业生涯管理 (Career)<br>• 学术身份 (Scholarship) | 保持研究热情与动力，诚信行事，自我反思与具备能动性，坚持不懈；自我与时间管理，关注工作与生活平衡；主动规划职业生涯、调研职业选项、建立并维护网络；终身学习，具有批判和反思实践的能力。 |
 > | **全球公民素养 (Global Citizenship)** | • 倡议与正义 (Advocacy)<br>• 多元素养 (Literacies) | 倡导与面向社会正义的倾向；具备数字素养、文化素养、社会沟通素养与环境素养。 |
 

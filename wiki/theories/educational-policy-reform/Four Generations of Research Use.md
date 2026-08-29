@@ -79,10 +79,10 @@ updated: 2026-08-26
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
-> | [[Research Utilization]] | 概念 | 理论解释的[[Central Phenomenon|核心现象]]，涵盖科研知识进入政策制定与教学实践的多种途径。 |
+> | [[Research Utilization]] | 概念 | 理论解释的[[Central Phenomenon\|核心现象]]，涵盖科研知识进入政策制定与教学实践的多种途径。 |
 > | [[Deficit Framing]] | 机制/批判视角 | 诊断前三代模型习惯性将教师预设为能力欠缺者（Deficit）的思维定势。 |
 > | [[Profession-Sensitive Conceptualisations of Research Use]] | 框架 | 第四代研究的核心框架，主张立足教师复合知识库、专业伦理与专业能动性重构研究使用。 |
-> | [[Research Literacy]] | 构件 | 在前三代中被窄化为个体问卷测度指标，在第四代中被提升为守护[[Professional Judgment|专业判断]]完整性的实践德性。 |
+> | [[Research Literacy]] | 构件 | 在前三代中被窄化为个体问卷测度指标，在第四代中被提升为守护[[Professional Judgment\|专业判断]]完整性的实践德性。 |
 > | [[Teacher Professional Agency]] | 构件 | 解释教师在面对外部研究时具备主动反思、调适与裁决的主体地位，而非被动执行者。 |
 
 ---
