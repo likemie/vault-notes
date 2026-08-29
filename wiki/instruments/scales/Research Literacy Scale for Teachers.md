@@ -146,7 +146,7 @@ updated: 2026-08-29
 >
 > | 研究 | 工具版本 | 样本与用途 | 测量属性 | 关键结果 |
 > |---|---|---|---|---|
-> | [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] | 原始版（20 题，土耳其语/英语） | 土耳其中小学教师（研究 1 探索性因子分析（EFA）样本 $N=310$；研究 2 验证性因子分析（CFA）样本 $N=258$），用于量表开发与教师素养水平测评 | 研究 1 EFA 4 因子解释 $62.602\%$ 方差；研究 2 CFA 修正模型 $\chi^2/df=1.94, \text{RMSEA}=0.060, \text{SRMR}=0.068, \text{NNFI}=0.93, \text{CFI}=0.94$；总量表 [[Cronbach's Alpha\|Cronbach's $\alpha=.94$]], [[McDonald's Omega\|McDonald's $\omega=.95$]], Armor's $\theta=.93$；收敛效度平均方差抽取量 $\text{AVE}=.50\sim.56$, 组合信度 $\text{CR}=.75\sim.90$；跨性别满足形态、弱、强与严格等值（$\Delta\text{CFI} \le .003$） | 教师科研态度均值最高（$M=4.37$），技能（$M=3.74$）与使用（$M=3.78$）偏低；追踪学术期刊显著提升使用、意识与技能；亲自参与做研究对技能提升效应最大（$\eta^2=.056$） |
+> | [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] | 原始版（20 题，土耳其语/英语） | 土耳其中小学教师（研究 1 探索性因子分析（EFA）样本 $N=310$；研究 2 验证性因子分析（CFA）样本 $N=258$），用于量表开发与教师素养水平测评 | 研究 1 EFA 4 因子解释 $62.602\%$ 方差；研究 2 CFA 修正模型 $\chi^2/df=1.94, \text{RMSEA}=0.060, \text{SRMR}=0.068, \text{NNFI}=0.93, \text{CFI}=0.94$；总量表 [[Cronbach's Alpha\|Cronbach's α]] $= .94$, [[McDonald's Omega\|McDonald's ω]] $= .95$, Armor's $\theta=.93$；收敛效度平均方差抽取量 $\text{AVE}=.50\sim.56$, 组合信度 $\text{CR}=.75\sim.90$；跨性别满足形态、弱、强与严格等值（$\Delta\text{CFI} \le .003$） | 教师科研态度均值最高（$M=4.37$），技能（$M=3.74$）与使用（$M=3.78$）偏低；追踪学术期刊显著提升使用、意识与技能；亲自参与做研究对技能提升效应最大（$\eta^2=.056$） |
 
 ---
 
@@ -155,7 +155,7 @@ updated: 2026-08-29
 > [!ref-table]- 分维度测量属性与实证数据明细
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
 >
-> | 维度 | 题项数 | 均值 $M$ | 标准差 $SD$ | 题总相关范围 | [[Cronbach's Alpha\|Cronbach's $\alpha$]] | [[McDonald's Omega\|McDonald's $\omega$]] | 平均变异抽取量 $\text{AVE}$ | 组合信度 $\text{CR}$ |
+> | 维度 | 题项数 | 均值 $M$ | 标准差 $SD$ | 题总相关范围 | [[Cronbach's Alpha\|Cronbach's α]] | [[McDonald's Omega\|McDonald's ω]] | 平均变异抽取量 $\text{AVE}$ | 组合信度 $\text{CR}$ |
 > |---|---|---|---|---|---|---|---|---|
 > | **研究意识** | 4 | 3.91 | 0.66 | .61–.70 | .83 | .83 | .56 | .83 |
 > | **研究态度** | 3 | 4.37 | 0.59 | .48–.59 | .83 | .75 | .50 | .75 |

@@ -127,7 +127,7 @@ flowchart TD
 > | 比较维度 | 固定效应模型（Fixed-Effect） | 随机效应模型（Random-Effects） |
 > |---|---|---|
 > | **核心哲学[[Hypothesis\|假设]]** | 存在唯一的“真实[[Effect Size\|效应量]]”（One True Effect） | 存在一个“真实效应量分布”（Distribution of True Effects） |
-> | **方差来源分解** | 仅抽样方差（Within-study variance $v_i$） | 抽样方差 $v_i$ + [[Between-Study Variance\|研究间方差 $\tau^2$]] |
+> | **方差来源分解** | 仅抽样方差（Within-study variance $v_i$） | 抽样方差 $v_i$ + [[Between-Study Variance\|研究间方差]] $\tau^2$ |
 > | **权重分配特征** | 极度偏向大样本研究（$w_i \propto N_i$） | 权重趋于平均化（大样本优势被 $\tau^2$ 稀释） |
 > | **[[Confidence Interval\|置信区间]]宽度** | 通常较窄（[[Standard Error\|标准误]]较小，推断激进） | 较宽（[[Standard Error\|标准误]]较大，充分反映[[Heterogeneity\|异质性]]不确定性） |
 > | **[[Prediction Interval\|预测区间]]（PI）** | 无法构建预测区间（假定方差为 0） | 可计算 [[Prediction Interval\|95% 预测区间]] 评估单项新研究风险 |
