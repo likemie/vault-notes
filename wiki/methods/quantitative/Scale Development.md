@@ -12,7 +12,7 @@ summary: "在心理学与教育学中开发和验证测量不可直接观测潜�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 43
+method_related_count: 44
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -59,6 +59,7 @@ related_methods:
   - "[[Confirmatory Factor Analysis]]"
   - "[[Delphi Technique]]"
   - "[[Analysis of Variance]]"
+  - "[[Multivariate Analysis of Variance]]"
   - "[[Imputation Methods]]"
   - "[[Pilot Testing]]"
 related_instruments:
@@ -108,7 +109,7 @@ updated: 2026-08-28
 > [!method-stack] 方法层级
 > - **研究设计** 心理测量工具开发设计、两阶段双独立样本横断面调查设计。
 > - **数据收集** 专家[[Delphi Technique|德尔菲法]]、认知访谈预试、大规模纸笔或在线[[Questionnaire|问卷调查]]。
-> - **分析方法** [[Item Analysis|项目分析]]（Item Analysis）、探索性因子分析（EFA）、验证性因子分析（CFA）、多组验证性因子分析（MG-CFA）、多[[Variable|变量]][[Analysis of Variance|方差分析]]（MANOVA）。
+> - **分析方法** [[Item Analysis|项目分析]]（Item Analysis）、探索性因子分析（EFA）、验证性因子分析（CFA）、多组验证性因子分析（MG-CFA）、多[[Variable|变量]][[Analysis of Variance|方差分析]]（[[Multivariate Analysis of Variance|MANOVA]]）。
 > - **辅助技术** 期望极大化（EM）算法[[Imputation Methods|缺失值插补]]、马氏距离多变量离群值筛查、Bootstrap 稳健[[Standard Error|标准误]]估计、方差最大正交旋转（Varimax）与斜交旋转（Promax）。
 
 ---
@@ -123,7 +124,7 @@ updated: 2026-08-28
 > 5. **[[Exploratory Factor Analysis|探索性因子分析]]（EFA）与维度提炼** 检验 KMO 与 Bartlett 球形检验，采用主轴因子提取法（PAF）与方差最大正交旋转，依据载荷 $> .32$ 且跨载荷差 $> .10$ 精简题项。
 > 6. **独立样本 2 施测与[[Confirmatory Factor Analysis|验证性因子分析]]（CFA）** 收集独立样本 2（$N \ge 200\sim300$），拟合并对比单因子、一阶多因子与二阶因子模型，评估拟合指数（$\chi^2/df, \text{RMSEA}, \text{CFI}$）。
 > 7. **[[Construct Validity|构念效度]]与[[Composite Reliability|复合信度]]电池检验** 计算各因子的[[Average Variance Extracted|平均方差抽取量]]（AVE $\ge .50$）与组合[[Reliability|信度]]（CR $\ge .70$），验证 Fornell-Larcker [[Convergent and Discriminant Validity|区分效度]]准则，报告 Cronbach's $\alpha$ 与 McDonald's $\omega$。
-> 8. **跨群体[[Measurement Invariance|多组测量等值性]]检验与实证应用** 阶梯检验形态、弱、强与严格等值性（$|\Delta\text{CFI}| \le .010$），结合[[Analysis of Variance|方差分析]]（MANOVA）探索背景[[Variable|变量]]的赋能效应。
+> 8. **跨群体[[Measurement Invariance|多组测量等值性]]检验与实证应用** 阶梯检验形态、弱、强与严格等值性（$|\Delta\text{CFI}| \le .010$），结合[[Analysis of Variance|方差分析]]（[[Multivariate Analysis of Variance|MANOVA]]）探索背景[[Variable|变量]]的赋能效应。
 
 ```mermaid
 flowchart LR
@@ -288,7 +289,7 @@ flowchart LR
 ## 使用此方法的经典代表研究
 
 > [!evidence-grid] 使用量表编制方法论的经典实证代表作
-> - **《[[Research Literacy Scale for Teachers|教师研究素养量表]]》（RLS）** [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|Kazancı Tınmaz & Sezgin (2023)]] 严格遵循 DeVellis 现代[[Paradigm|范式]]开发 20 题四维度量表，在样本 1（$N=310$）中通过 [[Exploratory Factor Analysis|EFA]] 提取 4 因子（解释 $62.60\%$ 方差），在独立样本 2（$N=258$）中通过 [[Confirmatory Factor Analysis|CFA]] 确立二阶因子结构，验证了各维度优良的 [[Average Variance Extracted|AVE]]（$.50\sim.56$）、CR（$.75\sim.90$）及跨性别严格[[Measurement Invariance|测量等值性]]，并运用 MANOVA 证实了做研究与读期刊的双轨独立赋能机制。
+> - **《[[Research Literacy Scale for Teachers|教师研究素养量表]]》（RLS）** [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|Kazancı Tınmaz & Sezgin (2023)]] 严格遵循 DeVellis 现代[[Paradigm|范式]]开发 20 题四维度量表，在样本 1（$N=310$）中通过 [[Exploratory Factor Analysis|EFA]] 提取 4 因子（解释 $62.60\%$ 方差），在独立样本 2（$N=258$）中通过 [[Confirmatory Factor Analysis|CFA]] 确立二阶因子结构，验证了各维度优良的 [[Average Variance Extracted|AVE]]（$.50\sim.56$）、CR（$.75\sim.90$）及跨性别严格[[Measurement Invariance|测量等值性]]，并运用 [[Multivariate Analysis of Variance|MANOVA]] 证实了做研究与读期刊的双轨独立赋能机制。
 > - **《[[Confidence Teaching TOK Scale|知识论教学信心量表]]》** [[Argument_Bergeron_2015_TeachingTOK|Bergeron & Rogers (2015)]] 编制并验证包含 11 道题的教学信心量表，通过 EFA 确立单因子结构并解释 35.03% 方差，为评估跨学科[[Epistemology|认识论]]教学效能感提供标准化工具。
 > - **《[[Epistemic and Ontological Cognition Questionnaire|认识论与本体论认知问卷]]》（EOCQ）** [[Argument_Greene_2010_JEP|Greene et al. (2010)]] 编制并检验 13 题[[Questionnaire|问卷]]，通过 CFA 在数学和历史领域检验[[Epistemological Beliefs|认识论信念]]与[[Ontology|本体论认知]]的维度结构及[[Domain Specificity|领域特异性]]拟合度。
 

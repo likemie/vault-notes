@@ -10,7 +10,7 @@ aliases:
 summary: "教师专业发展与循证教育中的核心概念，将教师对科研的参与区分为开展研究（Engagement in research，作为研究者进行行动研究）与使用研究（Engagement with research，作为利用者阅读文献并融入教学决策）两种互补模式。"
 type: concept
 domain: "teacher-education"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -34,6 +34,7 @@ related_theories: []
 related_methods:
   - "[[Action Research]]"
   - "[[Systematic Review]]"
+  - "[[Multivariate Analysis of Variance]]"
   - "[[Analysis of Variance]]"
 related_instruments: []
 related_persons: []
@@ -135,7 +136,7 @@ updated: 2026-08-26
 > [!dev-timeline] 概念演变
 > - **2010 — 提出做研究与用研究的区分** Bell 等人在英国教育科研利用[[Systematic Review|系统综述]]中明确提出“Engagement in research”与“Engagement with research”的二元分类。
 > - **2014 — BERA-RSA 调查报告制度化** 英国教育研究学会与皇家艺术学会将双轨参与确立为建设“自我完善教育系统”（Self-improving education system）的核心支柱。
-> - **2023 — 量化实证检验与[[Effect Size|效应量]]厘清** Kazancı Tınmaz & Sezgin 通过 2×2 MANOVA 实证测定了做研究与读期刊对教师[[Research Literacy|研究素养]]各维度的独立效应量。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|(Kazancı Tınmaz & Sezgin, 2023, pp. 12–14)]]
+> - **2023 — 量化实证检验与[[Effect Size|效应量]]厘清** Kazancı Tınmaz & Sezgin 通过 2×2 [[Multivariate Analysis of Variance|MANOVA]] 实证测定了做研究与读期刊对教师[[Research Literacy|研究素养]]各维度的独立效应量。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|(Kazancı Tınmaz & Sezgin, 2023, pp. 12–14)]]
 
 ---
 

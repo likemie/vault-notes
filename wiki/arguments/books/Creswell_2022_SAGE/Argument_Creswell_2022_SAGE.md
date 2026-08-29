@@ -7,7 +7,7 @@ title: "Argument_Creswell_2022_SAGE"
 argument_key: "Argument_Creswell_2022_SAGE"
 argument_display_title: "Research Design: Qualitative, Quantitative, and Mixed Methods Approaches"
 argument_kind: "book"
-argument_related_count: 187
+argument_related_count: 188
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -190,6 +190,7 @@ related_methods:
   - "[[Between-Subjects and Within-Subjects Designs]]"
   - "[[Solomon Four-Group Design]]"
   - "[[Analysis of Covariance]]"
+  - "[[Multivariate Analysis of Variance]]"
   - "[[Audiovisual, Social Media, and Digital Materials]]"
   - "[[Qualitative Observation]]"
   - "[[Focus Group]]"
@@ -1344,7 +1345,7 @@ Creswell 在此做了一个关键的层次区分：内部效度与外部效度�
 > “实验研究中的[[Blinding|盲法]]是指让实验者（和/或参与者）不了解参与者被分配到的研究条件。”
 > ("[[Blinding]] in experimental research is when the experimenter (and/or the participant) is kept unaware of the participant's assigned study condition.")（第8章）
 
-数据分析以组间比较为核心，大量使用 ANOVA、[[Analysis of Covariance|ANCOVA]] 和 MANOVA；[[Factorial Design|因子设计]]检验主效应和[[Interaction Effect|交互效应]]；[[Single-Subject Design|单受试者设计]]使用折线图。
+数据分析以组间比较为核心，大量使用 ANOVA、[[Analysis of Covariance|ANCOVA]] 和 [[Multivariate Analysis of Variance|MANOVA]]；[[Factorial Design|因子设计]]检验主效应和[[Interaction Effect|交互效应]]；[[Single-Subject Design|单受试者设计]]使用折线图。
 
 
 ---

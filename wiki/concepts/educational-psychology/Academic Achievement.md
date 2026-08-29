@@ -9,10 +9,10 @@ aliases:
 summary: "衡量学生在特定学习阶段、特定学科或特定学术任务中知识、技能与高阶思维掌握程度的多维结果指标。在教育心理学中通常通过课程加权总评成绩（OAA）、预估总评成绩（EOAA）、标准化测试及良构与劣构任务表现进行操作化测度。"
 type: concept
 domain: "educational-psychology"
-related_count: 49
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 50
+related_level: 5
+related_stars: "⭐⭐⭐⭐⭐"
+related_color: "#fecdd3"
 tags:
   - "theme/academic-achievement"
   - "theme/epistemological-beliefs"
@@ -60,6 +60,7 @@ related_methods:
   - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Meta-meta-analysis]]"
   - "[[Survey Research]]"
+  - "[[Multivariate Analysis of Variance]]"
   - "[[Multinomial Logistic Regression]]"
   - "[[Matching]]"
 related_instruments: []
@@ -253,7 +254,7 @@ updated: 2026-08-25
 > |---|---|---|---|---|---|---|
 > | [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] | 447 名加拿大十年级科学课学生（公立与独立教会学校） | [[Survey Research\|调查研究]]、多元分层回归与 MANOVA | 总体学业成就预估（EOAA）、固定快速学习（FQAL）、[[Simplicity of Knowledge\|简单知识]]（SK）、确定知识（CK） | 自报 EOAA 与官方实际总评成绩 OAA 相关 $r = .91$；控制 CK 后，FQAL 和 SK 显著负向预测 EOAA（增量 $\Delta R^2 = .08$）；高成就组在 FQAL 和 SK 上均显著成熟于低成就组（$M = -.22$ vs $.21$ 与 $-.21$ vs $.18$） | 回归增量 $F(3,436) = 12.09, p < .001$；学业组别 MANOVA 主效应 $F(6,874) = 5.52, p < .001, \eta^2 = .04$ | 证实长期平时总评学业成绩与能力可塑性及知识网络化信念高度挂钩 |
 > | [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] | 89 名加拿大十年级中学生（独立学校实验子样本） | 平衡顺序组内对比设计 | 良构任务（WST）表现、劣构任务（IST）表现、[[Reflexivity\|反思性]]判断（RJ）得分 | WST 均分 70.30，IST 均分 67.72；认识论三因子无法预测 WST（$R^2 = .04, p = .37$），但显著预测 IST（$R^2 = .12, p = .01$）与 RJ（$R^2 = .10, p = .04$）；SK 是 IST 与 RJ 的核心负向预测源（$\beta = -.24, p = .02$） | 两任务均分差异 $t(88) = -1.38, p = .17, ES = 0.15$；IST 模型 $F(3,85) = 3.80, p = .01$；RJ 模型 $F(3,85) = 2.97, p = .04$ | 确立[[Task Structure\|任务结构]]对学业表现[[Epistemology\|认识论]]制约效应的关键调节作用 |
-> | [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] | 447 名全样本及 89 名实验子样本 | 性别差异对比分析（独立样本 t 检验与 MANOVA） | 生理性别（男/女）、EOAA、WST 表现、IST 表现、认识论三因子 | 女生在各维度学业成就上全面显著优于男生：EOAA（$76.90\%$ vs $72.05\%$）、WST（$75.60$ vs $65.12$）、IST（$71.64$ vs $63.88$）；女生在 FQAL 和 CK 信念成熟度上显著超越男生 | EOAA 性别差异 $t(444) = 3.99, p < .001$；WST 性别差异 $t(87) = 2.92, p = .004, ES = .58$；IST 性别差异 $t(87) = 2.08, p = .04, ES = .44$；MANOVA 性别主效应 $F(3,437) = 12.82, p < .001, \eta^2 = .08$ | 表明性别在长期与短期学业成就上的优势受更成熟的能力观与真理观支撑 |
+> | [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] | 447 名全样本及 89 名实验子样本 | 性别差异对比分析（独立样本 t 检验与 [[Multivariate Analysis of Variance\|MANOVA]]） | 生理性别（男/女）、EOAA、WST 表现、IST 表现、认识论三因子 | 女生在各维度学业成就上全面显著优于男生：EOAA（$76.90\%$ vs $72.05\%$）、WST（$75.60$ vs $65.12$）、IST（$71.64$ vs $63.88$）；女生在 FQAL 和 CK 信念成熟度上显著超越男生 | EOAA 性别差异 $t(444) = 3.99, p < .001$；WST 性别差异 $t(87) = 2.92, p = .004, ES = .58$；IST 性别差异 $t(87) = 2.08, p = .04, ES = .44$；MANOVA 性别主效应 $F(3,437) = 12.82, p < .001, \eta^2 = .08$ | 表明性别在长期与短期学业成就上的优势受更成熟的能力观与真理观支撑 |
 > | [[Argument_Greene_2010_JEP\|Greene et al. (2010)]] | 740 名美国中学生 | [[Questionnaire\|问卷调查]]与[[Multinomial Logistic Regression\|多项逻辑回归]] | 历史与数学学科平时成绩、[[Epistemic and Ontological Cognition\|认识论与本体论认知]]阶段 | 较差的数学学科成绩显著正向预测学生落入绝对主义/初级认识论阶段的几率（$OR = 1.770$） | $p < .01$ | 表明特定学科的学业失败会强化朴素与教条的认知信念 |
 
 ---

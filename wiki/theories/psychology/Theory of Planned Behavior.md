@@ -7,10 +7,10 @@ aliases:
 summary: "由 Icek Ajzen 提出的社会心理学经典行为决策理论，主张个体的行为意向由行为态度、主观规范与知觉行为控制共同决定，且知觉行为控制与意向共同直接预测外显行为。"
 type: theory
 theory_field: "psychology"
-theory_related_count: 23
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_count: 24
+theory_related_level: 3
+theory_related_stars: "⭐⭐⭐"
+theory_related_color: "#ede9fe"
 tags:
   - theory/psychology
   - theme/behavioral-science
@@ -39,6 +39,7 @@ related_methods:
   - "[[Action Research]]"
   - "[[Causal Modeling]]"
   - "[[Analysis of Variance]]"
+  - "[[Multivariate Analysis of Variance]]"
 related_instruments:
   - "[[Research Literacy Scale for Teachers]]"
 related_persons: []
@@ -128,7 +129,7 @@ updated: 2026-08-28
 > [!theory-stance] [[Epistemic Stances|认识论立场]]
 > - **[[Ontology|本体论]]** 将人类社会行动者视为具备认知反思能力、能够基于信念与环境评估做出理性选择的能动主体。
 > - **[[Epistemology|认识论]]** 强调内部主观心理状态（态度、规范、掌控感）与外部客观行为之间的概率性因果关联。
-> - **方法含义** 适用于结构方程模型（[[Causal Modeling|SEM]]）、路径分析、多[[Variable|变量]][[Analysis of Variance|方差分析]]（MANOVA）及[[Questionnaire|问卷]][[Scale Development|量表编制]]。
+> - **方法含义** 适用于结构方程模型（[[Causal Modeling|SEM]]）、路径分析、多[[Variable|变量]][[Analysis of Variance|方差分析]]（[[Multivariate Analysis of Variance|MANOVA]]）及[[Questionnaire|问卷]][[Scale Development|量表编制]]。
 > - **不能直接推出的东西** 该理论不能自动推导出非理性冲动行为或纯粹受潜意识驱动的行为习惯。
 
 > [!theory-use] 如何用于研究

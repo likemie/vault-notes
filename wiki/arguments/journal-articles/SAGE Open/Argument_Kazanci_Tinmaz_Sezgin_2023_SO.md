@@ -51,6 +51,7 @@ related_concepts:
 related_methods:
   - "[[Measurement Invariance]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Multivariate Analysis of Variance]]"
   - "[[Action Research]]"
   - "[[Scale Development]]"
   - "[[Content Validity Index]]"
@@ -67,6 +68,7 @@ related_facts:
   - "[[National Education]]"
 related_theories:
   - "[[Theory of Planned Behavior]]"
+  - "[[Research Utilization Models]]"
 status: draft
 created: 2026-08-26
 updated: 2026-08-28
@@ -76,9 +78,9 @@ title: "Argument_Kazanci_Tinmaz_Sezgin_2023_SO"
 argument_key: "Argument_Kazanci_Tinmaz_Sezgin_2023_SO"
 argument_display_title: "Development of the Research Literacy Scale for Teachers"
 argument_kind: "journal-article"
-argument_related_count: 43
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 45
+argument_related_level: 3
+argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "SAGE Open"
 ---
@@ -123,7 +125,7 @@ journal: "SAGE Open"
 > | **研究态度**<br>（Attitude toward Research, 子维度 2） | 教师对科研对教学专业重要性、专业发展促进价值及教育者应否受益于科研的积极情感与价值认同。 | 3 题（R5–R7），如“科学研究对我的职业至关重要”、“教育者应当在专业实践中受益于研究”。 |
 > | **研究技能**<br>（Research Skills, 子维度 3） | 教师在开展[[Literature Review\|文献综述]]、探讨学术议题、解读图表与统计分析结果等方面的实际操作能力与知觉控制。 | 6 题（R8–R13），如“在需要时能进行[[Document\|文献]]综述”、“能解读研究出版物中的图表与统计结果”。 |
 > | **研究使用**<br>（Research Use, 子维度 4） | 教师在日常教学活动组织、课程内容准备、教学法知识更新及教育决策中主动借鉴与应用科研的实际行为。 | 7 题（R14–R20），如“运用科研组织日常专业活动”、“在备课时借鉴科研”、“利用研究提升教学法知识”。 |
-> | **追踪教育学术期刊**<br>（Following Scientific Journals about Education, FSJE, 自变量/分类变量） | 教师是否持续追踪与阅读与教育相关的学术科研期刊（二分类：是／否）。 | 调查题项“是否追踪教育类学术期刊”，作为多变量方差分析（Multivariate Analysis of Variance, MANOVA）[[Independent Variable\|自变量]]。（p.7, p.12） |
+> | **追踪教育学术期刊**<br>（Following Scientific Journals about Education, FSJE, 自变量/分类变量） | 教师是否持续追踪与阅读与教育相关的学术科研期刊（二分类：是／否）。 | 调查题项“是否追踪教育类学术期刊”，作为[[Multivariate Analysis of Variance\|多变量方差分析]]（MANOVA）[[Independent Variable\|自变量]]。（p.7, p.12） |
 > | **实际从事研究**<br>（自变量/分类变量） | 教师是否曾亲身参与科研项目、[[Research Proposal\|课题申报]]、[[Action Research\|行动研究]]或研究生学位论文研究（二分类：是／否）。 | 调查题项“是否曾开展科研”，作为 MANOVA 自变量。 |
 
 ---
@@ -311,7 +313,7 @@ journal: "SAGE Open"
 > | **研究使用** | 7 | **3.78** | 0.64 | -0.12 | -0.41 | 实践行为转化偏低 |
 > | **总量表 RLS** | 20 | 3.95 | 0.53 | -0.23 | -0.29 | 整体正态分布 |
 
-> [!ref-table]- 表7：期刊追踪与开展科研对研究素养的多变量[[Analysis of Variance|方差分析]]（MANOVA）结果
+> [!ref-table]- 表7：期刊追踪与开展科研对研究素养的[[Multivariate Analysis of Variance\|多变量方差分析]]（MANOVA）结果
 >
 > | 变异来源 | 结果维度 | $F$ 值 | $p$ 值 | 偏 $\eta^2$ | 效应解读 |
 > |---|---|---|---|---|---|

@@ -12957,6 +12957,18 @@
     ]
   },
   {
+    "title": "Multivariate Analysis of Variance",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Multivariate Analysis of Variance.md",
+    "aliases": [
+      "多变量方差分析",
+      "多元方差分析",
+      "MANOVA",
+      "Multivariate ANOVA",
+      "多因变量方差分析"
+    ]
+  },
+  {
     "title": "Non-Equivalent Control Group Design",
     "type": "method",
     "path": "wiki/methods/quantitative/Non-Equivalent Control Group Design.md",

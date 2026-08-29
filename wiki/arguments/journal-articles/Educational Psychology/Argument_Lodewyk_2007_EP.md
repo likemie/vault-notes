@@ -46,6 +46,7 @@ related_theories:
 related_methods:
   - "[[Survey Research]]"
   - "[[Exploratory Factor Analysis]]"
+  - "[[Multivariate Analysis of Variance]]"
   - "[[t-test]]"
   - "[[Multiple Regression]]"
   - "[[Analysis of Variance]]"
@@ -67,7 +68,7 @@ title: "Argument_Lodewyk_2007_EP"
 argument_key: "Argument_Lodewyk_2007_EP"
 argument_display_title: "Relations among epistemological beliefs, academic achievement, and task performance in secondary school students"
 argument_kind: "journal-article"
-argument_related_count: 32
+argument_related_count: 33
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -126,7 +127,7 @@ issuing_organization: ""
 > | 模块 | 材料与处理方式 |
 > |---|---|
 > | **问卷调查与因子分析**<br>[[Survey Research]] & [[Exploratory Factor Analysis\|EFA]] | 采用加拿大十年级科学课修订版 52 题 [[Schommer's Modified Epistemological Questionnaire\|SMEQ]]（5点 Likert 计分），结合探索性因子分析（exploratory factor analysis, EFA）的主轴提取与 Varimax 正交旋转，识别中学生认识论信念的底层因子维度。（pp.314–315, 317–318） |
-> | **学业成就与群体差异检验**<br>MANOVA & [[t-test]] | 自编 14 题人口学问卷（demographic questionnaire, DQ）采集总体学业成就预估值（EOAA，与实际总评成绩相关 $r = .91$）。运用多变量方差分析（multivariate analysis of variance, MANOVA）与事后 $t$ 检验，对比公立与教会学校、不同学业水平组（高/中/低）及性别间的认识论信念差异。（pp.314, 318–320） |
+> | **学业成就与群体差异检验**<br>[[Multivariate Analysis of Variance\|MANOVA]] & [[t-test]] | 自编 14 题人口学问卷（demographic questionnaire, DQ）采集总体学业成就预估值（EOAA，与实际总评成绩相关 $r = .91$）。运用[[Multivariate Analysis of Variance\|多变量方差分析]]（multivariate analysis of variance, MANOVA）与事后 $t$ 检验，对比公立与教会学校、不同学业水平组（高/中/低）及性别间的认识论信念差异。（pp.314, 318–320） |
 > | **组内平衡任务实验**<br>Counterbalanced Within-Subject Design | 在独立学校 89 名学生中实施平衡顺序设计的两类癌症学术任务（各4节80分钟课时完成）：[[Task Structure\|良构任务]]（个人生活方式计划）与劣构任务（专案组癌症资金分配辩护）。（pp.315–316） |
 > | **任务表现与反思性判断评定**<br>Rubric Scoring & [[Reflective Judgment Model\|RJ]] Rating | 任务总分采用评分量规（权重 .90）与 10 题单选题（权重 .10）合成（评分者信度 $r = .88 \sim .93$）；劣构任务中基于 King & Kitchener (1994) 模型独立评定 1–5 分的反思性判断（RJ）得分（评分者信度 $r = .89$）。（pp.316–317） |
 > | **分层与多元回归分析**<br>[[Multiple Regression]] | 采用多元回归与分层回归，在控制学校导向因子（确定知识）前后，分别检验[[Epistemological Beliefs\|认识论信念]]对[[Academic Achievement\|学业成就]]、两类任务总成绩及[[Reflexivity\|反思性]]判断得分的预测力。（pp.318–321） |
@@ -245,7 +246,7 @@ issuing_organization: ""
 > 这表明：无论学生就读于哪类学校，只要他们坚信聪明是天生的、学不会就是笨（FQAL 高），或者把知识看作互不相干的死记硬背清单（SK 高），他们在学校的整体学业表现就会系统性落后。（pp.318–319）
 
 > [!chain-link] 证据到判断：高、中、低三档学业水平组的信念断层
-> 研究者将 447 名学生按平时成绩划分为三组：**高成就组（$>80\%$，124人）**、**中成就组（$70\%–80\%$，198人）**、**低成就组（$<70\%$，123人）**。多变量方差分析显示出极其显著的组间主效应（$F[6,874] = 5.52, p < .001, \eta^2 = .04$）：
+> 研究者将 447 名学生按平时成绩划分为三组：**高成就组（$>80\%$，124人）**、**中成就组（$70\%–80\%$，198人）**、**低成就组（$<70\%$，123人）**。[[Multivariate Analysis of Variance|多变量方差分析]]（MANOVA）显示出极其显著的组间主效应（$F[6,874] = 5.52, p < .001, \eta^2 = .04$）：
 > - **在固定快速学习能力（FQAL）上** 高成就组（$M = -.22$）显著比低成就组（$M = .21, t[242] = 3.89, p < .001, \eta^2 = .06$）和中成就组（$M = .005, p = .01$）成熟得多。学霸普遍坚信勤能补拙，而学困生则更倾向于认命、认为学习必须靠天生开窍。
 > - **在简单知识（SK）上** 高成就组（$M = -.21$）同样显著成熟于低成就组（$M = .18, t[242] = 3.97, p < .001, \eta^2 = .06$）和中成就组（$M = .02, p = .007$）。高分学生习惯于构建概念网络，而低分学生则严重依赖机械记忆。
 > - **在确定知识（CK）上** 高中低三组得分几乎完全重合（$M = -.06, .07, -.05, p = .29$），在常规总成绩上没有区分度。（pp.319–320）
@@ -346,7 +347,7 @@ issuing_organization: ""
 > 2. **两类课堂学术任务表现对比（89人实验子样本）**
 >    - **良构任务（WST）** 女生均分 75.60 分（$SD = 17.65$），男生均分 65.12 分（$SD = 16.32$），女生显著领先（$t[87] = 2.92, p = .004$，中到大效应量 $ES = .58$）；
 >    - **劣构任务（IST）** 女生均分 71.64 分（$SD = 17.70$），男生均分 63.88 分（$SD = 17.47$），女生同样显著领先（$t[87] = 2.08, p = .04$，中等效应量 $ES = .44$）。
-> 3. **认识论信念三因子的多变量方差分析（MANOVA）**
+> 3. **认识论信念三因子的[[Multivariate Analysis of Variance|多变量方差分析]]（MANOVA）**
 >    多变量方差分析显示性别主效应高度显著（$F[3,437] = 12.82, p < .001, \eta^2 = .08$）。单因子检验显示：
 >    - **固定与快速学习能力（FQAL）** 女生显著比男生更成熟（女生 $M = -.19$ vs 男生 $.20, t[439] = -5.07, p < .001, \eta^2 = .06$）。男生严重倾向于认为聪明靠天生，女生则普遍坚信勤奋与策略能够提升能力；
 >    - **确定知识（CK）** 女生显著比男生更成熟（女生 $M = -.10$ vs 男生 $.11, t[439] = -2.59, p = .01, \eta^2 = .02$）。男生更容易盲信科学有绝对真理，女生更能理解科学知识的暂定性与发展性；

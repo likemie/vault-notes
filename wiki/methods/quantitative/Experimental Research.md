@@ -9,9 +9,9 @@ summary: "通过操纵处理条件、比较处理组与控制组的结果差异�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 49
-method_related_level: 5
-method_related_stars: "⭐⭐⭐⭐⭐"
+method_related_count: 50
+method_related_level: 6
+method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - quantitative-research
@@ -65,6 +65,7 @@ related_methods:
   - "[[Solomon Four-Group Design]]"
   - "[[Analysis of Variance]]"
   - "[[Analysis of Covariance]]"
+  - "[[Multivariate Analysis of Variance]]"
   - "[[Design-Based Research]]"
   - "[[Repeated Measures Design]]"
   - "[[Survey Research]]"
@@ -156,7 +157,7 @@ Creswell & Creswell (2022, Ch8) 将实验方法计划的标准组成部分分解
 > 实验数据分析步骤（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）：
 > 1. 报告[[Descriptive Analysis|描述统计]]：频率、均值与标准差、样本人口学构成、主要结果变量的组间均值和标准差。
 > 2. 初步分析：检验随机分配的成功性（各组在基线是否等价）、操纵检查（操纵是否成功产生组间差异）、关键研究变量间的关联（相关矩阵）。
-> 3. 推断统计检验：以比较组间差异为核心，大量使用[[Analysis of Variance|ANOVA]]、[[Analysis of Covariance|ANCOVA]] 和 MANOVA。
+> 3. 推断统计检验：以比较组间差异为核心，大量使用[[Analysis of Variance|ANOVA]]、[[Analysis of Covariance|ANCOVA]] 和 [[Multivariate Analysis of Variance|MANOVA]]。
 > 4. 因子设计中检验主效应和交互效应，同时报告[[Effect Size|效应量]]和[[Confidence Interval|置信区间]]。
 > 5. [[Single-Subject Design|单受试者设计]]中使用折线图展示基线和处理观测数据，x 轴为时间单位，y 轴为目标行为。
 
