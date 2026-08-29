@@ -109,10 +109,10 @@ updated: '2026-06-08'
 > [!note-] 与既有 [[Evidence-Based Education|EBE]] 批判者的互补
 > | 学者 | 批判层级 | 批判工具 |
 > |------|---------|---------|
-> | [[Argument_Biesta_2010_SPE|Biesta (2010)]] | 哲学前提（[[Epistemology|认识论]]/存在论/实践论） | [[John Dewey|Dewey]] [[Pragmatism in China|实用主义]]、Latour 科学社会学 |
-> | [[Argument_Cowen_2019_ERE|Cowen (2019)]] | 制度逻辑（官僚委托需求） | Tullock 公共选择理论 |
-> | **Wrigley** (2018) | **方法技术（[[Randomised Controlled Trials|RCT]]→[[Meta-analysis|元分析]]→[[Meta-meta-analysis|元元分析]]的三级失真）** | **[[Critical Realism|批判实在论]]（Bhaskar/Sayer/Pawson）** |
-> | **Wrigley & McCusker** (2019) | **科学哲学 + 方法技术（简单科学观 + 案例追踪）** | **批判实在论 + [[Education Endowment Foundation|EEF]] Toolkit 深度案例追踪** |
+> | [[Argument_Biesta_2010_SPE\|Biesta (2010)]] | 哲学前提（[[Epistemology\|认识论]]/存在论/实践论） | [[John Dewey\|Dewey]] [[Pragmatism in China\|实用主义]]、Latour 科学社会学 |
+> | [[Argument_Cowen_2019_ERE\|Cowen (2019)]] | 制度逻辑（官僚委托需求） | Tullock 公共选择理论 |
+> | **Wrigley** (2018) | **方法技术（[[Randomised Controlled Trials\|RCT]]→[[Meta-analysis\|元分析]]→[[Meta-meta-analysis\|元元分析]]的三级失真）** | **[[Critical Realism\|批判实在论]]（Bhaskar/Sayer/Pawson）** |
+> | **Wrigley & McCusker** (2019) | **科学哲学 + 方法技术（简单科学观 + 案例追踪）** | **批判实在论 + [[Education Endowment Foundation\|EEF]] Toolkit 深度案例追踪** |
 >
 > 三人从不同角度围攻 EBE：Biesta 说它**在哲学上是错的**，Cowen 说它**在制度上被选择并非因为对**，[[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] 说它**在方法论上逐级失真**，[[Argument_Wrigley_2019_ERE|Wrigley & McCusker (2019)]] 补充说它**对科学本身的理解就是片面的**。
 

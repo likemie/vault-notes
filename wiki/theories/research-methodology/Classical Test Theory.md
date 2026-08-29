@@ -9,7 +9,7 @@ aliases:
 summary: "将测验分数分解为真实分数与误差之和的测量理论，假设真实分数是无限次独立施测的期望值，是题目分析和信度计算的基础框架"
 type: theory
 theory_field: "research-methodology"
-theory_related_count: 13
+theory_related_count: 14
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -33,6 +33,8 @@ related_theories:
   - "[[Item Response Theory]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]]"
+related_methods:
+  - "[[Measurement Invariance]]"
 confidence: medium
 status: draft
 created: 2026-07-24
@@ -69,7 +71,7 @@ updated: 2026-07-26
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
-> | True Score（真实分数） | 概念 | 理论的核心[[Construct|构念]]：个体在没有测量误差时本应获得的分数，是无限次独立施测的期望值 |
+> | True Score（真实分数） | 概念 | 理论的核心[[Construct\|构念]]：个体在没有测量误差时本应获得的分数，是无限次独立施测的期望值 |
 > | Observed Score（观测分数） | 概念 | 测验实际记录到的分数，等于真实分数加误差 |
 > | Measurement Error（测量误差） | 概念 | 导致观测分数偏离真实分数的所有随机因素 |
 > | [[Reliability]] | 概念 | 真实分数方差在观测分数方差中所占的比例，是 CTT 框架下量化测验质量的核心指标 |
@@ -120,7 +122,7 @@ updated: 2026-07-26
 > [!theory-boundary] 适用边界
 > - **适合解释** 经典测验编制中的[[Reliability|信度]]评估和题目筛选；教育[[Achievement and Aptitude Tests|成就测验]]、[[Rating Scale|态度量表]]的基础测量属性分析。
 > - **谨慎使用** 需要跨样本比较题目参数，或为每位受试者提供个性化测量精度估计时，CTT 的样本依赖性和内容依赖性成为重要限制。
-> - **不适合解释** 题目参数在不同群体间的差异（需要 [[Item Response Theory|IRT]] 的测量不变性检验）；[[Computerized Adaptive Testing|计算机自适应测验]]中的题目选择逻辑。
+> - **不适合解释** 题目参数在不同群体间的差异（需要 [[Item Response Theory|IRT]] 的[[Measurement Invariance|测量不变性]]检验）；[[Computerized Adaptive Testing|计算机自适应测验]]中的题目选择逻辑。
 > - **常见误用** 将观测分数直接等同于真实分数；忽略测验的文化偏差对误差的影响；在小样本中过分信任信度系数。
 
 ---

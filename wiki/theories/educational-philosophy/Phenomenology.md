@@ -88,12 +88,12 @@ updated: '2026-08-27'
 > [!entry-map]
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
-> | 生活世界（Lifeworld） | 概念 | 经验的日常背景与先在基础。个体通常 naive 地视其为唯一真实且不证自明的现实；现象学要求悬置这种天然态度，将熟悉之物重新审视。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 1, 11]] |
-> | 意向性（Intentionality） | 概念 | 意识的根本特征，即一切知觉、思考和判断总是关于某物或指向某物的，意识不能脱离其指向的对象独立存在。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 2]] |
-> | 具身性（Embodiment / Corporal Consciousness） | 概念 | 梅洛-庞蒂提出身体经验置于纯粹认知之前，人类作为具身且社会性的存在，其意识和身体密不可分，是通过身体与世界及他人相遇的。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 4]] |
+> | 生活世界（Lifeworld） | 概念 | 经验的日常背景与先在基础。个体通常 naive 地视其为唯一真实且不证自明的现实；现象学要求悬置这种天然态度，将熟悉之物重新审视。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 1, 11]] |
+> | 意向性（Intentionality） | 概念 | 意识的根本特征，即一切知觉、思考和判断总是关于某物或指向某物的，意识不能脱离其指向的对象独立存在。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 2]] |
+> | 具身性（Embodiment / Corporal Consciousness） | 概念 | 梅洛-庞蒂提出身体经验置于纯粹认知之前，人类作为具身且社会性的存在，其意识和身体密不可分，是通过身体与世界及他人相遇的。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 4]] |
 > | 主体间性（Intersubjectivity） | 概念 | 经验主体之间、以及主体与时空客观世界之间的共在关系，是构成客观自我与理解客观世界的基础。 |
-> | [[Epoché|悬置]]（Epoché / Bracketing） | 方法 | [[Edmund Husserl|胡塞尔]]提倡的现象学还原方法，通过将对“客观世界”的既有断定放入括号，以摆脱科学或自然的先入之见。[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, Ch. 1]] |
-> | [[Phenomenon-Based Learning|现象本位学习]]（PhBL） | 框架 | 现象学在课程领域的直接应用构件，主张以生活世界中的现象探究为核心，实现跨学科广度与学科深度的横向协同。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 2, 4]] |
+> | [[Epoché\|悬置]]（Epoché / Bracketing） | 方法 | [[Edmund Husserl\|胡塞尔]]提倡的现象学还原方法，通过将对“客观世界”的既有断定放入括号，以摆脱科学或自然的先入之见。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011, Ch. 1]] |
+> | [[Phenomenon-Based Learning\|现象本位学习]]（PhBL） | 框架 | 现象学在课程领域的直接应用构件，主张以生活世界中的现象探究为核心，实现跨学科广度与学科深度的横向协同。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 2, 4]] |
 
 ---
 

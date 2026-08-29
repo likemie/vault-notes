@@ -70,10 +70,10 @@ updated: 2026-08-26
 ## 概念辨析
 
 > [!contrast-table] 概念辨析
-> | 维度 | 开展研究（Engagement in） | 使用研究（Engagement with） | [[Research Literacy|研究素养]]（综合统整） |
+> | 维度 | 开展研究（Engagement in） | 使用研究（Engagement with） | [[Research Literacy\|研究素养]]（综合统整） |
 > |---|---|---|---|
 > | **行动主体角色** | 知识探索者与现场研究者 | 证据消费者与转化应用者 | 兼具意识、态度、技能与行为的专业行动者 |
-> | **典型实践活动** | [[Action Research|行动研究]]、课题申报、课堂数据收集 | [[Literature Search|文献检索]]、研读学术期刊、教研[[Dialogue in Education|对话]] | 识别证据、评估质量、解决问题、持续发展 |
+> | **典型实践活动** | [[Action Research\|行动研究]]、课题申报、课堂数据收集 | [[Literature Search\|文献检索]]、研读学术期刊、教研[[Dialogue in Education\|对话]] | 识别证据、评估质量、解决问题、持续发展 |
 > | **核心赋能机制** | 最强效提升研究操作技能与掌控感 | 最强效驱动日常课堂教学使用行为 | 实现从价值认同到知行合一的系统跃升 |
 
 ---
@@ -144,9 +144,9 @@ updated: 2026-08-26
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 比较或干预 | [[Dependent Variable|结果变量]] | 分析样本 | 组别统计 | [[Effect Size|效应量]] | 显著性或不确定性 | 设计与解释边界 |
+> | 研究 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
 > |---|---|---|---|---|---|---|---|
-> | [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|Kazancı Tınmaz & Sezgin (2023)]] | 开展科研与期刊追踪（2×2 设计） | 教师[[Research Literacy|研究素养]]（技能与使用） | $N=258$（期刊追踪组 $n=73$，开展科研组 $n=82$） | 追踪期刊组使用均值 $4.03 \pm 0.57$ vs 未追踪 $3.69 \pm 0.64$；开展科研组技能均值 $4.04 \pm 0.59$ vs 未开展 $3.60 \pm 0.69$ | 做研究对技能偏 $\eta^2 = .056$；读期刊对使用偏 $\eta^2 = .046$；交互作用 $\eta^2 \le .005$ | 主效应显著（$p \le .005$），交互作用均不显著（$p > .27$） | 横断面 2×2 多[[Variable|变量]][[Analysis of Variance|方差分析]]（MANOVA），实证证实做研究与读期刊具有独立且差异化的赋能机制 |
+> | [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|Kazancı Tınmaz & Sezgin (2023)]] | 开展科研与期刊追踪（2×2 设计） | 教师[[Research Literacy\|研究素养]]（技能与使用） | $N=258$（期刊追踪组 $n=73$，开展科研组 $n=82$） | 追踪期刊组使用均值 $4.03 \pm 0.57$ vs 未追踪 $3.69 \pm 0.64$；开展科研组技能均值 $4.04 \pm 0.59$ vs 未开展 $3.60 \pm 0.69$ | 做研究对技能偏 $\eta^2 = .056$；读期刊对使用偏 $\eta^2 = .046$；交互作用 $\eta^2 \le .005$ | 主效应显著（$p \le .005$），交互作用均不显著（$p > .27$） | 横断面 2×2 多[[Variable\|变量]][[Analysis of Variance\|方差分析]]（MANOVA），实证证实做研究与读期刊具有独立且差异化的赋能机制 |
 ---
 
 ## 相关研究

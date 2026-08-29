@@ -121,7 +121,7 @@ updated: 2026-07-13
 > |---|---|---|
 > | [[True Experimental Design]] | 方法 | 所属类别——重复测量设计是真实验的受试者内变体 |
 > | [[Matched Pairs Design]] | 方法 | 亲缘方法——配对设计的逻辑延伸到同一人接受多种条件 |
-> | [[Order Effects]] | 概念 | 核心威胁——重复测量设计特有的[[Threats to Internal Validity|内部效度威胁]] |
+> | [[Order Effects]] | 概念 | 核心威胁——重复测量设计特有的[[Threats to Internal Validity\|内部效度威胁]] |
 > | [[ABAB Design]] | 方法 | 共享逻辑——ABAB 也是通过同一受试者接受多种条件来消除个体差异 |
 
 ## 使用此方法的研究

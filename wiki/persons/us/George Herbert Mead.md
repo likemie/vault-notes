@@ -73,7 +73,7 @@ updated: '2026-06-22'
 > | 理论 | [[Symbolic Interactionism]] | 符号互动论的理论奠基者。 |
 > | 概念 | [[Interpretive Paradigm]] | 奠定微观互动论根基，强调行为意义的社会建构与理解。 |
 > | 概念 | [[Pragmatic Paradigm]] | 属于美国古典实用主义流派，关注行动与心智在适应环境中的作用。 |
-> | 概念 | [[Phenomenon-Based Learning]] | 其心身统一及与环境互动的思想被引入 PhBL 的实用[[Constructivist Paradigm|建构主义]]根基。 |
+> | 概念 | [[Phenomenon-Based Learning]] | 其心身统一及与环境互动的思想被引入 PhBL 的实用[[Constructivist Paradigm\|建构主义]]根基。 |
 
 ---
 

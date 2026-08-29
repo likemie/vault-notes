@@ -60,11 +60,11 @@ updated: 2026-07-11
 >
 > | 关联项 | 类型 | 关系 |
 > |:-------|:-----|:-----|
-> | [[Interpretive Paradigm|诠释范式]] | 范式基础 | "人作为工具"是诠释范式从"理解参与者主观意义"这一[[Epistemic Stances|认识论立场]]出发的必然推论——只有人才能理解人。 |
-> | 研究者生成而非检验[[Hypothesis|假设]] | 范式公理 | 研究者在进入现场时不预设假设，在现场中生成——这要求研究工具（即研究者本人）具有开放性和适应性。 |
+> | [[Interpretive Paradigm\|诠释范式]] | 范式基础 | "人作为工具"是诠释范式从"理解参与者主观意义"这一[[Epistemic Stances\|认识论立场]]出发的必然推论——只有人才能理解人。 |
+> | 研究者生成而非检验[[Hypothesis\|假设]] | 范式公理 | 研究者在进入现场时不预设假设，在现场中生成——这要求研究工具（即研究者本人）具有开放性和适应性。 |
 > | 默会知识的运用 | 范式公理 | Lincoln & Guba（1985, p. 187）强调默会知识（tacit knowledge）的运用不可避免——质性方法比量化方法更适合人作为工具的概念。 |
-> | [[Reflexivity|反身性]] | 核心相关概念 | 研究者作为工具意味着研究者的个人特质直接影响数据质量，因此反身性（反思自身背景如何塑造解释）成为必要补充——两者互为因果。Cooley（1902）的"镜中自我"（looking glass self）概念被用于描述研究者应将自己"置于审视之下"。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, p. 409)]] |
-> | 进入现场的四种角色 | 操作含义 | Flick（1998, p. 60）区分研究者四角色：陌生人、访客、内部人（insider）、入门者（initiate）。角色在参与-观察光谱上滑动，Swain（2006）指出研究者在实践中可能需要在完全被动到完全积极的整个连续体上切换。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 426–427)]] |
+> | [[Reflexivity\|反身性]] | 核心相关概念 | 研究者作为工具意味着研究者的个人特质直接影响数据质量，因此反身性（反思自身背景如何塑造解释）成为必要补充——两者互为因果。Cooley（1902）的"镜中自我"（looking glass self）概念被用于描述研究者应将自己"置于审视之下"。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, p. 409)]] |
+> | 进入现场的四种角色 | 操作含义 | Flick（1998, p. 60）区分研究者四角色：陌生人、访客、内部人（insider）、入门者（initiate）。角色在参与-观察光谱上滑动，Swain（2006）指出研究者在实践中可能需要在完全被动到完全积极的整个连续体上切换。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, pp. 426–427)]] |
 
 ---
 
@@ -86,13 +86,13 @@ Lincoln & Guba（1985, pp. 193–194）系统阐述了人作为研究工具相�
 ## 概念辨析
 
 > [!contrast-table] 量化工具 vs [[Qualitative Research|质性研究]]者作为工具
-> | 维度 | [[Quantitative Research|量化研究]] | [[Qualitative Research|质性研究]] |
+> | 维度 | [[Quantitative Research\|量化研究]] | [[Qualitative Research\|质性研究]] |
 > |------|------------------------------------|--------------------------------------|
-> | 工具性质 | 标准化[[Questionnaire|问卷]]、量表、测试——设计者与施测者可分离。 | 研究者本人——数据的质量和深度取决于研究者的观察力、访谈技巧和解释能力。 |
+> | 工具性质 | 标准化[[Questionnaire\|问卷]]、量表、测试——设计者与施测者可分离。 | 研究者本人——数据的质量和深度取决于研究者的观察力、访谈技巧和解释能力。 |
 > | 灵活性 | 固定——同一工具对所有被试。 | 适应——随情境和参与者调整策略。 |
-> | 知识来源 | 命题性知识（[[Knowledge-that and Know-how-to|propositional knowledge]]）为主。 | 命题性知识加默会知识（tacit knowledge）。 |
-> | 检验方式 | 先验[[Hypothesis|假设]]→工具收集数据→检验。 | 研究者进入现场→在现场中生成假设→数据提示理论。 |
-> | 反思要求 | 工具标准化后反思需求低。 | 高度[[Reflexivity|反身性]]要求——研究者须持续审视自身如何影响研究。 |
+> | 知识来源 | 命题性知识（[[Knowledge-that and Know-how-to\|propositional knowledge]]）为主。 | 命题性知识加默会知识（tacit knowledge）。 |
+> | 检验方式 | 先验[[Hypothesis\|假设]]→工具收集数据→检验。 | 研究者进入现场→在现场中生成假设→数据提示理论。 |
+> | 反思要求 | 工具标准化后反思需求低。 | 高度[[Reflexivity\|反身性]]要求——研究者须持续审视自身如何影响研究。 |
 
 ---
 

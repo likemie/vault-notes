@@ -92,7 +92,7 @@ updated: 2026-06-16
 > [!ref-table] 相关条目索引
 > | 条目 | 关系 | 来源 |
 > |---|---|---|
-> | [[Venture Philanthropy]] | 必和必拓基金会介入全球教育大纲治理所采取的典型资本运作[[Paradigm|范式]]。 | ([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]]) |
+> | [[Venture Philanthropy]] | 必和必拓基金会介入全球教育大纲治理所采取的典型资本运作[[Paradigm\|范式]]。 | ([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 8]]) |
 > | [[Education Endowment Foundation]] | 必和必拓基金会直接资助并借此在全球复制标准化证据机构的母体中介。 | |
 > | [[Australian Education Research Organisation]] | 基金会资助项目在澳大利亚直接催生并紧密联结的本地证据中介组织。 | |
 > | [[Strong Beginnings Report]] | 基金会所推动的标准化循证生态链最终落地的国家法案/改革大纲文本。 | |

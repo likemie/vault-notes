@@ -113,5 +113,5 @@ updated: '2026-07-24'
 > |:-----|:-----|:-----|
 > | [[New Culture Movement]] | 事件/事实 | 五四运动赋予了新文化运动政治维度与群众动员特征。 |
 > | [[New Education Movement]] | 事件/事实 | 五四运动加速了新教育运动的激进化与教育救国思潮。 |
-> | [[Pragmatism in China]] | 概念 | 五四运动塑造了[[John Dewey|杜威]]思想在中国被双重选择性采纳的政治语境。 |
+> | [[Pragmatism in China]] | 概念 | 五四运动塑造了[[John Dewey\|杜威]]思想在中国被双重选择性采纳的政治语境。 |
 > | [[Transfer Translation Transformation]] | 理论/框架 | 五四运动构成了杜威思想在华转移（Transfer）与去政治化转译（Translation）的驱动节点。 |

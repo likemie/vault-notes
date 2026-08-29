@@ -57,12 +57,12 @@ updated: 2026-07-23
 ## 概念辨析
 
 > [!contrast-table] 生态效度 vs [[External Validity|外部效度]] vs [[Internal Validity|内部效度]]
-> | 维度 | 生态效度 | [[External Validity|外部效度]] | [[Internal Validity|内部效度]] |
+> | 维度 | 生态效度 | [[External Validity\|外部效度]] | [[Internal Validity\|内部效度]] |
 > |---|---|---|---|
 > | **核心问题** | 发现在自然情境中是否成立？ | 发现能推广到多广的范围？ | X 真的导致了 Y 吗？ |
-> | **关注焦点** | 情境的自然性——研究情境的人为程度 | 推广的边界——样本→总体、情境→情境 | [[Causality|因果推断]]的可信性——排除替代解释 |
-> | **威胁来源** | 实验室的人为性、测量工具的情境剥离 | 样本偏差、情境特殊性、历史时间限定 | 混淆[[Variable|变量]]、选择偏差、成熟效应 |
-> | **方法论亲缘** | 质性自然主义、[[Rich and Thick Description|厚描述]] | 大样本[[Random Sampling|随机抽样]]、统计推断 | [[Random Assignment|随机分配]]、实验控制 |
+> | **关注焦点** | 情境的自然性——研究情境的人为程度 | 推广的边界——样本→总体、情境→情境 | [[Causality\|因果推断]]的可信性——排除替代解释 |
+> | **威胁来源** | 实验室的人为性、测量工具的情境剥离 | 样本偏差、情境特殊性、历史时间限定 | 混淆[[Variable\|变量]]、选择偏差、成熟效应 |
+> | **方法论亲缘** | 质性自然主义、[[Rich and Thick Description\|厚描述]] | 大样本[[Random Sampling\|随机抽样]]、统计推断 | [[Random Assignment\|随机分配]]、实验控制 |
 
 ---
 

@@ -86,10 +86,10 @@ updated: 2026-08-15
 >
 > | 关联项 | 类型 | 关系 |
 > |:-------|:-----|:-----|
-> | [[Interpretive Paradigm|诠释范式]] | [[Paradigm|范式]]基础 | 诠释范式以主位进路为核心方法论承诺——从参与者内部视角理解社会世界。LeCompte & Preissle（1993, pp. 39–44）将主位/客位区分纳入民族志方法与实证主义方法的五项系统对比中（描述vs预测、归纳vs演绎、理论生成vs验证、建构vs枚举、主观性vs客观性）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, p. 405)]] |
-> | [[Ethnography|民族志]] | 核心方法 | 民族志被 Lincoln & Guba（1985, p. 359）描述为"主位探究的理想工具"。案例研究作为民族志的自然报告模式，能容纳厚描述和默会知识，服务于主位探究。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 443–444)]] |
-> | [[Rich and Thick Description|厚描述]] | 核心概念 | 厚描述服务于主位进路——从内部人视角呈现参与者对世界的理解和感受，将读者"传送"到研究现场。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 403–404)]] |
-> | [[Visual Data|视觉数据]] | 相关概念 | 照片同时承载主位与客位意义，既是受访者生活世界的内部呈现（主位），也承载可供外部解读的客位信息。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27|(Cohen et al., 2011, 27.2)]] |
+> | [[Interpretive Paradigm\|诠释范式]] | [[Paradigm\|范式]]基础 | 诠释范式以主位进路为核心方法论承诺——从参与者内部视角理解社会世界。LeCompte & Preissle（1993, pp. 39–44）将主位/客位区分纳入民族志方法与实证主义方法的五项系统对比中（描述vs预测、归纳vs演绎、理论生成vs验证、建构vs枚举、主观性vs客观性）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, p. 405)]] |
+> | [[Ethnography\|民族志]] | 核心方法 | 民族志被 Lincoln & Guba（1985, p. 359）描述为"主位探究的理想工具"。案例研究作为民族志的自然报告模式，能容纳厚描述和默会知识，服务于主位探究。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, pp. 443–444)]] |
+> | [[Rich and Thick Description\|厚描述]] | 核心概念 | 厚描述服务于主位进路——从内部人视角呈现参与者对世界的理解和感受，将读者"传送"到研究现场。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, pp. 403–404)]] |
+> | [[Visual Data\|视觉数据]] | 相关概念 | 照片同时承载主位与客位意义，既是受访者生活世界的内部呈现（主位），也承载可供外部解读的客位信息。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27\|(Cohen et al., 2011, 27.2)]] |
 
 在[[Qualitative Research|质性研究]]数据分析与报告阶段，应捕捉不同参与者对情境的不同定义，并综合主位与客位分析；由于数据包裹在社会事件之中，报告涉及[[Double Hermeneutic|双重诠释]]过程，这一综合正是对缺乏客观性批评的回应，也以[[Reflexivity|反身性]]加以支持。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.2)]]
 
@@ -102,9 +102,9 @@ updated: 2026-08-15
 > |------|------------|------------|
 > | 语言学类比 | 音位学（phonemic）：研究特定语言的内部声音系统。 | 语音学（phonetic）：研究跨语言的普遍声音规律。 |
 > | 视角定位 | 内部人——参与者如何理解和体验自己的世界。 | 外部人——研究者如何使用自身范畴分析对象。 |
-> | 核心追求 | 高[[Ecological Validity|生态效度]]，揭示文化原生的概念与信念。 | 跨文化可比性，追求普遍性解释框架。 |
-> | 方法论传统 | [[Ethnography|民族志]]、[[Phenomenology|现象学]]、[[Symbolic Interactionism|符号互动论]]。 | [[Positivism|实证主义]]、跨文化比较研究。 |
-> | 互补关系 | 缺乏 emic 则无法理解文化内部逻辑。 | 缺乏 etic 则无法进行跨文化[[Dialogue in Education|对话]]和比较。 |
+> | 核心追求 | 高[[Ecological Validity\|生态效度]]，揭示文化原生的概念与信念。 | 跨文化可比性，追求普遍性解释框架。 |
+> | 方法论传统 | [[Ethnography\|民族志]]、[[Phenomenology\|现象学]]、[[Symbolic Interactionism\|符号互动论]]。 | [[Positivism\|实证主义]]、跨文化比较研究。 |
+> | 互补关系 | 缺乏 emic 则无法理解文化内部逻辑。 | 缺乏 etic 则无法进行跨文化[[Dialogue in Education\|对话]]和比较。 |
 
 两者不是对立关系，而是互补（[[Argument_Li_2012_Cambridge|Li, 2012, p.77]]）。LeCompte & Preissle（1993, pp. 39–44）将这对区分纳入民族志方法与实证主义方法的系统性对比框架中：民族志以主位为核心，但承认客位在研究者的理论建构中不可避免。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, p. 405)]]
 

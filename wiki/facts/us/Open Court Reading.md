@@ -80,12 +80,12 @@ updated: 2026-08-21
 ## 循证清算中心评级全景对比
 
 > [!contrast-table] [[What Works Clearinghouse|WWC]]、[[Blueprints for Healthy Youth Development|Blueprints]] 与 [[Best Evidence Encyclopedia|BEE]] 对 Open Court Reading 的评级与审查机制对比（基于 Wadhwa et al., 2024）
-> | 审查维度 | [[What Works Clearinghouse|WWC]] (联邦官方) | [[Blueprints for Healthy Youth Development|Blueprints]] (科罗拉多大学) | [[Best Evidence Encyclopedia|BEE]] (JHU/Slavin) |
+> | 审查维度 | [[What Works Clearinghouse\|WWC]] (联邦官方) | [[Blueprints for Healthy Youth Development\|Blueprints]] (科罗拉多大学) | [[Best Evidence Encyclopedia\|BEE]] (JHU/Slavin) |
 > |:---|:---|:---|:---|
 > | **最终底线评级** | **Potentially Positive（潜在积极）**<br>(With Reservations) | **Promising（有望）**<br>(二级认证) | **Moderate Evidence（中等证据）**<br>(加权 $ES = +0.13\text{ SD}$) |
-> | **核心 [[Randomised Controlled Trials|RCT]] (Borman 2008) 评定** | 认定为高质量证据；指出样本统计显著性未达标，但平均 $ES > 0.25\text{ SD}$，判定具实质重要性。 | 认证为标准 RCT，但定性效应为“非常微小（very small）”，指出存在未调整基线差异与[[Attrition|差异流失]]风险。 | 在一年级综述中因班级数过少（9 实验 vs 7 对照）**降级为准实验（[[Quasi-Experimental Designs|QED]]）**；在高年级综述中恢复为 RCT。 |
+> | **核心 [[Randomised Controlled Trials\|RCT]] (Borman 2008) 评定** | 认定为高质量证据；指出样本统计显著性未达标，但平均 $ES > 0.25\text{ SD}$，判定具实质重要性。 | 认证为标准 RCT，但定性效应为“非常微小（very small）”，指出存在未调整基线差异与[[Attrition\|差异流失]]风险。 | 在一年级综述中因班级数过少（9 实验 vs 7 对照）**降级为准实验（[[Quasi-Experimental Designs\|QED]]）**；在高年级综述中恢复为 RCT。 |
 > | **教学时间混杂识别** | **未识别 / 未报告**（未考察干预班级课时长度偏差）。 | **未识别 / 未报告**（未将教学课时差异列为效度威胁）。 | **明确指出课时混杂**，实验班每天 2.5 小时读写 vs 对照班仅 90 分钟，存在 67% 的额外课时偏差。 |
-> | **准实验 QED (Skindrud 2006)** | 发现未校正集群偏倚；自行实施统计校正后虽不显著但 $ES > 0.25$，**保留为支持性证据**。 | **彻底剔除并否决**；因未校正集群、脱落者基线不平衡及样本地域狭窄直接判定为不合格。 | **纳入[[Meta-analysis|元分析]]池**；与其他合格研究共同参与方差倒数加权[[Effect Size|效应量]]合成。 |
+> | **准实验 QED (Skindrud 2006)** | 发现未校正集群偏倚；自行实施统计校正后虽不显著但 $ES > 0.25$，**保留为支持性证据**。 | **彻底剔除并否决**；因未校正集群、脱落者基线不平衡及样本地域狭窄直接判定为不合格。 | **纳入[[Meta-analysis\|元分析]]池**；与其他合格研究共同参与方差倒数加权[[Effect Size\|效应量]]合成。 |
 > | **结果域聚合机制** | **按微观细分结果域独立发布**（在阅读理解、词汇与总分领域分别定级）。 | **整体方案统一评级（给出单一项目级推荐）**。 | **学科专项元分析综合**（初读与中读分别合成单一加权效应量）。 |
 
 ---
@@ -121,6 +121,6 @@ updated: 2026-08-21
 > |:---|:---|:---|
 > | [[Educational Evidence Clearinghouses]] | 核心概念 | OCR 是检验清算中心评级一致性与隐藏分歧的核心案型。 |
 > | [[What Works Clearinghouse]] | 评价机构 | 对 OCR 开展分域审查，展示了细分协议对证据解释的调节作用。 |
-> | [[Best Evidence Encyclopedia]] | 评价机构 | 唯一识别出 OCR 教学时长混杂并实施定量加权[[Meta-analysis|元分析]]的机构。 |
-> | [[Blueprints for Healthy Youth Development]] | 评价机构 | 对 OCR 实施严格 [[Quasi-Experimental Designs|QED]] 剔除并给予整体 Promising 认证。 |
-> | [[Campbellian Validity Framework]] | 理论基础 | 解释 OCR 课时偏差（[[Internal Validity|内部效度]]）与推广边界（[[External Validity|外部效度]]）的理论透镜。 |
+> | [[Best Evidence Encyclopedia]] | 评价机构 | 唯一识别出 OCR 教学时长混杂并实施定量加权[[Meta-analysis\|元分析]]的机构。 |
+> | [[Blueprints for Healthy Youth Development]] | 评价机构 | 对 OCR 实施严格 [[Quasi-Experimental Designs\|QED]] 剔除并给予整体 Promising 认证。 |
+> | [[Campbellian Validity Framework]] | 理论基础 | 解释 OCR 课时偏差（[[Internal Validity\|内部效度]]）与推广边界（[[External Validity\|外部效度]]）的理论透镜。 |

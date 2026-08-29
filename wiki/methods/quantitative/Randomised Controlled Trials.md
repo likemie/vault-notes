@@ -262,7 +262,7 @@ updated: 2026-08-21
 > | 中介变量和过程变量 | 中介变量和过程变量的影响被忽略 |
 > | 因果过程和因果链 | 因果过程和因果链没有被建立，只知道输入和输出的关系 |
 > | 参与者动机和意向 | 参与者的动机和意向被忽略 |
-> | 语境力量 | 语境可以施加比初始因果干预更强的因果力量，[[Stanford Prison Experiment|斯坦福监狱实验]]和米尔格拉姆服从实验为此提供了经典证据 |
+> | 语境力量 | 语境可以施加比初始因果干预更强的因果力量，[[Stanford Prison Experiment\|斯坦福监狱实验]]和米尔格拉姆服从实验为此提供了经典证据 |
 > | 道德能动性和伦理 | 参与者的道德能动性（moral agency）和研究者的伦理被忽视 |
 >
 > 因此，更恰切的问题不是简单的什么有效（what works），而是：**什么对谁有效、在什么条件下、根据什么标准、有什么伦理可辩护性、对参与者有什么后果？**。
@@ -335,10 +335,10 @@ updated: 2026-08-21
 > [!framework-table] [[Educational Evidence Clearinghouses|教育证据清算中心]]对 RCT 的方法学审查分层（基于 Wadhwa et al., 2024）
 > | 因果审查规程层级 | 代表清算中心 | 对 RCT 内部效度与计量控制的具体规程 |
 > |:---|:---|:---|
-> | **3 级规程（深度计量规范）** | [[What Works Clearinghouse|WWC]]、[[Home Visiting Evidence of Effectiveness|HomVEE]]、[[Blueprints for Healthy Youth Development|Blueprints]]、[[Social Programs That Work|SPTW]] | 深入规范集群随机化（强制多层线性模型 HLM 或 ICC 校正）；建立 0.05 SD 容许偏倚流失模型；严格核查基线等值性；允许 [[Complier Average Causal Effect|CACE]] 顺从者估计。 |
-> | **2 级规程（中度因果规范）** | [[California Evidence Based Clearinghouse for Child Social and Economic Welfare|CEBC]]、[[Promising Practices Network|PPN]]、[[Clearinghouse for Military Family Readiness Continuum of Evidence|CMFR]] | 明确要求随机分配至对照组并监控样本流失率，但未制定形式化计量纠偏方程。 |
-> | **1 级规程（基础分类要求）** | [[Best Evidence Encyclopedia|BEE]]、[[National Dropout Prevention Center|NDPC]]、[[Promise Neighborhoods Research Consortium|PNRC]]、[[CNCS Evidence Exchange|AmeriCorps EE]] | 将 RCT 作为高等级证据标签，但在单项研究审查中未设专门技术操作手册。 |
-> | **0 级规程（无独立门槛）** | [[Collaborative for Academic Social and Emotional Learning Guide|CASEL]] | 仅评估方案整体教学设计，未针对 RCT 建立独立因果方法学门槛。 |
+> | **3 级规程（深度计量规范）** | [[What Works Clearinghouse\|WWC]]、[[Home Visiting Evidence of Effectiveness\|HomVEE]]、[[Blueprints for Healthy Youth Development\|Blueprints]]、[[Social Programs That Work\|SPTW]] | 深入规范集群随机化（强制多层线性模型 HLM 或 ICC 校正）；建立 0.05 SD 容许偏倚流失模型；严格核查基线等值性；允许 [[Complier Average Causal Effect\|CACE]] 顺从者估计。 |
+> | **2 级规程（中度因果规范）** | [[California Evidence Based Clearinghouse for Child Social and Economic Welfare\|CEBC]]、[[Promising Practices Network\|PPN]]、[[Clearinghouse for Military Family Readiness Continuum of Evidence\|CMFR]] | 明确要求随机分配至对照组并监控样本流失率，但未制定形式化计量纠偏方程。 |
+> | **1 级规程（基础分类要求）** | [[Best Evidence Encyclopedia\|BEE]]、[[National Dropout Prevention Center\|NDPC]]、[[Promise Neighborhoods Research Consortium\|PNRC]]、[[CNCS Evidence Exchange\|AmeriCorps EE]] | 将 RCT 作为高等级证据标签，但在单项研究审查中未设专门技术操作手册。 |
+> | **0 级规程（无独立门槛）** | [[Collaborative for Academic Social and Emotional Learning Guide\|CASEL]] | 仅评估方案整体教学设计，未针对 RCT 建立独立因果方法学门槛。 |
 
 > [!critique] 单项 RCT 内部效度与宏观政策评级的“RCT 悖论”
 > [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024, pp. 18–20, 26–27)]] 揭示了当代[[Evidence-Based Education|循证教育]]中的重大悖论：学界长期假设“只要单项研究采用 RCT，就能获得客观收敛的政策评级”。然而实证元评估发现，在 429 对跨机构多重评级中，评级完全一致率仅 30.5%，而完全对立冲突率（Recommended vs Not Recommended）高达 35.4%。
@@ -376,20 +376,20 @@ updated: 2026-08-21
 > [!ref-table] 相关理论
 > | 理论 | 与该方法的关联 |
 > |------|--------------|
-> | [[Critical Realism]] | 提供对 RCT 经验主义假设的最系统哲学批判：开放系统、[[Emergence|涌现]]性、三层[[Ontology|本体论]] |
-> | [[Complexity Theory]] | 从非线性、涌现和整体论角度根本性质疑 RCT 封闭系统[[Hypothesis|假设]] |
+> | [[Critical Realism]] | 提供对 RCT 经验主义假设的最系统哲学批判：开放系统、[[Emergence\|涌现]]性、三层[[Ontology\|本体论]] |
+> | [[Complexity Theory]] | 从非线性、涌现和整体论角度根本性质疑 RCT 封闭系统[[Hypothesis\|假设]] |
 > | [[Validity as Inferences]] | 继承 Cronbach and Messick 的效度理论，论证 RCT 推论的效度永远临时且局部 |
 
 > [!ref-table] 相关方法
 > | 方法 | 说明 |
 > |------|------|
-> | [[Intervention Research]]（父类） | RCT 是其[[Random Assignment|随机分配]]版本，区分[[Variable|变量]]操纵与随机分配两种证据要求 |
-> | [[Experimental Research]]（父类） | 真实验是检验[[Causality|因果]]主张的最强设计，RCT 是真实验在教育中的主要形式 |
-> | [[Cluster Randomized Trials]]（变体） | 教育 RCT 的标准[[Praxis|实践]]，处理班级或学校层面的嵌套结构 |
+> | [[Intervention Research]]（父类） | RCT 是其[[Random Assignment\|随机分配]]版本，区分[[Variable\|变量]]操纵与随机分配两种证据要求 |
+> | [[Experimental Research]]（父类） | 真实验是检验[[Causality\|因果]]主张的最强设计，RCT 是真实验在教育中的主要形式 |
+> | [[Cluster Randomized Trials]]（变体） | 教育 RCT 的标准[[Praxis\|实践]]，处理班级或学校层面的嵌套结构 |
 > | [[Intent-to-Treat Analysis]]（配套） | 处理非合规问题的核心分析策略 |
 > | [[Mechanism Experiments]]（替代） | 测试可迁移的特定因果机制而非完整项目包 |
-> | [[Quasi-Experimental Designs]]（替代） | 随机分配不可行时提供[[External Validity|外部效度]]可能改善的替代设计 |
-> | [[Non-intervention Research]]（对照） | 不操纵自变量，以此对照批评强[[Recommendations for Practice|实践建议]]的因果证据不足 |
+> | [[Quasi-Experimental Designs]]（替代） | 随机分配不可行时提供[[External Validity\|外部效度]]可能改善的替代设计 |
+> | [[Non-intervention Research]]（对照） | 不操纵自变量，以此对照批评强[[Recommendations for Practice\|实践建议]]的因果证据不足 |
 > | [[Observational and Correlational Research]]（前置） | 可生成干预假设，但无随机分配和变量操纵 |
 
 ---

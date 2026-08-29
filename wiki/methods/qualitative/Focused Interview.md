@@ -113,7 +113,7 @@ updated: 2026-07-22
 > |:-----|:-----|:-----|
 > | [[Qualitative Interview]] | 父方法 | 聚焦访谈是质性访谈家族中的一种特定设计。 |
 > | [[Non-directive Interview]] | 相关方法 | 聚焦访谈在非引导性访谈基础上增加了研究者的主动角色和预分析步骤。 |
-> | [[In-depth Interview]] | 相关方法 | 深度访谈更开放，聚焦访谈更集中于特定情境和预设[[Hypothesis|假设]]。 |
+> | [[In-depth Interview]] | 相关方法 | 深度访谈更开放，聚焦访谈更集中于特定情境和预设[[Hypothesis\|假设]]。 |
 
 ---
 

@@ -124,12 +124,12 @@ flowchart LR
 ## 概念辨析
 
 > [!contrast-table] 计算思维与相关认知[[Construct|构念]]辨析
-> | 维度 | **计算思维（Computational Thinking）** | [[Procedural Skill|程序性技能（Procedural Skill）]] | [[Critical Thinking|批判性思维（Critical Thinking）]] | [[Higher-Order Thinking Skills|通用高阶思维（HOTS）]] |
+> | 维度 | **计算思维（Computational Thinking）** | [[Procedural Skill\|程序性技能（Procedural Skill）]] | [[Critical Thinking\|批判性思维（Critical Thinking）]] | [[Higher-Order Thinking Skills\|通用高阶思维（HOTS）]] |
 > |---|---|---|---|---|
 > | **核心关切** | **问题形式化与算法化求解** | 熟练执行特定良构操作序列 | 审视论据真伪与逻辑偏误 | 跨情境深度分析、综合与创造 |
-> | **典型心智操作** | 分解、模式识别、抽象、算法设计 | 规则匹配、自动化计算、语法编写 | [[Hypothesis|假设]]识别、论点评价、推论验证 | 劣构问题表征、[[Metacognition|元认知]]反思、方案重构 |
-> | **技术中介作用** | 借助 AI [[AI Agent in Education|智能体]]/编程环境进行动态调试 | 借助自适应提示进行分步刻意练习 | 借助多重视角对比工具进行反思审视 | 借助脚手架与探究量规促进深度建构 |
-> | **主要测评工具** | [[Computational Thinking Scale|计算思维量表（CTS）]]、Bebras 测验 | 代码测试通过率、步骤得分、WCPM | [[Watson-Glaser Critical Thinking Appraisal|WGCTA 测验]]、CCTDI 量表 | 开放项目评审、质性表现量规 |
+> | **典型心智操作** | 分解、模式识别、抽象、算法设计 | 规则匹配、自动化计算、语法编写 | [[Hypothesis\|假设]]识别、论点评价、推论验证 | 劣构问题表征、[[Metacognition\|元认知]]反思、方案重构 |
+> | **技术中介作用** | 借助 AI [[AI Agent in Education\|智能体]]/编程环境进行动态调试 | 借助自适应提示进行分步刻意练习 | 借助多重视角对比工具进行反思审视 | 借助脚手架与探究量规促进深度建构 |
+> | **主要测评工具** | [[Computational Thinking Scale\|计算思维量表（CTS）]]、Bebras 测验 | 代码测试通过率、步骤得分、WCPM | [[Watson-Glaser Critical Thinking Appraisal\|WGCTA 测验]]、CCTDI 量表 | 开放项目评审、质性表现量规 |
 
 ---
 
@@ -138,18 +138,18 @@ flowchart LR
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 比较或干预 | [[Dependent Variable|结果变量]] | 分析样本 | 组别统计 | [[Effect Size|效应量]] | 显著性或不确定性 | 设计与解释边界 |
+> | 研究 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
 > |---|---|---|---|---|---|---|---|
-> | Fang et al. (2025)，引自 [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] | [[Generative AI Agent in Education|生成式 AI 辅导]]+显性反思量规 vs. 传统编程教学 | Python 计算思维与代码调试表现 | $N = 92$（干预 $n = 46$, 控制 $n = 46$） | — | Hedges' $g = 0.40$ | $p < .05$ | 准实验设计；证实显性反思支架有助于将生成式 AI 转化为计算思维增益 |
-> | Ye et al. (2025)，引自 [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] | 编程[[AI Agent in Education|智能体]]即时语法纠错 vs. 传统讲授教学 | 代码逻辑结构与算法设计表现 | $N = 78$ | — | Hedges' $g = 0.16$ | $p < .05$ | 实验设计；即时线索提示辅助基础算法规则内化 |
-> | Yilmaz & Karaoglan Yilmaz (2023)，引自 [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] | 提示词驱动生成式 AI 支架 vs. 独立编程对照组 | 大学生计算思维技能与编程[[Self-Efficacy|自我效能]] | $N = 86$ | — | Hedges' $g = 0.58$ | $p < .01$ | 准实验设计；提示词工程训练显著提升算法思维水平 |
+> | Fang et al. (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | [[Generative AI Agent in Education\|生成式 AI 辅导]]+显性反思量规 vs. 传统编程教学 | Python 计算思维与代码调试表现 | $N = 92$（干预 $n = 46$, 控制 $n = 46$） | — | Hedges' $g = 0.40$ | $p < .05$ | 准实验设计；证实显性反思支架有助于将生成式 AI 转化为计算思维增益 |
+> | Ye et al. (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 编程[[AI Agent in Education\|智能体]]即时语法纠错 vs. 传统讲授教学 | 代码逻辑结构与算法设计表现 | $N = 78$ | — | Hedges' $g = 0.16$ | $p < .05$ | 实验设计；即时线索提示辅助基础算法规则内化 |
+> | Yilmaz & Karaoglan Yilmaz (2023)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 提示词驱动生成式 AI 支架 vs. 独立编程对照组 | 大学生计算思维技能与编程[[Self-Efficacy\|自我效能]] | $N = 86$ | — | Hedges' $g = 0.58$ | $p < .01$ | 准实验设计；提示词工程训练显著提升算法思维水平 |
 
 > [!ref-table]- 其他实证结果（无效应量）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | [[Variable|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | Korkmaz et al. (2017)，见 [[Computational Thinking Scale]] | 土耳其大学生与中学生样本（$N = 1{,}041$） | [[Questionnaire|问卷调查]]与量表编制研究 | [[Computational Thinking Scale|计算思维量表（CTS）]] 5 维度结构 | 探索性与验证性因子分析（$CFI = .93, RMSEA = .054$） | 总量表 Cronbach's $\alpha = .86$ | 确立了[[Creativity|创造力]]、算法思维、协作性、[[Critical Thinking|批判性思维]]与问题解决 5 维度[[Construct Validity|构念效度]] |
+> | Korkmaz et al. (2017)，见 [[Computational Thinking Scale]] | 土耳其大学生与中学生样本（$N = 1{,}041$） | [[Questionnaire\|问卷调查]]与量表编制研究 | [[Computational Thinking Scale\|计算思维量表（CTS）]] 5 维度结构 | 探索性与验证性因子分析（$CFI = .93, RMSEA = .054$） | 总量表 Cronbach's $\alpha = .86$ | 确立了[[Creativity\|创造力]]、算法思维、协作性、[[Critical Thinking\|批判性思维]]与问题解决 5 维度[[Construct Validity\|构念效度]] |
 
 ---
 

@@ -109,7 +109,7 @@ updated: 2026-08-01
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Personal Construct Theory]] | 理论 | 个体性推论支撑以单一人为中心的[[Construct|构念]]引发。 |
+> | [[Personal Construct Theory]] | 理论 | 个体性推论支撑以单一人为中心的[[Construct\|构念]]引发。 |
 > | [[Repertory Grid Technique]] | 前置方法 | 金字塔法是 repertory grid 构念引发环节的一种变体。 |
 > | [[Laddering]] | 对照方法 | 金字塔法横向展开描述，阶梯法向上追溯蕴含层级，二者追问方向相反。 |
 > | [[Personal Constructs]] | 概念 | 金字塔法引发的正是围绕单一对象的个人建构极点。 |

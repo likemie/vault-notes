@@ -74,14 +74,14 @@ updated: 2026-07-13
 ## 概念辨析
 
 > [!contrast-table] 量化内部效度 vs 质性可信性
-> | 维度 | [[Quantitative Research|量化研究]]中的内部效度 | [[Qualitative Research|质性研究]]中的对应概念 |
+> | 维度 | [[Quantitative Research\|量化研究]]中的内部效度 | [[Qualitative Research\|质性研究]]中的对应概念 |
 > |---|---|---|
 > | **核心术语** | 内部效度（internal validity） | 可信性（credibility, Lincoln & Guba, 1985） |
 > | **核心问题** | 处理是否真的导致了观测到的效应？ | 解释对参与者而言是否可信？ |
-> | **对混淆因素的态度** | 通过[[Experimental Research|实验设计]]和统计控制**排除** | 通过方法论反思和多元验证**纳入并管理** |
+> | **对混淆因素的态度** | 通过[[Experimental Research\|实验设计]]和统计控制**排除** | 通过方法论反思和多元验证**纳入并管理** |
 > | **对时间的态度** | 历史、成熟等时间效应是**需要控制的威胁** | 变化被**纳入研究设计**——现象演变本身就是研究对象（p.168） |
-> | **典型工具** | [[Random Assignment|随机分配]]、双盲、统计控制 | 长期田野参与、[[Triangulation|三角验证]]、[[Member Checking|成员核查]]、同伴汇报 |
-> | **效度标准** | 排除替代解释，最大化[[Causality|因果推断]]的可信性 | 建立可信性、[[Reliability|可依赖性]]、可确认性和可迁移性 |
+> | **典型工具** | [[Random Assignment\|随机分配]]、双盲、统计控制 | 长期田野参与、[[Triangulation\|三角验证]]、[[Member Checking\|成员核查]]、同伴汇报 |
+> | **效度标准** | 排除替代解释，最大化[[Causality\|因果推断]]的可信性 | 建立可信性、[[Reliability\|可依赖性]]、可确认性和可迁移性 |
 
 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10)]]
 
@@ -105,14 +105,14 @@ Campbell & Stanley (1963)、Bracht & Glass (1968) 和 Lewis-Beck (1993) 建立�
 > > | 分组 | 威胁 | 核心问题 |
 > > |---|---|---|
 > > | **受试者** | 历史（History） | 实验期间的外部事件混淆了处理效应 |
-> > | | 成熟（Maturation） | 受试者自然[[Growth|成长]]被误判为处理效果 |
+> > | | 成熟（Maturation） | 受试者自然[[Growth\|成长]]被误判为处理效果 |
 > > | | 统计回归（Regression） | 极端得分随时间向均值回归 |
 > > | | 选择（Selection） | 组间系统性差异被误判为处理效应 |
-> > | | [[Attrition|流失]]（Mortality/Attrition） | 退出者可能恰好是效果最差的受试者 |
+> > | | [[Attrition\|流失]]（Mortality/Attrition） | 退出者可能恰好是效果最差的受试者 |
 > > | **实验处理** | 处理扩散（Diffusion） | 对照组与实验组交流导致交叉污染 |
 > > | | 补偿性怨恨（Resentful Demoralization） | 对照组因不公平感而消极表现 |
-> > | | 补偿性竞争（Compensatory Rivalry） | 对照组加倍[[Conatus|努力]]以证明不差于实验组 |
-> > | **实验程序** | 测验（Testing） | [[Pre-test and Post-test|前测]]使受试者熟悉工具或记住答案 |
+> > | | 补偿性竞争（Compensatory Rivalry） | 对照组加倍[[Conatus\|努力]]以证明不差于实验组 |
+> > | **实验程序** | 测验（Testing） | [[Pre-test and Post-test\|前测]]使受试者熟悉工具或记住答案 |
 > > | | 工具（Instrumentation） | 前后测之间测量工具或评分者变化 |
 
 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 164–166)]]
@@ -124,12 +124,12 @@ Campbell & Stanley (1963)、Bracht & Glass (1968) 和 Lewis-Beck (1993) 建立�
 > [!ref-table] 九类内在效度威胁速查
 > | 因素 | 说明 | 控制方法 |
 > |---|---|---|
-> | 历史（History） | 实验期间其他事件对因[[Variable|变量]]的影响 | 设置控制组经历相同事件 |
-> | 成熟（Maturation） | 被试生理心理自然变化 | [[Random Assignment|随机化]]分组+控制组 |
+> | 历史（History） | 实验期间其他事件对因[[Variable\|变量]]的影响 | 设置控制组经历相同事件 |
+> | 成熟（Maturation） | 被试生理心理自然变化 | [[Random Assignment\|随机化]]分组+控制组 |
 > | 测验（Testing） | 前测经验提高后测成绩 | 设置无前测对照组 |
 > | 测量工具（Instrumentation） | 方法技术无效或缺少一致性 | 精心选择测验，严格测试手段 |
 > | 统计回归（Statistical Regression） | 极端分数向均值回归 | 避免极端被试或单独分组 |
-> | 选择偏差（Selection Bias） | 非随机分配导致组间差异 | [[Random Sampling|随机抽样]]和随机分配 |
+> | 选择偏差（Selection Bias） | 非随机分配导致组间差异 | [[Random Sampling\|随机抽样]]和随机分配 |
 > | 被试流失（Mortality） | 被试更换、淘汰或中途退出 | 大样本或消除法 |
 > | 选择与成熟交互（Selection-Maturation Interaction） | 不同组成熟速度不同，与处理效果混淆 | 随机化确保各组均衡 |
 > | 实验处理扩散（Diffusion of Treatment） | 两组接触导致处理扩散 | 避免两组间接触 |

@@ -75,5 +75,5 @@ updated: 2026-06-16
 > [!ref-table] 相关条目索引
 > | 条目 | 关系 | 来源 |
 > |---|---|---|
-> | [[Strong Beginnings Report]] | 2023年改革报告，被批评选择性地歪曲引用 GOS 调查数据来论证改革的迫切性。 | [[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 5]] |
-> | [[Teacher Education Ministerial Advisory Group]] | 2015 年前序政策报告，其建立强制性问责的逻辑起点同样依赖对毕业生课堂准备度满意度的调查与辩论。 | [[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]] |
+> | [[Strong Beginnings Report]] | 2023年改革报告，被批评选择性地歪曲引用 GOS 调查数据来论证改革的迫切性。 | [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 5]] |
+> | [[Teacher Education Ministerial Advisory Group]] | 2015 年前序政策报告，其建立强制性问责的逻辑起点同样依赖对毕业生课堂准备度满意度的调查与辩论。 | [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]] |

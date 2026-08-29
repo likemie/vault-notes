@@ -90,21 +90,21 @@ updated: '2026-07-24'
 ## 概念辨析
 
 > [!contrast-table] 从哲学层面到方法论层次的比较
-> | 比较维度 | 哲学层面：古典哲学传统（Philosophical Pragmatism） | 方法论层次：研究方法论[[Paradigm|范式]]（Methodological Pragmatism） |
+> | 比较维度 | 哲学层面：古典哲学传统（Philosophical Pragmatism） | 方法论层次：研究方法论[[Paradigm\|范式]]（Methodological Pragmatism） |
 > |----------|------------------------------------------------|--------------------------------------------------|
-> | **代表人物** | C. S. Peirce, William James, [[John Dewey|杜威]] | Cherryholmes, Morgan, Denscombe, [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] |
-> | **核心关切** | 经验的连续性、[[Reflexivity|反思性]]探究、民主与社会更新 | [[Research Question|研究问题]]解答、研究设计、方法选择自由 |
+> | **代表人物** | C. S. Peirce, William James, [[John Dewey\|杜威]] | Cherryholmes, Morgan, Denscombe, [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] |
+> | **核心关切** | 经验的连续性、[[Reflexivity\|反思性]]探究、民主与社会更新 | [[Research Question\|研究问题]]解答、研究设计、方法选择自由 |
 > | **真理观** | 情境行动中经受检验的“担保性断言” | 能否有效回答研究问题与交付有用后果 |
-> | **范式态度** | 批判绝对形而上学与二元对立 | 超越[[Positivism|实证]]与[[Constructivist Paradigm|建构主义]]的教条对立，主张[[Fitness for Purpose|适合目的]] |
-> | **应用领域** | 哲学、政治哲学、教育哲学、社会学 | [[Mixed Methods Research|混合方法研究]]、评估研究、教育研究设计 |
+> | **范式态度** | 批判绝对形而上学与二元对立 | 超越[[Positivism\|实证]]与[[Constructivist Paradigm\|建构主义]]的教条对立，主张[[Fitness for Purpose\|适合目的]] |
+> | **应用领域** | 哲学、政治哲学、教育哲学、社会学 | [[Mixed Methods Research\|混合方法研究]]、评估研究、教育研究设计 |
 
 > [!contrast-table] 实用主义范式与其他研究范式的对比
-> | 维度 | [[Pragmatic Paradigm|实用主义范式]] | [[Positivism|实证主义]] | [[Postpositivism|后实证主义]] | [[Constructivist Paradigm|建构主义范式]] |
+> | 维度 | [[Pragmatic Paradigm\|实用主义范式]] | [[Positivism\|实证主义]] | [[Postpositivism\|后实证主义]] | [[Constructivist Paradigm\|建构主义范式]] |
 > |------|------------------------------------|-----------------------|----------------------------|---------------------------------------|
-> | **分析对象** | 问题解答与行动后果 | 客观法则与因果规律 | 独立于主体的[[Hypothesis|假设]]理论 | 参与者的主观经验与社会建构 |
-> | **[[Ontology|本体论]]** | 兼具单一与多重实在 | 单一、绝对的客观实在 | 单一但只能不完美理解的客观实在 | 多重、主观建立的实在 |
-> | **[[Epistemology|认识论]]** | [[Praxis|实践]]有效性（What works） | 主客体分离的绝对客观 | 概率性的客观与[[Falsification|证伪]] | 互动的主观建构 |
-> | **方法论取向** | [[Fitness for Purpose|适合目的]]与折中多元主义 | 纯量化与控制实验 | 假设检验与量化修正 | 质性深入探究 |
+> | **分析对象** | 问题解答与行动后果 | 客观法则与因果规律 | 独立于主体的[[Hypothesis\|假设]]理论 | 参与者的主观经验与社会建构 |
+> | **[[Ontology\|本体论]]** | 兼具单一与多重实在 | 单一、绝对的客观实在 | 单一但只能不完美理解的客观实在 | 多重、主观建立的实在 |
+> | **[[Epistemology\|认识论]]** | [[Praxis\|实践]]有效性（What works） | 主客体分离的绝对客观 | 概率性的客观与[[Falsification\|证伪]] | 互动的主观建构 |
+> | **方法论取向** | [[Fitness for Purpose\|适合目的]]与折中多元主义 | 纯量化与控制实验 | 假设检验与量化修正 | 质性深入探究 |
 
 ---
 
@@ -198,8 +198,8 @@ updated: '2026-07-24'
 > | 命题类型 | 所属层次 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|---|
 > | **行动后果与真理工具论** | 层次一：哲学层面 | 将真理定义为情境行动中经受检验的有效后果 | 认识论与探究哲学 | Dewey (1916); Cherryholmes (1992) |
-> | **问题驱动与方法自由** | 层次二：方法论层次 | 强调方法服务于研究问题，主张适合目的与技术自由 | [[Mixed Methods Research|混合方法研究]]设计 | [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] |
-> | **跨国解耦与功能性拆解** | 层次三：实践与跨国层 | 探讨危机语境下哲学理想与方法手段的解耦 | 比较教育与跨国知识转移 | [[Argument_Zhou_2024_CE|Zhou & Westberg (2024)]]; [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] |
+> | **问题驱动与方法自由** | 层次二：方法论层次 | 强调方法服务于研究问题，主张适合目的与技术自由 | [[Mixed Methods Research\|混合方法研究]]设计 | [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] |
+> | **跨国解耦与功能性拆解** | 层次三：实践与跨国层 | 探讨危机语境下哲学理想与方法手段的解耦 | 比较教育与跨国知识转移 | [[Argument_Zhou_2024_CE\|Zhou & Westberg (2024)]]; [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] |
 
 ---
 

@@ -35,9 +35,12 @@ related_concepts:
   - "[[Research Proposal]]"
   - "[[Content Validity]]"
   - "[[Interaction Effect]]"
-  - "[[Reliability]]"
   - "[[Growth]]"
+  - "[[Reliability]]"
+  - "[[Face Validity]]"
+  - "[[Construct Validity]]"
   - "[[Convergent and Discriminant Validity]]"
+  - "[[Split-Half Reliability]]"
   - "[[Hypothesis]]"
   - "[[Engagement in and with Research]]"
   - "[[Heterogeneity]]"
@@ -46,6 +49,7 @@ related_concepts:
   - "[[Test-Retest Reliability]]"
   - "[[Predictive Validity]]"
 related_methods:
+  - "[[Measurement Invariance]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Action Research]]"
   - "[[Scale Development]]"
@@ -54,7 +58,6 @@ related_methods:
   - "[[Confirmatory Factor Analysis]]"
   - "[[Average Variance Extracted]]"
   - "[[Composite Reliability]]"
-  - "[[Measurement Invariance]]"
   - "[[Analysis of Variance]]"
 related_instruments:
   - "[[Research Literacy Scale for Teachers]]"
@@ -73,7 +76,7 @@ title: "Argument_Kazanci_Tinmaz_Sezgin_2023_SO"
 argument_key: "Argument_Kazanci_Tinmaz_Sezgin_2023_SO"
 argument_display_title: "Development of the Research Literacy Scale for Teachers"
 argument_kind: "journal-article"
-argument_related_count: 40
+argument_related_count: 43
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -104,7 +107,7 @@ journal: "SAGE Open"
 > | 理论工具 | 解释功能 |
 > |----------|----------|
 > | **[[Theory of Planned Behavior\|计划行为理论]]**<br>Theory of Planned Behavior (TPB) | 整合 Ajzen (1991, 2005) 理论，将研究意识界定为背景认知变量，研究态度界定为意向驱动变量，研究技能界定为知觉行为控制（Perceived Behavioral Control, PBC），研究使用界定为外显目标行为，构建起“意识背景 $\rightarrow$ 态度意向 $\rightarrow$ 技能知觉控制 $\rightarrow$ 实践使用”的行为演化全景链条。（pp.3–4） |
-> | **研究利用模型**<br>Research Utilization Models | 借鉴 Weiss (1979) 的经典分类（问题解决模型、启蒙模型与战术模型）以及 Pelz (1978)、Beyer & Trice (1982) 的概念性、工具性与[[Conceptual, Instrumental, and Symbolic Use of Research\|象征性使用]]框架，将[[Research Utilization\|研究使用]][[Operationalization\|操作化]]为备课设计、教学法优化、解决课堂问题及专业[[Dialogue in Education\|对话]]等多维实践。 |
+> | **[[Research Utilization Models|研究利用模型]]**<br>Research Utilization Models | 借鉴 Weiss (1979) 的经典分类（问题解决模型、启蒙模型与战术模型）以及 Pelz (1978)、Beyer & Trice (1982) 的概念性、工具性与[[Conceptual, Instrumental, and Symbolic Use of Research\|象征性使用]]框架，将[[Research Utilization\|研究使用]][[Operationalization\|操作化]]为备课设计、教学法优化、解决课堂问题及专业[[Dialogue in Education\|对话]]等多维实践。 |
 > | **多元素养整合模型**<br>Subtypes of Research Literacy | 整合 Beaudry & Miller (2016) 与 Jemsy (2018) 的素养细分，将信息与技术检索素养、语言讨论素养、视觉图表素养与数理统计素养统整纳入研究技能维度。（pp.4–5） |
 
 > [!warrant]- 理论如何支撑论证
@@ -175,7 +178,7 @@ journal: "SAGE Open"
 
 > [!dimension] 教师研究素养的四维[[Construct|理论构念]]
 > - **研究技能（Research Skills）**
->   教师在检索[[Document|文献]]、研读报告、解读统计图表及开展课堂探究上的实际操作能力与知觉行为控制。（解释 46.90% 方差）[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|(Kazancı Tınmaz & Sezgin, 2023, p. 6)]]
+>   教师在检索[[Document|文献]]、研读报告、解读统计图表及开展课堂探究上的实际操作能力与知觉行为控制。（解释 46.90% 方差）(p. 6)
 > - **研究态度（Attitude toward Research）**
 >   教师对教育科研对职业[[Growth|成长]]重要性、改进教学价值及教育者应否受益于科研的积极价值认同。（解释 7.20% 方差）
 > - **研究使用（Research Use）**
@@ -184,7 +187,7 @@ journal: "SAGE Open"
 >   教师对科研主题构成、发表渠道、前沿动态及专业阅读先验认知的敏锐度与知识准备。（解释 3.80% 方差）
 
 > [!evidence-grid] 样本 1（$N=310$）探索性因子分析与题池精简证据
-> - **专家评审与预试净化** 遵循 DeVellis 规范编写 56 题初始题池，经 5 位专家[[Content Validity Index|内容效度指数]]（CVI）评审与 12 位教师/管理者预试后，在样本 1 中完成施测。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|(Kazancı Tınmaz & Sezgin, 2023, pp. 4–5)]]
+> - **专家评审与预试净化** 遵循 DeVellis 规范编写 56 题初始题池，经 5 位专家[[Content Validity Index|内容效度指数]]（CVI）评审与 12 位教师/管理者预试后，在样本 1 中完成施测。(pp. 4–5)
 > - **数据适宜性优异** 剔除 3 个题总相关低于 $.30$ 的题项后，Kaiser-Meyer-Olkin 抽样适宜性系数（KMO）达 $.966$，Bartlett 球形检验高度显著（$\chi^2 = 14332.69, p < .001$）。（p.6）
 > - **公因子提取与累积方差** 采用主轴因子提取法（PAF）与方差最大正交旋转（Varimax），依据特征值大于 1 标准提取出 4 个公共因子，共解释 $62.602\%$ 的累积方差。
 > - **题项负荷与共同度筛选** 依据“因子载荷 $> .32$ 且跨载荷差值 $> .10$”的原则逐一剔除杂题，最终精简保留 20 题，标准载荷介于 $.465 \sim .898$，共同度介于 $.444 \sim .853$。
@@ -228,7 +231,7 @@ journal: "SAGE Open"
 > 独立样本数据支持了四因子一阶模型与高阶单一研究素养二阶模型，量表在[[Convergent and Discriminant Validity|收敛效度]]、区分效度、[[Composite Reliability|复合信度]]及跨性别[[Measurement Invariance|测量等值性]]上均达到优异标准。（pp.7–12）
 
 > [!evidence-grid] 独立样本 2（$N=258$）[[Confirmatory Factor Analysis|验证性因子分析]]与效信度证据
-> - **二阶高阶因子模型确立** 验证性因子分析（CFA）显示单因子模型严重失真（$\chi^2/df=5.07, 	ext{CFI}=0.75$）；一阶四因子修正模型拟合优异（$\chi^2/df=1.94, 	ext{RMSEA}=0.060, 	ext{CFI}=0.94$）；二阶因子模型同样拟合良好（$\chi^2/df=2.11, 	ext{RMSEA}=0.064, 	ext{CFI}=0.94$），确立了二阶统整结构。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|(Kazancı Tınmaz & Sezgin, 2023, p. 9)]]
+> - **二阶高阶因子模型确立** 验证性因子分析（CFA）显示单因子模型严重失真（$\chi^2/df=5.07, 	ext{CFI}=0.75$）；一阶四因子修正模型拟合优异（$\chi^2/df=1.94, 	ext{RMSEA}=0.060, 	ext{CFI}=0.94$）；二阶因子模型同样拟合良好（$\chi^2/df=2.11, 	ext{RMSEA}=0.064, 	ext{CFI}=0.94$），确立了二阶统整结构。(p. 9)
 > - **收敛与区分效度双重达标** 4 个分维度的[[Average Variance Extracted|平均方差抽取量]]（AVE）均达到 $.50 \sim .56$，组合信度（CR）均达 $.75 \sim .90$，且各维度 AVE 均大于因子间的决定系数（$r^2$ 为 $.31\sim.59$），收敛效度与 Fornell-Larcker 区分效度完全确立。（p.9, p.11）
 > - **复合信度体系完备** 20 题 [[Research Literacy Scale for Teachers|RLS]] 总量表 Cronbach's $lpha = .94$，McDonald's $\omega = .95$，Armor's $	heta = .93$，[[Split-Half Reliability|折半信度]] $= .91$；各分量表 $lpha$ 介于 $.83 \sim .90$，矫正题总相关介于 $.48 \sim .72$。（p.11）
 > - **跨性别严格测量不变性** 跨性别多组 CFA 阶梯约束检验表明，从形态等值到严格等值，比较拟合指数改变量 $|\Delta	ext{CFI}| \le .003$，RMSEA 改变量 $\Delta	ext{RMSEA} \le .003$，完全满足 $\le .010$ 判据，证实不存在跨性别测量偏倚。（p.12）
@@ -290,11 +293,11 @@ journal: "SAGE Open"
 > 教师普遍持有极高的科研态度但研究使用与技能相对滞后；追踪专业学术期刊与亲身开展科研能显著打破这一瓶颈，尤其做研究对提升研究技能具有决定性作用。（pp.12–15）
 
 > [!tension] 教师研究素养的知行结构性断层
-> - **价值认同极高（态度天花板效应）** 教师普遍对科研价值持有极高的认同感（均值 $M=4.37 \pm 0.59$），坚信科研对职业成长至关重要。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|(Kazancı Tınmaz & Sezgin, 2023, p. 8)]]
+> - **价值认同极高（态度天花板效应）** 教师普遍对科研价值持有极高的认同感（均值 $M=4.37 \pm 0.59$），坚信科研对职业成长至关重要。(p. 8)
 > - **实践转化不足（技能与使用偏低）** 实际日常追踪教育期刊者仅 $28.3\%$，亲身开展科研者仅 $31.8\%$，技能（$M=3.74$）与使用（$M=3.78$）均值显著滞后，呈现出强烈的“高认知、低行动”知行脱节。
 
 > [!factors] 期刊追踪与开展科研对研究素养的双轨赋能效应
-> - **亲身开展科研** 对研究技能产生最大主效应（$F=15.02, p<.001, 	ext{partial } \eta^2=.056$），其次为使用（$\eta^2=.031$）、意识（$\eta^2=.028$）与态度（$\eta^2=.018$），是打破实践能力瓶颈的核心引擎。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|(Kazancı Tınmaz & Sezgin, 2023, p. 13)]]
+> - **亲身开展科研** 对研究技能产生最大主效应（$F=15.02, p<.001, 	ext{partial } \eta^2=.056$），其次为使用（$\eta^2=.031$）、意识（$\eta^2=.028$）与态度（$\eta^2=.018$），是打破实践能力瓶颈的核心引擎。(p. 13)
 > - **追踪教育学术期刊** 对研究使用产生最大主效应（$F=12.11, p=.001, 	ext{partial } \eta^2=.046$），其次为意识（$\eta^2=.037$）与技能（$\eta^2=.034$），对态度无显著影响（$\eta^2=.000$），最强效地驱动日常教学备课与反思应用。
 > - **双轨独立机制** 期刊追踪与开展科研的[[Interaction Effect|交互效应]]在所有维度上均不显著（$p > .27, 	ext{partial } \eta^2 \le .005$），证实阅读文献（输入型）与亲身做研究（输出型）具有独立且差异化的赋能路径，两者互不替代。
 

@@ -72,12 +72,12 @@ updated: '2026-08-27'
 ## 概念辨析
 
 > [!contrast-table] 假设 vs [[Research Question|研究问题]]
-> | 维度 | 假设（Hypothesis） | [[Research Question|研究问题]] |
+> | 维度 | 假设（Hypothesis） | [[Research Question\|研究问题]] |
 > |---|---|---|
-> | 认知功能 | 预测[[Variable|变量]]间关系的方向 | 就变量间关系提问 |
+> | 认知功能 | 预测[[Variable\|变量]]间关系的方向 | 就变量间关系提问 |
 > | 形式 | 陈述句 | 疑问句 |
 > | 统计处理 | 经统计检验被支持或拒绝 | 经数据收集被回答 |
-> | 适用[[Paradigm|范式]] | 主要适用于[[Quantitative Research|量化研究]] | 量化、质性、[[Mixed Methods Research|混合方法]]均适用 |
+> | 适用[[Paradigm\|范式]] | 主要适用于[[Quantitative Research\|量化研究]] | 量化、质性、[[Mixed Methods Research\|混合方法]]均适用 |
 
 ---
 
@@ -160,10 +160,10 @@ Cohen et al. 在 Ch.7 中详细区分了两种假设方向性（[[Argument_Cohen
 在正式假设检验语言中，假设有两种基本形式。[[Null Hypothesis|零假设]]与[[Alternative Hypothesis|备择假设]]构成一对逻辑上互斥的命题，通过统计检验在二者之间做出判断（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, p.140]]）：
 
 > [!contrast-table] 零假设 vs 备择假设
-> | 维度 | [[Null Hypothesis|零假设]]（H₀） | [[Alternative Hypothesis|备择假设]]（H₁） |
+> | 维度 | [[Null Hypothesis\|零假设]]（H₀） | [[Alternative Hypothesis\|备择假设]]（H₁） |
 > |---|---|---|
 > | 核心陈述 | 变量间**没有**关系，或组间**没有**显著差异 | 变量间**存在**关系，或组间**存在**显著差异 |
-> | 典型场景 | 男性和女性在科学成绩上无差异；参与者在前[[Pre-test and Post-test|后测]]中无变化 | 动机与表现之间存在相关；前测与后测之间存在差异 |
+> | 典型场景 | 男性和女性在科学成绩上无差异；参与者在前[[Pre-test and Post-test\|后测]]中无变化 | 动机与表现之间存在相关；前测与后测之间存在差异 |
 > | 逻辑角色 | 被尝试**拒绝**的稻草人，如果被拒绝，则 H₁ 得到支持 | 研究者真正想**支持**的主张 |
 > | 书写形式 | `H₀: ...` | `H₁: ...` |
 
@@ -215,8 +215,8 @@ Kerlinger（1970）指出假设作为研究工具的四重重要性（[[Argument
 > | 形式 | 说明 | 示例 |
 > |---|---|---|
 > | **假设链（interconnected hypotheses）** | 以一系列相互关联的假设陈述理论 | Hopkins (1964) 将影响力过程理论表述为 15 条假设 |
-> | **"如果—那么"逻辑陈述（if-then logic statements）** | 解释为何[[Independent Variable|自变量]]会影响因变量 | Homans (1950): "如果互动频率增加，好感程度也会增加" |
-> | **视觉模型（visual model）** | 将变量关系转化为可视化图示 | 路径分析、[[Causal Modeling|结构方程建模]] |
+> | **"如果—那么"逻辑陈述（if-then logic statements）** | 解释为何[[Independent Variable\|自变量]]会影响因变量 | Homans (1950): "如果互动频率增加，好感程度也会增加" |
+> | **视觉模型（visual model）** | 将变量关系转化为可视化图示 | 路径分析、[[Causal Modeling\|结构方程建模]] |
 
 ---
 

@@ -74,7 +74,7 @@ updated: 2026-08-11
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Research Ethics]] | 概念 | 该声明是研究伦理在[[Visual Research Methods|视觉研究]]情境中的专业化延伸。 |
-> | [[Informed Consent]] | 概念 | 声明将知情同意列为视觉研究的核心伦理环节，回应[[Visual Research Methods|视觉研究方法]]中的同意难题。 |
+> | [[Research Ethics]] | 概念 | 该声明是研究伦理在[[Visual Research Methods\|视觉研究]]情境中的专业化延伸。 |
+> | [[Informed Consent]] | 概念 | 声明将知情同意列为视觉研究的核心伦理环节，回应[[Visual Research Methods\|视觉研究方法]]中的同意难题。 |
 > | [[Anonymity in Research]] | 概念 | 声明的匿名/隐私/保密议题对应视觉图像匿名化中的特殊困难。 |
-> | [[Visual Research Methods]] | 方法 | 声明服务于以照片、影片与[[Artefact|器物]]收集资料的视觉研究者。 |
+> | [[Visual Research Methods]] | 方法 | 声明服务于以照片、影片与[[Artefact\|器物]]收集资料的视觉研究者。 |

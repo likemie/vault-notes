@@ -104,14 +104,14 @@ updated: '2026-07-21'
 > |---|---|---|
 > | **主体（Subject）** | 理论要素 | 参与活动系统的个人或群体，如背负问责压力与改革期待的校长与教师。 |
 > | **客体（Object）** | 理论要素 | 活动系统所指向的意图、目标与动机，如提升考试成绩或推行探究教学。 |
-> | **中介工具（Mediating Tools）** | 理论要素 | 主体用于达成客体的符号与物质工具，如讲授法、测试卷、[[Dialogue in Education|对话]]教学研讨。 |
+> | **中介工具（Mediating Tools）** | 理论要素 | 主体用于达成客体的符号与物质工具，如讲授法、测试卷、[[Dialogue in Education\|对话]]教学研讨。 |
 > | **共同体（Community）** | 理论要素 | 主体所嵌入的社会关系网络，如家长、教育局、社会公众与学生。 |
 > | **规则（Rules）** | 理论要素 | 规范活动系统运行的显性或隐性制度，如绩效考核、升学规定与评课标准。 |
-> | **劳动分工（Division of Labor）** | 理论要素 | 共同体内成员之间的任务分配、权力结构与风险担保机制。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 590)]] |
-> | **矛盾（Contradictions）** | 解释机制 | 活动系统内部或系统之间出现的结构性张力，是触发变革与创新的根本动力。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 591)]] |
-> | **边界跨越（Boundary Crossing）** | [[Praxis|实践]]过程 | 行动者进入[[Heterogeneity|异质性]]活动系统、引入外部中介工具并协商新含义的实践过程。 |
-> | **共享客体（Shared Object）** | 核心概念 | 多个活动系统相遇时协商建构的共同意图与目标，如将 LCE 解码为攻克高阶考题。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 598–600)]] |
-> | **扩展性改造（Expansive Transformation）** | 核心成果 | 当共享客体确立后，活动系统要素发生的全面协同重组与文化升级。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 600–602)]] |
+> | **劳动分工（Division of Labor）** | 理论要素 | 共同体内成员之间的任务分配、权力结构与风险担保机制。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, p. 590)]] |
+> | **矛盾（Contradictions）** | 解释机制 | 活动系统内部或系统之间出现的结构性张力，是触发变革与创新的根本动力。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, p. 591)]] |
+> | **边界跨越（Boundary Crossing）** | [[Praxis\|实践]]过程 | 行动者进入[[Heterogeneity\|异质性]]活动系统、引入外部中介工具并协商新含义的实践过程。 |
+> | **共享客体（Shared Object）** | 核心概念 | 多个活动系统相遇时协商建构的共同意图与目标，如将 LCE 解码为攻克高阶考题。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, pp. 598–600)]] |
+> | **扩展性改造（Expansive Transformation）** | 核心成果 | 当共享客体确立后，活动系统要素发生的全面协同重组与文化升级。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, pp. 600–602)]] |
 
 ---
 

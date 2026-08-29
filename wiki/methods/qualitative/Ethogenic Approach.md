@@ -116,8 +116,8 @@ updated: 2026-07-23
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Accounts]] | 子方法 | 陈述法是人因取向中引发和分析参与者言语说明的核心技术 |
-> | [[Account Gathering]] | 子方法 | 陈述收集是将人因取向原则[[Operationalization|操作化]]为具体研究程序的框架 |
-> | [[Experience-Sampling Method]] | 子方法 | [[Experience Sampling Method|经验取样法]]是基于人因取向原则发展的一种具体陈述引发和分析技术 |
+> | [[Account Gathering]] | 子方法 | 陈述收集是将人因取向原则[[Operationalization\|操作化]]为具体研究程序的框架 |
+> | [[Experience-Sampling Method]] | 子方法 | [[Experience Sampling Method\|经验取样法]]是基于人因取向原则发展的一种具体陈述引发和分析技术 |
 > | [[Social Episodes]] | 核心概念 | 社会片段是人因研究的基本分析单位 |
 > | [[Ethnomethodology]] | 理论基础 | 俗民方法学同样关注日常活动如何通过共享知识变得可理解和可说明 |
 

@@ -28,7 +28,8 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Predictive Validity]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Multiple-Choice Questions]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -62,7 +63,7 @@ updated: 2026-08-27
 >
 > | 维度 | 题项占比 | 测量内容 | 计分方式 |
 > |---|---|---|---|
-> | **文本基础理解（Foundations of Comprehension）** | ~30% | 理解复杂学术文本的核心论点、识别修辞意图与隐含[[Hypothesis|假设]]。 | 机器自动计分（118–132 量表分） |
+> | **文本基础理解（Foundations of Comprehension）** | ~30% | 理解复杂学术文本的核心论点、识别修辞意图与隐含[[Hypothesis\|假设]]。 | 机器自动计分（118–132 量表分） |
 > | **文本内逻辑推理（Reasoning Within the Text）** | ~30% | 辨析论点与论据之间的逻辑结构、评估证据强度、识别推理谬误。 | 机器自动计分 |
 > | **跨情境逻辑推演（Reasoning Beyond the Text）** | ~40% | 将论述推演至全新情境、评估引入新证据对原结论的强化或削弱效应。 | 机器自动计分 |
 
@@ -71,7 +72,7 @@ updated: 2026-08-27
 ## 题项与作答方式
 
 > [!instrument-items] 作答规则
-> - **题项形式** 9 篇涵盖哲学、伦理学、人类学、社会学与艺术批评的长篇复杂文章，每篇附带 5–7 道 4 选 1 单项选择题（完全不依赖医学先验知识）。
+> - **题项形式** 9 篇涵盖哲学、伦理学、人类学、社会学与艺术批评的长篇复杂文章，每篇附带 5–7 道 4 选 1 单项[[Multiple-Choice Questions|选择题]]（完全不依赖医学先验知识）。
 > - **计分规则** CARS 分数区间为 118（最低）至 132（最高），总分中位数设为 125。
 
 ---
@@ -83,7 +84,7 @@ updated: 2026-08-27
 >
 > | 研究 | 工具版本 | 样本与用途 | 测量属性 | 关键结果 |
 > |---|---|---|---|---|
-> | [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] | MCAT 2015 新版 CARS 模块 | [[OECD]] 报告综述高利害准入考试在测量跨学科高级思辨能力中的应用典范 | 专业入学标准化测验 | 证实 CARS 模块能极其有效地区分考生的批判性文本解释与论证推理潜能，展现出高度的学业[[Predictive Validity|预测效度]] |
+> | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] | MCAT 2015 新版 CARS 模块 | [[OECD]] 报告综述高利害准入考试在测量跨学科高级思辨能力中的应用典范 | 专业入学标准化测验 | 证实 CARS 模块能极其有效地区分考生的批判性文本解释与论证推理潜能，展现出高度的学业[[Predictive Validity\|预测效度]] |
 
 ---
 

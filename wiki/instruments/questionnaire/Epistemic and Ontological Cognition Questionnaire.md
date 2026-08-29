@@ -59,7 +59,7 @@ updated: 2026-08-15
 >
 > | 维度 | 题项数 | 测量内容 | 计分方式 |
 > |---|---|---|---|
-> | 简单与确定知识（Simple and Certain Knowledge） | 5 | 将知识视作简单、绝对、静态的[[Ontology|本体论]]倾向 | 量表分或因子模型分 |
+> | 简单与确定知识（Simple and Certain Knowledge） | 5 | 将知识视作简单、绝对、静态的[[Ontology\|本体论]]倾向 | 量表分或因子模型分 |
 > | 权威辩护（Justification by Authority） | 4 | 以外部权威意见作为知识辩护依据的倾向 | 量表分或因子模型分 |
 > | 个人辩护（Personal Justification） | 4 | 依赖个人经验作为知识辩护依据的倾向 | 量表分或因子模型分 |
 
@@ -79,11 +79,11 @@ updated: 2026-08-15
 >
 > | 编号 | 题项 | 作答选项 | 计分 | 来源 |
 > |---|---|---|---|---|
-> | 1 | In [math/history], the truth means different things to different people.<br>**在[数学/历史]中，真相对不同的人意味着不同的事物。** | 1-6 | 反向计分 | [[Argument_Greene_2010_JEP|Greene et al. (2010, p. 251)]] |
-> | 2 | To know [math/history] well, you need to memorize what you are taught.<br>**要学好[数学/历史]，你需要记住老师教给你的东西。** | 1-6 | 正向计分 | [[Argument_Greene_2010_JEP|Greene et al. (2010, p. 251)]] |
-> | 3 | In [math/history], what is a fact today will be a fact tomorrow.<br>**在[数学/历史]中，今天的事实到了明天依然是事实。** | 1-6 | 正向计分 | [[Argument_Greene_2010_JEP|Greene et al. (2010, p. 251)]] |
-> | 4 | [Mathematicians'/Historians'] knowledge of the facts about [math/history] does not change.<br>**[数学家/历史学家]对于[数学/历史]事实的认识是不会改变的。** | 1-6 | 正向计分 | [[Argument_Greene_2010_JEP|Greene et al. (2010, p. 251)]] |
-> | 5 | [Math/History] is so complex that humans will never really understand it.<br>**[数学/历史]太过复杂，人类永远无法真正理解它。** | 1-6 | 反向计分 | [[Argument_Greene_2010_JEP|Greene et al. (2010, p. 251)]] |
+> | 1 | In [math/history], the truth means different things to different people.<br>**在[数学/历史]中，真相对不同的人意味着不同的事物。** | 1-6 | 反向计分 | [[Argument_Greene_2010_JEP\|Greene et al. (2010, p. 251)]] |
+> | 2 | To know [math/history] well, you need to memorize what you are taught.<br>**要学好[数学/历史]，你需要记住老师教给你的东西。** | 1-6 | 正向计分 | [[Argument_Greene_2010_JEP\|Greene et al. (2010, p. 251)]] |
+> | 3 | In [math/history], what is a fact today will be a fact tomorrow.<br>**在[数学/历史]中，今天的事实到了明天依然是事实。** | 1-6 | 正向计分 | [[Argument_Greene_2010_JEP\|Greene et al. (2010, p. 251)]] |
+> | 4 | [Mathematicians'/Historians'] knowledge of the facts about [math/history] does not change.<br>**[数学家/历史学家]对于[数学/历史]事实的认识是不会改变的。** | 1-6 | 正向计分 | [[Argument_Greene_2010_JEP\|Greene et al. (2010, p. 251)]] |
+> | 5 | [Math/History] is so complex that humans will never really understand it.<br>**[数学/历史]太过复杂，人类永远无法真正理解它。** | 1-6 | 反向计分 | [[Argument_Greene_2010_JEP\|Greene et al. (2010, p. 251)]] |
 
 ### 权威辩护
 
@@ -92,10 +92,10 @@ updated: 2026-08-15
 >
 > | 编号 | 题项 | 作答选项 | 计分 | 来源 |
 > |---|---|---|---|---|
-> | 6 | If a [mathematician/historian] says something is a fact, I believe it.<br>**如果[数学家/历史学家]说某件事是事实，我就会相信。** | 1-6 | 正向计分 | [[Argument_Greene_2010_JEP|Greene et al. (2010, p. 251)]] |
-> | 7 | Things written in [math/history] textbooks are true.<br>**写在[数学/历史]教科书上的内容都是真实的。** | 1-6 | 正向计分 | [[Argument_Greene_2010_JEP|Greene et al. (2010, p. 251)]] |
-> | 8 | I believe everything I learn in [math/history] class.<br>**我相信在[数学/历史]课上学到的所有东西。** | 1-6 | 正向计分 | [[Argument_Greene_2010_JEP|Greene et al. (2010, p. 251)]] |
-> | 9 | If a [math/history] teacher says something is a fact, I believe it.<br>**如果[数学/历史]老师说某件事是事实，我就会相信。** | 1-6 | 正向计分 | [[Argument_Greene_2010_JEP|Greene et al. (2010, p. 251)]] |
+> | 6 | If a [mathematician/historian] says something is a fact, I believe it.<br>**如果[数学家/历史学家]说某件事是事实，我就会相信。** | 1-6 | 正向计分 | [[Argument_Greene_2010_JEP\|Greene et al. (2010, p. 251)]] |
+> | 7 | Things written in [math/history] textbooks are true.<br>**写在[数学/历史]教科书上的内容都是真实的。** | 1-6 | 正向计分 | [[Argument_Greene_2010_JEP\|Greene et al. (2010, p. 251)]] |
+> | 8 | I believe everything I learn in [math/history] class.<br>**我相信在[数学/历史]课上学到的所有东西。** | 1-6 | 正向计分 | [[Argument_Greene_2010_JEP\|Greene et al. (2010, p. 251)]] |
+> | 9 | If a [math/history] teacher says something is a fact, I believe it.<br>**如果[数学/历史]老师说某件事是事实，我就会相信。** | 1-6 | 正向计分 | [[Argument_Greene_2010_JEP\|Greene et al. (2010, p. 251)]] |
 
 ### 个人辩护
 
@@ -104,10 +104,10 @@ updated: 2026-08-15
 >
 > | 编号 | 题项 | 作答选项 | 计分 | 来源 |
 > |---|---|---|---|---|
-> | 10 | In [math/history], everyone's knowledge can be different because there is no one absolutely right answer.<br>**在[数学/历史]中，每个人的认识都可能不同，因为不存在唯一绝对正确的答案。** | 1-6 | 正向计分 | [[Argument_Greene_2010_JEP|Greene et al. (2010, p. 251)]] |
-> | 11 | In [math/history], if you believe something is a fact, no one can prove to you that you are wrong.<br>**在[数学/历史]中，如果你相信某件事是事实，没有人能证明你是错的。** | 1-6 | 正向计分 | [[Argument_Greene_2010_JEP|Greene et al. (2010, p. 251)]] |
-> | 12 | In [math/history], what's a fact depends upon a person's point of view.<br>**在[数学/历史]中，什么是事实取决于个人的观点。** | 1-6 | 正向计分 | [[Argument_Greene_2010_JEP|Greene et al. (2010, p. 251)]] |
-> | 13 | [Mathematical/Historical] knowledge is all factual and there are no opinions.<br>**[数学/历史]知识全都是事实性的，不存在主观观点。** | 1-6 | 反向计分 | [[Argument_Greene_2010_JEP|Greene et al. (2010, p. 251)]] |
+> | 10 | In [math/history], everyone's knowledge can be different because there is no one absolutely right answer.<br>**在[数学/历史]中，每个人的认识都可能不同，因为不存在唯一绝对正确的答案。** | 1-6 | 正向计分 | [[Argument_Greene_2010_JEP\|Greene et al. (2010, p. 251)]] |
+> | 11 | In [math/history], if you believe something is a fact, no one can prove to you that you are wrong.<br>**在[数学/历史]中，如果你相信某件事是事实，没有人能证明你是错的。** | 1-6 | 正向计分 | [[Argument_Greene_2010_JEP\|Greene et al. (2010, p. 251)]] |
+> | 12 | In [math/history], what's a fact depends upon a person's point of view.<br>**在[数学/历史]中，什么是事实取决于个人的观点。** | 1-6 | 正向计分 | [[Argument_Greene_2010_JEP\|Greene et al. (2010, p. 251)]] |
+> | 13 | [Mathematical/Historical] knowledge is all factual and there are no opinions.<br>**[数学/历史]知识全都是事实性的，不存在主观观点。** | 1-6 | 反向计分 | [[Argument_Greene_2010_JEP\|Greene et al. (2010, p. 251)]] |
 
 ---
 
@@ -118,7 +118,7 @@ updated: 2026-08-15
 >
 > | 研究 | 工具版本 | 样本与用途 | 测量属性 | 关键结果 |
 > |---|---|---|---|---|
-> | [[Argument_Greene_2010_JEP|Greene et al. (2010)]] | 原始版 | 740名中学生至研究生，评估[[Epistemology|认识论]]与[[Ontology|本体论]]信念。 | [[Confirmatory Factor Analysis|CFA]]表明结构合理，H系数多数达标，个别简单知识题项偏弱；揭示显著领域特殊性。 | EOCQ 得分在[[Factor Mixture Modeling|因子混合模型]]下聚类出特定的认识论发展阶段群组，群组成员分布与受教育年限和学业成绩相关。 |
+> | [[Argument_Greene_2010_JEP\|Greene et al. (2010)]] | 原始版 | 740名中学生至研究生，评估[[Epistemology\|认识论]]与[[Ontology\|本体论]]信念。 | [[Confirmatory Factor Analysis\|CFA]]表明结构合理，H系数多数达标，个别简单知识题项偏弱；揭示显著领域特殊性。 | EOCQ 得分在[[Factor Mixture Modeling\|因子混合模型]]下聚类出特定的认识论发展阶段群组，群组成员分布与受教育年限和学业成绩相关。 |
 
 ---
 
@@ -129,4 +129,4 @@ updated: 2026-08-15
 >
 > | 版本 | 语言与地区 | 目标人群 | 题项数 | 主要变化 | 来源 |
 > |---|---|---|---|---|---|
-> | 原始版 | 英文 | 中学生至研究生 | 26 | 原始工具结构 | [[Argument_Greene_2010_JEP|Greene et al. (2010)]] |
+> | 原始版 | 英文 | 中学生至研究生 | 26 | 原始工具结构 | [[Argument_Greene_2010_JEP\|Greene et al. (2010)]] |

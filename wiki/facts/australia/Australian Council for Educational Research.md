@@ -9,7 +9,7 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 8
+fact_related_count: 9
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -24,7 +24,8 @@ related_concepts:
   - "[[Conflict of Interest in Research]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Multiple-Choice Questions]]"
 related_persons: []
 related_facts:
   - "[[LANTITE]]"
@@ -79,7 +80,7 @@ updated: 2026-06-16
 
 > [!tension] 争议焦点
 > - **非政府中介的[[Conflict of Interest in Research|利益冲突]]** [[LANTITE]] 作为守门统考，其设计与运行均不公开，而其承办商 ACER 每年从该考试中赚取高额财务回报，导致外部测试的客观合法性受到“中介机构利益变现”的根本性质疑。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
-> - **标准化问责的机械性** 被批评与 [[Australian Institute for Teaching and School Leadership|AITSL]]、[[Australian Education Research Organisation|AERO]] 相互呼应，用简单的、脱离实际复杂课堂情境的标准化选择题统考，定义并垄断了对什么是“合格职前教师”的解释权。
+> - **标准化问责的机械性** 被批评与 [[Australian Institute for Teaching and School Leadership|AITSL]]、[[Australian Education Research Organisation|AERO]] 相互呼应，用简单的、脱离实际复杂课堂情境的标准化[[Multiple-Choice Questions|选择题]]统考，定义并垄断了对什么是“合格职前教师”的解释权。
 
 ---
 
@@ -88,7 +89,7 @@ updated: 2026-06-16
 > [!ref-table] 相关条目索引
 > | 条目 | 关系 | 来源 |
 > |---|---|---|
-> | [[LANTITE]] | ACER 负责运营并据此获取数百万营业额的全国初始教师毕业门槛统考。 | ([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]]) |
-> | [[Teacher Education Ministerial Advisory Group|TEMAG]] | 建议推行 LANTITE 并将 ACER 确立为主要统考管理实体的改革政策文本。 | |
-> | [[Australian Education Research Organisation]] | 共同编织澳大利亚[[Evidence-Based Education|循证教育]]生态并影响大纲改造的证据中介网络节点。 | ([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]]) |
+> | [[LANTITE]] | ACER 负责运营并据此获取数百万营业额的全国初始教师毕业门槛统考。 | ([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]]) |
+> | [[Teacher Education Ministerial Advisory Group\|TEMAG]] | 建议推行 LANTITE 并将 ACER 确立为主要统考管理实体的改革政策文本。 | |
+> | [[Australian Education Research Organisation]] | 共同编织澳大利亚[[Evidence-Based Education\|循证教育]]生态并影响大纲改造的证据中介网络节点。 | ([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 8]]) |
 > | [[Australian Institute for Teaching and School Leadership]] | 将大纲与准入挂钩，配合 ACER 测试结果进行准入认证的教师监管机构。 | |

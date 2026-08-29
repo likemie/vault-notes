@@ -83,12 +83,12 @@ updated: 2026-08-25
 ## 概念辨析
 
 > [!contrast-table] SE vs 邻近概念
-> | 维度 | [[Sampling Error|标准误]]（SE） | 标准差（SD） | [[Sampling Error|抽样误差]] |
+> | 维度 | [[Sampling Error\|标准误]]（SE） | 标准差（SD） | [[Sampling Error\|抽样误差]] |
 > |---|---|---|---|
 > | 描述对象 | 样本统计量的估计精度 | 原始数据的离散程度 | 样本值与总体值的具体差距 |
 > | 公式 | $SE = SD/\sqrt{N}$ | $SD = \sqrt{\sum(x_i - \bar{x})^2/(n-1)}$ | $\bar{x} - \mu$ |
 > | 随 $N$ 增大 | 减小（$\propto 1/\sqrt{N}$） | 趋于稳定 | 减小 |
-> | 核心用途 | 构建 [[Confidence Interval|CI]]、显著性检验 | 描述数据分布 | 评估样本代表性 |
+> | 核心用途 | 构建 [[Confidence Interval\|CI]]、显著性检验 | 描述数据分布 | 评估样本代表性 |
 
 ---
 

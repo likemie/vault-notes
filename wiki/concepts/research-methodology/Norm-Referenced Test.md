@@ -62,7 +62,7 @@ updated: 2026-08-01
 ## 概念辨析
 
 > [!tension-table] 常模参照与[[Criterion-Referenced Test|标准参照]]采用不同的总结性评估逻辑
-> | 维度 | [[Norm-Referenced Test|常模参照]] | [[Criterion-Referenced Test|标准参照]] |
+> | 维度 | [[Norm-Referenced Test\|常模参照]] | [[Criterion-Referenced Test\|标准参照]] |
 > |---|---|---|
 > | **核心目的** | 比较个体差异，确定学生相对于他人或总体常模的位置 | 判断学生学会了什么，以及表现达到何种质量 |
 > | **评估对象** | 被视为相对稳定的个人特征 | 教学后形成的实际表现 |
@@ -133,9 +133,9 @@ updated: 2026-08-01
 > [!contrast-table] 常模参照的主要命题
 > | 命题 | 核心判断 | 适用情境 | 代表来源 |
 > |---|---|---|---|
-> | **差异识别** | 排名要求共同尺度、分数变异和有区分力的题目 | 选拔、排名、分流 | [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]]; [[Argument_Biggs_1999_HERD|Biggs (1999)]] |
-> | **模型错位** | 稳定差异模型不能直接替代对学习改变与表现质量的判断 | 课程学习评估 | [[Argument_Biggs_1999_HERD|Biggs (1999)]] |
-> | **曲线约束** | 预定分布把维持差异变成制度目标，使[[Constructive Alignment|建构性对齐]]无法成立 | 大学总结性评分 | [[Argument_Biggs_1999_HERD|Biggs (1999)]] |
+> | **差异识别** | 排名要求共同尺度、分数变异和有区分力的题目 | 选拔、排名、分流 | [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]]; [[Argument_Biggs_1999_HERD\|Biggs (1999)]] |
+> | **模型错位** | 稳定差异模型不能直接替代对学习改变与表现质量的判断 | 课程学习评估 | [[Argument_Biggs_1999_HERD\|Biggs (1999)]] |
+> | **曲线约束** | 预定分布把维持差异变成制度目标，使[[Constructive Alignment\|建构性对齐]]无法成立 | 大学总结性评分 | [[Argument_Biggs_1999_HERD\|Biggs (1999)]] |
 
 ---
 

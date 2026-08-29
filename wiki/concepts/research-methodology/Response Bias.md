@@ -9,7 +9,7 @@ aliases:
 summary: "研究参与者的回应受其身份、文化、动机或对研究情境的反应而系统性偏离真实值的现象，涵盖调查无回应偏差、跨文化回应模式差异、访谈 acquiescence 以及测验情境效应等多种形式"
 type: concept
 domain: "research-methodology"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Hawthorne Effect]]"
 related_methods:
   - "[[Survey Research]]"
+  - "[[Multiple-Choice Questions]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
@@ -63,10 +64,10 @@ updated: 2026-06-23
 > [!contrast-table] 回应偏差的类型辨析
 > | 类型 | 偏差来源 | 核心机制 | 典型场景 |
 > |---|---|---|---|
-> | 无回应偏差 | 部分人群根本不回应 | 非回应者在关键[[Variable|变量]]上系统不同于回应者 | 邮寄[[Questionnaire|问卷]]回收率低 |
+> | 无回应偏差 | 部分人群根本不回应 | 非回应者在关键[[Variable\|变量]]上系统不同于回应者 | 邮寄[[Questionnaire\|问卷]]回收率低 |
 > | 社会期望偏差 | 回应者修饰回答 | 为呈现正面形象而扭曲回答 | 敏感话题调查 |
 > | 跨文化回应偏差 | 文化回应模式 | 不同文化成员以系统不同方式使用量表 | 跨文化比较研究 |
-> | 回应性偏差（acquiescence） | 受访者默认同意 | 倾向于说"是"而不管问题内容 | 访谈和[[Rating Scale|态度量表]] |
+> | 回应性偏差（acquiescence） | 受访者默认同意 | 倾向于说"是"而不管问题内容 | 访谈和[[Rating Scale\|态度量表]] |
 > | 测验情境偏差 | 测验条件影响表现 | 动机、关系、氛围改变测验结果 | 教育评估 |
 
 ---
@@ -135,7 +136,7 @@ updated: 2026-06-23
 > - **[[Hawthorne Effect|霍桑效应]]** 简单告知学生"这是评估情境"就足以干扰表现
 > - **学生对考官期望的感知（Haladyna, 1997; Stiggins, 2001）**——学生倾向于给出他们认为教师期望的回答
 > - **文化、族裔和性别背景** 影响评估任务对学生的有意义程度——有意义性影响表现
-> - **性别与题目类型的交互** 论文题涉及非个人话题偏向男孩，涉及个人和人际话题偏向女孩（Haladyna, 1997）；男孩在多项选择题上表现更好，女孩在论文类问题表现更好
+> - **性别与题目类型的交互** 论文题涉及非个人话题偏向男孩，涉及个人和人际话题偏向女孩（Haladyna, 1997）；男孩在[[Multiple-Choice Questions|多项选择题]]上表现更好，女孩在论文类问题表现更好
 >
 > [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 220–226)]]
 

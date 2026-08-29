@@ -63,6 +63,6 @@ updated: 2026-08-16
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]] | 论著 | 与 Cohen、Morrison 合著的教育研究方法综合教材。 |
+> | [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011]] | 论著 | 与 Cohen、Morrison 合著的教育研究方法综合教材。 |
 > | [[Louis Cohen]] | 人物 | 教材合著者。 |
 > | [[Keith Morrison]] | 人物 | 教材合著者。 |

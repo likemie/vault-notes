@@ -82,13 +82,13 @@ updated: 2026-08-24
 ## 经典单水平 Egger 回归 vs 现代多水平 Multilevel Egger's Test
 
 > [!contrast-table] 经典单水平 Egger 回归与第三代多水平 Egger 检验的代际演进对比
-> | 比较维度 | 经典单水平 Egger 回归 (Egger et al., 1997) | 现代多水平 Egger 检验 ([[Multilevel Egger's Test|Rodgers & Pustejovsky, 2021]]) |
+> | 比较维度 | 经典单水平 Egger 回归 (Egger et al., 1997) | 现代多水平 Egger 检验 ([[Multilevel Egger's Test\|Rodgers & Pustejovsky, 2021]]) |
 > |---|---|---|
-> | 方法代际 | 第二代标准[[Meta-analysis|元分析]]与[[Umbrella Review|伞状综述]]规范方法 | 第三代现代多水平与集群稳健元分析方法 |
-> | 数据依赖结构 | 假定每项研究/[[Effect Size|效应量]]**完全相互独立** | 允许存在**同一研究多重产出依赖**与**跨元分析嵌套集群（Cluster-Dependence）** |
+> | 方法代际 | 第二代标准[[Meta-analysis\|元分析]]与[[Umbrella Review\|伞状综述]]规范方法 | 第三代现代多水平与集群稳健元分析方法 |
+> | 数据依赖结构 | 假定每项研究/[[Effect Size\|效应量]]**完全相互独立** | 允许存在**同一研究多重产出依赖**与**跨元分析嵌套集群（Cluster-Dependence）** |
 > | 回归方程设定 | $\frac{y_i}{\text{SE}_i} = a + b \left(\frac{1}{\text{SE}_i}\right) + \epsilon_i$ | $y_{ij} = \beta_0 + \beta_{\text{SE}} \text{SE}_{ij} + \zeta_{(3)j} + \zeta_{(2)ij} + \epsilon_{ij}$ |
 > | 方差分解 | 单水平普通/加权残差方差 | **三水平方差分解（Level 1 抽样 / Level 2 簇内 / Level 3 簇间）** |
-> | [[Standard Error|标准误]]校正 | 经典理论模型标准误（聚类数据下会严重低估） | 结合 **[[Robust Variance Estimation|稳健方差估计（RVE）]]** 提供渐近无偏三明治标准误 |
+> | [[Standard Error\|标准误]]校正 | 经典理论模型标准误（聚类数据下会严重低估） | 结合 **[[Robust Variance Estimation\|稳健方差估计（RVE）]]** 提供渐近无偏三明治标准误 |
 > | 偏倚校正效应量 | 仅输出偏倚检验显著性 $t$ 值，**不直接输出无偏真实效应量** | **截距项 $\beta_0$ 直接作为剔除样本量偏倚后的“无偏基准效应量”** |
 
 ---

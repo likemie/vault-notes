@@ -62,20 +62,20 @@ updated: 2026-06-22
 >
 > | 类型 | 英文 | 核心特征 | 典型应用 |
 > |---|---|---|---|
-> | 简单随机抽样 | [[Random Sampling|Simple Random Sampling]] | 每个成员等概率、独立选择；需完整[[Sampling Frame|抽样框]] | 有完整名单的小规模研究 |
-> | [[Systematic Sampling|系统抽样]] | Systematic Sampling | 随机起点 + 固定频率间隔；操作简便 | 有完整名单的大规模抽样 |
-> | [[Stratified Sampling|随机分层抽样]] | Stratified Sampling | 按特征分层后在层内随机抽样；确保子组代表性 | 已知总体关键特征，需均衡比较子组 |
-> | [[Cluster Sampling|整群抽样]] | Cluster Sampling | 选择地理/组织群组，测试群内所有成员 | 总体大且分散，逐一接触不可行 |
-> | [[Stage Sampling|阶段抽样]] | Stage Sampling | 从样本中再抽取样本，多阶[[Random Assignment|随机化]] | 总体嵌套在多层组织中，无完整个体名单 |
-> | [[Multi-phase Sampling|多阶段抽样]] | Multi-phase Sampling | 各阶段目的不同，基于不同标准筛选 | 需多重筛选标准的复杂抽样 |
+> | 简单随机抽样 | [[Random Sampling\|Simple Random Sampling]] | 每个成员等概率、独立选择；需完整[[Sampling Frame\|抽样框]] | 有完整名单的小规模研究 |
+> | [[Systematic Sampling\|系统抽样]] | Systematic Sampling | 随机起点 + 固定频率间隔；操作简便 | 有完整名单的大规模抽样 |
+> | [[Stratified Sampling\|随机分层抽样]] | Stratified Sampling | 按特征分层后在层内随机抽样；确保子组代表性 | 已知总体关键特征，需均衡比较子组 |
+> | [[Cluster Sampling\|整群抽样]] | Cluster Sampling | 选择地理/组织群组，测试群内所有成员 | 总体大且分散，逐一接触不可行 |
+> | [[Stage Sampling\|阶段抽样]] | Stage Sampling | 从样本中再抽取样本，多阶[[Random Assignment\|随机化]] | 总体嵌套在多层组织中，无完整个体名单 |
+> | [[Multi-phase Sampling\|多阶段抽样]] | Multi-phase Sampling | 各阶段目的不同，基于不同标准筛选 | 需多重筛选标准的复杂抽样 |
 
 ## 概念辨析
 
 > [!contrast-table] 随机抽样 vs [[Random Assignment|随机分配]]
-> | 维度 | 随机抽样（Random Sampling） | [[Random Assignment|随机分配]]（Random Assignment） |
+> | 维度 | 随机抽样（Random Sampling） | [[Random Assignment\|随机分配]]（Random Assignment） |
 > |---|---|---|
 > | 问题 | **谁**进入样本 | 已入样本的人**如何**分配到各条件 |
-> | 目标 | 样本 → 总体推广（[[External Validity|外部效度]]） | 消除组间系统性偏差，支持[[Causality|因果推断]]（[[Internal Validity|内部效度]]） |
+> | 目标 | 样本 → 总体推广（[[External Validity\|外部效度]]） | 消除组间系统性偏差，支持[[Causality\|因果推断]]（[[Internal Validity\|内部效度]]） |
 > | 可独立使用 | 是 | 是 |
 
 ## 适用场景

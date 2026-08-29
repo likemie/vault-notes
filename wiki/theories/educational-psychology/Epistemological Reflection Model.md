@@ -65,11 +65,11 @@ updated: 2026-08-14
 > 
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
-> | [[Absolute Knowing|绝对认知]]（Absolute knowing） | 阶段 | 发展的起点，认为知识是确定无疑的，由外部权威掌握。 |
-> | [[Transitional Knowing|过渡认知]]（Transitional knowing） | 阶段 | 发展的第二步，发现权威并不全知，开始接受知识的不确定性。 |
-> | [[Independent Knowing|独立认知]]（Independent knowing） | 阶段 | 发展的第三步，质疑权威的垄断地位，认为所有人的个人意见同样有效。 |
-> | [[Contextual Knowing|语境认知]]（Contextual knowing） | 阶段 | 发展的最高阶，能够在具体语境中根据证据权衡观点优劣，知识是基于新证据不断演变的。 |
-> | 学习者角色与评价预期 | 边缘构件 | 模型在考察[[Epistemology|认识论]]时，不仅测量知识本身，还测量了学生对同伴角色、教师教学和测验方式的感知。 |
+> | [[Absolute Knowing\|绝对认知]]（Absolute knowing） | 阶段 | 发展的起点，认为知识是确定无疑的，由外部权威掌握。 |
+> | [[Transitional Knowing\|过渡认知]]（Transitional knowing） | 阶段 | 发展的第二步，发现权威并不全知，开始接受知识的不确定性。 |
+> | [[Independent Knowing\|独立认知]]（Independent knowing） | 阶段 | 发展的第三步，质疑权威的垄断地位，认为所有人的个人意见同样有效。 |
+> | [[Contextual Knowing\|语境认知]]（Contextual knowing） | 阶段 | 发展的最高阶，能够在具体语境中根据证据权衡观点优劣，知识是基于新证据不断演变的。 |
+> | 学习者角色与评价预期 | 边缘构件 | 模型在考察[[Epistemology\|认识论]]时，不仅测量知识本身，还测量了学生对同伴角色、教师教学和测验方式的感知。 |
 
 ---
 

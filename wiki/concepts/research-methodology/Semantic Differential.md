@@ -51,13 +51,13 @@ updated: 2026-07-21
 ## 概念辨析
 
 > [!contrast-table] 语义差异量表与[[Likert Scale|李克特量表]]的对比
-> | 维度 | 语义差异量表 | [[Likert Scale|李克特量表]] |
+> | 维度 | 语义差异量表 | [[Likert Scale\|李克特量表]] |
 > |---|---|---|
 > | 回应方式 | 在双极形容词之间标记位置 | 对陈述表达同意程度 |
 > | 测量对象 | 对象在语义空间中的隐含意义 | 对特定陈述的态度强度 |
 > | 量表形式 | 形容词 ←→ 反义词的连续体 | 有序的等级选项（如强烈不同意至强烈同意） |
 > | 典型标度 | 通常为七点 | 通常为五或七点 |
-> | 核心[[Hypothesis|假设]] | 双极性（bipolarity） | 单维性（unidimensionality） |
+> | 核心[[Hypothesis\|假设]] | 双极性（bipolarity） | 单维性（unidimensionality） |
 > | 开发者 | Osgood, Suci & Tannenbaum（1957） | Rensis Likert（1932） |
 
 > [!boundary]- 概念边界

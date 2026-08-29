@@ -136,8 +136,8 @@ updated: 2026-07-11
 > [!ref-table] 相关方法
 > | 方法 | 关系 | 区别 |
 > |---|---|---|
-> | [[Participatory Research]] | [[Praxis|实践]]延伸 | 意识形态批判侧重分析权力运作，参与式研究侧重社区行动与赋权。 |
-> | [[Feminist Research]] | 分支应用 | 女性主义研究将意识形态批判应用于性别维度，系统揭示父权制[[Knowledge Production|知识生产]]的压迫。 |
+> | [[Participatory Research]] | [[Praxis\|实践]]延伸 | 意识形态批判侧重分析权力运作，参与式研究侧重社区行动与赋权。 |
+> | [[Feminist Research]] | 分支应用 | 女性主义研究将意识形态批判应用于性别维度，系统揭示父权制[[Knowledge Production\|知识生产]]的压迫。 |
 
 ---
 

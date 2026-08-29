@@ -57,7 +57,7 @@ updated: 2026-07-19
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Participatory Action Research]] | 方法 | 提出 PAR 五项原则（1992）：明确的社会政治意图、大众参与、知识作为社会转型动因、[[Critical Theory|批判理论]][[Epistemology|认识论]]基础、意识提升 |
+> | [[Participatory Action Research]] | 方法 | 提出 PAR 五项原则（1992）：明确的社会政治意图、大众参与、知识作为社会转型动因、[[Critical Theory\|批判理论]][[Epistemology\|认识论]]基础、意识提升 |
 > | [[Critical Theory]] | 理论 | 将 PAR 的认识论基础定位在批判理论对主客体关系的批判上 |
 
 ---

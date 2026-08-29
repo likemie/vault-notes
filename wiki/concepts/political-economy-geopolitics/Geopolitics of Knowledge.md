@@ -126,11 +126,11 @@ updated: 2026-08-20
 ## 概念辨析
 
 > [!contrast-table] 概念边界比较
-> | 维度 | 知识地缘政治（GPK） | [[Classical Geopolitics|古典地缘政治]] | 地缘经济学 |
+> | 维度 | 知识地缘政治（GPK） | [[Classical Geopolitics\|古典地缘政治]] | 地缘经济学 |
 > |------|---------------------|----------------------------------------|-----------|
 > | **分析对象** | 知识、创新、高等教育 | 领土、军事力量、自然资源 | 贸易、投资、市场结构 |
-> | **空间概念** | [[Relational Space|关系性空间]]，通过社会关系网络构成 | 领土性，民族国家固定边界 | 市场空间，效率与比较优势驱动 |
-> | **核心机制** | [[Knowledge-Based Economization|知识经济化]]、政治想象、认识论治理 | 权力平衡、地理决定论、势力范围 | 相对收益、贸易壁垒、产业政策 |
+> | **空间概念** | [[Relational Space\|关系性空间]]，通过社会关系网络构成 | 领土性，民族国家固定边界 | 市场空间，效率与比较优势驱动 |
+> | **核心机制** | [[Knowledge-Based Economization\|知识经济化]]、政治想象、认识论治理 | 权力平衡、地理决定论、势力范围 | 相对收益、贸易壁垒、产业政策 |
 > | **代表学者** | Moisio, Thompson, Parreira do Amaral, Partaken | Mackinder, Ratzel, Kjellén | Luttwak, Blackwill & Harris |
 
 [[Argument_Partaken_2022_Springer|Partaken (2022)]] 从另一角度切入，将 GPK 的概念分析区分为"两面"（two faces）：[[Knowledge Production|知识生产]]（knowledge production）与[[Knowledge Transfer|知识转移]]（knowledge transfer / [[Knowledge Exchange]]）。他批评后殖民 GPK 传统过度关注知识生产——即谁生产知识、以何种视角、为谁的利益——而忽视了知识一旦被生产后进入的动态过程：知识在运动中的挪用、传授、窃取、审查、监视和破坏。Partaken 主张 GPK 的真正核心是知识转移而非知识生产（[[Argument_Partaken_2022_Springer|Partaken, 2022, pp.74–75, 84]]）。
@@ -230,7 +230,7 @@ updated: 2026-08-20
 > - [[Global Education Industry]] — 经济化、商品化、私有化等概念为 GPK 提供"肥沃的土壤和生产性的推力"（Thompson & Parreira do Amaral, 2022, p.12）
 
 > [!framework-table]- 两条 GPK 理论脉络比较
-> |  | [[Critical Geopolitics|批判地缘政治学]] | [[Decolonial Geopolitics of Knowledge|去殖民知识地缘政治]] |
+> |  | [[Critical Geopolitics\|批判地缘政治学]] | [[Decolonial Geopolitics of Knowledge\|去殖民知识地缘政治]] |
 > |---|---|---|
 > | **发源地** | 英语世界人文地理学 / 政治地理学 | 拉丁美洲去殖民思想传统 |
 > | **核心问题** | 谁在想像和建构世界空间？通过什么机制？ | 谁的知识被认定为知识？什么认识论被排除？ |

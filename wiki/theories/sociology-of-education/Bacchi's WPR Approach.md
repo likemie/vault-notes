@@ -121,4 +121,4 @@ updated: 2026-06-16
 > [!ref-table] 相关研究索引
 > | 研究 | 应用方式说明 | 来源 |
 > |---|---|---|
-> | [[Argument_Skourdoumbis_2024_AER]] | 运用 WPR 框架分析《强劲开端》报告，揭示政策如何将教师短缺危机表征为“ITE 培训质量缺陷”，并系统性地对“教师过度工作量”这一事实保持沉默。 | [[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 3–4]] |
+> | [[Argument_Skourdoumbis_2024_AER]] | 运用 WPR 框架分析《强劲开端》报告，揭示政策如何将教师短缺危机表征为“ITE 培训质量缺陷”，并系统性地对“教师过度工作量”这一事实保持沉默。 | [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 3–4]] |

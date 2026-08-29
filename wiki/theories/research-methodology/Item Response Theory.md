@@ -8,7 +8,7 @@ aliases:
 summary: "基于潜在特质假设的现代测量理论，认为题目难度和区分度可以独立于施测样本被描述，受试者能力也可以独立于具体测验题目被估计，是计算机自适应测验的理论基础"
 type: theory
 theory_field: "research-methodology"
-theory_related_count: 12
+theory_related_count: 13
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ related_theories:
   - "[[Classical Test Theory]]"
 related_methods:
   - "[[Rasch Measurement]]"
+  - "[[Measurement Invariance]]"
 related_facts:
   - "[[PISA]]"
 related_arguments:
@@ -73,10 +74,10 @@ updated: 2026-07-26
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
 > | Latent Trait（潜在特质） | 概念 | 理论的核心解释对象：不可直接观测的个体属性（如言语能力、数学能力），IRT 通过题目反应模式推断其水平 |
-> | [[Item Analysis|item difficulty]]（题目难度） | 概念 | 题目本身的属性，不依赖于试测样本——与 [[Classical Test Theory|CTT]] 的样本依赖难度形成根本区别 |
+> | [[Item Analysis\|item difficulty]]（题目难度） | 概念 | 题目本身的属性，不依赖于试测样本——与 [[Classical Test Theory\|CTT]] 的样本依赖难度形成根本区别 |
 > | Item Discriminability（题目区分度） | 概念 | 题目区分高低能力受试者的有效性 |
-> | [[Rasch Measurement|Rasch 模型]] | 方法 | IRT 中最简单的一参数模型，仅含难度参数，是客观测量的理想化模型 |
-> | Unidimensionality（单维性） | 概念 | IRT 的基本[[Hypothesis|假设]]：每个题目只测量单一的潜在特质 |
+> | [[Rasch Measurement\|Rasch 模型]] | 方法 | IRT 中最简单的一参数模型，仅含难度参数，是客观测量的理想化模型 |
+> | Unidimensionality（单维性） | 概念 | IRT 的基本[[Hypothesis\|假设]]：每个题目只测量单一的潜在特质 |
 
 ---
 
@@ -114,10 +115,10 @@ updated: 2026-07-26
 > |------|-----|-----|
 > | **题目参数** | 样本依赖——难度随试测群体而变 | 样本独立——难度是题目自身属性 |
 > | **能力估计** | 依赖于具体题目集合 | 独立于具体题目集合 |
-> | **误差估计** | 单一平均误差方差，[[Hypothesis|假设]]所有人相同 | 个性化误差，取决于每位受试者的能力水平 |
+> | **误差估计** | 单一平均误差方差，[[Hypothesis\|假设]]所有人相同 | 个性化误差，取决于每位受试者的能力水平 |
 > | **测验等值** | 需要复杂等值程序 | 通过共同题目或共同受试者自然等值 |
 > | **适应性施测** | 不支持——题目参数随群体变化 | 支持——题目参数稳定，可动态选择 |
-> | **适用场景** | 课堂测验、小规模自编测验 | 大规模标准化测验、[[Computerized Adaptive Testing|CAT]]、跨国比较测评 |
+> | **适用场景** | 课堂测验、小规模自编测验 | 大规模标准化测验、[[Computerized Adaptive Testing\|CAT]]、跨国比较测评 |
 
 > [!theory-stance] [[Epistemology|认识论]]立场
 > - **[[Ontology|本体论]]** 假设存在不可直接观测但可以通过概率模型还原的潜在特质；这些特质是连续的、可量化的。
@@ -136,7 +137,7 @@ updated: 2026-07-26
 ## 适用边界
 
 > [!theory-boundary] 适用边界
-> - **适合解释** 大规模标准化测验的题目等值与题库建设；[[Computerized Adaptive Testing|计算机自适应测验]]的题目选择；跨群体测量不变性检验。
+> - **适合解释** 大规模标准化测验的题目等值与题库建设；[[Computerized Adaptive Testing|计算机自适应测验]]的题目选择；跨群体[[Measurement Invariance|测量不变性]]检验。
 > - **谨慎使用** 小样本条件下 IRT 参数估计不稳定；多维度特质需要多维 IRT 模型，分析复杂度大幅提升。
 > - **不适合解释** 常规课堂测验中几十个学生的[[Item Analysis|题目分析]]（[[Classical Test Theory|CTT]] 通常已足够）；非认知测验中缺乏明确潜在特质定义的测量。
 > - **常见误用** 未检验单维性[[Hypothesis|假设]]就直接应用 IRT；夸大 IRT 对 CTT 的替代关系——二者各有适用场景，非简单替代。

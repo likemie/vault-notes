@@ -110,10 +110,10 @@ flowchart TD
 > [!entry-map]
 > | 构件名称 | 构件类型 | 在德尔菲共识框架中的功能 |
 > |---|---|---|
-> | **六大认知技能（Cognitive Skills）** | 技能维度 | 提供了[[Critical Thinking|批判性思维]]的严密[[Operationalization|操作化]]定义与测量判据，成为 CCTST、WGCTA 等标准化量表编制的理论母体。 |
-> | **[[Critical Thinking Disposition|七大情意倾向（Affective Dispositions）]]** | 倾向维度 | 界定了批判精神的内在情意动力学，指导了 [[California Critical Thinking Disposition Inventory|CCTDI]] 的量表研发。 |
-> | **自我调节（Self-Regulation / [[Metacognition|元认知]]）** | 枢纽机制 | 认知技能中的最高阶环节，连接了认知操作与自我校准反思。 |
-> | **[[Phronesis|实践智慧]]与情境审慎** | 哲学规范 | 确立批判性思维不仅是工具性逻辑技巧，更是指向明智决策与道德生活的反思能力。 |
+> | **六大认知技能（Cognitive Skills）** | 技能维度 | 提供了[[Critical Thinking\|批判性思维]]的严密[[Operationalization\|操作化]]定义与测量判据，成为 CCTST、WGCTA 等标准化量表编制的理论母体。 |
+> | **[[Critical Thinking Disposition\|七大情意倾向（Affective Dispositions）]]** | 倾向维度 | 界定了批判精神的内在情意动力学，指导了 [[California Critical Thinking Disposition Inventory\|CCTDI]] 的量表研发。 |
+> | **自我调节（Self-Regulation / [[Metacognition\|元认知]]）** | 枢纽机制 | 认知技能中的最高阶环节，连接了认知操作与自我校准反思。 |
+> | **[[Phronesis\|实践智慧]]与情境审慎** | 哲学规范 | 确立批判性思维不仅是工具性逻辑技巧，更是指向明智决策与道德生活的反思能力。 |
 
 ---
 
@@ -142,7 +142,7 @@ flowchart TD
 ## 实证表现与历史影响
 
 > [!ma-table]- [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] 基于德尔菲双元框架的[[Meta-analysis|元分析]]实证成果
-> | 德尔菲[[Construct|理论构念]]维度 | 对应测量工具与样本规模 | 汇总效应量 $g+$ | 95% CI | 核心实证结论 |
+> | 德尔菲[[Construct\|理论构念]]维度 | 对应测量工具与样本规模 | 汇总效应量 $g+$ | 95% CI | 核心实证结论 |
 > |---|---|---|---|---|
 > | **通用认知技能维度** | 标准化测试（$k = 341$） | **$g+ = 0.30$** | [0.25, 0.34] | 证实德尔菲六大技能可通过教学干预实现普遍提升。 |
 > | **学科特异技能维度** | 学科自编与标准测验（$k = 97$） | **$g+ = 0.57$** | [0.47, 0.68] | 技能在具体学科情境中呈现更强的近迁移增益。 |

@@ -93,12 +93,12 @@ updated: 2026-07-13
 > [!contrast-table] 真实验的主要设计变体
 > | 设计 | 前测 | 后测 | 控制组 | 核心特征 |
 > |---|---|---|---|---|
-> | [[Pretest-Posttest Control Group Design|前后测控制组]] | 有 | 有 | 有 | 最经典，[[Internal Validity|内部效度]]最高 |
-> | [[Posttest-Only Control Group Design|仅后测控制组]] | 无 | 有 | 有 | 避免[[Pre-test Sensitisation|前测敏感化]] |
-> | [[Solomon Four-Group Design|所罗门四组]] | 有/无 | 有 | 有（含两个控制组） | 分离前测×处理[[Interaction Effect|交互效应]] |
-> | [[Factorial Design|因子设计]] | 可有 | 有 | 可有 | 同时操纵多个自[[Variable|变量]]，检验交互效应 |
-> | [[Matched Pairs Design|配对设计]] | 有 | 有 | 有 | 先配对再随机分配，控制个体差异 |
-> | [[Repeated Measures Design|重复测量]] | 可有 | 有 | 可有 | 同一人接受多种条件，消除个体差异 |
+> | [[Pretest-Posttest Control Group Design\|前后测控制组]] | 有 | 有 | 有 | 最经典，[[Internal Validity\|内部效度]]最高 |
+> | [[Posttest-Only Control Group Design\|仅后测控制组]] | 无 | 有 | 有 | 避免[[Pre-test Sensitisation\|前测敏感化]] |
+> | [[Solomon Four-Group Design\|所罗门四组]] | 有/无 | 有 | 有（含两个控制组） | 分离前测×处理[[Interaction Effect\|交互效应]] |
+> | [[Factorial Design\|因子设计]] | 可有 | 有 | 可有 | 同时操纵多个自[[Variable\|变量]]，检验交互效应 |
+> | [[Matched Pairs Design\|配对设计]] | 有 | 有 | 有 | 先配对再随机分配，控制个体差异 |
+> | [[Repeated Measures Design\|重复测量]] | 可有 | 有 | 可有 | 同一人接受多种条件，消除个体差异 |
 
 ## 适用场景
 
@@ -119,7 +119,7 @@ updated: 2026-07-13
 > [!entry-map]
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
-> | [[Experimental Research]] | 方法 | 母方法——真实验是实验研究中[[Internal Validity|内部效度]]最高的形式 |
+> | [[Experimental Research]] | 方法 | 母方法——真实验是实验研究中[[Internal Validity\|内部效度]]最高的形式 |
 > | [[Random Assignment]] | 方法 | 前提条件——随机分配是区分真实验与准实验的唯一决定性标准 |
 > | [[Quasi-Experimental Designs]] | 方法 | 降级替代——当无法随机分配时使用 |
 > | [[Pre-Experimental Designs]] | 方法 | 更低层级——无控制组或随机分配的设计 |

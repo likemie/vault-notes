@@ -126,13 +126,13 @@ flowchart TD
 > [!contrast-table] 固定效应与随机效应模型全方位对比
 > | 比较维度 | 固定效应模型（Fixed-Effect） | 随机效应模型（Random-Effects） |
 > |---|---|---|
-> | **核心哲学[[Hypothesis|假设]]** | 存在唯一的“真实[[Effect Size|效应量]]”（One True Effect） | 存在一个“真实效应量分布”（Distribution of True Effects） |
-> | **方差来源分解** | 仅抽样方差（Within-study variance $v_i$） | 抽样方差 $v_i$ + [[Between-Study Variance|研究间方差 $\tau^2$]] |
+> | **核心哲学[[Hypothesis\|假设]]** | 存在唯一的“真实[[Effect Size\|效应量]]”（One True Effect） | 存在一个“真实效应量分布”（Distribution of True Effects） |
+> | **方差来源分解** | 仅抽样方差（Within-study variance $v_i$） | 抽样方差 $v_i$ + [[Between-Study Variance\|研究间方差 $\tau^2$]] |
 > | **权重分配特征** | 极度偏向大样本研究（$w_i \propto N_i$） | 权重趋于平均化（大样本优势被 $\tau^2$ 稀释） |
-> | **[[Confidence Interval|置信区间]]宽度** | 通常较窄（[[Standard Error|标准误]]较小，推断激进） | 较宽（[[Standard Error|标准误]]较大，充分反映[[Heterogeneity|异质性]]不确定性） |
-> | **[[Prediction Interval|预测区间]]（PI）** | 无法构建预测区间（假定方差为 0） | 可计算 [[Prediction Interval|95% 预测区间]] 评估单项新研究风险 |
-> | **小研究偏倚风险** | 对小样本[[Publication Bias|发表偏倚]]相对不敏感 | 更易受[[Small Study Effects|小研究效应]]扭曲（小样本权重被相对抬高） |
-> | **适用情境** | 实验室严格复现、高度同质[[Clinical Trial|临床试验]] | 真实课堂干预、教育政策、社会科学与多中心研究 |
+> | **[[Confidence Interval\|置信区间]]宽度** | 通常较窄（[[Standard Error\|标准误]]较小，推断激进） | 较宽（[[Standard Error\|标准误]]较大，充分反映[[Heterogeneity\|异质性]]不确定性） |
+> | **[[Prediction Interval\|预测区间]]（PI）** | 无法构建预测区间（假定方差为 0） | 可计算 [[Prediction Interval\|95% 预测区间]] 评估单项新研究风险 |
+> | **小研究偏倚风险** | 对小样本[[Publication Bias\|发表偏倚]]相对不敏感 | 更易受[[Small Study Effects\|小研究效应]]扭曲（小样本权重被相对抬高） |
+> | **适用情境** | 实验室严格复现、高度同质[[Clinical Trial\|临床试验]] | 真实课堂干预、教育政策、社会科学与多中心研究 |
 
 > [!math-principle] 权重再平衡（Weight Leveling Effect）与小研究效应敏感性
 > 当真实异质性极大（$\tau^2 \gg v_i$）时，随机效应权重 $w_i^* = \frac{1}{v_i + \tau^2} \to \frac{1}{\tau^2}$，这意味着所有研究的权重几乎变得完全相同。

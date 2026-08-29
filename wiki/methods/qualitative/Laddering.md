@@ -120,7 +120,7 @@ updated: 2026-08-01
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Personal Construct Theory]] | 理论 | 组织推论与选择推论分别支撑蕴含层级与偏好极点的逻辑基础。 |
-> | [[Repertory Grid Technique]] | 前置方法 | 阶梯法通常从 repertory grid 引发的[[Construct|构念]]出发向上追溯其层级；蕴含网格是其量化延伸。 |
+> | [[Repertory Grid Technique]] | 前置方法 | 阶梯法通常从 repertory grid 引发的[[Construct\|构念]]出发向上追溯其层级；蕴含网格是其量化延伸。 |
 > | [[Pyramiding]] | 对照方法 | 阶梯法向上追问蕴含关系，金字塔法横向展开特征描述，不识别上属关系。 |
 > | [[Personal Constructs]] | 概念 | 阶梯法操作的正是个人建构之间的蕴含层级。 |
 

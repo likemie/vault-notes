@@ -116,6 +116,6 @@ updated: 2026-07-08
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Education Endowment Foundation]] | 组织/事实 | ResearchED 将其作为权威的 Toolkit 数据来源进行宣传，尽管该工具包面临方法论批评。 |
-> | [[Randomised Controlled Trials]] | 研究方法 | ResearchED 所宣称的教育科学“黄金标准”，也是其针对其他[[Paradigm|研究范式]]进行边缘化的前提。 |
+> | [[Randomised Controlled Trials]] | 研究方法 | ResearchED 所宣称的教育科学“黄金标准”，也是其针对其他[[Paradigm\|研究范式]]进行边缘化的前提。 |
 > | [[Scientific Method]] | 概念 | ResearchED 推广了一种简化的“民间科学方法”描述，受到科学哲学家的质疑。 |
 > | [[Evidence-Based Education]] | 概念 | ResearchED 运动是近年来证据本位教育理念在一线教师群体中落地与普及的标志性事件。 |

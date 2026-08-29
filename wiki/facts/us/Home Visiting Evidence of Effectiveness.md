@@ -89,8 +89,8 @@ updated: 2026-08-21
 > |:---|:---|
 > | **单项研究评级** | High Quality（高质量）；Moderate Quality（中等质量）；Low Quality（低质量） |
 > | **最高模型认证** | **Meets HHS Criteria for Evidence of Effectiveness（符合 HHS 有效性标准）** |
-> | **最高认证门槛** | 必须拥有 **至少 1 项高质量 [[Randomised Controlled Trials|RCT]]/[[Quasi-Experimental Designs|QED]]**，或 **至少 2 项中等质量 RCT/QED**；且研究必须在至少一个主要结果域上展示出具有[[Statistical Significance|统计显著性]]的积极效果 |
-> | **医源性风险规避** | 必须由独立专家组核实无任何负面效应或[[Iatrogenic Effects in Education|医源性伤害]]风险 |
+> | **最高认证门槛** | 必须拥有 **至少 1 项高质量 [[Randomised Controlled Trials\|RCT]]/[[Quasi-Experimental Designs\|QED]]**，或 **至少 2 项中等质量 RCT/QED**；且研究必须在至少一个主要结果域上展示出具有[[Statistical Significance\|统计显著性]]的积极效果 |
+> | **医源性风险规避** | 必须由独立专家组核实无任何负面效应或[[Iatrogenic Effects in Education\|医源性伤害]]风险 |
 
 ---
 

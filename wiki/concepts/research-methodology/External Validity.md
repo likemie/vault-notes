@@ -84,12 +84,12 @@ updated: 2026-07-13
 ## 概念辨析
 
 > [!contrast-table] 量化与[[Qualitative Research|质性研究]]中的外部效度逻辑
-> | 维度 | [[Quantitative Research|量化研究]] | 质性研究 |
+> | 维度 | [[Quantitative Research\|量化研究]] | 质性研究 |
 > |---|---|---|
 > | **核心概念** | 可推广性（generalizability）——从样本到总体 | 可比较性（comparability）和可迁移性（transferability） |
-> | **实现方式** | 通过[[Random Sampling|随机抽样]]和统计推断 | 通过[[Rich and Thick Description|厚描述]]让读者自行判断迁移可能性 |
-> | **对情境的态度** | 剥离情境[[Variable|变量]]以追求普遍规律 | 情境是意义的来源——去情境化的推广无价值 |
-> | **研究者任务** | 提供可推广性证据（如[[Sampling Error|抽样误差]]、[[Confidence Interval|置信区间]]） | 提供足够丰富的描述，不提供可迁移性指标（Lincoln & Guba, 1985, p. 316） |
+> | **实现方式** | 通过[[Random Sampling\|随机抽样]]和统计推断 | 通过[[Rich and Thick Description\|厚描述]]让读者自行判断迁移可能性 |
+> | **对情境的态度** | 剥离情境[[Variable\|变量]]以追求普遍规律 | 情境是意义的来源——去情境化的推广无价值 |
+> | **研究者任务** | 提供可推广性证据（如[[Sampling Error\|抽样误差]]、[[Confidence Interval\|置信区间]]） | 提供足够丰富的描述，不提供可迁移性指标（Lincoln & Guba, 1985, p. 316） |
 > | **典型策略** | 大样本随机抽样、多场所复制 | 研究典型案例、多场所研究、厚描述 |
 
 Schofield (1990) 精准刻画了这一分裂：对于一派，通过剥离情境变量来推广是根本；对于另一派，对情境几乎无所言说的推广对人类行为几乎无有用之言。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, p. 168)]]
@@ -103,14 +103,14 @@ Campbell & Stanley (1963)、Bracht & Glass (1968) 和 Lewis-Beck (1993) 建立�
 > [!ref-table] 量化外部效度威胁速查
 > > | 来源 | 威胁 | 核心问题 |
 > > |---|---|---|
-> > | **Campbell & Stanley** | 自[[Variable|变量]]描述不充分 | 未来无法复制研究条件 |
-> > | | 总体缺乏代表性 | 样本不代表[[Study Population and Sample|目标总体]] |
-> > | | [[Hawthorne Effect|霍桑效应]] | 受试者因被研究而改变行为 |
-> > | | 因变量[[Operationalization|操作化]]不充分 | 测量在真实世界中缺乏效度 |
-> > | | 对实验条件敏感化 | [[Pre-test and Post-test|前测]]改变了受试者对干预的反应 |
-> > | | 外来因素[[Interaction Effect|交互效应]] | 混淆因素与处理交互作用 |
+> > | **Campbell & Stanley** | 自[[Variable\|变量]]描述不充分 | 未来无法复制研究条件 |
+> > | | 总体缺乏代表性 | 样本不代表[[Study Population and Sample\|目标总体]] |
+> > | | [[Hawthorne Effect\|霍桑效应]] | 受试者因被研究而改变行为 |
+> > | | 因变量[[Operationalization\|操作化]]不充分 | 测量在真实世界中缺乏效度 |
+> > | | 对实验条件敏感化 | [[Pre-test and Post-test\|前测]]改变了受试者对干预的反应 |
+> > | | 外来因素[[Interaction Effect\|交互效应]] | 混淆因素与处理交互作用 |
 > > | | 工具无效或不可靠 | 数据本身不可信 |
-> > | | [[Ecological Validity|生态效度]] | 一种情境的发现能否推广到另一情境 |
+> > | | [[Ecological Validity\|生态效度]] | 一种情境的发现能否推广到另一情境 |
 > > | | 多重处理效度 | 多种处理交互效应难以隔离 |
 > > | **Creswell** | 选择 × 处理交互 | 受试者特征过窄限制推广 |
 > > | | 情境 × 处理交互 | 实验情境特殊限制推广 |
@@ -155,21 +155,21 @@ Lincoln & Guba (1985) 列出四种自然主义威胁，Onwuegbuzie & Leech (2006
 > [!ref-table] 质性外部效度威胁速查
 > > | 来源 | 威胁 | 核心问题 |
 > > |---|---|---|
-> > | **Lincoln & Guba** | 选择效应 | [[Construct|构念]]只与特定群体相关 |
+> > | **Lincoln & Guba** | 选择效应 | [[Construct\|构念]]只与特定群体相关 |
 > > | | 情境效应 | 结果是特定情境的函数 |
 > > | | 历史效应 | 情境由独特历史达成，不可比较 |
 > > | | 构念效应 | 构念是特定群体特有的 |
-> > | **Onwuegbuzie & Leech** | [[Catalytic Validity|催化效度]] | 研究对研究社群的赋权效果与推广 |
+> > | **Onwuegbuzie & Leech** | [[Catalytic Validity\|催化效度]] | 研究对研究社群的赋权效果与推广 |
 > > | | 行动效度 | 发现被利益相关者实际使用的程度 |
 > > | | 调查效度 | 研究者的伦理严谨性与专业能力 |
-> > | | [[Interpretive Validity|解释效度]] | 意义捕捉的情境特定性限制推广 |
-> > | | [[Evaluative Validity|评价效度]] | 评价框架的跨情境适用性 |
+> > | | [[Interpretive Validity\|解释效度]] | 意义捕捉的情境特定性限制推广 |
+> > | | [[Evaluative Validity\|评价效度]] | 评价框架的跨情境适用性 |
 > > | | 共识效度 | 他人对解释的一致性影响推广 |
 > > | | 总体/生态/时间可推广性 | 推广与非推广边界的合理保持 |
-> > | | 研究者偏差 | 与[[Threats to Internal Validity|内部效度威胁]]共享 |
-> > | | 反应性 | 情境改变效应与[[Internal Validity|内部效度]]威胁共享 |
-> > | | 顺序偏差 | 问题顺序对结果[[Reliability|可依赖性]]的影响 |
-> > | | [[Effect Size|效应量]] | 质性分析中效应量缺失限制精确性 |
+> > | | 研究者偏差 | 与[[Threats to Internal Validity\|内部效度威胁]]共享 |
+> > | | 反应性 | 情境改变效应与[[Internal Validity\|内部效度]]威胁共享 |
+> > | | 顺序偏差 | 问题顺序对结果[[Reliability\|可依赖性]]的影响 |
+> > | | [[Effect Size\|效应量]] | 质性分析中效应量缺失限制精确性 |
 
 Bogdan & Biklen (1992, p. 45) 从更广泛的角度总结：在质性研究中，更关心的是发现**可能**适用于哪些环境、人群和情境——而不是发现是否在最广义上是可推广的。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10)]]
 

@@ -81,7 +81,7 @@ updated: 2026-08-16
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Epistemological Understanding]] | 概念 | 提出成熟[[Epistemology|认识论]]的本质是主客观协调。 |
+> | [[Epistemological Understanding]] | 概念 | 提出成熟[[Epistemology\|认识论]]的本质是主客观协调。 |
 > | [[Absolutist]] | 概念 | 提出并界定其为认知客观维度的绝对主导阶段。 |
 > | [[Multiplist]] | 概念 | 提出并界定其为主观性崛起、排斥客观标准的中间阶段。 |
 > | [[Evaluativist]] | 概念 | 提出并界定其为主客观标准重新统合的成熟阶段。 |

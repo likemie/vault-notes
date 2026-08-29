@@ -67,7 +67,7 @@ updated: '2026-06-19'
 > 
 > | 类型 | 条目 | 贡献 |
 > |:-----|:-----|:-----|
-> | 理论 | [[Critical Realism|批判实在论]] | 为社会科学提供了一个[[Interpretive Paradigm|反实证主义]]、反经验还原主义的统一[[Ontology|本体论]]框架，解释了结构、能动性与[[Emergence|涌现]]之间的[[Causality|因果]]逻辑。 |
+> | 理论 | [[Critical Realism\|批判实在论]] | 为社会科学提供了一个[[Interpretive Paradigm\|反实证主义]]、反经验还原主义的统一[[Ontology\|本体论]]框架，解释了结构、能动性与[[Emergence\|涌现]]之间的[[Causality\|因果]]逻辑。 |
 
 ---
 

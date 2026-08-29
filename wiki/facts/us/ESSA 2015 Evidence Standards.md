@@ -9,7 +9,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 18
+fact_related_count: 17
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Sample Size Determination]]"
   - "[[Pre-test and Post-test]]"
   - "[[Variable]]"
-  - "[[Learning Analytics]]"
   - "[[Preregistration]]"
 related_theories: []
 related_methods:
@@ -63,9 +62,9 @@ updated: '2026-05-23'
 >
 > | 等级 | 英文 | 研究方法要求 | 最低研究数量 |
 > |------|------|------------|------------|
-> | **强** | Strong | 设计良好且实施良好的**[[Experimental Research|实验研究]]（随机分配，randomized design）** | 至少 1 项 |
-> | **中** | Moderate | 设计良好且实施良好的**准实验研究（[[Matching|匹配]]样本，matched or [[Quasi-Experimental Designs|quasi-experimental design]]）** | 至少 1 项 |
-> | **有希望** | Promising | 设计良好且实施良好的**[[Observational and Correlational Research|相关研究]]（统计控制选择偏差，correlational design with statistical controls for selection bias）** | 至少 1 项 |
+> | **强** | Strong | 设计良好且实施良好的**[[Experimental Research\|实验研究]]（随机分配，randomized design）** | 至少 1 项 |
+> | **中** | Moderate | 设计良好且实施良好的**准实验研究（[[Matching\|匹配]]样本，matched or [[Quasi-Experimental Designs\|quasi-experimental design]]）** | 至少 1 项 |
+> | **有希望** | Promising | 设计良好且实施良好的**[[Observational and Correlational Research\|相关研究]]（统计控制选择偏差，correlational design with statistical controls for selection bias）** | 至少 1 项 |
 >
 > 所有层级均需至少一项严格研究证明**统计显著**的正向效果，且**无研究显示负面效果**。
 
@@ -92,7 +91,7 @@ ESSA 可概括为四个有序证据层级：强证据对应 [[Randomised Control
 >
 > 部分州走得更远：
 > - **亚利桑那、路易斯安那、内华达、明尼苏达、北卡罗来纳、罗德岛** 将 ESSA 标准扩展为**州级**拨款条件
-> - 某些州（如 AZ、[[Learning Analytics|LA]]）将可选范围限制在强和中两级（排除"有希望"）
+> - 某些州（如 AZ、LA）将可选范围限制在强和中两级（排除"有希望"）
 
 ## ESSA 的"严格与宽松"
 

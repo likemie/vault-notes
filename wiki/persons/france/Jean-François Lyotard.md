@@ -193,14 +193,14 @@ updated: 2026-07-11
 > [!entry-map]
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Feeder Mechanism]] | 概念 | 其对“完美信息博弈”与“想象力”附加绩效的论断，被用于构建后现代跨学科课程的滋养机制理论。[[Argument_Cole_2005_JRIE|(Cole, 2005, p. 220)]] |
-> | [[Performativity]] | 概念 | 引入绩效性/表演性概念分析知识在后工业社会中以效率为核心 of 合法化逻辑，揭示评估体系的“恐怖”机制。[[Argument_Beech_2009_CE|(Beech, 2009, pp. 352–353)]] |
-> | [[Narrative Knowledge]] | 概念 | 区分传统社会的叙事知识与依靠外部验证的科学知识，阐释科学知识本身对元叙事合法化的依赖。[[Argument_Partaken_2022_Springer|(Partaken, 2022, pp. 71, 74)]] |
-> | [[Postmodernism]] | 概念 | 定义后现代为对启蒙、人类解放等宏大元叙事的怀疑，解释了国家同质化文化叙事在当代的式微。[[Argument_Beech_2009_CE|(Beech, 2009, p. 354)]] / [[Argument_Partaken_2022_Springer|(Partaken, 2022, p. 74)]] |
-> | [[Governance by Spin]] | 概念 | 绩效性竞争逻辑解释了超国家机构为何需要生产兼具稳定性与可塑性的[[Floating Signifier|漂浮能指]]话语，进而催生了国家的舆论操控治理。[[Argument_Beech_2009_CE|(Beech, 2009, pp. 352–353, 361)]] |
-> | [[Incommensurability]] | 概念 | 指出不同语言游戏规则之间无法用同一种元语言进行评判，任何强行通约都会制造压制受害者的“分歧”不义。[[Argument_Beech_2009_CE|(Beech, 2009, p. 352)]] |
-> | [[Post-structuralism]] | 概念 | 以欲望释放的力比多经济学与话语碎片解构传统的宏大结构，影响了教育[[Critical Theory|批判理论]]中对主导叙事的反抗。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1)]] |
-> | [[Geopolitics of Knowledge]] | 概念 | 其叙事知识的式微与科学知识的主导性博弈，被用于揭示全球化背景下软实力与可测量[[Performance Indicators|绩效指标]]的跨国博弈。[[Argument_Partaken_2022_Springer|(Partaken, 2022, pp. 74–75)]] |
-> | [[Academic Capitalism]] | 概念 | 绩效性竞争逻辑在高等教育制度层面的具体化，迫使学术机构将学术[[Research Translation|研究转化]]为以效率与可见度为目标的商业性输出。[[Argument_Partaken_2022_Springer|(Partaken, 2022, p. 71)]] |
+> | [[Feeder Mechanism]] | 概念 | 其对“完美信息博弈”与“想象力”附加绩效的论断，被用于构建后现代跨学科课程的滋养机制理论。[[Argument_Cole_2005_JRIE\|(Cole, 2005, p. 220)]] |
+> | [[Performativity]] | 概念 | 引入绩效性/表演性概念分析知识在后工业社会中以效率为核心 of 合法化逻辑，揭示评估体系的“恐怖”机制。[[Argument_Beech_2009_CE\|(Beech, 2009, pp. 352–353)]] |
+> | [[Narrative Knowledge]] | 概念 | 区分传统社会的叙事知识与依靠外部验证的科学知识，阐释科学知识本身对元叙事合法化的依赖。[[Argument_Partaken_2022_Springer\|(Partaken, 2022, pp. 71, 74)]] |
+> | [[Postmodernism]] | 概念 | 定义后现代为对启蒙、人类解放等宏大元叙事的怀疑，解释了国家同质化文化叙事在当代的式微。[[Argument_Beech_2009_CE\|(Beech, 2009, p. 354)]] / [[Argument_Partaken_2022_Springer\|(Partaken, 2022, p. 74)]] |
+> | [[Governance by Spin]] | 概念 | 绩效性竞争逻辑解释了超国家机构为何需要生产兼具稳定性与可塑性的[[Floating Signifier\|漂浮能指]]话语，进而催生了国家的舆论操控治理。[[Argument_Beech_2009_CE\|(Beech, 2009, pp. 352–353, 361)]] |
+> | [[Incommensurability]] | 概念 | 指出不同语言游戏规则之间无法用同一种元语言进行评判，任何强行通约都会制造压制受害者的“分歧”不义。[[Argument_Beech_2009_CE\|(Beech, 2009, p. 352)]] |
+> | [[Post-structuralism]] | 概念 | 以欲望释放的力比多经济学与话语碎片解构传统的宏大结构，影响了教育[[Critical Theory\|批判理论]]中对主导叙事的反抗。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|(Cohen et al., 2011, Ch. 1)]] |
+> | [[Geopolitics of Knowledge]] | 概念 | 其叙事知识的式微与科学知识的主导性博弈，被用于揭示全球化背景下软实力与可测量[[Performance Indicators\|绩效指标]]的跨国博弈。[[Argument_Partaken_2022_Springer\|(Partaken, 2022, pp. 74–75)]] |
+> | [[Academic Capitalism]] | 概念 | 绩效性竞争逻辑在高等教育制度层面的具体化，迫使学术机构将学术[[Research Translation\|研究转化]]为以效率与可见度为目标的商业性输出。[[Argument_Partaken_2022_Springer\|(Partaken, 2022, p. 71)]] |
 > | [[Phenomenology]] | 理论 | 现象学为其早期现象学导论著作与晚期奥古斯丁时间现象学阐释提供了核心哲学框架。（根据维基百科关于生平与著作的记载） |
-> | [[PISA]] | 政策 | 其评估与排名机制在学校[[Praxis|实践]]中强加了操演性监控，体现了 Lyotard 所揭示的“要么可操作、要么消失”的系统恐怖。 |
+> | [[PISA]] | 政策 | 其评估与排名机制在学校[[Praxis\|实践]]中强加了操演性监控，体现了 Lyotard 所揭示的“要么可操作、要么消失”的系统恐怖。 |

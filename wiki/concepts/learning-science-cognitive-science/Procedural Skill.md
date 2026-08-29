@@ -67,10 +67,10 @@ updated: 2026-08-25
 ## 概念辨析
 
 > [!contrast-table] 认知学习成果三元分类辨析
-> | 维度 | 陈述性知识（Declarative Knowledge） | 程序性技能（Procedural Skill） | [[Higher-Order Thinking Skills|高阶思维技能]]（HOTS） |
+> | 维度 | 陈述性知识（Declarative Knowledge） | 程序性技能（Procedural Skill） | [[Higher-Order Thinking Skills\|高阶思维技能]]（HOTS） |
 > |---|---|---|---|
 > | **布鲁姆对应层级** | 识记（Remember）与理解（Understand） | 应用（Apply）与程序性分析 | 分析（Analyze）、评价（Evaluate）与创造（Create） |
-> | **表征形式** | 事实命题网络、概念定义与图式 | 条件-动作产生式规则序列（IF-THEN） | 劣构问题表征、[[Reflexivity|反思性]][[Metacognition|元认知]]与发散模型 |
+> | **表征形式** | 事实命题网络、概念定义与图式 | 条件-动作产生式规则序列（IF-THEN） | 劣构问题表征、[[Reflexivity\|反思性]][[Metacognition\|元认知]]与发散模型 |
 > | **智能技术干预特征** | 适度增益（主要依托教材与讲授） | **稳固显著促进（自适应即时反馈与刻意练习）** | 增益高度依赖显性教学支架与反思量规 |
 
 ---
@@ -89,19 +89,19 @@ updated: 2026-08-25
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 比较或干预 | [[Dependent Variable|结果变量]] | 分析样本 | 组别统计 | [[Effect Size|效应量]] | 显著性或不确定性 | 设计与解释边界 |
+> | 研究 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
 > |---|---|---|---|---|---|---|---|
-> | Elmaadaway et al. (2025)，引自 [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] | 智能语音[[Dialogue in Education|对话]]机器人 vs. 常规听说教学 | EFL 英语口语阅读流利度（WCPM） | $N = 60$（干预 $n = 30$, 控制 $n = 30$） | — | Hedges' $g = 2.12$ | $p < .001$ | 准实验设计；语音即时纠错对初中生口语操作技能产生强效增益 |
-> | Fang et al. (2025)，引自 [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] | 生成式 AI 辅导+反思量规 vs. 传统编程教学 | Python 编程代码调试与单元测试通过率 | $N = 92$（干预 $n = 46$, 控制 $n = 46$） | — | Hedges' $g = 0.40$ | $p < .05$ | 准实验设计；支架引导下的代码调试程序技能提升 |
-> | Tasdelen & Bodemer (2025)，引自 [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] | 自适应分步微提示 [[Intelligent Tutoring Systems|ITS]] vs. 常规解题练习 | 小学数学长除法步骤解题表现 | $N = 114$（干预 $n = 57$, 控制 $n = 57$） | — | Hedges' $g = 0.21$ | $p < .05$ | 准实验设计；基于认知负荷理论的分步提示加速算术程序自动化 |
-> | Ye et al. (2025)，引自 [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] | 编程[[AI Agent in Education|智能体]]语法纠错 vs. 传统教学 | 代码编写正确率与程序性调试表现 | $N = 78$ | — | Hedges' $g = 0.16$ | $p < .05$ | 实验设计；即时微提示辅助良构代码规则内化 |
+> | Elmaadaway et al. (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 智能语音[[Dialogue in Education\|对话]]机器人 vs. 常规听说教学 | EFL 英语口语阅读流利度（WCPM） | $N = 60$（干预 $n = 30$, 控制 $n = 30$） | — | Hedges' $g = 2.12$ | $p < .001$ | 准实验设计；语音即时纠错对初中生口语操作技能产生强效增益 |
+> | Fang et al. (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 生成式 AI 辅导+反思量规 vs. 传统编程教学 | Python 编程代码调试与单元测试通过率 | $N = 92$（干预 $n = 46$, 控制 $n = 46$） | — | Hedges' $g = 0.40$ | $p < .05$ | 准实验设计；支架引导下的代码调试程序技能提升 |
+> | Tasdelen & Bodemer (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 自适应分步微提示 [[Intelligent Tutoring Systems\|ITS]] vs. 常规解题练习 | 小学数学长除法步骤解题表现 | $N = 114$（干预 $n = 57$, 控制 $n = 57$） | — | Hedges' $g = 0.21$ | $p < .05$ | 准实验设计；基于认知负荷理论的分步提示加速算术程序自动化 |
+> | Ye et al. (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 编程[[AI Agent in Education\|智能体]]语法纠错 vs. 传统教学 | 代码编写正确率与程序性调试表现 | $N = 78$ | — | Hedges' $g = 0.16$ | $p < .05$ | 实验设计；即时微提示辅助良构代码规则内化 |
 
 > [!ma-table]- 一阶[[Meta-analysis|元分析]]互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
 >
 > | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] | [[Dependent Variable|结果变量]]（认知结果分类） | 技能类认知结果（Skill-Based Outcomes） | $k = 42$ / — | $g = 0.391$ $[0.197, 0.584]$ | $Q = 409.56, I^2 = 90.0\%, p < .001$ | 涵盖数学解题、编程调试、外语口语流利度等程序性技能，[[Effect Size|效应量]]最大且统计检验高度稳定显著 |
+> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | [[Dependent Variable\|结果变量]]（认知结果分类） | 技能类认知结果（Skill-Based Outcomes） | $k = 42$ / — | $g = 0.391$ $[0.197, 0.584]$ | $Q = 409.56, I^2 = 90.0\%, p < .001$ | 涵盖数学解题、编程调试、外语口语流利度等程序性技能，[[Effect Size\|效应量]]最大且统计检验高度稳定显著 |
 
 ---
 

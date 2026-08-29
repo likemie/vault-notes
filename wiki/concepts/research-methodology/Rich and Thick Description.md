@@ -78,10 +78,10 @@ updated: 2026-08-18
 >
 > | 关联项 | 类型 | 厚描述扮演的角色 |
 > |:-------|:-----|:-----------------|
-> | [[Interpretive Paradigm|诠释范式]] | 范式基础 | 厚描述是诠释范式从"理解参与者意义"这一[[Epistemic Commitments|认识论承诺]]出发的方法论落地。 |
+> | [[Interpretive Paradigm\|诠释范式]] | 范式基础 | 厚描述是诠释范式从"理解参与者意义"这一[[Epistemic Commitments\|认识论承诺]]出发的方法论落地。 |
 > | 人类主动建构意义 | 范式公理 | 意义的归因是持续演化的——厚描述捕捉这种演化而非定格。 |
-> | [[Trustworthiness|Lincoln & Guba的可信度框架]] | 质量标准 | Lincoln & Guba（1985, p. 189）将厚描述定位为可[[Reliability|信度]]（[[Qualitative Validity|trustworthiness]]）的核心操作手段，取代常规信效度概念。 |
-> | [[Emic and Etic|主位进路]] | 方法论区分 | 厚描述服务于主位进路——从内部人视角呈现参与者对世界的理解和感受。 |
+> | [[Trustworthiness\|Lincoln & Guba的可信度框架]] | 质量标准 | Lincoln & Guba（1985, p. 189）将厚描述定位为可[[Reliability\|信度]]（[[Qualitative Validity\|trustworthiness]]）的核心操作手段，取代常规信效度概念。 |
+> | [[Emic and Etic\|主位进路]] | 方法论区分 | 厚描述服务于主位进路——从内部人视角呈现参与者对世界的理解和感受。 |
 
 ---
 
@@ -106,7 +106,7 @@ updated: 2026-08-18
 > | 内容 | 仅记录可观察行为的表面事实。 | 包含行为、意义、参与者诠释和不可观察的情境因素。 |
 > | 情境 | 行为脱离其社会文化脉络。 | 行为嵌入其完整的社会文化脉络中。 |
 > | 读者体验 | 读者获得事实信息但无法感受情境。 | 读者被"传送"到研究现场，获得共享经验的感受。 |
-> | 概括性 | 难以判断发现的可迁移性。 | 为读者提供进行[[Naturalistic Generalization|自然主义概括]]的充分基础。 |
+> | 概括性 | 难以判断发现的可迁移性。 | 为读者提供进行[[Naturalistic Generalization\|自然主义概括]]的充分基础。 |
 
 ---
 

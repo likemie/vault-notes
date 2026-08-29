@@ -122,5 +122,5 @@ updated: '2026-07-22'
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Zhonghua Minzu]] | 概念 | 提供了以中原汉族文化为构成性核心的中华民族叙事范本。 |
-> | [[Sinicisation]] | 概念 | 将周边民族与中原政权的互动阐释为文化包容与[[Sinicisation|汉化]]同化过程。 |
-> | [[Official Knowledge]] | 概念 | 其学术成果自 1980 年代起被引入中国历史教育作为[[Official Knowledge|官方知识]]的养分。 |
+> | [[Sinicisation]] | 概念 | 将周边民族与中原政权的互动阐释为文化包容与[[Sinicisation\|汉化]]同化过程。 |
+> | [[Official Knowledge]] | 概念 | 其学术成果自 1980 年代起被引入中国历史教育作为[[Official Knowledge\|官方知识]]的养分。 |

@@ -121,12 +121,12 @@ updated: 2026-08-21
 ## 概念辨析
 
 > [!contrast-table] 因果关系四重刻画取向对比
-> | 比较维度 | 决定论因果 (Deterministic) | 概率因果 (Probabilistic) | [[Counterfactual|反事实]]潜在结果模型 (Counterfactual) | 机制生成论因果 (Generative) |
+> | 比较维度 | 决定论因果 (Deterministic) | 概率因果 (Probabilistic) | [[Counterfactual\|反事实]]潜在结果模型 (Counterfactual) | 机制生成论因果 (Generative) |
 > |:---|:---|:---|:---|:---|
 > | **核心本体主张** | 若 $X$ 发生，则 $Y$ 必然发生（$100\%$ 必然性） | $X$ 的出现系统性提高 $Y$ 发生的概率 | 因果效应为个体接受处理与未接受处理的潜在结果之差 | 因果是行动者在特定情境脉络下通过能动性转化的动态过程 |
 > | **代表传统与学者** | 经典物理学、休谟恒常联结 | Suppes (1970), Mellor (1995) | Neyman (1923), Rubin (1974), Holland (1986) | Salmon (1998), Pawson & Tilley (1997), Morrison (2009) |
-> | **核心推断挑战** | 无法容纳社会系统的随机扰动与复杂互动 | 统计关联可能受隐性混杂[[Variable|变量]]污染 | 因果推断基本问题（单一个体反事实不可直接观测） | 质性叙事的[[Multiplicity|多重性]]（[[Rashomon Effect|罗生门效应]]）与主观意图黑箱 |
-> | **主要应对方法** | 封闭实验室极限控制 | [[Multiple Regression|多元回归]]、倾向得分匹配（PSM） | [[Randomised Controlled Trials|随机对照试验]]（RCT）、工具变量（IV）、断点回归（RDD） | 质性过程追踪、[[Realist Evaluation|现实主义评估]]、[[Action Narratives|行动叙事]] |
+> | **核心推断挑战** | 无法容纳社会系统的随机扰动与复杂互动 | 统计关联可能受隐性混杂[[Variable\|变量]]污染 | 因果推断基本问题（单一个体反事实不可直接观测） | 质性叙事的[[Multiplicity\|多重性]]（[[Rashomon Effect\|罗生门效应]]）与主观意图黑箱 |
+> | **主要应对方法** | 封闭实验室极限控制 | [[Multiple Regression\|多元回归]]、倾向得分匹配（PSM） | [[Randomised Controlled Trials\|随机对照试验]]（RCT）、工具变量（IV）、断点回归（RDD） | 质性过程追踪、[[Realist Evaluation\|现实主义评估]]、[[Action Narratives\|行动叙事]] |
 
 ---
 
@@ -140,9 +140,9 @@ updated: 2026-08-21
 > - **因果机制与情境条件（Mechanisms & Contextual Conditions）** 识别[[Compound Causes|复合原因]]（Compound Causes）与[[Interaction Effect|交互效应]]，解释干预在特定生态情境中赖以起效的中介机制。
 
 > [!framework-table] 循证政策中的因果识别设计分级（基于 Wadhwa et al., 2024; WWC Standards v5.0）
-> | 因果推断强度等级 | 典型研究设计类型 | [[Threats to Internal Validity|内部效度威胁]]控制机制 | 清算中心准入待遇（[[What Works Clearinghouse|WWC]] / [[Blueprints for Healthy Youth Development|Blueprints]] / [[Home Visiting Evidence of Effectiveness|HomVEE]]） |
+> | 因果推断强度等级 | 典型研究设计类型 | [[Threats to Internal Validity\|内部效度威胁]]控制机制 | 清算中心准入待遇（[[What Works Clearinghouse\|WWC]] / [[Blueprints for Healthy Youth Development\|Blueprints]] / [[Home Visiting Evidence of Effectiveness\|HomVEE]]） |
 > |:---|:---|:---|:---|
-> | **3 级（强因果推断）** | **随机对照试验（RCT）**<br>**断点回归（RDD）** | 随机分配使两组在可测与不可测[[Variable|变量]]上均等价；断点局域随机化控制连续混杂 | 无保留达标（Meets Standards Without Reservations）；可作为最高评级（Model / [[Top Institute for Evidence-Based Education Research|TIER]] 1）证据 |
+> | **3 级（强因果推断）** | **随机对照试验（RCT）**<br>**断点回归（RDD）** | 随机分配使两组在可测与不可测[[Variable\|变量]]上均等价；断点局域随机化控制连续混杂 | 无保留达标（Meets Standards Without Reservations）；可作为最高评级（Model / [[Top Institute for Evidence-Based Education Research\|TIER]] 1）证据 |
 > | **2 级（中度因果推断）** | **严谨准实验设计（QED）**<br>**间断时间序列（ITS）** | 建立基线等值性（Baseline Equivalence，差值 $< 0.05\text{ SD}$）；多时间点追踪排除历史与成熟威胁 | 有保留达标（Meets Standards With Reservations）；满足联邦 Tier 2 标准 |
 > | **1 级（弱因果推断）** | **匹配不良的比较组研究**<br>**事后回溯相关研究** | 仅控制部分可观察协变量，存在严重的不可测选择偏倚（Selection Bias） | 通常判定为不达标（Does Not Meet Standards）；仅能作为初步探索线索 |
 > | **0 级（无效因果推断）** | **单组前后测设计（Pre-Post）**<br>**事后单次调查** | 无法分离自变量与自然成熟、历史事件、均值回归的混杂 | 完全被所有权威清算中心排除，不承认为因果证据 |
@@ -219,10 +219,10 @@ updated: 2026-08-21
 > [!contrast-table] 因果推断核心命题总览
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |:---|:---|:---|:---|
-> | **反事实基准命题** | 因果效应本质是潜在结果差，依赖构建反事实控制组 | RCT、[[Quasi-Experimental Designs|QED]]、RDD 因果评估 | Holland (1986); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al. (2011)]] |
+> | **反事实基准命题** | 因果效应本质是潜在结果差，依赖构建反事实控制组 | RCT、[[Quasi-Experimental Designs\|QED]]、RDD 因果评估 | Holland (1986); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al. (2011)]] |
 > | **概率复合因果命题** | 社会因果呈现概率性，依赖复合条件与交互作用 | 复杂干预评估、析因实验设计 | Mellor (1995); 复合因果研究组 |
-> | **双向互补推断命题** | 前向实验（测效果）与后向追溯（明机制）深度融合 | [[Mixed Methods Research|混合方法研究]]、[[Realist Evaluation|现实主义评估]] | [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]]; Morrison (2009) |
-> | **效能综合门槛命题** | 单项因果识别不等于跨平台稳健，需经受复制门槛检验 | 循证清算中心、政策认证决策 | [[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015)]]; [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] |
+> | **双向互补推断命题** | 前向实验（测效果）与后向追溯（明机制）深度融合 | [[Mixed Methods Research\|混合方法研究]]、[[Realist Evaluation\|现实主义评估]] | [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]]; Morrison (2009) |
+> | **效能综合门槛命题** | 单项因果识别不等于跨平台稳健，需经受复制门槛检验 | 循证清算中心、政策认证决策 | [[Argument_Hitchcock_2015_JBE\|Hitchcock et al. (2015)]]; [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] |
 
 ---
 
@@ -275,12 +275,12 @@ updated: 2026-08-21
 > [!ref-table]- 因果推断核心实证与方法学案例
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究与案例 | 案例情境与对象 | 因果设计类型 | 核心因果机制与[[Variable|变量]] | 关键结论与启示 | 解释边界 |
+> | 研究与案例 | 案例情境与对象 | 因果设计类型 | 核心因果机制与[[Variable\|变量]] | 关键结论与启示 | 解释边界 |
 > |:---|:---|:---|:---|:---|:---|
-> | [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] | 10 个清算中心审查的 1,359 个去重教育项目 | 因果设计分级与跨平台综合评级 | 因果识别设计（[[Randomised Controlled Trials|RCT]]/[[Quasi-Experimental Designs|QED]]/RDD）与综合门槛 | 证明单项研究的因果识别（[[Internal Validity|内部效度]]）不等于宏观评级收敛；35.4% 的极端评级冲突源于独立复制与随访门槛差异 | 宏观清算体系元评估 |
-> | [[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015)]] | [[What Works Clearinghouse|WWC]] [[Single-Subject Design|单一被试设计]]（[[Single-Case Design|SCD]]）审查标准 | [[ABAB Design|ABAB 设计]]与多基线设计 (SCD) | 阶段撤回与多基线阶梯式介入 | 证明 SCD 凭借密集的阶段内重复测量与阶段间对比，与组间 RCT 共享相同的排除成熟/历史替代解释逻辑 | 单一个案因果推断 |
-> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al. (2011)]] | 阅读时间增加与阅读能力提升案例 | 机制展开与过程追踪 | 阅读动机、专注度、文本难度、教师支架 | 证明单一输入变量并非简单因果，背后包含至少 18 个微观维度的动态交互与能动性转化过程 | 复杂[[Causal Processes|因果过程]]模型 |
-> | [[Compound Causes|复合原因]]哲学案例 (Morrison, 2009) | 冰面摔倒骨折经典案例 | [[Necessary and Sufficient Conditions|必要条件]]与充分条件析因 | 冰面、视力不佳、鞋底光滑、平衡感差、骨质疏松 | 证明冰面仅为贡献原因之一，需与其他条件结合构成充分条件组合，揭示复合原因本质 | 哲学因果分析 |
+> | [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] | 10 个清算中心审查的 1,359 个去重教育项目 | 因果设计分级与跨平台综合评级 | 因果识别设计（[[Randomised Controlled Trials\|RCT]]/[[Quasi-Experimental Designs\|QED]]/RDD）与综合门槛 | 证明单项研究的因果识别（[[Internal Validity\|内部效度]]）不等于宏观评级收敛；35.4% 的极端评级冲突源于独立复制与随访门槛差异 | 宏观清算体系元评估 |
+> | [[Argument_Hitchcock_2015_JBE\|Hitchcock et al. (2015)]] | [[What Works Clearinghouse\|WWC]] [[Single-Subject Design\|单一被试设计]]（[[Single-Case Design\|SCD]]）审查标准 | [[ABAB Design\|ABAB 设计]]与多基线设计 (SCD) | 阶段撤回与多基线阶梯式介入 | 证明 SCD 凭借密集的阶段内重复测量与阶段间对比，与组间 RCT 共享相同的排除成熟/历史替代解释逻辑 | 单一个案因果推断 |
+> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al. (2011)]] | 阅读时间增加与阅读能力提升案例 | 机制展开与过程追踪 | 阅读动机、专注度、文本难度、教师支架 | 证明单一输入变量并非简单因果，背后包含至少 18 个微观维度的动态交互与能动性转化过程 | 复杂[[Causal Processes\|因果过程]]模型 |
+> | [[Compound Causes\|复合原因]]哲学案例 (Morrison, 2009) | 冰面摔倒骨折经典案例 | [[Necessary and Sufficient Conditions\|必要条件]]与充分条件析因 | 冰面、视力不佳、鞋底光滑、平衡感差、骨质疏松 | 证明冰面仅为贡献原因之一，需与其他条件结合构成充分条件组合，揭示复合原因本质 | 哲学因果分析 |
 
 ---
 

@@ -73,7 +73,7 @@ updated: 2026-07-13
 ## 研究程序
 
 > [!ref-table] 3 × 3 因子设计的[[Independent Variable|自变量]]与水平
-> | 自[[Variable|变量]] | 水平 1 | 水平 2 | 水平 3 |
+> | 自[[Variable\|变量]] | 水平 1 | 水平 2 | 水平 3 |
 > |---|---|---|---|
 > | **资源可用性** | 有限（1） | 中等（2） | 高（3） |
 > | **学习动机** | 低（4） | 中等（5） | 高（6） |
@@ -119,9 +119,9 @@ updated: 2026-07-13
 > |---|---|---|
 > | [[True Experimental Design]] | 方法 | 所属类别——因子设计是真实验的一种变体 |
 > | [[Interaction Effect]] | 概念 | 核心检验对象——因子设计的核心价值就是检验交互效应 |
-> | [[Solomon Four-Group Design]] | 方法 | 特例——所罗门四组是 2 × 2 因子设计的特殊案例（[[Pre-test and Post-test|前测]]×处理） |
+> | [[Solomon Four-Group Design]] | 方法 | 特例——所罗门四组是 2 × 2 因子设计的特殊案例（[[Pre-test and Post-test\|前测]]×处理） |
 > | [[Analysis of Variance]] | 方法 | 分析方法——ANOVA 是因子设计标准的数据分析工具 |
-> | [[Parametric Design]] | 方法 | 互补方法——参数设计关注单一[[Variable|变量]]的剂量-反应，因子设计关注多变量交互 |
+> | [[Parametric Design]] | 方法 | 互补方法——参数设计关注单一[[Variable\|变量]]的剂量-反应，因子设计关注多变量交互 |
 
 ## 使用此方法的研究
 

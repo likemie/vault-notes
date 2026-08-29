@@ -131,7 +131,7 @@ Reips (2002a, 2002b) 提供的系统实施指南（[[Argument_Cohen_Manion_Morri
 > [!entry-map]
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
-> | [[Experimental Research]] | 方法 | 母方法——网络实验是传统实验在远程环境中的延伸，共享操纵[[Independent Variable|自变量]]、测量[[Dependent Variable|因变量]]、[[Random Assignment|随机分配]]等核心逻辑 |
+> | [[Experimental Research]] | 方法 | 母方法——网络实验是传统实验在远程环境中的延伸，共享操纵[[Independent Variable\|自变量]]、测量[[Dependent Variable\|因变量]]、[[Random Assignment\|随机分配]]等核心逻辑 |
 > | [[Internet-based Survey]] | 方法 | 相近方法——静态印刷材料型网络实验与网络调查高度相似，共享下载时间、浏览器差异等问题 |
 
 ## 使用此方法的研究

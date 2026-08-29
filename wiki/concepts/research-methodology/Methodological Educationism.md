@@ -68,7 +68,7 @@ updated: 2026-07-11
 ## 概念辨析
 
 > [!contrast-table] 概念辨析
-> | 维度 | Methodological Educationism (本概念) | [[Methodological Nationalism]] | [[Soviet Statism|Methodological Statism]] |
+> | 维度 | Methodological Educationism (本概念) | [[Methodological Nationalism]] | [[Soviet Statism\|Methodological Statism]] |
 > |------|--------|----------------|----------------|
 > | **核心还原对象** | 将“教育”等同于正式的“学校教育（Schooling）”。 | 将“社会”等同于“领土化民族国家（Nation-State）”。 | 将“国家政府”视为唯一的社会行动者与政策提供者。 |
 > | **盲区与遗漏** | 忽视了家庭教育、社群学习、工作场所培训和非正式网络。 | 忽视了跨国政策流转、次国家区域博弈及全球化网络。 | 忽视了私营部门、非政府组织、跨国公司等非国家能动主体。 |

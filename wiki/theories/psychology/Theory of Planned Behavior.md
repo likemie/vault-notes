@@ -79,13 +79,13 @@ updated: 2026-08-28
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
-> | [[Teacher Beliefs|行为态度与信念]] | 概念 | 个体对执行目标行为所持有的积极或消极价值评价，是驱动行为意向的核心动力。 |
-> | [[Teacher Beliefs|主观规范（Subjective Norm）]] | 机制 | 个体感知到的来自同事、[[School Leadership|学校领导]]或社会群体期望其执行该行为的规范压力。 |
-> | [[Research Literacy|知觉行为控制（PBC）]] | 概念 | 个体对自身掌握执行行为所需专业技能、资源与机会的主观掌控感。 |
-> | [[Teacher Professional Agency|行为意向（Intention）]] | 机制 | 个体付诸实际行动的主观准备状态，是连接信念与实际行动的最直接前因。 |
-> | [[Engagement in and with Research|背景因素与直接经验]] | 框架 | 涵盖亲身开展科研、[[Document|文献]]研读与培训经验，通过重塑底层信念系统发挥间接赋能作用。 |
-> | [[Research Utilization|外显目标行为]] | 结果 | 最终的实践行动输出，由行为意向与知觉行为控制共同直接决定。 |
-> | [[Confirmatory Factor Analysis|验证性因子分析]] | 方法 | 检验[[Construct|理论构念]]维度结构、知觉控制方差贡献及测量等值性的核心量化方法。 |
+> | [[Teacher Beliefs\|行为态度与信念]] | 概念 | 个体对执行目标行为所持有的积极或消极价值评价，是驱动行为意向的核心动力。 |
+> | [[Teacher Beliefs\|主观规范（Subjective Norm）]] | 机制 | 个体感知到的来自同事、[[School Leadership\|学校领导]]或社会群体期望其执行该行为的规范压力。 |
+> | [[Research Literacy\|知觉行为控制（PBC）]] | 概念 | 个体对自身掌握执行行为所需专业技能、资源与机会的主观掌控感。 |
+> | [[Teacher Professional Agency\|行为意向（Intention）]] | 机制 | 个体付诸实际行动的主观准备状态，是连接信念与实际行动的最直接前因。 |
+> | [[Engagement in and with Research\|背景因素与直接经验]] | 框架 | 涵盖亲身开展科研、[[Document\|文献]]研读与培训经验，通过重塑底层信念系统发挥间接赋能作用。 |
+> | [[Research Utilization\|外显目标行为]] | 结果 | 最终的实践行动输出，由行为意向与知觉行为控制共同直接决定。 |
+> | [[Confirmatory Factor Analysis\|验证性因子分析]] | 方法 | 检验[[Construct\|理论构念]]维度结构、知觉控制方差贡献及测量等值性的核心量化方法。 |
 
 ---
 

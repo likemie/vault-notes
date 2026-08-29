@@ -93,7 +93,7 @@ updated: 2026-07-13
 > [!entry-map]
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
-> | [[Pretest-Posttest Control Group Design]] | 方法 | 互补设计——有[[Pre-test and Post-test|前测]]时使用，担心前测时使用本设计 |
+> | [[Pretest-Posttest Control Group Design]] | 方法 | 互补设计——有[[Pre-test and Post-test\|前测]]时使用，担心前测时使用本设计 |
 > | [[Solomon Four-Group Design]] | 方法 | 综合方案——同时包含有前测和无前测组，可分离前测效应 |
 > | [[Random Assignment]] | 方法 | 唯一依赖——无前测时随机化的质量决定了设计的有效性 |
 

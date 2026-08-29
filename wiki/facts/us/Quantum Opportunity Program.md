@@ -80,13 +80,13 @@ updated: 2026-08-22
 ## 循证清算中心评级全景对比
 
 > [!contrast-table] 四大清算中心对 QOP 与 EQOP 的评级与审查机制对比（基于 Wadhwa et al., 2024）
-> | 审查维度 | [[National Dropout Prevention Center|NDPC]] | [[What Works Clearinghouse|WWC]] (联邦官方) | [[Blueprints for Healthy Youth Development|Blueprints]] | [[Clearinghouse for Military Family Readiness Continuum of Evidence|CMFR]] |
+> | 审查维度 | [[National Dropout Prevention Center\|NDPC]] | [[What Works Clearinghouse\|WWC]] (联邦官方) | [[Blueprints for Healthy Youth Development\|Blueprints]] | [[Clearinghouse for Military Family Readiness Continuum of Evidence\|CMFR]] |
 > |:---|:---|:---|:---|:---|
 > | **原始 QOP 底线评级** | **Promising / Strong**<br>(基于未具名多中心 RCT 强力推荐) | **No Discernible Effects**<br>(未发现明显效果·证据不足) | **Uncertified**<br>(未发现达标正向证据·不予认证) | 未独立审查原始版 |
 > | **改良版 EQOP 底线评级** | 归入主干方案推荐 | 未独立审查 EQOP | **Promising（有望）**<br>(基于 Curtis 2015 报告认证) | **Insufficient Evidence**<br>(未找到已发表期刊文献·不推荐) |
-> | **核心证据池与[[Document|文献]]采纳** | 依赖 2 项声称在单一试点显示毕业正效应的多中心 [[Randomised Controlled Trials|RCT]]（未公开篇目） | 审查 2 项研究；仅 Schirm et al. (2006) 达标（有保留），但效果不显著 | 原始 QOP 判定无合格研究；EQOP 采纳 1 项 Child Trends 技术报告 | 检索截至 2019 年初因缺乏同行评审期刊文献直接否决 |
+> | **核心证据池与[[Document\|文献]]采纳** | 依赖 2 项声称在单一试点显示毕业正效应的多中心 [[Randomised Controlled Trials\|RCT]]（未公开篇目） | 审查 2 项研究；仅 Schirm et al. (2006) 达标（有保留），但效果不显著 | 原始 QOP 判定无合格研究；EQOP 采纳 1 项 Child Trends 技术报告 | 检索截至 2019 年初因缺乏同行评审期刊文献直接否决 |
 > | **文献可得性规则门槛** | 宽容采纳内部评估报告 | 严格因果审查，采纳达标政府评估报告 | **允许采纳未发表评估报告**（但核查研究严谨性） | **刚性排斥灰色文献**（仅限同行评审期刊发表文章） |
-> | **规模化复制效应审视** | 聚焦早期小规模试点高效应 | 聚焦全国 7 城市大规模集群 RCT（揭示[[Fade-out Effect|效应衰减]]） | 关注最新单中心评估结果 | 关注学术期刊公开出版物 |
+> | **规模化复制效应审视** | 聚焦早期小规模试点高效应 | 聚焦全国 7 城市大规模集群 RCT（揭示[[Fade-out Effect\|效应衰减]]） | 关注最新单中心评估结果 | 关注学术期刊公开出版物 |
 
 ---
 
@@ -119,7 +119,7 @@ updated: 2026-08-22
 >
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|
-> | [[Educational Evidence Clearinghouses]] | 核心概念 | QOP 是检验版本世代迭代、[[Document|文献]]可得性与规模化衰减的代表案型。 |
+> | [[Educational Evidence Clearinghouses]] | 核心概念 | QOP 是检验版本世代迭代、[[Document\|文献]]可得性与规模化衰减的代表案型。 |
 > | [[National Dropout Prevention Center]] | 评价机构 | 依据早期试点数据对原始 QOP 给予长期正向推荐。 |
 > | [[What Works Clearinghouse]] | 评价机构 | 依据全国大规模 RCT（Schirm 2006）裁定原始 QOP 无明显效果。 |
 > | [[Blueprints for Healthy Youth Development]] | 评价机构 | 否定原始 QOP 但基于未发表报告认证改良版 EQOP 为 Promising。 |

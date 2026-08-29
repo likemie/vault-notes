@@ -77,7 +77,7 @@ updated: 2026-08-03
 >
 > | 编号 | 题项 | 作答选项 | 计分 | 来源 |
 > |---|---|---|---|---|
-> | 1 | 努力澄清含义，并界定自己不熟悉的术语<br><small>Work to clarify meaning and define terms with which you are unfamiliar</small> | 1 至 7 | 正向计分 | [[Argument_Cole_2015_AJE|Cole et al. (2015, p. 255)]] |
+> | 1 | 努力澄清含义，并界定自己不熟悉的术语<br><small>Work to clarify meaning and define terms with which you are unfamiliar</small> | 1 至 7 | 正向计分 | [[Argument_Cole_2015_AJE\|Cole et al. (2015, p. 255)]] |
 > | 2 | 努力理解新材料的重要性，判断它如何与既有知识或经验相衔接<br><small>Work to understand the significance of the new material to see how it fits with your prior knowledge or experience</small> | 1 至 7 | 正向计分 | Cole et al. |
 > | 3 | 用几种方式重新表述新问题，以澄清其含义和范围<br><small>Express the new question in several ways to clarify its meaning and scope</small> | 1 至 7 | 正向计分 | Cole et al. |
 > | 4 | 将问题拆分为若干子问题<br><small>Break the question into sub-questions</small> | 1 至 7 | 正向计分 | Cole et al. |
@@ -101,7 +101,7 @@ updated: 2026-08-03
 >
 > | 研究 | 工具版本 | 样本与用途 | 测量属性 | 关键结果 |
 > |---|---|---|---|---|
-> | [[Argument_Cole_2015_AJE|Cole et al. (2015)]] | 英文十四题研究版 | 澳大利亚 47 所学校的 ToK 十一、十二年级学生，在线施测。题项分析 n = 1,262，总分分析 n = 1,242。用于比较两个年级的自报[[Critical Thinking|批判性思维]]策略使用 | 当前样本 α = .96；依据 Delphi Report 开发并经 [[Exploratory Factor Analysis|EFA]] 缩题；因子结构、载荷、拟合和独立样本验证 — | 十二年级总分高于十一年级，4.85 对 4.62，t(1240) = 3.04，p < .001。十四题中十一题差异显著 |
+> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | 英文十四题研究版 | 澳大利亚 47 所学校的 ToK 十一、十二年级学生，在线施测。题项分析 n = 1,262，总分分析 n = 1,242。用于比较两个年级的自报[[Critical Thinking\|批判性思维]]策略使用 | 当前样本 α = .96；依据 Delphi Report 开发并经 [[Exploratory Factor Analysis\|EFA]] 缩题；因子结构、载荷、拟合和独立样本验证 — | 十二年级总分高于十一年级，4.85 对 4.62，t(1240) = 3.04，p < .001。十四题中十一题差异显著 |
 
 ---
 
@@ -112,4 +112,4 @@ updated: 2026-08-03
 >
 > | 版本 | 语言与地区 | 目标人群 | 题项数 | 主要变化 | 来源 |
 > |---|---|---|---|---|---|
-> | 原始研究版 | 英语，澳大利亚 | 十一、十二年级 ToK 学生 | 14 | 由 [[Exploratory Factor Analysis|EFA]] 缩题形成 | [[Argument_Cole_2015_AJE|Cole et al. (2015, pp. 252, 255)]] |
+> | 原始研究版 | 英语，澳大利亚 | 十一、十二年级 ToK 学生 | 14 | 由 [[Exploratory Factor Analysis\|EFA]] 缩题形成 | [[Argument_Cole_2015_AJE\|Cole et al. (2015, pp. 252, 255)]] |

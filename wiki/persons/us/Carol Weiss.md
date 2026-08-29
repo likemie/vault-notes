@@ -42,7 +42,7 @@ updated: 2026-08-26
 > [!person-profile] 人物档案
 > - **身份位置** 美国政策与社会研究学者，活跃于 20 世纪后半叶的公共政策研究领域。
 > - **核心角色** [[Research Utilization|研究利用]]（research utilization）研究的开创者，为"研究如何进入政策与实践"提供概念工具箱。
-> - **代表贡献** 提出研究利用的七种模型（1979）；提出"知识渗透"（knowledge creep）概念（1980）；为概念性、工具性与[[Conceptual, Instrumental, and Symbolic Use of Research|象征性使用]]类型学奠定基础。
+> - **代表贡献** 提出[[Research Utilization Models|研究利用模型]]（1979）；提出"知识渗透"（knowledge creep）概念（1980）；为概念性、工具性与[[Conceptual, Instrumental, and Symbolic Use of Research|象征性使用]]类型学奠定基础。
 
 > [!citation-card]- 人物定位的关键来源
 > Weiss（1979）提出研究利用的七种模型（知识驱动、问题解决、互动、政治、战术、启蒙、以及研究作为社会智识事业的一部分），成为后来概念性、工具性与象征性使用类型学的基础（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al., 2026, p.3]]）。
@@ -114,6 +114,7 @@ updated: 2026-08-26
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
+> | [[Research Utilization Models]] | 理论 | 提出研究利用的七种经典模型与四大过程范式，是条目核心思想源头 |
 > | [[Research Utilization]] | 概念 | 提供研究利用的四种过程模型与"知识渗透"概念，是条目核心来源 |
 > | [[Conceptual, Instrumental, and Symbolic Use of Research]] | 概念 | 七种模型为概念/工具/象征三分类提供起源 |
 > | [[Evidence-Informed Practice]] | 概念 | 其"研究以多种方式影响决策"的主张是 EIP 多源整合思想的早期基础 |

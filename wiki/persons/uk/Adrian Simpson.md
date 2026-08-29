@@ -7,7 +7,7 @@ summary: "英国数学教育学者和方法论批评者，效应量误用问题�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 22
+person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -34,6 +34,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Multiple-Choice Questions]]"
   - "[[Meta-meta-analysis]]"
 related_persons: []
 related_arguments:
@@ -108,7 +109,7 @@ updated: '2026-06-08'
 
 
 > [!info] 思想实验与防御策略分析（2019）
-> [[Argument_Simpson_2019_ERE|Simpson (2019)]]以"教一个匈牙利单词"的思想实验提供了[[Critique of Effect Size|效应量批判]]中最具说服力的论证工具。该实验证明：完全相同的教育干预（教 *oktatás* = "education"），仅改变测试设计（是否包含该词、开放式 vs. 选择题、题目数量），效应量可以从 0 变化到 0.4、0.6、4、乃至无穷大([[Argument_Simpson_2019_ERE|Simpson, 2019, pp.100–102]])。
+> [[Argument_Simpson_2019_ERE|Simpson (2019)]]以"教一个匈牙利单词"的思想实验提供了[[Critique of Effect Size|效应量批判]]中最具说服力的论证工具。该实验证明：完全相同的教育干预（教 *oktatás* = "education"），仅改变测试设计（是否包含该词、开放式 vs. [[Multiple-Choice Questions|选择题]]、题目数量），效应量可以从 0 变化到 0.4、0.6、4、乃至无穷大([[Argument_Simpson_2019_ERE|Simpson, 2019, pp.100–102]])。
 >
 > > 例：如果测试恰好包含 *oktatás* 且其他词无人认识，实验组均分 1、对照组均分 0、标准差极小 → d ≈ ∞。按 Hattie 标准，这使"教一个匈牙利单词"成为有史以来最强的教育干预([[Argument_Simpson_2019_ERE|Simpson, 2019, p.101]])。
 >
@@ -125,7 +126,7 @@ updated: '2026-06-08'
 > | 防御策略 | 效应量文献中的表现 |
 > |---------|-----------------|
 > | 列举假设（但不检验） | Schneider & Preckel (2017) 和 Higgins & Katsipataki (2016) 列出假设但不检验——Berk (2007, p.264) 描述为"列举假设本身似乎就使元分析免于建模错误" |
-> | 你不能证明假设是错的 | [[Argument_Hattie_2017_SLM|Hattie (2017)]] 辩称其"大胆推测"尚未被证伪——但"我们能够注意到他所使用的无效论证形式不允许得出这些结论"（p.108） |
+> | 你不能证明假设是错的 | [[Argument_Hattie_2017_SLM\|Hattie (2017)]] 辩称其"大胆推测"尚未被证伪——但"我们能够注意到他所使用的无效论证形式不允许得出这些结论"（p.108） |
 > | 有什么危害？ | "干预形式被推广为更有效，而事实上证据仅表明这些是更容易进行清晰研究的领域。这种误认正在引导政策、驱动稀缺资源的使用并导致教学方法的重大改变。**这就是危害。**"（p.108） |
 
 ## 主要贡献

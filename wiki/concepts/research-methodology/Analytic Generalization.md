@@ -54,12 +54,12 @@ updated: 2026-07-11
 > [!contrast-table] 统计推广 vs 分析性推广
 > | 维度 | 统计推广（Statistical Generalization） | 分析性推广（Analytic Generalization） |
 > |---|---|---|
-> | 逻辑基础 | 从样本到总体，基于抽样策略、频率、[[Statistical Significance|统计显著性]]和[[Effect Size|效应量]] | 从案例到理论，基于逻辑连接而非统计连接 |
+> | 逻辑基础 | 从样本到总体，基于抽样策略、频率、[[Statistical Significance\|统计显著性]]和[[Effect Size\|效应量]] | 从案例到理论，基于逻辑连接而非统计连接 |
 > | 关注点 | 代表性样本的统计参数 | 案例只代表自己，但贡献于理论的扩展和推广 |
 > | 案例与总体的关系 | 案例是总体的样本 | 案例不是样本 |
 > | 推广对象 | 总体参数 | 更广泛的理论——帮助理解其他类似案例、现象或情境 |
 > | 与实验的类比 | 调查统计 | 类似单次实验或准实验——理论可在一个或多个经验案例中检验 |
-> | 复制的含义 | 增大[[Sample Size Determination|样本量]]以降低[[Sampling Error|抽样误差]] | 通过多个案例的复制逻辑增强理论的[[External Validity|可推广性]] |
+> | 复制的含义 | 增大[[Sample Size Determination\|样本量]]以降低[[Sampling Error\|抽样误差]] | 通过多个案例的复制逻辑增强理论的[[External Validity\|可推广性]] |
 
 ## 核心要素
 

@@ -81,8 +81,8 @@ updated: 2026-08-19
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Certainty of Knowledge]] | 概念 | TOSCA 证实其独立负向预测 Abitur 成绩并中介智力与[[Cultural Capital|文化资本]]。 |
-> | [[Cultural Capital]] | 概念 | TOSCA 将其[[Operationalization|操作化]]为家庭藏书量，证实其通过降低确定性信念间接赋能学业。 |
+> | [[Certainty of Knowledge]] | 概念 | TOSCA 证实其独立负向预测 Abitur 成绩并中介智力与[[Cultural Capital\|文化资本]]。 |
+> | [[Cultural Capital]] | 概念 | TOSCA 将其[[Operationalization\|操作化]]为家庭藏书量，证实其通过降低确定性信念间接赋能学业。 |
 > | [[Disciplinary Socialization]] | 概念 | TOSCA 两波跨期数据为学科社会化提供了经典因果实证检验。 |
 > | [[Cognitive Ability Test KFT]] | 测量工具 | TOSCA 测量一般流体智力（$g$ 因子）的标准工具。 |
 > | [[Ulrich Trautwein]] | 人物 | TOSCA 项目的核心设计者与学术产出领军学者。 |

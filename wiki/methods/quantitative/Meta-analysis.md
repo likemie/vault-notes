@@ -154,21 +154,21 @@ flowchart LR
 > [!contrast-table] 元分析核心统计方法与参数索引矩阵
 > | 统计参数 / 方法条目 | 核心数学符号与公式 | 统计学功能与解决的痛点 | 决策阈值与研判准则 | 深度条目索引 |
 > |---|---|---|---|---|
-> | **[[Inverse-Variance Weighting|逆方差加权（IVW）]]** | $w_i = \frac{1}{v_i}$ 或 $w_i^* = \frac{1}{v_i + \tau^2}$ | 依据研究精度的倒数分配权重，实现合成估计量方差最小化与最佳线性无偏估计（BLUE）。 | 95% CI 不跨 0 判定效应显著；对比固定与随机权重差异评估小研究权重膨胀风险。 | 🔗 [[Inverse-Variance Weighting]] |
-> | **[[Fixed-Effect and Random-Effects Models|固定与随机效应模型]]** | 固定：$\theta_i = \theta + \epsilon_i$<br>随机：$\theta_i = \mu + u_i + \epsilon_i$ | 固定模型假定共享单一真实效应；随机模型纳入研究间异质性方差 $\tau^2$，外推至广义总体。 | $Q$ 检验显著或 $I^2 > 25\%$ 时必须优先采用随机效应模型。 | 🔗 [[Fixed-Effect and Random-Effects Models]] |
-> | **[[Between-Study Variance|研究间方差（Tau² / τ²）]]** | $\hat{\tau}^2 = \frac{Q - (k-1)}{\sum w_i - \frac{\sum w_i^2}{\sum w_i}}$ | 衡量超出[[Sampling Error|抽样误差]]之外的跨研究真实效应离散度（DerSimonian & Laird 矩估计量或 REML）。 | $\tau^2 = 0$ 退化为固定效应；$\tau^2 > 0$ 表明真实效应存在实质变异。 | 🔗 [[Between-Study Variance]] |
-> | **[[Cochran's Q Test|Cochran's Q 检验]]** | $Q = \sum w_i (y_i - \bar{y})^2 \sim \chi^2_{k-1}$ | 检验各研究真实效应量是否完全同质（$H_0: \tau^2 = 0$）的推断检验。 | 若 $p < .10$（或 $p < .05$），拒绝同质性原假设，表明存在实质性异质性。 | 🔗 [[Cochran's Q Test]] |
-> | **[[I-squared Statistic|I² 统计量（异质性比率）]]** | $I^2 = \frac{Q - (k-1)}{Q} \times 100\%$ | 衡量跨研究总变异中由真实[[Heterogeneity|异质性]]而非偶然抽样误差所解释的方差百分比。 | $I^2 \approx 25\%$（低）、$50\%$（中）、$75\%$（高异质性）；指导亚组分析与元回归。 | 🔗 [[I-squared Statistic]] |
-> | **[[Prediction Interval|95% 预测区间（PI）]]** | $\bar{\mu} \pm t_{k-2, 0.975} \sqrt{SE(\bar{\mu})^2 + \hat{\tau}^2}$ | 估计在未来单项同类新研究中观察到的真实效应范围，揭示干预在特定情境下产生负效应的风险。 | 即使 95% CI 全部落在正区间，若 95% PI 跨越 0，表明干预在部分真实情境下可能无效或有害。 | 🔗 [[Prediction Interval]] |
-> | **[[Forest Plot|森林图（Forest Plot）]]** | 点估计、置信线段与合并菱形 | 全景可视化展示各项纳入研究的[[Effect Size|效应量]]、[[Confidence Interval|置信区间]]、权重占比及总体汇总效应。 | 观察线段重叠度（直观判读异质性）与菱形顶点位置（总体效应方向与精度）。 | 🔗 [[Forest Plot]] |
-> | **[[Funnel Plot|漏斗图（Funnel Plot）]]** | 横轴效应量 vs 纵轴标准误 $SE$ | 几何图形化诊断[[Publication Bias|发表偏倚]]、[[Small Study Effects|小研究效应]]与研究间异质性。 | 对称倒置漏斗提示无偏；底部小样本一角缺失（不对称）提示潜在发表偏倚。 | 🔗 [[Funnel Plot]] |
-> | **[[Egger Regression Test|Egger 线性回归检验]]** | $\frac{y_i}{SE_i} = \beta_0 \frac{1}{SE_i} + \beta_1$ | 定量检验漏斗图不对称性；截距 $\beta_1$ 偏离 0 检验小研究偏倚。 | 若 $p < .05$ 且截距显著偏离 0，确认存在显著发表偏倚与小研究效应。 | 🔗 [[Egger Regression Test]] |
-> | **[[Trim and Fill Method|剪补法（Trim & Fill）]]** | 非参数迭代剪除与镜像填补 | 估算缺失研究数量并在漏斗图对侧填补虚拟研究，重新计算校正后的合并效应量。 | 检验填补后效应量点估计降幅是否改变原有结论的[[Statistical Significance|统计显著性]]与实践意义。 | 🔗 [[Trim and Fill Method]] |
-> | **[[Fail-Safe N|失安全系数（Fail-Safe N）]]** | 经典：$N_{\text{fs}} = \frac{(\sum Z_i)^2}{2.706} - k$<br>Orwin：$N_{\text{fs}} = \frac{k(\bar{g} - g_c)}{g_c - g_{\text{fs}}}$ | 极端抽屉文件敏感性测试：经典法计算推翻显著性所需零效应研究数；Orwin 法计算稀释至微小阈值（如 $g_c = 0.01$）所需研究数。 | **Rosenthal 准则** $N_{\text{fs}} > 5k + 10$；**Orwin 准则** 稀释所需未发表研究量远超现实发表容量。 | 🔗 [[Fail-Safe N]] |
-> | **[[Leave-One-Out Sensitivity Analysis|留一法敏感性分析]]（Leave-One-Out）** | $\hat{\theta}_{(-i)} = \sum_{j \ne i} w_j^* y_j / \sum_{j \ne i} w_j^*$ | 依次逐一剔除单项初级研究后重新拟合模型，检验是否存在主导结论或扭曲异质性的极端异常值。 | 若剔除任一研究后合并效应量与 95% CI 保持稳定，确认结论具备高度稳健性。 | 🔗 [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] |
-> | **[[Meta-regression|元回归（Meta-regression）]]** | $\theta_i = \beta_0 + \beta_1 X_{1i} + \dots + u_i + \epsilon_i$ | 将效应量作为[[Dependent Variable|因变量]]，研究特征作为[[Independent Variable|自变量]]，检验协[[Variable|变量]]对效应量变异的调节解释力。 | $F$ 或 $Q_M$ 检验评价模型联合显著性；伪 $R^2$ 评估调节变量对异质性方差的解释率。 | 🔗 [[Meta-regression]] |
-> | **[[Pairwise Wald Tests|成对 Wald 检验]]** | $W_{jk} = \frac{(\hat{\theta}_j - \hat{\theta}_k)^2}{v_j + v_k} \sim \chi^2(1)$ | 检验三个或更多分类亚组之间两两成对效应量差异的统计显著性与级差排序。 | $W > 3.84$ 判定两亚组间差异显著（$p < .05$）；配合事后多重检验校正。 | 🔗 [[Pairwise Wald Tests]] |
-> | **[[Three-Level Meta-Analysis|三水平多层元分析]]** | Level 1: 抽样误差<br>Level 2: 研究内变异<br>Level 3: 研究间变异 | 处理单项研究报告多个相关效应量（多重测量或多结局）时的统计非独立性依赖。 | 似然比检验（LRT）比较二水平与三水平模型；分解 Level 2 与 Level 3 异质性方差占比。 | 🔗 [[Three-Level Meta-Analysis]] |
+> | **[[Inverse-Variance Weighting\|逆方差加权（IVW）]]** | $w_i = \frac{1}{v_i}$ 或 $w_i^* = \frac{1}{v_i + \tau^2}$ | 依据研究精度的倒数分配权重，实现合成估计量方差最小化与最佳线性无偏估计（BLUE）。 | 95% CI 不跨 0 判定效应显著；对比固定与随机权重差异评估小研究权重膨胀风险。 | 🔗 [[Inverse-Variance Weighting]] |
+> | **[[Fixed-Effect and Random-Effects Models\|固定与随机效应模型]]** | 固定：$\theta_i = \theta + \epsilon_i$<br>随机：$\theta_i = \mu + u_i + \epsilon_i$ | 固定模型假定共享单一真实效应；随机模型纳入研究间异质性方差 $\tau^2$，外推至广义总体。 | $Q$ 检验显著或 $I^2 > 25\%$ 时必须优先采用随机效应模型。 | 🔗 [[Fixed-Effect and Random-Effects Models]] |
+> | **[[Between-Study Variance\|研究间方差（Tau² / τ²）]]** | $\hat{\tau}^2 = \frac{Q - (k-1)}{\sum w_i - \frac{\sum w_i^2}{\sum w_i}}$ | 衡量超出[[Sampling Error\|抽样误差]]之外的跨研究真实效应离散度（DerSimonian & Laird 矩估计量或 REML）。 | $\tau^2 = 0$ 退化为固定效应；$\tau^2 > 0$ 表明真实效应存在实质变异。 | 🔗 [[Between-Study Variance]] |
+> | **[[Cochran's Q Test\|Cochran's Q 检验]]** | $Q = \sum w_i (y_i - \bar{y})^2 \sim \chi^2_{k-1}$ | 检验各研究真实效应量是否完全同质（$H_0: \tau^2 = 0$）的推断检验。 | 若 $p < .10$（或 $p < .05$），拒绝同质性原假设，表明存在实质性异质性。 | 🔗 [[Cochran's Q Test]] |
+> | **[[I-squared Statistic\|I² 统计量（异质性比率）]]** | $I^2 = \frac{Q - (k-1)}{Q} \times 100\%$ | 衡量跨研究总变异中由真实[[Heterogeneity\|异质性]]而非偶然抽样误差所解释的方差百分比。 | $I^2 \approx 25\%$（低）、$50\%$（中）、$75\%$（高异质性）；指导亚组分析与元回归。 | 🔗 [[I-squared Statistic]] |
+> | **[[Prediction Interval\|95% 预测区间（PI）]]** | $\bar{\mu} \pm t_{k-2, 0.975} \sqrt{SE(\bar{\mu})^2 + \hat{\tau}^2}$ | 估计在未来单项同类新研究中观察到的真实效应范围，揭示干预在特定情境下产生负效应的风险。 | 即使 95% CI 全部落在正区间，若 95% PI 跨越 0，表明干预在部分真实情境下可能无效或有害。 | 🔗 [[Prediction Interval]] |
+> | **[[Forest Plot\|森林图（Forest Plot）]]** | 点估计、置信线段与合并菱形 | 全景可视化展示各项纳入研究的[[Effect Size\|效应量]]、[[Confidence Interval\|置信区间]]、权重占比及总体汇总效应。 | 观察线段重叠度（直观判读异质性）与菱形顶点位置（总体效应方向与精度）。 | 🔗 [[Forest Plot]] |
+> | **[[Funnel Plot\|漏斗图（Funnel Plot）]]** | 横轴效应量 vs 纵轴标准误 $SE$ | 几何图形化诊断[[Publication Bias\|发表偏倚]]、[[Small Study Effects\|小研究效应]]与研究间异质性。 | 对称倒置漏斗提示无偏；底部小样本一角缺失（不对称）提示潜在发表偏倚。 | 🔗 [[Funnel Plot]] |
+> | **[[Egger Regression Test\|Egger 线性回归检验]]** | $\frac{y_i}{SE_i} = \beta_0 \frac{1}{SE_i} + \beta_1$ | 定量检验漏斗图不对称性；截距 $\beta_1$ 偏离 0 检验小研究偏倚。 | 若 $p < .05$ 且截距显著偏离 0，确认存在显著发表偏倚与小研究效应。 | 🔗 [[Egger Regression Test]] |
+> | **[[Trim and Fill Method\|剪补法（Trim & Fill）]]** | 非参数迭代剪除与镜像填补 | 估算缺失研究数量并在漏斗图对侧填补虚拟研究，重新计算校正后的合并效应量。 | 检验填补后效应量点估计降幅是否改变原有结论的[[Statistical Significance\|统计显著性]]与实践意义。 | 🔗 [[Trim and Fill Method]] |
+> | **[[Fail-Safe N\|失安全系数（Fail-Safe N）]]** | 经典：$N_{\text{fs}} = \frac{(\sum Z_i)^2}{2.706} - k$<br>Orwin：$N_{\text{fs}} = \frac{k(\bar{g} - g_c)}{g_c - g_{\text{fs}}}$ | 极端抽屉文件敏感性测试：经典法计算推翻显著性所需零效应研究数；Orwin 法计算稀释至微小阈值（如 $g_c = 0.01$）所需研究数。 | **Rosenthal 准则** $N_{\text{fs}} > 5k + 10$；**Orwin 准则** 稀释所需未发表研究量远超现实发表容量。 | 🔗 [[Fail-Safe N]] |
+> | **[[Leave-One-Out Sensitivity Analysis\|留一法敏感性分析]]（Leave-One-Out）** | $\hat{\theta}_{(-i)} = \sum_{j \ne i} w_j^* y_j / \sum_{j \ne i} w_j^*$ | 依次逐一剔除单项初级研究后重新拟合模型，检验是否存在主导结论或扭曲异质性的极端异常值。 | 若剔除任一研究后合并效应量与 95% CI 保持稳定，确认结论具备高度稳健性。 | 🔗 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] |
+> | **[[Meta-regression\|元回归（Meta-regression）]]** | $\theta_i = \beta_0 + \beta_1 X_{1i} + \dots + u_i + \epsilon_i$ | 将效应量作为[[Dependent Variable\|因变量]]，研究特征作为[[Independent Variable\|自变量]]，检验协[[Variable\|变量]]对效应量变异的调节解释力。 | $F$ 或 $Q_M$ 检验评价模型联合显著性；伪 $R^2$ 评估调节变量对异质性方差的解释率。 | 🔗 [[Meta-regression]] |
+> | **[[Pairwise Wald Tests\|成对 Wald 检验]]** | $W_{jk} = \frac{(\hat{\theta}_j - \hat{\theta}_k)^2}{v_j + v_k} \sim \chi^2(1)$ | 检验三个或更多分类亚组之间两两成对效应量差异的统计显著性与级差排序。 | $W > 3.84$ 判定两亚组间差异显著（$p < .05$）；配合事后多重检验校正。 | 🔗 [[Pairwise Wald Tests]] |
+> | **[[Three-Level Meta-Analysis\|三水平多层元分析]]** | Level 1: 抽样误差<br>Level 2: 研究内变异<br>Level 3: 研究间变异 | 处理单项研究报告多个相关效应量（多重测量或多结局）时的统计非独立性依赖。 | 似然比检验（LRT）比较二水平与三水平模型；分解 Level 2 与 Level 3 异质性方差占比。 | 🔗 [[Three-Level Meta-Analysis]] |
 
 ---
 
@@ -291,14 +291,14 @@ flowchart LR
 > | 条目 | 类型 | 关系说明 |
 > |---|---|---|
 > | [[Inverse-Variance Weighting]] | 核心算法 | 元分析中最基础的最优精度加权方法 |
-> | [[Fixed-Effect and Random-Effects Models]] | 统计模型 | 固定与随机效应两类基础建模[[Paradigm|范式]] |
-> | [[Three-Level Meta-Analysis]] | 高阶扩展 | 处理研究内多重[[Effect Size|效应量]]嵌套依赖的多层模型 |
-> | [[Meta-regression]] | 分析方法 | 检验连续型与类别型协[[Variable|变量]][[Interaction Effect|调节效应]]的技术 |
-> | [[Critique of Meta-analysis]] | 批判体系 | 系统解构元分析方法论前提与统计推断[[Hypothesis|假设]]的专有概念条目 |
+> | [[Fixed-Effect and Random-Effects Models]] | 统计模型 | 固定与随机效应两类基础建模[[Paradigm\|范式]] |
+> | [[Three-Level Meta-Analysis]] | 高阶扩展 | 处理研究内多重[[Effect Size\|效应量]]嵌套依赖的多层模型 |
+> | [[Meta-regression]] | 分析方法 | 检验连续型与类别型协[[Variable\|变量]][[Interaction Effect\|调节效应]]的技术 |
+> | [[Critique of Meta-analysis]] | 批判体系 | 系统解构元分析方法论前提与统计推断[[Hypothesis\|假设]]的专有概念条目 |
 > | [[Meta-meta-analysis]] | 上位方法 | 汇总多个一阶元分析的二阶统计综合方法 |
-> | [[Forest Plot]] | 可视化工具 | 展示研究效应量点估计与[[Confidence Interval|置信区间]]的标准图表 |
-> | [[Funnel Plot]] | 可视化工具 | 诊断[[Publication Bias|发表偏倚]]与[[Small Study Effects|小研究效应]]的散点图 |
-> | [[Critical Realism]] | [[Epistemology|认识论]]基础 | 批判实在论对元分析经验主义平均值假设的哲学批判 |
+> | [[Forest Plot]] | 可视化工具 | 展示研究效应量点估计与[[Confidence Interval\|置信区间]]的标准图表 |
+> | [[Funnel Plot]] | 可视化工具 | 诊断[[Publication Bias\|发表偏倚]]与[[Small Study Effects\|小研究效应]]的散点图 |
+> | [[Critical Realism]] | [[Epistemology\|认识论]]基础 | 批判实在论对元分析经验主义平均值假设的哲学批判 |
 
 ---
 

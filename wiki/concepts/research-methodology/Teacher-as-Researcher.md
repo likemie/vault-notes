@@ -71,9 +71,9 @@ updated: 2026-07-19
 > | 维度 | 教师即研究者 | [[Participatory Action Research]] | [[Emancipatory Action Research]] |
 > |---|---|---|---|
 > | **核心主体** | 个体教师 | 参与者共同体 | 平等者共同体 |
-> | **知识兴趣（哈贝马斯（[[Jürgen Habermas|Habermas]]））** | [[Praxis|实践]]兴趣：理解与诠释 | 实践—解放兴趣 | 解放兴趣：自由与自主 |
+> | **知识兴趣（哈贝马斯（[[Jürgen Habermas\|Habermas]]））** | [[Praxis\|实践]]兴趣：理解与诠释 | 实践—解放兴趣 | 解放兴趣：自由与自主 |
 > | **核心目标** | 通过反思改进自身专业实践 | 赋权边缘群体、改变权力关系 | 揭露并消除制度性约束，追求社会正义 |
-> | **理论对应** | [[Donald A. Schön|唐纳德·舍恩]]（Donald Schön）行动后反思；诠释学活动 | [[Paulo Freire|保罗·弗莱雷（Paulo Freire）]]意识提升；[[Critical Theory|批判理论]] | 哈贝马斯解放兴趣；克里斯·阿吉里斯（Chris Argyris）双环学习 |
+> | **理论对应** | [[Donald A. Schön\|唐纳德·舍恩]]（Donald Schön）行动后反思；诠释学活动 | [[Paulo Freire\|保罗·弗莱雷（Paulo Freire）]]意识提升；[[Critical Theory\|批判理论]] | 哈贝马斯解放兴趣；克里斯·阿吉里斯（Chris Argyris）双环学习 |
 > | **赋权含义** | 专业自主 | 集体赋权 | 社会民主与正义 |
 > | **研究规模** | 个体课堂 | 社区或群体 | 系统层面 |
 

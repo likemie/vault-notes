@@ -89,13 +89,13 @@ updated: 2026-08-25
 ## 概念辨析
 
 > [!contrast-table] 概念辨析
-> | 维度 | 最近发展区（ZPD） | 认知平衡化区（Equilibration Zone） | [[Working Memory|工作记忆]]缓冲带（WM Buffer Zone） |
+> | 维度 | 最近发展区（ZPD） | 认知平衡化区（Equilibration Zone） | [[Working Memory\|工作记忆]]缓冲带（WM Buffer Zone） |
 > |---|---|---|---|
-> | **理论源流** | [[Lev Vygotsky|维果茨基]]社会文化历史学派 | [[Piaget's Theory of Cognitive Development|皮亚杰发生认识论]] | [[Cognitive Load Theory|认知负荷理论]]（Sweller） |
+> | **理论源流** | [[Lev Vygotsky\|维果茨基]]社会文化历史学派 | [[Piaget's Theory of Cognitive Development\|皮亚杰发生认识论]] | [[Cognitive Load Theory\|认知负荷理论]]（Sweller） |
 > | **分析对象** | 潜在认知能力与社会中介空间 | 内部图式的认知冲突与平衡重建 | 瞬时注意力资源与信息加工瓶颈 |
 > | **核心动力** | 人际社会互动、外部脚手架与符号工具 | 主客体物理互动引发的同化与顺应 | 消除外在负荷、优化内在负荷 |
 > | **教学介入时机** | **介入走在发展前头**，提供刚好超出独立能力的挑战 | 创设认知失衡任务，引导主体自发探索 | 控制元素交互性，提供分步样例与微提示 |
-> | **技术中介形态** | 自适应 AI [[AI Agent in Education|智能体]]充当动态脚手架 | 虚拟仿真实验探索与物理表征互动 | 多模态音画分流与分步步骤拆解 |
+> | **技术中介形态** | 自适应 AI [[AI Agent in Education\|智能体]]充当动态脚手架 | 虚拟仿真实验探索与物理表征互动 | 多模态音画分流与分步步骤拆解 |
 
 ---
 
@@ -155,32 +155,32 @@ updated: 2026-08-25
 > | 评估与应用方式 | 核心技术规程 | 在研究中的指标化表现 |
 > |---|---|---|
 > | **动态评估（Dynamic Assessment）** | 采用前测（独立基线）$\to$ 标准化线索提示 $\to$ 后测（迁移应用）的三段式流程。 | 以受试者达成解决问题所需的**线索提示数量（Prompt Count）**作为 ZPD 宽度的逆向指标。 |
-> | **自适应学习系统（[[AI Agent in Education|AI Agent]] [[Time Series Design|ITS]]）** | 通过知识图谱与错因分析算法，动态推送难度位于掌握概率在 50%–70% 之间的试题。 | 追踪知识点掌握度概率提升曲线与自适应支架撤销速率（Fading Rate）。 |
-> | **课堂协作支架设计** | 异质分组与[[Peer-Supported Learning|同伴互助]]，确保组内存在能力稍高但认知差距适度的搭档。 | 课堂互动言语分析与认知参与度[[Coding in Qualitative Research|编码]]。 |
+> | **自适应学习系统（[[AI Agent in Education\|AI Agent]] [[Time Series Design\|ITS]]）** | 通过知识图谱与错因分析算法，动态推送难度位于掌握概率在 50%–70% 之间的试题。 | 追踪知识点掌握度概率提升曲线与自适应支架撤销速率（Fading Rate）。 |
+> | **课堂协作支架设计** | 异质分组与[[Peer-Supported Learning\|同伴互助]]，确保组内存在能力稍高但认知差距适度的搭档。 | 课堂互动言语分析与认知参与度[[Coding in Qualitative Research\|编码]]。 |
 
 ## 实证数据
 
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 比较或干预 | [[Dependent Variable|结果变量]] | 分析样本 | 组别统计 | [[Effect Size|效应量]] | 显著性或不确定性 | 设计与解释边界 |
+> | 研究 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
 > |---|---|---|---|---|---|---|---|
-> | Tasdelen & Bodemer (2025)，引自 [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] | ZPD 分步自适应微提示 [[Intelligent Tutoring Systems|ITS]] vs. 常规解题 | 小学数学多位数除法步骤解题表现 | $N = 114$ | — | Hedges' $g = 0.21$ | $p < .05$ | 准实验设计；在学生 ZPD 动态提供微提示促进解题策略内化 |
-> | Feng & Wang (2023)，引自 [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] | 具身双语伴读机器人支架 vs. 独立听读 | 小学低段英语口语与阅读理解 | $N = 64$ | — | Hedges' $g = 0.76$ | $p < .01$ | 准实验设计；实体机器人作为更有能力的他人（MKO）提供情感与语言支架 |
+> | Tasdelen & Bodemer (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | ZPD 分步自适应微提示 [[Intelligent Tutoring Systems\|ITS]] vs. 常规解题 | 小学数学多位数除法步骤解题表现 | $N = 114$ | — | Hedges' $g = 0.21$ | $p < .05$ | 准实验设计；在学生 ZPD 动态提供微提示促进解题策略内化 |
+> | Feng & Wang (2023)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 具身双语伴读机器人支架 vs. 独立听读 | 小学低段英语口语与阅读理解 | $N = 64$ | — | Hedges' $g = 0.76$ | $p < .01$ | 准实验设计；实体机器人作为更有能力的他人（MKO）提供情感与语言支架 |
 
 > [!ma-table]- 一阶[[Meta-analysis|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity|异质性]]与[[Prediction Interval|预测区间]] | 关键解释边界 |
+> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] | 机制[[Construct|构念]]：自适应 AI [[AI Agent in Education|智能体]]作为 ZPD 外部认知脚手架对 K-12 认知的总体促进效应 | $k = 73$ / $N = 3{,}042$ | Hedges' $g$ / 随机效应模型 | $g = 0.404$ $[0.242, 0.567]$ | $Q(72) = 813.56, p < .001, I^2 = 91.2\%$ | 证实自适应微提示在学习者 ZPD 内降低认知负荷并促进技能编译 |
+> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 机制[[Construct\|构念]]：自适应 AI [[AI Agent in Education\|智能体]]作为 ZPD 外部认知脚手架对 K-12 认知的总体促进效应 | $k = 73$ / $N = 3{,}042$ | Hedges' $g$ / 随机效应模型 | $g = 0.404$ $[0.242, 0.567]$ | $Q(72) = 813.56, p < .001, I^2 = 91.2\%$ | 证实自适应微提示在学习者 ZPD 内降低认知负荷并促进技能编译 |
 
 > [!ma-table]- 一阶元分析互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
 >
 > | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] | 机制构念（学段干预敏感度） | 高小学段（4–6年级）ZPD 自适应支架 | $k = 28$ / — | $g = 0.877$ $[0.502, 1.253]$ | 学段间检验 $Q_B = 12.97, p = .005$ | 处于具体向形式运算过渡期，对 ZPD 自适应支架敏感度最高 |
+> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 机制构念（学段干预敏感度） | 高小学段（4–6年级）ZPD 自适应支架 | $k = 28$ / — | $g = 0.877$ $[0.502, 1.253]$ | 学段间检验 $Q_B = 12.97, p = .005$ | 处于具体向形式运算过渡期，对 ZPD 自适应支架敏感度最高 |
 
 ---
 

@@ -88,12 +88,12 @@ updated: 2026-07-12
 ## 概念辨析
 
 > [!contrast-table] 因[[Variable|变量]] vs [[Independent Variable|自变量]]
-> | 维度 | 因变量 | [[Independent Variable|自变量]] |
+> | 维度 | 因变量 | [[Independent Variable\|自变量]] |
 > |---|---|---|
 > | **角色** | 输出（outcome），结果 | 输入（input），原因 |
 > | **操纵方式** | 被观察和测量，不被操纵 | 被主动操纵或选择 |
-> | **[[Causality|因果]]位置** | 后果（presumed effect） | 前因（presumed cause） |
-> | **研究设计中的处理** | 通过[[Pre-test and Post-test|前测]]和后测测量其变化 | 控制、隔离、操纵其水平 |
+> | **[[Causality\|因果]]位置** | 后果（presumed effect） | 前因（presumed cause） |
+> | **研究设计中的处理** | 通过[[Pre-test and Post-test\|前测]]和后测测量其变化 | 控制、隔离、操纵其水平 |
 > | **示例** | 考试成绩、康复速度、阅读能力 | 教学方法、药物剂量、课程时长 |
 
 ---

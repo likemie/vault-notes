@@ -10,7 +10,7 @@ aliases:
 summary: "混合方法研究中的两类基本数据形式，开放式数据由参与者自由表达而研究者不预设回答选项，封闭式数据由研究者提供预设回答选项（如评分量表），区分两类数据比数字-文本二分法更精确"
 type: concept
 domain: "research-methodology"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,6 +27,7 @@ related_theories: []
 related_methods:
   - "[[Qualitative Observation]]"
   - "[[Quantitative Research]]"
+  - "[[Multiple-Choice Questions]]"
   - "[[Qualitative Research]]"
   - "[[Mixed Methods Research]]"
   - "[[Case Study]]"
@@ -65,7 +66,7 @@ updated: 2026-06-02
 >
 > Creswell & Creswell (2023, p.232) 认为用"开放式 vs 封闭式"来区分两类数据，比"数字 vs 文本"或"数字数据 vs 故事"的二分法更精确。因为某些数据来源可以同时包含封闭式和开放式信息——例如健康数据中既有体检指标的封闭式得分，也有病历记录中开放式的病史信息。
 >
-> - [[Quantitative Research|量化研究]]中的数据通常是封闭式的，但不是所有封闭式数据都必然是数字形式（如多项选择题的文字选项）。
+> - [[Quantitative Research|量化研究]]中的数据通常是封闭式的，但不是所有封闭式数据都必然是数字形式（如[[Multiple-Choice Questions|多项选择题]]的文字选项）。
 > - [[Qualitative Research|质性研究]]中的数据通常是开放式的，但数据的"质性"属性来自开放式的收集方式而非文本形式本身。
 
 ---
@@ -89,8 +90,8 @@ updated: 2026-06-02
 > [!contrast-table] 问卷中封闭式与开放式问题的对比
 > | 维度 | 封闭式问题 | 开放式问题 |
 > |---|---|---|
-> | 适用规模 | 大样本 | 小样本、特定情境[[Case Study|案例研究]] |
-> | [[Coding in Qualitative Research|编码]]与分析 | 快速编码，适合统计处理 | 难以编码和分类，不易跨参与者比较 |
+> | 适用规模 | 大样本 | 小样本、特定情境[[Case Study\|案例研究]] |
+> | [[Coding in Qualitative Research\|编码]]与分析 | 快速编码，适合统计处理 | 难以编码和分类，不易跨参与者比较 |
 > | 受访者负担 | 快速完成，不因表达能力产生歧视 | 耗时较长，可能导致拒绝完成 |
 > | 数据特性 | 可生成回应频率，便于跨组比较（Oppenheim, 1992, p. 115） | 可捕捉真实性、丰富性和诚实性——质性数据的标志 |
 > | 风险 | 类别可能不穷尽、存在偏差 | 可能产生无关或冗余信息 |

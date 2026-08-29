@@ -72,10 +72,10 @@ updated: 2026-07-10
 > [!contrast-table] 与[[Classical Geopolitics|传统地缘政治]]的辨析
 > | 维度 | 新地缘政治 | [[Classical Geopolitics]] / 传统地缘政治 |
 > |------|-----------|------------------------------------------|
-> | [[Ontology|本体论]]位置 | 观念—科学端 | 物质—[[Praxis|实践]]端 |
-> | [[Theoretical Standpoint|理论立场]] | [[Constructivist Paradigm|建构主义]] | [[Realism in International Relations|现实主义]] |
+> | [[Ontology\|本体论]]位置 | 观念—科学端 | 物质—[[Praxis\|实践]]端 |
+> | [[Theoretical Standpoint\|理论立场]] | [[Constructivist Paradigm\|建构主义]] | [[Realism in International Relations\|现实主义]] |
 > | 空间观 | 流动的社会建构；通过话语实践持续生产 | 可测量、可分割、可占有的客观地理实体 |
-> | 权力形式 | [[Knowledge Production|知识生产]]、话语建构、规范制定与日常治理 | 军事力量、安全能力、领土控制 |
+> | 权力形式 | [[Knowledge Production\|知识生产]]、话语建构、规范制定与日常治理 | 军事力量、安全能力、领土控制 |
 > | 行动主体 | 多层级行动者网络（国家、机构、组织、个体） | 民族国家（唯一主体） |
 > | 高等教育的角色 | 独立的地缘政治行动者，积极参与空间意义建构 | 服务国家竞争的附属资源与技术工具 |
 

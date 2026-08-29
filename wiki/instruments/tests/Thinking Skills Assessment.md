@@ -26,7 +26,8 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Hypothesis]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Multiple-Choice Questions]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -60,7 +61,7 @@ updated: 2026-08-27
 >
 > | 维度 | 题项数 | 测量内容 | 计分方式 |
 > |---|---|---|---|
-> | **批判性思维（Critical Thinking）** | 25 题 | 识别论证主旨、辨析未言明[[Hypothesis|假设]]、评估证据对结论的削弱或强化、识别推理缺陷与逻辑谬误。 | 机器自动计分（转换为 0–100 量表分） |
+> | **批判性思维（Critical Thinking）** | 25 题 | 识别论证主旨、辨析未言明[[Hypothesis\|假设]]、评估证据对结论的削弱或强化、识别推理缺陷与逻辑谬误。 | 机器自动计分（转换为 0–100 量表分） |
 > | **问题解决（Problem Solving）** | 25 题 | 涉及相关筛选（Relevant Selection）、规律寻找（Finding Procedures）与空间数据识别（Identifying Similarity）。 | 机器自动计分（转换为 0–100 量表分） |
 > | **论辩写作（Writing Task / Section 2）** | 4 选 1 论文 | 就争议性跨学科命题构建逻辑清晰的立论、辨析正反证据并有效反驳对立论点。 | 由各大学招生官独立人工评阅 |
 
@@ -82,7 +83,7 @@ updated: 2026-08-27
 >
 > | 研究 | 工具版本 | 样本与用途 | 测量属性 | 关键结果 |
 > |---|---|---|---|---|
-> | [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] | TSA 牛津/剑桥版 | [[OECD]] 报告分析高利害选拔中将[[Critical Thinking|批判性思维]]作为核心准入标准的国际模式 | 入学思维能力测验 | 证实 TSA 能够有效剥离考生家庭背景带来的事实知识积累偏误，高度预测本科阶段的学业创新潜能 |
+> | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] | TSA 牛津/剑桥版 | [[OECD]] 报告分析高利害选拔中将[[Critical Thinking\|批判性思维]]作为核心准入标准的国际模式 | 入学思维能力测验 | 证实 TSA 能够有效剥离考生家庭背景带来的事实知识积累偏误，高度预测本科阶段的学业创新潜能 |
 
 ---
 
@@ -93,5 +94,5 @@ updated: 2026-08-27
 >
 > | 版本 | 语言与地区 | 目标人群 | 题项数 | 主要变化 | 来源 |
 > |---|---|---|---|---|---|
-> | TSA 标准版 | 英语（英国/全球考点） | 牛津/UCL 申请者 | 50 题 MCQs + 1 篇 Essay | 确立 Section 1 客观与 Section 2 论文写作结构 | Cambridge Assessment (2001) |
+> | TSA 标准版 | 英语（英国/全球考点） | 牛津/UCL 申请者 | 50 题 [[Multiple-Choice Questions\|MCQs]] + 1 篇 Essay | 确立 Section 1 客观与 Section 2 论文写作结构 | Cambridge Assessment (2001) |
 > | TSA Section 1 独立版 | 英语（全球） | 剑桥大学部分专业申请者 | 50 题 MCQs | 仅施测 90 分钟思维技能客观选择部分 | Cambridge Assessment (2008) |

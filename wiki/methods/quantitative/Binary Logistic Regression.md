@@ -181,8 +181,8 @@ updated: 2026-07-13
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Variable]] | 概念 | 本方法的核心输入和输出载体，[[Dependent Variable|因变量]]和[[Independent Variable|自变量]]均由各种类型的变量构成。 |
-> | [[Mixed Methods Research]] | 补充方法 | 在混合研究中，回归模型可作为第一阶段量化筛选，后续辅以[[Qualitative Interview|质性访谈]]以深化对回归系数背后机制的阐释。 |
+> | [[Variable]] | 概念 | 本方法的核心输入和输出载体，[[Dependent Variable\|因变量]]和[[Independent Variable\|自变量]]均由各种类型的变量构成。 |
+> | [[Mixed Methods Research]] | 补充方法 | 在混合研究中，回归模型可作为第一阶段量化筛选，后续辅以[[Qualitative Interview\|质性访谈]]以深化对回归系数背后机制的阐释。 |
 
 ---
 
