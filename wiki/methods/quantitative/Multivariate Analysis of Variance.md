@@ -10,7 +10,7 @@ summary: "用于同时检验一个或多个分类自变量对两个或多个相�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 28
+method_related_count: 29
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
