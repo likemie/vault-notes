@@ -6,18 +6,20 @@ aliases:
   - 研究使用
   - 知识利用
   - knowledge utilization
-summary: "研究知识进入政策与实践过程的多种路径与机制，涵盖研发、问题解决、互动与战术模型，受宏观政治议程、中观跨层治理机制以及微观专业知识整合与价值规范的共同制约"
+  - 证据使用
+  - Use of Research Evidence
+summary: "研究知识进入政策与实践过程的多种路径与机制，涵盖研发、问题解决、互动、启蒙与战术模型；在微观上作为知觉控制驱动的专业教学整合行为，在中观上受跨层治理机制制约，在宏观上面临政治议程与合法性筛选。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 24
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 38
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
-  - topic/educational-policy
-  - topic/evaluation
+  - field/educational-policy-reform
   - theme/research-use
   - theme/evidence-informed-practice
+  - theme/knowledge-mobilization
 related_concepts:
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
   - "[[Phronesis]]"
@@ -25,7 +27,6 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Paradigm]]"
   - "[[Transfer Translation Transformation]]"
-  - "[[Champ]]"
   - "[[Deficit Framing]]"
   - "[[Document]]"
   - "[[Evidence-Based Education]]"
@@ -36,20 +37,38 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Methodological Individualism]]"
   - "[[Profession-Sensitive Conceptualisations of Research Use]]"
+  - "[[Research Literacy]]"
+  - "[[Construct]]"
+  - "[[Operationalization]]"
+  - "[[Knowledge Mobilisation]]"
+  - "[[Quality Use of Research Evidence Framework]]"
+related_theories:
+  - "[[Research Utilization Models]]"
+  - "[[Theory of Planned Behavior]]"
+  - "[[Ecosystem for Research-Engaged Schools]]"
 related_methods:
   - "[[Framework Synthesis]]"
   - "[[Critical Review]]"
   - "[[Systematic Review]]"
   - "[[Mixed Methods Research]]"
+  - "[[Multivariate Analysis of Variance]]"
+  - "[[Confirmatory Factor Analysis]]"
+  - "[[Scale Development]]"
 related_instruments:
+  - "[[Research Literacy Scale for Teachers]]"
   - "[[Mixed Methods Appraisal Tool]]"
+related_persons:
+  - "[[Carol Weiss]]"
+related_facts: []
 related_arguments:
+  - "[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO]]"
   - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
   - "[[Argument_Mausethagen_2025_ERR]]"
+  - "[[Argument_Nelson_2017_ER]]"
 confidence: high
 status: draft
 created: 2026-06-17
-updated: 2026-08-26
+updated: 2026-08-30
 ---
 
 # Research Utilization
@@ -59,53 +78,65 @@ updated: 2026-08-26
 ## 定义
 
 > [!def] 核心定义
-> 研究利用（Research Utilization / Research Use，又称研究使用、知识利用）指科学研究产出，包括概念、理论、策略、实证数据与方法论（Caplan, 1991），以不同路径和形式进入公共政策制定、学校组织管理以及一线课堂教学的过程与治理机制（Weiss, 1991b；[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al., 2026, p. 4]]；[[Argument_Mausethagen_2025_ERR|Mausethagen et al., 2025, pp. 1–2]]）。
+> **研究利用（Research Utilization / Research Use，亦称研究使用、知识利用、证据使用）** 指科学研究产出（包括理论概念、实证数据、教学策略、评估工具与方法论程序）以不同路径和形式进入公共教育政策制定、学校组织治理以及一线课堂教学实践的动态转化过程与交互机制。它不仅包含将科研结论直接转化为操作决策的工具性使用，更包含通过知识渗透重构行动者心智的概念性使用，以及在专业教学情境中基于育人伦理与多源知识的主动整合。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, p. 4)]]; [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|(Kazancı Tınmaz & Sezgin, 2023, pp. 3–5)]]
 
 > [!concept-lens] 概念透镜
-> - **核心含义** 关注科研成果如何以多种方式渗透进决策与行动：既包括直接用于解决具体问题（[[Conceptual, Instrumental, and Symbolic Use of Research|工具性使用]]），也包括提供新视角和启发思考（概念性使用），乃至作为政治修辞或事后辩护的依据（象征性使用）。
-> - **理论用途** 帮助研究者与决策者理解为什么高质量的科研成果常常被忽视或异化，揭示促进证据在复杂教育生态中真正发挥作用的关键机制与支持条件。
-> - **适用边界** 反对将研究利用简化为研究产出向实践转化的单向线性灌输；研究利用本质上是一个多向互动、受具体情境和育人价值深层约束的动态协商过程。
+> - **含义** 指向科研成果从学术生产端向决策与教学实践端流动的多元非线性转化机制，涵盖微观教师教学整合、中观学校治理生态与宏观政策议程筛选。
+> - **用途** 帮助研究者透视“为什么高质量实证证据常被一线忽视或异化”，破除线性技术理性迷思，揭示驱动知行转化与证据落地的深层心理、组织与制度机制。
+> - **边界** 反对将研究利用简化为“外部证据单向输入 $\rightarrow$ 机械执行套用”的工程式流水线；研究利用本质上受个体知觉行为控制、组织信任环境与专业价值规范的多维调控。
+
+> [!citation-card]- 关键表述
+> 教师对研究的利用并不等同于孤立的文献阅读或机械执行外部处方，而是将科研证据有机融入日常教学活动规划、备课设计、教学法知识更新以及专业教研反思之中的外显行为表现。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|(Kazancı Tınmaz & Sezgin, 2023, p. 6, p. 14)]]
+>
+> *Research use in professional practice involves actively incorporating scientific findings into curriculum planning, instructional design, pedagogical knowledge updating, and collaborative reflection, acting as the behavioral manifestation of research literacy.*
 
 > [!boundary]- 概念边界
-> - 不等同于 项目评估利用（Evaluation Utilization）：Alkin 等（1991）指出，评估利用通常针对某个具体教育项目的成效与改进决策；而研究利用则指向更广泛、更具普遍性的理论概念与实证结论在社会与学校中的扩散与渗透。
-> - 不等同于 盲目套用与机械执行：研究利用绝不是不加反思地套用科研处方，而是专业行动者依托[[Phronesis|实践智慧]]与教育伦理，对外部证据展开的批判性筛选与情境化整合。
+> - **不等于 项目评估利用（Evaluation Utilization）** 评估利用通常特指针对特定干预项目成效的决策采纳（Alkin et al., 1991）；而研究利用指向更广泛的学术理论、科学概念与实证规律在教育场域中的长期扩散与生态化渗透。
+> - **不等于 盲目机械套用（Rigid Implementation）** 研究利用绝非不加反思地照搬量化结论，而是依托教师的[[Phronesis|实践智慧]]与育人伦理，对外部证据展开审慎筛选与情境化重构。
+> - **不等于 单纯的研究态度认同（Research Attitude）** 教师对科研价值持有极高认同（态度高位）并不等同于其实际开展了课堂使用；研究利用是独立于态度且受技能控制调控的外显实践构念。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|(Kazancı Tınmaz & Sezgin, 2023, p. 8)]]
 
 ---
 
 ## 概念辨析
 
-> [!contrast-table] 研究利用的多[[Scale in Higher Education|尺度分析]]维度辨析
-> | 维度 | 宏观政策研究利用 | 中观学校治理机制 | 微观教师知识整合 |
-> |------|----------------|----------------|----------------|
-> | **分析对象** | 政府立法、政策文本与政治议程（Weiss, 1991b） | 学校组织文化、信任氛围、领导力与制度环境（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al., 2026]]） | 课堂教学决策、具体学情与师生微观互动（[[Argument_Mausethagen_2025_ERR\|Mausethagen et al., 2025]]） |
-> | **核心机制** | 政治可接受性、概念启发渗透与合法化背书 | 跨层治理机制（信任、技能、结构、关系） | 多源知识动态整合（Knowledge Integration）与专业裁决 |
-> | **知识角色** | 政治辩护武器、政策重构透镜或参考方案 | 学校改进指南、教研组集体研讨素材 | 多元备选参考资源之一（与实践经验、学情并列） |
-> | **成效标准** | 政策话语采纳与议题设置成功 | 形成可持续的循证教研常规与良好信任生态 | 兼顾教学成效与育人适切性的真实教学改善 |
+> [!contrast-table] 研究利用的多尺度分析维度辨析
+> | 维度 | 宏观政策研究利用 | 中观学校治理机制 | 微观教师教学整合 |
+> |---|---|---|---|
+> | **分析对象** | 政府立法、政策文本与政治议程（Weiss, 1991b） | 学校组织文化、信任氛围、领导力与制度结构（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al., 2026]]） | 备课设计、教学法更新、课堂问题解决与教学反思（[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin, 2023]]） |
+> | **核心机制** | 政治可行性筛选、概念渗透与合法化修辞背书 | 跨层治理机制（信任、技能、结构、关系） | 知觉行为控制调控、多源知识整合与专业裁决 |
+> | **知识角色** | 政策辩护武器、改革重构透镜或参考处方 | 校本改进指南、教研组集体研讨素材 | 多元备选资源之一（与实践经验、具体学情并列） |
+> | **成效标准** | 政策话语采纳与施政议程推进 | 形成可持续的循证教研常规与信任生态 | 教学行为实质改善与学生深度学习发生 |
 
 ---
 
 ## 核心要素
 
 > [!feature] 核心要素
-> - **四种经典过程模型（Weiss, 1991b）** 研究与开发（Research and Development, R&D）模型（流水线式线性转化）、问题解决模型（按需调用工具箱）、互动模型（研究者与决策者持续[[Dialogue in Education|对话]]）与战术模型（作为政治辩护修辞）。
-> - **三种基本使用形态（Weiss, 1979）** [[Conceptual, Instrumental, and Symbolic Use of Research|概念性使用]]（间接启发思维）、[[Conceptual, Instrumental, and Symbolic Use of Research|工具性使用]]（直接指导具体行动）与象征性使用（事后为既定立场找依据）。
-> - **四类跨层治理机制（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al., 2026]]）** 信任（Trust）、技能发展（Skills Development）、可持续结构（Sustainable Structures）与关系（Relationships）跨越个体、组织与系统层级共同治理学校研究使用。
-> - **四代思维[[Paradigm|范式]]演进（[[Argument_Mausethagen_2025_ERR|Mausethagen et al., 2025]]）** 从第一代理性-线性模型、第二代关系网络模型、第三代系统全局模型，演进至以多源知识整合与专业规范为支柱的第四代专业敏感型模型。
+> - **四种经典过程模型（Weiss, 1991b）** 研发模型（线性流水线转化）、问题解决模型（按需调用工具箱）、互动模型（研究者与决策者多边[[Dialogue in Education|对话]]）与战术模型（政治推诿与辩护）。
+> - **三种基本使用形态（Weiss, 1979）** [[Conceptual, Instrumental, and Symbolic Use of Research|概念性使用]]（启发思维与更新观念）、[[Conceptual, Instrumental, and Symbolic Use of Research|工具性使用]]（直接指导具体决策）与象征性使用（为既定立场背书）。
+> - **四类跨层治理机制（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al., 2026]]）** 信任（Trust）、技能发展（Skills Development）、可持续结构（Sustainable Structures）与关系（Relationships）贯穿个体、组织与系统层级共同治理学校证据使用。
+> - **七维教师教学使用场景** 在微观教学中具体[[Operationalization|操作化]]为：① 规划日常专业活动；② 备课设计课程内容；③ 更新教学法知识；④ 解决课堂具体教学问题；⑤ 开展教学实践自我反思；⑥ 参与专业教研交流；⑦ 向同行推荐学术成果。
+> - **双轨行为赋能路径** 追踪教育学术期刊（文献输入）是直接驱动研究使用行为的最强效引擎（$\eta^2 = .046$），而亲身开展科研（探究输出）则作为技能控制基础间接支撑使用。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|(Kazancı Tınmaz & Sezgin, 2023, p. 6, p. 13)]]
 
-> [!logic-map]- 研究利用的多层生态系统
+> [!logic-map]- 研究利用的多层生态与行为驱动系统
 > ```mermaid
 > flowchart TD
 >     subgraph Macro["宏观政策层（Macro Policy）"]
->       P1["政治议程与可行性考量"] <--> P2["政策研究利用（研发/问题解决/战术背书）"]
+>       P1["政治议程与施政目标"] <--> P2["政策研究利用（研发/问题解决/战术背书）"]
 >     end
+> 
 >     subgraph Meso["中观组织层（Meso School System）"]
->       G1["组织信任机制"] & G2["技能发展机制"] & G3["可持续制度结构"] & G4["伙伴合作关系"] --> GOV["跨层治理生态"]
+>       G1["组织信任氛围"] & G2["技能支持体系"] & G3["教研制度结构"] & G4["伙伴协同关系"] --> GOV["跨层治理生态 (Hagevold et al., 2026)"]
 >     end
+> 
 >     subgraph Micro["微观实践层（Micro Professional Practice）"]
->       K1["外部科研证据"] & K2["教师实践经验"] & K3["学生学情需求"] --> KI["多源知识动态整合（Knowledge Integration）"]
->       NORM["育人伦理与专业规范"] --> ACT["教师专业判断与裁决"]
->       KI --> ACT
+>       IN["追踪学术期刊<br>(文献输入: η²=.046)"] --> RU["研究使用（Research Use）<br>• 备课设计 • 教学法更新<br>• 课堂反思 • 问题解决"]
+>       OUT["亲身开展科研<br>(技能输出: η²=.056)"] --> PBC["研究技能 (知觉行为控制)"]
+>       PBC --> RU
+>       K1["外部科研证据"] & K2["教师实践经验"] & K3["学生学情需求"] --> KI["多源知识动态整合 (Mausethagen et al., 2025)"]
+>       KI --> RU
 >     end
+> 
 >     Macro <--> Meso <--> Micro
 > ```
 
@@ -138,7 +169,7 @@ updated: 2026-08-26
 ### 命题三　学校中观层面的研究使用受跨层治理机制制约而非单一层级专属因素
 
 > [!concept-lens] 生态治理与跨层协同
-> 阐明学校[[Champ|场域]]中研究使用的复杂治理机制，破除把困难简单归咎于教师个人或单一管理环节的还原论。
+> 阐明学校场域中研究使用的复杂治理机制，破除把困难简单归咎于教师个人或单一管理环节的还原论。
 
 > [!claim] [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]]
 > **四类机制的跨层穿透与协同治理** 基于对 109 项实证研究的[[Framework Synthesis|框架综合]]，学校研究使用并不是主要受教师个人能力不足制约，而是受信任、技能发展、可持续结构与关系四类横切机制共同治理；这些机制同时贯通个体、组织与系统层级，彼此强化，表明研究使用无法通过自上而下的行政命令达成，必须依赖跨层支持生态的建设。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, pp. 8, 17–18)]]
@@ -151,7 +182,20 @@ updated: 2026-08-26
 > 重构课堂实践中教师运用外部科研的本质，确立专业行动者的自主裁决地位。
 
 > [!claim] [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]]
-> **超越[[Deficit Framing|赤字框架]]的专业敏感型整合** 基于对 30 年[[Document|文献]]的[[Critical Review|批判性综述]]，传统文献受[[Deficit Framing|赤字框架]]主导，习惯把教师当成外部知识的被动执行者；第四代研究使用理论指出，教师面对活生生的学生与复杂的教学情境时，必然把外部研究看作多元参考之一，在育人伦理与专业价值观（如公平、关怀与适切性）的指引下，与自身实践经验和具体学情进行动态整合与审慎裁决。[[Argument_Mausethagen_2025_ERR|(Mausethagen et al., 2025, pp. 7–8)]]
+> **超越赤字框架的专业敏感型整合** 基于对 30 年[[Document|文献]]的[[Critical Review|批判性综述]]，传统文献受[[Deficit Framing|赤字框架]]主导，习惯把教师当成外部知识的被动执行者；第四代研究使用理论指出，教师面对活生生的学生与复杂的教学情境时，必然把外部研究看作多元参考之一，在育人伦理与专业价值观（如公平、关怀与适切性）的指引下，与自身实践经验和具体学情进行动态整合与审慎裁决。[[Argument_Mausethagen_2025_ERR|(Mausethagen et al., 2025, pp. 7–8)]]
+
+---
+
+### 命题五　教师研究使用受知觉控制与信息输入双轨驱动，呈现显著的知行断层特征
+
+> [!concept-lens] 计划行为机制与双轨赋能
+> 基于计划行为理论与量化实证模型，揭示教师研究态度与使用行为之间的结构性脱节，以及文献输入与科研参与的差异化赋能路径。
+
+> [!claim] [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|Kazancı Tınmaz & Sezgin (2023)]]
+> **知行结构性断层与期刊阅读的直接驱动效应** 基于 568 名中小学教师的探索性与验证性实证检验表明：
+> 1. **知行断层普遍存在** 教师科研态度均值极高（$M=4.37$），但外显研究使用行为明显偏低（$M=3.78$），且定期追踪期刊者仅占 $28.3\%$，证实口头认同并不自动转化为课堂使用；
+> 2. **技能作为知觉控制的核心瓶颈** 探索性因子分析中研究技能单独解释了 $46.90\%$ 的绝大部分方差，证实阻碍使用转化的核心卡点在于文献检索与统计解读等知觉行为控制不足；
+> 3. **期刊追踪是最强外显使用驱动力** 多变量方差分析证实，持续追踪教育学术期刊对驱动研究使用产生最强主效应（$F = 12.11, p = .001, \text{partial } \eta^2 = .046$），显著超越做研究对使用的直接效应（$\eta^2 = .031$），且两者无交互作用（$\eta^2 \le .005$），确立了文献阅读作为教学使用核心输入源的独立赋能地位。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|(Kazancı Tınmaz & Sezgin, 2023, pp. 6, 8, 12–14)]]
 
 ---
 
@@ -164,31 +208,17 @@ updated: 2026-08-26
 > | **知识渗透与传播悖论** | 异质知识类型的间接渗透与传播生态平衡 | 知识转化、智库传播、政策咨询 | Caplan (1991); Knott & Wildavsky (1991) |
 > | **跨层生态治理** | 信任、技能、结构与关系四机制共同治理学校研究使用 | 学校改进、学区改革、教研制度建设 | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] |
 > | **专业敏感与知识整合** | 教师立足育人伦理对多源知识进行主动整合与裁决 | 课堂教学决策、教师专业发展、校本教研 | [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]]; Eriksen (2022) |
+> | **行为控制与双轨赋能** | 克服知行断层需攻坚技能控制，期刊阅读直接催化课堂使用 | 量表测量、教师知证教学培训、数据库支持 | [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] |
 
 ---
 
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1970s–1990s — 宏观政策研究利用模型** Weiss（1979, 1991b）与 Caplan（1979, 1991）等学者系统提出研发、问题解决、互动与战术模型，奠定政策知识利用理论基石。
-> - **2000s–2010s — [[Evidence-Based Education|循证教育]]运动与实证调查浪潮** 伴随循证教育兴起，大量实证研究聚焦教师与校长对研究的接触、态度与技能障碍（Williams & Coles, 2007; Dagenais et al., 2012）。
-> - **2020s — 跨层治理机制与系统综合** Hagevold 等人（2026）通过[[Framework Synthesis|框架综合]]提炼出跨越个体、组织与系统的四类治理机制。
-> - **2025 — 迈向第四代专业敏感型概念化** [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]] 批判 30 年[[Document|文献]]的赤字话语，正式确立以教师多源知识整合与专业规范为支柱的第四代研究使用理论。
-
----
-
-## 实证数据
-
-> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
-> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
->
-> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] | 109 项学校研究使用实证研究，来自 28 个国家，57% 出自英语国家（英国 27、美国 15、加拿大 13、澳大利亚 5、新西兰 1、爱尔兰 1） | [[Systematic Review\|系统综述]]＋框架综合 | 研究使用被报告的层级分布 | 个体层面 k = 91（83% 研究），组织层面 k = 56，系统层面 k = 46，核心构件 k = 94 | — | 聚合分析显示研究使用研究呈个体偏向，组织与系统层面因素被较少报告 |
-> | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] | 同上 | 同上 | 纳入研究设计分布 | 35% 定量（38 项，多采用调查）、45% 质性（48 项，多采用访谈）、20% [[Mixed Methods Research\|混合方法]]（23 项）；约 80% 为横断面研究 | — | 证据形态以横断面调查与访谈为主，纵向证据稀缺 |
-> | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] | 同上 | 同上 | 纳入研究质量分布 | 41 项（38%）混合方法评估工具（Mixed Methods Appraisal Tool, [[Mixed Methods Appraisal Tool\|MMAT]]）评 5 分、18 项（17%）4 分、31 项（28%）3 分、其余 17% 评 2 分及以下 | 1 项未通过筛选不作评估 | 大多数发现来自评 4–5 分的 59 项较高质量研究 |
-> | [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] | 34 项同行评议英文学术[[Document\|文献]]（跨度 1996–2024 年，涵盖英国 9、美国 4、加拿大 3 及其他 8 国） | [[Critical Review\|批判性综述]]＋系统综述与元分析优先报告条目（Preferred Reporting Items for Systematic Reviews and Meta-Analyses, PRISMA）流程 | 纳入研究类型与数据源分布 | 一阶实证研究 24 篇（自陈调查 13 项、混合 7 项、访谈 4 项、课堂观察仅 3 项）、实证综述 4 篇、概念讨论 6 篇 | — | 实证研究高度依赖[[Questionnaire\|问卷]]自陈，微观课堂互动与现场观察数据严重匮乏 |
-> | [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] | 同上 | 同上 | 30 年文献[[Problem Finding\|问题界定]]与结论特征 | 100% 纳入实证文献均报告教师实际研究使用有限；且问题界定普遍采用[[Deficit Framing\|赤字框架]] | — | 揭示文献在方法多样性下同质化重复使用不足结论，陷入推论循环 |
+> - **1970s–1990s — 宏观政策研究利用模型与三分类确立** Weiss（1979, 1991b）与 Caplan（1979, 1991）等提出研发、问题解决、互动与战术模型，Pelz (1978) 与 Beyer & Trice (1982) 奠定工具性、概念性与象征性使用三元分类。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 132)]]
+> - **2000s–2010s — 循证教育运动与实证调查浪潮** 伴随循证教育兴起，大量实证研究聚焦教师与校长对研究的接触、态度与技能障碍（Williams & Coles, 2007; Dagenais et al., 2012）。
+> - **2020s — 跨层治理机制与心理行为模型融合** Hagevold 等人（2026）提炼出跨越个体、组织与系统的四类治理机制；Kazancı Tınmaz & Sezgin (2023) 将计划行为理论（TPB）融入研究利用量化测评，开发出包含研究使用子维度的 20 题 RLS 工具。
+> - **2025 — 迈向第四代专业敏感型概念化** [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]] 批判 30 年文献的赤字话语，正式确立以教师多源知识整合与专业规范为支柱的第四代研究使用理论。
 
 ---
 
@@ -197,21 +227,68 @@ updated: 2026-08-26
 > [!debates] 学术争议
 >
 > > [!axis] 简单影响模型 vs 复杂社会生态
-> > Levin（1991）与 Radford（2008, p. 506）指出，政策决策者常追求简单影响模型（快速方案、明确因果），因而偏好[[Positivism|实证主义]]量化指标；然而这种偏好可能诱发不当的数据汇总，并遮蔽社会情境的复杂性。
+> > 批评者指出，政策决策者常追求简单影响模型（快速方案、明确因果），偏好[[Positivism|实证主义]]量化指标；然而这种偏好容易诱发不当的数据汇总，并遮蔽社会情境的复杂性。
 > >
 > > - **Levin (1991); Radford (2008)** 批评简单影响模型扭曲了教育研究的本质，排斥了无法简化为因果处方的深层质性发现。
 > > - **Cartwright (1991); Cook (1991)** 指出政策决策对快速答案的渴望容易导致对证据适用边界的忽视。
 
-> > [!axis] [[Deficit Framing|赤字框架]]与循环论证批判
-> > Mausethagen 等人（2025）指出，30 年来[[Document|文献]]将教师预设为缺乏知识与技能的赤字主体，在建议中机械重复提供更多培训与系统支持，导致实证结果不断自我确证初始前设。
-> >
-> > - **[[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]]** 批判传统研究陷入[[Methodological Individualism|方法论个体主义]]与循环论证，呼吁转向专业敏感型概念化。
-> > - **[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]]** 强调必须打破个体归因，转向跨越个体、组织与系统的综合治理机制。
+> [!tension] 核心张力：工具性处方套用 vs 专业实践智慧整合
+> - **外源处方执行立场（蓝方）** 主张教师应当严格依据高质量实证证据（如 RCT 与元分析处方）标准化重构教学流程，视偏差为忠实度不足。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 131)]]
+> - **专业敏感裁决立场（红方）** 主张科研证据仅是多元信息输入之一，教师必须结合具体学情、育人伦理与实践智慧进行审慎整合与情境化重构。[[Argument_Mausethagen_2025_ERR|(Mausethagen et al., 2025, p. 7)]]
+
+> [!critique] 外部批评
+> - **赤字框架与方法论个体主义批判** Mausethagen 等人（2025）批判 30 年来的研究使用文献普遍预设教师存在知识与技能“赤字”，忽视了组织生态与制度支持的系统制约，陷入推论循环。[[Argument_Mausethagen_2025_ERR|(Mausethagen et al., 2025, pp. 4–5)]]
+
+> [!warning] 适用局限
+> 1. **横断面自陈调查局限** 大量研究使用实证数据依托教师问卷自陈，难以完全排除社会赞许偏差，且缺乏微观课堂互动与纵向行为追踪证据。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|(Kazancı Tınmaz & Sezgin, 2023, p. 15)]]; [[Argument_Mausethagen_2025_ERR|(Mausethagen et al., 2025, p. 3)]]
+> 2. **情境迁移边界** 基础教育学校的研究使用机制不能无缝照搬至高等教育、学前教育或宏观国家智库决策场景。
+
+---
+
+## 实证数据
+
+> [!effect-table]- 原始研究结果
+> <span class="concept-effect-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 比较或干预 | 结果变量 | 分析样本 | 组别统计 | 效应量 | 显著性或不确定性 | 设计与解释边界 |
+> |---|---|---|---|---|---|---|---|
+> | [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] | 追踪教育学术期刊（是 vs 否） | 教师研究使用（Research Use） | $N = 258$（是 $n=73$，否 $n=185$） | 是组 $M=4.03 (SD=0.57)$；否组 $M=3.69 (SD=0.64)$ | $\text{partial } \eta^2 = .046$ | $F = 12.11, p = .001, R^2 = .087$ | 横断面 2×2 MANOVA 设计；证实期刊阅读对驱动日常课堂使用具有最强独立主效应 |
+> | 同上 | 亲身开展科研（是 vs 否） | 教师研究使用（Research Use） | $N = 258$（是 $n=82$，否 $n=176$） | 是组 $M=3.97 (SD=0.65)$；否组 $M=3.69 (SD=0.62)$ | $\text{partial } \eta^2 = .031$ | $F = 7.97, p = .005, R^2 = .087$ | 横断面 2×2 MANOVA 设计；证实亲身做研究对使用的促进效应次于期刊阅读 |
+> | 同上 | 双重赋能组 vs 完全缺失组 | 教师研究使用（Research Use） | $N = 258$（读刊+做研究 $n=38$；不读刊+不做研究 $n=141$） | 双重赋能组 $M=4.19 (SD=0.60)$；完全缺失组 $M=3.63 (SD=0.63)$ | — | $p < .01$ | 揭示双重行为支持下的显著梯级表现（使用均分突破 4.1） |
+
+> [!ref-table]- 其他实证结果（无效应量）
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] | 土耳其黑海地区中小学在职教师（探索性样本 $N=310$；验证性样本 $N=258$） | 心理测量学量表编制与 CFA 结构方程验证 | 研究使用（Research Use）测量学参数 | 7 个题项，EFA 解释 $4.60\%$ 方差，载荷 $.557 \sim .766$；$\text{AVE} = .56, \text{CR} = .90, \alpha = .90, \omega = .90$ | 跨性别满足形态、弱、强与严格等值（$\Delta\text{CFI} \le .003$） | 确立了教师研究使用作为独立分量表的卓越结构效度与复合信度 |
+> | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] | 109 项学校研究使用实证研究，来自 28 个国家，57% 出自英语国家（英国 27、美国 15、加拿大 13、澳大利亚 5） | [[Systematic Review\|系统综述]]＋框架综合 | 研究使用被报告的层级分布 | 个体层面 $k = 91$（83% 研究），组织层面 $k = 56$，系统层面 $k = 46$，核心构件 $k = 94$ | — | 聚合分析显示研究使用研究呈个体偏向，组织与系统层面因素被较少报告 |
+> | 同上 | 同上 | 同上 | 纳入研究设计分布 | 35% 定量（38 项，多采用调查）、45% 质性（48 项，多采用访谈）、20% [[Mixed Methods Research\|混合方法]]（23 项）；约 80% 为横断面研究 | — | 证据形态以横断面调查与访谈为主，纵向追踪数据稀缺 |
+> | [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] | 34 项同行评议英文学术文献（跨度 1996–2024 年，涵盖英国 9、美国 4、加拿大 3 及其他 8 国） | [[Critical Review\|批判性综述]]＋PRISMA 流程 | 30 年文献问题界定与结论特征 | 100% 纳入实证文献均报告教师实际研究使用有限；且问题界定普遍采用赤字框架 | — | 揭示文献在方法多样性下同质化重复“使用不足”结论，陷入推论循环 |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - **[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]]** 综合 109 项学校研究使用实证研究，识别出研究[[Document|文献]]的个体偏向，并提出信任、技能发展、可持续结构与关系四类跨层治理机制。
-> - **[[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]]** 批判性解构 34 篇文献，揭示 30 年来[[Deficit Framing|赤字框架]]与[[Methodological Individualism|方法论个体主义]]对研究使用文献的统治，提出迈向第四代[[Profession-Sensitive Conceptualisations of Research Use|专业敏感型研究使用]]理论。
+> - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|Kazancı Tınmaz & Sezgin (2023)]] — 基于行为科学与 Weiss 模型将研究使用操作化为 7 维测量工具，实证揭示教师研究素养的知行断层，并证实追踪期刊（$\eta^2=.046$）是直接驱动日常教学使用的最强独立引擎。
+> - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] — 综合 109 项学校研究使用实证研究，识别出文献的个体偏向，并提出信任、技能发展、可持续结构与关系四类跨层治理机制。
+> - [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]] — 批判性解构 34 篇文献，揭示 30 年来赤字框架对研究使用文献的统治，正式确立以教师多源知识整合与专业规范为支柱的第四代专业敏感型理论。
+> - [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] — 系统梳理证据知情实践（EIP）思想史，将 Weiss (1979) 的研究利用谱系确立为知证教育理论的基石。
+
+---
+
+## 条目关联
+
+> [!entry-map]
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Research Utilization Models]] | 理论 | 系统阐明研究利用 7 种机制模型与知识渗透理论的底层理论母体。 |
+> | [[Conceptual, Instrumental, and Symbolic Use of Research]] | 分类概念 | 研究利用最核心的三元形态分类学。 |
+> | [[Research Literacy]] | 核心概念 | 教师有效开展研究利用所必需的能力构念与知觉行为控制基础。 |
+> | [[Theory of Planned Behavior]] | 理论框架 | 将研究利用解释为由意识、态度和知觉控制技能驱动的外显目标行为。 |
+> | [[Quality Use of Research Evidence Framework]] | 实践框架 | 评价学校与教师研究使用质量的系统准则。 |
+> | [[Profession-Sensitive Conceptualisations of Research Use]] | 理论范式 | 第四代研究使用理论，强调多源知识整合与育人伦理裁决。 |
+> | [[Research Literacy Scale for Teachers]] | 测量工具 | 包含 7 题研究使用分量表、经 CFA 严格验证的教师素养测评工具。 |
+> | [[Multivariate Analysis of Variance]] | 方法 | 检验期刊阅读与科研参与对研究使用主效应的统计分析方法。 |
