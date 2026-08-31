@@ -44,7 +44,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: '2026-05-18'
+updated: '2026-09-01'
 ---
 
 # Network Governance
@@ -146,10 +146,24 @@ updated: '2026-05-18'
 
 ---
 
+## 在跨国教育组织中的表现
+
+> [!framework-table] 联合世界书院的分层治理
+> | 治理节点 | 主要责任 | 依赖关系 |
+> |---|---|---|
+> | **国际理事会与国际董事会** | 制定共同方针，审议扩展和成员资格 | 依赖各校和国家委员会提供地方执行能力 |
+> | **国际办公室** | 维持通信、筹款、访问和课程协调 | 依赖书院分摊或外部筹款维持共同成本 |
+> | **国家委员会** | 选拔学生、筹措奖学金并建立政府关系 | 活动持续性取决于地方领导与资源 |
+> | **自治书院董事会** | 负责政策、财政和行政 | 需要在地方制度中落实国际承诺 |
+> | **关联学校与配对书院** | 以非正式联系检验使命和合作能力 | 需要国际办公室持续支持并接受成员审议 | [[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 105–109, 123–126)]]
+
+[[United World Colleges|联合世界书院]]（United World Colleges，UWC）的扩展显示，网络治理既不是统一科层控制，也不是各校完全独立。[[Founding of Lester B. Pearson College|加拿大]]和[[Founding of United World College of the Adriatic|意大利]]项目把政府、地方委员会、私人捐助者、学校领导与国际组织连接起来，各方分别承担土地、资本、奖学金、课程和治理责任。[[United World Colleges Associated Schools Policy 1977|1977年关联学校政策]]又以校际联系建立中间层，使既有学校能够逐步进入网络。共同身份依赖持续协调，节点增加也会提高国际办公室的共同成本。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 107–109, 119–129)]]
+
+---
+
 ## 争议与批评
 
 > [!warning]
 > - 网络治理模式将比例上更多重点放在私营部门[[Snowball Sampling|网络化]]与合同上，比例上更少关注社会民主式、参与式的公共政策制定方法([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.xvi]])
 > - 私营部门参与带来了决策权和财产权的期望——从对产品和服务的商业/社会[[Return on Investment|投资回报]]，到在共同利益上决定政策的角色([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.xv]])
 > - 这些较新的公立学校关系——[[Public-Private Partnership in Research|PPP]]、合同外包、[[Venture Philanthropy|风险慈善]]和慈善——需要在私营部门行动者追求的政治策略和战术方面得到更深入的理解
-

@@ -35,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-17'
-updated: '2026-08-22'
+updated: '2026-09-01'
 ---
 
 # International Schools
@@ -124,6 +124,9 @@ updated: '2026-08-22'
 > | [[International Schools Association]] | 组织 | 将单校课程难题连接为跨校合作议程，并支持早期国际毕业会考讨论。 |
 > | [[International Schools Examination Syndicate]] | 组织 | 从学校与协会网络中分离出的专门考试机构，承担跨国资格的持续开发与责任。 |
 > | [[English Schools Foundation Hong Kong]] | 组织 | 香港大型英语学校体系，学生构成由英国侨民为主转向 40% 至 50% 本地华人。 |
+> | [[Transformation of Singapore International School into United World College of South East Asia]] | 事件 | 既有外籍社群学校通过人员、课程、奖学金和组织承诺转为国际教育运动正式成员。 |
+> | [[United World Colleges Associated Schools Policy 1977]] | 政策 | 区分国际学校的课程采用、组织关联和正式成员身份，并以非正式联系期检验持续承诺。 |
+> | [[Waterford Kamhlaba Admission to United World Colleges]] | 事件 | 多种族全龄学校以反种族隔离使命、社区服务和课程转换进入跨国书院网络。 |
 > | [[Fourth Culture]] | 概念 | 本地学生在本国就读国际学校形成的特殊文化空间。 |
 > | [[International Baccalaureate]] | 概念 | 国际学校广泛采用的跨国课程与升学资格。 |
 

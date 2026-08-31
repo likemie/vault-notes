@@ -60,7 +60,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-17
-updated: 2026-08-24
+updated: 2026-09-01
 ---
 
 # International Baccalaureate
@@ -157,6 +157,7 @@ updated: 2026-08-24
 > - **1961–1967 — 教师倡议制度化** 日内瓦教师网络逐步建立 [[International Schools Examination Syndicate|ISES]]／IBO、六学科组、双语课程、[[Theory of Knowledge|知识论]]与国际试验学校网络。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, pp. 17–31)]]
 > - **1969–1970 — 资格验证** 六年试验启动，首批 29 名学生使用正式 IB 考试结果申请大学。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, p. 31)]]
 > - **1970–1976 — 制度可行性验证** 六年试验把考试实施、学校采用、家长信任、大学承认、行政能力和持续资金作为相互依赖的系统来建设。到 1973 年底，20 国给予一般承认，学生进入 25 国 175 所大学；1976 年海牙政府间会议把政府资助和治理参与纳入常设结构。[[Argument_Peterson_1987_OpenCourt_Ch04|Peterson (1987, Ch. 4, pp. 61–97)]]
+> - **1980–1982 — 十一月考试提前实施** [[Waterford Kamhlaba Admission to United World Colleges|沃特福德卡姆拉巴]]按南半球学年组织课程，多数学生需要申请南非大学。国际文凭组织（International Baccalaureate Organization，IBO）承担额外成本，把原计划长期服务澳大拉西亚和南美学校的十一月考试季提前分阶段实施。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 125–126)]]
 
 > [!ref-table]- 详细史实
 > [[Founding of the International Baccalaureate|国际文凭创立]]记录 1924–1970 年间的行动者、组织、资助、课程决策与大学承认时间轴；[[International Schools Examination Syndicate|国际学校考试辛迪加]]与 1967 年塞夫尔会议分别展开其组织载体和资格试验机制；[[International Baccalaureate Six-Year Experiment|国际文凭六年试验]]记录考试、学校、承认、财务与治理怎样把方案转为常设制度；海牙政府间会议展开实验结束时的政府出资与治理安排。
@@ -213,6 +214,7 @@ updated: 2026-08-24
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Peterson_1987_OpenCourt_Ch04|Peterson (1987, Ch. 4)]] — 以六年试验说明 IB 只有把课程、考试、学校、资格承认、行政和收入连接为制度闭环，才能从教育改革方案转为常设国际资格。
+> - [[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5)]] — 沃特福德加入 UWC 的课程需要推动十一月考试季提前实施，说明成员学校能够反向改变国际课程的全球时间基础设施。
 > - [[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010)]] — 分析了 IB 在[[International Education|国际教育]]中的扩张，并讨论了其质量保障机制及被引入非西方语境时的文化张力。
 > - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 提供了澳大利亚 IB 毕业生在[[Critical Thinking|批判性思维]]和学术成就上的大规模量化实证数据。
 > - [[Argument_Metli_2022_IJER|Metli & Akış (2022)]] — 聚焦 [[IB Diploma Programme|IBDP]] 的核心组件，从机制层面探讨了如何通过“[[Concurrency of Learning|并发学习]]（Concurrency of Learning）”来实现其标榜的整体学习理念。
