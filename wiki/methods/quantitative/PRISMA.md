@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-08-26
+updated: 2026-08-31
 ---
 
 # PRISMA
@@ -206,3 +206,4 @@ flowchart TD
 > - [[Argument_Song_Choi_2026_FPSYG|Song & Choi (2026)]] 运用 PRISMA 流程图展示[[Epistemic Cognition|认识论认知]]多水平元分析的文献筛选路径。
 > - [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] 采用规范的系统检索与流转筛选流程综合 341 项批判性思维教学[[Intervention Research|干预研究]]。
 > - [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]] 在教育[[Research Utilization|研究使用]][[Critical Review|批判性综述]]中依据 PRISMA 规范对 ERIC、Scopus、Teacher Reference Center 等数据库进行结构化检索，以流程图报告 1,617 篇初始记录至 34 篇最终纳入文献的筛选全过程。
+> - [[Argument_Li_2026_CEAI|Li et al. (2026)]] 严格依循 PRISMA 2020 声明对 Web of Science、Scopus 与 ERIC 数据库进行三阶段检索与双盲筛选，以标准四阶段流转图报告 409 篇初始记录至 67 篇最终纳入实证研究的全流程。

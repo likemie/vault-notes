@@ -29,7 +29,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-08-23
+updated: 2026-08-31
 ---
 
 # AI Literacy
@@ -86,6 +86,16 @@ updated: 2026-08-23
 
 ---
 
+### 命题三　人工智能素养作为认知调节变量决定人机对话中的认识论警觉与思维质量
+
+> [!concept-lens] 认知调节与认识论警觉
+> 探讨学生的 AI 素养水平如何调节其在人机对话中是对模型输出进行批判性核验还是盲目顺从。
+
+> [!claim] Li, C., Cui, H., & Hagedorn, L. S.
+> **AI 素养的情境调节机制** 在高等教育生成式 AI 整合研究中，AI 素养构成决定人机互动深度的核心调节变量。具备高 AI 素养的学生能够理解大模型的概率生成本质与幻觉倾向，在提示词设计中保持“认识论警觉”（Epistemic Vigilance），主动开展多源三角互证；而缺乏 AI 素养的学生容易被语义流畅性所误导，陷入证实偏误并放弃独立推理。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 2–3, 10–12)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
@@ -93,6 +103,7 @@ updated: 2026-08-23
 > |---|---|---|---|
 > | **认知放大原则** | 防范认知外包，保持思维主体性 | 课堂探究与课后学习 | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026a, p. 32)]] |
 > | **测评效度重塑** | 开发情境化、现场推理测评破除作弊冲击 | 国家课程与资格考试改革 | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026a, p. 34)]] |
+> | **认知调节机制** | AI 素养决定人机交互中的认识论警觉与批判性核验 | 高等教育人机协同学习与写作 | [[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 2–3, 11)]] |
 
 ---
 
@@ -101,7 +112,7 @@ updated: 2026-08-23
 > [!dev-timeline] 概念演变
 > - **2000 年代初 — 计算机与信息素养（ICT Literacy）** 聚焦计算机基本操作、办公软件使用与网络检索技能。
 > - **2010 年代 — [[Computational Thinking|计算思维]]与编程教育（Computational Thinking）** 强调逻辑抽象、分解、模式识别与算法编程。
-> - **2020 年代至今 — 批判性 AI 素养（Critical AI Literacy）** 随着大模型普及，转向对人机协同边界、生成幻觉批判、算法偏见审视与认知主体性维护。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, pp. 31–32)]]
+> - **2020 年代至今 — 批判性 AI 素养（Critical AI Literacy）** 随着大模型普及，转向对人机协同边界、生成幻觉批判、算法偏见审视与认知主体性维护。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, pp. 31–32)]]; [[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 2–3)]]
 
 ---
 
@@ -109,3 +120,4 @@ updated: 2026-08-23
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026a)]] — 强调基础教育必须将批判性 AI 素养列为面向未来的四大关键交叉素养之一，并建立防范认知外包的教学规制。
+> - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — 系统综述 67 项高等教育实证研究，将 AI 素养确立为驱动学生从被动使用转向反思性对话、维持认识论警觉的关键前置调节变量。

@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-08-25
+updated: 2026-08-31
 ---
 
 # Cognitive Load Theory
@@ -208,3 +208,4 @@ updated: 2026-08-25
 > - [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] 借助认知负荷理论解释 AI [[AI Agent in Education|智能体]]对 K-12 学生[[Procedural Skill|程序技能]]（$g = 0.391$）与[[Higher-Order Thinking Skills|高阶思维]]（$g = 0.540, p = .066$）的差异化赋能机制，阐明自适应微提示如何通过分担外在负荷促进图式内化。
 > - [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] 依托认知负荷理论论证[[Graphic Organizer|图形组织器]]如何通过空间结构[[Externalization|外化]]信息关系、降低瞬时[[Working Memory|工作记忆]]负荷，并报告了对高阶思维的显著促进效应（$g = 0.778$）。
 > - [[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe (2024)]] 考察认知负荷理论与脑科学话语如何在[[Policy Network|政策网络]]中被编排为强制性教师教育核心认证标准，揭示其[[Positivism|实证主义]][[Epistemology|认识论]]对教育专业[[Reflexivity|反思性]]的挤压。
+> - [[Argument_Li_2026_CEAI|Li et al. (2026)]] 运用认知负荷理论解释 ChatGPT 在高等教育中的双向认知效应：结构化脚手架有助于减少外在负荷以释放工作记忆投入批判与创造性探究；而非结构化使用则触发有害的[[Cognitive Offloading|认知卸载]]，导致深层图式建构停滞。

@@ -2932,6 +2932,18 @@
     ]
   },
   {
+    "title": "Self-Regulated Learning",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Self-Regulated Learning.md",
+    "aliases": [
+      "自我调节学习",
+      "自主调节学习",
+      "自我规范学习",
+      "SRL",
+      "self-regulation in learning"
+    ]
+  },
+  {
     "title": "Simplicity of Knowledge",
     "type": "concept",
     "path": "wiki/concepts/educational-psychology/Simplicity of Knowledge.md",
@@ -5142,6 +5154,17 @@
     "aliases": [
       "认知抑制",
       "inhibition"
+    ]
+  },
+  {
+    "title": "Cognitive Offloading",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Cognitive Offloading.md",
+    "aliases": [
+      "认知卸载",
+      "认知外包",
+      "心智卸载",
+      "cognitive outsourcing"
     ]
   },
   {
@@ -9376,6 +9399,17 @@
     ]
   },
   {
+    "title": "Boundary Object",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Boundary Object.md",
+    "aliases": [
+      "边界对象",
+      "边界客体",
+      "跨界对象",
+      "boundary objects"
+    ]
+  },
+  {
     "title": "Champ",
     "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Champ.md",
@@ -10696,6 +10730,18 @@
       "认知负荷理论",
       "认知负荷论",
       "Sweller's Cognitive Load Theory"
+    ]
+  },
+  {
+    "title": "Connectivism",
+    "type": "theory",
+    "path": "wiki/theories/learning-science-cognitive-science/Connectivism.md",
+    "aliases": [
+      "连通主义",
+      "联通主义",
+      "联结主义学习论",
+      "连通主义学习理论",
+      "Connectivist Learning Theory"
     ]
   },
   {
@@ -12194,6 +12240,17 @@
     "aliases": [
       "模板分析",
       "模板分析法"
+    ]
+  },
+  {
+    "title": "Thematic Synthesis",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Thematic Synthesis.md",
+    "aliases": [
+      "主题综合法",
+      "质性主题综合",
+      "质性文献主题综合",
+      "thematic synthesis of qualitative research"
     ]
   },
   {
@@ -19871,6 +19928,11 @@
     "title": "Argument_Zhou_2024_CE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Zhou_2024_CE.md"
+  },
+  {
+    "title": "Argument_Li_2026_CEAI",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Computers and Education Artificial Intelligence/Argument_Li_2026_CEAI.md"
   },
   {
     "title": "Argument_Liu_2026_CHBR",
