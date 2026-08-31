@@ -67,8 +67,7 @@
               "title": "Research Utilization"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -239,8 +238,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "7b1888ea00f7062e",
+  "active": "dbd03913e540f7fd",
   "lastOpenFiles": [
+    "wiki/arguments/reports-policy-documents/RoyalSociety_2026_ScienceForSociety/Argument_RoyalSociety_2026_ScienceForSociety.md",
+    "wiki/concepts/educational-policy-reform/Research Utilization.md",
     "wiki/arguments/journal-articles/SAGE Open/Argument_Kazanci_Tinmaz_Sezgin_2023_SO.md",
     "wiki/methods/quantitative/Model Fit Indices in SEM and CFA.md",
     "wiki/instruments/scales/Research Literacy Scale for Teachers.md",
@@ -265,8 +266,6 @@
     "wiki/facts/us/Measuring Quality Inventory.md",
     "wiki/facts/europe/Dublin Descriptors.md",
     "wiki/instruments/rubric/OECD Rubrics for Creativity and Critical Thinking.md",
-    "wiki/instruments/tests/Test of Teaching Knowledge.md",
-    "wiki/methods/quantitative/Multiple-Choice Questions.md",
     "wiki/facts/mexico",
     "wiki/facts/austria",
     "wiki/facts/ireland",
