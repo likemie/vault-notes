@@ -8,6 +8,12 @@ summary: "联合世界书院国际董事会于1977年确立既有学校关联程
 type: fact
 subtype: policy
 region: global
+fact_region: "global"
+fact_kind: "policy"
+fact_related_count: 0
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#dbeafe"
 issuing_organization: "United World Colleges International Board"
 tags: [region/global, theme/international-education, theme/network-governance, theme/membership-policy]
 related_concepts: []
@@ -105,7 +111,7 @@ updated: 2026-09-01
 > | **扩展速度** | 新建经典书院成本高、周期长，运动可能停滞。 | 形式扩展可能快于国际办公室的实际支持能力。 |
 > | **学校收益** | 正式联系缓解孤立，并在人员更替后维持教育目标。 | 有意义的关联需要持续访问、课程和治理协调，学校未必愿意承担成本。 |
 > | **成员层级** | 关联期可以帮助既有学校逐步理解和落实共同方针。 | 新加坡先例使关联容易被视为自动晋级通道。 |
-> | **课程共同性** | 国际文凭课程和综合活动提供进一步合作基础。 | 课程采用不能替代奖学金、寄宿、探险、服务和共同治理。 | [[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 123–124)]]
+> | **课程共同性** | 国际文凭课程和综合活动提供进一步合作基础。 | 课程采用不能替代奖学金、寄宿、探险、服务和共同治理。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, pp. 123–124)]] |
 
 > [!warning] 政策缺少统一操作标准
 > 适当长度没有被转换为统一年限，合格学校也缺少公开量化标准。政策依赖国际董事会、现有书院和领导者的个案判断，能够保留弹性，也使不同候选学校受到的程序约束可能不一致。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 124–125)]]
@@ -123,4 +129,3 @@ updated: 2026-09-01
 > | [[International Baccalaureate]] | 概念 | 共同课程提供教育联系基础，但不等同 UWC 组织成员身份。 |
 > | [[Transformation of Singapore International School into United World College of South East Asia]] | 事件 | 新加坡由关联到正式加入的经历构成政策形成的直接先例。 |
 > | [[Waterford Kamhlaba Admission to United World Colleges]] | 事件 | 沃特福德检验了非正式联系期、关联决定和正式加入的完整路径。 |
-

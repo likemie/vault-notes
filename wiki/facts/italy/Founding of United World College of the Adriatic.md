@@ -8,6 +8,12 @@ summary: "亚得里亚海书院在1971至1984年间通过意大利国家委员�
 type: fact
 subtype: event
 region: italy
+fact_region: "italy"
+fact_kind: "event"
+fact_related_count: 0
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#fef3c7"
 tags: [region/italy, theme/international-education, theme/institution-building, theme/public-funding]
 related_concepts: []
 related_theories: []
@@ -65,7 +71,7 @@ updated: 2026-09-01
 > | **旧海关** | 米戈内图书馆 | 以较小馆藏配合电子检索和大学资源 | 1984 年正式启用 |
 > | **原村小学** | 教室和实验室 | 利用既有公共建筑 | 改建为蒙巴顿学术中心 |
 > | **邻村运动中心** | 游泳、帆船及社区共同使用 | 共享设施替代大面积专属运动场 | 加强书院与地方社区联系 |
-> | **的里雅斯特大学** | 向学生开放图书馆 | 由地区高教网络补足书院资源 | 成为书院外部学习基础设施 | [[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 127–129)]]
+> | **的里雅斯特大学** | 向学生开放图书馆 | 由地区高教网络补足书院资源 | 成为书院外部学习基础设施。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, pp. 127–129)]] |
 
 1974 年会议还提出以国际文凭（International Baccalaureate，IB）为学术基础，采用英语授课，要求学生学习意大利语，并为周边交流学习斯洛文尼亚语。阿拉伯研究、成人教育、帆船、滑雪、登山、洞穴活动和地方救援被纳入方案，使课程回应亚得里亚海和边境地区条件。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 117–118)]]
 
@@ -116,4 +122,3 @@ updated: 2026-09-01
 > | [[Network Governance]] | 概念 | 中央政府、地区政府、私人产权人、村庄、大学和国际组织分担资源与责任。 |
 > | [[International Baccalaureate]] | 概念 | IB 为多国学生提供共同学术基础，并与地方语言和区域研究结合。 |
 > | [[Founding of Lester B. Pearson College]] | 事件 | 两所书院都以公共奖学金体现国家支持，但杜伊诺采用更分散的地方空间结构。 |
-

@@ -8,6 +8,12 @@ summary: "新加坡项目在1970至1975年间从独立校园复制转向整所�
 type: fact
 subtype: event
 region: singapore
+fact_region: "singapore"
+fact_kind: "event"
+fact_related_count: 0
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#fef3c7"
 tags: [region/singapore, theme/international-education, theme/institution-building, theme/international-schools]
 related_concepts: []
 related_theories: []
@@ -61,7 +67,7 @@ updated: 2026-09-01
 > |---|---|---|---|
 > | **樟宜独立书院** | 约三百人的经典寄宿书院 | 依赖英国改建资本、区域奖学金和新加坡土地 | 改建资金、区域生源和大面积土地均未落实 |
 > | **圣约翰独立高中部** | 国际学校内部设置相对独立的十一、十二年级 | UWC 补足高中寄宿生，国际学校提供设施 | 校址容量有限，国际学校不接受校内另设独立机构 |
-> | **整校关联并加入** | 全龄国际学校先关联，后以整校身份成为 UWC | 既有缴费招生维持学校，UWC 提供人员、课程、奖学金和国际联系 | 具备运行可行性，但持续引发共同身份和奖学金比例争议 | [[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 111–117)]]
+> | **整校关联并加入** | 全龄国际学校先关联，后以整校身份成为 UWC | 既有缴费招生维持学校，UWC 提供人员、课程、奖学金和国际联系 | 具备运行可行性，但持续引发共同身份和奖学金比例争议。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, pp. 111–117)]] |
 
 > [!stat-cards]- 资源与学生结构
 > - **圣约翰原有容量** 一千个学额和三百二十个寄宿位。
@@ -104,4 +110,3 @@ updated: 2026-09-01
 > | [[International Baccalaureate]] | 概念 | IB 从加入条件转化为整校共同课程，并取代并行的英国资格轨道。 |
 > | [[United World Colleges Associated Schools Policy 1977]] | 政策 | 新加坡的关联后晋级经历直接塑造了后来对非正式联系期和成员层级的谨慎设计。 |
 > | [[Founding of Lester B. Pearson College]] | 事件 | 两所学校在1975年同次会议加入，却代表城市全龄学校和国家支持寄宿书院两种不同模式。 |
-

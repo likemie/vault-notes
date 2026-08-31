@@ -8,7 +8,13 @@ summary: "加拿大西海岸创校计划在1970至1975年间由等待军用校�
 type: fact
 subtype: event
 region: canada
-tags: [region/canada, theme/international-education, theme/institution-building, theme-scholarship-policy]
+fact_region: "canada"
+fact_kind: "event"
+fact_related_count: 0
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#fef3c7"
+tags: [region/canada, theme/international-education, theme/institution-building, theme/scholarship-policy]
 related_concepts: []
 related_theories: []
 related_methods: []
@@ -72,7 +78,7 @@ updated: 2026-09-01
 > | **资本** | 前期工作缺少可用资金 | 私人风险资本先支付筹备和购地 | 项目形成可供政府和捐助者继续投入的实际承诺 |
 > | **资格** | 加拿大没有统一全国考试 | 提前确认 IB 的大学承认 | 国际招生与跨国升学获得共同接口 |
 > | **公共身份** | 私立寄宿书院难以取得持续公共支持 | 建立皮尔逊国家和平纪念 | 联邦资本、贷款信用与年度奖学金获得政治依据 |
-> | **教育空间** | 传统校园容易强化正式等级 | 以本地红杉组织森林村落 | 住宿、学生自治、服务和师生关系进入同一生活空间 | [[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 119–122)]]
+> | **教育空间** | 传统校园容易强化正式等级 | 以本地红杉组织森林村落 | 住宿、学生自治、服务和师生关系进入同一生活空间。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, pp. 119–122)]] |
 
 ---
 
@@ -116,4 +122,3 @@ updated: 2026-09-01
 > | [[International Baccalaureate]] | 概念 | 共同课程为国际招生与跨国大学入学提供资格接口。 |
 > | [[Network Governance]] | 概念 | 联邦政府、国家委员会、西部创办者、私人捐助者和自治书院分别承担不同风险。 |
 > | [[Transformation of Singapore International School into United World College of South East Asia]] | 事件 | 两所形态差异显著的书院在1975年同次会议取得正式成员身份。 |
-

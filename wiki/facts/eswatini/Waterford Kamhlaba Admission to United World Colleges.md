@@ -8,7 +8,13 @@ summary: "沃特福德卡姆拉巴在1963至1982年间由反种族隔离多种�
 type: fact
 subtype: event
 region: eswatini
-tags: [region/eswatini, theme/international-education, theme-anti-apartheid, theme/institution-building]
+fact_region: "eswatini"
+fact_kind: "event"
+fact_related_count: 0
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#fef3c7"
+tags: [region/eswatini, theme/international-education, theme/anti-apartheid, theme/institution-building]
 related_concepts: []
 related_theories: []
 related_methods: []
@@ -70,7 +76,7 @@ updated: 2026-09-01
 > | 障碍 | 学校需要 | 解决方式 | 网络后果 |
 > |---|---|---|---|
 > | **课程与考试时点** | 按南半球学年组织课程，多数学生申请南非大学 | IBO 承担额外成本，提前分阶段设置十一月考试 | 原为澳大拉西亚和南美规划的考试时点提前成为全球基础设施 |
-> | **财政关系** | 正式成员需要明确学校与国际运动的共同成本和责任 | 1981 年夏季完成财务谈判 | 价值认同与课程采用转化为可执行成员协议 | [[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 125–126)]]
+> | **财政关系** | 正式成员需要明确学校与国际运动的共同成本和责任 | 1981 年夏季完成财务谈判 | 价值认同与课程采用转化为可执行成员协议。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, pp. 125–126)]] |
 
 国际文凭（International Baccalaureate，IB）十一月考试并非只为一所学校提供例外。IBO 原本已把该考季视为服务澳大拉西亚和南美学校的长期目标，沃特福德的加入需求使其提前实施。调整也回应了布鲁塞尔会议关于支持发展中国家的建议，并体现 UWC 与 IBO 之间的组织互惠。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, p. 126)]]
 
@@ -107,4 +113,3 @@ updated: 2026-09-01
 > | [[United World Colleges]] | 组织 | 加入事件扩大了 UWC 的地域、学校形态和社会使命边界。 |
 > | [[International Baccalaureate]] | 概念 | IB 课程及十一月考试是正式加入的关键制度条件。 |
 > | [[Network Governance]] | 概念 | 学校、配对书院、国际董事会、国际办公室和课程组织共同完成分阶段整合。 |
-
