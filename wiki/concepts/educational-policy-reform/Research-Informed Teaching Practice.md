@@ -7,7 +7,7 @@ aliases:
 summary: "以学术研究证据为依据组织课堂教学决策的取向，强调外部实证文献对教学的启发与支撑，是证据知情实践（EIP）的关键拼图之一；在现实中常与基于数据的决策（DBDM）割裂，亟需依托教师研究素养与学校探究循环实现双轮整合。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 28
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
