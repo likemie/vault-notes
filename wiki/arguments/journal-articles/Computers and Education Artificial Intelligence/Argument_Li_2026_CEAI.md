@@ -83,9 +83,9 @@ title: "Argument_Li_2026_CEAI"
 argument_key: "Argument_Li_2026_CEAI"
 argument_display_title: "The cognitive impact of ChatGPT in higher education: A systematic review of critical and creative thinking outcomes"
 argument_kind: "journal-article"
-argument_related_count: 0
-argument_related_level: 0
-argument_related_stars: "☆"
+argument_related_count: 44
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "Computers and Education: Artificial Intelligence"
 book_title: ""
@@ -257,8 +257,8 @@ issuing_organization: ""
 > [!stat-cards]- 核心数据
 > - **67 项** 纳入综述的实证研究总量（2022–2025 年）。（p. 4）
 > - **38.8% vs 29.9% vs 31.3%** 量化（26 项）、质性（20 项）与[[Mixed Methods Research|混合方法]]（21 项）研究比例。（p. 5）
-> - **58.2%** 亚洲地区研究占比（39 项），欧洲占 17.9%，北美占 10.5%。（p. 5）
-> - **87%** 纳入研究在 [[Mixed Methods Appraisal Tool|MMAT]] 质量评价中达到 80% 及以上高分（58 项）。（p. 4）
+> - **58.2%** 亚洲地区研究占比（39 项），欧洲占 17.9%，北美占 10.5%。
+> - **87%** 纳入研究在 [[Mixed Methods Appraisal Tool|MMAT]] 质量评价中达到 80% 及以上高分（58 项）。
 > - **18 项** 实现批判性与创造性思维双向协同增益的结构化实证案例。（p. 9）
 
 ---
@@ -281,8 +281,8 @@ issuing_organization: ""
 
 > [!warning]
 > - **语言与数据库检索限制** 仅纳入已发表的英文同行评议期刊论文，排除了会议论文、预印本、专著及非英语数据库[[Document|文献]]，可能存在潜在的[[Publication Bias|发表偏倚]]。（p. 13）
-> - **技术迭代与横断设计局限** 现有实证研究多基于早期模型（如 GPT-3.5、GPT-4）且以短期横断测量为主，缺乏对持续人机互动影响的长期纵向追踪。（p. 13）
-> - **测量工具与自陈偏倚** 较多研究依赖学生的自我报告与主观反思[[Questionnaire|问卷]]，直接采用标准化客观认知测验（如 [[Torrance Tests of Creative Thinking|TTCT]]、[[California Critical Thinking Skills Test|CCTST]]）的实证研究仍相对有限。（p. 13）
+> - **技术迭代与横断设计局限** 现有实证研究多基于早期模型（如 GPT-3.5、GPT-4）且以短期横断测量为主，缺乏对持续人机互动影响的长期纵向追踪。
+> - **测量工具与自陈偏倚** 较多研究依赖学生的自我报告与主观反思[[Questionnaire|问卷]]，直接采用标准化客观认知测验（如 [[Torrance Tests of Creative Thinking|TTCT]]、[[California Critical Thinking Skills Test|CCTST]]）的实证研究仍相对有限。
 > - **地理与学科分布不均衡** 亚洲样本占比较高（58%），而在非洲、拉丁美洲等全球南方地区的实证证据明显不足；跨学科与高阶专业推理研究仍待深化。（pp. 5, 13）
 
 ---
