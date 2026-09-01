@@ -212,7 +212,7 @@ Total entries: **227**
 > - [[Argument_Brady_2023_EPR]] — 追踪 2020 年五本教育心理学经验期刊的方法趋势，发现随机实验降至 20%、非干预文章中约三分之二包含实践建议
 
 > [!index-list]- Educational Research (1)
-> - [[Argument_Nelson_2017_ER]] — 以特刊导言整合证据知情实践（EIP）的定义、应用与测量三轴：主张 EIP 是专业判断、系统数据、课堂数据与研究证据的多源整合，知识动员需要四类策略，成果测量仍面临知识与方法双重缺口。
+> - [[Argument_Nelson_2017_ER]] — 2017年《Educational Research》特刊导言，系统构建证据知情实践（EIP）的“定义—应用—测量”三维理论框架，阐明以专业判断为核心的四源整合机制与知识动员四类核心策略
 
 > [!index-list]- Educational Research and Evaluation (4)
 > - [[Argument_Cowen_2019_ERE]] — 以 Tullock 官僚制理论解释 EBE 的持续影响力：RCT/系统综述作为对主权者透明的过滤机制，以牺牲一线关联性为代价
