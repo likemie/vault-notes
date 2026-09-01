@@ -17,6 +17,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[University-Industry Collaboration]]"
   - "[[Precompetitive Research]]"
+  - "[[Boundary Spanner]]"
   - "[[Industry Advisory Board]]"
   - "[[Industry Affiliate Program]]"
   - "[[University-Based Research Center]]"
@@ -83,7 +84,7 @@ citation_aliases:
 > 三位作者来自[[University-Industry Collaboration|产学合作]]管理一线——Hoffman 在波音任职 36 年，曾任知识产权管理副总裁；Radasch 有 40 年航空航天产业技术合作经验；Thorsell 在 [[University Industry Demonstration Partnership|UIDP]] 从事跨部门创新合作——其框架是从实践经验中归纳而非从理论中演绎的。
 >
 > - **[[University-Industry Collaboration]]** — 本章在这个总概念下区分了两种组织形态：联盟（alliance）是双边综合伙伴关系，涵盖赞助研究、人才培养、设施共享等多重互动；联合体（consortium）则是多所大学与多家企业共同投入资源支持共同利益(pp.103–104)
-> - **McKinsey 7S 框架(Peters & Waterman, 1984)**— 从战略、结构、系统、共享价值观、技能、风格、人员七个维度理解组织有效性。[[Advanced Manufacturing Research Centre|AMRC]] 案例的分析暗中运用了这套框架，尤其是"共享价值观"（成员对[[Precompetitive Research|前竞争研究]]的共识）和"人员"（领导选择和关系经理）(p.108)
+> - **McKinsey 7S 框架(Peters & Waterman, 1984)**— 从战略、结构、系统、共享价值观、技能、风格、人员七个维度理解组织有效性。[[Advanced Manufacturing Research Centre|AMRC]] 案例的分析暗中运用了这套框架，尤其是"共享价值观"（成员对[[Precompetitive Research|前竞争研究]]的共识）和"人员"（领导选择和[[Boundary Spanner|关系经理]]）(p.108)
 > - **Partnernomics 原则**(2022)— 强调高管层支持、清晰目标和适当资源，与本章归纳的三个成功要素（价值主张、关系经理、法律协议）形成实践层面的相互印证
 
 ---
@@ -124,7 +125,7 @@ citation_aliases:
 >
 > > 一个教育学院的例子：教授对企业说"我们可以合作研究教师专业发展"——这是从学术兴趣出发的。学区总监的回答是"所以呢？这能让我的教师[[Attrition|流失]]率从 20% 降到 10% 吗？"如果教授回答不了这个"所以呢"——也就是说不清楚研究产出如何转化为企业的业务收益——价值主张就没有传达到位。大学的通病是用"我们有世界一流的 X 系"代替"我们能帮你解决 Y 问题"——前者是关于能力的陈述，后者是关于价值的承诺。
 >
-> **关系经理** 双方都需要有明确责任的人"认领"这段关系。头衔可以是集中化的正式角色，也可以是嵌入院系或业务部门的联系人，核心是**有人对这个关系的存活负责**。关系必须通过定期、不可跳过的会议来维持(pp.106–107)。
+> **[[Boundary Spanner|关系经理]]** 双方都需要有明确责任的人"认领"这段关系。头衔可以是集中化的正式角色，也可以是嵌入院系或业务部门的联系人，核心是**有人对这个关系的存活负责**。关系必须通过定期、不可跳过的会议来维持(pp.106–107)。
 >
 > 关系经理还需要理解对方的运行节奏：企业的预算周期和决策日历往往与大学的学术日历冲突。企业通常在财年末有未花完的预算——如果已签署[[Master Agreement|主协议]]，这笔钱可以快速拨给大学；如果没有，机会窗口就关上了。
 >
@@ -277,7 +278,7 @@ citation_aliases:
 
 > [!success]
 > - 产学联盟与联合体的组织化程度构成一个从轻量到重度的光谱：[[Industry Advisory Board|IAB]]（纯[[Dialogue in Education|对话]]，无资金，无协议）→ CAP（会员费，投票决定研究，捐赠型或合同型）→ [[University-Based Research Center|大学研究型中心]]（大学设定方向，政府共同资助，优先许可）→ [[Innovation Hub|创新中心]]（多方大规模投资，治理结构，区域经济目标）(pp.108–113)
-> - 三种基础设施性要素贯穿所有四种模式：价值主张必须从企业角度"电梯演讲"长度讲清楚、关系经理必须有人对关系的存活负责、[[Master Agreement|主协议]]覆盖 IP-赔偿-治理的完整法律框架并保持长期稳定(pp.105–108)
+> - 三种基础设施性要素贯穿所有四种模式：价值主张必须从企业角度"电梯演讲"长度讲清楚、[[Boundary Spanner|关系经理]]必须有人对关系的存活负责、[[Master Agreement|主协议]]覆盖 IP-赔偿-治理的完整法律框架并保持长期稳定(pp.105–108)
 > - [[Advanced Manufacturing Research Centre|AMRC]] 验证的最关键原则是**找到产业的共同痛点**——联合体的技术主题应当扎根于多公司正在独立烧钱试图解决的共同问题，而非大学自身的强项。技术焦点要窄到足以让有限投资产生可见成果，但不能窄到只吸引一个行业细分(pp.113–117)
 > - AMRC 的两层 IP 模型实现了"竞争对手合作"的制度条件：[[Precompetitive Research|前竞争研究]] IP 归大学、所有成员免版税平等使用；[[Product-Specific Research|产品专项研究]] IP 归赞助企业。两条轨道互补——前竞争轨道创造共享知识池，产品专项轨道构建个体竞争优势(pp.114–115, 117–118)
 > - 联合体发起成员不宜超过四到五家——成员过多导致协议谈判困难。理想发起组合横跨供应商价值链（OEM + 供应商 + 材料商），使技术从研究到生产的路径最短。品牌成员对早期增长有杠杆效应(p.117, 119)

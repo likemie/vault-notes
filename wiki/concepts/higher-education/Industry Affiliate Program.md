@@ -23,6 +23,7 @@ related_concepts:
   - "[[Knowledge Exchange]]"
   - "[[University-Industry Collaboration]]"
   - "[[Innovation Ecosystem]]"
+  - "[[Boundary Spanner]]"
   - "[[Sponsored Research Agreement]]"
   - "[[Foreground IP]]"
 related_theories: []
@@ -55,7 +56,7 @@ updated: 2026-05-27
 > - **多对多关系** 一个联盟计划同时连接大学的多个研究方向和多家会员企业，形成[[Knowledge Exchange|知识交流]]网络
 > - **中心办公室管辖** 65% 的大学将产业联盟计划纳入中心[[University-Industry Collaboration|产学参与]]办公室的职责范围——是仅次于产业赞助研究（68%）的第二常见的中心办公室管辖活动（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p.65]]）
 > - **价值主张与评估维度** CAP 要成功，必须提供同时契合大学研究优势和企业内部需求的明确价值主张。CAP 不能只是筹款工具——必须由研究、学习体验、劳动力发展和创新的价值驱动。企业在评估是否加入时通常考虑：公司研究重点与 CAP 焦点的对齐度、CAP 的建立时间和成熟度、过去的成功（发明披露或专利）、与[[Innovation Ecosystem|创新生态系统]]中其他公司连接的机会、与个别教师或学生的深度互动([[Argument_Hoffman_2025_UI_Alliances_Consortia|Hoffman et al., 2025, pp.109–110]])
-> - **关系管理** CAP 需要所有参与组织指派专职人员。大学方需有人安排会议、跟进企业伙伴、组织教师报告并推动研究成果转化为后续项目；企业方需有人认领与 CAP 的关系并将接触到的教师、研究或学生连接到公司内部相关部门——企业多个部门可能同时从与大学的合作中获益，但这需要企业关系经理的内部协调([[Argument_Hoffman_2025_UI_Alliances_Consortia|Hoffman et al., 2025, p.110]])
+> - **关系管理** CAP 需要所有参与组织指派专职人员。大学方需有人安排会议、跟进企业伙伴、组织教师报告并推动研究成果转化为后续项目；企业方需有人认领与 CAP 的关系并将接触到的教师、研究或学生连接到公司内部相关部门——企业多个部门可能同时从与大学的合作中获益，但这需要企业[[Boundary Spanner|关系经理]]的内部协调([[Argument_Hoffman_2025_UI_Alliances_Consortia|Hoffman et al., 2025, p.110]])
 
 ## 概念辨析
 

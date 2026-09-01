@@ -136,7 +136,7 @@ updated: 2026-09-02
 > - **多层级关系网络（Relationships）** 激活校内中层领导与跨校同伴网络，促进[[Practice-Based Evidence|实践本位证据]]的横向扩散。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, pp. 12–15)]]
 
 > [!exegesis]- 实践理解与应用示例
-> 1. **加拿大安大略 KNAER 全系统网络** 安大略省应用教育研究知识网络（KNAER）由政府教育部、多伦多大学 OISE 与西安大略大学联合发起，吸纳学区与教师工会参与；通过多年协同攻关，针对数学教学与多元文化教育研发专门转译工具包，并派遣跨界[[Boundary Spanner|中介者]]入校支持，将全省规模的学术[[Research Translation|研究转化]]为一线教师日常备课活动。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, pp. 130–131)]]
+> 1. **加拿大安大略 KNAER 全系统网络** 安大略省应用教育研究知识网络（KNAER）由政府教育部、多伦多大学 OISE 与西安大略大学联合发起，吸纳学区与教师工会参与；通过多年协同攻关，针对数学教学与多元文化教育研发专门转译工具包，并派遣[[Boundary Spanner|跨界中介者]]入校支持，将全省规模的学术[[Research Translation|研究转化]]为一线教师日常备课活动。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, pp. 130–131)]]
 > 2. **滑铁卢大学 [[Schlegel-UW Research Institute for Aging|RIA]] 产学研动员生态** 在加拿大滑铁卢大学 Schlegel-UW 老龄化研究所（RIA）案例中，研究团队将实验室开发的脑血管健康检测技术直接嵌入 Schlegel Villages 退休社区网络的常规临床评估中，通过物理空间共同选址与护理人员联合培训，实现了研究成果从实验室到终端用户的无缝动员。[[Argument_Dean_2025_UICollaborationSupport|(Dean et al., 2025, pp. 245–253)]]
 
 > [!logic-map]- 要素关系
@@ -193,7 +193,7 @@ updated: 2026-09-02
 ### 命题三　学校现场的证据流动高度依托同行网络与跨界中介而非原始学术发表
 
 > [!concept-lens] 中介路径与人际网络主导
-> 剖析真实教育现场的信息获取生态，确立同行人际网络与跨界[[Boundary Spanner|中介者]]在证据扩散中的主渠道功能。
+> 剖析真实教育现场的信息获取生态，确立同行人际网络与[[Boundary Spanner|跨界中介者]]在证据扩散中的主渠道功能。
 
 > [!claim] Cooper et al. (2017); [[Argument_Nordahl_2015_Paideia|Nordahl (2015)]]; [[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet (2021)]]
 > **同行网络主导与中介者转译** 无论在微观课堂评估领域还是宏观学校改进中，一线教师获取实践信息的最主要渠道是同行专业网络，对[[Practice-Based Evidence|实践本位证据]]的信赖度显著高于原始学术报告。学术期刊的直接辐射力有限，知识流动高度依托学校中层领导者、教研员、工会与专业中介机构扮演跨界中介角色，在组织间建立转译与连接的社会资本通道。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 130)]]; [[Argument_Pellegrini_2021_ROE|(Pellegrini & Vivanet, 2021, pp. 28–31)]]

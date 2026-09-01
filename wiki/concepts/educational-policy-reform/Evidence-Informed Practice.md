@@ -141,7 +141,7 @@ updated: 2026-09-02
 > - **双重专业素养** 具备批判解读[[Document|文献]]的[[Research Literacy|研究素养]]与敏锐分析课堂数据的[[Data Literacy|数据素养]]。
 > - **制度化时间与空间** 享有专门探究时间，支持教师在协作共同体中开展基于证据的深层研讨。
 > - **专业探究文化** 建立容许试错、鼓励质疑、将[[Research Utilization|证据使用]]视作持续专业学习的制度环境。
-> - **跨界[[Boundary Spanner|中介者]]支撑** [[School Leadership|学校领导]]者、教研员、工会与专业机构发挥跨界中介与转化功能。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, pp. 127–131)]]
+> - **[[Boundary Spanner|跨界中介者]]支撑** [[School Leadership|学校领导]]者、教研员、工会与专业机构发挥跨界中介与转化功能。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, pp. 127–131)]]
 
 > [!feature] [[Knowledge Mobilisation|知识动员]]（KMb）的四类核心推进策略
 > - **沟通与传播（Communication and Dissemination）** 优化证据呈现的清晰度与可及性，培养教育者辨识说服性修辞与真实证据的分析性立场。

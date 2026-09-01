@@ -268,7 +268,7 @@ updated: 2026-09-02
 > [!feature] 知识动员（KMb）的四类核心策略与系统机制
 > - **沟通与传播（Communication and Dissemination）** 克服学术发表与实践话语的脱节；不仅追求信息送达，更关注证据传播的清晰性、可及性与说服力机制。
 > - **能力建设（Capacity Building）** 消除教育者与研究者的双向能力赤字；培育教育者的[[Research Literacy|研究素养]]、[[Data Literacy|数据素养]]、分析性立场与评估技能。
-> - **伙伴关系与网络（Partnerships and Networks）** 建立跨边界协作共同体；学校与系统领导者、专业协会、研究机构发挥跨界[[Boundary Spanner|中介者]]功能。
+> - **伙伴关系与网络（Partnerships and Networks）** 建立跨边界协作共同体；学校与系统领导者、专业协会、研究机构发挥[[Boundary Spanner|跨界中介者]]功能。
 > - **系统化方法（Systemic Approaches）** 突破时间与资源瓶颈；构建全系统层面的 EIP 制度文化、支持性基础设施与长效激励机制。（pp.130–131）
 
 > [!case] 案例四：流行教育创新的说服性传播与分析性立场的必要性（Carrier, 2017）
@@ -348,7 +348,7 @@ updated: 2026-09-02
 
 ## 关键引用
 
-> [!citation-card]- 证据知情实践反对按脚本行事
+> [!citation-card]- [[Evidence-Informed Practice|证据知情实践]]反对按脚本行事
 > "证据本位实践不是'按脚本行事'式的教学或监管，也不应从不容挑战的权威位置规定发生什么；它是将专业技能与来自研究的最佳外部证据相结合，以改善实践质量。"（Sharples, 2013, p.7，引于 p.129）
 >
 > *"Evidence-based practice is not 'cook book' teaching or policing, nor should it be about prescribing what goes on from a position of unchallenged authority. It is about integrating professional expertise with the best external evidence from research to improve the quality of practice."*

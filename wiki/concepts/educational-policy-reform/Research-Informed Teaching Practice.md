@@ -29,7 +29,6 @@ related_concepts:
   - "[[Research Literacy]]"
   - "[[Data Literacy]]"
   - "[[School Leadership]]"
-  - "[[Boundary Spanner]]"
   - "[[Practice-Based Evidence]]"
   - "[[Epistemology]]"
   - "[[Heterogeneity]]"
@@ -101,7 +100,7 @@ updated: 2026-09-02
 > [!feature] 核心要素构成
 > - **研究证据的拼图定位（Piece of Evidence-Informed [[Jigsaw]]）** 确立学术研究是教学决策的重要输入但非唯一源泉，明确其必须与其他证据形态协同发力。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 129)]]
 > - **批判性[[Research Literacy|研究素养]]与分析立场（Research Literacy & Analytical Stance）** 教师具备辨识研究质量、识破商业化说服性修辞包装并评估实证效能的专业素养。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, pp. 130–131)]]
-> - **同行实践证据中介网络（Peer-Mediated Practice Evidence）** 依托教师工会、学区教研员与[[School Leadership|学校领导]]等[[Boundary Spanner|中介者]]，将原始学术成果[[Transfer Translation Transformation|转译]]为易吸收的[[Practice-Based Evidence|实践本位证据]]（Practice-Based Evidence, PBE）。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 130)]]
+> - **同行实践证据中介网络（Peer-Mediated Practice Evidence）** 依托教师工会、学区教研员与[[School Leadership|学校领导]]等中介者，将原始学术成果[[Transfer Translation Transformation|转译]]为易吸收的[[Practice-Based Evidence|实践本位证据]]（Practice-Based Evidence, PBE）。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 130)]]
 > - **学校探究循环整合机制（School Enquiry Cycle Integration）** 在学校探究循环中，将 RITP 的实证干预策略与 [[Data-Based Decision Making|DBDM]] 的校本诊断紧密嵌合。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, pp. 129–130)]]
 
 > [!logic-map]- 要素关系与探究循环
@@ -154,7 +153,7 @@ updated: 2026-09-02
 > 教师极少直接阅读原始学术报告，证据传播高度依赖人际网络，呼唤发展批判性[[Research Literacy|研究素养]]以抵御虚假创新。
 
 > [!claim] Cooper et al. (2017) / Carrier (2017) / Campbell et al. (2017) / [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]]
-> **同行中介优先性与分析立场确立** 实证调查表明，一线教师获取教学改进信息的最主要渠道是同行教师（other teachers），而非大学学术期刊；在日常工作中，实践者对[[Practice-Based Evidence|实践本位证据]]的接纳与使用程度显著高于原始研究报告。与此同时，许多缺乏实证基础的流行教育创新往往凭借高度吸引人的“说服性沟通策略”（persuasive communication）在学校中迅速扩散。因此，推进真实的 RITP 不能仅靠向学校推送文献，而必须依托教师工会、学区网络等多元[[Boundary Spanner|中介者]]进行[[Transfer Translation Transformation|转译]]，并着力培育教师的[[Research Literacy|研究素养]]与“分析立场”（analytical stance），使教师具备独立审视研究质量与识破商业包装的评估技能。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, pp. 130–131)]]
+> **同行中介优先性与分析立场确立** 实证调查表明，一线教师获取教学改进信息的最主要渠道是同行教师（other teachers），而非大学学术期刊；在日常工作中，实践者对[[Practice-Based Evidence|实践本位证据]]的接纳与使用程度显著高于原始研究报告。与此同时，许多缺乏实证基础的流行教育创新往往凭借高度吸引人的“说服性沟通策略”（persuasive communication）在学校中迅速扩散。因此，推进真实的 RITP 不能仅靠向学校推送文献，而必须依托教师工会、学区网络等多元中介者进行[[Transfer Translation Transformation|转译]]，并着力培育教师的[[Research Literacy|研究素养]]与“分析立场”（analytical stance），使教师具备独立审视研究质量与识破商业包装的评估技能。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, pp. 130–131)]]
 
 > [!warrant]- 认知负荷与专业信任的社会机制
 > 原始学术报告语言晦涩且缺乏情境指引，教师天然倾向于信任同行验证过的实践知识；如果教师缺乏研究素养，这种信任机制就极易被善于修辞包装的流行教育伪科学所利用。

@@ -44,6 +44,7 @@ related_concepts:
   - "[[Partnership Continuum]]"
   - "[[Clinical Trial]]"
   - "[[Sponsored Research Agreement]]"
+  - "[[Boundary Spanner]]"
   - "[[Reliability]]"
   - "[[University Corporate Engagement Professional]]"
   - "[[Concierge Service]]"
@@ -283,7 +284,7 @@ updated: 2026-06-05
 
 **资金杠杆** 政府与产业配资项目是推动教师参与产学合作最直接的硬性激励。以加拿大为例，NSERC Alliance Advantage 项目和 Mitacs Accelerate 项目要求产业伙伴提供 1:1 配套资金；通过叠加不同项目，研究者最多可以获得 3:1 的杠杆效应。滑铁卢大学一个学院过去五年的产业及产业杠杆研究经费占总经费的 34%，其中 NSERC 资助中 41% 来自产业配资项目([[Argument_Dean_2025_UICollaborationSupport|Dean et al., 2025, p.243]])。
 
-**伙伴关系经理** 产学之间存在"粒度错配"——企业需要窄而具体的解决方案，教师的能力宽而基础。伙伴关系经理（partnership manager）在产学界面上承担双向翻译功能：对外审查产业机会的可[[Reliability|信度]]和匹配度，对内帮助教师识别研究的产业应用价值([[Argument_Dean_2025_UICollaborationSupport|Dean et al., 2025, pp.249–250]])。这一角色与 [[University Corporate Engagement Professional|UCEP]] 和 [[Concierge Service|礼宾服务]] 的功能高度重叠，但更侧重项目层面的具体匹配和翻译。
+**伙伴[[Boundary Spanner|关系经理]]** 产学之间存在"粒度错配"——企业需要窄而具体的解决方案，教师的能力宽而基础。伙伴关系经理（partnership manager）在产学界面上承担双向翻译功能：对外审查产业机会的可[[Reliability|信度]]和匹配度，对内帮助教师识别研究的产业应用价值([[Argument_Dean_2025_UICollaborationSupport|Dean et al., 2025, pp.249–250]])。这一角色与 [[University Corporate Engagement Professional|UCEP]] 和 [[Concierge Service|礼宾服务]] 的功能高度重叠，但更侧重项目层面的具体匹配和翻译。
 
 **共同选址** 共同选址通过持续面对面互动建立信任。疫情后调查显示面对面互动在伙伴关系建立中具有不可替代的价值。[[Schlegel-UW Research Institute for Aging|RIA]] 是共同选址的典型案例——临床医生、科学家和工程师在同一物理空间中并肩工作，研究者和终端用户之间的即时反馈循环加速了从研究到应用的转化([[Argument_Dean_2025_UICollaborationSupport|Dean et al., 2025, pp.249, 251–254]])。
 
@@ -409,7 +410,7 @@ AET 的资助结构直接决定了产学合作在企业内部关注什么、忽�
 > [!warning]
 > 但没有任何一个模式是真正全面的：中心办公室的典型角色是"导航者"（navigator）或"礼宾"（[[Concierge Service|concierge]]），而非直接的"负责者"（responsible）。临床和辅助活动极少在中心办公室的网站描述中被提及；办公室平均仅覆盖 12 个活动领域中的 3.5 个。协议执行仍分散在专业单位中——赞助项目办公室处理赞助研究合同、技术许可办公室处理知识产权许可、[[Clinical Trial|临床试验]]办公室处理临床研究（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, pp.62–67]]）。
 
-调查还发现，大学和企业双方共同重视"互利关系"（超过 80% 受访者选择）、灵活克服障碍和礼宾服务。企业的特别诉求包括灵活的知识产权政策和专注于特定行业（而非学术学科）的大学伙伴关系经理（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, pp.67–68]]）。
+调查还发现，大学和企业双方共同重视"互利关系"（超过 80% 受访者选择）、灵活克服障碍和礼宾服务。企业的特别诉求包括灵活的知识产权政策和专注于特定行业（而非学术学科）的大学伙伴[[Boundary Spanner|关系经理]]（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, pp.67–68]]）。
 
 > [!note]- [[Academic Health System|学术健康系统]]：组织模式的补充
 > [[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones (2025, pp.179–181)]]在传统五种大学组织模式之外，识别了[[Academic Health System|学术健康系统]]（Academic Health System, AHS）作为一种独特的产学合作组织载体。AHS 混合了学术、临床和产业三种逻辑，以"中心辐射"网络和双向学术管线为结构特征，在产学合作中扮演促进者（facilitator）而非仅仅是参与者。这一组织形态突破了前述五种模式的分类框架（均以大学为中心），提示产学合作的组织载体可能不限于传统的大学结构。详见 [[Academic Health System]]。

@@ -53,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,10 +224,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "7ef1b49d2c627a52",
+  "active": "ffc1a70d9b63a440",
   "lastOpenFiles": [
-    "wiki/concepts/higher-education/Boundary Spanner.md",
+    "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt.md",
     "wiki/arguments/journal-articles/Educational Research/Argument_Nelson_2017_ER.md",
+    "wiki/concepts/higher-education/Boundary Spanner.md",
     "wiki/concepts/educational-policy-reform/Research-Informed Teaching Practice.md",
     "wiki/facts/uk/ResearchED.md",
     "wiki/concepts/educational-philosophy/Technical Rationality.md",
@@ -260,7 +261,6 @@
     "wiki/concepts/educational-technology/AI Hallucination.md",
     "wiki/concepts/learning-science-cognitive-science/Educational Affordances.md",
     "wiki/concepts/educational-psychology/Illusion of Competence.md",
-    "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt.md",
     "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch01.md",
     "tmp/pdfs/ch06_review/funding-171.png",
     "tmp/pdfs/ch06_review/plate-162.png",
