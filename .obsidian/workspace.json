@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/concepts/sociology-of-education/Boundary Object.md",
+                "file": "wiki/concepts/research-methodology/Epistemological Vigilance.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Boundary Object"
+              "title": "Epistemological Vigilance"
             }
           }
         ],
@@ -242,6 +242,7 @@
   "active": "7b1888ea00f7062e",
   "lastOpenFiles": [
     "wiki/arguments/journal-articles/Computers and Education Artificial Intelligence/Argument_Li_2026_CEAI.md",
+    "wiki/concepts/sociology-of-education/Boundary Object.md",
     "wiki/concepts/educational-psychology/Self-Regulated Learning.md",
     "wiki/theories/learning-science-cognitive-science/Cognitive Load Theory.md",
     "wiki/concepts/learning-science-cognitive-science/Cognitive Offloading.md",
@@ -263,7 +264,6 @@
     "wiki/arguments/journal-articles/Computers and Education Artificial Intelligence",
     "wiki/methods/qualitative/Thematic Synthesis.md",
     "wiki/theories/learning-science-cognitive-science/Connectivism.md",
-    "wiki/concepts/sociology-of-education/Boundary Object.md",
     "sources/Li_2026_CEAI.md",
     "sources/Li_2026_CEAI.pdf",
     "scratch_paper_text.txt",
