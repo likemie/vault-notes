@@ -83,7 +83,7 @@ updated: 2026-09-02
 ## 定义
 
 > [!def] 核心定义
-> 证据知情实践（Evidence-Informed Practice, EIP）将研究证据定位为影响教育决策的多种资源之一：教育者以[[Professional Judgment|专业判断]]为决策枢纽，在具体情境中动态整合学术研究证据、系统层面数据与课堂即时数据，拒绝照菜谱式的教条化套用。推进 EIP 的核心在于超越单纯的研究供给，构建全系统的[[Knowledge Mobilisation|知识动员]]支撑条件与多维成果评估体系。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, pp. 127–129)]]
+> 证据知情实践（Evidence-Informed Practice, EIP）将研究证据定位为影响教育决策的多种资源之一：教育者以[[Professional Judgment|专业判断]]为决策枢纽，在具体情境中动态整合学术研究证据、系统层面数据与课堂即时数据，拒绝照搬脚本与教条化套用。推进 EIP 的核心在于超越单纯的研究供给，构建全系统的[[Knowledge Mobilisation|知识动员]]支撑条件与多维成果评估体系。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, pp. 127–129)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 关注研究证据在教育决策中的位置与转化机制：研究是证据拼图的关键板块，须由教育者结合微观课堂情境与宏观系统数据进行专业审议。
@@ -95,8 +95,8 @@ updated: 2026-09-02
 >
 > *"We named this special issue Evidence-informed practice in education to reflect our view that evidence is just one of a number of factors that influence educational decisions, with educators needing to apply professional judgment, rather than being driven solely by research evidence or data."*
 
-> [!citation-card]- 照菜谱隐喻与整合本质
-> "证据本位实践不是'照菜谱'式的教学或监管，也不应从不容挑战的权威位置规定发生什么；它是将专业技能与来自研究的最佳外部证据相结合，以改善实践质量。"（Sharples, 2013, p. 7，引于 [[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p. 129]]）
+> [!citation-card]- 摒弃脚本化教学与多源整合本质
+> "证据本位实践不是'按脚本行事'式的教学或监管，也不应从不容挑战的权威位置规定发生什么；它是将专业技能与来自研究的最佳外部证据相结合，以改善实践质量。"（Sharples, 2013, p. 7，引于 [[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p. 129]]）
 >
 > *"Evidence-based practice is not 'cook book' teaching or policing, nor should it be about prescribing what goes on from a position of unchallenged authority. It is about integrating professional expertise with the best external evidence from research to improve the quality of practice."*
 

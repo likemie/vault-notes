@@ -30,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-05-23
+updated: 2026-09-02
 ---
 
 # Reusability Paradox
@@ -63,11 +63,11 @@ Pellegrini & Vivanet 将这一悖论移用到 [[Evidence-Based Education|证据�
 ## 争议与批评
 
 > [!warning]
-> 可重用性悖论并不意味着证据没有用。Pellegrini & Vivanet 的论点是：证据不能当作“菜谱”机械复制，但可以作为设计教育干预的参照，帮助决策者从既有经验中学习并进行情境适配([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, pp.35-36]])。
+> 可重用性悖论并不意味着证据没有用。Pellegrini & Vivanet 的论点是：证据不能当作“固定脚本”机械复制，但可以作为设计教育干预的参照，帮助决策者从既有经验中学习并进行情境适配([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, pp.35-36]])。
 
 ## 相关案例／政策
 
 > [!example]
 > - [[EU Evidence-Informed Education Policy Initiatives]] — 欧洲证据政策需要同时面对多教育系统、多语言和多课程标准造成的复用难题。
-> - [[Argument_Pellegrini_2021_ROE]] — 集中拆解可重用性悖论如何限制欧洲[[Evidence-Based Reform|证据本位改革]]。
+> - [[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet (2021)]] — 集中拆解可重用性悖论如何限制欧洲[[Evidence-Based Reform|证据本位改革]]。
 

@@ -38,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: '2026-08-27'
+updated: 2026-09-02
 ---
 
 # EPPI-Centre
@@ -72,12 +72,12 @@ updated: '2026-08-27'
 ## 争议与评论
 
 > [!warning]
-> EPPI-Centre 能解决证据可及性和综述方法问题，但不能自动解决欧洲证据政策的[[External Validity|外部效度]]问题。详见 [[Argument_Pellegrini_2021_ROE]] 对“证据不能当作菜谱复用”的论证([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, pp.35-36]])。
+> EPPI-Centre 能解决证据可及性和综述方法问题，但不能自动解决欧洲证据政策的[[External Validity|外部效度]]问题。详见 [[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet (2021, pp. 35–36)]] 对“证据不能当作固定脚本复用”的论证。
 
 ## 相关概念／理论
 
 > [!tip]-
 > - [[Educational Evidence Clearinghouses]] — EPPI-Centre 是英国证据中介和[[Systematic Review|系统综述]]机构。
 > - [[Evidence-Informed Practice]] — EPPI-Centre 支持证据进入政策和实践决策。
-> - [[Argument_Pellegrini_2021_ROE]] — 说明 EPPI-Centre 在欧洲证据基础设施中的位置。
+> - [[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet (2021)]] — 说明 EPPI-Centre 在欧洲证据基础设施中的位置。
 

@@ -118,7 +118,7 @@ updated: 2026-09-02
 > | 理论工具 | 解释功能 |
 > |----------|----------|
 > | **[[Research Utilization\|研究利用（Research Utilization）]]**<br>Carol Weiss | Weiss (1979) 的奠基性工作，解释研究如何以多种路径进入政策与实践（工具性、概念性、象征性等），说明证据进入实践具有长期学术脉络，并非近年来凭空出现的新生议题。（pp.127, 132） |
-> | **[[Evidence-Informed Practice\|证据知情实践（Evidence-Informed Practice, EIP）]]**<br>Jonathan Sharples | 特刊导言的核心对象。将证据界定为影响教育决策的多种资源之一，强调教育者须以[[Professional Judgment\|专业判断]]整合研究、系统数据与课堂数据，将 EIP 定位为多源整合而非单一研究驱动，拒绝照菜谱式的教条主义。（pp.127–129） |
+> | **[[Evidence-Informed Practice\|证据知情实践（Evidence-Informed Practice, EIP）]]**<br>Jonathan Sharples | 特刊导言的核心对象。将证据界定为影响教育决策的多种资源之一，强调教育者须以[[Professional Judgment\|专业判断]]整合研究、系统数据与课堂数据，将 EIP 定位为多源整合而非单一研究驱动，拒绝照搬脚本的教条主义。（pp.127–129） |
 > | **[[Knowledge Mobilisation\|知识动员（Knowledge Mobilisation, KMb）]]**<br>Carol Campbell 等 | 解释证据为何不会自动转化为实践的中介过程[[Construct\|构念]]。知识流动是研究者、决策者与实践者之间通过协作共同创造知识的社会互动与迭代过程。（pp.130–131） |
 > | **[[Practice-Based Evidence\|实践本位证据（Practice-Based Evidence, PBE）]]**<br>Anthony Bryk | Bryk (2015) 提出的核心概念，强调教育者在日常教学中生成的细粒度、情境相关知识，为形成性支持专业学习与学生成就提供正当的证据来源，抗衡对教师研究的赤字化偏见。（p.129） |
 > | **[[Professional Judgment\|专业判断（Professional Judgment）]]**<br>Carol Campbell | EIP 多源整合的决策枢纽。教育者基于经验、价值观与情境理解对多元信息进行权衡与审议；成为证据知情需要严谨证据与严谨专业判断过程并存。（pp.129, 132） |
@@ -198,11 +198,11 @@ updated: 2026-09-02
 > 3. 谁的证据算数（Whose evidence counts?）（p.128）
 
 > [!tension] 证据本位（Evidence-Based） vs 证据知情（Evidence-Informed）
-> - **证据本位（Evidence-based）** 侧重由研究证据（尤其外部高等级实验证据）驱动决策，易滑向照菜谱式教学或从权威地位发号施令。
+> - **证据本位（Evidence-based）** 侧重由研究证据（尤其外部高等级实验证据）驱动决策，容易滑向“按脚本行事”的教条式教学或依赖外部权威发号施令。
 > - **证据知情（Evidence-informed）** 将证据界定为影响教育决策的诸多资源之一，强调由教育者在具体情境中运用[[Professional Judgment|专业判断]]对研究、数据与经验进行审议与整合。
 
 > [!claim] 证据知情实践（EIP）的四源整合界定
-> Sharples (2013, p.7) 指出，证据本位实践不是照菜谱式的教学或监管，而是将专业专长与来自研究的最佳外部证据深度融合以提升实践质量。特刊收录论文（LaPointe-McEwan et al.; Brown et al.）共同确立了核心共识：EIP 绝非单维概念，必须被明确界定为[[Professional Judgment|专业判断]]、系统层面数据、课堂数据与研究证据的四源整合。（p.129）
+> Sharples (2013, p. 7) 指出，证据本位实践不是“按脚本行事”的教学或监管，也不是从不容置疑的权威立场规定课堂行为，而是将教师专业专长与来自研究的最佳外部证据深度融合以提升实践质量。特刊收录论文（LaPointe-McEwan et al.; Brown et al.）共同确立了核心共识：EIP 绝非单维概念，必须被明确界定为[[Professional Judgment|专业判断]]、系统层面数据、课堂数据与研究证据的四源整合。（p.129）
 
 > [!dual-header] 证据知情实践（EIP）四源整合矩阵
 > | 整合维度 | 概念内涵与主要形态 | 在教育决策中的功能 | 缺失或单维主导的潜在风险 |
@@ -348,8 +348,8 @@ updated: 2026-09-02
 
 ## 关键引用
 
-> [!citation-card]- 证据本位实践不是照菜谱
-> "证据本位实践不是'照菜谱'式的教学或监管，也不应从不容挑战的权威位置规定发生什么；它是将专业技能与来自研究的最佳外部证据相结合，以改善实践质量。"（Sharples, 2013, p.7，引于 p.129）
+> [!citation-card]- 证据知情实践反对按脚本行事
+> "证据本位实践不是'按脚本行事'式的教学或监管，也不应从不容挑战的权威位置规定发生什么；它是将专业技能与来自研究的最佳外部证据相结合，以改善实践质量。"（Sharples, 2013, p.7，引于 p.129）
 >
 > *"Evidence-based practice is not 'cook book' teaching or policing, nor should it be about prescribing what goes on from a position of unchallenged authority. It is about integrating professional expertise with the best external evidence from research to improve the quality of practice."*
 
