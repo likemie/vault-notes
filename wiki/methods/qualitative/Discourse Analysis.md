@@ -5,7 +5,7 @@ summary: "以日常谈话和文本中的语言使用为研究对象的方法，�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 18
+method_related_count: 19
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -16,6 +16,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Epistemology]]"
   - "[[Reflexivity]]"
+  - "[[Analytical Stance]]"
   - "[[Research Question]]"
   - "[[Causality]]"
   - "[[Ideal Speech Situation]]"
@@ -61,7 +62,7 @@ updated: 2026-07-23
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 知识由语言在社会情境中建构，语言不只是透明的意义载体，其本身就是社会实在的构成部分。话语分析的文本本身也是可被分析的话语。
 > - **研究者角色** 研究者需要仔细阅读和解释文本材料，解释必须由语言证据支持；需要高度敏感于语言的细微差别（Coyle, 1995, p. 247）；需要保持[[Reflexivity|反身性]]，因为研究者自身的话语也在建构"发现"。
-> - **有效性标准** 通过寻求替代解释和话语中的变异程度来排除竞争性解释；语言证据必须直接支持解释；反身性对自身的分析立场进行审视。
+> - **有效性标准** 通过寻求替代解释和话语中的变异程度来排除竞争性解释；语言证据必须直接支持解释；反身性对自身的[[Analytical Stance|分析立场]]进行审视。
 > - **不声称回答的问题** 不声称从话语中直接推断参与者的内在心理状态；不声称产生超越该话语情境的普遍概括。
 
 > [!method-stack] 方法层级

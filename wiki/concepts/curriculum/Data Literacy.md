@@ -7,10 +7,10 @@ aliases:
 summary: "涵盖个体在数字化社会中收集、解读与批判评估数据的通识能力，以及教育者在学校探究中超越单一终结性评价、进行定性定量证据三角验证的专业实践胜任力"
 type: concept
 domain: "curriculum"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 21
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - field/curriculum
   - theme/stem-education
@@ -19,6 +19,7 @@ tags:
   - theme/teacher-professional-development
 related_concepts:
   - "[[School Leadership]]"
+  - "[[Analytical Stance]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Formative Assessment]]"
   - "[[Research Literacy]]"
@@ -29,6 +30,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Dialogue in Education]]"
+  - "[[School Enquiry Cycle]]"
   - "[[Data-Based Decision Making]]"
   - "[[Research-Informed Teaching Practice]]"
   - "[[Professional Judgment]]"
@@ -52,7 +54,7 @@ updated: 2026-09-02
 ## 定义
 
 > [!def] 核心定义
-> 数据素养（Data Literacy）涵盖双重维度：在**通识与课程教育层面**，指个体在日益数字化的社会中理解、解读、批判性评估和负责任应用数据的综合胜任力，依托概率论与统计学基础，涵盖对数据来源真实性、抽样偏差、可视化操纵及不确定性的批判审视（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society, 2026a, p. 31]]）；在**教育者专业探究层面**，指教师与[[School Leadership|学校领导]]者发展“分析立场”（analytical stance）与“评价技能”（evaluative skills），审视多元课堂与系统数据、克服对终结性考试分数的单一依赖，并对定性与定量证据进行[[Triangulation|三角验证]]以支持专业探究与学校改进的核心能力（[[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, pp. 129–131]]）。
+> 数据素养（Data Literacy）涵盖双重维度：在**通识与课程教育层面**，指个体在日益数字化的社会中理解、解读、批判性评估和负责任应用数据的综合胜任力，依托概率论与统计学基础，涵盖对数据来源真实性、抽样偏差、可视化操纵及不确定性的批判审视（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society, 2026a, p. 31]]）；在**教育者专业探究层面**，指教师与[[School Leadership|学校领导]]者发展“[[Analytical Stance|分析立场]]”（analytical stance）与“评价技能”（evaluative skills），审视多元课堂与系统数据、克服对终结性考试分数的单一依赖，并对定性与定量证据进行[[Triangulation|三角验证]]以支持专业探究与学校改进的核心能力（[[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, pp. 129–131]]）。
 
 > [!concept-lens] 概念透镜
 > - **核心维度** 区分通识公民素养（面向学生日常决策、科学探究与批判思考）与专业探究素养（面向教育者教学诊断、评价反思与证据三角互证）。
@@ -84,7 +86,7 @@ updated: 2026-09-02
 > - **数据批判性审视（Critical Data Evaluation）** 识别数据收集的代表性、遗漏[[Variable|变量]]、选择性报告与测量误差，评估证据[[Reliability|可靠性]]。
 > - **可视化与表达解读（Visualisation Interpretation）** 敏锐识破坐标轴截断、比例失真及图表操纵，准确获取图表信息。
 > - **真实数据清洗与探究（Data Cleaning & Modelling）** 掌握在理科实验与跨学科项目中处理不完整、杂乱原始数据的实践经验。
-> - **分析立场与评价技能（Analytical Stance & Evaluative Skills）** 具备审视和质疑多元证据的专业敏感性，形成持续探究的专业心智。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 130)]]
+> - **[[Analytical Stance|分析立场]]与评价技能（Analytical Stance & Evaluative Skills）** 具备审视和质疑多元证据的专业敏感性，形成持续探究的专业心智。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 130)]]
 > - **多源课堂证据审视（Broad View of Classroom Evidence）** 拓宽对课堂数据的理解范围，兼顾[[Formative Assessment|形成性评价]]、课堂互动与[[Qualitative Observation|质性观察]]。
 > - **定性与定量[[Triangulation|三角验证]]（Triangulation of Qualitative & Quantitative Sources）** 交叉比对标准化测试与质性课堂证据，避免单一数据源造成的决策偏误。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 129)]]
 > - **循证学校改进闭环（School Improvement Inquiry）** 将校内数据分析与外部研究证据相结合，驱动系统的学校与教学探究循环。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, pp. 129–130)]]
@@ -124,7 +126,7 @@ updated: 2026-09-02
 > 孤立的数据素养往往使学校决策局限于校内数据的现状诊断，缺乏成熟干预策略；孤立的[[Research Literacy|研究素养]]则容易使外部[[Document|文献]]脱离校本现实。
 
 > [!claim] Brown et al. (2017) / [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]]
-> **双素养整合赋能探究循环** 推动真正的[[Evidence-Informed Practice|证据知情实践]]（Evidence-Informed Practice, EIP）必须同时依托数据素养与研究素养。数据素养帮助教育者基于校内数据精准定位问题与学生需求，研究素养则帮助教育者从外部实证研究中搜寻、评估和改编有效的教学干预方案。只有将两种素养协同整合于系统的学校探究循环（school enquiry cycle）中，才能使[[Data-Based Decision Making|基于数据的决策]]（Data-Based Decision Making, DBDM）与[[Research-Informed Teaching Practice|研究知情教学实践]]（Research-Informed Teaching Practice, RITP）紧密交融，赋能教师的专业探究与学校的持续改进。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, pp. 129–131)]]
+> **双素养整合赋能探究循环** 推动真正的[[Evidence-Informed Practice|证据知情实践]]（Evidence-Informed Practice, EIP）必须同时依托数据素养与研究素养。数据素养帮助教育者基于校内数据精准定位问题与学生需求，研究素养则帮助教育者从外部实证研究中搜寻、评估和改编有效的教学干预方案。只有将两种素养协同整合于系统的[[School Enquiry Cycle|学校探究循环]]（school enquiry cycle）中，才能使[[Data-Based Decision Making|基于数据的决策]]（Data-Based Decision Making, DBDM）与[[Research-Informed Teaching Practice|研究知情教学实践]]（Research-Informed Teaching Practice, RITP）紧密交融，赋能教师的专业探究与学校的持续改进。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, pp. 129–131)]]
 
 > [!implication]- 教师专业发展与中层领导支持
 > 培育教育者的专业数据素养不能仅依靠脱离情境的技术统计培训，必须依托学校中层领导（middle leaders）构建的跨校协作探究网络与校本探究基础设施，为教师提供持续的反思、审议与实践土壤。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, pp. 130–131)]]
@@ -136,7 +138,7 @@ updated: 2026-09-02
 > [!dev-timeline] 数据素养的内涵拓展
 > - **1990s–2000s — 统计学与信息素养衍生** 数据素养最初被界定为统计计算与信息检索技能的延伸，主要服务于高等教育与专业科研人员。
 > - **2000s–2010s — 问责政策下的教师数据使用能力** 伴随欧美教育问责制和测试本位改革，数据素养聚焦于教师解读标准化考试成绩与管理软件报表的技术能力（见 [[Data-Based Decision Making|基于数据的决策]]）。
-> - **2017 — 证据知情视阈下的双素养整合与[[Triangulation|三角验证]]** [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] 汇聚多国经验，明确提出数据素养应转向对多元质性与量化课堂数据的三角验证，并与[[Research Literacy|研究素养]]结合嵌入学校探究循环。
+> - **2017 — 证据知情视阈下的双素养整合与[[Triangulation|三角验证]]** [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] 汇聚多国经验，明确提出数据素养应转向对多元质性与量化课堂数据的三角验证，并与[[Research Literacy|研究素养]]结合嵌入[[School Enquiry Cycle|学校探究循环]]。
 > - **2020s — 全员通识素养与批判性公民胜任力** [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026a)]] 等机构推动数据素养面向全体 18 岁学习者的全科贯通，强调在真实复杂议题中的概率推理与数据批判。
 
 ---

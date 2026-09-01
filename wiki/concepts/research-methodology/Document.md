@@ -6,10 +6,10 @@ aliases:
 summary: "研究中的文献是对事件或过程的记录，由个人或群体生产，包括私人文本、官方档案、媒体报道、小说、日记、信件与电子记录等多种形式，是历史与文献研究方法的基石分析单位。"
 type: concept
 domain: "research-methodology"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - method/historical-research
   - method/documentary-research
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Transcription in Qualitative Research]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Reliability]]"
+  - "[[Analytical Stance]]"
   - "[[Virtual Documents]]"
   - "[[Reflexivity]]"
 related_methods:
@@ -99,7 +100,7 @@ updated: 2026-06-24
 > | 基本定义 | 由事件的目击者或参与者作为该事件的直接记录而生产 | 通过对一手文献的分析形成对所涉事件的阐述 |
 > | 时间关系 | 通常在事件发生的同时或不久后产生 | 通常在事件之后产生，有时相隔数年 |
 > | 典型例子 | 日记、会议记录、原始信件、照片 | 学术著作、历史研究、教科书 |
-> | 分析功能 | 直接证据，需要验证真实性、[[Reliability\|可靠性]]和代表性 | 提供解释、比较和综合，但带有作者的分析立场 |
+> | 分析功能 | 直接证据，需要验证真实性、[[Reliability\|可靠性]]和代表性 | 提供解释、比较和综合，但带有作者的[[Analytical Stance\|分析立场]] |
 
 然而，许多文献并不容易归入这一简单二分法，表现为以下四种复杂情况：
 

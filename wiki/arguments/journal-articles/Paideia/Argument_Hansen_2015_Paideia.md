@@ -14,9 +14,9 @@ title: "Argument_Hansen_2015_Paideia"
 argument_key: "Argument_Hansen_2015_Paideia"
 argument_display_title: "Leder Temanummer om synlig læring"
 argument_kind: "journal-article"
-argument_related_count: 9
+argument_related_count: 10
 argument_related_level: 0
-argument_related_stars: "☆"
+argument_related_stars: ""
 argument_related_color: "#dbeafe"
 journal: Paideia
 citation: "Hansen, O., Lekhal, R., Nordahl, T., Norlund, A., Persson, B., & Qvortrup, L. (2015). Leder Temanummer om synlig læring. Paideia, 9, 4–8."
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Document]]"
   - "[[New Public Management]]"
+  - "[[Analytical Stance]]"
 related_theories:
   - "[[Dynamic Knowledge and Learning Model]]"
 related_methods: []
@@ -104,7 +105,7 @@ citation_aliases:
 
 > [!warning] 局限性与批评
 > - 这是一篇编辑导言，不是独立研究；它对各篇文章的介绍高度压缩，因此更适合用来把握主题号内部的立场地图，而不适合替代各文的细读(pp.4–8)。
-> - 导言整体明显偏向支持[[Visible Learning|VL]]的北欧接受路径，尤其在结尾借 Nordahl 将反对者界定为承担“道德责任”的一方；这种表述强化了实践紧迫感，但也压缩了对批判立场的对等呈现空间(pp.7–8)。
+> - 导言整体明显偏向支持[[Visible Learning|VL]]的北欧接受路径，尤其在结尾借 Nordahl 将反对者界定为承担“道德责任”的一方；这种表述强化了实践紧迫感，但也压缩了对[[Analytical Stance|批判立场]]的对等呈现空间(pp.7–8)。
 > - 导言提到对学习概念和统计解释的修正需求，却没有直接展开 [[New Public Management]]、市场化传播或教育哲学层面的深层批判，因此它更像支持方内部的整理与校准，而非对 VL 的全面反思。
 
 ## 来源

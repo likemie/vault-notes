@@ -17,7 +17,7 @@ aliases:
 summary: "在异质组织、专业社群或制度系统之间充当沟通桥梁的专业角色，通过双重语言转译、制度摩擦缓冲与多边信任建构，促进知识流动、资源对齐与跨界协同共创。"
 type: concept
 domain: "higher-education"
-related_count: 33
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -61,7 +61,9 @@ related_methods:
   - "[[Case Study]]"
 related_persons:
   - "[[Yrjö Engeström]]"
-related_facts: []
+related_facts:
+  - "[[Knowledge Network for Applied Education Research]]"
+  - "[[Elementary Teachers' Federation of Ontario]]"
 related_arguments:
   - "[[Argument_Boccanfuso_Hall_2025_OrgStrategy]]"
   - "[[Argument_Nelson_2017_ER]]"
@@ -83,7 +85,7 @@ updated: 2026-09-02
 
 > [!concept-lens] 概念透镜
 > - **核心功能** 聚焦异质系统间认知鸿沟的弥合、利益诉求的对齐、合作流程的编排以及关系型社会资本的长期维系。
-> - **应用[[Champ|场域]]** 广泛分布于大学企业合作办公室（[[University Corporate Engagement Professional|UCEP]]）、产学联合体、教育知识网络（如 KNAER）、学区教研共同体及[[Research-Practice Partnership|研究-实践伙伴关系]]（RPP）中。
+> - **应用[[Champ|场域]]** 广泛分布于大学企业合作办公室（[[University Corporate Engagement Professional|UCEP]]）、产学联合体、教育知识网络（如 [[Knowledge Network for Applied Education Research|KNAER]]）、学区教研共同体及[[Research-Practice Partnership|研究-实践伙伴关系]]（RPP）中。
 > - **边界限定** 边界跨越者指具有主观能动性的人类行动者或团队；它不同于作为静态中介工具的[[Boundary Object|边界对象]]（Boundary Object），也不同于纯粹提供流程指引的[[Concierge Service|礼宾服务]]（Concierge Service）模式。
 
 > [!citation-card]- 关键表述
@@ -223,8 +225,8 @@ updated: 2026-09-02
 > [!case] 案例一：产学联盟常设“关系经理”机制（[[Argument_Hoffman_2025_UI_Alliances_Consortia|Hoffman et al., 2025]]）
 > 麻省理工学院（MIT）等顶尖高校在推进大规模产学联合体时，普遍设立专职的“关系经理”（Relationship Manager）。关系经理深度跟踪企业合作方的研发痛点，不仅负责协调多学科教授团队，更在企业财年末突击预算释放时，在“两周内”快速匹配校内科研团队并依托既有[[Master Agreement|主协议]]启动种子研究，显著降低了企业的对接成本并实现了千万级合作基金的持续沉淀。[[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025, pp. 106–107)]]
 
-> [!case] 案例二：加拿大安大略 KNAER 全系统跨界中介网络（Campbell et al., 2017; [[Argument_Nelson_2017_ER|Nelson & Campbell, 2017]]）
-> 加拿大安大略省应用教育研究知识网络（KNAER）构建了覆盖全省的跨界中介网络。该网络由省教育部资助，联合多伦多大学教育研究院（OISE）、西安大略大学与各学区及小学教师联合会（ETFO），选拔并培训骨干教师与教研员担任“知识经纪人”。中介者进驻学校协助一线教师将前沿数学与全纳教育学术报告[[Transfer Translation Transformation|转译]]为具体教学工具包，并组织跨校探究工作坊，成功打破了高校象牙塔与中小学课堂的隔绝。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, pp. 130–131)]]
+> [!case] 案例二：加拿大安大略 [[Knowledge Network for Applied Education Research|KNAER]] 全系统跨界中介网络（Campbell et al., 2017; [[Argument_Nelson_2017_ER|Nelson & Campbell, 2017]]）
+> 加拿大安大略省应用教育研究知识网络（KNAER）构建了覆盖全省的跨界中介网络。该网络由省教育部资助，联合多伦多大学教育研究院（OISE）、西安大略大学与各学区及小学教师联合会（[[Elementary Teachers' Federation of Ontario|ETFO]]），选拔并培训骨干教师与教研员担任“知识经纪人”。中介者进驻学校协助一线教师将前沿数学与全纳教育学术报告[[Transfer Translation Transformation|转译]]为具体教学工具包，并组织跨校探究工作坊，成功打破了高校象牙塔与中小学课堂的隔绝。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, pp. 130–131)]]
 
 ---
 
@@ -234,6 +236,6 @@ updated: 2026-09-02
 > - [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] — 系统论证伙伴关系、中介组织与跨界中介者在全系统[[Evidence-Informed Practice|证据知情实践]]中的决定性支撑功能。
 > - [[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall (2025b)]] — 阐明大学[[University-Industry Collaboration|产学合作]]战略中边界跨越者的双重[[Transfer Translation Transformation|转译]]、信任建构与降低交易成本机制。
 > - [[Argument_Hoffman_2025_UI_Alliances_Consortia|Hoffman et al. (2025)]] — 深入分析产学联盟中关系经理（Relationship Manager）的组织化职责与合作维系机制。
-> - Campbell et al. (2017) — 依托 KNAER [[Case Study|案例研究]]全系统[[Knowledge Mobilisation|知识动员]]战略，分析跨界中介网络在知识转译与全系统能力建设中的运作。
+> - Campbell et al. (2017) — 依托 [[Knowledge Network for Applied Education Research|KNAER]] [[Case Study|案例研究]]全系统[[Knowledge Mobilisation|知识动员]]战略，分析跨界中介网络在知识转译与全系统能力建设中的运作。
 > - Cooper, Klinger, & McAdie (2017) — 实证揭示教师工会与同行网络作为中介者在课堂评估证据流动中的核心地位。
 > - Akkerman & Bakker (2011) — 全面综述学习与教育研究中的边界跨越与[[Boundary Object|边界对象]]理论，提出识别、协调、反思与转化的四阶段学习机制。

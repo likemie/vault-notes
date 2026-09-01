@@ -10,7 +10,7 @@ subtype: policy
 region: hong-kong
 fact_region: "hong-kong"
 fact_kind: "policy"
-fact_related_count: 20
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ tags:
   - level/k12
 related_concepts:
   - "[[General Education]]"
+  - "[[Analytical Stance]]"
   - "[[Zhonghua Minzu]]"
   - "[[Critical Thinking]]"
   - "[[Disciplina and Doctrina]]"
@@ -72,7 +73,7 @@ updated: 2026-07-13
 > 公民与社会发展科（CSD）是香港高中必修科目，其目标是通过精简课程内容、取消独立专题探究（IES）、改以必修内地考察，并将评估简化为通过/不通过非分级制，全面转向灌输国家安全、守法意识与爱国主义认同（[[Argument_Yan_2025_JCS|Yan & Morris, 2025, pp. 490–491]]）。
 
 > [!policy-design]- 政策设计与机制
-> - **设计目标** 纠正原[[General Education|通识教育]]科中被指责的批判立场偏颇、国家认知淡漠的问题，培养学生对国家和[[Zhonghua Minzu|中华民族]]的单一认同感和归属感（[[Argument_Vickers_2024_CE|Vickers, 2024, p.149]]）。
+> - **设计目标** 纠正原[[General Education|通识教育]]科中被指责的[[Analytical Stance|批判立场]]偏颇、国家认知淡漠的问题，培养学生对国家和[[Zhonghua Minzu|中华民族]]的单一认同感和归属感（[[Argument_Vickers_2024_CE|Vickers, 2024, p.149]]）。
 > - **适用对象** 全体高中的学生，必须在三年内完成必修课程及到内地考察（[[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 491]]）。
 > - **核心工具** 实施教育局统一教材评审机制，取消独立专题探究，建立内地考察团实践体系，简化外部考评为通过/不通过的合格性考试。
 > - **约束方式** 强制性高中毕业必修要求，学校与教师受到国安法行政红线的刚性约束，必须完整使用经审查合格的官方教科书教学（[[Argument_Vickers_2024_CE|Vickers, 2024, pp.141–142]]）。

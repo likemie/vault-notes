@@ -9,7 +9,7 @@ aliases:
 summary: "Carol Bacchi (2009) 提出的政策分析框架，通过六个递进问题审视政策文本中问题如何被表征和建构，揭示权力、假设和沉默，属于批判政策社会学传统。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 12
+theory_related_count: 13
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Postpositivism]]"
   - "[[Policy Science in Comparative Education]]"
+  - "[[Analytical Stance]]"
   - "[[Analytic Framework]]"
   - "[[Policy Network]]"
   - "[[Value Neutrality]]"
@@ -87,7 +88,7 @@ updated: 2026-06-16
 > [!theory-stance] [[Theoretical Standpoint|理论立场]]
 > - **[[Ontology|本体论]]（[[Constructivist Paradigm|社会建构主义]]）** 认为社会问题不是独立于人的客观事实，而是由语言、权力和制度互动建构出来的产物（Bacchi, 2009）。
 > - **[[Epistemology|认识论]]（[[Postpositivism|后实证主义]]）** 拒绝将[[Policy Science in Comparative Education|政策科学]]视为中立的技术方案，强调任何[[Knowledge Production|知识生产]]都嵌入在特定的权力关系中（Ozga, 2021）。
-> - **分析立场** 关注被政策“沉默”的侧面（如教师工作量、制度性资金不足等），认为沉默的侧面往往比被明文纳入的条款更能暴露治理权力的真实走向（Bacchi, 2009）。
+> - **[[Analytical Stance|分析立场]]** 关注被政策“沉默”的侧面（如教师工作量、制度性资金不足等），认为沉默的侧面往往比被明文纳入的条款更能暴露治理权力的真实走向（Bacchi, 2009）。
 
 ---
 
@@ -112,7 +113,7 @@ updated: 2026-06-16
 
 > [!tension] 争议焦点
 > - **线性结构的张力** 虽然六个问题在逻辑上是递进的，但在实际分析中，问题表征的形成（Q3）、沉默（Q4）与效果（Q5）通常是高度共生且互为因果的，难以在文本分析中做绝对的线性割裂。
-> - **[[Value Neutrality|价值中立]]性的挑战** WPR方法本身自带强烈的解构色彩和批判立场，使得它难以用于以“政策优化”或“工具理性改进”为直接目标的研究项目。
+> - **[[Value Neutrality|价值中立]]性的挑战** WPR方法本身自带强烈的解构色彩和[[Analytical Stance|批判立场]]，使得它难以用于以“政策优化”或“工具理性改进”为直接目标的研究项目。
 
 ---
 

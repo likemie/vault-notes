@@ -11,7 +11,7 @@ title: "Argument_ONeill_2016_Report"
 argument_key: "Argument_ONeill_2016_Report"
 argument_display_title: "Charities, philanthropists, policy entrepreneurs, international companies and state schooling in Aotearoa New Zealand"
 argument_kind: "report"
-argument_related_count: 7
+argument_related_count: 8
 argument_related_level: 0
 argument_related_stars: "☆"
 argument_related_color: "#dcfce7"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Policy Entrepreneur]]"
   - "[[Literature Search]]"
+  - "[[Analytical Stance]]"
 related_theories: []
 related_methods:
   - "[[Case Study]]"
@@ -104,7 +105,7 @@ citation_aliases:
 
 > [!warning] 局限性与批评
 > - 报告定位为"初步草图"，不是全面系统评估
-> - 选择教师工会和校长联合会作为资助方可能引起对分析立场的质疑
+> - 选择教师工会和校长联合会作为资助方可能引起对[[Analytical Stance|分析立场]]的质疑
 > - 仅六案例，样本范围有限
 
 ## 来源

@@ -9,10 +9,10 @@ aliases:
 summary: "由 George Siemens 与 Stephen Downes 提出的数字时代学习理论，认为学习是连接专业节点或信息源的网络构建过程，知识分布于人际与非人类技术网络的动态连接之中"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 23
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_count: 24
+theory_related_level: 3
+theory_related_stars: "⭐⭐⭐"
+theory_related_color: "#ede9fe"
 tags:
   - theory/learning-science
   - field/educational-technology
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Epistemic Stances]]"
   - "[[Learning Analytics]]"
   - "[[Working Memory]]"
+  - "[[Analytical Stance]]"
 related_theories:
   - "[[Third Generation Activity Theory]]"
 related_methods:
@@ -159,7 +160,7 @@ updated: 2026-09-01
 > > [!axis] 独立学习理论 vs 教学法隐喻
 > > 传统教育心理学家（如 Kerr, Verhagen, Kop & Hill）争论连通主义是否构成了与[[Constructivist Paradigm|建构主义]]实质不同的独立科学理论，还是仅为一种顺应互联网形态的教学法隐喻。
 > >
-> > - **批判立场** 认为连通主义没有提供新的内部认知机制解释，其许多主张已被分布式认知与[[Third Generation Activity Theory|活动理论]]所涵盖。
+> > - **[[Analytical Stance|批判立场]]** 认为连通主义没有提供新的内部认知机制解释，其许多主张已被分布式认知与[[Third Generation Activity Theory|活动理论]]所涵盖。
 > > - **支持立场** 坚决主张连通主义从[[Ontology|本体论]]上将知识视为网络连接本身，彻底突破了传统“知识存在于大脑或人际社会”的心智主义局限。
 >
 > > [!critique]- 忽视认知负荷与内部内化

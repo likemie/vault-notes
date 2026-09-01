@@ -9,7 +9,7 @@ title: "Argument_Partaken_2022_Springer"
 argument_key: "Argument_Partaken_2022_Springer"
 argument_display_title: "Two faces of geopolitics of knowledge"
 argument_kind: "book"
-argument_related_count: 41
+argument_related_count: 42
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -48,6 +48,7 @@ related_concepts:
   - "[[Knowledge Sabotage]]"
   - "[[Epistemic Stances]]"
   - "[[Positivism]]"
+  - "[[Analytical Stance]]"
 related_theories:
   - "[[Decolonial Geopolitics of Knowledge]]"
   - "[[Network Society]]"
@@ -271,7 +272,7 @@ Big Data 不仅是巨型数据仓库，更包含人们将数据语料转化为�
 
 > [!warning]
 > - **作者自述局限** 未明确陈述。
-> - **读者批评空间** 论文以中美对立为核心案例，对中国[[Knowledge Transfer|知识转移]]行为采用强烈批判立场（如"self-centered business practices""knowledge appropriation and elimination of the partner"），对美方行为（全球大规模监视、Snowden 揭露的违宪监控）仅简短提及，存在不对称审查；将 Huntington 文明冲突论作为[[Analytic Framework|分析框架]]之一但未充分讨论该理论本身的争议性；Google Ngram 词频分析仅提供相关性描述，不能作为因果论证。
+> - **读者批评空间** 论文以中美对立为核心案例，对中国[[Knowledge Transfer|知识转移]]行为采用强烈[[Analytical Stance|批判立场]]（如"self-centered business practices""knowledge appropriation and elimination of the partner"），对美方行为（全球大规模监视、Snowden 揭露的违宪监控）仅简短提及，存在不对称审查；将 Huntington 文明冲突论作为[[Analytic Framework|分析框架]]之一但未充分讨论该理论本身的争议性；Google Ngram 词频分析仅提供相关性描述，不能作为因果论证。
 
 
 ## 来源

@@ -11,7 +11,7 @@ aliases:
 summary: "对研究利用方式的经典三分类：概念性使用指研究以间接方式影响理解与思考，工具性使用指研究直接用于具体决策，象征性使用指研究被事后用来为已定决策背书"
 type: concept
 domain: "educational-policy-reform"
-related_count: 15
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -34,11 +34,13 @@ related_concepts:
   - "[[Variable]]"
 related_theories:
   - "[[Quality Use of Research Evidence Framework]]"
+  - "[[Research Utilization Models]]"
 related_methods:
   - "[[Systematic Review]]"
 related_instruments: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[National Center for Research in Policy and Practice]]"
 related_arguments:
   - "[[Argument_Nelson_2017_ER]]"
   - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
@@ -97,7 +99,7 @@ updated: 2026-08-26
 > - **概念性成果（Conceptual outcomes）** 研究对思维的间接影响。
 > - **象征性成果（Symbolic outcomes）** 使用证据合法化某种做法或说服他人其价值。
 >
-> NCRPP 学者把这三类识别为长期成果，Wentworth et al. 据此测量[[Research-Practice Partnership|研究-实践伙伴关系]]对教育者证据本位决策的影响([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p.132]])。
+> [[National Center for Research in Policy and Practice|NCRPP]] 学者把这三类识别为长期成果，Wentworth et al. 据此测量[[Research-Practice Partnership|研究-实践伙伴关系]]对教育者证据本位决策的影响([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p.132]])。
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -126,7 +128,7 @@ updated: 2026-08-26
 > [[Research Utilization|研究利用]]的方式可以用有限几种类型概括，各种类型对应不同的知识与决策关系。
 
 > [!claim] Weiss (1979)
-> **七模型起源** 1979 年提出七种研究使用模型（知识驱动、问题解决、互动、政治、战术、启蒙、以及研究作为社会智识事业的一部分），为后来的类型学提供基础。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, p.3)]]
+> **七模型起源** 1979 年提出七种[[Research Utilization Models|研究使用模型]]（知识驱动、问题解决、互动、政治、战术、启蒙、以及研究作为社会智识事业的一部分），为后来的类型学提供基础。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, p.3)]]
 
 > [!claim] Nutley et al. (2007)
 > **三类型收敛** 概念、工具与象征三分类在广义研究利用[[Document|文献]]中得到收敛：概念性使用影响理解、工具性使用直接影响决策、象征性使用合法化既定立场。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, p.3)]]
@@ -158,7 +160,7 @@ updated: 2026-08-26
 > 类型学不仅描述如何使用研究，还被用来分类与测量研究干预的长期成果。
 
 > [!claim] [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]]
-> **成果分类的应用** 在[[Evidence-Informed Practice|证据知情实践]]的成果测量中，NCRPP 学者把工具性、概念性与象征性使用识别为长期成果的三类形态：工具性对应研究对实践的直接影响，概念性对应研究对思维的间接影响，象征性对应使用证据合法化做法或说服他人。Wentworth et al. 据此开发[[Questionnaire|问卷]]，测量美国[[Research-Practice Partnership|研究-实践伙伴关系]]对教育者证据本位决策的影响。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p.132)]]
+> **成果分类的应用** 在[[Evidence-Informed Practice|证据知情实践]]的成果测量中，[[National Center for Research in Policy and Practice|NCRPP]] 学者把工具性、概念性与象征性使用识别为长期成果的三类形态：工具性对应研究对实践的直接影响，概念性对应研究对思维的间接影响，象征性对应使用证据合法化做法或说服他人。Wentworth et al. 据此开发[[Questionnaire|问卷]]，测量美国[[Research-Practice Partnership|研究-实践伙伴关系]]对教育者证据本位决策的影响。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p.132)]]
 
 ---
 
@@ -179,7 +181,7 @@ updated: 2026-08-26
 > - **1977–1978 — 象征与工具区分** Knorr (1977) 区分象征性使用与工具性使用，Pelz (1978) 扩展[[Research Utilization|研究使用]]的视角。
 > - **1979–1980 — 类型学奠基** Weiss 提出七种[[Research Utilization|研究利用]]模型，并引入"知识渗透"概念（Weiss, 1980）。
 > - **2007 — 三分类系统化** Nutley et al. (2007) 在公共部门证据使用研究中系统化概念性、工具性与象征性三分类。
-> - **2017 — 成果分类应用** 在《Educational Research》特刊中，NCRPP 学者与 Wentworth et al. 把概念、工具、象征三类使用作为长期成果框架，用于测量[[Research-Practice Partnership|研究-实践伙伴关系]]的影响([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p.132]])。
+> - **2017 — 成果分类应用** 在《Educational Research》特刊中，[[National Center for Research in Policy and Practice|NCRPP]] 学者与 Wentworth et al. 把概念、工具、象征三类使用作为长期成果框架，用于测量[[Research-Practice Partnership|研究-实践伙伴关系]]的影响([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p.132]])。
 > - **2018–2022 — 深层使用扩展** Farley-Ripple et al. (2018, 2022) 把类型学与"用什么、如何用"的深层使用框架结合。
 > - **2026 — 学校情境实证检验** [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] 在[[Systematic Review|系统综述]]中记录学校研究使用以象征性与工具性为主，并据以论证从实施转向整合。
 

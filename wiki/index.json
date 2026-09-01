@@ -2084,6 +2084,16 @@
     ]
   },
   {
+    "title": "Analytical Stance",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Analytical Stance.md",
+    "aliases": [
+      "批判性分析立场",
+      "分析立场",
+      "批判立场"
+    ]
+  },
+  {
     "title": "Class Size",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Class Size.md",
@@ -2318,6 +2328,17 @@
     ]
   },
   {
+    "title": "Persuasive Communication in Education",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Persuasive Communication in Education.md",
+    "aliases": [
+      "教育中的说服性沟通策略",
+      "说服性沟通策略",
+      "说服性修辞",
+      "Persuasive Communication"
+    ]
+  },
+  {
     "title": "PISA Distorted View of Education",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/PISA Distorted View of Education.md",
@@ -2512,6 +2533,17 @@
     "aliases": [
       "学校效能",
       "school effectiveness research"
+    ]
+  },
+  {
+    "title": "School Enquiry Cycle",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/School Enquiry Cycle.md",
+    "aliases": [
+      "学校探究循环",
+      "学校探究模型",
+      "证据知情学校探究循环",
+      "School Inquiry Cycle"
     ]
   },
   {
@@ -15288,6 +15320,15 @@
     ]
   },
   {
+    "title": "Chris Brown",
+    "type": "person",
+    "path": "wiki/persons/uk/Chris Brown.md",
+    "aliases": [
+      "克里斯·布朗",
+      "C. Brown"
+    ]
+  },
+  {
     "title": "Christopher Day",
     "type": "person",
     "path": "wiki/persons/uk/Christopher Day.md",
@@ -15421,6 +15462,15 @@
     "aliases": [
       "Locke, J.",
       "约翰·洛克"
+    ]
+  },
+  {
+    "title": "Jonathan Sharples",
+    "type": "person",
+    "path": "wiki/persons/uk/Jonathan Sharples.md",
+    "aliases": [
+      "乔纳森·夏普尔斯",
+      "J. Sharples"
     ]
   },
   {
@@ -16479,6 +16529,25 @@
       "inventor-owned IP policy",
       "发明人自有IP政策",
       "发明人自有知识产权政策"
+    ]
+  },
+  {
+    "title": "Elementary Teachers' Federation of Ontario",
+    "type": "fact",
+    "path": "wiki/facts/canada/Elementary Teachers' Federation of Ontario.md",
+    "aliases": [
+      "ETFO",
+      "安大略小学教师联合会"
+    ]
+  },
+  {
+    "title": "Knowledge Network for Applied Education Research",
+    "type": "fact",
+    "path": "wiki/facts/canada/Knowledge Network for Applied Education Research.md",
+    "aliases": [
+      "KNAER",
+      "安大略应用教育研究知识网络",
+      "应用教育研究知识网络"
     ]
   },
   {
@@ -19469,6 +19538,15 @@
     "path": "wiki/facts/us/Manufacturing USA.md",
     "aliases": [
       "Manufacturing USA Initiative"
+    ]
+  },
+  {
+    "title": "National Center for Research in Policy and Practice",
+    "type": "fact",
+    "path": "wiki/facts/us/National Center for Research in Policy and Practice.md",
+    "aliases": [
+      "NCRPP",
+      "全美政策与实践研究中心"
     ]
   },
   {

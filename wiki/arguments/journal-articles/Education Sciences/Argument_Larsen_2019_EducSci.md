@@ -9,7 +9,7 @@ title: "Argument_Larsen_2019_EducSci"
 argument_key: "Argument_Larsen_2019_EducSci"
 argument_display_title: "Blindness in Seeing: A Philosophical Critique of the Visible Learning Paradigm in Education"
 argument_kind: "journal-article"
-argument_related_count: 19
+argument_related_count: 20
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Bildung]]"
   - "[[Learnification]]"
+  - "[[Analytical Stance]]"
   - "[[Dialogue in Education]]"
   - "[[Value Neutrality]]"
   - "[[Operationalization]]"
@@ -76,7 +77,7 @@ citation_aliases:
 > - 方法：哲学论文（philosophical essay），明确声明为"个人化论文"（explicit personal essay）
 > - 学科资源：哲学、社会学、教育学、概念史（Begriffsgeschichte）
 > - 论证方式：四线并行的哲学批判，不依赖对 Hattie 其他批评的[[Systematic Review|系统综述]]
-> - Larsen 明确表示选择不与其他 Hattie 批评者绑定，以保持自身批判立场的清晰性(p.3)
+> - Larsen 明确表示选择不与其他 Hattie 批评者绑定，以保持自身[[Analytical Stance|批判立场]]的清晰性(p.3)
 
 ## 核心论证
 

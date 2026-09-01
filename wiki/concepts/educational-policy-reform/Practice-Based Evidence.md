@@ -8,7 +8,7 @@ aliases:
 summary: "由教育实践者在教学现场生成的细粒度、情境化知识与微观过程数据，作为对抗实验主义认识论霸权的合法证据形态，为教师专业学习与教学形成性改进提供关键支撑。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 50
+related_count: 51
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Sample Size Determination]]"
   - "[[Variable]]"
   - "[[Teacher Professional Agency]]"
+  - "[[Analytical Stance]]"
   - "[[Questionnaire]]"
 related_theories:
   - "[[Critical Realism]]"
@@ -254,7 +255,7 @@ updated: 2026-09-02
 > > 强循证立场学者质疑实践本位证据[[Sample Size Determination|样本量]]小、缺乏严格控制[[Variable|变量]]，难以推导出普遍适用的因果推论，容易受教师确认偏差干扰；PBE 倡导者反驳指出，教育实践本是开放系统，去情境化的普遍规律同样无法直接套用于具体课堂，微观情境下的形成性效用才是教学成功的核心。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 129)]]; [[Argument_Peterson_2016_IJRME|(Peterson, 2016, p. 306)]]
 >
 > > [!axis] 专业赋权 vs 商业流行创新的渗透
-> > 肯定 PBE 能够赋权[[Teacher Professional Agency|教师专业能动性]]；但批判研究警示，由于一线教师高度信赖同行推荐与实践素材，某些缺乏实证底蕴的商业流行创新常披着实践友好外衣在教师网络中迅速扩散，要求实践者必须具备批判性的分析立场。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 130)]]
+> > 肯定 PBE 能够赋权[[Teacher Professional Agency|教师专业能动性]]；但批判研究警示，由于一线教师高度信赖同行推荐与实践素材，某些缺乏实证底蕴的商业流行创新常披着实践友好外衣在教师网络中迅速扩散，要求实践者必须具备批判性的[[Analytical Stance|分析立场]]。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 130)]]
 
 > [!tension] 实验普适性（What Works） vs 本土情境适切性（What Works Here）
 > - **实验普适性（What Works）** 追求去情境化的统计效度与跨校复制。

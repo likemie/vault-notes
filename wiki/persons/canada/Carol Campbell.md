@@ -7,10 +7,10 @@ summary: "加拿大教育领导力学者，证据知情实践与知识动员研�
 type: person
 nationality: canada
 person_region: "canada"
-person_related_count: 7
-person_related_level: 0
-person_related_stars: ""
-person_related_color: "#e5e7eb"
+person_related_count: 8
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
 - carol-campbell
 - evidence-informed-practice
@@ -30,7 +30,8 @@ related_persons:
   - "[[Julie Nelson]]"
 related_arguments:
   - "[[Argument_Nelson_2017_ER]]"
-related_facts: []
+related_facts:
+  - "[[Knowledge Network for Applied Education Research]]"
 confidence: medium
 status: draft
 created: '2026-05-01'
@@ -55,14 +56,14 @@ updated: '2026-06-08'
 ## 主要贡献
 
 > [!success] 主要贡献
-> - **安大略系统改革路径** — 把教育领导力、组织支持和证据使用放进同一框架，而不把[[Research Utilization|研究使用]]看成教师个人习惯问题。
-> - **KNAER [[Case Study|案例研究]]** — 提供系统层面 [[Knowledge Mobilisation]] 的案例，说明研究-实践合作如何作为制度化机制运行([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, pp.130–131]])。
+> - **安大略系统改革路径** — 把教育领导力、组织支持和[[Research Utilization|证据使用]]放进同一框架，而不把[[Research Utilization|研究使用]]看成教师个人习惯问题。
+> - **[[Knowledge Network for Applied Education Research|KNAER]] [[Case Study|案例研究]]** — 提供系统层面 [[Knowledge Mobilisation]] 的案例，说明研究-实践合作如何作为制度化机制运行([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, pp.130–131]])。
 > - **[[Evidence-Informed Practice|EIP]] 特刊整合工作** — 与 [[Julie Nelson]] 共同把 [[Evidence-Informed Practice]] 从术语争论推进成一个包含定义、应用与测量的清晰问题域。
 
 ## 影响
 
 > [!success] 影响
-> - Campbell 的工作把 [[Evidence-Informed Practice]] 从“教师个人是否读研究”的问题，推进成“系统如何创造证据使用条件”的问题。
+> - Campbell 的工作把 [[Evidence-Informed Practice]] 从“教师个人是否读研究”的问题，推进成“系统如何创造[[Research Utilization|证据使用]]条件”的问题。
 > - 在当前 vault 的相关条目里，她最重要的作用是把 [[Knowledge Mobilisation]]、教育领导力和安大略案例连成一条系统改革路径，而不是只作为 EIP 的共同作者出现。
 
 ## 主要著作
@@ -76,5 +77,5 @@ updated: '2026-06-08'
 
 > [!note]-
 > - 任多伦多大学安大略教育研究院教授，研究集中于教育领导力、系统改革和[[Research Utilization|研究使用]]。
-> - 参与并推动安大略省 KNAER 等系统层面的研究-实践合作项目([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, pp.130–131]])。
+> - 参与并推动安大略省 [[Knowledge Network for Applied Education Research|KNAER]] 等系统层面的研究-实践合作项目([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, pp.130–131]])。
 > - **2017** 年与 [[Julie Nelson]] 共同编辑 [[Evidence-Informed Practice|EIP]] 特刊，将证据知情实践讨论系统化。
