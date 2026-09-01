@@ -6,7 +6,7 @@ aliases:
 summary: "一种将研究证据视为多种决策资源之一的实践取向，主张以专业判断为核心枢纽，情境化整合研究证据、系统层面数据与课堂数据，并依托全系统知识动员战略推进教育改进。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 44
+related_count: 47
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"

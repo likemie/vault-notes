@@ -7,7 +7,7 @@ aliases:
 summary: "涵盖个体在数字化社会中收集、解读与批判评估数据的通识能力，以及教育者在学校探究中超越单一终结性评价、进行定性定量证据三角验证的专业实践胜任力"
 type: concept
 domain: "curriculum"
-related_count: 10
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

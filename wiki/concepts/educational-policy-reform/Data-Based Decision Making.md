@@ -7,7 +7,7 @@ aliases:
 summary: "教育管理与教学中以系统层面和课堂层面的数据为依据作出决策的取向，常与以研究证据为依据的教学实践并置，被认为应在证据知情系统中加以整合"
 type: concept
 domain: "educational-policy-reform"
-related_count: 11
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
