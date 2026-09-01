@@ -8,10 +8,10 @@ aliases:
 summary: "教学材料中添加有趣但与核心目标无关的视听装饰元素，导致学习者注意力分散并损害深层理解的认知负荷效应"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 10
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 9
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/cognition
   - construct/cognitive-process
@@ -19,7 +19,6 @@ tags:
   - cognition/learning-science
 related_concepts:
   - "[[Higher-Order Thinking Skills]]"
-  - "[[Lost Mode]]"
   - "[[Graphic Organizer]]"
   - "[[Meta-Representational Competence]]"
   - "[[Working Memory]]"
@@ -51,7 +50,7 @@ updated: 2026-08-25
 
 > [!concept-lens] 概念透镜
 > - **含义** 教学设计中“有趣性”与“目标相关性”脱节带来的认知干扰代价。
-> - **用途** 解释为什么低年龄学习者在面对富媒体或复杂视觉组织器时容易[[Lost Mode|迷失]]重点，指导极简高效的可视化脚手架设计。
+> - **用途** 解释为什么低年龄学习者在面对富媒体或复杂视觉组织器时容易迷失重点，指导极简高效的可视化脚手架设计。
 > - **边界** 诱人细节特指与核心学习目标无关的附加信息；若生动细节本身直接承载核心概念与因果机制，则属于有效表征而非诱人细节。
 
 > [!citation-card]- 关键表述

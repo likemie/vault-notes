@@ -10,7 +10,7 @@ Total entries: **349**
 |---|---:|
 | Fact entries | 349 |
 | Regions / contexts | 35 |
-| Fact types | 9 |
+| Fact types | 8 |
 
 ## Region Hotspots
 
@@ -35,10 +35,9 @@ Total entries: **349**
 |---|---:|
 | Event | 163 |
 | Policy | 151 |
-| Organization | 23 |
+| Organization | 24 |
 | Program | 5 |
 | Region | 3 |
-| Institution | 1 |
 | Phenomenon | 1 |
 | Programme | 1 |
 | Project | 1 |
@@ -409,7 +408,7 @@ Total entries: **349**
 > - [[Sino-American Trade War]] — 中美围绕贸易、技术转移、产业政策和国家安全展开的持续性经济与地缘政治争端
 > - [[Transnationalism and America Project SYSU]] — 岭南基金会资助、中山大学实施的三年跨学科团队教学项目，以美方+中方教师团队教授全球化时代的美国文化，英语为主，产生三类障碍
 
-> [!index-list]- Institution (1)
+> [!index-list]- Organization (1)
 > - [[International Baccalaureate North America]] — 1975 年在纽约注册的北美非营利区域组织，通过本地筹资、学校推广、大学关系与教师培训推动国际文凭进入美国和加拿大公立高中，同时由日内瓦维持课程和考试控制。
 
 > [!index-list]- Policy (4)

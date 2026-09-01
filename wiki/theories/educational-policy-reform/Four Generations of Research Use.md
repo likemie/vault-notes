@@ -8,7 +8,7 @@ aliases:
 summary: "梳理公共部门与教育领域证据使用思维演进的分析框架，从理性-线性（第一代）、关系网络（第二代）、系统全局（第三代）递进至以教师多源知识整合与专业规范为核心的专业敏感型（第四代）模型"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 24
+theory_related_count: 25
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Research Utilization]]"
   - "[[Profession-Sensitive Conceptualisations of Research Use]]"
+  - "[[Educational Affordances]]"
   - "[[Central Phenomenon]]"
   - "[[Deficit Framing]]"
   - "[[Research Literacy]]"
@@ -69,7 +70,7 @@ updated: 2026-08-26
 > [!citation-card]- 关键表述
 > 我们主张关于研究使用的研究应当迈向第四代，在更大程度上顾及教师专业实践的核心特征。与其将问题归结为教师能力不足，不如将分析焦点置于知识整合，从而更深入地揭示科研知识在专业实践中的适用边界与真正价值。[[Argument_Mausethagen_2025_ERR|(Mausethagen et al., 2025, p. 8)]]
 >
-> *Based on our findings, we argue that research on research use should move towards a fourth generation of studies, which, to a greater extent, takes into [[Accounts|account]] key characteristics of teachers’ professional practice... rather than framing the problem as one of a teacher’s competencies, an analytical focus on knowledge integration would more strongly emphasise the constraints and affordances of research knowledge as a component of professional practice.*
+> *Based on our findings, we argue that research on research use should move towards a fourth generation of studies, which, to a greater extent, takes into [[Accounts|account]] key characteristics of teachers’ professional practice... rather than framing the problem as one of a teacher’s competencies, an analytical focus on knowledge integration would more strongly emphasise the constraints and [[Educational Affordances|affordances]] of research knowledge as a component of professional practice.*
 
 ---
 
@@ -169,7 +170,7 @@ updated: 2026-08-26
 ## 发展脉络
 
 > [!dev-timeline] 发展脉络
-> - **2019 — 三代演进框架确立** Boaz & Nutley（2019）在公共部门循证政策与实践研究中系统梳理了理性-线性、关系互动与系统全局三代证据使用[[Paradigm|范式]]。
+> - **2019 — 三代演进框架确立** Boaz & Nutley（2019）在公共部门循证政策与实践研究中系统梳理了理性-线性、关系互动与系统全局三代[[Research Utilization|证据使用]][[Paradigm|范式]]。
 > - **2022 — 专业[[Epistemology|认识论]]与德性论拓展** Eriksen（2022）等学者探讨专业人员的[[Research Literacy|研究素养]]，提出专业实践作为技艺需要调和有效性与恰当性。
 > - **2025 — 第四代专业敏感模型建构** [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]] 通过系统性批判综述，正式确立面向教师专业知识整合与价值规范的第四代[[Research Utilization|研究使用]]范式。
 

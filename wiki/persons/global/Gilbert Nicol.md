@@ -7,10 +7,23 @@ aliases:
 summary: "国际文凭北美公司长期执行主任，以教育规划和筹资经验建立介绍会、教师培训工作坊与学校支持网络，是国际文凭进入北美公立高中的关键组织者。"
 type: person
 nationality: ""
+person_region: "global"
+person_related_count: 5
+person_related_level: 0
+person_related_stars: ""
+person_related_color: "#e5e7eb"
 tags:
   - region/north-america
   - field/educational-administration
   - theme/international-education
+related_concepts:
+  - "[[International Baccalaureate]]"
+  - "[[International Schools]]"
+  - "[[Advanced Placement Program]]"
+related_facts:
+  - "[[International Baccalaureate North America]]"
+related_arguments:
+  - "[[Argument_Peterson_1987_OpenCourt_Ch06]]"
 confidence: high
 status: draft
 created: 2026-09-01
@@ -24,9 +37,9 @@ updated: 2026-09-01
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 北美高等教育规划、大学行政与非营利教育组织管理者；1977 年 8 月起担任[[International Baccalaureate North America|国际文凭北美公司]]（International Baccalaureate North America，IBNA）执行主任。
+> - **身份位置** 北美高等教育规划、大学行政与非营利教育组织管理者；1977 年 8 月起担任[[International Baccalaureate North America|国际文凭北美公司]]（[[International Baccalaureate]] North America，IBNA）执行主任。
 > - **核心角色** 把区域法人从筹资框架转化为能够持续接触学校、培训教师和协调大学关系的执行组织。
-> - **代表贡献** 建立介绍会和教师培训工作坊两类扩张机制，使[[International Baccalaureate|国际文凭]]（International Baccalaureate，IB）从少数国际学校进入美国和加拿大公立高中。[[Argument_Peterson_1987_OpenCourt_Ch06|Peterson (1987, Ch. 6, pp. 143–152)]]
+> - **代表贡献** 建立介绍会和教师培训工作坊两类扩张机制，使[[International Baccalaureate|国际文凭]]（International Baccalaureate，IB）从少数[[International Schools|国际学校]]进入美国和加拿大公立高中。[[Argument_Peterson_1987_OpenCourt_Ch06|Peterson (1987, Ch. 6, pp. 143–152)]]
 
 ## 生平与职涯
 
@@ -34,7 +47,7 @@ updated: 2026-09-01
 > - **1947 年** 在阿默斯特学院取得学士学位，此前曾在军事情报部门服役。[[Argument_Peterson_1987_OpenCourt_Ch06|Peterson (1987, Ch. 6, p. 143)]]
 > - **1950 年** 在哥伦比亚大学取得法学学士学位，随后从事学院与大学行政工作。
 > - **1971–1976 年** 担任大学与学院规划协会（Society for College and University Planning）执行主任，并曾任普林斯顿大学发展副主任，积累教育规划与募款经验（p. 143）。
-> - **1977 年 8 月起** 接任 IBNA 执行主任，在极小的纽约办公室建立专职区域业务；学校扩张在 1983 年迁入更大办公室前已经开始（pp. 143–144）。
+> - **1977 年 8 月起** 接任 [[International Baccalaureate North America|IBNA]] 执行主任，在极小的纽约办公室建立专职区域业务；学校扩张在 1983 年迁入更大办公室前已经开始（pp. 143–144）。
 > - **1978–1984 年** 组织介绍会与教师培训工作坊，逐步把推广从单次宣传转向学校申请、教师准备和考官参与相互连接的支持体系（pp. 149–152）。
 
 ## 核心贡献
@@ -61,7 +74,7 @@ updated: 2026-09-01
 > - **机构** [[International Baccalaureate North America]] — 长期担任执行主任，负责推广、筹资、学校关系和教师支持。
 > - **课程组织** [[International Baccalaureate]] — 把国际课程转化为北美学校可理解、申请和实施的项目。
 > - **组织发起者** 布洛克·卡鲁斯（Blouke Carus） — 推动 IBNA 法人化并担任主席，尼科尔负责把治理设计转化为日常执行。
-> - **先行学校教师** 联合国国际学校、弗朗西斯·刘易斯高中和皮尔逊书院教师承担早期工作坊教学，形成校际实施网络。
+> - **先行学校教师** 联合国[[International Schools|国际学校]]、弗朗西斯·刘易斯高中和皮尔逊书院教师承担早期工作坊教学，形成校际实施网络。
 
 ## 条目关联
 

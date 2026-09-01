@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19"
 argument_display_title: "Research Methods in Education · Ch19"
 argument_kind: "book-chapter"
-argument_related_count: 48
+argument_related_count: 49
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -49,6 +49,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Avatar]]"
   - "[[Construct]]"
+  - "[[Educational Affordances]]"
   - "[[Rationalism in International Relations]]"
   - "[[Causality]]"
   - "[[Presence]]"
@@ -217,7 +218,7 @@ updated: '2026-08-27'
 
 #### 表 19.1：模拟与虚拟世界的特征对比
 
-> [!contrast-table] TABLE 19.1 模拟与虚拟世界的特征与可供性（Features and affordances of simulations and virtual worlds）
+> [!contrast-table] TABLE 19.1 模拟与虚拟世界的特征与[[Educational Affordances|可供性]]（Features and affordances of simulations and virtual worlds）
 > | 特征与可供性 | [[Computer Simulation\|计算机模拟]] | [[Virtual World\|虚拟世界]] |
 > |---|---|---|
 > | 核心活动 | 建模/模仿（Modelling/imitating） | 实现/行动（Realizing/acting） |
@@ -269,7 +270,7 @@ updated: '2026-08-27'
 #### 在场感、沉浸感与共在感
 
 > [!def] [[Presence|在场感]]与共在感
-> 使用互动或非互动媒体将自我[[Externalization|外化]]并在并非物理在场的环境中创建在场印象，依赖于**"自愿[[Epoché|悬置]]不信任"（willing suspension of disbelief, Coleridge, 1817）**以创建**"视角的幻觉性转移"（illusory shift in point of view, Dennett, 1978, p. 312）**，以及我们在体验中使用自身知识、想象力和热情（Zhao, 2003）。
+> 使用互动或非互动媒体将自我[[Externalization|外化]]并在并非物理在场的环境中创建在场印象，依赖于**"自愿[[Epoché|悬置]]不信任"（willing suspension of disbelief, Coleridge, 1817）**以创建**"视角的[[AI Hallucination|幻觉]]性转移"（illusory shift in point of view, Dennett, 1978, p. 312）**，以及我们在体验中使用自身知识、想象力和热情（Zhao, 2003）。
 >
 > 在场感可能是**高度个体化的**，并取决于环境内呈现的感觉信息以及用户对环境的控制水平（Sheridan, 1992; Ijsselsteijn et al., 2000; Sadowski & Stanney, 2002）。**沉浸式体验（immersive experience）**的出现条件是：当环境中的在场感被其对物理现实的整体表面保真度加强时（Slater & Steed, 2000），尽管这不必须是以自我为中心或计算机中介的；当身临其境感被在那里能理解（making sense there）的总体响应增强时出现（Schuemie et al., 2001; Riva et al., 2003）。
 >

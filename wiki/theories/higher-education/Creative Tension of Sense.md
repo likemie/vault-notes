@@ -8,7 +8,7 @@ aliases:
 summary: "Dell Delambre 的认识论：新世界永远在旧世界内部诞生，新旧之间的意义张力是意义创造的根本条件，主张承载而非消解张力，与 Mignolo、Dussel、Santos 等去殖民思想对话"
 type: theory
 theory_field: "higher-education"
-theory_related_count: 21
+theory_related_count: 20
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Tense Society]]"
   - "[[Paradigm]]"
   - "[[Ganz-Methode]]"
-  - "[[Lost Mode]]"
   - "[[Ecomuseology]]"
   - "[[Ontology]]"
   - "[[Epistemology of Resistance]]"
@@ -70,7 +69,7 @@ updated: '2026-05-18'
 > - **张力承载命题** 正确的做法不是急于消解张力（选择新或旧），而是承载张力，为内部变化留出时间，使"新"在"旧"的承载中得以诞生。张力承载本身就是一种[[Epistemology|认识论]]立场([[Argument_Delambre_2022_Springer|Delambre, 2022, p.112–113]])
 > - **理论与实践统一命题** 该认识论始终将理论与实践放在一起思考。理论不脱离具体情境，实践不断回应张力中的意义问题。因此张力理论也是一种"张力解释和整体行动的认识论"([[Argument_Delambre_2022_Springer|Delambre, 2022, p.107, 113]])
 > - **[[Ganz-Methode|整体进路]]命题** 张力理论要求"整体进路"（Whole Approach, [[Ganz-Methode]]）——将所有相关的张力同时纳入考量，识别并连接它们，在局部与全球语境之间来回审视。这里的"整体"（Ganz）不等于"整全"（holistic），而是在运动变化中不断重新连接
-> - **"弱我"与"强我"命题** 张力在个体层面体现为"弱我"（weak self）与"强我"（strong self）之间的内在紧张——前者面对新旧交替感到[[Lost Mode|迷失]]和脆弱，后者试图通过掌控来回应变化。张力认识论不选择任何一极，而是承载两者之间的紧张。这也是新旧[[Paradigm|范式转换]]在个体身上的具身化体验([[Argument_Delambre_2022_Springer|Delambre, 2022, p.107, 111]])
+> - **"弱我"与"强我"命题** 张力在个体层面体现为"弱我"（weak self）与"强我"（strong self）之间的内在紧张——前者面对新旧交替感到迷失和脆弱，后者试图通过掌控来回应变化。张力认识论不选择任何一极，而是承载两者之间的紧张。这也是新旧[[Paradigm|范式转换]]在个体身上的具身化体验([[Argument_Delambre_2022_Springer|Delambre, 2022, p.107, 111]])
 
 ## 发展脉络
 

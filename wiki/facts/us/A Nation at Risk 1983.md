@@ -10,7 +10,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 16
+fact_related_count: 19
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -26,6 +26,8 @@ related_concepts:
   - "[[Cross-National Attraction]]"
   - "[[Externalization]]"
   - "[[Variable]]"
+  - "[[International Baccalaureate]]"
+  - "[[Extended Essay]]"
   - "[[Performance Indicators]]"
   - "[[Progressive Education]]"
   - "[[New Public Management]]"
@@ -42,11 +44,12 @@ related_facts:
 related_arguments:
   - "[[Argument_Gorur_2014_Discourse]]"
   - "[[Argument_Rappleye_2006_RCIE]]"
+  - "[[Argument_Peterson_1987_OpenCourt_Ch06]]"
   - "[[Argument_Downey_2016_SoE]]"
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: '2026-06-02'
+updated: '2026-09-01'
 ---
 
 ## 背景
@@ -92,6 +95,10 @@ updated: '2026-06-02'
 ## 影响与后果
 
 > [!success] 影响与后果
+> ### 为完整高中课程改革提供政策窗口
+>
+> 报告为大学预备学生建议四年英语、至少两年外语、三年数学、三年社会研究、三年科学和半年计算机科学。前五个领域与[[International Baccalaureate|国际文凭]]（International Baccalaureate，IB）的必修学科结构高度接近。同期卡内基高中报告还提出服务单元和高中毕业独立项目，分别接近 IB 的创造、审美与社会服务及[[Extended Essay|拓展论文]]。两份报告没有直接创造北美 IB 扩张，但把课程要求不足和优秀学生缺少挑战界定为公共问题，使 IB 更容易被地方自主的公立高中视为现成改革方案。[[Argument_Peterson_1987_OpenCourt_Ch06|Peterson (1987, Ch. 6, pp. 137–139)]]
+>
 > ### 推动[[International Education|国际教育]]指标开发
 >
 > - 报告的危机叙事使 [[International Indicators of Education Systems|INES]] 项目被视为紧迫([[Argument_Gorur_2014_Discourse|Gorur, 2014, pp. 8, 10]])。
@@ -126,4 +133,3 @@ updated: '2026-06-02'
 > - [[Cross-National Attraction]] — 报告是危机化火花的典型案例，详析见 [[Argument_Rappleye_2006_RCIE]]
 
 ---
-

@@ -94,6 +94,7 @@ related_instruments:
   - "[[Creative Achievement Questionnaire]]"
   - "[[Runco Ideational Behavior Scale]]"
   - "[[AMSTAR]]"
+  - "[[Alternate Uses Test]]"
 related_persons: []
 related_theories:
   - "[[Four P Model of Creativity]]"
@@ -107,7 +108,7 @@ title: "Argument_Runco_2026_CRJ"
 argument_key: "Argument_Runco_2026_CRJ"
 argument_display_title: "Second-order meta-analysis of the creativity research"
 argument_kind: "journal-article"
-argument_related_count: 70
+argument_related_count: 71
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -368,7 +369,7 @@ issuing_organization: ""
 > [!contrast-table] 综合创造过程测量 vs 单一发散思维测验
 > | 比较维度 | 综合创造过程 | 单一发散思维测验 |
 > |---|---|---|
-> | **测量[[Paradigm\|范式]]** | 涵盖问题发现、酝酿、顿悟、[[Cognitive Shifting\|认知灵活性]]与方案重构等多阶段整合任务 | 局限于非常规用途测验、托兰斯测试等观念生成任务 |
+> | **测量[[Paradigm\|范式]]** | 涵盖问题发现、酝酿、顿悟、[[Cognitive Shifting\|认知灵活性]]与方案重构等多阶段整合任务 | 局限于[[Alternate Uses Test\|非常规用途测验]]、托兰斯测试等观念生成任务 |
 > | **二阶效应量** | $r = 0.27$（95% 置信区间 $[0.10, 0.43]$，95% 预测区间 $[-0.17, 0.62]$） | $r = 0.14$（95% 置信区间 $[0.04, 0.24]$，95% 预测区间 $[-0.25, 0.50]$） |
 > | **元回归系数** | 模型 1 中 $\beta = 0.16, p = .19$；模型 2 整合后 $\beta = 0.08, p = .31$ | 模型 1 中 $\beta = 0.02, p = .71$ |
 > | **理论机制** | 过程变量整合了更多认知加工信息，能更完整地反映创造性解决复杂问题的实际潜能 | 仅作为创造潜能的构件之一，无法涵盖观念评估与[[Problem Finding\|问题发现]]的全部变异 |

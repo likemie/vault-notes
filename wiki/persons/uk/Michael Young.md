@@ -9,7 +9,7 @@ summary: "英国教育社会学家，社会实在论的核心学者之一，与 
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 5
+person_related_count: 6
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Social Realism]]"
   - "[[Powerful Knowledge]]"
+  - "[[Educational Affordances]]"
   - "[[Constructivist Paradigm]]"
   - "[[Recontextualization]]"
 related_theories: []
@@ -47,7 +48,7 @@ updated: '2026-06-08'
 ## 核心思想
 
 > [!tip]- [[Powerful Knowledge|有力知识]]
-> Young and Muller (2010) 共同提出了有力知识概念，指来自学科的、具有独特禀赋的知识。这种知识不同于日常生活经验，它具有可概括性，能够帮助学生理解世界并做出理性判断。Young & Muller (2010) 认为，学科知识的 affordances 对年轻人的认知和社会发展至关重要，获得这种知识是公平的基础（引自 McPhail et al., 2023）。
+> Young and Muller (2010) 共同提出了有力知识概念，指来自学科的、具有独特禀赋的知识。这种知识不同于日常生活经验，它具有可概括性，能够帮助学生理解世界并做出理性判断。Young & Muller (2010) 认为，学科知识的 [[Educational Affordances|affordances]] 对年轻人的认知和社会发展至关重要，获得这种知识是公平的基础（引自 McPhail et al., 2023）。
 
 > [!tip]- 知识与经验的区分
 > Young (2010) 强调教育者必须区分知识与经验。知识是经过学科检验的、系统化的认知成果，而经验是个体的、情境化的感知。将两者混淆会导致课程设计中知识的边缘化（引自 McPhail et al., 2023）。

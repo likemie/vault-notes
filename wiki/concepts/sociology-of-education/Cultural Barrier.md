@@ -6,7 +6,7 @@ aliases:
 summary: "弱势背景学生因缺乏精英大学默认要求的文化知识与文化技能而遭遇的无形障碍，会同时限制向上流动机会与主观自我认同"
 type: concept
 domain: "sociology-of-education"
-related_count: 19
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Intuition-Dependent Mode]]"
   - "[[Cultural Disembedding]]"
   - "[[Cultural Disorientation]]"
-  - "[[Lost Mode]]"
   - "[[Growth]]"
   - "[[Value Conformist Mode]]"
   - "[[Reflexivity]]"
@@ -112,7 +111,7 @@ updated: 2026-05-18
 
 ### 文化迷失
 
-[[Cultural Disorientation|文化迷失]]是第二重文化障碍，典型特征是[[Champ|场域]]的剧烈转换造成了内在自我的冲突，继而引发了行动目标和策略的[[Lost Mode|迷失]]([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])：
+[[Cultural Disorientation|文化迷失]]是第二重文化障碍，典型特征是[[Champ|场域]]的剧烈转换造成了内在自我的冲突，继而引发了行动目标和策略的迷失([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])：
 
 - **[[Habitus|习性]]裂化** 寒门学子既脱离原来[[Growth|生长]]的环境，接触了许多新鲜观念和事物；又在名校新获得的身份和自我认知不断被原先的自我和社会关系所干扰，自我认同时刻处于不稳定或撕裂状态——"产生一种习性分裂的体验"（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Bourdieu, 1999, p.511）
 - **文化知识的缺失** 不了解精英大学和劳动力市场中的"游戏规则"，不清楚如何为自身发展赢得优势，也不倾向于对外寻求帮助（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Lareau, 2015; Calarco, 2011）

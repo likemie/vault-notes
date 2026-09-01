@@ -7,7 +7,7 @@ aliases:
 summary: "批判性认识论与认知科学概念，指研究者与学习者持续审视日常语言、前科学常识预设及算法表面流畅性以维持认知主体性与深层推理的心智机制。"
 type: concept
 domain: "research-methodology"
-related_count: 35
+related_count: 37
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Knowledge Production]]"
   - "[[Scientific Method]]"
+  - "[[Epistemic Friction]]"
   - "[[Cognitive Offloading]]"
   - "[[Reliability]]"
   - "[[Critical Thinking]]"
@@ -30,6 +31,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Epistemological Break]]"
   - "[[Construct]]"
+  - "[[Generative Artificial Intelligence]]"
   - "[[Doxa]]"
   - "[[Metacognition]]"
   - "[[Effective Teaching]]"
@@ -73,7 +75,7 @@ updated: 2026-09-01
 ## 定义
 
 > [!def] 核心定义
-> [[Epistemology|认识论]]警觉（Epistemological / Epistemic Vigilance）指认知主体（科学研究者或学习者）在[[Knowledge Production|知识生产]]、信息接收与人机协同交互全程中，**持续对日常语言、前科学自发常识以及技术算法的表面语义流畅性保持的主动质疑、批判审视与事实核查机制**。在社会[[Scientific Method|科学方法]]论中，它体现为研究者对抗日常概念渗透与对象化预设的终身智识实践；在认知科学与教育人工智能中，它体现为学习者抵御生成式算法误导、维持“认识论摩擦”以防范有害[[Cognitive Offloading|认知卸载]]的核心心智防线。[[Argument_Eacott_2015_EPT|(Eacott, 2015, p. 322)]]; [[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 10–11)]]
+> [[Epistemology|认识论]]警觉（Epistemological / Epistemic Vigilance）指认知主体（科学研究者或学习者）在[[Knowledge Production|知识生产]]、信息接收与人机协同交互全程中，**持续对日常语言、前科学自发常识以及技术算法的表面语义流畅性保持的主动质疑、批判审视与事实核查机制**。在社会[[Scientific Method|科学方法]]论中，它体现为研究者对抗日常概念渗透与对象化预设的终身智识实践；在认知科学与教育人工智能中，它体现为学习者抵御生成式算法误导、维持“[[Epistemic Friction|认识论摩擦]]”以防范有害[[Cognitive Offloading|认知卸载]]的核心心智防线。[[Argument_Eacott_2015_EPT|(Eacott, 2015, p. 322)]]; [[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 10–11)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向主体在面对外部信息与中介工具时，主动评估证据[[Reliability|可靠性]]、识别概念预设与检验逻辑自洽性的动态反思倾向。
@@ -115,7 +117,7 @@ updated: 2026-09-01
 > [!feature] 核心要素
 > - **日常语言与常识前建构的持续解构** 警惕科学术语对生活日常词汇（如“领导力”、“改进”、“[[Effective Teaching|有效教学]]”）的无反思套用，揭示这些概念在掩盖权力关系的同时制造的“科学感假象”。[[Argument_Eacott_2015_EPT|(Eacott, 2015, pp. 322–324)]]
 > - **对表面语义流畅性的[[Epistemology|认识论]]怀疑** 抵抗大语言模型因统计概率生成所展现出的“顺滑且极度自信”的表象，清醒认识到语法正确不等于事实真实与逻辑严密。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 10–11)]]
-> - **生产性“认识论摩擦”的主动维持** 在人机互动中主动设置认知阻力与验证关卡，拒绝将判断权全盘让渡，确保[[Working Memory|工作记忆]]在概念权衡中持续活跃。[[Argument_Li_2026_CEAI|(Medina, 2013; Li et al., 2026, p. 10)]]
+> - **生产性“[[Epistemic Friction|认识论摩擦]]”的主动维持** 在人机互动中主动设置认知阻力与验证关卡，拒绝将判断权全盘让渡，确保[[Working Memory|工作记忆]]在概念权衡中持续活跃。[[Argument_Li_2026_CEAI|(Medina, 2013; Li et al., 2026, p. 10)]]
 > - **红队测试与多源证据[[Triangulation|三角互证]]** 采取对抗性测试思维（如主动寻找模型输出漏洞、对比一手学术[[Document|文献]]与同行评议数据），形成事实核查的闭环机制。[[Argument_Li_2026_CEAI|(Archila et al., 2024; Li et al., 2026, pp. 6, 11)]]
 > - **[[Metacognition|元认知]]与[[Self-Regulated Learning|自我调节学习]]的内驱支撑** 依托前瞻规划、策略监控与反思日记，根据探究挑战度动态调节技术调用边界，保持认知主体性。[[Argument_Li_2026_CEAI|(Zimmerman, 2002; Li et al., 2026, p. 11)]]
 
@@ -159,7 +161,7 @@ updated: 2026-09-01
 > **显性 AI 素养对认识论警觉的激活与反思放大机制** 大语言模型生成的文本具有极高的表层语义流畅性与语法规范性，若缺乏显性引导，学习者倾向于全盘接受输出，导致严重的[[Cognitive Offloading|认知卸载]]、事实盲从与论证退化。通过在课程中嵌入显性[[AI Literacy|人工智能素养]]模块（重点讲授概率生成机制、偏见识别与幻觉侦测）以及反思规程，能够有效激活学习者的认识论警觉，使其将 AI 视为需要审问的对话伙伴而非直接答案提供者，进而驱动[[Critical Thinking|批判性思维]]的显著增长。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 10–11)]]
 
 > [!claim] Medina, J.
-> **认识论摩擦作为[[Surface and Deep Learning|深层学习]]所必需的生产性张力** 高阶心智的发展高度依赖于主体在面对异质观点与复杂事实时所经历的“认识论摩擦”（Epistemic Friction）。生成式 AI 的平滑输出天然具有抹平认知阻力的危险；唯有当学习者维持高水平的认识论警觉、主动设置论证质疑与事实核查关卡时，这种生产性张力才能得以维系，从而迫使长时记忆图式深度参与高阶推理。[[Argument_Li_2026_CEAI|(Medina, 2013; Li et al., 2026, p. 10)]]
+> **[[Epistemic Friction|认识论摩擦]]作为[[Surface and Deep Learning|深层学习]]所必需的生产性张力** 高阶心智的发展高度依赖于主体在面对异质观点与复杂事实时所经历的“认识论摩擦”（Epistemic Friction）。生成式 AI 的平滑输出天然具有抹平认知阻力的危险；唯有当学习者维持高水平的认识论警觉、主动设置论证质疑与事实核查关卡时，这种生产性张力才能得以维系，从而迫使长时记忆图式深度参与高阶推理。[[Argument_Li_2026_CEAI|(Medina, 2013; Li et al., 2026, p. 10)]]
 
 ---
 
@@ -178,7 +180,7 @@ updated: 2026-09-01
 > [!dev-timeline] 概念演变
 > - **1968/1991 — [[Epistemology|认识论]]起源** Bourdieu, Chamboredon & Passeron 在 *The Craft of Sociology* 中首次提出认识论警觉，确立其作为反思社会学抵御自发社会学常识渗透的核心方法论戒律。
 > - **2010 — 认知科学系统化** Sperber et al. 发表 *Epistemic Vigilance*，将警觉概念从社会学方法论推进为人类演化认知机制，专门解释人类如何评估信息源[[Reliability|可靠性]]与陈述内容真实性以防范虚假信息的侵害。
-> - **2013 — 认识论摩擦理论拓展** Medina 提出认识论摩擦概念，指出维持生产性的认知阻力与多元质疑是形成抵抗性认识论与深层审思的基石。
+> - **2013 — [[Epistemic Friction|认识论摩擦]]理论拓展** Medina 提出认识论摩擦概念，指出维持生产性的认知阻力与多元质疑是形成抵抗性认识论与深层审思的基石。
 > - **2015 — 教育行政学批判应用** [[Argument_Eacott_2015_EPT|Eacott (2015)]] 将其引入教育行政与领导力研究，批判该领域对“领导力”、“管理主义”等日常概念的未经反思的顺从，主张以认识论警觉重塑科学研究的智识凝视。
 > - **2026 — 人工智能与教育学习重构** [[Argument_Li_2026_CEAI|Li et al. (2026)]] 针对 ChatGPT 在高等教育中的认知塑造，[[Systematic Review|系统综述]] 67 项实证研究，将认识论警觉确立为学习者化解算法顺滑表象、防止有害[[Cognitive Offloading|认知卸载]]并实现批判与创造协同增益的核心中介机制。
 
@@ -200,7 +202,7 @@ updated: 2026-09-01
 > > - **Sweller (2011)** [[Cognitive Load Theory|认知负荷理论]]表明过重的心智消耗可能引发外在负荷过载，抑制学习进程。
 > > - **[[Argument_Li_2026_CEAI|Li et al. (2026, pp. 11–12)]]** 强调教学系统必须通过外部结构化支架（如反思规程、红队任务）分担部分验证成本，使认识论警觉成为可行且可持续的习惯。
 
-> [!tension] 核心张力：认知节能惯性 vs 认识论摩擦维持
+> [!tension] 核心张力：认知节能惯性 vs [[Epistemic Friction|认识论摩擦]]维持
 > - **认知节能惯性（顺滑采纳）** 追求任务快速交付与表面流畅性，倾向于将复杂推理与事实验证全盘外包给算法或常识模板，代价是[[Critical Thinking|批判性思维]]萎缩与认知主体性让渡。[[Argument_Li_2026_CEAI|(Li et al., 2026, p. 10)]]
 > - **认识论摩擦维持（批判性警觉）** 主动设置概念审问、对抗性查错与证据[[Triangulation|三角互证]]，承受必要的认知挣扎，从而确保深层概念理解与原创性洞见。[[Argument_Li_2026_CEAI|(Medina, 2013; Li et al., 2026, p. 10)]]
 
@@ -232,4 +234,4 @@ updated: 2026-09-01
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Eacott_2015_EPT|Eacott (2015)]] — 以 Bourdieu [[Epistemology|认识论]]预备为框架，系统论证教育行政学者因具身嵌入性而对日常管理语言丧失警觉的危机，呼吁将对象建构过程本身作为反思客体。
-> - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — [[Systematic Review|系统综述]][[Generative Artificial Intelligence|生成式 AI]] 对大学生[[Higher-Order Thinking Skills|高阶思维]]的塑造，实证确立认识论警觉与认识论摩擦在抵御算法顺滑表象、防止有害[[Cognitive Offloading|认知卸载]]中的核心支架作用。
+> - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — [[Systematic Review|系统综述]][[Generative Artificial Intelligence|生成式 AI]] 对大学生[[Higher-Order Thinking Skills|高阶思维]]的塑造，实证确立认识论警觉与[[Epistemic Friction|认识论摩擦]]在抵御算法顺滑表象、防止有害[[Cognitive Offloading|认知卸载]]中的核心支架作用。

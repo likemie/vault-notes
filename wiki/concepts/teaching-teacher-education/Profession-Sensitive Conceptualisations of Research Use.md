@@ -9,7 +9,7 @@ aliases:
 summary: "立足教师专业实践特征与复杂知识库的研究使用新范式，强调将研究证据视为与经验、情境及专业规范动态整合的多元资源之一，确立教师的专业能动性"
 type: concept
 domain: "teaching-teacher-education"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Creativity]]"
   - "[[Teacher Knowledge Base]]"
+  - "[[Educational Affordances]]"
   - "[[Technical Rationality]]"
   - "[[Teacher Professional Agency]]"
   - "[[Variable]]"
@@ -63,7 +64,7 @@ updated: 2026-08-26
 > [!citation-card]- 关键表述
 > 针对[[Teacher Knowledge Base|教师知识库]]的研究日益强调，教师在日常工作中持续努力整合多样化的知识资源。即便在将研究使用概念化为复杂、多向现象的研究中，也很少有人分析关注知识整合的特征以及该活动对教师提出的要求……更具专业敏感性的概念对于深刻理解研究使用这一经验现象是必不可少的。[[Argument_Mausethagen_2025_ERR|(Mausethagen et al., 2025, p. 8)]]
 >
-> *Research on teachers’ knowledge base is increasingly emphasising teachers’ continuous efforts to integrate diverse knowledge resources as part of their everyday work... an analytical focus on knowledge integration would more strongly emphasise the constraints and affordances of research knowledge as a component of professional practice... more profession-sensitive concepts are needed to create a deeper understanding of the empirical phenomenon of research use.*
+> *Research on teachers’ knowledge base is increasingly emphasising teachers’ continuous efforts to integrate diverse knowledge resources as part of their everyday work... an analytical focus on knowledge integration would more strongly emphasise the constraints and [[Educational Affordances|affordances]] of research knowledge as a component of professional practice... more profession-sensitive concepts are needed to create a deeper understanding of the empirical phenomenon of research use.*
 
 > [!example] 教学实践理解：真实的课堂决策如何整合多方知识？
 > 示例：某项科研结论指出，在课堂教学中采用随机点名抽问（Cold Calling）有助于提高学生的专注度与测试成绩。

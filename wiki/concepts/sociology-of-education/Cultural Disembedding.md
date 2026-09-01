@@ -6,7 +6,7 @@ aliases:
 summary: "群体或个体在面对主导文化场域（如精英大学或国家学校课程）时，因自身文化语码被边缘化而产生的疏离感与身份断裂"
 type: concept
 domain: "sociology-of-education"
-related_count: 14
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[The Shock of the Elite]]"
   - "[[Cultural Disorientation]]"
   - "[[Cultural Barrier]]"
-  - "[[Lost Mode]]"
   - "[[Official Knowledge]]"
   - "[[Reflexivity]]"
   - "[[Cultural Hierarchy]]"
@@ -64,7 +63,7 @@ related_arguments:
 
 > [!boundary]- 概念边界
 > - **不等于 精英休克（[[The Shock of the Elite]]）** — 精英休克侧重于寒门学子在精英大学中体验到的物质、心理与自我认同的全面摧毁感；而文化脱嵌更侧重于文化语码与社会环境的不匹配及疏离感[[Argument_Zheng_2023_ShanghaiSanlian|(郑雅君, 2023, p. 116)]]。
-> - **不等于 [[Cultural Disorientation|文化迷失]]（Cultural Disorientation）** — 文化脱嵌是第一重[[Cultural Barrier|文化障碍]]，侧重外部环境的陌生与脱节；文化[[Lost Mode|迷失]]是第二重障碍，侧重内部目标的丧失与自我方向失焦[[Argument_Zheng_2023_ShanghaiSanlian|(郑雅君, 2023, p. 120)]]。
+> - **不等于 [[Cultural Disorientation|文化迷失]]（Cultural Disorientation）** — 文化脱嵌是第一重[[Cultural Barrier|文化障碍]]，侧重外部环境的陌生与脱节；文化迷失是第二重障碍，侧重内部目标的丧失与自我方向失焦[[Argument_Zheng_2023_ShanghaiSanlian|(郑雅君, 2023, p. 120)]]。
 
 ---
 

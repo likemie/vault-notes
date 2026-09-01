@@ -8,7 +8,7 @@ subtype: event
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "event"
-fact_related_count: 64
+fact_related_count: 63
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -39,7 +39,6 @@ related_concepts:
   - "[[Data Reduction and Data Display]]"
   - "[[Direct Instruction]]"
   - "[[Problem-Based Learning]]"
-  - "[[Lost Mode]]"
   - "[[Evidence-Based Education]]"
   - "[[Hypothesis]]"
   - "[[Effective Teaching]]"
@@ -272,7 +271,7 @@ updated: '2026-05-18'
 >
 > **绩效薪酬的制度基础** VL 的效应量评估体系为教师 绩效薪酬（merit pay）提供了技术基础——Hattie 被指控提倡与 VL 评估体系挂钩的教师绩效薪酬元素，但这与 VL 自身强调的"安全、信任的学校文化"构成内在矛盾([[Argument_Terhart_2011_JCS|Terhart, 2011, pp.434–435]])。
 >
-> **教师培训与注册体系中的创新抑制**[[Argument_Blass_2020_JESP|Blass (2020, p.91)]]指出澳大利亚教师培训体系"奖励 regulation 和 standardisation 而非创新"，教师注册委员会要求持续专业发展（CPD）时数而非创新发展时数。在这一制度文化中，VL 被用作证明[[Direct Instruction|直接教学]]模式的"好借口"，从而抑制了对 [[Problem-Based Learning|PBL]] 和探究式学习等替代教学法的探索。Blass 总结："澳大利亚已在教育中[[Lost Mode|迷失]]了方向，而 Hattie 被用作证明这一立场的挡箭牌。但我怀疑这不是 Hattie 的本意"([[Argument_Blass_2020_JESP|Blass, 2020, p.97]])。
+> **教师培训与注册体系中的创新抑制**[[Argument_Blass_2020_JESP|Blass (2020, p.91)]]指出澳大利亚教师培训体系"奖励 regulation 和 standardisation 而非创新"，教师注册委员会要求持续专业发展（CPD）时数而非创新发展时数。在这一制度文化中，VL 被用作证明[[Direct Instruction|直接教学]]模式的"好借口"，从而抑制了对 [[Problem-Based Learning|PBL]] 和探究式学习等替代教学法的探索。Blass 总结："澳大利亚已在教育中迷失了方向，而 Hattie 被用作证明这一立场的挡箭牌。但我怀疑这不是 Hattie 的本意"([[Argument_Blass_2020_JESP|Blass, 2020, p.97]])。
 >
 > **两国共同实践——课程连接** 新西兰和澳大利亚学校均实践课程连接（curriculum connection），"有意识地维持各学习领域的严谨性，明确通过连接赋权学习而不失去个别学科的完整性"（ACARA, cited in Sarbiewska, 2019, p.128）。
 >
@@ -351,7 +350,7 @@ updated: '2026-05-18'
 >
 > **论证二：Hattie 的后续工作已超越排名模式，但政策未跟进。** [[Argument_Blass_2020_JESP|Blass (2020, pp.95–96)]]指出 Hattie & Donoghue（2016）在试图完成另一个排名元分析时**放弃了排名**——因为他们发现策略内部的变异太大。他们转而开发了一个学习模型（三输入：技能/意愿/激情；三阶段：表层/深层/迁移），其结论承认对 PBL 的批评可解释为一年级医学生仍处于[[Surface and Deep Learning|表层学习]]阶段。在 2020 年 Lessons from Lockdown 会议上，Hattie 的演讲进一步演变——谈到课程差异不大、询问"我们真的需要学生每天坐在教师面前吗？"、承认"通过失败学习是 PBL 的一部分、通过探究式学习恢复"([[Argument_Blass_2020_JESP|Blass, 2020, p.96]])。**Hattie 现在倡导的学习模型恰恰最适合 PBL 和探究式教学法**——但澳大利亚政策制定者仍引用 VL 2009 年的排名来为直接教学模式辩护。
 >
-> **论证三：澳大利亚教育已"[[Lost Mode|迷失]]方向"。** Blass 总结："澳大利亚已在教育中迷失了方向，而 Hattie 被用作证明这一立场的挡箭牌。但我怀疑这不是 Hattie 的本意。事实上，他后来在新西兰教育系统中领导了伟大的工作，将他的研究应用到他们的具体情境中，并从排名学习策略转向将其最佳适配到学习模型中"([[Argument_Blass_2020_JESP|Blass, 2020, p.97]])。
+> **论证三：澳大利亚教育已"迷失方向"。** Blass 总结："澳大利亚已在教育中迷失了方向，而 Hattie 被用作证明这一立场的挡箭牌。但我怀疑这不是 Hattie 的本意。事实上，他后来在新西兰教育系统中领导了伟大的工作，将他的研究应用到他们的具体情境中，并从排名学习策略转向将其最佳适配到学习模型中"([[Argument_Blass_2020_JESP|Blass, 2020, p.97]])。
 >
 > **论证四：VL 数据已过时——时效性问题。** [[Argument_Blass_2020_JESP|Blass (2020, p.95)]]指出 VL 出版于 2009 年但其基础数据来自 1980s–1990s，这些研究进行时的教室特征是"学生排排坐、教师用粉笔或白板笔、电视被视为负面效应量"。Blass 提出尖锐类比："你会想要一个外科医生查阅 1990 年的书来学习机器人手术吗？你想要肿瘤学家查找 1980 年代的最新癌症治疗方法吗？不！那么为什么你允许那个时代的教学结果影响你今天在课堂上的行为？"。
 >

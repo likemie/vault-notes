@@ -9,10 +9,10 @@ aliases:
 summary: "基于大语言模型与多模态生成架构的认知中介技术，在教育中作为对话伙伴与边界对象驱动发散构想与认知重组，其认知效应高度取决于教学脚手架与认识论摩擦的维持。"
 type: concept
 domain: "educational-technology"
-related_count: 18
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 44
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - educational-technology
   - generative-ai
@@ -21,25 +21,51 @@ tags:
   - higher-education
   - cognitive-load
 related_concepts:
-  - "[[AI Literacy]]"
-  - "[[Cognitive Offloading]]"
-  - "[[Critical Thinking]]"
-  - "[[Creativity]]"
-  - "[[Epistemological Vigilance]]"
-  - "[[Self-Regulated Learning]]"
+  - "[[Dialogue in Education]]"
   - "[[Boundary Object]]"
+  - "[[Epistemology]]"
+  - "[[Cognitive Offloading]]"
+  - "[[Externalization]]"
+  - "[[Creativity]]"
+  - "[[Critical Thinking]]"
+  - "[[Scientific Literacy]]"
+  - "[[Data Literacy]]"
+  - "[[AI Literacy]]"
   - "[[Intelligent Tutoring Systems]]"
-  - "[[Conversational AI in Education]]"
+  - "[[Emergence]]"
+  - "[[Attrition]]"
+  - "[[Disciplina and Doctrina]]"
+  - "[[Document]]"
+  - "[[Working Memory]]"
+  - "[[Epistemological Vigilance]]"
+  - "[[Zone of Proximal Development]]"
+  - "[[Primary and Secondary Documents]]"
+  - "[[Higher-Order Thinking Skills]]"
+  - "[[Structured Teaching]]"
   - "[[Generative AI Agent in Education]]"
-related_theories:
-  - "[[Cognitive Load Theory]]"
-  - "[[Connectivism]]"
+  - "[[AI Agent in Education]]"
+  - "[[Effect Size]]"
+  - "[[Computational Thinking]]"
+  - "[[Hypothesis]]"
+  - "[[General Education]]"
+  - "[[Epistemic Friction]]"
+  - "[[Interaction Effect]]"
+  - "[[Task Structure]]"
+  - "[[Divergent Thinking]]"
+  - "[[Heterogeneity]]"
+  - "[[Prediction Interval]]"
+  - "[[Variable]]"
+  - "[[Academic Achievement]]"
+related_theories: []
 related_methods:
+  - "[[Triangulation]]"
   - "[[Systematic Review]]"
-  - "[[Thematic Synthesis]]"
   - "[[Meta-analysis]]"
+  - "[[Fieldwork]]"
+  - "[[PRISMA]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Socrates]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Li_2026_CEAI]]"
@@ -145,7 +171,7 @@ updated: 2026-09-01
 > **数智时代[[Scientific Literacy|科学素养]]从事实复现向证据核验与 AI 素养的重构** 生成式人工智能的普及使得传统的静态事实记忆与套路化文本写作在评估中迅速贬值。科学与[[General Education|通识教育]]必须转向以证据评估、模型偏见识别、数据批判性审读为核心的综合素养，将[[AI Literacy|人工智能素养]]确立为现代公民的核心能力基石，推动学生从被动的信息消费者转变为具备[[Epistemological Vigilance|认识论警觉]]的质询者。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, pp. 34–36)]]
 
 > [!claim] Medina, J.
-> **维持生产性认识论摩擦以抵抗算法顺滑表象引发的心智外包** 高阶心智的锻造不可避免地需要经历认知挣扎与观点冲突。面对生成式模型极度流畅而缺乏毛刺感的输出，教育系统必须主动设计“认识论摩擦”（Epistemic Friction）机制——通过要求学生对比 AI 建议并阐明采纳理由、进行对抗性查错等——强制[[Working Memory|工作记忆]]深度参与推理，防范认知主体性的彻底让渡。[[Argument_Li_2026_CEAI|(Medina, 2013; Li et al., 2026, p. 10)]]
+> **维持生产性[[Epistemic Friction|认识论摩擦]]以抵抗算法顺滑表象引发的心智外包** 高阶心智的锻造不可避免地需要经历认知挣扎与观点冲突。面对生成式模型极度流畅而缺乏毛刺感的输出，教育系统必须主动设计“认识论摩擦”（Epistemic Friction）机制——通过要求学生对比 AI 建议并阐明采纳理由、进行对抗性查错等——强制[[Working Memory|工作记忆]]深度参与推理，防范认知主体性的彻底让渡。[[Argument_Li_2026_CEAI|(Medina, 2013; Li et al., 2026, p. 10)]]
 
 ---
 
@@ -165,7 +191,7 @@ updated: 2026-09-01
 > - **2017 — 架构奠基阶段** Vaswani et al. 提出 Transformer 架构，自注意力机制（Self-Attention）与并行化计算打破了序列建模瓶颈，为现代生成式大模型奠定技术底座。
 > - **2020–2022 — 模型突破与消费级普及** OpenAI 相继发布 GPT-3 与 ChatGPT，生成式 AI 跨越实验室门槛，以自然语言[[Dialogue in Education|对话]]界面实现全球数亿用户的即时触达。
 > - **2023 — 教育激辩与恐慌性禁令期** 全球高校与学区经历早期伦理恐慌，从普遍出台禁用指令转向探索政策规范，早期综述多聚焦学术诚信与工具性写作支持（Farazouli et al., 2023; Zirar, 2023）。
-> - **2024–2025 — 课堂实证爆发与机制解构** 实证研究呈现指数级增长，研究者通过量化实验与质性追踪揭示出生成式 AI 促成[[Divergent Thinking|发散思维]]爆发的同时可能诱发严重的[[Cognitive Offloading|认知卸载]]与文风均质化（Liu et al., 2026; Deng et al., 2024）。
+> - **2024–2025 — 课堂实证爆发与机制解构** 实证研究呈现指数级增长，研究者通过量化实验与质性追踪揭示出生成式 AI 促成[[Divergent Thinking|发散思维]]爆发的同时可能诱发严重的[[Cognitive Offloading|认知卸载]]与文风均质化（[[Argument_Liu_2026_CHBR|Liu et al., 2026]]; Deng et al., 2024）。
 > - **2026 — 教学活动系统全面重构** [[Argument_Li_2026_CEAI|Li et al. (2026)]] 提出批判性与[[Creativity|创造性思维]]双重视角整合框架与六大教学干预规制；[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026a)]] 正式将 AI 素养确立为面向未来社会的国家级核心课程基础设施。
 
 ---
@@ -188,7 +214,7 @@ updated: 2026-09-01
 
 > [!tension] 核心张力：工具主义效率至上 vs [[Epistemology|认识论]]主体性捍卫
 > - **工具主义效率取向（便利代工）** 将 GenAI 视为快速交差、产出光滑文本与缩短课业周期的省力工具，导致学生沦为算法产出的搬运工。[[Argument_Li_2026_CEAI|(Li et al., 2026, p. 10)]]
-> - **认识论主体性取向（对话审思）** 将 GenAI 视为需要主动审问、挑刺与辩难的对话中介，在认识论摩擦中提升自身自适应专长。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 10–11)]]
+> - **认识论主体性取向（对话审思）** 将 GenAI 视为需要主动审问、挑刺与辩难的对话中介，在[[Epistemic Friction|认识论摩擦]]中提升自身自适应专长。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 10–11)]]
 
 > [!critique] 外部批评与结构性伦理困境
 > - **算法偏见与文化均质化风险** 大模型训练数据主要来自英语世界与主流互联网语料，可能系统性边缘化全球南方及非主流文化视角，并在语言润色中抹杀独特的个体学术声音。[[Argument_Li_2026_CEAI|(Monib et al., 2025; Li et al., 2026, p. 8)]]

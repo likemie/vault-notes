@@ -10,7 +10,7 @@ aliases:
 summary: "创造力测评是对个体的发散思维潜能、创造过程认知加工、实际创新产品与日常观念行为特质的操作化测定与质性评价；在教育与心理研究中用于诊断创造潜能、衡量干预效果并化解效标困境。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 56
+related_count: 57
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -70,6 +70,7 @@ related_instruments:
   - "[[Creative Achievement Questionnaire]]"
   - "[[Runco Ideational Behavior Scale]]"
   - "[[VALUE Rubrics]]"
+  - "[[Alternate Uses Test]]"
 related_persons:
   - "[[Mark A. Runco]]"
 related_facts:
@@ -218,7 +219,7 @@ updated: '2026-08-27'
 > [!debates] 测评方法学争议与[[Paradigm|范式]]张力
 >
 > > [!axis] 潜能测查 vs 真实产出
-> > [[Divergent Thinking|发散思维]]测验（[[Torrance Tests of Creative Thinking|TTCT]]/AUT）测量的是心理加工潜能，但高潜能并不必然转化为卓越[[Creativity|创造性]]成果；专家产品评定（[[Consensual Assessment Technique|CAT]]）直接测量真实产出，但受限于作品完成度与领域专业积累。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 5–8)]]
+> > [[Divergent Thinking|发散思维]]测验（[[Torrance Tests of Creative Thinking|TTCT]]/[[Alternate Uses Test|AUT]]）测量的是心理加工潜能，但高潜能并不必然转化为卓越[[Creativity|创造性]]成果；专家产品评定（[[Consensual Assessment Technique|CAT]]）直接测量真实产出，但受限于作品完成度与领域专业积累。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 5–8)]]
 >
 > > [!axis] 通用测验 vs [[Domain Specificity|领域特异性]]任务
 > > 通用图形/词语发散测验试图建立跨学科常模，但高度脱离专业情境；学科真实性表现任务（如工程设计、历史课题）具有极高[[Ecological Validity|生态效度]]，但跨学科横向可比性大幅下降。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 23–28)]]

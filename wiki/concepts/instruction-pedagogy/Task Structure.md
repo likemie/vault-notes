@@ -9,13 +9,14 @@ aliases:
 summary: "学习与学术任务在目标清晰度、解题算法、信息充分性及评价标准等维度的结构化程度。任务沿良构到劣构的连续谱分布，调节着学生的认识论信念激活、元认知监控与自我调节学习策略。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 related_concepts:
   - "[[Reflexivity]]"
   - "[[Epistemological Beliefs]]"
+  - "[[Self-Regulated Learning]]"
   - "[[Problem Finding]]"
   - "[[Epistemology]]"
   - "[[Simplicity of Knowledge]]"
@@ -27,7 +28,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-19
-updated: 2026-08-20
+updated: 2026-09-02
 ---
 
 # Task Structure
@@ -41,7 +42,7 @@ updated: 2026-08-20
 >
 > > [!concept-lens] 概念透镜
 > > - **含义** 刻画学习任务的内在认知要求与环境线索清晰度，区分确定性算法操作与开放性价值辩护。
-> > - **用途** 揭示不同任务情境如何差异化激活学生的[[Epistemological Beliefs|认识论信念]]、自我调节学习策略、认知负荷与反思性判断。
+> > - **用途** 揭示不同任务情境如何差异化激活学生的[[Epistemological Beliefs|认识论信念]]、[[Self-Regulated Learning|自我调节学习]]策略、认知负荷与反思性判断。
 > > - **边界** 任务结构不等于任务领域知识难度；高度良构的任务也可以计算繁复，而低阶劣构任务可能涉及日常价值选择。
 
 ---

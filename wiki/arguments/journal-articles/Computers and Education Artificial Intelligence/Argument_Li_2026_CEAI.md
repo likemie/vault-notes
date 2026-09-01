@@ -21,6 +21,7 @@ tags:
   - method/systematic-review
   - theme/cognitive-load
 related_concepts:
+  - "[[Generative Artificial Intelligence]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Academic Achievement]]"
   - "[[Critical Thinking]]"
@@ -41,8 +42,9 @@ related_concepts:
   - "[[Boundary Object]]"
   - "[[Artefact]]"
   - "[[AI Literacy]]"
+  - "[[AI Hallucination]]"
   - "[[Epistemological Vigilance]]"
-  - "[[Epistemology]]"
+  - "[[Epistemic Friction]]"
   - "[[Central Question]]"
   - "[[Questionnaire]]"
   - "[[General Education]]"
@@ -52,8 +54,10 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Homework]]"
   - "[[Literature Review]]"
+  - "[[Educational Affordances]]"
   - "[[Argument Mapping]]"
-  - "[[Lost Mode]]"
+  - "[[Epistemology]]"
+  - "[[Illusion of Competence]]"
   - "[[Problem-Based Learning]]"
   - "[[Hypothesis]]"
   - "[[Reliability]]"
@@ -85,6 +89,7 @@ related_methods:
 related_instruments:
   - "[[Mixed Methods Appraisal Tool]]"
   - "[[Torrance Tests of Creative Thinking]]"
+  - "[[Alternate Uses Test]]"
 related_persons:
   - "[[Socrates]]"
 related_facts: []
@@ -102,7 +107,7 @@ title: "Argument_Li_2026_CEAI"
 argument_key: "Argument_Li_2026_CEAI"
 argument_display_title: "The cognitive impact of ChatGPT in higher education: A systematic review of critical and creative thinking outcomes"
 argument_kind: "journal-article"
-argument_related_count: 63
+argument_related_count: 68
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -155,7 +160,7 @@ issuing_organization: ""
 > | **文化历史活动理论（CHAT, Engeström, 1987）**<br>活动系统分析 | 揭示 ChatGPT 作为中介工具如何重塑教学活动系统中的人机认知分工、评估规则与主体共同体关系。 |
 
 > [!warrant]- 理论如何支撑论证
-> 论文通过整合认知加工（认知负荷理论与自我调节学习）、社会文化情境（[[Third Generation Activity Theory|活动理论]]与边界对象）及网络技术（连通主义与分布式认知），构建了多层次解释体系。分布式认知与活动理论揭示了人类思维并非孤立发生在颅骨内部，而是延伸并中介于技术工具中；认知负荷理论精确刻画了外在负荷释放与有害认知卸载的生理界限；自我调节学习与 AI 素养则为学习者在算法流畅性面前维持“[[Epistemology|认识论]]摩擦”（Epistemic Friction）提供了主体性防线。这些理论工具的交织，使综述能够严密解释为什么相同的技术介入会在不同教学脚手架下分化出协同增益与认知侵蚀两种截然相反的心智后果（pp. 2–3, 10–11）。
+> 论文通过整合认知加工（认知负荷理论与自我调节学习）、社会文化情境（[[Third Generation Activity Theory|活动理论]]与边界对象）及网络技术（连通主义与分布式认知），构建了多层次解释体系。分布式认知与活动理论揭示了人类思维并非孤立发生在颅骨内部，而是延伸并中介于技术工具中；认知负荷理论精确刻画了外在负荷释放与有害认知卸载的生理界限；自我调节学习与 AI 素养则为学习者在算法流畅性面前维持“[[Epistemic Friction|认识论摩擦]]”（Epistemic Friction）提供了主体性防线。这些理论工具的交织，使综述能够严密解释为什么相同的技术介入会在不同教学脚手架下分化出协同增益与认知侵蚀两种截然相反的心智后果（pp. 2–3, 10–11）。
 
 ---
 
@@ -245,7 +250,7 @@ issuing_organization: ""
 >     B -->|"<b>结构化探究支架</b><br>(反思提示 / 辩证量规 / 多源反馈)"| C["<b>激活赋能机制 (Affordances)</b><br>• CT: 元认知监控 (n=27) + 论证建构 (n=22) + 事实核查 (n=19)<br>• CrT: 构想发散 (n=31) + 结构支架 (n=24) + 视角转换 (n=18)"]
 >     B -->|"<b>非结构化 / 工具主义使用</b><br>(无反思框架 / 任务应付导向)"| D["<b>激活认知风险 (Limitations)</b><br>• CT: 心智惰性 (n=21) + 浅层参与 (n=18) + 认知卸载 (n=12)<br>• CrT: 构想惰性 (n=20) + 声音剥落 (n=15) + 探索停滞 (n=13)"]
 >     
->     C --> E["<b>协同增益轨迹 (n=18)</b><br>批判性思维 ↑ 且 创造性思维 ↑<br>(释放工作记忆 / 维持认识论摩擦)"]
+>     C --> E["<b>协同增益轨迹 (n=18)</b><br>批判性思维 ↑ 且 创造性思维 ↑<br>(释放工作记忆 / 维持[[Epistemic Friction|认识论摩擦]])"]
 >     D --> F["<b>非对称轨迹 (n=8)</b><br>创造性思维 ↑ 但 批判性思维 ↓<br>(浅层流畅拟合 / 放弃深层推理审视)"]
 >     D --> G["<b>双重侵蚀轨迹 (n=4)</b><br>批判性思维 ↓ 且 创造性思维 ↓<br>(全盘认知外包 / 主体性与原创力双萎缩)"]
 >     
@@ -266,7 +271,7 @@ issuing_organization: ""
 > |---|---|---|---|---|
 > | **赋能机制** | **元认知参与与监控（n = 27）** | [[Reflexivity\|反思性]]学术写作、同伴成果对比、文本多轮修订 | 引导性提示词、结构化探究任务、认知对比指引 | Strobl et al. (2024); Tseng & Lin (2024); Zhan & Yan (2025) |
 > | **赋能机制** | **论证结构与逻辑深化（n = 22）** | [[Classroom Debate\|课堂辩论]]设计、论证可视化图谱、学术论文写作 | 迭代对话模式、基于评分量规的评估对齐 | Sykes (2024); Chen et al. (2025); Darmawansah et al. (2025) |
-> | **赋能机制** | **事实核查与查错机制（n = 19）** | STEM 实验报告、程序排错、跨学科[[Document\|文献]]评述 | 批判性质疑态度、[[AI Literacy\|AI 素养]]、幻觉识别培训 | Archila et al. (2024); Michalon & Camacho-Zúñiga (2023); Šedlbauer et al. (2024) |
+> | **赋能机制** | **事实核查与查错机制（n = 19）** | STEM 实验报告、程序排错、跨学科[[Document\|文献]]评述 | 批判性质疑态度、[[AI Literacy\|AI 素养]]、[[AI Hallucination|幻觉识别培训]] | Archila et al. (2024); Michalon & Camacho-Zúñiga (2023); Šedlbauer et al. (2024) |
 > | **赋能机制** | **[[Self-Regulated Learning\|自我调节学习]]促进（n = 17）** | 形成性反馈循环、自主探究项目、迭代修改 | 提示词工程训练、反思日记、认知监控规程 | Yang et al. (2025); Lee et al. (2024); Shen & Chen (2025) |
 > | **赋能机制** | **学科真实推理深化（n = 15）** | 系统工程设计、商业企划、科学伦理批判 | 任务真实性、专业学科[[Paradigm\|范式]]对齐、深度问题情境 | Kofahi & Husain (2025); George-Reyes et al. (2024); Exintaris et al. (2023) |
 > | **风险限制** | **过度依赖与认知惰性（n = 21）** | 期末论文写作、常规[[Homework\|作业]]应付、事实性问答 | 缺乏使用培训、初学者新手用户、无反思要求 | Sarwanti et al. (2024); Villarino (2025); Azmi et al. (2024) |
@@ -275,10 +280,10 @@ issuing_organization: ""
 > | **风险限制** | **元认知卸载与心智外包（n = 12）** | 多阶段长文写作、综合[[Literature Review\|文献综述]]、反思作业 | 缺乏自我调节提示、全盘自动化采纳倾向 | Fan et al. (2025); Wang et al. (2024) |
 > | **风险限制** | **高阶[[Socrates\|苏格拉底]]推理局限（n = 10）** | 复杂概念辨析、高等数学证明、哲学深度辩难 | 算法知识黑箱、任务要求超越模型真实推理能力 | Urhan et al. (2024); Fakour & Imani (2025) |
 
-> [!evidence-grid-a] 批判性思维赋能维度与实证案例细析（Affordances, 5 大核心主题）
+> [!evidence-grid-a] 批判性思维赋能维度与实证案例细析（[[Educational Affordances|affordances]], 5 大核心主题）
 > - **元认知监控与反思性审思** 在德语高级 L2 学术写作课程中，Strobl et al. (2024) 设计了将 ChatGPT 作为“写作搭档”的双轨修改任务，迫使学生对比自身草稿与 AI 修改版的句式逻辑，学生在反思日志中展现出极高的元认知监控深度；Tseng & Lin (2024) 与 Zhan & Yan (2025) 同样证实引导性提示能有效激发对机器产出的分析性审视。（pp. 6–7）
 > - **论证结构与辩证深度拓宽** Sykes (2024) 在普适计算学术写作实验中发现，利用 ChatGPT 充当“辩难对手”（Counterargument Generator）并结合[[Argument Mapping|论证图]]谱量规，使学生论文在反驳力与反思严密性得分上显著优于传统无技术辅助组；Chen et al. (2025) 与 Darmawansah et al. (2025) 也指出结构化对话显著促进了论据整合。
-> - **事实核查与[[Epistemology|认识论]]怀疑激发** Archila et al. (2024) 在科学写作任务中引导学生专门针对 AI 生成的文献与数据进行“红队测试”（Red-teaming），主动识别出 14 处事实幻觉与逻辑漏洞；Michalon & Camacho-Zúñiga (2023) 与 Šedlbauer et al. (2024) 亦证实显性幻觉识别训练能有效激发学生的实证核验习惯与[[Epistemological Vigilance|认识论警觉]]。
+> - **事实核查与[[Epistemology|认识论]]怀疑激发** Archila et al. (2024) 在科学写作任务中引导学生专门针对 AI 生成的文献与数据进行“红队测试”（Red-teaming），主动识别出 14 处[[AI Hallucination|事实幻觉]]与逻辑漏洞；Michalon & Camacho-Zúñiga (2023) 与 Šedlbauer et al. (2024) 亦证实显性[[AI Hallucination|幻觉识别训练]]能有效激发学生的实证核验习惯与[[Epistemological Vigilance|认识论警觉]]。
 > - **自我调节学习与策略监控** Yang et al. (2025) 对非传统大学生的追踪表明，经过提示词工程引导的学生学会了根据任务难度分阶段调配 AI 资源，展现出明确的前瞻计划、过程诊断与策略微调能力；Lee et al. (2024) 及 Shen & Chen (2025) 进一步指出反思规程能够促进策略性认知监控。
 > - **学科真实推理与专业情境化** Exintaris et al. (2023) 在药学临床处方分析中，利用 ChatGPT 模拟疑难病患互动，促使学生在专业伦理与药理机制的交叉点上开展高度情境化的临床决断推理；Kofahi & Husain (2025) 与 George-Reyes et al. (2024) 同样发现真实工程与商业情境能驱动高阶学科推理。
 
@@ -319,18 +324,18 @@ issuing_organization: ""
 > | **风险限制** | **教学指导赤字与探索迷航（n = 14）** | 开放探究论文、无约束头脑风暴、通识作业 | 缺乏教师介入、无提示词技巧指导、任务模糊 | Mejri et al. (2024) |
 
 > [!evidence-grid-a] 创造性思维赋能维度与实证案例细析（Affordances, 5 大核心主题）
-> - **发散思维与构想广度爆发** 在复杂问题解决任务中，捷克高校实验（Urban et al., 2024）表明，使用 ChatGPT 作为构想拓展伙伴的实验组在托兰斯创造思维测验（[[Torrance Tests of Creative Thinking|TTCT]]）及另类用途测验（AUT）的发散流畅性与精致性得分上显著高于控制组；Sarwanti et al. (2024)、Villarino (2025) 与 Xu (2025) 亦证实了早期发散探索的有效性。（pp. 7–8）
+> - **发散思维与构想广度爆发** 在复杂问题解决任务中，捷克高校实验（Urban et al., 2024）表明，使用 ChatGPT 作为构想拓展伙伴的实验组在托兰斯创造思维测验（[[Torrance Tests of Creative Thinking|TTCT]]）及[[Alternate Uses Test|另类用途测验]]（AUT）的发散流畅性与精致性得分上显著高于控制组；Sarwanti et al. (2024)、Villarino (2025) 与 Xu (2025) 亦证实了早期发散探索的有效性。（pp. 7–8）
 > - **篇章结构与跨语言表达支架** 在学术英语写作中，Kurt & Kurt (2024) 发现非英语母语学生借助 ChatGPT 克服了“词汇贫乏壁垒”，能够自由尝试多样化修辞风格并重组专业概念；Avsheniuk et al. (2024) 与 Werdiningsih et al. (2024) 同样报告了表达支架对写作流畅性的促进。
 > - **角色扮演与认知视角多维转换** Lee et al. (2024) 让学生指示 ChatGPT 扮演不同文化背景的利益攸关方进行模拟辩论，学生在多重视角碰撞中打破了思维定势；Darmawansah et al. (2025) 与 [[Argument_Li_2025_HSSC|Li et al. (2025)]] 也发现多角度模拟能显著拓展解题思路。
 > - **情感激发与创作焦虑破冰** George-Reyes et al. (2024) 质性报告表明，面对空白文档的“起始创作焦虑”是阻碍创造力的首要心理门槛，ChatGPT 充当低威胁性的“头脑风暴玩伴”显著提升了创作意愿；Gervacio (2024)、Jayasinghe (2024) 与 Alzubi et al. (2025) 均证实了其情感赋能价值。
 > - **结构化教学框架下的创造性增益** 运用创意写作框架的教学实践（Cake, 2025）显示，将 AI 产出作为“粗糙原料”进行二次解构与重组，能使学生作品原创性取得统计学显著增长；Li (2023) 与 Abdelmagid et al. (2025) 亦报告了 ADDIE 等教学模型对创造力的放大效应。
 
 > [!evidence-grid-b] 创造性思维风险维度与实证案例细析（Limitations, 5 大核心主题）
-> - **创造性被动与构想惰性** Awal (2024) 针对创意写作学生的研究指出，超过 45% 的学生在获得 AI 提供的第一个故事大纲后立即停止了进一步的头脑风暴，产生严重的思维早熟收敛；Azmi et al. (2024) 与 Zhang et al. (2024) 同样报告了对算法建议的被动顺从。
+> - **创造性被动与构想惰性** Awal (2024) 针对创意写作学生的研究指出，超过 45% 的学生在获得 AI 提供的第一个故事大纲后立即停止了进一步的头脑风暴，产生严重的[[Illusion of Competence|能力错觉]]与思维早熟收敛；Azmi et al. (2024) 与 Zhang et al. (2024) 同样报告了对算法建议的被动顺从。
 > - **个人声音剥落与算法文风均质化** 在反思性叙事作品分析中，Monib et al. (2025) 发现采用 ChatGPT 润色的文本呈现出平滑但千篇一律的均质文风，个体独特的情感伤痛与文化特异性被算法熨平；Al-Alami (2024) 同样指出机械套话会严重侵蚀叙事真实性。
 > - **迭代探索抑制与早熟收敛** Boers et al. (2025) 在脚本创作实验中观察到，若缺乏教师强制的多次迭代修改要求，学生倾向于接受 AI 的首轮回复作为最终成品，破坏了创造力所必需的试错探索循环。
 > - **学术诚信焦虑与风险规避抑制** 准[[Experimental Research|实验研究]]（Selem et al., 2025）量化证实，学生对剽窃指控的心理恐惧与数据隐私风险感知与创造性思维呈显著负相关（$p < .01$）；El-Akhras et al. (2025) 亦表明合规担忧会压制前卫创意的提出。
-> - **教学指导赤字与探索迷航** Mejri et al. (2024) 强调，在教师完全不提供提示词培训与过程指引的课堂中，学生极易在浩瀚但琐碎的 AI 回复中[[Lost Mode|迷失]]研究方向，创造性尝试最终演变为碎片化信息的拼贴。
+> - **教学指导赤字与探索迷航** Mejri et al. (2024) 强调，在教师完全不提供提示词培训与过程指引的课堂中，学生极易在浩瀚但琐碎的 AI 回复中迷失研究方向，创造性尝试最终演变为碎片化信息的拼贴。
 
 > [!exegesis]- 案例深析：设计思维实验中“早期发散伙伴”与“终稿代写陷阱”的机制对立
 > 对比两种典型的实证介入方式，可以清晰看到介入时机与使用方式对创造力的分流作用：
@@ -447,7 +452,7 @@ issuing_organization: ""
 > *We recommend embedding explicit scaffolds — such as reflective prompts, rubric-guided evaluation, and AI-literacy training — to harness ChatGPT's potential as a dialogic partner rather than a convenience tool.*
 
 > [!citation-card]- [[Epistemology|认识论]]摩擦与高阶心智
-> 这种不平衡凸显了批判性思维与创造性思维协同发展的脆弱性，并强调了“认识论摩擦”（Medina, 2013）的重要性——即维持高阶认知所必需的生产性张力。一旦缺乏这种摩擦，AI 生成的流畅性就会轻易绕过[[Surface and Deep Learning|深层学习]]所不可或缺的反思性挣扎。（p. 10）
+> 这种不平衡凸显了批判性思维与创造性思维协同发展的脆弱性，并强调了“[[Epistemic Friction|认识论摩擦]]”（Medina, 2013）的重要性——即维持高阶认知所必需的生产性张力。一旦缺乏这种摩擦，AI 生成的流畅性就会轻易绕过[[Surface and Deep Learning|深层学习]]所不可或缺的反思性挣扎。（p. 10）
 >
 > *This imbalance underscores the fragility of CT–CrT co-development and highlights the importance of "epistemic friction" (Medina, 2013) — the productive tension that sustains higher-order cognition. Absent such friction, AI-generated fluency can bypass the reflective struggle central to deep learning.*
 

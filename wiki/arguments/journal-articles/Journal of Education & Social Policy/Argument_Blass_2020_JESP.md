@@ -9,7 +9,7 @@ title: "Argument_Blass_2020_JESP"
 argument_key: "Argument_Blass_2020_JESP"
 argument_display_title: "Debunking Hattie: Evaluating the contribution of academic studies to policy development and implementation in Australia"
 argument_kind: "journal-article"
-argument_related_count: 16
+argument_related_count: 15
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -31,7 +31,6 @@ related_concepts:
   - "[[Surface and Deep Learning]]"
   - "[[Causality]]"
   - "[[Dialogue in Education]]"
-  - "[[Lost Mode]]"
   - "[[Direct Instruction]]"
 related_theories: []
 related_methods:
@@ -126,7 +125,7 @@ citation_aliases:
 > > “你会希望一位外科医生查阅 1990 年的书籍来学习如何在手术中使用机器人吗？不！你会希望一位肿瘤科医生查找 1980 年代的最新癌症疗法吗？不！那么，你为什么要允许那个时代的教学结果影响你今天在课堂上的所作所为呢？”
 > ("Would you want a surgeon looking at books from 1990 to learn about the use of robotics in surgery? No! Would you want an oncologist to look up the latest cancer treatments from the 1980's? No! So why are you allowing teaching outcomes from this time to influence what you are doing today in the classroom?") (p.95)
 >
-> > “澳大利亚在教育上[[Lost Mode|迷失]]了方向，而[[John Hattie|哈蒂]]（Hattie）成为了被用来证明这一立场正当性的退路。但我怀疑这是否是哈蒂的本意。”
+> > “澳大利亚在教育上迷失了方向，而[[John Hattie|哈蒂]]（Hattie）成为了被用来证明这一立场正当性的退路。但我怀疑这是否是哈蒂的本意。”
 > ("Australia has lost its way in education and Hattie is the fallback that is used to justify this position. But I doubt this was Hattie's intent.") (p.97)
 >
 > > “成为学科专家不再是教师的角色；教导对某一学科的热情以及如何学习才是。”

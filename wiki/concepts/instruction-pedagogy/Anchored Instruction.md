@@ -7,7 +7,7 @@ aliases:
 summary: "由范德堡大学 CTGV 开发的经典情境教学范式，通过富含嵌入式数据的情节性宏观情境故事作为认知锚点，引导学生自主识别子问题并进行多步因果探究"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 12
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Critical Thinking]]"
   - "[[Higher-Order Thinking Skills]]"
-  - "[[Lost Mode]]"
 related_theories:
   - "[[Situative Perspective]]"
 related_methods:
@@ -105,7 +104,7 @@ updated: 2026-08-25
 
 > [!critique-method] 设计与技术约束
 > - **开发成本极高** 高质量的宏观情境锚点故事需要精密的教学设计与多媒体制作，难以由一线教师独立高频开发。
-> - **线索干扰与认知迷航** 部分学生可能过度关注故事中的无关细节，[[Lost Mode|迷失]]于次要情节中，需要教师提供适时的结构化脚手架。
+> - **线索干扰与认知迷航** 部分学生可能过度关注故事中的无关细节，迷失于次要情节中，需要教师提供适时的结构化脚手架。
 
 ---
 

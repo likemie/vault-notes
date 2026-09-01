@@ -7,11 +7,24 @@ aliases:
   - AP课程
 summary: "由美国大学理事会建立的高中大学水平单科课程与考试体系，以外部评价支持大学分班或学分，并构成国际文凭进入北美高中的重要制度先例与比较对象。"
 type: concept
+domain: "curriculum"
+related_count: 5
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - region/us
   - level/k12
   - subject/curriculum
   - theme/college-readiness
+related_concepts:
+  - "[[International Baccalaureate]]"
+  - "[[Theory of Knowledge]]"
+  - "[[Extended Essay]]"
+related_facts:
+  - "[[Sputnik Shock 1957]]"
+related_arguments:
+  - "[[Argument_Peterson_1987_OpenCourt_Ch06]]"
 confidence: medium
 status: draft
 created: 2026-09-01
@@ -35,9 +48,9 @@ updated: 2026-09-01
 ## 概念演变
 
 > [!dev-timeline]- 从提前升学压力到外部高级课程
-> - **1950 年代中期　项目形成** 福特基金会对优秀学生提前进入大学的讨论、Sputnik 后的学术竞争焦虑，以及高中担心优秀学生提前离校，共同推动 AP 出现。[[Argument_Peterson_1987_OpenCourt_Ch06|Peterson (1987, Ch. 6, p. 136)]]
+> - **1950 年代中期　项目形成** 福特基金会对优秀学生提前进入大学的讨论、[[Sputnik Shock 1957|Sputnik]] 后的学术竞争焦虑，以及高中担心优秀学生提前离校，共同推动 AP 出现。[[Argument_Peterson_1987_OpenCourt_Ch06|Peterson (1987, Ch. 6, p. 136)]]
 > - **1970 年　规模化实施** 约 55,000 名学生参加三小时 AP 考试，在高中阶段完成被界定为大学水平的学习。课程大纲比英国普通教育证书高级程度考试更少规定，但同样以外部课程和考试影响教学。[[Argument_Peterson_1987_OpenCourt_Ch06|Peterson (1987, Ch. 6, p. 136)]]
-> - **1970 年代后　成为 IB 的制度接口与竞争对象** AP 负责人早期进入国际文凭理事会，帮助 IB 获得北美承认；学校随后在扩展 AP 与引入 IB 之间比较单科挑战、完整课程、国际标准和实施成本。[[Argument_Peterson_1987_OpenCourt_Ch06|Peterson (1987, Ch. 6, pp. 136, 139–140)]]
+> - **1970 年代后　成为 IB 的制度接口与竞争对象** AP 负责人早期进入[[International Baccalaureate|国际文凭]]理事会，帮助 IB 获得北美承认；学校随后在扩展 AP 与引入 IB 之间比较单科挑战、完整课程、国际标准和实施成本。[[Argument_Peterson_1987_OpenCourt_Ch06|Peterson (1987, Ch. 6, pp. 136, 139–140)]]
 
 ## 核心要素
 
@@ -50,10 +63,10 @@ updated: 2026-09-01
 ## 与国际文凭的关系
 
 > [!contrast-table] AP 与 IB 的课程单位
-> | 维度 | AP | [[International Baccalaureate|IB]] |
+> | 维度 | AP | [[International Baccalaureate\|IB]] |
 > |---|---|---|
 > | **基本单位** | 单一高级学科 | 六学科与共同核心组成的完整文凭，也提供单科证书 |
-> | **跨学科要求** | 不要求各科组成共同方案 | 以知识论、拓展论文和社会服务连接课程整体 |
+> | **跨学科要求** | 不要求各科组成共同方案 | 以[[Theory of Knowledge\|知识论]]、[[Extended Essay\|拓展论文]]和社会服务连接课程整体 |
 > | **学校准备** | 可局部加入既有课程 | 语言与数学准备常向低年级延伸，并要求较强教师协作 |
 > | **资格功能** | 主要支持大学分班或学分 | 同时支持大学入学、分班与跨国资格承认 |
 >

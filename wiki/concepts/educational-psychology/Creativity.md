@@ -11,7 +11,7 @@ aliases:
 summary: "个体或群体产生新颖且适切的想法、产品或解决方案的心理能力与综合表现，在教育研究中兼具预测变量与发展结果的双重属性"
 type: concept
 domain: "educational-psychology"
-related_count: 46
+related_count: 47
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -56,6 +56,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Systematic Review]]"
 related_instruments:
+  - "[[Alternate Uses Test]]"
   - "[[Torrance Tests of Creative Thinking]]"
   - "[[Consensual Assessment Technique]]"
   - "[[VALUE Rubrics]]"
@@ -109,7 +110,7 @@ updated: 2026-09-01
 > | 维度 | 创造力（Creativity） | 智力（Intelligence） | 创新（Innovation） | [[Divergent Thinking\|发散思维]]（Divergent Thinking） |
 > |------|-------------------|-------------------|-------------------|-----------------------------|
 > | 核心特征 | 新颖性与适切性 | 适应环境、逻辑推理、抽象思维与知识习得能力 | 构想的实施、推广、市场化与组织变革 | 观念生成的流畅性、灵活性与独创性 |
-> | 测量方式 | 综合测评（产品评定、成就量表、活动自陈） | 标准化智力测验（如韦氏量表、瑞文推理等） | 专利数、新产品上市率、组织采纳指标 | 非常规用途测验、托兰斯测验 |
+> | 测量方式 | 综合测评（产品评定、成就量表、活动自陈） | 标准化智力测验（如韦氏量表、瑞文推理等） | 专利数、新产品上市率、组织采纳指标 | [[Alternate Uses Test\|非常规用途测验]]、托兰斯测验 |
 > | 教育研究角色 | 既是可被干预培养的结果，也是学业与终身发展的预测源 | 相对稳定的认知基线与阈值调节[[Variable\|变量]] | 产学研合作与系统化教育成果转化 | 评估创造潜能的[[Operationalization\|操作化]]认知构件 |
 
 ---
@@ -288,5 +289,5 @@ updated: 2026-09-01
 > - **创造力与[[Critical Thinking|批判性思维]]相关元分析** [[Argument_Park_2026_TSC|Park et al. (2026)]] 开展学生样本中创造力与[[Critical Thinking|批判性思维]]相关的一阶元分析，综合 29 项研究 51 个[[Effect Size|效应量]]，确立两者中等正相关（$r = 0.386$），并证实测量类型显著调节相关大小，双主观组合相关最高（$r = 0.509$），提示自陈测量中的[[Common Method Variance|共同方法变异]]放大了观察相关。
 > - **高等教育政策与量规评价实践** [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] [[Systematic Review|系统综述]] [[OECD]] 国家高等教育中创造力与[[Critical Thinking Assessment|批判性思维评价]]的政策与实践，详析创造力在高校微观考核中的显性标准匮乏现状与真实性量规的破局路径。
 > - **[[Generative Artificial Intelligence|生成式人工智能]]赋能与抑制综述** [[Argument_Li_2026_CEAI|Li et al. (2026)]] 系统综述 67 项实证研究，揭示 ChatGPT 作为发散生成伙伴在构想拓展（31 项）、结构脚手架（24 项）与视角转换（18 项）中的促进效能，并指出非结构化使用导致个人学术声音稀释与探索停滞的风险。
-> - **[[Creativity Assessment|创造力测评]]与测量方法学** 参见专门概念条目 [[Creativity Assessment|创造力测评]]，该条目系统整合了从[[Divergent Thinking|发散思维]]标准化测验（[[Torrance Tests of Creative Thinking|TTCT]]/AUT）、专家产品同感评定（[[Consensual Assessment Technique|CAT]]）、大学招生情境任务（Rainbow/Kaleidoscope）到校本真实性评分量规（[[VALUE Rubrics|VALUE]]/CERI/[[CALOHEE Project|CALOHEE]]）的工具矩阵、[[Criterion Problem|效标困境]]与[[Formative Assessment|促学评价]]生态。
+> - **[[Creativity Assessment|创造力测评]]与测量方法学** 参见专门概念条目 [[Creativity Assessment|创造力测评]]，该条目系统整合了从[[Divergent Thinking|发散思维]]标准化测验（[[Torrance Tests of Creative Thinking|TTCT]]/[[Alternate Uses Test|AUT]]）、专家产品同感评定（[[Consensual Assessment Technique|CAT]]）、大学招生情境任务（Rainbow/Kaleidoscope）到校本真实性评分量规（[[VALUE Rubrics|VALUE]]/CERI/[[CALOHEE Project|CALOHEE]]）的工具矩阵、[[Criterion Problem|效标困境]]与[[Formative Assessment|促学评价]]生态。
 

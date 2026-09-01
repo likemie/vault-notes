@@ -6,7 +6,7 @@ aliases:
 summary: "以理由权衡、有目的的反思判断和自我调节为核心，统合认知技能、思维倾向、领域知识与情境标准；在教育研究中用于设计教学、界定学习结果并检验课程与评估的构念效度。"
 type: concept
 domain: "educational-philosophy"
-related_count: 89
+related_count: 90
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[Constructive Alignment]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Cognitive Offloading]]"
+  - "[[Epistemic Friction]]"
   - "[[Socratic Dialogue]]"
   - "[[Working Memory]]"
   - "[[Learning Gain]]"
@@ -113,7 +114,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-06-30
-updated: 2026-09-01
+updated: 2026-09-02
 ---
 
 # Critical Thinking
@@ -270,7 +271,7 @@ updated: 2026-09-01
 > 考察[[Generative Artificial Intelligence|生成式 AI]] 快速生成流畅文本对学生收敛性论证、事实核查与反思监控的塑造机制，以及缺乏教学干预时[[Cognitive Offloading|认知卸载]]引发的思维退化。
 
 > [!claim] [[Argument_Li_2026_CEAI|Li et al. (2026)]]
-> **ChatGPT 对批判性思维的双向调节与认识论摩擦分流** 对 67 项高等教育实证研究的系统综述表明，ChatGPT 介入对批判性思维的影响呈现鲜明的两极分化。在赋能维度，当学生以 AI 作为[[Socratic Dialogue|苏格拉底式对话]]伙伴时，能够显著强化[[Metacognition|元认知]]监控（27 项研究）、论证建构（22 项）与查错核验（19 项）；在风险维度，当缺乏显性反思脚手架时，模型的表面语义流畅性会麻痹学生的怀疑本能，诱发严重的过度依赖与心智惰性（21 项）、浅层参与（18 项）以及论证退化（14 项）。教学系统必须主动设计“认识论摩擦”（Epistemic Friction）机制，通过反思日志和对抗性查错强制[[Working Memory|工作记忆]]深度参与推理，才能维系批判性思维的生长。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 6–7, 10–11)]]
+> **ChatGPT 对批判性思维的双向调节与[[Epistemic Friction|认识论摩擦]]分流** 对 67 项高等教育实证研究的系统综述表明，ChatGPT 介入对批判性思维的影响呈现鲜明的两极分化。在赋能维度，当学生以 AI 作为[[Socratic Dialogue|苏格拉底式对话]]伙伴时，能够显著强化[[Metacognition|元认知]]监控（27 项研究）、论证建构（22 项）与查错核验（19 项）；在风险维度，当缺乏显性反思脚手架时，模型的表面语义流畅性会麻痹学生的怀疑本能，诱发严重的过度依赖与心智惰性（21 项）、浅层参与（18 项）以及论证退化（14 项）。教学系统必须主动设计“认识论摩擦”（Epistemic Friction）机制，通过反思日志和对抗性查错强制[[Working Memory|工作记忆]]深度参与推理，才能维系批判性思维的生长。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 6–7, 10–11)]]
 
 > [!claim] Strobl, C.; Fan, X.
 > **显性三步反思规程与人机对话对批判性论证深化的实证确证** Strobl et al. (2024) 在二语学术写作中设计的“批判性评估（标记可疑处） $\to$ 理由辩护（解释采纳/拒绝依据） $\to$ 独立改写”三步反思规程，强制学生维持认知摩擦，使写作逻辑严密性与证据充分性显著跃升；Fan et al. (2025) 亦证实，结构化人机多轮追问能显著提升学生在复杂科学任务中的批判性质询深度与反思倾向。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 6, 11)]]
@@ -327,95 +328,7 @@ updated: 2026-09-01
 > - **科学知识传播立场** 学校科学教育承担传授关于物质世界之可靠知识的责任，因此会为开放质疑设置学科内容和规范边界。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, pp. 179–180)]]
 >
 > > [!axis] 算法表面顺滑性 vs [[Epistemology|认识论]]摩擦维持
-> > [[Generative Artificial Intelligence|生成式 AI]] 输出的极度流畅与自信表象极大降低了思维门槛，但容易钝化学生的反思审视与怀疑本能；唯有在教学中主动设计对抗性查错与论据辩护等“认识论摩擦”，才能维系批判性思维的[[Growth|生长]]（[[Argument_Li_2026_CEAI|Li et al., 2026]]; Medina, 2013）。
-
-> [!warning] 教学与改革边界
-> - 高中生的认知发展水平可能限制证据比较和决策标准阐明，课程目标与评估要求需要考虑发展适切性。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, pp. 173–174)]]
-> - 课程框架本身无法保证教学效果，教师培训、学校人员配置、课程组织、跨学科协作和课时安排都会影响实施。[[Argument_Cole_2015_AJE|(Cole et al., 2015, pp. 255–259)]]
-> - 指南文本能够支持书面课程的构念审查，学生真实经历中的思维数量和质量还需课堂观察、表现任务与实施研究。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 31, 35)]]
-
----
-
-## 实证数据
-
-> [!effect-table]- 原始研究结果
-> <span class="concept-effect-table-marker" aria-hidden="true"></span>
->
-> | 研究 | 比较或干预 | 结果[[Variable\|变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
-> |---|---|---|---|---|---|---|---|
-> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | ToK 学习阶段（Y12 vs Y11） | [[Critical Thinking Strategies Scale\|CTSS]] 批判性思维策略总分 | Y12 $n = 622$；Y11 $n = 620$ | Y12 $M = 4.85$ ($SD = 1.05$)；Y11 $M = 4.62$ ($SD = 1.08$) | Hedges' $g = 0.216$（派生） | $t(1240) = 3.04, p < .001$ | 横断调查；自报测量；年级差异不能证明 ToK 导致能力增长 |
-> | 同上 | ToK 学习阶段（Y12 vs Y11） | [[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale\|MSLQ-CT]] 批判性思维动机分量表 | Y12 $n = 622$；Y11 $n = 620$ | Y12 $M = 4.69$ ($SD = 1.15$)；Y11 $M = 4.48$ ($SD = 1.22$) | Hedges' $g = 0.177$（派生） | $t(1240) = 3.04, p < .01$ | 横断调查；自报测量；反映学习动机中的思维策略感知 |
-
-> [!ma-table]- 一阶[[Meta-analysis|元分析]]总体结果
-> <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
->
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | [[Dependent Variable\|结果变量]]：教学干预对通用批判性思维技能的促进效应 | $k = 341$ / $N = —$ | Hedges' $g+$ / [[Fixed-Effect and Random-Effects Models\|随机效应模型]] | $g+ = 0.30$ $[0.25, 0.34]$ | $Q(340) = 1,225.89, p = .001, I^2 = 72.27\%$ | 严格排除前实验与非标准化测验；通用批判性思维标准化测试结果 |
-> | 同上 | 结果变量：教学干预对[[Domain Specificity\|学科特异性]]批判性思维技能的促进效应 | $k = 97$ / $N = —$ | Hedges' $g+$ / 随机效应模型 | $g+ = 0.57$ $[0.47, 0.68]$ | $Q(96) = 544.32, p < .001, I^2 = 82.36\%$ | 排除前实验；包含学科特异性标准化（$g+=0.40$）与非标准化（$g+=0.65$）测验 |
-> | 同上 | 结果变量：教学干预对[[Critical Thinking Disposition\|批判性思维倾向]]的促进效应 | $k = 25$ / $N = —$ | Hedges' $g+$ / 随机效应模型 | $g+ = 0.23$ $[0.06, 0.40]$ | $Q(24) = 82.32, p < .001, I^2 = 70.84\%$ | 排除前实验；采用 CCTDI 等自陈倾向问卷测量 |
-> | Özkan & Çetinkaya-Uslusoy (2024)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果变量：[[Jigsaw\|拼图法]]对护理临床批判性思维的促进效应 | $k = 4$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.70$ $[0.13, 1.26]$ | — | 高等护理教育临床决策情境，拼图法结构化互动显著提升反思决策 |
-> | Siagian et al. (2023)，引自同上 | 结果变量：[[Cooperative Learning\|合作学习]]对数学批判性思维技能的促进效应 | $k = 35$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.79$ $[0.58, 1.00]$ | — | 印尼中小学数学教学情境，合作学习显著增强批判性解题能力 |
-> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 关联构念：学生样本中批判性思维与[[Creativity\|创造力]]的总体相关 | $k = 51$ / $N = 12{,}548$ | 皮尔逊 $r$（Fisher's $z$ 变换）/ 三水平随机效应模型 | $r = 0.386$ $[0.296, 0.470]$ | $I^2 = 95.6\%$，$Q(50) = 1133.19, p < .001$ | 29 项研究 51 个效应量；相关随测量类型组合而变，双主观组合最高 |
-> | Huber & Kuncel (2016)，引自 [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] | 结果变量：大学生就读全周期批判性思维纵向增益 | $k = 71$ / $N = 10{,}751$ | Cohen's $d$ / 随机效应模型 | $d = 0.59$ | — | 综合全美高校纵向追踪数据；大学四年能力增长幅度中等，跨校与跨专业异质性高 |
-> | Abrami et al. (2008)，引自同上 | 结果变量：[[Explicit Critical Thinking Instruction\|显性批判性思维教学]]干预的总体促进效应 | $k = 117$ / $N = 20{,}698$ | Cohen's $d$ / 随机效应模型 | $d = 0.34$ $[0.30, 0.38]$ | — | 涵盖各学段教学干预；明确设定高阶认知目标的显性教学显著优于[[Immersion Approach\|隐性渗透模式]] |
-
-> [!ma-table]- 一阶元分析互补维度亚组
-> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
->
-> | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 结果变量 | 教学干预策略：[[Authentic Instruction\|真实性教学]]（A）vs [[Dialogue in Education\|对话]]（D）vs 真实性+对话（A+D）vs 真实性+对话+[[Mentorship\|导师制]]（A+D+M） | A 单独 $k = 22$；D 单独 $k = 43$；A+D $k = 45$；A+D+M $k = 19$ | A $g+ = 0.25$ $[0.05, 0.46]$；D $g+ = 0.23$ $[0.07, 0.39]$；A+D $g+ = 0.32$ $[0.17, 0.47]$；A+D+M $g+ = 0.57$ $[0.38, 0.77]$ | $Q_b(3) = 8.19, \text{df} = 3, p = .04$；A+D+M 对比 A+D $z = 1.98, p = .024$ | 三维复合策略显著最优，导师制发挥催化功能 |
-> | 同上 | 结果变量 | Ennis 课程模式：[[Direct Instruction\|直接教学]] vs 融入模式 vs 沉浸模式 vs 混合模式 | 直接教学 $k = 44$；融入 $k = 152$；沉浸 $k = 61$；混合 $k = 84$ | 直接 $g+ = 0.26$；融入 $g+ = 0.29$；沉浸 $g+ = 0.23$；混合 $g+ = 0.38$ $[0.26, 0.51]$ | $Q_b(3) = 4.10, \text{df} = 3, p = .25$ | 混合模式效应量最高，各模式均显著大于 0 |
-> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 关联[[Construct\|构念]] | 双主观组合（创造力主观 × 批判性思维主观） | — | $r = 0.509$ | 批判性思维测量类型 $Q_M(1) = 5.234, p = .022$；创造力测量类型 $Q_M(1) = 10.133, p = .002$；交互项 $Q_M(1) = 6.524, p = .011$ | 相关最高；逐组合样本量与 95% CI 未在正文报告，见原文图 4；提示自陈测量中的[[Common Method Variance\|共同方法变异]]放大观察相关 |
-> | 同上 | 关联构念 | 双客观组合（创造力客观 × 批判性思维客观） | — | $r = 0.317$ | 同上 | 高于全部混合组合，支持表现型测量间存在真实认知重叠 |
-> | 同上 | 关联构念 | 创造力客观 × 批判性思维主观组合 | — | $r = 0.260$ | 同上 | 混合组合相关居中 |
-> | 同上 | 关联构念 | 创造力主观 × 批判性思维客观组合 | — | $r = 0.195$ | 同上 | 混合组合相关最低 |
-
-> [!ma-table]- [[Meta-meta-analysis|二阶元分析]]结果
-> <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
->
-> | 二阶元分析 | 当前概念角色与总体结果 | 证据规模 $M$ / $E$ / $k$ / $N$ | 效应指标与模型 | 二阶汇总效应与 95% CI | 异质性与 95% PI | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果变量：[[Cooperative Learning\|合作学习]]对高阶思维（含批判性思维）的干预效应 | $M = 3$；$E = 4$；$k = —$；$N = —$（全数据集总 $k = 403$） | Cohen's $d$ / 随机效应模型经典逆方差加权 | $ES = 0.76$ $[0.42, 1.11]$ | 全集 $Q(22) = 349.48, p < .01, I^2 = 93.70\%, \tau^2 = 0.13$；95% PI 未报告 | 高阶思维亚组包含批判性思维与创造性思维研究，证实合作互动对批判性反思的高赋能 |
-> | [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] | 结果变量：高等教育 [[Problem-Based Learning\|问题本位学习]]（PBL）对批判性思维的促进效应 | $M = 20$；$E = 6$（批判性思维亚组）；$k = 469$；$N = —$ | 标准化均差（SMD）/ [[Fixed-Effect and Random-Effects Models\|随机效应模型]] | $ES = 0.56$ $[0.24, 0.89]$ | 全集 $Q(46) = 730.67, p < .001, I^2 = 93.70\%$；95% PI 未报告 | 仅代表高等教育情境下 PBL 干预，不同学科专业间异质性极高 |
-
-> [!ma-table]- 二阶元分析互补维度亚组
-> <span class="scrollable-table-marker concept-second-order-role-subgroup-marker" aria-hidden="true"></span>
->
-> | 二阶元分析 | 当前概念角色 | 对应亚组 | 证据数 $M$ / $E$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果变量 | 合作学习教学技术：综合合作 vs 拼图法 vs 小组调查 vs [[Cooperative Integrated Reading and Composition\|CIRC]] 整合读写 | $E = 14$（综合）/ $E = 6$（拼图）/ $E = 2$（调查）/ $E = 1$（CIRC） | CIRC $ES = 2.04$ $[1.05, 3.03]$；调查法 $ES = 1.08$ $[0.50, 1.66]$；拼图法 $ES = 0.72$ $[0.40, 1.04]$；综合合作 $ES = 0.61$ $[0.40, 0.81]$ | $Q_b(3) = 9.36, \text{df} = 3, p = .02$ | 预设分析；组间差异达显著，探究与深度协商技术赋能批判性思维最深 |
-
-> [!ref-table]- 其他实证结果（无效应量）
-> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
->
-> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]] | $N = 129$ 名成人与青少年（含高管与非专家群体） | 跨领域[[Epistemology\|认识论]]评估测试 | 价值观领域的评价论阶段达成率与批判论辩倾向 | 在成人精英群体（EMBA 等）中，仅 22% 达成[[Evaluativist\|评价论]]阶段并展现批判反思意愿，绝大多数停滞于[[Multiplist\|多元论]] | 组间差异极其显著 | 证实批判性思维意愿受制于底层认识论成熟度 |
-> | [[Argument_Bergeron_2015_TeachingTOK\|Bergeron & Rogers (2015)]] | $N = 960$ 名全球 [[IB Diploma Programme\|IBDP]] 教师 | [[Questionnaire\|问卷调查]]与开放[[Coding in Qualitative Research\|编码]] | 批判性思维在其他学科（441 次）、[[Extended Essay\|拓展论文]]（154 次）及大学学业（226 次）中的溢出频次 | 教师反馈批判性思维为显性探究课程中最高频溢出的[[21st Century Skills and Competencies Discourse\|核心素养]]；同时“评估批判性思维进展”列为首要教学痛点（$M = 3.56/5$） | — | 质性与频数证据，证实显性思维教学的可迁移性，但依赖自报数据 |
-> | Arum & Roksa (2011)，引自 [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] | $N = 2{,}322$ 名全美本科生（24 所高校） | 4 年纵向追踪（[[Collegiate Learning Assessment\|CLA]] 测验） | 批判性思维与复杂推理能力纵向增长率 | 45% 学生前两年无统计显著增益；36% 学生四年全周期无显著增益 | $p < .05$ 显著性判定 | 揭示大学本科阶段批判性思维增益匮乏的“学术漂泊”现象 |
-> | Loyalka et al. (2021)，引自同上 | $N > 30{,}000$ 名中、印、俄、美 STEM 本科生 | 跨国纵向追踪（[[ETS HEIghten Critical Thinking Assessment\|ETS HEIghten]] 测验） | 批判性思维技能跨学段增长轨迹 | 中俄学生大一入学生源测试显著高于美生，但就读四年间技能无明显增长或相对下滑，最终被美生反超 | 跨国组间差异显著 | 证实大学阶段教学法与批判性思维培养对高阶心智增长的决定性作用 |
-> | AAC&U (2016) 调查，引自同上 | $N = 325$ 所全美高校学术主管 | 宏观院校调查 | 全校通用成果标准与量规采纳率 | 85% 高校建立全校通用成果标准，其中 98% 包含批判性思维；开展累积评价的高校中 91% 使用评分量规，42% 采纳 [[VALUE Rubrics\|VALUE]] 量规 | — | 宏观管理实践数据，证实批判性思维已成为全校性核心学习成果 |
-> | EUA Trends (2018) 调查，引自同上 | $N = 303$ 所全欧大学（覆盖 43 国） | 宏观院校调查 | 预期学习成果与考核方式改革 | 76% 大学为所有课程设定预期成果，88% 大学据此调整了考核方式，但 66% 在考核对齐中遭遇制度阻碍 | — | 欧洲高等教育区大范围普查，揭示批判性思维教学与考核对齐的制度惯性 |
-> | [[CRITHINKEDU Project\|CRITHINKEDU]] (Dominguez, 2018)，引自同上 | $N = 53$ 名欧洲 9 国大学教师 | 深度[[Qualitative Interview\|质性访谈]] | 日常课程中批判性思维显性测评工具使用率 | 47 / 53 名任课教师在日常教学考核中完全没有使用任何特定工具或显性量规 | — | 揭示高校微观教学中显性[[Critical Thinking Assessment\|批判性思维测评]]工具与教师评价素养的严重匮乏 |
-> | [[Argument_Li_2026_CEAI\|Li et al. (2026, pp. 6–7)]] | $N = 67$ 项高等教育实证研究（涵盖 2022–2025 年全球高校样本） | [[Systematic Review\|系统综述]]与主题综合 | ChatGPT 对批判性思维（CT）影响的主题频数分布 | 赋能维度：[[Metacognition\|元认知]]参与（27 项）、论证建构（22 项）、查错核验（19 项）、自我调节（17 项）、学科推理（15 项）；风险维度：过度依赖与心智惰性（21 项）、浅层参与（18 项）、论证退化（14 项）、元[[Cognitive Offloading\|认知卸载]]（12 项） | — | 质性主题证据，揭示[[Generative Artificial Intelligence\|生成式 AI]] 对批判性思维的促进高度依存于反思提示、结构化脚手架与 AI 素养 |d Herrmann、Bereiter and Scardamalia、Glaser、Lave** 强调专业知识、学科规范和情境实践对思维表现的塑造。同上
-> > - **Ritchhart and Perkins** 将二元争论修正为通用结构与具体情境之间复杂而动态的关系。同上
->
-> > [!axis] 问题解决与创造的构念位置
-> > 学者对构念外延采用不同标准，差异会直接改变课程内容与评估蓝图。
-> >
-> > - **Halpern** 把问题解决和[[Creativity|创造性]]思维纳入批判性思维技能体系。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 32, 34)]]
-> > - **Black** 将阅读理解、问题解决、创造和三段论置于构念边缘或外部。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 33–34)]]
-
-> [!critique-method] 分类与测量风险
-> - **清单化还原** 将程序性且细腻的思维过程压缩为行动词，容易忽略倾向、视角、领域标准和任务语境。同一命令词的出现不能单独证明批判性思维已经发生。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 34–35)]]
-> - **构念过宽** 把记忆、语言、问题解决和创造全部纳入后，概念可能覆盖大部分智力活动，研究者难以形成清楚且可检验的操作定义。同上
-> - **术语替代表现** 评分标准依赖专门词汇时，学生可能展示框架熟练度，实际的证据评价和反思判断没有获得同等测量。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, pp. 171–173)]]
-
-> [!tension] 批判性思维议程与科学教育议程
-> - **开放审查立场** 批判性思维允许学生检验任何知识主张，包括科学权威、价值预设和社会影响，评价标准应聚焦论证质量。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, p. 181)]]
-> - **科学知识传播立场** 学校科学教育承担传授关于物质世界之可靠知识的责任，因此会为开放质疑设置学科内容和规范边界。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, pp. 179–180)]]
+> > [[Generative Artificial Intelligence|生成式 AI]] 输出的极度流畅与自信表象极大降低了思维门槛，但容易钝化学生的反思审视与怀疑本能；唯有在教学中主动设计对抗性查错与论据辩护等“[[Epistemic Friction|认识论摩擦]]”，才能维系批判性思维的[[Growth|生长]]（[[Argument_Li_2026_CEAI|Li et al., 2026]]; Medina, 2013）。
 
 > [!warning] 教学与改革边界
 > - 高中生的认知发展水平可能限制证据比较和决策标准阐明，课程目标与评估要求需要考虑发展适切性。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, pp. 173–174)]]
@@ -503,5 +416,5 @@ updated: 2026-09-01
 > - **教学策略元分析与复合干预** [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] 综合 341 项实验与准[[Experimental Research|实验研究]]，确立了[[Authentic Instruction|真实性教学]]、[[Dialogue in Education|对话]]与[[Mentorship|导师制]]三维协同对批判性思维技能与倾向的最高干预效应（$g+ = 0.57$）。
 > - **[[Problem-Based Learning|PBL]] 与[[Meta-meta-analysis|二阶元分析]]实证** [[Argument_Erdem_2026_SHE|Erdem et al. (2026)]] 综合 20 项一阶元分析，报告 PBL 对高等教育学生[[Critical Thinking|批判性思维]]的高效应（ES = 0.56），并将批判性思维作为结果类型之一纳入调节分析。
 > - **与[[Creativity|创造力]]关系的元分析实证** [[Argument_Park_2026_TSC|Park et al. (2026)]] 综合 29 项学生研究 51 个[[Effect Size|效应量]]，确立批判性思维与创造力中等正相关（$r = 0.386$），并证实测量类型显著调节相关，双主观测量组合相关最高（$r = 0.509$），提示自陈测量中的[[Common Method Variance|共同方法变异]]放大了观察相关。
-> - **[[Generative Artificial Intelligence|生成式人工智能]]整合[[Systematic Review|系统综述]]** [[Argument_Li_2026_CEAI|Li et al. (2026)]] 系统综述 67 项实证研究，揭示 ChatGPT 对批判性思维具有催化反思与诱发认知惰性的双重效应，并证实支架式教学是实现批判性与创造性思维双向增益的关键调节[[Variable|变量]]。
+> - **[[Generative Artificial Intelligence|生成式人工智能]]赋能与[[Epistemic Friction|认识论摩擦]]机制** [[Argument_Li_2026_CEAI|Li et al. (2026)]] [[Systematic Review|系统综述]] 67 项实证研究，揭示 ChatGPT 对批判性思维具有催化反思与诱发认知惰性的双重效应，确立了维持认识论摩擦与显性反思支架防范批判性论证退化的教学干预机制。
 > - **[[Critical Thinking Assessment|批判性思维测评]]与测量方法学** 参见专门概念条目 [[Critical Thinking Assessment|批判性思维测评]]，该条目系统整合了从心理测量学客观测试（[[Watson-Glaser Critical Thinking Appraisal|WGCTA]]/[[California Critical Thinking Skills Test|CCTST]]）、自陈倾向[[Questionnaire|问卷]]（[[California Critical Thinking Disposition Inventory|CCTDI]]/[[Critical Thinking Strategies Scale|CTSS]]）到校本真实性评分量规（[[VALUE Rubrics|VALUE]]/[[CALOHEE Project|CALOHEE]]）的工具谱系、共同方法变异机制及形成性[[Formative Assessment|促学评价]]生态。

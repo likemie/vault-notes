@@ -10,7 +10,7 @@ title: "Argument_Peterson_1987_OpenCourt_Ch01"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch01"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch01"
 argument_kind: "book-chapter"
-argument_related_count: 18
+argument_related_count: 17
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#fef3c7"
@@ -36,7 +36,6 @@ related_concepts:
   - "[[International Schools]]"
   - "[[Assemblage]]"
   - "[[Normal School]]"
-  - "[[Lost Mode]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -256,7 +255,7 @@ updated: 2026-08-17
 > - **单所学校承担试点功能** 创办者希望大西洋学院最终影响各国教育，但第一步是建立一所能够运行的学校，观察跨国招生、寄宿共同生活与共同任务能否形成持久关系（pp. 4–5）。
 
 > [!claim] 16 至 19 岁被视为跨文化学习的关键阶段
-> - **文化根基已经形成** 格奥尔格·威廉·弗里德里希·[[Georg Wilhelm Friedrich Hegel|黑格尔]]（Georg Wilhelm Friedrich Hegel）担任纽伦堡文理中学校长时，把这一年龄视为接触其他文化的适合阶段。青年已在本国文化中形成一定根基，跨文化接触较少造成身份[[Lost Mode|迷失]]。
+> - **文化根基已经形成** 格奥尔格·威廉·弗里德里希·[[Georg Wilhelm Friedrich Hegel|黑格尔]]（Georg Wilhelm Friedrich Hegel）担任纽伦堡文理中学校长时，把这一年龄视为接触其他文化的适合阶段。青年已在本国文化中形成一定根基，跨文化接触较少造成身份迷失。
 > - **学习开放性仍然较高** 这一年龄的青年仍能迅速学习新的语言、习惯和关系规则，也能够在离开原有家庭与学校环境后重新组织日常生活。
 > - **教育阶段连接高等教育** 创办者希望学生回国升入大学，并在成年后发挥社会影响，因此把项目放在中学最后两年，年龄大约为 16 至 19 岁。
 > - **目标是扎根的国际主义** 学生继续作为美国人、英国人、法国人、德国人、墨西哥人、俄罗斯人及其他国家的人生活，同时增进相互理解、合作并建立跨国友谊（p. 5）。

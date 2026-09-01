@@ -9,7 +9,7 @@ aliases:
 summary: "基于逻辑规则与领域证据，对多重线索与信息进行批判性审视、筛选、演绎推导并收敛至唯一最优解的逻辑推理认知过程"
 type: concept
 domain: "educational-psychology"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -42,6 +42,7 @@ related_methods:
   - "[[Meta-meta-analysis]]"
 related_instruments:
   - "[[Remote Associates Test]]"
+  - "[[Alternate Uses Test]]"
 related_persons:
   - "[[Mark A. Runco]]"
 related_facts: []
@@ -87,7 +88,7 @@ updated: 2026-08-25
 > |---|---|---|---|
 > | **认知导向** | **收敛求同** 指向确定性最优解与正确答案 | **发散求异** 指向多方向、新颖多样的替代方案 | **审慎求证** 指向对断言、论据与推理过程的系统反思与评估 |
 > | **核心评价指标** | 逻辑有效性、严密性、准确性与一致性 | 流畅性、灵活性、独创性与精细性 | 论据充分性、逻辑自洽性、[[Reflexivity\|反思性]]与偏见识别 |
-> | **典型测评任务** | 标准化演绎多选题、[[Remote Associates Test\|远距离联想测验]]、逻辑难题 | 非常规用途测验、托兰斯测验、头脑风暴构想生成 | 论证结构分析、逻辑谬误识别、开放性论辩评估短文 |
+> | **典型测评任务** | 标准化演绎多选题、[[Remote Associates Test\|远距离联想测验]]、逻辑难题 | [[Alternate Uses Test\|非常规用途测验]]、托兰斯测验、头脑风暴构想生成 | 论证结构分析、逻辑谬误识别、开放性论辩评估短文 |
 > | **[[Graphic Organizer\|图形组织器]]干预效应** | **中等显著促进（$g = 0.680$）** | **强效显著促进（$g = 1.167$）** | **中等至强效促进（$g = 0.70$–$0.85$）** |
 
 ---

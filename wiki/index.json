@@ -834,7 +834,9 @@
     "aliases": [
       "人工智能素养",
       "批判性人工智能素养",
-      "AI and Critical Digital Literacy"
+      "AI and Critical Digital Literacy",
+      "critical AI literacy",
+      "artificial intelligence literacy"
     ]
   },
   {
@@ -2858,6 +2860,20 @@
     ]
   },
   {
+    "title": "Illusion of Competence",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Illusion of Competence.md",
+    "aliases": [
+      "能力错觉",
+      "虚假能力错觉",
+      "语义流畅性启发式",
+      "Fluency Heuristic",
+      "Illusion of Knowing",
+      "illusion of competence",
+      "fluency illusion"
+    ]
+  },
+  {
     "title": "Independent Knowing",
     "type": "concept",
     "path": "wiki/concepts/educational-psychology/Independent Knowing.md",
@@ -3040,6 +3056,21 @@
       "AI Agents in Education",
       "Educational AI Agent",
       "AI Agent"
+    ]
+  },
+  {
+    "title": "AI Hallucination",
+    "type": "concept",
+    "path": "wiki/concepts/educational-technology/AI Hallucination.md",
+    "aliases": [
+      "AI幻觉",
+      "人工智能幻觉",
+      "大模型幻觉",
+      "Hallucination in AI",
+      "Machine Hallucination",
+      "Algorithmic Hallucination",
+      "LLM Hallucination",
+      "幻觉"
     ]
   },
   {
@@ -5050,7 +5081,9 @@
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Structured Teaching.md",
     "aliases": [
-      "结构化教学"
+      "结构化教学",
+      "structured instruction",
+      "结构化教学设计"
     ]
   },
   {
@@ -5223,6 +5256,19 @@
     ]
   },
   {
+    "title": "Educational Affordances",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Educational Affordances.md",
+    "aliases": [
+      "教育技术可供性",
+      "技术可供性",
+      "可供性",
+      "Educational Affordance",
+      "affordances",
+      "technological affordances"
+    ]
+  },
+  {
     "title": "Educative Conceptual Change",
     "type": "concept",
     "path": "wiki/concepts/learning-science-cognitive-science/Educative Conceptual Change.md",
@@ -5243,6 +5289,18 @@
       "entity theory of intelligence",
       "incremental theory of intelligence",
       "智力实体观与增长观"
+    ]
+  },
+  {
+    "title": "Epistemic Friction",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Epistemic Friction.md",
+    "aliases": [
+      "认识论摩擦",
+      "认知摩擦",
+      "Cognitive Friction",
+      "epistemic friction",
+      "productive friction"
     ]
   },
   {
@@ -5348,7 +5406,9 @@
       "元认知",
       "metacognitive",
       "metacognitive knowledge",
-      "metacognitive regulation"
+      "metacognitive regulation",
+      "元认知监控",
+      "metacognitive monitoring"
     ]
   },
   {
@@ -9678,8 +9738,7 @@
     "path": "wiki/concepts/sociology-of-education/Lost Mode.md",
     "aliases": [
       "迷失无从者",
-      "lost actor",
-      "迷失"
+      "lost actor"
     ]
   },
   {
@@ -10343,7 +10402,8 @@
       "活动理论",
       "cultural-historical activity theory",
       "CHAT",
-      "Engeström activity theory"
+      "Engeström activity theory",
+      "文化历史活动理论"
     ]
   },
   {
@@ -13865,6 +13925,20 @@
       "教师研究素养量表",
       "RLS",
       "Research Literacy Scale"
+    ]
+  },
+  {
+    "title": "Alternate Uses Test",
+    "type": "instrument",
+    "path": "wiki/instruments/tests/Alternate Uses Test.md",
+    "aliases": [
+      "AUT",
+      "另类用途测验",
+      "非常规用途测验",
+      "替代用途测验",
+      "Alternative Uses Task",
+      "Alternative Uses Test",
+      "Guilford's Alternate Uses Test"
     ]
   },
   {

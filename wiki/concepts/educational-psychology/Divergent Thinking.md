@@ -8,7 +8,7 @@ aliases:
 summary: "从单一问题或起点向多个不同方向生成多样化、新颖与丰富构想的认知过程，是创造潜能研究中最常用的操作化构念"
 type: concept
 domain: "educational-psychology"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -45,6 +45,7 @@ related_arguments:
 related_theories:
   - "[[Creative Problem Solving]]"
 related_instruments:
+  - "[[Alternate Uses Test]]"
   - "[[Torrance Tests of Creative Thinking]]"
   - "[[Remote Associates Test]]"
   - "[[Runco Ideational Behavior Scale]]"
@@ -65,7 +66,7 @@ updated: 2026-08-25
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向个体在不受固定标准答案约束下生成多样、独创与非常规观念的认知生成机制。
-> - **用途** 为评估与培养创造潜能提供标准化、可量化的认知任务指标（如非常规用途测验、[[Torrance Tests of Creative Thinking|托兰斯创造性思维测验]]）。
+> - **用途** 为评估与培养创造潜能提供标准化、可量化的认知任务指标（如[[Alternate Uses Test|非常规用途测验]]、[[Torrance Tests of Creative Thinking|托兰斯创造性思维测验]]）。
 > - **边界** 发散思维仅代表创造性认知加工中的构想生成阶段，不等于完整的创造力或最终的显性创造性成就。
 
 > [!citation-card]- 关键表述
@@ -87,7 +88,7 @@ updated: 2026-08-25
 > |---|---|---|---|
 > | **认知目标** | **发散生成** 产生多样化、新颖多向的构想与替代方案 | **收敛求精** 评估、筛选并收敛至唯一最优解 | **系统创造** 整合[[Problem Finding\|问题发现]]、观念生成、方案评估与产品实现 |
 > | **核心评价指标** | 流畅性、灵活性、独创性与精细性 | 逻辑有效性、精确性、一致性与最优性 | 新颖性与领域适切性的有机统一 |
-> | **典型测评任务** | 非常规用途测验、托兰斯图形/言语测验、头脑风暴任务 | 标准化演绎推理测验、[[Remote Associates Test\|远距离联想测验]] | 综合开放性劣构问题解决任务、[[Creativity\|创造性]]成就量表 |
+> | **典型测评任务** | [[Alternate Uses Test\|非常规用途测验]]、托兰斯图形/言语测验、头脑风暴任务 | 标准化演绎推理测验、[[Remote Associates Test\|远距离联想测验]] | 综合开放性劣构问题解决任务、[[Creativity\|创造性]]成就量表 |
 > | **[[Graphic Organizer\|图形组织器]]促学效应** | **强效显著促进（$g = 1.167$）** | **中等显著促进（$g = 0.680$）** | **中等至强效促进** |
 
 ---
