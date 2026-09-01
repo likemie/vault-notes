@@ -19,10 +19,55 @@ tags:
   - higher-education
   - creativity-training
   - divergent-thinking
-related_concepts: []
-related_theories: []
-related_methods: []
-related_instruments: []
+related_concepts:
+  - "[[Knowledge-Based Economy]]"
+  - "[[Creativity Training]]"
+  - "[[Creativity]]"
+  - "[[Divergent Thinking]]"
+  - "[[Variable]]"
+  - "[[Effect Size]]"
+  - "[[Problem Finding]]"
+  - "[[Operationalization]]"
+  - "[[Construct]]"
+  - "[[Document]]"
+  - "[[Publication Bias]]"
+  - "[[Funnel Plot]]"
+  - "[[Standard Error]]"
+  - "[[Pre-test and Post-test]]"
+  - "[[Sampling Error]]"
+  - "[[Hypothesis]]"
+  - "[[Confidence Interval]]"
+  - "[[Heterogeneity]]"
+  - "[[Sample Size Determination]]"
+  - "[[External Validity]]"
+  - "[[Hawthorne Effect]]"
+  - "[[Between-Study Variance]]"
+  - "[[Reliability]]"
+  - "[[Literature Search]]"
+  - "[[Externalization]]"
+  - "[[Working Memory]]"
+  - "[[Creative Self-Efficacy]]"
+  - "[[Metacognition]]"
+  - "[[Mind Mapping]]"
+  - "[[Critical Thinking]]"
+  - "[[Self-Efficacy]]"
+  - "[[Generative Artificial Intelligence]]"
+  - "[[Executive Function]]"
+related_theories:
+  - "[[Creative Problem Solving]]"
+related_methods:
+  - "[[Meta-analysis]]"
+  - "[[Three-Level Meta-Analysis]]"
+  - "[[Coding in Qualitative Research]]"
+  - "[[Meta-regression]]"
+  - "[[PRISMA]]"
+  - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Quasi-Experimental Designs]]"
+  - "[[Randomised Controlled Trials]]"
+related_instruments:
+  - "[[Torrance Tests of Creative Thinking]]"
+  - "[[Remote Associates Test]]"
+  - "[[Alternate Uses Test]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -38,9 +83,9 @@ title: "Argument_Guo_2025_TSC"
 argument_key: "Argument_Guo_2025_TSC"
 argument_display_title: "Effect of training programs on the creativity of university students: A multi-level meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 0
-argument_related_level: 0
-argument_related_stars: "☆"
+argument_related_count: 45
+argument_related_level: 3
+argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "Thinking Skills and Creativity"
 book_title: ""
@@ -55,14 +100,14 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> 在知识经济与技术驱动的时代背景下，面向大学生的[[Creativity Training|创造力训练]]项目是否能够有效提升高等教育学生的[[Creativity|创造力]]？具体影响量级多大？创造力的各个子维度（发散思维、图形、言语、词汇、问题解决、情绪创造力）是否存在响应差异？训练周期、训练方式、组织形式及学段层次等关键调节[[Variable|变量]]如何调制干预效果？（pp.1–3）
+> 在[[Knowledge-Based Economy|知识经济]]与技术驱动的时代背景下，面向大学生的[[Creativity Training|创造力训练]]项目是否能够有效提升高等教育学生的[[Creativity|创造力]]？具体影响量级多大？创造力的各个子维度（[[Divergent Thinking|发散思维]]、图形、言语、词汇、问题解决、情绪创造力）是否存在响应差异？训练周期、训练方式、组织形式及学段层次等关键调节[[Variable|变量]]如何调制干预效果？（pp.1–3）
 
 > [!claim] 核心主张
 > [[Creativity Training|创造力训练]]项目对大学生的多维[[Creativity|创造力]]表现具有中等且统计显著的正向促进效应（$g = 0.628$），其中创造性思维与图形创造力增益最为突出；干预成效受到训练周期的非线性调节并呈现倒 U 型时间特征（$< 2$ 个月中短期干预效果最优），且以言语认知训练与独立个体练习展现出更强的教学有效性。（pp.6–9）
 
 > [!concept-lens] 阅读透镜
 > - **对象** 2000–2024 年间发表的 29 项聚焦高校大学生创造力干预的实验与准实验实证研究（涵盖 109 个独立[[Effect Size|效应量]]与多国高校样本）。（pp.3–5, 10–11）
-> - **张力** 早期元分析（如 Torrance, 1972; Scott et al., 2004）多聚焦基础教育阶段儿童或混合人群，关于成年大学生认知定势固化背景下创造潜能的教育可塑性、时间窗口与最优教学策略存在长期争议与循证盲区。（pp.1–3）
+> - **张力** 早期[[Meta-analysis|元分析]]（如 Torrance, 1972; Scott et al., 2004）多聚焦基础教育阶段儿童或混合人群，关于成年大学生认知定势固化背景下创造潜能的教育可塑性、时间窗口与最优教学策略存在长期争议与循证盲区。（pp.1–3）
 > - **贡献** 运用多层[[Meta-analysis|元分析]]（[[Three-Level Meta-Analysis|三层元分析]]）框架克服效应量非独立性问题，量化确立了高校创造力训练的基准效应，实证揭示了干预周期的倒 U 型演变规律与认知言语训练的优势路径，为大学创新创业教育与课程改革提供了精细化的证据支持。（pp.6–9）
 
 ---
@@ -72,22 +117,22 @@ issuing_organization: ""
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **[[Creativity|创造力]]多维可塑性理论**<br>[[Creativity]] | 将创造力界定为涵盖认知加工、语言表达、视觉重组与情境问题解决的可塑心理潜能，打破天赋决定论，确立高等教育干预的理论前提。（pp.2–3） |
-> | **[[Divergent Thinking|发散思维]]与认知启发式框架**<br>[[Divergent Thinking]] | 视发散思维为创造性观念生成的核心引擎，解释思维训练与言语支架如何通过打破心理定势、拓宽语义联想激发独创构想。（pp.2–3, 8） |
-> | **[[Creative Problem Solving|创造性问题解决理论]]**<br>[[Creative Problem Solving]] | 强调从问题发现、观念发散到方案收敛评估的完整认知闭环，为技术型、任务型与综合干预设计提供过程模型。（pp.1–2, 8） |
+> | **[[Creativity\|创造力]]多维可塑性理论**<br>[[Creativity]] | 将创造力界定为涵盖认知加工、语言表达、视觉重组与情境问题解决的可塑心理潜能，打破天赋决定论，确立高等教育干预的理论前提。（pp.2–3） |
+> | **[[Divergent Thinking\|发散思维]]与认知启发式框架**<br>[[Divergent Thinking]] | 视发散思维为创造性观念生成的核心引擎，解释思维训练与言语支架如何通过打破心理定势、拓宽语义联想激发独创构想。（pp.2–3, 8） |
+> | **[[Creative Problem Solving\|创造性问题解决理论]]**<br>[[Creative Problem Solving]] | 强调从[[Problem Finding\|问题发现]]、观念发散到方案收敛评估的完整认知闭环，为技术型、任务型与综合干预设计提供过程模型。（pp.1–2, 8） |
 
 > [!warrant]- 理论如何支撑论证
-> 创造力理论的发展确立了创造潜能的教育可塑性（Educational Malleability），推翻了将创造力视为少数天才特权或固定天赋的宿命论；基于发散思维与认知启发式框架，本研究将大学生的创造力操作化分解为创造性思维、图形、言语、词汇、问题解决与情绪创造力六大维度，并通过多层模型检验不同干预机制对各维度的具体促进效应，构建起“干预属性—认知机制—多维表现”的完整论证链条。（pp.2–3, 8–9）
+> 创造力理论的发展确立了创造潜能的教育可塑性（Educational Malleability），推翻了将创造力视为少数天才特权或固定天赋的宿命论；基于发散思维与认知启发式框架，本研究将大学生的创造力[[Operationalization|操作化]]分解为创造性思维、图形、言语、词汇、问题解决与情绪创造力六大维度，并通过多层模型检验不同干预机制对各维度的具体促进效应，构建起“干预属性—认知机制—多维表现”的完整论证链条。（pp.2–3, 8–9）
 
 ### 核心变量与操作化编码表
 
-> [!index-table] 核心变量操作化定义与[[Coding in Qualitative Research|编码]]规程
-> | [[Variable|变量]]维度与分类 | [[Construct|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
+> [!index-table] 核心[[Variable|变量]]操作化定义与[[Coding in Qualitative Research|编码]]规程
+> | [[Variable\|变量]]维度与分类 | [[Construct\|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
 > |---|---|---|
-> | **创造性思维（Creative Thinking）** | 突破传统思维定势、进行发散性思考与多向探索的综合认知能力。 | 典型工具包含[[Torrance Tests of Creative Thinking|托兰斯创造性思维测验]]（TTCT）、成人托兰斯简式测验（ATTA）；代表研究如 Meinel et al. (2019)、Wang & Horng (2002)；$N = 24, g = 0.671$。 |
+> | **创造性思维（Creative Thinking）** | 突破传统思维定势、进行发散性思考与多向探索的综合认知能力。 | 典型工具包含[[Torrance Tests of Creative Thinking\|托兰斯创造性思维测验]]（TTCT）、成人托兰斯简式测验（ATTA）；代表研究如 Meinel et al. (2019)、Wang & Horng (2002)；$N = 24, g = 0.671$。 |
 > | **图形创造力（Graphic Creativity）** | 在视觉与非言语图形刺激中进行构思、重组并生成原创视觉作品的能力。 | 典型工具包含 TTCT 图形版（TTCT-F）、绘图生成测验（TCT-DP）、设计评估（CEDA）；代表研究如 Kienitz et al. (2014)、Morin et al. (2018)；$N = 27, g = 0.644$。 |
-> | **词汇创造力（Words Creativity）** | 基于字词语义进行快速远距离联想与新颖词汇重组的语言认知表现。 | 典型工具包含[[Remote Associates Test|远距离联想测验]]（RAT）、过泛思维训练任务（OTT）；代表研究如 Chiu (2015)、Zitek & Vincent (2015)；$N = 16, g = 0.641$。 |
-> | **言语创造力（Verbal Creativity）** | 运用口头或书面语言生成丰富、多样且新颖观点与非常规用途的表达潜能。 | 典型工具包含[[Alternate Uses Test|另类用途测验]]（AUT / GAU）、TTCT 言语版；代表研究如 Fink et al. (2015)、Lewis & Lovatt (2013)、Gu et al. (2023)；$N = 23, g = 0.606$。 |
+> | **词汇创造力（Words Creativity）** | 基于字词语义进行快速远距离联想与新颖词汇重组的语言认知表现。 | 典型工具包含[[Remote Associates Test\|远距离联想测验]]（RAT）、过泛思维训练任务（OTT）；代表研究如 Chiu (2015)、Zitek & Vincent (2015)；$N = 16, g = 0.641$。 |
+> | **言语创造力（Verbal Creativity）** | 运用口头或书面语言生成丰富、多样且新颖观点与非常规用途的表达潜能。 | 典型工具包含[[Alternate Uses Test\|另类用途测验]]（AUT / GAU）、TTCT 言语版；代表研究如 Fink et al. (2015)、Lewis & Lovatt (2013)、Gu et al. (2023)；$N = 23, g = 0.606$。 |
 > | **问题解决（Problem-Solving）** | 针对不良结构情境识别障碍、构思替代路径并实现目标突破的实践能力。 | 典型工具包含原创性量表（OSVM）、问题解决问卷（PSI）、重组测验（WRT）；代表研究如 Baruah & Paulus (2008)、O'Connor et al. (2016)；$N = 10, g = 0.539$。 |
 > | **情绪创造力（Emotional Creativity）** | 个体体验、表达与调节独特、复杂且适切情绪模式的非认知创造潜能。 | 典型工具包含情绪创造力量表（ECI）、主观运动体验量表（SEES）；代表研究如 Mahasneh & Gazo (2019)、Campion & Levita (2014)；$N = 9, g = 0.397$。 |
 > | **训练周期（Duration）** | 干预方案实施的整体时间跨度，分为 $< 1$ 周、$< 2$ 个月、$< 4$ 个月、$< 1$ 年、$< 2$ 年、$< 3$ 年六个梯度。 | 短期密集工作坊至多学期长程课程；亚组分布 $N = 37, 30, 24, 9, 4, 5$；在元回归中解释 13.4% 组间方差。 |
@@ -95,7 +140,7 @@ issuing_organization: ""
 > | **活动组织形式（Activity Type）** | 训练实施过程中学习者参与互动的组织结构，分为独立训练（Alone）与小组协作训练（Group）。 | 独立个体练习（$N = 48$）对比合作探究小组（$N = 61$）。 |
 > | **学段层次（Academic Level）** | 参与干预的大学阶段教育对象层次，分为本科生（Undergraduate）与研究生（Graduate）。 | 本科生群体（$N = 107$）对比研究生群体（$N = 2$）。 |
 >
-> **图表解读** 本表系统梳理了元分析中多维创造力结果构念的测量工具与代表研究，并明确界定了训练周期、训练方式、组织形式与学段层次四大核心调节变量的操作化分类，为后续的多水平方差分解与元回归分析奠定编码基准。（pp.4–7, 10–11）
+> **图表解读** 本表系统梳理了[[Meta-analysis|元分析]]中多维创造力结果构念的测量工具与代表研究，并明确界定了训练周期、训练方式、组织形式与学段层次四大核心调节变量的操作化分类，为后续的多水平方差分解与[[Meta-regression|元回归分析]]奠定编码基准。（pp.4–7, 10–11）
 
 ---
 
@@ -104,20 +149,20 @@ issuing_organization: ""
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **文献检索与筛选**<br>Systematic Literature Search & [[PRISMA]] | 遵循 PRISMA 指南系统检索 Web of Science、Scopus、ScienceDirect、PubMed、ERIC 等数据库（2000–2024 年）；采用布尔逻辑检索、文献滚雪球法与专家咨询两阶段策略；经双人独立筛选与第三方复核，最终纳入 29 项实证研究。（pp.3–5） |
+> | **文献检索与筛选**<br>Systematic Literature Search & [[PRISMA]] | 遵循 PRISMA 指南系统检索 Web of Science、Scopus、ScienceDirect、PubMed、ERIC 等数据库（2000–2024 年）；采用布尔逻辑检索、[[Document\|文献]]滚雪球法与专家咨询两阶段策略；经双人独立筛选与第三方复核，最终纳入 29 项实证研究。（pp.3–5） |
 > | **效应量计算**<br>[[Effect Size]] Calculation (Hedges' $g$) | 提取各实验组与对照组（或前后测）的均值、标准差及样本量，采用小样本无偏校正的 Hedges' $g$ 作为效应量指标；依据 Cohen 准则将 0.2、0.5、0.8 分别界定为小、中、大效应。（p.5） |
-> | **多层元分析与元回归**<br>[[Three-Level Meta-Analysis]] & [[Meta-regression]] | 运用 Comprehensive Meta-Analysis（CMA v3.070）构建多层随机效应模型（[[Fixed-Effect and Random-Effects Models|Random-Effects Model]]），妥善处理单项研究内多个效应量的嵌套依赖性；通过 $Q$ 检验与 $I^2$ 评估异质性，并以亚组分析与元回归检验调节变量。（pp.5–7） |
-> | **发表偏倚诊断**<br>[[Publication Bias]] Analysis & [[Funnel Plot]] | 绘制包含 109 个效应量的标准误漏斗图，通过散点分布形态与对称性检验评估潜在发表偏倚风险。（pp.5–6） |
+> | **多层元分析与元回归**<br>[[Three-Level Meta-Analysis]] & [[Meta-regression]] | 运用 Comprehensive Meta-Analysis（CMA v3.070）构建多层随机效应模型（[[Fixed-Effect and Random-Effects Models\|Random-Effects Model]]），妥善处理单项研究内多个效应量的嵌套依赖性；通过 $Q$ 检验与 $I^2$ 评估异质性，并以亚组分析与元回归检验调节变量。（pp.5–7） |
+> | **发表偏倚诊断**<br>[[Publication Bias]] Analysis & [[Funnel Plot]] | 绘制包含 109 个效应量的[[Standard Error\|标准误]]漏斗图，通过散点分布形态与对称性检验评估潜在发表偏倚风险。（pp.5–6） |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |----------|------|
 > | **文献样本** | 共纳入 29 篇实证文献，涵盖 109 个独立效应量；发表时间跨越 2000 年至 2024 年。（pp.1, 4–5） |
 > | **地理与国别分布** | 涵盖美国（8项）、中国（含台湾地区，4项）、英国（2项）、德国（2项）、加拿大（2项）、法国（2项）、希腊（2项）、奥地利、土耳其、丹麦、荷兰、约旦、波兰、阿联酋等。（pp.10–11） |
-> | **对照组类型分布** | 对照组设计分为五类：a = 无训练（3项）；b = 接受不同类型的替代训练（20项）；c = 等待名单/后测后补训（4项）；d = 情商训练对照（1项）；e = 神经创造力对照（1项）。 |
+> | **对照组类型分布** | 对照组设计分为五类：a = 无训练（3项）；b = 接受不同类型的替代训练（20项）；c = 等待名单/[[Pre-test and Post-test\|后测]]后补训（4项）；d = 情商训练对照（1项）；e = 神经[[Creativity\|创造力]]对照（1项）。 |
 
-> [!design-notation] 纳入研究的实验与准实验设计记号
-> 纳入的 29 项实证研究主要涵盖随机对照实验设计（RCT）与准实验前后测非等价对照组设计（pp.4–5, 10–11）：
+> [!design-notation] 纳入研究的实验与[[Quasi-Experimental Designs|准实验设计]]记号
+> 纳入的 29 项实证研究主要涵盖[[Randomised Controlled Trials|随机对照实验]]设计（RCT）与准实验前后测非等价对照组设计（pp.4–5, 10–11）：
 >
 > - **随机对照双组设计（RCT）** *R* ==O₁== `X` ==O₂==
 > - **随机对照组（替代干预/无干预）** *R* ==O₃== `X_ctrl` ==O₄==
@@ -130,9 +175,9 @@ issuing_organization: ""
 > [!formula-step] 公式步骤　多层随机效应模型与方差分解
 > $$y_{ij} = \mu + \zeta_{(3)j} + \zeta_{(2)ij} + \epsilon_{ij}$$
 >
-> **这个公式在做什么** 将第 $j$ 项研究中第 $i$ 个观察效应量 $y_{ij}$（Hedges' $g$）分解为总体真实均值 $\mu$、研究间随机效应 $\zeta_{(3)j} \sim \mathcal{N}(0, \tau^2)$、研究内效应量间随机效应 $\zeta_{(2)ij}$ 以及已知抽样误差 $\epsilon_{ij} \sim \mathcal{N}(0, v_{ij})$。
+> **这个公式在做什么** 将第 $j$ 项研究中第 $i$ 个观察效应量 $y_{ij}$（Hedges' $g$）分解为总体真实均值 $\mu$、研究间随机效应 $\zeta_{(3)j} \sim \mathcal{N}(0, \tau^2)$、研究内效应量间随机效应 $\zeta_{(2)ij}$ 以及已知[[Sampling Error|抽样误差]] $\epsilon_{ij} \sim \mathcal{N}(0, v_{ij})$。
 >
-> **数学直觉** 传统元分析假设每个研究仅提供一个独立效应量；当单项研究报告多个创造力维度测验时，共享相同受试者导致统计依赖。多层模型通过分层方差分解，确保标准误估计与 95% 置信区间的无偏性。（p.5）
+> **数学直觉** 传统[[Meta-analysis|元分析]][[Hypothesis|假设]]每个研究仅提供一个独立效应量；当单项研究报告多个创造力维度测验时，共享相同受试者导致统计依赖。多层模型通过分层方差分解，确保标准误估计与 95% [[Confidence Interval|置信区间]]的无偏性。（p.5）
 
 > [!example]- 图1：纳入研究的 PRISMA 筛选流程图
 > ![](https://img.mylikemie.icu/sources/Guo_2025_TSC/figures/Guo_2025_TSC_Fig1_PRISMA_Flowchart.jpg)
@@ -145,10 +190,10 @@ issuing_organization: ""
 > | 研究文献 | 国别 | 测量工具 | 设计 | 样本 (EG/CG) | 对照活动 | 周期 | 形式 | 训练类型 |
 > |---|---|---|---|---|---|---|---|---|
 > | Baruah & Paulus (2008) | 美国 | OSVM | EG/CG | 11 / 11 | a（无训练） | < 1 周 | Group | Combined |
-> | Campion & Levita (2014) | 英国 | SEES, TTCT | EG/CG | 56 / 56 | b（替代训练） | < 2 个月 | Alone | Verbal |
+> | Campion & Levita (2014) | 英国 | SEES, [[Torrance Tests of Creative Thinking\|TTCT]] | EG/CG | 56 / 56 | b（替代训练） | < 2 个月 | Alone | Verbal |
 > | Chiu (2015) | 中国台湾 | OTT | EG/CG | 39 / 39 | b（替代训练） | < 1 周 | Alone | Combined |
-> | Fink et al. (2015) | 奥地利 | AUT | EG/CG | 24 / 29 | b（替代训练） | < 2 个月 | Group | Verbal |
-> | Hargrove & Nietfeld (2015) | 美国 | RAT, MAI | Pre/Post | 118 / 88 | b（替代训练） | < 4 个月 | Alone | Thinking |
+> | Fink et al. (2015) | 奥地利 | [[Alternate Uses Test\|AUT]] | EG/CG | 24 / 29 | b（替代训练） | < 2 个月 | Group | Verbal |
+> | Hargrove & Nietfeld (2015) | 美国 | [[Remote Associates Test\|RAT]], MAI | Pre/Post | 118 / 88 | b（替代训练） | < 4 个月 | Alone | Thinking |
 > | Karakelle (2009) | 土耳其 | OSVM | Pre/Post | 15 / 15 | c（后测补训） | < 4 个月 | Alone | Combined |
 > | Kienitz et al. (2014) | 美国 | TTCT-F, NEO-FFI | EG/CG | 15 / 13 | b（替代训练） | < 2 个月 | Alone | Verbal |
 > | Lewis & Lovatt (2013) | 英国 | AUT | EG/CG | 21 / 20 | b（替代训练） | < 1 周 | Group | Verbal |
@@ -175,9 +220,9 @@ issuing_organization: ""
 > | Vally et al. (2019) | 阿联酋 | TTCT | EG/CG, Pre/Post | 总数 133 | e（神经训练） | < 4 个月 | Group | Task-based |
 >
 > **图表解读** 
-> 1. **样本与地理异质性** 纳入文献横跨北美、欧洲、东亚及中东 14 个国家/地区，样本量从小型实验（$N = 22$）到中大型教学实验（$N = 206$），保障了跨文化情境的外部效度。
-> 2. **对照组设计的严谨性** 绝大多数研究（20/29）采用替代干预（Active Control）而非纯空白对照，有效控制了霍桑效应与安慰剂效应。
-> 3. **测量工具的多样性** 涵盖经典发散心理测量（TTCT、AUT）、联想重组测验（RAT、OTT）、真实性设计与作品评价（CEDA、WRT）及情绪创造力量表（ECI），为细分构念响应分析提供了完整的数据基础。（pp.10–11）
+> 1. **样本与地理[[Heterogeneity|异质性]]** 纳入文献横跨北美、欧洲、东亚及中东 14 个国家/地区，[[Sample Size Determination|样本量]]从小型实验（$N = 22$）到中大型教学实验（$N = 206$），保障了跨文化情境的[[External Validity|外部效度]]。
+> 2. **对照组设计的严谨性** 绝大多数研究（20/29）采用替代干预（Active Control）而非纯空白对照，有效控制了[[Hawthorne Effect|霍桑效应]]与安慰剂效应。
+> 3. **测量工具的多样性** 涵盖经典发散心理测量（TTCT、AUT）、联想重组测验（RAT、OTT）、真实性设计与作品评价（CEDA、WRT）及情绪创造力量表（ECI），为细分[[Construct|构念]]响应分析提供了完整的数据基础。（pp.10–11）
 
 ---
 
@@ -204,12 +249,12 @@ issuing_organization: ""
 ### 论证步骤一：文献综合与全域效应估计——确立创造力干预对高校学生的中等促进基准
 
 > [!claim]
-> 实证研究数据有力支持了创造力训练在高等教育阶段的有效性；多层随机效应模型表明，创造力干预对大学生的创造力水平产生中等且高度统计显著的正向促进效应（$g = 0.628, p < 0.001$），且实证结果不存在显著的发表偏倚。（pp.6–7）
+> 实证研究数据有力支持了[[Creativity Training|创造力训练]]在高等教育阶段的有效性；多层[[Fixed-Effect and Random-Effects Models|随机效应模型]]表明，创造力干预对大学生的[[Creativity|创造力]]水平产生中等且高度统计显著的正向促进效应（$g = 0.628, p < 0.001$），且实证结果不存在显著的发表偏倚。（pp.6–7）
 
-> [!ma-table]- 全域效应量与异质性检验表（Table 1 复刻）
+> [!ma-table]- 全域[[Effect Size|效应量]]与[[Heterogeneity|异质性]]检验表（Table 1 复刻）
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 模型设定 | 研究数 $k$ | 点估计 $g$ | 标准误 $SE$ | 方差 $V$ | 95% 置信区间 | 检验统计量 $Z$ | 显著性 $P$ |
+> | 模型设定 | 研究数 $k$ | 点估计 $g$ | 标准误 $SE$ | 方差 $V$ | 95% [[Confidence Interval\|置信区间]] | 检验统计量 $Z$ | 显著性 $P$ |
 > |---|---|---|---|---|---|---|---|
 > | **固定效应模型（Fixed）** | 29 | 0.572 | 0.034 | 0.001 | [0.504, 0.639] | 16.645 | < .001 |
 > | **随机效应模型（Random）** | 29 | 0.628 | 0.092 | 0.009 | [0.446, 0.809] | 6.788 | < .001 |
@@ -219,19 +264,19 @@ issuing_organization: ""
 > | **统计数值** | 178.507 | 28 | < .001 | 84.314% | 0.189 | 0.435 |
 >
 > **图表解读** 
-> 1. **总体效应量级** 随机效应模型点估计为 $g = 0.628$（95% CI $[0.446, 0.809]$），依据 Cohen 标准达到中等偏上效应，有力推翻了“成年期创造潜能固化不可塑”的假设。
+> 1. **总体效应量级** 随机效应模型点估计为 $g = 0.628$（95% CI $[0.446, 0.809]$），依据 Cohen 标准达到中等偏上效应，有力推翻了“成年期创造潜能固化不可塑”的[[Hypothesis|假设]]。
 > 2. **模型选择依据** 异质性检验 $I^2 = 84.314\% > 75\%$ 且 $Q(28) = 178.507$（$p < 0.001$），表明效应量的变异主要来自各研究间真实的教学设计与情境差异而非抽样误差，因而随机效应模型与后续调节分析具有充分的方法学正当性。（p.6）
 
 > [!evidence-grid]- 支持全域效应与偏倚检验的论述证据
 > - **统计显著的中等干预效应** 多层随机效应模型综合 29 项研究 109 个效应量，确立了干预对大学生综合创造力的稳健提升，置信区间完全处于正向显著区间。
-> - **高度异质性提示深层调节机制** 极高比例的研究间真实方差（$I^2 > 84\%$）表明，干预效果不仅取决于“是否训练”，更高度依赖于“如何训练”与“训练多久”。
-> - **低发表偏倚风险保障结论可信度** 漏斗图散点对称聚集于均值顶部，未出现小样本极端正向效应扎堆的右偏不对称现象，表明文献检索与纳入较为全面。（pp.5–6）
+> - **高度异质性提示深层调节机制** 极高比例的[[Between-Study Variance|研究间真实方差]]（$I^2 > 84\%$）表明，干预效果不仅取决于“是否训练”，更高度依赖于“如何训练”与“训练多久”。
+> - **低[[Publication Bias|发表偏倚]]风险保障结论可[[Reliability|信度]]** [[Funnel Plot|漏斗图]]散点对称聚集于均值顶部，未出现小样本极端正向效应扎堆的右偏不对称现象，表明[[Literature Search|文献检索]]与纳入较为全面。（pp.5–6）
 
-> [!example]- 图2：109 个效应量的标准误漏斗图
+> [!example]- 图2：109 个效应量的[[Standard Error|标准误]]漏斗图
 > ![](https://img.mylikemie.icu/sources/Guo_2025_TSC/figures/Guo_2025_TSC_Fig2_Funnel_Plot.jpg)
 
 > [!warrant]- 推理桥梁
-> 全域中等效应量的确立构成了论证的经验基石；然而高达 84.3% 的异质性揭示了干预成效的内部结构分化，必须进一步将总效应分解为多维构念响应（论证步骤二）与教学设计调节机制（论证步骤三），才能形成对高等教育实践具有指导价值的因果解释。（pp.6–8）
+> 全域中等效应量的确立构成了论证的经验基石；然而高达 84.3% 的异质性揭示了干预成效的内部结构分化，必须进一步将总效应分解为多维[[Construct|构念]]响应（论证步骤二）与教学设计调节机制（论证步骤三），才能形成对高等教育实践具有指导价值的因果解释。（pp.6–8）
 
 ---
 
@@ -260,11 +305,11 @@ issuing_organization: ""
 
 > [!evidence-grid]- 子维度响应差异的认知机制论述
 > - **思维发散与视觉表征的强可塑性** 启发式思维训练和发散演练能够迅速解除大学生的功能固着（Functional Fixedness），直接促进图形与思维任务中的观念流畅性与独创性。
-> - **语义重组与言语外化的认知通道** 字词联想任务与非常规用途测试依赖于工作记忆中的远距离语义激活，经过显性联想策略引导后呈现出稳健的增益。
+> - **语义重组与言语[[Externalization|外化]]的认知通道** 字词联想任务与非常规用途测试依赖于[[Working Memory|工作记忆]]中的远距离语义激活，经过显性联想策略引导后呈现出稳健的增益。
 > - **情绪构念与认知任务的转化阻滞** 情绪创造力涉及情感情境的深度体验与自我表达，难以仅凭短期课堂干预在标准化情商或体验量表上产生大幅跃升。（pp.7–9）
 
 > [!warrant]- 推理桥梁
-> 构念响应的非均质性证明了创造力并非单一无差别的心理特质，而是包含发散认知、语言重组、视觉表征与情感情绪的多维系统；教学干预应针对不同构念的认知特性设计适配的教学支架，优先从发散思维与图形表征切入以实现效能最大化。（pp.7–9）
+> 构念响应的非均质性证明了创造力并非单一无差别的心理特质，而是包含发散认知、语言重组、视觉表征与情感情绪的多维系统；教学干预应针对不同构念的认知特性设计适配的教学支架，优先从[[Divergent Thinking|发散思维]]与图形表征切入以实现效能最大化。（pp.7–9）
 
 ---
 
@@ -273,7 +318,7 @@ issuing_organization: ""
 > [!claim]
 > 创造力训练的效果受教学设计特征与实施环境的显著调节：干预周期呈现倒 U 型曲线关系，中短期干预（$< 2$ 个月）成效最佳（$g = 0.844$），长周期训练效果明显衰减；在教学方式上，言语训练（$g = 0.998$）与思维训练（$g = 0.762$）效果最为显著；在组织形态与对象上，独立练习（$g = 0.682$）优于小组协作（$g = 0.567$），研究生群体的干预响应（$g = 0.991$）高于本科生（$g = 0.613$）。（pp.6–8）
 
-> [!ma-table]- 调节变量亚组与元回归分析表（Table 3 复刻）
+> [!ma-table]- 调节[[Variable|变量]]亚组与[[Meta-regression|元回归分析]]表（Table 3 复刻）
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
 >
 > | 调节维度 | 亚组分类 | 效应量数 $N$ | Hedges' $g$ | 标准误 $SE$ | 95% 置信区间 | 统计量 $Z$ | 显著性 $P$ |
@@ -314,11 +359,11 @@ issuing_organization: ""
 
 > [!case] 案例一　言语训练（Verbal Training，$g = 0.998$）
 > **代表研究** Fink et al. (2015); Campion & Levita (2014); Lewis & Lovatt (2013); Kienitz et al. (2014)
-> **操作规程与机制** 通过显性语言表达任务、词汇概念重构、发散性用途叙述及导师即时言语反馈展开干预。语言符号的即时外化能够帮助学生迅速澄清认知模糊，而积极的言语鼓励与同行观念交流直接增强了学生的创造自我效能感与心理安全感，因而在后测中呈现出最高的效应量（$g = 0.998$）。（pp.7–8, 10–11）
+> **操作规程与机制** 通过显性语言表达任务、词汇概念重构、发散性用途叙述及导师即时言语反馈展开干预。语言符号的即时外化能够帮助学生迅速澄清认知模糊，而积极的言语鼓励与同行观念交流直接增强了学生的[[Creative Self-Efficacy|创造自我效能]]感与心理安全感，因而在[[Pre-test and Post-test|后测]]中呈现出最高的效应量（$g = 0.998$）。（pp.7–8, 10–11）
 
 > [!case] 案例二　思维训练（Thinking Training，$g = 0.762$）
 > **代表研究** Meinel et al. (2019); Onarheim & Friis-Olivarius (2013); Hargrove & Nietfeld (2015); Robbins & Kegley (2010); Wang & Horng (2002)
-> **操作规程与机制** 聚焦于元认知监控、侧向思维难题（Lateral Thinking Puzzles）、头脑风暴与思维导图绘制，旨在系统挑战认知固着并拓展注意力广度。例如结合神经认知机制训练，引导学生理解大脑远距离联想的抑制解除过程，有效提升了发散思维流畅性与独创性。（pp.7–8, 10–11）
+> **操作规程与机制** 聚焦于[[Metacognition|元认知监控]]、侧向思维难题（Lateral Thinking Puzzles）、头脑风暴与[[Mind Mapping|思维导图]]绘制，旨在系统挑战认知固着并拓展注意力广度。例如结合神经认知机制训练，引导学生理解大脑远距离联想的抑制解除过程，有效提升了发散思维流畅性与独创性。（pp.7–8, 10–11）
 
 > [!case] 案例三　任务型与技术型训练（Task-based $g = 0.685$ & Technique-based $g = 0.552$）
 > **代表研究** Vally et al. (2019); Ritter & Mostert (2017); Malycha & Maier (2017); Puccio et al. (2020); Fleury et al. (2020); Morin et al. (2018)
@@ -333,37 +378,37 @@ issuing_organization: ""
 > **操作规程与机制** 采用情绪智力与情绪创造力量表（ECI）进行调适训练。实证结果显示短期情绪干预难以显著提升创造力，原因在于情绪智力与移情体验向可观察的外显创新产出转化需要复杂的认知中介，且人格与情绪调节特质具有较强的抗变性。（pp.7–8, 10–11）
 
 > [!warrant]- 推理桥梁
-> 时间调节上的倒 U 型规律揭示了创造力训练的“认知饱和与疲劳效应”：过短的干预（$< 1$ 周）认知策略内化不足，而过长周期的训练（$> 1$ 年）易导致学习者注意力分散、动机疲劳或常规化倦怠，因此 1–2 个月的中短期强化训练最具成本效益比；独立个体练习（$g = 0.682$）优于小组协作（$g = 0.567$），是因为个体沉思能够有效规避群体互动中的评价顾虑（Evaluation Apprehension）与生产力阻塞（Production Blocking）；研究生群体表现更优（$g = 0.991$），得益于其更为深厚的专业知识底座与高阶批判性思维准备。（pp.7–9）
+> 时间调节上的倒 U 型规律揭示了创造力训练的“认知饱和与疲劳效应”：过短的干预（$< 1$ 周）认知策略内化不足，而过长周期的训练（$> 1$ 年）易导致学习者注意力分散、动机疲劳或常规化倦怠，因此 1–2 个月的中短期强化训练最具成本效益比；独立个体练习（$g = 0.682$）优于小组协作（$g = 0.567$），是因为个体沉思能够有效规避群体互动中的评价顾虑（Evaluation Apprehension）与生产力阻塞（Production Blocking）；研究生群体表现更优（$g = 0.991$），得益于其更为深厚的专业知识底座与高阶[[Critical Thinking|批判性思维]]准备。（pp.7–9）
 
 ---
 
 ### 论证步骤四：高等教育实践转化路径——高校创新课程与教学改革框架
 
 > [!claim]
-> 基于多层元分析实证证据，高等教育机构应系统重构创新创业与创造力课程生态，从课程周期配置、核心认知策略嵌入、组织模式平衡及师资专业发展四个维度推进教学改革。（pp.8–10）
+> 基于[[Three-Level Meta-Analysis|多层元分析]]实证证据，高等教育机构应系统重构创新创业与创造力课程生态，从课程周期配置、核心认知策略嵌入、组织模式平衡及师资专业发展四个维度推进教学改革。（pp.8–10）
 
 > [!pathways] 高校创造力教学改革四大实施路径
 > 1. **优化干预周期与课时架构** 摒弃长而无序的泛化灌输，重点打造 4–8 周（$< 2$ 个月）的高强度、模块化创造力思维工作坊或微专业课程，在学生认知动机峰值期实现启发式策略的快速精熟。
-> 2. **强化言语符号与发散认知策略嵌入** 教学设计应优先嵌入发散思维、远距离联想与言语表达任务，通过即时反馈与显式原创指导语增强学生的创造自我效能感，打破传统讲授式课堂的定势约束。
+> 2. **强化言语符号与发散认知策略嵌入** 教学设计应优先嵌入发散思维、远距离联想与言语表达任务，通过即时反馈与显式原创指导语增强学生的创造[[Self-Efficacy|自我效能感]]，打破传统讲授式课堂的定势约束。
 > 3. **构建“独立深思 + 协作碰撞”的混合组织生态** 避免全程无组织的群体头脑风暴，建立“个体先行深度发散构思 $\to$ 小组协作评估迭代原型”的分步实施流程，规避生产力阻塞与从众心理。（pp.8–9）
-> 4. **推进跨学科协同与师资创造性教学能力建设** 设立面向高校教师的创造力教学法专项培训，推动工程、艺术、人文与信息技术的跨学科项目合作，并积极引入生成式人工智能等智能工具作为发散构想的催化媒介。（pp.9–10）
+> 4. **推进跨学科协同与师资创造性教学能力建设** 设立面向高校教师的创造力教学法专项培训，推动工程、艺术、人文与信息技术的跨学科项目合作，并积极引入[[Generative Artificial Intelligence|生成式人工智能]]等智能工具作为发散构想的催化媒介。（pp.9–10）
 
 > [!warrant]- 实践转化推理桥梁
-> 课程改革必须基于实证效应量数据进行科学调配。将元分析识别出的最优参数（中短期周期、言语思维驱动、个体独立沉思保障）转化为具体的教学规程，能够最大限度克服高校创造力教育中常见的“表面热闹但实质平庸”与“动机倦怠”困境，实现从认知潜能向现实创新成果的高效转化。（pp.8–10）
+> 课程改革必须基于实证效应量数据进行科学调配。将[[Meta-analysis|元分析]]识别出的最优参数（中短期周期、言语思维驱动、个体独立沉思保障）转化为具体的教学规程，能够最大限度克服高校创造力教育中常见的“表面热闹但实质平庸”与“动机倦怠”困境，实现从认知潜能向现实创新成果的高效转化。（pp.8–10）
 
 ---
 
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **高校创造力干预具备中等且显著的促进效能** 基于 29 项实证研究与 109 个效应量的多层元分析表明，创造力训练能显著提升大学生的综合创造力水平（$g = 0.628, p < 0.001$）。（p.6）
+> 1. **高校[[Creativity Training|创造力干预]]具备中等且显著的促进效能** 基于 29 项实证研究与 109 个[[Effect Size|效应量]]的[[Three-Level Meta-Analysis|多层元分析]]表明，创造力训练能显著提升大学生的综合[[Creativity|创造力]]水平（$g = 0.628, p < 0.001$）。（p.6）
 > 2. **创造力各子维度响应呈现非均质特征** 创造性思维（$g = 0.671$）与图形创造力（$g = 0.644$）获得最大增益，词汇（$g = 0.641$）、言语（$g = 0.606$）与问题解决（$g = 0.539$）保持中等改善，情绪创造力增益相对有限（$g = 0.397$）。
 > 3. **干预时间跨度呈现倒 U 型非线性调节规律** 训练周期对干预成效具有显著调制作用并解释 13.4% 的组间方差，其中 $< 2$ 个月的训练效果最强（$g = 0.844$），长周期训练呈现效果边际递减甚至失效。
 > 4. **言语强化与认知思维策略构成最优干预抓手** 在干预方式中，言语训练（$g = 0.998$）与思维训练（$g = 0.762$）效果最为突出，且独立个体训练（$g = 0.682$）优于小组形式（$g = 0.567$）。（p.7）
 
 > [!stat-cards]- 核心数据
-> - **$g = 0.628$** 随机效应模型下创造力训练对大学生创造力的总体效应量（95% CI $[0.446, 0.809], p < 0.001$）。（p.6）
-> - **$I^2 = 84.314\%$** 效应量间的真实异质性比例指标（$Q = 178.507, \tau^2 = 0.189$）。
+> - **$g = 0.628$** [[Fixed-Effect and Random-Effects Models|随机效应模型]]下创造力训练对大学生创造力的总体效应量（95% CI $[0.446, 0.809], p < 0.001$）。（p.6）
+> - **$I^2 = 84.314\%$** 效应量间的真实[[Heterogeneity|异质性]]比例指标（$Q = 178.507, \tau^2 = 0.189$）。
 > - **$g = 0.844$** $< 2$ 个月干预周期的效应量峰值（解释 13.4% 组间方差）。
 > - **$g = 0.998$** 言语训练方式的效应量估计值（$SE = 0.286, p < 0.001$）。（p.7）
 
@@ -371,8 +416,8 @@ issuing_organization: ""
 
 ## 关键引用
 
-> [!citation-card]- 总体元分析结论
-> 总体而言，结果显示训练项目对大学生的创造力具有中等但在统计上显著的影响（Hedges' $g = 0.628, p = 0.000 < 0.01$）。这些发现为教育工作者和政策制定者在制定旨在培养学生创造力的课程和干预措施时提供了宝贵见解。（p.1）
+> [!citation-card]- 总体[[Meta-analysis|元分析]]结论
+> 总体而言，结果显示训练项目对大学生的[[Creativity|创造力]]具有中等但在统计上显著的影响（Hedges' $g = 0.628, p = 0.000 < 0.01$）。这些发现为教育工作者和政策制定者在制定旨在培养学生创造力的课程和干预措施时提供了宝贵见解。（p.1）
 >
 > *Overall, the results revealed a medium yet statistically significant impact of training programs on the creativity of university students (Hedges’ g = 0.628, p = 0.000 < 0.01). These findings offer valuable insights for educators and policymakers in formulating curricula and interventions aimed at fostering students’ creativity.*
 
@@ -382,12 +427,12 @@ issuing_organization: ""
 > *According to our analysis of “duration,” we identified a curvilinear relationship between the duration of training and its efficacy, characterized by an inverted U-shaped relationship. Initially, the training effectiveness increased with time. However, beyond a critical threshold, prolonged training duration led to a decline in effectiveness.*
 
 > [!citation-card]- 独立训练与深度沉思优势
-> 个体创造力训练为内省和高度专注提供了有利环境。参与者可以在没有外界干扰的情况下进行任务和练习，使他们能够完全沉浸在创造过程中。这种专注促进了对个人创造力的更深入探索，并鼓励参与者在不受群体动力影响的情况下自由产生想法。（p.8）
+> 个体[[Creativity Training|创造力训练]]为内省和高度专注提供了有利环境。参与者可以在没有外界干扰的情况下进行任务和练习，使他们能够完全沉浸在创造过程中。这种专注促进了对个人创造力的更深入探索，并鼓励参与者在不受群体动力影响的情况下自由产生想法。（p.8）
 >
 > *Individual creativity training offers a conducive environment for introspection and deep concentration. Participants can engage in tasks and exercises without external distractions, enabling them to fully immerse themselves in the creative process. This solitary focus facilitates a deeper exploration of personal creativity and encourages participants to freely generate ideas without the influence of group dynamics.*
 
 > [!citation-card]- 言语训练与认知技能核心价值
-> 言语训练产生了最显著的效果，强调了认知技能发展在创造力训练中的关键作用……针对发散思维和问题解决技能等认知过程的干预措施，能够有效促进学生在感知、注意、记忆、执行功能、逻辑推理和加工速度等方面的全面提升。（p.9）
+> 言语训练产生了最显著的效果，强调了认知技能发展在创造力训练中的关键作用……针对[[Divergent Thinking|发散思维]]和问题解决技能等认知过程的干预措施，能够有效促进学生在感知、注意、记忆、[[Executive Function|执行功能]]、逻辑推理和加工速度等方面的全面提升。（p.9）
 >
 > *Firstly, the results demonstrate that verbal training yields the most significant outcomes, underscoring the critical role of cognitive skill development in creativity training... Specifically, the design of such programs should prioritize interventions that target cognitive processes — such as divergent thinking and problem-solving skills — thereby facilitating improvements in students’ perception, attention, memory, executive function, logical reasoning, and processing speed.*
 
@@ -396,9 +441,9 @@ issuing_organization: ""
 ## 自述局限
 
 > [!warning]
-> 1. **调节变量覆盖范围有限** 本研究仅检验了训练周期、学段层次、活动组织形式与训练方式四个调节变量，基于特定认知导向的细分干预要素（如具体的注意力控制或工作记忆负荷策略）尚未能完全穷尽，有待未来实证研究深入细化。（pp.9–10）
-> 2. **研究生样本数据代表性不足** 纳入的 29 项实证研究中，仅有 2 项效应量涉及研究生群体，虽然点估计较高（$g = 0.991$），但因样本量极小，本科生与研究生之间的确切效应差异仍需在大样本数据中进一步验证。（pp.7, 10）
-> 3. **长期迁移与追踪效标缺失** 现有实证文献普遍依赖干预结束后的即时或短期测验分数，对创造力技能在真实专业领域及长期职业发展中的实际转化与远迁移效果缺乏追踪数据。（p.10）
+> 1. **调节[[Variable|变量]]覆盖范围有限** 本研究仅检验了训练周期、学段层次、活动组织形式与训练方式四个调节变量，基于特定认知导向的细分干预要素（如具体的注意力控制或[[Working Memory|工作记忆]]负荷策略）尚未能完全穷尽，有待未来实证研究深入细化。（pp.9–10）
+> 2. **研究生样本数据代表性不足** 纳入的 29 项实证研究中，仅有 2 项[[Effect Size|效应量]]涉及研究生群体，虽然点估计较高（$g = 0.991$），但因[[Sample Size Determination|样本量]]极小，本科生与研究生之间的确切效应差异仍需在大样本数据中进一步验证。（pp.7, 10）
+> 3. **长期迁移与追踪效标缺失** 现有实证[[Document|文献]]普遍依赖干预结束后的即时或短期测验分数，对[[Creativity|创造力]]技能在真实专业领域及长期职业发展中的实际转化与远迁移效果缺乏追踪数据。（p.10）
 
 ---
 
