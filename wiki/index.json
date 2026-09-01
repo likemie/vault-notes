@@ -817,6 +817,17 @@
     ]
   },
   {
+    "title": "Advanced Placement Program",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Advanced Placement Program.md",
+    "aliases": [
+      "大学先修课程项目",
+      "Advanced Placement",
+      "AP Program",
+      "AP课程"
+    ]
+  },
+  {
     "title": "AI Literacy",
     "type": "concept",
     "path": "wiki/concepts/curriculum/AI Literacy.md",
@@ -14886,6 +14897,16 @@
     ]
   },
   {
+    "title": "Gilbert Nicol",
+    "type": "person",
+    "path": "wiki/persons/global/Gilbert Nicol.md",
+    "aliases": [
+      "吉尔伯特·尼科尔",
+      "Gil Nicol",
+      "Nicol, G."
+    ]
+  },
+  {
     "title": "Eleftherios Klerides",
     "type": "person",
     "path": "wiki/persons/greece/Eleftherios Klerides.md",
@@ -17705,6 +17726,16 @@
     ]
   },
   {
+    "title": "International Baccalaureate North America",
+    "type": "fact",
+    "path": "wiki/facts/multi/International Baccalaureate North America.md",
+    "aliases": [
+      "国际文凭北美公司",
+      "IB North America",
+      "IBNA"
+    ]
+  },
+  {
     "title": "Best Evidence in Brief",
     "type": "fact",
     "path": "wiki/facts/multi/Best Evidence in Brief.md",
@@ -19862,6 +19893,11 @@
     "title": "Argument_Peterson_1987_OpenCourt_Ch05",
     "type": "argument",
     "path": "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch05.md"
+  },
+  {
+    "title": "Argument_Peterson_1987_OpenCourt_Ch06",
+    "type": "argument",
+    "path": "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch06.md"
   },
   {
     "title": "Argument_QiMei_2015_EducationalResearchMethods",

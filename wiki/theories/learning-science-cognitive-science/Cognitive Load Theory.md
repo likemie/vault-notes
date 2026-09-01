@@ -7,7 +7,7 @@ aliases:
 summary: "由 John Sweller 于 1988 年创立的经典学习与教学设计理论，以人类工作记忆容量有限与长时记忆图式无限为核心架构，解构内在负荷、外在负荷与相关负荷，主张通过减少外在负荷、优化内在负荷以促进图式建构和自动化。"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 34
+theory_related_count: 38
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Independent Variable]]"
   - "[[Intelligent Tutoring Systems]]"
+  - "[[Generative Artificial Intelligence]]"
   - "[[Creativity Training]]"
   - "[[Avatar]]"
   - "[[Metacognition]]"
@@ -41,6 +42,8 @@ related_concepts:
   - "[[Procedural Skill]]"
   - "[[Externalization]]"
   - "[[Reflexivity]]"
+  - "[[Creativity]]"
+  - "[[Cognitive Offloading]]"
 related_theories:
   - "[[Bounded Rationality]]"
 related_methods:
@@ -56,10 +59,11 @@ related_arguments:
   - "[[Argument_Lei_Ding_Chiu_2026_ERR]]"
   - "[[Argument_Liu_2026_CHBR]]"
   - "[[Argument_Skourdoumbis_2024_AER]]"
+  - "[[Argument_Li_2026_CEAI]]"
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-08-31
+updated: 2026-09-01
 ---
 
 # Cognitive Load Theory
@@ -161,7 +165,7 @@ updated: 2026-08-31
 
 > [!theory-use] 如何用于研究
 > - **作为微观教学设计与多媒体课件开发准则** 指导课件排版、多模态音画配置与样例分步呈现。
-> - **作为技术赋能实证研究的机制解释桥梁** 在评估[[Intelligent Tutoring Systems|智能导师系统]]（Intelligent Tutoring Systems, ITS）、[[Graphic Organizer|图形组织器]]或生成式 AI [[AI Agent in Education|智能体]]时，解释分步微提示如何降低程序性练习的外在负荷，释放[[Working Memory|工作记忆]]以赋能解题与技能自动化。[[Argument_Lei_Ding_Chiu_2026_ERR|(Lei et al., 2026)]]; [[Argument_Liu_2026_CHBR|(Liu et al., 2026)]]
+> - **作为技术赋能实证研究的机制解释桥梁** 在评估[[Intelligent Tutoring Systems|智能导师系统]]（Intelligent Tutoring Systems, ITS）、[[Graphic Organizer|图形组织器]]或[[Generative Artificial Intelligence|生成式 AI]] [[AI Agent in Education|智能体]]时，解释分步微提示如何降低程序性练习的外在负荷，释放[[Working Memory|工作记忆]]以赋能解题与技能自动化。[[Argument_Lei_Ding_Chiu_2026_ERR|(Lei et al., 2026)]]; [[Argument_Liu_2026_CHBR|(Liu et al., 2026)]]
 > - **作为教育政策批判的分析客体** 批判性考察认知负荷理论如何被官方智库工具化为推行单一保守教学大纲的话语武器。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024)]]
 
 ---
@@ -208,4 +212,4 @@ updated: 2026-08-31
 > - [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] 借助认知负荷理论解释 AI [[AI Agent in Education|智能体]]对 K-12 学生[[Procedural Skill|程序技能]]（$g = 0.391$）与[[Higher-Order Thinking Skills|高阶思维]]（$g = 0.540, p = .066$）的差异化赋能机制，阐明自适应微提示如何通过分担外在负荷促进图式内化。
 > - [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] 依托认知负荷理论论证[[Graphic Organizer|图形组织器]]如何通过空间结构[[Externalization|外化]]信息关系、降低瞬时[[Working Memory|工作记忆]]负荷，并报告了对高阶思维的显著促进效应（$g = 0.778$）。
 > - [[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe (2024)]] 考察认知负荷理论与脑科学话语如何在[[Policy Network|政策网络]]中被编排为强制性教师教育核心认证标准，揭示其[[Positivism|实证主义]][[Epistemology|认识论]]对教育专业[[Reflexivity|反思性]]的挤压。
-> - [[Argument_Li_2026_CEAI|Li et al. (2026)]] 运用认知负荷理论解释 ChatGPT 在高等教育中的双向认知效应：结构化脚手架有助于减少外在负荷以释放工作记忆投入批判与创造性探究；而非结构化使用则触发有害的[[Cognitive Offloading|认知卸载]]，导致深层图式建构停滞。
+> - [[Argument_Li_2026_CEAI|Li et al. (2026)]] 运用认知负荷理论解释 ChatGPT 在高等教育中的双向认知效应：结构化脚手架有助于减少外在负荷以释放工作记忆投入批判与[[Creativity|创造性]]探究；而非结构化使用则触发有害的[[Cognitive Offloading|认知卸载]]，导致深层图式建构停滞。

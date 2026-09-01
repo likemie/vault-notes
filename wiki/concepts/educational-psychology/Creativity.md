@@ -11,7 +11,7 @@ aliases:
 summary: "个体或群体产生新颖且适切的想法、产品或解决方案的心理能力与综合表现，在教育研究中兼具预测变量与发展结果的双重属性"
 type: concept
 domain: "educational-psychology"
-related_count: 43
+related_count: 46
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -40,6 +40,8 @@ related_concepts:
   - "[[Cooperative Learning]]"
   - "[[Critical Thinking]]"
   - "[[Higher-Order Thinking Skills]]"
+  - "[[Generative Artificial Intelligence]]"
+  - "[[Reflexivity]]"
   - "[[Champ]]"
   - "[[Criterion Problem]]"
   - "[[Domain Specificity]]"
@@ -62,6 +64,7 @@ related_persons:
 related_arguments:
   - "[[Argument_Runco_2026_CRJ]]"
   - "[[Argument_Gungor_2026_CP]]"
+  - "[[Argument_Li_2026_CEAI]]"
   - "[[Argument_Park_2026_TSC]]"
   - "[[Argument_Bouckaert_2023_OECD]]"
 related_theories:
@@ -72,7 +75,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-08-23
-updated: '2026-08-31'
+updated: 2026-09-01
 ---
 
 # Creativity
@@ -171,6 +174,19 @@ updated: '2026-08-31'
 
 ---
 
+### 命题三　生成式人工智能作为发散性构想伙伴能显著拓展创意空间，但其有效性受制于文风均质化与探索过早收敛风险
+
+> [!concept-lens] 人机协同中的发散生成与独创性侵蚀张力
+> 考察[[Generative Artificial Intelligence|生成式 AI]] 在头脑风暴与开放探究中如何打破认知定势，以及非结构化依赖如何抑制深层创意的诞生。
+
+> [!claim] [[Argument_Li_2026_CEAI|Li et al. (2026)]]
+> **ChatGPT 对创造性思维的赋能维度与局限机制** 对 67 项高等教育实证研究的[[Systematic Review|系统综述]]表明，ChatGPT 作为发散性认知中介展现出强大的创意激发潜能：31 项研究证实其能有效拓展构想空间并打破头脑风暴僵局，24 项证实其能提供多模态结构支架，18 项证实其能促进跨学科视角转换。然而，在缺乏[[Reflexivity|反思性]]规制的自由使用中，模型基于统计概率生成的输出极易导致文风均质化（19 项）、探索停滞与过早收敛（15 项）以及个体独特学术声音的湮没（13 项）。唯有将 AI 定位于启发式初稿探索，并强制要求学生进行批判性改写与个体化经验注入，才能实现真正的高质量创造。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 7–8, 11)]]
+
+> [!claim] Urban, M.; Monib, W. K.
+> **创意构想发散与个人叙事声音稀释的实证确证** Urban et al. (2024) 发现 ChatGPT 显著提升了学生在设计任务中的构想流畅度与灵活性，但生成的方案独创性（Originality）呈现向主流统计均值收敛的倾向；Monib et al. (2025) 针对留学生写作的研究进一步证实，无节制的 AI 润色会系统性抹平作者的原生文化叙事与个体声音，造成创意的表面光滑与实质平庸。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 8, 11)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
@@ -178,6 +194,7 @@ updated: '2026-08-31'
 > |---|---|---|---|
 > | **预测效度不对称性** | 创造力预测外部结果的效应（$r = 0.29$）显著强于外部因素对创造力的预测（$r = 0.12$） | 心理测量、选拔与发展评估 | [[Mark A. Runco\|Runco et al. (2026)]]; Paek & Runco (2018) |
 > | **教育可塑性与干预效能** | 专门的教育教学干预与训练项目是促进创造力发展的最有效途径（$r = 0.20$），合作学习等社会建构模式对创造性思维赋能显著（$ES = 0.76$） | 课程设计、教学改革与思维训练 | Scott et al. (2004); [[Mark A. Runco\|Runco et al. (2026)]]; [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] |
+> | **人机构想激发** | AI 显著拓展发散构想空间（31 项），但须防范文风均质化与个体声音稀释（19 项） | 人机协同创意设计、头脑风暴与学术写作 | [[Argument_Li_2026_CEAI\|Li et al. (2026)]]; Urban et al. (2024); Monib et al. (2025) |
 
 ---
 
@@ -188,6 +205,7 @@ updated: '2026-08-31'
 > - **1960–1970 年代 4P 框架确立** Rhodes 提出创造者、创造过程、创造产品与创造环境四要素模型，奠定跨学科研究骨架。
 > - **1980–1990 年代 系统论与日常创造力转向** Csikszentmihalyi 提出领域-[[Champ|场域]]系统模型，Runco & Richards 倡导日常创造力与潜能观。
 > - **2020 年代 [[Meta-meta-analysis|二阶元分析]]确立实证效应基准** [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] 综合 52 项一阶[[Meta-analysis|元分析]]确立创造力关联全景基准；[[Argument_Gungor_2026_CP|Güngör et al. (2026)]] 证实[[Cooperative Learning|合作学习]]对创造性思维等[[Higher-Order Thinking Skills|高阶认知技能]]的优先促进效能。
+> - **2026 年 人机协同创造力与双向共现整合** [[Argument_Li_2026_CEAI|Li et al. (2026)]] 揭示[[Generative Artificial Intelligence|生成式 AI]] 作为发散生成伙伴在构想拓展与均质化防范中的辩证特征，推动创造力研究从个体/群体走向人机分布式智能生态。
 
 ---
 
@@ -198,14 +216,20 @@ updated: '2026-08-31'
 > > [!axis] [[Criterion Problem|效标问题]]（The Criterion Problem）
 > > 创造力研究中缺乏统一、绝对且普遍认可的客观效标，导致不同研究采用不同[[Operationalization|操作化]]定义时[[Effect Size|效应量]][[Heterogeneity|异质性]]巨大。
 > >
-> > - **[[Argument_Runco_2026_CRJ|Runco et al. (2026)]]** 承认效标问题导致创造力作为[[Dependent Variable|因变量]]时的效应量分散，但强调多维评估（结合潜能与表现）是化解效标困境的可行路径。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, p. 8)]]
+> > - **Runco 团队** 承认效标问题导致创造力作为[[Dependent Variable|因变量]]时的效应量分散，但强调多维评估（结合潜能与表现）是化解效标困境的可行路径。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, p. 8)]]
 > > - **Shapiro (1970)** 系统论述效标问题对创造力测量科学性的根本制约。
-> >
-> > > [!axis] 领域一般性 vs [[Domain Specificity|领域特殊性]]
+>
+> > [!axis] 领域一般性 vs [[Domain Specificity|领域特殊性]]
 > > 争论创造力是一种跨学科通用的普遍认知潜能，还是高度依赖特定领域知识与技能的情境化能力。
 > >
 > > - **通才立场** 主张[[Divergent Thinking|发散思维]]、[[Problem Finding|问题发现]]与开放性人格是跨领域的通用基础。
 > > - **专才立场** 强调艺术创造与科学创造在认知机制、评价标准及神经活动模式上存在实质性分离。
+>
+> > [!axis] 创意民主化 vs 均质化与主体声音淹没
+> > 争论[[Generative Artificial Intelligence|生成式 AI]] 是降低了大众创意的表达门槛，还是通过算法概率均值抹杀了人类独特的边缘探索与深度独创性。
+> >
+> > - **赋能派** 强调 AI 能打破知识壁垒，使非专业人士亦能快速将模糊构想具象化为原型方案（Urban et al., 2024）。
+> > - **批判派** 警告过度依赖算法输出将导致文化表达高度同质化，并侵蚀深层探索的心智韧性（Monib et al., 2025; [[Argument_Li_2026_CEAI|Li et al., 2026]]）。
 
 ---
 
@@ -247,6 +271,12 @@ updated: '2026-08-31'
 > | 同上 | 结果变量 | 关联因素类型亚组：教育干预/项目 vs 外认知 vs 认知 vs 背景特征 | 干预 $E = 21$ / 外认知 $E = 47$ / 认知 $E = 34$ / 背景 $E = 50$ | 教育干预 $r = 0.20$ $[0.10, 0.29]$；外认知 $r = 0.14$ $[0.06, 0.22]$；认知 $r = 0.12$ $[0.03, 0.20]$；背景 $r = 0.05$ $[-0.07, 0.17]$ | $F(4, 15.6) = 0.95, p = .46$ | 预设分析；组间未达统计显著，但教育干预点估计最高，证实创造力具有明显可塑性 |
 > | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果变量 | 合作学习教学技术：综合合作 vs 拼图法 vs 小组调查 vs [[Cooperative Integrated Reading and Composition\|CIRC]] 整合读写 | $E = 14$（综合）/ $E = 6$（拼图）/ $E = 2$（调查）/ $E = 1$（CIRC） | CIRC $ES = 2.04$ $[1.05, 3.03]$；调查法 $ES = 1.08$ $[0.50, 1.66]$；拼图法 $ES = 0.72$ $[0.40, 1.04]$；综合合作 $ES = 0.61$ $[0.40, 0.81]$ | $Q_b(3) = 9.36, \text{df} = 3, p = .02$ | 预设分析；开放探究与结构化合作技术对创造性思维等高阶认知的激发最强 |
 
+> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Li_2026_CEAI\|Li et al. (2026, pp. 7–8)]] | $N = 67$ 项高等教育实证研究（涵盖 2022–2025 年全球高校样本） | [[Systematic Review\|系统综述]]与主题综合 | ChatGPT 对创造性思维（CrT）影响的主题频数分布 | 赋能维度：构想发散与头脑风暴（31 项）、结构脚手架（24 项）、视角转换（18 项）、修辞表达丰富（12 项）；风险维度：文风均质化（19 项）、探索停滞与过早收敛（15 项）、个人声音淹没（13 项）、表面流畅掩盖实质平庸（11 项） | — | 质性主题证据，揭示[[Generative Artificial Intelligence\|生成式 AI]] 对创造性思维的赋能显著，但伴随输出同质化风险 |
 
 ---
 
@@ -259,3 +289,4 @@ updated: '2026-08-31'
 > - **高等教育政策与量规评价实践** [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] [[Systematic Review|系统综述]] [[OECD]] 国家高等教育中创造力与[[Critical Thinking Assessment|批判性思维评价]]的政策与实践，详析创造力在高校微观考核中的显性标准匮乏现状与真实性量规的破局路径。
 > - **[[Generative Artificial Intelligence|生成式人工智能]]赋能与抑制综述** [[Argument_Li_2026_CEAI|Li et al. (2026)]] 系统综述 67 项实证研究，揭示 ChatGPT 作为发散生成伙伴在构想拓展（31 项）、结构脚手架（24 项）与视角转换（18 项）中的促进效能，并指出非结构化使用导致个人学术声音稀释与探索停滞的风险。
 > - **[[Creativity Assessment|创造力测评]]与测量方法学** 参见专门概念条目 [[Creativity Assessment|创造力测评]]，该条目系统整合了从[[Divergent Thinking|发散思维]]标准化测验（[[Torrance Tests of Creative Thinking|TTCT]]/AUT）、专家产品同感评定（[[Consensual Assessment Technique|CAT]]）、大学招生情境任务（Rainbow/Kaleidoscope）到校本真实性评分量规（[[VALUE Rubrics|VALUE]]/CERI/[[CALOHEE Project|CALOHEE]]）的工具矩阵、[[Criterion Problem|效标困境]]与[[Formative Assessment|促学评价]]生态。
+
