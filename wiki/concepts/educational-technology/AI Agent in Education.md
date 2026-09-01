@@ -10,20 +10,23 @@ aliases:
 summary: "在教育环境中具备自主交互、自适应支架与即时反馈特征的智能计算系统，涵盖智能导师系统、教育机器人、生成式智能体与对话式智能体四种核心形态并对K-12认知技能与知识建构产生中等促进效应"
 type: concept
 domain: "educational-technology"
-related_count: 28
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 31
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 related_concepts:
   - "[[Intelligent Tutoring Systems]]"
   - "[[Educational Robotics]]"
   - "[[Generative AI Agent in Education]]"
+  - "[[Generative Artificial Intelligence]]"
   - "[[Dialogue in Education]]"
   - "[[Conversational AI in Education]]"
   - "[[Externalization]]"
   - "[[Procedural Skill]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Feedback]]"
+  - "[[Cognitive Offloading]]"
+  - "[[AI Hallucination]]"
   - "[[Variable]]"
   - "[[Interaction Effect]]"
   - "[[Critical Thinking]]"
@@ -77,7 +80,7 @@ updated: 2026-08-25
 
 > [!boundary]- 概念边界
 > - **不等于静态数字化学习材料** 录播视频、电子文本或静态测试软件仅单向呈现预设内容，缺乏基于学习者行为数据的动态推断、自适应支架调整与双向多轮对话能力。
-> - **不等于通用基础大模型工具** 未经教育情境化微调、缺乏提示词结构化脚手架或教学评价规程的裸大模型并不具备自洽的教学智能体机能，容易引发无约束的[[Cognitive Offloading|认知卸载]]与信息幻觉。
+> - **不等于通用基础大模型工具** 未经教育情境化微调、缺乏提示词结构化脚手架或教学评价规程的裸大模型并不具备自洽的教学智能体机能，容易引发无约束的[[Cognitive Offloading|认知卸载]]与信息[[AI Hallucination|幻觉]]。
 > - **不等于完全自动化替代教师** 教育智能体主要承担程序性技能训练、自适应练习分流与即时语法与运算纠错，其效能深度依赖人类教师的教学法设计、情境创设与反思引导。
 
 ---

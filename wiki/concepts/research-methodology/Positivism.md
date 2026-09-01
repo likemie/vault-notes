@@ -7,10 +7,10 @@ aliases:
 summary: "一种认为真正的知识只能来自感官经验、观察和实验的哲学立场，主张将自然科学方法直接应用于社会现象研究，以发现普遍法则为目标。"
 type: concept
 domain: "research-methodology"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - paradigm/positivism
   - theme/epistemology
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Scientific Method]]"
   - "[[Variable]]"
+  - "[[AI Hallucination]]"
   - "[[Scientism]]"
 related_theories: []
 related_methods: []
@@ -83,6 +84,6 @@ Mouly（1978）将[[Scientific Method|经验科学]]进程分为五个阶段：�
 实证主义在自然科学领域取得巨大成功，但在应用于人类行为时面临根本性挑战——人类行为的极度复杂性和社会现象的难以捉摸与自然世界的秩序和规律性形成鲜明对比（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
 
 > [!critique] 对实证主义的三重批评
-> - **存在主义批评** 克尔凯郭尔（[[Søren Kierkegaard]]）认为客观性是最大的幻觉——它使人沦为旁观者，丧失"主观性的能力"。罗斯扎克（Roszak, 1970, 1972）认为科学的客观性追求是对真实自我的疏离
+> - **存在主义批评** 克尔凯郭尔（[[Søren Kierkegaard]]）认为客观性是最大的[[AI Hallucination|幻觉]]——它使人沦为旁观者，丧失"主观性的能力"。罗斯扎克（Roszak, 1970, 1972）认为科学的客观性追求是对真实自我的疏离
 > - **法兰克福学派** 哈贝马斯（Habermas, 1972）和霍克海默（Horkheimer, 1972）认为科学心态已被提升为一种近乎宗教的地位（[[Scientism|科学主义]]），所有知识被等同于科学知识，忽视了诠释学、审美、批判等其他知识形式
 > - **内部批评** 实证主义未能考虑人类的自我解释能力（Giddens, 1976）；将人视为被动的、被决定的，忽略了意图和自由（Chomsky, 1959）；实验室发现往往琐碎平庸，对实践者几乎没有实际意义

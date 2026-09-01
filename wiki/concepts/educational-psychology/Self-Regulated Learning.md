@@ -9,15 +9,43 @@ aliases:
 summary: "学习者为了达成学业目标，主动对自身的认知过程、动机体验和行为策略进行规划、监控、评价与反思性调整的循环性心理与行为系统"
 type: concept
 domain: "educational-psychology"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 24
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/self-regulated-learning
   - construct/metacognition
   - theme/educational-psychology
   - paradigm/cognitive
+related_concepts:
+  - "[[Metacognition]]"
+  - "[[Cognitive Offloading]]"
+  - "[[Task Structure]]"
+  - "[[Self-Efficacy]]"
+  - "[[Construct]]"
+  - "[[AI Hallucination]]"
+  - "[[Dialogue in Education]]"
+  - "[[Generative Artificial Intelligence]]"
+  - "[[Reflexivity]]"
+  - "[[Necessary and Sufficient Conditions]]"
+  - "[[Learner Autonomy]]"
+  - "[[Intelligent Tutoring Systems]]"
+  - "[[Convergent Thinking]]"
+  - "[[Questionnaire]]"
+  - "[[Learning Analytics]]"
+  - "[[Common Method Variance]]"
+  - "[[Academic Achievement]]"
+  - "[[Effect Size]]"
+  - "[[Variable]]"
+  - "[[Creativity]]"
+related_methods:
+  - "[[Triangulation]]"
+  - "[[Systematic Review]]"
+related_instruments:
+  - "[[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale]]"
+related_arguments:
+  - "[[Argument_Li_2026_CEAI]]"
 confidence: high
 status: draft
 created: 2026-08-31
@@ -56,7 +84,7 @@ updated: 2026-08-31
 > |------|-------------------|-----------------------------------------|----------------------------------------|
 > | **构念范围** | 包含认知、元认知、动机与行为调控的综合系统 | 侧重于对认知活动本身的认知与监控 | 侧重于对自身完成特定学业任务能力的信心判断 |
 > | **核心机制** | 预见规划 → 表现监控 → 自我反思的三阶段循环 | 任务难度评估、加工进度监控与策略纠偏 | 影响任务选择、努力程度与逆境坚持力 |
-> | **技术中介作用** | 决定人机协同深度，防范[[Cognitive Offloading\|认知外包]] | 识别大模型输出中的逻辑漏洞与事实幻觉 | 支撑学习者在面对复杂人机[[Dialogue in Education\|对话]]时持续探索 |
+> | **技术中介作用** | 决定人机协同深度，防范[[Cognitive Offloading\|认知外包]] | 识别大模型输出中的逻辑漏洞与事实[[AI Hallucination\|幻觉]] | 支撑学习者在面对复杂人机[[Dialogue in Education\|对话]]时持续探索 |
 
 ---
 

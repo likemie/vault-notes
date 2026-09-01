@@ -10,7 +10,7 @@ aliases:
 summary: "源自生态心理学与教育技术学的核心构念，指技术工具在特定教学情境中与学习者及任务环境交互时所展现出的、可被感知并支持特定认知与教学行动的客观使能属性。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Cognitive Offloading]]"
   - "[[Critical Thinking]]"
   - "[[Socratic Dialogue]]"
+  - "[[AI Hallucination]]"
   - "[[Structured Teaching]]"
   - "[[Reflexivity]]"
   - "[[Ontology]]"
@@ -102,7 +103,7 @@ updated: 2026-09-02
 > **[[Critical Thinking|批判性思维]]赋能可供性（CT Affordances, 5 大维度）**
 > - **[[Metacognition|元认知监控]]与反思支架（Reflection, n = 27）** 作为[[Socratic Dialogue|苏格拉底式对话]]伙伴，即时挑战学生推论并促发反思。
 > - **论证建构与多源辩护（Argumentation, n = 22）** 辅助梳理复杂论点结构，生成对立论据以强化论辩逻辑。
-> - **事实查错与去幻觉检验（Fact-checking, n = 19）** 提供含瑕疵文本作为批判性核查与红队审验的靶子。
+> - **事实查错与去[[AI Hallucination|幻觉]]检验（Fact-checking, n = 19）** 提供含瑕疵文本作为批判性核查与红队审验的靶子。
 > - **复杂问题结构化拆解（Problem Decomposition, n = 16）** 协助将复杂大任务分解为可操作的微认知子步骤。
 > - **情境化概念释义与类比（Exemplification, n = 14）** 针对抽象概念生成多情境实例与跨学科类比解释。
 >

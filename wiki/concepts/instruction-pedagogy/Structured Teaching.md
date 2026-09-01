@@ -7,10 +7,10 @@ aliases:
 summary: "在教学组织与认知支架中强调清晰目标、系统规划、过程监控与师生/人机动态互动平衡的教学范式。既包含基础教育中教师领导与自主学习的有机协调，亦指智能技术整合中防范认知卸载并激活高阶心智的递归探究支架体系。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - "theme/instructional-design"
   - "theme/pedagogy"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Effect Size]]"
   - "[[Variable]]"
+  - "[[AI Hallucination]]"
 related_theories:
   - "[[Radical Constructivism]]"
 related_methods:
@@ -240,7 +241,7 @@ updated: 2026-09-02
 >   - **小组合作与结对探究** 学生在明确的任务脚手架下展开自主讨论与任务实践，教师巡视并实施针对性理解检查；
 >   - **反馈收束与反思总结** 教师引导全班汇总关键概念网络，提供纠正性反馈，确保知识系统化。
 > - **高等教育[[Generative Artificial Intelligence|生成式 AI]] 结构化递归探究教学（[[Argument_Li_2026_CEAI|Li et al., 2026]]）**
->   - **基于 ADDIE 与创意写作框架的教学干预（Cake, 2025; Abdelmagid et al., 2025）** 要求学生先独立拟定初始构想，再利用大模型发散视角，随后依据评分量规开展自我批判与去幻觉事实核查；
+>   - **基于 ADDIE 与创意写作框架的教学干预（Cake, 2025; Abdelmagid et al., 2025）** 要求学生先独立拟定初始构想，再利用大模型发散视角，随后依据评分量规开展自我批判与去[[AI Hallucination|幻觉]]事实核查；
 >   - **提示词迭代链（Prompt Trail）与反思日志** 强制要求考核提交提示词修改历史与人机[[Dialogue in Education|对话]]辩护记录，将评价重心锚定在反思过程本身。
 
 ---

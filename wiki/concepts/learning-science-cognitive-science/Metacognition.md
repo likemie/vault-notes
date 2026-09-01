@@ -10,7 +10,7 @@ aliases:
 summary: "个体对自己认知过程的意识、评估与调节，包括元认知知识与元认知调节两个核心成分。在生成式 AI 时代，元认知监控构成维持认识论警觉、抵御表面语义流畅性与驱动批判与创造思维协同的核心认知中介。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 37
+related_count: 38
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Self-Regulated Learning]]"
   - "[[Reliability]]"
+  - "[[AI Hallucination]]"
   - "[[Illusion of Competence]]"
   - "[[Theory of Knowledge]]"
   - "[[Learner Autonomy]]"
@@ -107,7 +108,7 @@ updated: 2026-09-02
 > |---|---|---|---|---|
 > | **调控对象** | 自身的思考过程与策略选择 | 外部客体、学科事实与信息流 | 论证结构、事实证据与推理谬误 | 整体学习生态（认知、动机、环境） |
 > | **核心操作** | 计划、监控、查错、评估与校准 | 记忆、计算、分类、推理与生成 | 质疑、分析、评估、证成与辩护 | 目标设定、时间管理、自励与求助 |
-> | **在 AI 交互中的角色** | 审视 AI 输出可[[Reliability\|信度]]并决定修改策略 | 调用提示词生成初稿与阅读响应 | 识别 AI 生成文本中的逻辑漏洞与幻觉 | 规划人机分工与防止学术拖延 |
+> | **在 AI 交互中的角色** | 审视 AI 输出可[[Reliability\|信度]]并决定修改策略 | 调用提示词生成初稿与阅读响应 | 识别 AI 生成文本中的逻辑漏洞与[[AI Hallucination\|幻觉]] | 规划人机分工与防止学术拖延 |
 
 ---
 

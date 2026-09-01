@@ -8,7 +8,7 @@ summary: "英国比较教育先驱与历史主义学派代表人物，主持教�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 17
+person_related_count: 18
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Reference Society]]"
   - "[[Cross-National Attraction]]"
   - "[[Realism in International Relations]]"
+  - "[[AI Hallucination]]"
   - "[[Policy Borrowing]]"
   - "[[International Education]]"
   - "[[Epistemology]]"
@@ -85,7 +86,7 @@ updated: 2026-07-09
 >   - **代表著作** 特别调查与报告办公室发布的系列《教育问题特别报告》（*Special Reports on Educational Subjects*，1897–1903）。
 >   - **关键概念** [[Reference Society|参考社会]]、[[Cross-National Attraction|跨国吸引]]。
 >   - **阶段特征** 此时的探索带有强烈的[[Realism in International Relations|现实主义]]地缘政治底色，旨在通过系统研究德国职业教育和实科学校，为英国公共教育系统注入竞争活力，巩固国家竞争地位。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 420)]]
-> - **1900 至今 — 历史[[Situative Perspective|情境主义]]与方法论反思阶段** 这一阶段转而系统回应政策移植的技术主义幻觉，探讨如何从外国教育中获得“实践价值”而不导致体制排异。
+> - **1900 至今 — 历史[[Situative Perspective|情境主义]]与方法论反思阶段** 这一阶段转而系统回应政策移植的技术主义[[AI Hallucination|幻觉]]，探讨如何从外国教育中获得“实践价值”而不导致体制排异。
 >   - **代表著作** 1900 年吉尔福德演讲：《我们能从外国教育系统的研究中获得多少有实践价值的启示？》（*How far can we learn anything of practical [[VALUE Rubrics|VALUE]] from the study of foreign systems of education?*）。
 >   - **关键概念** 情境不可移植性、外部力量与因素（forces and factors outside the school）。
 >   - **阶段转向** 从工具性[[Policy Borrowing|政策借用]]的热衷者，转向了对借用可行性的深度怀疑与情境边界界定。他警示“校外的事情比校内的事情更重要”，确立了以历史和文化为中介的情境分析视角。
@@ -108,7 +109,7 @@ updated: 2026-07-09
 
 > [!influence-path] 影响路径
 > - **理论路径** 奠定了比较教育的历史主义和情境分析学派。他的“外部力量与因素”假说被后世系统化为自然、宗教、世俗等多元因子，并启发了汉斯、贝雷迪、考恩等学者对教育“转移”与“变形”规律的探索。
-> - **方法路径** 否定了朱利安早期试图建立“教育科学测量法”的实证幻觉，确立了深入社会历史脉络开展质性考察的田野与[[Documentary Analysis|文献分析]]传统。
+> - **方法路径** 否定了朱利安早期试图建立“教育科学测量法”的实证[[AI Hallucination|幻觉]]，确立了深入社会历史脉络开展质性考察的田野与[[Documentary Analysis|文献分析]]传统。
 > - **政策路径** 其主持的特别调查与报告办公室的系列成果直接影响了英国 1902 年《巴尔福教育法案》对地方中等教育体系的重构。
 > - **跨国传播** 其“盆栽移植”隐喻成为比较教育和[[Policy Borrowing|政策借用]]领域引用频率最高的方法论格言，在发展援助与[[International Education|国际教育]]流动中被用作反思技术援助失败的理论护盾。
 

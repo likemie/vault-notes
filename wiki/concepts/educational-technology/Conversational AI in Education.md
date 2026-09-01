@@ -11,7 +11,7 @@ aliases:
 summary: "依托自然语言处理与多轮语音文本交互技术，在教学情境中提供拟真会话演练、即时纠错反馈、启发式追问与自适应语料推送的交互中介系统。"
 type: concept
 domain: "educational-technology"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[AI Agent in Education]]"
   - "[[Procedural Skill]]"
+  - "[[AI Hallucination]]"
   - "[[Feedback]]"
   - "[[Presence]]"
   - "[[Revoicing]]"
@@ -58,7 +59,7 @@ updated: 2026-08-25
 > [!concept-lens] 概念透镜
 > - **含义** 将对话式人机交互作为核心教学支架（Conversational Scaffolding），让学习者在自然的语言来回（Turn-Taking）中进行意义建构与[[Procedural Skill|程序性技能]]演练。
 > - **用途** 最广泛应用于外语口语流利度训练、二语词汇与语法自适应习得、古诗词文本赏析互动与写作即时润色。
-> - **边界** 需防范由于语言模型幻觉产生的错误语法或事实误导，以及在需要严密空间几何推导或多步骤公式运算场景下的表示局限。
+> - **边界** 需防范由于语言模型[[AI Hallucination|幻觉]]产生的错误语法或事实误导，以及在需要严密空间几何推导或多步骤公式运算场景下的表示局限。
 
 > [!citation-card]- 关键表述
 > 对话式智能体通过提供低焦虑、随时可用的多轮对话语境与即时发音纠错，极大地激活了学生在语言与读写学科中的主动输出动机，取得了强劲的促学效果。（[[Argument_Liu_2026_CHBR|Liu et al., 2026, pp. 2]], 7）

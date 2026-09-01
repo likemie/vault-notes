@@ -9,7 +9,7 @@ aliases:
 summary: "由 George Siemens 与 Stephen Downes 提出的数字时代学习理论，认为学习是连接专业节点或信息源的网络构建过程，知识分布于人际与非人类技术网络的动态连接之中"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 22
+theory_related_count: 23
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Dialogue in Education]]"
   - "[[Creativity]]"
+  - "[[AI Hallucination]]"
   - "[[AI Literacy]]"
   - "[[Epistemological Vigilance]]"
   - "[[Rote Learning]]"
@@ -99,7 +100,7 @@ updated: 2026-09-01
 > - **推导** 学习者通过迭代提示与多轮对话，将 AI 节点输出的信息与自身先验图式、专业共同体规范重新连接，从而触发[[Creativity|创造性]]重组与批判性综合。
 
 > [!proposition-chain]- 延伸命题
-> - **推论一（源自核心命题一）** 当智能节点输出虚假或有偏信息（幻觉）时，网络连接的脆弱性要求学习者必须具备强大的[[AI Literacy|人工智能素养]]与[[Epistemological Vigilance|认识论警觉]]。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 2–3)]]
+> - **推论一（源自核心命题一）** 当智能节点输出虚假或有偏信息（[[AI Hallucination|幻觉]]）时，网络连接的脆弱性要求学习者必须具备强大的[[AI Literacy|人工智能素养]]与[[Epistemological Vigilance|认识论警觉]]。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 2–3)]]
 > - **推论二（源自核心命题二）** 教学设计应从线性的内容传授转向构建多源反馈与人机协同的生态网络系统。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 11–12)]]
 
 > [!mechanism-map]- 连通主义学习机制图

@@ -10,7 +10,7 @@ aliases:
 summary: "个体在虚拟环境中感受到身临其境（沉浸感）和与他人共享空间（共在感）的主观体验，是虚拟世界研究中用户参与的重要促进因素"
 type: concept
 domain: "educational-technology"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Externalization]]"
   - "[[Epoché]]"
+  - "[[AI Hallucination]]"
   - "[[Virtual World]]"
   - "[[Reliability]]"
   - "[[Computer Simulation]]"
@@ -45,7 +46,7 @@ updated: 2026-07-19
 ## 定义
 
 > [!def] 核心定义
-> 在场感是用户在虚拟或中介环境中主观感受到自己身处其中而非物理所在地的体验。使用互动或非互动媒体将自我[[Externalization|外化]]并在并非物理在场的环境中创建在场印象，依赖于自愿[[Epoché|悬置]]不信任（Coleridge, 1817）以创建视角的幻觉性转移（Dennett, 1978, p. 312），以及用户在体验中使用自身知识、想象力和热情（Zhao, 2003）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19|Cohen et al., 2011, Ch. 19, pp. 154–155]]）。
+> 在场感是用户在虚拟或中介环境中主观感受到自己身处其中而非物理所在地的体验。使用互动或非互动媒体将自我[[Externalization|外化]]并在并非物理在场的环境中创建在场印象，依赖于自愿[[Epoché|悬置]]不信任（Coleridge, 1817）以创建视角的[[AI Hallucination|幻觉]]性转移（Dennett, 1978, p. 312），以及用户在体验中使用自身知识、想象力和热情（Zhao, 2003）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19|Cohen et al., 2011, Ch. 19, pp. 154–155]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 在场感指向个体在虚拟或中介环境中对自身所在地的主观感受。它是一个包含三个层次的概念群：在场感（感受到身处其中）、沉浸感（感受到环境包围和响应）和共在感（感受到与他人同在共享空间）。

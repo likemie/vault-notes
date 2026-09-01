@@ -9,7 +9,7 @@ aliases:
 summary: "个体理解人工智能基本运作机制、能力边界与算法偏见，能够维持认识论警觉并负责任地将智能工具作为放大人类认知与高阶思维而非替代自身思考的综合素养范式。"
 type: concept
 domain: "curriculum"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Computational Thinking]]"
   - "[[Dialogue in Education]]"
   - "[[Construct]]"
+  - "[[AI Hallucination]]"
   - "[[Sampling Error]]"
   - "[[Causality]]"
   - "[[Primary and Secondary Documents]]"
@@ -94,7 +95,7 @@ updated: 2026-09-02
 > | 比较维度 | **人工智能素养（AI Literacy）** | **[[Computational Thinking\|计算思维]]（Computational Thinking）** | **[[Data Literacy\|数据素养]]（Data Literacy）** | **传统数字素养（Digital Literacy）** |
 > |---|---|---|---|---|
 > | **核心指向** | 智能系统运作理解、人机协同规制与算法批判 | 逻辑问题求解、算法构建与系统抽象设计 | 数据分析、统计推断、图表解读与证据评价 | 数字化工具操作、信息检索与多媒体沟通 |
-> | **技术底层关注** | 概率生成机制、神经网络黑箱、生成幻觉与偏见 | 逻辑控制流、数据结构、递归与算法复杂度 | [[Sampling Error\|抽样误差]]、分布特征、相关与[[Causality\|因果关系]] | 软件界面交互、文件格式、网络协议应用 |
+> | **技术底层关注** | 概率生成机制、神经网络黑箱、生成[[AI Hallucination\|幻觉]]与偏见 | 逻辑控制流、数据结构、递归与算法复杂度 | [[Sampling Error\|抽样误差]]、分布特征、相关与[[Causality\|因果关系]] | 软件界面交互、文件格式、网络协议应用 |
 > | **关键认知操作** | [[Epistemological Vigilance\|认识论警觉]]、提示词迭代、输出审订、[[Metacognition\|元认知监控]] | 任务分解、模式归纳、抽象建模、调试查错 | 趋势识别、异常值检验、统计偏误识别 | 信息筛选、格式转换、数字化协作分享 |
 > | **AI 交互中的角色** | 决定是批判性[[Dialogue in Education\|对话]]（协同）还是被动顺从（卸载） | 理解大模型架构原理与编写自动化脚本 | 评估大模型训练数据集的代表性与偏差 | 操作 ChatGPT 界面与导出文本数据 |
 > | **核心育人目标** | 维护人类认知主体性，防止[[Higher-Order Thinking Skills\|高阶思维]]外包退化 | 培养基于计算逻辑的形式化问题解决胜任力 | 培养基于数据的实证决策与量化批判意识 | 具备适应数字化社会生活的基本数字工具操作力 |
@@ -104,7 +105,7 @@ updated: 2026-09-02
 ## 核心要素
 
 > [!feature] 人工智能素养的四维[[Construct|构念]]框架（Ng et al., 2021; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society, 2026a]]; [[Argument_Li_2026_CEAI|Li et al., 2026]]）
-> - **技术认知与机制理解（Knowing & Understanding AI）** 把握大语言模型等算法的概率预测本质、训练数据集依赖性、生成幻觉（Hallucination）与黑箱特性，建立对智能系统能力的合理预期。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, p. 32)]]
+> - **技术认知与机制理解（Knowing & Understanding AI）** 把握大语言模型等算法的概率预测本质、训练数据集依赖性、生成[[AI Hallucination|幻觉]]（Hallucination）与黑箱特性，建立对智能系统能力的合理预期。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, p. 32)]]
 > - **批判性应用与人机协同（Critical Application & Co-Inquiry）** 熟练运用结构化提示词设计（Prompt Engineering），将 AI 定位为拓展思维视角的“[[Dialogue in Education|对话]]伙伴”与“脚手架”，坚持“放大认知而非外包思考”的行动底线。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 10–12)]]
 > - **[[Epistemological Vigilance|认识论警觉]]与多源验证（Epistemic Vigilance & Evaluation）** 保持对模型输出的怀疑态度，识别虚假事实与逻辑漏洞，通过[[Primary and Secondary Documents|一手文献]]核查、[[Triangulation|三角互证]]与反思日志对生成文本进行严格审订。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 2–3)]]
 > - **伦理审思与主体性维护（Ethical [[Reflexivity]] & Agency Preservation）** 敏锐洞察算法偏见、数据隐私侵犯、知识产权归属与数字鸿沟风险，自觉在人机协作中保留个人独特的学术声音与价值立场。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, p. 34)]]
@@ -154,7 +155,7 @@ updated: 2026-09-02
 > 探讨学生的 AI 素养水平如何调节其在人机[[Dialogue in Education|对话]]中是对模型输出进行批判性核验还是盲目顺从。
 
 > [!claim] [[Argument_Li_2026_CEAI|Li et al. (2026)]]
-> **AI 素养的情境调节机制** 在高等教育[[Generative Artificial Intelligence|生成式 AI]] 整合研究中，AI 素养构成决定人机互动深度的核心调节[[Variable|变量]]。具备高 AI 素养的学生能够理解大模型的概率生成本质与幻觉倾向，在提示词设计中保持“认识论警觉”（Epistemic Vigilance），主动开展多源[[Triangulation|三角互证]]；而缺乏 AI 素养的学生容易被语义流畅性所误导，陷入证实偏误，在 20 项实证研究中表现出严重的创造被动与认知侵蚀。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 2–3, 10–12)]]
+> **AI 素养的情境调节机制** 在高等教育[[Generative Artificial Intelligence|生成式 AI]] 整合研究中，AI 素养构成决定人机互动深度的核心调节[[Variable|变量]]。具备高 AI 素养的学生能够理解大模型的概率生成本质与[[AI Hallucination|幻觉]]倾向，在提示词设计中保持“认识论警觉”（Epistemic Vigilance），主动开展多源[[Triangulation|三角互证]]；而缺乏 AI 素养的学生容易被语义流畅性所误导，陷入证实偏误，在 20 项实证研究中表现出严重的创造被动与认知侵蚀。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 2–3, 10–12)]]
 
 ---
 
@@ -227,7 +228,7 @@ updated: 2026-09-02
 > [!example] 典型教学与干预案例
 > - **英国皇家学会跨学科 AI 与科学探究融合大纲（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society, 2026a]]）**
 >   将 AI 素养设计为贯穿物理、化学、生物与地理的综合实践线索。学生在进行气候变化或基因数据分析时，必须利用 AI 工具开展数据建模，同时强制撰写“算法局限与数据偏见评估报告”，使技术认知与实证探究紧密结合。
-> - **大学课堂“提示词追踪与去幻觉答辩”教学规程（[[Argument_Li_2026_CEAI|Li et al., 2026]]）**
+> - **大学课堂“提示词追踪与去[[AI Hallucination|幻觉]]答辩”教学规程（[[Argument_Li_2026_CEAI|Li et al., 2026]]）**
 >   教师在期末评估中引入“过程性提示词链（Prompt Trail）”与“现场口头辩护”，要求学生向全班展示如何通过批判性提问纠正 ChatGPT 给出的错误信息，将评价重心从单纯提交终稿转向展示人机协同中的[[Metacognition|元认知监控]]与 AI 批判素养。
 
 ---

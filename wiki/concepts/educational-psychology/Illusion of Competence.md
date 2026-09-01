@@ -11,7 +11,7 @@ aliases:
 summary: "认知心理学与学习科学概念，指个体因信息获取的容易性、文本表层语义流畅性或即时提取的顺畅感，产生的一种误将‘容易理解与阅读顺畅’等同于‘已真正掌握与内化知识’的元认知监控偏差。"
 type: concept
 domain: "educational-psychology"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Cognitive Offloading]]"
   - "[[Epistemic Friction]]"
   - "[[Reflexivity]]"
+  - "[[AI Hallucination]]"
   - "[[Critical Thinking]]"
   - "[[Effect Size]]"
   - "[[Variable]]"
@@ -146,7 +147,7 @@ updated: 2026-09-02
 > 探讨如何通过针对性的教学设计纠正学生的虚假掌握感。
 
 > [!claim] Bjork et al. (2013); [[Argument_Li_2026_CEAI|Li et al. (2026)]]
-> **元认知校准与提取干预** 单纯告知学生“AI 会犯错”无法有效破除能力错觉；必须通过强制性的无辅助提取练习、红队去幻觉查错任务、过程性提示词溯源与口头现场辩护，让学生直接体验到脱离 AI 时的认知阻力，从而校准元认知监控并恢复认知主体性。[[Argument_Li_2026_CEAI|(Bjork et al., 2013; Li et al., 2026, pp. 11–13)]]
+> **元认知校准与提取干预** 单纯告知学生“AI 会犯错”无法有效破除能力错觉；必须通过强制性的无辅助提取练习、红队去[[AI Hallucination|幻觉]]查错任务、过程性提示词溯源与口头现场辩护，让学生直接体验到脱离 AI 时的认知阻力，从而校准元认知监控并恢复认知主体性。[[Argument_Li_2026_CEAI|(Bjork et al., 2013; Li et al., 2026, pp. 11–13)]]
 
 ---
 

@@ -42,8 +42,9 @@ related_concepts:
   - "[[Boundary Object]]"
   - "[[Artefact]]"
   - "[[AI Literacy]]"
-  - "[[AI Hallucination]]"
   - "[[Epistemological Vigilance]]"
+  - "[[Educational Affordances]]"
+  - "[[Illusion of Competence]]"
   - "[[Epistemic Friction]]"
   - "[[Central Question]]"
   - "[[Questionnaire]]"
@@ -51,13 +52,12 @@ related_concepts:
   - "[[Computational Thinking]]"
   - "[[Reflexivity]]"
   - "[[Classroom Debate]]"
+  - "[[AI Hallucination]]"
   - "[[Paradigm]]"
   - "[[Homework]]"
   - "[[Literature Review]]"
-  - "[[Educational Affordances]]"
   - "[[Argument Mapping]]"
   - "[[Epistemology]]"
-  - "[[Illusion of Competence]]"
   - "[[Problem-Based Learning]]"
   - "[[Hypothesis]]"
   - "[[Reliability]]"
@@ -158,9 +158,10 @@ issuing_organization: ""
 > | **[[Boundary Object\|边界对象理论（Star & Griesemer, 1989）]]**<br>[[Boundary Object]] | 阐明 ChatGPT 作为兼具结构鲁棒性与情境可塑性的[[Artefact\|人工制品]]，如何在中介通用学术规范与个性化跨学科表达中发挥连接功能。 |
 > | **[[AI Literacy\|人工智能素养框架（Ng et al., 2021）]]**<br>[[AI Literacy]] | 作为核心前置调节[[Variable\|变量]]，决定学生在人机交互中是保持[[Epistemological Vigilance\|认识论警觉]]还是陷入表面语义流畅性陷阱。 |
 > | **文化历史活动理论（CHAT, Engeström, 1987）**<br>活动系统分析 | 揭示 ChatGPT 作为中介工具如何重塑教学活动系统中的人机认知分工、评估规则与主体共同体关系。 |
+> | **[[Educational Affordances\|教育技术可供性框架（Kirschner, 2004; Bower, 2008）]]**<br>[[Educational Affordances]] | 作为核心分析透镜，系统解构 ChatGPT 在批判性与[[Creativity\|创造性思维]]维度上的 10 大认知使能可供性与 10 大限制风险。 |
 
 > [!warrant]- 理论如何支撑论证
-> 论文通过整合认知加工（认知负荷理论与自我调节学习）、社会文化情境（[[Third Generation Activity Theory|活动理论]]与边界对象）及网络技术（连通主义与分布式认知），构建了多层次解释体系。分布式认知与活动理论揭示了人类思维并非孤立发生在颅骨内部，而是延伸并中介于技术工具中；认知负荷理论精确刻画了外在负荷释放与有害认知卸载的生理界限；自我调节学习与 AI 素养则为学习者在算法流畅性面前维持“[[Epistemic Friction|认识论摩擦]]”（Epistemic Friction）提供了主体性防线。这些理论工具的交织，使综述能够严密解释为什么相同的技术介入会在不同教学脚手架下分化出协同增益与认知侵蚀两种截然相反的心智后果（pp. 2–3, 10–11）。
+> 论文通过整合认知加工（认知负荷理论与自我调节学习）、社会文化情境（[[Third Generation Activity Theory|活动理论]]与边界对象）及网络技术（连通主义与分布式认知），构建了多层次解释体系。分布式认知与活动理论揭示了人类思维并非孤立发生在颅骨内部，而是延伸并中介于技术工具中；认知负荷理论精确刻画了外在负荷释放与有害认知卸载的生理界限；自我调节学习与 AI 素养则为学习者在算法流畅性与[[Illusion of Competence|能力错觉]]面前维持“[[Epistemic Friction|认识论摩擦]]”（Epistemic Friction）提供了主体性防线。这些理论工具的交织，使综述能够严密解释为什么相同的技术介入会在不同教学脚手架下分化出协同增益与认知侵蚀两种截然相反的心智后果（pp. 2–3, 10–11）。
 
 ---
 
@@ -271,7 +272,7 @@ issuing_organization: ""
 > |---|---|---|---|---|
 > | **赋能机制** | **元认知参与与监控（n = 27）** | [[Reflexivity\|反思性]]学术写作、同伴成果对比、文本多轮修订 | 引导性提示词、结构化探究任务、认知对比指引 | Strobl et al. (2024); Tseng & Lin (2024); Zhan & Yan (2025) |
 > | **赋能机制** | **论证结构与逻辑深化（n = 22）** | [[Classroom Debate\|课堂辩论]]设计、论证可视化图谱、学术论文写作 | 迭代对话模式、基于评分量规的评估对齐 | Sykes (2024); Chen et al. (2025); Darmawansah et al. (2025) |
-> | **赋能机制** | **事实核查与查错机制（n = 19）** | STEM 实验报告、程序排错、跨学科[[Document\|文献]]评述 | 批判性质疑态度、[[AI Literacy\|AI 素养]]、[[AI Hallucination|幻觉识别培训]] | Archila et al. (2024); Michalon & Camacho-Zúñiga (2023); Šedlbauer et al. (2024) |
+> | **赋能机制** | **事实核查与查错机制（n = 19）** | STEM 实验报告、程序排错、跨学科[[Document\|文献]]评述 | 批判性质疑态度、[[AI Literacy\|AI 素养]]、[[AI Hallucination\|幻觉识别培训]] | Archila et al. (2024); Michalon & Camacho-Zúñiga (2023); Šedlbauer et al. (2024) |
 > | **赋能机制** | **[[Self-Regulated Learning\|自我调节学习]]促进（n = 17）** | 形成性反馈循环、自主探究项目、迭代修改 | 提示词工程训练、反思日记、认知监控规程 | Yang et al. (2025); Lee et al. (2024); Shen & Chen (2025) |
 > | **赋能机制** | **学科真实推理深化（n = 15）** | 系统工程设计、商业企划、科学伦理批判 | 任务真实性、专业学科[[Paradigm\|范式]]对齐、深度问题情境 | Kofahi & Husain (2025); George-Reyes et al. (2024); Exintaris et al. (2023) |
 > | **风险限制** | **过度依赖与认知惰性（n = 21）** | 期末论文写作、常规[[Homework\|作业]]应付、事实性问答 | 缺乏使用培训、初学者新手用户、无反思要求 | Sarwanti et al. (2024); Villarino (2025); Azmi et al. (2024) |
@@ -283,7 +284,7 @@ issuing_organization: ""
 > [!evidence-grid-a] 批判性思维赋能维度与实证案例细析（[[Educational Affordances|affordances]], 5 大核心主题）
 > - **元认知监控与反思性审思** 在德语高级 L2 学术写作课程中，Strobl et al. (2024) 设计了将 ChatGPT 作为“写作搭档”的双轨修改任务，迫使学生对比自身草稿与 AI 修改版的句式逻辑，学生在反思日志中展现出极高的元认知监控深度；Tseng & Lin (2024) 与 Zhan & Yan (2025) 同样证实引导性提示能有效激发对机器产出的分析性审视。（pp. 6–7）
 > - **论证结构与辩证深度拓宽** Sykes (2024) 在普适计算学术写作实验中发现，利用 ChatGPT 充当“辩难对手”（Counterargument Generator）并结合[[Argument Mapping|论证图]]谱量规，使学生论文在反驳力与反思严密性得分上显著优于传统无技术辅助组；Chen et al. (2025) 与 Darmawansah et al. (2025) 也指出结构化对话显著促进了论据整合。
-> - **事实核查与[[Epistemology|认识论]]怀疑激发** Archila et al. (2024) 在科学写作任务中引导学生专门针对 AI 生成的文献与数据进行“红队测试”（Red-teaming），主动识别出 14 处[[AI Hallucination|事实幻觉]]与逻辑漏洞；Michalon & Camacho-Zúñiga (2023) 与 Šedlbauer et al. (2024) 亦证实显性[[AI Hallucination|幻觉识别训练]]能有效激发学生的实证核验习惯与[[Epistemological Vigilance|认识论警觉]]。
+> - **事实核查与[[Epistemology|认识论]]怀疑激发** Archila et al. (2024) 在科学写作任务中引导学生专门针对 AI 生成的文献与数据进行“红队测试”（Red-teaming），主动识别出 14 处事实幻觉与逻辑漏洞；Michalon & Camacho-Zúñiga (2023) 与 Šedlbauer et al. (2024) 亦证实显性幻觉识别训练能有效激发学生的实证核验习惯与[[Epistemological Vigilance|认识论警觉]]。
 > - **自我调节学习与策略监控** Yang et al. (2025) 对非传统大学生的追踪表明，经过提示词工程引导的学生学会了根据任务难度分阶段调配 AI 资源，展现出明确的前瞻计划、过程诊断与策略微调能力；Lee et al. (2024) 及 Shen & Chen (2025) 进一步指出反思规程能够促进策略性认知监控。
 > - **学科真实推理与专业情境化** Exintaris et al. (2023) 在药学临床处方分析中，利用 ChatGPT 模拟疑难病患互动，促使学生在专业伦理与药理机制的交叉点上开展高度情境化的临床决断推理；Kofahi & Husain (2025) 与 George-Reyes et al. (2024) 同样发现真实工程与商业情境能驱动高阶学科推理。
 

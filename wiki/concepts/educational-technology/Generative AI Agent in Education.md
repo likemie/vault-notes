@@ -10,7 +10,7 @@ aliases:
 summary: "基于大语言模型与多模态生成架构的自主教学交互系统，具备开放式情境推理、实时支架生成与多轮生成式对话能力，其促学成效高度取决于显性教学脚手架与反思约束。"
 type: concept
 domain: "educational-technology"
-related_count: 21
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -21,9 +21,12 @@ tags:
   - learning-science
   - instructional-scaffolding
 related_concepts:
+  - "[[Generative Artificial Intelligence]]"
   - "[[AI Agent in Education]]"
   - "[[Divergent Thinking]]"
   - "[[Formative Assessment]]"
+  - "[[AI Hallucination]]"
+  - "[[Cognitive Offloading]]"
   - "[[Learning Gain]]"
   - "[[Zone of Proximal Development]]"
   - "[[Creativity]]"
@@ -65,7 +68,7 @@ updated: 2026-08-25
 > [!concept-lens] 概念透镜
 > - **含义** 融合了生成式 AI 的开放表征能力与自主智能体（Autonomous Agent）的目标驱动、工具调用与长短期记忆机制，实现人机教学交互从“单向预设分流”向“双向协同共创”跃迁。
 > - **用途** 作为复杂开放任务（如编程探究、跨学科写作、科学问题解决）中的个性化认知支架、[[Divergent Thinking|发散思维]]启发伙伴与[[Formative Assessment|形成性评价]]工具。
-> - **边界** 生成式智能体存在输出幻觉（Hallucination）与非确定性特征；若缺乏显性教学法约束与教师引导，极易诱发学习者的[[Cognitive Offloading|认知卸载]]（Cognitive Offloading）与机械盲从。
+> - **边界** 生成式智能体存在输出[[AI Hallucination|幻觉]]（Hallucination）与非确定性特征；若缺乏显性教学法约束与教师引导，极易诱发学习者的[[Cognitive Offloading|认知卸载]]（Cognitive Offloading）与机械盲从。
 
 > [!citation-card]- 关键表述
 > 生成式智能体通过动态情境推理与开放式表征，能够为复杂任务提供多粒度自适应支架。在基础教育[[Meta-analysis|元分析]]中，生成式智能体对认知表现展现出显著促进效应（$g = 0.421, p < .001$），但其对高阶思维的赋能高度依赖显性反思量规与结构化探究脚手架。（[[Argument_Liu_2026_CHBR|Liu et al., 2026, pp. 2]], 7, 10–11）

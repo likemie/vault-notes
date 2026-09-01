@@ -9,7 +9,7 @@ aliases:
 summary: "基于大语言模型与多模态生成架构的认知中介技术，在教育中作为对话伙伴与边界对象驱动发散构想与认知重组，其认知效应高度取决于教学脚手架与认识论摩擦的维持。"
 type: concept
 domain: "educational-technology"
-related_count: 44
+related_count: 45
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Cognitive Offloading]]"
   - "[[Externalization]]"
+  - "[[AI Hallucination]]"
   - "[[Creativity]]"
   - "[[Critical Thinking]]"
   - "[[Scientific Literacy]]"
@@ -89,7 +90,7 @@ updated: 2026-09-01
 > [!concept-lens] 概念透镜
 > - **含义** 指具有开放上下文理解与概率性合成表征能力的智能技术，重塑了知识检索、表征[[Externalization|外化]]与人机分工的边界。
 > - **用途** 在教育中充当头脑风暴启发伙伴、二语写作脚手架、个性化形成性反馈提供者与跨学科概念连接中继。
-> - **边界** 区别于预设规则与决定论算法，其输出具有概率性非确定性与幻觉（Hallucination）特征；无法替代人类具身体验、伦理裁决与深层认识论判断。
+> - **边界** 区别于预设规则与决定论算法，其输出具有概率性非确定性与[[AI Hallucination|幻觉]]（Hallucination）特征；无法替代人类具身体验、伦理裁决与深层认识论判断。
 
 > [!citation-card]- 关键表述：高等教育认知塑造视角
 > 这些研究发现表明，ChatGPT 对学生认知的影响并非该工具自身所固有，而是依存于教学框架、任务设计和教学脚手架。在缺乏教学支架的情境中，研究者观察到[[Creativity|创造力]]优于[[Critical Thinking|批判性思维]]的非对称模式以及双重认知侵蚀，二者往往都由认知卸载所引发。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 1, 10)]]
@@ -127,7 +128,7 @@ updated: 2026-09-01
 > - **概率性语义表征与能力[[Emergence|涌现]]（Emergence & Representation）** 基于海量人类语料的自注意力机制，展现出跨学科模式识别、体裁迁移与概念重组能力，为开放探究提供即时知识连接。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 2–3)]]
 > - **提示词工程与[[Dialogue in Education|对话]]式认知脚手架（Prompt Scaffolding）** 将自然语言提示作为人机交互与思维[[Externalization|外化]]的界面，通过角色设定、追问指令与量规对齐，动态调整技术对[[Zone of Proximal Development|最近发展区]]的支持力度。[[Argument_Liu_2026_CHBR|(Liu et al., 2026, pp. 2, 10)]]
 > - **认知放大与[[Cognitive Offloading|认知卸载]]的动态张力（Amplification vs. Offloading）** 既能剥离机械性外在负荷以释放[[Working Memory|工作记忆]]投入高阶推理（认知放大），又极易因表面语义流畅性诱发心智怠惰与深度思考外包（有害卸载）。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 10–11)]]
-> - **[[Epistemological Vigilance|认识论警觉]]与多源[[Triangulation|三角互证]]（Epistemic Vigilance）** 学习者必须建立对抗模型幻觉与偏见的批判性怀疑态度，将 AI 生成内容与[[Primary and Secondary Documents|一手文献]]、教师点拨及同伴评议进行多源三角核验。[[Argument_Li_2026_CEAI|(Li et al., 2026, p. 11)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, pp. 34–36)]]
+> - **[[Epistemological Vigilance|认识论警觉]]与多源[[Triangulation|三角互证]]（Epistemic Vigilance）** 学习者必须建立对抗模型[[AI Hallucination|幻觉]]与偏见的批判性怀疑态度，将 AI 生成内容与[[Primary and Secondary Documents|一手文献]]、教师点拨及同伴评议进行多源三角核验。[[Argument_Li_2026_CEAI|(Li et al., 2026, p. 11)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, pp. 34–36)]]
 > - **教学活动系统与评价规则重构（Activity System Reconfiguration）** 推动教学评价从“关注最终文字成品”转向“关注提示词迭代链、事实查错过程与反思日志”的全程伴随式评价。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 11–13)]]
 
 > [!logic-map]- 生成式 AI 介入教学活动系统的中介机制
@@ -222,7 +223,7 @@ updated: 2026-09-01
 
 > [!warning] 适用局限
 > - **无法替代具身情境与实践经验** 实验室动手操作、真实[[Fieldwork|田野调查]]、面对面同伴共情与人际伦理协商等核心教育体验，均无法被纯文本/多模态生成式算法替代。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, pp. 32–34)]]
-> - **高度依赖领域先验知识** 只有当使用者本身具备一定的学科知识图式时，才能有效识别生成内容的幻觉与隐蔽逻辑断裂；新手初学者极易在缺乏基准判断力的情况下被误导。
+> - **高度依赖领域先验知识** 只有当使用者本身具备一定的学科知识图式时，才能有效识别生成内容的[[AI Hallucination|幻觉]]与隐蔽逻辑断裂；新手初学者极易在缺乏基准判断力的情况下被误导。
 
 ---
 

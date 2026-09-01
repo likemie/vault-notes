@@ -8,7 +8,7 @@ aliases:
 summary: "Bernstein（2001）提出的概念，指教育关系从学校扩展到整个社会的社会形态，Cowen 视其为分析 21 世纪教育变迁的关键理论资源"
 type: concept
 domain: "sociology-of-education"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Growth]]"
   - "[[Champ]]"
   - "[[Scientism]]"
+  - "[[AI Hallucination]]"
   - "[[Space of Flows and Space of Places]]"
   - "[[Educated Identity]]"
 related_theories: []
@@ -96,7 +97,7 @@ updated: '2026-07-04'
 
 ## 学科重构的伦理应对
 
-为了在 AI 监控资本主义支配的全盘教育化社会中保持学术警觉性，[[Robert Cowen]] 提出比较教育必须放弃旧有的唯[[Scientism|科学主义]]预测幻觉与应用咨询倒退，战略性地回归二元支点：
+为了在 AI 监控资本主义支配的全盘教育化社会中保持学术警觉性，[[Robert Cowen]] 提出比较教育必须放弃旧有的唯[[Scientism|科学主义]]预测[[AI Hallucination|幻觉]]与应用咨询倒退，战略性地回归二元支点：
 
 > [!dimension] 应对全盘教育化社会挑战的二元伦理支点
 > - **转移问题（Transfer）**

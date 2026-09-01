@@ -7,7 +7,7 @@ aliases:
 summary: "批判性认识论与认知科学概念，指研究者与学习者持续审视日常语言、前科学常识预设及算法表面流畅性以维持认知主体性与深层推理的心智机制。"
 type: concept
 domain: "research-methodology"
-related_count: 37
+related_count: 38
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Epistemic Friction]]"
   - "[[Cognitive Offloading]]"
   - "[[Reliability]]"
+  - "[[AI Hallucination]]"
   - "[[Critical Thinking]]"
   - "[[Creativity]]"
   - "[[Surface and Deep Learning]]"
@@ -79,7 +80,7 @@ updated: 2026-09-01
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向主体在面对外部信息与中介工具时，主动评估证据[[Reliability|可靠性]]、识别概念预设与检验逻辑自洽性的动态反思倾向。
-> - **用途** 帮助社会科学研究者破除对“领导力”、“教学质量”等日常规范性概念的未经审查的接受；帮助高等教育学习者在人机协同中识别模型幻觉、解构顺滑表象并维持深层[[Critical Thinking|批判性思维]]。
+> - **用途** 帮助社会科学研究者破除对“领导力”、“教学质量”等日常规范性概念的未经审查的接受；帮助高等教育学习者在人机协同中识别模型[[AI Hallucination|幻觉]]、解构顺滑表象并维持深层[[Critical Thinking|批判性思维]]。
 > - **边界** 区别于对一切知识持怀疑态度的虚无主义，它旨在通过严格的标准校准与[[Triangulation|三角互证]]确立可靠认识；同时超越事后静态的质检操作，是一种内嵌于认知监控与探究活动全过程的能动性状态。
 
 > [!citation-card]- 关键表述：社会学方法论视角
@@ -105,7 +106,7 @@ updated: 2026-09-01
 > | 比较维度 | 社会学反思方法论语境 | 认知与演化科学语境 | [[Generative Artificial Intelligence\|生成式 AI]] 与人机学习科学语境 |
 > |---|---|---|---|
 > | **核心分析主体** | 社会科学研究者、教育行政学者 | 人类个体、信息接收者与沟通者 | 人机协同中的大学生、专业探究者 |
-> | **警觉针对的核心客体** | 日常惯用词、常识概念（[[Doxa]]）、制度化神圣标签 | 欺骗性言论、不可靠信息源、虚假陈述 | 模型幻觉（Hallucination）、算法偏见、表面语义流畅性 |
+> | **警觉针对的核心客体** | 日常惯用词、常识概念（[[Doxa]]）、制度化神圣标签 | 欺骗性言论、不可靠信息源、虚假陈述 | 模型[[AI Hallucination\|幻觉]]（Hallucination）、算法偏见、表面语义流畅性 |
 > | **内在认知与社会机制** | 参与性对象化、对对象建构过程的持续批判 | 认知信任校准、信念修正与反省性推理 | [[Metacognition\|元认知]]监控、认识论摩擦维持、提示词迭代核查 |
 > | **防御失败的典型后果** | 沦为既有权力结构与管理主义的合法化工具 | 陷入认知盲从与错误信念传播 | 触发有害的[[Cognitive Offloading\|认知卸载]]、批判思维退化与心智外包 |
 > | **代表性理论与学者** | Bourdieu et al. (1968/1991); [[Argument_Eacott_2015_EPT\|Eacott (2015)]] | Sperber et al. (2010); Medina (2013) | Ng et al. (2021); [[Argument_Li_2026_CEAI\|Li et al. (2026)]] |
@@ -158,7 +159,7 @@ updated: 2026-09-01
 > 该命题阐明在[[Generative Artificial Intelligence|生成式人工智能]]深度融入学习活动的背景下，认识论警觉是防止学生从“人机[[Dialogue in Education|对话]]伙伴”滑向“被动心智外包”的关键调节[[Variable|变量]]。
 
 > [!claim] Li, C.
-> **显性 AI 素养对认识论警觉的激活与反思放大机制** 大语言模型生成的文本具有极高的表层语义流畅性与语法规范性，若缺乏显性引导，学习者倾向于全盘接受输出，导致严重的[[Cognitive Offloading|认知卸载]]、事实盲从与论证退化。通过在课程中嵌入显性[[AI Literacy|人工智能素养]]模块（重点讲授概率生成机制、偏见识别与幻觉侦测）以及反思规程，能够有效激活学习者的认识论警觉，使其将 AI 视为需要审问的对话伙伴而非直接答案提供者，进而驱动[[Critical Thinking|批判性思维]]的显著增长。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 10–11)]]
+> **显性 AI 素养对认识论警觉的激活与反思放大机制** 大语言模型生成的文本具有极高的表层语义流畅性与语法规范性，若缺乏显性引导，学习者倾向于全盘接受输出，导致严重的[[Cognitive Offloading|认知卸载]]、事实盲从与论证退化。通过在课程中嵌入显性[[AI Literacy|人工智能素养]]模块（重点讲授概率生成机制、偏见识别与[[AI Hallucination|幻觉]]侦测）以及反思规程，能够有效激活学习者的认识论警觉，使其将 AI 视为需要审问的对话伙伴而非直接答案提供者，进而驱动[[Critical Thinking|批判性思维]]的显著增长。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 10–11)]]
 
 > [!claim] Medina, J.
 > **[[Epistemic Friction|认识论摩擦]]作为[[Surface and Deep Learning|深层学习]]所必需的生产性张力** 高阶心智的发展高度依赖于主体在面对异质观点与复杂事实时所经历的“认识论摩擦”（Epistemic Friction）。生成式 AI 的平滑输出天然具有抹平认知阻力的危险；唯有当学习者维持高水平的认识论警觉、主动设置论证质疑与事实核查关卡时，这种生产性张力才能得以维系，从而迫使长时记忆图式深度参与高阶推理。[[Argument_Li_2026_CEAI|(Medina, 2013; Li et al., 2026, p. 10)]]
@@ -225,7 +226,7 @@ updated: 2026-09-01
 > |---|---|---|---|---|---|---|
 > | [[Argument_Li_2026_CEAI\|Li et al. (2026, p. 6)]] | 全球 67 项高等教育实证研究（2022–2025） | [[PRISMA]] [[Systematic Review\|系统综述]]与主题综合（[[Mixed Methods Appraisal Tool\|MMAT]] 评估） | [[Critical Thinking\|批判性思维]]赋能机制：事实核查与查错机制主题 | 19 项实证研究明确报告显性查错与[[Epistemology\|认识论]]怀疑激发批判性思维增长 | 纳入文献 87% MMAT $\ge 80\%$ | 证实教学情境中认识论警觉训练能有效转化为分析性思维 |
 > | [[Argument_Li_2026_CEAI\|Li et al. (2026, p. 7)]] | 全球 67 项高等教育实证研究（2022–2025） | PRISMA 系统综述与主题综合（MMAT 评估） | 批判性思维风险机制：过度依赖与心智怠惰主题 | 21 项实证研究报告缺乏警觉导致直接复制粘贴与[[Cognitive Offloading\|认知卸载]] | — | 揭示非结构化环境中认识论警觉缺失带来的普遍思维退化 |
-> | [[Argument_Li_2026_CEAI\|Li et al. (2026, p. 11)]] (引述 Archila et al., 2024) | 大学本科生科学写作课程 | 教学干[[Pilot Testing\|预实验]]与文本分析 | 对抗性红队测试（Red-teaming）与幻觉识别 | 学生在[[Reflexivity\|反思性]]核查任务中主动识别出 14 处模型虚构[[Document\|文献]]与事实幻觉 | — | 证明结构化查错规程能将认识论警觉转化为可测量的核验行为 |
+> | [[Argument_Li_2026_CEAI\|Li et al. (2026, p. 11)]] (引述 Archila et al., 2024) | 大学本科生科学写作课程 | 教学干[[Pilot Testing\|预实验]]与文本分析 | 对抗性红队测试（Red-teaming）与[[AI Hallucination\|幻觉]]识别 | 学生在[[Reflexivity\|反思性]]核查任务中主动识别出 14 处模型虚构[[Document\|文献]]与事实幻觉 | — | 证明结构化查错规程能将认识论警觉转化为可测量的核验行为 |
 > | [[Argument_Eacott_2015_EPT\|Eacott (2015, p. 324)]] | 教育行政与领导力学术文献 | 理论介入与学科话语认识论解构 | “领导力”等日常概念的批判性审视频率 | 绝大多数主流教育行政研究未对其规范性主旨提出认识论质疑 | — | 质性理论分析，揭示学科[[Champ\|场域]]对前科学概念警觉的系统性缺位 |
 
 ---

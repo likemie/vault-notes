@@ -40,6 +40,7 @@ related_concepts:
   - "[[Predictive Validity]]"
   - "[[Epistemic Aims]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[AI Hallucination]]"
   - "[[Likert Scale]]"
   - "[[Metacognition]]"
   - "[[Dialogue in Education]]"
@@ -83,7 +84,7 @@ title: "Argument_Sandoval_2016_RRE"
 argument_key: "Argument_Sandoval_2016_RRE"
 argument_display_title: "Understanding and Promoting Thinking About Knowledge: Origins, Issues, and Future Directions of Research on Epistemic Cognition"
 argument_kind: "journal-article"
-argument_related_count: 50
+argument_related_count: 51
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -230,7 +231,7 @@ issuing_organization: ""
 > - **链节一 线性发展阶段模型的美好设想**
 >   受 Piaget 发生认识论影响，早期学者（如 Perry, [[Thomas Kuhn|Kuhn]]）构建了极其整饬的单向发展阶段模型：假定个体会随着年龄和受教育程度的增长，不可逆地从“绝对主义/双元论”（盲信权威事实），攀升至“多元论”，最后抵达高级的“评价主义/相对主义”（能评估知识的情境与证据逻辑）。
 > - **链节二 跨年龄与跨情境的实证乱象**
->   然而，真实数据无情击碎了这种单向攀升的幻觉。Chandler et al. (2002) 发现，哪怕是幼童在某些特定领域也会表现出高级的“相对主义”思维；同时，大量研究表明，受过高等教育的成年人在许多日常情境中，依然会表现出退行到极度低级的“绝对主义”或盲信状态。
+>   然而，真实数据无情击碎了这种单向攀升的[[AI Hallucination|幻觉]]。Chandler et al. (2002) 发现，哪怕是幼童在某些特定领域也会表现出高级的“相对主义”思维；同时，大量研究表明，受过高等教育的成年人在许多日常情境中，依然会表现出退行到极度低级的“绝对主义”或盲信状态。
 > - **链节三 究竟是“递归发展”还是“情境适应”？**
 >   为了挽救理论，部分学者提出发展轨迹可能是“递归（recursive）”的，允许进退。但 Sandoval 敏锐地指出，如果个体可以根据具体情境在所谓“高级”和“低级”阶段间反复横跳，那么用“发展（development）”（隐含必然的系统性正向演进）一词来描述这种现象是否还有理论合法性？这到底是大脑底层的“发育”，还仅仅是主体出于现实需要对不同社会规范的“情境适应（contextual adaptation）”？
 

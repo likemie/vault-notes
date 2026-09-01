@@ -10,7 +10,7 @@ aliases:
 summary: "指公众自愿、直接参与科学研究全过程（如数据采集、模式分类、知觉测评、环境监测或课题共创）的协作科研与社会参与范式，兼具前沿科学突破、公众科学资本累积与社区生态治理的多维赋权价值。"
 type: concept
 domain: "research-methodology"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Scientific Literacy]]"
   - "[[Self-Efficacy]]"
   - "[[Knowledge Production]]"
+  - "[[AI Hallucination]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Dialogue in Education]]"
 related_facts:
@@ -127,7 +128,7 @@ updated: 2026-08-23
 
 ### 命题三　前沿认知与艺术跨界公民科学开创了大规模神经多样性实证与认识论重塑新范式
 
-> [!concept-lens] 认知实证与受控幻觉洞见
+> [!concept-lens] 认知实证与受控[[AI Hallucination|幻觉]]洞见
 > 将深奥的脑科学实验转化为生动互动测评，促成公众[[Epistemology|认识论]]从常识实在论向预测加工的主动构建跃迁。
 
 > [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|The Royal Society (2026b, p. 43)]]

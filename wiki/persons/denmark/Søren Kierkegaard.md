@@ -5,12 +5,13 @@ summary: "丹麦哲学家，存在主义起源者之一，以对客观性的深�
 type: person
 nationality: denmark
 person_region: "denmark"
-person_related_count: 2
+person_related_count: 3
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
 tags: [person/philosopher, person/existentialist, theme/existentialism]
 related_concepts:
+  - "[[AI Hallucination]]"
   - "[[Dehumanization]]"
 related_theories: []
 related_methods: []
@@ -37,7 +38,7 @@ updated: 2026-07-11
 克尔凯郭尔关注个体及其实现自身最高发展水平的需要——这种自我实现就是存在的意义，存在是"具体的和个体的，独特的和不可还原的，不适合于概念化"（Beck, 1979）。他以客观性为最大的靶子（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）：
 
 > [!voice] 克尔凯郭尔的核心批判
-> 客观性是最大的幻觉——它意味着将行为和思想的规则强加于人，将人变为一个站在外部、旨在发现普遍法则的旁观者。他主张必须恢复和保持"主观性的能力"（capacity for subjectivity）——即考虑自己与研究对象之间关系的能力，而非将自己从这种关系中抽离出来。
+> 客观性是最大的[[AI Hallucination|幻觉]]——它意味着将行为和思想的规则强加于人，将人变为一个站在外部、旨在发现普遍法则的旁观者。他主张必须恢复和保持"主观性的能力"（capacity for subjectivity）——即考虑自己与研究对象之间关系的能力，而非将自己从这种关系中抽离出来。
 
 ### 客观性与主观性的对比
 

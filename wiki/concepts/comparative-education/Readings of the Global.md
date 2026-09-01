@@ -7,7 +7,7 @@ aliases:
 summary: "Cowen 用于分析比较教育在不同时期关注哪个世界的五阶段历史分期框架，从 18 世纪末的世俗化阅读到冷战后的全球化"
 type: concept
 domain: "comparative-education"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -16,6 +16,7 @@ tags:
 - theory/comparative-education
 - paradigm/historical
 related_concepts:
+  - "[[AI Hallucination]]"
   - "[[Epistemology]]"
   - "[[Paradigm]]"
   - "[[Agendas of Attention]]"
@@ -59,7 +60,7 @@ updated: 2026-08-20
 
 > [!concept-lens] 概念透镜
 > - **含义** 指学科对外部地缘政治冲突和全球经济秩序的宏观叙事回应。它阐明比较教育从来不是真空中发展的中立学科，而是地缘政治秩序的晴雨表。(pp. 330–331)
-> - **用途** 用于解构比较教育作为客观中立咨询或纯粹科学的合法化幻觉，揭示学术研究注意力随大国博弈和世界秩序起舞的共谋本质。(p. 331)
+> - **用途** 用于解构比较教育作为客观中立咨询或纯粹科学的合法化[[AI Hallucination|幻觉]]，揭示学术研究注意力随大国博弈和世界秩序起舞的共谋本质。(p. 331)
 > - **边界** 区别于[[Epistemology|认识论]][[Paradigm|范式]]（如四种理解形式）——认识论范式关注学科“如何理解”教育现象，而全球解读关注学科在特定时代所选取的“全球背景板”与[[Agendas of Attention|注意力议程]]。(p. 332)
 
 ---
