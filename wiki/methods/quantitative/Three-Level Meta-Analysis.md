@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-20
-updated: 2026-08-25
+updated: 2026-09-02
 ---
 
 # Three-Level Meta-Analysis
@@ -192,3 +192,4 @@ updated: 2026-08-25
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Song_Choi_2026_FPSYG|Song & Choi (2026)]] — 采用三层[[Meta-analysis|元分析]]模型分析了嵌套在 18 项研究中的 512 个[[Effect Size|效应量]]，妥善处理了单个研究同时报告多个[[Epistemology|认识论]][[Construct|构念]]与学习成果指标所造成的统计依赖性。
 > - [[Argument_Park_2026_TSC|Park et al. (2026)]] — 对嵌套在 29 项研究中的 51 个相关系数采用三层随机效应[[Meta-analysis|元分析]]，将方差分解为[[Sampling Error|抽样误差]]、研究内与研究间三层，处理同一研究报告多个测量组合[[Effect Size|效应量]]造成的统计依赖性。
+> - [[Argument_Guo_2025_TSC|Guo et al. (2025)]] — 对 2000–2024 年间 29 项实证研究中的 109 个效应量采用多层随机效应模型（Hedges' $g$），检验创造力训练对大学生发散思维、言语、图形、词汇及问题解决等维度的促进效应及时间与干预类型的调节作用。

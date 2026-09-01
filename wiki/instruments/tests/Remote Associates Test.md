@@ -36,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-09-02
 ---
 
 # Remote Associates Test
@@ -84,3 +84,4 @@ updated: 2026-08-25
 > |---|---|---|---|---|
 > | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | — | 讨论中作为思维型[[Creativity\|创造力]]测量示例；未直接纳入[[Meta-analysis\|元分析]] | — | RAT 与[[Divergent Thinking\|发散思维]]任务强调的分析推理、联想流畅性与[[Critical Thinking\|批判性思维]]高度一致，相关方向支持两[[Construct\|构念]]共享认知过程 |
 > | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 过程类测量代表 | 二阶综合中创造过程与[[Problem Finding\|问题发现]]类测量 | — | 过程类测量二阶关联效应 $r = 0.27$，在创造力关联中最强 |
+> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 远距离联想测验（RAT） | 大学生创造力干预多层元分析（纳入 Fleury et al., 2020; Hargrove & Nietfeld, 2015; Ritter & Mostert, 2017; Zitek & Vincent, 2015 等） | 联想思维与概念重组客观测量 | 检验基于技术与思维干预对大学生远距离联想与问题解决（$g = 0.539$）的促进效果 |
