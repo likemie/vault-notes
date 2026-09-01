@@ -1,6 +1,7 @@
 ---
 citation: "Li, C., Cui, H., & Hagedorn, L. S. (2026). The cognitive impact of ChatGPT in higher education: A systematic review of critical and creative thinking outcomes. Computers and Education: Artificial Intelligence, 10, Article 100571. https://doi.org/10.1016/j.caeai.2026.100571"
-extracted_to: []
+extracted_to:
+  - "[[Argument_Li_2026_CEAI]]"
 processed_date: 2026-08-31
 ---
 
