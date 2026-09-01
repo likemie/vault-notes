@@ -119,7 +119,7 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> 生成式人工智能（以 ChatGPT 为代表）在高等教育中的迅速普及引发了关于学生高阶心智发展的广泛争议。既有综述多将[[Higher-Order Thinking Skills|高阶思维]]笼统合并为一般的[[Academic Achievement|学业表现]]、学习动机或宽泛的认知参与，未能系统区分收敛性认知加工（如[[Critical Thinking|批判性思维]]）与发散性认知加工（如[[Creativity|创造性思维]]）在人机交互中所受到的[[Heterogeneity|异质性]]塑造。本研究旨在系统探究：在高等教育不同教学情境与任务设计下，ChatGPT 如何分别塑造大学生的批判性思维与创造性思维？二者在人机协同学习中呈现何种共现演进模式？哪些教学调节条件能够促进高阶思维的协同发展并规避认知退化风险？
+> [[Generative Artificial Intelligence|生成式人工智能]]（以 ChatGPT 为代表）在高等教育中的迅速普及引发了关于学生高阶心智发展的广泛争议。既有综述多将[[Higher-Order Thinking Skills|高阶思维]]笼统合并为一般的[[Academic Achievement|学业表现]]、学习动机或宽泛的认知参与，未能系统区分收敛性认知加工（如[[Critical Thinking|批判性思维]]）与发散性认知加工（如[[Creativity|创造性思维]]）在人机交互中所受到的[[Heterogeneity|异质性]]塑造。本研究旨在系统探究：在高等教育不同教学情境与任务设计下，ChatGPT 如何分别塑造大学生的批判性思维与创造性思维？二者在人机协同学习中呈现何种共现演进模式？哪些教学调节条件能够促进高阶思维的协同发展并规避认知退化风险？
 
 > [!claim] 核心主张
 > ChatGPT 对大学生认知发展的影响并非技术固有的必然属性，而是高度依存于任务的教学情境与脚手架设计。当嵌入探究导向、反思提示与[[Dialogue in Education|对话]]式互动的[[Structured Teaching|结构化教学]]设计中时，ChatGPT 能够作为认知放大器与中介伙伴，通过促进[[Metacognition|元认知]]监控、论证建构与发散构想，驱动批判性思维与创造性思维的“双向协同增益”；反之，在缺乏教学支架的非结构化或工具主义应付情境中，ChatGPT 会诱发严重的[[Cognitive Offloading|认知卸载]]与心智惰性，导致“创造性繁荣伴随批判性萎缩”的非对称发展，乃至批判与创造能力的“双重认知侵蚀”。
@@ -178,7 +178,7 @@ issuing_organization: ""
 > [!ref-table]- 表3：[[Document|文献]]纳入与排除标准及设定依据（Inclusion Criteria for Article Selection）
 > | 筛选维度（Category） | 纳入标准（Inclusion Criteria） | 设定依据与方法论理性（Rationale） |
 > |---|---|---|
-> | **技术聚焦（Focus）** | 明确聚焦于 ChatGPT 或其底层大语言模型（GPT-3, GPT-4）的研究 | 剥离泛化教育技术或传统聊天机器人干扰，精准锚定生成式 AI 的认知影响。 |
+> | **技术聚焦（Focus）** | 明确聚焦于 ChatGPT 或其底层大语言模型（GPT-3, GPT-4）的研究 | 剥离泛化教育技术或传统聊天机器人干扰，精准锚定[[Generative Artificial Intelligence\|生成式 AI]] 的认知影响。 |
 > | **认知构念（Constructs）** | 明确考察学生的[[Critical Thinking\|批判性思维]]、[[Creativity\|创造性思维]]或[[Higher-Order Thinking Skills\|高阶思维]]表现 | 对齐本系统综述关于认知技能与心智发展演进的[[Central Question\|核心研究问题]]。 |
 > | **研究人群（Population）** | 大学本科生、研究生或高校专业教师 | 专门探究生成式技术对成年早期及高阶专业教育学习者的认知塑造。 |
 > | **教育情境（Context）** | 高等教育实体教学或在线大学课程环境 | 确保教学活动系统、学术规范与评估任务的一致性与情境可比性。 |
@@ -388,7 +388,7 @@ issuing_organization: ""
 ### 论证步骤四　重构生成式 AI 时代的教学干预规制与多源反馈生态
 
 > [!claim] 步骤四主张
-> 为化解生成式人工智能整合中的认知卸载危机并释放其高阶思维潜能，高等教育必须超越单纯的“技术接纳”或“机械禁令”的二元对立，依据[[Third Generation Activity Theory|活动理论]]全面重组教学规制，构建涵盖六大干预维度的教学法生态。
+> 为化解[[Generative Artificial Intelligence|生成式人工智能]]整合中的认知卸载危机并释放其高阶思维潜能，高等教育必须超越单纯的“技术接纳”或“机械禁令”的二元对立，依据[[Third Generation Activity Theory|活动理论]]全面重组教学规制，构建涵盖六大干预维度的教学法生态。
 
 > [!feature] 促进高阶思维发展的六大教学干预规制（pp. 11–13）
 > - **嵌入目标对齐的结构化认知支架（Aligned Cognitive Scaffolds）** 避免无边界的泛化使用，依据分析或生成目标提供分步指引：先要求学生拟定大纲，再用大模型拓展视角，继而对照评分量规开展自我批判。

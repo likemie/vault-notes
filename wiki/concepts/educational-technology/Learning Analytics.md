@@ -157,7 +157,7 @@ updated: 2026-08-27
 > - **2011 年 — 学习分析（LA）概念正式确立** 首届国际学习分析与知识大会（LAK 2011）召开，正式将 LA 定义为聚焦人类学习理解与优化的交叉学科，与偏重算法的 EDM 形成互补。
 > - **2010 年代中 — [[Preemptive Governance|先发制人治理]]与在线自测（[[Online Self-Assessment|OSA]]）应用** 欧美高校将 LA 技术前移至招生与衔接阶段，通过在线自测构建[[Digital Self|数字自我]]并开展先发制人式生源管理。[[Argument_Thompson_2022_Promising_Student|(Thompson et al., 2022, p. 224)]]
 > - **2010 年代末 — 国家级[[Learning Gain|学习增益]]（Learning Gain）大规模试验** 英国 [[Higher Education Funding Council for England|HEFCE]]（2014–2018）、德国 [[KoKoHs Program|KoKoHs]] 与意大利 [[TECO Project|TECO]] 运用机考分析与 [[Collegiate Learning Assessment|CLA+]] 等工具开展院校增值测查。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 17–19)]]
-> - **2020 年代至今 — 生成式 AI 时代的多模态分析与高阶素养对齐** 面对大语言模型冲击，学习分析正转向多模态过程性证据整合，探索如何通过真实表现量规克服[[Multiple-Choice Questions|选择题]]分析的[[Construct|构念]]代表性不足。
+> - **2020 年代至今 — [[Generative Artificial Intelligence|生成式 AI]] 时代的多模态分析与高阶素养对齐** 面对大语言模型冲击，学习分析正转向多模态过程性证据整合，探索如何通过真实表现量规克服[[Multiple-Choice Questions|选择题]]分析的[[Construct|构念]]代表性不足。
 
 ---
 

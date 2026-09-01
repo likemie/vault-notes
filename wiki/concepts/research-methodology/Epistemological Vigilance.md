@@ -100,7 +100,7 @@ updated: 2026-09-01
 ## 概念辨析
 
 > [!contrast-table] [[Epistemology|认识论]]警觉在跨学科语境中的[[Construct|构念]]辨析
-> | 比较维度 | 社会学反思方法论语境 | 认知与演化科学语境 | 生成式 AI 与人机学习科学语境 |
+> | 比较维度 | 社会学反思方法论语境 | 认知与演化科学语境 | [[Generative Artificial Intelligence\|生成式 AI]] 与人机学习科学语境 |
 > |---|---|---|---|
 > | **核心分析主体** | 社会科学研究者、教育行政学者 | 人类个体、信息接收者与沟通者 | 人机协同中的大学生、专业探究者 |
 > | **警觉针对的核心客体** | 日常惯用词、常识概念（[[Doxa]]）、制度化神圣标签 | 欺骗性言论、不可靠信息源、虚假陈述 | 模型幻觉（Hallucination）、算法偏见、表面语义流畅性 |
@@ -153,7 +153,7 @@ updated: 2026-09-01
 ### 命题二　认识论警觉是学习者化解算法表面流畅性迷思并抵御认知卸载的核心防线
 
 > [!concept-lens] 人机协同学习与高阶心智维持维度
-> 该命题阐明在生成式人工智能深度融入学习活动的背景下，认识论警觉是防止学生从“人机[[Dialogue in Education|对话]]伙伴”滑向“被动心智外包”的关键调节[[Variable|变量]]。
+> 该命题阐明在[[Generative Artificial Intelligence|生成式人工智能]]深度融入学习活动的背景下，认识论警觉是防止学生从“人机[[Dialogue in Education|对话]]伙伴”滑向“被动心智外包”的关键调节[[Variable|变量]]。
 
 > [!claim] Li, C.
 > **显性 AI 素养对认识论警觉的激活与反思放大机制** 大语言模型生成的文本具有极高的表层语义流畅性与语法规范性，若缺乏显性引导，学习者倾向于全盘接受输出，导致严重的[[Cognitive Offloading|认知卸载]]、事实盲从与论证退化。通过在课程中嵌入显性[[AI Literacy|人工智能素养]]模块（重点讲授概率生成机制、偏见识别与幻觉侦测）以及反思规程，能够有效激活学习者的认识论警觉，使其将 AI 视为需要审问的对话伙伴而非直接答案提供者，进而驱动[[Critical Thinking|批判性思维]]的显著增长。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 10–11)]]
@@ -232,4 +232,4 @@ updated: 2026-09-01
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Eacott_2015_EPT|Eacott (2015)]] — 以 Bourdieu [[Epistemology|认识论]]预备为框架，系统论证教育行政学者因具身嵌入性而对日常管理语言丧失警觉的危机，呼吁将对象建构过程本身作为反思客体。
-> - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — [[Systematic Review|系统综述]]生成式 AI 对大学生[[Higher-Order Thinking Skills|高阶思维]]的塑造，实证确立认识论警觉与认识论摩擦在抵御算法顺滑表象、防止有害[[Cognitive Offloading|认知卸载]]中的核心支架作用。
+> - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — [[Systematic Review|系统综述]][[Generative Artificial Intelligence|生成式 AI]] 对大学生[[Higher-Order Thinking Skills|高阶思维]]的塑造，实证确立认识论警觉与认识论摩擦在抵御算法顺滑表象、防止有害[[Cognitive Offloading|认知卸载]]中的核心支架作用。

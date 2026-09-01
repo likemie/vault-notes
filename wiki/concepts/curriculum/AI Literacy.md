@@ -52,7 +52,7 @@ updated: 2026-09-01
 > 人工智能素养是指个体理解人工智能（Artificial Intelligence, AI）工具的基本运作原理、技术局限与社会伦理影响，能够在生活、学习与工作中负责任地使用智能工具，将其作为**放大（Amplify）人类认知与[[Creativity|创造力]]**的辅助工具，而非替代或外包（Outsource）人类独立[[Critical Thinking|批判性思维]]与实证探索的综合胜任力。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, p. 32)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 在大语言模型（LLMs）与生成式 AI 深度渗透日常生活的背景下，培养学生对算法输出的审视、质疑、验证与伦理把控能力。
+> - **含义** 在大语言模型（LLMs）与[[Generative Artificial Intelligence|生成式 AI]] 深度渗透日常生活的背景下，培养学生对算法输出的审视、质疑、验证与伦理把控能力。
 > - **用途** 防止技术依赖导致深层认知参与退化，保障学术诚信与有效评估，赋能未来公民在智能化社会中保持主体性。
 > - **边界** 不等于计算机底层的代码编写与模型算法开发，而是面向所有数字公民的技术认知、伦理审思与批判性应用素养。
 
@@ -89,7 +89,7 @@ updated: 2026-09-01
 ### 命题二　AI 素养普及倒逼课程体系贯穿嵌入与综合测评效度重塑
 
 > [!concept-lens] 测评生态重构
-> 传统的封闭式纸笔事实记忆测试在生成式 AI 面前效度崩塌，倒逼测评向真实情境探究与口头答辩转型。
+> 传统的封闭式纸笔事实记忆测试在[[Generative Artificial Intelligence|生成式 AI]] 面前效度崩塌，倒逼测评向真实情境探究与口头答辩转型。
 
 > [!claim] 综合测评改革
 > 应对 AI 对传统课后[[Homework|作业]]与记忆考试的颠覆性冲击，教育系统不能将 AI 素养孤立为附加选修，必须将其作为贯穿线索嵌入主干学科，并加快开发基于真实情境、多源证据评析与现场探究答辩的综合测评方案。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, p. 34)]]

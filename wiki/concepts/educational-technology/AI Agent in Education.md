@@ -63,7 +63,7 @@ updated: 2026-08-25
 ## 定义
 
 > [!def] 核心定义
-> 教育智能体（Artificial Intelligence Agents in Education, AI Agent）是指在教学与学习环境中，能够感知学习者输入与状态、自主执行决策并提供自适应脚手架与即时反馈的人工智能计算系统。与静态教育数字资源不同，教育智能体能够根据学习者的认知水平、答题表现与交互轨迹动态调整教学步调与支架强度，在基础教育（Kindergarten through Twelfth Grade, K-12）中主要体现为[[Intelligent Tutoring Systems|智能导师系统]]（Intelligent Tutoring Systems, ITS）、[[Educational Robotics|人工智能教育机器人]]（AI Educational Robotics）、[[Generative AI Agent in Education|生成式智能体]]（Generative AI Agents）以及[[Dialogue in Education|对话]]式智能体（[[Conversational AI in Education|Conversational AI Agents]]）四种技术形态。[[Argument_Liu_2026_CHBR|(Liu et al., 2026, pp. 1–3, 5)]]
+> 教育智能体（Artificial Intelligence Agents in Education, AI Agent）是指在教学与学习环境中，能够感知学习者输入与状态、自主执行决策并提供自适应脚手架与即时反馈的人工智能计算系统。与静态教育数字资源不同，教育智能体能够根据学习者的认知水平、答题表现与交互轨迹动态调整教学步调与支架强度，在基础教育（Kindergarten through Twelfth Grade, K-12）中主要体现为[[Intelligent Tutoring Systems|智能导师系统]]（Intelligent Tutoring Systems, ITS）、[[Educational Robotics|人工智能教育机器人]]（AI Educational Robotics）、[[Generative AI Agent in Education|生成式智能体]]（[[Generative Artificial Intelligence|Generative AI]] Agents）以及[[Dialogue in Education|对话]]式智能体（[[Conversational AI in Education|Conversational AI Agents]]）四种技术形态。[[Argument_Liu_2026_CHBR|(Liu et al., 2026, pp. 1–3, 5)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 在人机互动学习中扮演指导者、辅导者、评估者或反思同伴角色的自适应智能中介系统。
@@ -77,7 +77,7 @@ updated: 2026-08-25
 
 > [!boundary]- 概念边界
 > - **不等于静态数字化学习材料** 录播视频、电子文本或静态测试软件仅单向呈现预设内容，缺乏基于学习者行为数据的动态推断、自适应支架调整与双向多轮对话能力。
-> - **不等于通用基础大模型工具** 未经教育情境化微调、缺乏提示词结构化脚手架或教学评价规程的裸大模型并不具备自洽的教学智能体机能，容易引发无约束的认知卸载与信息幻觉。
+> - **不等于通用基础大模型工具** 未经教育情境化微调、缺乏提示词结构化脚手架或教学评价规程的裸大模型并不具备自洽的教学智能体机能，容易引发无约束的[[Cognitive Offloading|认知卸载]]与信息幻觉。
 > - **不等于完全自动化替代教师** 教育智能体主要承担程序性技能训练、自适应练习分流与即时语法与运算纠错，其效能深度依赖人类教师的教学法设计、情境创设与反思引导。
 
 ---
@@ -99,7 +99,7 @@ updated: 2026-08-25
 > [!feature] 四类核心教育智能体技术形态（Istrate, 2025; [[Argument_Liu_2026_CHBR|Liu et al., 2026]]）
 > - **[[Intelligent Tutoring Systems|智能导师系统]]（Intelligent Tutoring Systems, ITS）** 基于领域知识图谱、学生认知模型与教学决策算法，提供结构化分步解题引导与自适应规则提示的专用系统。在数学与理科程序性问题解决中展现出最强干预效能（$g = 0.540$）。
 > - **[[Educational Robotics|人工智能教育机器人]]（AI Educational Robotics）** 具备物理具身或拟人化外显形态的智能交互实体，通过多模态交互（语音、手势、动作）提供陪伴式、探究式学习体验（$g = 0.474$），多应用于低幼与小学阶段的语言认读与跨学科活动。
-> - **[[Generative AI Agent in Education|生成式智能体]]（Generative AI Agents, GenAI Agents）** 基于大型语言模型（Large Language Models, LLM）或多模态生成技术，支持开放式问答、代码辅助调试、写作支架生成与探究任务共创的智能体系统（$g = 0.421$）。
+> - **[[Generative AI Agent in Education|生成式智能体]]（[[Generative Artificial Intelligence|Generative AI]] Agents, GenAI Agents）** 基于大型语言模型（Large Language Models, LLM）或多模态生成技术，支持开放式问答、代码辅助调试、写作支架生成与探究任务共创的智能体系统（$g = 0.421$）。
 > - **[[Dialogue in Education|对话]]式智能体（[[Conversational AI in Education|Conversational AI Agents]]）** 依托自然语言处理（Natural Language Processing, NLP）驱动的聊天机器人或语音助手，支持口语对话练习、词汇问答与交互式反馈（$g = 0.468$），广泛应用于外语与第二语言口语流利度训练。[[Argument_Liu_2026_CHBR|(Liu et al., 2026, pp. 5, 11)]]
 
 > [!logic-map]- 教育智能体认知交互与赋能架构
@@ -172,7 +172,7 @@ updated: 2026-08-25
 > 阐明 AI 智能体促进[[Critical Thinking|批判性思维]]、探究推理与[[Creativity|创造力]]等高阶认知表现时面临的高[[Heterogeneity|异质性]]与教学法条件。
 
 > [!claim] [[Argument_Liu_2026_CHBR|Liu et al. (2026)]]
-> **高阶思维赋能的不确定性与支架依赖** 元分析数据显示，AI 智能体对高阶思维技能（Higher-Order Thinking Skills）的汇总效应点估计值虽大（$g = 0.540$），但未达到[[Statistical Significance|统计显著性]]门槛（$p = .066$），且存在极高的跨研究异质性（$I^2 = 95.4\%$）。这一结果揭示出 AI 赋能高阶认知的双重属性：当[[Generative AI Agent in Education|生成式智能体]]与探究式学习、项目驱动或[[Reflexivity|反思性]]调试策略（如教师指导脚手架与结构化反思量规）紧密结合时，能够有效释放[[Working Memory|工作记忆]]、激活深层推理；但若缺乏教学法约束与思维导引，学生容易陷入低水平机械互动或认知卸载，难以自发实现高阶认知进阶。[[Argument_Liu_2026_CHBR|(Liu et al., 2026, pp. 7, 10–11)]]
+> **高阶思维赋能的不确定性与支架依赖** 元分析数据显示，AI 智能体对高阶思维技能（Higher-Order Thinking Skills）的汇总效应点估计值虽大（$g = 0.540$），但未达到[[Statistical Significance|统计显著性]]门槛（$p = .066$），且存在极高的跨研究异质性（$I^2 = 95.4\%$）。这一结果揭示出 AI 赋能高阶认知的双重属性：当[[Generative AI Agent in Education|生成式智能体]]与探究式学习、项目驱动或[[Reflexivity|反思性]]调试策略（如教师指导脚手架与结构化反思量规）紧密结合时，能够有效释放[[Working Memory|工作记忆]]、激活深层推理；但若缺乏教学法约束与思维导引，学生容易陷入低水平机械互动或[[Cognitive Offloading|认知卸载]]，难以自发实现高阶认知进阶。[[Argument_Liu_2026_CHBR|(Liu et al., 2026, pp. 7, 10–11)]]
 
 ---
 
@@ -224,7 +224,7 @@ updated: 2026-08-25
 > | Chen et al. (2024)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 交互式古诗词虚拟人物问答智能体 vs. 传统精读教学 | 语文古诗词意境理解与鉴赏表现 | $N = 80$ | — | Hedges' $g = 1.15$ | $p < .001$ | 准实验设计；多轮对话激发深度意境共鸣 |
 > | Feng & Wang (2023)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 拟人表情双语伴读机器人 vs. 传统音频听读 | 小学低段英语口语与听力理解 | $N = 64$ | — | Hedges' $g = 0.76$ | $p < .01$ | 准实验设计；具身多模态实体机器人低龄促学效果突出 |
 > | Fang et al. (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | [[Generative AI Agent in Education\|生成式 AI]]+显性反思量规 vs. 传统编程教学 | Python [[Computational Thinking\|计算思维]]与代码调试表现 | $N = 92$ | — | Hedges' $g = 0.40$ | $p < .05$ | 准实验设计；生成式智能体必须依赖反思量规以赋能高阶思维 |
-> | Tong et al. (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 开放无支架生成式 AI 辅助 vs. 传统探究实验 | 中学物理探究推理与概念理解 | $N = 54$ | — | Hedges' $g = -0.73$ | $p < .05$ | 准实验设计；缺乏教学法约束导致认知卸载与探究阻碍 |
+> | Tong et al. (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 开放无支架[[Generative Artificial Intelligence\|生成式 AI]] 辅助 vs. 传统探究实验 | 中学物理探究推理与概念理解 | $N = 54$ | — | Hedges' $g = -0.73$ | $p < .05$ | 准实验设计；缺乏教学法约束导致认知卸载与探究阻碍 |
 
 > [!ma-table]- 一阶[[Meta-analysis|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>

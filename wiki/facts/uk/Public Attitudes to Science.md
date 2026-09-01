@@ -68,7 +68,7 @@ updated: 2026-08-23
 > - **2000 年与 2005 年 奠基阶段** 确立从传统公众理解科学（Public Understanding of Science, PUS）单向科普向[[Public Engagement with Science|公众科学参与]]（PES）双向互动的[[Paradigm|范式]]转型，重点监测公众对转基因食品（GM）等科技争议的社会态度。
 > - **2008 年与 2011 年 信任与制度化监测** 系统追踪公众对科学家的高信任度（长期稳定在 80% 以上），建立针对科研资金公共效益与伦理监管的系统指标。
 > - **2014 年与 2019 年 数字化与参与度深化** 监测互联网与社交媒体兴起后公众科学信息获取习惯的演变，首次捕捉到公众对重大科技决策参与感低迷的早期迹象。
-> - **2025 年 [[Public Attitudes to Science|PAS 2025]] 最新调查** 聚焦生成式人工智能（AI）、气候危机与生物安全背景下的公众态度，揭示出公众对科学知识的强烈渴求与在重大决策中被边缘化的结构性矛盾，并详细测绘全英各类科学探索场馆的实地年访问率格局。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026b, p. 47)]]
+> - **2025 年 [[Public Attitudes to Science|PAS 2025]] 最新调查** 聚焦[[Generative Artificial Intelligence|生成式人工智能]]（AI）、气候危机与生物安全背景下的公众态度，揭示出公众对科学知识的强烈渴求与在重大决策中被边缘化的结构性矛盾，并详细测绘全英各类科学探索场馆的实地年访问率格局。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026b, p. 47)]]
 
 ---
 

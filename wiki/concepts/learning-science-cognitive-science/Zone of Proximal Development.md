@@ -145,7 +145,7 @@ updated: 2026-08-25
 > - **1976年 脚手架（Scaffolding）教学隐喻提出** Wood、Bruner 与 Ross 提出脚手架概念，将 ZPD [[Operationalization|操作化]]为可落地的六大教学支撑功能（定向、简化、维持方向、指出关键特征、控制挫折、专家示范）。
 > - **1980年代 动态评估（Dynamic Assessment）体系成型** Feuerstein 及 Brown & Ferrara 开发测试-干预-再测试（Test-Intervene-Retest）[[Paradigm|范式]]，直接以儿童在干预后的学习敏锐度（Learning Potential）来度量 ZPD。
 > - **1990年代 [[Cognitive Apprenticeship|认知学徒制]]与情境学习融合** Collins、Brown 等提出认知学徒制（Cognitive Apprenticeship），强调在真实问题情境中由师傅示范专家思维，在学徒的 ZPD 内提供反思反馈。[[Argument_Abrami_2015_RER|(Abrami et al., 2015, pp. 287–288)]]
-> - **2020年代 智能时代自适应[[AI Agent in Education|教育智能体]]的算法实现** 随着生成式人工智能（Generative Artificial Intelligence, GenAI）与[[Intelligent Tutoring Systems|智能导师系统]]（Intelligent Tutoring Systems, ITS）的发展，AI 智能体基于贝叶斯知识追踪（Bayesian Knowledge Tracing, BKT）或大语言模型实时感知学习者输入，将 ZPD 落地为秒级动态自适应反馈。[[Argument_Liu_2026_CHBR|(Liu et al., 2026)]]
+> - **2020年代 智能时代自适应[[AI Agent in Education|教育智能体]]的算法实现** 随着[[Generative Artificial Intelligence|生成式人工智能]]（Generative Artificial Intelligence, GenAI）与[[Intelligent Tutoring Systems|智能导师系统]]（Intelligent Tutoring Systems, ITS）的发展，AI 智能体基于贝叶斯知识追踪（Bayesian Knowledge Tracing, BKT）或大语言模型实时感知学习者输入，将 ZPD 落地为秒级动态自适应反馈。[[Argument_Liu_2026_CHBR|(Liu et al., 2026)]]
 
 ---
 

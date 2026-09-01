@@ -142,7 +142,7 @@ flowchart LR
 > |---|---|---|---|---|---|---|---|
 > | Fang et al. (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | [[Generative AI Agent in Education\|生成式 AI 辅导]]+显性反思量规 vs. 传统编程教学 | Python 计算思维与代码调试表现 | $N = 92$（干预 $n = 46$, 控制 $n = 46$） | — | Hedges' $g = 0.40$ | $p < .05$ | 准实验设计；证实显性反思支架有助于将生成式 AI 转化为计算思维增益 |
 > | Ye et al. (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 编程[[AI Agent in Education\|智能体]]即时语法纠错 vs. 传统讲授教学 | 代码逻辑结构与算法设计表现 | $N = 78$ | — | Hedges' $g = 0.16$ | $p < .05$ | 实验设计；即时线索提示辅助基础算法规则内化 |
-> | Yilmaz & Karaoglan Yilmaz (2023)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 提示词驱动生成式 AI 支架 vs. 独立编程对照组 | 大学生计算思维技能与编程[[Self-Efficacy\|自我效能]] | $N = 86$ | — | Hedges' $g = 0.58$ | $p < .01$ | 准实验设计；提示词工程训练显著提升算法思维水平 |
+> | Yilmaz & Karaoglan Yilmaz (2023)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 提示词驱动[[Generative Artificial Intelligence\|生成式 AI]] 支架 vs. 独立编程对照组 | 大学生计算思维技能与编程[[Self-Efficacy\|自我效能]] | $N = 86$ | — | Hedges' $g = 0.58$ | $p < .01$ | 准实验设计；提示词工程训练显著提升算法思维水平 |
 
 > [!ref-table]- 其他实证结果（无效应量）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

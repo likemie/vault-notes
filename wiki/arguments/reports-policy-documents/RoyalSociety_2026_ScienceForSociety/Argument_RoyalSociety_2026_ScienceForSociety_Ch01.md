@@ -160,7 +160,7 @@ updated: 2026-08-25
 
 > [!concept-lens] 关键交叉素养的认识论定位
 > - **含义** 关键交叉素养（Cross-Cutting / Transversal Literacies）指跨越单一学科边界、贯通数理逻辑、计算技术与人文社科的底层通用认知胜任力，是学生在 21 世纪应对数字化、智能化与气候变化所必需的跨学科思维工具。
-> - **用途** 在公民层面赋能个体进行理性健康决策、评估公共政策统计证据、批判性审视生成式 AI 内容；在国家层面填补约 20 万人的绿色技能人才缺口，支撑劳动力市场应对技术颠覆的智力灵活性。
+> - **用途** 在公民层面赋能个体进行理性健康决策、评估公共政策统计证据、批判性审视[[Generative Artificial Intelligence|生成式 AI]] 内容；在国家层面填补约 20 万人的绿色技能人才缺口，支撑劳动力市场应对技术颠覆的智力灵活性。
 > - **边界** 交叉素养不可替代扎实的单科学科基础，而是建立在核心数学、实验科学与人文知识之上；它要求跨学科深度融合而非浅表泛化，并以放大人类认知而非外包深层思维为伦理底线。（pp. 31–32）
 
 > [!dimension] 关键交叉素养的四大支柱构念
@@ -176,7 +176,7 @@ updated: 2026-08-25
 > [!warrant]- 关键交叉素养的五大系统推进机制（How to Advance / Implement?）
 > - **1. 课程贯穿性嵌入（Curricular Infusion & Transversal Threads）** 坚决避免将数据与 AI 设为割裂孤立的附加课程，而是作为贯穿性线索深度融入数学、物理、化学、生物与地理等主干大纲。在理科实验中强化真实数据清洗与不确定性分析，在跨学科课题中呈现算法与气候模型的实际应用。
 > - **2. 全校协同育人范式（Whole-School Approaches）** 应对气候变化的多学科属性（Multidisciplinary Nature），超越传统单一课堂教学，通过校园低碳运行、校园生态实践区、跨学科绿色科技挑战赛，将生态文明与系统思维内化为全校育人文化。（p. 32）
-> - **3. 防范认知外包的教学规制（Pedagogical Safeguards: Guarding against Cognitive Outsourcing）** 严格界定课堂与课后使用生成式 AI 的合理边界。坚决防止学生利用 LLMs 直接代写[[Homework|作业]]而跳过对[[Primary and Secondary Documents|一手文献]]与实验原始数据的深层研读，确保数字工具用于启发探索与反思检验，避免深层[[Critical Thinking|批判性思维]]退化。
+> - **3. 防范[[Cognitive Offloading|认知外包]]的教学规制（Pedagogical Safeguards: Guarding against Cognitive Outsourcing）** 严格界定课堂与课后使用生成式 AI 的合理边界。坚决防止学生利用 LLMs 直接代写[[Homework|作业]]而跳过对[[Primary and Secondary Documents|一手文献]]与实验原始数据的深层研读，确保数字工具用于启发探索与反思检验，避免深层[[Critical Thinking|批判性思维]]退化。
 > - **4. 测评体系效度重塑（Assessment Reform & Context-Based Tasks）** 针对生成式 AI 对传统纸笔记忆考试与常规作业公平性的颠覆性冲击，加快开发基于真实情境（Context-based）、多源证据评析、现场探究答辩与口头推理的综合测评方式，确保评估的信度与效度。
 > - **5. 循证数字包容与教师赋能（Evidence-Based Tech, SEND Inclusion & Teacher Capacity）** 优先引入经过严格教育实证检验的数字辅助工具，重点支持特殊教育需要与残障（Special Educational Needs and Disabilities, SEND）学生的包容性学习；依托国家教师进修网络，为教师提供前沿数据科学与 AI 教学法专项研修，夯实一线推进能力。（p. 34）
 
@@ -303,7 +303,7 @@ updated: 2026-08-25
 
 > [!finding-cards] 核心发现
 > 1. **[[Scientific Literacy|科学素养]]从事实记忆转向证据评估与运作机制理解** 科学教育必须超越孤立概念灌输，着重培养多源信息批判评估能力与审慎理解科学不确定性的理性公民。（pp. 30–31）
-> 2. **[[Data Literacy|数据素养]]与 [[AI Literacy|人工智能素养]]构成新型通用关键胜任力** 必须将概率风险意识、数据图表解读及防范认知外包的批判性 AI 素养深度融入课程体系。（pp. 31–32）
+> 2. **[[Data Literacy|数据素养]]与 [[AI Literacy|人工智能素养]]构成新型通用关键胜任力** 必须将概率风险意识、数据图表解读及防范[[Cognitive Offloading|认知外包]]的批判性 AI 素养深度融入课程体系。（pp. 31–32）
 > 3. **中学课堂动手实验课时面临腰斩式系统性萎缩危机** 英格兰 14–16 岁学生至少每两周一次实验的比例从 2016 年的 44% 暴跌至 2023 年的 26%，受困于应试压力、耗材短缺与技术员[[Attrition|流失]]。（p. 33）
 > 4. **后 16 岁 3 门 A-level 过早专门化分科造成学科狭窄化** 亟待打破英格兰狭隘分科传统，推行直至 18 岁的全员宽口径跨学科教育，维持数理与人文艺术均衡。（pp. 34–35）
 > 5. **[[Teacher Professional Agency|教师专业自主权]]与全周期学科 CPD 是破除师资危机的根本投资** 43% 教师报告专业师资短缺损害学业，学科专属 CPD 能显著促进教师留任并为国家节约 5850 万英镑财政成本。（pp. 35–37）

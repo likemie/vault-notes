@@ -114,7 +114,7 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> 在生成式人工智能（Generative Artificial Intelligence, GenAI）与海量数字化信息泛滥的时代，学生获取、理解、确证、修正与应用知识的[[Epistemic Cognition|认识论认知]]（Epistemic Cognition）成为教育实践的核心枢纽。西方学界虽已建立起较为丰厚的实证基准（[[Argument_Greene_2018_JEP|Greene et al., 2018]]），但认识论认知本质上具有深刻的社会文化嵌入性（Bang & Medin, 2010）。在普遍强调集体主义、高利害大学升学统考（大学修学能力考试，CSAT / Suneung / 修能）以及极度繁盛的课外补习（Shadow Education / Hagwon / [[Cram Schools|补习班]]）文化的韩国基础教育情境中，中小学生的认识论认知与各类学习成果之间究竟存在怎样的关联？这种关联是否受到学段（小学、初中、高中）、[[Epistemology|认识论]][[Construct|构念]]维度（知识本质、认识本质、学习本质）、学科[[Domain Specificity|领域特异性]]、[[Measurement Alignment|测量对齐]]度、量表极性以及学习成果类型（高阶认知、低阶认知、动机/情感、自我调节）的系统调节？
+> 在[[Generative Artificial Intelligence|生成式人工智能]]（Generative Artificial Intelligence, GenAI）与海量数字化信息泛滥的时代，学生获取、理解、确证、修正与应用知识的[[Epistemic Cognition|认识论认知]]（Epistemic Cognition）成为教育实践的核心枢纽。西方学界虽已建立起较为丰厚的实证基准（[[Argument_Greene_2018_JEP|Greene et al., 2018]]），但认识论认知本质上具有深刻的社会文化嵌入性（Bang & Medin, 2010）。在普遍强调集体主义、高利害大学升学统考（大学修学能力考试，CSAT / Suneung / 修能）以及极度繁盛的课外补习（Shadow Education / Hagwon / [[Cram Schools|补习班]]）文化的韩国基础教育情境中，中小学生的认识论认知与各类学习成果之间究竟存在怎样的关联？这种关联是否受到学段（小学、初中、高中）、[[Epistemology|认识论]][[Construct|构念]]维度（知识本质、认识本质、学习本质）、学科[[Domain Specificity|领域特异性]]、[[Measurement Alignment|测量对齐]]度、量表极性以及学习成果类型（高阶认知、低阶认知、动机/情感、自我调节）的系统调节？
 
 > [!claim] 核心主张
 > 基于 [[PRISMA]] 规范对韩国 18 项实证研究中的 512 个[[Effect Size|效应量]]（总样本 $N = 6,312$）进行[[Three-Level Meta-Analysis|三层元分析]]（Three-Level [[Meta-analysis]]），证实学生的成熟认识论认知与各类学习成果呈统计显著的小到中等正相关（$r = 0.191, p < 0.001$）；学段和认识论认知构念是驱动效应量变异的核心调节变量——小学阶段的相关强度（$r = 0.375$）显著高于初中（$r = 0.142$）与高中（$r = 0.157$），反映出高学段应试升学与课外补习对探究性认识信念的制度性压制；学习本质与认识本质构念的预测力显著强于本体论维度的知识本质构念；领域特异性、测量对齐、量表极性与成果类型均未达显著调节水平，体现出东亚文化下将学习内化为整体性“自我修养与持续努力”所带来的全域性促进机制。
@@ -445,7 +445,7 @@ issuing_organization: ""
 > | **低阶认知成果 (Lower order)** | 55 | 0.208 | [.126, .288] | $F(3, 508) = 0.300$ | 0.828 |
 > | **学习动机与情感 (Motivation/affect)** | 109 | 0.189 | [.106, .269] | | |
 > | **高阶认知成果 (Higher order)** | 184 | 0.188 | [.106, .268] | | |
-> | **自我调节学习 (Self-regulation)** | 164 | 0.186 | [.108, .261] | | |
+> | **[[Self-Regulated Learning\|自我调节学习]] (Self-regulation)** | 164 | 0.186 | [.108, .261] | | |
 
 > [!exegesis]- 文化机制解构：为什么东亚情境下学习成果类型不产生调节效应？
 > - **西方文献的经典发现** 在 Greene et al. (2018) 的跨国元分析中，认识论认知与高阶认知成果（概念转变 $r = 0.190$、论证 $r = 0.154$）的关联显著高于陈述性与程序性低阶知识（$r = 0.077$，不显著）。西方理论认为成熟认识论仅服务于需要深层反思的复杂任务。
@@ -511,7 +511,7 @@ issuing_organization: ""
 >
 > *This assessment-oriented learning context that middle and high school students experience is likely to limit their opportunities to engage in sophisticated epistemic cognition in meaningful ways. It is possibly posited that the learning context functions as an important factor that declines the association between epistemic cognition and learning outcomes as school level increases.*
 
-> [!citation-card]- 权威二元对立的测量局限与生成式 AI 挑战
+> [!citation-card]- 权威二元对立的测量局限与[[Generative Artificial Intelligence|生成式 AI]] 挑战
 > 纳入研究所测量的信念主要将权威视为知识来源与确证手段，将其简化为外在权威（朴素）或内在经验（成熟）的二元对立。在当前网络信息泛滥且极易获取生成式 AI 的时代，单一权威已不再是唯一的信息源，现有将权威视作静态同质实体的量表无法捕捉真实动态的认识论认知。（p.13）
 >
 > *These beliefs measured in the included study, however, focused predominantly on authority as a source and means of justification, dichotomizing it into external authority (naïve) or internal opinion/experience (sophisticated). This reductive approach does not capture the multidimensional nature of knowing. In the current era of prolific online information and easy access to GenAI, in particular, a single authority is unlikely to function as a sole source of information.*
@@ -523,7 +523,7 @@ issuing_organization: ""
 > [!warning]
 > 1. **因果推论局限** 纳入的 18 项研究绝大多数为横断面相关设计（仅 1 项准[[Experimental Research|实验研究]]），无法确立[[Epistemic Cognition|认识论认知]]对学习成果的时序因果效应或发展因果链。（p.1, p.14）
 > 2. **样本范围边界** 样本严格限定于韩国 K-12 阶段中小学生，未涵盖高等教育群体，结论向其他东亚社会或非西方国家的普适性推广需进一步实证检验。（p.1, p.14）
-> 3. **测量工具的自陈偏倚与权威二元化缺陷** 纳入研究高度依赖自陈式[[Questionnaire|问卷]]，且量表题项普遍将权威简化为“外在权威（朴素）vs. 内在经验（成熟）”的二元对立，未能充分反映现代多源信息与生成式人工智能情境下多方求证、算法批判与人机协作的复杂[[Epistemology|认识论]]实践。（pp.13–15）
+> 3. **测量工具的自陈偏倚与权威二元化缺陷** 纳入研究高度依赖自陈式[[Questionnaire|问卷]]，且量表题项普遍将权威简化为“外在权威（朴素）vs. 内在经验（成熟）”的二元对立，未能充分反映现代多源信息与[[Generative Artificial Intelligence|生成式人工智能]]情境下多方求证、算法批判与人机协作的复杂[[Epistemology|认识论]]实践。（pp.13–15）
 
 ---
 

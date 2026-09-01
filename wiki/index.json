@@ -3140,6 +3140,18 @@
     ]
   },
   {
+    "title": "Generative Artificial Intelligence",
+    "type": "concept",
+    "path": "wiki/concepts/educational-technology/Generative Artificial Intelligence.md",
+    "aliases": [
+      "生成式人工智能",
+      "Generative AI",
+      "GenAI",
+      "生成式 AI",
+      "生成式人工智能技术"
+    ]
+  },
+  {
     "title": "Intelligent Tutoring Systems",
     "type": "concept",
     "path": "wiki/concepts/educational-technology/Intelligent Tutoring Systems.md",

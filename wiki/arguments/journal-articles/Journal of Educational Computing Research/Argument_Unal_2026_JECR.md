@@ -117,7 +117,7 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> 伴随生成式人工智能（Generative Artificial Intelligence, GenAI，如 ChatGPT）与智能导学系统（[[Intelligent Tutoring Systems]], ITS）在教育领域的爆发式增长，关于人工智能教育应用（Artificial Intelligence in Education, AIEd）对学生[[Academic Achievement|学业成就]]与[[Higher-Order Thinking Skills|高阶思维技能]]（Higher-Order Thinking Skills, HOTS）影响的一阶[[Meta-analysis|元分析]]（First-Order Meta-analyses, FOMs）大量[[Emergence|涌现]]。然而，现有元分析结论高度矛盾，报告的综合[[Effect Size|效应量]]（Effect Size, ES；以标准化均数差 Standardized Mean Difference, SMD 为测度，底层涵盖 Cohen's $d$ 与 Hedges' $g$）在 $ES = .32$（微弱正向）至 $ES = 1.36$（极强正向）之间大幅波动，且各元分析在[[Research Scope|研究范围]]、学科界定、方法学质量及所纳入的初级研究之间存在严重的[[Document|文献]]重叠，使宏观循证决策陷入证据碎片化与不确定性困境（pp. 1361–1363）。因此，需要采用[[Meta-meta-analysis|二阶元分析]]（Second-Order Meta-Analysis, SOMA）方法，在系统剔除文献重叠与控制方法学质量的前提下，回答两个[[Central Question|核心研究问题]]：
+> 伴随[[Generative Artificial Intelligence|生成式人工智能]]（Generative Artificial Intelligence, GenAI，如 ChatGPT）与智能导学系统（[[Intelligent Tutoring Systems]], ITS）在教育领域的爆发式增长，关于人工智能教育应用（Artificial Intelligence in Education, AIEd）对学生[[Academic Achievement|学业成就]]与[[Higher-Order Thinking Skills|高阶思维技能]]（Higher-Order Thinking Skills, HOTS）影响的一阶[[Meta-analysis|元分析]]（First-Order Meta-analyses, FOMs）大量[[Emergence|涌现]]。然而，现有元分析结论高度矛盾，报告的综合[[Effect Size|效应量]]（Effect Size, ES；以标准化均数差 Standardized Mean Difference, SMD 为测度，底层涵盖 Cohen's $d$ 与 Hedges' $g$）在 $ES = .32$（微弱正向）至 $ES = 1.36$（极强正向）之间大幅波动，且各元分析在[[Research Scope|研究范围]]、学科界定、方法学质量及所纳入的初级研究之间存在严重的[[Document|文献]]重叠，使宏观循证决策陷入证据碎片化与不确定性困境（pp. 1361–1363）。因此，需要采用[[Meta-meta-analysis|二阶元分析]]（Second-Order Meta-Analysis, SOMA）方法，在系统剔除文献重叠与控制方法学质量的前提下，回答两个[[Central Question|核心研究问题]]：
 > 1. 人工智能（Artificial Intelligence, AI）教育应用对学生的整体学习成果（包括学业成就与高阶思维技能）究竟产生多大程度的综合效应？
 > 2. 这种教育干预效应是否在成果类型、AI 工具类型、教育阶段、学科领域、[[Publication Bias|发表偏倚]]状态以及元分析方法学质量等调节[[Variable|变量]]上呈现系统性差异？（p. 1363）
 
@@ -256,7 +256,7 @@ issuing_organization: ""
 > 单一元分析通常受到特定检索时间窗、特定期刊收录范围或单一学科的狭隘限制（例如单一关注小学数学或大学计算机），易产生局域性极端效应量；通过多数据库全覆盖检索并严格剥离非教学干预类研究（如单纯预测模型或教师态度），才能确保纳入的二阶分析单元在教学法意义上具备[[Construct|构念]]对等性（Construct Equivalence）（pp. 1367–1369）。
 
 > [!case] 典型分歧案例对比
-> - **计算机科学极端高效应案例** Tlili (2024) 综合 28 项研究考察 AI 在计算机科学教育中的应用，报告了极高的正向效应（$ES = 1.36$，95% CI = [0.95, 1.78]），指出生成式 AI 在代码解释、程序纠错与算法可视化中能提供立竿见影的支架作用。
+> - **计算机科学极端高效应案例** Tlili (2024) 综合 28 项研究考察 AI 在计算机科学教育中的应用，报告了极高的正向效应（$ES = 1.36$，95% CI = [0.95, 1.78]），指出[[Generative Artificial Intelligence|生成式 AI]] 在代码解释、程序纠错与算法可视化中能提供立竿见影的支架作用。
 > - **基础数学微弱效应案例** Yi et al. (2025) 综合 21 项研究考察 AI 对 K12 学生数学学习的影响，仅报告了微弱效应（$ES = .32$，95% CI = [0.20, 0.45]）；类似地，Hwang (2022) 针对小学生数学成就的元分析也仅获得 $ES = .35$ 的低效应量。两者效应量相差逾 4 倍，凸显了二阶综合与调节检验的紧迫性（p. 1371）。
 
 > [!example]- 图1：PRISMA 2020 数据流向图（Page et al., 2021, p. 1369）
@@ -356,7 +356,7 @@ issuing_organization: ""
 
 > [!warrant]- 推理桥梁
 > 调节分析深入揭示了 AI 教育整合的“生态适配机制”（Ecological Alignment Mechanism）：
-> 1. **学段发展与自主调节差异** 高等教育学生具备更成熟的[[Metacognition|元认知]]监控、自我调节学习能力与技术胜任力，高校课程设计也更具自主探究与模块化弹性；而 K12 阶段学生[[Executive Function|执行功能]]尚未完善，面对生成式 AI 的开放式输出时易产生认知超载或注意力分散，加之基础教育课堂受制于严格的进度统排与高利害应试要求，AI 的个性化优势难以完全释放（pp. 1379–1380）。
+> 1. **学段发展与自主调节差异** 高等教育学生具备更成熟的[[Metacognition|元认知]]监控、[[Self-Regulated Learning|自我调节学习]]能力与技术胜任力，高校课程设计也更具自主探究与模块化弹性；而 K12 阶段学生[[Executive Function|执行功能]]尚未完善，面对生成式 AI 的开放式输出时易产生认知超载或注意力分散，加之基础教育课堂受制于严格的进度统排与高利害应试要求，AI 的个性化优势难以完全释放（pp. 1379–1380）。
 > 2. **学科知识表征与认知机制匹配** 计算机科学（程序设计与算法）具有形式化语法结构和确定性的报错闭环，生成式 AI 代码助手能提供精准的语法纠错、代码解释与逻辑[[Transfer Translation Transformation|转译]]，直接移除了初学者的调试阻碍；语言学习依赖高频、低焦虑的语境互动，AI 聊天机器人能扮演耐心的拟真语伴；然而，数学学科涉及多步骤演绎推理、深层空间想象与高度抽象的概念建构（不仅要知其然，更要知其所以然；Young, 2017），当前 AI 往往停留于步骤代数套用或算式表面推导，缺乏启发式概念诊断与数学直觉引导能力（pp. 1380–1381）。
 
 ---
