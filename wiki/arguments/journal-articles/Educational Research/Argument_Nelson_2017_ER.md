@@ -2,7 +2,7 @@
 authors:
   - "[[Julie Nelson|Nelson, J.]]"
   - "[[Carol Campbell|Campbell, C.]]"
-summary: "以特刊导言整合 EIP 的定义、应用与测量三轴：主张 EIP 是专业判断、系统数据、课堂数据与研究证据的多源整合，知识动员需要四类策略，成果测量仍存在知识与方法双重缺口。"
+summary: "以特刊导言整合证据知情实践（EIP）的定义、应用与测量三轴：主张 EIP 是专业判断、系统数据、课堂数据与研究证据的多源整合，知识动员需要四类策略，成果测量仍面临知识与方法双重缺口。"
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -24,14 +24,14 @@ citation_aliases:
   - "Nelson & Campbell (2017)"
 isbn: ""
 tags:
-- evidence-informed-practice
-- evidence-based-education
-- knowledge-mobilisation
-- professional-judgment
-- research-use
-- region/uk
-- region/canada
-- region/global
+  - evidence-informed-practice
+  - evidence-based-education
+  - knowledge-mobilisation
+  - professional-judgment
+  - research-use
+  - region/uk
+  - region/canada
+  - region/global
 related_concepts:
   - "[[Evidence-Informed Practice]]"
   - "[[Knowledge Mobilisation]]"
@@ -67,10 +67,10 @@ related_facts:
 related_arguments: []
 sources:
   - "[[sources/Nelson_2017_ER|Nelson_2017_ER]]"
-part_of: ''
+part_of: ""
 status: draft
-created: '2026-05-01'
-updated: 2026-08-26
+created: "2026-05-01"
+updated: 2026-09-02
 ---
 # Argument_Nelson_2017_ER
 
@@ -79,26 +79,24 @@ updated: 2026-08-26
 ## 研究问题
 
 > [!question]
-> 关于[[Evidence-Informed Practice|证据知情实践]]（Evidence-Informed Practice, EIP）的讨论围绕三类问题组织：EIP 如何被定义与理解？证据知情的学校与教师如何实践，什么条件促成[[Knowledge Mobilisation|知识动员]]？EIP 的成果应如何测量？(p.127)
+> 关于[[Evidence-Informed Practice|证据知情实践]]（Evidence-Informed Practice, EIP）的讨论围绕三类核心关切展开：EIP 如何被不同利益相关者定义与理解？证据知情的学校与教师如何开展实践、什么条件促成有效的[[Knowledge Mobilisation|知识动员]]？EIP 的成果与影响应如何有效测量？（p.127）
 
 > [!claim] 核心主张
-> 证据知情实践（EIP）以研究证据、系统数据、课堂数据与[[Professional Judgment|专业判断]]的多源整合为核心；推进 EIP 的关键在[[Knowledge Mobilisation|知识动员]]的系统条件以及对成果的测量。
+> 证据知情实践（EIP）并非单向度的外部研究应用，而是[[Professional Judgment|专业判断]]、系统层面数据、课堂数据与研究证据的多源情境化整合；推进 EIP 的关键在于培育使教育者能够批判、实施与改编证据的“肥沃土壤”与全系统知识动员战略，而克服成果测量的滞后性则要求结合中间成果与长期成果、多维量化指标与丰富质性描述。（pp.127–129, 131–133）
 
 > [!concept-lens] 阅读透镜
-> - **对象** 英国、美国、加拿大、澳大利亚、荷兰等国的 EIP 定义讨论、知识动员策略与成果测量议程。
-> - **张力** 谁的证据算数：实验黄金标准 vs [[Practice-Based Evidence|实践本位证据]]；evidence-informed 与 research-informed 的区分。
-> - **贡献** 以特刊导言形式把 EIP 组织为定义、应用、测量三个主题，提出肥沃的土壤隐喻与知识动员四类策略。
+> - **对象** 英国、美国、加拿大、澳大利亚、荷兰等国关于 EIP 的概念界定、知识动员条件与成果测量议程。（pp.127–128）
+> - **张力** 实验“什么有效”的黄金标准 vs 实践者生成的[[Practice-Based Evidence|实践本位证据]]；研究知情（research-informed）vs 证据知情（evidence-informed）；自上而下政策规定 vs 教师专业自主。（pp.128–129）
+> - **贡献** 建立“定义—应用—测量”三维分析框架，复刻特刊五大问题清单；提出“肥沃土壤”隐喻与知识动员四类核心策略（传播、能力、网络、系统）；梳理国际测量前沿与成果分层类型学。（pp.127–133）
 
-> [!index-table] 特刊征稿的问题清单
-> | 类别 | 征稿问题 |
-> |---|---|
-> | **概念问题（1）** | EIP 如何被不同利益相关者定义和理解？ |
-> | **概念问题（2）** | EIP 与不同群体的积极成果之间有何关系？在 EIP 情境中，什么构成积极成果？ |
-> | **概念问题（3）** | EIP 如何被有效测量？测量面临哪些挑战？ |
-> | **应用问题（4）** | 证据知情的学校或教师如何开展实践？什么条件促进进展？ |
-> | **应用问题（5）** | 什么策略促成有效的知识动员？什么促成或阻碍成功？ |
->
-> 五道征稿问题进一步收束为三个关键主题：EIP 的定义（问题 1）；EIP 的应用与知识动员条件（问题 4–5）；相关成果与测量挑战（问题 2–3）。(pp.127–128)
+> [!index-table] 特刊征稿的核心问题清单与三大主题映射
+> | 问题类别 | 征稿核心问题 | 对应核心主题 | 主题探讨重点 |
+> |---|---|---|---|
+> | **概念问题（1）** | EIP 如何被不同利益相关者定义和理解？（p.127） | **主题一：EIP 的定义（Theme 1: Definitions of EIP）** | 语义辨析、研究与证据的区别、EBE vs EIP、“谁的证据算数”及四源整合模型。（pp.128–130） |
+> | **应用问题（4）** | 证据知情的学校或教师如何开展其实践？什么条件促进进展？（p.128） | **主题二：EIP 的应用与知识动员条件（Theme 2: Application of EIP – Conditions for Effective Knowledge Mobilisation）** | 学校探究循环、中层领导网络、多层级行动者角色与阻碍/促进因素。（pp.130–131） |
+> | **应用问题（5）** | 什么策略促成有效的“知识动员”？什么促成或阻碍成功？（p.128） | **主题二：EIP 的应用与知识动员条件（Theme 2: Application of EIP – Conditions for Effective Knowledge Mobilisation）** | 知识动员四类核心策略（传播、能力建设、伙伴网络、系统化方法）与双向能力赤字。（pp.130–131） |
+> | **概念问题（2）** | EIP 与不同群体的积极成果之间有何关系？在 EIP 情境中，什么构成积极成果？（p.127） | **主题三：相关成果与测量挑战（Theme 3: Relevant Outcomes and the Challenge of Measurement）** | 成果的情境性与多层级性、中间成果与长期成果的解构。（pp.131–133） |
+> | **概念问题（3）** | EIP 如何被有效测量？测量面临哪些伴随挑战？（p.127） | **主题三：相关成果与测量挑战（Theme 3: Relevant Outcomes and the Challenge of Measurement）** | 国际前沿测量倡议、调查工具开发、定性与定量多维测量及反单纯量化主义。（pp.131–133） |
 
 ---
 
@@ -107,14 +105,15 @@ updated: 2026-08-26
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **研究利用（Research Utilization）**<br>[[Research Utilization]] | [[Carol Weiss\|Weiss (1979)]] 以来，研究利用文献解释研究如何以多种路径进入政策与实践（直接应用、概念渗透、策略性引用等），构成整个 EIP 讨论的起点与背景框架，说明"证据进入实践"并非新生议题。(p.132) |
-> | **证据知情实践（EIP）**<br>[[Evidence-Informed Practice]] | 导言的核心对象：证据只是影响教育决策的多种因素之一，教育者须以[[Professional Judgment\|专业判断]]整合研究、系统数据与课堂数据，将 EIP 定位为多源整合而非单一研究驱动。(pp.127–129) |
-> | **知识动员（Knowledge Mobilisation）**<br>[[Knowledge Mobilisation]] | 解释证据为何不自动转化为实践：研究知识须经传播、翻译、中介与共创才能进入行动，特刊从中归纳出沟通传播、能力建设、伙伴关系与网络、系统化方法四类策略。(pp.130–131) |
-> | **专业判断（Professional Judgment）**<br>[[Professional Judgment]] | EIP 的整合枢纽：证据只是输入，须经教育者基于经验、价值观与情境理解的判断才能转化为课堂行动，成为证据知情需要严谨证据与严谨判断并存。 |
-> | **研究使用的类型学**<br>[[Conceptual, Instrumental, and Symbolic Use of Research]] | 区分研究成果的工具性、概念性与象征性三种影响：工具性直接作用于实践，概念性间接改变思维，象征性用于事后合法化；Wentworth et al. 据此拆解[[Research-Practice Partnership\|研究-实践伙伴关系]]对教育者决策的影响。(pp.131–132) |
+> | **研究利用（Research Utilization）**<br>[[Research Utilization]] | [[Carol Weiss\|Weiss (1979)]] 的奠基性工作，解释研究如何以多种路径进入政策与实践（工具性、概念性、象征性等），说明“证据进入实践”具有长期学术脉络，并非近年来凭空出现的新生议题。（pp.127, 132） |
+> | **证据知情实践（Evidence-Informed Practice）**<br>[[Evidence-Informed Practice]] | 特刊导言的核心对象。将证据界定为影响教育决策的多种资源之一，强调教育者须以[[Professional Judgment\|专业判断]]整合研究、系统数据与课堂数据，将 EIP 定位为多源整合而非单一研究驱动，拒绝照菜谱式的教条主义。（pp.127–129） |
+> | **知识动员（Knowledge Mobilisation）**<br>[[Knowledge Mobilisation]] | 解释证据为何不会自动转化为实践的中介过程构念。强调知识流动并非单向线性输出，而是研究者、决策者与实践者之间通过协作共同创造知识的社会互动与迭代过程。（pp.130–131） |
+> | **实践本位证据（Practice-Based Evidence）**<br>[[Practice-Based Evidence]] | [[Anthony Bryk\|Bryk (2015)]] 提出的核心概念，强调教育者在日常教学中生成的细粒度、情境相关知识，为形成性支持专业学习与学生成就提供正当的证据来源，抗衡对教师研究的赤字化偏见。（p.129） |
+> | **专业判断（Professional Judgment）**<br>[[Professional Judgment]] | EIP 多源整合的决策枢纽。教育者基于经验、价值观与情境理解对多元信息进行权衡与审议；成为证据知情需要严谨证据与严谨专业判断过程并存。（pp.129, 132） |
+> | **研究使用的类型学（Typology of Research Use）**<br>[[Conceptual, Instrumental, and Symbolic Use of Research]] | 借鉴 Cynthia Coburn 与 NCRPP 学者，区分中间成果（行为、思维模式）与三类长期成果（工具性、概念性、象征性），为 EIP 的成效测量与影响评估提供结构化分析框架。（p.132） |
 
 > [!warrant]- 理论如何支撑论证
-> 研究利用与知识动员构成证据如何进入实践的解释链条：前者说明证据使用有多种形态，后者说明证据流动需要条件；EIP 与专业判断把链条收束到教师个体的决策整合；类型学则为怎么算有效提供测量语言。
+> 理论工具箱构建了“认识论定位（EIP 与 PBE）—中介转化机制（KMb）—微观决策枢纽（专业判断）—成效评价标准（研究使用类型学）”的完整逻辑闭环：研究利用与知识动员揭示了证据进入实践的复杂社会过程，EIP 与专业判断确立了多元信息在教师层面的整合机制，而研究使用的类型学则为评估 EIP 实际成效提供了多层级观测语言。（pp.127–133）
 
 ---
 
@@ -123,12 +122,20 @@ updated: 2026-08-26
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **特刊导言（Editorial）**<br>Special issue editorial | 以 2017 年《Educational Research》特刊导言形式撰写，综合特刊七篇论文的发现。 |
-> | **概念综合（Conceptual synthesis）**<br>Conceptual synthesis | 围绕定义、应用（知识动员条件）、成果与测量三轴整合来自澳大利亚、加拿大、英格兰、荷兰与美国的论文，并嵌入更广的 EIP 文献（[[Carol Weiss\|Weiss, 1979]]; Hargreaves, 1996; Goldacre, 2013; [[Anthony Bryk\|Bryk, 2015]] 等）。 |
-> | **[[Analytic Framework\|分析框架]]** | 三个关键主题：[[Evidence-Informed Practice\|EIP]] 的定义（问题 1）；EIP 的应用与[[Knowledge Mobilisation\|知识动员]]条件（问题 4–5）；相关成果与测量挑战（问题 2–3）。(pp.127–128) |
+> | **特刊导言（Editorial）**<br>Special Issue Editorial | 作为 2017 年《Educational Research》（Vol. 59, No. 2）特刊的导言，系统综合特刊收录的 7 篇学术论文并展开宏观述评。（pp.127–135） |
+> | **概念综合（Conceptual Synthesis）**<br>Conceptual Synthesis | 围绕定义、应用（知识动员条件）、成果与测量三大主题，横向整合来自澳大利亚、加拿大、英格兰、荷兰与美国的实证与理论研究，并嵌入四十年来的宏观 EIP 谱系（[[Carol Weiss\|Weiss, 1979]]; Hargreaves, 1996; Goldacre, 2013; [[Anthony Bryk\|Bryk, 2015]] 等）。（pp.127–133） |
+> | **分析框架（Analytic Framework）**<br>[[Analytic Framework]] | 将特刊 5 大征稿核心问题提炼为三大核心主题：EIP 的定义（问题 1）；EIP 的应用与[[Knowledge Mobilisation\|知识动员]]条件（问题 4–5）；相关成果与测量挑战（问题 2–3）。（pp.127–128） |
 
-> [!note]-
-> 特刊导言属评论类，综合其他研究而不提供新的实证数据；因此不需要方法案例记录。
+> [!sample-panel]- 特刊 7 篇收录论文全景结构快照
+> | 论文与作者 | 研究地域与机构 | 研究对象与方法设计 | 核心证据视角 | 对 EIP 理论与实践的贡献 |
+> |---|---|---|---|---|
+> | **LaPointe-McEwan, DeLuca, & Klinger (2017)** | 加拿大安大略（皇后大学） | 学校网络中的教育者与中层领导者；质性与调查混合设计 | 课堂数据（Classroom Data）的层级性与多源性 | 揭示终结性评估对决策的支配地位，倡导数据素养与定性定量三角验证，确立中层领导在协作探究网络中的支撑功能。（pp.129, 130） |
+> | **Brown, Schildkamp, & Hubers (2017)** | 英格兰与荷兰（伦敦大学学院 & 特文特大学） | 中小学教师与学校改进过程；跨国比较与理论建构 | 数据驱动决策（DBDM）与研究知情教学实践（RITP） | 揭示 DBDM 与 RITP 的长期割裂，提出“证据知情学校与教师改进模型”，通过系统的学校探究循环实现二者融合。（pp.129, 130） |
+> | **Rickinson, de Bruin, Walsh, & Hall (2017)** | 澳大利亚与新西兰（莫纳什大学 & 新西兰环境部） | 政策制定者与教育实践者；跨领域比较与文本分析 | 政策制定作为实践（Policy as Practice）；证据适切性 | 揭示政策与实践在证据使用上的同构性，确立“可得证据”与“适切证据”的区别，强调适切性依赖情境判断而非预设。（pp.129–130） |
+> | **Carrier (2017)** | 加拿大安大略（多伦多大学 OISE） | 流行教育创新话语与传播材料；修辞与话语分析 | 说服性沟通策略（Persuasive Communication） | 剖析缺乏实证支撑的教育创新如何凭借说服性修辞广泛传播，呼吁教育者培养“分析性立场”与“评估技能”。（p.130） |
+> | **Cooper, Klinger, & McAdie (2017)** | 加拿大安大略（皇后大学 & ETFO 小学教师联合会） | 小学教师课堂评估信息搜寻行为；大规模调查与访谈 | 实践本位证据与同行交流网络 | 发现教师获取评估信息高度依赖同行交流，实践证据使用远超原始研究，强调工会、学区与领导者的中介作用。（p.130） |
+> | **Campbell, Pollock, Briscoe, Carr-Harris, & Tuters (2017)** | 加拿大安大略（多伦多大学 OISE & 西安大略大学） | KNAER 全系统知识网络；政府-大学-学区-工会伙伴关系案例研究 | 全系统知识动员战略（System-Wide KMb）与 RPP | 揭示生产者与使用者在知识动员上的双向能力赤字，提出优质产品、协作关系与全系统能力建设三位一体模型。（pp.130–131） |
+> | **Wentworth, Mazzeo, & Connolly (2017)** | 美国（加州教育伙伴、西北教育、巴尔的摩联盟） | 研究-实践伙伴关系（RPP）中的教育者；调查问卷开发与概念验证 | RPP 影响测量与研究使用成果分层 | 借鉴 NCRPP 框架开发测量问卷，区分中间成果（行为/心智模式）与三类长期成果（工具性/概念性/象征性）。（pp.131–132） |
 
 ---
 
@@ -137,175 +144,215 @@ updated: 2026-08-26
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
 > flowchart LR
->     A["意义分歧阻碍系统推进"]
->     B["EIP 是多源整合"]
->     C["谁的证据算数"]
->     D["知识动员四类策略"]
->     E["成果测量双重缺口"]
->
->     A --> B
->     B --> C
->     C --> D
->     D --> E
+>     A["历史诉求与系统困境<br>草根转向与肥沃土壤"] --> B["语义争议与四源整合<br>Refining EIP Definition"]
+>     B --> C["谁的证据算数<br>黄金标准 vs 实践本位证据"]
+>     C --> D["知识动员四类策略<br>超越线性研究供给"]
+>     D --> E["成果测量双重缺口<br>中间与长期成果类型学"]
+>     E --> F["结论与未来议程<br>多元质性量化结合"]
 > ```
 
 ---
 
 ### 论证步骤一　证据知情实践（EIP）的长期诉求、草根转向与系统推进困境
 
-> [!claim] 定义分歧而非证据不足
-> [[Evidence-Informed Practice|EIP]] 并非新话题（Weiss, 1979; Hargreaves, 1996），几十年来已有多个项目改善证据质量、可理解性与影响，但系统层面实现 EIP 仍困难（Bryk et al., 2011; Durbin & Nelson, 2014）(p.127)。原因之一是 EIP 的意义缺乏共识：什么构成可靠证据？[[Experimental Research|实验研究]]是否总是黄金标准？教育者主导研究的地位如何？(pp.127–128)
+> [!claim] 长期推进诉求与系统推进困境
+> 推动证据知情实践（EIP）并非近期的新鲜议题，其理论探索与政策实验已延续数十年（Weiss, 1979; Hargreaves, 1996）；尽管国际上实施了大量旨在提升证据质量、可理解性与教学影响的专业项目，但在系统层面全面实现 EIP 依然极具挑战（Bryk et al., 2011; Durbin & Nelson, 2014）。（p.127）
 
-> [!timeline] EIP 发展的制度背景
-> - **1979** — Weiss (1979) 的[[Research Utilization|研究利用]]工作为研究如何进入实践提供早期基础。
-> - **1996** — Hargreaves (1996) 提出教学作为研究本位专业的主张，为教育证据使用争论提供政策起点。
-> - **2000s–2010s** — 英国教学与学习研究项目（Teaching and Learning Research Programme, TLRP）、美国问责政策变化、加拿大安大略省教育研究与评估战略等，共同推动 EIP 制度化讨论。
-> - **2013 起** — 英国[[ResearchED]] 运动兴起；证据知情特许教学学院（Chartered College of Teaching）成立；国际出现翻转系统（Flip the System）论述，强调教师[[Professional Judgment|专业判断]]优先于自上而下政策（Evers & Kneyber, 2015）。
+> [!timeline] EIP 发展的制度脉络与关键节点
+> - **1979 — [[Research Utilization|研究利用]]理论奠基** [[Carol Weiss|Weiss (1979)]] 提出研究利用的多元模式，打破“研究必然直接指导决策”的技术理性神话，为理解证据如何进入教育实践提供早期理论基石。（p.127）
+> - **1996 — 教学作为研究本位专业** Hargreaves (1996) 发表著名演讲，倡导将教学重塑为由研究支撑的专业，引发英美等国关于教育证据角色的大规模政策论争。（p.127）
+> - **2000s–2010s — 国际系统化改革与研究计划** 英国启动“教学与学习研究计划”（TLRP）（Parsons & Burkey, 2011; Pollard, 2011）；美国推行强化教育问责与严格因果证据标准的联邦政策（Slavin, 2004; Easton, 2010）；加拿大安大略省实施全面的教育研究与评估战略（Campbell, 2014）。（p.127）
+> - **2013 起 — 草根证据运动兴起** 英国一线教师自发发起 [[ResearchED]] 运动，证据知情取向的特许教学学院（Chartered College of Teaching）正式成立。（p.127）
+> - **2015 — 翻转系统话语** Evers & Kneyber (2015) 编著出版《Flip the System》，国际学界与实践界掀起倡导由教师专业判断引领教育变革、抗衡自上而下行政问责的自下而上浪潮。（p.127）
 
-> [!chain-link] 证据到判断
-> 这些未决问题直接对应特刊征稿的概念问题（问题 1–3），说明定义分歧决定证据能否被教学专业接纳：语义分歧既阻碍系统变革，又触及信念、所有权与相关性的核心。此外，还需更好理解连接证据与实践的中介过程（p.128）。
+> [!factors] EIP 系统化推进的核心制约条件
+> - **概念共识缺失** 利益相关者对 EIP 的确切内涵缺乏共识，关于“什么是可靠证据”、“实验研究是否唯一黄金标准”、“教师主导研究地位如何”等核心问题悬而未决。（pp.127–128）
+> - **中介过程认知不足** 学界与政策界对连接证据与实践之间复杂的“中介过程（mediating processes）”缺乏深入理解，误将证据供给等同于实践应用。（pp.127–128）
+> - **专业准备度欠缺** 忽视了教育者自身批判、实施与改编证据的专业准备度，未能为证据落地提供支撑性环境。（p.127）
 
-> [!implication]- 推论：从供给转向条件
-> 草根需求增长说明推进 EIP 需以关键前提条件到位为前提，使教育者准备好批判、实施与改编证据（Roberts, 2015; Nelson & O'Beirne, 2014）。证据需被种在肥沃的土壤中才能生根[[Growth|成长]](p.127)。
-
----
-
-### 论证步骤二　从研究到证据知情的多源定义之争
-
-> [!claim] 三个语义争议
-> 精确定义 EIP 极具挑战，语义分歧表面上阻碍系统变革，实际上触及信念、所有权与相关性，并影响证据能否被教学专业接受(p.128)。许多利益相关者互换使用证据本位与证据知情两个术语。三个争议问题：研究（research）与证据（evidence）是否同一？（Nelson, 2014）证据本位（evidence-based）与证据知情（evidence-informed）实践是否根本不同？（McFarlane, 2015）谁的主张算证据（Whose evidence counts?）
-
-> [!tension] 证据本位 vs 证据知情
-> - **证据本位（Evidence-based）** 强调以研究证据（尤其高等级证据）驱动决策，易被读作照菜谱式执行与权威规定。
-> - **证据知情（Evidence-informed）** 把证据视为多种决策因素之一，由教育者以[[Professional Judgment|专业判断]]整合，研究或数据只是输入之一。
-
-> [!chain-link] 证据到判断
-> Sharples (2013) 的界定支撑这一区分：证据本位实践将专业技能与来自研究的最佳外部证据相结合以改善实践质量，而非照菜谱式执行或从不容挑战的权威位置发号施令(p.129)。
-
-> [!claim] 四源整合
-> 特刊传递的共同信息是 EIP 需要多源整合：LaPointe-McEwan et al.（皇后大学，安大略），以及 Brown et al.（伦敦大学学院与特文特大学）均论证 EIP 必须被视为[[Professional Judgment|专业判断]]、系统层面数据、课堂数据与研究证据的整合(p.129)。
-
-> [!warrant]- 推理桥梁
-> evidence-informed 与 research-informed 不同：研究证据是证据知情拼图的重要一块，还需与数据及[[Professional Judgment|专业判断]]整合。把 EIP 定义为多源整合，直接支撑后文两个主张：其一，谁的证据算数成为核心争议（步骤三）；其二，推进 EIP 需要关注[[Knowledge Mobilisation|知识动员]]的系统条件（步骤四）。
+> [!implication]- 推论：从单纯供给转向肥沃土壤的制度准备
+> 近年来草根教师对证据需求的激增表明，推进 EIP 绝非单纯增加研究供给或单向刺激外部需求的机械工程（Nelson & O'Beirne, 2014），而是必须建立使教育者在接触证据时能够主动批判、实施与情境化改编的关键前置条件（Roberts, 2015）。证据必须被种植在“肥沃的土壤（fertile ground）”中才能真正生根[[Growth|成长]]。（p.127）
 
 ---
 
-### 论证步骤三　谁的证据算数，黄金标准与实践本位证据的张力
+### 论证步骤二　从研究到证据知情：语义争议与四源整合模型
 
-> [!tension] 黄金标准 vs 多元证据
-> - **Goldacre（2013）·"什么有效"** 教育不是证据本位的，因为缺乏通过[[Randomised Controlled Trials|随机对照试验]]收集的稳健"什么有效"证据；英国随后发展 What Works Centres，美国出现联邦背书的"什么有效"方法论（Slavin, 2004; Easton, 2010）(p.128)。
-> - **Bredo（2006）·"什么重要"** 把教育研究窄化为实验的"什么有效"会排除"什么重要"等更广问题（另见 Nutley, Powell, & Davies, 2013）；EIP 兼具技术性与价值性，受个人与专业价值观、信念及更广政治教育背景影响。
+> [!claim] 三大语义争议与反教条主义立场
+> 精确界定 EIP 极具挑战；表面上的术语分歧实则触及信念、所有权、专业自主与实践相关性等核心问题，直接决定证据能否在教学专业中获得真正认同（p.128）。学界与实践界长期存在三大核心争议：
+> 1. 研究（research）与证据（evidence）是否同一？（Nelson, 2014）
+> 2. 证据本位（evidence-based）与证据知情（evidence-informed）是否根本不同？（McFarlane, 2015）
+> 3. 谁的证据算数（Whose evidence counts?）（p.128）
 
-> [!claim] 中间立场：[[Practice-Based Evidence|实践本位证据]]
-> Bryk (2015) 提出 [[Practice-Based Evidence|实践本位证据]]（practice-based evidence），认为教育者生成的细粒度、实践相关知识可形成性支持专业学习与学生成就；教育者研究常被贬为小规模、轶事性、不可复制（Borg, 2010; CUREE, 2011; Enthoven & de Bruijn, 2010; Wilkins, 2012），但实践中其使用往往超过原始研究(p.129)。
+> [!tension] 证据本位（Evidence-Based） vs 证据知情（Evidence-Informed）
+> - **证据本位（Evidence-based）** 侧重由研究证据（尤其外部高等级实验证据）驱动决策，极易滑向“照菜谱式”教学或从不容置疑的权威地位发号施令。
+> - **证据知情（Evidence-informed）** 将证据界定为影响教育决策的诸多资源之一，强调由教育者在具体情境中运用[[Professional Judgment|专业判断]]对研究、数据与经验进行审议与整合。
 
-> [!case] 案例一：课堂数据的层级（LaPointe-McEwan et al.）
-> 特刊较少讨论研究、更多讨论课堂数据。LaPointe-McEwan et al. 提醒，正如研究证据存在层级，课堂数据也被感知为有层级，正式终结性评估主导决策。结果强调教育者采取更宽的课堂证据视角、发展[[Data Literacy|数据素养]]技能、学会对定性与定量来源做[[Triangulation|三角验证]]，以形成均衡决策(p.129)。
+> [!claim] 证据知情实践（EIP）的四源整合界定
+> Sharples (2013, p.7) 指出，证据本位实践绝非“照菜谱式”的教学或监管，而是将专业专长与来自研究的最佳外部证据深度融合以提升实践质量（p.129）。特刊收录论文（LaPointe-McEwan et al.; Brown et al.）共同确立了核心共识：EIP 绝非单维概念，必须被明确界定为[[Professional Judgment|专业判断]]、系统层面数据、课堂数据与研究证据的四源整合。（p.129）
 
-> [!case] 案例二：[[Data-Based Decision Making|DBDM]] 与 [[Research-Informed Teaching Practice|RITP]] 两个世界的整合（Brown et al.）
-> Brown et al. 考察[[Data-Based Decision Making|基于数据的决策]]（Data-Based Decision Making, DBDM）与[[Research-Informed Teaching Practice|研究知情教学实践]]（Research-Informed Teaching Practice, RITP）两个世界：在证据知情系统中二者应整合、却很少整合。提出证据知情的学校与教师改进模型，取 DBDM 与 RITP 最佳实践，通过系统的学校探究循环（school enquiry cycle）应用(p.129)。
+> [!framework-table] 证据知情实践（EIP）四源整合矩阵
+> | 整合维度 | 概念内涵与主要形态 | 在教育决策中的功能 | 缺失或单维主导的潜在风险 |
+> |---|---|---|---|
+> | **[[Professional Judgment\|专业判断]]** | 教师基于专业经验、伦理价值、情境理解与教学反思形成的审议判断。（pp.128–129） | 决策整合的枢纽；将抽象研究与统计数据情境化，权衡教育目的与适切性。（p.129, 132） | 缺乏严谨证据约束时易退化为主观偏见或经验直觉。（p.132） |
+> | **系统层面数据** | 学校、学区、省州或国家层面的行政管理、学业测评与督导评估数据。（p.129） | 提供宏观基准线与系统性发展信号，支持宏观资源调配与问题诊断。（p.129） | 单独主导易导致唯分数论与自上而下的行政技术官僚主义问责。（p.127） |
+> | **课堂数据** | [[Formative Assessment\|形成性评估]]、课堂观察记录、学生作业表现与师生互动质性反馈。（p.129） | 反映微观教学现场即时动态，为差异化教学与过程性调整提供形成性依据。（p.129） | 容易过度依赖终结性测试，缺乏多源定性三角验证。（p.129） |
+> | **研究证据** | 经学术研究程序系统产出的知识，涵盖实证研究、理论综合与二阶文献。（pp.128–129） | 提供普适性规律、干预机制解释与概率性效果参考，拓展教师认知视野。（p.128） | 脱离情境直接套用会导致教条化执行与实践水土不服。（p.128） |
 
-> [!case] 案例三：政策作为实践与可得适切证据（Rickinson et al.）
-> Rickinson et al.（莫纳什大学与新西兰环境部）提出教育实践可从教育政策学习：政策制定本身就是一种实践，政策制定者与教育者使用的证据类型与种类高度相似。结果显示在政策与实践两端，人们倾向使用熟悉而非适切任务的证据；可得证据与适切证据的区分（Earl & Timperley, 2009）横跨政策与实践，适切性必须结合情境判断、不能预设(pp.129–130)。
-
-> [!implication]- 推论
-> 这些讨论把证据从单数（研究）扩展为复数（研究、数据、实践知识），为知识动员的多元策略提供铺垫。同时，将"什么有效"的学习嵌入整个教育系统仍具挑战（Becheikh et al., 2009; CUREE, 2011; Gough, 2013; Sharples, 2013）(p.128)。
-
----
-
-### 论证步骤四　知识动员需要四类策略，证据流动不会自动发生
-
-> [!claim] 四类知识动员主题
-> 关于知识动员（Knowledge Mobilisation, KMb）策略、过程与产出的讨论浮现四个主题：沟通与传播、能力建设、伙伴关系与网络、系统化方法(p.130)。EIP 可发生在个体、群体、组织、网络乃至整个教育系统多个层面，目标与规模在变大（Hargreaves et al., 2010）。
-
-> [!feature] 知识动员四类策略
-> - **沟通与传播（Communication and dissemination）** 研究发表的传播是长期关注点（Weiss, 1979），但证据的有效沟通仍是推进 EIP 的核心；Carrier 考察流行教育创新如何在证据之外获得吸引力，强调说服性沟通的高度影响力(p.130)。
-> - **能力建设（Capacity building）** 教育者需发展分析立场与评估技能以理解多元证据（Carrier）；Brown et al. 强调[[Research Literacy|研究素养]]与数据素养并重，为专业探究与学校改进汇聚证据。
-> - **伙伴关系与网络（Partnerships and networks）** 个体（学校与系统领导者）与组织（专业协会、研究机构）扮演[[Boundary Spanner|中介者]]角色，调解什么证据被沟通和连接到实践(p.131)。
-> - **系统化方法（Systemic approaches）** 面对获取、理解、使用证据的时间与资源持续挑战，需要发展系统层面的 EIP 文化与基础设施。
-
-> [!case] 案例四：教师间传播与证据使用（Cooper et al.）
-> Cooper et al.（皇后大学与安大略小学教师联合会）聚焦教师如何寻找关于有效课堂评估的信息，一个证据相当充分的实践领域。其发现表明教师主要从其他教师获取评估实践的信息(p.130)。即便主动发展教师的证据使用（如 LaPointe-McEwan et al. 的研究），实践来源的证据使用也比原始研究更普遍。
-
-> [!case] 案例五：KNAER 的全系统知识动员（Campbell et al.）
-> Campbell et al.（多伦多大学安大略教育研究院与西安大略大学）提供政府-大学伙伴关系案例：知识网络应用教育研究（Knowledge Network in Applied Education Research, KNAER）以多方利益相关者支持研究与实践活动，意图在整个教育系统动员研究(p.130)。关键发现是证据的生产者与使用者往往都不知道如何真正动员知识；全系统策略、具体工具、资源与[[Research-Practice Partnership|研究-实践伙伴关系]]（Research-Practice Partnership, RPP）能力建设随时间逐步发展(p.131)。结论是"优质产品、协作关系与系统层面能力建设承诺的融合，对真正实现证据知情的知识动员至关重要"。
-
-> [!chain-link] 证据到判断
-> [[Evidence-Based Education|循证教育]]研究使用中心（Centre for Use of Research and Evidence in Education, [[Centre for the Use of Research and Evidence in Education|CUREE]]）(2011) [[Systematic Review|系统综述]]早已指出实践者参与研究在英国专业发展中日益普遍，对教学实践与学生学习具有潜在益处，但仍路漫漫其修远（there is still a long way to go）；[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）也对丹麦、墨西哥、新西兰、瑞士与英格兰开展研究使用改进综述。知识动员因此既需研究者提高清晰、可及、有效的传播能力，也需关注如何让证据进入实践并反之亦然（Campbell et al.）(pp.130–131)。
-
-> [!warrant]- 推理桥梁
-> 肥沃的土壤隐喻说明证据需被种在肥沃土壤中才能生根成长(p.127)：关键前提是教育者准备好批判、实施与改编证据（Roberts, 2015）。因此 EIP 的推进条件是系统性的，比证据供给更根本；但哪些具体的策略组合对特定成果影响最大，仍需进一步研究(p.131)。
+> [!warrant]- 推理桥梁：为何 evidence-informed 不等于 research-informed
+> “证据知情”不同于“研究知情”：研究证据固然是拼图中的关键板块，但绝非全部；证据涵盖了更广泛的数据与实践智慧（p.129）。确立四源整合模型，直接为下述两大判断提供了逻辑支点：其一，“谁的证据算数”必须打破单一量化实验垄断（步骤三）；其二，推进证据应用必须依托全方位的知识动员系统（步骤四）。
 
 ---
 
-### 论证步骤五　成果测量存在知识与方法双重缺口
+### 论证步骤三　谁的证据算数：黄金标准与实践本位证据的张力及多元整合案例
 
-> [!claim] 两个知识缺口
-> 征稿时识别的两个缺口：(a) 如何测量并理解教学专业中 EIP 的程度；(b) EIP 对教学实践与学习者成果的影响（如有）(p.131)。测量困难首先因为依赖定义清晰，其次要求判断测量哪些特征、以什么证据判断是否达成 EIP。Dagenais et al. (2012) 发现关于 EIP 影响（及收益）的证据稀少；虽有研究表明 EIP 可促进学校改进（CUREE, 2011; Greany, 2015; Schleicher, 2011），仍需更严格的定性与定量评价。虽有多项精密的测量工作正在进行，但大多仍处于开发阶段、尚未到报告阶段。
+> [!tension] 实验黄金标准（What Works） vs 多元价值审议（What Matters）
+> - **Goldacre (2013) · “什么有效”** 严厉指责教育界缺乏循证文化，主张通过[[Randomised Controlled Trials|随机对照试验]]（RCT）建立关于“什么有效”的稳健因果证据，推动英国 What Works Centres 与美国联邦循证方法论的兴起（Slavin, 2004; Easton, 2010）。（p.128）
+> - **Bredo (2006) · “什么重要”** 警告不可将教育研究窄化为实验主义的“什么有效”，以致排除了关乎教育价值与长远目的的“什么重要”议题（Nutley et al., 2013）；EIP 具有不可剥离的价值属性与政治情境性。（p.128）
 
-> [!ref-table]- 测量研究使用的主要工作
-> | 地区 | 机构 | 工作内容 |
+> [!claim] 中间立场：实践本位证据（PBE）的正当性
+> [[Anthony Bryk|Bryk (2015)]] 提出[[Practice-Based Evidence|实践本位证据]]（Practice-Based Evidence, PBE）概念，主张教育者在实践中生成的细粒度、情境相关知识，能够形成性地支持专业学习与学生学业成长（p.129）。尽管实践者主导的研究长期被学术界贬低为“小规模、轶事性、不可复制”（Borg, 2010; CUREE, 2011; Enthoven & de Bruijn, 2010; Wilkins, 2012），但在实际教学中，实践来源证据的使用频率和信赖程度往往大幅超越原始学术研究。（pp.129, 132）
+
+> [!contrast-table] 实验黄金标准 vs 实践本位证据：认识论与实践取向对照
+> | 比较维度 | 实验黄金标准（What Works / EBE） | 实践本位证据（Practice-Based Evidence / PBE） |
 > |---|---|---|
-> | **美国** | 教育研究使用中心（Center for Research Use in Education, CRUE）与国家政策与实践研究中心（National Center for Research in Policy and Practice, NCRPP） | 开发测量学校与学区研究使用的系列调查工具，覆盖多种成果层面 |
-> | **苏格兰** | 圣安德鲁斯大学研究利用研究单位（Research Unit for Research Utilisation, RuRu） | 从跨部门视角（含教育）考虑测量问题 |
-> | **英格兰** | 教育捐赠基金会（Education Endowment Foundation, [[Education Endowment Foundation\|EEF]]）与国家教育研究基金会（National Foundation for Educational Research, NFER） | EEF 资助多个协作项目改善研究信息动员并评估相对成效；NFER 开发测量[[Questionnaire\|问卷]]供评估团队使用 |
+> | **核心诉求** | 寻求普遍因果效度与标准化干预效果（p.128） | 寻求情境适切性与微观实践改进动力（p.129） |
+> | **主导方法** | [[Randomised Controlled Trials\|随机对照试验]]（RCT）、严谨准实验与元分析（p.128） | 教师行动研究、专业学习共同体探究、课堂观察（p.129） |
+> | **知识性质** | 去情境化、概率性、外生性知识（p.128） | 细粒度、情境化、内生性实践智慧（p.129） |
+> | **应用方式** | 终结性参照、方案筛选依据（p.128） | 形成性调整、持续教学反思与同行学习（p.129） |
 
-> [!case] 案例六：RPP 影响测量的概念与实践挑战（Wentworth et al.）
-> Wentworth et al.（加州教育伙伴、教育西北、巴尔的摩教育研究联盟）在本特刊深入探讨测量：开发问卷以量化美国[[Research-Practice Partnership|研究-实践伙伴关系]]（RPP）对教育者证据本位决策的感知影响(p.132)。借鉴 Coburn 与 NCRPP 的思路，强调拆解促成影响的成果。
+> [!case] 案例一：课堂数据的层级性、数据素养与定性定量三角验证（LaPointe-McEwan et al., 2017）
+> 加拿大安大略省皇后大学团队的研究聚焦课堂数据的微观运用：
+> 1. **数据层级性困境** 正如学术研究存在方法层级，课堂数据在实践中也被高度层级化，标准化的终结性测试数据压倒性地支配了决策，过程性与质性证据被边缘化。（p.129）
+> 2. **数据素养与三角验证** 倡导教育者拓宽课堂证据视野，发展深层[[Data Literacy|数据素养]]技能，学习对定性观察与定量测评数据进行[[Triangulation|三角验证]]，形成均衡审慎的教学判断。（p.129）
+> 3. **中层领导者支撑** 研究进一步指出中层领导者（middle leaders）在校内及跨校协作探究网络中扮演着关键催化角色，是维系数据审议与实践改进的核心支柱。（p.130）
 
-> [!contrast-table] 中间成果与长期成果
-> | 维度 | 中间成果 | 长期成果 |
-> |------|----------|----------|
-> | **对象** | 教育者行为或思维模式 | 对实践、思维与合法化的深层影响 |
-> | **作用方式** | 使用前的短期变化 | 使用后的持续影响 |
-> | **测量难度** | 较易观测但意义需解读 | 较难归因但更具决定意义 |
+> [!case] 案例二：基于数据的决策（DBDM）与研究知情实践（RITP）的探究循环整合（Brown et al., 2017）
+> 英国伦敦大学学院与荷兰特文特大学跨国团队考察了教育改进的两大流派：
+> 1. **两界的长期割裂** [[Data-Based Decision Making|基于数据的决策]]（DBDM）聚焦校内测评数据诊断，而[[Research-Informed Teaching Practice|研究知情教学实践]]（RITP）侧重外部学术文献转化；在现有学校体系中二者高度割裂、鲜有协同。（p.129）
+> 2. **整合性改进模型** 提出“证据知情学校与教师改进模型”，萃取 DBDM 的精确诊断优势与 RITP 的外生新知优势，将其统一嵌入系统的“学校探究循环（school enquiry cycle）”中，实现数据与研究的双向互补。（p.129）
 
-> [!feature] 长期成果的三类形态
-> - **工具性成果（Instrumental outcomes）** 研究对实践的直接影响。
-> - **概念性成果（Conceptual outcomes）** 研究对思维的间接影响。
-> - **象征性成果（Symbolic outcomes）** 使用证据合法化某种做法或说服他人其价值。
->
-> 这一分类来自 NCRPP 学者，被归入研究使用的类型学。(p.132)
+> [!case] 案例三：政策制定作为实践与“可得证据”向“适切证据”的情境转化（Rickinson et al., 2017）
+> 澳大利亚莫纳什大学与新西兰环境部团队提出了跨领域新视角：
+> 1. **政策与实践的同构性** 将政策制定视为一种特殊的专业实践，揭示政策制定者与一线教育者在证据使用特征上存在高度相似性——二者均面临从浩瀚信息中筛选证据的挑战。（pp.129–130）
+> 2. **习惯依赖与适切性断裂** 经验表明，政策与实践两端均存在严重依赖“熟知证据（well known）”而非“任务适切证据（appropriate to task）”的认知惰性。（pp.129–130）
+> 3. **可得证据 vs 适切证据** 借用 Earl & Timperley (2009) 的概念，明确区分“可得证据（available evidence）”与“适切证据（appropriate evidence）”；证据的“适切性”绝不能由外部统一预设，而必须结合具体政治、文化与教学情境进行动态研判。（pp.129–130）
 
-> [!warrant]- 最终推理桥梁
-> 成果是情境化的、发生在不同层面，测量需结合多种量化指标与丰富描述性数据；EIP 是动态过程，不能只研究可量化的部分(p.133)。这收束到结论：具有讽刺意味的是，仍需更多关于 EIP 应用与成果的证据(p.132)。
+> [!implication]- 推论：证据从单数走向复数的实践与政策后果
+> 将证据内涵由狭隘的学术论文（单数）扩展为涵盖系统数据、课堂信息与实践知识的复合体（复数），彻底动摇了自上而下的线性证据输送模式；它要求将“什么有效”的系统学习深度嵌入教育治理全过程（Becheikh et al., 2009; Gough, 2013; Sharples, 2013），为多维知识动员战略奠定了认识论基础。（pp.128–130）
+
+---
+
+### 论证步骤四　知识动员（KMb）的四类核心策略与中介机制
+
+> [!claim] 知识动员的本质与多层级规模扩张
+> 证据在教育系统中的流动不会自然发生。知识动员（Knowledge Mobilisation, KMb）指涉研究与数据融入或未能融入教育政策与实践的完整过程（Cooper et al., 2017），其本质是研究者、决策者与实践者之间通过协作共同创造知识的社会互动与迭代过程（Campbell et al., 2017）（p.130）。随着教育变革目标与活动规模的持续扩大（Hargreaves et al., 2010），EIP 已演进为涵盖个体、群体、组织、网络直至整个教育系统的多层级生态。（p.130）
+
+> [!feature] 知识动员（KMb）的四类核心策略与系统机制
+> - **沟通与传播（Communication and Dissemination）** 克服学术发表与实践话语的脱节；不仅追求信息送达，更关注证据传播的清晰性、可及性与说服力机制。（p.130）
+> - **能力建设（Capacity Building）** 消除教育者与研究者的双向能力赤字；培育教育者的[[Research Literacy|研究素养]]、[[Data Literacy|数据素养]]、分析性立场与评估技能。（pp.130–131）
+> - **伙伴关系与网络（Partnerships and Networks）** 建立跨边界协作共同体；学校与系统领导者、专业协会、研究机构发挥[[Boundary Spanner|跨界中介者]]功能。（pp.130–131）
+> - **系统化方法（Systemic Approaches）** 突破时间与资源瓶颈；构建全系统层面的 EIP 制度文化、支持性基础设施与长效激励机制。（pp.130–131）
+
+> [!case] 案例四：流行教育创新的说服性传播与分析性立场的必要性（Carrier, 2017）
+> 多伦多大学 OISE 的 Carrier 探讨了教育创新传播的独特现象：
+> 1. **修辞吸引力 vs 证据基础** 某些流行教育创新之所以能风靡教育界，往往与其底层证据基础的稳健程度无关，而是高度依赖极具吸引力的“说服性沟通策略（persuasive communication strategies）”。（p.130）
+> 2. **分析性立场与评估技能** 这一发现揭示了证据传播的双刃剑效应，凸显一线教育者亟需发展“分析性立场（analytical stance）”与“评估技能（evaluative skills）”，以辨识商业包装与真实实证效能。（p.130）
+
+> [!case] 案例五：教师课堂评估信息的获取渠道与同行主导模式（Cooper et al., 2017）
+> 皇后大学与安大略小学教师联合会（ETFO）针对课堂评估这一高实证密度领域展开调查：
+> 1. **同行主导的信息网络** 调查证实，教师获取评估实践信息的最首要渠道是其他一线教师（other teachers），人际专业网络是证据流动的主渠道。（p.130）
+> 2. **实践证据的优先性** 即便在专门致力于推动证据使用的试验项目中，教师对实践本位证据的接纳与使用程度，依然显著高于对原始学术研究报告的利用。（p.130）
+> 3. **多元中介者的关键角色** 强调学校领导、区级行政人员、专业发展提供机构以及教师工会（teachers' unions）在筛选、解读和转译证据中承担的关键中介职责。（p.130）
+
+> [!case] 案例六：KNAER 全系统知识动员战略与双向能力建设（Campbell et al., 2017）
+> 多伦多大学 OISE 与西安大略大学团队对安大略省“应用教育研究知识网络”（KNAER）开展深度案例研究：
+> 1. **双向能力赤字** 发现知识动员的最大障碍在于“证据的生产者（研究者）与使用者（决策者/教师）往往都不知道究竟如何动员知识”，二者均存在能力短板。（pp.130–131）
+> 2. **全系统 RPP 基础设施** KNAER 通过政府、大学、学区与工会的多方伙伴关系，历经多年迭代开发出专门的知识动员工具、指南资源，系统性提升了[[Research-Practice Partnership|研究-实践伙伴关系]]（RPP）的协作能力。（pp.130–131）
+> 3. **三位一体动员法则** 得出核心结论：“优质知识产出（quality products）、协作伙伴关系（collaborative relationships）以及全系统能力建设与难题破解承诺（system-wide capacity building）的三者深度融合，是实现真正证据知情实践的决定性保障”。（p.131）
+
+> [!warrant]- 推理桥梁：为什么系统条件与中介能力优先于研究供给
+> 英国 CUREE (2011) 的[[Systematic Review|系统综述]]表明，实践者参与研究虽日益普遍，但实现常态化依然路途遥远；[[OECD]] 对丹麦、墨西哥、新西兰、瑞士及英格兰的跨国审查亦得出相似结论（p.130）。这证明单纯向学校“推送”研究成果（Lavis et al., 2003）完全无法克服时间匮乏与专业壁垒，知识动员必须转向双向共创与全系统基础设施建设。（pp.130–131）
+
+---
+
+### 论证步骤五　成果测量面临知识与方法双重缺口及类型学构建
+
+> [!claim] 成果测量的双重知识缺口与现实挑战
+> 推进 EIP 面临两大根本性知识缺口：(a) 如何精准测量并理解教学专业中 EIP 的实施程度；(b) 如何科学评估 EIP 对教师教学实践与学习者学业成果的实际影响（p.131）。Dagenais et al. (2012) 的实证综述表明，关于 EIP 实际成效与收益的严谨证据十分匮乏；尽管部分研究指出其有助于学校改进（CUREE, 2011; Greany, 2015; Schleicher, 2011），但现有评估在定性与定量严谨性上均显不足。（p.131）
+
+> [!ref-table]- 国际研究使用与 EIP 测量前沿倡议一览
+> | 国家／地区 | 核心发起机构与项目 | 核心测量策略与研发工具 | 测量关注层面与阶段特征 |
+> |---|---|---|---|
+> | **美国** | 教育研究使用中心（CRUE） & 政策与实践研究中心（NCRPP） | 研发成套多层级调查问卷工具包（Survey Instruments），量化学校与学区维度的研究利用。（p.131） | 覆盖个体认知、组织决策与系统互动等多个成果层级；多处于工具开发与试测阶段。（p.131） |
+> | **苏格兰** | 圣安德鲁斯大学研究利用研究中心（RuRu） | 采用跨部门视角（涵盖公共卫生、社会工作与教育）探索研究利用的普适与特异性测量指标。（p.131） | 聚焦跨领域经验借鉴与方法论框架整合。（p.131） |
+> | **英格兰** | 教育捐赠基金会（[[Education Endowment Foundation\|EEF]]） & 国家教育研究基金会（NFER） | EEF 资助多项知识动员协作项目并开展相对有效性评估；NFER 开发专门的教师研究参与度测量问卷（Nelson et al., 2017; Poet et al., in press）。（pp.131–132） | 评估不同动员策略对教师态度、行为与学校文化的影响；处于实证评估前沿。（pp.131–132） |
+
+> [!case] 案例七：研究-实践伙伴关系（RPP）感知影响的测量探索与类型学（Wentworth et al., 2017）
+> 美国加州教育伙伴、西北教育与巴尔的摩教育研究联盟团队针对 RPP 影响测量展开深度攻关：
+> 1. **RPP 影响问卷开发** 针对美国教育情境开发专用调查工具，量化[[Research-Practice Partnership|研究-实践伙伴关系]]对教育者证据本位决策的感知影响。（p.132）
+> 2. **解构影响构成** 借鉴 Cynthia Coburn 与 NCRPP 的理论框架，主张不能将影响视为黑箱，必须将其细致拆解为促成最终改变的阶段性成果链条。（p.132）
+> 3. **情境解释的决定性** 强调成果的测量与解读高度依赖特定制度与文化情境，绝不能脱离具体背景做生硬的跨校比较。（p.132）
+
+> [!contrast-table] 研究使用与 EIP 成果分层类型学（中间成果 vs 长期成果）
+> | 成果层级 | 成果具体类别 | 核心内涵与表现形态 | 测量挑战与代表性指标 |
+> |---|---|---|---|
+> | **中间成果**<br>（Intermediate Outcomes） | **行为与心智模式**<br>（Behaviors & Mindsets） | 教育者在日常工作中展现出的研究搜寻行为、批判性审议态度、反思倾向与专业探究心智。（p.132） | 相对易于通过问卷调查与自我报告捕捉，但难以直接等同于学生学业提升。（p.132） |
+> | **长期成果**<br>（Long-Term Outcomes） | **工具性成果**<br>（Instrumental Outcomes） | 研究证据直接作用于具体的教学决策、课程重构、教学策略修正或政策文本制定。（p.132） | 因果归因链条长，需追踪具体决策与外部研究证据的直接映射关系。（p.132） |
+> | **长期成果**<br>（Long-Term Outcomes） | **概念性成果**<br>（Conceptual Outcomes） | 研究证据潜移默化地重塑教育者的思维框架、问题界定方式与长远教育哲学观念。（p.132） | 表现隐蔽且渐进，需依托深度质性访谈与长周期话语分析进行识别。（p.132） |
+> | **长期成果**<br>（Long-Term Outcomes） | **象征性成果**<br>（Symbolic Outcomes） | 策略性地利用证据为既定决策提供合法性辩护，或说服外部利益相关者认可某项改革。（p.132） | 易被视作事后辩护，但对于政治合法性与政策联盟构建具有重要功能。（p.132） |
+
+> [!warrant]- 最终推理桥梁：动态社会过程与拒绝单纯量化主义
+> 评估 EIP 的成效必须建立在严谨的变革理论（theories of change）之上，统筹考察知识动员策略质量、多元证据使用形态、专业知识生成以及对学习者最终成果的深层影响（pp.132–133）。由于 EIP 本质上是一个动态的社会交互过程，“我们绝不能落入只去理解那些容易被量化的组成部分的陷阱中”，必须坚持多元量化指标与丰富质性描述数据的有机结合（p.133）。
 
 ---
 
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **共识** 特刊一致认为证据涵盖专业经验与判断、数据和研究等多种类型与来源；尽管黄金标准方法论辩论持续，最常使用的证据来源来自专业经验与同事，而非原始研究(p.132)。
-> 2. **整合是主调** [[Evidence-Informed Practice|EIP]] 被定义为[[Professional Judgment|专业判断]]、系统数据、课堂数据与研究证据的整合；evidence-informed 不等于 research-informed(p.129)。
-> 3. **条件重于供给** [[Knowledge Mobilisation|知识动员]]四类策略（传播、能力建设、伙伴关系与网络、系统化方法）表明推进 EIP 需要系统条件，而非单纯提供研究(pp.130–131)。
-> 4. **测量是双重缺口** 测量 EIP 程度与影响的知识和方法均不足；需中间与长期成果、定量与描述性数据并用(pp.131–133)。
+> 1. **证据内涵的多元共识** 特刊达成广泛共识：证据绝非仅限于学术研究，而是涵盖专业判断、系统数据、课堂数据与外部研究的多元知识谱系；在日常教学中，实践者最常依赖的证据来自专业经验与同事交流，而非原始研究文献（p.132）。
+> 2. **EIP 的四源整合定位** 证据知情实践（EIP）被明确定义为专业判断、系统层面数据、课堂数据与研究证据的多源整合；evidence-informed 根本不同于 research-informed，研究证据只是证据知情拼图的重要一块，专业判断是整合枢纽（pp.128–129）。
+> 3. **知识动员的系统条件优先性** 知识动员（KMb）不是单向线性传播，而是涵盖沟通传播、能力建设、伙伴关系与网络、系统化方法四类策略的社会共创过程；推进 EIP 的关键在于培育使教育者能够批判、实施与改编证据的“肥沃土壤”，而非单纯增加研究供给（pp.127, 130–131）。
+> 4. **成果测量的双重缺口与类型学** 测量 EIP 程度与影响面临知识与方法双重缺口；成效评估需区分中间成果（行为与思维模式）与三类长期成果（工具性、概念性、象征性），坚持多元量化指标与丰富质性描述相结合，避免落入只量化可量化部分的陷阱（pp.131–133）。
+
+> [!stat-cards]- 核心维度与结构快照
+> - **5 大核心问题** 特刊征稿提出的 3 大概念问题与 2 大应用问题，系统映射至三大核心主题。（pp.127–128）
+> - **3 大核心主题** EIP 的定义、EIP 的应用与知识动员条件、相关成果与测量挑战。（pp.127–128）
+> - **4 维整合数据源** 专业判断、系统层面数据、课堂数据与研究证据。（p.129）
+> - **4 类知识动员策略** 沟通传播、能力建设、伙伴关系与网络、系统化方法。（pp.130–131）
+> - **3 类长期研究使用成果** 工具性成果（直接影响实践）、概念性成果（间接重塑思维）、象征性成果（合法化与说服）。（p.132）
+> - **5 国经验与 7 篇论文** 汇聚澳大利亚、加拿大、英格兰、荷兰与美国的 7 项前沿研究与案例。（pp.128–132）
 
 ---
 
 ## 关键引用
 
 > [!citation-card]- 证据本位实践不是照菜谱
-> "证据本位实践不是'照菜谱'式的教学或监管，也不应从不容挑战的权威位置规定发生什么；它是将专业技能与来自研究的最佳外部证据相结合，以改善实践质量。"(Sharples, 2013, p.7, 引于 p.129)
+> "证据本位实践不是'照菜谱'式的教学或监管，也不应从不容挑战的权威位置规定发生什么；它是将专业技能与来自研究的最佳外部证据相结合，以改善实践质量。"（Sharples, 2013, p.7，引于 p.129）
 >
 > *"Evidence-based practice is not 'cook book' teaching or policing, nor should it be about prescribing what goes on from a position of unchallenged authority. It is about integrating professional expertise with the best external evidence from research to improve the quality of practice."*
 
 > [!citation-card]- 肥沃的土壤
-> "如果证据要生根[[Growth|成长]]，就需要被种植在'肥沃的土壤'中。"(p.127)
+> "如果证据要生根成长，就需要被种植在'肥沃的土壤'中。"（p.127）
 >
 > *"Evidence needs to be planted in 'fertile ground' if it is to take root and grow."*
 
-> [!citation-card]- 严谨证据与严谨判断
-> "成为证据知情的过程，既需要严谨的证据，也需要严谨的[[Professional Judgment|专业判断]]过程。"(Campbell, 2016, 引于 p.132)
+> [!citation-card]- 严谨证据与严谨判断并存
+> "成为证据知情的过程，既需要严谨的证据，也需要严谨的专业判断过程。"（Campbell, 2016，引于 p.132）
 >
 > *"The process of being evidence-informed requires both rigorous evidence and a rigorous process of professional judgement."*
 
-> [!citation-card]- 动员即共创
-> "动员意味着研究者、决策者与实践者之间通过协作共同创造知识的社会互动与迭代过程。"(Campbell et al.，引于 p.130)
+> [!citation-card]- 知识动员是多方协作共创
+> "动员意味着研究者、决策者与实践者之间通过协作共同创造知识的社会互动与迭代过程。"（Campbell et al.，引于 p.130）
 >
 > *"Mobilisation implies social interaction and iterative processes of co-creating knowledge through collaboration between and among researchers, decision-makers and practitioners."*
 
-> [!citation-card]- 不要只量化可量化的部分
-> "我们绝不能落入只去理解那些容易被量化的组成部分的陷阱中。"(p.133)
+> [!citation-card]- 实践本位证据的独特价值
+> "由教育者生成的细粒度、与实践高度相关的知识，往往能够被形成性地应用于支持专业学习与学生成就。"（Bryk, 2015，引于 p.129）
+>
+> *"Fine-grained practice-relevant knowledge, generated by educators, can often be applied formatively to support professional learning and student achievement."*
+
+> [!citation-card]- 警惕只量化可量化部分的陷阱
+> "我们绝不能落入只去理解那些容易被量化的组成部分的陷阱中。"（p.133）
 >
 > *"We must not fall into the trap of seeking to understand only those components that can easily be quantified."*
 
@@ -314,10 +361,10 @@ updated: 2026-08-26
 ## 自述局限
 
 > [!warning]
-> - **定义未定** 确保 [[Evidence-Informed Practice|EIP]] 的精确定义具有挑战性，未给出[[Definition of Terms|操作性定义]]，把定义多元性作为待解决的问题记录(p.128)。
-> - **测量薄弱** 特刊没有收到许多详细考虑这些问题的论文，测量挑战被提出但远未解决(p.132)。
-> - **策略组合未知** 哪些具体的 EIP 策略、过程与活动组合对特定成果影响最大，仍需进一步研究(p.131)。
-> - **仍需更多证据** EIP 在实践中的应用与成果的证据依然缺乏。
+> - **操作性定义尚未完全统一** 尽管特刊收录论文提供了丰富的透镜，但学界对 EIP 仍未形成高度标准化的统一操作性定义，各利益相关者对“证据”与“知情”的理解仍存语境差异。（p.128）
+> - **实证测量工具多处于研发起步阶段** 特刊收到的测量论文数量相对较少，目前国际上前沿的 EIP 调查工具（如 CRUE、NCRPP、NFER 工具包）大多处于研发或试点阶段，尚未形成成熟的大规模报告体系。（pp.131–132）
+> - **最优策略组合机制尚待探明** EIP 包含多重策略、流程与活动，究竟哪些具体的策略组合在何种情境下能对特定的学生或教师成果产生最大影响，仍需未来研究深入剖析。（p.131）
+> - **实证成效证据依然匮乏** 具有讽刺意味的是，倡导循证理念的教育界自身，关于 EIP 在真实实践中的实际应用及其对学习者成果影响的严谨实证证据依然相当有限。（pp.131–133）
 
 ---
 
