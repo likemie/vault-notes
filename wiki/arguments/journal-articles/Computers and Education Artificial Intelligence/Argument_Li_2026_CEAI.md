@@ -102,9 +102,9 @@ title: "Argument_Li_2026_CEAI"
 argument_key: "Argument_Li_2026_CEAI"
 argument_display_title: "The cognitive impact of ChatGPT in higher education: A systematic review of critical and creative thinking outcomes"
 argument_kind: "journal-article"
-argument_related_count: 59
-argument_related_level: 3
-argument_related_stars: "⭐⭐⭐"
+argument_related_count: 63
+argument_related_level: 4
+argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "Computers and Education: Artificial Intelligence"
 book_title: ""
@@ -188,43 +188,45 @@ issuing_organization: ""
 > | **文献载体（Document Type）** | 经过严格同行评议的学术期刊论文（Peer-Reviewed Articles） | 保证纳入实证证据的方法学严谨性、研究透明度与学术公信力。 |
 
 > [!sample-panel]- 表4：纳入实证文献描述性特征全量汇总（n = 67）
-> | 特征分类维度 | 统计子项类别 | 频数（n） | 占比（%） | 学术特征与样本结构解读 |
+> <span class="scrollable-table-marker" aria-hidden="true"></span>
+>
+> | <small>特征分类维度</small> | <small>统计子项类别</small> | <small>频数（n）</small> | <small>占比（%）</small> | <small>学术特征与样本结构解读</small> |
 > |---|---|---|---|---|
-> | **研究聚焦（Study Focus）** | 仅考察批判性思维（CT only） | 23 | 34.33% | 侧重收敛性论证建构、事实核查与[[Metacognition\|元认知]]监控。 |
-> | | 仅考察创造性思维（CrT only） | 11 | 16.42% | 侧重发散构想生成、修辞表达与设计创意探索。 |
-> | | 同时考察批判与创造（Both CT & CrT） | 33 | 49.25% | 近半数研究关注两类高阶思维在人机协同中的共现与交互。 |
-> | **研究设计（Study Design）** | 量化实证研究（Quantitative） | 26 | 38.81% | 采用[[Quasi-Experimental Designs\|准实验设计]]、[[Questionnaire\|问卷调查]]与客观评分量规测验。 |
-> | | 质性实证研究（Qualitative） | 20 | 29.85% | 采用[[In-depth Interview\|深度访谈]]、反思日志分析与交互语料文本解构。 |
-> | | [[Mixed Methods Research\|混合方法研究]]（Mixed Methods） | 21 | 31.34% | 整合量化因果效应检验与质性深层认知机制挖掘。 |
-> | **学科领域（Disciplinary Focus）** | STEM 科学技术工程数学 | 24 | 35.82% | 涵盖编程排错、系统工程设计与复杂科学探究。 |
-> | | [[General Education\|通识教育]]与教师教育 | 21 | 31.34% | 聚焦师范生教学设计、批判性反思与通识课程探究。 |
-> | | 语言与学术写作（Language & Writing） | 18 | 26.87% | 关注二语学术论文写作、修辞润色与体裁转写。 |
-> | | 跨学科与其他应用领域 | 4 | 5.97% | 涉及商业企划模拟、临床决策与艺术创意设计。 |
-> | **地理区域（Geographic Region）** | 亚洲地区（Asia） | 39 | 58.21% | 呈现压倒性实证活力，主要分布在中国、印尼、韩国等。 |
-> | | 欧洲地区（Europe） | 12 | 17.91% | 侧重批判性反思培养、学术诚信与伦理合规规制。 |
-> | | 北美地区（North America） | 7 | 10.45% | 聚焦课程整合模型、设计思维与认知负荷干预。 |
-> | | 大洋洲地区（Oceania） | 3 | 4.48% | 澳大利亚等高校的高阶写作与思维教学实践。 |
-> | | 非洲地区（Africa） | 3 | 4.48% | 全球南方及边缘地区的实证证据目前严重匮乏。 |
-> | **发表年份（Publication Year）** | 2023 年 | 7 | 10.45% | 早期探索性试点与经验反思居多。 |
-> | | 2024 年 | 39 | 58.21% | 实证文献爆发式增长，全面覆盖多学科课堂实验。 |
-> | | 2025 年（截至 4 月） | 21 | 31.34% | 仅前 4 个月即达 21 篇，研究向深层机制与教学重塑深化。 |
-> | **核心刊物（Common Journals）** | Education and Information Technologies | 4 | 5.97% | 4 篇，关注教育技术在高校的实际整合效果。 |
-> | | Frontiers in Education | 3 | 4.48% | 3 篇，聚焦高等教育创新与教学法改革。 |
-> | | JITE: Research | 3 | 4.48% | 3 篇，侧重信息技术教育与实证评价。 |
-> | | Computers & Education | 3 | 4.48% | 3 篇，教育技术学领域顶级头部期刊。 |
-> | | 其他期刊（$k \le 2$） | 54 | 80.60% | 分布呈现显著长尾效应，广泛分散于不同专业期刊。 |
-> | **参与对象（Participant Levels）** | 本科生（Undergraduate students） | 45 | 67.16% | 本科生为最主要的实证研究被试群体。 |
-> | | 研究生（Graduate students） | 43 | 64.18% | 硕士与博士研究生（部分研究跨学段采样，比例不互斥）。 |
-> | | 高校教师与导师（Faculty） | 11 | 16.42% | 教师视角研究相对较少，多结合课堂教学观察。 |
-> | **教学应用场景（Applications）** | 头脑风暴与构想生成（Ideation） | 20 | 29.85% | 论文开题、创意设计与开放性问题解决中的构想发散。 |
-> | | 形成性反馈与反思（Reflection） | 19 | 28.36% | 作为反思伙伴提供即时修改意见、评价与推导质疑。 |
-> | | 学术写作与修辞支持（Writing） | 12 | 17.91% | 克服语言壁垒、篇章结构搭建与语法修辞润色。 |
-> | | 翻转课堂与混合教学（Flipped / Blended） | 8 | 11.94% | 课前人机探究与课上深度研讨互动的流程重构。 |
-> | | [[Computational Thinking\|计算思维]]与复杂问题解决 | 5 | 7.46% | 代码辅助编写、算法逻辑排错与系统推演。 |
-> | | 其他教学场景 | 3 | 4.48% | [[Role-playing\|角色扮演]]模拟、专业情境决策与跨领域综合任务。 |
-> | **思维评测策略（CCT Assessment）** | 直接测验（客观任务 / 量规评分） | 27 | 40.30% | 采用标准化测验（[[Torrance Tests of Creative Thinking\|TTCT]]/AUT）或专家量规客观打分。 |
-> | | 间接测验（自陈问卷 / 质性反思） | 21 | 31.34% | 采用李克特自陈量表调查或反思日志质性编码。 |
-> | | 混合评价（多源互证设计） | 19 | 28.36% | 结合客观任务产出与主观反思问卷进行[[Triangulation\|三角互证]]。 |
+> | <small>**研究聚焦（Study Focus）**</small> | <small>仅考察批判性思维（CT only）</small> | <small>23</small> | <small>34.33%</small> | <small>侧重收敛性论证建构、事实核查与[[Metacognition\|元认知]]监控。</small> |
+> | | <small>仅考察创造性思维（CrT only）</small> | <small>11</small> | <small>16.42%</small> | <small>侧重发散构想生成、修辞表达与设计创意探索。</small> |
+> | | <small>同时考察批判与创造（Both CT & CrT）</small> | <small>33</small> | <small>49.25%</small> | <small>近半数研究关注两类高阶思维在人机协同中的共现与交互。</small> |
+> | <small>**研究设计（Study Design）**</small> | <small>量化实证研究（Quantitative）</small> | <small>26</small> | <small>38.81%</small> | <small>采用[[Quasi-Experimental Designs\|准实验设计]]、[[Questionnaire\|问卷调查]]与客观评分量规测验。</small> |
+> | | <small>质性实证研究（Qualitative）</small> | <small>20</small> | <small>29.85%</small> | <small>采用[[In-depth Interview\|深度访谈]]、反思日志分析与交互语料文本解构。</small> |
+> | | <small>[[Mixed Methods Research\|混合方法研究]]（Mixed Methods）</small> | <small>21</small> | <small>31.34%</small> | <small>整合量化因果效应检验与质性深层认知机制挖掘。</small> |
+> | <small>**学科领域（Disciplinary Focus）**</small> | <small>STEM 科学技术工程数学</small> | <small>24</small> | <small>35.82%</small> | <small>涵盖编程排错、系统工程设计与复杂科学探究。</small> |
+> | | <small>[[General Education\|通识教育]]与教师教育</small> | <small>21</small> | <small>31.34%</small> | <small>聚焦师范生教学设计、批判性反思与通识课程探究。</small> |
+> | | <small>语言与学术写作（Language & Writing）</small> | <small>18</small> | <small>26.87%</small> | <small>关注二语学术论文写作、修辞润色与体裁转写。</small> |
+> | | <small>跨学科与其他应用领域</small> | <small>4</small> | <small>5.97%</small> | <small>涉及商业企划模拟、临床决策与艺术创意设计。</small> |
+> | <small>**地理区域（Geographic Region）**</small> | <small>亚洲地区（Asia）</small> | <small>39</small> | <small>58.21%</small> | <small>呈现压倒性实证活力，主要分布在中国、印尼、韩国等。</small> |
+> | | <small>欧洲地区（Europe）</small> | <small>12</small> | <small>17.91%</small> | <small>侧重批判性反思培养、学术诚信与伦理合规规制。</small> |
+> | | <small>北美地区（North America）</small> | <small>7</small> | <small>10.45%</small> | <small>聚焦课程整合模型、设计思维与认知负荷干预。</small> |
+> | | <small>大洋洲地区（Oceania）</small> | <small>3</small> | <small>4.48%</small> | <small>澳大利亚等高校的高阶写作与思维教学实践。</small> |
+> | | <small>非洲地区（Africa）</small> | <small>3</small> | <small>4.48%</small> | <small>全球南方及边缘地区的实证证据目前严重匮乏。</small> |
+> | <small>**发表年份（Publication Year）**</small> | <small>2023 年</small> | <small>7</small> | <small>10.45%</small> | <small>早期探索性试点与经验反思居多。</small> |
+> | | <small>2024 年</small> | <small>39</small> | <small>58.21%</small> | <small>实证文献爆发式增长，全面覆盖多学科课堂实验。</small> |
+> | | <small>2025 年（截至 4 月）</small> | <small>21</small> | <small>31.34%</small> | <small>仅前 4 个月即达 21 篇，研究向深层机制与教学重塑深化。</small> |
+> | <small>**核心刊物（Common Journals）**</small> | <small>Education and Information Technologies</small> | <small>4</small> | <small>5.97%</small> | <small>4 篇，关注教育技术在高校的实际整合效果。</small> |
+> | | <small>Frontiers in Education</small> | <small>3</small> | <small>4.48%</small> | <small>3 篇，聚焦高等教育创新与教学法改革。</small> |
+> | | <small>JITE: Research</small> | <small>3</small> | <small>4.48%</small> | <small>3 篇，侧重信息技术教育与实证评价。</small> |
+> | | <small>Computers & Education</small> | <small>3</small> | <small>4.48%</small> | <small>3 篇，教育技术学领域顶级头部期刊。</small> |
+> | | <small>其他期刊（$k \le 2$）</small> | <small>54</small> | <small>80.60%</small> | <small>分布呈现显著长尾效应，广泛分散于不同专业期刊。</small> |
+> | <small>**参与对象（Participant Levels）**</small> | <small>本科生（Undergraduate students）</small> | <small>45</small> | <small>67.16%</small> | <small>本科生为最主要的实证研究被试群体。</small> |
+> | | <small>研究生（Graduate students）</small> | <small>43</small> | <small>64.18%</small> | <small>硕士与博士研究生（部分研究跨学段采样，比例不互斥）。</small> |
+> | | <small>高校教师与导师（Faculty）</small> | <small>11</small> | <small>16.42%</small> | <small>教师视角研究相对较少，多结合课堂教学观察。</small> |
+> | <small>**教学应用场景（Applications）**</small> | <small>头脑风暴与构想生成（Ideation）</small> | <small>20</small> | <small>29.85%</small> | <small>论文开题、创意设计与开放性问题解决中的构想发散。</small> |
+> | | <small>形成性反馈与反思（Reflection）</small> | <small>19</small> | <small>28.36%</small> | <small>作为反思伙伴提供即时修改意见、评价与推导质疑。</small> |
+> | | <small>学术写作与修辞支持（Writing）</small> | <small>12</small> | <small>17.91%</small> | <small>克服语言壁垒、篇章结构搭建与语法修辞润色。</small> |
+> | | <small>翻转课堂与混合教学（Flipped / Blended）</small> | <small>8</small> | <small>11.94%</small> | <small>课前人机探究与课上深度研讨互动的流程重构。</small> |
+> | | <small>[[Computational Thinking\|计算思维]]与复杂问题解决</small> | <small>5</small> | <small>7.46%</small> | <small>代码辅助编写、算法逻辑排错与系统推演。</small> |
+> | | <small>其他教学场景</small> | <small>3</small> | <small>4.48%</small> | <small>[[Role-playing\|角色扮演]]模拟、专业情境决策与跨领域综合任务。</small> |
+> | <small>**思维评测策略（CCT Assessment）**</small> | <small>直接测验（客观任务 / 量规评分）</small> | <small>27</small> | <small>40.30%</small> | <small>采用标准化测验（[[Torrance Tests of Creative Thinking\|TTCT]]/AUT）或专家量规客观打分。</small> |
+> | | <small>间接测验（自陈问卷 / 质性反思）</small> | <small>21</small> | <small>31.34%</small> | <small>采用李克特自陈量表调查或反思日志质性编码。</small> |
+> | | <small>混合评价（多源互证设计）</small> | <small>19</small> | <small>28.36%</small> | <small>结合客观任务产出与主观反思问卷进行[[Triangulation\|三角互证]]。</small> |
 
 > [!example]- 图1：PRISMA 文献筛选流程图
 > ![](https://img.mylikemie.icu/sources/Li_2026_CEAI/figures/Li_2026_CEAI_Fig1_PRISMA_Flow_Diagram.jpg)
