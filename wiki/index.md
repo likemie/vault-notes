@@ -2795,7 +2795,7 @@ Total entries: **2164**
 > - [[Argument_Ball_2008_SR]] — 以Bernstein、Foucault和Bourdieu为工具重写英国教育社会学史，说明教育社会学如何通过不同研究目光把家庭、学校知识和学校管理转化为治理对象
 
 > [!index-list]- Thinking Skills and Creativity (2)
-> - [[Argument_Guo_2025_TSC]] — 基于 2000–2024 年 29 项实证研究与 109 个效应量的多层元分析，揭示创造力干预对大学生产生中等促进效应并呈现倒U型时间调节特征。
+> - [[Argument_Guo_2025_TSC]] — 基于 2000–2024 年 29 项实证研究与 109 个效应量的多层元分析，系统拆解创造力干预对大学生的中等促进效能、多维构念响应差异与倒U型时间调节机制。
 > - [[Argument_Park_2026_TSC]] — 基于29项研究51个效应量的三水平元分析，估计学生样本中创造力与批判性思维的整体相关为中等正相关（r=0.386），并发现测量类型显著调节相关大小，双主观测量组合相关最高
 
 > [!index-list]- Zeitschrift für Erziehungswissenschaft (1)

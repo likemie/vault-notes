@@ -11,10 +11,10 @@ aliases:
 summary: "个体或群体产生新颖且适切的想法、产品或解决方案的心理能力与综合表现，在教育研究中兼具预测变量与发展结果的双重属性"
 type: concept
 domain: "educational-psychology"
-related_count: 47
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 50
+related_level: 5
+related_stars: "⭐⭐⭐⭐⭐"
+related_color: "#fecdd3"
 tags:
   - theme/creativity
   - construct/cognitive-ability
@@ -49,12 +49,14 @@ related_concepts:
   - "[[Jigsaw]]"
   - "[[Common Method Variance]]"
   - "[[Cooperative Integrated Reading and Composition]]"
+  - "[[Creativity Training]]"
   - "[[Critical Thinking Assessment]]"
   - "[[Formative Assessment]]"
 related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
   - "[[Systematic Review]]"
+  - "[[Three-Level Meta-Analysis]]"
 related_instruments:
   - "[[Alternate Uses Test]]"
   - "[[Torrance Tests of Creative Thinking]]"
@@ -67,6 +69,7 @@ related_arguments:
   - "[[Argument_Gungor_2026_CP]]"
   - "[[Argument_Li_2026_CEAI]]"
   - "[[Argument_Park_2026_TSC]]"
+  - "[[Argument_Guo_2025_TSC]]"
   - "[[Argument_Bouckaert_2023_OECD]]"
 related_theories:
   - "[[Creative Problem Solving]]"
@@ -286,7 +289,7 @@ updated: 2026-09-02
 
 > [!evidence-grid-a] 相关研究索引
 > - **[[Meta-meta-analysis|二阶元分析]]基准与[[Variable|变量]]角色** [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] 开展创造力领域的[[Meta-meta-analysis|二阶元分析]]，系统整合 52 项一阶[[Meta-analysis|元分析]]，量化确立了创造力作为[[Independent Variable|预测变量]]（$r = 0.29$）与[[Dependent Variable|结果变量]]（$r = 0.12$）的基准效应，并证明教育干预（$r = 0.20$）对创造力的显著促进效能。
-> - **大学生创造力训练干预元分析** [[Argument_Guo_2025_TSC|Guo et al. (2025)]] 对 2000–2024 年间 29 项实证研究（109 个效应量）开展多层元分析，证实训练项目对大学生各子维度创造力（创造性思维、图形、词汇、言语、问题解决）产生中等显著促进（$g = 0.628$），并揭示干预周期存在倒 U 型时间调节效应（$< 2$ 个月效果最佳）。
+> - **大学生[[Creativity Training|创造力训练]]干预元分析** [[Argument_Guo_2025_TSC|Guo et al. (2025)]] 对 2000–2024 年间 29 项实证研究（109 个[[Effect Size|效应量]]）开展[[Three-Level Meta-Analysis|多层元分析]]，证实训练项目对大学生各子维度创造力（创造性思维、图形、词汇、言语、问题解决）产生中等显著促进（$g = 0.628$），并揭示干预周期存在倒 U 型时间[[Interaction Effect|调节效应]]（$< 2$ 个月效果最佳）。
 > - **[[Cooperative Learning|合作学习]]对创造性思维赋能** [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] 开展[[Cooperative Learning|合作学习]]对多维学习产出的二阶元分析，实证确立了合作学习对创造性思维等[[Higher-Order Thinking Skills|高阶认知技能]]的赋能效应达到 $ES = 0.76$，证实小群体互动与认知冲突对[[Creative Problem Solving|创造性问题解决]]的促进价值。
 > - **创造力与[[Critical Thinking|批判性思维]]相关元分析** [[Argument_Park_2026_TSC|Park et al. (2026)]] 开展学生样本中创造力与[[Critical Thinking|批判性思维]]相关的一阶元分析，综合 29 项研究 51 个[[Effect Size|效应量]]，确立两者中等正相关（$r = 0.386$），并证实测量类型显著调节相关大小，双主观组合相关最高（$r = 0.509$），提示自陈测量中的[[Common Method Variance|共同方法变异]]放大了观察相关。
 > - **高等教育政策与量规评价实践** [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] [[Systematic Review|系统综述]] [[OECD]] 国家高等教育中创造力与[[Critical Thinking Assessment|批判性思维评价]]的政策与实践，详析创造力在高校微观考核中的显性标准匮乏现状与真实性量规的破局路径。

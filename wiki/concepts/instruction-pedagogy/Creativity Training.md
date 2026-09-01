@@ -11,7 +11,7 @@ aliases:
 summary: "通过显性认知策略、启发式重构工具、建构主义探究环境与情境指导语，系统识别、激发与提升个体与群体创造潜能的教育教学干预方案。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 41
+related_count: 45
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Problem-Based Learning]]"
   - "[[Mind Mapping]]"
   - "[[Concept Mapping]]"
+  - "[[Generative Artificial Intelligence]]"
   - "[[Problem Finding]]"
   - "[[Metacognition]]"
   - "[[Hypothesis]]"
@@ -46,6 +47,7 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Heterogeneity]]"
   - "[[Publication Bias]]"
+  - "[[Funnel Plot]]"
   - "[[Homework]]"
   - "[[Higher-Order Thinking Skills]]"
 related_theories:
@@ -58,8 +60,9 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Intervention Research]]"
   - "[[Second-Order Meta-Regression]]"
-  - "[[Fail-Safe N]]"
   - "[[Meta-regression]]"
+  - "[[Fail-Safe N]]"
+  - "[[Three-Level Meta-Analysis]]"
 related_instruments:
   - "[[Torrance Tests of Creative Thinking]]"
   - "[[AMSTAR]]"
@@ -67,6 +70,7 @@ related_persons:
   - "[[Mark A. Runco]]"
 related_arguments:
   - "[[Argument_Runco_2026_CRJ]]"
+  - "[[Argument_Guo_2025_TSC]]"
 confidence: high
 status: draft
 created: 2026-08-24
@@ -356,7 +360,7 @@ updated: 2026-09-02
 > | 元分析 | 调节变量 | 分析方式 | 效应较大的条件或方向 | 条件效应或 β | 交互或回归检验 | 是否预设 | 解释边界 |
 > |---|---|---|---|---|---|---|---|
 > | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 相关因素类型（干预 vs 认知 vs 外认知 vs 人口学） | [[Second-Order Meta-Regression\|二阶元回归]] | 教育干预效应最大（$r = 0.20$），显著超越认知（$r = 0.12$）与人格（$r = 0.14$） | $r = 0.20$ $[0.10, 0.29]$ (干预) | $F(4, 15.6) = 0.95, p = .46$ | 预设 | 干预在宏观层面具备高度一致性 |
-> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 训练周期、学段、组织形式与训练方式 | 亚组分析与元回归 | 周期呈现倒U型（$< 2$ 个月最高 $g = 0.844$；解释 13.4% 组间方差）；言语训练最高（$g = 0.998$）；个人训练（$g = 0.682$）优于小组（$g = 0.567$） | 言语 $g = 0.998$；思维 $g = 0.762$；任务 $g = 0.685$；技术 $g = 0.552$；综合 $g = 0.513$；情绪 $g = -0.066$ | 周期元回归 $\Delta\tau = 0.074$ | 预设 | 训练时间过长（$> 1$ 年）效应明显减退，存在过度耗损或边际递减效应 |
+> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 训练周期、学段、组织形式与训练方式 | 亚组分析与[[Meta-regression\|元回归]] | 周期呈现倒U型（$< 2$ 个月最高 $g = 0.844$；解释 13.4% 组间方差）；言语训练最高（$g = 0.998$）；个人训练（$g = 0.682$）优于小组（$g = 0.567$） | 言语 $g = 0.998$；思维 $g = 0.762$；任务 $g = 0.685$；技术 $g = 0.552$；综合 $g = 0.513$；情绪 $g = -0.066$ | 周期元回归 $\Delta\tau = 0.074$ | 预设 | 训练时间过长（$> 1$ 年）效应明显减退，存在过度耗损或边际递减效应 |
 > | Scott et al. (2004) | 训练方案内容构成 | 亚组分析 | 包含显性启发式认知策略与问题解决模型的方案效果最佳 | 认知策略 $d = 0.84$ vs 自由表达 $d = 0.35$ | $p < .01$ | 预设 | 结构化教学优于放任型活动 |
 > | Sio & Ormerod (2009) | 酝酿期间的认知任务负荷 | 亚组分析 | 插入低认知负荷的无关任务对顿悟促进最大 | 低负荷 $d = 0.43$ vs 高负荷 $d = 0.15$ | $p < .05$ | 预设 | 极端高负荷会阻碍无意识加工 |
 
@@ -366,7 +370,7 @@ updated: 2026-09-02
 > | 元分析 | 敏感性分析 | [[Publication Bias\|发表偏倚]]方法 | 校正后效应 | 结论是否改变 | 风险说明 |
 > |---|---|---|---|---|---|
 > | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 排除低方法学质量元分析（[[AMSTAR]] < 0.75）与重分类发散思维 | 多水平改进艾格回归（Multilevel Egger's Test） | 偏倚校正后全域效应 $r = 0.17$ $[0.11, 0.22]$ | 核心结论未变，干预与创造力关联最强保持稳健 | 存在小研究效应，但校正后宏观效应量依然高度稳健 |
-> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 效应量漏斗图目视检验与分布形态诊断 | 漏斗图分析（109 个效应量） | — | 结论保持稳健 | 多数效应量集中于漏斗图顶部均值附近，对称性良好，发表偏倚风险极低 |
+> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | [[Effect Size\|效应量]][[Funnel Plot\|漏斗图]]目视检验与分布形态诊断 | 漏斗图分析（109 个效应量） | — | 结论保持稳健 | 多数效应量集中于漏斗图顶部均值附近，对称性良好，发表偏倚风险极低 |
 > | Scott et al. (2004) | 排除未发表学位论文与不同实验设计质量敏感性检验 | 漏斗图分析与失效安全数（[[Fail-Safe N]]） | 校正后仍维持大效应促进（$d > 0.65$） | 结论未变 | 早期实证研究存在一定程度发表偏倚，但不影响认知训练核心效能 |
 
 ---
@@ -385,7 +389,7 @@ updated: 2026-09-02
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] — 开展[[Creativity|创造力]]领域[[Meta-meta-analysis|二阶元分析]]，系统整合 52 项一阶[[Meta-analysis|元分析]]与 124 万人样本，实证确立教育教学干预在所有外部影响因素中具备最高[[Effect Size|效应量]]（$r = 0.20$）。
-> - [[Argument_Guo_2025_TSC|Guo et al. (2025)]] — 对 2000–2024 年 29 项实证研究（109 个效应量）开展多层元分析，揭示创造力训练对大学生创造力产生中等显著促进（$g = 0.628$），并发现干预周期呈现倒 U 型特征（$< 2$ 个月最优 $g = 0.844$），言语训练与思维训练效果最为显著。
+> - [[Argument_Guo_2025_TSC|Guo et al. (2025)]] — 对 2000–2024 年 29 项实证研究（109 个效应量）开展[[Three-Level Meta-Analysis|多层元分析]]，揭示创造力训练对大学生创造力产生中等显著促进（$g = 0.628$），并发现干预周期呈现倒 U 型特征（$< 2$ 个月最优 $g = 0.844$），言语训练与思维训练效果最为显著。
 > - Scott et al. (2004) — 对 70 项创造力训练实验进行系统元分析，确立了基于认知策略的结构化训练具备大效应量促进效能（$d = 0.74$）。
 > - Ma (2006) — 开展创造力训练方案元分析，证实结合认知策略与多阶段训练的复合包效应达到 $d = 0.77$。
 > - Yunita et al. (2020) — 开展问题驱动教学法（[[Problem-Based Learning|PBL]]）元分析，证实不良结构问题情境对学生创造性思维具有大效应提升（$g = 0.87$）。
