@@ -11,7 +11,7 @@ aliases:
 summary: "个体或群体在特定情境中综合调动认知、情绪与环境资源生成新颖且适切成果的心理能力与综合表现，在教育研究中兼具预测变量与发展结果的双重属性"
 type: concept
 domain: "educational-psychology"
-related_count: 49
+related_count: 48
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -147,7 +147,7 @@ updated: 2026-09-03
 > [!concept-lens] [[Variable|变量]]角色与因果联结的不对称性
 > 考察创造力作为[[Independent Variable|自变量]]（预测外部成果）与作为[[Dependent Variable|因变量]]（受外部因素预测）时[[Effect Size|效应量]]级的系统性分化。
 
-> [!claim] Runco et al. (2026)
+> [!claim] Runco et al.
 > **创造力作为预测变量的强效性** 在涵盖 52 项一阶[[Meta-analysis|元分析]]的大规模[[Meta-meta-analysis|二阶元分析]]中，创造力作为预测变量（如预测[[Academic Achievement|学业成就]]、职业创新与身心健康）的合并效应量达到 $r = 0.29$（95% [[Confidence Interval|置信区间]] $[0.18, 0.41]$），显著强于外部认知、人格与环境因素对创造力的预测效应（$r = 0.12, 95\%\text{ CI } [0.05, 0.19], F = 9.43, p = .007$）。这表明创造力具有强大的跨情境行为驱动潜能，是个体终身发展的核心促成性资源。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 6–8)]]
 
 ---
@@ -157,13 +157,13 @@ updated: 2026-09-03
 > [!concept-lens] 教学干预、社会建构与时间窗口调节
 > 聚焦专门的[[Creativity Training|创造力训练]]课程、[[Cooperative Learning|合作学习]]策略及实施周期对创造力各[[Construct|构念]]维度的塑造效能。
 
-> [!claim] Scott et al. (2004); Runco et al. (2026)
+> [!claim] Scott et al.; Runco et al.
 > **专门教育训练对创造力的基准促进效能** 专门的教育干预（如[[Creative Problem Solving|创造性问题解决]] CPS 课程、启发式策略训练）在所有关联因素中展现出最高的促进效应（二阶效应 $r = 0.20, 95\%\text{ CI } [0.10, 0.29]$），证实创造力具有明确的教育可塑性。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, p. 7)]]
 
-> [!claim] [[Argument_Gungor_2026_CP|Güngör et al. (2026)]]
+> [!claim] Güngör et al.
 > **[[Cooperative Learning|合作学习]]对创造性思维与高阶认知的优先赋能** 二阶元分析汇总 15 项一阶元分析，发现[[Cooperative Learning|合作学习]]对涵盖创造性思维与[[Critical Thinking|批判性思维]]的[[Higher-Order Thinking Skills|高阶思维技能]]（HOTS）产生了 $ES = 0.76$（95% 置信区间 $[0.42, 1.11]$）的强促进效应，高于常规学业成就（$ES = 0.71$）。[[Heterogeneity|异质性]]小组成员的多视角碰撞能有效打破思维定势并激发原创构想。[[Argument_Gungor_2026_CP|(Güngör et al., 2026, pp. 8–9)]]
 
-> [!claim] [[Argument_Guo_2025_TSC|Guo et al. (2025)]]
+> [!claim] Guo et al.
 > **高等教育创造力干预的多维可塑性与时间窗口** 针对 2000–2024 年 29 项高校实验与准实验（109 个效应量）的[[Three-Level Meta-Analysis|多层元分析]]证实，创造力训练对大学生产生中等显著促进（$g = 0.628$），打破了成年期创造力固化的消极假说。其中，创造性思维（$g = 0.671$）与图形创造力（$g = 0.644$）增益最强；干预周期呈现倒 U 型非线性特征，$< 2$ 个月（$g = 0.844$）为最优干预窗口（解释 13.4% 组间方差），超长周期因动机疲劳与认知饱和出现边际递减；言语训练（$g = 0.998$）与独立沉思模式（$g = 0.682$）效能最高。[[Argument_Guo_2025_TSC|(Guo et al., 2025, pp. 6–9)]]
 
 ---
@@ -173,7 +173,7 @@ updated: 2026-09-03
 > [!concept-lens] 人机协同中的发散生成与独创性侵蚀张力
 > 考察[[Generative Artificial Intelligence|生成式 AI]] 在头脑风暴与开放探究中如何打破认知定势，以及非结构化依赖如何抑制深层创意的诞生。
 
-> [!claim] [[Argument_Li_2026_CEAI|Li et al. (2026)]]
+> [!claim] Li et al.
 > **ChatGPT 对创造性思维的赋能维度与局限机制** 对 67 项高等教育实证研究的[[Systematic Review|系统综述]]表明，ChatGPT 作为发散性认知中介展现出强大的创意激发潜能：31 项研究证实其能有效拓展构想空间并打破头脑风暴僵局，24 项证实其能提供多模态结构支架，18 项证实其能促进跨学科视角转换。然而，在缺乏[[Reflexivity|反思性]]规制的自由使用中，模型基于统计概率生成的输出极易导致文风均质化（19 项）、探索停滞与过早收敛（15 项）以及个体独特学术声音的湮没（13 项）。唯有将 AI 定位于启发式初稿探索，并强制要求学生进行批判性改写与个体化经验注入，才能实现真正的高质量创造。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 7–8, 11)]]
 
 > [!claim] Urban et al.; Monib et al.

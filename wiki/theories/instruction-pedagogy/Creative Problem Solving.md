@@ -8,7 +8,7 @@ aliases:
 summary: "由奥斯本与帕内斯创立的经典结构化认知干预模型，通过理解挑战、生成观念与准备行动三大阶段六大循环，交替实施发散与收敛思维以系统解决不良结构问题。"
 type: theory
 theory_field: "instruction-pedagogy"
-theory_related_count: 19
+theory_related_count: 23
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -97,7 +97,7 @@ updated: 2026-09-03
 >   > [!evidence-grid]- 证据
 >   > - **证据一** Scott et al. (2004) [[Meta-analysis|元分析]]（$k = 70$）显示 CPS 对问题解决表现的促进效应达到 **$d = 0.84$**，对观念生成达到 **$d = 0.75$**。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, p. 7)]]
 >   > - **证据二** Ma (2006) 元分析证实基于 CPS 的复合干预程序平均[[Effect Size|效应量]]达 **$d = 0.77$**。
->   > - **证据三** Guo et al. (2025) [[Three-Level Meta-Analysis|多层元分析]]（29 项高校实证，109 个效应量）证实[[Creativity Training|创造力干预]]对问题解决维度产生了 **$g = 0.539$**（95% CI $[0.316, 0.762], p < .001$）的稳健中等增益，技术型干预达 **$g = 0.552$**。[[Argument_Guo_2025_TSC|(Guo et al., 2025, pp. 6–7)]]
+>   > - **证据三** 高校创造力干预[[Three-Level Meta-Analysis|多层元分析]]（29 项实证研究，109 个效应量）证实[[Creativity Training|创造力干预]]对问题解决维度产生了 **$g = 0.539$**（95% CI $[0.316, 0.762], p < .001$）的稳健中等增益，技术型干预达 **$g = 0.552$**。[[Argument_Guo_2025_TSC|(Guo et al., 2025, pp. 6–7)]]
 > - **推导** ① 惯性思维阻碍创新 $\to$ ② CPS 启发式算子打破定势 $\to$ ③ 复杂问题解决成绩显著跃升。
 
 > [!proposition-chain] 核心命题二｜发散生成与收敛评价的交替分离是实现高新颖度与高适切性平衡的核心机制
