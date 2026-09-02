@@ -37,8 +37,8 @@ related_concepts:
   - "[[Sampling Error]]"
   - "[[Hypothesis]]"
   - "[[Confidence Interval]]"
-  - "[[Heterogeneity]]"
   - "[[Sample Size Determination]]"
+  - "[[Heterogeneity]]"
   - "[[External Validity]]"
   - "[[Hawthorne Effect]]"
   - "[[Between-Study Variance]]"
@@ -62,8 +62,8 @@ related_methods:
   - "[[Meta-regression]]"
   - "[[PRISMA]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
-  - "[[Quasi-Experimental Designs]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Random Assignment]]"
 related_instruments:
   - "[[Torrance Tests of Creative Thinking]]"
   - "[[Remote Associates Test]]"
@@ -161,16 +161,20 @@ issuing_organization: ""
 > | **地理与国别分布** | 涵盖美国（8项）、中国（含台湾地区，4项）、英国（2项）、德国（2项）、加拿大（2项）、法国（2项）、希腊（2项）、奥地利、土耳其、丹麦、荷兰、约旦、波兰、阿联酋等。（pp.10–11） |
 > | **对照组类型分布** | 对照组设计分为五类：a = 无训练（3项）；b = 接受不同类型的替代训练（20项）；c = 等待名单/[[Pre-test and Post-test\|后测]]后补训（4项）；d = 情商训练对照（1项）；e = 神经[[Creativity\|创造力]]对照（1项）。 |
 
-> [!design-notation] 纳入研究的实验与[[Quasi-Experimental Designs|准实验设计]]记号
-> 纳入的 29 项实证研究主要涵盖[[Randomised Controlled Trials|随机对照实验]]设计（RCT）与准实验前后测非等价对照组设计（pp.4–5, 10–11）：
+> [!design-notation] [[Randomised Controlled Trials|随机对照实验]]设计（RCT，代表研究如 Fink et al., 2015）
+> 参与者[[Random Assignment|随机分配]]（*R*）至实验组与对照组，两组均完成前测（==O₁==、==O₃==）与后测（==O₂==、==O₄==），仅实验组接受[[Creativity Training|创造力干预]]（`X`），对照组接受常规或替代活动（~~·~~）（pp.4–5, 10–11）：
 >
-> - **随机对照双组设计（RCT）** *R* ==O₁== `X` ==O₂==
-> - **随机对照组（替代干预/无干预）** *R* ==O₃== `X_ctrl` ==O₄==
+> - **实验组** *R* ==O₁== `X` ==O₂==
+> - **对照组** *R* ==O₃== ~~·~~ ==O₄==
+
+> [!design-notation] 准实验前后测非等价对照组设计（代表研究如 Morin et al., 2018）
+> 基于大学自然教学班非随机分配（*NR*），两组完成相同前后测，中间虚线表示两组基线未经随机化等价（pp.4–5, 10–11）：
+>
+> - **实验班** *NR* ==O₁== `X` ==O₂==
 >
 > ---
 >
-> - **准实验前后测非等价设计** *NR* ==O₁== `X` ==O₂==
-> - **准实验等待对照组** *NR* ==O₃== ~~·~~ ==O₄==
+> - **对照班** *NR* ==O₃== ~~·~~ ==O₄==
 
 > [!formula-step] 公式步骤　多层随机效应模型与方差分解
 > $$y_{ij} = \mu + \zeta_{(3)j} + \zeta_{(2)ij} + \epsilon_{ij}$$
@@ -187,37 +191,14 @@ issuing_organization: ""
 > [!ref-table]- 纳入元分析的 29 项实证研究特征全景表（Table 4 复刻）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究文献 | 国别 | 测量工具 | 设计 | 样本 (EG/CG) | 对照活动 | 周期 | 形式 | 训练类型 |
-> |---|---|---|---|---|---|---|---|---|
-> | Baruah & Paulus (2008) | 美国 | OSVM | EG/CG | 11 / 11 | a（无训练） | < 1 周 | Group | Combined |
-> | Campion & Levita (2014) | 英国 | SEES, [[Torrance Tests of Creative Thinking\|TTCT]] | EG/CG | 56 / 56 | b（替代训练） | < 2 个月 | Alone | Verbal |
-> | Chiu (2015) | 中国台湾 | OTT | EG/CG | 39 / 39 | b（替代训练） | < 1 周 | Alone | Combined |
-> | Fink et al. (2015) | 奥地利 | [[Alternate Uses Test\|AUT]] | EG/CG | 24 / 29 | b（替代训练） | < 2 个月 | Group | Verbal |
-> | Hargrove & Nietfeld (2015) | 美国 | [[Remote Associates Test\|RAT]], MAI | Pre/Post | 118 / 88 | b（替代训练） | < 4 个月 | Alone | Thinking |
-> | Karakelle (2009) | 土耳其 | OSVM | Pre/Post | 15 / 15 | c（后测补训） | < 4 个月 | Alone | Combined |
-> | Kienitz et al. (2014) | 美国 | TTCT-F, NEO-FFI | EG/CG | 15 / 13 | b（替代训练） | < 2 个月 | Alone | Verbal |
-> | Lewis & Lovatt (2013) | 英国 | AUT | EG/CG | 21 / 20 | b（替代训练） | < 1 周 | Group | Verbal |
-> | Malycha & Maier (2017) | 德国 | SEES, TTCT | EG/CG | 80 / 80 | c（后测补训） | < 1 个月 | Group | Technique |
-> | Meinel et al. (2019) | 德国 | ATTA | EG/CG | 59 / 59 | b（替代训练） | < 2 个月 | Group | Thinking |
-> | Morin et al. (2018) | 加拿大 | CEDA | Pre/Post | 59 / 59 | c（后测补训） | > 1 年 | Alone | Technique |
-> | O'Connor et al. (2016) | 澳大利亚 | WRT | Pre/Post | 62 / 62 | d（情商训练） | < 1 周 | Alone | Combined |
-> | Onarheim & Friis-Olivarius (2013) | 丹麦/加拿大 | AUT | EG/CG | 50 / 50 | b（替代训练） | < 2 个月 | Group | Thinking |
-> | Oppezzo & Schwartz (2014) | 美国 | AUT | EG/CG | 48 / 48 | b（替代训练） | < 1 周 | Alone | Combined |
-> | Ritter & Mostert (2017) | 荷兰 | AUT, RAT | Pre/Post | 31 / 31 | b（替代训练） | < 1 周 | Group | Technique |
-> | Wang & Horng (2002) | 中国台湾 | TTCT | EG/CG, Pre/Post | 21 / 18 | b（替代训练） | < 1 年 | Group | Thinking |
-> | West et al. (2012) | 美国 | TTCT | EG/CG, Pre/Post | 93 / 93 | b（替代训练） | < 1 年 | Group | Combined |
-> | Zitek & Vincent (2015) | 美国 | RAT | EG/CG | 97 / 97 | b（替代训练） | < 1 个月 | Group | Combined |
-> | Zampetakis et al. (2008) | 希腊 | OSVM | EG/CG | 52 / 42 | b（替代训练） | < 4 个月 | Alone | Combined |
-> | Lubart (2014) | 法国 | EPOC | EG/CG | 63 / 63 | b（替代训练） | < 1 周 | Group | Combined |
-> | Gu et al. (2023) | 中国 | AUT | EG/CG, Pre/Post | 41 / 39 | b（替代训练） | < 4 个月 | Group | Combined |
-> | Mahasneh & Gazo (2019) | 约旦 | ECI | EG/CG | 35 / 32 | b（替代训练） | < 1 周 | Alone | Emotional |
-> | Puccio et al. (2020) | 加拿大 | TTCT | EG/CG | 11 / 10 | b（替代训练） | < 3 年 | Group | Technique |
-> | Fleury et al. (2020) | 法国 | GAU, RAT | EG/CG | 16 / 16 | c（后测补训） | < 1 周 | Alone | Technique |
-> | Dow & Mayer (2004) | 美国 | OSVM | EG/CG | 11 / 11 | b（替代训练） | < 1 个月 | Group | Combined |
-> | Karwowski & Soszynski (2008) | 波兰 | TCI, TCT-DP | EG/CG, Pre/Post | 总数 15 | b（替代训练） | < 2 个月 | Alone | Combined |
-> | Robbins & Kegley (2010) | 美国 | TTCT | EG/CG, Pre/Post | 总数 51 | b（替代训练） | < 4 个月 | Alone | Thinking |
-> | Stolaki & Economides (2018) | 希腊 | TTCT | EG/CG, Pre/Post | 总数 81 | b（替代训练） | < 1 个月 | Group | Combined |
-> | Vally et al. (2019) | 阿联酋 | TTCT | EG/CG, Pre/Post | 总数 133 | e（神经训练） | < 4 个月 | Group | Task-based |
+> | 干预类型与效应量数 | 纳入实证研究（国别 · 样本量） | 测量工具、干预方案与对照设计 |
+> |---|---|---|
+> | **言语训练（Verbal Training, $N = 15$）** | Fink et al. (2015, 奥地利, $N=53$)；Campion & Levita (2014, 英国, $N=112$)；Kienitz et al. (2014, 美国, $N=28$)；Lewis & Lovatt (2013, 英国, $N=41$)。 | 测量工具包含 [[Alternate Uses Test\|AUT]]、[[Torrance Tests of Creative Thinking\|TTCT]]、SEES 与 NEO-FFI；以 $< 2$ 个月中短期干预为主（涵盖个人独立练习与小组协作），对照组均采用替代训练（b 类对照）。 |
+> | **思维训练（Thinking Training, $N = 13$）** | Meinel et al. (2019, 德国, $N=118$)；Hargrove & Nietfeld (2015, 美国, $N=206$)；Onarheim & Friis-Olivarius (2013, 丹麦/加拿大, $N=100$)；Wang & Horng (2002, 中国台湾, $N=39$)；Robbins & Kegley (2010, 美国, $N=51$)。 | 测量工具包含 ATTA、[[Remote Associates Test\|RAT]]、MAI、AUT 与 TTCT；聚焦侧向思维、头脑风暴与元认知监控，周期 $< 1$ 周至 $< 1$ 年；均采用替代训练对照（b 类对照）。 |
+> | **任务型训练（Task-based Training, $N = 5$）** | Vally et al. (2019, 阿联酋, $N=133$（实验 67 / 对照 66）)。 | 测量工具采用 TTCT；实施周期 $< 4$ 个月，采用小组协作组织形式与神经创造力对照设计（e 类对照）。 |
+> | **技术型训练（Technique-based Training, $N = 20$）** | Malycha & Maier (2017, 德国, $N=160$)；Morin et al. (2018, 加拿大, $N=118$)；Ritter & Mostert (2017, 荷兰, $N=62$)；Puccio et al. (2020, 加拿大, $N=21$)；Fleury et al. (2020, 法国, $N=32$)。 | 测量工具包含 CEDA、GAU、RAT、SEES 与 TTCT；显性讲授 SCAMPER、TRIZ 与形态分析法，覆盖短期工作坊至长程课程（$> 1$ 年），对照设计包含替代训练与后测补训。 |
+> | **综合训练（Combined Training, $N = 54$）** | Baruah & Paulus (2008, 美国, $N=22$)；Chiu (2015, 中国台湾, $N=78$)；Karakelle (2009, 土耳其, $N=30$)；O'Connor et al. (2016, 澳大利亚, $N=124$)；Oppezzo & Schwartz (2014, 美国, $N=96$)；West et al. (2012, 美国, $N=186$)；Zitek & Vincent (2015, 美国, $N=194$)；Zampetakis et al. (2008, 希腊, $N=94$)；Lubart (2014, 法国, $N=126$)；Gu et al. (2023, 中国, $N=80$)；Dow & Mayer (2004, 美国, $N=22$)；Karwowski & Soszynski (2008, 波兰, $N=15$)；Stolaki & Economides (2018, 希腊, $N=81$)。 | 测量工具包含 OSVM、OTT、WRT、AUT、RAT、EPOC、TCI 与 TCT-DP；融合漫步、数字化翻转与多模态协作，周期跨越 $< 1$ 周至 $< 1$ 年，对照设计主要为替代训练与无训练/补训。 |
+> | **情绪训练（Emotional Training, $N = 2$）** | Mahasneh & Gazo (2019, 约旦, $N=67$（实验 35 / 对照 32）)。 | 测量工具采用情绪创造力量表（ECI）；实施周期 $< 1$ 周，采用个人独立练习形式与替代训练对照（b 类对照）。 |
 >
 > **图表解读** 
 > 1. **样本与地理[[Heterogeneity|异质性]]** 纳入文献横跨北美、欧洲、东亚及中东 14 个国家/地区，[[Sample Size Determination|样本量]]从小型实验（$N = 22$）到中大型教学实验（$N = 206$），保障了跨文化情境的[[External Validity|外部效度]]。
@@ -254,14 +235,10 @@ issuing_organization: ""
 > [!ma-table]- 全域[[Effect Size|效应量]]与[[Heterogeneity|异质性]]检验表（Table 1 复刻）
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 模型设定 | 研究数 $k$ | 点估计 $g$ | 标准误 $SE$ | 方差 $V$ | 95% [[Confidence Interval\|置信区间]] | 检验统计量 $Z$ | 显著性 $P$ |
-> |---|---|---|---|---|---|---|---|
-> | **固定效应模型（Fixed）** | 29 | 0.572 | 0.034 | 0.001 | [0.504, 0.639] | 16.645 | < .001 |
-> | **随机效应模型（Random）** | 29 | 0.628 | 0.092 | 0.009 | [0.446, 0.809] | 6.788 | < .001 |
->
-> | 异质性指标 | $Q$ 统计量 | 自由度 $df$ | $P$ 值 | 异质性比例 $I^2$ | 研究间方差 $\tau^2$ | 真实标准差 $\tau$ |
+> | 模型设定与统计参数 | 研究数 $k$ | 效应量 Hedges' $g$ | 95% [[Confidence Interval\|置信区间]] | 标准误 $SE$ | 显著性检验 $Z\ (p)$ | 异质性检验与方差分解 |
 > |---|---|---|---|---|---|---|
-> | **统计数值** | 178.507 | 28 | < .001 | 84.314% | 0.189 | 0.435 |
+> | **固定效应模型（Fixed Effect）** | 29 | 0.572 | [0.504, 0.639] | 0.034 | $Z = 16.645\ (p < .001)$ | — |
+> | **随机效应模型（Random Effects）** | 29 | **0.628** | **[0.446, 0.809]** | 0.092 | **$Z = 6.788\ (p < .001)$** | $Q(28) = 178.507, p < .001$<br>$I^2 = 84.314\%, \tau^2 = 0.189, \tau = 0.435$ |
 >
 > **图表解读** 
 > 1. **总体效应量级** 随机效应模型点估计为 $g = 0.628$（95% CI $[0.446, 0.809]$），依据 Cohen 标准达到中等偏上效应，有力推翻了“成年期创造潜能固化不可塑”的[[Hypothesis|假设]]。
@@ -288,15 +265,15 @@ issuing_organization: ""
 > [!ma-table]- 不同创造力子维度的干预效应量分布（Table 2 复刻）
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 创造力构念维度 | 效应量数 $N$ | Hedges' $g$ | 标准误 $SE$ | 方差 $V$ | 95% 置信区间 | 统计量 $Z$ | 显著性 $P$ |
-> |---|---|---|---|---|---|---|---|
-> | **创造性思维（Creative thinking）** | 24 | **0.671** | 0.118 | 0.014 | [0.439, 0.903] | 5.675 | < .001 |
-> | **图形创造力（Graphic creativity）** | 27 | **0.644** | 0.105 | 0.011 | [0.439, 0.849] | 6.153 | < .001 |
-> | **词汇创造力（Words creativity）** | 16 | **0.641** | 0.154 | 0.024 | [0.339, 0.943] | 4.156 | < .001 |
-> | **言语创造力（Verbal creativity）** | 23 | **0.606** | 0.102 | 0.010 | [0.407, 0.805] | 5.966 | < .001 |
-> | **问题解决（Problem-solving）** | 10 | **0.539** | 0.114 | 0.013 | [0.316, 0.762] | 4.730 | < .001 |
-> | **情绪创造力（Emotional creativity）** | 9 | **0.397** | 0.097 | 0.009 | [0.208, 0.587] | 4.106 | < .001 |
-> | **全域总体效应（Total effect size）** | 109 | **0.569** | 0.045 | 0.002 | [0.480, 0.658] | 12.544 | < .001 |
+> | 创造力构念子维度 | 效应量数 $N$ | Hedges' $g$ | 95% [[Confidence Interval\|置信区间]] | 标准误 $SE$ | 显著性检验 $Z\ (p)$ |
+> |---|---|---|---|---|---|
+> | **创造性思维（Creative thinking）** | 24 | **0.671** | [0.439, 0.903] | 0.118 | $Z = 5.675\ (p < .001)$ |
+> | **图形创造力（Graphic creativity）** | 27 | **0.644** | [0.439, 0.849] | 0.105 | $Z = 6.153\ (p < .001)$ |
+> | **词汇创造力（Words creativity）** | 16 | **0.641** | [0.339, 0.943] | 0.154 | $Z = 4.156\ (p < .001)$ |
+> | **言语创造力（Verbal creativity）** | 23 | **0.606** | [0.407, 0.805] | 0.102 | $Z = 5.966\ (p < .001)$ |
+> | **问题解决（Problem-solving）** | 10 | **0.539** | [0.316, 0.762] | 0.114 | $Z = 4.730\ (p < .001)$ |
+> | **情绪创造力（Emotional creativity）** | 9 | **0.397** | [0.208, 0.587] | 0.097 | $Z = 4.106\ (p < .001)$ |
+> | **全域总体效应（Total effect size）** | 109 | **0.569** | [0.480, 0.658] | 0.045 | $Z = 12.544\ (p < .001)$ |
 >
 > **图表解读** 
 > 1. **认知发散与具象表达居首** 创造性思维（$g = 0.671$）与图形创造力（$g = 0.644$）效应量最为显著，表明发散探索与非言语视觉拓扑重组极易受到显式启发式策略的激活。
@@ -321,24 +298,24 @@ issuing_organization: ""
 > [!ma-table]- 调节[[Variable|变量]]亚组与[[Meta-regression|元回归分析]]表（Table 3 复刻）
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
 >
-> | 调节维度 | 亚组分类 | 效应量数 $N$ | Hedges' $g$ | 标准误 $SE$ | 95% 置信区间 | 统计量 $Z$ | 显著性 $P$ |
-> |---|---|---|---|---|---|---|---|
-> | **训练周期（Duration）** | < 1 周 | 37 | 0.576 | 0.078 | [0.424, 0.728] | 7.415 | < .001 |
-> | | **< 2 个月** | 30 | **0.844** | 0.101 | [0.647, 1.042] | 8.382 | < .001 |
-> | | < 4 个月 | 24 | 0.642 | 0.101 | [0.444, 0.840] | 6.356 | < .001 |
-> | | < 1 年 | 9 | 0.233 | 0.076 | [0.085, 0.381] | 3.083 | .002 |
-> | | < 2 年 | 4 | 0.418 | 0.092 | [0.237, 0.599] | 4.518 | < .001 |
-> | | < 3 年 | 5 | -0.122 | 0.190 | [-0.493, 0.250] | -0.641 | .522 |
-> | **学段层次（Academic Level）** | 本科生（Undergraduate） | 107 | 0.613 | 0.049 | [0.517, 0.709] | 12.502 | < .001 |
-> | | **研究生（Graduate）** | 2 | **0.991** | 0.267 | [0.468, 1.515] | 3.712 | < .001 |
-> | **组织形式（Activity Type）** | 小组协作（Group） | 61 | 0.567 | 0.054 | [0.462, 0.673] | 10.539 | < .001 |
-> | | **独立练习（Alone）** | 48 | **0.682** | 0.092 | [0.501, 0.863] | 7.375 | < .001 |
-> | **训练方式（Training Type）** | **言语训练（Verbal）** | 15 | **0.998** | 0.286 | [0.437, 1.560] | 3.485 | < .001 |
-> | | **思维训练（Thinking）** | 13 | **0.762** | 0.149 | [0.469, 1.055] | 5.102 | < .001 |
-> | | 任务型训练（Task-based） | 5 | 0.685 | 0.195 | [0.302, 1.068] | 3.503 | < .001 |
-> | | 技术型训练（Technique-based） | 20 | 0.552 | 0.121 | [0.314, 0.789] | 4.550 | < .001 |
-> | | 综合训练（Combined） | 54 | 0.513 | 0.053 | [0.410, 0.617] | 9.728 | < .001 |
-> | | 情绪训练（Emotional） | 2 | -0.066 | 0.171 | [-0.401, 0.269] | -0.384 | .701 |
+> | 调节维度 | 亚组分类 | 效应量数 $N$ | Hedges' $g$ | 95% [[Confidence Interval\|置信区间]] | 标准误 $SE$ | 显著性检验 $Z\ (p)$ |
+> |---|---|---|---|---|---|---|
+> | **训练周期（Duration）**<br>（解释 13.4% 组间方差） | < 1 周 | 37 | 0.576 | [0.424, 0.728] | 0.078 | $Z = 7.415\ (p < .001)$ |
+> | | **< 2 个月** | 30 | **0.844** | **[0.647, 1.042]** | 0.101 | **$Z = 8.382\ (p < .001)$** |
+> | | < 4 个月 | 24 | 0.642 | [0.444, 0.840] | 0.101 | $Z = 6.356\ (p < .001)$ |
+> | | < 1 年 | 9 | 0.233 | [0.085, 0.381] | 0.076 | $Z = 3.083\ (p = .002)$ |
+> | | < 2 年 | 4 | 0.418 | [0.237, 0.599] | 0.092 | $Z = 4.518\ (p < .001)$ |
+> | | < 3 年 | 5 | -0.122 | [-0.493, 0.250] | 0.190 | $Z = -0.641\ (p = .522)$ |
+> | **学段层次（Academic Level）** | 本科生（Undergraduate） | 107 | 0.613 | [0.517, 0.709] | 0.049 | $Z = 12.502\ (p < .001)$ |
+> | | **研究生（Graduate）** | 2 | **0.991** | **[0.468, 1.515]** | 0.267 | **$Z = 3.712\ (p < .001)$** |
+> | **组织形式（Activity Type）** | 小组协作（Group） | 61 | 0.567 | [0.462, 0.673] | 0.054 | $Z = 10.539\ (p < .001)$ |
+> | | **独立练习（Alone）** | 48 | **0.682** | **[0.501, 0.863]** | 0.092 | **$Z = 7.375\ (p < .001)$** |
+> | **训练方式（Training Type）** | **言语训练（Verbal）** | 15 | **0.998** | **[0.437, 1.560]** | 0.286 | **$Z = 3.485\ (p < .001)$** |
+> | | **思维训练（Thinking）** | 13 | **0.762** | **[0.469, 1.055]** | 0.149 | **$Z = 5.102\ (p < .001)$** |
+> | | 任务型训练（Task-based） | 5 | 0.685 | [0.302, 1.068] | 0.195 | $Z = 3.503\ (p < .001)$ |
+> | | 技术型训练（Technique-based） | 20 | 0.552 | [0.314, 0.789] | 0.121 | $Z = 4.550\ (p < .001)$ |
+> | | 综合训练（Combined） | 54 | 0.513 | [0.410, 0.617] | 0.053 | $Z = 9.728\ (p < .001)$ |
+> | | 情绪训练（Emotional） | 2 | -0.066 | [-0.401, 0.269] | 0.171 | $Z = -0.384\ (p = .701)$ |
 >
 > **图表解读** 
 > 1. **周期的倒 U 型演变** 干预时长在元回归中解释了 13.4% 的组间方差（$\tau$ 从 0.551 降至 0.477，$\Delta\tau = 0.074$），$< 2$ 个月（$g = 0.844$）为干预黄金窗口，超长周期（$< 3$ 年）效果出现衰退甚至不显著（$g = -0.122, p = 0.522$）。
