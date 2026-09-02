@@ -213,8 +213,7 @@ issuing_organization: ""
 > [!claim]
 > 实证研究数据有力支持了[[Creativity Training|创造力训练]]在高等教育阶段的有效性；多层[[Fixed-Effect and Random-Effects Models|随机效应模型]]表明，创造力干预对大学生的[[Creativity|创造力]]水平产生中等且高度统计显著的正向促进效应（$g = 0.628, p < 0.001$），且实证结果不存在显著的发表偏倚。（pp.6–7）
 
-> [!ma-table]- 全域[[Effect Size|效应量]]与[[Heterogeneity|异质性]]检验表（Table 1）
-> <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
+> [!ref-table]- 全域[[Effect Size|效应量]]与[[Heterogeneity|异质性]]检验表（Table 1）
 >
 > | 模型设定 | 研究数 *k* | Hedges’ *g*（95% CI） | 统计检验 | 模型与异质性解读 |
 > |---|---|---|---|---|
@@ -243,8 +242,7 @@ issuing_organization: ""
 > [!claim]
 > 创造力训练并非对所有创造力成分产生均质影响，而是呈现出明显的构念响应分化：指向发散探索的创造性思维（$g = 0.671$）与图形创造力（$g = 0.644$）获得最显著的提升，词汇（$g = 0.641$）、言语（$g = 0.606$）与问题解决（$g = 0.539$）维持中等增益，而情绪创造力（$g = 0.397$）的干预响应相对偏弱。（pp.6–7）
 
-> [!ma-table]- 不同创造力子维度的干预效应量分布表（Table 2）
-> <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
+> [!ref-table]- 不同创造力子维度的干预效应量分布表（Table 2）
 >
 > | 创造力构念子维度 | 效应数 *N* | Hedges’ *g*（95% CI） | 统计检验 | 效应特征与机制解读 |
 > |---|---|---|---|---|
@@ -276,8 +274,7 @@ issuing_organization: ""
 > [!claim]
 > 创造力训练的效果受教学设计特征与实施环境的显著调节：干预周期呈现倒 U 型曲线关系，中短期干预（$< 2$ 个月）成效最佳（$g = 0.844$），长周期训练效果明显衰减；在教学方式上，言语训练（$g = 0.998$）与思维训练（$g = 0.762$）效果最为显著；在组织形态与对象上，独立练习（$g = 0.682$）优于小组协作（$g = 0.567$），研究生群体的干预响应（$g = 0.991$）高于本科生（$g = 0.613$）。（pp.6–8）
 
-> [!ma-table]- 调节[[Variable|变量]]亚组与[[Meta-regression|元回归分析]]表（Table 3）
-> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+> [!ref-table]- 调节[[Variable|变量]]亚组与[[Meta-regression|元回归分析]]表（Table 3）
 >
 > | 调节变量与亚组 | 效应数 *N* | Hedges’ *g*（95% CI） | 统计检验 | 机制解读 |
 > |---|---|---|---|---|

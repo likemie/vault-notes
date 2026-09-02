@@ -140,7 +140,7 @@ issuing_organization: ""
 
 ### 论证步骤二
 
-%% 本步骤可按需扩充。[!proposition-chain] 列递进命题；[!feature] 做要素拆解；[!framework-table] 展示理论工具如何转化为分析维度；[!effect-table]- 或 [!ma-table]- 记录量化数据。 %%
+%% 本步骤可按需扩充。[!proposition-chain] 列递进命题；[!feature] 做要素拆解；[!framework-table] 展示理论工具如何转化为分析维度；Argument 页使用 [!ref-table]- 记录量化数据。[!ma-table]- 仅供 Concept 条目的「实证数据」使用，不得用于 Argument。 %%
 
 > [!claim] 步骤二主张
 > 写出第二步如何推进、修正或限定第一步。

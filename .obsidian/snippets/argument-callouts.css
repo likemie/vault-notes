@@ -6678,7 +6678,9 @@
   background: rgba(35, 130, 150, 0.12);
 }
 
-/* ─── ma-table（元分析汇总表 — 深紫） ──── */
+/* ─── ma-table（Concept 条目「实证数据」专用元分析汇总表 — 深紫） ────
+   使用边界：仅用于 Concept 页的 ## 实证数据；Argument 页的原文结果表
+   使用 ref-table（或其他 Argument 通用表格 callout），不得复用 ma-table。 */
 .callout[data-callout="ma-table"] {
   --callout-color: 88, 68, 160;
   --callout-icon: lucide-layers;
@@ -6705,48 +6707,35 @@
 
 .callout[data-callout="ma-table"] table {
   display: table;
-  width: 100% !important;
-  max-width: 100% !important;
-  table-layout: auto !important;
+  width: 100%;
+  table-layout: fixed;
   margin-block: 0;
   border-collapse: collapse;
 }
 
-/* 依据单元格内容自动调整列宽 */
+/* 列宽：元分析/k/N/ES/95%CI/I²/GRADE = 24+7+10+10+17+10+22=100% */
+.callout[data-callout="ma-table"] th:nth-child(1),
+.callout[data-callout="ma-table"] td:nth-child(1) { width: 24%; }
+.callout[data-callout="ma-table"] th:nth-child(2),
+.callout[data-callout="ma-table"] td:nth-child(2) { width: 7%;  text-align: center; }
+.callout[data-callout="ma-table"] th:nth-child(3),
+.callout[data-callout="ma-table"] td:nth-child(3) { width: 10%; text-align: center; }
+.callout[data-callout="ma-table"] th:nth-child(4),
+.callout[data-callout="ma-table"] td:nth-child(4) { width: 10%; text-align: center; }
+.callout[data-callout="ma-table"] th:nth-child(5),
+.callout[data-callout="ma-table"] td:nth-child(5) { width: 17%; text-align: center; }
+.callout[data-callout="ma-table"] th:nth-child(6),
+.callout[data-callout="ma-table"] td:nth-child(6) { width: 10%; text-align: center; }
+.callout[data-callout="ma-table"] th:nth-child(7),
+.callout[data-callout="ma-table"] td:nth-child(7) { width: 22%; text-align: center; }
+
 .callout[data-callout="ma-table"] th,
 .callout[data-callout="ma-table"] td {
-  width: auto !important;
-  min-width: 0 !important;
-  max-width: none !important;
   vertical-align: middle;
   border-bottom: 1px solid rgba(88, 68, 160, 0.09);
-  line-height: 1.5;
-  padding: 0.42rem 0.6rem !important;
+  line-height: 1.45;
+  padding: 0.32rem 0.48rem;
   font-size: var(--fs-table);
-  overflow-wrap: break-word;
-  word-break: normal;
-  box-sizing: border-box;
-}
-
-/* 首列（分类/构念）：左对齐，适度紧凑 */
-.callout[data-callout="ma-table"] th:first-child,
-.callout[data-callout="ma-table"] td:first-child {
-  text-align: left;
-  white-space: nowrap;
-}
-
-/* 中间数值与统计检验列：紧凑贴合内容、水平居中，数字与区间不折行 */
-.callout[data-callout="ma-table"] th:not(:first-child):not(:last-child),
-.callout[data-callout="ma-table"] td:not(:first-child):not(:last-child) {
-  text-align: center;
-  white-space: nowrap;
-}
-
-/* 机制解读与模型说明末列：左对齐，自然折行并自适应铺开 */
-.callout[data-callout="ma-table"] th:last-child,
-.callout[data-callout="ma-table"] td:last-child {
-  text-align: left;
-  white-space: normal;
 }
 
 .callout[data-callout="ma-table"] thead th {
@@ -13202,10 +13191,10 @@
 
 .callout[data-callout="spectrum"] > .callout-content > ol > li,
 .callout[data-callout="spectrum"] > .callout-content > ul > li {
-  flex: 1 1 6em;
-  min-width: 6em;
+  flex: 1 1 0px;
+  min-width: 0;
   margin: 0 !important;
-  padding-inline: 0.2rem;
+  padding-inline: 0.25rem;
   box-sizing: border-box;
 }
 
@@ -15759,41 +15748,6 @@
 .callout:has(.concept-meta-analysis-table-marker) th:nth-child(7),
 .callout:has(.concept-meta-analysis-table-marker) td:nth-child(7) { width: 12% !important; }
 
-/* 四列元分析表：短字段紧凑，统计说明获得主要空间。
-   使用列数判定，不依赖正文中的额外 marker。 */
-.callout[data-callout="ma-table"]:has(.concept-meta-analysis-table-marker)
-table:not(:has(th:nth-child(5))) {
-  min-width: 1000px !important;
-  table-layout: fixed !important;
-}
-.callout[data-callout="ma-table"]:has(.concept-meta-analysis-table-marker)
-table:not(:has(th:nth-child(5))) :is(th, td):nth-child(1) { width: 18% !important; }
-.callout[data-callout="ma-table"]:has(.concept-meta-analysis-table-marker)
-table:not(:has(th:nth-child(5))) :is(th, td):nth-child(2) { width: 8% !important; text-align: center; }
-.callout[data-callout="ma-table"]:has(.concept-meta-analysis-table-marker)
-table:not(:has(th:nth-child(5))) :is(th, td):nth-child(3) { width: 24% !important; text-align: center; }
-.callout[data-callout="ma-table"]:has(.concept-meta-analysis-table-marker)
-table:not(:has(th:nth-child(5))) :is(th, td):nth-child(4) { width: 50% !important; text-align: left; }
-
-/* 五列元分析表（如 Guo 2025 Tables 1–2）：
-   统计检验独立成列，最后一列用于连续的结果或机制解读。 */
-.callout[data-callout="ma-table"]:has(.concept-meta-analysis-table-marker)
-table:has(th:nth-child(5)):not(:has(th:nth-child(6))) {
-  width: max(100%, 1180px) !important;
-  min-width: 0 !important;
-  table-layout: fixed !important;
-}
-.callout[data-callout="ma-table"]:has(.concept-meta-analysis-table-marker)
-table:has(th:nth-child(5)):not(:has(th:nth-child(6))) :is(th, td):nth-child(1) { width: 18% !important; text-align: left; }
-.callout[data-callout="ma-table"]:has(.concept-meta-analysis-table-marker)
-table:has(th:nth-child(5)):not(:has(th:nth-child(6))) :is(th, td):nth-child(2) { width: 6% !important; text-align: center; }
-.callout[data-callout="ma-table"]:has(.concept-meta-analysis-table-marker)
-table:has(th:nth-child(5)):not(:has(th:nth-child(6))) :is(th, td):nth-child(3) { width: 22% !important; text-align: center; }
-.callout[data-callout="ma-table"]:has(.concept-meta-analysis-table-marker)
-table:has(th:nth-child(5)):not(:has(th:nth-child(6))) :is(th, td):nth-child(4) { width: 22% !important; text-align: center; }
-.callout[data-callout="ma-table"]:has(.concept-meta-analysis-table-marker)
-table:has(th:nth-child(5)):not(:has(th:nth-child(6))) :is(th, td):nth-child(5) { width: 32% !important; text-align: left; }
-
 /* 概念页二阶元分析汇总表：紧凑呈现证据规模与核心合成结果 */
 .concept-second-order-meta-table-marker {
   display: none;
@@ -15847,40 +15801,6 @@ table:has(th:nth-child(5)):not(:has(th:nth-child(6))) :is(th, td):nth-child(5) {
 .callout:has(.concept-meta-moderator-table-marker) td:nth-child(6) { width: 14% !important; }
 .callout:has(.concept-meta-moderator-table-marker) th:nth-child(7),
 .callout:has(.concept-meta-moderator-table-marker) td:nth-child(7) { width: 13% !important; }
-
-/* 四列调节变量表。 */
-.callout[data-callout="ma-table"]:has(.concept-meta-moderator-table-marker)
-table:not(:has(th:nth-child(5))) {
-  min-width: 1120px !important;
-  table-layout: fixed !important;
-}
-.callout[data-callout="ma-table"]:has(.concept-meta-moderator-table-marker)
-table:not(:has(th:nth-child(5))) :is(th, td):nth-child(1) { width: 19% !important; }
-.callout[data-callout="ma-table"]:has(.concept-meta-moderator-table-marker)
-table:not(:has(th:nth-child(5))) :is(th, td):nth-child(2) { width: 7% !important; text-align: center; }
-.callout[data-callout="ma-table"]:has(.concept-meta-moderator-table-marker)
-table:not(:has(th:nth-child(5))) :is(th, td):nth-child(3) { width: 24% !important; text-align: center; }
-.callout[data-callout="ma-table"]:has(.concept-meta-moderator-table-marker)
-table:not(:has(th:nth-child(5))) :is(th, td):nth-child(4) { width: 50% !important; text-align: left; }
-
-/* 五列调节变量表（如 Guo 2025 Table 3）：
-   将统计检验与机制解读分开，最后一列保留最大的连续阅读空间。 */
-.callout[data-callout="ma-table"]:has(.concept-meta-moderator-table-marker)
-table:has(th:nth-child(5)):not(:has(th:nth-child(6))) {
-  width: max(100%, 1180px) !important;
-  min-width: 0 !important;
-  table-layout: fixed !important;
-}
-.callout[data-callout="ma-table"]:has(.concept-meta-moderator-table-marker)
-table:has(th:nth-child(5)):not(:has(th:nth-child(6))) :is(th, td):nth-child(1) { width: 18% !important; text-align: left; }
-.callout[data-callout="ma-table"]:has(.concept-meta-moderator-table-marker)
-table:has(th:nth-child(5)):not(:has(th:nth-child(6))) :is(th, td):nth-child(2) { width: 6% !important; text-align: center; }
-.callout[data-callout="ma-table"]:has(.concept-meta-moderator-table-marker)
-table:has(th:nth-child(5)):not(:has(th:nth-child(6))) :is(th, td):nth-child(3) { width: 22% !important; text-align: center; }
-.callout[data-callout="ma-table"]:has(.concept-meta-moderator-table-marker)
-table:has(th:nth-child(5)):not(:has(th:nth-child(6))) :is(th, td):nth-child(4) { width: 22% !important; text-align: center; }
-.callout[data-callout="ma-table"]:has(.concept-meta-moderator-table-marker)
-table:has(th:nth-child(5)):not(:has(th:nth-child(6))) :is(th, td):nth-child(5) { width: 32% !important; text-align: left; }
 
 /* 元分析稳健性与偏倚 */
 .callout:has(.concept-meta-robustness-table-marker) table {
@@ -16507,10 +16427,11 @@ table:has(th:nth-child(5)):not(:has(th:nth-child(6))) :is(th, td):nth-child(5) {
 }
 
 /* 2. 表格宽度自适应且设防无限制单行拉伸 */
-.callout[data-callout*="-table"]:not([data-callout="ma-table"]) table,
+.callout[data-callout*="-table"] table,
 .callout[data-callout="ref-table"] table,
 .callout[data-callout="meta-table"] table,
 .callout[data-callout="effect-table"] table,
+.callout[data-callout="ma-table"] table,
 .callout[data-callout="contrast-table"] table,
 .callout[data-callout="tension-table"] table,
 .callout[data-callout="framework-table"] table,
@@ -16526,14 +16447,16 @@ table:has(th:nth-child(5)):not(:has(th:nth-child(6))) :is(th, td):nth-child(5) {
 }
 
 /* 3. 设定黄金阅读列宽与舒适断行（防止单行无限延伸，保证每列 15-22 字自然换行） */
-.callout[data-callout*="-table"]:not([data-callout="ma-table"]) th,
-.callout[data-callout*="-table"]:not([data-callout="ma-table"]) td,
+.callout[data-callout*="-table"] th,
+.callout[data-callout*="-table"] td,
 .callout[data-callout="ref-table"] th,
 .callout[data-callout="ref-table"] td,
 .callout[data-callout="meta-table"] th,
 .callout[data-callout="meta-table"] td,
 .callout[data-callout="effect-table"] th,
 .callout[data-callout="effect-table"] td,
+.callout[data-callout="ma-table"] th,
+.callout[data-callout="ma-table"] td,
 .callout[data-callout="contrast-table"] th,
 .callout[data-callout="contrast-table"] td,
 .callout[data-callout="tension-table"] th,
@@ -16813,194 +16736,4 @@ table:has(th:nth-child(5)):not(:has(th:nth-child(6))) :is(th, td):nth-child(5) {
   .callout[data-callout="bias-audit"]
 ) table:has(thead th:nth-child(8)) {
   font-size: 0.72rem !important;
-}
-
-/* 元分析宽表：由 callout 外层提供唯一、可见且可拖动的横向滚动区。
-   保留表格的舒适最小宽度，不再为了塞进正文而压缩长文本列。 */
-.callout[data-callout="ma-table"]:has(:is(
-  .concept-meta-analysis-table-marker,
-  .concept-meta-moderator-table-marker
-)) > .callout-content {
-  display: block;
-  width: 100%;
-  max-width: 100%;
-  overflow-x: auto !important;
-  overflow-y: hidden !important;
-  overscroll-behavior-x: contain;
-  scrollbar-gutter: stable;
-  scrollbar-width: auto;
-  scrollbar-color: rgba(88, 68, 160, 0.58) rgba(88, 68, 160, 0.08);
-  touch-action: pan-x;
-  padding-bottom: 0.28rem !important;
-}
-
-.callout[data-callout="ma-table"]:has(:is(
-  .concept-meta-analysis-table-marker,
-  .concept-meta-moderator-table-marker
-)) .table-container {
-  display: block;
-  width: 100% !important;
-  min-width: 100% !important;
-  max-width: none !important;
-  overflow: visible !important;
-}
-
-.callout[data-callout="ma-table"]:has(:is(
-  .concept-meta-analysis-table-marker,
-  .concept-meta-moderator-table-marker
-)) > .callout-content::-webkit-scrollbar {
-  display: block;
-  height: 11px;
-}
-
-.callout[data-callout="ma-table"]:has(:is(
-  .concept-meta-analysis-table-marker,
-  .concept-meta-moderator-table-marker
-)) > .callout-content::-webkit-scrollbar-track {
-  border-radius: 999px;
-  background: rgba(88, 68, 160, 0.08);
-}
-
-.callout[data-callout="ma-table"]:has(:is(
-  .concept-meta-analysis-table-marker,
-  .concept-meta-moderator-table-marker
-)) > .callout-content::-webkit-scrollbar-thumb {
-  min-width: 56px;
-  border: 2px solid transparent;
-  border-radius: 999px;
-  background: rgba(88, 68, 160, 0.58);
-  background-clip: padding-box;
-}
-
-.callout[data-callout="ma-table"]:has(:is(
-  .concept-meta-analysis-table-marker,
-  .concept-meta-moderator-table-marker
-)) > .callout-content::-webkit-scrollbar-thumb:hover {
-  background: rgba(88, 68, 160, 0.78);
-  background-clip: padding-box;
-}
-
-/* 五列元分析表采用内容型列宽：宽屏完整显示，窄屏才横向滚动。
-   避免固定超宽表格产生没有信息价值的大块空白。 */
-.callout[data-callout="ma-table"]:has(:is(
-  .concept-meta-analysis-table-marker,
-  .concept-meta-moderator-table-marker
-)) table:has(th:nth-child(5)):not(:has(th:nth-child(6))) {
-  width: 100% !important;
-  min-width: 1178px !important;
-  max-width: none !important;
-  table-layout: fixed !important;
-}
-
-.callout[data-callout="ma-table"]:has(:is(
-  .concept-meta-analysis-table-marker,
-  .concept-meta-moderator-table-marker
-)) table:has(th:nth-child(5)):not(:has(th:nth-child(6))) :is(th, td) {
-  box-sizing: border-box;
-  overflow: visible;
-}
-
-.callout[data-callout="ma-table"]:has(:is(
-  .concept-meta-analysis-table-marker,
-  .concept-meta-moderator-table-marker
-)) table:has(th:nth-child(5)):not(:has(th:nth-child(6))) :is(th, td):nth-child(1) {
-  width: 200px !important;
-  min-width: 200px !important;
-  max-width: 220px !important;
-  white-space: normal !important;
-}
-
-.callout[data-callout="ma-table"]:has(:is(
-  .concept-meta-analysis-table-marker,
-  .concept-meta-moderator-table-marker
-)) table:has(th:nth-child(5)):not(:has(th:nth-child(6))) :is(th, td):nth-child(2) {
-  width: 88px !important;
-  min-width: 88px !important;
-  max-width: 88px !important;
-  text-align: center !important;
-}
-
-.callout[data-callout="ma-table"]:has(:is(
-  .concept-meta-analysis-table-marker,
-  .concept-meta-moderator-table-marker
-)) table:has(th:nth-child(5)):not(:has(th:nth-child(6))) :is(th, td):nth-child(3) {
-  width: 240px !important;
-  min-width: 240px !important;
-  max-width: 240px !important;
-  text-align: center !important;
-}
-
-.callout[data-callout="ma-table"]:has(:is(
-  .concept-meta-analysis-table-marker,
-  .concept-meta-moderator-table-marker
-)) table:has(th:nth-child(5)):not(:has(th:nth-child(6))) :is(th, td):nth-child(4) {
-  width: 270px !important;
-  min-width: 270px !important;
-  max-width: 270px !important;
-  text-align: center !important;
-}
-
-.callout[data-callout="ma-table"]:has(:is(
-  .concept-meta-analysis-table-marker,
-  .concept-meta-moderator-table-marker
-)) table:has(th:nth-child(5)):not(:has(th:nth-child(6))) :is(th, td):nth-child(5) {
-  width: auto !important;
-  min-width: 380px !important;
-  max-width: none !important;
-  white-space: normal !important;
-  text-align: left !important;
-}
-
-/* Obsidian 不同视图可能把 table 包在 table-container 或 table-wrapper 中。
-   三种候选滚动层都启用相同的可见滚动条，实际承载溢出的那一层生效。 */
-.callout[data-callout="ma-table"]:has(:is(
-  .concept-meta-analysis-table-marker,
-  .concept-meta-moderator-table-marker
-)) :is(.table-container, .table-wrapper) {
-  display: block !important;
-  width: 100% !important;
-  min-width: 0 !important;
-  max-width: 100% !important;
-  overflow-x: auto !important;
-  overflow-y: hidden !important;
-  overscroll-behavior-x: contain;
-  scrollbar-gutter: stable;
-  scrollbar-width: auto;
-  scrollbar-color: rgba(88, 68, 160, 0.62) rgba(88, 68, 160, 0.10);
-  padding-bottom: 0.28rem;
-}
-
-.callout[data-callout="ma-table"]:has(:is(
-  .concept-meta-analysis-table-marker,
-  .concept-meta-moderator-table-marker
-)) :is(.table-container, .table-wrapper)::-webkit-scrollbar {
-  display: block !important;
-  height: 12px !important;
-}
-
-.callout[data-callout="ma-table"]:has(:is(
-  .concept-meta-analysis-table-marker,
-  .concept-meta-moderator-table-marker
-)) :is(.table-container, .table-wrapper)::-webkit-scrollbar-track {
-  border-radius: 999px;
-  background: rgba(88, 68, 160, 0.10);
-}
-
-.callout[data-callout="ma-table"]:has(:is(
-  .concept-meta-analysis-table-marker,
-  .concept-meta-moderator-table-marker
-)) :is(.table-container, .table-wrapper)::-webkit-scrollbar-thumb {
-  min-width: 64px;
-  border: 2px solid transparent;
-  border-radius: 999px;
-  background: rgba(88, 68, 160, 0.62);
-  background-clip: padding-box;
-}
-
-.callout[data-callout="ma-table"]:has(:is(
-  .concept-meta-analysis-table-marker,
-  .concept-meta-moderator-table-marker
-)) :is(.table-container, .table-wrapper)::-webkit-scrollbar-thumb:hover {
-  background: rgba(88, 68, 160, 0.82);
-  background-clip: padding-box;
 }
