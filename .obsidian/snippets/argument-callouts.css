@@ -16737,3 +16737,40 @@
 ) table:has(thead th:nth-child(8)) {
   font-size: 0.72rem !important;
 }
+
+/* Concept「实证数据」· 调节变量八列表
+   仅在 moderator 表恰好有 8 列时启用；标准 7 列布局保持不变。
+   第 4、5 列承载条件与效应说明，第 7 列“是否预设”保持紧凑。 */
+.callout[data-callout="ma-table"]:has(.concept-meta-moderator-table-marker)
+table:has(thead th:nth-child(8)):not(:has(thead th:nth-child(9))) {
+  width: max(100%, 1480px) !important;
+  min-width: 0 !important;
+  table-layout: fixed !important;
+}
+
+.callout[data-callout="ma-table"]:has(.concept-meta-moderator-table-marker)
+table:has(thead th:nth-child(8)):not(:has(thead th:nth-child(9))) :is(th, td) {
+  min-width: 0 !important;
+  max-width: none !important;
+  height: auto !important;
+  vertical-align: top !important;
+  white-space: normal !important;
+  overflow-wrap: break-word;
+}
+
+.callout[data-callout="ma-table"]:has(.concept-meta-moderator-table-marker)
+table:has(thead th:nth-child(8)):not(:has(thead th:nth-child(9))) :is(th, td):nth-child(1) { width: 14% !important; }
+.callout[data-callout="ma-table"]:has(.concept-meta-moderator-table-marker)
+table:has(thead th:nth-child(8)):not(:has(thead th:nth-child(9))) :is(th, td):nth-child(2) { width: 13% !important; }
+.callout[data-callout="ma-table"]:has(.concept-meta-moderator-table-marker)
+table:has(thead th:nth-child(8)):not(:has(thead th:nth-child(9))) :is(th, td):nth-child(3) { width: 9% !important; }
+.callout[data-callout="ma-table"]:has(.concept-meta-moderator-table-marker)
+table:has(thead th:nth-child(8)):not(:has(thead th:nth-child(9))) :is(th, td):nth-child(4) { width: 20% !important; }
+.callout[data-callout="ma-table"]:has(.concept-meta-moderator-table-marker)
+table:has(thead th:nth-child(8)):not(:has(thead th:nth-child(9))) :is(th, td):nth-child(5) { width: 16% !important; }
+.callout[data-callout="ma-table"]:has(.concept-meta-moderator-table-marker)
+table:has(thead th:nth-child(8)):not(:has(thead th:nth-child(9))) :is(th, td):nth-child(6) { width: 10% !important; }
+.callout[data-callout="ma-table"]:has(.concept-meta-moderator-table-marker)
+table:has(thead th:nth-child(8)):not(:has(thead th:nth-child(9))) :is(th, td):nth-child(7) { width: 6% !important; text-align: center !important; }
+.callout[data-callout="ma-table"]:has(.concept-meta-moderator-table-marker)
+table:has(thead th:nth-child(8)):not(:has(thead th:nth-child(9))) :is(th, td):nth-child(8) { width: 12% !important; }
