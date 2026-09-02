@@ -107,8 +107,19 @@
               "icon": "lucide-bookmark",
               "title": "书签"
             }
+          },
+          {
+            "id": "687583a46441d97a",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent files"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -209,6 +220,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -226,14 +238,14 @@
   },
   "active": "ffc1a70d9b63a440",
   "lastOpenFiles": [
-    "wiki/concepts/research-methodology/Effect Size.md",
+    "wiki/concepts/instruction-pedagogy/Creativity Training.md",
     "wiki/arguments/journal-articles/Thinking Skills and Creativity/Argument_Guo_2025_TSC.md",
+    "wiki/concepts/research-methodology/Effect Size.md",
     "wiki/methods/quantitative/Meta-regression.md",
     "wiki/methods/quantitative/Three-Level Meta-Analysis.md",
     "wiki/theories/instruction-pedagogy/Creative Problem Solving.md",
     "wiki/concepts/educational-psychology/Divergent Thinking.md",
     "wiki/concepts/educational-psychology/Creativity.md",
-    "wiki/concepts/instruction-pedagogy/Creativity Training.md",
     "wiki/arguments/journal-articles/Thinking Skills and Creativity/Argument_Park_2026_TSC.md",
     "wiki/arguments/journal-articles/Educational Research/Argument_Nelson_2017_ER.md",
     "sources/Guo_2025_TSC/figures",
