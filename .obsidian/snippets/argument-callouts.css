@@ -6705,35 +6705,48 @@
 
 .callout[data-callout="ma-table"] table {
   display: table;
-  width: 100%;
-  table-layout: fixed;
+  width: 100% !important;
+  max-width: 100% !important;
+  table-layout: auto !important;
   margin-block: 0;
   border-collapse: collapse;
 }
 
-/* 列宽：元分析/k/N/ES/95%CI/I²/GRADE = 24+7+10+10+17+10+22=100% */
-.callout[data-callout="ma-table"] th:nth-child(1),
-.callout[data-callout="ma-table"] td:nth-child(1) { width: 24%; }
-.callout[data-callout="ma-table"] th:nth-child(2),
-.callout[data-callout="ma-table"] td:nth-child(2) { width: 7%;  text-align: center; }
-.callout[data-callout="ma-table"] th:nth-child(3),
-.callout[data-callout="ma-table"] td:nth-child(3) { width: 10%; text-align: center; }
-.callout[data-callout="ma-table"] th:nth-child(4),
-.callout[data-callout="ma-table"] td:nth-child(4) { width: 10%; text-align: center; }
-.callout[data-callout="ma-table"] th:nth-child(5),
-.callout[data-callout="ma-table"] td:nth-child(5) { width: 17%; text-align: center; }
-.callout[data-callout="ma-table"] th:nth-child(6),
-.callout[data-callout="ma-table"] td:nth-child(6) { width: 10%; text-align: center; }
-.callout[data-callout="ma-table"] th:nth-child(7),
-.callout[data-callout="ma-table"] td:nth-child(7) { width: 22%; text-align: center; }
-
+/* 依据单元格内容自动调整列宽 */
 .callout[data-callout="ma-table"] th,
 .callout[data-callout="ma-table"] td {
+  width: auto !important;
+  min-width: 0 !important;
+  max-width: none !important;
   vertical-align: middle;
   border-bottom: 1px solid rgba(88, 68, 160, 0.09);
-  line-height: 1.45;
-  padding: 0.32rem 0.48rem;
+  line-height: 1.5;
+  padding: 0.42rem 0.6rem !important;
   font-size: var(--fs-table);
+  overflow-wrap: break-word;
+  word-break: normal;
+  box-sizing: border-box;
+}
+
+/* 首列（分类/构念）：左对齐，适度紧凑 */
+.callout[data-callout="ma-table"] th:first-child,
+.callout[data-callout="ma-table"] td:first-child {
+  text-align: left;
+  white-space: nowrap;
+}
+
+/* 中间数值与统计检验列：紧凑贴合内容、水平居中，数字与区间不折行 */
+.callout[data-callout="ma-table"] th:not(:first-child):not(:last-child),
+.callout[data-callout="ma-table"] td:not(:first-child):not(:last-child) {
+  text-align: center;
+  white-space: nowrap;
+}
+
+/* 机制解读与模型说明末列：左对齐，自然折行并自适应铺开 */
+.callout[data-callout="ma-table"] th:last-child,
+.callout[data-callout="ma-table"] td:last-child {
+  text-align: left;
+  white-space: normal;
 }
 
 .callout[data-callout="ma-table"] thead th {
@@ -13189,12 +13202,10 @@
 
 .callout[data-callout="spectrum"] > .callout-content > ol > li,
 .callout[data-callout="spectrum"] > .callout-content > ul > li {
-  flex: 0 0 6em;
-  width: 6em;
-  min-width: 0;
-  max-width: 6em;
+  flex: 1 1 6em;
+  min-width: 6em;
   margin: 0 !important;
-  padding-inline: 0;
+  padding-inline: 0.2rem;
   box-sizing: border-box;
 }
 
@@ -16427,11 +16438,10 @@
 }
 
 /* 2. 表格宽度自适应且设防无限制单行拉伸 */
-.callout[data-callout*="-table"] table,
+.callout[data-callout*="-table"]:not([data-callout="ma-table"]) table,
 .callout[data-callout="ref-table"] table,
 .callout[data-callout="meta-table"] table,
 .callout[data-callout="effect-table"] table,
-.callout[data-callout="ma-table"] table,
 .callout[data-callout="contrast-table"] table,
 .callout[data-callout="tension-table"] table,
 .callout[data-callout="framework-table"] table,
@@ -16447,16 +16457,14 @@
 }
 
 /* 3. 设定黄金阅读列宽与舒适断行（防止单行无限延伸，保证每列 15-22 字自然换行） */
-.callout[data-callout*="-table"] th,
-.callout[data-callout*="-table"] td,
+.callout[data-callout*="-table"]:not([data-callout="ma-table"]) th,
+.callout[data-callout*="-table"]:not([data-callout="ma-table"]) td,
 .callout[data-callout="ref-table"] th,
 .callout[data-callout="ref-table"] td,
 .callout[data-callout="meta-table"] th,
 .callout[data-callout="meta-table"] td,
 .callout[data-callout="effect-table"] th,
 .callout[data-callout="effect-table"] td,
-.callout[data-callout="ma-table"] th,
-.callout[data-callout="ma-table"] td,
 .callout[data-callout="contrast-table"] th,
 .callout[data-callout="contrast-table"] td,
 .callout[data-callout="tension-table"] th,
