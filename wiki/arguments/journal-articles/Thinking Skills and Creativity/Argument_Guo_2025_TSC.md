@@ -26,7 +26,6 @@ related_concepts:
   - "[[Divergent Thinking]]"
   - "[[Variable]]"
   - "[[Effect Size]]"
-  - "[[Problem Finding]]"
   - "[[Operationalization]]"
   - "[[Construct]]"
   - "[[Document]]"
@@ -34,13 +33,9 @@ related_concepts:
   - "[[Funnel Plot]]"
   - "[[Standard Error]]"
   - "[[Pre-test and Post-test]]"
-  - "[[Sampling Error]]"
-  - "[[Hypothesis]]"
-  - "[[Confidence Interval]]"
-  - "[[Sample Size Determination]]"
   - "[[Heterogeneity]]"
-  - "[[External Validity]]"
-  - "[[Hawthorne Effect]]"
+  - "[[Confidence Interval]]"
+  - "[[Hypothesis]]"
   - "[[Between-Study Variance]]"
   - "[[Reliability]]"
   - "[[Literature Search]]"
@@ -53,8 +48,8 @@ related_concepts:
   - "[[Self-Efficacy]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Executive Function]]"
-related_theories:
-  - "[[Creative Problem Solving]]"
+  - "[[Sample Size Determination]]"
+related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Three-Level Meta-Analysis]]"
@@ -62,8 +57,7 @@ related_methods:
   - "[[Meta-regression]]"
   - "[[PRISMA]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
-  - "[[Randomised Controlled Trials]]"
-  - "[[Random Assignment]]"
+  - "[[Role-playing]]"
 related_instruments:
   - "[[Torrance Tests of Creative Thinking]]"
   - "[[Remote Associates Test]]"
@@ -83,9 +77,9 @@ title: "Argument_Guo_2025_TSC"
 argument_key: "Argument_Guo_2025_TSC"
 argument_display_title: "Effect of training programs on the creativity of university students: A multi-level meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 45
-argument_related_level: 3
-argument_related_stars: "⭐⭐⭐"
+argument_related_count: 39
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "Thinking Skills and Creativity"
 book_title: ""
@@ -117,17 +111,17 @@ issuing_organization: ""
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |---|---|
-> | **[[Creativity|创造力多维可塑性理论]]** | 将创造力界定为涵盖认知加工、语言表达、视觉重组与情境问题解决的可塑心理潜能，打破天赋决定论，确立高等教育干预的理论前提。（pp.2–3） |
+> | **[[Creativity\|创造力多维可塑性理论]]** | 将创造力界定为涵盖认知加工、语言表达、视觉重组与情境问题解决的可塑心理潜能，打破天赋决定论，确立高等教育干预的理论前提。（pp.2–3） |
 
 ### 核心变量与操作化编码表
 
 > [!index-table] 核心[[Variable|变量]][[Operationalization|操作化]]定义与[[Coding in Qualitative Research|编码]]规程
-> | [[Variable|变量]]维度与分类 | [[Construct|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
+> | [[Variable\|变量]]维度与分类 | [[Construct\|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
 > |---|---|---|
-> | **创造性思维（Creative Thinking）** | 产生新颖、多向度且具适应性观念的认知发散与重构能力。 | 典型工具包含[[Torrance Tests of Creative Thinking|托兰斯创造性思维测验]]（TTCT-F / TTCT-V）、ATTA；代表研究如 Karwowski & Soszynski (2008)、Puccio et al. (2020)；$N = 24, g = 0.671$。 |
+> | **创造性思维（Creative Thinking）** | 产生新颖、多向度且具适应性观念的认知发散与重构能力。 | 典型工具包含[[Torrance Tests of Creative Thinking\|托兰斯创造性思维测验]]（TTCT-F / TTCT-V）、ATTA；代表研究如 Karwowski & Soszynski (2008)、Puccio et al. (2020)；$N = 24, g = 0.671$。 |
 > | **图形创造力（Graphic Creativity）** | 借助视觉表征与空间拓扑重组新颖具象形态的图画创造能力。 | 典型工具包含 TTCT 图形版、TCT-DP、CEDA；代表研究如 West et al. (2012)、Morin et al. (2018)；$N = 27, g = 0.644$。 |
-> | **词汇创造力（Words Creativity）** | 基于字词语义进行快速远距离联想与新颖词汇重组的语言认知表现。 | 典型工具包含[[Remote Associates Test|远距离联想测验]]（RAT）、过泛思维训练任务（OTT）；代表研究如 Chiu (2015)、Zitek & Vincent (2015)；$N = 16, g = 0.641$。 |
-> | **言语创造力（Verbal Creativity）** | 运用口头或书面语言生成丰富、多样且新颖观点与非常规用途的表达潜能。 | 典型工具包含[[Alternate Uses Test|另类用途测验]]（AUT / GAU）、TTCT 言语版；代表研究如 Fink et al. (2015)、Lewis & Lovatt (2013)、Gu et al. (2023)；$N = 23, g = 0.606$。 |
+> | **词汇创造力（Words Creativity）** | 基于字词语义进行快速远距离联想与新颖词汇重组的语言认知表现。 | 典型工具包含[[Remote Associates Test\|远距离联想测验]]（RAT）、过泛思维训练任务（OTT）；代表研究如 Chiu (2015)、Zitek & Vincent (2015)；$N = 16, g = 0.641$。 |
+> | **言语创造力（Verbal Creativity）** | 运用口头或书面语言生成丰富、多样且新颖观点与非常规用途的表达潜能。 | 典型工具包含[[Alternate Uses Test\|另类用途测验]]（AUT / GAU）、TTCT 言语版；代表研究如 Fink et al. (2015)、Lewis & Lovatt (2013)、Gu et al. (2023)；$N = 23, g = 0.606$。 |
 > | **问题解决（Problem-Solving）** | 针对不良结构情境识别障碍、构思替代路径并实现目标突破的实践能力。 | 典型工具包含原创性量表（OSVM）、问题解决问卷（PSI）、重组测验（WRT）；代表研究如 Baruah & Paulus (2008)、O'Connor et al. (2016)；$N = 10, g = 0.539$。 |
 > | **情绪创造力（Emotional Creativity）** | 个体体验、表达与调节独特、复杂且适切情绪模式的非认知创造潜能。 | 典型工具包含情绪创造力量表（ECI）、主观运动体验量表（SEES）；代表研究如 Mahasneh & Gazo (2019)、Campion & Levita (2014)；$N = 9, g = 0.397$。 |
 > | **训练周期（Duration）** | 干预方案实施的整体时间跨度，分为 $< 1$ 周、$< 2$ 个月、$< 4$ 个月、$< 1$ 年、$< 2$ 年、$< 3$ 年六个梯度。 | 短期密集工作坊至多学期长程课程；亚组分布 $N = 37, 30, 24, 9, 4, 5$；在元回归中解释 13.4% 组间方差。 |
@@ -144,18 +138,18 @@ issuing_organization: ""
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |---|---|
-> | **文献检索与筛选（Systematic Search & [[PRISMA]]）** | 遵循 PRISMA 指南系统检索 Web of Science、Scopus、ScienceDirect、PubMed、ERIC 等数据库（2000–2024 年）；采用布尔逻辑检索、[[Document|文献]]滚雪球法与专家咨询两阶段策略；经双人独立筛选与第三方复核，最终纳入 29 项实证研究。（pp.3–5） |
-> | **效应量计算（[[Effect Size|Hedges' $g$]]）** | 提取各实验组与对照组（或前后测）的均值、标准差及样本量，采用小样本无偏校正的 Hedges' $g$ 作为效应量指标；依据 Cohen 准则将 0.2、0.5、0.8 分别界定为小、中、大效应。（p.5） |
-> | **多层元分析与元回归（[[Three-Level Meta-Analysis|三层建模]] & [[Meta-regression|元回归]]）** | 运用 Comprehensive Meta-Analysis（CMA v3.070）构建多层随机效应模型（[[Fixed-Effect and Random-Effects Models|Random-Effects Model]]），妥善处理单项研究内多个效应量的嵌套依赖性；通过 $Q$ 检验与 $I^2$ 评估异质性，并以亚组分析与元回归检验调节变量。（pp.5–7） |
-> | **发表偏倚诊断（[[Publication Bias|偏倚检验]] & [[Funnel Plot|漏斗图]]）** | 绘制包含 109 个效应量的[[Standard Error|标准误]]漏斗图，通过散点分布形态与对称性检验评估潜在发表偏倚风险。（pp.5–6） |
+> | **文献检索与筛选（Systematic Search & [[PRISMA]]）** | 遵循 PRISMA 指南系统检索 Web of Science、Scopus、ScienceDirect、PubMed、ERIC 等数据库（2000–2024 年）；采用布尔逻辑检索、[[Document\|文献]]滚雪球法与专家咨询两阶段策略；经双人独立筛选与第三方复核，最终纳入 29 项实证研究。（pp.3–5） |
+> | **效应量计算（[[Effect Size\|Hedges' $g$]]）** | 提取各实验组与对照组（或前后测）的均值、标准差及样本量，采用小样本无偏校正的 Hedges' $g$ 作为效应量指标；依据 Cohen 准则将 0.2、0.5、0.8 分别界定为小、中、大效应。（p.5） |
+> | **多层元分析与元回归（[[Three-Level Meta-Analysis\|三层建模]] & [[Meta-regression\|元回归]]）** | 运用 Comprehensive Meta-Analysis（CMA v3.070）构建多层随机效应模型（[[Fixed-Effect and Random-Effects Models\|Random-Effects Model]]），妥善处理单项研究内多个效应量的嵌套依赖性；通过 $Q$ 检验与 $I^2$ 评估异质性，并以亚组分析与元回归检验调节变量。（pp.5–7） |
+> | **发表偏倚诊断（[[Publication Bias\|偏倚检验]] & [[Funnel Plot\|漏斗图]]）** | 绘制包含 109 个效应量的[[Standard Error\|标准误]]漏斗图，通过散点分布形态与对称性检验评估潜在发表偏倚风险。（pp.5–6） |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成与分布特征 |
 > |---|---|
 > | **文献总体样本** | 共纳入 29 篇实证文献，涵盖 109 个独立效应量；发表时间跨越 2000 年至 2024 年。（pp.1, 4–5） |
 > | **地理与国别分布** | 涵盖美国（8 项）、中国（含台湾地区，4 项）、英国（2 项）、德国（2 项）、加拿大（2 项）、法国（2 项）、希腊（2 项）、奥地利、土耳其、丹麦、荷兰、约旦、波兰、阿联酋等 14 个国家/地区。 |
-> | **对照组设计类型** | 对照组设计分为五类：a = 无训练对照（3 项）；b = 接受替代性对照训练（20 项）；c = 等待名单/前后测无干预（5 项）；d/e = 情绪或神经认知对照训练（2 项）。 |
-> | **测量工具多样性** | 涵盖发散思维（TTCT、AUT、GAU）、联想重组（RAT、OTT）、真实性设计与作品评价（CEDA、WRT、OSVM）及情绪创造力量表（ECI）等多模态测量体系。（pp.10–11） |
+> | **对照组设计类型** | 对照组设计分为五类：a = 无训练对照（3 项）；b = 接受替代性对照训练（20 项）；c = 等待名单/[[Pre-test and Post-test\|前后测]]无干预（5 项）；d/e = 情绪或神经认知对照训练（2 项）。 |
+> | **测量工具多样性** | 涵盖[[Divergent Thinking\|发散思维]]（[[Torrance Tests of Creative Thinking\|TTCT]]、[[Alternate Uses Test\|AUT]]、GAU）、联想重组（[[Remote Associates Test\|RAT]]、OTT）、真实性设计与作品评价（CEDA、WRT、OSVM）及情绪[[Creativity\|创造力]]量表（ECI）等多模态测量体系。（pp.10–11） |
 
 > [!ref-table]- 纳入实证研究特征与干预方案清单（Table 4）
 > | 纳入研究（发表年与国别） | 测量工具 | 实验设计与对照组 | 干预周期 | 组织形式 | 训练方式 |
@@ -164,7 +158,7 @@ issuing_organization: ""
 > | Campion & Levita (2014, 英国) | SEES, TTCT | 实验组/对照组（b: 替代训练） | < 2 个月 | 独立练习 | 言语训练 |
 > | Chiu (2015, 中国台湾) | OTT | 实验组/对照组（b: 替代训练） | < 1 周 | 独立练习 | 综合训练 |
 > | Fink et al. (2015, 奥地利) | AUT | 实验组/对照组（b: 替代训练） | < 2 个月 | 小组协作 | 言语训练 |
-> | Hargrove & Nietfeld (2015, 美国) | RAT, MAI | [[Pre-test and Post-test|前后测设计]]（b: 替代训练） | < 4 个月 | 独立练习 | 思维训练 |
+> | Hargrove & Nietfeld (2015, 美国) | RAT, MAI | [[Pre-test and Post-test\|前后测设计]]（b: 替代训练） | < 4 个月 | 独立练习 | 思维训练 |
 > | Karakelle (2009, 土耳其) | OSVM | 前后测设计（c: 等待名单） | < 4 个月 | 独立练习 | 综合训练 |
 > | Kienitz et al. (2014, 美国) | TTCT-F, NEO-FFI | 实验组/对照组（b: 替代训练） | < 2 个月 | 独立练习 | 言语训练 |
 > | Lewis & Lovatt (2013, 英国) | AUT | 实验组/对照组（b: 替代训练） | < 1 周 | 小组协作 | 言语训练 |
@@ -220,7 +214,7 @@ issuing_organization: ""
 > [!ma-table]- 全域[[Effect Size|效应量]]与[[Heterogeneity|异质性]]检验表（Table 1）
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 模型设定与统计参数 | 研究数 $k$ | Hedges' $g$ | 标准误 $SE$ | 95% 置信区间 | 检验统计量 $Z\ (p)$ | 异质性检验与方差分解 |
+> | 模型设定与统计参数 | 研究数 $k$ | Hedges' $g$ | 标准误 $SE$ | 95% [[Confidence Interval\|置信区间]] | 检验统计量 $Z\ (p)$ | 异质性检验与方差分解 |
 > |---|---|---|---|---|---|---|
 > | **固定效应模型（Fixed Effect）** | 29 | 0.572 | 0.034 | [0.504, 0.639] | $Z = 16.645\ (p < .001)$ | 基准比较模型（假定同质性） |
 > | **随机效应模型（Random Effects）** | 29 | **0.628** | 0.092 | **[0.446, 0.809]** | **$Z = 6.788\ (p < .001)$** | **$Q(28) = 178.507^{***}, I^2 = 84.314\%, \tau^2 = 0.189$** |
@@ -329,7 +323,7 @@ issuing_organization: ""
 > **操作规程与机制** 任务型训练依托具体的工程挑战、设计工作坊或 STEAM 跨学科项目，强调“在真实造物中发散”；技术型训练侧重专门创新技法（如 TRIZ、形态分析法、视觉暗示技术等）的熟练运用。两者均有效提供了具象问题载体，但认知迁移阻力略高于纯粹思维训练。（pp.7–8, 10–11）
 
 > [!case] 案例四　多模态综合训练（Combined Training，$g = 0.513$）
-> **操作规程与机制** 整合了多种教学法（如讲授、讨论、即兴戏剧、冥想与角色扮演）。虽然全面覆盖，但多成分混合容易分散学生的注意力焦点，产生认知负荷干扰，效应量（$g = 0.513$）低于精准聚焦的单项认知训练。（pp.7–8, 10–11）
+> **操作规程与机制** 整合了多种教学法（如讲授、讨论、即兴戏剧、冥想与[[Role-playing|角色扮演]]）。虽然全面覆盖，但多成分混合容易分散学生的注意力焦点，产生认知负荷干扰，效应量（$g = 0.513$）低于精准聚焦的单项认知训练。（pp.7–8, 10–11）
 
 > [!case] 案例五　情绪训练的局限（Emotional Training，$g = -0.066$）
 > **操作规程与机制** 尝试通过情绪唤醒、正向心理干预或冥想练习激发创造灵感。实证数据表明，非认知的情绪调节若脱离发散思维策略与具体任务支架，难以自发转化为结构化的创造力产出，效应在统计上不显著且接近于零。（pp.7–8, 10–11）
