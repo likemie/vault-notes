@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch03"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch03"
 argument_display_title: "Chapter three: Mass media and misinformation"
 argument_kind: "book-chapter"
-argument_related_count: 36
+argument_related_count: 38
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -33,6 +33,7 @@ sources:
   - "[[sources/RoyalSociety_2026_ScienceForSociety/RoyalSociety_2026_ScienceForSociety|RoyalSociety_2026_ScienceForSociety]]"
 part_of: "[[Argument_RoyalSociety_2026_ScienceForSociety]]"
 related_concepts:
+  - "[[Science Journalism]]"
   - "[[Citizen Science]]"
   - "[[Paradigm]]"
   - "[[Scientific Literacy]]"
@@ -41,6 +42,7 @@ related_concepts:
   - "[[Deficit Model of Science Communication]]"
   - "[[Confidence Interval]]"
   - "[[Reliability]]"
+  - "[[Solutions Journalism]]"
   - "[[Learned Helplessness]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Literature Search]]"
@@ -129,7 +131,7 @@ updated: 2026-09-03
 > [!claim] 步骤一核心主张
 > 自 1985 年《公众理解科学》（Bodmer 报告）发布 40 年来，英国传统大众媒体（电视与纸质报刊）受众遭遇断崖式滑坡，媒介生态呈现出传统版图碎片化（Fragmentation）与新兴数字社交媒体爆发式崛起的双重转型；新媒体已成为公众获取科学信息的最主要渠道，但专业科技记者的生存空间日益受挤压，大众媒体在社会议程设置中的主导地位依然不可忽视。（pp. 56–57）
 
-#### 主题一：大众媒介生态的结构性瓦解与专业科学新闻面临的生存挤压
+#### 主题一：大众媒介生态的结构性瓦解与[[Science Journalism|专业科学新闻]]面临的生存挤压
 
 自 20 世纪末以来，英国[[Citizen Science|大众科学]]传播基础设施经历了深度的[[Paradigm|范式]]演化。依照“先主题后时间”的发展脉络，可划分为三个关键演进阶段：
 
@@ -147,7 +149,7 @@ updated: 2026-09-03
 >
 >   流媒体服务、视频网站（如 YouTube）、播客（Podcasts）及垂直自媒体呈指数级增长，受众从集中收看权威晚间新闻转向高度去中心化、离散化的个性化信息消费。（p. 56）
 
-> [!threat] 专业科学新闻生产面临的双重体制挤压与生存威胁（pp. 56–57, 59）
+> [!threat] [[Science Journalism|专业科学新闻]]生产面临的双重体制挤压与生存威胁（pp. 56–57, 59）
 > - **专业科技记者（Specialist Journalists）编制萎缩** 英国曾拥有全球最具公信力与专业深度的科学跑口记者群体；但在传统报业财务危机与点击率考核驱使下，各大综合性媒体纷纷裁撤专职科技采编编制，科学报道日益被外包化、快餐化或交由缺乏[[Scientific Literacy|科学素养]]的普通跑口记者兼职处理。（pp. 56–57）
 > - **高等教育机构新闻官（Press Officers）多重任务超负荷过载** 调查表明（Jamison, 2022），在英国高等教育部门整体财务紧缩的大背景下，高校新闻办公室人员往往承受着巨大的多任务冲突：公关团队被迫将主要精力投入危机公关、学校声誉风险管理、内部行政沟通与招生营销中，导致支持一线科学家从事高难度科普沟通的精力被严重稀释；部分机构管理层甚至担忧科学家涉足争议性前沿研究会招致机构公关麻烦。（p. 59）
 
@@ -244,7 +246,7 @@ updated: 2026-09-03
 在虚假信息与算法茧房的重围中，公众并未丧失对科学的敬意，反而表现出对高品质科学知识的强烈饥渴。（pp. 59–60）
 
 > [!claim] 步骤三核心主张
-> 英国公众对科学知识保持着巨大的求知胃口，但面对铺天盖地的冲突信息深感真伪难辨；公众日益厌倦令人绝望的灾难叙事，产生了严重的新闻回避（News Avoidance）；科学界应积极倡导“解决方案新闻”（Solutions Journalism），借助公众对高校科学家高达 87% 的深厚信任资本，提供建设性、启发希望的高品质科普供给。（pp. 59–60）
+> 英国公众对科学知识保持着巨大的求知胃口，但面对铺天盖地的冲突信息深感真伪难辨；公众日益厌倦令人绝望的灾难叙事，产生了严重的新闻回避（News Avoidance）；科学界应积极倡导“[[Solutions Journalism|解决方案新闻]]”（Solutions Journalism），借助公众对高校科学家高达 87% 的深厚信任资本，提供建设性、启发希望的高品质科普供给。（pp. 59–60）
 
 #### 主题一：公众科学求知欲与信息环境失真之间的深层矛盾
 
@@ -260,8 +262,8 @@ updated: 2026-09-03
 > [!info] 时代传播症候：公众“新闻回避”（News Avoidance）的心理诱因
 > 权威传播学研究（Newman et al., 2025; Nielsen, 2025）表明，近年来公众日益广泛的“新闻回避”（News Avoidance）行为，其根源在于传统新闻长期充斥着负面、冲突、灾难与末日恐慌，导致读者陷入[[Learned Helplessness|习得性无助]]与精神绝望。公众对新闻的深层诉求不是更多的恐惧，而是**解决方案与循证希望（Solutions and Hope）**。
 
-> [!tension-table] 表3-3：传统轰动性负面新闻与解决方案新闻对比表（Majid, 2022; Newman, 2025; Nielsen, 2025）
-> | 比较维度 | 传统轰动性负面新闻（Sensationalist News） | 解决方案新闻（Solutions Journalism） |
+> [!tension-table] 表3-3：传统轰动性负面新闻与[[Solutions Journalism|解决方案新闻]]对比表（Majid, 2022; Newman, 2025; Nielsen, 2025）
+> | 比较维度 | 传统轰动性负面新闻（Sensationalist News） | [[Solutions Journalism\|解决方案新闻]] |
 > |---|---|---|
 > | **叙事焦点** | 聚焦生态崩溃、流行病失控、[[Generative Artificial Intelligence\|人工智能（Artificial Intelligence, AI）]] 毁灭人类等末日危机与极化争吵 | 聚焦科技创新如何应对现实危机、社会干预措施的实证效果与实践机制 |
 > | **公众心理反应** | 诱发公众焦虑、恐惧、习得性无助与绝望，导致广泛的“新闻回避” | 激发公众理性思考、主体能动性、建设性参与以及对未来的科学希望 |
@@ -410,7 +412,7 @@ updated: 2026-09-03
 > | [[Public Engagement with Science]] | 概念 | 贯穿全书的核心框架，确立双向[[Dialogue in Education\|对话]]、倾听关切与全生命周期参与原则。 |
 > | [[Scientific Literacy]] | 概念 | 本章强调公众理解证据不确定性与同行评议机制是抵御虚假信息的免疫屏障。 |
 > | [[Generative Artificial Intelligence]] | 概念 | 深度分析生成式 AI 颠覆新闻生产、知识检索带来的双刃剑效应与护栏需求。 |
-> | [[AI Hallucination]] | 概念 | 大语言模型在复杂科技新闻中编造伪证与事实虚构的固有局限。 |
+> | [[AI Hallucination]] | 概念 | 大语言模型在复杂[[Science Journalism\|科技新闻]]中编造伪证与事实虚构的固有局限。 |
 > | [[Walter Bodmer]] | 人物 | 撰写前言回顾自 1985 年《公众理解科学》报告以来 40 年大众媒体环境的巨变。 |
 > | [[Carlos Frenk]] | 人物 | 指导委员会联席主席，领导全书及大众传媒与虚假信息专题研究的研制。 |
 > | [[Sheila Rowan]] | 人物 | 指导委员会联席主席，主持审议本章关于媒体守则与 AI 护栏的战略建言。 |
@@ -422,7 +424,7 @@ updated: 2026-09-03
 > [!finding-cards] 核心发现
 > 1. **数字新媒体首超传统媒体成为首要渠道但主流媒体议程设置存续** 40% 的公众通过新媒体主动获取科学资讯（超传统媒体 36%），主流传统媒体依然在很大程度上主导着社交媒体公共辩论的议程设置。（pp. 56–57）
 > 2. **虚假信息疾速扩散伴随算法推荐偏倚与少数极端回音室扭曲** 商业算法优先分发争议内容，平台 API 封锁阻碍学术审计，极少数极端群体在网络空间产生不成比例的虚假放大效应。（pp. 58–60）
-> 3. **公众求知欲高涨与真实感认知滑坡形成强烈反差** 62% 的公众感到平时接触科学信息过少，仅 40% 认同所听科学信息通常真实；公众对大学科学家信任度高达 87%，呼唤建设性的“解决方案新闻”。（pp. 59–60）
+> 3. **公众求知欲高涨与真实感认知滑坡形成强烈反差** 62% 的公众感到平时接触科学信息过少，仅 40% 认同所听科学信息通常真实；公众对大学科学家信任度高达 87%，呼唤建设性的“[[Solutions Journalism|解决方案新闻]]”。（pp. 59–60）
 > 4. **大众媒体结论夸大主要根源于学术机构新闻通稿的过度营销** 实证证实大众新闻夸大与高校新闻通稿高度正相关，必须将对外科学传播正式纳入科研诚信伦理审查，且坦诚披露不确定性有助于提升公众信任。（pp. 61–62）
 
 > [!stat-cards]- 核心数据
@@ -431,7 +433,7 @@ updated: 2026-09-03
 > - **87% vs ~33%** 87% 的公众高度信任大学科学家，而对传统大众媒体的信任度仅约 33%，对社交媒体信任度更低。（pp. 59–60）
 > - **40% vs 48%** 仅 40% 的公众认同日常接触的科学信息通常真实，48% 困惑于相互冲突的信息过多。
 > - **92%** 当提示具体前沿科技领域时，92% 的英国受访成年人对至少一个领域表达出浓厚求知兴趣。
-> - **2.2M - 5.0M** 每周访问 BBC News Online 科学新闻内容的英国独立浏览器数量稳定在 220 万，峰值接近 500 万。
+> - **2.2M - 5.0M** 每周访问 BBC News Online [[Science Journalism|科学新闻]]内容的英国独立浏览器数量稳定在 220 万，峰值接近 500 万。
 
 ---
 

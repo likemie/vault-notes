@@ -10,7 +10,7 @@ aliases:
 summary: "指个体与公众在面对自然现象、实证证据与公共决策时所秉持的理性探究倾向与价值取向，涵盖实证怀疑、拥抱不确定性、开放反思等认识论心智，并在历史教育改革（如1920年代民国新教育）与现代公众科学态度调查（如PAS 2025）中扮演核心话语功能。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 40
+related_count: 42
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Scientism]]"
   - "[[Scientific Method]]"
   - "[[Reliability]]"
+  - "[[Solutions Journalism]]"
   - "[[Learned Helplessness]]"
   - "[[Reflexivity]]"
   - "[[Humility in Learning]]"
@@ -42,6 +43,7 @@ related_concepts:
   - "[[Scientific Literacy]]"
   - "[[Paradigm]]"
   - "[[Deficit Model of Science Communication]]"
+  - "[[Science Journalism]]"
   - "[[Praxis]]"
   - "[[Document]]"
   - "[[Citizen Science]]"
@@ -107,7 +109,7 @@ updated: 2026-09-03
 >   - **客观事实（Objective Facts）** 以社会实际调查为起点，拒绝对外国模式的盲目崇拜与生搬硬套。
 >   - **实验与渐进精神（Experimental & Incremental Spirit）** 采取一步一个脚印的试错改良，通过渐进试点推进教育重组。
 >   - **精细研究（Sophisticated Research）** 构建诊断、治疗与监测三位一体的研究闭环，确保政策反馈[[Reliability|可靠性]]。（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, p. 620]]）
-> - **3. 公众信任、解决方案新闻与民主审议维度（Public Sentiment & Solutions Orientation）**
+> - **3. 公众信任、[[Solutions Journalism|解决方案新闻]]与民主审议维度（Public Sentiment & Solutions Orientation）**
 >   - **宏观信任与信息渴求** 保持对前沿科学探索的高度兴趣与社会价值认同（如 PAS 2025 中 87% 的科学家信任度与 62% 的信息渴求）。
 >   - **新闻回避破除与建设性态度** 克服面对灾难耸人恐慌报道的[[Learned Helplessness|习得性无助]]与新闻回避（News Avoidance），秉持对基于实证出路的“解决方案新闻”（Solutions Journalism）的积极探求态度。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026, p. 57)]]
 >   - **科技民主审议诉求** 超越被动科普接受，要求在涉及生物安全、人工智能与生态气候的重大科技决策中拥有实质性参与权。（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|The Royal Society, 2026, p. 47]]）
@@ -164,10 +166,10 @@ updated: 2026-09-03
 ### 命题四　面对算法媒介环境的科学态度要求从末日恐慌回避转向赋能型解决方案求知
 
 > [!concept-lens] 媒介消费心理与建设性传播
-> 传统轰动式灾难恐慌报道正在造成公众对科学新闻的心理防卫性回避，科学态度体现为对建设性出路的积极探寻。
+> 传统轰动式灾难恐慌报道正在造成公众对[[Science Journalism|科学新闻]]的心理防卫性回避，科学态度体现为对建设性出路的积极探寻。
 
 > [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|The Royal Society (2026, pp. 57, 63)]]
-> **解决方案导向与科学求知赋能** 面对气候与健康危机，铺天盖地的灾难性警报极易诱发受众的无力感与“新闻回避”（News Avoidance）；健康的公众科学态度并不等于麻木或虚无，而表现为对“解决方案新闻”（Solutions Journalism）的强烈需求——即不仅展示严峻挑战，更依托严密科学证据评估潜在干预措施的有效性与社会可行性，从而将焦虑转化为理性的公民行动。
+> **解决方案导向与科学求知赋能** 面对气候与健康危机，铺天盖地的灾难性警报极易诱发受众的无力感与“新闻回避”（News Avoidance）；健康的公众科学态度并不等于麻木或虚无，而表现为对“[[Solutions Journalism|解决方案新闻]]”（Solutions Journalism）的强烈需求——即不仅展示严峻挑战，更依托严密科学证据评估潜在干预措施的有效性与社会可行性，从而将焦虑转化为理性的公民行动。
 
 ---
 
@@ -197,7 +199,7 @@ updated: 2026-09-03
 >   英国皇家学会发布《公众理解科学》（Bodmer 报告），将培育公众对科学的积极态度与理解置于国家科学繁荣战略核心。
 >
 > - **2020 年代中：双向民主协商、解决方案导向与科研人员职业态度觉醒**
->   英国皇家学会（Royal Society, 2026）全面深化科学态度内涵：在基础教育强调接纳不确定性；在公众媒介层面倡导建设性解决方案新闻；在科研人员层面，全英 20 年追踪（2006–2025）显示学者视参与为职业有益的比例从 20% 飙升至 83%，科学态度已演进为科研共同体与全社会的双向共构契约。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 30)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026, p. 47)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026, p. 57)]]
+>   英国皇家学会（Royal Society, 2026）全面深化科学态度内涵：在基础教育强调接纳不确定性；在公众媒介层面倡导建设性[[Solutions Journalism|解决方案新闻]]；在科研人员层面，全英 20 年追踪（2006–2025）显示学者视参与为职业有益的比例从 20% 飙升至 83%，科学态度已演进为科研共同体与全社会的双向共构契约。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 30)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026, p. 47)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026, p. 57)]]
 
 ---
 

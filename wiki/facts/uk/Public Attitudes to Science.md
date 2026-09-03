@@ -12,9 +12,9 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 11
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 17
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: UK Research and Innovation, Ipsos, British Science Association
 tags:
@@ -27,16 +27,22 @@ related_concepts:
   - "[[Public Engagement with Science]]"
   - "[[Scientific Attitude]]"
   - "[[Paradigm]]"
+  - "[[Generative Artificial Intelligence]]"
   - "[[Informal Science Learning]]"
   - "[[Deficit Model of Science Communication]]"
+  - "[[Science Journalism]]"
+  - "[[Solutions Journalism]]"
+  - "[[Scientific Misinformation]]"
   - "[[Science Capital]]"
 related_facts:
   - "[[PISA]]"
   - "[[OECD]]"
+  - "[[Science Media Centre]]"
   - "[[Association for Science and Discovery Centres]]"
 related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02]]"
+  - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03]]"
 confidence: high
 status: draft
 created: 2026-08-22
@@ -92,7 +98,7 @@ updated: 2026-09-03
 > [!policy-design] 政策启示与科技治理转型
 > - **确立社会文化基础设施的民意支撑** 62% 的科学信息渴求与稳步上升的科技馆访问率证实，[[Informal Science Learning|非正式科学参与]]具有庞大的公众需求，必须确立其与绿地、图书馆同等的核心公共品地位。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026, p. 48)]]
 > - **彻底废除单向[[Deficit Model of Science Communication|赤字模型]]** 仅 12% 的决策参与感表明，传统的单向普及模式已无法满足现代公民诉求，政府与科研机构必须在立项与决策初期引入公众审议（Public Deliberation）与双向协商机制。
-> - **强化科学新闻护栏与解决方案倡导** 面对公众对冲突信息的困惑与仅 40% 的真实性感知，科学界需深化与新闻界合作，通过建设性新闻提供希望与解决方案，并依托科学家 87% 的公信力重建健康的信息生态。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026, pp. 59–63)]]
+> - **强化[[Science Journalism|科学新闻]]护栏与解决方案倡导** 面对公众对冲突信息的困惑与仅 40% 的真实性感知，科学界需深化与新闻界合作，通过[[Solutions Journalism|建设性新闻]]提供希望与解决方案，并依托科学家 87% 的公信力重建健康的信息生态。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026, pp. 59–63)]]
 
 ---
 

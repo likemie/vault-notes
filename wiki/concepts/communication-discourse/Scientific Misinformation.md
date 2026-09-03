@@ -7,10 +7,10 @@ aliases:
 summary: "指向在传统与数字媒体中传播的与科学证据或学界共识相悖的错误或误导性信息，涵盖无恶意失实与蓄意操纵，其扩散受算法推荐、极化回音室与源头新闻通稿夸大共同驱动，治理依赖证据透明、不确定性坦诚沟通与科研诚信制度融合。"
 type: concept
 domain: "communication-discourse"
-related_count: 18
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/science-communication
   - theme/misinformation
@@ -22,10 +22,12 @@ related_concepts:
   - "[[Conflict of Interest in Research]]"
   - "[[AI Hallucination]]"
   - "[[Generative Artificial Intelligence]]"
+  - "[[Science Journalism]]"
   - "[[Responsible Conduct of Research]]"
   - "[[Reliability]]"
   - "[[Trustworthiness]]"
   - "[[Deficit Model of Science Communication]]"
+  - "[[Solutions Journalism]]"
   - "[[Paradigm]]"
   - "[[Effect Size]]"
   - "[[Variable]]"
@@ -113,7 +115,7 @@ updated: 2026-09-03
 > 探讨数字社交平台商业算法如何通过优先分发争议性内容扭曲公众信息环境，以及极端少数群体如何在数字网络中获得不成比例的议题放大。
 
 > [!claim] The Royal Society
-> **算法偏见与回音室放大效应** 商业社交平台基于经济与意识形态考量，往往通过定向算法迎合特定目标受众的偏见；虽然英国绝大多数公众并未深陷封闭的回音室，但少数高度党派化的极端个体在网络空间主动聚集，其制造与转发的极端言论在算法机制下获得了不成比例的巨大曝光，严重污染了主流舆论与科技新闻议题。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026, p. 58)]]
+> **算法偏见与回音室放大效应** 商业社交平台基于经济与意识形态考量，往往通过定向算法迎合特定目标受众的偏见；虽然英国绝大多数公众并未深陷封闭的回音室，但少数高度党派化的极端个体在网络空间主动聚集，其制造与转发的极端言论在算法机制下获得了不成比例的巨大曝光，严重污染了主流舆论与[[Science Journalism|科技新闻]]议题。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026, p. 58)]]
 
 ---
 
@@ -156,7 +158,7 @@ updated: 2026-09-03
 > [!dev-timeline] 科学虚假信息演变历程
 > - **1985 年 — 单向普及与公众理解科学（PUS）早期** 1985 年英国皇家学会发布《公众理解科学》（Bodmer 报告），当时学界普遍认为公众误解科学是由于“知识匮乏”（[[Deficit Model of Science Communication|赤字模型]]），治理焦点在于科学家单向传授正确事实。
 > - **2000 年代初 — 争议科技危机与专业新闻中介确立** 面对疯牛病（BSE）、转基因食品（GM）及三联疫苗（MMR）引发的公众信任危机，学界意识到媒体报道对科学争论的巨大塑造力，英国于 2002 年创立[[Science Media Centre|科学媒体中心]]（SMC），致力于为媒体提供快速权威证据。
-> - **2020 年代中至今 — 数字化算法、信息疫情与科研诚信融合** 面对社交媒体算法茧房、[[Generative Artificial Intelligence|生成式 AI]] 冲击及后疫情时期的“信息疫情”（Infodemic），皇家学会《面向社会的科学》确立了将反虚假信息从单一的事后辟谣，转向涵盖平台数据审计、高校通稿规制、解决方案新闻倡导与科研诚信一体化建设的系统治理[[Paradigm|范式]]。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026, pp. 58–64)]]
+> - **2020 年代中至今 — 数字化算法、信息疫情与科研诚信融合** 面对社交媒体算法茧房、[[Generative Artificial Intelligence|生成式 AI]] 冲击及后疫情时期的“信息疫情”（Infodemic），皇家学会《面向社会的科学》确立了将反虚假信息从单一的事后辟谣，转向涵盖平台数据审计、高校通稿规制、[[Solutions Journalism|解决方案新闻]]倡导与科研诚信一体化建设的系统治理[[Paradigm|范式]]。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026, pp. 58–64)]]
 
 ---
 

@@ -9,7 +9,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 6
+fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dbeafe"
@@ -21,6 +21,7 @@ tags:
   - theme/stem-education
 related_concepts:
   - "[[Scientific Literacy]]"
+  - "[[Science Journalism]]"
   - "[[Homework]]"
 related_facts:
   - "[[OECD]]"
@@ -31,7 +32,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-08-22
+updated: 2026-09-03
 ---
 
 # Beyond 2000 Report
@@ -54,8 +55,8 @@ updated: 2026-08-22
 > 报告倡导对[[Scientific Literacy|科学素养]]进行更广阔的理解，强调科学教育不仅要传授学科核心概念，更必须培养学生理解“科学如何运作”（How Science Works）、批判性评估证据来源以及在日常真实情境中应用科学思维的能力。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, pp. 30–31)]]
 
 > [!policy-design]- 政策设计
-> - **目标** 培养能够批判性阅读媒体科学新闻、理性评估生活中的科技风险与争议的明智公民。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 31)]]
-> - **工具** 课程模块重构、引入科学本质（Nature of Science）讨论、社会科学争议（Socio-scientific Issues）辩论与探究性[[Homework|作业]]。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 31)]]
+> - **目标** 培养能够批判性阅读媒体[[Science Journalism|科学新闻]]、理性评估生活中的科技风险与争议的明智公民。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 31)]]
+> - **工具** 课程模块重构、引入科学本质（Nature of Science）讨论、社会科学争议（Socio-scientific Issues）辩论与探究性[[Homework|作业]]。
 
 ---
 
@@ -63,8 +64,8 @@ updated: 2026-08-22
 
 > [!timeline] 政策时间线
 > - **1998** 纳菲尔德基金会发布《Beyond 2000：面向未来的科学教育》（*Beyond 2000: Science education for the future*）。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 31)]]
-> - **2000** 报告核心理念直接启发并融入了[[OECD|经合组织]]（OECD）[[PISA|国际学生评估项目]]（PISA）首期[[Scientific Literacy|科学素养]]评价框架的制定。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 31)]]
-> - **2006** 英格兰国家课程改革基于该报告原则推出《[[Twenty First Century Science|21世纪科学]]》（Twenty First Century Science）课程。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 31)]]
+> - **2000** 报告核心理念直接启发并融入了[[OECD|经合组织]]（OECD）[[PISA|国际学生评估项目]]（PISA）首期[[Scientific Literacy|科学素养]]评价框架的制定。
+> - **2006** 英格兰国家课程改革基于该报告原则推出《[[Twenty First Century Science|21世纪科学]]》（Twenty First Century Science）课程。
 
 ---
 
@@ -72,7 +73,7 @@ updated: 2026-08-22
 
 > [!finding-cards] 效果与评价
 > - **国际评价框架奠基** 深刻影响了全球教育界对[[Scientific Literacy|科学素养]]的界定方式，将真实情境应用与证据评估确立为国际比较基准。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 31)]]
-> - **课程实践落地** 催生了英格兰覆盖近 60% 中学的《[[Twenty First Century Science|21世纪科学]]》新课程方案。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 31)]]
+> - **课程实践落地** 催生了英格兰覆盖近 60% 中学的《[[Twenty First Century Science|21世纪科学]]》新课程方案。
 
 ---
 

@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety"
 argument_display_title: "Science for society: How society and science shape each other"
 argument_kind: "report"
-argument_related_count: 36
+argument_related_count: 43
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dcfce7"
@@ -38,19 +38,25 @@ related_concepts:
   - "[[Deficit Model of Science Communication]]"
   - "[[Dialogue in Education]]"
   - "[[Data Literacy]]"
+  - "[[Generative Artificial Intelligence]]"
   - "[[Paradigm]]"
   - "[[Scientific Literacy]]"
   - "[[Science Capital]]"
   - "[[Citizen Science]]"
   - "[[AI Literacy]]"
   - "[[Practical Inquiry in Science Education]]"
+  - "[[Science Journalism]]"
   - "[[Rote Learning]]"
+  - "[[Solutions Journalism]]"
+  - "[[Scientific Misinformation]]"
+  - "[[Responsible Conduct of Research]]"
   - "[[Reliability]]"
   - "[[Research Scope]]"
 related_theories: []
 related_methods:
   - "[[Case Study]]"
   - "[[Cohort Study]]"
+  - "[[Survey Research]]"
 related_instruments: []
 related_persons:
   - "[[Walter Bodmer]]"
@@ -67,11 +73,12 @@ related_facts:
   - "[[Dippy on Tour]]"
   - "[[Big Butterfly Count]]"
   - "[[The Perception Census]]"
+  - "[[Science Media Centre]]"
   - "[[Bodmer Report 1985]]"
 related_arguments:
+  - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02]]"
-  - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03]]"
 sources:
   - "[[sources/RoyalSociety_2026_ScienceForSociety/RoyalSociety_2026_ScienceForSociety|RoyalSociety_2026_ScienceForSociety]]"
 part_of:
@@ -167,7 +174,7 @@ updated: 2026-09-03
 > - **导论与宏观背景（pp. 1–15）** 确立 40 年演进脉络，分析数字时代、虚假信息与公众信任态势，提出全书总主张。
 > - **第 1 章 — Education（pp. 29–40）** 夯实全民[[Scientific Literacy|科学素养]]基础，聚焦科学本质理解、数据与 AI 素养、[[Practical Inquiry in Science Education|实验探究教学]]及 16–18 岁宽口径课程改革。
 > - **第 2 章 — Informal engagement with science（pp. 41–54）** 确立科学探索中心、科技馆、科学节与[[Citizen Science|公民科学]]作为社会文化基建的战略地位，破解地理不平等、场馆生存危机与建立长期队列追踪。
-> - **第 3 章 — Mass media and misinformation（pp. 55–66）** [[Argument_RoyalSociety_2026_ScienceForSociety_Ch03]] — 剖析在线信息环境、社交媒体算法推荐偏倚、科学新闻通稿源头夸大与虚假信息治理行为守则。
+> - **第 3 章 — Mass media and misinformation（pp. 55–66）** [[Argument_RoyalSociety_2026_ScienceForSociety_Ch03]] — 剖析在线信息环境、社交媒体算法推荐偏倚、[[Science Journalism|科学新闻]]通稿源头夸大与虚假信息治理行为守则。
 > - **第 4 章 — Industry and business sector / Third sector（pp. 67–78）** 待处理 — 探讨产业研发人员与慈善/患者组织的公众沟通实践与伦理考量。
 > - **第 5 章 — Policy（pp. 79–90）** 待处理 — 阐述政府科学咨询独立性、证据赋能决策与公众参与政策制定的机制。
 > - **第 6 章 — Academic scientific community（pp. 91–106）** 待处理 — 解构高校科研文化、职业晋升评价、专业技能培训与经费保障。
@@ -185,7 +192,7 @@ updated: 2026-09-03
 > |---|---|---|
 > | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|第1章 学校科学教育]] | 阐明科学教育作为公民科学素养与人才管道的基石，破除[[Rote Learning\|死记硬背]]公式，应对实验动手课时腰斩危机，破除高中过早文理分科并赋权科学师资。 | [[Scientific Literacy]]、[[Data Literacy]]、[[AI Literacy]]、[[Practical Inquiry in Science Education]]、[[Science Capital]]、[[Beyond 2000 Report]]、[[Twenty First Century Science]]、[[UK Science Education Tracker]] |
 > | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|第2章 校外科学参与]] | 确立非正式科学作为维系繁荣社会的必备文化基建，诊断 PAS 2025 信息渴求与决策边缘化落差，依托资产下沉与公民科学打破自选壁垒，化解场馆生存危机并建立国家长期队列追踪。 | [[Informal Science Learning]]、[[Citizen Science]]、[[Public Engagement with Science]]、[[Association for Science and Discovery Centres]]、[[Public Attitudes to Science]]、[[Dippy on Tour]]、[[Big Butterfly Count]]、[[The Perception Census]]、[[Cohort Study]] |
-> | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|第3章 大众传媒与虚假信息]] | 诊断数字算法分发与虚假信息扩散危机，揭示科学新闻夸大对高校新闻通稿的源头依赖，倡导解决方案新闻并制定科学传播行为守则。 | [[Scientific Misinformation]]、[[Science Media Centre]]、[[Public Attitudes to Science]]、[[Responsible Conduct of Research]]、[[Survey Research]]、[[Deficit Model of Science Communication]]、[[Generative Artificial Intelligence]] |
+> | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|第3章 大众传媒与虚假信息]] | 诊断数字算法分发与虚假信息扩散危机，揭示科学新闻夸大对高校新闻通稿的源头依赖，倡导[[Solutions Journalism\|解决方案新闻]]并制定科学传播行为守则。 | [[Scientific Misinformation]]、[[Science Media Centre]]、[[Public Attitudes to Science]]、[[Responsible Conduct of Research]]、[[Survey Research]]、[[Deficit Model of Science Communication]]、[[Generative Artificial Intelligence]] |
 
 ---
 

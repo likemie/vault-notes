@@ -11,7 +11,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 8
+fact_related_count: 9
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ tags:
   - theme/journalism
   - theme/research-integrity
 related_concepts:
+  - "[[Science Journalism]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Scientific Misinformation]]"
   - "[[Public Engagement with Science]]"
@@ -63,7 +64,7 @@ updated: 2026-09-03
 
 > [!policy-design]- SMC 三大旗舰业务支柱
 > - **1. 突发新闻快速专家点评（Roundups & Rapid Reactions）**
->   当具有争议或突发性质的科技新闻发生时，SMC 在数小时内联系数百位不同背景的一线权威专家，迅速整理并向全英各大主流报纸、电视台与网络媒体推送多视角的简明专业点评，确保首轮新闻报道具备严谨实证依据。
+>   当具有争议或突发性质的[[Science Journalism|科技新闻]]发生时，SMC 在数小时内联系数百位不同背景的一线权威专家，迅速整理并向全英各大主流报纸、电视台与网络媒体推送多视角的简明专业点评，确保首轮新闻报道具备严谨实证依据。
 > - **2. 焦点新闻简报会（News Briefings）**
 >   为前沿、高风险或极具公众争议的重大科研成果（如基因编辑、线粒体捐赠、气候危机模型）举办新闻吹风会，邀请首席科学家面对面接受跑口记者的严苛质询，澄清方法学局限与不确定性。
 > - **3. 科学家媒体素养赋能与记者支持（Before the Headlines）**
@@ -76,7 +77,7 @@ updated: 2026-09-03
 > [!evidence-grid] 重大争议议题中的中介成效
 > - **转基因生物公共争论（Genetically Modified Organisms, GMOs）** 彻底改变了 1990 年代末英国媒体对转基因技术普遍充斥的煽动性报道（如《每日邮报》等小报针对未评议普兹泰土豆实验炒作的“科学怪人食品”Frankenfoods 恐慌）。SMC 成立后，通过常态化汇集植物生物学、生态学与毒理学家的同行评议证据，使公共辩论从情绪化恐慌转向对粮食安全、生态风险与基因漂移的理性科学评估。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026, p. 56)]]
 > - **线粒体捐赠立法争议（Mitochondrial Donation）** 在英国国会辩论并表决是否批准“三亲婴儿”（Three-person IVF）线粒体替代疗法期间，SMC 协同纽卡斯尔大学科学家与患者家庭组织多轮专题吹风会，运用通俗图解帮助媒体准确理解人类 99.8% 遗传密码在细胞核 DNA 而线粒体仅占 0.2% 供能基因的生物学本质，消除了公众对“设计婴儿”的恐慌，为英国在全球率先合法化线粒体疗法奠定了理性的社会民意基石。
-> - **科学新闻官职能变迁调研（Jamison, 2022）** SMC 发布《科学新闻官角色变迁》专题报告，深度调研全英高校公关生态，揭示出在高校财政紧缩下新闻官深陷声誉风险与品牌营销多重过载、科学外联受挤压的体制困境。
+> - **[[Science Journalism|科学新闻]]官职能变迁调研（Jamison, 2022）** SMC 发布《科学新闻官角色变迁》专题报告，深度调研全英高校公关生态，揭示出在高校财政紧缩下新闻官深陷声誉风险与品牌营销多重过载、科学外联受挤压的体制困境。
 > - **COVID-19 大流行应对与全球推广** 在全球公共卫生危机中日夜无休向全球各大主流媒体分发数千条流行病学专家审评；其运营模式已被澳大利亚、新西兰、德国、加拿大、台湾等数十个国家和地区成功借鉴并复制。
 
 ---

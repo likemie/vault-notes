@@ -310,6 +310,16 @@
     ]
   },
   {
+    "title": "Science Journalism",
+    "type": "concept",
+    "path": "wiki/concepts/communication-discourse/Science Journalism.md",
+    "aliases": [
+      "科学新闻",
+      "专业科学新闻",
+      "科技新闻"
+    ]
+  },
+  {
     "title": "Scientific Misinformation",
     "type": "concept",
     "path": "wiki/concepts/communication-discourse/Scientific Misinformation.md",
@@ -317,6 +327,16 @@
       "科学虚假信息",
       "科学伪信息",
       "misinformation in science"
+    ]
+  },
+  {
+    "title": "Solutions Journalism",
+    "type": "concept",
+    "path": "wiki/concepts/communication-discourse/Solutions Journalism.md",
+    "aliases": [
+      "解决方案新闻",
+      "建设性新闻",
+      "建设性科学新闻"
     ]
   },
   {
