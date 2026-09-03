@@ -2,8 +2,10 @@
 title: Cognitive Shifting
 aliases:
   - 认知转换
-  - 认知灵活性
+  - 心理集合转换
+  - 任务切换
   - task switching
+  - set-shifting
 summary: "亦称认知灵活性或任务切换，指在多个任务、操作规则或心理集合之间切换的能力，是执行功能的核心成分之一。"
 type: concept
 domain: "learning-science-cognitive-science"

@@ -26,13 +26,18 @@ related_concepts:
   - "[[Divergent Thinking]]"
   - "[[Variable]]"
   - "[[Effect Size]]"
+  - "[[Cognitive Flexibility]]"
+  - "[[Incubation]]"
+  - "[[Brainstorming]]"
+  - "[[Lateral Thinking]]"
+  - "[[Synectics]]"
   - "[[Operationalization]]"
   - "[[Construct]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Literature Search]]"
   - "[[Document]]"
   - "[[Publication Bias]]"
   - "[[Standard Error]]"
-  - "[[Pre-test and Post-test]]"
   - "[[Heterogeneity]]"
   - "[[Hypothesis]]"
   - "[[Confidence Interval]]"
@@ -69,9 +74,8 @@ related_instruments:
   - "[[Creative Engineering Design Assessment]]"
   - "[[Remote Associates Test]]"
   - "[[Alternate Uses Test]]"
-  - "[[Originality Scale of Visual Metaphors]]"
-  - "[[Problem Solving Inventory]]"
   - "[[Emotional Creativity Inventory]]"
+  - "[[Originality Scale of Visual Metaphors]]"
   - "[[Evaluation of Potential for Creativity]]"
 related_persons: []
 related_facts: []
@@ -88,7 +92,7 @@ title: "Argument_Guo_2025_TSC"
 argument_key: "Argument_Guo_2025_TSC"
 argument_display_title: "Effect of training programs on the creativity of university students: A multi-level meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 50
+argument_related_count: 54
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -123,6 +127,8 @@ issuing_organization: ""
 > | 理论工具 | 解释功能 |
 > |---|---|
 > | **[[Creativity\|创造力多维可塑性理论]]** | 将创造力界定为涵盖认知加工、语言表达、视觉重组与情境问题解决的可塑心理潜能，打破天赋决定论，确立高等教育干预的理论前提。（pp.2–3） |
+> | **[[Cognitive Flexibility\|认知灵活性理论]]与无意识[[Incubation\|孕育效应]]** | 阐明思维训练通过突破心理固着与范畴转换激发发散思维，并依据孕育效应解释干预周期的倒 U 型演进规律（$< 2$ 个月最优  = 0.844$；Wallas, 1926；pp.2–3, 10）。 |
+> | **[[Brainstorming\|头脑风暴]]、[[Lateral Thinking\|侧向思维]]与[[Synectics\|提喻法]]** | 构成思维训练与发散构想的核心教学技法矩阵，通过打破常规神经认知凹槽、具身类比与解耦评价规约激发创造力（Gordon, 1961; de Bono, 1970; Osborn, 1953; pp.2–3, 10）。 |
 
 ### 核心变量与操作化编码表
 
@@ -133,7 +139,7 @@ issuing_organization: ""
 > | **图形创造力** | 借助视觉表征与空间拓扑重组新颖具象形态的图画创造能力。 | 典型工具包含 TTCT 图形版、[[Test for Creative Thinking-Drawing Production\|创造性思维绘画测验（Test for Creative Thinking-Drawing Production, TCT-DP）]]、[[Creative Engineering Design Assessment\|创意工程设计评估测验（Creative Engineering Design Assessment, CEDA）]]；代表研究如 West et al. (2012)、Morin et al. (2018)；$N = 27, g = 0.644$。 |
 > | **词汇创造力** | 基于字词语义进行快速远距离联想与新颖词汇重组的语言认知表现。 | 典型工具包含[[Remote Associates Test\|远距离联想测验（Remote Associates Test, RAT）]]、过泛思维任务（Over-Inclusive Thinking Task, OTT）；代表研究如 Chiu (2015)、Zitek & Vincent (2015)；$N = 16, g = 0.641$。 |
 > | **言语创造力** | 运用口头或书面语言生成丰富、多样且新颖观点与非常规用途的表达潜能。 | 典型工具包含[[Alternate Uses Test\|另类用途测验（Alternate Uses Test, AUT）]]、生成另类用途测验（Generation of Alternative Uses, GAU）、TTCT 言语版；代表研究如 Fink et al. (2015)、Lewis & Lovatt (2013)、Gu et al. (2023)；$N = 23, g = 0.606$。 |
-> | **问题解决** | 针对不良结构情境识别障碍、构思替代路径并实现目标突破的实践能力。 | 典型工具包含[[Originality Scale of Visual Metaphors\|视觉隐喻原创性量表（Originality Scale of Visual Metaphors, OSVM）]]、[[Problem Solving Inventory\|问题解决测验（Problem Solving Inventory, PSI）]]、词语重组测验（Word Reorganization Test, WRT）；代表研究如 Baruah & Paulus (2008)、O'Connor et al. (2016)；$N = 10, g = 0.539$。 |
+> | Baruah & Paulus (2008) | 美国（ = 48 / CG = 48$） | [[Divergent Thinking\|发散思维]]产出量；前[[Pre-test and Post-test\|后测]]设计（b: 替代训练） | 书面[[Brainstorming\|头脑风暴]]训练；< 1 周；小组协作 |
 > | **情绪创造力** | 个体体验、表达与调节独特、复杂且适切情绪模式的非认知创造潜能。 | 典型工具包含[[Emotional Creativity Inventory\|情绪创造力量表（Emotional Creativity Inventory, ECI）]]、主观运动体验量表（Subjective Exercise Experiences Scale, SEES）；代表研究如 Mahasneh & Gazo (2019)、Campion & Levita (2014)；$N = 9, g = 0.397$。 |
 > | **训练周期** | 干预方案实施的整体时间跨度，分为 $< 1$ 周、$< 2$ 个月、$< 4$ 个月、$< 1$ 年、$< 2$ 年、$< 3$ 年六个梯度。 | 短期密集工作坊至多学期长程课程；亚组分布 $N = 37, 30, 24, 9, 4, 5$；在元回归中解释 13.4% 组间方差。 |
 > | **训练方式** | 干预内容所依托的核心教学策略与认知路径，分为言语训练、思维训练、任务型训练、技术型训练、综合训练与情绪训练。 | 言语训练（$N = 15$）、思维训练（$N = 13$）、任务型训练（$N = 5$）、技术型训练（$N = 20$）、综合训练（$N = 54$）、情绪训练（$N = 2$）。 |
@@ -165,7 +171,7 @@ issuing_organization: ""
 > [!ref-table]- 纳入实证研究特征与干预方案清单（Table 4）
 > | 纳入研究（APA 格式） | 国别与样本构成 | 测量工具与实验设计 | 干预特征（训练方式 / 周期 / 组织形式） |
 > |---|---|---|---|
-> | Baruah & Paulus (2008) | 美国（$EG = 11 / CG = 11$） | [[Originality Scale of Visual Metaphors\|OSVM]]；实验组/对照组（a: 无训练） | 综合训练；< 1 周；小组协作 |
+> | Baruah & Paulus (2008) | 美国（ = 48 / CG = 48$） | 发散思维产出量；前后测设计（b: 替代训练） | 书面[[Brainstorming\|头脑风暴]]训练；< 1 周；小组协作 |
 > | Campion & Levita (2014) | 英国（$EG = 56 / CG = 56$） | SEES, [[Torrance Tests of Creative Thinking\|TTCT]]；实验组/对照组（b: 替代训练） | 言语训练；< 2 个月；独立练习 |
 > | Chiu (2015) | 中国台湾（$EG = 39 / CG = 39$） | OTT；实验组/对照组（b: 替代训练） | 综合训练；< 1 周；独立练习 |
 > | Fink et al. (2015) | 奥地利（$EG = 24 / CG = 29$） | [[Alternate Uses Test\|AUT]]；实验组/对照组（b: 替代训练） | 言语训练；< 2 个月；小组协作 |
@@ -178,7 +184,7 @@ issuing_organization: ""
 > | Morin et al. (2018) | 加拿大（$EG = 59 / CG = 59$） | [[Creative Engineering Design Assessment\|CEDA]]；前后测设计（c: 等待名单） | 技术型训练；> 1 年；独立练习 |
 > | O'Connor et al. (2016) | 澳大利亚（$EG = 62 / CG = 62$） | WRT；前后测设计（d: 情商训练） | 综合训练；< 1 周；独立练习 |
 > | Onarheim & Friis-Olivarius (2013) | 丹麦/加拿大（$EG = 50 / CG = 50$） | AUT；实验组/对照组（b: 替代训练） | 思维训练；< 2 个月；小组协作 |
-> | Oppezzo & Schwartz (2014) | 美国（$E = 48 / C = 48$） | AUT；实验组/对照组（b: 替代训练） | 综合训练；< 1 周；独立练习 |
+> | Oppezzo & Schwartz (2014) | 美国（ = 48 / C = 48$） | [[Alternate Uses Test\|AUT]]；实验组/对照组（b: 替代训练） | 散步动态[[Incubation\|孕育干预]]；< 1 周；独立练习 |
 > | Ritter & Mostert (2017) | 荷兰（$EG = 31 / CG = 31$） | AUT, [[Remote Associates Test\|RAT]]；前后测设计（b: 替代训练） | 技术型训练；< 1 周；小组协作 |
 > | Wang & Horng (2002) | 中国台湾（$EG = 21 / CG = 18$） | TTCT；实验组/对照组（b: 替代训练） | 思维训练；< 1 年；小组协作 |
 > | West et al. (2012) | 美国（$EG = 93 / CG = 93$） | TTCT；实验组/对照组（b: 替代训练） | 综合训练；< 1 年；小组协作 |
@@ -209,8 +215,8 @@ issuing_organization: ""
 >     D --> D1["创造性思维 g=0.671 与图形创造力 g=0.644 增益最强"]
 >     D --> D2["言语 g=0.606、词汇 g=0.641、问题解决 g=0.539 维持中等增益"]
 >     D --> D3["情绪创造力 g=0.397 响应相对偏弱"]
->     E --> E1["训练周期呈倒U型：<2个月最优 g=0.844 (解释13.4%组间方差)"]
->     E --> E2["训练方式效能分化：言语训练 g=0.998 与思维训练 g=0.762 最具优势"]
+>     E --> E1["训练周期呈倒U型：<2个月最优 g=0.844 (契合孕育反思周期) 契合孕育反思周期 (解释13.4%组间方差)"]
+>     E --> E2["训练方式效能分化：言语训练 g=0.998 与思维训练（塑造[[Cognitive Flexibility|认知灵活性]]）g=0.762 最具优势"]
 >     E --> E3["形式与对象特征：个人练习 g=0.682 优于小组协作 g=0.567；研究生高于本科生"]
 >     D1 & D2 & D3 & E1 & E2 & E3 --> F["实践与政策启示：优化课程周期、强化认知言语策略并推进协同机制"]
 > ```
@@ -341,7 +347,7 @@ issuing_organization: ""
 >
 > **核心操作规程与教学设计**
 > 1. **[[Mind Mapping|思维导图]]与视觉化拓扑重组** 运用[[Mind Mapping|思维导图]]与[[Concept Mapping|概念图]]将复杂的发散脉络显性可视化，训练多路径搜索策略。
-> 2. **侧向思维难题与逆向推理演练** 引入经典侧向思维难题（Lateral Thinking Puzzles），强迫学生跳出常规因果定势，从非常规视角切入问题。
+> 2. **[[Lateral Thinking|侧向思维]]难题与逆向推理演练** 引入经典侧向思维难题（Lateral Thinking Puzzles），强迫学生跳出常规因果定势，从非常规视角切入问题。
 >
 > **深层认知机制拆解**
 > - **[[Metacognition|元认知监控]]与固着解除** 通过[[Metacognition|元认知监控]]，学生能够实时觉察并抑制大脑自动化的陈规偏见，有效克服功能固着（Functional Fixedness）。
@@ -366,7 +372,7 @@ issuing_organization: ""
 > **典型实证循证支持** 该类别涵盖中美欧等十余所高校的学期创新创业课程与工作坊（如 Baruah & Paulus, 2008; Dow & Mayer, 2004; Gu et al., 2023; Karwowski & Soszynski, 2008; Lubart, 2014; West et al., 2012; Zampetakis et al., 2008 等，详见 Table 4 清单）。
 >
 > **核心操作规程与教学设计**
-> 1. **全要素融合设计** 课程通常集成了理论讲授、小组讨论、头脑风暴、即兴戏剧、冥想、[[Role-playing|角色扮演]]与身体活动等多种教学形态。
+> 1. **全要素融合设计** 课程通常集成了理论讲授、小组讨论、[[Brainstorming|头脑风暴]]、即兴戏剧、冥想、[[Role-playing|角色扮演]]与身体活动等多种教学形态。
 > 2. **多通道感官激活** 兼顾视觉图形、言语表达、动作体验与逻辑推演，力求全面覆盖大学生的多维创造力潜能。
 >
 > **深层认知机制拆解**

@@ -2916,6 +2916,19 @@
     ]
   },
   {
+    "title": "Incubation",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Incubation.md",
+    "aliases": [
+      "孕育效应",
+      "孵化期",
+      "酝酿效应",
+      "潜伏期",
+      "incubation effect",
+      "incubation period"
+    ]
+  },
+  {
     "title": "Independent Knowing",
     "type": "concept",
     "path": "wiki/concepts/educational-psychology/Independent Knowing.md",
@@ -4723,6 +4736,17 @@
     ]
   },
   {
+    "title": "Brainstorming",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Brainstorming.md",
+    "aliases": [
+      "头脑风暴",
+      "脑力激荡",
+      "智力激励法",
+      "脑力激荡法"
+    ]
+  },
+  {
     "title": "Classroom Debate",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Classroom Debate.md",
@@ -4966,6 +4990,17 @@
     ]
   },
   {
+    "title": "Lateral Thinking",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Lateral Thinking.md",
+    "aliases": [
+      "水平思考",
+      "侧向思维",
+      "横向思维",
+      "水平思维"
+    ]
+  },
+  {
     "title": "Learner-Centred Education",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Learner-Centred Education.md",
@@ -5160,6 +5195,18 @@
     ]
   },
   {
+    "title": "Synectics",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Synectics.md",
+    "aliases": [
+      "综联学",
+      "提喻法",
+      "分合法",
+      "戈登技术",
+      "创造性类比法"
+    ]
+  },
+  {
     "title": "Task Structure",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Task Structure.md",
@@ -5269,6 +5316,18 @@
     ]
   },
   {
+    "title": "Cognitive Flexibility",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Cognitive Flexibility.md",
+    "aliases": [
+      "认知灵活性",
+      "心智灵活性",
+      "认知转换能力",
+      "认知弹性",
+      "mental flexibility"
+    ]
+  },
+  {
     "title": "Cognitive Inhibition",
     "type": "concept",
     "path": "wiki/concepts/learning-science-cognitive-science/Cognitive Inhibition.md",
@@ -5294,8 +5353,10 @@
     "path": "wiki/concepts/learning-science-cognitive-science/Cognitive Shifting.md",
     "aliases": [
       "认知转换",
-      "认知灵活性",
-      "task switching"
+      "心理集合转换",
+      "任务切换",
+      "task switching",
+      "set-shifting"
     ]
   },
   {
