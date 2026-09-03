@@ -10,7 +10,7 @@ summary: "比较两组或多组均值差异的推断统计方法族，包括ANOV
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 14
+method_related_count: 15
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -35,7 +35,8 @@ related_methods:
   - "[[t-test]]"
   - "[[Experimental Research]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Parliamentary Office of Science and Technology]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
 confidence: medium
@@ -60,7 +61,7 @@ updated: 2026-07-13
 2. 检查正态分布[[Hypothesis|假设]]和方差同质性假设。
 3. 计算 F 统计量 = 组间均方 / 组内均方。
 4. 比较 p 值与预设显著性水平（通常为 .05）。
-5. 若 ANOVA 结果显著，进行事后比较（post hoc tests）以确定哪些组之间存在差异。
+5. 若 ANOVA 结果显著，进行事后比较（[[Parliamentary Office of Science and Technology|POST]] hoc tests）以确定哪些组之间存在差异。
 6. 报告[[Effect Size|效应量]]（如 η² 或 Cohen's d）和[[Confidence Interval|置信区间]]以评估实际意义。
 
 ## 方法变体

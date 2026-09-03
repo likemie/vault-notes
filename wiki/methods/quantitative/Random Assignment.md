@@ -11,9 +11,9 @@ summary: "将受试者按概率均等原则分配到实验处理条件中，以�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 39
-method_related_level: 4
-method_related_stars: "⭐⭐⭐⭐"
+method_related_count: 40
+method_related_level: 5
+method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/experimental
@@ -58,6 +58,7 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
 related_persons: []
 related_facts:
+  - "[[Parliamentary Office of Science and Technology]]"
   - "[[Education Endowment Foundation]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
@@ -128,7 +129,7 @@ updated: 2026-07-13
 > 2. **生成随机分配序列** 使用随机数生成器、计算机算法或随机数表，为每个进入实验的受试者（或学校）生成概率均等的分配指令。
 > 3. **隐蔽分配与实施** 确保分配序列对受试者和一线执行人员隐蔽（如可能，实施单盲或双盲），将受试者依次分派入组。
 > 4. **基线平衡检验 (Baseline Balance Test)** 在实验开始[[Pre-test and Post-test|前测]]量并比对干预组与控制组的前测成绩（Pre-test）及关键特征，检验随机化是否成功消除组间系统性差异。
-> 5. **后测与净效应估计** 在干预结束后测量后测成绩（Post-test），计算并报告[[Effect Size|效应量]]（ES）。
+> 5. **后测与净效应估计** 在干预结束后测量后测成绩（[[Parliamentary Office of Science and Technology|POST]]-test），计算并报告[[Effect Size|效应量]]（ES）。
 
 ### 量化方法模块
 

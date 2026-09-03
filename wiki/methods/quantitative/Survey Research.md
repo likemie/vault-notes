@@ -9,7 +9,7 @@ summary: "通过研究样本以提供总体趋势、态度或意见的量化或�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 60
+method_related_count: 62
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -80,13 +80,15 @@ related_methods:
 related_persons: []
 related_facts:
   - "[[Public Attitudes to Science]]"
+  - "[[Parliamentary Office of Science and Technology]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety]]"
+  - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05]]"
 confidence: medium
 status: draft
 created: 2026-05-30
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Survey Research
@@ -315,7 +317,7 @@ Dillman（2007）建议按顺序跟进：（a）10 天后向无回应者发送�
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026)]] — 综合运用[[Public Attitudes to Science|英国公众对科学态度调查]]（PAS 2025，全国代表性成年抽样 $N = 5,281$）及科研人员参与[[Questionnaire|问卷调查]]的大样本定量数据，全面评估数字智能环境下公众科学信息获取渠道、真实性信任度以及学术共同体开展公众参与面临的体制性阻碍。
+> - [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026)]] — 综合运用[[Public Attitudes to Science|英国公众对科学态度调查]]（PAS 2025，全国代表性成年抽样 $N = 5,281$）及科研人员参与[[Questionnaire|问卷调查]]的大样本定量数据，全面评估数字智能环境下公众科学信息获取渠道、真实性信任度以及学术共同体开展公众参与面临的体制性阻碍；并在[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|第五章]]中委托 YouGov 对 108 名英国国会议员（MPs）开展专属问卷调查，定量揭示立法决策者在科学信源选择上的偏误结构（55% 依赖智库 vs 仅 22% 依赖[[Parliamentary Office of Science and Technology|议会科学技术办公室]]），并测度公众对科学政策民主咨询的强烈诉求。
 
 
 

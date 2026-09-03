@@ -9,7 +9,7 @@ summary: "美国混合方法研究方法论学者，密歇根大学家庭医学�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 12
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -35,6 +35,7 @@ related_persons:
   - "[[J. David Creswell]]"
 related_facts:
   - "[[Mixed Methods International Research Association]]"
+  - "[[Scientific Advisory Group for Emergencies]]"
 related_arguments: []
 confidence: medium
 status: draft
@@ -67,7 +68,7 @@ updated: '2026-06-08'
 
 > [!abstract]
 > - Creswell, J. W., & [[J. David Creswell|Creswell, J. D.]] (2022). *Research Design: Qualitative, Quantitative, and Mixed Methods Approaches* (6th ed.). [[Sage]] Publications. — 系统比较三种研究路径的研究设计教材，已出至第六版。
-> - Creswell, J. W., & Poth, C. N. (2018). *Qualitative Inquiry and Research Design: Choosing Among Five Approaches* (4th ed.). SAGE Publications. — 五种[[Qualitative Research|质性研究]]路径的比较与操作指南，获 McGuffey Longevity Award。
+> - Creswell, J. W., & Poth, C. N. (2018). *Qualitative Inquiry and Research Design: Choosing Among Five Approaches* (4th ed.). [[Scientific Advisory Group for Emergencies|SAGE]] Publications. — 五种[[Qualitative Research|质性研究]]路径的比较与操作指南，获 McGuffey Longevity Award。
 > - Creswell, J. W. (2014). *A Concise Introduction to [[Mixed Methods Research]]*. SAGE Publications. — 混合方法研究的简明入门读本。
 
 ## 核心思想

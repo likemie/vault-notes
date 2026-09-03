@@ -37,11 +37,12 @@ related_concepts:
   - "[[Interaction Effect]]"
   - "[[Growth]]"
   - "[[Reliability]]"
-  - "[[Face Validity]]"
-  - "[[Construct Validity]]"
-  - "[[Convergent and Discriminant Validity]]"
-  - "[[Split-Half Reliability]]"
   - "[[Hypothesis]]"
+  - "[[Face Validity]]"
+  - "[[Convergent and Discriminant Validity]]"
+  - "[[Null Hypothesis]]"
+  - "[[Falsification]]"
+  - "[[Split-Half Reliability]]"
   - "[[Engagement in and with Research]]"
   - "[[Heterogeneity]]"
   - "[[Questionnaire]]"
@@ -53,17 +54,17 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Multivariate Analysis of Variance]]"
   - "[[Action Research]]"
+  - "[[Analysis of Variance]]"
   - "[[Scale Development]]"
   - "[[Content Validity Index]]"
   - "[[Exploratory Factor Analysis]]"
   - "[[Confirmatory Factor Analysis]]"
   - "[[Average Variance Extracted]]"
   - "[[Composite Reliability]]"
-  - "[[Analysis of Variance]]"
-  - "[[KMO and Bartlett's Test of Sphericity]]"
   - "[[Model Fit Indices in SEM and CFA]]"
-  - "[[McDonald's Omega]]"
   - "[[Cronbach's Alpha]]"
+  - "[[McDonald's Omega]]"
+  - "[[Pearson Product-Moment Correlation]]"
 related_instruments:
   - "[[Research Literacy Scale for Teachers]]"
 related_facts:
@@ -82,7 +83,7 @@ title: "Argument_Kazanci_Tinmaz_Sezgin_2023_SO"
 argument_key: "Argument_Kazanci_Tinmaz_Sezgin_2023_SO"
 argument_display_title: "Development of the Research Literacy Scale for Teachers"
 argument_kind: "journal-article"
-argument_related_count: 49
+argument_related_count: 50
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -132,7 +133,7 @@ journal: "SAGE Open"
 > | **追踪教育学术期刊**<br>（Following Scientific Journals about Education, FSJE, 自变量/分类变量） | 教师是否持续追踪与阅读与教育相关的学术科研期刊（二分类：是／否）。 | 调查题项“是否追踪教育类学术期刊”，作为[[Multivariate Analysis of Variance\|多变量方差分析]]（MANOVA）[[Independent Variable\|自变量]]。（p.7, p.12） |
 > | **实际从事研究**<br>（自变量/分类变量） | 教师是否曾亲身参与科研项目、[[Research Proposal\|课题申报]]、[[Action Research\|行动研究]]或研究生学位论文研究（二分类：是／否）。 | 调查题项“是否曾开展科研”，作为 MANOVA 自变量。 |
 >
-> **图表解读** 概括本表如何界定核心变量：将研究素养系统分解为意识、态度、技能、使用 4 个递进子维度，并建立追踪期刊与从事研究两项外在行为自变量，为后续多变量方差分析提供清晰的因果探究架构。
+> **图表解读** 概括本表如何界定核心变量：将[[Research Literacy|研究素养]]系统分解为意识、态度、技能、使用 4 个递进子维度，并建立追踪期刊与从事研究两项外在行为自变量，为后续多变量[[Analysis of Variance|方差分析]]提供清晰的因果探究架构。
 
 ---
 
@@ -182,9 +183,9 @@ journal: "SAGE Open"
 ### 论证步骤一　基于行为理论建构操作化构念，通过探索性因子分析确立四因子精简结构与知觉控制核心地位
 
 > [!claim] 步骤一主张
-> 教师[[Research Literacy|研究素养]]并非单一技术维度的技能测验，而是一个由研究意识、研究态度、研究技能与[[Research Utilization|研究使用]]构成的多维结构；其中研究技能作为知觉行为控制变量解释了高达 46.90% 的绝大部分方差，构成态度向实践转化的核心控制枢纽；经探索性因子分析精简所得的 20 题量表具备优良的测量稳定性与结构代表性。（pp.5–7）
+> 教师[[Research Literacy|研究素养]]并非单一技术维度的技能测验，而是一个由研究意识、研究态度、研究技能与[[Research Utilization|研究使用]]构成的多维结构；其中研究技能作为知觉行为控制[[Variable|变量]]解释了高达 46.90% 的绝大部分方差，构成态度向实践转化的核心控制枢纽；经[[Exploratory Factor Analysis|探索性因子分析]]精简所得的 20 题量表具备优良的测量稳定性与结构代表性。（pp.5–7）
 
-> [!dimension] 教师研究素养的四维构念拆解
+> [!dimension] 教师研究素养的四维[[Construct|构念]]拆解
 > - **研究技能（Research Skills）**
 >   教师在检索[[Document|文献]]、研读报告、解读统计图表及开展课堂探究上的实际操作能力与知觉行为控制。（解释 46.90% 方差）(p. 6)
 > - **研究态度（Attitude toward Research）**
@@ -194,11 +195,11 @@ journal: "SAGE Open"
 > - **研究意识（Research Awareness）**
 >   教师对科研主题构成、发表渠道、前沿动态及专业阅读先验认知的敏锐度与知识准备。（解释 3.80% 方差）
 
-> [!proc] 量表编制与题池纯化五阶段程序
-> 1. **文献构念提炼与初始题池编制** 基于 TPB 与 Weiss 模型编写 56 题初始题池，全面覆盖意识、态度、技能与使用四大理论领域。
-> 2. **同行专家内容效度评审** 组织 5 位教育学专家运用[[Content Validity Index|内容效度指数（CVI）]]与 Lawshe CVR 逐题打分，剔除表述模糊题项。
+> [!proc] [[Scale Development|量表编制]]与题池纯化五阶段程序
+> 1. **文献构念提炼与初始题池编制** 基于 [[Theory of Planned Behavior|TPB]] 与 Weiss 模型编写 56 题初始题池，全面覆盖意识、态度、技能与使用四大理论领域。
+> 2. **同行专家[[Content Validity|内容效度]]评审** 组织 5 位教育学专家运用[[Content Validity Index|内容效度指数]]（CVI）与 Lawshe CVR 逐题打分，剔除表述模糊题项。
 > 3. **一线教师可读性预试修正** 邀请 12 位中小学教师与学校管理者对题意清晰度与作答负荷进行定性评估与语言润色。
-> 4. **样本 1 现场施测与初筛净化** 在样本 1（$N=310$）施测，剔除 3 个题总相关低于 $.30$ 的题项，[[KMO and Bartlett's Test of Sphericity|KMO 系数]]达 $.966$，[[KMO and Bartlett's Test of Sphericity|Bartlett 球形检验]]极显著（$\chi^2 = 14332.69, p < .001$）。
+> 4. **样本 1 现场施测与初筛净化** 在样本 1（$N=310$）施测，剔除 3 个题总相关低于 $.30$ 的题项，KMO 系数达 $.966$，Bartlett 球形检验极显著（$\chi^2 = 14332.69, p < .001$）。
 > 5. **公因子提取与载荷精简** 采用 PAF 主轴因子提取与 Varimax 正交旋转，依据载荷 $> .32$ 且跨载荷差值 $> .10$ 准则精简保留 20 题。
 
 > [!example]- 图1：[[Scale Development|量表编制]]流程图
@@ -229,11 +230,11 @@ journal: "SAGE Open"
 > | | B7 | .706 | .667 | 了解科学研究成果发表的具体渠道与阵地 |
 > | | B4 | .465 | .444 | 对教育科研领域的前沿动态保持敏锐关注 |
 >
-> **图表解读** 说明该表揭示的核心结构、载荷特征及对知觉行为控制理论假设的支撑意义：
-> - **知觉行为控制的方差压倒性优势** 技能因子单独解释了近半数方差（$46.90\%$），远超态度（$7.20\%$）与使用（$4.60\%$）。这一悬殊对比证实了 TPB 的核心假说：阻碍教师开展与使用科研的最大壁垒并非缺乏积极态度，而是对文献综述与数据解读等技术操作的知觉控制感缺失；
+> **图表解读** 说明该表揭示的核心结构、载荷特征及对知觉行为控制理论[[Hypothesis|假设]]的支撑意义：
+> - **知觉行为控制的方差压倒性优势** 技能因子单独解释了近半数方差（$46.90\%$），远超态度（$7.20\%$）与使用（$4.60\%$）。这一悬殊对比证实了 TPB 的核心假说：阻碍教师开展与使用科研的最大壁垒并非缺乏积极态度，而是对[[Literature Review|文献综述]]与数据解读等技术操作的知觉控制感缺失；
 > - **技能维度的核心载荷锚定** B51（文献检索综述，.795）与 B52（同行研讨，.785）载荷最高，表明文献驾驭与学术对话能力是教师科研知觉控制的核心表征；
 > - **态度的纯粹性与高收敛** B2（职业成长重要性，.898）展现出极高的共同度（.853），确立了态度维度的极强收敛性；
-> - **使用的多场景覆盖** 从宏观教学规划（B19）、教学法更新（B10）到微观备课（B17）与反思（B20），题项全面覆盖了工具性使用与概念性使用场景；
+> - **使用的多场景覆盖** 从宏观教学规划（B19）、教学法更新（B10）到微观备课（B17）与反思（B20），题项全面覆盖了[[Conceptual, Instrumental, and Symbolic Use of Research|工具性使用]]与概念性使用场景；
 > - **无跨载荷污染** 所有 20 题在非目标因子上的载荷均低于 $.30$ 且跨载荷差值均大于 $.10$，证实量表具备优良的[[Face Validity|表面效度]]与结构代表性。（pp.6–7）
 
 > [!warrant]- 推理桥梁
@@ -244,7 +245,7 @@ journal: "SAGE Open"
 ### 论证步骤二　通过验证性因子分析确立二阶因子模型，确立构念信效度与跨性别严格测量等值性
 
 > [!claim] 步骤二主张
-> 在全新独立样本中，竞争模型选拔证实单因子模型严重失效，而二阶高阶因子模型拟合优异，证实四维度归属于一个统摄性的全局研究素养构念；量表收敛效度、区分效度与复合信度体系完备；跨性别严格[[Measurement Invariance|测量等值性]]的确立为后续无偏跨群体比较奠定了坚实基础。（pp.7–12）
+> 在全新独立样本中，竞争模型选拔证实单因子模型严重失效，而二阶高阶因子模型拟合优异，证实四维度归属于一个统摄性的全局研究素养构念；量表[[Convergent and Discriminant Validity|收敛效度]]、区分效度与[[Composite Reliability|复合信度]]体系完备；跨性别严格[[Measurement Invariance|测量等值性]]的确立为后续无偏跨群体比较奠定了坚实基础。（pp.7–12）
 
 > [!example]- 图2：[[Research Literacy Scale for Teachers|RLS]] 一阶四因子模型标准化路径图
 > ![](https://img.mylikemie.icu/sources/Kazanci_Tinmaz_Sezgin_2023_SO/figures/Kazanci_Tinmaz_Sezgin_2023_SO_Fig2_First_Order_Model.jpg)
@@ -252,25 +253,25 @@ journal: "SAGE Open"
 > [!example]- 图3：RLS 二阶因子结构标准化路径图
 > ![](https://img.mylikemie.icu/sources/Kazanci_Tinmaz_Sezgin_2023_SO/figures/Kazanci_Tinmaz_Sezgin_2023_SO_Fig3_Second_Order_Model.jpg)
 
-> [!ref-table]- 表3：[[Confirmatory Factor Analysis|验证性因子分析]][[Model Fit Indices in SEM and CFA|模型拟合指数体系]]对比（N=258）
+> [!ref-table]- 表3：[[Confirmatory Factor Analysis|验证性因子分析]][[Model Fit Indices in SEM and CFA|模型拟合指数]]体系对比（N=258）
 >
 > | 模型设定 | $\chi^2(df)$ | $\chi^2/df$ | RMSEA [90% CI] | SRMR | NNFI/TLI | CFI | 模型判定与理论结论 |
 > |---|---|---|---|---|---|---|---|
-> | **单因子模型** | 1060.05 (209) | 5.07 | 0.126 [.118, .134] | 0.081 | 0.72 | 0.75 | 拟合恶劣，彻底拒绝单维无差异假设 |
+> | **单因子模型** | 1060.05 (209) | 5.07 | 0.126 [.118, .134] | 0.081 | 0.72 | 0.75 | 拟合恶劣，彻底拒绝单维[[Null Hypothesis\|无差异假设]] |
 > | **一阶四因子（初始）** | 421.67 (164) | 2.57 | 0.078 [.069, .088] | 0.069 | 0.90 | 0.91 | 拟合基本达标 |
 > | **一阶四因子（修正）** | 316.25 (163) | **1.94** | **0.060** [.050, .070] | **0.068** | **0.93** | **0.94** | 拟合优异（释放 S5–S6 误差协方差） |
 > | **二阶因子（初始）** | 436.94 (166) | 2.61 | 0.080 [.071, .089] | 0.071 | 0.90 | 0.91 | 拟合可接受 |
 > | **二阶因子（修正）** | 336.15 (165) | **2.11** | **0.064** [.054, .074] | **0.070** | **0.93** | **0.94** | 拟合优异，确立二阶高阶理论构念 |
 >
 > **图表解读** 说明模型选拔与二阶统整结构的经验证实：
-> - **单因子模型的彻底证伪** 单因子模型拟合恶劣（$\chi^2/df=5.07, \text{RMSEA}=0.126, \text{CFI}=0.75$），彻底推翻了将研究素养视为单一无差别特质的朴素假设；
+> - **单因子模型的彻底[[Falsification|证伪]]** 单因子模型拟合恶劣（$\chi^2/df=5.07, \text{RMSEA}=0.126, \text{CFI}=0.75$），彻底推翻了将研究素养视为单一无差别特质的朴素假设；
 > - **模型修正的理论依据** 修正模型释放 S5（同行研讨）与 S6（成果分享）两题的残差协方差，具有充分的专业教研互动语义关联支持，符合 Byrne 修正规范；
 > - **二阶统整结构的心理测量学价值** 二阶修正模型拟合优异（$\chi^2/df=2.11, \text{RMSEA}=0.064, \text{CFI}=0.94, \text{TLI}=0.93$），证实 4 个子维度共享一个高阶全局特质，为研究者在实践中**既可使用 4 个分维度得分、又可直接加总计算全量表总分**提供了坚实的数理合法性。（pp.9–10）
 
 > [!evidence-grid] 构念收敛效度、区分效度与复合信度检验
-> - **收敛效度全面达标** 4 个分维度的[[Average Variance Extracted|平均方差抽取量（AVE）]]介于 $.50 \sim .56$，均达到并超越 $.50$ 基准，证实潜变量解释的指标变异大于测量误差。（p. 9）
+> - **收敛效度全面达标** 4 个分维度的[[Average Variance Extracted|平均方差抽取量]]（AVE）介于 $.50 \sim .56$，均达到并超越 $.50$ 基准，证实潜变量解释的指标变异大于测量误差。（p. 9）
 > - **区分效度完全确立** 各维度的 AVE 均大于该维度与其他维度之间的决定系数（共享方差 $r^2$ 为 $.31 \sim .59$），完全满足 Fornell-Larcker 区分效度准则。
-> - **信度指标卓越** 总量表 [[Cronbach's Alpha|Cronbach's α]]（$\alpha = .94$）、[[McDonald's Omega|McDonald's ω]]（$\omega = .95$）、[[Split-Half Reliability|折半信度]]（$= .91$）；各分量表 $\alpha$ 介于 $.83 \sim .90$，$\omega$ 介于 $.75 \sim .90$，[[Composite Reliability|组合信度（CR）]]介于 $.75 \sim .90$。（p. 11）
+> - **信度指标卓越** 总量表 [[Cronbach's Alpha|Cronbach's α]]（$\alpha = .94$）、[[McDonald's Omega|McDonald's ω]]（$\omega = .95$）、[[Split-Half Reliability|折半信度]]（$= .91$）；各分量表 $\alpha$ 介于 $.83 \sim .90$，$\omega$ 介于 $.75 \sim .90$，组合信度（CR）介于 $.75 \sim .90$。（p. 11）
 
 > [!ref-table]- 表4：分量表相关矩阵、平均方差抽取量（AVE）与组合信度（CR）（N=258）
 >
@@ -282,7 +283,7 @@ journal: "SAGE Open"
 > | **4. 研究意识** | .55 | .37 | .55 | 1 | **.56** | **.83** | .83 | .83 |
 > | **总量表 RLS** | — | — | — | — | — | — | **.94** | **.95** |
 >
-> *注：矩阵右上角为皮尔逊积差相关系数（$r$），左下角为决定系数（$r^2$）；** $p < .01$。*
+> *注：矩阵右上角为皮尔逊[[Pearson Product-Moment Correlation|积差相关]]系数（$r$），左下角为决定系数（$r^2$）；** $p < .01$。*
 >
 > **图表解读** 概括分量表相关与心理测量指标表现：各维度间呈显著中高度正相关（$r = .56 \sim .77$），且 AVE 普遍大于共享方差 $r^2$（仅技能与使用稍高但依然收敛），确立了优良的收敛与区分效度；$\omega$ 与 $\alpha$ 高度吻合，证实指标载荷具备高同质性。（p. 11）
 
@@ -330,7 +331,7 @@ journal: "SAGE Open"
 > [!factors] 期刊追踪与开展科研对研究素养的双轨赋能机制
 > - **亲身开展科研（输出型赋能）** 对研究技能产生最强主效应（$F = 15.02, p < .001, \text{partial } \eta^2 = .056$），其次为使用（$\eta^2 = .031$）、意识（$\eta^2 = .028$）与态度（$\eta^2 = .018$）。证实亲身从事课题研究是构建教师知觉控制感、突破技术实操壁垒的核心引擎。
 > - **追踪教育学术期刊（输入型赋能）** 对研究使用产生最强主效应（$F = 12.11, p = .001, \text{partial } \eta^2 = .046$），其次为意识（$\eta^2 = .037$）与技能（$\eta^2 = .034$）；对态度维度无显著影响（$\eta^2 = .000$），证实文献输入的作用在于提供教学法灵感与证据支持，直接催化备课与反思使用。
-> - **双轨独立性与无交互效应** 在所有 4 个维度上两者的交互效应均不显著（$p > .27, \text{partial } \eta^2 \le .005$），证实阅读文献（输入）与亲身探究（输出）是两条平行作用、功能互补的独立赋能通道。（p. 13）
+> - **双轨独立性与无[[Interaction Effect|交互效应]]** 在所有 4 个维度上两者的交互效应均不显著（$p > .27, \text{partial } \eta^2 \le .005$），证实阅读文献（输入）与亲身探究（输出）是两条平行作用、功能互补的独立赋能通道。（p. 13）
 
 > [!ref-table]- 表6：期刊追踪与开展科研对研究素养的[[Multivariate Analysis of Variance\|MANOVA]] 方差分解结果
 >
@@ -387,7 +388,7 @@ journal: "SAGE Open"
 > [!stat-cards]- 核心数据
 > - **$62.602\%$** EFA 4 因子解释的总方差（技能 $46.90\%$，态度 $7.20\%$，使用 $4.60\%$，意识 $3.80\%$）。（p.6）
 > - **$\alpha = .94, \omega = .95$** 20 题 RLS 总量表的 [[Cronbach's Alpha|Cronbach's α]] 与 [[McDonald's Omega|McDonald's ω]] 复合[[Reliability|信度]]。（p.11）
-> - **$\chi^2/df = 1.94, \text{CFI} = 0.94, \text{RMSEA} = 0.060$** 一阶四因子修正模型的 [[Confirmatory Factor Analysis|CFA]] 拟合参数。（p.9）
+> - **$\chi^2/df = 1.94, \text{[[Model Fit Indices in SEM and CFA|CFI]]} = 0.94, \text{RMSEA} = 0.060$** 一阶四因子修正模型的 [[Confirmatory Factor Analysis|CFA]] 拟合参数。（p.9）
 > - **$\Delta\text{CFI} \le .003, \Delta\text{RMSEA} \le .003$** 跨性别严格等值性检验指标。（p.12）
 > - **$\eta^2 = .056$ 与 $\eta^2 = .046$** 开展科研对技能、追踪期刊对使用的最大[[Analysis of Variance|方差分析]]主效应。（p.13）
 

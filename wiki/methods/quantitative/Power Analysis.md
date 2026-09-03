@@ -10,7 +10,7 @@ summary: "一种在研究规划阶段用于估计检测特定效应量所需最�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 9
+method_related_count: 10
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -30,7 +30,8 @@ related_methods:
   - "[[Experimental Research]]"
   - "[[Quantitative Research]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Parliamentary Office of Science and Technology]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
 confidence: medium
@@ -83,7 +84,7 @@ updated: 2026-05-31
 > [!warning]
 > - 功效分析的输出质量取决于输入参数的合理性；如果预期[[Effect Size|效应量]]估计不准确，计算出的[[Sample Size Determination|样本量]]可能过大或过小。
 > - 仅基于过去研究的样本量或简单取总体的一定比例（如 10%）来确定样本量的做法不是最优的（Fowler, 2014; 引自 Creswell & Creswell, 2022, Ch8）。
-> - 事后功效分析（post hoc power analysis）在方法论上有争议，因此应在研究规划阶段而非数据收集后使用。
+> - 事后功效分析（[[Parliamentary Office of Science and Technology|POST]] hoc power analysis）在方法论上有争议，因此应在研究规划阶段而非数据收集后使用。
 
 ## 使用此方法的研究
 

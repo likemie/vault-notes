@@ -2455,6 +2455,17 @@
     ]
   },
   {
+    "title": "Post-Normal Science",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Post-Normal Science.md",
+    "aliases": [
+      "后常规科学",
+      "后常规科学问题",
+      "post-normal problems",
+      "PNS"
+    ]
+  },
+  {
     "title": "Practice-Based Evidence",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Practice-Based Evidence.md",
@@ -18931,6 +18942,16 @@
     ]
   },
   {
+    "title": "Government Office for Science",
+    "type": "fact",
+    "path": "wiki/facts/uk/Government Office for Science.md",
+    "aliases": [
+      "GO-Science",
+      "英国政府科学办公室",
+      "政府科学办公室"
+    ]
+  },
+  {
     "title": "Grammar School",
     "type": "fact",
     "path": "wiki/facts/uk/Grammar School.md",
@@ -18986,6 +19007,17 @@
     ]
   },
   {
+    "title": "Parliamentary Office of Science and Technology",
+    "type": "fact",
+    "path": "wiki/facts/uk/Parliamentary Office of Science and Technology.md",
+    "aliases": [
+      "POST",
+      "英国议会科学与技术办公室",
+      "议会科学技术办公室",
+      "POSTnote"
+    ]
+  },
+  {
     "title": "Public Attitudes to Science",
     "type": "fact",
     "path": "wiki/facts/uk/Public Attitudes to Science.md",
@@ -19019,6 +19051,18 @@
     ]
   },
   {
+    "title": "Rothschild Report 1971",
+    "type": "fact",
+    "path": "wiki/facts/uk/Rothschild Report 1971.md",
+    "aliases": [
+      "罗斯柴尔德报告",
+      "1971年罗斯柴尔德报告",
+      "The Rothschild Report",
+      "Customer-Contractor Principle",
+      "客户-承包商原则"
+    ]
+  },
+  {
     "title": "Science Learning Centres Network",
     "type": "fact",
     "path": "wiki/facts/uk/Science Learning Centres Network.md",
@@ -19042,6 +19086,18 @@
     ]
   },
   {
+    "title": "Scientific Advisory Group for Emergencies",
+    "type": "fact",
+    "path": "wiki/facts/uk/Scientific Advisory Group for Emergencies.md",
+    "aliases": [
+      "紧急情况科学咨询小组",
+      "英国紧急情况科学咨询小组",
+      "英国紧急科技顾问小组",
+      "UK SAGE",
+      "Independent SAGE"
+    ]
+  },
+  {
     "title": "Selective Schools Expansion Fund",
     "type": "fact",
     "path": "wiki/facts/uk/Selective Schools Expansion Fund.md",
@@ -19056,6 +19112,17 @@
     "path": "wiki/facts/uk/Strength in Places Fund.md",
     "aliases": [
       "英国地方优势基金"
+    ]
+  },
+  {
+    "title": "The Green Book",
+    "type": "fact",
+    "path": "wiki/facts/uk/The Green Book.md",
+    "aliases": [
+      "绿皮书",
+      "英国财政部绿皮书",
+      "HM Treasury Green Book",
+      "Treasury Green Book"
     ]
   },
   {
@@ -21204,6 +21271,11 @@
     "title": "Argument_RoyalSociety_2026_ScienceForSociety_Ch04",
     "type": "argument",
     "path": "wiki/arguments/reports-policy-documents/RoyalSociety_2026_ScienceForSociety/Argument_RoyalSociety_2026_ScienceForSociety_Ch04.md"
+  },
+  {
+    "title": "Argument_RoyalSociety_2026_ScienceForSociety_Ch05",
+    "type": "argument",
+    "path": "wiki/arguments/reports-policy-documents/RoyalSociety_2026_ScienceForSociety/Argument_RoyalSociety_2026_ScienceForSociety_Ch05.md"
   },
   {
     "title": "Argument_OxfordUIDP_2019_UIPartnerships",

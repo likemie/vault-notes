@@ -4,7 +4,7 @@ aliases: ["APA格式", "APA style manual", "Publication Manual of the APA", "APA
 summary: "美国心理学会出版手册规定的学术写作格式规范，社会科学领域最常用的格式手册，第7版在正文引用、参考文献、标题层级和包容性语言方面有重要更新"
 type: concept
 domain: "research-methodology"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -18,7 +18,8 @@ related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Scientific Advisory Group for Emergencies]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
 confidence: medium
@@ -50,7 +51,7 @@ APA 出版手册（Publication Manual of the American Psychological Association�
 
 ### 参考文献
 
-第7版不再需要标注出版社所在地。例如，不再写"Thousand Oaks, CA: [[Sage]]"，简化为"SAGE"。论文和报告的参考[[Document|文献]]格式提供了超过 100 个示例。
+第7版不再需要标注出版社所在地。例如，不再写"Thousand Oaks, CA: [[Sage]]"，简化为"[[Scientific Advisory Group for Emergencies|SAGE]]"。论文和报告的参考[[Document|文献]]格式提供了超过 100 个示例。
 
 ### 标题层级
 

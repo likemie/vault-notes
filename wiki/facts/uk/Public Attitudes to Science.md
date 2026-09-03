@@ -12,7 +12,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 20
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Deficit Model of Science Communication]]"
   - "[[Science Journalism]]"
   - "[[Solutions Journalism]]"
+  - "[[Dialogue in Education]]"
   - "[[Scientific Misinformation]]"
   - "[[Patient and Public Involvement]]"
   - "[[Science Capital]]"
@@ -46,6 +47,7 @@ related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04]]"
+  - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05]]"
 confidence: high
 status: draft
 created: 2026-08-22
@@ -98,6 +100,13 @@ updated: 2026-09-04
 > - **47% vs 87% 产业与大学科学家的公信力鸿沟** 公众对私营企业科学家的信任度从 2019 年的 57% 下滑至 2025 年的 47%；相比之下，对大学科学家的信任度高达 87%，反映出公众对产业追求商业利润动机的普遍戒心。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04|(The Royal Society, 2026, p. 69)]]
 > - **33% vs 80% 人工智能的社会信任赤字** 仅 33% 的受访者认同 AI 的利益大于风险；相比之下，公众对疫苗接种的利益认同度高达 80%，凸显出数据赋能新兴技术在社会接纳上面临严峻的公信力挑战。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04|(The Royal Society, 2026, p. 73)]]
 
+> [!stat-cards]- 核心数据（科学政策决策与公共咨询态度）
+> - **62% 诉求政府政策顺应公众关切** 62% 的受访公众认同政府决策应当顺应公众对科学技术的关切（16% 强烈认同，46% 倾向认同），仅 8% 明确反对。
+> - **仅 12% 认为公众充分参与了科技决策** 仅 12% 的公众感觉在重大科技决策中有充分发言权，而 42% 明确表示公众参与严重不足（34% 倾向反对，8% 强烈反对），呈现深刻的民主赤字。
+> - **76% 批评政府未做公众咨询努力** 超过四分之三（76%）的受访者认为政府在重大科技议题上“几乎没有付出任何努力”或“完全没有努力”去咨询公众意见。
+> - **75% 认同应由专家而非公众向政府建言** 75% 的公众认同“应由专家而非公众就科学发展的长远影响向政府提供专业咨询”（24% 强烈认同，51% 倾向认同），表明公众高度尊重专业科学专长，其核心诉求是建立顺应民意的透明决策机制而非民粹式外行指导。
+> - **63% 呼吁科技监管者必须与公众沟通** 63% 的公众认为监管科学技术的法定机构必须主动走向社会与公众沟通。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|(The Royal Society, 2026, Ch. 5, pp. 85–86)]]
+
 ---
 
 ## 政策与理论启示
@@ -107,6 +116,7 @@ updated: 2026-09-04
 > - **彻底废除单向[[Deficit Model of Science Communication|赤字模型]]** 仅 12% 的决策参与感表明，传统的单向普及模式已无法满足现代公民诉求，政府与科研机构必须在立项与决策初期引入公众审议（Public Deliberation）与双向协商机制。
 > - **强化[[Science Journalism|科学新闻]]护栏与解决方案倡导** 面对公众对冲突信息的困惑与仅 40% 的真实性感知，科学界需深化与新闻界合作，通过[[Solutions Journalism|建设性新闻]]提供希望与解决方案，并依托科学家 87% 的公信力重建健康的信息生态。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026, pp. 59–63)]]
 > - **重塑产业研发透明度与推进 AI 民主审议** 针对私企科学家仅 47% 的信任度与 AI 仅 33% 的利益认同度，产业界必须打破封闭研发与碎片化公关模式，依托 10% 政府采购《[[The Social Value Model|社会价值模型]]》等政策杠杆，将公众协商与以患者/用户为中心的参与机制深度内嵌于技术全生命周期。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04|(The Royal Society, 2026, pp. 69–73)]]
+> - **建立透明循证与前瞻公共[[Dialogue in Education|对话]]的治理闭环** 75% 的专家建言信任与 12% 的决策边缘化矛盾表明，公众既高度信赖科学家，又强烈渴望在政策全流程拥有知情权与参与感；政府必须告别暗箱操作，推行法定《科学证据陈述》（Scientific Evidence Statements），并在新兴颠覆性科技萌芽期常态化推行平权公共对话。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|(The Royal Society, 2026, Ch. 5, pp. 86–88)]]
 
 ---
 

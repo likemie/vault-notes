@@ -8,7 +8,7 @@ summary: "美国教育评价与方法论学者，与 Lincoln 合著 Naturalistic
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 11
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -31,7 +31,8 @@ related_methods:
   - "[[Quantitative Research]]"
 related_persons:
   - "[[Yvonna S. Lincoln]]"
-related_facts: []
+related_facts:
+  - "[[Scientific Advisory Group for Emergencies]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
 confidence: medium
@@ -49,7 +50,7 @@ updated: '2026-06-08'
 ## 主要著作
 
 - Guba, E. G., & [[Yvonna S. Lincoln|Lincoln, Y. S.]] (1989). *Fourth Generation Evaluation*. [[Sage]]. — 将[[Constructivist Paradigm|建构主义范式]]扩展至项目评价领域，提出第四代评价模型，强调利益相关者参与和协商。
-- Lincoln, Y. S., & Guba, E. G. (1985). *[[Interpretive Paradigm|naturalistic inquiry]]*. SAGE. — 系统建立自然主义探究[[Paradigm|范式]]，提出可信性四标准以替代传统量化信效度。
+- Lincoln, Y. S., & Guba, E. G. (1985). *[[Interpretive Paradigm|naturalistic inquiry]]*. [[Scientific Advisory Group for Emergencies|SAGE]]. — 系统建立自然主义探究[[Paradigm|范式]]，提出可信性四标准以替代传统量化信效度。
 
 ## 核心思想
 
