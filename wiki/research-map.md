@@ -28,7 +28,7 @@ related_methods:
     <a href="/wiki/persons"><span>人物</span><strong>214</strong></a>
     <a href="/wiki/theories"><span>理论</span><strong>127</strong></a>
     <a href="/wiki/methods"><span>方法</span><strong>217</strong></a>
-    <a href="/wiki/instruments"><span>测量工具</span><strong>52</strong></a>
+    <a href="/wiki/instruments"><span>测量工具</span><strong>54</strong></a>
   </div>
 
   <div class="research-map-grid">
