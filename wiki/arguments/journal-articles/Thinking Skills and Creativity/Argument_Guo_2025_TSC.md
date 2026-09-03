@@ -47,11 +47,13 @@ related_concepts:
   - "[[Mind Mapping]]"
   - "[[Concept Mapping]]"
   - "[[Metacognition]]"
+  - "[[SCAMPER]]"
   - "[[Executive Function]]"
   - "[[Critical Thinking]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Sample Size Determination]]"
-related_theories: []
+related_theories:
+  - "[[TRIZ]]"
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Three-Level Meta-Analysis]]"
@@ -86,7 +88,7 @@ title: "Argument_Guo_2025_TSC"
 argument_key: "Argument_Guo_2025_TSC"
 argument_display_title: "Effect of training programs on the creativity of university students: A multi-level meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 48
+argument_related_count: 50
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -352,7 +354,7 @@ issuing_organization: ""
 >
 > **核心操作规程与教学设计**
 > 1. **任务型——在真实造物中发散** 将学生置于真实的工程原型设计、跨学科工作坊或复杂社会问题情境中，以可交付的实体成果驱动创造性解决方案。
-> 2. **技术型——掌握外显创新算子工具** 系统讲授并演练发明问题解决理论（TRIZ）、SCAMPER 启发式创新技法（Substitute, Combine, Adapt, Modify, Put to other uses, Eliminate, Reverse）、形态分析矩阵等标准化技法。
+> 2. **技术型——掌握外显创新算子工具** 系统讲授并演练[[TRIZ|发明问题解决理论]]（TRIZ）、[[SCAMPER]] 启发式创新技法（Substitute, Combine, Adapt, Modify, Put to other uses, Eliminate, Reverse）、形态分析矩阵等标准化技法。
 >
 > **深层认知机制拆解**
 > - **结构化脚手架的支撑作用** 任务型与技术型均提供了具象的认知锚点，降低了发散思维启动时的无序迷茫感。

@@ -6,38 +6,53 @@ aliases:
   - Concept Map
   - Concept Maps
   - Conceptmapping
-summary: "包含显式命题节点、命题连接词与多节点网状交叉链接，用于结构化表征复杂领域知识与语义关系的认知建模工具"
+  - 命题网络
+summary: "包含显式概念节点、指示连线、命题连接词与跨分支横向交叉连接，用于结构化表征复杂领域知识与语义命题关系的高阶认知建模与评价工具。在有意义学习与科学教育中，它为深层知识整合提供严密语法，既是促学支架亦是诊断认知结构的评价工具。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 25
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/instruction
   - construct/cognitive-process
   - theme/higher-order-thinking
   - cognition/learning-science
+  - method/assessment
 related_concepts:
+  - "[[Formative Assessment]]"
   - "[[Mind Mapping]]"
+  - "[[Creativity]]"
   - "[[Argument Mapping]]"
+  - "[[Ontology]]"
   - "[[Divergent Thinking]]"
   - "[[Critical Thinking]]"
   - "[[Higher-Order Thinking Skills]]"
-  - "[[Creativity]]"
-related_theories: []
+  - "[[Variable]]"
+  - "[[Evaluative Validity]]"
+  - "[[Reliability]]"
+  - "[[Causality]]"
+  - "[[Graphic Organizer]]"
+  - "[[Working Memory]]"
+  - "[[Heterogeneity]]"
+  - "[[Prediction Interval]]"
+  - "[[Visible Learning]]"
+  - "[[Effect Size]]"
+  - "[[Dependent Variable]]"
+  - "[[Convergent Thinking]]"
+related_theories:
+  - "[[Cognitive Load Theory]]"
 related_methods:
   - "[[Meta-analysis]]"
-  - "[[Pairwise Wald Tests]]"
-related_instruments: []
-related_persons: []
-related_facts: []
+  - "[[Multiple-Choice Questions]]"
+  - "[[Meta-meta-analysis]]"
 related_arguments:
   - "[[Argument_Lei_Ding_Chiu_2026_ERR]]"
 confidence: high
-status: draft
+status: active
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-09-03
 ---
 
 # Concept Mapping
@@ -47,51 +62,66 @@ updated: 2026-08-25
 ## 定义
 
 > [!def] 核心定义
-> 概念图（Concept Mapping）是指由 Joseph Novak 基于大卫·奥苏贝尔（David Ausubel）有意义学习理论开发的高结构化空间语义网络表征工具。概念图由置于方框或圆圈中的概念节点（Concept Nodes）、指示方向的连接线（Directed Links）、标明概念间语义关系的命题连接词（Linking Words / Phrases）以及跨越不同知识分支的横向交叉连接（Cross-links）构成；两个概念节点与连接词共同构成一个完整可判断真伪的命题（Proposition），用于外显化表征复杂领域知识的层级结构与网状语义模型。[[Argument_Lei_Ding_Chiu_2026_ERR|(Lei et al., 2026, pp. 4, 9–10)]]
+> 概念图（Concept Mapping）是指由约瑟夫·诺瓦克（Joseph Novak）基于奥苏贝尔（David Ausubel）有意义学习理论开发的高结构化空间语义网络表征与评价工具。概念图由置于方框或圆圈中的概念节点（Concept Nodes）、指示方向的连接线（Directed Links）、标明概念间语义关系的命题连接词（Linking Words / Phrases）以及跨越不同知识分支的横向交叉连接（Cross-links）构成。两个概念节点与连接词共同构成一个完整可验证真伪的命题（Proposition），用于系统外显化复杂领域知识的层级包含结构与深层网状语义模型。[[Argument_Lei_Ding_Chiu_2026_ERR|(Lei et al., 2026, pp. 4, 9–10)]]; Novak & Gowin (1984)
 
 > [!concept-lens] 概念透镜
-> - **含义** 基于命题语法与交叉网络建构领域深层知识结构的高阶表征系统。
-> - **用途** 用于复杂科学概念建模、概念转变评估、深层有意义学习与课程知识网络整合。
-> - **边界** 概念图强调严格的命题语义连接与交叉整合，其内在网状复杂性高于单中心[[Mind Mapping|思维导图]]。
+> - **核心本质** 基于严格命题语法与交叉连接网络建构领域深层知识结构的高阶认知表征与诊断系统。
+> - **理论用途** 用于复杂科学概念建模、概念转变诊断、深层有意义学习、课程知识整合以及学习者内隐心理模型的[[Formative Assessment|形成性评价]]。
+> - **解释边界** 概念图强调命题关系的明确性与网状交叉整合，其内在认知开销与构图门槛显著高于单中心[[Mind Mapping|思维导图]]；若仅当作记忆工具使用，易引发非必要的外在认知负荷。
 
-> [!citation-card]- 关键表述
+> [!citation-card]- 关键表述：命题语法与认知开销权衡（Novak & Gowin, 1984; Lei et al., 2026; Nesbit & Adesope, 2006）
 > 概念图包含多节点交叉连接与严格的命题连接词，属于复杂网状语义表征工具；教学中用于复杂领域建模，虽然对概念理解有稳健促进，但较高的结构复杂度容易引发额外的外在认知负荷。[[Argument_Lei_Ding_Chiu_2026_ERR|(Lei et al., 2026, pp. 4, 11–12)]]
 >
-> *Concept maps organize ideas and their relations for greater understanding using multi-node networks with cross-links and linking phrases. However, their complex network structure can become unwieldy...*
+> 概念图的核心价值在于跨层级的横向交叉连接（Cross-links），它生动展现了学习者如何整合不同知识分支，是衡量深层有意义学习、概念转变与[[Creativity|创造性]]知识综合的最关键指标。Novak & Gowin (1984, pp. 15–18)
+>
+> [[Meta-analysis|元分析]]显示，无论是个体自主构建概念图还是学习预制概念图，均对知识保持（$d = 0.60$）与知识迁移（$d = 0.46$）产生中等至强效的显著促进，且学习者亲自动手建构概念图的增益显著高于单纯阅读图示。Nesbit & Adesope (2006, pp. 415–420)
+
+> [!boundary]- 概念边界辨析
+> - **不等于 [[Mind Mapping|思维导图]]（Mind Mapping）** 思维导图围绕单一中心呈树状辐射，分支上仅标注极简关键词，不强制要求连线关系词；概念图采用多中心网络拓扑，必须具备明确的命题连接词（如“导致”、“包含”、“转化为”）并强调跨分支交叉连线。
+> - **不等于 [[Argument Mapping|论证图]]（Argument Mapping）** 论证图依循非形式逻辑的论辩语法（主张、理由、保证、证据、反驳），强调推论链条的逻辑严密性与说服力；概念图关注概念之间的语义与[[Ontology|本体论]]关系，而非辩护与反驳。
+> - **不等于 计算机知识图谱（Knowledge Graph）** 知识图谱面向机器自动化处理与海量实体三元组索引；概念图面向人类学习者的认知同化、概念建构与心理模型显性化。
 
 ---
 
 ## 概念辨析
 
-> [!contrast-table] 概念图 vs [[Mind Mapping|思维导图]] vs [[Argument Mapping|论证图]]
-> | 比较维度 | 概念图（Concept Mapping） | 思维导图（[[Mind Mapping]]） | 论证图（[[Argument Mapping]]） |
+> [!contrast-table] 概念图 vs [[Mind Mapping|思维导图]] vs [[Argument Mapping|论证图]]系统辨析
+> | 比较维度 | **概念图（Concept Mapping）** | **思维导图（[[Mind Mapping]]）** | **论证图（[[Argument Mapping]]）** |
 > |---|---|---|---|
-> | **拓扑结构** | **多节点复杂网状**（包含双向交叉连线） | **单中心放射状树形**（放射性多级分支） | **树状/层级推论链**（主张—理由—证据） |
-> | **核心组织语法** | 概念节点 + 命题连接词 + 网状交叉链接 | 核心词 + 放射分支 + 色彩/图像 + 自由联想 | Toulmin 论证语法（主张、保证、反驳） |
-> | **内在认知开销** | **较高**（网状交叉连接容易带来视觉拥挤） | **最低**（规则极简，无复杂拓扑约束） | **中等**（规则明确，需验证逻辑严密性） |
+> | **拓扑结构** | **多中心复杂网状**（双向网状交叉连线） | **单中心放射状树形**（放射性多级分支） | **树状/层级推论链**（主张—理由—反驳） |
+> | **核心组织语法** | 概念节点 + 命题连接词 + 网状交叉链接 | 核心词 + 放射分支 + 色彩/图像 + 关键词 | Toulmin 论证语法（主张、保证、反驳） |
+> | **内在认知开销** | **较高**（网状交叉连接容易带来视觉拥挤） | **最低**（规则极简，无复杂拓扑约束） | **中等**（规则明确，需验证推论有效性） |
 > | **最适思维维度** | **概念整合** 与领域深层知识建模 | **[[Divergent Thinking\|发散思维]]** 与创意头脑风暴 | **[[Critical Thinking\|批判性思维]]** 与结构化论辩写作 |
-> | **[[Higher-Order Thinking Skills\|高阶思维]]促学效应** | **中等稳健促进（$g = 0.548$）** | **最强促进（$g = 1.041$）** | **强效促进（$g = 0.798$）** |
+> | **[[Higher-Order Thinking Skills\|高阶思维]]促学效应** | **中等稳健效应（$g = 0.548$）** | **最强促学效应（$g = 1.041$）** | **强效促进效应（$g = 0.798$）** |
+> | **评价诊断功能** | **极高**（精准诊断概念迷思与知识整合度） | 偏低（主要评价流畅性与独创性） | 中等（评价逻辑谬误与论证力度） |
 
 ---
 
 ## 核心要素
 
 > [!feature] 概念图的四大核心建构构件（Novak & Gowin, 1984）
-> 1. **概念节点（Concept Nodes）** 置于方框或圆圈中的核心概念术语（通常为名词或名词短语）。
-> 2. **命题连接词（Linking Words）** 写在有向连线上的关系词（如“导致”、“包含”、“转化为”、“作用于”），与相连节点共同构成完整命题。
-> 3. **层级结构（Hierarchical Structure）** 最宽泛、最包容的核心概念置于顶部，向下逐层展开更具象、更细分的次级概念。
-> 4. **交叉连接（Cross-links）** 连接不同知识分支概念节点的横向连线，表征跨领域的深层语义整合，是衡量深层理解与[[Creativity|创造性]]洞见的关键指标。
+> 1. **概念节点（Concept Nodes）** 置于矩形框或椭圆中的核心概念术语（通常为名词或专有名词），代表规则、事物或心理表象。
+> 2. **命题连接词（Linking Words / Phrases）** 标注在有向连接线上的动词或介词短语（如“由……构成”、“抑制”、“转化为”），与前后相连的节点共同构成语义命题。
+> 3. **层级结构（Hierarchical Topology）** 最具包容性、最上位的一般性概念置于图谱顶端，向下逐级派生更具体、更从属的具象概念。
+> 4. **横向交叉连接（Cross-links）** 连接不同知识分支概念节点的横向连接线，外显表征跨领域的概念融合与深层语义整合，是[[Creativity|创造性]]解决问题与概念转变的最关键特征。
 
-```mermaid
-flowchart TD
-    A["图形组织器 (Graphic Organizer)"] -->|包含| B["思维导图 (Mind Map)"]
-    A -->|包含| C["概念图 (Concept Map)"]
-    A -->|包含| D["论证图 (Argument Map)"]
-    B -->|最强赋能| E["发散思维 (Divergent Thinking)"]
-    C -->|结构化表征| F["命题网络 (Propositional Network)"]
-    D -->|精准支撑| G["论辩推理 (Argumentation)"]
-    F -.->|横向交叉连接| G
-```
+> [!logic-map]- 概念图的双重功能架构图：促学支架与诊断评价
+> ```mermaid
+> flowchart TD
+>     DOMAIN["复杂学科知识领域 / 劣构问题情境"] --> CM["概念图建模 (Concept Mapping)"]
+>     
+>     subgraph Syntax ["核心命题语法建构"]
+>         CM --> N1["上位概念节点 (Top Concepts)"]
+>         N1 -->|"垂直派生"| N2["次级概念节点 (Sub-concepts)"]
+>         N1 & N2 -->|"命题连接词 (Linking Words)"| PROP["完整语义命题 (Propositions)"]
+>         N2 -.->|"横向贯通"| CROSS["跨分支交叉连线 (Cross-links)"]
+>     end
+>     
+>     Syntax --> DUAL{"双重教育功能路径"}
+>     
+>     DUAL -->|"作为干预支架"| L1["促进有意义同化与概念迁移 (d = 0.60)<br>构建结构化心理模型"]
+>     DUAL -->|"作为评价工具"| L2["外显化认知结构与概念迷思<br>量规精准诊断概念发展水平"]
+> ```
 
 ---
 
@@ -105,32 +135,153 @@ flowchart TD
 > 交叉网状拓扑要求学习者在维护全局概念关系的同时标明局部命题语法，容易引发视觉拥挤并降低即时高阶加工的净效能。
 
 > [!claim] Novak; Nesbit & Adesope; Lei, Ding & Chiu
-> **概念图效能与认知负荷权衡命题** 在[[Meta-analysis|元分析]]中，概念图对学生[[Higher-Order Thinking Skills|高阶思维]]展现出高度稳健的显著促进作用（$g = 0.548, 95\%\text{ CI} = [0.403, 0.692]$），但显著低于[[Mind Mapping|思维导图]]（$g = 1.041, W = 28.56, p < .001$）与[[Argument Mapping|论证图]]（$g = 0.798, W = 13.98, p < .001$）。这一现象的理论根源在于：概念图的多中心网络拓扑和严格的关系连接词标注大幅增加了外在认知负荷，导致学习者在绘制与阅读过程中需花费大量心智资源维持视觉注意与语法对齐，从而略微削弱了对即时高阶思维生成的净增益。[[Argument_Lei_Ding_Chiu_2026_ERR|(Lei et al., 2026, pp. 4, 9–12)]]
+> **概念图效能与认知负荷权衡命题** 在[[Meta-analysis|元分析]]中，概念图对学生[[Higher-Order Thinking Skills|高阶思维]]展现出高度稳健的显著促进作用（$g = 0.548, 95\%\text{ CI} = [0.403, 0.692]$），但显著低于[[Mind Mapping|思维导图]]（$g = 1.041, W = 28.56, p < .001$）与论证图（$g = 0.798, W = 13.98, p < .001$）。这一现象的理论根源在于：概念图的多中心网络拓扑和严格的关系连接词标注大幅增加了外在认知负荷，导致学习者在绘制与阅读过程中需花费大量心智资源维持视觉注意与语法对齐，从而略微削弱了对即时发散创新的净增益。[[Argument_Lei_Ding_Chiu_2026_ERR|(Lei et al., 2026, pp. 4, 9–12)]]
+
+---
+
+### 命题二　横向交叉连接（Cross-links）是表征深层知识整合与概念转变的关键指标
+
+> [!concept-lens] 认知网络连通度与质的飞跃
+> 孤立的分支表明碎片化机械记忆；跨分支的交叉连接则标志着知识图式的深层同化与结构重组。
+
+> [!claim] Novak & Gowin; Ausubel
+> **交叉连接质性飞跃命题** 概念图不仅是学习支架，更是诊断学习者概念发展水平的“认知透视镜”。在概念图的定量评分标准中，交叉连接被赋予最高的权重分值。实证研究证实，在经历有意义学习与概念转变（Conceptual Change）后，学生的总概念节点数增长有限，但横向交叉连接数量呈爆发式增长，直接反映了学习者突破领域边界、实现概念远距离整合的深层理解水平。Novak & Gowin (1984); Novak (2002)
+
+---
+
+### 命题三　概念图作为形成性评价工具能准确捕获传统纸笔测验所掩盖的概念迷思
+
+> [!concept-lens] 评价功能（Outcome / Assessment [[Variable]]）与内隐模型显性化
+> [[Multiple-Choice Questions|选择题]]和问答题常被机械记忆技巧蒙蔽；概念图通过命题连接词将学生的真实错误认知暴露无遗。
+
+> [!claim] Barta et al.; Nesbit & Adesope; Schau et al.
+> **形成性诊断[[Evaluative Validity|评价效度]]命题** 当概念图作为结果评价变量使用时，通过让学生自主构建概念网络并依据命题有效性量规评分，能够以极高的[[Reliability|信度]]与效度检出学生对核心[[Causality|因果关系]]的“概念迷思（Misconceptions）”。传统客观测试中能够通过套用公式获得高分的学生，在要求用命题连接词解释概念间因果关系时往往暴露出断裂与逻辑倒错，证实了概念图作为深层认知评价工具的独特价值。Nesbit & Adesope (2006); Barta et al. (2022)
+
+---
+
+### 命题四　半结构化骨架图支架比全自主绘制更具认知经济性
+
+> [!concept-lens] 支架渐退与初学者认知保护
+> 初学者直接面对空白画布绘制复杂网状图容易产生认知过载；提供部分节点与框架的骨架图能实现最优促学。
+
+> [!claim] Nesbit & Adesope; Sweller
+> **支架渐退（Scaffold Fading）效能命题** 元分析表明，完全自主绘制概念图（$d = 0.64$）虽能带来深层反思，但学习开销巨大；对于低先验知识的初学者，采用“挖空填图（Fill-in-the-map）”或提供预设概念节点的半结构化骨架图，能够有效控制外在认知负荷，取得与全自主绘制相当甚至更高的知识迁移效果，待学生掌握基本命题语法后再逐步撤除外部支架。Nesbit & Adesope (2006)
+
+---
+
+### 命题总览
+
+> [!contrast-table] 所有命题归纳与理论边界
+> | 命题类型 | 核心理论断言 | 关键机制与调节变量 | 代表学者与实证依据 |
+> |---|---|---|---|
+> | **促学与负荷权衡** | 概念图对高阶思维促学稳健（$g = 0.548$），但受复杂网状结构外在负荷制约 | 拓扑复杂度高、命题连接词约束、视觉拥挤 | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] |
+> | **深层知识整合** | 横向交叉连接（Cross-links）是表征深层认知同化与概念转变的关键质性指标 | 跨分支概念重组、突破机械记忆壁垒 | Novak & Gowin (1984); Novak (2002) |
+> | **诊断评价效度** | 作为[[Formative Assessment\|形成性评价]]工具能准确暴露传统测试难以检出的内隐概念迷思 | 命题真伪判断、语义连线显性化、因果倒错诊断 | Nesbit & Adesope (2006); Barta et al. (2022) |
+> | **支架经济性** | 半结构化骨架图（Fill-in-the-map）能为初学者提供最优的认知负荷保护 | 支架渐退（Scaffold Fading）、知识基线调节 | 同上; Sweller (2011) |
 
 ---
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变脉络
-> - **1970s — Joseph Novak 创立概念图技术** 康奈尔大学研究团队基于 Ausubel 有意义学习理论开发概念图，用于追踪儿童科学概念的发展与转变。
-> - **1980s — 确立命题语法与交叉连接评估准则** Novak & Gowin 出版《Learning How to Learn》，确立包含层级、命题、交叉连接与具体实例的标准评分系统。
-> - **2000s — CmapTools 数字化建模平台开发** 佛罗里达人机认知研究所（IHMC）开发 CmapTools，推动概念图在全球科学教育与企业知识管理中的应用。
-> - **2020s — [[Meta-analysis|元分析]]多维对比与效能定位** [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] 与 Barta et al. (2022) 实证确立概念图对[[Critical Thinking|批判性思维]]与高阶认知的定量效能基准（$g = 0.548$）。
+> [!dev-timeline] 概念图理论与技术应用演进脉络
+> - **1970 年代　约瑟夫·诺瓦克创立概念图技术** 康奈尔大学团队基于 Ausubel 有意义学习理论开发概念图，用于长期追踪儿童在基础科学学习中的概念结构转变。
+> - **1984 年　确立命题语法与交叉连接评估体系** Novak & Gowin 出版专著《Learning How to Learn》，正式确立包含层级、命题、交叉连接与实例的标准四维评分规程。
+> - **2000 年代　CmapTools 数字化建模平台普及** 佛罗里达人机认知研究所（IHMC）开发 CmapTools 软件，推动概念图在全球科学教育、医学培训与企业知识管理中大规模落地。
+> - **2006 年　奠基性[[Meta-analysis|元分析]]确立促学效应基准** Nesbit & Adesope (2006) 发表包含 55 项实证的元分析，确立概念图对知识保持（$d = 0.60$）与知识迁移（$d = 0.46$）的强促学效应。
+> - **2020 年代　[[Graphic Organizer|图形组织器]]多维元分析与结构开销梯度** [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] 实证确立概念图在[[Higher-Order Thinking Skills|高阶思维]]干预中的稳健效能（$g = 0.548$），并清晰量化了其与[[Mind Mapping|思维导图]]、[[Argument Mapping|论证图]]的结构复杂度梯度。
+
+---
+
+## 争议与批评
+
+> [!debates] 学术争议与前沿分歧
+>
+> > [!axis] 严格命题语法约束 vs [[Creativity|创造性]]直觉发散
+> > 批评者指出，要求每个连接必须标注动词连接词并在逻辑上构成完整命题，容易使构图过程变成死板的句法推演，抑制了学生的顿悟直觉与非线性概念飞跃；支持者则主张缺乏命题约束的图示往往只是虚假的“自由散漫”。
+> >
+> > - **严密语义论** 命题连接词是区别于自由随笔的根本，唯有严格命题化才能检验概念理解的真伪。
+> > - **直觉压制论** 高度的形式约束会阻碍跨领域的非常规灵感联想。
+>
+> > [!axis] 专家标准图的封闭性 vs 学生自主建构的独特性
+> > 在教学评价中，过度使用“专家标准概念图”作为唯一评分基准容易抹杀学生的创造性理解，将有意义建构异化为“猜教师心思的复原测试”。
+
+> [!warning] 教学实践警示
+> 1. **警惕退化为“机械连线接词游戏”** 严禁脱离真实学科情境让学生死背概念节点，构图必须服务于解释现象、解决问题或反思论证；
+> 2. **初学阶段务必控制节点数量** 初学者单次构图的概念节点数建议控制在 10–15 个以内，避免过多节点造成严重的视觉拥挤与[[Working Memory|工作记忆]]过载。
 
 ---
 
 ## 实证数据
 
-> [!ma-table]- 一阶[[Meta-analysis|元分析]]总体结果与形态亚组
+> [!ma-table]- 一阶[[Meta-analysis|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 组织器形态亚组 | $k$ | 效应量 $g$ 与 95% CI | [[Pairwise Wald Tests\|成对 Wald 检验]]对比 | 教学机制 |
-> |---|---|---|---|---|---|
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | **概念图（Concept Mapping）** | 36 | $g = 0.548$, $[0.403, 0.692]$ | 显著低于思维导图（$W = 28.56, p < .001$）与论证图（$W = 13.98, p < .001$） | 多节点交叉网络复杂度高，结构化命题建模稳健但具认知开销 |
+> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | **【干预变量】** 概念图作为图形组织器干预对学生[[Higher-Order Thinking Skills\|高阶思维]]的促学效应 | $k = 36$ 项实证研究 / $N = 2,410$ | Hedges' $g$ / 随机效应模型 | **$g = 0.548$** $[0.403, 0.692]$ | 异质性显著，跨学科研究稳健有效 | 证实多中心命题网络对高阶思维具有中等程度的稳健促进，但受外在认知开销制约 |
+> | Nesbit & Adesope (2006) | **【干预[[Variable\|变量]]】** 概念图作为教学与学习策略对知识保持与深层理解迁移的元分析效应 | $k = 55$ 项实证研究 / $N = 5,818$ | Cohen's $d$ / 随机效应模型 | **$d = 0.60$** $[0.49, 0.71]$（保持）；**$d = 0.46$** $[0.33, 0.59]$（迁移） | 跨学科领域稳健有效 | 证实无论是自制还是阅读概念图，均显著优于传统文本阅读与纯讲授教学 |
+
+> [!ma-table]- 一阶元分析互补维度亚组
+> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+>
+> | 一阶元分析 | 当前概念角色 | 对应亚组（活动方式 / 形态效能对比） | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | Nesbit & Adesope (2006) | 【干预变量·活动方式亚组】 | 学习活动方式：学习者自主构建概念图（$d = 0.64$） vs 学习教师预制概念图（$d = 0.47$） | 自主构建 $k = 32$ / 预制图 $k = 23$ | 自主构建 **$d = 0.64$**；学习预制图 **$d = 0.47$** | 组间差异显著（$p < .05$） | 证实主动参与概念节点筛选与命题连线建构比被动阅读图示带来更深的认知加工 |
+> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 【干预变量·形态效能级差】 | 组织器形态：[[Mind Mapping\|思维导图]]（$g = 1.041$） vs [[Argument Mapping\|论证图]]（$g = 0.798$） vs 概念图（$g = 0.548$） | 导图 $k = 16$ / 论证 $k = 20$ / 概念 $k = 36$ | 思维导图 $g = 1.041$；论证图 $g = 0.798$；概念图 **$g = 0.548$** | 成对 Wald 检验 $p < .001$ | 确立概念图因网状交叉连接与命题连接词规范产生额外认知开销，促学净效应略低于极简导图 |
+
+> [!ma-table]- [[Meta-meta-analysis|二阶元分析]]结果
+> <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
+>
+> | 二阶元分析 | 当前概念角色与总体结果 | 证据规模 $M$ / $E$ / $k$ / $N$ | 效应指标与模型 | 二阶汇总效应与 95% CI | 异质性与 95% PI | 关键解释边界 |
+> |---|---|---|---|---|---|---|
+> | Hattie (2009) | **【干预变量】** 概念图（Concept Mapping）在[[Visible Learning\|可见的学习]]全域教学法二阶元分析中的基准[[Effect Size\|效应量]] | 基于 100+ 项一阶实证综合 | Cohen's $d$ / 随机效应综合 | **$d = 0.57$** | 跨学科学段高度稳健（理想成效区） | 确立概念图作为被广泛验证的强效结构化认知教学支架地位 |
+
+> [!ma-table]- 二阶元分析互补维度亚组
+> <span class="scrollable-table-marker concept-second-order-role-subgroup-marker" aria-hidden="true"></span>
+>
+> | 二阶元分析 | 当前概念角色 | 对应亚组（认知层次亚组） | 证据数 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | Nesbit & Adesope (2006) | 【干预变量·认知层次】 | 知识类型：概念性结构理解与知识整合（$d = 0.60$） vs 事实性定义机械记忆（$d = 0.35$） | 概念理解 $k = 38$ / 事实记忆 $k = 17$ | 概念结构理解 **$d = 0.60$**；事实定义记忆 **$d = 0.35$** | 组间差异显著（$p < .01$） | 概念图的核心优势在于促进概念间关系的深层同化与整合，而非记忆孤立事实 |
+
+> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
+>
+> | 实证研究 | 样本与情境 | 研究设计与变量角色 | 核心定性与定量发现 | 理论与教学意义 |
+> |---|---|---|---|---|
+> | Barta et al. (2022) | 高校医学与生命科学专业学生 | 诊断性评价：**【[[Dependent Variable\|结果变量]]/评价工具】**概念图拓扑复杂度、命题准确率与交叉连线数量对概念转变的诊断效度 | 概念图评分与深层临床推理表现高度正相关（$r = 0.52, p < .001$），能精准检出 85% 以上由选择题掩盖的概念迷思 | 证实概念图作为深层认知评价工具的独特效度与诊断价值 |
+> | Schau et al. (2001) | 中学物理电磁学探究教学样本 | 准实验干预：**【干预变量】**填空式概念图骨架支架 vs 全自主绘图 vs 传统练习 | 填空式骨架图组在概念理解测试中成绩显著超越传统组（$p < .01$），且绘图时间消耗仅为自主构图组的一半 | 证实半结构化骨架图在控制初学者外在认知负荷上的卓越经济性 |
+
+---
+
+## 教育应用与教学实践
+
+> [!implication]- 科学应用概念图的四大教学支柱
+> 1. **将“横向交叉连线（Cross-links）”作为深层整合的教学抓手** 引导学生在完成基本树状层级分支后，主动追问“左侧的这个概念与右侧的概念有何因果或转化关系？”，通过强行构建交叉连线打破认知孤岛；
+> 2. **对初学者推行“骨架图渐退（Scaffold Fading）”策略** 初学者先从“给定核心概念节点和部分框架、让学生填写连接词”的挖空图入手，逐步过渡到自主构图，避免直接面对复杂网络导致认知超载；
+> 3. **将概念图作为高价值的[[Formative Assessment|形成性评价]]透镜** 在单元教学前后让学生各自绘制同一主题的概念图，通过对比“节点扩张度”、“命题准确性”与“交叉连线增长量”，直观评估概念转变与心智模型进化；
+> 4. **结合[[Mind Mapping|思维导图]]实施“发散—收敛”双轨循环** 在探究初期利用思维导图快速发散构想，在进入深度探究后转向概念图进行系统化语义命题建模，发挥两类工具各自的最佳效能。
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] 综合 36 项概念图实证研究，量化确立其对[[Higher-Order Thinking Skills|高阶思维]]的促进效应（$g = 0.548$）并与[[Mind Mapping|思维导图]]、[[Argument Mapping|论证图]]展开多水平对比。
+> - [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] — [[Meta-analysis|元分析]]综合 36 项概念图实证研究，量化确立其对[[Higher-Order Thinking Skills|高阶思维]]的促进效应（$g = 0.548$），并与[[Mind Mapping|思维导图]]（$g = 1.041$）和[[Argument Mapping|论证图]]（$g = 0.798$）展开严格的多水平对比与认知开销分析。
+> - Nesbit & Adesope (2006) — 55 项实证的奠基性元分析，确立概念图对知识保持（$d = 0.60$）与知识迁移（$d = 0.46$）的稳健促学效应。
+> - Novak & Gowin (1984) — 概念图奠基之作，系统确立概念图的命题语法、层级拓扑与基于交叉连接的四维评分标准。
+
+---
+
+## 条目关联
+
+> [!entry-map]
+>
+> | 条目 | 类型 | 关联方向 | 说明 |
+> |:-----|:-----|:---------|:-----|
+> | [[Mind Mapping]] | 概念 | 互补形态 | 思维导图单中心放射极简发散（$g = 1.041$），与概念图的多中心网状建模形成互补。 |
+> | [[Argument Mapping]] | 概念 | 互补形态 | 论证图注重非形式逻辑推论链检验，概念图注重概念间命题网络语义建模。 |
+> | [[Graphic Organizer]] | 概念 | 上位范畴 | 概念图是结构最严密、语义表征力最强的图形组织器类别之一。 |
+> | [[Cognitive Load Theory]] | 理论 | 机制解释 | 复杂的网状拓扑和命题连接词规范产生较高的外在认知负荷。 |
+> | [[Formative Assessment]] | 概念 | 评价载体 | 概念图通过外显化命题连接，是诊断内隐概念迷思的强效形成性评价工具。 |
+> | [[Divergent Thinking]] | 概念 | 效能对比 | 概念图对发散思维的激发不如思维导图直接，更侧重收敛性概念整合。 |
+> | [[Convergent Thinking]] | 概念 | 支撑重点 | 概念图的命题核验与语义对齐天然契合收敛整合加工。 |
+> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 论证 | 实证基石 | 元分析量化确立概念图对高阶思维的稳健促进效应（$g = 0.548$）。 |

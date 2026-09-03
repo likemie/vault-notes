@@ -4768,7 +4768,8 @@
       "概念地图",
       "Concept Map",
       "Concept Maps",
-      "Conceptmapping"
+      "Conceptmapping",
+      "命题网络"
     ]
   },
   {
@@ -5017,7 +5018,8 @@
       "脑图",
       "Mind Map",
       "Mind Maps",
-      "Mindmapping"
+      "Mindmapping",
+      "放射性思维"
     ]
   },
   {
@@ -5084,6 +5086,18 @@
     "path": "wiki/concepts/instruction-pedagogy/Rote Learning.md",
     "aliases": [
       "死记硬背"
+    ]
+  },
+  {
+    "title": "SCAMPER",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/SCAMPER.md",
+    "aliases": [
+      "SCAMPER technique",
+      "SCAMPER checklist",
+      "创造性思维检核表",
+      "启发式创新检核表",
+      "替代-组合-调适-修改-移作他用-消除-重组"
     ]
   },
   {
@@ -10840,6 +10854,19 @@
       "三层教学观",
       "教学能力的三个层次",
       "levels of teaching competence"
+    ]
+  },
+  {
+    "title": "TRIZ",
+    "type": "theory",
+    "path": "wiki/theories/instruction-pedagogy/TRIZ.md",
+    "aliases": [
+      "发明问题解决理论",
+      "萃智",
+      "萃思理论",
+      "Theory of Inventive Problem Solving",
+      "TIPS",
+      "Teoriya Resheniya Izobretatelskikh Zadatch"
     ]
   },
   {

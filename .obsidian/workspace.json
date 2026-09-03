@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/arguments/journal-articles/Thinking Skills and Creativity/Argument_Guo_2025_TSC.md",
+                "file": "wiki/concepts/instruction-pedagogy/Mind Mapping.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Argument_Guo_2025_TSC"
+              "title": "Mind Mapping"
             }
           },
           {
@@ -43,17 +43,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/arguments/journal-articles/Educational Research/Argument_Nelson_2017_ER.md",
+                "file": "wiki/arguments/reports-policy-documents/RoyalSociety_2026_ScienceForSociety/Argument_RoyalSociety_2026_ScienceForSociety.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Argument_Nelson_2017_ER"
+              "title": "Argument_RoyalSociety_2026_ScienceForSociety"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,8 +118,7 @@
               "title": "Recent files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -236,12 +235,20 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "ffc1a70d9b63a440",
+  "active": "7ef1b49d2c627a52",
   "lastOpenFiles": [
-    "wiki/concepts/instruction-pedagogy/Concept Mapping.md",
-    "wiki/arguments/journal-articles/Thinking Skills and Creativity/Argument_Guo_2025_TSC.md",
+    "wiki/concepts/instruction-pedagogy/Practical Inquiry in Science Education.md",
+    "wiki/arguments/reports-policy-documents/RoyalSociety_2026_ScienceForSociety/Argument_RoyalSociety_2026_ScienceForSociety.md",
+    "wiki/theories/instruction-pedagogy/TRIZ.md",
+    "wiki/concepts/instruction-pedagogy/SCAMPER.md",
+    "wiki/arguments/reports-policy-documents/RoyalSociety_2026_ScienceForSociety/Argument_RoyalSociety_2026_ScienceForSociety_Ch02.md",
+    "wiki/facts/uk/Big Butterfly Count.md",
+    "wiki/arguments/journal-articles/Educational Research/Argument_Nelson_2017_ER.md",
     "wiki/concepts/instruction-pedagogy/Mind Mapping.md",
+    "wiki/arguments/journal-articles/Thinking Skills and Creativity/Argument_Guo_2025_TSC.md",
     "wiki/concepts/learning-science-cognitive-science/Metacognition.md",
+    "wiki/concepts/research-methodology/Effect Size.md",
+    "wiki/concepts/instruction-pedagogy/Concept Mapping.md",
     "wiki/concepts/educational-psychology/Creative Self-Efficacy.md",
     "wiki/instruments/scales/Originality Scale of Visual Metaphors.md",
     "wiki/instruments/tests/Evaluation of Potential for Creativity.md",
@@ -252,23 +259,15 @@
     "wiki/concepts/instruction-pedagogy/Creativity Assessment.md",
     "wiki/instruments/tests/Test for Creative Thinking-Drawing Production.md",
     "wiki/instruments/tests/Abbreviated Torrance Test for Adults.md",
-    "wiki/concepts/research-methodology/Effect Size.md",
     "wiki/methods/quantitative/Three-Level Meta-Analysis.md",
     "wiki/concepts/instruction-pedagogy/Creativity Training.md",
-    "wiki/arguments/journal-articles/Educational Research/Argument_Nelson_2017_ER.md",
     "wiki/methods/quantitative/Meta-regression.md",
     "wiki/theories/instruction-pedagogy/Creative Problem Solving.md",
-    "wiki/concepts/educational-psychology/Divergent Thinking.md",
-    "wiki/arguments/journal-articles/Thinking Skills and Creativity/Argument_Park_2026_TSC.md",
     "sources/Guo_2025_TSC/figures",
     "sources/Guo_2025_TSC/Guo_2025_TSC.pdf",
-    "sources/Guo_2025_TSC/Guo_2025_TSC.md",
     "sources/Guo_2025_TSC",
-    "sources/Guo_2025_TSC.md",
     "sources/Guo_2025_TSC.pdf",
     "scratch_paper_text.txt",
-    "wiki/facts/us/National Center for Research in Policy and Practice.md",
-    "wiki/persons/uk/Chris Brown.md",
     "scratch_nelson_text.txt",
     "tmp/fix_headers_and_citations.py",
     "tmp/rewrite_pbe.py",
