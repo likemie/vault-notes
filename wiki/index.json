@@ -1230,6 +1230,16 @@
     ]
   },
   {
+    "title": "Twelfth-Grade Slump",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Twelfth-Grade Slump.md",
+    "aliases": [
+      "十二年级滑坡",
+      "twelfth grade slump",
+      "senior-year slump"
+    ]
+  },
+  {
     "title": "Tyler Rationale",
     "type": "concept",
     "path": "wiki/concepts/curriculum/Tyler Rationale.md",
@@ -18075,6 +18085,15 @@
     ]
   },
   {
+    "title": "IB Expansion in North American Public High Schools 1977-1984",
+    "type": "fact",
+    "path": "wiki/facts/multi/IB Expansion in North American Public High Schools 1977-1984.md",
+    "aliases": [
+      "1977至1984年国际文凭在北美公立高中的扩张",
+      "North American public high school IB expansion"
+    ]
+  },
+  {
     "title": "John Dewey's 1928 Visit to the Soviet Union",
     "type": "fact",
     "path": "wiki/facts/multi/John Dewey's 1928 Visit to the Soviet Union.md",
@@ -19023,6 +19042,15 @@
     ]
   },
   {
+    "title": "1981 New York IB Heads of School Conference",
+    "type": "fact",
+    "path": "wiki/facts/us/1981 New York IB Heads of School Conference.md",
+    "aliases": [
+      "1981年纽约国际文凭校长会议",
+      "1981 IB Heads Conference New York"
+    ]
+  },
+  {
     "title": "A Nation at Risk 1983",
     "type": "fact",
     "path": "wiki/facts/us/A Nation at Risk 1983.md",
@@ -19253,6 +19281,15 @@
     ]
   },
   {
+    "title": "Francis Lewis High School Adoption of the International Baccalaureate",
+    "type": "fact",
+    "path": "wiki/facts/us/Francis Lewis High School Adoption of the International Baccalaureate.md",
+    "aliases": [
+      "弗朗西斯·刘易斯高中采用国际文凭",
+      "Francis Lewis IB adoption"
+    ]
+  },
+  {
     "title": "Hatch Act of 1887",
     "type": "fact",
     "path": "wiki/facts/us/Hatch Act of 1887.md",
@@ -19467,6 +19504,15 @@
       "Rising Above the Gathering Storm",
       "迎接风暴",
       "NASEM 2007 Rising Above the Gathering Storm"
+    ]
+  },
+  {
+    "title": "Rockland Community College IB Experiments",
+    "type": "fact",
+    "path": "wiki/facts/us/Rockland Community College IB Experiments.md",
+    "aliases": [
+      "洛克兰社区学院国际文凭实验",
+      "Rockland IB experiments"
     ]
   },
   {
