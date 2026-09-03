@@ -9,7 +9,7 @@ summary: "通过研究样本以提供总体趋势、态度或意见的量化或�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 62
+method_related_count: 60
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -315,7 +315,7 @@ Dillman（2007）建议按顺序跟进：（a）10 天后向无回应者发送�
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026)]] — 综合运用 2025 年[[Public Attitudes to Science|英国公众对科学态度调查]]（PAS 2025，全国成年人抽样 $N = 5,281$）及英国科研人员参与调查的全国抽样数据，定量评估数字媒介环境下公众科学信息获取渠道、信息渴求度（62%）与科研人员制度性障碍（第2、3章及总报告）。
+> - [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026)]] — 综合运用[[Public Attitudes to Science|英国公众对科学态度调查]]（PAS 2025，全国代表性成年抽样 $N = 5,281$）及科研人员参与[[Questionnaire|问卷调查]]的大样本定量数据，全面评估数字智能环境下公众科学信息获取渠道、真实性信任度以及学术共同体开展公众参与面临的体制性阻碍。
 
 
 

@@ -39,6 +39,7 @@ related_facts:
   - "[[Science Media Centre]]"
 related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03]]"
+  - "[[Argument_RoyalSociety_2026_ScienceForSociety]]"
 confidence: high
 status: draft
 created: 2026-09-03
@@ -144,9 +145,9 @@ updated: 2026-09-03
 > [!contrast-table] 科学虚假信息核心命题归纳
 > | 命题类别 | 核心指向 | 政策与实践含义 | 代表研究 |
 > |---|---|---|---|
-> | **传播媒介机制** | 商业算法与极化少数导致虚假信息不成比例放大 | 呼吁大型商业平台向独立研究者开放隐私合规的 API 数据审计 | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|The Royal Society (2026)]] |
-> | **源头生产机制** | 媒体报道夸大主要源自大学新闻通稿过度包装 | 将科学新闻发布纳入科研诚信（RCR）与机构伦理考核 | Sumner et al. (2014); [[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|The Royal Society (2026)]] |
-> | **公众受众心理** | 坦诚承认不确定性不会破坏公众信任且增进可信感 | 彻底告别单向绝对化断言，践行透明、平衡的证据沟通 | Kerr et al. (2022); [[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|The Royal Society (2026)]] |
+> | **传播媒介机制** | 商业算法与极化少数导致虚假信息不成比例放大 | 呼吁大型商业平台向独立研究者开放隐私合规的 API 数据审计 | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|The Royal Society (2026, p. 59)]] |
+> | **源头生产机制** | 媒体报道夸大主要源自大学新闻通稿过度包装 | 将科学新闻发布纳入科研诚信（RCR）与机构伦理考核 | Sumner et al. (2014); [[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|The Royal Society (2026, p. 62)]] |
+> | **公众受众心理** | 坦诚承认不确定性不会破坏公众信任且增进可信感 | 彻底告别单向绝对化断言，践行透明、平衡的证据沟通 | Kerr et al. (2022); [[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|The Royal Society (2026, p. 61)]] |
 
 ---
 
@@ -166,9 +167,9 @@ updated: 2026-09-03
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|The Royal Society (2026)]] | $N = 5,281$ 英国 16 岁以上代表性成年公众（PAS 2025 调查） | 全国横截面抽样调查 | 科学信息获取主要渠道（过去两周） | 新媒体（40%）、传统媒体（36%）、科学来源（25%）、口头/在线（17%）、亲友/WhatsApp（13%）、未主动寻求（34%） | 全国代表性加权样本 | 反映新媒体已成为第一大主动获取渠道，但传统媒体依然稳固 |
-> | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|The Royal Society (2026)]] | 英国代表性成年公众（PAS 2025 调查） | 全国抽样调查 | 科学信息真实性与冲突感知 | 仅 40% 认同所接触科学信息“通常是真实的”（较 2014 年超 50% 显著下滑）；48% 认为冲突信息过多导致难辨真伪 | 约 50% 公众处于不确定状态 | 表明海量冲突与虚假信息加剧了公众认知困惑，但未完全转化为反科学怀疑 |
-> | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|The Royal Society (2026)]] | 英国代表性成年公众（PAS 2025 调查 / Ipsos 诚信指数） | 全国抽样调查 | 高校科学家社会信任度 | 87% 的受访公众高度信任高校科学家诚实开展研究（信任度持续 >80%） | 远超对传统媒体（~33%）及社交媒体信任 | 证实科学家群体依然拥有极其宝贵的公众信任底座，是破解虚假信息的基石 |
+> | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|The Royal Society (2026, p. 57)]] | $N = 5,281$ 英国 16 岁以上代表性成年公众（PAS 2025 调查） | 全国横截面抽样调查 | 科学信息获取主要渠道（过去两周） | 新媒体（40%）、传统媒体（36%）、科学来源（25%）、口头/在线（17%）、亲友/WhatsApp（13%）、未主动寻求（34%） | 全国代表性加权样本 | 反映新媒体已成为第一大主动获取渠道，但传统媒体依然稳固 |
+> | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|The Royal Society (2026, p. 58)]] | 英国代表性成年公众（PAS 2025 调查） | 全国抽样调查 | 科学信息真实性与冲突感知 | 仅 40% 认同所接触科学信息“通常是真实的”（较 2014 年超 50% 显著下滑）；48% 认为冲突信息过多导致难辨真伪 | 约 50% 公众处于不确定状态 | 表明海量冲突与虚假信息加剧了公众认知困惑，但未完全转化为反科学怀疑 |
+> | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|The Royal Society (2026, p. 60)]] | 英国代表性成年公众（PAS 2025 调查 / Ipsos 诚信指数） | 全国抽样调查 | 高校科学家社会信任度 | 87% 的受访公众高度信任高校科学家诚实开展研究（信任度持续 >80%） | 远超对传统媒体（~33%）及社交媒体信任 | 证实科学家群体依然拥有极其宝贵的公众信任底座，是破解虚假信息的基石 |
 
 ---
 
@@ -193,4 +194,4 @@ updated: 2026-09-03
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|The Royal Society (2026)]] — 英国皇家学会《面向社会的科学》第三章系统解构大众传媒变迁、算法推荐偏倚、高校新闻通稿夸大与科研诚信融合治理路径。
+> - [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026)]] — 系统解构大众传媒变迁、算法推荐偏倚、高校新闻通稿夸大与科研诚信融合治理路径。

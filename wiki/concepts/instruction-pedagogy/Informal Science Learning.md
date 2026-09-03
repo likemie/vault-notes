@@ -10,7 +10,7 @@ aliases:
 summary: "指发生在传统正规学校课堂之外、具有自愿性、情境化与终身性的科学学习与参与形态，涵盖科技馆、探索中心、科学节、社区项目、公民科学与数字媒体，是支撑现代社会公共健康、理性决策与公民文化基础设施的核心支柱。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 23
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -49,7 +49,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-08-23
-updated: 2026-08-23
+updated: 2026-09-03
 ---
 
 # Informal Science Learning
@@ -196,7 +196,7 @@ updated: 2026-08-23
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026)]] — 宏观倡导面向全体公民的全生命周期[[Scientific Literacy|科学素养]]建设与普惠公共参与生态；详尽论证非正式科学参与生态、生存危机、公众诉求与多元筹资及长期评估体系（第2章）；并提出正规教育与校外实践贯通协同的宽口径大纲设计（第1章）。
+> - [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026)]] — 系统评估国家非正式科学学习生态的公众诉求与面临的财政生存危机，倡导打破正规学校教育与校外社会场馆的制度藩篱，构建普惠、协同且具有长期队列追踪的多元筹资与支持体系。
 
 ---
 

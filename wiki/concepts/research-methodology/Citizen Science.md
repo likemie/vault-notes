@@ -201,4 +201,4 @@ updated: 2026-09-03
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026)]] — 将公民科学确立为连接公众、社区行动与前沿科研的核心桥梁，建立涵盖项目级、民意级、基建级与队列级的四级评估体系（第2章），并呼吁设立多年期专项资助与专业伦理培训以赋能科研共同体深度融入社会（第6章）。
+> - [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026)]] — 将公民科学确立为连接公众参与、社区行动与前沿科研的核心社会桥梁，构建涵盖项目成效、全国民意、基础设施与长期队列的四级评估框架，呼吁设立多年期专项资助与参与式科研伦理培训以打破体制壁垒。

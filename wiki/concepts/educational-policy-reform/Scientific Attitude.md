@@ -52,7 +52,8 @@ related_concepts:
   - "[[Variable]]"
   - "[[Pragmatism in China]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Longitudinal Study]]"
 related_instruments: []
 related_persons:
   - "[[Tao Xingzhi]]"
@@ -236,4 +237,4 @@ updated: 2026-09-03
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zhou_2024_CE|Zhou & Westberg (2024)]] — 系统考证 1920 年代民国[[New Education Movement|新教育运动]][[Paradigm|范式]]转向与赵乃传科学态度三要素。
 > - [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] — 追踪科学态度与[[Pragmatism in China|实用主义在中国]]现代政治话语中的[[Transfer Translation Transformation|转译]]演变。
-> - [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026)]] — 整合报告全景，汇集 2006–2025 全英科研人员公众参与态度 20 年纵向变迁数据；论证[[Scientific Literacy|科学素养]]本质在于掌握证据批判与科学不确定性理解（第1章）；依托 [[Public Attitudes to Science|PAS 2025]] 调查诊断公众科学态度与参与渴求（第2章）；并倡导建设性“解决方案”科学态度与负责任传播（[[Responsible Conduct of Research|RCR]]）伦理自律（第3章）。
+> - [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026)]] — 整合 20 年科研人员公众参与态度[[Longitudinal Study|纵向调查]]与 [[Public Attitudes to Science|PAS 2025]] 全国民意数据，论证以批判性审视证据、接纳不确定性与抵御恐慌新闻为核心的建设性科学态度，倡导负责任传播（[[Responsible Conduct of Research|RCR]]）的学术伦理自律。

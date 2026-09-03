@@ -245,4 +245,4 @@ updated: 2026-09-03
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026)]] — 提出科学素养官方五大支柱界定（p. 116）；系统阐明中小学科学教育转向以证据评估、探究实践和不确定性理解为核心的[[Citizen Science|公民科学]]素养（第1章）；并论证科学素养构成抵御[[Generative Artificial Intelligence|生成式 AI]] [[AI Hallucination|幻觉]]与媒体虚假信息的核心认知免疫屏障（第3章）。
+> - [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026)]] — 提出科学素养官方五大支柱界定，倡导中小学科学教育摆脱应试记忆并转向以证据评估、实践探究与接纳科学不确定性为核心的[[Citizen Science|公民科学]]素养，构筑抵御[[Generative Artificial Intelligence|生成式 AI]] 算法[[AI Hallucination|幻觉]]与大众传媒虚假信息的核心认知免疫屏障。
