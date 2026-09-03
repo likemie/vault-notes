@@ -8,10 +8,10 @@ aliases:
 summary: "指科研人员、科学机构与多元公众之间开展的双向、参与式、对话驱动的互动过程，旨在增进相互理解、赋权公民参与并确立科学研究的社会合法性"
 type: concept
 domain: "sociology-of-education"
-related_count: 7
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 12
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - field/sociology-of-education
   - field/science-communication

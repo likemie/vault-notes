@@ -10,9 +10,9 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety"
 argument_display_title: "Science for society: How society and science shape each other"
 argument_kind: "report"
-argument_related_count: 43
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 48
+argument_related_level: 3
+argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dcfce7"
 issuing_organization: The Royal Society
 year: 2026

@@ -11,9 +11,9 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 0
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 8
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: Cabinet Office, Government Commercial Function
 tags:

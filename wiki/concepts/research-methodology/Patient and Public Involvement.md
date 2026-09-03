@@ -9,10 +9,10 @@ aliases:
 summary: "指在健康与科研全生命周期中由患者、照护者及公众作为主动研究伙伴共同参与研究设计、执行与成果转化的范式，旨在摆脱单纯被动受试者模式，确保科研成果切合真实生活需求并提升社会合法性"
 type: concept
 domain: "research-methodology"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 15
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - field/research-methodology
   - theme/public-engagement

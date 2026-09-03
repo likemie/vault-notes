@@ -10,7 +10,7 @@ title: "Argument_Pellegrini_2021_ROE"
 argument_key: "Argument_Pellegrini_2021_ROE"
 argument_display_title: "Evidence-based policies in education: Initiatives and challenges in Europe"
 argument_kind: "journal-article"
-argument_related_count: 30
+argument_related_count: 31
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
