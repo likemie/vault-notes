@@ -53,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -235,8 +235,9 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "ffc1a70d9b63a440",
+  "active": "7ef1b49d2c627a52",
   "lastOpenFiles": [
+    "wiki/arguments/journal-articles/Thinking Skills and Creativity/Argument_Guo_2025_TSC.md",
     "wiki/arguments/reports-policy-documents/RoyalSociety_2026_ScienceForSociety/Argument_RoyalSociety_2026_ScienceForSociety_Ch03.md",
     "wiki/arguments/reports-policy-documents/RoyalSociety_2026_ScienceForSociety/Argument_RoyalSociety_2026_ScienceForSociety_Ch02.md",
     "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch06.md",
@@ -251,7 +252,6 @@
     "wiki/concepts/instruction-pedagogy/Lateral Thinking.md",
     "wiki/concepts/instruction-pedagogy/Brainstorming.md",
     "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt.md",
-    "wiki/arguments/journal-articles/Thinking Skills and Creativity/Argument_Guo_2025_TSC.md",
     "wiki/concepts/educational-psychology/Incubation.md",
     "wiki/concepts/learning-science-cognitive-science/Cognitive Flexibility.md",
     "wiki/theories/instruction-pedagogy/TRIZ.md",
