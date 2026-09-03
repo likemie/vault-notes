@@ -42,6 +42,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Critique of Effect Size]]"
   - "[[Praxis]]"
+  - "[[Research Utilization]]"
   - "[[Causality]]"
   - "[[Recommendations for Practice]]"
   - "[[Critique of Evidence-Based Education]]"
@@ -72,7 +73,6 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Research Question]]"
   - "[[Evaluation Research]]"
-  - "[[Research Utilization]]"
   - "[[Threats to Internal Validity]]"
 related_methods:
   - "[[Meta-analysis]]"
@@ -143,7 +143,7 @@ updated: '2026-08-27'
 > [!ref-table] 循证教育的制度基础设施（pp. 329–335）
 > | 机构 | 隶属与说明 | 功能与运营状况 |
 > |---|---|---|
-> | [[EPPI-Centre]]（[eppi.ioe.ac.uk](https://eppi.ioe.ac.uk/cms/)） | 证据知情政策与[[Praxis\|实践]]信息与协调中心（Evidence for Policy and Practice Information and Co-ordinating Centre），原伦敦大学教育学院，现隶属于伦敦大学学院（University College London，UCL） | 教育与社会政策领域的系统综述方法论开发、证据使用研究和培训。持续运营中，由 David Gough 教授领导 |
+> | [[EPPI-Centre]]（[eppi.ioe.ac.uk](https://eppi.ioe.ac.uk/cms/)） | 证据知情政策与[[Praxis\|实践]]信息与协调中心（Evidence for Policy and Practice Information and Co-ordinating Centre），原伦敦大学教育学院，现隶属于伦敦大学学院（University College London，UCL） | 教育与社会政策领域的系统综述方法论开发、[[Research Utilization\|证据使用]]研究和培训。持续运营中，由 David Gough 教授领导 |
 > | [[Campbell Collaboration]]（[campbellcollaboration.org](https://www.campbellcollaboration.org/)） | Campbell 协作网，前身为社会、心理、教育和犯罪学控制试验注册库（SPECTR）（Milwain, 1998; Milwain et al., 1999），Cochrane 协作网在教育和社会科学领域的平行机构 | 社会与教育领域控制试验的系统综述与元分析。持续运营中 |
 > | [[CEM Centre]]（[cem.org](https://www.cem.org/)） | 原属杜伦大学，由 Fitz-Gibbon and Tymms 创立，展示指标系统与实验方法结合以提供[[Causality\|因果推断]]证据 | 开发学校监测与评估系统（如 PIPS、MidYIS、ALIS），提供增值评估。2019 年被剑桥大学出版与评估院（Cambridge University Press & Assessment）收购，更名为 Cambridge CEM，仍在运营 |
 > | [[UK Centre for Evidence-based Policy]]（[ukri.org/councils/esrc](https://www.ukri.org/councils/esrc/)） | 原属英国经济与社会研究理事会（Economic and Social Research Council，ESRC），ESRC 后并入英国国家科研与创新署（UK Research and Innovation，UKRI） | 推动循证政策研究与实践。ESRC 原有专门页面已下线，职能已整合至 UKRI 体系 |

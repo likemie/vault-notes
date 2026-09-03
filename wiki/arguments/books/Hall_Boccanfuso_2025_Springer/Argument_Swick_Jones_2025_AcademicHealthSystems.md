@@ -31,6 +31,8 @@ related_concepts:
   - "[[T-Shaped Skills]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Return on Investment]]"
+  - "[[Incubation]]"
+  - "[[Patient and Public Involvement]]"
 related_theories:
   - "[[Values Alignment Model]]"
   - "[[Triple Helix]]"
@@ -261,7 +263,7 @@ citation_aliases:
 ### 第七步：TAVR 案例研究：价值对齐模型如何在产学合作中实际运作
 
 > [!info] 疾病与技术背景
-> 主动脉瓣狭窄（aortic stenosis）是一种心脏瓣膜病，位于左心室与主动脉之间的主动脉瓣变窄、不能完全打开，限制血液从心脏流向全身。该疾病有漫长的潜伏期，但一旦症状出现，恶化速度极快：**未治疗有症状患者的平均生存期仅为 2–3 年(p.192)**。
+> 主动脉瓣狭窄（aortic stenosis）是一种心脏瓣膜病，位于左心室与主动脉之间的主动脉瓣变窄、不能完全打开，限制血液从心脏流向全身。该疾病有漫长的[[Incubation|潜伏期]]，但一旦症状出现，恶化速度极快：**未治疗有症状患者的平均生存期仅为 2–3 年(p.192)**。
 >
 > 主动脉瓣置换术（Aortic Valve Replacement, AVR）是主要治疗手段，历史上以开胸方式进行，即外科主动脉瓣置换术（Surgical Aortic Valve Replacement, SAVR）。因此，伴有合并症（comorbidities）的患者因手术风险过高而不具备资格；另有患者虽符合条件但因手术侵入性而选择回避(Bach et al., 2009, 转引自 p.192)。**生物医学创新是为无法承受开胸手术的患者创造解决方案的唯一途径**。
 
@@ -330,7 +332,7 @@ citation_aliases:
 > - 七重结构性挑战（创新成本、监管负担、数据管理、问题复杂性与技术变革速度、超亚专业化、医师科学家时间挤压、合作光谱定位）共同构成了单一组织无法独立完成医用创新的论证。产学合作不是众多选项之一，而是穿越这些障碍的唯一路径(pp.182–187)。
 > - 既有产学合作框架（[[Partnership Continuum|伙伴关系连续体]]、[[Triple Helix]]、[[King-Persily Model|King-Persily 模型]]）在 AHS 语境中各有适用价值，但都需要从 AHS 视角进行修正：伙伴关系连续体只描述深度、不回答对齐问题；Triple Helix 中的政府角色在 AHS 视角下更多是监管者而非合作伙伴；King-Persily 模型在医疗场景中必须额外处理患者数据去标识化和信托责任的伦理要求(pp.188–189)。
 > - COVID-19 经验表明，目标对齐和紧迫感可以急剧加速 AMI 的产学合作，疫苗学在 1–2 年内取得了需要数十年才能实现的进展。但 NCDs 因进展缓慢而缺乏同等的紧迫感，尽管对患者而言处境同样严峻。AHS 持续感知到标准疗法终将对 NCD 患者失效这一事实，因此能够维持持续的创新动力(pp.189–190)。
-> - [[Values Alignment Model|价值对齐模型]]提供了一个以患者为中心的合作框架：AHS 作为促进者，帮助各方围绕共享价值对齐，同时尊重不共享的价值。关键不在于消除优先差异，而在于通过患者中心的透镜重新审视各方 [[Return on Investment|ROI]]，产业的利润依赖于产品的安全有效性，大学的发表价值依赖于转化为患者受益(pp.190–192)。
+> - [[Values Alignment Model|价值对齐模型]]提供了一个[[Patient and Public Involvement|以患者为中心]]的合作框架：AHS 作为促进者，帮助各方围绕共享价值对齐，同时尊重不共享的价值。关键不在于消除优先差异，而在于通过患者中心的透镜重新审视各方 [[Return on Investment|ROI]]，产业的利润依赖于产品的安全有效性，大学的发表价值依赖于转化为患者受益(pp.190–192)。
 > - TAVR 案例是价值对齐模型的完整实证展示：通过四轮递进式[[Clinical Trial|临床试验]]（按风险等级从极端到低），TAVR 从高风险不可手术者的最后选择发展为全风险谱系的标准疗法，30 天死亡率从 7.2% 降至 2.5%，并催生了 BEV and SEV 的持续技术创新。任何单一伙伴独立行动都无法取得这一成果(pp.192–195)。
 
 > [!info]- 核心数据

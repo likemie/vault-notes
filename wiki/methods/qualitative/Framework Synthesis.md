@@ -41,6 +41,7 @@ related_methods:
   - "[[Mixed Methods Research]]"
   - "[[PRISMA]]"
   - "[[Meta-analysis]]"
+  - "[[Thematic Synthesis]]"
 related_instruments:
   - "[[Mixed Methods Appraisal Tool]]"
 related_persons: []
@@ -102,7 +103,7 @@ updated: 2026-08-26
 > 6. **修订框架并整合呈现** 依据综合结果修订初始框架，输出经经验数据检验的修订框架。
 
 > [!example]- 应用示例：Hagevold 等人（2026）的框架综合
-> Hagevold 等人（2026, pp.6–8）以 [[Quality Use of Research Evidence Framework|研究证据质量使用框架]]（Quality Use of Research Evidence, QURE）为主框架，将深度使用框架（Farley-Ripple et al., 2018）、[[Research Literacy|研究素养]]敏感性（Eriksen, 2022）、[[Ecosystem for Research-Engaged Schools|研究参与学校生态系统模型]]（Godfrey & Brown, 2019）以及内外复杂性概念（Kvernbekk, 2016; Perry & Morris, 2023）整合为初始框架。第一作者在 NVivo 15 中以"框定与描述""屏障""促进因素"为主节点编码 109 项研究；屏障节点由团队盲编码并以共识达成 100% 一致。随后聚合式分析统计各主代码的来源研究数，配置式分析识别出跨越个体、组织与系统层级的四类治理机制（信任、技能发展、可持续结构、关系），并据此将初始框架修订为四机制框架。
+> Hagevold 等人（2026, pp.6–8）以 [[Quality Use of Research Evidence Framework|研究证据质量使用框架]]（Quality [[Research Utilization|Use of Research Evidence]], QURE）为主框架，将深度使用框架（Farley-Ripple et al., 2018）、[[Research Literacy|研究素养]]敏感性（Eriksen, 2022）、[[Ecosystem for Research-Engaged Schools|研究参与学校生态系统模型]]（Godfrey & Brown, 2019）以及内外复杂性概念（Kvernbekk, 2016; Perry & Morris, 2023）整合为初始框架。第一作者在 NVivo 15 中以"框定与描述""屏障""促进因素"为主节点编码 109 项研究；屏障节点由团队盲编码并以共识达成 100% 一致。随后聚合式分析统计各主代码的来源研究数，配置式分析识别出跨越个体、组织与系统层级的四类治理机制（信任、技能发展、可持续结构、关系），并据此将初始框架修订为四机制框架。
 
 ---
 
@@ -111,7 +112,7 @@ updated: 2026-08-26
 > [!method-fit] 适用判断
 > - **适合使用** 当既有理论框架已较成熟、需要被经验证据检验或整合时；当纳入研究的设计与证据形态高度多样（定量、质性、混合）需要统一分析骨架时；当综述目的是推进概念化而非仅统计[[Effect Size|效应量]]时（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al., 2026, p.6]]）。
 > - **谨慎使用** 当先验框架本身缺乏概念清晰性或可[[Operationalization|操作化]]定义时；当框架覆盖范围与研究领域明显不匹配时，需在综合中补充新主题。
-> - **不适合使用** 当[[Research Question|研究问题]]要求统计合并效应量时（应改用[[Meta-analysis]]）；当没有任何可用先验理论、需要纯粹从数据生成主题时（应改用主题综合 Thematic Synthesis 等更开放的归纳方法）。
+> - **不适合使用** 当[[Research Question|研究问题]]要求统计合并效应量时（应改用[[Meta-analysis]]）；当没有任何可用先验理论、需要纯粹从数据生成主题时（应改用主题综合 [[Thematic Synthesis]] 等更开放的归纳方法）。
 
 ---
 
@@ -133,7 +134,7 @@ updated: 2026-08-26
 > |:-----|:-----|:-----|
 > | [[Systematic Review\|系统综述（Systematic Review）]] | 上位方法 | 框架综合是系统综述内部的一种质性证据综合策略，整体遵循系统综述的检索、筛选与报告程序 |
 > | [[Meta-analysis\|元分析（Meta-analysis）]] | 替代方法 | 元分析对[[Effect Size\|效应量]]作统计合并；框架综合对证据作框架化质性整合，两者可互补但不能互换 |
-> | 主题综合（Thematic Synthesis） | 替代方法 | 主题综合从数据出发归纳主题，框架综合以先验框架为模板并允许新主题[[Emergence\|涌现]] |
+> | 主题综合（[[Thematic Synthesis]]） | 替代方法 | 主题综合从数据出发归纳主题，框架综合以先验框架为模板并允许新主题[[Emergence\|涌现]] |
 > | [[Coding in Qualitative Research\|质性研究编码（Coding in Qualitative Research）]] | 分析技术 | 框架综合的编码依赖质性编码技术，先验框架节点即为初始编码簿 |
 > | [[Mixed Methods Appraisal Tool\|混合方法评价工具（Mixed Methods Appraisal Tool）]] | 质量评估 | MMAT 用于评估纳入研究质量，低质量研究发现只作弱证据处理 |
 > | [[Quality Use of Research Evidence Framework\|研究证据质量使用框架（Quality Use of Research Evidence Framework）]] | 理论支撑 | QURE 是框架综合最常见的先验框架来源之一，本身即基于系统综述提出 |

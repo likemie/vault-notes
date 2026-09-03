@@ -5,6 +5,7 @@ extracted_to:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03]]"
+  - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04]]"
 processed_date: 2026-08-23
 ---
 

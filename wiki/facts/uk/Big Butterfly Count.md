@@ -27,10 +27,11 @@ related_concepts:
   - "[[Praxis]]"
 related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02]]"
+  - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04]]"
 confidence: high
 status: draft
 created: 2026-08-23
-updated: 2026-08-23
+updated: 2026-09-04
 ---
 
 # Big Butterfly Count
@@ -54,6 +55,7 @@ updated: 2026-08-23
 > [!finding-cards] 科学治理产出与全人发展效益
 > - **高分辨率海量生态数据** 每年产生数百万条地理时空观测记录，全面接入英国国家生物多样性网络（National Biodiversity Network, NBN）与联合自然保护委员会（JNCC），直接支撑英国环境、食品与农村事务部（Defra）制定《英格兰物种恢复战略》与监测气候变化生态响应。
 > - **打破科研精英门槛与培育环境能动性** 证明严谨科学研究可转化为全民普惠参与的社会文化活动，让公众在亲近本土自然中建立生态系统思维，极大激发了全年龄段公民保护生态环境的[[Self-Efficacy|自我效能感]]与社区行动力。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026, p. 46)]]
+> - **第三部门土地管理与会员网络动员** 依托国民信托（National Trust）超 500 万会员与英国皇家鸟类保护协会（RSPB）等大型非营利土地管理机构的组织网络，将[[Citizen Science|公民科学]]深度嵌入大众日常生活，展现了第三部门通过海量数据收集推动公众行为改变与环保政策立法的变革力量。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04|(The Royal Society, 2026, p. 75)]]
 
 ---
 

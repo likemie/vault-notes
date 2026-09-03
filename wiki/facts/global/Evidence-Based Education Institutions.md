@@ -22,6 +22,7 @@ related_concepts:
   - "[[Going Native]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Effect Size]]"
+  - "[[Research Utilization]]"
   - "[[Praxis]]"
   - "[[Paradigm]]"
   - "[[Theory of Mind]]"
@@ -121,7 +122,7 @@ updated: 2026-07-14
 
 ## 研究综合与证据中心
 
-以[[Systematic Review|系统综述]]方法论开发、证据使用研究为核心职能的学术机构：
+以[[Systematic Review|系统综述]]方法论开发、[[Research Utilization|证据使用]]研究为核心职能的学术机构：
 
 > [!ref-table] 研究综合与证据中心
 > | 机构 | 简介 |
@@ -145,7 +146,7 @@ updated: 2026-07-14
 > |---|---|
 > | [教育捐赠基金会](https://educationendowmentfoundation.org.uk/) [[Education Endowment Foundation]] | 英国最大的独立教育研究资助方，2011 年由 Sutton Trust and Impetus 联合创立，以 [[Randomised Controlled Trials\|RCT]] 资助和教育捐赠基金会（Education Endowment Foundation，EEF）工具包为核心产品 |
 > | [什么有效网络](https://www.gov.uk/guidance/what-works-network) [[What Works Network]] | 英国政府 2013 年建立的全国性"什么有效"中心网络，EEF 为教育领域的对应中心 |
-> | [英国循证政策中心](https://www.ukri.org/councils/esrc/) [[UK Centre for Evidence-based Policy]] | 原属 ESRC，推动政策中的研究证据使用；ESRC 并入 UKRI 后职能已整合 |
+> | [英国循证政策中心](https://www.ukri.org/councils/esrc/) [[UK Centre for Evidence-based Policy]] | 原属 ESRC，推动政策中的研究[[Research Utilization\|证据使用]]；ESRC 并入 UKRI 后职能已整合 |
 > | [证据网络](https://www.kcl.ac.uk/policy-institute) [[Evidence Network]] | 原属伦敦国王学院，连接研究者与政策制定者；现由国王学院政策研究所替代 |
 > | [研究知情实践网站](https://www.gov.uk/government/organisations/department-for-education) [[Research Informed Practice Site]] | 原属英国 DCSF，面向教师提供研究证据资源；随 DCSF 于 2010 年改组为教育部而消失 |
 > | [华东师范大学循证研究宣言](https://www.ecnu.edu.cn/) [[ECNU Declaration on Evidence-Based Research\|华东师范大学循证研究宣言（East China Normal University，ECNU）]] | 2017 年中国教育领域对循证[[Paradigm\|研究范式]]的正式认可与倡导 |

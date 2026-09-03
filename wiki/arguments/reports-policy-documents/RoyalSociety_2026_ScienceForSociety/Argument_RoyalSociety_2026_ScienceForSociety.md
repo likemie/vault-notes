@@ -46,10 +46,12 @@ related_concepts:
   - "[[AI Literacy]]"
   - "[[Practical Inquiry in Science Education]]"
   - "[[Science Journalism]]"
+  - "[[Patient and Public Involvement]]"
   - "[[Rote Learning]]"
   - "[[Solutions Journalism]]"
   - "[[Scientific Misinformation]]"
   - "[[Responsible Conduct of Research]]"
+  - "[[University Spin-Out]]"
   - "[[Reliability]]"
   - "[[Research Scope]]"
 related_theories: []
@@ -74,9 +76,12 @@ related_facts:
   - "[[Big Butterfly Count]]"
   - "[[The Perception Census]]"
   - "[[Science Media Centre]]"
+  - "[[The Social Value Model]]"
+  - "[[Association of Medical Research Charities]]"
   - "[[Bodmer Report 1985]]"
 related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03]]"
+  - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02]]"
 sources:
@@ -84,7 +89,7 @@ sources:
 part_of:
 status: draft
 created: 2026-08-22
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 # Argument_RoyalSociety_2026_ScienceForSociety
 
@@ -175,7 +180,7 @@ updated: 2026-09-03
 > - **第 1 章 — Education（pp. 29–40）** 夯实全民[[Scientific Literacy|科学素养]]基础，聚焦科学本质理解、数据与 AI 素养、[[Practical Inquiry in Science Education|实验探究教学]]及 16–18 岁宽口径课程改革。
 > - **第 2 章 — Informal engagement with science（pp. 41–54）** 确立科学探索中心、科技馆、科学节与[[Citizen Science|公民科学]]作为社会文化基建的战略地位，破解地理不平等、场馆生存危机与建立长期队列追踪。
 > - **第 3 章 — Mass media and misinformation（pp. 55–66）** [[Argument_RoyalSociety_2026_ScienceForSociety_Ch03]] — 剖析在线信息环境、社交媒体算法推荐偏倚、[[Science Journalism|科学新闻]]通稿源头夸大与虚假信息治理行为守则。
-> - **第 4 章 — Industry and business sector / Third sector（pp. 67–78）** 待处理 — 探讨产业研发人员与慈善/患者组织的公众沟通实践与伦理考量。
+> - **第 4 章 — Industry and business sector / Third sector（pp. 67–78）** [[Argument_RoyalSociety_2026_ScienceForSociety_Ch04]] — 剖析产业研发主体地位（>2/3 研发总量）与信任赤字（私企科学家信任度 47% vs 大学 87%），依托政府采购 10% 社会价值杠杆撬动场馆协同，提炼第三部门患者公众参与（[[Patient and Public Involvement|PPI]]）与数百万级[[Citizen Science|公民科学]]动员典范。
 > - **第 5 章 — Policy（pp. 79–90）** 待处理 — 阐述政府科学咨询独立性、证据赋能决策与公众参与政策制定的机制。
 > - **第 6 章 — Academic scientific community（pp. 91–106）** 待处理 — 解构高校科研文化、职业晋升评价、专业技能培训与经费保障。
 
@@ -183,7 +188,7 @@ updated: 2026-09-03
 > - **Ch. 1 — Education** [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]] — 剖析中小学科学素养重构、实验动手探究课时萎缩危机、后 16 岁过早分科破除与师资赋权。
 > - **Ch. 2 — Informal engagement with science** [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02]] — 确立校外科学作为社会文化基建、诊断 [[Public Attitudes to Science|PAS 2025]] 治理落差、化解场馆生存危机与建立跨界长期评估。
 > - **Ch. 3 — Mass media and misinformation** [[Argument_RoyalSociety_2026_ScienceForSociety_Ch03]] — 剖析媒体生态碎片化、社交算法分发偏误、新闻通稿夸大源头与科学传播行为守则。
-> - **Ch. 4 — Industry and business sector / Third sector** 待处理 — 产业界与非营利部门的科学传播与社会责任。
+> - **Ch. 4 — Industry and business sector / Third sector** [[Argument_RoyalSociety_2026_ScienceForSociety_Ch04]] — 诊断产业研发体量与社会脱节矛盾、烟草与转基因历史偏见烙印、政府采购 10% 社会价值政策杠杆、AI 信任赤字与第三部门全生命周期患者参与[[Paradigm|范式]]。
 > - **Ch. 5 — Policy** 待处理 — 科学顾问机制、政策透明度与公共民主参与。
 > - **Ch. 6 — Academic scientific community** 待处理 — 学术界激励机制重塑、职业考评与机构支持。
 
@@ -193,6 +198,7 @@ updated: 2026-09-03
 > | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|第1章 学校科学教育]] | 阐明科学教育作为公民科学素养与人才管道的基石，破除[[Rote Learning\|死记硬背]]公式，应对实验动手课时腰斩危机，破除高中过早文理分科并赋权科学师资。 | [[Scientific Literacy]]、[[Data Literacy]]、[[AI Literacy]]、[[Practical Inquiry in Science Education]]、[[Science Capital]]、[[Beyond 2000 Report]]、[[Twenty First Century Science]]、[[UK Science Education Tracker]] |
 > | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|第2章 校外科学参与]] | 确立非正式科学作为维系繁荣社会的必备文化基建，诊断 PAS 2025 信息渴求与决策边缘化落差，依托资产下沉与公民科学打破自选壁垒，化解场馆生存危机并建立国家长期队列追踪。 | [[Informal Science Learning]]、[[Citizen Science]]、[[Public Engagement with Science]]、[[Association for Science and Discovery Centres]]、[[Public Attitudes to Science]]、[[Dippy on Tour]]、[[Big Butterfly Count]]、[[The Perception Census]]、[[Cohort Study]] |
 > | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|第3章 大众传媒与虚假信息]] | 诊断数字算法分发与虚假信息扩散危机，揭示科学新闻夸大对高校新闻通稿的源头依赖，倡导[[Solutions Journalism\|解决方案新闻]]并制定科学传播行为守则。 | [[Scientific Misinformation]]、[[Science Media Centre]]、[[Public Attitudes to Science]]、[[Responsible Conduct of Research]]、[[Survey Research]]、[[Deficit Model of Science Communication]]、[[Generative Artificial Intelligence]] |
+> | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch04\|第4章 产业与第三部门]] | 剖析产业界承担逾三分之二研发的枢纽地位，诊断私企科学家信任度下滑（47%）与 AI 信任赤字（33%），依托政府采购 10% 社会价值撬动场馆合作，提炼第三部门医学慈善全生命周期患者参与（PPI）与大规模公民科学经验。 | [[The Social Value Model]]、[[Association of Medical Research Charities]]、[[Patient and Public Involvement]]、[[University Spin-Out]]、[[Public Attitudes to Science]]、[[Public Engagement with Science]]、[[Big Butterfly Count]]、[[Generative Artificial Intelligence]]、[[Case Study]]、[[Survey Research]] |
 
 ---
 

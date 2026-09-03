@@ -17,6 +17,7 @@ tags:
   - theme/evidence-based-education
   - theme/evidence-based-policy
 related_concepts:
+  - "[[Research Utilization]]"
   - "[[Evidence-Based Education]]"
 related_facts:
   - "[[EPPI-Centre]]"
@@ -37,7 +38,7 @@ updated: '2026-08-27'
 > [!event-context] 机构创建与定位
 > - **时间** 1990 年代后期至 2000 年代
 > - **隶属** 英国经济与社会研究理事会（Economic and Social Research Council，ESRC）
-> - **定位** 推动政策制定中的研究证据使用
+> - **定位** 推动政策制定中的研究[[Research Utilization|证据使用]]
 
 英国循证政策中心（UK Centre for Evidence-based Policy）是 ESRC 在循证政策运动中的制度布局之一，与 [[EPPI-Centre]] 和 CEM 中心并列为 2000 年前后英国[[Evidence-Based Education|循证教育]]研究的核心机构（pp.330–335）。
 

@@ -33,20 +33,23 @@ related_concepts:
   - "[[Science Journalism]]"
   - "[[Solutions Journalism]]"
   - "[[Scientific Misinformation]]"
+  - "[[Patient and Public Involvement]]"
   - "[[Science Capital]]"
 related_facts:
   - "[[PISA]]"
   - "[[OECD]]"
+  - "[[The Social Value Model]]"
   - "[[Science Media Centre]]"
   - "[[Association for Science and Discovery Centres]]"
 related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03]]"
+  - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04]]"
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Public Attitudes to Science
@@ -91,6 +94,10 @@ updated: 2026-09-03
 > - **40% vs 48% 真实感下滑与冲突困惑** 仅 40% 的公众认同所接触的科学信息通常是真实的（较 2014 年超 50% 显著滑坡，仅 10% 明确否认，近半数处于不确定状态）；同时 48% 的受访者表示相互冲突的科学信息过多，导致极难判断应当相信什么。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026, p. 59)]]
 > - **87% vs 33% 科学家高公信力资产** 尽管公众对传统媒体的信任度仅约三分之一（33%），对社交媒体信任度更低，但对大学科学家诚实开展研究的信任度高达 87%，成为抵御网络虚假信息的关键社会资产。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026, pp. 59–60)]]
 
+> [!stat-cards]- 核心数据（产业信任鸿沟与新兴技术接纳度）
+> - **47% vs 87% 产业与大学科学家的公信力鸿沟** 公众对私营企业科学家的信任度从 2019 年的 57% 下滑至 2025 年的 47%；相比之下，对大学科学家的信任度高达 87%，反映出公众对产业追求商业利润动机的普遍戒心。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04|(The Royal Society, 2026, p. 69)]]
+> - **33% vs 80% 人工智能的社会信任赤字** 仅 33% 的受访者认同 AI 的利益大于风险；相比之下，公众对疫苗接种的利益认同度高达 80%，凸显出数据赋能新兴技术在社会接纳上面临严峻的公信力挑战。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04|(The Royal Society, 2026, p. 73)]]
+
 ---
 
 ## 政策与理论启示
@@ -99,6 +106,7 @@ updated: 2026-09-03
 > - **确立社会文化基础设施的民意支撑** 62% 的科学信息渴求与稳步上升的科技馆访问率证实，[[Informal Science Learning|非正式科学参与]]具有庞大的公众需求，必须确立其与绿地、图书馆同等的核心公共品地位。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026, p. 48)]]
 > - **彻底废除单向[[Deficit Model of Science Communication|赤字模型]]** 仅 12% 的决策参与感表明，传统的单向普及模式已无法满足现代公民诉求，政府与科研机构必须在立项与决策初期引入公众审议（Public Deliberation）与双向协商机制。
 > - **强化[[Science Journalism|科学新闻]]护栏与解决方案倡导** 面对公众对冲突信息的困惑与仅 40% 的真实性感知，科学界需深化与新闻界合作，通过[[Solutions Journalism|建设性新闻]]提供希望与解决方案，并依托科学家 87% 的公信力重建健康的信息生态。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026, pp. 59–63)]]
+> - **重塑产业研发透明度与推进 AI 民主审议** 针对私企科学家仅 47% 的信任度与 AI 仅 33% 的利益认同度，产业界必须打破封闭研发与碎片化公关模式，依托 10% 政府采购《[[The Social Value Model|社会价值模型]]》等政策杠杆，将公众协商与以患者/用户为中心的参与机制深度内嵌于技术全生命周期。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04|(The Royal Society, 2026, pp. 69–73)]]
 
 ---
 
@@ -111,6 +119,8 @@ updated: 2026-09-03
 > | [[Scientific Misinformation]] | 概念 | 调查揭示公众对冲突科学信息的认知困惑及真实性认同下滑态势。 |
 > | [[Science Media Centre]] | 事实 | 依托调查中公众对科学家的高信任度，搭建连接科研界与新闻媒体的公信力桥梁。 |
 > | [[Public Engagement with Science]] | 概念 | 为公众科学参与的社会需求与信任结构提供全国性实证依据。 |
+> | [[The Social Value Model]] | 事实 | 英国政府采购政策以 10% 权重法定考核社会价值，激励产业研发建立透明公众信任与社区联结。 |
+> | [[Patient and Public Involvement]] | 概念 | 医药与生命科学产业在应对公众信任危机中，将患者之声嵌入研发全周期的代表性参与[[Paradigm\|范式]]。 |
 > | [[Science Capital]] | 概念 | 调查反映的科学获取不平等印证了科学资本差异的现实影响。 |
 > | [[Scientific Attitude]] | 概念 | 为现代科技政策中公众科学态度与民主审议诉求提供最新民意基准。 |
 > | [[Informal Science Learning]] | 概念 | 为英国非正式科学场馆年访问率与公众参与动机提供量化实证支撑。 |

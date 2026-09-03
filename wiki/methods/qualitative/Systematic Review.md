@@ -40,6 +40,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Research Utilization]]"
   - "[[Profession-Sensitive Conceptualisations of Research Use]]"
+  - "[[Creativity]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
@@ -56,6 +57,7 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Critical Review]]"
   - "[[Framework Synthesis]]"
+  - "[[Thematic Synthesis]]"
 related_persons: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17]]"
@@ -63,6 +65,7 @@ related_arguments:
   - "[[Argument_Li_2025_HSSC]]"
   - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
   - "[[Argument_Mausethagen_2025_ERR]]"
+  - "[[Argument_Li_2026_CEAI]]"
 related_facts:
   - "[[EPPI-Centre]]"
   - "[[EEF Teaching and Learning Toolkit]]"
@@ -231,4 +234,4 @@ EPPI-Centre 在上述阶段模型之外，还提出了七项独立于操作步�
 > - **[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al. (2011, Ch17)]]** 教材第 17 章节系统介绍了系统综述与研究综合的定义、类型、操作标准（[[EPPI-Centre]]、BERA、Evans & Benefield、Cooper 等框架）与方法论警示。
 > - **[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]]** 遵循 PRISMA 报告，在 Scopus、Web of Science 与 ERIC 三库系统检索，双盲两阶段筛选后纳入 109 项学校[[Research Utilization|研究使用]]实证研究，用[[Mixed Methods Appraisal Tool|混合方法评价工具]]（Mixed Methods Appraisal Tool, MMAT）评估质量并采用[[Framework Synthesis|框架综合]]进行证据整合。
 > - **[[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]]** 结合系统综述的检索与筛选流程及[[Critical Review|批判性综述]]方法，对 34 篇关于教育中[[Research Utilization|研究使用]]的[[Document|文献]]进行全文本解构，提出第四代[[Profession-Sensitive Conceptualisations of Research Use|专业敏感型研究使用]]理论。
-> - **[[Argument_Li_2026_CEAI|Li et al. (2026)]]** 遵循 PRISMA 指南对 67 篇实证文献开展系统综述，结合双人双盲 MMAT 质量评价与三阶段主题综合法，系统解构 ChatGPT 在高等教育中对批判性与创造性思维的赋能机制与风险模式。
+> - **[[Argument_Li_2026_CEAI|Li et al. (2026)]]** 遵循 PRISMA 指南对 67 篇实证文献开展系统综述，结合双人双盲 MMAT 质量评价与三阶段[[Thematic Synthesis|主题综合法]]，系统解构 ChatGPT 在高等教育中对批判性与[[Creativity|创造性思维]]的赋能机制与风险模式。

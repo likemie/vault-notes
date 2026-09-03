@@ -70,6 +70,7 @@ related_facts:
   - "[[Big Butterfly Count]]"
   - "[[The Perception Census]]"
   - "[[National Science Foundation]]"
+  - "[[The Social Value Model]]"
   - "[[OECD]]"
   - "[[UK Science Education Tracker]]"
 related_arguments:
@@ -260,7 +261,7 @@ updated: 2026-09-03
 > - **4. 支柱性慈善基金会资金战略重心转移** 惠康信托基金会作为过去几十年英国非正式科学教育的最大民间资助方，近年战略转向国际公共卫生与高校特定科研项目，导致英国本土通用型非正式科学机构面临断崖式资金缺口。
 
 > [!policy-design] 多元筹资模式与政策支持四大破局支柱
-> - **1. 政府采购 10% 社会价值模型（Social Value in Procurement）**
+> - **1. 政府采购 10% [[The Social Value Model|社会价值模型]]（Social Value in Procurement）**
 >   依据英国内阁办公室《国家采购政策声明》，在各级政府庞大的公共采购与商业招投标合同中，强制将至少 **10%** 的社会价值评估权重定向用于支持非正式科学参与机构、科学节及社区科普外展。（pp. 49–50）
 > - **2. 比照文化艺术部门落实财税激励平权（Tax Incentives Parity）**
 >   由 ASDC 与英国财政部协同，推动科学探索中心、科技馆与科学节享受与剧院、管弦乐团及国家美术馆完全同等的展览税收抵免（Exhibition Tax Relief）与慈善配资待遇。

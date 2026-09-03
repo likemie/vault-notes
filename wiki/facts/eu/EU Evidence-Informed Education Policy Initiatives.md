@@ -96,7 +96,7 @@ updated: '2026-09-02'
 ## 效果与评价
 
 > [!success] 评价
-> 欧盟证据倡议推动了欧洲教育政策话语中的证据使用意识，也促成了 EIPPEE、Eurydice 支持机制和多个国家层面的证据中介组织。但这些倡议仍未被系统纳入所有成员国实践，除促进证据交流的网络外，不少项目彼此之间显得分散；这一判断的推理链集中写在 [[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet (2021, pp. 41–42)]]。
+> 欧盟证据倡议推动了欧洲教育政策话语中的[[Research Utilization|证据使用]]意识，也促成了 EIPPEE、Eurydice 支持机制和多个国家层面的证据中介组织。但这些倡议仍未被系统纳入所有成员国实践，除促进证据交流的网络外，不少项目彼此之间显得分散；这一判断的推理链集中写在 [[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet (2021, pp. 41–42)]]。
 
 > [!info]- 核心数据
 > - Eurydice 网络包括 38 个 Erasmus+ 项目国家中的 43 个国家单位，用于说明欧洲教育系统如何组织和运行([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p. 43]])。

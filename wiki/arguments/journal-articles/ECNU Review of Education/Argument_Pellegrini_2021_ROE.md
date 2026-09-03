@@ -25,6 +25,7 @@ tags:
   - method/document-analysis
 related_concepts:
   - "[[Research Question]]"
+  - "[[Research Utilization]]"
   - "[[Evidence-Based Reform]]"
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Informed Practice]]"
@@ -76,7 +77,7 @@ citation_aliases:
 ## 研究问题
 
 > [!info] [[Research Question|研究问题]]
-> 欧洲教育政策中，证据使用已经被 [[EU Evidence-Informed Education Policy Initiatives|欧盟证据知情教育政策倡议]] 持续鼓励，但这种鼓励到底发展到什么程度？哪些 证据中介组织 承担证据生产和传播功能？为什么在美国 ESSA 式证据标准 已经制度化之后，欧洲仍难以形成系统的 [[Evidence-Based Reform|证据本位改革]]？(pp.25-28)
+> 欧洲教育政策中，[[Research Utilization|证据使用]]已经被 [[EU Evidence-Informed Education Policy Initiatives|欧盟证据知情教育政策倡议]] 持续鼓励，但这种鼓励到底发展到什么程度？哪些 证据中介组织 承担证据生产和传播功能？为什么在美国 ESSA 式证据标准 已经制度化之后，欧洲仍难以形成系统的 [[Evidence-Based Reform|证据本位改革]]？(pp.25-28)
 
 这篇文章要解释的核心张力是：欧盟政策倡议 已经把证据知情政策和实践列为教育治理方向，但欧洲教育系统的多国、多语言、多课程结构，使“有证据的项目”很难直接变成可复制、可采购、可评估的欧洲共同方案(pp.35-37)。
 
@@ -92,7 +93,7 @@ citation_aliases:
 > [!info] 研究方法
 > - 方法：政策文件分析与[[Literature Review|文献综述]]。
 > - 数据来源：欧洲委员会、Eurydice et al.官方文件，以及[[Evidence-Based Education|证据本位教育]]领域关于政策、实践和证据文化的[[Document|文献]](p.25)。
-> - 分析对象：欧盟和 Eurydice 网络成员国中促进证据使用的政策措施、证据生产与传播组织，以及欧洲发展证据知情教育政策面临的主要挑战(p.28)。
+> - 分析对象：欧盟和 Eurydice 网络成员国中促进[[Research Utilization|证据使用]]的政策措施、证据生产与传播组织，以及欧洲发展证据知情教育政策面临的主要挑战(p.28)。
 
 ## 论证结构
 
@@ -111,7 +112,7 @@ citation_aliases:
 
 4. 2009 年 ET 2020 将进展监测与证据本位政策制定联系起来；同年欧盟发起知识中介网络提案，2010-2013 年 [[EU Evidence-Informed Education Policy Initiatives|EIPPEE]] 项目调查欧洲国家如何连接研究与政策(p.30)。
 5. EIPPEE 发现欧洲活动很多、路径多样，但跨欧洲层面的合作和协调较少；它建议加强研究证据与政策之间的联系、提升研究质量和可用性、扩展系统综述、建设研究生产到使用系统中的能力，并增加政治和财政承诺(p.30)。
-6. 2017 年 Eurydice 报告显示，多数国家已有官方安排和组织为政策制定提供证据，但安排差异很大，从法律规定到一般性咨询指南不等；英国在政策措施上走在前面，并通过 [[EPPI-Centre]]、[[Education Endowment Foundation|EEF]]、SSIF and TLIF 等机制推动证据使用(p.31)。
+6. 2017 年 Eurydice 报告显示，多数国家已有官方安排和组织为政策制定提供证据，但安排差异很大，从法律规定到一般性咨询指南不等；英国在政策措施上走在前面，并通过 [[EPPI-Centre]]、[[Education Endowment Foundation|EEF]]、SSIF and TLIF 等机制推动[[Research Utilization|证据使用]](p.31)。
 
 例子：EEF 既生成新证据，也通过 Teaching and Learning Toolkit and Research Schools Network 做 [[Knowledge Mobilisation|知识动员]]。这类组织不是单[[Blue Skies Research|纯研究]]机构，而是在研究、学校和政策之间承担翻译功能(pp.31-33)。
 
@@ -139,7 +140,7 @@ citation_aliases:
 ## 主要发现
 
 > [!success] 主要发现
-> 1. 欧盟从 2006 年起逐步把证据使用纳入教育和培训政策话语，并通过 2007 年工作文件、2009 年 ET 2020、[[EU Evidence-Informed Education Policy Initiatives|EIPPEE]] 和 Eurydice 报告持续推动证据文化(pp.28-31)。
+> 1. 欧盟从 2006 年起逐步把[[Research Utilization|证据使用]]纳入教育和培训政策话语，并通过 2007 年工作文件、2009 年 ET 2020、[[EU Evidence-Informed Education Policy Initiatives|EIPPEE]] 和 Eurydice 报告持续推动证据文化(pp.28-31)。
 > 2. 欧洲的政策语言更偏向 evidence-informed 而非 evidence-based，这意味着证据来源更宽，政策文件更倾向指导成员国而非规定统一行动线(p.26)。
 > 3. 英国在欧洲证据政策基础设施中处于前沿位置，[[EPPI-Centre]]、[[Education Endowment Foundation|EEF]]、SSIF and TLIF 等机制体现了研究生成、知识中介和政策资助之间的连接(pp.31-33)。
 > 4. 欧洲证据使用面临[[External Validity|外部效度]]和可迁移性难题，尤其受 43 个教育系统、24 种官方语言和各国课程标准差异影响(p.36)。
