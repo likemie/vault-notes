@@ -9,11 +9,11 @@ publication_type: book-chapter
 title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch01"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch01"
 argument_display_title: "Chapter one: Education"
-argument_kind: "report"
+argument_kind: "book-chapter"
 argument_related_count: 46
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
-argument_related_color: "#dcfce7"
+argument_related_color: "#fef3c7"
 issuing_organization: The Royal Society
 year: 2026
 isbn: 978-1-78252-829-6
@@ -53,6 +53,7 @@ related_concepts:
   - "[[Homework]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Critical Thinking]]"
+  - "[[Brainstorming]]"
   - "[[Science Capital]]"
   - "[[Attrition]]"
   - "[[Knowledge-Based Economy]]"
@@ -187,7 +188,7 @@ updated: 2026-09-03
 > | 交叉素养维度 | 核心概念内涵与认知目标 | 对应主干课程载体 | 系统推进机制与教学策略 | 典型应用与防范风险 |
 > |---|---|---|---|---|
 > | **[[Data Literacy\|数据素养]]** | 概率、风险、不确定性、采样偏差与图表批判解读 | 数学、统计学、各科理化实验 | 真实实验数据采集与清洗；推断统计与风险建模教学 | 准确评估医疗健康风险与公共统计数据；识别操纵性采样图表（p. 31） |
-> | **[[AI Literacy\|人工智能素养]]** | 理解算法模型局限；以 AI 放大人类认知与创新 | 计算机科学、各科科学探究 | 案例解析算法偏见；规范 AI 辅助探究与头脑风暴 | 坚守放大人类认知而非外包深层思维底线；防范生成式作答对作业与测评有效性的冲击（pp. 32, 34） |
+> | **[[AI Literacy\|人工智能素养]]** | 理解算法模型局限；以 AI 放大人类认知与创新 | 计算机科学、各科科学探究 | 案例解析算法偏见；规范 AI 辅助探究与[[Brainstorming\|头脑风暴]] | 坚守放大人类认知而非外包深层思维底线；防范生成式作答对作业与测评有效性的冲击（pp. 32, 34） |
 > | **[[Sustainability Education\|可持续发展素养]]** | 气候系统复杂性、生态承载力、全生命周期系统思维 | 地理、生物、化学、跨学科项目 | 全校协同模式（Whole-School）；跨学科项目化学习 | 掌握绿色技术基本原理；服务国家约 20 万绿色技能岗位转型（p. 32） |
 > | **科学本质素养** | 知识实证性、同行评议、[[Falsification\|可证伪性]]与暂定性 | 科学全学科、科学史与[[Epistemology\|认识论]] | 组织科学争议研讨；还原科学史假说修正过程 | 识别网络伪科学与反疫苗阴谋论；理解科学在动态修正中前进（p. 30） |
 

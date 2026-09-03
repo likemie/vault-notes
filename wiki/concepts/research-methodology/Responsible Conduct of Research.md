@@ -22,12 +22,18 @@ related_concepts:
   - "[[Creativity]]"
   - "[[University-Industry Collaboration]]"
   - "[[Academic Freedom]]"
+  - "[[Trustworthiness]]"
+  - "[[Conflict of Interest in Research]]"
+  - "[[Causality]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Hall_2025_EthicalLegalFrameworks]]"
+  - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03]]"
+related_instruments:
+  - "[[VALUE Rubrics]]"
 confidence: medium
 status: draft
 created: 2026-06-04
@@ -97,9 +103,9 @@ updated: 2026-09-03
 
 > [!policy-design]- 科学传播守则（Code of Practice）的三大支柱
 > 英国皇家学会建言参照英国统计局《统计实践守则》（Code of Practice for Statistics），为科学家与机构新闻官制定科学传播行为规范，确立三大核心支柱：
-> - **可信赖性（Trustworthiness）** 确立科学传播的独立性与透明度，主动披露资金支持、商业利益冲突与潜在偏见，严禁为追求眼球效应而片面发布未定论成果。
-> - **质量（Quality）** 恪守实证严谨性，确保新闻稿与公共阐述忠实于原始论文的证据力度；明确界定相关关系与因果关系，如实向公众说明动物模型与人体临床的本质差异。
-> - **价值（Value）** 秉持服务公众理性决策的价值导向，坦诚沟通研究的局限性与证据不确定性（Uncertainty）；以平实、平衡的语言促进理性审议，杜绝煽动性恐慌或虚妄承诺。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026, pp. 61–64)]]
+> - **[[Trustworthiness|可信赖性]]（Trustworthiness）** 确立科学传播的独立性与透明度，主动披露资金支持、商业[[Conflict of Interest in Research|利益冲突]]与潜在偏见，严禁为追求眼球效应而片面发布未定论成果。
+> - **质量（Quality）** 恪守实证严谨性，确保新闻稿与公共阐述忠实于原始论文的证据力度；明确界定相关关系与[[Causality|因果关系]]，如实向公众说明动物模型与人体临床的本质差异。
+> - **价值（[[VALUE Rubrics|VALUE]]）** 秉持服务公众理性决策的价值导向，坦诚沟通研究的局限性与证据不确定性（Uncertainty）；以平实、平衡的语言促进理性审议，杜绝煽动性恐慌或虚妄承诺。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026, pp. 61–64)]]
 
 ---
 

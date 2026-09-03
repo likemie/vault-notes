@@ -26,6 +26,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Cognitive Offloading]]"
   - "[[Externalization]]"
+  - "[[Brainstorming]]"
   - "[[AI Hallucination]]"
   - "[[Creativity]]"
   - "[[Critical Thinking]]"
@@ -75,7 +76,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-01
-updated: 2026-09-01
+updated: 2026-09-03
 ---
 
 # Generative Artificial Intelligence
@@ -89,7 +90,7 @@ updated: 2026-09-01
 
 > [!concept-lens] 概念透镜
 > - **含义** 指具有开放上下文理解与概率性合成表征能力的智能技术，重塑了知识检索、表征[[Externalization|外化]]与人机分工的边界。
-> - **用途** 在教育中充当头脑风暴启发伙伴、二语写作脚手架、个性化形成性反馈提供者与跨学科概念连接中继。
+> - **用途** 在教育中充当[[Brainstorming|头脑风暴]]启发伙伴、二语写作脚手架、个性化形成性反馈提供者与跨学科概念连接中继。
 > - **边界** 区别于预设规则与决定论算法，其输出具有概率性非确定性与[[AI Hallucination|幻觉]]（Hallucination）特征；无法替代人类具身体验、伦理裁决与深层认识论判断。
 
 > [!citation-card]- 关键表述：高等教育认知塑造视角

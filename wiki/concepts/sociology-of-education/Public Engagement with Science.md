@@ -29,7 +29,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-08-22
+updated: 2026-09-03
 ---
 
 # Public Engagement with Science
@@ -79,7 +79,7 @@ updated: 2026-08-22
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **双向对话与社会许可** | 确立公众参与对科研合法性与民主决策的基础支撑 | 国家科学政策与高校科研评价 | [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026)]] |
+> | **双向对话与社会许可** | 确立公众参与对科研合法性与民主决策的基础支撑 | 国家科学政策与高校科研评价 | [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026)]] |
 
 ---
 

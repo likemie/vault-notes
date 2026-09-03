@@ -28,6 +28,7 @@ related_concepts:
   - "[[Epistemological Vigilance]]"
   - "[[Critical Thinking]]"
   - "[[Creativity]]"
+  - "[[Brainstorming]]"
   - "[[AI Literacy]]"
   - "[[Epistemology]]"
   - "[[Cognitive Offloading]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-02
-updated: 2026-09-02
+updated: 2026-09-03
 ---
 
 # AI Hallucination
@@ -79,7 +80,7 @@ updated: 2026-09-02
 
 > [!boundary]- 概念边界辨析
 > - **不等于 算法偏见（Algorithmic Bias）** 算法偏见反映的是训练数据分布不均或历史歧视的系统性再现（如性别或种族刻板印象）；AI 幻觉则是模型在缺失确定信息时进行的概率性“无中生有（Confabulation）”。
-> - **不等于 [[Creativity|创造性]]联想（Creative Ideation）** 在小说构思与头脑风暴中，虚构情节属于有益的创造性发散；但当任务情境切换为科学研究、学术论文或事实问答时，未经标记的虚构即构成有害的“幻觉”。
+> - **不等于 [[Creativity|创造性]]联想（Creative Ideation）** 在小说构思与[[Brainstorming|头脑风暴]]中，虚构情节属于有益的创造性发散；但当任务情境切换为科学研究、学术论文或事实问答时，未经标记的虚构即构成有害的“幻觉”。
 
 ---
 

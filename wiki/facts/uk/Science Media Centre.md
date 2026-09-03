@@ -22,13 +22,21 @@ tags:
   - theme/public-engagement
   - theme/journalism
   - theme/research-integrity
-related_concepts: []
+related_concepts:
+  - "[[Conflict of Interest in Research]]"
+  - "[[Scientific Misinformation]]"
+  - "[[Public Engagement with Science]]"
+  - "[[Dialogue in Education]]"
+  - "[[Responsible Conduct of Research]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[Victorian HITS and Literacy Toolkit]]"
+  - "[[Public Attitudes to Science]]"
+related_arguments:
+  - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03]]"
 confidence: high
 status: draft
 created: 2026-09-03
@@ -51,7 +59,7 @@ updated: 2026-09-03
 ## 核心职能与运行机制
 
 > [!claim] 机构核心使命
-> 科学媒体中心（Science Media Centre, SMC）致力于在科学成为新闻头条时（When science hits the headlines），为新闻界提供准确、权威且经过同行评议检验的一线科学家声音，防止煽动性夸大与虚假信息滋长。
+> 科学媒体中心（Science Media Centre, SMC）致力于在科学成为新闻头条时（When science [[Victorian HITS and Literacy Toolkit|HITS]] the headlines），为新闻界提供准确、权威且经过同行评议检验的一线科学家声音，防止煽动性夸大与虚假信息滋长。
 
 > [!policy-design]- SMC 三大旗舰业务支柱
 > - **1. 突发新闻快速专家点评（Roundups & Rapid Reactions）**
@@ -77,7 +85,7 @@ updated: 2026-09-03
 
 > [!tension] 独立性与商业利益张力
 > - **民间与企业资助的中立性质疑（批评方）** 部分环保组织与批评人士曾质疑 SMC 接受了部分医药与农业化工企业的赞助，担忧其在草甘膦、杀虫剂及转基因审批等商业议题上偏袒工业界立场。
-> - **规则兜底与多元资金保障（机构回应）** SMC 坚守资助限额红线（单一机构不得超过 5%），且新闻团队的选题与专家库完全独立于资助方；专家点评全部公开实名并声明利益冲突（Conflicts of Interest），证明其公信力建立在公开透明与严密证据之上。
+> - **规则兜底与多元资金保障（机构回应）** SMC 坚守资助限额红线（单一机构不得超过 5%），且新闻团队的选题与专家库完全独立于资助方；专家点评全部公开实名并声明[[Conflict of Interest in Research|利益冲突]]（Conflicts of Interest），证明其公信力建立在公开透明与严密证据之上。
 
 ---
 
@@ -88,7 +96,7 @@ updated: 2026-09-03
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Scientific Misinformation]] | 概念 | SMC 是英国在新闻传播一线阻断科学虚假信息扩散的核心专业中介。 |
-> | [[Public Engagement with Science]] | 概念 | 为科学家走出象牙塔、参与大众媒体公共对话提供专业支撑与防护机制。 |
+> | [[Public Engagement with Science]] | 概念 | 为科学家走出象牙塔、参与大众媒体公共[[Dialogue in Education\|对话]]提供专业支撑与防护机制。 |
 > | [[Responsible Conduct of Research]] | 概念 | 推动新闻发布与专家评论恪守科研诚信规范，防范过度营销。 |
 > | [[Public Attitudes to Science]] | 事实 | PAS 调查中公众对科学家的高信任度为 SMC 凝聚权威声音提供了民意基础。 |
 >
