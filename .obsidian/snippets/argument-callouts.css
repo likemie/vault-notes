@@ -16775,6 +16775,30 @@ table:has(thead th:nth-child(8)):not(:has(thead th:nth-child(9))) :is(th, td):nt
 .callout[data-callout="ma-table"]:has(.concept-meta-moderator-table-marker)
 table:has(thead th:nth-child(8)):not(:has(thead th:nth-child(9))) :is(th, td):nth-child(8) { width: 12% !important; }
 
+/* Concept「实证数据」· 一阶元分析互补维度七列表
+   统计检验与解释边界需要连续阅读空间；压缩短字段，利用横向滚动减少纵向换行。 */
+.callout[data-callout="ma-table"]:has(.concept-meta-moderator-table-marker)
+table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) {
+  width: max(100%, 1560px) !important;
+  min-width: 0 !important;
+  table-layout: fixed !important;
+}
+
+.callout[data-callout="ma-table"]:has(.concept-meta-moderator-table-marker)
+table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nth-child(1) { width: 12% !important; }
+.callout[data-callout="ma-table"]:has(.concept-meta-moderator-table-marker)
+table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nth-child(2) { width: 9% !important; }
+.callout[data-callout="ma-table"]:has(.concept-meta-moderator-table-marker)
+table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nth-child(3) { width: 19% !important; }
+.callout[data-callout="ma-table"]:has(.concept-meta-moderator-table-marker)
+table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nth-child(4) { width: 8% !important; }
+.callout[data-callout="ma-table"]:has(.concept-meta-moderator-table-marker)
+table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nth-child(5) { width: 17% !important; }
+.callout[data-callout="ma-table"]:has(.concept-meta-moderator-table-marker)
+table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nth-child(6) { width: 18% !important; }
+.callout[data-callout="ma-table"]:has(.concept-meta-moderator-table-marker)
+table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nth-child(7) { width: 17% !important; }
+
 /* Concept「实证数据」· 二阶元分析互补维度亚组
    覆盖 ma-table 的通用 24% 首列：来源列保持紧凑，将空间留给亚组与效应说明。 */
 .callout[data-callout="ma-table"]:has(.concept-second-order-role-subgroup-marker)

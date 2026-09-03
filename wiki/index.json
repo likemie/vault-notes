@@ -4797,9 +4797,13 @@
       "创造力测评",
       "创造力评价",
       "创造力评估",
+      "创造力测量",
       "创造性思维测评",
       "创造性思维评价",
-      "assessment of creativity"
+      "创造性思维测量",
+      "创造力测试",
+      "assessment of creativity",
+      "creativity measurement"
     ]
   },
   {
@@ -13942,6 +13946,15 @@
     ]
   },
   {
+    "title": "Emotional Creativity Inventory",
+    "type": "instrument",
+    "path": "wiki/instruments/scales/Emotional Creativity Inventory.md",
+    "aliases": [
+      "情绪创造力量表",
+      "ECI"
+    ]
+  },
+  {
     "title": "Global Certainty Scale",
     "type": "instrument",
     "path": "wiki/instruments/scales/Global Certainty Scale.md",
@@ -13969,6 +13982,17 @@
       "教师研究素养量表",
       "RLS",
       "Research Literacy Scale"
+    ]
+  },
+  {
+    "title": "Abbreviated Torrance Test for Adults",
+    "type": "instrument",
+    "path": "wiki/instruments/tests/Abbreviated Torrance Test for Adults.md",
+    "aliases": [
+      "成人托兰斯创造性思维简表",
+      "成人托兰斯创造力测验",
+      "ATTA",
+      "Abbreviated Torrance Test"
     ]
   },
   {
@@ -14159,6 +14183,17 @@
     "aliases": [
       "RAT",
       "远距离联想测验"
+    ]
+  },
+  {
+    "title": "Test for Creative Thinking-Drawing Production",
+    "type": "instrument",
+    "path": "wiki/instruments/tests/Test for Creative Thinking-Drawing Production.md",
+    "aliases": [
+      "创造性思维绘画测验",
+      "乌尔班-耶伦创造力绘画测验",
+      "TCT-DP",
+      "Urban-Jellen Test for Creative Thinking"
     ]
   },
   {

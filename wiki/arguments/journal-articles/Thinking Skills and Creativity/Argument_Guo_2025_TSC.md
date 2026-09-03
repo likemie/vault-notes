@@ -62,8 +62,11 @@ related_methods:
   - "[[Role-playing]]"
 related_instruments:
   - "[[Torrance Tests of Creative Thinking]]"
+  - "[[Abbreviated Torrance Test for Adults]]"
+  - "[[Test for Creative Thinking-Drawing Production]]"
   - "[[Remote Associates Test]]"
   - "[[Alternate Uses Test]]"
+  - "[[Emotional Creativity Inventory]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -79,7 +82,7 @@ title: "Argument_Guo_2025_TSC"
 argument_key: "Argument_Guo_2025_TSC"
 argument_display_title: "Effect of training programs on the creativity of university students: A multi-level meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 41
+argument_related_count: 44
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -120,12 +123,12 @@ issuing_organization: ""
 > [!index-table] 核心[[Variable|变量]][[Operationalization|操作化]]定义与[[Coding in Qualitative Research|编码]]规程
 > | [[Variable\|变量]]维度与分类 | [[Construct\|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
 > |---|---|---|
-> | **创造性思维** | 产生新颖、多向度且具适应性观念的认知发散与重构能力。 | 典型工具包含[[Torrance Tests of Creative Thinking\|托兰斯创造性思维测验（Torrance Tests of Creative Thinking, TTCT）]]图形版（TTCT-F）与言语版（TTCT-V）、成人托兰斯创造性思维简表（Abbreviated Torrance Test for Adults, ATTA）；代表研究如 Karwowski & Soszynski (2008)、Puccio et al. (2020)；$N = 24, g = 0.671$。 |
-> | **图形创造力** | 借助视觉表征与空间拓扑重组新颖具象形态的图画创造能力。 | 典型工具包含 TTCT 图形版、发散性图形绘画测验（Test for Creative Thinking-Drawing Production, TCT-DP）、创意工程设计评估测验（Creative Engineering Design Assessment, CEDA）；代表研究如 West et al. (2012)、Morin et al. (2018)；$N = 27, g = 0.644$。 |
+> | **创造性思维** | 产生新颖、多向度且具适应性观念的认知发散与重构能力。 | 典型工具包含[[Torrance Tests of Creative Thinking\|托兰斯创造性思维测验（Torrance Tests of Creative Thinking, TTCT）]]图形版（TTCT-F）与言语版（TTCT-V）、[[Abbreviated Torrance Test for Adults\|成人托兰斯创造性思维简表（Abbreviated Torrance Test for Adults, ATTA）]]；代表研究如 Karwowski & Soszynski (2008)、Puccio et al. (2020)；$N = 24, g = 0.671$。 |
+> | **图形创造力** | 借助视觉表征与空间拓扑重组新颖具象形态的图画创造能力。 | 典型工具包含 TTCT 图形版、[[Test for Creative Thinking-Drawing Production\|创造性思维绘画测验（Test for Creative Thinking-Drawing Production, TCT-DP）]]、创意工程设计评估测验（Creative Engineering Design Assessment, CEDA）；代表研究如 West et al. (2012)、Morin et al. (2018)；$N = 27, g = 0.644$。 |
 > | **词汇创造力** | 基于字词语义进行快速远距离联想与新颖词汇重组的语言认知表现。 | 典型工具包含[[Remote Associates Test\|远距离联想测验（Remote Associates Test, RAT）]]、过泛思维任务（Over-Inclusive Thinking Task, OTT）；代表研究如 Chiu (2015)、Zitek & Vincent (2015)；$N = 16, g = 0.641$。 |
 > | **言语创造力** | 运用口头或书面语言生成丰富、多样且新颖观点与非常规用途的表达潜能。 | 典型工具包含[[Alternate Uses Test\|另类用途测验（Alternate Uses Test, AUT）]]、生成另类用途测验（Generation of Alternative Uses, GAU）、TTCT 言语版；代表研究如 Fink et al. (2015)、Lewis & Lovatt (2013)、Gu et al. (2023)；$N = 23, g = 0.606$。 |
 > | **问题解决** | 针对不良结构情境识别障碍、构思替代路径并实现目标突破的实践能力。 | 典型工具包含视觉隐喻原创性量表（Originality Scale of Visual Metaphors, OSVM）、问题解决测验（Problem Solving Inventory, PSI）、词语重组测验（Word Reorganization Test, WRT）；代表研究如 Baruah & Paulus (2008)、O'Connor et al. (2016)；$N = 10, g = 0.539$。 |
-> | **情绪创造力** | 个体体验、表达与调节独特、复杂且适切情绪模式的非认知创造潜能。 | 典型工具包含情绪创造力量表（Emotional Creativity Inventory, ECI）、主观运动体验量表（Subjective Exercise Experiences Scale, SEES）；代表研究如 Mahasneh & Gazo (2019)、Campion & Levita (2014)；$N = 9, g = 0.397$。 |
+> | **情绪创造力** | 个体体验、表达与调节独特、复杂且适切情绪模式的非认知创造潜能。 | 典型工具包含[[Emotional Creativity Inventory\|情绪创造力量表（Emotional Creativity Inventory, ECI）]]、主观运动体验量表（Subjective Exercise Experiences Scale, SEES）；代表研究如 Mahasneh & Gazo (2019)、Campion & Levita (2014)；$N = 9, g = 0.397$。 |
 > | **训练周期** | 干预方案实施的整体时间跨度，分为 $< 1$ 周、$< 2$ 个月、$< 4$ 个月、$< 1$ 年、$< 2$ 年、$< 3$ 年六个梯度。 | 短期密集工作坊至多学期长程课程；亚组分布 $N = 37, 30, 24, 9, 4, 5$；在元回归中解释 13.4% 组间方差。 |
 > | **训练方式** | 干预内容所依托的核心教学策略与认知路径，分为言语训练、思维训练、任务型训练、技术型训练、综合训练与情绪训练。 | 言语训练（$N = 15$）、思维训练（$N = 13$）、任务型训练（$N = 5$）、技术型训练（$N = 20$）、综合训练（$N = 54$）、情绪训练（$N = 2$）。 |
 > | **活动组织形式** | 训练实施过程中学习者参与互动的组织结构，分为独立个体练习与小组协作探究。 | 独立个体练习（$N = 48$）对比合作探究小组（$N = 61$）。 |
@@ -141,7 +144,7 @@ issuing_organization: ""
 > | 模块 | 材料与处理方式 |
 > |---|---|
 > | **[[Literature Search\|文献检索]]与筛选** | 遵循系统评价和荟萃分析优先报告条目（Preferred Reporting Items for Systematic Reviews and Meta-Analyses, [[PRISMA]]）指南，系统检索 Web of Science、Scopus、ScienceDirect、PubMed、ERIC 等数据库（2000–2024 年）；采用布尔逻辑检索、[[Document\|文献]]滚雪球法与专家咨询两阶段策略；经双人独立筛选与第三方复核，最终纳入 29 项实证研究。（pp.3–5） |
-> | **[[Effect Size\|效应量]]计算** | 提取各实验组与对照组（或前后测）的均值、标准差及样本量，采用小样本无偏校正的 [[Effect Size\|Hedges' $g$]] 作为效应量指标；依据 Cohen 准则将 0.2、0.5、0.8 分别界定为小、中、大效应。（p.5） |
+> | **[[Effect Size\|效应量]]计算** | 提取各实验组与对照组（或前后测）的均值、标准差及样本量，采用小样本无偏校正的 Hedges' $g$ 作为[[Effect Size\|效应量]]指标；依据 Cohen 准则将 0.2、0.5、0.8 分别界定为小、中、大效应。（p.5） |
 > | **[[Three-Level Meta-Analysis\|多层元分析]]与[[Meta-regression\|元回归]]** | 运用综合元分析软件（Comprehensive Meta-Analysis, CMA v3.070）构建多层随机效应模型（[[Fixed-Effect and Random-Effects Models\|Random-Effects Model]]），妥善处理单项研究内多个效应量的嵌套依赖性；通过 $Q$ 检验与 $I^2$ 评估异质性，并以亚组分析与[[Meta-regression\|元回归]]检验调节变量。（pp.5–7） |
 > | **[[Publication Bias\|发表偏倚]]诊断** | 绘制包含 109 个效应量的[[Standard Error\|标准误]]漏斗图，通过散点分布形态与对称性检验评估潜在发表偏倚风险。（pp.5–6） |
 
@@ -165,7 +168,7 @@ issuing_organization: ""
 > | Kienitz et al. (2014) | 美国（$EG = 15 / CG = 13$） | TTCT-F, 大五人格量表简版（NEO Five-Factor Inventory, NEO-FFI）；实验组/对照组（b: 替代训练） | 言语训练；< 2 个月；独立练习 |
 > | Lewis & Lovatt (2013) | 英国（$EG = 21 / CG = 20$） | AUT；实验组/对照组（b: 替代训练） | 言语训练；< 1 周；小组协作 |
 > | Malycha & Maier (2017) | 德国（$EG = 80 / CG = 80$） | SEES, TTCT；实验组/对照组（c: 等待名单） | 技术型训练；< 1 个月；小组协作 |
-> | Meinel et al. (2019) | 德国（$EG = 59 / CG = 59$） | ATTA；实验组/对照组（b: 替代训练） | 思维训练；< 2 个月；小组协作 |
+> | Meinel et al. (2019) | 德国（$EG = 59 / CG = 59$） | [[Abbreviated Torrance Test for Adults\|ATTA]]；实验组/对照组（b: 替代训练） | 思维训练；< 2 个月；小组协作 |
 > | Morin et al. (2018) | 加拿大（$EG = 59 / CG = 59$） | CEDA；前后测设计（c: 等待名单） | 技术型训练；> 1 年；独立练习 |
 > | O'Connor et al. (2016) | 澳大利亚（$EG = 62 / CG = 62$） | WRT；前后测设计（d: 情商训练） | 综合训练；< 1 周；独立练习 |
 > | Onarheim & Friis-Olivarius (2013) | 丹麦/加拿大（$EG = 50 / CG = 50$） | AUT；实验组/对照组（b: 替代训练） | 思维训练；< 2 个月；小组协作 |
@@ -177,11 +180,11 @@ issuing_organization: ""
 > | Zampetakis et al. (2008) | 希腊（$EG = 52 / CG = 42$） | OSVM；实验组/对照组（b: 替代训练） | 综合训练；< 4 个月；独立练习 |
 > | Lubart (2014) | 法国（$EG = 63 / CG = 63$） | 创造潜能评估测验（Evaluation of Potential for Creativity, EPOC）；实验组/对照组（b: 替代训练） | 综合训练；< 1 周；小组协作 |
 > | Gu et al. (2023) | 中国（$EG = 41 / CG = 39$） | AUT；实验组/对照组（b: 替代训练） | 综合训练；< 4 个月；小组协作 |
-> | Mahasneh & Gazo (2019) | 约旦（$EG = 35 / CG = 32$） | ECI；实验组/对照组（b: 替代训练） | 情绪训练；< 1 周；独立练习 |
+> | Mahasneh & Gazo (2019) | 约旦（$EG = 35 / CG = 32$） | [[Emotional Creativity Inventory\|ECI]]；实验组/对照组（b: 替代训练） | 情绪训练；< 1 周；独立练习 |
 > | Puccio et al. (2020) | 加拿大（$EG = 11 / CG = 10$） | TTCT；实验组/对照组（b: 替代训练） | 技术型训练；< 3 年；小组协作 |
 > | Fleury et al. (2020) | 法国（$EG = 16 / CG = 16$） | GAU, RAT；实验组/对照组（c: 等待名单） | 技术型训练；< 1 周；独立练习 |
 > | Dow & Mayer (2004) | 美国（$EG = 11 / CG = 11$） | OSVM；实验组/对照组（b: 替代训练） | 综合训练；< 1 个月；小组协作 |
-> | Karwowski & Soszynski (2008) | 波兰（$N = 15$） | 创造性意象测验（Test of Creative Imagery, TCI）, TCT-DP；实验组/对照组（b: 替代训练） | 综合训练；< 2 个月；独立练习 |
+> | Karwowski & Soszynski (2008) | 波兰（$N = 15$） | 创造性意象测验（Test of Creative Imagery, TCI）, [[Test for Creative Thinking-Drawing Production\|TCT-DP]]；实验组/对照组（b: 替代训练） | 综合训练；< 2 个月；独立练习 |
 > | Robbins & Kegley (2010) | 美国（$N = 51$） | TTCT；前后测设计（b: 替代训练） | 思维训练；< 4 个月；独立练习 |
 > | Stolaki & Economides (2018) | 希腊（$N = 81$） | TTCT；前后测设计（b: 替代训练） | 综合训练；< 1 个月；小组协作 |
 > | Vally et al. (2019) | 阿联酋 | TTCT；前后测设计（e: 神经创造力） | 任务型训练；< 4 个月；小组协作 |
@@ -215,10 +218,10 @@ issuing_organization: ""
 
 > [!ref-table]- 全域[[Effect Size|效应量]]与[[Heterogeneity|异质性]]检验表（Table 1）
 >
-> | 模型设定 | 研究数 *k* | Hedges’ *g*（95% CI） | 统计检验 | 模型与异质性解读 |
+> | 模型设定 | 研究数 $k$ | Hedges' $g$（95% CI） | 统计检验 | 模型与异质性解读 |
 > |---|---|---|---|---|
-> | **固定效应模型** | *k* = 29 | $0.572\ [0.504, 0.639]$ | $SE = 0.034,\ Z = 16.65\ (p < .001)$ | 基准同质性比较模型 |
-> | **随机效应模型** | *k* = 29 | $\mathbf{0.628}\ [0.446, 0.809]$ | $SE = 0.092,\ \mathbf{Z = 6.79\ (p < .001)}$ | $Q(28) = 178.51^{***},\ I^2 = 84.31\%,\ \tau^2 = 0.189$；真实异质性高，确立中等促进基准 |
+> | **固定效应模型** | $k = 29$ | $0.572\ [0.504, 0.639]$ | $SE = 0.034,\ Z = 16.65\ (p < .001)$ | 基准同质性比较模型 |
+> | **随机效应模型** | $k = 29$ | $\mathbf{0.628}\ [0.446, 0.809]$ | $SE = 0.092,\ \mathbf{Z = 6.79\ (p < .001)}$ | $Q(28) = 178.51^{***},\ I^2 = 84.31\%,\ \tau^2 = 0.189$；真实异质性高，确立中等促进基准 |
 
 > **图表解读** 
 > 1. **总体效应量级** 随机效应模型点估计为 $g = 0.628$（95% CI $[0.446, 0.809]$），依据 Cohen 标准达到中等偏上效应，有力推翻了“成年期创造潜能固化不可塑”的[[Hypothesis|假设]]。
@@ -244,7 +247,7 @@ issuing_organization: ""
 
 > [!ref-table]- 不同创造力子维度的干预效应量分布表（Table 2）
 >
-> | 创造力构念子维度 | 效应数 *N* | Hedges’ *g*（95% CI） | 统计检验 | 效应特征与机制解读 |
+> | 创造力构念子维度 | 效应数 $N$ | Hedges' $g$（95% CI） | 统计检验 | 效应特征与机制解读 |
 > |---|---|---|---|---|
 > | **创造性思维** | 24 | $\mathbf{0.671}\ [0.439, 0.903]$ | $SE = 0.118,\ Z = 5.68\ (p < .001)$ | **增益居首**，发散认知与观念流畅性极易受启发式策略激活 |
 > | **图形创造力** | 27 | $\mathbf{0.644}\ [0.439, 0.849]$ | $SE = 0.105,\ Z = 6.15\ (p < .001)$ | **强增益**，具象视觉表征与空间拓扑重组展现高度可塑性 |
@@ -276,7 +279,7 @@ issuing_organization: ""
 
 > [!ref-table]- 调节[[Variable|变量]]亚组与[[Meta-regression|元回归分析]]表（Table 3）
 >
-> | 调节变量与亚组 | 效应数 *N* | Hedges’ *g*（95% CI） | 统计检验 | 机制解读 |
+> | 调节变量与亚组 | 效应数 $N$ | Hedges' $g$（95% CI） | 统计检验 | 机制解读 |
 > |---|---|---|---|---|
 > | **训练周期** · < 1 周 | 37 | $0.576\ [0.424, 0.728]$ | $SE = 0.078,\ Z = 7.42\ (p < .001)$ | 快速策略启动，但受限于认知内化时间不足 |
 > | **训练周期** · **< 2 个月** | 30 | $\mathbf{0.844}\ [0.647, 1.042]$ | $SE = 0.101,\ \mathbf{Z = 8.38\ (p < .001)}$ | **黄金干预窗口（解释 13.4% 组间方差）**，策略精熟与动机最优平衡 |
