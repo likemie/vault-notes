@@ -85,7 +85,7 @@ updated: 2026-08-23
 > - **时间 / 地点** 1995 年由[[OECD|经济合作与发展组织]]（[[OECD]]）提出，1997 年正式启动开发，2000 年首轮实施；每三年一轮，已扩展至全球 90 多个国家和经济体。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, pp. 6–8)]]
 > - **关键主体** [[OECD]]（发起与运营主体）、参与国教育部与考试评估机构、[[International Education|国际教育]]研究网络、跨国政策智库。
 > - **制度背景** 1990 年代[[Knowledge-Based Economy|知识经济]]崛起，OECD 致力于为成员国提供衡量人力资本质量、评估教育投入产出效能的共同语言与跨国可比标准；PISA 摆脱了传统课程记忆测验的局限，专注于测量 15 岁学生在现实生活与未来社会中应用知识的关键素养。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]
-> - **理论奠基与触发** 科学教育领域 1998 年《[[Beyond 2000 Report|Beyond 2000]] 报告》（Millar & Osborne）提出的“面向全体公民的[[Scientific Literacy|科学素养]]”理念，直接奠定了 PISA 科学素养测评框架的理论底座。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, p. 31)]]
+> - **理论奠基与触发** 科学教育领域 1998 年《[[Beyond 2000 Report|Beyond 2000]] 报告》（Millar & Osborne）提出的“面向全体公民的[[Scientific Literacy|科学素养]]”理念，直接奠定了 PISA 科学素养测评框架的理论底座。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 31)]]
 
 ---
 
@@ -99,7 +99,7 @@ updated: 2026-08-23
 >   - **PISA 2006（首个科学主测年）** 正式确立[[Scientific Literacy|科学素养]]三大核心能力（识别科学议题、科学解释现象、使用科学证据），强调在真实个人、社会与全球情境中考查科学本质。
 > - **2009–2018 — 上海崛起、计算机化交互探究与产品线扩张**
 >   - PISA 2009 上海（中国）拔得头筹，引发欧美“新卫星冲击”讨论；参与系统增至 70+ 个；
->   - **PISA 2015（第二个科学主测年）** 全面推行计算机化测评（CBA），引入交互式模拟实验（Simulations），将能力框架升级为“解释现象、评估与设计探究、解释数据与证据”三大科学胜任力。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, p. 31)]]
+>   - **PISA 2015（第二个科学主测年）** 全面推行计算机化测评（CBA），引入交互式模拟实验（Simulations），将能力框架升级为“解释现象、评估与设计探究、解释数据与证据”三大科学胜任力。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 31)]]
 > - **2018–2025+ — 不确定世界中的科学探究与全球治理深化**
 >   - 扩展至 90+ 经济体；**PISA 2025（最新科学框架）** 进一步聚焦“在不确定世界中的科学探究（Science in an uncertain world）”，新增环境决策、气候模型审视、数字信息生态验证与 AI 算法不确定性评估。
 
@@ -108,7 +108,7 @@ updated: 2026-08-23
 ## 科学素养测评构念与理论溯源
 
 > [!concept-lens] [[Scientific Literacy|科学素养]]的[[Epistemology|认识论]][[Paradigm|范式]]转向
-> PISA 科学素养[[Construct|构念]]的革命性在于：它彻底打破了“科学教育仅为大学培养少数未来科研人员”的精英模式，确立了“科学教育必须面向所有未来公民的明智决策与证据评估”的普惠范式。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, pp. 30–31)]]
+> PISA 科学素养[[Construct|构念]]的革命性在于：它彻底打破了“科学教育仅为大学培养少数未来科研人员”的精英模式，确立了“科学教育必须面向所有未来公民的明智决策与证据评估”的普惠范式。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, pp. 30–31)]]
 
 > [!ref-table] 表：PISA 科学素养（Scientific Literacy）测评框架演化矩阵
 > | 框架版本 / 主测年份 | 核心胜任力维度（Competencies） | 考查情境与认知载体（Contexts） | 知识分类（Knowledge Types） | 认识论重点与时代转向 |
@@ -141,7 +141,7 @@ updated: 2026-08-23
 
 > [!finding-cards] 核心政策影响
 > - **确立全球教育软治理** PISA 通过量化排名、平均分与差距叙事，实现了超国家层面的“数据治理”，使高表现国家成为跨国[[Policy Borrowing|政策借用]]的模板。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, pp. 8–9)]]
-> - **重塑基础科学课程哲学** 推动英、德、日、法等数十个国家修订国家科学课程大纲，显著增加科学本质、社会科学争议（SSI）与证据评估内容。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, p. 31)]]
+> - **重塑基础科学课程哲学** 推动英、德、日、法等数十个国家修订国家科学课程大纲，显著增加科学本质、社会科学争议（SSI）与证据评估内容。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 31)]]
 > - **双向多层驱动** [[Argument_Li_2025_HSSC|Li et al. (2025)]][[Systematic Review|系统综述]]指出，PISA 影响在质量与公平双重路径上展开，通过超国家软治理、国家[[Transfer Translation Transformation|转译]]与国内行动者博弈三层机制深刻重塑全球教育格局。
 
 ### [[Argument_Li_2025_HSSC|Li et al. (2025)]] 综述：质量与公平双轨决策路径

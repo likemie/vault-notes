@@ -98,7 +98,7 @@ updated: 2026-09-01
 > *These divergent findings suggest that the influence of ChatGPT on student cognition is not intrinsic to the tool itself but contingent upon pedagogical framing, task design, and instructional scaffolding... unstructured implementation frequently led to asymmetrical or diminished cognitive engagement.*
 
 > [!citation-card]- 关键表述：[[Scientific Literacy|科学素养]]与数智教育视角
-> 科学教育必须从静态的事实记忆转向证据评估、[[Data Literacy|数据素养]]与[[AI Literacy|人工智能素养]]的系统培养，确保年轻一代不仅能使用生成式工具，更能批判性理解其能力边界与偏见风险。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, pp. 34–36)]]
+> 科学教育必须从静态的事实记忆转向证据评估、[[Data Literacy|数据素养]]与[[AI Literacy|人工智能素养]]的系统培养，确保年轻一代不仅能使用生成式工具，更能批判性理解其能力边界与偏见风险。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, pp. 34–36)]]
 >
 > *Science education must shift from static factual recall to evidence evaluation, data literacy, and AI literacy, equipping young people to critically navigate algorithmic tools and their limitations.*
 
@@ -128,7 +128,7 @@ updated: 2026-09-01
 > - **概率性语义表征与能力[[Emergence|涌现]]（Emergence & Representation）** 基于海量人类语料的自注意力机制，展现出跨学科模式识别、体裁迁移与概念重组能力，为开放探究提供即时知识连接。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 2–3)]]
 > - **提示词工程与[[Dialogue in Education|对话]]式认知脚手架（Prompt Scaffolding）** 将自然语言提示作为人机交互与思维[[Externalization|外化]]的界面，通过角色设定、追问指令与量规对齐，动态调整技术对[[Zone of Proximal Development|最近发展区]]的支持力度。[[Argument_Liu_2026_CHBR|(Liu et al., 2026, pp. 2, 10)]]
 > - **认知放大与[[Cognitive Offloading|认知卸载]]的动态张力（Amplification vs. Offloading）** 既能剥离机械性外在负荷以释放[[Working Memory|工作记忆]]投入高阶推理（认知放大），又极易因表面语义流畅性诱发心智怠惰与深度思考外包（有害卸载）。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 10–11)]]
-> - **[[Epistemological Vigilance|认识论警觉]]与多源[[Triangulation|三角互证]]（Epistemic Vigilance）** 学习者必须建立对抗模型[[AI Hallucination|幻觉]]与偏见的批判性怀疑态度，将 AI 生成内容与[[Primary and Secondary Documents|一手文献]]、教师点拨及同伴评议进行多源三角核验。[[Argument_Li_2026_CEAI|(Li et al., 2026, p. 11)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, pp. 34–36)]]
+> - **[[Epistemological Vigilance|认识论警觉]]与多源[[Triangulation|三角互证]]（Epistemic Vigilance）** 学习者必须建立对抗模型[[AI Hallucination|幻觉]]与偏见的批判性怀疑态度，将 AI 生成内容与[[Primary and Secondary Documents|一手文献]]、教师点拨及同伴评议进行多源三角核验。[[Argument_Li_2026_CEAI|(Li et al., 2026, p. 11)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, pp. 34–36)]]
 > - **教学活动系统与评价规则重构（Activity System Reconfiguration）** 推动教学评价从“关注最终文字成品”转向“关注提示词迭代链、事实查错过程与反思日志”的全程伴随式评价。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 11–13)]]
 
 > [!logic-map]- 生成式 AI 介入教学活动系统的中介机制
@@ -169,7 +169,7 @@ updated: 2026-09-01
 > 该命题揭示了生成式技术对传统教育评估[[Hypothesis|假设]]的根本颠覆，指明了未来课程设计与素养培养的重构方向。
 
 > [!claim] The Royal Society
-> **数智时代[[Scientific Literacy|科学素养]]从事实复现向证据核验与 AI 素养的重构** 生成式人工智能的普及使得传统的静态事实记忆与套路化文本写作在评估中迅速贬值。科学与[[General Education|通识教育]]必须转向以证据评估、模型偏见识别、数据批判性审读为核心的综合素养，将[[AI Literacy|人工智能素养]]确立为现代公民的核心能力基石，推动学生从被动的信息消费者转变为具备[[Epistemological Vigilance|认识论警觉]]的质询者。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, pp. 34–36)]]
+> **数智时代[[Scientific Literacy|科学素养]]从事实复现向证据核验与 AI 素养的重构** 生成式人工智能的普及使得传统的静态事实记忆与套路化文本写作在评估中迅速贬值。科学与[[General Education|通识教育]]必须转向以证据评估、模型偏见识别、数据批判性审读为核心的综合素养，将[[AI Literacy|人工智能素养]]确立为现代公民的核心能力基石，推动学生从被动的信息消费者转变为具备[[Epistemological Vigilance|认识论警觉]]的质询者。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, pp. 34–36)]]
 
 > [!claim] Medina, J.
 > **维持生产性[[Epistemic Friction|认识论摩擦]]以抵抗算法顺滑表象引发的心智外包** 高阶心智的锻造不可避免地需要经历认知挣扎与观点冲突。面对生成式模型极度流畅而缺乏毛刺感的输出，教育系统必须主动设计“认识论摩擦”（Epistemic Friction）机制——通过要求学生对比 AI 建议并阐明采纳理由、进行对抗性查错等——强制[[Working Memory|工作记忆]]深度参与推理，防范认知主体性的彻底让渡。[[Argument_Li_2026_CEAI|(Medina, 2013; Li et al., 2026, p. 10)]]
@@ -182,7 +182,7 @@ updated: 2026-09-01
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **教学[[Interaction Effect\|调节效应]]命题** | 技术效应非固有，教学脚手架与[[Task Structure\|任务结构]]决定认知增益或侵蚀 | 高等教育人机协同学习、STEM 实验探究、二语写作教学 | [[Argument_Li_2026_CEAI\|Li et al. (2026)]]; [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] |
-> | **活动系统重构命题** | 评价重点由终稿产出转向提示词轨迹与认识论摩擦维持 | 科学素养课程、数智通识教育、基于项目的全程评价改革 | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026a)]]; Medina (2013) |
+> | **活动系统重构命题** | 评价重点由终稿产出转向提示词轨迹与认识论摩擦维持 | 科学素养课程、数智通识教育、基于项目的全程评价改革 | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026)]]; Medina (2013) |
 
 ---
 
@@ -193,7 +193,7 @@ updated: 2026-09-01
 > - **2020–2022 — 模型突破与消费级普及** OpenAI 相继发布 GPT-3 与 ChatGPT，生成式 AI 跨越实验室门槛，以自然语言[[Dialogue in Education|对话]]界面实现全球数亿用户的即时触达。
 > - **2023 — 教育激辩与恐慌性禁令期** 全球高校与学区经历早期伦理恐慌，从普遍出台禁用指令转向探索政策规范，早期综述多聚焦学术诚信与工具性写作支持（Farazouli et al., 2023; Zirar, 2023）。
 > - **2024–2025 — 课堂实证爆发与机制解构** 实证研究呈现指数级增长，研究者通过量化实验与质性追踪揭示出生成式 AI 促成[[Divergent Thinking|发散思维]]爆发的同时可能诱发严重的[[Cognitive Offloading|认知卸载]]与文风均质化（[[Argument_Liu_2026_CHBR|Liu et al., 2026]]; Deng et al., 2024）。
-> - **2026 — 教学活动系统全面重构** [[Argument_Li_2026_CEAI|Li et al. (2026)]] 提出批判性与[[Creativity|创造性思维]]双重视角整合框架与六大教学干预规制；[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026a)]] 正式将 AI 素养确立为面向未来社会的国家级核心课程基础设施。
+> - **2026 — 教学活动系统全面重构** [[Argument_Li_2026_CEAI|Li et al. (2026)]] 提出批判性与[[Creativity|创造性思维]]双重视角整合框架与六大教学干预规制；[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026)]] 正式将 AI 素养确立为面向未来社会的国家级核心课程基础设施。
 
 ---
 
@@ -222,7 +222,7 @@ updated: 2026-09-01
 > - **数字鸿沟与认知不平等加剧** 具备高水平 AI 素养与高级付费模型访问权的学生能够获得强大的认知杠杆，而缺乏指导的弱势群体更容易陷入低水平被动盲从，拉大教育差距。
 
 > [!warning] 适用局限
-> - **无法替代具身情境与实践经验** 实验室动手操作、真实[[Fieldwork|田野调查]]、面对面同伴共情与人际伦理协商等核心教育体验，均无法被纯文本/多模态生成式算法替代。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, pp. 32–34)]]
+> - **无法替代具身情境与实践经验** 实验室动手操作、真实[[Fieldwork|田野调查]]、面对面同伴共情与人际伦理协商等核心教育体验，均无法被纯文本/多模态生成式算法替代。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, pp. 32–34)]]
 > - **高度依赖领域先验知识** 只有当使用者本身具备一定的学科知识图式时，才能有效识别生成内容的[[AI Hallucination|幻觉]]与隐蔽逻辑断裂；新手初学者极易在缺乏基准判断力的情况下被误导。
 
 ---
@@ -243,7 +243,7 @@ updated: 2026-09-01
 > |---|---|---|---|---|---|---|
 > | [[Argument_Li_2026_CEAI\|Li et al. (2026, p. 9)]] | 全球 67 项高等教育实证研究（2022–2025） | [[PRISMA]] [[Systematic Review\|系统综述]]与主题综合 | [[Higher-Order Thinking Skills\|高阶思维]]认知共现模式分布 | 协同增益 $n = 18$ (53%)；非对称发展 $n = 8$ (24%)；双重侵蚀 $n = 4$ (12%) | 87% MMAT $\ge 80\%$ | 仅针对考察双向思维的 34 项[[Document\|文献]]进行轨迹聚类 |
 > | [[Argument_Li_2026_CEAI\|Li et al. (2026, p. 5)]] | 全球 67 项高等教育实证研究（2022–2025） | PRISMA 系统综述描述性统计 | 学科领域与地理分布特征 | 亚洲占 58.21% ($n = 39$)；STEM 占 35.82% ($n = 24$)；量化占 38.81% | — | 揭示当前实证证据集中于亚洲高校及重逻辑学科 |
-> | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026a, p. 32)]] | 英国中小学与高等教育衔接调研 | 政策报告与实证证据综合 | 实践探究与数智技能培养危机 | 超过 50% 教师报告探究课时受压缩；数智素养与科学实验动手需求呈结构性矛盾 | — | 宏观系统调研，论证 AI 时代保护实践探究课时的战略必要性 |
+> | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026, p. 32)]] | 英国中小学与高等教育衔接调研 | 政策报告与实证证据综合 | 实践探究与数智技能培养危机 | 超过 50% 教师报告探究课时受压缩；数智素养与科学实验动手需求呈结构性矛盾 | — | 宏观系统调研，论证 AI 时代保护实践探究课时的战略必要性 |
 
 ---
 
@@ -252,4 +252,4 @@ updated: 2026-09-01
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — [[Systematic Review|系统综述]] 67 项高等教育实证研究，基于批判性与[[Creativity|创造性思维]]双重视角阐明生成式 AI 的双向调节机制，提炼三大共现演进模型与六大教学干预规制。
 > - [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] — [[Meta-analysis|元分析]] 56 项实证研究中[[Generative AI Agent in Education|生成式智能体]]对[[Computational Thinking|计算思维]]与[[Academic Achievement|学业表现]]的促进效应（$g = 0.421$），实证确立显性反思量规对规避[[Cognitive Offloading|认知卸载]]的必要性。
-> - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026a)]] — 英国皇家学会教育战略报告，论证生成式技术环境下科学教育从事实识记向证据评估、数据与 AI 素养转型的必要路径。
+> - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026)]] — 英国皇家学会教育战略报告，论证生成式技术环境下科学教育从事实识记向证据评估、数据与 AI 素养转型的必要路径。

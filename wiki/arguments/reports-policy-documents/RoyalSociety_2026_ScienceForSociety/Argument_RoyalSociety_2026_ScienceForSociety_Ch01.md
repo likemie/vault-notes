@@ -4,8 +4,8 @@ authors:
 source_language: en
 summary: "系统论证中小学科学教育作为公众科学参与根基的战略价值，剖析科学素养从事实记忆向证据评估的转型、数据与 AI 素养的新要求，揭示实验动手探究课时大幅萎缩与后 16 岁过早专门化分科的双重危机，并提出重塑教师专业自主权与强化持续专业发展的应对路径。"
 type: argument
-subtype: report-chapter
-publication_type: report
+subtype: monograph
+publication_type: book-chapter
 title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch01"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch01"
 argument_display_title: "Chapter one: Education"
@@ -17,10 +17,10 @@ argument_related_color: "#dcfce7"
 issuing_organization: The Royal Society
 year: 2026
 isbn: 978-1-78252-829-6
+publication_place: London
+publisher: The Royal Society
 citation: "The Royal Society. (2026). Chapter one: Education. In Science for society: How society and science shape each other (pp. 29–40). London: The Royal Society."
-citation_aliases:
-  - "The Royal Society, 2026a"
-  - "The Royal Society (2026a)"
+citation_aliases: []
 tags:
   - source/report
   - theme/stem-education
@@ -83,10 +83,10 @@ related_facts:
 related_arguments: []
 sources:
   - "[[sources/RoyalSociety_2026_ScienceForSociety/RoyalSociety_2026_ScienceForSociety|RoyalSociety_2026_ScienceForSociety]]"
-part_of: "[[sources/RoyalSociety_2026_ScienceForSociety/RoyalSociety_2026_ScienceForSociety|RoyalSociety_2026_ScienceForSociety]]"
+part_of: "[[Argument_RoyalSociety_2026_ScienceForSociety]]"
 status: draft
 created: 2026-08-22
-updated: 2026-08-25
+updated: 2026-09-03
 ---
 # Argument_RoyalSociety_2026_ScienceForSociety_Ch01
 

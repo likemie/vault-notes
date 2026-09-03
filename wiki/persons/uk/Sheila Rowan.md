@@ -44,7 +44,7 @@ updated: 2026-08-23
 > - **代表贡献** 推动科学证据融入政府决策，领导制定支持学术界、产业界与非正式教育部门深化[[Public Engagement with Science|公众科学参与]]的系统性政策建议。
 
 > [!citation-card]- 人物定位的关键来源
-> 确保科学知识得以分享，是科学家以及支持他们的机构的责任所在。[[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026d, p. 7)]]
+> 确保科学知识得以分享，是科学家以及支持他们的机构的责任所在。[[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026, p. 7)]]
 >
 > *It is the responsibility of scientists and the institutions that support them to ensure that scientific knowledge is shared.*
 
@@ -57,14 +57,14 @@ updated: 2026-08-23
 > - **2006** 成为格拉斯哥大学物理与天文学院教授，领导先进引力波探测器的光学悬挂材料研发。
 > - **2016–2021** 担任苏格兰政府首席科学顾问，协调科技政策咨询与公众沟通。
 > - **2018** 当选英国皇家学会会士（FRS）。
-> - **2024–2026** 担任皇家学会《科学为社会》报告指导委员会联席主席。[[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026d, pp. 5–7)]]
+> - **2024–2026** 担任皇家学会《科学为社会》报告指导委员会联席主席。[[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026, pp. 5–7)]]
 
 ---
 
 ## 主要著作与思想发展
 
 > [!work-line] 主要著作
-> - **2026 — *Foreword to Science for Society: How Society and Science Shape Each Other*** 阐述[[Informal Science Learning|非正式科学教育]]设施（科学中心、博物馆、科技节）在培育公众科学兴趣中的关键角色，呼吁建立可持续的财政与制度支持机制。[[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026d, pp. 5–7)]]
+> - **2026 — *Foreword to Science for Society: How Society and Science Shape Each Other*** 阐述[[Informal Science Learning|非正式科学教育]]设施（科学中心、博物馆、科技节）在培育公众科学兴趣中的关键角色，呼吁建立可持续的财政与制度支持机制。[[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026, pp. 5–7)]]
 
 ---
 

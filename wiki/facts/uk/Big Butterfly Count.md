@@ -41,7 +41,7 @@ updated: 2026-08-23
 
 > [!policy-context] 政策背景
 > - **发起机构与组织架构** 2010 年由英国蝴蝶保护协会（Butterfly Conservation UK）正式发起，著名自然纪录片主持人戴维·阿滕伯勒爵士（Sir David Attenborough）担任长期倡议大使与主席。
-> - **监测周期与规模** 每年盛夏 7 月中旬至 8 月上旬（英国蝴蝶羽化繁殖高峰期）开展为期三周的调查，每年稳定动员超过 10 万名公众深度参与，是全球参与人数最多的自然生态[[Citizen Science|公民科学]]调查。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026c, p. 43)]]
+> - **监测周期与规模** 每年盛夏 7 月中旬至 8 月上旬（英国蝴蝶羽化繁殖高峰期）开展为期三周的调查，每年稳定动员超过 10 万名公众深度参与，是全球参与人数最多的自然生态[[Citizen Science|公民科学]]调查。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026, p. 43)]]
 > - **问题背景** 蝴蝶与日行蛾类是对气候变暖、杀虫剂滥用与生境碎片化极为敏感的生态指示物种；该调查旨在捕捉国家宏观生态系统健康演变态势，为国家物种保护战略提供高分辨率数据。
 
 ---
@@ -53,7 +53,7 @@ updated: 2026-08-23
 
 > [!finding-cards] 科学治理产出与全人发展效益
 > - **高分辨率海量生态数据** 每年产生数百万条地理时空观测记录，全面接入英国国家生物多样性网络（National Biodiversity Network, NBN）与联合自然保护委员会（JNCC），直接支撑英国环境、食品与农村事务部（Defra）制定《英格兰物种恢复战略》与监测气候变化生态响应。
-> - **打破科研精英门槛与培育环境能动性** 证明严谨科学研究可转化为全民普惠参与的社会文化活动，让公众在亲近本土自然中建立生态系统思维，极大激发了全年龄段公民保护生态环境的[[Self-Efficacy|自我效能感]]与社区行动力。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026c, p. 46)]]
+> - **打破科研精英门槛与培育环境能动性** 证明严谨科学研究可转化为全民普惠参与的社会文化活动，让公众在亲近本土自然中建立生态系统思维，极大激发了全年龄段公民保护生态环境的[[Self-Efficacy|自我效能感]]与社区行动力。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026, p. 46)]]
 
 ---
 

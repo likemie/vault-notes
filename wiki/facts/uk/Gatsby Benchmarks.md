@@ -40,7 +40,7 @@ updated: 2026-08-23
 > [!policy-context] 政策背景
 > - **制定主体与时间** 2014 年由约翰·霍尔曼爵士（Sir John Holman）领衔在盖茨比慈善基金会（Gatsby Charitable Foundation）资助下制定；2018 年被英国教育部（DfE）正式确立为全英所有中学与延续教育学院的国家法定职业指导基准。
 > - **适用对象** 英格兰全体 11–18 岁中学生及职业指导教师。
-> - **问题背景** 传统学校职业生涯指导碎片化、与学科课堂教学严重脱节，导致学生尤其是弱势家庭学生对 STEM 职业前景缺乏清晰认知与规划。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, p. 36)]]
+> - **问题背景** 传统学校职业生涯指导碎片化、与学科课堂教学严重脱节，导致学生尤其是弱势家庭学生对 STEM 职业前景缺乏清晰认知与规划。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 36)]]
 > - **制度位置** 英国中等教育职业发展与产业衔接的黄金标准体系。
 
 ---
@@ -54,7 +54,7 @@ updated: 2026-08-23
 > 1. **稳定的职业指导计划（A stable careers programme）**
 > 2. **学习与劳动力市场信息利用（Learning from career & labour market information）**
 > 3. **满足每位学生的不同需求（Addressing the needs of each pupil）**
-> 4. **将课程学习与职业机会相联结（Linking curriculum learning to careers）** — 特别强调所有科学、技术与数学教师在日常课堂中展示学科与真实职业的关联。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, p. 36)]]
+> 4. **将课程学习与职业机会相联结（Linking curriculum learning to careers）** — 特别强调所有科学、技术与数学教师在日常课堂中展示学科与真实职业的关联。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 36)]]
 > 5. **与雇主及雇员的真实接触（Encounters with employers & employees）**
 > 6. **工作场所亲身体验（Experiences of workplaces）**
 > 7. **与高等教育及延续教育的接触（Encounters with further & higher education）**
@@ -65,7 +65,7 @@ updated: 2026-08-23
 ## 政策效能与启示
 
 > [!finding-cards] 实证效能
-> - **赋能学科教师打通职业通道** 特别是基准四推动科学教师在学科进修（CPD）中掌握将前沿科研、绿色产业转型与日常教学相结合的能力。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, p. 36)]]
+> - **赋能学科教师打通职业通道** 特别是基准四推动科学教师在学科进修（CPD）中掌握将前沿科研、绿色产业转型与日常教学相结合的能力。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 36)]]
 > - **扩充学生[[Science Capital|科学资本]]** 为弱势学生提供接触真实职场与专业榜样的平等机会，打破职业抱负的阶层局限。
 
 ---

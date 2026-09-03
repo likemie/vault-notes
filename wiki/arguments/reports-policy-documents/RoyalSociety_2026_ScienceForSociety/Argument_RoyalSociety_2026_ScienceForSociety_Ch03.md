@@ -4,8 +4,8 @@ authors:
 source_language: en
 summary: "系统剖析数字网络与人工智能对大众传媒生态的深刻重塑，诊断传统媒体受众流失与社交算法分发导致的虚假信息疾速扩散危机，对比公众对科学信息的高渴求（62%）与对媒体真实性认同的下滑（40%），实证揭示科学新闻结论夸大对高校新闻通稿的源头依赖，并提出基于英国统计局标准的科学传播行为守则、赋能解决方案新闻、开放平台算法审计与保障科研人员参与安全的系统改革路径。"
 type: argument
-subtype: report-chapter
-publication_type: report
+subtype: monograph
+publication_type: book-chapter
 title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch03"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch03"
 argument_display_title: "Chapter three: Mass media and misinformation"
@@ -17,10 +17,10 @@ argument_related_color: "#dcfce7"
 issuing_organization: The Royal Society
 year: 2026
 isbn: 978-1-78252-829-6
+publication_place: London
+publisher: The Royal Society
 citation: "The Royal Society. (2026). Chapter three: Mass media and misinformation. In Science for society: How society and science shape each other (pp. 55–66). London: The Royal Society."
-citation_aliases:
-  - "The Royal Society, 2026b"
-  - "The Royal Society (2026b)"
+citation_aliases: []
 tags:
   - source/report
   - theme/public-engagement
@@ -31,7 +31,7 @@ tags:
   - region/uk
 sources:
   - "[[sources/RoyalSociety_2026_ScienceForSociety/RoyalSociety_2026_ScienceForSociety|RoyalSociety_2026_ScienceForSociety]]"
-part_of: "[[sources/RoyalSociety_2026_ScienceForSociety/RoyalSociety_2026_ScienceForSociety|RoyalSociety_2026_ScienceForSociety]]"
+part_of: "[[Argument_RoyalSociety_2026_ScienceForSociety]]"
 related_concepts:
   - "[[Citizen Science]]"
   - "[[Paradigm]]"

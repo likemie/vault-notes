@@ -168,7 +168,7 @@ updated: 2026-08-27
 > [[Critical Thinking|批判性思维]]、协作与[[Data Literacy|数据素养]]无法在真空中习得；若脱离具体学科的认识论逻辑与真实实践，技能训练将沦为虚幻的形式主义。
 
 > [!claim] The Royal Society
-> **学科认识论锚定与大概念融合** 21 世纪核心素养必须扎根于具体学科的核心概念（Big Ideas）与实证探究（Practical Inquiry），通过解决空气污染、流行病、气候变化等真实社会科学争议（SSI）获得具身体验，而非架空为脱离知识的抽象技巧清单。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, pp. 30–33)]]
+> **学科认识论锚定与大概念融合** 21 世纪核心素养必须扎根于具体学科的核心概念（Big Ideas）与实证探究（Practical Inquiry），通过解决空气污染、流行病、气候变化等真实社会科学争议（SSI）获得具身体验，而非架空为脱离知识的抽象技巧清单。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, pp. 30–33)]]
 
 ---
 
@@ -211,7 +211,7 @@ updated: 2026-08-27
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **漂浮能指** | 概念抽象化促成全球政策同质化趋同 | [[Global Policy Space\|全球政策空间]]、跨国组织议程分析 | [[Argument_Beech_2009_CE\|Beech (2009)]]; [[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka (2022, p. 258)]] |
-> | **认识论扎根** | 批判抽象技能清单，倡导学科大概念与实证探究融合 | K-12 科学课程设计、跨学科素养整合 | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026a)]] |
+> | **认识论扎根** | 批判抽象技能清单，倡导学科大概念与实证探究融合 | K-12 科学课程设计、跨学科素养整合 | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026)]] |
 > | **自我企业家** | 将结构性经济风险转化为个体自我责任化 | 劳动力政策、主体性社会学分析 | [[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka (2022, p. 260)]] |
 > | **课堂教学效能** | 合作学习是培养 21 世纪高阶复合素养的强效载体 | 课堂教学法改革、高阶思维培养干预 | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] |
 > | **评价制度断裂** | 宏观素养宣示与高校微观考核滞后脱节，亟需真实表现评价 | 高教质量保障、学习增益测查、国家统考改革 | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] |
@@ -225,7 +225,7 @@ updated: 2026-08-27
 > - **第一阶段（2000 年代初） — 美国国家框架主导** enGauge（2003）与美国 P21（2009）框架确立 4C 技能（[[Critical Thinking|批判性思维]]、[[Creativity|创造力]]、协作、沟通）雏形，强调数字时代素养。
 > - **第二阶段（2010 年代） — 跨国协调与多边私营共建** ATCS 跨国评估项目、美国 NRC 报告（2012）与世界经济论坛（WEF, 2016）加入，私营部门直接介入技能标准设定，确立标准化测量意图。
 > - **第三阶段（2010 年代末至 2020 年代初） — 全球指标趋同与产品下沉** [[OECD]]《学习罗盘 2030》（2019）与欧盟八大关键素养高度同质化；[[PISA]] 通过创新领域（协作问题解决、创造性思维）实现跨国测量落地。（OECD, 2019; [[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p. 254]]）
-> - **第四阶段（2020 年代中） — 智能时代交叉素养与学科[[Epistemology|认识论]]重构** 面对大模型与[[Generative Artificial Intelligence|生成式 AI]] 冲击，以英国皇家学会（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026a)]]）为代表的科学界反思抽象技能空心化，提出将 21 世纪核心素养扎根于四大交叉支柱：[[Scientific Literacy|科学素养]] + [[Data Literacy|数据素养]] + AI 素养 + 气候生态素养。
+> - **第四阶段（2020 年代中） — 智能时代交叉素养与学科[[Epistemology|认识论]]重构** 面对大模型与[[Generative Artificial Intelligence|生成式 AI]] 冲击，以英国皇家学会（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026)]]）为代表的科学界反思抽象技能空心化，提出将 21 世纪核心素养扎根于四大交叉支柱：[[Scientific Literacy|科学素养]] + [[Data Literacy|数据素养]] + AI 素养 + 气候生态素养。
 > - **第五阶段（2020 年代后期至今） — 高等教育真实[[Authentic Assessment|表现性评价]]与政策杠杆重构** OECD 报告（[[Argument_Bouckaert_2023_OECD|Bouckaert, 2023]]）引领从“口头倡导”转向“评价生态重构”，通过 [[TESTA Project|TESTA]] 全课程整合评价、[[VALUE Rubrics|VALUE]] 量规校准与高利害统考增设大口试答辩，实质性破除 21 世纪素养落地的评价瓶颈。
 
 ---
@@ -277,7 +277,7 @@ updated: 2026-08-27
 > | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] / TESTA 项目 | 英国等 70 余所高校 100 多个本科专业 | 纵向全课程评价调查与追踪 | 模块化考核负荷与[[Learning Gain\|学习增益]] | 本科三年经历 60–80 项独立终结性考试；大一至大三[[Critical Thinking\|批判性思维]]增益微弱 | 描述性与跨校对比统计 | 揭示模块化碎片化考核（Hyper-Assessment）迫使学生采取应试[[Surface and Deep Learning\|表层学习]]，阻碍 21 世纪高阶素养养成 |
 > | [[Argument_SpronkenSmith_2024_AEHE\|Spronken-Smith et al. (2024)]] | 美新三国 136 名 PhD 校友 | [[Comparative Case Study\|比较案例研究]] | 4C 技能与可迁移特质自报感知 | 研究批判技能均值 4.4/5；团队合作 2.9/5，跨界沟通 3.7/5；环境素养 2.8/5（垫底） | 组间均值差异显著 | 揭示博士教育中高阶探究技能与社会协作及环境伦理的系统性断裂 |
 > | [[Argument_Beech_2009_CE\|Beech (2009)]] | 阿根廷与巴西教师教育者 | [[In-depth Interview\|深度访谈]]与[[Coding in Qualitative Research\|质性编码]] | 对能力课程标准的[[Transfer Translation Transformation\|转译]]理解 | 产生四种互不兼容的解读：归入旧行为目标、坦承不懂、视为既有合法化、[[Epistemology\|认识论]]大杂烩 | — | 全球[[Floating Signifier\|漂浮能指]]在具体国家与教师实践转译中产生严重概念混乱 |
-> | UK Science Education Tracker，引自 [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026a)]] | 英格兰 11–18 岁中学生（纵向追踪） | 追踪调查统计 | 课堂动手实验双周率与[[Science Capital\|科学资本]] | 动手实验率从 44%（2016）暴跌至 26%（2023），高 SES 家庭科学资本优势扩大 | 下降幅度达 18 个百分点 | 揭示技能话语宣称与应试刷题及课时削减之间的尖锐断裂 |
+> | UK Science Education Tracker，引自 [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026)]] | 英格兰 11–18 岁中学生（纵向追踪） | 追踪调查统计 | 课堂动手实验双周率与[[Science Capital\|科学资本]] | 动手实验率从 44%（2016）暴跌至 26%（2023），高 SES 家庭科学资本优势扩大 | 下降幅度达 18 个百分点 | 揭示技能话语宣称与应试刷题及课时削减之间的尖锐断裂 |
 
 ---
 
@@ -287,7 +287,7 @@ updated: 2026-08-27
 > - [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] — [[OECD]] 国际报告，系统论证 21 世纪高阶素养在高等教育落地中面临的评价瓶颈，提出重构学业评价的五大政策杠杆与全课程改革方案。
 > - [[Argument_Zelinka_2022_SCD_subjectivity|Zelinka (2022)]] — 批判[[Discourse Analysis|话语分析]]，系统剖析 21 世纪技能话语的全球演变、新自由主义主体性[[Disciplina and Doctrina|规训]]与被边缘化的全人素养。
 > - [[Argument_Beech_2009_CE|Beech (2009)]] — 考察能力话语在[[Global Policy Space|全球政策空间]]中的[[Floating Signifier|漂浮能指]]运作，揭示拉美教师教育中的[[Transfer Translation Transformation|转译]]断裂与概念混乱。
-> - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026a)]] — 提出智能时代四大交叉素养蓝图，主张核心素养必须扎根于学科[[Big Ideas|大概念]]与实证探究，批判技能空心化。
+> - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026)]] — 提出智能时代四大交叉素养蓝图，主张核心素养必须扎根于学科[[Big Ideas|大概念]]与实证探究，批判技能空心化。
 > - [[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]] — 实证调查高等教育最高阶段的通用特质培养感知，揭示协作能力与环境素养的严重欠缺。
 > - [[Argument_Wong_2022_HERD|Wong et al. (2022)]] — 探讨高等教育中 21 世纪技能话语与[[Graduate Attributes|毕业生特质]]的[[Operationalization|操作化]]对齐。
 > - [[Argument_Zhao_2020_JEC|Zhao (2020)]] — 批判新自由主义教育治理与技能测量对教育公共价值的窄化。

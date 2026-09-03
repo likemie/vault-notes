@@ -39,7 +39,7 @@ updated: 2026-08-22
 ## 定义
 
 > [!def] 核心定义
-> 科学传播赤字模型是指一种将公众预设为“知识被动接受者”的单向线性传播取向。该模型假定公众之所以对某些科技议题（如疫苗、基因编辑、气候变化）产生疑虑、恐惧或抵触，根本原因在于其缺乏足够的科学事实与技术认知（即认知“赤字”），因此科学界只需单向传递科学知识即可消除公众阻力并建立信任。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026d, p. 10)]]
+> 科学传播赤字模型是指一种将公众预设为“知识被动接受者”的单向线性传播取向。该模型假定公众之所以对某些科技议题（如疫苗、基因编辑、气候变化）产生疑虑、恐惧或抵触，根本原因在于其缺乏足够的科学事实与技术认知（即认知“赤字”），因此科学界只需单向传递科学知识即可消除公众阻力并建立信任。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, p. 10)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 揭示了传统科普中将公众视为“无知受众”的单向知识传递偏见。
@@ -51,8 +51,8 @@ updated: 2026-08-22
 ## 核心要素
 
 > [!feature] 核心要素
-> - **单向线性传递（One-way Transmission）** 专家作为知识拥有者向下传递，受众作为被动容器接受。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026d, p. 10)]]
-> - **知识决定论[[Hypothesis|假设]]（Knowledge-determines-attitude Assumption）** 假定“知晓更多便会认同更多”，忽视公众的价值取向与伦理诉求。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026d, p. 10)]]
+> - **单向线性传递（One-way Transmission）** 专家作为知识拥有者向下传递，受众作为被动容器接受。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, p. 10)]]
+> - **知识决定论[[Hypothesis|假设]]（Knowledge-determines-attitude Assumption）** 假定“知晓更多便会认同更多”，忽视公众的价值取向与伦理诉求。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, p. 10)]]
 
 ---
 
@@ -63,8 +63,8 @@ updated: 2026-08-22
 > > [!axis] 赤字模型的局限与超越
 > > 2000 年英国上议院科技委员会报告明确指出，公众信任危机并非源于民众缺乏科学常识，而是源于对科学治理透明度、利益关联及风险不确定性的担忧；必须以参与式、[[Dialogue in Education|对话]]驱动的双向互动取代赤字模型。
 > >
-> > - **House of Lords (2000)** 严厉批评将公众视为被动知识受体的赤字模型，倡导发展对话驱动与参与式的科学-社会关系。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026d, p. 10)]]
-> > - **The Royal Society (2026)** 确认赤字模型已被现代科学参与政策所超越，强调倾听与共建信任。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026d, p. 10)]]
+> > - **House of Lords (2000)** 严厉批评将公众视为被动知识受体的赤字模型，倡导发展对话驱动与参与式的科学-社会关系。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, p. 10)]]
+> > - **[[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026)]]** 确认赤字模型已被现代科学参与政策所超越，强调倾听与共建信任。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, p. 10)]]
 
 ---
 

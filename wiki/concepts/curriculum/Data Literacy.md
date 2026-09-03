@@ -54,7 +54,7 @@ updated: 2026-09-02
 ## 定义
 
 > [!def] 核心定义
-> 数据素养（Data Literacy）涵盖双重维度：在**通识与课程教育层面**，指个体在日益数字化的社会中理解、解读、批判性评估和负责任应用数据的综合胜任力，依托概率论与统计学基础，涵盖对数据来源真实性、抽样偏差、可视化操纵及不确定性的批判审视（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society, 2026a, p. 31]]）；在**教育者专业探究层面**，指教师与[[School Leadership|学校领导]]者发展“[[Analytical Stance|分析立场]]”（analytical stance）与“评价技能”（evaluative skills），审视多元课堂与系统数据、克服对终结性考试分数的单一依赖，并对定性与定量证据进行[[Triangulation|三角验证]]以支持专业探究与学校改进的核心能力（[[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, pp. 129–131]]）。
+> 数据素养（Data Literacy）涵盖双重维度：在**通识与课程教育层面**，指个体在日益数字化的社会中理解、解读、批判性评估和负责任应用数据的综合胜任力，依托概率论与统计学基础，涵盖对数据来源真实性、抽样偏差、可视化操纵及不确定性的批判审视（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society, 2026, p. 31]]）；在**教育者专业探究层面**，指教师与[[School Leadership|学校领导]]者发展“[[Analytical Stance|分析立场]]”（analytical stance）与“评价技能”（evaluative skills），审视多元课堂与系统数据、克服对终结性考试分数的单一依赖，并对定性与定量证据进行[[Triangulation|三角验证]]以支持专业探究与学校改进的核心能力（[[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, pp. 129–131]]）。
 
 > [!concept-lens] 概念透镜
 > - **核心维度** 区分通识公民素养（面向学生日常决策、科学探究与批判思考）与专业探究素养（面向教育者教学诊断、评价反思与证据三角互证）。
@@ -82,7 +82,7 @@ updated: 2026-09-02
 ## 核心要素
 
 > [!feature] 核心要素构成
-> - **概率与风险推断（Probability and Risk Reasoning）** 准确把握随机性、期望值与风险概率，克服直觉偏差与恐慌心理。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, p. 31)]]
+> - **概率与风险推断（Probability and Risk Reasoning）** 准确把握随机性、期望值与风险概率，克服直觉偏差与恐慌心理。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 31)]]
 > - **数据批判性审视（Critical Data Evaluation）** 识别数据收集的代表性、遗漏[[Variable|变量]]、选择性报告与测量误差，评估证据[[Reliability|可靠性]]。
 > - **可视化与表达解读（Visualisation Interpretation）** 敏锐识破坐标轴截断、比例失真及图表操纵，准确获取图表信息。
 > - **真实数据清洗与探究（Data Cleaning & Modelling）** 掌握在理科实验与跨学科项目中处理不完整、杂乱原始数据的实践经验。
@@ -102,8 +102,8 @@ updated: 2026-09-02
 > [!concept-lens] [[Knowledge-Based Economy|知识经济]]的底层胜任力
 > 几乎所有现代职业与公共议题（从流行病防控到气候模型）都以数据为载体，缺乏数据素养将导致公民丧失实质性参与民主[[Dialogue in Education|对话]]的能力。
 
-> [!claim] The Royal Society (2026)
-> **全员贯穿必修** 皇家学会《Mathematical Futures》报告与 2026 年《科学为社会》报告共同指出，数据素养必须打破数学单科藩篱，作为贯穿线索嵌入科学、地理与社会科学大纲，成为面向 18 岁所有学习者的核心必修素养。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, p. 31)]]
+> [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026)]]
+> **全员贯穿必修** 皇家学会《Mathematical Futures》报告与 2026 年《科学为社会》报告共同指出，数据素养必须打破数学单科藩篱，作为贯穿线索嵌入科学、地理与社会科学大纲，成为面向 18 岁所有学习者的核心必修素养。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 31)]]
 
 ---
 
@@ -139,7 +139,7 @@ updated: 2026-09-02
 > - **1990s–2000s — 统计学与信息素养衍生** 数据素养最初被界定为统计计算与信息检索技能的延伸，主要服务于高等教育与专业科研人员。
 > - **2000s–2010s — 问责政策下的教师数据使用能力** 伴随欧美教育问责制和测试本位改革，数据素养聚焦于教师解读标准化考试成绩与管理软件报表的技术能力（见 [[Data-Based Decision Making|基于数据的决策]]）。
 > - **2017 — 证据知情视阈下的双素养整合与[[Triangulation|三角验证]]** [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] 汇聚多国经验，明确提出数据素养应转向对多元质性与量化课堂数据的三角验证，并与[[Research Literacy|研究素养]]结合嵌入[[School Enquiry Cycle|学校探究循环]]。
-> - **2020s — 全员通识素养与批判性公民胜任力** [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026a)]] 等机构推动数据素养面向全体 18 岁学习者的全科贯通，强调在真实复杂议题中的概率推理与数据批判。
+> - **2020s — 全员通识素养与批判性公民胜任力** [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026)]] 等机构推动数据素养面向全体 18 岁学习者的全科贯通，强调在真实复杂议题中的概率推理与数据批判。
 
 ---
 
@@ -154,5 +154,5 @@ updated: 2026-09-02
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026a)]] — 强调未来科学教育改革必须将数学与数据素养作为基础核心维度，支撑学生对现实复杂议题的量化推理。
+> - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026)]] — 强调未来科学教育改革必须将数学与数据素养作为基础核心维度，支撑学生对现实复杂议题的量化推理。
 > - [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] — 阐述教育者数据素养在课堂证据[[Triangulation|三角验证]]、克服终结性评估单一支配及与[[Research Literacy|研究素养]]整合驱动学校探究中的核心机制。

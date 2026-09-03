@@ -65,7 +65,7 @@ updated: 2026-09-02
 ## 定义
 
 > [!def] 核心定义
-> 人工智能素养（AI Literacy）是指个体理解人工智能（AI）的基本工作原理、能力边界、概率生成机制与社会伦理影响，能够在学习、工作与日常生活中负责任地使用智能工具，将其作为**放大（Amplify）人类认知与[[Creativity|创造力]]**的协同脚手架，并在算法生成的表面语义流畅性面前维持**[[Epistemological Vigilance|认识论警觉]]**，坚守不将独立思考与[[Critical Thinking|批判性思维]]盲目外包（Outsource）的综合素养与行动胜任力。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, p. 32)]]; [[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 2–3, 10–13)]]
+> 人工智能素养（AI Literacy）是指个体理解人工智能（AI）的基本工作原理、能力边界、概率生成机制与社会伦理影响，能够在学习、工作与日常生活中负责任地使用智能工具，将其作为**放大（Amplify）人类认知与[[Creativity|创造力]]**的协同脚手架，并在算法生成的表面语义流畅性面前维持**[[Epistemological Vigilance|认识论警觉]]**，坚守不将独立思考与[[Critical Thinking|批判性思维]]盲目外包（Outsource）的综合素养与行动胜任力。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 32)]]; [[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 2–3, 10–13)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 从初级的“工具操作技巧（如单纯输入提示词）”跃升为涵盖算法机制理解、[[Metacognition|元认知监控]]、证据核查与伦理反思的高阶心智胜任力。
@@ -73,7 +73,7 @@ updated: 2026-09-02
 > - **边界** 不等于计算机底层算法开发或模型训练代码编写，而是面向所有数字公民的技术理解、伦理审思与批判性应用胜任力。
 
 > [!citation-card]- 关键表述：放大人类认知而非认知外包
-> 科学教育必须建立清晰的教学边界，引导青年人对 AI 工具进行批判性反思，确保数字技术用于激发好奇心与反思检验，坚决防范学生利用智能模型直接代写而跳过一手实验与[[Document|文献]]研读。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, pp. 32, 34)]]
+> 科学教育必须建立清晰的教学边界，引导青年人对 AI 工具进行批判性反思，确保数字技术用于激发好奇心与反思检验，坚决防范学生利用智能模型直接代写而跳过一手实验与[[Document|文献]]研读。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, pp. 32, 34)]]
 >
 > *Science education must prepare young people with the skills of AI and critical digital literacy... ensuring that AI tools amplify rather than replace human critical thinking and empirical enquiry.*
 
@@ -104,11 +104,11 @@ updated: 2026-09-02
 
 ## 核心要素
 
-> [!feature] 人工智能素养的四维[[Construct|构念]]框架（Ng et al., 2021; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society, 2026a]]; [[Argument_Li_2026_CEAI|Li et al., 2026]]）
-> - **技术认知与机制理解（Knowing & Understanding AI）** 把握大语言模型等算法的概率预测本质、训练数据集依赖性、生成[[AI Hallucination|幻觉]]（Hallucination）与黑箱特性，建立对智能系统能力的合理预期。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, p. 32)]]
+> [!feature] 人工智能素养的四维[[Construct|构念]]框架（Ng et al., 2021; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society, 2026]]; [[Argument_Li_2026_CEAI|Li et al., 2026]]）
+> - **技术认知与机制理解（Knowing & Understanding AI）** 把握大语言模型等算法的概率预测本质、训练数据集依赖性、生成[[AI Hallucination|幻觉]]（Hallucination）与黑箱特性，建立对智能系统能力的合理预期。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 32)]]
 > - **批判性应用与人机协同（Critical Application & Co-Inquiry）** 熟练运用结构化提示词设计（Prompt Engineering），将 AI 定位为拓展思维视角的“[[Dialogue in Education|对话]]伙伴”与“脚手架”，坚持“放大认知而非外包思考”的行动底线。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 10–12)]]
 > - **[[Epistemological Vigilance|认识论警觉]]与多源验证（Epistemic Vigilance & Evaluation）** 保持对模型输出的怀疑态度，识别虚假事实与逻辑漏洞，通过[[Primary and Secondary Documents|一手文献]]核查、[[Triangulation|三角互证]]与反思日志对生成文本进行严格审订。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 2–3)]]
-> - **伦理审思与主体性维护（Ethical [[Reflexivity]] & Agency Preservation）** 敏锐洞察算法偏见、数据隐私侵犯、知识产权归属与数字鸿沟风险，自觉在人机协作中保留个人独特的学术声音与价值立场。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, p. 34)]]
+> - **伦理审思与主体性维护（Ethical [[Reflexivity]] & Agency Preservation）** 敏锐洞察算法偏见、数据隐私侵犯、知识产权归属与数字鸿沟风险，自觉在人机协作中保留个人独特的学术声音与价值立场。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 34)]]
 
 > [!logic-map]- AI 素养在人机协同[[Higher-Order Thinking Skills|高阶思维]]发展中的调节机制图
 > ```mermaid
@@ -144,8 +144,8 @@ updated: 2026-09-02
 > [!concept-lens] 认知协同与主体性坚守
 > 智能工具的普及并不自然带来思维能力的提升；若缺乏明确规制，直接依赖生成式作答会导致学生跳过深层阅读与推导，引发[[Critical Thinking|批判性思维]]萎缩。
 
-> [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026a)]]
-> **认知放大底线** 科学教育必须建立清晰的教学边界，引导青年人对 AI 工具进行批判性反思，确保数字技术用于激发好奇心与反思检验，坚决防范学生利用智能模型直接代写而跳过一手实验与[[Document|文献]]研读。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, pp. 32, 34)]]
+> [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026)]]
+> **认知放大底线** 科学教育必须建立清晰的教学边界，引导青年人对 AI 工具进行批判性反思，确保数字技术用于激发好奇心与反思检验，坚决防范学生利用智能模型直接代写而跳过一手实验与[[Document|文献]]研读。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, pp. 32, 34)]]
 
 ---
 
@@ -164,8 +164,8 @@ updated: 2026-09-02
 > [!concept-lens] 课程嵌入与测评生态重塑
 > 传统的封闭式纸笔事实记忆测试在生成式 AI 面前效度崩塌，倒逼测评向真实情境探究、提示词溯源与口头答辩转型。
 
-> [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026a)]]
-> **贯穿式课程与测评重构** 应对 AI 对传统课后[[Homework|作业]]与记忆考试的颠覆性冲击，教育系统不能将 AI 素养孤立为附加选修，必须将其作为贯穿线索嵌入主干学科，并加快开发基于真实情境、多源证据评析与现场探究答辩的综合测评方案。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, p. 34)]]
+> [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026)]]
+> **贯穿式课程与测评重构** 应对 AI 对传统课后[[Homework|作业]]与记忆考试的颠覆性冲击，教育系统不能将 AI 素养孤立为附加选修，必须将其作为贯穿线索嵌入主干学科，并加快开发基于真实情境、多源证据评析与现场探究答辩的综合测评方案。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 34)]]
 
 ---
 
@@ -174,9 +174,9 @@ updated: 2026-09-02
 > [!contrast-table] 所有命题归纳与理论边界
 > | 命题类型 | 核心主张 | 适用情境与作用机制 | 代表学者 |
 > |---|---|---|---|
-> | **认知放大原则** | 防范[[Cognitive Offloading\|认知外包]]，将智能工具作为激发好奇心与深化反思的脚手架。 | K-12 科学教育、国家课程大纲与探究实验室 | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026a)]] |
+> | **认知放大原则** | 防范[[Cognitive Offloading\|认知外包]]，将智能工具作为激发好奇心与深化反思的脚手架。 | K-12 科学教育、国家课程大纲与探究实验室 | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026)]] |
 > | **认知调节中介** | AI 素养决定人机交互中的[[Epistemology\|认识论]]警觉，调节思维走向协同增益或侵蚀。 | 高校学术写作、人机协同创意设计与编程学习 | [[Argument_Li_2026_CEAI\|Li et al. (2026)]] |
-> | **课程测评重构** | 倒逼课程全域渗透并转向基于提示词链溯源与现场答辩的过程性评价。 | 教育评价改革、资格考试与学位考核设计 | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026a)]]; [[Argument_Li_2026_CEAI\|Li et al. (2026)]] |
+> | **课程测评重构** | 倒逼课程全域渗透并转向基于提示词链溯源与现场答辩的过程性评价。 | 教育评价改革、资格考试与学位考核设计 | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026)]]; [[Argument_Li_2026_CEAI\|Li et al. (2026)]] |
 
 ---
 
@@ -186,7 +186,7 @@ updated: 2026-09-02
 > - **2000 年代初 — 计算机与信息素养（ICT Literacy）** 聚焦计算机基本硬件操作、办公软件使用与互联网信息检索技能。
 > - **2010 年代 — [[Computational Thinking|计算思维]]与编程教育（Computational Thinking）** 强调逻辑抽象、算法分解、模式识别与代码编程能力的普及。
 > - **2020 年左右 — AI 素养概念提出与框架雏形** Ng et al. (2021) 率先提出涵盖“知晓、应用、评价、伦理”的 AI 素养四维概念模型。
-> - **2026 年 — 批判性 AI 素养与生成式智能时代[[Epistemology|认识论]]重塑** 随着大语言模型普及，研究从工具操作技能全面转向“[[Epistemological Vigilance|认识论警觉]]、认知防卸载、人机协同反思与主体性维护”。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, pp. 31–32)]]; [[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 2–3)]]
+> - **2026 年 — 批判性 AI 素养与生成式智能时代[[Epistemology|认识论]]重塑** 随着大语言模型普及，研究从工具操作技能全面转向“[[Epistemological Vigilance|认识论警觉]]、认知防卸载、人机协同反思与主体性维护”。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, pp. 31–32)]]; [[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 2–3)]]
 
 ---
 
@@ -204,7 +204,7 @@ updated: 2026-09-02
 > > 争论是否应当开设独立的“AI 素养”必修课程，还是将其作为通用横向能力嵌入现有自然科学、人文学科课程中。
 > >
 > > - **独立设课立场** 认为 AI 具有独特的技术体系与伦理规范，需独立系统讲授。
-> > - **[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026a, p. 34)]]** 强调孤立的课程无法培养真实情境下的批判应用能力，主张作为全域贯穿线索融入所有学科探究中。
+> > - **[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026, p. 34)]]** 强调孤立的课程无法培养真实情境下的批判应用能力，主张作为全域贯穿线索融入所有学科探究中。
 >
 > > [!axis] 算法黑箱与技术不透明性对素养普及的挑战
 > > 深度学习模型的不可解释性导致普通学习者难以准确判断其决策逻辑，引发关于“外行是否可能真正具备 AI 素养”的理论怀疑。
@@ -218,7 +218,7 @@ updated: 2026-09-02
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026a)]] | 英国国家级科学教育政策评估（覆盖英国基础教育与产业技能需求） | 证据综合与政策分析（Policy Synthesis） | AI 与数字素养需求、传统考试效度、实验探究技能 | 报告 70%+ 的未来职业要求批判性数字与 AI 素养；指出单一事实记忆测评在 AI 普及下效度严重受损，呼吁将 AI 素养嵌入科学核心大纲 | — | 确立基础教育将 AI 素养作为跨学科核心育人底线的政策依据 |
+> | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026)]] | 英国国家级科学教育政策评估（覆盖英国基础教育与产业技能需求） | 证据综合与政策分析（Policy Synthesis） | AI 与数字素养需求、传统考试效度、实验探究技能 | 报告 70%+ 的未来职业要求批判性数字与 AI 素养；指出单一事实记忆测评在 AI 普及下效度严重受损，呼吁将 AI 素养嵌入科学核心大纲 | — | 确立基础教育将 AI 素养作为跨学科核心育人底线的政策依据 |
 > | [[Argument_Li_2026_CEAI\|Li et al. (2026)]] | 67 项高等教育 ChatGPT 实证研究（2022–2025 年全球高校样本） | [[Systematic Review\|系统综述]]与主题综合（PRISMA 2020 框架） | AI 素养培训、[[Reflexivity\|反思性]]支架、过度依赖、批判与[[Creativity\|创造性思维]]共现 | 21 项研究确立显性 AI 素养培训与教学支架是实现高阶思维增益的前提；缺乏培训的学生在 20 项研究中表现出严重依赖与构想被动；SEM 检验表明被动工具调用显著负向预测批判反思（$\beta = -0.34$） | $p < .001$ | 证实 AI 素养与教学支架是决定人机交互走向思维协同增益还是认知侵蚀的核心调节变量 |
 
 ---
@@ -226,7 +226,7 @@ updated: 2026-09-02
 ## 应用案例
 
 > [!example] 典型教学与干预案例
-> - **英国皇家学会跨学科 AI 与科学探究融合大纲（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society, 2026a]]）**
+> - **英国皇家学会跨学科 AI 与科学探究融合大纲（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society, 2026]]）**
 >   将 AI 素养设计为贯穿物理、化学、生物与地理的综合实践线索。学生在进行气候变化或基因数据分析时，必须利用 AI 工具开展数据建模，同时强制撰写“算法局限与数据偏见评估报告”，使技术认知与实证探究紧密结合。
 > - **大学课堂“提示词追踪与去[[AI Hallucination|幻觉]]答辩”教学规程（[[Argument_Li_2026_CEAI|Li et al., 2026]]）**
 >   教师在期末评估中引入“过程性提示词链（Prompt Trail）”与“现场口头辩护”，要求学生向全班展示如何通过批判性提问纠正 ChatGPT 给出的错误信息，将评价重心从单纯提交终稿转向展示人机协同中的[[Metacognition|元认知监控]]与 AI 批判素养。
@@ -236,5 +236,5 @@ updated: 2026-09-02
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026a)]] — 强调基础教育必须将批判性 AI 素养列为面向未来的关键交叉素养之一，确立“放大认知而非[[Cognitive Offloading|认知外包]]”的育人底线。
+> - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026)]] — 强调基础教育必须将批判性 AI 素养列为面向未来的关键交叉素养之一，确立“放大认知而非[[Cognitive Offloading|认知外包]]”的育人底线。
 > - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — [[Systematic Review|系统综述]] 67 项高等教育实证研究，将 AI 素养确立为驱动学生从被动使用转向[[Reflexivity|反思性]][[Dialogue in Education|对话]]、维持[[Epistemological Vigilance|认识论警觉]]的关键前置调节[[Variable|变量]]。

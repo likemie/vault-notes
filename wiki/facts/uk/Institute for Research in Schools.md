@@ -42,7 +42,7 @@ updated: 2026-08-23
 > [!policy-context] 政策背景
 > - **成立时间 / 主体** 2016 年创立，是英国致力于推动“真实科研进校园”（Authentic Research in Schools）的全国性非营利慈善机构。
 > - **适用对象** 英国各地中学（11–18 岁）师生与科学教育工作者。
-> - **问题背景** 传统中学科学教学长期局限于“已知结果的验证性实验（菜谱式实验）”，学生难以体验真实科研的不确定性与协作乐趣；前沿科研机构亦缺乏深入中学基层的有效转化渠道。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, p. 33)]]
+> - **问题背景** 传统中学科学教学长期局限于“已知结果的验证性实验（菜谱式实验）”，学生难以体验真实科研的不确定性与协作乐趣；前沿科研机构亦缺乏深入中学基层的有效转化渠道。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 33)]]
 > - **核心使命** 打破大学与中学的象牙塔藩篱，赋能普通中学生直接参与世界顶尖前沿课题的真实科学发现。
 
 ---
@@ -62,7 +62,7 @@ updated: 2026-08-23
 ## 育人成效与评价
 
 > [!finding-cards] 育人成效
-> - **从“学习已知”到“探索未知”的[[Paradigm|范式]]转变** 学生不再是教材知识的被动接受者，而是成为真正参与科学前沿的贡献者，极大地重构了学生的[[Epistemological Beliefs|认识论信念]]。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, p. 33)]]
+> - **从“学习已知”到“探索未知”的[[Paradigm|范式]]转变** 学生不再是教材知识的被动接受者，而是成为真正参与科学前沿的贡献者，极大地重构了学生的[[Epistemological Beliefs|认识论信念]]。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 33)]]
 > - **激发对前沿 STEM 学科的深层抱负** 显著提升学生修读物理、计算生物学及数据科学的高阶学术志向。
 > - **普惠挑战** 皇家学会报告指出，该模式目前仍依赖少数极具活力的骨干教师，亟需国家建立制度化专项支持以惠及弱势地区学校。（p. 33）
 
