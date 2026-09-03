@@ -8,7 +8,7 @@ aliases:
 summary: "IB 文凭项目的跨学科核心必修课程，通过比较知识形成方式、证据标准与认识边界，连接学科学习、个人经验和批判性反思。"
 type: concept
 domain: "curriculum"
-related_count: 68
+related_count: 69
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -55,6 +55,7 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Paradigm]]"
   - "[[Scientific Method]]"
+  - "[[Teacher Professional Agency]]"
   - "[[Praxis]]"
   - "[[Concurrency of Learning]]"
   - "[[Creativity, Action, Service]]"
@@ -85,6 +86,7 @@ related_arguments:
   - "[[Argument_Cole_2005_JRIE]]"
   - "[[Argument_Bergeron_2015_TeachingTOK]]"
   - "[[Argument_Zemplen_2007_SciEduc]]"
+  - "[[Argument_Peterson_1987_OpenCourt_Ch06]]"
   - "[[Argument_Metli_2022_IJER]]"
 related_instruments:
   - "[[Critical Thinking Strategies Scale]]"
@@ -95,7 +97,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-06-30
-updated: 2026-08-22
+updated: 2026-09-03
 ---
 
 # Theory of Knowledge
@@ -473,6 +475,20 @@ updated: 2026-08-22
 ---
 
 ## 应用案例
+
+### 1975 年 Ashbury College 把 TOK 嵌入省级资格体系
+
+> [!case] 分权制度为课程本地化提供了双重资格接口
+> 渥太华 Ashbury College 于 1975 年采用 IB。安大略省高中毕业课程由学校和教师保有较大决定空间，并主要依靠教师评价；学校因而可以设计同时满足省级毕业与 IB 要求的共同课程。TOK 没有作为额外的无学分负担附着在文凭课程外，而被发展为十三年级哲学课程，并取得省教育部门的学分承认。学生由此可在同一学习安排中获得地方资格与国际资格。[[Argument_Peterson_1987_OpenCourt_Ch06|Peterson (1987, Ch. 6, pp. 156–157)]]
+
+> [!evidence-grid]- Ashbury 案例拆解
+> - **制度条件** 省级规则允许教师评价和学校课程设计进入毕业认证，为跨体系课程对接保留空间。
+> - **课程翻译** 学校用已有的“十三年级哲学”语言解释 TOK，使跨学科[[Epistemology|认识论]]要求获得本地课程名称与学分位置。
+> - **[[Teacher Professional Agency|教师能动性]]** 具体教师对 TOK 的投入把正式兼容性转成可持续课堂；法规允许采用，却不会自动生成高质量实施。
+> - **参与层次** 完整文凭构成课程核心，外围学生仍可参加单科 IB 考试并计入省级毕业课程，形成由整体课程向外扩展的参与结构。
+> - **证据边界** Ashbury 是收费私立学校且奖学金规模有限，案例能说明制度兼容和课程翻译，不能证明进入机会公平。[[Argument_Peterson_1987_OpenCourt_Ch06|Peterson (1987, Ch. 6, pp. 156–157)]]
+
+---
 
 ### 澳大利亚学校将统一课程转化为不同实施路径
 

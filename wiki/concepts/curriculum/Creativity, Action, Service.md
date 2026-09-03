@@ -11,10 +11,10 @@ aliases:
 summary: "国际文凭预科项目（IB DP）的三项必修核心要素之一，要求学生参与课堂之外的艺术创意、体育活动与社区服务体验，促进全人发展与体验式学习。"
 type: concept
 domain: "curriculum"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - subject/curriculum
   - theme/active-learning
@@ -45,10 +45,11 @@ related_arguments:
   - "[[Argument_Metli_2022_IJER]]"
   - "[[Argument_Peterson_1987_OpenCourt_Ch03]]"
   - "[[Argument_Peterson_1987_OpenCourt_Ch04]]"
+  - "[[Argument_Peterson_1987_OpenCourt_Ch06]]"
 confidence: high
 status: active
 created: 2026-07-26
-updated: 2026-08-24
+updated: 2026-09-03
 ---
 
 # Creativity, Action, Service
@@ -93,6 +94,19 @@ updated: 2026-08-24
 > - **学生治理** 专门学生委员会承担协调，服务由零散个人善举转为可持续的学校组织活动。
 > - **共同框架的边界** 国际文凭办公室规定活动时间和文凭要求，具体项目由地方学校设计；共同性来自最低制度保障，不来自活动内容完全一致。
 
+> [!case] Bellaire High School 把 CASS 转化为学生自我组织
+> 休斯敦 Bellaire High School 于 1980 年引入 IB。在这所大型公立高中里，CASS 没有主要依赖教师为学生预先安排和担保活动，而强调由学生自己提出、组织并完成项目。学校把这种安排与责任感、进入工作世界所需的主动性，以及逻辑思考和创造性思考的结合联系起来。CASS 因而不只是平衡学术课表的活动时段，也成为训练项目发起、协作与承担后果的治理空间。[[Argument_Peterson_1987_OpenCourt_Ch06|Peterson (1987, Ch. 6, pp. 157–159)]]
+
+> [!contrast-table] 两类早期本地化路径
+> | 维度 | 1973 年莫希国际学校 | 1980 年 Bellaire 高中 |
+> |---|---|---|
+> | **本地问题语言** | 坦桑尼亚“自力更生”与社区互惠 | 美国公立高中的责任、就业准备与学生主动性 |
+> | **主要组织方式** | 学生社区服务委员会连接学校与医疗、孤儿照护和公共工程机构 | 学生自行发起并组织项目，降低教师包办程度 |
+> | **共同制度核心** | 学校保护非学术活动时间，并让学生承担真实任务 | 学校保护非学术活动时间，并让学生承担真实任务 |
+> | **可得结论** | 同一最低要求可以被翻译成国家发展与社区服务实践 | 同一最低要求可以被翻译成学生自治与工作能力训练 |
+>
+> 两案共同说明，CASS 的可迁移部分是时间保障、真实任务和学生责任，而不是一套固定活动清单。[[Argument_Peterson_1987_OpenCourt_Ch04|Peterson (1987, Ch. 4, pp. 80–81)]]；[[Argument_Peterson_1987_OpenCourt_Ch06|Peterson (1987, Ch. 6, pp. 157–159)]]
+
 ---
 
 ## 围绕概念形成的命题
@@ -118,6 +132,6 @@ updated: 2026-08-24
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, Ch. 3)]]；[[Argument_Peterson_1987_OpenCourt_Ch04|Peterson (1987, Ch. 4)]] — 追溯 CASS 从“保护非学术学习时间”的最低制度要求，到莫希[[International Schools|国际学校]]结合坦桑尼亚自力更生原则形成社区服务项目的早期实施。
+> - [[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, Ch. 3)]]；[[Argument_Peterson_1987_OpenCourt_Ch04|Peterson (1987, Ch. 4)]]；[[Argument_Peterson_1987_OpenCourt_Ch06|Peterson (1987, Ch. 6)]] — 追溯 CASS 从“保护非学术学习时间”的最低制度要求，到莫希[[International Schools|国际学校]]结合坦桑尼亚自力更生原则形成社区服务，再到 Bellaire 高中以学生自我组织强调责任和就业准备的本地化路径。
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 分析 CAS 在 IB 课程架构中的定位及其与 [[Theory of Knowledge|TOK]] 的跨领域印证机制。
 > - [[Argument_Metli_2022_IJER|Metli & Akış (2022)]] — 探讨在 [[IB Diploma Programme|IBDP]] 中促进 CAS and TOK、EE 之间[[Concurrency of Learning|并发学习]]（Concurrency of Learning）的整合策略，主张通过[[Experiential Learning|经验学习]]将[[Epistemology|认识论]]思考转化为本地社区服务行动。

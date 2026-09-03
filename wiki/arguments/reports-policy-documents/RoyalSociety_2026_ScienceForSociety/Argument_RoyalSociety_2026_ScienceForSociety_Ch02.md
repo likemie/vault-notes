@@ -79,7 +79,7 @@ sources:
 part_of: "[[sources/RoyalSociety_2026_ScienceForSociety/RoyalSociety_2026_ScienceForSociety|RoyalSociety_2026_ScienceForSociety]]"
 status: draft
 created: 2026-08-23
-updated: '2026-08-27'
+updated: 2026-09-03
 ---
 # Argument_RoyalSociety_2026_ScienceForSociety_Ch02
 
@@ -284,7 +284,7 @@ updated: '2026-08-27'
 > - **区域经济与社会基建评估（Regional & Infrastructure Impact）** 评估科学文化活动对区域文旅经济拉动与社区社会资本积累的综合效益（如考文垂文化之城评估、英国国家学术院社会文化基建测量）。
 > - **长期队列纵向追踪（Long-Term Cohort Trial）** 跨越数年乃至数十年跟踪同一群体在多次正规与非正规科学遭遇后的科学资本与职业轨迹演变（如伦敦大学学院（University College London, UCL）ASPIRES 追踪、布拉德福德出生队列 Age of Wonder）。（pp. 51–52）
 
-> [!ref-table] 表2-5：校外科学评估四级实践与典型项目矩阵表（复刻报告 Table 1, p. 51）
+> [!ref-table] 表2-5：校外科学评估四级实践与典型项目矩阵表（Table 1, p. 51）
 > | 评估层级（Type of evaluation） | 代表性项目与案例（Example(s)） | 核心评估方法与监测指标 | 核心价值与政策启示 |
 > |---|---|---|---|
 > | **项目与计划级<br>(Programme / project level)** | • [[Dippy on Tour\|Dippy on tour（迪皮恐龙巡展）]] | 观众流向监测、[[Questionnaire\|问卷]]调研、首次访客率（84%）与满意度测评 | 证明国家级资产下沉可打破边缘受众壁垒，激活地方科学参与（p. 51） |

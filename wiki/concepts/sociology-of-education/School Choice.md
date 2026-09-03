@@ -8,7 +8,7 @@ aliases:
 summary: "家长为子女选择就读学校的实践与政策逻辑，受家庭经济、社会与文化资本的系统筛选；在不同体制下分化为以新自由主义竞争为导向的市场化择校与以行政分流为导向的城镇化择校。"
 type: concept
 domain: "sociology-of-education"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Attrition]]"
   - "[[Variable]]"
   - "[[Questionnaire]]"
+  - "[[Counterfactual]]"
 related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
@@ -34,11 +35,12 @@ related_facts:
   - "[[Rural School Consolidation]]"
 related_arguments:
   - "[[Argument_Teng_2025_CE]]"
+  - "[[Argument_Peterson_1987_OpenCourt_Ch06]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09]]"
 confidence: high
 status: draft
 created: 2026-05-26
-updated: 2026-07-13
+updated: 2026-09-03
 ---
 
 # School Choice
@@ -176,6 +178,7 @@ updated: 2026-07-13
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
 > | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 > | [[Argument_Teng_2025_CE\|Teng & Wang (2025)]] | G 县 814 份[[Questionnaire\|问卷]]及 128 例访谈 | [[Mixed Methods Research\|混合方法]]实证研究 | 择校进城成本与比例 | 县城随迁择校家庭年生活成本逾 2 万元，占家庭总收入 40% 以上 | — | 反映小城镇低门槛入学下的高昂私人财务负担 |
+> | [[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6)]] | 密尔沃基 Rufus King 高中采用 IB 五年后的 907 名学生；学校同时是承担种族融合目标的磁石学校 | 选定学校的描述性案例，比较校内参与构成及学区纪律指标 | 学生构成、IB 参与、升学、停学与开除 | 全校白人约 55%；IB 学生中黑人接近 24%；98% 的 IB 学生升入大学；上一年仅 28 名学生遭停学、无人被开除，而密尔沃基另有 12 所学校各自记录超过 1,000 次停学 | 未报告[[Counterfactual\|反事实]]、显著性或同类学校匹配 | 数据与磁石学校选择性招生、种族融合政策和学校治理同时发生，不能把结果单独归因于 IB；但显示以严格课程为吸引物的择校载体可以同时承担学术卓越与多元入学目标。 |
 
 ---
 
@@ -184,3 +187,4 @@ updated: 2026-07-13
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Teng_2025_CE|Teng & Wang (2025, pp. 303–314)]] — 详述了中国农村教育城镇化驱动下的[[Peidu|陪读]]择校实践，解构了其中家庭资本的分层博弈。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09|Cohen et al. (2011, Ch. 9)]] — 探讨了家长规避行政划片、通过非正式网络建立联系以进入心仪学校的手段。
+> - [[Argument_Peterson_1987_OpenCourt_Ch06|Peterson (1987, Ch. 6, pp. 154–156)]] — 以 Rufus King 的磁石学校案例说明，特色课程可成为跨学区吸引学生的制度载体；同时提醒将课程、选择性入学和种族融合政策的效果分开解释。

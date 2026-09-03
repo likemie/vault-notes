@@ -24,6 +24,7 @@ related_concepts:
   - "[[Concurrency of Learning]]"
   - "[[Approaches to Teaching and Learning]]"
   - "[[Theory of Knowledge]]"
+  - "[[Theory of Mind]]"
   - "[[IB Diploma Programme]]"
   - "[[Extended Essay]]"
   - "[[Academic Achievement]]"
@@ -63,7 +64,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-17
-updated: 2026-09-01
+updated: 2026-09-03
 ---
 
 # International Baccalaureate
@@ -116,7 +117,7 @@ updated: 2026-09-01
 > 早期办公室把由个别学生自学、学校另寻辅导者的母语称为“罕见语言”。一次语言会议上，一位中国与会者以“中文大概只能算三分熟”指出，中文在世界范围并不罕见，只是在当时 IB 考生中报考较少。组织随后采用“低频开考语言”（Infrequently Offered Languages）这一名称，把分类依据从语言的世界地位改为考试系统内部的报考频率。名称变化也明确了行政责任：学生可以保留母语，学校尽量寻找辅导者，考试组织则需要匹配材料与考官。[[Argument_Peterson_1987_OpenCourt_Ch04|Peterson (1987, Ch. 4, pp. 63–65)]]
 
 > [!claim] 语言开放度受到年度考试生产能力约束
-> IB 允许学生以多种第一语言和第二语言参加考试，但小语种试卷需要命题、翻译、校对、分发、口试与阅卷人员，不能只靠课程原则维持。1974 年，IBO 与南安普敦大学签约，把语言考试业务从日内瓦逐步转入该校语言中心；汤姆·卡特（Tom Carter）负责学术指导，戴安娜·威廉森（Dianne Williamson）负责行政。到 1977 年，考试覆盖 24 种第一语言（Language A）和 29 种第二语言（Language B）。[[Argument_Peterson_1987_OpenCourt_Ch04|Peterson (1987, Ch. 4, pp. 91–92)]]
+> IB 允许学生以多种第一语言和第二语言参加考试，但小语种试卷需要命题、翻译、校对、分发、口试与阅卷人员，不能只靠课程原则维持。1974 年，IBO 与南安普敦大学签约，把语言考试业务从日内瓦逐步转入该校语言中心；汤姆·卡特（[[Theory of Mind|ToM]] Carter）负责学术指导，戴安娜·威廉森（Dianne Williamson）负责行政。到 1977 年，考试覆盖 24 种第一语言（Language A）和 29 种第二语言（Language B）。[[Argument_Peterson_1987_OpenCourt_Ch04|Peterson (1987, Ch. 4, pp. 91–92)]]
 
 > [!tension] 语言效度与财政可承受性
 > - **效度要求（蓝方）** 阅读与听力组合可以更完整地评价语言能力，多语种覆盖又使学生不必因跨境就学放弃第一语言。

@@ -32,6 +32,47 @@ tags:
 sources:
   - "[[sources/RoyalSociety_2026_ScienceForSociety/RoyalSociety_2026_ScienceForSociety|RoyalSociety_2026_ScienceForSociety]]"
 part_of: "[[sources/RoyalSociety_2026_ScienceForSociety/RoyalSociety_2026_ScienceForSociety|RoyalSociety_2026_ScienceForSociety]]"
+related_concepts:
+  - "[[Citizen Science]]"
+  - "[[Paradigm]]"
+  - "[[Scientific Literacy]]"
+  - "[[Scientific Attitude]]"
+  - "[[Scientific Misinformation]]"
+  - "[[Deficit Model of Science Communication]]"
+  - "[[Confidence Interval]]"
+  - "[[Reliability]]"
+  - "[[Learned Helplessness]]"
+  - "[[Generative Artificial Intelligence]]"
+  - "[[Literature Search]]"
+  - "[[Document]]"
+  - "[[AI Hallucination]]"
+  - "[[Hypothesis]]"
+  - "[[Knowledge Production]]"
+  - "[[Responsible Conduct of Research]]"
+  - "[[Causality]]"
+  - "[[Trustworthiness]]"
+  - "[[Sample Size Determination]]"
+  - "[[Effect Size]]"
+  - "[[Attrition]]"
+  - "[[Emergence]]"
+  - "[[Theory of Mind]]"
+  - "[[Outcomes-based Education]]"
+  - "[[Public Engagement with Science]]"
+  - "[[Dialogue in Education]]"
+related_methods:
+  - "[[Survey Research]]"
+  - "[[Observation Method]]"
+  - "[[Randomised Controlled Trials]]"
+related_instruments:
+  - "[[VALUE Rubrics]]"
+related_persons:
+  - "[[Louis Cohen]]"
+  - "[[Walter Bodmer]]"
+  - "[[Carlos Frenk]]"
+  - "[[Sheila Rowan]]"
+related_facts:
+  - "[[Science Media Centre]]"
+  - "[[Public Attitudes to Science]]"
 status: draft
 created: 2026-09-03
 updated: 2026-09-03
@@ -90,7 +131,7 @@ updated: 2026-09-03
 
 #### 主题一：大众媒介生态的结构性瓦解与专业科学新闻面临的生存挤压
 
-自 20 世纪末以来，英国大众科学传播基础设施经历了深度的范式演化。依照“先主题后时间”的发展脉络，可划分为三个关键演进阶段：
+自 20 世纪末以来，英国[[Citizen Science|大众科学]]传播基础设施经历了深度的[[Paradigm|范式]]演化。依照“先主题后时间”的发展脉络，可划分为三个关键演进阶段：
 
 > [!phase] 英国科学媒体环境 40 年演进历程
 >
@@ -107,14 +148,14 @@ updated: 2026-09-03
 >   流媒体服务、视频网站（如 YouTube）、播客（Podcasts）及垂直自媒体呈指数级增长，受众从集中收看权威晚间新闻转向高度去中心化、离散化的个性化信息消费。（p. 56）
 
 > [!threat] 专业科学新闻生产面临的双重体制挤压与生存威胁（pp. 56–57, 59）
-> - **专业科技记者（Specialist Journalists）编制萎缩** 英国曾拥有全球最具公信力与专业深度的科学跑口记者群体；但在传统报业财务危机与点击率考核驱使下，各大综合性媒体纷纷裁撤专职科技采编编制，科学报道日益被外包化、快餐化或交由缺乏科学素养的普通跑口记者兼职处理。（pp. 56–57）
+> - **专业科技记者（Specialist Journalists）编制萎缩** 英国曾拥有全球最具公信力与专业深度的科学跑口记者群体；但在传统报业财务危机与点击率考核驱使下，各大综合性媒体纷纷裁撤专职科技采编编制，科学报道日益被外包化、快餐化或交由缺乏[[Scientific Literacy|科学素养]]的普通跑口记者兼职处理。（pp. 56–57）
 > - **高等教育机构新闻官（Press Officers）多重任务超负荷过载** 调查表明（Jamison, 2022），在英国高等教育部门整体财务紧缩的大背景下，高校新闻办公室人员往往承受着巨大的多任务冲突：公关团队被迫将主要精力投入危机公关、学校声誉风险管理、内部行政沟通与招生营销中，导致支持一线科学家从事高难度科普沟通的精力被严重稀释；部分机构管理层甚至担忧科学家涉足争议性前沿研究会招致机构公关麻烦。（p. 59）
 
-#### 主题二：英国公众主动寻求科学信息的渠道格局变迁（PAS 2025 实证复刻）
+#### 主题二：英国公众主动寻求科学信息的渠道格局变迁（PAS 2025 调查）
 
-英国研究与创新署（UKRI）委托益普索（Ipsos）执行的 2025 年全国公众对科学态度调查（[[Public Attitudes to Science|PAS 2025]]），采用[[Survey Research|问卷调查研究]]抽样全英 5,281 名 16 岁及以上代表性成年人，针对其主动信息获取习惯进行了量化测绘。
+英国研究与创新署（UKRI）委托益普索（Ipsos）执行的 2025 年全国公众对[[Scientific Attitude|科学态度]]调查（[[Public Attitudes to Science|PAS 2025]]），采用[[Survey Research|问卷调查研究]]抽样全英 5,281 名 16 岁及以上代表性成年人，针对其主动信息获取习惯进行了量化测绘。
 
-> [!ref-table] 表3-1：英国公众主动寻求科学信息主要渠道分布表（复刻报告 Figure 3, p. 57）
+> [!ref-table] 表3-1：英国公众主动寻求科学信息主要渠道分布表（Figure 3, p. 57）
 > | 信息获取渠道分类 | 受访主动寻求人数（人） | 占总受访人数比例（%） | 渠道性质与受众接触特征 | 核心机遇与媒介治理痛点 |
 > |---|---|---|---|---|
 > | **新兴媒体（New media）** | **2,134** | **40%**（首位渠道） | 社交媒体（X、Instagram、TikTok 等）、YouTube 视频、播客自媒体 | 触达庞大青年受众与多元群体；充斥算法偏见、[[Scientific Misinformation\|虚假信息]]与网络恶意言论 |
@@ -162,10 +203,10 @@ updated: 2026-09-03
 
 为了精准制定治理策略，必须严格厘清不同层面的信息失真形态及其本质属性差异：
 
-> [!contrast-table] 表3-2：科学虚假信息、恶意操纵信息与科学不确定性对比表（复刻报告核心概念辨析）
+> [!contrast-table] 表3-2：科学虚假信息、恶意操纵信息与科学不确定性对比表（pp. 58–60）
 > | 比较维度 | [[Scientific Misinformation\|科学虚假信息（Scientific Misinformation）]] | 恶意操纵信息（Disinformation） | 科学不确定性（Scientific Uncertainty） |
 > |---|---|---|---|
-> | **主观意图** | 通常缺乏主观恶意欺骗动机，多源于对专业证据的误读、片面报道或高校通稿过度营销 | 具有明确的恶意欺骗、政治分裂、商业操纵或损害公共互信的既定意图 | 科学研究探索未知的本质属性，无任何欺骗性质，旨在界定证据置信区间 |
+> | **主观意图** | 通常缺乏主观恶意欺骗动机，多源于对专业证据的误读、片面报道或高校通稿过度营销 | 具有明确的恶意欺骗、政治分裂、商业操纵或损害公共互信的既定意图 | 科学研究探索未知的本质属性，无任何欺骗性质，旨在界定证据[[Confidence Interval\|置信区间]] |
 > | **典型场景** | 社交网络未经核实的养生秘方、误读临床前试验的自媒体推文、夸大功效的通稿 | 化石能源集团资助否认气候变暖宣传战、烟草工业质疑致癌研究、恶意反疫苗公关 | 流行病学模型区间预测、前沿新药临床疗效差异、气候敏感度参数范围估计 |
 > | **现实危害** | 诱发公众对疫苗接种的迟疑、延误正规医疗救治、加剧对前沿技术的盲目恐慌 | 破坏国家减排政策立法、阻碍关键科技治理法规出台、摧毁公众对民主制度的信任 | 属于健康科研常态；但若沟通不当极易被虚假信息利用并曲解为“科学界不可信” |
 > | **核心治理工具** | 科学传播《行为守则》、事实核查、通稿去过度夸大、提升公众[[Scientific Literacy\|证据素养]] | 平台违法有害信息法律监管、穿透资金链审计、揭露背后政治与商业利益网络 | 遵循 [[Reliability\|可靠性]] 原则，向公众坦诚透明沟通局限与演进共识（p. 62） |
@@ -217,7 +258,7 @@ updated: 2026-09-03
 #### 主题二：新闻回避与“解决方案新闻”的破局路径
 
 > [!info] 时代传播症候：公众“新闻回避”（News Avoidance）的心理诱因
-> 权威传播学研究（Newman et al., 2025; Nielsen, 2025）表明，近年来公众日益广泛的“新闻回避”（News Avoidance）行为，其根源在于传统新闻长期充斥着负面、冲突、灾难与末日恐慌，导致读者陷入习得性无助与精神绝望。公众对新闻的深层诉求不是更多的恐惧，而是**解决方案与循证希望（Solutions and Hope）**。
+> 权威传播学研究（Newman et al., 2025; Nielsen, 2025）表明，近年来公众日益广泛的“新闻回避”（News Avoidance）行为，其根源在于传统新闻长期充斥着负面、冲突、灾难与末日恐慌，导致读者陷入[[Learned Helplessness|习得性无助]]与精神绝望。公众对新闻的深层诉求不是更多的恐惧，而是**解决方案与循证希望（Solutions and Hope）**。
 
 > [!tension-table] 表3-3：传统轰动性负面新闻与解决方案新闻对比表（Majid, 2022; Newman, 2025; Nielsen, 2025）
 > | 比较维度 | 传统轰动性负面新闻（Sensationalist News） | 解决方案新闻（Solutions Journalism） |
@@ -244,13 +285,13 @@ updated: 2026-09-03
 #### 主题一：生成式 AI 对科学传播与搜索引擎生态的底层重构
 
 > [!opportunity] 生成式 AI 赋能科学新闻与知识检索的创新机遇（p. 61）
-> - **深度文献检索与智能分析** 协助专业记者与研究人员在海量学术文献中秒级提炼核心实证发现、样本特征与方法学要点。
+> - **深度[[Literature Search|文献检索]]与智能分析** 协助专业记者与研究人员在海量学术[[Document|文献]]中秒级提炼核心实证发现、样本特征与方法学要点。
 > - **受众自适应与知识平权** 能够根据不同年龄、认知水平与文化背景，将晦涩艰深的前沿理论转化为通俗易懂、量身定制的多模态科普形态。
 > - **数据纠错与模式识别** 高效识别大规模实验数据集与统计报表中人类肉眼难以察觉的微小计算偏差与逻辑漏洞。
 
 > [!threat] 生成式 AI 在科学传播中的系统性风险与信任侵蚀
-> - **模型幻觉与学术伪证（[[AI Hallucination]]）** 大语言模型在复杂科技问答中极易捏造虚假的论文引文、伪造实验数据与无中生有的科研结论。
-> - **过度简化与语境脱落** 抹去科学知识探索所必须依附的前提假设、样本边界、置信区间与不确定性，输出武断绝对的伪定论。
+> - **模型[[AI Hallucination|幻觉]]与学术伪证（[[AI Hallucination]]）** 大语言模型在复杂科技问答中极易捏造虚假的论文引文、伪造实验数据与无中生有的科研结论。
+> - **过度简化与语境脱落** 抹去科学知识探索所必须依附的前提[[Hypothesis|假设]]、样本边界、置信区间与不确定性，输出武断绝对的伪定论。
 > - **版权侵权与撤稿反刍** 缺乏透明的训练数据溯源机制，可能在搜索引擎人工智能概要（AI Overviews）中持续反刍陈旧乃至已被撤稿的错误结论。
 
 > [!question] 人工智能媒体时代的制度核心追问
@@ -275,7 +316,7 @@ updated: 2026-09-03
 
 ### 论证步骤五：科研诚信与制度治理：从通稿夸大防范到制定传播伦理行为守则（pp. 61–64）
 
-科学传播生态的净化，不能仅仅寄望于受众端的事后事实核查，更必须倒逼至知识生产源头与学术机构传播链条的制度化规范。（pp. 61–64）
+科学传播生态的净化，不能仅仅寄望于受众端的事后事实核查，更必须倒逼至[[Knowledge Production|知识生产]]源头与学术机构传播链条的制度化规范。（pp. 61–64）
 
 > [!claim] 步骤五核心主张
 > 大众媒体报道中耸人听闻的科学夸大结论，很大程度上直接植根于大学与科研机构自身新闻通稿（Press Releases）的过度营销；必须将科学传播正式纳入科研诚信（[[Responsible Conduct of Research]]）大框架，参照英国统计局标准制定科学传播《行为守则》（Code of Practice），并全面落实皇家学会五大系统性政策建议（建议 6 至建议 10）。（pp. 61–64）
@@ -285,18 +326,18 @@ updated: 2026-09-03
 传统学术界普遍持有一种傲慢的刻板印象：媒体上的虚假报道与耸人听闻全是因为外行记者的曲解与夸张。然而，里程碑式的定量实证研究彻底颠覆了这一流行假设。
 
 > [!case] 标志性案例四：学术新闻通稿夸大陈述与媒体失真的实证溯源（Sumner et al., 2014 里程碑研究, p. 62）
-> - **严密的实证调查设计** 萨姆纳等学者（Sumner et al., 2014）在《英国医学杂志》（British Medical Journal, BMJ）发表了一项大规模回顾性观察研究。研究系统采集了 2011 年英国 **20 所顶尖研究型大学**公开发布的 **462 篇**健康医学科研新闻通稿，追踪其在大众新闻媒体中引发的 **668 篇**新闻报道，并与原始同行评议学术论文进行因果匹配比对。（p. 62）
+> - **严密的实证调查设计** 萨姆纳等学者（Sumner et al., 2014）在《英国医学杂志》（British Medical Journal, BMJ）发表了一项大规模回顾性[[Observation Method|观察研究]]。研究系统采集了 2011 年英国 **20 所顶尖研究型大学**公开发布的 **462 篇**健康医学科研新闻通稿，追踪其在大众新闻媒体中引发的 **668 篇**新闻报道，并与原始同行评议学术论文进行因果匹配比对。（p. 62）
 > - **三大关键维度的夸大发生率**
 >   1. *直接向公众提供明确健康与生活方式建议* 原始学术论文仅指出相关统计学关联，但在大学新闻稿中高达 **40%** 直接转化为确定性的生活指导建议；大众媒体新闻中该比例为 36%；
->   2. *相关性被偷换为因果推论（Correlation to Causation）* 在观察性研究中，大学新闻稿有 **33%** 将相关性包装为确定因果机制；媒体报道中该比例为 34%；
+>   2. *相关性被偷换为因果推论（Correlation to [[Causality|causation]]）* 在观察性研究中，大学新闻稿有 **33%** 将相关性包装为确定因果机制；媒体报道中该比例为 34%；
 >   3. *动物实验结论无理外推至人类患者* 针对小鼠或体外细胞的实验室研究，大学新闻稿有 **36%** 夸大外推为对人类重大疾病的突破性疗效；媒体报道中该比例高达 47%。
 > - **决定性实证结论：通稿是媒体夸大的原发罪魁祸首** 回归模型证实：当大学新闻稿保持客观审慎、未作夸大时，媒体报道出现夸大的概率极低；而一旦大学新闻稿率先存在夸大，媒体报道出现同类夸大的发生比（Odds Ratio, OR，即比值比）暴增至普通报道的 **6.5 至 56 倍**！
 > - **制度警示与科研诚信合流** 实证强有力地证明，为了在激烈的大学排名、科研经费分配与媒体曝光度竞争中博取眼球，学术机构与科研管理部门的过度营销（Overselling）才是污染大众科学认知的第一污染源；《自然》（*Nature*, 2024）与发表在《美国国家科学院院刊》（Proceedings of the National Academy of Sciences, PNAS）上的韦斯特和伯格斯特伦（West & Bergstrom, 2021）研究相继呼吁：必须终结科学传播与科研诚信彼此割裂的局面，将对外通稿发布正式纳入科研诚信伦理审查。（pp. 61–62）
 
 > [!evidence-grid] 证据透明与不确定性沟通的实证效能（Kerr et al., 2022, p. 62）
 > - **打破学术界传统顾虑** 科研人员与公关专员往往担忧向公众承认实验局限、数据误差与科学不确定性（Uncertainty）会导致非专业受众产生困惑，甚至削弱公众对科学的权威信任。
-> - **随机对照实验结论** 克尔等学者发表在《美国国家科学院院刊·连结》（PNAS Nexus）上的随机对照实验表明（Kerr et al., 2022）：无论是采用数值置信区间、文字定性限定词还是证据质量分级，向公众坦诚披露科学证据的局限性与不确定性，**绝不会损害公众对证据事实的信任，也绝不会降低对研究人员本人的信任评价**。（p. 62）
-> - **增强可信赖度感知** 在争议性公共政策议题中，坦诚承认“我们目前所知有限”反而能显著提升公众对科学家群体的诚信度（Trustworthiness）感知，消除公众对科学家“自大包办”的抵触心理。
+> - **[[Randomised Controlled Trials|随机对照实验]]结论** 克尔等学者发表在《美国国家科学院院刊·连结》（PNAS Nexus）上的随机对照实验表明（Kerr et al., 2022）：无论是采用数值置信区间、文字定性限定词还是证据质量分级，向公众坦诚披露科学证据的局限性与不确定性，**绝不会损害公众对证据事实的信任，也绝不会降低对研究人员本人的信任评价**。（p. 62）
+> - **增强可信赖度感知** 在争议性公共政策议题中，坦诚承认“我们目前所知有限”反而能显著提升公众对科学家群体的诚信度（[[Trustworthiness]]）感知，消除公众对科学家“自大包办”的抵触心理。
 
 #### 主题二：科学传播《行为守则》架构设计
 
@@ -306,10 +347,10 @@ updated: 2026-09-03
 > | 守则核心支柱 | 统计实践守则原始内涵 | 科学传播《行为守则》移植实践准则（Code of Practice） |
 > |---|---|---|
 > | **[[Trustworthiness\|可信赖性（Trustworthiness）]]** | 机构治理独立透明，数据生产不受政治干预，建立公众对统计生产者的信任 | 明确披露科研资金资助方、商业利益冲突与学术任职；新闻通稿发布前必须由首席科学家复核实证表述；恪守[[Responsible Conduct of Research\|科研诚信]]与学术独立，严禁为博取曝光夸大初步研究成果。 |
-> | **质量（Quality）** | 运用合理可靠的数据源与严谨统计学方法，确保数据真实反映现实 | 忠实反映同行评议原始论文的证据力度；严禁将观察性相关性混同为因果关系；如实陈述样本量、效应量大小、动物模型与人体临床的本质鸿沟；公开声明方法学局限。 |
-> | **价值（Value）** | 统计信息服务于公众利益，满足决策需求，支持民主理性辩论与知情选择 | 秉持服务公众理性审议的初心，摒弃耸人听闻的恐慌标题与虚妄的医学神话；注重阐释科学研究的社会意义；倡导“解决方案新闻”视角，为应对社会危机提供循证方案。 |
+> | **质量（Quality）** | 运用合理可靠的数据源与严谨统计学方法，确保数据真实反映现实 | 忠实反映同行评议原始论文的证据力度；严禁将观察性相关性混同为因果关系；如实陈述[[Sample Size Determination\|样本量]]、[[Effect Size\|效应量]]大小、动物模型与人体临床的本质鸿沟；公开声明方法学局限。 |
+> | **价值（[[VALUE Rubrics\|VALUE]]）** | 统计信息服务于公众利益，满足决策需求，支持民主理性辩论与知情选择 | 秉持服务公众理性审议的初心，摒弃耸人听闻的恐慌标题与虚妄的医学神话；注重阐释科学研究的社会意义；倡导“解决方案新闻”视角，为应对社会危机提供循证方案。 |
 
-#### 主题三：英国皇家学会面向媒体与虚假信息治理的五大核心建议蓝图（Recommendations 6–10 复刻 Box）
+#### 主题三：英国皇家学会面向媒体与虚假信息治理的五大核心建议蓝图（Recommendations 6–10, pp. 62–64）
 
 报告在总结全章论证的基础上，面向英国政府、皇家学会、高校、资助机构与主流媒体，系统出台了建议 6 至建议 10：
 
@@ -324,7 +365,7 @@ updated: 2026-09-03
 
 > [!pathways] 建议八：重构与科学新闻界合作并捍卫解决方案新闻（Recommendation 8, p. 63）
 > - **战略协同专业科技记者与编辑团队** 科学共同体重新承诺深化与主流新闻界科技采编人员的紧密协同，敦促媒体管理层定期评估科学新闻报道的社会成效，将科学报道置于编辑部的优先议程中；
-> - **坚决抵制点击率“竞次”并捍卫解决方案导向** 向新闻产业界发出明确倡议：在社交网络算法时代赢回流失受众的唯一破局之道，绝非跟随自媒体沉沦于煽动性负面恐慌的“竞次”（Race to the bottom）泥潭，而在于坚定提供英国公众反复渴求的高品质、赋能希望的“解决方案新闻”。（p. 63）
+> - **坚决抵制点击率“竞次”并捍卫解决方案导向** 向新闻产业界发出明确倡议：在社交网络算法时代赢回[[Attrition|流失]]受众的唯一破局之道，绝非跟随自媒体沉沦于煽动性负面恐慌的“竞次”（Race to the bottom）泥潭，而在于坚定提供英国公众反复渴求的高品质、赋能希望的“解决方案新闻”。（p. 63）
 
 > [!pathways] 建议九：参照统计守则制定科学传播《行为守则》并融合科研诚信（Recommendation 9, p. 64）
 > - **起草并敦促全行业采纳科学传播《行为守则》** 英国皇家学会牵头研制面向科学家与科研机构新闻官的统一媒体沟通《行为守则》（Code of Practice），设定科学外联与通稿发布的最低专业合规红线；
@@ -332,9 +373,9 @@ updated: 2026-09-03
 
 > [!pathways] 建议十：设立高质量科学融媒体节目联合孵化机制（Recommendation 10, p. 64）
 > - **发挥皇家学会顶层汇聚功能** 皇家学会成立专门工作组，探索设立新型激励机制，有效连接创新型慈善资金、产业赞助、顶尖科学家与一线影视节目制作机构；
-> - **形成科学界的集体发声载体** 借鉴艺术人文界的成熟成功经验，打破科学界在公共视听领域的发声孤岛，搭建协同发声阵地，合力推动更多兼具学术权威深度与大众通俗吸引力的高品质科学融媒体节目涌现。（p. 64）
+> - **形成科学界的集体发声载体** 借鉴艺术人文界的成熟成功经验，打破科学界在公共视听领域的发声孤岛，搭建协同发声阵地，合力推动更多兼具学术权威深度与大众通俗吸引力的高品质科学融媒体节目[[Emergence|涌现]]。（p. 64）
 
-#### 主题四：第三章专家研制委员会背景（Annex 1 Box 复刻）
+#### 主题四：第三章专家研制委员会背景（Annex 1, p. 110）
 
 > [!info]- 第三章专家研制工作组核心成员与多元机构构成（Chapter 3 Working Group, Annex 1, p. 110）
 > 英国皇家学会为本章研制设立了高规格的专家工作组，成员跨越了科学界、国家广播影视机构、商业主流媒体与科研传播中枢，确保了报告建言的高度专业性与产业可行性：
@@ -343,12 +384,12 @@ updated: 2026-09-03
 > - **委员会成员（Committee Members）**
 >   - 阿里·贝利（Ali Bailey）：弗朗西斯·克里克研究所（The Francis Crick Institute）传播与公共参与总监；
 >   - 莫希特·巴卡亚（Mohit Bakaya）：英国广播公司第四台（BBC Radio 4）主监兼话语节目总监；
->   - 安德鲁·科恩（Andrew Cohen）：BBC 影业（BBC Studios）科学制作部主管；
->   - 汤姆·克拉克（Tom Clarke）：天空新闻台（Sky News）科技主编；
+>   - 安德鲁·[[Louis Cohen|科恩]]（Andrew Cohen）：BBC 影业（BBC Studios）科学制作部主管；
+>   - 汤姆·克拉克（[[Theory of Mind|ToM]] Clarke）：天空新闻台（Sky News）科技主编；
 >   - 弗兰克·凯利教授（Professor Frank Kelly）：大英帝国司令勋章获得者（Commander of the Order of the British Empire, CBE）、英国皇家学会院士（Fellow of the Royal Society, FRS）、剑桥大学系统数学教授；
 >   - 阿比盖尔·莫布斯（Abigail Mobbs）：BBC 新闻部（BBC News）社交媒体主管；
 >   - 亨利·斯科夫罗夫特（Henry Scowcroft）：资深自由科学作家兼传播战略专家；
->   - 戴维·施皮格尔霍尔特爵士（Sir David Spiegelhalter）：大英帝国官佐勋章获得者（Officer of the Order of the British Empire, OBE）、英国皇家学会院士（Fellow of the Royal Society, FRS）、剑桥大学统计学荣休教授，全球风险与不确定性量化沟通领域顶级权威。（p. 110）
+>   - 戴维·施皮格尔霍尔特爵士（Sir David Spiegelhalter）：大英帝国官佐勋章获得者（Officer of the Order of the British Empire, [[Outcomes-based Education|OBE]]）、英国皇家学会院士（Fellow of the Royal Society, FRS）、剑桥大学统计学荣休教授，全球风险与不确定性量化沟通领域顶级权威。（p. 110）
 
 ---
 
@@ -361,12 +402,12 @@ updated: 2026-09-03
 > | [[Scientific Misinformation]] | 概念 | 本章剖析的当代媒体核心威胁，涵盖算法分发偏误与源头通稿夸大机制。 |
 > | [[Responsible Conduct of Research]] | 概念 | 确立科研诚信与科学传播融合原则，将通稿去过度营销纳入负责任科研行为（Responsible Conduct of Research, RCR）治理。 |
 > | [[Trustworthiness]] | 概念 | 英国统计守则向科学传播移植的核心支柱，重构公众对科学机构的信任。 |
-> | [[Reliability]] | 概念 | 科学不确定性与证据质量沟通的信度原则，公开置信区间与方法局限。 |
+> | [[Reliability]] | 概念 | 科学不确定性与证据质量沟通的信度原则，公开[[Confidence Interval\|置信区间]]与方法局限。 |
 > | [[Science Media Centre]] | 事实 | 英国自 2002 年起搭建的连接科学家与大众传媒、抵御争议失实的专业新闻中枢。 |
 > | [[Public Attitudes to Science]] | 事实 | 为公众获取渠道逆转（40% vs 36%）、真实感下滑（40%）与高信任度提供实证基准。 |
 > | [[Survey Research]] | 方法 | 运用全国代表性抽样调查（$N=5,281$）与 BBC 受众调研评估公众媒介消费与态度。 |
-> | [[Deficit Model of Science Communication]] | 概念 | 本章反思的传统单向普及范式，指出单纯辟谣无法替代系统性信任重构。 |
-> | [[Public Engagement with Science]] | 概念 | 贯穿全书的核心框架，确立双向对话、倾听关切与全生命周期参与原则。 |
+> | [[Deficit Model of Science Communication]] | 概念 | 本章反思的传统单向普及[[Paradigm\|范式]]，指出单纯辟谣无法替代系统性信任重构。 |
+> | [[Public Engagement with Science]] | 概念 | 贯穿全书的核心框架，确立双向[[Dialogue in Education\|对话]]、倾听关切与全生命周期参与原则。 |
 > | [[Scientific Literacy]] | 概念 | 本章强调公众理解证据不确定性与同行评议机制是抵御虚假信息的免疫屏障。 |
 > | [[Generative Artificial Intelligence]] | 概念 | 深度分析生成式 AI 颠覆新闻生产、知识检索带来的双刃剑效应与护栏需求。 |
 > | [[AI Hallucination]] | 概念 | 大语言模型在复杂科技新闻中编造伪证与事实虚构的固有局限。 |
@@ -396,20 +437,20 @@ updated: 2026-09-03
 
 ## 关键引用
 
-> [!citation-card]- 科学虚假信息的时代威胁
+> [!citation-card]- [[Scientific Misinformation|科学虚假信息]]的时代威胁
 > 科学虚假信息并非新现象，但媒体格局的深刻重塑意味着不准确、误导性乃至完全捏造的信息如今能够以庞大的体量和极高的速度裂变扩散。虚假信息在一定程度上助长了对疫苗的不信任，并扰乱了应对气候变化的公共讨论。这会给个体与整体社会带来严重损害。（p. 58）
 >
 > *Scientific misinformation is not a new phenomenon, but changes in the media landscape mean that inaccurate, misleading and false information can now be shared in large volumes and at speed. False information has to some extent fuelled mistrust in vaccines and confused discussions about tackling climate change. This can result in harm to individuals and to society.*
 
 > [!citation-card]- 坦诚沟通不确定性与公众信任
-> 科学家不应回避承认局限性与不确定性；这似乎既不会使读者困惑，也不会阻碍读者，反而实际上可能会增强公众的信任……增进科学素养将有助于公众理解科学证据生成的微妙复杂性。（p. 62）
+> 科学家不应回避承认局限性与不确定性；这似乎既不会使读者困惑，也不会阻碍读者，反而实际上可能会增强公众的信任……增进[[Scientific Literacy|科学素养]]将有助于公众理解科学证据生成的微妙复杂性。（p. 62）
 >
 > *Scientists should not shy away from acknowledging limitations and uncertainties, which does not appear to confuse or deter readers, and may actually increase trust... enhancing scientific literacy will help members of the public appreciate the nuances of scientific evidence generation.*
 
 > [!citation-card]- 科学传播与科研诚信的合流
-> 科学界目前正致力于提升科学文献的标准，越来越关注科研诚信与可重复性；但这些努力往往与科学传播割裂开来——这两项事业应当合二为一。（p. 64）
+> 科学界目前正致力于提升科学[[Document|文献]]的标准，越来越关注科研诚信与可重复性；但这些努力往往与科学传播割裂开来——这两项事业应当合二为一。（p. 64）
 >
-> *The science community is currently trying to improve the standards of scientific literature, with increasing focus on research integrity and reproducibility, but these efforts often take place separately from science communication – the two endeavours should be merged.*
+> *The science community is currently trying to improve the standards of scientific literature, with increasing focus on [[Responsible Conduct of Research|research integrity]] and reproducibility, but these efforts often take place separately from science communication – the two endeavours should be merged.*
 
 > [!citation-card]- 赢回受众与抵制竞次倾轧
 > 科学共同体应当向新闻媒体传递强烈信号：在社交媒体上最有效竞争并把受众赢回专业新闻的途径，绝不是加入竞次的泥潭，而是提供英国公众反复表示想要的优质新闻。（p. 63）
