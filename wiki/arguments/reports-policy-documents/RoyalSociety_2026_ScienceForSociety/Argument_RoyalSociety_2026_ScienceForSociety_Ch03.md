@@ -394,29 +394,6 @@ updated: 2026-09-04
 >   - 亨利·斯科夫罗夫特（Henry Scowcroft）：资深自由科学作家兼传播战略专家；
 >   - 戴维·施皮格尔霍尔特爵士（Sir David Spiegelhalter）：大英帝国官佐勋章获得者（Officer of the Order of the British Empire, [[Outcomes-based Education|OBE]]）、英国皇家学会院士（Fellow of the Royal Society, FRS）、剑桥大学统计学荣休教授，全球风险与不确定性量化沟通领域顶级权威。（p. 110）
 
----
-
-## 核心概念与相关条目
-
-> [!entry-map]
->
-> | 条目 | 类型 | 关系 |
-> |:-----|:-----|:-----|
-> | [[Scientific Misinformation]] | 概念 | 本章剖析的当代媒体核心威胁，涵盖算法分发偏误与源头通稿夸大机制。 |
-> | [[Responsible Conduct of Research]] | 概念 | 确立科研诚信与科学传播融合原则，将通稿去过度营销纳入负责任科研行为（Responsible Conduct of Research, RCR）治理。 |
-> | [[Trustworthiness]] | 概念 | 英国统计守则向科学传播移植的核心支柱，重构公众对科学机构的信任。 |
-> | [[Reliability]] | 概念 | 科学不确定性与证据质量沟通的信度原则，公开[[Confidence Interval\|置信区间]]与方法局限。 |
-> | [[Science Media Centre]] | 事实 | 英国自 2002 年起搭建的连接科学家与大众传媒、抵御争议失实的专业新闻中枢。 |
-> | [[Public Attitudes to Science]] | 事实 | 为公众获取渠道逆转（40% vs 36%）、真实感下滑（40%）与高信任度提供实证基准。 |
-> | [[Survey Research]] | 方法 | 运用全国代表性抽样调查（$N=5,281$）与 BBC 受众调研评估公众媒介消费与态度。 |
-> | [[Deficit Model of Science Communication]] | 概念 | 本章反思的传统单向普及[[Paradigm\|范式]]，指出单纯辟谣无法替代系统性信任重构。 |
-> | [[Public Engagement with Science]] | 概念 | 贯穿全书的核心框架，确立双向[[Dialogue in Education\|对话]]、倾听关切与全生命周期参与原则。 |
-> | [[Scientific Literacy]] | 概念 | 本章强调公众理解[[Scientific Uncertainty\|证据不确定性]]与同行评议机制是抵御虚假信息的免疫屏障。 |
-> | [[Generative Artificial Intelligence]] | 概念 | 深度分析生成式 AI 颠覆新闻生产、知识检索带来的双刃剑效应与护栏需求。 |
-> | [[AI Hallucination]] | 概念 | 大语言模型在复杂[[Science Journalism\|科技新闻]]中编造伪证与事实虚构的固有局限。 |
-> | [[Walter Bodmer]] | 人物 | 撰写前言回顾自 1985 年《公众理解科学》报告以来 40 年大众媒体环境的巨变。 |
-> | [[Carlos Frenk]] | 人物 | 指导委员会联席主席，领导全书及大众传媒与虚假信息专题研究的研制。 |
-> | [[Sheila Rowan]] | 人物 | 指导委员会联席主席，主持审议本章关于媒体守则与 AI 护栏的战略建言。 |
 
 ---
 

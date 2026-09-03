@@ -405,31 +405,6 @@ updated: 2026-09-04
 >   - 梅拉妮·李教授（Professor Melanie Lee CBE）：LifeARC 首席执行官、前医学研究理事会技术总监（MRCT）；
 >   - 乔纳森·莱-史密斯（Jonathan Legh-Smith MBE）：英国量子科技产业联盟（UKQuantum）执行董事。（p. 110）
 
----
-
-## 核心概念与相关条目
-
-> [!entry-map]
-> | 条目 | 类型 | 关系 |
-> |:-----|:-----|:-----|
-> | [[Public Engagement with Science]] | 概念 | 贯穿全书的核心分析框架，本章确立了产业界从单向公关营销转向双向平权沟通的行动规范。 |
-> | [[The Social Value Model]] | 事实 | 英国中央政府采购依据 PPN 002/2025 推行的法定杠杆，强制 10% 权重撬动企业投资社区科普。 |
-> | [[Patient and Public Involvement]] | 概念 | 生命科学与医学慈善的核心参与范式，将患者生活经验（Lived Experience）机制化嵌入研发全流程。 |
-> | [[Association of Medical Research Charities]] | 事实 | 英国 148 家非营利医学慈善联合会，年投 16 亿英镑研发经费，引领生物医药患者共创准则。 |
-> | [[Public Attitudes to Science]] | 事实 | PAS 2025 为私企科学家公信力下滑（47% vs 大学 87%）与 AI 利益低认可度（33%）提供实证基准。 |
-> | [[Advanced Manufacturing Research Centre]] | 事实 | 英国前沿制造研发枢纽，产学研深度融合与工程青年外展的旗舰基地。 |
-> | [[University Spin-Out]] | 概念 | 高校学者创立的高科技衍生企业，代表了科研成果商业转化的早期组织形态与参与资源瓶颈。 |
-> | [[Innovation Park]] | 概念 | 企业研发与地方社群互动的重要物理载体，建议设立开放式“创新区”搭建雇主与居民沟通桥梁。 |
-> | [[Citizen Science]] | 概念 | 第三部门动员数百万会员开展国家级生态监测（如大蝴蝶计数）的核心参与载体。 |
-> | [[Big Butterfly Count]] | 事实 | 英国蝴蝶保护协会发起的全民 15 分钟极简公民科学项目，动员逾 10 万人产出法定生态决策数据。 |
-> | [[Dialogue in Education]] | 概念 | 本章强调的真诚双向对话机制，取代传统自上而下的赤字模型说教以重塑社会许可。 |
-> | [[Scientific Literacy]] | 概念 | 应对多元利益相关方与 NGO 竞争性科学主张的基础免疫屏障。 |
-> | [[Data Literacy]] | 概念 | 公众在面对前沿人工智能与大数据决策时理解算法偏见与安全风险的必备素养。 |
-> | [[Research Ethics]] | 概念 | 贯穿企业科学家自媒体言论合规、临床受试者尊严保障与 AI 算法审计的核心准则。 |
-> | [[Informed Consent]] | 概念 | 临床试验与前沿技术审议中的知情同意机制，通过通俗化重构保障受试者与公众权益。 |
-> | [[Clinical Trial]] | 概念 | 现代医学转化的关键环节，引入以患者为中心（PROs）大幅降低脱落率并提升研发效率。 |
-> | [[Case Study]] | 方法 | 本章深入剖析西门子、孟山都、阿斯利康、DeepMind 等 7 大典型产业与第三部门案例的方法载体。 |
-> | [[VALUE Rubrics]] | 测量工具 | 评估公众参与长期社会效益与学习成果的关键综合评价框架。 |
 
 ---
 

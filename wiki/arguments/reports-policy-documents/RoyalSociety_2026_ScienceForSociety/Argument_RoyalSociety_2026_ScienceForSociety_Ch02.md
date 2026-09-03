@@ -80,7 +80,7 @@ sources:
 part_of: "[[Argument_RoyalSociety_2026_ScienceForSociety]]"
 status: draft
 created: 2026-08-23
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 # Argument_RoyalSociety_2026_ScienceForSociety_Ch02
 
@@ -303,23 +303,6 @@ updated: 2026-09-03
 >   - **发起国家级长期队列研究** 皇家学会应牵头召集主要利益相关方（资助方、科普机构与一线实践者）组建工作组，共同设计并落实资金，启动关于非正式科学参与伴随正规教育所产生的**持久育人累积效应的国家长期队列研究**；
 >   - **跨界共享工具与最佳实践** 科研雇主与资助方应为科学界、艺术界和社区参与等相邻领域搭建专业发展与最佳实践共享平台，推广 GLOs 等共性评估工具，全面提升参与质量。
 
----
-
-## 核心概念与相关条目
-
-> [!entry-map]
->
-> | 条目 | 类型 | 关系 |
-> |:-----|:-----|:-----|
-> | [[Informal Science Learning]] | 概念 | 阐明非正式科学参与作为社会文化基础设施的战略定位。 |
-> | [[Citizen Science]] | 概念 | 非正式科学参与中实现双向平权与公众能动性重塑的核心[[Paradigm\|范式]]。 |
-> | [[Science Capital]] | 概念 | 揭示非正式科学参与空间集聚与自选排斥机制的深层理论透镜。 |
-> | [[Public Attitudes to Science]] | 事实 | 诊断公众信息渴求（62%）与决策边缘化（12%）的实证基准。 |
-> | [[Association for Science and Discovery Centres]] | 事实 | 代表英国 60 多所科技馆并推动财税平权与包容性改革的行业中枢。 |
-> | [[Big Butterfly Count]] | 事实 | 去中心化全民生态监测公民科学的标志性案例。 |
-> | [[The Perception Census]] | 事实 | 艺术体验与前沿脑科学研究深度融合的双向公众参与范式。 |
-> | [[Dippy on Tour]] | 事实 | 国家顶级科研文化资产辐射边缘区域与打破伦敦集聚的典范。 |
-> | [[UK Science Education Tracker]] | 事实 | 纵向监测青少年校内外科学校园与非正式参与体验的全国性调查。 |
 
 ---
 
