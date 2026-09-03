@@ -7,7 +7,7 @@ aliases:
 summary: "指贯穿个体全生命周期的自愿性、适应性与累积性学习过程，既包含服务知识经济与劳动力重构的人力资本技能更新，更涵盖支撑公民健康、理性决策、民主协商与社会文化基础设施构建的全人发展与非正式参与生态。"
 type: concept
 domain: "educational-philosophy"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -195,9 +195,7 @@ updated: 2026-09-03
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Yan_2025_JCS|Yan & Morris (2025)]] — 深度剖析终身学习话语在香港课程改革中的政策外部化与修辞借用机制。
-> - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|The Royal Society (2026, pp. 41–54)]] — 将[[Informal Science Learning|非正式科学参与]]确立为国家终身学习的社会与文化基础设施，诊断民意落差并提出长期队列追踪蓝图。
-> - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026, pp. 29–40)]] — 提出[[Data Literacy|数据素养]]、批判性 AI 素养与可持续素养等关键交叉素养，重构终身学习的基础教育底座。
-> - [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026)]] — 宏观倡导面向全体公民的全生命周期[[Scientific Literacy|科学素养]]建设与普惠参与生态。
+> - [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026)]] — 宏观倡导面向全体公民的全生命周期[[Scientific Literacy|科学素养]]建设与普惠参与生态；提出包含[[Data Literacy|数据素养]]与批判性 AI 素养的关键交叉素养底座（第1章）；并将[[Informal Science Learning|非正式科学参与]]确立为国家终身学习的社会与文化基础设施（第2章）。
 
 ---
 

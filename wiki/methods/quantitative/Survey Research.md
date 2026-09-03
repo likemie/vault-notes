@@ -9,7 +9,7 @@ summary: "通过研究样本以提供总体趋势、态度或意见的量化或�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 60
+method_related_count: 62
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -56,7 +56,6 @@ related_concepts:
   - "[[Rating Scale]]"
   - "[[Attrition]]"
   - "[[Pre-test Sensitisation]]"
-  - "[[Scientific Attitude]]"
 related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
@@ -84,7 +83,6 @@ related_facts:
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety]]"
-  - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03]]"
 confidence: medium
 status: draft
 created: 2026-05-30
@@ -317,8 +315,7 @@ Dillman（2007）建议按顺序跟进：（a）10 天后向无回应者发送�
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026)]] — 综合运用 2025 年公众[[Scientific Attitude|科学态度]]调查（PAS 2025）与英国科研人员科学参与调查的全国抽样数据，评估公众参与需求、信任度及制度障碍。
-> - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|The Royal Society (2026, pp. 55–66)]] — 依托 2025 年[[Public Attitudes to Science|英国公众对科学态度调查]]（PAS 2025）全国成年人抽样数据（$N = 5,281$）及 BBC 受众调查，定量评估数字媒介环境下公众科学信息获取渠道、信息渴求度（62%）与真实性信任感知。
+> - [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026)]] — 综合运用 2025 年[[Public Attitudes to Science|英国公众对科学态度调查]]（PAS 2025，全国成年人抽样 $N = 5,281$）及英国科研人员参与调查的全国抽样数据，定量评估数字媒介环境下公众科学信息获取渠道、信息渴求度（62%）与科研人员制度性障碍（第2、3章及总报告）。
 
 
 

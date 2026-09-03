@@ -236,7 +236,4 @@ updated: 2026-09-03
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zhou_2024_CE|Zhou & Westberg (2024)]] — 系统考证 1920 年代民国[[New Education Movement|新教育运动]][[Paradigm|范式]]转向与赵乃传科学态度三要素。
 > - [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] — 追踪科学态度与[[Pragmatism in China|实用主义在中国]]现代政治话语中的[[Transfer Translation Transformation|转译]]演变。
-> - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026, pp. 29–40)]] — 提出[[Scientific Literacy|科学素养]]本质在于掌握多源证据批判与科学不确定性理解。
-> - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|The Royal Society (2026, pp. 41–54)]] — 依托 [[Public Attitudes to Science|PAS 2025]] 调查诊断公众科学态度、信息渴求与科技决策民主参与机制。
-> - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|The Royal Society (2026, pp. 55–66)]] — 剖析公众面对虚假信息与恐慌新闻的“解决方案”科学态度，以及科研人员负责任传播（[[Responsible Conduct of Research|RCR]]）的伦理自律。
-> - [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026, p. 95)]] — 整合报告全景，汇集 2006–2025 全英科研人员公众参与态度 20 年纵向变迁数据，确立科技与社会双向赋能新格局。
+> - [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026)]] — 整合报告全景，汇集 2006–2025 全英科研人员公众参与态度 20 年纵向变迁数据；论证[[Scientific Literacy|科学素养]]本质在于掌握证据批判与科学不确定性理解（第1章）；依托 [[Public Attitudes to Science|PAS 2025]] 调查诊断公众科学态度与参与渴求（第2章）；并倡导建设性“解决方案”科学态度与负责任传播（[[Responsible Conduct of Research|RCR]]）伦理自律（第3章）。
