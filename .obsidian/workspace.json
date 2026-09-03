@@ -43,16 +43,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/arguments/reports-policy-documents/RoyalSociety_2026_ScienceForSociety/Argument_RoyalSociety_2026_ScienceForSociety.md",
+                "file": "wiki/arguments/reports-policy-documents/RoyalSociety_2026_ScienceForSociety/Argument_RoyalSociety_2026_ScienceForSociety_Ch03.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Argument_RoyalSociety_2026_ScienceForSociety"
+              "title": "Argument_RoyalSociety_2026_ScienceForSociety_Ch03"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -234,8 +235,18 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "dbd03913e540f7fd",
+  "active": "ffc1a70d9b63a440",
   "lastOpenFiles": [
+    "wiki/arguments/reports-policy-documents/RoyalSociety_2026_ScienceForSociety/Argument_RoyalSociety_2026_ScienceForSociety_Ch03.md",
+    "wiki/arguments/reports-policy-documents/RoyalSociety_2026_ScienceForSociety/Argument_RoyalSociety_2026_ScienceForSociety_Ch02.md",
+    "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch06.md",
+    "wiki/facts/uk/Science Media Centre.md",
+    "wiki/concepts/communication-discourse/Scientific Misinformation.md",
+    "wiki/arguments/reports-policy-documents/RoyalSociety_2026_ScienceForSociety/Argument_RoyalSociety_2026_ScienceForSociety.md",
+    "wiki/persons/russia/Genrich Altshuller.md",
+    "wiki/persons/uk/Edward de Bono.md",
+    "wiki/persons/us/Paul B. Paulus.md",
+    "wiki/persons/us/Alex Osborn.md",
     "wiki/concepts/instruction-pedagogy/Synectics.md",
     "wiki/concepts/instruction-pedagogy/Lateral Thinking.md",
     "wiki/concepts/instruction-pedagogy/Brainstorming.md",
@@ -245,23 +256,13 @@
     "wiki/concepts/learning-science-cognitive-science/Cognitive Flexibility.md",
     "wiki/theories/instruction-pedagogy/TRIZ.md",
     "wiki/concepts/instruction-pedagogy/Mind Mapping.md",
-    "wiki/arguments/reports-policy-documents/RoyalSociety_2026_ScienceForSociety/Argument_RoyalSociety_2026_ScienceForSociety.md",
     "wiki/concepts/instruction-pedagogy/Practical Inquiry in Science Education.md",
     "wiki/concepts/instruction-pedagogy/SCAMPER.md",
-    "wiki/arguments/reports-policy-documents/RoyalSociety_2026_ScienceForSociety/Argument_RoyalSociety_2026_ScienceForSociety_Ch02.md",
     "wiki/facts/uk/Big Butterfly Count.md",
     "wiki/arguments/journal-articles/Educational Research/Argument_Nelson_2017_ER.md",
     "wiki/concepts/learning-science-cognitive-science/Metacognition.md",
     "wiki/concepts/research-methodology/Effect Size.md",
     "wiki/concepts/instruction-pedagogy/Concept Mapping.md",
-    "wiki/concepts/educational-psychology/Creative Self-Efficacy.md",
-    "wiki/instruments/scales/Originality Scale of Visual Metaphors.md",
-    "wiki/instruments/tests/Evaluation of Potential for Creativity.md",
-    "wiki/instruments/inventories/Problem Solving Inventory.md",
-    "wiki/instruments/tests/Creative Engineering Design Assessment.md",
-    "wiki/instruments/scales/Emotional Creativity Inventory.md",
-    "wiki/concepts/educational-psychology/Creativity.md",
-    "wiki/concepts/instruction-pedagogy/Creativity Assessment.md",
     "sources/Guo_2025_TSC/figures",
     "sources/Guo_2025_TSC/Guo_2025_TSC.pdf",
     "sources/Guo_2025_TSC",

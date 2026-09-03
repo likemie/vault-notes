@@ -94,7 +94,7 @@ updated: 2026-09-03
 > - **用途** 评估个体认知与潜能发展、优化课堂教学干预与思维训练课程，并为[[Creativity Assessment|创造力测评]]提供[[Ontology|本体论]]与认知[[Construct|构念]]基础。
 > - **边界** 创造力不等于缺乏适切性与可行性的纯粹幻想，也不等于常规智力测验表现。
 
-> [!citation-card]- 关键表述：创造力的双重变量定位与可塑性（Runco et al., 2026; Guo et al., 2025）
+> [!citation-card]- 关键表述：创造力的双重变量定位与可塑性（[[Argument_Runco_2026_CRJ|Runco et al., 2026]]; [[Argument_Guo_2025_TSC|Guo et al., 2025]]）
 > 这一区分反映了这样一个事实：有时创造力被定义为一种结果或产物，并在分析中作为效标，以其他变量作为预测指标；而在其他时候，研究将创造力作为预测变量，去预测健康、问题解决或学业成功等其他结果。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 2–3)]]
 >
 > *The distinction reflects the fact that sometimes creativity is defined as an outcome or result and used in analyses as the criterion, with other variables used as predictors... Other times the research has used creativity as a predictor and there are other outcomes (e.g., health or problem solving or academic success)...*

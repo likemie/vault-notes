@@ -75,7 +75,7 @@ updated: 2026-08-23
 ## 定义
 
 > [!def] 核心定义
-> 科学态度（Scientific Attitude / Disposition）指个体与社会公众在认识世界、评估证据与参与决策过程中所秉持的理性倾向、认知心智与价值规范。在教育[[Epistemology|认识论]]层面，它要求尊重客观实证、批判性审视多源证据、理解科学知识的暂定性与不确定性；在教育改革与政策史层面，它是 1920 年代中国[[New Education Movement|新教育运动]]以客观事实、实验渐进与精细研究取代激进空想的纲领原则；在当代科技治理层面，它表现为公众对科学的信任、信息渴求以及参与重大科技决策的民主诉求。[[Argument_Zhou_2024_CE|(Zhou & Westberg, 2024, pp. 619–620)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, p. 30)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026b, p. 47)]]
+> 科学态度（Scientific Attitude / Disposition）指个体与社会公众在认识世界、评估证据与参与决策过程中所秉持的理性倾向、认知心智与价值规范。在教育[[Epistemology|认识论]]层面，它要求尊重客观实证、批判性审视多源证据、理解科学知识的暂定性与不确定性；在教育改革与政策史层面，它是 1920 年代中国[[New Education Movement|新教育运动]]以客观事实、实验渐进与精细研究取代激进空想的纲领原则；在当代科技治理层面，它表现为公众对科学的信任、信息渴求以及参与重大科技决策的民主诉求。[[Argument_Zhou_2024_CE|(Zhou & Westberg, 2024, pp. 619–620)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, p. 30)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026c, p. 47)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 科学态度不仅指向个体心理层面的探究好奇心与证据怀疑论，更是联结科学共同体与大众民主协商的社会文化规范。
@@ -101,7 +101,7 @@ updated: 2026-08-23
 >   - **精细研究（Sophisticated Research）** 构建诊断、治疗与监测三位一体的研究闭环，确保政策反馈[[Reliability|可靠性]]。（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, p. 620]]）
 > - **3. 公众信任与民主参与维度（Public Sentiment & Civic Deliberation）**
 >   - **宏观信任与信息渴求** 保持对前沿科学探索的高度兴趣与社会价值认同（如 PAS 2025 中 87% 的科学家信任度与 62% 的信息渴求）。
->   - **科技民主审议诉求** 超越被动科普接受，要求在涉及生物安全、人工智能与生态气候的重大科技决策中拥有实质性参与权。（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|The Royal Society, 2026b, p. 47]]）
+>   - **科技民主审议诉求** 超越被动科普接受，要求在涉及生物安全、人工智能与生态气候的重大科技决策中拥有实质性参与权。（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|The Royal Society, 2026c, p. 47]]）
 
 > [!contrast-table] 表：科学态度在不同历史语境与应用[[Champ|场域]]中的内涵对比
 > | 应用场域 / 语境 | 核心关注点 | 典型倡导者 / 监测工具 | 关键机制与功能 |
@@ -143,7 +143,7 @@ updated: 2026-08-23
 > [!concept-lens] 科技治理中的公众参与态度
 > 民意调查揭示出公众对科学发展抱有高度正向态度，但制度化参与渠道的匮乏制约了科学与社会的良性协同。
 
-> [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|The Royal Society (2026b, pp. 47–48)]]
+> [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|The Royal Society (2026c, pp. 47–48)]]
 > **信息渴求高涨与决策边缘化的结构性矛盾** 依托 2025 年全英公众对科学态度调查（PAS 2025）指出，87% 的受访公众高度信任高校科学家，62% 的公众明确表示渴望获取更多科学信息；然而仅有 12% 的受访者认为公众在科技重大决策中得到了充分参与。健康的科学态度不仅包括公众对科学知识的向往，更包括科学共同体对公众多元诉求与价值关切的主动倾听，必须彻底废弃[[Deficit Model of Science Communication|赤字模型]]，构建双向协商制度。
 
 ---
@@ -165,7 +165,7 @@ updated: 2026-08-23
 > - **1910 年代 [[John Dewey|杜威]][[Reflective Thinking|反思性思维]]与探究态度奠基** 约翰·杜威（John Dewey）在《我们如何思维》（*How We Think*）中系统阐释探究态度（Scientific Attitude of Mind），强调[[Epoché|悬置]]判断、审慎求证与试错探究。
 > - **1925 年 民国新教育确立科学态度主导原则** 赵乃传在《新教育评论》系统化客观事实、实验渐进与精细研究三要素，取代民主原则成为中国[[New Education Movement|新教育运动]]主导纲领。[[Argument_Zhou_2024_CE|(Zhou & Westberg, 2024, p. 620)]]
 > - **1985 年 [[Bodmer Report 1985|博德默尔报告]]倡导公众理解科学** 英国皇家学会发布《公众理解科学》（Bodmer 报告），将培育公众对科学的积极态度与理解置于国家科学繁荣战略核心。
-> - **2020 年代中 科学不确定性理解与双向民主协商转向** 英国皇家学会（Royal Society, 2026）报告全面重构科学态度，强调在跨学科课程中接纳科学不确定性，并在全社会依托 [[Public Attitudes to Science|PAS]] 调查与非正式参与平台实现科技决策的民主平权。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026b)]]
+> - **2020 年代中 科学不确定性理解与双向民主协商转向** 英国皇家学会（Royal Society, 2026）报告全面重构科学态度，强调在跨学科课程中接纳科学不确定性，并在全社会依托 [[Public Attitudes to Science|PAS]] 调查与非正式参与平台实现科技决策的民主平权。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026c)]]
 
 ---
 
@@ -205,8 +205,8 @@ updated: 2026-08-23
 > - [[Argument_Zhou_2024_CE|Zhou & Westberg (2024)]] — 系统考证 1920 年代民国[[New Education Movement|新教育运动]][[Paradigm|范式]]转向与赵乃传科学态度三要素。
 > - [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] — 追踪科学态度与[[Pragmatism in China|实用主义在中国]]现代政治话语中的[[Transfer Translation Transformation|转译]]演变。
 > - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026a)]] — 提出[[Scientific Literacy|科学素养]]本质在于掌握多源证据批判与科学不确定性理解。
-> - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|The Royal Society (2026b)]] — 依托 [[Public Attitudes to Science|PAS 2025]] 调查诊断公众科学态度、信息渴求与科技决策民主参与机制。
-> - [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026c)]] — 报告总体论证科学与社会的双向塑造及公共科学文化生态建设。
+> - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|The Royal Society (2026c)]] — 依托 [[Public Attitudes to Science|PAS 2025]] 调查诊断公众科学态度、信息渴求与科技决策民主参与机制。
+> - [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026d)]] — 报告总体论证科学与社会的双向塑造及公共科学文化生态建设。
 
 ---
 

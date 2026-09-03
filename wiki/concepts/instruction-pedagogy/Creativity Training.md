@@ -88,7 +88,7 @@ updated: 2026-09-03
 > - **用途** 确立学校教育与组织培训提升创造力的实证依据，指导课程设计、教学改革与思维训练。
 > - **边界** 创造力训练不能替代特定学科领域的专业基础知识积累，亦非单一测验分数的机械操练。
 
-> [!citation-card]- 关键表述：创造力训练的基准效能与时间窗口（Runco et al., 2026; Guo et al., 2025）
+> [!citation-card]- 关键表述：创造力训练的基准效能与时间窗口（[[Argument_Runco_2026_CRJ|Runco et al., 2026]]; [[Argument_Guo_2025_TSC|Guo et al., 2025]]）
 > 创造力干预与教育项目在各类相关因素中展现出最高的[[Effect Size|效应量]]（$r = 0.20$，95% [[Confidence Interval|置信区间]] $[0.10, 0.29]$），表明人类创造潜能具有高度的教育可塑性与环境响应度。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, p. 8)]]
 >
 > *Interventions and educational programs yielded the largest effect size (r = .20)... supporting the idea that humans have creative potentials which may be fulfilled through educational efforts.*
@@ -138,7 +138,7 @@ updated: 2026-09-03
 ### 范式一　结构化认知训练课程与思维模型
 
 > [!exegesis] 结构化认知启发式与系统思维模型
-> 此类干预通过显性讲授可操作的认知启发式策略与步骤化模型，系统训练学习者打破心理定势（Mental Set），是实证中发展历史最悠久、跨领域迁移效应最稳定的干预模式（Scott et al., 2004; Guo et al., 2025）。
+> 此类干预通过显性讲授可操作的认知启发式策略与步骤化模型，系统训练学习者打破心理定势（Mental Set），是实证中发展历史最悠久、跨领域迁移效应最稳定的干预模式（Scott et al., 2004; [[Argument_Guo_2025_TSC|Guo et al., 2025]]）。
 >
 > 1. **创造性问题解决模型（Creative Problem Solving, CPS）**
 >    - **理论流程** 由奥斯本与帕内斯（Osborn-Parnes）开创，包含理解挑战（目标发现、数据发现、[[Problem Finding|问题界定]]）、产生想法（观念发散生成）与准备行动（方案评估选择、接受度建立）六大认知循环；
@@ -191,7 +191,7 @@ updated: 2026-09-03
 ### 范式四　言语符号外化、技术中介与思维可视化
 
 > [!exegesis] 言语符号外化、协作平台与认知可视化
-> 此类干预聚焦语言符号表征的灵活性与数字化平台优势，加速远距离概念检索并消除群体互动中的生产力阻滞（Fink et al., 2015; Guo et al., 2025; DeRosa et al., 2007）。
+> 此类干预聚焦语言符号表征的灵活性与数字化平台优势，加速远距离概念检索并消除群体互动中的生产力阻滞（Fink et al., 2015; [[Argument_Guo_2025_TSC|Guo et al., 2025]]; DeRosa et al., 2007）。
 >
 > 1. **言语训练与即时口头外化（Verbal Training & Oral Ideation）**
 >    - **认知机制** 依托另类用途测验（AUT）与口头叙事演练，要求学生在短时间内将发散意象快速[[Coding in Qualitative Research|编码]]为语言符号，通过即时言语反馈打破评价顾虑并激活远距离语义网络；
@@ -208,7 +208,7 @@ updated: 2026-09-03
 ### 范式五　外认知、情绪与身心调节干预
 
 > [!exegesis] 外认知调节、情绪调适与潜意识酝酿
-> 此类干预关注非认知心理状态对创造性加工的深层调制，通过拓展注意广度、降低情绪焦虑与安排潜意识酝酿，为顿悟创造提供生理与心理温床（Lebuda, Zabelina & Karwowski, 2016; Sio & Ormerod, 2009; Guo et al., 2025）。
+> 此类干预关注非认知心理状态对创造性加工的深层调制，通过拓展注意广度、降低情绪焦虑与安排潜意识酝酿，为顿悟创造提供生理与心理温床（Lebuda, Zabelina & Karwowski, 2016; Sio & Ormerod, 2009; [[Argument_Guo_2025_TSC|Guo et al., 2025]]）。
 >
 > 1. **正念冥想与开放监控训练（Mindfulness & Open Monitoring Meditation）**
 >    - **认知机制** 训练非评判性的当下觉察，降低自动化习惯反应与心理僵化，扩大对边缘感知线索的接收广度；
@@ -345,7 +345,7 @@ updated: 2026-09-03
 > > 争论创造力培养应贯穿数年常规教学，还是依托短期密集模块化干预。
 > >
 > > - **常规长程派** 主张创造习惯需要长周期潜移默化。
-> > - **倒 U 型周期派（Guo et al., 2025）** 实证表明超长周期（$> 1$ 年）易导致[[Habituation|习惯化]]定势与动机疲劳，4–8 周（$< 2$ 个月）中短期强化训练效能最高。
+> > - **倒 U 型周期派（[[Argument_Guo_2025_TSC|Guo et al., 2025]]）** 实证表明超长周期（$> 1$ 年）易导致[[Habituation|习惯化]]定势与动机疲劳，4–8 周（$< 2$ 个月）中短期强化训练效能最高。
 
 > [!tension] 结构性张力：独立思维训练课 vs 学科深度整合探究
 > - **独立专门课程学派（蓝方）** 主张将 [[Creative Problem Solving|CPS]]、SCAMPER 等启发式工具作为独立思维课程讲授，确保学生系统掌握[[Metacognition|元认知]]算子与抽象思维模型（Scott et al., 2004）。

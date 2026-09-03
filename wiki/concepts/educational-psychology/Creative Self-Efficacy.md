@@ -91,7 +91,7 @@ updated: 2026-09-03
 > - **理论用途** 解释为何具备同等认知潜能的学习者在面对开放性挑战时会展现出截然不同的坚持度、探索倾向与创造性成果。
 > - **解释边界** 创造性自我效能感不能自动替代基础认知技能与领域知识；虚高且脱离实际能力的效能感在缺乏真实专业基础时易演变为盲目乐观与决策偏差。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 4–5)]]
 
-> [!citation-card]- 关键表述：创造性自我效能感的外认知驱动力（Tierney & Farmer; Runco et al., 2026; Guo et al., 2025）
+> [!citation-card]- 关键表述：创造性自我效能感的外认知驱动力（Tierney & Farmer; [[Argument_Runco_2026_CRJ|Runco et al., 2026]]; [[Argument_Guo_2025_TSC|Guo et al., 2025]]）
 > 创造性自我效能感反映了个体确信自己具备产生创造性成果的能力信念，它作为一种关键的外认知驱动力，能够支撑个体在高风险、高歧义与挑战性任务中持续投入创造性努力。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, p. 4)]]
 >
 > *Creative self-efficacy reflects the belief that one has the ability to produce creative outcomes, functioning as a vital extracognitive driver that sustains creative effort across challenging tasks.*

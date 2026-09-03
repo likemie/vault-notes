@@ -51,7 +51,7 @@ updated: 2026-08-23
 ## 定义
 
 > [!def] 核心定义
-> 公民科学（Citizen Science / Participatory Science）是指非专业科研人员（普通公众、社区志愿者、中小学生及社会团体等）在专业科学家的协同设计与指导下，或者由在地社区自主发起，自愿、直接参与科学研究全生命周期各环节（涵盖生态观测、数据采集、模式分类、算法标注、感知测试乃至研究议程共创）的协作性科研与社会参与[[Paradigm|范式]]。它突破了传统科研实验室的封闭边界，兼具科学研究效率倍增与公众[[Scientific Attitude|科学态度]]及主体能动性培育的双重价值。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026b, p. 43)]]
+> 公民科学（Citizen Science / Participatory Science）是指非专业科研人员（普通公众、社区志愿者、中小学生及社会团体等）在专业科学家的协同设计与指导下，或者由在地社区自主发起，自愿、直接参与科学研究全生命周期各环节（涵盖生态观测、数据采集、模式分类、算法标注、感知测试乃至研究议程共创）的协作性科研与社会参与[[Paradigm|范式]]。它突破了传统科研实验室的封闭边界，兼具科学研究效率倍增与公众[[Scientific Attitude|科学态度]]及主体能动性培育的双重价值。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026c, p. 43)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 将传统科学家单向普及知识模式，转变为公众深度参与知识共同生产（Knowledge Co-production）的双向平权模式。
@@ -66,7 +66,7 @@ updated: 2026-08-23
 
 ## 概念辨析与参与阶梯
 
-> [!contrast-table] 表：公民科学四大协作梯度对比表（Haklay, 2013; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|The Royal Society, 2026b]]）
+> [!contrast-table] 表：公民科学四大协作梯度对比表（Haklay, 2013; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|The Royal Society, 2026c]]）
 > | 参与层级 | 核心定义与公众角色 | 权力关系与参与深度 | 典型案例 |
 > |---|---|---|---|
 > | **1. 贡献型（Contributory）** | 公众作为传感器，负责就地采集、记录或分类数据 | 科学家预设协议，公众提供数据输入 | [[Big Butterfly Count\|大蝴蝶计数]]、Zooniverse 天文图像分类 |
@@ -86,7 +86,7 @@ updated: 2026-08-23
 > - **第三阶段（2010 年代）：分布式生态监测与国家治理对接**
 >   结合智能手机定位与高清图像识别，以[[Big Butterfly Count|大蝴蝶计数]]、iNaturalist 为代表，将公众采集的极高时空分辨率数据直接接入国家法定生物多样性监测与生态红线规划。
 > - **第四阶段（2020 年代至今）：跨界艺术共创、脑科学认知普查与社区主导科研**
->   将先锋沉浸艺术、前沿认知神经科学与社区赋权紧密结合（如造梦机器与[[The Perception Census|感知普查]]、The Ideas Fund），开创了以受众[[Epistemology|认识论]]重构与社会神经多样性包容为导向的双向公民科学新时代。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026b, p. 43)]]
+>   将先锋沉浸艺术、前沿认知神经科学与社区赋权紧密结合（如造梦机器与[[The Perception Census|感知普查]]、The Ideas Fund），开创了以受众[[Epistemology|认识论]]重构与社会神经多样性包容为导向的双向公民科学新时代。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026c, p. 43)]]
 
 ---
 
@@ -111,7 +111,7 @@ updated: 2026-08-23
 > [!concept-lens] 主体性跃迁与[[Knowledge Production|知识生产]]平权
 > 参与真实课题打破了科学研究的神秘感，使公众建立起直接的科研归属感。
 
-> [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|The Royal Society (2026b, p. 46)]]
+> [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|The Royal Society (2026c, p. 46)]]
 > **知识共创与能动性跃迁** 公民科学不仅为专业科研提供了传统手段无法企及的超大规模数据集，更通过让公众切身经历观察、记录与证据检验，大幅增强了个体的科学自信心与社区环保行动力，将科普受众从被动的知识消费者重塑为积极的知识生产合作者。
 
 ---
@@ -121,7 +121,7 @@ updated: 2026-08-23
 > [!concept-lens] 空间平权与普惠机制
 > 摆脱昂贵物理场馆限制，让任何拥有智能手机的居民都能在自家花园或社区绿地参与国家科研。
 
-> [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|The Royal Society (2026b, pp. 43, 48)]]
+> [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|The Royal Society (2026c, pp. 43, 48)]]
 > **穿透地理不平等的普惠实践** 相比过度集聚于大都市的高门槛科技场馆，基于在地化环境和线上协作平台的公民科学项目（如[[Big Butterfly Count|大蝴蝶计数]]每年 15 分钟观测协议），能够穿透地理偏远与社会阶层壁垒，实现普惠均等的高质量科学参与。
 
 ---
@@ -131,7 +131,7 @@ updated: 2026-08-23
 > [!concept-lens] 认知实证与受控[[AI Hallucination|幻觉]]洞见
 > 将深奥的脑科学实验转化为生动互动测评，促成公众[[Epistemology|认识论]]从常识实在论向预测加工的主动构建跃迁。
 
-> [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|The Royal Society (2026b, p. 43)]]
+> [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|The Royal Society (2026c, p. 43)]]
 > **认识论颠覆与社会包容重塑** 造梦机器与[[The Perception Census|感知普查]]通过线上 10 大认知模块测评动员逾两万名全球公众，构建了全球最大的知觉多样性数据库；参与者获得的专属知觉指纹画像证明感知是大脑的主动预测构建，从根基上打破了所有人都以同一种方式看待世界的常识偏见，极大深化了公众对神经多样性（Neurodiversity）的科学理解与社会共情。
 
 ---
@@ -154,7 +154,7 @@ updated: 2026-08-23
 > > [!axis] 数据质量与严谨性 vs 公众参与广度
 > > 非专业公众采集的数据能否达到权威学术研究的严谨性标准？
 > > - **传统科研精英质疑** 担忧公众观测存在物种误认、抽样偏差与主观臆断。
-> > - **现代公民科学方案** 通过极简协议设计、AI 辅助校验、专家抽样复核与大数定律统计平滑，确保数据集达到法定生态监管标准。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026b, p. 43)]]
+> > - **现代公民科学方案** 通过极简协议设计、AI 辅助校验、专家抽样复核与大数定律统计平滑，确保数据集达到法定生态监管标准。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026c, p. 43)]]
 >
 > > [!axis] 志愿劳动力剥削 vs 赋能式公民科学
 > > 平台是否仅将公众作为免费的数据标注劳动力？
@@ -183,8 +183,8 @@ updated: 2026-08-23
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|The Royal Society (2026b)]] — 倡导将公民科学作为连接公众、社区行动与前沿科研的核心桥梁。
-> - [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026c)]] — 强调公众在科技治理与双向[[Dialogue in Education|对话]]中的主体地位。
+> - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|The Royal Society (2026c)]] — 倡导将公民科学作为连接公众、社区行动与前沿科研的核心桥梁。
+> - [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026d)]] — 强调公众在科技治理与双向[[Dialogue in Education|对话]]中的主体地位。
 
 ---
 

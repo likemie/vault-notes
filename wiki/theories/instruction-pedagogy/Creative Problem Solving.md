@@ -67,7 +67,7 @@ updated: 2026-09-03
 > [!claim] 核心主张
 > 创造性问题解决并非单一的发散联想，而是由“理解挑战（目标发现、数据发现、[[Problem Finding|问题界定]]）$\to$ 产生想法（观念发散生成）$\to$ 准备行动（方案评估选择、接受度建立）”构成的完整认知闭环；在每一个阶段均严格实施“先发散延迟判断、后收敛审慎评估”的双阶段认知规则，能显著提升学习者的创造潜能与复杂问题解决效能。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 6–7)]]; [[Argument_Guo_2025_TSC|(Guo et al., 2025, pp. 2–3, 8–9)]]
 
-> [!citation-card]- 关键表述：CPS 的结构化干预效能（Runco et al., 2026; Guo et al., 2025）
+> [!citation-card]- 关键表述：CPS 的结构化干预效能（[[Argument_Runco_2026_CRJ|Runco et al., 2026]]; [[Argument_Guo_2025_TSC|Guo et al., 2025]]）
 > 创造性问题解决模型作为历史最悠久、实证检验最充分的结构化训练体系，在多项[[Meta-analysis|元分析]]中均展现出稳健的大[[Effect Size|效应量]]促进（$d = 0.74 \sim 0.84$），证实认知启发式策略对破除思维固化具有决定性赋能作用。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, p. 7)]]
 >
 > *The Osborn-Parnes Creative Problem Solving framework structures the creative process into explicit, manageable stages, alternating divergent search with convergent evaluation.*

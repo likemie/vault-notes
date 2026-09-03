@@ -42,7 +42,7 @@ updated: 2026-08-23
 ## 背景
 
 > [!policy-context] 政策背景与行业版图
-> - **组织性质与网络规模** 英国全国性慈善行业枢纽组织，代表全英超过 60 所主要的科学与探索中心（Science and Discovery Centres）、科技博物馆、环境科学场馆、动植物园及大学附属展馆。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026b, pp. 44–45)]]
+> - **组织性质与网络规模** 英国全国性慈善行业枢纽组织，代表全英超过 60 所主要的科学与探索中心（Science and Discovery Centres）、科技博物馆、环境科学场馆、动植物园及大学附属展馆。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026c, pp. 44–45)]]
 > - **庞大受众体量** ASDC 成员场馆每年吸引超过 **2500 万人次**公众实地访问，其中包括逾 **1000 万名儿童与青少年**，构成了全英规模最大、触达最深的校外 STEM 参与网络。
 > - **行业起源与使命** 诞生于 2000 年代初千禧年基建浪潮（Millennium Commission 资助的一批大型科学探索中心）；核心使命在于促进全行业最佳实践共享，倡导将科学中心确立为国家不可或缺的社会文化基础设施，并推动面向弱势群体的多元包容性（Inclusion）战略。
 
@@ -61,11 +61,11 @@ updated: 2026-08-23
 
 > [!policy-design]- ASDC 三大旗舰战略倡议
 > - **1. Science Centres for Our Future（科学中心守护未来开放信倡议）**
->   在后疫情时期与能源危机背景下，联合全英 60 多所科学中心直接向英国财政部与内阁办公厅请愿，呼吁设立国家级长期战略运营基金（Emergency & Strategic Resilience Fund），防止大批地方科技场馆因高昂维护成本与能源开支激增而陷入倒闭危机。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026b, p. 48)]]
+>   在后疫情时期与能源危机背景下，联合全英 60 多所科学中心直接向英国财政部与内阁办公厅请愿，呼吁设立国家级长期战略运营基金（Emergency & Strategic Resilience Fund），防止大批地方科技场馆因高昂维护成本与能源开支激增而陷入倒闭危机。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026c, p. 48)]]
 > - **2. Valuing Inclusion Theory of Change（包容性变革理论与去中心化枢纽）**
 >   系统研制科学探索中心的包容性评价框架与变革路径理论，指导各成员场馆打破高[[Science Capital|科学资本]]家庭的自选壁垒，主动走进欠发达社区、工薪阶层家庭与边缘群体，消除物理、经济与文化参与门槛。
 > - **3. 财税激励平权倡导（Tax Incentives Parity）**
->   协同英国皇家学会呼吁财政部修订税法，确保科学探索中心与科学节等非正式科学机构能够享受与国家美术馆、剧院及管弦乐团完全平等的剧场/展览税收减免（Theatre and Exhibition Tax Relief）政策，并在政府采购中全面落实 10% 社会价值模型。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026b, p. 52)]]
+>   协同英国皇家学会呼吁财政部修订税法，确保科学探索中心与科学节等非正式科学机构能够享受与国家美术馆、剧院及管弦乐团完全平等的剧场/展览税收减免（Theatre and Exhibition Tax Relief）政策，并在政府采购中全面落实 10% 社会价值模型。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026c, p. 52)]]
 
 ---
 

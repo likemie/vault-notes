@@ -310,6 +310,17 @@
     ]
   },
   {
+    "title": "Scientific Misinformation",
+    "type": "concept",
+    "path": "wiki/concepts/communication-discourse/Scientific Misinformation.md",
+    "aliases": [
+      "科学虚假信息",
+      "科学伪信息",
+      "scientific misinformation",
+      "misinformation in science"
+    ]
+  },
+  {
     "title": "Agendas of Attention",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Agendas of Attention.md",
@@ -15341,6 +15352,17 @@
     ]
   },
   {
+    "title": "Genrich Altshuller",
+    "type": "person",
+    "path": "wiki/persons/russia/Genrich Altshuller.md",
+    "aliases": [
+      "根里奇·阿奇舒勒",
+      "亨利希·阿奇舒勒",
+      "Genrikh Saulovich Altshuller",
+      "阿奇舒勒"
+    ]
+  },
+  {
     "title": "Lev Vygotsky",
     "type": "person",
     "path": "wiki/persons/russia/Lev Vygotsky.md",
@@ -15549,6 +15571,17 @@
     "aliases": [
       "King, E.",
       "埃德蒙·金"
+    ]
+  },
+  {
+    "title": "Edward de Bono",
+    "type": "person",
+    "path": "wiki/persons/uk/Edward de Bono.md",
+    "aliases": [
+      "爱德华·德·博诺",
+      "爱德华·德博诺",
+      "Edward Charles Francis Publius de Bono",
+      "德·博诺"
     ]
   },
   {
@@ -15934,6 +15967,17 @@
     ]
   },
   {
+    "title": "Alex Osborn",
+    "type": "person",
+    "path": "wiki/persons/us/Alex Osborn.md",
+    "aliases": [
+      "亚历克斯·奥斯本",
+      "亚历克斯·F·奥斯本",
+      "Alex F. Osborn",
+      "亚历克斯·法克尼·奥斯本"
+    ]
+  },
+  {
     "title": "Alvin Goldman",
     "type": "person",
     "path": "wiki/persons/us/Alvin Goldman.md",
@@ -16256,6 +16300,16 @@
     "aliases": [
       "Porter, M.",
       "迈克尔·波特"
+    ]
+  },
+  {
+    "title": "Paul B. Paulus",
+    "type": "person",
+    "path": "wiki/persons/us/Paul B. Paulus.md",
+    "aliases": [
+      "保罗·鲍勒斯",
+      "保罗·B·鲍勒斯",
+      "Paul Paulus"
     ]
   },
   {
@@ -18872,6 +18926,17 @@
     ]
   },
   {
+    "title": "Science Media Centre",
+    "type": "fact",
+    "path": "wiki/facts/uk/Science Media Centre.md",
+    "aliases": [
+      "SMC",
+      "科学媒体中心",
+      "UK Science Media Centre",
+      "英国科学媒体中心"
+    ]
+  },
+  {
     "title": "Selective Schools Expansion Fund",
     "type": "fact",
     "path": "wiki/facts/uk/Selective Schools Expansion Fund.md",
@@ -20986,6 +21051,11 @@
     "title": "Argument_RoyalSociety_2026_ScienceForSociety_Ch02",
     "type": "argument",
     "path": "wiki/arguments/reports-policy-documents/RoyalSociety_2026_ScienceForSociety/Argument_RoyalSociety_2026_ScienceForSociety_Ch02.md"
+  },
+  {
+    "title": "Argument_RoyalSociety_2026_ScienceForSociety_Ch03",
+    "type": "argument",
+    "path": "wiki/arguments/reports-policy-documents/RoyalSociety_2026_ScienceForSociety/Argument_RoyalSociety_2026_ScienceForSociety_Ch03.md"
   },
   {
     "title": "Argument_OxfordUIDP_2019_UIPartnerships",

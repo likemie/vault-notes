@@ -77,7 +77,9 @@ related_instruments:
   - "[[Emotional Creativity Inventory]]"
   - "[[Originality Scale of Visual Metaphors]]"
   - "[[Evaluation of Potential for Creativity]]"
-related_persons: []
+related_persons:
+  - "[[Edward de Bono]]"
+  - "[[Alex Osborn]]"
 related_facts: []
 related_arguments: []
 sources:
@@ -92,7 +94,7 @@ title: "Argument_Guo_2025_TSC"
 argument_key: "Argument_Guo_2025_TSC"
 argument_display_title: "Effect of training programs on the creativity of university students: A multi-level meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 54
+argument_related_count: 56
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -128,7 +130,8 @@ issuing_organization: ""
 > |---|---|
 > | **[[Creativity\|创造力多维可塑性理论]]** | 将创造力界定为涵盖认知加工、语言表达、视觉重组与情境问题解决的可塑心理潜能，打破天赋决定论，确立高等教育干预的理论前提。（pp.2–3） |
 > | **[[Cognitive Flexibility\|认知灵活性理论]]与无意识[[Incubation\|孕育效应]]** | 阐明思维训练通过突破心理固着与范畴转换激发发散思维，并依据孕育效应解释干预周期的倒 U 型演进规律（$< 2$ 个月最优  = 0.844$；Wallas, 1926；pp.2–3, 10）。 |
-> | **[[Brainstorming\|头脑风暴]]、[[Lateral Thinking\|侧向思维]]与[[Synectics\|提喻法]]** | 构成思维训练与发散构想的核心教学技法矩阵，通过打破常规神经认知凹槽、具身类比与解耦评价规约激发创造力（Gordon, 1961; de Bono, 1970; Osborn, 1953; pp.2–3, 10）。 |
+> | **[[Brainstorming\|头脑风暴]]、[[Lateral Thinking\|侧向思维]]与[[Synectics\|提喻法]]** | 构成思维训练与发散构想的核心教学技法矩阵，通过打破常规神经认知凹槽、具身类比与解耦评价规约激发创造力（Gordon, 1961; [[Edward de Bono\|de Bono (1970)]]; [[Alex Osborn\|Osborn (1953)]]; pp.2–3, 10）。 |
+> | **[[TRIZ\|发明问题解决理论（TRIZ）]]与启发式技术** | 将发明创新操作化为可学习、可复现的外显认知算子（如 [[Genrich Altshuller\|阿奇舒勒]] 40 原理与 [[SCAMPER]] 检核表），为技术型创造力干预提供具象认知支架（Morin et al., 2018；pp.2–3, 10）。 |
 
 ### 核心变量与操作化编码表
 
@@ -360,7 +363,7 @@ issuing_organization: ""
 >
 > **核心操作规程与教学设计**
 > 1. **任务型——在真实造物中发散** 将学生置于真实的工程原型设计、跨学科工作坊或复杂社会问题情境中，以可交付的实体成果驱动创造性解决方案。
-> 2. **技术型——掌握外显创新算子工具** 系统讲授并演练[[TRIZ|发明问题解决理论]]（TRIZ）、[[SCAMPER]] 启发式创新技法（Substitute, Combine, Adapt, Modify, Put to other uses, Eliminate, Reverse）、形态分析矩阵等标准化技法。
+> 2. **技术型——掌握外显创新算子工具** 系统讲授并演练[[Genrich Altshuller|根里奇·阿奇舒勒]]创立的[[TRIZ|发明问题解决理论]]（TRIZ）、[[SCAMPER]] 启发式创新技法（Substitute, Combine, Adapt, Modify, Put to other uses, Eliminate, Reverse）、形态分析矩阵等标准化技法。
 >
 > **深层认知机制拆解**
 > - **结构化脚手架的支撑作用** 任务型与技术型均提供了具象的认知锚点，降低了发散思维启动时的无序迷茫感。
@@ -393,7 +396,7 @@ issuing_organization: ""
 > - **测验敏锐度不足** 标准化的创造力测验（如发散思维与观念独创性指标）高度依赖认知重组与言语/图形表征，对纯粹的情绪状态变化不敏感，因而在实证评估中呈现出无显著效应。（pp.7–9）
 
 > [!warrant]- 推理桥梁
-> 时间调节上的倒 U 型规律揭示了创造力训练的“认知饱和与疲劳效应”：过短的干预（$< 1$ 周）认知策略内化不足，而过长周期的训练（$> 1$ 年）易导致学习者注意力分散、动机疲劳或常规化倦怠，因此 1–2 个月的中短期强化训练最具成本效益比；独立个体练习（$g = 0.682$）优于小组协作（$g = 0.567$），是因为个体沉思能够有效规避群体互动中的评价顾虑（Evaluation Apprehension）与生产力阻塞（Production Blocking）；研究生群体表现更优（$g = 0.991$），得益于其更为深厚的专业知识底座与高阶[[Critical Thinking|批判性思维]]准备。（pp.7–9）
+> 时间调节上的倒 U 型规律揭示了创造力训练的“认知饱和与疲劳效应”：过短的干预（$< 1$ 周）认知策略内化不足，而过长周期的训练（$> 1$ 年）易导致学习者注意力分散、动机疲劳或常规化倦怠，因此 1–2 个月的中短期强化训练最具成本效益比；独立个体练习（$g = 0.682$）优于小组协作（$g = 0.567$），是因为个体沉思能够有效规避群体互动中的[[Paul B. Paulus|保罗·鲍勒斯（Paulus, 2000）]]所揭示的评价顾虑（Evaluation Apprehension）与生产力阻塞（Production Blocking，Baruah & Paulus, 2008）；研究生群体表现更优（$g = 0.991$），得益于其更为深厚的专业知识底座与高阶[[Critical Thinking|批判性思维]]准备。（pp.7–9）
 
 ---
 

@@ -46,7 +46,7 @@ updated: 2026-08-22
 > - **代表贡献** 领导评估 1985 年[[Bodmer Report 1985|博德默尔报告]]以来 40 年间英国科学与社会关系的深刻演变，主持提出适应数字时代与人工智能挑战的全国性科学参与倡议。
 
 > [!citation-card]- 人物定位的关键来源
-> 探索关于我们世界的知识——科学事业的本质——处于人类文明的核心。科学绝非少数经认证科学家的专属领地；它属于全人类。接触科学原理、事实及其推论，应当向所有人开放。[[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026b, p. 5)]]
+> 探索关于我们世界的知识——科学事业的本质——处于人类文明的核心。科学绝非少数经认证科学家的专属领地；它属于全人类。接触科学原理、事实及其推论，应当向所有人开放。[[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026d, p. 5)]]
 >
 > *The pursuit of knowledge about our world – the essence of the scientific endeavour – lies at the very heart of human civilisation. Science is not the preserve of a small group of accredited scientists; it belongs to all of humanity.*
 
@@ -58,14 +58,14 @@ updated: 2026-08-22
 > - **1951** 出生于墨西哥，后赴剑桥大学获得天文学博士学位。
 > - **1985** 共同发表标志性宇宙学模拟论文，奠定冷暗物质（Cold Dark Matter）理论的基础。
 > - **2004** 当选英国皇家学会会士（FRS）。
-> - **2024–2026** 担任皇家学会《科学为社会》报告指导委员会联席主席，系统评估英国科学传播、非正式教育与科研人员参与生态。[[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026b, pp. 5–7)]]
+> - **2024–2026** 担任皇家学会《科学为社会》报告指导委员会联席主席，系统评估英国科学传播、非正式教育与科研人员参与生态。[[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026d, pp. 5–7)]]
 
 ---
 
 ## 主要著作与思想发展
 
 > [!work-line] 主要著作
-> - **2026 — *Foreword to Science for Society: How Society and Science Shape Each Other*** 系统论述科学知识分享的公众权利属性，剖析互联网革命、科研产出爆炸式增长与虚假信息对科学民主化的双重冲击。[[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026b, pp. 5–7)]]
+> - **2026 — *Foreword to Science for Society: How Society and Science Shape Each Other*** 系统论述科学知识分享的公众权利属性，剖析互联网革命、科研产出爆炸式增长与虚假信息对科学民主化的双重冲击。[[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026d, pp. 5–7)]]
 
 ---
 

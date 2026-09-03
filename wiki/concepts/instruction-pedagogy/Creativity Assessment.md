@@ -120,7 +120,7 @@ updated: 2026-09-03
 > - **用途** 用于个体创造潜能筛查与选拔、高等教育教学干预效果验证、微观课堂探究中的[[Formative Assessment|形成性评价]]反馈，以及化解多维测评之间的[[Criterion Problem|效标困境]]。
 > - **边界** 发散思维潜能测验不等于最终的创造性成就；自陈问卷易受[[Common Method Variance|共同方法变异]]与社会赞许性污染；产品评定则高度依赖具体学科领域的专家共识。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 6–8)]] [[Argument_Park_2026_TSC|(Park et al., 2026, pp. 8–10)]]
 
-> [!citation-card]- 关键表述：创造力测量的三大实证公理（Amabile; Runco et al., 2026; Guo et al., 2025）
+> [!citation-card]- 关键表述：创造力测量的三大实证公理（Amabile; [[Argument_Runco_2026_CRJ|Runco et al., 2026]]; [[Argument_Guo_2025_TSC|Guo et al., 2025]]）
 > 某个产品或反应只有在该领域适切的观察者独立达成一致认为它是创造性的情况下，才在操作上被认定为是创造性的。观察者必须熟悉该领域，但不需要在事先给予的特定维度或标准上接受硬性培训。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 23)]]
 >
 > 创造力作为[[Independent Variable|预测变量]]时的[[Effect Size|效应量]]（$r = 0.29$）显著强于作为[[Dependent Variable|结果变量]]时的效应量（$r = 0.12, F = 9.43, p = .007$），证实效标[[Heterogeneity|异质性]]是制约创造力归因解释的根本瓶颈，必须构建潜能、过程与产品协同的多维测量体系。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 7–8)]]

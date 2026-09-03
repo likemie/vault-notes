@@ -89,7 +89,7 @@ updated: 2026-09-03
 > - **用途** 为评估与培养创造潜能提供标准化认知任务指标（如[[Alternate Uses Test|另类用途测验]]、[[Torrance Tests of Creative Thinking|托兰斯创造性思维测验]]），并作为分析[[Generative Artificial Intelligence|生成式 AI]] 构想激发效能与课程干预的核心基准。
 > - **边界** 发散思维仅代表创造性认知加工中的“构想发散生成阶段”，必须与[[Convergent Thinking|聚合思维]]的严密收敛审视相结合才能转化为最终创造性成果。
 
-> [!citation-card]- 关键表述：发散思维与创造性过程的定位（Runco et al., 2026; Li et al., 2026; Guo et al., 2025）
+> [!citation-card]- 关键表述：发散思维与创造性过程的定位（[[Argument_Runco_2026_CRJ|Runco et al., 2026]]; [[Argument_Li_2026_CEAI|Li et al., 2026]]; [[Argument_Guo_2025_TSC|Guo et al., 2025]]）
 > 发散思维只是创造性过程的一个组成部分。当考察所有过程[[Variable|变量]]而不仅是发散思维时，能够提供更多关于创造力的信息。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, p. 8)]]
 >
 > *...divergent thinking is only one component of the creative process... Thus, it makes sense that more information is provided when all process variables are examined rather than just one, even if it is divergent thinking.*

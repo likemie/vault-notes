@@ -112,7 +112,7 @@ updated: 2026-09-03
 > - **理论用途** 解释学生如何从被动的知识接收者转变为自主监控的学习者；在创造性解决问题中指引何时坚持、转换视角或重构表征；在[[Generative Artificial Intelligence|生成式 AI]] 交互中作为防范[[Illusion of Competence|虚假能力错觉]]的关键心智防线。
 > - **解释边界** 元认知不同于具体的认知操作（如阅读、运算、列举观念等执行动作），亦不同于孤立的自我信念（如[[Creative Self-Efficacy|创造性自我效能感]]），而是贯穿思维全周期的[[Reflexivity|反思性]]意识与自适应调控过程。
 
-> [!citation-card]- 关键表述：元认知的三大理论支柱（Park et al., 2026; Li et al., 2026; Hargrove & Nietfeld, 2015）
+> [!citation-card]- 关键表述：元认知的三大理论支柱（[[Argument_Park_2026_TSC|Park et al., 2026]]; [[Argument_Li_2026_CEAI|Li et al., 2026]]; Hargrove & Nietfeld, 2015）
 > 创造力与[[Critical Thinking|批判性思维]]都涉及评价、判断与自我调节等认知与元认知过程，要求灵活而目标导向的推理，元认知因此是两者正相关的共同基础，也支撑联合培养的可行性。[[Argument_Park_2026_TSC|(Park et al., 2026, pp. 2–3)]]
 >
 > 我们建议嵌入显性支架——如[[Reflexivity|反思性]]提示、量规引导评估和 AI 素养培训——以激活学生的元认知监控，发挥 ChatGPT 作为[[Dialogue in Education|对话]]伙伴而非便利工具的潜能，维持[[Surface and Deep Learning|深层学习]]所必需的“[[Epistemic Friction|认识论摩擦]]”。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 1, 10)]]
@@ -257,7 +257,7 @@ updated: 2026-09-03
 > > - **特殊性立场者** 强调若缺乏深层学科概念知识，元认知监控往往无法准确判断专业论据与设计方案的有效性。
 >
 > > [!axis] 个人独立深思 vs 小组同伴协同中的元认知负荷
-> > [[Cooperative Learning|合作学习]]倡导者认为同伴互辩能激发元认知碰撞；但实证[[Meta-analysis|元分析]]表明，松散的小组协作常引发责任分散与元认知监控盲区，独立个人深思更有利于沉淀完整的自我调节回路（Guo et al., 2025）。
+> > [[Cooperative Learning|合作学习]]倡导者认为同伴互辩能激发元认知碰撞；但实证[[Meta-analysis|元分析]]表明，松散的小组协作常引发责任分散与元认知监控盲区，独立个人深思更有利于沉淀完整的自我调节回路（[[Argument_Guo_2025_TSC|Guo et al., 2025]]）。
 >
 > > [!axis] 自陈式测量偏差 vs 过程性行为追踪
 > > 传统研究过度依赖自陈量表（如 MAI、[[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale|MSLQ]]），极易受到社会赞许性与“[[Illusion of Competence|虚假能力错觉]]（Illusion of Competence）”污染；前沿研究呼吁采用基于思维出声法（Think-aloud）、眼动追踪与提示词日志（Prompt Trail）的客观过程性测量。
