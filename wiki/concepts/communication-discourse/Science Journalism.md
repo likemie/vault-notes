@@ -7,7 +7,7 @@ aliases:
 summary: "指专业新闻从业者面向公众开展的针对科学探索、科研产出及其社会伦理影响的独立调查、诠释与报道实践；在媒介生态重构冲击下，正经历从传统专职记者主导向数字社交平台多元分发的深刻转型，面临高校通稿过度营销、商业点击率驱动与科研诚信标准对接等核心挑战。"
 type: concept
 domain: "communication-discourse"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

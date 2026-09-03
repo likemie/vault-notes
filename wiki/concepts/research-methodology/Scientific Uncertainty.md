@@ -8,10 +8,10 @@ aliases:
 summary: "指在科学探究与知识生产过程中，由于测量误差、随机波动、模型简化、证据不完备及认知局限，导致科学结论、理论模型与未来预测偏离绝对确定性的客观认识论与方法论状态；现代科学认识论与传播学强调，不确定性并非科学的瑕疵，而是推动假说检验与共识迭代的内在驱动力，坦诚披露不确定性是维系公共信任与培育批判性科学素养的核心基石。"
 type: concept
 domain: "research-methodology"
-related_count: 10
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 35
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - theme/research-methodology
   - theme/science-communication
