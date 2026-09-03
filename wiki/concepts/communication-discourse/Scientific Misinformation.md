@@ -3,7 +3,6 @@ title: Scientific Misinformation
 aliases:
   - 科学虚假信息
   - 科学伪信息
-  - scientific misinformation
   - misinformation in science
 summary: "指向在传统与数字媒体中传播的与科学证据或学界共识相悖的错误或误导性信息，涵盖无恶意失实与蓄意操纵，其扩散受算法推荐、极化回音室与源头新闻通稿夸大共同驱动，治理依赖证据透明、不确定性坦诚沟通与科研诚信制度融合。"
 type: concept
@@ -16,13 +15,30 @@ tags:
   - theme/science-communication
   - theme/misinformation
   - theme/digital-media
-related_concepts: []
+related_concepts:
+  - "[[Hypothesis]]"
+  - "[[Confidence Interval]]"
+  - "[[Scientific Literacy]]"
+  - "[[Conflict of Interest in Research]]"
+  - "[[AI Hallucination]]"
+  - "[[Generative Artificial Intelligence]]"
+  - "[[Responsible Conduct of Research]]"
+  - "[[Reliability]]"
+  - "[[Trustworthiness]]"
+  - "[[Deficit Model of Science Communication]]"
+  - "[[Paradigm]]"
+  - "[[Effect Size]]"
+  - "[[Variable]]"
+  - "[[Gatekeepers]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Observation Method]]"
 related_instruments: []
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[Science Media Centre]]"
+related_arguments:
+  - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03]]"
 confidence: high
 status: draft
 created: 2026-09-03
@@ -40,7 +56,7 @@ updated: 2026-09-03
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向与实证科学证据相脱节的错误信息形态，揭示信息在生产、中介、算法分发与受众认知各个环节中的失真机制。
-> - **用途** 帮助研究者超越简单的“公众知识匮乏”假设，诊断数字媒介生态如何重构公众对科学事实与不确定性的理解与信任。
+> - **用途** 帮助研究者超越简单的“公众知识匮乏”[[Hypothesis|假设]]，诊断数字媒介生态如何重构公众对科学事实与不确定性的理解与信任。
 > - **边界** 科学虚假信息不等于科学探索中暂定的理论假说或正常的学术争论；科学知识本身具有暂定性与演进性，对未经证实的初步结论的学术探讨不属于虚假信息。
 
 > [!citation-card]- 科学虚假信息的时代威胁
@@ -60,9 +76,9 @@ updated: 2026-09-03
 > | 比较维度 | 科学虚假信息（Scientific Misinformation） | 恶意操纵虚假信息（Disinformation） | 科学不确定性（Scientific Uncertainty） |
 > |---|---|---|---|
 > | **主观意图** | 通常无主观恶意欺骗意图，多源于误读、片面传播或过度夸大 | 具有明确的恶意欺骗、政治极化或商业利益操纵目的 | 科学研究探索未知的本质属性，无任何欺骗性质 |
-> | **事实基础** | 内容客观失实或严重误导，偏离同行评议科学证据 | 刻意编造、伪造证据或蓄意截取片段制造事实扭曲 | 基于严谨实证数据，明确界定置信区间、适用条件与局限 |
+> | **事实基础** | 内容客观失实或严重误导，偏离同行评议科学证据 | 刻意编造、伪造证据或蓄意截取片段制造事实扭曲 | 基于严谨实证数据，明确界定[[Confidence Interval\|置信区间]]、适用条件与局限 |
 > | **典型场景** | 社交媒体网络谣言、夸大健康功效的自媒体推文、高校新闻通稿过度营销 | 烟草业质疑吸烟危害公关、化石能源利益集团否认气候变暖宣传战 | 流行病学模型区间预测、前沿物理假说检验、气候敏感度估算 |
-> | **治理路径** | 提高公众证据素养、加强媒体核查、科研通稿诚信规范与算法透明审计 | 法律监管、平台封禁恶意虚假账号、揭露利益冲突与资金链 | 坦诚透明沟通不确定性与证据边界，培育公众理解科学运作方式 |
+> | **治理路径** | 提高公众[[Scientific Literacy\|证据素养]]、加强媒体核查、科研通稿诚信规范与算法透明审计 | 法律监管、平台封禁恶意虚假账号、揭露[[Conflict of Interest in Research\|利益冲突]]与资金链 | 坦诚透明沟通不确定性与证据边界，培育公众理解科学运作方式 |
 
 ---
 
@@ -72,7 +88,7 @@ updated: 2026-09-03
 > - **算法推荐与注意力经济驱动** 商业社交媒体平台受点击率、用户黏性与广告营收驱动，其推荐算法往往优先放大具有情感冲击力、争议性与惊悚效果的内容，使得伪科学与阴谋论在传播速度与广度上显著压倒严谨平实的科学事实。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026b, p. 58)]]
 > - **源头失真与高校新闻通稿过度夸大** 实证研究表明，大众传媒中泛滥的科学夸大陈述往往并非源于新闻记者的胡乱编造，而是直接始于大学与科研机构自身新闻办公室（Press Offices）的新闻通稿；科研竞争压力迫使机构过度包装发现以博取媒体曝光。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026b, p. 62)]]
 > - **意识形态极化与回音室放大** 极少数高度党派化或持极端立场的个体在社交网络中主动寻找印证自身偏见的信息，形成闭合的“回音室”；尽管深陷回音室的公众在总体中属于少数，但其在数字网络中的极端声量对社会新闻议程产生了不成比例的扭曲影响。
-> - **人工智能合成与模型幻觉风险** 生成式人工智能（AI）工具的大规模普及降低了虚假内容生成的门槛，大语言模型的“幻觉”（Hallucinations）、黑箱算法与数据时效滞后，极易在搜索引擎和社交问答中生成似是非的错误科学解释。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026b, p. 61)]]
+> - **人工智能合成与模型[[AI Hallucination|幻觉]]风险** [[Generative Artificial Intelligence|生成式人工智能]]（AI）工具的大规模普及降低了虚假内容生成的门槛，大语言模型的“幻觉”（Hallucinations）、黑箱算法与数据时效滞后，极易在搜索引擎和社交问答中生成似是非的错误科学解释。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026b, p. 61)]]
 
 > [!logic-map]- 科学虚假信息的多源生成与社会传播闭环
 > ```mermaid
@@ -106,20 +122,20 @@ updated: 2026-09-03
 > 探讨科学新闻中失实与夸大陈述的制度发生学机制，揭示高校公关考核与科研竞争如何将不端行为外溢至大众传播领域。
 
 > [!claim] Sumner et al.
-> **新闻夸大的通稿源头效应** 对英国 20 所顶尖大学关联的数百篇健康医学新闻报道与对应学术论文的回溯性观察研究证实，大众媒体报道中出现的高达 40% 的因果推论夸大、36% 的动物实验推及人类断言，绝大多数直接源于大学科研管理部门发布的新闻通稿（Press Releases）本身，而非记者的二次曲解。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026b, p. 62)]]
+> **新闻夸大的通稿源头效应** 对英国 20 所顶尖大学关联的数百篇健康医学新闻报道与对应学术论文的回溯性[[Observation Method|观察研究]]证实，大众媒体报道中出现的高达 40% 的因果推论夸大、36% 的动物实验推及人类断言，绝大多数直接源于大学科研管理部门发布的新闻通稿（Press Releases）本身，而非记者的二次曲解。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026b, p. 62)]]
 
 > [!claim] The Royal Society
-> **科学传播必须纳入科研诚信大框架** 科学界的同行评议与可重复性倡议长期与科学传播实践彼此割裂；科研机构必须抵制过度营销（Overselling）科研成果的冲动，将对外新闻通稿与媒体沟通正式纳入科研诚信（Research Integrity）行为守则进行一体化规制。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026b, pp. 62, 64)]]
+> **科学传播必须纳入科研诚信大框架** 科学界的同行评议与可重复性倡议长期与科学传播实践彼此割裂；科研机构必须抵制过度营销（Overselling）科研成果的冲动，将对外新闻通稿与媒体沟通正式纳入科研诚信（[[Responsible Conduct of Research|research integrity]]）行为守则进行一体化规制。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026b, pp. 62, 64)]]
 
 ---
 
 ### 命题三　坦诚披露科学证据的不确定性不仅不会削弱公众信任反而能增强信息可信度
 
 > [!concept-lens] 证据不确定性与公众信任机制
-> 检验传统传播中担忧“承认研究局限性会导致公众困惑与怀疑”的假设是否成立，确立循证传播新原则。
+> 检验传统传播中担忧“承认研究局限性会导致公众困惑与怀疑”的[[Hypothesis|假设]]是否成立，确立循证传播新原则。
 
 > [!claim] Kerr et al.
-> **透明沟通不确定性对公众信任的保护效应** 大规模实验心理学与传播学证据表明，在向公众传播科学发现时，明确呈现数值不确定性（如置信区间）、证据强弱等级与研究局限，不会损害公众对证据本身或对科学家的信任度，在某些涉及争议与前沿政策的议题中反而显著提升了信息源的可信度（Trustworthiness）。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026b, p. 62)]]
+> **透明沟通不确定性对公众信任的保护效应** 大规模实验心理学与传播学证据表明，在向公众传播科学发现时，明确呈现数值不确定性（如[[Confidence Interval|置信区间]]）、证据强弱等级与研究局限，不会损害公众对证据本身或对科学家的信任度，在某些涉及争议与前沿政策的议题中反而显著提升了信息源的可[[Reliability|信度]]（[[Trustworthiness]]）。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026b, p. 62)]]
 
 ---
 
@@ -137,18 +153,18 @@ updated: 2026-09-03
 ## 概念演变
 
 > [!dev-timeline] 科学虚假信息演变历程
-> - **1985 年 — 单向普及与公众理解科学（PUS）早期** 1985 年英国皇家学会发布《公众理解科学》（Bodmer 报告），当时学界普遍认为公众误解科学是由于“知识匮乏”（赤字模型），治理焦点在于科学家单向传授正确事实。
-> - **2000 年代初 — 争议科技危机与专业新闻中介确立** 面对疯牛病（BSE）、转基因食品（GM）及三联疫苗（MMR）引发的公众信任危机，学界意识到媒体报道对科学争论的巨大塑造力，英国于 2002 年创立科学媒体中心（SMC），致力于为媒体提供快速权威证据。
-> - **2020 年代中至今 — 数字化算法、信息疫情与科研诚信融合** 面对社交媒体算法茧房、生成式 AI 冲击及后疫情时期的“信息疫情”（Infodemic），皇家学会《面向社会的科学》确立了将反虚假信息从单一的事后辟谣，转向涵盖平台数据审计、高校通稿规制、解决方案新闻倡导与科研诚信一体化建设的系统治理范式。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026b, pp. 58–64)]]
+> - **1985 年 — 单向普及与公众理解科学（PUS）早期** 1985 年英国皇家学会发布《公众理解科学》（Bodmer 报告），当时学界普遍认为公众误解科学是由于“知识匮乏”（[[Deficit Model of Science Communication|赤字模型]]），治理焦点在于科学家单向传授正确事实。
+> - **2000 年代初 — 争议科技危机与专业新闻中介确立** 面对疯牛病（BSE）、转基因食品（GM）及三联疫苗（MMR）引发的公众信任危机，学界意识到媒体报道对科学争论的巨大塑造力，英国于 2002 年创立[[Science Media Centre|科学媒体中心]]（SMC），致力于为媒体提供快速权威证据。
+> - **2020 年代中至今 — 数字化算法、信息疫情与科研诚信融合** 面对社交媒体算法茧房、[[Generative Artificial Intelligence|生成式 AI]] 冲击及后疫情时期的“信息疫情”（Infodemic），皇家学会《面向社会的科学》确立了将反虚假信息从单一的事后辟谣，转向涵盖平台数据审计、高校通稿规制、解决方案新闻倡导与科研诚信一体化建设的系统治理[[Paradigm|范式]]。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026b, pp. 58–64)]]
 
 ---
 
 ## 实证数据
 
-> [!ref-table]- 其他实证结果（无效应量）
+> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|The Royal Society (2026b)]] | $N = 5,281$ 英国 16 岁以上代表性成年公众（PAS 2025 调查） | 全国横截面抽样调查 | 科学信息获取主要渠道（过去两周） | 新媒体（40%）、传统媒体（36%）、科学来源（25%）、口头/在线（17%）、亲友/WhatsApp（13%）、未主动寻求（34%） | 全国代表性加权样本 | 反映新媒体已成为第一大主动获取渠道，但传统媒体依然稳固 |
 > | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|The Royal Society (2026b)]] | 英国代表性成年公众（PAS 2025 调查） | 全国抽样调查 | 科学信息真实性与冲突感知 | 仅 40% 认同所接触科学信息“通常是真实的”（较 2014 年超 50% 显著下滑）；48% 认为冲突信息过多导致难辨真伪 | 约 50% 公众处于不确定状态 | 表明海量冲突与虚假信息加剧了公众认知困惑，但未完全转化为反科学怀疑 |
@@ -163,10 +179,10 @@ updated: 2026-09-03
 > > [!axis] 平台内容审核与封禁 vs 算法透明度与独立学术审计
 > > 针对社交媒体平台应如何治理虚假信息存在不同路线分歧。
 > >
-> > - **平台中心主义监管派** 主张社交平台应承担严格的把关人法律责任，通过人工与算法快速标记、降权甚至直接下架反疫苗或否认气候变暖等虚假内容。
+> > - **平台中心主义监管派** 主张社交平台应承担严格的[[Gatekeepers|把关人]]法律责任，通过人工与算法快速标记、降权甚至直接下架反疫苗或否认气候变暖等虚假内容。
 > > - **算法透明与学术赋能派** 指出过度审核极易侵犯言论自由并助长阴谋论反弹；真正的破局点在于强制平台开放隐私合规的 API 数据接口，允许独立科学家对算法推荐机制展开循证审计。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026b, p. 62)]]
 >
-> > [!axis] 事后事实核查（Debunking） vs 前置证据素养与预先免疫（Prebunking）
+> > [!axis] 事后事实核查（Debunking） vs 前置[[Scientific Literacy|证据素养]]与预先免疫（Prebunking）
 > > 针对公众认知干预的有效性争议。
 > >
 > > - **事后核查派** 强调针对具体谣言和失实报道开展快速、精准的事实核查与专家反驳。

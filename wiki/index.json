@@ -316,7 +316,6 @@
     "aliases": [
       "科学虚假信息",
       "科学伪信息",
-      "scientific misinformation",
       "misinformation in science"
     ]
   },
@@ -1183,7 +1182,10 @@
     "aliases": [
       "科学素养",
       "科学素养教育",
-      "science literacy"
+      "science literacy",
+      "证据素养",
+      "科学探究素养",
+      "Scientific Literacy for Citizenship"
     ]
   },
   {
@@ -2576,7 +2578,8 @@
       "kexue taidu",
       "scientific spirit in education",
       "教育上的科学态度",
-      "Scientific Disposition"
+      "Scientific Disposition",
+      "科学探究心智"
     ]
   },
   {
