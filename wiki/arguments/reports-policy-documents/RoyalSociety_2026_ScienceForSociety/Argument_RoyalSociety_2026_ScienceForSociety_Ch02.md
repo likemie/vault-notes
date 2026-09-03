@@ -195,7 +195,7 @@ updated: 2026-09-04
 > - **1. [[Deficit Model of Science Communication|赤字模型]]残余与单向说教的路径依赖** 许多科研机构和政府决策部门仍潜意识地将公众视为缺乏科学知识的认知赤字群体，习惯于在方案敲定后进行单向宣传与公关解释，而非在研发初期开展平等对话。
 > - **2. 上游公众审议（Upstream Public Deliberation）的制度化机制缺失** 在人工智能伦理边界、基因编辑监管、绿色低碳基础设施选址等重大前沿科技决策中，缺乏常设性公民陪审团（Citizens' Juries）或公众协商程序，公众诉求无法实质性进入政策制定管道。
 > - **3. [[Science Capital|科学资本]]阶层惯习与自选受众壁垒（Self-Selecting Audiences）** 收费特展的高昂门槛与科学活动的学术精英化表达，导致校外科学参与往往沦为高[[Science Capital|科学资本]]家庭的自选特权（Dawson, 2019），中下阶层与少数族裔群体在心理上形成科学与我们无关的文化疏离感。
-> - **4. 政府部门管辖割裂与非正式部门的资金贫困** 科学探索中心与校外参与网络处于科学创新部（DSIT）、教育部（DfE）、文化媒体体育部（DCMS）与地方政府的四不管地带，导致这套支撑全民终身学习的关键社会基础设施长期缺乏法定财政兜底。（p. 48）
+> - **4. 政府部门管辖割裂与非正式部门的资金贫困** 科学探索中心与校外参与网络处于英国科学、创新与技术部（Department for Science, Innovation and Technology, DSIT）、英国教育部（Department for Education, DfE）、英国文化、媒体与体育部（Department for Culture, Media and Sport, DCMS）与地方政府的四不管地带，导致这套支撑全民终身学习的关键社会基础设施长期缺乏法定财政兜底。（p. 48）
 
 ---
 
@@ -214,7 +214,7 @@ updated: 2026-09-04
 > [!case] [[Case Study|案例研究]]一：[[Big Butterfly Count|大蝴蝶计数]]：全民参与的 15 分钟生态观察
 > - **发起背景与组织架构** 英国蝴蝶保护协会（Butterfly Conservation UK）于 2010 年正式发起该项目，著名自然纪录片主持人戴维·阿滕伯勒爵士（Sir David Attenborough）担任长期倡议大使。项目旨在应对全英授粉昆虫生境急剧退化危机，每年夏季 7 月中旬至 8 月初（蝴蝶羽化繁殖高峰期）开展为期三周的全民生态监测。（p. 43）
 > - **极简低门槛参与协议（Standard Protocol）** 参与者无需任何专业生物学训练，只需在阳光充足、微风适宜的天气条件下，在自家后花园、社区公园、学校绿地或城市阳台静坐观察 15 分钟，通过免费智能手机 App 或对照图表，记录所观察到的孔雀蛱蝶（Peacock）、红蛱蝶（Red Admiral）、荨麻蛱蝶（Small Tortoiseshell）等 20 余种特定指示物种数量，并一键完成地理时空数据上传。
-> - **科研产出与国家生态治理对接** 每年稳定动员超过 **10 万**名公众深度参与，累计产生近百万条高空间分辨率的时空生态观测点位数据。数据集全面接入英国国家生物多样性网络（National Biodiversity Network, NBN）与联合自然保护委员会（Joint Nature Conservation Committee, JNCC），直接为英国环境、食品与农村事务部（Defra）制定《英格兰物种恢复战略》与评估气候变化生态冲击提供了一手法定实证依据。
+> - **科研产出与国家生态治理对接** 每年稳定动员超过 **10 万**名公众深度参与，累计产生近百万条高空间分辨率的时空生态观测点位数据。数据集全面接入英国国家生物多样性网络（National Biodiversity Network, NBN）与联合自然保护委员会（Joint Nature Conservation Committee, JNCC），直接为英国环境、食品与农村事务部（Department for Environment, Food and Rural Affairs, Defra）制定《英格兰物种恢复战略》与评估气候变化生态冲击提供了一手法定实证依据。
 > - **公众主体能动性与认知重构** 打破了只有专业科研学者才能开展野外实证探究的神秘壁垒，让全年龄段公民在亲近本土自然的过程中建立起动态生态系统思维，极大激发了公众保护生物多样性的[[Self-Efficacy|自我效能感]]与社区环保行动力。（p. 46）
 
 > [!case] 案例研究二：造梦机器与[[The Perception Census|感知普查]]：艺术体验与脑科学认知共创

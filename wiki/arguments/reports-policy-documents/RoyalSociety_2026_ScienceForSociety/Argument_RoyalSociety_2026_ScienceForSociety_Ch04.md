@@ -10,9 +10,9 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch04"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch04"
 argument_display_title: "Chapter four: Industry and business sector"
 argument_kind: "book-chapter"
-argument_related_count: 27
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 31
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
 issuing_organization: The Royal Society
 year: 2026
@@ -33,6 +33,7 @@ sources:
   - "[[sources/RoyalSociety_2026_ScienceForSociety/RoyalSociety_2026_ScienceForSociety|RoyalSociety_2026_ScienceForSociety]]"
 part_of: "[[Argument_RoyalSociety_2026_ScienceForSociety]]"
 related_concepts:
+  - "[[Technology Habituation]]"
   - "[[Public Engagement with Science]]"
   - "[[University Spin-Out]]"
   - "[[Innovation Park]]"
@@ -59,6 +60,9 @@ related_instruments:
   - "[[VALUE Rubrics]]"
 related_persons: []
 related_facts:
+  - "[[The Big Bang Fair]]"
+  - "[[EngineeringUK]]"
+  - "[[Gatsby Benchmarks]]"
   - "[[The Social Value Model]]"
   - "[[Public Attitudes to Science]]"
   - "[[Advanced Manufacturing Research Centre]]"
@@ -152,7 +156,7 @@ updated: 2026-09-04
 
 > [!case] 案例研究一：西门子交通（Siemens Mobility）：跨国工业巨头扎根在地社群与全链条技能学徒制（p. 68）
 > - **项目发起背景与主体架构** 作为全球交通与机车装备制造巨头，西门子交通在英国约克郡戈尔（Goole）投资 2 亿英镑建设现代铁路制造卓越中心。面对当地工业衰退与年轻劳动力流失，西门子将公众参与定位为企业与地方共生共荣的核心战略。
-> - **全链条教育外展与技能学徒制** 建立贯穿小学至博士后的系统通道：联合工程英国（EngineeringUK）深度参展大爆炸科技博览会（The Big Bang Fair）；组织一线女工程师进校园开展动手实验，打破工程领域的性别偏见；设立全英带薪工程学徒制（Apprenticeships）与工业实习岗位；联合大学设立定向资助工程博士（PhD）项目。
+> - **全链条教育外展与技能学徒制** 建立贯穿小学至博士后的系统通道：联合[[EngineeringUK|英国工程协会]]（EngineeringUK）深度参展[[The Big Bang Fair|大爆炸科技博览会]]（The Big Bang Fair）；组织一线女工程师进校园开展动手实验，打破工程领域的性别偏见；设立全英带薪工程学徒制（Apprenticeships）与工业实习岗位；联合大学设立定向资助工程博士（PhD）项目。
 > - **实证成效与社会认同** 为当地创造了数百个高技能就业岗位，学徒中女性与工薪背景比例显著提升，极大激发了约克郡社区对工业创新的归属感与认同感，成为跨国企业扎根地方的典范。
 > - **经验启示与示范价值** 重大工业投资必须配套全生命周期的技能学徒制与早期外展，使公众参与转变为培育未来本土高技能工匠队伍的生产性投资，方能打破外来资本与本土社群的心理隔阂。
 
@@ -366,14 +370,14 @@ updated: 2026-09-04
 
 > [!pathways] 建议十一：政府设立奖励机制支持 R&D 企业深化本土与国家社群联结（Recommendation 11, p. 76）
 > 英国政府应通过设立奖励机制，对创建**可审计（Auditable）且具明确成本核算（Costed）公众参与活动**的研发企业给予实质性支持，鼓励其持续发展与在地社区及全国公众的紧密联结。
-> - **强化产业界对学校师资的直接赋能** 科学参与不仅要触达学生，更必须深入教师群体。绝大多数中小学教师从未拥有在产业界工作的经历，往往不了解科技前沿为学生提供的全新职业通道。支持学校接入产业在线职业平台，为更大规模学生群体提供真实工作见习机会。
+> - **强化产业界对学校师资的直接赋能** 科学参与不仅要触达学生，更必须深入教师群体。绝大多数中小学教师从未拥有在产业界工作的经历，往往不了解科技前沿为学生提供的全新职业通道。支持学校接入产业在线职业平台，为更大规模学生群体提供真实工作见习机会（呼应 [[Gatsby Benchmarks|盖茨比职业生涯指导基准]] 导向）。
 > - **盘活公共空间创新区与场馆合作** 重新评估建立企业访客中心（Visitor Centres）的潜力，联合地方政府在公共开放空间设立“[[Innovation Park|创新区]]”（Innovation Zones）；推动企业与当地[[Informal Science Learning|非正式科学教育机构]]（如科技探索中心）紧密合作，为雇主与在地社群搭建互动桥梁。此类公众参与指标应被正式纳入企事业单位获取公共财政研发资助（R&D Public Grants）的法定考核条件。
 
 #### 主题二：前沿数据与新兴 AI 技术的主动去神秘化（建议十二，p. 76）
 
 > [!pathways] 建议十二：新兴与 AI 科技企业主动去神秘化以建立稳固社会许可（Recommendation 12, p. 76）
 > 在前沿新兴科学或技术领域开展研发的企业，应主动与社会公众开展多渠道互动，使这些前沿技术**去神秘化（Demystify）**；尤其在技术可能对社会造成颠覆性改变的领域，必须深入倾听公众认知关切，建立起能够提升技术社会接纳度（Social Acceptance）的深厚互信关系；当前对于从事包含人工智能在内的数据赋能技术企业而言，此项要求尤为迫切。
-> - **以中小学为入口促进前沿技术习惯化（Habituation）** 专项资助中小学使学生常态化接触前沿技术硬件与工具，涵盖数字化与人工智能、增强现实（Augmented Reality, AR）以及包含三维打印（Three-Dimensional Printing, 3D 打印）在内的现代先进制造业。
+> - **以中小学为入口促进前沿[[Technology Habituation|技术习惯化]]（Technology Habituation）** 专项资助中小学使学生常态化接触前沿技术硬件与工具，涵盖数字化与人工智能、增强现实（Augmented Reality, AR）以及包含三维打印（Three-Dimensional Printing, 3D 打印）在内的现代先进制造业。
 > - **突破中心城市局限面向多元人群定制化沟通** 科技研发与高学历人群长期过度集聚于少数大城市与大学城，前沿科技企业必须主动走出中心大都市，深入边缘与工薪城镇；坚决抛弃“一刀切”（One-size-fits-all）的宣教思维，针对不同性别、年龄、地域与阶层背景的受众，定制差异化的交流语言与参与渠道。
 
 #### 主题三：企业雇主制度化赋权与产业科学家公共沟通激励（建议十三，p. 77）

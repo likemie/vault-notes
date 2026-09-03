@@ -11,9 +11,9 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 8
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 7
+fact_related_level: 0
+fact_related_stars: ""
 fact_related_color: "#dbeafe"
 issuing_organization: Cabinet Office, Government Commercial Function
 tags:
@@ -31,7 +31,6 @@ related_instruments:
   - "[[VALUE Rubrics]]"
 related_persons: []
 related_facts:
-  - "[[Promising Practices Network]]"
   - "[[Association for Science and Discovery Centres]]"
 related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04]]"
@@ -49,7 +48,7 @@ updated: 2026-09-04
 ## 背景
 
 > [!policy-context] 政策背景
-> - **发布时间与发布主体** 由英国政府商业职能部（Government Commercial Function, GCF）与内阁办公室（Cabinet Office）于 2020 年以采购政策说明（Procurement Policy Note, [[Promising Practices Network|PPN]] 06/20）形式首次发布，并于 2025 年通过《国家政府采购政策声明》（National Procurement Policy Statement）与《社会价值模型指南》（PPN 002 Guide）进行法定更新深化。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04|(The Royal Society, 2026, p. 69)]]
+> - **发布时间与发布主体** 由英国政府商业职能部（Government Commercial Function, GCF）与内阁办公室（Cabinet Office）于 2020 年以采购政策说明（Procurement Policy Note, PPN 06/20）形式首次发布，并于 2025 年通过《国家政府采购政策声明》（National Procurement Policy Statement）与《社会价值模型指南》（PPN 002 Guide）进行法定更新深化。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04|(The Royal Society, 2026, p. 69)]]
 > - **适用地区与对象** 适用于英格兰所有中央政府部门、执行机构及其下属非部门公共机构（Arm's-Length Bodies）的所有重大政府采购招标项目，面向参与竞标公共合同的各类商业企业与产业供应商。
 > - **问题背景** 传统政府采购过度聚焦竞标报价与财务成本最低化，导致国家巨额财政采购未能有效赋能社会公平、技能培训与区域平衡发展；政策旨在运用公共采购的庞大市场购买力，撬动企业承担实质性社会与环境责任。
 > - **制度位置** 政策基于英国《2012年公共服务（社会价值）法案》（Public Services (Social Value) Act 2012），将法案中的“软性考量”升级为具有明确量化指标与评分门槛的硬性采购准则。

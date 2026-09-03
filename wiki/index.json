@@ -5286,6 +5286,16 @@
     ]
   },
   {
+    "title": "Technology Habituation",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Technology Habituation.md",
+    "aliases": [
+      "技术习惯化",
+      "前沿技术习惯化",
+      "教育中的技术习惯化"
+    ]
+  },
+  {
     "title": "Think-Pair-Share",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Think-Pair-Share.md",
@@ -18704,6 +18714,17 @@
     ]
   },
   {
+    "title": "The Big Bang Fair",
+    "type": "fact",
+    "path": "wiki/facts/uk/The Big Bang Fair.md",
+    "aliases": [
+      "大爆炸科技博览会",
+      "英国大爆炸科技博览会",
+      "The Big Bang UK Young Scientists & Engineers Fair",
+      "Big Bang Fair"
+    ]
+  },
+  {
     "title": "UK Centre for Evidence-based Policy",
     "type": "fact",
     "path": "wiki/facts/uk/UK Centre for Evidence-based Policy.md",
@@ -18719,6 +18740,15 @@
       "AMRC UK",
       "英国医学研究慈善联合会",
       "医学研究慈善协会"
+    ]
+  },
+  {
+    "title": "EngineeringUK",
+    "type": "fact",
+    "path": "wiki/facts/uk/EngineeringUK.md",
+    "aliases": [
+      "英国工程协会",
+      "英国工程学会"
     ]
   },
   {
