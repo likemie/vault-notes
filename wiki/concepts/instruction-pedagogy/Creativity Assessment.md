@@ -14,7 +14,7 @@ aliases:
 summary: "创造力测评是对个体的发散思维潜能、创造过程认知加工、实际创新产品与日常观念行为特质的操作化测定与质性评价；在教育与心理研究中用于诊断创造潜能、衡量干预效果并化解效标困境。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 69
+related_count: 70
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -85,6 +85,7 @@ related_instruments:
   - "[[Runco Ideational Behavior Scale]]"
   - "[[VALUE Rubrics]]"
   - "[[Creative Engineering Design Assessment]]"
+  - "[[Originality Scale of Visual Metaphors]]"
 related_persons:
   - "[[Mark A. Runco]]"
 related_facts:
@@ -160,7 +161,7 @@ updated: 2026-09-03
 > | 测量[[Construct\|构念]]属性 | 主观测量（自陈倾向 / 自我效能 / 成就[[Questionnaire\|问卷]]） | 客观测量（标准化认知测验 / 专家产品评定 / 真实任务量规） |
 > |---|---|---|
 > | **创造潜能与认知过程** | - 创造性自我效能量表（Creative Self-Efficacy Scale）<br>- 马尔马拉创造性思维倾向量表（Marmara Scale）<br>- 考夫曼创造力领域量表（K-DOCS）<br>- 朗科观念行为量表（[[Runco Ideational Behavior Scale\|RIBS]]）<br>- 情绪创造力量表（[[Emotional Creativity Inventory\|ECI]]） | - 托兰斯创造性思维测验（[[Torrance Tests of Creative Thinking\|TTCT]]，言语/图画版）<br>- 成人托兰斯创造性思维简表（[[Abbreviated Torrance Test for Adults\|ATTA]]）<br>- 创造性思维绘画测验（[[Test for Creative Thinking-Drawing Production\|TCT-DP]]）<br>- 另类用途测验（[[Alternate Uses Test\|AUT]]）与生成另类用途测验（GAU）<br>- 远距离联想测验（[[Remote Associates Test\|RAT]]）与过泛思维任务（OTT） |
-> | **创造性产品与综合表现** | - 创造性成就问卷（[[Creative Achievement Questionnaire\|CAQ]]）<br>- 创造力量表自评维度（Creativity Scale）<br>- 学生元技能调查（Student MetaSkills Survey）创造力分量表 | - 专家共识评估技术（[[Consensual Assessment Technique\|CAT]]）<br>- [[Creative Engineering Design Assessment\|创意工程设计评估测验（CEDA）]]<br>- [[Originality Scale of Visual Metaphors|视觉隐喻原创性量表（OSVM）]]与词语重组测验（WRT）<br>- 斯腾伯格彩虹项目与万花筒项目招生情境任务<br>- AAC&U [[VALUE Rubrics\|VALUE 创造性思维评分量规]]<br>- [[OECD]] CERI 创造力原型评分量规<br>- 欧洲 [[CALOHEE Project\|CALOHEE]] 创新评价参照框架 |
+> | **创造性产品与综合表现** | - 创造性成就问卷（[[Creative Achievement Questionnaire\|CAQ]]）<br>- 创造力量表自评维度（Creativity Scale）<br>- 学生元技能调查（Student MetaSkills Survey）创造力分量表 | - 专家共识评估技术（[[Consensual Assessment Technique\|CAT]]）<br>- [[Creative Engineering Design Assessment\|创意工程设计评估测验（CEDA）]]<br>- [[Originality Scale of Visual Metaphors\|视觉隐喻原创性量表（OSVM）]]与词语重组测验（WRT）<br>- 斯腾伯格彩虹项目与万花筒项目招生情境任务<br>- AAC&U [[VALUE Rubrics\|VALUE 创造性思维评分量规]]<br>- [[OECD]] CERI 创造力原型评分量规<br>- 欧洲 [[CALOHEE Project\|CALOHEE]] 创新评价参照框架 |
 >
 > （根据 [[Argument_Park_2026_TSC|Park et al. (2026)]]、[[Argument_Guo_2025_TSC|Guo et al. (2025)]] 与 [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] 整合扩充）
 

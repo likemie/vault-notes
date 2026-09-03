@@ -67,8 +67,10 @@ related_instruments:
   - "[[Creative Engineering Design Assessment]]"
   - "[[Remote Associates Test]]"
   - "[[Alternate Uses Test]]"
+  - "[[Originality Scale of Visual Metaphors]]"
   - "[[Problem Solving Inventory]]"
   - "[[Emotional Creativity Inventory]]"
+  - "[[Evaluation of Potential for Creativity]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -84,7 +86,7 @@ title: "Argument_Guo_2025_TSC"
 argument_key: "Argument_Guo_2025_TSC"
 argument_display_title: "Effect of training programs on the creativity of university students: A multi-level meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 46
+argument_related_count: 48
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -129,7 +131,7 @@ issuing_organization: ""
 > | **图形创造力** | 借助视觉表征与空间拓扑重组新颖具象形态的图画创造能力。 | 典型工具包含 TTCT 图形版、[[Test for Creative Thinking-Drawing Production\|创造性思维绘画测验（Test for Creative Thinking-Drawing Production, TCT-DP）]]、[[Creative Engineering Design Assessment\|创意工程设计评估测验（Creative Engineering Design Assessment, CEDA）]]；代表研究如 West et al. (2012)、Morin et al. (2018)；$N = 27, g = 0.644$。 |
 > | **词汇创造力** | 基于字词语义进行快速远距离联想与新颖词汇重组的语言认知表现。 | 典型工具包含[[Remote Associates Test\|远距离联想测验（Remote Associates Test, RAT）]]、过泛思维任务（Over-Inclusive Thinking Task, OTT）；代表研究如 Chiu (2015)、Zitek & Vincent (2015)；$N = 16, g = 0.641$。 |
 > | **言语创造力** | 运用口头或书面语言生成丰富、多样且新颖观点与非常规用途的表达潜能。 | 典型工具包含[[Alternate Uses Test\|另类用途测验（Alternate Uses Test, AUT）]]、生成另类用途测验（Generation of Alternative Uses, GAU）、TTCT 言语版；代表研究如 Fink et al. (2015)、Lewis & Lovatt (2013)、Gu et al. (2023)；$N = 23, g = 0.606$。 |
-> | **问题解决** | 针对不良结构情境识别障碍、构思替代路径并实现目标突破的实践能力。 | 典型工具包含[[Originality Scale of Visual Metaphors|视觉隐喻原创性量表（Originality Scale of Visual Metaphors, OSVM）]]、[[Problem Solving Inventory\|问题解决测验（Problem Solving Inventory, PSI）]]、词语重组测验（Word Reorganization Test, WRT）；代表研究如 Baruah & Paulus (2008)、O'Connor et al. (2016)；$N = 10, g = 0.539$。 |
+> | **问题解决** | 针对不良结构情境识别障碍、构思替代路径并实现目标突破的实践能力。 | 典型工具包含[[Originality Scale of Visual Metaphors\|视觉隐喻原创性量表（Originality Scale of Visual Metaphors, OSVM）]]、[[Problem Solving Inventory\|问题解决测验（Problem Solving Inventory, PSI）]]、词语重组测验（Word Reorganization Test, WRT）；代表研究如 Baruah & Paulus (2008)、O'Connor et al. (2016)；$N = 10, g = 0.539$。 |
 > | **情绪创造力** | 个体体验、表达与调节独特、复杂且适切情绪模式的非认知创造潜能。 | 典型工具包含[[Emotional Creativity Inventory\|情绪创造力量表（Emotional Creativity Inventory, ECI）]]、主观运动体验量表（Subjective Exercise Experiences Scale, SEES）；代表研究如 Mahasneh & Gazo (2019)、Campion & Levita (2014)；$N = 9, g = 0.397$。 |
 > | **训练周期** | 干预方案实施的整体时间跨度，分为 $< 1$ 周、$< 2$ 个月、$< 4$ 个月、$< 1$ 年、$< 2$ 年、$< 3$ 年六个梯度。 | 短期密集工作坊至多学期长程课程；亚组分布 $N = 37, 30, 24, 9, 4, 5$；在元回归中解释 13.4% 组间方差。 |
 > | **训练方式** | 干预内容所依托的核心教学策略与认知路径，分为言语训练、思维训练、任务型训练、技术型训练、综合训练与情绪训练。 | 言语训练（$N = 15$）、思维训练（$N = 13$）、任务型训练（$N = 5$）、技术型训练（$N = 20$）、综合训练（$N = 54$）、情绪训练（$N = 2$）。 |
