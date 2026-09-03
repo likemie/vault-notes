@@ -23,6 +23,7 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Deficit Model of Science Communication]]"
   - "[[Paradigm]]"
+  - "[[Scientific Uncertainty]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Confidence Interval]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Science Journalism
@@ -75,7 +76,7 @@ updated: 2026-09-03
 
 > [!boundary]- 概念边界
 > - 不等于 [[Public Engagement with Science|公众科学参与]] — 前者是专业媒体单向或双向的新闻采编与调查中介，后者涵盖[[Citizen Science|公民科学]]、科学节、社区[[Dialogue in Education|对话]]等全体科研生命周期的多元互动形态。
-> - 不等于 [[Deficit Model of Science Communication|赤字模型]] — 现代专业科学新闻摒弃将受众视为无知容器的布道[[Paradigm|范式]]，强调多元视角的平衡呈现与科学不确定性的透明坦陈。
+> - 不等于 [[Deficit Model of Science Communication|赤字模型]] — 现代专业科学新闻摒弃将受众视为无知容器的布道[[Paradigm|范式]]，强调多元视角的平衡呈现与[[Scientific Uncertainty|科学不确定性]]的透明坦陈。
 > - 不适用于纯学术共同体内部的学术出版与同行评议机制。
 
 ---
@@ -174,7 +175,7 @@ updated: 2026-09-03
 > |---|---|---|---|
 > | **民主中介命题** | 科学新闻是现代民主协商与公共科技决策不可替代的知识底座 | 抵御媒体算法浅俗化，确立专业科学报道的编辑优先权 | [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026, p. 57)]] |
 > | **源头异化命题** | 高校公关过度营销与媒体流水线化是虚假信息的主要策源地 | 将新闻发布纳机构科研诚信（[[Responsible Conduct of Research\|RCR]]）考核与伦理审查 | Sumner et al. (2014); Nature (2024) |
-> | **透明增信命题** | 承认证据不确定性与暂定性不仅无损权威，反而显著增进公众信任 | 移植统计局 TQV 守则，普及包含置信区间的透明沟通规范 | Kerr et al. (2022); [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026, p. 62)]] |
+> | **透明增信命题** | 承认[[Scientific Uncertainty\|证据不确定性]]与暂定性不仅无损权威，反而显著增进公众信任 | 移植统计局 TQV 守则，普及包含置信区间的透明沟通规范 | Kerr et al. (2022); [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026, p. 62)]] |
 
 ---
 

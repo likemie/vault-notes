@@ -17,6 +17,7 @@ tags:
   - theme/digital-media
 related_concepts:
   - "[[Hypothesis]]"
+  - "[[Scientific Uncertainty]]"
   - "[[Confidence Interval]]"
   - "[[Scientific Literacy]]"
   - "[[Conflict of Interest in Research]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Scientific Misinformation
@@ -69,14 +70,14 @@ updated: 2026-09-03
 
 > [!boundary]- 概念边界
 > - **不等于科学内部的正常学术争论** 科学发展依赖于假说的提出、检验、修正与同行评议；在科学证据尚不充分时存在的合理解释分歧属于正常探索，只有罔顾确立的实证证据或伪造事实才构成虚假信息。
-> - **不等于不可避免的科普通俗化简化** 为了让非专业公众理解复杂前沿而进行的隐喻或通俗化表达，只要未歪曲核心实证结论与证据不确定性，不属于科学虚假信息。
+> - **不等于不可避免的科普通俗化简化** 为了让非专业公众理解复杂前沿而进行的隐喻或通俗化表达，只要未歪曲核心实证结论与[[Scientific Uncertainty|证据不确定性]]，不属于科学虚假信息。
 
 ---
 
 ## 概念辨析
 
 > [!contrast-table] 科学虚假信息与相关核心概念辨析
-> | 比较维度 | 科学虚假信息（Scientific Misinformation） | 恶意操纵虚假信息（Disinformation） | 科学不确定性（Scientific Uncertainty） |
+> | 比较维度 | 科学虚假信息（Scientific Misinformation） | 恶意操纵虚假信息（Disinformation） | [[Scientific Uncertainty\|科学不确定性]]（Scientific Uncertainty） |
 > |---|---|---|---|
 > | **主观意图** | 通常无主观恶意欺骗意图，多源于误读、片面传播或过度夸大 | 具有明确的恶意欺骗、政治极化或商业利益操纵目的 | 科学研究探索未知的本质属性，无任何欺骗性质 |
 > | **事实基础** | 内容客观失实或严重误导，偏离同行评议科学证据 | 刻意编造、伪造证据或蓄意截取片段制造事实扭曲 | 基于严谨实证数据，明确界定[[Confidence Interval\|置信区间]]、适用条件与局限 |
@@ -134,7 +135,7 @@ updated: 2026-09-03
 
 ### 命题三　坦诚披露科学证据的不确定性不仅不会削弱公众信任反而能增强信息可信度
 
-> [!concept-lens] 证据不确定性与公众信任机制
+> [!concept-lens] [[Scientific Uncertainty|证据不确定性]]与公众信任机制
 > 检验传统传播中担忧“承认研究局限性会导致公众困惑与怀疑”的[[Hypothesis|假设]]是否成立，确立循证传播新原则。
 
 > [!claim] Kerr et al.

@@ -30,6 +30,7 @@ related_concepts:
   - "[[Evaluation Research]]"
   - "[[Effect Size]]"
   - "[[Attrition]]"
+  - "[[Scientific Uncertainty]]"
   - "[[Chain of Evidence]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Internal Validity]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-08-21
+updated: 2026-09-04
 ---
 
 # Open Court Reading
@@ -99,7 +100,7 @@ updated: 2026-08-21
 >    - 针对 Borman et al. (2008) 的多中心集群 RCT，[[Best Evidence Encyclopedia|BEE]] 评审团队敏锐发现了其他机构完全忽略的**共时课时混杂（Time-on-Task Confounder）**——实验组每天接受 150 分钟读写教学，而对照组仅为 90 分钟常规教学。[[Effect Size|效应量]]的提升究竟源于 Open Court 课程本身的优越性，还是单纯源于多出了 60 分钟学习时间？[[What Works Clearinghouse|WWC]] 与 [[Blueprints for Healthy Youth Development|Blueprints]] 对此完全失察。
 > 2. **准实验 [[Quasi-Experimental Designs|QED]] 门槛的宽容度与剔除分歧**
 >    - 针对 Skindrud & Gersten (2006) 准[[Experimental Research|实验研究]]，Blueprints 坚守严谨主义原则予以彻底剔除，而 WWC 在自行动手校正集群误差后，因效应量大于 0.25 SD 仍破格保留入库，展现了不同机构在准实验容忍度上的制度裁量权。
-> 3. **底线标签无法传递证据不确定性**
+> 3. **底线标签无法传递[[Scientific Uncertainty|证据不确定性]]**
 >    - 政策制定者若仅查阅“Promising”这一最终标签，将完全无法获知背后的课时偏差、小样本班级降级与准实验争议，凸显了必须穿透标签审视底层[[Chain of Evidence|证据链]]条的方法学必要性。
 
 ---

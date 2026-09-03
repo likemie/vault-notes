@@ -62,6 +62,7 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Going Native]]"
   - "[[Computational Thinking]]"
+  - "[[Scientific Uncertainty]]"
   - "[[Further Education]]"
 related_theories: []
 related_methods:
@@ -87,7 +88,7 @@ sources:
 part_of: "[[Argument_RoyalSociety_2026_ScienceForSociety]]"
 status: draft
 created: 2026-08-22
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 # Argument_RoyalSociety_2026_ScienceForSociety_Ch01
 
@@ -306,7 +307,7 @@ updated: 2026-09-03
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **[[Scientific Literacy|科学素养]]从事实记忆转向证据评估与运作机制理解** 科学教育必须超越孤立概念灌输，着重培养多源信息批判评估能力与审慎理解科学不确定性的理性公民。（pp. 30–31）
+> 1. **[[Scientific Literacy|科学素养]]从事实记忆转向证据评估与运作机制理解** 科学教育必须超越孤立概念灌输，着重培养多源信息批判评估能力与审慎理解[[Scientific Uncertainty|科学不确定性]]的理性公民。（pp. 30–31）
 > 2. **[[Data Literacy|数据素养]]与 [[AI Literacy|人工智能素养]]构成新型通用关键胜任力** 必须将概率风险意识、数据图表解读及防范[[Cognitive Offloading|认知外包]]的批判性 AI 素养深度融入课程体系。（pp. 31–32）
 > 3. **中学课堂动手实验课时面临腰斩式系统性萎缩危机** 英格兰 14–16 岁学生至少每两周一次实验的比例从 2016 年的 44% 暴跌至 2023 年的 26%，受困于应试压力、耗材短缺与技术员[[Attrition|流失]]。（p. 33）
 > 4. **后 16 岁 3 门 A-level 过早专门化分科造成学科狭窄化** 亟待打破英格兰狭隘分科传统，推行直至 18 岁的全员宽口径跨学科教育，维持数理与人文艺术均衡。（pp. 34–35）

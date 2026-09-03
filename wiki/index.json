@@ -9201,6 +9201,17 @@
     ]
   },
   {
+    "title": "Scientific Uncertainty",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Scientific Uncertainty.md",
+    "aliases": [
+      "科学不确定性",
+      "证据不确定性",
+      "认知不确定性",
+      "不确定性沟通"
+    ]
+  },
+  {
     "title": "Screening Off",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Screening Off.md",

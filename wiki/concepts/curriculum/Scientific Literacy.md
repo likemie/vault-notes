@@ -39,6 +39,7 @@ related_concepts:
   - "[[Evaluation Research]]"
   - "[[Sample Size Determination]]"
   - "[[Causality]]"
+  - "[[Scientific Uncertainty]]"
   - "[[Confidence Interval]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Citizen Science]]"
@@ -65,7 +66,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Scientific Literacy
@@ -117,7 +118,7 @@ updated: 2026-09-03
 > [!feature] 现代科学素养四大能力支柱（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society, 2026]], 2026b, 2026d）
 > - **理解科学运作机制与科学本质（Understanding Scientific Processes & Nature of Science）** 掌握实证观察、假说检验、实验设计与同行评议如何共同确立和修正科学结论；深刻理解科学知识的经验性、暂定性与社会协商修正属性。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 30)]]
 > - **证据质量批判评估与来源辨识（Evidence Quality & Source Evaluation）** 在信息爆炸与算法分发环境中，能够穿透商业公关赞助与机构通稿夸大，准确[[Evaluation Research|评估研究]][[Sample Size Determination|样本量]]、[[Effect Size|效应量]]大小、相关与[[Causality|因果关系]]的本质鸿沟，审慎核验多源证据[[Reliability|信度]]。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026, p. 62)]]
-> - **接纳科学不确定性与暂定性（Navigating Uncertainty & Provisionality）** 深刻领会[[Confidence Interval|置信区间]]、测量误差与区间预测的科学价值，认识到承认“证据有限与未知”并非科学无能，而是严谨探索的必然常态；避免因科学争议而滑向反智虚无主义。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 31)]]
+> - **接纳[[Scientific Uncertainty|科学不确定性]]与暂定性（Navigating Uncertainty & Provisionality）** 深刻领会[[Confidence Interval|置信区间]]、测量误差与区间预测的科学价值，认识到承认“证据有限与未知”并非科学无能，而是严谨探索的必然常态；避免因科学争议而滑向反智虚无主义。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 31)]]
 > - **公共决策参与与算法数据批判（Civic Deliberation & Algorithmic Critique）** 能够将科学证据理性应用于应对气候危机、公共卫生防护、基因科技伦理以及审视[[Generative Artificial Intelligence|生成式 AI]] 工具带来的模型[[AI Hallucination|幻觉]]与偏见，积极参与民主审议。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, p. 116)]]
 
 > [!logic-map]- 现代科学素养四大支柱与公民赋能关系拓扑
@@ -160,7 +161,7 @@ updated: 2026-09-03
 > **透明沟通不确定性强化公众信任** 大规模代表性公众[[Randomised Controlled Trials|随机对照实验]]证实：无论是采用数值[[Confidence Interval|置信区间]]还是定性限定词，向公众坦诚披露科学证据的局限性与不确定性，绝不会削弱公众对科学事实或科学家个人的信任；相反，[[Epistemology|认识论]]上的[[Humility in Learning|谦逊]]能显著提升公众对科学家的诚[[Reliability|信度]]感知。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026, p. 62)]]
 
 > [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026)]]
-> **破除确定性神话与抵御极端怀疑论** 缺乏对科学不确定性的理性认知，是公众走向反智主义与阴谋论的重要诱因；当公众误以为科学是绝对真理时，一旦科学界因新证据而修正早期共识（如防疫指导动态更新），便会产生严重的被背叛感；理解“暂定性与自我纠错”是科学素养的核心防御武器。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 30)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026, p. 62)]]
+> **破除确定性神话与抵御极端怀疑论** 缺乏对[[Scientific Uncertainty|科学不确定性]]的理性认知，是公众走向反智主义与阴谋论的重要诱因；当公众误以为科学是绝对真理时，一旦科学界因新证据而修正早期共识（如防疫指导动态更新），便会产生严重的被背叛感；理解“暂定性与自我纠错”是科学素养的核心防御武器。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 30)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026, p. 62)]]
 
 ---
 
@@ -237,7 +238,7 @@ updated: 2026-09-03
 > |---|---|---|---|---|
 > | **[[UK Science Education Tracker\|SET 2023 纵向调查]]** | 英格兰 14–16 岁中学生全国代表性样本 | 课堂动手实验频率、科学学习动机与素养感知 | 每两周至少进行一次动手实验的比例从 2016 年的 **44%** 骤降至 2023 年的 **26%** | 应试导向与课时压缩严重削弱探究教学，危机全员科学素养生成根基。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 33)]] |
 > | **[[Public Attitudes to Science\|PAS 2025 全英调查]]** | 英国全国 16 岁及以上成年代表性样本（$N=5,281$） | 信息获取渠道、信息充足感、网络真实性甄别自信 | • **40%** 通过数字新媒体首要获取科学信息<br>• **60%** 感到获取科学信息过少<br>• 仅 **40%** 有信心辨别网络科学信息真伪 | 公众对科学信息具有强烈渴求，但面对数字算法环境存在显著的证据素养自信落差。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|(The Royal Society, 2026, pp. 57–58)]] |
-> | **Kerr et al. (2022) PNAS Nexus** | 英国与美国公众大规模在线[[Randomised Controlled Trials\|随机对照实验]] | 科学证据不确定性披露模式与公众信任度 | 向公众坦诚披露科学证据的不确定性（[[Confidence Interval\|置信区间]]），**未显著降低**公众对事实的信任度与对科学家个人的诚信评价 | 推翻了“承认不确定性会削弱科学权威”的传统偏见，证明透明性沟通提升信任。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|(The Royal Society, 2026, p. 61)]] |
+> | **Kerr et al. (2022) PNAS Nexus** | 英国与美国公众大规模在线[[Randomised Controlled Trials\|随机对照实验]] | 科学[[Scientific Uncertainty\|证据不确定性]]披露模式与公众信任度 | 向公众坦诚披露科学证据的不确定性（[[Confidence Interval\|置信区间]]），**未显著降低**公众对事实的信任度与对科学家个人的诚信评价 | 推翻了“承认不确定性会削弱科学权威”的传统偏见，证明透明性沟通提升信任。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|(The Royal Society, 2026, p. 61)]] |
 > | **Sumner et al. (2014) BMJ** | 英国 20 所大学 462 篇健康新闻通稿及 668 篇媒体报道 | 通稿与媒体报道的夸大发生率及因果推论错位 | • **40%** 通稿给出确定生活建议（论文仅为相关性）<br>• **33%** 通稿将相关偷换为因果<br>• 通稿夸大时媒体夸大发生比（OR）暴增 **6.5–56 倍** | 实证证明源头机构过度营销是虚假信息主因，凸显证据素养与科学批判力的紧迫性。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|(The Royal Society, 2026, p. 62)]] |
 
 ---
@@ -245,4 +246,4 @@ updated: 2026-09-03
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026)]] — 提出科学素养官方五大支柱界定，倡导中小学科学教育摆脱应试记忆并转向以证据评估、实践探究与接纳科学不确定性为核心的[[Citizen Science|公民科学]]素养，构筑抵御[[Generative Artificial Intelligence|生成式 AI]] 算法[[AI Hallucination|幻觉]]与大众传媒虚假信息的核心认知免疫屏障。
+> - [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026)]] — 提出科学素养官方五大支柱界定，倡导中小学科学教育摆脱应试记忆并转向以证据评估、实践探究与接纳[[Scientific Uncertainty|科学不确定性]]为核心的[[Citizen Science|公民科学]]素养，构筑抵御[[Generative Artificial Intelligence|生成式 AI]] 算法[[AI Hallucination|幻觉]]与大众传媒虚假信息的核心认知免疫屏障。

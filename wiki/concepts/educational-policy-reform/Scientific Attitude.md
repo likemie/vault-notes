@@ -31,6 +31,7 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Scientism]]"
   - "[[Scientific Method]]"
+  - "[[Scientific Uncertainty]]"
   - "[[Reliability]]"
   - "[[Solutions Journalism]]"
   - "[[Learned Helplessness]]"
@@ -75,7 +76,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Scientific Attitude
@@ -103,7 +104,7 @@ updated: 2026-09-03
 > [!dimension] 科学态度的四重核心理论维度（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society, 2026]], 2026b, 2026c, 2026d）
 > - **1. [[Epistemology|认识论]]与探究心智维度（Epistemic Disposition & Inquiry Mindset）**
 >   - **实证证据优先** 坚守基于实证数据（Empirical Evidence）与严格检验推导结论，反对无证据的教条臆断。
->   - **接纳科学不确定性（Embracing Uncertainty）** 深刻理解科学知识的暂定性（Provisional Nature），将假说修正与同行评议视为科学演进的内在动力。（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society, 2026, p. 30]]）
+>   - **接纳[[Scientific Uncertainty|科学不确定性]]（Embracing Uncertainty）** 深刻理解科学知识的暂定性（Provisional Nature），将假说修正与同行评议视为科学演进的内在动力。（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society, 2026, p. 30]]）
 >   - **知觉多样性与理性质疑** 保持开放包容心智，主动识别算法偏见与统计操纵，审慎评估复杂现实情境。
 > - **2. 教育改革与行动方法论维度（Methodological Reform in Education）**
 >   - **客观事实（Objective Facts）** 以社会实际调查为起点，拒绝对外国模式的盲目崇拜与生搬硬套。
@@ -149,7 +150,7 @@ updated: 2026-09-03
 > 面对数字信息爆炸与伪科学泛滥，科学态度的核心不再是记忆孤立的科学定理，而是理解科学探索本身的实证逻辑。
 
 > [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026, pp. 30–31)]]
-> **科学不确定性理解与证据质量批判审视** 强调科学知识生成是动态演进的实证探索过程，[[Scientific Literacy|科学素养]]的核心在于具备评估多源证据质量、识别数据偏差以及接纳科学知识暂定性（Provisional Nature）的态度倾向。缺乏对不确定性的理性认知，往往导致公众在面对动态修正的科学共识（如公共卫生危机中的指引调整）时陷入极端怀疑论或反智主义。
+> **[[Scientific Uncertainty|科学不确定性]]理解与证据质量批判审视** 强调科学知识生成是动态演进的实证探索过程，[[Scientific Literacy|科学素养]]的核心在于具备评估多源证据质量、识别数据偏差以及接纳科学知识暂定性（Provisional Nature）的态度倾向。缺乏对不确定性的理性认知，往往导致公众在面对动态修正的科学共识（如公共卫生危机中的指引调整）时陷入极端怀疑论或反智主义。
 
 ---
 

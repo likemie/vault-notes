@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch03"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch03"
 argument_display_title: "Chapter three: Mass media and misinformation"
 argument_kind: "book-chapter"
-argument_related_count: 38
+argument_related_count: 39
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Scientific Attitude]]"
   - "[[Scientific Misinformation]]"
   - "[[Deficit Model of Science Communication]]"
+  - "[[Scientific Uncertainty]]"
   - "[[Confidence Interval]]"
   - "[[Reliability]]"
   - "[[Solutions Journalism]]"
@@ -77,7 +78,7 @@ related_facts:
   - "[[Public Attitudes to Science]]"
 status: draft
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 # Argument_RoyalSociety_2026_ScienceForSociety_Ch03
 
@@ -205,8 +206,8 @@ updated: 2026-09-03
 
 为了精准制定治理策略，必须严格厘清不同层面的信息失真形态及其本质属性差异：
 
-> [!contrast-table] 表3-2：科学虚假信息、恶意操纵信息与科学不确定性对比表（pp. 58–60）
-> | 比较维度 | [[Scientific Misinformation\|科学虚假信息（Scientific Misinformation）]] | 恶意操纵信息（Disinformation） | 科学不确定性（Scientific Uncertainty） |
+> [!contrast-table] 表3-2：科学虚假信息、恶意操纵信息与[[Scientific Uncertainty|科学不确定性]]对比表（pp. 58–60）
+> | 比较维度 | [[Scientific Misinformation\|科学虚假信息（Scientific Misinformation）]] | 恶意操纵信息（Disinformation） | [[Scientific Uncertainty\|科学不确定性（Scientific Uncertainty）]] |
 > |---|---|---|---|
 > | **主观意图** | 通常缺乏主观恶意欺骗动机，多源于对专业证据的误读、片面报道或高校通稿过度营销 | 具有明确的恶意欺骗、政治分裂、商业操纵或损害公共互信的既定意图 | 科学研究探索未知的本质属性，无任何欺骗性质，旨在界定证据[[Confidence Interval\|置信区间]] |
 > | **典型场景** | 社交网络未经核实的养生秘方、误读临床前试验的自媒体推文、夸大功效的通稿 | 化石能源集团资助否认气候变暖宣传战、烟草工业质疑致癌研究、恶意反疫苗公关 | 流行病学模型区间预测、前沿新药临床疗效差异、气候敏感度参数范围估计 |
@@ -337,7 +338,7 @@ updated: 2026-09-03
 > - **制度警示与科研诚信合流** 实证强有力地证明，为了在激烈的大学排名、科研经费分配与媒体曝光度竞争中博取眼球，学术机构与科研管理部门的过度营销（Overselling）才是污染大众科学认知的第一污染源；《自然》（*Nature*, 2024）与发表在《美国国家科学院院刊》（Proceedings of the National Academy of Sciences, PNAS）上的韦斯特和伯格斯特伦（West & Bergstrom, 2021）研究相继呼吁：必须终结科学传播与科研诚信彼此割裂的局面，将对外通稿发布正式纳入科研诚信伦理审查。（pp. 61–62）
 
 > [!evidence-grid] 证据透明与不确定性沟通的实证效能（Kerr et al., 2022, p. 62）
-> - **打破学术界传统顾虑** 科研人员与公关专员往往担忧向公众承认实验局限、数据误差与科学不确定性（Uncertainty）会导致非专业受众产生困惑，甚至削弱公众对科学的权威信任。
+> - **打破学术界传统顾虑** 科研人员与公关专员往往担忧向公众承认实验局限、数据误差与[[Scientific Uncertainty|科学不确定性]]（Scientific Uncertainty）会导致非专业受众产生困惑，甚至削弱公众对科学的权威信任。
 > - **[[Randomised Controlled Trials|随机对照实验]]结论** 克尔等学者发表在《美国国家科学院院刊·连结》（PNAS Nexus）上的随机对照实验表明（Kerr et al., 2022）：无论是采用数值置信区间、文字定性限定词还是证据质量分级，向公众坦诚披露科学证据的局限性与不确定性，**绝不会损害公众对证据事实的信任，也绝不会降低对研究人员本人的信任评价**。（p. 62）
 > - **增强可信赖度感知** 在争议性公共政策议题中，坦诚承认“我们目前所知有限”反而能显著提升公众对科学家群体的诚信度（[[Trustworthiness]]）感知，消除公众对科学家“自大包办”的抵触心理。
 
@@ -410,7 +411,7 @@ updated: 2026-09-03
 > | [[Survey Research]] | 方法 | 运用全国代表性抽样调查（$N=5,281$）与 BBC 受众调研评估公众媒介消费与态度。 |
 > | [[Deficit Model of Science Communication]] | 概念 | 本章反思的传统单向普及[[Paradigm\|范式]]，指出单纯辟谣无法替代系统性信任重构。 |
 > | [[Public Engagement with Science]] | 概念 | 贯穿全书的核心框架，确立双向[[Dialogue in Education\|对话]]、倾听关切与全生命周期参与原则。 |
-> | [[Scientific Literacy]] | 概念 | 本章强调公众理解证据不确定性与同行评议机制是抵御虚假信息的免疫屏障。 |
+> | [[Scientific Literacy]] | 概念 | 本章强调公众理解[[Scientific Uncertainty\|证据不确定性]]与同行评议机制是抵御虚假信息的免疫屏障。 |
 > | [[Generative Artificial Intelligence]] | 概念 | 深度分析生成式 AI 颠覆新闻生产、知识检索带来的双刃剑效应与护栏需求。 |
 > | [[AI Hallucination]] | 概念 | 大语言模型在复杂[[Science Journalism\|科技新闻]]中编造伪证与事实虚构的固有局限。 |
 > | [[Walter Bodmer]] | 人物 | 撰写前言回顾自 1985 年《公众理解科学》报告以来 40 年大众媒体环境的巨变。 |
