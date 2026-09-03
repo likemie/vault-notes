@@ -8,7 +8,7 @@ summary: "国际文凭北美公司长期执行主任，以教育规划和筹资�
 type: person
 nationality: ""
 person_region: "global"
-person_related_count: 5
+person_related_count: 7
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"

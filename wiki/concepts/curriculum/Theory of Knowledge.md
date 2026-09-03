@@ -8,7 +8,7 @@ aliases:
 summary: "IB 文凭项目的跨学科核心必修课程，通过比较知识形成方式、证据标准与认识边界，连接学科学习、个人经验和批判性反思。"
 type: concept
 domain: "curriculum"
-related_count: 69
+related_count: 70
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
