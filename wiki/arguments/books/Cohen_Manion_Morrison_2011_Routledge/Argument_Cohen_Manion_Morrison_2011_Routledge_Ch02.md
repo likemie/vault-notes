@@ -530,7 +530,7 @@ Webb 等（2004）将女性主义原则应用于研究方法论的教学情境�
 > [!note]- 本章的定位说明
 > 本章明确承认[[Post-colonial Theory|后殖民理论]]、[[Queer Theory|酷儿理论]]和批判种族理论也可以被纳入批判理论的伞下，但并未展开它们，只将其列为教育研究者可能希望探索的路径（p.19）。以下为本章提供的简要注记。
 
-> [!info] [[Post-colonial Theory|后殖民理论]]（Post-colonial Theory）
+> [!info] [[Post-colonial Theory|后殖民理论]]（[[Parliamentary Office of Science and Technology|POST]]-colonial Theory）
 > 与[[Postmodernism|后现代主义]]有亲缘性，处理后殖民社会的经验（通常通过电影、文学、文化研究、政治和社会科学）和殖民主义的文化遗产。审视帝国主义、支配和压制的意识形态与话语的后效，包括西方价值观的支配和非西方价值观的去合法化，及其对参与者日常生活经验的实质性影响（materiality）。Said（1978）关于[[Orientalism|东方主义]]的奠基性著作揭示了非西方群体如何被塑造为他者。后殖民理论还讨论后殖民社会中**多元声音和[[Heterogeneity|异质性]]的价值化（Babha, 1994, p. 113）**、对这些社会中群体边缘化的抵抗（p.113）、以及后殖民世界中**身份的建构（pp.412–413）**。
 
 > [!info] [[Queer Theory|酷儿理论]]（Queer Theory）

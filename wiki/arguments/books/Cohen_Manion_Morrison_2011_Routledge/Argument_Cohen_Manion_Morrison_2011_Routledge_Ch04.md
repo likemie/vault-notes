@@ -693,7 +693,7 @@ Reichenbach（1956）和 Salmon（1998）提出了**[[Screening Off|筛选隔离
 
 #### 事后回溯研究与七步过程
 
-Morrison（2009）提出了两种回溯因果推断方法：（a）各种形式的[[Ex Post Facto Research|事后回溯研究]]（ex post facto research，见第15章）；（b）一个七步推理过程（pp.82–83）：
+Morrison（2009）提出了两种回溯因果推断方法：（a）各种形式的[[Ex Post Facto Research|事后回溯研究]]（ex [[Parliamentary Office of Science and Technology|POST]] facto research，见第15章）；（b）一个七步推理过程（pp.82–83）：
 
 > [!proc] 从效果追溯原因的七步过程
 > 1. **确立需要解释的究竟是什么** 明确效果、规律性或现象。

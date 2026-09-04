@@ -136,14 +136,14 @@ updated: '2026-08-27'
 > |:--|:--|:--|:--|
 > | ability | 能力 | achievement | 成就 |
 > | anxiety | 焦虑 | aptitude | [[Achievement and Aptitude Tests\|能力倾向]] |
-> | attainment | 学业成绩 | attitudes and values | 态度与价值观 |
+> | attainment | [[Academic Achievement\|学业成绩]] | attitudes and values | 态度与价值观 |
 > | behavioural disorders | 行为障碍 | competence-based assessment | 能力本位评估 |
 > | computer-based assessment | 计算机化评估 | [[Creativity]] | 创造力 |
 > | [[Critical Thinking\|critical thinking]] | 批判思维 | cross-cultural adjustment | 跨文化适应 |
 > | depression | 抑郁 | diagnostic assessment | 诊断性评估 |
 > | diagnosis of difficulties | 困难诊断 | [[Higher-Order Thinking Skills\|higher order thinking]] | 高阶思维 |
 > | intelligence | 智力 | interest inventories | 兴趣量表 |
-> | introversion and extraversion | 内外向 | language proficiency tests | 语言能力测验 |
+> | introversion and extraversion | 内外向 | [[Language Skills\|language proficiency]] tests | 语言能力测验 |
 > | learning disabilities | 学习障碍 | [[Locus of Control\|locus of control]] | 控制点 |
 > | motivation and interest | 动机与兴趣 | neuropsychological assessment | 神经心理学评估 |
 > | performance | 表现 | performance in school subjects | 学校科目成绩 |

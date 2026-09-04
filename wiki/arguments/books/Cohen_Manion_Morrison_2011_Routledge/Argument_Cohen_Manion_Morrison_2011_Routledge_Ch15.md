@@ -309,7 +309,7 @@ Ary et al.（2009, p. 335）进一步将这两种路径分别命名为前瞻性�
 
 #### 事后归因谬误（post hoc, ergo propter hoc）
 
-> [!warning] [[Post Hoc Ergo Propter Hoc Fallacy|事后归因谬误]]（post hoc, ergo propter hoc fallacy）
+> [!warning] [[Post Hoc Ergo Propter Hoc Fallacy|事后归因谬误]]（[[Parliamentary Office of Science and Technology|POST]] hoc, ergo propter hoc fallacy）
 > 因果关系常常建立在脆弱的基础上：仅因某变量先于所研究的现象发生，就假定它是原因（在此之后，因此因为此，after this, therefore because of this）。仅因一个变量在时间上先于另一个，并不意味前者引发了后者（p. 309）。
 
 > [!case] 咖啡与失眠
@@ -484,7 +484,7 @@ Ary et al.（2009, p. 335）进一步将这两种路径分别命名为前瞻性�
 > [!citation-card]- 从结果逆向搜索原因
 > [[Ex Post Facto Research|事后回溯研究]]字面意为事后（after the fact）；在社会和教育研究中，指回溯性地研究可能的因果-效应关系，通过观察已存在的条件或状态，逆时间搜索可能的因果因素。（第15章，p. 304）
 >
-> *Ex post facto means 'after the fact' ... In the context of social and educational research the phrase means 'retrospectively' and refers to those studies which investigate possible cause-and-effect relationships by observing an existing condition or state of affairs and searching back in time for plausible causal factors.*
+> *Ex [[Parliamentary Office of Science and Technology|POST]] facto means 'after the fact' ... In the context of social and educational research the phrase means 'retrospectively' and refers to those studies which investigate possible cause-and-effect relationships by observing an existing condition or state of affairs and searching back in time for plausible causal factors.*
 
 > [!citation-card]- 概率性因果：试探性推断，无法确定性展示
 > 只能报告已发生或正在发生的事情，通过谨慎关注抽样来设法将因素保持不变。自[[Variable|变量]]无法像在真正实验中那样被操纵，因为它们已经发生。因此推断在概率性[[Causality|因果关系]]的领域内进行：试探性地推断原因，无法确定性地展示因果关系。（第15章，p. 304）

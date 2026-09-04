@@ -641,7 +641,7 @@ Teddlie & Tashakkori (2009)提出了六种设计(pp.685–696)，构成了一套
 
 > [!contrast-table] 后实证主义 vs [[Postmodernism|后现代主义]] vs [[Post-structuralism|后结构主义]]
 >
-> | 维度 | 后实证主义(Post-positivism) | 后现代主义(Postmodernism) | 后结构主义(Post-structuralism) |
+> | 维度 | 后实证主义([[Parliamentary Office of Science and Technology\|POST]]-positivism) | 后现代主义(Postmodernism) | 后结构主义(Post-structuralism) |
 > |---|---|---|---|
 > | **实在观** | 客观实在仍存在，但采取多元观点——多重共存的实在；另一取向则与现象学亲缘，主张主观诠释的中心地位(pp.733–734) | 多重实在(及多重浅表性)，个体解释与意义具有正当性；知识是人的社会建构(Jameson, 1991)(pp.752–759) | 不存在单一的"本质"意义——现象中内嵌不同的意义层次，某些意义被特权化而其他被忽视(pp.774–775) |
 > | **知识观** | 知识是推测性的(conjectural)、可证伪的、可挑战的、变化中的(Popper, 1968)；事实和观察是理论负载和价值负载的(Popper, 1980; Feyerabend, 1975)(pp.731–732) | 相对主义而非绝对主义——什么构成有价值的知识取决于视角和立场；拒绝普遍法则和宏大叙事(pp.755–759) | 知识和意义通过话语(discourses)被生产、合法化和使用；数据甚至[[Artefact\|人工制品]]都可视为文本，对不同的意义和解释开放(Francis, 2010)(p.773) |

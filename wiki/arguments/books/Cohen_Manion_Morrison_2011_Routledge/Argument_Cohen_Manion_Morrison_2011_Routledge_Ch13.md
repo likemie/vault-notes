@@ -582,7 +582,7 @@ Borg & Gall (1979, p. 291)对队列研究和面板研究做出了关键区分。
 > [!example]- 表 13.2：纵向、横截面、趋势分析和回溯性纵向研究的特征、优势与弱点
 > > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Table_13-2_Characteristics_Strengths_and_Weaknesses.jpg)
 >
-> 该表汇总了四种研究设计在特征、优势和弱点维度的系统比较（pp.272–273，另见 Rose & Sullivan, 1993, p. 184–188）。回溯性纵向研究的若干优势与弱点与第15章讨论的[[Ex Post Facto Research|事后回溯研究]]（ex post facto research）共享相同特征。
+> 该表汇总了四种研究设计在特征、优势和弱点维度的系统比较（pp.272–273，另见 Rose & Sullivan, 1993, p. 184–188）。回溯性纵向研究的若干优势与弱点与第15章讨论的[[Ex Post Facto Research|事后回溯研究]]（ex [[Parliamentary Office of Science and Technology|POST]] facto research）共享相同特征。
 
 ---
 
