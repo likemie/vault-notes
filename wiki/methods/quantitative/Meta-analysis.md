@@ -6,7 +6,7 @@ summary: "通过汇总多项独立初级研究的效应量来综合定量证据�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 76
+method_related_count: 77
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -81,17 +81,18 @@ related_methods:
 related_persons:
   - "[[Gene Glass]]"
   - "[[Karl Pearson]]"
-related_facts: []
+related_facts:
+  - "[[What Works Clearinghouse]]"
 related_arguments:
   - "[[Argument_Higgins_2016_RE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17]]"
   - "[[Argument_Wiliam_2019_ERE]]"
   - "[[Argument_Wrigley_2019_ERE]]"
+  - "[[Argument_Chen_Cheung_2025_ERR]]"
   - "[[Argument_Liu_2026_CHBR]]"
   - "[[Argument_Berk_2011_ER]]"
   - "[[Argument_Simpson_2017_JEP]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
-  - "[[Argument_Chen_Cheung_2025_ERR]]"
   - "[[Argument_Lei_Ding_Chiu_2026_ERR]]"
   - "[[Argument_Abrami_2015_RER]]"
   - "[[Argument_Park_2026_TSC]]"
@@ -146,7 +147,7 @@ updated: 2026-09-04
 flowchart LR
     subgraph Core["<b>元分析全流程统计体系</b>"]
         direction LR
-        ES["<b>1. 效应量与精度度量</b><br>Cohen's d, Hedges' g, Pearson r, Fisher z"] --> W["<b>2. 逆方差加权建模</b><br>固定效应 vs 随机效应 (DerSimonian-Laird τ²)"]
+        ES["<b>1. 前置质控与效应量度量</b><br>基线等效 (d < 0.25) · Hedges' g, Pearson r"] --> W["<b>2. 逆方差加权建模</b><br>固定效应 vs 随机效应 (DerSimonian-Laird τ²)"]
         W --> H["<b>3. 异质性量化与检验</b><br>Cochran's Q, Higgins I², 95% 预测区间 PI"]
         H --> V["<b>4. 证据可视化</b><br>森林图 (Forest Plot), 漏斗图 (Funnel Plot)"]
         V --> PB["<b>5. 偏倚与敏感性诊断</b><br>Egger 检验, 剪补法, 经典/Orwin 失安全数, 留一法"]
@@ -157,6 +158,7 @@ flowchart LR
 > [!contrast-table] 元分析核心统计方法与参数索引矩阵
 > | 统计参数 / 方法条目 | 核心数学符号与公式 | 统计学功能与解决的痛点 | 决策阈值与研判准则 | 深度条目索引 |
 > |---|---|---|---|---|
+> | **[[What Works Clearinghouse\|基线等效性标准化均数差（Baseline SMD / d_baseline）]]** | $d_{\text{baseline}} = \frac{\bar{X}_{T, \text{pre}} - \bar{X}_{C, \text{pre}}}{SD_{\text{pooled}}}$ | 实验与准实验初级研究的前端准入门槛，杜绝初始能力异质性与选择偏倚污染合并效应量。 | $|d| \le 0.05$ 免调；$0.05 < |d| \le 0.25$ 必须经协变量（ANCOVA）校正；$|d| > 0.25$ 坚决剔除（WWC 2022 / Slavin 2009 准则）。 | 🔗 [[What Works Clearinghouse]] · [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] |
 > | **[[Inverse-Variance Weighting\|逆方差加权（IVW）]]** | $w_i = \frac{1}{v_i}$ 或 $w_i^* = \frac{1}{v_i + \tau^2}$ | 依据研究精度的倒数分配权重，实现合成估计量方差最小化与最佳线性无偏估计（BLUE）。 | 95% CI 不跨 0 判定效应显著；对比固定与随机权重差异评估小研究权重膨胀风险。 | 🔗 [[Inverse-Variance Weighting]] |
 > | **[[Fixed-Effect and Random-Effects Models\|固定与随机效应模型]]** | 固定：$\theta_i = \theta + \epsilon_i$<br>随机：$\theta_i = \mu + u_i + \epsilon_i$ | 固定模型假定共享单一真实效应；随机模型纳入研究间异质性方差 $\tau^2$，外推至广义总体。 | $Q$ 检验显著或 $I^2 > 25\%$ 时必须优先采用随机效应模型。 | 🔗 [[Fixed-Effect and Random-Effects Models]] |
 > | **[[Between-Study Variance\|研究间方差（Tau² / τ²）]]** | $\hat{\tau}^2 = \frac{Q - (k-1)}{\sum w_i - \frac{\sum w_i^2}{\sum w_i}}$ | 衡量超出[[Sampling Error\|抽样误差]]之外的跨研究真实效应离散度（DerSimonian & Laird 矩估计量或 REML）。 | $\tau^2 = 0$ 退化为固定效应；$\tau^2 > 0$ 表明真实效应存在实质变异。 | 🔗 [[Between-Study Variance]] |
@@ -179,16 +181,17 @@ flowchart LR
 
 ```mermaid
 flowchart LR
-    A["<b>1. 编码质控与效应量提取</b><br>Holsti 信度检验 · 统一量纲<br>🔗 [[Effect Size]]"] --> B["<b>2. 逆方差加权合成</b><br>固定 vs 随机效应<br>🔗 [[Fixed-Effect and Random-Effects Models]]"]
+    A["<b>1. 基线质控与效应量提取</b><br>基线等效 (WWC 门槛) · Holsti 信度<br>🔗 [[What Works Clearinghouse]]"] --> B["<b>2. 逆方差加权合成</b><br>固定 vs 随机效应<br>🔗 [[Fixed-Effect and Random-Effects Models]]"]
     B --> C["<b>3. 异质性量化分解</b><br>Q 检验 · τ² · I²<br>🔗 [[Between-Study Variance]]"]
     C --> D["<b>4. 偏倚与多重稳健性检验</b><br>漏斗图 · 剪补法 · 失安全数 · 留一法<br>🔗 [[Funnel Plot]]"]
     D --> E["<b>5. 调节分析与情境解释</b><br>亚组检验 · 元回归 · 预测区间<br>🔗 [[Meta-regression]]"]
 ```
 
 > [!proc] 统计建模五步闭环
-> 1. **[[Coding in Qualitative Research|编码]]质控、效应量标准化与精度提取**
->    - 多名研究者独立进行特征与效应量编码，采用 Holsti（1969）[[Reliability|信度]]公式（$R = \frac{nM}{\sum N_i}$）检验[[Intercoder Agreement|编码者间一致性]]信度（通常要求 $R > 0.90$）；
->    - 将不同[[Scale of Measurement|测量尺度]]的初级研究结果转换为标准化的效应量（如 Hedges' $g$、Pearson $r$）并计算对应的抽样方差 $v_i$；小样本时采用 Hedges 校正因子消除正向偏倚。
+> 1. **初级研究准入门槛、基线等效性审查与效应量标准化**
+>    - **基线等效性前置筛查** 对纳入的准实验（QED）与高流失随机对照试验，必须提取前测数据并计算基线等效性标准化均数差 $d_{\text{baseline}}$。严格执行 [[What Works Clearinghouse|WWC 2022]] 与 Slavin & Smith (2009) 门槛：$|d| > 0.25$ 者即刻剔除（两组潜在能力分布质性相异，ANCOVA 统计校正失效），介于 $0.05$ 至 $0.25$ 之间者必须在模型中控制前测协变量；无前测研究必须证明实施了严格的随机分配；
+>    - **测量工具信效度审查** 排除测量工具与实验干预过度重叠的自利性自编测验，防范虚假效应量膨胀；
+>    - **编码质控与量纲统一** 多名研究者独立进行特征与效应量编码，采用 Holsti（1969）[[Reliability|信度]]公式（$R = \frac{nM}{\sum N_i}$）检验[[Intercoder Agreement|编码者间一致性]]信度（通常要求 $R > 0.90$）；将不同[[Scale of Measurement|测量尺度]]的初级研究结果转换为标准化的效应量（如 Hedges' $g$、Pearson $r$）并计算对应的抽样方差 $v_i$；小样本时采用 Hedges 校正因子消除正向偏倚。
 > 2. **加权合成与模型抉择** 依据精度倒数进行[[Inverse-Variance Weighting|逆方差加权]]。若假定存在单一恒定真实效应，采用固定效应模型（$w_i = 1/v_i$）；若假定真实效应随人群和情境变化，采用随机效应模型（$w_i^* = 1/(v_i + \tau^2)$）以实现权重再平衡。详见 [[Fixed-Effect and Random-Effects Models]]。
 > 3. **[[Heterogeneity|异质性]]检验与三联量化** 
 >    - **[[Hypothesis|假设]]检验** 通过 Cochran's [[Cochran's Q Test|Q 检验]]（$Q \sim \chi^2_{k-1}$）判定效应量离散是否显著超出抽样随机误差；
@@ -271,6 +274,7 @@ flowchart LR
 > [!warning] 核心批判维度导览
 > 1. **研究可比性危机（“苹果与橙子”问题）** 将不同干预定义、测量工具与实施情境的研究强行平均，产生无意义的统计噪音（Eysenck, 1978; [[Argument_Higgins_2016_RE|Higgins, 2016]]）。
 > 2. **输入质量决定论（“垃圾进，垃圾出”）** 低质量、高偏倚的初级研究合并后不仅不能相互抵消，反而会产生虚假的“高精度错误估计”（Slavin, 1984; [[Argument_Berk_2011_ER|Berk, 2011]]）。
+>    - *现代破局防线* 当代循证元分析（如 [[Argument_Chen_Cheung_2025_ERR|Chen & Cheung, 2025]]）通过确立严格的前端实验设计准入门槛（样本量每组 $\ge 15$、设立对照组、基线等效性 $d_{\text{baseline}} < 0.25$），构建了抵御低质偏倚的方法学防火墙；实证研究证实该门槛能有效消除准实验与 RCT 之间的系统性效应差异（$Q_B$ 组间异质性检验不显著），实现证据池的源头净化。
 > 3. **统计独立性[[Hypothesis|假设]]违背** 同一研究提供多重结局测量造成数据嵌套依赖，人为虚窄[[Standard Error|标准误]]（Wolf, 1986; Cheung, 2014）。
 > 4. **平均效应掩盖[[Heterogeneity|异质性]]与因果机制** 平均[[Effect Size|效应量]]无法回答“干预对谁有效、在何种情境下有效”，可能掩盖高达 38% 的负向效应子群（Kluger & DeNisi, 1996; [[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019]]）。
 > 5. **政策工具排名的伪精确性** 将效应量简化为《[[Visible Learning|可见的学习]]》气压计或排行榜，误导教育资源配置（[[Argument_Wiliam_2019_ERE|Wiliam, 2019]]; [[Argument_Simpson_2017_JEP|Simpson, 2017]]）。
@@ -293,6 +297,7 @@ flowchart LR
 > [!entry-map]
 > | 条目 | 类型 | 关系说明 |
 > |---|---|---|
+> | [[What Works Clearinghouse]] | 证据评价标准 | 确立教育因果推断、实验等效性（0.25 SD 门槛）与证据评级基准的旗舰清算中心 |
 > | [[Inverse-Variance Weighting]] | 核心算法 | 元分析中最基础的最优精度加权方法 |
 > | [[Fixed-Effect and Random-Effects Models]] | 统计模型 | 固定与随机效应两类基础建模[[Paradigm\|范式]] |
 > | [[Three-Level Meta-Analysis]] | 高阶扩展 | 处理研究内多重[[Effect Size\|效应量]]嵌套依赖的多层模型 |
