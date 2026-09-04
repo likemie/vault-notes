@@ -10176,6 +10176,17 @@
     ]
   },
   {
+    "title": "Upstream Public Engagement",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Upstream Public Engagement.md",
+    "aliases": [
+      "上游公众参与",
+      "上游参与",
+      "upstream engagement",
+      "上游公众参与科学"
+    ]
+  },
+  {
     "title": "Value Conformist Mode",
     "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Value Conformist Mode.md",
@@ -18763,6 +18774,16 @@
     ]
   },
   {
+    "title": "National Co-ordinating Centre for Public Engagement",
+    "type": "fact",
+    "path": "wiki/facts/uk/National Co-ordinating Centre for Public Engagement.md",
+    "aliases": [
+      "NCCPE",
+      "英国国家公众参与协调中心",
+      "国家公众参与协调中心"
+    ]
+  },
+  {
     "title": "Education Endowment Foundation",
     "type": "fact",
     "path": "wiki/facts/uk/Education Endowment Foundation.md",
@@ -18950,6 +18971,16 @@
     "aliases": [
       "EBTN",
       "证据本位教师网络"
+    ]
+  },
+  {
+    "title": "Factors Affecting Public Engagement by UK Researchers",
+    "type": "fact",
+    "path": "wiki/facts/uk/Factors Affecting Public Engagement by UK Researchers.md",
+    "aliases": [
+      "英国科研人员公众参与影响因素调查",
+      "Factors Affecting Public Engagement Survey",
+      "FAPE"
     ]
   },
   {
@@ -21308,6 +21339,11 @@
     "title": "Argument_RoyalSociety_2026_ScienceForSociety_Ch05",
     "type": "argument",
     "path": "wiki/arguments/reports-policy-documents/RoyalSociety_2026_ScienceForSociety/Argument_RoyalSociety_2026_ScienceForSociety_Ch05.md"
+  },
+  {
+    "title": "Argument_RoyalSociety_2026_ScienceForSociety_Ch06",
+    "type": "argument",
+    "path": "wiki/arguments/reports-policy-documents/RoyalSociety_2026_ScienceForSociety/Argument_RoyalSociety_2026_ScienceForSociety_Ch06.md"
   },
   {
     "title": "Argument_OxfordUIDP_2019_UIPartnerships",
