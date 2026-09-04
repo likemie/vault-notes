@@ -135,7 +135,7 @@ citation_aliases:
 >
 > 因此 EBE 产生的结果 **"对政策制定者透明，对教学专业人员不相关"**——它解决了主权者的委托问题，但牺牲了教育实践的有效性。
 >
-> > “在证据使用上挑挑拣拣是很容易的……但是，政策制定者越来越多地不仅决定承认哪些证据、忽略哪些证据。他们现在制定政策来界定首先什么类型的研究证据值得生产。”
+> > “在[[Research Utilization|证据使用]]上挑挑拣拣是很容易的……但是，政策制定者越来越多地不仅决定承认哪些证据、忽略哪些证据。他们现在制定政策来界定首先什么类型的研究证据值得生产。”
 > ("Being selective about one's use of evidence is easy enough... But, increasingly, policymakers do more than determine what evidence to acknowledge and which to ignore. They now develop policies defining what sort of research evidence is worth producing in the first place.") (pp. 2–3)
 >
 > ### 4. 系统层面的盲区

@@ -200,7 +200,7 @@ updated: '2026-08-19'
 > >     R --> R3["研究管理与伦理 (Management)"]
 > > 
 > >     C --> C1["原则与受众表达 (Principles)"]
-> >     C --> C2["媒介与语言技能 (Media/Language)"]
+> >     C --> C2["媒介与[[Language Skills|语言技能]] (Media/Language)"]
 > >     C --> C3["学术发表与教学指导"]
 > >     C --> C4["公众参与、政策与商业化"]
 > > 

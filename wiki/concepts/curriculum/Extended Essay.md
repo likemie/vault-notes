@@ -130,7 +130,7 @@ updated: 2026-08-22
 > 大学准备不仅包括已经掌握的学科内容，也包括能否管理长期任务、独立判断资料、维持论证并完成规范写作。
 
 > [!claim] Metli, A. & Akış, D.
-> **研究经验支持高等教育过渡** 既有研究把 EE 与[[Critical Thinking|批判性思维]]、独立思考、自我调节和探究式学习联系起来。学生借此熟悉大学所需的研究与写作方法；与大学先修课程（Advanced Placement，AP）学生的比较还发现，EE 成绩与大学平均绩点（Grade Point Average，[[Academic Achievement|GPA]]）存在显著正相关。早期参与者也曾把 EE 评价为进入大学后最有帮助的 [[IB Diploma Programme|IBDP]] 经历之一。Wray、Aulls 与 Lemay、Inkelas 等研究见 [[Argument_Metli_2022_IJER|Metli & Akış (2022, p. 220)]]；早期学生反馈见 [[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, p. 45)]]。
+> **研究经验支持高等教育过渡** 既有研究把 EE 与[[Critical Thinking|批判性思维]]、独立思考、自我调节和探究式学习联系起来。学生借此熟悉大学所需的研究与写作方法；与大学先修课程（[[Advanced Placement Program|Advanced Placement]]，AP）学生的比较还发现，EE 成绩与大学平均绩点（Grade Point Average，[[Academic Achievement|GPA]]）存在显著正相关。早期参与者也曾把 EE 评价为进入大学后最有帮助的 [[IB Diploma Programme|IBDP]] 经历之一。Wray、Aulls 与 Lemay、Inkelas 等研究见 [[Argument_Metli_2022_IJER|Metli & Akış (2022, p. 220)]]；早期学生反馈见 [[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, p. 45)]]。
 
 ### 命题总览
 

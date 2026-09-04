@@ -56,7 +56,7 @@ updated: '2026-07-04'
 > - **常规谜题（Normal-puzzle topics）**
 >   学科日常运转的核心“业务”，侧重于对学校系统及其各个组成部分的运转和常规政策改革分析。具体包括学前、初等、中等教育、考试、课程、教师教育、职业培训、质量衡量以及新型教学技术。
 > - **热门主题（Hot topics）**
->   学者关注度极高且持续升温的领域。具体包括性别与种族（如女孩教育专刊），以及以“后”（post-）为标志的时尚理论，如[[Posthumanism|后人类主义]]理论或系统装配（assemblages）视角。
+>   学者关注度极高且持续升温的领域。具体包括性别与种族（如女孩教育专刊），以及以“后”（[[Parliamentary Office of Science and Technology|POST]]-）为标志的时尚理论，如[[Posthumanism|后人类主义]]理论或系统装配（assemblages）视角。
 > - **突破性主题（Break-through themes）**
 >   突然显性化且直穿未来的变革议题。包括控制与治理模式变迁、数据霸权、后殖民主义与全球南方、[[PISA]] 测试批判、民族主义概念重建，以及人工智能（AI）尤其是智能[[Dialogue in Education|对话]]机器人（如 ChatGPT）带来的急剧技术变革。
 > - **冷门主题与重大沉默（Cold topics / Major silences）**

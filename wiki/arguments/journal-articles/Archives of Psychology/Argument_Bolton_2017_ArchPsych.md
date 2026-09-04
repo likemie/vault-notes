@@ -161,7 +161,7 @@ citation_aliases:
 > - **抑制功能的跳跃（延迟满足与日夜任务）**
 > - *糖果延迟满足任务 (Treat Delay Task)*：卡尔森 (Carlson, 2005) 发现，2岁儿童仅 50% 能坚持等待 20 秒不吃糖；而 3 岁儿童则有 85% 能坚持等待 1 分钟。
 > - *日夜任务 (Day-Night Task)*：要求看到月亮说“日”，看到太阳说“夜”。4岁是一个绝对的 Hinge Point，4岁以下儿童觉得极度困难，而 4岁以上儿童则能轻易完成，体现了主动压制优势反应的抑制控制 ([[Cognitive Inhibition]]) 能力的跳跃。
-> - **认知转换的阻碍（DCCS 任务）** 维度变化卡片分类任务 (DCCS) 要求按颜色或形状分类卡片。3-4岁儿童在 切换前 (Pre-switch)（如按颜色）完美通关，但在 切换后 (Post-switch)（要求改按形状分类）时遇到极强的 [[Attentional Inertia|注意力惯性]] (Attentional Inertia) 而失败（p.11）。即使 3 岁儿童能流利说出新规则，手指却依然把卡片分类到旧维度下。这与额叶受损成人的“言行脱节”表现一致，直到 5 岁时多数儿童才能完成转换。
+> - **认知转换的阻碍（DCCS 任务）** 维度变化卡片分类任务 (DCCS) 要求按颜色或形状分类卡片。3-4岁儿童在 切换前 (Pre-switch)（如按颜色）完美通关，但在 切换后 ([[Parliamentary Office of Science and Technology|POST]]-switch)（要求改按形状分类）时遇到极强的 [[Attentional Inertia|注意力惯性]] (Attentional Inertia) 而失败（p.11）。即使 3 岁儿童能流利说出新规则，手指却依然把卡片分类到旧维度下。这与额叶受损成人的“言行脱节”表现一致，直到 5 岁时多数儿童才能完成转换。
 > - **更新功能的脑与行为变化** 有声书任务 (Noisy Book Task)（按动物声音按钮并重复序列）显示3-4岁更新能力记增。数字广度任务 (Digit Span Task) 在4-6岁显著增长（倒背从1.58个词增加到2.88个词）（pp.10-11）。
 
 > [!line-b] 脑发育生理机制
@@ -173,7 +173,7 @@ citation_aliases:
 
 ### 步骤三：具体运算阶段（7-11岁）—— frontostriatal 环路形成与 EF 走向成熟
 
-在 7–11 岁，儿童掌握了守恒原理 (Conservation) 与类包含任务 (Class Inclusion Task)，思维变得更加灵活，能同时组合多维视角。这一认知灵活性在 10 岁左右达到一个临界点 (Tipping Point)（大多可达成人水平），这在生理上对应着 PFC 灰质体积达峰与额纹状体 (Frontostriatal) 神经环路的迅速成熟（p.12, p.13）。
+在 7–11 岁，儿童掌握了守恒原理 (Conservation) 与类包含任务 (Class Inclusion Task)，思维变得更加灵活，能同时组合多维视角。这一[[Cognitive Flexibility|认知灵活性]]在 10 岁左右达到一个临界点 (Tipping Point)（大多可达成人水平），这在生理上对应着 PFC 灰质体积达峰与额纹状体 (Frontostriatal) 神经环路的迅速成熟（p.12, p.13）。
 
 > [!line-a] 行为表征与实验案例
 > - **抑制与转换的线性飞跃** 抑制和认知转换在 7–11 岁表现出平稳的线性提升，并在 11 岁时基本成熟（p.13）。例如 Go/No-Go任务 (Go/No-Go Task) 中，8岁儿童极易因无法克制而按下 No-Go 键，而 10–12 岁儿童的抑制能力已接近成人。

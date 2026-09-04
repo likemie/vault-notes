@@ -99,7 +99,7 @@ citation_aliases:
 >
 > **组件二：改进和探究网络融入"什么有效"基础设施**
 >
-> [[Snowball Sampling|网络化]]改进社区(Bryk et al., 2015)和[[Spirals of Inquiry|探究螺旋]](Timperley, Halbert, & Kaser, 2014)不仅增加证据使用的可能性，而且提高实施质量——通过建立反馈循环将注意力集中在真实的变化机制（学习者的感知和行为变化），而非要实施的程序协议(p. 306–307)。
+> [[Snowball Sampling|网络化]]改进社区(Bryk et al., 2015)和[[Spirals of Inquiry|探究螺旋]](Timperley, Halbert, & Kaser, 2014)不仅增加[[Research Utilization|证据使用]]的可能性，而且提高实施质量——通过建立反馈循环将注意力集中在真实的变化机制（学习者的感知和行为变化），而非要实施的程序协议(p. 306–307)。
 >
 > ### 结论：共享的"构建块"作为整合媒介
 >

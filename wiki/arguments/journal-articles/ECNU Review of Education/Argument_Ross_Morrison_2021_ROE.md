@@ -86,7 +86,7 @@ citation_aliases:
 ## 研究方法
 
 > [!info] 研究方法
-> - 方法：[[Literature Review|文献综述]]加案例说明。前半部分梳理教育证据使用中的标准、限制和消费者偏好；后半部分用巴尔的摩郡公立学校 [[Students and Teachers Accessing Tomorrow|STAT]] [[Technology Infusion|技术整合]]项目展示复杂系统中证据如何被生成、解释和争议化(pp.109-110, 113-115)。
+> - 方法：[[Literature Review|文献综述]]加案例说明。前半部分梳理教育[[Research Utilization|证据使用]]中的标准、限制和消费者偏好；后半部分用巴尔的摩郡公立学校 [[Students and Teachers Accessing Tomorrow|STAT]] [[Technology Infusion|技术整合]]项目展示复杂系统中证据如何被生成、解释和争议化(pp.109-110, 113-115)。
 > - 案例资料：STAT 评价使用教师[[Questionnaire|问卷]]、学生[[Focus Group|焦点小组]]、校长与教师访谈、课堂观察、学校行为数据和英语语言艺术与数学成就数据；项目在 2014-2015 至 2018-2019 年分批扩展到全学区(pp.115-118)。
 > - 研究定位：不是为了证明 STAT 的单一因果效应，而是展示综合性改革中[[Formative Program Evaluation|形成性项目评价]]、[[Logic Model|逻辑模型]]和多方解释如何共同影响项目持续性(pp.121-124)。
 
@@ -170,7 +170,7 @@ citation_aliases:
 ## 主要发现
 
 > [!success] 主要发现
-> ### 关于证据使用
+> ### 关于[[Research Utilization|证据使用]]
 > 1. 实践者虽然被鼓励使用严格证据，但在产品选择上常更偏好同伴推荐和本地试点，因为这些来源更能回答地方实施、使用体验、成本和适配问题(pp.120-121)。
 > 2. 证据审查若只报告[[Statistical Significance|统计显著性]]和[[Effect Size|效应量]]，容易遗漏成本、实施要求、用户满意度、情境特征和研究局限等实践者实际需要的信息(p.121)。
 >
@@ -203,7 +203,7 @@ citation_aliases:
 > 该文的案例说明依赖作者自身作为外部评价者的经验，因此对 [[Students and Teachers Accessing Tomorrow|STAT]] 的解释带有评价参与者视角；文章也明确承认，由于项目多组件、缺乏纯控制条件，并与学区其他课程项目混杂，不能证明 STAT 的因果效果(p.124)。
 
 > [!warning] 局限性与批评
-> 文章对“[[Absorptive Capacity|吸收能力]]”和利益相关者解释的讨论具有启发性，但没有把这些因素[[Operationalization|操作化]]为可比较指标。因此，它更适合作为复杂改革评价的解释性案例，而不是可直接推广的证据使用模型(pp.122-124)。
+> 文章对“[[Absorptive Capacity|吸收能力]]”和利益相关者解释的讨论具有启发性，但没有把这些因素[[Operationalization|操作化]]为可比较指标。因此，它更适合作为复杂改革评价的解释性案例，而不是可直接推广的[[Research Utilization|证据使用]]模型(pp.122-124)。
 
 ## 来源
 

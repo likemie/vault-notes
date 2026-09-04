@@ -262,7 +262,7 @@ citation_aliases:
 > [!citation-card]- 课程重组的终极目的
 > 2020年后对[[General Education|通识教育]]和[[Citizenship and Social Development|公民与社会发展科]]的全面改革标志着一种决定性的转变，即从强调培养对负责任地行使参与式公民权至关重要的品质，转向强加一种将香港视为中国人的同质化、总体化的愿景。（p.154）
 >
-> *“The post-2020 overhaul of the curriculum for [[Liberal Studies]] / CSD signals a decisive shift from an emphasis on fostering qualities … essential to the responsible exercise of participatory citizenship, towards imposition of a homogenous and totalising vision of Hong Kong-as-Chinese.”*
+> *“The [[Parliamentary Office of Science and Technology|POST]]-2020 overhaul of the curriculum for [[Liberal Studies]] / CSD signals a decisive shift from an emphasis on fostering qualities … essential to the responsible exercise of participatory citizenship, towards imposition of a homogenous and totalising vision of Hong Kong-as-Chinese.”*
 
 > [!citation-card]- 青年异化的心理学消解
 > 与此同时，官方话语将青年的疏离感简化为个体心理异常的问题。随着对既定秩序的批评如今被定性为叛国并被宣布为非法，对公众不满的解释就必须在私人或个体适应不良的层面上去寻找了。（p.154）

@@ -169,7 +169,7 @@ updated: 2026-07-13
 
 > [!features] 前后转移能动性
 > - **[[Pre-Transfer Agency|前转移能动性]]（Pre-Transfer Agency）** 外国范例引入之初的引入者及其动机，涉及官员、政策倡导者、智库及外部评估发布方。([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 229]])
-> - **后转移能动性（Post-Transfer Agency）** 政策引进实施阶段本土学校、教师和社区的阻力与自发情境重构行为。
+> - **后转移能动性（[[Parliamentary Office of Science and Technology|POST]]-Transfer Agency）** 政策引进实施阶段本土学校、教师和社区的阻力与自发情境重构行为。
 
 ### 借用行为的特征
 

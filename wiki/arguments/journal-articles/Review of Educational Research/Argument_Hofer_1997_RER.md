@@ -323,7 +323,7 @@ Schommer (1990) 编制了包含 63 个题目的量表，提取出了四到五个
 
 > [!implication]- 对未来研究的影响
 > 1. **[[Domain Specificity|领域特殊性]]（domain specificity）** 未来的研究需要探索[[Epistemological Theories|认识论理论]]在不同学科（如数学与历史）中是否表现出特殊性。
-> 2. **与动机和学习的联系** [[Epistemological Beliefs|认识论信念]]可作为学生自我调节学习的目标或标准。例如，认为知识简单的学生，可能更倾向于[[Rote Learning|死记硬背]]，而不去采用深度精加工的策略。
+> 2. **与动机和学习的联系** [[Epistemological Beliefs|认识论信念]]可作为学生[[Self-Regulated Learning|自我调节学习]]的目标或标准。例如，认为知识简单的学生，可能更倾向于[[Rote Learning|死记硬背]]，而不去采用深度精加工的策略。
 > 3. **情境与文化的影响** 已有模型绝大多数基于西方高等教育背景，其终极发展目标（[[Reflexivity|反思性]]判断、高度自主建构）可能带有西方个人主义与论辩文化的印记，未来需要纳入更多跨文化和少数群体的视角。
 
 ---

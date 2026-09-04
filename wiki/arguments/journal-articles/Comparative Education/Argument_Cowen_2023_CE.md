@@ -223,7 +223,7 @@ citation_aliases:
 > [!chain-link] 证据到判断
 > - **[[Hierarchy of Future Issues in Comparative Education|未来议题分类原则]]** 决定学科智识命运与前瞻方向的五个核心议题层级：
 >   1. **常规谜题 (Normal-puzzle topics)** 学科日常运转的核心业务，侧重于对学校系统及其各个组成部分的运转和改革分析。具体包括：学前教育、初等教育、中等教育、考试、课程、教师教育、职业技术教育、衡量学校与大学质量、以及新型教学技术。(p.329, p.330)
->   2. **热门主题 (Hot topics)** 产出极其丰厚、学者关注度极高且将持续维持热度的领域。具体包括：种族与性别（例如 Unterhalter 于 2023 年编辑的女孩教育专刊），以及各种以“后”（post）为标志的新理论研究，如后社会主义、后现代、[[Posthumanism|后人类主义]]理论，以及系统装配 (assemblages) 解释视角。
+>   2. **热门主题 (Hot topics)** 产出极其丰厚、学者关注度极高且将持续维持热度的领域。具体包括：种族与性别（例如 Unterhalter 于 2023 年编辑的女孩教育专刊），以及各种以“后”（[[Parliamentary Office of Science and Technology|POST]]）为标志的新理论研究，如后社会主义、后现代、[[Posthumanism|后人类主义]]理论，以及系统装配 (assemblages) 解释视角。
 >   3. **突破性主题 (Break-through themes)** 近年[[Emergence|涌现]]、不仅突然显性化且直穿未来的突破性议题。具体包括：治理与控制模式 (governance and modes of control)；数据霸权；后殖民主义与全球南方 (post-colonialism and the Global South)；[[PISA]] 等国际测试批判；从全球化洪流中重新解救民族主义概念；以及人工智能尤其是智能[[Dialogue in Education|对话]]机器人（如 ChatGPT）带来的急剧技术变革与行业恐慌。
 >   4. **冷门主题与重大沉默 (Cold topics / Major silences)** 学科历史上面对重大地缘政治剧变却长期失声、几乎从未进入学术过去的冷门领域。具体包括：战争、革命、帝国以及宗教。Cowen 强调，这些领域不能仅靠短文章来拯救，而应当被全盘重估，放在不以提供政策建议为目的的纯粹学术比较教育中进行深刻探讨。
 >   5. **全球解读** 学科对外部政治与经济大叙事变化的宏观回应，直接决定了比较教育在不同历史分期中的理解风格与研究议程。

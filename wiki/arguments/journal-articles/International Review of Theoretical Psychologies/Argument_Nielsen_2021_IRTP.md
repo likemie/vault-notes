@@ -114,7 +114,7 @@ citation_aliases:
 >
 > ### 4. 合法化危机与 VL 的功能
 >
-> **背景**[[PISA]] 冲击后，各国教育系统面临严重的**合法化危机**——传统共识导向的理性（tradition- and consensus-bound rationality）无法为现代学校提供充分合法性。丹麦前首相 Anders Fogh Rasmussen 2003 年宣布"圆桌教育学的时代已经结束"。
+> **背景**[[PISA]] 冲击后，各国教育系统面临严重的**合法化危机**——传统共识导向的理性（tradition- and consensus-bound rationality）无法为现代学校提供充[[Synectics|分合法]]性。丹麦前首相 Anders Fogh Rasmussen 2003 年宣布"圆桌教育学的时代已经结束"。
 >
 > **[[Jürgen Habermas|Habermas]] 的[[Analytic Framework|分析框架]]**(pp. 83-86)：
 >

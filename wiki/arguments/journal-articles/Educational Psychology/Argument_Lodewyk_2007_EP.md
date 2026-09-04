@@ -85,7 +85,7 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> 尽管既有研究指出学生的[[Epistemological Beliefs|认识论信念]]与其思维推理、认知策略及学业成绩存在关联，但在常规课堂教学情境中，认识论信念如何随办学导向（公立学校与独立教会学校）、[[Academic Achievement|学业成就]]等级、性别以及微观教学[[Task Structure|任务结构]]（良构任务 vs 劣构任务）发生分化？特别是，认识论信念是否对不同结构化特征的任务表现和[[Reflexivity|反思性]]判断具有差异化的预测效力？（pp.307–308, 312）
+> 尽管既有研究指出学生的[[Epistemological Beliefs|认识论信念]]与其思维推理、认知策略及[[Academic Achievement|学业成绩]]存在关联，但在常规课堂教学情境中，认识论信念如何随办学导向（公立学校与独立教会学校）、[[Academic Achievement|学业成就]]等级、性别以及微观教学[[Task Structure|任务结构]]（良构任务 vs 劣构任务）发生分化？特别是，认识论信念是否对不同结构化特征的任务表现和[[Reflexivity|反思性]]判断具有差异化的预测效力？（pp.307–308, 312）
 
 > [!claim] 核心主张
 > 中学生的认识论信念（尤其是固定与快速学习能力、[[Simplicity of Knowledge|简单知识]]信念）显著预测其总体学业成就；更关键的是，认识论信念对学术任务表现的预测力严格受任务结构的调节：简单知识信念显著负向预测劣构任务总分与反思性判断得分，但在良构任务中完全失去预测效力。（pp.320–324）
@@ -113,7 +113,7 @@ issuing_organization: ""
 > |---|---|
 > | **[[Epistemological Beliefs\|认识论信念多维系统模型]]**<br>Schommer (1990, 1993) | 主张个体的[[Epistemology\|认识论]]信念是由学习速度、能力本质、知识结构与知识确定性等相对独立的维度构成的系统，打破了单一线性发展阶段论，为量化测量各维度对[[Academic Achievement\|学业表现]]的独立贡献提供基础[[Analytic Framework\|分析框架]]。（pp.309–310） |
 > | **[[Reflective Judgment Model\|反思性判断模型]]**<br>King & Kitchener (1994, 2002) | 描述个体面对没有唯一标准答案的劣构问题时，从前反思阶段（阶段1–3：知识绝对）、准反思阶段（阶段4–5：知识主观相对）到反思阶段（阶段6–7：情境化概率辩护）的发展路径，为评定学生的认知反思水平提供评价准则。（pp.309, 316–317） |
-> | **[[Task Structure\|任务结构理论与连续谱假说]]**<br>Frederiksen (1984); Spiro et al. (1988); Doyle (1983) | 区分良构任务（清晰目标、现成算法、透明标准）与劣构任务（开放目标、无现成算法、评价开放），解释不同任务环境对认知负荷、线索依赖与自我调节学习的差异化要求。（pp.310–312） |
+> | **[[Task Structure\|任务结构理论与连续谱假说]]**<br>Frederiksen (1984); Spiro et al. (1988); Doyle (1983) | 区分良构任务（清晰目标、现成算法、透明标准）与劣构任务（开放目标、无现成算法、评价开放），解释不同任务环境对认知负荷、线索依赖与[[Self-Regulated Learning\|自我调节学习]]的差异化要求。（pp.310–312） |
 > | **常人认识论与认识动机理论（Lay Epistemic Theory / Epistemic Motivation）**<br>Kruglanski (1990) | 阐明面对模糊与复杂任务情境时，认识动机如何驱动个体展开信息检索、[[Hypothesis\|假设]]检验、矛盾权衡以及寻求适度认知闭合（seeking appropriate closure）的自我调节心理过程。（pp.310–311, 323–324） |
 
 > [!warrant]- 理论如何支撑论证
@@ -232,7 +232,7 @@ issuing_organization: ""
 ### 论证步骤二　认识论信念对总体学业成就的预测与能力层级分化
 
 > [!claim] 步骤二主张
-> 学生的认识论信念能够强有力地预测其长期总体学业成绩；成绩优异的学生在学习能力观和知识结构观上显著更为成熟，而成绩较差的学生则普遍深信能力天生固定且知识只是孤立碎片。（pp.318–320）
+> 学生的认识论信念能够强有力地预测其长期总体[[Academic Achievement|学业成绩]]；成绩优异的学生在学习能力观和知识结构观上显著更为成熟，而成绩较差的学生则普遍深信能力天生固定且知识只是孤立碎片。（pp.318–320）
 
 > [!concept-lens] 通俗解读：自评平时成绩真的靠谱吗？
 > 研究中采用的总体[[Academic Achievement|学业成就]]预估值（EOAA）是由学生自报平时各科成绩平均百分比（全样本均分为 74.11%）。为了检验学生自报成绩是否真实可信，作者调取了子样本中学生的学校官方实际总评学业成绩（overall academic average, OAA）进行效标检验，发现两者的相关系数高达 $r = .91$（$p < .001$）。这证明中学生对自身学业水平的评估极为客观准确，完全可以作为长期总体学业成就的有效代表。（p.314）
@@ -383,7 +383,7 @@ issuing_organization: ""
 ## 关键引用
 
 > [!citation-card]- [[Simplicity of Knowledge|简单知识]]与[[Task Structure|劣构任务]]困难
-> 视知识为简单的学生，即寻求单一标准答案、回避歧义且过度依赖权威的学生，在应对需要[[Reflexivity|反思性]]判断、坚持性以及恰当自我调节学习的模糊任务特征时，往往会体验到更大的困难。（p.324）
+> 视知识为简单的学生，即寻求单一标准答案、回避歧义且过度依赖权威的学生，在应对需要[[Reflexivity|反思性]]判断、坚持性以及恰当[[Self-Regulated Learning|自我调节学习]]的模糊任务特征时，往往会体验到更大的困难。（p.324）
 >
 > *Students who see knowledge as simple—that is, they seek single answers, avoid ambiguity, and depend too much on authority—tend to experience more difficulty with the ambiguous features of tasks that call for reflective judgments, perseverance, and appropriate self-regulated learning.*
 

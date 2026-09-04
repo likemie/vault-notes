@@ -127,7 +127,7 @@ issuing_organization: ""
 >
 > 然而，既有大量一阶[[Meta-analysis|元分析]]（First-Order Meta-Analyses，FOM）虽证实了合作学习的积极效能，却普遍存在三类方法学局限：
 > - **地理区域单一** 高度局限于土耳其（Çapar & Tarım, 2015; Turgut & Gülşen Turgut, 2018）或印度尼西亚（Ridwan et al., 2022; Tanjung et al., 2022）等单一国别；
-> - **测量产出单一** 仅聚焦低阶常规学业考试成绩，而忽略[[Higher-Order Thinking Skills|高阶思维]]与情感动机；
+> - **测量产出单一** 仅聚焦低阶常规学业考试成绩，而忽略[[Higher-Order Thinking Skills|高阶思维]]与[[Affective Outcomes|情感动机]]；
 > - **学科范围单一** 过度集中于数学等个别学科，缺乏跨学科全局视野。
 >
 > 这种碎片化合成极大增加了[[Document|文献]]的产出偏倚（product bias）与地点偏倚（location bias），且受制于一阶研究数量而残留着不可避免的二阶[[Sampling Error|抽样误差]]（second-order sampling error，Schmidt & Oh, 2013）。如何通过更高层级的定量证据综合，系统评估合作学习对[[Academic Achievement|学业成就]]、[[Higher-Order Thinking Skills|高阶思维技能]]（Higher-Order Thinking Skills，HOTS）与[[Affective Outcomes|情感行为]]的综合干预效应，并深入厘清教学技术、学科领域、学段、文化背景与实验设计等调节[[Variable|变量]]的作用机制？（pp. 1–3）
@@ -209,7 +209,7 @@ issuing_organization: ""
 > | **Kyndt et al. (2013)** | 0.54 | 0.47 | 0.60 | 51 | 混合学科 | 混合学段 | 综合合作学习 | 非特定多国 | 全实验与准实验 | 学业成就 | 高 | 检出偏倚 | 1995–2012 |
 > | **Kyndt et al. (2013)** | 0.15 | 0.04 | 0.26 | 19 | 混合学科 | 混合学段 | 综合合作学习 | 非特定多国 | 全实验与准实验 | 情感态度 | 高 | 检出偏倚 | 1995–2012 |
 > | **Kyndt et al. (2013)** | 0.18 | -0.05 | 0.40 | 4 | 混合学科 | 混合学段 | 综合合作学习 | 土耳其与其他 | 全实验与准实验 | 情感态度 | 高 | 检出偏倚 | 1995–2012 |
-> | **Liu & Lipowski (2021)** | 0.05 | -1.30 | 1.41 | 6 | 体育教育 | K-12 | 综合合作学习 | 非特定多国 | 全实验与准实验 | 情感动机 | 中等 | 检出偏倚 | 2000–2020 |
+> | **Liu & Lipowski (2021)** | 0.05 | -1.30 | 1.41 | 6 | 体育教育 | K-12 | 综合合作学习 | 非特定多国 | 全实验与准实验 | [[Affective Outcomes\|情感动机]] | 中等 | 检出偏倚 | 2000–2020 |
 > | **Özkan & Çetinkaya-Uslusoy (2024)** | 0.58 | 0.47 | 0.70 | 7 | 护理教育 | 高等教育 | [[Jigsaw\|拼图法]]（Jigsaw） | 非特定多国 | 全实验与准实验 | 学业成就 | 高 | 无偏倚 | 2011–2022 |
 > | **Özkan & Çetinkaya-Uslusoy (2024)** | 0.70 | 0.13 | 1.26 | 4 | 护理教育 | 高等教育 | 拼图法（Jigsaw） | 非特定多国 | 全实验与准实验 | 高阶思维（批判性） | 高 | 无偏倚 | 2011–2022 |
 > | **Özkan & Çetinkaya-Uslusoy (2024)** | 1.18 | 0.53 | 1.84 | 6 | 护理教育 | 高等教育 | 拼图法（Jigsaw） | 非特定多国 | 全实验与准实验 | 情感态度 | 高 | 无偏倚 | 2011–2022 |

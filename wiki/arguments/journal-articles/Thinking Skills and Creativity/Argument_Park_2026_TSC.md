@@ -178,7 +178,7 @@ issuing_organization: ""
 > | **[[Critical Thinking\|批判性思维]]测量类型**<br>（Critical Thinking Measure Type） | 编码为主观（自陈倾向/[[Questionnaire\|问卷]]）或客观（技能任务表现）两类：主观指标为倾向或问卷得分；客观指标为标准化技能测验或书面/产品任务评定。 | 主观：[[California Critical Thinking Disposition Inventory\|加州批判性思维倾向问卷（California Critical Thinking Disposition Inventory, CCTDI）]]、批判性思维倾向量表（Critical Thinking Disposition Scale）；客观：沃森-格拉泽批判性思维评价（Watson-Glaser Critical Thinking Appraisal, WGCTA）、康奈尔批判性思维测验（Cornell Critical Thinking Test, CCTT）、PENCRISAL 批判性思维测验。 |
 > | **学段**<br>（Student Level） | 中学/高中学生（Middle/High School）vs 大学生（College）vs 研究生（Postgraduate），检验发展水平的调节作用。 | 中学/高中：Gilbert (1961)、Misset (2012)、Yang & Lin (2004) 等；大学：多数纳入研究；研究生：Komsu (2021)。 |
 > | **地理区域**<br>（Geographical Region） | 北美、东亚、中东与其他国家四类。 | 北美：Brubaker (1971)、Gilbert (1961)、Runco et al. (1992) 等；东亚：Li et al. (2022)、Long & Long (2023)、Yang & Lin (2004) 等；中东：Akpur (2020)、Ulger (2016) 等。 |
-> | **测量类型组合**<br>（S/O Combination） | 创造力测量类型 × 批判性思维测量类型的四类组合，检验同型测量放大相关的交互假设。 | 双主观组合合并相关 $r = 0.509$；双客观组合 $r = 0.317$；创造力客观×批判性思维主观 $r = 0.260$；创造力主观×批判性思维客观 $r = 0.195$。（p. 9） |
+> | **测量类型组合**<br>（S/O Combination） | [[Creativity Assessment\|创造力测量]]类型 × 批判性思维测量类型的四类组合，检验同型测量放大相关的交互假设。 | 双主观组合合并相关 $r = 0.509$；双客观组合 $r = 0.317$；创造力客观×批判性思维主观 $r = 0.260$；创造力主观×批判性思维客观 $r = 0.195$。（p. 9） |
 >
 > **图表解读** 本表界定[[Meta-analysis|元分析]]中两类核心构念及其测量编码、三个调节变量与测量类型组合，为后续亚组与[[Meta-regression|元回归]]分析提供操作化基准；测量类型的主观-客观编码直接支撑[[Common Method Variance|共同方法变异]]放大相关的核心解释。（pp. 4–5）
 
@@ -217,7 +217,7 @@ issuing_organization: ""
 > - **软件** R 包 "meta"（Balduzzi et al., 2019）（p. 4）。
 
 > [!ref-table]- 纳入研究特征与测量类型编码清单（Table 1）
-> | 研究（国家） | 参与者年龄 | 学段 | 地理区域 | 批判性思维测量（主观/客观） | 创造力测量（主观/客观） |
+> | 研究（国家） | 参与者年龄 | 学段 | 地理区域 | 批判性思维测量（主观/客观） | [[Creativity Assessment\|创造力测量]]（主观/客观） |
 > |---|---|---|---|---|---|
 > | Akpur (2020) | NA | College | Middle East | The Critical Thinking Scale（客观） | Marmara Creative Thinking Dispositions Scale（主观） |
 > | AlMahdawi et al. (2021) | 16.5 | Middle/High school | Middle East | [[Internet-based Survey\|online survey]] [[Questionnaire]] for High School Students’ [[Performance Indicators]] in Distance Learning in Chemistry during the COVID-19 Pandemic - Critical Thinking Domain（主观） | Online Survey Questionnaire for High School Students’ Performance Indicators in Distance Learning in Chemistry during the COVID-19 Pandemic - Creativity and Innovation Domain（主观） |
@@ -329,10 +329,10 @@ issuing_organization: ""
 ### 论证步骤三　概念重叠：共享认知成分提供正相关理论前提
 
 > [!claim] 创造力与批判性思维共享评价、判断、自我调节等认知与[[Metacognition|元认知]]成分，并有共同的[[Executive Function|执行功能]]基础，理论上应呈正相关
-> 两者都涉及需要灵活但目标导向推理的评价、判断与自我调节；都依赖抑制、[[Cognitive Shifting|认知灵活性]]与[[Working Memory|工作记忆]]等[[Executive Function|执行功能]]；并可视为复杂问题解决中互补的阶段。（pp. 2–3）
+> 两者都涉及需要灵活但目标导向推理的评价、判断与自我调节；都依赖抑制、[[Cognitive Flexibility|认知灵活性]]与[[Working Memory|工作记忆]]等[[Executive Function|执行功能]]；并可视为复杂问题解决中互补的阶段。（pp. 2–3）
 
 > [!chain-link] 证据到判断
-> - **共享认知与执行功能** 两者都要求灵活而目标导向的评价、判断与自我调节（Halpern, 2003; Sternberg & Halpern, 2020），并依赖抑制、[[Cognitive Shifting|认知灵活性]]与[[Working Memory|工作记忆]]等[[Executive Function|执行功能]]（Benedek et al., 2012, 2014）。（pp. 2–3）
+> - **共享认知与执行功能** 两者都要求灵活而目标导向的评价、判断与自我调节（Halpern, 2003; Sternberg & Halpern, 2020），并依赖抑制、认知灵活性与[[Working Memory|工作记忆]]等[[Executive Function|执行功能]]（Benedek et al., 2012, 2014）。（pp. 2–3）
 > - **问题解决中的互补** 创造力在复杂问题解决中生成可能性，批判性思维负责精炼与选择（Cropley, 2006; Sternberg & Lubart, 1998），概念重叠为实证正相关提供理论依据。（p. 3）
 
 > [!warrant]- 推理桥梁
@@ -409,7 +409,7 @@ issuing_organization: ""
 ### 论证步骤七　调节分析：测量类型显著调节，同型组合相关更高
 
 > [!claim] 测量类型是显著调节变量：两构念均用主观测量时相关最高，同型组合相关高于混合组合
-> 主观批判性思维测量（$Q_M(1) = 5.234$，$p = .022$）与主观创造力测量（$Q_M(1) = 10.133$，$p = .002$）均显著提高相关；两类测量类型的交互项显著（$Q_M(1) = 6.524$，$p = .011$），方向为同型测量组合的相关更高。（pp. 7–8）
+> 主观批判性思维测量（$Q_M(1) = 5.234$，$p = .022$）与主观[[Creativity Assessment|创造力测量]]（$Q_M(1) = 10.133$，$p = .002$）均显著提高相关；两类测量类型的交互项显著（$Q_M(1) = 6.524$，$p = .011$），方向为同型测量组合的相关更高。（pp. 7–8）
 
 > [!chain-link] 证据到判断
 > - **测量类型显著调节** 主观批判性思维测量（$Q_M(1) = 5.234$，$p = .022$）与主观创造力测量（$Q_M(1) = 10.133$，$p = .002$）均提高相关，交互项显著（$Q_M(1) = 6.524$，$p = .011$），同型组合相关更高，双主观 $r = 0.509$、双客观 $r = 0.317$、混合组合 $r = 0.195$–$0.260$（图 4）。（pp. 7–9）
@@ -471,7 +471,7 @@ issuing_organization: ""
 > [!implication]- 教育与实践含义
 > - 学校不必在创造性与批判性之间二选一，两者可视为适应性认知的相互强化成分。
 > - 课程设计可采用开放式任务先发散生成、再结构化反思与修正的教学序列（[[Argument_Abrami_2015_RER|Abrami et al., 2015]]）。
-> - 若创造力提升附带提升批判性思维，则创造性训练（发散任务、头脑风暴）可能作为批判性思维培养的副产品路径。（pp. 9–10）
+> - 若创造力提升附带提升批判性思维，则创造性训练（发散任务、[[Brainstorming|头脑风暴]]）可能作为批判性思维培养的副产品路径。（pp. 9–10）
 
 > [!warrant]- 最终推理桥梁
 > 从相关存在到协同培养有效仍需跨越个体内层面：把训练其一能带动其二保留为待验证命题，并以纵向交叉滞后研究作为验证方向性的必要下一步。（p. 10）
