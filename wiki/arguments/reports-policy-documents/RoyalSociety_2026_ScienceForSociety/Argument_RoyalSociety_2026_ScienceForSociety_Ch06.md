@@ -46,30 +46,30 @@ related_concepts:
   - "[[Informed Consent]]"
   - "[[Document]]"
   - "[[Soft Power]]"
-  - "[[Generative Artificial Intelligence]]"
   - "[[Questionnaire]]"
   - "[[External Auditor]]"
   - "[[Research Proposal]]"
   - "[[Governance by Spin]]"
   - "[[Chain of Evidence]]"
-  - "[[School Leadership]]"
   - "[[Growth]]"
   - "[[Hypothesis]]"
-  - "[[Performance Indicators]]"
 related_theories:
   - "[[Organizational Culture]]"
 related_methods:
-  - "[[Case Study]]"
   - "[[Longitudinal Study]]"
   - "[[Trend Study]]"
   - "[[In-depth Interview]]"
   - "[[Participatory Action Research]]"
   - "[[Participatory Research]]"
+  - "[[Case Study]]"
+related_instruments: []
+related_persons: []
 related_facts:
   - "[[The Perception Census]]"
   - "[[National Co-ordinating Centre for Public Engagement]]"
   - "[[Research Excellence Framework]]"
   - "[[UK Knowledge Exchange Framework]]"
+related_arguments: []
 status: draft
 created: 2026-09-04
 updated: 2026-09-04
@@ -114,24 +114,9 @@ updated: 2026-09-04
 >   S4 --> S5
 > ```
 
-> [!example]- 图6-1：英国理工科科研人员参与公众科学活动的比例变化（2006–2025，p. 94）
-> ![](https://img.mylikemie.icu/sources/RoyalSociety_2026_ScienceForSociety/figures/RoyalSociety_2026_ScienceForSociety_Fig6-1_Participation_in_Public_Engagement.jpg)
-
-> [!example]- 图6-2：英国科研人员对公众参与的态度演进分布（2006–2025，p. 95）
-> ![](https://img.mylikemie.icu/sources/RoyalSociety_2026_ScienceForSociety/figures/RoyalSociety_2026_ScienceForSociety_Fig6-2_Attitudes_toward_Public_Engagement.jpg)
-
-> [!example]- 图6-3：英国科研人员投身公众参与的核心动机变化（2006–2025，p. 96）
-> ![](https://img.mylikemie.icu/sources/RoyalSociety_2026_ScienceForSociety/figures/RoyalSociety_2026_ScienceForSociety_Fig6-3_Motivations_for_Engagement.jpg)
-
-> [!example]- 图6-4：制约英国科研人员开展公众参与的主要障碍演变（2006–2025，p. 97）
-> ![](https://img.mylikemie.icu/sources/RoyalSociety_2026_ScienceForSociety/figures/RoyalSociety_2026_ScienceForSociety_Fig6-4_Barriers_to_Engagement.jpg)
-
-> [!example]- 图6-5：英国高校对科研人员公众参与的机构支持演化指标（2006–2025，p. 98）
-> ![](https://img.mylikemie.icu/sources/RoyalSociety_2026_ScienceForSociety/figures/RoyalSociety_2026_ScienceForSociety_Fig6-5_Institutional_Support.jpg)
-
 ---
 
-### 论证步骤一：学术共同体参与的多维收益与大学机构动机的交汇（pp. 91–93）
+### 论证步骤一：科学传播基层生态繁荣与科研人员多维参与动力机制（pp. 91–93）
 
 [[Public Engagement with Science|公众科学参与]]的开展根本上取决于科研人员自身的参与意愿与专业行动能力。这亟需在科学界内部建立一种积极的科研文化，使一线科学家在大学及科研雇主的支持下，拥有充分的信心与资源，与多元公众社群、政策制定者、大众媒体以及产业与第三部门开展深度交流。（pp. 91–92）
 
@@ -142,7 +127,7 @@ updated: 2026-09-04
 
 英国一线科研人员积极投身于日益多元化的公众互动形态，参与媒介已全面拓展至播客录制、社交媒体科普、通俗科学写作、科普博客以及面对面的公众交流（p. 92）。
 
-> [!case] [[Case Study|案例研究]]一：草根学术科学传播网络与基层平台创新
+> [!case] 草根学术科学传播平台与基层网络创新
 > 过去二十年间，英国[[Emergence|涌现]]出一批具有鲜明草根属性与高互动性的标志性科学传播平台，打破了传统单向学术报告的刻板形态：
 > - **科学品味（Pint of Science）**
 >   将科研人员直接引入酒吧、小酒馆等日常社交休闲场所，在完全非正式与平权的氛围中，向普通市民讲解前沿量子物理、神经生物学与生态学课题，消除公众对高深科研的心理敬畏感。
@@ -155,13 +140,13 @@ updated: 2026-09-04
 
 在医学健康与社会科学等前沿领域，互动[[Paradigm|范式]]正在经历更为深刻的[[Epistemology|认识论]]跃迁——从成果发表后开展单向告知的下游“补丁式”（Add-on）科普，加速迈向[[Upstream Public Engagement|上游公众参与]]（Upstream Public Engagement），在选题构思、研究设计与基金申请阶段即深度吸纳公众、患者社群参与平权共创（Co-creation）与[[Citizen Science|公民科学]]（p. 92）。
 
-> [!case] 案例研究二：上游深度平权共创典范：造梦机器与[[The Perception Census|感知普查]]
+> [!case] 造梦机器与[[The Perception Census|感知普查]]：认知科学的上游深度共创
 > 脑科学与认知科学研究通过深度整合艺术体验与大规模公众共创，开创了上游参与的典范范式：
 > - **跨界协同网络** 萨塞克斯大学（University of Sussex）认知神经科学家阿尼尔·赛斯（Anil Seth）团队联合艺术机构、作曲家与沉浸式体验设计师发起“造梦机器”（Dreamachine）全国巡演。
 > - **感知普查（The Perception Census）的科学设计** 巡演结合沉浸式闭眼光影体验，配套推出了英国规模最大的感知多样性公民普查研究，动员超过 40,000 名公众在线参与完成关于色彩、声音、[[AI Hallucination|幻觉]]与时间体验等 12 项交互式认知实验。
 > - **认识论层面的双向赋能** 公众在沉浸式艺术探索中深刻理解了人类大脑感知世界的神经生物学机制与主观变异性；科研团队则成功获取了前所未有的超大规模高维度真实世界知觉变异性数据库，直接将非专业公众的微观生活体验转化为了前沿认知科学的核心实证资产。（pp. 43, 92）
 
-> [!case] 案例研究三：第三部门全生命周期[[Patient and Public Involvement|患者与公众参与]]：英国癌症研究中心
+> [!case] 英国癌症研究中心（CRUK）全生命周期[[Patient and Public Involvement|患者与公众参与]]机制
 > 英国癌症研究中心（Cancer Research UK, CRUK）构建了一套覆盖科研全生命周期的患者与公众参与（[[Patient and Public Involvement|PPI]]）制度规范：
 > - **研究议程设定的源头参与** 设立患者顾问委员会，让癌症患者及照护者直接作为评审委员进入科研资助战略决策层，共同决定“哪些临床迫切问题最优先获得资助”。
 > - **课题申请与[[Clinical Trial|临床试验]]方案共创** 资助机构要求所有科研团队在提交项目申请书时，必须阐明 PPI 方案；患者代表深度参与临床试验方案的审查，优化入组标准[[Informed Consent|知情同意书]]的语言可读性，并对治疗副作用监测指标的设计提出宝贵修正。
@@ -171,24 +156,26 @@ updated: 2026-09-04
 
 英国研究理事会（Research Councils UK, RCUK）在其纲领性[[Document|文献]]《对我有什么好处？科研人员开展公众参与的收益》（*What's In It For Me? The Benefits of Public Engagement for Researchers*）中，系统梳理了学术界一线研究人员从公众参与中获取的核心多维回报（p. 92）：
 
-> [!dimension] RCUK 确立的科研人员公众参与五维收益体系
-> - **学术科研质量提升维度（Academic）**
+> [!dimension] 科研人员公众参与五维收益体系（RCUK, pp. 92–93）
+> - **学术科研质量提升（Academic）**
 >   公众参与直接有助于催生更优秀的科学。跨界接触产业界、专业社群以及具备具身经验的公众专家，能为纯学术研究注入关键的现实考量与跨学科灵感，推动构建宽广的多学科协作网络。
-> - **经费资助竞争优势维度（Financial）**
+> - **经费资助竞争优势（Financial）**
 >   在越来越多竞争性前沿科研资助计划中，成功获得项目拨款高度依赖于研究团队是否具备成熟的公众参与经验、合格的沟通技能以及切实可行的公众参与实施规划。
-> - **道德与伦理责任践行维度（Moral and ethical）**
+> - **道德与伦理责任践行（Moral and ethical）**
 >   获得公共财政资金支持的科学家承担着基本的道德契约，必须向纳税人与社会大众解释其研究的社会意义、坦诚分享研究发现，并虚心倾听公众的真实关切与反馈意见。
-> - **工作成就感与研究志趣维度（Morale and enjoyment）**
+> - **工作成就感与研究志趣（Morale and enjoyment）**
 >   公众参与和科学传播是一项能带来极高精神回报的职业体验。在跳出狭隘专业文献与实验室日常的过程中，科研人员通过向非专业受众阐释前沿知识，能够更深刻地领悟自身研究的社会价值，从而重燃研究激情。
-> - **综合[[Soft Power|软实力]]技能发展维度（Skills development）**
+> - **综合[[Soft Power|软实力]]技能发展（Skills development）**
 >   参与实践能全方位锤炼科研人员的公众演讲、叙事沟通、危机公关与人际跨界交往技能；而这些复合型能力反过来对科研团队建设、课题协作及学术会议交流带来极为显著的积极外溢效应。（pp. 92–93）
 
 #### 主题三：大学机构层面的战略动机与社会运营许可（p. 93）
 
 在研究人员个体维度的动因之外，高等院校自身拥有极其强烈的制度性诉求去推动公众科学参与。在大学机构层面，这种努力通常被框架化为五重职能目标：扩大高等教育参与（Widening participation）、面向中小学的教育外展（Outreach）、地方公民大学责任（Civic engagement）、生源招生宣传（Student recruitment）以及公共声誉关系维护（Public relations）（p. 93）。
 
-> [!tension] 大学机构生存发展的“社会运营许可”（Licence to Operate）
-> 从更宏观的政治经济学视角审视，公众参与是大学在民主社会中维持其“社会运营许可”（Licence to Operate）的根本前提。现代高等教育与前沿科研高度依赖公共财政拨付与税收减免；若大学被公众视作脱离社会的特权精英象牙塔，其公共拨款的政治合法性将迅速瓦解。公众参与不仅在源头上赋能新知识的协同创造，更在前瞻层面上为颠覆性新技术（如[[Generative Artificial Intelligence|生成式 AI]]、脑机接口）与前沿医学突破（如 mRNA 疫苗、基因疗法）的社会理解与全社会信任接纳铺平了道路。（p. 93）
+> [!concept-lens] 核心概念：社会运营许可（Licence to Operate）
+> - **概念内涵** 大学在民主社会中维持公众信任与公共财政持续投资的深层社会契约。
+> - **战略功能** 为颠覆性前沿科技与医学突破赢得全社会理解接纳，避免大学陷入特权精英象牙塔危机。
+> - **制度要求** 超越单向公关宣传，要求大学在科研全生命周期中建立常态化、平权式的双向公众对话。（p. 93）
 
 为了解科研人员与高等教育机构在现实中如何看待与实施公众参与，英国皇家学会正式委托开展了《影响英国科研人员公众参与的因素调查 2025》（*Factors affecting public engagement by UK researchers 2025*），并同步组织全英大学高层领导圆桌会议，对学术共同体面临的微观实践与宏观体制张力进行了深度测度。（p. 93）
 
@@ -210,7 +197,10 @@ updated: 2026-09-04
 > - **11% → 27% → 27%** 每年参与 10 次以上高频、重度参与的学者群体比例，在 2015 年较 2006 年实现了两倍以上的跨越式暴增后，在 2025 年维持在 27% 的稳定高位。
 > - **45% → 53% → 54%** 超过半数的受访学者明确表达了“渴望在未来开展更多公众参与活动”的强烈主观诉求。（p. 94）
 
-> [!data-table] 英国理工科科研人员公众参与参与度演进矩阵（Figure 6 复刻，p. 94）
+> [!example]- 图6-1：英国理工科科研人员参与公众科学活动的比例变化（2006–2025，p. 94）
+> ![](https://img.mylikemie.icu/sources/RoyalSociety_2026_ScienceForSociety/figures/RoyalSociety_2026_ScienceForSociety_Fig6-1_Participation_in_Public_Engagement.jpg)
+
+> [!ref-table]- 英国理工科科研人员公众参与行为演变指标（Figure 6, p. 94）
 > | 监测指标维度 | 2006 年调查 | 2015 年调查 | 2025 年调查 | 二十年演进净变化 | 核心制度意涵 |
 > |---|---|---|---|---|---|
 > | **报告开展过参与活动的 STEM 学者比例** | 74% | 78% | 85% | **+11%** | 参与行为从少数人的边缘爱好演变为绝大多数科研人员的职业常态 |
@@ -223,7 +213,10 @@ updated: 2026-09-04
 
 最引人瞩目的变化在于参与主体的“去精英化”与“全员化”——认为公众参与“最适合由资深研究人员承担”（Best done by senior researchers）的受访者比例，从 2006 年的 44% 骤降至 2015 年的 21%，并在 2025 年彻底跌至 9% 的冰点；同时，认为参与应由“受训专业人员全权承担”（Best done by trained professionals）的比例亦回落至 20%（p. 95）。这充分表明，广大早期职业研究人员（Early-Career Researchers, ECRs）、博士后与普通教职学者已经普遍建立起直面公众的自主信心，彻底终结了“科普是资深学者专利”的旧有范式。
 
-> [!data-table] 英国科研人员对公众参与态度演进分布矩阵（Figure 7 复刻，p. 95）
+> [!example]- 图6-2：英国科研人员对公众参与的态度演进分布（2006–2025，p. 95）
+> ![](https://img.mylikemie.icu/sources/RoyalSociety_2026_ScienceForSociety/figures/RoyalSociety_2026_ScienceForSociety_Fig6-2_Attitudes_toward_Public_Engagement.jpg)
+
+> [!ref-table]- 英国科研人员公众参与态度演化分布（Figure 7, p. 95）
 > | 态度维度命题 | 2006 年调查 | 2015 年调查 | 2025 年调查 | 二十年演进净变化 | 核心[[Trend Study\|趋势分析]] |
 > |---|---|---|---|---|---|
 > | **公众参与是科研人员不可推卸的道德义务** | 73% | 75% | 83% | **+10%** | 伦理认同持续强化，构筑了学者开展科学传播与社会对话的内在价值根基 |
@@ -235,7 +228,10 @@ updated: 2026-09-04
 
 在科研人员投身参与的具体动力维度上，调查数据揭示了动机构成的多层次特征（图 6-3，p. 96）：
 
-> [!data-table] 英国科研人员投身公众参与的核心动机演变矩阵（Figure 8 复刻，p. 96）
+> [!example]- 图6-3：英国科研人员投身公众参与的核心动机变化（2006–2025，p. 96）
+> ![](https://img.mylikemie.icu/sources/RoyalSociety_2026_ScienceForSociety/figures/RoyalSociety_2026_ScienceForSociety_Fig6-3_Motivations_for_Engagement.jpg)
+
+> [!ref-table]- 英国科研人员公众参与驱动动机分布（Figure 8, p. 96）
 > | 驱动动机维度 | 2006 年调查 | 2015 年调查 | 2025 年调查 | 二十年演进净变化 | 动机结构特征分析 |
 > |---|---|---|---|---|---|
 > | **单向告知公众（Informing the public）** | 59% | 50% | 70% | **+11%** | 传统知识单向普及仍牢固占据学者首选驱动力地位 |
@@ -258,7 +254,10 @@ updated: 2026-09-04
 
 调查数据显示，制约科研人员投身参与的核心阻碍呈现出两极分化的演变态势（图 6-4，p. 97）：
 
-> [!data-table] 制约英国科研人员开展公众参与的主要障碍演变矩阵（Figure 9 复刻，p. 97）
+> [!example]- 图6-4：制约英国科研人员开展公众参与的主要障碍演变（2006–2025，p. 97）
+> ![](https://img.mylikemie.icu/sources/RoyalSociety_2026_ScienceForSociety/figures/RoyalSociety_2026_ScienceForSociety_Fig6-4_Barriers_to_Engagement.jpg)
+
+> [!ref-table]- 制约科研人员公众参与的核心障碍分布（Figure 9, p. 97）
 > | 阻碍因素维度 | 2006 年调查 | 2015 年调查 | 2025 年调查 | 二十年演进净变化 | 阻碍恶化机制剖析 |
 > |---|---|---|---|---|---|
 > | **严峻的时间压力（Time pressure）** | 64% | 61% | 75% | **+11%** | **首要且持续恶化的阻碍**；大学科研量化考核与行政教学负担层层叠加，产生严重工作量挤出 |
@@ -270,7 +269,10 @@ updated: 2026-09-04
 
 在机构支持层面，尽管各高校近年来普遍设立了公众参与专职支持团队、开设了相关培训并设立了校级表彰奖项，但在全英学术界整体范围内，高校的实质性制度支持依然呈现出均值偏低且极度不均衡的特征（图 6-5，p. 98）：
 
-> [!data-table] 英国高校对公众参与机构支持指标演化矩阵（Figure 10 复刻，p. 98）
+> [!example]- 图6-5：英国高校对科研人员公众参与的机构支持演化指标（2006–2025，p. 98）
+> ![](https://img.mylikemie.icu/sources/RoyalSociety_2026_ScienceForSociety/figures/RoyalSociety_2026_ScienceForSociety_Fig6-5_Institutional_Support.jpg)
+
+> [!ref-table]- 英国高校对公众参与机构支持指标演进（Figure 10, p. 98）
 > | 机构支持指标维度 | 2006 年调查 | 2015 年调查 | 2025 年调查 | 核心制度评估 |
 > |---|---|---|---|---|
 > | **专业培训可及性（Training availability）** | 27% | 68%* / 70%** | 41%** | 虽较早年显著提升，但近年学者对针对性实战培训的供给充分度仍存疑虑 |
@@ -282,7 +284,7 @@ updated: 2026-09-04
 
 三分之一的受访学者明确指出，公众参与在所在大学被严重低估（Undervalued）。为了赋能大学打破这种文化漠视，[[National Co-ordinating Centre for Public Engagement|英国国家公众参与协调中心]]（National Co-ordinating Centre for Public Engagement, NCCPE）研发了一整套制度变革工具，为学者和专职人员推动机构改革提供了抓手（p. 98）：
 
-> [!case] 案例研究四：高校机构文化自评与卓越水印认证机制
+> [!case] 英国高校机构文化评估（EDGE）与卓越水印认证机制
 > NCCPE 通过研发两套互补的旗舰制度机制，系统推进大学内部的[[Organizational Culture|组织文化]]转型（Culture change）：
 > - **EDGE 机构文化评估工具（The EDGE Tool: Assess Your Institutional Culture）**
 >   将大学的公众参与能力拆解为三大制度基石（Purpose 目的、Process 流程、People 人员）共 9 个维度：
@@ -297,7 +299,7 @@ updated: 2026-09-04
 
 英国高等教育体系的显著优势在于其机构生态的高度多样性——各大学不仅在学术学科上各具专长，更分别在城市、区域、国家乃至全球层面释放独特价值（p. 99）。一批富有远见的顶尖机构通过打造旗舰物理空间，探索了科学参与扎根社区的新形态：
 
-> [!case] 案例研究五：大学实体外展空间与城市公民参与基建
+> [!case] 英国高校实体外展空间与城市公民参与基础设施
 > 英国代表性顶尖高校通过设立永久性实体开放空间，打破象牙塔的物理与文化围墙：
 > - **伦敦国王学院科学长廊（Science Gallery at King's College London）**
 >   将艺术与前沿生物医学研究高度融合，常年面向 15–25 岁青年群体免费开放，以艺术策展方式呈现复杂科学争论，成为大学连接伦敦南岸青年与前沿实验室的实验性中枢。
@@ -331,7 +333,7 @@ updated: 2026-09-04
 
 REF 作为决定英国各大学每年数十亿英镑质量相关（Quality-Related, QR）科研核心拨款分配的顶层审计装置，对高校管理者的资源调配行为具有绝对的指挥棒效应（pp. 100–101）：
 
-> [!case] 案例研究六：科研卓越框架（REF）主审专家协商与影响力案例反思
+> [!case] 科研卓越框架（REF）主审专家协商与影响力案例反思
 > 皇家学会于 2020 年与 2022 年两度召集 REF 主评审面板及各子面板主席研讨，并于 2022 年对全英 58 所大学的科研主管开展专项咨询，深度解构了公众参与在国家科研评估中的真实处境：
 > - **广泛覆盖与多元路径**
 >   在 2014 年与 2021 年两轮 REF 评估中，全英约 50% 的提交影响力案例（Impact Case Studies）明确将公众参与作为促成社会经济效益的关键路径，在人文与社会科学领域占比尤高，广泛辐射了医疗临床方案革新、宏观公共政策启蒙、地方经济赋能与文化艺术繁荣。
@@ -342,23 +344,24 @@ REF 作为决定英国各大学每年数十亿英镑质量相关（Quality-Relat
 > - **草根全员参与的不可见性**
 >   REF 过于聚焦少数高度精炼的代表性案例，完全遮蔽了全英成千上万一线学者日常开展的草根型、自发性科普与社区对话实践，未能为广大科研人员的常态化投入提供任何评价回报。（pp. 100–101）
 
+> [!tension] 技术商业化与长效公众参与的校内资源竞争张力
+> - **技术商业化导向（蓝方）** 专利授权与企业衍生公司（Spin-outs）能够快速产生明确的量化财务回报，在高校内部垄断了大量早期种子基金、法务支持与管理层关注。
+> - **公众科学参与处境（红方）** 科学信任重建与认知转变需要长周期潜移默化，因果作用机制弥散且难以线性量化归因，在校内资源竞争与申报案例遴选中持续被边缘化。（pp. 100–101）
+
 #### 主题三：REF 2029 关键制度重构方案（p. 101）
 
 针对上述深层体制弊端，皇家学会与学术界展开的密集博弈促成了即将推行的 REF 2029 评估框架实施了一揽子根本性重构（p. 101）：
 
-> [!feature] REF 2029 强化公众参与的三大制度抓手
-> - **设立独立的“参与与影响”（Engagement and Impact）考评剖面**
->   正式打破以往狭隘偏重商业变现的单一影响导向，在国家评估准则中明确鼓励大学提交阐述公众参与前瞻策略与深层[[Chain of Evidence|证据链]]的高质量案例。
-> - **在“战略、人才与科研环境”部分增设强制性参与战略陈述**
->   在重构后的科研环境（Strategy, People and Research Environment）文本中，强制要求所有参评机构系统性论证本单位支持公众科学参与的长期顶层规划、资源配置与文化培育措施。
-> - **首次将专职公众参与专业人员（Engagement Professionals）编制纳入国家科研共同体数据核算**
->   打破以往仅将传统教学与专任研究人员计入统计的惯例，在全英科研人员基准数据库中正式录入各大学聘用的公众参与专业支持团队全职人数，使得大学在参与专业队伍上的基础设施投资直接具备了国家评估的可见性与加分效应。（p. 101）
+> [!feature] REF 2029 强化公众参与的三大制度抓手（p. 101）
+> - **独立考评剖面** 设立独立的“参与与影响”（Engagement and Impact）考评剖面，打破以往狭隘偏重商业变现的单一导向，鼓励高校提交阐明深层[[Chain of Evidence|证据链]]的高质量案例。
+> - **强制环境陈述** 在重构后的科研环境（Strategy, People and Research Environment）部分，强制要求参评机构系统论证支持公众科学参与的长期规划、资源配置与文化培育。
+> - **专职编制核算** 首次将大学聘用的专职公众参与专业人员（Engagement Professionals）编制纳入国家科研共同体数据核算，使大学在参与专业队伍上的基础设施投资直接具备国家评估可见性。
 
 ---
 
 ### 论证步骤五：大学领导、资助机构与学术共同体的系统改革行动框架（建议 17–20，pp. 102–106）
 
-英国学术科研共同体内部已经孕育出深厚的公众参与文化自觉；巩固并深化这一文化，需要大[[School Leadership|学校领导]]、国家资助委员会以及科研基金会展现出等量齐观的制度性承诺。（p. 102）
+英国学术科研共同体内部已经孕育出深厚的公众参与文化自觉；巩固并深化这一文化，需要大学领导、国家资助委员会以及科研基金会展现出等量齐观的制度性承诺。（p. 102）
 
 > [!claim] 步骤五核心主张
 > 公众参与是大学在动荡紧缩时代维系办学生存合法性与全社会民主支持的战略性生命线投资；必须通过由大学校长落实工作量核算与晋升认定、资助委员会提供对标财政激励、资助机构设立预算占比指标与多年期团队资助，以及学者共同体主动开展上游倡导构成的四维国家行动路线图。（pp. 102–106）
@@ -368,17 +371,17 @@ REF 作为决定英国各大学每年数十亿英镑质量相关（Quality-Relat
 在外部财政紧缩的环境下，大学高层领导必须摒弃将公众参与视作奢侈消耗性开支的陈旧观念，确立其作为捍卫大学核心使命的六维战略投资基石（p. 102）：
 
 > [!dimension] 公众参与维系大学存续发展的六大战略基石
-> - **筑牢公众对科研事业的理解与社会声誉支持（Public support and profile）**
+> - **公众声誉与社会支持（Public support and profile）**
 >   在假新闻与民粹主义质疑抬头的背景下，向纳税人展示大学学术探索如何直接造福社会福祉，为科研工作树立崇高的公共信誉。
-> - **捍卫公共财政持续投资的核心合法性（Legitimacy for public investment）**
+> - **公共财政投资合法性（Legitimacy for public investment）**
 >   大学依赖国家公共预算投入其研究与教学活动；唯有通过全方位的公众参与，才能为社会各阶层持续提供纳税人资金获得高效与负责任使用的民主证据。
-> - **向公众充分彰显透明且合乎伦理的科研实践（Transparent and ethical practice）**
+> - **透明且合乎伦理的科研实践（Transparent and ethical practice）**
 >   在涉及动物实验、人类基因数据采集及前沿 AI 研发等高度敏感领域，通过开放对话向社会展现科研过程中的严苛伦理守则与对公众利益的承诺。
-> - **凸显大学作为社会建设性理性对话的关键促进中枢（Constructive and mutually respectful dialogue）**
+> - **建设性理性对话中枢（Constructive and mutually respectful dialogue）**
 >   在社会思潮极化与公共辩论割裂的环境中，凸显大学作为安全、中立、基于科学证据开展多元对话的不可替代公共空间。
-> - **激发与启迪未来 STEM 人才管道（Inspiring the next generations）**
+> - **启迪未来 STEM 人才管道（Inspiring the next generations）**
 >   通过科研人员的亲身示范，点燃来自多元背景青少年的科学好奇心，为国家储备未来的优秀学者、工程师与科学教育工作者。
-> - **提升外部奖项竞争力并强力吸纳社会慈善捐赠（External recognition and philanthropy）**
+> - **外部奖项竞争力与社会慈善吸纳（External recognition and philanthropy）**
 >   卓越的公众参与能够极大提升大学学术成果的社会能见度，进而显著增加赢得国家重大科学奖项的概率，并有力吸引高净值个人与社会基金会的慷慨慈善支持。（p. 102）
 
 有效而高质量的科学参与不仅是一项独立的对外沟通，更必须与大学整体的外部利益相关者发展战略（Stakeholder engagement strategies）深度对齐，借助公众对科学成果的广泛拥护与支持，进而形成反向驱动国家政策制定者的强有力战略杠杆（p. 102）。
@@ -387,7 +390,7 @@ REF 作为决定英国各大学每年数十亿英镑质量相关（Quality-Relat
 
 报告在第六章最后，针对高等教育机构领导层、国家科研资助委员会、科研基金会及一线科研共同体，分别确立了系统完备的行动建议体系（pp. 103–105）：
 
-> [!recommendation] 建议 17：大学校长与学术领导层必须强化对公众参与的长期机构承诺（Recommendation 17, p. 103）
+> [!pathways] 建议 17：大学校长与学术领导层行动路径（Recommendation 17, p. 103）
 > - **开展全面支持效能自评与高层问责机制**
 >   系统审查大学现行支持公众参与政策的实质成效；在高层管理团队（如副校长层面）中指定明确的高层责任主管，依托关于公众参与为本地社区创造实质社会价值的商业论证（Investment case），制定具备可操作性的校级专项行动规划。
 > - **彻底改革职称晋升、招聘准则与工作量核算分配（Workload allocation）**
@@ -401,13 +404,13 @@ REF 作为决定英国各大学每年数十亿英镑质量相关（Quality-Relat
 > - **深化与地方雇主、中小学、慈善基金会及文化场馆的跨界共生伙伴关系**
 >   与地方企业、慈善机构、中小学以及博物馆、科学探索中心等校外文化基建建立制度化合作网络。（p. 103）
 
-> [!recommendation] 建议 18：国家科研资助委员会与政府主管部委应确保科研评估机制充分认可公众参与（Recommendation 18, p. 104）
+> [!pathways] 建议 18：国家科研资助委员会与政府主管部委行动路径（Recommendation 18, p. 104）
 > - **建立全国高校公众参与基础设施与战略协同度的对标基准与财政激励**
 >   确保所有国家级科研与知识交换评估机制（如 REF 和 [[UK Knowledge Exchange Framework|KEF]]），支持对全英各大学的公众参与基础设施、资源保障力度与战略一致性进行透明的基准对标（Benchmarking），并向达到卓越基准的大学提供明确的专项财政奖励与政策扶持。
 > - **在未来的国家科研评估演进中持续巩固和强化公众参与的独立评估权重**
 >   确保 REF 2029 确立的“参与与影响”独立考评维度在后续周期的国家评估体制中得到长期制度化传承，防止评估导向再次倒退至单一狭隘的学术期刊指标。（p. 104）
 
-> [!recommendation] 建议 19：科研资助机构（包括英国皇家学会）必须确立公众参与作为科研核心的地位并拓宽参与机遇（Recommendation 19, p. 104）
+> [!pathways] 建议 19：科研资助机构与英国皇家学会行动路径（Recommendation 19, p. 104）
 > - **建立监测机制并每年公开公布公众参与支出占总科研经费预算的法定比例目标**
 >   各资助机构应率先垂范，将公众参与正式列为资助项目的内在核心；建立透明的财务核算机制，每年向社会公开发布用于支持公众参与的专项支出占其总体科研资助盘子的法定比例。
 > - **精准弥补前沿紧缺领域的专项对话培训空白**
@@ -415,9 +418,9 @@ REF 作为决定英国各大学每年数十亿英镑质量相关（Quality-Relat
 > - **创设竞争性多年期团队公众参与战略资助专项**
 >   打破仅依赖个别研究人员课题附带微薄经费的传统局限，设立专款专用的竞争性、多年期战略公众参与专项基金；直接资助由跨学科科研人员与公众参与专业支持团队联合构成的网络与团队，为大学制定长远参与规划提供稳定、连续的财政支撑。
 > - **推广最佳实践并依托 NCCPE 深化评估方法创新**
->   充分吸纳 NCCPE 在科研卓越框架影响力案例研究中的宝贵经验，在全英科研界广泛推广卓越公众参与及评估方法；郑重承诺**每五年为一个固定周期**，持续开展一次全国《影响英国科研人员公众参与的因素调查》，形[[Growth|成长]]效的微观学术生态监测机制。（p. 104）
+>   充分吸纳 NCCPE 在科研卓越框架影响力[[Case Study|案例研究]]中的宝贵经验，在全英科研界广泛推广卓越公众参与及评估方法；郑重承诺**每五年为一个固定周期**，持续开展一次全国《影响英国科研人员公众参与的因素调查》，形[[Growth|成长]]效的微观学术生态监测机制。（p. 104）
 
-> [!recommendation] 建议 20：学术科研共同体应主动为争取机构与资金支持积极发声（Recommendation 20, p. 105）
+> [!pathways] 建议 20：学术科研共同体倡导与嵌入路径（Recommendation 20, p. 105）
 > - **在所在依托高校内部及全社会层面广泛开展价值倡导**
 >   一线科研人员应主动担当，向大学管理层、资助评审专家及社会各界大声呼吁公众参与对于守护科研社会许可与学术公信力的不可替代价值。
 > - **在科研全生命周期中全面推行上游前置嵌入**
@@ -425,35 +428,56 @@ REF 作为决定英国各大学每年数十亿英镑质量相关（Quality-Relat
 
 ---
 
-## 理论与概念工具
+## 主要发现
 
-> [!concept-map] 核心理论与概念体系
-> - **[[Public Engagement with Science|公众科学参与]]（Public Engagement with Science, PES）**
->   确立为现代科研全生命周期中不可分割的有机核心支柱，彻底超越个人自愿业余爱好的传统框架，升华为维系大学学术公信力与社会运营许可的战略防线。（pp. 91–93, 102）
-> - **[[Upstream Public Engagement|上游公众参与]]（Upstream Public Engagement）**
->   核心主张在科技议程设定、优先序遴选与资助申请阶段即前置引入公众、患者社群与多元利益相关者开展平权共创，克服技术定型后再行公关解释的下游被动局面。（pp. 92, 100, 105）
-> - **社会运营许可（Licence to Operate）**
->   大学与科研共同体向公众纳税人证明公共科研投资的民主正当性、伦理透明度并换取全社会对前沿颠覆性科技应用信任接纳的深层政治社会契约。（pp. 93, 102）
-> - **工作量核算机制（Workload Allocation）**
->   破解学者严重时间挤出（75%）的核心管理杠杆，要求大学管理层将科学传播与社会[[Dialogue in Education|对话]]正式核算为与教学、科研等权重的法定工作时长。（p. 103）
-> - **[[Patient and Public Involvement|患者与公众参与]]（Patient and Public Involvement, PPI）**
->   第三部门医学健康研究在上游课题共创、[[Clinical Trial|临床试验]]方案设计与改善患者依从性上的成熟平权参与[[Paradigm|范式]]。（pp. 92, 100）
-> - **[[Citizen Science|公民科学]]（Citizen Science）**
->   公众作为平权科研伙伴，深度卷入真实世界大规模科研数据采集、分类标记与脑科学多样性研究的前沿互动形态。（pp. 43, 92）
+> [!finding-cards] 核心发现
+> 1. **英国科学界已实现公众参与从精英特权到全员道德义务的历史性转变** 理工科（STEM）学者参与覆盖率达到 85% 历史峰值，83% 视为不可推卸的职业伦理义务，认为“仅限资深学者”的比例从 44% 断崖式跌至 9%。（pp. 94–95）
+> 2. **学者参与热情与高校体制性支持赤字构成尖锐的结构性撕裂** 75% 的科研人员面临严峻的时间竞合压力，专项经费短缺上升至 45%，仅 25% 认为参与有助于职称晋升，岗位职责说明书中极少体现参与贡献。（pp. 97–98）
+> 3. **科研卓越框架（REF 2029）改革确立公众参与独立考评与专职编制核算** 针对以往案例量化归因困难与商业化投资严重挤出弊端，[[Research Excellence Framework|REF]] 2029 设立独立“参与与影响”考评剖面，并将公众参与专业支持团队编制首次纳入国家科研共同体核算。（pp. 100–101）
+> 4. **公众参与是维系大学办学生存合法性与社会运营许可的战略防线** 在财政紧缩与社会极化挑战下，公众参与构成大学捍卫公共财政投资、履行公民大学责任与争取社会慈善的不可替代基石。（pp. 93, 102–105）
+
+> [!stat-cards]- 核心数据（pp. 94–100）
+> - **85%** 英国理工科（STEM）科研人员报告开展过至少一项公众参与活动（2006 年为 74%）。
+> - **27%** 每年参与 10 次以上公众参与的高活跃度学者骨干比例（2006 年为 11%）。
+> - **83%** 明确认同“公众参与是科研人员不可推卸的道德义务”的受访者比例（2006 年为 73%）。
+> - **64%** 认同“公众参与能够显著提升科学研究整体质量”的受访者比例（2015 年为 36%）。
+> - **9%** 认为公众参与“最适合由资深研究人员承担”的学者比例（2006 年为 44%）。
+> - **75%** 将严峻的“时间压力”列为开展公众参与的首要障碍（2015 年为 61%）。
+> - **45%** 将“专项活动经费短缺”列为关键障碍（2015 年为 26%）。
+> - **25%** 认为公众参与对在依托高校内部的职称晋升有实质性帮助的比例。
+> - **50%** 英国 REF 2014 与 REF 2021 评估中将公众参与作为促成社会效益关键路径的影响力案例比例。
 
 ---
 
-## 研究方法与证据
+## 理论框架
 
-> [!methodology] 综合研究方法与实证证据体系
-> - **跨越二十年的全国科研人员微观追踪调查（纵向趋势研究，2006–2025）**
->   由 Technopolis 受托实施全国代表性大样本抽样调查，系统对接 2006 年皇家学会调查与 2015 年公共资助机构联盟调查，构建了覆盖参与覆盖率（85%）、重度参与者（27%）、道德认同（83%）、科研反哺（64%）、动机矩阵、时间压力阻碍（75%）及晋升挂钩支持（25%）的二十年量化演化面板。（pp. 93–98）
-> - **高校领导层高层圆桌研讨（HEI Senior Leaders Roundtable）**
->   召集全英高校资深管理层开展定性协商，深入剖析地方公民大学责任、通胀紧缩压力与传统科研教学[[Performance Indicators|绩效指标]]对公众参与的挤压两难。（p. 99）
-> - **国家科研评估主审专家研讨与跨校同行咨询**
->   皇家学会与 [[Research Excellence Framework|REF]] 评估委员会各子面板主席开展两轮专项研讨（2020、2022），并深入咨询全英 58 所大学代表，系统解构了 2014 与 2021 两轮 REF 中约 50% 涉及公众参与的影响力案例申报特征、长周期因果归因瓶颈以及商业化投资挤出效应。（pp. 100–101）
-> - **方法适用性边界**
->   实证调查与政策分析依托于英国特有的双重科研资助体制（Dual-support system：QR 财政拨款 + 课题竞争经费）、REF 评价生态与分权高等教育治理结构；在将相关改革经验（如工作量核算、独立参与剖面）向不同学术劳动力市场与中央集权型大学体制迁移时，须充分考量本土制度环境的适配性。（p. 100）
+> [!framework-table] 理论工具箱
+> | 理论工具 | 解释功能 |
+> |---|---|
+> | **[[Public Engagement with Science\|公众科学参与]]**<br>Public Engagement with Science | 确立为科研全生命周期的核心组成部分，超越个人自愿业余爱好的传统框架，升华为维系学术公信力与社会运营许可的战略防线。（pp. 91–93, 102） |
+> | **[[Upstream Public Engagement\|上游公众参与]]**<br>Upstream Public Engagement | 在科技议程设定、优先序遴选与立项论证阶段前置引入公众与多元利益相关者开展平权共创，克服技术定型后再行公关解释的下游被动局面。（pp. 92, 100, 105） |
+> | **社会运营许可**<br>Licence to Operate | 大学与科研共同体向公众纳税人证明公共科研投资的民主正当性、伦理透明度并换取全社会对颠覆性科技信任接纳的深层政治社会契约。（pp. 93, 102） |
+> | **工作量核算机制**<br>Workload Allocation | 破解学者严重时间挤出（75%）的核心管理杠杆，将科学传播与社会[[Dialogue in Education\|对话]]正式核算为与教学、科研等权重的法定工作时长。（p. 103） |
+> | **[[Patient and Public Involvement\|患者与公众参与]]**<br>Patient and Public Involvement | 第三部门医学健康研究在上游课题共创、[[Clinical Trial\|临床试验]]方案审查与改善患者依从性上的成熟平权参与[[Paradigm\|范式]]。（pp. 92, 100） |
+> | **[[Citizen Science\|公民科学]]**<br>Citizen Science | 公众作为平权科研伙伴，深度卷入真实世界大规模科研数据采集、分类标记与前沿认知科学研究的互动形态。（pp. 43, 92） |
+
+---
+
+## 研究方法
+
+> [!method-panel] 研究设计
+> | 模块 | 材料与处理方式 |
+> |---|---|
+> | **全国科研人员微观追踪调查**<br>Longitudinal Trend Survey | Technopolis 受托实施全国代表性大样本抽样调查，系统对接 2006 年皇家学会调查与 2015 年公共资助机构联盟调查，构建覆盖参与覆盖率、动机、障碍及高校支持的二十年量化演变面板。（pp. 93–98） |
+> | **高校领导层高层圆桌研讨**<br>HEI Senior Leaders Roundtable | 召集全英高校资深校领导开展定性协商，深入剖析地方公民大学责任、通胀紧缩压力与传统科研教学硬考核对公众参与的资源挤压两难。（p. 99） |
+> | **国家科研评估主审专家协商与高校咨询**<br>REF Chairs & HEIs Consultation | 皇家学会与 [[Research Excellence Framework\|REF]] 评估委员会各子面板主席开展两轮专项研讨（2020、2022），并深入咨询全英 58 所大学代表，系统解构约 50% 涉及公众参与的影响力案例申报特征、因果归因瓶颈与商业化挤出效应。（pp. 100–101） |
+
+> [!sample-panel]- 样本与材料快照
+> | 样本层面 | 构成 |
+> |---|---|
+> | **[[Longitudinal Study\|纵向调查]]样本** | 涵盖 2006 年皇家学会调查、2015 年 RCUK/Wellcome 调查及 2025 年 Technopolis 全国追踪调查，样本覆盖理工科与人文社科各学段高校科研人员。（pp. 93–98） |
+> | **高校管理层样本** | 全英代表性研究型大学与现代大学副校长及科研主管领导。（p. 99） |
+> | **国家评估案例样本** | REF 2014 与 REF 2021 评估中提交的 13,000 余份影响力案例库，其中约 50% 将公众参与作为关键实施路径。（pp. 100–101） |
 
 ---
 
@@ -468,6 +492,13 @@ REF 作为决定英国各大学每年数十亿英镑质量相关（Quality-Relat
 > 尽管高等教育机构面临充满挑战的财政环境，但对公众参与的资金投入应当被视为对未来的战略性投资。公众参与基于以下理由对于大学的生存发展至关重要：为科研活动建立公众支持并提升其社会形象；为大学科研与教育核心活动维持公共投资的合法性；展示透明且合乎伦理的研究实践；凸显大学作为促进社会建设性与相互尊重[[Dialogue in Education|对话]]的关键中枢角色；启迪下一代学生、学者和教育工作者；以及通过外部大奖认可和吸引社会慈善提升声誉。（p. 102）
 >
 > *Although HEIs face a challenging financial environment, funding of public engagement should be seen as a strategic investment in the future. Public engagement is vital to universities’ existence on the grounds of: building public support for research activities and raising the profile of these activities; maintaining legitimacy for public investment in their core activities of research and education; demonstrating transparent and ethical practice; highlighting their key role as facilitators of constructive and mutually respectful dialogue; inspiring the next generations of students, researchers and educators; boosting opportunities for external recognition through prizes and attracting philanthropy.*
+
+---
+
+## 自述局限
+
+> [!warning]
+> 本章分析主要基于英国特有的双重科研资助体制（Dual-support system：QR 核心拨款 + 竞争性课题经费）、科研卓越框架（[[Research Excellence Framework|REF]]）评价体系及多元分权的高等教育治理生态；在将工作量法定核算、卓越水印外部认证及独立参与考评剖面等制度经验向中央集权型科研体制或不同学术劳动力市场迁移时，必须充分考量本土科研生态的适配性与制度摩擦。（pp. 98–101）
 
 ---
 
