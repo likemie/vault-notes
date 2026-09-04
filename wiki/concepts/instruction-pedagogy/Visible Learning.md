@@ -416,7 +416,7 @@ Hattie（2015, p.81）提出"教师是 DIE for"的首字母缩略词来描述成
 
 > [!warning] 数据与产出局限
 > - **数据来源** 元分析基于 1980s–2000s 三个英语国家（美国、澳大利亚、新西兰）的研究，跨语境迁移性有限（[[Argument_Golovchin_2019_ESC|Golovchin, 2019, p.232]]）。
-> - **争议性产出** 教师学科知识和教师资格对学业成绩的效应量（d=0.1）远低于微格教学和反馈——这一结论引发批评者对[[Ganz-Methode|整体方法]]有效性的质疑（[[Argument_Golovchin_2019_ESC|Golovchin, 2019, p.233]]）。系统性批评见 [[Critiques of Visible Learning]]。
+> - **争议性产出** 教师学科知识和教师资格对[[Academic Achievement|学业成绩]]的效应量（d=0.1）远低于微格教学和反馈——这一结论引发批评者对[[Ganz-Methode|整体方法]]有效性的质疑（[[Argument_Golovchin_2019_ESC|Golovchin, 2019, p.233]]）。系统性批评见 [[Critiques of Visible Learning]]。
 
 > [!tension] 好教师能否以人格类型定义？
 > - **Hattie & Yates** — 好教师不能以特定人格类型定义。

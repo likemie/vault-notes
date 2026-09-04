@@ -51,7 +51,7 @@ APA 出版手册（Publication Manual of the American Psychological Association�
 
 ### 参考文献
 
-第7版不再需要标注出版社所在地。例如，不再写"Thousand Oaks, CA: [[Sage]]"，简化为"[[Scientific Advisory Group for Emergencies|SAGE]]"。论文和报告的参考[[Document|文献]]格式提供了超过 100 个示例。
+第7版不再需要标注出版社所在地。例如，不再写"Thousand Oaks, CA: [[Sage]]"，简化为"SAGE"。论文和报告的参考[[Document|文献]]格式提供了超过 100 个示例。
 
 ### 标题层级
 

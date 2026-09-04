@@ -36,7 +36,7 @@ updated: 2026-09-01
 
 > [!event-context] 事件背景
 > - **时间／地点** 1963 至 1982 年，时称斯威士兰的姆巴巴内（Mbabane, Swaziland），即今史瓦帝尼。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 122–126)]]
-> - **关键主体** 迈克尔·斯特恩（Michael Stern）、沃特福德卡姆拉巴校董会、克里斯托弗·牛顿·汤普森（Christopher Newton-Thompson）、大西洋学院、[[United World Colleges|联合世界书院]]（United World Colleges，UWC）国际董事会及国际文凭组织（International Baccalaureate Organization，IBO）。
+> - **关键主体** 迈克尔·斯特恩（Michael Stern）、沃特福德卡姆拉巴校董会、克里斯托弗·牛顿·汤普森（Christopher Newton-Thompson）、大西洋学院、[[United World Colleges|联合世界书院]]（United World Colleges，UWC）国际董事会及[[International Baccalaureate|国际文凭组织]]（International Baccalaureate Organization，IBO）。
 > - **制度背景** 南非种族隔离教育（apartheid education）禁止斯特恩实践多种族共同教育。学校因而设在南非境外，并以共同学习和社区服务建立教育方向。
 > - **触发条件** 1975 年学校已有约三百名学生，却在地理和组织上较为孤立。校董会希望借 UWC 联系维持教育目标，并向国际网络贡献多种族教育和社区服务经验。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 122–123)]]
 
@@ -46,7 +46,7 @@ updated: 2026-09-01
 
 ## 学校起源
 
-> [!stat-cards] 从创校到接触 UWC
+> [!stat-cards] 从创校到接触 [[United World Colleges|UWC]]
 > - **1963 年开校** 一间教室、六名教师和十六名学生。
 > - **1975 年规模** 约三百名学生，男女数量大体相当。
 > - **原书记载的种族构成** 约一半白人，另一半被归为黑人或棕色人种。
@@ -60,7 +60,7 @@ updated: 2026-09-01
 ## 经过
 
 > [!dev-timeline]- 从价值接近到正式成员
-> - **1975 年　首次接触 UWC** 牛顿·汤普森提出参照新加坡取得关联身份。学校希望减少孤立并在人员更替后维持教育目标，UWC 则看到非洲多种族教育和社区服务进入网络的可能。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 122–123)]]
+> - **1975 年　首次接触 [[United World Colleges|UWC]]** 牛顿·汤普森提出参照新加坡取得关联身份。学校希望减少孤立并在人员更替后维持教育目标，UWC 则看到非洲多种族教育和社区服务进入网络的可能。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 122–123)]]
 > - **1977 年 10 月　非正式联系成为政策程序** 国际董事会要求合格既有学校在正式关联决定前，与现有 UWC 保持适当时长的非正式联系。沃特福德与大西洋学院成为首批配对之一。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, p. 124)]]
 > - **1978 年 4 月 13 日　提前取得关联资格** 牛顿·汤普森在大西洋学院国际理事会会议上要求结束等待。部分成员仍有疑虑，蒙巴顿的支持推动会议一致接纳沃特福德为关联学校。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 124–125)]]
 > - **1980 年　正式加入进入紧急议程** 迪奇利公园（Ditchley Park）会议检讨 UWC 未来，并决定尽快研究沃特福德成为正式成员所需条件。
@@ -78,7 +78,7 @@ updated: 2026-09-01
 > | **课程与考试时点** | 按南半球学年组织课程，多数学生申请南非大学 | IBO 承担额外成本，提前分阶段设置十一月考试 | 原为澳大拉西亚和南美规划的考试时点提前成为全球基础设施 |
 > | **财政关系** | 正式成员需要明确学校与国际运动的共同成本和责任 | 1981 年夏季完成财务谈判 | 价值认同与课程采用转化为可执行成员协议。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, pp. 125–126)]] |
 
-国际文凭（International Baccalaureate，IB）十一月考试并非只为一所学校提供例外。IBO 原本已把该考季视为服务澳大拉西亚和南美学校的长期目标，沃特福德的加入需求使其提前实施。调整也回应了布鲁塞尔会议关于支持发展中国家的建议，并体现 UWC 与 IBO 之间的组织互惠。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, p. 126)]]
+[[International Baccalaureate|国际文凭]]（International Baccalaureate，IB）十一月考试并非只为一所学校提供例外。IBO 原本已把该考季视为服务澳大拉西亚和南美学校的长期目标，沃特福德的加入需求使其提前实施。调整也回应了布鲁塞尔会议关于支持发展中国家的建议，并体现 [[United World Colleges|UWC]] 与 IBO 之间的组织互惠。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, p. 126)]]
 
 ---
 

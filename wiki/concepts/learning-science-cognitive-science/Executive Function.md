@@ -42,7 +42,7 @@ updated: 2026-08-25
 ## 定义
 
 > [!def] 核心定义
-> 执行功能（Executive Function, EF）是一个涵盖性术语（umbrella term），指一组高阶、通用目的的控制过程，用于调节多种认知功能（如思维和行为）以实现特定目标。EF 涵盖广泛的认知过程，包括[[Working Memory|工作记忆]]、[[Cognitive Shifting|认知灵活性]]、注意力控制、计划、概念形成和反馈处理，各项复杂度不同。（[[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p. 4]]）
+> 执行功能（Executive Function, EF）是一个涵盖性术语（umbrella term），指一组高阶、通用目的的控制过程，用于调节多种认知功能（如思维和行为）以实现特定目标。EF 涵盖广泛的认知过程，包括[[Working Memory|工作记忆]]、[[Cognitive Flexibility|认知灵活性]]、注意力控制、计划、概念形成和反馈处理，各项复杂度不同。（[[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p. 4]]）
 
 > [!citation-card]- 原始定义
 > 执行功能是一个涵盖性术语，指一组用于达成特定目标、调节多种认知功能（如思维与行为）的高阶通用控制过程。([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p. 4]])
@@ -60,7 +60,7 @@ updated: 2026-08-25
 
 > [!feature] EF 的三成分结构
 > - **抑制（[[Cognitive Inhibition|inhibition]]）** 在必要时故意抑制主导性、自动化或常见反应的能力（[[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p. 4]]）。
-> - **转换（Shifting）** 亦称[[Cognitive Shifting|认知灵活性]]或任务切换，指在多个不同任务、操作或心理集之间来回切换的能力（[[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p. 5]]）。
+> - **转换（Shifting）** 亦称[[Cognitive Flexibility|认知灵活性]]或[[Cognitive Shifting|任务切换]]，指在多个不同任务、操作或心理集之间来回切换的能力（[[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p. 5]]）。
 > - **[[Updating and Monitoring|更新与监控]]（Updating and Monitoring）** 动态操纵[[Working Memory|工作记忆]]所保持内容的能力。
 >
 > 三成分结构来自Miyake 的执行功能统一性与多样性框架。
@@ -88,7 +88,7 @@ updated: 2026-08-25
 > [[Creativity|创造力]]与[[Critical Thinking|批判性思维]]都依赖执行功能，执行功能构成两者正相关的共同认知基础。
 
 > [!claim] [[Argument_Park_2026_TSC|Park et al. (2026)]]
-> [[Creativity|创造力]]（发散生成）与[[Critical Thinking|批判性思维]]（收敛评价）都依赖抑制、[[Cognitive Shifting|认知灵活性]]与[[Working Memory|工作记忆]]等执行功能（Benedek et al., 2012, 2014），执行功能因此构成两者正相关的共同认知基础，也支撑联合培养的可行性。（pp. 2–3）
+> [[Creativity|创造力]]（发散生成）与[[Critical Thinking|批判性思维]]（收敛评价）都依赖抑制、[[Cognitive Flexibility|认知灵活性]]与[[Working Memory|工作记忆]]等执行功能（Benedek et al., 2012, 2014），执行功能因此构成两者正相关的共同认知基础，也支撑联合培养的可行性。（pp. 2–3）
 
 ---
 
@@ -104,4 +104,4 @@ updated: 2026-08-25
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Bolton_2017_ArchPsych|Bolton & Hattie (2017)]] — 系统阐述 EF 的定义、三成分结构、发展轨迹及其与[[Academic Achievement|学业成就]]、情绪和社会发展的关系。
-> - [[Argument_Park_2026_TSC|Park et al. (2026)]] — 在[[Meta-analysis|元分析]]中指出[[Creativity|创造力]]与[[Critical Thinking|批判性思维]]共享抑制、[[Cognitive Shifting|认知灵活性]]与[[Working Memory|工作记忆]]等执行功能基础，执行功能是两者正相关的共同认知基础。
+> - [[Argument_Park_2026_TSC|Park et al. (2026)]] — 在[[Meta-analysis|元分析]]中指出[[Creativity|创造力]]与[[Critical Thinking|批判性思维]]共享抑制、[[Cognitive Flexibility|认知灵活性]]与[[Working Memory|工作记忆]]等执行功能基础，执行功能是两者正相关的共同认知基础。

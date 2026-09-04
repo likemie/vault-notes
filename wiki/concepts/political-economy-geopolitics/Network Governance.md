@@ -148,7 +148,7 @@ updated: '2026-09-01'
 
 ## 在跨国教育组织中的表现
 
-> [!framework-table] 联合世界书院的分层治理
+> [!framework-table] [[United World Colleges|联合世界书院]]的分层治理
 > | 治理节点 | 主要责任 | 依赖关系 |
 > |---|---|---|
 > | **国际理事会与国际董事会** | 制定共同方针，审议扩展和成员资格 | 依赖各校和国家委员会提供地方执行能力 |
@@ -157,7 +157,7 @@ updated: '2026-09-01'
 > | **自治书院董事会** | 负责政策、财政和行政 | 需要在地方制度中落实国际承诺 |
 > | **关联学校与配对书院** | 以非正式联系检验使命和合作能力 | 需要国际办公室持续支持并接受成员审议。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, pp. 105–109, 123–126)]] |
 
-[[United World Colleges|联合世界书院]]（United World Colleges，UWC）的扩展显示，网络治理既不是统一科层控制，也不是各校完全独立。[[Founding of Lester B. Pearson College|加拿大]]和[[Founding of United World College of the Adriatic|意大利]]项目把政府、地方委员会、私人捐助者、学校领导与国际组织连接起来，各方分别承担土地、资本、奖学金、课程和治理责任。[[United World Colleges Associated Schools Policy 1977|1977年关联学校政策]]又以校际联系建立中间层，使既有学校能够逐步进入网络。共同身份依赖持续协调，节点增加也会提高国际办公室的共同成本。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 107–109, 119–129)]]
+[[United World Colleges|联合世界书院]]（United World Colleges，UWC）的扩展显示，网络治理既不是统一科层控制，也不是各校完全独立。加拿大和意大利项目把政府、地方委员会、私人捐助者、[[School Leadership|学校领导]]与国际组织连接起来，各方分别承担土地、资本、奖学金、课程和治理责任。1977年关联学校政策又以校际联系建立中间层，使既有学校能够逐步进入网络。共同身份依赖持续协调，节点增加也会提高国际办公室的共同成本。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 107–109, 119–129)]]
 
 ---
 

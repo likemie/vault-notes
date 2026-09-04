@@ -42,7 +42,7 @@ updated: '2026-05-18'
 > [!info] 背景
 > SFI Report 2013 指 Winther and Nielsen 编辑的丹麦报告 *Lærere, undervisning og elevpræstationer i folkeskolen*。它是丹麦关于教师、教学与学生表现的大型研究；Laursen 称其为丹麦关于"什么促进学生学习"的最大且方法上最先进的研究([[Argument_Laursen_2015_Paideia|Laursen, 2015, p.37]])。
 >
-> 报告主要以 Folkeskole 毕业考试成绩衡量学生学习，并在统计上控制学生社会背景。因此，它适合说明哪些教学质量与丹麦学生的学业成绩相关，但不能穷尽教育目的、学生意义建构、[[Creativity|创造力]]或民主参与等更宽问题。
+> 报告主要以 Folkeskole 毕业考试成绩衡量学生学习，并在统计上控制学生社会背景。因此，它适合说明哪些教学质量与丹麦学生的[[Academic Achievement|学业成绩]]相关，但不能穷尽教育目的、学生意义建构、[[Creativity|创造力]]或民主参与等更宽问题。
 
 ## 主要发现
 

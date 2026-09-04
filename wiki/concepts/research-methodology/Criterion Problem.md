@@ -95,7 +95,7 @@ updated: '2026-08-27'
 
 > [!feature] 效标问题的三大结构性病理机制
 > - **效标缺失（Criterion Deficiency）** 实际效标未能完全涵盖终极[[Construct|构念]]的全部关键维度（如用单一[[Divergent Thinking|发散思维]]测验代替完整[[Creativity|创造力]]，遗漏了[[Problem Finding|问题发现]]与价值评估）。
-> - **效标污染（Criterion Contamination）** 实际效标中掺入了与目标构念无关的外来变异（如教师对学生创造力的评定受到学生学业成绩、顺从度或性别刻板印象的干扰）。
+> - **效标污染（Criterion Contamination）** 实际效标中掺入了与目标构念无关的外来变异（如教师对学生创造力的评定受到学生[[Academic Achievement|学业成绩]]、顺从度或性别刻板印象的干扰）。
 > - **效标[[Heterogeneity|异质性]]（Criterion Heterogeneity）** 不同子领域或不同研究团队采纳截然不同的效标界定口径，导致跨研究[[Effect Size|效应量]]无法直接等价比较，在[[Meta-analysis|元分析]]中产生巨大的真实异质性方差 $\tau^2$。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 7–8)]]
 
 > [!logic-map]- 效标缺失与效标污染韦恩关系模型
@@ -154,4 +154,4 @@ updated: '2026-08-27'
 
 > [!tension] 行为结果效标 vs 认知过程效标之争
 > - **行为/产品效标学派** 坚持以现实世界中可见的[[Creativity|创造性]]成果（如专利、出版物、同感评估作品）作为唯一具有[[Ecological Validity|生态效度]]的硬效标。
-> - **认知潜能学派** 认为外部产品高度受到机遇、社会资本与环境资源的干扰，主张以内隐的高阶[[Problem Finding|问题发现]]、[[Divergent Thinking|发散思维]]与[[Cognitive Shifting|认知灵活性]]等纯粹认知加工指标作为更公平的基础效标。
+> - **认知潜能学派** 认为外部产品高度受到机遇、社会资本与环境资源的干扰，主张以内隐的高阶[[Problem Finding|问题发现]]、[[Divergent Thinking|发散思维]]与[[Cognitive Flexibility|认知灵活性]]等纯粹认知加工指标作为更公平的基础效标。

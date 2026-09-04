@@ -119,7 +119,7 @@ ight|$$
 > 3. **宽容边界（Liberal Boundary）vs 保守边界（Conservative Boundary）**
 >    - **宽容边界（Liberal Curve）** 假定流失主要由与干预内容无关的外生因素（如学区自然家庭搬迁）引起；允许较高的临界差异流失率；
 >    - **保守边界（Conservative Curve）** 假定流失可能直接由干预本身的不良体验、繁重负担或学生抵触引起；对差异流失率设定极其严苛的上限。
->    - **裁定分流规则** 处于边界之下的研究被判定为**低流失 [[Randomised Controlled Trials|RCT]]（Low Attrition）**直接维持一级无保留达标；跨越边界的研究被判定为**高流失 RCT（High Attrition）**，必须重新核验分析样本在基线前测上的等值性（Baseline Equivalence）。
+>    - **裁定分流规则** 处于边界之下的研究被判定为**低流失 [[Randomised Controlled Trials|RCT]]（Low Attrition）**直接维持一级无保留达标；跨越边界的研究被判定为**高流失 RCT（High Attrition）**，必须重新核验分析样本在基线前测上的等值性（[[Baseline Standardized Mean Difference|Baseline Equivalence]]）。
 
 ---
 
@@ -141,7 +141,7 @@ ight|$$
 > | 统计纠偏技术 | 核心操作原理 | 适用场景与优劣势 |
 > |:---|:---|:---|
 > | **[[Intent-to-Treat Analysis\|意向治疗分析]] (ITT)** | **“一旦随机，永远分析”**；将所有最初[[Random Assignment\|随机分配]]的学生（无论是否中途脱落或未完整接受干预）全部纳入最终分析。 | 彻底捍卫随机化基线等价性，防止虚假高估；缺点是可能稀释干预在足额完成者中的真实潜在功效。 |
-> | **基线等值性重新核查 (Baseline Equivalence)** | 丢弃初始样本基线，仅针对最终留在[[Pre-test and Post-test\|后测]]中的分析样本（Analytic Sample）重新检验前测均值与协[[Variable\|变量]]平衡。 | 高流失 RCT 挽救因果资格的唯一通道；若前测差值在 $0.05–0.25\text{ SD}$ 间必须纳入回归协变量调整。 |
+> | **基线等值性重新核查 ([[Baseline Standardized Mean Difference\|Baseline Equivalence]])** | 丢弃初始样本基线，仅针对最终留在[[Pre-test and Post-test\|后测]]中的分析样本（Analytic Sample）重新检验前测均值与协[[Variable\|变量]]平衡。 | 高流失 RCT 挽救因果资格的唯一通道；若前测差值在 $0.05–0.25\text{ SD}$ 间必须纳入回归协变量调整。 |
 > | **多重插补 (Multiple [[Imputation Methods\|imputation]], MI) / FIML** | 依据受试者基线成绩、人口学变量与过程数据，通过统计算法多重填补缺失的后测结果。 | 假定数据为**随机缺失（MAR）**；若属于非随机缺失（MNAR，如最差的学生故意缺考），插补结果仍有偏倚。 |
 > | **工具变量法与 [[Complier Average Causal Effect\|CACE]] 估计 (Complier Average Effect)** | 以初始随机分组作为工具变量（IV），剥离脱落与不顺从行为，估计**顺从者平均因果效应（CACE）**。 | 精准识别真正坚持完成干预者的净效应，是现代因果计量经济学纠偏标准[[Paradigm\|范式]]。 |
 
