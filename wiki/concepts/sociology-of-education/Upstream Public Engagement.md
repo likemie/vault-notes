@@ -8,10 +8,10 @@ aliases:
 summary: "指在科学研究与技术开发的早期构思、议程设定、优先序确立以及基金申请阶段，将非专业公众、患者群体及相关社群系统化引入科研全生命周期的前瞻性参与范式，通过平权对话与平权共创共同塑造科技发展轨迹。"
 type: concept
 domain: "sociology-of-education"
-related_count: 7
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 17
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 concept_domain: "sociology-of-education"
 concept_kind: "concept"
 tags:

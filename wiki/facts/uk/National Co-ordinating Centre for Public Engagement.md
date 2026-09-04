@@ -10,9 +10,9 @@ subtype: institutional
 region: uk
 fact_region: "uk"
 fact_kind: "institutional"
-fact_related_count: 4
+fact_related_count: 5
 fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_stars: ""
 fact_related_color: "#e5e7eb"
 issuing_organization: Higher Education Funding Council for England, Research Councils UK, Wellcome Trust, University of Bristol, University of the West of England
 tags:
