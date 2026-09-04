@@ -29,24 +29,29 @@ related_concepts:
   - "[[Forest Plot]]"
   - "[[Funnel Plot]]"
   - "[[Paradigm]]"
+  - "[[Attrition]]"
   - "[[Between-Study Variance]]"
   - "[[Sampling Error]]"
   - "[[I-squared Statistic]]"
   - "[[Publication Bias]]"
   - "[[Small Study Effects]]"
+  - "[[Statistical Significance]]"
   - "[[Dependent Variable]]"
   - "[[Independent Variable]]"
   - "[[Variable]]"
+  - "[[Standard Error]]"
+  - "[[Access and Acceptance in Research]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Reliability]]"
   - "[[Intercoder Agreement]]"
   - "[[Hypothesis]]"
-  - "[[Standard Error]]"
+  - "[[Sample Size Determination]]"
   - "[[Visible Learning]]"
   - "[[Critique of Meta-analysis]]"
   - "[[Class Size]]"
   - "[[Academic Achievement]]"
+  - "[[Causality]]"
   - "[[Epistemology]]"
-  - "[[Pre-test and Post-test]]"
   - "[[Graphic Organizer]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[AI Agent in Education]]"
@@ -72,12 +77,15 @@ related_methods:
   - "[[Robust Variance Estimation]]"
   - "[[Three-Level Meta-Analysis]]"
   - "[[Baseline Standardized Mean Difference]]"
+  - "[[Quasi-Experimental Designs]]"
+  - "[[Analysis of Covariance]]"
   - "[[Cochran's Q Test]]"
   - "[[Egger Regression Test]]"
   - "[[Begg and Mazumdar Rank Correlation]]"
   - "[[Trim and Fill Method]]"
   - "[[Leave-One-Out Sensitivity Analysis]]"
   - "[[Pairwise Wald Tests]]"
+  - "[[Random Assignment]]"
   - "[[Experimental Research]]"
 related_persons:
   - "[[Gene Glass]]"
@@ -159,7 +167,7 @@ flowchart LR
 > [!matrix-table] 元分析核心统计方法与参数索引矩阵
 > | 统计方法 / 核心参数 | 核心数学符号与公式 | 统计学功能与解决的痛点 | 决策阈值与研判准则 | 深度条目与实证索引 |
 > |---|---|---|---|---|
-> | **[[Baseline Standardized Mean Difference\|基线等效性标准化均数差（Baseline SMD）]]** | $d_{\text{baseline}} = \frac{\bar{X}_{T, \text{pre}} - \bar{X}_{C, \text{pre}}}{SD_{\text{pooled}}},\quad g = J \times d$<br>$SD_{\text{pooled}} = \sqrt{\frac{(n_T-1)SD_{T,\text{pre}}^2 + (n_C-1)SD_{C,\text{pre}}^2}{n_T+n_C-2}}$ | 实验与准实验设计（QED）及高流失 RCT 前端准入门槛；量化干预前组间初始能力等价性，确立 ANCOVA 统计纠偏有效边界。 | $\lvert d \rvert \le 0.05$ 免调直接采纳；$0.05 < \lvert d \rvert \le 0.25$ 必须经协变量（ANCOVA）校正；$\lvert d \rvert > 0.25$ 坚决剔除（WWC 5.0 / Slavin 准则）。 | 🔗 [[Baseline Standardized Mean Difference]]<br>📚 [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] |
+> | **[[Baseline Standardized Mean Difference\|基线等效性标准化均数差（Baseline SMD）]]** | $d_{\text{baseline}} = \frac{\bar{X}_{T, \text{pre}} - \bar{X}_{C, \text{pre}}}{SD_{\text{pooled}}},\quad g = J \times d$<br>$SD_{\text{pooled}} = \sqrt{\frac{(n_T-1)SD_{T,\text{pre}}^2 + (n_C-1)SD_{C,\text{pre}}^2}{n_T+n_C-2}}$ | 实验与[[Quasi-Experimental Designs\|准实验设计]]（QED）及高[[Attrition\|流失]] [[Randomised Controlled Trials\|RCT]] 前端准入门槛；量化干预前组间初始能力等价性，确立 [[Analysis of Covariance\|ANCOVA]] 统计纠偏有效边界。 | $\lvert d \rvert \le 0.05$ 免调直接采纳；$0.05 < \lvert d \rvert \le 0.25$ 必须经协变量（ANCOVA）校正；$\lvert d \rvert > 0.25$ 坚决剔除（WWC 5.0 / Slavin 准则）。 | 🔗 [[Baseline Standardized Mean Difference]]<br>📚 [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] |
 > | **[[Effect Size\|标准化均数差效应量（Hedges' g / Cohen's d）]]** | $d = \frac{\bar{X}_T - \bar{X}_C}{SD_{\text{pooled}}},\quad g = J \times d$<br>$J \approx 1 - \frac{3}{4(n_T + n_C) - 9}$ | 统一不同量表测验的连续型干预结果，消除量纲差异，乘上 Hedges 小样本校正因子 $J$ 剔除正向估计偏倚。 | 传统 Cohen 经验基准：$0.2$（小）、$0.5$（中）、$0.8$（大）；教育领域参考 Hattie 铰链点 $d = 0.40$（年度期望进步标准）。 | 🔗 [[Effect Size]]<br>📚 [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] |
 > | **[[Inverse-Variance Weighting\|逆方差加权（IVW）]]** | $w_i = \frac{1}{v_i} \text{ 或 } w_i^* = \frac{1}{v_i + \tau^2}$<br>$\bar{\theta} = \frac{\sum w_i y_i}{\sum w_i},\quad SE(\bar{\theta}) = \sqrt{\frac{1}{\sum w_i}}$ | 依据研究精度的倒数分配权重，方差越小（精度越高）赋予更大权重，实现合成估计量方差最小化（BLUE 最佳线性无偏估计）。 | 95% CI 不跨 0 判定效应显著；检验超大样本单项研究权重集中度，防范单一研究绑架合并估计；对比固定与随机权重差异评估小研究膨胀。 | 🔗 [[Inverse-Variance Weighting]]<br>📚 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|Cohen et al. (2011, Ch. 17)]] |
 > | **[[Fixed-Effect and Random-Effects Models\|固定与随机效应模型]]** | 固定：$\theta_i = \theta + \epsilon_i,\ \epsilon_i \sim N(0, v_i)$<br>随机：$\theta_i = \mu + u_i + \epsilon_i,\ u_i \sim N(0, \tau^2)$ | 固定模型假定所有研究共享单一恒定真实效应；随机模型纳入跨人群与情境的研究间异质性方差 $\tau^2$，外推至广义总体。 | $Q$ 检验显著（$p < .10$）或 $I^2 > 25\%$ 时必须优先采用随机效应模型；教育干预生态多样化时随机效应为通用默认模型。 | 🔗 [[Fixed-Effect and Random-Effects Models]]<br>📚 [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] |
@@ -174,10 +182,10 @@ flowchart LR
 > | **[[Trim and Fill Method\|剪补法（Trim & Fill）]]** | $L_0 = \frac{4S - k(k+1)}{2k - 1},\quad R_0 = k - r_*$<br>（对侧镜像虚拟填补并重拟合模型） | 估算漏斗图不对称导致的缺失研究篇数，在对侧虚拟填补缺失点，重新计算校正后的真实效应量与置信区间。 | 比较填补后效应量点估计降幅与 95% CI：若填补后效应量大幅稀释或不再显著，表明原始研究结论高度依赖发表偏倚。 | 🔗 [[Trim and Fill Method]] |
 > | **[[Fail-Safe N\|失安全系数（Fail-Safe N）]]** | 经典：$N_{\text{fs}} = \frac{(\sum Z_i)^2}{2.706} - k$<br>Orwin：$N_{\text{fs}} = \frac{k(\bar{g} - g_c)}{g_c - g_{\text{fs}}}$ | 极端抽屉文件敏感性压力测试：经典法计算推翻显著性所需零效应研究数；Orwin 法计算稀释至微小平凡阈值（如 $g_c = 0.01$）所需篇数。 | **Rosenthal 准则** $N_{\text{fs}} > 5k + 10$；**Orwin 准则** 稀释所需未发表研究量远超该学科领域现实发表与未发表总量即判定高度稳健。 | 🔗 [[Fail-Safe N]] |
 > | **[[Leave-One-Out Sensitivity Analysis\|留一法敏感性分析]]** | $\hat{\theta}_{(-i)} = \frac{\sum_{j \ne i} w_j^* y_j}{\sum_{j \ne i} w_j^*},\quad SE(\hat{\theta}_{(-i)}) = \sqrt{\frac{1}{\sum_{j \ne i} w_j^*}}$ | 依次逐一剔除单项初级研究后重新拟合模型，检验是否存在主导结论方向、极度拉大效应量或扭曲异质性的极端异常值。 | 观察逐项剔除后效应量波动区间是否始终涵盖在总体估计边界内；若剔除某项研究后效应剧变，该研究为强杠杆偏倚源。 | 🔗 [[Leave-One-Out Sensitivity Analysis]]<br>📚 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] |
-> | **[[Pairwise Wald Tests\|成对 Wald 检验]]** | $W_{jk} = \frac{(\hat{\theta}_j - \hat{\theta}_k)^2}{v_j + v_k} \sim \chi^2(1)$ | 在分类亚组调节分析后，检验三个或更多分类亚组之间两两成对效应量差异的统计显著性与级差排序。 | $W > 3.84$ 判定两亚组间差异显著（$p < .05$）；配合事后多重检验（如 Bonferroni / Holm）校正假阳性膨胀。 | 🔗 [[Pairwise Wald Tests]] |
+> | **[[Pairwise Wald Tests\|成对 Wald 检验]]** | $W_{jk} = \frac{(\hat{\theta}_j - \hat{\theta}_k)^2}{v_j + v_k} \sim \chi^2(1)$ | 在分类亚组调节分析后，检验三个或更多分类亚组之间两两成对效应量差异的[[Statistical Significance\|统计显著性]]与级差排序。 | $W > 3.84$ 判定两亚组间差异显著（$p < .05$）；配合事后多重检验（如 Bonferroni / Holm）校正假阳性膨胀。 | 🔗 [[Pairwise Wald Tests]] |
 > | **[[Meta-regression\|元回归（Meta-regression）]]** | $\theta_i = \beta_0 + \sum_{p=1}^P \beta_p X_{pi} + u_i + \epsilon_i$<br>$u_i \sim N(0, \tau^2_{\text{res}})$ | 将效应量作为[[Dependent Variable\|因变量]]，研究特征作为[[Independent Variable\|自变量]]，检验连续与多元协[[Variable\|变量]]对异质性的联合解释力。 | $F$ 或 $Q_M$ 检验评价模型联合显著性；伪 $R^2 = \frac{\tau^2 - \tau^2_{\text{res}}}{\tau^2}$ 评估协变量对真实异质性方差的解释比例。 | 🔗 [[Meta-regression]] |
 > | **[[Three-Level Meta-Analysis\|三水平多层元分析]]** | $y_{ij} = \beta_0 + \zeta_{(2)ij} + \zeta_{(3)j} + \epsilon_{ij}$<br>$\operatorname{Var}(y_{ij}) = v_{ij} + \sigma_{(2)}^2 + \sigma_{(3)}^2$ | 处理单项研究报告多个相关效应量（多重测量或多结局）时的统计非独立性依赖，分解抽样误差、研究内变异与研究间异质性。 | 似然比检验（LRT）比较二水平与三水平模型拟合优度；计算研究内变异占比 $\frac{\sigma_{(2)}^2}{\sigma_{(2)}^2 + \sigma_{(3)}^2}$ 评估多重测量依赖严重度。 | 🔗 [[Three-Level Meta-Analysis]]<br>📚 [[Argument_Park_2026_TSC\|Park et al. (2026)]] |
-> | **[[Robust Variance Estimation\|稳健方差估计（RVE / 三明治估计量）]]** | $\mathbf{V}_{\text{RVE}} = \left(\mathbf{X}^T \mathbf{W} \mathbf{X}\right)^{-1} \left(\sum_j \mathbf{X}_j^T \mathbf{W}_j \mathbf{e}_j \mathbf{e}_j^T \mathbf{W}_j \mathbf{X}_j\right) \left(\mathbf{X}^T \mathbf{W} \mathbf{X}\right)^{-1}$ | 解决效应量多重嵌套与依赖结构未知的问题，在无需知晓研究内各效应量真实协方差下提供渐近无偏的稳健标准误。 | 检查有效自由度安全门槛 $\text{df} \ge 4$（Pustejovsky & Tipton 准则）；小样本情境下以霍特林 $T^2$ 与 $F$ 检验替代标准正态 $Z$ 检验。 | 🔗 [[Robust Variance Estimation]]<br>📚 [[Argument_Song_Choi_2026_FPSYG\|Song & Choi (2026)]] |
+> | **[[Robust Variance Estimation\|稳健方差估计（RVE / 三明治估计量）]]** | $\mathbf{V}_{\text{RVE}} = \left(\mathbf{X}^T \mathbf{W} \mathbf{X}\right)^{-1} \left(\sum_j \mathbf{X}_j^T \mathbf{W}_j \mathbf{e}_j \mathbf{e}_j^T \mathbf{W}_j \mathbf{X}_j\right) \left(\mathbf{X}^T \mathbf{W} \mathbf{X}\right)^{-1}$ | 解决效应量多重嵌套与依赖结构未知的问题，在无需知晓研究内各效应量真实协方差下提供渐近无偏的稳健[[Standard Error\|标准误]]。 | 检查有效自由度安全门槛 $\text{df} \ge 4$（Pustejovsky & Tipton 准则）；小样本情境下以霍特林 $T^2$ 与 $F$ 检验替代标准正态 $Z$ 检验。 | 🔗 [[Robust Variance Estimation]]<br>📚 [[Argument_Song_Choi_2026_FPSYG\|Song & Choi (2026)]] |
 
 ---
 
@@ -192,10 +200,10 @@ flowchart LR
 ```
 
 > [!proc] 统计建模五步闭环
-> 1. **初级研究准入门槛、基线等效性审查与效应量标准化**
->    - **基线等效性前置筛查** 对纳入的准实验（QED）与高流失随机对照试验，必须提取前测数据并计算[[Baseline Standardized Mean Difference|基线等效性标准化均数差]] $d_{\text{baseline}}$。严格执行 [[What Works Clearinghouse|WWC 2022]] 与 Slavin & Smith (2009) 门槛：$|d| > 0.25$ 者即刻剔除（两组潜在能力分布质性相异，ANCOVA 统计校正失效），介于 $0.05$ 至 $0.25$ 之间者必须在模型中控制前测协变量；无前测研究必须证明实施了严格的随机分配；
+> 1. **初级[[Access and Acceptance in Research|研究准入]]门槛、基线等效性审查与[[Effect Size|效应量]]标准化**
+>    - **基线等效性前置筛查** 对纳入的准实验（[[Quasi-Experimental Designs|QED]]）与高[[Attrition|流失]][[Randomised Controlled Trials|随机对照试验]]，必须提取[[Pre-test and Post-test|前测]]数据并计算[[Baseline Standardized Mean Difference|基线等效性标准化均数差]] $d_{\text{baseline}}$。严格执行 WWC 2022 与 Slavin & Smith (2009) 门槛：$|d| > 0.25$ 者即刻剔除（两组潜在能力分布质性相异，[[Analysis of Covariance|ANCOVA]] 统计校正失效），介于 $0.05$ 至 $0.25$ 之间者必须在模型中控制前测协[[Variable|变量]]；无前测研究必须证明实施了严格的[[Random Assignment|随机分配]]；
 >    - **测量工具信效度审查** 排除测量工具与实验干预过度重叠的自利性自编测验，防范虚假效应量膨胀；
->    - **编码质控与量纲统一** 多名研究者独立进行特征与效应量编码，采用 Holsti（1969）[[Reliability|信度]]公式（$R = \frac{nM}{\sum N_i}$）检验[[Intercoder Agreement|编码者间一致性]]信度（通常要求 $R > 0.90$）；将不同[[Scale of Measurement|测量尺度]]的初级研究结果转换为标准化的效应量（如 Hedges' $g$、Pearson $r$）并计算对应的抽样方差 $v_i$；小样本时采用 Hedges 校正因子消除正向偏倚。
+>    - **[[Coding in Qualitative Research|编码]]质控与量纲统一** 多名研究者独立进行特征与效应量编码，采用 Holsti（1969）[[Reliability|信度]]公式（$R = \frac{nM}{\sum N_i}$）检验[[Intercoder Agreement|编码者间一致性]]信度（通常要求 $R > 0.90$）；将不同[[Scale of Measurement|测量尺度]]的初级研究结果转换为标准化的效应量（如 Hedges' $g$、Pearson $r$）并计算对应的抽样方差 $v_i$；小样本时采用 Hedges 校正因子消除正向偏倚。
 > 2. **加权合成与模型抉择** 依据精度倒数进行[[Inverse-Variance Weighting|逆方差加权]]。若假定存在单一恒定真实效应，采用固定效应模型（$w_i = 1/v_i$）；若假定真实效应随人群和情境变化，采用随机效应模型（$w_i^* = 1/(v_i + \tau^2)$）以实现权重再平衡。详见 [[Fixed-Effect and Random-Effects Models]]。
 > 3. **[[Heterogeneity|异质性]]检验与三联量化** 
 >    - **[[Hypothesis|假设]]检验** 通过 Cochran's [[Cochran's Q Test|Q 检验]]（$Q \sim \chi^2_{k-1}$）判定效应量离散是否显著超出抽样随机误差；
@@ -278,7 +286,7 @@ flowchart LR
 > [!warning] 核心批判维度导览
 > 1. **研究可比性危机（“苹果与橙子”问题）** 将不同干预定义、测量工具与实施情境的研究强行平均，产生无意义的统计噪音（Eysenck, 1978; [[Argument_Higgins_2016_RE|Higgins, 2016]]）。
 > 2. **输入质量决定论（“垃圾进，垃圾出”）** 低质量、高偏倚的初级研究合并后不仅不能相互抵消，反而会产生虚假的“高精度错误估计”（Slavin, 1984; [[Argument_Berk_2011_ER|Berk, 2011]]）。
->    - *现代破局防线* 当代循证元分析（如 [[Argument_Chen_Cheung_2025_ERR|Chen & Cheung, 2025]]）通过确立严格的前端实验设计准入门槛（样本量每组 $\ge 15$、设立对照组、基线等效性 $d_{\text{baseline}} < 0.25$），构建了抵御低质偏倚的方法学防火墙；实证研究证实该门槛能有效消除准实验与 RCT 之间的系统性效应差异（$Q_B$ 组间异质性检验不显著），实现证据池的源头净化。
+>    - *现代破局防线* 当代循证元分析（如 [[Argument_Chen_Cheung_2025_ERR|Chen & Cheung, 2025]]）通过确立严格的前端实验设计准入门槛（[[Sample Size Determination|样本量]]每组 $\ge 15$、设立对照组、[[Baseline Standardized Mean Difference|基线等效性]] $d_{\text{baseline}} < 0.25$），构建了抵御低质偏倚的方法学防火墙；实证研究证实该门槛能有效消除准实验与 RCT 之间的系统性效应差异（$Q_B$ 组间异质性检验不显著），实现证据池的源头净化。
 > 3. **统计独立性[[Hypothesis|假设]]违背** 同一研究提供多重结局测量造成数据嵌套依赖，人为虚窄[[Standard Error|标准误]]（Wolf, 1986; Cheung, 2014）。
 > 4. **平均效应掩盖[[Heterogeneity|异质性]]与因果机制** 平均[[Effect Size|效应量]]无法回答“干预对谁有效、在何种情境下有效”，可能掩盖高达 38% 的负向效应子群（Kluger & DeNisi, 1996; [[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019]]）。
 > 5. **政策工具排名的伪精确性** 将效应量简化为《[[Visible Learning|可见的学习]]》气压计或排行榜，误导教育资源配置（[[Argument_Wiliam_2019_ERE|Wiliam, 2019]]; [[Argument_Simpson_2017_JEP|Simpson, 2017]]）。
@@ -301,8 +309,8 @@ flowchart LR
 > [!entry-map]
 > | 条目 | 类型 | 关系说明 |
 > |---|---|---|
-> | [[Baseline Standardized Mean Difference]] | 前置质控方法 | 检验初级研究处理组与对照组前测可比性、确立 0.25 SD 准入门槛的核心指标 |
-> | [[What Works Clearinghouse]] | 证据评价标准 | 确立教育因果推断、实验等效性（0.25 SD 门槛）与证据评级基准的旗舰清算中心 |
+> | [[Baseline Standardized Mean Difference]] | 前置质控方法 | 检验初级研究处理组与对照组[[Pre-test and Post-test\|前测]]可比性、确立 0.25 SD 准入门槛的核心指标 |
+> | [[What Works Clearinghouse]] | 证据评价标准 | 确立教育[[Causality\|因果推断]]、实验等效性（0.25 SD 门槛）与证据评级基准的旗舰清算中心 |
 > | [[Inverse-Variance Weighting]] | 核心算法 | 元分析中最基础的最优精度加权方法 |
 > | [[Fixed-Effect and Random-Effects Models]] | 统计模型 | 固定与随机效应两类基础建模[[Paradigm\|范式]] |
 > | [[Three-Level Meta-Analysis]] | 高阶扩展 | 处理研究内多重[[Effect Size\|效应量]]嵌套依赖的多层模型 |
@@ -318,7 +326,7 @@ flowchart LR
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 研究案例索引
-> - [[Argument_Chen_Cheung_2025_ERR|Chen & Cheung (2025)]] 依据[[Third Generation Activity Theory|活动理论]]移动计算机支持协作学习（AT-MCSCL）框架对 57 项实验与准[[Experimental Research|实验研究]]（97 个[[Effect Size|效应量]]，$N = 5{,}389$）实施随机效应元分析，严格控制[[Pre-test and Post-test|前测]]基线等效性（$d < 0.25$），评估生成式人工智能对大学生成果的综合效应（$g^+ = 0.804$），并系统检验 17 个调节变量及剪补法发表偏倚校正（校正后 $g^+ = 0.321$）。
+> - [[Argument_Chen_Cheung_2025_ERR|Chen & Cheung (2025)]] 依据[[Third Generation Activity Theory|活动理论]]移动计算机支持协作学习（AT-MCSCL）框架对 57 项实验与准[[Experimental Research|实验研究]]（97 个[[Effect Size|效应量]]，$N = 5{,}389$）实施随机效应元分析，严格控制[[Pre-test and Post-test|前测]][[Baseline Standardized Mean Difference|基线等效性]]（$d < 0.25$），评估生成式人工智能对大学生成果的综合效应（$g^+ = 0.804$），并系统检验 17 个调节变量及剪补法发表偏倚校正（校正后 $g^+ = 0.321$）。
 > - [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] 运用[[Fixed-Effect and Random-Effects Models|随机效应模型]]综合 66 项实验与准[[Experimental Research|实验研究]]（72 个[[Effect Size|效应量]]，$N = 4{,}824$），评估[[Graphic Organizer|图形组织器]]对学生[[Higher-Order Thinking Skills|高阶思维]]的促进效应（$g = 0.778$），并结合 Wald 检验与[[Meta-regression|元回归]]系统考察导图类型、思维层级及学段等调节[[Variable|变量]]。
 > - [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] 采用随机效应模型综合 34 项实验与准实验研究（73 个效应量，$N = 3{,}042$），评估 AI [[AI Agent in Education|智能体]]对 K-12 学生认知学习成果的总体效应（$g = 0.404$），并系统检验技能类结果、知识类结果、高阶思维以及智能体形态、学段、学科和干预时长的[[Interaction Effect|调节效应]]。
 > - [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] 综合 341 项实验与准实验研究，运用随机效应模型与混合效应亚组调节检验，确立[[Dialogue in Education|对话]]、[[Authentic Instruction|真实性教学]]与[[Mentorship|导师制]]对[[Critical Thinking|批判性思维]]的三维复合干预效应（$g+ = 0.57$）。

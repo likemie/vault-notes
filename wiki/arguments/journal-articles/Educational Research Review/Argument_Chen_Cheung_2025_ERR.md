@@ -30,22 +30,32 @@ related_concepts:
   - "[[IB Learner Profile]]"
   - "[[Variable]]"
   - "[[Publication Bias]]"
-  - "[[Operationalization]]"
-  - "[[Construct]]"
-  - "[[Literature Search]]"
   - "[[Document]]"
+  - "[[Construct]]"
+  - "[[Conversational AI in Education]]"
+  - "[[Self-Efficacy]]"
+  - "[[Dialogue in Education]]"
+  - "[[Brainstorming]]"
+  - "[[Sample Size Determination]]"
+  - "[[Operationalization]]"
+  - "[[Student Attitude]]"
+  - "[[Critical Thinking]]"
+  - "[[Creativity]]"
+  - "[[Divergent Thinking]]"
+  - "[[Computational Thinking]]"
+  - "[[Reflexivity]]"
+  - "[[Self-Regulated Learning]]"
+  - "[[Going Native]]"
+  - "[[Homework]]"
+  - "[[Dependent Variable]]"
+  - "[[Literature Search]]"
   - "[[Funnel Plot]]"
   - "[[Heterogeneity]]"
+  - "[[Study Population and Sample]]"
   - "[[Emergence]]"
   - "[[Confidence Interval]]"
-  - "[[Brainstorming]]"
-  - "[[Dialogue in Education]]"
-  - "[[Self-Efficacy]]"
-  - "[[Reflexivity]]"
-  - "[[Sample Size Determination]]"
   - "[[Fade-out Effect]]"
   - "[[Interaction Effect]]"
-  - "[[Homework]]"
   - "[[Paradigm]]"
   - "[[Learner Autonomy]]"
 related_theories:
@@ -53,11 +63,12 @@ related_theories:
   - "[[Hofstede's Cultural Dimensions]]"
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Baseline Standardized Mean Difference]]"
   - "[[Trim and Fill Method]]"
   - "[[Experimental Research]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Role-playing]]"
   - "[[PRISMA]]"
-  - "[[Baseline Standardized Mean Difference]]"
   - "[[Begg and Mazumdar Rank Correlation]]"
   - "[[Leave-One-Out Sensitivity Analysis]]"
   - "[[Analysis of Covariance]]"
@@ -65,7 +76,8 @@ related_methods:
 related_instruments:
   - "[[VALUE Rubrics]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[OECD]]"
 related_arguments: []
 sources:
   - "[[sources/Chen_Cheung_2025_ERR/Chen_Cheung_2025_ERR|Chen_Cheung_2025_ERR]]"
@@ -97,23 +109,23 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> [[Generative Artificial Intelligence|生成式人工智能]]（Generative Artificial Intelligence, Gen-AI）在高等教育中的应用日益广泛，但学界关于其促学[[Effect Size|效应量]]大小与作用机制尚未达成共识，既有[[Meta-analysis|元分析]]常因未严格控制实验[[Pre-test and Post-test|前测]]基线等效性、忽视未发表研究或局限于语言与认知单项技能而可能高估效应量。核心探究问题在于：在控制基线等效性的方法学门槛下，生成式 AI 对大学生的多维学习成果（[[Academic Achievement|学业成绩]]、[[Affective Outcomes|情感动机]]、[[Higher-Order Thinking Skills|高阶思维]]、[[Language Skills|语言技能]]与[[Metacognition|元认知]]）究竟具有多大效应？这些效应如何受到[[IB Learner Profile|学习者特征]]、工具形态、AI 角色、干预规则以及社会文化情境等 17 项调节[[Variable|变量]]的调节？（pp. 1–3）
+> [[Generative Artificial Intelligence|生成式人工智能]]（Generative Artificial Intelligence, Gen-AI）在高等教育中的应用日益广泛，但学界关于其促学[[Effect Size|效应量]]大小与作用机制尚未达成共识，既有[[Meta-analysis|元分析]]常因未严格控制实验[[Pre-test and Post-test|前测]][[Baseline Standardized Mean Difference|基线等效性]]、忽视未发表研究或局限于语言与认知单项技能而可能高估效应量。核心探究问题在于：在控制基线等效性的方法学门槛下，生成式 AI 对大学生的多维学习成果（[[Academic Achievement|学业成绩]]、[[Affective Outcomes|情感动机]]、[[Higher-Order Thinking Skills|高阶思维]]、[[Language Skills|语言技能]]与[[Metacognition|元认知]]）究竟具有多大效应？这些效应如何受到[[IB Learner Profile|学习者特征]]、工具形态、AI 角色、干预规则以及社会文化情境等 17 项调节[[Variable|变量]]的调节？（pp. 1–3）
 
 > [!claim] 核心主张
 > 在严格控制基线等效性（基线组间差异标准化均数差 $d < 0.25$）的前提下，生成式 AI 对大学生的综合学习成果具有大效应量（$g^+ = 0.804$），在[[Language Skills|语言技能]]、[[Academic Achievement|学业成绩]]、[[Affective Outcomes|情感动机]]和[[Higher-Order Thinking Skills|高阶思维]]上均表现出显著促进，但对[[Metacognition|元认知]]无统计显著效应；其促学效果受到学科领域、学段、测量工具、干预时长以及社会经济与权力距离等文化情境因素的显著调节，且在[[Trim and Fill Method|剪补法]]校正[[Publication Bias|发表偏倚]]后总体效应收敛至客观真实的基准水平（$g^+ = 0.321$）。（pp. 1–3, 10–15）
 
 > [!concept-lens] 阅读透镜
 > - **对象** 2022 年 12 月至 2025 年 3 月期间发表的 57 项关于生成式 AI 赋能大学生产出的实验与准[[Experimental Research|实验研究]]（涵盖 97 个效应量估计，$N = 5{,}389$ 名大学生）。
-> - **张力** 早期文献对生成式 AI 促学潜力的“过度乐观估计”与方法学不严密（未控基线差异、依赖自制测验、忽略抽屉文件偏倚）之间的张力，以及工具对认知产出的即时促进与对自主元认知监控潜在抑制之间的张力。
+> - **张力** 早期[[Document|文献]]对生成式 AI 促学潜力的“过度乐观估计”与方法学不严密（未控基线差异、依赖自制测验、忽略抽屉文件偏倚）之间的张力，以及工具对认知产出的即时促进与对自主元认知监控潜在抑制之间的张力。
 > - **贡献** 首次在生成式 AI 元分析中引入基线等效性控制标准（$d < 0.25$），构建基于[[Third Generation Activity Theory|活动理论]]移动计算机支持协作学习（Activity Theory-Mobile Computer-Supported Collaborative Learning, AT-MCSCL）的多维调节分析框架，系统揭示了“边际效益递增”规律与权力距离调节机制，并公开全部数据与分析代码以确保透明度与可复现性。
 
 > [!contrast-table] 高等教育生成式 AI 元分析的方法学与结局定位对比（pp. 3–4）
-> | 研究文献 | 涵盖时期与纳入文献数 | 目标群体与技术范畴 | 结局构念分类 | 基线控制与关键结论 |
+> | 研究文献 | 涵盖时期与纳入文献数 | 目标群体与技术范畴 | 结局[[Construct\|构念]]分类 | 基线控制与关键结论 |
 > |---|---|---|---|---|
-> | **Alemdag (2025)** | 截至 2022 年 7 月（$k=28$） | 基础教育（Kindergarten through 12th Grade, K-12）与高等教育；对话机器人 | 总体学习成效 | 未控基线；$g_{\text{HE}} = 0.47$ |
-> | **Deng et al. (2024)** | 2022.12–2024.04（$k=62$） | 基础教育（K-12）与高等教育；ChatGPT | 成绩、动机、高阶思维、自我效能 | 未设基线门槛；$g_{\text{HE}} = 0.754$ |
+> | **Alemdag (2025)** | 截至 2022 年 7 月（$k=28$） | 基础教育（Kindergarten through 12th Grade, K-12）与高等教育；[[Conversational AI in Education\|对话机器人]] | 总体学习成效 | 未控基线；$g_{\text{HE}} = 0.47$ |
+> | **Deng et al. (2024)** | 2022.12–2024.04（$k=62$） | 基础教育（K-12）与高等教育；ChatGPT | 成绩、动机、高阶思维、[[Self-Efficacy\|自我效能]] | 未设基线门槛；$g_{\text{HE}} = 0.754$ |
 > | **Gökoğlu & Erdoğdu (2025)** | 2020–2024（$k=31$） | 基础教育（K-12）与高等教育；Gen-AI | 学习表现单一指标 | 未控基线；$g_{\text{HE}} = 0.641$ |
-> | **Laun & Wolff (2025)** | 2003–2024.05（$k=62$） | 全学段；对话机器人 | 学习成效与交互模式 | 跨 20 年技术演变；$g_{\text{overall}} = 0.76$ |
+> | **Laun & Wolff (2025)** | 2003–2024.05（$k=62$） | 全学段；[[Dialogue in Education\|对话]]机器人 | 学习成效与交互模式 | 跨 20 年技术演变；$g_{\text{overall}} = 0.76$ |
 > | **Sun & Zhou (2024)** | 2022.12–2024（$k=28$） | 高等教育；Gen-AI | 认知掌握与非认知态度 | 缺乏严格基线筛选；$g_{\text{HE}} = 0.533$ |
 > | **Tlili et al. (2025)** | 2011–2024.01（$k=85$） | 全学段；AI 应用 | 学业成绩 | 未控发表偏倚；$g_{\text{HE}} = 1.15$ |
 > | **[[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]]** | **2022.12–2025.03（$k=57, m=97$）** | **专注高等教育大学本科生；Gen-AI** | **学业成绩、语言技能、情感动机、高阶思维、元认知（5 维）** | **严格控制基线等效（$d < 0.25$）；剪补前 $g^+ = 0.804$，剪补后 $g^+_{\text{adj}} = 0.321$；AT-MCSCL 17 项调节检验** |
@@ -125,23 +137,23 @@ issuing_organization: ""
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **活动理论移动计算机支持协作学习框架**<br>[[Third Generation Activity Theory\|活动理论移动计算机支持协作学习（AT-MCSCL）框架]] | 承袭活动理论六要素（Engeström, 1987; Jonassen & Rohrer-Murphy, 1999; Collis & Margaryan, 2004），将生成式 AI 学习系统解析为客体/结果、主体/学习者、工具、分工/角色、规则/设计与共同体/情境六大维度，为 17 项调节变量的系统归类与机制解释提供统一框架。（pp. 3–7） |
-> | **边际效益假说**<br>Marginal Gains Hypothesis | 解释为何在数字化基础设施薄弱（低信息与通信技术水平，Information and Communications Technology, ICT）与低社会经济地位（Socioeconomic Status, SES）情境中，生成式 AI 呈现出显著更高的促学效应量——技术介入填补了原有学习支持的空白，带来了更大的边际相对增益。（p. 6） |
+> | **活动理论移动计算机支持协作学习框架**<br>[[Third Generation Activity Theory\|活动理论移动计算机支持协作学习（AT-MCSCL）框架]] | 承袭活动理论六要素（Engeström, 1987; Jonassen & Rohrer-Murphy, 1999; Collis & Margaryan, 2004），将生成式 AI 学习系统解析为客体/结果、主体/学习者、工具、分工/角色、规则/设计与共同体/情境六大维度，为 17 项调节[[Variable\|变量]]的系统归类与机制解释提供统一框架。（pp. 3–7） |
+> | **边际效益假说**<br>Marginal Gains Hypothesis | 解释为何在数字化基础设施薄弱（低信息与通信技术水平，Information and Communications Technology, ICT）与低社会经济地位（Socioeconomic Status, SES）情境中，生成式 AI 呈现出显著更高的促学[[Effect Size\|效应量]]——技术介入填补了原有学习支持的空白，带来了更大的边际相对增益。（p. 6） |
 > | **文化维度理论权力距离构念**<br>Power Distance Dimension | 借用 Hofstede (2011) [[Hofstede's Cultural Dimensions\|文化维度理论]]，解释高权力距离指数（Power Distance Index, PDI）文化中学生传统上受制于教师权威与层级规训，生成式 AI 的引入提供了非威胁性、自主即时的交互中介，降低了感知权力壁垒，从而产生更强的主观促学成效。（p. 18） |
-> | **自我决定理论与控制-价值理论**<br>Self-Determination Theory & Control-Value Theory | 解释生成式 AI 如何通过满足自主性、胜任感与归属感心理需求，降低学业焦虑并激发内在探索动机，进而提升情感动机状态。（pp. 2, 16） |
-> | **认知负荷理论与元认知惰性假说**<br>Cognitive Load Theory & Metacognitive Laziness | 解释 AI 虽能卸载表层语言与符号生成负荷，但在缺乏显性元认知监控提示时可能导致认知依赖与深层思维惰化。（pp. 4, 16） |
+> | **自我决定理论与控制-价值理论**<br>Self-Determination Theory & Control-Value Theory | 解释生成式 AI 如何通过满足自主性、胜任感与归属感心理需求，降低学业焦虑并激发内在探索动机，进而提升[[Affective Outcomes\|情感动机]]状态。（pp. 2, 16） |
+> | **认知负荷理论与元认知惰性假说**<br>Cognitive Load Theory & Metacognitive Laziness | 解释 AI 虽能卸载表层语言与符号生成负荷，但在缺乏显性[[Metacognition\|元认知监控]]提示时可能导致认知依赖与深层思维惰化。（pp. 4, 16） |
 
 > [!theory-components] AT-MCSCL 框架核心构件（pp. 3–5）
 > - **客体与产出**
->   学习活动所指向的目标转化，涵盖学业成绩、情感动机、高阶思维、语言技能与元认知五大多维学习结果。
+>   学习活动所指向的目标转化，涵盖[[Academic Achievement|学业成绩]]、情感动机、[[Higher-Order Thinking Skills|高阶思维]]、[[Language Skills|语言技能]]与元认知五大多维学习结果。
 > - **活动主体**
 >   参与学习活动的学生特征，包括年级学段（大一至大四）、学科门类（语言、STEM、人文社科、医学）与性别比例。
 > - **中介工具**
 >   介入认知加工的中介载体，涵盖大语言模型平台类型（ChatGPT vs 其他专用 Bot）与输出模态（文本、代码、图像）。
 > - **角色分工**
->   人机交互关系中的功能定位，区分为指导型教师角色（直接答疑与批改）与协同型同伴角色（头脑风暴与共创）。
+>   人机交互关系中的功能定位，区分为指导型教师角色（直接答疑与批改）与协同型同伴角色（[[Brainstorming|头脑风暴]]与共创）。
 > - **规程与规则**
->   约束教学与评估的显隐性规程，涵盖实验控制方法、前测设置、测量工具属性、样本量规模、干预时长及出版审查机制。
+>   约束教学与评估的显隐性规程，涵盖实验控制方法、[[Pre-test and Post-test|前测]]设置、测量工具属性、[[Sample Size Determination|样本量]]规模、干预时长及出版审查机制。
 > - **共同体与情境**
 >   活动所嵌入的宏观与微观社会文化生态，包括物理场所（课堂 vs 实验室）、地理大区、国家 ICT 数字化水平、SES 地位与权力距离文化。
 
@@ -154,23 +166,23 @@ issuing_organization: ""
 > | 变量类别与维度 | [[Construct\|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
 > |---|---|---|
 > | **结果变量：[[Academic Achievement\|学业成绩]]**<br>（Academic Achievement, AA） | 课程知识掌握、概念理解与客观学科测验成绩，反映学习者通过生成式 AI 辅助对课程内容的认知吸收与事实/程序性知识掌握程度。 | 纳入 25 项研究；涵盖计算机编程测验（Kosar et al., 2024; Johnson et al., 2024）、医学骨科临床考试（Gan et al., 2024; Hui et al., 2025）及专业课期末成绩；测量工具以教师自编学科测试（$k=38$）为主，亦含标准化专业统考；AI 提供即时概念解释、步骤提示与错题解析。 |
-> | **结果变量：[[Language Skills\|语言技能]]**<br>（Language Skills, LS） | 二语/外语（English as a Second/Foreign Language, ESL/EFL）语境下的写作流利度、语法词汇掌握、体裁结构组织、口语交际流利度与阅读理解综合产出。 | 纳入 21 项研究；涵盖二语学术写作评分、托福/雅思口语即时对话流利度（Liu et al., 2025; Wang et al., 2024）；测量工具采用标准化写作量规、国际二语测评及教师作文评分量规；教学规程包括多轮提示词交互润色、语法改错、语篇重构与低焦虑对话演练。 |
-> | **结果变量：[[Affective Outcomes\|情感动机状态]]**<br>（Affective-Motivational States, AMS） | 学习动机、学业自我效能感、学科学习兴趣、学习态度与心理投入度，以及课业求助焦虑降低程度等非认知情感维度。 | 纳入 25 项研究；采用标准化动机策略学习问卷（Motivated Strategies for Learning Questionnaire, MSLQ）、学业自我效能感量表与课程投入度问卷（Urban et al., 2024; Yilmaz & Yilmaz, 2023b; Marengo et al., 2025）；AI 提供随时响应、无评判威胁的个性化陪伴界面，有效满足自主性与胜任感心理需求。 |
-> | **结果变量：[[Higher-Order Thinking Skills\|高阶思维能力]]**<br>（Higher-Order Thinking, HOT） | 批判性思维、创造力与发散思维、复杂问题解决、计算思维及反思性论证等深层认知加工与策略迁移能力。 | 纳入 16 项研究；采用加州批判性思维倾向/技能测验（California Critical Thinking Disposition Inventory / Skills Test, CCTDI/CCTST）、开放式辩论评分量规（de la Puente et al., 2024）与复杂编程解题任务（Lee et al., 2024; Stadler et al., 2024）；教学规程引导学生利用 AI 开展头脑风暴、论证辩难与反思性方案设计。 |
-> | **结果变量：[[Metacognition\|元认知能力]]**<br>（Metacognition, MC） | 学习者对自己认知加工过程的主动监控、自主调节、学习计划制订、策略反思与评估能力，即自我调节学习（Self-Regulated Learning, SRL）。 | 纳入 10 项研究；采用元认知意识量表（Metacognitive Awareness Inventory, MAI）与自主学习策略量表（Fan et al., 2025; Karaoglan Yilmaz & Yilmaz, 2025）；初级研究大多仅提供开放式工具交互而缺乏显性监控脚手架，导致干预效应微弱且未达统计显著（$g^+ = 0.078$）。 |
+> | **结果变量：[[Language Skills\|语言技能]]**<br>（Language Skills, LS） | 二语/外语（English as a Second/Foreign Language, ESL/EFL）语境下的写作流利度、语法词汇掌握、体裁结构组织、口语交际流利度与阅读理解综合产出。 | 纳入 21 项研究；涵盖二语学术写作评分、托福/雅思口语即时对话流利度（Liu et al., 2025; Wang et al., 2024）；测量工具采用标准化写作量规、国际二语测评及教师作文评分量规；教学规程包括多轮提示词交互润色、语法改错、语篇重构与低焦虑[[Dialogue in Education\|对话]]演练。 |
+> | **结果变量：[[Affective Outcomes\|情感动机状态]]**<br>（Affective-Motivational States, AMS） | 学习动机、学业[[Self-Efficacy\|自我效能感]]、学科学习兴趣、[[Student Attitude\|学习态度]]与心理投入度，以及课业求助焦虑降低程度等非认知情感维度。 | 纳入 25 项研究；采用标准化动机策略学习问卷（Motivated Strategies for Learning Questionnaire, MSLQ）、学业自我效能感量表与课程投入度问卷（Urban et al., 2024; Yilmaz & Yilmaz, 2023b; Marengo et al., 2025）；AI 提供随时响应、无评判威胁的个性化陪伴界面，有效满足自主性与胜任感心理需求。 |
+> | **结果变量：[[Higher-Order Thinking Skills\|高阶思维能力]]**<br>（Higher-Order Thinking, HOT） | [[Critical Thinking\|批判性思维]]、[[Creativity\|创造力]]与[[Divergent Thinking\|发散思维]]、复杂问题解决、[[Computational Thinking\|计算思维]]及[[Reflexivity\|反思性]]论证等深层认知加工与策略迁移能力。 | 纳入 16 项研究；采用加州批判性思维倾向/技能测验（California Critical Thinking Disposition Inventory / Skills Test, CCTDI/CCTST）、开放式辩论评分量规（de la Puente et al., 2024）与复杂编程解题任务（Lee et al., 2024; Stadler et al., 2024）；教学规程引导学生利用 AI 开展头脑风暴、论证辩难与反思性方案设计。 |
+> | **结果变量：[[Metacognition\|元认知能力]]**<br>（Metacognition, MC） | 学习者对自己认知加工过程的主动监控、自主调节、学习计划制订、策略反思与评估能力，即[[Self-Regulated Learning\|自我调节学习]]（Self-Regulated Learning, SRL）。 | 纳入 10 项研究；采用元认知意识量表（Metacognitive Awareness Inventory, MAI）与自主学习策略量表（Fan et al., 2025; Karaoglan Yilmaz & Yilmaz, 2025）；初级研究大多仅提供开放式工具交互而缺乏显性监控脚手架，导致干预效应微弱且未达统计显著（$g^+ = 0.078$）。 |
 > | **干预变量：AI 工具形态——ChatGPT 系列** | 基于 OpenAI 大语言模型（Large Language Models, LLMs）架构的通用对话式生成系统，具备强提示词工程适应性、长文本理解生成与多轮上下文记忆功能。 | 纳入 65 项研究；作为最主流干预载体，应用于概念释疑、写作草稿生成、代码编写与头脑风暴；学生通过自然语言提示词驱动，教师通常在课前提供提示词示范或指令结构指引（如 Kosar et al., 2024; de la Puente et al., 2024）。 |
-> | **干预变量：AI 工具形态——其他对话机器人** | 除 ChatGPT 外的专用或本土化大模型对话系统（如文心一言、Claude、Google Gemini 及高校自训学科助手）。 | 纳入 11 项研究；深度嵌入于特定学科学习平台（如外语学习系统、医学病案数据库），配备领域专业知识库与预设交互工作流（Gan et al., 2024）。 |
+> | **干预变量：AI 工具形态——其他[[Conversational AI in Education\|对话机器人]]** | 除 ChatGPT 外的专用或[[Going Native\|本土化]]大模型对话系统（如文心一言、Claude、Google Gemini 及高校自训学科助手）。 | 纳入 11 项研究；深度嵌入于特定学科学习平台（如外语学习系统、医学病案数据库），配备领域专业知识库与预设交互工作流（Gan et al., 2024）。 |
 > | **干预变量：AI 工具形态——多模态与其他工具** | 非纯文本对话的生成式 AI 系统，涵盖代码生成辅助工具（如 GitHub Copilot）与视觉图像生成系统（如 Midjourney、DALL-E）。 | 纳入 21 项研究；应用于数字艺术创作、三维建模、工程制图与软件工程自动补全；教学要求学生将自然语言构思转化为视觉图景或可执行程序。 |
 > | **干预变量：生成模态** | AI 输出内容的信息表征通道，区分为文本生成、编程代码与视觉图像。 | 文本生成（$k=75$）、代码生成（$k=6$）、图像生成（$k=16$）；教学规程涵盖段落改写、函数编写与视觉原型设计，文本模态适用面最广且直接契合语言与文科教学。 |
-> | **干预变量：人机角色分工——学习同伴** | AI 被定位于平等的学术探讨伙伴与协作共创者，开展双向头脑风暴、角色扮演、反思辩难与协作写作。 | 纳入 54 项研究；营造低焦虑、无权力威慑的平等对话场域；学生被鼓励向 AI 提出质疑、指出其幻觉并共同迭代方案（如模拟外交谈判，de la Puente et al., 2024）。 |
-> | **干预变量：人机角色分工——授课导师** | AI 被定位于权威教学支架提供者，执行单向或自适应的概念答疑、知识点讲授、作业批改与纠错反馈。 | 纳入 43 项研究；模拟“一对一导师制”，AI 针对学生答题即时指出错误并给出解析步骤（如编程调试，Johnson et al., 2024；医学病案，Hui et al., 2025）。 |
+> | **干预变量：人机角色分工——学习同伴** | AI 被定位于平等的学术探讨伙伴与协作共创者，开展双向头脑风暴、[[Role-playing\|角色扮演]]、反思辩难与协作写作。 | 纳入 54 项研究；营造低焦虑、无权力威慑的平等对话场域；学生被鼓励向 AI 提出质疑、指出其幻觉并共同迭代方案（如模拟外交谈判，de la Puente et al., 2024）。 |
+> | **干预变量：人机角色分工——授课导师** | AI 被定位于权威教学支架提供者，执行单向或自适应的概念答疑、知识点讲授、[[Homework\|作业]]批改与纠错反馈。 | 纳入 43 项研究；模拟“一对一导师制”，AI 针对学生答题即时指出错误并给出解析步骤（如编程调试，Johnson et al., 2024；医学病案，Hui et al., 2025）。 |
 > | **干预变量：教学整合时长** | 技术干预在课程中的持续周期，区分为短期（$< 4$ 周）、中期（$4–12$ 周）与长期（$> 12$ 周）。 | 短期（$k=33$）、中期（$k=48$）、长期（$k=9$）；中期干预覆盖完整教学单元或学期模块，既确保充分的技能内化与策略适应，又避免了技术新奇感衰退与工具脱敏。 |
-> | **调节变量：学习者特征——年级与学科** | 学习者认知成熟度（大一至大四）与学科知识结构属性，涵盖语言学、科学技术工程与数学（Science, Technology, Engineering, and Mathematics, STEM）、人文社科以及医学健康。 | 大一新生（$k=11, g^+=0.698$）处于大学适应过渡期，支架需求最强；语言学（$k=28, g^+=1.782$）与大模型语言机制天然契合，医学实操（$k=11, g^+=0.301$）受制于物理具身限制。 |
-> | **调节变量：宏观数字化水平与社会经济地位** | 宏观数字化基础设施（依据国际电信联盟 ITU 与 OECD 指标）与国家人均收入水平（世界银行标准），区分为低、中、高三个等级。 | 低 ICT（$k=20, g^+=1.764$）与低 SES（$k=21, g^+=1.751$）高校资源匮乏，AI 带来雪中送炭式的“边际效益递增”；高 ICT 与高 SES 国家已有成熟数字基准，边际增益趋于平缓。 |
+> | **调节变量：[[IB Learner Profile\|学习者特征]]——年级与学科** | 学习者认知成熟度（大一至大四）与学科知识结构属性，涵盖语言学、科学技术工程与数学（Science, Technology, Engineering, and Mathematics, STEM）、人文社科以及医学健康。 | 大一新生（$k=11, g^+=0.698$）处于大学适应过渡期，支架需求最强；语言学（$k=28, g^+=1.782$）与大模型语言机制天然契合，医学实操（$k=11, g^+=0.301$）受制于物理具身限制。 |
+> | **调节变量：宏观数字化水平与社会经济地位** | 宏观数字化基础设施（依据国际电信联盟 ITU 与 [[OECD]] 指标）与国家人均收入水平（世界银行标准），区分为低、中、高三个等级。 | 低 ICT（$k=20, g^+=1.764$）与低 SES（$k=21, g^+=1.751$）高校资源匮乏，AI 带来雪中送炭式的“边际效益递增”；高 ICT 与高 SES 国家已有成熟数字基准，边际增益趋于平缓。 |
 > | **调节变量：文化维度——权力距离指数** | 依据 Hofstede 文化维度划分的高权力距离（PDI $> 55$）与低权力距离（PDI $< 55$）文化情境。 | 高权力距离（$k=89, g^+=0.859$）中学生畏惧教师权威，AI 提供匿名无评价威胁的探究通道，产生“权力壁垒破除效应”；低权力距离（$k=8, g^+=0.236$）本身师生平等，技术中介增益有限。 |
 > | **方法学控制变量：基线等效门槛与测量工具** | 实验与准实验前测基线组间等效门槛（$d < 0.25$）及测量工具性质（自编测验 vs 标准化量表 vs 调查问卷）。 | 严格剔除 $d \ge 0.25$ 的研究；自编测验（$k=38, g^+=1.022$）因紧扣干预内容显著拉升效应量，标准化量表（$k=40, g^+=0.614$）测量更为客观稳健。 |
 >
-> **图表解读** 本表基于 AT-MCSCL 活动理论框架，系统解构了生成式 AI 元分析中五大结果变量构念的测量规程与实证案例，并深入拆解了 AI 工具形态、生成模态、交互角色与干预时长的教学操作化属性，同时整合了学习者特征、社会经济与权力距离等调节变量，为跨研究效应量提取与混合效应亚组检验奠定了标准化的编码基准。（pp. 2–5, 8–13）
+> **图表解读** 本表基于 AT-MCSCL 活动理论框架，系统解构了生成式 AI [[Meta-analysis|元分析]]中五大[[Dependent Variable|结果变量]]构念的测量规程与实证案例，并深入拆解了 AI 工具形态、生成模态、交互角色与干预时长的教学操作化属性，同时整合了学习者特征、社会经济与权力距离等调节变量，为跨研究效应量提取与混合效应亚组检验奠定了标准化的编码基准。（pp. 2–5, 8–13）
 
 ---
 
@@ -190,7 +202,7 @@ issuing_organization: ""
 > $$d_{\text{baseline}} = \frac{\bar{X}_{T, \text{pre}} - \bar{X}_{C, \text{pre}}}{SD_{\text{pooled}}}$$
 > 当 $d_{\text{baseline}} \ge 0.25$ 时，即便使用[[Analysis of Covariance\|协方差分析]]（Analysis of Covariance, ANCOVA）亦因基线分布[[Heterogeneity|异质性]]而无法消除混杂偏倚，因而在元分析筛选中坚决予以剔除。
 
-> [!sample-panel]- 纳入实证研究样本与特征分布（p. 9）
+> [!sample-panel]- 纳入实证[[Study Population and Sample|研究样本]]与特征分布（p. 9）
 > | 样本与研究特征分类（$n=57, N=5{,}389$） | 篇数 $n$ | 百分比 (%) | 典型代表案例与特征说明 |
 > |---|---|---|---|
 > | **【出版年份】**<br>• 2023 年<br>• 2024 年<br>• 2025 年 | <br>10<br>40<br>7 | <br>17.5%<br>70.2%<br>12.3% | 2024 年呈现爆发式增长，体现 ChatGPT 推出后教育实证研究的[[Emergence\|涌现]]周期。 |
@@ -302,7 +314,7 @@ issuing_organization: ""
 > [!claim] 步骤三主张
 > 现有文献存在不可忽视的发表偏倚与效果高估风险；经 Duval & Tweedie [[Trim and Fill Method|剪补法]]严密校正后，生成式 AI 对大学生产出的实际真实效应量收敛为中等偏小水平（$g^+ = 0.321$），学界与实践界必须摒弃盲目的技术狂热，警惕“元认知惰性”与代做[[Homework|作业]]导致的表面虚高，转向深层教学法与评价体系重构。（pp. 13–14, 18–19）
 
-> [!bias-audit]- 发表偏倚诊断与漏斗图不对称性检验（p. 13）
+> [!bias-audit]- 发表偏倚诊断与[[Funnel Plot|漏斗图]]不对称性检验（p. 13）
 > | 结局领域分类 | 效应量数 $k$ | Begg 秩相关 Kendall's $\tau$ | Begg 检验 $p$ 值 | Egger 线性回归截距 | 截距标准误 $SE$ | 截距 95% 置信区间 | Egger 检验 $p$ 值 | 偏倚诊断结论 |
 > |---|---|---|---|---|---|---|---|---|
 > | **总体学习产出** | 97 | **0.284** | $< 0.001$ | **2.975** | 0.951 | [1.087, 4.863] | $0.002^{**}$ | 存在高度显著不对称性与发表偏倚 |
@@ -352,7 +364,7 @@ issuing_organization: ""
 
 ## 关键引用
 
-> [!citation-card]- 基线等效性与[[Meta-analysis|元分析]]严谨性
+> [!citation-card]- [[Baseline Standardized Mean Difference|基线等效性]]与[[Meta-analysis|元分析]]严谨性
 > 早期元分析往往采用了不够严格的纳入标准，导致对[[Effect Size|效应量]]的高估，例如未能控制基线差异以及使用与实验干预内在绑定的测量工具。由于本研究采用了更为严格的标准，许多在其他综述中出现的[[Document|文献]]未被纳入。在经过[[Trim and Fill Method|剪补法]]调整后，总体效应量降至小幅度（$g^+ = 0.321$），这一数值与教育干预的基准效应高度吻合，表明生成式 AI 具有超越既往膨胀估计的真实教育价值。（p. 15）
 >
 > *Earlier meta-analyses might have adopted less stringent inclusion criteria, leading to inflated estimates of effect sizes, such as failing to control for baseline differences and using measures inherent to the experimental treatment... Moreover, the overall effect after applying the trim-and-fill procedure was reduced to a small magnitude ($g^+ = 0.321$). This effect size aligns with benchmarks in educational interventions, indicating that Gen-AI tools offer genuine educational [[VALUE Rubrics|VALUE]] beyond inflated estimates reported in prior reviews.*
@@ -377,7 +389,7 @@ issuing_organization: ""
 ## 自述局限
 
 > [!warning] 研究局限与未来方向（p. 19）
-> 1. **[[Document|文献]]语种与未检索范围局限** 文献检索受限于英文公开发表与网络可获取的实证研究，未能涵盖非英语国家以本土语言发表的研究，可能存在一定的语言选择偏倚。
+> 1. **[[Document|文献]]语种与未检索范围局限** [[Literature Search|文献检索]]受限于英文公开发表与网络可获取的实证研究，未能涵盖非英语国家以本土语言发表的研究，可能存在一定的语言选择偏倚。
 > 2. **长期追踪与滞后效应数据匮乏** 纳入的实证研究绝大多数为一学期或数周内的短期干预，长期实施（$> 12$ 周）的研究数量较少（仅 9 项），难以充分评估生成式 AI 对高阶认知与习惯形成的深远滞后效应。
 > 3. **部分亚组研究数量不平衡** 在学科分布（医学健康与混合学科偏少）、AI 工具类别（以 ChatGPT 为主，多模态与新兴开源大模型偏少）以及地理区域（非洲与拉美数据缺乏）上存在分布不均，限制了部分细分亚组结论的外推度。
 > 4. **测量工具质量差异** 部分初级研究依赖研究者自编测验，可能存在对干预内容的顺应性测量偏差，未来研究需更多采用经过心理测量学检验的标准化跨情境工具。

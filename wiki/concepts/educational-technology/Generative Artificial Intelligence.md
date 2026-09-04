@@ -141,7 +141,7 @@ updated: 2026-09-04
 > - **提示词工程与[[Dialogue in Education|对话]]式认知脚手架（Prompt Scaffolding）** 将自然语言提示作为人机交互与思维[[Externalization|外化]]的界面，通过角色设定、追问指令与量规对齐，动态调整技术对[[Zone of Proximal Development|最近发展区]]的支持力度。[[Argument_Liu_2026_CHBR|(Liu et al., 2026, pp. 2, 10)]]
 > - **认知放大与[[Cognitive Offloading|认知卸载]]的动态张力（Amplification vs. Offloading）** 既能剥离机械性外在负荷以释放[[Working Memory|工作记忆]]投入高阶推理（认知放大），又极易因表面语义流畅性诱发心智怠惰与深度思考外包（有害卸载）。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 10–11)]]
 > - **[[Epistemological Vigilance|认识论警觉]]与多源[[Triangulation|三角互证]]（Epistemic Vigilance）** 学习者必须建立对抗模型[[AI Hallucination|幻觉]]与偏见的批判性怀疑态度，将 AI 生成内容与[[Primary and Secondary Documents|一手文献]]、教师点拨及同伴评议进行多源三角核验。[[Argument_Li_2026_CEAI|(Li et al., 2026, p. 11)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, pp. 34–36)]]
-> - **人机协同活动系统全要素整合（AT-MCSCL Activity System）** 基于[[Third Generation Activity Theory|活动理论]]移动协作学习架构，将生成式 AI 介入解析为主体（学段与学科特质）、工具（模态与平台）、客体（多维产出）、分工（学习同伴 vs 授课导师）、规则（4–12 周干预周期与反思量规）与共同体情境（数字化水平与权力距离文化）六大要素的协同联动，摆脱单一的技术决定论。[[Argument_Chen_Cheung_2025_ERR|(Chen & Cheung, 2025, pp. 3–7)]]
+> - **人机协同活动系统全要素整合（[[Third Generation Activity Theory|AT-MCSCL]] Activity System）** 基于[[Third Generation Activity Theory|活动理论]]移动协作学习架构，将生成式 AI 介入解析为主体（学段与学科特质）、工具（模态与平台）、客体（多维产出）、分工（学习同伴 vs 授课导师）、规则（4–12 周干预周期与反思量规）与共同体情境（数字化水平与权力距离文化）六大要素的协同联动，摆脱单一的技术决定论。[[Argument_Chen_Cheung_2025_ERR|(Chen & Cheung, 2025, pp. 3–7)]]
 > - **教学活动系统与评价规则重构（Activity System Reconfiguration）** 推动教学评价从“关注最终文字成品”转向“关注提示词迭代链、事实查错过程与反思日志”的全程伴随式评价。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 11–13)]]
 
 > [!logic-map]- 生成式 AI 介入教学活动系统的中介机制

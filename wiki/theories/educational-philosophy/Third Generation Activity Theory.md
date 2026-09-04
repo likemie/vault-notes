@@ -8,7 +8,11 @@ aliases:
   - CHAT
   - Engeström activity theory
   - 文化历史活动理论
-summary: "在 Vygotsky 中介三角与 Engeström 六要素模型基础上发展出的理论范式，聚焦多活动系统相遇时的矛盾、边界跨越、人机协同分工与扩展性改造机制。"
+  - AT-MCSCL
+  - AT-MCSCL framework
+  - 活动理论移动计算机支持协作学习框架
+  - Activity Theory-Mobile Computer-Supported Collaborative Learning
+summary: "在 Vygotsky 中介三角与 Engeström 六要素模型基础上发展出的理论范式，聚焦多活动系统相遇时的矛盾、边界跨越、人机协同分工与扩展性改造机制，包含教育技术领域的 AT-MCSCL 分析框架。"
 type: theory
 theory_field: "educational-philosophy"
 theory_related_count: 37
@@ -25,6 +29,7 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Analytic Framework]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Domain Analysis]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Cognitive Offloading]]"
   - "[[Higher-Order Thinking Skills]]"
@@ -37,10 +42,17 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Learner-Centred Education]]"
   - "[[Test-Based Accountability]]"
+  - "[[Operationalization]]"
+  - "[[Variable]]"
+  - "[[Language Skills]]"
+  - "[[Academic Achievement]]"
+  - "[[Metacognition]]"
+  - "[[Champ]]"
   - "[[Epistemology]]"
   - "[[Epistemic Friction]]"
   - "[[Quality Education]]"
   - "[[Homework]]"
+  - "[[Sample Size Determination]]"
   - "[[Theoretical Standpoint]]"
   - "[[Ontology]]"
   - "[[Artefact]]"
@@ -50,12 +62,12 @@ related_concepts:
   - "[[Interaction Effect]]"
 related_theories: []
 related_methods:
-  - "[[Case Study]]"
-  - "[[Ethnography]]"
-  - "[[Systematic Review]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Experimental Research]]"
   - "[[Meta-analysis]]"
+  - "[[Case Study]]"
+  - "[[Ethnography]]"
+  - "[[Systematic Review]]"
 related_arguments:
   - "[[Argument_Wang_2025_CE]]"
   - "[[Argument_Li_2026_CEAI]]"
@@ -80,6 +92,7 @@ updated: 2026-09-04
 > - **理论问题** 如何超越个体主义认知还原论与机械技术决定论，从中观社会文化历史情境与系统结构性矛盾切入，解释制度变迁、教学改革、人机认知分工以及边界跨越（Boundary Crossing）现象？
 > - **理论类型** 文化历史活动理论[[Paradigm|范式]]（Cultural-Historical Activity Theory, CHAT）、社会文化历史[[Constructivist Paradigm|建构主义]]中层机制模型与[[Analytic Framework|分析框架]]。
 > - **知识位置** 承袭 Vygotsky 中介三角与 Leont'ev 活动层级论，由 Engeström (1987, 2001) 形式化为六要素模型与多系统互动网络；近期在前沿教育政策[[Transfer Translation Transformation|转译]]（[[Argument_Wang_2025_CE|Wang & McLaughlin, 2025]]）与高等教育生成式 AI 教学重构（[[Argument_Li_2026_CEAI|Li et al., 2026]]）中获得深度拓展。
+> - **技术中介特化分支** 活动理论移动计算机支持协作学习框架（Activity Theory-Mobile Computer-Supported Collaborative Learning, AT-MCSCL）作为[[Domain Analysis|领域分析]]框架，专用于解构数字与智能协作学习中的人机多维调节机制。[[Argument_Chen_Cheung_2025_ERR|(Chen & Cheung, 2025, pp. 3–7)]]
 
 > [!claim] 核心主张
 > 人类实践应被概念化为集体的、对象导向的、由工具与符号中介的活动系统。第三代活动理论的核心主张在于：不同活动系统之间的相遇与碰撞，或新型中介工具的强力介入，必然触发系统内在与系统之间的结构性矛盾（Contradictions）；当行动者通过边界跨越识别矛盾并建构“共享客体（Shared Object）”时，活动系统能够推动工具、规则、分工与共同体全要素的协同重构，实现“扩展性改造（Expansive Transformation）”。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 590–591, 600)]]; [[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 2–3, 11–13)]]
@@ -112,28 +125,38 @@ updated: 2026-09-04
 
 ## 核心命题与机制
 
-> [!proposition-chain] 核心命题一｜心理中介三角命题（Vygotsky, 1978）
+---
+
+### 命题一｜心理中介三角命题（Vygotsky, 1978）
+
+> [!proposition-chain] 心理中介三角命题（Vygotsky, 1978）
 > - **前提一** 人类的高级心理机能与实践活动并非简单的“刺激—反应（S-R）”直接联结，而是必然由社会文化创造的物质工具与符号系统（如语言、符号、数字技术）进行间接中介。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 590)]]
 > - **前提二** 工具不仅充当行动的辅助手段，更反向塑造主体的认知结构与行动方式（人创造工具，工具重塑人类心智）。
 > - **推导** 主体（Subject）指向客体（Object）的活动必须通过中介工具（Mediating Tool）发生，技术工具的性质决定了认知加工与实践输出的形态。
 
 ---
 
-> [!proposition-chain] 核心命题二｜六要素集体活动系统的结构咬合与内在矛盾命题（Engeström, 1987）
+### 命题二｜六要素集体活动系统的结构咬合与内在矛盾命题（Engeström, 1987）
+
+> [!proposition-chain] 六要素集体活动系统的结构咬合与内在矛盾命题（Engeström, 1987）
 > - **前提一** 人类实践本质上是集体的、历史生成的，不能还原为孤立个体的心理现象；活动系统由主体、客体、中介工具、共同体、规则、劳动分工六大要素构成。
 > - **前提二** 六要素之间处于动态制约与结构咬合之中；任何单一要素的变动（如引入新技术或新政策）若未得到其他要素的协同支持，必然诱发系统内在的结构性失调与矛盾（Contradictions）。
 > - **推导** 矛盾并非需要消除的系统缺陷，而是系统发展与演进的内在辩证源泉；解决矛盾的诉求推动活动系统寻求新的平衡。
 
 ---
 
-> [!proposition-chain] 核心命题三｜多活动系统相遇、边界跨越与扩展性改造命题（Engeström, 2001）
+### 命题三｜多活动系统相遇、边界跨越与扩展性改造命题（Engeström, 2001）
+
+> [!proposition-chain] 多活动系统相遇、边界跨越与扩展性改造命题（Engeström, 2001）
 > - **前提一** 第三代活动理论将最小分析单元扩展为“至少两个相互作用的活动系统构成的网络”，聚焦系统相遇时的边界区域（Boundary Zone）。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 591)]]
 > - **前提二** 当异质系统发生碰撞时，[[Boundary Spanner|边界跨越者]]（Boundary Crossers）面临多重制度逻辑冲突，系统间矛盾被激化。
 > - **推导** 通过多主体[[Dialogue in Education|对话]]协商，若能建构出容纳双方合理诉求的“共享客体（Shared Object）”，将触发全系统要素的连锁重组，实现从旧平衡向新实践生态跃迁的“扩展性改造（Expansive Transformation）”。
 
 ---
 
-> [!proposition-chain] 核心命题四｜跨制度边界相遇中的[[Selective Affinity|选择性亲和]]与共享目标重构（[[Argument_Wang_2025_CE|Wang & McLaughlin, 2025]]）
+### 命题四｜跨制度边界相遇中的选择性亲和与共享目标重构（[[Argument_Wang_2025_CE|Wang & McLaughlin, 2025]]）
+
+> [!proposition-chain] 跨制度边界相遇中的[[Selective Affinity|选择性亲和]]与共享目标重构（[[Argument_Wang_2025_CE|Wang & McLaughlin, 2025]]）
 > - **前提一** 跨国[[Policy Borrowing|政策借用]]将西方的以学习者为中心的教学（[[Learner-Centred Education|LCE]]）改革系统引入中国高利害[[Test-Based Accountability|考试问责]]环境，形成两大冲突系统。
 >   > [!evidence-grid]- 证据
 >   > - **证据一** 中国 4 所高中在英国专业发展项目后，面临[[Gaokao|高考]]升学达标压力与探究对话教学要求的剧烈冲突。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 586–593)]]
@@ -142,7 +165,9 @@ updated: 2026-09-04
 
 ---
 
-> [!proposition-chain] 核心命题五｜生成式 AI 介入下的教学活动系统失调与人机协同规制重构（[[Argument_Li_2026_CEAI|Li et al., 2026]]）
+### 命题五｜生成式 AI 介入下的教学活动系统失调与人机协同规制重构（[[Argument_Li_2026_CEAI|Li et al., 2026]]）
+
+> [!proposition-chain] 生成式 AI 介入下的教学活动系统失调与人机协同规制重构（[[Argument_Li_2026_CEAI|Li et al., 2026]]）
 > - **前提一** 生成式 AI（ChatGPT）作为超级中介工具进入大学教学，其高速语义生成与传统的“终稿文本评价（End-Product Evaluation）”规则发生剧烈冲突，在非结构化使用中诱发严重的[[Cognitive Offloading|认知卸载]]与批判/创造双重侵蚀。
 >   > [!evidence-grid]- 证据
 >   > - **证据一** 67 项实证研究综述显示，在缺乏教学支架的情境中，AI 表面流畅性绕过反思挣扎，导致人机分工失衡与学生思维退化。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 9–11)]]
@@ -152,6 +177,21 @@ updated: 2026-09-04
 >   ② **规则重组** 由终稿查重转向提示词链追踪、查错核验日志与反思辩护；
 >   ③ **劳动分工** 人机认知解耦——AI 负责发散初筛，人类负责反思审订；
 >   ④ **共同体** 构建 AI 形成性评语、教师点拨、同伴质询与自我校准的多源反馈生态。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 11–13)]]
+
+---
+
+### 命题六｜活动理论移动协作学习框架（AT-MCSCL）与人机协同全要素调节机制（[[Argument_Chen_Cheung_2025_ERR|Chen & Cheung, 2025]]）
+
+> [!proposition-chain] 技术中介活动系统的全要素[[Operationalization|操作化]]与生态调节模型
+> - **前提一** 在计算机与移动/智能技术支持协作学习（CSCL/MCSCL）中，技术的促学效果并非单纯的技术固有属性，而是由活动系统六大维度的微观结构与宏观文化生态交互决定（Collis & Margaryan, 2004; Jonassen & Rohrer-Murphy, 1999）。
+> - **前提二** 将生成式 AI 介入学习系统的[[Variable|变量]]严格映射至六要素操作化系统：
+>   ① **客体与产出（Object/Outcomes）** 多维学习产出分化（[[Language Skills|语言技能]]超大增益 $g^+ = 2.331$、[[Academic Achievement|学业成绩]] $g^+ = 0.633$、[[Higher-Order Thinking Skills|高阶思维]] $g^+ = 0.580$，但[[Metacognition|元认知]]未达统计显著 $g^+ = 0.078$）；
+>   ② **活动主体（Subject）** 大一新生处于大学过渡适应期，获益显著最高（$g^+ = 0.698$）；语言学科与大模型底层语言机制天然契合，增益最强（$g^+ = 1.782$）；
+>   ③ **中介工具（Mediating Tools）** 文本、代码与视觉多模态均展现中到大促学效应，工具类型间差异不显著，表明教学设计重于平台品牌；
+>   ④ **劳动分工（Division of Labor）** AI 角色定位为主体平等的“学习同伴”（$g^+ = 0.941$）比单向灌输的“授课导师”（$g^+ = 0.649$）更具促学效能，营造了低焦虑的共创对话[[Champ|场域]]；
+>   ⑤ **规则与规程（Rules/Design）** 4–12 周中期干预为黄金周期（$g^+ = 1.014$），兼顾技能内化与防范脱敏；自编测验因贴合练习存在虚高（$g^+ = 1.022$ vs 标准化 $0.614$）；
+>   ⑥ **共同体与情境（Community/Context）** 真实课堂（$g^+ = 0.891$）显著优于实验室（$g^+ = 0.261$）；低 ICT（$g^+ = 1.764$）与低 SES（$g^+ = 1.751$）高校展现出“边际效益递增”规律；高权力距离文化（$g^+ = 0.859$ vs 低权力距离 $0.236$）中 AI 提供了匿名无评判界限，产生“权力壁垒破除效应”。
+> - **推导** AT-MCSCL 框架实证确立了技术中介系统的全要素生态观，推翻了技术全能决定论，为智能时代人机协同学习提供了标准化的中层实证分析与变量[[Coding in Qualitative Research|编码]]架构。[[Argument_Chen_Cheung_2025_ERR|(Chen & Cheung, 2025, pp. 3–7, 10–13, 16–18)]]
 
 ---
 
@@ -208,6 +248,10 @@ updated: 2026-09-04
 > **案例二：大学课堂中生成式 AI 介入下的教学规制重构（[[Argument_Li_2026_CEAI|Li et al., 2026]]）**
 > - **背景** 大学课程引入 ChatGPT 后，学生使用大模型秒出论文终稿，传统“以终稿论英雄”的考核规则诱发大面积[[Cognitive Offloading|认知卸载]]与心智惰性。
 > - **机制运作** 教师依据活动理论开展系统重构：不再禁止 AI，而是将教学客体从“提交文字[[Homework|作业]]”升级为“人机协同递归探究”；规则调整为强制提交提示词修改链与反思辩护日志；分工调整为学生负责批判核查、AI 负责异质观点发散，彻底激活了批判与创造思维的双向协同。
+> 
+> **案例三：高等教育生成式 AI 促学成效的 AT-MCSCL 多维调节解构（[[Argument_Chen_Cheung_2025_ERR|Chen & Cheung, 2025]]）**
+> - **背景** 学界关于生成式 AI 对大学生促学成效大小存在显著分歧，既有研究常局限于单一工具评估或孤立学科，缺乏系统性的理论解释架构。
+> - **机制运作** 研究采用 AT-MCSCL 框架，将 57 项严格控制基线等效（$d < 0.25$）的[[Experimental Research|实验研究]]中 17 项调节变量完整映射到客体、主体、工具、规则、分工与共同体六要素中，通过[[Meta-analysis|元分析]]实证揭示出从语言技能向元认知单调递减的心智级差，以及低 ICT、低 SES 与高权力距离情境下的边际效益赋能规律，展示了活动理论作为大[[Sample Size Determination|样本量]]化元分析编码与机制解构架构的方法论效能。
 
 ---
 
@@ -252,6 +296,7 @@ updated: 2026-09-04
 > - **1987 — 第二代：Engeström 六要素集体活动系统** 引入共同体、规则与劳动分工，将分析单元拓展为集体的活动系统，出版奠基著作 *Learning by Expanding*。
 > - **2001 — 第三代：多活动系统互动与扩展性改造** Engeström 正式提出第三代活动理论，聚焦多个活动系统的相遇、边界跨越与扩展性学习网络。
 > - **2025 — 教育改革与跨文化[[Transfer Translation Transformation|转译]]实证应用** Wang & McLaughlin 运用第三代活动理论解构中国 4 所高中在跨国培训后，如何通过建立共享客体实现[[Test-Based Accountability|考试问责]]与 [[Learner-Centred Education|LCE]] 改革双系统的扩展性改造。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 586–605)]]
+> - **2025 — 活动理论移动协作学习框架（AT-MCSCL）的大样本[[Meta-analysis|元分析]][[Operationalization|操作化]]** [[Argument_Chen_Cheung_2025_ERR|Chen & Cheung (2025)]] 承袭 Jonassen & Rohrer-Murphy (1999) 与 Collis & Margaryan (2004) 的传统，构建 AT-MCSCL 六要素调节分析架构，对 57 项高等教育生成式 AI 实证实施多维全要素[[Coding in Qualitative Research|编码]]，确立了边际效益递增与权力壁垒破除的宏观生态机制。
 > - **2026 — 生成式 AI 人机协同与教学规制重构** Li et al. 将第三代活动理论应用于高等教育生成式 AI 整合研究，提出超越工具中心论的六大教学干预规制与人机认知分工模型。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 11–13)]]
 
 ---
@@ -275,6 +320,7 @@ updated: 2026-09-04
 > > 技术决定论者主张 AI 工具本身具备固有的增益或危害效应；活动理论学者则坚持技术效应完全依存于活动系统规则与分工的重构。
 > >
 > > - **[[Argument_Li_2026_CEAI|Li et al. (2026, pp. 1, 10–11)]]** 实证确立 AI 对[[Higher-Order Thinking Skills|高阶思维]]的影响非技术固有，而在教学活动系统重组中分化为协同增益与双重侵蚀两种截然相反的轨迹。
+> > - **[[Argument_Chen_Cheung_2025_ERR|Chen & Cheung (2025, pp. 10–13)]]** 基于 AT-MCSCL 框架证实技术效果受人机角色（同伴比导师更优）、干预周期（4–12 周黄金期）与宏观文化权力距离深度调节，为活动系统整体观提供了基于 57 项[[Experimental Research|实验研究]]的大[[Sample Size Determination|样本量]]化证据。
 
 ---
 
