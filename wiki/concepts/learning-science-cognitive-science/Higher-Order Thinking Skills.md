@@ -82,7 +82,7 @@ related_arguments:
   - "[[Argument_Liu_2026_CHBR]]"
   - "[[Argument_Bouckaert_2023_OECD]]"
 created: 2026-08-24
-updated: 2026-09-01
+updated: 2026-09-04
 ---
 
 # Higher-Order Thinking Skills
@@ -250,6 +250,7 @@ updated: 2026-09-01
 >
 > | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与预测区间 | 关键解释边界 |
 > |---|---|---|---|---|---|---|
+> | [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] | 结果变量：生成式 AI 对大学生高阶思维（HOT）的促进效应 | $k = 16$ / $N = —$（57 项实验研究中 16 个效应量） | Hedges' $g^+$ / 随机效应模型 | $g^+ = 0.580$ $[0.321, 0.838]$ | $Q(15) = 152.55, p < .001, I^2 = 90.17\%$ | 涵盖高校批判性思维与发散构想，严格控制基线等效性（$d < 0.25$），未检测出显著发表偏倚（Egger $p = .863$） |
 > | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 结果变量：[[Graphic Organizer\|图形组织器]]对学生高阶思维（HOT）的总体促进效应 | $k = 72$ / $N = 4{,}824$（66 项独立研究） | Hedges' $g$ / 随机效应模型 | $g = 0.778$ $[0.649, 0.907]$ | $Q(71) = 485.49, p < .001, I^2 = 85.37\%$ | 涵盖 19 国大中小学样本；思维导图 $g = 1.041$ > 论证图 $g = 0.798$ > 概念图 $g = 0.548$；未发现发表偏倚（Egger $p = .070$） |
 > | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | [[Dependent Variable\|结果变量]]：AI 智能体对 K-12 学生高阶思维（Higher-Order Thinking）的干预效应 | $k = 13$ / $N = 3{,}042$（34 项研究中 13 个效应量） | Hedges' $g$ / 随机效应模型 | $g = 0.540$ $[-0.036, 1.117]$ | $Q(12) = 259.62, p < .001, I^2 = 95.4\%, \tau^2 = 1.063$ | 涵盖 K-12 阶段批判性思维与分析推理；点估计较大但未达统计显著（$p = .066$），异质性极高，高度依赖探究性教学设计与反思支架 |
 > | Özkan & Çetinkaya-Uslusoy (2024) | [[Dependent Variable\|结果变量]]：拼图法（Jigsaw）对护理高阶思维（[[Critical Thinking\|批判性思维]]）的促进效应 | $k = 4$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.70$ $[0.13, 1.26]$ | — | 高等护理教育临床决策情境，角色互换显著强化批判反思（引自 [[Argument_Gungor_2026_CP\|Güngör et al., 2026]]） |
@@ -301,6 +302,7 @@ updated: 2026-09-01
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Chen_Cheung_2025_ERR|Chen & Cheung (2025)]] — [[Meta-analysis|元分析]] 57 项实验研究中生成式 AI 对大学生高阶思维（HOT）的促进效应（$g^+ = 0.580$），严格控制基线等效性（$d < 0.25$），揭示了生成式技术对高校批判反思与发散创造的中等显著赋能。
 > - [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] 运用随机效应[[Meta-analysis|元分析]]综合 66 项实验与准[[Experimental Research|实验研究]]（72 个[[Effect Size|效应量]]，$N = 4{,}824$），系统检验[[Graphic Organizer|图形组织器]]对高阶思维的促进效应（$g = 0.778$），揭示了思维倾向与认知过程收益显著高于技能结果、[[Divergent Thinking|发散思维]]收益显著高于[[Convergent Thinking|聚合思维]]的层级调节特征。
 > - [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] 运用随机效应元分析综合 34 项实验与准实验研究（73 个效应量，$N = 3{,}042$），检验 AI [[AI Agent in Education|智能体]]对 K-12 学生高阶思维的影响，发现尽管效应量点估计较大（$g = 0.540$），但未达统计显著（$p = .066$）且[[Heterogeneity|异质性]]极高（$I^2 = 95.4\%$），表明 AI 促进高阶思维的效果高度取决于探究式学习和[[Reflexivity|反思性]]任务设计。
 > - [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] — 运用[[Meta-meta-analysis|二阶元分析]]系统考察[[Cooperative Learning|合作学习]]对高阶思维技能的干预效应，报告了 $ES = 0.76$ 的高效益表现，证实社会建构互动对学生[[Critical Thinking|批判性思维]]与复杂问题解决能力的突出推动价值。

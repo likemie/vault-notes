@@ -3299,7 +3299,6 @@
       "生成式人工智能",
       "Generative AI",
       "GenAI",
-      "生成式 AI",
       "生成式人工智能技术"
     ]
   },
@@ -20860,6 +20859,11 @@
     "title": "Argument_Wrigley_2019_ERE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Educational Research and Evaluation/Argument_Wrigley_2019_ERE.md"
+  },
+  {
+    "title": "Argument_Chen_Cheung_2025_ERR",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Educational Research Review/Argument_Chen_Cheung_2025_ERR.md"
   },
   {
     "title": "Argument_Hagevold_Forsstrom_Keles_2026_ERR",

@@ -98,7 +98,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-01
-updated: 2026-08-25
+updated: 2026-09-04
 ---
 
 # Meta-analysis
@@ -279,7 +279,7 @@ flowchart LR
 ## 典型案例研究
 
 > [!case] Glass & Smith (1978) · [[Class Size|班级规模]]与[[Academic Achievement|学业成就]]元分析
-> Glass & Smith (1978) 收集了 77 项关于班级规模与学生学习的实证研究（涵盖 725 项[[Effect Size|效应量]]比较与近 900,000 名学生）。[[Meta-regression|元回归分析]]清晰揭示了班级规模与学业成就之间的非线性负相关曲线。
+> 该研究收集了 77 项关于班级规模与学生学习的实证研究（涵盖 725 项[[Effect Size|效应量]]比较与近 900,000 名学生）。[[Meta-regression|元回归分析]]清晰揭示了班级规模与学业成就之间的非线性负相关曲线。
 >
 > 关键方法学发现：实验控制质量是调节曲线斜率的唯一关键因素。良好控制的研究显示出更陡峭的收益曲线，而不充分控制的研究曲线较为平缓。Glass et al. 据此按研究质量分层报告效应量，奠定了按方法学质量开展亚组分析的规范。（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 17, pp. 357–360）
 
@@ -305,6 +305,7 @@ flowchart LR
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 研究案例索引
+> - [[Argument_Chen_Cheung_2025_ERR|Chen & Cheung (2025)]] 依据活动理论移动计算机支持协作学习（AT-MCSCL）框架对 57 项实验与准实验研究（97 个[[Effect Size|效应量]]，$N = 5{,}389$）实施随机效应元分析，严格控制前测基线等效性（$d < 0.25$），评估生成式人工智能对大学生成果的综合效应（$g^+ = 0.804$），并系统检验 17 个调节变量及剪补法发表偏倚校正（校正后 $g^+ = 0.321$）。
 > - [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] 运用[[Fixed-Effect and Random-Effects Models|随机效应模型]]综合 66 项实验与准[[Experimental Research|实验研究]]（72 个[[Effect Size|效应量]]，$N = 4{,}824$），评估[[Graphic Organizer|图形组织器]]对学生[[Higher-Order Thinking Skills|高阶思维]]的促进效应（$g = 0.778$），并结合 Wald 检验与[[Meta-regression|元回归]]系统考察导图类型、思维层级及学段等调节[[Variable|变量]]。
 > - [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] 采用随机效应模型综合 34 项实验与准实验研究（73 个效应量，$N = 3{,}042$），评估 AI [[AI Agent in Education|智能体]]对 K-12 学生认知学习成果的总体效应（$g = 0.404$），并系统检验技能类结果、知识类结果、高阶思维以及智能体形态、学段、学科和干预时长的[[Interaction Effect|调节效应]]。
 > - [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] 综合 341 项实验与准实验研究，运用随机效应模型与混合效应亚组调节检验，确立[[Dialogue in Education|对话]]、[[Authentic Instruction|真实性教学]]与[[Mentorship|导师制]]对[[Critical Thinking|批判性思维]]的三维复合干预效应（$g+ = 0.57$）。

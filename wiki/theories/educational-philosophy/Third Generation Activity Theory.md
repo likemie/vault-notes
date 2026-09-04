@@ -61,7 +61,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-09-02
+updated: 2026-09-04
 ---
 
 # Third Generation Activity Theory
@@ -277,5 +277,6 @@ updated: 2026-09-02
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Chen_Cheung_2025_ERR|Chen & Cheung (2025)]] — 采用活动理论移动计算机支持协作学习（AT-MCSCL）框架，将生成式 AI 学习系统解构为主体、客体、工具、规则、分工与情境六大维度，对 57 项实验研究进行多维调节效应元分析，解释了边际效益递增与权力壁垒破除机制。
 > - [[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]] — 运用第三代活动理论作为[[Analytic Framework|分析框架]]，解构中国 4 所高中在跨国专业发展项目后，[[Test-Based Accountability|考试问责]]系统与 [[Learner-Centred Education|LCE]] 改革系统如何通过建立学校特定共享目标，促成要素协同重构与扩展性改造。
 > - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — 将活动理论应用于高等教育[[Generative Artificial Intelligence|生成式 AI]] 整合综述，揭示大模型作为新型中介工具对教学活动系统平衡的扰动，系统提出了涵盖工具定位、规则重塑、人机认知分工与多源反馈共同体的扩展性改造方案。

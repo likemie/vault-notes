@@ -95,7 +95,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-07-01
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Metacognition
@@ -282,6 +282,7 @@ updated: 2026-09-03
 > | Dignath & Büttner (2008) | **【干预[[Variable\|变量]]】** 元认知与自我调节策略教学对学生学习成效与认知技能的因果干预效应 | $k = 48$ 项干预研究 / $N = 7,450$ | Cohen's $d$ / 随机效应模型 | **$d = 0.69$** $[0.56, 0.82]$ | 异质性显著，元认知监控策略为关键有效成分 | 证实显性传授元认知规划与监控策略对[[Academic Achievement\|学业表现]]与思维技能具有中到大效应 |
 > | Cartiff et al. (2021) | **【干预变量】** 探究教学中嵌入显性元认知支架对学生[[Epistemic Cognition\|认识论认知]]与高阶学业表现的促进 | $k = 19$ 项研究 (63 ES) / $N = 4,048$ | 皮尔逊相关 $r$ / 随机效应模型 | **$r = 0.198$** $[0.132, 0.264]$ | 跨学科研究异质性中等 | 证实提供显性元认知反思支架能直接改善学习者的[[Epistemology\|认识论]]监控水平与学业成就 |
 > | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | **【关联/共享机制】** [[Creativity\|创造力]]与[[Critical Thinking\|批判性思维]]共享的元认知评价与调节中介关联 | $k = 51$ 项研究 / $N = 12,548$ | 皮尔逊相关 $r$ / 三水平随机效应模型 | **$r = 0.386$** $[0.296, 0.470]$ | $Q(50) = 1113.80, p < .001, I^2 = 95.24\%$；95% PI $[-0.14, 0.70]$ | 证实两类高阶思维具有中等稳健正相关，方案筛选与反思调节等元认知机能构成核心纽带 |
+> | [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] | **【结果变量】** 生成式 AI 对大学生元认知（Metacognition）及自我调节学习的干预效应 | $k = 10$ 项实验研究 / $N = —$ | Hedges' $g^+$ / 随机效应模型 | **$g^+ = 0.078$** $[-0.495, 0.652]$ | $Q(9) = 151.76, p < .001, I^2 = 94.07\%$ | 元认知效应未达统计显著（$p = .789$），证实缺乏显性反思支架时生成式 AI 无法自发促进元认知，甚至可能诱发元认知惰性 |
 
 > [!ma-table]- 一阶元分析互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
@@ -329,6 +330,7 @@ updated: 2026-09-03
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Chen_Cheung_2025_ERR|Chen & Cheung (2025)]] — [[Meta-analysis|元分析]] 57 项实验研究中生成式 AI 对大学生产出的多维效应，报告对元认知无统计显著促进（$g^+ = 0.078, p = 0.789, k = 10$），揭示了防范“元认知惰性”与开展显性反思培训的紧迫性。
 > - [[Argument_Park_2026_TSC|Park et al. (2026)]] — [[Three-Level Meta-Analysis|三水平元分析]]（$k = 51, N = 12,548$）确立[[Creativity|创造力]]与[[Critical Thinking|批判性思维]]的稳健正相关（$r = 0.386$），论证元认知监控是驱动两类[[Higher-Order Thinking Skills|高阶思维]]协同的核心纽带。
 > - [[Argument_Guo_2025_TSC|Guo et al. (2025)]] — 多层[[Meta-analysis|元分析]]揭示高校[[Creativity Training|创造力干预]]总体增益（$g = 0.628$），并在纳入的 Hargrove & Nietfeld (2015) 等研究基础上，揭示独立个体练习（$g = 0.682$）胜于小组协作（$g = 0.567$）促进策略内化的元认知机制。
 > - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — [[Systematic Review|系统综述]] 67 项实证研究，揭示大语言模型表面流畅性诱发元认知监控外包的危机，提出反思支架维系[[Epistemic Friction|认识论摩擦]]的实践规程。
@@ -356,6 +358,7 @@ updated: 2026-09-03
 > | [[Creativity Assessment]] | 概念 | 诊断工具 | 过程性创造力测评（[[Problem Finding\|问题发现]]、[[Remote Associates Test\|RAT]]）深入测查学生的元认知监控水平。 |
 > | [[Remote Associates Test]] | 测量工具 | 语义重组测验 | Hargrove & Nietfeld (2015) 结合 RAT 检验元认知指导对概念远距重组的促进效应。 |
 > | [[Problem Solving Inventory]] | 测量工具 | 应对风格测评 | 测定个体面对劣构难题时的元认知应对风格与问题解决效能感。 |
+> | [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] | 论证 | 实证基石 | 元分析证实生成式 AI 对元认知无显著促进（$g^+ = 0.078$），揭示元认知惰性风险。 |
 > | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 论证 | 实证基石 | 三水平元分析证实两类高阶思维共享元认知成分（$r = 0.386$）。 |
 > | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 论证 | 实证基石 | 多层元分析揭示训练总体增益（$g = 0.628$）及独立练习深度反思优势。 |
 > | [[Argument_Li_2026_CEAI\|Li et al. (2026)]] | 论证 | 实证基石 | [[Systematic Review\|系统综述]]确立显性元认知监控作为人机共创认识论警觉的核心防线。 |
