@@ -18783,6 +18783,27 @@
     ]
   },
   {
+    "title": "Sense about Science",
+    "type": "fact",
+    "path": "wiki/facts/uk/Sense about Science.md",
+    "aliases": [
+      "科学认知组织",
+      "科学常识组织",
+      "SAS"
+    ]
+  },
+  {
+    "title": "Areas of Research Interest",
+    "type": "fact",
+    "path": "wiki/facts/uk/Areas of Research Interest.md",
+    "aliases": [
+      "重点研究领域清单",
+      "ARIs",
+      "重点研究领域",
+      "Areas of Research Interest (ARIs)"
+    ]
+  },
+  {
     "title": "Association for Science and Discovery Centres",
     "type": "fact",
     "path": "wiki/facts/uk/Association for Science and Discovery Centres.md",
@@ -19193,6 +19214,17 @@
       "RAiSE",
       "苏格兰科学教育抱负提升计划",
       "Raising Aspirations in Science Education"
+    ]
+  },
+  {
+    "title": "Sciencewise",
+    "type": "fact",
+    "path": "wiki/facts/uk/Sciencewise.md",
+    "aliases": [
+      "英国科学智慧计划",
+      "科学智慧项目",
+      "科学智慧计划",
+      "Sciencewise Public Dialogue"
     ]
   },
   {

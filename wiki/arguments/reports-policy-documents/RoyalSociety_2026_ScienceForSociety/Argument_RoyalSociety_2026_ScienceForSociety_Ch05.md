@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch05"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch05"
 argument_display_title: "Chapter five: Policy"
 argument_kind: "book-chapter"
-argument_related_count: 11
+argument_related_count: 14
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#fef3c7"
@@ -43,8 +43,11 @@ related_facts:
   - "[[Government Office for Science]]"
   - "[[Scientific Advisory Group for Emergencies]]"
   - "[[Parliamentary Office of Science and Technology]]"
+  - "[[Areas of Research Interest]]"
   - "[[The Green Book]]"
   - "[[Public Attitudes to Science]]"
+  - "[[Sciencewise]]"
+  - "[[Sense about Science]]"
 status: draft
 created: 2026-09-04
 updated: 2026-09-04
@@ -154,7 +157,7 @@ updated: 2026-09-04
 
 > [!actor-grid] 行政端科技咨询与证据治理核心主体
 > - **政府首席科学顾问与政府科学办公室（GCSA & GO-Science）** 设于中央内阁中枢，由政府首席科学顾问（Government Chief Scientific Adviser, GCSA）领导，统筹跨部委顾问网络并发布国家前瞻预见报告（Foresight Reports）。
-> - **部委首席科学顾问网络（Departmental CSAs）** 嵌入各行政部委核心高层，统筹部门科研采购并常态化发布重点研究领域清单（Areas of Research Interest, ARIs）。
+> - **部委首席科学顾问网络（Departmental CSAs）** 嵌入各行政部委核心高层，统筹部门科研采购并常态化发布[[Areas of Research Interest|重点研究领域清单（Areas of Research Interest, ARIs）]]。
 > - **首席医疗官与国家技术顾问（CMO & NTA）** 常设于卫生与技术战略关键领域，由首席医疗官（Chief Medical Officer, CMO）与国家技术顾问（National Technology Adviser, NTA）提供专业咨询。
 > - **部委科学顾问委员会（Departmental SACs）** 主要由非官方独立学者构成，为部委中长期政策提供外部学术论证与客观同行评议。（p. 81）
 
@@ -338,7 +341,7 @@ updated: 2026-09-04
 > 面对飞速演进的破坏性技术，传统的治理节奏正遭遇前所未有的失效：
 > - **传统被动响应式沟通的破产** 长期以来，科学界与政府习惯于采取“被动响应”（responsive approach）——即在实验室取得突破并在商业市场大行其道之后，才开始向公众宣传，并在社会爆发道德恐慌或失业焦虑时被动灭火（如早期的转基因抵制危机）。
 > - **新兴技术的不可逆冲击** 当前以生成式人工智能、脑机接口、合成生物学与基因驱动（gene drives）为代表的新兴颠覆性技术，其技术扩散周期被压缩至数月之间；一旦技术定型与资本锁定完成，事后补救式规制将完全失去效力。
-> - **前瞻性共进化对话（co-evolving dialogue）** 皇家学会第 16 项建议明确提出，科学共同体必须联合专业协调中介（如 Sciencewise 计划），在这些颠覆性技术的研发早期就常态化召集包含多元受众的公众审议，使社会公众的伦理关切能够反向约束技术设计与政策指引。
+> - **前瞻性共进化对话（co-evolving dialogue）** 皇家学会第 16 项建议明确提出，科学共同体必须联合专业协调中介（如[[Sciencewise|英国科学智慧计划，Sciencewise]]），在这些颠覆性技术的研发早期就常态化召集包含多元受众的公众审议，使社会公众的伦理关切能够反向约束技术设计与政策指引。
 
 #### 主题二：建议十四：推行法定《科学证据陈述》（Scientific Evidence Statements）确立全球透明度典范（p. 87）
 
@@ -356,7 +359,7 @@ updated: 2026-09-04
 > [!pathways] 建议十五：国家学术院开展政策科学证据质量独立审计（Recommendation 15, p. 88）
 > 国家学术院（包括英国皇家学会、英国国家学术院、皇家工程院及医学科学院）作为独立于英国政府的权威机构，必须在监督重大政策决策中科学证据的质量与使用方面承担主动的公共问责角色：
 > - **对重大政策开展公开证据审查** 针对政府、议会两院以及各主要政党在重大政策决定中所引用的科学证据，国家学术院应主动发起公开、严谨的独立审视，确保科学事实以客观、清晰且完全剥离政治偏见的方式呈现在全社会面前。
-> - **跨界联合专业治理机构协同审计** 国家学术院应深度联合政府研究所（Institute for Government, IfG）以及“科学认知组织”（Sense about Science）等具有广泛社会公信力的第三方独立机构，常态化联合评估政府将科学证据融入政策制定的实际成效及其面向公众沟通的透明度。（p. 88）
+> - **跨界联合专业治理机构协同审计** 国家学术院应深度联合政府研究所（Institute for Government, IfG）以及[[Sense about Science|“科学认知组织”（Sense about Science）]]等具有广泛社会公信力的第三方独立机构，常态化联合评估政府将科学证据融入政策制定的实际成效及其面向公众沟通的透明度。（p. 88）
 
 #### 主题四：建议十六：科学界主动推进前沿颠覆性技术的常态化前瞻公共对话（p. 88）
 
@@ -365,15 +368,15 @@ updated: 2026-09-04
 > [!pathways] 建议十六：科学界前瞻推进新兴技术常态化公共对话（Recommendation 16, p. 88）
 > 科学共同体必须主动出击，针对新兴技术与前沿科研大力促进深度的[[Public Engagement with Science|公众科学参与]]与民主对话，确保技术对伦理道德与公共政策的深远冲击在萌芽阶段即得到充分考量：
 > - **构筑持续共创的双向对话环境** 包括国家学术院在内的全体科学界负有不可推卸的责任，必须主动融入与公众、政界人士及政策社群的持续对话，创造包容、支持性的对话生态，以此作为维系公众对科学长期信任的根本要素。
-> - **动员专业协商推进机构** 充分调动国家学术院、英国科学智慧计划（Sciencewise）、“科学认知组织”（Sense about Science）等具备专业中立协调能力的专业组织，搭建汇聚科学专业知识、公众真实心声与政府政策关切的三方协同协商平台。
+> - **动员专业协商推进机构** 充分调动国家学术院、[[Sciencewise|英国科学智慧计划（Sciencewise）]]、[[Sense about Science|“科学认知组织”（Sense about Science）]]等具备专业中立协调能力的专业组织，搭建汇聚科学专业知识、公众真实心声与政府政策关切的三方协同协商平台。
 > - **科研预算专项划拨与决策层 STEM 素养培训** 必须在国家科学研究总预算（及英国研究与创新署，UKRI 等科研资助体系）中专门划拨充足的资源与专项技能培训经费，赋能科学家开展高质量公共参与；同时全面加强整个政策制定体系（包括政府各部委与议会两院）的科学、技术、工程与数学（Science, Technology, Engineering and Mathematics, STEM）研究和数据分析素养，长远看这将在提升公众信任与平稳推行新技术应用中带来成倍的社会回报。（p. 88）
 
 > [!index-table] 表5-4：政策与科学治理三大国家建议落地实施矩阵（pp. 87–88）
 > | 建议维度与编号 | 核心政策诉求与改革靶标 | 主要牵头负责主体 | 配套实施抓手与约束工具 | 预期达成的治理成效 |
 > |---|---|---|---|---|
 > | **建议 14：法定发布《科学证据陈述》** | 政策全流程强制披露科学证据基础，明确标注科学不确定性 | 英国中央政府、内阁办公室、各部委政策司 | 财政部《绿皮书》政策指引更新、通俗英文撰写审查、法定随附程序 | 彻底终结政策循证黑箱与口号化“遵循科学”，重塑循证决策公信力 |
-> | **建议 15：国家学术院独立审查监督** | 对政府与政党重大政策科学证据行使独立第三方公共质询与审计 | 国家各学术院（Royal Society 等）、IfG、Sense about Science | 联合独立证据审查报告、公开质询听证、跨党派透明度排行榜 | 阻断政治偏见与意识形态对科学证据的篡改，捍卫科学顾问制度独立性 |
-> | **建议 16：前瞻新兴技术公共对话** | 针对 AI、合成生物等前沿技术在早期建立平权前瞻审议对话 | 科学共同体、国家学术院、Sciencewise、科研资助机构（UKRI） | 科研总预算专项资助划拨、全政策层 STEM 技能提升、专业中介协商网络 | 扭转仅 12% 决策参与感，在颠覆性技术落地前建立稳固社会许可与公众信任 |
+> | **建议 15：国家学术院独立审查监督** | 对政府与政党重大政策科学证据行使独立第三方公共质询与审计 | 国家各学术院（Royal Society 等）、IfG、[[Sense about Science]] | 联合独立证据审查报告、公开质询听证、跨党派透明度排行榜 | 阻断政治偏见与意识形态对科学证据的篡改，捍卫科学顾问制度独立性 |
+> | **建议 16：前瞻新兴技术公共对话** | 针对 AI、合成生物等前沿技术在早期建立平权前瞻审议对话 | 科学共同体、国家学术院、[[Sciencewise]]、科研资助机构（UKRI） | 科研总预算专项资助划拨、全政策层 STEM 技能提升、专业中介协商网络 | 扭转仅 12% 决策参与感，在颠覆性技术落地前建立稳固社会许可与公众信任 |
 
 #### 主题五：第五章专家研制工作组背景与政策专家构成（Annex 1, p. 111）
 
@@ -386,7 +389,7 @@ updated: 2026-09-04
 >   - 萨莉·贝利教授（Professor Sallie Bailey）：英格兰自然保护署首席科学家；
 >   - 爱丽丝·鲍文（Alice Bowen）：英国青年科学院成员、曼彻斯特大学化学系资深讲师；
 >   - 罗伯特·布拉德本博士（Dr Robert Bradburne）：英国环境署首席科学家；
->   - 特蕾西·布朗（Tracey Brown OBE）：英国独立科学公益组织“科学认知组织”（Sense about Science）总干事；
+>   - 特蕾西·布朗（Tracey Brown OBE）：英国独立科学公益组织[[Sense about Science|“科学认知组织”（Sense about Science）]]总干事；
 >   - 凯瑟琳·哈登（Catherine Haddon）：英国智库“政府研究所”（Institute for Government, IfG）资深研究员；
 >   - 罗宾·洛弗尔-巴奇教授（Professor Robin Lovell-Badge CBE FMedSci FRS）：英国皇家学会会士、弗朗西斯·克里克研究所干细胞生物学与发育遗传学实验室主任。（p. 111）
 
