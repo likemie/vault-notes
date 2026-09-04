@@ -7,10 +7,10 @@ aliases:
 summary: "英国皇家学会在《科学造福社会》报告中提出的前沿科技教育理念，主张在中小学阶段通过专项资助实现人工智能、增强现实与先进制造等颠覆性技术的常态化、低门槛动手接触，使其成为如铅笔般日常的思维工具，从而在根本上去神秘化并消解社会信任赤字"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 17
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - field/instruction-pedagogy
   - theme/educational-technology

@@ -10,7 +10,7 @@ aliases:
 summary: "指优秀学术研究对学术共同体之外的经济、社会、公共政策、医疗健康、文化、教育及生态环境等领域所产生的可证实、可测度的实质性积极贡献与变革"
 type: concept
 domain: "higher-education"
-related_count: 14
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

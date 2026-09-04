@@ -8,7 +8,7 @@ aliases:
 summary: "区别于战术/交易型和协作型互动的最高层次产学关系，以双方联络人、共同愿景与目标、定期审查路线图和双向问责制为四个基本要素，通常从小项目生长而非顶层设计而成"
 type: concept
 domain: "higher-education"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

@@ -10,7 +10,7 @@ subtype: institutional
 region: uk
 fact_region: "uk"
 fact_kind: "institutional"
-fact_related_count: 5
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#e5e7eb"

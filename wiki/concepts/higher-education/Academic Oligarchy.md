@@ -8,7 +8,7 @@ aliases:
 summary: "Clark (1983) 三角协调模型中专业寡头一极的当代延伸，描述市场竞争和评估治理如何催生少数精英大学对资源分配和价值定义的寡头式控制，而非预期的开放竞争"
 type: concept
 domain: "higher-education"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

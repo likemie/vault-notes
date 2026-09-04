@@ -8,7 +8,7 @@ summary: "英国物理学家、格拉斯哥大学引力研究所教授、皇家�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 6
+person_related_count: 7
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"

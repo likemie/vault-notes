@@ -7,7 +7,7 @@ aliases:
 summary: "组织把自主性、目标导向、问责性和社会嵌入性纳入核心身份并作为行动者被广泛承认的制度过程"
 type: concept
 domain: "sociology-of-education"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
