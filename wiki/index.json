@@ -1041,8 +1041,7 @@
     "aliases": [
       "Learner Profile",
       "学习者培养目标",
-      "学习者特征",
-      "IB学习者特征"
+      "学习者特征"
     ]
   },
   {
@@ -1115,6 +1114,19 @@
       "know-how-to",
       "propositional knowledge",
       "applied knowledge"
+    ]
+  },
+  {
+    "title": "Language Skills",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Language Skills.md",
+    "aliases": [
+      "语言技能",
+      "语言能力",
+      "language proficiency",
+      "linguistic skills",
+      "L2 skills",
+      "外语技能"
     ]
   },
   {
@@ -2695,7 +2707,8 @@
       "学业表现",
       "GPA",
       "academic performance",
-      "academic average"
+      "academic average",
+      "学业成绩"
     ]
   },
   {
@@ -2706,7 +2719,12 @@
       "情感产出",
       "情感行为",
       "Affective Behaviors",
-      "情感领域学习产出"
+      "情感领域学习产出",
+      "非认知情感",
+      "非认知产出",
+      "情感动机",
+      "Affective-Motivational Outcomes",
+      "Non-cognitive Outcomes"
     ]
   },
   {
