@@ -92,14 +92,14 @@ related_arguments:
   - "[[Argument_Chen_Cheung_2025_ERR]]"
   - "[[Argument_Lei_Ding_Chiu_2026_ERR]]"
   - "[[Argument_Abrami_2015_RER]]"
+  - "[[Argument_Greene_2018_JEP]]"
+  - "[[Argument_Simpson_2017_JEP]]"
+  - "[[Argument_Hattie_2015_Paideia]]"
+  - "[[Argument_Berk_2011_ER]]"
   - "[[Argument_Liu_2026_CHBR]]"
   - "[[Argument_Park_2026_TSC]]"
   - "[[Argument_Song_Choi_2026_FPSYG]]"
-  - "[[Argument_Berk_2011_ER]]"
-  - "[[Argument_Simpson_2017_JEP]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
-  - "[[Argument_Greene_2018_JEP]]"
-  - "[[Argument_Hattie_2015_Paideia]]"
 confidence: high
 status: draft
 created: 2026-05-01
@@ -156,10 +156,10 @@ flowchart LR
     end
 ```
 
-> [!contrast-table] 元分析核心统计方法与参数索引矩阵
+> [!matrix-table] 元分析核心统计方法与参数索引矩阵
 > | 统计方法 / 核心参数 | 核心数学符号与公式 | 统计学功能与解决的痛点 | 决策阈值与研判准则 | 深度条目与实证索引 |
 > |---|---|---|---|---|
-> | **[[Baseline Standardized Mean Difference\|基线等效性标准化均数差（Baseline SMD / d_baseline）]]** | $d_{\text{baseline}} = \frac{\bar{X}_{T, \text{pre}} - \bar{X}_{C, \text{pre}}}{SD_{\text{pooled}}}$<br>$SD_{\text{pooled}} = \sqrt{\frac{(n_T-1)S_T^2 + (n_C-1)S_C^2}{n_T+n_C-2}}$ | 实验与准实验初级研究的前端准入门槛，杜绝初始能力异质性与选择偏倚污染合并效应量。 | $|d| \le 0.05$ 免调；$0.05 < |d| \le 0.25$ 必须经协变量（ANCOVA）校正；$|d| > 0.25$ 坚决剔除（WWC 2022 / Slavin 2009 准则）。 | 🔗 [[Baseline Standardized Mean Difference]]<br>📚 [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] |
+> | **[[Baseline Standardized Mean Difference\|基线等效性标准化均数差（Baseline SMD）]]** | $d_{\text{baseline}} = \frac{\bar{X}_{T, \text{pre}} - \bar{X}_{C, \text{pre}}}{SD_{\text{pooled}}},\quad g = J \times d$<br>$SD_{\text{pooled}} = \sqrt{\frac{(n_T-1)SD_{T,\text{pre}}^2 + (n_C-1)SD_{C,\text{pre}}^2}{n_T+n_C-2}}$ | 实验与准实验设计（QED）及高流失 RCT 前端准入门槛；量化干预前组间初始能力等价性，确立 ANCOVA 统计纠偏有效边界。 | $\lvert d \rvert \le 0.05$ 免调直接采纳；$0.05 < \lvert d \rvert \le 0.25$ 必须经协变量（ANCOVA）校正；$\lvert d \rvert > 0.25$ 坚决剔除（WWC 5.0 / Slavin 准则）。 | 🔗 [[Baseline Standardized Mean Difference]]<br>📚 [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] |
 > | **[[Effect Size\|标准化均数差效应量（Hedges' g / Cohen's d）]]** | $d = \frac{\bar{X}_T - \bar{X}_C}{SD_{\text{pooled}}},\quad g = J \times d$<br>$J \approx 1 - \frac{3}{4(n_T + n_C) - 9}$ | 统一不同量表测验的连续型干预结果，消除量纲差异，乘上 Hedges 小样本校正因子 $J$ 剔除正向估计偏倚。 | 传统 Cohen 经验基准：$0.2$（小）、$0.5$（中）、$0.8$（大）；教育领域参考 Hattie 铰链点 $d = 0.40$（年度期望进步标准）。 | 🔗 [[Effect Size]]<br>📚 [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] |
 > | **[[Inverse-Variance Weighting\|逆方差加权（IVW）]]** | $w_i = \frac{1}{v_i} \text{ 或 } w_i^* = \frac{1}{v_i + \tau^2}$<br>$\bar{\theta} = \frac{\sum w_i y_i}{\sum w_i},\quad SE(\bar{\theta}) = \sqrt{\frac{1}{\sum w_i}}$ | 依据研究精度的倒数分配权重，方差越小（精度越高）赋予更大权重，实现合成估计量方差最小化（BLUE 最佳线性无偏估计）。 | 95% CI 不跨 0 判定效应显著；检验超大样本单项研究权重集中度，防范单一研究绑架合并估计；对比固定与随机权重差异评估小研究膨胀。 | 🔗 [[Inverse-Variance Weighting]]<br>📚 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|Cohen et al. (2011, Ch. 17)]] |
 > | **[[Fixed-Effect and Random-Effects Models\|固定与随机效应模型]]** | 固定：$\theta_i = \theta + \epsilon_i,\ \epsilon_i \sim N(0, v_i)$<br>随机：$\theta_i = \mu + u_i + \epsilon_i,\ u_i \sim N(0, \tau^2)$ | 固定模型假定所有研究共享单一恒定真实效应；随机模型纳入跨人群与情境的研究间异质性方差 $\tau^2$，外推至广义总体。 | $Q$ 检验显著（$p < .10$）或 $I^2 > 25\%$ 时必须优先采用随机效应模型；教育干预生态多样化时随机效应为通用默认模型。 | 🔗 [[Fixed-Effect and Random-Effects Models]]<br>📚 [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] |
@@ -175,7 +175,7 @@ flowchart LR
 > | **[[Fail-Safe N\|失安全系数（Fail-Safe N）]]** | 经典：$N_{\text{fs}} = \frac{(\sum Z_i)^2}{2.706} - k$<br>Orwin：$N_{\text{fs}} = \frac{k(\bar{g} - g_c)}{g_c - g_{\text{fs}}}$ | 极端抽屉文件敏感性压力测试：经典法计算推翻显著性所需零效应研究数；Orwin 法计算稀释至微小平凡阈值（如 $g_c = 0.01$）所需篇数。 | **Rosenthal 准则** $N_{\text{fs}} > 5k + 10$；**Orwin 准则** 稀释所需未发表研究量远超该学科领域现实发表与未发表总量即判定高度稳健。 | 🔗 [[Fail-Safe N]] |
 > | **[[Leave-One-Out Sensitivity Analysis\|留一法敏感性分析]]** | $\hat{\theta}_{(-i)} = \frac{\sum_{j \ne i} w_j^* y_j}{\sum_{j \ne i} w_j^*},\quad SE(\hat{\theta}_{(-i)}) = \sqrt{\frac{1}{\sum_{j \ne i} w_j^*}}$ | 依次逐一剔除单项初级研究后重新拟合模型，检验是否存在主导结论方向、极度拉大效应量或扭曲异质性的极端异常值。 | 观察逐项剔除后效应量波动区间是否始终涵盖在总体估计边界内；若剔除某项研究后效应剧变，该研究为强杠杆偏倚源。 | 🔗 [[Leave-One-Out Sensitivity Analysis]]<br>📚 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] |
 > | **[[Pairwise Wald Tests\|成对 Wald 检验]]** | $W_{jk} = \frac{(\hat{\theta}_j - \hat{\theta}_k)^2}{v_j + v_k} \sim \chi^2(1)$ | 在分类亚组调节分析后，检验三个或更多分类亚组之间两两成对效应量差异的统计显著性与级差排序。 | $W > 3.84$ 判定两亚组间差异显著（$p < .05$）；配合事后多重检验（如 Bonferroni / Holm）校正假阳性膨胀。 | 🔗 [[Pairwise Wald Tests]] |
-> | **[[Meta-regression\|元回归（Meta-regression）]]** | $\theta_i = \beta_0 + \sum_{p=1}^P \beta_p X_{pi} + u_i + \epsilon_i$<br>$u_i \sim N(0, \tau^2_{\text{res}})$ | 将效应量作为[[Dependent Variable\|因变量]]，研究特征作为[[Independent Variable\|自变量]]，检验连续与多元协[[Variable\|变量]]对异质性的联合解释力。 | $F$ 或 $Q_M$ 检验评价模型联合显著性；伪 $R^2 = \frac{\tau^2 - \tau^2_{\text{res}}}{\tau^2}$ 评估协变量对真实异质性方差的解释比例。 | 🔗 [[Meta-regression]]<br>📚 [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] |
+> | **[[Meta-regression\|元回归（Meta-regression）]]** | $\theta_i = \beta_0 + \sum_{p=1}^P \beta_p X_{pi} + u_i + \epsilon_i$<br>$u_i \sim N(0, \tau^2_{\text{res}})$ | 将效应量作为[[Dependent Variable\|因变量]]，研究特征作为[[Independent Variable\|自变量]]，检验连续与多元协[[Variable\|变量]]对异质性的联合解释力。 | $F$ 或 $Q_M$ 检验评价模型联合显著性；伪 $R^2 = \frac{\tau^2 - \tau^2_{\text{res}}}{\tau^2}$ 评估协变量对真实异质性方差的解释比例。 | 🔗 [[Meta-regression]] |
 > | **[[Three-Level Meta-Analysis\|三水平多层元分析]]** | $y_{ij} = \beta_0 + \zeta_{(2)ij} + \zeta_{(3)j} + \epsilon_{ij}$<br>$\operatorname{Var}(y_{ij}) = v_{ij} + \sigma_{(2)}^2 + \sigma_{(3)}^2$ | 处理单项研究报告多个相关效应量（多重测量或多结局）时的统计非独立性依赖，分解抽样误差、研究内变异与研究间异质性。 | 似然比检验（LRT）比较二水平与三水平模型拟合优度；计算研究内变异占比 $\frac{\sigma_{(2)}^2}{\sigma_{(2)}^2 + \sigma_{(3)}^2}$ 评估多重测量依赖严重度。 | 🔗 [[Three-Level Meta-Analysis]]<br>📚 [[Argument_Park_2026_TSC\|Park et al. (2026)]] |
 > | **[[Robust Variance Estimation\|稳健方差估计（RVE / 三明治估计量）]]** | $\mathbf{V}_{\text{RVE}} = \left(\mathbf{X}^T \mathbf{W} \mathbf{X}\right)^{-1} \left(\sum_j \mathbf{X}_j^T \mathbf{W}_j \mathbf{e}_j \mathbf{e}_j^T \mathbf{W}_j \mathbf{X}_j\right) \left(\mathbf{X}^T \mathbf{W} \mathbf{X}\right)^{-1}$ | 解决效应量多重嵌套与依赖结构未知的问题，在无需知晓研究内各效应量真实协方差下提供渐近无偏的稳健标准误。 | 检查有效自由度安全门槛 $\text{df} \ge 4$（Pustejovsky & Tipton 准则）；小样本情境下以霍特林 $T^2$ 与 $F$ 检验替代标准正态 $Z$ 检验。 | 🔗 [[Robust Variance Estimation]]<br>📚 [[Argument_Song_Choi_2026_FPSYG\|Song & Choi (2026)]] |
 

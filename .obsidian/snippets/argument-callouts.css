@@ -16815,3 +16815,217 @@ table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nt
 table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nth-child(6) { width: 11% !important; }
 .callout[data-callout="ma-table"]:has(.concept-second-order-role-subgroup-marker)
 table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nth-child(7) { width: 14% !important; }
+
+/* ═══════════════════════════════════════════════════════════
+   MATRIX-TABLE — 多列统计参数/模型与分析矩阵专用表格
+   场景：元分析核心统计方法、模型公式、功能、决策阈值与多维索引矩阵。
+   特性：
+   1. 解决通用 *-table 规则中第 2 列硬编码 max-width: 160px 导致的公式裁切挤压；
+   2. 为数学符号与公式列（第 2 列）预留 320px–480px 舒适展开空间；
+   3. 继承学术严谨色彩体系（钢蓝 Slate-Steel 主题），支持双模式与横向平滑滚动。
+   ═══════════════════════════════════════════════════════════ */
+
+.callout[data-callout="matrix-table"] {
+  --callout-color: 68, 92, 120;
+  --callout-icon: lucide-layout-grid;
+  background: var(--background-primary);
+  border: 1px solid rgba(68, 92, 120, 0.20);
+  border-top: 6px solid rgb(68, 92, 120);
+  border-radius: 8px;
+  padding: 0;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(68, 92, 120, 0.06), 0 8px 24px rgba(0, 0, 0, 0.04);
+  transition: box-shadow 0.25s ease, border-color 0.25s ease;
+}
+
+.callout[data-callout="matrix-table"]:hover {
+  box-shadow: 0 0 0 2px rgba(68, 92, 120, 0.20), 0 6px 20px rgba(68, 92, 120, 0.12);
+  border-color: rgba(68, 92, 120, 0.36);
+}
+
+.callout[data-callout="matrix-table"] > .callout-title {
+  color: rgb(46, 68, 92);
+  font-weight: 650;
+  padding: 0.6rem 1.1rem;
+  border-bottom: 1px solid rgba(68, 92, 120, 0.14);
+  background: linear-gradient(90deg, rgba(68, 92, 120, 0.08), rgba(68, 92, 120, 0.02));
+}
+
+.callout[data-callout="matrix-table"] > .callout-title .callout-title-inner::before {
+  content: "MATRIX";
+  display: inline-block;
+  margin-right: 0.55rem;
+  padding: 2px 7px;
+  border-radius: 4px;
+  background: rgba(68, 92, 120, 0.14);
+  color: rgb(46, 68, 92);
+  font-size: var(--fs-label);
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  vertical-align: middle;
+}
+
+.callout[data-callout="matrix-table"] > .callout-content {
+  padding: 0 !important;
+  overflow-x: auto !important;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: thin;
+  scrollbar-color: rgba(68, 92, 120, 0.35) transparent;
+}
+
+.callout[data-callout="matrix-table"] table {
+  width: max-content !important;
+  min-width: 100% !important;
+  border-collapse: collapse;
+  margin: 0;
+  table-layout: auto;
+}
+
+.callout[data-callout="matrix-table"] thead th {
+  background: rgba(68, 92, 120, 0.09);
+  color: rgb(46, 68, 92);
+  font-weight: 700;
+  font-size: calc(var(--fs-table) * 0.95);
+  letter-spacing: 0.02em;
+  padding: 0.6rem 0.85rem;
+  text-align: left;
+  border-bottom: 2px solid rgba(68, 92, 120, 0.22);
+  white-space: nowrap;
+}
+
+.callout[data-callout="matrix-table"] tbody td {
+  padding: 0.65rem 0.85rem;
+  font-size: calc(var(--fs-table) * 0.94);
+  border-bottom: 1px solid rgba(68, 92, 120, 0.08);
+  vertical-align: top;
+  line-height: 1.62;
+  white-space: normal !important;
+  word-break: break-word;
+  overflow-wrap: break-word;
+}
+
+.callout[data-callout="matrix-table"] tbody tr:last-child td {
+  border-bottom: none;
+}
+
+.callout[data-callout="matrix-table"] tbody tr {
+  transition: background 0.13s ease;
+}
+
+.callout[data-callout="matrix-table"] tbody tr:hover td {
+  background: rgba(68, 92, 120, 0.05);
+}
+
+/* 矩阵各列精准宽度与版式排布 */
+/* 第 1 列：方法与核心参数（强化首列引导，紧凑适中） */
+.callout[data-callout="matrix-table"] th:nth-child(1),
+.callout[data-callout="matrix-table"] td:nth-child(1) {
+  width: 190px !important;
+  min-width: 170px !important;
+  max-width: 230px !important;
+}
+.callout[data-callout="matrix-table"] tbody td:nth-child(1) {
+  background: rgba(68, 92, 120, 0.03);
+  font-weight: 600;
+  border-right: 1px solid rgba(68, 92, 120, 0.12);
+}
+
+/* 第 2 列：核心数学符号与模型公式（彻底覆写 *-table 的 160px 限制，宽幅展开） */
+.callout[data-callout="matrix-table"] th:nth-child(2),
+.callout[data-callout="matrix-table"] td:nth-child(2) {
+  width: 380px !important;
+  min-width: 320px !important;
+  max-width: 480px !important;
+  background: rgba(68, 92, 120, 0.025);
+  border-right: 1px solid rgba(68, 92, 120, 0.08);
+}
+.callout[data-callout="matrix-table"] td:nth-child(2) .math,
+.callout[data-callout="matrix-table"] td:nth-child(2) .katex-display,
+.callout[data-callout="matrix-table"] td:nth-child(2) .katex {
+  max-width: 100%;
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+
+/* 第 3 列：统计学功能与解决的痛点 */
+.callout[data-callout="matrix-table"] th:nth-child(3),
+.callout[data-callout="matrix-table"] td:nth-child(3) {
+  width: 280px !important;
+  min-width: 240px !important;
+  max-width: 360px !important;
+  border-right: 1px solid rgba(68, 92, 120, 0.08);
+}
+
+/* 第 4 列：决策阈值与研判准则 */
+.callout[data-callout="matrix-table"] th:nth-child(4),
+.callout[data-callout="matrix-table"] td:nth-child(4) {
+  width: 270px !important;
+  min-width: 230px !important;
+  max-width: 340px !important;
+  border-right: 1px solid rgba(68, 92, 120, 0.08);
+}
+
+/* 第 5 列：深度条目与实证索引 */
+.callout[data-callout="matrix-table"] th:nth-child(5),
+.callout[data-callout="matrix-table"] td:nth-child(5) {
+  width: 200px !important;
+  min-width: 170px !important;
+  max-width: 260px !important;
+}
+
+/* 暗色模式适配 */
+.theme-dark .callout[data-callout="matrix-table"] {
+  --callout-color: 138, 168, 202;
+  border-color: rgba(138, 168, 202, 0.22);
+  border-top-color: rgb(138, 168, 202);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.28);
+}
+
+.theme-dark .callout[data-callout="matrix-table"]:hover {
+  box-shadow: 0 0 0 2px rgba(138, 168, 202, 0.22), 0 6px 20px rgba(0, 0, 0, 0.36);
+  border-color: rgba(138, 168, 202, 0.40);
+}
+
+.theme-dark .callout[data-callout="matrix-table"] > .callout-title {
+  color: rgb(165, 192, 222);
+  border-bottom-color: rgba(138, 168, 202, 0.16);
+  background: linear-gradient(90deg, rgba(138, 168, 202, 0.12), rgba(138, 168, 202, 0.03));
+}
+
+.theme-dark .callout[data-callout="matrix-table"] > .callout-title .callout-title-inner::before {
+  background: rgba(138, 168, 202, 0.16);
+  color: rgb(165, 192, 222);
+}
+
+.theme-dark .callout[data-callout="matrix-table"] thead th {
+  background: rgba(138, 168, 202, 0.10);
+  color: rgb(175, 202, 232);
+  border-bottom-color: rgba(138, 168, 202, 0.25);
+}
+
+.theme-dark .callout[data-callout="matrix-table"] tbody td {
+  border-bottom-color: rgba(138, 168, 202, 0.08);
+}
+
+.theme-dark .callout[data-callout="matrix-table"] tbody td:nth-child(1) {
+  background: rgba(138, 168, 202, 0.04);
+  color: rgb(175, 202, 232);
+  border-right-color: rgba(138, 168, 202, 0.14);
+}
+
+.theme-dark .callout[data-callout="matrix-table"] th:nth-child(2),
+.theme-dark .callout[data-callout="matrix-table"] td:nth-child(2) {
+  background: rgba(138, 168, 202, 0.035);
+  border-right-color: rgba(138, 168, 202, 0.09);
+}
+
+.theme-dark .callout[data-callout="matrix-table"] th:nth-child(3),
+.theme-dark .callout[data-callout="matrix-table"] td:nth-child(3),
+.theme-dark .callout[data-callout="matrix-table"] th:nth-child(4),
+.theme-dark .callout[data-callout="matrix-table"] td:nth-child(4) {
+  border-right-color: rgba(138, 168, 202, 0.09);
+}
+
+.theme-dark .callout[data-callout="matrix-table"] tbody tr:hover td {
+  background: rgba(138, 168, 202, 0.07);
+}

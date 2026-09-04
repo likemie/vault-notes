@@ -5,6 +5,18 @@
       "path": "wiki/arguments/journal-articles/Educational Research Review/Argument_Chen_Cheung_2025_ERR.md"
     },
     {
+      "basename": "Generative Artificial Intelligence",
+      "path": "wiki/concepts/educational-technology/Generative Artificial Intelligence.md"
+    },
+    {
+      "basename": "Meta-analysis",
+      "path": "wiki/methods/quantitative/Meta-analysis.md"
+    },
+    {
+      "basename": "Baseline Standardized Mean Difference",
+      "path": "wiki/methods/quantitative/Baseline Standardized Mean Difference.md"
+    },
+    {
       "basename": "Hofstede's Cultural Dimensions",
       "path": "wiki/theories/comparative-education/Hofstede's Cultural Dimensions.md"
     },
@@ -15,14 +27,6 @@
     {
       "basename": "Alan C. K. Cheung",
       "path": "wiki/persons/china/Alan C. K. Cheung.md"
-    },
-    {
-      "basename": "Meta-analysis",
-      "path": "wiki/methods/quantitative/Meta-analysis.md"
-    },
-    {
-      "basename": "Baseline Standardized Mean Difference",
-      "path": "wiki/methods/quantitative/Baseline Standardized Mean Difference.md"
     },
     {
       "basename": "What Works Clearinghouse",
@@ -115,10 +119,6 @@
     {
       "basename": "VALUE Rubrics",
       "path": "wiki/instruments/rubric/VALUE Rubrics.md"
-    },
-    {
-      "basename": "Generative Artificial Intelligence",
-      "path": "wiki/concepts/educational-technology/Generative Artificial Intelligence.md"
     },
     {
       "basename": "Scientific Attitude",
