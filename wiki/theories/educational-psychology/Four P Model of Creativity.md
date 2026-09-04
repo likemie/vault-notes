@@ -9,7 +9,7 @@ aliases:
 summary: "由罗兹提出的经典创造力全域整合分析框架，将创造力系统解构为人（Person）、过程（Process）、产品（Product）与压力/环境（Press）四个交互维度，构成创造力心理学与教育实证研究的奠基性元理论。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 37
+theory_related_count: 36
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"

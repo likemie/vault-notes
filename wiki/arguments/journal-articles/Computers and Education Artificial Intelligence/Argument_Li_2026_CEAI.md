@@ -108,7 +108,7 @@ title: "Argument_Li_2026_CEAI"
 argument_key: "Argument_Li_2026_CEAI"
 argument_display_title: "The cognitive impact of ChatGPT in higher education: A systematic review of critical and creative thinking outcomes"
 argument_kind: "journal-article"
-argument_related_count: 68
+argument_related_count: 69
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"

@@ -8,7 +8,7 @@ aliases:
 summary: "使用外部物理或数字工具执行原本由内部心智承担的认知加工过程，在教育中兼具减少外在负荷以赋能高阶探究与引发深层思考退化、削弱批判性思维的生成式双重效应"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

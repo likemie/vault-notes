@@ -11,7 +11,7 @@ aliases:
 summary: "在 Vygotsky 中介三角与 Engeström 六要素模型基础上发展出的理论范式，聚焦多活动系统相遇时的矛盾、边界跨越、人机协同分工与扩展性改造机制。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 33
+theory_related_count: 37
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"

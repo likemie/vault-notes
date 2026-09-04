@@ -8,7 +8,7 @@ aliases:
 summary: "基于大语言模型与多模态生成架构的认知中介技术，在教育中作为对话伙伴与边界对象驱动发散构想与认知重组，其认知效应高度取决于教学脚手架与认识论摩擦的维持。"
 type: concept
 domain: "educational-technology"
-related_count: 46
+related_count: 49
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"

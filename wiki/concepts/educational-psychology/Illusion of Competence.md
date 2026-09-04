@@ -11,7 +11,7 @@ aliases:
 summary: "认知心理学与学习科学概念，指个体因信息获取的容易性、文本表层语义流畅性或即时提取的顺畅感，产生的一种误将‘容易理解与阅读顺畅’等同于‘已真正掌握与内化知识’的元认知监控偏差。"
 type: concept
 domain: "educational-psychology"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

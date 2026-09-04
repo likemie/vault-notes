@@ -10,10 +10,10 @@ aliases:
 summary: "指个体理解科学探究运作机制、批判性评估多源证据质量、接纳科学知识的暂定性与不确定性，并在日常生活和公共决策中做出理性判断的核心公民素养，涵盖科学本质理解、数据与算法素养及抵御虚假信息的认知免疫机制。"
 type: concept
 domain: "curriculum"
-related_count: 32
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 41
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - field/curriculum
   - theme/scientific-literacy

@@ -7,7 +7,7 @@ aliases:
 summary: "由 John Sweller 于 1988 年创立的经典学习与教学设计理论，以人类工作记忆容量有限与长时记忆图式无限为核心架构，解构内在负荷、外在负荷与相关负荷，主张通过减少外在负荷、优化内在负荷以促进图式建构和自动化。"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 42
+theory_related_count: 41
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
