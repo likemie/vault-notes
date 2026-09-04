@@ -116,7 +116,7 @@ updated: 2026-08-24
 > 探讨全领域大样本[[Meta-analysis|元分析]]汇总数据对智力决定论的实证检验。
 
 > [!claim] [[Argument_Runco_2026_CRJ|Runco et al. (2026)]]; Weiss & Steger (2021)
-> **宏观认知效应量约束** 跨 52 项一阶元分析的大规模[[Meta-meta-analysis|二阶元分析]]（Second-Order Meta-Analysis, SOMA）表明，认知相关因素（Cognitive Correlates，包含智力、学业成绩、工作记忆）与创造力的综合二阶[[Effect Size|效应量]]仅为 **$r = 0.12$**（95% [[Confidence Interval|置信区间]] $[0.04, 0.19]$），与非认知/外认知因素（Extracognitive Correlates，$r = 0.14$，包含动机、心境与自我信念）在统计上完全重叠。这一宏观证据强力印证了门槛假说推论：在未限制智力范围的全样本中，认知能力的全局解释力非常温和，创造力的实现高度依赖于动机、[[Self-Efficacy|自我效能]]与专门教学干预的共同协同。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 6–8)]]
+> **宏观认知效应量约束** 跨 52 项一阶元分析的大规模[[Meta-meta-analysis|二阶元分析]]（Second-Order Meta-Analysis, SOMA）表明，认知相关因素（Cognitive Correlates，包含智力、[[Academic Achievement|学业成绩]]、工作记忆）与创造力的综合二阶[[Effect Size|效应量]]仅为 **$r = 0.12$**（95% [[Confidence Interval|置信区间]] $[0.04, 0.19]$），与非认知/外认知因素（Extracognitive Correlates，$r = 0.14$，包含动机、心境与自我信念）在统计上完全重叠。这一宏观证据强力印证了门槛假说推论：在未限制智力范围的全样本中，认知能力的全局解释力非常温和，创造力的实现高度依赖于动机、[[Self-Efficacy|自我效能]]与专门教学干预的共同协同。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 6–8)]]
 
 ---
 

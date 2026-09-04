@@ -65,7 +65,7 @@ updated: 2026-09-03
 ## 定义
 
 > [!def] 核心定义
-> SCAMPER 启发式创新技法（SCAMPER Technique）是由亚历克斯·奥斯本（Alex Osborn, 1953）提出设问检核表雏形、后由罗伯特·埃伯尔（Robert F. Eberle, 1971）系统整合的一套标准化[[Creativity|创造性思维]]脚手架。该技法由七个首字母缩写操作算子构成：**S**ubstitute（替代）、**C**ombine（合并）、**A**dapt（调适/借用）、**M**odify / Magnify / Minify（修改/放大/缩小）、**P**ut to other uses（移作他用）、**E**liminate（消除/简化）与 **R**everse / Rearrange（反转/重组）。它通过显性化的问题提示，引导学习者主动跳脱常规认知惯性，对现有对象的形态、功能、材料与结构展开多向度的概念重组与变通拓展。[[Argument_Guo_2025_TSC|(Guo et al., 2025, pp. 2–3, 10)]]; Eberle (1971)
+> SCAMPER 启发式创新技法（SCAMPER Technique）是由[[Alex Osborn|亚历克斯·奥斯本]]（Alex Osborn, 1953）提出设问检核表雏形、后由罗伯特·埃伯尔（Robert F. Eberle, 1971）系统整合的一套标准化[[Creativity|创造性思维]]脚手架。该技法由七个首字母缩写操作算子构成：**S**ubstitute（替代）、**C**ombine（合并）、**A**dapt（调适/借用）、**M**odify / Magnify / Minify（修改/放大/缩小）、**P**ut to other uses（移作他用）、**E**liminate（消除/简化）与 **R**everse / Rearrange（反转/重组）。它通过显性化的问题提示，引导学习者主动跳脱常规认知惯性，对现有对象的形态、功能、材料与结构展开多向度的概念重组与变通拓展。[[Argument_Guo_2025_TSC|(Guo et al., 2025, pp. 2–3, 10)]]; Eberle (1971)
 
 > [!concept-lens] 概念透镜
 > - **核心本质** 将内隐复杂的创造性观念生成过程转化为七组具象、可执行的外显认知操作算子（Cognitive Operators）。
@@ -78,7 +78,7 @@ updated: 2026-09-03
 > 想象力的发展并非漫无边际的空想，而是需要具体的脚手架。SCAMPER 检核表通过系统提问强迫思维在不同维度间穿梭，帮助儿童与成人打破‘只能如此’的心智枷锁。Eberle (1971, pp. 5–12)
 
 > [!boundary]- 概念边界辨析
-> - **不等于 自由头脑风暴（Brainstorming）** 头脑风暴主要依赖“延迟评价、数量优先”的原则进行完全自由的联想，容易导致低效的心智游荡；SCAMPER 提供了明确的 7 个定向搜索算子，属于受控的结构化发散。
+> - **不等于 自由[[Brainstorming|头脑风暴]]（Brainstorming）** 头脑风暴主要依赖“延迟评价、数量优先”的原则进行完全自由的联想，容易导致低效的心智游荡；SCAMPER 提供了明确的 7 个定向搜索算子，属于受控的结构化发散。
 > | **认知门槛** | 极低（口诀化、通俗易懂） | 最低（无特定句法规则） | 较高（需掌握矛盾矩阵与系统原理） | 较低（关注心智视角切换） |
 > - **不等于 [[Creative Problem Solving|创造性问题解决]]（CPS）** CPS 是涵盖“理解挑战、生成构想、准备行动”全流程的宏观认知过程模型；SCAMPER 则是嵌套在 CPS“观念生成”阶段内部的一种具体启发式技术。
 
@@ -87,7 +87,7 @@ updated: 2026-09-03
 ## 概念辨析
 
 > [!contrast-table] SCAMPER 技法与主要[[Creativity|创造力]]启发式工具对比
-> | 比较维度 | **SCAMPER 技法** | **自由头脑风暴（Brainstorming）** | **[[TRIZ]] 理论** | **六顶思考帽（Six Thinking Hats）** |
+> | 比较维度 | **SCAMPER 技法** | **自由[[Brainstorming\|头脑风暴]]（Brainstorming）** | **[[TRIZ]] 理论** | **六顶思考帽（Six Thinking Hats）** |
 > |---|---|---|---|---|
 > | **核心机制** | 7 大外显操作算子定向提问 | 延迟评判、以量求质自由发散 | 消除技术/物理矛盾与 40 原理 | [[Role-playing\|角色扮演]]与思维模式平行切换 |
 > | **认知门槛** | 极低（口诀化、通俗易懂） | 最低（无特定句法规则） | 较高（需掌握矛盾矩阵与系统原理） | 较低（关注心智视角切换） |
@@ -178,7 +178,7 @@ updated: 2026-09-03
 ## 概念演变
 
 > [!dev-timeline] SCAMPER 技法演进脉络
-> - **1953 年　亚历克斯·奥斯本提出 73 问检核表** Osborn (1953) 在《Applied Imagination》中首次系统提出包含“换一换、借一借、变一变、减一减”等 73 个用于激发创意的设问清单。
+> - **1953 年　[[Alex Osborn|亚历克斯·奥斯本]]提出 73 问检核表** Osborn (1953) 在《Applied Imagination》中首次系统提出包含“换一换、借一借、变一变、减一减”等 73 个用于激发创意的设问清单。
 > - **1971 年　罗伯特·埃伯尔整合确立 SCAMPER 口诀化模型** Eberle (1971) 将奥斯本零散的检核表高度概括并按首字母缩写整合为 SCAMPER [[Gamification|游戏化]]模型，出版专著在中小学与天才教育中推广。
 > - **1980–2000 年代　设计思维与工程创新课程普及** SCAMPER 被斯坦福设计学院（d.school）等机构吸纳为设计冲刺与工程创新工作坊的核心观念生成工具。
 > - **2004–2025 年　实证研究与[[Meta-analysis|元分析]]量化确立效能** Scott et al. (2004) 与 [[Argument_Guo_2025_TSC|Guo et al. (2025)]] 分别将 SCAMPER 纳入观念生成策略与技术型训练范畴，量化证实其对[[Creativity|创造性思维]]的稳健促进效能（$d = 0.68, g = 0.552$）。

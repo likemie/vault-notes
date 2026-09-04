@@ -138,7 +138,7 @@ updated: 2026-08-24
 
 ### 命题一　合作学习对学生的学业成就、高阶思维与情感行为具有稳健的中等促进效应
 
-> [!concept-lens] 认知与非认知产出的多维协同赋能机制
+> [!concept-lens] 认知与[[Affective Outcomes|非认知产出]]的多维协同赋能机制
 > 考察合作学习在克服单一考试成绩局限后，对认知深度层级（低阶[[Academic Achievement|学业成就]]与复杂[[Higher-Order Thinking Skills|高阶思维]]）与非认知情感维度的整体干预效能。
 
 > [!claim] Güngör et al.
@@ -211,7 +211,7 @@ updated: 2026-08-24
 > > [!axis] 实验设计控制与真实教学情境的[[Paradigm|范式]]冲突
 > > 严格[[Random Assignment|随机化]]实验（[[Randomised Controlled Trials|随机对照试验]]，RCT）与课堂准实验在合作学习评价上呈现截然相反的结论，引发关于证据层级与[[Ecological Validity|生态效度]]的学术争鸣。
 > >
-> > - **Stanczak et al. (2022)** 在严格全实验控制下发现六年级[[Jigsaw|拼图法]]未显著提升学业成绩。
+> > - **Stanczak et al. (2022)** 在严格全实验控制下发现六年级[[Jigsaw|拼图法]]未显著提升[[Academic Achievement|学业成绩]]。
 > > - **[[Argument_Gungor_2026_CP|Güngör et al. (2026)]]** 论证真实课堂教学并非孤立实验室操作，[[Quasi-Experimental Designs|准实验设计]]更能反映真实教学环境中的同伴互动与综合[[Growth|成长]]。[[Argument_Gungor_2026_CP|(Güngör et al., 2026, p. 11)]]
 
 > [!warning] 实施局限

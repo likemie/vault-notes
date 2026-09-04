@@ -171,7 +171,7 @@ updated: '2026-07-21'
 
 > [!dev-timeline] 概念演变
 > - **2013 — 最低实施标准与全球脉络提炼** Schweisfurth 系统提出 LCE 的 7 项最低实施标准，分析其在全球教育改革中的广泛传播与本土落地的复杂性。
-> - **2015 — [[Policy Borrowing|政策借用]]与 post-2015 全球教育议程** Schweisfurth 进一步将 LCE 置于跨国政策借用视域下，指出高应试绩效地区往往存在 LCE 落地阻力，呼吁重新审视教学法改革的语境适应性。
+> - **2015 — [[Policy Borrowing|政策借用]]与 [[Parliamentary Office of Science and Technology|POST]]-2015 全球教育议程** Schweisfurth 进一步将 LCE 置于跨国政策借用视域下，指出高应试绩效地区往往存在 LCE 落地阻力，呼吁重新审视教学法改革的语境适应性。
 > - **2019 — 中国双轨制改革张力** You 揭示了中国在推进[[Quality Education|素质教育]]中，LCE 话语与[[Examination-Oriented Education|应试教育]]实质并存的双轨张力。
 > - **2021 — 概念内涵的多元与情境化转向** Bremner 系统梳理 LCE 的多重定义，倡导放弃僵化的单一西方标准，采取更具包容性与情境化的灵活定义。
 > - **2025 — [[Third Generation Activity Theory|活动理论]]视角下的双系统扩展性改造** Wang & McLaughlin 运用[[Third Generation Activity Theory|第三代活动理论]]解构中国案例学校，揭示了 LCE 如何通过建立学校特定共享目标与应试问责实现扩展性改造与[[Going Native|本土化]][[Transfer Translation Transformation|转译]]。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 586–605)]]

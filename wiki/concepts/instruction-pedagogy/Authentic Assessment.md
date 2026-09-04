@@ -94,7 +94,7 @@ updated: 2026-08-26
 > [!feature] 真实性评价的核心设计特征（Wiggins, 1998; Shepard, 2000; [[Argument_Bouckaert_2023_OECD|Bouckaert, 2023]]）
 > - **真实情境驱动（Realistic Context）** 任务模拟专业人士或公民在现实中遭遇的真实挑战与不确定性条件。
 > - **生成性综合表现（Constructed Performance）** 要求学生主动搜集、权衡并综合多源证据，产出具有实质内容的原创性成果。
-> - **清晰透明的表现标准（Transparent Criteria）** 预先向学生公开评价量规与各等级表现范例，使评价标准成为自我调节学习的指引。
+> - **清晰透明的表现标准（Transparent Criteria）** 预先向学生公开评价量规与各等级表现范例，使评价标准成为[[Self-Regulated Learning|自我调节学习]]的指引。
 > - **嵌入式与形成性反馈（Curriculum Embedding & [[Feedback]]）** 评价直接融入教学进程，允许学生在多轮草稿与同伴评审中迭代改进。
 
 ---

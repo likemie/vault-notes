@@ -57,7 +57,7 @@ updated: 2026-06-01
 
 ### 范畴的使用与激活
 
-学术世界提供了一套丰富的地位范畴供行动者使用：机构名称（Harvard、Oxford）、职称（professor、lecturer、post-doc）、发表渠道（Nature、AER、地方期刊）、拨款来源（ERC、[[National Science Foundation|NSF]]、无拨款）。行动者在话语中**选择性地激活**这些范畴——一篇论文的作者署名强调机构隶属、一次会议发言的自我介绍突出职称和发表记录——从而在具体的交流情境中建构自己的学术身份。
+学术世界提供了一套丰富的地位范畴供行动者使用：机构名称（Harvard、Oxford）、职称（professor、lecturer、[[Parliamentary Office of Science and Technology|POST]]-doc）、发表渠道（Nature、AER、地方期刊）、拨款来源（ERC、[[National Science Foundation|NSF]]、无拨款）。行动者在话语中**选择性地激活**这些范畴——一篇论文的作者署名强调机构隶属、一次会议发言的自我介绍突出职称和发表记录——从而在具体的交流情境中建构自己的学术身份。
 
 ### 自我定位与他人定位
 

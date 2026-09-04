@@ -257,4 +257,4 @@ flowchart TD
 > - [[Argument_Sandoval_2016_RRE|Sandoval et al. (2016)]] — 指出用“学科”界定领域依然颗粒度过大，提出了向更微观的“情境特异性”和动态资源池转型的理论方向。
 > - [[Argument_Greene_2018_JEP|Greene et al. (2018)]] — [[Systematic Review|系统综述]][[Epistemic Cognition|认识论认知]]在科学、数学等各学科中的[[Academic Achievement|学业表现]]关联。
 > - [[Argument_Song_Choi_2026_FPSYG|Song & Choi (2026)]] — 多水平[[Meta-analysis|元分析]]考察学生认识论发展在不同学习领域中的[[Interaction Effect|调节效应]]。
-> - [[Argument_Park_2026_TSC|Park et al. (2026)]] — 指出[[Creativity|创造力]]与批判性思维均具领域特殊性，创造力测量依赖领域特定产出（发散流畅、自陈、领域产品），并提示任务特异技能重叠会抬高两[[Construct|构念]]间的观察相关。
+> - [[Argument_Park_2026_TSC|Park et al. (2026)]] — 指出[[Creativity|创造力]]与批判性思维均具领域特殊性，[[Creativity Assessment|创造力测量]]依赖领域特定产出（发散流畅、自陈、领域产品），并提示任务特异技能重叠会抬高两[[Construct|构念]]间的观察相关。

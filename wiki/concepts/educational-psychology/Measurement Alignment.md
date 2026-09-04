@@ -164,4 +164,4 @@ updated: 2026-08-19
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Greene_2018_JEP|Greene et al. (2018)]] — 系统检验了特异性颗粒度与学科领域双重对齐对学业成绩预测力的调节作用，确立了测量对齐的方法论法则。
+> - [[Argument_Greene_2018_JEP|Greene et al. (2018)]] — 系统检验了特异性颗粒度与学科领域双重对齐对[[Academic Achievement|学业成绩]]预测力的调节作用，确立了测量对齐的方法论法则。

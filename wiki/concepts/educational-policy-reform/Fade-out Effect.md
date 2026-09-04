@@ -71,7 +71,7 @@ updated: 2026-08-22
 > [!citation-card]- 关键定义
 > 教育干预的即时效果常常是海市蜃楼。真正的循证政策必须要求干预在外部脚手架撤除后仍能在真实世界中维持其效应。12 个月干预后持续效果门槛是检验干预究竟重塑了发展轨迹还是仅制造了短期测验波动的试金石。[[Argument_Wadhwa_2024_RER|(Wadhwa et al., 2024, pp. 11–15)]]
 >
-> *Fade-out refers to the rapid dissipation of intervention impacts after direct program delivery ceases. Requiring sustained effects at 6 to 12 months post-intervention serves as a decisive institutional threshold separating robust, trajectory-altering educational practices from transient test-score inflations.*
+> *Fade-out refers to the rapid dissipation of intervention impacts after direct program delivery ceases. Requiring sustained effects at 6 to 12 months [[Parliamentary Office of Science and Technology|POST]]-intervention serves as a decisive institutional threshold separating robust, trajectory-altering educational practices from transient test-score inflations.*
 
 ---
 

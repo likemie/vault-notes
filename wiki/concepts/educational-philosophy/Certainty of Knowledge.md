@@ -252,7 +252,7 @@ updated: 2026-08-20
 > > - **[[Argument_Li_2012_Cambridge|Li (2012)]]** 尽管绝对确定性已被概率性趋势替代，但在任何科学探究中，严密逻辑与经验辩护仍是不可替代的基石。
 > > - **[[Argument_Hofer_1997_RER|Hofer & Pintrich (1997)]]** 成熟认识论不是滑向虚无主义，而是在承认理论暂时性的同时，依据经验证据进行理性的[[Reflexivity|反思性]]承诺。
 >
-> > [!axis] 确定性信念对学业成绩预测力的实证争议
+> > [!axis] 确定性信念对[[Academic Achievement|学业成绩]]预测力的实证争议
 > > 早期研究对确定性维度能否独立预测学生成绩充满矛盾（如 Schommer 在控制言语智商 Verbal IQ 后效应消失）。
 > > - **Wood & Kardash (2002)** 指出早期矛盾源于[[Sample Size Determination|样本量]]过小、缺乏[[Heterogeneity|异质性]]以及未有效控制认知智力与家庭背景等第三[[Variable|变量]]。
 > > - **[[Argument_Trautwein_2007_CEP|Trautwein & Lüdtke (2007)]]** 在大规模控制智力与[[Cultural Capital|文化资本]]后，证实确定性信念对高阶[[Academic Achievement|学业成就]]具有稳健的独立净负向预测力（$\beta = -0.15$）。

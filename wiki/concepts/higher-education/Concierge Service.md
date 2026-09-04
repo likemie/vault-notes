@@ -51,7 +51,7 @@ updated: 2026-06-03
 
 > [!example]
 > - vs 导航者（Navigator）— Boccanfuso & Hall（2025, pp.62–63）的六级权限分类中，"导航者"和"礼宾"是两个相邻但不同的等级。**导航者**告诉产业伙伴"你应该去找谁"——提供信息和方向，但不下场协调；**礼宾**则主动介入——不仅告诉企业该找谁，还帮忙预约、跟进、协调多个单位的行动。礼宾比导航者多了一层**主动协调**的功能
-> - vs [[Boundary Spanner|边界跨越者]] — 边界跨越者是一种**专业角色**（具有双重语言能力、信任建立功能），礼宾服务是一种**服务模式**（组织层面的制度安排）。一个边界跨越者可以提供礼宾服务，但礼宾服务也可以由一个团队集体提供（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, pp.54, 59–60]]）
+> - vs [[Boundary Spanner|边界跨越者]] — 边界跨越者是一种**专业角色（具有双重[[Language Skills|语言能力]]、信任建立功能）**，礼宾服务是一种**服务模式**（组织层面的制度安排）。一个边界跨越者可以提供礼宾服务，但礼宾服务也可以由一个团队集体提供（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, pp.54, 59–60]]）
 > - vs 全面模式办公室（Comprehensive Office）— 全面模式是五种组织模式之一（设立集中式企业关系办公室），礼宾服务是该模式的核心功能定位——全面模式办公室以礼宾角色引导企业在多个领域与大学互动（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p.62]]）
 
 ## 核心要素

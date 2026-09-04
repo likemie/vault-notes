@@ -194,7 +194,7 @@ updated: 2026-09-02
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **认知与制度转译命题** | 阐明边界跨越者运用双重语言能力弥合异质系统认知鸿沟、缓冲制度摩擦的运作机制 | 产学合作技术对接、教育学术[[Document\|文献]]向课堂工具转译 | Aldrich & Herker (1977); Boccanfuso & Hall (2025); Akkerman & Bakker (2011) |
+> | **认知与制度转译命题** | 阐明边界跨越者运用双重[[Language Skills\|语言能力]]弥合异质系统认知鸿沟、缓冲制度摩擦的运作机制 | 产学合作技术对接、教育学术[[Document\|文献]]向课堂工具转译 | Aldrich & Herker (1977); Boccanfuso & Hall (2025); Akkerman & Bakker (2011) |
 > | **社会资本与信任命题** | 揭示跨界协作的长期维系依赖于中介者对关系的专门认领与多边信任培育 | 产学长期联盟管理、学区与大学战略伙伴关系（[[Research-Practice Partnership\|RPP]]） | [[Argument_Hoffman_2025_UI_Alliances_Consortia\|Hoffman et al. (2025)]]; Carol Campbell 等 |
 > | **共创能动性命题** | 论证中介角色从单向线性传递向双向协同探究与共创编排的[[Paradigm\|范式]]跃迁 | 全系统知识动员战略、校本探究循环、产学联合研发 | Julie Nelson 等; Cooper et al. (2017); Malin & Brown (2019) |
 

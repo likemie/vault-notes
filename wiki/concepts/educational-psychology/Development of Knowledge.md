@@ -149,5 +149,5 @@ updated: 2026-08-19
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Greene_2018_JEP|Greene et al. (2018)]] — 在[[Meta-analysis|元分析]]中系统比较了 19 个[[Epistemology|认识论]][[Construct|构念]]，证实知识的发展是对学业成绩预测力最强的单一构念（$r = .274$）。
+> - [[Argument_Greene_2018_JEP|Greene et al. (2018)]] — 在[[Meta-analysis|元分析]]中系统比较了 19 个[[Epistemology|认识论]][[Construct|构念]]，证实知识的发展是对[[Academic Achievement|学业成绩]]预测力最强的单一构念（$r = .274$）。
 > - [[Argument_Hofer_1997_RER|Hofer & Pintrich (1997)]] — 系统梳理认识论结构，将关于知识演化的信念确立为知识性质维度的理论基石。

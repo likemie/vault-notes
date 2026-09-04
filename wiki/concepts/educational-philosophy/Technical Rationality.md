@@ -115,7 +115,7 @@ updated: 2026-09-02
 
 > [!feature] 核心要素构成
 > - **手段-目的工具主义（Means-Ends Instrumentalism）** 将专业实践窄化为寻求最有效达成给定目标的工具手段，将复杂情境问题剥离为孤立的因果链条。
-> - **[[Value Neutrality|价值中立]]与目标悬置（Value Neutrality & Objective Fixation）** 预设教育目标是不言自明的既定前提，拒绝在技术层面反思“为何要教”与“何为良好的教育”，仅追逐效率最大化。
+> - **[[Value Neutrality|价值中立]]与目标[[Epoché|悬置]]（[[VALUE Rubrics|VALUE]] Neutrality & Objective Fixation）** 预设教育目标是[[Doxa|不言自明]]的既定前提，拒绝在技术层面反思“为何要教”与“何为良好的教育”，仅追逐效率最大化。
 > - **专家特权与线性单向传输（Expert Privilege & Linear Transmission）** 确立学术研究者对因果真理的垄断地位，把知识传播构想为从大学向学校自上而下的单向输送。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 127)]]
 > - **去情境化可量化迷执（Decontextualised Quantificationalism）** 倾向于将所有教育现象转化为可测量的[[Variable|变量]]与标准量化指标，排斥质性、情境性与主观意义维度的证据。
 

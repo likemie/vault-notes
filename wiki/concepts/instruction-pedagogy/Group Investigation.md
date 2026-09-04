@@ -82,7 +82,7 @@ updated: 2026-08-25
 ## 核心要素与六阶段规程
 
 > [!feature] 小组[[Survey Research|调查法]]的六步标准教学规程
-> - **第一阶段：确定主题与分组（Identifying the Topic and Organizing Groups）** 教师提出一个宏观多维的研究领域，全班通过头脑风暴提出子议题；学生根据个人兴趣加入特定子课题小组（2–6 人）。
+> - **第一阶段：确定主题与分组（Identifying the Topic and Organizing Groups）** 教师提出一个宏观多维的研究领域，全班通过[[Brainstorming|头脑风暴]]提出子议题；学生根据个人兴趣加入特定子课题小组（2–6 人）。
 > - **第二阶段：规划调查方案（Planning the Investigation）** 组员共同确定[[Research Question|研究问题]]、信息检索渠道、实验或调查方案，并明确个人责任分工。
 > - **第三阶段：实施调查探究（Carrying Out the Investigation）** 组员分别搜集多源数据与[[Document|文献]]资料，在组内汇总、核对、解释、质疑并归纳分析，提炼核心结论。
 > - **第四阶段：准备汇报展示（Planning the Presentation）** 小组提炼核心成果，规划面向全班展示的形式（如研讨会、多媒体演示、模拟辩论或实验演示），确保全员承担展示角色。
