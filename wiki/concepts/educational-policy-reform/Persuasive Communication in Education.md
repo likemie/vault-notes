@@ -35,7 +35,6 @@ related_concepts:
   - "[[Whole Language]]"
   - "[[Evidence-Based Education]]"
   - "[[Analytic Framework]]"
-  - "[[Generative Artificial Intelligence]]"
   - "[[Neuroplasticity]]"
 related_theories: []
 related_methods: []
@@ -138,7 +137,7 @@ updated: 2026-09-02
 > - **1990s — 教育时尚（Educational Fads）现象批判** 学界开始系统反思中小学频繁经历的“[[Whole Language|全语言]]教学法”、“左右脑学习法”等未经严谨检验的跟风潮。
 > - **2000s — [[Evidence-Based Education|循证教育]]运动中的修辞反噬** 伴随循证运动，部分商业机构开始滥用“科学证明（Scientifically Proven）”标签作为新型营销说服策略。
 > - **2017 — Carrier 建立说服性沟通[[Analytic Framework|分析框架]]** Nora Carrier (2017) 在《Educational Research》特刊发表研究，系统剖析教育创新推广者的说服性修辞策略，引发学界对证据传播生态的深层警惕。
-> - **2020s — [[Generative Artificial Intelligence|生成式 AI]] 时代的修辞泛滥与分析素养升级** 随着 AI 教育产品激增，说服性沟通演化得更加隐蔽，推动教师[[Analytical Stance|批判性分析立场]]成为数字时代的核心专业素养。
+> - **2020s — 生成式 AI 时代的修辞泛滥与分析素养升级** 随着 AI 教育产品激增，说服性沟通演化得更加隐蔽，推动教师[[Analytical Stance|批判性分析立场]]成为数字时代的核心专业素养。
 
 ---
 

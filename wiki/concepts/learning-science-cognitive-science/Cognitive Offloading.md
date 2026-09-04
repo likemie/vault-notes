@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Working Memory]]"
   - "[[Generative Artificial Intelligence]]"
+  - "[[Brainstorming]]"
   - "[[AI Agent in Education]]"
   - "[[Critical Thinking]]"
   - "[[Higher-Order Thinking Skills]]"
@@ -61,7 +62,7 @@ updated: 2026-09-02
 ## 定义
 
 > [!def] 核心定义
-> 认知卸载（Cognitive Offloading）是指个体利用物理行动或外部数字工具来改变任务的信息加工要求，将原本需要消耗内部心智资源（如[[Working Memory|工作记忆]]、心算、长时记忆提取或结构性规划）的认知操作转移到外部媒介中执行的过程。在[[Generative Artificial Intelligence|生成式人工智能]]（GenAI）介入的教育情境中，认知卸载既表现为通过自动化文本润色或初步头脑风暴来释放工作记忆容量，也表现为在缺乏教学支架时对[[AI Agent in Education|智能体]]输出的被动顺从，从而引发独立推理与[[Critical Thinking|批判性思维]]外包的深层退化。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 2–3, 9–10)]]
+> 认知卸载（Cognitive Offloading）是指个体利用物理行动或外部数字工具来改变任务的信息加工要求，将原本需要消耗内部心智资源（如[[Working Memory|工作记忆]]、心算、长时记忆提取或结构性规划）的认知操作转移到外部媒介中执行的过程。在[[Generative Artificial Intelligence|生成式人工智能]]（GenAI）介入的教育情境中，认知卸载既表现为通过自动化文本润色或初步[[Brainstorming|头脑风暴]]来释放工作记忆容量，也表现为在缺乏教学支架时对[[AI Agent in Education|智能体]]输出的被动顺从，从而引发独立推理与[[Critical Thinking|批判性思维]]外包的深层退化。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 2–3, 9–10)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 个体与外部技术工具协同完成认知任务时，内部计算负荷向外部介质的动态转移机制。
@@ -195,7 +196,7 @@ updated: 2026-09-02
 ## 应用案例
 
 > [!example] 典型教学与干预案例
-> - **高等教育[[Generative Artificial Intelligence|生成式 AI]] 结构化探究与提示词追踪（[[Argument_Li_2026_CEAI|Li et al., 2026]]）**
+> - **高等教育生成式 AI 结构化探究与提示词追踪（[[Argument_Li_2026_CEAI|Li et al., 2026]]）**
 >   在创意设计与论文写作课程中，教师通过强制要求提交提示词链（Prompt Trail）与反思日志，将原本直接生成终稿的破坏性认知卸载转化为先手绘[[Concept Mapping|概念图]]、再让 AI 挑刺、最后由学生进行批判审订的建设性认知支架，有效避免了认知惰性。
 
 ---

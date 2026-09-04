@@ -47,6 +47,7 @@ related_concepts:
   - "[[Class Size]]"
   - "[[Academic Achievement]]"
   - "[[Epistemology]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Graphic Organizer]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[AI Agent in Education]]"
@@ -58,6 +59,7 @@ related_concepts:
   - "[[Epistemic Cognition]]"
 related_theories:
   - "[[Critical Realism]]"
+  - "[[Third Generation Activity Theory]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Inverse-Variance Weighting]]"
@@ -89,6 +91,7 @@ related_arguments:
   - "[[Argument_Berk_2011_ER]]"
   - "[[Argument_Simpson_2017_JEP]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
+  - "[[Argument_Chen_Cheung_2025_ERR]]"
   - "[[Argument_Lei_Ding_Chiu_2026_ERR]]"
   - "[[Argument_Abrami_2015_RER]]"
   - "[[Argument_Park_2026_TSC]]"
@@ -305,7 +308,7 @@ flowchart LR
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 研究案例索引
-> - [[Argument_Chen_Cheung_2025_ERR|Chen & Cheung (2025)]] 依据活动理论移动计算机支持协作学习（AT-MCSCL）框架对 57 项实验与准实验研究（97 个[[Effect Size|效应量]]，$N = 5{,}389$）实施随机效应元分析，严格控制前测基线等效性（$d < 0.25$），评估生成式人工智能对大学生成果的综合效应（$g^+ = 0.804$），并系统检验 17 个调节变量及剪补法发表偏倚校正（校正后 $g^+ = 0.321$）。
+> - [[Argument_Chen_Cheung_2025_ERR|Chen & Cheung (2025)]] 依据[[Third Generation Activity Theory|活动理论]]移动计算机支持协作学习（AT-MCSCL）框架对 57 项实验与准[[Experimental Research|实验研究]]（97 个[[Effect Size|效应量]]，$N = 5{,}389$）实施随机效应元分析，严格控制[[Pre-test and Post-test|前测]]基线等效性（$d < 0.25$），评估生成式人工智能对大学生成果的综合效应（$g^+ = 0.804$），并系统检验 17 个调节变量及剪补法发表偏倚校正（校正后 $g^+ = 0.321$）。
 > - [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] 运用[[Fixed-Effect and Random-Effects Models|随机效应模型]]综合 66 项实验与准[[Experimental Research|实验研究]]（72 个[[Effect Size|效应量]]，$N = 4{,}824$），评估[[Graphic Organizer|图形组织器]]对学生[[Higher-Order Thinking Skills|高阶思维]]的促进效应（$g = 0.778$），并结合 Wald 检验与[[Meta-regression|元回归]]系统考察导图类型、思维层级及学段等调节[[Variable|变量]]。
 > - [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] 采用随机效应模型综合 34 项实验与准实验研究（73 个效应量，$N = 3{,}042$），评估 AI [[AI Agent in Education|智能体]]对 K-12 学生认知学习成果的总体效应（$g = 0.404$），并系统检验技能类结果、知识类结果、高阶思维以及智能体形态、学段、学科和干预时长的[[Interaction Effect|调节效应]]。
 > - [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] 综合 341 项实验与准实验研究，运用随机效应模型与混合效应亚组调节检验，确立[[Dialogue in Education|对话]]、[[Authentic Instruction|真实性教学]]与[[Mentorship|导师制]]对[[Critical Thinking|批判性思维]]的三维复合干预效应（$g+ = 0.57$）。

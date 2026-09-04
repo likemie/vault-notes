@@ -176,7 +176,7 @@ updated: 2026-09-03
 
 > [!dev-timeline] 概念演变脉络
 > - **2010 年代末 — 计算机视觉与自然语言初现** 幻觉概念最早用于描述深度神经网络在图像生成中出现的无意义伪影（[[Artefact|artifacts]]）及神经机器翻译中的凭空添词。
-> - **2022–2023 年 — ChatGPT 爆发与大模型幻觉泛化** 随着[[Generative Artificial Intelligence|生成式 AI]] 普及，幻觉特异性指向 LLMs 编造虚假事实与虚构学术引文的普遍现象，引发全球学术界关于研究可[[Reliability|信度]]的争论。
+> - **2022–2023 年 — ChatGPT 爆发与大模型幻觉泛化** 随着生成式 AI 普及，幻觉特异性指向 LLMs 编造虚假事实与虚构学术引文的普遍现象，引发全球学术界关于研究可[[Reliability|信度]]的争论。
 > - **2024–2026 年 — 学习科学与教育学教学化转向** 教育研究从单纯的“技术除错/封禁”转向“教学转化”，[[Argument_Li_2026_CEAI|Li et al. (2026)]] 与 Archila et al. (2024) 系统确立了基于 AI 幻觉识别的[[Critical Thinking|批判性思维]]与[[Epistemological Vigilance|认识论警觉]]培养[[Paradigm|范式]]。
 
 ---

@@ -24,6 +24,7 @@ related_concepts:
   - "[[Zone of Proximal Development]]"
   - "[[Educational Robotics]]"
   - "[[AI Agent in Education]]"
+  - "[[Brainstorming]]"
   - "[[Dialogue in Education]]"
   - "[[Metacognition]]"
   - "[[Dependent Variable]]"
@@ -75,7 +76,7 @@ updated: 2026-08-25
 > | 维度 | 智能导师系统（[[Time Series Design\|ITS]]） | [[Educational Robotics\|教育机器人]]（Educational Robotics） | 生成式[[AI Agent in Education\|教育智能体]]（GenAI Agent） |
 > |---|---|---|---|
 > | **核心架构** | 领域模型 + 学生模型 + 教学模型 + 界面 | 物理具身/虚拟拟人实体 + 多模态交互 | 大语言模型提示工程 + 检索增强 + 工具调用 |
-> | **交互机制** | 步骤级确定性诊断与逐级结构化提示 | 语音、面部表情、手势动作与触控伴读 | 自然语言多轮追问、代码生成与开放式头脑风暴 |
+> | **交互机制** | 步骤级确定性诊断与逐级结构化提示 | 语音、面部表情、手势动作与触控伴读 | 自然语言多轮追问、代码生成与开放式[[Brainstorming\|头脑风暴]] |
 > | **优势领域** | 数学、代数几何、编程语法等良构技能 | 学前与低小学段语言认读、伴读情感激励 | 开放式写作润色、高阶反思、跨学科探究 |
 > | **典型促学效应** | $g = 0.540$（细粒度自适应提示） | $g = 0.474$（多模态具身激励） | $g = 0.421$（反思性支架共创） |
 
@@ -127,7 +128,7 @@ updated: 2026-08-25
 > - **1980年代至1990年代 认知导师（Cognitive Tutors）成型** 约翰·安德森（John R. Anderson）基于 ACT-R 认知架构开发代数与几何认知导师，确立基于产生式规则（Production Rules）的精细步骤诊断模型。
 > - **2000年代 贝叶斯知识追踪与数据驱动转型** Corbett 与 Anderson 提出的 BKT 模型广泛应用于 Carnegie Learning 与 Khan Academy，实现了对技能掌握概率的定量拟合。
 > - **2010年代 约束基辅导（Constraint-Based）与[[Dialogue in Education|对话]]式 ITS 扩展** 引入自然语言交互（如 AutoTutor）与多模态眼动/生理情绪感知，增强[[Metacognition|元认知]]监控。
-> - **2020年代 [[Generative Artificial Intelligence|生成式 AI]] 与大模型赋能的动态 ITS** 融合大语言模型（LLM）的开放语义理解与传统 ITS 的确定性规则校验，实现秒级高精度个性化答疑与解题路径可视化。[[Argument_Liu_2026_CHBR|(Liu et al., 2026)]]
+> - **2020年代 生成式 AI 与大模型赋能的动态 ITS** 融合大语言模型（LLM）的开放语义理解与传统 ITS 的确定性规则校验，实现秒级高精度个性化答疑与解题路径可视化。[[Argument_Liu_2026_CHBR|(Liu et al., 2026)]]
 
 ---
 

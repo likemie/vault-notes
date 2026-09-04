@@ -41,7 +41,6 @@ related_concepts:
   - "[[Causality]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Reflexivity]]"
-  - "[[Generative Artificial Intelligence]]"
   - "[[Homework]]"
   - "[[Effect Size]]"
 related_theories: []
@@ -155,7 +154,7 @@ updated: 2026-09-02
 > 探讨学生的 AI 素养水平如何调节其在人机[[Dialogue in Education|对话]]中是对模型输出进行批判性核验还是盲目顺从。
 
 > [!claim] [[Argument_Li_2026_CEAI|Li et al. (2026)]]
-> **AI 素养的情境调节机制** 在高等教育[[Generative Artificial Intelligence|生成式 AI]] 整合研究中，AI 素养构成决定人机互动深度的核心调节[[Variable|变量]]。具备高 AI 素养的学生能够理解大模型的概率生成本质与[[AI Hallucination|幻觉]]倾向，在提示词设计中保持“认识论警觉”（Epistemic Vigilance），主动开展多源[[Triangulation|三角互证]]；而缺乏 AI 素养的学生容易被语义流畅性所误导，陷入证实偏误，在 20 项实证研究中表现出严重的创造被动与认知侵蚀。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 2–3, 10–12)]]
+> **AI 素养的情境调节机制** 在高等教育生成式 AI 整合研究中，AI 素养构成决定人机互动深度的核心调节[[Variable|变量]]。具备高 AI 素养的学生能够理解大模型的概率生成本质与[[AI Hallucination|幻觉]]倾向，在提示词设计中保持“认识论警觉”（Epistemic Vigilance），主动开展多源[[Triangulation|三角互证]]；而缺乏 AI 素养的学生容易被语义流畅性所误导，陷入证实偏误，在 20 项实证研究中表现出严重的创造被动与认知侵蚀。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 2–3, 10–12)]]
 
 ---
 

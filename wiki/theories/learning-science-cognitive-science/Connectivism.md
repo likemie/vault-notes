@@ -136,7 +136,7 @@ updated: 2026-09-01
 ## 适用边界
 
 > [!theory-boundary] 适用边界
-> - **适合解释** 在线协作学习、开放式探究课程、[[Generative Artificial Intelligence|生成式 AI]] 辅助研究、跨学科综合与数字素养培育。
+> - **适合解释** 在线协作学习、开放式探究课程、生成式 AI 辅助研究、跨学科综合与数字素养培育。
 > - **谨慎使用** 早期基础符号习得（如初阶识字、基础算术规则内化），此类知识高度依赖内部[[Working Memory|工作记忆]]的图式自动化。
 > - **不适合解释** 纯内部主观感知体验、潜意识情绪加工或孤立无技术的封闭心理测试。
 > - **常见误用** 误以为连通主义完全否定内部认知加工，将所有思考活动等同于外部网络搜索或盲目外包。
@@ -149,7 +149,7 @@ updated: 2026-09-01
 > - **2005 年 理论发轫** George Siemens 发表 *Connectivism: A Learning Theory for the Digital Age*，正式确立理论基石。
 > - **2008 年 cMOOCs 教学实验** Siemens 与 Downes 创办首门连通主义大规模开放在线课程（CCK08），验证[[Snowball Sampling|网络化]]自主协同学习。
 > - **2010 年代 [[Learning Analytics|学习分析学]]整合** 理论与复杂网络科学、学习分析学（Learning Analytics）深度融合。
-> - **2020 年代 [[Generative Artificial Intelligence|生成式 AI]] 与人机共生网络** [[Argument_Li_2026_CEAI|Li et al. (2026)]] 将连通主义应用于大语言模型研究，把 ChatGPT 定位为分布式认知网络中的关键连接中继与模式识别工具。
+> - **2020 年代 生成式 AI 与人机共生网络** [[Argument_Li_2026_CEAI|Li et al. (2026)]] 将连通主义应用于大语言模型研究，把 ChatGPT 定位为分布式认知网络中的关键连接中继与模式识别工具。
 
 ---
 

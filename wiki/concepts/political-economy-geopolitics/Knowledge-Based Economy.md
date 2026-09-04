@@ -55,6 +55,7 @@ related_instruments:
 related_persons: []
 related_facts:
   - "[[OECD]]"
+  - "[[Parliamentary Office of Science and Technology]]"
   - "[[European Qualifications Framework]]"
   - "[[Melbourne Declaration]]"
   - "[[UAE Education Hub Projects]]"
@@ -93,7 +94,7 @@ updated: 2026-08-27
 
 > [!boundary]- 概念边界
 > - 不等于 **[[Knowledge-Based Economization|知识经济化]]** —— KBE 指实际存在的经济形态本身；知识经济化则是通过话语想象与物质实践将教育、科研等非经济领域持续“重构为经济要素”的社会政治过程。[[Argument_Moisio_2022_Springer|(Moisio, 2022, p. 25)]]
-> - 不等于 **后工业社会（Post-Industrial Society）** —— Bell（1973）的后工业社会强调[[Theoretical Knowledge|理论知识]]相对于工业制造的优先性，而 KBE 更聚焦知识作为全球竞争中资本积累、地缘博弈与劳动力[[Disciplina and Doctrina|规训]]的核心驱动机制。[[Argument_Moisio_2022_Springer|(Moisio, 2022, p. 22)]]
+> - 不等于 **后工业社会（[[Parliamentary Office of Science and Technology|POST]]-Industrial Society）** —— Bell（1973）的后工业社会强调[[Theoretical Knowledge|理论知识]]相对于工业制造的优先性，而 KBE 更聚焦知识作为全球竞争中资本积累、地缘博弈与劳动力[[Disciplina and Doctrina|规训]]的核心驱动机制。[[Argument_Moisio_2022_Springer|(Moisio, 2022, p. 22)]]
 
 ---
 
@@ -193,7 +194,7 @@ updated: 2026-08-27
 > - **二战后奠基（1950s–1970s） — 知识工作者与后工业理论** Drucker（1959/1969）提出“知识工作者”；Bell（1973）阐述[[Theoretical Knowledge|理论知识]]在后工业主义中的核心地位；人造卫星危机（1957）促使 [[OECD]] 将 STEM 教育与国家地缘经济竞争力深度绑定。[[Argument_Amos_2022_Springer|(Amos, 2022, p. 56)]]
 > - **经济学理论化（1980s–1990s） — 内生增长与新自由主义全球化** Romer（1986）内生增长理论将知识与人力资本确立为不受边际收益递减限制的内生动力；世界银行（1991）与 OECD（1996）正式将 KBE 话语确立为全球教育与经济政策主导典范。[[Argument_Moisio_2022_Springer|(Moisio, 2022, p. 23)]]
 > - **全球扩散与空间运作（2000s–2010s） — 教育出口与枢纽建设** 亚洲国家与澳大利亚将 KBE 转化为教育出口战略；新加坡与迪拜通过“教育枢纽”政策将大学完全产业化为经济增长极。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022)]]; [[Argument_Erfurth_2022_education-hubs|(Erfurth, 2022)]]
-> - **智能时代评价重构（2020s至今） — 聚焦高阶认知素养与评价治理** 面对[[Generative Artificial Intelligence|生成式 AI]] 与劳动力深度重组，OECD 等国际组织反思“教育扩张”数量指标，转向推动以[[Critical Thinking|批判性思维]]、[[Creativity|创造力]]与真实表现任务为核心的高教评价与治理变革。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023)]]
+> - **智能时代评价重构（2020s至今） — 聚焦高阶认知素养与评价治理** 面对生成式 AI 与劳动力深度重组，OECD 等国际组织反思“教育扩张”数量指标，转向推动以[[Critical Thinking|批判性思维]]、[[Creativity|创造力]]与真实表现任务为核心的高教评价与治理变革。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023)]]
 
 ---
 

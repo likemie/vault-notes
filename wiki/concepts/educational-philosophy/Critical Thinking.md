@@ -43,7 +43,6 @@ related_concepts:
   - "[[Construct Validity]]"
   - "[[Growth]]"
   - "[[Constructive Alignment]]"
-  - "[[Generative Artificial Intelligence]]"
   - "[[Cognitive Offloading]]"
   - "[[Epistemic Friction]]"
   - "[[Socratic Dialogue]]"
@@ -67,6 +66,7 @@ related_concepts:
   - "[[Questionnaire]]"
   - "[[Extended Essay]]"
   - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[Generative Artificial Intelligence]]"
   - "[[Constructivist Paradigm]]"
   - "[[Formative Assessment]]"
 related_theories:
@@ -268,7 +268,7 @@ updated: 2026-09-02
 ### 命题六　生成式人工智能介入下的批判性思维发展高度依赖显性反思支架与认识论警觉的维持
 
 > [!concept-lens] 人工智能协同与[[Epistemology|认识论]]摩擦维持维度
-> 考察[[Generative Artificial Intelligence|生成式 AI]] 快速生成流畅文本对学生收敛性论证、事实核查与反思监控的塑造机制，以及缺乏教学干预时[[Cognitive Offloading|认知卸载]]引发的思维退化。
+> 考察生成式 AI 快速生成流畅文本对学生收敛性论证、事实核查与反思监控的塑造机制，以及缺乏教学干预时[[Cognitive Offloading|认知卸载]]引发的思维退化。
 
 > [!claim] [[Argument_Li_2026_CEAI|Li et al. (2026)]]
 > **ChatGPT 对批判性思维的双向调节与[[Epistemic Friction|认识论摩擦]]分流** 对 67 项高等教育实证研究的系统综述表明，ChatGPT 介入对批判性思维的影响呈现鲜明的两极分化。在赋能维度，当学生以 AI 作为[[Socratic Dialogue|苏格拉底式对话]]伙伴时，能够显著强化[[Metacognition|元认知]]监控（27 项研究）、论证建构（22 项）与查错核验（19 项）；在风险维度，当缺乏显性反思脚手架时，模型的表面语义流畅性会麻痹学生的怀疑本能，诱发严重的过度依赖与心智惰性（21 项）、浅层参与（18 项）以及论证退化（14 项）。教学系统必须主动设计“认识论摩擦”（Epistemic Friction）机制，通过反思日志和对抗性查错强制[[Working Memory|工作记忆]]深度参与推理，才能维系批判性思维的生长。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 6–7, 10–11)]]
@@ -297,7 +297,7 @@ updated: 2026-09-02
 > - **1980 年代　反思判断成为定义核心** Siegel 将批判性思维与理性和理由权衡相连，Ennis and Weir 将其聚焦于决定相信什么或采取何种行动，使概念从宽泛教育理想转向可讨论的判断过程。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, p. 32)]]
 > - **1990 年代　技能、倾向与多层分类发展** Facione 的德尔菲框架、Paul 的三维分类和 Halpern 的技能体系扩展了[[Construct|构念]]范围，认知技能、思维倾向、迁移和问题解决成为主要议题。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 32–34)]]
 > - **2000 年代　课程[[Operationalization|操作化]]与[[Construct Validity|构念效度]]审查** 修订版 Bloom 分类法、Cambridge Assessment 框架及 ToK 等显性探究课程推动概念进入课程目标、测量工具和评估标准，研究重点转向教学效果、迁移条件与构念效度。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 33–35)]] [[Argument_Cole_2015_AJE|(Cole et al., 2015, pp. 249–250)]]
-> - **2010 年代至今　微观策略协同与高阶实证综合** [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] 通过大规模[[Meta-analysis|元分析]]确立了[[Authentic Instruction|真实性教学]]、[[Dialogue in Education|对话]]与[[Mentorship|导师制]]三维协同干预机制；[[Argument_Li_2026_CEAI|Li et al. (2026)]] [[Systematic Review|系统综述]] 67 项高校实证研究，揭示[[Generative Artificial Intelligence|生成式 AI]] 对批判性思维的双向塑造机制，确立了以反思提示和[[Epistemological Vigilance|认识论警觉]]防范[[Cognitive Offloading|认知卸载]]的教学干预体系。
+> - **2010 年代至今　微观策略协同与高阶实证综合** [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] 通过大规模[[Meta-analysis|元分析]]确立了[[Authentic Instruction|真实性教学]]、[[Dialogue in Education|对话]]与[[Mentorship|导师制]]三维协同干预机制；[[Argument_Li_2026_CEAI|Li et al. (2026)]] [[Systematic Review|系统综述]] 67 项高校实证研究，揭示生成式 AI 对批判性思维的双向塑造机制，确立了以反思提示和[[Epistemological Vigilance|认识论警觉]]防范[[Cognitive Offloading|认知卸载]]的教学干预体系。
 
 ---
 
@@ -328,7 +328,7 @@ updated: 2026-09-02
 > - **科学知识传播立场** 学校科学教育承担传授关于物质世界之可靠知识的责任，因此会为开放质疑设置学科内容和规范边界。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, pp. 179–180)]]
 >
 > > [!axis] 算法表面顺滑性 vs [[Epistemology|认识论]]摩擦维持
-> > [[Generative Artificial Intelligence|生成式 AI]] 输出的极度流畅与自信表象极大降低了思维门槛，但容易钝化学生的反思审视与怀疑本能；唯有在教学中主动设计对抗性查错与论据辩护等“[[Epistemic Friction|认识论摩擦]]”，才能维系批判性思维的[[Growth|生长]]（[[Argument_Li_2026_CEAI|Li et al., 2026]]; Medina, 2013）。
+> > 生成式 AI 输出的极度流畅与自信表象极大降低了思维门槛，但容易钝化学生的反思审视与怀疑本能；唯有在教学中主动设计对抗性查错与论据辩护等“[[Epistemic Friction|认识论摩擦]]”，才能维系批判性思维的[[Growth|生长]]（[[Argument_Li_2026_CEAI|Li et al., 2026]]; Medina, 2013）。
 
 > [!warning] 教学与改革边界
 > - 高中生的认知发展水平可能限制证据比较和决策标准阐明，课程目标与评估要求需要考虑发展适切性。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, pp. 173–174)]]

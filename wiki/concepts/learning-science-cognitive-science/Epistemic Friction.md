@@ -24,7 +24,6 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Working Memory]]"
   - "[[Metacognition]]"
-  - "[[Generative Artificial Intelligence]]"
   - "[[Zone of Proximal Development]]"
   - "[[Learned Helplessness]]"
   - "[[Higher-Order Thinking Skills]]"
@@ -34,6 +33,7 @@ related_concepts:
   - "[[Epistemological Vigilance]]"
   - "[[Construct]]"
   - "[[Illusion of Competence]]"
+  - "[[Generative Artificial Intelligence]]"
   - "[[Classroom Debate]]"
   - "[[Heterogeneity]]"
   - "[[Primary and Secondary Documents]]"
@@ -76,7 +76,7 @@ updated: 2026-09-02
 
 > [!concept-lens] 概念透镜
 > - **含义** 区别于纯粹造成心智衰竭的“外在认知超载”，认识论摩擦是深层概念建构与图式重构过程中不可或缺的“生产性困难（Desirable Difficulty）”。
-> - **用途** 解释为什么[[Generative Artificial Intelligence|生成式 AI]] 的瞬时顺滑输出可能剥夺学生的深层思考，为教学设计中主动构建“反思支架”与“对抗性查错任务”提供认知机理解释。
+> - **用途** 解释为什么生成式 AI 的瞬时顺滑输出可能剥夺学生的深层思考，为教学设计中主动构建“反思支架”与“对抗性查错任务”提供认知机理解释。
 > - **边界** 认识论摩擦必须处于个体的[[Zone of Proximal Development|最近发展区]]与认知负荷承载阈值之内，过度的认知混乱会导致[[Learned Helplessness|习得性无助]]，而摩擦过低（“无摩擦学习”）则导致心智惰性与虚假掌握。
 
 > [!citation-card]- 关键表述：生产性张力与[[Higher-Order Thinking Skills|高阶思维]]维系（Medina, 2013; [[Argument_Li_2026_CEAI|Li et al., 2026]]）
@@ -111,7 +111,7 @@ updated: 2026-09-02
 > - **生产性困难与[[Reflexivity|反思性]]挣扎（Reflective Struggle）** 学习者亲身经历概念解构、疑难排查与逻辑缝合的推导过程，在“费力提取与重组”中强化长时记忆[[Coding in Qualitative Research|编码]]。
 > - **证据辩证权衡（Dialectical [[Triangulation]]）** 拒绝直接接受单一答案，强制在[[Primary and Secondary Documents|一手文献]]、算法建议与实验数据间开展多源三角互证。
 
-> [!logic-map]- 认识论摩擦在[[Generative Artificial Intelligence|生成式 AI]] 学习中的调节与分化机制
+> [!logic-map]- 认识论摩擦在生成式 AI 学习中的调节与分化机制
 > ```mermaid
 > flowchart TD
 >     A["学习者使用生成式 AI (ChatGPT)"] --> B{"教学干预与认识论摩擦状态"}

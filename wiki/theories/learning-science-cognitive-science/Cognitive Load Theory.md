@@ -19,7 +19,6 @@ tags:
 related_concepts:
   - "[[Task Structure]]"
   - "[[Working Memory]]"
-  - "[[Generative Artificial Intelligence]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Epistemology]]"
   - "[[Construct]]"
@@ -81,7 +80,7 @@ updated: 2026-09-02
 > - **解释对象** 人类认知架构在处理新信息与复杂任务时的心智负荷分配机制，以及教学信息呈现与[[Task Structure|任务结构]]对知识内化效能的影响。
 > - **理论问题** 传统教学往往忽视人类[[Working Memory|工作记忆]]的物理容量限制，导致学习者面临认知超载（Cognitive Overload）；探究式自由探索如何影响初学者的认知建构；智能生成技术如何重塑负荷再分配。
 > - **理论类型** 认知心理学理论、学习科学机制模型与教学设计规范框架。
-> - **知识位置** 由澳大利亚教育心理学家 [[John Sweller]] 于 1988 年系统创立，后与 Fred Paas、Jeroen van Merriënboer 及 Richard E. Mayer 的多媒体学习理论深度融合，近期在[[Generative Artificial Intelligence|生成式 AI]] 与[[Higher-Order Thinking Skills|高阶思维]]人机协同（[[Argument_Li_2026_CEAI|Li et al., 2026]]）中获得重要理论拓展。
+> - **知识位置** 由澳大利亚教育心理学家 [[John Sweller]] 于 1988 年系统创立，后与 Fred Paas、Jeroen van Merriënboer 及 Richard E. Mayer 的多媒体学习理论深度融合，近期在生成式 AI 与[[Higher-Order Thinking Skills|高阶思维]]人机协同（[[Argument_Li_2026_CEAI|Li et al., 2026]]）中获得重要理论拓展。
 
 > [!claim] 核心主张
 > 人类认知架构的核心特征是狭窄有限的工作记忆（Working Memory, WM）与容量庞大持久的长时记忆（Long-Term Memory, LTM）之间的不对称性；教学设计的最优目标在于通过精细解构教学任务，消除不必要的外在认知负荷（Extraneous Load），优化由元素交互性决定的内在认知负荷（Intrinsic Load），并释放宝贵的心智资源转化为关联认知负荷（Germane Load），以促进长时记忆中知识图式（Schemas）的建构与自动化提取。在智能技术介入下，教学必须依托结构化支架防范将关键的关联负荷（[[Epistemology|认识论]]摩擦）有害外包。[[Argument_Lei_Ding_Chiu_2026_ERR|(Lei et al., 2026, pp. 1–3)]]; [[Argument_Liu_2026_CHBR|(Liu et al., 2026, pp. 2, 10)]]; [[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 2–3, 10–11)]]
@@ -186,7 +185,7 @@ updated: 2026-09-02
 
 > [!exegesis]- 教育研究例子
 > - **命题二（外在负荷消除）的应用例子** 在初中几何教学中，传统教材将定理文字与几何图形分别印刷在两页（引发分心效应）；依据认知负荷理论，教师采用图形组织器（Graphic Organizer）将角平分线与垂直平分线的判定条件直接嵌入拓扑图谱中，学生无需在长时记忆检索与图形定位间频繁往返，瞬时工作记忆负荷显著降低，解题正确率明显提升（[[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al., 2026]]）。
-> - **命题四（[[Generative Artificial Intelligence|生成式 AI]] 负荷双向分化）的应用例子** 在大学学术写作课程中，若教师仅要求学生“用 ChatGPT 辅助撰写[[Literature Review|文献综述]]”，学生直接将提纲交由模型生成终稿，模型的高流畅度直接切除了学生对比不同学者观点的反思挣扎（切除关联负荷），导致学生在闭卷测试中无法复述核心论据；相反，若教师设计“结构化提示词迭代链（Prompt Trail）”，要求学生先手绘论证逻辑图，再用 AI 查找反例并撰写反思日志，AI 承担了[[Literature Search|文献检索]]的外在负荷，学生将心智投入对反例的批判审订中，实现了批判思维与[[Creativity|创造性]]构想的双向增益（[[Argument_Li_2026_CEAI|Li et al., 2026]]）。
+> - **命题四（生成式 AI 负荷双向分化）的应用例子** 在大学学术写作课程中，若教师仅要求学生“用 ChatGPT 辅助撰写[[Literature Review|文献综述]]”，学生直接将提纲交由模型生成终稿，模型的高流畅度直接切除了学生对比不同学者观点的反思挣扎（切除关联负荷），导致学生在闭卷测试中无法复述核心论据；相反，若教师设计“结构化提示词迭代链（Prompt Trail）”，要求学生先手绘论证逻辑图，再用 AI 查找反例并撰写反思日志，AI 承担了[[Literature Search|文献检索]]的外在负荷，学生将心智投入对反例的批判审订中，实现了批判思维与[[Creativity|创造性]]构想的双向增益（[[Argument_Li_2026_CEAI|Li et al., 2026]]）。
 
 ---
 
@@ -200,7 +199,7 @@ updated: 2026-09-02
 
 > [!theory-use] 如何用于研究
 > - **作为微观教学设计与多媒体课件开发准则** 指导课件排版、多模态音画配置与样例分步呈现。
-> - **作为技术赋能实证研究的机制解释桥梁** 在评估[[Intelligent Tutoring Systems|智能导师系统]]（ITS）、[[Graphic Organizer|图形组织器]]或[[Generative Artificial Intelligence|生成式 AI]] [[AI Agent in Education|智能体]]时，解释分步微提示如何降低程序性练习的外在负荷，释放工作记忆以赋能解题与技能自动化。[[Argument_Lei_Ding_Chiu_2026_ERR|(Lei et al., 2026)]]; [[Argument_Liu_2026_CHBR|(Liu et al., 2026)]]
+> - **作为技术赋能实证研究的机制解释桥梁** 在评估[[Intelligent Tutoring Systems|智能导师系统]]（ITS）、[[Graphic Organizer|图形组织器]]或生成式 AI [[AI Agent in Education|智能体]]时，解释分步微提示如何降低程序性练习的外在负荷，释放工作记忆以赋能解题与技能自动化。[[Argument_Lei_Ding_Chiu_2026_ERR|(Lei et al., 2026)]]; [[Argument_Liu_2026_CHBR|(Liu et al., 2026)]]
 > - **作为生成式人机协同中防止[[Cognitive Offloading|认知卸载]]的调控指南** 评估智能技术是在有效消除外在负荷还是在有害切除关联认知负荷，指导设计[[Reflexivity|反思性]]脚手架以维持必要的[[Epistemic Friction|认识论摩擦]]。[[Argument_Li_2026_CEAI|(Li et al., 2026)]]
 
 ---
@@ -223,7 +222,7 @@ updated: 2026-09-02
 > - **1998 年 — 经典综合与教学效应群确立** Sweller、van Merriënboer 与 Paas 联合发表经典[[Document|文献]]，系统总结了分心效应、通道效应、冗余效应与专业反转效应。
 > - **2000 年代 — 多媒体学习认知理论的交叉融合** Richard E. Mayer 将双通道[[Hypothesis|假设]]、有限容量假设与主动加工假设融合，构建多媒体学习认知理论（CTML）。
 > - **2021 年 — 进化心理学转向与指导争论** Sweller 引入生物初级与次级知识划分，发表《为什么探究式学习有害学生学习》，引发关于[[Direct Instruction|直接教学]]与探究学习的激烈论战。
-> - **2026 年 — [[Generative Artificial Intelligence|生成式 AI]] 时代：负荷双向分化与[[Epistemology|认识论]]摩擦理论拓展** [[Argument_Li_2026_CEAI|Li et al. (2026)]] 将认知负荷理论推进至生成式 AI 时代，揭示大模型在结构化设计中释放外在负荷以赋能高阶探究，在非结构化使用中切除关联负荷（[[Epistemic Friction|认识论摩擦]]）导致认知侵蚀的双向分化机制。
+> - **2026 年 — 生成式 AI 时代：负荷双向分化与[[Epistemology|认识论]]摩擦理论拓展** [[Argument_Li_2026_CEAI|Li et al. (2026)]] 将认知负荷理论推进至生成式 AI 时代，揭示大模型在结构化设计中释放外在负荷以赋能高阶探究，在非结构化使用中切除关联负荷（[[Epistemic Friction|认识论摩擦]]）导致认知侵蚀的双向分化机制。
 
 ---
 
@@ -254,4 +253,4 @@ updated: 2026-09-02
 > - [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] — 借助认知负荷理论解释 AI [[AI Agent in Education|智能体]]对中小学生[[Procedural Skill|程序技能]]（$g = 0.391$）与[[Higher-Order Thinking Skills|高阶思维]]（$g = 0.540$）的差异化赋能机制，阐明自适应微提示如何通过分担外在负荷促进图式内化。
 > - [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] — 依托认知负荷理论[[Argument Mapping|论证图]]形组织器如何通过空间结构[[Externalization|外化]]信息关系、降低瞬时[[Working Memory|工作记忆]]负荷，并报告了对高阶思维的显著促进效应（$g = 0.778$）。
 > - [[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe (2024)]] — 考察认知负荷理论与脑科学话语如何在[[Policy Network|政策网络]]中被编排为强制性教师教育核心认证标准，揭示其[[Positivism|实证主义]][[Epistemology|认识论]]对教育专业[[Reflexivity|反思性]]的挤压。
-> - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — 将认知负荷理论推进至[[Generative Artificial Intelligence|生成式 AI]] 时代，揭示大模型在结构化设计中释放外在负荷以赋能高阶探究，在非结构化使用中切除关联负荷（[[Epistemic Friction|认识论摩擦]]）导致双重认知侵蚀的双向分化机制。
+> - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — 将认知负荷理论推进至生成式 AI 时代，揭示大模型在结构化设计中释放外在负荷以赋能高阶探究，在非结构化使用中切除关联负荷（[[Epistemic Friction|认识论摩擦]]）导致双重认知侵蚀的双向分化机制。

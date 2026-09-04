@@ -23,11 +23,13 @@ related_concepts:
   - "[[Rote Learning]]"
   - "[[AI Agent in Education]]"
   - "[[Higher-Order Thinking Skills]]"
+  - "[[Concept Mapping]]"
   - "[[Reflexivity]]"
   - "[[Metacognition]]"
   - "[[Working Memory]]"
   - "[[Effect Size]]"
   - "[[Dialogue in Education]]"
+  - "[[Generative Artificial Intelligence]]"
   - "[[Intelligent Tutoring Systems]]"
 related_theories:
   - "[[Bloom's Taxonomy]]"
@@ -70,7 +72,7 @@ updated: 2026-08-25
 > | 维度 | 陈述性知识（Declarative Knowledge） | 程序性技能（Procedural Skill） | [[Higher-Order Thinking Skills\|高阶思维技能]]（HOTS） |
 > |---|---|---|---|
 > | **布鲁姆对应层级** | 识记（Remember）与理解（Understand） | 应用（Apply）与程序性分析 | 分析（Analyze）、评价（Evaluate）与创造（Create） |
-> | **表征形式** | 事实命题网络、概念定义与图式 | 条件-动作产生式规则序列（IF-THEN） | 劣构问题表征、[[Reflexivity\|反思性]][[Metacognition\|元认知]]与发散模型 |
+> | **表征形式** | 事实[[Concept Mapping\|命题网络]]、概念定义与图式 | 条件-动作产生式规则序列（IF-THEN） | 劣构问题表征、[[Reflexivity\|反思性]][[Metacognition\|元认知]]与发散模型 |
 > | **智能技术干预特征** | 适度增益（主要依托教材与讲授） | **稳固显著促进（自适应即时反馈与刻意练习）** | 增益高度依赖显性教学支架与反思量规 |
 
 ---

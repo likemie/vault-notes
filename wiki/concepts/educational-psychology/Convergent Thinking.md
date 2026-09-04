@@ -29,7 +29,6 @@ related_concepts:
   - "[[Higher-Order Thinking Skills]]"
   - "[[Divergent Thinking]]"
   - "[[Effect Size]]"
-  - "[[Generative Artificial Intelligence]]"
   - "[[Metacognition]]"
   - "[[Cognitive Offloading]]"
   - "[[Working Memory]]"
@@ -47,6 +46,7 @@ related_concepts:
   - "[[Prediction Interval]]"
   - "[[Dependent Variable]]"
   - "[[Variable]]"
+  - "[[Generative Artificial Intelligence]]"
 related_theories:
   - "[[Creative Problem Solving]]"
 related_methods:
@@ -88,7 +88,7 @@ updated: 2026-09-02
 >
 > *Higher-order thinking encompasses both divergent thinking that generates novel ideas and convergent thinking that critically analyzes and proves solutions according to logical rules...*
 >
-> ChatGPT 等[[Generative Artificial Intelligence|生成式 AI]] 对聚合性批判思维的影响呈现鲜明的双刃剑特征：在具备显性反思提示的情境中能有效催化[[Metacognition|元认知监控]]（$n=27$）与论证深化（$n=22$）；但在自由使用下极易诱发思维怠惰（$n=21$）与有害的[[Cognitive Offloading|认知卸载]]。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 6–7)]]
+> ChatGPT 等生成式 AI 对聚合性批判思维的影响呈现鲜明的双刃剑特征：在具备显性反思提示的情境中能有效催化[[Metacognition|元认知监控]]（$n=27$）与论证深化（$n=22$）；但在自由使用下极易诱发思维怠惰（$n=21$）与有害的[[Cognitive Offloading|认知卸载]]。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 6–7)]]
 
 > [!boundary]- 概念边界辨析
 > - **不等于 低阶记忆检索（Low-Order Recall）** 聚合思维不仅要求提取已知事实，更要求在[[Working Memory|工作记忆]]中整合复杂约束条件，执行多步演绎推导与[[Chain of Evidence|证据链]]条排查。
@@ -193,7 +193,7 @@ updated: 2026-09-02
 > - **1960s — [[Remote Associates Test|远距离联想测验]]的收敛测量** S. A. Mednick 研发远距离联想测验（RAT），开创了以“给定三词寻找唯一共同联结词”测度聚合[[Creativity|创造潜能]]的[[Paradigm|范式]]。
 > - **1980s–1990s — [[Creative Problem Solving|创造性问题解决模型]]（CPS）整合** Isaksen & Treffinger 等将聚合思维正式嵌入 CPS 各阶段的“生成—聚焦”循环中。
 > - **2020–2025 年 — [[Meta-analysis|元分析]]对思维类型干预效应的量化确立** [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] 首次在大样本元分析中量化对比了外在脚手架对聚合思维（$g = 0.680$）与发散思维（$g = 1.167$）的差异化赋能规律。
-> - **2026 年 — [[Generative Artificial Intelligence|生成式 AI]] 与人机协同论证重构** [[Argument_Li_2026_CEAI|Li et al. (2026)]] 系统揭示了生成式 AI 作为辩难对手促进聚合批判思维（$n=27$）与诱发[[Cognitive Offloading|认知卸载]]（$n=21$）的机制分水岭。
+> - **2026 年 — 生成式 AI 与人机协同论证重构** [[Argument_Li_2026_CEAI|Li et al. (2026)]] 系统揭示了生成式 AI 作为辩难对手促进聚合批判思维（$n=27$）与诱发[[Cognitive Offloading|认知卸载]]（$n=21$）的机制分水岭。
 
 ---
 
@@ -259,4 +259,4 @@ updated: 2026-09-02
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] — 运用随机效应[[Meta-analysis|元分析]]系统检验[[Graphic Organizer|图形组织器]]对聚合思维的促进效应（$g = 0.680$），并通过亚组检验揭示了[[Divergent Thinking|发散思维]]与聚合思维在空间脚手架干预下的敏感度差异。
 > - [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] — 在[[Meta-meta-analysis|二阶元分析]]中探讨[[Creativity|创造性]]认知过程的多维构件，指出完整的创造力依赖于构想发散与逻辑收敛的有机结合。
-> - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — [[Systematic Review|系统综述]] 67 项高等教育实证研究，解构[[Generative Artificial Intelligence|生成式 AI]] 对聚合性批判思维的赋能机制（[[Metacognition|元认知监控]] $n=27$、论证深化 $n=22$）与[[Cognitive Offloading|认知卸载]]风险（$n=21$）。
+> - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — [[Systematic Review|系统综述]] 67 项高等教育实证研究，解构生成式 AI 对聚合性批判思维的赋能机制（[[Metacognition|元认知监控]] $n=27$、论证深化 $n=22$）与[[Cognitive Offloading|认知卸载]]风险（$n=21$）。

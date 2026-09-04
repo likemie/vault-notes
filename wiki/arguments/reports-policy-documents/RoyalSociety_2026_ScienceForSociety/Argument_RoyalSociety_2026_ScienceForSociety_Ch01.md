@@ -45,7 +45,6 @@ related_concepts:
   - "[[Data Literacy]]"
   - "[[AI Literacy]]"
   - "[[Sustainability Education]]"
-  - "[[Generative Artificial Intelligence]]"
   - "[[AI Hallucination]]"
   - "[[Creativity]]"
   - "[[Falsification]]"
@@ -165,7 +164,7 @@ updated: 2026-09-04
 
 > [!concept-lens] 关键交叉素养的认识论定位
 > - **含义** 关键交叉素养（Cross-Cutting / Transversal Literacies）指跨越单一学科边界、贯通数理逻辑、计算技术与人文社科的底层通用认知胜任力，是学生在 21 世纪应对数字化、智能化与气候变化所必需的跨学科思维工具。
-> - **用途** 在公民层面赋能个体进行理性健康决策、评估公共政策统计证据、批判性审视[[Generative Artificial Intelligence|生成式 AI]] 内容；在国家层面填补约 20 万人的绿色技能人才缺口，支撑劳动力市场应对技术颠覆的智力灵活性。
+> - **用途** 在公民层面赋能个体进行理性健康决策、评估公共政策统计证据、批判性审视生成式 AI 内容；在国家层面填补约 20 万人的绿色技能人才缺口，支撑劳动力市场应对技术颠覆的智力灵活性。
 > - **边界** 交叉素养不可替代扎实的单科学科基础，而是建立在核心数学、实验科学与人文知识之上；它要求跨学科深度融合而非浅表泛化，并以放大人类认知而非外包深层思维为伦理底线。（pp. 31–32）
 
 > [!dimension] 关键交叉素养的四大支柱构念

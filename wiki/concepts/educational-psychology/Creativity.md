@@ -37,7 +37,7 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Heterogeneity]]"
-  - "[[Generative Artificial Intelligence]]"
+  - "[[Brainstorming]]"
   - "[[Reflexivity]]"
   - "[[Predictive Validity]]"
   - "[[Champ]]"
@@ -47,6 +47,7 @@ related_concepts:
   - "[[Jigsaw]]"
   - "[[Common Method Variance]]"
   - "[[Cooperative Integrated Reading and Composition]]"
+  - "[[Generative Artificial Intelligence]]"
   - "[[Interaction Effect]]"
   - "[[Critical Thinking Assessment]]"
   - "[[Formative Assessment]]"
@@ -171,7 +172,7 @@ updated: 2026-09-03
 ### 命题三　生成式人工智能作为发散性构想伙伴能显著拓展创意空间，但其有效性受制于文风均质化与探索过早收敛风险
 
 > [!concept-lens] 人机协同中的发散生成与独创性侵蚀张力
-> 考察[[Generative Artificial Intelligence|生成式 AI]] 在头脑风暴与开放探究中如何打破认知定势，以及非结构化依赖如何抑制深层创意的诞生。
+> 考察生成式 AI 在[[Brainstorming|头脑风暴]]与开放探究中如何打破认知定势，以及非结构化依赖如何抑制深层创意的诞生。
 
 > [!claim] Li et al.
 > **ChatGPT 对创造性思维的赋能维度与局限机制** 对 67 项高等教育实证研究的[[Systematic Review|系统综述]]表明，ChatGPT 作为发散性认知中介展现出强大的创意激发潜能：31 项研究证实其能有效拓展构想空间并打破头脑风暴僵局，24 项证实其能提供多模态结构支架，18 项证实其能促进跨学科视角转换。然而，在缺乏[[Reflexivity|反思性]]规制的自由使用中，模型基于统计概率生成的输出极易导致文风均质化（19 项）、探索停滞与过早收敛（15 项）以及个体独特学术声音的湮没（13 项）。唯有将 AI 定位于启发式初稿探索，并强制要求学生进行批判性改写与个体化经验注入，才能实现真正的高质量创造。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 7–8, 11)]]
@@ -200,7 +201,7 @@ updated: 2026-09-03
 > - **1980–1990 年代 系统论与日常创造力转向** Csikszentmihalyi 提出领域-[[Champ|场域]]系统模型，Runco & Richards 倡导日常创造力与潜能观。
 > - **2020 年代 [[Meta-meta-analysis|二阶元分析]]确立实证效应基准** [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] 综合 52 项一阶[[Meta-analysis|元分析]]确立创造力关联全景基准；[[Argument_Gungor_2026_CP|Güngör et al. (2026)]] 证实[[Cooperative Learning|合作学习]]对创造性思维等[[Higher-Order Thinking Skills|高阶认知技能]]的优先促进效能。
 > - **2025 年 高校[[Creativity Training|创造力干预]][[Three-Level Meta-Analysis|多层元分析]]** [[Argument_Guo_2025_TSC|Guo et al. (2025)]] 综合 29 项实证研究（109 个[[Effect Size|效应量]]）确立大学生创造力干预基准（$g = 0.628$），揭示中短期黄金时间窗口（$< 2$ 个月 $g = 0.844$）与言语认知驱动优势。
-> - **2026 年 人机协同创造力与双向共现整合** [[Argument_Li_2026_CEAI|Li et al. (2026)]] 揭示[[Generative Artificial Intelligence|生成式 AI]] 作为发散生成伙伴在构想拓展与均质化防范中的辩证特征，推动创造力研究从个体/群体走向人机分布式智能生态。
+> - **2026 年 人机协同创造力与双向共现整合** [[Argument_Li_2026_CEAI|Li et al. (2026)]] 揭示生成式 AI 作为发散生成伙伴在构想拓展与均质化防范中的辩证特征，推动创造力研究从个体/群体走向人机分布式智能生态。
 
 ---
 
@@ -212,7 +213,7 @@ updated: 2026-09-03
 > > 创造力研究中缺乏统一、绝对且普遍认可的客观效标，导致不同研究采用不同[[Operationalization|操作化]]定义时[[Effect Size|效应量]][[Heterogeneity|异质性]]巨大。
 > >
 > > - **Runco 团队** 承认效标问题导致创造力作为[[Dependent Variable|因变量]]时的效应量分散，但强调多维评估（结合潜能与表现）是化解效标困境的可行路径。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, p. 8)]]
-> > - **Shapiro (1970)** 系统论述效标问题对创造力测量科学性的根本制约。
+> > - **Shapiro (1970)** 系统论述效标问题对[[Creativity Assessment|创造力测量]]科学性的根本制约。
 >
 > > [!axis] 领域一般性 vs [[Domain Specificity|领域特殊性]]
 > > 争论创造力是一种跨学科通用的普遍认知潜能，还是高度依赖特定领域知识与技能的情境化能力。
@@ -221,7 +222,7 @@ updated: 2026-09-03
 > > - **专才立场** 强调艺术创造与科学创造在认知机制、评价标准及神经活动模式上存在实质性分离。
 >
 > > [!axis] 创意民主化 vs 均质化与主体声音淹没
-> > 争论[[Generative Artificial Intelligence|生成式 AI]] 是降低了大众创意的表达门槛，还是通过算法概率均值抹杀了人类独特的边缘探索与深度独创性。
+> > 争论生成式 AI 是降低了大众创意的表达门槛，还是通过算法概率均值抹杀了人类独特的边缘探索与深度独创性。
 > >
 > > - **赋能派** 强调 AI 能打破知识壁垒，使非专业人士亦能快速将模糊构想具象化为原型方案（Urban et al., 2024）。
 > > - **批判派** 警告过度依赖算法输出将导致文化表达高度同质化，并侵蚀深层探索的心智韧性（Monib et al., 2025; [[Argument_Li_2026_CEAI|Li et al., 2026]]）。
@@ -280,7 +281,7 @@ updated: 2026-09-03
 >
 > | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Li_2026_CEAI\|Li et al. (2026, pp. 7–8)]] | $N = 67$ 项高等教育实证研究（涵盖 2022–2025 年全球高校样本） | [[Systematic Review\|系统综述]]与主题综合 | ChatGPT 对创造性思维（CrT）影响的主题频数分布 | 赋能维度：构想发散与头脑风暴（31 项）、结构脚手架（24 项）、视角转换（18 项）、修辞表达丰富（12 项）；风险维度：文风均质化（19 项）、探索停滞与过早收敛（15 项）、个人声音淹没（13 项）、表面流畅掩盖实质平庸（11 项） | — | 质性主题证据，揭示[[Generative Artificial Intelligence\|生成式 AI]] 对创造性思维的赋能显著，但伴随输出同质化风险 |
+> | [[Argument_Li_2026_CEAI\|Li et al. (2026, pp. 7–8)]] | $N = 67$ 项高等教育实证研究（涵盖 2022–2025 年全球高校样本） | [[Systematic Review\|系统综述]]与主题综合 | ChatGPT 对创造性思维（CrT）影响的主题频数分布 | 赋能维度：构想发散与[[Brainstorming\|头脑风暴]]（31 项）、结构脚手架（24 项）、视角转换（18 项）、修辞表达丰富（12 项）；风险维度：文风均质化（19 项）、探索停滞与过早收敛（15 项）、个人声音淹没（13 项）、表面流畅掩盖实质平庸（11 项） | — | 质性主题证据，揭示[[Generative Artificial Intelligence\|生成式 AI]] 对创造性思维的赋能显著，但伴随输出同质化风险 |
 
 ---
 

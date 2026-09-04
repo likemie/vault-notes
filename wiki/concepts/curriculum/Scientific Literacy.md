@@ -41,15 +41,23 @@ related_concepts:
   - "[[Causality]]"
   - "[[Scientific Uncertainty]]"
   - "[[Confidence Interval]]"
-  - "[[Generative Artificial Intelligence]]"
   - "[[Citizen Science]]"
   - "[[Paradigm]]"
   - "[[Examination-Oriented Education]]"
   - "[[Humility in Learning]]"
+  - "[[Generative Artificial Intelligence]]"
   - "[[Document]]"
+  - "[[Operationalization]]"
+  - "[[Conflict of Interest in Research]]"
+  - "[[Variable]]"
+  - "[[Questionnaire]]"
 related_facts:
   - "[[PISA]]"
+  - "[[Parliamentary Office of Science and Technology]]"
   - "[[Beyond 2000 Report]]"
+  - "[[OECD]]"
+  - "[[UK Science Education Tracker]]"
+  - "[[Public Attitudes to Science]]"
 related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03]]"
@@ -57,6 +65,7 @@ related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
+  - "[[Longitudinal Study]]"
 confidence: high
 status: draft
 created: 2026-08-22
@@ -113,7 +122,7 @@ updated: 2026-09-04
 > - **理解科学运作机制与科学本质（Understanding Scientific Processes & Nature of Science）** 掌握实证观察、假说检验、实验设计与同行评议如何共同确立和修正科学结论；深刻理解科学知识的经验性、暂定性与社会协商修正属性。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 30)]]
 > - **证据质量批判评估与来源辨识（Evidence Quality & Source Evaluation）** 在信息爆炸与算法分发环境中，能够穿透商业公关赞助与机构通稿夸大，准确[[Evaluation Research|评估研究]][[Sample Size Determination|样本量]]、[[Effect Size|效应量]]大小、相关与[[Causality|因果关系]]的本质鸿沟，审慎核验多源证据[[Reliability|信度]]。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026, p. 62)]]
 > - **接纳[[Scientific Uncertainty|科学不确定性]]与暂定性（Navigating Uncertainty & Provisionality）** 深刻领会[[Confidence Interval|置信区间]]、测量误差与区间预测的科学价值，认识到承认“证据有限与未知”并非科学无能，而是严谨探索的必然常态；避免因科学争议而滑向反智虚无主义。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 31)]]
-> - **公共决策参与与算法数据批判（Civic Deliberation & Algorithmic Critique）** 能够将科学证据理性应用于应对气候危机、公共卫生防护、基因科技伦理以及审视[[Generative Artificial Intelligence|生成式 AI]] 工具带来的模型[[AI Hallucination|幻觉]]与偏见，积极参与民主审议。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, p. 116)]]
+> - **公共决策参与与算法数据批判（Civic Deliberation & Algorithmic Critique）** 能够将科学证据理性应用于应对气候危机、公共卫生防护、基因科技伦理以及审视生成式 AI 工具带来的模型[[AI Hallucination|幻觉]]与偏见，积极参与民主审议。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, p. 116)]]
 
 > [!logic-map]- 现代科学素养四大支柱与公民赋能关系拓扑
 > ```mermaid
@@ -180,7 +189,7 @@ updated: 2026-09-04
 > 科学素养并非仅仅是中小学生或普通公民的通识素养，更是高级公共政策制定者与立法者履行公职、实现循证治理的前提条件。
 
 > [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|The Royal Society (2026, Ch. 5)]]
-> **立法者信源偏误与全政策社群技能建设** YouGov 2025 针对 108 名英国国会议员的实证调查表明，高达 55% 的议员主要依赖带有立场倾向的智库，仅 22% 使用议会专属法定科技机构（POST），仅 12% 查阅国家学术院综合报告；面对开放互联网（47%）与生成式 AI 工具的隐性渗透，议员普遍缺乏判断证据可靠性与稳健性的规程；皇家学会建议十六明确强调，国家必须在整个政策社群（包括政府部委与议会两院）全面推行科学、技术、工程与数学（STEM）研究和数据分析技能培训。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|(The Royal Society, 2026, Ch. 5, pp. 82–83, 88)]]
+> **立法者信源偏误与全政策社群技能建设** YouGov 2025 针对 108 名英国国会议员的实证调查表明，高达 55% 的议员主要依赖带有立场倾向的智库，仅 22% 使用议会专属法定科技机构（[[Parliamentary Office of Science and Technology|POST]]），仅 12% 查阅国家学术院综合报告；面对开放互联网（47%）与生成式 AI 工具的隐性渗透，议员普遍缺乏判断证据可靠性与稳健性的规程；皇家学会建议十六明确强调，国家必须在整个政策社群（包括政府部委与议会两院）全面推行科学、技术、工程与数学（STEM）研究和数据分析技能培训。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|(The Royal Society, 2026, Ch. 5, pp. 82–83, 88)]]
 
 ---
 
@@ -198,19 +207,19 @@ updated: 2026-09-04
 
 ## 概念演变
 
-> [!phase] 科学素养构念演进四大浪潮
+> [!phase] 科学素养[[Construct|构念]]演进四大浪潮
 >
 > - **第一阶段（1985 年）：Bodmer 报告确立普及基调与公众理解科学（PUS）传统**
 >   英国皇家学会发布《公众理解科学》（Bodmer 报告），痛陈科学教育过度偏重事实识记的弊端，倡导 16 岁前义务教育全员普及科学素养，拉开了现代国家推动全民科学参与的序幕。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, pp. 4–5)]]
 >
-> - **第二阶段（1998–2000 年）：《[[Beyond 2000 Report|Beyond 2000]]》报告确立公民科学素养新构念**
+> - **第二阶段（1998–2000 年）：《[[Beyond 2000 Report|Beyond 2000]]》报告确立[[Citizen Science|公民科学]]素养新构念**
 >   米勒与奥斯本（Millar & Osborne, 1998）发表里程碑报告，明确提出“面向公民的科学素养”（Science Literacy for Citizenship），强调理解证据性质、科学解释模式与社会科技争议评估，彻底颠覆了以大学升学为唯一导向的学科中心主义。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 31)]]
 >
-> - **第三阶段（2006–2015 年）：OECD PISA 国际测评框架推动全球监测标准化**
->   经济合作与发展组织（OECD）将科学素养确立为 PISA 国际学生评估的核心领域，界定为运用科学知识、识别科学问题、得出基于证据的结论并参与科学议题审议的能力，实现了科学素养在跨国比较层面的操作化测量。
+> - **第三阶段（2006–2015 年）：[[OECD]] [[PISA]] 国际测评框架推动全球监测标准化**
+>   经济合作与发展组织（OECD）将科学素养确立为 PISA 国际学生评估的核心领域，界定为运用科学知识、识别科学问题、得出基于证据的结论并参与科学议题审议的能力，实现了科学素养在跨国比较层面的[[Operationalization|操作化]]测量。
 >
-> - **第四阶段（2026 年至今）：数字智能时代不确定性驾驭与科学资本深度整合**
->   英国皇家学会《科学为了社会》报告正式出台五大支柱定义，将科学素养深度嵌入科学资本（Science Capital）第一支柱；同时融入数据素养、AI 素养与抵御虚假信息的批判防线，并明确要求将证据分析技能拓展至立法与行政决策层。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, p. 116)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|(The Royal Society, 2026, Ch. 5, p. 88)]]
+> - **第四阶段（2026 年至今）：数字智能时代不确定性驾驭与[[Science Capital|科学资本]]深度整合**
+>   英国皇家学会《科学为了社会》报告正式出台五大支柱定义，将科学素养深度嵌入科学资本（Science Capital）第一支柱；同时融入[[Data Literacy|数据素养]]、AI 素养与抵御虚假信息的批判防线，并明确要求将证据分析技能拓展至立法与行政决策层。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, p. 116)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|(The Royal Society, 2026, Ch. 5, p. 88)]]
 
 ---
 
@@ -226,25 +235,25 @@ updated: 2026-09-04
 > > [!axis] 事实性核心知识积累 vs 科学本质探究过程（Nature of Science）
 > > 掌握足够的学科事实概念是前提，还是探究过程能力更为核心？
 > > - **知识本位立场** 认为没有充足的事实与原理解释储备，所谓“批判性评估”就会沦为无根浮萍与盲目怀疑。
-> > - **探究本质立场** 指出互联网与 AI 使得事实检索成本趋近于零，理解知识如何被实证检验、同行评议与修正纠错才是终身受用的核心素养。
+> > - **探究本质立场** 指出互联网与 AI 使得事实检索成本趋近于零，理解知识如何被实证检验、同行评议与修正纠错才是终身受用的[[21st Century Skills and Competencies Discourse|核心素养]]。
 
 > [!critique] 高利害标准化应试测试对实践探究素养的体制性挤压
-> 实证调查（SET 2023）表明，高利害应试评价导致中学课堂将大量课时耗费于死记硬背与套路化答题，英格兰中学两周至少一次动手实验的比例在短短七年内暴跌近半（从 44% 跌至 26%），直接剥夺了青年人通过具身探究体会科学本质的机会。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 33)]]
+> 实证调查（SET 2023）表明，高利害应试评价导致中学课堂将大量课时耗费于[[Rote Learning|死记硬背]]与套路化答题，英格兰中学两周至少一次动手实验的比例在短短七年内暴跌近半（从 44% 跌至 26%），直接剥夺了青年人通过具身探究体会科学本质的机会。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 33)]]
 
 > [!warning] 适用局限与警惕
-> 警惕将科学素养窄化为个人的“孤立逻辑思维技巧”。如果抽离了对科学建制运作（如科研资金利益冲突、学术出版商业化、过度营销与科研诚信规范）的系统认知，单纯具备一般逻辑能力的个体依然极易落入经过专业包装的利益集团虚假信息陷阱。
+> 警惕将科学素养窄化为个人的“孤立逻辑思维技巧”。如果抽离了对科学建制运作（如科研资金[[Conflict of Interest in Research|利益冲突]]、学术出版商业化、过度营销与科研诚信规范）的系统认知，单纯具备一般逻辑能力的个体依然极易落入经过专业包装的利益集团虚假信息陷阱。
 
 ---
 
 ## 实证数据
 
 > [!index-table] 科学素养实证测量与教育教学现状监测表
-> | 研究 / 调查项目 | 样本与情境特征 | 核心变量与测量维度 | 关键实证数据 | 政策含义与理论洞见 |
+> | 研究 / 调查项目 | 样本与情境特征 | 核心[[Variable\|变量]]与测量维度 | 关键实证数据 | 政策含义与理论洞见 |
 > |---|---|---|---|---|
-> | **SET 2023 纵向调查** | 英格兰 14–16 岁中学生全国代表性样本 | 课堂动手实验频率、科学学习动机与素养感知 | 每两周至少进行一次动手实验的比例从 2016 年的 **44%** 骤降至 2023 年的 **26%** | 应试导向与课时压缩严重削弱探究教学，危机全员科学素养生成根基。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 33)]] |
-> | **PAS 2025 全英调查** | 英国全国 16 岁及以上成年代表性样本（$N=5,281$） | 信息获取渠道、信息充足感、网络真实性甄别自信 | • **40%** 通过数字新媒体首要获取科学信息<br>• **60%** 感到获取科学信息过少<br>• 仅 **40%** 有信心辨别网络科学信息真伪 | 公众对科学信息具有强烈渴求，但面对数字算法环境存在显著的证据素养自信落差。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|(The Royal Society, 2026, pp. 57–58)]] |
-> | **YouGov 2025 英国议员调查** | 英国下议院 108 名国会议员专属问卷调查 | 科学信息获取主要渠道、信息可靠性甄别及 AI 使用 | • **55%** 依赖智库与倡导团体<br>• **48%** 依赖大学学者<br>• **47%** 依赖互联网开放检索<br>• 仅 **22%** 使用 POST，仅 **12%** 使用国家学术院<br>• 仅 **5%** 自述使用 AI | 定量揭示立法决策群体在科学信源上的偏误结构，缺乏鉴别可靠性的规范规程，凸显全政策社群 STEM 与数据分析素养培训的紧迫性。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, pp. 82–83)]] |
-> | **Kerr et al. (2022) PNAS Nexus** | 英国与美国公众大规模在线随机对照实验 | 科学证据不确定性披露模式与公众信任度 | 向公众坦诚披露科学证据的不确定性（置信区间），**未显著降低**公众对事实的信任度与对科学家个人的诚信评价 | 推翻了“承认不确定性会削弱科学权威”的传统偏见，证明透明性沟通提升信任。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|(The Royal Society, 2026, p. 61)]] |
+> | **[[UK Science Education Tracker\|SET 2023]] [[Longitudinal Study\|纵向调查]]** | 英格兰 14–16 岁中学生全国代表性样本 | 课堂动手实验频率、科学学习动机与素养感知 | 每两周至少进行一次动手实验的比例从 2016 年的 **44%** 骤降至 2023 年的 **26%** | 应试导向与课时压缩严重削弱探究教学，危机全员科学素养生成根基。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 33)]] |
+> | **[[Public Attitudes to Science\|PAS 2025]] 全英调查** | 英国全国 16 岁及以上成年代表性样本（$N=5,281$） | 信息获取渠道、信息充足感、网络真实性甄别自信 | • **40%** 通过数字新媒体首要获取科学信息<br>• **60%** 感到获取科学信息过少<br>• 仅 **40%** 有信心辨别网络科学信息真伪 | 公众对科学信息具有强烈渴求，但面对数字算法环境存在显著的证据素养自信落差。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|(The Royal Society, 2026, pp. 57–58)]] |
+> | **YouGov 2025 英国议员调查** | 英国下议院 108 名国会议员专属[[Questionnaire\|问卷调查]] | 科学信息获取主要渠道、信息[[Reliability\|可靠性]]甄别及 AI 使用 | • **55%** 依赖智库与倡导团体<br>• **48%** 依赖大学学者<br>• **47%** 依赖互联网开放检索<br>• 仅 **22%** 使用 POST，仅 **12%** 使用国家学术院<br>• 仅 **5%** 自述使用 AI | 定量揭示立法决策群体在科学信源上的偏误结构，缺乏鉴别可靠性的规范规程，凸显全政策社群 STEM 与数据分析素养培训的紧迫性。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, pp. 82–83)]] |
+> | **Kerr et al. (2022) PNAS Nexus** | 英国与美国公众大规模在线[[Randomised Controlled Trials\|随机对照实验]] | 科学[[Scientific Uncertainty\|证据不确定性]]披露模式与公众信任度 | 向公众坦诚披露科学证据的不确定性（[[Confidence Interval\|置信区间]]），**未显著降低**公众对事实的信任度与对科学家个人的诚信评价 | 推翻了“承认不确定性会削弱科学权威”的传统偏见，证明透明性沟通提升信任。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|(The Royal Society, 2026, p. 61)]] |
 > | **Sumner et al. (2014) BMJ** | 英国 20 所大学 462 篇健康新闻通稿及 668 篇媒体报道 | 通稿与媒体报道的夸大发生率及因果推论错位 | • **40%** 通稿给出确定生活建议（论文仅为相关性）<br>• **33%** 通稿将相关偷换为因果<br>• 通稿夸大时媒体夸大发生比（OR）暴增 **6.5–56 倍** | 实证证明源头机构过度营销是虚假信息主因，凸显证据素养与科学批判力的紧迫性。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|(The Royal Society, 2026, p. 62)]] |
 
 ---
@@ -252,5 +261,5 @@ updated: 2026-09-04
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026)]] — 提出科学素养官方五大支柱界定，倡导中小学科学教育摆脱应试记忆并转向以证据评估、实践探究与接纳科学不确定性为核心的公民科学素养；并在第五章针对国会议员与公务员队伍提出提升 STEM 研究和数据分析技能的国家行动建议。
+> - [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026)]] — 提出科学素养官方五大支柱界定，倡导中小学科学教育摆脱应试记忆并转向以证据评估、实践探究与接纳[[Scientific Uncertainty|科学不确定性]]为核心的[[Citizen Science|公民科学]]素养；并在第五章针对国会议员与公务员队伍提出提升 STEM 研究和数据分析技能的国家行动建议。
 

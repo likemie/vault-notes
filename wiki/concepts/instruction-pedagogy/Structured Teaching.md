@@ -22,7 +22,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Epistemic Friction]]"
   - "[[Higher-Order Thinking Skills]]"
-  - "[[Generative Artificial Intelligence]]"
   - "[[Technology Infusion]]"
   - "[[Cognitive Offloading]]"
   - "[[Direct Instruction]]"
@@ -40,6 +39,7 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Effect Size]]"
   - "[[Variable]]"
+  - "[[Generative Artificial Intelligence]]"
   - "[[AI Hallucination]]"
 related_theories:
   - "[[Radical Constructivism]]"
@@ -70,7 +70,7 @@ updated: 2026-09-02
 
 > [!concept-lens] 概念透镜
 > - **含义** 教学结构不仅是维持课堂秩序的外部纪律手段，更是剥离机械外在认知负荷、维持[[Epistemology|认识论]]摩擦（[[Epistemic Friction]]）、引导深层[[Higher-Order Thinking Skills|高阶思维]]推理的脚手架体系。
-> - **用途** 在基础教育改革中用于超越“教师讲坛灌输 vs 极端学生中心”的二元对立；在[[Generative Artificial Intelligence|生成式 AI]] 与教育[[Technology Infusion|技术整合]]中，作为决定技术介入分化为“高阶思维协同增益”还是“[[Cognitive Offloading|认知卸载]]与侵蚀”的核心调节中介。
+> - **用途** 在基础教育改革中用于超越“教师讲坛灌输 vs 极端学生中心”的二元对立；在生成式 AI 与教育[[Technology Infusion|技术整合]]中，作为决定技术介入分化为“高阶思维协同增益”还是“[[Cognitive Offloading|认知卸载]]与侵蚀”的核心调节中介。
 > - **边界** 结构化教学绝不等于刻板的“[[Direct Instruction|直接教学]]脚本”或单一讲授模式；亦不能蜕化为缺乏反思挑战的算法黑盒式自动刷题。
 
 > [!citation-card]- 关键表述：结构与互动的复合维度
@@ -150,7 +150,7 @@ updated: 2026-09-02
 > **结构与互动的共生性** 比较[[Meta-meta-analysis|元综合]]表明，教学质量的高级维度是由“结构”与“互动”共同定义的。教师对教学目标、内容序列、时间管理与反馈机制的清晰结构化组织，绝非对学生思维的禁锢，反而为高质量的师生深度[[Dialogue in Education|对话]]、生生合作与学生探究提供了必要的安全边界与认知基础。[[Argument_Håkansson_2015_TT|(Håkansson, 2015a, pp. 584, 595–596)]]
 
 > [!claim] [[Argument_Li_2026_CEAI|Li et al. (2026)]]
-> **[[Technology Infusion|技术整合]]中的结构化调节法则** 针对高等教育 67 项实证研究的[[Systematic Review|系统综述]]证实，[[Generative Artificial Intelligence|生成式 AI]]（ChatGPT）对学生认知发展的影响并非技术固有属性，而是高度依存于任务的教学情境与支架设计。当教学采用结构化探究框架（如[[Reflexivity|反思性]]提示、量规引导、ADDIE 教学模型）时，AI 能够有效中介论据分析与发散构想，在 53% 的双目标研究（n = 18）中促成[[Critical Thinking|批判性思维]]与[[Creativity|创造性思维]]的“双向协同增益”。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 1, 9–11)]]
+> **[[Technology Infusion|技术整合]]中的结构化调节法则** 针对高等教育 67 项实证研究的[[Systematic Review|系统综述]]证实，生成式 AI（ChatGPT）对学生认知发展的影响并非技术固有属性，而是高度依存于任务的教学情境与支架设计。当教学采用结构化探究框架（如[[Reflexivity|反思性]]提示、量规引导、ADDIE 教学模型）时，AI 能够有效中介论据分析与发散构想，在 53% 的双目标研究（n = 18）中促成[[Critical Thinking|批判性思维]]与[[Creativity|创造性思维]]的“双向协同增益”。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 1, 9–11)]]
 
 ---
 
@@ -196,7 +196,7 @@ updated: 2026-09-02
 > [!dev-timeline] 概念演变脉络
 > - **2011 — 政策口号引入与教师领导重提** 瑞典 2011 年课程改革（Lgr 11）与教育条例正式引入“结构化教学（structured teaching）”，作为扭转国际测评（[[PISA]]）成绩下滑、重塑教师课堂组织与领导职责的政策要求。[[Argument_Håkansson_2015_TT|(Håkansson, 2015a, pp. 584–585)]]
 > - **2015 — 比较[[Meta-meta-analysis|元综合]]与“结构—互动”教学论重构** Håkansson 基于 43 项国际与本土教学研究综述，将结构化教学从模糊的政策口号提炼为“教师结构与能动互动的动态平衡”，澄清了其与[[Direct Instruction|直接教学]]及讲坛式灌输的本质区别。[[Argument_Håkansson_2015_TT|(Håkansson, 2015a)]]
-> - **2026 — 智能[[Technology Infusion|技术整合]]与高等教育认知支架[[Paradigm|范式]]跃迁** Li et al. 在[[Generative Artificial Intelligence|生成式 AI]] 与[[Higher-Order Thinking Skills|高阶思维]][[Systematic Review|系统综述]]中深化了结构化教学的内涵，将其发展为涵盖提示词链追踪、递归探究任务闭环、多源反馈生态的人机协同教学规制，确立了其防范算法心智侵蚀的关键防御价值。[[Argument_Li_2026_CEAI|(Li et al., 2026)]]
+> - **2026 — 智能[[Technology Infusion|技术整合]]与高等教育认知支架[[Paradigm|范式]]跃迁** Li et al. 在生成式 AI 与[[Higher-Order Thinking Skills|高阶思维]][[Systematic Review|系统综述]]中深化了结构化教学的内涵，将其发展为涵盖提示词链追踪、递归探究任务闭环、多源反馈生态的人机协同教学规制，确立了其防范算法心智侵蚀的关键防御价值。[[Argument_Li_2026_CEAI|(Li et al., 2026)]]
 
 ---
 
@@ -240,7 +240,7 @@ updated: 2026-09-02
 >   - **全班目标导入与示范** 教师用 10 分钟清晰阐明本课核心探究目标、评价量规与解题示范；
 >   - **小组合作与结对探究** 学生在明确的任务脚手架下展开自主讨论与任务实践，教师巡视并实施针对性理解检查；
 >   - **反馈收束与反思总结** 教师引导全班汇总关键概念网络，提供纠正性反馈，确保知识系统化。
-> - **高等教育[[Generative Artificial Intelligence|生成式 AI]] 结构化递归探究教学（[[Argument_Li_2026_CEAI|Li et al., 2026]]）**
+> - **高等教育生成式 AI 结构化递归探究教学（[[Argument_Li_2026_CEAI|Li et al., 2026]]）**
 >   - **基于 ADDIE 与创意写作框架的教学干预（Cake, 2025; Abdelmagid et al., 2025）** 要求学生先独立拟定初始构想，再利用大模型发散视角，随后依据评分量规开展自我批判与去[[AI Hallucination|幻觉]]事实核查；
 >   - **提示词迭代链（Prompt Trail）与反思日志** 强制要求考核提交提示词修改历史与人机[[Dialogue in Education|对话]]辩护记录，将评价重心锚定在反思过程本身。
 
@@ -250,4 +250,4 @@ updated: 2026-09-02
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Håkansson_2015_TT|Håkansson (2015a)]] — 运用[[Comparative Meta-synthesis|比较性元综合]]解构瑞典“结构化教学”政策口号，确立了教师清晰组织与师生能动互动相结合的教学论[[Paradigm|范式]]，澄清了其与[[Direct Instruction|直接教学]]及讲坛式灌输的边界。
-> - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — [[Systematic Review|系统综述]] 67 项高等教育实证研究，确立了结构化教学设计作为[[Generative Artificial Intelligence|生成式 AI]] 介入下激活批判性与[[Creativity|创造性思维]]双向协同增益、抵御[[Cognitive Offloading|认知卸载]]与心智侵蚀的决定性调节机制。
+> - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — [[Systematic Review|系统综述]] 67 项高等教育实证研究，确立了结构化教学设计作为生成式 AI 介入下激活批判性与[[Creativity|创造性思维]]双向协同增益、抵御[[Cognitive Offloading|认知卸载]]与心智侵蚀的决定性调节机制。

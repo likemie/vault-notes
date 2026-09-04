@@ -21,6 +21,7 @@ tags:
   - level/higher-education
   - subject/educational-technology
 related_concepts:
+  - "[[Generative Artificial Intelligence]]"
   - "[[Intelligent Tutoring Systems]]"
   - "[[Academic Achievement]]"
   - "[[Higher-Order Thinking Skills]]"
@@ -54,6 +55,7 @@ related_concepts:
   - "[[Learner Autonomy]]"
   - "[[Between-Study Variance]]"
   - "[[Standard Error]]"
+  - "[[Self-Regulated Learning]]"
   - "[[Executive Function]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Fade-out Effect]]"
@@ -256,7 +258,7 @@ issuing_organization: ""
 > 单一元分析通常受到特定检索时间窗、特定期刊收录范围或单一学科的狭隘限制（例如单一关注小学数学或大学计算机），易产生局域性极端效应量；通过多数据库全覆盖检索并严格剥离非教学干预类研究（如单纯预测模型或教师态度），才能确保纳入的二阶分析单元在教学法意义上具备[[Construct|构念]]对等性（Construct Equivalence）（pp. 1367–1369）。
 
 > [!case] 典型分歧案例对比
-> - **计算机科学极端高效应案例** Tlili (2024) 综合 28 项研究考察 AI 在计算机科学教育中的应用，报告了极高的正向效应（$ES = 1.36$，95% CI = [0.95, 1.78]），指出[[Generative Artificial Intelligence|生成式 AI]] 在代码解释、程序纠错与算法可视化中能提供立竿见影的支架作用。
+> - **计算机科学极端高效应案例** Tlili (2024) 综合 28 项研究考察 AI 在计算机科学教育中的应用，报告了极高的正向效应（$ES = 1.36$，95% CI = [0.95, 1.78]），指出生成式 AI 在代码解释、程序纠错与算法可视化中能提供立竿见影的支架作用。
 > - **基础数学微弱效应案例** Yi et al. (2025) 综合 21 项研究考察 AI 对 K12 学生数学学习的影响，仅报告了微弱效应（$ES = .32$，95% CI = [0.20, 0.45]）；类似地，Hwang (2022) 针对小学生数学成就的元分析也仅获得 $ES = .35$ 的低效应量。两者效应量相差逾 4 倍，凸显了二阶综合与调节检验的紧迫性（p. 1371）。
 
 > [!example]- 图1：PRISMA 2020 数据流向图（Page et al., 2021, p. 1369）

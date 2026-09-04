@@ -25,7 +25,6 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Operationalization]]"
   - "[[Construct]]"
-  - "[[Generative Artificial Intelligence]]"
   - "[[Convergent Thinking]]"
   - "[[Variable]]"
   - "[[Heterogeneity]]"
@@ -35,6 +34,7 @@ related_concepts:
   - "[[Creativity Training]]"
   - "[[Working Memory]]"
   - "[[Graphic Organizer]]"
+  - "[[Brainstorming]]"
   - "[[Illusion of Competence]]"
   - "[[Structured Teaching]]"
   - "[[Document]]"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[Prediction Interval]]"
   - "[[Dependent Variable]]"
   - "[[Publication Bias]]"
+  - "[[Generative Artificial Intelligence]]"
   - "[[Mind Mapping]]"
   - "[[Externalization]]"
   - "[[Higher-Order Thinking Skills]]"
@@ -86,7 +87,7 @@ updated: 2026-09-03
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向个体在不受固定标准答案约束下生成多样、独创与跨领域新颖观念的认知生成机制。
-> - **用途** 为评估与培养创造潜能提供标准化认知任务指标（如[[Alternate Uses Test|另类用途测验]]、[[Torrance Tests of Creative Thinking|托兰斯创造性思维测验]]），并作为分析[[Generative Artificial Intelligence|生成式 AI]] 构想激发效能与课程干预的核心基准。
+> - **用途** 为评估与培养创造潜能提供标准化认知任务指标（如[[Alternate Uses Test|另类用途测验]]、[[Torrance Tests of Creative Thinking|托兰斯创造性思维测验]]），并作为分析生成式 AI 构想激发效能与课程干预的核心基准。
 > - **边界** 发散思维仅代表创造性认知加工中的“构想发散生成阶段”，必须与[[Convergent Thinking|聚合思维]]的严密收敛审视相结合才能转化为最终创造性成果。
 
 > [!citation-card]- 关键表述：发散思维与创造性过程的定位（[[Argument_Runco_2026_CRJ|Runco et al., 2026]]; [[Argument_Li_2026_CEAI|Li et al., 2026]]; [[Argument_Guo_2025_TSC|Guo et al., 2025]]）
@@ -193,7 +194,7 @@ updated: 2026-09-03
 > 大模型在问题解决初期能极大降低构想门槛，但自由使用下极易诱发思维早熟收敛与主体性剥落。
 
 > [!claim] Urban et al.; Awal; Li et al.
-> **AI 发散赋能与早熟收敛张力** 在 31 项高等教育实证研究中，[[Generative Artificial Intelligence|生成式 AI]] 被确认为发散思维与头脑风暴的高效脚手架，能显著提升托兰斯测验（[[Torrance Tests of Creative Thinking|TTCT]]）及[[Alternate Uses Test|另类用途测验]]（AUT）的发散流畅性与精细性得分（Urban et al., 2024）；然而，在缺乏强制迭代修改任务的场景中，超过 45% 的学生在获取首轮 AI 构想后立即停止进一步探索（Awal, 2024），产生严重的[[Illusion of Competence|能力错觉]]与构想惰性。只有在[[Structured Teaching|结构化教学]]（如二次解构与多重视角辩护）引导下，AI 的发散潜能才能转化为深层创造力。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 7–8, 11)]]
+> **AI 发散赋能与早熟收敛张力** 在 31 项高等教育实证研究中，生成式 AI 被确认为发散思维与[[Brainstorming|头脑风暴]]的高效脚手架，能显著提升托兰斯测验（[[Torrance Tests of Creative Thinking|TTCT]]）及[[Alternate Uses Test|另类用途测验]]（AUT）的发散流畅性与精细性得分（Urban et al., 2024）；然而，在缺乏强制迭代修改任务的场景中，超过 45% 的学生在获取首轮 AI 构想后立即停止进一步探索（Awal, 2024），产生严重的[[Illusion of Competence|能力错觉]]与构想惰性。只有在[[Structured Teaching|结构化教学]]（如二次解构与多重视角辩护）引导下，AI 的发散潜能才能转化为深层创造力。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 7–8, 11)]]
 
 ---
 
@@ -216,7 +217,7 @@ updated: 2026-09-03
 > - **1960s–1970s — 托兰斯创造思维测验与标准化测评** Torrance 研发标准化纸笔与图形测验，发散思维成为全球[[Creativity Assessment|创造力评估]]的主流指标。
 > - **1990s–2000s — 观念行为理论与认知整合模型** Runco 等提出观念生成理论，将发散思维嵌入日常[[Runco Ideational Behavior Scale|观念行为量表]]（RIBS）与[[Problem Finding|问题发现]]框架。
 > - **2020–2025 年 — [[Meta-analysis|元分析]]与[[Meta-meta-analysis|二阶元分析]]的量化确立** [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] 运用二阶元分析确立发散思维（$r = 0.14$）基准效应；[[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] 实证确立空间组织器对发散思维的强促学效应（$g = 1.167$）；[[Argument_Guo_2025_TSC|Guo et al. (2025)]] 运用[[Three-Level Meta-Analysis|多层元分析]]确立干预对发散[[Creativity|创造性思维]]的高增益（$g = 0.671$）与言语训练优势（$g = 0.998$）。
-> - **2026 年 — [[Generative Artificial Intelligence|生成式 AI]] 时代的发散重构** [[Argument_Li_2026_CEAI|Li et al. (2026)]] [[Systematic Review|系统综述]] 67 项高校实证，确立生成式 AI 作为发散思维“低门槛构想放大器”与“早熟收敛风险源”的二元特征。
+> - **2026 年 — 生成式 AI 时代的发散重构** [[Argument_Li_2026_CEAI|Li et al. (2026)]] [[Systematic Review|系统综述]] 67 项高校实证，确立生成式 AI 作为发散思维“低门槛构想放大器”与“早熟收敛风险源”的二元特征。
 
 ---
 
@@ -274,14 +275,14 @@ updated: 2026-09-03
 > |---|---|---|---|---|---|---|
 > | [[Argument_Li_2026_CEAI\|Li et al. (2026, p. 7)]] | 全球 67 项高等教育实证研究（2022–2025） | [[Systematic Review\|系统综述]]与主题综合（PRISMA 2020 框架） | 构想拓展与发散思维主题（Ideation Expansion & DT） | 31 项实证研究报告 ChatGPT 显著提升了学生在开放任务中的构想广度与发散思维流畅性 | 87% 研究 MMAT $\ge 80\%$ | 确立发散思维是[[Generative Artificial Intelligence\|生成式 AI]] 最广泛激发的认知维度 |
 > | [[Argument_Li_2026_CEAI\|Li et al. (2026, p. 8)]]（引述 Urban et al., 2024） | 捷克高校大学生实验（$N = 120$） | 准实验组间对比设计 | [[Torrance Tests of Creative Thinking\|TTCT]] 与 [[Alternate Uses Test\|AUT]] 测验表现 | AI 辅助组在发散流畅性与精细性得分上显著优于无技术辅助控制组 | $p < .01$ | 证实生成式 AI 具有激发发散思维流畅性的直接测验增益 |
-> | 同上（引述 Awal, 2024） | 创意写作专业大学生 | 质性个案追踪与过程记录 | 发散探索持续性与构想收敛速度 | 超 45% 的学生在获得首个 AI 生成的故事大纲后立即终止自主头脑风暴 | — | 揭示缺乏反思支架时发散探索极易发生思维早熟收敛 |
+> | 同上（引述 Awal, 2024） | 创意写作专业大学生 | 质性个案追踪与过程记录 | 发散探索持续性与构想收敛速度 | 超 45% 的学生在获得首个 AI 生成的故事大纲后立即终止自主[[Brainstorming\|头脑风暴]] | — | 揭示缺乏反思支架时发散探索极易发生思维早熟收敛 |
 
 ---
 
 ## 应用案例
 
 > [!example] 典型教学应用案例
-> - **空间[[Mind Mapping|思维导图]]驱动的放射状头脑风暴（[[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al., 2026]]）**
+> - **空间[[Mind Mapping|思维导图]]驱动的放射状[[Brainstorming|头脑风暴]]（[[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al., 2026]]）**
 >   在开题构思阶段，学生使用放射状思维导图（$g = 1.041$）从核心问题向外延伸至少 4 级分支，通过强制空间展开克服线性思维障碍，最大化激活观念灵活性。
 > - **人机协同“粗糙原料二次解构”创意工作坊（Cake, 2025; [[Argument_Li_2026_CEAI|Li et al., 2026]]）**
 >   学生利用 ChatGPT 快速生成 10 种跨学科解题设想，随后教师介入要求学生对这 10 种设想进行批判性解构，挑出其中 3 个进行反直觉重组，有效化解了 45% 的早熟收敛风险。
@@ -296,4 +297,4 @@ updated: 2026-09-03
 > - [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] — 运用随机效应[[Meta-analysis|元分析]]检验[[Graphic Organizer|图形组织器]]对发散思维的促进作用，证实空间可视化工具对发散性[[Higher-Order Thinking Skills|高阶思维]]（$g = 1.167$）的提升显著强于[[Convergent Thinking|聚合思维]]（$g = 0.680$）。
 > - [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] — 在[[Meta-meta-analysis|二阶元分析]]中将发散思维与综合创造过程分别建模比较，揭示发散思维作为关键认知构件与[[Creativity|创造力]]指标存在稳定的正向关联（$r = 0.14$）。
 > - [[Argument_Guo_2025_TSC|Guo et al. (2025)]] — 针对高校[[Creativity Training|创造力干预]]开展[[Three-Level Meta-Analysis|多层元分析]]（29 项研究，109 个[[Effect Size|效应量]]），证实发散创造性思维在各[[Construct|构念]]中增益最高（$g = 0.671$），揭示言语训练（$g = 0.998$）与独立个体练习（$g = 0.682$）的显著优势，并确立 $< 2$ 个月的倒 U 型黄金干预窗口（$g = 0.844$）。
-> - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — [[Systematic Review|系统综述]] 67 项高等教育实证研究，揭示[[Generative Artificial Intelligence|生成式 AI]] 作为发散思维催化剂（$n=31$）与构想惰性风险源（$n=20$）的双向作用机制。
+> - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — [[Systematic Review|系统综述]] 67 项高等教育实证研究，揭示生成式 AI 作为发散思维催化剂（$n=31$）与构想惰性风险源（$n=20$）的双向作用机制。

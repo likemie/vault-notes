@@ -40,7 +40,6 @@ related_concepts:
   - "[[Rote Learning]]"
   - "[[Post-Normal Science]]"
   - "[[Paradigm]]"
-  - "[[Generative Artificial Intelligence]]"
   - "[[Deficit Model of Science Communication]]"
 related_theories:
   - "[[Organizational Culture]]"
@@ -198,7 +197,7 @@ updated: 2026-09-04
 > - **17–19 世纪 — 机械决定论与绝对确定性崇拜** 从牛顿力学到拉普拉斯决定论，经典科学界普遍信奉自然界遵循完全确定的因果法则，测量误差被视为工具粗糙带来的暂存杂质，坚信科学终将提供确定无疑的真理全貌。
 > - **20 世纪初–中叶 — 概率推论与统计不确定性奠基** 量子力学确立海森堡不确定性原理；现代数理统计学（Fisher, Neyman, Pearson）建立[[Hypothesis|假设]]检验、$p$ 值与[[Confidence Interval|置信区间]]体系，将“不确定性”从主观盲区正式升格为可精密数学化表达的经验概率度量。
 > - **20 世纪下半叶 — [[Falsification|证伪主义]]与[[Post-Normal Science|后常规科学]]（[[Parliamentary Office of Science and Technology|POST]]-Normal Science）兴起** 波普尔证伪理论与[[Deanna Kuhn|库恩]][[Paradigm|范式]]理论彻底瓦解了[[Positivism|实证主义]]的绝对神话；面对核能、环境公害等高风险议题，Funtowicz 与 Ravetz 提出“后常规科学”，指出在事实不确定、价值有争议、赌注高昂且决策紧迫的情境下，科学界必须与公众共同参与不确定性的民主协商。
-> - **2020 年代至今 — 数字化信息疫情、透明沟通与信任治理合流** 面对气候变化争论、新冠大流行与[[Generative Artificial Intelligence|生成式 AI]] 冲击，英国皇家学会等国家科学机构正式确立“透明不确定性沟通”为国家战略规范，彻底告别单向绝对断言的[[Deficit Model of Science Communication|赤字模型]]，以开放局限重筑社会信任。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, pp. 61–64)]]
+> - **2020 年代至今 — 数字化信息疫情、透明沟通与信任治理合流** 面对气候变化争论、新冠大流行与生成式 AI 冲击，英国皇家学会等国家科学机构正式确立“透明不确定性沟通”为国家战略规范，彻底告别单向绝对断言的[[Deficit Model of Science Communication|赤字模型]]，以开放局限重筑社会信任。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, pp. 61–64)]]
 
 ---
 

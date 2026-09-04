@@ -47,6 +47,7 @@ related_concepts:
   - "[[AI Agent in Education]]"
   - "[[Effect Size]]"
   - "[[Computational Thinking]]"
+  - "[[Metacognition]]"
   - "[[Hypothesis]]"
   - "[[General Education]]"
   - "[[Epistemic Friction]]"
@@ -67,11 +68,13 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Socrates]]"
+  - "[[Alan C. K. Cheung]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Li_2026_CEAI]]"
   - "[[Argument_Liu_2026_CHBR]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
+  - "[[Argument_Chen_Cheung_2025_ERR]]"
 confidence: high
 status: draft
 created: 2026-09-01
@@ -161,8 +164,8 @@ updated: 2026-09-04
 > [!claim] Liu, X.
 > **显性反思量规对[[Generative AI Agent in Education|生成式智能体]]促学效应的决定性调节** 在针对基础教育与高等教育中 AI [[AI Agent in Education|智能体]]促学成效的一阶[[Meta-analysis|元分析]]中，生成式智能体展现出中等偏上的积极效应（$g = 0.421$），但[[Effect Size|效应量]]在不同干预设计间高度分化。结合显性反思量规与[[Socrates|苏格拉底]]式提问的实验组取得了稳健的[[Computational Thinking|计算思维]]与论证增益，而缺乏脚手架约束的开放使用则导致学生探究推理能力显著受挫（$g = -0.73$）。[[Argument_Liu_2026_CHBR|(Liu et al., 2026, pp. 2, 7, 10–11)]]
 
-> [!claim] Chen, S., & Cheung, A. C. K.
-> **活动系统多维调节与元认知监控缺失的实证确证** 基于对 57 项严格控制基线等效性（$d < 0.25$）的高校实验研究元分析（97 个效应量，$N = 5{,}389$），生成式 AI 对大学生展现出总体显著的促学效应（$g^+ = 0.804$，剪补法发表偏倚校正后 $g^+ = 0.321$），语言技能（$g^+ = 2.331$）、学业成绩（$g^+ = 0.633$）与高阶思维（$g^+ = 0.580$）均显著获益；然而对[[Metacognition|元认知]]无统计显著促进（$g^+ = 0.078, p = 0.789$），证实缺乏显性反思支架时技术无法自发培育元认知监控。同时，低 ICT 水平（$g^+ = 1.764$）与高权力距离（$g^+ = 0.859$）情境中促学成效更强，实证支持了边际效益递增与权力壁垒破除机制。[[Argument_Chen_Cheung_2025_ERR|(Chen & Cheung, 2025, pp. 10–13, 18)]]
+> [!claim] Chen, S., & [[Alan C. K. Cheung|Cheung, A. C. K.]]
+> **活动系统多维调节与[[Metacognition|元认知监控]]缺失的实证确证** 基于对 57 项严格控制基线等效性（$d < 0.25$）的高校实验研究元分析（97 个效应量，$N = 5{,}389$），生成式 AI 对大学生展现出总体显著的促学效应（$g^+ = 0.804$，剪补法发表偏倚校正后 $g^+ = 0.321$），语言技能（$g^+ = 2.331$）、学业成绩（$g^+ = 0.633$）与高阶思维（$g^+ = 0.580$）均显著获益；然而对[[Metacognition|元认知]]无统计显著促进（$g^+ = 0.078, p = 0.789$），证实缺乏显性反思支架时技术无法自发培育元认知监控。同时，低 ICT 水平（$g^+ = 1.764$）与高权力距离（$g^+ = 0.859$）情境中促学成效更强，实证支持了边际效益递增与权力壁垒破除机制。[[Argument_Chen_Cheung_2025_ERR|(Chen & Cheung, 2025, pp. 10–13, 18)]]
 
 ---
 
@@ -262,7 +265,7 @@ updated: 2026-09-04
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Chen_Cheung_2025_ERR|Chen & Cheung (2025)]] — [[Meta-analysis|元分析]] 57 项严格控制基线等效性（$d < 0.25$）的实验研究（97 个效应量，$N = 5{,}389$），证实生成式 AI 对大学生产出的综合大效应（$g^+ = 0.804$，剪补校正后 $g^+ = 0.321$），系统揭示多维产出梯度分化（语言技能 $>$ 学业成绩 $>$ 情感动机 $>$ 高阶思维 $>$ 元认知）及低 ICT 与高权力距离情境下的边际效益赋能机制。
+> - [[Argument_Chen_Cheung_2025_ERR|Chen & Cheung (2025)]] — [[Meta-analysis|元分析]] 57 项严格控制基线等效性（$d < 0.25$）的实验研究（97 个效应量，$N = 5{,}389$），证实生成式 AI 对大学生产出的综合大效应（$g^+ = 0.804$，剪补校正后 $g^+ = 0.321$），系统揭示多维产出梯度分化（语言技能 $>$ 学业成绩 $>$ 情感动机 $>$ [[Higher-Order Thinking Skills|高阶思维]] $>$ [[Metacognition|元认知]]）及低 ICT 与高权力距离情境下的边际效益赋能机制。
 > - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — [[Systematic Review|系统综述]] 67 项高等教育实证研究，基于批判性与[[Creativity|创造性思维]]双重视角阐明生成式 AI 的双向调节机制，提炼三大共现演进模型与六大教学干预规制。
 > - [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] — [[Meta-analysis|元分析]] 56 项实证研究中[[Generative AI Agent in Education|生成式智能体]]对[[Computational Thinking|计算思维]]与[[Academic Achievement|学业表现]]的促进效应（$g = 0.421$），实证确立显性反思量规对规避[[Cognitive Offloading|认知卸载]]的必要性。
 > - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026)]] — 英国皇家学会教育战略报告，论证生成式技术环境下科学教育从事实识记向证据评估、数据与 AI 素养转型的必要路径。

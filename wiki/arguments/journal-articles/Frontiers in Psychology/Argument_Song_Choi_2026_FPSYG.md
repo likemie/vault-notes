@@ -20,6 +20,7 @@ tags:
   - k-12-education
   - educational-psychology
 related_concepts:
+  - "[[Generative Artificial Intelligence]]"
   - "[[Epistemic Cognition]]"
   - "[[Epistemology]]"
   - "[[Construct]]"
@@ -62,6 +63,7 @@ related_concepts:
   - "[[Homework]]"
   - "[[Ontology]]"
   - "[[Reliability]]"
+  - "[[Self-Regulated Learning]]"
   - "[[Funnel Plot]]"
   - "[[Publication Bias]]"
   - "[[Causality]]"
@@ -511,10 +513,10 @@ issuing_organization: ""
 >
 > *This assessment-oriented learning context that middle and high school students experience is likely to limit their opportunities to engage in sophisticated epistemic cognition in meaningful ways. It is possibly posited that the learning context functions as an important factor that declines the association between epistemic cognition and learning outcomes as school level increases.*
 
-> [!citation-card]- 权威二元对立的测量局限与[[Generative Artificial Intelligence|生成式 AI]] 挑战
+> [!citation-card]- 权威二元对立的测量局限与生成式 AI 挑战
 > 纳入研究所测量的信念主要将权威视为知识来源与确证手段，将其简化为外在权威（朴素）或内在经验（成熟）的二元对立。在当前网络信息泛滥且极易获取生成式 AI 的时代，单一权威已不再是唯一的信息源，现有将权威视作静态同质实体的量表无法捕捉真实动态的认识论认知。（p.13）
 >
-> *These beliefs measured in the included study, however, focused predominantly on authority as a source and means of justification, dichotomizing it into external authority (naïve) or internal opinion/experience (sophisticated). This reductive approach does not capture the multidimensional nature of knowing. In the current era of prolific online information and easy access to GenAI, in particular, a single authority is unlikely to function as a sole source of information.*
+> *These beliefs measured in the included study, however, focused predominantly on authority as a source and means of justification, dichotomizing it into external authority (naïve) or internal opinion/experience (sophisticated). This reductive approach does not capture the multidimensional nature of knowing. In the current era of prolific online information and easy access to [[Generative Artificial Intelligence|GenAI]], in particular, a single authority is unlikely to function as a sole source of information.*
 
 ---
 

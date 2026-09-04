@@ -34,7 +34,6 @@ related_concepts:
   - "[[Humility in Learning]]"
   - "[[Document]]"
   - "[[Positivism]]"
-  - "[[Generative Artificial Intelligence]]"
   - "[[AI Hallucination]]"
   - "[[Solutions Journalism]]"
   - "[[Variable]]"
@@ -185,7 +184,7 @@ updated: 2026-09-04
 > - **20 世纪初–中叶 — 传统普及与单向[[Transfer Translation Transformation|转译]]时代** 科学新闻以纸媒专栏为主，记者主要充当科学家的“通俗翻译官”与科技成就的无保留传颂者，遵循典型的启蒙主义与[[Positivism|实证主义]]立场。
 > - **1985 年 — 《公众理解科学》（Bodmer 报告）与体制化推进** 皇家学会发布标志性报告，推动英国主要新闻机构设置专职科技记者席位，研究理事会要求科学家主动对接媒体，但传播逻辑仍受[[Deficit Model of Science Communication|赤字模型]]主导。
 > - **2000 年代初 — 科技争议爆发与独立中介确立** 疯牛病（BSE）、转基因食品（GM）及 MMR 疫苗引发公众信任海啸，显露传统新闻简单对立报道的弊端；2002 年英国创立[[Science Media Centre|科学媒体中心]]（SMC），确立多源证据快速核查与专业同行把关机制。
-> - **2020 年代中至今 — 数字化解构、虚假信息泛滥与诚信合流** 面对社交算法分发、[[Generative Artificial Intelligence|生成式 AI]] [[AI Hallucination|幻觉]]与新闻回避危机，皇家学会《面向社会的科学》提出将科学新闻提升为全生命周期国家战略基础设施，制定《科学传播实践守则》，并转向以“[[Solutions Journalism|解决方案新闻]]”为引领的高质量传播范式。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, pp. 56–64)]]
+> - **2020 年代中至今 — 数字化解构、虚假信息泛滥与诚信合流** 面对社交算法分发、生成式 AI [[AI Hallucination|幻觉]]与新闻回避危机，皇家学会《面向社会的科学》提出将科学新闻提升为全生命周期国家战略基础设施，制定《科学传播实践守则》，并转向以“[[Solutions Journalism|解决方案新闻]]”为引领的高质量传播范式。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, pp. 56–64)]]
 
 ---
 

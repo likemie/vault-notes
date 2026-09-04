@@ -31,7 +31,6 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Epistemological Vigilance]]"
   - "[[Cognitive Offloading]]"
-  - "[[Generative Artificial Intelligence]]"
   - "[[Illusion of Competence]]"
   - "[[Creative Self-Efficacy]]"
   - "[[Reflexivity]]"
@@ -61,12 +60,13 @@ related_concepts:
   - "[[Prediction Interval]]"
   - "[[Academic Achievement]]"
   - "[[Epistemic Cognition]]"
+  - "[[Dependent Variable]]"
   - "[[Construct]]"
   - "[[Paradigm]]"
   - "[[Effect Size]]"
   - "[[Pre-test and Post-test]]"
-  - "[[Dependent Variable]]"
   - "[[Independent Variable]]"
+  - "[[Generative Artificial Intelligence]]"
   - "[[Formative Assessment]]"
   - "[[Problem Finding]]"
   - "[[Creativity Assessment]]"
@@ -89,6 +89,7 @@ related_arguments:
   - "[[Argument_Li_2026_CEAI]]"
   - "[[Argument_Guo_2025_TSC]]"
   - "[[Argument_Lakhani_2012_AKUIED]]"
+  - "[[Argument_Chen_Cheung_2025_ERR]]"
   - "[[Argument_Runco_2026_CRJ]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
@@ -109,7 +110,7 @@ updated: 2026-09-04
 
 > [!concept-lens] 概念透镜
 > - **核心本质** 个体跳出当前具体认知操作，对自身的推理逻辑、偏见盲区、解题僵局以及技术工具输出进行审视、评估与自适应校准的高阶心智调控中枢。
-> - **理论用途** 解释学生如何从被动的知识接收者转变为自主监控的学习者；在创造性解决问题中指引何时坚持、转换视角或重构表征；在[[Generative Artificial Intelligence|生成式 AI]] 交互中作为防范[[Illusion of Competence|虚假能力错觉]]的关键心智防线。
+> - **理论用途** 解释学生如何从被动的知识接收者转变为自主监控的学习者；在创造性解决问题中指引何时坚持、转换视角或重构表征；在生成式 AI 交互中作为防范[[Illusion of Competence|虚假能力错觉]]的关键心智防线。
 > - **解释边界** 元认知不同于具体的认知操作（如阅读、运算、列举观念等执行动作），亦不同于孤立的自我信念（如[[Creative Self-Efficacy|创造性自我效能感]]），而是贯穿思维全周期的[[Reflexivity|反思性]]意识与自适应调控过程。
 
 > [!citation-card]- 关键表述：元认知的三大理论支柱（[[Argument_Park_2026_TSC|Park et al., 2026]]; [[Argument_Li_2026_CEAI|Li et al., 2026]]; Hargrove & Nietfeld, 2015）
@@ -242,7 +243,7 @@ updated: 2026-09-04
 > - **1970 年代　概念奠基与双成分模型** 弗拉维尔（Flavell, 1976, 1979）正式提出元认知概念，区分为元认知知识与元认知体验/调节，奠定了人类心智自我监控的研究基石。
 > - **1990–2000 年代　[[Self-Regulated Learning|自我调节学习]]整合与可教性实证** 宾特里奇（Pintrich, 2000, 2002）与齐默曼（Zimmerman）将元认知深度整合入自我调节学习（SRL）理论体系中，编制了 [[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale|MSLQ]] 等工具，确立了元认知策略的高度可教性。
 > - **2010 年代　批判反思、[[Epistemology|认识论]]课程与[[Creative Problem Solving|创造性问题解决]]** [[Argument_Cole_2015_AJE|Cole et al. (2015)]] 探讨 IB 认识论（ToK）课程的元认知训练效能；哈格罗夫与尼特菲尔德（Hargrove & Nietfeld, 2015）开展准实验，证实显性元认知指导对高校创造性问题解决的因果促学作用。
-> - **2025–2026 年　大规模[[Meta-analysis|元分析]]确立协同机制与 AI 警觉防线** [[Argument_Park_2026_TSC|Park et al. (2026)]] 确立[[Creativity|创造力]]与[[Critical Thinking|批判性思维]]共享元认知底座（$r = 0.386$）；[[Argument_Guo_2025_TSC|Guo et al. (2025)]] 揭示独立练习深思（$g = 0.682$）促进元认知策略内化的组织优势；[[Argument_Li_2026_CEAI|Li et al. (2026)]] 确立显性元认知监控作为[[Generative Artificial Intelligence|生成式 AI]] 时代维系[[Epistemological Vigilance|认识论警觉]]的战略防线。
+> - **2025–2026 年　大规模[[Meta-analysis|元分析]]确立协同机制与 AI 警觉防线** [[Argument_Park_2026_TSC|Park et al. (2026)]] 确立[[Creativity|创造力]]与[[Critical Thinking|批判性思维]]共享元认知底座（$r = 0.386$）；[[Argument_Guo_2025_TSC|Guo et al. (2025)]] 揭示独立练习深思（$g = 0.682$）促进元认知策略内化的组织优势；[[Argument_Li_2026_CEAI|Li et al. (2026)]] 确立显性元认知监控作为生成式 AI 时代维系[[Epistemological Vigilance|认识论警觉]]的战略防线。
 
 ---
 
@@ -282,7 +283,7 @@ updated: 2026-09-04
 > | Dignath & Büttner (2008) | **【干预[[Variable\|变量]]】** 元认知与自我调节策略教学对学生学习成效与认知技能的因果干预效应 | $k = 48$ 项干预研究 / $N = 7,450$ | Cohen's $d$ / 随机效应模型 | **$d = 0.69$** $[0.56, 0.82]$ | 异质性显著，元认知监控策略为关键有效成分 | 证实显性传授元认知规划与监控策略对[[Academic Achievement\|学业表现]]与思维技能具有中到大效应 |
 > | Cartiff et al. (2021) | **【干预变量】** 探究教学中嵌入显性元认知支架对学生[[Epistemic Cognition\|认识论认知]]与高阶学业表现的促进 | $k = 19$ 项研究 (63 ES) / $N = 4,048$ | 皮尔逊相关 $r$ / 随机效应模型 | **$r = 0.198$** $[0.132, 0.264]$ | 跨学科研究异质性中等 | 证实提供显性元认知反思支架能直接改善学习者的[[Epistemology\|认识论]]监控水平与学业成就 |
 > | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | **【关联/共享机制】** [[Creativity\|创造力]]与[[Critical Thinking\|批判性思维]]共享的元认知评价与调节中介关联 | $k = 51$ 项研究 / $N = 12,548$ | 皮尔逊相关 $r$ / 三水平随机效应模型 | **$r = 0.386$** $[0.296, 0.470]$ | $Q(50) = 1113.80, p < .001, I^2 = 95.24\%$；95% PI $[-0.14, 0.70]$ | 证实两类高阶思维具有中等稳健正相关，方案筛选与反思调节等元认知机能构成核心纽带 |
-> | [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] | **【结果变量】** 生成式 AI 对大学生元认知（Metacognition）及自我调节学习的干预效应 | $k = 10$ 项实验研究 / $N = —$ | Hedges' $g^+$ / 随机效应模型 | **$g^+ = 0.078$** $[-0.495, 0.652]$ | $Q(9) = 151.76, p < .001, I^2 = 94.07\%$ | 元认知效应未达统计显著（$p = .789$），证实缺乏显性反思支架时生成式 AI 无法自发促进元认知，甚至可能诱发元认知惰性 |
+> | [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] | **【[[Dependent Variable\|结果变量]]】** 生成式 AI 对大学生元认知（Metacognition）及[[Self-Regulated Learning\|自我调节学习]]的干预效应 | $k = 10$ 项实验研究 / $N = —$ | Hedges' $g^+$ / 随机效应模型 | **$g^+ = 0.078$** $[-0.495, 0.652]$ | $Q(9) = 151.76, p < .001, I^2 = 94.07\%$ | 元认知效应未达统计显著（$p = .789$），证实缺乏显性反思支架时生成式 AI 无法自发促进元认知，甚至可能诱发元认知惰性 |
 
 > [!ma-table]- 一阶元分析互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
@@ -330,7 +331,7 @@ updated: 2026-09-04
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Chen_Cheung_2025_ERR|Chen & Cheung (2025)]] — [[Meta-analysis|元分析]] 57 项实验研究中生成式 AI 对大学生产出的多维效应，报告对元认知无统计显著促进（$g^+ = 0.078, p = 0.789, k = 10$），揭示了防范“元认知惰性”与开展显性反思培训的紧迫性。
+> - [[Argument_Chen_Cheung_2025_ERR|Chen & Cheung (2025)]] — [[Meta-analysis|元分析]] 57 项[[Experimental Research|实验研究]]中生成式 AI 对大学生产出的多维效应，报告对元认知无统计显著促进（$g^+ = 0.078, p = 0.789, k = 10$），揭示了防范“元认知惰性”与开展显性反思培训的紧迫性。
 > - [[Argument_Park_2026_TSC|Park et al. (2026)]] — [[Three-Level Meta-Analysis|三水平元分析]]（$k = 51, N = 12,548$）确立[[Creativity|创造力]]与[[Critical Thinking|批判性思维]]的稳健正相关（$r = 0.386$），论证元认知监控是驱动两类[[Higher-Order Thinking Skills|高阶思维]]协同的核心纽带。
 > - [[Argument_Guo_2025_TSC|Guo et al. (2025)]] — 多层[[Meta-analysis|元分析]]揭示高校[[Creativity Training|创造力干预]]总体增益（$g = 0.628$），并在纳入的 Hargrove & Nietfeld (2015) 等研究基础上，揭示独立个体练习（$g = 0.682$）胜于小组协作（$g = 0.567$）促进策略内化的元认知机制。
 > - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — [[Systematic Review|系统综述]] 67 项实证研究，揭示大语言模型表面流畅性诱发元认知监控外包的危机，提出反思支架维系[[Epistemic Friction|认识论摩擦]]的实践规程。

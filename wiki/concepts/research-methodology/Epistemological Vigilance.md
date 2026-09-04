@@ -235,4 +235,4 @@ updated: 2026-09-01
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Eacott_2015_EPT|Eacott (2015)]] — 以 Bourdieu [[Epistemology|认识论]]预备为框架，系统论证教育行政学者因具身嵌入性而对日常管理语言丧失警觉的危机，呼吁将对象建构过程本身作为反思客体。
-> - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — [[Systematic Review|系统综述]][[Generative Artificial Intelligence|生成式 AI]] 对大学生[[Higher-Order Thinking Skills|高阶思维]]的塑造，实证确立认识论警觉与[[Epistemic Friction|认识论摩擦]]在抵御算法顺滑表象、防止有害[[Cognitive Offloading|认知卸载]]中的核心支架作用。
+> - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — [[Systematic Review|系统综述]]生成式 AI 对大学生[[Higher-Order Thinking Skills|高阶思维]]的塑造，实证确立认识论警觉与[[Epistemic Friction|认识论摩擦]]在抵御算法顺滑表象、防止有害[[Cognitive Offloading|认知卸载]]中的核心支架作用。

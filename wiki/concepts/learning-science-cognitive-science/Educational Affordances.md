@@ -25,12 +25,13 @@ related_concepts:
   - "[[Metacognition]]"
   - "[[Construct]]"
   - "[[Analytic Framework]]"
-  - "[[Generative Artificial Intelligence]]"
   - "[[Creativity]]"
+  - "[[Brainstorming]]"
   - "[[Divergent Thinking]]"
   - "[[Technology Infusion]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Task Structure]]"
+  - "[[Generative Artificial Intelligence]]"
   - "[[Cognitive Offloading]]"
   - "[[Critical Thinking]]"
   - "[[Socratic Dialogue]]"
@@ -74,12 +75,12 @@ updated: 2026-09-02
 > - **边界** 区分“潜在技术可供性（Potential Affordances）”与“实际实现的教学可供性（Realized Affordances）”——唯有在适切的教学法与任务支架匹配下，技术潜力才能转化为高阶心智增益。
 
 > [!citation-card]- 关键表述：可供性与限制的双重视角框架（[[Argument_Li_2026_CEAI|Li et al., 2026]]）
-> 本综述采用双重视角框架（Dual-Perspective Framework），系统解构[[Generative Artificial Intelligence|生成式 AI]] 在高等教育中对批判性与[[Creativity|创造性思维]]的赋能可供性（Affordances）与认知限制风险（Limitations），阐明技术赋能高度依赖于教学任务的结构化设计。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 2–3)]]
+> 本综述采用双重视角框架（Dual-Perspective Framework），系统解构生成式 AI 在高等教育中对批判性与[[Creativity|创造性思维]]的赋能可供性（Affordances）与认知限制风险（Limitations），阐明技术赋能高度依赖于教学任务的结构化设计。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 2–3)]]
 >
 > *The dual-perspective framework provides a structured taxonomy to examine both the cognitive affordances (empowering mechanisms) and the limitations (cognitive risks) of ChatGPT in higher education.*
 
 > [!boundary]- 概念边界辨析
-> - **不等于 软件功能特征（Software Features）** 软件特征（如“ChatGPT 能够每秒输出 50 字”）是技术的客观规范；可供性（如“作为头脑风暴玩伴激发[[Divergent Thinking|发散思维]]”）则必须关联到学习者在具体任务中的认知动作与教学价值。
+> - **不等于 软件功能特征（Software Features）** 软件特征（如“ChatGPT 能够每秒输出 50 字”）是技术的客观规范；可供性（如“作为[[Brainstorming|头脑风暴]]玩伴激发[[Divergent Thinking|发散思维]]”）则必须关联到学习者在具体任务中的认知动作与教学价值。
 > - **不等于 [[Technology Infusion|技术融入]]（Technology Infusion）** 技术融入描述技术进入课程的深度与广度过程；可供性则是解释技术融入为何能（或未能）促进认知发展的底层机制分析透镜。
 
 ---
@@ -98,7 +99,7 @@ updated: 2026-09-02
 
 ## 核心要素
 
-> [!feature] [[Generative Artificial Intelligence|生成式 AI]] 赋能[[Higher-Order Thinking Skills|高阶思维]]的 10 大核心教育可供性维度（[[Argument_Li_2026_CEAI|Li et al., 2026]]）
+> [!feature] 生成式 AI 赋能[[Higher-Order Thinking Skills|高阶思维]]的 10 大核心教育可供性维度（[[Argument_Li_2026_CEAI|Li et al., 2026]]）
 > 
 > **[[Critical Thinking|批判性思维]]赋能可供性（CT Affordances, 5 大维度）**
 > - **[[Metacognition|元认知监控]]与反思支架（Reflection, n = 27）** 作为[[Socratic Dialogue|苏格拉底式对话]]伙伴，即时挑战学生推论并促发反思。
@@ -111,7 +112,7 @@ updated: 2026-09-02
 > - **[[Divergent Thinking|发散思维]]与构想广度爆发（Ideation, n = 31）** 打破思维定势，快速列出远距离非常规概念与方案。
 > - **篇章结构与跨语言表达支架（Language Scaffolding, n = 24）** 克服母语词汇壁垒，辅助修辞重组与体裁转换。
 > - **[[Role-playing|角色扮演]]与认知视角转换（Perspective-taking, n = 18）** 模拟多元利益攸关方开展多角度虚拟研讨。
-> - **起始创作焦虑破冰（Anxiety Relief, n = 16）** 作为低威胁性头脑风暴玩伴，克服面对空白页的起始创作阻滞。
+> - **起始创作焦虑破冰（Anxiety Relief, n = 16）** 作为低威胁性[[Brainstorming|头脑风暴]]玩伴，克服面对空白页的起始创作阻滞。
 > - **跨学科概念原型迭代重组（Prototyping, n = 14）** 将 AI 产出作为原材料进行二次解构、嫁接与原型重塑。
 
 > [!logic-map]- 教育可供性在学习者、任务与技术间的动态转化模型
@@ -152,7 +153,7 @@ updated: 2026-09-02
 > 揭示大语言模型区别于传统单向教育技术的内在矛盾性。
 
 > [!claim] [[Argument_Li_2026_CEAI|Li et al. (2026)]]
-> **双向可供性二元张力** [[Generative Artificial Intelligence|生成式 AI]] 既提供了强大的发散构想与视角拓展可供性（在 31 项研究中赋能[[Creativity|创造力]]），同时也提供了极易诱发被动顺从与学术声音剥落的“代工可供性”（在 20 项研究中诱发构想惰性）。这种双向可供性的共存要求教育研究必须同时审视其赋能机制与风险边界。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 2, 4–8)]]
+> **双向可供性二元张力** 生成式 AI 既提供了强大的发散构想与视角拓展可供性（在 31 项研究中赋能[[Creativity|创造力]]），同时也提供了极易诱发被动顺从与学术声音剥落的“代工可供性”（在 20 项研究中诱发构想惰性）。这种双向可供性的共存要求教育研究必须同时审视其赋能机制与风险边界。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 2, 4–8)]]
 
 ---
 
@@ -183,7 +184,7 @@ updated: 2026-09-02
 > - **1979 年 — 生态心理学创立** J. J. Gibson 首次提出 Affordance，界定环境为动物提供的行动潜能。
 > - **1988 年 — 人机交互设计转向** Donald Norman 将其引入人机交互领域，强调用户界面的“可感知可供性（Perceived Affordances）”。
 > - **2004–2008 年 — 教育技术学系统化** Paul Kirschner 等提出“教育可供性（Educational Affordances）”，Matt Bower 构建了教育技术可供性匹配框架（Affordance Analysis Matrix）。
-> - **2026 年 — [[Generative Artificial Intelligence|生成式 AI]] 认知双重视角重塑** [[Argument_Li_2026_CEAI|Li et al. (2026)]] 与 Liu et al. (2026) 将可供性拓展为“[[Higher-Order Thinking Skills|高阶思维]]认知使能与风险规制”的双向[[Analytic Framework|分析框架]]。
+> - **2026 年 — 生成式 AI 认知双重视角重塑** [[Argument_Li_2026_CEAI|Li et al. (2026)]] 与 Liu et al. (2026) 将可供性拓展为“[[Higher-Order Thinking Skills|高阶思维]]认知使能与风险规制”的双向[[Analytic Framework|分析框架]]。
 
 ---
 
@@ -226,5 +227,5 @@ updated: 2026-09-02
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — 系统构建[[Generative Artificial Intelligence|生成式 AI]] 赋能高等教育批判性与[[Creativity|创造性思维]]的 10 大核心教育可供性分类学。
+> - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — 系统构建生成式 AI 赋能高等教育批判性与[[Creativity|创造性思维]]的 10 大核心教育可供性分类学。
 > - [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] — [[Meta-analysis|元分析]] 35 项[[Experimental Research|实验研究]]，量化检验 AI [[AI Agent in Education|智能体]]教育可供性在[[Procedural Skill|程序技能]]与高阶认知任务中的效应分化。

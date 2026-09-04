@@ -23,11 +23,12 @@ tags:
   - theme/artificial-intelligence
 related_concepts:
   - "[[Metacognition]]"
-  - "[[Generative Artificial Intelligence]]"
   - "[[Cognitive Offloading]]"
   - "[[Epistemic Friction]]"
   - "[[Reflexivity]]"
+  - "[[Brainstorming]]"
   - "[[AI Hallucination]]"
+  - "[[Generative Artificial Intelligence]]"
   - "[[Critical Thinking]]"
   - "[[Effect Size]]"
   - "[[Variable]]"
@@ -57,7 +58,7 @@ updated: 2026-09-02
 
 > [!concept-lens] 概念透镜
 > - **含义** 基于“流畅性启发式（Fluency Heuristic）”产生的心智错觉——大脑将低加工努力（Processing Fluency）误判为高认知掌握度。
-> - **用途** 解释为什么[[Generative Artificial Intelligence|生成式 AI]] 时代学生极易产生“自己变得非常强大”的虚假自信，实则丧失了独立推理与批判性审订能力。
+> - **用途** 解释为什么生成式 AI 时代学生极易产生“自己变得非常强大”的虚假自信，实则丧失了独立推理与批判性审订能力。
 > - **边界** 区别于一般的知识匮乏或遗忘，能力错觉是一种带有**高度主观自信（High Subjective Confidence）与低真实能力（Low Actual Competence）**的元认知失准状态。
 
 > [!citation-card]- 关键表述：语义流畅性与能力错觉（[[Argument_Li_2026_CEAI|Li et al., 2026]]）
@@ -89,10 +90,10 @@ updated: 2026-09-02
 > [!feature] 能力错觉的核心心理机制与诱发维度
 > - **流畅性启发式误用（Misapplication of Fluency Heuristic）** 语法规范、词汇优雅的大模型文本降低了主观阅读难度，大脑自动将加工流畅性错误归因为自身智力胜任力。[[Argument_Li_2026_CEAI|(Li et al., 2026, p. 10)]]
 > - **识别与提取的[[Metacognition|元认知]]混淆（Recognition vs. Recall Confusion）** 看着 ChatGPT 列出的完美答案产生“我本来也是这么想的”的事后聪明偏误（Hindsight Bias），掩盖了自身独立提取能力的空白。
-> - **思维早熟收敛与探究停滞（Premature Convergence & Stagnation）** 获得首个顺滑回答后误以为达到终极真理，立即终止头脑风暴与批判性求证（在 20 项实证中超过 45% 的学生展现出此现象）。[[Argument_Li_2026_CEAI|(Awal, 2024; Li et al., 2026, p. 8)]]
+> - **思维早熟收敛与探究停滞（Premature Convergence & Stagnation）** 获得首个顺滑回答后误以为达到终极真理，立即终止[[Brainstorming|头脑风暴]]与批判性求证（在 20 项实证中超过 45% 的学生展现出此现象）。[[Argument_Li_2026_CEAI|(Awal, 2024; Li et al., 2026, p. 8)]]
 > - **[[Epistemic Friction|认识论摩擦]]旁路（Bypassing Epistemic Friction）** 跳过长时记忆图式构建所必需的认知挣扎，陷入“表面繁荣、实质空心”的心智陷阱。
 
-> [!logic-map]- [[Generative Artificial Intelligence|生成式 AI]] 介入下能力错觉的形成与破除回路
+> [!logic-map]- 生成式 AI 介入下能力错觉的形成与破除回路
 > ```mermaid
 > flowchart TD
 >     A["学习者向 ChatGPT 提问并获得顺滑回答"] --> B["表面语义极度流畅 (Semantic Fluency)"]
@@ -167,7 +168,7 @@ updated: 2026-09-02
 > [!dev-timeline] 概念演变脉络
 > - **1980 年代 — [[Metacognition|元认知监控]]研究奠基** Markman 与 Glenberg 等提出“知晓错觉（Illusion of Knowing）”，揭示阅读中学生无法识别文本矛盾的普遍现象。
 > - **2013 年 — 生产性困难理论拓展** Robert Bjork 与 Elizabeth Bjork 系统阐述“能力错觉（Illusion of Competence）”，证明重复阅读制造虚假自信，而费力的提取练习才能建立真正记忆。
-> - **2026 年 — [[Generative Artificial Intelligence|生成式 AI]] 时代心智危机** [[Argument_Li_2026_CEAI|Li et al. (2026)]] 将能力错觉确立为解构大模型“语义流畅性陷阱”、[[Critical Thinking|批判性思维]]侵蚀与学术声音剥落的核心认知心理学概念。
+> - **2026 年 — 生成式 AI 时代心智危机** [[Argument_Li_2026_CEAI|Li et al. (2026)]] 将能力错觉确立为解构大模型“语义流畅性陷阱”、[[Critical Thinking|批判性思维]]侵蚀与学术声音剥落的核心认知心理学概念。
 
 ---
 
@@ -207,4 +208,4 @@ updated: 2026-09-02
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — [[Systematic Review|系统综述]] 67 项高等教育实证研究，解构[[Generative Artificial Intelligence|生成式 AI]] 语义流畅性引发能力错觉、构想惰性与认知侵蚀的心理机制。
+> - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — [[Systematic Review|系统综述]] 67 项高等教育实证研究，解构生成式 AI 语义流畅性引发能力错觉、构想惰性与认知侵蚀的心理机制。

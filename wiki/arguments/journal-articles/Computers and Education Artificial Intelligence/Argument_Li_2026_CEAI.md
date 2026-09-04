@@ -59,6 +59,7 @@ related_concepts:
   - "[[Literature Review]]"
   - "[[Argument Mapping]]"
   - "[[Epistemology]]"
+  - "[[Brainstorming]]"
   - "[[Problem-Based Learning]]"
   - "[[Hypothesis]]"
   - "[[Reliability]]"
@@ -313,7 +314,7 @@ issuing_organization: ""
 > [!ref-table]- 表6：ChatGPT 对创造性思维影响的核心主题、情境与调节变量（Key Themes on Creative Thinking）
 > | 影响维度 | 主题名称与频数（Theme & n） | 代表性教学情境（Representative Contexts） | 调节条件与关键变量（Moderators / Conditions） | 代表性实证研究（Illustrative Studies） |
 > |---|---|---|---|---|
-> | **赋能机制** | **[[Divergent Thinking\|发散思维]]与构想拓展（n = 31）** | 论文开题头脑风暴、设计项目规划、开放式解题 | 自主探究模式、探究早期探索阶段、发散导向 | Sarwanti et al. (2024); Villarino (2025); Urban et al. (2024); Xu (2025) |
+> | **赋能机制** | **[[Divergent Thinking\|发散思维]]与构想拓展（n = 31）** | 论文开题[[Brainstorming\|头脑风暴]]、设计项目规划、开放式解题 | 自主探究模式、探究早期探索阶段、发散导向 | Sarwanti et al. (2024); Villarino (2025); Urban et al. (2024); Xu (2025) |
 > | **赋能机制** | **结构与表达脚手架（n = 24）** | EFL 英语学术写作、文学创意、跨体裁转写 | 语言支架介入、多轮草稿迭代修改 | Avsheniuk et al. (2024); Kurt & Kurt (2024); Tseng & Lin (2024); Werdiningsih et al. (2024) |
 > | **赋能机制** | **对话互动与视角转换（n = 18）** | 议题辩论模拟、跨学科探究、[[Role-playing\|角色扮演]]设计 | 提示词角色设计、多视角反思交互循环 | Lee et al. (2024); Darmawansah et al. (2025); [[Argument_Li_2025_HSSC\|Li et al. (2025)]]; Cake (2025) |
 > | **赋能机制** | **情感激活与焦虑缓解（n = 16）** | 故事叙述构思、创意剧本策划、开放叙事任务 | 任务表达性构架、探索开放性、心理安全感 | George-Reyes et al. (2024); Gervacio (2024); Jayasinghe (2024); Alzubi et al. (2025); Kofahi & Husain (2025) |

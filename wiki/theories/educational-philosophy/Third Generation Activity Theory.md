@@ -21,11 +21,11 @@ tags:
   - theme/human-ai-collaboration
   - theme/higher-order-thinking
 related_concepts:
-  - "[[Generative Artificial Intelligence]]"
   - "[[Paradigm]]"
   - "[[Constructivist Paradigm]]"
   - "[[Analytic Framework]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Generative Artificial Intelligence]]"
   - "[[Cognitive Offloading]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Dialogue in Education]]"
@@ -47,15 +47,19 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
+  - "[[Interaction Effect]]"
 related_theories: []
 related_methods:
   - "[[Case Study]]"
   - "[[Ethnography]]"
   - "[[Systematic Review]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Experimental Research]]"
+  - "[[Meta-analysis]]"
 related_arguments:
   - "[[Argument_Wang_2025_CE]]"
   - "[[Argument_Li_2026_CEAI]]"
+  - "[[Argument_Chen_Cheung_2025_ERR]]"
 related_facts:
   - "[[Gaokao]]"
 confidence: medium
@@ -72,7 +76,7 @@ updated: 2026-09-04
 ## 理论定位
 
 > [!theory-position] 理论定位
-> - **解释对象** 集体活动系统（Activity System）、多系统相遇与互动、中介工具介入（如[[Generative Artificial Intelligence|生成式 AI]]、跨国新教学法）、制度与系统内部矛盾（Contradictions）及扩展性组织改造机制（Expansive Transformation）。
+> - **解释对象** 集体活动系统（Activity System）、多系统相遇与互动、中介工具介入（如生成式 AI、跨国新教学法）、制度与系统内部矛盾（Contradictions）及扩展性组织改造机制（Expansive Transformation）。
 > - **理论问题** 如何超越个体主义认知还原论与机械技术决定论，从中观社会文化历史情境与系统结构性矛盾切入，解释制度变迁、教学改革、人机认知分工以及边界跨越（Boundary Crossing）现象？
 > - **理论类型** 文化历史活动理论[[Paradigm|范式]]（Cultural-Historical Activity Theory, CHAT）、社会文化历史[[Constructivist Paradigm|建构主义]]中层机制模型与[[Analytic Framework|分析框架]]。
 > - **知识位置** 承袭 Vygotsky 中介三角与 Leont'ev 活动层级论，由 Engeström (1987, 2001) 形式化为六要素模型与多系统互动网络；近期在前沿教育政策[[Transfer Translation Transformation|转译]]（[[Argument_Wang_2025_CE|Wang & McLaughlin, 2025]]）与高等教育生成式 AI 教学重构（[[Argument_Li_2026_CEAI|Li et al., 2026]]）中获得深度拓展。
@@ -81,7 +85,7 @@ updated: 2026-09-04
 > 人类实践应被概念化为集体的、对象导向的、由工具与符号中介的活动系统。第三代活动理论的核心主张在于：不同活动系统之间的相遇与碰撞，或新型中介工具的强力介入，必然触发系统内在与系统之间的结构性矛盾（Contradictions）；当行动者通过边界跨越识别矛盾并建构“共享客体（Shared Object）”时，活动系统能够推动工具、规则、分工与共同体全要素的协同重构，实现“扩展性改造（Expansive Transformation）”。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 590–591, 600)]]; [[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 2–3, 11–13)]]
 
 > [!citation-card]- 关键表述：活动系统的协同重组与扩展性改造
-> 为化解生成式人工智能整合中的[[Cognitive Offloading|认知卸载]]危机并释放其[[Higher-Order Thinking Skills|高阶思维]]潜能，高等教育必须超越单纯的“技术接纳”或“机械禁令”的工具中心论，依据活动理论全面重组教学活动系统的规则、工具与人机分工，构建涵盖多源反馈生态的教学法。[[Argument_Li_2026_CEAI|(Li et al., 2026, p. 11)]]
+> 为化解[[Generative Artificial Intelligence|生成式人工智能]]整合中的[[Cognitive Offloading|认知卸载]]危机并释放其[[Higher-Order Thinking Skills|高阶思维]]潜能，高等教育必须超越单纯的“技术接纳”或“机械禁令”的工具中心论，依据活动理论全面重组教学活动系统的规则、工具与人机分工，构建涵盖多源反馈生态的教学法。[[Argument_Li_2026_CEAI|(Li et al., 2026, p. 11)]]
 >
 > *According to Cultural-Historical Activity Theory (CHAT), the introduction of an artifact inevitably disrupts the equilibrium among subjects, objects, mediating tools, rules, and division of labor within an activity system... expansive transformation occurs when contradictions are harnessed to reconstitute instructional rules and collaborative roles.*
 
@@ -138,7 +142,7 @@ updated: 2026-09-04
 
 ---
 
-> [!proposition-chain] 核心命题五｜[[Generative Artificial Intelligence|生成式 AI]] 介入下的教学活动系统失调与人机协同规制重构（[[Argument_Li_2026_CEAI|Li et al., 2026]]）
+> [!proposition-chain] 核心命题五｜生成式 AI 介入下的教学活动系统失调与人机协同规制重构（[[Argument_Li_2026_CEAI|Li et al., 2026]]）
 > - **前提一** 生成式 AI（ChatGPT）作为超级中介工具进入大学教学，其高速语义生成与传统的“终稿文本评价（End-Product Evaluation）”规则发生剧烈冲突，在非结构化使用中诱发严重的[[Cognitive Offloading|认知卸载]]与批判/创造双重侵蚀。
 >   > [!evidence-grid]- 证据
 >   > - **证据一** 67 项实证研究综述显示，在缺乏教学支架的情境中，AI 表面流畅性绕过反思挣扎，导致人机分工失衡与学生思维退化。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 9–11)]]
@@ -248,7 +252,7 @@ updated: 2026-09-04
 > - **1987 — 第二代：Engeström 六要素集体活动系统** 引入共同体、规则与劳动分工，将分析单元拓展为集体的活动系统，出版奠基著作 *Learning by Expanding*。
 > - **2001 — 第三代：多活动系统互动与扩展性改造** Engeström 正式提出第三代活动理论，聚焦多个活动系统的相遇、边界跨越与扩展性学习网络。
 > - **2025 — 教育改革与跨文化[[Transfer Translation Transformation|转译]]实证应用** Wang & McLaughlin 运用第三代活动理论解构中国 4 所高中在跨国培训后，如何通过建立共享客体实现[[Test-Based Accountability|考试问责]]与 [[Learner-Centred Education|LCE]] 改革双系统的扩展性改造。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 586–605)]]
-> - **2026 — [[Generative Artificial Intelligence|生成式 AI]] 人机协同与教学规制重构** Li et al. 将第三代活动理论应用于高等教育生成式 AI 整合研究，提出超越工具中心论的六大教学干预规制与人机认知分工模型。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 11–13)]]
+> - **2026 — 生成式 AI 人机协同与教学规制重构** Li et al. 将第三代活动理论应用于高等教育生成式 AI 整合研究，提出超越工具中心论的六大教学干预规制与人机认知分工模型。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 11–13)]]
 
 ---
 
@@ -277,6 +281,6 @@ updated: 2026-09-04
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Chen_Cheung_2025_ERR|Chen & Cheung (2025)]] — 采用活动理论移动计算机支持协作学习（AT-MCSCL）框架，将生成式 AI 学习系统解构为主体、客体、工具、规则、分工与情境六大维度，对 57 项实验研究进行多维调节效应元分析，解释了边际效益递增与权力壁垒破除机制。
+> - [[Argument_Chen_Cheung_2025_ERR|Chen & Cheung (2025)]] — 采用活动理论移动计算机支持协作学习（AT-MCSCL）框架，将生成式 AI 学习系统解构为主体、客体、工具、规则、分工与情境六大维度，对 57 项[[Experimental Research|实验研究]]进行多维[[Interaction Effect|调节效应]][[Meta-analysis|元分析]]，解释了边际效益递增与权力壁垒破除机制。
 > - [[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]] — 运用第三代活动理论作为[[Analytic Framework|分析框架]]，解构中国 4 所高中在跨国专业发展项目后，[[Test-Based Accountability|考试问责]]系统与 [[Learner-Centred Education|LCE]] 改革系统如何通过建立学校特定共享目标，促成要素协同重构与扩展性改造。
-> - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — 将活动理论应用于高等教育[[Generative Artificial Intelligence|生成式 AI]] 整合综述，揭示大模型作为新型中介工具对教学活动系统平衡的扰动，系统提出了涵盖工具定位、规则重塑、人机认知分工与多源反馈共同体的扩展性改造方案。
+> - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — 将活动理论应用于高等教育生成式 AI 整合综述，揭示大模型作为新型中介工具对教学活动系统平衡的扰动，系统提出了涵盖工具定位、规则重塑、人机认知分工与多源反馈共同体的扩展性改造方案。
