@@ -41,8 +41,8 @@ related_concepts:
   - "[[Statistical Significance]]"
   - "[[Reliability]]"
   - "[[Quality Education]]"
-  - "[[Class Size]]"
   - "[[Academic Achievement]]"
+  - "[[Class Size]]"
 related_theories:
   - "[[Social Capital Theory]]"
 related_methods:

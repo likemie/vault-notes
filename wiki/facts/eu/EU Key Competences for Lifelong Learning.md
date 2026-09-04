@@ -26,6 +26,7 @@ related_concepts:
   - "[[Lifelong Learning]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Employability]]"
+  - "[[Language Skills]]"
   - "[[Evidence-Based Reform]]"
   - "[[Dialogue in Education]]"
 related_theories: []

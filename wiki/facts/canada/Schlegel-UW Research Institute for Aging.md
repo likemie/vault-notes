@@ -20,6 +20,7 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[University-Industry Co-location]]"
   - "[[Knowledge Mobilisation]]"
+  - "[[Incubation]]"
   - "[[Reliability]]"
 related_theories:
   - "[[RIA Model for Innovation]]"

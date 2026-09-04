@@ -28,7 +28,8 @@ related_theories:
 related_methods: []
 related_persons:
   - "[[John Dewey]]"
-related_facts: []
+related_facts:
+  - "[[Parliamentary Office of Science and Technology]]"
 related_arguments:
   - "[[Argument_Amos_2022_Springer]]"
 confidence: medium
@@ -54,7 +55,7 @@ Donna Haraway，美国女性主义科学与技术研究学者，以 [[Posthumani
 
 **[[Haraway's SF|SF (Haraway)]]** Haraway 的多义方法论缩写，涵盖 string figures（线绳图案）、speculative fabulation（推测性编造）、science fiction（科幻）、so far（迄今），核心是通过讲故事创造涉及人类与非人类多重行动者的关系模式([[Argument_Amos_2022_Springer|Amos, 2022, p.62]])。
 
-**"在稠密的当下好好生、好好死"（live and die well together in a thick present）** Haraway 的伦理立场——后救赎（post-redemption）、后乐观（post-optimism），将注意力彻底集中在当下。可能没有未来，但一定有一个丰富的此时此地([[Argument_Amos_2022_Springer|Amos, 2022, p.62]])。
+**"在稠密的当下好好生、好好死"（live and die well together in a thick present）** Haraway 的伦理立场——后救赎（[[Parliamentary Office of Science and Technology|POST]]-redemption）、后乐观（post-optimism），将注意力彻底集中在当下。可能没有未来，但一定有一个丰富的此时此地([[Argument_Amos_2022_Springer|Amos, 2022, p.62]])。
 
 **[[Humosity]]（腐殖性）** Haraway 的生活伴侣 Rusten Hogness 创造的概念，描述一个人类被彻底去中心化的世界——人类只是死亡与重生这一巨大循环过程的一部分([[Argument_Amos_2022_Springer|Amos, 2022, p.62]])。
 

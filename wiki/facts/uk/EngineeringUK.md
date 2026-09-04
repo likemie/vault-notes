@@ -21,16 +21,15 @@ tags:
   - theme/industry-collaboration
 related_concepts:
   - "[[Science Capital]]"
-  - "[[Public Engagement with Science]]"
-  - "[[Practical Inquiry in Science Education]]"
-  - "[[Scientific Literacy]]"
 related_facts:
   - "[[The Big Bang Fair]]"
-  - "[[UK Science Education Tracker]]"
   - "[[Gatsby Benchmarks]]"
+  - "[[UK Science Education Tracker]]"
 related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
+related_instruments:
+  - "[[VALUE Rubrics]]"
 confidence: high
 status: draft
 created: 2026-09-04

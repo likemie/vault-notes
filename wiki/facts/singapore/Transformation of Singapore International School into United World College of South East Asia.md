@@ -15,13 +15,22 @@ fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#fef3c7"
 tags: [region/singapore, theme/international-education, theme/institution-building, theme/international-schools]
-related_concepts: []
+related_concepts:
+  - "[[International Schools]]"
+  - "[[International Baccalaureate]]"
+  - "[[International Education]]"
 related_theories: []
 related_methods: []
 related_instruments: []
-related_persons: []
-related_facts: []
-related_arguments: []
+related_persons:
+  - "[[Louis Mountbatten]]"
+  - "[[Desmond Hoare]]"
+related_facts:
+  - "[[United World Colleges]]"
+  - "[[United World Colleges Associated Schools Policy 1977]]"
+  - "[[Founding of Lester B. Pearson College]]"
+related_arguments:
+  - "[[Argument_Peterson_1987_OpenCourt_Ch05]]"
 confidence: high
 status: draft
 created: 2026-09-01

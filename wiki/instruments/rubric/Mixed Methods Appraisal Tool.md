@@ -37,6 +37,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Reliability]]"
   - "[[Blinding]]"
+  - "[[Ganz-Methode]]"
 related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
@@ -49,6 +50,7 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
+  - "[[Argument_Li_2026_CEAI]]"
 confidence: high
 status: draft
 created: 2026-08-25

@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Professional Judgment]]"
   - "[[Document]]"
+  - "[[Research Utilization]]"
   - "[[Effect Size]]"
   - "[[Statistical Significance]]"
   - "[[Evidence-Informed Practice]]"

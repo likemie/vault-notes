@@ -37,6 +37,7 @@ related_concepts:
 related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
   - "[[Argument_Nelson_2017_ER]]"
+  - "[[Argument_RoyalSociety_2026_ScienceForSociety]]"
 related_methods:
   - "[[Triangulation]]"
   - "[[Meta-analysis]]"

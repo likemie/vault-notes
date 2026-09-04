@@ -23,19 +23,44 @@ tags:
   - evidence-based-education
 related_concepts:
   - "[[Pre-test and Post-test]]"
+  - "[[Variable]]"
+  - "[[Causality]]"
+  - "[[Counterfactual]]"
+  - "[[Effective Teaching]]"
+  - "[[Sample Size Determination]]"
+  - "[[Heterogeneity]]"
+  - "[[Epistemology]]"
+  - "[[Document]]"
   - "[[Internal Validity]]"
+  - "[[Interaction Effect]]"
+  - "[[Implementation Fidelity]]"
+  - "[[Attrition]]"
+  - "[[Literature Search]]"
+  - "[[Scale of Measurement]]"
+  - "[[Hypothesis]]"
+  - "[[Reliability]]"
   - "[[Effect Size]]"
 related_theories:
   - "[[Campbellian Validity Framework]]"
 related_methods:
-  - "[[Meta-analysis]]"
   - "[[Quasi-Experimental Designs]]"
-  - "[[Randomised Controlled Trials]]"
+  - "[[Meta-analysis]]"
+  - "[[Random Assignment]]"
   - "[[Analysis of Covariance]]"
+  - "[[Randomised Controlled Trials]]"
+  - "[[Inverse-Variance Weighting]]"
+  - "[[Random Sampling]]"
+  - "[[Covariate Adjustment]]"
+  - "[[Analysis of Variance]]"
+  - "[[Systematic Review]]"
+  - "[[Intervention Research]]"
+  - "[[One-Group Pretest-Posttest Design]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Robert Slavin]]"
 related_facts:
   - "[[What Works Clearinghouse]]"
+  - "[[Best Evidence Encyclopedia]]"
 related_arguments:
   - "[[Argument_Chen_Cheung_2025_ERR]]"
 confidence: high

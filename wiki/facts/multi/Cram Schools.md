@@ -27,6 +27,7 @@ tags:
   - theme/academic-pressure
 related_concepts:
   - "[[Homework]]"
+  - "[[Academic Achievement]]"
   - "[[Nerd]]"
   - "[[Examination Hell]]"
 related_theories: []

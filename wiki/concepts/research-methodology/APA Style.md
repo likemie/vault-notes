@@ -18,8 +18,7 @@ related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
 related_persons: []
-related_facts:
-  - "[[Scientific Advisory Group for Emergencies]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
 confidence: medium

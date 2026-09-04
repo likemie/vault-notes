@@ -38,6 +38,7 @@ related_concepts:
   - "[[Growth]]"
   - "[[Attentional Inertia]]"
   - "[[Synaptic Pruning]]"
+  - "[[Cognitive Flexibility]]"
   - "[[Hypothesis]]"
   - "[[Variable]]"
 related_theories:
@@ -52,7 +53,8 @@ related_persons:
   - "[[Juan Pascual-Leone]]"
   - "[[Robbie Case]]"
   - "[[Kurt Fischer]]"
-related_facts: []
+related_facts:
+  - "[[Parliamentary Office of Science and Technology]]"
 related_arguments: []
 sources:
   - "[[sources/Bolton_2017_ArchPsych/Bolton_2017_ArchPsych|Bolton_2017_ArchPsych]]"

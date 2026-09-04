@@ -34,6 +34,7 @@ related_persons: []
 related_facts:
   - "[[Bologna Process]]"
   - "[[CALOHEE Project]]"
+  - "[[European Qualifications Framework]]"
   - "[[OECD]]"
 related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"

@@ -18,13 +18,19 @@ tags:
   - theme/international-education
   - theme/higher-education-transfer
   - theme/curriculum-implementation
-related_concepts: []
+related_concepts:
+  - "[[General Education]]"
+  - "[[International Baccalaureate]]"
+  - "[[International Schools]]"
+  - "[[Twelfth-Grade Slump]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[International Baccalaureate North America]]"
+related_arguments:
+  - "[[Argument_Peterson_1987_OpenCourt_Ch06]]"
 confidence: high
 status: draft
 created: 2026-09-03

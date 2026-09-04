@@ -23,6 +23,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Clinical Trial]]"
   - "[[Necessary and Sufficient Conditions]]"
+  - "[[Research Utilization]]"
   - "[[Paradigm]]"
   - "[[Publication Bias]]"
 related_theories: []

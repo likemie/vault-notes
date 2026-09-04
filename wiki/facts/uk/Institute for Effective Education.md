@@ -21,6 +21,7 @@ tags:
   - theme/evidence-informed-practice
   - theme/educational-intervention
 related_concepts:
+  - "[[Research Utilization]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Evidence-Based Reform]]"
   - "[[Educational Evidence Clearinghouses]]"

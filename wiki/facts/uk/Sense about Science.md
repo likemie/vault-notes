@@ -23,6 +23,12 @@ tags:
   - theme/scientific-literacy
   - theme/public-engagement
 related_concepts:
+  - "[[Chain of Evidence]]"
+  - "[[Critical Thinking]]"
+  - "[[Document]]"
+  - "[[External Auditor]]"
+  - "[[Scientific Uncertainty]]"
+  - "[[Dialogue in Education]]"
   - "[[Scientific Literacy]]"
   - "[[Public Engagement with Science]]"
 related_theories: []

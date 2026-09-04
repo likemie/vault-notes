@@ -18,13 +18,19 @@ tags:
   - theme/international-education
   - theme/public-school-reform
   - theme/gifted-education
-related_concepts: []
+related_concepts:
+  - "[[International Schools]]"
+  - "[[International Baccalaureate]]"
+  - "[[Reliability]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[International Baccalaureate Six-Year Experiment]]"
+  - "[[International Baccalaureate North America]]"
+related_arguments:
+  - "[[Argument_Peterson_1987_OpenCourt_Ch06]]"
 confidence: high
 status: draft
 created: 2026-09-03

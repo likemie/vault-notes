@@ -28,6 +28,7 @@ related_concepts:
   - "[[Research Literacy]]"
   - "[[Critical Thinking]]"
   - "[[Hypothesis]]"
+  - "[[Language Skills]]"
   - "[[Operationalization]]"
   - "[[Revoicing]]"
   - "[[Higher-Order Thinking Skills]]"

@@ -32,6 +32,7 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Methodological Educationism]]"
   - "[[Reflexivity]]"
+  - "[[Language Skills]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Employability]]"
   - "[[Hypothesis]]"

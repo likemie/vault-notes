@@ -35,6 +35,7 @@ related_concepts:
   - "[[Disciplinary Socialization]]"
   - "[[Hypothesis]]"
   - "[[Higher-Order Thinking Skills]]"
+  - "[[Language Skills]]"
   - "[[Critical Thinking]]"
   - "[[Lifelong Learning]]"
   - "[[Document]]"

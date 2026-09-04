@@ -34,6 +34,7 @@ related_concepts:
   - "[[Didaktik]]"
   - "[[Positivism]]"
   - "[[Growth]]"
+  - "[[Synectics]]"
   - "[[Value Neutrality]]"
   - "[[Variable]]"
   - "[[Dialogue in Education]]"

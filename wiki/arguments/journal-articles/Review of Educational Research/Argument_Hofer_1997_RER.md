@@ -42,6 +42,7 @@ related_concepts:
   - "[[Subjectivism]]"
   - "[[Evaluativist]]"
   - "[[Domain Specificity]]"
+  - "[[Self-Regulated Learning]]"
   - "[[Rote Learning]]"
 related_theories:
   - "[[Perry's Scheme of Intellectual and Ethical Development]]"

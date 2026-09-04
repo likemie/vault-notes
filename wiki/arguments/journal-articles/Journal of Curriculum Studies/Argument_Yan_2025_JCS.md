@@ -58,6 +58,7 @@ related_theories:
   - "[[World Society Theory]]"
 related_methods:
   - "[[Historical Document Analysis of Curriculum]]"
+  - "[[Multiple-Choice Questions]]"
 related_persons: []
 related_facts:
   - "[[Liberal Studies]]"

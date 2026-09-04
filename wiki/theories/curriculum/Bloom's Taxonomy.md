@@ -26,6 +26,7 @@ related_concepts:
   - "[[Higher-Order Thinking Skills]]"
   - "[[Constructive Alignment]]"
   - "[[Operationalization]]"
+  - "[[Academic Achievement]]"
   - "[[Task Structure]]"
   - "[[Procedural Skill]]"
   - "[[Reflective Thinking]]"
@@ -43,7 +44,6 @@ related_concepts:
   - "[[International Baccalaureate]]"
   - "[[IB Diploma Programme]]"
   - "[[Cooperative Learning]]"
-  - "[[Academic Achievement]]"
   - "[[SOLO Taxonomy]]"
 related_theories:
   - "[[Dynamic Knowledge and Learning Model]]"
@@ -108,7 +108,7 @@ updated: 2026-08-25
 > [!proposition-chain] 核心命题一｜认知过程维度具有从基础识记向复杂[[Higher-Order Thinking Skills|高阶思维]]递进的层级结构与[[Operationalization|操作化]]判据
 > - **前提一** 学习者的认知加工存在内在复杂度阶梯，从被动再认事实（记忆）、掌握语义关联（理解）、执行规则演练（应用），递进至解构内在逻辑（分析）、审证评判价值（评价）与重构新颖图式（创造）。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 33–34)]]
 > - **前提二** 不同认知加工层级可以通过一组标准化教学命令动词（如列举、解释、求解、辨析、评估、设计）进行显性操作化定义与测度。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, p. 35)]]
-> - **推导** ① 认知加工复杂度逐级攀升，后一阶段通常需要前一阶段的心智资源支持；② 教学评价能够根据目标动词的层级清晰判定学生的思维深度；③ 使得教育研究者与评估设计者能够超越粗糙的学业成绩概念，细致评估教学干预在不同认知层级上的差异化效能。[[Argument_Liu_2026_CHBR|(Liu et al., 2026, pp. 5–7)]]
+> - **推导** ① 认知加工复杂度逐级攀升，后一阶段通常需要前一阶段的心智资源支持；② 教学评价能够根据目标动词的层级清晰判定学生的思维深度；③ 使得教育研究者与评估设计者能够超越粗糙的[[Academic Achievement|学业成绩]]概念，细致评估教学干预在不同认知层级上的差异化效能。[[Argument_Liu_2026_CHBR|(Liu et al., 2026, pp. 5–7)]]
 
 > [!proposition-chain] 核心命题二｜教学干预与技术中介的促学效能受目标认知层级与[[Task Structure|任务结构]]的强劲调节
 > - **前提一** 处于不同认知层级的学习任务其内在认知负荷机制各异：低阶事实与[[Procedural Skill|程序技能]]依赖自动化演练与即时纠错，而高阶思维依赖[[Reflective Thinking|反思性探究]]与认知[[Externalization|外化]]。[[Argument_Liu_2026_CHBR|(Liu et al., 2026, pp. 10–11)]]

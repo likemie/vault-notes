@@ -17,13 +17,34 @@ tags:
   - theme/university-industry-collaboration
   - theme/assessment-governance
   - level/higher-education
-related_concepts: []
+related_concepts:
+  - "[[Transfer Translation Transformation]]"
+  - "[[University-Industry Collaboration]]"
+  - "[[Conflict of Interest in Research]]"
+  - "[[Epistemology]]"
+  - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[Research Topic]]"
+  - "[[Knowledge Production]]"
+  - "[[Research Scope]]"
+  - "[[University Spin-Out]]"
+  - "[[Governance by Spin]]"
+  - "[[Critical Thinking]]"
+  - "[[Creativity]]"
+  - "[[Research Security]]"
+  - "[[Document]]"
+  - "[[Innovation Ecosystem]]"
+  - "[[Technology Transfer]]"
+  - "[[Rote Learning]]"
+  - "[[Corporate Venture Capital]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Peer Debriefing]]"
+  - "[[Multiple-Choice Questions]]"
 related_instruments: []
 related_persons: []
 related_facts:
-  - "[[University Inc]]"
+  - "[[OECD]]"
+  - "[[Bayh-Dole Act of 1980]]"
 related_arguments:
   - "[[Argument_Boccanfuso_Hall_2025_OrgStrategy]]"
   - "[[Argument_Bouckaert_2023_OECD]]"

@@ -19,6 +19,7 @@ related_concepts:
   - "[[Constructive Alignment]]"
   - "[[SOLO Taxonomy]]"
   - "[[Construct]]"
+  - "[[Self-Regulated Learning]]"
   - "[[Visible Learning]]"
   - "[[Surface and Deep Learning]]"
   - "[[Paradox of the Chinese Learner]]"
@@ -69,7 +70,7 @@ updated: '2026-07-28'
 >
 > 目标以学生需要实施的认知动词表达，教学／学习活动负责引出这些动词，评估任务再判断其表现质量。[[SOLO Taxonomy]]可为理解层次和动词选择提供框架。[[Argument_Biggs_1999_HERD|Biggs (1999, pp. 64–67)]]
 >
-> 任何课程的设计须确保学习活动和评估任务与课程预期的学习结果对齐。学生不应被期望自己"摸索出"要学什么以及成功意味着什么——必须在任何教学或评估之前明确说明成功标准。没有这种对齐，反馈、评估报告和自我调节学习的强大效果就不太可能发生（Hattie, 2015, p.87）。
+> 任何课程的设计须确保学习活动和评估任务与课程预期的学习结果对齐。学生不应被期望自己"摸索出"要学什么以及成功意味着什么——必须在任何教学或评估之前明确说明成功标准。没有这种对齐，反馈、评估报告和[[Self-Regulated Learning|自我调节学习]]的强大效果就不太可能发生（Hattie, 2015, p.87）。
 >
 > Hattie (2015, p.87) 将建构性对齐定位为 [[Visible Learning|VL]] 框架的关键实施要素，连接了明确成功标准（d=0.77）、表层/[[Surface and Deep Learning|深层学习]]比例（d=0.71）和反馈（d=0.73）等 VL 核心原则。
 

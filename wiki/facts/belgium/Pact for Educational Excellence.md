@@ -27,6 +27,7 @@ related_concepts:
   - "[[Evidence-Based Reform]]"
   - "[[Document]]"
   - "[[Paradigm]]"
+  - "[[Research Utilization]]"
   - "[[Educational Evidence Clearinghouses]]"
 related_theories: []
 related_methods:

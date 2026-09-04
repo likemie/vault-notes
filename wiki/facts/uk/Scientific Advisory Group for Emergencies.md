@@ -24,9 +24,14 @@ tags:
   - theme/crisis-governance
   - level/national-policy
 related_concepts:
+  - "[[Sage]]"
+  - "[[Dialogue in Education]]"
+  - "[[Paradigm]]"
   - "[[Post-Normal Science]]"
   - "[[Scientific Uncertainty]]"
   - "[[Public Engagement with Science]]"
+  - "[[Confidence Interval]]"
+  - "[[Hypothesis]]"
 related_theories: []
 related_methods: []
 related_instruments: []

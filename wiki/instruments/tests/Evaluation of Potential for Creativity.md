@@ -24,22 +24,14 @@ tags:
   - method/measurement
 related_concepts:
   - "[[Creativity]]"
-  - "[[Divergent Thinking]]"
-  - "[[Creativity Assessment]]"
   - "[[Creativity Training]]"
-  - "[[Domain Specificity]]"
+  - "[[Inter-Rater Reliability]]"
   - "[[Construct Validity]]"
-related_theories:
-  - "[[Four P Model of Creativity]]"
+  - "[[Domain Specificity]]"
+related_theories: []
 related_methods:
-  - "[[Experimental Research]]"
-  - "[[Meta-analysis]]"
-  - "[[Three-Level Meta-Analysis]]"
-related_instruments:
-  - "[[Torrance Tests of Creative Thinking]]"
-  - "[[Abbreviated Torrance Test for Adults]]"
-  - "[[Test for Creative Thinking-Drawing Production]]"
-  - "[[Alternate Uses Test]]"
+  - "[[Measurement Invariance]]"
+related_instruments: []
 related_persons: []
 related_arguments:
   - "[[Argument_Guo_2025_TSC]]"

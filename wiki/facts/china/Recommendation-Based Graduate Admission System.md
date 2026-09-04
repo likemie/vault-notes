@@ -22,9 +22,9 @@ tags:
 - region/china
 - level/higher-ed
 related_concepts:
+  - "[[Academic Achievement]]"
   - "[[Academic Engagement]]"
   - "[[Credential Inflation]]"
-  - "[[Academic Achievement]]"
   - "[[Intuition-Dependent Mode]]"
   - "[[Cultural Capital]]"
   - "[[Goal-Controlled Mode]]"

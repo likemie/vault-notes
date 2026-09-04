@@ -18,13 +18,21 @@ tags:
   - theme/international-education
   - theme/organizational-governance
   - theme/educational-finance
-related_concepts: []
+related_concepts:
+  - "[[International Schools]]"
+  - "[[International Baccalaureate]]"
+  - "[[Theory of Mind]]"
 related_theories: []
 related_methods: []
 related_instruments: []
-related_persons: []
-related_facts: []
-related_arguments: []
+related_persons:
+  - "[[Gerard Renaud]]"
+  - "[[Gilbert Nicol]]"
+related_facts:
+  - "[[International Baccalaureate North America]]"
+  - "[[IB Expansion in North American Public High Schools 1977-1984]]"
+related_arguments:
+  - "[[Argument_Peterson_1987_OpenCourt_Ch06]]"
 confidence: high
 status: draft
 created: 2026-09-03

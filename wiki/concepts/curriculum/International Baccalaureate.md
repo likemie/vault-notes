@@ -25,6 +25,7 @@ related_concepts:
   - "[[Approaches to Teaching and Learning]]"
   - "[[Theory of Knowledge]]"
   - "[[Theory of Mind]]"
+  - "[[Language Skills]]"
   - "[[IB Diploma Programme]]"
   - "[[Extended Essay]]"
   - "[[Academic Achievement]]"

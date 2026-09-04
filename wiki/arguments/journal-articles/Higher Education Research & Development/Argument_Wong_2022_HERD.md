@@ -33,6 +33,7 @@ related_concepts:
   - "[[Research Literacy]]"
   - "[[Procedural Knowledge]]"
   - "[[Critical Thinking]]"
+  - "[[Language Skills]]"
 related_theories: []
 related_methods:
   - "[[Coding in Qualitative Research]]"

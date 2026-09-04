@@ -52,6 +52,7 @@ related_concepts:
   - "[[Problem Finding]]"
   - "[[Research-Informed Teaching Practice]]"
   - "[[Practice-Based Evidence]]"
+  - "[[Language Skills]]"
   - "[[Document]]"
   - "[[Paradigm]]"
 related_theories:

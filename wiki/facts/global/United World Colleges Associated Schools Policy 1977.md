@@ -16,13 +16,22 @@ fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
 issuing_organization: "United World Colleges International Board"
 tags: [region/global, theme/international-education, theme/network-governance, theme/membership-policy]
-related_concepts: []
+related_concepts:
+  - "[[International Baccalaureate]]"
+  - "[[International Schools]]"
+  - "[[International Education]]"
+  - "[[Network Governance]]"
 related_theories: []
 related_methods: []
 related_instruments: []
-related_persons: []
-related_facts: []
-related_arguments: []
+related_persons:
+  - "[[Louis Mountbatten]]"
+related_facts:
+  - "[[United World Colleges]]"
+  - "[[Transformation of Singapore International School into United World College of South East Asia]]"
+  - "[[Waterford Kamhlaba Admission to United World Colleges]]"
+related_arguments:
+  - "[[Argument_Peterson_1987_OpenCourt_Ch05]]"
 confidence: high
 status: draft
 created: 2026-09-01

@@ -24,6 +24,7 @@ related_concepts:
   - "[[Divergent Thinking]]"
   - "[[Working Memory]]"
   - "[[Effect Size]]"
+  - "[[Academic Achievement]]"
   - "[[Self-Efficacy]]"
   - "[[Construct]]"
   - "[[Heterogeneity]]"

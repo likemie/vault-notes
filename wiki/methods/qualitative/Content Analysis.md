@@ -25,6 +25,7 @@ related_concepts:
   - "[[Memos]]"
   - "[[Research Question]]"
   - "[[Presence]]"
+  - "[[Incubation]]"
   - "[[Emergence]]"
 related_theories: []
 related_methods:

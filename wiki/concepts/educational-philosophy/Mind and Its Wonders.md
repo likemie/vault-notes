@@ -20,6 +20,7 @@ tags:
   - theme/learning
 related_concepts:
   - "[[Metacognition]]"
+  - "[[Language Skills]]"
   - "[[Causality]]"
   - "[[Self-Cultivation]]"
   - "[[Certainty of Knowledge]]"

@@ -44,6 +44,8 @@ related_instruments:
 related_arguments:
   - "[[Argument_Guo_2025_TSC]]"
   - "[[Argument_Runco_2026_CRJ]]"
+related_persons:
+  - "[[Edward de Bono]]"
 confidence: high
 status: active
 created: 2026-09-03

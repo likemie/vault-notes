@@ -31,6 +31,7 @@ related_theories:
   - "[[Item Response Theory]]"
 related_methods:
   - "[[Pilot Testing]]"
+  - "[[Multiple-Choice Questions]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]]"
 confidence: medium

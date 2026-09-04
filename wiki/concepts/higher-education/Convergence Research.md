@@ -23,6 +23,7 @@ related_concepts:
   - "[[Responsible Innovation]]"
 related_facts:
   - "[[National Science Foundation]]"
+  - "[[Parliamentary Office of Science and Technology]]"
 related_arguments:
   - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
 confidence: medium

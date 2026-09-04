@@ -47,6 +47,8 @@ related_theories:
   - "[[Phenomenography]]"
 sources:
   - "[[sources/Biggs_1999_HERD/Biggs_1999_HERD|Biggs_1999_HERD]]"
+related_methods:
+  - "[[Multiple-Choice Questions]]"
 status: draft
 created: 2026-07-28
 updated: 2026-08-03

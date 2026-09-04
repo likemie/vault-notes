@@ -15,6 +15,7 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Research Problem]]"
+  - "[[Incubation]]"
   - "[[Blue Skies Research]]"
 related_theories: []
 related_methods: []
@@ -43,7 +44,7 @@ updated: 2026-06-03
 
 1. **知识生成（Knowledge generation）** 通过跨学科研究产生新知识。在 [[Schlegel-UW Research Institute for Aging|RIA]] 的语境中，知识生成发生在临床医生、科学家和工程师的共同选址空间中，[[Research Problem|研究议题]]覆盖心血管健康、失智症、食品与营养、老年医学、心理健康、行动能力、灵性照护和护理团队建设八个领域（p.253）。
 
-2. **孵化（Incubation）** 发现和开发创新。将第一阶段产生的研究发现转化为具有应用潜力的技术、干预或服务方案。
+2. **孵化（[[Incubation]]）** 发现和开发创新。将第一阶段产生的研究发现转化为具有应用潜力的技术、干预或服务方案。
 
 3. **加速（Acceleration）** 在新环境中扩展和评估创新。不同于实验室验证，加速阶段要求创新在真实使用场景中接受检验。RIA 通过 Schlegel Villages 退休住宅网络创建了这样的"测试台环境"（testbed environment），使加速阶段与终端用户紧密绑定（pp.252–253）。
 

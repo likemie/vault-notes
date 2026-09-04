@@ -50,6 +50,7 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Epistemology]]"
   - "[[Knowledge-that and Know-how-to]]"
+  - "[[Academic Achievement]]"
   - "[[Research Question]]"
   - "[[Questionnaire]]"
   - "[[Operationalization]]"
@@ -123,7 +124,7 @@ updated: 2026-08-29
 ## 核心命题与机制
 
 > [!proposition-chain] 核心命题一｜[[Research Utilization|研究利用]]存在七种质性相异的机制模型并可归纳为四大过程[[Paradigm|范式]]
-> - **前提一** 传统政策与管理学默认“线性技术模型”（Technical-Rational Model），[[Hypothesis|假设]]只要研究质量足够高、结论足够明确，决策者就会据此直接制定政策或调整教学行为。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03|(Cohen et al., 2011, p. 43)]]
+> - **前提一** 传统政策与管理学默认“线性技术模型”（[[Technical Rationality|Technical-Rational Model]]），[[Hypothesis|假设]]只要研究质量足够高、结论足够明确，决策者就会据此直接制定政策或调整教学行为。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03|(Cohen et al., 2011, p. 43)]]
 > - **前提二** 现实中的政策制定与教学实践高度受到价值冲突、政治博弈、制度惯性与认知负荷的制约，研究证据只是多元竞争信息流中的一种输入。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, p. 3)]]
 > - **推导** Weiss (1979) 进而提出解构线性迷思的七种经典模型，并在 1991 年进一步提炼为四种过程范式：
 >   ① **知识驱动模型（Knowledge-Driven Model）** [[Blue Skies Research|基础研究]] $\rightarrow$ [[Evaluation Research|应用研究]] $\rightarrow$ 技术开发 $\rightarrow$ 成果应用，适用于强自然科学或工程[[Research Translation|技术转化]]，但在复杂社会教育情境中往往受限；
@@ -195,7 +196,7 @@ updated: 2026-08-29
 > - **[[Ontology|本体论]]** 将社会实践、教育政策与教学过程理解为充斥着多元价值竞争、不确定性与微观互动的复杂社会系统，否定将实践简化为纯粹机械输入-输出工程的确定论本体观。
 > - **[[Epistemology|认识论]]** 秉持多元认识论（Pluralist Epistemology），认为学术研究提供的命题性知识（[[Knowledge-that and Know-how-to|propositional knowledge]]）并不天然高于实践者的情境性知识（Tacit & Contextual Knowledge），真正的有效利用是多元知识形态在情境中的重构与融合。
 > - **方法含义** 倡导采用[[Mixed Methods Research|混合方法]]、[[Framework Synthesis|框架综合]]、质性追踪与多维度量表测评（如将[[Research Utilization|研究利用]]细分为意识、态度、技能、日常使用等多阶潜[[Variable|变量]]），避免用简单的“用/没用”二分法进行统计。
-> - **不能直接推出的东西** 不能根据某一模型（如启蒙模型）自动证明具体教学改革必然提升学生学业成绩，也不能从理论上论证“[[Conceptual, Instrumental, and Symbolic Use of Research|工具性使用]]必然优于概念性使用”的规范性价值判断。
+> - **不能直接推出的东西** 不能根据某一模型（如启蒙模型）自动证明具体教学改革必然提升学生[[Academic Achievement|学业成绩]]，也不能从理论上论证“[[Conceptual, Instrumental, and Symbolic Use of Research|工具性使用]]必然优于概念性使用”的规范性价值判断。
 
 > [!theory-use] 如何用于研究
 > - **作为理论框架** 用于组织研究使用、[[Knowledge Mobilisation|知识动员]]、循证实践或教育政策执行的[[Research Question|研究问题]]，构建“认知意向 $\rightarrow$ 机制分流 $\rightarrow$ 多维实践表现”的解释逻辑。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|(Kazancı Tınmaz & Sezgin, 2023, pp. 3–5)]]

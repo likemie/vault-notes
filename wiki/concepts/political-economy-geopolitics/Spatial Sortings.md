@@ -36,7 +36,8 @@ related_methods:
   - "[[Coupling Coordination Model]]"
 related_persons:
   - "[[Sami Moisio]]"
-related_facts: []
+related_facts:
+  - "[[Parliamentary Office of Science and Technology]]"
 related_arguments:
   - "[[Argument_Moisio_2022_Springer]]"
   - "[[Argument_Fan_Song_Zhai_2024_RSEE]]"

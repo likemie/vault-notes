@@ -60,8 +60,6 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Theory of Mind]]"
   - "[[Outcomes-based Education]]"
-  - "[[Public Engagement with Science]]"
-  - "[[Dialogue in Education]]"
 related_methods:
   - "[[Survey Research]]"
   - "[[Observation Method]]"
@@ -70,9 +68,6 @@ related_instruments:
   - "[[VALUE Rubrics]]"
 related_persons:
   - "[[Louis Cohen]]"
-  - "[[Walter Bodmer]]"
-  - "[[Carlos Frenk]]"
-  - "[[Sheila Rowan]]"
 related_facts:
   - "[[Science Media Centre]]"
   - "[[Public Attitudes to Science]]"

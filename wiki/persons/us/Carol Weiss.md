@@ -18,8 +18,10 @@ tags:
 related_concepts:
   - "[[Research Utilization]]"
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
+  - "[[Paradigm]]"
   - "[[Evidence-Informed Practice]]"
-related_theories: []
+related_theories:
+  - "[[Research Utilization Models]]"
 related_methods:
   - "[[Framework Synthesis]]"
 related_instruments: []
@@ -88,7 +90,7 @@ updated: 2026-08-26
 > - **政策路径** 其思想进入证据本位与证据知情政策的讨论，成为解释"研究为何没有直接被采纳"的常用框架。
 
 > [!evidence-grid-a]- 相关研究索引
-> - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] 援引 Weiss（1979, 1980）的研究利用模型与知识渗透概念，作为[[Framework Synthesis|框架综合]]先验框架中"研究使用的多重意义"的来源。
+> - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] 援引 Weiss（1979, 1980）的[[Research Utilization Models|研究利用模型]]与知识渗透概念，作为[[Framework Synthesis|框架综合]]先验框架中"研究使用的多重意义"的来源。
 
 ---
 
@@ -114,7 +116,7 @@ updated: 2026-08-26
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Research Utilization Models]] | 理论 | 提出研究利用的七种经典模型与四大过程范式，是条目核心思想源头 |
+> | [[Research Utilization Models]] | 理论 | 提出[[Research Utilization\|研究利用]]的七种经典模型与四大过程[[Paradigm\|范式]]，是条目核心思想源头 |
 > | [[Research Utilization]] | 概念 | 提供研究利用的四种过程模型与"知识渗透"概念，是条目核心来源 |
 > | [[Conceptual, Instrumental, and Symbolic Use of Research]] | 概念 | 七种模型为概念/工具/象征三分类提供起源 |
 > | [[Evidence-Informed Practice]] | 概念 | 其"研究以多种方式影响决策"的主张是 EIP 多源整合思想的早期基础 |

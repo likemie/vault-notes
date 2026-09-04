@@ -40,6 +40,7 @@ related_facts:
   - "[[Citizenship and Social Development]]"
   - "[[Youth Development Blueprint]]"
   - "[[National Education]]"
+  - "[[Parliamentary Office of Science and Technology]]"
   - "[[Liberal Studies]]"
 related_arguments:
   - "[[Argument_Yan_2025_JCS]]"

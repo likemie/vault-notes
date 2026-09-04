@@ -24,6 +24,7 @@ related_concepts:
   - "[[Class Size]]"
   - "[[Homework]]"
   - "[[Ideal Learner]]"
+  - "[[Academic Achievement]]"
   - "[[Nerd]]"
   - "[[Zero-Sum Competition]]"
 related_theories: []

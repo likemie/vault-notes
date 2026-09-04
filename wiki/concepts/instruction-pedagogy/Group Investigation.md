@@ -21,6 +21,7 @@ related_concepts:
   - "[[Cooperative Learning]]"
   - "[[Democratic Education]]"
   - "[[Jigsaw]]"
+  - "[[Brainstorming]]"
   - "[[Research Question]]"
   - "[[Document]]"
   - "[[Cooperative Integrated Reading and Composition]]"

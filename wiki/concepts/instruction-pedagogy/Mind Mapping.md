@@ -22,8 +22,10 @@ tags:
   - theme/creativity
   - cognition/learning-science
 related_concepts:
+  - "[[Brainstorming]]"
   - "[[Divergent Thinking]]"
-  - "[[Cognitive Shifting]]"
+  - "[[Cognitive Flexibility]]"
+  - "[[Lateral Thinking]]"
   - "[[Concept Mapping]]"
   - "[[Argument Mapping]]"
   - "[[Graphic Organizer]]"
@@ -41,6 +43,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Prediction Interval]]"
   - "[[Effect Size]]"
+  - "[[Cognitive Shifting]]"
   - "[[Dependent Variable]]"
   - "[[Creativity Training]]"
 related_theories:

@@ -30,7 +30,6 @@ related_concepts:
   - "[[Theoretical Standpoint]]"
   - "[[Evidence-Based Education]]"
   - "[[Educational Evidence Clearinghouses]]"
-  - "[[Learning Analytics]]"
   - "[[Effect Size]]"
   - "[[External Validity]]"
   - "[[Sample Size Determination]]"

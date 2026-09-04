@@ -23,14 +23,13 @@ tags:
   - theme/higher-education-governance
   - level/higher-education
 related_concepts:
-  - "[[Constructive Alignment]]"
   - "[[Critical Thinking]]"
-  - "[[Higher-Order Thinking Skills]]"
+  - "[[Dialogue in Education]]"
+  - "[[Lifelong Learning]]"
   - "[[Transfer Translation Transformation]]"
 related_theories: []
 related_methods: []
-related_instruments:
-  - "[[CALOHEE Assessment Reference Frameworks]]"
+related_instruments: []
 related_persons: []
 related_facts:
   - "[[Bologna Process]]"

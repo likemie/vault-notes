@@ -55,6 +55,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Informed Consent]]"
   - "[[Emergence]]"
+  - "[[AI Hallucination]]"
   - "[[Construct]]"
 related_theories: []
 related_methods:

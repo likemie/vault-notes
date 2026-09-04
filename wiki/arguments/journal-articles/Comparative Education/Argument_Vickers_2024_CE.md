@@ -54,6 +54,7 @@ related_facts:
   - "[[My Pledge to Act]]"
   - "[[National Education]]"
   - "[[Guangdong-Hong Kong-Macau Greater Bay Area]]"
+  - "[[Parliamentary Office of Science and Technology]]"
 related_arguments: []
 sources:
   - "[[sources/Vickers_2024_CE|Vickers_2024_CE]]"

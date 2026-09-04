@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Boundary Spanner]]"
+  - "[[Language Skills]]"
   - "[[Technology Transfer]]"
   - "[[Questionnaire]]"
 related_theories: []

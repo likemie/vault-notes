@@ -26,6 +26,7 @@ related_concepts:
   - "[[Artefact]]"
   - "[[Hypothesis]]"
   - "[[Questionnaire]]"
+  - "[[Language Skills]]"
   - "[[Document]]"
   - "[[Digital Optimum]]"
   - "[[Assemblage]]"

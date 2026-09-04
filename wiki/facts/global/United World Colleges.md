@@ -21,16 +21,18 @@ tags:
 related_concepts:
   - "[[Network Governance]]"
   - "[[International Schools]]"
+  - "[[International Baccalaureate]]"
   - "[[Space of Flows and Space of Places]]"
   - "[[Transitology]]"
   - "[[Theory of Knowledge]]"
   - "[[International Education]]"
-  - "[[International Baccalaureate]]"
   - "[[Boarding Schools]]"
 related_persons:
   - "[[Louis Mountbatten]]"
 related_arguments:
   - "[[Argument_Peterson_1987_OpenCourt_Ch05]]"
+related_facts:
+  - "[[United World Colleges Associated Schools Policy 1977]]"
 confidence: high
 status: draft
 created: 2026-08-24

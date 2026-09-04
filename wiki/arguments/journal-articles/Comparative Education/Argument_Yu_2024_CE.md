@@ -45,6 +45,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Self-Cultivation]]"
   - "[[Benevolence]]"
+  - "[[AI Hallucination]]"
   - "[[Epistemic Resources]]"
   - "[[Academic Freedom]]"
   - "[[Paradigm]]"

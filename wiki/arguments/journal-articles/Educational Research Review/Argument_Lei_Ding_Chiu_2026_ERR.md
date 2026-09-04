@@ -48,6 +48,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Operationalization]]"
   - "[[Creativity]]"
+  - "[[Brainstorming]]"
   - "[[Document]]"
   - "[[Critical Thinking]]"
   - "[[Inter-Rater Reliability]]"

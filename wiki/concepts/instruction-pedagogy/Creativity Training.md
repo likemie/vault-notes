@@ -30,15 +30,20 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Divergent Thinking]]"
   - "[[Reflexivity]]"
+  - "[[SCAMPER]]"
   - "[[Constructivist Paradigm]]"
   - "[[Problem-Based Learning]]"
   - "[[Externalization]]"
   - "[[Concept Mapping]]"
   - "[[Mind Mapping]]"
+  - "[[Cognitive Shifting]]"
   - "[[Problem Finding]]"
+  - "[[Lateral Thinking]]"
   - "[[Metacognition]]"
   - "[[Hypothesis]]"
+  - "[[Brainstorming]]"
   - "[[Structured Teaching]]"
+  - "[[Incubation]]"
   - "[[Variable]]"
   - "[[Habituation]]"
   - "[[Task Structure]]"
@@ -63,7 +68,8 @@ related_methods:
 related_instruments:
   - "[[Alternate Uses Test]]"
   - "[[Torrance Tests of Creative Thinking]]"
-related_persons: []
+related_persons:
+  - "[[Edward de Bono]]"
 related_arguments:
   - "[[Argument_Runco_2026_CRJ]]"
   - "[[Argument_Guo_2025_TSC]]"

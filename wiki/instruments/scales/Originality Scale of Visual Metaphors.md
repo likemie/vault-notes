@@ -23,21 +23,13 @@ tags:
   - method/measurement
 related_concepts:
   - "[[Creativity]]"
-  - "[[Creativity Assessment]]"
-  - "[[Creativity Training]]"
-  - "[[Problem Finding]]"
-  - "[[Construct Validity]]"
+  - "[[Rating Scale]]"
+  - "[[Paradigm]]"
   - "[[Inter-Rater Reliability]]"
-related_theories:
-  - "[[Four P Model of Creativity]]"
-related_methods:
-  - "[[Experimental Research]]"
-  - "[[Meta-analysis]]"
-  - "[[Three-Level Meta-Analysis]]"
-related_instruments:
-  - "[[Consensual Assessment Technique]]"
-  - "[[Test for Creative Thinking-Drawing Production]]"
-  - "[[Creative Engineering Design Assessment]]"
+  - "[[Creativity Assessment]]"
+related_theories: []
+related_methods: []
+related_instruments: []
 related_persons: []
 related_arguments:
   - "[[Argument_Guo_2025_TSC]]"

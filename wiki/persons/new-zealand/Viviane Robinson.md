@@ -21,6 +21,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[School Leadership]]"
   - "[[Transformative Leadership]]"
+  - "[[Academic Achievement]]"
   - "[[Effect Size]]"
   - "[[Visible Learning]]"
   - "[[Return on Investment]]"
@@ -67,7 +68,7 @@ updated: 2026-06-09
 ## 核心思想
 
 > [!tip]-
-> - **倡导以改善教学为导向的领导力** 通过对27项实证研究的[[Meta-analysis|元分析]]，罗宾逊证实[[Transformative Leadership|变革型领导力]]（Transformational Leadership）在提升学生学业成绩方面的直接效应不明显，而直接聚焦于课程与教师支持的[[Instructional Leadership|教学领导力]]（[[Instructional Leadership]]）[[Effect Size|效应量]]显著更高。由此，她成功在主流学校管理学术界扭转了变革型领导力的霸权地位。 ([[Argument_Eacott_2017_SLM|Eacott, 2017, p. 417]])
+> - **倡导以改善教学为导向的领导力** 通过对27项实证研究的[[Meta-analysis|元分析]]，罗宾逊证实[[Transformative Leadership|变革型领导力]]（Transformational Leadership）在提升学生[[Academic Achievement|学业成绩]]方面的直接效应不明显，而直接聚焦于课程与教师支持的[[Instructional Leadership|教学领导力]]（[[Instructional Leadership]]）[[Effect Size|效应量]]显著更高。由此，她成功在主流学校管理学术界扭转了变革型领导力的霸权地位。 ([[Argument_Eacott_2017_SLM|Eacott, 2017, p. 417]])
 > - **效应量化改进维度的引入** 罗宾逊首次将“[[Effect Size|效应量]]”的概念系统地引入学校管理和领导力评价领域，通过量化计算归纳出领导力影响学生成绩的五个主要维度，使抽象的学校改进任务转化为可测量、可决策的实证依据。
 
 ---

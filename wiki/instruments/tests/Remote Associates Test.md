@@ -21,6 +21,7 @@ tags:
   - instrument/test
 related_concepts:
   - "[[Creativity]]"
+  - "[[Creativity Assessment]]"
   - "[[Critical Thinking]]"
   - "[[Divergent Thinking]]"
   - "[[Construct]]"
@@ -33,6 +34,7 @@ related_persons: []
 related_arguments:
   - "[[Argument_Park_2026_TSC]]"
   - "[[Argument_Runco_2026_CRJ]]"
+  - "[[Argument_Guo_2025_TSC]]"
 confidence: medium
 status: draft
 created: 2026-08-25

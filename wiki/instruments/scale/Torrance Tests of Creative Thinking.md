@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Creativity]]"
   - "[[Divergent Thinking]]"
+  - "[[Creativity Assessment]]"
   - "[[Predictive Validity]]"
   - "[[Reliability]]"
   - "[[Inter-Rater Reliability]]"

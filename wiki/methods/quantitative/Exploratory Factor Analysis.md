@@ -28,7 +28,8 @@ related_methods:
 related_instruments:
   - "[[Schommer's Modified Epistemological Questionnaire]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Sense about Science]]"
 related_arguments:
   - "[[Argument_Bergeron_2015_TeachingTOK]]"
   - "[[Argument_Lodewyk_2007_EP]]"

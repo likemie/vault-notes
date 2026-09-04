@@ -48,6 +48,8 @@ related_methods:
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04]]"
+related_facts:
+  - "[[Parliamentary Office of Science and Technology]]"
 confidence: medium
 status: draft
 created: 2026-07-12

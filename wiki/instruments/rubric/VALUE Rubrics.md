@@ -32,6 +32,7 @@ related_concepts:
   - "[[Creativity]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Problem Finding]]"
+  - "[[Research Utilization]]"
   - "[[Reliability]]"
   - "[[Hypothesis]]"
   - "[[Ecological Validity]]"

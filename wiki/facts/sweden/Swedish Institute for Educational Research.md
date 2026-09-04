@@ -21,6 +21,7 @@ tags:
   - theme/systematic-review
   - policy/evidence-informed-policy
 related_concepts:
+  - "[[Research Utilization]]"
   - "[[Dialogue in Education]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Educational Evidence Clearinghouses]]"

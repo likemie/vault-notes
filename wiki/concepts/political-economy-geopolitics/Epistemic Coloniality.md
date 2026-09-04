@@ -33,7 +33,8 @@ related_theories:
   - "[[Decolonial Geopolitics of Knowledge]]"
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Parliamentary Office of Science and Technology]]"
 related_arguments:
   - "[[Argument_Yu_Xie_2025_JHE]]"
 confidence: medium

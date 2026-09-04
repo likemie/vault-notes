@@ -31,6 +31,7 @@ related_methods:
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Norwegian Agency for Quality Assurance in Education]]"
   - "[[OECD]]"
 related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"

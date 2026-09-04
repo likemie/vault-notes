@@ -29,9 +29,11 @@ related_concepts:
   - "[[Rote Learning]]"
 related_theories: []
 related_methods: []
-related_instruments: []
+related_instruments:
+  - "[[Test of Teaching Knowledge]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Educational Testing Service]]"
 related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
 confidence: high

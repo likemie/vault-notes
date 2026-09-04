@@ -26,6 +26,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Paradigm]]"
   - "[[Cognitive Apprenticeship]]"
+  - "[[Generative Artificial Intelligence]]"
   - "[[Intelligent Tutoring Systems]]"
   - "[[Peer-Supported Learning]]"
   - "[[Dependent Variable]]"

@@ -35,6 +35,7 @@ related_concepts:
   - "[[Theory of Knowledge]]"
   - "[[Praxis]]"
   - "[[General Education]]"
+  - "[[Advanced Placement Program]]"
   - "[[International Education]]"
   - "[[Reliability]]"
   - "[[Conatus]]"

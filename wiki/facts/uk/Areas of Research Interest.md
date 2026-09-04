@@ -23,15 +23,18 @@ tags:
   - theme/evidence-based-policy
   - theme/higher-education
   - theme/research-governance
-related_concepts: []
+related_concepts:
+  - "[[Pragmatic Paradigm]]"
+  - "[[Research Utilization]]"
 related_theories:
   - "[[Quality Use of Research Evidence Framework]]"
 related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
-  - "[[Rothschild Report 1971]]"
   - "[[Government Office for Science]]"
+  - "[[Rothschild Report 1971]]"
+  - "[[Research Excellence Framework]]"
 related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05]]"
 confidence: high

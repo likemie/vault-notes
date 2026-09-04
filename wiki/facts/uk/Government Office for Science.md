@@ -21,13 +21,15 @@ tags:
   - theme/research-governance
   - level/national-policy
 related_concepts:
-  - "[[Paradigm]]"
+  - "[[Research Question]]"
   - "[[Sage]]"
+  - "[[Paradigm]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Areas of Research Interest]]"
   - "[[Scientific Advisory Group for Emergencies]]"
   - "[[Rothschild Report 1971]]"
   - "[[Parliamentary Office of Science and Technology]]"

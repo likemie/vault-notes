@@ -54,6 +54,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Chain of Evidence]]"
   - "[[Presence]]"
+  - "[[Incubation]]"
   - "[[Epoché]]"
   - "[[Analytic Induction]]"
 related_theories:

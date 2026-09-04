@@ -53,6 +53,7 @@ related_methods:
   - "[[Quasi-Experimental Designs]]"
   - "[[Cluster Randomized Trials]]"
   - "[[Random Assignment]]"
+  - "[[Baseline Standardized Mean Difference]]"
   - "[[Covariate Adjustment]]"
 related_instruments: []
 related_persons: []

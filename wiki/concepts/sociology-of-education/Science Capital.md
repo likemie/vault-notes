@@ -21,6 +21,7 @@ related_concepts:
   - "[[Scientific Attitude]]"
 related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
+  - "[[Argument_RoyalSociety_2026_ScienceForSociety]]"
 related_theories:
   - "[[Social Capital Theory]]"
 related_facts:

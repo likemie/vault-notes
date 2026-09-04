@@ -82,6 +82,7 @@ related_methods:
 related_persons: []
 related_facts:
   - "[[Stanford Prison Experiment]]"
+  - "[[Parliamentary Office of Science and Technology]]"
   - "[[RAiSE Programme]]"
 related_arguments: []
 sources:

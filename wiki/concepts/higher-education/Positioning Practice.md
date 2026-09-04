@@ -28,6 +28,7 @@ related_methods:
   - "[[Discourse Analysis]]"
 related_persons: []
 related_facts:
+  - "[[Parliamentary Office of Science and Technology]]"
   - "[[National Science Foundation]]"
   - "[[CNRS]]"
 related_arguments:

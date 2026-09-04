@@ -20,6 +20,7 @@ tags:
 - accountability
 - region/uk
 related_concepts:
+  - "[[Research Utilization]]"
   - "[[Moral Sidestep]]"
   - "[[Justified Warrants]]"
   - "[[Evidence-Based Education]]"

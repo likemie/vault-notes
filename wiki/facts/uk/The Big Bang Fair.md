@@ -23,15 +23,19 @@ tags:
   - level/secondary-education
   - theme/industry-collaboration
 related_concepts:
+  - "[[Assemblage]]"
   - "[[Science Capital]]"
-  - "[[Informal Science Learning]]"
+  - "[[Self-Efficacy]]"
   - "[[Public Engagement with Science]]"
-  - "[[Scientific Literacy]]"
+  - "[[Rote Learning]]"
+  - "[[Creativity]]"
+  - "[[Informal Science Learning]]"
+  - "[[Paradigm]]"
 related_facts:
   - "[[EngineeringUK]]"
-  - "[[UK Science Education Tracker]]"
   - "[[Gatsby Benchmarks]]"
-  - "[[CREST Awards]]"
+  - "[[The Social Value Model]]"
+  - "[[UK Science Education Tracker]]"
 related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"

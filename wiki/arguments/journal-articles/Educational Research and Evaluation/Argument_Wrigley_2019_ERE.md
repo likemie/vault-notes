@@ -32,6 +32,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Hypothesis]]"
   - "[[Document]]"
+  - "[[Research Utilization]]"
   - "[[Emergence]]"
   - "[[Effect Size]]"
   - "[[Causality]]"

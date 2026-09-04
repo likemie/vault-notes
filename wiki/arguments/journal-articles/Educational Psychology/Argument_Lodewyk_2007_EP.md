@@ -26,6 +26,7 @@ related_concepts:
   - "[[Questionnaire]]"
   - "[[Growth]]"
   - "[[Analytic Framework]]"
+  - "[[Self-Regulated Learning]]"
   - "[[Hypothesis]]"
   - "[[Order Effects]]"
   - "[[Rote Learning]]"

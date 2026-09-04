@@ -49,10 +49,12 @@ related_concepts:
   - "[[Areas of Knowledge]]"
   - "[[Dialogue in Education]]"
   - "[[Face Validity]]"
+  - "[[Language Skills]]"
   - "[[Praxis]]"
   - "[[Conatus]]"
 related_theories: []
 related_methods:
+  - "[[Multiple-Choice Questions]]"
   - "[[Pilot Testing]]"
 related_instruments: []
 related_persons:

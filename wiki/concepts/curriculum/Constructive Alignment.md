@@ -33,6 +33,7 @@ related_concepts:
   - "[[Learning Gap]]"
   - "[[Document]]"
   - "[[Operationalization]]"
+  - "[[Academic Achievement]]"
   - "[[Constructivist Paradigm]]"
   - "[[Outcomes-based Education]]"
   - "[[Visible Learning]]"
@@ -41,7 +42,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Critical Thinking]]"
   - "[[Effect Size]]"
-  - "[[Academic Achievement]]"
   - "[[Feedback]]"
 related_theories: []
 related_methods:

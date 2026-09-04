@@ -23,6 +23,7 @@ related_concepts:
   - "[[Questionnaire]]"
   - "[[Rating Scale]]"
   - "[[Hypothesis]]"
+  - "[[Language Skills]]"
   - "[[Leading Questions]]"
   - "[[Interviewer Effects]]"
   - "[[Hawthorne Effect]]"

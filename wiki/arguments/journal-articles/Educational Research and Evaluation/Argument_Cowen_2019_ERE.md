@@ -39,6 +39,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Hypothesis]]"
   - "[[Effect Size]]"
+  - "[[Research Utilization]]"
   - "[[Policy Borrowing]]"
 related_theories:
   - "[[Tullock's Bureaucracy Theory]]"

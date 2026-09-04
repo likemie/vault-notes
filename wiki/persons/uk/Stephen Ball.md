@@ -44,7 +44,8 @@ related_methods:
 related_persons:
   - "[[Basil Bernstein]]"
   - "[[John Hattie]]"
-related_facts: []
+related_facts:
+  - "[[Parliamentary Office of Science and Technology]]"
 related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
   - "[[Argument_Ball_2008_SR]]"
@@ -84,7 +85,7 @@ updated: 2026-07-13
 ## 生平与职涯
 
 > [!timeline] 生平与职涯
-> - **1994 年** 出版著作 *Education Reform: A Critical and Post-structural Approach*，提出著名的五重政策语境[[Analytic Framework|分析框架]]。
+> - **1994 年** 出版著作 *Education Reform: A Critical and [[Parliamentary Office of Science and Technology|POST]]-structural Approach*，提出著名的五重政策语境[[Analytic Framework|分析框架]]。
 > - **2008 年** 发表 *Some sociologies of education*，以福柯的 “目光” 概念重写英国教育社会学史，批判[[School Effectiveness|学校效能]]研究沦为可审计的权力技术。
 > - **2008 年** 与 Deborah Youdell 合作发布关于[[Endogenous and Exogenous Privatisation|教育私有化]]的重要报告，识别出公立学校系统的内生与外生私有化趋势。
 > - **2012 年** 出版 *Global Education Inc.*，分析全球教育私有化进程中跨国[[Policy Entrepreneur|政策创业者]]的网络网络与流动。
@@ -94,7 +95,7 @@ updated: 2026-07-13
 ## 主要著作与思想发展
 
 > [!work-line] 主要著作
-> - **1994 — *Education Reform: A Critical and Post-structural Approach***：奠定了政策社会学的批判框架，系统阐明了政策文本的语境、实践与结果交互。 ([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 1–2]])
+> - **1994 — *Education Reform: A Critical and [[Parliamentary Office of Science and Technology|POST]]-structural Approach***：奠定了政策社会学的批判框架，系统阐明了政策文本的语境、实践与结果交互。 ([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 1–2]])
 > - **2008 — *Some sociologies of education: A history of problems and places, and segments and gazes***：批判性总结了教育社会学史，揭示量化指标如何把学校重构为可审计和可[[Governing by Numbers|数字治理]]的组织。 ([[Argument_Ball_2008_SR|Ball, 2008, pp. 650-669]])
 > - **2008 — *Hidden privatisation in public education***：与 Deborah Youdell 合作，系统梳理了[[Endogenous and Exogenous Privatisation|内生与外生私有化]]趋势，成为研究教育私有化的核心[[Document|文献]]。 ([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p. 4]])
 

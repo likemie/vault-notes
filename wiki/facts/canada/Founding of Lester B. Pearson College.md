@@ -15,13 +15,19 @@ fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#fef3c7"
 tags: [region/canada, theme/international-education, theme/institution-building, theme/scholarship-policy]
-related_concepts: []
+related_concepts:
+  - "[[International Baccalaureate]]"
+  - "[[Network Governance]]"
 related_theories: []
 related_methods: []
 related_instruments: []
-related_persons: []
-related_facts: []
-related_arguments: []
+related_persons:
+  - "[[Louis Mountbatten]]"
+related_facts:
+  - "[[United World Colleges]]"
+  - "[[Transformation of Singapore International School into United World College of South East Asia]]"
+related_arguments:
+  - "[[Argument_Peterson_1987_OpenCourt_Ch05]]"
 confidence: high
 status: draft
 created: 2026-09-01

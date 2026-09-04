@@ -17,6 +17,7 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Variable]]"
+  - "[[Academic Achievement]]"
   - "[[Research Writing Script]]"
 related_theories: []
 related_methods:

@@ -58,6 +58,7 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Operationalization]]"
   - "[[Scientism]]"
+  - "[[AI Hallucination]]"
   - "[[Interpretive Paradigm]]"
   - "[[Self-Efficacy]]"
   - "[[Epoché]]"
@@ -116,7 +117,8 @@ related_persons:
   - "[[Alfred Schutz]]"
   - "[[Harold Garfinkel]]"
   - "[[George Herbert Mead]]"
-related_facts: []
+related_facts:
+  - "[[Parliamentary Office of Science and Technology]]"
 related_arguments: []
 sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"

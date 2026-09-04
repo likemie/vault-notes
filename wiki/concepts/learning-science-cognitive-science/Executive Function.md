@@ -15,7 +15,7 @@ tags:
   - cognitive-science
 related_concepts:
   - "[[Working Memory]]"
-  - "[[Cognitive Shifting]]"
+  - "[[Cognitive Flexibility]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Academic Achievement]]"
   - "[[Creativity]]"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Updating and Monitoring]]"
   - "[[Prefrontal Cortex]]"
   - "[[Cognitive Inhibition]]"
+  - "[[Cognitive Shifting]]"
   - "[[Growth]]"
 related_theories: []
 related_methods:

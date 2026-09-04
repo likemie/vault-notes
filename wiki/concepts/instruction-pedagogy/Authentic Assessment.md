@@ -28,6 +28,7 @@ related_concepts:
   - "[[Ecological Validity]]"
   - "[[Formative Assessment]]"
   - "[[Surface and Deep Learning]]"
+  - "[[Self-Regulated Learning]]"
   - "[[Feedback]]"
   - "[[Hypothesis]]"
   - "[[Assessment Backwash]]"
@@ -35,6 +36,7 @@ related_concepts:
   - "[[Constructive Alignment]]"
 related_theories: []
 related_methods:
+  - "[[Multiple-Choice Questions]]"
   - "[[Systematic Review]]"
 related_instruments:
   - "[[VALUE Rubrics]]"

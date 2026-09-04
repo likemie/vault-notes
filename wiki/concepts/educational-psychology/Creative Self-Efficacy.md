@@ -53,6 +53,7 @@ related_concepts:
   - "[[Predictive Validity]]"
   - "[[Problem-Based Learning]]"
 related_theories:
+  - "[[TRIZ]]"
   - "[[Four P Model of Creativity]]"
   - "[[Creative Problem Solving]]"
 related_methods:

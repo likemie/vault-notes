@@ -22,6 +22,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Hypothesis]]"
   - "[[Professional Judgment]]"
+  - "[[Synectics]]"
   - "[[Analytic Framework]]"
   - "[[Document]]"
 related_theories:

@@ -39,6 +39,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Creative Self-Efficacy]]"
   - "[[Questionnaire]]"
+  - "[[Creativity Assessment]]"
   - "[[Document]]"
   - "[[Critical Thinking Assessment]]"
   - "[[Standard Error]]"
@@ -49,6 +50,7 @@ related_concepts:
   - "[[Critical Thinking Disposition]]"
   - "[[Self-Efficacy]]"
   - "[[Computational Thinking]]"
+  - "[[Cognitive Flexibility]]"
   - "[[Sample Size Determination]]"
   - "[[Funnel Plot]]"
   - "[[Literature Search]]"
@@ -56,6 +58,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Predictive Validity]]"
   - "[[Effective Teaching]]"
+  - "[[Brainstorming]]"
 related_theories:
   - "[[Creative Problem Solving]]"
 related_methods:

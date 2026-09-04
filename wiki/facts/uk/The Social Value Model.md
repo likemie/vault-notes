@@ -31,6 +31,7 @@ related_instruments:
   - "[[VALUE Rubrics]]"
 related_persons: []
 related_facts:
+  - "[[Promising Practices Network]]"
   - "[[Association for Science and Discovery Centres]]"
 related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04]]"

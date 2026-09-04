@@ -49,6 +49,7 @@ related_arguments:
   - "[[Argument_Wang_2025_CE]]"
 related_facts:
   - "[[Gaokao]]"
+  - "[[Parliamentary Office of Science and Technology]]"
 confidence: medium
 status: draft
 created: 2026-05-26

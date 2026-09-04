@@ -45,6 +45,8 @@ related_methods:
 related_instruments: []
 related_arguments:
   - "[[Argument_Guo_2025_TSC]]"
+related_persons:
+  - "[[Alex Osborn]]"
 confidence: high
 status: active
 created: 2026-09-03

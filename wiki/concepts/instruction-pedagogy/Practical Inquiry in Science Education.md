@@ -21,6 +21,7 @@ related_concepts:
   - "[[Variable]]"
 related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
+  - "[[Argument_RoyalSociety_2026_ScienceForSociety]]"
 related_facts:
   - "[[CREST Awards]]"
   - "[[Institute for Research in Schools]]"

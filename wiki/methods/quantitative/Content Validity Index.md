@@ -22,6 +22,10 @@ tags:
   - theme/scale-development
 related_concepts:
   - "[[Content Validity]]"
+  - "[[Questionnaire]]"
+  - "[[Professional Judgment]]"
+  - "[[Construct]]"
+  - "[[Rating Scale]]"
   - "[[Item Analysis]]"
 related_theories: []
 related_methods:

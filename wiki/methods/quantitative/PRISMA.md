@@ -63,6 +63,7 @@ related_arguments:
   - "[[Argument_Song_Choi_2026_FPSYG]]"
   - "[[Argument_Abrami_2015_RER]]"
   - "[[Argument_Mausethagen_2025_ERR]]"
+  - "[[Argument_Li_2026_CEAI]]"
 confidence: high
 status: draft
 created: 2026-08-25

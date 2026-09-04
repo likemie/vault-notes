@@ -20,6 +20,7 @@ tags:
 - learning-science
 - cognitive-science
 related_concepts:
+  - "[[Cognitive Flexibility]]"
   - "[[Executive Function]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Creativity]]"

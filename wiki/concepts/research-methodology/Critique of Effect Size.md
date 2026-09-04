@@ -26,6 +26,7 @@ related_concepts:
   - "[[Pre-test and Post-test]]"
   - "[[Visible Learning]]"
   - "[[Creativity]]"
+  - "[[Creativity Assessment]]"
   - "[[Class Size]]"
   - "[[Whole Language]]"
   - "[[Academic Achievement]]"

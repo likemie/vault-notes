@@ -29,7 +29,8 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Ecological Validity]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Multiple-Choice Questions]]"
 related_instruments:
   - "[[Collegiate Learning Assessment]]"
 related_persons: []

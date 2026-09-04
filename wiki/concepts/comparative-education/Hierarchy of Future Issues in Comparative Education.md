@@ -25,6 +25,7 @@ related_methods: []
 related_persons:
   - "[[Robert Cowen]]"
 related_facts:
+  - "[[Parliamentary Office of Science and Technology]]"
   - "[[PISA]]"
 related_arguments:
   - "[[Argument_Cowen_2023_CE]]"

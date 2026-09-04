@@ -16,6 +16,7 @@ tags:
 related_concepts:
   - "[[Visible Learning]]"
   - "[[Paradigm]]"
+  - "[[Language Skills]]"
   - "[[Effect Size]]"
   - "[[Bildung]]"
 related_theories:

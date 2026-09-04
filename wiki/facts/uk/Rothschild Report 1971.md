@@ -25,6 +25,7 @@ tags:
 related_concepts:
   - "[[Evaluation Research]]"
   - "[[Research Question]]"
+  - "[[Attrition]]"
   - "[[Public Engagement with Science]]"
 related_theories: []
 related_methods: []
@@ -33,6 +34,7 @@ related_persons: []
 related_facts:
   - "[[The Green Book]]"
   - "[[Government Office for Science]]"
+  - "[[Areas of Research Interest]]"
   - "[[Bodmer Report 1985]]"
 related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05]]"

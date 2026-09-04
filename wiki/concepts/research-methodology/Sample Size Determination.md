@@ -35,7 +35,8 @@ related_methods:
   - "[[Random Sampling]]"
   - "[[Meta-regression]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Parliamentary Office of Science and Technology]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08]]"
 confidence: medium

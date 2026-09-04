@@ -29,6 +29,9 @@ related_facts:
   - "[[International Schools Association]]"
   - "[[International Schools Examination Syndicate]]"
   - "[[English Schools Foundation Hong Kong]]"
+  - "[[Transformation of Singapore International School into United World College of South East Asia]]"
+  - "[[United World Colleges Associated Schools Policy 1977]]"
+  - "[[Waterford Kamhlaba Admission to United World Colleges]]"
 related_arguments:
   - "[[Argument_Peterson_1987_OpenCourt_Ch02]]"
   - "[[Argument_Slethaug_2010_InternationalEducation]]"

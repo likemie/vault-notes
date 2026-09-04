@@ -18,6 +18,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Paradigm]]"
   - "[[Hypothesis]]"
+  - "[[Lateral Thinking]]"
   - "[[Professional Judgment]]"
 related_theories: []
 related_methods: []

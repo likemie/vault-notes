@@ -32,6 +32,7 @@ related_concepts:
   - "[[Knowledge Framework]]"
   - "[[Reliability]]"
   - "[[Critical Thinking]]"
+  - "[[Advanced Placement Program]]"
   - "[[Academic Achievement]]"
   - "[[Document]]"
   - "[[Questionnaire]]"
@@ -39,6 +40,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Observation Method]]"
+  - "[[Multiple-Choice Questions]]"
   - "[[Focus Group]]"
   - "[[Mixed Methods Research]]"
 related_instruments: []

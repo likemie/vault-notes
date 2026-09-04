@@ -47,6 +47,8 @@ related_persons: []
 related_arguments:
   - "[[Argument_Brady_2023_EPR]]"
   - "[[Argument_Lekhal_2015_Paideia]]"
+related_facts:
+  - "[[Parliamentary Office of Science and Technology]]"
 confidence: medium
 status: draft
 created: 2026-05-05

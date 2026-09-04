@@ -29,11 +29,13 @@ related_concepts:
   - "[[Constructive Alignment]]"
 related_theories: []
 related_methods: []
-related_instruments: []
+related_instruments:
+  - "[[CALOHEE Assessment Reference Frameworks]]"
 related_persons: []
 related_facts:
   - "[[Tuning Project]]"
   - "[[Bologna Process]]"
+  - "[[Dublin Descriptors]]"
 related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
 confidence: high

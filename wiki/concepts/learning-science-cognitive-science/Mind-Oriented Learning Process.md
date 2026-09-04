@@ -21,6 +21,7 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Active Learning]]"
   - "[[Western Learner]]"
+  - "[[Self-Regulated Learning]]"
   - "[[Metacognition]]"
   - "[[Hypothesis]]"
   - "[[Research Topic]]"

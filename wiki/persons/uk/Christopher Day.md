@@ -16,6 +16,7 @@ tags:
 - region/uk
 related_concepts:
   - "[[School Leadership]]"
+  - "[[Academic Achievement]]"
   - "[[Paradigm]]"
   - "[[Analytic Framework]]"
   - "[[Champ]]"
@@ -43,7 +44,7 @@ updated: '2026-06-08'
 > Day 领导下的 ISSPP 研究以对**情境敏感（context-sensitive）**为方法论指导原则，其目标不是生产另一个去情境化的"成功领导者应该做什么"清单，而是理解在什么文化、社会和政治条件下领导力被认为是成功的([[Argument_Møller_2017_EERJ|Møller, 2017, p.379]])。
 >
 > ISSPP 对"成功"的定义涵盖两个维度：
-> - 学生学业成绩的提高
+> - 学生[[Academic Achievement|学业成绩]]的提高
 > - 学生福祉、公民意识和价值观的改善
 >
 > 在 ISSPP 研究中，校长的教育愿景价值观在跨国家比较中显示出"相似性多于差异性"([[Argument_Møller_2017_EERJ|Møller, 2017, p.379-380]])。

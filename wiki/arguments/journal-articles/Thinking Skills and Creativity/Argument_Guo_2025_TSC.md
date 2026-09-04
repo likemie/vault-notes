@@ -31,6 +31,7 @@ related_concepts:
   - "[[Brainstorming]]"
   - "[[Lateral Thinking]]"
   - "[[Synectics]]"
+  - "[[SCAMPER]]"
   - "[[Operationalization]]"
   - "[[Construct]]"
   - "[[Pre-test and Post-test]]"
@@ -52,7 +53,6 @@ related_concepts:
   - "[[Mind Mapping]]"
   - "[[Concept Mapping]]"
   - "[[Metacognition]]"
-  - "[[SCAMPER]]"
   - "[[Executive Function]]"
   - "[[Critical Thinking]]"
   - "[[Generative Artificial Intelligence]]"
@@ -80,6 +80,8 @@ related_instruments:
 related_persons:
   - "[[Edward de Bono]]"
   - "[[Alex Osborn]]"
+  - "[[Genrich Altshuller]]"
+  - "[[Paul B. Paulus]]"
 related_facts: []
 related_arguments: []
 sources:

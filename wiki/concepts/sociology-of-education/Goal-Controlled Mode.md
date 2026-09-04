@@ -25,11 +25,11 @@ related_concepts:
   - "[[Self-Authorship]]"
   - "[[Self-Driven Mode]]"
   - "[[Opportunist Mode]]"
+  - "[[Academic Achievement]]"
   - "[[Academic and Social Integration]]"
   - "[[Student Engagement]]"
   - "[[Social Engagement]]"
   - "[[Dialogue in Education]]"
-  - "[[Academic Achievement]]"
   - "[[Graduation Pathway Typology]]"
 related_theories:
   - "[[Culture as Toolkit]]"

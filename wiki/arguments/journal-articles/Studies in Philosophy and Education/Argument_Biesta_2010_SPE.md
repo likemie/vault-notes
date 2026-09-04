@@ -34,6 +34,8 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Causality]]"
   - "[[Reflexivity]]"
+  - "[[Research Utilization]]"
+  - "[[Academic Achievement]]"
   - "[[Complexity Reduction]]"
   - "[[Value-Based Education]]"
   - "[[Phronesis]]"

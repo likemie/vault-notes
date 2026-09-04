@@ -41,6 +41,8 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
   - "[[Argument_Berk_2011_ER]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15]]"
+related_facts:
+  - "[[Parliamentary Office of Science and Technology]]"
 confidence: low
 status: draft
 created: 2026-05-03

@@ -24,11 +24,18 @@ tags:
   - theme/divergent-thinking
   - method/measurement
 related_concepts:
-  - "[[Creativity]]"
   - "[[Divergent Thinking]]"
+  - "[[Creativity]]"
+  - "[[Criterion-Referenced Test]]"
+  - "[[Hypothesis]]"
+  - "[[Construct Validity]]"
+  - "[[Cultural Validity]]"
+  - "[[Creativity Assessment]]"
+  - "[[Going Native]]"
 related_theories: []
 related_methods: []
-related_instruments: []
+related_instruments:
+  - "[[Torrance Tests of Creative Thinking]]"
 related_persons: []
 related_arguments:
   - "[[Argument_Guo_2025_TSC]]"

@@ -30,11 +30,11 @@ related_concepts:
   - "[[Questionnaire]]"
   - "[[Divergent Thinking]]"
   - "[[Problem Finding]]"
+  - "[[Academic Achievement]]"
   - "[[Heterogeneity]]"
   - "[[Variable]]"
-  - "[[Academic Achievement]]"
   - "[[Ecological Validity]]"
-  - "[[Cognitive Shifting]]"
+  - "[[Cognitive Flexibility]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"

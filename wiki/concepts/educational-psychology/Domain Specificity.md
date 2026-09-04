@@ -48,6 +48,7 @@ related_concepts:
   - "[[Epistemic Cognition]]"
   - "[[Academic Achievement]]"
   - "[[Interaction Effect]]"
+  - "[[Creativity Assessment]]"
 related_theories: []
 related_methods:
   - "[[Confirmatory Factor Analysis]]"

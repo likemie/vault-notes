@@ -19,6 +19,43 @@ tags:
   - systematic-review
   - methodology
   - evidence-based-education
+related_concepts:
+  - "[[Document]]"
+  - "[[Heterogeneity]]"
+  - "[[Creativity]]"
+  - "[[Epistemology]]"
+  - "[[Intercoder Agreement]]"
+  - "[[Effect Size]]"
+  - "[[Qualitative Codebook]]"
+  - "[[Primary and Secondary Documents]]"
+  - "[[Research Question]]"
+  - "[[Critical Thinking]]"
+  - "[[Educational Affordances]]"
+  - "[[Construct]]"
+  - "[[Rich and Thick Description]]"
+  - "[[External Validity]]"
+  - "[[Audit Trail]]"
+  - "[[Reflexivity]]"
+  - "[[Literature Search]]"
+related_theories:
+  - "[[Critical Realism]]"
+  - "[[Third Generation Activity Theory]]"
+  - "[[Cognitive Load Theory]]"
+related_methods:
+  - "[[Systematic Review]]"
+  - "[[Qualitative Research]]"
+  - "[[Ethnography]]"
+  - "[[Coding in Qualitative Research]]"
+  - "[[Mixed Methods Research]]"
+  - "[[Descriptive Methods]]"
+  - "[[Constant Comparison]]"
+  - "[[Meta-analysis]]"
+  - "[[PRISMA]]"
+  - "[[Theoretical Sampling]]"
+related_instruments:
+  - "[[Mixed Methods Appraisal Tool]]"
+related_arguments:
+  - "[[Argument_Li_2026_CEAI]]"
 confidence: high
 status: draft
 created: 2026-08-31

@@ -28,6 +28,8 @@ related_concepts:
   - "[[Practical Inquiry in Science Education]]"
 related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
+related_facts:
+  - "[[EngineeringUK]]"
 confidence: high
 status: draft
 created: 2026-08-22

@@ -34,6 +34,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Pre-test and Post-test]]"
   - "[[Questionnaire]]"
+  - "[[Brainstorming]]"
   - "[[Creativity]]"
   - "[[Research Problem]]"
   - "[[Causality]]"

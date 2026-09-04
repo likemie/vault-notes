@@ -28,23 +28,25 @@ related_concepts:
   - "[[Construct]]"
   - "[[Scale of Measurement]]"
   - "[[Variable]]"
+  - "[[Epistemology]]"
+  - "[[Heterogeneity]]"
   - "[[Sample Size Determination]]"
+  - "[[Research Literacy]]"
   - "[[External Validity]]"
   - "[[Construct Validity]]"
   - "[[Cross-cultural Validity]]"
-  - "[[Sampling Error]]"
-related_theories:
-  - "[[Classical Test Theory]]"
+related_theories: []
 related_methods:
   - "[[Confirmatory Factor Analysis]]"
   - "[[Model Fit Indices in SEM and CFA]]"
   - "[[Analysis of Variance]]"
-  - "[[Scale Development]]"
   - "[[Multivariate Analysis of Variance]]"
-  - "[[Exploratory Factor Analysis]]"
+  - "[[Causal Modeling]]"
+  - "[[Scale Development]]"
 related_instruments:
   - "[[Research Literacy Scale for Teachers]]"
-related_facts: []
+related_facts:
+  - "[[PISA]]"
 related_persons: []
 related_arguments:
   - "[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO]]"

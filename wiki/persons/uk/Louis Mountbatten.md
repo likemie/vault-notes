@@ -51,9 +51,9 @@ updated: 2026-09-01
 > [!timeline] 与[[United World Colleges|联合世界书院]]有关的活动
 > - **1968 年** 接任大西洋学院理事会主席，条件是提高项目国际化程度，并建立与大西洋学院行政分离的国际办公室。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, p. 104)]]
 > - **1968–1972 年** 与吴丹讨论后采用“联合世界书院”名称，担任国际理事会主席，并推动成立联合世界书院国际有限公司、国际董事会和多国国家委员会。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 105–106)]]
-> - **1970–1975 年** 推动新加坡项目从寻找独立校园转向与新加坡[[International Schools|国际学校]]合作，继而促成[[Transformation of Singapore International School into United World College of South East Asia|整所全龄学校成为正式成员]]。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 110–117)]]
-> - **1975 年** 与玛丽昂·皮尔逊主持[[Founding of Lester B. Pearson College|莱斯特·B·皮尔逊联合世界书院开幕]]；同次国际理事会会议正式接受东南亚联合世界书院。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 117, 121–122)]]
-> - **1978 年** 卸任 UWC 主席前推动[[Waterford Kamhlaba Admission to United World Colleges|沃特福德取得关联资格]]，并把国际办公室交给更完整的全职领导结构。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 124–125)]]
+> - **1970–1975 年** 推动新加坡项目从寻找独立校园转向与新加坡[[International Schools|国际学校]]合作，继而促成整所全龄学校成为正式成员。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 110–117)]]
+> - **1975 年** 与玛丽昂·皮尔逊主持莱斯特·B·皮尔逊联合世界书院开幕；同次国际理事会会议正式接受东南亚联合世界书院。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 117, 121–122)]]
+> - **1978 年** 卸任 UWC 主席前推动沃特福德取得关联资格，并把国际办公室交给更完整的全职领导结构。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 124–125)]]
 > - **1979 年 8 月 27 日** 在爱尔兰海岸遇爱尔兰共和军炸弹袭击身亡，未及看到沃特福德和亚得里亚海书院成为正式成员。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 125–130)]]
 
 ## 组织方法

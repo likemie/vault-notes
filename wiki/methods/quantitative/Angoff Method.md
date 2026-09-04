@@ -26,6 +26,7 @@ related_concepts:
   - "[[Hypothesis]]"
 related_methods:
   - "[[Ebel Method]]"
+  - "[[Multiple-Choice Questions]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]]"
 confidence: medium

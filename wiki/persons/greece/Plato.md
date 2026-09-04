@@ -27,6 +27,7 @@ related_concepts:
   - "[[Western Learner]]"
   - "[[Theory of Knowledge]]"
   - "[[Mind and Its Wonders]]"
+  - "[[Language Skills]]"
   - "[[Critical Pedagogy]]"
   - "[[Critical Thinking]]"
   - "[[Growth]]"
@@ -121,7 +122,7 @@ updated: '2026-06-08'
 > [!success]
 > - **对西方哲学** Whitehead 曾有著名论断——"对欧洲哲学传统最稳妥的概括是：它由一系列对柏拉图的脚注构成"（待核原文出处）。柏拉图奠定了西方形而上学、[[Theory of Knowledge|知识论]]、伦理学和政治哲学的基本问题框架
 > - **对西方学习传统** Li 的系统追溯显示，柏拉图的理型论、几何学知识观、省察生活和教育选拔理念全面渗透了全部四个西方学习传统主题：[[Certainty of Knowledge]]、[[Mind and Its Wonders]]、[[Examined Life]] 和 [[Western Learner]]([[Argument_Li_2012_Cambridge|Li, 2012, pp.24-36]])
-> - **对先天论脉络** 从[[Socrates|苏格拉底]]—柏拉图的知识即回忆说，经[[René Descartes|笛卡尔]]的 cogito、[[Immanuel Kant|康德]]的心智范畴、乔姆斯基的先天语言能力，直至现代婴儿认知科学，柏拉图开启的先天论传统持续了 2,500 年([[Argument_Li_2012_Cambridge|Li, 2012, pp.27-29]])
+> - **对先天论脉络** 从[[Socrates|苏格拉底]]—柏拉图的知识即回忆说，经[[René Descartes|笛卡尔]]的 cogito、[[Immanuel Kant|康德]]的心智范畴、乔姆斯基的先天[[Language Skills|语言能力]]，直至现代婴儿认知科学，柏拉图开启的先天论传统持续了 2,500 年([[Argument_Li_2012_Cambridge|Li, 2012, pp.27-29]])
 > - **对教育学** 洞穴喻中的"灵魂转向"（periagoge）成为西方教育思想中"教育即解放"隐喻的源头；哲学家王的教育选拔影响了此后所有关于"谁能接受最高教育"的讨论
 > - **对基督教神学** 柏拉图的理型论为奥古斯丁等教父提供了将希腊哲学与基督教教义融合的框架（待核）
 > - Li 引 Hecht："柏拉图的方案既是逻辑的又是超越的……对事物真实面貌的沉思本身就是一种净化过程，可以将人带入唯一的神性之中"([[Argument_Li_2012_Cambridge|Li, 2012, p.28]])

@@ -29,6 +29,7 @@ related_concepts:
   - "[[Operationalization]]"
 related_methods:
   - "[[Angoff Method]]"
+  - "[[Multiple-Choice Questions]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]]"
 confidence: medium

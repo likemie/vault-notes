@@ -70,7 +70,7 @@ updated: 2026-08-19
 
 > [!work-line] 主要著作
 > - **2004 — *Wege zur Hochschulreife in Baden-Württemberg ([[TOSCA]])*** 奠定巴登-符腾堡州文理中学转型与大学升学[[Cohort Study|追踪研究]]的实证框架。[[Argument_Trautwein_2007_CEP|(Köller, Watermann, Trautwein, & Lüdtke, 2004)]]
-> - **2007 — *[[Epistemological Beliefs]], school achievement, and college major*** 运用潜[[Variable|变量]]结构方程模型确立确定性信念对学业成绩的净负向预测力及[[Disciplinary Socialization|学科社会化]]机制。[[Argument_Trautwein_2007_CEP|(Trautwein & Lüdtke, 2007)]]
+> - **2007 — *[[Epistemological Beliefs]], school achievement, and college major*** 运用潜[[Variable|变量]]结构方程模型确立确定性信念对[[Academic Achievement|学业成绩]]的净负向预测力及[[Disciplinary Socialization|学科社会化]]机制。[[Argument_Trautwein_2007_CEP|(Trautwein & Lüdtke, 2007)]]
 
 ---
 

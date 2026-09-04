@@ -16,6 +16,24 @@ tags:
   - theme/sociology-of-education
   - theme/technology-innovation
   - paradigm/sociocultural
+related_concepts:
+  - "[[Artefact]]"
+  - "[[Generative Artificial Intelligence]]"
+  - "[[Areas of Knowledge]]"
+  - "[[Conflict of Interest in Research]]"
+  - "[[Paradigm]]"
+  - "[[Dialogue in Education]]"
+  - "[[Boundary Spanner]]"
+  - "[[Higher-Order Thinking Skills]]"
+  - "[[Critical Thinking]]"
+  - "[[Effect Size]]"
+  - "[[Variable]]"
+related_theories:
+  - "[[Third Generation Activity Theory]]"
+related_methods:
+  - "[[Systematic Review]]"
+related_arguments:
+  - "[[Argument_Li_2026_CEAI]]"
 confidence: high
 status: draft
 created: 2026-08-31

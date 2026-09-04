@@ -38,6 +38,8 @@ related_arguments:
   - "[[Argument_Biesta_2010_SPE]]"
   - "[[Argument_Slavin_2019_EP]]"
   - "[[Argument_Schaffar_2024_CogentEdu]]"
+related_facts:
+  - "[[Parliamentary Office of Science and Technology]]"
 confidence: medium
 status: draft
 created: '2026-05-01'

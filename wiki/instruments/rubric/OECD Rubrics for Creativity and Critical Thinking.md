@@ -27,17 +27,23 @@ tags:
   - theme/authentic-assessment
   - region/global
 related_concepts:
-  - "[[Critical Thinking]]"
   - "[[Creativity]]"
-  - "[[Higher-Order Thinking Skills]]"
-  - "[[Constructive Alignment]]"
+  - "[[Critical Thinking]]"
   - "[[Authentic Assessment]]"
-  - "[[Formative Assessment]]"
+  - "[[Innovation Hub]]"
+  - "[[Hypothesis]]"
+  - "[[Reliability]]"
+  - "[[Literature Review]]"
+  - "[[Brainstorming]]"
+  - "[[Reflexivity]]"
+  - "[[Paradigm]]"
+  - "[[Ecological Validity]]"
+  - "[[Higher-Order Thinking Skills]]"
+  - "[[Construct]]"
 related_theories: []
-related_methods: []
-related_instruments:
-  - "[[VALUE Rubrics]]"
-  - "[[CALOHEE Assessment Reference Frameworks]]"
+related_methods:
+  - "[[Multiple-Choice Questions]]"
+related_instruments: []
 related_persons: []
 related_facts:
   - "[[OECD]]"

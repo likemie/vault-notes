@@ -23,10 +23,16 @@ tags:
   - theme/creativity
   - theme/problem-solving
   - method/measurement
-related_concepts: []
-related_theories:
-  - "[[Creative Problem Solving]]"
-related_methods: []
+related_concepts:
+  - "[[Questionnaire]]"
+  - "[[Self-Efficacy]]"
+  - "[[Creativity Training]]"
+  - "[[Cognitive Flexibility]]"
+  - "[[Going Native]]"
+related_theories: []
+related_methods:
+  - "[[Meta-analysis]]"
+  - "[[Measurement Invariance]]"
 related_instruments: []
 related_persons: []
 related_arguments:

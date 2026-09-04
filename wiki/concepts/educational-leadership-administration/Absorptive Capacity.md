@@ -23,6 +23,7 @@ related_concepts:
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Professional Judgment]]"
   - "[[Total Factor Productivity]]"
+  - "[[Research Utilization]]"
   - "[[Variable]]"
   - "[[Document]]"
   - "[[University-Industry Collaboration]]"

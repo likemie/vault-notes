@@ -24,6 +24,7 @@ related_concepts:
   - "[[Working Memory]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Seductive Details Effect]]"
+  - "[[Brainstorming]]"
   - "[[Externalization]]"
   - "[[Hypothesis]]"
   - "[[Causality]]"

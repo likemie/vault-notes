@@ -23,9 +23,12 @@ tags:
 related_concepts:
   - "[[Creativity]]"
   - "[[Domain Specificity]]"
+  - "[[Learning Gain]]"
+  - "[[Inter-Rater Reliability]]"
 related_theories: []
 related_methods: []
-related_instruments: []
+related_instruments:
+  - "[[Torrance Tests of Creative Thinking]]"
 related_persons: []
 related_arguments:
   - "[[Argument_Guo_2025_TSC]]"

@@ -21,6 +21,7 @@ related_concepts:
   - "[[Habitus]]"
   - "[[Champ]]"
   - "[[Cultural Capital]]"
+  - "[[Language Skills]]"
   - "[[Epistemology]]"
   - "[[Subjectivism]]"
   - "[[Objectivism]]"
@@ -86,7 +87,7 @@ updated: 2026-07-13
 > - **代表贡献** 创立了习性（Habitus）、场域（Field）以及[[Cultural Capital|文化资本]]（Cultural Capital）等概念工具。
 
 > [!citation-card]- 学校教育的阶级专断性表述
-> 学校教育系统秘而不宣地要求每个学生拥有学校并不曾给予的东西，这包括语言能力、文化感知力和对主导文化的熟稔，而这种东西只有统治阶级在家庭教育中传授主导文化时才能获得。[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]]（引自 Bourdieu & Passeron, 1979）
+> 学校教育系统秘而不宣地要求每个学生拥有学校并不曾给予的东西，这包括[[Language Skills|语言能力]]、文化感知力和对主导文化的熟稔，而这种东西只有统治阶级在家庭教育中传授主导文化时才能获得。[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]]（引自 Bourdieu & Passeron, 1979）
 
 ---
 

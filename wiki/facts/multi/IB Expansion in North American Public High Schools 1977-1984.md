@@ -18,13 +18,19 @@ tags:
   - theme/international-education
   - theme/public-school-reform
   - theme/curriculum-diffusion
-related_concepts: []
+related_concepts:
+  - "[[International Baccalaureate]]"
+  - "[[International Schools]]"
+  - "[[Advanced Placement Program]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[International Baccalaureate North America]]"
+  - "[[Francis Lewis High School Adoption of the International Baccalaureate]]"
+related_arguments:
+  - "[[Argument_Peterson_1987_OpenCourt_Ch06]]"
 confidence: high
 status: draft
 created: 2026-09-03

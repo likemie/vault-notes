@@ -75,6 +75,7 @@ related_methods:
   - "[[Focus Group]]"
   - "[[Group Interview]]"
   - "[[Semi-structured Interview]]"
+  - "[[Multiple-Choice Questions]]"
   - "[[Pilot Testing]]"
   - "[[Qualitative Interview]]"
   - "[[Interview Protocol]]"

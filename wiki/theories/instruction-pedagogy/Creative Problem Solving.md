@@ -24,6 +24,7 @@ related_concepts:
   - "[[Creativity Training]]"
   - "[[Divergent Thinking]]"
   - "[[Emergence]]"
+  - "[[Brainstorming]]"
   - "[[Habituation]]"
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
@@ -41,7 +42,8 @@ related_methods:
   - "[[Three-Level Meta-Analysis]]"
   - "[[Meta-meta-analysis]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Alex Osborn]]"
 related_arguments:
   - "[[Argument_Runco_2026_CRJ]]"
   - "[[Argument_Guo_2025_TSC]]"
@@ -97,7 +99,7 @@ updated: 2026-09-03
 >   > [!evidence-grid]- 证据
 >   > - **证据一** Scott et al. (2004) [[Meta-analysis|元分析]]（$k = 70$）显示 CPS 对问题解决表现的促进效应达到 **$d = 0.84$**，对观念生成达到 **$d = 0.75$**。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, p. 7)]]
 >   > - **证据二** Ma (2006) 元分析证实基于 CPS 的复合干预程序平均[[Effect Size|效应量]]达 **$d = 0.77$**。
->   > - **证据三** 高校创造力干预[[Three-Level Meta-Analysis|多层元分析]]（29 项实证研究，109 个效应量）证实[[Creativity Training|创造力干预]]对问题解决维度产生了 **$g = 0.539$**（95% CI $[0.316, 0.762], p < .001$）的稳健中等增益，技术型干预达 **$g = 0.552$**。[[Argument_Guo_2025_TSC|(Guo et al., 2025, pp. 6–7)]]
+>   > - **证据三** 高校[[Creativity Training|创造力干预]][[Three-Level Meta-Analysis|多层元分析]]（29 项实证研究，109 个效应量）证实[[Creativity Training|创造力干预]]对问题解决维度产生了 **$g = 0.539$**（95% CI $[0.316, 0.762], p < .001$）的稳健中等增益，技术型干预达 **$g = 0.552$**。[[Argument_Guo_2025_TSC|(Guo et al., 2025, pp. 6–7)]]
 > - **推导** ① 惯性思维阻碍创新 $\to$ ② CPS 启发式算子打破定势 $\to$ ③ 复杂问题解决成绩显著跃升。
 
 > [!proposition-chain] 核心命题二｜发散生成与收敛评价的交替分离是实现高新颖度与高适切性平衡的核心机制
@@ -107,7 +109,7 @@ updated: 2026-09-03
 
 > [!proposition-chain]- 延伸命题
 > - **推论一（源自核心命题一）** CPS 训练对不同年龄段学习者均具有显著增益，但在经历系统练习后对真实学科任务的迁移效果最佳。
-> - **推论二（源自核心命题二）** 结合计算机协作工具（如电子头脑风暴 EBS）能够进一步降低群体协作中的生产力阻塞，放大 CPS 发散阶段的产出效能（$d = 0.44$）。
+> - **推论二（源自核心命题二）** 结合计算机协作工具（如电子[[Brainstorming|头脑风暴]] EBS）能够进一步降低群体协作中的生产力阻塞，放大 CPS 发散阶段的产出效能（$d = 0.44$）。
 > - **推论三（时间周期与[[Habituation|习惯化]]定势）** CPS 等技术型训练的干预效果呈现倒 U 型时间曲线，$< 2$ 个月（$g = 0.844$）为策略精熟与动机最优的黄金窗口；长达数年的超长周期训练（如 Puccio et al., 2020）易导致规则工具依从性与[[Habituation|习惯化]]倦怠（$< 3$ 年 $g = -0.122$），因此 CPS 训练应采取模块化、中短期循环强化的教学架构。[[Argument_Guo_2025_TSC|(Guo et al., 2025, pp. 6–8)]]
 
 > [!mechanism-map]- CPS 六阶段认知流转机制图
@@ -151,14 +153,14 @@ updated: 2026-09-03
 > [!theory-boundary] 适用边界
 > - **适合解释** 结构不良的开放性工程挑战、商业方案策划、社会议题探究与创意写作。
 > - **谨慎使用** 高度结构化、存在唯一标准答案的机械计算与事实记忆型任务。
-> - **常见误用** 将 CPS 简化为“仅在会议室喊口号式的无约束头脑风暴”，忽略了前期[[Problem Finding|问题发现]]与后期严格收敛评估的决定性作用；或过度机械化套用步骤导致学生产生“工具依从性”，阻碍直觉与远迁移。
+> - **常见误用** 将 CPS 简化为“仅在会议室喊口号式的无约束[[Brainstorming|头脑风暴]]”，忽略了前期[[Problem Finding|问题发现]]与后期严格收敛评估的决定性作用；或过度机械化套用步骤导致学生产生“工具依从性”，阻碍直觉与远迁移。
 
 ---
 
 ## 发展脉络
 
 > [!dev-timeline] 发展脉络
-> - **1953 — 奠基之作** Alex Osborn 出版 *Applied Imagination*，首次提出头脑风暴与[[Creativity|创造性]]问题解决雏形。
+> - **1953 — 奠基之作** [[Alex Osborn]] 出版 *Applied Imagination*，首次提出[[Brainstorming|头脑风暴]]与[[Creativity|创造性]]问题解决雏形。
 > - **1967 — 体系成熟** Sidney Parnes 系统建立 CPS 教学体系并在纽约州立大学布法罗分校设立专门培训基地。
 > - **2004 — [[Meta-analysis|元分析]]实证确立** Scott et al. (2004) 元分析（$k = 70$）确立 CPS 在[[Creativity Training|创造力干预]]中的基准地位（$d = 0.74$）。
 > - **2025 — 高校干预[[Three-Level Meta-Analysis|多层元分析]]实证细化** [[Argument_Guo_2025_TSC|Guo et al. (2025)]] 多层元分析证实问题解决干预效应（$g = 0.539$）与技术型训练（$g = 0.552$），揭示 $< 2$ 个月黄金干预窗口（$g = 0.844$）与个体深思优势（$g = 0.682$）。

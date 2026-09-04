@@ -29,6 +29,7 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[Parliamentary Office of Science and Technology]]"
   - "[[A Nation at Risk 1983]]"
 related_arguments:
   - "[[Argument_Rappleye_2006_RCIE]]"

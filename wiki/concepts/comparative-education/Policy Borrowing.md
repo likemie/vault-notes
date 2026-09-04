@@ -58,6 +58,7 @@ related_persons:
   - "[[Jurgen Schriewer]]"
   - "[[Paul Morris]]"
 related_facts:
+  - "[[Parliamentary Office of Science and Technology]]"
   - "[[Sputnik Shock 1957]]"
   - "[[OECD]]"
   - "[[PISA]]"

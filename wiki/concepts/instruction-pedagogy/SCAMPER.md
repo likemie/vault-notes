@@ -23,6 +23,7 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Divergent Thinking]]"
   - "[[Creativity Training]]"
+  - "[[Brainstorming]]"
   - "[[Metacognition]]"
   - "[[Causality]]"
   - "[[Working Memory]]"
@@ -38,7 +39,6 @@ related_concepts:
 related_theories:
   - "[[TRIZ]]"
   - "[[Creative Problem Solving]]"
-  - "[[Luhmann's Systems Theory]]"
   - "[[Cognitive Load Theory]]"
 related_methods:
   - "[[Role-playing]]"
@@ -52,6 +52,8 @@ related_instruments:
   - "[[Remote Associates Test]]"
 related_arguments:
   - "[[Argument_Guo_2025_TSC]]"
+related_persons:
+  - "[[Alex Osborn]]"
 confidence: high
 status: active
 created: 2026-09-03

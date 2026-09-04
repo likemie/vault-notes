@@ -15,13 +15,18 @@ fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#fef3c7"
 tags: [region/eswatini, theme/international-education, theme/anti-apartheid, theme/institution-building]
-related_concepts: []
+related_concepts:
+  - "[[International Baccalaureate]]"
+  - "[[Network Governance]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[United World Colleges]]"
+  - "[[United World Colleges Associated Schools Policy 1977]]"
+related_arguments:
+  - "[[Argument_Peterson_1987_OpenCourt_Ch05]]"
 confidence: high
 status: draft
 created: 2026-09-01

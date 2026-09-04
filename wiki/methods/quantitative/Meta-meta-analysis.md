@@ -77,6 +77,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-regression]]"
   - "[[Robust Variance Estimation]]"
+  - "[[Thematic Synthesis]]"
   - "[[PRISMA]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Inverse-Variance Weighting]]"

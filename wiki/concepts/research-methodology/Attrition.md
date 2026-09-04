@@ -46,6 +46,7 @@ related_methods:
   - "[[Random Assignment]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
+  - "[[Baseline Standardized Mean Difference]]"
   - "[[Intent-to-Treat Analysis]]"
   - "[[Imputation Methods]]"
   - "[[Covariate Adjustment]]"

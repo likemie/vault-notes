@@ -37,6 +37,7 @@ related_concepts:
   - "[[Areas of Knowledge]]"
 related_theories: []
 related_methods:
+  - "[[Multiple-Choice Questions]]"
   - "[[Mixed Methods Research]]"
 related_persons:
   - "[[Bruno Latour]]"

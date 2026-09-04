@@ -78,6 +78,8 @@ related_methods:
   - "[[Cronbach's Alpha]]"
   - "[[Cross-checking]]"
   - "[[Random Sampling]]"
+related_facts:
+  - "[[Parliamentary Office of Science and Technology]]"
 status: draft
 created: 2026-07-20
 updated: '2026-08-27'

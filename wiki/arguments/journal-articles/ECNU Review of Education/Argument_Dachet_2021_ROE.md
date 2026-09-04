@@ -33,6 +33,7 @@ related_concepts:
   - "[[Grade Retention]]"
   - "[[Inclusive Evidence Validation Typology]]"
   - "[[Document]]"
+  - "[[Research Utilization]]"
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"

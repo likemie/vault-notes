@@ -34,7 +34,10 @@ related_instruments:
   - "[[Collegiate Assessment of Academic Proficiency]]"
   - "[[ETS Proficiency Profile]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Spellings Report]]"
+  - "[[Council for Aid to Education]]"
+  - "[[Educational Testing Service]]"
 related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
 confidence: high

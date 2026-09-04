@@ -24,6 +24,7 @@ related_concepts:
   - "[[Mind Mapping]]"
   - "[[Concept Mapping]]"
   - "[[Critical Thinking]]"
+  - "[[Brainstorming]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Externalization]]"
   - "[[Graphic Organizer]]"

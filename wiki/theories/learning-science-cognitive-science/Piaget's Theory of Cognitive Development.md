@@ -34,6 +34,8 @@ related_concepts:
   - "[[Myelination]]"
   - "[[Attentional Inertia]]"
   - "[[Paradigm]]"
+  - "[[Language Skills]]"
+  - "[[Cognitive Flexibility]]"
   - "[[Reflexivity]]"
   - "[[Ontology]]"
   - "[[Heterogeneity]]"
@@ -168,12 +170,12 @@ updated: 2026-08-25
 > - **[[Executive Function|执行功能]]表征** 4 至 6 个月启动注意力控制（Attention Control），构成未来[[Working Memory|工作记忆]]与抑制控制的预测源基。
 
 > [!phase] 前运算阶段（Pre-operational Stage, 2–7 岁）
-> - **认知表征** 客体永久性稳固，符号与语言能力爆发，但思维受制于集中性（Centration）与不可逆性，无法通过液体与数量守恒测试。
+> - **认知表征** 客体永久性稳固，符号与[[Language Skills|语言能力]]爆发，但思维受制于集中性（Centration）与不可逆性，无法通过液体与数量守恒测试。
 > - **典型测评范式** Stroop 式日夜任务（4 岁为抑制控制转折点）、糖果延迟满足任务（Treat Delay Task）与维度变化卡片分类任务（Dimensional Change Card Sort, DCCS）。3 至 4 岁儿童常因[[Attentional Inertia|注意力惯性]]（Attentional Inertia）无法完成规则切换，5 岁时多数能克服。[[Argument_Bolton_2017_ArchPsych|(Bolton & Hattie, 2017, pp. 10–11)]]
 > - **脑发育机制** 灰质在 3 岁达最大突触密度，随后展开剧烈[[Synaptic Pruning|突触修剪]]（从比成人高 55% 降至比成人高 10%）；轴突[[Myelination|髓鞘化]]加速白质传导；5 岁儿童只有在成功激活右下腹外侧前额叶（vlPFC）时才能通过 DCCS 切换任务。
 
 > [!phase] 具体运算阶段（Concrete Operational Stage, 7–11 岁）
-> - **认知表征** 能执行心理内部化运算操作，理解守恒原理，思维具备可逆性与去集中化，[[Cognitive Shifting|认知灵活性]]在 10 岁左右达到临界点。
+> - **认知表征** 能执行心理内部化运算操作，理解守恒原理，思维具备可逆性与去集中化，[[Cognitive Flexibility|认知灵活性]]在 10 岁左右达到临界点。
 > - **典型测评范式** 经典守恒实验、Go/No-Go 抑制任务与视觉转换任务（Visual Shifting Task）。
 > - **脑发育机制** PFC 灰质体积呈倒 U 形轨迹（女性 11 岁、男性 12 岁达峰）；白质呈线性髓鞘化增厚；额纹状体通路（Frontostriatal Pathway）结构连接显著增强；抑制控制与更新环路在 8 至 9 岁发生功能解耦分离。
 > - **执行功能与干预敏感度** 抑制与转换平稳成熟，为具体向形式运算的抽象跨越奠定基础。在 K-12 阶段 AI [[AI Agent in Education|智能体]]干预中，高小学段展现出全学段最高的认知敏感度（$g = 0.877$）。[[Argument_Liu_2026_CHBR|(Liu et al., 2026, p. 7)]]

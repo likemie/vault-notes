@@ -19,7 +19,13 @@ tags:
   - theme/creativity
   - theme/emotional-creativity
   - method/measurement
-related_concepts: []
+related_concepts:
+  - "[[Creativity]]"
+  - "[[Questionnaire]]"
+  - "[[Growth]]"
+  - "[[Construct]]"
+  - "[[Pre-test and Post-test]]"
+  - "[[Construct Validity]]"
 related_theories: []
 related_methods: []
 related_instruments: []

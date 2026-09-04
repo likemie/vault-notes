@@ -32,6 +32,7 @@ related_methods: []
 related_instruments:
   - "[[ETS Proficiency Profile]]"
   - "[[ETS HEIghten Critical Thinking Assessment]]"
+  - "[[Test of Teaching Knowledge]]"
   - "[[Consensual Assessment Technique]]"
 related_persons: []
 related_facts:

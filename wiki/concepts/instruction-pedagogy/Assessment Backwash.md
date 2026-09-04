@@ -35,6 +35,7 @@ related_arguments:
   - "[[Argument_Biggs_1999_HERD]]"
   - "[[Argument_Peterson_1987_OpenCourt_Ch03]]"
 related_methods:
+  - "[[Multiple-Choice Questions]]"
   - "[[Pilot Testing]]"
 confidence: high
 status: draft

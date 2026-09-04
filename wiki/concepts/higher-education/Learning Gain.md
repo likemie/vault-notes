@@ -45,6 +45,7 @@ related_instruments:
 related_persons: []
 related_facts:
   - "[[Higher Education Funding Council for England]]"
+  - "[[Parliamentary Office of Science and Technology]]"
   - "[[Graduate Outcomes Survey]]"
   - "[[Irish Survey of Student Engagement]]"
   - "[[Studiebarometeret]]"

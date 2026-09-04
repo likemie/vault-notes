@@ -24,6 +24,7 @@ related_concepts:
   - "[[Theoretical Perspective]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Scientism]]"
+  - "[[AI Hallucination]]"
   - "[[Educated Identity]]"
   - "[[Totally Pedagogised Society]]"
   - "[[Epistemology]]"
@@ -79,6 +80,7 @@ related_facts:
   - "[[PISA]]"
   - "[[Comparative Education Society in Europe]]"
   - "[[National Security Law]]"
+  - "[[Parliamentary Office of Science and Technology]]"
   - "[[Comparative Education Center at Chicago 1958]]"
   - "[[OECD]]"
 related_arguments:

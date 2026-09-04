@@ -47,7 +47,8 @@ related_methods:
   - "[[Cochran's Q Test]]"
 related_instruments: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Parliamentary Office of Science and Technology]]"
 related_arguments:
   - "[[Argument_Lei_Ding_Chiu_2026_ERR]]"
 confidence: high

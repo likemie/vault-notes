@@ -28,6 +28,7 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[Parliamentary Office of Science and Technology]]"
   - "[[OECD]]"
 related_arguments:
   - "[[Argument_Rizvi_2022_Springer]]"

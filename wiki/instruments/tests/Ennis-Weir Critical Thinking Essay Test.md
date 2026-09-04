@@ -33,6 +33,7 @@ related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Parliamentary Office of Science and Technology]]"
   - "[[OECD]]"
 related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"

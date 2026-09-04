@@ -33,6 +33,7 @@ related_facts:
   - "[[National Science Foundation]]"
   - "[[Federal Law No. 85-FZ on Enlightenment Activities]]"
   - "[[Community Innovation Survey]]"
+  - "[[Parliamentary Office of Science and Technology]]"
   - "[[Federal Law No. 121-FZ on Foreign Agents]]"
   - "[[Federal Law No. 129-FZ on Undesirable Organizations]]"
   - "[[Consolidation of Russian State Science Funds]]"

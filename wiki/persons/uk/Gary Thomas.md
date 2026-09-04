@@ -19,6 +19,7 @@ tags:
 - philosophy-of-science
 - region/uk
 related_concepts:
+  - "[[Research Utilization]]"
   - "[[Causality]]"
   - "[[Ontology]]"
   - "[[Evidence-Based Education]]"
@@ -46,7 +47,7 @@ updated: '2026-06-08'
 
 
 > [!info] 证据的阶段论
-> Thomas (2004, pp. 1–6, 10) 区分了科学探究中证据使用的不同阶段：拼凑/直觉阶段（bricolage/hunch）、灵感阶段（inspirational）、发现阶段（discovery）和确认/证实阶段（corroborative/confirmatory）。他的核心观点是 EBT 只关注证据的最后阶段——确认阶段——而忽视了科学发现过程中同样重要的前几个阶段([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 111]])。
+> Thomas (2004, pp. 1–6, 10) 区分了科学探究中[[Research Utilization|证据使用]]的不同阶段：拼凑/直觉阶段（bricolage/hunch）、灵感阶段（inspirational）、发现阶段（discovery）和确认/证实阶段（corroborative/confirmatory）。他的核心观点是 EBT 只关注证据的最后阶段——确认阶段——而忽视了科学发现过程中同样重要的前几个阶段([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 111]])。
 >
 > > "The notion of evidence-based practice focuses on evidence at the confirmatory stage, on the systematic collation of research studies for use by practitioners and policy-makers." (Thomas, 2004, p. 10, cited in)
 

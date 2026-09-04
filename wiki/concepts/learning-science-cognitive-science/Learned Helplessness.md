@@ -24,6 +24,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Growth]]"
   - "[[Academic Achievement]]"
+  - "[[Self-Regulated Learning]]"
   - "[[Task Structure]]"
   - "[[Ecological Validity]]"
   - "[[Variable]]"

@@ -54,6 +54,7 @@ related_concepts:
   - "[[Growth]]"
   - "[[Confidence Interval]]"
   - "[[Positivism]]"
+  - "[[AI Hallucination]]"
 related_theories: []
 related_methods:
   - "[[Action Research]]"

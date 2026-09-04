@@ -20,7 +20,9 @@ tags:
   - "level/higher-education"
 related_concepts:
   - "[[Cooperative Learning]]"
+  - "[[Academic Achievement]]"
   - "[[Teams-Games-Tournament]]"
+  - "[[Brainstorming]]"
   - "[[Metacognition]]"
   - "[[Critical Thinking]]"
   - "[[21st Century Skills and Competencies Discourse]]"
@@ -28,7 +30,6 @@ related_concepts:
   - "[[Higher-Order Thinking Skills]]"
   - "[[Confidence Interval]]"
   - "[[Heterogeneity]]"
-  - "[[Academic Achievement]]"
   - "[[Student Attitude]]"
   - "[[Creativity]]"
   - "[[Effect Size]]"

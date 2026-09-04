@@ -101,6 +101,7 @@ related_concepts:
   - "[[Teacher-as-Researcher]]"
   - "[[Scientific Attitude]]"
   - "[[Scientific Method]]"
+  - "[[Brainstorming]]"
   - "[[Analytic Framework]]"
   - "[[Null Hypothesis]]"
 related_theories:

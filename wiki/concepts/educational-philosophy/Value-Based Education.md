@@ -19,11 +19,13 @@ tags:
 related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Critical Thinking]]"
+  - "[[Academic Achievement]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Epistemology]]"
 related_theories:
   - "[[Transactional Epistemology]]"
-related_methods: []
+related_methods:
+  - "[[Multiple-Choice Questions]]"
 related_persons: []
 related_facts: []
 related_arguments:

@@ -20,18 +20,20 @@ tags:
   - theme/creativity
   - theme/higher-order-thinking
 related_concepts:
-  - "[[Cognitive Shifting]]"
   - "[[Executive Function]]"
   - "[[Working Memory]]"
   - "[[Creativity]]"
   - "[[Divergent Thinking]]"
   - "[[Metacognition]]"
   - "[[Creativity Training]]"
+  - "[[Brainstorming]]"
+  - "[[Lateral Thinking]]"
   - "[[Mind Mapping]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Construct]]"
   - "[[Cognitive Inhibition]]"
   - "[[Paradigm]]"
+  - "[[Cognitive Shifting]]"
   - "[[Assemblage]]"
   - "[[Hypothesis]]"
   - "[[Variable]]"

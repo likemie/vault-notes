@@ -15,13 +15,21 @@ fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#fef3c7"
 tags: [region/italy, theme/international-education, theme/institution-building, theme/public-funding]
-related_concepts: []
+related_concepts:
+  - "[[International Education]]"
+  - "[[International Baccalaureate]]"
+  - "[[Network Governance]]"
+  - "[[Space of Flows and Space of Places]]"
 related_theories: []
 related_methods: []
 related_instruments: []
-related_persons: []
-related_facts: []
-related_arguments: []
+related_persons:
+  - "[[Desmond Hoare]]"
+related_facts:
+  - "[[United World Colleges]]"
+  - "[[Founding of Lester B. Pearson College]]"
+related_arguments:
+  - "[[Argument_Peterson_1987_OpenCourt_Ch05]]"
 confidence: high
 status: draft
 created: 2026-09-01

@@ -112,6 +112,7 @@ related_concepts:
   - "[[Zero-Sum Competition]]"
   - "[[Talent Assumption]]"
   - "[[Intellectual-Social Divide]]"
+  - "[[Language Skills]]"
   - "[[Tracking]]"
   - "[[Doxa]]"
   - "[[Variable]]"
@@ -152,6 +153,7 @@ related_methods:
 related_facts:
   - "[[PISA]]"
   - "[[Civil Service Examination]]"
+  - "[[Parliamentary Office of Science and Technology]]"
   - "[[Cram Schools]]"
   - "[[Three Excellences]]"
   - "[[Gaokao]]"

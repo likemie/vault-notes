@@ -31,6 +31,7 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Class Size]]"
   - "[[Creativity]]"
+  - "[[Creativity Assessment]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"

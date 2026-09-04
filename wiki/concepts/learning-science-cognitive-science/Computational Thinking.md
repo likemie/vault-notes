@@ -32,6 +32,7 @@ related_concepts:
   - "[[AI Agent in Education]]"
   - "[[Effect Size]]"
   - "[[Generative AI Agent in Education]]"
+  - "[[Generative Artificial Intelligence]]"
   - "[[Self-Efficacy]]"
   - "[[Variable]]"
   - "[[Questionnaire]]"

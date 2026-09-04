@@ -23,6 +23,7 @@ related_concepts:
   - "[[Revoicing]]"
   - "[[Socratic Dialogue]]"
   - "[[Hypothesis]]"
+  - "[[Brainstorming]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Reliability]]"
   - "[[Heterogeneity]]"

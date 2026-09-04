@@ -30,6 +30,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Variable]]"
   - "[[Spirals of Inquiry]]"
+  - "[[Research Utilization]]"
   - "[[Hypothesis]]"
   - "[[Operationalization]]"
   - "[[Feedback]]"

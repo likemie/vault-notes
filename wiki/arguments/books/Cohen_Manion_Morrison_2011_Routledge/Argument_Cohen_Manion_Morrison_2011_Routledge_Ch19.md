@@ -55,6 +55,7 @@ related_concepts:
   - "[[Presence]]"
   - "[[Externalization]]"
   - "[[Epoché]]"
+  - "[[AI Hallucination]]"
   - "[[Dialogue in Education]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Research Question]]"

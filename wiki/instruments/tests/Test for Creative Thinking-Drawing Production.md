@@ -25,6 +25,7 @@ tags:
   - method/measurement
 related_concepts:
   - "[[Creativity]]"
+  - "[[Pre-test and Post-test]]"
 related_theories: []
 related_methods: []
 related_instruments: []

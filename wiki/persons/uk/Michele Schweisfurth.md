@@ -26,7 +26,8 @@ related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Parliamentary Office of Science and Technology]]"
 related_arguments:
   - "[[Argument_Wang_2025_CE]]"
 confidence: high
@@ -56,7 +57,7 @@ updated: '2026-07-22'
 
 > [!timeline] 生平与职涯
 > - **2013 年** — 出版著作 *[[Learner-Centred Education]] in International Perspective: Whose Pedagogy for Whose Development?*（Routledge），系统构建 LCE 的国际比较与最低实施标准框架。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 605)]]
-> - **2015 年** — 在 *International Journal of Educational Development* 发表论文，提出 Post-2015 教学法议程，警惕高利害[[Test-Based Accountability|考试问责]]对民主教学的压制。
+> - **2015 年** — 在 *International Journal of Educational Development* 发表论文，提出 [[Parliamentary Office of Science and Technology|POST]]-2015 教学法议程，警惕高利害[[Test-Based Accountability|考试问责]]对民主教学的压制。
 
 ---
 
@@ -66,7 +67,7 @@ updated: '2026-07-22'
 > | 年份 | 著作 | 核心贡献 | 关联条目 |
 > |------|------|----------|----------|
 > | 2013 | *[[Learner-Centred Education]] in International Perspective* | 提出 LCE 7 项最低实施标准，分析全球落地阻力。 | [[Learner-Centred Education]] |
-> | 2015 | *Learner-centred Pedagogy: Towards a Post-2015 Agenda* | 评估全球教育议程中 LCE 的政策移植与语境调适。 | [[Policy Borrowing]] |
+> | 2015 | *Learner-centred Pedagogy: Towards a [[Parliamentary Office of Science and Technology\|POST]]-2015 Agenda* | 评估全球教育议程中 LCE 的政策移植与语境调适。 | [[Policy Borrowing]] |
 
 ---
 

@@ -28,6 +28,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Absorptive Capacity]]"
   - "[[Literature Review]]"
+  - "[[Research Utilization]]"
   - "[[Technology Infusion]]"
   - "[[Questionnaire]]"
   - "[[Logic Model]]"
