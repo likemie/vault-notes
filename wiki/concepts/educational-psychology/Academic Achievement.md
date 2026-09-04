@@ -10,7 +10,7 @@ aliases:
 summary: "衡量学生在特定学习阶段、特定学科或特定学术任务中知识、技能与高阶思维掌握程度的多维结果指标。在教育心理学中通常通过课程加权总评成绩（OAA）、预估总评成绩（EOAA）、标准化测试及良构与劣构任务表现进行操作化测度。"
 type: concept
 domain: "educational-psychology"
-related_count: 57
+related_count: 62
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Self-Regulated Learning]]"
   - "[[Effect Size]]"
+  - "[[Publication Bias]]"
   - "[[Heterogeneity]]"
   - "[[Prediction Interval]]"
   - "[[Critical Thinking]]"
@@ -56,11 +57,15 @@ related_concepts:
   - "[[Questionnaire]]"
   - "[[Ontology]]"
   - "[[Measurement Alignment]]"
+  - "[[Pre-test and Post-test]]"
 related_theories:
   - "[[Reflective Judgment Model]]"
   - "[[Epistemic and Ontological Cognition]]"
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Trim and Fill Method]]"
+  - "[[Baseline Standardized Mean Difference]]"
+  - "[[Intervention Research]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Meta-meta-analysis]]"
   - "[[Survey Research]]"
@@ -68,18 +73,18 @@ related_methods:
   - "[[Multinomial Logistic Regression]]"
   - "[[Systematic Review]]"
   - "[[Matching]]"
-  - "[[Trim and Fill Method]]"
 related_instruments: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[What Works Clearinghouse]]"
 related_arguments:
   - "[[Argument_Greene_2018_JEP]]"
   - "[[Argument_Lodewyk_2007_EP]]"
   - "[[Argument_Greene_2010_JEP]]"
   - "[[Argument_Li_2026_CEAI]]"
+  - "[[Argument_Chen_Cheung_2025_ERR]]"
   - "[[Argument_Unal_2026_JECR]]"
   - "[[Argument_Abrami_2015_RER]]"
-  - "[[Argument_Chen_Cheung_2025_ERR]]"
   - "[[Argument_Gungor_2026_CP]]"
   - "[[Argument_Erdem_2026_SHE]]"
 confidence: medium
@@ -196,6 +201,9 @@ updated: 2026-09-04
 > [!claim] [[Argument_Li_2026_CEAI|Li et al. (2026, pp. 1–3, 11–13)]]
 > **终稿成就的假象与过程性评价转向** 既有研究常将[[Higher-Order Thinking Skills|高阶思维]]粗放合并为泛化的学业表现（academic achievement/performance）。在生成式 AI 介入后，常规的终稿学术产出（如课程论文、开卷[[Homework|作业]]）极易由大模型代劳生成极具专业语调和文面光滑度的“表面学业成就”，掩盖内部深层的[[Cognitive Offloading|认知卸载]]与批判反思退化。单纯依赖终稿分数（GPA/课程期末成绩）已无法有效表征学生真实的高阶心智水平。因此，学业成就的评价必须超越一次性结果交付，转向以提示词链溯源（Prompt Trail）、事实核查反思日志与方案迭代辩护为核心的“过程性学业成就”评价。
 
+> [!claim] [[Argument_Chen_Cheung_2025_ERR|Chen & Cheung (2025, pp. 10–14)]]
+> **测验工具紧密性膨胀与[[Trim and Fill Method|剪补法]]下的学业效应收敛** 基于严格控制[[Baseline Standardized Mean Difference|基线等效性]]（$d < 0.25$）的 25 项实验研究元分析，生成式 AI 对大学生学业成绩具有显著的原始合并促进效应（$g^+ = 0.633$ $[0.418, 0.849]$）；然而，调节分析与偏倚诊断揭示出两大学业测量效度危机：① **测量工具紧密性膨胀** 采用教师或研究者自编学科测验的研究（$k = 38, g^+ = 1.022$）因试题高度贴合 AI 练习内容，效应量显著高于标准化统考（$k = 40, g^+ = 0.614, p = .005$）；② **代答效应与偏倚收敛** Egger 检验检出高度显著的发表偏倚（$p = .007$），经剪补法填补 7 项缺失研究后，学业成绩真实效应大幅收敛至中偏小水平（$g^+_{\text{adj}} = 0.354$ $[0.111, 0.597]$）。这证实常规学业测验的表观提分中相当部分源于 AI 的即时工具代答助推，而非内在概念图式的长期稳固沉淀。
+
 ---
 
 ### 命题总览
@@ -208,7 +216,7 @@ updated: 2026-09-04
 > | **学业阶梯信念断层** | 长期平时成绩分化与固定能力观、简单知识观紧密挂钩；优等生普遍持有[[Growth\|成长]]型与复杂网络信念。 | 学业成就分层干预、学困生归因辅导 | Lodewyk; Greene et al. |
 > | **性别优势认识论支撑** | 女生在长期成绩与任务表现上的全面领先，受更成熟的能力可塑性与不确定性容忍信念驱动。 | 性别与学业差异研究、学术角色认同分析 | Lodewyk |
 > | **测量效标锚定法则** | 学业成就必须通过标准化客观测试或与实际总评成绩高度锚定的严谨预估量表来测量。 | 量化实证研究设计、测量误差控制 | Greene et al.; Lodewyk |
-> | **生成式 AI 解耦与过程性转向** | 终稿文本的表面流畅性掩盖深层认知卸载；学业成就评价需转向包含提示词追踪、事实核查与反思辩护的过程性生态。 | 高等教育生成式技术应用、课程与评价改革 | Li et al.; Ünal et al. |
+> | **生成式 AI 解耦与过程性转向** | 终稿文本的表面流畅性掩盖深层认知卸载与工具代答假象；学业成就评价需转向包含提示词追踪、事实核查与反思辩护的过程性生态。 | 高等教育生成式技术应用、课程与评价改革 | Li et al.; Ünal et al.; Chen & Cheung |
 
 ---
 
@@ -218,6 +226,7 @@ updated: 2026-09-04
 > - **早期阶段：单一维度的粗放输出** 学业成就长期被简单等同于学生自报的总体 GPA 或统考总分，被视作静态智力与勤奋程度的简单产物，忽略了其内部复杂的认知加工层级与任务情境差异。
 > - **中期演进：认知加工深度的精细解构** 随着[[Epistemic Cognition|认识论认知]]与[[Constructivist Paradigm|建构主义]]理论的发展，学者开始将学业成就细分为程序性、陈述性、概念性与论证性等不同认知加工层级，揭示深层认知信念对高阶成就的特异性贡献。[[Argument_Greene_2018_JEP|(Greene et al., 2018)]]
 > - **当代深化：微观[[Task Structure|任务结构]]与情境动力学整合** 近年研究进一步将学业成就置于微观教学情境中，强调任务结构（良构 vs 劣构）对学业表现的边界调节作用，并将[[Reflexivity|反思性]]判断、认识动机与[[Self-Regulated Learning|自我调节学习]]纳入统一解释框架。[[Argument_Lodewyk_2007_EP|(Lodewyk, 2007)]]
+> - **2025 年：基线控制[[Meta-analysis|元分析]]解构学业成绩虚高机制** [[Argument_Chen_Cheung_2025_ERR|Chen & Cheung (2025)]] 引入 [[What Works Clearinghouse|WWC]] 基线等效门槛（$d < 0.25$）检验生成式 AI 对大学生学业成绩的促进效应，通过自编测验分化（$1.022$ vs $0.614$）与剪补法校正（$0.633 \to 0.354$），实证揭示了工具代答与发表偏倚导致的学业提分泡沫。
 > - **生成式 AI 时代：终稿成果与真实心智脱钩及过程性转向** 随着以 ChatGPT 为代表的生成式 AI 普及，单纯基于文本终稿的学业成绩（如论文、[[Homework|作业]]）面临空前的效度危机。学者系统批判将高阶心智与粗放学业成就混为一谈的传统做法，推动学业成就概念从“静态文本产出”向“包含提示词设计、事实核查、反思日志与批判辩护的自适应专业特长（Adaptive Expertise）”过程性转向。[[Argument_Li_2026_CEAI|(Li et al., 2026)]]; [[Argument_Unal_2026_JECR|(Ünal et al., 2026)]]
 
 ---
@@ -229,6 +238,7 @@ updated: 2026-09-04
 > - **单一总评成绩对微观认知能力的掩盖效应** 宏观的学业总评（GPA/OAA）往往是多种良构[[Homework|作业]]、期末刷题与出勤表现的混合体，极易掩盖学生在面对真实劣构问题时的[[Reflexivity|反思性]]判断缺陷。教学与评价必须结合劣构论辩任务以全面衡量高阶学业成就。
 > - **生理性别分类对深层社会化机制的遮蔽** 将学业成就与[[Epistemology|认识论]]的性别差异简单归因于男女生理差异具有局限性，实质上是性别角色认同、关系性认识方式与社会期待在长周期学习中的综合体现。
 > - **生成式 AI 背景下终稿学业成绩的效度危机与猫鼠博弈困局** 生成式 AI 生成文本的表面语义流畅性使传统终稿型学业评价体系效度严重受损。单纯依赖 AI 查重软件进行惩罚性封堵只会陷入猫鼠博弈的死循环；唯有重组教学活动系统规则，把评价重心从静态终稿转向提示词迭代链、查错反思日志与口头辩护的过程性投入，才能真实测度高阶学业成就。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 11–13)]]
+> - **自编测验紧密性虚高与[[Trim and Fill Method|剪补法]]收敛反思** 生成式 AI [[Intervention Research|干预研究]]中普遍存在使用研究者自编测验的倾向，其效应量（$g^+ = 1.022$）显著高于标准化量表（$g^+ = 0.614$）。更为重要的是，经剪补法校正[[Publication Bias|发表偏倚]]后，学业成绩效应从 $0.633$ 大幅缩水至 $0.354$，这有力证明脱离标准化效标的自编测验极易把 AI 的“即时工具助答效果”误读为学生的“真实学术能力沉淀”。[[Argument_Chen_Cheung_2025_ERR|(Chen & Cheung, 2025, pp. 12, 14)]]
 
 ---
 
@@ -241,7 +251,7 @@ updated: 2026-09-04
 > |---|---|---|---|---|---|---|
 > | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 结果变量：[[Critical Thinking\|批判性思维]]教学干预对常规学业成就的促进效应 | $k = 140$ / $N = —$ | Hedges' $g+$ / [[Fixed-Effect and Random-Effects Models\|随机效应模型]] | $g+ = 0.33$ $[0.25, 0.40]$ | $Q(139) = 887.62, p < .001, I^2 = 84.34\%$ | 严格排除前实验设计；证实思维干预对学科知识掌握产生显著正向协同（改善指数 12.93%） |
 > | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | 结果变量：[[Epistemic Cognition\|认识论认知]]对学业成就的总体预测效应 | $k = 151$ / $N = 55,418$ | 皮尔逊 $r$ / 随机效应模型 | $r = 0.162$ $[0.135, 0.189]$ | $Q = 1335.22, p < .001, I^2 = 88.77\%$；95% PI 未报告 | 纳入横断与相关研究为主，测量方式与成就类型存在高异质性 |
-> | [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] | 结果变量：生成式 AI 对大学生学业成绩（Academic Achievement）的促学效应 | $k = 25$ / $N = —$ | Hedges' $g^+$ / [[Fixed-Effect and Random-Effects Models\|随机效应模型]] | $g^+ = 0.633$ $[0.418, 0.849]$ | $Q(24) = 134.37, p < .001, I^2 = 82.14\%$；剪补法填补 9 项后调整为 $g^+_{\text{adj}} = 0.354$ | 严格限定前测基线等效（$d < 0.25$）；高校编程与医学等学科客观知识与测验表现；检出显著发表偏倚收敛 |
+> | [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] | [[Dependent Variable\|结果变量]]：生成式 AI 对大学生学业成绩（Academic Achievement）的促学效应 | $k = 25$ / $N = —$ | Hedges' $g^+$ / [[Fixed-Effect and Random-Effects Models\|随机效应模型]] | $g^+ = 0.633$ $[0.418, 0.849]$ | $Q(24) = 134.37, p < .001, I^2 = 82.14\%$；剪补法填补 9 项后调整为 $g^+_{\text{adj}} = 0.354$ | 严格限定前测基线等效（$d < 0.25$）；高校编程与医学等学科客观知识与测验表现；检出显著发表偏倚收敛 |
 
 > [!ma-table]- 一阶元分析互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
@@ -300,4 +310,4 @@ updated: 2026-09-04
 > - [[Argument_Greene_2018_JEP|Greene et al. (2018)]] — 通过大规模[[Meta-analysis|元分析]]系统考察了[[Epistemic Cognition|认识论认知]]对不同类型学业成就的预测力，确立了认知加工深度[[Matching|匹配法]]则（概念性/论证 vs 程序性）以及测试客观性[[Measurement Alignment|对齐法则]]。
 > - [[Argument_Greene_2010_JEP|Greene et al. (2010)]] — 将学业成就作为潜类别[[Multinomial Logistic Regression|多项逻辑回归]]的协[[Variable|变量]]，证明特定学科成绩能够有效预测学生的[[Epistemic and Ontological Cognition|认识论与本体论认知]]阶段。
 > - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — [[Systematic Review|系统综述]] 67 项实证研究，批判了将[[Higher-Order Thinking Skills|高阶思维]]混同为泛化学业表现（Academic Achievement）的传统取向，揭示了表面文本流畅性掩盖深层[[Cognitive Offloading|认知卸载]]的危机，确立了从“终稿产出”向“反思过程与自适应专业特长”转型的评价规制。
-> - [[Argument_Chen_Cheung_2025_ERR|Chen & Cheung (2025)]] — [[Meta-analysis|元分析]]在严格控制前测基线等效（$d < 0.25$）前提下，评估生成式 AI 对大学生学业成绩的促进效应（$g^+ = 0.633$），并经[[Trim and Fill Method|剪补法]]校正发表偏倚至稳健水平（$g^+_{\text{adj}} = 0.354$）。
+> - [[Argument_Chen_Cheung_2025_ERR|Chen & Cheung (2025)]] — [[Meta-analysis|元分析]]在严格控制[[Pre-test and Post-test|前测]]基线等效（$d < 0.25$）前提下，评估生成式 AI 对大学生学业成绩的促进效应（$g^+ = 0.633$），并经[[Trim and Fill Method|剪补法]]校正[[Publication Bias|发表偏倚]]至稳健水平（$g^+_{\text{adj}} = 0.354$）。

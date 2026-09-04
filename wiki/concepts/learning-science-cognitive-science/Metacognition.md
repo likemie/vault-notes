@@ -14,7 +14,7 @@ aliases:
 summary: "个体对自己认知过程的意识、评估与主动调节，包括元认知知识与元认知调节两个核心成分。它不仅构成批判性思维与人机协同认识论警觉的防御中介，更是驱动创造性问题解决、策略内化与克服思维定势的核心高阶认知机制。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 61
+related_count: 63
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -49,6 +49,9 @@ related_concepts:
   - "[[Learner Autonomy]]"
   - "[[Divergent Thinking]]"
   - "[[Convergent Thinking]]"
+  - "[[Effect Size]]"
+  - "[[Language Skills]]"
+  - "[[Academic Achievement]]"
   - "[[Creativity Training]]"
   - "[[Learning Gain]]"
   - "[[Variable]]"
@@ -58,12 +61,10 @@ related_concepts:
   - "[[Questionnaire]]"
   - "[[Heterogeneity]]"
   - "[[Prediction Interval]]"
-  - "[[Academic Achievement]]"
   - "[[Epistemic Cognition]]"
   - "[[Dependent Variable]]"
   - "[[Construct]]"
   - "[[Paradigm]]"
-  - "[[Effect Size]]"
   - "[[Pre-test and Post-test]]"
   - "[[Independent Variable]]"
   - "[[Generative Artificial Intelligence]]"
@@ -75,14 +76,15 @@ related_theories:
 related_methods:
   - "[[Three-Level Meta-Analysis]]"
   - "[[Systematic Review]]"
-  - "[[Experimental Research]]"
   - "[[Meta-analysis]]"
+  - "[[Experimental Research]]"
   - "[[Meta-meta-analysis]]"
 related_instruments:
   - "[[Remote Associates Test]]"
   - "[[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale]]"
   - "[[Problem Solving Inventory]]"
-related_persons: []
+related_persons:
+  - "[[Alan C. K. Cheung]]"
 related_arguments:
   - "[[Argument_Cole_2015_AJE]]"
   - "[[Argument_Park_2026_TSC]]"
@@ -212,6 +214,9 @@ updated: 2026-09-04
 > [!claim] Li et al.
 > **流畅性陷阱与结构化反思支架的防御机制** [[Systematic Review|系统综述]]表明，大模型的表面语义流畅性极易欺骗学习者的认知直觉，诱发严重的“元认知监控外包”（即把真实性核查与质量评估责任全盘推给 AI），导致批判反思能力衰退（$\beta = -0.34$）。通过在人机互动中嵌入显性的元认知反思支架（如强制记录提示词修改历史 Prompt Trail、撰写采纳/拒绝 AI 建议的决策依据），能够强行维持[[Surface and Deep Learning|深层学习]]所必需的“[[Epistemic Friction|认识论摩擦]]”，使 53% 的双目标实证研究成功实现批判与创造思维的双向协同发展。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 6–7, 10–13)]]
 
+> [!claim] Chen, S., & [[Alan C. K. Cheung|Cheung, A. C. K.]]
+> **大样本[[Meta-analysis|元分析]]确证无支架技术介入导致“元认知惰性”** 基于 57 项[[Experimental Research|实验研究]]元分析（$k = 10$ 项元认知[[Effect Size|效应量]]），生成式 AI 对大学生元认知能力的总体干预效应在统计学上完全不显著（$g^+ = 0.078$ $[-0.495, 0.652], p = .789$），与[[Language Skills|语言技能]]（$2.331$）和[[Academic Achievement|学业成绩]]（$0.633$）的剧烈提升形成断层反差。这一实证结果确证了“元认知惰性假说（Metacognitive Laziness [[Hypothesis]]）”：在缺乏显性反思任务规程的常规应用中，大模型的极速解答使学生倾向于跳过深层的问题表征、监控与修正回路，直接采纳算法生成物，导致元认知自我调节机能陷入停滞乃至退化。[[Argument_Chen_Cheung_2025_ERR|(Chen & Cheung, 2025, pp. 10, 15–16)]]
+
 ---
 
 ### 命题五　显性元认知指导直接驱动创造性问题解决，且独立深度反思是策略内化的最优组织形式
@@ -232,7 +237,7 @@ updated: 2026-09-04
 > | **批判性高阶调控** | 元认知为批判性思维提供反思推理逻辑的高阶审视与偏见校准机能 | 认识论追问、思维审校、防范教条盲从 | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]]; Flavell (1979) |
 > | **自主性核心支撑** | 意识性元认知监控使学生能够进行知情决策与精准认知资源配置 | 状态感知、知情决策、资源自适应管理 | [[Argument_Lakhani_2012_AKUIED\|Lakhani (2012)]]; Pintrich (2002) |
 > | **双向思维共同底座** | 创造力与批判性思维共享评价、方案筛选与自我调节等元认知调控通道 | 构念底层正相关（$r = 0.386$）、发散收敛协同 | [[Argument_Park_2026_TSC\|Park et al. (2026)]] |
-> | **人机协同警觉防线** | 显性元认知反思支架抵御 AI 表面流畅性，防止认知卸载与心智萎缩 | 认识论摩擦、提示词日志追踪、抵御流畅性陷阱 | [[Argument_Li_2026_CEAI\|Li et al. (2026)]] |
+> | **人机协同警觉防线** | 显性元认知反思支架抵御 AI 表面流畅性，防止元认知惰性与心智萎缩 | 认识论摩擦、元认知惰性假说（$g^+ = 0.08$ 不显著） | [[Argument_Li_2026_CEAI\|Li et al. (2026)]]; [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] |
 > | **创造干预与策略内化** | 显性元认知指导显著促进创造性问题解决，独立深思比小组协作更有利于策略内化 | 元认知指导（MAI）、解题闭环、独立练习优势（$g = 0.682$ vs $g = 0.567$） | Hargrove & Nietfeld (2015); [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] |
 
 ---
@@ -243,6 +248,7 @@ updated: 2026-09-04
 > - **1970 年代　概念奠基与双成分模型** 弗拉维尔（Flavell, 1976, 1979）正式提出元认知概念，区分为元认知知识与元认知体验/调节，奠定了人类心智自我监控的研究基石。
 > - **1990–2000 年代　[[Self-Regulated Learning|自我调节学习]]整合与可教性实证** 宾特里奇（Pintrich, 2000, 2002）与齐默曼（Zimmerman）将元认知深度整合入自我调节学习（SRL）理论体系中，编制了 [[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale|MSLQ]] 等工具，确立了元认知策略的高度可教性。
 > - **2010 年代　批判反思、[[Epistemology|认识论]]课程与[[Creative Problem Solving|创造性问题解决]]** [[Argument_Cole_2015_AJE|Cole et al. (2015)]] 探讨 IB 认识论（ToK）课程的元认知训练效能；哈格罗夫与尼特菲尔德（Hargrove & Nietfeld, 2015）开展准实验，证实显性元认知指导对高校创造性问题解决的因果促学作用。
+> - **2025 年　基线控制[[Meta-analysis|元分析]]确证“元认知惰性”** [[Argument_Chen_Cheung_2025_ERR|Chen & Cheung (2025)]] 通过 57 项高校实验元分析证实生成式 AI 对元认知无统计显著促进（$g^+ = 0.078, p = .789$），推翻技术自发促学假说，实证确立防范元认知惰性的紧迫性。
 > - **2025–2026 年　大规模[[Meta-analysis|元分析]]确立协同机制与 AI 警觉防线** [[Argument_Park_2026_TSC|Park et al. (2026)]] 确立[[Creativity|创造力]]与[[Critical Thinking|批判性思维]]共享元认知底座（$r = 0.386$）；[[Argument_Guo_2025_TSC|Guo et al. (2025)]] 揭示独立练习深思（$g = 0.682$）促进元认知策略内化的组织优势；[[Argument_Li_2026_CEAI|Li et al. (2026)]] 确立显性元认知监控作为生成式 AI 时代维系[[Epistemological Vigilance|认识论警觉]]的战略防线。
 
 ---
@@ -265,7 +271,7 @@ updated: 2026-09-04
 
 > [!critique-method] 测量偏差与方法学陷阱
 > - **能力错觉掩盖元认知无知** 学习者在面对大模型快速生成的完美文本或阅读通顺教材时，极易产生“我已经完全掌握”的虚假流畅感，导致元认知监控机制过早终止。[[Argument_Li_2026_CEAI|(Li et al., 2026, p. 11)]]
-> - **[[Common Method Variance|共同方法变异]]虚增相关** 采用自陈[[Questionnaire|问卷调查]]元认知与学业成绩或[[Creativity|创造力]]时，主观评分同源方差导致观察相关显著高于客观行为关联。[[Argument_Park_2026_TSC|(Park et al., 2026, pp. 8–10)]]
+> - **[[Common Method Variance|共同方法变异]]虚增相关** 采用自陈[[Questionnaire|问卷调查]]元认知与[[Academic Achievement|学业成绩]]或[[Creativity|创造力]]时，主观评分同源方差导致观察相关显著高于客观行为关联。[[Argument_Park_2026_TSC|(Park et al., 2026, pp. 8–10)]]
 
 > [!warning] 适用边界与干预警示
 > 1. **警惕“过度元认知监控”引发的认知瘫痪** 在需要高度发散自由联想的初期阶段，过度严苛的批判性元认知审查会过早扼杀非传统构想；必须区分发散探索期（低监控）与收敛评定期（高监控）；

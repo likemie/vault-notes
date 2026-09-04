@@ -8182,6 +8182,28 @@
   margin-bottom: 0.2rem;
 }
 
+/* ─── feature 内嵌 taxonomy：双列卡片的序号收进各自卡片 ──────
+   taxonomy 的默认序号位于列表轨道左侧；嵌套列表被 feature 排成
+   双列后，奇数项会落到容器外并被裁切，偶数项则挤在列间。 */
+.callout[data-callout="feature"]
+  .callout[data-callout="taxonomy"]
+  .callout-content ul::before {
+  display: none;
+}
+
+.callout[data-callout="feature"]
+  .callout[data-callout="taxonomy"]
+  .callout-content ul > li {
+  padding-left: 2.9rem;
+}
+
+.callout[data-callout="feature"]
+  .callout[data-callout="taxonomy"]
+  .callout-content ul > li::before {
+  left: 0.8rem;
+  top: 0.82rem;
+}
+
 /* ─── 暗模式 ────────────────────────────────────────── */
 .theme-dark .callout[data-callout="feature"] {
   --callout-color: 60, 210, 160;
@@ -16551,7 +16573,7 @@
 }
 
 .callout:has(.concept-effect-table-marker) table {
-  width: max(100%, 1080px) !important;
+  width: max(100%, 1360px) !important;
   min-width: 0 !important;
   table-layout: fixed !important;
 }
@@ -16592,6 +16614,24 @@
 .callout:has(:is(.scrollable-table-marker, .concept-effect-table-marker, .concept-meta-analysis-table-marker, .concept-meta-moderator-table-marker, .concept-meta-robustness-table-marker, .concept-other-empirical-table-marker)) td .katex {
   white-space: nowrap;
 }
+
+/* 原始研究八列表：解除通用 130px 列下限，避免总宽度失控；
+   将主要空间交给干预、结果变量、组别统计和解释边界。 */
+.callout:has(.concept-effect-table-marker) table:has(thead th:nth-child(8)) :is(th, td) {
+  min-width: 0 !important;
+  max-width: none !important;
+  overflow-wrap: anywhere;
+  word-break: normal;
+}
+
+.callout:has(.concept-effect-table-marker) table:has(thead th:nth-child(8)) :is(th, td):nth-child(1) { width: 13% !important; }
+.callout:has(.concept-effect-table-marker) table:has(thead th:nth-child(8)) :is(th, td):nth-child(2) { width: 17% !important; }
+.callout:has(.concept-effect-table-marker) table:has(thead th:nth-child(8)) :is(th, td):nth-child(3) { width: 15% !important; }
+.callout:has(.concept-effect-table-marker) table:has(thead th:nth-child(8)) :is(th, td):nth-child(4) { width: 9% !important; }
+.callout:has(.concept-effect-table-marker) table:has(thead th:nth-child(8)) :is(th, td):nth-child(5) { width: 21% !important; }
+.callout:has(.concept-effect-table-marker) table:has(thead th:nth-child(8)) :is(th, td):nth-child(6) { width: 6% !important; }
+.callout:has(.concept-effect-table-marker) table:has(thead th:nth-child(8)) :is(th, td):nth-child(7) { width: 7% !important; }
+.callout:has(.concept-effect-table-marker) table:has(thead th:nth-child(8)) :is(th, td):nth-child(8) { width: 12% !important; }
 
 .callout:has(.concept-effect-table-marker) :is(th, td):is(:nth-child(1), :nth-child(2), :nth-child(3), :nth-child(8)),
 .callout:has(.concept-meta-analysis-table-marker) :is(th, td):is(:nth-child(1), :nth-child(2), :nth-child(7)),
