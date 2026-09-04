@@ -23,6 +23,7 @@ tags:
   - theme/evaluation
 related_concepts:
   - "[[External Auditor]]"
+  - "[[Social License to Operate]]"
   - "[[Public Engagement with Science]]"
 related_facts:
   - "[[Higher Education Funding Council for England]]"
@@ -61,7 +62,7 @@ updated: 2026-09-04
 >   3. **人员（People）** 科研人员发展（Staff）、学生赋权（Students）与公众伙伴关系（Public）。
 >   该工具将大学机构状态划分为胚芽期（Embryonic）、形成期（Developing）、抓手期（Gripping）与内嵌期（Embedded）四个阶梯，成为高校诊断制度短板的自评标准。
 > - **Watermark 卓越水印认证计划（Engage Watermark Awards）**
->   建立国家级高校公众参与能力资质评级体系（授予青铜、白银、黄金与白金水印），依据严格的独立专家[[External Auditor|外部审计]]与全校师生及外部社区同行评议，为高校争取优质社会声誉、吸引慈善资助及证明其社会运营许可（Licence to Operate）提供权威背书。（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06|The Royal Society, 2026, p. 98]]）
+>   建立国家级高校公众参与能力资质评级体系（授予青铜、白银、黄金与白金水印），依据严格的独立专家[[External Auditor|外部审计]]与全校师生及外部社区同行评议，为高校争取优质社会声誉、吸引慈善资助及证明其[[Social License to Operate|社会运营许可]]（Licence to Operate）提供权威背书。（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06|The Royal Society, 2026, p. 98]]）
 
 ---
 

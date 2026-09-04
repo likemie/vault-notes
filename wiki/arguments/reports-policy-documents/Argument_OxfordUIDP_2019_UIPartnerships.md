@@ -37,6 +37,7 @@ related_concepts:
   - "[[Corporate R&D Labs]]"
   - "[[Blue Skies Research]]"
   - "[[Translational Research]]"
+  - "[[Research Impact]]"
   - "[[Knowledge Exchange]]"
   - "[[Valley of Death]]"
   - "[[Return on Investment]]"
@@ -182,7 +183,7 @@ updated: 2026-08-20
 ### 论证步骤二：政策环境正在转向"有影响的知识"
 
 > [!abstract] 政策重心转向"有影响的知识"
-> 美国、英国和欧盟的科学与创新政策已从 20 世纪中期对基础科学资助的核心关注，转向强调投资组合——涵盖[[Blue Skies Research|基础研究]]、应用与[[Translational Research|转化研究]]以及使命和挑战驱动的研究。政策越来越强调"有影响的知识"（knowledge with impact）以及培育从知识到社会经济影响的路径。
+> 美国、英国和欧盟的科学与创新政策已从 20 世纪中期对基础科学资助的核心关注，转向强调投资组合——涵盖[[Blue Skies Research|基础研究]]、应用与[[Translational Research|转化研究]]以及使命和挑战驱动的研究。政策越来越强调"有影响的知识"（knowledge with impact）以及培育从知识到[[Research Impact|社会经济影响]]的路径。
 >
 > 在英国，[[Research Excellence Framework|研究卓越框架]]（[[Research Excellence Framework]], REF）现在同时评估学术产出的学术标准和研究组合的影响，学者在资助申请中被要求阐明影响路径。英国科学预算在 2021/22 前的四年期间追加 47 亿英镑，其中大量资金通过产业战略挑战基金（[[Industrial Strategy Challenge Fund|Industrial Strategy Challenge Fund]], ISCF）投入产业主导、产业参与的研究和创新优先领域。这些政策发展反映出资助者越来越认识到需要向纳税人证明：投资不仅产生了发现，而且正在转化为积极的社会成果（pp.5–6）。
 

@@ -25,6 +25,7 @@ related_concepts:
   - "[[Cooperative Education]]"
   - "[[Further Education]]"
   - "[[Executive Education]]"
+  - "[[Research Impact]]"
   - "[[Attrition]]"
   - "[[Clinical Trial]]"
   - "[[Reliability]]"
@@ -142,7 +143,7 @@ citation_aliases:
 > [!info]- 核心数据
 > 在美国，企业通常只支持不到 6% 的大学研究总支出。即便是产业资助最大的大学（UT M.D. Anderson、Duke、UPenn、MIT，均超过每年 1.5 亿美元），也只占到其研究总支出的 20%（[[National Science Foundation|NSF]], 2023）。联邦政府才是大学研究的最大资助方，占比远超过一半(p.5)。
 
-对齐（alignment）在人才发展、经济增长和知识产权等目标上比较清晰；在盈利能力与学术声誉之间则分歧较大。从一个研究发现到最终的"钱"和"名声"，企业和大学的路径截然不同：企业更直接地通过产品创新追求变现，大学更直接地通过引用追求研究影响力。但大学也深知——声誉最终会吸引捐赠、赞助研究、许可收入和其他资金来源(p.7)。
+对齐（alignment）在人才发展、经济增长和知识产权等目标上比较清晰；在盈利能力与学术声誉之间则分歧较大。从一个研究发现到最终的"钱"和"名声"，企业和大学的路径截然不同：企业更直接地通过产品创新追求变现，大学更直接地通过引用追求[[Research Impact|研究影响力]]。但大学也深知——声誉最终会吸引捐赠、赞助研究、许可收入和其他资金来源(p.7)。
 
 ![](https://img.mylikemie.icu/books/Hall_Boccanfuso_2025_Springer/figures/ui_engagement_loop_zh.svg)
 

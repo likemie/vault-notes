@@ -21,6 +21,7 @@ tags:
   - theme/public-engagement
 related_concepts:
   - "[[Dialogue in Education]]"
+  - "[[Social License to Operate]]"
   - "[[Deficit Model of Science Communication]]"
   - "[[Patient and Public Involvement]]"
   - "[[Paradigm]]"
@@ -60,7 +61,7 @@ updated: 2026-09-04
 
 > [!concept-lens] 概念透镜
 > - **含义** 区别于自上而下的单向科学普及，公众科学参与承认公众拥有独特的经验知识与价值诉求，强调平权对话与共同探索。
-> - **用途** 帮助科学界建立与维护科学研究的“社会许可”（Licence to Operate），保障公共科研经费支持，抵御虚假信息侵蚀。
+> - **用途** 帮助科学界建立与维护科学研究的“[[Social License to Operate|社会许可]]”（Licence to Operate），保障公共科研经费支持，抵御虚假信息侵蚀。
 > - **边界** 不等于公关宣传或单向知识灌输，必须包含真正的双向反馈与公众发声机制。
 
 > [!boundary]- 概念边界
@@ -85,7 +86,7 @@ updated: 2026-09-04
 ### 命题一　科学参与是维系科学事业社会许可与民主合法性的核心机制
 
 > [!concept-lens] 科学与社会的相互依存
-> 科学事业的发展无法脱离政治、财政与伦理层面的社会许可，公众参与是确保公共科研投入获得民主支持的生命线。
+> 科学事业的发展无法脱离政治、财政与伦理层面的[[Social License to Operate|社会许可]]，公众参与是确保公共科研投入获得民主支持的生命线。
 
 > [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026)]]
 > **科研生命周期的不可分割性** 公众参与必须被视为科研与教学文化的内在核心，而非科研工作之外的额外负担；唯有通过高质量的双向沟通，科学界才能在虚假信息蔓延的时代守护理性[[Dialogue in Education|对话]]的基石。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, pp. 14–15)]]

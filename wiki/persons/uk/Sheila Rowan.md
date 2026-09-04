@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Public Engagement with Science]]"
   - "[[Informal Science Learning]]"
+  - "[[Social License to Operate]]"
   - "[[Scientific Literacy]]"
 related_persons:
   - "[[Carlos Frenk]]"
@@ -71,7 +72,7 @@ updated: 2026-08-23
 ## 核心思想
 
 > [!claim] 核心主张
-> 科学参与不仅是实验室研究的外部衍生，更是维护科学研究“社会许可”（Licence to Operate）与维系公众对公共科研投入政治承诺的必要基石。面对全球气候危机、生态危机和人工智能伦理挑战，必须打破科研人员在职业考评和时间精力分配上面临的制度藩篱，为跨界公众沟通提供专业培训与保护。
+> 科学参与不仅是实验室研究的外部衍生，更是维护科学研究“[[Social License to Operate|社会许可]]”（Licence to Operate）与维系公众对公共科研投入政治承诺的必要基石。面对全球气候危机、生态危机和人工智能伦理挑战，必须打破科研人员在职业考评和时间精力分配上面临的制度藩篱，为跨界公众沟通提供专业培训与保护。
 
 ---
 

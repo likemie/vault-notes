@@ -30,6 +30,7 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Blue Skies Research]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Research Impact]]"
   - "[[Academic Freedom]]"
   - "[[Heterogeneity]]"
   - "[[Partnership Continuum]]"
@@ -157,7 +158,7 @@ citation_aliases:
 > **对齐（alignment）的三个层次**
 > - **高度对齐的领域** 人才发展（workforce development）、经济增长、知识产权——双方都有强烈动机
 > - **部分对齐的领域** 研究与学术——大学视其为目的本身，企业更多将其视为服务于盈利的手段
-> - **容易分歧的领域** 盈利 vs 学术声誉——从研究发现到"钱"和"名声"，企业和大学的路径截然不同：企业更直接地通过产品创新追求变现，大学更直接地通过引用追求研究影响力
+> - **容易分歧的领域** 盈利 vs 学术声誉——从研究发现到"钱"和"名声"，企业和大学的路径截然不同：企业更直接地通过产品创新追求变现，大学更直接地通过引用追求[[Research Impact|研究影响力]]
 
 > [!info]- 核心数据
 > 在美国，企业通常只支持不到 6% 的大学研究总支出。即便是产业资助最大的大学（UT M.D. Anderson、Duke、UPenn、MIT，均超过每年 1.5 亿美元），也只占到其研究总支出的 20%（[[National Science Foundation|NSF]], 2023）。联邦政府才是大学研究的最大资助方，占比远超过一半(p.5)。这意味着产学合作的驱动力不应是大学的财务需求——产业资金在大学预算中始终是次要角色。

@@ -29,10 +29,12 @@ tags:
 related_concepts:
   - "[[External Auditor]]"
   - "[[Evaluation Research]]"
+  - "[[Research Impact]]"
   - "[[Quasi-markets in Higher Education]]"
   - "[[New Public Management]]"
   - "[[Performance Indicators]]"
   - "[[Matthew Effect in Academia]]"
+  - "[[Public Engagement with Science]]"
   - "[[Shape-Shifting]]"
   - "[[New Professionalism]]"
   - "[[Blue Skies Research]]"
@@ -45,6 +47,7 @@ related_facts: []
 related_arguments:
   - "[[Argument_Schulze-Cleven_2017_HighEduc]]"
   - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
+  - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06]]"
   - "[[Argument_Cowen_2009_CE]]"
 confidence: high
 status: draft
@@ -74,7 +77,7 @@ updated: 2026-09-04
 > - **RAE 奠基阶段（1986年—2008年）**
 >   研究评估考核（Research Assessment Exercise，RAE）创立并运行。评估主要聚焦于研究产出质量（outputs），奠定了根据同行评审等级直接划拨 QR 财政经费的资源分配规则，促使绩效测量逻辑从单纯的信息反馈工具升级为国家资源的直接分配逻辑（[[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp. 801–802]]）。
 > - **REF 转型阶段与影响引入（2014年—2021年）**
->   2014年起，研究卓越框架（Research Excellence Framework，REF）正式取代 RAE。在评估维度上引入重大改革，不仅评估学术质量，还要求[[Evaluation Research|评估研究]]组合的“社会经济影响”（impact）。评估维度固定为：研究产出质量（Outputs，60%）、研究影响（Impact，25%）与研究环境（Environment，15%）（[[Argument_OxfordUIDP_2019_UIPartnerships|Oxford & UIDP, 2019, pp. 5–6]]）。
+>   2014年起，研究卓越框架（Research Excellence Framework，REF）正式取代 RAE。在评估维度上引入重大改革，不仅评估学术质量，还要求[[Evaluation Research|评估研究]]组合的“[[Research Impact|社会经济影响]]”（impact）。评估维度固定为：研究产出质量（Outputs，60%）、研究影响（Impact，25%）与研究环境（Environment，15%）（[[Argument_OxfordUIDP_2019_UIPartnerships|Oxford & UIDP, 2019, pp. 5–6]]）。
 > - **“催化影响”主导阶段（2020s后期）**
 >   REF 将学术产出的社会效益评估置于核心地位。学者在项目资助申请中被要求清晰阐明影响路径（pathways to impact）。这一转向反映了资助机构从单纯“资助科学”向“催化社会经济效益影响”的国际政策转向，向纳税人论证科学投资的实质回报（[[Argument_OxfordUIDP_2019_UIPartnerships|Oxford & UIDP, 2019, p. 5]]）。
 > - **REF 2029 改革与公众参与制度化阶段**
@@ -93,7 +96,7 @@ updated: 2026-09-04
 >   REF 同时运作三种功能：**符号分配**（赋予大学“世界领先”或“国际卓越”的声誉等级）、**物质分配**（决定质量相关财政拨款）、以及**合法性制造**（声称评估基于中立专家的研究质量评审）。相同的评分结果在 Russell Group 精英大学（作为扩张的公关资本）与 1992 年后升格大学（作为削减预算的合理化备忘录）产生了截然相反的合法性与生存后果。
 > - **大学及学者的行为性优化**
 >   院系和研究机构的日常运转、招聘、晋升以及资源配置系统性地围绕 REF 的审计标准展开。这驱使学者在选题时避开风险高、见效慢的研究，转而追求在 REF 周期内更易产生发表和可测度影响的研究，造成学术生态向短期效益偏斜。
-> - **公众科学参与影响力的测度困境与资源偏倚**
+> - **[[Public Engagement with Science|公众科学参与]]影响力的测度困境与资源偏倚**
 >   在 REF 2014 与 REF 2021 中，虽然约 50% 的影响力案例提及公众科学参与（人文社科领域显著高于理工医领域），但由于公众参与带来的社会认知与文化变革具有微妙、弥散与长周期特征，因果链条极其难以进行简单量化归因，导致高校在申报时存在顾虑，对公众参与的实质资源投入显著逊于专利商业化与技术创新（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06|The Royal Society, 2026, p. 101]]）。
 
 ---
@@ -117,5 +120,5 @@ updated: 2026-09-04
 > [!evidence-grid] 学术审计与 REF 影响研究
 > - **[[Argument_Cowen_2009_CE|Cowen (2009)]]** 批判性揭示了以 RAE/REF 为代表的数值化外部评估如何侵蚀大学自治自治边界，迫使大学转向管理主义公司并剥离[[Blue Skies Research|蓝天研究]]。
 > - **[[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al. (2017)]]** 将 REF 定位为[[Quasi-markets in Higher Education|高等教育准市场]]最成熟的制度形式，系统分析了其将[[Performance Indicators|绩效指标]]与财政拨款挂钩所带来的制度效应与行为重塑。
-> - **[[Argument_OxfordUIDP_2019_UIPartnerships|Oxford & UIDP (2019)]]** 阐述了 REF 框架下“社会经济影响（impact）”评估指标的引入，探讨其对大学科研成果向社会成果转化的催化作用与政策张力。
-> - **[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06|The Royal Society (2026, Ch. 6)]]** 系统解构了 REF 影响力评估机制对大学公众科学参与的双重效应，揭示约 50% 案例涉及参与背后的微观量化困境，并阐释 REF 2029 设立独立“参与与影响”维度的制度改革意涵。
+> - **[[Argument_OxfordUIDP_2019_UIPartnerships|Oxford & UIDP (2019)]]** 阐述了 REF 框架下“[[Research Impact|社会经济影响]]（impact）”评估指标的引入，探讨其对大学科研成果向社会成果转化的催化作用与政策张力。
+> - **[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06|The Royal Society (2026, Ch. 6)]]** 系统解构了 REF 影响力评估机制对大学[[Public Engagement with Science|公众科学参与]]的双重效应，揭示约 50% 案例涉及参与背后的微观量化困境，并阐释 REF 2029 设立独立“参与与影响”维度的制度改革意涵。

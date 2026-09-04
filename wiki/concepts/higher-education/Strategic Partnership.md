@@ -18,6 +18,7 @@ tags:
   - "level/higher-education"
 related_concepts:
   - "[[University-Industry Collaboration]]"
+  - "[[Research Impact]]"
   - "[[Translational Research]]"
   - "[[Growth]]"
   - "[[University Corporate Engagement Professional]]"
@@ -54,7 +55,7 @@ updated: 2026-05-28
 > 产学战略伙伴关系至少需要四个基本要素([[Argument_Burrus_Patera_2025_PartnershipBuilding|Burrus & Patera, 2025, pp.78–79]])：
 
 1. **双方联络人（Points of Contact, POCs）** 大学和企业各指定一个固定的对接人。联络人不仅要了解各自组织的需求，还要有能力在组织内部协调资源、推动决策。缺少联络人，合作关系会在"不知道该找谁"中逐渐冷却。
-2. **共同认可的愿景与目标** 不是泛泛的"加强合作"，而是具体的、双方都签字认可的方向描述。大学和企业的目标不必完全一致——大学追求研究影响力和人才发展，企业追求技术获取和市场回报——但必须有明确交集且交集被双方明确表述。
+2. **共同认可的愿景与目标** 不是泛泛的"加强合作"，而是具体的、双方都签字认可的方向描述。大学和企业的目标不必完全一致——大学追求[[Research Impact|研究影响力]]和人才发展，企业追求技术获取和市场回报——但必须有明确交集且交集被双方明确表述。
 3. **包含定期审查的路线图（Roadmap）** 将愿景分解为短期（一年内）、中期（一到三年）和长期（三年以上）目标，设定检查节点。定期审查对照 SMART 目标（具体、可衡量、可达成、相关、有时限）评估进展，然后做出"调整、改善、扩展或转向"的决定。
 4. **双方的问责制（Accountability）** 双方各自对照约定的目标承担责任。一个初始的问责目标示例："在未来一年内，双方将共同识别并启动至少一个[[Translational Research|转化研究]]合作项目；年末，由双方联络人审查完成情况并评估各自满意度。"
 

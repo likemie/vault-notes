@@ -28,6 +28,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Reflexivity]]"
   - "[[Technical Rationality]]"
+  - "[[Social License to Operate]]"
   - "[[Epistemology]]"
   - "[[Knowledge Production]]"
   - "[[Patient and Public Involvement]]"
@@ -117,7 +118,7 @@ updated: 2026-09-04
 > 面对人工智能、合成生物学与基因编辑等高风险前沿技术，缺乏早期公众审议的技术发展往往会在进入应用期后遭遇强烈的公众不信任与政治反弹。
 
 > [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety_Ch06|The Royal Society (2026)]]
-> **社会运营许可的源头构建** 现代大学与科研机构维系长期公共资金支持的关键在于保有“社会运营许可”（Licence to Operate）；若将公众参与降格为成果问世后的公关洗白，极易引发公众对科技利益暗箱操作的警惕；唯有在上游阶段坦诚披露科技路线的不确定性并吸纳公众价值关切，才能在全社会奠定深层信任基石。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06|(The Royal Society, 2026, pp. 93, 102)]]
+> **[[Social License to Operate|社会运营许可]]的源头构建** 现代大学与科研机构维系长期公共资金支持的关键在于保有“社会运营许可”（Licence to Operate）；若将公众参与降格为成果问世后的公关洗白，极易引发公众对科技利益暗箱操作的警惕；唯有在上游阶段坦诚披露科技路线的不确定性并吸纳公众价值关切，才能在全社会奠定深层信任基石。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06|(The Royal Society, 2026, pp. 93, 102)]]
 
 ---
 

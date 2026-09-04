@@ -32,12 +32,32 @@ sources:
   - "[[sources/RoyalSociety_2026_ScienceForSociety/RoyalSociety_2026_ScienceForSociety|RoyalSociety_2026_ScienceForSociety]]"
 part_of: "[[Argument_RoyalSociety_2026_ScienceForSociety]]"
 related_concepts:
+  - "[[Sage]]"
   - "[[Reliability]]"
+  - "[[Dialogue in Education]]"
+  - "[[Soft Power]]"
+  - "[[Paradigm]]"
+  - "[[Professional Judgment]]"
+  - "[[Growth]]"
+  - "[[Questionnaire]]"
+  - "[[Epistemology]]"
+  - "[[Generative Artificial Intelligence]]"
+  - "[[Scientific Literacy]]"
+  - "[[AI Hallucination]]"
+  - "[[Conflict of Interest in Research]]"
+  - "[[Policy Science in Comparative Education]]"
   - "[[Post-Normal Science]]"
+  - "[[Chain of Evidence]]"
   - "[[Scientific Uncertainty]]"
+  - "[[Variable]]"
+  - "[[Confidence Interval]]"
+  - "[[Emergence]]"
   - "[[Public Engagement with Science]]"
+  - "[[Social License to Operate]]"
+  - "[[Outcomes-based Education]]"
 related_methods:
-  - "[[Survey Research]]"
+  - "[[Case Study]]"
+  - "[[Peer Debriefing]]"
 related_facts:
   - "[[Rothschild Report 1971]]"
   - "[[Government Office for Science]]"
@@ -102,7 +122,7 @@ updated: 2026-09-04
 现代公共政策面临脱碳、国防安全、人口老龄化以及抗微生物药物耐药性（Antimicrobial Resistance, AMR）等层出不穷的系统性社会挑战，无一不需要突破性科学进展与持续日常科学研究的强力支撑。（pp. 79–80）
 
 > [!claim] 步骤一核心主张
-> 英国现行将科学研究与专业建议整合至政府决策的体制历经 50 年演进，其制度逻辑始于 1971 年《[[Rothschild Report 1971|罗斯柴尔德报告]]》确立的“市场化采购”模式；通过在政府各部委全面部署高级首席科学顾问（Chief Scientific Advisers, CSAs）网络，依托[[Government Office for Science|政府科学办公室]]（Government Office for Science, GO-Science）统筹跨部委前瞻预见，并辅以[[Scientific Advisory Group for Emergencies|紧急情况科学咨询小组]]（Scientific Advisory Group for Emergencies, SAGE）与[[Parliamentary Office of Science and Technology|议会科学与技术办公室]]（Parliamentary Office of Science and Technology, POST），构建了在全球范围内备受赞誉的行政与立法科学咨询双轨生态。（pp. 79–81）
+> 英国现行将科学研究与专业建议整合至政府决策的体制历经 50 年演进，其制度逻辑始于 1971 年《[[Rothschild Report 1971|罗斯柴尔德报告]]》确立的“市场化采购”模式；通过在政府各部委全面部署高级首席科学顾问（Chief Scientific Advisers, CSAs）网络，依托[[Government Office for Science|政府科学办公室]]（Government Office for Science, GO-Science）统筹跨部委前瞻预见，并辅以[[Scientific Advisory Group for Emergencies|紧急情况科学咨询小组]]（Scientific Advisory Group for Emergencies, [[Sage]]）与议会科学与技术办公室（[[Parliamentary Office of Science and Technology]], POST），构建了在全球范围内备受赞誉的行政与立法科学咨询双轨生态。（pp. 79–81）
 
 #### 主题一：现代重大社会挑战对前沿与日常科学支撑的双重依赖（pp. 79–80）
 
@@ -116,7 +136,7 @@ updated: 2026-09-04
 > - **司法裁判证据支撑**
 >   深入司法裁判体系之中，法医病理学、DNA 分析、电子数字取证与流行病学归因直接构成刑事与民事审判中定罪量刑的核心依据。（pp. 79–80）
 
-> [!case] 案例研究一：司法审判与法庭中的科学证据（Scientific Evidence in the Courtroom，pp. 79–80）
+> [!case] [[Case Study|案例研究]]一：司法审判与法庭中的科学证据（Scientific Evidence in the Courtroom，pp. 79–80）
 > 科学不仅进入议会辩论与政府行政，更深入渗透至司法裁判体系之中：
 > - **司法审判中的证据前沿** 在刑事与民事诉讼中，DNA 图谱分析、数字电子取证、流行病学归因以及法医病理学证据日益成为定罪量刑的核心依据。
 > - **法官与陪审团的科学理解短板** 复杂统计概率（如贝叶斯概率与匹配误差率）往往超出普通法官与公民陪审团的日常认知，历史上多次因对统计学不确定性的误读导致严重的司法误判（例如著名的萨莉·克拉克案中对婴儿猝死综合征概率的错误计算）。
@@ -124,8 +144,8 @@ updated: 2026-09-04
 
 > [!case] 案例研究二：动荡时代的跨国科学外交（Science Diplomacy in an Era of Disruption，p. 80, note 155）
 > 科学与决策的互动在全球化地缘政治博弈中具备独特的战略通道价值：
-> - **皇家学会与 AAAS 联合战略** 英国皇家学会与美国科学促进会（American Association for the Advancement of Science, AAAS）于 2025 年联合发布专项报告《动荡时代的科学外交》（*Science diplomacy in an era of disruption*），深度剖析在国际局势动荡与多边主义受挫情境下，科学合作如何维系国家间对话。
-> - **超越政治僵局的科学理性** 无论在南极科考、气候跨国履约还是前沿人工智能安全标准制定中，跨国科学界所共享的求真原则与证据规范，成为各国政府打破外交冰冻期、构建全球风险治理的重要软实力支柱。（p. 80）
+> - **皇家学会与 AAAS 联合战略** 英国皇家学会与美国科学促进会（American Association for the Advancement of Science, AAAS）于 2025 年联合发布专项报告《动荡时代的科学外交》（*Science diplomacy in an era of disruption*），深度剖析在国际局势动荡与多边主义受挫情境下，科学合作如何维系国家间[[Dialogue in Education|对话]]。
+> - **超越政治僵局的科学理性** 无论在南极科考、气候跨国履约还是前沿人工智能安全标准制定中，跨国科学界所共享的求真原则与证据规范，成为各国政府打破外交冰冻期、构建全球风险治理的重要[[Soft Power|软实力]]支柱。（p. 80）
 
 #### 主题二：罗斯柴尔德报告（[[Rothschild Report 1971]]）与科研采购“市场化”范式确立（p. 80）
 
@@ -135,7 +155,7 @@ updated: 2026-09-04
 > - **发布主体** 英国中央政策审查参谋部（Central Policy Review Staff, CPRS）负责人维克多·罗斯柴尔德勋爵（Lord Victor Rothschild, 1971）
 > - **适用对象** 英国中央政府各行政部委、国家研究理事会（Research Councils）及公共部门科研机构（Public Sector Research Establishments, PSREs）
 > - **政策问题** 战后政府科研经费急剧攀升，但应用科研与政府行政决策及公共需求严重脱节，财政部问责压力激增
-> - **制度位置** 打破 1918 年霍尔丹报告确立的纯学术自主传统，确立现代“客户-承包商原则”（Customer-Contractor Principle）与国家科研市场采购范式
+> - **制度位置** 打破 1918 年霍尔丹报告确立的纯学术自主传统，确立现代“客户-承包商原则”（Customer-Contractor Principle）与国家科研市场采购[[Paradigm|范式]]
 
 > [!case] 案例研究三：海洋渔业配额制定（Fisheries Quotas Setting，p. 80）
 > 公共部门科研机构的专门设计正是为了支撑持续的政府规制职能：
@@ -144,7 +164,7 @@ updated: 2026-09-04
 
 #### 主题三：部委首席科学顾问（CSAs）网络与“智能客户”（Intelligent Customer）角色（pp. 80–81）
 
-为适应市场化采购，政府部门自身必须具备界定科研需求与评估成果的专业判断力：
+为适应市场化采购，政府部门自身必须具备界定科研需求与评估成果的[[Professional Judgment|专业判断力]]：
 
 > [!feature] 首席科学顾问（Chief Scientific Advisers, CSAs）的制度属性
 > - **智能客户统筹职责** 政府成为科研项目的专业客户，由高级首席科学顾问统筹部委科研外包并审核交付质量。
@@ -157,7 +177,7 @@ updated: 2026-09-04
 
 > [!actor-grid] 行政端科技咨询与证据治理核心主体
 > - **政府首席科学顾问与政府科学办公室（GCSA & GO-Science）** 设于中央内阁中枢，由政府首席科学顾问（Government Chief Scientific Adviser, GCSA）领导，统筹跨部委顾问网络并发布国家前瞻预见报告（Foresight Reports）。
-> - **部委首席科学顾问网络（Departmental CSAs）** 嵌入各行政部委核心高层，统筹部门科研采购并常态化发布[[Areas of Research Interest|重点研究领域清单（Areas of Research Interest, ARIs）]]。
+> - **部委首席科学顾问网络（Departmental CSAs）** 嵌入各行政部委核心高层，统筹部门科研采购并常态化发布[[Areas of Research Interest|重点研究领域清单]]（Areas of Research Interest, ARIs）。
 > - **首席医疗官与国家技术顾问（CMO & NTA）** 常设于卫生与技术战略关键领域，由首席医疗官（Chief Medical Officer, CMO）与国家技术顾问（National Technology Adviser, NTA）提供专业咨询。
 > - **部委科学顾问委员会（Departmental SACs）** 主要由非官方独立学者构成，为部委中长期政策提供外部学术论证与客观同行评议。（p. 81）
 
@@ -166,9 +186,9 @@ updated: 2026-09-04
 除日常行政决策外，英国制度生态还针对突发公共危机与议会立法审议设立了专门机制：
 
 > [!taxonomy] 应急科学咨询与立法科技评估的双轨机制
-> - **行政应急咨询轨：紧急情况科学咨询小组（[[Scientific Advisory Group for Emergencies|SAGE]]）** 面对突发公共危机，可在国家紧急状态宣布后 30 分钟内作为内阁简报室（Cabinet Office Briefing Room, COBR）下设委员会迅速组建，动态汇聚跨学科前沿专家提供即时科学评估。
+> - **行政应急咨询轨：紧急情况科学咨询小组（SAGE）** 面对突发公共危机，可在国家紧急状态宣布后 30 分钟内作为内阁简报室（Cabinet Office Briefing Room, COBR）下设委员会迅速组建，动态汇聚跨学科前沿专家提供即时科学评估。
 > - **立法评估制衡轨：议会科学与技术办公室（[[Parliamentary Office of Science and Technology|POST]]）** 独立于行政内阁，面向议会两院提供经严格同行评议的客观科技政策简报（POSTnotes），两院各专责委员会亦常设专家顾问进行证据调查。
-> - **跨部门规制指南轨：财政部《绿皮书》与评估工作组（ETF）** 在全政府层面，依据英国财政部《[[The Green Book|绿皮书]]》（HM Treasury The Green Book）与政府评估工作组（Government Evaluation Task Force, ETF），推进科学信息在政策论证与投资评估中的规范应用。（p. 81）
+> - **跨部门规制指南轨：财政部《[[The Green Book|绿皮书]]》与评估工作组（ETF）** 在全政府层面，依据英国财政部《[[The Green Book|绿皮书]]》（HM Treasury The Green Book）与政府评估工作组（Government Evaluation Task Force, ETF），推进科学信息在政策论证与投资评估中的规范应用。（p. 81）
 
 > [!index-table] 表5-3：英国中央政府科学咨询机制五十年演进与核心支柱矩阵（pp. 80–81）
 > | 机制模块与组织构件 | 设立时间与制度渊源 | 核心行政/法律职能 | 关键输出成果与运作方式 | 在决策链条中的定位 |
@@ -183,17 +203,17 @@ updated: 2026-09-04
 
 ### 论证步骤二：立法机构决策者的信源失真困境与公共科研机构的持续生存危机（pp. 82–83）
 
-尽管英国整合科学与政策的体系享有国际声誉，但该体系在数十年间以半自发（ad hoc）方式生长，面对日益复杂的现代治理呈现出深层结构性脆弱。（p. 82）
+尽管英国整合科学与政策的体系享有国际声誉，但该体系在数十年间以半自发（ad hoc）方式[[Growth|生长]]，面对日益复杂的现代治理呈现出深层结构性脆弱。（p. 82）
 
 > [!claim] 步骤二核心主张
 > 立法决策者对权威、独立与经过同行评议的科学信源使用严重不足，高达 55% 的国会议员主要依赖带有潜在政治或商业偏见的智库与倡导团体，对议会专属科技机构（POST，仅 22%）及国家学术院报告（仅 12%）利用率极低；与此同时，半个世纪以来的市场化外包导致公共部门科研机构（PSREs）基础设施与专业人才队伍遭到慢性侵蚀，使国家在关键战略领域的长期自主科研支撑能力面临严重萎缩风险。（pp. 82–83）
 
 #### 主题一：国会议员科学信源的偏误结构与权威中介边缘化
 
-在 2025 年 4 月由英国皇家学会委托 YouGov 对 108 名英国国会议员（Members of Parliament, MPs）开展的专项[[Survey Research|问卷调查]]中，议员在履行立法公职时获取科学信息的渠道暴露出了惊人的偏误结构：
+在 2025 年 4 月由英国皇家学会委托 YouGov 对 108 名英国国会议员（Members of Parliament, MPs）开展的专项[[Questionnaire|问卷调查]]中，议员在履行立法公职时获取科学信息的渠道暴露出了惊人的偏误结构：
 
 > [!index-table] 表5-1：英国国会议员履行公职时获取科学信息的主要来源统计（YouGov 专项调查，2025 年 4 月，N = 108，多选题，p. 83）
-> | 科学信息来源类别 | 议员选择比例（%） | 排序位次 | 机构性质与典型代表 | 潜在认识论局限与偏见风险 |
+> | 科学信息来源类别 | 议员选择比例（%） | 排序位次 | 机构性质与典型代表 | 潜在[[Epistemology\|认识论]]局限与偏见风险 |
 > |---|---|---|---|---|
 > | **智库与倡导团体** | **55%** | **第 1 位** | 政策交流所（Policy Exchange）、绿色联盟（Green Alliance）等 | **严重立场偏倚**。设立初衷多为特定意识形态或既定政策目标服务，缺乏客观综合与严格同行评议。 |
 > | **大学与高校学者** | **48%** | **第 2 位** | 全英各高校学科专家、讲席教授 | **个体观点局限**。学术声誉高，但多代表个人研究切面，往往缺乏跨学科共识与政策可操作性提炼。 |
@@ -203,17 +223,17 @@ updated: 2026-09-04
 > | **议会科学技术办公室（POST）** | **22%** | **第 6 位** | 英国议会两院常设法定科技评估机构 | **法定中立中枢遇冷**。专为两院议员量身定制的同行评议简报，却仅有略超两成议员经常使用。 |
 > | **其他来源** | 14% | 第 7 位 | 地方选民信件、商业公司游说材料等 | 碎片化、偶发性输入。 |
 > | **国家学术院综合报告** | **12%** | **第 8 位** | 英国皇家学会、英国国家学术院、皇家工程院等 | **顶级学术智库严重被边缘化**。全英最高公信力与学术水准的科学综合报告，仅约十分之一议员主动查阅。 |
-> | **人工智能工具（AI）** | **5%** | **第 9 位** | 商业大语言模型工具 | **隐性风险严重低估**。自述比例极低，但鉴于主流搜索引擎已全面集成生成式 AI，实际受 AI 影响远超预期。 |
+> | **人工智能工具（AI）** | **5%** | **第 9 位** | 商业大语言模型工具 | **隐性风险严重低估**。自述比例极低，但鉴于主流搜索引擎已全面集成[[Generative Artificial Intelligence\|生成式 AI]]，实际受 AI 影响远超预期。 |
 > | **不知道／不确定** | 5% | 第 10 位 | — | 缺乏清晰的科学信息渠道概念。 |
 
 #### 主题二：新一届议员的证据鉴别短板与 AI 隐性渗透
 
-调查数据进一步揭示了立法机构在科学素养与信息鉴别机制上的系统性缺失：
+调查数据进一步揭示了立法机构在[[Scientific Literacy|科学素养]]与信息鉴别机制上的系统性缺失：
 
 > [!challenges] 议员科学信息鉴别的能力短板与新兴技术风险
 > 1. **新任议员对权威科学中介尤为疏离** 2024 年大选后进入议会的新生代议员中，使用权威法定科学信源的比例处于显著少数，仅 22% 提及 POST，仅 12% 查阅国家学术院综合报告。
 > 2. **科学证据可靠性判断规程缺失** 议员在面对海量互联网信息与精美游说简报时，缺乏经过同行评议验证的科学可靠性与稳健性甄别规程，易受带有立场偏见的材料误导。
-> 3. **生成式人工智能渗透带来的隐性风险** 尽管仅 5% 议员自述使用 AI，但主流商业搜索引擎已深度内嵌生成式 AI 摘要，议员及其助手在检索中正承受算法幻觉与偏见隐性渗透的风险。（p. 82）
+> 3. **生成式人工智能渗透带来的隐性风险** 尽管仅 5% 议员自述使用 AI，但主流商业搜索引擎已深度内嵌生成式 AI 摘要，议员及其助手在检索中正承受算法[[AI Hallucination|幻觉]]与偏见隐性渗透的风险。（p. 82）
 
 > [!case] 案例研究四：智库与倡导团体对议会立法的定向议程设置（pp. 82–83）
 > 议员对智库信源的高依赖性（55%）构成立法科学性的一大隐患：
@@ -251,7 +271,7 @@ updated: 2026-09-04
 
 > [!case] 案例研究五：美国联邦科学咨询机构遭遇政治干预的国际警示（p. 84）
 > 国际政治现实为科学顾问体系提供了前车之鉴：
-> - **美国联邦科学顾问遭遇政治清洗的阴影** 皇家学会报告特别指出，近期在美国联邦政府层面，科学机构与外部顾问委员会遭遇了严重的政治干预浪潮：当关于气候变化、公共卫生防疫以及环境毒理学的客观科学证据与当权者的政治叙事或化石能源游说集团利益冲突时，多位资深科学顾问遭到解雇、边缘化，甚至科学评估报告遭到非专业政治任命官员的强行审查与删改。
+> - **美国联邦科学顾问遭遇政治清洗的阴影** 皇家学会报告特别指出，近期在美国联邦政府层面，科学机构与外部顾问委员会遭遇了严重的政治干预浪潮：当关于气候变化、公共卫生防疫以及环境毒理学的客观科学证据与当权者的政治叙事或化石能源游说集团[[Conflict of Interest in Research|利益冲突]]时，多位资深科学顾问遭到解雇、边缘化，甚至科学评估报告遭到非专业政治任命官员的强行审查与删改。
 > - **警惕筛选任用破坏科学求真本质** 这一动向警示英国，如果部委在遴选、招募与管理 CSAs 及科学顾问委员会专家时，暗中以“是否符合本届政府意识形态”为导向，科学建议将彻底退化为政治公关的传声筒；国家学术院必须组建常态化监督机制，捍卫顾问遴选的纯粹学术诚信。
 
 #### 主题三：体制内科学家身份界限模糊与大选静默期（purdah）规则滥用
@@ -267,17 +287,17 @@ updated: 2026-09-04
 
 ### 论证步骤四：循证决策的“黑箱化”弊病与后常规科学时代的证据透明度治理（pp. 85–86）
 
-政府决策在多大程度上真正基于科学证据，在现实中往往高度不透明，严重削弱了社会公众对政府政策科学性的信任基础。（p. 86）
+政府决策在多大程度上真正基于科学证据，在现实中往往高度不透明，严重削弱了社会公众对政府[[Policy Science in Comparative Education|政策科学]]性的信任基础。（p. 86）
 
 > [!claim] 步骤四核心主张
-> 政客频繁滥用“遵循科学”口号掩盖基于经济、政治与选票的多维妥协，导致公众信任遭到政治操弄的反噬；在面对事实高度不确定且社会赌注巨大的[[Post-Normal Science|后常规科学]]（Post-Normal Science）问题时，决策者必须公开披露完整的科学证据链、坦诚承认[[Scientific Uncertainty|科学不确定性]]、并详尽说明“为何未采纳特定科学证据”，彻底消除政策制定中的选择性挑选证据（cherry-picking）现象。（pp. 85–86）
+> 政客频繁滥用“遵循科学”口号掩盖基于经济、政治与选票的多维妥协，导致公众信任遭到政治操弄的反噬；在面对事实高度不确定且社会赌注巨大的[[Post-Normal Science|后常规科学]]（Post-Normal Science）问题时，决策者必须公开披露完整的科学[[Chain of Evidence|证据链]]、坦诚承认[[Scientific Uncertainty|科学不确定性]]、并详尽说明“为何未采纳特定科学证据”，彻底消除政策制定中的选择性挑选证据（cherry-picking）现象。（pp. 85–86）
 
 #### 主题一：“遵循科学”口号背后的政治动机隐蔽与公信力侵蚀
 
 决策者在公众沟通中对科学权威的工具化挪用，是诱发公众对科学产生信任危机的制度根源：
 
 > [!tension] 真实多维决策考量与口号化“遵循科学”的公信力断裂
-> - **多维决策的政治正当性** 部长在公共决策中必然权衡伦理、预算、选区民意与政党政策等多维非科学变量，这在民主治理中本身具有正当性。
+> - **多维决策的政治正当性** 部长在公共决策中必然权衡伦理、预算、选区民意与政党政策等多维非科学[[Variable|变量]]，这在民主治理中本身具有正当性。
 > - **口号化“遵循科学”的公信力反噬** 政客以科学为单一挡箭牌掩盖政治妥协，一旦真实政治动机被揭穿，将反噬公众对科学求真客观性的根本信任。（p. 86）
 
 #### 主题二：后常规科学（[[Post-Normal Science]]）情境下的证据与不确定性治理
@@ -289,9 +309,9 @@ updated: 2026-09-04
 > - **政策分析用途** 破除将前沿科技决策等同于纯粹封闭实验室常规科学的幻象，为高风险决策中的不确定性披露提供认识论指引。
 > - **有效性边界** 不适用于低风险、高共识的常规技术工程问题，不能作为否定可靠实证科学证据的相对主义借口。
 
-> [!theory-components] 后常规科学决策矩阵与扩展同行审议构件（Funtowicz & Ravetz, 1993; p. 86）
+> [!theory-components] 后常规科学决策矩阵与扩展[[Peer Debriefing|同行审议]]构件（Funtowicz & Ravetz, 1993; p. 86）
 > - **事实高度不完备**
->   科学前沿面对开放复杂巨系统，模型推演存在内在认知误差与置信区间，无法提供绝对确定性的技术解。
+>   科学前沿面对开放复杂巨系统，模型推演存在内在认知误差与[[Confidence Interval|置信区间]]，无法提供绝对确定性的技术解。
 > - **价值立场深刻分歧**
 >   政策直接触动不同社会阶层与群体的切身利益与伦理权衡，没有任何纯技术公式能够自动裁决价值排序。
 > - **扩展同行共同体（Extended Peer Community）**
@@ -306,7 +326,7 @@ updated: 2026-09-04
 > - **全面落地财政部绿皮书不确定性规范** 将英国财政部《绿皮书》中关于科学不确定性、乐观偏差与敏感性分析的要求转化为各部委必须执行的可审计硬指标。（pp. 86–87）
 
 > [!case] 案例研究七：民间机构 Independent SAGE 的全透明公共直播实践（Greenhalgh et al., 2025; p. 86）
-> 新冠疫情期间英国涌现出的民间科学咨询创新树立了全球公共对话的新高度：
+> 新冠疫情期间英国[[Emergence|涌现]]出的民间科学咨询创新树立了全球公共对话的新高度：
 > - **官方早期的闭门保密争议** 2020 年初官方 SAGE 会议早期遵循严格保密规约，不公开参会专家名单、未发布详细会议纪要与流行病学原始数学模型，引发大众对群体免疫政策与疫苗策略的深刻恐慌与阴谋论猜测。
 > - **独立小组的激进透明度改革** 由前政府首席科学顾问大卫·金爵士（Sir David King）牵头、特里莎·格林哈尔（Trisha Greenhalgh）等顶尖临床与公共卫生学者组建了民间独立的“紧急科学咨询小组”（Independent SAGE）；该小组打破一切官僚繁文缛节，坚持**每周五通过 YouTube 平台面向全社会公开直播例会**，直接回答普通民众与各路记者的在线提问，并将所有政策简报与数学模型全网开源。
 > - **公共对话的制度反哺** 皇家学会明确将 Independent SAGE 列为现代公共对话（Public Dialogue）的典范；正是这种民间彻底透明的公众审议，有力倒逼官方 SAGE 全面改革，最终常态化公开发布全部纪要与支撑论文，确立了科学咨询与社会公众直接共创的现代化标准。（Greenhalgh et al., 2025; p. 86）
@@ -341,7 +361,7 @@ updated: 2026-09-04
 > 面对飞速演进的破坏性技术，传统的治理节奏正遭遇前所未有的失效：
 > - **传统被动响应式沟通的破产** 长期以来，科学界与政府习惯于采取“被动响应”（responsive approach）——即在实验室取得突破并在商业市场大行其道之后，才开始向公众宣传，并在社会爆发道德恐慌或失业焦虑时被动灭火（如早期的转基因抵制危机）。
 > - **新兴技术的不可逆冲击** 当前以生成式人工智能、脑机接口、合成生物学与基因驱动（gene drives）为代表的新兴颠覆性技术，其技术扩散周期被压缩至数月之间；一旦技术定型与资本锁定完成，事后补救式规制将完全失去效力。
-> - **前瞻性共进化对话（co-evolving dialogue）** 皇家学会第 16 项建议明确提出，科学共同体必须联合专业协调中介（如[[Sciencewise|英国科学智慧计划，Sciencewise]]），在这些颠覆性技术的研发早期就常态化召集包含多元受众的公众审议，使社会公众的伦理关切能够反向约束技术设计与政策指引。
+> - **前瞻性共进化对话（co-evolving dialogue）** 皇家学会第 16 项建议明确提出，科学共同体必须联合专业协调中介（如[[Sciencewise|英国科学智慧计划]]，Sciencewise），在这些颠覆性技术的研发早期就常态化召集包含多元受众的公众审议，使社会公众的伦理关切能够反向约束技术设计与政策指引。
 
 #### 主题二：建议十四：推行法定《科学证据陈述》（Scientific Evidence Statements）确立全球透明度典范（p. 87）
 
@@ -359,7 +379,7 @@ updated: 2026-09-04
 > [!pathways] 建议十五：国家学术院开展政策科学证据质量独立审计（Recommendation 15, p. 88）
 > 国家学术院（包括英国皇家学会、英国国家学术院、皇家工程院及医学科学院）作为独立于英国政府的权威机构，必须在监督重大政策决策中科学证据的质量与使用方面承担主动的公共问责角色：
 > - **对重大政策开展公开证据审查** 针对政府、议会两院以及各主要政党在重大政策决定中所引用的科学证据，国家学术院应主动发起公开、严谨的独立审视，确保科学事实以客观、清晰且完全剥离政治偏见的方式呈现在全社会面前。
-> - **跨界联合专业治理机构协同审计** 国家学术院应深度联合政府研究所（Institute for Government, IfG）以及[[Sense about Science|“科学认知组织”（Sense about Science）]]等具有广泛社会公信力的第三方独立机构，常态化联合评估政府将科学证据融入政策制定的实际成效及其面向公众沟通的透明度。（p. 88）
+> - **跨界联合专业治理机构协同审计** 国家学术院应深度联合政府研究所（Institute for Government, IfG）以及“[[Sense about Science|科学认知组织]]”（Sense about Science）等具有广泛社会公信力的第三方独立机构，常态化联合评估政府将科学证据融入政策制定的实际成效及其面向公众沟通的透明度。（p. 88）
 
 #### 主题四：建议十六：科学界主动推进前沿颠覆性技术的常态化前瞻公共对话（p. 88）
 
@@ -368,7 +388,7 @@ updated: 2026-09-04
 > [!pathways] 建议十六：科学界前瞻推进新兴技术常态化公共对话（Recommendation 16, p. 88）
 > 科学共同体必须主动出击，针对新兴技术与前沿科研大力促进深度的[[Public Engagement with Science|公众科学参与]]与民主对话，确保技术对伦理道德与公共政策的深远冲击在萌芽阶段即得到充分考量：
 > - **构筑持续共创的双向对话环境** 包括国家学术院在内的全体科学界负有不可推卸的责任，必须主动融入与公众、政界人士及政策社群的持续对话，创造包容、支持性的对话生态，以此作为维系公众对科学长期信任的根本要素。
-> - **动员专业协商推进机构** 充分调动国家学术院、[[Sciencewise|英国科学智慧计划（Sciencewise）]]、[[Sense about Science|“科学认知组织”（Sense about Science）]]等具备专业中立协调能力的专业组织，搭建汇聚科学专业知识、公众真实心声与政府政策关切的三方协同协商平台。
+> - **动员专业协商推进机构** 充分调动国家学术院、英国科学智慧计划（Sciencewise）、“科学认知组织”（Sense about Science）等具备专业中立协调能力的专业组织，搭建汇聚科学专业知识、公众真实心声与政府政策关切的三方协同协商平台。
 > - **科研预算专项划拨与决策层 STEM 素养培训** 必须在国家科学研究总预算（及英国研究与创新署，UKRI 等科研资助体系）中专门划拨充足的资源与专项技能培训经费，赋能科学家开展高质量公共参与；同时全面加强整个政策制定体系（包括政府各部委与议会两院）的科学、技术、工程与数学（Science, Technology, Engineering and Mathematics, STEM）研究和数据分析素养，长远看这将在提升公众信任与平稳推行新技术应用中带来成倍的社会回报。（p. 88）
 
 > [!index-table] 表5-4：政策与科学治理三大国家建议落地实施矩阵（pp. 87–88）
@@ -376,7 +396,7 @@ updated: 2026-09-04
 > |---|---|---|---|---|
 > | **建议 14：法定发布《科学证据陈述》** | 政策全流程强制披露科学证据基础，明确标注科学不确定性 | 英国中央政府、内阁办公室、各部委政策司 | 财政部《绿皮书》政策指引更新、通俗英文撰写审查、法定随附程序 | 彻底终结政策循证黑箱与口号化“遵循科学”，重塑循证决策公信力 |
 > | **建议 15：国家学术院独立审查监督** | 对政府与政党重大政策科学证据行使独立第三方公共质询与审计 | 国家各学术院（Royal Society 等）、IfG、[[Sense about Science]] | 联合独立证据审查报告、公开质询听证、跨党派透明度排行榜 | 阻断政治偏见与意识形态对科学证据的篡改，捍卫科学顾问制度独立性 |
-> | **建议 16：前瞻新兴技术公共对话** | 针对 AI、合成生物等前沿技术在早期建立平权前瞻审议对话 | 科学共同体、国家学术院、[[Sciencewise]]、科研资助机构（UKRI） | 科研总预算专项资助划拨、全政策层 STEM 技能提升、专业中介协商网络 | 扭转仅 12% 决策参与感，在颠覆性技术落地前建立稳固社会许可与公众信任 |
+> | **建议 16：前瞻新兴技术公共对话** | 针对 AI、合成生物等前沿技术在早期建立平权前瞻审议对话 | 科学共同体、国家学术院、[[Sciencewise]]、科研资助机构（UKRI） | 科研总预算专项资助划拨、全政策层 STEM 技能提升、专业中介协商网络 | 扭转仅 12% 决策参与感，在颠覆性技术落地前建立稳固[[Social License to Operate\|社会许可]]与公众信任 |
 
 #### 主题五：第五章专家研制工作组背景与政策专家构成（Annex 1, p. 111）
 
@@ -389,7 +409,7 @@ updated: 2026-09-04
 >   - 萨莉·贝利教授（Professor Sallie Bailey）：英格兰自然保护署首席科学家；
 >   - 爱丽丝·鲍文（Alice Bowen）：英国青年科学院成员、曼彻斯特大学化学系资深讲师；
 >   - 罗伯特·布拉德本博士（Dr Robert Bradburne）：英国环境署首席科学家；
->   - 特蕾西·布朗（Tracey Brown OBE）：英国独立科学公益组织[[Sense about Science|“科学认知组织”（Sense about Science）]]总干事；
+>   - 特蕾西·布朗（Tracey Brown [[Outcomes-based Education|OBE]]）：英国独立科学公益组织“科学认知组织”（Sense about Science）总干事；
 >   - 凯瑟琳·哈登（Catherine Haddon）：英国智库“政府研究所”（Institute for Government, IfG）资深研究员；
 >   - 罗宾·洛弗尔-巴奇教授（Professor Robin Lovell-Badge CBE FMedSci FRS）：英国皇家学会会士、弗朗西斯·克里克研究所干细胞生物学与发育遗传学实验室主任。（p. 111）
 
@@ -398,10 +418,10 @@ updated: 2026-09-04
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **科学顾问机制面临立法信源偏误与公共机构投资萎缩双重压力** 议员日常履职过度依赖立场偏见的智库（55%）而极少使用法定权威信源（POST 仅 22%），同时公共部门科研机构（PSREs）基础能力遭长期削减侵蚀。（pp. 80–83）
+> 1. **科学顾问机制面临立法信源偏误与公共机构投资萎缩双重压力** 议员日常履职过度依赖立场偏见的智库（55%）而极少使用法定权威信源（[[Parliamentary Office of Science and Technology|POST]] 仅 22%），同时公共部门科研机构（PSREs）基础能力遭长期削减侵蚀。（pp. 80–83）
 > 2. **科学顾问独立性面临潜在政治化压力与程序规则滥用** 处于体制内参谋与独立挑刺者双重张力下的 CSAs 面临依附性管理的现实风险，大选前静默期规则被过度泛化用于不当封堵客观科学发声。（p. 84）
-> 3. **后常规治理要求破除政策黑箱与口号化“遵循科学”** 面对高赌注与高不确定性决策，政客以科学为挡箭牌掩盖利益权衡的行为严重反噬科学公信力；必须依据《绿皮书》坦诚披露科学不确定性并说明为何未采纳特定证据。（pp. 85–86）
-> 4. **公众高度认同专家建言但对决策参与赤字表达强烈不满** 75% 公众支持专家建言政府、62% 诉求顺应民意，但仅 12% 感觉充分参与科技决策，76% 批评政府未作公众咨询努力；报告提出由法定证据陈述、学术院独立审计与前瞻对话构成的行动闭环。（pp. 85–88）
+> 3. **后常规治理要求破除政策黑箱与口号化“遵循科学”** 面对高赌注与高不确定性决策，政客以科学为挡箭牌掩盖利益权衡的行为严重反噬科学公信力；必须依据《[[The Green Book|绿皮书]]》坦诚披露[[Scientific Uncertainty|科学不确定性]]并说明为何未采纳特定证据。（pp. 85–86）
+> 4. **公众高度认同专家建言但对决策参与赤字表达强烈不满** 75% 公众支持专家建言政府、62% 诉求顺应民意，但仅 12% 感觉充分参与科技决策，76% 批评政府未作公众咨询努力；报告提出由法定证据陈述、学术院独立审计与前瞻[[Dialogue in Education|对话]]构成的行动闭环。（pp. 85–88）
 
 > [!stat-cards]- 核心数据
 > - **55% vs 22%** 英国国会议员履职中主要依赖智库与倡导团体（55%），而使用议会科学技术办公室（POST）的比例仅为 22%（YouGov, 2025, p. 83）。
@@ -410,7 +430,7 @@ updated: 2026-09-04
 > - **75%** 英国公众压倒性认同应由专家而非普通公众就科技发展的长远影响向政府提供专业建言（PAS 2025, p. 85）。
 > - **62% vs 12%** 62% 公众要求政府决策顺应公众对科技的关切，但仅 12% 感觉公众在科技决策中得到了充分参与（PAS 2025, p. 85）。
 > - **76%** 超过四分之三受访公众严厉批评政府在重大科技决策中几乎没有付出努力去咨询民意（PAS 2025, p. 86）。
-> - **30 分钟** 英国国家紧急状态宣布后，紧急情况科学咨询小组（SAGE）可完成动态跨学科专家组建的响应时间（p. 81）。
+> - **30 分钟** 英国国家紧急状态宣布后，[[Scientific Advisory Group for Emergencies|紧急情况科学咨询小组]]（[[Sage]]）可完成动态跨学科专家组建的响应时间（p. 81）。
 
 ---
 
@@ -426,10 +446,10 @@ updated: 2026-09-04
 >
 > *It is understandable that ministers will take decisions based on a wide variety of factors beyond just the scientific evidence, including social, political and economic factors. Nevertheless, evidence has shown that, when politicians claim to ‘follow the science’, decisions may be based on other factors, undermining public trust in science. Therefore, how scientific evidence has been considered and used in a decision, alongside other factors, should be clearly communicated to the public.*
 
-> [!citation-card]- 后常规科学问题中必须诚实披露未采纳证据
-> 需要付出更大努力将公共政策与科学证据及其固有的不确定性明确关联，从而降低“后常规问题”（当赌注极高、科学不确定性极高且对科学信息需求极度迫切时）变得愈发棘手难解的风险。例如，至关重要的是，不仅要对科学不确定性保持诚实，还必须在相关科学信息未被采纳时给出明确解释，以此坚决防止为了迎合既定政策而挑选证据的行为。（p. 86）
+> [!citation-card]- [[Post-Normal Science|后常规科学问题]]中必须诚实披露未采纳证据
+> 需要付出更大努力将公共政策与科学证据及其固有的不确定性明确关联，从而降低“后常规问题”（当赌注极高、[[Scientific Uncertainty|科学不确定性]]极高且对科学信息需求极度迫切时）变得愈发棘手难解的风险。例如，至关重要的是，不仅要对科学不确定性保持诚实，还必须在相关科学信息未被采纳时给出明确解释，以此坚决防止为了迎合既定政策而挑选证据的行为。（p. 86）
 >
-> *Greater effort is needed to explicitly link policies to scientific evidence and its uncertainties to reduce the chances of ‘post-normal problems’ (when the stakes are high, there is high scientific uncertainty and high demand for scientific information) becoming increasingly intractable. For example, it is important not only to be honest about scientific uncertainty, but to explain when relevant scientific information is not used, to avoid selecting only the scientific evidence to suit the policy.*
+> *Greater effort is needed to explicitly link policies to scientific evidence and its uncertainties to reduce the chances of ‘[[Parliamentary Office of Science and Technology|POST]]-normal problems’ (when the stakes are high, there is high scientific uncertainty and high demand for scientific information) becoming increasingly intractable. For example, it is important not only to be honest about scientific uncertainty, but to explain when relevant scientific information is not used, to avoid selecting only the scientific evidence to suit the policy.*
 
 > [!citation-card]- 建议十四：法定发布平实英文版《科学证据陈述》
 > 英国政府应当确立雄心，成为公共决策中科学证据系统化应用与公众透明度的全球引领者。为支撑这一透明度，英国政府应当在各项政策出台时同步发布一份《科学证据陈述》，在法律草案、白皮书、政策战略框架和公共咨询文件中，明确详述来自科研领域的科学证据究竟是如何被具体应用的。（p. 87）

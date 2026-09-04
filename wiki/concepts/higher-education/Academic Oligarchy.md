@@ -24,6 +24,7 @@ related_concepts:
   - "[[Non-monetary Competition]]"
   - "[[Academic Capitalism]]"
   - "[[Matthew Effect in Academia]]"
+  - "[[Research Impact]]"
   - "[[Knowledge Production]]"
   - "[[Performance Indicators]]"
 related_theories:
@@ -75,7 +76,7 @@ updated: 2026-06-01
 > [!example] 三个经济学家，寡头化的微观肖像
 > 三位经济学家都在研究发展经济学，都发表了关于微型金融的论文。A 来自哈佛，论文发表在 AER，引用 500 次。B 来自一所美国州立大学旗舰校区，论文发表在 Journal of Development Economics，引用 120 次。C 来自一所南亚大学，论文发表在南亚地区的期刊，引用 15 次。
 >
-> 这三位学者的论文质量可能相当，甚至 C 可能因为对当地制度更深刻的理解而做出了更原创的理论贡献。但引用数的差距，500 vs 120 vs 15，主要不是由论文质量驱动的，而是由学术网络、期刊可见度和机构声望的系统性不平等所驱动的。AER 的读者群和引用网络远大于 JDE，而南亚期刊的全球可见度几乎为零。当 Research Excellence Framework（REF） 或类似的评估体系以引用数作为"研究影响力"的核心指标时，A 被认定为"世界领先"，C 可能根本无法进入评估框架。
+> 这三位学者的论文质量可能相当，甚至 C 可能因为对当地制度更深刻的理解而做出了更原创的理论贡献。但引用数的差距，500 vs 120 vs 15，主要不是由论文质量驱动的，而是由学术网络、期刊可见度和机构声望的系统性不平等所驱动的。AER 的读者群和引用网络远大于 JDE，而南亚期刊的全球可见度几乎为零。当 Research Excellence Framework（REF） 或类似的评估体系以引用数作为"[[Research Impact|研究影响力]]"的核心指标时，A 被认定为"世界领先"，C 可能根本无法进入评估框架。
 >
 > 这就是学术寡头的日常运作：不是有意识地排挤 C，而是通过一套看似中立的评估标准，系统性地将精英机构的学者（A）和非精英机构的学者（B 和 C）置于不同的起跑线上，并在评估结果出来后，将差距归因为卓越的差异。
 

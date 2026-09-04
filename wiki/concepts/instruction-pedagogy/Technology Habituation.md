@@ -19,11 +19,18 @@ tags:
   - theme/science-policy
 related_concepts:
   - "[[Habituation]]"
-  - "[[AI Literacy]]"
-  - "[[Data Literacy]]"
-  - "[[Scientific Literacy]]"
+  - "[[Generative Artificial Intelligence]]"
   - "[[Cognitive Offloading]]"
-  - "[[Technological Pedagogical Content Knowledge]]"
+  - "[[Deficit Model of Science Communication]]"
+  - "[[Hypothesis]]"
+  - "[[Disciplina and Doctrina]]"
+  - "[[AI Literacy]]"
+  - "[[AI Hallucination]]"
+  - "[[Higher-Order Thinking Skills]]"
+  - "[[Creativity]]"
+  - "[[Social License to Operate]]"
+  - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[Scientific Literacy]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -32,6 +39,7 @@ related_facts:
   - "[[The Social Value Model]]"
 related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04]]"
+  - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
 confidence: high
 status: draft
@@ -46,7 +54,7 @@ updated: 2026-09-04
 ## 定义
 
 > [!def] 核心定义
-> 技术习惯化（Technology Habituation）是由英国皇家学会《科学造福社会》（*Science for Society*）报告提出的前沿科技教育治理概念。它主张在基础教育（K-12）阶段，通过国家公共财政与研发机构的专项定向资助，使全体中小学生能够常态化、低门槛地亲身操作前沿数据赋能技术（如[[Generative Artificial Intelligence|生成式人工智能]]、增强现实 AR、三维打印等现代先进制造），使其从高深冷峻的“神秘客”转化为如纸笔和计算器般习以为常的认知工具，从而在个体认知早期建立批判性理解，并从根本上破除社会对颠覆性技术的信任赤字与认知恐惧。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04|(The Royal Society, 2026, p. 76)]]
+> 技术[[Habituation|习惯化]]（Technology Habituation）是由英国皇家学会《科学造福社会》（*Science for Society*）报告提出的前沿科技教育治理概念。它主张在基础教育（K-12）阶段，通过国家公共财政与研发机构的专项定向资助，使全体中小学生能够常态化、低门槛地亲身操作前沿数据赋能技术（如[[Generative Artificial Intelligence|生成式人工智能]]、增强现实 AR、三维打印等现代先进制造），使其从高深冷峻的“神秘客”转化为如纸笔和计算器般习以为常的认知工具，从而在个体认知早期建立批判性理解，并从根本上破除社会对颠覆性技术的信任赤字与认知恐惧。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04|(The Royal Society, 2026, p. 76)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 强调通过学校教育情境中的高频次、普惠性具身体验，消解前沿颠覆性技术对普通公众的心理疏离感与认知威慑感。
@@ -63,21 +71,21 @@ updated: 2026-09-04
 ## 概念辨析
 
 > [!contrast-table] 概念辨析
-> | 维度 | 技术习惯化（Technology Habituation） | 传统科学赤字模型展示（[[Deficit Model of Science Communication\|Deficit Model]]） | 哲学德性习惯化（[[Habituation]]） |
+> | 维度 | 技术[[Habituation\|习惯化]]（Technology Habituation） | 传统科学赤字模型展示（[[Deficit Model of Science Communication\|Deficit Model]]） | 哲学德性习惯化（[[Habituation]]） |
 > |---|---|---|---|
-> | **核心假设** | 技术恐惧源于心理神秘化与操作排斥，唯有常态化浸润才能培育理性公民 | 公众怀疑源于知识匮乏，只需由专家自上而下科普单向灌输即可解决 | 德性通过反复机械训练成为无意识的服从与行为定势 |
-> | **学生角色** | 主动探究者、动手制作者、批判评估者与共同设计者 | 被动的知识接收者与科普讲座听众 | 被动的道德规训接受者 |
+> | **核心[[Hypothesis\|假设]]** | 技术恐惧源于心理神秘化与操作排斥，唯有常态化浸润才能培育理性公民 | 公众怀疑源于知识匮乏，只需由专家自上而下科普单向灌输即可解决 | 德性通过反复机械训练成为无意识的服从与行为定势 |
+> | **学生角色** | 主动探究者、动手制作者、批判评估者与共同设计者 | 被动的知识接收者与科普讲座听众 | 被动的道德[[Disciplina and Doctrina\|规训]]接受者 |
 > | **技术形态** | 交互式生成模型、AR 模拟器、开源硬件与 3D 打印工具 | 橱窗陈列模型、科普海报或由教师单向演示的实验仪器 | 道德戒律或外在行为准则 |
-> | **终极目标** | 培养具备批判性 [[AI Literacy|AI 素养]]与理性审议能力的平权公民 | 赢得公众对商业技术推广的被动服从与单向认可 | 塑造符合统治秩序的习惯品格 |
+> | **终极目标** | 培养具备批判性 [[AI Literacy\|AI 素养]]与理性审议能力的平权公民 | 赢得公众对商业技术推广的被动服从与单向认可 | 塑造符合统治秩序的习惯品格 |
 
 ---
 
 ## 核心机制与实施维度
 
 > [!feature] 核心实施维度
-> - **普惠硬件与算力基础设施兜底** 国家设立专项基建基金，确保弱势地区及偏远工薪学校与中心城市名校享有完全平等的先进数字制造与 AI 工具接入通道，防止技术习惯化沦为精英阶层的特权。
-> - **教学法的“去神秘化”（Demystification）** 抛弃把技术神化为“黑箱全能神”的教学偏向，通过指导学生亲手标注训练数据、调整参数、观察[[AI Hallucination|模型幻觉]]与算法偏误，直观理解前沿技术的实证运作机制与局限性。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026, p. 60)]]
-> - **防范认知外包的批判性放大原则** 确保学生利用前沿技术来放大人类高阶思维与创造力，而非替代独立阅读、批判反思与基础论证能力。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 32)]]
+> - **普惠硬件与算力基础设施兜底** 国家设立专项基建基金，确保弱势地区及偏远工薪学校与中心城市名校享有完全平等的先进数字制造与 AI 工具接入通道，防止技术[[Habituation|习惯化]]沦为精英阶层的特权。
+> - **教学法的“去神秘化”（Demystification）** 抛弃把技术神化为“黑箱全能神”的教学偏向，通过指导学生亲手标注训练数据、调整参数、观察模型[[AI Hallucination|幻觉]]与算法偏误，直观理解前沿技术的实证运作机制与局限性。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026, p. 60)]]
+> - **防范[[Cognitive Offloading|认知外包]]的批判性放大原则** 确保学生利用前沿技术来放大人类[[Higher-Order Thinking Skills|高阶思维]]与[[Creativity|创造力]]，而非替代独立阅读、批判反思与基础论证能力。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 32)]]
 
 > [!logic-map]- 从技术神秘到自主能动的发展路径
 > ```mermaid
@@ -100,7 +108,7 @@ updated: 2026-09-04
 > 探讨面对人工智能等颠覆性科技，社会治理何以必须超越商业后期的单向公关营销，转而在早期教育阶段构建长效社会信任许可。
 
 > [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety_Ch04|The Royal Society (2026)]]
-> **技术去神秘化命题** 颠覆性技术要真正获得社会的持久理解与社会许可（Social License to Operate），绝不能等到商业应用完全定型后才进行单向宣讲；新兴科技企业与政府必须以基础教育为前沿阵地，通过资助中小学校开展常态化接触与工具习惯化，消除技术的黑箱神秘感，使未来公民在青年时期即具备对技术风险、治理边界与利益归属开展理性民主审议的深层胜任力。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04|(The Royal Society, 2026, pp. 72–73, 76)]]
+> **技术去神秘化命题** 颠覆性技术要真正获得社会的持久理解与[[Social License to Operate|社会许可]]（Social License to Operate），绝不能等到商业应用完全定型后才进行单向宣讲；新兴科技企业与政府必须以基础教育为前沿阵地，通过资助中小学校开展常态化接触与工具[[Habituation|习惯化]]，消除技术的黑箱神秘感，使未来公民在青年时期即具备对技术风险、治理边界与利益归属开展理性民主审议的深层胜任力。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04|(The Royal Society, 2026, pp. 72–73, 76)]]
 
 ---
 
@@ -110,6 +118,6 @@ updated: 2026-09-04
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Habituation]] | 概念 | 本概念在教育技术与科学教育哲学层面的专门化发展。 |
-> | [[AI Literacy]] | 概念 | 技术习惯化旨在培养的关键核心素养。 |
+> | [[AI Literacy]] | 概念 | 技术习惯化旨在培养的关键[[21st Century Skills and Competencies Discourse\|核心素养]]。 |
 > | [[Scientific Literacy]] | 概念 | 贯穿全书的基础素养，技术习惯化为其在数字时代提供了具身实践载体。 |
 > | [[The Social Value Model]] | 事实 | 政府撬动企业资助学校开展技术习惯化硬件支持的制度杠杆。 |

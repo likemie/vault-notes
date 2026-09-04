@@ -36,8 +36,10 @@ related_concepts:
   - "[[Technology Infusion]]"
   - "[[Research Problem]]"
   - "[[Knowledge Mobilisation]]"
+  - "[[Incubation]]"
   - "[[Blue Skies Research]]"
   - "[[Boundary Spanner]]"
+  - "[[Research Impact]]"
 related_theories:
   - "[[RIA Model for Innovation]]"
 related_methods: []
@@ -47,6 +49,7 @@ related_facts:
   - "[[Schlegel-UW Research Institute for Aging]]"
   - "[[University of Waterloo Global Futures Framework]]"
   - "[[European Standards and Guidelines]]"
+  - "[[Parliamentary Office of Science and Technology]]"
 related_arguments: []
 sources:
   - "[[books/Hall_Boccanfuso_2025_Springer/Ch13_Dean_2025|Ch13_Dean_2025]]"
@@ -258,7 +261,7 @@ citation_aliases:
 30. RIA 的 2022–2023 年影响报告提出了 [[RIA Model for Innovation|RIA 创新模型]]（RIA Model for Innovation），一个四阶段框架(p.253)：
 
 1. **知识生成（Knowledge generation）**——通过跨学科研究产生新知识
-2. **孵化（Incubation）**——发现和开发创新
+2. **孵化（[[Incubation]]）**——发现和开发创新
 3. **加速（Acceleration）**——在新环境中扩展和评估创新
 4. **动员（Mobilization）**——分享知识以惠及各地老年人
 
@@ -286,7 +289,7 @@ citation_aliases:
 > 2. **行政支持的核心功能是消除信息不对称**。教师对[[University-Industry Collaboration|产学合作]]的顾虑（知识产权、发表自由、合同复杂性）在实证研究中未被发现与实际合作能力之间存在关联(Sjöo & Hellström, 2019)。研究办公室的合同团队和早期职业研究者工作坊的实质作用是让教师在有充分信息和制度后盾的前提下做出判断(pp.247–248)。
 > 3. **共同选址缩短了从认知距离到信任的距离**。多伦多-滑铁卢走廊的 15,000 家科技公司和短途 commute 条件使定期面对面互动成为可能；NRC 合作中心和 [[Schlegel-UW Research Institute for Aging|RIA]] 的实践表明，当研究者和终端用户在同一物理空间中日常共处时，反馈循环从以月计缩短为以走廊计(pp.248–249, 253–254)。
 > 4. **[[Research Security|研究安全]]不应被回避，而应转化为制度性的风险管理服务**。滑铁卢大学保障研究团队的原则——在透明性、可预测性、[[Academic Freedom|学术自由]]和开放科学之间寻求平衡——将安全从阻碍合作的壁垒转变为促进信任的机制(pp.249–250)。
-> 5. **研究评估制度使产学合作在教师的理性计算中成为不计入成绩的课外活动**。终身教职评审中，专利、[[Technology Transfer|技术转移]]和产学合作的社会经济影响几乎没有权重。[[Declaration on Research Assessment|DORA]] 倡导的全面评估视角——关注影响力而非[[Document|文献]]计量指标——是使合作从负资产变为正资产的制度前提(pp.250–251)。
+> 5. **研究评估制度使产学合作在教师的理性计算中成为不计入成绩的课外活动**。终身教职评审中，专利、[[Technology Transfer|技术转移]]和产学合作的[[Research Impact|社会经济影响]]几乎没有权重。[[Declaration on Research Assessment|DORA]] 倡导的全面评估视角——关注影响力而非[[Document|文献]]计量指标——是使合作从负资产变为正资产的制度前提(pp.250–251)。
 > 6. **RIA 案例证明多重机制的协同运作产生了超过各部分之和的整体效应**。Schlegel 家族的 5000 万加元投入通过资金杠杆撬动了额外资源，共同选址创造了即时反馈循环，嵌入式[[Knowledge Mobilisation|知识动员]]网络（功能性体适能评估方案中的脑血管生物标志物检测）实现了从实验室到临床的即时转化，跨院系参与通过同伴示范降低了其他教师的合作门槛(pp.251–254)。
 
 > [!info]- 核心数据
@@ -327,7 +330,7 @@ citation_aliases:
 ## 自述局限
 
 > [!warning]
-> **单一制度经验的局限性**。六位作者全部在滑铁卢大学研究行政系统任职，所阐述的原则虽然声称广泛适用于整个高等教育领域（broadly applicable across the post-secondary sector），但最终根植于滑铁卢大学的特定制度条件——一所拥有全球最大[[Cooperative Education|合作教育]]项目的中等规模加拿大研究型大学，地处北美最密集的科技创新走廊(pp.242, 248)。未讨论这些机制在以下情境中的适用边界：
+> **单一制度经验的局限性**。六位作者全部在滑铁卢大学研究行政系统任职，所阐述的原则虽然声称广泛适用于整个高等教育领域（broadly applicable across the [[Parliamentary Office of Science and Technology|POST]]-secondary sector），但最终根植于滑铁卢大学的特定制度条件——一所拥有全球最大[[Cooperative Education|合作教育]]项目的中等规模加拿大研究型大学，地处北美最密集的科技创新走廊(pp.242, 248)。未讨论这些机制在以下情境中的适用边界：
 > - 缺乏大型合作教育项目的大学（多数研究型大学没有滑铁卢规模的 co-op 项目）。
 > - 位于[[Innovation Ecosystem|创新生态系统]]较不成熟地区的大学（缺乏 15,000 家科技公司的地理禀赋）。
 > - 主要依赖公共资金而非产业配资的研究资助体系（如部分欧洲国家）。

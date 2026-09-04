@@ -32,6 +32,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Realism in International Relations]]"
   - "[[Performance Indicators]]"
+  - "[[Research Impact]]"
   - "[[Research Problem]]"
   - "[[University Social Responsibility]]"
   - "[[Scientization of Politics]]"
@@ -127,7 +128,7 @@ Zapp 论证大学经历了两个层次的身份变化(pp.147–149)：
 
 **第一层：从"特定组织"到"完全组织"**。传统欧洲大学像政府的一个科室——目标由上级定、资源由上级拨、不对外负责。但现在，大学越来越像一个独立的法人：自己定使命（自主性）、自己设关键[[Performance Indicators|绩效指标]]（Key Performance Indicators, KPI）（目标导向）、对外接受评估和排名（问责性）、主动对接社区和全球议题（社会嵌入性）。这四个特征构成了 **[[Organizational Actorhood]]**（组织能动者身份）(Bromley & Meyer, 2015)。
 
-> 例：一个传统大学和现代大学的对比——传统教授："我的研究由好奇心驱动，不需要向任何人解释。"现代大学管理者："我们制定了五年战略规划，目标是在 THE 排名中进入前 100，为此我们需要提升研究影响力、扩大国际学生比例、并发布年度社会责任报告。"
+> 例：一个传统大学和现代大学的对比——传统教授："我的研究由好奇心驱动，不需要向任何人解释。"现代大学管理者："我们制定了五年战略规划，目标是在 THE 排名中进入前 100，为此我们需要提升[[Research Impact|研究影响力]]、扩大国际学生比例、并发布年度社会责任报告。"
 
 **第二层：从"能动者"到"[[Otherhood|他者代理]]"**。Zapp 的独特贡献在于指出，大学的能动者身份不是指向自身利益（像企业那样），而是指向"他者"。Meyer & Jepperson (2000) 称这种模式为 **[[Otherhood]]**（为他者行动）——组织为其他行动者、非行动者实体和抽象原则行使代理权。大学近乎理想型地代表了 otherhood 的全部三种形式(p.149)：
 

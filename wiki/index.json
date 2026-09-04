@@ -4347,6 +4347,19 @@
     ]
   },
   {
+    "title": "Research Impact",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Research Impact.md",
+    "aliases": [
+      "科研影响力",
+      "研究影响力",
+      "社会经济影响",
+      "societal impact of research",
+      "research impact assessment",
+      "广泛社会影响"
+    ]
+  },
+  {
     "title": "Research Security",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Research Security.md",
@@ -4447,6 +4460,19 @@
     "path": "wiki/concepts/higher-education/Social Engagement.md",
     "aliases": [
       "社会性投入"
+    ]
+  },
+  {
+    "title": "Social License to Operate",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Social License to Operate.md",
+    "aliases": [
+      "社会运营许可",
+      "社会许可",
+      "licence to operate",
+      "大学社会运营许可",
+      "高等教育社会许可",
+      "社会办学契约"
     ]
   },
   {
