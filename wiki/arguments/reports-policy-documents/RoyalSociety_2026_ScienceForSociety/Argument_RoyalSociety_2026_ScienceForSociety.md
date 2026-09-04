@@ -54,6 +54,7 @@ related_concepts:
   - "[[Scientific Misinformation]]"
   - "[[Responsible Conduct of Research]]"
   - "[[University Spin-Out]]"
+  - "[[Upstream Public Engagement]]"
   - "[[Reliability]]"
   - "[[Research Scope]]"
 related_theories: []
@@ -61,6 +62,7 @@ related_methods:
   - "[[Case Study]]"
   - "[[Cohort Study]]"
   - "[[Survey Research]]"
+  - "[[Longitudinal Study]]"
 related_instruments: []
 related_persons:
   - "[[Walter Bodmer]]"
@@ -85,11 +87,13 @@ related_facts:
   - "[[The Green Book]]"
   - "[[Scientific Advisory Group for Emergencies]]"
   - "[[Government Office for Science]]"
+  - "[[National Co-ordinating Centre for Public Engagement]]"
   - "[[Bodmer Report 1985]]"
 related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05]]"
+  - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02]]"
 sources:
@@ -190,7 +194,7 @@ updated: 2026-09-04
 > - **第 3 章 — Mass media and misinformation（pp. 55–66）** [[Argument_RoyalSociety_2026_ScienceForSociety_Ch03]] — 剖析在线信息环境、社交媒体算法推荐偏倚、[[Science Journalism|科学新闻]]通稿源头夸大与虚假信息治理行为守则。
 > - **第 4 章 — Industry and business sector / Third sector（pp. 67–78）** [[Argument_RoyalSociety_2026_ScienceForSociety_Ch04]] — 剖析产业研发主体地位（>2/3 研发总量）与信任赤字（私企科学家信任度 47% vs 大学 87%），依托政府采购 10% 社会价值杠杆撬动场馆协同，提炼第三部门患者公众参与（[[Patient and Public Involvement|PPI]]）与数百万级[[Citizen Science|公民科学]]动员典范。
 > - **第 5 章 — Policy（pp. 79–90）** [[Argument_RoyalSociety_2026_ScienceForSociety_Ch05]] — 解构 50 年科学融入政府决策机制演化与部委首席科学顾问（CSAs）网络，诊断国会议员信源偏误（55% 依赖智库 vs 22% 依赖 [[Parliamentary Office of Science and Technology|POST]]）与公共科研机构（PSREs）萎缩危机，立足[[Post-Normal Science|后常规科学]]主张全面披露[[Scientific Uncertainty|科学不确定性]]，提出发布法定《科学证据陈述》、国家学术院独立审计与前瞻公共[[Dialogue in Education|对话]]行动蓝图。
-> - **第 6 章 — Academic scientific community（pp. 91–106）** [[Argument_RoyalSociety_2026_ScienceForSociety_Ch06]] — 基于 2006–2025 年三轮纵向追踪调查揭示科研人员参与热情（85%）与时间压力（75%）、晋升激励匮乏（仅 25% 助益晋升）的结构性脱节，剖析 REF 2029 独立参与剖面改革，并为大学校长、资助机构与学术界确立内嵌于科研全生命周期的国家行动蓝图。
+> - **第 6 章 — Academic scientific community（pp. 91–106）** [[Argument_RoyalSociety_2026_ScienceForSociety_Ch06]] — 基于 2006–2025 年三轮纵向追踪调查揭示科研人员参与热情（85%）与时间压力（75%）、晋升激励匮乏（仅 25% 助益晋升）的结构性脱节，剖析 [[Research Excellence Framework|REF]] 2029 独立参与剖面改革，并为大学校长、资助机构与学术界确立内嵌于科研全生命周期的国家行动蓝图。
 
 > [!chapter-index] 章节索引
 > - **Ch. 1 — Education** [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]] — 剖析中小学科学素养重构、实验动手探究课时萎缩危机、后 16 岁过早分科破除与师资赋权。
@@ -208,7 +212,7 @@ updated: 2026-09-04
 > | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|第3章 大众传媒与虚假信息]] | 诊断数字算法分发与虚假信息扩散危机，揭示科学新闻夸大对高校新闻通稿的源头依赖，倡导[[Solutions Journalism\|解决方案新闻]]并制定科学传播行为守则。 | [[Scientific Misinformation]]、[[Science Media Centre]]、[[Public Attitudes to Science]]、[[Responsible Conduct of Research]]、[[Survey Research]]、[[Deficit Model of Science Communication]]、[[Generative Artificial Intelligence]] |
 > | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch04\|第4章 产业与第三部门]] | 剖析产业界承担逾三分之二研发的枢纽地位，诊断私企科学家信任度下滑（47%）与 AI 信任赤字（33%），依托政府采购 10% 社会价值撬动场馆合作，提炼第三部门医学慈善全生命周期患者参与（PPI）与大规模公民科学经验。 | [[The Social Value Model]]、[[Association of Medical Research Charities]]、[[Patient and Public Involvement]]、[[University Spin-Out]]、[[Public Attitudes to Science]]、[[Public Engagement with Science]]、[[Big Butterfly Count]]、[[Generative Artificial Intelligence]]、[[Case Study]]、[[Survey Research]] |
 > | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|第5章 政策与科学治理]] | 系统剖析 50 年国家科学咨询机制演进，诊断国会议员信源失真与公共科研机构萎缩，直面后常规科学高不确定性挑战，发布法定《科学证据陈述》并构建前瞻公共对话。 | [[Rothschild Report 1971]]、[[The Green Book]]、[[Parliamentary Office of Science and Technology]]、[[Scientific Advisory Group for Emergencies]]、[[Government Office for Science]]、[[Post-Normal Science]]、[[Scientific Uncertainty]]、[[Public Attitudes to Science]]、[[Survey Research]] |
-> | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|第6章 学术科研界]] | 系统解构科研人员二十年参与跃迁与制度阻碍，揭示全员参与热情与时间压力剧增、晋升激励漠视的深层矛盾，推进 REF 2029 改革并确立高校校长与资助机构的行动蓝图。 | [[Public Engagement with Science]]、[[Upstream Public Engagement]]、[[Factors Affecting Public Engagement by UK Researchers]]、[[National Co-ordinating Centre for Public Engagement]]、[[Research Excellence Framework]]、[[Survey Research]] |
+> | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|第6章 学术科研界]] | 系统解构科研人员二十年参与跃迁与制度阻碍，揭示全员参与热情与时间压力剧增、晋升激励漠视的深层矛盾，推进 REF 2029 改革并确立高校校长与资助机构的行动蓝图。 | [[Public Engagement with Science]]、[[Upstream Public Engagement]]、[[National Co-ordinating Centre for Public Engagement]]、[[Research Excellence Framework]]、[[Longitudinal Study]]、[[Survey Research]] |
 
 ---
 

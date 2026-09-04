@@ -39,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Solutions Journalism
@@ -184,7 +184,7 @@ updated: 2026-09-03
 > > [!axis] 技术补丁（Band-aid） vs 根源性系统变革
 > > 部分批判学者指出，许多科技类解决方案报道倾向于宣扬某种“高科技小发明”（如碳捕集机器、治污微藻），给公众制造“危机已被轻松化解”的虚假安全感。
 > >
-> > - **解决之道（The Royal Society, 2026）** 真正的解决方案报道必须严格披露技术局限与规模化落地的政治经济阻碍，坚决杜绝“技术主义救世主”神话。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, p. 62)]]
+> > - **解决之道（[[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society, 2026]]）** 真正的解决方案报道必须严格披露技术局限与规模化落地的政治经济阻碍，坚决杜绝“技术主义救世主”神话。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, p. 62)]]
 
 > [!warning] 适用局限
 > 解决方案新闻不适用于刚刚爆发的突发急性灾难或尚无任何探索应对尝试的未知危机；在此类情境下强行套用解决方案[[Paradigm|范式]]，会导致脱离实际的空洞说教。

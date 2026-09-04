@@ -203,7 +203,7 @@ updated: 2026-09-04
 > > 在数字广告与平台算法主导的媒体环境下，科学新闻能否既保持不夸大、不迎合点击率的严肃性，又赢得年轻受众？
 > >
 > > - **悲观主义视角** 认为面对 TikTok 等碎片化流量冲刷，严谨求证与不确定性叙事注定被算法降权淘汰。
-> > - **建设性视角（The Royal Society, 2026）** 坚信英国公众对高质量、经核实的真实科学新闻存在长期深层渴求，拒绝参与恶性竞争是赢得受众长远信任的唯一出路。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, p. 63)]]
+> > - **建设性视角（[[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society, 2026]]）** 坚信英国公众对高质量、经核实的真实科学新闻存在长期深层渴求，拒绝参与恶性竞争是赢得受众长远信任的唯一出路。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, p. 63)]]
 
 > [!critique] 外部批评
 > - **科学界内部批评** 许多科研人员批评[[Citizen Science|大众科学]]新闻过度追求“二元戏剧冲突”与“颠覆性突破”，经常误报早期实验阶段数据，误导公众对实际科研进展周期的预期。

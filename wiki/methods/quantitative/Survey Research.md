@@ -85,6 +85,7 @@ related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05]]"
+  - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06]]"
 confidence: medium
 status: draft
 created: 2026-05-30
@@ -318,7 +319,7 @@ Dillman（2007）建议按顺序跟进：（a）10 天后向无回应者发送�
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026)]] — 综合运用[[Public Attitudes to Science|英国公众对科学态度调查]]（PAS 2025，全国代表性成年抽样 $N = 5,281$）及科研人员参与[[Questionnaire|问卷调查]]的大样本定量数据，全面评估数字智能环境下公众科学信息获取渠道、真实性信任度以及学术共同体开展公众参与面临的体制性阻碍；并在[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|第五章]]中委托 YouGov 对 108 名英国国会议员（MPs）开展专属问卷调查，定量揭示立法决策者在科学信源选择上的偏误结构（55% 依赖智库 vs 仅 22% 依赖[[Parliamentary Office of Science and Technology|议会科学技术办公室]]），并测度公众对科学政策民主咨询的强烈诉求。
-> - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch06|The Royal Society (2026, Ch. 6, pp. 93–98)]] — 在第六章中系统利用 Technopolis 受托执行的《[[Factors Affecting Public Engagement by UK Researchers|影响英国科研人员公众参与的因素调查 2025]]》（Factors Affecting Public Engagement by UK Researchers 2025），通过与 2006 年及 2015 年前序调查的重复横截面大样本比较，定量揭示科研人员参与覆盖率（85%）与道德认同（83%）的高涨趋势，以及时间压力激增（75%）与高校职称考评激励匮乏（仅 25% 认为有助于晋升）构成的核心制度瓶颈。
+> - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch06|The Royal Society (2026, Ch. 6, pp. 93–98)]] — 在第六章中系统利用 Technopolis 受托执行的《影响英国科研人员公众参与的因素调查 2025》（Factors Affecting Public Engagement by UK Researchers 2025），通过与 2006 年及 2015 年前序调查的重复横截面大样本比较，定量揭示科研人员参与覆盖率（85%）与道德认同（83%）的高涨趋势，以及时间压力激增（75%）与高校职称考评激励匮乏（仅 25% 认为有助于晋升）构成的核心制度瓶颈。
 
 
 
