@@ -41,7 +41,7 @@ updated: 2026-05-23
 ## 背景
 
 > [!info]
-> Institute for Effective Education（IEE）是英国约克大学相关的独立慈善机构，目标是通过促进教育政策和实践中的证据使用来改善所有儿童的教育([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.33]])。
+> Institute for Effective Education（IEE）是英国约克大学相关的独立慈善机构，目标是通过促进教育政策和实践中的[[Research Utilization|证据使用]]来改善所有儿童的教育([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.33]])。
 
 ## 政策文本摘要
 

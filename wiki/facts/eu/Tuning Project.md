@@ -78,6 +78,6 @@ updated: 2026-08-27
 ## 影响与后果
 
 > [!finding-cards] 影响与后果
-> - **政策影响** 成为[[Bologna Process|博洛尼亚进程]]中最具实质影响力的课程与能力标准化行动，奠定了欧洲资格框架的基石。
+> - **政策影响** 成为[[Bologna Process|博洛尼亚进程]]中最具实质影响力的课程与能力标准化行动，奠定了[[European Qualifications Framework|欧洲资格框架]]的基石。
 > - **实践影响** 推动了欧洲数千门大学课程从“以教师讲授内容为中心”彻底转向“以学生预期学习成果为中心”的[[Constructive Alignment|建构性对齐]]（Constructive Alignment）。
 > - **知识影响** 为 [[OECD]] 等国际组织提供了在学科专业语境下界定和测度[[Creativity|创造力]]与[[Critical Thinking|批判性思维]]的标准[[Paradigm|范式]]。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 13)]]

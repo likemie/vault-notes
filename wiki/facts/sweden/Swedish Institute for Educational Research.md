@@ -43,7 +43,7 @@ updated: 2026-05-23
 ## 背景
 
 > [!info]
-> Swedish Institute for Educational Research 于 2015 年建立，是瑞典面向教育研究证据使用的机构([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.33]])。
+> Swedish Institute for Educational Research 于 2015 年建立，是瑞典面向教育研究[[Research Utilization|证据使用]]的机构([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.33]])。
 
 ## 政策文本摘要
 

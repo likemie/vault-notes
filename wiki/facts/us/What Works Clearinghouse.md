@@ -131,7 +131,7 @@ updated: 2026-08-21
 >    - **低流失（Low Attrition）** 整体流失率与组间差异流失率落入 WWC 容许曲线（潜在偏倚 $< 0.05\text{ SD}$）内，RCT 自动获评“无保留达标”。
 >    - **高流失（High Attrition）** 落入高流失区时，RCT 降级并必须满足准实验的基线等值性检验。
 >
-> 2. **基线等值性分级标准（Baseline Equivalence）**
+> 2. **基线等值性分级标准（[[Baseline Standardized Mean Difference|Baseline Equivalence]]）**
 >    - **差值 $\le 0.05\text{ SD}$** 视为两组基线完全等价，无需[[Covariate Adjustment|协变量控制]]即可达标。
 >    - **$0.05\text{ SD} < \text{差值} \le 0.25\text{ SD}$** 必须在统计模型中纳入前测协变量进行调整。
 >    - **差值 $> 0.25\text{ SD}$** 认定基线严重不等价，直接裁定为“未达标（Does Not Meet Standards）”。

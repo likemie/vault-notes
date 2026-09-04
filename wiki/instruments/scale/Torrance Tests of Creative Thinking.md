@@ -66,7 +66,7 @@ updated: 2026-09-02
 > - **实施方式** 严格限时的纸笔测验或计算机化开放作答；支持群体施测与个别施测。
 
 > [!citation-card]- 关键表述
-> 托兰斯创造性思维测验（Torrance Tests of Creative Thinking, TTCT）是过去半个世纪中全球应用最广泛、心理测量学标准化程度最高的创造力测量工具，其长期[[Cohort Study|追踪研究]]确立了发散思维对真实卓越成就的中等[[Predictive Validity|预测效度]]。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 3–4)]]
+> 托兰斯创造性思维测验（Torrance Tests of Creative Thinking, TTCT）是过去半个世纪中全球应用最广泛、心理测量学标准化程度最高的[[Creativity Assessment|创造力测量]]工具，其长期[[Cohort Study|追踪研究]]确立了发散思维对真实卓越成就的中等[[Predictive Validity|预测效度]]。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 3–4)]]
 
 ---
 

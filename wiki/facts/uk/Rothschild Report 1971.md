@@ -94,7 +94,7 @@ updated: 2026-09-04
 
 > [!pathways]- 实施路径
 > - **部门首席科学顾问网络的成型** 历经约半个世纪的发展，政府各部委均已在高级决策层设立 CSAs，不仅负责采购与管理研究项目，更成为常态化向内阁大臣提供独立科学建议的权威通道。
-> - **研究需求清单制度化（ARIs）** 自 2013 年起，各部委在 CSA 监督下常态化公开发布“重点研究领域”（Areas of Research Interest, ARIs），引导学术界与研究市场对齐国家决策需求。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|(The Royal Society, 2026, Ch. 5, p. 81)]]
+> - **研究需求清单制度化（[[Areas of Research Interest|ARIs]]）** 自 2013 年起，各部委在 CSA 监督下常态化公开发布“重点研究领域”（Areas of Research Interest, ARIs），引导学术界与研究市场对齐国家决策需求。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|(The Royal Society, 2026, Ch. 5, p. 81)]]
 
 ---
 
@@ -103,7 +103,7 @@ updated: 2026-09-04
 > [!finding-cards] 效果与评价
 > 1. **提升政策需求的针对性与信源多样性** 打破了传统科研封闭垄断，将大学顶尖学术力量广泛纳入政府决策支撑体系，提升了国家科学咨询的弹性与敏捷度。
 > 2. **公共科研机构（PSREs）基础能力遭系统性侵蚀** 长期依赖项目制竞标采购导致政府对公共实验设施、专业技术队伍及长期监测能力的持续投资不足，在面临关键战略危机时暴露出科研支撑能力脆弱的隐患。
-> 3. **智能客户角色面临现实侵蚀** 当政府内部科技专业人员因编制精简而流失时，决策官员往往缺乏足够专业素养识别外部伪科学或有利益倾向的游说研究，陷入采购失灵。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|(The Royal Society, 2026, Ch. 5, p. 82)]]
+> 3. **智能客户角色面临现实侵蚀** 当政府内部科技专业人员因编制精简而[[Attrition|流失]]时，决策官员往往缺乏足够专业素养识别外部伪科学或有利益倾向的游说研究，陷入采购失灵。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|(The Royal Society, 2026, Ch. 5, p. 82)]]
 
 ---
 

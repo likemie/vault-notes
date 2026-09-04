@@ -159,7 +159,7 @@ updated: 2026-08-25
 > [!concept-lens] [[Argument_Higgins_2016_RE|Higgins (2016)]] 的两种用法区分
 > [[Argument_Higgins_2016_RE|Higgins (2016, p. 41)]] 区分了二阶综合的两种截然不同的[[Research Purpose|研究目的]]：
 > 1. **方法学过程研究** 将元分析作为分析单位来研究元分析过程本身的统计特征、[[Publication Bias|发表偏倚]]与报告质量（如 Ioannidis & Trikalinos, 2007; Lipsey & Wilson, 1993）；
-> 2. **实质性主题综合** 试图将不同元分析合并为关于更广泛教育或心理主题的单一信息结论（如 Hattie, 1992; Marzano, 1998; [[Argument_Runco_2026_CRJ|Runco et al., 2026]]）。后者必须解决深刻的[[Construct|构念]]可比性与[[Heterogeneity|异质性]]挑战。
+> 2. **实[[Thematic Synthesis|质性主题综合]]** 试图将不同元分析合并为关于更广泛教育或心理主题的单一信息结论（如 Hattie, 1992; Marzano, 1998; [[Argument_Runco_2026_CRJ|Runco et al., 2026]]）。后者必须解决深刻的[[Construct|构念]]可比性与[[Heterogeneity|异质性]]挑战。
 
 > [!contrast-table] 二阶元分析三代方法谱系多维对比
 > | 比较维度 | 第一代：粗放元综合<br>（Naive Meta-Synthesis） | 第二代：标准伞状二阶元分析<br>（Standard Umbrella / SOMA） | 第三代：现代多水平稳健二阶元分析<br>（Modern Multilevel & Robust SOMA） |

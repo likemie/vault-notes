@@ -78,7 +78,7 @@ updated: '2026-08-27'
 > | 量规模块 | 核心维度 | 评定重点 | 表现阶梯 |
 > |---|---|---|---|
 > | **批判性思维量规（Critical Thinking Rubric）** | **解释说明（Explanation of issues）** | [[Problem Finding\|问题界定]]清晰度、背景脉络完整性与关键争议识别。 | 4 个层级（基准 1 分 $\to$ 里程碑 2–3 分 $\to$ 顶峰 4 分） |
-> | 同上 | **证据使用（Evidence）** | 来源[[Reliability\|可靠性]]评估、数据解读充分度与对反面证据的包容审视。 | 同上 |
+> | 同上 | **[[Research Utilization\|证据使用]]（Evidence）** | 来源[[Reliability\|可靠性]]评估、数据解读充分度与对反面证据的包容审视。 | 同上 |
 > | 同上 | **情境与[[Hypothesis\|假设]]（Context and assumptions）** | 识别自身与他人立场中的未言明假设及其文化/学科情境约束。 | 同上 |
 > | 同上 | **个人立场（Student's position）** | 提出明确、具备自我反思且充分吸纳反驳意见的独立主张。 | 同上 |
 > | 同上 | **结论与后果（Conclusions and outcomes）** | 结论与证据的逻辑契合度及对潜在深远影响的预判。 | 同上 |

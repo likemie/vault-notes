@@ -102,7 +102,7 @@ updated: 2026-08-21
 > [!citation-card]- 关键定义
 > 准实验设计涉及在无法进行随机分配的情境中对自[[Variable|变量]]进行操纵。虽然缺乏随机化带来的理论等价性保证，但通过严密的控制组选择、[[Pre-test and Post-test|前测]]基线调整与替代解释排除，准实验能够建立高度可信的因果证据。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|(Cohen et al., 2011, pp. 317–320)]]
 >
-> *Quasi-experimental designs encompass situations where the researcher can manipulate the independent variable but cannot randomly assign participants to groups. Establishing [[Counterfactual]] viability through robust pretesting and baseline equivalence is the cornerstone of [[Causality|causal inference]] in quasi-experiments.*
+> *Quasi-experimental designs encompass situations where the researcher can manipulate the independent variable but cannot randomly assign participants to groups. Establishing [[Counterfactual]] viability through robust pretesting and [[Baseline Standardized Mean Difference|Baseline Equivalence]] is the cornerstone of [[Causality|causal inference]] in quasi-experiments.*
 
 ---
 
@@ -124,7 +124,7 @@ updated: 2026-08-21
 
 > [!proc] 准[[Experimental Research|实验研究]]标准实施六步规程
 > 1. **选择非等对比较组** 依据地理、学业背景与人口学特征，匹配选择最接近干预组的自然对照学校或班级。
-> 2. **实施全面基线测量** 采集详尽的[[Pre-test and Post-test|前测]]学业成绩与背景协[[Variable|变量]]，严密检验两组基线等值性（Baseline Equivalence）。
+> 2. **实施全面基线测量** 采集详尽的[[Pre-test and Post-test|前测]][[Academic Achievement|学业成绩]]与背景协[[Variable|变量]]，严密检验两组基线等值性（[[Baseline Standardized Mean Difference|Baseline Equivalence]]）。
 > 3. **常态化现场干预实施** 干预组落实新教学方案，对照组维持**常规照常教学（Business-As-Usual, BAU）**，同步监控[[Implementation Fidelity|实施忠实度]]。
 > 4. **终结性后测数据采集** 采用完全相同的标准化工具进行干预后评估，排查[[Attrition|差异流失]]（Differential Attrition）。
 > 5. **构建统计纠偏模型** 运用双重差分法（DID）或 [[Analysis of Covariance|ANCOVA]] 剥离基线初始差异与自然时间趋势。
@@ -150,7 +150,7 @@ updated: 2026-08-21
 > [!formula-step] 双重差分模型（DID）与 [[What Works Clearinghouse|WWC]] 基线等值分级判定
 > 
 > 1. **双重差分因果效应估计模型（Difference-in-Differences）**
->    $$Y_{it} = \beta_0 + \beta_1 \cdot \text{Treat}_i + \beta_2 \cdot \text{Post}_t + \mathbf{\delta} \cdot (\text{Treat}_i \times \text{Post}_t) + \mathbf{\gamma}' \mathbf{X}_{it} + \varepsilon_{it}$$
+>    $$Y_{it} = \beta_0 + \beta_1 \cdot \text{Treat}_i + \beta_2 \cdot \text{[[Parliamentary Office of Science and Technology|POST]]}_t + \mathbf{\delta} \cdot (\text{Treat}_i \times \text{Post}_t) + \mathbf{\gamma}' \mathbf{X}_{it} + \varepsilon_{it}$$
 >    - **$\delta$** 核心因果效应参数（净处理效应），代表干预组在干预前后的变化量减去控制组的变化量；
 >    - **$\mathbf{X}_{it}$** 控制的可观察协变量向量（如家庭经济背景、先前基线成绩）。
 >

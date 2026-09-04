@@ -41,7 +41,7 @@ updated: 2026-08-23
 ## 背景
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 由英国皇家学会（The Royal Society）与 EngineeringUK 等机构联合委托开展的旗舰性全国调查，最近一期为 SET 2023（2024 年正式发布报告）。
+> - **发布时间 / 发布主体** 由英国皇家学会（The Royal Society）与 [[EngineeringUK]] 等机构联合委托开展的旗舰性全国调查，最近一期为 SET 2023（2024 年正式发布报告）。
 > - **适用地区 / 样本对象** 覆盖英格兰全境 11–18 岁中学生（[[Sample Size Determination|样本量]]超 7,000 人）及一线科学教师样本。
 > - **问题背景** 长期系统监测国家科学大纲实施效果，捕捉青少年在动手实验、科学认同、选课倾向及未来 STEM 职业抱负上的纵向变化轨迹。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, pp. 32–33)]]
 > - **制度位置** 英国基础教育阶段最具权威性的科学教育实证监测基准之一。

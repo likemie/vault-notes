@@ -65,7 +65,7 @@ updated: 2026-08-27
 > - **国际标准化考试运营** 负责全球学术考试托福（TOEFL）、研究生入学考试（GRE）、托业（TOEIC）与教师资格考试（[[Praxis]]）的研发与实施。
 > - **高等教育通用能力与增值测验** 研发[[ETS Proficiency Profile|学术水平概况测验]]（EPP / 原 MAPP），作为[[Voluntary System of Accountability|美国自愿问责体系]]（[[Voluntary System of Accountability|VSA]]）官方认证测验，用于纵向追踪大学[[Learning Gain|学习增益]]。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 25)]]
 > - **新一代[[Higher-Order Thinking Skills|高阶思维]]机考产品** 研发新一代高等教育核心能力评估体系（[[ETS HEIghten Critical Thinking Assessment|ETS HEIghten]]），专门测评分析推理与综合论证高阶认知过程。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 17, 23)]]
-> - **教师专业素养生成性测评** 联合全美 [[InTASC Standards|InTASC]] 联盟开发教师教学知识测验（TTK），采用高度真实的生成性情境任务评估教师促进学生[[Critical Thinking|批判性思维]]的教学能力。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 18)]]
+> - **教师专业素养生成性测评** 联合全美 [[InTASC Standards|InTASC]] 联盟开发教师[[Test of Teaching Knowledge|教学知识测验]]（TTK），采用高度真实的生成性情境任务评估教师促进学生[[Critical Thinking|批判性思维]]的教学能力。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 18)]]
 
 ---
 

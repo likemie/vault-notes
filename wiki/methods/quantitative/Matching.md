@@ -113,7 +113,7 @@ updated: 2026-07-13
 > - **需要满足与随机实验相同的[[Hypothesis|假设]]** 匹配不能豁免随机实验所需的关键假设——同样必须满足无干扰（no interference）的 [[Stable Unit Treatment Value Assumption|SUTVA]] 要求([[Argument_Berk_2011_ER|Berk, 2011, p.199]])。
 > - **远不如[[Random Assignment|随机化]]** Smith (1991, p. 215) 指出匹配最常用于准实验和非[[Experimental Research|实验研究]]，在排除替代因果解释方面远不如随机化——随机化控制所有变量，匹配只控制命名变量（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16, p. 323]]）。
 > - **样本缩减风险** 匹配可能导致样本大幅缩减——Lewis-Beck (1993) 报告了一个从 1,194 缩减至 46 的实例（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15|Cohen et al., 2011, Ch15]]）。
-> - **协变量[[Interaction Effect|交互效应]]** "与协变量的交互效应最好通过事后分层（post stratification）来解决，而非因果模型"([[Argument_Berk_2011_ER|Berk, 2011, p.199]])。
+> - **协变量[[Interaction Effect|交互效应]]** "与协变量的交互效应最好通过事后分层（[[Parliamentary Office of Science and Technology|POST]] stratification）来解决，而非因果模型"([[Argument_Berk_2011_ER|Berk, 2011, p.199]])。
 
 ## 相关理论与方法
 

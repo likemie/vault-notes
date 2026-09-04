@@ -57,7 +57,7 @@ updated: 2026-05-23
 ## 实施情况
 
 > [!example]
-> CUREE 的关键工作是 [[Knowledge Mobilisation|知识动员]]：把严谨研究转换成可读、可用的学校材料，并通过专业发展和政策分析支持证据使用([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.34]])。
+> CUREE 的关键工作是 [[Knowledge Mobilisation|知识动员]]：把严谨研究转换成可读、可用的学校材料，并通过专业发展和政策分析支持[[Research Utilization|证据使用]]([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.34]])。
 
 ## 效果与评价
 

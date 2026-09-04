@@ -105,7 +105,7 @@ updated: 2026-07-25
 
 > [!evidence-grid-a] 相关方法索引
 > - [[Ebel Method]] — Ebel（1979）在 Angoff 基础上增加了项目的**相关性**维度，构建难度×相关度矩阵，要求评判者同时考虑两个因素
-> - Nedelsky（1954）方法 — 另一种经典的标准设定方法，适用于多项选择题
+> - Nedelsky（1954）方法 — 另一种经典的标准设定方法，适用于[[Multiple-Choice Questions|多项选择题]]
 
 ---
 

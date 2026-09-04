@@ -85,7 +85,7 @@ updated: 2026-08-17
 > 5. **假设检验（hypothesis testing）** 在分析与写作中检验假设。
 > 6. **沉浸（[[Presence|immersion]]）** 深入数据，捕捉所有线索。
 > 7. **类别化（categorizing）** 设定类别与标签，类别必须反映[[Research Purpose|研究目的]]、穷尽、互斥。
-> 8. **孵化（incubation）** 反思数据，发展解释与意义。
+> 8. **孵化（[[Incubation]]）** 反思数据，发展解释与意义。
 > 9. **综合（synthesis）** 回顾[[Coding in Qualitative Research|编码]]依据，识别[[Emergence|涌现]]的模式与主题。
 > 10. **删减（culling）** 浓缩、删节、重新解释数据以便清晰呈现。
 > 11. **解释（interpretation）** 赋予数据意义。

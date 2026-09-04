@@ -52,7 +52,7 @@ updated: 2026-08-28
 ## 背景
 
 > [!policy-context] 政策背景
-> - **发布时间 / 研发主体** 2004 年由欧洲联合质量倡议（Joint Quality Initiative, JQI）非正式网络研制，并在 2005 年博洛尼亚进程卑尔根部长级会议（Bergen Communiqué）上正式采纳为欧洲高等教育区资格框架（QF-EHEA）的核心基准。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 12–14)]]
+> - **发布时间 / 研发主体** 2004 年由欧洲联合质量倡议（Joint Quality Initiative, JQI）非正式网络研制，并在 2005 年[[Bologna Process|博洛尼亚进程]]卑尔根部长级会议（Bergen Communiqué）上正式采纳为[[European Qualifications Framework|欧洲高等教育区资格框架]]（QF-EHEA）的核心基准。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 12–14)]]
 > - **适用范围** 欧洲高等教育区（EHEA）49 个成员国的全部高等教育周期（Cycles）。
 > - **核心使命** 为博洛尼亚进程“学士-硕士-博士”三级学位架构提供统一、通用且成果本位（Learning Outcomes-Based）的跨国可比描述符，推动学分互认（ECTS）与质量保障。
 
@@ -72,19 +72,19 @@ updated: 2026-08-28
 >   - *学士*：能运用学科方法构建和支撑论据，并在本专业领域解决常规及复杂问题；
 >   - *硕士*：能在新型、未知或跨学科环境中整合多源知识并解决复杂劣构问题；
 >   - *博士*：能设计、实施并调整重要的原创性研究过程，展现高级探究与学术创新力。
-> - **3. 做出判断（Making Judgements / 批判性思维核心）**
+> - **3. 做出判断（Making Judgements / [[Critical Thinking|批判性思维]]核心）**
 >   - *学士*：能搜集和解释相关数据，在考虑社会、科学或伦理议题的前提下做出理性判断；
 >   - *硕士*：在信息不完备或极度复杂情境下整合数据，反思社会与伦理责任并做出深层批判性判断；
 >   - *博士*：能对复杂新观念开展独立批判分析、价值评估与综合学术裁决。
 > - **4. 沟通技能（Communication Skills）**
->   - 从向同行与非专业受众清晰传递结论与逻辑理由（学士/硕士），到引领学术同行深度对话与思想传播（博士）。
+>   - 从向同行与非专业受众清晰传递结论与逻辑理由（学士/硕士），到引领学术同行深度[[Dialogue in Education|对话]]与思想传播（博士）。
 > - **5. 学习能力（Learning Skills）**
->   - 从具备开展自主终身学习的能力（学士），到在高度自主与未知情境中引领自我专业发展（硕士/博士）。
+>   - 从具备开展自主[[Lifelong Learning|终身学习]]的能力（学士），到在高度自主与未知情境中引领自我专业发展（硕士/博士）。
 
 ---
 
 ## 影响与后果
 
 > [!finding-cards] 影响与后果
-> - **宏观治理影响** 成为欧洲各国编制国家资格框架（NQFs）与欧洲资格框架（EQF 6–8 级）的直接法理母本。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 12)]]
-> - **转译瓶颈与微观断裂** 都柏林描述符的高度抽象性导致欧洲高校教师在微观课程考核中普遍遭遇对齐困难，直接催生了 [[Tuning Project|Tuning 调谐项目]] 与 [[CALOHEE Project|CALOHEE 项目]] 的学科化操作破局。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 27–28)]]
+> - **宏观治理影响** 成为欧洲各国编制国家资格框架（NQFs）与[[European Qualifications Framework|欧洲资格框架]]（EQF 6–8 级）的直接法理母本。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 12)]]
+> - **[[Transfer Translation Transformation|转译]]瓶颈与微观断裂** 都柏林描述符的高度抽象性导致欧洲高校教师在微观课程考核中普遍遭遇对齐困难，直接催生了 [[Tuning Project|Tuning]] 调谐项目 与 [[CALOHEE Project|CALOHEE]] 项目 的学科化操作破局。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 27–28)]]

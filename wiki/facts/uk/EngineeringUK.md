@@ -63,7 +63,7 @@ updated: 2026-09-04
 ## 调研与实证监测
 
 > [!stat-cards]- 标志性研究与实证监测
-> - **联合委托发布《科学教育追踪调查》（[[UK Science Education Tracker|SET]]）** 联合英国皇家学会长期纵向监测英格兰中学生的实验课时、学科志趣与职业认知，实证揭示了 14–16 岁青少年动手实验双周率持续滑坡的系统性危机（2016 年 44% $\rightarrow$ 2023 年 26%）。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 33)]]
+> - **联合委托发布《科学教育追踪调查》（SET）** 联合英国皇家学会长期纵向监测英格兰中学生的实验课时、学科志趣与职业认知，实证揭示了 14–16 岁青少年动手实验双周率持续滑坡的系统性危机（2016 年 44% $\rightarrow$ 2023 年 26%）。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 33)]]
 > - **年度《英国工程现状报告》（EngineeringUK State of Engineering）** 持续测算国家关键基础设施与前沿制造对技能人才的实际需求缺口，为英国技能委员会和各级政府教育投资提供循证依据。
 
 ---
@@ -72,7 +72,7 @@ updated: 2026-09-04
 
 > [!finding-cards] 国家级战略影响
 > 1. **英国基础教育 STEM 改革的重要循证推动者** 依托 SET 追踪调查等实证数据，持续向英国国会与教育部建言，力促扭转中学动手探究边缘化现状，推动高中阶段推行宽口径跨学科课程改革。
-> 2. **重构工业界参与教育的社会契约** 皇家学会《科学造福社会》报告将 EngineeringUK 视为推动商业企业落实社会价值（Social Value）与开展深层公共沟通不可或缺的全国性中介，有效避免了企业各自为战的碎片化弊端。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04|(The Royal Society, 2026, p. 68)]]
+> 2. **重构工业界参与教育的社会契约** 皇家学会《科学造福社会》报告将 EngineeringUK 视为推动商业企业落实社会价值（Social [[VALUE Rubrics|VALUE]]）与开展深层公共沟通不可或缺的全国性中介，有效避免了企业各自为战的碎片化弊端。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04|(The Royal Society, 2026, p. 68)]]
 
 ---
 

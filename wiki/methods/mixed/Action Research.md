@@ -297,7 +297,7 @@ updated: 2026-08-23
 ### 群体数据收集工具
 
 > [!info] 群体工具与特有方法
-> [[Nominal Group Technique|名义小组技术]]（[[Nominal Group Technique]]）和[[Delphi Technique|德尔菲技术]]（[[Delphi Technique]]）是行动研究中两种结构化群体工具（Morrison, 1993）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 286–288)]]名义小组技术通过个体写作→展示评论→聚类排序→群体讨论在单次会议完成；德尔菲技术通过多轮书面问卷迭代收敛意见，不需同时到场。此外还有三种特有方法[[Argument_QiMei_2015_EducationalResearchMethods|(齐梅, 2015, Ch.9)]]：头脑风暴法（激发[[Creativity|创造力]]收集建议）、三角形[[Observation Method|观察法]]（研究者、行动者、评价者三角观察并碰撞观点）、中立主席法（防止强势者控制讨论）。
+> [[Nominal Group Technique|名义小组技术]]（[[Nominal Group Technique]]）和[[Delphi Technique|德尔菲技术]]（[[Delphi Technique]]）是行动研究中两种结构化群体工具（Morrison, 1993）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 286–288)]]名义小组技术通过个体写作→展示评论→聚类排序→群体讨论在单次会议完成；德尔菲技术通过多轮书面问卷迭代收敛意见，不需同时到场。此外还有三种特有方法[[Argument_QiMei_2015_EducationalResearchMethods|(齐梅, 2015, Ch.9)]]：[[Brainstorming|头脑风暴]]法（激发[[Creativity|创造力]]收集建议）、三角形[[Observation Method|观察法]]（研究者、行动者、评价者三角观察并碰撞观点）、中立主席法（防止强势者控制讨论）。
 
 ---
 

@@ -89,7 +89,7 @@ updated: 2026-08-25
 > [!contrast-table] 成对 Wald 检验 vs 组间总[[Heterogeneity|异质性]]检验（Q_between）
 > | 比较维度 | 组间总异质性检验（Cochran's $Q_{between}$） | 成对 Wald 检验（Pairwise Wald Tests） |
 > |---|---|---|
-> | **检验性质** | **总体泛指检验（Omnibus Test）** | **事后成对精确检验（Post-Hoc Pairwise Test）** |
+> | **检验性质** | **总体泛指检验（Omnibus Test）** | **事后成对精确检验（[[Parliamentary Office of Science and Technology\|POST]]-Hoc Pairwise Test）** |
 > | **原假设 $H_0$** | 所有亚组的真实效应量完全相等（$\theta_1 = \theta_2 = \dots = \theta_k$） | 特定两亚组真实效应量相等（$\theta_j = \theta_k$） |
 > | **统计分布** | 卡方分布 $\chi^2(k - 1)$，自由度为亚组数减 1 | 卡方分布 $\chi^2(1)$ 或渐近正态分布 $Z$ |
 > | **推断能力** | 仅能判断各亚组间是否存在不全相同的变异，无法定位具体组间差异 | 精确定位两两亚组间的优劣级差与显著性边界 |

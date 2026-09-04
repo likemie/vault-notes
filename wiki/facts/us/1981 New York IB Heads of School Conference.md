@@ -38,15 +38,15 @@ updated: 2026-09-03
 ## 背景
 
 > [!event-context] 事件背景
-> - **时间／地点** 1981 年 2 月，美国纽约，由联合国国际学校主办，是国际文凭校长年会首次在美洲举行。
-> - **关键主体** 国际文凭办公室、国际文凭北美公司、杰拉德·雷诺（Gerard Renaud）、吉尔伯特·尼科尔（Gilbert Nicol）、汤姆·哈戈特（Tom Hagoort）、布洛克·卡鲁斯（Blouke Carus）及来自各地区的学校校长。
+> - **时间／地点** 1981 年 2 月，美国纽约，由联合国[[International Schools|国际学校]]主办，是[[International Baccalaureate|国际文凭]]校长年会首次在美洲举行。
+> - **关键主体** 国际文凭办公室、[[International Baccalaureate North America|国际文凭北美公司]]、[[Gerard Renaud|杰拉德·雷诺]]（Gerard Renaud）、[[Gilbert Nicol|吉尔伯特·尼科尔]]（Gilbert Nicol）、汤姆·哈戈特（[[Theory of Mind|ToM]] Hagoort）、布洛克·卡鲁斯（Blouke Carus）及来自各地区的学校校长。
 > - **制度背景** 国际文凭理事会重组后，三分之一成员由学校选举产生并代表学校；校长年会在日内瓦与其他国际城市间轮流举行，用于讨论共同问题和建立学校共同体。
 > - **触发条件** 北美学校增长、纽约办公室成本和区域法人独立，引发部分校长对课程美国化、资金失衡和 IBNA 分离主义的担忧。[[Argument_Peterson_1987_OpenCourt_Ch06|Peterson (1987, Ch. 6, pp. 146–147)]]
 
 ## 经过
 
 > [!dev-timeline]- 从私下猜疑到制度化处理
-> - **1979 年　早期警讯** 维也纳会议后，尼科尔获悉有人把 IBNA 描述为威胁 IBO 未来的分离主义组织。
+> - **1979 年　早期警讯** 维也纳会议后，尼科尔获悉有人把 [[International Baccalaureate North America|IBNA]] 描述为威胁 IBO 未来的分离主义组织。
 > - **1981 年会前　董事会预警** 雷诺向 IBNA 董事会报告，部分校长担忧 IB 可能美国化，并认为纽约办公室资金和薪酬过高、正在挤占 IBO 资源。
 > - **会议期间　极端推论公开化** 一名亚洲学校校长主张，现有资源分配最终会使 IBO 崩溃或被美国方面完全接管。
 > - **专门会议　核对治理与财务** 哈戈特邀请质疑者与 IBNA 董事会举行专门会谈，误解经具体说明得到澄清。
@@ -66,7 +66,7 @@ updated: 2026-09-03
 
 > [!finding-cards] 影响与后果
 > - **治理透明度** 校长年会成为公开检验区域费用、代表性和课程控制疑虑的场所。
-> - **跨组织协调** IBNA 领导进入 IBO 管理委员会，使区域意见与全球责任在共同机构内协商。
+> - **跨组织协调** [[International Baccalaureate North America|IBNA]] 领导进入 IBO 管理委员会，使区域意见与全球责任在共同机构内协商。
 > - **身份边界** 争议推动组织更明确地区分法律和财务上的区域自主，与课程和考试上的国际统一。
 > - **财务互助** 1981 与 1983 年资助显示北美增长可以反向支持日内瓦，而不只是消耗全球资源。[[Argument_Peterson_1987_OpenCourt_Ch06|Peterson (1987, Ch. 6, pp. 146–147)]]
 

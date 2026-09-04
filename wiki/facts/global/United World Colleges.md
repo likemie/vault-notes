@@ -70,7 +70,7 @@ UWC 的形成不是把一所学校完整复制到其他国家。早期加拿大�
 >
 > - **个人筹款与大型活动**
 >
->   [[Louis Mountbatten|路易斯·蒙巴顿（Louis Mountbatten）]]通过私人网络和大型慈善活动筹资。众星之夜筹得约二百二十五万英镑，其中三分之二归大西洋学院，三分之一归国际办公室。
+>   [[Louis Mountbatten|路易斯·蒙巴顿]]（Louis Mountbatten）通过私人网络和大型慈善活动筹资。众星之夜筹得约二百二十五万英镑，其中三分之二归大西洋学院，三分之一归国际办公室。
 >
 > - **书院分摊**
 >
@@ -80,7 +80,7 @@ UWC 的形成不是把一所学校完整复制到其他国家。早期加拿大�
 > - **择优录取** 学生按能力和品格选拔，不因家庭无法支付费用而被排除。
 > - **社会开放** 奖学金用于跨越阶级、收入、国籍、种族与宗教壁垒。
 > - **经常开支** 书院仍需由学生带来的学费或奖学金收入承担日常成本。
-> - **公共身份** [[Founding of Lester B. Pearson College|皮尔逊书院]]和[[Founding of United World College of the Adriatic|亚得里亚海书院]]的百分之百奖学金与政府支持，使 UWC 被表述为国际公共教育的一部分。
+> - **公共身份** 皮尔逊书院和亚得里亚海书院的百分之百奖学金与政府支持，使 UWC 被表述为国际公共教育的一部分。
 > - **概念边界** “人人获得奖学金”不必然等于“每份奖学金覆盖全部成本”。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 102, 107–109, 121, 128)]]
 
 ## 扩展节点
@@ -88,16 +88,16 @@ UWC 的形成不是把一所学校完整复制到其他国家。早期加拿大�
 > [!dev-timeline]- 从单校到多模型网络
 > - **1963–1968 年　第一轮扩展探索** 加拿大和德国计划因场地、资本、资格承认与政治记忆受阻，证明大西洋学院模式难以直接复制。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 99–104)]]
 > - **1968–1972 年　国际组织成形** [[Louis Mountbatten|路易斯·蒙巴顿]]建立国际理事会、公司、办公室与国家委员会网络，使扩展从志愿行动转向专门组织。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 104–107)]]
-> - **1975 年　两种成员模式同时获得确认** [[Founding of Lester B. Pearson College|莱斯特·B·皮尔逊书院]]以国家支持、寄宿和全奖目标代表经典强模式；[[Transformation of Singapore International School into United World College of South East Asia|东南亚书院]]则由全龄城市[[International Schools|国际学校]]转为正式成员。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 115–122)]]
-> - **1977–1982 年　关联路径制度化** [[United World Colleges Associated Schools Policy 1977|1977年关联学校政策]]设置非正式联系期，[[Waterford Kamhlaba Admission to United World Colleges|沃特福德]]再经关联、课程转换和财政协议成为正式成员。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 123–126)]]
-> - **1982–1984 年　地方政府支持的村落书院落地** [[Founding of United World College of the Adriatic|亚得里亚海书院]]以地方和中央政府资金、全奖政策及分散式村落空间形成另一种强模式。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 126–129)]]
+> - **1975 年　两种成员模式同时获得确认** 莱斯特·B·皮尔逊书院以国家支持、寄宿和全奖目标代表经典强模式；东南亚书院则由全龄城市[[International Schools|国际学校]]转为正式成员。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 115–122)]]
+> - **1977–1982 年　关联路径制度化** 1977年关联学校政策设置非正式联系期，沃特福德再经关联、课程转换和财政协议成为正式成员。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 123–126)]]
+> - **1982–1984 年　地方政府支持的村落书院落地** 亚得里亚海书院以地方和中央政府资金、全奖政策及分散式村落空间形成另一种强模式。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 126–129)]]
 
 ## 成员模型与身份边界
 
 > [!contrast-table] 经典书院、关联学校与课程外围
 > | 层次 | 共同特征 | 主要差异 | 核心风险 |
 > |---|---|---|---|
-> | **经典 UWC** | 跨国学生、寄宿共同体、奖学金、国际文凭（International Baccalaureate，IB）、服务与探险 | 政府支持程度和[[Space of Flows and Space of Places\|地方空间]]不同 | 成本高，扩展速度慢 |
+> | **经典 UWC** | 跨国学生、寄宿共同体、奖学金、[[International Baccalaureate\|国际文凭]]（International Baccalaureate，IB）、服务与探险 | 政府支持程度和[[Space of Flows and Space of Places\|地方空间]]不同 | 成本高，扩展速度慢 |
 > | **关联或[[Transitology\|转型学]]校** | 接受 UWC 教育目标并与正式书院、国际办公室合作 | 可能是全龄学校、缴费生为主或原用其他课程 | 成员标准稀释，共同办公室成本上升 |
 > | **IB 学校外围** | 国际课程与[[Theory of Knowledge\|知识论]]、社会服务组件可传播部分理念 | 不具备 UWC 的选拔、奖学金、寄宿和服务强度 | 把课程采用误认作组织成员身份[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, pp. 116–117, 123–125)]] |
 

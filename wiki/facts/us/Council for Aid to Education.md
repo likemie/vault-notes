@@ -64,7 +64,7 @@ updated: 2026-08-27
 ## 核心职能与重大突破
 
 > [!feature] [[Collegiate Learning Assessment|CLA]] 系列产品与国际合作
-> - **开创表现性测评标准（CLA / CLA+）** 2002 年正式推出大学学习评估（CLA / CLA+），首创由“情境化真实文档库（[[Document]] Library）+ 劣构决策任务（Performance Tasks）”构成的考核模式，颠覆了传统选择题客观测试[[Paradigm|范式]]。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 17)]]
+> - **开创表现性测评标准（CLA / CLA+）** 2002 年正式推出大学学习评估（CLA / CLA+），首创由“情境化真实文档库（[[Document]] Library）+ 劣构决策任务（Performance Tasks）”构成的考核模式，颠覆了传统[[Multiple-Choice Questions|选择题]]客观测试[[Paradigm|范式]]。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 17)]]
 > - **赋能全美问责制** 作为[[Voluntary System of Accountability|美国自愿问责体系]]（[[Voluntary System of Accountability|VSA]]）中唯一被采纳的真实表现性测验工具。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 25)]]
 > - **跨国战略合作与[[Transfer Translation Transformation|转译]]** 与意大利国家评估署（ANVUR）合作开展 [[TECO Project|TECO]] 项目，将 CLA+ [[Going Native|本土化]]并覆盖 23 所大学；与英国 [[Higher Education Funding Council for England|HEFCE]] 合作实施 [[Learning Gain|学习增益]]项目；深度参与 [[OECD]] 高等教育学习成果可行性评估（[[OECD AHELO Project|AHELO]]）通用技能测评。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 17–18)]]
 

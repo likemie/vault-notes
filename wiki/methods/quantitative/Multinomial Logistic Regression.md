@@ -143,4 +143,4 @@ updated: 2026-08-15
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Greene_2010_JEP|Greene et al. (2010)]] —  使用多项逻辑回归（Multinomial Logistic Regression），以学业成绩和[[Educational Level|受教育年限]]为[[Independent Variable|自变量]]预测个体归属特定[[Epistemology|认识论]]类别阶段的概率。
+> - [[Argument_Greene_2010_JEP|Greene et al. (2010)]] —  使用多项逻辑回归（Multinomial Logistic Regression），以[[Academic Achievement|学业成绩]]和[[Educational Level|受教育年限]]为[[Independent Variable|自变量]]预测个体归属特定[[Epistemology|认识论]]类别阶段的概率。

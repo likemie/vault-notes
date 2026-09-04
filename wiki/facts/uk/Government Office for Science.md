@@ -61,9 +61,9 @@ updated: 2026-09-04
 
 > [!policy-design]- 机制设计与四大支柱
 > - **统筹部委首席科学顾问（CSAs）网络** 协调部署在国防部、教育部、环境署、交通部等各部委的高级首席科学顾问，定期召开全国 CSA 联席例会，打破部门壁垒，统筹跨部门科研证据采购与协同。
-> - **重点研究领域清单（Areas of Research Interest, ARIs）** 自 2013 年起指导并监督各部委常态化公开发布 ARIs，将政府在未来数年内的核心政策痛点与亟需研究问题清晰罗列，引导全国高校、科研院所与第三部门精准对齐国家重大需求。
+> - **[[Areas of Research Interest|重点研究领域清单]]（Areas of Research Interest, ARIs）** 自 2013 年起指导并监督各部委常态化公开发布 ARIs，将政府在未来数年内的核心政策痛点与亟需[[Research Question|研究问题]]清晰罗列，引导全国高校、科研院所与第三部门精准对齐国家重大需求。
 > - **前瞻预见计划（Foresight Projects）与时事科学综述** 设立专属预算，定期编制国家级未来趋势前瞻报告（如未来人口老龄化、未来城市、防洪体系、人工智能趋势等），为国家制定 10–20 年中长期战略提供科学情景建模。
-> - **应急科学咨询小组常设运转保障** 作为内阁危机响应时[[Scientific Advisory Group for Emergencies|紧急情况科学咨询小组]]（SAGE）的常设秘书处，负责在危机爆发时快速筛选并调度外部跨学科专家名单。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|(The Royal Society, 2026, Ch. 5, p. 81)]]
+> - **应急科学咨询小组常设运转保障** 作为内阁危机响应时[[Scientific Advisory Group for Emergencies|紧急情况科学咨询小组]]（[[Sage]]）的常设秘书处，负责在危机爆发时快速筛选并调度外部跨学科专家名单。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|(The Royal Society, 2026, Ch. 5, p. 81)]]
 
 > [!citation-card]- 组织使命
 > 我们确保政府政策与决策以最佳的可用科学证据和战略长远考量为基础；我们通过支持政府首席科学顾问及各部门科学顾问网络，捍卫客观、独立且高标准的科学咨询。
@@ -78,7 +78,7 @@ updated: 2026-09-04
 > - **1964** 英国设立最初的政府首席科学顾问（GCSA）职位。
 > - **1971** 《[[Rothschild Report 1971|罗斯柴尔德报告]]》推动政府设立部委首席科学顾问（CSAs）。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|(The Royal Society, 2026, Ch. 5, p. 80)]]
 > - **2007** 政府科学办公室（GO-Science）正式组建，承接统筹协调部委科学顾问网络与编制前瞻报告的职责。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|(The Royal Society, 2026, Ch. 5, p. 81)]]
-> - **2013** GO-Science 推出首批部门重点研究领域（ARIs）试点，推动政府科研需求全面透明化。
+> - **2013** GO-Science 推出首批部门[[Areas of Research Interest|重点研究领域]]（ARIs）试点，推动政府科研需求全面透明化。
 > - **2023** 伴随中央部委重组，GO-Science 整体归入新设立的科学、创新与技术部（DSIT），继续保持向内阁直接建言的独立渠道。
 > - **2026** 英国皇家学会《科学为社会》报告肯定了 GO-Science 在统筹各部委科学咨询中的关键作用，同时警示必须防范政治压力对科学顾问客观性的侵蚀，确保顾问在体制内外的独立发声自由。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|(The Royal Society, 2026, Ch. 5, pp. 81, 84)]]
 
@@ -98,7 +98,7 @@ updated: 2026-09-04
 
 > [!finding-cards] 效果与启示
 > - **构建了全球公认的部委科学顾问标杆网络** 英国由 GO-Science 协调的部委 CSA 机制成为许多发达国家效仿的政府科技治理制度[[Paradigm|范式]]。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|(The Royal Society, 2026, Ch. 5, p. 82)]]
-> - **从被动采购向主动证据治理深化** ARIs 的推行让学术界摆脱了盲目跟风，极大增强了国家科研资助对解决现实公共政策瓶颈的针对性。
+> - **从被动采购向主动证据治理深化** [[Areas of Research Interest|ARIs]] 的推行让学术界摆脱了盲目跟风，极大增强了国家科研资助对解决现实公共政策瓶颈的针对性。
 > - **亟需携手国家学术院构筑独立第三方监督** 皇家学会第 15 项建议提出，面对日益严峻的政治化压力，国家学术院应发挥更主动的公共监督功能，与 GO-Science 形成良性互动，共同捍卫国家科学建议的无偏见品质。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|(The Royal Society, 2026, Ch. 5, pp. 84, 88)]]
 
 ---

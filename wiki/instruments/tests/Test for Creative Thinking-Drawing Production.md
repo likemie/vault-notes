@@ -42,7 +42,7 @@ updated: 2026-09-03
 
 ## 工具定位
 
-> [!instrument-profile] Test for Creative Thinking-Drawing Production (TCT-DP)
+> [!instrument-profile] Test for [[Creativity|creative thinking]]-Drawing Production (TCT-DP)
 > - **工具类型** 非言语图形创造力表现测验（整体性产品创作测验）。
 > - **开发者与年份** Urban & Jellen (1986, 1996)。
 > - **测量目的** 评估个体的图形创造力潜能、空间拓扑重组与打破框架定势的能力；有效避免语言流畅性与文化背景偏倚。
@@ -52,7 +52,7 @@ updated: 2026-09-03
 
 ## 测量构念与维度
 
-> [!construct-table] [[Creativity|图形创造力]]与整体创造潜能
+> [!construct-table] 图形[[Creativity|创造力]]与整体创造潜能
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
 >
 > | 维度 | 题项数 | 测量内容 | 计分方式 |
@@ -93,7 +93,7 @@ updated: 2026-09-03
 >
 > | 研究 | 工具版本 | 样本与用途 | 测量属性 | 关键结果 |
 > |---|---|---|---|---|
-> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | TCT-DP 标准版 | 纳入高校创造力干预元分析（涵盖 Karwowski & Soszynski, 2008 等），测定图形创造力维度的干预响应 | 跨文化评分一致性高（$r > 0.88$） | 图形创造力在高校干预中获得显著稳健增益（$N = 27, g = 0.644$），视觉拓扑重组表现出高可塑性 |
+> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | TCT-DP 标准版 | 纳入高校创造力干预元分析（涵盖 Karwowski & Soszynski, 2008 等），测定图形[[Creativity\|创造力]]维度的干预响应 | 跨文化评分一致性高（$r > 0.88$） | 图形创造力在高校干预中获得显著稳健增益（$N = 27, g = 0.644$），视觉拓扑重组表现出高可塑性 |
 > | Karwowski & Soszynski (2008) | TCT-DP Form A/B | 波兰高校学生（$N = 15$），结合创造性意象训练（TCI）检验创造力教学前后的绘画测验得分变化 | 复本重测信度 $r = 0.79$ | 结构化训练显著提升了大学生的 TCT-DP 总分及边界突破维度得分 |
 
 ---
@@ -105,5 +105,5 @@ updated: 2026-09-03
 >
 > | 版本 | 语言与地区 | 目标人群 | 题项数 | 主要变化 | 来源 |
 > |---|---|---|---|---|---|
-> | 原始版 Form A & Form B | 德语/国际版 | 4 岁儿童至成人全年龄段 | 1 张测验纸 | 提供平行复本 Form A 与 Form B（碎片方向对称翻转），支持严格的前后测实验设计 | Urban & Jellen (1986, 1996) |
+> | 原始版 Form A & Form B | 德语/国际版 | 4 岁儿童至成人全年龄段 | 1 张测验纸 | 提供平行复本 Form A 与 Form B（碎片方向对称翻转），支持严格的前[[Pre-test and Post-test\|后测]]实验设计 | Urban & Jellen (1986, 1996) |
 > | 跨文化国际应用版 | 全球多国 | 中小学及高校群体 | 1 张测验纸 | 无需文字翻译即可跨文化直接使用，常模在欧洲、东亚多国获得验证 | Jellen & Urban (1989) |

@@ -60,7 +60,7 @@ updated: 2026-07-13
 ## 定义
 
 > [!def] 事后回溯研究的定义
-> 事后回溯研究（ex post facto research）字面意为"事后"，指通过观察已存在的条件或状态，并回溯搜索可能的因果因素来探索因果-效应关系的研究方法（p.304）。研究者从因[[Variable|变量]]（DV）出发，逆向搜索已经发生、无法被操纵或控制的可能[[Independent Variable|自变量]]（IV），然后通过[[Hypothesis|假设]]、检验、控制样本和匹配等方式试图建立因果联系（pp.304–305）。由于自变量已发生且无法被研究者操纵，[[Causality|因果推断]]属于概率性因果关系的范畴（p.304）。
+> 事后回溯研究（ex [[Parliamentary Office of Science and Technology|POST]] facto research）字面意为"事后"，指通过观察已存在的条件或状态，并回溯搜索可能的因果因素来探索因果-效应关系的研究方法（p.304）。研究者从因[[Variable|变量]]（DV）出发，逆向搜索已经发生、无法被操纵或控制的可能[[Independent Variable|自变量]]（IV），然后通过[[Hypothesis|假设]]、检验、控制样本和匹配等方式试图建立因果联系（pp.304–305）。由于自变量已发生且无法被研究者操纵，[[Causality|因果推断]]属于概率性因果关系的范畴（p.304）。
 
 > [!method-scope] 方法范围
 > - **研究对象** 已发生的自然事件、条件或处理对后续结果的影响，如家庭暴力对学生成绩的影响、教师培训质量对教学效能的影响。
@@ -163,7 +163,7 @@ Lord（1973, p. 6）提出了事后回溯研究的八个阶段（pp. 315–316�
 ## 局限性
 
 > [!method-limits] 方法局限
-> - **偏误来源** 缺乏对自[[Variable|变量]]的控制（核心弱点）；无法[[Random Assignment|随机分配]]；回溯数据受历史证据的弱点和偏差影响；[[Hypothesis|假设]]可以从同一数据中获得多个甚至相互矛盾的支持（p. 308）；[[Post Hoc Ergo Propter Hoc Fallacy|事后归因谬误]]（post hoc, ergo propter hoc）——仅因一个变量在时间上先于另一个，不意味着前者引发了后者（Cohen & Nagel, 1961）（p. 309）。
+> - **偏误来源** 缺乏对自[[Variable|变量]]的控制（核心弱点）；无法[[Random Assignment|随机分配]]；回溯数据受历史证据的弱点和偏差影响；[[Hypothesis|假设]]可以从同一数据中获得多个甚至相互矛盾的支持（p. 308）；[[Post Hoc Ergo Propter Hoc Fallacy|事后归因谬误]]（[[Parliamentary Office of Science and Technology|POST]] hoc, ergo propter hoc）——仅因一个变量在时间上先于另一个，不意味着前者引发了后者（Cohen & Nagel, 1961）（p. 309）。
 > - **适用边界** 最多只能展示变量间的相关或关联关系；[[Causality|因果推断]]是试探性的，不应被解读为确定性的（p. 308）；因果关系方向无法确定——A 可能引发 B，B 可能引发 A，或第三变量可能同时引发二者（p. 309）。
 > - **误用风险** 将相关误解为因果；忽略可能的反向因果；忽略未测量的第三变量；将来自数据的假设当作已被数据检验过的假设（Lord, 1973, p. 7）（p. 316）；分类为二分组的困难（p. 313）；匹配导致的样本大幅缩减（Lewis-Beck, 1993, p. 43）（pp. 316–317）。
 > - **补救方式** 通过匹配、同质性抽样、纳入额外[[Independent Variable|自变量]]、检验[[Alternative Hypothesis|替代假设]]引入控制（pp. 316–317）；谨慎地将事后回溯研究定位为探索性工具和假设来源，而非确定性检验（p. 310）。

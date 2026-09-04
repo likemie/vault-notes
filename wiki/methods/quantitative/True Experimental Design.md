@@ -85,7 +85,7 @@ updated: 2026-07-13
 > 2. 一个或多个实验组
 > 3. [[Random Assignment|随机分配]]至控制组和实验组
 > 4. [[Pre-test and Post-test|前测]]（pre-test）以保证各组等价
-> 5. 后测（post-test）以观察对[[Dependent Variable|因变量]]的效应
+> 5. 后测（[[Parliamentary Office of Science and Technology|POST]]-test）以观察对[[Dependent Variable|因变量]]的效应
 > 6. 对实验组施加一个或多个干预
 > 7. 隔离、控制和操纵[[Independent Variable|自变量]]
 > 8. 控制组与实验组不相互污染（non-contamination）
