@@ -190,15 +190,15 @@ updated: 2026-09-04
 
 #### 主题一：参与行为覆盖率与高频参与群体的持续扩张（p. 94）
 
-过去二十年间，约四分之三的受访学者开展过不同程度的公众科学活动，整体参与广度与深度呈现极为明显的稳步攀升态势（图 6-1，p. 94）：
+过去二十年间，约四分之三的受访学者开展过不同程度的公众科学活动，高频参与群体的比例大幅攀升，超过半数的学者表达了未来参与更多活动的意愿，整体参与广度与深度呈现极为明显的稳步攀升态势（图 6，p. 94）。
+
+> [!example]- 图6：英国理工科科研人员参与公众科学活动的比例变化（2006–2025，p. 94）
+> ![](https://img.mylikemie.icu/sources/RoyalSociety_2026_ScienceForSociety/figures/RoyalSociety_2026_ScienceForSociety_Fig6_Participation_in_Public_Engagement.jpg)
 
 > [!stat-cards]- 英国科研人员公众参与行为核心演进指标（2006 → 2015 → 2025）
 > - **74% → 78% → 85%** 英国理工科（STEM）科研人员报告开展过至少一项公众参与活动的比例从早期的四分之三持续增长至 85% 的全员覆盖水平。
 > - **11% → 27% → 27%** 每年参与 10 次以上高频、重度参与的学者群体比例，在 2015 年较 2006 年实现了两倍以上的跨越式暴增后，在 2025 年维持在 27% 的稳定高位。
 > - **45% → 53% → 54%** 超过半数的受访学者明确表达了“渴望在未来开展更多公众参与活动”的强烈主观诉求。（p. 94）
-
-> [!example]- 图6-1：英国理工科科研人员参与公众科学活动的比例变化（2006–2025，p. 94）
-> ![](https://img.mylikemie.icu/sources/RoyalSociety_2026_ScienceForSociety/figures/RoyalSociety_2026_ScienceForSociety_Fig6-1_Participation_in_Public_Engagement.jpg)
 
 > [!ref-table]- 英国理工科科研人员公众参与行为演变指标（Figure 6, p. 94）
 > | 监测指标维度 | 2006 年调查 | 2015 年调查 | 2025 年调查 | 二十年演进净变化 | 核心制度意涵 |
@@ -209,12 +209,12 @@ updated: 2026-09-04
 
 #### 主题二：参与认知的深刻去精英化与反哺科研质量共识（p. 95）
 
-科研人员对公众参与在学术体系中的地位认知发生了结构性转变：参与不仅被广泛视为一项崇高的道德职责，更被科研人员自身深刻体会到其对激发自身研究激情以及拓展研究深度的巨大价值（图 6-2，p. 95）。
+科研人员对公众参与在学术体系中的地位认知发生了结构性转变：参与不仅被广泛视为一项崇高的道德职责，更被科研人员自身深刻体会到其对激发自身研究激情以及拓展研究深度的巨大价值。
 
-最引人瞩目的变化在于参与主体的“去精英化”与“全员化”——认为公众参与“最适合由资深研究人员承担”（Best done by senior researchers）的受访者比例，从 2006 年的 44% 骤降至 2015 年的 21%，并在 2025 年彻底跌至 9% 的冰点；同时，认为参与应由“受训专业人员全权承担”（Best done by trained professionals）的比例亦回落至 20%（p. 95）。这充分表明，广大早期职业研究人员（Early-Career Researchers, ECRs）、博士后与普通教职学者已经普遍建立起直面公众的自主信心，彻底终结了“科普是资深学者专利”的旧有范式。
+最引人瞩目的变化在于参与主体的“去精英化”与“全员化”——认为公众参与“最适合由资深研究人员承担”（Best done by senior researchers）的受访者比例，从 2006 年的 44% 骤降至 2015 年的 21%，并在 2025 年彻底跌至 9% 的冰点；同时，认为参与应由“受训专业人员全权承担”（Best done by trained professionals）的比例亦回落至 20%。这充分表明，广大早期职业研究人员（Early-Career Researchers, ECRs）、博士后与普通教职学者已经普遍建立起直面公众的自主信心，彻底终结了“科普是资深学者专利”的旧有范式（图 7，p. 95）。
 
-> [!example]- 图6-2：英国科研人员对公众参与的态度演进分布（2006–2025，p. 95）
-> ![](https://img.mylikemie.icu/sources/RoyalSociety_2026_ScienceForSociety/figures/RoyalSociety_2026_ScienceForSociety_Fig6-2_Attitudes_toward_Public_Engagement.jpg)
+> [!example]- 图7：英国科研人员对公众参与的态度演进分布（2006–2025，p. 95）
+> ![](https://img.mylikemie.icu/sources/RoyalSociety_2026_ScienceForSociety/figures/RoyalSociety_2026_ScienceForSociety_Fig7_Attitudes_toward_Public_Engagement.jpg)
 
 > [!ref-table]- 英国科研人员公众参与态度演化分布（Figure 7, p. 95）
 > | 态度维度命题 | 2006 年调查 | 2015 年调查 | 2025 年调查 | 二十年演进净变化 | 核心[[Trend Study\|趋势分析]] |
@@ -226,10 +226,10 @@ updated: 2026-09-04
 
 #### 主题三：动机结构的分化：告知主导与上游共创的初兴（p. 96）
 
-在科研人员投身参与的具体动力维度上，调查数据揭示了动机构成的多层次特征（图 6-3，p. 96）：
+在科研人员投身参与的具体动力维度上，调查数据揭示了动机构成的多层次特征：虽然单向“告知公众”（70%）依然是绝对主导的驱动力，且学者对“彰显研究的社会相关性”（60%）和“享受参与乐趣”（58%）的认同度居高不下，但以双向对话与深度倾听为特征的参与模式正在快速萌芽——包括通过[[In-depth Interview|深度访谈]]、民意[[Questionnaire|问卷]]开展的“政策咨询型参与”（Consultation），以及涉及课题联合设计、社区科研能力建设、[[Participatory Action Research|参与式行动研究]]与大规模公民科学的“协同共创型参与”（Collaborative / Co-production activities）（图 8，p. 96）。
 
-> [!example]- 图6-3：英国科研人员投身公众参与的核心动机变化（2006–2025，p. 96）
-> ![](https://img.mylikemie.icu/sources/RoyalSociety_2026_ScienceForSociety/figures/RoyalSociety_2026_ScienceForSociety_Fig6-3_Motivations_for_Engagement.jpg)
+> [!example]- 图8：英国科研人员投身公众参与的核心动机变化（2006–2025，p. 96）
+> ![](https://img.mylikemie.icu/sources/RoyalSociety_2026_ScienceForSociety/figures/RoyalSociety_2026_ScienceForSociety_Fig8_Motivations_for_Engagement.jpg)
 
 > [!ref-table]- 英国科研人员公众参与驱动动机分布（Figure 8, p. 96）
 > | 驱动动机维度 | 2006 年调查 | 2015 年调查 | 2025 年调查 | 二十年演进净变化 | 动机结构特征分析 |
@@ -238,8 +238,6 @@ updated: 2026-09-04
 > | **彰显研究的社会相关性（Societal relevance）** | 51% | 63% | 60% | **+9%** | 学者高度注重向外界证明自身课题与紧迫社会议题的紧密纽带 |
 > | **享受参与乐趣与心理满足（Enjoyment）** | 44% | 56% | 58% | **+14%** | 内在成就感构成了抵御繁重日常科研压力的强大精神动力 |
 > | **助力职业晋升与职称发展（Career advancement）** | 6% | 7% | 18% | **+12%** | 虽呈翻倍增长态势，但整体占比依然极低，外在制度激励依然严重不足 |
-
-虽然单向“告知公众”（70%）依然是绝对主导的活动方式，但在学术界各分支领域内部，以双向对话与深度倾听为特征的参与模式正在快速萌芽：包括通过[[In-depth Interview|深度访谈]]、民意[[Questionnaire|问卷]]与社区走访开展的“政策咨询型参与”（Consultation），以及涉及课题方案联合设计、社区科研能力建设、[[Participatory Action Research|参与式行动研究]]与大规模公民科学的“协同共创型参与”（Collaborative / Co-production activities）（p. 96）。
 
 ---
 
@@ -252,10 +250,10 @@ updated: 2026-09-04
 
 #### 主题一：不断恶化的时间压力与资源匮乏困境（pp. 96–97）
 
-调查数据显示，制约科研人员投身参与的核心阻碍呈现出两极分化的演变态势（图 6-4，p. 97）：
+调查数据显示，制约科研人员投身参与的核心阻碍呈现出鲜明的两极分化与恶化态势：尽管公众参与在政策层面受到更多倡导，但时间匮乏（75%）已成为首要且持续恶化的体制性瓶颈，加之专项活动经费短缺（45%）问题日益突出；相比之下，技能培训短缺（10%）已大幅缓解，表明当前阻碍已从个人能力不足转向大学工作量与资源的结构性挤出（图 9，p. 97）。
 
-> [!example]- 图6-4：制约英国科研人员开展公众参与的主要障碍演变（2006–2025，p. 97）
-> ![](https://img.mylikemie.icu/sources/RoyalSociety_2026_ScienceForSociety/figures/RoyalSociety_2026_ScienceForSociety_Fig6-4_Barriers_to_Engagement.jpg)
+> [!example]- 图9：制约英国科研人员开展公众参与的主要障碍演变（2006–2025，p. 97）
+> ![](https://img.mylikemie.icu/sources/RoyalSociety_2026_ScienceForSociety/figures/RoyalSociety_2026_ScienceForSociety_Fig9_Barriers_to_Engagement.jpg)
 
 > [!ref-table]- 制约科研人员公众参与的核心障碍分布（Figure 9, p. 97）
 > | 阻碍因素维度 | 2006 年调查 | 2015 年调查 | 2025 年调查 | 二十年演进净变化 | 阻碍恶化机制剖析 |
@@ -267,10 +265,10 @@ updated: 2026-09-04
 
 #### 主题二：机构支持的结构性滞后与 EDGE 文化评估体系（pp. 98–99）
 
-在机构支持层面，尽管各高校近年来普遍设立了公众参与专职支持团队、开设了相关培训并设立了校级表彰奖项，但在全英学术界整体范围内，高校的实质性制度支持依然呈现出均值偏低且极度不均衡的特征（图 6-5，p. 98）：
+在机构支持层面，开展高品质、多样化的公众参与高度依赖大学机构与直线管理者的实质性支撑。尽管各高校近年来普遍设立了专职支持团队，但在全英学术界范围内，高校的制度化支持依然呈现出结构性滞后：不仅培训实际参与率长期徘徊在 27% 左右，参与贡献对职称晋升的支撑作用亦处于低位（27%），且岗位职责说明书中几乎从未明确纳入参与要求（图 10，p. 98）。
 
-> [!example]- 图6-5：英国高校对科研人员公众参与的机构支持演化指标（2006–2025，p. 98）
-> ![](https://img.mylikemie.icu/sources/RoyalSociety_2026_ScienceForSociety/figures/RoyalSociety_2026_ScienceForSociety_Fig6-5_Institutional_Support.jpg)
+> [!example]- 图10：英国高校对科研人员公众参与的机构支持演化指标（2006–2025，p. 98）
+> ![](https://img.mylikemie.icu/sources/RoyalSociety_2026_ScienceForSociety/figures/RoyalSociety_2026_ScienceForSociety_Fig10_Institutional_Support.jpg)
 
 > [!ref-table]- 英国高校对公众参与机构支持指标演进（Figure 10, p. 98）
 > | 机构支持指标维度 | 2006 年调查 | 2015 年调查 | 2025 年调查 | 核心制度评估 |
