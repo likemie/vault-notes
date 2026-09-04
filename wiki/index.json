@@ -12757,6 +12757,18 @@
     ]
   },
   {
+    "title": "Baseline Standardized Mean Difference",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Baseline Standardized Mean Difference.md",
+    "aliases": [
+      "基线等效性标准化均数差",
+      "基线标准化均数差",
+      "基线等效性",
+      "Baseline SMD",
+      "Baseline Equivalence"
+    ]
+  },
+  {
     "title": "Begg and Mazumdar Rank Correlation",
     "type": "method",
     "path": "wiki/methods/quantitative/Begg and Mazumdar Rank Correlation.md",

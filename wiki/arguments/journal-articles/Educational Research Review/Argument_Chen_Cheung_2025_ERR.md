@@ -55,6 +55,7 @@ related_methods:
   - "[[Experimental Research]]"
   - "[[Coding in Qualitative Research]]"
   - "[[PRISMA]]"
+  - "[[Baseline Standardized Mean Difference]]"
   - "[[Begg and Mazumdar Rank Correlation]]"
   - "[[Leave-One-Out Sensitivity Analysis]]"
   - "[[Analysis of Covariance]]"
@@ -76,7 +77,7 @@ title: "Argument_Chen_Cheung_2025_ERR"
 argument_key: "Argument_Chen_Cheung_2025_ERR"
 argument_display_title: "Effect of generative artificial intelligence on university students learning outcomes: A systematic review and meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 39
+argument_related_count: 40
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -177,12 +178,12 @@ issuing_organization: ""
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
 > | **文献检索与筛选**<br>[[PRISMA\|PRISMA 系统检索]] | 检索 Web of Science、Scopus、ERIC、IEEE Xplore、PsycINFO、ProQuest 等核心数据库，辅以 Google Scholar 灰色[[Literature Search\|文献检索]]及滚雪球追溯；时间跨度为 2022 年 12 月至 2025 年 3 月；共检索出 3,718 篇[[Document\|文献]]，经 EndNote 去重（排除 275 篇）、标题摘要初筛与全文复筛，依据系统评价和元分析优先报告条目（Preferred Reporting Items for Systematic Reviews and Meta-Analyses, PRISMA）流程最终纳入 57 篇符合标准的实证研究。（pp. 7–9） |
-> | **基线等效性控制门槛**<br>Baseline Equivalence Standard | 严格遵循 Slavin & Smith (2009) 与美国教育科学研究院有效教学策略网（What Works Clearinghouse, WWC, 2022）标准：① 必须包含对照组的实验或准实验设计；② 每组样本量至少 15 人；③ 报告前测数据并满足基线组间差异标准化均数差 $d < 0.25$，若在 $0.05 \le d \le 0.25$ 之间则要求统计调整协变量；④ 若无前测必须为严格随机对照试验（Randomized Controlled Trial, RCT）；⑤ 排除测量工具与干预内容过度重叠的自利性设计。（pp. 8–9） |
+> | **基线等效性控制门槛**<br>Baseline Equivalence Standard | 严格遵循 Slavin & Smith (2009) 与美国教育科学研究院有效教学策略网（What Works Clearinghouse, WWC, 2022）标准：① 必须包含对照组的实验或准实验设计；② 每组样本量至少 15 人；③ 报告前测数据并满足[[Baseline Standardized Mean Difference\|基线等效性标准化均数差]] $d < 0.25$，若在 $0.05 \le d \le 0.25$ 之间则要求统计调整协变量；④ 若无前测必须为严格随机对照试验（Randomized Controlled Trial, RCT）；⑤ 排除测量工具与干预内容过度重叠的自利性设计。（pp. 8–9） |
 > | **效应量计算与统计模型**<br>随机效应模型与 [[Meta-analysis\|Hedges' g+]] | 使用元分析综合软件（Comprehensive Meta-Analysis, CMA 3.0）进行统计建模；采用 Cohen's $d$ 并通过 Hedges' $g$ 小样本校正公式转化为无偏效应量 $g$；由于研究间存在显著异质性（$Q = 1390.157, p < 0.001$），采用随机效应模型进行加权合成；运用混合效应模型（Mixed-Effects Model）检验分类调节变量（$Q_B$ 组间异质性检验），运用元回归检验连续变量（女性比例）。（pp. 9–10） |
 > | **偏倚诊断与敏感性分析**<br>发表偏倚诊断与剪补法 | 绘制[[Funnel Plot\|漏斗图]]（Funnel Plot），结合 Begg [[Begg and Mazumdar Rank Correlation\|秩相关检验]]与 Egger 线性回归检验[[Publication Bias\|发表偏倚]]；运用 Duval & Tweedie [[Trim and Fill Method\|剪补法]]（Trim and Fill Method）估算缺失研究并校正合并[[Effect Size\|效应量]]；执行[[Leave-One-Out Sensitivity Analysis\|留一法]]敏感性分析验证极端值影响。（pp. 10, 13–14） |
 
 > [!formula] 基线等效性标准化均数差计算规程（p. 8）
-> 严格依据 WWC (2022) 标准，合并标准差与[[Pre-test and Post-test|前测]]基线组间效应量公式如下：
+> 严格依据 WWC (2022) 标准，合并标准差与[[Pre-test and Post-test|前测]]基线组间[[Baseline Standardized Mean Difference|基线等效性标准化均数差]]公式如下：
 > $$SD_{\text{pooled}} = \sqrt{\frac{(n_T - 1)SD^2_{\text{pre}, T} + (n_C - 1)SD^2_{\text{pre}, C}}{n_T + n_C - 2}}$$
 > $$d_{\text{baseline}} = \frac{\bar{X}_{T, \text{pre}} - \bar{X}_{C, \text{pre}}}{SD_{\text{pooled}}}$$
 > 当 $d_{\text{baseline}} \ge 0.25$ 时，即便使用[[Analysis of Covariance\|协方差分析]]（Analysis of Covariance, ANCOVA）亦因基线分布[[Heterogeneity|异质性]]而无法消除混杂偏倚，因而在元分析筛选中坚决予以剔除。
