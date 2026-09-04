@@ -9,7 +9,7 @@ title: "Argument_Kraft_2023_ER"
 argument_key: "Argument_Kraft_2023_ER"
 argument_display_title: "The effect-size benchmark that matters most: Education interventions often fail"
 argument_kind: "journal-article"
-argument_related_count: 7
+argument_related_count: 8
 argument_related_level: 0
 argument_related_stars: "☆"
 argument_related_color: "#dbeafe"

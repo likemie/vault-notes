@@ -6,10 +6,10 @@ summary: "格拉斯哥大学比较与国际教育学教授，以以学生为中�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 7
-person_related_level: 0
-person_related_stars: ""
-person_related_color: "#e5e7eb"
+person_related_count: 8
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
   - region/uk
   - field/comparative-education

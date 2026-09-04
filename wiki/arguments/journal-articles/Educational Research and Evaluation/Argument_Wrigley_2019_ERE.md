@@ -10,7 +10,7 @@ title: "Argument_Wrigley_2019_ERE"
 argument_key: "Argument_Wrigley_2019_ERE"
 argument_display_title: "Evidence-based teaching: a simple view of 'science'"
 argument_kind: "journal-article"
-argument_related_count: 23
+argument_related_count: 24
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"

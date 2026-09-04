@@ -9,7 +9,7 @@ aliases:
 summary: "严格依循非形式逻辑语法将论辩推论链条（主张、理由、证据、反驳）进行空间树状或网络可视化的认知脚手架"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

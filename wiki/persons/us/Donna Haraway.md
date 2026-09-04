@@ -7,7 +7,7 @@ summary: "美国女性主义科技研究学者，赛博格、sympoiesis 与 SF �
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 9
+person_related_count: 10
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"

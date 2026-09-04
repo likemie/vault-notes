@@ -9,7 +9,7 @@ aliases:
 summary: "指在开放或不良结构情境中主动识别、界定、重构与提出潜在创造性问题的认知加工过程，是创造过程的前端核心驱动力。"
 type: concept
 domain: "educational-psychology"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

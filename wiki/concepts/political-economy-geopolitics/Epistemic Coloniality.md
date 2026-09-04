@@ -6,7 +6,7 @@ aliases:
 summary: "米尼奥洛和康奈尔指出的全球知识体系以欧洲中心主义认识论为基础的隐性权力结构，通过界定哪些知识可被看见与接受来固化象征空间的等级边界"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

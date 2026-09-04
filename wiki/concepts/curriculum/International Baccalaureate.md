@@ -7,7 +7,7 @@ aliases:
 summary: "起源于国际学校共同课程与跨国升学需求的国际课程体系，通过学科组、核心组件和统一评估平衡通识教育、专业准备与国际理解。"
 type: concept
 domain: "curriculum"
-related_count: 40
+related_count: 41
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"

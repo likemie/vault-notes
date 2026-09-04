@@ -13,9 +13,9 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 5
-fact_related_level: 0
-fact_related_stars: ""
+fact_related_count: 10
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: Cabinet Office, Government Office for Science
 tags:

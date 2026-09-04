@@ -9,7 +9,7 @@ summary: "规范系统综述与元分析检索、筛选、纳入与透明化报�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 37
+method_related_count: 38
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dcfce7"

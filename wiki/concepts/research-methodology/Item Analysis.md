@@ -15,7 +15,7 @@ aliases:
 summary: "测验编制过程中对每道题目进行统计分析的方法，包括题目区分度指数、题目难度指数和干扰项效果三项核心分析，是优化测验质量、筛选有效题目的关键技术"
 type: concept
 domain: "research-methodology"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

@@ -8,7 +8,7 @@ aliases:
 summary: "由爱德华·德·博诺开创的非线性思维范式与创造性构想生成体系，直接对标并互补于传统“垂直思维（逻辑推导）”。主张打破大脑自组织神经模式的固有凹槽，通过激发（PO）、随机输入与概念挑战等启发式技术，强迫认知系统横向跳跃至非常规切入点以实现观念重构与顿悟突破。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

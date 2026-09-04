@@ -5,7 +5,7 @@ aliases:
 summary: "组织识别、吸收并应用外部知识的能力，在学区改革中取决于项目理解与开放沟通，在产学合作中则调节企业从大学研发合作中受益的程度"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

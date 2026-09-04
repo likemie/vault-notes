@@ -6,7 +6,7 @@ summary: "古希腊哲学家，苏格拉底的学生、亚里士多德的老师�
 type: person
 nationality: greece
 person_region: "greece"
-person_related_count: 18
+person_related_count: 19
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"

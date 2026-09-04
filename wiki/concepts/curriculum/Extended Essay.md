@@ -6,7 +6,7 @@ aliases:
 summary: "国际文凭大学预科项目的必修核心要素，通过学生自主选题、长期研究、导师指导和外部评价，把个人兴趣转化为一项可纳入跨国文凭的独立学术探究。"
 type: concept
 domain: "curriculum"
-related_count: 30
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"

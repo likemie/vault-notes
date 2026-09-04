@@ -17,7 +17,7 @@ aliases:
 summary: "在异质组织、专业社群或制度系统之间充当沟通桥梁的专业角色，通过双重语言转译、制度摩擦缓冲与多边信任建构，促进知识流动、资源对齐与跨界协同共创。"
 type: concept
 domain: "higher-education"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"

@@ -7,7 +7,7 @@ summary: "一种不解释干预如何、为何以及在何种条件下有效的 
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 14
+method_related_count: 15
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"

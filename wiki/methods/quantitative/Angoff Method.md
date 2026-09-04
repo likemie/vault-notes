@@ -10,7 +10,7 @@ summary: "由多位评判者各自估计最低可接受水平者在每个二分�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 6
+method_related_count: 7
 method_related_level: 0
 method_related_stars: ""
 method_related_color: "#dcfce7"

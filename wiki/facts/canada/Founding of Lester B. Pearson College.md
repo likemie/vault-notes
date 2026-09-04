@@ -10,9 +10,9 @@ subtype: event
 region: canada
 fact_region: "canada"
 fact_kind: "event"
-fact_related_count: 0
+fact_related_count: 6
 fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_stars: ""
 fact_related_color: "#fef3c7"
 tags: [region/canada, theme/international-education, theme/institution-building, theme/scholarship-policy]
 related_concepts:

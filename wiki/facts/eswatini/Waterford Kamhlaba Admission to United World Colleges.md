@@ -10,9 +10,9 @@ subtype: event
 region: eswatini
 fact_region: "eswatini"
 fact_kind: "event"
-fact_related_count: 0
+fact_related_count: 5
 fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_stars: ""
 fact_related_color: "#fef3c7"
 tags: [region/eswatini, theme/international-education, theme/anti-apartheid, theme/institution-building]
 related_concepts:

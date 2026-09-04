@@ -9,7 +9,7 @@ aliases:
 summary: "个体根据不断变化的环境情境、目标约束与反馈信息，在不同心智图式、思维范畴或解题策略之间灵活转换与重组的高阶执行功能与创造性思维底层机制。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 35
+related_count: 37
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"

@@ -8,7 +8,7 @@ aliases:
 summary: "主张智力是创造力的必要非充分条件，在智商低于临界阈值（约120）时两者呈正相关，超过阈值后智力与创造力脱钩或关联显著减弱。"
 type: concept
 domain: "educational-psychology"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

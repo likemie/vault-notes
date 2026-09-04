@@ -10,7 +10,7 @@ aliases:
 summary: "由阿奇舒勒创立的算法化发明问题解决理论体系，主张技术与心智系统的演化遵循客观规律，通过识别并消除系统内在矛盾（技术与物理矛盾）、应用 40 条通用发明原理与理想最终解（IFR）启发式，系统克服思维定势并实现高阶创新。"
 type: theory
 theory_field: "instruction-pedagogy"
-theory_related_count: 16
+theory_related_count: 17
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"

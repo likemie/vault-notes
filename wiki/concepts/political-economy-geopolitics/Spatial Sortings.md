@@ -6,7 +6,7 @@ aliases:
 summary: "知识密集型资本主义通过投资、治理和空间规划持续把地点与人口划分为赢家和输家的过程，是空间不平等生产的重要机制"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

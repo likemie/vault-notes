@@ -9,7 +9,7 @@ aliases:
 summary: "涵盖问题分解、模式识别、抽象表征与算法设计等心智操作的问题解决能力体系，是从程序性技能向高阶认知进阶的基础枢纽。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

@@ -7,7 +7,7 @@ summary: "英国教育研究者，批判实在论取向的证据本位教学批�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 26
+person_related_count: 27
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"

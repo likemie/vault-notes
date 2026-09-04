@@ -9,10 +9,10 @@ aliases:
 summary: "亦称认知灵活性或任务切换，指在多个任务、操作规则或心理集合之间切换的能力，是执行功能的核心成分之一。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
 - cognitive-shifting
 - cognitive-flexibility

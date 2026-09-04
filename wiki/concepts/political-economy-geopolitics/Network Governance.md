@@ -6,7 +6,7 @@ aliases:
 summary: "以多主体网络协作、关系协调和分布式控制替代单一科层或市场机制的治理方式。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 20
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

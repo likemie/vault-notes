@@ -7,7 +7,7 @@ summary: "英国教育社会学家，教育政策语境理论与私有化分析�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 25
+person_related_count: 26
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"

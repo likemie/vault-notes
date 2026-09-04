@@ -7,7 +7,7 @@ aliases:
 summary: "高中毕业学分提前完成且大学筛选考试缺少课程激励时，十二年级学生在等待升学期间出现的智识投入下降，揭示招生筛选与高年级课程挑战之间的制度断裂。"
 type: concept
 domain: "curriculum"
-related_count: 0
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

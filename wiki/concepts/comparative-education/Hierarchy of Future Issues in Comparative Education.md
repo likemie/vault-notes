@@ -7,7 +7,7 @@ aliases:
 summary: "Cowen（2023）提出的比较教育学议程分析框架，将学科关注的研究议题划分为常规谜题、热门主题、突破性主题、冷门主题与重大沉默，以及全球解读五个层级"
 type: concept
 domain: "comparative-education"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

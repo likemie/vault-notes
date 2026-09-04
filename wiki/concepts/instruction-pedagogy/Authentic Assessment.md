@@ -8,10 +8,10 @@ aliases:
 summary: "将学生置于模拟现实专业或社会生活的劣构情境中，要求其主动建构、综合应用知识并生成复杂实质作品的教学评价取向"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 21
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 confidence: high
 status: draft
 tags:

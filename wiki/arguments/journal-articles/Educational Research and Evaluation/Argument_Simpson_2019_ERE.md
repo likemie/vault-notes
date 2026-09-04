@@ -9,7 +9,7 @@ title: "Argument_Simpson_2019_ERE"
 argument_key: "Argument_Simpson_2019_ERE"
 argument_display_title: "Separating arguments from conclusions: The mistaken role of effect size in educational policy research"
 argument_kind: "journal-article"
-argument_related_count: 12
+argument_related_count: 13
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#dbeafe"

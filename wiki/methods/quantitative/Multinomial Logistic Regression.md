@@ -7,7 +7,7 @@ summary: "一种用于预测名义变量（包含两个以上无序类别）的�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 11
+method_related_count: 12
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"

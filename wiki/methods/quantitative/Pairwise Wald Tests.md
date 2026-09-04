@@ -10,7 +10,7 @@ summary: "在元分析与调节效应建模中，用于检验三个或更多亚�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 24
+method_related_count: 25
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"

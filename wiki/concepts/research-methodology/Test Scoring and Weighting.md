@@ -10,7 +10,7 @@ aliases:
 summary: "测验编制中为各题目分配分值并汇总为总分的系统方法，计分方案直接体现各题目的相对权重，详细计分支持部分得分和跨组比较，但分数汇总可能丧失标准参照的特异性"
 type: concept
 domain: "research-methodology"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

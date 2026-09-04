@@ -7,7 +7,7 @@ summary: "美国政策与社会研究学者，研究利用（research utilizatio
 type: person
 nationality: "American"
 person_region: "American"
-person_related_count: 5
+person_related_count: 7
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"

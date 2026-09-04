@@ -8,7 +8,7 @@ aliases:
 summary: "评估任务、评分规则、成绩权重及其利害关系提前进入教学与学习决策，进而改变实际课程的机制；方向取决于获分活动与课程目标是否一致，强度取决于后果、权重、任务组合和制度环境。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

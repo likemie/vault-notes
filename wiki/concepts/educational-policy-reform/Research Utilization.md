@@ -11,10 +11,10 @@ aliases:
 summary: "研究知识进入政策与实践过程的多种路径与机制，涵盖研发、问题解决、互动、启蒙与战术模型；在微观上作为知觉控制驱动的专业教学整合行为，在中观上受跨层治理机制制约，在宏观上面临政治议程与合法性筛选。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 38
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 45
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - field/educational-policy-reform
   - theme/research-use

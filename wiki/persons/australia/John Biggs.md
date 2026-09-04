@@ -7,7 +7,7 @@ summary: "澳大利亚教育心理学家，建构性对齐和SOLO分类法提出
 type: person
 nationality: australia
 person_region: "australia"
-person_related_count: 18
+person_related_count: 19
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"

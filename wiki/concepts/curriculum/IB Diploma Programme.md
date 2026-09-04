@@ -9,7 +9,7 @@ aliases:
 summary: "IB 为 16–19 岁学生设计的两年制大学预科课程，由六学科组加 TOK、EE、CAS 三项核心要素组成，以显性批判性思维教学和跨学科整合为特色"
 type: concept
 domain: "curriculum"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

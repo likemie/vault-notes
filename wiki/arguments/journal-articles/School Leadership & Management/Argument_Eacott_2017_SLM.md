@@ -9,7 +9,7 @@ title: "Argument_Eacott_2017_SLM"
 argument_key: "Argument_Eacott_2017_SLM"
 argument_display_title: "School leadership and the cult of the guru: The neo-Taylorism of Hattie"
 argument_kind: "journal-article"
-argument_related_count: 38
+argument_related_count: 39
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"

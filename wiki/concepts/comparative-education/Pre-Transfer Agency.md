@@ -6,10 +6,10 @@ aliases:
 summary: "外国范例进入国内教育话语之初的引入者及其动机与策略，区别于政策实施后的后转移能动性，由 Rappleye (2006) 在响应 Steiner-Khamsi 时明确提出"
 type: concept
 domain: "comparative-education"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
 - pre-transfer-agency
 - policy-borrowing

@@ -8,7 +8,7 @@ summary: "美国教育研究方法论学者，与 Guba 合著 Naturalistic Inqui
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 11
+person_related_count: 10
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"

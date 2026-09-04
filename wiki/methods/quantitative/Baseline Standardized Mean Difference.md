@@ -10,9 +10,9 @@ summary: "用于量化实验与准实验研究干预前处理组与对照组初�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 10
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 35
+method_related_level: 4
+method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/quantitative

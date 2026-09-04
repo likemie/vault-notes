@@ -9,7 +9,7 @@ aliases:
 summary: "皮亚杰开创的发生认识论与认知发展四阶段建构主义理论体系，揭示感觉运动、前运算、具体运算与形式运算的层级质变机制，现代脑科学研究进一步确立了前额叶皮层发育及执行功能成熟与其高度平行的生物-认知机制。"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 34
+theory_related_count: 36
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"

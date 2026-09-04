@@ -7,7 +7,7 @@ summary: "英国教育学者和方法论批评者，民间科学观批判代表�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 5
+person_related_count: 6
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"

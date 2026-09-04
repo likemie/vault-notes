@@ -10,7 +10,7 @@ aliases:
 summary: "个体对其产生创造性想法、解决复杂不良结构问题以及实现创新成果的能力所持有的主观信心与自我效能信念；是连接创造潜能向显性创造表现转化的核心外认知动力中介。"
 type: concept
 domain: "educational-psychology"
-related_count: 46
+related_count: 47
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"

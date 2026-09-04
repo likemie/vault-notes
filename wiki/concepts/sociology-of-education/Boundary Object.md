@@ -8,10 +8,10 @@ aliases:
 summary: "指在不同社会群体或学科共同体之间保持足够通用性以维持共同认同，同时又具备充分可塑性以适应各方特定情境需求的物质、符号或数字化人工制品"
 type: concept
 domain: "sociology-of-education"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 14
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/sociology-of-education
   - theme/technology-innovation

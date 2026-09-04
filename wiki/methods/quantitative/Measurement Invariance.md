@@ -15,7 +15,7 @@ summary: "在多组验证性因子分析（MG-CFA）中检验测量工具在不�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 17
+method_related_count: 19
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"

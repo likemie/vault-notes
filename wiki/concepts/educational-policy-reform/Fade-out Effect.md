@@ -11,10 +11,10 @@ aliases:
 summary: "教育与社会干预在停止实施后即时正向效应随时间推移逐渐萎缩直至消失的普遍现象，在循证清算体系中构成区分顶尖认证与普通评级的关键随访门槛。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - subject/educational-policy-reform
   - program-evaluation

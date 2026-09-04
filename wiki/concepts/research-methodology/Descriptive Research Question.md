@@ -7,7 +7,7 @@ aliases:
 summary: "量化研究中描述单一变量频率和变异的研究问题类型，使用均值、标准差、方差和范围等描述性统计进行分析，与关系型推论性研究问题形成对比"
 type: concept
 domain: "research-methodology"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

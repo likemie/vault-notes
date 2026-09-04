@@ -8,7 +8,7 @@ aliases:
 summary: "西方学习传统第二主题，围绕人类心智的认知能力进行持续2500年的哲学追问与科学探索，从苏格拉底回忆说到现代神经科学"
 type: concept
 domain: "educational-philosophy"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

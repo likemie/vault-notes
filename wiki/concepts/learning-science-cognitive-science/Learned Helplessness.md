@@ -8,7 +8,7 @@ aliases:
 summary: "学习者在经历挑战或挫折时，因将困难归因于不可改变的天生能力匮乏而产生的消极行为与认知模式。表现为低自尊、失败恐惧、迅速放弃努力及负面评价泛化，是实体智力观与固定/快速学习认识论信念的典型行为表征。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

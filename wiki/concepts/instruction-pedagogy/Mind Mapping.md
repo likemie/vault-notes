@@ -11,7 +11,7 @@ aliases:
 summary: "围绕单一中心概念向外辐射多级分支，借助色彩、关键词与自由联想规则外显化非线性思维过程的低认知开销空间视觉组织工具。在创造力干预与高阶思维培养中，它以极简拓扑结构最大化降低认知负荷，是激发发散思维与概念远距组合的核心教学支架。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 31
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"

@@ -7,7 +7,7 @@ aliases:
 summary: "由 Shlomo Sharan 与 Yael Sharan（1992）基于杜威实用主义与社会建构理论开发的民主探究型合作学习模式。通过全班确定总主题、小组自主分工规划、资料搜集探究、报告综合形成、全班展示与多维评价六步规程，实现高阶思维与深度学科素养的协同发展。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
