@@ -39,14 +39,19 @@ related_concepts:
   - "[[Sample Size Determination]]"
   - "[[Operationalization]]"
   - "[[Student Attitude]]"
+  - "[[Questionnaire]]"
   - "[[Critical Thinking]]"
   - "[[Creativity]]"
   - "[[Divergent Thinking]]"
   - "[[Computational Thinking]]"
   - "[[Reflexivity]]"
+  - "[[Critical Thinking Disposition]]"
   - "[[Self-Regulated Learning]]"
   - "[[Going Native]]"
+  - "[[Champ]]"
+  - "[[AI Hallucination]]"
   - "[[Homework]]"
+  - "[[Mentorship]]"
   - "[[Dependent Variable]]"
   - "[[Literature Search]]"
   - "[[Funnel Plot]]"
@@ -74,6 +79,9 @@ related_methods:
   - "[[Analysis of Covariance]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
 related_instruments:
+  - "[[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale]]"
+  - "[[California Critical Thinking Disposition Inventory]]"
+  - "[[California Critical Thinking Skills Test]]"
   - "[[VALUE Rubrics]]"
 related_persons: []
 related_facts:
@@ -91,9 +99,9 @@ title: "Argument_Chen_Cheung_2025_ERR"
 argument_key: "Argument_Chen_Cheung_2025_ERR"
 argument_display_title: "Effect of generative artificial intelligence on university students learning outcomes: A systematic review and meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 42
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 62
+argument_related_level: 4
+argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "Educational Research Review"
 book_title: ""
@@ -167,15 +175,15 @@ issuing_organization: ""
 > |---|---|---|
 > | **结果变量：[[Academic Achievement\|学业成绩]]**<br>（Academic Achievement, AA） | 课程知识掌握、概念理解与客观学科测验成绩，反映学习者通过生成式 AI 辅助对课程内容的认知吸收与事实/程序性知识掌握程度。 | 纳入 25 项研究；涵盖计算机编程测验（Kosar et al., 2024; Johnson et al., 2024）、医学骨科临床考试（Gan et al., 2024; Hui et al., 2025）及专业课期末成绩；测量工具以教师自编学科测试（$k=38$）为主，亦含标准化专业统考；AI 提供即时概念解释、步骤提示与错题解析。 |
 > | **结果变量：[[Language Skills\|语言技能]]**<br>（Language Skills, LS） | 二语/外语（English as a Second/Foreign Language, ESL/EFL）语境下的写作流利度、语法词汇掌握、体裁结构组织、口语交际流利度与阅读理解综合产出。 | 纳入 21 项研究；涵盖二语学术写作评分、托福/雅思口语即时对话流利度（Liu et al., 2025; Wang et al., 2024）；测量工具采用标准化写作量规、国际二语测评及教师作文评分量规；教学规程包括多轮提示词交互润色、语法改错、语篇重构与低焦虑[[Dialogue in Education\|对话]]演练。 |
-> | **结果变量：[[Affective Outcomes\|情感动机状态]]**<br>（Affective-Motivational States, AMS） | 学习动机、学业[[Self-Efficacy\|自我效能感]]、学科学习兴趣、[[Student Attitude\|学习态度]]与心理投入度，以及课业求助焦虑降低程度等非认知情感维度。 | 纳入 25 项研究；采用标准化动机策略学习问卷（Motivated Strategies for Learning Questionnaire, MSLQ）、学业自我效能感量表与课程投入度问卷（Urban et al., 2024; Yilmaz & Yilmaz, 2023b; Marengo et al., 2025）；AI 提供随时响应、无评判威胁的个性化陪伴界面，有效满足自主性与胜任感心理需求。 |
-> | **结果变量：[[Higher-Order Thinking Skills\|高阶思维能力]]**<br>（Higher-Order Thinking, HOT） | [[Critical Thinking\|批判性思维]]、[[Creativity\|创造力]]与[[Divergent Thinking\|发散思维]]、复杂问题解决、[[Computational Thinking\|计算思维]]及[[Reflexivity\|反思性]]论证等深层认知加工与策略迁移能力。 | 纳入 16 项研究；采用加州批判性思维倾向/技能测验（California Critical Thinking Disposition Inventory / Skills Test, CCTDI/CCTST）、开放式辩论评分量规（de la Puente et al., 2024）与复杂编程解题任务（Lee et al., 2024; Stadler et al., 2024）；教学规程引导学生利用 AI 开展头脑风暴、论证辩难与反思性方案设计。 |
+> | **结果变量：[[Affective Outcomes\|情感动机状态]]**<br>（Affective-Motivational States, AMS） | 学习动机、学业[[Self-Efficacy\|自我效能感]]、学科学习兴趣、[[Student Attitude\|学习态度]]与心理投入度，以及课业求助焦虑降低程度等非认知情感维度。 | 纳入 25 项研究；采用标准化动机策略学习[[Questionnaire\|问卷]]（Motivated Strategies for Learning Questionnaire, [[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale\|MSLQ]]）、学业自我效能感量表与课程投入度问卷（Urban et al., 2024; Yilmaz & Yilmaz, 2023b; Marengo et al., 2025）；AI 提供随时响应、无评判威胁的个性化陪伴界面，有效满足自主性与胜任感心理需求。 |
+> | **结果变量：[[Higher-Order Thinking Skills\|高阶思维能力]]**<br>（Higher-Order Thinking, HOT） | [[Critical Thinking\|批判性思维]]、[[Creativity\|创造力]]与[[Divergent Thinking\|发散思维]]、复杂问题解决、[[Computational Thinking\|计算思维]]及[[Reflexivity\|反思性]]论证等深层认知加工与策略迁移能力。 | 纳入 16 项研究；采用加州[[Critical Thinking Disposition\|批判性思维倾向]]/技能测验（[[California Critical Thinking Disposition Inventory]] / Skills Test, CCTDI/[[California Critical Thinking Skills Test\|CCTST]]）、开放式辩论评分量规（de la Puente et al., 2024）与复杂编程解题任务（Lee et al., 2024; Stadler et al., 2024）；教学规程引导学生利用 AI 开展头脑风暴、论证辩难与反思性方案设计。 |
 > | **结果变量：[[Metacognition\|元认知能力]]**<br>（Metacognition, MC） | 学习者对自己认知加工过程的主动监控、自主调节、学习计划制订、策略反思与评估能力，即[[Self-Regulated Learning\|自我调节学习]]（Self-Regulated Learning, SRL）。 | 纳入 10 项研究；采用元认知意识量表（Metacognitive Awareness Inventory, MAI）与自主学习策略量表（Fan et al., 2025; Karaoglan Yilmaz & Yilmaz, 2025）；初级研究大多仅提供开放式工具交互而缺乏显性监控脚手架，导致干预效应微弱且未达统计显著（$g^+ = 0.078$）。 |
 > | **干预变量：AI 工具形态——ChatGPT 系列** | 基于 OpenAI 大语言模型（Large Language Models, LLMs）架构的通用对话式生成系统，具备强提示词工程适应性、长文本理解生成与多轮上下文记忆功能。 | 纳入 65 项研究；作为最主流干预载体，应用于概念释疑、写作草稿生成、代码编写与头脑风暴；学生通过自然语言提示词驱动，教师通常在课前提供提示词示范或指令结构指引（如 Kosar et al., 2024; de la Puente et al., 2024）。 |
 > | **干预变量：AI 工具形态——其他[[Conversational AI in Education\|对话机器人]]** | 除 ChatGPT 外的专用或[[Going Native\|本土化]]大模型对话系统（如文心一言、Claude、Google Gemini 及高校自训学科助手）。 | 纳入 11 项研究；深度嵌入于特定学科学习平台（如外语学习系统、医学病案数据库），配备领域专业知识库与预设交互工作流（Gan et al., 2024）。 |
 > | **干预变量：AI 工具形态——多模态与其他工具** | 非纯文本对话的生成式 AI 系统，涵盖代码生成辅助工具（如 GitHub Copilot）与视觉图像生成系统（如 Midjourney、DALL-E）。 | 纳入 21 项研究；应用于数字艺术创作、三维建模、工程制图与软件工程自动补全；教学要求学生将自然语言构思转化为视觉图景或可执行程序。 |
 > | **干预变量：生成模态** | AI 输出内容的信息表征通道，区分为文本生成、编程代码与视觉图像。 | 文本生成（$k=75$）、代码生成（$k=6$）、图像生成（$k=16$）；教学规程涵盖段落改写、函数编写与视觉原型设计，文本模态适用面最广且直接契合语言与文科教学。 |
-> | **干预变量：人机角色分工——学习同伴** | AI 被定位于平等的学术探讨伙伴与协作共创者，开展双向头脑风暴、[[Role-playing\|角色扮演]]、反思辩难与协作写作。 | 纳入 54 项研究；营造低焦虑、无权力威慑的平等对话场域；学生被鼓励向 AI 提出质疑、指出其幻觉并共同迭代方案（如模拟外交谈判，de la Puente et al., 2024）。 |
-> | **干预变量：人机角色分工——授课导师** | AI 被定位于权威教学支架提供者，执行单向或自适应的概念答疑、知识点讲授、[[Homework\|作业]]批改与纠错反馈。 | 纳入 43 项研究；模拟“一对一导师制”，AI 针对学生答题即时指出错误并给出解析步骤（如编程调试，Johnson et al., 2024；医学病案，Hui et al., 2025）。 |
+> | **干预变量：人机角色分工——学习同伴** | AI 被定位于平等的学术探讨伙伴与协作共创者，开展双向头脑风暴、[[Role-playing\|角色扮演]]、反思辩难与协作写作。 | 纳入 54 项研究；营造低焦虑、无权力威慑的平等对话[[Champ\|场域]]；学生被鼓励向 AI 提出质疑、指出其[[AI Hallucination\|幻觉]]并共同迭代方案（如模拟外交谈判，de la Puente et al., 2024）。 |
+> | **干预变量：人机角色分工——授课导师** | AI 被定位于权威教学支架提供者，执行单向或自适应的概念答疑、知识点讲授、[[Homework\|作业]]批改与纠错反馈。 | 纳入 43 项研究；模拟“一对一[[Mentorship\|导师制]]”，AI 针对学生答题即时指出错误并给出解析步骤（如编程调试，Johnson et al., 2024；医学病案，Hui et al., 2025）。 |
 > | **干预变量：教学整合时长** | 技术干预在课程中的持续周期，区分为短期（$< 4$ 周）、中期（$4–12$ 周）与长期（$> 12$ 周）。 | 短期（$k=33$）、中期（$k=48$）、长期（$k=9$）；中期干预覆盖完整教学单元或学期模块，既确保充分的技能内化与策略适应，又避免了技术新奇感衰退与工具脱敏。 |
 > | **调节变量：[[IB Learner Profile\|学习者特征]]——年级与学科** | 学习者认知成熟度（大一至大四）与学科知识结构属性，涵盖语言学、科学技术工程与数学（Science, Technology, Engineering, and Mathematics, STEM）、人文社科以及医学健康。 | 大一新生（$k=11, g^+=0.698$）处于大学适应过渡期，支架需求最强；语言学（$k=28, g^+=1.782$）与大模型语言机制天然契合，医学实操（$k=11, g^+=0.301$）受制于物理具身限制。 |
 > | **调节变量：宏观数字化水平与社会经济地位** | 宏观数字化基础设施（依据国际电信联盟 ITU 与 [[OECD]] 指标）与国家人均收入水平（世界银行标准），区分为低、中、高三个等级。 | 低 ICT（$k=20, g^+=1.764$）与低 SES（$k=21, g^+=1.751$）高校资源匮乏，AI 带来雪中送炭式的“边际效益递增”；高 ICT 与高 SES 国家已有成熟数字基准，边际增益趋于平缓。 |
