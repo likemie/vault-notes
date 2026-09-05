@@ -11733,6 +11733,7 @@
    仅作用于第一层列表，不覆盖 case / claim / def、卡片、表格和时间轴等专属设计。 */
 :is(
   .callout[data-callout="pathways"],
+  .callout[data-callout="warrant"],
   .callout[data-callout="lessons"],
   .callout[data-callout="indicators"],
   .callout[data-callout="warning"],
@@ -11754,6 +11755,7 @@
 ) > .callout-content > :is(ul, ol) > li > strong:first-of-type,
 :is(
   .callout[data-callout="pathways"],
+  .callout[data-callout="warrant"],
   .callout[data-callout="lessons"],
   .callout[data-callout="indicators"],
   .callout[data-callout="warning"],
@@ -11799,6 +11801,7 @@
 
 :is(
   .callout[data-callout="pathways"],
+  .callout[data-callout="warrant"],
   .callout[data-callout="lessons"],
   .callout[data-callout="indicators"],
   .callout[data-callout="warning"],
@@ -11820,6 +11823,7 @@
 ) > .callout-content > :is(ul, ol) > li > strong:first-of-type:hover,
 :is(
   .callout[data-callout="pathways"],
+  .callout[data-callout="warrant"],
   .callout[data-callout="lessons"],
   .callout[data-callout="indicators"],
   .callout[data-callout="warning"],
@@ -11847,6 +11851,7 @@
 
 .theme-dark :is(
   .callout[data-callout="pathways"],
+  .callout[data-callout="warrant"],
   .callout[data-callout="lessons"],
   .callout[data-callout="indicators"],
   .callout[data-callout="warning"],
@@ -11868,6 +11873,7 @@
 ) > .callout-content > :is(ul, ol) > li > strong:first-of-type,
 .theme-dark :is(
   .callout[data-callout="pathways"],
+  .callout[data-callout="warrant"],
   .callout[data-callout="lessons"],
   .callout[data-callout="indicators"],
   .callout[data-callout="warning"],

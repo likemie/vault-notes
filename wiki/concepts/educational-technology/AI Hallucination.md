@@ -1,7 +1,6 @@
 ---
 title: AI Hallucination
 aliases:
-  - AI幻觉
   - 人工智能幻觉
   - 大模型幻觉
   - Hallucination in AI
@@ -52,10 +51,11 @@ related_methods:
 related_arguments:
   - "[[Argument_Li_2026_CEAI]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
+  - "[[Argument_Zhao_2025_JIntell]]"
 confidence: high
 status: active
 created: 2026-09-02
-updated: 2026-09-03
+updated: 2026-09-05
 ---
 
 # AI Hallucination
@@ -78,7 +78,12 @@ updated: 2026-09-03
 >
 > *Fact-checking and error detection (n = 19) emerged as a major affordance for critical thinking... engaging students in "red-teaming" AI-generated claims turns hallucination into a pedagogical catalyst for epistemic vigilance.*
 
-> [!boundary]- 概念边界辨析
+> [!citation-card]- 关键表述：AI 幻觉对批判性思维的意外倒逼机制（[[Argument_Zhao_2025_JIntell|Zhao et al., 2025]]）
+> 生成式人工智能的固有缺陷（例如 AI 幻觉）能够有效催化批判性思维。不准确或误导性信息的生成，迫使学生主动审查输出结果的有效性与可靠性，从而强化其批判性评估技能，降低对生成式 AI 的盲目依赖，并显著提升有意义人机交互的实现概率。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, p. 14)]]
+>
+> *At the same time, the inherent limitations of Gen-AI, such as AI hallucinations, may catalyze critical thinking. The generation of inaccurate or misleading information compels students to scrutinize the validity and reliability of the outputs, thereby reinforcing their critical evaluation skills, reducing their reliance on Gen-AI, and increasing the likelihood of meaningful interactions with Gen-AI.*
+
+> [!boundary]- 概念边界
 > - **不等于 算法偏见（Algorithmic Bias）** 算法偏见反映的是训练数据分布不均或历史歧视的系统性再现（如性别或种族刻板印象）；AI 幻觉则是模型在缺失确定信息时进行的概率性“无中生有（Confabulation）”。
 > - **不等于 [[Creativity|创造性]]联想（Creative Ideation）** 在小说构思与[[Brainstorming|头脑风暴]]中，虚构情节属于有益的创造性发散；但当任务情境切换为科学研究、学术论文或事实问答时，未经标记的虚构即构成有害的“幻觉”。
 
@@ -86,7 +91,7 @@ updated: 2026-09-03
 
 ## 概念辨析
 
-> [!contrast-table] AI 幻觉与相关技术错误现象对比
+> [!contrast-table] 概念辨析
 > | 比较维度 | **AI 幻觉（AI Hallucination）** | **算法偏见（Algorithmic Bias）** | **程序语法错误（Syntax/Runtime Error）** | **[[Creativity\|创造性]]虚构（Creative Confabulation）** |
 > |---|---|---|---|---|
 > | **本质特征** | 表层顺滑但事实虚构或逻辑断裂 | 统计样本偏差引发的系统性刻板印象 | 代码逻辑错误导致程序无法运行或崩溃 | 艺术与故事创作中的有意观念重组 |
@@ -98,7 +103,7 @@ updated: 2026-09-03
 
 ## 核心要素
 
-> [!feature] AI 幻觉的核心类型与在教育情境中的典型表现
+> [!feature] 核心要素
 > - **事实性虚构（Factual Hallucination）** 捏造历史事件、科学原理、地理常识或统计数据（如杜撰不存在的化学反应方程式）。[[Argument_Li_2026_CEAI|(Li et al., 2026, p. 6)]]
 > - **引用性虚构（Source & Reference Fabrication）** 捏造格式极其规范但完全不存在的学术论文作者、DOI、期刊名与卷期号（学术写作中最普遍的幻觉形态）。[[Argument_Li_2026_CEAI|(Archila et al., 2024; Li et al., 2026, p. 11)]]
 > - **逻辑推理断裂（Logical & Deductive Inconsistency）** 在长文本推导或数学证明中，前言不搭后语，每一步看似合理但整体推论存在致命逻辑跳跃。[[Argument_Li_2026_CEAI|(Urhan et al., 2024; Li et al., 2026, p. 7)]]
@@ -144,20 +149,20 @@ updated: 2026-09-03
 ### 命题二　在非结构化学习中，AI 幻觉是诱发学术失范与心智惰性的核心风险源
 
 > [!concept-lens] [[Cognitive Offloading|认知卸载]]与学术诚信危机
-> 揭示学生在缺乏批判意识时直接采纳幻觉内容的严重后果。
+> 揭示学生在缺乏批判意识与自主调节能力时直接采纳幻觉内容的严重后果。
 
-> [!claim] [[Argument_Li_2026_CEAI|Li et al. (2026)]]
-> **幻觉诱发的心智风险** 在缺乏显性指导的自由使用环境中，学生由于存在[[Illusion of Competence|能力错觉]]与惰性心理，极易将虚构引用与伪事实直接吸收到学术论文中。在 14 项实证研究中，这导致了严重的论证漏洞、学术合规焦虑与独立求证能力的系统性退化。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 6–8)]]
+> [!claim] [[Argument_Li_2026_CEAI|Li et al. (2026)]]; [[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]]
+> **幻觉诱发的心智风险与自律脆弱性** 在缺乏显性指导的自由使用环境中，学生由于存在[[Illusion of Competence|能力错觉]]与惰性心理，极易将虚构引用与伪事实直接吸收到学术论文中，导致严重的论证漏洞与学术合规焦虑[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 6–8)]]。元分析进一步证实，自主调节学习（SRL）薄弱的学生缺乏对生成内容真实性与相关性的审验判断能力，更容易不加甄别地顺从和采纳包括幻觉在内的错误信息，导致人机交互难以转化为有意义的认知建构[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 11, 16)]]。
 
 ---
 
 ### 命题三　在结构化探究中，AI 幻觉可被教学化转化为激发批判性思维的认知靶子
 
 > [!concept-lens] 教学转化与[[Epistemological Vigilance|认识论警觉]]培养
-> 阐明教师如何“化技术缺陷为教学资源”。
+> 阐明教师与人机协同机制如何将技术缺陷转化为培养批判反思的脚手架。
 
-> [!claim] Archila et al. (2024); [[Argument_Li_2026_CEAI|Li et al. (2026)]]
-> **红队测试与批判性心智锻炼** 当教师明确将 AI 输出设定为“包含潜在错误的初级素材”并设计对抗性查错（Red-teaming）任务时，AI 幻觉反而构成了极佳的“反思磨刀石”。学生在寻找引文漏洞、核对一手实验数据的过程中，强制经历了高强度的[[Epistemic Friction|认识论摩擦]]，其[[Critical Thinking|批判性思维]]与证据核查素养得到显著提升。[[Argument_Li_2026_CEAI|(Archila et al., 2024; Li et al., 2026, pp. 6, 11–12)]]
+> [!claim] Archila et al. (2024); [[Argument_Li_2026_CEAI|Li et al. (2026)]]; [[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]]
+> **算法缺陷对批判性思维的倒逼与磨刀石效应** 当教师明确将 AI 输出设定为“包含潜在错误的初级素材”并设计对抗性查错（Red-teaming）任务时，AI 幻觉构成了极佳的反思磨刀石[[Argument_Li_2026_CEAI|(Archila et al., 2024; Li et al., 2026, pp. 6, 11–12)]]。元分析从实证层面阐明了这种反向催化机制：生成式 AI 固有的幻觉与不准确信息，在客观上倒逼学生放弃盲从顺从，主动审查输出结果的有效性与可靠性，从而显著强化了批判性评估技能（$g = 0.691$），降低了技术依赖并大幅提升了有意义人机交互的实现概率[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 10–11, 14)]]。
 
 ---
 
@@ -166,9 +171,9 @@ updated: 2026-09-03
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心主张 | 适用情境 | 代表[[Document\|文献]] |
 > |---|---|---|---|
-> | **技术机制命题** | 概率预测本质决定幻觉是生成式系统的内在属性 | 计算机科学、大模型原理与 AI 素养基础 | Ji et al. (2023); [[Argument_Li_2026_CEAI\|Li et al. (2026)]] |
-> | **风险侵蚀命题** | 无支架使用下幻觉诱发虚假掌握与学术不端 | 开放性课后[[Homework\|作业]]、无监管学术写作 | [[Argument_Li_2026_CEAI\|Li et al. (2026)]] |
-> | **教学转化命题** | 结构化红队查错将幻觉转化为批判性思维培养脚手架 | 科学写作探究、高校专业课程评估改革 | Archila et al. (2024); [[Argument_Li_2026_CEAI\|Li et al. (2026)]] |
+> | **技术机制命题** | 概率预测本质决定幻觉是生成式系统的内在属性 | 计算机科学、大模型原理与 AI 素养基础 | Ji et al. (2023); Li et al. (2026) |
+> | **风险侵蚀命题** | 无支架使用与低自律状态下幻觉诱发虚假掌握与认知顺从 | 开放性课后[[Homework\|作业]]、无监管学术写作 | [[Argument_Li_2026_CEAI\|Li et al. (2026)]]; Xu et al. (2024) |
+> | **教学转化命题** | 结构化红队查错将幻觉转化为倒逼批判性思维深化的认知脚手架 | 科学写作探究、高校专业课程评估改革 | Archila et al. (2024); [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] |
 
 ---
 
@@ -177,7 +182,7 @@ updated: 2026-09-03
 > [!dev-timeline] 概念演变脉络
 > - **2010 年代末 — 计算机视觉与自然语言初现** 幻觉概念最早用于描述深度神经网络在图像生成中出现的无意义伪影（[[Artefact|artifacts]]）及神经机器翻译中的凭空添词。
 > - **2022–2023 年 — ChatGPT 爆发与大模型幻觉泛化** 随着生成式 AI 普及，幻觉特异性指向 LLMs 编造虚假事实与虚构学术引文的普遍现象，引发全球学术界关于研究可[[Reliability|信度]]的争论。
-> - **2024–2026 年 — 学习科学与教育学教学化转向** 教育研究从单纯的“技术除错/封禁”转向“教学转化”，[[Argument_Li_2026_CEAI|Li et al. (2026)]] 与 Archila et al. (2024) 系统确立了基于 AI 幻觉识别的[[Critical Thinking|批判性思维]]与[[Epistemological Vigilance|认识论警觉]]培养[[Paradigm|范式]]。
+> - **2024–2026 年 — 学习科学与教育学教学化转向** 教育研究从单纯的“技术除错/封禁”转向“教学转化”，[[Argument_Li_2026_CEAI|Li et al. (2026)]]、Archila et al. (2024) 与 [[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] 系统确立了基于 AI 幻觉识别的[[Critical Thinking|批判性思维]]与[[Epistemological Vigilance|认识论警觉]]培养[[Paradigm|范式]]。
 
 ---
 
@@ -206,6 +211,7 @@ updated: 2026-09-03
 > | [[Argument_Li_2026_CEAI\|Li et al. (2026, p. 6)]] | 全球 67 项高等教育实证研究（2022–2025） | [[Systematic Review\|系统综述]]与主题综合（PRISMA 2020 框架） | 事实核查与查错机制主题（Fact-checking & Error Detection） | 19 项实证研究明确报告将 AI 幻觉识别设计为课堂核查任务，显著促进了学生的[[Critical Thinking\|批判性思维]]与多源验证习惯 | 87% 研究 MMAT $\ge 80\%$ | 确立 AI 幻觉在[[Structured Teaching\|结构化教学]]中作为[[Higher-Order Thinking Skills\|高阶思维]]训练载体的有效性 |
 > | [[Argument_Li_2026_CEAI\|Li et al. (2026, p. 11)]] (引述 Archila et al., 2024) | 大学本科生科学写作课堂 | 教学干[[Pilot Testing\|预实验]]与文本分析 | 对抗性红队查错（Red-teaming）表现 | 学生在教师布置的去幻觉任务中，主动核查并成功标定出 14 处 ChatGPT 编造的虚假[[Document\|文献]]与错误科学论断 | — | 证实具体的查错量规能有效将对 AI 幻觉的警惕转化为可操作的实证探究行为 |
 > | [[Argument_Li_2026_CEAI\|Li et al. (2026, p. 7)]] | 全球 67 项高等教育实证研究（2022–2025） | [[PRISMA]] 系统综述 | 缺乏幻觉核查导致的学术风险 | 14 项实证研究报告学生因未辨别 AI 幻觉而直接采纳错误引文，导致[[Homework\|作业]]论证逻辑破裂并面临学术诚信风险 | — | 揭示缺乏 AI 素养与幻觉防范规程时的普遍认知风险 |
+> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025, pp. 10–11, 14, 16)]] | 纳入全球 59 项独立实证研究（批判性思维子维度 $k = 20$） | 随机效应一阶[[Meta-analysis\|元分析]]与调节效应模型 | 批判性思维（$g = 0.691$）机制解释与自主调节能力（低 SRL 易感性） | 确立批判性思维在中等偏大水平显著提升（$g = 0.691$），理论机制模型证实 AI 幻觉具有倒逼审验的催化作用；同时亚组检验显示低 SRL 组促学效应微弱（$g = 0.284$），证实缺乏自律调控易深陷幻觉误导 | 组内 $Z = 5.973, p < 0.001$；SRL 组间 $Q_b = 40.962, p < 0.001$ | 实证表明 AI 幻觉转化为批判性思维动力高度依存于学习者的自我调节水平与显性查错支架 |
 
 ---
 
@@ -222,5 +228,6 @@ updated: 2026-09-03
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] — 运用一阶元分析实证揭示生成式 AI 对批判性思维的显著促学效应（$g = 0.691$），从认知机理上提出 AI 幻觉对批判审验的倒逼催化机制，同时发现低自主调节学习能力者更容易受到幻觉误导。
 > - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — [[Systematic Review|系统综述]] 67 项高等教育 ChatGPT 实证研究，将 AI 幻觉识别与去幻觉查错确立为驱动[[Critical Thinking|批判性思维]]发展的核心教学机制。
 > - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026)]] — 强调基础教育科学课程必须培养学生识别大模型幻觉与算法偏见的批判性数字素养。

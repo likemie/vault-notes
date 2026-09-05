@@ -5,6 +5,22 @@
       "path": "wiki/arguments/journal-articles/Journal of Intelligence/Argument_Zhao_2025_JIntell.md"
     },
     {
+      "basename": "Inter-Rater Reliability",
+      "path": "wiki/concepts/research-methodology/Inter-Rater Reliability.md"
+    },
+    {
+      "basename": "Funnel Plot",
+      "path": "wiki/concepts/research-methodology/Funnel Plot.md"
+    },
+    {
+      "basename": "Self-Regulated Learning",
+      "path": "wiki/concepts/educational-psychology/Self-Regulated Learning.md"
+    },
+    {
+      "basename": "AI Hallucination",
+      "path": "wiki/concepts/educational-technology/AI Hallucination.md"
+    },
+    {
       "basename": "Argument_Chen_Cheung_2025_ERR",
       "path": "wiki/arguments/journal-articles/Educational Research Review/Argument_Chen_Cheung_2025_ERR.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Informal Science Learning",
       "path": "wiki/concepts/instruction-pedagogy/Informal Science Learning.md"
-    },
-    {
-      "basename": "Argument_RoyalSociety_2026_ScienceForSociety_Ch02",
-      "path": "wiki/arguments/reports-policy-documents/RoyalSociety_2026_ScienceForSociety/Argument_RoyalSociety_2026_ScienceForSociety_Ch02.md"
-    },
-    {
-      "basename": "VALUE Rubrics",
-      "path": "wiki/instruments/rubric/VALUE Rubrics.md"
-    },
-    {
-      "basename": "Scientific Attitude",
-      "path": "wiki/concepts/educational-policy-reform/Scientific Attitude.md"
-    },
-    {
-      "basename": "Scientific Literacy",
-      "path": "wiki/concepts/curriculum/Scientific Literacy.md"
     }
   ],
   "omittedPaths": [],
