@@ -8,7 +8,7 @@ aliases:
 summary: "指个体在面对阻碍且无直接算法可用时，通过表征初始状态、搜索算子空间、应用启发式策略并持续调试，以克服障碍并达成目标状态的高级心智过程，构成高阶思维的核心支柱。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 35
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -33,7 +33,6 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[AI Hallucination]]"
   - "[[Dialogue in Education]]"
-  - "[[Brainstorming]]"
   - "[[Metacognition]]"
   - "[[Concept Mapping]]"
   - "[[Working Memory]]"
@@ -101,7 +100,7 @@ updated: 2026-09-05
 > | **典型思维方式** | 目标导向搜索、手段-目的分析、启发式试错 | [[Reflexivity\|反思性]]怀疑、证据求证、逻辑推理 | [[Divergent Thinking\|发散思维]]、远距离联想、概念重组 | 敏锐观察、[[Hypothesis\|假设]]提出、问题重构 |
 > | **认知输入** | 具有阻碍的劣构或良构问题情境 | 既有的主张、论点、文本或事实证据 | 开放领域的多元刺激与跨界信息 | 模糊、动态且缺乏明确指示的现实生活环境 |
 > | **终局产出形态** | 可行性解决方案、验证代码、行动方案 | 审慎的价值/事实判断、评价报告 | 新颖且适切的创意产品、理论原型 | 具有探究价值的驱动性问题清单 |
-> | **人机协同促学机制** | **程序性强适配** AI 提供多路径解法并协同排错 | **[[AI Hallucination\|幻觉]]倒逼警觉** AI 逻辑瑕疵激发深度挑错 | **均质化阻抗** 易受模型概率均值束缚 | **人机[[Dialogue in Education\|对话]]共创** 人机[[Brainstorming\|头脑风暴]]启发新盲点 |
+> | **人机协同促学机制** | **步骤天然契合** AI 提供多路径解法并协同排错 | **错误激发反思** AI 偶尔犯错（[[AI Hallucination\|幻觉]]）促使学生仔细核对与批判求证 | **内容同质化制约** 容易受常见套路与大众平庸方案束缚 | **人机[[Dialogue in Education\|对话]]共创** 启发式互动带来新的思考盲点 |
 
 ---
 
@@ -184,7 +183,7 @@ updated: 2026-09-05
 > > 围绕 AI 自动化解题究竟是解放了高级心智，还是剥夺了必要的认知磨砺。
 > >
 > > - **认知杠杆支持者** 主张 AI 承担了低阶语法与繁琐代码编写，使学习者得以专注于更高层级的问题空间建构与方案评估。
-> > - **[[Cognitive Offloading|认知外包]]批评者** 警告过度依赖现成代码生成会导致“捷径式学习（Shortcut Learning）”，削弱学生自主排错与算法调试的直觉直觉能力。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 14–15)]]
+> > - **[[Cognitive Offloading|认知外包]]批评者** 警告过度依赖现成代码生成会导致“捷径式学习（Shortcut Learning）”，削弱学生自主排错与算法调试的直觉与深层理解能力。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 14–15)]]
 
 > [!warning] 测量与评价局限
 > 纸笔标准化测验往往只能测查静态的陈述性推导，难以有效评估动态复杂问题解决（[[Creative Problem Solving|CPS]]）中的自适应调控能力；高阶测验（如 [[Collegiate Learning Assessment|CLA+]] 表现性任务）评分成本高昂，且易受被试作答动机波动影响。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 12–14)]]

@@ -10,7 +10,7 @@ aliases:
 summary: "从单一问题或起点向多个不同方向生成多样化、新颖与丰富构想的认知探索过程，是创造潜能与发散性认知加工的核心操作化构念。"
 type: concept
 domain: "educational-psychology"
-related_count: 49
+related_count: 48
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -47,7 +47,6 @@ related_concepts:
   - "[[Self-Regulated Learning]]"
   - "[[Predictive Validity]]"
   - "[[Criterion Problem]]"
-  - "[[Prediction Interval]]"
   - "[[Dependent Variable]]"
   - "[[Problem-Based Learning]]"
   - "[[Publication Bias]]"
@@ -244,7 +243,7 @@ updated: 2026-09-05
 > > 争论 AI 生成海量方案究竟是拓展了人类想象力，还是将人类思维锁定在算法训练集的统计平均值内。
 > >
 > > - **赋能论（Urban et al. / Li et al.）** 实证表明 AI 能迅速打破空白文档的起始创作焦虑，显著提升 [[Alternate Uses Test|AUT]] 发散广度。
-> > - **侵蚀论（Monib et al. / Li et al. / Zhao et al.）** 警示 AI 产出具有平滑均质特征，直接采纳会剥落学生的独特学术声音，导致创造力早熟收敛；[[Meta-analysis|元分析]]实证亦显示其促进效应（$g = 0.444$）显著低于结构性[[Problem Solving|问题解决]]与批判反思，折射出概率生成模型对违背常规新颖性的天然阻抗。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 13–14)]]
+> > - **侵蚀论（Monib et al. / Li et al. / Zhao et al.）** 警示 AI 产出往往千篇一律、偏向常见套路，直接套用会抹平学生的个人独特思考，让构想过早定型；[[Meta-analysis|元分析]]实证亦显示其对创造力的促进（$g = 0.444$）显著低于结构性[[Problem Solving|问题解决]]与批判反思，反映出基于概率生成的内容天然不利于产生打破常规的独特创意。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 13–14)]]
 
 ---
 
@@ -253,11 +252,11 @@ updated: 2026-09-05
 > [!ma-table]- 一阶[[Meta-analysis|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
+> | 一阶元分析 | 当前概念角色与总体结果 | 证据规模 $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | 异质性与检验统计量 | 关键解释边界 |
 > |---|---|---|---|---|---|---|
+> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | **[[Dependent Variable\|结果变量]]** 生成式 AI 对学生创造力与发散思维（Creativity & Divergent Thinking）的干预效应 | $k = 23$ / — | Hedges' $g$；随机效应模型 | $g = 0.444$, $95\%\text{ CI} = [0.259, 0.629]$ | $Z = 4.698, p < .001$；全集 $Q(58) = 255.208, I^2 = 77.273\%$ | 涵盖 TTCT、多模态草图生成与开放方案构思测验；效应在三大高阶思维中位列末位，揭示算法给出的常见套路对打破常规新颖性的制约 |
 > | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | **[[Dependent Variable\|结果变量]]** 检验[[Graphic Organizer\|图形组织器]]教学干预对发散思维（Divergent Thinking）的促进效应 | $k = 14$ / — | Hedges' $g$；随机效应模型 | $g = 1.167$, $95\%\text{ CI} = [0.841, 1.493]$ | $I^2 = 82.2\%$；$Q_b = 7.07, p < .01$（对比聚合思维） | 涵盖 14 项独立效应量，以思维导图为代表的空间分支工具促进效应最为突出 |
 > | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | **结果[[Variable\|变量]]** [[Creativity Training\|创造力训练]]项目对大学生发散思维与[[Creativity\|创造性思维]]（Creative thinking）的综合提升 | $k = 29$ (24 ES) / — | Hedges' $g$；多层随机效应模型 | $g = 0.671$, $95\%\text{ CI} = [0.439, 0.903]$ | $Z = 5.675, p < .001$；全集 $Q(28) = 178.51, I^2 = 84.31\%$ | 涵盖 TTCT-F/V、ATTA 等经典任务，增益居所有构念子维度之首 |
-| [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | **[[Dependent Variable\|结果变量]]** 生成式 AI 对学生创造力与发散思维（Creativity & Divergent Thinking）的干预效应 | $k = 23$ / — | Hedges' $g$；随机效应模型 | $g = 0.444$, $95\%\text{ CI} = [0.259, 0.629]$ | $Z = 4.698, p < .001$；全集 $Q(58) = 255.208, I^2 = 77.273\%$ | 涵盖 TTCT、多模态草图生成与开放方案构思测验；效应在三大高阶思维中位列末位，揭示算法概率输出对违背常规新颖性的制约 |
 
 > [!ma-table]- 一阶元分析互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>

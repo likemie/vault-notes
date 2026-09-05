@@ -10,7 +10,7 @@ aliases:
 summary: "使用外部物理或数字工具执行原本由内部心智承担的认知加工，兼具释放工作记忆以赋能高阶探究与诱发捷径学习、导致思维惰性及元认知外包的深层双刃剑效应。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 34
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -57,8 +57,7 @@ related_methods:
 related_arguments:
   - "[[Argument_Li_2026_CEAI]]"
   - "[[Argument_Zhao_2025_JIntell]]"
-related_persons:
-  - "[[Socrates]]"
+related_persons: []
 confidence: high
 status: active
 created: 2026-08-31
@@ -161,7 +160,7 @@ updated: 2026-09-05
 > **流畅性陷阱与认识论摩擦丧失** 大模型生成的文本具有极高的语义流畅度，轻易绕过了高阶图式构建所必需的“认识论摩擦”。学生在被动交互中不仅外包了初级文本生成，还连带外包了对方案优劣的元认知评估，导致其在面对需要独立[[Brainstorming|头脑风暴]]的任务时产生认知无助感与创意思维阻滞。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 9–11)]]
 
 > [!claim] [[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]]
-> **[[Self-Regulated Learning|自我调节学习]]能力对认知外包风险的中和机制** 自主调节学习能力（SRL）构成抵御有害认知外包的决定性内生屏障。具备高 SRL 能力的学生拥有敏锐的元认知警觉，能够主动将 AI 生成内容置于批判性审思之下，仅将其作为检验自身假设的参考，从而把持认知控制权；相反，缺乏自主调节能力的学生无法评估算法输出的准确性与相关性，在“算法[[AI Hallucination|幻觉]]”面前毫无防范，连同逻辑审视与错误甄别责任全盘外包给算法，彻底失去反思性能动性。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 15–16)]]
+> **[[Self-Regulated Learning|自我调节学习]]能力对认知外包风险的中和机制** 自主调节学习能力（SRL）构成抵御有害认知外包的决定性内生屏障。具备高 SRL 能力的学生拥有敏锐的元认知警觉，能够主动将 AI 生成内容置于批判性审思之下，仅将其作为检验自身假设的参考，从而把持认知控制权；相反，缺乏自主调节能力的学生无法评估算法输出的准确性与相关性，面对 AI 出现的事实错误（[[AI Hallucination|算法幻觉]]）时缺乏鉴别力，把核查事实与逻辑审视的责任也一并推给算法，彻底放弃了主动思考。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 15–16)]]
 
 ---
 
@@ -204,7 +203,7 @@ updated: 2026-09-05
 > > 争论认知卸载究竟代表了分布式认知体系下人类智力的自然延伸，还是不可逆地削弱了人类的基本推理能力。
 > >
 > > - **延展心智论支持者（Clark & Chalmers）** 认为将低阶计算与符号操作卸载给可靠的外部技术是人类认知系统演化的必然趋势，放大了整体心智潜能。
-> > - **[[Epistemological Vigilance|认识论警觉]]倡导者** 指出若在缺乏批判性抗辩的情况下将思考过程整体外包，学生将丧失独立学术声音、代码排错直觉与深层推理韧性。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 8–10)]]; [[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 14–15)]]
+> > - **[[Epistemological Vigilance|认识论警觉]]倡导者** 指出若在缺乏反思和主动核对的情况下将思考过程整体外包，学生将丧失个人独特思考、排错直觉与深度理解能力。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 8–10)]]; [[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 14–15)]]
 >
 > > [!axis] 语义流畅性陷阱与[[Illusion of Competence|虚假能力错觉]]
 > > 探讨大模型生成的表面语法连贯性与即时解答如何掩盖认知缺陷并麻痹学习者的自我监控。
@@ -213,7 +212,7 @@ updated: 2026-09-05
 > > - **[[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]]** 进一步指出该错觉直接催生“捷径式学习（Shortcut Learning）”，使学生在独立闭卷或面临隐蔽算法逻辑错误时彻底丧失排错能力。
 
 > [!warning] 实施局限与教学应对
-> 避免认知卸载演变为有害依赖，教学干预必须落实两大原则：一是**动态分阶段消退脚手架（Phased Scaffolding Fading）**，随着技能建立适时移除技术支持，迫使学生独立完成综合推理；二是**启发式提示工程（Guided Heuristic Prompting）**，严格限制智能工具直接提供终解，强制保留[[Socrates|苏格拉底]]式反思挣扎。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 14–15)]]
+> 避免认知卸载演变为有害依赖，教学干预必须落实两大原则：一是**动态分阶段逐步撤去脚手架（Phased Scaffolding Fading）**，随着技能建立适时移除技术支持，促使学生独立完成推理与方案构思；二是**启发式提示（Guided Heuristic Prompting）**，严格限制智能工具直接提供最终答案，保留必要的深入思考与反思过程。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 14–15)]]
 
 ---
 
