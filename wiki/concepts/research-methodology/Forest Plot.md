@@ -39,6 +39,7 @@ related_arguments:
   - "[[Argument_Higgins_2016_RE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17]]"
   - "[[Argument_Abrami_2015_RER]]"
+  - "[[Argument_Zhao_2025_JIntell]]"
 confidence: high
 status: draft
 created: 2026-06-08
@@ -129,9 +130,19 @@ flowchart TD
 
 ---
 
+## 实证检验案例
+
+> [!case]- 实证展示案例：生成式 AI 促进高阶思维的森林图（Zhao et al., 2025）
+> - **多效应量全景呈现与权重刻画** Zhao et al. (2025) 纳入 29 项实验与准实验研究共 59 个效应量，在森林图中按行绘制各项初级研究的 Hedges' $g$ 点估计方块与 95% 置信区间横线，方块面积直观反映各研究在随机效应模型中的逆方差加权比重。
+> - **垂直无效线与显著性检验** 森林图设置垂直无效线（$g = 0$）；目视可见绝大多数初级研究的水平置信线段完整落在无效线右侧，展现出生成式 AI 促学效应在跨学科、跨学段场景下的普遍显著性。
+> - **合并菱形与异质性几何表征** 森林图底部绘制总体加权合并菱形，菱形中心垂直顶点精确对准 $g = 0.609$，水平跨度对应 95% 置信区间 $[0.485, 0.732]$，完全脱离零线；各研究点估计在 0 至 1.5 之间广泛分布，直观映射了 $I^2 = 77.273\%$ 的高异质性结构，为进一步展开亚组分析与调节效应检验提供了几何理据。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, p. 10)]]
+
+---
+
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] — 绘制包含 59 个独立效应量的森林图，通过效应点估计方块、置信区间横线与底部合并菱形（$g = 0.609$ [0.485, 0.732]），全景展现生成式 AI 对学生高阶思维的促学成效与高度离散形态。
 > - [[Argument_Higgins_2016_RE|Higgins (2016)]] — 回溯 Karl Pearson (1904) 伤寒疫苗分析对森林图形式的历史先驱贡献，以及森林图在[[Evidence-Based Education|循证教育]]工具中的核心角色。
 > - [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] — 呈现通用[[Critical Thinking|批判性思维]]技能[[Effect Size|效应量]]分布图，直观展现教学干预在跨学科领域中的一致收益。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen, Manion & Morrison (2011, Ch17)]] — 系统阐述森林图作为[[Meta-analysis|元分析]]研究报告标配的结构要素与判读规范。

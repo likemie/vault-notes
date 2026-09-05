@@ -103,7 +103,7 @@ status: draft
 ## 研究问题
 
 > [!question]
-> [[Generative Artificial Intelligence|生成式人工智能]]（Gen-AI）在教育场景中的加速渗透，是否以及在多大程度上能够实质性赋能学生的[[Higher-Order Thinking Skills|高阶思维]]能力？面对学术界关于“技术脚手架赋能认知探究”与“过度依赖诱发心智外包与思维惰性”的激烈争论，本项[[Meta-analysis|元分析]]聚焦于两大核心追问：
+> [[Generative Artificial Intelligence|生成式人工智能]]（Gen-AI）在教育场景中的加速渗透，是否以及在多大程度上能够实质性赋能学生的[[Higher-Order Thinking Skills|高阶思维]]能力？面对学术界关于“技术[[Scaffolding|脚手架]]赋能认知探究”与“过度依赖诱发心智外包与思维惰性”的激烈争论，本项[[Meta-analysis|元分析]]聚焦于两大核心追问：
 > 1. 生成式 AI 促进学生高阶思维的总体[[Effect Size|效应量]]（Overall Effect Size）究竟为何？在其内部三个核心认知维度——[[Critical Thinking|批判性思维]]、[[Creativity|创造力]]与[[Problem Solving|问题解决能力]]上，促学成效呈现怎样的结构性级差？
 > 2. 干预持续时长（Intervention Duration）、学段层次（Educational Stage）、课堂教学模式（Instructional Method）以及学习者个体的[[Self-Regulated Learning|自我调节学习]]能力（SRL Ability），如何作为关键调节[[Variable|变量]]共同界定生成式 AI 赋能高阶思维的边界条件与有效性窗口？（pp. 1–2, 6–7）
 
@@ -112,7 +112,7 @@ status: draft
 
 > [!concept-lens] 阅读透镜
 > - **对象** 2022 年底 ChatGPT 问世至 2025 年 8 月间公开发表的 29 项中英文实验与准[[Experimental Research|实验研究]]，涵盖 59 个独立[[Effect Size|效应量]]与广泛大中小学跨学科教学场景。
-> - **张力** 既有实证[[Document|文献]]在“认知脚手架假说”（释放[[Working Memory|工作记忆]]以激活深层反思）与“捷径学习假说”（机械套用现成结果导致批判与创新能力侵蚀）之间存在严重分歧，且缺乏对高阶思维认知子维度与调节变量的系统量化整合。
+> - **张力** 既有实证[[Document|文献]]在“[[Scaffolding|认知脚手架]]假说”（释放[[Working Memory|工作记忆]]以激活深层反思）与“捷析学习假说”（机械套用现成结果导致批判与创新能力侵蚀）之间存在严重分歧，且缺乏对高阶思维认知子维度与调节变量的系统量化整合。
 > - **贡献** 首次针对生成式 AI 与高阶思维的因果关联展开严谨一阶[[Meta-analysis|元分析]]，确立了“问题解决 $>$ 批判思维 $>$ 创造力”的效应梯度，实证揭示了 8–16 周的中期干预黄金窗口与自主调节学习能力的决定性门槛，构建了人机协同促进高阶思维的综合理论模型。
 
 ---
@@ -123,7 +123,7 @@ status: draft
 > | 理论工具 | 解释功能 |
 > |---|---|
 > | **[[Bloom's Taxonomy\|修订版布鲁姆认知目标分类学（Revised Bloom's Taxonomy）]]**<br>Anderson & Krathwohl / Lewis & Smith | 将认知加工解构为记忆、理解、应用等低阶思维与分析、评价、创造等高阶思维；确立高阶思维由批判性思维（分析与评价）、创造力（综合与创造）及[[Problem Solving\|问题解决能力]]（策略探索与执行）协同构成的理论三元基准，为元分析将笼统思维解构为三大认知子维度提供构念分类基石。（pp. 2–4） |
-> | **外部认知脚手架理论（External Cognitive Scaffolding Theory）**<br>Vygotsky / Wood et al. / Bower & Vlachopoulos | 阐明技术工具作为最近发展区（[[Zone of Proximal Development\|ZPD]]）外部支架的功能；解释生成式 AI 如何通过对话互动与分步提示分担繁琐的信息检索与基础排错工作，减轻学生的记忆负担，为深层推理与反思腾出思考空间。（pp. 3–5） |
+> | **[[Scaffolding\|外部认知脚手架理论（External Cognitive Scaffolding Theory）]]**<br>Vygotsky / Wood et al. / Bower & Vlachopoulos | 阐明技术工具作为最近发展区（[[Zone of Proximal Development\|ZPD]]）外部支架的功能；解释生成式 AI 如何通过对话互动与分步提示分担繁琐的信息检索与基础排错工作，减轻学生的记忆负担，为深层推理与反思腾出思考空间。（pp. 3–5） |
 > | **[[Self-Regulated Learning\|自我调节学习理论（Self-Regulated Learning Theory, SRL）]]**<br>Zimmerman / Pintrich | 界定学习者在[[Metacognition\|元认知监控]]、目标设定与反思调整中的主动能动性；阐明高自律学习者如何将生成式 AI 转化为思维探究的“[[Dialogue in Education\|对话]]伙伴”与思维磨刀石，解释自主调节能力何以成为拉开促学效果差距、防范认知依赖的关键分水岭。（pp. 4–6, 15–16） |
 > | **[[Cognitive Offloading\|认知外包]]与捷径学习假设（Cognitive Offloading & Shortcut Learning Hypothesis）**<br>Risko & Gilbert / Kooli / Du et al. | 揭示学生过度依赖大模型输出时的“心智委托”机制；阐明当缺乏主动反思与批判意识时，学生极易直接照搬 AI 给出的现成答案，跳过动脑思考的过程，导致独立分析能力退化、创意枯竭。（pp. 5–6, 14–15） |
 
@@ -136,14 +136,14 @@ status: draft
 > | **Hwang et al. (2018)** | 跨学科综合领域 | 协作、沟通、复杂问题解决、[[Critical Thinking\|批判性思维]]、[[Creativity\|创造力]] | 二十一世纪[[21st Century Skills and Competencies Discourse\|核心素养]]导向的多维综合心智系统 |
 > | **Alkhatib (2022); Yang (2015); Ilgun Dibek et al. (2024)** | **跨学科综合领域** | **[[Critical Thinking\|批判性思维]]、[[Problem Solving\|问题解决能力]]、[[Creativity\|创造力]]** | **确立高阶思维最受学界公认的三大核心[[Construct\|构念]]三角（基准理论模型）** |
 
-> [!tension] 外部认知脚手架假说 vs 捷径学习与心智外包论
-> - **外部认知脚手架假说（蓝方）** 生成式 AI 具备强大的自然语言提示、方案推荐与多轮对话能力，能够分担繁重的信息检索与初步排错工作，减轻有限的工作记忆负担，为分析、反思与综合等深层思维活动提供必要的支架辅助。（Bower & Vlachopoulos, 2018; Lee et al., 2024; Costa et al., 2024, pp. 3–5）
+> [!tension] [[Scaffolding|外部认知脚手架]]假说 vs 捷径学习与心智外包论
+> - **[[Scaffolding|外部认知脚手架]]假说（蓝方）** 生成式 AI 具备强大的自然语言提示、方案推荐与多轮对话能力，能够分担繁重的信息检索与初步排错工作，减轻有限的工作记忆负担，为分析、反思与综合等深层思维活动提供必要的支架辅助。（Bower & Vlachopoulos, 2018; Lee et al., 2024; Costa et al., 2024, pp. 3–5）
 > - **捷径学习与心智外包论（红方）** 学生如果过度依赖大模型，容易将复杂的推导与决策过程全盘交给算法；AI 给出的现成模板与流畅回答，极易诱导学生“走捷径偷懒”（Shortcut Learning），跳过深入思考的过程，从而导致[[Learner Autonomy|自主学习]]能力退化、创新灵感枯竭。（Kooli, 2023; Maniktala et al., 2023; Du et al., 2025; Sun et al., 2024, pp. 5–6）
 
 > [!warrant]- 理论如何支撑论证
 > 理论框架从两端紧密支撑本项[[Meta-analysis|元分析]]的实证推演：
 > 1. **高阶思维三维系统观的操作化锚定** 依据修订版布鲁姆认知目标分类学（Anderson & Krathwohl, 2001）与信息加工理论（Lewis & Smith, 1993; King et al., 1998），高阶思维并非单一孤立行为，而是由批判性思维（分析与评估）、创造力（综合与新颖生成）与[[Problem Solving|问题解决能力]]（策略构建与执行）协同交织的动态复杂系统。这为本研究将笼统的思维效果解构为三大认知子维度的亚组分析提供了坚实的理论依据。（pp. 2–4）
-> 2. **技术赋能与认知外包的辩证张力** 认知脚手架理论（Bower & Vlachopoulos, 2018）与自我调节学习理论（Zimmerman, 2002）构成了正反微观机制的解释基石：一方面揭示了当 AI 作为启发式工具时能够释放学生的思维潜能；另一方面也深刻解释了为什么缺乏自律与反思习惯的学生容易把思考“完全外包”给 AI，从而为后续考察自主调节学习、干预周期与教学模式等调节[[Variable|变量]]奠定了机制[[Hypothesis|假设]]。（pp. 4–6）
+> 2. **技术赋能与认知外包的辩证张力** [[Scaffolding|认知脚手架]]理论（Bower & Vlachopoulos, 2018）与自我调节学习理论（Zimmerman, 2002）构成了正反微观机制的解释基石：一方面揭示了当 AI 作为启发式工具时能够释放学生的思维潜能；另一方面也深刻解释了为什么缺乏自律与反思习惯的学生容易把思考“完全外包”给 AI，从而为后续考察自主调节学习、干预周期与教学模式等调节[[Variable|变量]]奠定了机制[[Hypothesis|假设]]。（pp. 4–6）
 
 ### 核心变量与操作化编码表
 
@@ -159,7 +159,7 @@ status: draft
 > | **结果变量：[[Creativity\|创造力]]与[[Divergent Thinking\|发散思维]]**<br>（Creativity & Divergent Thinking Dimension） | 突破思维定势、构想新颖独特视角、建立远距离联想并提出兼具独创性与可行性解决方案的生成性思维品质。 | 编码为 23 个效应量（$k = 23, g = 0.444$）；采用托兰斯发散思维测验（TTCT）、创意产品设计量规、开放任务构想新颖性与多样性评分测定（如 Huang et al., 2024a; Alzubi et al., 2025）。 |
 > | **调节变量：干预持续时长**<br>（Intervention Duration） | 生成式 AI 教学干预周期的持续时间跨度，分为三分类：短周期（$1 = 0$–8 周）、中周期（$2 = 8$–16 周）、长周期（$3 = >16$ 周）。 | 0–8 周（$k = 15, g = 0.494$）；8–16 周（$k = 31, g = 0.759$）；$>16$ 周（$k = 13, g = 0.372$）；组间差异显著（$p = 0.011$），检验技术新奇效应衰减与长期认知依赖风险。 |
 > | **调节变量：学习者学段层次**<br>（Educational Stage） | 学习者所处的正规教育梯次，分为两分类：基础教育阶段（$1 =$ K-12）与高等教育及成人阶段（$2 =$ Post-secondary）。 | K-12 阶段（$k = 13, g = 0.857$）；高等教育阶段（$k = 46, g = 0.539$）；组间边缘显著（$p = 0.067$），检验不同教师监管力度与学术自主性情境下的促学效应差异。 |
-> | **调节变量：课堂教学模式**<br>（Instructional Method） | 嵌入生成式 AI 的课堂教学组织形态，分为三分类：传统讲授式（$1 =$ Lecture-based）、[[Project-Based Learning\|项目式学习]]（$2 =$ Project-based, PBL）与混合式学习（$3 =$ Blended）。 | 讲授式（$k = 6, g = 0.396$）；项目式（$k = 31, g = 0.717$）；混合式（$k = 22, g = 0.525$）；检验真实探究情境对大语言模型认知杠杆潜能的激活差异。 |
+> | **调节变量：课堂教学模式**<br>（Instructional Method） | 嵌入生成式 AI 的课堂教学组织形态，分为三分类：传统讲授式（$1 =$ Lecture-based）、[[Project-Based Learning\|项目式学习]]（$2 =$ Project-based, PBL）与[[Blended Learning\|混合式学习]]（$3 =$ Blended）。 | 讲授式（$k = 6, g = 0.396$）；项目式（$k = 31, g = 0.717$）；[[Blended Learning\|混合式]]（$k = 22, g = 0.525$）；检验真实探究情境对大语言模型认知杠杆潜能的激活差异。 |
 > | **调节变量：[[Self-Regulated Learning\|自主调节学习能力]]**<br>（Self-Regulated Learning Ability） | 学习者在人机互动中自主设定目标、规划步骤、监控认知过程并反思调整[[Metacognition\|元认知]]行为的自律水平，分为高（$1$） vs 低（$2$）。 | 高 SRL 水平组（$k = 31, g = 0.863$）；低 SRL 水平组（$k = 25, g = 0.284$）；组间差异极显著（$p < 0.001$），检验学生的主动把控能力对防范思维惰性与[[Cognitive Offloading\|认知外包]]的关键屏障作用。 |
 >
 > **图表解读** 该编码规程系统界定了生成式 AI 三大干预形态、高阶思维三维产出构念与四类潜在调节因子的操作化标准，为多层次效应量综合奠定了因果检验架构。（pp. 7–8, 10–12）
@@ -186,7 +186,7 @@ status: draft
 > |---|---|
 > | **文献与效应量规模** | 最终纳入 29 项独立实验与准实验研究，提取出 59 个独立效应量（包含[[Creativity\|创造力]] 23 个、[[Critical Thinking\|批判性思维]] 20 个与[[Problem Solving\|问题解决能力]] 16 个效应量）。（pp. 7, 10–11） |
 > | **学段与情境分布** | K-12 基础教育阶段包含 13 个效应量；高等教育与成人阶段包含 46 个效应量，反映出当前高等教育是生成式 AI 实证探索的绝对主流前沿。（p. 11） |
-> | **教学设计模式构成** | [[Project-Based Learning\|项目式学习（PBL）]] 31 个效应量；混合式学习 22 个效应量；传统讲授式仅 6 个效应量，实证研究高度偏向任务驱动与探究型教学设计。（pp. 11–12） |
+> | **教学设计模式构成** | [[Project-Based Learning\|项目式学习（PBL）]] 31 个效应量；[[Blended Learning\|混合式学习]] 22 个效应量；传统讲授式仅 6 个效应量，实证研究高度偏向任务驱动与探究型教学设计。（pp. 11–12） |
 > | **干预周期跨度分布** | 8–16 周中期干预占比最高（31 个效应量）；0–8 周短期干预 15 个；超过 16 周的长期追踪实验相对较少（13 个效应量）。（p. 7） |
 
 ---
@@ -196,7 +196,7 @@ status: draft
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
 > flowchart LR
->     A["研究起点：赋能认知争论（认知脚手架 vs 心智外包）"]
+>     A["研究起点：赋能认知争论（[[Scaffolding|认知脚手架]] vs 心智外包）"]
 >     B["一阶元分析实证综合（29 项实验与准实验，k = 59）"]
 >     C["步骤一：总体显著促学（g = 0.609，随机效应模型显著）"]
 >     D["步骤二：认知维度分化（问题解决 > 批判思维 > 创造力）"]
@@ -220,7 +220,7 @@ status: draft
 ### 论证步骤一　生成式 AI 整体显著促进高阶思维：效应量达到中等偏大水平且具备发表稳健性
 
 > [!claim] 步骤一主张
-> 基于 29 项实验与准[[Experimental Research|实验研究]]的一阶[[Meta-analysis|元分析]]表明，[[Generative Artificial Intelligence|生成式人工智能]]对学生[[Higher-Order Thinking Skills|高阶思维]]具有统计学上显著且中等偏大的促进作用（Hedges' $g = 0.609, p < 0.001$）；异质性检验与发表偏倚审计表明该结论稳健可靠，有力证实了生成式 AI 完全有潜力成为有效的外部认知脚手架。（pp. 9–10, 12–13）
+> 基于 29 项实验与准[[Experimental Research|实验研究]]的一阶[[Meta-analysis|元分析]]表明，[[Generative Artificial Intelligence|生成式人工智能]]对学生[[Higher-Order Thinking Skills|高阶思维]]具有统计学上显著且中等偏大的促进作用（Hedges' $g = 0.609, p < 0.001$）；异质性检验与发表偏倚审计表明该结论稳健可靠，有力证实了生成式 AI 完全有潜力成为有效的外部[[Scaffolding|认知脚手架]]。（pp. 9–10, 12–13）
 
 > [!evidence-grid]- 支持步骤一主张的证据
 > - **总体合并[[Effect Size|效应量]]中等显著** [[Fixed-Effect and Random-Effects Models|随机效应模型]]合并 59 个独立效应量，得出总体效应量 $g = 0.609$（95% CI $[0.485, 0.732], Z = 9.718, p < 0.001$），超越常规教育干预基准线。
@@ -263,13 +263,13 @@ status: draft
 > - **Egger 回归敏感性检验** 回归截距检验 $t = 1.871, p = 0.066$；由于 $p > 0.05$，未触发严重发表偏倚警戒，表明[[Document|文献]]汇总结果受偏倚干扰较小，总体效应高度可信。（p. 9）
 > - **高异质性解释** $I^2 = 77.273\%$ 表明超过 77% 的变异性源于研究间设计与情境的真实异质性，这进一步凸显了后续拆解认知维度与四个调节[[Variable|变量]]的学术必要性。（pp. 9–10）
 
-> [!warrant]- 推理桥梁：外部认知脚手架的功能释放
+> [!warrant]- 推理桥梁：外部[[Scaffolding|认知脚手架]]的功能释放
 > 按照 Cohen（1992）的标准，$0.5 \le g < 0.8$ 属于教育实证领域中等偏大的促学效应。这一量化结果从根本上反驳了将人工智能简单视作“思考杀手”的悲观论调。其深层认知机制在于：生成式 AI 凭借自然语言多轮交互、智能检索与方案重组能力，承担了繁琐的基础信息检索与初步查错工作，有效减轻了学习者的即时工作记忆负担，从而节省了宝贵的认知资源（认知带宽），让学生能将精力集中在高阶推理、权衡证据与深入反思上。（pp. 10, 12–13）
 
 > [!case]- 代表性实证案例：STEM 结构化探究系统 InquiryGPT（Li et al., 2024b）
-> - **研究背景与工具开发** 面对学生在传统探究学习中容易迷失方向或将 AI 沦为查答案工具的问题，Li et al. (2024b) 为高校与中职 STEM 实验课程定制开发了嵌入脚手架的系统 **InquiryGPT**。
+> - **研究背景与工具开发** 面对学生在传统探究学习中容易迷失方向或将 AI 沦为查答案工具的问题，Li et al. (2024b) 为高校与中职 STEM 实验课程定制开发了嵌入[[Scaffolding|脚手架]]的系统 **InquiryGPT**。
 > - **核心教学规程设计** 该系统并非开放式聊天，而是强制约束在结构化探究学习框架（Inquiry-Based Learning Framework）内：系统通过多阶段提示语引导学生逐步经历“提出科学[[Hypothesis|假设]] $\rightarrow$ 确定[[Independent Variable|自变量]]与[[Dependent Variable|因变量]]控制 $\rightarrow$ 数据异常分析与推论 $\rightarrow$ [[Metacognition|元认知]]反思评估”四个连续节点；系统被明确设定为“不直接提供实验结果，仅提供[[Socrates|苏格拉底]]式启发问题”。
-> - **实证效果与机制验证** 实验组学生的系统性科学推理能力与元认知监控得分显著超越使用原生 ChatGPT 的对照组。该案例直接证实：生成式 AI 绝非只要引入就能促进高阶思维，而是必须依托显性[[Structured Teaching|结构化教学]]脚手架的定向规范，才能将大模型的算力真正转化为心智进阶的杠杆。（p. 4）
+> - **实证效果与机制验证** 实验组学生的系统性科学推理能力与元认知监控得分显著超越使用原生 ChatGPT 的对照组。该案例直接证实：生成式 AI 绝非只要引入就能促进高阶思维，而是必须依托显性[[Structured Teaching|结构化教学]][[Scaffolding|脚手架]]的定向规范，才能将大模型的算力真正转化为心智进阶的杠杆。（p. 4）
 
 ---
 

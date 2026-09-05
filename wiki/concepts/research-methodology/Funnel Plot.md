@@ -43,6 +43,7 @@ related_facts: []
 related_arguments:
   - "[[Argument_Higgins_2016_RE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17]]"
+  - "[[Argument_Zhao_2025_JIntell]]"
 confidence: high
 status: draft
 created: 2026-08-25
@@ -122,8 +123,18 @@ flowchart TD
 
 ---
 
+## 实证检验案例
+
+> [!case]- 实证检验案例：生成式 AI 赋能高阶思维的漏斗图审计（Zhao et al., 2025）
+> - **数据规模与坐标设定** Zhao et al. (2025) 纳入 29 项实验与准实验研究共 59 个效应量（Hedges' $g$），以反向排列的标准误 $SE$ 为纵轴、效应量 $g$ 为横轴绘制漏斗图，中心虚线对准合并效应量 $g = 0.609$。
+> - **散点空间分布与离群点诊断** 漏斗图显示除 8 个分散离群点落在 95% 伪置信区间斜线外侧外，绝大多数研究紧密且大致对称地分布于均值虚线两侧；漏斗底部并未出现小样本阴性或微弱效应研究系统性缺失的“左下角空洞”，右偏倾向轻微。
+> - **结合定量回归确证稳健性** 漏斗图的目视对称性得到了 Egger 线性回归截距检验（$t = 1.871, p = 0.066 > 0.05$）的支持，证实未触发严重发表偏倚警戒，排除了严重抽屉文件效应对总体效应量的系统性扭曲。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 9–10)]]
+
+---
+
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] — 绘制包含 59 个效应量与 8 个离群点的漏斗图，配合 Egger 线性回归检验（$t = 1.871, p = 0.066$）对生成式 AI 促进高阶思维的元分析证据池开展发表偏倚诊断。
 > - [[Argument_Higgins_2016_RE|Higgins (2016)]] — 系统阐述[[Meta-analysis|元分析]]中漏斗图的可视化原理、不对称性检验及[[Sample Size Determination|样本量]]与[[Effect Size|效应量]]负相关现象（$r = -0.28$）。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen, Manion & Morrison (2011, Ch17)]] — 介绍元分析偏倚控制方法与漏斗图的判读规程。

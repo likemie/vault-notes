@@ -4845,6 +4845,19 @@
     ]
   },
   {
+    "title": "Blended Learning",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Blended Learning.md",
+    "aliases": [
+      "混合式学习",
+      "混合式教学",
+      "混合学习",
+      "混合教学",
+      "Hybrid Learning",
+      "Blended Instruction"
+    ]
+  },
+  {
     "title": "Brainstorming",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Brainstorming.md",
@@ -5240,6 +5253,23 @@
     "path": "wiki/concepts/instruction-pedagogy/Rote Learning.md",
     "aliases": [
       "死记硬背"
+    ]
+  },
+  {
+    "title": "Scaffolding",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Scaffolding.md",
+    "aliases": [
+      "脚手架",
+      "教学脚手架",
+      "认知脚手架",
+      "支架式教学",
+      "教学支架",
+      "认知支架",
+      "Instructional Scaffolding",
+      "Cognitive Scaffold",
+      "Cognitive Scaffolding",
+      "Educational Scaffolding"
     ]
   },
   {

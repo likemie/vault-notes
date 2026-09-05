@@ -44,6 +44,7 @@ related_arguments:
   - "[[Argument_Higgins_2016_RE]]"
   - "[[Argument_Kraft_2023_ER]]"
   - "[[Argument_Wecker_2016_ZfE]]"
+  - "[[Argument_Zhao_2025_JIntell]]"
 confidence: medium
 status: draft
 created: '2026-05-02'
@@ -127,8 +128,17 @@ Rosenthal（1991）提出了量化发表偏倚影响的经典方法：计算需�
 
 ---
 
+## 实证检验案例
+
+> [!case]- 实证检验案例：生成式 AI 教育元分析中的发表偏倚诊断（Zhao et al., 2025）
+> - **偏倚审计情境** Zhao et al. (2025) 对生成式 AI 赋能高阶思维的 29 项实验与准实验研究（共 59 个效应量）展开多重发表偏倚质控与稳健性诊断。
+> - **漏斗图与定量回归双重核验** 首先借助[[Funnel Plot|漏斗图]]目视检验散点空间对称性，确认除 8 个离群点外大多数研究围绕合并均值对称分布；进而采用 Egger 线性回归截距检验进行参数化检验，结果为 $t = 1.871, p = 0.066 > 0.05$。由于未达统计显著水平，排除了严重“文件抽屉效应”对总体合并效应量（$g = 0.609$）的实质性扭曲，证实了实证结论的稳健性。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 9–10)]]
+
+---
+
 ## 应用案例
 
 > [!evidence-grid-a] 相关案例索引
+> - [[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] — 结合漏斗图目视诊断与 Egger 线性回归检验（$t = 1.871, p = 0.066$）对生成式 AI 促进高阶思维的元分析证据池开展发表偏倚审计，确证了合并促学效应的发表稳健性。
 > - [[Creation of REES]] — [[Preregistration|预注册]]制度被设计用于减少发表偏倚和选择性报告
 > - [[ESSA 2015 Evidence Standards]] — 要求采用有证据支持的项目，间接增加了开发者的发表偏倚激励
