@@ -10,9 +10,9 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 4
+fact_related_count: 5
 fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_stars: ""
 fact_related_color: "#dbeafe"
 issuing_organization: "European Commission & OECD"
 tags:
@@ -22,6 +22,7 @@ tags:
   - theme/institutional-evaluation
 related_concepts:
   - "[[Creativity]]"
+  - "[[Problem Solving]]"
   - "[[Formative Assessment]]"
 related_theories: []
 related_methods: []
@@ -54,7 +55,7 @@ updated: 2026-08-27
 ## 政策文本摘要
 
 > [!claim] 政策核心
-> HEInnovate 提供覆盖 8 大维度的免费在线机构自我评估工具（Self-Assessment Tool），指导大学诊断自身在培育学生[[Creativity|创造力]]、跨学科问题解决与创新考核方面的系统能力并制定改进策略。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 11–12)]]
+> HEInnovate 提供覆盖 8 大维度的免费在线机构自我评估工具（Self-Assessment Tool），指导大学诊断自身在培育学生[[Creativity|创造力]]、跨学科[[Problem Solving|问题解决]]与创新考核方面的系统能力并制定改进策略。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 11–12)]]
 
 > [!policy-design]- 政策设计
 > - **目标** 赋能高校自主评估其创新创业生态，推动教学与考核法向激发创造力转型。

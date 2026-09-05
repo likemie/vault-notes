@@ -8,7 +8,7 @@ aliases:
 summary: "Richard Lester（MIT, 2005）提出的分类框架，根据本地产业类型和所处产业生命周期阶段，将大学对本地经济的贡献划分为四种类型——新兴产业培育、产业引进/移植、现有产业多样化、现有产业升级"
 type: theory
 theory_field: "higher-education"
-theory_related_count: 9
+theory_related_count: 10
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Hypothesis]]"
   - "[[Structural Holes]]"
+  - "[[Problem Solving]]"
   - "[[Innovation Ecosystem]]"
   - "[[Competitiveness]]"
 related_theories:
@@ -66,7 +67,7 @@ updated: 2026-06-10
 - 创建产业认同
 
 **类型 4 — 现有产业的升级（Upgrading of existing industries）** 当成熟产业需要升级以适应竞争时，大学的贡献包括：
-- 通过合同研究和教师咨询为产业提供问题解决
+- 通过合同研究和教师咨询为产业提供[[Problem Solving|问题解决]]
 - 教育和人力发展
 - 全球最佳实践扫描
 - 召集前瞻性演习

@@ -38,8 +38,8 @@ related_concepts:
   - "[[Document]]"
   - "[[Data Reduction and Data Display]]"
   - "[[Direct Instruction]]"
-  - "[[Problem-Based Learning]]"
   - "[[Evidence-Based Education]]"
+  - "[[Problem Solving]]"
   - "[[Hypothesis]]"
   - "[[Effective Teaching]]"
   - "[[Dialogue in Education]]"
@@ -271,7 +271,7 @@ updated: '2026-05-18'
 >
 > **绩效薪酬的制度基础** VL 的效应量评估体系为教师 绩效薪酬（merit pay）提供了技术基础——Hattie 被指控提倡与 VL 评估体系挂钩的教师绩效薪酬元素，但这与 VL 自身强调的"安全、信任的学校文化"构成内在矛盾([[Argument_Terhart_2011_JCS|Terhart, 2011, pp.434–435]])。
 >
-> **教师培训与注册体系中的创新抑制**[[Argument_Blass_2020_JESP|Blass (2020, p.91)]]指出澳大利亚教师培训体系"奖励 regulation 和 standardisation 而非创新"，教师注册委员会要求持续专业发展（CPD）时数而非创新发展时数。在这一制度文化中，VL 被用作证明[[Direct Instruction|直接教学]]模式的"好借口"，从而抑制了对 [[Problem-Based Learning|PBL]] 和探究式学习等替代教学法的探索。Blass 总结："澳大利亚已在教育中迷失了方向，而 Hattie 被用作证明这一立场的挡箭牌。但我怀疑这不是 Hattie 的本意"([[Argument_Blass_2020_JESP|Blass, 2020, p.97]])。
+> **教师培训与注册体系中的创新抑制**[[Argument_Blass_2020_JESP|Blass (2020, p.91)]]指出澳大利亚教师培训体系"奖励 regulation 和 standardisation 而非创新"，教师注册委员会要求持续专业发展（CPD）时数而非创新发展时数。在这一制度文化中，VL 被用作证明[[Direct Instruction|直接教学]]模式的"好借口"，从而抑制了对 PBL 和探究式学习等替代教学法的探索。Blass 总结："澳大利亚已在教育中迷失了方向，而 Hattie 被用作证明这一立场的挡箭牌。但我怀疑这不是 Hattie 的本意"([[Argument_Blass_2020_JESP|Blass, 2020, p.97]])。
 >
 > **两国共同实践——课程连接** 新西兰和澳大利亚学校均实践课程连接（curriculum connection），"有意识地维持各学习领域的严谨性，明确通过连接赋权学习而不失去个别学科的完整性"（ACARA, cited in Sarbiewska, 2019, p.128）。
 >
@@ -283,7 +283,7 @@ updated: '2026-05-18'
 > - **2014 年政策采纳** 丹麦议会多数通过 公立学校改革，将科目目标替换为学习目标，明确引用 Hattie and VL。改革的核心转向——教育的最终目标不应该是教师教什么而应该是学生学什么——直接呼应了 VL 的"可见的学习成果"理念([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.5]])
 > - **政策捆绑与阻力** 改革与对教师劳动协议的争议性立法干预高度绑定——改革在挑战传统教师角色的同时削减了教师的劳动权利
 > - **反弹与批评** 改革后在短期内形成了一个由研究者、政治家和工会代表组成的广泛 解释社群——将 Hattie 从"教育英雄"转变为"教育敌人"。批评文集 [[Hattie på dansk]] 汇集了多篇强烈批评文章
-> - **Qvortrup 的辩护** 2019 年 Qvortrup 在 NordSTEP 发表讨论论文，以三线论证为 VL 辩护——批评者形成了意识形态驱动的解释社群而非进行学术反驳、定量与定性方法是互补的观察透镜、VL 的目的是提供"智能问题解决的[[Hypothesis|假设]]"而非"食谱"（详见 [[Argument_Qvortrup_2019_NordSTEP]]）
+> - **Qvortrup 的辩护** 2019 年 Qvortrup 在 NordSTEP 发表讨论论文，以三线论证为 VL 辩护——批评者形成了意识形态驱动的解释社群而非进行学术反驳、定量与定性方法是互补的观察透镜、VL 的目的是提供"智能[[Problem Solving|问题解决]]的[[Hypothesis|假设]]"而非"食谱"（详见 [[Argument_Qvortrup_2019_NordSTEP]]）
 > - **Laursen 的适用性检验**[[Argument_Laursen_2015_Paideia|Laursen (2015)]] 从较温和的经验比较角度追问 Hattie、Meyer and Helmke 的国际 [[Effective Teaching|有效教学]] 综合是否适用于丹麦。尽管这些综合主要基于英语国家研究，Laursen 比较 SFI 报告 和 Mehlbye 高绩效学校研究 等丹麦证据后认为，教师领导、清晰目标、高要求、良好班级社会环境等核心质量在丹麦同样促进学生学习([[Argument_Laursen_2015_Paideia|Laursen, 2015, pp.34–40]])
 >
 > #### 瑞典
@@ -346,7 +346,7 @@ updated: '2026-05-18'
 >
 > Blass从澳大利亚国家教育政策层面提供了独特的批评视角——与 Eacott（2017）聚焦教育领导力、O'Connor聚焦维多利亚州政策不同，Blass 的核心论点是：**Hattie 的 VL 在澳大利亚被用作限制教育创新和维持现状的借口，而非 Hattie 本人所意图的改革工具**。
 >
-> **论证一：VL 被误用为"不创新"的理由。** [[Argument_Blass_2020_JESP|Blass (2020, p.91)]]指出澳大利亚教师培训"奖励 regulation 和 standardisation 而非创新"，教师注册委员会要求持续专业发展时数而非创新发展时数。VL 被用于证明"教师作为讲授者的[[Direct Instruction|直接教学]]模式"的优越性，从而抑制了对 [[Problem-Based Learning|PBL]] 和探究式学习等替代教学法的探索。
+> **论证一：VL 被误用为"不创新"的理由。** [[Argument_Blass_2020_JESP|Blass (2020, p.91)]]指出澳大利亚教师培训"奖励 regulation 和 standardisation 而非创新"，教师注册委员会要求持续专业发展时数而非创新发展时数。VL 被用于证明"教师作为讲授者的[[Direct Instruction|直接教学]]模式"的优越性，从而抑制了对 PBL 和探究式学习等替代教学法的探索。
 >
 > **论证二：Hattie 的后续工作已超越排名模式，但政策未跟进。** [[Argument_Blass_2020_JESP|Blass (2020, pp.95–96)]]指出 Hattie & Donoghue（2016）在试图完成另一个排名元分析时**放弃了排名**——因为他们发现策略内部的变异太大。他们转而开发了一个学习模型（三输入：技能/意愿/激情；三阶段：表层/深层/迁移），其结论承认对 PBL 的批评可解释为一年级医学生仍处于[[Surface and Deep Learning|表层学习]]阶段。在 2020 年 Lessons from Lockdown 会议上，Hattie 的演讲进一步演变——谈到课程差异不大、询问"我们真的需要学生每天坐在教师面前吗？"、承认"通过失败学习是 PBL 的一部分、通过探究式学习恢复"([[Argument_Blass_2020_JESP|Blass, 2020, p.96]])。**Hattie 现在倡导的学习模型恰恰最适合 PBL 和探究式教学法**——但澳大利亚政策制定者仍引用 VL 2009 年的排名来为直接教学模式辩护。
 >

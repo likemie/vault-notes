@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03"
 argument_display_title: "Research Methods in Education · Ch03"
 argument_kind: "book-chapter"
-argument_related_count: 30
+argument_related_count: 31
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Blue Skies Research]]"
   - "[[Conformative Evaluation]]"
   - "[[Conflict of Interest in Research]]"
+  - "[[Problem Solving]]"
   - "[[Evaluation Research]]"
   - "[[Research Utilization]]"
   - "[[Epistemology]]"
@@ -333,7 +334,7 @@ James（1993, p. 135）对评估证据政治命运的冷峻判断：
 
 Morrison（1993）进一步指出，评估的政治化不仅限于大规模政策项目，还渗透到学校的微观层面（p.39）。Hoyle（1986）提出了**学校微观政治（micro-politics of the school）**的概念：评估数据是否被用来为某个部门或院系引入资源或撤回资源？评估者必须谨慎选择其立场和忠诚对象（Barton, 2002），因为评估结果的后果可能使这些忠诚受到质疑（Barton, 2002, p. 377）——尽管评估者可能希望保持被动和非政治化，但委托评估的人和现实情境并不共享这种看法，尤其是当评估数据被选择性或扭曲性地使用来正当化不同选项时。
 
-> [!warning] [[Action Research|行动研究]]的政治化：问题解决与问题设定
+> [!warning] [[Action Research|行动研究]]的政治化：[[Problem Solving|问题解决]]与问题设定
 > 学校本位的行动研究（school-based action research）——尽管被其倡导者赋予了解放性的声称（如 Carr & Kemmis, 1986; Grundy, 1987 主张行动研究赋权教师、促进民主实践）——在实践中往往呈现出另一种面貌：它更关注于**在给定议程下**找出最成功的组织、规划、教学和评估方式，而非**设定议程**和追随自己的研究议程。这是**问题解决（problem-solving）**与**问题设定（problem-setting）**的差异。
 >
 > 评估与研究被政治力量在宏观（政府资助和传播控制）和微观（学校内部资源分配）两个层面同时拉拢在一起，证明政治对教育的干预日益增长，从而巩固了执政政府的霸权（pp.39–40）。

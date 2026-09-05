@@ -11,7 +11,7 @@ aliases:
 summary: "认知心理学与学习科学概念，指个体因信息获取的容易性、文本表层语义流畅性或即时提取的顺畅感，产生的一种误将‘容易理解与阅读顺畅’等同于‘已真正掌握与内化知识’的元认知监控偏差。"
 type: concept
 domain: "educational-psychology"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,6 +22,7 @@ tags:
   - theme/higher-order-thinking
   - theme/artificial-intelligence
 related_concepts:
+  - "[[Problem Solving]]"
   - "[[Metacognition]]"
   - "[[Cognitive Offloading]]"
   - "[[Epistemic Friction]]"
@@ -54,7 +55,7 @@ updated: 2026-09-02
 ## 定义
 
 > [!def] 核心定义
-> 能力错觉（Illusion of Competence / Illusion of Knowing）是指学习者或认知主体在学习与问题解决过程中，因**外部线索的即时可得性、材料呈现的清晰性或文本表层语义的极度流畅性**，产生的一种严重的[[Metacognition|元认知监控]]偏差，错误地将“容易理解、阅读顺畅或有现成答案可用”误判为“自己已经真正掌握、能够独立推导并内化了深层知识图式”。[[Argument_Li_2026_CEAI|(Bjork et al., 2013; Li et al., 2026, pp. 2, 8, 10)]]
+> 能力错觉（Illusion of Competence / Illusion of Knowing）是指学习者或认知主体在学习与[[Problem Solving|问题解决]]过程中，因**外部线索的即时可得性、材料呈现的清晰性或文本表层语义的极度流畅性**，产生的一种严重的[[Metacognition|元认知监控]]偏差，错误地将“容易理解、阅读顺畅或有现成答案可用”误判为“自己已经真正掌握、能够独立推导并内化了深层知识图式”。[[Argument_Li_2026_CEAI|(Bjork et al., 2013; Li et al., 2026, pp. 2, 8, 10)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 基于“流畅性启发式（Fluency Heuristic）”产生的心智错觉——大脑将低加工努力（Processing Fluency）误判为高认知掌握度。

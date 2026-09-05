@@ -11,7 +11,7 @@ title: "Argument_SpronkenSmith_2024_AEHE"
 argument_key: "Argument_SpronkenSmith_2024_AEHE"
 argument_display_title: "Perceptions of graduate attribute development and application in PhD graduates from US and NZ universities"
 argument_kind: "journal-article"
-argument_related_count: 23
+argument_related_count: 24
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Higher-Order Thinking Skills]]"
   - "[[Language Skills]]"
   - "[[Critical Thinking]]"
+  - "[[Problem Solving]]"
   - "[[Lifelong Learning]]"
   - "[[Document]]"
   - "[[Creativity]]"
@@ -208,7 +209,7 @@ updated: '2026-08-19'
 > >     I --> I1["合作与团队工作 (Teamwork)"]
 > >     I --> I2["领导力开发 (Leadership)"]
 > > 
-> >     H --> H1["[[Critical Thinking|批判性思维]]与问题解决"]
+> >     H --> H1["[[Critical Thinking|批判性思维]]与[[Problem Solving|问题解决]]"]
 > >     H --> H2["认知能力、好奇心与创新"]
 > > 
 > >     P --> P1["个人品质与诚信 (Qualities)"]

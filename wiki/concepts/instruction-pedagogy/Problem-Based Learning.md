@@ -2,12 +2,11 @@
 title: Problem-Based Learning
 aliases:
   - 问题本位学习
-  - PBL
   - 基于问题的学习
 summary: "以经过选择的问题组织目标、学习活动与评估的教学系统，强调先备知识激活、协作探究、知识应用、模型修正和自我监控。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 37
+related_count: 39
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -16,9 +15,11 @@ tags:
   - subject/instruction
   - level/higher-ed
 related_concepts:
+  - "[[Problem Solving]]"
   - "[[Phenomenon-Based Learning]]"
   - "[[Constructivist Paradigm]]"
   - "[[Bildung]]"
+  - "[[Project-Based Learning]]"
   - "[[Hypothesis]]"
   - "[[Direct Instruction]]"
   - "[[Effect Size]]"
@@ -62,7 +63,7 @@ related_instruments: []
 confidence: medium
 status: draft
 created: 2026-05-04
-updated: 2026-08-24
+updated: 2026-09-05
 ---
 
 # Problem-Based Learning
@@ -72,7 +73,7 @@ updated: 2026-08-24
 ## 定义
 
 > [!def] 核心定义
-> 问题本位学习（problem-based learning, PBL）以经过选择的真实或拟真问题启动学习。学生激活先备知识、识别知识缺口、在小组中建立解释模型、查找新资料，再通过讨论、应用和问题解决不断修正模型。专业教育中的 PBL 还把同类问题用于目标表述和学习评估，使学生练习的活动与毕业后需要完成的专业任务保持一致。[[Argument_Hattie_2015_SOTLP|Schmidt et al. (2011, as cited in Hattie, 2015b, p. 85)]]；[[Argument_Biggs_1999_HERD|Biggs (1999, pp. 70–72)]]
+> 问题本位学习（problem-based learning, PBL）以经过选择的真实或拟真问题启动学习。学生激活先备知识、识别知识缺口、在小组中建立解释模型、查找新资料，再通过讨论、应用和[[Problem Solving|问题解决]]不断修正模型。专业教育中的 PBL 还把同类问题用于目标表述和学习评估，使学生练习的活动与毕业后需要完成的专业任务保持一致。[[Argument_Hattie_2015_SOTLP|Schmidt et al. (2011, as cited in Hattie, 2015b, p. 85)]]；[[Argument_Biggs_1999_HERD|Biggs (1999, pp. 70–72)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 问题承担课程组织功能，负责激活知识、提出学习需要并提供知识应用情境。
@@ -83,6 +84,7 @@ updated: 2026-08-24
 > - **不排斥知识教学** 精心设计的问题应当使学生覆盖课程所需内容，并把知识用于工作情境。知识覆盖与应用方式都属于设计目标。[[Argument_Biggs_1999_HERD|Biggs (1999, p. 71)]]
 > - **不等于无结构发现** 问题过度开放会使新手缺少推理支点，过度规定步骤又会取消搜索概念工具和选择应用路径的机会。[[Argument_Hattie_2015_SOTLP|Perkins (2014, as cited in Hattie, 2015b, p. 86)]]
 > - **不等于[[Phenomenon-Based Learning|现象本位学习]]** 两者都可能采用[[Constructivist Paradigm|建构主义]]学习观。PBL 以待解决的问题组织活动；芬兰现象本位学习还包含生活世界、具身经验、跨学科[[Bildung|教化]]和教学论传统。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff (2024, pp. 2–8)]]
+> - **不等于[[Project-Based Learning|项目式学习]]** 两者常共享“PBL”缩写与建构主义底座。问题本位学习以“劣构问题解释与机制诊断”为核心，不要求交付具身实体产品；项目式学习则强调驱动性问题牵引下的持续实践，且必须交付可公开展示的真实制品（Artifact/Product）。
 
 > [!citation-card]- PBL 的定义
 > PBL 是一种基于经验的方法，通过学习对有意义问题的调查、解释与解决来促进学习。[[Argument_Erdem_2026_SHE|(Erdem et al., 2026, p. 952)]]
@@ -124,10 +126,10 @@ Biggs 将传统模式的问题定位为目标、活动与结果之间的脱节�
 > [!feature] PBL 系统的七个要素
 > - **问题选择** 问题需要具有专业相关性，并共同覆盖课程目标中的主要知识范围。问题序列决定学生接触哪些概念以及在哪些情境中使用它们。[[Argument_Biggs_1999_HERD|Biggs (1999, p. 71)]]
 > - **先备知识激活** 学生先调用已有知识解释问题，由此暴露理解缺口。知识基础不足会增加无关信息、错误模型和逆向推理。[[Argument_Hattie_2015_SOTLP|Hattie (2015b, pp. 85–86)]]
-> - **小组协作** 小型问题解决小组让学生比较解释、分配检索任务，并与教师、同伴和服务对象互动。
+> - **小组协作** 小型[[Problem Solving|问题解决]]小组让学生比较解释、分配检索任务，并与教师、同伴和服务对象互动。
 > - **知识检索** 学生建立与案例相关的知识库，同时学习到哪里寻找更多信息。信息检索服务于当前解释，不以资料数量作为终点。
 > - **导师支持** 导师通过追问、反馈和知识支架帮助学生检验诊断、[[Hypothesis|假设]]及资料解释。教师需要持续判断学生探索的方向和现有知识缺口。[[Argument_Blass_2020_JESP|Blass (2020, p. 95)]]
-> - **情境应用** 新知识在获得它的工作情境中立即用于处理案例，使知识与专业行动形成联系。[[Argument_Biggs_1999_HERD|Biggs (1999, p. 71)]]
+> - **情境应用** 新知识在获得它的工作情境中立即用于处理案例，使知识与专业行动形成联系。
 > - **复盘与对齐评估** 学生回顾问题解决过程，发展自我管理和自我监控；评估再以同类案例检验这些表现。
 
 > [!proc] PBL 的学习活动流程
@@ -189,7 +191,7 @@ Biggs 将传统模式的问题定位为目标、活动与结果之间的脱节�
 > 学生需要知识支点来建立因果解释，也需要保留搜索和选择的空间。导师负责在开放性与支架之间持续调整。
 
 > [!claim] [[John Hattie|Hattie, J.]]
-> **引入时机影响推理质量** Hattie 将 PBL 的低平均效应部分归因于过早实施。新手知识库中的错误较多，容易把无关材料加入解释，并从未知条件逆向推导；专家较常从已知条件向未知问题推进。[[Argument_Hattie_2015_SOTLP|Walker & Leary (2009, as cited in Hattie, 2015b, pp. 85–86)]] 还发现，新手的逆向推理错误可能持续到教学结束之后。因此，事实和概念基础需要在复杂问题解决之前或过程中得到明确支持。[[Argument_Hattie_2015_SOTLP|Hattie (2015b, pp. 85–86)]]
+> **引入时机影响推理质量** Hattie 将 PBL 的低平均效应部分归因于过早实施。新手知识库中的错误较多，容易把无关材料加入解释，并从未知条件逆向推导；专家较常从已知条件向未知问题推进。[[Argument_Hattie_2015_SOTLP|Walker & Leary (2009, as cited in Hattie, 2015b, pp. 85–86)]] 还发现，新手的逆向推理错误可能持续到教学结束之后。因此，事实和概念基础需要在[[Problem Solving|复杂问题解决]]之前或过程中得到明确支持。[[Argument_Hattie_2015_SOTLP|Hattie (2015b, pp. 85–86)]]
 
 > [!claim] Hattie, J.
 > **问题结构需要保留认知搜索** 过度开放的问题可能使新手失去方向，过度结构化的项目则把步骤全部交给学生，使他们缺少搜索概念工具和选择应用案例的经验。问题设计需要规定目标与约束，同时保留解释、检索和方案选择的空间。[[Argument_Hattie_2015_SOTLP|Perkins (2014, as cited in Hattie, 2015b, p. 86)]]
@@ -252,7 +254,7 @@ Biggs 将传统模式的问题定位为目标、活动与结果之间的脱节�
 >
 > | 研究 | 比较或干预 | 结果[[Variable\|变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
 > |---|---|---|---|---|---|---|---|
-> | [[Argument_Hattie_2015_SOTLP\|Schwerdt & Wuppermann (2011, as cited in Hattie, 2015b, p. 86)]] | 将 10 个百分点的教学时间从问题解决转向讲授式呈现 | TIMSS 测试能力 | 高中样本；N 未报告 | 未报告 | 约提高 0.01 SD | 未报告 | 二手摘要未提供完整模型；不能推广到专业教育中的完整 PBL 系统 |
+> | [[Argument_Hattie_2015_SOTLP\|Schwerdt & Wuppermann (2011, as cited in Hattie, 2015b, p. 86)]] | 将 10 个百分点的教学时间从[[Problem Solving\|问题解决]]转向讲授式呈现 | TIMSS 测试能力 | 高中样本；N 未报告 | 未报告 | 约提高 0.01 SD | 未报告 | 二手摘要未提供完整模型；不能推广到专业教育中的完整 PBL 系统 |
 > | [[Argument_Blass_2020_JESP\|Blass (2020)]] | 受训团队管理教师与未经专门培训教师实施 Inventorium | 学生保留或参与 | 在线替代性高中；N 未报告 | 100% 保留与几乎全部不参与 | — | 未报告 | 作者实施观察，缺少[[Sample Size Determination\|样本量]]与统计检验；作者同时经营并倡导该项目 |
 
 > [!ma-table]- 一阶[[Meta-analysis|元分析]]总体结果
@@ -327,7 +329,7 @@ Biggs 将传统模式的问题定位为目标、活动与结果之间的脱节�
 > [!case] 专业教育中的自上而下对齐
 > 传统专业课程通常先分科教授陈述性知识，再安排技能训练，最后据此认定学生已具备执业准备。Biggs 指出，这套安排容易让考试要求决定知识结构。学生能够复述各学科内容，却未必处理过毕业后会遇到的陌生问题。大学按照内容院系配置人员和课程，也会强化这种组织方式。
 >
-> PBL 先确定毕业生需要解决的专业问题，再选择一组能够覆盖主要内容的案例。学生进入小型问题解决组，与教师、同伴和服务对象互动；他们建立相关知识库，学习继续检索资料，与导师讨论诊断和解释，把新知识用于案例，最后复盘自己的学习与推理过程。知识在专业情境中获得，也在同一情境中接受使用。
+> PBL 先确定毕业生需要解决的专业问题，再选择一组能够覆盖主要内容的案例。学生进入小型[[Problem Solving|问题解决]]组，与教师、同伴和服务对象互动；他们建立相关知识库，学习继续检索资料，与导师讨论诊断和解释，把新知识用于案例，最后复盘自己的学习与推理过程。知识在专业情境中获得，也在同一情境中接受使用。
 >
 > 医学 PBL 的三跳评估把评价分为三次连续检查。第一次评价学生如何诊断、提出[[Hypothesis|假设]]、核对临床资料和重新表述问题；第二次复核独立学习获得的知识、理解及信息评价；第三次评价关键概念综合、患者问题应用、自我监控和反馈回应。专业能力由此贯穿培养目标、学习活动和评估任务。[[Argument_Biggs_1999_HERD|Biggs (1999, pp. 70–72)]]
 

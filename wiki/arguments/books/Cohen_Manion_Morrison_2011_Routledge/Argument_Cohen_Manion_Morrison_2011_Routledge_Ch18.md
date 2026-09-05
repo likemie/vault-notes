@@ -12,9 +12,9 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18"
 argument_display_title: "Research Methods in Education · Ch18"
 argument_kind: "book-chapter"
-argument_related_count: 59
-argument_related_level: 3
-argument_related_stars: "⭐⭐⭐"
+argument_related_count: 60
+argument_related_level: 4
+argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
 book_title: "Research Methods in Education"
 publication_place: "London"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Technical Rationality]]"
   - "[[Reflexivity]]"
   - "[[Teacher-as-Researcher]]"
+  - "[[Problem Solving]]"
   - "[[Research Question]]"
   - "[[Reflective Thinking]]"
   - "[[Research-Practice Gap]]"
@@ -162,7 +163,7 @@ updated: '2026-08-27'
 > 4. **教师可以在专业发展中通过共同工作互相支持**
 
 > [!info] 行动研究与[[Participatory Research|参与式研究]]的关联
-> 行动研究将这些原则建立于其中并加以发挥。行动研究是[[Participatory Research|参与式研究]]的有力形式（见第2章；亦见 Kapoor & Jordan, 2009）。参与式研究打破了研究者与参与者的分离，权力被平等化，他们可能都是同一共同体的成员（David, 2002）。研究成为一项集体和共享的事业，涵盖多个领域：研究兴趣、议程和问题；数据的生成和分析；对研究成果、产出和用途的权力和控制权的平等化；参与者声音、作者权和所有权的发展；过程导向和问题解决方法；解放议程和政治目标；以及伦理责任和行为（p. 264）。
+> 行动研究将这些原则建立于其中并加以发挥。行动研究是[[Participatory Research|参与式研究]]的有力形式（见第2章；亦见 Kapoor & Jordan, 2009）。参与式研究打破了研究者与参与者的分离，权力被平等化，他们可能都是同一共同体的成员（David, 2002）。研究成为一项集体和共享的事业，涵盖多个领域：研究兴趣、议程和问题；数据的生成和分析；对研究成果、产出和用途的权力和控制权的平等化；参与者声音、作者权和所有权的发展；过程导向和[[Problem Solving|问题解决]]方法；解放议程和政治目标；以及伦理责任和行为（p. 264）。
 
 ---
 

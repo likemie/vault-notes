@@ -5,7 +5,7 @@ aliases:
 summary: "把社会转型视为在复杂生命系统中逐步涌现而非一次性设计完成的变革框架，强调基于地方生活世界的长期设计与协作放大"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 12
+theory_related_count: 13
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Epistemology]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
+  - "[[Problem Solving]]"
   - "[[Paradigm]]"
   - "[[Posthumanism]]"
   - "[[Mondialisation]]"
@@ -82,7 +83,7 @@ updated: '2026-05-18'
 > [!info] [[Epistemology|认识论]]立场
 > - [[Ontology|本体论]]：反本质主义——世界不是由一个单一世界（universe）构成，而是由多元世界（pluriverse）构成。设计不创造"解决方案"（在单一世界中优化），而是参与"世界的制造"（在多元世界中共同生成）
 > - 认识论：强调跨学科和跨知识传统的整合——科学知识与[[Local Knowledge in Evidence-Based Policy|地方知识]]、原住民宇宙论、替代叙事（非进步和非完美性）应该自由整合
-> - 方法论核心：从"设计作为问题解决"到"设计作为世界制造"的[[Paradigm|范式转换]]
+> - 方法论核心：从"设计作为[[Problem Solving|问题解决]]"到"设计作为世界制造"的[[Paradigm|范式转换]]
 >
 
 ## 争议与批评

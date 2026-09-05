@@ -10,7 +10,7 @@ aliases:
 summary: "个体对其产生创造性想法、解决复杂不良结构问题以及实现创新成果的能力所持有的主观信心与自我效能信念；是连接创造潜能向显性创造表现转化的核心外认知动力中介。"
 type: concept
 domain: "educational-psychology"
-related_count: 47
+related_count: 48
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Metacognition]]"
   - "[[Creativity Training]]"
   - "[[Divergent Thinking]]"
+  - "[[Problem Solving]]"
   - "[[Growth]]"
   - "[[Entity vs Incremental Intelligence]]"
   - "[[Construct]]"
@@ -97,7 +98,7 @@ updated: 2026-09-03
 >
 > *Creative self-efficacy reflects the belief that one has the ability to produce creative outcomes, functioning as a vital extracognitive driver that sustains creative effort across challenging tasks.*
 >
-> [[Creativity Training|创造力训练]]项目不仅直接重塑大学生的[[Divergent Thinking|发散思维]]与问题解决技能，更通过提供结构化掌握经验与启发式支架，系统激活创造性自我效能感与心理赋能，使学习者确立面对未知挑战的创新勇气与探究坚韧度。[[Argument_Guo_2025_TSC|(Guo et al., 2025, pp. 2–3)]]
+> [[Creativity Training|创造力训练]]项目不仅直接重塑大学生的[[Divergent Thinking|发散思维]]与[[Problem Solving|问题解决]]技能，更通过提供结构化掌握经验与启发式支架，系统激活创造性自我效能感与心理赋能，使学习者确立面对未知挑战的创新勇气与探究坚韧度。[[Argument_Guo_2025_TSC|(Guo et al., 2025, pp. 2–3)]]
 
 > [!boundary]- 概念边界
 > - **不等于 一般自我效能感（General Self-Efficacy）** 一般自我效能感指向对广泛生活与学业压力的普遍应对信心；创造性自我效能感特异性聚焦于“生成非常规构想”、“打破既定规则框架”与“承受智识风险”的创新情境。
@@ -322,7 +323,7 @@ updated: 2026-09-03
 > |:-----|:-----|:---------|:-----|
 > | [[Creativity]] | 概念 | 上位概念 | 创造性[[Self-Efficacy\|自我效能感]]是促进创造潜能向显性创造表现转化的核心外认知动力桥梁。 |
 > | [[Self-Efficacy]] | 概念 | 理论基石 | [[Albert Bandura\|班杜拉]]自我效能理论是创造性自我效能感直接的理论渊源与机制模型基础。 |
-> | [[Creativity Training]] | 概念 | 干预与塑造载体 | 系统创造力干预通过提供掌握经验与启发式工具，显著重塑学生的创造信心与问题解决效能。 |
+> | [[Creativity Training]] | 概念 | 干预与塑造载体 | 系统创造力干预通过提供掌握经验与启发式工具，显著重塑学生的创造信心与[[Problem Solving\|问题解决]]效能。 |
 > | [[Creativity Assessment]] | 概念 | 测评与诊断 | 创造力测评涵盖自陈 CSE 量表与客观表现测验，强调主客观双轨评估以规避 [[Common Method Variance\|CMV]] 偏差。 |
 > | [[Divergent Thinking]] | 概念 | 认知构件 | 发散思维为效能感提供认知能力支撑，效能感反向驱动更高强度的认知发散与探索坚持。 |
 > | [[Problem-Based Learning]] | 概念 | 教学实践路径 | 基于问题的学习通过不良结构真实情境为学生提供亲历探究成功体验的核心载体。 |

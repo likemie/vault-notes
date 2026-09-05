@@ -8,7 +8,7 @@ aliases:
 summary: "通过空间隐喻与视觉拓扑结构表征概念关系、逻辑论证与层级脉络的教学与认知脚手架，能有效卸载低阶信息检索负荷并释放高阶认知资源"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Argument Mapping]]"
   - "[[Working Memory]]"
   - "[[Higher-Order Thinking Skills]]"
+  - "[[Problem Solving]]"
   - "[[Seductive Details Effect]]"
   - "[[Brainstorming]]"
   - "[[Externalization]]"
@@ -67,7 +68,7 @@ updated: 2026-08-25
 
 > [!concept-lens] 概念透镜
 > - **含义** 将复杂知识网络、论证链条或发散观念空间化与结构化的外在可视化表征工具。
-> - **用途** 作为外在脚手架辅助概念建构、批判性阅读、论证写作、发散构想生成与复杂问题解决。
+> - **用途** 作为外在脚手架辅助概念建构、批判性阅读、论证写作、发散构想生成与[[Problem Solving|复杂问题解决]]。
 > - **边界** 图形组织器是辅助认知加工与信息结构化的脚手架工具，不等于学习者内部已形成的心理图式（Mental Schema），亦不能替代深层概念理解与高阶反思本身。
 
 > [!citation-card]- 关键表述

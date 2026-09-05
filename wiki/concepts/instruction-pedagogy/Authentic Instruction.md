@@ -8,7 +8,7 @@ aliases:
 summary: "以真实情境、劣构问题、角色扮演、情境模拟与宏观情境锚定为载体，引导学生在有意义的问题解决中建构知识与发展批判性思维的教学模式。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Anchored Instruction]]"
   - "[[Critical Thinking]]"
+  - "[[Problem Solving]]"
   - "[[Problem-Based Learning]]"
   - "[[Hypothesis]]"
   - "[[Variable]]"
@@ -60,7 +61,7 @@ updated: 2026-08-25
 ## 定义
 
 > [!def] 核心定义
-> 真实性教学（Authentic Instruction，亦常体现为[[Anchored Instruction|抛锚式教学]]）指通过向学习者呈现源自现实世界的真实问题、复杂案例或情境，激发其探究动机并在解决劣构、多步问题的过程中发展高阶认知能力的教学模式。该教学法强调知识不应脱离实际运用情境而被抽象灌输，而应作为解决具体实际矛盾的思想工具。在[[Critical Thinking|批判性思维]]教学中，真实性教学涵盖应用型问题解决、[[Role-playing|角色扮演]]、情境模拟演练与现实困境分析等核心策略。[[Argument_Abrami_2015_RER|(Abrami et al., 2015, pp. 286–287)]]
+> 真实性教学（Authentic Instruction，亦常体现为[[Anchored Instruction|抛锚式教学]]）指通过向学习者呈现源自现实世界的真实问题、复杂案例或情境，激发其探究动机并在解决劣构、多步问题的过程中发展高阶认知能力的教学模式。该教学法强调知识不应脱离实际运用情境而被抽象灌输，而应作为解决具体实际矛盾的思想工具。在[[Critical Thinking|批判性思维]]教学中，真实性教学涵盖应用型[[Problem Solving|问题解决]]、[[Role-playing|角色扮演]]、情境模拟演练与现实困境分析等核心策略。[[Argument_Abrami_2015_RER|(Abrami et al., 2015, pp. 286–287)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 将学习锚定在具有现实关联性、内在复杂性与真实意义的问题情境中，打破机械记忆与符号脱节。
@@ -85,7 +86,7 @@ updated: 2026-08-25
 > |---|---|---|---|
 > | **问题性质** | 真实生活情境、模拟演练、伦理困境或应用型案例 | 跨学科复杂劣构问题，作为整门课程的组织核心 | 预先分解的良构知识点与练习题 |
 > | **认知过程** | 在情境中识别矛盾、权衡证据、形成判断并检验方案 | 自主探究、小组协作、[[Hypothesis\|假设]]生成与方案构建 | 概念识记、例题模仿、演绎应用 |
-> | **知识定位** | 解决真实问题的思想工具与行动资源 | 驱动问题解决的生成性理解 | 独立于情境的静态真理与符号系统 |
+> | **知识定位** | 解决真实问题的思想工具与行动资源 | 驱动[[Problem Solving\|问题解决]]的生成性理解 | 独立于情境的静态真理与符号系统 |
 
 ---
 
@@ -140,7 +141,7 @@ updated: 2026-08-25
 > 探讨抽象概念如何通过具身与情境化的锚定转化为可操作的思考工具。
 
 > [!claim] Abrami, P. C., et al.; [[John Dewey|Dewey, J.]]
-> **真实情境转化概念为思维工具** [[John Dewey|杜威]]（John Dewey）批评脱离情境的[[Rote Learning|死记硬背]]使学生无法理解事实的真实意义，主张必须将知识置于对学生而言真实的探究情境中。Abrami 等人进一步指出，通过将复杂概念锚定在应用型问题解决、[[Role-playing|角色扮演]]或情境模拟中，学生得以在处理真实阻碍的过程中经历[[Hypothesis|假设]]检验与证据权衡，从而使抽象认知技能获得生动的运用载体。[[Argument_Abrami_2015_RER|(Abrami et al., 2015, pp. 286–287)]]
+> **真实情境转化概念为思维工具** [[John Dewey|杜威]]（John Dewey）批评脱离情境的[[Rote Learning|死记硬背]]使学生无法理解事实的真实意义，主张必须将知识置于对学生而言真实的探究情境中。Abrami 等人进一步指出，通过将复杂概念锚定在应用型[[Problem Solving|问题解决]]、[[Role-playing|角色扮演]]或情境模拟中，学生得以在处理真实阻碍的过程中经历[[Hypothesis|假设]]检验与证据权衡，从而使抽象认知技能获得生动的运用载体。[[Argument_Abrami_2015_RER|(Abrami et al., 2015, pp. 286–287)]]
 
 ### 命题二　真实性教学与对话及导师指导的协同整合产生最大干预效应
 

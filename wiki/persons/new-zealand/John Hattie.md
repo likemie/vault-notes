@@ -51,6 +51,7 @@ related_concepts:
   - "[[Research Scope]]"
   - "[[Variable]]"
   - "[[Pragmatic Paradigm]]"
+  - "[[Problem Solving]]"
   - "[[Hypothesis]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Didaktik]]"
@@ -70,7 +71,6 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Technical Rationality]]"
   - "[[Falsification]]"
-  - "[[Problem-Based Learning]]"
   - "[[Surface and Deep Learning]]"
   - "[[Epistemology]]"
   - "[[Ontology]]"
@@ -347,7 +347,7 @@ updated: '2026-06-08'
 >
 > 在这场论战之外，Hattie 在新西兰还面临更广泛的争议：被批评在 asTTle 评估工具的推广中存在经济利益，模糊了科学家、政治顾问和商业利益者之间的界限；被指控提倡绩效薪酬、忽视社会背景和不平等([[Argument_Terhart_2011_JCS|Terhart, 2011, p.434–435]])。
 >
-> **论战的核心分歧** 双方在第一原则上一致（学术批评应聚焦观点而非人身攻击；Dewey [[Pragmatic Paradigm|实用主义]]知识观——证据不提供行动规则，只为明智问题解决提供[[Hypothesis|假设]]），但在以下问题上根本分歧：(1) 是否可能将质量参差不齐的元分析纳入同一综合而不引入不可容忍的偏差；(2) 平均效应量是否掩盖了特定群体和条件下的重要差异；(3) 在缺乏本地研究验证时，是否应从主要为美国的研究推广政策建议；(4) 学者参与政策制定时，asTTle 等商业利益是否构成[[Conflict of Interest in Research|利益冲突]]。Terhart评论这场争论实质上是"自下而上的学校改革者反对技术官僚的、行政驱动的、中央集权的新自由主义策略"。
+> **论战的核心分歧** 双方在第一原则上一致（学术批评应聚焦观点而非人身攻击；Dewey [[Pragmatic Paradigm|实用主义]]知识观——证据不提供行动规则，只为明智[[Problem Solving|问题解决]]提供[[Hypothesis|假设]]），但在以下问题上根本分歧：(1) 是否可能将质量参差不齐的元分析纳入同一综合而不引入不可容忍的偏差；(2) 平均效应量是否掩盖了特定群体和条件下的重要差异；(3) 在缺乏本地研究验证时，是否应从主要为美国的研究推广政策建议；(4) 学者参与政策制定时，asTTle 等商业利益是否构成[[Conflict of Interest in Research|利益冲突]]。Terhart评论这场争论实质上是"自下而上的学校改革者反对技术官僚的、行政驱动的、中央集权的新自由主义策略"。
 
 
 > [!warning] Grace 的介入 (2010)
@@ -398,7 +398,7 @@ updated: '2026-06-08'
 >
 > #### 立场演变与距离感
 >
-> - **Hattie & Donoghue (2016) 放弃排名** 在试图完成另一个排名元分析时，因发现策略内部变异太大而放弃排名，转而开发三输入（技能/意愿/激情）三阶段（表层/深层/迁移）学习模型。该模型承认对 [[Problem-Based Learning|PBL]] 的批评可解释为一年级医学生仍处于[[Surface and Deep Learning|表层学习]]阶段([[Argument_Blass_2020_JESP|Blass, 2020, pp.95–96]])
+> - **Hattie & Donoghue (2016) 放弃排名** 在试图完成另一个排名元分析时，因发现策略内部变异太大而放弃排名，转而开发三输入（技能/意愿/激情）三阶段（表层/深层/迁移）学习模型。该模型承认对 PBL 的批评可解释为一年级医学生仍处于[[Surface and Deep Learning|表层学习]]阶段([[Argument_Blass_2020_JESP|Blass, 2020, pp.95–96]])
 > - 已在某种程度上与 《可见的学习》的被运用方式保持距离，表示若重新来过会避免"结果的暴政"（tyranny of outcomes）（Hattie, in Knudsen, 2017）
 > - [[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]]以引介者身份为 Hattie 辩护：三线论证——批评者形成了意识形态解释社群而非学术反驳；定量/定性对立源于[[Epistemology|认识论]]/[[Ontology|本体论]]混淆；教学与学习之间不是[[Causality|因果关系]]而是[[Structural Coupling|结构耦合]]，《可见的学习》的目的是提供"智能问题解决的假设"而非"食谱"，[[Professional Judgment|专业判断]]是缺失环节([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.3-7]])
 > - **2020 年 Lessons from Lockdown 会议演讲** Hattie 的立场进一步演变——谈到"课程差异不大"（70% 教师提问仅需三词或更少回答）、询问"我们真的需要学生每天坐在教师面前吗？"、承认"失败是学习者最好的朋友但仅低风险时"、指出"通过失败学习是 PBL 的一部分、通过探究式学习恢复"。[[Argument_Blass_2020_JESP|Blass (2020, p.96)]]指出 Hattie 现在倡导的学习模型最适合 PBL 和探究式教学法——但他的早期排名仍被用于为直接教学模式辩护

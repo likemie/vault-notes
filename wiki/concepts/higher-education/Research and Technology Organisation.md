@@ -9,7 +9,7 @@ aliases:
 summary: "政府投资建立的桥接大学研究与产业应用之间的中介组织，履行应用研究、技术问题解决、劳动力发展、设施建设等多重功能，典型如英国 Catapult、德国 Fraunhofer 和美国 Manufacturing USA"
 type: concept
 domain: "higher-education"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,6 +20,7 @@ tags:
   - policy/innovation
   - level/higher-education
 related_concepts:
+  - "[[Problem Solving]]"
   - "[[Evaluation Research]]"
   - "[[Innovation Ecosystem]]"
   - "[[Valley of Death]]"
@@ -48,7 +49,7 @@ updated: 2026-06-10
 ## 核心功能
 
 > [!abstract]
-> 峰会讨论强调，解决产业和社会创新挑战往往涉及远超技术问题解决和推动技术通过开发管道的多项工作。RTO 在[[Systems of Innovation|创新系统]]中履行的多重功能包括（pp.33–34）：
+> 峰会讨论强调，解决产业和社会创新挑战往往涉及远超技术[[Problem Solving|问题解决]]和推动技术通过开发管道的多项工作。RTO 在[[Systems of Innovation|创新系统]]中履行的多重功能包括（pp.33–34）：
 
 - **[[Evaluation Research|应用研究]]** 开展桥接学术研究与产业应用所需的应用研究，使技术能够更有效地从概念走向市场
 - **技术问题解决** 为企业提供技术问题解决服务

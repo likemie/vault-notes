@@ -8,7 +8,7 @@ aliases:
 summary: "教师在教育教学实践中所依托的多元复合知识体系，涵盖学科知识、学科教学知识、实践智慧、学情认知与育人伦理，强调在情境中对多源知识进行动态整合与审慎裁决"
 type: concept
 domain: "teaching-teacher-education"
-related_count: 25
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -19,7 +19,6 @@ tags:
   - theme/research-use
   - theme/professional-agency
 related_concepts:
-  - "[[IB Learner Profile]]"
   - "[[Profession-Sensitive Conceptualisations of Research Use]]"
   - "[[Reflexivity]]"
   - "[[Heterogeneity]]"
@@ -60,7 +59,7 @@ updated: 2026-08-26
 ## 定义
 
 > [!def] 核心定义
-> 教师知识库（Teacher Knowledge Base，又称教师知识基础）是指教师在从事专业教学与育人活动中所积累、掌握并运用的复合多元知识体系（Shulman, 1986, 1987; Grimen, 2008）。该概念由李·舒尔曼（Lee Shulman）奠定理论基石，强调教师知识远非单一学术学科知识的机械输出，而是由学科知识、学科教学知识（Pedagogical Content Knowledge, PCK）、课程认知、[[IB Learner Profile|学习者特征]]、教育情境、一般教学法以及育人宗旨与价值观等七大维度交织而成的异质复合体。在[[Profession-Sensitive Conceptualisations of Research Use|专业敏感型研究使用]]框架中，教师知识库被视为多源知识动态整合（Knowledge Integration）的核心载体，外部科研证据必须与教师既有的实践经验、具体学情和专业伦理在特定教学情境中进行平权协商与[[Reflexivity|反思性]]裁决（Hermansen & Mausethagen, 2023；[[Argument_Mausethagen_2025_ERR|Mausethagen et al., 2025, p. 8]]）。
+> 教师知识库（Teacher Knowledge Base，又称教师知识基础）是指教师在从事专业教学与育人活动中所积累、掌握并运用的复合多元知识体系（Shulman, 1986, 1987; Grimen, 2008）。该概念由李·舒尔曼（Lee Shulman）奠定理论基石，强调教师知识远非单一学术学科知识的机械输出，而是由学科知识、学科教学知识（Pedagogical Content Knowledge, PCK）、课程认知、学习者特征、教育情境、一般教学法以及育人宗旨与价值观等七大维度交织而成的异质复合体。在[[Profession-Sensitive Conceptualisations of Research Use|专业敏感型研究使用]]框架中，教师知识库被视为多源知识动态整合（Knowledge Integration）的核心载体，外部科研证据必须与教师既有的实践经验、具体学情和专业伦理在特定教学情境中进行平权协商与[[Reflexivity|反思性]]裁决（Hermansen & Mausethagen, 2023；[[Argument_Mausethagen_2025_ERR|Mausethagen et al., 2025, p. 8]]）。
 
 > [!concept-lens] 概念透镜
 > - **结构特征** 复合[[Heterogeneity|异质性]]（Heterogeneity）：教师知识不是单一来源的逻辑推论，而是学术科研、[[Phronesis|实践智慧]]、情境线索与价值信念的有机融合。

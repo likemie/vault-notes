@@ -9,7 +9,7 @@ aliases:
 summary: "源自社会认识论与学习科学的核心构念，指个体在遭遇相左证据、异质观点或复杂认知任务时所经历的生产性阻力与反思张力，是激活元认知监控、深度推理与知识图式重构的必要心理机制。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Creativity]]"
   - "[[Surface and Deep Learning]]"
+  - "[[Problem Solving]]"
   - "[[Epistemological Vigilance]]"
   - "[[Construct]]"
   - "[[Illusion of Competence]]"
@@ -86,7 +87,7 @@ updated: 2026-09-02
 
 > [!boundary]- 概念边界辨析
 > - **不等于 外在认知负荷（Extraneous Cognitive Load）** 外在负荷源于不良教学呈现引发的无意义心智消耗，应当被最小化；认识论摩擦属于与图式深加工密切绑定的**关联负荷（Germane Load）**的核心来源，是应当被保护与激发的生产性阻力。
-> - **不等于 纯粹挫折感（Frustration）** 认识论摩擦指向认识论层面的反思性疑问与证据权衡，伴随着明确的问题解决导向；单纯的情绪挫折若缺乏支架引导，会阻碍探究。
+> - **不等于 纯粹挫折感（Frustration）** 认识论摩擦指向认识论层面的反思性疑问与证据权衡，伴随着明确的[[Problem Solving|问题解决]]导向；单纯的情绪挫折若缺乏支架引导，会阻碍探究。
 > - **不等于 [[Epistemological Vigilance|认识论警觉]]（Epistemic Vigilance）** 认识论警觉是认知主体面对外部信息时的怀疑态度与核验能力（主体胜任力/状态）；认识论摩擦则是主体在进行深度审思时所体验到的心智相互作用阻力（认知动力学机制）。
 
 ---

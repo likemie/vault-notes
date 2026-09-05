@@ -10,9 +10,9 @@ subtype: policy
 region: france
 fact_region: "france"
 fact_kind: "policy"
-fact_related_count: 4
+fact_related_count: 5
 fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_stars: ""
 fact_related_color: "#dbeafe"
 issuing_organization: "法国国民教育部与高等教育科研部"
 tags:
@@ -21,6 +21,7 @@ tags:
   - theme/national-strategy
   - theme/higher-order-thinking
 related_concepts:
+  - "[[Problem Solving]]"
   - "[[Creativity]]"
   - "[[Critical Thinking]]"
   - "[[Innovation Hub]]"
@@ -46,7 +47,7 @@ updated: 2026-08-27
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2017 年由法国高等教育与研究部（MESR）战略委员会正式发布白皮书。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 11)]]
 > - **全称与简称** 法国国家高等教育战略（Stratégie Nationale de l'Enseignement Supérieur, 简称 StraNES）。
-> - **问题背景** 法国传统精英教育（大学校预科/大学）长期偏重高度抽象的学术理论演绎与书面单向应试，导致学生在跨学科创新、口语论证表达与灵活问题解决上存在短板。
+> - **问题背景** 法国传统精英教育（大学校预科/大学）长期偏重高度抽象的学术理论演绎与书面单向应试，导致学生在跨学科创新、口语论证表达与灵活[[Problem Solving|问题解决]]上存在短板。
 > - **制度位置** 法国高等教育领域具有法律效力的国家中长期发展纲领性白皮书。
 
 ---

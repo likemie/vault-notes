@@ -11,7 +11,7 @@ aliases:
 summary: "围绕单一中心概念向外辐射多级分支，借助色彩、关键词与自由联想规则外显化非线性思维过程的低认知开销空间视觉组织工具。在创造力干预与高阶思维培养中，它以极简拓扑结构最大化降低认知负荷，是激发发散思维与概念远距组合的核心教学支架。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Brainstorming]]"
   - "[[Divergent Thinking]]"
   - "[[Cognitive Flexibility]]"
+  - "[[Problem Solving]]"
   - "[[Lateral Thinking]]"
   - "[[Concept Mapping]]"
   - "[[Argument Mapping]]"
@@ -83,7 +84,7 @@ updated: 2026-09-03
 > [!citation-card]- 关键表述：组织开销与思维敏捷性（[[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al., 2026]]; [[Argument_Guo_2025_TSC|Guo et al., 2025]]; Malycha & Maier, 2017）
 > 思维导图以单一中心概念为核心向外辐射多级分支，结构复杂度低，强调联想发散与速记，能够以最低的认知门槛最大化卸载机械组织负担，让学习者全神贯注于新颖观念的生成与联想拓展。[[Argument_Lei_Ding_Chiu_2026_ERR|(Lei et al., 2026, pp. 4, 11)]]
 >
-> 关注[[Cognitive Flexibility|认知灵活性]]、问题解决能力与发散思维的思维训练紧随其后表现出显著促学效能；通过头脑风暴、[[Lateral Thinking|侧向思维]]谜题与思维导图等练习，思维训练有效激发了心智敏捷性，促使参与者探索突破常规的创新解决方案。[[Argument_Guo_2025_TSC|(Guo et al., 2025, p. 10)]]
+> 关注[[Cognitive Flexibility|认知灵活性]]、[[Problem Solving|问题解决能力]]与发散思维的思维训练紧随其后表现出显著促学效能；通过头脑风暴、[[Lateral Thinking|侧向思维]]谜题与思维导图等练习，思维训练有效激发了心智敏捷性，促使参与者探索突破常规的创新解决方案。[[Argument_Guo_2025_TSC|(Guo et al., 2025, p. 10)]]
 >
 > 经典思维导图常容易引导学习者沿着语义临近的既有范畴发散，通过将思维导图与随机刺激概念组合技术相结合（Random-Map Technique），能够强制打破习惯性语义联结，显著提升创意生成的独创性水平。[[Argument_Guo_2025_TSC|(Guo et al., 2025, p. 10; Malycha & Maier, 2017)]]
 

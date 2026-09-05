@@ -9,7 +9,7 @@ title: "Argument_Nordahl_2015_Paideia"
 argument_key: "Argument_Nordahl_2015_Paideia"
 argument_display_title: "Visible Learning som grunnlag for evidens og forbedringsarbeid i utdanningssystemet"
 argument_kind: "journal-article"
-argument_related_count: 17
+argument_related_count: 18
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Hypothesis]]"
+  - "[[Problem Solving]]"
   - "[[Homework]]"
   - "[[Growth]]"
   - "[[Learning Gap]]"
@@ -111,7 +112,7 @@ citation_aliases:
 > 如果这一点不处理，前面的循证主张很容易被批成技术官僚主义。所以这里要做的，是把“研究证据”和“[[Professional Judgment|专业判断]]”的关系重新界定。
 >
 > 7. 常见批评是：[[Evidence-Based Education|循证教育]]会把教师变成只会执行外部命令的“机器人”，从而损害教师的自主性与教育判断(pp.64–65)。
-> 8. 给出的回应是：研究知识本来就不是自动生成课堂指令的机器，它只能提供更聪明的问题解决资源，真正的课堂行动仍然要由教师结合具体情境来判断。
+> 8. 给出的回应是：研究知识本来就不是自动生成课堂指令的机器，它只能提供更聪明的[[Problem Solving|问题解决]]资源，真正的课堂行动仍然要由教师结合具体情境来判断。
 > 9. Daniel Kahneman 的快思考与慢思考区分被用来说明，教师的直觉并不是天生可靠的。更好的专业直觉，往往来自先前对研究知识的学习、反思和训练，再逐步内化成课堂中的快速判断(p.64)。
 >
 > > 一个贴近教师日常的例子：熟练教师看学生一眼，往往就能察觉“他好像没真的听懂”。但这种直觉不是凭空长出来的，而是长期观察、比较、反思和试错以后形成的。这里要说的正是这种“被研究和反思训练过的直觉”。

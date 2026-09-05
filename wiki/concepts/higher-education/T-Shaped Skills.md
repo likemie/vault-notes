@@ -4,12 +4,13 @@ aliases: ["T型技能", "T-shaped competencies", "T型能力"]
 summary: "Donofrio and DeMarco (2022) 提出的跨学科技能模型，指兼具跨学科广泛沟通能力与单一学科深度问题解决能力的人才特质，用于产学合作中的劳动力培养讨论"
 type: concept
 domain: "higher-education"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
 tags: ["theme/talent-development", "theme/workforce-training", "theme/university-industry-collaboration"]
 related_concepts:
+  - "[[Problem Solving]]"
   - "[[General Education]]"
   - "[[University-Industry Collaboration]]"
   - "[[Translational Research]]"
@@ -29,7 +30,7 @@ updated: 2026-05-28
 ## 定义
 
 > [!info]
-> T 型技能（T-shaped skills）是指同时具备两类能力的人才特质：纵向的"|"代表在某一学科领域内的深度问题解决能力（deep problem-solving skills in a home discipline）；横向的"—"代表跨学科的广泛沟通能力（broad communication skills across disciplines）（Donofrio & DeMarco, 2022, 转引自 [[Argument_Narayan_Spohrer_2025_Metrics|Narayan & Spohrer, 2025, p.96]]）。
+> T 型技能（T-shaped skills）是指同时具备两类能力的人才特质：纵向的"|"代表在某一学科领域内的深度[[Problem Solving|问题解决能力]]（deep problem-solving skills in a home discipline）；横向的"—"代表跨学科的广泛沟通能力（broad communication skills across disciplines）（Donofrio & DeMarco, 2022, 转引自 [[Argument_Narayan_Spohrer_2025_Metrics|Narayan & Spohrer, 2025, p.96]]）。
 
 > [!quote]
 > "the need for individuals with so-called 'T-shaped skills, broad communication skills across disciplines and deep problem solving skills in a home discipline' continues to be both a priority and a challenge in academia and industry"（Donofrio & DeMarco, 2022, 转引自 p.96）

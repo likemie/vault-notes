@@ -9,7 +9,7 @@ summary: "美国广告界先驱与创造力教育先锋，BBDO 广告公司联�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 14
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Brainstorming]]"
   - "[[SCAMPER]]"
   - "[[Creativity Training]]"
+  - "[[Problem Solving]]"
   - "[[Operationalization]]"
   - "[[Emergence]]"
   - "[[Convergent Thinking]]"
@@ -61,7 +62,7 @@ updated: 2026-09-03
 > - **代表贡献** 创立[[Brainstorming|头脑风暴]]法、联合开创[[Creative Problem Solving|创造性问题解决]]（Osborn-Parnes CPS）模型雏形、提出包含 73 问的创造力设问检核表（[[SCAMPER]] 雏形）。
 
 > [!citation-card]- 人物定位的关键来源
-> 在儿童与成人[[Creativity Training|创造性思维训练]]的系统综合评价中，奥斯本—帕内斯创造性问题解决计划及其衍生演化模型，始终是产出最为积极有效、应用最为广泛的经典干预方案。[[Argument_Guo_2025_TSC|(Guo et al., 2025, p. 2)]]; Torrance (1972)
+> 在儿童与成人[[Creativity Training|创造性思维训练]]的系统综合评价中，奥斯本—帕内斯创造性[[Problem Solving|问题解决]]计划及其衍生演化模型，始终是产出最为积极有效、应用最为广泛的经典干预方案。[[Argument_Guo_2025_TSC|(Guo et al., 2025, p. 2)]]; Torrance (1972)
 
 ---
 

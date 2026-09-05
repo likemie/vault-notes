@@ -22,6 +22,7 @@ tags:
   - theme/higher-order-thinking
   - theme/academic-achievement
 related_concepts:
+  - "[[Problem Solving]]"
   - "[[Creativity]]"
   - "[[Critical Thinking]]"
   - "[[Constructivist Paradigm]]"
@@ -106,7 +107,7 @@ title: "Argument_Gungor_2026_CP"
 argument_key: "Argument_Gungor_2026_CP"
 argument_display_title: "A second-order meta-analysis on the effects of cooperative learning on students’ academic achievement, higher-order thinking, and affective behaviors"
 argument_kind: "journal-article"
-argument_related_count: 66
+argument_related_count: 67
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -123,7 +124,7 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> 21世纪知识社会对学生的高阶认知能力（问题解决、[[Creativity|创造性]]思维、[[Critical Thinking|批判性思维]]）与社会交往技能（团队协作、沟通表达、同理领导）提出了前所未有的要求，传统的以教师为中心、以知识单向传授为主的讲授式教学已难以满足这一多维素养的发展诉求。作为[[Constructivist Paradigm|社会建构主义]]的核心教学模式，[[Cooperative Learning|合作学习]]（Cooperative Learning，CL）自20世纪70年代在美国高校兴起后迅速推广至全球全学段与各学科领域。
+> 21世纪知识社会对学生的高阶认知能力（[[Problem Solving|问题解决]]、[[Creativity|创造性]]思维、[[Critical Thinking|批判性思维]]）与社会交往技能（团队协作、沟通表达、同理领导）提出了前所未有的要求，传统的以教师为中心、以知识单向传授为主的讲授式教学已难以满足这一多维素养的发展诉求。作为[[Constructivist Paradigm|社会建构主义]]的核心教学模式，[[Cooperative Learning|合作学习]]（Cooperative Learning，CL）自20世纪70年代在美国高校兴起后迅速推广至全球全学段与各学科领域。
 >
 > 然而，既有大量一阶[[Meta-analysis|元分析]]（First-Order Meta-Analyses，FOM）虽证实了合作学习的积极效能，却普遍存在三类方法学局限：
 > - **地理区域单一** 高度局限于土耳其（Çapar & Tarım, 2015; Turgut & Gülşen Turgut, 2018）或印度尼西亚（Ridwan et al., 2022; Tanjung et al., 2022）等单一国别；
@@ -262,7 +263,7 @@ issuing_organization: ""
 > 传统被动灌输式教学无法有效培养21世纪所需的[[Critical Thinking|批判性思维]]、[[Creativity|创造力]]与团队协作素养；而既有一阶元分析多受限于单一国别、单一学科或单一产出，无法提供全局性的循证决策基准，必须运用二阶元分析降低抽样误差并全面评估干预效能。（pp. 1–3）
 
 > [!chain-link] 证据到判断
-> - 现代知识社会要求学生掌握问题解决、创造性思维与批判性思维等高阶认知能力，以及沟通、协作与领导等社会技能（Johnson & Johnson, 2009; Klang et al., 2020）。（p. 1）
+> - 现代知识社会要求学生掌握[[Problem Solving|问题解决]]、创造性思维与批判性思维等高阶认知能力，以及沟通、协作与领导等社会技能（Johnson & Johnson, 2009; Klang et al., 2020）。（p. 1）
 > - 既有一阶元分析多局限于单一国家（如 Stanczak et al., 2022 局限于瑞士；Tanjung et al., 2022 局限于印尼）、单一学科（如 Çapar & Tarım, 2015 局限于数学）或单一[[Dependent Variable|结果变量]]（Gürdoğan-Bayır & Bozkurt, 2018 仅关注学业成就），容易产生[[Document|文献]]产出与地点偏倚。（p. 2）
 > - 一阶元分析通过合并原始实证研究降低了一阶抽样误差，但由于纳入研究数量有限，仍残留着显著的二阶抽样误差（Schmidt & Oh, 2013）。（p. 2）
 

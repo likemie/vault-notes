@@ -28,6 +28,7 @@ tags:
 related_concepts:
   - "[[Graduate Attributes]]"
   - "[[Critical Thinking]]"
+  - "[[Problem Solving]]"
   - "[[Hypothesis]]"
   - "[[Higher-Order Thinking Skills]]"
 related_theories: []
@@ -55,7 +56,7 @@ updated: 2026-08-27
 > [!instrument-profile] [[Graduate Attributes|graduate skills]] Assessment（GSA）
 > - **工具类型** 国家级大学毕业生通用素养能力测验（National Generic Graduate Skills Assessment）。
 > - **开发者与年份** [[Australian Council for Educational Research|澳大利亚教育研究委员会]]（Australian Council for Educational Research, ACER, 2002）/ Sam Hambur et al.
-> - **测量目的** 评估澳大利亚高校本科毕业生在通识[[Critical Thinking|批判性思维]]、问题解决与书面表达方面的通用可迁移技能，为大学增值与雇主选拔提供客观基准。
+> - **测量目的** 评估澳大利亚高校本科毕业生在通识[[Critical Thinking|批判性思维]]、[[Problem Solving|问题解决]]与书面表达方面的通用可迁移技能，为大学增值与雇主选拔提供客观基准。
 > - **实施方式** 纸笔测试或计算机机考（[[Multiple-Choice Questions|多项选择题]] 2 小时 + 写作 1 小时）。
 
 ---
@@ -68,7 +69,7 @@ updated: 2026-08-27
 > | 维度 | 题项数 / 任务 | 测量内容 | 计分方式 |
 > |---|---|---|---|
 > | **批判性思维（Critical Thinking）** | 26 题 | 评估论证结构、识别前提[[Hypothesis\|假设]]、推导有效结论并辨析替代解释。 | 机器阅卷（0–1 分） |
-> | **问题解决（Problem Solving）** | 26 题 | 分析劣构问题、提取关键约束条件并设计合理解决方案。 | 机器阅卷（0–1 分） |
+> | **[[Problem Solving\|问题解决]]（Problem Solving）** | 26 题 | 分析劣构问题、提取关键约束条件并设计合理解决方案。 | 机器阅卷（0–1 分） |
 > | **书面沟通（Written Communication）** | 2 篇短文 | 撰写命题论述小论文与实用报告，评估逻辑清晰度与论据组织力。 | 专家量规评分 |
 > | **人际理解（Interpersonal Understandings）** | 若干情境题 | 理解他人情绪意图、处理职场人际冲突与团队协作策略。 | 机器阅卷 |
 

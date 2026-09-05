@@ -10,7 +10,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 5
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#fef3c7"
@@ -21,6 +21,7 @@ tags:
   - theme/teacher-organizations
 related_concepts:
   - "[[Critical Thinking]]"
+  - "[[Problem Solving]]"
   - "[[Creativity]]"
   - "[[21st Century Skills and Competencies Discourse]]"
 related_theories: []
@@ -53,7 +54,7 @@ updated: 2026-08-25
 ## 关键文件与主张
 
 > [!claim] 核心主张
-> 2012 年发布《为全球社会培养 21 世纪学生：教育者4C指南》（Preparing 21st Century Students for a Global Society: An Educator's Guide to the "Four Cs"），把[[Critical Thinking|批判性思维]]与问题解决、沟通、协作、[[Creativity|创造力]]与创新列为学生必备的 4C 技能，是21 世纪技能话语进入美国课堂实践的代表性机构文件。[[Argument_Park_2026_TSC|(Park et al., 2026, p. 1)]]
+> 2012 年发布《为全球社会培养 21 世纪学生：教育者4C指南》（Preparing 21st Century Students for a Global Society: An Educator's Guide to the "Four Cs"），把[[Critical Thinking|批判性思维]]与[[Problem Solving|问题解决]]、沟通、协作、[[Creativity|创造力]]与创新列为学生必备的 4C 技能，是21 世纪技能话语进入美国课堂实践的代表性机构文件。[[Argument_Park_2026_TSC|(Park et al., 2026, p. 1)]]
 
 > [!policy-design]- 4C 技能框架
 > - **批判性思维与问题解决（Critical Thinking and Problem Solving）** 以证据评价、推理与决策为核心的思维技能。

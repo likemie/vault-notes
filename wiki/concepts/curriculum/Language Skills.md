@@ -10,7 +10,7 @@ aliases:
 summary: "在课程与教学论及应用语言学中，指学习者在第一语言（L1）或第二语言/外语（L2/FL）中理解、组织与表达意义的多维可测量能力构念，涵盖听、说、读、写四大技能及语法词汇、体裁结构与交际流利度。在教育技术与生成式人工智能干预实证中，该构念常作为核心产出变量，表现出对自然语言模型的强敏感性与显著促学效应（g+ = 2.331），但易受发表偏倚与小研究效应影响。"
 type: concept
 domain: "curriculum"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Metacognition]]"
   - "[[Higher-Order Thinking Skills]]"
+  - "[[Problem Solving]]"
   - "[[Cognitive Offloading]]"
   - "[[Decodification]]"
   - "[[Affective Outcomes]]"
@@ -72,7 +73,7 @@ updated: 2026-09-04
 
 > [!boundary]- 概念边界
 > - 不等于 [[Academic Achievement|学业成绩]] — 学业成绩涵盖跨学科的广泛概念理解、课程知识掌握与期末考试总分，而语言技能专指目标语言系统的听说读写与交际工具性表现。
-> - 不等于 [[Higher-Order Thinking Skills|高阶思维技能]] — 语言技能聚焦于语言符号的表层与结构化组织，技术工具可大幅提升文本语法准确性与表达流利度，但并不必然带来分析、评估与复杂问题解决等高阶心智跃迁。
+> - 不等于 [[Higher-Order Thinking Skills|高阶思维技能]] — 语言技能聚焦于语言符号的表层与结构化组织，技术工具可大幅提升文本语法准确性与表达流利度，但并不必然带来分析、评估与[[Problem Solving|复杂问题解决]]等高阶心智跃迁。
 
 ---
 
@@ -81,7 +82,7 @@ updated: 2026-09-04
 > [!contrast-table] 核心学习产出概念辨析
 > | 维度 | 语言技能 (Language Skills) | [[Academic Achievement\|学业成绩]] | [[Higher-Order Thinking Skills\|高阶思维技能]] |
 > |---|---|---|---|
-> | 核心关注 | 符号组织、句法结构、词汇运用与听说读写交际流利度 | 学科事实识记、公式推导、概念理解与期末测验分数 | 逻辑推理、批判性审视、多视角反思与劣构问题解决 |
+> | 核心关注 | 符号组织、句法结构、词汇运用与听说读写交际流利度 | 学科事实识记、公式推导、概念理解与期末测验分数 | 逻辑推理、批判性审视、多视角反思与劣构[[Problem Solving\|问题解决]] |
 > | 典型评价工具 | 托福/雅思写作量规、口语即时[[Dialogue in Education\|对话]]流利度、词汇语法测验 | 标准化学科考试、课程期末统考、平时绩点（GPA） | 真实任务表现量规、[[California Critical Thinking Skills Test\|加州批判性思维测验]]、反思辩护报告 |
 > | AI 干预敏感度 | **极高** — 自然语言模型底层基于符号概率分布，即时纠错赋能显著 | **中等** — 依赖于概念解释、例题练习与助教答疑 | **中等至审慎** — 易诱发[[Cognitive Offloading\|认知卸载]]，表面文本流畅掩盖深层推理缺陷 |
 

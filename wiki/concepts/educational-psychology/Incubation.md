@@ -10,7 +10,7 @@ aliases:
 summary: "个体在面临未决难题时，暂时停止有意识的直接思考并转向休息或无关活动，随后在无意识或偶发线索触发下产生灵感豁朗与创造性突破的认知心理现象。作为创造力四阶段模型的核心环节，它通过消退思维定势、促进无意识联想扩散与恢复认知资源，解释了创造力训练周期的倒 U 型演进规律。"
 type: concept
 domain: "educational-psychology"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Creativity Training]]"
   - "[[Attrition]]"
+  - "[[Problem Solving]]"
   - "[[Habituation]]"
   - "[[Working Memory]]"
   - "[[Emergence]]"
@@ -73,7 +74,7 @@ updated: 2026-09-03
 > - **解释边界** 孕育效应并非“无中生有”的懒惰避风港；它必须以前期密集的准备阶段（知识储备、深入表征与遭遇阻碍）为绝对前提；若前期未形成未解决的认知紧张态（Zeigarnik Effect），搁置只会导致纯粹的遗忘与知识[[Attrition|流失]]。
 
 > [!citation-card]- 关键表述：四阶段过程模型与周期倒 U 型解释（Wallas, 1926; [[Argument_Guo_2025_TSC|Guo et al., 2025]]; Sio & Ormerod, 2009）
-> 创造力是问题解决的一系列有序阶段的展开：准备（Preparation）、孕育（Incubation）、豁朗（Illumination）与验证（Verification）。在孕育阶段，尽管没有自愿且有意识的思考，但在心智潜层中，未完成的任务依然在经历潜移默化的重新排列与意义酝酿。Wallas (1926, pp. 79–82)
+> 创造力是[[Problem Solving|问题解决]]的一系列有序阶段的展开：准备（Preparation）、孕育（Incubation）、豁朗（Illumination）与验证（Verification）。在孕育阶段，尽管没有自愿且有意识的思考，但在心智潜层中，未完成的任务依然在经历潜移默化的重新排列与意义酝酿。Wallas (1926, pp. 79–82)
 >
 > 创造力干预周期的元分析表明，训练效果在 2 个月内达到峰值（$g = 0.844$），随后随时间延长而递减（$> 1$ 年降至 $g = 0.366$）。其关键机理在于：短中期训练为学生留出了吸收、整合与无意识孕育的适度心理空间；而过度拉长的单调重复训练容易引发心理倦怠、认知[[Habituation|习惯化]]固着，挤压了心智自主孕育反思的生态。[[Argument_Guo_2025_TSC|(Guo et al., 2025, pp. 6–7, 10)]]
 >
@@ -263,7 +264,7 @@ updated: 2026-09-03
 > | 条目 | 类型 | 关联方向 | 说明 |
 > |:-----|:-----|:---------|:-----|
 > | [[Creativity]] | 概念 | 过程机制 | 孕育效应是创造性灵感从无序探索向顿悟豁朗跃迁的关键中介。 |
-> | [[Creative Problem Solving]] | 理论 | 核心阶段 | 劣构问题解决遭遇僵局时，战略性抽离孕育是突破定势的关键策略。 |
+> | [[Creative Problem Solving]] | 理论 | 核心阶段 | 劣构[[Problem Solving\|问题解决]]遭遇僵局时，战略性抽离孕育是突破定势的关键策略。 |
 > | [[Creativity Training]] | 概念 | 节奏规律 | 创造力干预周期呈现倒 U 型曲线（$g = 0.844$），受孕育反思生态调控。 |
 > | [[Cognitive Flexibility]] | 概念 | 心理机制 | 孕育期消除优势错误通道，为[[Cognitive Shifting\|认知灵活性]]跨范畴检索重开大门。 |
 > | [[Working Memory]] | 概念 | 负荷释放 | 暂停思考卸载了工作记忆的高负荷压力，恢复前额叶执行资源。 |

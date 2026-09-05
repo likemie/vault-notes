@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26"
 argument_display_title: "Research Methods in Education · Ch26"
 argument_kind: "book-chapter"
-argument_related_count: 49
+argument_related_count: 50
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Received Knowledge]]"
   - "[[Computer Simulation]]"
   - "[[Virtual World]]"
+  - "[[Problem Solving]]"
   - "[[Brainstorming]]"
   - "[[Active Listening]]"
   - "[[Definition of Terms]]"
@@ -170,7 +171,7 @@ Carmel O'Sullivan 系统介绍[[Role-playing|角色扮演]]（role-playing）作
 >
 >   角色扮演被广泛用于教育与培训，并日益进入公司培训领域，用于探索变革管理、谈判技能、沟通技能、领导力技能、团队建设、演讲技能、管理培训、公开演讲、自信训练、绩效管理、客户服务、面试技能、压力管理、评估培训和媒体培训等议题。角色扮演、游戏与[[Computer Simulation|计算机模拟]]是这个更广领域的三个相关活动分支，后两类不在讨论范围，聚焦于角色扮演作为教育研究技术的使用（p. 2）。
 
-在线角色扮演是一个正在蓬勃发展的领域，许多人通过玩电子游戏或参与 SimCity、Second Life、Whyville 等网站的[[Virtual World|虚拟世界]]而投身其中。这些体验通常是娱乐性的，但也可能带来有价值的教育成果，如习得集体智慧、问题解决、战略思维、情境解读与想象性游戏的素养实践（Beach & Doerr-Stevens, 2009; 亦见 Gee, 2004; Shaffer, 2006），但线上角色扮演不在讨论范围（p. 2）。
+在线角色扮演是一个正在蓬勃发展的领域，许多人通过玩电子游戏或参与 SimCity、Second Life、Whyville 等网站的[[Virtual World|虚拟世界]]而投身其中。这些体验通常是娱乐性的，但也可能带来有价值的教育成果，如习得集体智慧、[[Problem Solving|问题解决]]、战略思维、情境解读与想象性游戏的素养实践（Beach & Doerr-Stevens, 2009; 亦见 Gee, 2004; Shaffer, 2006），但线上角色扮演不在讨论范围（p. 2）。
 
 角色扮演迄今的运用成败参半，很大程度上源于对其是什么以及如何定义的困惑。英国医学期刊（*British Medical Journal*）的一份报告（Box 26.1）揭示了这种困惑。
 

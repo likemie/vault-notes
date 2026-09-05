@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Creativity]]"
   - "[[Rating Scale]]"
+  - "[[Problem Solving]]"
   - "[[Paradigm]]"
   - "[[Inter-Rater Reliability]]"
   - "[[Creativity Assessment]]"
@@ -92,7 +93,7 @@ updated: 2026-09-03
 >
 > | 研究 | 工具版本 | 样本与用途 | 测量属性 | 关键结果 |
 > |---|---|---|---|---|
-> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | OSVM 英文应用版 | 纳入高校创造力干预元分析（涵盖 Baruah & Paulus, 2008 等），评定短期思维训练对复杂问题解决表征的促进 | 评分者一致性 Kendall W > 0.80 | 综合训练在短周期内能显著提高隐喻原创性与问题解决构念得分（$N = 10, g = 0.539$） |
+> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | OSVM 英文应用版 | 纳入高校创造力干预元分析（涵盖 Baruah & Paulus, 2008 等），评定短期思维训练对[[Problem Solving\|复杂问题解决]]表征的促进 | 评分者一致性 Kendall W > 0.80 | 综合训练在短周期内能显著提高隐喻原创性与问题解决构念得分（$N = 10, g = 0.539$） |
 > | Baruah & Paulus (2008) | OSVM 任务[[Paradigm\|范式]] | 美国高校大学生（$N = 22$），检验头脑风暴与结构化训练对个体及小组概念隐喻生成独创性的影响 | [[Inter-Rater Reliability\|评分者信度]] ICC = 0.84 | 接受显性启发式训练的被试在 OSVM 独创性维度显著优于无训练对照组 |
 
 ---

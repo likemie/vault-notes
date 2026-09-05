@@ -9,7 +9,7 @@ aliases:
 summary: "学习与学术任务在目标清晰度、解题算法、信息充分性及评价标准等维度的结构化程度。任务沿良构到劣构的连续谱分布，调节着学生的认识论信念激活、元认知监控与自我调节学习策略。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Simplicity of Knowledge]]"
   - "[[Hypothesis]]"
   - "[[Academic Achievement]]"
+  - "[[Problem Solving]]"
   - "[[Variable]]"
 related_arguments:
   - "[[Argument_Lodewyk_2007_EP]]"
@@ -104,7 +105,7 @@ updated: 2026-09-02
 > |---|---|---|---|
 > | **[[Epistemology\|认识论]]信念激活命题** | 任务结构的模糊性与复杂性决定认识论信念能否显著预测[[Academic Achievement\|学业成就]]与反思性判断 | 良构任务与劣构任务对比的教学实验情境 | [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] |
 > | **简化错觉命题** | 过度单一的良构任务会导致领域认知表征的虚假简化与迁移失败 | 基础教育中事实性工作表与程序化练习的课程设计 | Spiro et al. (1988) |
-> | **焦虑退缩命题** | 缺乏支架的高难度劣构任务会引发学生焦虑并导致学业退缩 | 开放式探究与复杂问题解决课堂 | Doyle (1983) |
+> | **焦虑退缩命题** | 缺乏支架的高难度劣构任务会引发学生焦虑并导致学业退缩 | 开放式探究与[[Problem Solving\|复杂问题解决]]课堂 | Doyle (1983) |
 
 ---
 

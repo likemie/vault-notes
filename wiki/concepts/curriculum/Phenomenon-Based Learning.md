@@ -6,7 +6,7 @@ aliases:
 summary: "芬兰课程语境中的现象本位学习，以复杂现象组织跨学科探究，强调学科深度、生活世界、协作和共同责任。"
 type: concept
 domain: "curriculum"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -16,6 +16,7 @@ related_concepts:
   - "[[Problem-Based Learning]]"
   - "[[Research Question]]"
   - "[[Ontology]]"
+  - "[[Problem Solving]]"
   - "[[Bildung]]"
   - "[[Constructivist Paradigm]]"
   - "[[Disciplina and Doctrina]]"
@@ -86,7 +87,7 @@ updated: 2026-07-09
 > | 维度 | PhBL（现象本位学习） | [[Problem-Based Learning\|PBL（问题导向学习）]] | 能力本位课程 |
 > |------|--------|----------------|----------------|
 > | **核心起点** | 真实或抽象的生活世界现象 ([[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 2, 4]]) | 预设的[[Research Question\|研究问题]]或任务情境 | 预设的技能或横向能力清单 |
-> | **学科定位** | 保留学科内部逻辑与[[Ontology\|本体论]]深度 ([[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 5]]) | 学科知识服务于问题解决 | 学科边界常被能力指标拆散并碎片化 ([[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 10]]) |
+> | **学科定位** | 保留学科内部逻辑与[[Ontology\|本体论]]深度 ([[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 5]]) | 学科知识服务于[[Problem Solving\|问题解决]] | 学科边界常被能力指标拆散并碎片化 ([[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 10]]) |
 > | **哲学根源** | [[Phenomenology\|现象学]]、[[Bildung\|教化]]哲学与教学论传统 ([[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 2]]) | 主要是认知心理学与[[Constructivist Paradigm\|建构主义]] ([[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 8]]) | 人力资本理论与新自由主义绩效管理 ([[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 9–10]]) |
 
 > [!term] 知识结构辨析：[[Disciplina and Doctrina|disciplina]] 与 Doctrina

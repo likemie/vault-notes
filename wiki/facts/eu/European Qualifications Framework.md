@@ -12,7 +12,7 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 2
+fact_related_count: 3
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ tags:
   - theme/learning-outcomes
   - theme/higher-order-thinking
 related_concepts:
+  - "[[Problem Solving]]"
   - "[[Paradigm]]"
 related_theories: []
 related_methods: []
@@ -54,7 +55,7 @@ updated: 2026-08-27
 ## 政策文本摘要
 
 > [!claim] 政策核心
-> EQF 确立了以“知识（Knowledge）、技能（Skills）与自主及责任（Responsibility and Autonomy）”为三维维度的 8 级阶梯式进阶架构，将批判性反思与创新问题解决确立为高等教育阶段（第 6–8 级）的通用核心成果。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 12–13)]]
+> EQF 确立了以“知识（Knowledge）、技能（Skills）与自主及责任（Responsibility and Autonomy）”为三维维度的 8 级阶梯式进阶架构，将批判性反思与创新[[Problem Solving|问题解决]]确立为高等教育阶段（第 6–8 级）的通用核心成果。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 12–13)]]
 
 > [!policy-design]- 8 级阶梯与高教高阶能力进阶
 > - **第 6 级（学士学位 / Bachelor）** 掌握专业前沿的高级知识；展示解决复杂和劣构问题的创新技能；在不可预测的工作语境中展现自律决策与管理责任。

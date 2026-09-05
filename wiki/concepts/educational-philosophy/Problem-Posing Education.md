@@ -8,7 +8,7 @@ aliases:
 summary: "保罗·弗莱雷与批判教育学提出的核心教学范式，作为储蓄式教育的替代方案，主张教育者提出与学生现实处境相关的问题，使师生成为批判性共同探究者。"
 type: concept
 domain: "educational-philosophy"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,6 +18,7 @@ tags:
   - theme/active-learning
   - theme/critical-thinking
 related_concepts:
+  - "[[Problem Solving]]"
   - "[[Paradigm]]"
   - "[[Banking Model of Education]]"
   - "[[Active Learning]]"
@@ -51,7 +52,7 @@ updated: 2026-07-25
 ## 定义
 
 > [!def] 核心定义
-> 提问式教育（Problem-Posing Education / 问题解决式教育）是[[Paulo Freire|保罗·弗莱雷]]（Paulo Freire）在《被压迫者教育学》中提出的核心教学[[Paradigm|范式]]，作为[[Banking Model of Education|储蓄式教育]]的正面替代方案。在 Darwish (2009) 的[[Active Learning|主动学习]]三环节模型中，提问式教育被视为激发[[Critical Thinking|批判性思维]]与能动解脱的根本机制：教育者不再自上而下灌输定论，而是将学习者的现实生存处境作为“提问”的对象，促使师生在平等[[Dialogue in Education|对话]]中转变为“批判性共同探究者”（critical co-investigators） [[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 8–9)]]。
+> 提问式教育（Problem-Posing Education / [[Problem Solving|问题解决]]式教育）是[[Paulo Freire|保罗·弗莱雷]]（Paulo Freire）在《被压迫者教育学》中提出的核心教学[[Paradigm|范式]]，作为[[Banking Model of Education|储蓄式教育]]的正面替代方案。在 Darwish (2009) 的[[Active Learning|主动学习]]三环节模型中，提问式教育被视为激发[[Critical Thinking|批判性思维]]与能动解脱的根本机制：教育者不再自上而下灌输定论，而是将学习者的现实生存处境作为“提问”的对象，促使师生在平等[[Dialogue in Education|对话]]中转变为“批判性共同探究者”（critical co-investigators） [[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 8–9)]]。
 
 > [!concept-lens] 概念透镜
 > - **含义** 拒绝将知识视为自认为有知识者赐予一无所知者的预制礼物，主张知识是在人与世界的互动及问题解决中不断生成的。

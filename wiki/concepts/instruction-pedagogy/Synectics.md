@@ -9,10 +9,10 @@ aliases:
 summary: "由威廉·戈登创立的系统性创造力隐喻与类比训练理论与方法体系，以“使陌生变得熟悉，使熟悉变得陌生”为核心认知原则。通过直接类比、拟人类比、象征类比与幻想类比四大结构化操作支架，引导学习者在不同知识域与情感体验之间构建深层隐喻桥梁，系统克服功能固着并实现创造性飞跃。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - theme/instruction
   - theme/creativity
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Creativity Training]]"
   - "[[Emergence]]"
   - "[[Document]]"
+  - "[[Problem Solving]]"
   - "[[Brainstorming]]"
   - "[[SCAMPER]]"
   - "[[Making the Familiar Strange]]"
@@ -76,7 +77,7 @@ updated: 2026-09-03
 > [!citation-card]- 关键表述：提喻法的认知哲学与操作法则（Gordon, 1961; Prince, 1970; [[Argument_Guo_2025_TSC|Guo et al., 2025]]）
 > 创造力是使陌生事物变熟悉、使熟悉事物变陌生的艺术。传统的理性思维把我们禁锢在‘熟悉’的牢笼中；提喻法正是通过具身拟人类比与充满矛盾的象征意象，强迫我们的潜意识情感参与解题，从而撕开理性的缝隙，让不可思议的全新构想[[Emergence|涌现]]出来。Gordon (1961, pp. 1–12)
 >
-> 历史[[Document|文献]]系统回顾确立了主要的创造力干预流派，包括创造性问题解决（CPS）、生产性思维计划、[[Brainstorming|头脑风暴]]伙伴项目以及提喻法（Synectics）；这些系统化方案共同证实了运用多样化思维技巧进行显性练习能够显著跃升学习者的创造力潜能。[[Argument_Guo_2025_TSC|(Guo et al., 2025, p. 3)]]
+> 历史[[Document|文献]]系统回顾确立了主要的创造力干预流派，包括创造性[[Problem Solving|问题解决]]（CPS）、生产性思维计划、[[Brainstorming|头脑风暴]]伙伴项目以及提喻法（Synectics）；这些系统化方案共同证实了运用多样化思维技巧进行显性练习能够显著跃升学习者的创造力潜能。[[Argument_Guo_2025_TSC|(Guo et al., 2025, p. 3)]]
 
 > [!boundary]- 概念边界辨析
 > - **不等于 自由头脑风暴（Brainstorming）** 头脑风暴提倡完全自由、非受控地提出尽可能多的点子；提喻法则是高度受控、由引导者严格带领在“直接类比、拟人感受、矛盾词组”之间层层递进的结构化深潜过程。

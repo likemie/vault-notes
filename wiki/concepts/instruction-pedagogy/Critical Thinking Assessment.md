@@ -8,7 +8,7 @@ aliases:
 summary: "批判性思维测评是对个体在论证分析、证据评价、推论构建与反思判断等高阶认知技能及求真探究倾向的操作化测量与促学评价；在教育与心理研究中用于量化学业增益、诊断思维短板并检验课程对齐与构念效度。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 66
+related_count: 67
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -47,6 +47,7 @@ related_concepts:
   - "[[Surface and Deep Learning]]"
   - "[[Interaction Effect]]"
   - "[[Executive Function]]"
+  - "[[Problem Solving]]"
   - "[[Evaluative Validity]]"
   - "[[Knowledge Questions]]"
   - "[[Task Structure]]"
@@ -182,7 +183,7 @@ updated: 2026-08-27
 > 探讨主观自陈测量与客观表现测量在实证研究中如何影响批判性思维与其他构念的关系估计。
 
 > [!claim] Park, J. H., Myszkowski, N., & Niu, W.; Podsakoff, P. M., et al.
-> **[[Common Method Variance|共同方法变异]]与真实认知重叠的双重机制** [[Three-Level Meta-Analysis|三水平元分析]]表明，测量类型显著调节批判性思维与[[Creativity|创造力]]的相关大小（$Q_M(1) = 5.234, p = .022$）：双主观自陈测量组合的相关最高（$r = 0.509$），双客观任务表现测量组合次之（$r = 0.317$），混合测量组合相关最低（$r = 0.195 \sim 0.260$）。这一[[Interaction Effect|调节效应]]揭示了双重机制：双自陈[[Questionnaire|问卷]]的高相关受社会期望、自尊与默许等共享作答倾向所致的[[Common Method Variance|共同方法变异]]（CMV）人为放大；而双客观表现测验依然保持显著且中等强度的正相关，则证明两者在[[Executive Function|执行功能]]、评价分析与问题解决阶段存在真实的认知过程重叠。[[Argument_Park_2026_TSC|(Park et al., 2026, pp. 8–10)]]
+> **[[Common Method Variance|共同方法变异]]与真实认知重叠的双重机制** [[Three-Level Meta-Analysis|三水平元分析]]表明，测量类型显著调节批判性思维与[[Creativity|创造力]]的相关大小（$Q_M(1) = 5.234, p = .022$）：双主观自陈测量组合的相关最高（$r = 0.509$），双客观任务表现测量组合次之（$r = 0.317$），混合测量组合相关最低（$r = 0.195 \sim 0.260$）。这一[[Interaction Effect|调节效应]]揭示了双重机制：双自陈[[Questionnaire|问卷]]的高相关受社会期望、自尊与默许等共享作答倾向所致的[[Common Method Variance|共同方法变异]]（CMV）人为放大；而双客观表现测验依然保持显著且中等强度的正相关，则证明两者在[[Executive Function|执行功能]]、评价分析与[[Problem Solving|问题解决]]阶段存在真实的认知过程重叠。[[Argument_Park_2026_TSC|(Park et al., 2026, pp. 8–10)]]
 
 ### 命题三　课程嵌入式真实性评分量规是实现建构性对齐与微观促学评价的核心中枢
 

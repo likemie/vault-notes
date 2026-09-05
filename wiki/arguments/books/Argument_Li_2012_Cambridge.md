@@ -7,7 +7,7 @@ title: "Argument_Li_2012_Cambridge"
 argument_key: "Argument_Li_2012_Cambridge"
 argument_display_title: "Cultural Foundations of Learning: East and West"
 argument_kind: "book"
-argument_related_count: 146
+argument_related_count: 147
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Ideal Learner]]"
   - "[[Questionnaire]]"
   - "[[Parental Cognitive and Affective Socialization]]"
+  - "[[Problem Solving]]"
   - "[[Faust]]"
   - "[[Mind-Oriented Learning Process]]"
   - "[[Virtue-Oriented Learning Process]]"
@@ -97,7 +98,6 @@ related_concepts:
   - "[[Intrinsic vs Extrinsic Motivation]]"
   - "[[Emic and Etic]]"
   - "[[Lifelong Learning]]"
-  - "[[IB Learner Profile]]"
   - "[[Active Learning]]"
   - "[[Chain of Evidence]]"
   - "[[Flow]]"
@@ -134,6 +134,7 @@ related_theories:
   - "[[Cultural Models]]"
   - "[[Confucian Learning Tradition]]"
   - "[[Neo-Confucianism]]"
+  - "[[Self-Determination Theory]]"
   - "[[Phenomenology]]"
   - "[[Attribution Theory]]"
   - "[[Self-Worth Theory]]"
@@ -215,7 +216,7 @@ citation_aliases:
 - **跨文化[[Survey Research|调查研究]]（Ch3, Ch5, Ch6）** 归因[[Questionnaire|问卷]]、课堂观察、家庭社会化调查、同伴态度测量、学习情感自述——多方法[[Triangulation|三角验证]]同一结论
 - **跨国评测数据（Ch3）** TIMSS 与 [[PISA]] 排名作为东亚学习成就的宏观佐证
 - **[[Mother-Child Conversation|MCC]] 方法（Ch7）** 母亲-儿童对话的三层分析——结构分析（排除"量"的差异）→ 序列分析（胜算比追踪话题流向）→ [[Discourse Analysis|话语分析]]（Vygotsky 认知支架 + Frijda/Gottman [[Parental Cognitive and Affective Socialization|情感社会化]]框架）。200 组对话，欧裔美国 vs 台湾
-- **语用学比较（Ch8）** Grice 四准则与四条东亚替代准则逐条对照；Kim 生理实验（说话时的问题解决表现与皮质醇变化）
+- **语用学比较（Ch8）** Grice 四准则与四条东亚替代准则逐条对照；Kim 生理实验（说话时的[[Problem Solving|问题解决]]表现与皮质醇变化）
 - **移民儿童学校适应比较（Ch9）**Li et al.(2010)中国移民学前儿童 vs 欧裔美国同龄人的成就比较；Yamamoto & [[Argument_Li_2012_Cambridge|Li (2012)]]两种学校情境（亚裔为主 vs 欧裔为主）中安静的不同命运
 - **个人经验作为分析工具（Ch1, Ch9）** Li 的德国学习经历、中国教师工作坊——不作为权威证据，而作为生成分析性洞察的起点
 
@@ -664,7 +665,7 @@ Li 将西方知识传统分解为四个主题，每个主题不是孤立罗列�
 > 
 > **3. 探究世界** — 学习者应保持开放的心态和自由的探究精神：观察、提问、辩论、挑战既有知识和权威（老师和专家）、自我表达。
 > 
-> **4. 理解并掌握世界作为学习的终极目标** — 最高成就表现为个人洞见、[[Creativity|创造力]]、发现和问题解决。"即使那些在日常课堂中取得较小成就的普通学习者——也会因他们的新鲜想法、有深度的提问和回答、新颖的解决方案——以及实际上任何形式的自我表达——而受到奖励和庆祝"(p.47)。
+> **4. 理解并掌握世界作为学习的终极目标** — 最高成就表现为个人洞见、[[Creativity|创造力]]、发现和[[Problem Solving|问题解决]]。"即使那些在日常课堂中取得较小成就的普通学习者——也会因他们的新鲜想法、有深度的提问和回答、新颖的解决方案——以及实际上任何形式的自我表达——而受到奖励和庆祝"(p.47)。
 
 > [!tip]- 关键洞察
 > 注意整个西方学习者模型的方向性：**从学习者指向外部世界**。心灵的各项功能——推理、好奇、探究、批判——全部投向学习者**之外**的对象。
@@ -1317,7 +1318,7 @@ Watkins and Biggs 将这一悖论系统化为一个研究议程，创造了 **[[
 >
 > 一个中国孩子拿到了妈妈选的书。他的内心对话可能完全不同："妈妈选这本书是因为她相信我能够读懂它，我不能辜负她的信任。"对他来说，被选择 = 被信任 = 责任 = 好表现。
 >
-> 在这个过程中，动机的来源不同——但动机的强度可能完全相同。西方心理学将"自主动机"视为唯一的"好"动机——但 Iyengar and Lepper 的数据暗示：只要关系是可靠的，信任可以产生与自主同样——甚至更强——的动机力量。这从根本上动摇了 Self-Determination Theory 将[[Intrinsic vs Extrinsic Motivation|内在动机与外在动机]]二元对立的普遍性假设。
+> 在这个过程中，动机的来源不同——但动机的强度可能完全相同。西方心理学将"自主动机"视为唯一的"好"动机——但 Iyengar and Lepper 的数据暗示：只要关系是可靠的，信任可以产生与自主同样——甚至更强——的动机力量。这从根本上动摇了 [[Self-Determination Theory]] 将[[Intrinsic vs Extrinsic Motivation|内在动机与外在动机]]二元对立的普遍性假设。
 
 > [!abstract] 这一步的论证作用
 > 这组研究不只是"纠正误解"。它们完成了一个更深层的论证：中国学习者有一个**与西方同样复杂、但组织原则不同**的学习过程模型。差异不在于"谁更好"——差异在于**什么被定义为"好学习"本身**。西方的定义偏重：主动参与、口头表达、批判质疑、个人选择。中国的定义偏重：渐进积累、深入理解、道德投入、关系承诺。两种定义的差异，恰好映射了第 2 章中识别的两种知识传统的核心前提。
@@ -1501,7 +1502,7 @@ Table 3.2(pp.90-91)归纳了四个维度的系统性差异：
 >
 > 5:1 的比例（83:17）说明：在欧美文化中，"学习"这个概念压倒性地由**过程**定义——学习**是**你做的事，而非你接触的内容。
 >
-> **基本层 I：[[IB Learner Profile|学习者特征]]（86%）vs 社会情境（14%）**
+> **基本层 I：学习者特征（86%）vs 社会情境（14%）**
 >
 > 学习过程分支的下一级分割，再次是 6:1 的压倒性比例。学习，首先被理解为**个人的**——个人的特征、能力、认知活动——而非社会互动或情境。这与 Figure 2.1 中 Learner 作为**独立的认识主体**向外探究世界的结构完全一致。
 >

@@ -33,6 +33,7 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Entrepreneur in Residence]]"
   - "[[Innovation Hub]]"
+  - "[[Problem Solving]]"
   - "[[Membership-based Research Consortium]]"
   - "[[Emergence]]"
   - "[[Tracking]]"
@@ -63,7 +64,7 @@ title: "Argument_Gilison_Wilson_2025_UniversityStartups"
 argument_key: "Argument_Gilison_Wilson_2025_UniversityStartups"
 argument_display_title: "University-Based Startups and Entrepreneurship: A Practical Guide for Industry Collaboration"
 argument_kind: "book"
-argument_related_count: 33
+argument_related_count: 34
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -350,7 +351,7 @@ citation_aliases:
 >
 > **第三级：拨款申请指导**。产业专家指导正在寻求 SBIR/STTR 拨款的团队——因为这类拨款的申请条件强制要求收集"客户声音"（voice of the customer），产业专家的行业视角和人脉可以直接帮助团队满足这个要求。
 >
-> **第四级：挑战与黑客马拉松**。企业发布挑战或发起学生黑客马拉松，通过问题解决和创业刺激创新。正如前面分析过的，这一步的价值主要在人才发展和品牌曝光，而非直接催生衍生企业。
+> **第四级：挑战与黑客马拉松**。企业发布挑战或发起学生黑客马拉松，通过[[Problem Solving|问题解决]]和创业刺激创新。正如前面分析过的，这一步的价值主要在人才发展和品牌曝光，而非直接催生衍生企业。
 >
 > **第五级：联盟投资与专家派驻**。企业投入资金和派驻专家，加入联盟或[[Membership-based Research Consortium|会员制研究中心]]；支持从中[[Emergence|涌现]]的衍生企业。这是 UCSB SSLEEC 模型的核心。
 >

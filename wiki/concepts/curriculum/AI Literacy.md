@@ -9,7 +9,7 @@ aliases:
 summary: "个体理解人工智能基本运作机制、能力边界与算法偏见，能够维持认识论警觉并负责任地将智能工具作为放大人类认知与高阶思维而非替代自身思考的综合素养范式。"
 type: concept
 domain: "curriculum"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[AI Hallucination]]"
   - "[[Sampling Error]]"
   - "[[Causality]]"
+  - "[[Problem Solving]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Reflexivity]]"
   - "[[Homework]]"
@@ -97,7 +98,7 @@ updated: 2026-09-02
 > | **技术底层关注** | 概率生成机制、神经网络黑箱、生成[[AI Hallucination\|幻觉]]与偏见 | 逻辑控制流、数据结构、递归与算法复杂度 | [[Sampling Error\|抽样误差]]、分布特征、相关与[[Causality\|因果关系]] | 软件界面交互、文件格式、网络协议应用 |
 > | **关键认知操作** | [[Epistemological Vigilance\|认识论警觉]]、提示词迭代、输出审订、[[Metacognition\|元认知监控]] | 任务分解、模式归纳、抽象建模、调试查错 | 趋势识别、异常值检验、统计偏误识别 | 信息筛选、格式转换、数字化协作分享 |
 > | **AI 交互中的角色** | 决定是批判性[[Dialogue in Education\|对话]]（协同）还是被动顺从（卸载） | 理解大模型架构原理与编写自动化脚本 | 评估大模型训练数据集的代表性与偏差 | 操作 ChatGPT 界面与导出文本数据 |
-> | **核心育人目标** | 维护人类认知主体性，防止[[Higher-Order Thinking Skills\|高阶思维]]外包退化 | 培养基于计算逻辑的形式化问题解决胜任力 | 培养基于数据的实证决策与量化批判意识 | 具备适应数字化社会生活的基本数字工具操作力 |
+> | **核心育人目标** | 维护人类认知主体性，防止[[Higher-Order Thinking Skills\|高阶思维]]外包退化 | 培养基于计算逻辑的形式化[[Problem Solving\|问题解决]]胜任力 | 培养基于数据的实证决策与量化批判意识 | 具备适应数字化社会生活的基本数字工具操作力 |
 
 ---
 

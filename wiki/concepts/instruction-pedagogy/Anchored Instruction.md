@@ -57,7 +57,7 @@ updated: 2026-08-25
 
 ## 概念辨析
 
-> [!contrast-table] 抛锚式教学与传统例题教学及 [[Problem-Based Learning|PBL]] 辨析
+> [!contrast-table] 抛锚式教学与传统例题教学及 PBL 辨析
 > | 维度 | 抛锚式教学（Anchored Instruction） | 传统例题示范（Worked Examples） | [[Problem-Based Learning\|问题本位学习（PBL）]] |
 > |---|---|---|---|
 > | **情境载体** | 叙事性、多媒体宏观情境故事（“锚”） | 孤立、抽象的良构文字题 | 开放、跨学科的现实生活/专业劣构问题 |

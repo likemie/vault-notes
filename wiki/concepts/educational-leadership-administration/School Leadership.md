@@ -6,7 +6,7 @@ aliases:
 summary: "围绕学校方向设定、人员发展、组织改进和关系建设展开的教育领导实践，用于理解学校如何组织改进、建立信任并支持学习环境。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,6 +18,7 @@ related_concepts:
   - "[[Transformative Leadership]]"
   - "[[Doxa]]"
   - "[[Rationalism in International Relations]]"
+  - "[[Problem Solving]]"
   - "[[Champ]]"
   - "[[Habitus]]"
   - "[[Problem-Posing Education]]"
@@ -98,7 +99,7 @@ NSW 校长培养方案体现了三种相互强化的领导力 [[Doxa]]([[Argumen
 
 - **证据本位决策（evidence-based strategies）** Scott 宣称需要"来自稳健研究的证据本位策略"，但 English 论证证据本位决策"使学校变蠢"——教学被简化为数字，"什么重要实际上由所选择的问题决定"
 - **技术-[[Rationalism in International Relations|理性主义]]（techno-rationalist approaches）** 改进通过逻辑增量实现，未能充分参与社会生活的复杂性。Bourdieu 指出理性选择在实践中几乎永远无法获得其所需条件——"时间稀缺、信息有限、替代方案定义不清、实际事务紧迫"
-- **理论与实践的工具性二分** 领导力培养被框定为"持续将理论与实践联系起来"——暗示二者分离存在，但所谓"理论"仅指"教育管理者的知识专业化和问题解决工具"
+- **理论与实践的工具性二分** 领导力培养被框定为"持续将理论与实践联系起来"——暗示二者分离存在，但所谓"理论"仅指"教育管理者的知识专业化和[[Problem Solving|问题解决]]工具"
 
 这些 doxa 通过**结构安排**被制度化和合法化：学校本位规划、择优晋升、领导力能力框架、竞争性入学领导力项目([[Argument_Eacott_2011_JEAH|Eacott, 2011, p.45]])。
 

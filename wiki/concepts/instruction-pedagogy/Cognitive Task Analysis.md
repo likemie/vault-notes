@@ -6,7 +6,7 @@ aliases:
 summary: "针对复杂学习情境的研究与教学方法，分析专家认知过程和知识结构，强调教师激活而非促进"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -18,6 +18,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Paradigm]]"
   - "[[Hypothesis]]"
+  - "[[Problem Solving]]"
   - "[[Lateral Thinking]]"
   - "[[Professional Judgment]]"
 related_theories: []
@@ -39,7 +40,7 @@ updated: '2026-05-18'
 ## 认识论立场
 
 > [!abstract] [[Epistemology|认识论]]立场
-> CTA 属于认知主义研究[[Paradigm|范式]]，[[Hypothesis|假设]]复杂任务表现可通过分析其背后的认知成分（知识组织、决策策略、问题解决路径）来理解和改进。
+> CTA 属于认知主义研究[[Paradigm|范式]]，[[Hypothesis|假设]]复杂任务表现可通过分析其背后的认知成分（知识组织、决策策略、[[Problem Solving|问题解决]]路径）来理解和改进。
 
 ## 操作步骤
 

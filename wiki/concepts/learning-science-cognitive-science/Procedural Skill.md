@@ -8,7 +8,7 @@ aliases:
 summary: "指个体在具体任务情境中应用规则、执行标准化操作序列与自动化解决良构问题的能力体系，在自适应教学微提示与刻意练习中极易实现图式编译与自动化运作。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Procedural Knowledge]]"
   - "[[Dependent Variable]]"
+  - "[[Problem Solving]]"
   - "[[Rote Learning]]"
   - "[[AI Agent in Education]]"
   - "[[Higher-Order Thinking Skills]]"
@@ -56,7 +57,7 @@ updated: 2026-08-25
 
 > [!concept-lens] 概念透镜
 > - **含义** 区别于关于事实与概念定义的“陈述性知识”（Declarative Knowledge），程序性技能表现为动态的动作图式序列，其成熟标志是摆脱意识的繁琐监控达到认知自动化（Automaticity）。
-> - **用途** 作为评估教学干预与智能技术成效的核心[[Dependent Variable|因变量]]；也是从低阶事实记忆向复杂高阶问题解决与批判性反思跨越的关键基石。
+> - **用途** 作为评估教学干预与智能技术成效的核心[[Dependent Variable|因变量]]；也是从低阶事实记忆向复杂高阶[[Problem Solving|问题解决]]与批判性反思跨越的关键基石。
 > - **边界** 程序性技能专注于良构规则应用；若脱离上位概念理解与深层批判性审视，可能退化为机械[[Rote Learning|死记硬背]]的操作主义。
 
 > [!citation-card]- 关键表述

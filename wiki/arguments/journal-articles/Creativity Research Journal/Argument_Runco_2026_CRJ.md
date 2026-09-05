@@ -28,6 +28,7 @@ related_concepts:
   - "[[Independent Variable]]"
   - "[[Variable]]"
   - "[[Academic Achievement]]"
+  - "[[Problem Solving]]"
   - "[[Dependent Variable]]"
   - "[[Effect Size]]"
   - "[[Predictive Validity]]"
@@ -112,7 +113,7 @@ title: "Argument_Runco_2026_CRJ"
 argument_key: "Argument_Runco_2026_CRJ"
 argument_display_title: "Second-order meta-analysis of the creativity research"
 argument_kind: "journal-article"
-argument_related_count: 75
+argument_related_count: 76
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -130,7 +131,7 @@ issuing_organization: ""
 
 > [!question]
 > 过去半个世纪中，心理学与教育学界积累了数以千计关于[[Creativity|创造力]]的一级实证研究与数十项一阶[[Meta-analysis|元分析]]（Meta-Analysis）。然而，各一阶元分析聚焦于狭窄子领域（如单一认知测验、特定人格特质或某类干预方案），结论分散且缺乏顶层统合，涉及两个核心科学问题：
-> 1. **创造力是否重要** 创造力在研究中作为[[Independent Variable|自变量]]或预测[[Variable|变量]]（Predictor）时，能否在全领域跨情境中稳定、有效地预测[[Academic Achievement|学业成就]]、身心健康及现实复杂问题解决等重要生活结果？
+> 1. **创造力是否重要** 创造力在研究中作为[[Independent Variable|自变量]]或预测[[Variable|变量]]（Predictor）时，能否在全领域跨情境中稳定、有效地预测[[Academic Achievement|学业成就]]、身心健康及现实[[Problem Solving|复杂问题解决]]等重要生活结果？
 > 2. **对创造力能做些什么** 创造力作为[[Dependent Variable|因变量]]或效标结果变量（Criterion / Outcome）时，在多大程度上能够被学校教育、专门思维训练、认知干预及组织环境所塑造与提升？（pp. 2–4）
 
 > [!claim] 核心主张
@@ -361,7 +362,7 @@ issuing_organization: ""
 > - **发散思维不可替代完整创造过程** 模型 1 展现出多维创造过程的回归系数（$0.16$）明显高于发散思维（$0.02$），结合亚组分析中创造过程（$r = 0.27$）与发散思维（$r = 0.14$）的差距，证实发散思维仅是观念生成子构件，单靠发散思维测验无法完整捕获创造性过程的全部效能。（pp. 6–7）
 
 > [!warrant]- 推理桥梁
-> 创造力作为预测变量时的较高效应量（$r = 0.29$），有力证明创造潜能是预测个体成就、身心适应与问题解决的关键心理指标；作为结果变量时效应量较小（$r = 0.12$），并不意味着创造力不可改变，而是反映了创造力测量长期存在的效标异质性与测量噪声。（pp. 7–8）
+> 创造力作为预测变量时的较高效应量（$r = 0.29$），有力证明创造潜能是预测个体成就、身心适应与[[Problem Solving|问题解决]]的关键心理指标；作为结果变量时效应量较小（$r = 0.12$），并不意味着创造力不可改变，而是反映了创造力测量长期存在的效标异质性与测量噪声。（pp. 7–8）
 
 ---
 
@@ -394,7 +395,7 @@ issuing_organization: ""
 >    - **[[SCAMPER]] 创新思维技法与形态分析法（Substitute, Combine, Adapt, Modify, Put to another use, Eliminate, Reverse, SCAMPER）** 运用替代、合并、改造、修改、另作他用、消除与反转七大重构算子引导概念空间系统重组，显著提升产品设计新颖性（Eberle, 1971; Scott et al., 2004）。
 >    - **六顶思考帽与[[Lateral Thinking|侧向思维]]** 训练在事实（白帽）、情感（红帽）、批判（黑帽）、收益（黄帽）、创新（绿帽）与[[Metacognition|元认知]]（蓝帽）间实现模式切换，显著改善构想评估与视角灵活性（Ma, 2009）。
 > 2. **以学习者为中心的建构主义探究教学模式**
->    - **问题驱动教学法（[[Problem-Based Learning|PBL]]）** 以真实不良结构问题为起点，通过自主探究与方案迭代推进学习，Yunita et al. (2020) 元分析（$k = 24$）证实其对学生数学创造力产生大效应促进（**$g = 0.87$**，95% 置信区间 $[0.64, 1.10]$）。
+>    - **问题驱动教学法（PBL）** 以真实不良结构问题为起点，通过自主探究与方案迭代推进学习，Yunita et al. (2020) 元分析（$k = 24$）证实其对学生数学创造力产生大效应促进（**$g = 0.87$**，95% 置信区间 $[0.64, 1.10]$）。
 >    - **跨学科 STEAM 与项目式教学** 深度融合工程与艺术，强调动手设计与实体原型制作，Suganda et al. (2021) 元分析（$k = 20$）显示对学生创造性思维技能提升达到 **$g = 0.76$**（95% 置信区间 $[0.51, 1.01]$）。
 >    - **探究式协作学习** 创设高心理安全感的小组协作环境，通过同伴观点碰撞与知识共建激发创新观念，Ramdani & Susilo (2022) 元分析（$k = 18$）报告效应量达到 **$g = 0.72$**。
 >    - **设计思维** 遵循同理心、定义、设想、原型、测试五步闭环，强调用户需求导向的创造性重构。

@@ -7,7 +7,7 @@ title: "Argument_Bouckaert_2023_OECD"
 argument_key: "Argument_Bouckaert_2023_OECD"
 argument_display_title: "The assessment of students' creative and critical thinking skills in higher education across OECD countries: A review of policies and related practices (OECD Education Working Papers No"
 argument_kind: "report"
-argument_related_count: 105
+argument_related_count: 106
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -52,6 +52,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Pre-test and Post-test]]"
   - "[[Academic Achievement]]"
+  - "[[Problem Solving]]"
   - "[[Active Learning]]"
   - "[[Computerized Adaptive Testing]]"
   - "[[Domain Specificity]]"
@@ -250,7 +251,7 @@ updated: 2026-08-28
 
 > [!chain-link] 治理工具箱机制与国际政策导向的逻辑演进
 > - **三类政策工具的功能分化与穿透力差异** 推动评价改革依赖法规、财政与信息三种基本工具：法规监管划定合规底线但侧重输入流程指标，难以穿透至微观课堂；财政支持能直接激励跨校攻关但受制于项目周期断崖；信息引导最尊重学术自治但缺乏强制执行力。（pp. 5–8）
-> - **国际资格框架确立能力与成果导向转向** 博洛尼亚进程公报与国际资格框架（[[European Qualifications Framework|欧洲资格框架]] EQF / QF-EHEA）全面确立了毕业生能力进阶标准，将独立批判思考、逻辑推理与创新问题解决纳为核心预期成果。（pp. 8–10）
+> - **国际资格框架确立能力与成果导向转向** 博洛尼亚进程公报与国际资格框架（[[European Qualifications Framework|欧洲资格框架]] EQF / QF-EHEA）全面确立了毕业生能力进阶标准，将独立批判思考、逻辑推理与创新[[Problem Solving|问题解决]]纳为核心预期成果。（pp. 8–10）
 > - **国际政策的制度留白与操作化断裂** 国际框架出于尊重各国体制与高校自治，仅设定宏观抽象的描述符而缺乏微观操作化细则，导致“能力导向宣示”与“一线学业考核”之间存在天然的制度断裂。（pp. 10–11）
 
 > [!contrast-table] 高等教育治理中三类政策工具的设计特征与运作机制对比

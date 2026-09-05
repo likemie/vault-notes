@@ -10,7 +10,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 42
+fact_related_count: 46
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -33,12 +33,14 @@ related_concepts:
   - "[[Standard Error]]"
   - "[[Variable]]"
   - "[[Complier Average Causal Effect]]"
+  - "[[Generative Artificial Intelligence]]"
+  - "[[Pre-test and Post-test]]"
+  - "[[Effect Size]]"
   - "[[Evaluator Independence]]"
   - "[[Fade-out Effect]]"
   - "[[School Leadership]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Publication Bias]]"
-  - "[[Effect Size]]"
   - "[[Paradigm]]"
   - "[[Causality]]"
   - "[[5-3-20 Rule]]"
@@ -55,6 +57,7 @@ related_methods:
   - "[[Random Assignment]]"
   - "[[Baseline Standardized Mean Difference]]"
   - "[[Covariate Adjustment]]"
+  - "[[Meta-analysis]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -71,10 +74,11 @@ related_arguments:
   - "[[Argument_Wiliam_2019_ERE]]"
   - "[[Argument_Ross_Morrison_2021_ROE]]"
   - "[[Argument_Hitchcock_2015_JBE]]"
+  - "[[Argument_Chen_Cheung_2025_ERR]]"
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-08-21
+updated: 2026-09-05
 ---
 
 # What Works Clearinghouse
@@ -136,6 +140,9 @@ updated: 2026-08-21
 >    - **差值 $\le 0.05\text{ SD}$** 视为两组基线完全等价，无需[[Covariate Adjustment|协变量控制]]即可达标。
 >    - **$0.05\text{ SD} < \text{差值} \le 0.25\text{ SD}$** 必须在统计模型中纳入前测协变量进行调整。
 >    - **差值 $> 0.25\text{ SD}$** 认定基线严重不等价，直接裁定为“未达标（Does Not Meet Standards）”。
+>
+> 3. **前沿技术[[Meta-analysis|元分析]]的实证准入迁移（[[Argument_Chen_Cheung_2025_ERR|Chen & Cheung, 2025]]）**
+>    - WWC (2022) 的基线等效性标准化均数差规程被正式引入[[Generative Artificial Intelligence|生成式人工智能]]（Gen-AI）高等教育元分析中，作为剔除低质偏倚研究的核心门槛（[[Pre-test and Post-test|前测]]组间差异 $d < 0.25$，且在 $0.05 \le d \le 0.25$ 必须进行协变量调整），成功排除了过往综述中因未控基线而虚高的研究，使校正后的合并[[Effect Size|效应量]]收敛至客观基准（$g^+ = 0.321$）。([[Argument_Chen_Cheung_2025_ERR|Chen & Cheung, 2025, pp. 8–9, 15]])
 
 ---
 
@@ -182,8 +189,8 @@ updated: 2026-08-21
 > >
 > > - **联邦政策制定者** 坚持 WWC 必须作为纯净的因果过滤器，防止低质量研究浪费纳税人资金([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p. 109]])。
 > > - **学区与[[School Leadership|学校领导]]者** 批评 WWC 缺乏**实施成本（Cost Analysis）**、**本地适配性（Local Adaptability）**与**师生接受度**信息，导致实践者无法仅凭 WWC 评级做出采购决策([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp. 120–122]])。
->
-> > [!axis] 开发者[[Conflict of Interest in Research|利益冲突]]与独立复制缺失
+> >
+> > > [!axis] 开发者[[Conflict of Interest in Research|利益冲突]]与独立复制缺失
 > > 争论 WWC 允许由干预开发者（Developers）主导的评估作为评级证据是否会引入[[Publication Bias|发表偏倚]]与[[Effect Size|效应量]]虚高([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 15]])。
 
 > [!critique] 局限性总结
@@ -203,3 +210,4 @@ updated: 2026-08-21
 > | [[Campbellian Validity Framework]] | 理论基础 | WWC 审查程序与门控机制直接奠基于 Campbellian 效度体系。 |
 > | [[5-3-20 Rule]] | 技术规程 | WWC 单一被试实验审查与综合证据认定的标志性门槛规则。 |
 > | [[ESSA 2015 Evidence Standards]] | 法律依托 | ESSA 法案将联邦教育经费分配与 WWC 评级直接绑定。 |
+> | [[Argument_Chen_Cheung_2025_ERR]] | 前沿实证迁移 | 将 WWC 2022 基线等效标准系统应用于高等教育生成式 AI 实验[[Meta-analysis\|元分析]]的代表作。 |

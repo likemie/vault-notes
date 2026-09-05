@@ -9,7 +9,7 @@ aliases:
 summary: "学习者为了达成学业目标，主动对自身的认知过程、动机体验和行为策略进行规划、监控、评价与反思性调整的循环性心理与行为系统"
 type: concept
 domain: "educational-psychology"
-related_count: 24
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Generative Artificial Intelligence]]"
   - "[[Reflexivity]]"
   - "[[Necessary and Sufficient Conditions]]"
+  - "[[Problem Solving]]"
   - "[[Learner Autonomy]]"
   - "[[Intelligent Tutoring Systems]]"
   - "[[Convergent Thinking]]"
@@ -36,20 +37,23 @@ related_concepts:
   - "[[Learning Analytics]]"
   - "[[Common Method Variance]]"
   - "[[Academic Achievement]]"
-  - "[[Effect Size]]"
   - "[[Variable]]"
+  - "[[Higher-Order Thinking Skills]]"
+  - "[[Effect Size]]"
   - "[[Creativity]]"
 related_methods:
   - "[[Triangulation]]"
+  - "[[Meta-analysis]]"
   - "[[Systematic Review]]"
 related_instruments:
   - "[[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale]]"
 related_arguments:
   - "[[Argument_Li_2026_CEAI]]"
+  - "[[Argument_Zhao_2025_JIntell]]"
 confidence: high
 status: draft
 created: 2026-08-31
-updated: 2026-08-31
+updated: 2026-09-05
 ---
 
 # Self-Regulated Learning
@@ -135,8 +139,8 @@ updated: 2026-08-31
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **外部支架依赖** | 显性反思提示是技术中介环境中触发自我调节的[[Necessary and Sufficient Conditions\|必要条件]] | 探究式任务、人机写作与问题解决 | [[Argument_Li_2026_CEAI\|Li et al. (2026)]]; Yang et al. (2025); Shen & Chen (2025) |
-> | **认知主体性防御** | 自我调节能力能够阻断心智外包与技术盲从 | 开放式生成任务与在线[[Learner Autonomy\|自主学习]] | [[Argument_Li_2026_CEAI\|Li et al. (2026)]]; Zimmerman (2002); Azevedo et al. (2010) |
+> | **外部支架依赖** | 显性反思提示是技术中介环境中触发自我调节的[[Necessary and Sufficient Conditions\|必要条件]] | 探究式任务、人机写作与[[Problem Solving\|问题解决]] | [[Argument_Li_2026_CEAI\|Li et al. (2026)]]; Yang et al. (2025); Shen & Chen (2025) |
+> | **认知主体性防御** | 自我调节能力能够阻断心智外包与技术盲从 | 开放式生成任务与在线[[Learner Autonomy\|自主学习]] | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]]; Zimmerman (2002); Azevedo et al. (2010) |
 
 ---
 
@@ -167,6 +171,13 @@ updated: 2026-08-31
 
 ## 实证数据
 
+> [!ma-table]- 一阶[[Meta-analysis|元分析]]互补维度亚组
+> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+>
+> | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025, p. 11)]] | 调节[[Variable\|变量]]（学习者个体调节特征） | 高 SRL 能力组 vs 低 SRL 能力组（生成式 AI 对[[Higher-Order Thinking Skills\|高阶思维]]促进效应） | 高 SRL $k=31$；低 SRL $k=25$（总 $k=56$） | 高 SRL $g = 0.863$ $[0.679, 1.048]$；低 SRL $g = 0.284$ $[0.188, 0.380]$ | $Q_b = 40.962, df = 1, p < 0.001$ | 自主调节能力是决定生成式技术促学成效的核心个体分水岭，高自律学生更能批判性整合 AI 生成信息 |
+
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -179,4 +190,5 @@ updated: 2026-08-31
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] — 运用随机效应[[Meta-analysis|元分析]]检验生成式 AI 促进学生[[Higher-Order Thinking Skills|高阶思维]]的调节机制，实证确立自主调节学习能力构成极其显著的分流门槛（$Q_b = 40.962, p < 0.001$），高自律水平学生获得大效应提升（$g = 0.863$），而低自律学生促学成效微弱（$g = 0.284$）。
 > - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — [[Systematic Review|系统综述]] 67 项实证研究，将自我调节学习确立为人机协同中实现批判性与[[Creativity|创造性思维]]双向增益的核心认知机制。

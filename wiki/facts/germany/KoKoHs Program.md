@@ -11,7 +11,7 @@ subtype: policy
 region: germany
 fact_region: "germany"
 fact_kind: "policy"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Domain Specificity]]"
   - "[[Paradigm]]"
   - "[[Critical Thinking]]"
+  - "[[Problem Solving]]"
 related_theories:
   - "[[Item Response Theory]]"
 related_methods: []
@@ -65,7 +66,7 @@ updated: 2026-08-27
 
 > [!policy-design]- 政策设计
 > - **目标** 突破高等教育能力不可测的传统迷思，建立兼具[[Domain Specificity|学科特异性]]与跨学科通用性的严谨测量[[Paradigm|范式]]。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 16)]]
-> - **对象** 经济学、工程学、医学、教师教育等专业领域以及全德大学生的通用[[Critical Thinking|批判性思维]]与复杂问题解决能力。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 16–17)]]
+> - **对象** 经济学、工程学、医学、教师教育等专业领域以及全德大学生的通用[[Critical Thinking|批判性思维]]与[[Problem Solving|复杂问题解决]]能力。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 16–17)]]
 > - **工具** 国家竞争性专项科研基金、跨校协作研究联合体、计算机自适应测试平台与多维统计分析技术。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 17)]]
 > - **约束方式** 国家科研项目资助、学术同行评议、开放工具库共享与常模数据集发布。
 

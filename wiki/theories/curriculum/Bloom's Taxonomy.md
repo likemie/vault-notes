@@ -11,7 +11,7 @@ aliases:
 summary: "将教育目标与学习产出按认知、情感与动作技能三领域分层解构的经典课程与评价理论框架，认知领域以六级思维阶梯（识记、理解、应用、分析、评价、创造）与二维知识-认知过程矩阵为核心，支撑教学设计、目标对齐与实证测量。"
 type: theory
 theory_field: "curriculum"
-theory_related_count: 34
+theory_related_count: 35
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Dialogue in Education]]"
   - "[[Structured Teaching]]"
+  - "[[Problem Solving]]"
   - "[[Critical Thinking]]"
   - "[[International Baccalaureate]]"
   - "[[IB Diploma Programme]]"
@@ -165,7 +166,7 @@ updated: 2026-08-25
 
 > [!theory-boundary] 适用边界
 > - **适合解释** [[Structured Teaching|结构化教学]]设计、课程标准命令词对齐、认知测验题型分层与教学干预的分维效能评估。
-> - **谨慎使用** 复杂情感体验、审美感知及跨学科劣构问题解决，其动态非线性特征易被静态六级分类窄化。
+> - **谨慎使用** 复杂情感体验、审美感知及跨学科劣构[[Problem Solving|问题解决]]，其动态非线性特征易被静态六级分类窄化。
 > - **不适合解释** 潜意识直觉、具身动作自动化反应及社会文化情境下的权力关系重构。
 > - **常见误用** 将动词词表机械套用于表层文本，误以为只要包含分析或评价字眼就自动代表[[Higher-Order Thinking Skills|高阶思维]]产生；忽视动词所作用的具体知识深度与任务情境。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, p. 35)]]
 

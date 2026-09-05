@@ -24,6 +24,7 @@ tags:
   - theme/problem-solving
   - method/measurement
 related_concepts:
+  - "[[Problem Solving]]"
   - "[[Questionnaire]]"
   - "[[Self-Efficacy]]"
   - "[[Creativity Training]]"
@@ -49,7 +50,7 @@ updated: 2026-09-03
 
 ## 工具定位
 
-> [!instrument-profile] Problem Solving Inventory (PSI)
+> [!instrument-profile] [[Problem Solving]] Inventory (PSI)
 > - **工具类型** 心理自陈[[Questionnaire|问卷]]（问题解决[[Self-Efficacy|自我效能]]与应对风格量表）。
 > - **开发者与年份** Heppner & Petersen (1982)。
 > - **测量目的** 测定个体感知到的自身在面对真实生活与学术问题时的应对效能、行为倾向与情绪控制感。
@@ -59,7 +60,7 @@ updated: 2026-09-03
 
 ## 测量构念与维度
 
-> [!construct-table] 问题解决自我感知与认知应对风格
+> [!construct-table] [[Problem Solving|问题解决]]自我感知与认知应对风格
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
 >
 > | 维度 | 题项数 | 测量内容 | 计分方式 |
@@ -73,7 +74,7 @@ updated: 2026-09-03
 ## 题项与作答方式
 
 > [!instrument-items] 作答规则
-> - **题项形式** 针对日常问题解决信念、认知反思与行动策略的第一人称陈述句。
+> - **题项形式** 针对日常[[Problem Solving|问题解决]]信念、认知反思与行动策略的第一人称陈述句。
 > - **作答格式** 6 点李克特（Likert）量表（1 = 强烈同意，2 = 比较同意，3 = 略微同意，4 = 略微不同意，5 = 比较不同意，6 = 强烈不同意）。
 > - **反向题与跳题** 包含 15 道正向表述题与 17 道反向表述题；另含 3 道效度核查题（第 9、15、29 题不计入总分）；原始计分中总分越低代表问题解决能力自我评价越高。
 

@@ -11,7 +11,7 @@ subtype: policy
 region: europe
 fact_region: "europe"
 fact_kind: "policy"
-fact_related_count: 9
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ tags:
   - theme/higher-education-governance
   - level/higher-education
 related_concepts:
+  - "[[Problem Solving]]"
   - "[[Critical Thinking]]"
   - "[[Dialogue in Education]]"
   - "[[Lifelong Learning]]"
@@ -60,7 +61,7 @@ updated: 2026-08-28
 ## 政策文本摘要
 
 > [!claim] 政策核心
-> 都柏林描述符构建了涵盖五大通用维度的阶梯式素养进阶体系，在学士（第 1 周期）、硕士（第 2 周期）与博士（第 3 周期）各层级明确将批判性反思与创新问题解决确立为法定毕业资质。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 12–14, 27)]]
+> 都柏林描述符构建了涵盖五大通用维度的阶梯式素养进阶体系，在学士（第 1 周期）、硕士（第 2 周期）与博士（第 3 周期）各层级明确将批判性反思与创新[[Problem Solving|问题解决]]确立为法定毕业资质。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 12–14, 27)]]
 
 > [!policy-design]- 五大通用维度与三级学位进阶标准
 > - **1. 知识与理解（Knowledge and Understanding）**

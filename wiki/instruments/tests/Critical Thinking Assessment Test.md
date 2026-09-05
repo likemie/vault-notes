@@ -32,6 +32,7 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Reliability]]"
   - "[[Creativity]]"
+  - "[[Problem Solving]]"
 related_theories:
   - "[[Creative Problem Solving]]"
 related_methods:
@@ -72,7 +73,7 @@ updated: 2026-08-27
 > |---|---|---|---|
 > | **评估与利用信息（Evaluating Information）** | 4 题 | 识别有缺陷的因果断言、评估证据来源的可[[Reliability\|信度]]并识别隐含前提。 | 量规阶梯打分（0–2/3 分） |
 > | **[[Creativity\|创造性]]问题解决（Creative Problem Solving）** | 4 题 | 生成创新替代解决方案、整合多源信息并克服常规思维定势。 | 量规阶梯打分（0–3/4 分） |
-> | **从新信息中学习与推理（Learning and Problem Solving）** | 4 题 | 将新证据与先验知识结合、调整初步结论并推导合逻辑推论。 | 量规阶梯打分（0–2/3 分） |
+> | **从新信息中学习与推理（Learning and [[Problem Solving]]）** | 4 题 | 将新证据与先验知识结合、调整初步结论并推导合逻辑推论。 | 量规阶梯打分（0–2/3 分） |
 > | **有效沟通（Communication）** | 3 题 | 清晰阐述复杂论证理由、解释分析路径并撰写结构严谨的论据摘要。 | 量规阶梯打分（0–2 分） |
 
 ---

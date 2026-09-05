@@ -7,7 +7,7 @@ aliases:
 summary: "IB 知识论课程中用于追问个体与共同体如何获得、建构和审查知识的课程分类框架；它连接认知者、知识主张与知识领域，并随指南版本由四项扩展为八项。"
 type: concept
 domain: "curriculum"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Domain Analysis]]"
   - "[[Critical Thinking]]"
   - "[[Hypothesis]]"
+  - "[[Problem Solving]]"
   - "[[Knowledge Questions]]"
   - "[[Causality]]"
   - "[[Reliability]]"
@@ -67,7 +68,7 @@ updated: 2026-08-04
 > [!boundary]- 概念边界
 > - **知识领域** 认知方式回答认知活动如何发生，[[Areas of Knowledge|知识领域]]说明知识主要在哪些学科与传统中被建构。
 > - **[[Knowledge Framework|知识框架]]** [[Knowledge Framework|知识框架]]用于比较某个知识领域的范围、概念、方法、历史发展和个人知识关系；认知方式提供跨[[Domain Analysis|领域分析]]时可调用的认识维度。
-> - **[[Critical Thinking|批判性思维]]技能** 认知方式能够支持分析、推论和论证，但分类本身没有系统覆盖来源评价、[[Hypothesis|假设]]检验、决策、问题解决与创造等全部[[Critical Thinking|批判性思维]]活动。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 36–38, 41–43)]]
+> - **[[Critical Thinking|批判性思维]]技能** 认知方式能够支持分析、推论和论证，但分类本身没有系统覆盖来源评价、[[Hypothesis|假设]]检验、决策、[[Problem Solving|问题解决]]与创造等全部[[Critical Thinking|批判性思维]]活动。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 36–38, 41–43)]]
 
 ---
 
@@ -146,7 +147,7 @@ updated: 2026-08-04
 > 认知方式要求学生分析知识如何形成、表达和受到限制，直接服务于[[Epistemology|认识论]]问题。它也能引发[[Critical Thinking|批判性思维]]，但与完整批判性思维[[Construct|构念]]之间仍有范围差异。
 
 > [!claim] Hughes, C.
-> **课程结构的认识论重心** ToK 以认知方式、[[Areas of Knowledge|知识领域]]、知识主张和[[Knowledge Questions|知识问题]]组织课程，主要关注个人与共同体如何[[Constructed Knowledge|建构知识]]。该结构能够隐含分析、推论和论证，却较少直接要求问题解决、来源评价、决策和创造。认知方式因而更适合被理解为认识论分析工具，而非批判性思维技能的完整分类。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 35–38, 41–43)]]
+> **课程结构的认识论重心** ToK 以认知方式、[[Areas of Knowledge|知识领域]]、知识主张和[[Knowledge Questions|知识问题]]组织课程，主要关注个人与共同体如何[[Constructed Knowledge|建构知识]]。该结构能够隐含分析、推论和论证，却较少直接要求[[Problem Solving|问题解决]]、来源评价、决策和创造。认知方式因而更适合被理解为认识论分析工具，而非批判性思维技能的完整分类。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 35–38, 41–43)]]
 
 > [!claim] Darwish, M.
 > **认知者经验进入课程** 认知者被置于认知方式与知识领域的中心，使学生的经验、文化位置和解释活动成为知识探究材料。这一安排拒绝把学习者处理为空白接收者，为主动质疑知识来源与可靠性提供课程入口。[[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 12–17, 72)]]
@@ -188,7 +189,7 @@ updated: 2026-08-04
 > - **版本固化** 将四项或八项分类写成稳定不变的心理学体系，会掩盖它们作为课程设计工具的历史版本差异。
 > - **分类孤立** 分项教学有助于概念澄清，也可能使学生忽略感知、情感、语言、理性、记忆和其他资源在实际判断中的联动。
 > - **[[Construct|构念]]替代** 评分若关注认知方式名称和跨项连接，可能把术语熟练度当作[[Epistemology|认识论]]反思或[[Critical Thinking|批判性思维]]表现。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, pp. 171–173)]]
-> - **技能覆盖不足** 理解 WOK 的作用和探索结构联系偏向接受、分析与比较，尚未系统[[Operationalization|操作化]]来源核查、[[Hypothesis|假设]]检验、不确定性判断、决策、问题解决和创造。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 37–43)]]
+> - **技能覆盖不足** 理解 WOK 的作用和探索结构联系偏向接受、分析与比较，尚未系统[[Operationalization|操作化]]来源核查、[[Hypothesis|假设]]检验、不确定性判断、决策、[[Problem Solving|问题解决]]和创造。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 37–43)]]
 
 > [!warning] 解释边界
 > Hughes 的分析对象是 2013 年 ToK 指南，Darwish 讨论的是 2007 年课程材料。两套分类应按版本解释。指南文本能够说明书面课程如何定义和评估认知方式，无法单独确定真实课堂中各项方式的使用质量。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 31, 35–36)]]

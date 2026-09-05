@@ -8,7 +8,7 @@ aliases:
 summary: "由爱德华·德·博诺开创的非线性思维范式与创造性构想生成体系，直接对标并互补于传统“垂直思维（逻辑推导）”。主张打破大脑自组织神经模式的固有凹槽，通过激发（PO）、随机输入与概念挑战等启发式技术，强迫认知系统横向跳跃至非常规切入点以实现观念重构与顿悟突破。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -20,6 +20,7 @@ tags:
   - cognition/learning-science
 related_concepts:
   - "[[Cognitive Flexibility]]"
+  - "[[Problem Solving]]"
   - "[[Divergent Thinking]]"
   - "[[Brainstorming]]"
   - "[[Mind Mapping]]"
@@ -69,7 +70,7 @@ updated: 2026-09-03
 > [!citation-card]- 关键表述：垂直思维与水平思考的根本分野（de Bono, 1970; [[Argument_Guo_2025_TSC|Guo et al., 2025]]）
 > 垂直思维用于发展和深化已有的观念，就像不断把同一个洞挖得更深；而水平思考用于寻找全新的观念，它关注在别处开挖全新的洞。垂直思维每一步都必须是正确的，水平思考则允许为了打破僵局而踏上完全错误或荒谬的中间跳板。de Bono (1970, pp. 7–14)
 >
-> 思维训练聚焦于改善个体的认知灵活性、问题解决能力与[[Divergent Thinking|发散思维]]；通过[[Brainstorming|头脑风暴]]、侧向思维谜题与[[Mind Mapping|思维导图]]等结构化练习，思维训练有效激发了心智敏捷性，促使参与者打破认知偏见与经验固着，探索突破常规的新颖解决方案。[[Argument_Guo_2025_TSC|(Guo et al., 2025, p. 10)]]
+> 思维训练聚焦于改善个体的认知灵活性、[[Problem Solving|问题解决能力]]与[[Divergent Thinking|发散思维]]；通过[[Brainstorming|头脑风暴]]、侧向思维谜题与[[Mind Mapping|思维导图]]等结构化练习，思维训练有效激发了心智敏捷性，促使参与者打破认知偏见与经验固着，探索突破常规的新颖解决方案。[[Argument_Guo_2025_TSC|(Guo et al., 2025, p. 10)]]
 
 > [!boundary]- 概念边界辨析
 > - **不等于 垂直思维（Vertical Thinking / 线性逻辑）** 垂直思维追求绝对的因果必然性与无矛盾性，每一步严丝合缝；侧向思维追求多向度的可能性与新异性，鼓励跳跃与非连续性重组。
@@ -202,7 +203,7 @@ updated: 2026-09-03
 > | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | **【干预[[Variable\|变量]]】** 包含侧向思维谜题与发散练习在内的思维训练对大学生[[Creativity\|创造力]]表现的总体促学效应 | $N = 31$ 个效应量 / $k = 29$ 原生研究 | Hedges' $g$ / 多层随机效应模型 | **$g = 0.762$** $[0.386, 1.138]$ | $SE = 0.191, Z = 3.987 (p < .001)$；组间异质性显著 | 证实聚焦侧向思维与认知灵活性的结构化练习能强效促进综合创造表现 |
-> | Ding et al. (2014) | **【干预变量】** [[Edward de Bono\|德·博诺]] CoRT 思维工具与侧向思维训练课程对学生认知技能发展的元分析综合 | $k = 18$ 项实证干预 / $N \approx 1,850$ | Cohen's $d$ / 随机效应模型 | **$d = 0.58$** $[0.41, 0.75]$ | 异质性中等 | 证实系统讲授德·博诺水平思考策略对批判性与发散性问题解决具有中等偏强促进 |
+> | Ding et al. (2014) | **【干预变量】** [[Edward de Bono\|德·博诺]] CoRT 思维工具与侧向思维训练课程对学生认知技能发展的元分析综合 | $k = 18$ 项实证干预 / $N \approx 1,850$ | Cohen's $d$ / 随机效应模型 | **$d = 0.58$** $[0.41, 0.75]$ | 异质性中等 | 证实系统讲授德·博诺水平思考策略对批判性与发散性[[Problem Solving\|问题解决]]具有中等偏强促进 |
 
 > [!ma-table]- 一阶元分析互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>

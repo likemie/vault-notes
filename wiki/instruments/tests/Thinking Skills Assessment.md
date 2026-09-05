@@ -24,6 +24,7 @@ tags:
   - admission-test
 related_concepts:
   - "[[Critical Thinking]]"
+  - "[[Problem Solving]]"
   - "[[Hypothesis]]"
 related_theories: []
 related_methods:
@@ -49,14 +50,14 @@ updated: 2026-08-27
 > [!instrument-profile] Thinking Skills Assessment（TSA）
 > - **工具类型** 高利害大学本科入学思维能力选拔测验（High-Stakes Thinking Skills Admissions Test）。
 > - **开发者与年份** 剑桥大学考评部（Cambridge Assessment Admissions Testing, 2001）。
-> - **测量目的** 评估申请牛津大学（经济管理、PPE、心理学等专业）、剑桥大学及伦敦大学学院（UCL）考生的[[Critical Thinking|批判性思维]]与高阶问题解决潜能。
+> - **测量目的** 评估申请牛津大学（经济管理、PPE、心理学等专业）、剑桥大学及伦敦大学学院（UCL）考生的[[Critical Thinking|批判性思维]]与高阶[[Problem Solving|问题解决]]潜能。
 > - **实施方式** 计算机机考或纸笔测试（共 120 分钟：Section 1 限时 90 分钟，Section 2 限时 30 分钟）。
 
 ---
 
 ## 测量构念与维度
 
-> [!construct-table] [[Critical Thinking|批判性思维]]与问题解决潜能
+> [!construct-table] [[Critical Thinking|批判性思维]]与[[Problem Solving|问题解决]]潜能
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
 >
 > | 维度 | 题项数 | 测量内容 | 计分方式 |

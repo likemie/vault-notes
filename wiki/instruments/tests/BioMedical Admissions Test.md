@@ -25,6 +25,7 @@ tags:
 related_concepts:
   - "[[Critical Thinking]]"
   - "[[Hypothesis]]"
+  - "[[Problem Solving]]"
   - "[[Data Transformation]]"
 related_theories: []
 related_methods:
@@ -64,7 +65,7 @@ updated: 2026-08-27
 > | 维度 | 题项数 | 测量内容 | 计分方式 |
 > |---|---|---|---|
 > | **批判性思维（Critical Thinking）** | 16 题 | 识别核心结论、辨析未言明[[Hypothesis\|假设]]、评估对立论据影响、识别推理漏洞与平行论证。 | 机器阅卷标定分（1.0–9.0 量表分） |
-> | **问题解决（Problem Solving）** | 16 题 | 定量推理、空间几何分析、[[Data Transformation\|数据转换]]、寻找最优决策路径。 | 机器阅卷标定分（1.0–9.0 量表分） |
+> | **[[Problem Solving\|问题解决]]（Problem Solving）** | 16 题 | 定量推理、空间几何分析、[[Data Transformation\|数据转换]]、寻找最优决策路径。 | 机器阅卷标定分（1.0–9.0 量表分） |
 > | **科学知识与应用（Section 2）** | 27 题 | 中等阶段生物、化学、物理与数学知识的综合运用。 | 机器阅卷标定分（1.0–9.0 量表分） |
 > | **写作与论证沟通（Section 3）** | 1 篇小论文 | 针对科学、哲学或医学伦理命题构建清晰立论、辨析正反论据并得出合逻辑结论。 | 专家量规打分（内容分 1–5 分 + 语言分 A–E 级） |
 

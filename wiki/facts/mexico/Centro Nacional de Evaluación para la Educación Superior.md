@@ -10,9 +10,9 @@ subtype: organization
 region: mexico
 fact_region: "mexico"
 fact_kind: "organization"
-fact_related_count: 4
+fact_related_count: 5
 fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_stars: ""
 fact_related_color: "#dcfce7"
 issuing_organization: "CENEVAL"
 tags:
@@ -22,6 +22,7 @@ tags:
   - theme/higher-order-thinking
 related_concepts:
   - "[[Academic Achievement]]"
+  - "[[Problem Solving]]"
   - "[[Critical Thinking]]"
 related_theories:
   - "[[Item Response Theory]]"
@@ -55,7 +56,7 @@ updated: 2026-08-27
 
 > [!feature] 全国考试体系与通用思辨模块
 > - **全国入学选拔考试系列（EXANI）** 组织实施高中升大学（EXANI-II）与研究生准入（EXANI-III）全国统考；其中 EXANI-III 专设通用认知技能模块，深入测查逻辑数学推理、分析性阅读、批判性论据辨析与书面沟通表达。
-> - **本科[[Academic Achievement|学业成就]]与毕业统考系列（EGEL）** 覆盖医学、法学、工程、商学等数十个专业领域，评估应届本科毕业生对核心专业知识与高阶临床/工程问题解决能力的掌握程度。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 23)]]
+> - **本科[[Academic Achievement|学业成就]]与毕业统考系列（EGEL）** 覆盖医学、法学、工程、商学等数十个专业领域，评估应届本科毕业生对核心专业知识与高阶临床/工程[[Problem Solving|问题解决能力]]的掌握程度。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 23)]]
 > - **心理测量学研发与标准化题库** 拥有覆盖拉美地区最庞大的试题库与多维度[[Item Response Theory|项目反应理论]]（IRT）计算机标定平台。
 
 ---

@@ -9,7 +9,7 @@ aliases:
 summary: "指在开放或不良结构情境中主动识别、界定、重构与提出潜在创造性问题的认知加工过程，是创造过程的前端核心驱动力。"
 type: concept
 domain: "educational-psychology"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -19,6 +19,7 @@ tags:
   - topic/cognition
 related_concepts:
   - "[[Creativity]]"
+  - "[[Problem Solving]]"
   - "[[Divergent Thinking]]"
   - "[[Variable]]"
   - "[[Effect Size]]"
@@ -62,7 +63,7 @@ updated: 2026-08-24
 > [!concept-lens] 概念透镜
 > - **含义** 指向[[Creativity|创造性]]思维从“被动接收现成问题”向“主动重构与发现未知问题”的高阶认知跃迁。
 > - **用途** 帮助研究者超越单纯的观念生成数量，揭示为何高水平创造者能够在常人忽视的日常情境中开辟新领域。
-> - **边界** 不等同于良结构情境中的常规问题解决（Problem Solving）；常规解题关注从已知条件推导预设答案，而问题发现关注问题本身的定义与重塑。
+> - **边界** 不等同于良结构情境中的常规[[Problem Solving|问题解决]]（Problem Solving）；常规解题关注从已知条件推导预设答案，而问题发现关注问题本身的定义与重塑。
 
 > [!citation-card]- 关键表述
 > [[Divergent Thinking|发散思维]]仅是创造过程的一个组成部分；当把发散思维与其他创造过程[[Variable|变量]]（如问题发现与灵活性）整合在一起时，[[Effect Size|效应量]]显著上升至 0.27。因此，考察全部过程变量相较于只关注单一发散思维，能够提供更充沛的信息量。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, p. 8)]]
@@ -77,7 +78,7 @@ updated: 2026-08-24
 
 ## 概念辨析
 
-> [!contrast-table] 问题发现 vs [[Divergent Thinking|发散思维]] vs 常规问题解决
+> [!contrast-table] 问题发现 vs [[Divergent Thinking|发散思维]] vs 常规[[Problem Solving|问题解决]]
 > | 比较维度 | 问题发现（Problem Finding） | 发散思维（Divergent Thinking） | 常规问题解决（Problem Solving） |
 > |---|---|---|---|
 > | **认知阶段** | **创造过程最前端（问题界定）** | 创造过程中端（观念生成） | 创造过程后端或独立执行（方案执行） |

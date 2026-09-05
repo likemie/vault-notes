@@ -24,6 +24,7 @@ related_concepts:
   - "[[Creativity Training]]"
   - "[[Creativity]]"
   - "[[Divergent Thinking]]"
+  - "[[Problem Solving]]"
   - "[[Variable]]"
   - "[[Effect Size]]"
   - "[[Cognitive Flexibility]]"
@@ -96,7 +97,7 @@ title: "Argument_Guo_2025_TSC"
 argument_key: "Argument_Guo_2025_TSC"
 argument_display_title: "Effect of training programs on the creativity of university students: A multi-level meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 58
+argument_related_count: 59
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -113,7 +114,7 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> 在[[Knowledge-Based Economy|知识经济]]与技术驱动的时代背景下，面向大学生的[[Creativity Training|创造力训练]]项目是否能够有效提升高等教育学生的[[Creativity|创造力]]？具体影响量级多大？创造力的各个子维度（[[Divergent Thinking|发散思维]]、图形、言语、词汇、问题解决、情绪创造力）是否存在响应差异？训练周期、训练方式、组织形式及学段层次等关键调节[[Variable|变量]]如何调制干预效果？（pp.1–3）
+> 在[[Knowledge-Based Economy|知识经济]]与技术驱动的时代背景下，面向大学生的[[Creativity Training|创造力训练]]项目是否能够有效提升高等教育学生的[[Creativity|创造力]]？具体影响量级多大？创造力的各个子维度（[[Divergent Thinking|发散思维]]、图形、言语、词汇、[[Problem Solving|问题解决]]、情绪创造力）是否存在响应差异？训练周期、训练方式、组织形式及学段层次等关键调节[[Variable|变量]]如何调制干预效果？（pp.1–3）
 
 > [!claim] 核心主张
 > [[Creativity Training|创造力训练]]项目对大学生的多维[[Creativity|创造力]]表现具有中等且统计显著的正向促进效应（$g = 0.628$），其中创造性思维与图形创造力增益最为突出；干预成效受到训练周期的非线性调节并呈现倒 U 型时间特征（$< 2$ 个月中短期干预效果最优），且以言语认知训练与独立个体练习展现出更强的教学有效性。（pp.6–9）
@@ -130,7 +131,7 @@ issuing_organization: ""
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |---|---|
-> | **[[Creativity\|创造力多维可塑性理论]]** | 将创造力界定为涵盖认知加工、语言表达、视觉重组与情境问题解决的可塑心理潜能，打破天赋决定论，确立高等教育干预的理论前提。（pp.2–3） |
+> | **[[Creativity\|创造力多维可塑性理论]]** | 将创造力界定为涵盖认知加工、语言表达、视觉重组与情境[[Problem Solving\|问题解决]]的可塑心理潜能，打破天赋决定论，确立高等教育干预的理论前提。（pp.2–3） |
 > | **[[Cognitive Flexibility\|认知灵活性理论]]与无意识[[Incubation\|孕育效应]]** | 阐明思维训练通过突破心理固着与范畴转换激发发散思维，并依据孕育效应解释干预周期的倒 U 型演进规律（$< 2$ 个月最优  = 0.844$；Wallas, 1926；pp.2–3, 10）。 |
 > | **[[Brainstorming\|头脑风暴]]、[[Lateral Thinking\|侧向思维]]与[[Synectics\|提喻法]]** | 构成思维训练与发散构想的核心教学技法矩阵，通过打破常规神经认知凹槽、具身类比与解耦评价规约激发创造力（Gordon, 1961; [[Edward de Bono\|de Bono (1970)]]; [[Alex Osborn\|Osborn (1953)]]; pp.2–3, 10）。 |
 > | **[[TRIZ\|发明问题解决理论（TRIZ）]]与启发式技术** | 将发明创新操作化为可学习、可复现的外显认知算子（如 [[Genrich Altshuller\|阿奇舒勒]] 40 原理与 [[SCAMPER]] 检核表），为技术型创造力干预提供具象认知支架（Morin et al., 2018；pp.2–3, 10）。 |
@@ -260,7 +261,7 @@ issuing_organization: ""
 ### 论证步骤二：多维创造力构念响应分化——发散思维与具象表达的优先增益机制
 
 > [!claim]
-> 创造力训练并非对所有创造力成分产生均质影响，而是呈现出明显的构念响应分化：指向发散探索的创造性思维（$g = 0.671$）与图形创造力（$g = 0.644$）获得最显著的提升，词汇（$g = 0.641$）、言语（$g = 0.606$）与问题解决（$g = 0.539$）维持中等增益，而情绪创造力（$g = 0.397$）的干预响应相对偏弱。（pp.6–7）
+> 创造力训练并非对所有创造力成分产生均质影响，而是呈现出明显的构念响应分化：指向发散探索的创造性思维（$g = 0.671$）与图形创造力（$g = 0.644$）获得最显著的提升，词汇（$g = 0.641$）、言语（$g = 0.606$）与[[Problem Solving|问题解决]]（$g = 0.539$）维持中等增益，而情绪创造力（$g = 0.397$）的干预响应相对偏弱。（pp.6–7）
 
 > [!ref-table]- 不同创造力子维度的干预效应量分布表（Table 2）
 >
@@ -422,7 +423,7 @@ issuing_organization: ""
 
 > [!finding-cards] 核心发现
 > 1. **高校[[Creativity Training|创造力干预]]具备中等且显著的促进效能** 基于 29 项实证研究与 109 个[[Effect Size|效应量]]的[[Three-Level Meta-Analysis|多层元分析]]表明，创造力训练能显著提升大学生的综合[[Creativity|创造力]]水平（$g = 0.628, p < 0.001$）。（p.6）
-> 2. **创造力各子维度响应呈现非均质特征** 创造性思维（$g = 0.671$）与图形创造力（$g = 0.644$）获得最大增益，词汇（$g = 0.641$）、言语（$g = 0.606$）与问题解决（$g = 0.539$）保持中等改善，情绪创造力增益相对有限（$g = 0.397$）。
+> 2. **创造力各子维度响应呈现非均质特征** 创造性思维（$g = 0.671$）与图形创造力（$g = 0.644$）获得最大增益，词汇（$g = 0.641$）、言语（$g = 0.606$）与[[Problem Solving|问题解决]]（$g = 0.539$）保持中等改善，情绪创造力增益相对有限（$g = 0.397$）。
 > 3. **干预时间跨度呈现倒 U 型非线性调节规律** 训练周期对干预成效具有显著调制作用并解释 13.4% 的组间方差，其中 $< 2$ 个月的训练效果最强（$g = 0.844$），长周期训练呈现效果边际递减甚至失效。
 > 4. **言语强化与认知思维策略构成最优干预抓手** 在干预方式中，言语训练（$g = 0.998$）与思维训练（$g = 0.762$）效果最为突出，且独立个体训练（$g = 0.682$）优于小组形式（$g = 0.567$）。（p.7）
 
@@ -452,7 +453,7 @@ issuing_organization: ""
 > *Individual creativity training offers a conducive environment for introspection and deep concentration. Participants can engage in tasks and exercises without external distractions, enabling them to fully immerse themselves in the creative process. This solitary focus facilitates a deeper exploration of personal creativity and encourages participants to freely generate ideas without the influence of group dynamics.*
 
 > [!citation-card]- 言语训练与认知技能核心价值
-> 言语训练产生了最显著的效果，强调了认知技能发展在创造力训练中的关键作用……针对[[Divergent Thinking|发散思维]]和问题解决技能等认知过程的干预措施，能够有效促进学生在感知、注意、记忆、[[Executive Function|执行功能]]、逻辑推理和加工速度等方面的全面提升。（p.9）
+> 言语训练产生了最显著的效果，强调了认知技能发展在创造力训练中的关键作用……针对[[Divergent Thinking|发散思维]]和[[Problem Solving|问题解决]]技能等认知过程的干预措施，能够有效促进学生在感知、注意、记忆、[[Executive Function|执行功能]]、逻辑推理和加工速度等方面的全面提升。（p.9）
 >
 > *Firstly, the results demonstrate that verbal training yields the most significant outcomes, underscoring the critical role of cognitive skill development in creativity training... Specifically, the design of such programs should prioritize interventions that target cognitive processes — such as divergent thinking and problem-solving skills — thereby facilitating improvements in students’ perception, attention, memory, executive function, logical reasoning, and processing speed.*
 

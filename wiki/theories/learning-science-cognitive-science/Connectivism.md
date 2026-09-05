@@ -9,7 +9,7 @@ aliases:
 summary: "由 George Siemens 与 Stephen Downes 提出的数字时代学习理论，认为学习是连接专业节点或信息源的网络构建过程，知识分布于人际与非人类技术网络的动态连接之中"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 24
+theory_related_count: 25
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Learning Analytics]]"
   - "[[Working Memory]]"
   - "[[Analytical Stance]]"
+  - "[[Problem Solving]]"
 related_theories:
   - "[[Third Generation Activity Theory]]"
 related_methods:
@@ -164,7 +165,7 @@ updated: 2026-09-01
 > > - **支持立场** 坚决主张连通主义从[[Ontology|本体论]]上将知识视为网络连接本身，彻底突破了传统“知识存在于大脑或人际社会”的心智主义局限。
 >
 > > [!critique]- 忽视认知负荷与内部内化
-> > 部分认知心理学家批评连通主义过度崇拜外部网络连接，忽视了人类长时记忆中内部知识图式对于高阶问题解决不可替代的基石作用。
+> > 部分认知心理学家批评连通主义过度崇拜外部网络连接，忽视了人类长时记忆中内部知识图式对于高阶[[Problem Solving|问题解决]]不可替代的基石作用。
 
 ---
 

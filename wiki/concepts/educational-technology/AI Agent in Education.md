@@ -10,7 +10,7 @@ aliases:
 summary: "在教育环境中具备自主交互、自适应支架与即时反馈特征的智能计算系统，涵盖智能导师系统、教育机器人、生成式智能体与对话式智能体四种核心形态并对K-12认知技能与知识建构产生中等促进效应"
 type: concept
 domain: "educational-technology"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Feedback]]"
   - "[[Cognitive Offloading]]"
   - "[[AI Hallucination]]"
+  - "[[Problem Solving]]"
   - "[[Variable]]"
   - "[[Interaction Effect]]"
   - "[[Critical Thinking]]"
@@ -100,7 +101,7 @@ updated: 2026-08-25
 ## 核心要素
 
 > [!feature] 四类核心教育智能体技术形态（Istrate, 2025; [[Argument_Liu_2026_CHBR|Liu et al., 2026]]）
-> - **[[Intelligent Tutoring Systems|智能导师系统]]（Intelligent Tutoring Systems, ITS）** 基于领域知识图谱、学生认知模型与教学决策算法，提供结构化分步解题引导与自适应规则提示的专用系统。在数学与理科程序性问题解决中展现出最强干预效能（$g = 0.540$）。
+> - **[[Intelligent Tutoring Systems|智能导师系统]]（Intelligent Tutoring Systems, ITS）** 基于领域知识图谱、学生认知模型与教学决策算法，提供结构化分步解题引导与自适应规则提示的专用系统。在数学与理科程序性[[Problem Solving|问题解决]]中展现出最强干预效能（$g = 0.540$）。
 > - **[[Educational Robotics|人工智能教育机器人]]（AI Educational Robotics）** 具备物理具身或拟人化外显形态的智能交互实体，通过多模态交互（语音、手势、动作）提供陪伴式、探究式学习体验（$g = 0.474$），多应用于低幼与小学阶段的语言认读与跨学科活动。
 > - **[[Generative AI Agent in Education|生成式智能体]]（[[Generative Artificial Intelligence|Generative AI]] Agents, GenAI Agents）** 基于大型语言模型（Large Language Models, LLM）或多模态生成技术，支持开放式问答、代码辅助调试、写作支架生成与探究任务共创的智能体系统（$g = 0.421$）。
 > - **[[Dialogue in Education|对话]]式智能体（[[Conversational AI in Education|Conversational AI Agents]]）** 依托自然语言处理（Natural Language Processing, NLP）驱动的聊天机器人或语音助手，支持口语对话练习、词汇问答与交互式反馈（$g = 0.468$），广泛应用于外语与第二语言口语流利度训练。[[Argument_Liu_2026_CHBR|(Liu et al., 2026, pp. 5, 11)]]
@@ -186,7 +187,7 @@ updated: 2026-08-25
 > |---|---|---|---|
 > | **程序技能优先** | 自适应即时反馈与分步演练优先赋能程序性解题与技能熟练度，促进成效优于单纯事实识记。 | K-12 阶段数学解题、外语听说与[[Computational Thinking\|计算思维]]教学 | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] |
 > | **学段学科适配** | 高小学段处于具体向抽象思维过渡期，结合语言读写与艺术创造的多轮交互特性，形成干预最优效能区间。 | 基础教育[[Informationalization\|信息化]]课程设计与学段教学资源配置 | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] |
-> | **高阶思维支架依赖** | 高阶认知发展具有高度变异性，必须依赖显性教学脚手架、探究活动与反思量规的深度整合。 | 复杂科学问题解决、开放式写作与高阶计算思维培养 | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] |
+> | **高阶思维支架依赖** | 高阶认知发展具有高度变异性，必须依赖显性教学脚手架、探究活动与反思量规的深度整合。 | 复杂科学[[Problem Solving\|问题解决]]、开放式写作与高阶计算思维培养 | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] |
 
 ---
 

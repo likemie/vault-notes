@@ -126,5 +126,5 @@ updated: 2026-08-24
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] — [[Meta-meta-analysis|二阶元分析]]，采用经典 Egger 线性回归（$t = 2.08, p = .05$）检验[[Cooperative Learning|合作学习]]对学习产出的干预效应偏倚。
-> - [[Argument_Erdem_2026_SHE|Erdem et al. (2026)]] — 二阶[[Meta-analysis|元分析]]，运用经典 Egger 回归（$t(45) = 5.53, p < .001$）对高等教育 [[Problem-Based Learning|PBL]] [[Experimental Research|实验研究]]进行偏倚敏感性检验。
+> - [[Argument_Erdem_2026_SHE|Erdem et al. (2026)]] — 二阶[[Meta-analysis|元分析]]，运用经典 Egger 回归（$t(45) = 5.53, p < .001$）对高等教育 PBL [[Experimental Research|实验研究]]进行偏倚敏感性检验。
 > - [[Argument_Park_2026_TSC|Park et al. (2026)]] — [[Three-Level Meta-Analysis|三水平元分析]]，采用经典 Egger 回归（$t(149) = 0.29, p = 0.771$）结合等高线增强[[Funnel Plot|漏斗图]]，检验[[Creativity|创造力]]与[[Critical Thinking|批判性思维]]相关的[[Publication Bias|发表偏倚]]。

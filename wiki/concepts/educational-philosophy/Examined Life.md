@@ -10,7 +10,7 @@ aliases:
 summary: "西方教育哲学与学习传统的核心主题，起源于苏格拉底在《申辩篇》中的名言“未经省察的生活不值得过”，代表质疑既有权威与理所当然知识的智识态度，是批判性思维的文化根源。"
 type: concept
 domain: "educational-philosophy"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Junzi]]"
   - "[[Buen Vivir]]"
+  - "[[Problem Solving]]"
   - "[[Freedom of the Learner]]"
   - "[[Effective Teaching]]"
   - "[[Praxis]]"
@@ -138,7 +139,7 @@ updated: 2026-07-25
 > | 维度 | 省察的生活（Examined Life） | [[Critical Thinking\|批判性思维]]（现代认知定义） |
 > |------|---------------------------|----------------------------------|
 > | 定性 | **文化与存在论根源**（一种生活态度与存在姿态） | **技术性技能**（分析、评估、推论等认知工具） |
-> | 价值关切 | 追求[[Buen Vivir\|美好生活]]、灵魂解脱与道德真理 | 追求有效决策、逻辑严密与问题解决 |
+> | 价值关切 | 追求[[Buen Vivir\|美好生活]]、灵魂解脱与道德真理 | 追求有效决策、逻辑严密与[[Problem Solving\|问题解决]] |
 
 ---
 

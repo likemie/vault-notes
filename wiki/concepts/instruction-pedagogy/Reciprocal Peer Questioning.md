@@ -10,7 +10,7 @@ aliases:
 summary: "由 Alison King 提出的一种基于高阶提问句干脚手架的同伴教学策略，引导学习者在结对互动中相互质询并进行认知精细加工"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Peer-Supported Learning]]"
   - "[[Homework]]"
   - "[[Reflexivity]]"
+  - "[[Problem Solving]]"
   - "[[Working Memory]]"
   - "[[Heterogeneity]]"
 related_theories: []
@@ -82,7 +83,7 @@ updated: 2026-08-25
 > - **比较与辨析型句干** “……与……之间的核心相似点与关键区别是什么？”“如何用……来解释……的差异？”
 > - **因果与机制型句干** “是什么原因导致了……的发生？”“如果……发生变化，会对……产生什么连锁反应？”
 > - **证据与理由型句干** “支持……的核心论据是什么？其局限性在哪里？”“为什么作者认为……是正确的？”
-> - **应用与问题解决型句干** “如何将……的原理应用到解决……这一现实问题中？”“解决……的最佳替代方案是什么？”
+> - **应用与[[Problem Solving|问题解决]]型句干** “如何将……的原理应用到解决……这一现实问题中？”“解决……的最佳替代方案是什么？”
 > - **[[Hypothesis|假设]]与评价型句干** “……的结论建立在什么未说明的前提假设之上？”“你对……的优缺点如何评价？”[[Argument_Abrami_2015_RER|(Abrami et al., 2015, p. 285)]]
 
 ---

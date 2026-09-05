@@ -30,6 +30,7 @@ related_concepts:
   - "[[Divergent Thinking]]"
   - "[[Creativity]]"
   - "[[Externalization]]"
+  - "[[Problem Solving]]"
   - "[[Test-Retest Reliability]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Going Native]]"
@@ -66,7 +67,7 @@ updated: 2026-09-02
 > [!concept-lens] 工具定位
 > - **含义** 通过要求被试在限定时间内摆脱物体常规功能固着（Functional Fixedness），[[Externalization|外化]]个体的观念生成速度、语义跨度与独创性。
 > - **用途** 在心理学实验、一阶与[[Meta-meta-analysis|二阶元分析]]以及生成式 AI 教学干预中，作为客观评估发散思维（Divergent Thinking）与创造潜能的基础工具。
-> - **边界** 聚焦于问题解决前期的发散构想生成，不能直接替代涉及收敛论证、工艺实施与领域专业知识的最终复杂创造性产品评定。
+> - **边界** 聚焦于[[Problem Solving|问题解决]]前期的发散构想生成，不能直接替代涉及收敛论证、工艺实施与领域专业知识的最终复杂创造性产品评定。
 
 ---
 

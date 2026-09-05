@@ -7,7 +7,7 @@ aliases:
 summary: "受产业申办方委托执行临床前研究或临床试验运营任务的第三方商业组织，在产学临床试验中充当中间层，既加速多中心试验的协调也可引入额外的行政瓶颈"
 type: concept
 domain: "higher-education"
-related_count: 1
+related_count: 2
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -17,6 +17,7 @@ tags:
   - level/higher-education
 related_concepts:
   - "[[Clinical Trial]]"
+  - "[[Problem Solving]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -49,7 +50,7 @@ updated: 2026-06-03
 > [!warning]
 > CRO 在产学[[Clinical Trial|临床试验]]中的角色存在显著的利弊两面（p.207）：
 
-- **延长沟通链条** 当产业方和大学双方都外包给 CRO 时，CRO 作为中间层限制了产业方与大学之间的直接问题解决，进一步延长了启动时间线
+- **延长沟通链条** 当产业方和大学双方都外包给 CRO 时，CRO 作为中间层限制了产业方与大学之间的直接[[Problem Solving|问题解决]]，进一步延长了启动时间线
 - **增加而非减少瓶颈** 类似地，大学将医保覆盖分析（Medicare Coverage Analysis）等启动环节外包给第三方供应商，产业方报告收益微乎其微——这些供应商反而引入了额外的行政瓶颈，且问责制有限（p.207）
 - **效率 vs 控制权** CRO 的核心价值在于协调多中心试验的并行操作，但当外包层叠时，节省的时间可能被增加的沟通和决策延迟所抵消
 

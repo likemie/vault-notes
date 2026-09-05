@@ -1041,7 +1041,7 @@
     "aliases": [
       "Learner Profile",
       "学习者培养目标",
-      "学习者特征"
+      "IB学习者特征"
     ]
   },
   {
@@ -3345,6 +3345,18 @@
     ]
   },
   {
+    "title": "Marginal Gains Hypothesis",
+    "type": "concept",
+    "path": "wiki/concepts/educational-technology/Marginal Gains Hypothesis.md",
+    "aliases": [
+      "边际效益假说",
+      "边际收益递增效应",
+      "教育技术边际效益假说",
+      "Marginal Gains Effect",
+      "Marginal Gains"
+    ]
+  },
+  {
     "title": "Presence",
     "type": "concept",
     "path": "wiki/concepts/educational-technology/Presence.md",
@@ -5185,8 +5197,18 @@
     "path": "wiki/concepts/instruction-pedagogy/Problem-Based Learning.md",
     "aliases": [
       "问题本位学习",
-      "PBL",
       "基于问题的学习"
+    ]
+  },
+  {
+    "title": "Project-Based Learning",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Project-Based Learning.md",
+    "aliases": [
+      "项目式学习",
+      "基于项目的学习",
+      "项目本位学习",
+      "PjBL"
     ]
   },
   {
@@ -5452,7 +5474,9 @@
       "认知卸载",
       "认知外包",
       "心智卸载",
-      "cognitive outsourcing"
+      "cognitive outsourcing",
+      "knowledge outsourcing",
+      "知识外包"
     ]
   },
   {
@@ -5650,6 +5674,17 @@
     ]
   },
   {
+    "title": "Metacognitive Laziness",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Metacognitive Laziness.md",
+    "aliases": [
+      "元认知惰性",
+      "元认知惰性假说",
+      "认知偷懒",
+      "Metacognitive Laziness Hypothesis"
+    ]
+  },
+  {
     "title": "Mind Efficacy and Virtue Efficacy",
     "type": "concept",
     "path": "wiki/concepts/learning-science-cognitive-science/Mind Efficacy and Virtue Efficacy.md",
@@ -5713,6 +5748,17 @@
     "aliases": [
       "前额叶皮层",
       "PFC"
+    ]
+  },
+  {
+    "title": "Problem Solving",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Problem Solving.md",
+    "aliases": [
+      "问题解决",
+      "问题解决能力",
+      "复杂问题解决",
+      "Complex Problem Solving"
     ]
   },
   {
@@ -10781,6 +10827,17 @@
     ]
   },
   {
+    "title": "Control-Value Theory",
+    "type": "theory",
+    "path": "wiki/theories/educational-psychology/Control-Value Theory.md",
+    "aliases": [
+      "控制-价值理论",
+      "控制-价值学业情绪理论",
+      "CVT",
+      "Control-Value Theory of Achievement Emotions"
+    ]
+  },
+  {
     "title": "Epistemic and Ontological Cognition",
     "type": "theory",
     "path": "wiki/theories/educational-psychology/Epistemic and Ontological Cognition.md",
@@ -10850,6 +10907,16 @@
       "RJM",
       "King & Kitchener's Reflective Judgment Model",
       "Reflective Judgment"
+    ]
+  },
+  {
+    "title": "Self-Determination Theory",
+    "type": "theory",
+    "path": "wiki/theories/educational-psychology/Self-Determination Theory.md",
+    "aliases": [
+      "自我决定理论",
+      "自决理论",
+      "SDT"
     ]
   },
   {
@@ -14821,6 +14888,7 @@
     "path": "wiki/persons/china/Alan C. K. Cheung.md",
     "aliases": [
       "Cheung, A. C. K.",
+      "张志强",
       "艾伦·C·K·张"
     ]
   },
@@ -16486,7 +16554,8 @@
     "path": "wiki/persons/us/Robert Slavin.md",
     "aliases": [
       "Slavin, R.",
-      "罗伯特·斯莱文"
+      "罗伯特·斯莱文",
+      "罗伯特·斯拉文"
     ]
   },
   {
@@ -21075,6 +21144,11 @@
     "title": "Argument_Greene_2018_JEP",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Journal of Educational Psychology/Argument_Greene_2018_JEP.md"
+  },
+  {
+    "title": "Argument_Zhao_2025_JIntell",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Journal of Intelligence/Argument_Zhao_2025_JIntell.md"
   },
   {
     "title": "Argument_Bergeron_2019_JRIE",

@@ -10,7 +10,7 @@ aliases:
 summary: "由阿奇舒勒创立的算法化发明问题解决理论体系，主张技术与心智系统的演化遵循客观规律，通过识别并消除系统内在矛盾（技术与物理矛盾）、应用 40 条通用发明原理与理想最终解（IFR）启发式，系统克服思维定势并实现高阶创新。"
 type: theory
 theory_field: "instruction-pedagogy"
-theory_related_count: 17
+theory_related_count: 18
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[Creativity]]"
   - "[[Creativity Training]]"
+  - "[[Problem Solving]]"
   - "[[SCAMPER]]"
   - "[[Champ]]"
   - "[[Growth]]"
@@ -65,7 +66,7 @@ updated: 2026-09-03
 > 发明问题的本质是系统内部各要素间的冲突与矛盾，真正的创新不是妥协折中，而是彻底消除系统矛盾；技术的演进遵循客观法则并趋向“理想最终解（Ideal Final Result, IFR）”，通过将特定问题抽象为通用矛盾并检索标准发明原理，学习者能够摆脱盲目试错与心理惯性，实现高水平的[[Creative Problem Solving|创造性问题解决]]。[[Argument_Guo_2025_TSC|(Guo et al., 2025, pp. 2–3, 10)]]; Altshuller (1984)
 
 > [!citation-card]- 关键表述：技术型训练与外显创新工具（[[Argument_Guo_2025_TSC|Guo et al., 2025]]; Altshuller, 1984）
-> 技术型创造力干预系统讲授并演练外显启发式工具——如发明问题解决理论（TRIZ）、[[SCAMPER]] 技法及形态分析矩阵；这些标准化操作规程为学习者提供了具象认知锚点，显著降低了发散启动时的无序迷茫感。[[Argument_Guo_2025_TSC|(Guo et al., 2025, p. 10)]]
+> 技术型创造力干预系统讲授并演练外显启发式工具——如发明[[Problem Solving|问题解决]]理论（TRIZ）、[[SCAMPER]] 技法及形态分析矩阵；这些标准化操作规程为学习者提供了具象认知锚点，显著降低了发散启动时的无序迷茫感。[[Argument_Guo_2025_TSC|(Guo et al., 2025, p. 10)]]
 >
 > 任何发明任务的解决，都遵循着客观的逻辑与法则。依靠灵感闪现与盲目试错的发明时代已经终结，取而代之的是建立在数百万项专利规律分析基础之上的发明问题解决算法（ARIZ 与 40 发明原理）。Altshuller (1984, pp. 1–15)
 
@@ -83,7 +84,7 @@ updated: 2026-09-03
 > | **[[Genrich Altshuller\|阿奇舒勒]]矛盾矩阵（Contradiction Matrix）** | 工具 | 由 39 个通用工程参数构建的二维交叉检索表，指导特定技术矛盾对应检索最可能的发明原理。 |
 > | **理想最终解（Ideal Final Result, IFR）** | 机制 | 系统演化的终极理想状态——“系统本身不存在，但其功能完全实现”，作为逆向解题的终极认知航标。 |
 > | **物-场分析（Substance-[[Champ\|field]] Analysis, Su-Field）** | 方法 | 建立包含两种物质（$S_1, S_2$）与一种能量场（$F$）的极简模型，结合 76 个标准解消除有害或不足效应。 |
-> | **发明问题解决算法（ARIZ）** | 流程 | 将现实中复杂、模糊的不良结构问题逐步转化为清晰物理矛盾的严格结构化解题程序。 |
+> | **发明[[Problem Solving\|问题解决]]算法（ARIZ）** | 流程 | 将现实中复杂、模糊的不良结构问题逐步转化为清晰物理矛盾的严格结构化解题程序。 |
 
 ---
 
@@ -102,7 +103,7 @@ updated: 2026-09-03
 > [!proposition-chain] 核心命题三｜外显发明原理与矛盾矩阵能够作为认知支架大幅降低盲目试错开销
 > - **前提一** 人类大脑在面对新颖问题时极易受“心理惯性（Psychological Inertia）”驱动，自动在熟悉的旧经验范畴内打转。[[Argument_Guo_2025_TSC|(Guo et al., 2025, p. 10)]]
 > - **前提二** [[Genrich Altshuller|阿奇舒勒]]从数百万专利中归纳的 40 个发明原理，覆盖了绝大多数跨学科冲突的解题可能，构成了外显化的高阶启发式图式。
-> - **推导** 借助矛盾矩阵将具体问题抽象化、标准化，并定向映射至 40 个通用算子，学习者跳过了无序的试错迷宫，能够迅速获得针对性极强的突破线索，使设计问题解决质量显著提升。Morin et al. (2018); 同上
+> - **推导** 借助矛盾矩阵将具体问题抽象化、标准化，并定向映射至 40 个通用算子，学习者跳过了无序的试错迷宫，能够迅速获得针对性极强的突破线索，使设计[[Problem Solving|问题解决]]质量显著提升。Morin et al. (2018); 同上
 
 > [!mechanism-map]- TRIZ 矛盾消除与[[Creativity|创造性思维]]生成回路
 > ```mermaid

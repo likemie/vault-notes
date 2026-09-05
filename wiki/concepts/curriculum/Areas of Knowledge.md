@@ -6,7 +6,7 @@ aliases:
 summary: "知识论课程中用于比较不同学科与知识传统如何形成概念、证据、方法和判断标准的课程框架；其历史根源是以多种思维方式回应学科割裂，并逐步由早期知识形式主题发展为可比较的领域分类。"
 type: concept
 domain: "curriculum"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Operationalization]]"
   - "[[Hypothesis]]"
+  - "[[Problem Solving]]"
   - "[[Critical Thinking]]"
   - "[[Construct Validity]]"
   - "[[General Education]]"
@@ -256,7 +257,7 @@ updated: 2026-08-17
 > 将知识领域写入目标和描述符，可以把跨[[Domain Analysis|领域分析]]变成可见成果。效度还取决于任务是否评价证据审查、推论和判断质量，以及领域连接能否超越术语出现。
 
 > [!claim] 休斯（C. Hughes）
-> **连接要求只能支持部分效度** 评估目标要求考察知识领域如何生成知识，并探索 AOK、WOK、知识主张和知识问题之间的联系；论文最高等级描述符也奖励有效联系知识领域。这些要求支持课程内部对齐。评分仍主要集中于连接、调查和探索，对来源评价、[[Hypothesis|假设]]检验、决策、问题解决和创造的覆盖有限，因此无法单凭 AOK 连接证明完整的[[Critical Thinking|批判性思维]][[Construct Validity|构念效度]]。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 37–43)]]
+> **连接要求只能支持部分效度** 评估目标要求考察知识领域如何生成知识，并探索 AOK、WOK、知识主张和知识问题之间的联系；论文最高等级描述符也奖励有效联系知识领域。这些要求支持课程内部对齐。评分仍主要集中于连接、调查和探索，对来源评价、[[Hypothesis|假设]]检验、决策、[[Problem Solving|问题解决]]和创造的覆盖有限，因此无法单凭 AOK 连接证明完整的[[Critical Thinking|批判性思维]][[Construct Validity|构念效度]]。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 37–43)]]
 
 > [!claim] 曾普伦（G. Á. Zemplén）
 > **分类词汇可能成为评分替代指标** AOK and WOK 为超学科课程提供共同语言，也让评分者容易识别学生是否使用课程框架。学生若通过罗列领域名称和建立表面连接获得分数，作品会展示术语熟练度，却未充分呈现对证据、方法和价值前提的批判性审查。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, pp. 171–173)]]
@@ -318,7 +319,7 @@ updated: 2026-08-17
 > - **领域本质化** 用单一方法或[[Ways of Knowing|认知方式]]定义整个领域，会把领域内部多样性压缩为学科刻板印象。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, p. 39)]]
 > - **边界封闭** 将 AOK 当作互不相通的知识领地，会遮蔽跨领域方法、概念与价值问题，削弱迁移和综合解释。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 38–39)]]
 > - **术语替代表现** 评分若主要确认领域名称和跨领域连接，可能把分类框架使用当作批判性分析。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, pp. 171–173)]]
-> - **[[Construct|构念]]覆盖不足** AOK 比较能够考察[[Epistemology|认识论]]理解，却没有自动覆盖来源核查、推论、[[Hypothesis|假设]]检验、决策、问题解决和创造。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 41–43)]]
+> - **[[Construct|构念]]覆盖不足** AOK 比较能够考察[[Epistemology|认识论]]理解，却没有自动覆盖来源核查、推论、[[Hypothesis|假设]]检验、决策、[[Problem Solving|问题解决]]和创造。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 41–43)]]
 
 > [!tension] 开放审查与科学知识权威
 > - **开放审查立场** [[Theory of Knowledge|TOK]] 的批判性探究要求所有领域的知识主张接受理由、证据和价值前提的检验，包括自然科学。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, pp. 179–181)]]

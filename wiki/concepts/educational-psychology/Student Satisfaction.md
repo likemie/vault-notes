@@ -6,16 +6,17 @@ aliases:
 summary: "学生对学习过程与学习环境的总体满意程度，是衡量教学模式情感与体验效果的重要指标；问题本位学习通过主动参与激发内在动机并提升满意度。"
 type: concept
 domain: "educational-psychology"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/student-satisfaction
   - theme/affective-outcomes
   - theme/higher-education
 related_concepts:
   - "[[Problem-Based Learning]]"
+  - "[[Problem Solving]]"
   - "[[Academic Achievement]]"
   - "[[Student Attitude]]"
   - "[[Dependent Variable]]"
@@ -43,7 +44,7 @@ updated: 2026-08-24
 ## 定义
 
 > [!def] 核心定义
-> 学生满意度（Student Satisfaction）指学生对学习过程与学习环境的总体满意程度，反映教学模式在学习体验层面的情感效果。[[Problem-Based Learning|问题本位学习]]（PBL）通过主动参与问题解决激发内在动机、增强学习能力，从而提升整体学习体验与满意度。[[Argument_Erdem_2026_SHE|Erdem et al. (2026, pp. 955–956, 963–964)]]
+> 学生满意度（Student Satisfaction）指学生对学习过程与学习环境的总体满意程度，反映教学模式在学习体验层面的情感效果。[[Problem-Based Learning|问题本位学习]]（PBL）通过主动参与[[Problem Solving|问题解决]]激发内在动机、增强学习能力，从而提升整体学习体验与满意度。[[Argument_Erdem_2026_SHE|Erdem et al. (2026, pp. 955–956, 963–964)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 学生满意度属于学习的情感与体验维度，关注学生对教学过程与环境的整体评价。
@@ -63,8 +64,8 @@ updated: 2026-08-24
 > - **对学习环境的满意** 对学习氛围、师生互动与支持条件的认可。
 > - **内在动机与热情** 主动参与增强内在动机、学习热情与兴趣。（pp. 955–956, 963–964）
 
-> [!proc] [[Problem-Based Learning|PBL]] 提升满意度的路径
-> 1. **主动参与** 学生积极参与问题解决过程。
+> [!proc] PBL 提升满意度的路径
+> 1. **主动参与** 学生积极参与[[Problem Solving|问题解决]]过程。
 > 2. **内在动机** 主动参与激发内在动机与学习能力。
 > 3. **满意提升** 积极体验转化为更高的学习满意度。
 
@@ -84,4 +85,4 @@ updated: 2026-08-24
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Erdem_2026_SHE|Erdem et al. (2026)]] [[Meta-meta-analysis|二阶元分析]]报告，[[Problem-Based Learning|PBL]] 对学生满意度的效应（d = 1.10）为五类结果中第二高，源于主动参与问题解决带来的内在动机与积极学习体验；Song (2008) 亦比较发现 PBL 在满意度、态度与动机上优于传统教学。（pp. 963–964）
+> - [[Argument_Erdem_2026_SHE|Erdem et al. (2026)]] [[Meta-meta-analysis|二阶元分析]]报告，PBL 对学生满意度的效应（d = 1.10）为五类结果中第二高，源于主动参与[[Problem Solving|问题解决]]带来的内在动机与积极学习体验；Song (2008) 亦比较发现 PBL 在满意度、态度与动机上优于传统教学。（pp. 963–964）

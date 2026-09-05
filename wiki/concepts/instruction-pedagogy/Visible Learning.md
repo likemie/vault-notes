@@ -6,7 +6,7 @@ aliases:
 summary: "John Hattie 发起的教育证据项目，通过汇总大量元分析并以效应量比较教学干预影响，广泛用于学校改进、教学决策和证据本位教育讨论。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 99
+related_count: 98
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -37,7 +37,6 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Homework]]"
   - "[[Student Engagement]]"
-  - "[[Problem-Based Learning]]"
   - "[[Individualised Instruction]]"
   - "[[Emergence]]"
   - "[[External Validity]]"
@@ -310,7 +309,7 @@ Hattie（2015, p.81）提出"教师是 DIE for"的首字母缩略词来描述成
 > | 适当挑战 | 0.57 | 设置适当挑战水平，不只要求"尽力而为" |
 
 > [!finding-cards] 应用发现
-> 1. **问题式学习（[[Problem-Based Learning|PBL]]）**（9项元分析）— 总体效应低（d≈0.08–0.24）；先备知识不足时效果尤差（d=−0.79）。引入时机比形式本身更关键，新手倾向逆向推理导致更多错误（[[Argument_Hattie_2015_SOTLP|Hattie, 2015b, pp.84–85]]）。
+> 1. **问题式学习（PBL）**（9项元分析）— 总体效应低（d≈0.08–0.24）；先备知识不足时效果尤差（d=−0.79）。引入时机比形式本身更关键，新手倾向逆向推理导致更多错误（[[Argument_Hattie_2015_SOTLP|Hattie, 2015b, pp.84–85]]）。
 > 2. **在线 / 远程 vs 面授**（17项元分析）— 成绩无显著差异（d≈0.12）。方法本身不重要，重要的是成功标准、挑战与反馈质量（[[Argument_Hattie_2015_SOTLP|Hattie, 2015b, p.86]]）。
 > 3. **学生评教**（7项元分析，141研究）— 与教师有效性高度相关（d=0.47）；关键不在评教准确性而在教师是否利用反馈改进教学（[[Argument_Hattie_2015_SOTLP|Hattie, 2015b, pp.86–87]]）。
 > 4. **笔记与回顾** — 记笔记改善有限（d=0.34），但回顾笔记效应极大（d=1.56）——"重要的不是记，而是回顾"（[[Argument_Hattie_2015_SOTLP|Hattie, 2015b, p.84]]）。

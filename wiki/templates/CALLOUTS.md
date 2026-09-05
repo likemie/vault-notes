@@ -6,12 +6,36 @@ type: template
 tags: []
 status: active
 created: 2026-06-20
-updated: 2026-08-27
+updated: 2026-09-05
 ---
 
 # Callouts
 
 本文件是组件速查表，按**想表达的内容类型**分组。具体视觉样式见 `argument-callouts.css`。
+
+## 视觉系统 v3 · Prismatic study
+
+在原有丰富组件的基础上，按语义分别设计材质与层次；保留徽章、水印、渐变、计数器、时间轴和悬停反馈。
+
+| 组件 | 视觉设计 |
+| --- | --- |
+| question / def | 红色聚光问题卡、靛蓝书页定义卡，保留问号与 § 水印 |
+| claim / warrant / implication | 浮雕式标题色带与正文分区 |
+| feature | 网格底纹、宝石色标签、非对称圆角卡片 |
+| stat-cards | 仪表刻度底纹、大数字、底部强调线 |
+| finding-cards / evidence-grid | 铜色发现卡与编号证据卡，各有形态 |
+| dimension / theory-components / factors / chain-link | 保留阶梯、编号与推导结构，增加面板层次 |
+| timeline / phase / dev-timeline / thought-timeline | 沿原有节点轨道排列事件卡片 |
+| volume 系列 | 分层标题色带与结构面板 |
+| 对照与统计表格 | 加强表头层次，保留原有列配色及末行强调 |
+
+- **黑白主题**：增强层使用当前主题的页面底色与文字颜色计算卡片材质、标题色和高光；浅色偏纸面，深色偏发光边缘。
+- **窄面板**：增强的常用网格组件在宽度不超过 520px 时变为单列，保留宽屏中的数量布局；宽表格横向滚动。
+- **动效**：保留原有交互，常用卡片悬停有轻微抬升；启用系统“减少动态效果”时关闭动画与过渡。
+- **兼容**：现有 Markdown、组件名称和折叠写法不变。无需使用上一版提出的 `summary` 元数据，表格末行恢复原有样式。
+- **维护**：CSS 末尾的 `v3 · Prismatic study` 按组件家族分段；原有规则继续提供语义布局，不统一覆盖为同一种卡片。
+
+在 [[CALLOUTS-PREVIEW]] 中切换主题与面板宽度查看示例。
 
 ---
 
@@ -420,6 +444,7 @@ updated: 2026-08-27
 | `[!finding-cards]` vs `[!evidence-grid]` | finding = 本研究的**积极结论**；evidence = 支持某主张的**证据清单** |
 | `[!timeline]` vs `[!phase]` | timeline = 逐条年份列表；phase = 有起止年代的**叙事段落** |
 | `[!contrast-table]` vs `[!tension-table]` | contrast = 两个事物整体对比；tension-table = 同一维度上两个**对立立场** |
+| `[!contrast-table]` vs `[!row-contrast]` | contrast-table = **列为主体**（2–3 个对象并列，首列为维度，第 2/3/4 列有专属主题底色）；row-contrast = **行为主体**（文献横向评析、多案例对比，自上而下逐行排列，表头为属性维度，支持整行 hover 与末行重点高亮） |
 | `[!dimension]` vs `[!feature]` vs `[!factors]` vs `[!theory-components]` | dimension = 分析**视角**；feature = 并列**属性**（该事物本身有什么）；factors = **影响变量**（什么条件作用于结果）；theory-components = 理论内部**构件** |
 | `[!proc]` vs `[!chain-link]` vs `[!phase]` | proc = **执行层**操作步骤（如何做）；chain-link = **逻辑层**3–5 个不可换序的连续推导；phase = **时间层**发展阶段。仅有顺序不等于论证链 |
 | `[!dimension]` vs `[!concept-lens]` | dimension = 分析**视角/层面**（≥3）；concept-lens = 固定三联（含义/用途/边界） |
@@ -605,7 +630,8 @@ updated: 2026-08-27
 
 | Callout | 用途 |
 |---|---|
-| `[!contrast-table]` | 概念辨析、案例对比、理论路径对比；必须有明确比较维度 |
+| `[!contrast-table]` | 列对比（以列为主体）：概念辨析、案例对比、路径对比；首列为维度，第 2/3/4 列有专属主题底色 |
+| `[!row-contrast]` | 行对比（以行为主体）：横向文献对比、多案例横评；每行一个研究/对象，支持斑马纹、整行 hover 与末行基准突出 |
 | `[!line-a]` | 蓝色自动编号线索框（A → B → C…），连续使用时序号自动递增 |
 | `[!line-b]` | 红色对照线索框，紧接 `[!line-a]` 形成上下对比；不单独出现 |
 | `[!col-l]` + `[!col-r]` | 父 callout 内两个并列子主题 |
@@ -940,6 +966,10 @@ updated: 2026-08-27
 
 这组 callout 控制表格的**列宽和标题结构**，选哪个取决于数据排列方式，而非内容语义。
 
+> [!TIP] 表格内双链竖线转义规则
+> 在任何 Markdown 表格（包括各类 callout 内嵌套表格）中，带有显示别名的双链必须对竖线使用反斜杠转义：`[[目标页面\|显示别名]]`。
+> 若未转义（误写为 `[[目标页面|显示别名]]`），Markdown 解析器会将 `|` 判定为表格列分隔符，导致单元格被截断、多出空列或列数错位，破坏表格排版。若无需别名，直接写 `[[目标页面]]` 即可。
+
 | Callout | 用途 |
 |---|---|
 | `[!index-table]` | 首列固定 20%（`white-space: nowrap`），其余列自适应；适合编号/标签索引 + 说明内容 |
@@ -958,7 +988,8 @@ updated: 2026-08-27
 
 | `[!dual-header]` | 行列双标题矩阵；左上角交叉格最深，行头浅色；适合交叉对比表 |
 | `[!tension-table]` | 理论张力对照表；首列为维度，后列为两种立场，行间有分隔线 |
-| `[!contrast-table]` | 内容对比（见"比较与并列"）；无固定列宽，聚焦比较维度 |
+| `[!contrast-table]` | 列对比表（见"比较与并列"）；首列为维度，后列为 2–3 个对象（带 Amber/Rose/Teal 列底色） |
+| `[!row-contrast]` | 行对比表（见"比较与并列"）；表头为属性维度，行为多个研究/案例/政策，支持整行 hover 高亮与末行（Target Row）高光 |
 | `[!matrix-table]` | 多列统计参数/模型矩阵；为数学公式、长指标表达式、判定标准提供舒适列宽与横向滚动支持 |
 
 ---

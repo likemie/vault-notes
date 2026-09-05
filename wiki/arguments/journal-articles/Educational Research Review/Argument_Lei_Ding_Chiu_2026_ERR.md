@@ -7,7 +7,7 @@ title: "Argument_Lei_Ding_Chiu_2026_ERR"
 argument_key: "Argument_Lei_Ding_Chiu_2026_ERR"
 argument_display_title: "The effect of graphic organizers on cultivating higher-order thinking: Evidence from a meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 48
+argument_related_count: 49
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -47,6 +47,7 @@ related_concepts:
   - "[[Conatus]]"
   - "[[Variable]]"
   - "[[Operationalization]]"
+  - "[[Problem Solving]]"
   - "[[Creativity]]"
   - "[[Brainstorming]]"
   - "[[Document]]"
@@ -132,7 +133,7 @@ updated: '2026-08-27'
 > |---|---|---|
 > | **结果变量：[[Higher-Order Thinking Skills\|高阶思维倾向]]**<br>（HOT Disposition） | 个体主动探究未知、寻求理由、保持开放心智与坚持探究的主观心向与态度习惯。 | 34 项研究采用 5 点李克特量表；代表题项如“我喜欢提出前人从未想象过的问题”（Chiu & Hwang, 2024）。 |
 > | **结果变量：[[Higher-Order Thinking Skills\|高阶认知过程]]**<br>（HOT Cognitive Process） | 面对劣构问题时执行分析、评估、推论、综合与批判性反驳的即时心智运作。 | 17 项研究采用开放式写作任务与评分量规（Lane, 1993），评估推理深度、反驳质量与证据运用（Khrais & Saleh, 2020）。 |
-> | **结果变量：[[Higher-Order Thinking Skills\|高阶思维技能]]**<br>（HOT Outcome Skill） | 在特定情境或标准化测验中表现出的分析、推理、批判与问题解决综合能力结果。 | 57 项研究采用标准化多选题，如加州批判性思维技能测验（California Critical Thinking Skills Test, CCTST, Facione, 1990）与健康教育系统公司护理专业统考（Health Education Systems, Inc., HESI, Morrison et al., 2004）。 |
+> | **结果变量：[[Higher-Order Thinking Skills\|高阶思维技能]]**<br>（HOT Outcome Skill） | 在特定情境或标准化测验中表现出的分析、推理、批判与[[Problem Solving\|问题解决]]综合能力结果。 | 57 项研究采用标准化多选题，如加州批判性思维技能测验（California Critical Thinking Skills Test, CCTST, Facione, 1990）与健康教育系统公司护理专业统考（Health Education Systems, Inc., HESI, Morrison et al., 2004）。 |
 > | **结果变量：[[Divergent Thinking\|发散思维]]**<br>（Divergent Thinking） | 面对开放性问题生成新颖、多样且非常规构想与替代方案的[[Creativity\|创造性]]心智加工。 | 采用观念流畅性与独创性测验、[[Brainstorming\|头脑风暴]]方案多样性评分与创造性解题任务（Bin et al., 2022; Chen, 2020）。 |
 > | **结果变量：[[Convergent Thinking\|聚合思维]]**<br>（Convergent Thinking） | 基于严密逻辑规则对信息进行批判性审视、筛选、演绎与收敛至最优解的思维。 | 采用演绎推理测验、论据有效性识别与标准化单项选择推理题（Akinoglu, 2013; Bilik et al., 2020）。 |
 > | **干预变量：[[Mind Mapping\|思维导图]]**<br>（Mind Mapping） | 以单一中心概念为核心向外辐射多级分支，低结构复杂度，强调联想发散与速记。 | 教学采用教师导入规则、自主发散绘制与反馈迭代规程，应用于头脑风暴与创意写作（Chiu & Hwang, 2024; Chen, 2020）。 |

@@ -9,7 +9,7 @@ title: "Argument_Eacott_2011_JEAH"
 argument_key: "Argument_Eacott_2011_JEAH"
 argument_display_title: "Preparing 'educational' leaders in managerialist times: an Australian story"
 argument_kind: "journal-article"
-argument_related_count: 12
+argument_related_count: 13
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ tags:
 related_concepts:
   - "[[School Leadership]]"
   - "[[Problem-Posing Education]]"
+  - "[[Problem Solving]]"
   - "[[Habitus]]"
   - "[[Champ]]"
   - "[[Doxa]]"
@@ -60,7 +61,7 @@ citation_aliases:
 > [!question]
 > 在管理主义时代，澳大利亚新南威尔士州（NSW）公立学校系统的校长培养方案如何建构了特定的校长身份？这种身份建构服务于什么目的？是否存在替代性的领导力培养路径？
 
-Eacott 的核心论点是：NSW 的校长培养不过是"当代国家对公共部门管理主义干预的一部分"，它将校长建构为"国家启动的改革的交付者（deliverer）"。论文提出替代方案：[[School Leadership|学校领导]]者需要一种基于"教育问题提出与争辩"（educational [[Problem-Posing Education|problem posing]] and contestation）而非"组织问题解决"（organisational problem solving）的替代性领导[[Habitus|习性]](p.45)。
+Eacott 的核心论点是：NSW 的校长培养不过是"当代国家对公共部门管理主义干预的一部分"，它将校长建构为"国家启动的改革的交付者（deliverer）"。论文提出替代方案：[[School Leadership|学校领导]]者需要一种基于"教育问题提出与争辩"（educational [[Problem-Posing Education|problem posing]] and contestation）而非"组织[[Problem Solving|问题解决]]"（organisational problem solving）的替代性领导[[Habitus|习性]](p.45)。
 
 
 ## 理论框架
@@ -96,7 +97,7 @@ Eacott 论证 NSW 的校长培养方案（'principal preparation programme', 'hi
 
 1. **证据本位决策（evidence-based strategies）** Scott 宣称需要"来自稳健研究的证据本位策略"。English(2003)论证证据本位决策实际上"使学校变蠢"（dumbs down schools），因为教学被简化为数字，"什么重要实际上由所选择的问题决定"(p.50)
 2. **技术-[[Rationalism in International Relations|理性主义]]（techno-rationalist approaches）** 改进通过一系列逻辑增量实现。这种 doxa"未能充分参与社会生活的复杂性以及人与组织互动的涨落"(p.50)。Bourdieu 指出理性选择在实践中几乎永远无法获得其所需条件——"时间稀缺、信息有限、替代方案定义不清、实际事务紧迫"(p.57)
-3. **理论与实践的工具性二分** Scott 主张领导力培养应"持续将理论与实践联系起来"——暗示二者分离存在。所谓"理论"仅指"教育管理者的知识专业化和问题解决工具"，而非"理解[[School Leadership|学校领导力]]现象的理论"(p.51)
+3. **理论与实践的工具性二分** Scott 主张领导力培养应"持续将理论与实践联系起来"——暗示二者分离存在。所谓"理论"仅指"教育管理者的知识专业化和[[Problem Solving|问题解决]]工具"，而非"理解[[School Leadership|学校领导力]]现象的理论"(p.51)
 
 ### 第二步：立法和专业标准将校长固化为"交付者"
 

@@ -9,7 +9,7 @@ aliases:
 summary: "由卡罗尔·韦斯开创并经公共政策与教育研究发展的理论模型谱系，系统阐明学术研究进入政策与实践的非线性多元机制（知识驱动、问题解决、互动、政治、战术、启蒙及社会智识事业），奠定工具性、概念性与象征性使用三元分类的基础。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 53
+theory_related_count: 54
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Policy Science in Comparative Education]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Evidence-Based Education]]"
+  - "[[Problem Solving]]"
   - "[[Problem Finding]]"
   - "[[Research Utilization]]"
   - "[[Construct]]"
@@ -97,7 +98,7 @@ updated: 2026-08-29
 > - **知识位置** 所属学科为[[Policy Science in Comparative Education|政策科学]]（Policy Sciences）、[[Knowledge Mobilisation|知识动员]]与利用（Knowledge Mobilization and Utilization）、[[Evidence-Based Education|循证教育]]学；开创者为[[Carol Weiss]]（1979, 1980, 1991b），后续经 Pelz (1978)、Beyer & Trice (1982)、Nutley et al. (2007) 系统化。
 
 > [!claim] 核心主张
-> 研究并非通过直接的“证据输入 $\rightarrow$ 决策产出”工程式闭环进入实践，而是沿着知识驱动、问题解决、持续互动、政治辩护、战术拖延、概念启蒙与社会智识涵育等多重路径展开；其中最深远的影响是通过“知识渗透”（knowledge creep）与“决策累积”（decision accretion）潜移默化地重塑实践者的概念视界与[[Problem Finding|问题界定]]方式。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, p. 3)]]
+> 研究并非通过直接的“证据输入 $\rightarrow$ 决策产出”工程式闭环进入实践，而是沿着知识驱动、[[Problem Solving|问题解决]]、持续互动、政治辩护、战术拖延、概念启蒙与社会智识涵育等多重路径展开；其中最深远的影响是通过“知识渗透”（knowledge creep）与“决策累积”（decision accretion）潜移默化地重塑实践者的概念视界与[[Problem Finding|问题界定]]方式。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, p. 3)]]
 
 > [!citation-card]- 关键表述
 > [[Research Utilization|研究利用]]并不总是意味着做出具体决策时的直接依据。更常见的情况是，研究的概念和理论逐渐扩散并渗透到决策者的日常思考中，以缓慢而累积的方式重构他们理解问题、定义优先级与评价备选方案的整体智识地图。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 132)]]
@@ -128,7 +129,7 @@ updated: 2026-08-29
 > - **前提二** 现实中的政策制定与教学实践高度受到价值冲突、政治博弈、制度惯性与认知负荷的制约，研究证据只是多元竞争信息流中的一种输入。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, p. 3)]]
 > - **推导** Weiss (1979) 进而提出解构线性迷思的七种经典模型，并在 1991 年进一步提炼为四种过程范式：
 >   ① **知识驱动模型（Knowledge-Driven Model）** [[Blue Skies Research|基础研究]] $\rightarrow$ [[Evaluation Research|应用研究]] $\rightarrow$ 技术开发 $\rightarrow$ 成果应用，适用于强自然科学或工程[[Research Translation|技术转化]]，但在复杂社会教育情境中往往受限；
->   ② **问题解决模型（Problem-Solving Model）** 决策者面临明确待解难题 $\rightarrow$ 主动检索或委托针对性实证研究 $\rightarrow$ 研究提供最优方案 $\rightarrow$ 决策落地；
+>   ② **[[Problem Solving|问题解决]]模型（Problem-Solving Model）** 决策者面临明确待解难题 $\rightarrow$ 主动检索或委托针对性实证研究 $\rightarrow$ 研究提供最优方案 $\rightarrow$ 决策落地；
 >   ③ **互动模型（Interactive Model）** 研究者、政策制定者、行政人员与一线教师处于非线性的多边[[Dialogue in Education|对话]]网络中，研究证据与实践者的经验智慧、政治判断相互激荡与调适；
 >   ④ **政治模型（Political Model）** 决策方案已由意识形态或既得利益预先确定，研究被选择性引用作为佐证论点、打击异见或增强合法性的“政治弹药”；
 >   ⑤ **战术模型（Tactical Model）** 政府或学校管理层以“正在委托专家开展深入研究”为由拖延决策、转移公众问责压力或展示虚假积极姿态；
@@ -228,7 +229,7 @@ updated: 2026-08-29
 ## 发展脉络
 
 > [!dev-timeline] 发展脉络
-> - **1979 — 经典奠基** [[Carol Weiss|Carol Weiss]] 发表标志性论文 *The Many Meanings of [[Research Utilization]]*，系统提出知识驱动、问题解决、互动、政治、战术、启蒙及社会智识事业 7 种经典模型，打破[[Technical Rationality|技术理性]]垄断。
+> - **1979 — 经典奠基** [[Carol Weiss|Carol Weiss]] 发表标志性论文 *The Many Meanings of [[Research Utilization]]*，系统提出知识驱动、[[Problem Solving|问题解决]]、互动、政治、战术、启蒙及社会智识事业 7 种经典模型，打破[[Technical Rationality|技术理性]]垄断。
 > - **1980 — 机制深化** Weiss 发表 *Knowledge Creep and Decision Accretion*，正式提出“知识渗透”与“决策累积”概念，为[[Conceptual, Instrumental, and Symbolic Use of Research|概念性使用]]奠定微观认知与社会学机制解释。
 > - **1982 — 类型学提炼** Beyer & Trice 在组织研究中进一步将纷繁的利用形态凝练为**工具性（Instrumental）**、**概念性（Conceptual）**与**象征性（Symbolic）**三元分类，成为后续实证研究最通用的[[Operationalization|操作化]]工具。
 > - **1991 — 过程模型重构** Weiss 在公共政策研究中提炼出研发、问题解决、互动与战术四类政策过程模型（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03|Cohen et al., 2011, p. 43]]）。
@@ -249,7 +250,7 @@ updated: 2026-08-29
 > > - **Biesta（2007）** 批评将[[Research Utilization|研究利用]]窄化为工具性技术处方的做法剥夺了教师的[[Professional Judgment|专业判断力]]（Professional Judgment），强调启蒙与批判才是教育研究的本真价值。
 >
 > > [!axis] 线性传输[[Hypothesis|假设]]与复杂系统演化的[[Paradigm|范式]]对立
-> > 传统循证政策制定者依然偏好“知识驱动”与“问题解决”的线性逻辑，试图建立从国家证据中心（如 [[What Works Clearinghouse]]）直接下达操作指南的管道；[[Complexity Theory|复杂性理论]]学者则认为该构想在复杂教育生态中注定失灵。
+> > 传统循证政策制定者依然偏好“知识驱动”与“[[Problem Solving|问题解决]]”的线性逻辑，试图建立从国家证据中心（如 [[What Works Clearinghouse]]）直接下达操作指南的管道；[[Complexity Theory|复杂性理论]]学者则认为该构想在复杂教育生态中注定失灵。
 > >
 > > - **Hargreaves（1996）** 主张建立类似循证医学的[[Knowledge Production|知识生产]]与直接转化体系。
 > > - **Greenhalgh & Wieringa（2011）** 批评单纯的知识传输（[[Knowledge Transfer]]）隐喻脱离实际，呼吁全面转向基于社会实践的知识流动与共创（[[Knowledge Mobilisation]]）。
@@ -266,4 +267,4 @@ updated: 2026-08-29
 > - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|Kazancı Tınmaz & Sezgin (2023)]] — 将[[Research Utilization|研究利用]]模型与[[Theory of Planned Behavior|计划行为理论]]结合，开发并验证 20 题 4 维度的[[Research Literacy Scale for Teachers|教师研究素养量表]]，证实研究技能是连接积极态度与实际使用的关键知觉控制枢纽，且做研究与读期刊具有双轨赋能效应。
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] — 在关于教师协作参与科研的[[Framework Synthesis|框架综合]]中，运用 Weiss 的研究利用分类区分深度整合与浅层象征性合规，揭示信任与制度支持在促成互动模型中的决定性作用。
 > - [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] — 梳理 Weiss (1979) 以来研究利用[[Document|文献]]对国际[[Evidence-Informed Practice|证据知情实践]]（EIP）的奠基作用，探讨[[Knowledge Mobilisation|知识动员]]条件与系统性落地瓶颈。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03|Cohen, Manion & Morrison (2011, Ch. 3)]] — 系统评述 Weiss (1991b) 的政策研究利用四模型（研发、问题解决、互动、战术），探讨教育研究与政策制定之间的多重复杂关系。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03|Cohen, Manion & Morrison (2011, Ch. 3)]] — 系统评述 Weiss (1991b) 的政策研究利用四模型（研发、[[Problem Solving|问题解决]]、互动、战术），探讨教育研究与政策制定之间的多重复杂关系。

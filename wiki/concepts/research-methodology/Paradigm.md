@@ -10,7 +10,7 @@ aliases:
 summary: "库恩提出的核心概念，指研究共同体共享的看待现象的方式、世界观、信念体系和原则集合，决定了什么算作合法的科学知识和研究方法。"
 type: concept
 domain: "research-methodology"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,6 +19,7 @@ tags:
   - theme/research-philosophy
   - theme/philosophy-of-science
 related_concepts:
+  - "[[Problem Solving]]"
   - "[[Incommensurability]]"
   - "[[Value Neutrality]]"
   - "[[Positivism]]"
@@ -45,7 +46,7 @@ updated: 2026-07-11
 ## 定义
 
 > [!def] 范式（Paradigm）
-> [[Deanna Kuhn|库恩]]（Thomas Kuhn, 1962, p. 23）将范式定义为"一种被接受的模型或模式"（an accepted model or pattern）。更具体地说，范式是一种看待或研究现象的方式，一种世界观，一种关于什么算作被接受或正确的科学知识或工作方式的观点，一种共享的信念体系或原则集合，一个研究共同体的身份标识，一种追求知识的方式，对研究什么问题以及如何研究这些问题的共识，典型的问题解决方案，以及一种比其竞争对手更容易被接受的理解（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
+> [[Deanna Kuhn|库恩]]（Thomas Kuhn, 1962, p. 23）将范式定义为"一种被接受的模型或模式"（an accepted model or pattern）。更具体地说，范式是一种看待或研究现象的方式，一种世界观，一种关于什么算作被接受或正确的科学知识或工作方式的观点，一种共享的信念体系或原则集合，一个研究共同体的身份标识，一种追求知识的方式，对研究什么问题以及如何研究这些问题的共识，典型的[[Problem Solving|问题解决]]方案，以及一种比其竞争对手更容易被接受的理解（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
 
 ## 科学发展循环
 

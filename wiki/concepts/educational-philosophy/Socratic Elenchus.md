@@ -11,7 +11,7 @@ aliases:
 summary: "由苏格拉底与柏拉图提出的哲学交锋与交叉反诘方法，通过连续提问揭示既有信念中的内在矛盾，为真理探求与辩证法清理土壤。"
 type: concept
 domain: "educational-philosophy"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Growth]]"
   - "[[Banking Model of Education]]"
   - "[[Socratic Dialogue]]"
+  - "[[Problem Solving]]"
   - "[[Active Learning]]"
   - "[[Critical Pedagogy]]"
   - "[[Freedom of the Learner]]"
@@ -115,7 +116,7 @@ updated: 2026-08-25
 > - **[[Plato|柏拉图]]主义时期（哲学王与精英辩证法）**
 >   柏拉图将驳诘法升华为通往最高善的辩证法（Dialectic），但将其与统治阶层绑定，限定于护卫者阶层的精英培养 [[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 2–5)]]。
 > - **现代进步主义时期（[[John Dewey|杜威]]与探究式教学）**
->   [[John Dewey|杜威]]将驳诘法改造为基于“做”（doing）与问题解决（problem-posing）的[[Active Learning|主动学习]]环节，强调摆脱被动听讲 [[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 8–9)]]。
+>   [[John Dewey|杜威]]将驳诘法改造为基于“做”（doing）与[[Problem Solving|问题解决]]（problem-posing）的[[Active Learning|主动学习]]环节，强调摆脱被动听讲 [[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 8–9)]]。
 > - **当代[[Critical Pedagogy|批判教育学]]时期（全员民主与解放实践）**
 >   [[Paulo Freire|弗莱雷]]与 Darwish (2009) 进一步去除了驳诘法的精英色彩，要求赋予每一个学习者[[Freedom of the Learner|学习者的自由]]，通过[[Problem-Posing Education|提问式教育]]与[[Dialogue in Education|对话]]走向意识觉醒与实践。
 

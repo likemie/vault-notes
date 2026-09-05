@@ -9,7 +9,7 @@ summary: "苏联发明家、工程师与创造力科学家，发明问题解决�
 type: person
 nationality: "russia"
 person_region: "russia"
-person_related_count: 11
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ tags:
   - theme/creativity
   - theme/engineering-education
 related_concepts:
+  - "[[Problem Solving]]"
   - "[[Creativity Training]]"
   - "[[SCAMPER]]"
   - "[[Creativity]]"
@@ -54,7 +55,7 @@ updated: 2026-09-03
 
 > [!person-profile] 人物档案
 > - **身份位置** 苏联发明家、工程师、科普科幻作家（笔名亨利希·阿尔托夫）、阿奇舒勒发明学派创始人、苏联海军专利审查专家。
-> - **核心角色** 现代发明工程学与算法化问题解决理论的奠基人，被誉为“[[TRIZ]] 之父”；彻底终结了发明创新纯属神秘直觉的唯心论，开创了创新作为精确科学的方法论传统。
+> - **核心角色** 现代发明工程学与算法化[[Problem Solving|问题解决]]理论的奠基人，被誉为“[[TRIZ]] 之父”；彻底终结了发明创新纯属神秘直觉的唯心论，开创了创新作为精确科学的方法论传统。
 > - **代表贡献** 创立[[TRIZ|发明问题解决理论]]（TRIZ）、发现技术系统演化法则与理想最终解（IFR）、构建阿奇舒勒 39×39 矛盾矩阵与 40 个发明原理、开发 ARIZ 发明解题算法。
 
 > [!citation-card]- 人物定位的关键来源

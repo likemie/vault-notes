@@ -9,7 +9,7 @@ aliases:
 summary: "个体根据不断变化的环境情境、目标约束与反馈信息，在不同心智图式、思维范畴或解题策略之间灵活转换与重组的高阶执行功能与创造性思维底层机制。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 37
+related_count: 38
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -20,6 +20,7 @@ tags:
   - theme/creativity
   - theme/higher-order-thinking
 related_concepts:
+  - "[[Problem Solving]]"
   - "[[Executive Function]]"
   - "[[Working Memory]]"
   - "[[Creativity]]"
@@ -74,7 +75,7 @@ updated: 2026-09-03
 ## 定义
 
 > [!def] 核心定义
-> 认知灵活性（Cognitive Flexibility）是指个体根据变化的环境条件、任务约束与目标需求，在不同心智表征、概念范畴、注意规则或行动策略之间自适应切换，并抑制自动化思维定势以实现多路径问题解决的高阶认知与[[Executive Function|执行功能]]。在认知神经科学与学习科学中，它与[[Working Memory|工作记忆]]（[[Working Memory]]）和抑制控制（抑制控制）共同构成核心[[Executive Function|执行功能]]的三大支柱；在[[Creativity|创造力]]研究中，它被视为[[Divergent Thinking|发散思维]]、远距离概念重组与突破功能固着的最核心底层心智能力。[[Argument_Guo_2025_TSC|(Guo et al., 2025, pp. 2, 10)]]; [[Argument_Park_2026_TSC|(Park et al., 2026, pp. 2–3)]]; Diamond (2013); Spiro et al. (1988)
+> 认知灵活性（Cognitive Flexibility）是指个体根据变化的环境条件、任务约束与目标需求，在不同心智表征、概念范畴、注意规则或行动策略之间自适应切换，并抑制自动化思维定势以实现多路径[[Problem Solving|问题解决]]的高阶认知与[[Executive Function|执行功能]]。在认知神经科学与学习科学中，它与[[Working Memory|工作记忆]]（[[Working Memory]]）和抑制控制（抑制控制）共同构成核心[[Executive Function|执行功能]]的三大支柱；在[[Creativity|创造力]]研究中，它被视为[[Divergent Thinking|发散思维]]、远距离概念重组与突破功能固着的最核心底层心智能力。[[Argument_Guo_2025_TSC|(Guo et al., 2025, pp. 2, 10)]]; [[Argument_Park_2026_TSC|(Park et al., 2026, pp. 2–3)]]; Diamond (2013); Spiro et al. (1988)
 
 > [!concept-lens] 概念透镜
 > - **核心本质** 从习惯性单向思维通道中抽离，根据多维反馈在不同认知图式与评价标准间敏捷调配注意力的高阶心智掌控力。
@@ -163,7 +164,7 @@ updated: 2026-09-03
 > 认知灵活性并非不可更改的固定特质，而是可以通过系统化的认知练习获得显著提升。
 
 > [!claim] Guo et al.; Rute-Pérez et al.
-> **思维训练促通灵活性命题** 多层[[Meta-analysis|元分析]]证实，以提升认知灵活性、发散思维与问题解决能力为核心目标的“思维训练（Thinking training）”对大学生创造力表现具有强效促进作用（$g = 0.762, N = 31$），效果仅次于言语训练，显著高于情绪训练。通过密集演练[[Lateral Thinking|侧向思维]]谜题（Lateral Thinking Puzzles）、[[Brainstorming|头脑风暴]]与[[Mind Mapping|思维导图]]，学生学会了主动质疑思维定势、在不同[[Hypothesis|假设]]间灵活跳跃，其任务转换速度与发散范畴广度显著改善，直接确立了认知灵活性作为[[Creativity Training|创造力教学]]干预核心靶点的实证地位。[[Argument_Guo_2025_TSC|(Guo et al., 2025, pp. 8–10)]]; Rute-Pérez et al. (2024)
+> **思维训练促通灵活性命题** 多层[[Meta-analysis|元分析]]证实，以提升认知灵活性、发散思维与[[Problem Solving|问题解决能力]]为核心目标的“思维训练（Thinking training）”对大学生创造力表现具有强效促进作用（$g = 0.762, N = 31$），效果仅次于言语训练，显著高于情绪训练。通过密集演练[[Lateral Thinking|侧向思维]]谜题（Lateral Thinking Puzzles）、[[Brainstorming|头脑风暴]]与[[Mind Mapping|思维导图]]，学生学会了主动质疑思维定势、在不同[[Hypothesis|假设]]间灵活跳跃，其任务转换速度与发散范畴广度显著改善，直接确立了认知灵活性作为[[Creativity Training|创造力教学]]干预核心靶点的实证地位。[[Argument_Guo_2025_TSC|(Guo et al., 2025, pp. 8–10)]]; Rute-Pérez et al. (2024)
 
 ---
 
@@ -215,7 +216,7 @@ updated: 2026-09-03
 > | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | **【干预[[Variable\|变量]]】** 聚焦于培养[[Cognitive Shifting\|认知灵活性]]与[[Divergent Thinking\|发散思维]]的思维训练干预对[[Creativity\|创造力]]表现的总体促学效应 | $N = 31$ 个效应量 / $k = 29$ 原生研究 | Hedges' $g$ / 多层随机效应模型 | **$g = 0.762$** $[0.386, 1.138]$ | $SE = 0.191, Z = 3.987 (p < .001)$；异质性显著 | 证实针对认知灵活性的结构化练习能显著提升大学生的综合创造与问题解决表现 |
-> | Karr et al. (2018) | **【关联/预测[[Construct\|构念]]】** 认知灵活性（作为核心[[Executive Function\|执行功能]]）与高阶认知及[[Academic Achievement\|学业成就]]表现的元分析关联 | $k = 42$ 项实证研究 / $N = 8,920$ | 皮尔逊相关 $r$ / 随机效应模型 | **$r = 0.36$** $[0.29, 0.43]$ | 异质性中等 | 证实认知灵活性是预测个体在劣构环境中取得优异学业与问题解决表现的稳健心理构念 |
+> | Karr et al. (2018) | **【关联/预测[[Construct\|构念]]】** 认知灵活性（作为核心[[Executive Function\|执行功能]]）与高阶认知及[[Academic Achievement\|学业成就]]表现的元分析关联 | $k = 42$ 项实证研究 / $N = 8,920$ | 皮尔逊相关 $r$ / 随机效应模型 | **$r = 0.36$** $[0.29, 0.43]$ | 异质性中等 | 证实认知灵活性是预测个体在劣构环境中取得优异学业与[[Problem Solving\|问题解决]]表现的稳健心理构念 |
 
 > [!ma-table]- 一阶元分析互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
@@ -280,7 +281,7 @@ updated: 2026-09-03
 > | [[Working Memory]] | 概念 | 硬件支撑 | 工作记忆容量为灵活性的多视角表征提供即时在线操作平台。 |
 > | [[Creativity]] | 概念 | 核心能力 | 认知灵活性是突破功能固着、生成新颖适切构想的心理前提。 |
 > | [[Divergent Thinking]] | 概念 | 机制内核 | 发散思维在不同概念范畴间的跳跃广度直接受认知灵活性驱动。 |
-> | [[Creative Problem Solving]] | 理论 | 解决[[Paradigm\|范式]] | 劣构问题解决要求学习者在不同阶段自适应切换发散与收敛模式。 |
+> | [[Creative Problem Solving]] | 理论 | 解决[[Paradigm\|范式]] | 劣构[[Problem Solving\|问题解决]]要求学习者在不同阶段自适应切换发散与收敛模式。 |
 > | [[Creativity Training]] | 概念 | 教学载体 | 思维训练类干预（$g = 0.762$）以塑造心智灵活性为核心目标。 |
 > | [[Mind Mapping]] | 概念 | 外显支架 | 思维导图的多向辐射分支为认知灵活性提供全景视觉操作工作区。 |
 > | [[Cognitive Load Theory]] | 理论 | 负荷权衡 | 灵活切换需要消耗前额叶心智资源，过度频繁无序切换易导致认知负荷超载。 |

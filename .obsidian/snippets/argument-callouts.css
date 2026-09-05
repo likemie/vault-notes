@@ -17069,3 +17069,931 @@ table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nt
 .theme-dark .callout[data-callout="matrix-table"] tbody tr:hover td {
   background: rgba(138, 168, 202, 0.07);
 }
+
+/* ─── row-contrast（行级对照/横向文献与案例对比表 — 冷岩蓝） ──── */
+.callout[data-callout="row-contrast"],
+.callout[data-callout="compare-table"] {
+  --callout-color: 68, 92, 120;
+  --callout-icon: lucide-table-properties;
+  position: relative;
+  overflow: hidden;
+  background: var(--background-primary);
+  border: 1px solid rgba(68, 92, 120, 0.22);
+  border-top: 5px solid rgb(68, 92, 120);
+  border-radius: 8px;
+  padding: 0;
+  box-shadow: 0 4px 16px rgba(68, 92, 120, 0.08);
+  margin-block: 1rem 1.25rem;
+  transition: box-shadow 0.2s ease, border-color 0.2s ease;
+}
+
+.callout[data-callout="row-contrast"]:hover,
+.callout[data-callout="compare-table"]:hover {
+  box-shadow: 0 0 0 2px rgba(68, 92, 120, 0.18), 0 8px 24px rgba(68, 92, 120, 0.12);
+  border-color: rgba(68, 92, 120, 0.35);
+}
+
+.callout[data-callout="row-contrast"] > .callout-title,
+.callout[data-callout="compare-table"] > .callout-title {
+  color: rgb(46, 68, 92);
+  font-weight: 650;
+  padding: 0.65rem 1.15rem;
+  background: linear-gradient(90deg, rgba(68, 92, 120, 0.08), rgba(68, 92, 120, 0.02));
+  border-bottom: 1px solid rgba(68, 92, 120, 0.14);
+}
+
+.callout[data-callout="row-contrast"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="compare-table"] > .callout-title .callout-title-inner::before {
+  content: "COMPARE";
+  display: inline-block;
+  margin-right: 0.55rem;
+  padding: 2px 7px;
+  border-radius: 4px;
+  background: rgba(68, 92, 120, 0.15);
+  color: rgb(46, 68, 92);
+  font-size: var(--fs-label);
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  vertical-align: middle;
+}
+
+/* 内容区：开启丝滑横向拖拽/滚动与半透明滚动条 */
+.callout[data-callout="row-contrast"] > .callout-content,
+.callout[data-callout="compare-table"] > .callout-content {
+  padding: 0 !important;
+  overflow-x: auto !important;
+  -webkit-overflow-scrolling: touch !important;
+  max-width: 100% !important;
+  scrollbar-width: thin;
+  scrollbar-color: rgba(68, 92, 120, 0.35) transparent;
+}
+
+/* 表格：宽幅自适应展开，支撑横向平滑拖动 */
+.callout[data-callout="row-contrast"] table,
+.callout[data-callout="compare-table"] table {
+  width: max-content !important;
+  min-width: 100% !important;
+  border-collapse: collapse !important;
+  margin: 0 !important;
+  table-layout: auto !important;
+}
+
+.callout[data-callout="row-contrast"] thead th,
+.callout[data-callout="compare-table"] thead th {
+  background: rgba(68, 92, 120, 0.10);
+  color: rgb(36, 56, 78);
+  font-weight: 700;
+  font-size: calc(var(--fs-table) * 0.93);
+  letter-spacing: 0.02em;
+  padding: 0.55rem 0.75rem;
+  text-align: left;
+  border-bottom: 2px solid rgba(68, 92, 120, 0.25);
+  white-space: nowrap;
+}
+
+.callout[data-callout="row-contrast"] tbody td,
+.callout[data-callout="compare-table"] tbody td {
+  padding: 0.55rem 0.75rem;
+  font-size: calc(var(--fs-table) * 0.91);
+  line-height: 1.58;
+  border-bottom: 1px solid rgba(68, 92, 120, 0.08);
+  vertical-align: top;
+  color: var(--text-normal);
+  white-space: normal !important;
+  word-break: break-word;
+  overflow-wrap: break-word;
+}
+
+/* 5 列各列精准黄金列距排布（紧凑阅读流，消除过宽空白） */
+/* 第 1 列：对比文献（适中紧凑，不挤压折叠） */
+.callout[data-callout="row-contrast"] th:nth-child(1),
+.callout[data-callout="row-contrast"] td:nth-child(1),
+.callout[data-callout="compare-table"] th:nth-child(1),
+.callout[data-callout="compare-table"] td:nth-child(1) {
+  width: 140px !important;
+  min-width: 120px !important;
+  max-width: 160px !important;
+  font-weight: 650;
+  color: rgb(40, 60, 85);
+  background: rgba(68, 92, 120, 0.04);
+  border-right: 1px solid rgba(68, 92, 120, 0.12);
+}
+
+/* 第 2 列：涵盖时期与文献数 */
+.callout[data-callout="row-contrast"] th:nth-child(2),
+.callout[data-callout="row-contrast"] td:nth-child(2),
+.callout[data-callout="compare-table"] th:nth-child(2),
+.callout[data-callout="compare-table"] td:nth-child(2) {
+  width: 140px !important;
+  min-width: 120px !important;
+  max-width: 160px !important;
+  border-right: 1px solid rgba(68, 92, 120, 0.07);
+}
+
+/* 第 3 列：目标群体与技术范畴 */
+.callout[data-callout="row-contrast"] th:nth-child(3),
+.callout[data-callout="row-contrast"] td:nth-child(3),
+.callout[data-callout="compare-table"] th:nth-child(3),
+.callout[data-callout="compare-table"] td:nth-child(3) {
+  width: 175px !important;
+  min-width: 150px !important;
+  max-width: 200px !important;
+  border-right: 1px solid rgba(68, 92, 120, 0.07);
+}
+
+/* 第 4 列：结局构念分类 */
+.callout[data-callout="row-contrast"] th:nth-child(4),
+.callout[data-callout="row-contrast"] td:nth-child(4),
+.callout[data-callout="compare-table"] th:nth-child(4),
+.callout[data-callout="compare-table"] td:nth-child(4) {
+  width: 170px !important;
+  min-width: 145px !important;
+  max-width: 195px !important;
+  border-right: 1px solid rgba(68, 92, 120, 0.07);
+}
+
+/* 第 5 列：基线控制与关键结论（紧凑呈现，阅读视线不脱节） */
+.callout[data-callout="row-contrast"] th:nth-child(5),
+.callout[data-callout="row-contrast"] td:nth-child(5),
+.callout[data-callout="compare-table"] th:nth-child(5),
+.callout[data-callout="compare-table"] td:nth-child(5) {
+  width: 280px !important;
+  min-width: 240px !important;
+  max-width: 330px !important;
+}
+
+/* 偶数行轻微斑马纹（提升横向长行辨识度） */
+.callout[data-callout="row-contrast"] tbody tr:nth-child(even) td,
+.callout[data-callout="compare-table"] tbody tr:nth-child(even) td {
+  background: rgba(68, 92, 120, 0.025);
+}
+.callout[data-callout="row-contrast"] tbody tr:nth-child(even) td:first-child,
+.callout[data-callout="compare-table"] tbody tr:nth-child(even) td:first-child {
+  background: rgba(68, 92, 120, 0.06);
+}
+
+/* 整行悬停高亮（横向阅读辅助） */
+.callout[data-callout="row-contrast"] tbody tr {
+  transition: background 0.12s ease;
+}
+.callout[data-callout="row-contrast"] tbody tr:hover td,
+.callout[data-callout="compare-table"] tbody tr:hover td {
+  background: rgba(68, 92, 120, 0.08) !important;
+}
+
+/* 目标/基准研究行高亮（末行微绿高光突出突破点，字体与行距舒适适度） */
+.callout[data-callout="row-contrast"] tbody tr:last-child td,
+.callout[data-callout="compare-table"] tbody tr:last-child td {
+  background: rgba(45, 130, 120, 0.07);
+  border-top: 1.5px dashed rgba(45, 130, 120, 0.35);
+  border-bottom: none;
+  font-size: calc(var(--fs-table) * 0.93) !important;
+  line-height: 1.62 !important;
+}
+.callout[data-callout="row-contrast"] tbody tr:last-child td:first-child,
+.callout[data-callout="compare-table"] tbody tr:last-child td:first-child {
+  background: rgba(45, 130, 120, 0.14);
+  color: rgb(22, 92, 82);
+  font-weight: 750;
+  border-right-color: rgba(45, 130, 120, 0.28);
+}
+.callout[data-callout="row-contrast"] tbody tr:last-child:hover td,
+.callout[data-callout="compare-table"] tbody tr:last-child:hover td {
+  background: rgba(45, 130, 120, 0.12) !important;
+}
+
+/* 暗色模式适配 */
+.theme-dark .callout[data-callout="row-contrast"],
+.theme-dark .callout[data-callout="compare-table"] {
+  --callout-color: 138, 168, 202;
+  border-color: rgba(138, 168, 202, 0.22);
+  border-top-color: rgb(138, 168, 202);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.25);
+}
+
+.theme-dark .callout[data-callout="row-contrast"]:hover,
+.theme-dark .callout[data-callout="compare-table"]:hover {
+  box-shadow: 0 0 0 2px rgba(138, 168, 202, 0.22), 0 8px 24px rgba(0, 0, 0, 0.35);
+  border-color: rgba(138, 168, 202, 0.40);
+}
+
+.theme-dark .callout[data-callout="row-contrast"] > .callout-title,
+.theme-dark .callout[data-callout="compare-table"] > .callout-title {
+  color: rgb(165, 192, 222);
+  border-bottom-color: rgba(138, 168, 202, 0.16);
+  background: linear-gradient(90deg, rgba(138, 168, 202, 0.12), rgba(138, 168, 202, 0.03));
+}
+
+.theme-dark .callout[data-callout="row-contrast"] > .callout-title .callout-title-inner::before,
+.theme-dark .callout[data-callout="compare-table"] > .callout-title .callout-title-inner::before {
+  background: rgba(138, 168, 202, 0.16);
+  color: rgb(165, 192, 222);
+}
+
+.theme-dark .callout[data-callout="row-contrast"] thead th,
+.theme-dark .callout[data-callout="compare-table"] thead th {
+  background: rgba(138, 168, 202, 0.12);
+  color: rgb(185, 210, 238);
+  border-bottom-color: rgba(138, 168, 202, 0.25);
+}
+
+.theme-dark .callout[data-callout="row-contrast"] tbody td,
+.theme-dark .callout[data-callout="compare-table"] tbody td {
+  border-bottom-color: rgba(138, 168, 202, 0.08);
+}
+
+.theme-dark .callout[data-callout="row-contrast"] th:nth-child(1),
+.theme-dark .callout[data-callout="row-contrast"] td:nth-child(1),
+.theme-dark .callout[data-callout="compare-table"] th:nth-child(1),
+.theme-dark .callout[data-callout="compare-table"] td:nth-child(1) {
+  background: rgba(138, 168, 202, 0.05);
+  color: rgb(185, 210, 238);
+  border-right-color: rgba(138, 168, 202, 0.14);
+}
+
+.theme-dark .callout[data-callout="row-contrast"] th:nth-child(2),
+.theme-dark .callout[data-callout="row-contrast"] td:nth-child(2),
+.theme-dark .callout[data-callout="row-contrast"] th:nth-child(3),
+.theme-dark .callout[data-callout="row-contrast"] td:nth-child(3),
+.theme-dark .callout[data-callout="row-contrast"] th:nth-child(4),
+.theme-dark .callout[data-callout="row-contrast"] td:nth-child(4),
+.theme-dark .callout[data-callout="compare-table"] th:nth-child(2),
+.theme-dark .callout[data-callout="compare-table"] td:nth-child(2),
+.theme-dark .callout[data-callout="compare-table"] th:nth-child(3),
+.theme-dark .callout[data-callout="compare-table"] td:nth-child(3),
+.theme-dark .callout[data-callout="compare-table"] th:nth-child(4),
+.theme-dark .callout[data-callout="compare-table"] td:nth-child(4) {
+  border-right-color: rgba(138, 168, 202, 0.08);
+}
+
+.theme-dark .callout[data-callout="row-contrast"] tbody tr:nth-child(even) td,
+.theme-dark .callout[data-callout="compare-table"] tbody tr:nth-child(even) td {
+  background: rgba(138, 168, 202, 0.03);
+}
+.theme-dark .callout[data-callout="row-contrast"] tbody tr:nth-child(even) td:first-child,
+.theme-dark .callout[data-callout="compare-table"] tbody tr:nth-child(even) td:first-child {
+  background: rgba(138, 168, 202, 0.07);
+}
+
+.theme-dark .callout[data-callout="row-contrast"] tbody tr:hover td,
+.theme-dark .callout[data-callout="compare-table"] tbody tr:hover td {
+  background: rgba(138, 168, 202, 0.09) !important;
+}
+
+.theme-dark .callout[data-callout="row-contrast"] tbody tr:last-child td,
+.theme-dark .callout[data-callout="compare-table"] tbody tr:last-child td {
+  background: rgba(60, 180, 165, 0.10);
+  border-top-color: rgba(60, 180, 165, 0.35);
+  color: rgb(215, 230, 245);
+}
+.theme-dark .callout[data-callout="row-contrast"] tbody tr:last-child td:first-child,
+.theme-dark .callout[data-callout="compare-table"] tbody tr:last-child td:first-child {
+  background: rgba(60, 180, 165, 0.18);
+  color: rgb(100, 225, 210);
+  border-right-color: rgba(60, 180, 165, 0.35);
+}
+.theme-dark .callout[data-callout="row-contrast"] tbody tr:last-child:hover td,
+.theme-dark .callout[data-callout="compare-table"] tbody tr:last-child:hover td {
+  background: rgba(60, 180, 165, 0.15) !important;
+}
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   Table Interpretation Cards (图表解读专属结构化卡片排版)
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/* 1. 图表解读导语段落：与上方表格拉开呼吸间距，首个粗体作为指示徽标 */
+.callout .callout-content > table ~ p,
+.callout .callout-content > .table-wrapper ~ p {
+  margin-top: 1.15rem;
+  margin-bottom: 0.55rem;
+  padding: 0 0.2rem;
+  font-size: 0.88rem;
+  line-height: 1.6;
+  color: var(--text-muted);
+}
+
+.callout .callout-content > table ~ p > strong:first-child,
+.callout .callout-content > .table-wrapper ~ p > strong:first-child {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.15rem 0.6rem;
+  margin-right: 0.5rem;
+  border-radius: 4px;
+  background: rgba(var(--callout-color, 120, 140, 180), 0.14);
+  color: rgb(var(--callout-color, 120, 140, 180));
+  font-weight: 750;
+  font-size: 0.84rem;
+  letter-spacing: 0.04em;
+  vertical-align: middle;
+}
+
+/* 2. 图表解读要点列表：卡片化布局，告别密集文本堆叠 */
+.callout .callout-content > table ~ ul,
+.callout .callout-content > .table-wrapper ~ ul {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin: 0.5rem 0 0.8rem;
+  padding: 0;
+  list-style: none;
+}
+
+.callout .callout-content > table ~ ul > li,
+.callout .callout-content > .table-wrapper ~ ul > li {
+  position: relative;
+  margin: 0;
+  padding: 0.65rem 0.85rem 0.65rem 1.95rem;
+  border-radius: 6px;
+  border: 1px solid rgba(var(--callout-color, 120, 140, 180), 0.13);
+  border-left: 3.5px solid rgb(var(--callout-color, 120, 140, 180));
+  background: rgba(var(--callout-color, 120, 140, 180), 0.04);
+  font-size: 0.88rem;
+  line-height: 1.65;
+  color: var(--text-normal);
+  transition: background 0.15s ease, border-color 0.15s ease;
+}
+
+.callout .callout-content > table ~ ul > li:hover,
+.callout .callout-content > .table-wrapper ~ ul > li:hover {
+  background: rgba(var(--callout-color, 120, 140, 180), 0.08);
+  border-color: rgba(var(--callout-color, 120, 140, 180), 0.25);
+}
+
+.callout .callout-content > table ~ ul > li::before,
+.callout .callout-content > .table-wrapper ~ ul > li::before {
+  content: "▸";
+  position: absolute;
+  left: 0.75rem;
+  top: 0.62rem;
+  color: rgb(var(--callout-color, 120, 140, 180));
+  font-weight: 800;
+  font-size: 0.95rem;
+  line-height: 1.65;
+}
+
+.callout .callout-content > table ~ ul > li > strong:first-child,
+.callout .callout-content > .table-wrapper ~ ul > li > strong:first-child {
+  color: rgb(var(--callout-color, 120, 140, 180));
+  font-weight: 750;
+  margin-right: 0.45rem;
+}
+
+/* 3. 深色模式微调 */
+.theme-dark .callout .callout-content > table ~ ul > li,
+.theme-dark .callout .callout-content > .table-wrapper ~ ul > li {
+  background: rgba(var(--callout-color, 140, 160, 200), 0.07);
+  border-color: rgba(var(--callout-color, 140, 160, 200), 0.18);
+}
+
+.theme-dark .callout .callout-content > table ~ ul > li:hover,
+.theme-dark .callout .callout-content > .table-wrapper ~ ul > li:hover {
+  background: rgba(var(--callout-color, 140, 160, 200), 0.12);
+}
+
+/* =====================================================================
+   v3 · Prismatic study — 2026-09-05
+   Component-specific enhancement of v2. Preserve semantic shapes, counters,
+   watermarks, timelines, responsive item-count layouts and hover interactions.
+   Theme tokens describe material and ink, not a universal card template.
+   ===================================================================== */
+.callout[data-callout] {
+  --rc-ink: color-mix(in srgb, rgb(var(--callout-color)) 72%, var(--text-normal));
+  --rc-glow: rgba(var(--callout-color), 0.14);
+  --rc-edge: rgba(var(--callout-color), 0.25);
+  --rc-panel: color-mix(in srgb, var(--background-primary) 93%, rgb(var(--callout-color)));
+  --rc-raised: color-mix(in srgb, var(--background-primary) 97%, rgb(var(--callout-color)));
+  --rc-shine: rgb(255 255 255 / 0.65);
+  --rc-shadow: rgb(25 35 55 / 0.09);
+  --fs-caption: 0.84rem;
+  --fs-body: 0.96rem;
+  --fs-display: 1.85rem;
+  min-width: 0;
+}
+.theme-dark .callout[data-callout] {
+  --rc-ink: color-mix(in srgb, rgb(var(--callout-color)) 48%, var(--text-normal));
+  --rc-glow: rgba(var(--callout-color), 0.22);
+  --rc-edge: rgba(var(--callout-color), 0.36);
+  --rc-panel: color-mix(in srgb, var(--background-primary) 87%, rgb(var(--callout-color)));
+  --rc-raised: color-mix(in srgb, var(--background-primary) 93%, rgb(var(--callout-color)));
+  --rc-shine: rgb(255 255 255 / 0.07);
+  --rc-shadow: rgb(0 0 0 / 0.28);
+}
+.callout[data-callout] > .callout-content { line-height: 1.75; }
+.callout[data-callout] > .callout-title { color: var(--rc-ink); }
+.callout[data-callout] :is(a, button, [tabindex]):focus-visible {
+  outline: 2px solid var(--rc-ink); outline-offset: 3px;
+}
+/* 01 / Question · ruby spotlight; definition · indigo bookplate. */
+.callout[data-callout="question"] {
+  padding: 1.15rem 1.3rem;
+  border-radius: 16px 16px 16px 4px;
+  border-left-width: 5px;
+  background: radial-gradient(ellipse at 100% 0%, var(--rc-glow), transparent 65%),
+    linear-gradient(120deg, var(--rc-panel), var(--background-primary));
+  box-shadow: 0 12px 30px -16px var(--rc-shadow), inset 0 1px var(--rc-shine);
+}
+.callout[data-callout="question"] > .callout-content { position: relative; z-index: 1; padding-right: 1.5rem; }
+.callout[data-callout="question"]::after { right: 0.4rem; font-size: 8rem; color: var(--rc-glow); }
+.callout[data-callout="def"] {
+  border-radius: 4px 16px 16px 4px;
+  padding: 1.15rem 1.35rem;
+  background: radial-gradient(ellipse at 95% 0%, var(--rc-glow), transparent 55%),
+    linear-gradient(100deg, var(--rc-panel), var(--background-primary));
+  box-shadow: -4px 4px 0 -1px var(--rc-panel), 0 12px 28px -18px var(--rc-shadow);
+}
+.callout[data-callout="def"]::after { color: var(--rc-glow); font-size: 7rem; right: 0.8rem; }
+/* 02 / Claims and reasoning · embossed header bands. */
+.callout:is([data-callout="claim"],
+  [data-callout="warrant"],
+  [data-callout="implication"],
+  [data-callout="concept-lens"],
+  [data-callout="conclusion"],
+  [data-callout="volume-argument"],
+  [data-callout="monograph-thesis"]) {
+  border-radius: 14px;
+  border-color: var(--rc-edge);
+  box-shadow: 0 10px 28px -16px var(--rc-shadow), inset 0 1px var(--rc-shine);
+}
+.callout:is([data-callout="claim"],
+  [data-callout="warrant"],
+  [data-callout="implication"],
+  [data-callout="concept-lens"],
+  [data-callout="conclusion"],
+  [data-callout="volume-argument"],
+  [data-callout="monograph-thesis"]) > .callout-title {
+  background: linear-gradient(110deg, var(--rc-glow), transparent 90%);
+  color: var(--rc-ink);
+  padding: 0.85rem 1.1rem;
+  border-bottom: 1px solid var(--rc-edge);
+}
+.callout:is([data-callout="claim"],
+  [data-callout="warrant"],
+  [data-callout="implication"],
+  [data-callout="concept-lens"],
+  [data-callout="conclusion"],
+  [data-callout="volume-argument"],
+  [data-callout="monograph-thesis"]) > .callout-content {
+  padding: 0.8rem 1.1rem;
+}
+/* 03 / Feature tiles · jewel labels, illuminated edges, asymmetric corners. */
+.callout:is([data-callout="feature"]) {
+  container-type: inline-size;
+  border-radius: 16px;
+  padding: 1rem 1.1rem;
+  background:
+    radial-gradient(circle at 100% 0%, var(--rc-glow), transparent 50%),
+    linear-gradient(rgba(var(--callout-color), .035) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(var(--callout-color), .035) 1px, transparent 1px), var(--background-primary);
+  background-size: auto, 24px 24px, 24px 24px, auto;
+}
+.callout:is([data-callout="feature"]) > .callout-content > ul > li {
+  border-radius: 12px 12px 12px 3px;
+  background: linear-gradient(145deg, var(--rc-raised), var(--rc-panel));
+  border-color: var(--rc-edge);
+  padding: 1rem;
+  box-shadow: inset 0 1px var(--rc-shine), 0 7px 18px -12px var(--rc-shadow);
+  transition: transform 180ms ease, box-shadow 180ms ease;
+  min-width: 0;
+}
+.callout:is([data-callout="feature"]) > .callout-content > ul > li > strong:first-of-type {
+  background: linear-gradient(120deg, color-mix(in srgb, rgb(var(--callout-color)) 75%, #102a26), #146c59);
+  color: #fff;
+  border-radius: 6px 6px 6px 2px;
+  padding: .28em .65em;
+  box-shadow: 0 3px 8px var(--rc-glow);
+  font-size: .9em;
+}
+/* 04 / Statistics · instrument face, generous numerals and baseline accent. */
+.callout:is([data-callout="stat-cards"]) {
+  container-type: inline-size;
+  border-radius: 16px;
+  padding: 1rem 1.1rem;
+  background: radial-gradient(ellipse at 0 0, var(--rc-glow), transparent 70%), var(--background-primary);
+}
+.callout:is([data-callout="stat-cards"]) > .callout-content > ul > li {
+  position: relative;
+  overflow: hidden;
+  padding: 1.25rem 1.1rem;
+  border: 1px solid var(--rc-edge);
+  border-bottom: 3px solid var(--rc-ink);
+  border-radius: 12px;
+  background: repeating-linear-gradient(0deg, transparent 0 23px, rgba(var(--callout-color), .045) 23px 24px),
+    linear-gradient(140deg, var(--rc-raised), var(--rc-panel));
+  box-shadow: inset 0 1px var(--rc-shine), 0 8px 20px -12px var(--rc-shadow);
+  min-width: 0;
+}
+.callout:is([data-callout="stat-cards"]) > .callout-content > ul > li > strong:first-of-type {
+  color: var(--rc-ink);
+  font-size: clamp(1.7rem, 5cqi, 2.5rem);
+  font-weight: 800;
+  letter-spacing: -.045em;
+  font-variant-numeric: tabular-nums;
+  line-height: 1.2;
+}
+/* 05 / Findings · copper award cards; evidence · numbered source tiles. */
+.callout:is([data-callout="finding-cards"]) {
+  container-type: inline-size;
+  padding: 1rem 1.1rem;
+  border-radius: 16px;
+  background: radial-gradient(ellipse at 100% 0, var(--rc-glow), transparent 70%), var(--rc-raised);
+}
+.callout:is([data-callout="finding-cards"]) > .callout-content > :is(ul, ol) > li {
+  border-radius: 6px 14px 14px 14px;
+  border-color: var(--rc-edge);
+  background: linear-gradient(145deg, var(--rc-panel), var(--rc-raised));
+  box-shadow: inset 0 1px var(--rc-shine), 0 8px 20px -12px var(--rc-shadow);
+  padding: 1.1rem 1rem 1.1rem 2.8rem;
+}
+.callout:is([data-callout="evidence-grid"],
+  [data-callout="evidence-grid-a"],
+  [data-callout="evidence-grid-b"]) {
+  container-type: inline-size; padding: 1rem 1.1rem; border-radius: 14px;
+}
+.callout:is([data-callout="evidence-grid"],
+  [data-callout="evidence-grid-a"],
+  [data-callout="evidence-grid-b"]) > .callout-content > ul > li {
+  background: linear-gradient(165deg, var(--rc-raised), var(--rc-panel));
+  border: 1px solid var(--rc-edge);
+  border-top: 3px solid var(--rc-ink);
+  border-radius: 4px 4px 12px 12px;
+  box-shadow: inset 0 1px var(--rc-shine), 0 8px 20px -14px var(--rc-shadow);
+  padding: 1rem;
+  min-width: 0;
+}
+/* 06 / Analytical dimensions · stepped panels with enamel number badges. */
+.callout:is([data-callout="dimension"],
+  [data-callout="theory-components"],
+  [data-callout="factors"],
+  [data-callout="chain-link"]) {
+  border-radius: 14px;
+  border-color: var(--rc-edge);
+  background: radial-gradient(ellipse at 100% 0, var(--rc-glow), transparent 60%), var(--background-primary);
+  box-shadow: 0 12px 28px -18px var(--rc-shadow);
+}
+.callout:is([data-callout="dimension"],
+  [data-callout="theory-components"],
+  [data-callout="factors"],
+  [data-callout="chain-link"]) > .callout-title {
+  color: var(--rc-ink);
+  background: linear-gradient(90deg, var(--rc-glow), transparent);
+  padding: .85rem 1.1rem;
+}
+.callout:is([data-callout="dimension"],
+  [data-callout="theory-components"],
+  [data-callout="factors"],
+  [data-callout="chain-link"]) > .callout-content > :is(ul, ol) > li {
+  background: linear-gradient(115deg, var(--rc-panel), var(--rc-raised));
+  border-color: var(--rc-edge);
+  border-radius: 10px;
+  box-shadow: inset 0 1px var(--rc-shine), 0 5px 15px -12px var(--rc-shadow);
+}
+.callout:is([data-callout="dimension"],
+  [data-callout="theory-components"],
+  [data-callout="factors"],
+  [data-callout="chain-link"]) > .callout-content > :is(ul, ol) > li > strong:first-of-type {
+  color: var(--rc-ink); border-color: var(--rc-edge);
+}
+/* 07 / Time · raised event plates along the existing node-and-rail geometry. */
+.callout:is([data-callout="timeline"],
+  [data-callout="phase"],
+  [data-callout="dev-timeline"],
+  [data-callout="thought-timeline"]) {
+  border-radius: 14px;
+  border-color: var(--rc-edge);
+  background: linear-gradient(110deg, var(--rc-panel), var(--background-primary) 75%);
+}
+.callout:is([data-callout="timeline"],
+  [data-callout="phase"],
+  [data-callout="dev-timeline"],
+  [data-callout="thought-timeline"]) > .callout-content > :is(ul, ol) > li {
+  border: 1px solid var(--rc-edge);
+  background: linear-gradient(125deg, var(--rc-raised), var(--rc-panel));
+  border-radius: 9px;
+  margin-bottom: .7rem;
+  box-shadow: inset 0 1px var(--rc-shine), 0 5px 15px -12px var(--rc-shadow);
+}
+/* 08 / Volume maps · architectural panels with luminous header bands. */
+.callout:is([data-callout="volume-profile"],
+  [data-callout="volume-structure"],
+  [data-callout="volume-tools"],
+  [data-callout="volume-map"],
+  [data-callout="chapter-roadmap"],
+  [data-callout="chapter-index"],
+  [data-callout="cross-chapter"],
+  [data-callout="volume-contribution"],
+  [data-callout="volume-limits"],
+  [data-callout="monograph-profile"]) {
+  container-type: inline-size;
+  border-radius: 14px;
+  border-color: var(--rc-edge);
+  background: linear-gradient(145deg, var(--rc-panel), var(--background-primary) 70%);
+  box-shadow: 0 10px 28px -16px var(--rc-shadow);
+}
+.callout:is([data-callout="volume-profile"],
+  [data-callout="volume-structure"],
+  [data-callout="volume-tools"],
+  [data-callout="volume-map"],
+  [data-callout="chapter-roadmap"],
+  [data-callout="chapter-index"],
+  [data-callout="cross-chapter"],
+  [data-callout="volume-contribution"],
+  [data-callout="volume-limits"],
+  [data-callout="monograph-profile"]) > .callout-title {
+  padding: .8rem 1rem;
+  background: linear-gradient(100deg, var(--rc-glow), transparent);
+  border-bottom: 1px solid var(--rc-edge);
+  color: var(--rc-ink);
+}
+.callout:is([data-callout="volume-profile"],
+  [data-callout="volume-structure"],
+  [data-callout="volume-tools"],
+  [data-callout="volume-map"],
+  [data-callout="chapter-roadmap"],
+  [data-callout="chapter-index"],
+  [data-callout="cross-chapter"],
+  [data-callout="volume-contribution"],
+  [data-callout="volume-limits"],
+  [data-callout="monograph-profile"]) > .callout-content > ul > li {
+  border-color: var(--rc-edge);
+  border-radius: 10px;
+  background: linear-gradient(150deg, var(--rc-raised), var(--rc-panel));
+  box-shadow: inset 0 1px var(--rc-shine);
+  min-width: 0;
+}
+.callout:is([data-callout="volume-profile"],
+  [data-callout="volume-structure"],
+  [data-callout="volume-tools"],
+  [data-callout="volume-map"],
+  [data-callout="chapter-roadmap"],
+  [data-callout="chapter-index"],
+  [data-callout="cross-chapter"],
+  [data-callout="volume-contribution"],
+  [data-callout="volume-limits"],
+  [data-callout="monograph-profile"]) > .callout-content > ul > li > strong:first-of-type {
+  color: var(--rc-ink);
+}
+/* 09 / Tables · stronger header hierarchy, preserved semantic column colors. */
+.callout:is([data-callout="contrast-table"],
+  [data-callout="tension-table"],
+  [data-callout="matrix-table"],
+  [data-callout="row-contrast"],
+  [data-callout="compare-table"],
+  [data-callout="ma-table"],
+  [data-callout="effect-table"],
+  [data-callout="framework-table"],
+  [data-callout="construct-table"]) {
+  border-radius: 12px;
+  box-shadow: 0 14px 30px -18px var(--rc-shadow);
+  border-color: var(--rc-edge);
+}
+.callout:is([data-callout="contrast-table"],
+  [data-callout="tension-table"],
+  [data-callout="matrix-table"],
+  [data-callout="row-contrast"],
+  [data-callout="compare-table"],
+  [data-callout="ma-table"],
+  [data-callout="effect-table"],
+  [data-callout="framework-table"],
+  [data-callout="construct-table"]) > .callout-title {
+  padding: .85rem 1.1rem;
+  color: var(--rc-ink);
+  background: linear-gradient(100deg, var(--rc-glow), transparent);
+}
+.callout:is([data-callout="contrast-table"],
+  [data-callout="tension-table"],
+  [data-callout="matrix-table"],
+  [data-callout="row-contrast"],
+  [data-callout="compare-table"],
+  [data-callout="ma-table"],
+  [data-callout="effect-table"],
+  [data-callout="framework-table"],
+  [data-callout="construct-table"]) > .callout-content {
+  overflow-x: auto;
+  scrollbar-width: thin;
+  scrollbar-color: var(--rc-edge) transparent;
+}
+.callout:is([data-callout="contrast-table"],
+  [data-callout="tension-table"],
+  [data-callout="matrix-table"],
+  [data-callout="row-contrast"],
+  [data-callout="compare-table"],
+  [data-callout="ma-table"],
+  [data-callout="effect-table"],
+  [data-callout="framework-table"],
+  [data-callout="construct-table"]) thead th {
+  padding: .8rem .9rem;
+  font-weight: 750;
+  color: var(--rc-ink);
+  border-bottom: 2px solid var(--rc-edge);
+}
+/* Neutral badge fills keep title chips legible on both themes. */
+.callout:is([data-callout="question"],
+  [data-callout="def"],
+  [data-callout="claim"],
+  [data-callout="warrant"],
+  [data-callout="implication"],
+  [data-callout="concept-lens"],
+  [data-callout="conclusion"],
+  [data-callout="volume-argument"],
+  [data-callout="monograph-thesis"],
+  [data-callout="feature"],
+  [data-callout="stat-cards"],
+  [data-callout="finding-cards"],
+  [data-callout="evidence-grid"],
+  [data-callout="evidence-grid-a"],
+  [data-callout="evidence-grid-b"],
+  [data-callout="dimension"],
+  [data-callout="theory-components"],
+  [data-callout="factors"],
+  [data-callout="chain-link"],
+  [data-callout="timeline"],
+  [data-callout="phase"],
+  [data-callout="dev-timeline"],
+  [data-callout="thought-timeline"],
+  [data-callout="volume-profile"],
+  [data-callout="volume-structure"],
+  [data-callout="volume-tools"],
+  [data-callout="volume-map"],
+  [data-callout="chapter-roadmap"],
+  [data-callout="chapter-index"],
+  [data-callout="cross-chapter"],
+  [data-callout="volume-contribution"],
+  [data-callout="volume-limits"],
+  [data-callout="monograph-profile"],
+  [data-callout="contrast-table"],
+  [data-callout="tension-table"],
+  [data-callout="matrix-table"],
+  [data-callout="row-contrast"],
+  [data-callout="compare-table"],
+  [data-callout="ma-table"],
+  [data-callout="effect-table"],
+  [data-callout="framework-table"],
+  [data-callout="construct-table"]) > .callout-title .callout-title-inner::before {
+  color: var(--rc-ink);
+  background: var(--rc-panel);
+  border: 1px solid var(--rc-edge);
+  box-shadow: inset 0 1px var(--rc-shine);
+  padding: .14em .55em;
+  font-size: .72rem;
+  letter-spacing: .065em;
+}
+
+/* Theme-specific label repair takes precedence over legacy fixed RGB titles. */
+:is(.theme-light, .theme-dark) .callout:is([data-callout="question"],
+  [data-callout="def"],
+  [data-callout="claim"],
+  [data-callout="warrant"],
+  [data-callout="implication"],
+  [data-callout="concept-lens"],
+  [data-callout="conclusion"],
+  [data-callout="volume-argument"],
+  [data-callout="monograph-thesis"],
+  [data-callout="feature"],
+  [data-callout="stat-cards"],
+  [data-callout="finding-cards"],
+  [data-callout="evidence-grid"],
+  [data-callout="evidence-grid-a"],
+  [data-callout="evidence-grid-b"],
+  [data-callout="dimension"],
+  [data-callout="theory-components"],
+  [data-callout="factors"],
+  [data-callout="chain-link"],
+  [data-callout="timeline"],
+  [data-callout="phase"],
+  [data-callout="dev-timeline"],
+  [data-callout="thought-timeline"],
+  [data-callout="volume-profile"],
+  [data-callout="volume-structure"],
+  [data-callout="volume-tools"],
+  [data-callout="volume-map"],
+  [data-callout="chapter-roadmap"],
+  [data-callout="chapter-index"],
+  [data-callout="cross-chapter"],
+  [data-callout="volume-contribution"],
+  [data-callout="volume-limits"],
+  [data-callout="monograph-profile"],
+  [data-callout="contrast-table"],
+  [data-callout="tension-table"],
+  [data-callout="matrix-table"],
+  [data-callout="row-contrast"],
+  [data-callout="compare-table"],
+  [data-callout="ma-table"],
+  [data-callout="effect-table"],
+  [data-callout="framework-table"],
+  [data-callout="construct-table"]) > .callout-title { color: var(--rc-ink); }
+:is(.theme-light, .theme-dark) .callout:is([data-callout="question"],
+  [data-callout="def"],
+  [data-callout="claim"],
+  [data-callout="warrant"],
+  [data-callout="implication"],
+  [data-callout="concept-lens"],
+  [data-callout="conclusion"],
+  [data-callout="volume-argument"],
+  [data-callout="monograph-thesis"],
+  [data-callout="feature"],
+  [data-callout="stat-cards"],
+  [data-callout="finding-cards"],
+  [data-callout="evidence-grid"],
+  [data-callout="evidence-grid-a"],
+  [data-callout="evidence-grid-b"],
+  [data-callout="dimension"],
+  [data-callout="theory-components"],
+  [data-callout="factors"],
+  [data-callout="chain-link"],
+  [data-callout="timeline"],
+  [data-callout="phase"],
+  [data-callout="dev-timeline"],
+  [data-callout="thought-timeline"],
+  [data-callout="volume-profile"],
+  [data-callout="volume-structure"],
+  [data-callout="volume-tools"],
+  [data-callout="volume-map"],
+  [data-callout="chapter-roadmap"],
+  [data-callout="chapter-index"],
+  [data-callout="cross-chapter"],
+  [data-callout="volume-contribution"],
+  [data-callout="volume-limits"],
+  [data-callout="monograph-profile"],
+  [data-callout="contrast-table"],
+  [data-callout="tension-table"],
+  [data-callout="matrix-table"],
+  [data-callout="row-contrast"],
+  [data-callout="compare-table"],
+  [data-callout="ma-table"],
+  [data-callout="effect-table"],
+  [data-callout="framework-table"],
+  [data-callout="construct-table"]) > .callout-title .callout-title-inner::before { color: var(--rc-ink); background: var(--rc-panel); }
+
+/* Interaction stays expressive. Respect the user's reduced-motion setting. */
+@media (hover: hover) and (prefers-reduced-motion: no-preference) {
+.callout:is([data-callout="feature"],
+  [data-callout="stat-cards"],
+  [data-callout="finding-cards"],
+  [data-callout="evidence-grid"],
+  [data-callout="evidence-grid-a"],
+  [data-callout="evidence-grid-b"]) > .callout-content > :is(ul, ol) > li:hover {
+  transform: translateY(-3px);
+  box-shadow: inset 0 1px var(--rc-shine), 0 10px 24px -10px var(--rc-shadow);
+  border-color: var(--rc-ink);
+}
+}
+@container (max-width: 520px) {
+.callout:is([data-callout="feature"],
+  [data-callout="stat-cards"],
+  [data-callout="finding-cards"],
+  [data-callout="evidence-grid"],
+  [data-callout="evidence-grid-a"],
+  [data-callout="evidence-grid-b"],
+  [data-callout="volume-profile"],
+  [data-callout="volume-structure"],
+  [data-callout="volume-tools"],
+  [data-callout="volume-map"],
+  [data-callout="chapter-roadmap"],
+  [data-callout="chapter-index"],
+  [data-callout="cross-chapter"],
+  [data-callout="volume-contribution"],
+  [data-callout="volume-limits"],
+  [data-callout="monograph-profile"]) > .callout-content > :is(ul, ol) {
+  grid-template-columns: minmax(0, 1fr) !important;
+}
+.callout:is([data-callout="feature"],
+  [data-callout="stat-cards"],
+  [data-callout="finding-cards"],
+  [data-callout="evidence-grid"],
+  [data-callout="evidence-grid-a"],
+  [data-callout="evidence-grid-b"],
+  [data-callout="volume-profile"],
+  [data-callout="volume-structure"],
+  [data-callout="volume-tools"],
+  [data-callout="volume-map"],
+  [data-callout="chapter-roadmap"],
+  [data-callout="chapter-index"],
+  [data-callout="cross-chapter"],
+  [data-callout="volume-contribution"],
+  [data-callout="volume-limits"],
+  [data-callout="monograph-profile"]) > .callout-content > :is(ul, ol) > li {
+  grid-column: 1 / -1 !important;
+}
+}
+@media (prefers-reduced-motion: reduce) {
+  .callout[data-callout], .callout[data-callout] *,
+  .callout[data-callout]::before, .callout[data-callout]::after,
+  .callout[data-callout] *::before, .callout[data-callout] *::after {
+    animation: none !important; transition: none !important;
+  }
+}
+/* A titleless callout must still expose its fold control when explicitly foldable. */
+.callout[data-callout].is-collapsible > .callout-title { display: flex; }
+/* Final color checks: source labels and award numbers must stay readable at night. */
+:is(.theme-light, .theme-dark) .callout:is(
+  [data-callout="finding-cards"], [data-callout="evidence-grid"],
+  [data-callout="evidence-grid-a"], [data-callout="evidence-grid-b"], [data-callout="phase"]
+) > .callout-content > :is(ul, ol) > li > strong:first-child {
+  color: var(--rc-ink);
+}
+:is(.theme-light, .theme-dark) .callout[data-callout="finding-cards"]
+  > .callout-content > :is(ul, ol) > li::before {
+  color: var(--rc-ink);
+  background: var(--rc-panel);
+  box-shadow: 0 0 0 1px var(--rc-edge), inset 0 1px var(--rc-shine);
+}

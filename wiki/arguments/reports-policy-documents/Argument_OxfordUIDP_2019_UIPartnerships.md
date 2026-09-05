@@ -7,7 +7,7 @@ title: "Argument_OxfordUIDP_2019_UIPartnerships"
 argument_key: "Argument_OxfordUIDP_2019_UIPartnerships"
 argument_display_title: "Developing University-Industry Partnerships Fit for the Future: Report of the Inaugural Oxford UIDP Summit 2019"
 argument_kind: "report"
-argument_related_count: 48
+argument_related_count: 49
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dcfce7"
@@ -56,6 +56,7 @@ related_concepts:
   - "[[Responsible Innovation]]"
   - "[[Research and Technology Organisation]]"
   - "[[Evaluation Research]]"
+  - "[[Problem Solving]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Professors of Practice]]"
   - "[[Literature Review]]"
@@ -420,7 +421,7 @@ updated: 2026-08-20
 > [!abstract] 创新挑战不止于技术——RTO 的多重功能
 > 应对产业和社会创新挑战往往不仅涉及解决技术难题和推动技术向实际应用发展，还需要解决一系列其他瓶颈：
 > - 开展必要的[[Evaluation Research|应用研究]]以桥接学术研究与产业应用
-> - 为企业提供技术问题解决服务
+> - 为企业提供技术[[Problem Solving|问题解决]]服务
 > - 发展企业和供应链的劳动力以吸收和部署新兴技术
 > - 开发新的生产工具和技术
 > - 发展新的示范和测试设施

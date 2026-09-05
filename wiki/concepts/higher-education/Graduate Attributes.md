@@ -9,10 +9,10 @@ aliases:
 summary: "大学认定学生在学期间应发展出的品质、技能和理解，涵盖本科与博士两个层次，用于组织课程、评价培养目标和回应外部问责。"
 type: concept
 domain: "higher-education"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
 - graduate-attributes
 - ideal-graduate
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Research Literacy]]"
   - "[[Critical Thinking]]"
   - "[[Hypothesis]]"
+  - "[[Problem Solving]]"
   - "[[Language Skills]]"
   - "[[Operationalization]]"
   - "[[Revoicing]]"
@@ -111,7 +112,7 @@ updated: 2026-08-20
 本科层次，[[Argument_Wong_2022_HERD|Wong et al. (2022)]]的"自我意识与终身学习"话语（89%）涵盖多个子维度（pp.1343–1345）：
 - **批判性自我意识**（55%）：自我导向、自我调节、自我反思、自我改进
 - **情商** 识别[[Hypothesis|假设]]与偏见、理解行为与态度、质疑自身与他人的视角
-- **适应性** 在不熟悉或不确定的环境中保持自主、负责和敏捷；49% 的大学将问题解决应用于新的/复杂情境
+- **适应性** 在不熟悉或不确定的环境中保持自主、负责和敏捷；49% 的大学将[[Problem Solving|问题解决]]应用于新的/复杂情境
 - **组织与时间管理** 按时完成任务、在压力下高效工作
 
 博士层次，[[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]]的研究显示自信心的发展-应用差值为 0.9（发展 3.4 vs. 应用 4.3）（p.93）。七域分类中的"个人资源fulness"域包含个人品质（热情、动机、诚信、自我反思、灵活、创新、坚韧、独立）、自我管理（时间管理、工作-生活平衡、响应变化）和学术声誉（终身学习承诺、学者身份认同）（p.98, Table 5）。
@@ -159,7 +160,7 @@ updated: 2026-08-20
 [[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]]的跨国调查揭示了一个跨制度一致的模式：博士培养在研究者身份建构上高度成功，但在可转移技能和全球公民属性上存在可测量的缺口。
 
 > [!success] 关键数据（pp.89–93）
-> - **最强的特质**（发展均值 ≥ 4.0）：研究技能 4.4、分析技能 4.4、学术严谨性 4.3、学习意愿 4.2、书面沟通 4.2、问题解决 4.2、独立判断 4.0
+> - **最强的特质**（发展均值 ≥ 4.0）：研究技能 4.4、分析技能 4.4、学术严谨性 4.3、学习意愿 4.2、书面沟通 4.2、[[Problem Solving|问题解决]] 4.2、独立判断 4.0
 > - **最弱的特质**（发展均值 ≤ 3.4）：环境素养 2.8、团队合作 2.9、实施变革 3.1、文化理解 3.2、全球视野 3.4、伦理意识 3.4、自信心 3.4
 > - **最大的发展-应用差值** 团队合作 1.3、自信心 0.9、口头沟通 0.8、实施变革 0.8
 > - **唯一"过度发展"的特质** 学术严谨性（发展 4.3 > 应用 4.0）和研究技能（4.4 > 4.2）

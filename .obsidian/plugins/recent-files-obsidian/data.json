@@ -1,8 +1,84 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Zhao_2025_JIntell",
+      "path": "wiki/arguments/journal-articles/Journal of Intelligence/Argument_Zhao_2025_JIntell.md"
+    },
+    {
+      "basename": "Cognitive Offloading",
+      "path": "wiki/concepts/learning-science-cognitive-science/Cognitive Offloading.md"
+    },
+    {
+      "basename": "Experimental Research",
+      "path": "wiki/methods/quantitative/Experimental Research.md"
+    },
+    {
+      "basename": "Project-Based Learning",
+      "path": "wiki/concepts/instruction-pedagogy/Project-Based Learning.md"
+    },
+    {
+      "basename": "Problem-Based Learning",
+      "path": "wiki/concepts/instruction-pedagogy/Problem-Based Learning.md"
+    },
+    {
+      "basename": "AI Agent in Education",
+      "path": "wiki/concepts/educational-technology/AI Agent in Education.md"
+    },
+    {
+      "basename": "Higher-Order Thinking Skills",
+      "path": "wiki/concepts/learning-science-cognitive-science/Higher-Order Thinking Skills.md"
+    },
+    {
+      "basename": "Generative Artificial Intelligence",
+      "path": "wiki/concepts/educational-technology/Generative Artificial Intelligence.md"
+    },
+    {
+      "basename": "Critical Thinking",
+      "path": "wiki/concepts/educational-philosophy/Critical Thinking.md"
+    },
+    {
+      "basename": "Effect Size",
+      "path": "wiki/concepts/research-methodology/Effect Size.md"
+    },
+    {
+      "basename": "Argument_Lei_Ding_Chiu_2026_ERR",
+      "path": "wiki/arguments/journal-articles/Educational Research Review/Argument_Lei_Ding_Chiu_2026_ERR.md"
+    },
+    {
       "basename": "Argument_Chen_Cheung_2025_ERR",
       "path": "wiki/arguments/journal-articles/Educational Research Review/Argument_Chen_Cheung_2025_ERR.md"
+    },
+    {
+      "basename": "Robert Slavin",
+      "path": "wiki/persons/us/Robert Slavin.md"
+    },
+    {
+      "basename": "Self-Determination Theory",
+      "path": "wiki/theories/educational-psychology/Self-Determination Theory.md"
+    },
+    {
+      "basename": "Chen_Cheung_2025_ERR",
+      "path": "sources/Chen_Cheung_2025_ERR/Chen_Cheung_2025_ERR.md"
+    },
+    {
+      "basename": "Metacognition",
+      "path": "wiki/concepts/learning-science-cognitive-science/Metacognition.md"
+    },
+    {
+      "basename": "Argument_Fredens_2015_Paideia",
+      "path": "wiki/arguments/journal-articles/Paideia/Argument_Fredens_2015_Paideia.md"
+    },
+    {
+      "basename": "Cognitive Load Theory",
+      "path": "wiki/theories/learning-science-cognitive-science/Cognitive Load Theory.md"
+    },
+    {
+      "basename": "Argument_Peterson_1987_OpenCourt_Ch06",
+      "path": "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch06.md"
+    },
+    {
+      "basename": "IB Learner Profile",
+      "path": "wiki/concepts/curriculum/IB Learner Profile.md"
     },
     {
       "basename": "Hofstede's Cultural Dimensions",
@@ -13,28 +89,12 @@
       "path": "wiki/theories/educational-philosophy/Third Generation Activity Theory.md"
     },
     {
-      "basename": "IB Learner Profile",
-      "path": "wiki/concepts/curriculum/IB Learner Profile.md"
-    },
-    {
       "basename": "Argument_Mausethagen_2025_ERR",
       "path": "wiki/arguments/journal-articles/Educational Research Review/Argument_Mausethagen_2025_ERR.md"
     },
     {
-      "basename": "Generative Artificial Intelligence",
-      "path": "wiki/concepts/educational-technology/Generative Artificial Intelligence.md"
-    },
-    {
-      "basename": "Metacognition",
-      "path": "wiki/concepts/learning-science-cognitive-science/Metacognition.md"
-    },
-    {
       "basename": "Academic Achievement",
       "path": "wiki/concepts/educational-psychology/Academic Achievement.md"
-    },
-    {
-      "basename": "Higher-Order Thinking Skills",
-      "path": "wiki/concepts/learning-science-cognitive-science/Higher-Order Thinking Skills.md"
     },
     {
       "basename": "Pre-test and Post-test",
@@ -55,10 +115,6 @@
     {
       "basename": "What Works Clearinghouse",
       "path": "wiki/facts/us/What Works Clearinghouse.md"
-    },
-    {
-      "basename": "Argument_Lei_Ding_Chiu_2026_ERR",
-      "path": "wiki/arguments/journal-articles/Educational Research Review/Argument_Lei_Ding_Chiu_2026_ERR.md"
     },
     {
       "basename": "Argument_Hagevold_Forsstrom_Keles_2026_ERR",
@@ -129,10 +185,6 @@
       "path": "wiki/concepts/instruction-pedagogy/Informal Science Learning.md"
     },
     {
-      "basename": "Argument_Peterson_1987_OpenCourt_Ch06",
-      "path": "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch06.md"
-    },
-    {
       "basename": "Argument_RoyalSociety_2026_ScienceForSociety_Ch02",
       "path": "wiki/arguments/reports-policy-documents/RoyalSociety_2026_ScienceForSociety/Argument_RoyalSociety_2026_ScienceForSociety_Ch02.md"
     },
@@ -147,58 +199,6 @@
     {
       "basename": "Scientific Literacy",
       "path": "wiki/concepts/curriculum/Scientific Literacy.md"
-    },
-    {
-      "basename": "Citizen Science",
-      "path": "wiki/concepts/research-methodology/Citizen Science.md"
-    },
-    {
-      "basename": "Argument_Peterson_1987_OpenCourt",
-      "path": "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt.md"
-    },
-    {
-      "basename": "Mind Mapping",
-      "path": "wiki/concepts/instruction-pedagogy/Mind Mapping.md"
-    },
-    {
-      "basename": "Practical Inquiry in Science Education",
-      "path": "wiki/concepts/instruction-pedagogy/Practical Inquiry in Science Education.md"
-    },
-    {
-      "basename": "Big Butterfly Count",
-      "path": "wiki/facts/uk/Big Butterfly Count.md"
-    },
-    {
-      "basename": "Argument_Nelson_2017_ER",
-      "path": "wiki/arguments/journal-articles/Educational Research/Argument_Nelson_2017_ER.md"
-    },
-    {
-      "basename": "Effect Size",
-      "path": "wiki/concepts/research-methodology/Effect Size.md"
-    },
-    {
-      "basename": "Concept Mapping",
-      "path": "wiki/concepts/instruction-pedagogy/Concept Mapping.md"
-    },
-    {
-      "basename": "Creative Self-Efficacy",
-      "path": "wiki/concepts/educational-psychology/Creative Self-Efficacy.md"
-    },
-    {
-      "basename": "Emotional Creativity Inventory",
-      "path": "wiki/instruments/scales/Emotional Creativity Inventory.md"
-    },
-    {
-      "basename": "Creativity",
-      "path": "wiki/concepts/educational-psychology/Creativity.md"
-    },
-    {
-      "basename": "Creativity Assessment",
-      "path": "wiki/concepts/instruction-pedagogy/Creativity Assessment.md"
-    },
-    {
-      "basename": "Three-Level Meta-Analysis",
-      "path": "wiki/methods/quantitative/Three-Level Meta-Analysis.md"
     }
   ],
   "omittedPaths": [],

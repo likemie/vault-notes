@@ -7,7 +7,7 @@ title: "Argument_Liu_2026_CHBR"
 argument_key: "Argument_Liu_2026_CHBR"
 argument_display_title: "Meta-analysis on the influence of AI agents on K-12 student cognitive performance"
 argument_kind: "journal-article"
-argument_related_count: 62
+argument_related_count: 63
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -60,6 +60,7 @@ related_concepts:
   - "[[Literature Search]]"
   - "[[Confidence Interval]]"
   - "[[Forest Plot]]"
+  - "[[Problem Solving]]"
   - "[[Cognitive Offloading]]"
   - "[[Pre-test and Post-test]]"
   - "[[Task Structure]]"
@@ -298,7 +299,7 @@ updated: 2026-08-25
 > ![](https://img.mylikemie.icu/sources/Liu_2026_CHBR/figures/Liu_2026_CHBR_Fig5_Forest_Plot_Higher_Order_Thinking.jpg)
 
 > [!warrant]- 理论推理桥梁
-> K-12 阶段学生处于认知图式建立期，高度依赖即时纠正反馈与程序性演练（如语法发音纠错、解题步骤提示），AI 智能体能有效分担这一负荷，因此技能类增益最稳健；陈述性知识由教师讲授与教材主导，技术介入的边际效应相对温和；高阶思维则属于劣构复杂问题解决，单纯的人机交互易导致[[Cognitive Offloading|认知卸载]]或浅层化，唯有当 AI 智能体与教师设计的探究脚手架和深度反思策略结合时才能释放高效能，导致其实证结果两极分化、异质性极高。（pp.10–11）
+> K-12 阶段学生处于认知图式建立期，高度依赖即时纠正反馈与程序性演练（如语法发音纠错、解题步骤提示），AI 智能体能有效分担这一负荷，因此技能类增益最稳健；陈述性知识由教师讲授与教材主导，技术介入的边际效应相对温和；高阶思维则属于劣构[[Problem Solving|复杂问题解决]]，单纯的人机交互易导致[[Cognitive Offloading|认知卸载]]或浅层化，唯有当 AI 智能体与教师设计的探究脚手架和深度反思策略结合时才能释放高效能，导致其实证结果两极分化、异质性极高。（pp.10–11）
 
 > [!case] 步骤二细分认知实验案例剖析
 > - **技能类代表：人机双语伴读机器人（Feng & Wang, 2023）** 在中国小学开展的 24 周（120 课时）准实验显示，具身机器人通过即时纠正英语发音与阅读节奏，显著提升了学生的双语听说技能熟练度（$g = 0.76$）。

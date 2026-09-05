@@ -77,7 +77,7 @@ updated: 2026-08-11
 > 探究教学中，如何让学生在不同学科间迁移能力是关键挑战。通用学习技能框架提供了连接的共同语言。
 
 > [!claim] Metli, A. & Akış, D.
-> **ATL 作为连贯核心的支持框架** ATL 有助于支持课程的连贯性。在新学生和教师的定向培训会议上引入对 ATL 和[[IB Learner Profile|学习者特征]]（Learner Profile）的探讨，为师生提供了一个探索如何在核心组件之间建立一致性和连贯性的平台。[[Argument_Metli_2022_IJER|(Metli & Akış, 2022, p. 221, 225)]]
+> **ATL 作为连贯核心的支持框架** ATL 有助于支持课程的连贯性。在新学生和教师的定向培训会议上引入对 ATL 和学习者特征（[[IB Learner Profile|Learner Profile]]）的探讨，为师生提供了一个探索如何在核心组件之间建立一致性和连贯性的平台。[[Argument_Metli_2022_IJER|(Metli & Akış, 2022, p. 221, 225)]]
 
 ---
 

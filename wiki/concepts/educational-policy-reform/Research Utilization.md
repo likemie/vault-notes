@@ -11,7 +11,7 @@ aliases:
 summary: "研究知识进入政策与实践过程的多种路径与机制，涵盖研发、问题解决、互动、启蒙与战术模型；在微观上作为知觉控制驱动的专业教学整合行为，在中观上受跨层治理机制制约，在宏观上面临政治议程与合法性筛选。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 45
+related_count: 46
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Phronesis]]"
   - "[[Construct]]"
   - "[[Scale in Higher Education]]"
+  - "[[Problem Solving]]"
   - "[[Dialogue in Education]]"
   - "[[Operationalization]]"
   - "[[Transfer Translation Transformation]]"
@@ -119,7 +120,7 @@ updated: 2026-08-30
 ## 核心要素
 
 > [!feature] 核心要素
-> - **四种经典过程模型（Weiss, 1991b）** 研发模型（线性流水线转化）、问题解决模型（按需调用工具箱）、互动模型（研究者与决策者多边[[Dialogue in Education|对话]]）与战术模型（政治推诿与辩护）。
+> - **四种经典过程模型（Weiss, 1991b）** 研发模型（线性流水线转化）、[[Problem Solving|问题解决]]模型（按需调用工具箱）、互动模型（研究者与决策者多边[[Dialogue in Education|对话]]）与战术模型（政治推诿与辩护）。
 > - **三种基本使用形态（Weiss, 1979）** [[Conceptual, Instrumental, and Symbolic Use of Research|概念性使用]]（启发思维与更新观念）、[[Conceptual, Instrumental, and Symbolic Use of Research|工具性使用]]（直接指导具体决策）与象征性使用（为既定立场背书）。
 > - **四类跨层治理机制（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al., 2026]]）** 信任（Trust）、技能发展（Skills Development）、可持续结构（Sustainable Structures）与关系（Relationships）贯穿个体、组织与系统层级共同治理学校证据使用。
 > - **七维教师教学使用场景** 在微观教学中具体[[Operationalization|操作化]]为：① 规划日常专业活动；② 备课设计课程内容；③ 更新教学法知识；④ 解决课堂具体教学问题；⑤ 开展教学实践自我反思；⑥ 参与专业教研交流；⑦ 向同行推荐学术成果。
@@ -222,7 +223,7 @@ updated: 2026-08-30
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1970s–1990s — 宏观政策[[Research Utilization Models|研究利用模型]]与三分类确立** Weiss（1979, 1991b）与 Caplan（1979, 1991）等提出研发、问题解决、互动与战术模型，Pelz (1978) 与 Beyer & Trice (1982) 奠定工具性、概念性与[[Conceptual, Instrumental, and Symbolic Use of Research|象征性使用]]三元分类。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 132)]]
+> - **1970s–1990s — 宏观政策[[Research Utilization Models|研究利用模型]]与三分类确立** Weiss（1979, 1991b）与 Caplan（1979, 1991）等提出研发、[[Problem Solving|问题解决]]、互动与战术模型，Pelz (1978) 与 Beyer & Trice (1982) 奠定工具性、概念性与[[Conceptual, Instrumental, and Symbolic Use of Research|象征性使用]]三元分类。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 132)]]
 > - **2000s–2010s — [[Evidence-Based Education|循证教育]]运动与实证调查浪潮** 伴随循证教育兴起，大量实证研究聚焦教师与校长对研究的接触、态度与技能障碍（Williams & Coles, 2007; Dagenais et al., 2012）。
 > - **2020s — 跨层治理机制与心理行为模型融合** Hagevold 等人（2026）提炼出跨越个体、组织与系统的四类治理机制；Kazancı Tınmaz & Sezgin (2023) 将[[Theory of Planned Behavior|计划行为理论]]（TPB）融入研究利用量化测评，开发出包含研究使用子维度的 20 题 [[Research Literacy Scale for Teachers|RLS]] 工具。
 > - **2025 — 迈向第四代专业敏感型概念化** [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]] 批判 30 年[[Document|文献]]的赤字话语，正式确立以教师多源知识整合与专业规范为支柱的第四代研究使用理论。

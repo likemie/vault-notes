@@ -24,10 +24,10 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Metacognition]]"
   - "[[Critical Thinking]]"
-  - "[[IB Learner Profile]]"
   - "[[Theory of Knowledge]]"
   - "[[Epistemology]]"
   - "[[Reflexivity]]"
+  - "[[IB Learner Profile]]"
   - "[[Constructivist Paradigm]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[IB Diploma Programme]]"
@@ -68,7 +68,7 @@ updated: 2026-07-02
 > - **能力（Capacity）** 学习者需要具备独立执行任务的能力，包括[[Critical Thinking|批判性思维]]、分析性写作和决策等技能（Little, 2007）。
 > - **意愿与动机（Willingness & Motivation）** 仅有能力不够，还需内在动力来主动管理学习过程（Dam, 1995）。
 
-> [!feature] 自主[[IB Learner Profile|学习者特征]]（Chan, 2001）
+> [!feature] 自主学习者特征（Chan, 2001）
 > - **高度动机（Highly Motivated）** 对学习本身有内在兴趣，而非仅追求外部评价。
 > - **好奇心强（Inquisitive）** 主动追问、寻找超出课堂内容的信息和解释。
 > - **组织有序（Well-organized）** 能够规划和管理自己的学习任务与资源。

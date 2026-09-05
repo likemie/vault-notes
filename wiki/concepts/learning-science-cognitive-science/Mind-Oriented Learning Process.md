@@ -8,7 +8,7 @@ aliases:
 summary: "Li (2012) 识别的西方文化学习过程模型，以心智发展为焦点，包含主动参与，探索与探究，思考与批判性思维，自我表达与沟通四个支柱"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Research Topic]]"
   - "[[Reflexivity]]"
+  - "[[Problem Solving]]"
   - "[[Scientific Method]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Ideal Learner]]"
@@ -128,7 +129,7 @@ updated: 2026-08-20
 **第三层：[[Critical Thinking|批判性思维]]**——被广泛定义为"专注于决定相信什么或做什么的合理而[[Reflexivity|反思性]]思考"（Ennis 定义，转引自 Li, 2012, p.118）。包含四个关键成分([[Argument_Li_2012_Cambridge|Li, 2012, pp.118-119]])：
 1. 追求真理（truth seeking）：对现有知识产生怀疑并提出问题，包括挑战权威——这是西方学习者备受推崇的行为
 2. 开放心态（open-mindedness）：包容不同观点并审视自身可能的偏见
-3. 分析过程（analytical process）：严格审视证据，权衡证据与竞争信息和自身偏好，与问题解决过程紧密相连
+3. 分析过程（analytical process）：严格审视证据，权衡证据与竞争信息和自身偏好，与[[Problem Solving|问题解决]]过程紧密相连
 4. 探究过程（inquiring process）：追随个人好奇心去探索未知
 
 **诺贝尔奖得主的批判性思维([[Argument_Li_2012_Cambridge|Li, 2012, p.119]])**

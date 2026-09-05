@@ -19,6 +19,7 @@ tags:
   - framework/problem-solving
 related_concepts:
   - "[[Creativity]]"
+  - "[[Problem Solving]]"
   - "[[Problem Finding]]"
   - "[[Effect Size]]"
   - "[[Creativity Training]]"
@@ -32,7 +33,6 @@ related_concepts:
   - "[[Metacognition]]"
   - "[[Pre-test and Post-test]]"
   - "[[Paradigm]]"
-  - "[[Problem-Based Learning]]"
   - "[[Construct]]"
   - "[[Critical Thinking]]"
   - "[[Hypothesis]]"
@@ -67,7 +67,7 @@ updated: 2026-09-03
 > - **知识位置** 诞生于 20 世纪 50 年代美国应用创造学传统，由奥斯本与帕内斯（Osborn & Parnes）奠基，后经伊萨克森与特雷芬格（Isaksen & Treffinger）现代化重构。
 
 > [!claim] 核心主张
-> 创造性问题解决并非单一的发散联想，而是由“理解挑战（目标发现、数据发现、[[Problem Finding|问题界定]]）$\to$ 产生想法（观念发散生成）$\to$ 准备行动（方案评估选择、接受度建立）”构成的完整认知闭环；在每一个阶段均严格实施“先发散延迟判断、后收敛审慎评估”的双阶段认知规则，能显著提升学习者的创造潜能与复杂问题解决效能。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 6–7)]]; [[Argument_Guo_2025_TSC|(Guo et al., 2025, pp. 2–3, 8–9)]]
+> 创造性[[Problem Solving|问题解决]]并非单一的发散联想，而是由“理解挑战（目标发现、数据发现、[[Problem Finding|问题界定]]）$\to$ 产生想法（观念发散生成）$\to$ 准备行动（方案评估选择、接受度建立）”构成的完整认知闭环；在每一个阶段均严格实施“先发散延迟判断、后收敛审慎评估”的双阶段认知规则，能显著提升学习者的创造潜能与复杂问题解决效能。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 6–7)]]; [[Argument_Guo_2025_TSC|(Guo et al., 2025, pp. 2–3, 8–9)]]
 
 > [!citation-card]- 关键表述：CPS 的结构化干预效能（[[Argument_Runco_2026_CRJ|Runco et al., 2026]]; [[Argument_Guo_2025_TSC|Guo et al., 2025]]）
 > 创造性问题解决模型作为历史最悠久、实证检验最充分的结构化训练体系，在多项[[Meta-analysis|元分析]]中均展现出稳健的大[[Effect Size|效应量]]促进（$d = 0.74 \sim 0.84$），证实认知启发式策略对破除思维固化具有决定性赋能作用。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, p. 7)]]
@@ -93,7 +93,7 @@ updated: 2026-09-03
 
 ## 核心命题与机制
 
-> [!proposition-chain] 核心命题一｜结构化启发式训练显著打破思维定势并提升复杂问题解决效能
+> [!proposition-chain] 核心命题一｜结构化启发式训练显著打破思维定势并提升[[Problem Solving|复杂问题解决]]效能
 > - **前提一** 学习者在自然状态下容易受制于功能固着与思维惯性，倾向于提取近距离常规联想。
 > - **前提二** 显性讲授可操作的认知启发式策略（如属性重构、逆向设问）能为[[Divergent Thinking|发散思维]]与问题表征提供有效认知支架。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, p. 6)]]
 >   > [!evidence-grid]- 证据
@@ -139,7 +139,7 @@ updated: 2026-09-03
 > [!theory-stance] [[Epistemic Stances|认识论立场]]
 > - **[[Ontology|本体论]]** [[Creativity|创造力]]不是极少数天才的神秘特权，而是所有个体皆具备且可被教学塑造的认知过程潜能。
 > - **[[Epistemology|认识论]]** 强调创造性思维遵循特定的启发式规律，通过程序化阶段分解可实现思维外显化与[[Metacognition|元认知]]调控。
-> - **方法含义** 倡导实验对照组[[Pre-test and Post-test|前测]]后测设计，评估显性策略教学前后的[[Divergent Thinking|发散思维]]得分与真实问题解决表现。
+> - **方法含义** 倡导实验对照组[[Pre-test and Post-test|前测]]后测设计，评估显性策略教学前后的[[Divergent Thinking|发散思维]]得分与真实[[Problem Solving|问题解决]]表现。
 > - **不能直接推出的东西** 掌握 CPS 模型不能直接替代特定学科的基础专业知识沉淀。
 
 > [!theory-use] 如何用于研究
@@ -160,7 +160,7 @@ updated: 2026-09-03
 ## 发展脉络
 
 > [!dev-timeline] 发展脉络
-> - **1953 — 奠基之作** [[Alex Osborn]] 出版 *Applied Imagination*，首次提出[[Brainstorming|头脑风暴]]与[[Creativity|创造性]]问题解决雏形。
+> - **1953 — 奠基之作** [[Alex Osborn]] 出版 *Applied Imagination*，首次提出[[Brainstorming|头脑风暴]]与[[Creativity|创造性]][[Problem Solving|问题解决]]雏形。
 > - **1967 — 体系成熟** Sidney Parnes 系统建立 CPS 教学体系并在纽约州立大学布法罗分校设立专门培训基地。
 > - **2004 — [[Meta-analysis|元分析]]实证确立** Scott et al. (2004) 元分析（$k = 70$）确立 CPS 在[[Creativity Training|创造力干预]]中的基准地位（$d = 0.74$）。
 > - **2025 — 高校干预[[Three-Level Meta-Analysis|多层元分析]]实证细化** [[Argument_Guo_2025_TSC|Guo et al. (2025)]] 多层元分析证实问题解决干预效应（$g = 0.539$）与技术型训练（$g = 0.552$），揭示 $< 2$ 个月黄金干预窗口（$g = 0.844$）与个体深思优势（$g = 0.682$）。
@@ -179,7 +179,7 @@ updated: 2026-09-03
 > > - **Isaksen et al. (2011)** 强调现代 CPS 为动态非线性网络，学习者可根据任务需要自由调用各模块。
 
 > [!critique]- 批评索引
-> - [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] — 指出单一依赖脱离学科知识的独立 CPS 操练容易陷入浅层技能化，应与长周期学科深度探究（如 [[Problem-Based Learning|PBL]]）相结合。
+> - [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] — 指出单一依赖脱离学科知识的独立 CPS 操练容易陷入浅层技能化，应与长周期学科深度探究（如 PBL）相结合。
 > - [[Argument_Guo_2025_TSC|Guo et al. (2025)]] — 实证指出技术型 CPS 训练若缺乏领域深层连接，易导致学习者产生工具依从性（Transfer Limitations），其远迁移效应略低于高度聚焦的纯思维发散训练。
 
 ---
@@ -190,5 +190,5 @@ updated: 2026-09-03
 > - [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] — 将 CPS 确立为结构化认知训练的经典范例，二阶实证证实干预措施对[[Creativity|创造力]]的强大提升作用（$r = 0.20$）。
 > - Scott et al. (2004) — 对[[Creativity Training|创造力训练]]开展里程碑式[[Meta-analysis|元分析]]，证实 CPS 产生 $d = 0.74$ 的综合提升效应。
 > - Ma (2006) — 系统元分析证实复合认知训练程序对创造力发展的显著促进（$d = 0.77$）。
-> - [[Argument_Guo_2025_TSC|Guo et al. (2025)]] — 针对高校干预开展[[Three-Level Meta-Analysis|多层元分析]]，量化检验了 CPS 等技术型训练（$g = 0.552$）及问题解决[[Construct|构念]]（$g = 0.539$）的提升幅度，证实中短期干预（$< 2$ 个月 $g = 0.844$）与个体发散练习（$g = 0.682$）的显著优势。
+> - [[Argument_Guo_2025_TSC|Guo et al. (2025)]] — 针对高校干预开展[[Three-Level Meta-Analysis|多层元分析]]，量化检验了 CPS 等技术型训练（$g = 0.552$）及[[Problem Solving|问题解决]][[Construct|构念]]（$g = 0.539$）的提升幅度，证实中短期干预（$< 2$ 个月 $g = 0.844$）与个体发散练习（$g = 0.682$）的显著优势。
 > - [[Argument_Park_2026_TSC|Park et al. (2026)]] — 在[[Meta-analysis|元分析]]中将 CPS（Isaksen & Treffinger, 2004）引为把批判性评价纳入创造力必要阶段的整合模型，支持[[Creativity|创造力]]与[[Critical Thinking|批判性思维]]边界比传统[[Hypothesis|假设]]更可渗透。

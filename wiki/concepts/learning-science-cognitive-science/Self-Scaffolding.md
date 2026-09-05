@@ -8,7 +8,7 @@ aliases:
 summary: "个体将外部教学支架内化为自主表征系统，能够自发在头脑中构建空间隐喻与逻辑结构以指导高级问题解决的发展认知机制"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,6 +19,7 @@ tags:
   - cognition/learning-science
 related_concepts:
   - "[[Working Memory]]"
+  - "[[Problem Solving]]"
   - "[[Metacognition]]"
   - "[[Graphic Organizer]]"
   - "[[Higher-Order Thinking Skills]]"
@@ -44,7 +45,7 @@ updated: 2026-08-25
 ## 定义
 
 > [!def] 核心定义
-> 自我脚手架（Self-Scaffolding）是指认知主体在知识经验积累与表征能力成熟过程中，将曾经依赖教师、同伴或外在图示工具提供的外部支架（External Scaffolding）逐步内化为高度自适应的内在认知机制；个体能够自发在[[Working Memory|工作记忆]]与长时记忆中调用空间隐喻、组织拓扑关系、自主设定子目标并监控复杂思维推理全过程，从而在无需外显实体工具辅助的情况下完成高阶问题解决与探究任务。[[Argument_Lei_Ding_Chiu_2026_ERR|(Lei et al., 2026, pp. 4, 12)]]
+> 自我脚手架（Self-Scaffolding）是指认知主体在知识经验积累与表征能力成熟过程中，将曾经依赖教师、同伴或外在图示工具提供的外部支架（External Scaffolding）逐步内化为高度自适应的内在认知机制；个体能够自发在[[Working Memory|工作记忆]]与长时记忆中调用空间隐喻、组织拓扑关系、自主设定子目标并监控复杂思维推理全过程，从而在无需外显实体工具辅助的情况下完成高阶[[Problem Solving|问题解决]]与探究任务。[[Argument_Lei_Ding_Chiu_2026_ERR|(Lei et al., 2026, pp. 4, 12)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 认知发展从“外在支架依赖”向“内在自主调节与自我表征”的跃迁。

@@ -7,10 +7,10 @@ aliases:
 summary: "以异质性小组为基本组织形式，依托积极互赖、面对面互动与个体责任协同促进学生学业成就、高阶思维与社会情感发展的社会建构主义教学范式；二阶元分析证实其对多维产出具有稳健促进效应（ES = 0.71），高阶思维赋能最为突出（ES = 0.76），并受具体技术与学科情境显著调节。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 39
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - "instruction/pedagogy"
   - "theme/cooperative-learning"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Blue Skies Research]]"
   - "[[Sampling Error]]"
   - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[Problem Solving]]"
   - "[[Document]]"
   - "[[Confidence Interval]]"
   - "[[Sample Size Determination]]"
@@ -194,7 +195,7 @@ updated: 2026-08-24
 > - **1970s — 起源与理论奠基** 合作学习在美国高等教育与基础教育中萌芽，Johnson & Johnson 创立明尼苏达大学合作学习中心，Slavin 开创约翰霍普金斯大学学生团队学习研究项目，奠定社会互赖与个体责任的理论基石。
 > - **1980s–1990s — 技术分化与全球传播** [[Jigsaw]]、STAD、[[Cooperative Integrated Reading and Composition|CIRC]]、[[Group Investigation]] 等系统化教学技术相继开发并标准化，跨国家、跨学科实证研究广泛展开，确立了五大核心要素标准。
 > - **2000s–2010s — 批判深化与一阶[[Meta-analysis|元分析]]激增** 学界聚焦不同学科（如数学、化学、物理）与区域（如土耳其、印度尼西亚）开展大量一阶元分析，但暴露出地域集中与学科单一等合成局限。
-> - **2020s 至今 — [[Meta-meta-analysis|二阶元分析]]整合与[[Higher-Order Thinking Skills|高阶思维]]拓展** 面对一阶元分析的[[Sampling Error|抽样误差]]与学科偏倚，研究者运用二阶元分析方法进行跨领域总括性证据综合，重点关注合作学习对 21 世纪[[21st Century Skills and Competencies Discourse|核心素养]]、高阶思维与复杂问题解决能力的促进机制。[[Argument_Gungor_2026_CP|(Güngör et al., 2026)]]
+> - **2020s 至今 — [[Meta-meta-analysis|二阶元分析]]整合与[[Higher-Order Thinking Skills|高阶思维]]拓展** 面对一阶元分析的[[Sampling Error|抽样误差]]与学科偏倚，研究者运用二阶元分析方法进行跨领域总括性证据综合，重点关注合作学习对 21 世纪[[21st Century Skills and Competencies Discourse|核心素养]]、高阶思维与[[Problem Solving|复杂问题解决]]能力的促进机制。[[Argument_Gungor_2026_CP|(Güngör et al., 2026)]]
 
 ---
 
@@ -244,7 +245,7 @@ updated: 2026-08-24
 > | Shakerian et al. (2020)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 干预因素：拼图法对健康科学综合学习产出的干预效应 | $k = 7$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 1.25$ $[1.08, 1.51]$ | — | 伊朗高等健康教育情境，综合产出提升极高 |
 > | Siagian et al. (2023)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 干预因素：综合合作学习对数学批判性思维的干预效应 | $k = 35$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.79$ $[0.58, 1.00]$ | — | 印尼基础教育数学教学，大样本证实对高阶批判思维的高赋能 |
 > | Siagian et al. (2023)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 干预因素：综合合作学习对数学[[Creativity\|创造性思维]]的干预效应 | $k = 24$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.69$ $[0.42, 0.98]$ | — | 印尼基础教育数学教学，采用托兰斯等创造力测验工具 |
-> | Solissa et al. (2023)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 干预因素：拼图法对 21 世纪[[21st Century Skills and Competencies Discourse\|核心素养]]的干预效应 | $k = 10$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.84$ $[0.66, 1.03]$ | — | 跨学科跨学段综合干预，涵盖批判性、创造性与问题解决技能 |
+> | Solissa et al. (2023)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 干预因素：拼图法对 21 世纪[[21st Century Skills and Competencies Discourse\|核心素养]]的干预效应 | $k = 10$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.84$ $[0.66, 1.03]$ | — | 跨学科跨学段综合干预，涵盖批判性、创造性与[[Problem Solving\|问题解决]]技能 |
 > | Stanczak et al. (2022)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 干预因素：拼图法对六年级学业成就的干预效应 | $k = 5$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.00$ $[-0.10, 0.09]$ | — | 瑞士严格个体[[Randomised Controlled Trials\|随机对照试验]]（RCT），全实验控制下效应为零 |
 > | Tanjung et al. (2022)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 干预因素：小组[[Survey Research\|调查法]]对物理学业成就的干预效应 | $k = 15$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.96$ $[0.74, 1.17]$ | — | 印尼 10-11 年级物理课准实验，探究合作对物理概念掌握极佳 |
 > | Tanjung et al. (2022)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 干预因素：[[Group Investigation\|小组调查法]]对物理情感能力的干预效应 | $k = 4$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 1.26$ $[0.69, 1.88]$ | — | 印尼 10-11 年级物理课，探究合作对物理学习效能感赋能突出 |

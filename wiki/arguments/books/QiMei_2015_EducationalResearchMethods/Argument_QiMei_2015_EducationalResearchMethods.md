@@ -10,7 +10,7 @@ title: "Argument_QiMei_2015_EducationalResearchMethods"
 argument_key: "Argument_QiMei_2015_EducationalResearchMethods"
 argument_display_title: "教育研究方法"
 argument_kind: "book"
-argument_related_count: 123
+argument_related_count: 124
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -52,6 +52,7 @@ related_concepts:
   - "[[Research Scope]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Memos]]"
+  - "[[Problem Solving]]"
   - "[[Questionnaire]]"
   - "[[Causality]]"
   - "[[Independent Variable]]"
@@ -261,7 +262,7 @@ updated: '2026-08-27'
 #### 关键引用
 
 > [!citation-card]- 关于研究的定义
-> 研究是以系统的方法寻求问题解决方案的过程。科学研究的重点在于获得证据以支持或反对所提出的事实或原则。教育研究是指一种以经验为取向，对教育世界中人们的行为、态度、关系，各种教育现象、教育产物所进行的科学的探究活动。（第1章）
+> 研究是以系统的方法寻求[[Problem Solving|问题解决]]方案的过程。科学研究的重点在于获得证据以支持或反对所提出的事实或原则。教育研究是指一种以经验为取向，对教育世界中人们的行为、态度、关系，各种教育现象、教育产物所进行的科学的探究活动。（第1章）
 
 > [!citation-card]- 关于选题标准的层次关系
 > 重要性是最基本的标准；独特性则是在重要性基础上提出的更高的标准；可行性在某种意义上可以说是问题选择中的决定性标准；而适合性则是在前三条标准的基础上提出的更进一步的标准。这四条标准层层深入，从几个不同的侧面，将一个理想的研究问题，从最初众多不成熟的想法、思路和问题雏形中，逐渐分离出来。（第1章）

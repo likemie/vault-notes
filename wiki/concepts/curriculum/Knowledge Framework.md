@@ -6,7 +6,7 @@ aliases:
 summary: "IB 知识论课程中用于系统考察和比较知识领域的五维分析工具，涵盖范围与应用、概念语言、知识生产方法、历史发展及个人知识互动。"
 type: concept
 domain: "curriculum"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Epistemology]]"
   - "[[Hypothesis]]"
+  - "[[Problem Solving]]"
   - "[[Construct Validity]]"
   - "[[Falsification]]"
 related_theories: []
@@ -143,7 +144,7 @@ updated: 2026-08-04
 > 结构化考察知识领域能够引发比较、解释和反思。课程是否覆盖完整[[Critical Thinking|批判性思维]]，还要检查任务与评分是否要求来源评价、推论、决策和创造。
 
 > [!claim] Hughes, C.
-> **框架与[[Construct|构念]]覆盖** ToK 的目标和评分描述符强调知识领域联系、不同观点与知识问题，知识框架能够服务这些[[Epistemology|认识论]]活动。评分要求较少覆盖批判性阅读、评价来源是否可信、[[Hypothesis|假设]]检验、不确定性判断、问题解决和创造，因此框架的存在不能单独建立完整的[[Construct Validity|构念效度]]。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 40–43)]]
+> **框架与[[Construct|构念]]覆盖** ToK 的目标和评分描述符强调知识领域联系、不同观点与知识问题，知识框架能够服务这些[[Epistemology|认识论]]活动。评分要求较少覆盖批判性阅读、评价来源是否可信、[[Hypothesis|假设]]检验、不确定性判断、[[Problem Solving|问题解决]]和创造，因此框架的存在不能单独建立完整的[[Construct Validity|构念效度]]。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 40–43)]]
 
 ### 命题总览
 

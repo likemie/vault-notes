@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20"
 argument_display_title: "Research Methods in Education · Ch20"
 argument_kind: "book-chapter"
-argument_related_count: 45
+argument_related_count: 46
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -54,6 +54,7 @@ related_concepts:
   - "[[Ranking Questions]]"
   - "[[Semantic Differential]]"
   - "[[Order Effects]]"
+  - "[[Problem Solving]]"
   - "[[Fitness for Purpose]]"
   - "[[Likert Scale]]"
   - "[[Paradigm]]"
@@ -391,7 +392,7 @@ Selltiz et al.（1976）提供了一份详尽的问卷构建指南，按四类�
 > - 改善学生动机
 > - 家长批准修订
 > - 提高优等生成绩
-> - 工作更加以问题解决为导向
+> - 工作更加以[[Problem Solving|问题解决]]为导向
 
 > [!warning] 排序题的五项局限（pp. 126–127）
 >

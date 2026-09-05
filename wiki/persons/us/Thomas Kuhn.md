@@ -8,7 +8,7 @@ summary: "美国科学史家和科学哲学家，以《科学革命的结构》�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 5
+person_related_count: 6
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
@@ -18,6 +18,7 @@ tags:
   - theme/philosophy-of-science
 related_concepts:
   - "[[Paradigm]]"
+  - "[[Problem Solving]]"
   - "[[Incommensurability]]"
   - "[[Areas of Knowledge]]"
 related_theories: []
@@ -44,7 +45,7 @@ updated: 2026-07-11
 ### 范式概念
 
 > [!def] [[Paradigm|范式]]（Paradigm）
-> [[Deanna Kuhn|库恩]]将范式定义为"一种被接受的模型或模式"（Kuhn, 1962, p. 23），包含以下多重含义：一种看待或研究现象的方式、一种世界观、一种关于什么算作被接受或正确的科学知识的观点、一种共享的信念体系或原则集合、一个研究共同体的身份标识、对研究什么以及如何研究的共识、典型的问题解决方案、以及一种比其竞争对手更容易被接受的理解（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
+> [[Deanna Kuhn|库恩]]将范式定义为"一种被接受的模型或模式"（Kuhn, 1962, p. 23），包含以下多重含义：一种看待或研究现象的方式、一种世界观、一种关于什么算作被接受或正确的科学知识的观点、一种共享的信念体系或原则集合、一个研究共同体的身份标识、对研究什么以及如何研究的共识、典型的[[Problem Solving|问题解决]]方案、以及一种比其竞争对手更容易被接受的理解（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
 
 ### 范式转换与科学革命
 

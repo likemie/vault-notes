@@ -37,6 +37,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Professional Judgment]]"
   - "[[Homework]]"
+  - "[[Problem Solving]]"
   - "[[Construct]]"
   - "[[Reliability]]"
 related_theories: []
@@ -87,7 +88,7 @@ updated: 2026-08-28
 
 > [!proc] 题型结构与作答机制
 > - **拒绝封闭选择，采用建构反应** 区别于传统只考事实记忆的[[Multiple-Choice Questions|选择题]]，TTK 全面采用**建构反应题（Constructed-Response Items）**，要求考生阅读真实课堂教学实录、学生[[Homework|作业]]样本或教学困境案例，亲自撰写教学设计、解释干预逻辑并论证理论依据。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 21)]]
-> - **双重角色考核** 既测查教师自身的批判分析与问题解决能力，更重点测查教师“通过教学培育学生高阶能力”的教学胜任力。
+> - **双重角色考核** 既测查教师自身的批判分析与[[Problem Solving|问题解决能力]]，更重点测查教师“通过教学培育学生高阶能力”的教学胜任力。
 
 ---
 

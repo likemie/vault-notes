@@ -8,7 +8,7 @@ aliases:
 summary: "指在不同社会群体或学科共同体之间保持足够通用性以维持共同认同，同时又具备充分可塑性以适应各方特定情境需求的物质、符号或数字化人工制品"
 type: concept
 domain: "sociology-of-education"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Dialogue in Education]]"
   - "[[Boundary Spanner]]"
+  - "[[Problem Solving]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Critical Thinking]]"
   - "[[Effect Size]]"
@@ -111,7 +112,7 @@ updated: 2026-08-31
 > 探讨大语言模型如何帮助学习者跨越学科专业术语与文体规范的壁垒。
 
 > [!claim] Li, C., Cui, H., & Hagedorn, L. S.
-> **数字化边界对象的跨界赋能** 在多学科高等教育情境中，ChatGPT 展现了极强的边界对象特征。学生利用其跨领域的知识表征与语言转换能力，将晦涩的学科原理转化为易于理解的通俗解释，或将初步想法转化为规范的学术文体。这种诠释灵活性在促进发散性创造思维的同时，帮助学生探索跨学科问题解决方案。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 11–12)]]
+> **数字化边界对象的跨界赋能** 在多学科高等教育情境中，ChatGPT 展现了极强的边界对象特征。学生利用其跨领域的知识表征与语言转换能力，将晦涩的学科原理转化为易于理解的通俗解释，或将初步想法转化为规范的学术文体。这种诠释灵活性在促进发散性创造思维的同时，帮助学生探索跨学科[[Problem Solving|问题解决]]方案。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 11–12)]]
 
 ---
 

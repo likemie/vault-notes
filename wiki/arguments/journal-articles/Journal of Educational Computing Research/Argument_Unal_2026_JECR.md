@@ -66,6 +66,7 @@ related_concepts:
   - "[[Interaction Effect]]"
   - "[[Creativity]]"
   - "[[Abstract]]"
+  - "[[Problem Solving]]"
 related_theories:
   - "[[Zawacki-Richter AI in Higher Education Framework]]"
   - "[[Bloom's Taxonomy]]"
@@ -102,7 +103,7 @@ title: "Argument_Unal_2026_JECR"
 argument_key: "Argument_Unal_2026_JECR"
 argument_display_title: "A second-order meta-analysis on the effects of artificial intelligence applications on student outcomes"
 argument_kind: "journal-article"
-argument_related_count: 64
+argument_related_count: 65
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -505,7 +506,7 @@ issuing_organization: ""
 > *"The findings were consistent across different types of AI tools, learning outcomes, and study quality levels, suggesting that the manner in which AI is integrated into pedagogy may be more significant than the specific tool employed."*
 
 > [!citation-card]- 对学生过度依赖 AI 的负面警示
-> "研究表明，过度依赖 AI 可能会对学习成果产生负面影响。当学生过度依赖 AI 时，这可能会阻碍其创造性思维、问题解决能力及整体[[Academic Achievement|学业表现]]。"（p. 1380）
+> "研究表明，过度依赖 AI 可能会对学习成果产生负面影响。当学生过度依赖 AI 时，这可能会阻碍其创造性思维、[[Problem Solving|问题解决能力]]及整体[[Academic Achievement|学业表现]]。"（p. 1380）
 >
 > *"Research indicates that overreliance on AI can negatively impact learning outcomes. When students excessively depend on AI, it can hinder their creative thinking, problem-solving abilities, and overall performance."*
 

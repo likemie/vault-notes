@@ -8,7 +8,7 @@ aliases:
 summary: "基于大语言模型与多模态生成架构的认知中介技术，在教育中作为对话伙伴与边界对象驱动发散构想与认知重组，其认知效应高度取决于教学脚手架与认识论摩擦的维持。"
 type: concept
 domain: "educational-technology"
-related_count: 58
+related_count: 64
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -45,22 +45,27 @@ related_concepts:
   - "[[Structured Teaching]]"
   - "[[Generative AI Agent in Education]]"
   - "[[AI Agent in Education]]"
-  - "[[Effect Size]]"
   - "[[Computational Thinking]]"
   - "[[Metacognition]]"
+  - "[[Language Skills]]"
+  - "[[Academic Achievement]]"
+  - "[[Self-Regulated Learning]]"
+  - "[[Construct]]"
+  - "[[Problem Solving]]"
+  - "[[Learner Autonomy]]"
   - "[[Hypothesis]]"
   - "[[General Education]]"
   - "[[Epistemic Friction]]"
   - "[[Variable]]"
   - "[[Interaction Effect]]"
-  - "[[Task Structure]]"
   - "[[Divergent Thinking]]"
+  - "[[Effect Size]]"
   - "[[Technology Infusion]]"
   - "[[Fade-out Effect]]"
   - "[[Publication Bias]]"
   - "[[Heterogeneity]]"
   - "[[Prediction Interval]]"
-  - "[[Academic Achievement]]"
+  - "[[Reflexivity]]"
   - "[[Affective Outcomes]]"
 related_theories:
   - "[[Third Generation Activity Theory]]"
@@ -84,10 +89,11 @@ related_arguments:
   - "[[Argument_Liu_2026_CHBR]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
   - "[[Argument_Chen_Cheung_2025_ERR]]"
+  - "[[Argument_Zhao_2025_JIntell]]"
 confidence: high
 status: draft
 created: 2026-09-01
-updated: 2026-09-04
+updated: 2026-09-05
 ---
 
 # Generative Artificial Intelligence
@@ -169,13 +175,16 @@ updated: 2026-09-04
 > 该命题批判了技术决定论的乐观或悲观立场，确立了教学法介入在生成式技术应用中的决定性分流作用。
 
 > [!claim] Li, C.
-> **结构化探究驱动双向协同增益 vs 非结构化引发非对称侵蚀** 基于对 67 项高等教育实证研究的[[Systematic Review|系统综述]]，ChatGPT 等生成式技术对学生批判性与[[Creativity|创造性思维]]的影响具有鲜明的情境依赖性。在嵌入反思提示与[[Dialogue in Education|对话]]探究的[[Structured Teaching|结构化教学]]中，AI 作为认知放大器显著驱动了两类思维的协同跃升（$n = 18$）；反之，在缺乏教学支架的自由使用情境中，工具的表面流畅性麻痹了反思本能，诱发严重的[[Cognitive Offloading|认知卸载]]，导致创造性发散繁荣伴随批判性审思崩塌的非对称发展（$n = 8$），乃至双重认知侵蚀（$n = 4$）。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 1, 9–11)]]
+> **结构化探究驱动双向协同增益 vs 非结构化引发非对称侵蚀** 基于对高等教育实证研究的[[Systematic Review|系统综述]]，ChatGPT 等生成式技术对学生批判性与[[Creativity|创造性思维]]的影响具有鲜明的情境依赖性。在嵌入反思提示与[[Dialogue in Education|对话]]探究的[[Structured Teaching|结构化教学]]中，AI 作为认知放大器显著驱动了两类思维的协同跃升；反之，在缺乏教学支架的自由使用情境中，工具的表面流畅性麻痹了反思本能，诱发严重的[[Cognitive Offloading|认知卸载]]，导致创造性发散繁荣伴随批判性审思崩塌的非对称发展，乃至双重认知侵蚀。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 1, 9–11)]]
 
 > [!claim] Liu, X.
-> **显性反思量规对[[Generative AI Agent in Education|生成式智能体]]促学效应的决定性调节** 在针对基础教育与高等教育中 AI [[AI Agent in Education|智能体]]促学成效的一阶[[Meta-analysis|元分析]]中，生成式智能体展现出中等偏上的积极效应（$g = 0.421$），但[[Effect Size|效应量]]在不同干预设计间高度分化。结合显性反思量规与[[Socrates|苏格拉底]]式提问的实验组取得了稳健的[[Computational Thinking|计算思维]]与论证增益，而缺乏脚手架约束的开放使用则导致学生探究推理能力显著受挫（$g = -0.73$）。[[Argument_Liu_2026_CHBR|(Liu et al., 2026, pp. 2, 7, 10–11)]]
+> **显性反思量规对[[Generative AI Agent in Education|生成式智能体]]促学效应的决定性调节** 在针对基础教育与高等教育中 AI [[AI Agent in Education|智能体]]促学成效的一阶[[Meta-analysis|元分析]]中，生成式智能体展现出显著的积极效应，但效应在不同干预设计间高度分化。结合显性反思量规与[[Socrates|苏格拉底]]式提问的实验组取得了稳健的[[Computational Thinking|计算思维]]与论证增益，而缺乏脚手架约束的开放使用则导致学生探究推理能力显著受挫。[[Argument_Liu_2026_CHBR|(Liu et al., 2026, pp. 2, 7, 10–11)]]
 
 > [!claim] Chen, S., & [[Alan C. K. Cheung|Cheung, A. C. K.]]
-> **活动系统多维调节与[[Metacognition|元认知监控]]缺失的实证确证** 基于对 57 项严格控制[[Baseline Standardized Mean Difference|基线等效性]]（$d < 0.25$）的高校实验研究元分析（97 个效应量，$N = 5{,}389$），生成式 AI 对大学生展现出总体显著的促学效应（$g^+ = 0.804$，剪补法发表偏倚校正后 $g^+ = 0.321$），语言技能（$g^+ = 2.331$）、学业成绩（$g^+ = 0.633$）与高阶思维（$g^+ = 0.580$）均显著获益；然而对[[Metacognition|元认知]]无统计显著促进（$g^+ = 0.078, p = 0.789$），证实缺乏显性反思支架时技术无法自发培育元认知监控。同时，低 ICT 水平（$g^+ = 1.764$）与高权力距离（$g^+ = 0.859$）情境中促学成效更强，实证支持了边际效益递增与权力壁垒破除机制。[[Argument_Chen_Cheung_2025_ERR|(Chen & Cheung, 2025, pp. 10–13, 18)]]
+> **活动系统多维调节与[[Metacognition|元认知监控]]缺失的实证确证** 基于严格控制[[Baseline Standardized Mean Difference|基线等效性]]的高校[[Experimental Research|实验研究]]元分析，生成式 AI 对大学生展现出总体显著的促学效应，[[Language Skills|语言技能]]、[[Academic Achievement|学业成绩]]与高阶思维均显著获益；然而对[[Metacognition|元认知]]无统计显著促进，证实缺乏显性反思支架时技术无法自发培育元认知监控。同时，低 ICT 水平与高权力距离情境中促学成效更强，实证支持了边际效益递增与权力壁垒破除机制。[[Argument_Chen_Cheung_2025_ERR|(Chen & Cheung, 2025, pp. 10–13, 18)]]
+
+> [!claim] Zhao et al.
+> **高阶思维赋能的子维度级差穿透与[[Self-Regulated Learning|自主调节学习]]（SRL）决定性门槛** 基于一阶[[Meta-analysis|元分析]]，生成式 AI 对学生[[Higher-Order Thinking Skills|高阶思维]]展现出显著的促学总效应，但认知成效呈现出鲜明的内部[[Construct|构念]]分化与调节约束：① **子维度穿透级差** 具有良构目标与外显逻辑规则的[[Problem Solving|问题解决]]和[[Critical Thinking|批判性思维]]获益最为显著，而高度依赖非确定性发散与顿悟的[[Creativity|创造力]]提升相对受限；② **自主调节能力门槛** 具备高水平[[Self-Regulated Learning|自我调节学习]]（SRL）能力的学生获得强劲认知增益，而低 SRL 学生效应急剧滑落，确立了[[Learner Autonomy|自主学习]]能力是规避算法顺滑诱导与[[Cognitive Offloading|认知卸载]]的内在核心防火墙；③ **干预时长倒 U 型窗口** 中期干预取得最高促学峰值，显著优于短期的新奇磨合期与超长期的技术脱敏疲劳期。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 10–13)]]
 
 ---
 
@@ -198,7 +207,7 @@ updated: 2026-09-04
 > 该命题批判了“AI 必然加剧数字鸿沟与文化垄断”的单一悲观假定，从宏观系统论视角揭示了技术对资源薄弱与层级森严情境的特殊解构与补偿价值。
 
 > [!claim] Chen & Cheung
-> **边际效益递增规律与权力壁垒破除机制的实证确证** 基于[[Third Generation Activity Theory|活动理论]]（AT-MCSCL）对 57 项[[Experimental Research|实验研究]]的 17 项调节[[Variable|变量]]检验表明，生成式 AI 的促学成效在不同宏观情境中呈现出高度分化：① **边际效益递增规律** 在国家 ICT 水平较低（$g^+ = 1.764$ vs 高 ICT $0.501, p < .001$）与低社会经济地位（低 SES $g^+ = 1.751$ vs 高 SES $0.467, p < .001$）的高校中，由于基础数字与师资资源匮乏，AI 介入带来了雪中送炭式的超额边际增益，展现出缩小教育差距的普惠潜力；② **权力壁垒破除机制** 在高权力距离文化（$g^+ = 0.859$ vs 低权力距离 $0.236, p = .001$）中，传统师生等级森严容易诱发学生的“提问暴露无知”恐惧与求助焦虑，生成式 AI 提供了匿名、即时且无评价威胁的探究中介，有效瓦解了层级威慑心理；③ **人机角色分工** 定位于平等的“学习同伴”（$g^+ = 0.941$）比单向灌输的“授课导师”（$g^+ = 0.649$）更能激发自主探究。[[Argument_Chen_Cheung_2025_ERR|(Chen & Cheung, 2025, pp. 10–13, 16–18)]]
+> **边际效益递增规律与权力壁垒破除机制的实证确证** 基于[[Third Generation Activity Theory|活动理论]]（AT-MCSCL）对高校[[Experimental Research|实验研究]]的调节[[Variable|变量]]检验表明，生成式 AI 的促学成效在不同宏观情境中呈现出高度分化：① **边际效益递增规律** 在国家 ICT 水平较低与低社会经济地位的高校中，由于基础数字与师资资源匮乏，AI 介入带来了雪中送炭式的超额边际增益，展现出缩小教育差距的普惠潜力；② **权力壁垒破除机制** 在高权力距离文化中，传统师生等级森严容易诱发学生的“提问暴露无知”恐惧与求助焦虑，生成式 AI 提供了匿名、即时且无评价威胁的探究中介，有效瓦解了层级威慑心理；③ **人机角色分工** 定位于平等的“学习同伴”比单向灌输的“授课导师”更能激发自主探究。[[Argument_Chen_Cheung_2025_ERR|(Chen & Cheung, 2025, pp. 10–13, 16–18)]]
 
 ---
 
@@ -207,7 +216,7 @@ updated: 2026-09-04
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **教学[[Interaction Effect\|调节效应]]命题** | 技术效应非固有，教学脚手架与[[Task Structure\|任务结构]]决定认知增益或侵蚀 | 高等教育人机协同学习、STEM 实验探究、二语写作教学 | [[Argument_Li_2026_CEAI\|Li et al. (2026)]]; [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] |
+> | **教学[[Interaction Effect\|调节效应]]命题** | 技术效应非固有，教学脚手架、[[Self-Regulated Learning\|自主调节能力]]与干预时长窗口共同决定认知增益与子维度级差 | 高等教育人机协同学习、STEM 实验探究、基础教育 PBL 项目 | [[Argument_Li_2026_CEAI\|Li et al. (2026)]]; [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]]; [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] |
 > | **活动系统重构命题** | 评价重点由终稿产出转向提示词轨迹与认识论摩擦维持 | 科学素养课程、数智通识教育、基于项目的全程评价改革 | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026)]]; Medina (2013) |
 > | **生态赋能机制命题** | 低 ICT、低 SES 情境呈边际效益递增，高权力距离下破除层级威慑心理 | 跨文化教学、教育公平政策、欠发达地区高校数字化 | [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] |
 
@@ -220,7 +229,7 @@ updated: 2026-09-04
 > - **2020–2022 — 模型突破与消费级普及** OpenAI 相继发布 GPT-3 与 ChatGPT，生成式 AI 跨越实验室门槛，以自然语言[[Dialogue in Education|对话]]界面实现全球数亿用户的即时触达。
 > - **2023 — 教育激辩与恐慌性禁令期** 全球高校与学区经历早期伦理恐慌，从普遍出台禁用指令转向探索政策规范，早期综述多聚焦学术诚信与工具性写作支持（Farazouli et al., 2023; Zirar, 2023）。
 > - **2024–2025 — 课堂实证爆发与机制解构** 实证研究呈现指数级增长，研究者通过量化实验与质性追踪揭示出生成式 AI 促成[[Divergent Thinking|发散思维]]爆发的同时可能诱发严重的[[Cognitive Offloading|认知卸载]]与文风均质化（[[Argument_Liu_2026_CHBR|Liu et al., 2026]]; Deng et al., 2024）。
-> - **2025 — 基线控制[[Meta-analysis|元分析]]与全生态机制确证** [[Argument_Chen_Cheung_2025_ERR|Chen & Cheung (2025)]] 首次引入 [[What Works Clearinghouse|WWC]] 基线等效门槛（$d < 0.25$）实施 57 项高校实验元分析，确立了多维产出梯度分化（语言技能超强赋能 vs 元认知不显著），证实了宏观边际效益递增与权力壁垒破除机制，并经剪补法校正确立了真实效应基准（$g^+ = 0.321$）。
+> - **2025 — [[Higher-Order Thinking Skills|高阶思维]]与生态机制[[Meta-analysis|元分析]]确证** [[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] 元分析 29 项实证研究（59 个[[Effect Size|效应量]]），确立生成式 AI 赋能高阶思维的总体效应基准（$g = 0.609$），系统揭示子维度级差（[[Problem Solving|问题解决]] $>$ [[Critical Thinking|批判性思维]] $>$ [[Creativity|创造力]]）及干预周期倒 U 型规律（8–16 周峰值）与自主调节能力门槛；[[Argument_Chen_Cheung_2025_ERR|Chen & Cheung (2025)]] 引入 [[What Works Clearinghouse|WWC]] 基线等效门槛（$d < 0.25$）开展 57 项高校实验元分析，确立语言技能超强赋能而元认知不显著的产出梯度，并证实低 ICT 与高权力距离情境下的宏观边际效益递增。
 > - **2026 — 教学活动系统全面重构** [[Argument_Li_2026_CEAI|Li et al. (2026)]] 提出批判性与[[Creativity|创造性思维]]双重视角整合框架与六大教学干预规制；[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026)]] 正式将 AI 素养确立为面向未来社会的国家级核心课程基础设施。
 
 ---
@@ -251,8 +260,8 @@ updated: 2026-09-04
 
 > [!warning] 适用局限与实施边界
 > - **无法替代具身情境与实践经验** 实验室动手操作、真实[[Fieldwork|田野调查]]、面对面同伴共情与人际伦理协商等核心教育体验，均无法被纯文本/多模态生成式算法替代。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, pp. 32–34)]]
-> - **高度依赖领域先验知识** 只有当使用者本身具备一定的学科知识图式时，才能有效识别生成内容的[[AI Hallucination|幻觉]]与隐蔽逻辑断裂；新手初学者极易在缺乏基准判断力的情况下被误导。
-> - **警惕长期脱敏与[[Fade-out Effect|效应衰退]]（Fade-out Effect）** 干预时间并非越长越好。实证表明，短期（$<4$ 周，$g^+ = 0.541$）受新奇效应干扰且未充分内化，长期（$>12$ 周，$g^+ = 0.350$）易发生工具脱敏、心理疲劳与效应衰减，**4–12 周中期干预（$g^+ = 1.014$）** 是兼顾策略内化与探索热情的黄金窗口期。[[Argument_Chen_Cheung_2025_ERR|(Chen & Cheung, 2025, pp. 12, 17)]]
+> - **高度依赖领域先验知识与[[Self-Regulated Learning|自我调节学习]]能力（SRL）** 只有当使用者具备学科基准图式与高水平[[Metacognition|元认知监控]]时，才能有效驾驭生成式 AI 并识别模型[[AI Hallucination|幻觉]]；实证确证低 SRL 学习者在生成式技术环境下促学效应显著滑落（$g = 0.284$ vs 高 SRL $0.863, p < .001$），极易陷入算法盲从与深度推理放弃。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 12–13)]]
+> - **警惕长期脱敏与[[Fade-out Effect|效应衰退]]（Fade-out Effect）** 干预时间并非越长越好，过长或过短均削弱成效：① **高校情境黄金周期** [[Argument_Chen_Cheung_2025_ERR|Chen & Cheung (2025)]] 发现短期（$<4$ 周，$g^+ = 0.541$）未充分内化，长期（$>12$ 周，$g^+ = 0.350$）易发生脱敏疲劳，**4–12 周（$g^+ = 1.014$）** 为黄金窗口；② **[[Higher-Order Thinking Skills|高阶思维]]综合倒 U 型验证** [[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] 跨学段实证同样表明，8–16 周干预成效达到峰值（$g = 0.759$），而 $>16$ 周急剧下滑至 $g = 0.372$（$p = 0.011$），跨[[Document|文献]]交叉证实长期介入若缺乏递进式任务挑战，极易诱发工具依赖与认识论摩擦耗散。[[Argument_Chen_Cheung_2025_ERR|(Chen & Cheung, 2025, pp. 12, 17)]]; [[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 11–12)]]
 > - **[[Publication Bias|发表偏倚]]虚高与真实效应收敛** 现有[[Document|文献]]存在显著的“抽屉效应”与自编测验效应虚高（自编测验 $g^+ = 1.022$ vs 标准化量表 $0.614$），经[[Trim and Fill Method|剪补法]]严密校正后总体真实[[Effect Size|效应量]]收敛为中等偏小的客观基准（$g^+ = 0.321$），警示学界与决策者摒弃盲目技术狂热。[[Argument_Chen_Cheung_2025_ERR|(Chen & Cheung, 2025, pp. 13–14)]]
 
 ---
@@ -265,6 +274,7 @@ updated: 2026-09-04
 > | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] | 干预因素（生成式 AI 在高等教育中的综合学习成效） | $k = 97$ / $N = 5{,}389$（57 项实验研究） | Hedges' $g^+$；随机效应模型 | $g^+ = 0.804$ $[0.636, 0.972]$（剪补校正后 $g^+ = 0.321$） | $Q = 1390.16, p < .001, I^2 = 93.09\%$ | 严格控制基线等效性（前测差异 $d < 0.25$）；语言技能（$g^+ = 2.331$）、学业成绩（$g^+ = 0.633$）、情感动机（$g^+ = 0.617$）和高阶思维（$g^+ = 0.580$）显著，但元认知不显著（$g^+ = 0.078$） |
+> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 干预因素（生成式 AI 对学生[[Higher-Order Thinking Skills\|高阶思维]]的促学总成效） | $k = 59$ / 29 项实验与准实验研究 | Hedges' $g$；随机效应模型 | $g = 0.609$ $[0.485, 0.732]$ | $Q = 255.208, p < .001, I^2 = 77.273\%$ | 涵盖问题解决（$g = 0.745$）、批判性思维（$g = 0.691$）与创造力（$g = 0.444$）；证实适度周期与高自主调节能力是释放促学潜能的关键 |
 > | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（[[Generative AI Agent in Education\|生成式智能体]]促学总成效） | $k = 17$ / — | Hedges' $g$；随机效应模型 | $g = 0.421$ $[0.198, 0.645]$ | $Q = 143.76, I^2 = 88.87\%$ | 纳入中小学及高校实证；未作教学反思脚手架约束的研究易产生负向效应 |
 
 > [!ma-table]- 一阶元分析互补维度亚组
@@ -272,8 +282,11 @@ updated: 2026-09-04
 >
 > | 一阶元分析 | 当前概念角色 | 对应亚组（学习产出 / 情境特征） | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
 > |---|---|---|---|---|---|---|
+> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025, p. 11)]] | 干预因素（高阶思维认知子维度） | 问题解决（$k=16$） vs 批判性思维（$k=20$） vs 创造力（$k=23$） | $k = 59$ / — | 问题解决 $g = 0.745$；批判性 $g = 0.691$；创造力 $g = 0.444$ | $Q = 4.961, p = 0.084$ | 程序化与[[Reflexivity\|反思性]]技能提升显著，开放发散性[[Creativity\|创造力]]提升相对受限 |
+> | 同上 | 干预因素（实施周期与主体特征） | 8–16 周（$k=31$） vs 0–8 周（$k=15$） vs $>16$ 周（$k=13$）；高 SRL（$k=31$） vs 低 SRL（$k=25$） | $k = 59$ / — | 8–16 周 $g = 0.759$ vs $>16$ 周 $0.372$；高 SRL $g = 0.863$ vs 低 SRL $0.284$ | 时长 $Q_b = 9.106, p = .011$；SRL $Q_b = 40.962, p < .001$ | 揭示时长倒 U 型规律（8–16周峰值）与自主调节学习能力的关键门槛与中和机制 |
+> | 同上 | 干预因素（学段层次与教学模式） | K-12 基础教育（$k=23$） vs 高等教育（$k=36$）；PBL 项目化探究（$k=15$） vs 讲授式教学（$k=21$） | $k = 59$ / — | K-12 $g = 0.857$ vs 高教 $0.539$；PBL $g = 0.717$ vs 讲授 $0.396$ | 学段 $Q_b = 8.125, p = .004$；教学 $Q_b = 6.273, p = .043$ | 基础教育阶段在适宜支架下获益更高；PBL 探究深度释放生成式技术促学潜能 |
 > | [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025, p. 10)]] | 干预因素（结果分类） | 语言技能（$k=21$） vs 学业成绩（$k=25$） vs 情感动机（$k=25$） vs 高阶思维（$k=16$） vs 元认知（$k=10$） | $k = 97$ / $N = 5{,}389$ | 语言 $g^+ = 2.331$；成绩 $g^+ = 0.633$；动机 $g^+ = 0.617$；高阶思维 $g^+ = 0.580$；元认知 $g^+ = 0.078$ | $p < 0.001$ | 语言与学业产出获益显著，元认知未达统计显著（$p = 0.789$） |
-> | [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025, p. 12)]] | 干预因素（情境与文化） | 国家 ICT 水平：低（$k=20$） vs 中（$k=60$） vs 高（$k=17$）；权力距离：高（$k=73$） vs 低（$k=24$） | $k = 97$ / $N = 5{,}389$ | 低 ICT $g^+ = 1.764$ vs 高 ICT $g^+ = 0.501$；高权力距离 $g^+ = 0.859$ vs 低权力距离 $g^+ = 0.236$ | ICT: $Q_B = 21.69, p < .001$；权力距离: $Q_B = 10.97, p = .001$ | 证实数字化薄弱情境的边际效益递增及高权力距离下的自主赋能机制 |
+> | 同上 | 干预因素（情境与文化） | 国家 ICT 水平：低（$k=20$） vs 中（$k=60$） vs 高（$k=17$）；权力距离：高（$k=73$） vs 低（$k=24$） | $k = 97$ / $N = 5{,}389$ | 低 ICT $g^+ = 1.764$ vs 高 ICT $g^+ = 0.501$；高权力距离 $g^+ = 0.859$ vs 低权力距离 $g^+ = 0.236$ | ICT: $Q_B = 21.69, p < .001$；权力距离: $Q_B = 10.97, p = .001$ | 证实数字化薄弱情境的边际效益递增及高权力距离下的自主赋能机制 |
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
@@ -289,6 +302,7 @@ updated: 2026-09-04
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] — 运用随机效应[[Meta-analysis|元分析]]综合 29 项实验与准[[Experimental Research|实验研究]]（59 个[[Effect Size|效应量]]），系统确立生成式 AI 对学生[[Higher-Order Thinking Skills|高阶思维]]的中等显著促学效应（$g = 0.609$），并实证揭示干预时长（8–16 周倒 U 型最优窗口）与[[Self-Regulated Learning|自我调节学习]]能力（高低 SRL 组间差异极显著）的决定性调节边界。
 > - [[Argument_Chen_Cheung_2025_ERR|Chen & Cheung (2025)]] — [[Meta-analysis|元分析]] 57 项严格控制[[Baseline Standardized Mean Difference|基线等效性]]（$d < 0.25$）的实验研究（97 个效应量，$N = 5{,}389$），证实生成式 AI 对大学生产出的综合大效应（$g^+ = 0.804$，剪补校正后 $g^+ = 0.321$），系统揭示多维产出梯度分化（语言技能 $>$ [[Academic Achievement|学业成绩]] $>$ [[Affective Outcomes|情感动机]] $>$ [[Higher-Order Thinking Skills|高阶思维]] $>$ [[Metacognition|元认知]]）及低 ICT 与高权力距离情境下的边际效益赋能机制。
 > - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — [[Systematic Review|系统综述]] 67 项高等教育实证研究，基于批判性与[[Creativity|创造性思维]]双重视角阐明生成式 AI 的双向调节机制，提炼三大共现演进模型与六大教学干预规制。
 > - [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] — [[Meta-analysis|元分析]] 56 项实证研究中[[Generative AI Agent in Education|生成式智能体]]对[[Computational Thinking|计算思维]]与[[Academic Achievement|学业表现]]的促进效应（$g = 0.421$），实证确立显性反思量规对规避[[Cognitive Offloading|认知卸载]]的必要性。

@@ -7,7 +7,7 @@ aliases:
 summary: "人类认知由独立的非言语视觉表象与言语符号双通道构成，图文协同表征能显著降低工作记忆负荷并强化长时记忆整合的认知学习理论"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 13
+theory_related_count: 14
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Graphic Organizer]]"
   - "[[Working Memory]]"
   - "[[Higher-Order Thinking Skills]]"
+  - "[[Problem Solving]]"
   - "[[Mind Mapping]]"
   - "[[Concept Mapping]]"
   - "[[Argument Mapping]]"
@@ -58,7 +59,7 @@ updated: 2026-08-25
 > 人类认知系统由两个在结构和功能上既相互独立又高度关联的信息加工子系统构成：负责加工非言语视觉信息的表象系统（Image System / Imagens）和负责加工言语听觉信息的语言系统（Verbal System / Logogens）；当学习材料同时以结构化视觉图示（如[[Graphic Organizer|图形组织器]]）与文字语言呈现时，双通道同时激活并建立跨模态指称联结（Referential Connections），不仅有效扩大了[[Working Memory|工作记忆]]的瞬时处理通量，而且极大强化了长时记忆的深层概念网络整合。[[Argument_Lei_Ding_Chiu_2026_ERR|(Lei et al., 2026, pp. 2–3)]]
 
 > [!citation-card]- 关键表述
-> 双重[[Coding in Qualitative Research|编码]]理论指出，视觉空间通道与语言通道的协同运作使大脑能够利用海马体至大脑皮层的神经通路，将空间排布的拓扑语义从短时记忆转化为长时记忆，从而强效支撑复杂的[[Higher-Order Thinking Skills|高阶思维]]与问题解决。[[Argument_Lei_Ding_Chiu_2026_ERR|(Lei et al., 2026, pp. 2–3, 11)]]
+> 双重[[Coding in Qualitative Research|编码]]理论指出，视觉空间通道与语言通道的协同运作使大脑能够利用海马体至大脑皮层的神经通路，将空间排布的拓扑语义从短时记忆转化为长时记忆，从而强效支撑复杂的[[Higher-Order Thinking Skills|高阶思维]]与[[Problem Solving|问题解决]]。[[Argument_Lei_Ding_Chiu_2026_ERR|(Lei et al., 2026, pp. 2–3, 11)]]
 >
 > *According to dual coding theory and spatial metaphor theory, visual tools activate both visual and verbal channels, creating integrated cognitive structures that support higher-order thinking...*
 

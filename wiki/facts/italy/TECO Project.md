@@ -11,7 +11,7 @@ subtype: event
 region: italy
 fact_region: "italy"
 fact_kind: "event"
-fact_related_count: 9
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Going Native]]"
   - "[[Critical Thinking]]"
+  - "[[Problem Solving]]"
   - "[[Homework]]"
   - "[[Ecological Validity]]"
   - "[[Reliability]]"
@@ -68,7 +69,7 @@ updated: 2026-08-27
 ## 关键文件／声明
 
 > [!citation-card]- 项目核心定位
-> 意大利大学生素养测验（TECO）旨在评估本科生跨学科的通用[[Critical Thinking|批判性思维]]、问题解决与书面论证能力，为国家质保与大学自我诊断提供客观增益证据。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 17)]]
+> 意大利大学生素养测验（TECO）旨在评估本科生跨学科的通用[[Critical Thinking|批判性思维]]、[[Problem Solving|问题解决]]与书面论证能力，为国家质保与大学自我诊断提供客观增益证据。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 17)]]
 >
 > *TECO aims to assess undergraduate students' transversal competencies in critical thinking, problem-solving, and written communication to support institutional self-assessment and quality assurance.*
 

@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_display_title: "Research Methods in Education · Ch10"
 argument_kind: "book-chapter"
-argument_related_count: 132
+argument_related_count: 133
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -84,6 +84,7 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Falsification]]"
   - "[[Literature Search]]"
+  - "[[Problem Solving]]"
   - "[[Cross-cultural Validity]]"
   - "[[Ecological Fallacy]]"
   - "[[Scale of Measurement]]"
@@ -667,7 +668,7 @@ Scheurich (1996) 提出了一个更为激进的反思：效度不过是实际上
 > |---|---|---|
 > | **核心逻辑** | 第一轮数据与**未来**数据高度相关 | 一种工具的数据与**同时**使用的另一种工具的数据高度相关 |
 > | **时间要素** | 有——需要时间间隔 | 无——同时发生 |
-> | **典型场景** | 16 岁考试成绩与 18 岁考试成绩高度相关→第一次考试具有强预测效度 | 观察、访谈和文件三种方法对同一学生问题解决能力的评估结果一致→共时效度得到证明 |
+> | **典型场景** | 16 岁考试成绩与 18 岁考试成绩高度相关→第一次考试具有强预测效度 | 观察、访谈和文件三种方法对同一学生[[Problem Solving\|问题解决能力]]的评估结果一致→共时效度得到证明 |
 > | **验证方法** | 计算前后测相关系数 | 比较不同工具同时产生的数据的一致性 |
 > | **区分关键** | 对未来表现的预测力 | 与另一已验证工具的当前一致性 |
 

@@ -33,6 +33,7 @@ related_concepts:
   - "[[Cognitive Shifting]]"
   - "[[Working Memory]]"
   - "[[Executive Function]]"
+  - "[[Problem Solving]]"
   - "[[Divergent Thinking]]"
   - "[[Domain Specificity]]"
   - "[[Metacognition]]"
@@ -103,7 +104,7 @@ title: "Argument_Park_2026_TSC"
 argument_key: "Argument_Park_2026_TSC"
 argument_display_title: "Exploring the intersection of creativity and critical thinking among students: A meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 65
+argument_related_count: 66
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -148,7 +149,7 @@ issuing_organization: ""
 > | **创造力的共识定义**<br>（Original + Useful） | [[Creativity\|创造力]]指在特定领域生成既新颖又有用的观念或产品（Amabile, 2019; Kaufman & Beghetto, 2009; Stein, 1953; Sternberg & Lubart, 1998），为界定创造力测量的范围提供基准。（p. 2） |
 > | **批判性思维的科学构念化**<br>（Skills + Dispositions + 自我调节） | [[Critical Thinking\|批判性思维]]从哲学与教育领域扩展为可测量的科学[[Construct\|构念]]，涵盖态度、知识、技能与倾向，以及质疑、分析、解释、评价、判断与辨识信息的能力（Glaser, 1941），并以自我调节为本质（Dwyer, 2017）。（p. 2） |
 > | **共享执行功能基础**<br>（Executive Functions） | 两个构念都依赖抑制、[[Cognitive Shifting\|认知灵活性]]与[[Working Memory\|工作记忆]]等[[Executive Function\|执行功能]]（Benedek et al., 2012, 2014），为两者正相关提供认知神经层面的共同基础。（pp. 2–3） |
-> | **高阶认知互补框架**<br>（Complementary Higher-Order Cognition） | 创造力经由发散过程生成新颖有用的观念，批判性思维经由收敛推理分析与评价信息；两者均可作为复杂问题解决中互补的阶段，创造力产出可能性，批判性思维加以精炼与选择（Cropley, 2006; Sternberg & Lubart, 1998）。（pp. 2–3） |
+> | **高阶认知互补框架**<br>（Complementary Higher-Order Cognition） | 创造力经由发散过程生成新颖有用的观念，批判性思维经由收敛推理分析与评价信息；两者均可作为[[Problem Solving\|复杂问题解决]]中互补的阶段，创造力产出可能性，批判性思维加以精炼与选择（Cropley, 2006; Sternberg & Lubart, 1998）。（pp. 2–3） |
 > | **[[Creative Problem Solving\|创造性问题解决]]整合模型** | 将批判性评价视为创造力必要阶段的框架（Isaksen & Treffinger, 2004），以及把创造性[[Hypothesis\|假设]]生成纳入反思判断的批判性思维模型（Kuhn, 1999），支持两个构念边界比传统假设更可渗透。（p. 10） |
 
 > [!contrast-table] 创造力与批判性思维的概念对照
@@ -321,7 +322,7 @@ issuing_organization: ""
 > - **[[Domain Specificity|领域特殊性]]与表面对立** 两个构念均具[[Domain Specificity|领域特殊性]]，心理与护理各有特定界定（Lawson, 1999, 2015; Alfaro-LeFevre, 1999），发散生成对收敛评价的对立构成两者共存的挑战（Ennis, 1987; Sternberg & Halpern, 2020）。（pp. 1–2）
 
 > [!tension] 创造力与批判性思维的概念对立
-> - **[[Creativity|创造力]]（发散生成）** 强调非预期、非传统、非常规的观念生成，产出既新颖又有用的可能性；位于问题解决的生成阶段。
+> - **[[Creativity|创造力]]（发散生成）** 强调非预期、非传统、非常规的观念生成，产出既新颖又有用的可能性；位于[[Problem Solving|问题解决]]的生成阶段。
 > - **[[Critical Thinking|批判性思维]]（收敛评价）** 强调理性、有目的、基于标准的分析与评价，精炼、选择并判断信息；位于问题解决的精炼阶段。
 
 > [!warrant]- 推理桥梁
@@ -505,7 +506,7 @@ issuing_organization: ""
 > *As hypothesized, we found an overall correlation estimate that clearly fell in the moderate range and was significantly positive, which indicates that some overlap between measures of the two constructs exists.*
 
 > [!citation-card]- 测量类型效应的双重解释
-> 最强的相关出现在两者都以主观方式测量时（$r = 0.509$），其次是两个构念都以客观方式测量时（$r = 0.317$）……客观评估往往触及推理、问题解决与联想灵活性等相似认知过程，因此当两者都作为主动认知过程而非自评倾向被测量时，[[Creativity|创造力]]与[[Critical Thinking|批判性思维]]的收敛最强。（pp. 9–10）
+> 最强的相关出现在两者都以主观方式测量时（$r = 0.509$），其次是两个构念都以客观方式测量时（$r = 0.317$）……客观评估往往触及推理、[[Problem Solving|问题解决]]与联想灵活性等相似认知过程，因此当两者都作为主动认知过程而非自评倾向被测量时，[[Creativity|创造力]]与[[Critical Thinking|批判性思维]]的收敛最强。（pp. 9–10）
 >
 > *The highest correlation was observed when both creativity and critical thinking were measured subjectively (r = 0.509), followed by objective measures of both constructs (r = 0.317)... this pattern suggests that when both constructs are evaluated through structured, task-based [[Performance Indicators]], they may rely on shared underlying cognitive mechanisms.*
 

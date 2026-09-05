@@ -10,7 +10,7 @@ aliases:
 summary: "超越基础事实再认与机械程序算法的复杂心智加工能力，植根于布鲁姆认知目标分类学高阶层级并涵盖批判性思维、问题解决、元认知、协作与创造力"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 56
+related_count: 63
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Critical Thinking]]"
   - "[[Computational Thinking]]"
+  - "[[Problem Solving]]"
   - "[[Metacognition]]"
   - "[[Evaluation Research]]"
   - "[[Dialogue in Education]]"
@@ -49,13 +50,18 @@ related_concepts:
   - "[[Cognitive Offloading]]"
   - "[[Language Skills]]"
   - "[[Reflexivity]]"
-  - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Construct]]"
+  - "[[AI Hallucination]]"
+  - "[[Epistemological Vigilance]]"
+  - "[[Self-Regulated Learning]]"
+  - "[[Variable]]"
+  - "[[Project-Based Learning]]"
+  - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Constructivist Paradigm]]"
   - "[[Confidence Interval]]"
   - "[[Dependent Variable]]"
-  - "[[Variable]]"
   - "[[Sample Size Determination]]"
+  - "[[Task Structure]]"
   - "[[Convergent Thinking]]"
   - "[[Cooperative Integrated Reading and Composition]]"
   - "[[AI Agent in Education]]"
@@ -82,10 +88,11 @@ related_arguments:
   - "[[Argument_Li_2026_CEAI]]"
   - "[[Argument_Lei_Ding_Chiu_2026_ERR]]"
   - "[[Argument_Chen_Cheung_2025_ERR]]"
+  - "[[Argument_Zhao_2025_JIntell]]"
   - "[[Argument_Liu_2026_CHBR]]"
   - "[[Argument_Bouckaert_2023_OECD]]"
 created: 2026-08-24
-updated: 2026-09-04
+updated: 2026-09-05
 ---
 
 # Higher-Order Thinking Skills
@@ -95,7 +102,7 @@ updated: 2026-09-04
 ## 定义
 
 > [!def] 核心定义
-> 高阶思维技能（Higher-Order Thinking Skills, HOTS）是指超越简单的信息再认、事实机械回忆与固定程序算法套用的复杂心智加工运作系统。它具有非算法性（non-algorithmic）、高心智投入、多元路径与高度自我调节等特征，在面对充满不确定性与劣构的问题情境时能够形成[[Creativity|创造性]]解决方案或作出审慎的价值与逻辑判断；在理论脉络上深植于[[Bloom's Taxonomy|布鲁姆教育目标分类学]]（Bloom's Taxonomy）的高阶认知层级（分析、评价与创造），并在当代教育实证研究中具体[[Operationalization|操作化]]为[[Critical Thinking|批判性思维]]、[[Computational Thinking|计算思维]]、复杂问题解决、[[Metacognition|元认知]]反思与团队协作等核心能力。[[Argument_Gungor_2026_CP|(Güngör et al., 2026, pp. 3–4)]]; [[Argument_Unal_2026_JECR|(Ünal et al., 2026, pp. 1365–1366)]]; [[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 1–3)]]
+> 高阶思维技能（Higher-Order Thinking Skills, HOTS）是指超越简单的信息再认、事实机械回忆与固定程序算法套用的复杂心智加工运作系统。它具有非算法性（non-algorithmic）、高心智投入、多元路径与高度自我调节等特征，在面对充满不确定性与劣构的问题情境时能够形成[[Creativity|创造性]]解决方案或作出审慎的价值与逻辑判断；在理论脉络上深植于[[Bloom's Taxonomy|布鲁姆教育目标分类学]]（Bloom's Taxonomy）的高阶认知层级（分析、评价与创造），并在当代教育实证研究中具体[[Operationalization|操作化]]为[[Critical Thinking|批判性思维]]、[[Computational Thinking|计算思维]]、[[Problem Solving|复杂问题解决]]、[[Metacognition|元认知]]反思与团队协作等核心能力。[[Argument_Gungor_2026_CP|(Güngör et al., 2026, pp. 3–4)]]; [[Argument_Unal_2026_JECR|(Ünal et al., 2026, pp. 1365–1366)]]; [[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 1–3)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 学生对已有信息和经验进行深层重构、逻辑推论、批判审视与综合创新的复杂高级心智加工体系。
@@ -103,7 +110,7 @@ updated: 2026-09-04
 > - **边界** 高阶思维技能不等于脱离具体学科知识的空洞逻辑游戏，亦不同于遵循明确公式步骤的常规熟练运算。
 
 > [!citation-card]- 经典界定与当代操作化表述
-> 高阶思维技能被经典界定为“非算法性的、需要付出心智努力的、涉及自我调节的复杂认知过程，通常会产生多种解决方案或在面对不确定性时需要细致入微的判断”（Resnick, 1987）。在当代实证研究中，它将批判性思维、推论推理与复杂问题解决等高阶能力操作化，所有这些能力都要求学习者对已习得的知识进行深层加工与结构重组（Ghanizadeh et al., 2020; Liu et al., 2024）。[[Argument_Gungor_2026_CP|(Güngör et al., 2026, pp. 3–4)]]; [[Argument_Unal_2026_JECR|(Ünal et al., 2026, pp. 1365–1366)]]
+> 高阶思维技能被经典界定为“非算法性的、需要付出心智努力的、涉及自我调节的复杂认知过程，通常会产生多种解决方案或在面对不确定性时需要细致入微的判断”（Resnick, 1987）。在当代实证研究中，它将批判性思维、推论推理与[[Problem Solving|复杂问题解决]]等高阶能力操作化，所有这些能力都要求学习者对已习得的知识进行深层加工与结构重组（Ghanizadeh et al., 2020; Liu et al., 2024）。[[Argument_Gungor_2026_CP|(Güngör et al., 2026, pp. 3–4)]]; [[Argument_Unal_2026_JECR|(Ünal et al., 2026, pp. 1365–1366)]]
 >
 > *HOTS are defined as complex cognitive processes that are non-algorithmic, effortful, and involve self-regulation, often yielding multiple solutions or requiring nuanced judgment in the face of uncertainty (Resnick, 1987)... Higher-order thinking frameworks operationalize problem solving, metacognition, critical thinking, collaboration, and creativity (Liu et al., 2024; McLoughlin & Mynard, 2009).*
 
@@ -130,7 +137,7 @@ updated: 2026-09-04
 ## 核心要素
 
 > [!feature] 高阶思维技能五维核心分类框架（Resnick, 1987; McLoughlin & Mynard, 2009; Liu et al., 2024）
-> - **问题解决（Problem Solving）** 在目标模糊、信息不完备且路径非唯一的劣构情境中，自主规划、[[Hypothesis|假设]]检验、动态监控与迭代推进解决路径的实践认知能力。
+> - **[[Problem Solving|问题解决]]（Problem Solving）** 在目标模糊、信息不完备且路径非唯一的劣构情境中，自主规划、[[Hypothesis|假设]]检验、动态监控与迭代推进解决路径的实践认知能力。
 > - **[[Metacognition|元认知]]（Metacognition）** 对自身认知加工过程的自我意识、策略监控、执行评估与动态调整能力，是防止思维停留在盲目试错的关键中枢。
 > - **[[Critical Thinking|批判性思维]]（Critical Thinking）** 审视论据[[Reliability|可靠性]]、识别逻辑谬误与认知偏误、抵御情感煽动并基于充足证据形成独立主张的理性反思品质。
 > - **团队协作（Collaboration）** 在[[Heterogeneity|异质性]]同伴互动中交流观点、应对认知冲突、协商共识并协同[[Constructed Knowledge|建构知识]]的社会化高阶认知过程。
@@ -170,7 +177,7 @@ updated: 2026-09-04
 > 探讨[[Heterogeneity|异质性]]同伴互动中的观点辩护、质疑反驳与协同建构如何促使学生从被动吸收走向深度高阶思维加工。
 
 > [!claim] [[Argument_Gungor_2026_CP|Güngör et al. (2026)]]
-> **合作互动对高阶思维的突出提升** [[Meta-meta-analysis|二阶元分析]]（Second-Order [[Meta-analysis]]，SOMA）实证检验表明，[[Cooperative Learning|合作学习]]教学干预对学生高阶思维技能（涵盖[[Critical Thinking|批判性思维]]、[[Creativity|创造性]]思维与复杂问题解决）表现出高度显著的正向促进效应（$ES = 0.76, 95\%\text{ CI} = [0.42, 1.11], k = 4$），在所有具体学习产出类型中[[Effect Size|效应量]]位居首位（高于常规[[Academic Achievement|学业成就]] $ES = 0.71$ 与情感态度 $ES = 0.51$）。在[[Jigsaw|拼图法]]（Jigsaw）与小组调查等具体模式中，组员必须向他人解释复杂概念、应对同伴质疑并整合多元观点，这一社会建构过程直接诱发了认知冲突与深度反思，显著超越了传统讲授式教学对高阶思维发展的局限。[[Argument_Gungor_2026_CP|(Güngör et al., 2026, pp. 8–9)]]
+> **合作互动对高阶思维的突出提升** [[Meta-meta-analysis|二阶元分析]]（Second-Order [[Meta-analysis]]，SOMA）实证检验表明，[[Cooperative Learning|合作学习]]教学干预对学生高阶思维技能（涵盖[[Critical Thinking|批判性思维]]、[[Creativity|创造性]]思维与[[Problem Solving|复杂问题解决]]）表现出高度显著的正向促进效应（$ES = 0.76, 95\%\text{ CI} = [0.42, 1.11], k = 4$），在所有具体学习产出类型中[[Effect Size|效应量]]位居首位（高于常规[[Academic Achievement|学业成就]] $ES = 0.71$ 与情感态度 $ES = 0.51$）。在[[Jigsaw|拼图法]]（Jigsaw）与小组调查等具体模式中，组员必须向他人解释复杂概念、应对同伴质疑并整合多元观点，这一社会建构过程直接诱发了认知冲突与深度反思，显著超越了传统讲授式教学对高阶思维发展的局限。[[Argument_Gungor_2026_CP|(Güngör et al., 2026, pp. 8–9)]]
 
 ---
 
@@ -193,7 +200,7 @@ updated: 2026-09-04
 > 探讨智能代码助手、[[Dialogue in Education|对话]]机器人与自适应系统如何通过承担低阶机械运算释放认知资源，以及缺乏教学法指引可能导致的思维退化风险。
 
 > [!claim] [[Argument_Unal_2026_JECR|Ünal et al. (2026)]]
-> **AI 技术外化支架对高阶认知的实质促进** 二阶元分析显示，AI 教育应用对学生高阶思维技能具有中等至强效的显著促进作用（$ES = .63, 95\%\text{ CI} = [.12, 1.14]$，涵盖 29 项初级研究与 2,966 名学生）。在计算机编程与工程设计中，生成式 AI 代码助手（$ES = .99$）承担了低阶语法排查与常规模板编写的认知负荷，使学习者得以将宝贵的注意力集中于算法架构设计、抽象逻辑验证与[[Computational Thinking|计算思维]]（Computational Thinking）等高阶层面；在语言与跨学科探究中，智能对话代理（$ES = .74$）提供了 24/7 即时反馈与多轮辩论环境，有效激发了学生的批判审视与反思修正机制。[[Argument_Unal_2026_JECR|(Ünal et al., 2026, pp. 1365–1366, 1373)]]
+> **AI 技术外化支架对高阶认知的实质促进** 二阶元分析显示，AI 教育应用对学生高阶思维技能具有显著促进作用。在计算机编程与工程设计中，生成式 AI 代码助手承担了低阶语法排查与常规模板编写的认知负荷，使学习者得以将宝贵的注意力集中于算法架构设计、抽象逻辑验证与[[Computational Thinking|计算思维]]（Computational Thinking）等高阶层面；在语言与跨学科探究中，智能对话代理提供了即时反馈与多轮辩论环境，有效激发了学生的批判审视与反思修正机制。[[Argument_Unal_2026_JECR|(Ünal et al., 2026, pp. 1365–1366, 1373)]]
 
 ---
 
@@ -203,7 +210,7 @@ updated: 2026-09-04
 > 考察生成式 AI 作为中介工具时，批判性思维（收敛加工）与创造性思维（发散加工）两类高阶思维如何产生协同增益、非对称演进或双重侵蚀。
 
 > [!claim] [[Argument_Li_2026_CEAI|Li et al. (2026)]]
-> **高阶思维在人机协同中分化出三大共现演进轨迹** 对 67 项高等教育实证研究的[[Systematic Review|系统综述]]表明，ChatGPT 等生成式技术对高阶思维的塑造具有显著的情境依从性。在考察双向思维的 34 项[[Document|文献]]中，高阶思维分化出三大共现模式：① **双向协同增益模式（Synergistic Enhancement，53%, $n = 18$）** 在嵌入反思量规与[[Socrates|苏格拉底]]追问的[[Structured Teaching|结构化教学]]中，AI 作为认知放大器同时促进发散构想与批判论证；② **非对称模式（Asymmetrical Development，24%, $n = 8$）** 技术赋能发散构想的同时，缺乏反思引导导致学生将证据核查外包给 AI，造成“创造性繁荣伴随批判性萎缩”；③ **双重认知侵蚀模式（Joint Cognitive Erosion，12%, $n = 4$）** 在无支架的直接答案索取中，严重的[[Cognitive Offloading|认知卸载]]导致两类思维同步退化。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 1, 9–11)]]
+> **高阶思维在人机协同中分化出三大共现演进轨迹** 对高等教育实证研究的[[Systematic Review|系统综述]]表明，ChatGPT 等生成式技术对高阶思维的塑造具有显著的情境依从性。在考察双向思维的[[Document|文献]]中，高阶思维分化出三大共现模式：① **双向协同增益模式（Synergistic Enhancement）** 在嵌入反思量规与[[Socrates|苏格拉底]]追问的[[Structured Teaching|结构化教学]]中，AI 作为认知放大器同时促进发散构想与批判论证；② **非对称模式（Asymmetrical Development）** 技术赋能发散构想的同时，缺乏反思引导导致学生将证据核查外包给 AI，造成“创造性繁荣伴随批判性萎缩”；③ **双重认知侵蚀模式（Joint Cognitive Erosion）** 在无支架的直接答案索取中，严重的[[Cognitive Offloading|认知卸载]]导致两类思维同步退化。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 1, 9–11)]]
 
 ---
 
@@ -213,7 +220,20 @@ updated: 2026-09-04
 > 探讨智能模型在不同认知加工层级上的干预效能差异，揭示技术对表层符号操作与深层心智重构之间的效能断层。
 
 > [!claim] Chen, S., & [[Alan C. K. Cheung|Cheung, A. C. K.]]
-> **认知加工深度的心智级差与高阶思维的渗透阻抗** 基于严格基线等效控制（$d < 0.25$）的元分析表明，生成式 AI 对大学生不同认知产出的干预效应呈现严格的单调递减阶梯：[[Language Skills|语言技能]]（$g^+ = 2.331$）$>$ [[Academic Achievement|学业成绩]]（$g^+ = 0.633$）$>$ 高阶思维（$g^+ = 0.580$）$>$ [[Metacognition|元认知]]（$g^+ = 0.078, p = .789$）。生成式 AI 凭借海量预训练语料对语法重构、文本改写等低阶外在符号操作表现出极高敏感性，但在需要多视角反思、逻辑证成与深度权衡的高阶思维（$k = 16, g^+ = 0.580$）及元认知自我调节上，技术的赋能效应大幅衰减乃至停滞。在国际关系等论辩情境中，AI 能作为有效脚手架启发[[Reflexivity|反思性]]方案设计（de la Puente et al., 2024），但若缺乏显性思维干预，学生直接采纳生成建议则极易导致深层逻辑推断质量下滑（Stadler et al., 2024）。[[Argument_Chen_Cheung_2025_ERR|(Chen & Cheung, 2025, pp. 10, 15–17)]]
+> **认知加工深度的心智级差与高阶思维的渗透阻抗** 基于严格基线等效控制的元分析表明，生成式 AI 对大学生不同认知产出的干预效应呈现严格的单调递减阶梯：[[Language Skills|语言技能]] $>$ [[Academic Achievement|学业成绩]] $>$ 高阶思维 $>$ [[Metacognition|元认知]]。生成式 AI 凭借海量预训练语料对语法重构、文本改写等低阶外在符号操作表现出极高敏感性，但在需要多视角反思、逻辑证成与深度权衡的高阶思维及元认知自我调节上，技术的赋能效应大幅衰减乃至停滞。在国际关系等论辩情境中，AI 能作为有效脚手架启发[[Reflexivity|反思性]]方案设计（de la Puente et al., 2024），但若缺乏显性思维干预，学生直接采纳生成建议则极易导致深层逻辑推断质量下滑（Stadler et al., 2024）。[[Argument_Chen_Cheung_2025_ERR|(Chen & Cheung, 2025, pp. 10, 15–17)]]
+
+---
+
+### 命题六　生成式人工智能对高阶思维的赋能呈现内部子维度结构性级差与学习者自主能动性的决定性分水岭
+
+> [!concept-lens] 认知[[Construct|构念]]三角的算法适配深度与主体调控边界
+> 探讨大语言模型的底层概率生成机制与高阶思维三大核心子构念（问题解决、批判性思维与创造力）的契合差异，以及个体自我调节能力对抵御心智外包的免疫功能。
+
+> [!claim] Zhao et al.
+> **高阶思维三维系统与算法特质的深度适配级差** 基于一阶[[Meta-analysis|元分析]]证实，生成式 AI 对学生高阶思维技能整体具有显著的正向促进作用。依据修订版布鲁姆认知目标分类学与跨学科高阶思维基准框架，高阶思维是由[[Problem Solving|问题解决]]、[[Critical Thinking|批判性思维]]与[[Creativity|创造力]]协同交织的复杂心智系统。元分析亚组检验揭示出鲜明的内部维度级差：① **[[Problem Solving|问题解决能力]]位居首位**，由于复杂问题解决高度依赖多路径搜索、语法排错与逐步逼近，大模型的程序推演能力与此高度契合，成为最佳认知副驾驶；② **批判性思维中等偏强**，在人机辩论与探究情境中，模型潜在的事实偏误与算法[[AI Hallucination|幻觉]]反向激活了学生的[[Epistemological Vigilance|认识论警觉]]与挑错抗辩；③ **创造力增益相对受限**，大语言模型基于最大似然估计的概率生成机制天然导向平滑常模收敛，学生若缺乏深层认知挣扎极易落入套路化的“捷径式学习”。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 2–4, 10–14)]]
+
+> [!claim] Zhao et al.
+> **[[Self-Regulated Learning|自主调节学习]]能力的决定性门槛与倒 U 型最优时间窗口** 调节[[Variable|变量]]检验进一步确立了生成式 AI 赋能高阶思维的两大生态边界：① **自主调节学习能力的决定性分流** 高 SRL 能力组学生获得强劲增益，而低 SRL 学生提升微弱；高自律学生能主动规划探究目标并将 AI 转化为思维磨刀石，而低自律学生彻底沦陷于复制粘贴与心智外包泥潭；② **干预时长的倒 U 型非线性规律** 短期受新奇效应与工具熟练度制约；中期达到人机协同内化的最佳黄金平衡；长期因教学设计缺乏动态消退（Fading）而诱发心理倦怠与深层认知懒惰。这证明生成式 AI 绝非普遍灵药，必须结合真实任务情境（如[[Project-Based Learning|项目式学习]]）与显性 SRL 训练才能稳定维系高阶思维增长。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 11–12, 14–17)]]
 
 ---
 
@@ -222,11 +242,12 @@ updated: 2026-09-04
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **社会建构赋能** | 异质性同伴互动与结构化协商是激发分析、评价、创造与批判性思维的核心机制（$ES = 0.76$）。 | 课堂教学设计、探究式学习与[[21st Century Skills and Competencies Discourse\|核心素养]]改革 | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]]; Siagian et al. (2023); Solissa et al. (2023) |
-> | **认知支架支撑** | 高阶思维依赖显性认知脚手架（如图形组织器 $g = 0.78$）与[[Metacognition\|元认知]]监控，优先赋能思维过程与倾向。 | 教学工具开发、跨学科项目式学习与深度评价 | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei, Ding & Chiu (2026)]]; Resnick (1987); Ghanizadeh et al. (2020); Kim (2025) |
-> | **技术认知外化** | 智能技术承担低阶机械算法释放工作记忆，赋能计算思维与批判探究（$ES = 0.63$）。 | 人工智能教育应用（AIEd）、程序设计与自适应教学系统 | [[Argument_Unal_2026_JECR\|Ünal et al. (2026)]]; Dibek et al. (2025); Yilmaz & Karaoglan Yilmaz (2023) |
-> | **人机双向共现** | 高阶思维分化为双向协同增益（53%）、非对称演进（24%）与双重侵蚀（12%），取决于反思脚手架。 | 高等教育生成式 AI 学习、人机协同探究与学术写作 | [[Argument_Li_2026_CEAI\|Li et al. (2026)]]; Strobl et al. (2024); Fan et al. (2025) |
-> | **认知穿透级差** | 技术促学效应随心智加工深度单调递减，高阶思维与元认知面临渗透阻抗（$g^+ = 0.58 \to 0.08$）。 | 高等教育人机协同学习、深度探究与批判性思维教学 | [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] |
+> | **社会建构赋能** | 异质性同伴互动与结构化协商是激发分析、评价、创造与批判性思维的核心机制。 | 课堂教学设计、探究式学习与[[21st Century Skills and Competencies Discourse\|核心素养]]改革 | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]]; Siagian et al. (2023); Solissa et al. (2023) |
+> | **认知支架支撑** | 高阶思维依赖显性认知脚手架（如图形组织器等空间表征工具）与[[Metacognition\|元认知]]监控，优先赋能思维过程与倾向。 | 教学工具开发、跨学科项目式学习与深度评价 | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei, Ding & Chiu (2026)]]; Resnick (1987); Ghanizadeh et al. (2020); Kim (2025) |
+> | **技术认知外化** | 智能技术承担低阶机械算法释放[[Working Memory\|工作记忆]]，赋能计算思维与批判探究。 | 人工智能教育应用（AIEd）、程序设计与自适应教学系统 | [[Argument_Unal_2026_JECR\|Ünal et al. (2026)]]; Dibek et al. (2025); Yilmaz & Karaoglan Yilmaz (2023) |
+> | **人机双向共现** | 高阶思维分化为双向协同增益、非对称演进与双重侵蚀，取决于反思脚手架。 | 高等教育生成式 AI 学习、人机协同探究与学术写作 | [[Argument_Li_2026_CEAI\|Li et al. (2026)]]; Strobl et al. (2024); Fan et al. (2025) |
+> | **认知穿透级差** | 技术促学效应随心智加工深度单调递减，高阶思维与元认知面临渗透阻抗。 | 高等教育人机协同学习、深度探究与批判性思维教学 | [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] |
+> | **算法适配与 SRL 分水岭** | 内部子维度呈级差（问题解决 $>$ 批判思维 $>$ 创造力），高低 SRL 呈决定性分流，呈现中短期倒 U 型黄金窗口 | 人工智能教育应用、项目式学习（PBL）与自主调节学习干预 | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]]; Alkhatib (2022); Zimmerman (2002) |
 
 ---
 
@@ -236,9 +257,9 @@ updated: 2026-09-04
 > - **1956 年 认知目标分类学奠基** Bloom 等人提出认知领域教育目标分类学，确立从知识、领会、运用到分析、综合、评价的六级阶梯，奠定高阶思维的经典层级框架。
 > - **1980 年代 认知科学转向与思维教学运动** Resnick（1987）系统阐述“教育与学习思考”，明确高阶思维的非算法性、复杂性与自我调节属性，推动思维技能显性教学与[[Metacognition|元认知]]研究兴起。
 > - **2001 年 [[Bloom's Taxonomy|布鲁姆分类学]]二维修订** Anderson & Krathwohl 对分类学进行重构（知识维度 $\times$ 认知过程维度），将“创造”（Create）置于认知过程最高层级，突出知识生成的综合性。
-> - **2010 年代 [[Computational Thinking|计算思维]]与多维技能拓展** Korkmaz et al. (2017) 研制[[Computational Thinking Scale|计算思维量表]]（CTS），将算法思维、[[Critical Thinking|批判性思维]]、问题解决与[[Creativity|创造力]]整合为可测量的技术高阶认知[[Construct|构念]]。
+> - **2010 年代 [[Computational Thinking|计算思维]]与多维技能拓展** Korkmaz et al. (2017) 研制[[Computational Thinking Scale|计算思维量表]]（CTS），将算法思维、[[Critical Thinking|批判性思维]]、[[Problem Solving|问题解决]]与[[Creativity|创造力]]整合为可测量的技术高阶认知[[Construct|构念]]。
 > - **2020 年代 21世纪[[21st Century Skills and Competencies Discourse|核心素养]]与二阶证据确证** [[Meta-meta-analysis|二阶元分析]]相继证实[[Constructivist Paradigm|建构主义]][[Cooperative Learning|合作学习]]（$ES = 0.76$）与人工智能技术支架（$ES = 0.63$）对高阶思维的显著促进效应，确立了宏观证据基准。[[Argument_Gungor_2026_CP|(Güngör et al., 2026)]]; [[Argument_Unal_2026_JECR|(Ünal et al., 2026)]]
-> - **2025 年 基线等效[[Meta-analysis|元分析]]揭示认知加工深度级差** [[Argument_Chen_Cheung_2025_ERR|Chen & Cheung (2025)]] 基于 57 项[[Experimental Research|实验研究]]确立高阶思维（$g^+ = 0.580$）的稳健基准，揭示出技术效应从表层[[Language Skills|语言技能]]向高阶思维及元认知单调递减的认知穿透力规律。
+> - **2025 年 认知加工深度级差与算法心智适配模型确立** [[Argument_Chen_Cheung_2025_ERR|Chen & Cheung (2025)]] 揭示技术效应从表层语言向高阶思维及元认知单调递减规律（$g^+ = 0.580 \to 0.078$）；[[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] 综合 29 项实验确立生成式 AI 促进高阶思维总体中等偏大基准（$g = 0.609$），解构出“问题解决（$0.745$）$>$ 批判性思维（$0.691$）$>$ 创造力（$0.444$）”的结构性级差，并揭示[[Self-Regulated Learning|自主调节学习]]能力（$Q_b = 40.962$）与 8–16 周倒 U 型周期对抵御[[Cognitive Offloading|认知外包]]的决定性边界。
 > - **2026 年 双透镜整合与三大共现演进模型** [[Argument_Li_2026_CEAI|Li et al. (2026)]] 针对 ChatGPT 在高等教育中的认知塑造，构建了批判性思维（收敛加工）与创造性思维（发散加工）的双透镜高阶思维整合框架，实证确立了人机协同中高阶思维的三大共现轨迹与六大教学干预规制。
 
 ---
@@ -266,6 +287,7 @@ updated: 2026-09-04
 > | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与预测区间 | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] | [[Dependent Variable\|结果变量]]：生成式 AI 对大学生高阶思维（HOT）的促进效应 | $k = 16$ / $N = —$（57 项实验研究中 16 个效应量） | Hedges' $g^+$ / 随机效应模型 | $g^+ = 0.580$ $[0.321, 0.838]$ | $Q(15) = 152.55, p < .001, I^2 = 90.17\%$ | 涵盖高校批判性思维与发散构想，严格控制基线等效性（$d < 0.25$），未检测出显著发表偏倚（Egger $p = .863$） |
+> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | [[Dependent Variable\|结果变量]]：生成式 AI 对学生高阶思维（HOT）的促进效应 | $k = 59$ / 29 项研究 | Hedges' $g$ / 随机效应模型 | $g = 0.609$ $[0.485, 0.732]$ | $Q(58) = 255.208, p < .001, I^2 = 77.273\%$ | 涵盖问题解决（$g = 0.745$）、批判性思维（$g = 0.691$）与创造力（$g = 0.444$）；Egger 检验（$t = 1.871, p = 0.066$）显示未受严重发表偏倚扭曲 |
 > | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 结果变量：[[Graphic Organizer\|图形组织器]]对学生高阶思维（HOT）的总体促进效应 | $k = 72$ / $N = 4{,}824$（66 项独立研究） | Hedges' $g$ / 随机效应模型 | $g = 0.778$ $[0.649, 0.907]$ | $Q(71) = 485.49, p < .001, I^2 = 85.37\%$ | 涵盖 19 国大中小学样本；思维导图 $g = 1.041$ > 论证图 $g = 0.798$ > 概念图 $g = 0.548$；未发现发表偏倚（Egger $p = .070$） |
 > | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | [[Dependent Variable\|结果变量]]：AI 智能体对 K-12 学生高阶思维（Higher-Order Thinking）的干预效应 | $k = 13$ / $N = 3{,}042$（34 项研究中 13 个效应量） | Hedges' $g$ / 随机效应模型 | $g = 0.540$ $[-0.036, 1.117]$ | $Q(12) = 259.62, p < .001, I^2 = 95.4\%, \tau^2 = 1.063$ | 涵盖 K-12 阶段批判性思维与分析推理；点估计较大但未达统计显著（$p = .066$），异质性极高，高度依赖探究性教学设计与反思支架 |
 > | Özkan & Çetinkaya-Uslusoy (2024) | [[Dependent Variable\|结果变量]]：拼图法（Jigsaw）对护理高阶思维（[[Critical Thinking\|批判性思维]]）的促进效应 | $k = 4$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.70$ $[0.13, 1.26]$ | — | 高等护理教育临床决策情境，角色互换显著强化批判反思（引自 [[Argument_Gungor_2026_CP\|Güngör et al., 2026]]） |
@@ -279,6 +301,11 @@ updated: 2026-09-04
 >
 > | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
 > |---|---|---|---|---|---|---|
+> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 结果变量（认知维度构成） | [[Problem Solving\|问题解决]]（$k=16$） vs [[Critical Thinking\|批判性思维]]（$k=20$） vs [[Creativity\|创造力]]（$k=23$） | $k = 59$ / — | 问题解决 $g = 0.745$ $[0.521, 0.970]$；批判性 $g = 0.691$ $[0.464, 0.918]$；创造力 $g = 0.444$ $[0.259, 0.629]$ | $Q = 4.961, df = 2, p = 0.084$ | 程序性问题解决与反思批判获益显著，独创性构想相对受限 |
+> | 同上 | 结果变量（调节变量：干预时长） | 0–8 周（$k=15$） vs 8–16 周（$k=31$） vs $>16$ 周（$k=13$） | $k = 59$ / — | 0–8 周 $g = 0.494$；8–16 周 $g = 0.759$；$>16$ 周 $g = 0.372$ | $Q_b = 9.106, df = 2, p = 0.011$ | 呈现显著倒 U 型时间曲线，8–16 周为技术接纳与深层内化黄金窗口 |
+> | 同上 | 结果变量（调节变量：[[Self-Regulated Learning\|自我调节学习]]） | 高 [[Self-Regulated Learning\|SRL]] 能力组（$k=31$） vs 低 SRL 能力组（$k=25$） | $k = 56$ / — | 高 SRL $g = 0.863$ $[0.679, 1.048]$；低 SRL $g = 0.284$ $[0.188, 0.380]$ | $Q_b = 40.962, df = 1, p < 0.001$ | 自我调节构成最显著分流门槛，高能动性学习者促学增益极其显著 |
+> | 同上 | 结果变量（调节变量：学段层次） | K-12 基础教育（$k = 13$） vs 高等教育阶段（$k = 46$） | $k = 59$ / — | K-12 $g = 0.857$ $[0.542, 1.172]$；高等教育 $g = 0.539$ $[0.412, 0.667]$ | $Q_b = 3.353, df = 1, p = 0.067$（边缘显著） | K-12 显性监管与任务约束更强，高等教育非结构化环境易导致代写套用 |
+> | 同上 | 结果变量（调节变量：教学模式） | 讲授式（$k = 6$） vs [[Project-Based Learning\|项目式学习]]（$k = 31$） vs 混合式（$k = 22$） | $k = 59$ / — | 讲授式 $g = 0.396$；项目式 $g = 0.717$；混合式 $g = 0.525$ | $Q_b = 2.918, df = 2, p = 0.232$ | 真实[[Task Structure\|劣构任务]]驱动的 PBL 展现出最显著的高阶思维促学成效 |
 > | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026, p. 9)]] | 结果变量（[[Construct\|构念]]构成） | 高阶思维倾向（Dispositions） | $k = 20$ / — | $g = 0.945$ $[0.670, 1.221]$ | $Q_b = 8.66, p < .05$；与技能差异 $W = 53.47, p < .001$ | 李克特量表测度，激发探究与反思心向 |
 > | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026, p. 10)]] | 结果变量（构念构成） | 高阶认知过程（Processes） | $k = 22$ / — | $g = 0.912$ $[0.631, 1.194]$ | 与技能差异 $W = 137.48, p < .001$；与倾向差异 $W = 0.39, p = .533$ | 开放性写作与评分量规测度，直接反映思维加工质量 |
 > | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026, p. 11)]] | 结果变量（构念构成） | 高阶思维技能结果（Skills） | $k = 29$ / — | $g = 0.560$ $[0.411, 0.708]$ | 组间差异显著 | 多项选择标准化测验测度，反映远端综合技能 |
@@ -317,6 +344,7 @@ updated: 2026-09-04
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] — 运用随机效应[[Meta-analysis|元分析]]综合 29 项实验与准[[Experimental Research|实验研究]]（59 个[[Effect Size|效应量]]），系统检验生成式 AI 对学生高阶思维的促进效应（$g = 0.609$），确立了[[Problem Solving|问题解决]]（$g = 0.745$）$>$ [[Critical Thinking|批判性思维]]（$g = 0.691$）$>$ [[Creativity|创造力]]（$g = 0.444$）的效应梯度，并证实 8–16 周干预周期与高[[Self-Regulated Learning|自我调节学习]]能力的显著调节赋能。
 > - [[Argument_Chen_Cheung_2025_ERR|Chen & Cheung (2025)]] — [[Meta-analysis|元分析]] 57 项[[Experimental Research|实验研究]]中生成式 AI 对大学生高阶思维（HOT）的促进效应（$g^+ = 0.580$），严格控制[[Baseline Standardized Mean Difference|基线等效性]]（$d < 0.25$），揭示了生成式技术对高校批判反思与发散创造的中等显著赋能。
 > - [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] 运用随机效应[[Meta-analysis|元分析]]综合 66 项实验与准[[Experimental Research|实验研究]]（72 个[[Effect Size|效应量]]，$N = 4{,}824$），系统检验[[Graphic Organizer|图形组织器]]对高阶思维的促进效应（$g = 0.778$），揭示了思维倾向与认知过程收益显著高于技能结果、[[Divergent Thinking|发散思维]]收益显著高于[[Convergent Thinking|聚合思维]]的层级调节特征。
 > - [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] 运用随机效应元分析综合 34 项实验与准实验研究（73 个效应量，$N = 3{,}042$），检验 AI [[AI Agent in Education|智能体]]对 K-12 学生高阶思维的影响，发现尽管效应量点估计较大（$g = 0.540$），但未达统计显著（$p = .066$）且[[Heterogeneity|异质性]]极高（$I^2 = 95.4\%$），表明 AI 促进高阶思维的效果高度取决于探究式学习和[[Reflexivity|反思性]]任务设计。

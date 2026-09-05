@@ -11,10 +11,10 @@ aliases:
 summary: "通过显性认知策略、启发式重构工具、建构主义探究环境与情境指导语，系统识别、激发与提升个体与群体创造潜能的教育教学干预方案。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 48
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 50
+related_level: 5
+related_stars: "⭐⭐⭐⭐⭐"
+related_color: "#fecdd3"
 tags:
   - field/educational-psychology
   - theme/creativity
@@ -22,6 +22,7 @@ tags:
   - topic/instructional-design
 related_concepts:
   - "[[Creativity]]"
+  - "[[Problem Solving]]"
   - "[[Effect Size]]"
   - "[[Confidence Interval]]"
   - "[[Direct Instruction]]"
@@ -32,10 +33,10 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[SCAMPER]]"
   - "[[Constructivist Paradigm]]"
-  - "[[Problem-Based Learning]]"
   - "[[Externalization]]"
   - "[[Concept Mapping]]"
   - "[[Mind Mapping]]"
+  - "[[Problem-Based Learning]]"
   - "[[Cognitive Shifting]]"
   - "[[Problem Finding]]"
   - "[[Lateral Thinking]]"
@@ -52,6 +53,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Criterion Problem]]"
   - "[[Heterogeneity]]"
+  - "[[Project-Based Learning]]"
   - "[[Dependent Variable]]"
   - "[[Construct]]"
 related_theories:
@@ -87,7 +89,7 @@ updated: 2026-09-03
 ## 定义
 
 > [!def] 核心定义
-> [[Creativity|创造力]]训练（Creativity Training）指通过显性讲授认知启发式策略、提供结构化问题解决模型、创设探究性教学情境及运用即时任务指导语，系统识别、激发并提升学习者[[Creativity|创造潜能]]（Creative Potential）与显性创造表现的教育教学干预方案（Scott et al., 2004; [[Argument_Runco_2026_CRJ|Runco et al., 2026, pp. 6–8]]）。在教育心理学与教学论中，创造力训练确立了创造潜能的教育可塑性（Educational Malleability），打破了将创造力视为少数天才专属特权或神秘不可测灵感的宿命论偏见。[[Argument_Guo_2025_TSC|(Guo et al., 2025, pp. 1–3)]]
+> [[Creativity|创造力]]训练（Creativity Training）指通过显性讲授认知启发式策略、提供结构化[[Problem Solving|问题解决]]模型、创设探究性教学情境及运用即时任务指导语，系统识别、激发并提升学习者[[Creativity|创造潜能]]（Creative Potential）与显性创造表现的教育教学干预方案（Scott et al., 2004; [[Argument_Runco_2026_CRJ|Runco et al., 2026, pp. 6–8]]）。在教育心理学与教学论中，创造力训练确立了创造潜能的教育可塑性（Educational Malleability），打破了将创造力视为少数天才专属特权或神秘不可测灵感的宿命论偏见。[[Argument_Guo_2025_TSC|(Guo et al., 2025, pp. 1–3)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向可教学、可干预的创造性认知加工技能、问题重构策略与外认知支持环境。
@@ -125,7 +127,7 @@ updated: 2026-09-03
 
 > [!taxonomy] [[Creativity|创造力]]干预与教育教学的五大核心[[Paradigm|范式]]
 > - **结构化认知训练课程** 显性讲授系统化认知策略与思维工具（如[[Creative Problem Solving|创造性问题解决模型]] CPS $d = 0.74$、普渡创造性思维计划 PCTP $d = 0.63$、[[SCAMPER]] 创新思维技法）。
-> - **[[Constructivist Paradigm|建构主义]]探究教学模式** 深度整合于学科与跨学科真实问题中的探究式学习（如问题驱动教学法 [[Problem-Based Learning|PBL]] $g = 0.87$、跨学科 STEAM 整合教学 $g = 0.76$、协作探究 $g = 0.72$）。
+> - **[[Constructivist Paradigm|建构主义]]探究教学模式** 深度整合于学科与跨学科真实问题中的探究式学习（如问题驱动教学法 PBL $g = 0.87$、跨学科 STEAM 整合教学 $g = 0.76$、协作探究 $g = 0.72$）。
 > - **任务框架与认知指导语操纵** 在任务施测时通过显性目标定向即时激活高水平构想生成（如显式独创性指导语 $g = 0.53$、多维量规预告）。
 > - **言语符号[[Externalization|外化]]与思维可视化** 依托口头叙述、戏剧即兴与言语概念重组（言语训练 $g = 0.998$），以及[[Concept Mapping|概念图]]和[[Mind Mapping|思维导图]]（$g = 0.65$）激活远距离语义联想。
 > - **外认知与身心调节干预** 通过注意广度扩展与情境视角采择促进思维灵活性（如正念冥想 $r = 0.22$、教育戏剧[[Role-playing|角色扮演]] $d = 0.42$、结构化酝酿期 $d = 0.29$）。
@@ -146,7 +148,7 @@ updated: 2026-09-03
 > [!exegesis] 结构化认知启发式与系统思维模型
 > 此类干预通过显性讲授可操作的认知启发式策略与步骤化模型，系统训练学习者打破心理定势（Mental Set），是实证中发展历史最悠久、跨领域迁移效应最稳定的干预模式（Scott et al., 2004; [[Argument_Guo_2025_TSC|Guo et al., 2025]]）。
 >
-> 1. **创造性问题解决模型（Creative Problem Solving, CPS）**
+> 1. **创造性[[Problem Solving|问题解决]]模型（Creative Problem Solving, CPS）**
 >    - **理论流程** 由奥斯本与帕内斯（Osborn-Parnes）开创，包含理解挑战（目标发现、数据发现、[[Problem Finding|问题界定]]）、产生想法（观念发散生成）与准备行动（方案评估选择、接受度建立）六大认知循环；
 >    - **实证效应** Scott et al. (2004) [[Meta-analysis|元分析]]（$k = 70$）显示 CPS 综合效应量达到 **$d = 0.74$**（其中对复杂问题解决表现达到 $d = 0.84$，对观念生成达到 $d = 0.75$）；Ma (2006) 进一步证实复合认知训练包的平均促进效应达 **$d = 0.77$**；[[Argument_Guo_2025_TSC|Guo et al. (2025)]] 证实技术型与问题解决干预达 **$g = 0.552$** 与 **$g = 0.539$**。
 > 2. **普渡创造性思维计划（Purdue Creative Thinking Program, PCTP）**
@@ -293,7 +295,7 @@ updated: 2026-09-03
 > **干预周期的倒 U 型时间窗口** 多层元分析与[[Meta-regression|元回归]]表明，干预周期在元回归中解释了 13.4% 的组间方差（$\Delta\tau = 0.074$）：$< 2$ 个月（4–8 周）的中短期训练产生最强促进效应（$g = 0.844$），构成认知策略精熟与动机维持的最佳黄金窗口；而长达数年的超长周期训练因常规化倦怠与[[Habituation|习惯化]]定势，干预效应明显衰退甚至不显著（$< 3$ 年 $g = -0.122, p = .522$）。[[Argument_Guo_2025_TSC|(Guo et al., 2025, pp. 6–8)]]
 
 > [!claim] Acar et al.; Yunita et al.; Suganda et al.
-> **微观指导与宏观课程的双尺度协同** 即时显式指导语（$g = 0.53$）通过短平快的目标唤醒实现即时发散激活，而中短期 [[Problem-Based Learning|PBL]]（$g = 0.87$）或 STEAM 项目（$g = 0.76$）则通过[[Task Structure|劣构任务]]驱动深层认知重构，两者在微观任务唤醒与中观课程沉淀上形成互补。
+> **微观指导与宏观课程的双尺度协同** 即时显式指导语（$g = 0.53$）通过短平快的目标唤醒实现即时发散激活，而中短期 PBL（$g = 0.87$）或 STEAM 项目（$g = 0.76$）则通过[[Task Structure|劣构任务]]驱动深层认知重构，两者在微观任务唤醒与中观课程沉淀上形成互补。
 
 ---
 
@@ -325,7 +327,7 @@ updated: 2026-09-03
 > - **1950s — 天赋论打破与可塑性倡导** Guilford 在 APA 主席演讲中提出[[Creativity|创造力]]可测量且可培养，打破高智商决定论，呼吁开展创造性思维教育。
 > - **1960s–1970s — 经典模型奠基** Osborn 与 Parnes 开发[[Creative Problem Solving|创造性问题解决]]（CPS）模型；Torrance 开发[[Torrance Tests of Creative Thinking|托兰斯创造性思维测验]]（TTCT）及配套教学材料；Feldhusen 开发普渡创造性思维计划（PCTP）。
 > - **1980s–1990s — [[Meta-analysis|元分析]]检验与领域整合** Rose & Lin (1984) 完成首项 PCTP 元分析；Amabile 强调内在动机与环境支持对创造力培养的关键调制作用。
-> - **2000s–2010s — 循证标准确立与探究[[Paradigm|范式]]拓展** Scott et al. (2004) 与 Ma (2006) 建立严格的干预元分析基准；[[Constructivist Paradigm|建构主义]] [[Problem-Based Learning|PBL]] 教学与跨学科 STEAM 整合项目成为主流教学载体。
+> - **2000s–2010s — 循证标准确立与探究[[Paradigm|范式]]拓展** Scott et al. (2004) 与 Ma (2006) 建立严格的干预元分析基准；[[Constructivist Paradigm|建构主义]] PBL 教学与跨学科 STEAM 整合项目成为主流教学载体。
 > - **2025 年 — 高校[[Three-Level Meta-Analysis|多层元分析]]揭示时间窗口与言语优势** [[Argument_Guo_2025_TSC|Guo et al. (2025)]] 综合 29 项实证研究（109 个[[Effect Size|效应量]]），确立高校创造力干预基准（$g = 0.628$），实证揭示干预周期的倒 U 型演变（$< 2$ 个月 $g = 0.844$）与言语训练（$g = 0.998$）及独立个体练习的显著优势。
 > - **2026 年 — [[Meta-meta-analysis|二阶元分析]]确立全领域实证基准** [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] 综合 52 项一阶元分析（124 万人样本），确立教育教学干预在全领域创造力相关因素中位列第一（$r = 0.20$）。
 
@@ -355,7 +357,7 @@ updated: 2026-09-03
 
 > [!tension] 结构性张力：独立思维训练课 vs 学科深度整合探究
 > - **独立专门课程学派（蓝方）** 主张将 [[Creative Problem Solving|CPS]]、[[SCAMPER]] 等启发式工具作为独立思维课程讲授，确保学生系统掌握[[Metacognition|元认知]]算子与抽象思维模型（Scott et al., 2004）。
-> - **学科深度嵌入式学派（红方）** 认为脱离具体学科知识脉络的抽象技巧易沦为口头游戏，唯有将创造力嵌入数学、物理、艺术等学科的真实问题解决中才能生根发芽（Baer, 2012; Yunita et al., 2020）。
+> - **学科深度嵌入式学派（红方）** 认为脱离具体学科知识脉络的抽象技巧易沦为口头游戏，唯有将创造力嵌入数学、物理、艺术等学科的真实[[Problem Solving|问题解决]]中才能生根发芽（Baer, 2012; Yunita et al., 2020）。
 
 > [!critique]- 外部批评
 > - **表层技巧操练批评** 批评部分短训班将创造力简化为机械的联想套路，忽视了真实领域高阶创新所需的长期专业知识积累与严苛构想评估（Baer, 2012）。
@@ -379,7 +381,7 @@ updated: 2026-09-03
 > | Scott et al. (2004) | **干预因素** 创造力训练综合效果（实验与对照比较） | $k = 70$ 项实验研究 | 标化均值差 $d$ / 随机效应模型 | **$d = 0.74$** (观念生成 $d = 0.75$, 问题解决 $d = 0.84$) | 存在显著异质性 | 奠定认知策略干预有效性基准 |
 > | Ma (2006) | **干预因素** 创造力训练方案综合效果 | $k = 34$ 项研究 | 标化均值差 $d$ / 随机效应模型 | **$d = 0.77$** ($r \approx 0.36$) | 方案类型构成主要调节[[Variable\|变量]] | 复合训练程序效果最优 |
 > | Yunita et al. (2020) | **干预因素** 问题驱动教学法（[[Problem-Based Learning\|PBL]]）对创造性思维的促进 | $k = 24$ 项实验研究 / $N = 1,720$ | Hedges' $g$ / 随机效应模型 | **$g = 0.87$** $[0.64, 1.10]$ | 劣构问题情境效应最强 | 基础教育与高等教育学科课堂嵌入式干预 |
-> | Suganda et al. (2021) | **干预因素** 跨学科 STEAM 教学对创造性思维技能的促进 | $k = 20$ 项实验研究 / $N = 1,485$ | Hedges' $g$ / 随机效应模型 | **$g = 0.76$** $[0.51, 1.01]$ | 强调动手原型制作 | 跨学科项目式学习情境 |
+> | Suganda et al. (2021) | **干预因素** 跨学科 STEAM 教学对创造性思维技能的促进 | $k = 20$ 项实验研究 / $N = 1,485$ | Hedges' $g$ / 随机效应模型 | **$g = 0.76$** $[0.51, 1.01]$ | 强调动手原型制作 | 跨学科[[Project-Based Learning\|项目式学习]]情境 |
 > | Acar et al. (2020) | **干预因素** 显式独创性指导语对[[Divergent Thinking\|发散思维]]表现的即时效应 | $k = 30$ 项实证研究 / $N = 3,369$ | Hedges' $g$ / 随机效应模型 | **$g = 0.53$** (TTCT 图形 $g = 0.62$) | 明确目标要求即时改善表现 | 任务呈现阶段的即时指令操纵 |
 > | DeRosa et al. (2007) | **干预因素** 电子[[Brainstorming\|头脑风暴]]（EBS）对比面对面头脑风暴 | $k = 39$ 项实验研究 / $N = 4,112$ | 标化均值差 $d$ / 随机效应模型 | 数量 **$d = 0.44$**, 质量 **$d = 0.38$** | 群体规模 $\ge 8$ 时优势显著 | 数字化协作平台有效消除生产力阻塞 |
 > | Rose & Lin (1984) | **干预因素** 普渡创造性思维方案（PCTP）训练效果 | $k = 46$ 项研究 | 标化均值差 $d$ / 随机效应模型 | **$d = 0.47$** (言语 $d = 0.58$, 图形 $d = 0.36$) | 练习册结合音频效果最优 | 早期长程标准化方案 |
@@ -429,7 +431,7 @@ updated: 2026-09-03
 > - [[Argument_Guo_2025_TSC|Guo et al. (2025)]] — 对 2000–2024 年 29 项实证研究（109 个效应量）开展[[Three-Level Meta-Analysis|多层元分析]]，揭示创造力训练对大学生创造力产生中等显著促进（$g = 0.628$），并发现干预周期呈现倒 U 型特征（$< 2$ 个月最优 $g = 0.844$），言语训练（$g = 0.998$）与独立个体练习（$g = 0.682$）效果最为显著。
 > - Scott et al. (2004) — 对 70 项创造力训练实验进行系统元分析，确立了基于认知策略的结构化训练具备大效应量促进效能（$d = 0.74$）。
 > - Ma (2006) — 开展创造力训练方案元分析，证实结合认知策略与多阶段训练的复合包效应达到 $d = 0.77$。
-> - Yunita et al. (2020) — 开展问题驱动教学法（[[Problem-Based Learning|PBL]]）元分析，证实不良结构问题情境对学生创造性思维具有大效应提升（$g = 0.87$）。
+> - Yunita et al. (2020) — 开展问题驱动教学法（PBL）元分析，证实不良结构问题情境对学生创造性思维具有大效应提升（$g = 0.87$）。
 > - Suganda et al. (2021) — 开展跨学科 STEAM 教学元分析，证实动手原型制作对创造性思维技能的促进效应达到 $g = 0.76$。
 > - Acar, Runco & Park (2020) — 开展显式独创性指导语元分析，揭示任务指令对[[Divergent Thinking|发散思维]]与独创性表现的即时唤醒效应（$g = 0.53$）。
 > - DeRosa, Smith & Hantula (2007) — 开展电子[[Brainstorming|头脑风暴]]元分析，证实数字化协作平台在消除生产力阻塞方面的显著优势（数量 $d = 0.44$）。

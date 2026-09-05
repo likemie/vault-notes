@@ -45,6 +45,7 @@ related_concepts:
   - "[[Funnel Plot]]"
   - "[[Publication Bias]]"
   - "[[I-squared Statistic]]"
+  - "[[Problem Solving]]"
   - "[[Peer Mentoring]]"
   - "[[Reciprocal Peer Questioning]]"
   - "[[Classroom Debate]]"
@@ -93,7 +94,7 @@ title: "Argument_Abrami_2015_RER"
 argument_key: "Argument_Abrami_2015_RER"
 argument_display_title: "Strategies for teaching students to think critically: A meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 53
+argument_related_count: 54
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -242,7 +243,7 @@ issuing_organization: ""
 
 ### 论证步骤二：对话与真实性教学是驱动批判性思维技能发展的两大独立教学支柱
 
-> [!claim] 融入深度[[Dialogue in Education|对话]]与真实性问题解决能显著增强干预成效
+> [!claim] 融入深度[[Dialogue in Education|对话]]与真实性[[Problem Solving|问题解决]]能显著增强干预成效
 > 在教学过程中有意识地创设师生研讨、提问互动与现实真实问题情境，其效果显著优于对照组未区分或缺乏该策略的教学。（pp. 293–295）
 
 > [!chain-link] 证据到判断
@@ -356,7 +357,7 @@ issuing_organization: ""
 
 > [!finding-cards] 核心发现
 > 1. **[[Critical Thinking|批判性思维]]普遍可教且跨情境稳健** 基于 341 项高质量真实验与准实验的[[Meta-analysis|元分析]]证实教学干预显著提升通用批判性思维技能（$g+ = 0.30$），且在小学、初中、高中、本科、成人及 STEM/非 STEM 领域普遍稳健有效。（pp. 289–293）
-> 2. **[[Authentic Instruction|真实性教学]]与[[Dialogue in Education|对话]]构成核心教学支柱** 引入应用型问题解决/[[Role-playing|角色扮演]]（$g+ = 0.34$）和师生/同伴研讨对话（$g+ = 0.32$）的教学显著优于对照组教学。（pp. 294–295）
+> 2. **[[Authentic Instruction|真实性教学]]与[[Dialogue in Education|对话]]构成核心教学支柱** 引入应用型[[Problem Solving|问题解决]]/[[Role-playing|角色扮演]]（$g+ = 0.34$）和师生/同伴研讨对话（$g+ = 0.32$）的教学显著优于对照组教学。（pp. 294–295）
 > 3. **三维策略协同产生最大增益与催化效应** 真实性教学、对话与导师指导复合干预（A + D + M）产生最高的促进效应（$g+ = 0.57$），[[Mentorship|导师制]]在其中发挥了关键的“催化剂”功能。（pp. 294–295, 298）
 > 4. **批判性思维教学对[[Academic Achievement|学业成就]]具有正向溢出** 批判性思维干预不仅大幅促进[[Domain Specificity|学科特异性]]思维（$g+ = 0.57$）与思维倾向（$g+ = 0.23$），同时显著提升常规学科成就（$g+ = 0.33$），彻底粉碎了“教思维会挤压基础知识掌握”的疑虑。（pp. 295–297）
 

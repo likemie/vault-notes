@@ -9,7 +9,7 @@ title: "Argument_Qvortrup_2019_NordSTEP"
 argument_key: "Argument_Qvortrup_2019_NordSTEP"
 argument_display_title: "Visible learning and its enemies – the missing link"
 argument_kind: "journal-article"
-argument_related_count: 15
+argument_related_count: 16
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Causality]]"
   - "[[Structural Coupling]]"
+  - "[[Problem Solving]]"
   - "[[Effect Size]]"
 related_theories:
   - "[[Bounded Rationality]]"
@@ -88,7 +89,7 @@ citation_aliases:
 >    - **步骤二** 定量与定性方法的对立源于将[[Epistemology|认识论]]与[[Ontology|本体论]]混淆——"真理"是认识论问题而非本体论问题。不同的观察透镜（phenomenological vs statistical）产生不同的图像，只要都遵循高效度标准，它们相互补充而非相互排斥(p.5)
 >    - **步骤三** 教学与学习之间不存在简单的[[Causality|因果关系]]——两者是通过[[Structural Coupling|结构耦合]]链接的两个封闭系统的关系。教学干预必须经过学生闭合的、自我指涉的、复杂的和不可预测的反思循环。因此，教师必须运用[[Professional Judgment|专业判断]]——基于研究知识和方法知识、在理性赤字的条件下、通过反馈持续修正(p.6-7)
 >
-> 3. **结论** Visible Learning 的目的不是提供"什么有效食谱"，而是为教师提供"智能问题解决的[[Hypothesis|假设]]"(Hattie, 2009, p.247)。专业判断是 VL 中教学干预与学习成果之间的"缺失环节"——它将研究证据（知道什么最可能有效）与具体情境（在特定情况下需要什么）连接起来
+> 3. **结论** Visible Learning 的目的不是提供"什么有效食谱"，而是为教师提供"智能[[Problem Solving|问题解决]]的[[Hypothesis|假设]]"(Hattie, 2009, p.247)。专业判断是 VL 中教学干预与学习成果之间的"缺失环节"——它将研究证据（知道什么最可能有效）与具体情境（在特定情况下需要什么）连接起来
 
 ## 主要发现
 

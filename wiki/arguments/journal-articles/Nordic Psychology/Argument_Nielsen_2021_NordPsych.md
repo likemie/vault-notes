@@ -10,7 +10,7 @@ title: "Argument_Nielsen_2021_NordPsych"
 argument_key: "Argument_Nielsen_2021_NordPsych"
 argument_display_title: "Blind spots in visible learning: A critique of John Hattie as an educational theorist"
 argument_kind: "journal-article"
-argument_related_count: 20
+argument_related_count: 21
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Variable]]"
   - "[[Dialogue in Education]]"
+  - "[[Problem Solving]]"
   - "[[Feedback]]"
 related_theories:
   - "[[Radical Constructivism]]"
@@ -103,7 +104,7 @@ citation_aliases:
 >      - Swanson & Lussier (2001)：研究考官辅助／动态评估，非反馈
 >    - 5 项最重元分析中 4 项未研究 Hattie 所定义的反馈
 >
-> 5. **结论** Hattie 的技术理性立场导致[[Dialogue in Education|教育对话]]过于狭窄，消除了人的意向性（intentionality）和意义寻求。学生被理解为问题解决者而非意向性行动者。人际对话被反馈机制取代。研究教学的出发点应是研究学校的日常实践以及学生、教师和家长参与教育的意义
+> 5. **结论** Hattie 的技术理性立场导致[[Dialogue in Education|教育对话]]过于狭窄，消除了人的意向性（intentionality）和意义寻求。学生被理解为[[Problem Solving|问题解决]]者而非意向性行动者。人际对话被反馈机制取代。研究教学的出发点应是研究学校的日常实践以及学生、教师和家长参与教育的意义
 
 ## 主要发现
 

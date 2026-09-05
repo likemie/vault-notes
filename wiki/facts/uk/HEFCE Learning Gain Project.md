@@ -11,7 +11,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Learning Analytics]]"
   - "[[Learning Gain]]"
   - "[[Critical Thinking]]"
+  - "[[Problem Solving]]"
   - "[[Analytic Framework]]"
   - "[[Attrition]]"
   - "[[Growth]]"
@@ -64,7 +65,7 @@ updated: 2026-08-27
 > [[Higher Education Funding Council for England|HEFCE]] 注资 400 万英镑设立 13 个多路径试点项目，覆盖全英 70 余所高校，综合运用标准化情境测验、课程学业增益模型、[[Student Engagement|学生投入]]调查与[[Learning Analytics|学习分析]]技术，全面评估大学生[[Learning Gain|学习增益]]。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 17–18)]]
 
 > [!policy-design]- 政策设计
-> - **目标** 验证不同技术路径测量大学阶段[[Critical Thinking|批判性思维]]、问题解决与通用能力增长的科学性与可行性。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 17)]]
+> - **目标** 验证不同技术路径测量大学阶段[[Critical Thinking|批判性思维]]、[[Problem Solving|问题解决]]与通用能力增长的科学性与可行性。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 17)]]
 > - **对象** 英格兰数十所大学的大一新生至大三/大四毕业生的纵向队列。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 17–18)]]
 > - **工具** 400 万英镑国家专项基金、大学学习评估（[[Collegiate Learning Assessment|CLA+]]）纵向测试、学习分析大数据系统。
 > - **约束方式** 竞争性试点资助、跨校协同探索、全国性成果评估与政策咨询报告发布。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 18)]]

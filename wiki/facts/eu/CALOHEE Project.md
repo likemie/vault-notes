@@ -10,7 +10,7 @@ subtype: event
 region: eu
 fact_region: "eu"
 fact_kind: "event"
-fact_related_count: 11
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Creativity]]"
   - "[[Higher-Order Thinking Skills]]"
+  - "[[Problem Solving]]"
   - "[[Operationalization]]"
   - "[[Constructive Alignment]]"
 related_theories: []
@@ -70,7 +71,7 @@ updated: 2026-08-27
 ## 关键文件／声明
 
 > [!citation-card]- 学科化评价框架核心主张
-> 通用[[Higher-Order Thinking Skills|高阶思维技能]]绝不能在真空中抽象评估，必须与学科专业知识及真实问题解决深度绑定；[[CALOHEE Assessment Reference Frameworks|评价参照框架]]为教师提供了兼具学科深度与国际可比性的[[Operationalization|操作化]]支架。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 27–28)]]
+> 通用[[Higher-Order Thinking Skills|高阶思维技能]]绝不能在真空中抽象评估，必须与学科专业知识及真实[[Problem Solving|问题解决]]深度绑定；[[CALOHEE Assessment Reference Frameworks|评价参照框架]]为教师提供了兼具学科深度与国际可比性的[[Operationalization|操作化]]支架。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 27–28)]]
 >
 > *Generic higher-order skills cannot be meaningfully assessed in a vacuum; they must be embedded in domain-specific knowledge and authentic problem-solving.*
 

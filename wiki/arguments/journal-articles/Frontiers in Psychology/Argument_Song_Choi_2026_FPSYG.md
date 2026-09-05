@@ -35,6 +35,7 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Surface and Deep Learning]]"
   - "[[Academic Achievement]]"
+  - "[[Problem Solving]]"
   - "[[Variable]]"
   - "[[Operationalization]]"
   - "[[Critical Thinking]]"
@@ -99,7 +100,7 @@ title: "Argument_Song_Choi_2026_FPSYG"
 argument_key: "Argument_Song_Choi_2026_FPSYG"
 argument_display_title: "A three-level meta-analysis of the association between students’ epistemic cognition and learning outcomes in South Korea"
 argument_kind: "journal-article"
-argument_related_count: 61
+argument_related_count: 62
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -138,7 +139,7 @@ issuing_organization: ""
 > - **文化情境与[[Constructivist Paradigm|建构主义]]学习观 (Situative & Cultural Perspectives)**
 >   受[[Situative Perspective|情境认知]]启发（Bang & Medin, 2010）。主张认识论认知并非脱域特质，而是社会文化与课堂生态互动的产物；建构主义教学情境激活成熟认知，而机械应试情境则会压制其效能转化。
 > - **认知与动机行为中介模型 (Cognitive-Motivational Models)**
->   发端于 Dweck (1999) 与 Pintrich (2002)。认为认识论认知通过驱动学生的成就目标、内隐智力观、[[Surface and Deep Learning|深层学习]]策略与自我调节监控，间接作用于[[Academic Achievement|学业表现]]与问题解决。
+>   发端于 Dweck (1999) 与 Pintrich (2002)。认为认识论认知通过驱动学生的成就目标、内隐智力观、[[Surface and Deep Learning|深层学习]]策略与自我调节监控，间接作用于[[Academic Achievement|学业表现]]与[[Problem Solving|问题解决]]。
 
 > [!theory-boundary] 概念隔离：认识论认知 vs. 智力内隐观与建构主义
 > - **认识论认知 (Epistemic Cognition)** 旨在探究个体如何界定知识的本质（确定性、简单性）以及认识与证成的过程（来源、证据评估）。
@@ -355,7 +356,7 @@ issuing_organization: ""
 > - **一、 小学阶段（Elementary, 4–6 年级，$r = 0.375$）：建构探究课程的赋能释放**
 >   - **课程与制度生态** 韩国教育部推行的国家课程改革在小学阶段得以完整落实，强调“以学习者为中心”的探究性学习与跨学科概念建构。小学阶段完全不存在升学统考和高利害排名压力，课堂评价以[[Formative Assessment|形成性评价]]与质性反馈为主。
 >   - **实证案例深入**
->     - **数学探究案例** Yoo & Yum (2019) 针对 810 名小学六年级学生的研究发现，相信“学习能力可通过努力扩展、数学解题需要渐进探索”的学生，在复杂数学问题解决（Mathematical Problem Solving）中展现出极高的[[Self-Efficacy|自我效能感]]与策略迁移能力。
+>     - **数学探究案例** Yoo & Yum (2019) 针对 810 名小学六年级学生的研究发现，相信“学习能力可通过努力扩展、数学解题需要渐进探索”的学生，在复杂数学[[Problem Solving|问题解决]]（Mathematical Problem Solving）中展现出极高的[[Self-Efficacy|自我效能感]]与策略迁移能力。
 >     - **科学探究案例** Kim et al. (2025) 针对 309 名小学 4–6 年级学生的研究证实，具备多维认识论认知的学生表现出强烈的科学探究动机，在实验设计与证据解释中频繁运用深层元认知调节策略。
 >     - **[[Learner Autonomy|自主学习]]案例** So (2013) 针对 476 名小学四/六年级学生的研究指出，对学习速度和能力的成熟信念直接拉动了学生的自主提问频率（Frequency of Asking Questions）与深层概念建构。
 >   - **转化机制** 宽松的课堂生态与探究导向的教学活动为学生的成熟认知信念提供了直接的应用[[Champ|场域]]，学生在探究中体验到认知冲突与反思的价值，使认识论认知转化为显著的学业与动机红利。

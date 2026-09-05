@@ -7,10 +7,10 @@ summary: "美国政策与社会研究学者，研究利用（research utilizatio
 type: person
 nationality: "American"
 person_region: "American"
-person_related_count: 7
-person_related_level: 0
-person_related_stars: ""
-person_related_color: "#e5e7eb"
+person_related_count: 8
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
   - field/policy-research
   - topic/research-use
@@ -18,6 +18,7 @@ tags:
 related_concepts:
   - "[[Research Utilization]]"
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
+  - "[[Problem Solving]]"
   - "[[Paradigm]]"
   - "[[Evidence-Informed Practice]]"
 related_theories:
@@ -47,7 +48,7 @@ updated: 2026-08-26
 > - **代表贡献** 提出[[Research Utilization Models|研究利用模型]]（1979）；提出"知识渗透"（knowledge creep）概念（1980）；为概念性、工具性与[[Conceptual, Instrumental, and Symbolic Use of Research|象征性使用]]类型学奠定基础。
 
 > [!citation-card]- 人物定位的关键来源
-> Weiss（1979）提出研究利用的七种模型（知识驱动、问题解决、互动、政治、战术、启蒙、以及研究作为社会智识事业的一部分），成为后来概念性、工具性与象征性使用类型学的基础（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al., 2026, p.3]]）。
+> Weiss（1979）提出研究利用的七种模型（知识驱动、[[Problem Solving|问题解决]]、互动、政治、战术、启蒙、以及研究作为社会智识事业的一部分），成为后来概念性、工具性与象征性使用类型学的基础（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al., 2026, p.3]]）。
 >
 > *Weiss (1979) who introduced seven models of research use... This served as the basis of the later typologies of research use as conceptual, instrumental or symbolic.*
 
@@ -57,7 +58,7 @@ updated: 2026-08-26
 
 > [!timeline] 生平与职涯
 > - **1970s–1980s** 在公共政策研究领域发展[[Research Utilization|研究利用]]的理论，发表"研究利用的多重意义"（1979）与"知识渗透与决策累积"（1980）等关键作品（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al., 2026, p.3]]）。
-> - **1990s** 进一步归纳研究利用的四种过程模型（研发、问题解决、互动、战术），为[[Research Utilization|研究利用]]研究提供系统框架（见 [[Research Utilization|研究利用]]条目）。
+> - **1990s** 进一步归纳研究利用的四种过程模型（研发、[[Problem Solving|问题解决]]、互动、战术），为[[Research Utilization|研究利用]]研究提供系统框架（见 [[Research Utilization|研究利用]]条目）。
 
 ---
 
@@ -66,14 +67,14 @@ updated: 2026-08-26
 > [!work-line] 主要著作
 > - **1979 — *The Many Meanings of [[Research Utilization]]*** 提出研究利用的七种模型，区分知识如何以不同方式进入政策与实践（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al., 2026, p.3]]）。
 > - **1980 — *Knowledge Creep and Decision Accretion*** 提出"知识渗透"（knowledge creep），说明研究常以缓慢、累积、间接的方式改变决策者思维，而非直接应用（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al., 2026, p.3]]）。
-> - **1991** 归纳研究利用的四种过程模型（研发、问题解决、互动、战术），见 [[Research Utilization|研究利用]]。
+> - **1991** 归纳研究利用的四种过程模型（研发、[[Problem Solving|问题解决]]、互动、战术），见 [[Research Utilization|研究利用]]。
 
 ---
 
 ## 核心思想
 
 > [!claim] 核心主张
-> 研究不是以"研究发现→直接采纳"的线性方式进入政策与实践，而是通过多种路径——直接应用、问题解决、持续互动、策略性引用——并以"知识渗透"般的缓慢方式改变决策者的思维。[[Research Utilization|研究利用]]因此是扩散性、累积性的，而非即时因果输入。
+> 研究不是以"研究发现→直接采纳"的线性方式进入政策与实践，而是通过多种路径——直接应用、[[Problem Solving|问题解决]]、持续互动、策略性引用——并以"知识渗透"般的缓慢方式改变决策者的思维。[[Research Utilization|研究利用]]因此是扩散性、累积性的，而非即时因果输入。
 
 > [!citation-card]- 关键表述
 > Weiss（1980, p. 381）把[[Conceptual, Instrumental, and Symbolic Use of Research|概念性使用]]称为"知识渗透"（knowledge creep）：研究以复杂而往往间接的方式为实践者提供信息，影响他们对议题的理解与思考（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al., 2026, p.3]]）。

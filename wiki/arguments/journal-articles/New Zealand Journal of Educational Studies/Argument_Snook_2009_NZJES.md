@@ -13,7 +13,7 @@ title: "Argument_Snook_2009_NZJES"
 argument_key: "Argument_Snook_2009_NZJES"
 argument_display_title: "Invisible Learnings? A Commentary on John Hattie's book: Visible Learning: A synthesis of over 800 meta-analyses relating to achievement"
 argument_kind: "journal-article"
-argument_related_count: 22
+argument_related_count: 23
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Visible Learning]]"
   - "[[Pragmatic Paradigm]]"
+  - "[[Problem Solving]]"
   - "[[Hypothesis]]"
   - "[[Effect Size]]"
   - "[[Variable]]"
@@ -74,7 +75,7 @@ citation_aliases:
 ## 理论框架
 
 > [!abstract] 理论框架
-> 未采用特定理论框架，从教育哲学和研究方法论视角出发进行批判性评论。引 Dewey 的[[Pragmatic Paradigm|实用主义]]知识观作为基线立场：证据不提供行动规则，只为明智的问题解决提供[[Hypothesis|假设]](Dewey, quoted in Hattie, 2008, p.147)。
+> 未采用特定理论框架，从教育哲学和研究方法论视角出发进行批判性评论。引 Dewey 的[[Pragmatic Paradigm|实用主义]]知识观作为基线立场：证据不提供行动规则，只为明智的[[Problem Solving|问题解决]]提供[[Hypothesis|假设]](Dewey, quoted in Hattie, 2008, p.147)。
 
 ## 研究方法
 

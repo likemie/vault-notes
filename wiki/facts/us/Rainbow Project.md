@@ -10,7 +10,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 5
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#fef3c7"
@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[Academic Achievement]]"
   - "[[Creativity]]"
+  - "[[Problem Solving]]"
   - "[[Predictive Validity]]"
   - "[[Creativity Assessment]]"
 related_theories: []
@@ -54,7 +55,7 @@ updated: 2026-08-27
 ## 经过
 
 > [!dev-timeline]- 事件经过
-> - **2006 — 研发[[Creativity|创造力]]与实践能力测验模块** 研制包含幽默图说配文字（Cartoon Captioning）、开放标题故事创作（Story Writing）、口头故事叙述与真实生活情境问题解决的任务题库。
+> - **2006 — 研发[[Creativity|创造力]]与实践能力测验模块** 研制包含幽默图说配文字（Cartoon Captioning）、开放标题故事创作（Story Writing）、口头故事叙述与真实生活情境[[Problem Solving|问题解决]]的任务题库。
 > - **2006 — 在全美 1,000 余名受测者中开展施测** 覆盖全美 15 所院校的 1,013 名学生，实施 SAT + 彩虹项目补充测验。
 > - **2006–2009 — 纵向追踪与万花筒项目（Kaleidoscope Project）拓展** 追踪大一学业 [[Academic Achievement|GPA]] 表现，并在塔夫茨大学本科全日制录取中正式应用拓展版。
 

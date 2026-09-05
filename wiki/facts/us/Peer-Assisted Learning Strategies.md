@@ -11,7 +11,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 19
+fact_related_count: 20
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Evaluation Research]]"
   - "[[Document]]"
   - "[[Decodification]]"
+  - "[[Problem Solving]]"
   - "[[Fade-out Effect]]"
   - "[[Attrition]]"
   - "[[Learner Autonomy]]"
@@ -75,7 +76,7 @@ updated: 2026-08-21
 > PALS 采用低成本、高密度的结构化班级同伴教学模式：
 > - **互惠结对机制（Reciprocal Dyads）** 教师依据基线成绩将全班学生能力排序，对半拆分后配对（较强者与较弱者结对）。学生在课堂中轮流担任**辅导员（Coach）**与**学习者（Reader / Player）**，避免单向受助带来的标签化心理压力。
 > - **PALS Reading 核心构件** 涵盖音素[[Decodification|解码]]（Sound Partners）、段落浓缩（Paragraph Shrinking，提炼主旨）与预测接力（Prediction Relay），每周实施 3–4 次，每次 20–30 分钟。
-> - **PALS Math 核心构件** 聚焦数字概念强化、计算技能熟练度与结构化数学问题解决，配套积分与积极强化机制。
+> - **PALS Math 核心构件** 聚焦数字概念强化、计算技能熟练度与结构化数学[[Problem Solving|问题解决]]，配套积分与积极强化机制。
 > - **融合教育优势** 特别适合普通教育课堂中接纳特殊教育需求（SEN）与英语学习者（ELL）的包容性融合教学。
 
 ---

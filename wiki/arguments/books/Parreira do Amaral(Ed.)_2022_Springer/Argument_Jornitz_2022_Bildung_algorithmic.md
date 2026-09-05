@@ -10,7 +10,7 @@ title: "Argument_Jornitz_2022_Bildung_algorithmic"
 argument_key: "Argument_Jornitz_2022_Bildung_algorithmic"
 argument_display_title: "\"Bildung\" as a Forgotten Aspect of Algorithmic Technologies"
 argument_kind: "book"
-argument_related_count: 16
+argument_related_count: 17
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -41,7 +41,8 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Variable]]"
   - "[[Geopolitics of Knowledge]]"
-related_theories: []
+related_theories:
+  - "[[Self-Determination Theory]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Quantitative Research]]"
@@ -245,7 +246,7 @@ Masschelein & Ricken（2010, p.130）将 Bildung 拆解为三重关系，为批�
 
 **Bildung 的规范立场未经充分辩护** 论证预设了 Bildung 是"好的"——但在讨论全球教育治理时，Bildung 是一个特定于欧洲（主要是德国）的规范性概念，其普遍适用性存疑。对于缺乏 Bildung 传统的教育体系，这一批判的规范性基础需要更多的论证。
 
-**[[Gamification]] 的简化理解** 讨论侧重 Gamification 的行为主义根源（操作条件反射），但未充分处理当代 Gamification 设计中可能存在的更复杂动机理论（如自我决定理论 SDT）——这些理论同样关注内在动机和自主性，与纯粹的 Skinner 式行为调节有质的区别。
+**[[Gamification]] 的简化理解** 讨论侧重 Gamification 的行为主义根源（操作条件反射），但未充分处理当代 Gamification 设计中可能存在的更复杂动机理论（如[[Self-Determination Theory|自我决定理论]] SDT）——这些理论同样关注内在动机和自主性，与纯粹的 Skinner 式行为调节有质的区别。
 
 **教师角色的理想化** 论证暗示教师天然地提供比算法更好的反馈——但现实中，教师反馈本身也可能缺乏反思空间（如标准化考试中的分数反馈），将教师角色设置为比较的基准而未对教师实践本身进行批判性审视。
 

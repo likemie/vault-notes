@@ -7,7 +7,7 @@ title: "Argument_Creswell_2022_SAGE"
 argument_key: "Argument_Creswell_2022_SAGE"
 argument_display_title: "Research Design: Qualitative, Quantitative, and Mixed Methods Approaches"
 argument_kind: "book"
-argument_related_count: 189
+argument_related_count: 190
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -73,6 +73,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Emergence]]"
   - "[[Positivism]]"
+  - "[[Problem Solving]]"
   - "[[Fitness for Purpose]]"
   - "[[Questionnaire]]"
   - "[[Independent Variable]]"
@@ -370,7 +371,7 @@ citation_aliases:
 >
 > | 维度 | [[Postpositivism\|后实证主义]] | [[Constructivist Paradigm\|建构主义]] | [[Transformative Paradigm\|变革主义]] | [[Pragmatic Paradigm\|实用主义]] |
 > |---|---|---|---|---|
-> | **核心信念** | 决定论：原因可能决定结果；还原论：将观念缩约为小的离散集进行检验 | 理解：个体寻求对生活世界的理解；主观意义通过社会和历史互动形成 | 政治性：研究必须与政治议程交织以对抗社会压迫 | 关注行动后果：以"什么有效"和问题解决为核心 |
+> | **核心信念** | 决定论：原因可能决定结果；还原论：将观念缩约为小的离散集进行检验 | 理解：个体寻求对生活世界的理解；主观意义通过社会和历史互动形成 | 政治性：研究必须与政治议程交织以对抗社会压迫 | 关注行动后果：以"什么有效"和[[Problem Solving\|问题解决]]为核心 |
 > | **知识观** | 知识是推测性的，绝对真理无法被找到；证据总是不完美的 | 意义是多样的、多元的；研究者寻找复杂性而非窄化范畴 | 研究应为边缘群体发声，提升意识，推进变革 | 真理是当下有效的；不基于心灵独立与心灵内部的双重性 |
 > | **方法论倾向** | 量化为主：从理论出发→收集数据→支持或反驳→修正再检验 | 质性为主：归纳式，从数据中生成意义模式，不预设理论 | 质性或混合：研究者与参与者协作，参与者可参与问题设计、数据收集和分析 | 混合方法：以研究问题为中心，自由选择最[[Fitness for Purpose\|适合目的]]的方法 |
 > | **思想来源** | 19 世纪 Comte, Mill, Durkheim, Newton, Locke；Phillips & Burbules (2000) | Berger & Luckmann (1967)；Lincoln & Guba (1985)；Crotty (1998) | Marx, Adorno, Marcuse, Habermas, [[Paulo Freire\|Freire]]；Fay (1987)；Mertens (2009, 2010) | Peirce, James, Mead, Dewey；Cherryholmes (1992)；Morgan (2007) |

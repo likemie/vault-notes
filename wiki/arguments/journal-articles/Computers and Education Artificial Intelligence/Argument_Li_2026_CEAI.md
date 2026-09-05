@@ -38,6 +38,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Effect Size]]"
   - "[[Variable]]"
+  - "[[Problem Solving]]"
   - "[[Working Memory]]"
   - "[[Self-Regulated Learning]]"
   - "[[Boundary Object]]"
@@ -108,7 +109,7 @@ title: "Argument_Li_2026_CEAI"
 argument_key: "Argument_Li_2026_CEAI"
 argument_display_title: "The cognitive impact of ChatGPT in higher education: A systematic review of critical and creative thinking outcomes"
 argument_kind: "journal-article"
-argument_related_count: 69
+argument_related_count: 70
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -141,7 +142,7 @@ issuing_organization: ""
 > | **Dimeli & Kostas (2025)** | 高等教育与中等教育中的 ChatGPT 应用 | 一般性认知表现（General Cognitive Performance） | 50 项研究 | 侧重宏观学业成果，未对批判性与创造性思维进行[[Construct\|构念]]分立与机制剖析。 |
 > | **Deng et al. (2024)** | ChatGPT 介入下的学业成果[[Meta-analysis\|元分析]] | 高阶思维（Higher-Order Thinking） | 量化元分析 | 提供合并[[Effect Size\|效应量]]，但未拆解质性反思过程与多样化的教学情境调节[[Variable\|变量]]。 |
 > | **Lo et al. (2024)** | 学生学习投入度与体验 | 认知投入（Cognitive Engagement） | 72 项研究 | 聚焦行为与情感投入，缺乏对人机协同中心智外包与思维演进轨迹的解构。 |
-> | **Zirar (2023)** | 大语言模型对学习与测评的影响 | 构想生成、问题解决与反思 | 25 项研究 | 样本规模较小且多为早期探索性反思，未形成系统的共现模型与规制框架。 |
+> | **Zirar (2023)** | 大语言模型对学习与测评的影响 | 构想生成、[[Problem Solving\|问题解决]]与反思 | 25 项研究 | 样本规模较小且多为早期探索性反思，未形成系统的共现模型与规制框架。 |
 > | **García-López et al. (2025)** | 人工智能辅助学习中的认知风险 | 批判性思维忧虑（Critical Thinking Concerns） | 20 项研究 | 单一关注批判性思维的负面退化风险，忽视了创造性思维的互补交互机制。 |
 > | **Farazouli et al. (2023)** | 学术技能发展与生成式技术 | 推理能力与创造力技能 | 18 项研究 | 早期快照式综述，未能覆盖大模型在高校课堂中深化整合后的实证证据。 |
 > | **Li, Cui, & Hagedorn (2026)** | 高等教育中 ChatGPT 对认知结果的影响 | 批判性思维与创造性思维的双重视角 | 67 项实证研究 | 首个系统解构收敛与[[Divergent Thinking\|发散思维]]双向作用、识别三大共现轨迹并提出教学重构方案的研究。 |
@@ -326,7 +327,7 @@ issuing_organization: ""
 > | **风险限制** | **教学指导赤字与探索迷航（n = 14）** | 开放探究论文、无约束头脑风暴、通识作业 | 缺乏教师介入、无提示词技巧指导、任务模糊 | Mejri et al. (2024) |
 
 > [!evidence-grid-a] 创造性思维赋能维度与实证案例细析（Affordances, 5 大核心主题）
-> - **发散思维与构想广度爆发** 在复杂问题解决任务中，捷克高校实验（Urban et al., 2024）表明，使用 ChatGPT 作为构想拓展伙伴的实验组在托兰斯创造思维测验（[[Torrance Tests of Creative Thinking|TTCT]]）及[[Alternate Uses Test|另类用途测验]]（AUT）的发散流畅性与精致性得分上显著高于控制组；Sarwanti et al. (2024)、Villarino (2025) 与 Xu (2025) 亦证实了早期发散探索的有效性。（pp. 7–8）
+> - **发散思维与构想广度爆发** 在[[Problem Solving|复杂问题解决]]任务中，捷克高校实验（Urban et al., 2024）表明，使用 ChatGPT 作为构想拓展伙伴的实验组在托兰斯创造思维测验（[[Torrance Tests of Creative Thinking|TTCT]]）及[[Alternate Uses Test|另类用途测验]]（AUT）的发散流畅性与精致性得分上显著高于控制组；Sarwanti et al. (2024)、Villarino (2025) 与 Xu (2025) 亦证实了早期发散探索的有效性。（pp. 7–8）
 > - **篇章结构与跨语言表达支架** 在学术英语写作中，Kurt & Kurt (2024) 发现非英语母语学生借助 ChatGPT 克服了“词汇贫乏壁垒”，能够自由尝试多样化修辞风格并重组专业概念；Avsheniuk et al. (2024) 与 Werdiningsih et al. (2024) 同样报告了表达支架对写作流畅性的促进。
 > - **角色扮演与认知视角多维转换** Lee et al. (2024) 让学生指示 ChatGPT 扮演不同文化背景的利益攸关方进行模拟辩论，学生在多重视角碰撞中打破了思维定势；Darmawansah et al. (2025) 与 [[Argument_Li_2025_HSSC|Li et al. (2025)]] 也发现多角度模拟能显著拓展解题思路。
 > - **情感激发与创作焦虑破冰** George-Reyes et al. (2024) 质性报告表明，面对空白文档的“起始创作焦虑”是阻碍创造力的首要心理门槛，ChatGPT 充当低威胁性的“头脑风暴玩伴”显著提升了创作意愿；Gervacio (2024)、Jayasinghe (2024) 与 Alzubi et al. (2025) 均证实了其情感赋能价值。

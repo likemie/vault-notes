@@ -26,6 +26,7 @@ related_concepts:
   - "[[International Baccalaureate]]"
   - "[[Praxis]]"
   - "[[Transcription in Qualitative Research]]"
+  - "[[Problem Solving]]"
   - "[[Operationalization]]"
 related_theories: []
 related_methods:
@@ -91,7 +92,7 @@ updated: 2026-07-01
 > | 4 | ToK 课程体验 | ToK 如何与你的 IB 学习或教学产生关联？<br><small>How does ToK relate to your IB study/teaching in general?</small> | — | 同上 |
 > | 5 | [[Critical Thinking\|批判性思维]]理解 | 对你而言，什么是批判性思维？<br><small>What is critical thinking for you?</small> | — | 同上 |
 > | 6 | 批判性思维理解 | 批判性思维可以被教授或学习吗？<br><small>Can critical thinking be taught/learnt?</small> | 为什么？如何做？ | 同上 |
-> | 7 | 批判性思维理解 | 能否讨论批判性思维的若干要素？<br><small>Can you discuss some of the elements of critical thinking?</small> | 目的、概念、推论、视角、问题生成、问题解决或批判 | 同上 |
+> | 7 | 批判性思维理解 | 能否讨论批判性思维的若干要素？<br><small>Can you discuss some of the elements of critical thinking?</small> | 目的、概念、推论、视角、问题生成、[[Problem Solving\|问题解决]]或批判 | 同上 |
 > | 8 | 批判性思维理解 | 批判性思考者有哪些特质？<br><small>What are the traits of a critical thinker?</small> | — | 同上 |
 > | 9 | 批判性思维理解 | 批判性思维的标准是什么？<br><small>What are the standards for critical thinking?</small> | 如何评估？ | 同上 |
 > | 10 | 批判性思维理解 | 批判性思维对你有什么作用？<br><small>How and why is critical thinking useful to you?</small> | 为什么？ | 同上 |

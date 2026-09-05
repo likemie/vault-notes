@@ -6,7 +6,7 @@ summary: "研究者与实践者合作，通过计划—行动—观察—反思�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 45
+method_related_count: 46
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#fef3c7"
@@ -18,6 +18,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Research Question]]"
   - "[[Reflexivity]]"
+  - "[[Problem Solving]]"
   - "[[Scientific Method]]"
   - "[[Epistemology]]"
   - "[[Positivism]]"
@@ -104,7 +105,7 @@ updated: 2026-08-23
 
 > [!boundary] Kemmis & McTaggart (1992, pp. 21–22) 的四个否定性界定
 > - **不是教师对教学的通常思考** 行动研究更系统、更协作地收集证据作为严格群体反思的基础
-> - **不是简单的问题解决** 行动研究涉及提问（problem-posing）而非仅仅解决问题，它由通过改变来改进和理解世界的探索驱动
+> - **不是简单的[[Problem Solving|问题解决]]** 行动研究涉及提问（problem-posing）而非仅仅解决问题，它由通过改变来改进和理解世界的探索驱动
 > - **不是在他人身上做的研究** 行动研究是特定人群对自己工作的研究，以帮助他们改进所做之事
 > - **不是[[Scientific Method|科学方法]]在教学中的应用** 科学方法不止一种观点，行动研究有自身的方法论逻辑
 
@@ -139,7 +140,7 @@ updated: 2026-08-23
 > [!feature] 行动研究的21项特征（Hult & Lennung, 1980; McKernan, 1991）
 >
 > **研究过程与方法取向**
-> - **实践问题解决与科学知识扩展** 同时服务于两个目标：解决眼前的实际问题，并将解决方案提炼为可推广的科学知识
+> - **实践[[Problem Solving|问题解决]]与科学知识扩展** 同时服务于两个目标：解决眼前的实际问题，并将解决方案提炼为可推广的科学知识
 > - **在地性** 研究在真实的教育情境中就地开展，不脱离日常教学和管理环境
 > - **循环反馈** 数据在持续循环中被收集、分析和反馈，每一轮的结果直接指导下一轮行动
 > - **理解复杂社会情境** 不将问题简化为孤立[[Variable|变量]]，而是寻求理解特定情境中各种因素的整体互动

@@ -8,7 +8,7 @@ aliases:
 summary: "衡量个体认为知识是孤立、离散的事实片段，还是高度互联的复杂概念网络。构成了认识论理论中“知识的本质”维度的核心支柱，实证表明其是制约学生在劣构任务中开展反思性判断与获得优异学业成就的关键认知瓶颈。"
 type: concept
 domain: "educational-psychology"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Concept Mapping]]"
   - "[[Questionnaire]]"
   - "[[Domain Specificity]]"
+  - "[[Problem Solving]]"
   - "[[Variable]]"
   - "[[Statistical Significance]]"
   - "[[Effect Size]]"
@@ -138,7 +139,7 @@ updated: 2026-08-20
 
 > [!critique] 方法论反思与理论张力
 > - **一般性信念与[[Domain Specificity|领域特殊性]]的测度张力** 采用一般性[[Questionnaire|问卷]]测得的简单知识信念，在跨越物理、历史或伦理等不同学科时，可能受到学科内在结构特异性的调节，未来研究需结合领域特殊性任务进行动态追踪。
-> - **简单知识在不同[[Task Structure|任务结构]]中的双重效应** 简单知识信念在良构算法练习中并不会造成成绩损失甚至可能带来短期的解题速度优势，这种短期正反馈极易掩盖其在长周期劣构问题解决中的深层破坏力。
+> - **简单知识在不同[[Task Structure|任务结构]]中的双重效应** 简单知识信念在良构算法练习中并不会造成成绩损失甚至可能带来短期的解题速度优势，这种短期正反馈极易掩盖其在长周期劣构[[Problem Solving|问题解决]]中的深层破坏力。
 
 ---
 

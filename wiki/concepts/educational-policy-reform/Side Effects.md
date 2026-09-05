@@ -5,7 +5,7 @@ aliases:
 summary: "指教育干预在产生预期效果的同时也可能带来伴随性损害或代价的概念，用于反思只关注什么有效而忽视何种代价的评估逻辑。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,6 +19,7 @@ related_concepts:
   - "[[Clinical Trial]]"
   - "[[Direct Instruction]]"
   - "[[Creativity]]"
+  - "[[Problem Solving]]"
   - "[[Operationalization]]"
 related_theories: []
 related_methods: []
@@ -67,7 +68,7 @@ updated: 2026-08-20
 
 
 > [!success] 案例一：[[Direct Instruction|直接教学]]的效果与副作用
-> - Peterson (1979) 回顾 200+ 研究发现：直接教学在成绩测试上略优，但在抽象思维（[[Creativity|创造力]]、问题解决）测试上略差；开放教学在成绩测试上略差，但在创造力、问题解决、学校态度和独立性上更好
+> - Peterson (1979) 回顾 200+ 研究发现：直接教学在成绩测试上略优，但在抽象思维（[[Creativity|创造力]]、[[Problem Solving|问题解决]]）测试上略差；开放教学在成绩测试上略差，但在创造力、问题解决、学校态度和独立性上更好
 > - Bonawitza et al. (2011) 实验：被直接教学的儿童探索玩具的功能更少、发现的新功能更少——尽管他们被明确鼓励探索([[Argument_Zhao_2017_JEC|Zhao, 2017, p.8]])
 > - Kapur (2016) 提出"非生产性成功"（unproductive success）：直接教学可能在短期内最大化表现，但未最大化长期学习([[Argument_Zhao_2017_JEC|Zhao, 2017, p.9]])
 

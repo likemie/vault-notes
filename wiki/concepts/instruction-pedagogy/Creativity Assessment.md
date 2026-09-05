@@ -14,7 +14,7 @@ aliases:
 summary: "创造力测评是对个体的发散思维潜能、创造过程认知加工、实际创新产品与日常观念行为特质的操作化测定与质性评价；在教育与心理研究中用于诊断创造潜能、衡量干预效果并化解效标困境。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 71
+related_count: 72
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -25,6 +25,7 @@ tags:
   - method/measurement
 related_concepts:
   - "[[Creativity]]"
+  - "[[Problem Solving]]"
   - "[[Operationalization]]"
   - "[[Divergent Thinking]]"
   - "[[Problem Finding]]"
@@ -114,7 +115,7 @@ updated: 2026-09-03
 ## 定义
 
 > [!def] 核心定义
-> [[Creativity|创造力]]测评（Creativity Assessment，亦称创造力测量）指对个体或群体在生成新颖且适切的想法、问题解决方案或实际产品时的心理潜能、认知加工过程、产出表现与行为特质进行[[Operationalization|操作化]]测定与系统评价的过程。它涵盖[[Divergent Thinking|发散思维]]心理测验、创造过程与[[Problem Finding|问题发现]]任务、专家主观产品同感评定、日常创造性成就自陈[[Questionnaire|问卷]]以及课程嵌入式真实性评分量规等多元技术[[Paradigm|范式]]，旨在诊断创造潜能、衡量教育教学干预的[[Learning Gain|学习增益]]并为跨学科创新人才培养提供循证依据。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 5–8)]] [[Argument_Park_2026_TSC|(Park et al., 2026, pp. 4–5)]] [[Argument_Guo_2025_TSC|(Guo et al., 2025, pp. 4–7)]] [[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 23–28)]]
+> [[Creativity|创造力]]测评（Creativity Assessment，亦称创造力测量）指对个体或群体在生成新颖且适切的想法、[[Problem Solving|问题解决]]方案或实际产品时的心理潜能、认知加工过程、产出表现与行为特质进行[[Operationalization|操作化]]测定与系统评价的过程。它涵盖[[Divergent Thinking|发散思维]]心理测验、创造过程与[[Problem Finding|问题发现]]任务、专家主观产品同感评定、日常创造性成就自陈[[Questionnaire|问卷]]以及课程嵌入式真实性评分量规等多元技术[[Paradigm|范式]]，旨在诊断创造潜能、衡量教育教学干预的[[Learning Gain|学习增益]]并为跨学科创新人才培养提供循证依据。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 5–8)]] [[Argument_Park_2026_TSC|(Park et al., 2026, pp. 4–5)]] [[Argument_Guo_2025_TSC|(Guo et al., 2025, pp. 4–7)]] [[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 23–28)]]
 
 > [!concept-lens] 概念透镜
 > - **对象** 涵盖发散思维指标（流畅性、灵活性、独创性、精致性）、高阶认知过程（问题发现、远距联想、构想评估）、创造性实体产品（艺术、写作、工程设计、科研提案）以及日常创造性[[Self-Efficacy|自我效能]]与卓越成就。
@@ -196,7 +197,7 @@ updated: 2026-09-03
 > 探讨主观自陈与客观表现测量在实证研究中如何改变创造力与其他[[Higher-Order Thinking Skills|高阶思维]]构念的关系估计。
 
 > [!claim] Park et al.; Podsakoff et al.
-> **[[Common Method Variance|共同方法变异]]与真实认知重叠的双重机制** [[Three-Level Meta-Analysis|三水平元分析]]证实，测量类型是调节创造力与[[Critical Thinking|批判性思维]]相关的关键[[Variable|变量]]（$Q_M(1) = 10.133, p = .002$）：两构念均采用自陈主观测量时相关最高（$r = 0.509$），均采用任务表现客观测量时次之（$r = 0.317$），混合测量组合相关最低（$r = 0.195 \sim 0.260$）。这一结果证明：双自陈[[Questionnaire|问卷]]的高相关受社会赞许性、自尊与[[Rating Scale|评定量表]]格式所致的共同方法变异（CMV）人为放大；而双客观表现测验依然保持中等正相关，则证明两者在[[Executive Function|执行功能]]（抑制、[[Cognitive Flexibility|认知灵活性]]、[[Working Memory|工作记忆]]）与问题解决阶段存在真实的认知共享基础。[[Argument_Park_2026_TSC|(Park et al., 2026, pp. 8–10)]]
+> **[[Common Method Variance|共同方法变异]]与真实认知重叠的双重机制** [[Three-Level Meta-Analysis|三水平元分析]]证实，测量类型是调节创造力与[[Critical Thinking|批判性思维]]相关的关键[[Variable|变量]]（$Q_M(1) = 10.133, p = .002$）：两构念均采用自陈主观测量时相关最高（$r = 0.509$），均采用任务表现客观测量时次之（$r = 0.317$），混合测量组合相关最低（$r = 0.195 \sim 0.260$）。这一结果证明：双自陈[[Questionnaire|问卷]]的高相关受社会赞许性、自尊与[[Rating Scale|评定量表]]格式所致的共同方法变异（CMV）人为放大；而双客观表现测验依然保持中等正相关，则证明两者在[[Executive Function|执行功能]]（抑制、[[Cognitive Flexibility|认知灵活性]]、[[Working Memory|工作记忆]]）与[[Problem Solving|问题解决]]阶段存在真实的认知共享基础。[[Argument_Park_2026_TSC|(Park et al., 2026, pp. 8–10)]]
 
 ---
 
@@ -338,7 +339,7 @@ updated: 2026-09-03
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] — 系统综合 52 项一阶[[Meta-analysis|元分析]]，确立[[Creativity|创造力]]测评四大[[Paradigm|范式]]与二阶效应基准，量化揭示[[Independent Variable|预测变量]]（$r = 0.29$）与[[Dependent Variable|结果变量]]（$r = 0.12$）的不对称性，证实过程测量（$r = 0.27$）优于单纯发散测验。
 > - [[Argument_Park_2026_TSC|Park et al. (2026)]] — 开展[[Three-Level Meta-Analysis|三水平元分析]]检验创造力与[[Critical Thinking|批判性思维]]的测量关联，证实测量类型组合显著调节观察效应（双主观 $r = 0.509$ vs 双客观 $r = 0.317$），揭示了 [[Common Method Variance|CMV]] 膨胀与[[Executive Function|执行功能]]真实重叠的双重机制。
-> - [[Argument_Guo_2025_TSC|Guo et al. (2025)]] — 综合 29 项高校实验（109 个[[Effect Size|效应量]]），实证确立[[Creativity Training|创造力干预]]总体增益（$g = 0.628$），并首次系统量化了不同测量工具与子[[Construct|构念]]的响应敏感度（思维测验 $g = 0.671$、图形创作 $g = 0.644$、词汇联想 $g = 0.641$、言语表达 $g = 0.606$、问题解决 $g = 0.539$、情绪量表 $g = 0.397$）。
+> - [[Argument_Guo_2025_TSC|Guo et al. (2025)]] — 综合 29 项高校实验（109 个[[Effect Size|效应量]]），实证确立[[Creativity Training|创造力干预]]总体增益（$g = 0.628$），并首次系统量化了不同测量工具与子[[Construct|构念]]的响应敏感度（思维测验 $g = 0.671$、图形创作 $g = 0.644$、词汇联想 $g = 0.641$、言语表达 $g = 0.606$、[[Problem Solving|问题解决]] $g = 0.539$、情绪量表 $g = 0.397$）。
 > - [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] — [[Systematic Review|系统综述]] [[OECD]] 国家高教创造力评价政策，梳理发散测验、[[Consensual Assessment Technique|CAT]] 专家评定、[[Rainbow Project|彩虹项目]]招生试验与校本真实性量规（[[VALUE Rubrics|VALUE]]/CERI/[[CALOHEE Project|CALOHEE]]）的实施机制与制度挑战。
 > - [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] — [[Meta-meta-analysis|二阶元分析]]证实[[Cooperative Learning|合作学习]]对创造性思维等[[Higher-Order Thinking Skills|高阶认知技能]]具有显著促进效应（$ES = 0.76$），确立了社会建构情境对打破思维定势的测评与教学价值。
 

@@ -9,7 +9,7 @@ aliases:
 summary: "研究设计的出发点，指计划研究的主题或题材，涉及选题来源、选择标准、问题明确化以及工作标题的草拟"
 type: concept
 domain: "research-methodology"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Literature Review]]"
   - "[[Research Question]]"
+  - "[[Problem Solving]]"
   - "[[Document]]"
   - "[[Didaktik]]"
   - "[[Research Scope]]"
@@ -59,7 +60,7 @@ updated: 2026-06-25
 研究主题的选择通常是成功研究的**决定性特征**。选题的纪律在于将其缩小到可管理／可研究的比例，以便将严谨性嵌入研究之中（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]）。
 
 > [!citation-card]- 关键表述
-> 研究是以系统的方法寻求问题解决方案的过程。科学研究的重点在于获得证据以支持或反对所提出的事实或原则。（[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015]], Ch.1）
+> 研究是以系统的方法寻求[[Problem Solving|问题解决]]方案的过程。科学研究的重点在于获得证据以支持或反对所提出的事实或原则。（[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015]], Ch.1）
 
 ---
 

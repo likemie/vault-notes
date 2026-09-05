@@ -10,7 +10,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 1
+fact_related_count: 2
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
@@ -21,7 +21,8 @@ tags:
   - theme/teacher-professional-development
   - theme/primary-education
   - region/uk
-related_concepts: []
+related_concepts:
+  - "[[Problem Solving]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -66,5 +67,5 @@ updated: 2026-08-23
 
 > [!finding-cards] 实施成效与评价
 > - **教师教学信心与探究频率跃升** 官方独立评估（Education Scotland & The Wood Foundation, 2022）显示，项目显著打破了全科教师对科学教学的心理壁垒，使跨学科动手探究教学成为小学常态。
-> - **激发早期科学认同与职业抱负** 帮助小学生在启蒙阶段接触多元 STEM 实践与真实问题解决，有效拓宽了学生的科学视野。
+> - **激发早期科学认同与职业抱负** 帮助小学生在启蒙阶段接触多元 STEM 实践与真实[[Problem Solving|问题解决]]，有效拓宽了学生的科学视野。
 > - **全境推广验证模式可行性** 从少数地方当局试点成功扩展至苏格兰绝大多数地方当局，证明了“嵌入式地方学科带头人”模式的高效性与可持续性。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 36)]]

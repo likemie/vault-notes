@@ -9,9 +9,9 @@ title: "Argument_Blass_2020_JESP"
 argument_key: "Argument_Blass_2020_JESP"
 argument_display_title: "Debunking Hattie: Evaluating the contribution of academic studies to policy development and implementation in Australia"
 argument_kind: "journal-article"
-argument_related_count: 15
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 14
+argument_related_level: 0
+argument_related_stars: ""
 argument_related_color: "#dbeafe"
 journal: Journal of Education & Social Policy
 citation: "Blass, E. (2020). Debunking Hattie: Evaluating the contribution of academic studies to policy development and implementation in Australia. Journal of Education & Social Policy, 7(4), 91–97."
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Effect Size]]"
   - "[[Critical Thinking]]"
-  - "[[Problem-Based Learning]]"
   - "[[Literature Review]]"
   - "[[Surface and Deep Learning]]"
   - "[[Causality]]"
@@ -78,7 +77,7 @@ citation_aliases:
 >
 > - **不加权平均问题**Arnold (2011, p.219) 指出 Hattie 使用不加权平均值汇总 800 项[[Meta-analysis|元分析]]的[[Effect Size|效应量]]——小型和大型元分析权重相等。Arnold 抽查 Kuncel et al. (2005) 一项研究发现该论文实际是关于"事后自我报告成绩的效度"而非 Hattie 声称的"学生对自己学习表现的期望和预测力"——该论文本不应被纳入分析(p.92)
 > - **Blass 本人的附录抽查** 在探究式教学中，4 项贡献研究中有 3 项仅适用于科学、1 项关于[[Critical Thinking|批判性思维]]技能。深入看：一项关于教师教育(Sweitzer & Anderson, 1983)、一项关于评估方法对结果的影响(Shymansky, Hedges & Woodworth, 1990)、一项是未发表论文(Smith, 1996)、一项关于方法的"新颖性"(Bangert-Drowns, 1992)——没有一项直接比较探究式教学与其他教学方法
-> - **[[Problem-Based Learning|PBL]] 元分析的情境错配** 8 项研究中 3 项在医学领域（大学课程而非学校）、1 项是探索性研究而非元分析(Newman, 2004)、1 项是[[Literature Review|文献综述]](Albanese & Mitchell, 1993)。仅 1 项在学校比较了教学方法且效应量最大（37%, Haas, 2005），2 项关注评估对 PBL 本身的影响
+> - **PBL 元分析的情境错配** 8 项研究中 3 项在医学领域（大学课程而非学校）、1 项是探索性研究而非元分析(Newman, 2004)、1 项是[[Literature Review|文献综述]](Albanese & Mitchell, 1993)。仅 1 项在学校比较了教学方法且效应量最大（37%, Haas, 2005），2 项关注评估对 PBL 本身的影响
 >
 > ### 2. 情境
 >
@@ -112,7 +111,7 @@ citation_aliases:
 
 > [!success] 主要发现
 > - [[Visible Learning|VL]] 在澳大利亚被用作"不改变的好借口"，以来自上世纪的研究证据为当前课堂行为辩护——但这很可能不是 Hattie 的本意(p.97)
-> - 2020 年 COVID 封锁会议中 Hattie 的演讲表明他的立场已显著演变：他谈到课程差异不大（70% 教师提问仅需三词或更少回答）、询问"我们真的需要学生每天坐在教师面前吗？"、承认失败是最好的朋友但仅低风险时如此、指出"通过失败学习是 [[Problem-Based Learning|PBL]] 的一部分、通过探究式学习恢复"。他现在倡导的学习模型恰恰最适合 PBL 和探究式教学法(p.96)
+> - 2020 年 COVID 封锁会议中 Hattie 的演讲表明他的立场已显著演变：他谈到课程差异不大（70% 教师提问仅需三词或更少回答）、询问"我们真的需要学生每天坐在教师面前吗？"、承认失败是最好的朋友但仅低风险时如此、指出"通过失败学习是 PBL 的一部分、通过探究式学习恢复"。他现在倡导的学习模型恰恰最适合 PBL 和探究式教学法(p.96)
 > - **五项评估框架**可推广至任何政策情境：在采纳学术研究以制定政策之前，须评估其方法论、情境、[[Hypothesis|假设]]、领导力和时效性
 > - 澳大利亚教师培训奖励 regulation 和 standardisation 而非创新；教师注册委员会要求持续专业发展时数而非创新发展时数——"想象一下如果每位教师每年必须有 5 小时创新实践的证据，现在的课堂教育可能已经在哪里了！"(p.91)
 
@@ -134,7 +133,7 @@ citation_aliases:
 ## 局限性与批评
 
 > [!warning] 局限性与批评
-> - Blass 是 Inventorium（一个在线 [[Problem-Based Learning|PBL]] 和探究式学习的替代性高中）的 CEO，她的立场受其商业利益影响——她明确主张 PBL 和探究式学习，这与她批评 Hattie 偏好的[[Direct Instruction|直接教学]]模式形成对照
+> - Blass 是 Inventorium（一个在线 PBL 和探究式学习的替代性高中）的 CEO，她的立场受其商业利益影响——她明确主张 PBL 和探究式学习，这与她批评 Hattie 偏好的[[Direct Instruction|直接教学]]模式形成对照
 > - 论文主要是论证性和立场性的，未提供系统的实证数据——抽查 Hattie 附录仅覆盖两个主题（探究式教学和 PBL），不能作为对整个 [[Visible Learning|VL]] 数据库的全面审查
 > - Blass 承认 VL 是"an amazing feat of scientific inquiry"和"a very interesting academic exercise"，其批评并非针对 VL 的学术价值，而是针对其在澳大利亚政策中的误用
 

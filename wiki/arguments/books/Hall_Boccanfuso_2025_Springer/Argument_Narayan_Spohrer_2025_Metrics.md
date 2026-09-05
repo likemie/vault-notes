@@ -27,6 +27,7 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Variable]]"
   - "[[T-Shaped Skills]]"
+  - "[[Problem Solving]]"
   - "[[General Education]]"
   - "[[Literature Search]]"
   - "[[Dialogue in Education]]"
@@ -53,7 +54,7 @@ title: "Argument_Narayan_Spohrer_2025_Metrics"
 argument_key: "Argument_Narayan_Spohrer_2025_Metrics"
 argument_display_title: "Metrics, Incentives, Rewards, and Culture for Impact"
 argument_kind: "book"
-argument_related_count: 27
+argument_related_count: 28
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -230,7 +231,7 @@ citation_aliases:
 
 21. 第二个挑战：学科交叉创新正在加速，但人才培养体制严重滞后。大学院系高度筒仓化（siloed），学位要求偏向单一系所的课程。一个物理学博士生很难选修社会学课程并计入毕业要求，尽管他的研究方向是"科学教育"这样天然跨学科的领域(p.96)。与此同时，AI 等领域的突破越来越多发生在学科交叉地带：AI+医疗、AI+教育、AI+材料科学，每个方向都需要既懂技术又懂领域的人才。
 
-22. 这引出了 T 型技能（[[T-Shaped Skills]]）的需求：纵向的"|"代表在某一学科领域内的深度问题解决能力；横向的"—"代表跨学科的广泛沟通能力(Donofrio & DeMarco, 2022, 转引自 p.96)。传统的大学学位项目擅长培养 I 型人才（只有深度），[[General Education|通识教育]]课程试图提供广度但往往流于浅尝辄止，产学合作需要的人才恰恰是同时具备两者的 T 型人才。
+22. 这引出了 T 型技能（[[T-Shaped Skills]]）的需求：纵向的"|"代表在某一学科领域内的深度[[Problem Solving|问题解决能力]]；横向的"—"代表跨学科的广泛沟通能力(Donofrio & DeMarco, 2022, 转引自 p.96)。传统的大学学位项目擅长培养 I 型人才（只有深度），[[General Education|通识教育]]课程试图提供广度但往往流于浅尝辄止，产学合作需要的人才恰恰是同时具备两者的 T 型人才。
 
 > 一个有 T 型技能的教育研究者，不仅懂得教育实验设计和统计分析（深度），还能理解 AI 工程师在开发自适应学习系统时的技术约束和思维方式（广度）。这样才能在"AI+教育"的交叉领域中有效地充当桥梁角色，既不被工程师视为不懂技术的外行，又不被教育实践者视为只懂算法的技术控。
 

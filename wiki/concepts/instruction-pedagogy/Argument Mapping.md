@@ -9,7 +9,7 @@ aliases:
 summary: "严格依循非形式逻辑语法将论辩推论链条（主张、理由、证据、反驳）进行空间树状或网络可视化的认知脚手架"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Concept Mapping]]"
   - "[[Critical Thinking]]"
   - "[[Brainstorming]]"
+  - "[[Problem Solving]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Externalization]]"
   - "[[Graphic Organizer]]"
@@ -58,7 +59,7 @@ updated: 2026-08-25
 > - **边界** 论证图强调整体推理的合逻辑性与论据充足性，不负责自由[[Brainstorming|头脑风暴]]中的无约束发散生成。
 
 > [!citation-card]- 关键表述
-> 概念图和思维导图组织观念及其关系以促进理解，而论证图则构建主张、证据、保证和反驳背后的逻辑以说服他人接受特定结论；论证图能够显著促进结构化写作与问题解决中的批判性思维。[[Argument_Lei_Ding_Chiu_2026_ERR|(Lei et al., 2026, pp. 4, 11)]]
+> 概念图和思维导图组织观念及其关系以促进理解，而论证图则构建主张、证据、保证和反驳背后的逻辑以说服他人接受特定结论；论证图能够显著促进结构化写作与[[Problem Solving|问题解决]]中的批判性思维。[[Argument_Lei_Ding_Chiu_2026_ERR|(Lei et al., 2026, pp. 4, 11)]]
 >
 > *Whereas concept maps and mind maps organize ideas and their relations for greater understanding, argument maps structure the logic behind claims, evidence, warrants and backing to persuade others of a specific conclusion (Davies, 2011)...*
 

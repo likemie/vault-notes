@@ -8,7 +8,7 @@ aliases:
 summary: "要求受访者在选项之间进行比较并确定优先级的题型，操作在零和模型上——提高一项的排位意味着另一项下降，适用于需要判断相对权重而非绝对取值的场景"
 type: concept
 domain: "research-methodology"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Rating Scale]]"
   - "[[Variable]]"
+  - "[[Problem Solving]]"
   - "[[Fitness for Purpose]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20]]"
@@ -76,7 +77,7 @@ updated: 2026-08-20
 > - [　] 改善学生动机
 > - [　] 家长批准修订
 > - [　] 提高优等生成绩
-> - [　] 工作更加以问题解决为导向
+> - [　] 工作更加以[[Problem Solving|问题解决]]为导向
 
 ---
 

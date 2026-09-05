@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25"
 argument_display_title: "Research Methods in Education · Ch25"
 argument_kind: "book-chapter"
-argument_related_count: 27
+argument_related_count: 28
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#fef3c7"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Dialogue in Education]]"
   - "[[Transcription in Qualitative Research]]"
+  - "[[Problem Solving]]"
   - "[[Self-Efficacy]]"
   - "[[Pre-test and Post-test]]"
   - "[[Epistemology]]"
@@ -479,7 +480,7 @@ Fransella（2003, pp. 455–457）提供了该理论所有组成部分的简明�
 > **核心发现**
 > - **两个关键构念** 管理活动（一个构念）确实增加了，但这并未导致校长的去专业化；校长的核心价值观植根于其教育价值观和对教育的看法（第二个构念）
 > - **构念层级** 小学主要校长的上属构念依次为以儿童为中心和管理，且以儿童为中心在上、管理在下。管理系统服务于以儿童为中心的价值观和愿景，而非取代之
-> - **引发的构念示例** 以儿童为中心的问题解决、政策实施、评估、其他机构参与、问题解决、文书工作（p. 12）
+> - **引发的构念示例** 以儿童为中心的[[Problem Solving|问题解决]]、政策实施、评估、其他机构参与、问题解决、文书工作（p. 12）
 >
 > **方法论意义** 这一发现只有在使用引发构念的方法下才有可能，因为它揭示了校长自身建构系统中的层级组织关系，这种关系无法通过预设维度来获取。
 

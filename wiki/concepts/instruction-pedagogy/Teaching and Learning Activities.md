@@ -9,7 +9,7 @@ aliases:
 summary: "为促使学生开展目标认知行为而安排的教学与学习活动，可由教师、同伴或学生组织，是连接课程目标与学习结果的实施环节。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Surface and Deep Learning]]"
   - "[[Problem-Based Learning]]"
   - "[[Hypothesis]]"
+  - "[[Problem Solving]]"
   - "[[Learning Portfolio]]"
   - "[[Constructive Alignment]]"
 related_persons:
@@ -157,7 +158,7 @@ updated: 2026-08-01
 ## 应用案例
 
 > [!evidence-grid] 应用案例索引
-> - **[[Problem-Based Learning|问题本位学习]]** 专业问题同时决定学生的诊断、检索、[[Hypothesis|假设]]、应用和复盘活动，使活动直接服务专业问题解决目标。[[Argument_Biggs_1999_HERD|Biggs (1999, pp. 70–72)]]
+> - **[[Problem-Based Learning|问题本位学习]]** 专业问题同时决定学生的诊断、检索、[[Hypothesis|假设]]、应用和复盘活动，使活动直接服务专业[[Problem Solving|问题解决]]目标。[[Argument_Biggs_1999_HERD|Biggs (1999, pp. 70–72)]]
 > - **[[Learning Portfolio|学习档案袋]]** 评估证据的协商促成日志、学习伙伴、讨论组、试交和修订，活动由评估要求自下而上形成。[[Argument_Biggs_1999_HERD|Biggs (1999, pp. 72–73)]]
 
 ---

@@ -8,10 +8,10 @@ aliases:
 summary: "学习者在经历挑战或挫折时，因将困难归因于不可改变的天生能力匮乏而产生的消极行为与认知模式。表现为低自尊、失败恐惧、迅速放弃努力及负面评价泛化，是实体智力观与固定/快速学习认识论信念的典型行为表征。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - "theme/motivation"
   - "theme/affect"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Epistemological Beliefs]]"
   - "[[Self-Efficacy]]"
   - "[[Entity vs Incremental Intelligence]]"
+  - "[[Problem Solving]]"
   - "[[Epistemology]]"
   - "[[Growth]]"
   - "[[Academic Achievement]]"
@@ -79,7 +80,7 @@ updated: 2026-08-20
 > - **迅速放弃努力（Rapid Abandonment of Effort）** 面对需要持续推理的复杂任务时，在数分钟甚至数秒内迅速停止策略尝试。[[Argument_Lodewyk_2007_EP|(Lodewyk, 2007, p. 310)]]
 > - **消极评价泛化（Generalization of Failure）** 将在特定学科或单一题型上的挫折经验扩散至整个学业自我概念中，形成弥散性的无能感。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 59)]]
 >
-> 与之形成鲜明对照的是**韧性掌握模式（Resilience / Mastery Pattern）** 将失败视为策略不足或努力欠缺的反馈信号，在逆境中维持高水平问题解决投入。
+> 与之形成鲜明对照的是**韧性掌握模式（Resilience / Mastery Pattern）** 将失败视为策略不足或努力欠缺的反馈信号，在逆境中维持高水平[[Problem Solving|问题解决]]投入。
 
 ---
 
@@ -101,7 +102,7 @@ updated: 2026-08-20
 ### 命题二　固定快速学习信念与自我效能感崩塌加剧即时放弃
 
 > [!concept-lens] [[Epistemological Beliefs|认识论信念]]与[[Self-Efficacy|自我效能]]的协同催化
-> 探讨固定与快速学习认识论信念如何与自我效能感交互，加速复杂问题解决中的无助退缩。
+> 探讨固定与快速学习认识论信念如何与自我效能感交互，加速[[Problem Solving|复杂问题解决]]中的无助退缩。
 
 > [!claim] Schoenfeld (1985); Bandura (1993); [[Argument_Lodewyk_2007_EP|Lodewyk (2007)]]
 > **快速学习期望与效能骤降命题** 认为学习必须迅速发生（Quick Learning）或能力生来固化（Fixed Ability）的认识论信念，是导致学生在复杂学术任务中过早放弃的关键催化剂。

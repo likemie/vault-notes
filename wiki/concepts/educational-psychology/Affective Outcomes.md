@@ -13,7 +13,7 @@ aliases:
 summary: "教育心理学与教学干预研究中指称学生情感领域可观测、可测量产出的操作化概念，涵盖自信心、学科态度、内在动机与一般学习感知等非认知结果变量。理论渊源根植于 Krathwohl 等人（1964）的情感分类学，与学业成就、高阶思维构成学习产出的三大支柱；实证研究表明其在合作学习中具有稳健正向响应（ES = 0.51），但受学科与测量工具影响具有高度情境依赖性。"
 type: concept
 domain: "educational-psychology"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Questionnaire]]"
   - "[[Heterogeneity]]"
+  - "[[Problem Solving]]"
   - "[[Metacognition]]"
   - "[[Self-Efficacy]]"
   - "[[Learner Autonomy]]"
@@ -83,7 +84,7 @@ updated: 2026-09-04
 > [!boundary]- 概念边界
 > - 不等于**精神运动域产出（Psychomotor Outcomes）**——精神运动产出聚焦身体动作、实验操作与体能技能表现，属于动作技能领域。
 > - 不等于**[[Academic Achievement|学业成就]]**——学业成就聚焦认知域的知识掌握、常规解题与测验分数，而情感产出聚焦于对学习的情感体验、态度倾向与动力状态。
-> - 不等于**[[Higher-Order Thinking Skills|高阶思维技能]]**——高阶思维属于复杂认知加工（批判、创造与问题解决），虽然二者在课堂深度互动中互相促进，但构念属性分别归属于认知域与情感域。
+> - 不等于**[[Higher-Order Thinking Skills|高阶思维技能]]**——高阶思维属于复杂认知加工（批判、创造与[[Problem Solving|问题解决]]），虽然二者在课堂深度互动中互相促进，但构念属性分别归属于认知域与情感域。
 
 ---
 

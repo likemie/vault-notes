@@ -63,7 +63,7 @@ updated: 2026-08-24
 > - **真实问题分析** 通过分析真实问题主动参与并理解信息。
 > - **长期保持** 深层加工促进知识长期保持与迁移。（pp. 954–955）
 
-> [!proc] [[Problem-Based Learning|PBL]] 促进理论性知识的路径
+> [!proc] PBL 促进理论性知识的路径
 > 1. **真实问题切入** 学生面对经过选择的真实问题。
 > 2. **主动理解** 在分析问题的过程中理解理论概念。
 > 3. **深层掌握** 通过[[Surface and Deep Learning|深层学习]]形成更持久的理解。
@@ -87,4 +87,4 @@ updated: 2026-08-24
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Erdem_2026_SHE|Erdem et al. (2026)]] [[Meta-meta-analysis|二阶元分析]]报告，[[Problem-Based Learning|PBL]] 对高等教育学生理论性知识的效应（d = 0.59）为高水平，源于分析真实问题带来的深层理解；Dochy et al. (2003) 与 Strobel & Van Barneveld (2009) 均指出 PBL 短期知识获取较低但长期保持更优。（pp. 963）
+> - [[Argument_Erdem_2026_SHE|Erdem et al. (2026)]] [[Meta-meta-analysis|二阶元分析]]报告，PBL 对高等教育学生理论性知识的效应（d = 0.59）为高水平，源于分析真实问题带来的深层理解；Dochy et al. (2003) 与 Strobel & Van Barneveld (2009) 均指出 PBL 短期知识获取较低但长期保持更优。（pp. 963）

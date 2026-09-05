@@ -28,6 +28,7 @@ related_concepts:
   - "[[Student Engagement]]"
   - "[[Surface and Deep Learning]]"
   - "[[Questionnaire]]"
+  - "[[Problem Solving]]"
   - "[[Reflexivity]]"
   - "[[Homework]]"
   - "[[Paradigm]]"
@@ -67,7 +68,7 @@ updated: 2026-08-27
 >
 > | 核心维度 | 测量内容 | 题项样例 |
 > |---|---|---|
-> | **高级学习（Higher-Order Learning）** | 考核课程要求学生应用理论、分析数值/文本证据、评估对立观点以及形成新见解的频率与深度。 | “课程要求您将概念应用于实际问题解决的程度”；“课程要求您评估论据有效性的程度”。 |
+> | **高级学习（Higher-Order Learning）** | 考核课程要求学生应用理论、分析数值/文本证据、评估对立观点以及形成新见解的频率与深度。 | “课程要求您将概念应用于实际[[Problem Solving\|问题解决]]的程度”；“课程要求您评估论据有效性的程度”。 |
 > | **[[Reflexivity\|反思性]]与整合性学习（Reflective & Integrative Learning）** | 跨学科联系知识、结合多重视角审视问题、反思自身先入之见的实践频率。 | “将不同学科的观念整合进[[Homework\|作业]]中”；“依据新证据改变个人原有理解”。 |
 > | **定量推理（Quantitative Reasoning）** | 运用数据图表解决复杂社会或学术现实问题的能力。 | “使用统计数据得出合乎逻辑的结论”。 |
 > | **学术挑战与生师互动（Academic Challenge & Faculty Interaction）** | 课程阅读量、学术写作负荷以及与教师就课程反馈与学术研究开展深度互动的频次。 | “与教授讨论职业规划与学术课题”。 |

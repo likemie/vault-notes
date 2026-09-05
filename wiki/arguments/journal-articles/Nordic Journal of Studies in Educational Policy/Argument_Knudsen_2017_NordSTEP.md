@@ -9,7 +9,7 @@ title: "Argument_Knudsen_2017_NordSTEP"
 argument_key: "Argument_Knudsen_2017_NordSTEP"
 argument_display_title: "John Hattie: I'm a statistician, I'm not a theoretician"
 argument_kind: "journal-article"
-argument_related_count: 20
+argument_related_count: 19
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -31,7 +31,6 @@ related_concepts:
   - "[[Document]]"
   - "[[Hypothesis]]"
   - "[[Theory of Mind]]"
-  - "[[Problem-Based Learning]]"
   - "[[Effect Size]]"
   - "[[Surface and Deep Learning]]"
   - "[[Falsification]]"
@@ -142,7 +141,7 @@ citation_aliases:
 > ### 学习概念
 >
 > - 学习意味着从表层→深层→迁移(p.258)
-> - 问题式学习（[[Problem-Based Learning|PBL]]）[[Effect Size|效应量]]低是因为 90% 的学校在[[Surface and Deep Learning|表层学习]]阶段引入 PBL
+> - 问题式学习（PBL）[[Effect Size|效应量]]低是因为 90% 的学校在[[Surface and Deep Learning|表层学习]]阶段引入 PBL
 > - VL 进校第一件事：问师生"学习意味着什么"并将双方的对比展示出来——学生常回答"准时到校、坐直、保持安静"
 >
 > ### 证据与理论

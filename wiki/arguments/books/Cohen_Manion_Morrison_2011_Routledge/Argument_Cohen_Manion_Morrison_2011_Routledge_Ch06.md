@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06"
 argument_display_title: "Research Methods in Education · Ch06"
 argument_kind: "book-chapter"
-argument_related_count: 63
+argument_related_count: 64
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -66,6 +66,7 @@ related_concepts:
   - "[[Access and Acceptance in Research]]"
 related_theories:
   - "[[Organizational Culture]]"
+  - "[[Self-Determination Theory]]"
 related_methods:
   - "[[Trend Study]]"
   - "[[Action Research]]"
@@ -494,7 +495,7 @@ updated: '2026-08-27'
 > | 理解（Understanding） | 如何理解这一现象？ | 新手教师如何理解课堂权威的建立过程？ |
 > | 探索（Exploring） | 这个领域里有什么？ | 疫情期间教师的在线教学实践有哪些类型？ |
 > | 因果（[[Causality\|causation]]） | 什么导致了什么？ | 频繁测试是否提高了学生成绩？ |
-> | 检验（Testing） | 某个理论／假设是否成立？ | 自我决定理论能否解释中国大学生的学术拖延？ |
+> | 检验（Testing） | 某个理论／假设是否成立？ | [[Self-Determination Theory\|自我决定理论]]能否解释中国大学生的学术拖延？ |
 > | What?（是什么） | 这是什么？ | 什么是"深度学习"？ |
 > | What if?（假如） | 假如……会怎样？ | 假如取消标准化考试，学校教学会如何改变？ |
 > | Who?（谁） | 谁参与了？ | 谁从课外辅导中受益最多？ |

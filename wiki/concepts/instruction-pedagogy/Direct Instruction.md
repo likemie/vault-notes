@@ -7,7 +7,7 @@ aliases:
 summary: "由教师主动主导、以明确目标说明、分步示范、有指导练习、理解检查与即时反馈为核心的高结构化教学模式，在程序性知识与基础技能教学中成效显著，但在高阶思维培养中需与情境探究结合以避免教育副作用"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -20,8 +20,8 @@ tags:
 related_concepts:
   - "[[Creativity]]"
   - "[[Structured Teaching]]"
-  - "[[Problem-Based Learning]]"
   - "[[Knowledge Framework]]"
+  - "[[Problem-Based Learning]]"
   - "[[Infusion Approach]]"
   - "[[Immersion Approach]]"
   - "[[Mentorship]]"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Creativity Training]]"
   - "[[Divergent Thinking]]"
   - "[[Growth]]"
+  - "[[Problem Solving]]"
   - "[[Didaktik]]"
   - "[[Positivism]]"
   - "[[Document]]"
@@ -87,7 +88,7 @@ updated: 2026-08-25
 > [!boundary]- 概念边界
 > - 不等于 **单向满堂灌（Rote Lecturing）** — 纯粹讲授缺乏高频的“理解检查”与“即时纠错练习”；直接教学要求师生之间保持高密度的互动与结构化提问（Rosenshine, 1986）。
 > - 不等于 **[[Structured Teaching|结构化教学]]（Structured Teaching）** — 结构化教学是更上位的课堂组织范畴，直接教学是其经典实现路径，但高结构课堂亦可容纳结构化的小组辩论或项目探究（Håkansson, 2015）。
-> - 不等于 **问题导向学习（[[Problem-Based Learning|PBL]]）** — PBL 强调以真实劣构问题为起点由学生自主推理；直接教学则强调在学生尚未形成先验[[Knowledge Framework|知识框架]]时由教师先搭设明晰的规则体系。
+> - 不等于 **问题导向学习（PBL）** — PBL 强调以真实劣构问题为起点由学生自主推理；直接教学则强调在学生尚未形成先验[[Knowledge Framework|知识框架]]时由教师先搭设明晰的规则体系。
 
 ---
 
@@ -166,7 +167,7 @@ flowchart LR
 
 > [!claim] [[Argument_Zhao_2017_JEC|Zhao, Y. (2017)]]
 > **短期测验获益与创造力、自主性被抑制的“教育副作用”** 
-> 任何强效教育干预都伴随着副作用。直接教学（如 Project Follow Through 中的 Engelmann 模式）在拼写、计算等基础技能上得分极高，但在衡量高阶问题解决与自主探究倾向时往往落后。长期接受严格直接教学的学生容易形成“等待标准答案”的被动服从习惯，削弱其[[Creativity|创造力]]冒险精神、不确定性耐受力与好奇心。[[Argument_Zhao_2017_JEC|(Zhao, 2017, pp. 7–10)]]
+> 任何强效教育干预都伴随着副作用。直接教学（如 Project Follow Through 中的 Engelmann 模式）在拼写、计算等基础技能上得分极高，但在衡量高阶[[Problem Solving|问题解决]]与自主探究倾向时往往落后。长期接受严格直接教学的学生容易形成“等待标准答案”的被动服从习惯，削弱其[[Creativity|创造力]]冒险精神、不确定性耐受力与好奇心。[[Argument_Zhao_2017_JEC|(Zhao, 2017, pp. 7–10)]]
 
 > [!claim] [[Argument_Terhart_2011_JCS|Terhart, E. (2011)]]
 > **[[Didaktik|欧陆教学论]]视角对直接教学泛化倾向的批判** 批评英美[[Positivism|实证主义]]将教学简化为单一的“直接教学技术主义”。教学不仅是行为技能的快速复制，更是学习者在文化与意义世界中的自主建构；若将直接教学视作万能良药，将抹杀课堂探究的复杂性与学生主体性。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 433–435)]]

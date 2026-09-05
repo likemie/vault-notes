@@ -6,7 +6,7 @@ summary: "通过汇总多项独立初级研究的效应量来综合定量证据�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 86
+method_related_count: 90
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -52,14 +52,17 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Causality]]"
   - "[[Epistemology]]"
-  - "[[Graphic Organizer]]"
+  - "[[Generative Artificial Intelligence]]"
   - "[[Higher-Order Thinking Skills]]"
+  - "[[Problem Solving]]"
+  - "[[Critical Thinking]]"
+  - "[[Creativity]]"
+  - "[[Self-Regulated Learning]]"
+  - "[[Graphic Organizer]]"
   - "[[AI Agent in Education]]"
   - "[[Dialogue in Education]]"
   - "[[Authentic Instruction]]"
   - "[[Mentorship]]"
-  - "[[Critical Thinking]]"
-  - "[[Creativity]]"
   - "[[Epistemic Cognition]]"
 related_theories:
   - "[[Critical Realism]]"
@@ -108,10 +111,11 @@ related_arguments:
   - "[[Argument_Park_2026_TSC]]"
   - "[[Argument_Song_Choi_2026_FPSYG]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
+  - "[[Argument_Zhao_2025_JIntell]]"
 confidence: high
 status: draft
 created: 2026-05-01
-updated: 2026-09-04
+updated: 2026-09-05
 ---
 
 # Meta-analysis
@@ -326,6 +330,7 @@ flowchart LR
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 研究案例索引
+> - [[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] 运用[[Fixed-Effect and Random-Effects Models|随机效应模型]]综合 29 项实验与准[[Experimental Research|实验研究]]（59 个[[Effect Size|效应量]]），评估[[Generative Artificial Intelligence|生成式人工智能]]对学生[[Higher-Order Thinking Skills|高阶思维]]（涵盖[[Problem Solving|问题解决能力]]、[[Critical Thinking|批判性思维]]与[[Creativity|创造力]]）的总体促进效应（Hedges' $g = 0.609$），并系统检验干预时长、学段、教学方法与[[Self-Regulated Learning|自主调节学习]]能力的[[Interaction Effect|调节效应]]。
 > - [[Argument_Chen_Cheung_2025_ERR|Chen & Cheung (2025)]] 依据[[Third Generation Activity Theory|活动理论]]移动计算机支持协作学习（AT-MCSCL）框架对 57 项实验与准[[Experimental Research|实验研究]]（97 个[[Effect Size|效应量]]，$N = 5{,}389$）实施随机效应元分析，严格控制[[Pre-test and Post-test|前测]][[Baseline Standardized Mean Difference|基线等效性]]（$d < 0.25$），评估生成式人工智能对大学生成果的综合效应（$g^+ = 0.804$），并系统检验 17 个调节变量及剪补法发表偏倚校正（校正后 $g^+ = 0.321$）。
 > - [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] 运用[[Fixed-Effect and Random-Effects Models|随机效应模型]]综合 66 项实验与准[[Experimental Research|实验研究]]（72 个[[Effect Size|效应量]]，$N = 4{,}824$），评估[[Graphic Organizer|图形组织器]]对学生[[Higher-Order Thinking Skills|高阶思维]]的促进效应（$g = 0.778$），并结合 Wald 检验与[[Meta-regression|元回归]]系统考察导图类型、思维层级及学段等调节[[Variable|变量]]。
 > - [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] 采用随机效应模型综合 34 项实验与准实验研究（73 个效应量，$N = 3{,}042$），评估 AI [[AI Agent in Education|智能体]]对 K-12 学生认知学习成果的总体效应（$g = 0.404$），并系统检验技能类结果、知识类结果、高阶思维以及智能体形态、学段、学科和干预时长的[[Interaction Effect|调节效应]]。

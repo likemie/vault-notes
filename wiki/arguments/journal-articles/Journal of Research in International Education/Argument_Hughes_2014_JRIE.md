@@ -28,6 +28,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Reliability]]"
   - "[[Hypothesis]]"
+  - "[[Problem Solving]]"
   - "[[Operationalization]]"
   - "[[Ways of Knowing]]"
   - "[[Areas of Knowledge]]"
@@ -55,7 +56,7 @@ title: "Argument_Hughes_2014_JRIE"
 argument_key: "Argument_Hughes_2014_JRIE"
 argument_display_title: "Theory of Knowledge aims, objectives and assessment criteria: An analysis of critical thinking descriptors"
 argument_kind: "journal-article"
-argument_related_count: 19
+argument_related_count: 20
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -77,7 +78,7 @@ issuing_organization: ""
 > [[International Baccalaureate|国际文凭]]大学预科项目（[[IB Diploma Programme|International Baccalaureate Diploma Programme]]，IBDP）的[[Theory of Knowledge|知识论]]（Theory of Knowledge，ToK）自称是[[Critical Thinking|批判性思维]]课程，但其课程目标、评估目标与两项评估工具在多大程度上真正覆盖并测量了[[Critical Thinking|批判性思维]][[Construct|构念]]？三层课程文本之间是否形成足以支持[[Construct Validity|构念效度]]的对齐关系？（pp.30–31）
 
 > [!claim] 核心主张
-> ToK 的课程目标、评估目标和评分描述符在[[Knowledge Questions|知识问题]]、观点比较与真实情境联系方面具有较强的内部对齐，但它们主要要求学生理解知识如何被建构，更接近[[Epistemology|认识论]]课程。批判性阅读、来源可[[Reliability|信度]]判断、推论、[[Hypothesis|假设]]检验、可能性判断、决策、问题解决和创造等重要思维活动未被充分[[Operationalization|操作化]]，因此课程对批判性思维构念的覆盖不完整，构念效度有限。（pp.36–43）
+> ToK 的课程目标、评估目标和评分描述符在[[Knowledge Questions|知识问题]]、观点比较与真实情境联系方面具有较强的内部对齐，但它们主要要求学生理解知识如何被建构，更接近[[Epistemology|认识论]]课程。批判性阅读、来源可[[Reliability|信度]]判断、推论、[[Hypothesis|假设]]检验、可能性判断、决策、[[Problem Solving|问题解决]]和创造等重要思维活动未被充分[[Operationalization|操作化]]，因此课程对批判性思维构念的覆盖不完整，构念效度有限。（pp.36–43）
 
 > [!concept-lens] 阅读透镜
 > - **对象** 2013 年 ToK 指南中的课程目标、评估目标，以及论文和展示两项评估任务的最高等级描述符。（pp.35–40）
@@ -93,7 +94,7 @@ issuing_organization: ""
 > |---|---|
 > | **德尔菲共识框架**<br>Facione (1990) | 以解释、分析、评价、推论、说明和自我调节六种技能，以及探究、开放与理解他人等倾向，界定批判性思维的共同核心。（p.32） |
 > | **Paul 的三维分类**<br>Paul (1990, 2011) | 将批判性思维分为情意维度、宏观能力和微观技能，覆盖独立思考、观点比较、来源评价、论证分析、[[Hypothesis\|假设]]审查、推论和后果探索。（pp.32–33） |
-> | **Halpern and Cambridge Assessment 分类**<br>Halpern (1997); Black (2008) | 前者纳入假设检验、概率与不确定性、决策、问题解决和创造，后者强调论证分析、信息相关性、主张评价与有理由的判断，并把阅读理解、问题解决、创造和三段论置于构念边缘或之外。（pp.32–34） |
+> | **Halpern and Cambridge Assessment 分类**<br>Halpern (1997); Black (2008) | 前者纳入假设检验、概率与不确定性、决策、[[Problem Solving\|问题解决]]和创造，后者强调论证分析、信息相关性、主张评价与有理由的判断，并把阅读理解、问题解决、创造和三段论置于构念边缘或之外。（pp.32–34） |
 > | **修订版 Bloom 分类法**<br>Anderson & Krathwohl (2001) | 以记忆、理解、应用、分析、评价和创造的层级词汇检查课程命令词是否从知识接收推进到主动产出。（pp.33–34） |
 
 > [!warrant]- 理论如何支撑论证
@@ -138,7 +139,7 @@ issuing_organization: ""
 ### 一　批判性思维具有共同核心，但其边界不能由单一分类法穷尽
 
 > [!claim] 多套框架的重叠部分足以形成审查课程的最低标准
-> [[Critical Thinking|批判性思维]]的定义虽然宽窄不一，但反复指向辨别、分析、判断或评价、解释和论证。理性与理由的权衡、自我调节、开放心态和理解他人构成技能之外的倾向面向；推论、[[Hypothesis|假设]]检验、不确定性判断、决策、问题解决和创造则提示[[Construct|构念]]的主动生成面向。（pp.31–34）
+> [[Critical Thinking|批判性思维]]的定义虽然宽窄不一，但反复指向辨别、分析、判断或评价、解释和论证。理性与理由的权衡、自我调节、开放心态和理解他人构成技能之外的倾向面向；推论、[[Hypothesis|假设]]检验、不确定性判断、决策、[[Problem Solving|问题解决]]和创造则提示[[Construct|构念]]的主动生成面向。（pp.31–34）
 
 > [!ref-table] 表 1　Anderson and Krathwohl 修订的 Bloom 分类法
 > | 类别 | 行动词（中英对照） |
@@ -246,7 +247,7 @@ issuing_organization: ""
 > [!finding-cards] 核心发现
 > 1. **课程身份错位** ToK 的课程标签强调[[Critical Thinking|批判性思维]]，实际结构至少同等程度上聚焦[[Epistemology|认识论]]和知识建构。（pp.36, 41）
 > 2. **内部对齐不完整** 课程目标、评估目标和任务标准在[[Knowledge Questions|知识问题]]、不同观点与真实情境方面相互呼应，但文化视角、个人反思、责任与行动等目标没有进入评分描述符。（pp.40–41）
-> 3. **[[Construct|构念]]覆盖过窄** 批判性阅读、来源评价、推论、预测、[[Hypothesis|假设]]检验、不确定性判断、决策、问题解决和创造等重要分支缺席，使 ToK 不能充分测量其声称代表的批判性思维构念。（pp.41–43）
+> 3. **[[Construct|构念]]覆盖过窄** 批判性阅读、来源评价、推论、预测、[[Hypothesis|假设]]检验、不确定性判断、决策、[[Problem Solving|问题解决]]和创造等重要分支缺席，使 ToK 不能充分测量其声称代表的批判性思维构念。（pp.41–43）
 
 ---
 

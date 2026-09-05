@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01"
 argument_display_title: "Research Methods in Education · Ch01"
 argument_kind: "book-chapter"
-argument_related_count: 88
+argument_related_count: 89
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Questionnaire]]"
   - "[[Positivism]]"
+  - "[[Problem Solving]]"
   - "[[Value Neutrality]]"
   - "[[Postpositivism]]"
   - "[[Reflexivity]]"
@@ -225,7 +226,7 @@ Hitchcock and Hughes (1995, p. 21)的框架提出了一个严格的层级推导�
 [[Deanna Kuhn|库恩]]([[Thomas Kuhn]], 1962)的[[Paradigm]]概念为理解不同研究传统之间的关系提供了一个核心框架(pp.133–141)：
 
 > [!abstract] 范式的多重含义
-> 范式是一种看待或研究现象的方式，一种世界观，一种关于什么算作被接受或正确的科学知识或工作方式的观点，一种"被接受的模型或模式"(Kuhn, 1962, p. 23)，一种共享的信念体系或原则集合，一个研究共同体的身份标识，一种追求知识的方式，对研究什么问题以及如何研究这些问题的共识，典型的问题解决方案，以及一种比其竞争对手更容易被接受的理解。
+> 范式是一种看待或研究现象的方式，一种世界观，一种关于什么算作被接受或正确的科学知识或工作方式的观点，一种"被接受的模型或模式"(Kuhn, 1962, p. 23)，一种共享的信念体系或原则集合，一个研究共同体的身份标识，一种追求知识的方式，对研究什么问题以及如何研究这些问题的共识，典型的[[Problem Solving|问题解决]]方案，以及一种比其竞争对手更容易被接受的理解。
 
 库恩的科学发展模型包含四个阶段：
 

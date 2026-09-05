@@ -10,9 +10,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 15
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 16
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 issuing_organization: "Council for Aid to Education"
 tags:
@@ -21,6 +21,7 @@ tags:
   - theme/authentic-assessment
   - theme/learning-gain
 related_concepts:
+  - "[[Problem Solving]]"
   - "[[Document]]"
   - "[[Paradigm]]"
   - "[[Transfer Translation Transformation]]"
@@ -58,7 +59,7 @@ updated: 2026-08-27
 > - **成立时间 / 发起主体** 1952 年由全美商界与高教领袖（包括通用汽车、新泽西标准石油等企业高管）在纽约联合创立。
 > - **机构性质** 专注于高等教育质量评价、机构效能提升与真实能力测量的非营利研究机构。
 > - **历史转型** 2000 年代初在理查德·本杰明（Roger Benjamin）等学者主持下，战略转型为以“表现性测评（Performance-Based Assessment）”为核心的高教能力评价专业机构。
-> - **核心使命** 提升学生的高阶思辨、复杂问题解决与有效沟通能力，为大学提供科学的教学诊断与增益反馈。
+> - **核心使命** 提升学生的高阶思辨、[[Problem Solving|复杂问题解决]]与有效沟通能力，为大学提供科学的教学诊断与增益反馈。
 
 ---
 

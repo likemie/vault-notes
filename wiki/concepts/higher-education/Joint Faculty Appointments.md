@@ -9,7 +9,7 @@ aliases:
 summary: "产学合作中的新兴模式，研究人员同时持有企业雇员和大学教授双重身份，短期解决专有业务问题、长期从事开放式研究，Ramming（2025）指出其成功需要大学和企业的共同关切与中央化AET的支持"
 type: concept
 domain: "higher-education"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Sponsored Research Agreement]]"
   - "[[Knowledge Exchange]]"
   - "[[Academic Engagement Team]]"
+  - "[[Problem Solving]]"
 related_facts:
   - "[[University Industry Demonstration Partnership]]"
 related_arguments:
@@ -72,7 +73,7 @@ updated: 2026-06-04
 > [!note]-
 > 联合教职在时间尺度协调上提供了一种独特的解决方案：它不试图拉平企业和大学的时间尺度差异（这是不可能的），而是让同一个人在两个时间尺度上同时运作。实践者需要关注的核心问题是：雇员身份的绩效标准（季度交付、产品里程碑）与教授身份的绩效标准（发表、基金申请、学生毕业）如何在同一个人的职业发展中得到协调而非冲突（p.230）。
 
-从 [[Academic Engagement Team|AET]] 的角度看，联合教职是一种"高带宽"的合作形式——它创造的信息流（人员日常接触、共享问题解决、联合指导研究生）比任何年度评审会议或季度进展报告都更密集。但这种高带宽也有代价：联合教职的治理成本（雇佣合同、知识产权边界、保密与发表的平衡）远高于传统[[Sponsored Research Agreement|赞助研究协议]]（p.230）。
+从 [[Academic Engagement Team|AET]] 的角度看，联合教职是一种"高带宽"的合作形式——它创造的信息流（人员日常接触、共享[[Problem Solving|问题解决]]、联合指导研究生）比任何年度评审会议或季度进展报告都更密集。但这种高带宽也有代价：联合教职的治理成本（雇佣合同、知识产权边界、保密与发表的平衡）远高于传统[[Sponsored Research Agreement|赞助研究协议]]（p.230）。
 
 ---
 

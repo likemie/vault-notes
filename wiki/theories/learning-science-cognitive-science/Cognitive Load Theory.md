@@ -7,7 +7,7 @@ aliases:
 summary: "由 John Sweller 于 1988 年创立的经典学习与教学设计理论，以人类工作记忆容量有限与长时记忆图式无限为核心架构，解构内在负荷、外在负荷与相关负荷，主张通过减少外在负荷、优化内在负荷以促进图式建构和自动化。"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 41
+theory_related_count: 42
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Intelligent Tutoring Systems]]"
   - "[[Reflexivity]]"
   - "[[Creativity Training]]"
+  - "[[Problem Solving]]"
   - "[[Avatar]]"
   - "[[Document]]"
   - "[[Hypothesis]]"
@@ -208,7 +209,7 @@ updated: 2026-09-02
 
 > [!theory-boundary] 适用边界
 > - **适合解释** 良构领域（如数学运算、物理定律、外语语法、计算机编程）的初学者概念习得与程序性解题技能训练，以及智能技术介入下的[[Working Memory|工作记忆]]负荷调控。
-> - **谨慎使用** 开放性[[Creativity Training|创造力培养]]、发散性艺术创作与复杂社会劣构问题解决，其非线性探究特征难以完全用机械负荷加减法简化。
+> - **谨慎使用** 开放性[[Creativity Training|创造力培养]]、发散性艺术创作与复杂社会劣构[[Problem Solving|问题解决]]，其非线性探究特征难以完全用机械负荷加减法简化。
 > - **不适合解释** 具身沉浸式体验、师生情感共鸣、文[[Avatar|化身]]份认同及宏观教育不平等机制。
 > - **常见误用** 机械套用新手策略指导高水平专家（忽视专业反转效应）；将所有探究式学习一概斥为有害，忽视带结构化脚手架的高阶探究对深层反思的促进价值。[[Argument_Liu_2026_CHBR|(Liu et al., 2026, pp. 10–11)]]
 

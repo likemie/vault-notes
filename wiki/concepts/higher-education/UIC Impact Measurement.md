@@ -8,7 +8,7 @@ aliases:
 summary: "Cohen、Fernandes and Godinho（2025）通过系统综述 92 篇文献提出的 UIC 影响测量综合框架，将 25 种产学合作影响归入智力、经济、技术、环境、社会和战略六种类型，并以主体、时间、发生方式和性质四个辅助维度交叉分类，同时识别四类测量挑战与七项应对策略"
 type: concept
 domain: "higher-education"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[University Spin-Out]]"
   - "[[Innovation Ecosystem]]"
   - "[[Document]]"
+  - "[[Problem Solving]]"
   - "[[Responsible Innovation]]"
   - "[[Counterfactual]]"
   - "[[Variable]]"
@@ -62,7 +63,7 @@ Cohen 等人（2025）通过对 92 篇[[Document|文献]]的[[Systematic Review|
 
 | 类型 | 含义 | 影响数量 |
 |------|------|----------|
-| **智力影响（Intellectual）** | 直接影响学术和产业共同体，涉及科研产出、工业问题解决、人力资本能力提升及教育系统改进 | 6 种（I.1–I.6） |
+| **智力影响（Intellectual）** | 直接影响学术和产业共同体，涉及科研产出、工业[[Problem Solving\|问题解决]]、人力资本能力提升及教育系统改进 | 6 种（I.1–I.6） |
 | **经济影响（Economic）** | 源自新企业创建、创新产品商业化及资源优化配置的财务结果 | 7 种（I.7–I.13） |
 | **技术影响（Technological）** | 因新技术或创新概念实施而产生的影响，涵盖生产率、生活质量和就业等领域 | 3 种（I.14–I.16） |
 | **环境影响（Environmental）** | 合作项目活动直接或间接对环境产生的正负向影响 | 2 种（I.17–I.18） |

@@ -22,6 +22,7 @@ tags:
   - theme/student-outcomes
   - theme/critical-thinking
 related_concepts:
+  - "[[Problem Solving]]"
   - "[[Constructivist Paradigm]]"
   - "[[Problem-Based Learning]]"
   - "[[Lifelong Learning]]"
@@ -56,6 +57,7 @@ related_concepts:
   - "[[Surface and Deep Learning]]"
   - "[[Problem Finding]]"
   - "[[Research Scope]]"
+  - "[[Project-Based Learning]]"
 related_theories:
   - "[[Creative Problem Solving]]"
 related_methods:
@@ -90,7 +92,7 @@ title: "Argument_Erdem_2026_SHE"
 argument_key: "Argument_Erdem_2026_SHE"
 argument_display_title: "Problem-based learning and student outcomes in higher education: A second-order meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 50
+argument_related_count: 52
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -107,7 +109,7 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> 21世纪经济秩序要求雇员具备克服新障碍与参与复杂沟通的能力，问题解决被提升为各领域的关键技能，高等教育机构因此被要求调整课程，以培养面向真实问题、具备高阶认知能力的学生。作为以真实问题为出发点的[[Constructivist Paradigm|建构主义]]教学模式，[[Problem-Based Learning|问题本位学习]]（Problem-Based Learning，PBL）自 1960 年代从医学教育起源，随后在医学、护理、药学、牙科与工程等高等教育专业普及，并被认为符合能力本位教育、可雇佣性与[[Lifelong Learning|终身学习]]的政策趋势。（pp. 950–951）
+> 21世纪经济秩序要求雇员具备克服新障碍与参与复杂沟通的能力，[[Problem Solving|问题解决]]被提升为各领域的关键技能，高等教育机构因此被要求调整课程，以培养面向真实问题、具备高阶认知能力的学生。作为以真实问题为出发点的[[Constructivist Paradigm|建构主义]]教学模式，[[Problem-Based Learning|问题本位学习]]（Problem-Based Learning，PBL）自 1960 年代从医学教育起源，随后在医学、护理、药学、牙科与工程等高等教育专业普及，并被认为符合能力本位教育、可雇佣性与[[Lifelong Learning|终身学习]]的政策趋势。（pp. 950–951）
 >
 > 然而，既有一阶[[Meta-analysis|元分析]]（First-Order Meta-Analysis，FOM）普遍存在三类局限，使 PBL 相对传统讲授式教学的效果仍无定论：
 > - **结果单一** 许多元分析只针对单一结果，如[[Critical Thinking|批判性思维]]（Kong et al., 2014; Liu & Pásztor, 2022）或[[Academic Achievement|学业成就]]（Jensen, 2015; Sugano & Nabua, 2020; Wilder, 2015）；
@@ -139,7 +141,7 @@ issuing_organization: ""
 > 1. **呈现真实问题情景** 学生以真实或拟真的专业问题启动学习，问题成为学习的出发点。（pp. 952–953）
 > 2. **讨论先备知识** 小组调用既有知识解释问题，识别知识缺口（Loyens et al., 2015）。
 > 3. **[[Self-Directed Learning|自我导向学习]]** 学生通过自导学习填补缺口，收集与分析资料。
-> 4. **检验[[Hypothesis|假设]]与评价** 学生检验假设、评估学习结果，在问题解决中整合理解（Begay et al., 2006; Hmelo-Silver, 2004）。
+> 4. **检验[[Hypothesis|假设]]与评价** 学生检验假设、评估学习结果，在[[Problem Solving|问题解决]]中整合理解（Begay et al., 2006; Hmelo-Silver, 2004）。
 > 5. **巩固与反思** 问题解决后巩固理解，发展批判性思维与反思学习能力，并为终身学习做准备。
 
 > [!feature] PBL 关联的学习与认知理论
@@ -225,7 +227,7 @@ issuing_organization: ""
 > | Galvao et al. (2014)a | 理论性知识 | .21 [.08, .35] | 5 | 药学 | 文章 | 非特定 | RCT 与非 RCT | 中等 | 1995–2010 |
 > | Galvao et al. (2014)a | 理论性知识 | .26 [.03, .49] | 5 | 药学 | 文章 | 非特定 | RCT 与非 RCT | 中等 | 1995–2010 |
 > | Zhou et al. (2016) | 理论性知识 | 1.17 [.77, 1.57] | 16 | 药学 | 文章 | 中国、伊朗、韩国 | RCT 与非 RCT | 高 | 1965–2014 |
-> | Sharma et al. (2023) | 批判性思维与问题解决 | .44 [.40, .73] | 8 | 护理 | 文章 | 中国与台湾、伊朗、韩国 | RCT | 高 | 2004–2021 |
+> | Sharma et al. (2023) | 批判性思维与[[Problem Solving\|问题解决]] | .44 [.40, .73] | 8 | 护理 | 文章 | 中国与台湾、伊朗、韩国 | RCT | 高 | 2004–2021 |
 > | Sharma et al. (2023) | 批判性思维与问题解决 | .25 [−.02, .52] | 3 | 护理 | 文章 | 同上 | RCT | 高 | 2004–2021 |
 > | Sharma et al. (2023) | 自信 | .31 [−.02, .65] | 3 | 护理 | 文章 | 同上 | RCT | 高 | 2004–2021 |
 > | Liu & Pásztor (2022) | 批判性思维 | .58 [.41, .75] | 42 | 医学 | 文章 | 非特定 | RCT 与非 RCT | 高 | 2000–2021 |
@@ -301,7 +303,7 @@ issuing_organization: ""
 
 ### 论证步骤一：21世纪技能需求与 PBL 引入高等教育构成问题起点
 
-> [!claim] 21世纪经济对问题解决与高阶认知的要求，使 [[Problem-Based Learning|PBL]] 成为高等教育课程调整的重要方向
+> [!claim] 21世纪经济对[[Problem Solving|问题解决]]与高阶认知的要求，使 PBL 成为高等教育课程调整的重要方向
 > 新的经济秩序与科技发展速度使问题解决成为各领域关键技能，高等教育被要求培养能处理新颖障碍与复杂沟通的学生。PBL 因以真实问题为出发点、强调主动建构与高阶认知，被视为培养批判性、分析性与[[Creative Problem Solving|创造性问题解决]]能力的有效途径，并与能力本位教育、可雇佣性与[[Lifelong Learning|终身学习]]的政策趋势一致。（pp. 950–951）
 
 > [!chain-link] 证据到判断
@@ -514,7 +516,7 @@ issuing_organization: ""
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **[[Problem-Based Learning|PBL]] 在高等教育中对学生结果具有高总体效应** [[Meta-meta-analysis|二阶元分析]]汇总 20 项一阶[[Meta-analysis|元分析]]（469 项独立研究、47 个[[Effect Size|效应量]]），调整后总体效应量为 $d = 0.60$（$CI = [0.49, 0.71]$），观测值为 $d = 0.68$，[[Publication Bias|发表偏倚]]校正不改变结论方向。（pp. 960–961）
+> 1. **PBL 在高等教育中对学生结果具有高总体效应** [[Meta-meta-analysis|二阶元分析]]汇总 20 项一阶[[Meta-analysis|元分析]]（469 项独立研究、47 个[[Effect Size|效应量]]），调整后总体效应量为 $d = 0.60$（$CI = [0.49, 0.71]$），观测值为 $d = 0.68$，[[Publication Bias|发表偏倚]]校正不改变结论方向。（pp. 960–961）
 > 2. **[[Clinical Skills|临床技能]]与[[Student Satisfaction|学生满意度]]效应最高，其余结果效应较高** 临床技能（$d = 1.06$）与学生满意度（$d = 1.10$）属很高，[[Theoretical Knowledge|理论性知识]]（$d = 0.59$）、[[Critical Thinking|批判性思维]]（$d = 0.56$）与态度（$d = 0.57$）属高。（pp. 961–962）
 > 3. **效应变异受结果类型、地域、抽样、质量、报告类型与年份显著调节** 中国情境（$d = 1.10$）、仅含随机对照组的元分析（$d = 0.84$）、高质量元分析（$d = 0.82$）、文章形式（$d = 0.77$）与 2011 年后发表（$ES \approx 0.70–0.77$）均伴随更高效应；专业类型无显著调节。（pp. 961–962）
 > 4. **推广需结合高[[Heterogeneity|异质性]]与轻微发表偏倚谨慎解释** 数据集 $I^2 = 93.70\%$，Egger 回归与[[Trim and Fill Method|剪补法]]提示轻微发表偏倚，医学与护理专业被过度代表；平均效应不能机械推广到所有专业与情境。（pp. 960–961, 965–966）
@@ -530,7 +532,7 @@ issuing_organization: ""
 ## 关键引用
 
 > [!citation-card]- 总体效应与调节[[Variable|变量]]结论
-> 结论是，[[Problem-Based Learning|PBL]] 对学生结果具有显著且高的影响。平均[[Effect Size|效应量]]为 d = .60 [CI = 0.49; 0.71; Q(t) = 757.75]。此外，分析显示，影响 PBL 效应变异的调节变量包括学生结果类型、地理位置、[[Blue Skies Research|基础研究]]所采用的抽样方法、研究质量、发表年份与发表类型。（p. 950）
+> 结论是，PBL 对学生结果具有显著且高的影响。平均[[Effect Size|效应量]]为 d = .60 [CI = 0.49; 0.71; Q(t) = 757.75]。此外，分析显示，影响 PBL 效应变异的调节变量包括学生结果类型、地理位置、[[Blue Skies Research|基础研究]]所采用的抽样方法、研究质量、发表年份与发表类型。（p. 950）
 >
 > *The study concluded that PBL has a significant and high impact on student outcomes. The mean effect size is ES = .60 [CI = 0.49; 0.71; Q(t) = 757.75]. Furthermore, the analysis revealed that the moderators influencing the variability of the effects of PBL encompass the type of student outcome, geographical location, sampling methodology employed in the primary studies, research quality, publication year, and publication type.*
 
@@ -549,7 +551,7 @@ issuing_organization: ""
 ## 自述局限
 
 > [!warning] 原文自述局限与[[Research Scope|研究边界]]（pp. 965–966）
-> - **仅比较 [[Problem-Based Learning|PBL]] 与传统教学模型** 未覆盖以网络工具、计算机、团队工作等富化的 PBL，也未与项目本位学习、案例本位学习等其他模式比较。
+> - **仅比较 PBL 与传统教学模型** 未覆盖以网络工具、计算机、团队工作等富化的 PBL，也未与[[Project-Based Learning|项目本位学习]]、案例本位学习等其他模式比较。
 > - **仅限于高等教育** 未覆盖 K-12 层面，无法进行高等教育与 K-12 的比较。
 > - **仅限于英文发表的一阶[[Meta-analysis|元分析]]** 未纳入其他语言研究。
 > - **非健康科学专业元分析数量有限** 工程、教师教育、法学、社会科学与人文学科的元分析覆盖不足。

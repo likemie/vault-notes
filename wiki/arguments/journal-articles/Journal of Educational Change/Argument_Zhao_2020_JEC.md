@@ -9,7 +9,7 @@ title: "Argument_Zhao_2020_JEC"
 argument_key: "Argument_Zhao_2020_JEC"
 argument_display_title: "Two decades of havoc: A synthesis of criticism against PISA"
 argument_kind: "journal-article"
-argument_related_count: 16
+argument_related_count: 17
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Evaluation Research]]"
   - "[[Construct]]"
   - "[[Hypothesis]]"
+  - "[[Problem Solving]]"
   - "[[Sampling Frame]]"
   - "[[Humility in Learning]]"
   - "[[Creativity]]"
@@ -128,7 +129,7 @@ PISA 的基本前提是[[Hypothesis|假设]]存在一套在所有社会中普遍
 尽管 PISA 声称不根据国家课程或学校知识进行评估，但其结果被解释为教育系统质量的有效衡量标准。PISA 报告在提出教育政策建议方面并不羞涩。作为一股政治力量，PISA 成功地协调和普及了其教育质量定义。结果是，国家教育系统不再需要讨论或反思教育的目的，只需要找到改善 PISA 测量内容的方法（Uljens 2007）。
 
 > [!warning] 窄化的教育目的
-> PISA 将经济增长和竞争力作为教育的唯一目的。它只评估与经济竞争力相关的科目（阅读、数学、科学、财经素养、问题解决），对许多国家课程中占据重要位置的其他科目几乎没有兴趣，如人文、艺术和音乐、体育、社会科学、世界语言、历史和地理（Sjøberg 2015b）。
+> PISA 将经济增长和竞争力作为教育的唯一目的。它只评估与经济竞争力相关的科目（阅读、数学、科学、财经素养、[[Problem Solving|问题解决]]），对许多国家课程中占据重要位置的其他科目几乎没有兴趣，如人文、艺术和音乐、体育、社会科学、世界语言、历史和地理（Sjøberg 2015b）。
 >
 > 虽然为经济参与做准备当然是教育机构的部分责任，但它不能也不应该是唯一的责任。许多国家的教育目的包括公民身份、公平、好奇心和参与、同理心、文化价值、身心健康等。但这些教育目的在基于 PISA 分数和排名的讨论中经常被遗忘或忽视（Sjøberg 2015b, p.113）。
 

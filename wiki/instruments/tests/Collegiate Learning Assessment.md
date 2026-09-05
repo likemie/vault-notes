@@ -31,6 +31,7 @@ tags:
   - cognitive-assessment
 related_concepts:
   - "[[Critical Thinking]]"
+  - "[[Problem Solving]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Learning Gain]]"
   - "[[Reliability]]"
@@ -66,7 +67,7 @@ updated: '2026-08-27'
 > [!instrument-profile] Collegiate Learning Assessment（CLA / CLA+）
 > - **工具类型** 标准化表现性评估与[[Cognitive Ability Test KFT|认知能力测验]]（Standardized Performance-Based Assessment）。
 > - **开发者与年份** [[Council for Aid to Education|美国援助教育理事会]]（Council for Aid to Education, CAE; Benjamin et al., 2000; 2013 年升级为 CLA+）。
-> - **测量目的** 测量高等教育阶段学生的[[Critical Thinking|批判性思维]]、分析推理、问题解决与书面沟通等[[Higher-Order Thinking Skills|高阶思维技能]]，评估院校增值效应（[[VALUE Rubrics|VALUE]]-Added）与[[Learning Gain|学习增益]]。
+> - **测量目的** 测量高等教育阶段学生的[[Critical Thinking|批判性思维]]、分析推理、[[Problem Solving|问题解决]]与书面沟通等[[Higher-Order Thinking Skills|高阶思维技能]]，评估院校增值效应（[[VALUE Rubrics|VALUE]]-Added）与[[Learning Gain|学习增益]]。
 > - **实施方式** 计算机在线施测（总计 90 分钟），结合基于真实文档库的开放式表现任务与情境化选答题。
 
 > [!citation-card]- 核心设计理念
@@ -84,7 +85,7 @@ updated: '2026-08-27'
 > | 维度 | 题项数 / 模块 | 测量内容 | 计分方式 |
 > |---|---|---|---|
 > | **表现任务：分析推理与评价（Analytic Reasoning & Evaluation）** | 1 项综合任务（含文档库） | 评估信息的[[Reliability\|可靠性]]、辨别事实与偏见、识别证据缺口与权衡对立解释的能力。 | 6 分量表评分量规（Rubric-based scoring） |
-> | **表现任务：问题解决（Problem Solving）** | 同上 | 综合多源信息、形成可行方案并对潜在后果进行逻辑推演的能力。 | 6 分量表评分量规 |
+> | **表现任务：[[Problem Solving\|问题解决]]（Problem Solving）** | 同上 | 综合多源信息、形成可行方案并对潜在后果进行逻辑推演的能力。 | 6 分量表评分量规 |
 > | **表现任务：书面有效沟通（Writing Effectiveness）** | 同上 | 观点明确、论证结构严密、逻辑连贯且用词精准的论述表达能力。 | 6 分量表评分量规 |
 > | **表现任务：写作规范（Writing Mechanics）** | 同上 | 语法、标点、拼写及句式结构的规范性与专业性。 | 6 分量表评分量规 |
 > | **选答题：科学与定量推理（Scientific & Quantitative Reasoning）** | 10 题 | 解释实验数据、检验[[Hypothesis\|假设]]、识别统计谬误与因果推论有效性。 | 客观评分（0/1 计分） |

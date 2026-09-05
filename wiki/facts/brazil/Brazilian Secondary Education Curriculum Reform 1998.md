@@ -10,7 +10,7 @@ subtype: policy
 region: brazil
 fact_region: "brazil"
 fact_kind: "policy"
-fact_related_count: 8
+fact_related_count: 9
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[Encyclopaedism]]"
   - "[[Creativity]]"
+  - "[[Problem Solving]]"
   - "[[Floating Signifier]]"
   - "[[Governance by Spin]]"
   - "[[Transfer Translation Transformation]]"
@@ -60,7 +61,7 @@ updated: 2026-06-09
 
 ### 三大领域
 
-课程文件围绕学生必须发展的基本能力和技能来组织，包括[[Creativity|创造力]]、适应性、学会学习、问题解决，分布在三大领域：
+课程文件围绕学生必须发展的基本能力和技能来组织，包括[[Creativity|创造力]]、适应性、学会学习、[[Problem Solving|问题解决]]，分布在三大领域：
 
 - **语言、[[Coding in Qualitative Research|编码]]及其技术（Languages, Codes and their Technologies）**
 - **自然科学、数学及其技术（Natural Sciences, Mathematics and their Technologies）**

@@ -7,7 +7,7 @@ aliases:
 summary: "指基于实证证据对社会、环境与健康议题应对方案进行系统调查、成效评估与局限审视的严谨新闻实践范式；旨在克服传统轰动性负面报道引发的“新闻回避”与受众习得性无助，在肯定行动希望的同时恪守证据批判与反思边界。"
 type: concept
 domain: "communication-discourse"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Science Journalism]]"
   - "[[Learned Helplessness]]"
+  - "[[Problem Solving]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Dialogue in Education]]"
   - "[[Critical Thinking Disposition]]"
@@ -76,7 +77,7 @@ updated: 2026-09-04
 > | **叙事焦点** | “针对该问题已有何种应对？效果如何？代价是什么？” | “发生了何种恶性危机？谁应当为此承担责任？” | “某机构或个人取得了多么伟大的突破性成就！” |
 > | **证据要求** | 严格核验定量产出、对照实验、评估局限与适用边界 | 搜集违规事实证据、内部泄密文件与证人证言 | 选取单方肯定性引言、展示定型成果与剪彩仪式 |
 > | **受众心理影响** | 激发公共参与效能感、理解复杂性并建立理性希望 | 引发道德义愤、社会警觉，但易诱发疲倦与[[Learned Helplessness\|习得性无助]] | 产生廉价的表层愉悦，或引发公众对过度包装的怀疑 |
-> | **对科学的呈现** | 呈现科学作为动态试错、持续迭代的问题解决工具 | 聚焦学术不端、伦理丑闻或科研经费[[Conflict of Interest in Research\|利益冲突]] | 将科研成果神化为不可置疑的终极技术奇迹 |
+> | **对科学的呈现** | 呈现科学作为动态试错、持续迭代的[[Problem Solving\|问题解决]]工具 | 聚焦学术不端、伦理丑闻或科研经费[[Conflict of Interest in Research\|利益冲突]] | 将科研成果神化为不可置疑的终极技术奇迹 |
 
 ---
 
@@ -133,7 +134,7 @@ updated: 2026-09-04
 > 科学研究绝不仅是抽象定律的推导，其本质是通过实证探索提供应对疾病、饥荒、生态崩溃与能源转型的实际手段，与解决方案新闻具有天然的内在契合。
 
 > [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026)]]
-> **科学作为建设性新闻的供给策源地** 英国广播公司（BBC）受众调研显示，超过 92% 的英国公众对科学议题保持着强烈求知欲，62% 的人明确表达希望看到更多科学报道；科学共同体拥有源源不断的问题解决案例（如疫苗技术迭代、清洁能源突破、土壤修复实践），新闻界应当主动将科学界的方案探索置于采编优先位置，引导公众从被动恐慌转向理性建设。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, pp. 59, 63)]]
+> **科学作为建设性新闻的供给策源地** 英国广播公司（BBC）受众调研显示，超过 92% 的英国公众对科学议题保持着强烈求知欲，62% 的人明确表达希望看到更多科学报道；科学共同体拥有源源不断的[[Problem Solving|问题解决]]案例（如疫苗技术迭代、清洁能源突破、土壤修复实践），新闻界应当主动将科学界的方案探索置于采编优先位置，引导公众从被动恐慌转向理性建设。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, pp. 59, 63)]]
 
 ---
 

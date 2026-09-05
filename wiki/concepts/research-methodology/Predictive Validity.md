@@ -8,7 +8,7 @@ aliases:
 summary: "效标关联效度的一种核心形式，衡量测量工具在当前时间点的得分对受试者未来认知表现、学业成就或实际成果的预测能力，核心特征是具有时滞性与预测效度不对称性"
 type: concept
 domain: "research-methodology"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Criterion-related Validity]]"
   - "[[Academic Achievement]]"
   - "[[Independent Variable]]"
+  - "[[Problem Solving]]"
   - "[[Creativity]]"
   - "[[Concurrent Validity]]"
   - "[[Construct Validity]]"
@@ -79,7 +80,7 @@ updated: 2026-08-24
 > - **边界** 预测效度不评估测验工具的内在理论结构，而是通过与未来真实结果的统计关联提供外部实证支持。
 
 > [!citation-card]- 关键表述
-> 这一区分反映了这样一个事实：有时特质被定义为一种结果或产物并在分析中作为效标；而在其他时候，研究将其作为[[Independent Variable|预测变量]]去预测后续健康、问题解决或学业成功等其他结果，展现出更高的实证关联系数。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 2–3)]]
+> 这一区分反映了这样一个事实：有时特质被定义为一种结果或产物并在分析中作为效标；而在其他时候，研究将其作为[[Independent Variable|预测变量]]去预测后续健康、[[Problem Solving|问题解决]]或学业成功等其他结果，展现出更高的实证关联系数。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 2–3)]]
 >
 > *The distinction reflects the fact that sometimes [[Creativity]] is defined as an outcome or result and used in analyses as the criterion... Other times the research has used creativity as a predictor and there are other outcomes (e.g., health or problem solving or academic success)...*
 

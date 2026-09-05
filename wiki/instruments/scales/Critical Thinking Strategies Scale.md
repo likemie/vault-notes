@@ -22,6 +22,7 @@ tags:
   - instrument/self-report
 related_concepts:
   - "[[Critical Thinking]]"
+  - "[[Problem Solving]]"
 related_theories: []
 related_methods:
   - "[[Exploratory Factor Analysis]]"
@@ -45,7 +46,7 @@ updated: 2026-08-03
 > [!instrument-profile] [[Critical Thinking|批判性思维]]策略量表
 > - **工具类型** 十四题自陈量表，依据 Delphi Report 的批判性思维技能框架开发。
 > - **开发者与年份** [[Argument_Cole_2015_AJE|Cole et al. (2015)]]。
-> - **测量目的** 测量学生自报在问题解决和论证过程中使用批判性思维策略的可能性。
+> - **测量目的** 测量学生自报在[[Problem Solving|问题解决]]和论证过程中使用批判性思维策略的可能性。
 > - **实施方式** 自陈。
 
 ---

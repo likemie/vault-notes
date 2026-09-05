@@ -7,7 +7,7 @@ summary: "行动研究的政治化版本，以集体参与、赋权和解放为�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 16
+method_related_count: 17
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Hypothesis]]"
   - "[[Chain of Evidence]]"
+  - "[[Problem Solving]]"
 related_theories:
   - "[[Critical Theory]]"
 related_methods:
@@ -150,7 +151,7 @@ PAR 的议程由参与者自身识别，因此扎根于现实、真实且由参�
 
 PAR 遵循[[Action Research|行动研究]]的基本螺旋循环，但强调参与者在所有阶段的集体控制和所有权——包括问题识别、研究设计、数据收集、分析和行动。研究议程由参与者自身识别，因此扎根于现实、真实且由参与者和社区自身拥有。
 
-David（2002）指出[[Participatory Research|参与式研究]]打破了研究者与参与者的分离，权力被平等化，他们可能都是同一共同体的成员。研究成为一项集体和共享的事业，涵盖：研究兴趣、议程和问题；数据的生成和分析；对研究成果、产出和用途的权力和控制权的平等化；参与者声音、作者权和所有权的发展；过程导向和问题解决方法；解放议程和政治目标；以及伦理责任和行为。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, p. 264)]]
+David（2002）指出[[Participatory Research|参与式研究]]打破了研究者与参与者的分离，权力被平等化，他们可能都是同一共同体的成员。研究成为一项集体和共享的事业，涵盖：研究兴趣、议程和问题；数据的生成和分析；对研究成果、产出和用途的权力和控制权的平等化；参与者声音、作者权和所有权的发展；过程导向和[[Problem Solving|问题解决]]方法；解放议程和政治目标；以及伦理责任和行为。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, p. 264)]]
 
 PAR 不要求所有参与者做同样的事。这为研究者保留了促进者、引导者、知识制定者和总结者、议题提出者的角色（Weiskopf & Laske, 1996, pp. 132–133）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, p. 271)]]
 
@@ -161,7 +162,7 @@ PAR 不要求所有参与者做同样的事。这为研究者保留了促进者�
 > [!method-fit] 适用判断
 > - **适合使用** 涉及权力不平等和边缘群体的社会和教育变革；社区发展；基层组织和赋权；关注社会正义、民主参与和结构性变革的研究。
 > - **谨慎使用** 参与者之间权力差异过大而难以建立对称沟通时；体制环境高度层级化和官僚化而抵制民主参与时。
-> - **不适合使用** 纯技术性问题解决（技术性[[Action Research|行动研究]]更合适）；个人[[Reflexivity|反思性]]实践（实践性行动研究更合适）；对变革结果需要严格控制测量的情境。
+> - **不适合使用** 纯技术性[[Problem Solving|问题解决]]（技术性[[Action Research|行动研究]]更合适）；个人[[Reflexivity|反思性]]实践（实践性行动研究更合适）；对变革结果需要严格控制测量的情境。
 
 ---
 

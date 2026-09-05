@@ -8,7 +8,7 @@ summary: "美国哲学家、心理学家与教育改革家，实用主义与进�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 44
+person_related_count: 45
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Hypothesis]]"
   - "[[Banking Model of Education]]"
+  - "[[Problem Solving]]"
   - "[[Rote Learning]]"
   - "[[Technical Rationality]]"
   - "[[Classroom Management]]"
@@ -128,7 +129,7 @@ updated: 2026-07-25
 > [!claim] 核心主张
 > 杜威的思想是一套关于经验、探究、民主与社会更新相互支撑的完整哲学体系。教育不是为未来生活做准备，而是社会生活连续更新的过程。学校应作为简化、净化与组织社会经验的特殊环境；探究应作为公开检验与修正在动作中形成的[[Hypothesis|假设]]；民主不仅是政治政体，更是自由交流与共同解决问题的“联合生活方式”（Dewey [1916] 2018, pp.93, 146–147）。
 > 
-> 在现代课程与教育哲学[[Dialogue in Education|对话]]中，杜威被确立为[[Active Learning|主动学习]]（Active Learning）的核心奠基人：他否定将学生视作“加仑事实”灌输容器的[[Banking Model of Education|储蓄式教育]]，强调只有赋予学生[[Freedom of the Learner|学习者的自由]]与能动主体（Subjects）地位，教育才能发生；[[Critical Thinking|批判性思维]]必须建立在“做”（doing）与问题解决之上，而[[Dialogue in Education|对话]]则是社区成员在民主互动中“共享经验的过程”，其终极目标在于实现个体的[[Growth|生长]]与自我实现（Self-realization） [[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 6–10)]]。
+> 在现代课程与教育哲学[[Dialogue in Education|对话]]中，杜威被确立为[[Active Learning|主动学习]]（Active Learning）的核心奠基人：他否定将学生视作“加仑事实”灌输容器的[[Banking Model of Education|储蓄式教育]]，强调只有赋予学生[[Freedom of the Learner|学习者的自由]]与能动主体（Subjects）地位，教育才能发生；[[Critical Thinking|批判性思维]]必须建立在“做”（doing）与[[Problem Solving|问题解决]]之上，而[[Dialogue in Education|对话]]则是社区成员在民主互动中“共享经验的过程”，其终极目标在于实现个体的[[Growth|生长]]与自我实现（Self-realization） [[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 6–10)]]。
 
 > [!theory-components] 三环节主动学习与[[Pragmatic Paradigm|实用主义]]教育哲学构件
 > - **在“做”（doing）中探究与[[Critical Thinking|批判性思维]]**

@@ -9,7 +9,7 @@ aliases:
 summary: "衡量学生在高等教育阶段从入学到毕业期间在知识储备、高阶思维技能、工作就绪度及个人发展等维度所获得的净增长或纵向发展距离"
 type: concept
 domain: "higher-education"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Higher-Order Thinking Skills]]"
   - "[[Critical Thinking]]"
   - "[[Creativity]]"
+  - "[[Problem Solving]]"
   - "[[Pre-test and Post-test]]"
   - "[[Growth]]"
   - "[[Incommensurability]]"
@@ -66,7 +67,7 @@ updated: '2026-08-27'
 ## 定义
 
 > [!def] 核心定义
-> 学习增益（Learning Gain，也常称学习增值或 [[VALUE Rubrics|VALUE]]-Added）是指学生在高等教育求学期间（从入学到毕业），在专业知识、[[Higher-Order Thinking Skills|高阶思维技能]]（如[[Critical Thinking|批判性思维]]、[[Creativity|创造力]]与问题解决）、就业就绪度（Work-Readiness）以及个人综合素养等方面所获得的纵向能力进步与净增长幅度。它突破了传统以入学成绩、名校声誉或静态文凭等级为主的质量评价模式，转而通过前[[Pre-test and Post-test|后测]]对比或增值模型（Value-Added Modeling）直接评估院校教学与培养过程对学生认知发展的实际赋能效果。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 17–18)]]; Kandiko Howson (2018); McGrath et al. (2015)
+> 学习增益（Learning Gain，也常称学习增值或 [[VALUE Rubrics|VALUE]]-Added）是指学生在高等教育求学期间（从入学到毕业），在专业知识、[[Higher-Order Thinking Skills|高阶思维技能]]（如[[Critical Thinking|批判性思维]]、[[Creativity|创造力]]与[[Problem Solving|问题解决]]）、就业就绪度（Work-Readiness）以及个人综合素养等方面所获得的纵向能力进步与净增长幅度。它突破了传统以入学成绩、名校声誉或静态文凭等级为主的质量评价模式，转而通过前[[Pre-test and Post-test|后测]]对比或增值模型（Value-Added Modeling）直接评估院校教学与培养过程对学生认知发展的实际赋能效果。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 17–18)]]; Kandiko Howson (2018); McGrath et al. (2015)
 
 > [!concept-lens] 概念透镜
 > - **含义** 关注学生在大学教育全过程中认知与实践能力的“[[Growth|成长]]距离”（Distance Travelled），而非初始选拔生源的优劣。
@@ -99,7 +100,7 @@ updated: '2026-08-27'
 > 探讨增值评价如何使教育质量评估聚焦于真实教学产出与学生[[Growth|成长]]。
 
 > [!claim] [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]]
-> **增值导向对教学质量问责的重塑** 长期以来，高等教育质量评估过度依赖生源质量、科研产出与经费规模等输入与声誉指标，难以证明大学教育究竟为学生认知带来了何种实质增值（Arum & Roksa, 2011; Bok, 2006）。学习增益理念将评价焦点转移到学生高阶认知能力（[[Critical Thinking|批判性思维]]、创新问题解决）的实际增量上，促使高校关注教学法改进与课程对齐（[[Constructive Alignment]]）。德国 [[KoKoHs Program|KoKoHs]] 项目、英国 Learning Gain 计划以及意大利 [[TECO Project|TECO]] 试点均表明，系统测量学习增益能够为院校改进教学提供直接实证反馈。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 4, 16–18)]]
+> **增值导向对教学质量问责的重塑** 长期以来，高等教育质量评估过度依赖生源质量、科研产出与经费规模等输入与声誉指标，难以证明大学教育究竟为学生认知带来了何种实质增值（Arum & Roksa, 2011; Bok, 2006）。学习增益理念将评价焦点转移到学生高阶认知能力（[[Critical Thinking|批判性思维]]、创新[[Problem Solving|问题解决]]）的实际增量上，促使高校关注教学法改进与课程对齐（[[Constructive Alignment]]）。德国 [[KoKoHs Program|KoKoHs]] 项目、英国 Learning Gain 计划以及意大利 [[TECO Project|TECO]] 试点均表明，系统测量学习增益能够为院校改进教学提供直接实证反馈。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 4, 16–18)]]
 
 ---
 

@@ -8,7 +8,7 @@ aliases:
 summary: "通过整体进路承载而非消解意义张力的实践方法论，适合在复杂社会情境中识别行动可能性和生命力重组过程"
 type: concept
 domain: "educational-philosophy"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Tense Society]]"
   - "[[Life Power]]"
+  - "[[Problem Solving]]"
   - "[[Ecomuseology]]"
   - "[[Epistemology]]"
   - "[[Operationalization]]"
@@ -59,7 +60,7 @@ updated: '2026-08-27'
 
 > [!example]
 > - vs **整全方法论（holistic approach）** Delambre 明确区分 Ganz 与 holistic——后者暗示一个静态的、可被完整把握的整体，而 Ganz 强调整体始终在张力和运动之中，永远不能被一次性捕捉([[Argument_Delambre_2022_Springer|Delambre, 2022, p.112]])
-> - vs **问题解决导向方法** 常规方法论以"解决问题"或"消解张力"为目标，而 Ganz-Methode 的核心是**承载张力**而非消解张力——允许新旧共存，为内部变化留出时间
+> - vs **[[Problem Solving|问题解决]]导向方法** 常规方法论以"解决问题"或"消解张力"为目标，而 Ganz-Methode 的核心是**承载张力**而非消解张力——允许新旧共存，为内部变化留出时间
 
 ## 概念演变
 

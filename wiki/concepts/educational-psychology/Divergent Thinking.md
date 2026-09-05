@@ -10,7 +10,7 @@ aliases:
 summary: "从单一问题或起点向多个不同方向生成多样化、新颖与丰富构想的认知探索过程，是创造潜能与发散性认知加工的核心操作化构念。"
 type: concept
 domain: "educational-psychology"
-related_count: 43
+related_count: 49
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -34,21 +34,25 @@ related_concepts:
   - "[[Creativity Training]]"
   - "[[Working Memory]]"
   - "[[Graphic Organizer]]"
+  - "[[Mind Mapping]]"
+  - "[[Problem Solving]]"
   - "[[Brainstorming]]"
   - "[[Illusion of Competence]]"
   - "[[Structured Teaching]]"
+  - "[[Higher-Order Thinking Skills]]"
+  - "[[Critical Thinking]]"
   - "[[Document]]"
   - "[[Concept Mapping]]"
   - "[[Creativity Assessment]]"
+  - "[[Self-Regulated Learning]]"
   - "[[Predictive Validity]]"
   - "[[Criterion Problem]]"
   - "[[Prediction Interval]]"
   - "[[Dependent Variable]]"
+  - "[[Problem-Based Learning]]"
   - "[[Publication Bias]]"
   - "[[Generative Artificial Intelligence]]"
-  - "[[Mind Mapping]]"
   - "[[Externalization]]"
-  - "[[Higher-Order Thinking Skills]]"
 related_theories:
   - "[[Creative Problem Solving]]"
 related_methods:
@@ -57,6 +61,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Three-Level Meta-Analysis]]"
   - "[[Systematic Review]]"
+  - "[[Experimental Research]]"
 related_instruments:
   - "[[Alternate Uses Test]]"
   - "[[Torrance Tests of Creative Thinking]]"
@@ -69,10 +74,11 @@ related_arguments:
   - "[[Argument_Lei_Ding_Chiu_2026_ERR]]"
   - "[[Argument_Li_2026_CEAI]]"
   - "[[Argument_Guo_2025_TSC]]"
+  - "[[Argument_Zhao_2025_JIntell]]"
 confidence: high
 status: active
 created: 2026-08-23
-updated: 2026-09-03
+updated: 2026-09-05
 ---
 
 # Divergent Thinking
@@ -171,10 +177,10 @@ updated: 2026-09-03
 > 外部教学设计、显式言语反馈与认知策略训练对发散思维表现具有显著的促进效应，表明发散思维是一种高度可塑的认知技能。
 
 > [!claim] Runco et al.
-> **干预与指导对发散生成的促进效应** 针对创造性思维与发散生成的专门干预程序（如[[Creative Problem Solving|创造性问题解决模型]]、普渡创造性思维计划）及显式指导语（Explicit Instructions; Acar et al., 2020），在一阶与二阶[[Meta-analysis|元分析]]中均表现出稳健的正向促进效应（$r = 0.20$），证明发散思维能够通过教学设计得到有效激发。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 6–8)]]
+> **干预与指导对发散生成的促进效应** 针对创造性思维与发散生成的专门干预程序（如[[Creative Problem Solving|创造性问题解决模型]]、普渡创造性思维计划）及显式指导语（Explicit Instructions; Acar et al., 2020），在一阶与二阶[[Meta-analysis|元分析]]中均表现出稳健的正向促进效应，证明发散思维能够通过教学设计得到有效激发。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 6–8)]]
 
 > [!claim] Guo et al.
-> **言语与思维干预对发散思维的强效驱动与时间窗口** [[Three-Level Meta-Analysis|多层元分析]]（29 项研究，109 个效应量）证实，[[Creativity Training|创造力训练]]能显著提升大学生的发散思维与创造性思维表现（$g = 0.671$），在各子维度中增益居首；其中言语发散训练（$g = 0.998$）与启发式思维训练（$g = 0.762$）展现出最强效能，且个体独立发散练习（$g = 0.682$）优于群体协作（$g = 0.567$），并呈现 $< 2$ 个月的倒 U 型黄金干预窗口（$g = 0.844$）。[[Argument_Guo_2025_TSC|(Guo et al., 2025, pp. 6–9)]]
+> **言语与思维干预对发散思维的强效驱动与时间窗口** [[Three-Level Meta-Analysis|多层元分析]]证实，[[Creativity Training|创造力训练]]能显著提升大学生的发散思维与创造性思维表现，在各子维度中增益居首；其中言语发散训练与启发式思维训练展现出最强效能，且个体独立发散练习优于群体协作，并呈现中短期倒 U 型黄金干预窗口。[[Argument_Guo_2025_TSC|(Guo et al., 2025, pp. 6–9)]]
 
 ---
 
@@ -184,17 +190,20 @@ updated: 2026-09-03
 > 空间拓扑结构将低阶信息外显化，释放[[Working Memory|工作记忆]]并激活放射状语义联结，对发散思维的赋能显著超越[[Convergent Thinking|聚合思维]]。
 
 > [!claim] Lei et al.
-> **发散思维对空间表征工具的高度敏感性** 大样本元分析表明，[[Graphic Organizer|图形组织器]]对发散思维具有高达 $g = 1.167$ 的强效促进作用，显著高于对聚合思维的促进幅度（$g = 0.680, Q_b = 7.07, p < .01$）。特别是以单一主题为中心向外放射多级分支的思维导图（$g = 1.041$），以极低的结构规则门槛最大化激活了学习者的观念流畅性与联想独创性，证实空间可视化支架是培育发散思维的高效认知工具。[[Argument_Lei_Ding_Chiu_2026_ERR|(Lei et al., 2026, pp. 3–4, 9–11)]]
+> **发散思维对空间表征工具的高度敏感性** 大样本元分析表明，[[Graphic Organizer|图形组织器]]对发散思维具有强效促进作用，显著高于对聚合思维的促进幅度。特别是以单一主题为中心向外放射多级分支的[[Mind Mapping|思维导图]]，以极低的结构规则门槛最大化激活了学习者的观念流畅性与联想独创性，证实空间可视化支架是培育发散思维的高效认知工具。[[Argument_Lei_Ding_Chiu_2026_ERR|(Lei et al., 2026, pp. 3–4, 9–11)]]
 
 ---
 
 ### 命题四　生成式 AI 具有发散构想催化与思维早熟收敛压制的双向调节效应
 
 > [!concept-lens] 人机协同发散与心智惰性风险
-> 大模型在问题解决初期能极大降低构想门槛，但自由使用下极易诱发思维早熟收敛与主体性剥落。
+> 大模型在[[Problem Solving|问题解决]]初期能极大降低构想门槛，但自由使用下极易诱发思维早熟收敛与主体性剥落。
 
 > [!claim] Urban et al.; Awal; Li et al.
-> **AI 发散赋能与早熟收敛张力** 在 31 项高等教育实证研究中，生成式 AI 被确认为发散思维与[[Brainstorming|头脑风暴]]的高效脚手架，能显著提升托兰斯测验（[[Torrance Tests of Creative Thinking|TTCT]]）及[[Alternate Uses Test|另类用途测验]]（AUT）的发散流畅性与精细性得分（Urban et al., 2024）；然而，在缺乏强制迭代修改任务的场景中，超过 45% 的学生在获取首轮 AI 构想后立即停止进一步探索（Awal, 2024），产生严重的[[Illusion of Competence|能力错觉]]与构想惰性。只有在[[Structured Teaching|结构化教学]]（如二次解构与多重视角辩护）引导下，AI 的发散潜能才能转化为深层创造力。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 7–8, 11)]]
+> **AI 发散赋能与早熟收敛张力** 在高等教育实证研究中，生成式 AI 被确认为发散思维与[[Brainstorming|头脑风暴]]的高效脚手架，能显著提升托兰斯测验（[[Torrance Tests of Creative Thinking|TTCT]]）及[[Alternate Uses Test|另类用途测验]]（AUT）的发散流畅性与精细性得分（Urban et al., 2024）；然而，在缺乏强制迭代修改任务的场景中，大量学生在获取首轮 AI 构想后立即停止进一步探索（Awal, 2024），产生严重的[[Illusion of Competence|能力错觉]]与构想惰性。只有在[[Structured Teaching|结构化教学]]（如二次解构与多重视角辩护）引导下，AI 的发散潜能才能转化为深层创造力。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 7–8, 11)]]
+
+> [!claim] Zhao et al.
+> **生成式 AI 助推构想发散但受限于内容千篇一律的瓶颈** 一阶[[Meta-analysis|元分析]]证实，生成式 AI 对创造力与发散思维（包含 TTCT 发散测验、多模态草图生成与开放方案构思）表现出显著的正向促进作用；然而，该促学效应在[[Higher-Order Thinking Skills|高阶思维]]三大认知维度中位列末位，显著低于良构问题解决与[[Critical Thinking|批判性思维]]。研究者阐明，大语言模型倾向于输出最常见、合乎常理的通用套路（即概率最高的大众平均答案）；学生若缺乏深入追问和多轮对抗迭代，极易陷入“捷径式学习”（Shortcut Learning），致使发散构想局限于表面平滑重组，难以突破常规获得真正独特的创新亮点。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 10–11, 13–14)]]
 
 ---
 
@@ -203,10 +212,10 @@ updated: 2026-09-03
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表[[Document\|文献]] |
 > |---|---|---|---|
-> | **过程构件定位** | 发散思维是创造潜能的重要指标，效应适中（$r = 0.14$ vs 综合过程 $0.27$） | 认知测评与创造力预测 | [[Mark A. Runco\|Runco et al. (2026)]]; Cropley (2006) |
-> | **教学干预可塑性** | 发散思维可通过显式指导语与专门训练显著提升（$r = 0.20$），言语认知干预增益居首（$g = 0.998$），呈现倒 U 型时间窗口（$< 2$ 个月 $g = 0.844$） | 课堂思维教学、工作坊与训练课程 | Acar et al. (2020); [[Mark A. Runco\|Runco et al. (2026)]]; [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] |
-> | **空间脚手架赋能** | 图形组织器对发散思维促进强效（$g = 1.167$），显著强于聚合思维（$g = 0.680$） | 空间可视化与[[Concept Mapping\|概念图]]示工具 | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei, Ding & Chiu (2026)]] |
-> | **AI 交互双刃剑** | AI 显著催化构想发散（$n=31$），但无支架下诱发 45% 构想早熟收敛 | 智能技术环境与人机协同学习 | Urban et al. (2024); Awal (2024); [[Argument_Li_2026_CEAI\|Li et al. (2026)]] |
+> | **过程构件定位** | 发散思维是创造潜能的重要指标，效应适中，属于创造力综合过程构件 | 认知测评与创造力预测 | [[Mark A. Runco\|Runco et al. (2026)]]; Cropley (2006) |
+> | **教学干预可塑性** | 发散思维可通过显式指导语与专门训练显著提升，言语认知干预增益居首，呈现中短期倒 U 型时间窗口 | 课堂思维教学、工作坊与训练课程 | Acar et al. (2020); [[Mark A. Runco\|Runco et al. (2026)]]; [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] |
+> | **空间脚手架赋能** | 图形组织器对发散思维促进强效，且显著强于聚合思维 | 空间可视化与[[Concept Mapping\|概念图]]示工具 | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei, Ding & Chiu (2026)]] |
+> | **AI 交互双刃剑** | AI 显著催化构想发散但对创造力整体促进有限，无支架下容易浅尝辄止并陷入通用套路同质化 | 智能技术环境与人机协同学习 | Urban et al. (2024); Awal (2024); [[Argument_Li_2026_CEAI\|Li et al. (2026)]]; [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] |
 
 ---
 
@@ -216,7 +225,7 @@ updated: 2026-09-03
 > - **1950s — 吉尔福特提出智力结构模型** Guilford 正式区分发散思维与[[Convergent Thinking|聚合思维]]，确立流畅性、灵活性与独创性等评估维度。
 > - **1960s–1970s — 托兰斯创造思维测验与标准化测评** Torrance 研发标准化纸笔与图形测验，发散思维成为全球[[Creativity Assessment|创造力评估]]的主流指标。
 > - **1990s–2000s — 观念行为理论与认知整合模型** Runco 等提出观念生成理论，将发散思维嵌入日常[[Runco Ideational Behavior Scale|观念行为量表]]（RIBS）与[[Problem Finding|问题发现]]框架。
-> - **2020–2025 年 — [[Meta-analysis|元分析]]与[[Meta-meta-analysis|二阶元分析]]的量化确立** [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] 运用二阶元分析确立发散思维（$r = 0.14$）基准效应；[[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] 实证确立空间组织器对发散思维的强促学效应（$g = 1.167$）；[[Argument_Guo_2025_TSC|Guo et al. (2025)]] 运用[[Three-Level Meta-Analysis|多层元分析]]确立干预对发散[[Creativity|创造性思维]]的高增益（$g = 0.671$）与言语训练优势（$g = 0.998$）。
+> - **2020–2025 年 — [[Meta-analysis|元分析]]与[[Meta-meta-analysis|二阶元分析]]的量化确立** [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] 运用二阶元分析确立发散思维（$r = 0.14$）基准效应；[[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] 实证确立空间组织器对发散思维的强促学效应（$g = 1.167$）；[[Argument_Guo_2025_TSC|Guo et al. (2025)]] 运用[[Three-Level Meta-Analysis|多层元分析]]确立干预对发散[[Creativity|创造性思维]]的高增益（$g = 0.671$）与言语训练优势（$g = 0.998$）；[[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] 基于 29 项实验元分析确立生成式 AI 对创造性发散思维的中等促进效应（$g = 0.444$），并揭示时长倒 U 型曲线与 [[Self-Regulated Learning|SRL]] 免疫机制。
 > - **2026 年 — 生成式 AI 时代的发散重构** [[Argument_Li_2026_CEAI|Li et al. (2026)]] [[Systematic Review|系统综述]] 67 项高校实证，确立生成式 AI 作为发散思维“低门槛构想放大器”与“早熟收敛风险源”的二元特征。
 
 ---
@@ -235,7 +244,7 @@ updated: 2026-09-03
 > > 争论 AI 生成海量方案究竟是拓展了人类想象力，还是将人类思维锁定在算法训练集的统计平均值内。
 > >
 > > - **赋能论（Urban et al. / Li et al.）** 实证表明 AI 能迅速打破空白文档的起始创作焦虑，显著提升 [[Alternate Uses Test|AUT]] 发散广度。
-> > - **侵蚀论（Monib et al. / Li et al.）** 警示 AI 产出具有平滑均质特征，直接采纳会剥落学生的独特学术声音，导致创造力早熟收敛。
+> > - **侵蚀论（Monib et al. / Li et al. / Zhao et al.）** 警示 AI 产出具有平滑均质特征，直接采纳会剥落学生的独特学术声音，导致创造力早熟收敛；[[Meta-analysis|元分析]]实证亦显示其促进效应（$g = 0.444$）显著低于结构性[[Problem Solving|问题解决]]与批判反思，折射出概率生成模型对违背常规新颖性的天然阻抗。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 13–14)]]
 
 ---
 
@@ -248,6 +257,7 @@ updated: 2026-09-03
 > |---|---|---|---|---|---|---|
 > | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | **[[Dependent Variable\|结果变量]]** 检验[[Graphic Organizer\|图形组织器]]教学干预对发散思维（Divergent Thinking）的促进效应 | $k = 14$ / — | Hedges' $g$；随机效应模型 | $g = 1.167$, $95\%\text{ CI} = [0.841, 1.493]$ | $I^2 = 82.2\%$；$Q_b = 7.07, p < .01$（对比聚合思维） | 涵盖 14 项独立效应量，以思维导图为代表的空间分支工具促进效应最为突出 |
 > | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | **结果[[Variable\|变量]]** [[Creativity Training\|创造力训练]]项目对大学生发散思维与[[Creativity\|创造性思维]]（Creative thinking）的综合提升 | $k = 29$ (24 ES) / — | Hedges' $g$；多层随机效应模型 | $g = 0.671$, $95\%\text{ CI} = [0.439, 0.903]$ | $Z = 5.675, p < .001$；全集 $Q(28) = 178.51, I^2 = 84.31\%$ | 涵盖 TTCT-F/V、ATTA 等经典任务，增益居所有构念子维度之首 |
+| [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | **[[Dependent Variable\|结果变量]]** 生成式 AI 对学生创造力与发散思维（Creativity & Divergent Thinking）的干预效应 | $k = 23$ / — | Hedges' $g$；随机效应模型 | $g = 0.444$, $95\%\text{ CI} = [0.259, 0.629]$ | $Z = 4.698, p < .001$；全集 $Q(58) = 255.208, I^2 = 77.273\%$ | 涵盖 TTCT、多模态草图生成与开放方案构思测验；效应在三大高阶思维中位列末位，揭示算法概率输出对违背常规新颖性的制约 |
 
 > [!ma-table]- 一阶元分析互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
@@ -259,6 +269,9 @@ updated: 2026-09-03
 > | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 结果变量（训练方式） | 言语训练（$N = 15$） vs 思维训练（$N = 13$） vs 技术型（$N = 20$） | $N = 48$ | 言语 $g = 0.998$；思维 $g = 0.762$；技术型 $g = 0.552$ | 组间差异显著（$p < .001$） | 言语符号即时外化与启发式策略对发散任务赋能最强 |
 > | 同上 | 结果变量（组织形式） | 独立个体练习（$N = 48$） vs 小组协作（$N = 61$） | $N = 109$ | 独立 $g = 0.682$ $[0.501, 0.863]$；小组 $g = 0.567$ $[0.462, 0.673]$ | $Z = 7.38\ (p < .001)$ | 个体深思有效规避群体评价顾虑与生产力阻塞 |
 > | 同上 | 结果变量（干预周期） | $< 2$ 个月（$N = 30$） vs $< 1$ 周（$N = 37$） vs $< 3$ 年（$N = 5$） | $N = 72$ | $< 2$ 个月 $g = 0.844$；$< 1$ 周 $g = 0.576$；$< 3$ 年 $g = -0.122$ | 元回归解释 13.4% 组间方差 | 呈现倒 U 型时间曲线，中短期强化训练最具效能 |
+> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 结果[[Variable\|变量]]（干预时长） | 0–8 周（$k = 15$） vs 8–16 周（$k = 31$） vs $>16$ 周（$k = 13$） | $k = 59$ / — | 0–8 周 $g = 0.494$；8–16 周 $g = 0.759$；$>16$ 周 $g = 0.372$ | $Q_b = 9.106, df = 2, p = 0.011$ | 呈现显著倒 U 型时间曲线，8–16 周为技术接纳与深层内化黄金窗口，长期缺乏支架易致思维怠惰 |
+> | 同上 | 结果变量（[[Self-Regulated Learning\|自主调节学习]]） | 高 [[Self-Regulated Learning\|SRL]] 能力组（$k = 31$） vs 低 SRL 能力组（$k = 25$） | $k = 56$ / — | 高 SRL $g = 0.863$ $[0.679, 1.048]$；低 SRL $g = 0.284$ $[0.188, 0.380]$ | $Q_b = 40.962, df = 1, p < 0.001$ | 自我调节构成决定性分水岭，高能动性学习者有效将 AI 转化为发散中介并防范认知外包 |
+> | 同上 | 结果变量（教学模式） | 讲授式（$k = 6$） vs [[Problem-Based Learning\|项目式学习]]（$k = 31$） vs 混合式（$k = 22$） | $k = 59$ / — | 讲授式 $g = 0.396$（不显著）；项目式 $g = 0.717$；混合式 $g = 0.525$ | $Q_b = 2.918, df = 2, p = 0.232$ | 真实任务驱动的项目式探究更能激发高阶发散与方案重组潜能 |
 
 > [!ma-table]- [[Meta-meta-analysis|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
@@ -297,4 +310,5 @@ updated: 2026-09-03
 > - [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] — 运用随机效应[[Meta-analysis|元分析]]检验[[Graphic Organizer|图形组织器]]对发散思维的促进作用，证实空间可视化工具对发散性[[Higher-Order Thinking Skills|高阶思维]]（$g = 1.167$）的提升显著强于[[Convergent Thinking|聚合思维]]（$g = 0.680$）。
 > - [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] — 在[[Meta-meta-analysis|二阶元分析]]中将发散思维与综合创造过程分别建模比较，揭示发散思维作为关键认知构件与[[Creativity|创造力]]指标存在稳定的正向关联（$r = 0.14$）。
 > - [[Argument_Guo_2025_TSC|Guo et al. (2025)]] — 针对高校[[Creativity Training|创造力干预]]开展[[Three-Level Meta-Analysis|多层元分析]]（29 项研究，109 个[[Effect Size|效应量]]），证实发散创造性思维在各[[Construct|构念]]中增益最高（$g = 0.671$），揭示言语训练（$g = 0.998$）与独立个体练习（$g = 0.682$）的显著优势，并确立 $< 2$ 个月的倒 U 型黄金干预窗口（$g = 0.844$）。
+> - [[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] — 运用随机效应[[Meta-analysis|元分析]]（29 项实验与准[[Experimental Research|实验研究]]，59 个[[Effect Size|效应量]]）确立生成式 AI 对学生创造力与发散思维的干预基准（$k = 23, g = 0.444$），揭示 AI 倾向输出中规中矩的常规套路，容易使构想同质化而难以突破创新，并证实适度干预周期（8–16 周）与高[[Self-Regulated Learning|自我调节学习]]能力的显著调节保护作用。
 > - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — [[Systematic Review|系统综述]] 67 项高等教育实证研究，揭示生成式 AI 作为发散思维催化剂（$n=31$）与构想惰性风险源（$n=20$）的双向作用机制。

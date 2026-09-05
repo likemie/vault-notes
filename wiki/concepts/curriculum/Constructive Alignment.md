@@ -6,7 +6,7 @@ aliases:
 summary: "Biggs 提出的课程系统设计原则，以学生实际开展的学习活动为核心，并用同一组目标动词协调预期学习结果、教学／学习活动与标准参照评估；OECD报告进一步将其扩展为涵盖宏观资格框架、中观全课程整合与微观真实性评价的多层级治理工程。"
 type: concept
 domain: "curriculum"
-related_count: 38
+related_count: 39
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Criterion-Referenced Test]]"
   - "[[Homework]]"
   - "[[Learning Gap]]"
+  - "[[Problem Solving]]"
   - "[[Document]]"
   - "[[Operationalization]]"
   - "[[Academic Achievement]]"
@@ -216,7 +217,7 @@ updated: 2026-08-29
 > 课程设计既可以从专业胜任力目标向下推演，也可以从真实的评估改革切入倒逼教学方式转型。
 
 > [!claim] Biggs
-> **路径不同而对齐机制相通** [[Problem-Based Learning|PBL]] 从真实职业问题解决出发，自上而下统整案例研讨与三段式考核；[[Learning Portfolio|学习档案袋]]则从评估证据协商切入，自下而上衍生出反思日志、同伴评审与修订机制，两者均实现了学习活动与考核任务的高效重合。[[Argument_Biggs_1999_HERD|(Biggs, 1999, pp. 70–73)]]
+> **路径不同而对齐机制相通** PBL 从真实职业[[Problem Solving|问题解决]]出发，自上而下统整案例研讨与三段式考核；[[Learning Portfolio|学习档案袋]]则从评估证据协商切入，自下而上衍生出反思日志、同伴评审与修订机制，两者均实现了学习活动与考核任务的高效重合。[[Argument_Biggs_1999_HERD|(Biggs, 1999, pp. 70–73)]]
 
 ---
 
@@ -258,7 +259,7 @@ updated: 2026-08-29
 ## 争议与批评
 
 > [!tension] 教学方法形式命名　⇄　实际对齐机制的实证检验
-> - **Biggs 的机制论证** [[Problem-Based Learning|PBL]] 能够使专业目标、问题解决活动和案例评估保持一致，因此是自上而下对齐的典型案例。[[Argument_Biggs_1999_HERD|(Biggs, 1999, pp. 70–72)]]
+> - **Biggs 的机制论证** PBL 能够使专业目标、[[Problem Solving|问题解决]]活动和案例评估保持一致，因此是自上而下对齐的典型案例。[[Argument_Biggs_1999_HERD|(Biggs, 1999, pp. 70–72)]]
 > - **Hattie 的[[Meta-analysis|元分析]]警示** Hattie 汇总 9 项 PBL 元分析显示平均综合效应仅为 $d = 0.08$；教学法的名称不能自动保证对齐效果，若学生缺乏前备知识或缺乏针对目标的精准反馈，形式上的 PBL 难以自发产生高质量理解。[[Argument_Hattie_2015_SOTLP|(Hattie, 2015b, pp. 84–85)]]
 
 > [!critique] 实践中需要警惕的三重异化
@@ -285,6 +286,6 @@ updated: 2026-08-29
 ## 相关研究
 
 > [!evidence-grid] 相关[[Document|文献]]索引
-> - [[Argument_Biggs_1999_HERD|Biggs (1999)]] — 建构性对齐理论的奠基性文献，系统阐明目标动词、活动选择、[[Criterion-Referenced Test|标准参照评估]]、[[Assessment Backwash|评估反拨]]及 [[Problem-Based Learning|PBL]] 与档案袋双路径。
+> - [[Argument_Biggs_1999_HERD|Biggs (1999)]] — 建构性对齐理论的奠基性文献，系统阐明目标动词、活动选择、[[Criterion-Referenced Test|标准参照评估]]、[[Assessment Backwash|评估反拨]]及 PBL 与档案袋双路径。
 > - [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] — [[OECD]] 国际报告，将建构性对齐扩展为跨越宏观国家资格框架、中观全课程架构与微观表现评价的多层级治理模型，剖析高教过度考核与增益滞后危机。
 > - [[Argument_Hattie_2015_SOTLP|Hattie (2015b)]] — 整合成功标准（$d=0.77$）、表层/[[Surface and Deep Learning|深层学习]]配置（$d=0.71$）与反馈循环（$d=0.73$）的[[Meta-analysis|元分析]]证据，丰富了对齐的心理测量学与教学法机制。
