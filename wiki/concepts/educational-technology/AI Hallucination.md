@@ -11,7 +11,7 @@ aliases:
 summary: "人工智能与教育技术学概念，指大语言模型等生成式系统输出看似连贯权威、语法高度流畅但实际上偏离客观事实、缺乏真实依据、虚构引用或逻辑自相矛盾的内容现象。"
 type: concept
 domain: "educational-technology"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Cognitive Offloading]]"
   - "[[Illusion of Competence]]"
-  - "[[Epistemic Friction]]"
   - "[[Homework]]"
   - "[[Artefact]]"
   - "[[Reliability]]"
@@ -48,10 +47,11 @@ related_methods:
   - "[[Systematic Review]]"
   - "[[Pilot Testing]]"
   - "[[PRISMA]]"
+  - "[[Meta-analysis]]"
 related_arguments:
   - "[[Argument_Li_2026_CEAI]]"
-  - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
   - "[[Argument_Zhao_2025_JIntell]]"
+  - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
 confidence: high
 status: active
 created: 2026-09-02
@@ -141,7 +141,7 @@ updated: 2026-09-05
 > [!concept-lens] 技术底层逻辑与[[Epistemology|认识论]]局限
 > 解构大模型的运作本质，破除“AI 只是偶尔犯错、未来会很快彻底无错误”的技术乌托邦幻想。
 
-> [!claim] Ji et al. (2023); [[Argument_Li_2026_CEAI|Li et al. (2026)]]
+> [!claim] Ji et al.; Li et al.
 > **概率生成的内在幻觉性** 大语言模型不是事实检索数据库，而是基于高维向量空间进行概率采样的“词语预测引擎”。模型为了维持文本的自然流畅与语义连贯，在遇到知识盲区时天然倾向于基于统计联想填补空白，因而生成幻觉并非外部偶发 bug，而是生成式模型赖以运行的内在计算特性。[[Argument_Li_2026_CEAI|(Ji et al., 2023; Li et al., 2026, pp. 2, 10–11)]]
 
 ---
@@ -151,7 +151,7 @@ updated: 2026-09-05
 > [!concept-lens] [[Cognitive Offloading|认知卸载]]与学术诚信危机
 > 揭示学生在缺乏批判意识与自主调节能力时直接采纳幻觉内容的严重后果。
 
-> [!claim] [[Argument_Li_2026_CEAI|Li et al. (2026)]]; [[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]]
+> [!claim] Li et al.; Zhao et al.
 > **幻觉诱发的心智风险与自律脆弱性** 在缺乏显性指导的自由使用环境中，学生由于存在[[Illusion of Competence|能力错觉]]与惰性心理，极易将虚构引用与伪事实直接吸收到学术论文中，导致严重的论证漏洞与学术合规焦虑[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 6–8)]]。元分析进一步证实，自主调节学习（SRL）薄弱的学生缺乏对生成内容真实性与相关性的审验判断能力，更容易不加甄别地顺从和采纳包括幻觉在内的错误信息，导致人机交互难以转化为有意义的认知建构[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 11, 16)]]。
 
 ---
@@ -161,7 +161,7 @@ updated: 2026-09-05
 > [!concept-lens] 教学转化与[[Epistemological Vigilance|认识论警觉]]培养
 > 阐明教师与人机协同机制如何将技术缺陷转化为培养批判反思的脚手架。
 
-> [!claim] Archila et al. (2024); [[Argument_Li_2026_CEAI|Li et al. (2026)]]; [[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]]
+> [!claim] Archila et al.; Li et al.; Zhao et al.
 > **算法缺陷对批判性思维的倒逼与磨刀石效应** 当教师明确将 AI 输出设定为“包含潜在错误的初级素材”并设计对抗性查错（Red-teaming）任务时，AI 幻觉构成了极佳的反思磨刀石[[Argument_Li_2026_CEAI|(Archila et al., 2024; Li et al., 2026, pp. 6, 11–12)]]。元分析从实证层面阐明了这种反向催化机制：生成式 AI 固有的幻觉与不准确信息，在客观上倒逼学生放弃盲从顺从，主动审查输出结果的有效性与可靠性，从而显著强化了批判性评估技能（$g = 0.691$），降低了技术依赖并大幅提升了有意义人机交互的实现概率[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 10–11, 14)]]。
 
 ---
@@ -169,11 +169,11 @@ updated: 2026-09-05
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
-> | 命题类型 | 核心主张 | 适用情境 | 代表[[Document\|文献]] |
+> | 命题类型 | 核心主张 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **技术机制命题** | 概率预测本质决定幻觉是生成式系统的内在属性 | 计算机科学、大模型原理与 AI 素养基础 | Ji et al. (2023); Li et al. (2026) |
-> | **风险侵蚀命题** | 无支架使用与低自律状态下幻觉诱发虚假掌握与认知顺从 | 开放性课后[[Homework\|作业]]、无监管学术写作 | [[Argument_Li_2026_CEAI\|Li et al. (2026)]]; Xu et al. (2024) |
-> | **教学转化命题** | 结构化红队查错将幻觉转化为倒逼批判性思维深化的认知脚手架 | 科学写作探究、高校专业课程评估改革 | Archila et al. (2024); [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] |
+> | **技术机制命题** | 概率预测本质决定幻觉是生成式系统的内在属性 | 计算机科学、大模型原理与 AI 素养基础 | Ji et al.; Li et al. |
+> | **风险侵蚀命题** | 无支架使用与低自律状态下幻觉诱发虚假掌握与认知顺从 | 开放性课后[[Homework\|作业]]、无监管学术写作 | Li et al.; Xu et al.; Zhao et al. |
+> | **教学转化命题** | 结构化红队查错将幻觉转化为倒逼批判性思维深化的认知脚手架 | 科学写作探究、高校专业课程评估改革 | Archila et al.; Li et al.; Zhao et al. |
 
 ---
 

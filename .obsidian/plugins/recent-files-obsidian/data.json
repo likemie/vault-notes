@@ -5,6 +5,14 @@
       "path": "wiki/arguments/journal-articles/Journal of Intelligence/Argument_Zhao_2025_JIntell.md"
     },
     {
+      "basename": "Bloom's Taxonomy",
+      "path": "wiki/theories/curriculum/Bloom's Taxonomy.md"
+    },
+    {
+      "basename": "Zhao_2025_JIntell",
+      "path": "sources/Zhao_2025_JIntell/Zhao_2025_JIntell.md"
+    },
+    {
       "basename": "Inter-Rater Reliability",
       "path": "wiki/concepts/research-methodology/Inter-Rater Reliability.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "The Green Book",
       "path": "wiki/facts/uk/The Green Book.md"
-    },
-    {
-      "basename": "Argument_RoyalSociety_2026_ScienceForSociety_Ch04",
-      "path": "wiki/arguments/reports-policy-documents/RoyalSociety_2026_ScienceForSociety/Argument_RoyalSociety_2026_ScienceForSociety_Ch04.md"
-    },
-    {
-      "basename": "Informal Science Learning",
-      "path": "wiki/concepts/instruction-pedagogy/Informal Science Learning.md"
     }
   ],
   "omittedPaths": [],

@@ -18003,3 +18003,11 @@ table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nt
   background: var(--rc-panel);
   box-shadow: 0 0 0 1px var(--rc-edge), inset 0 1px var(--rc-shine);
 }
+
+/* 理论工具箱：首列专名与作者略小，减少长名称换行。 */
+.callout[data-callout="framework-table"] td:first-child {
+  font-size: 0.9em;
+}
+.callout[data-callout="framework-table"] td:first-child strong {
+  font-size: inherit;
+}
