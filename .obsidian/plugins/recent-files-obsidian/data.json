@@ -5,6 +5,10 @@
       "path": "wiki/arguments/journal-articles/Journal of Intelligence/Argument_Zhao_2025_JIntell.md"
     },
     {
+      "basename": "Blended Learning",
+      "path": "wiki/concepts/instruction-pedagogy/Blended Learning.md"
+    },
+    {
       "basename": "Bloom's Taxonomy",
       "path": "wiki/theories/curriculum/Bloom's Taxonomy.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Rothschild Report 1971",
       "path": "wiki/facts/uk/Rothschild Report 1971.md"
-    },
-    {
-      "basename": "The Green Book",
-      "path": "wiki/facts/uk/The Green Book.md"
     }
   ],
   "omittedPaths": [],

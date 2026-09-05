@@ -29,7 +29,7 @@ title: "Argument_Zhao_2025_JIntell"
 argument_key: "Argument_Zhao_2025_JIntell"
 argument_display_title: "Does Generative Artificial Intelligence Improve Students' Higher-Order Thinking? A Meta-Analysis Based on 29 Experiments and Quasi-Experiments"
 argument_kind: "journal-article"
-argument_related_count: 51
+argument_related_count: 53
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -41,6 +41,7 @@ updated: 2026-09-05
 related_concepts:
   - "[[Generative Artificial Intelligence]]"
   - "[[Higher-Order Thinking Skills]]"
+  - "[[Scaffolding]]"
   - "[[Effect Size]]"
   - "[[Critical Thinking]]"
   - "[[Creativity]]"
@@ -64,6 +65,7 @@ related_concepts:
   - "[[Structured Teaching]]"
   - "[[Divergent Thinking]]"
   - "[[Project-Based Learning]]"
+  - "[[Blended Learning]]"
   - "[[Inter-Rater Reliability]]"
   - "[[Heterogeneity]]"
   - "[[Funnel Plot]]"
@@ -313,7 +315,7 @@ status: draft
 > [!case]- 代表性实证案例：导向型化学学习助手 GCLA（Lee et al., 2024）
 > - **研究背景与系统机制** Lee et al. (2024) 针对高校化学学习中多步反应机理推演难度大、学生易退缩的问题，开发了基于 ChatGPT 的**导向型化学学习助手（Guided Chemistry Learning Assistant, GCLA）**。
 > - **具体教学交互模式** GCLA 深度整合了专家支架策略：当学生输入复杂分子合成难题时，系统坚决拒绝直接给出反应方程和产物，而是模拟资深教授的启发式追问，引导学生先识别官能团性质、分析亲电/亲核反应中心，再自主推导下一步机理；同时实时评估学生的推理合理性并给予分步反馈。
-> - **实证结果** 实验表明，GCLA 显著改善了学生的元认知自我调节水平，并在多步骤化学问题解决和批判性反思测验中取得大幅增益，完美诠释了“脚手架式引导”如何驱动问题解决能力的跃升。（p. 4）
+> - **实证结果** 实验表明，GCLA 显著改善了学生的元认知自我调节水平，并在多步骤化学问题解决和批判性反思测验中取得大幅增益，完美诠释了“[[Scaffolding|脚手架]]式引导”如何驱动问题解决能力的跃升。（p. 4）
 
 > [!case]- 代表性实证案例：人机辩论活动中的批判性思维激发（Guo et al., 2023）
 > - **实验情境与干预设计** Guo et al. (2023) 在高中语文与社会议题探究课中，设计了基于 AI 聊天机器人的课内辩论活动。
@@ -331,14 +333,14 @@ status: draft
 > - **干预时长的倒 U 型时间曲线** 组间检验达到统计学显著（$Q_b = 9.106, df = 2, p = 0.011$）：0–8 周短期干预效应量中等（$g = 0.494$）；8–16 周中期干预跃升至峰值（$g = 0.759$）；而超过 16 周的长期干预效应量骤降至 $g = 0.372$。
 > - **自主调节学习能力的决定性门槛** 组间检验极其显著（$Q_b = 40.962, df = 1, p < 0.001$）：具备高 SRL 能力的学生获得 $g = 0.863$ 的巨大增益，而低 SRL 学生仅获 $g = 0.284$ 的微弱提升。
 > - **学段呈现边缘显著级差** 组间差异虽未达严格显著（$Q_b = 3.353, p = 0.067$），但 K-12 阶段效应量（$g = 0.857$）大幅高于高校阶段（$g = 0.539$），折射出外部监管力度的重要性。
-> - **教学模式凸显 PBL 优势** 组间检验整体未达显著（$Q_b = 2.918, p = 0.232$），但[[Project-Based Learning|项目式学习]]（$g = 0.717$）与混合式学习（$g = 0.525$）表现出极高显著性，而传统讲授式教学效应微弱且统计不显著（$g = 0.396, p > 0.05$）。（pp. 11–12）
+> - **教学模式凸显 PBL 优势** 组间检验整体未达显著（$Q_b = 2.918, p = 0.232$），但[[Project-Based Learning|项目式学习]]（$g = 0.717$）与[[Blended Learning|混合式学习]]（$g = 0.525$）表现出极高显著性，而传统讲授式教学效应微弱且统计不显著（$g = 0.396, p > 0.05$）。（pp. 11–12）
 
 > [!ref-table]- 表 3：生成式 AI 促进高阶思维的调节变量检验结果
 > | [[Variable\|调节变量]]维度 | 亚组分类 | [[Effect Size\|效应量]]数量 $k$ | [[Effect Size\|效应量]] $ES$（Hedges' $g$） | [[Confidence Interval\|95% CI]] 下限 | 95% CI 上限 | 双尾检验 $Z$ 值 | $p$ 值 | [[Heterogeneity\|组间异质性检验]]（$Q_b$ / $df$ / $p$） |
 > |---|---|---|---|---|---|---|---|---|
 > | **干预时长**<br>（Duration） | 0–8 周（1）<br>**8–16 周（2）**<br>>16 周（3） | 15<br>**31**<br>13 | 0.494<br>**0.759**<br>0.372 | 0.272<br>0.576<br>0.196 | 0.717<br>0.943<br>0.549 | 4.350<br>8.113<br>4.133 | <0.001<br><0.001<br><0.001 | $Q_b = 9.106$<br>$df = 2$<br>**$p = 0.011$** |
 > | **学段层次**<br>（Educational Stage） | **K-12 基础教育（1）**<br>高等教育阶段（2） | 13<br>46 | **0.857**<br>0.539 | 0.542<br>0.412 | 1.172<br>0.667 | 5.335<br>8.263 | <0.001<br><0.001 | $Q_b = 3.353$<br>$df = 1$<br>$p = 0.067$（边缘显著） |
-> | **教学模式**<br>（Instructional Method） | 讲授式教学（1）<br>**[[Project-Based Learning\|项目式学习]]（2）**<br>混合式学习（3） | 6<br>**31**<br>22 | 0.396<br>**0.717**<br>0.525 | −0.088<br>0.507<br>0.406 | 0.879<br>0.928<br>0.644 | 1.605<br>6.674<br>8.636 | >0.05（不显著）<br><0.001<br><0.001 | $Q_b = 2.918$<br>$df = 2$<br>$p = 0.232$ |
+> | **教学模式**<br>（Instructional Method） | 讲授式教学（1）<br>**[[Project-Based Learning\|项目式学习]]（2）**<br>[[Blended Learning\|混合式学习]]（3） | 6<br>**31**<br>22 | 0.396<br>**0.717**<br>0.525 | −0.088<br>0.507<br>0.406 | 0.879<br>0.928<br>0.644 | 1.605<br>6.674<br>8.636 | >0.05（不显著）<br><0.001<br><0.001 | $Q_b = 2.918$<br>$df = 2$<br>$p = 0.232$ |
 > | **[[Self-Regulated Learning\|自我调节学习能力]]**<br>（SRL Ability） | **高 SRL 能力组（1）**<br>低 SRL 能力组（2） | 31<br>25 | **0.863**<br>0.284 | 0.679<br>0.188 | 1.048<br>0.380 | 9.181<br>5.788 | <0.001<br><0.001 | **$Q_b = 40.962$**<br>$df = 1$<br>**$p < 0.001$** |
 >
 > **图表解读** 本表是对四项潜在调节变量开展的亚组分析汇总，掌握三个步骤即可透彻解读各列关键参数：
@@ -346,7 +348,7 @@ status: draft
 > - **比对亚组效应量 $ES$ 与置信区间识别实质分流**
 >   - **自律门槛的断层分流** 高 SRL 组（$g = 0.863$）达到大效应水平，而低 SRL 组（$g = 0.284$）仅为小效应；两组的 95% 置信区间（$[0.679, 1.048]$ vs $[0.188, 0.380]$）完全分离、互不重叠，实证确证了学习者的自主调控能力是拉开最终成效的决定性分水岭。
 >   - **干预时长的倒 U 型曲线** 中期 8–16 周（$g = 0.759$）的效应量显著超越短期 0–8 周（$g = 0.494$）与长期 $>16$ 周（$g = 0.372$）；长期干预效应量几乎腰斩，直接证实了技术新奇感衰退及长期缺乏教学设计时容易滋生“认知依赖”与心智惰性。
-> - **关注不显著变量内部的组内显著性检验（$Z$ 值与 $p$ 值）** 在教学模式中，虽然组间异质性 $Q_b$ 未达显著，但**讲授式教学的组内检验未达统计显著（$Z = 1.605, p > 0.05$）**，其 95% 置信区间包含负值与零点（$[-0.088, 0.879]$）；而项目式学习（$g = 0.717, p < 0.001$）与混合式学习（$g = 0.525, p < 0.001$）均高度显著。这表明脱离了真实探究情境的传统讲授式课堂，无法稳定发挥生成式 AI 的促学潜力。（pp. 11–12）
+> - **关注不显著变量内部的组内显著性检验（$Z$ 值与 $p$ 值）** 在教学模式中，虽然组间异质性 $Q_b$ 未达显著，但**讲授式教学的组内检验未达统计显著（$Z = 1.605, p > 0.05$）**，其 95% 置信区间包含负值与零点（$[-0.088, 0.879]$）；而项目式学习（$g = 0.717, p < 0.001$）与[[Blended Learning|混合式学习]]（$g = 0.525, p < 0.001$）均高度显著。这表明脱离了真实探究情境的传统讲授式课堂，无法稳定发挥生成式 AI 的促学潜力。（pp. 11–12）
 
 > [!example]- 图4：元分析核心发现与调节效应模型
 > ![](https://img.mylikemie.icu/sources/Zhao_2025_JIntell/figures/Zhao_2025_JIntell_Fig4_Model_of_Findings.jpg)
@@ -354,8 +356,8 @@ status: draft
 > *模型全面整合了生成式 AI 作用于高阶思维的核心机制路径：三大认知维度在效应量上呈现阶梯式递减；干预时长通过倒 U 型心理适应机制发挥作用；自主调节学习能力则作为关键中和器主导了效应量的高低分流。（p. 17）*
 >
 > **图表解读** 该理论模型将元分析的所有实证发现系统整合为一个动态的人机协同促学框架，读图需理清三条核心路径：
-> - **输入端与效应梯次输出** 模型左侧为生成式 AI 作为外部认知脚手架的技术输入，右侧对应高阶思维输出；清晰展现了技术赋能随心智加工特质呈现的阶梯式递减规律（从程序性契合的问题解决，到差错激发的批判性思维，再到受同质化制约的创造力）。
-> - **情境与时间调节机制的外部约束** 模型中层纳入了干预时长（倒 U 型曲线）与教学模式（PBL 与混合式）作为外部边界条件，揭示出技术介入并非线性累加，而是需要合适的时间窗口与真实劣构任务的牵引。
+> - **输入端与效应梯次输出** 模型左侧为生成式 AI 作为外部[[Scaffolding|认知脚手架]]的技术输入，右侧对应高阶思维输出；清晰展现了技术赋能随心智加工特质呈现的阶梯式递减规律（从程序性契合的问题解决，到差错激发的批判性思维，再到受同质化制约的创造力）。
+> - **情境与时间调节机制的外部约束** 模型中层纳入了干预时长（倒 U 型曲线）与教学模式（PBL 与[[Blended Learning|混合式]]）作为外部边界条件，揭示出技术介入并非线性累加，而是需要合适的时间窗口与真实劣构任务的牵引。
 > - **自主调节学习作为核心中介调节中枢** 模型中心突出了自主调节学习（SRL）的关键“中和与分流”机制——高自律学习者借助元认知监控维持思维主动性，使 AI 成为思维“磨刀石”；低自律学习者则在算法的即时满足中缴械，滑向“捷径式学习”与认知外包，从而决定了最终促学成效走向分化。
 
 > [!continuum] 自主调节学习能力的两极分化效应
@@ -367,7 +369,7 @@ status: draft
 > - 不加甄别地全盘复制粘贴算法生成内容
 > - 遇到 AI 出现错误时，能灵活调整提问并多方核实
 > - 缺乏辨别能力，容易被 AI 的错误信息误导
-> - 充分释放大模型认知脚手架的放大潜能
+> - 充分释放大模型[[Scaffolding|认知脚手架]]的放大潜能
 > - 容易走捷径直接抄答案，产生思维懒汉心态
 
 > [!warrant]- 最终推理桥梁：人机协同的边界条件与适用规律
@@ -387,7 +389,7 @@ status: draft
 > - **成效证实** 实证数据显示，结合了真实 PBL 的人机协同不仅大幅提升了工程方案问题解决效率，而且通过团队集体效能感显著激发了学生的创造性设计思维。Shahzad et al. (2024) 亦在高等教育实证中验证了该模式对创意与表现的联合促进，印证了本元分析中 PBL 亚组高达 $g = 0.717$ 的优异成效。（pp. 5–6, 15）
 
 > [!pathways] 促进高阶思维的人机协同教学建议
-> 1. **分阶段逐步撤去脚手架（Phased Scaffolding Fading）** 教学中应避免长期无限制地使用 AI。建议采用“初步引入 $\rightarrow$ 引导协作 $\rightarrow$ 逐步撤去辅助（Fading）$\rightarrow$ 独立反思”的分阶段设计，在学生熟练掌握方法后适时撤去 AI，促使学生独立完成推导论证与创意方案，避免产生思维依赖。（Wang et al., 2025, p. 14）
+> 1. **分阶段逐步撤去[[Scaffolding|脚手架]]（Phased Scaffolding Fading）** 教学中应避免长期无限制地使用 AI。建议采用“初步引入 $\rightarrow$ 引导协作 $\rightarrow$ 逐步撤去辅助（Fading）$\rightarrow$ 独立反思”的分阶段设计，在学生熟练掌握方法后适时撤去 AI，促使学生独立完成推导论证与创意方案，避免产生思维依赖。（Wang et al., 2025, p. 14）
 > 2. **引导式人机互动与启发式提示（Guided Heuristic Prompting）** 避免让学生直接向 AI 索取现成答案。教师可预先设计提示语规范，引导 AI 扮演苏格拉底式对话者，多提供反问、反例、方案对比或排错线索，促使学生始终保持主动思考与质疑探究的状态。（Lee et al., 2024; Gonsalves, 2024, pp. 6, 14）
 > 3. **显性培养自主调节学习能力（SRL）与元认知** 将元认知和自律能力的训练融入日常课程。指导学生如何审视 AI 生成的内容、辨别事实真伪与算法偏见，并通过明确的自评步骤，帮助学生养成“设立目标—监控过程—多方核对—反思改进”的良好[[Learner Autonomy|自主学习]]习惯。（Xu et al., 2024; Wang & Huang, 2024, pp. 15–16）
 
@@ -396,7 +398,7 @@ status: draft
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **生成式 AI 整体显著赋能[[Higher-Order Thinking Skills|高阶思维]]** 涵盖实验与准实验的一阶[[Meta-analysis|元分析]]证实，生成式 AI 对学生高阶思维具有稳健且中等偏大的正向促进作用，有力反驳了将人工智能简单视作“思考杀手”的悲观论调，证实其完全有潜力充当有效的外部认知脚手架。（pp. 9–10, 12–13）
+> 1. **生成式 AI 整体显著赋能[[Higher-Order Thinking Skills|高阶思维]]** 涵盖实验与准实验的一阶[[Meta-analysis|元分析]]证实，生成式 AI 对学生高阶思维具有稳健且中等偏大的正向促进作用，有力反驳了将人工智能简单视作“思考杀手”的悲观论调，证实其完全有潜力充当有效的外部[[Scaffolding|认知脚手架]]。（pp. 9–10, 12–13）
 > 2. **高阶思维内部呈现鲜明的维度分化格局** 技术赋能并非无差别覆盖：AI 擅长提供排错思路与替代方案，与程序性[[Problem Solving|问题解决能力]]最为契合；AI 偶尔出现的差错（[[AI Hallucination|算法幻觉]]）激发了学生主动核查与求证的意识，带动[[Critical Thinking|批判性思维]]显著提升；但由于大模型倾向于输出中规中矩的大众化套路，对突破常规的[[Creativity|创造力]]赋能相对有限。（pp. 10–11, 13–14）
 > 3. **干预周期呈现倒 U 型时间适应规律** 教学介入存在中期的最佳黄金期：短期尝试受工具熟悉度与新奇感所限，深层探究尚未展开；而长期使用若缺乏教学任务更新，极易滋生心智惰性与依赖惯性，导致促学成效发生[[Fade-out Effect|效应衰减]]。（pp. 11, 14）
 > 4. **[[Self-Regulated Learning|自主调节学习]]是决定成败的核心分水岭** 学生的自律水平构成抵御技术负效应的最关键内生防线：具备高自律能力的学生能将 AI 转化为平等探讨的伙伴和思维“磨刀石”，促学成效实现大幅跃升；反之，缺乏自律与反思习惯的学生极易沦落为机械复制粘贴、陷入[[Cognitive Offloading|认知外包]]的惰性泥潭。（pp. 11–12, 15–16）
@@ -416,7 +418,7 @@ status: draft
 > *The results indicate that students with higher levels of SRL are capable of proactively planning their learning trajectories rather than passively relying on or directly replicating Gen-AI–generated outputs. Such students tend to critically reflect on the generated content, seeking to integrate it with their existing knowledge structures rather than adopting it uncritically... In contrast, students with lower levels of SRL often struggle to assess the accuracy and relevance of AI-generated content, making them more susceptible to uncritically accepting information.*
 
 > [!citation-card]- 教学设计决定认知走向与倒 U 型周期
-> 适度的干预时长能够使学生建立熟练使用工具的技能，同时有效规避过度使用带来的负面后果。为了降低长期整合 AI 的潜在风险，教师应采取分阶段脚手架策略，逐步消退 AI 支持以培养学生独立解决问题的能力；同时实施引导式人机互动，利用精心设计的提示语引导 AI 提供概念框架与推理过程而非直接答案，从而激发学生持续的主动探究与深层认知投入。（pp. 14–15）
+> 适度的干预时长能够使学生建立熟练使用工具的技能，同时有效规避过度使用带来的负面后果。为了降低长期整合 AI 的潜在风险，教师应采取分阶段[[Scaffolding|脚手架]]策略，逐步消退 AI 支持以培养学生独立解决问题的能力；同时实施引导式人机互动，利用精心设计的提示语引导 AI 提供概念框架与推理过程而非直接答案，从而激发学生持续的主动探究与深层认知投入。（pp. 14–15）
 >
 > *An intermediate duration strikes a balance, allowing students adequate time to build proficiency in using Gen-AI while avoiding the negative consequences of extended use. To mitigate the risks associated with long-term AI integration, phased scaffolding should be adopted, whereby AI support is systematically faded... Second, guided Gen-AI interaction should be implemented, using carefully designed prompts to steer AI toward providing conceptual frameworks or reasoning processes rather than direct answers.*
 

@@ -6,7 +6,7 @@ aliases:
 summary: "正面或显著结果比零结果或负面结果更可能被发表或传播的系统性倾向，用于解释证据库为何可能高估干预效果。"
 type: concept
 domain: "research-methodology"
-related_count: 22
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Researcher Degrees of Freedom]]"
   - "[[Visible Learning]]"
   - "[[Preregistration]]"
+  - "[[Funnel Plot]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-07-15
+updated: 2026-09-05
 ---
 
 ## 定义
@@ -130,8 +131,8 @@ Rosenthal（1991）提出了量化发表偏倚影响的经典方法：计算需�
 
 ## 实证检验案例
 
-> [!case]- 实证检验案例：生成式 AI 教育元分析中的发表偏倚诊断（Zhao et al., 2025）
-> - **偏倚审计情境** Zhao et al. (2025) 对生成式 AI 赋能高阶思维的 29 项实验与准实验研究（共 59 个效应量）展开多重发表偏倚质控与稳健性诊断。
+> [!case]- 实证检验案例：生成式 AI 教育元分析中的发表偏倚诊断
+> - **偏倚审计情境** 在针对生成式 AI 赋能高阶思维的 29 项实验与准实验研究（共 59 个效应量）的一阶元分析中，研究展开了多重发表偏倚质控与稳健性诊断。
 > - **漏斗图与定量回归双重核验** 首先借助[[Funnel Plot|漏斗图]]目视检验散点空间对称性，确认除 8 个离群点外大多数研究围绕合并均值对称分布；进而采用 Egger 线性回归截距检验进行参数化检验，结果为 $t = 1.871, p = 0.066 > 0.05$。由于未达统计显著水平，排除了严重“文件抽屉效应”对总体合并效应量（$g = 0.609$）的实质性扭曲，证实了实证结论的稳健性。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 9–10)]]
 
 ---

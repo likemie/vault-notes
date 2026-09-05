@@ -6,7 +6,7 @@ aliases:
 summary: "元分析中以效应量为横轴、研究精度（标准误或样本量）为纵轴的散点图，用于可视化诊断发表偏倚、小研究效应与研究间异质性"
 type: concept
 domain: "research-methodology"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -42,12 +42,12 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Higgins_2016_RE]]"
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17]]"
   - "[[Argument_Zhao_2025_JIntell]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17]]"
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-09-05
 ---
 
 # Funnel Plot
@@ -125,8 +125,8 @@ flowchart TD
 
 ## 实证检验案例
 
-> [!case]- 实证检验案例：生成式 AI 赋能高阶思维的漏斗图审计（Zhao et al., 2025）
-> - **数据规模与坐标设定** Zhao et al. (2025) 纳入 29 项实验与准实验研究共 59 个效应量（Hedges' $g$），以反向排列的标准误 $SE$ 为纵轴、效应量 $g$ 为横轴绘制漏斗图，中心虚线对准合并效应量 $g = 0.609$。
+> [!case]- 实证检验案例：生成式 AI 赋能高阶思维的漏斗图审计
+> - **数据规模与坐标设定** 在一项关于生成式 AI 促进高阶思维的一阶元分析中，纳入 29 项实验与准实验研究共 59 个效应量（Hedges' $g$），以反向排列的标准误 $SE$ 为纵轴、效应量 $g$ 为横轴绘制漏斗图，中心虚线对准合并效应量 $g = 0.609$。
 > - **散点空间分布与离群点诊断** 漏斗图显示除 8 个分散离群点落在 95% 伪置信区间斜线外侧外，绝大多数研究紧密且大致对称地分布于均值虚线两侧；漏斗底部并未出现小样本阴性或微弱效应研究系统性缺失的“左下角空洞”，右偏倾向轻微。
 > - **结合定量回归确证稳健性** 漏斗图的目视对称性得到了 Egger 线性回归截距检验（$t = 1.871, p = 0.066 > 0.05$）的支持，证实未触发严重发表偏倚警戒，排除了严重抽屉文件效应对总体效应量的系统性扭曲。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 9–10)]]
 

@@ -10,11 +10,21 @@ aliases:
 summary: "有机结合面对面实体课堂教学与数字化在线学习环境的教学模式，通过整合物理临场交互、异步自主探究与自适应智能支架，重构学习时空并促进深层理解与高阶思维发展。"
 type: concept
 domain: "instruction-pedagogy"
+related_count: 4
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/instruction
   - theme/pedagogy
   - educational-technology
   - construct/instructional-design
+related_concepts:
+  - "[[Higher-Order Thinking Skills]]"
+  - "[[Self-Regulated Learning]]"
+  - "[[Generative Artificial Intelligence]]"
+related_arguments:
+  - "[[Argument_Zhao_2025_JIntell]]"
 confidence: high
 status: active
 created: 2026-09-05
@@ -43,7 +53,7 @@ updated: 2026-09-05
 > [!boundary]- 概念边界
 > - 不等于单纯的技术叠加 — 若只是在传统讲授课堂中放映数字课件，或将纸质练习题扫描上网，而未重塑师生互动流程，属于浅层媒体替换，不构成混合学习。
 > - 不等于完全纯在线远程学习 — 混合式学习必须保留定期的面对面实体教学环节，依托教师具身临场感与生生即时协作提供社会性情感支撑。
-> - 不等于翻转课堂的狭隘等同 — [[Flipped Classroom|翻转课堂]]是混合式学习的一种典型实现范式，但混合式学习包含更为宽广的双轨教学架构与项目实践形态。
+> - 不等于翻转课堂的狭隘等同 — 翻转课堂（Flipped Classroom）是混合式学习的一种典型实现范式，但混合式学习包含更为宽广的双轨教学架构与项目实践形态。
 
 ---
 

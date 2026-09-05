@@ -11,7 +11,7 @@ aliases:
 summary: "将教育目标与学习产出按认知、情感与动作技能三领域分层解构的经典课程与评价理论框架，认知领域以六级思维阶梯（识记、理解、应用、分析、评价、创造）与二维知识-认知过程矩阵为核心，支撑教学设计、目标对齐与实证测量。"
 type: theory
 theory_field: "curriculum"
-theory_related_count: 35
+theory_related_count: 37
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -32,6 +32,9 @@ related_concepts:
   - "[[Reflective Thinking]]"
   - "[[Externalization]]"
   - "[[AI Agent in Education]]"
+  - "[[Problem Solving]]"
+  - "[[Critical Thinking]]"
+  - "[[Creativity]]"
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
@@ -40,8 +43,6 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Dialogue in Education]]"
   - "[[Structured Teaching]]"
-  - "[[Problem Solving]]"
-  - "[[Critical Thinking]]"
   - "[[International Baccalaureate]]"
   - "[[IB Diploma Programme]]"
   - "[[Cooperative Learning]]"
@@ -61,12 +62,12 @@ related_arguments:
   - "[[Argument_Qvortrup_2015_Paideia]]"
   - "[[Argument_Gungor_2026_CP]]"
   - "[[Argument_Biggs_1999_HERD]]"
-  - "[[Argument_Unal_2026_JECR]]"
   - "[[Argument_Zhao_2025_JIntell]]"
+  - "[[Argument_Unal_2026_JECR]]"
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-09-05
 ---
 
 # Bloom's Taxonomy

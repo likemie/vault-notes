@@ -14,11 +14,28 @@ aliases:
 summary: "教师、同伴或技术工具在学习者最近发展区内提供的临时性认知与教学支持结构，通过任务拆解、启发提示与系统性渐隐，协助学习者跨越能力边界并将外部支持内化为自主心智能力。"
 type: concept
 domain: "instruction-pedagogy"
+related_count: 11
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/instruction
   - cognition/learning-science
   - theme/pedagogy
   - construct/cognitive-scaffold
+related_concepts:
+  - "[[Zone of Proximal Development]]"
+  - "[[Self-Scaffolding]]"
+  - "[[Direct Instruction]]"
+  - "[[Cognitive Offloading]]"
+  - "[[Working Memory]]"
+  - "[[Critical Thinking]]"
+related_arguments:
+  - "[[Argument_Zhao_2025_JIntell]]"
+  - "[[Argument_Lei_Ding_Chiu_2026_ERR]]"
+  - "[[Argument_Liu_2026_CHBR]]"
+  - "[[Argument_Lakhani_2012_AKUIED]]"
+  - "[[Argument_Li_2026_CEAI]]"
 confidence: high
 status: active
 created: 2026-09-05
@@ -173,7 +190,6 @@ updated: 2026-09-05
 > |---|---|---|---|---|---|---|
 > | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 外部认知脚手架（干预机制） | 支架持续时长亚组（8–16 周中期黄金窗口 vs >16 周长期未渐隐） | 31 / —<br>13 / — | 中期：$g = 0.759$ [0.576, 0.943]<br>长期：$g = 0.372$ [0.196, 0.549] | $Q_b = 9.106, df = 2, p = 0.011$ | 证实脚手架干预呈现明显的倒 U 型时间规律；长期不撤除外部技术支架将导致促学效应大幅腰斩，实证确证了系统性渐隐（Fading）对防范认知依赖的必要性。 |
 > | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 外部图示脚手架（干预工具） | 学习者学段亚组（中学生外部支架需求 vs 大学生自我支架内化） | 17 / —<br>49 / — | 中学生：$g = 1.113$ [0.932, 1.294]<br>大学生：$g = 0.659$ [0.551, 0.767] | $W = 63.77, df = 2, p < 0.001$ | 证实外部脚手架收益随认知成熟而边际递减；中学生正处形式运算成熟期获益最大，大学生具备自我脚手架使得外在支架呈现效应衰减。 |
-> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 外部认知脚手架（干预机制） | 学习者自我调节学习水平亚组（高 SRL 组借力 vs 低 SRL 组依赖） | 31 / —<br>25 / — | 高 SRL：$g = 0.863$ [0.679, 1.048]<br>低 SRL：$g = 0.284$ [0.188, 0.380] | $Q_b = 40.962, df = 1, p < 0.001$ | 揭示出外部脚手架向内部素养转化的分水岭；缺乏自律的学习者容易将支架降格为走捷径的偷懒工具，置信区间完全不重叠。 |
 
 ---
 
