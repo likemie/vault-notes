@@ -11,7 +11,7 @@ subtype: policy
 region: france
 fact_region: "france"
 fact_kind: "policy"
-fact_related_count: 11
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -23,7 +23,9 @@ tags:
   - policy-borrowing
   - nineteenth-century
 related_concepts:
+  - "[[State Educational Sovereignty]]"
   - "[[Normal School]]"
+  - "[[Dual School System]]"
   - "[[Document]]"
   - "[[Bildung]]"
   - "[[Policy Borrowing]]"
@@ -58,7 +60,7 @@ updated: 2026-09-06
 > - **发布时间 / 发布主体** 1833 年 6 月 28 日由法国七月王朝国民议会两院审议通过，由国王路易-菲利普签署颁布；公共教育部部长弗朗索瓦·基佐领衔提交，哲学家兼公共教育最高委员会委员[[Victor Cousin|维克多·库森]]（Victor Cousin）主笔起草。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 27–28; Brewer, 1971, p. 36)]]
 > - **适用地区 / 对象** 法国本土全境逾三万个市镇（communes）、全体适龄初等学童（特别是平民贫困家庭子弟）以及全法初等师范教师候选人。（p. 29; Halls, 1965:20）
 > - **问题背景** 1830 年七月革命后，法国深陷天主教复辟保守派与平民激进共和派的社会撕裂，立宪君主政权面临严重的合法性与秩序危机；此前初等教育极度滞后、文盲率高企，主要被教会慈善与低素质游方兼差教工垄断；国家亟需通过科层化公共教育重建公共领域，促进社会政治整合。（Butts, 1973:301–302; pp. 25–26）
-> - **制度位置与文本源头** 该法案是比较教育史上“外国经验实定法直接转置（Direct Legislative Transplantation）”的欧陆经典典范；法案条文以库森 1831 年[[Report on the State of Public Instruction in Prussia|《普鲁士公共教育现状报告》]]为技术蓝本，系统吸纳了[[Prussian Draft Education Law of 1819|普鲁士 1819 年聚芬法案（Süvern Law）草案]]的核心条款，并以库森“教育权为神圣国家公共资源”的法哲学为立法正当性推论桥梁。（Brewer, 1971:44; pp. 26–29）
+> - **制度位置与文本源头** 该法案是比较教育史上“外国经验实定法直接转置（Direct Legislative Transplantation）”的欧陆经典典范；法案条文以库森 1831 年[[Report on the State of Public Instruction in Prussia|《普鲁士公共教育现状报告》]]为技术蓝本，系统吸纳了[[Prussian Draft Education Law of 1819|普鲁士 1819 年聚芬法案（Süvern Law）草案]]的核心条款，并以库森“教育权为神圣[[State Educational Sovereignty|国家公共资源]]”的法哲学为立法正当性推论桥梁。（Brewer, 1971:44; pp. 26–29）
 
 ---
 

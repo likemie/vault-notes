@@ -727,6 +727,18 @@
     ]
   },
   {
+    "title": "Perpetual Peace",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Perpetual Peace.md",
+    "aliases": [
+      "永久和平",
+      "永久和平论",
+      "Zum ewigen Frieden",
+      "世界和平治理",
+      "世界主义和平"
+    ]
+  },
+  {
     "title": "PISA Literacy",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/PISA Literacy.md",
@@ -898,6 +910,19 @@
       "space of places",
       "流动空间",
       "地方空间"
+    ]
+  },
+  {
+    "title": "State Educational Sovereignty",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/State Educational Sovereignty.md",
+    "aliases": [
+      "国家教育权",
+      "国家教育主权",
+      "state right to educate",
+      "教育国家化",
+      "教育为国家公共资源",
+      "education as a public resource"
     ]
   },
   {

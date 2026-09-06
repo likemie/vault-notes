@@ -10,7 +10,7 @@ summary: "法国启蒙自由主义教育家与国际主义者，1817年发表比
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 26
+person_related_count: 27
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Faculty Psychology]]"
   - "[[Epistemology]]"
   - "[[Policy Borrowing]]"
+  - "[[Perpetual Peace]]"
   - "[[Positivism]]"
   - "[[Scientism]]"
   - "[[Performance Indicators]]"
@@ -106,7 +107,7 @@ updated: 2026-09-06
 > - **1818–1848 — 欧陆二级精神科学定位与世界主义永久和平蓝图** 扩展学术视野至全球文明交往与世界和平，将比较科学上升为全人类精神觉醒、消除战争野蛮与道德复兴的世界和平治理工程。
 >   - **代表著作** 《人类知识总表》（1819）、《百科评论》（1819–1830）、《致英格兰民族书》（*A Letter to the English Nation*, 1833）。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 17–18, 21–24)]]
 >   - **关键概念／方法** 欧陆人文科学（Sciences Humaines）、世界公民（Cosmopolites）、特别教育委员会、多语种教育通报、比较文明学（Comparative Civilisation）、永久和平治理。
->   - **阶段转向** 确立经验事实服务于伦理规范的二级精神科学地位，突破狭隘民族国家壁垒，构建以特别教育委员会、统一[[Questionnaire|问卷]]观察表、示范师训机构与多语种通报为支撑的超国家治理网络，将跨国教育协作确立为捍卫世界永久和平的根本机制。
+>   - **阶段转向** 确立经验事实服务于伦理规范的二级精神科学地位，突破狭隘民族国家壁垒，构建以特别教育委员会、统一[[Questionnaire|问卷]]观察表、示范师训机构与多语种通报为支撑的超国家治理网络，将跨国教育协作确立为捍卫世界[[Perpetual Peace|永久和平]]的根本机制。
 
 ---
 

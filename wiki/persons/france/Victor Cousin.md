@@ -4,11 +4,11 @@ aliases:
   - Cousin, V.
   - 维克多·库森
   - 库森
-summary: "法国哲学家、七月王朝教育决策者与折衷主义自由派，发表1831年普鲁士公共教育现状报告确立审慎借用准则，提出国家公共资源法哲学并主导起草1833年基佐法案建立法国初等教育体系，提出文理融通的普通文化通识理想"
+summary: "法国哲学家、七月王朝教育决策者与折衷主义自由派，发表1831年普鲁士公共教育现状报告确立审慎借用准则，提出[[State Educational Sovereignty|国家公共资源法哲学]]并主导起草1833年基佐法案建立法国初等教育体系，提出文理融通的普通文化通识理想"
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 21
+person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[Educational Meliorism]]"
   - "[[Paradigm]]"
+  - "[[State Educational Sovereignty]]"
   - "[[General Education]]"
   - "[[Bildung]]"
   - "[[Faculty Psychology]]"
@@ -31,6 +32,7 @@ related_concepts:
   - "[[Artefact]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Document]]"
+  - "[[Dual School System]]"
   - "[[Auslandspadagogik]]"
 related_theories: []
 related_methods:
@@ -64,7 +66,7 @@ updated: 2026-09-06
 > [!person-profile] 人物档案
 > - **身份位置** 法国哲学家、索邦大学哲学教授、法兰西学术院院士、七月王朝公共教育最高委员会委员与公共教育部长（1840），将德国唯心主义（特别是[[Georg Wilhelm Friedrich Hegel|黑格尔]]哲学）系统引入法国思想界的领军人物。
 > - **核心角色** 19 世纪欧洲政策导向行政[[Educational Meliorism|改良主义]]母题的核心代表，开创了从异域官方考察直接通向本国实定法转置（Direct Legislative Transplantation）的欧陆经典[[Paradigm|范式]]。
-> - **代表贡献** 1831 年发表极具跨国影响力的[[Report on the State of Public Instruction in Prussia|《普鲁士公共教育现状报告》]]；提出以母国国家利益为绝对归宿的“审慎借用”公理；提炼教育为国家公共资源的法哲学命题；主笔起草并推动确立奠定法国国民初等教育体制基石的 [[Guizot Law of 1833|1833年基佐法案]]；倡导古典人文与现代科学联盟的“普通文化（*[[General Education|culture générale]]*）”通识教育理想。
+> - **代表贡献** 1831 年发表极具跨国影响力的[[Report on the State of Public Instruction in Prussia|《普鲁士公共教育现状报告》]]；提出以母国国家利益为绝对归宿的“审慎借用”公理；提炼教育为[[State Educational Sovereignty|国家公共资源]]的法哲学命题；主笔起草并推动确立奠定法国国民初等教育体制基石的 [[Guizot Law of 1833|1833年基佐法案]]；倡导古典人文与现代科学联盟的“普通文化（*[[General Education|culture générale]]*）”通识教育理想。
 
 其跨国教育考察与借用实践奠定了 19 世纪行政改良主义的经典基准：
 

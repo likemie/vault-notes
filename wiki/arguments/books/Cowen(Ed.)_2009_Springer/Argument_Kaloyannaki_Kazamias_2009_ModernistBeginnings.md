@@ -7,9 +7,9 @@ title: "Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings"
 argument_key: "Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings"
 argument_display_title: "The Modernist Beginnings of Comparative Education: The Proto-Scientific and The Reformist-meliorist Administrative Motif"
 argument_kind: "book-chapter"
-argument_related_count: 58
-argument_related_level: 3
-argument_related_stars: "⭐⭐⭐"
+argument_related_count: 61
+argument_related_level: 4
+argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
 authors:
   - "[[Pella Kaloyannaki|Kaloyannaki, P.]]"
@@ -58,9 +58,12 @@ related_concepts:
   - "[[Leading Questions]]"
   - "[[Variable]]"
   - "[[Falsification]]"
+  - "[[Perpetual Peace]]"
   - "[[Pride in Learning]]"
+  - "[[State Educational Sovereignty]]"
   - "[[Normal School]]"
   - "[[Ontology]]"
+  - "[[Dual School System]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Common School Movement]]"
   - "[[Knowledge Mobilisation]]"
@@ -266,7 +269,7 @@ updated: 2026-09-06
 
 ---
 
-#### 3. 雅各宾创伤与帝国幻灭促成教育预防论转向，跨国教育蓝图旨在构建欧洲永久和平
+#### 3. 雅各宾创伤与帝国幻灭促成教育预防论转向，跨国教育蓝图旨在构建欧洲[[Perpetual Peace|永久和平]]
 
 朱利安将教育事实分类紧扣于全人体智德协调发展，其思想动力源于亲历法国大革命动荡所引发的深层创伤反思。思想史家罗伯特·帕尔默（R. R. Palmer, 1993:ix, 151）在其专著《从雅各宾到自由派：马克-安托万·朱利安》中系统考证，朱利安的生命轨迹完整贯穿了现代法国的革命与重建历程，其政治信念的转变直接推动了教育功能论从“激进暴力工具”向“理性预防机制”的根本转向：
 
@@ -284,14 +287,14 @@ updated: 2026-09-06
 >
 >   在波旁复辟时期的保守政治气候下，朱利安成为直言不讳的宪政自由派（outspoken liberal），受到让-雅克·卢梭（Jean-Jacques Rousseau）自由天性学说与伊曼努尔·[[Immanuel Kant|康德]]（Immanuel Kant）关于“启蒙即勇敢运用理性、摆脱不成熟状态”哲学的深刻启迪。1810 年，朱利安亲赴瑞士伊弗东（Yverdon）实地考察[[Johann Heinrich Pestalozzi|裴斯泰洛齐]]（Johann Heinrich Pestalozzi）的实验学校，深受其自然主义与人道主义教育原则触动，认识到儿童具有天赋的心理官能，教育的本质在于顺应天性促进体、智、德自主和谐发展，教师作为启迪受教者自主发展的外部助产士。这一认识论深化确立了其教育功能论的划时代转向：**教育作为革命的理性替代品，承担起防止人类社会再次陷入流血暴乱与专制循环的根本防线功能（a substitute for revolution, or as a means by which revolution could be prevented）**。（Palmer, 1993:151, 163–164; [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias, 2009, pp.19–20]]）
 
-从革命暴力工具到理性预防机制的根本转向，使朱利安清醒认识到：单一民族国家的孤立改良极易被复辟保守派或极端宗派利益所掐断。为了赋予教育预防论以坚实的制度支撑，他将视野拓展至全欧乃至全球治理，系统构想了以跨国比较促进永久和平的行动蓝图：
+从革命暴力工具到理性预防机制的根本转向，使朱利安清醒认识到：单一民族国家的孤立改良极易被复辟保守派或极端宗派利益所掐断。为了赋予教育预防论以坚实的制度支撑，他将视野拓展至全欧乃至全球治理，系统构想了以跨国比较促进[[Perpetual Peace|永久和平]]的行动蓝图：
 
 > [!pathways] 朱利安跨国教育共同体与世界和平治理蓝图
 > 1. **常设国际特别教育委员会** 由独立学者与各国通讯员（corresponding associates）密切协同，独立于狭隘政党与宗派利益，在全欧统一规程下搜集与核实教育原始材料，奠定现代超国家教育协调机构的组织雏形。（p.21）
 > 2. **标准化跨国问卷与比较观察表** 历时不到三年即可生成全欧教育现状对照总表，科学诊断各国机体的健康与患病断层（deficient and ailing sections），为因地制宜的理性借用提供实证事实依据。（p.21; Fraser, 1964:36–37）
 > 3. **示范性师范学院与多语种教育通报** 设立师范样板培育良师，创办多语种《教育总汇报》（General Journal of Education）向全欧推广优质教学方法，打破民族国家的知识壁垒与信息封锁。（p.22; Fraser, 1964:39）
 > 4. **世界公民认同与全球知识网络** 创办并主编发行于世界所有文明国家的[[Revue encyclopédique|《百科评论》]]（*Revue encyclopédique*），以“世界公民（cosmopolites）”身份呈现全球科学与道德进展，获美国总统杰斐逊致信赞誉其对[[International Education|国际教育]]的奉献。（pp.21–22; Fraser, 1964:12–13; Palmer, 1993:180–181）
-> 5. **比较文明学与永久和平治理构想** 加入伦敦“和平之友协会”，在 1833 年《致英格兰民族书》中将比较解剖学类比升华为“比较文明学”，呼吁以跨国教育协作荡涤旧时代野蛮战争残余，确立教育作为消除国际武装冲突、维系世界永久和平的超国家治理基石。（pp.22–24; Palmer, 1993:205）
+> 5. **比较文明学与永久和平治理构想** 加入伦敦“和平之友协会”，在 1833 年《致英格兰民族书》中将比较解剖学类比升华为“比较文明学”，呼吁以跨国教育协作荡涤旧时代野蛮战争残余，确立教育作为消除国际武装冲突、维系世界[[Perpetual Peace|永久和平]]的超国家治理基石。（pp.22–24; Palmer, 1993:205）
 
 ---
 
@@ -333,7 +336,7 @@ updated: 2026-09-06
 
 ---
 
-#### 2. 从跨国比较报告到国家立法转置：库森确立教育为国家公共资源的法哲学，开创实定法直接转置范式
+#### 2. 从跨国比较报告到国家立法转置：库森确立教育为[[State Educational Sovereignty|国家公共资源]]的法哲学，开创实定法直接转置范式
 
 库森 1831 年官方报告[[Report on the State of Public Instruction in Prussia|《普鲁士公共教育现状报告》]]英译后风靡大西洋两岸，展现出跨国经验在不同国家政体中的多维制度转化效能：
 
@@ -371,7 +374,7 @@ updated: 2026-09-06
 > [!proc] 库森欧陆实定法直接转置的四阶段机制
 > 1. **官方行政使命调研** 受教育部委派作为官方使节赴德开展实地调研，聚焦普鲁士[[Prussian Draft Education Law of 1819|聚芬法案]]的体制构架，确立为法国提供技术蓝本的考察目标。（pp.26–27）
 > 2. **编制官方比较报告** 发表[[Report on the State of Public Instruction in Prussia|《普鲁士公共教育现状报告》]]，以“考察普鲁士、心系法兰西”确立审慎借用准则，在欧美大西洋两岸确立广泛的政策话语影响力。（pp.25–26, 30）
-> 3. **国家公共资源法哲学奠基** 提炼“教育属国家公共资源”的核心法理，破除教会神权与家庭私权对教育的垄断，为国家最高督导权确立伦理与法权正当性。（p.28）
+> 3. **国家公共资源法哲学奠基** 提炼“教育属[[State Educational Sovereignty|国家公共资源]]”的核心法理，破除教会神权与家庭私权对教育的垄断，为国家最高督导权确立伦理与法权正当性。（p.28）
 > 4. **国家最高立法实定法化** 主笔将外国技术条款转化为《1833年基佐法案》，通过强制市镇建校、省立师范与中央督学网络，完成外国经验的国家法典转置。（pp.28–29）
 
 ---
@@ -493,7 +496,7 @@ updated: 2026-09-06
 > [!critique] 现代比较教育学的技术自满迷思与历史传统回归
 > - **实证主义的方法论拜物教与自然[[Scientism|科学主义]]僭越** 20 世纪后半叶，诺亚与埃克斯坦（Noah & Eckstein, 1969）、芝加哥功能主义学派（Anderson, 1961; Foster, 1960）及斯坦福世界体系学派（Arnove, 1982），狭隘地将“科学（*science*）”等同于自然科学假设检验与数理统计建模，将跨国比较异化为脱离历史文化脉络与阶级权力结构的纯技术指标演算；这一实证主义自满彻底割裂了学科初创期脱胎于欧陆“精神与人文科学（*human sciences* / *sciences humaines*）”的原初母体，使跨国研究退化为去语境化、服务于官僚问责的技术工具。（pp.17–18; Noah & Eckstein, 1969）
 > - **辉格史学的时代倒错与起源神话编造** 战后实证派出于学科专业化自满，编造了一套单向度的“科学进化神话”，将 19 世纪早期发端轻率贬为“幼稚前科学（pre-scientific）”与“粗劣的[[Artefact|器物]]借用期（borrowing phase）”（Bereday, 1964; Noah & Eckstein, 1969:25–26）。卡洛扬纳基与卡扎米亚斯（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias, 2009, pp. 32–33]]）严正批驳了这种后发标准的时代倒错（anachronism）：早期先驱作为卓越的“教育编年史官”、“叙事家”与“早期民族志记录者”，其百科全书式的事实汇纂为后世比较学科筑就了不可替代的经验史料母体，绝非实证派笔下不加鉴别的盲目抄录。（pp.32–33; Holmes, 1965）
-> - **教育改良主义与比较认识论问题域的遮蔽** 实证主义片面标榜“价值无涉”，导致现代学界遗忘了统摄 19 世纪所有先驱求知实践的最高动因——“教育改良主义（Educational Meliorism）”，即“以现实改进为先验目标的探究（inquiry with the objective of improvement）”（pp.33–34）。朱利安关照大革命创伤与永久和平，库森捍卫大资产阶级立宪秩序与国家教育权，霍勒斯·曼、斯托与巴纳德捍卫合众国自由共和政体免于文盲与专制退化；先驱们的跨国探究自始至终深嵌于应对“现代性危机（crisis of modernity）”的伦理关怀之中，构成了学科不可让渡的“比较认识论问题域（comparative epistemic problematique）”。（p.34; Palmer, 1993; Cremin, 1957）
+> - **教育改良主义与比较认识论问题域的遮蔽** 实证主义片面标榜“价值无涉”，导致现代学界遗忘了统摄 19 世纪所有先驱求知实践的最高动因——“教育改良主义（Educational Meliorism）”，即“以现实改进为先验目标的探究（inquiry with the objective of improvement）”（pp.33–34）。朱利安关照大革命创伤与[[Perpetual Peace|永久和平]]，库森捍卫大资产阶级立宪秩序与[[State Educational Sovereignty|国家教育权]]，霍勒斯·曼、斯托与巴纳德捍卫合众国自由共和政体免于文盲与专制退化；先驱们的跨国探究自始至终深嵌于应对“现代性危机（crisis of modernity）”的伦理关怀之中，构成了学科不可让渡的“比较认识论问题域（comparative epistemic problematique）”。（p.34; Palmer, 1993; Cremin, 1957）
 > - **历史-哲学传统的失落与学科人道主义救赎** 现代比较研究若沉溺于官僚化的指标测验与去语境化的跨国政策借用，必将沦为无灵魂的技术拼盘。卡洛扬纳基与卡扎米亚斯呼吁学界打破方法论拜物教与技术自满，重返现代主义发端奠定的伟大传统：将客观事实调查的实证求真，与人性解放、社会正义、共和公民德性与世界文明互鉴的崇高伦理关怀重新熔铸为一体，找回学科失落的批判与人文灵魂。（pp.11–13, 33–34）
 
 思想史的重新审视证明，事实分类求真与规范伦理关怀在学科初创期本是不可分割的孪生母题，共同奠定了现代比较认识论的核心问题域：

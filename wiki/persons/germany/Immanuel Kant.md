@@ -4,11 +4,11 @@ aliases:
   - Kant, I.
   - 康德
   - 伊曼努尔·康德
-summary: "德国古典哲学奠基人，以三大批判重塑认识论、伦理学与美学，提出哥白尼式革命调和先天论与经验论，其启蒙自主性与世界主义永久和平思想深刻启迪了现代教育哲学与比较教育学发端"
+summary: "德国古典哲学奠基人，以三大批判重塑认识论、伦理学与美学，提出哥白尼式革命调和先天论与经验论，其启蒙自主性与世界主义[[Perpetual Peace|永久和平]]思想深刻启迪了现代教育哲学与比较教育学发端"
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 16
+person_related_count: 17
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -25,6 +25,7 @@ tags:
   - theme/international-relations
 related_concepts:
   - "[[Epistemology]]"
+  - "[[Perpetual Peace]]"
   - "[[Revolutionism]]"
   - "[[Bildung]]"
   - "[[Critical Thinking]]"
@@ -108,7 +109,7 @@ updated: 2026-09-06
 >   - **阶段转向** 成功在纯粹理性经验边界（现象界）与实践理性道德要求（本体界）之间建立起严格划分，将人类心智确立为能动立法的主体。
 > - **1784–1803 — 历史哲学、政治世界主义与教育实践应用时期** 将批判哲学的理性自律原则外推至人类历史进程、国际政治秩序与代际教育培养之中。
 >   - **代表著作** 《答复这个问题：“什么是启蒙？”》（1784）、《世界公民观点下的普遍历史观念》（1784）、《论永久和平》（1795）、《论教育学》（1803）。
->   - **关键概念／方法** 启蒙（*Aufklärung*）、公共理性运用、世界公民状态（*Weltbürgertum*）、永久和平（*Zum ewigen Frieden*）、自然非社会的社会性、教育四阶段（照料、规训、教化、道德化）。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 20)]]；[[Argument_Klerides_2023_CE|Klerides (2023, p. 418)]]
+>   - **关键概念／方法** 启蒙（*Aufklärung*）、公共理性运用、世界公民状态（*Weltbürgertum*）、[[Perpetual Peace|永久和平]]（*Zum ewigen Frieden*）、自然非社会的社会性、教育四阶段（照料、规训、教化、道德化）。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 20)]]；[[Argument_Klerides_2023_CE|Klerides (2023, p. 418)]]
 >   - **阶段转向** 明确提出历史的发展指向全人类由野蛮冲突走向世界主义法权与永久和平，而教育构成了实现这一历史目的的唯一本体通道。
 
 ---
@@ -196,7 +197,8 @@ updated: 2026-09-06
 > | [[Certainty of Knowledge]] | 概念 | 在西方知识确定性追求中设立先验理性界限，标志绝对确定性向主体建构的转向。 |
 > | [[Mind and Its Wonders]] | 概念 | 提出心智范畴加工结构，为西方两千五百年先天论与经验论之争提供调和方案。 |
 > | [[Critical Thinking]] | 概念 | “Sapere aude! 敢于运用知性”的启蒙箴言，奠定现代独立审思与批判性思维的伦理基座。 |
-> | [[Revolutionism]] | 概念 | 国际关系英国学派界定的世界主义传统原型，以普遍人类共同体与永久和平为终极指针。 |
+> | [[Perpetual Peace]] | 概念 | 1795 年论著奠定以共和立宪、自由联邦与世界公民法权为核心的和平治理总纲。 |
+| [[Revolutionism]] | 概念 | 国际关系英国学派界定的世界主义传统原型，以普遍人类共同体与永久和平为终极指针。 |
 > | [[Wight's Three Traditions of International Theory]] | 理论 | 构成三大传统中与现实主义、理性主义并立的康德式世界主义道德传统。 |
 > | [[Bildung]] | 概念 | 将教育界定为人从动物自然走向理性自律的唯一途径，深远滋养德意志教化传统。 |
 > | [[Marc-Antoine Jullien]] | 人物 | 启迪朱利安将启蒙理性与永久和平诉求转化为跨国教育比较观察表的行动蓝图。 |\n
