@@ -128,19 +128,34 @@ updated: 2026-09-06
 > [!debates] 史学评价与后世定位
 >
 > > [!axis] 北美边疆公学立法的动员利器：史学定位
-> > 美国教育史学家埃德加·奈特（Edgar Knight）与思想史家对斯托报告在北美各州所发挥的政治动员与制度催化作用做出了权威评定。
+> > 美国教育史学家埃德加·奈特（Edgar Knight）对斯托报告在北美各州所发挥的政治动员与制度催化作用做出了权威评定。
 > >
-> > - **Edgar Knight (1930)** 评价指出：斯托作为俄亥俄州官方使节，其报告以无可辩驳的欧洲事实极具说服力地证明了国家公共教育的可行性与卓越性，不仅促成俄亥俄州初等公校法案通过，更由全美六大州议会破天荒下令重印发行，成为美国边疆拓殖期反击私学垄断、推进公立教育立法的关键政治武器。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 31–32)]]；引自 Knight (1930:248)
+> > - **奈特（Edgar Knight, 1930）** 评价指出：斯托作为俄亥俄州官方使节，其报告以无可辩驳的欧洲事实极具说服力地证明了国家公共教育的可行性与卓越性，不仅促成俄亥俄州初等公校法案通过，更由全美六大州议会破天荒下令重印发行，成为美国边疆拓殖期反击私学垄断、推进公立教育立法的关键政治武器。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 31–32)]]；引自 Knight (1930:248)
 >
-> > [!axis] 行政改良主义母题与外国教育学先驱
+> > [!axis] 唤醒民族精神与边疆教育爱国情操
+> > 斯托在报告中提炼出德意志公学经验的核心精髓。
+> >
+> > - **斯托报告（Stowe, 1837）** 盛赞普鲁士学校对国民精神的塑造：“在所有关乎教育的法令中，普鲁士反复且坚定地强调：唤醒民族精神，在青少年的心灵中建立对其祖国及其制度的热切依恋。”（引自 Knight, 1930:255）
+>
+> > [!axis] 美洲边疆公学立法的合法化理据
 > > 现代比较教育史学家卡洛扬纳基与卡扎米亚斯高度概括了斯托在大西洋跨国教育流动中的范式意义。
 > >
-> > - **[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]]** 阐明斯托与曼、巴纳德共同代表了 19 世纪美洲的“政策导向行政改良主义母题”；他们克服了单纯的党派纷争，将外国卓越实践敏锐地转译为国内民主改革的政治合法化资源，奠定了北美比较教育经验实证探究服务于国家民主建构的优良传统。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 32–34)]]
+> > - **章作者卡洛扬纳基与卡扎米亚斯评价** 阐明斯托与曼、巴纳德共同代表了 19 世纪美洲的“政策导向行政改良主义母题”；他们克服了单纯的党派纷争，将外部卓越实践敏锐地转译为国内民主改革的“合法化理据（legitimating rationales）”，奠定了北美比较教育经验实证探究服务于国家民主建构的传统。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 34)]]
 
-> [!citation-card]- 关键史学定性：奈特论斯托报告的跨州政策影响
+> [!citation-card]- 关键史学定性一：奈特论斯托报告的跨州政策影响
 > 奈特考证指出：斯托受俄亥俄州委托收集对本州有益的欧洲公共教育事实与信息；其报告在全美引发空前轰动，推动多州议会拨款重印，成为 19 世纪中叶美国公学运动最为权威的跨国政策借用文献之一。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 31–32)]]；引自 Knight (1930:248)
 >
 > *Stowe was commissioned by the state of Ohio to collect, while in Europe, 'such facts and information as he may deem useful to the State [Ohio] in relation to the various systems of public instruction and education'.*
+
+> [!citation-card]- 关键史学定性二：斯托报告论普鲁士教育唤醒民族精神
+> 斯托在其向俄亥俄议会提交的报告中盛赞普鲁士学校对国民精神的塑造：“在所有关乎教育的法令中，普鲁士反复且坚定地强调：唤醒民族精神，在青少年的心灵中建立对其祖国及其制度的热切依恋。”[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 31)]]；引自 Knight (1930:255)
+>
+> *...repeatedly and strenuously insisted in all the laws pertaining to education, to awaken a national spirit—to create in the youthful mind a warm attachment to his native land, and its institutions.*
+
+> [!citation-card]- 关键史学定性三：作者卡洛扬纳基与卡扎米亚斯论斯托报告作为边疆立法的合法化理据
+> 章作者总结指出：斯托等美洲先驱的核心机制在于将欧陆公学事实转译为美国边疆地区反击私学垄断、推进公立教育立法的合法化理据。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 34)]]
+>
+> *...the American policy-makers and administrators were motivated 'by a desire to gain useful lessons from abroad' ... to use as legitimating rationales for the reform of national public education in the United States.*
 
 ---
 

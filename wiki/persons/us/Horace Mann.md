@@ -183,25 +183,41 @@ updated: 2026-09-06
 
 > [!debates] 史学评价与后世定位
 >
-> > [!axis] 共和政体基石与古典自由主义教育哲学
-> > 美国著名教育史学家劳伦斯·克雷明（Lawrence A. Cremin）高度评价曼对美利坚共和体制与现代教育哲学的奠基性贡献。
+> > [!axis] 共和政体基石与双重考察自觉：思想史传记定位
+> > 著名历史学家劳伦斯·克雷明（Lawrence A. Cremin）与罗伯特·唐斯（Robert B. Downs）对曼的思想境界做出了权威定性。
 > >
-> > - **Lawrence A. Cremin (1957)** 深刻定性曼的思想精髓：“曼深刻洞悉了自由、大众教育与共和政体之间的内在必然联系……一个国家不可能既无知又自由。无论政治架构设计得多么精巧，其本身都无法内在保障公民的权利与自由；因为唯有当知识广泛分布于民众之中时，自由方能获得保障。因此，普遍的国民教育是共和政府赖以稳固立足的唯一基石。”[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 31–32)]]；引自 Cremin (1957:7)
+> > - **克雷明（Lawrence A. Cremin, 1957）** 经典定性：“曼深刻洞悉了自由、大众教育与共和政体之间的内在统一……一个国家不可能既无知又自由。任何政治架构无论设计多么精巧，都无法从根本上保障公民的权利与自由，因为唯有当知识广泛分布于民众之中时自由方可稳固。因此，普遍的大众教育是共和政府赖以稳固立足的唯一基石。”[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 32)]]；引自 Cremin (1957:7)
+> > - **唐斯（Robert B. Downs, 1974）** 揭示曼赴欧考察的心态：既有迫切吸收优良经验的渴望，更有审慎防范专制弊端的警惕，首要之务是寻找“警示险标与指引明灯”。（引自 Downs, 1974:88）
 >
-> > [!axis] 跨国考察动机：警世险标与前路明灯的双重辩证
-> > 曼的传记作家罗伯特·唐斯（Robert B. Downs）揭示了曼赴欧考察时超越盲目崇拜与狭隘偏见的深刻史学自觉。
+> > [!axis] 美洲公学先驱的借用实质：合法化理据而非制度移植
+> > 现代比较教育史学家卡洛扬纳基与卡扎米亚斯对曼的经验考察形态给予了明确的类型学界定。
 > >
-> > - **R. B. Downs (1974)** 指出曼之所以密切关注外国知名制度，是因为“对曼而言，首要之务是既要寻找令人警醒戒惧的险礁警标（beacons to terrify），也要寻找指引前路的导航明灯（lights to guide）”；他绝非照搬君主专制，而是审慎遴选有益于美洲共和制度改良的养分。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 32)]]；引自 Downs (1974:88)
+> > - **章作者卡洛扬纳基与卡扎米亚斯评价** 指出曼并非严格意义上的现代因果比较学者，而是卓越的行政改良主义者；其考察欧陆的实质并非直接进行政策借用或体制移植，而是将外部卓越实践转化为国内政治博弈中击溃保守势力、推进公学立法的“政治合法化理据”。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 34)]]
 >
-> > [!axis] 比较教育学史学史定位：外国教育学与行政改良主义先驱
-> > 在现代比较教育学科编年史上，史学家对曼的经验考察形态给予了明确的类型学界定。
+> > [!axis] 外国教育学（Auslandspädagogik）的学术定位
+> > 比较教育史学家界定了曼文献的学科史归属。
 > >
-> > - **Fraser & Brickman (1968) / [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]]** 指出曼的论述主要属于“外国教育学（Auslandspädagogik）”；尽管多属描述性、报告性且缺乏 20 世纪因果变量分析，但曼敏锐地将外部成功证据转化为国内政治博弈的话语资本，为分权民主社会开创了以比较考察服务于政策改良的经典范式。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 32–34)]]
+> > - **弗雷泽与布里克曼（Fraser & Brickman, 1968）** 指出曼的话语与朱利安不同，并非严格意义上的现代比较科学探究，而属于 19 世纪大西洋世界蓬勃兴起的“外国教育学（Auslandspädagogik）”，其关切深嵌于特定国家公学建构的实践需求之中。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 33)]]；引自 Fraser & Brickman (1968:19)
 
-> [!citation-card]- 关键史学定性：克雷明论曼的自由与国民教育思想
+> [!citation-card]- 关键史学定性一：克雷明论曼的自由与国民教育思想
 > 曼深刻洞悉了自由、大众教育与共和政体之间的内在统一：一个国家不可能既无知又自由；普遍的大众教育是共和政府赖以稳固立足的唯一基石。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 32)]]；引自 Cremin (1957:7)
 >
 > *Mann understood well the integral relationship between freedom, popular education, and republican government. ... A nation cannot long remain ignorant and free. ... universal popular education is the only foundation on which republican government can securely rest.*
+
+> [!citation-card]- 关键史学定性二：唐斯论曼赴欧考察的双重自觉：警示险标与指引明灯
+> 唐斯论述曼赴欧考察的内在动力：国外著名机构强烈吸引着曼，使他充满迫切愿望想探明外国经验是否有值得采纳之处以促进本土改良；但对曼而言，首要之务是寻找带来警示的险标，以及指引前路的明灯。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 32)]]；引自 Downs (1974:88)
+>
+> *...the celebrity of institutions in foreign countries had attracted his attention, filling him with 'an intensive desire of knowing whether, in any respect, those institutions were superior to our own; and if anything were found in them worthy of adoption, of transferring it for our improvement' ... Of first importance to Mann was to find 'beacons' to terrify as well as lights to guide.*
+
+> [!citation-card]- 关键史学定性三：作者卡洛扬纳基与卡扎米亚斯论美洲改革家的“合法化理据”借用实质
+> 章作者明确界定曼等美洲改革家的考察实质：他们并非为了朱利安与库森式的机械制度借用或移植，而是为了寻求外部教训作为抗击保守校长与宗派教权、推进全州公学立法的政治合法化理据。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 34)]]
+>
+> *It would be more accurate to say that the American meliorists sought 'lessons' from abroad to use as legitimating rationales for the reform of national public education in the United States.*
+
+> [!citation-card]- 关键史学定性四：弗雷泽与布里克曼论其话语属于“外国教育学”
+> 弗雷泽与布里克曼指出，曼等人的经验记述与朱利安不同，并非严格意义上的现代比较科学探究，而属于 19 世纪大西洋世界蓬勃兴起的外国教育学（Auslandspädagogik）。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 33)]]；引自 Fraser & Brickman (1968:19)
+>
+> *Unlike Jullien’s, the American discourse was only tangentially about comparative education, and like Cousin’s, it was more about foreign education, or to use Fraser’s and Brickman’s terminology, it was Auslandspadagogik.*
 
 ---
 
