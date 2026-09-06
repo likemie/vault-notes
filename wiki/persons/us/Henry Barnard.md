@@ -11,7 +11,7 @@ summary: "美国近代教育家与首任联邦教育专员，编纂卷帙浩繁�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 13
+person_related_count: 10
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -23,10 +23,8 @@ tags:
   - theme/historiography
 related_concepts:
   - "[[Auslandspadagogik]]"
-  - "[[Educational Meliorism]]"
-  - "[[Policy Borrowing]]"
   - "[[Common School Movement]]"
-  - "[[Encyclopaedism]]"
+  - "[[Educational Meliorism]]"
 related_theories: []
 related_methods:
   - "[[Ethnography]]"
@@ -37,8 +35,7 @@ related_persons:
   - "[[Victor Cousin]]"
   - "[[Harold Noah]]"
   - "[[Max Eckstein]]"
-related_facts:
-  - "[[National Education]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
 confidence: high
@@ -58,7 +55,7 @@ updated: 2026-09-06
 > [!person-profile] 人物档案
 > - **身份位置** 美国首任联邦教育专员、康涅狄格州与罗得岛州公共教育督办首脑、《美国教育杂志》创办人与主编；19 世纪外国教育调查与文献汇纂的集大成者。
 > - **核心角色** 在比较教育学科史上，巴纳德是将早期“[[Auslandspadagogik|外国教育学]]”从零星的旅行见闻推向系统化、百科全书式历史描述与教育民族志记录的枢纽人物。
-> - **代表贡献** 编纂出版两卷本跨国教育宏篇巨著《国民教育》（*[[National Education|National Education in Europe]]*），并独立创办主持长达 31 卷的《美国教育杂志》（*American Journal of Education*），筑就了近代西方教育史料最完备的客观档案库。
+> - **代表贡献** 编纂出版两卷本跨国教育宏篇巨著《国民教育》（[[National Education in Europe|《欧洲国民教育》（*National Education in Europe*）]]），并独立创办主持长达 31 卷的《美国教育杂志》（*American Journal of Education*），筑就了近代西方教育史料最完备的客观档案库。
 
 巴纳德以极其宏阔的视野系统梳理欧洲各国的教育制度，其工作赢得了后世学者的广泛赞誉：
 
@@ -78,7 +75,7 @@ updated: 2026-09-06
 > - **1830** 毕业于耶鲁学院（Yale College），随后考取律师资格，当选康涅狄格州众议员。
 > - **1838–1842** 起草并通过康涅狄格州公共学校法案，出任该州首任公立学校事务委员会秘书（Secretary of the Board of Commissioners of Common Schools），创办并编辑《康涅狄格公共学校总报》（*Connecticut Common School Journal*）。
 > - **1843–1849** 应邀出任罗得岛州首任公立学校学监（State Superintendent of Rhode Island Schools），全面重构该州初等教育体制与师资考评标准。
-> - **1854** 出版里程碑式巨著《欧洲国民教育》（*National Education in Europe*），全景式呈现德意志、英、法、瑞士等国各级各类学校的法定大纲与统计数据。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 32–33)]]
+> - **1854** 出版里程碑式巨著[[National Education in Europe|《欧洲国民教育》（*National Education in Europe*）]]，全景式呈现德意志、英、法、瑞士等国各级各类学校的法定大纲与统计数据。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 32–33)]]
 > - **1855–1882** 创办并持续编辑长达 31 卷、总字数逾千万的《美国教育杂志》（*American Journal of Education*），被称为 19 世纪美国教育的活百科全书。
 > - **1867–1870** 获安德鲁·约翰逊总统任命，出任美利坚合众国首任联邦教育专员（United States Commissioner of Education），奠定联邦教育局（Office of Education）的国家统计与调研职能。
 > - **1900** 逝世于故乡哈特福德。
@@ -90,7 +87,7 @@ updated: 2026-09-06
 巴纳德以极其惊人的毅力独立完成了 19 世纪最为浩瀚的跨国教育文献汇编：
 
 > [!work-line] 主要著作
-> - **1854/1872 — *National Education in Europe*** 巴纳德比较教育学的代表作。全书详尽记录了欧洲各国公共教育的历史沿革、行政架构、各级学校组织、课时分配表、教师任用条件与国家教育财政支出，被布赖恩·霍姆斯誉为近代比较教育史上的宏伟奇迹。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 32)]]
+> - **1854/1872 — [[National Education in Europe|*National Education in Europe*]]** 巴纳德比较教育学的代表作。全书详尽记录了欧洲各国公共教育的历史沿革、行政架构、各级学校组织、课时分配表、教师任用条件与国家教育财政支出，被布赖恩·霍姆斯誉为近代比较教育史上的宏伟奇迹。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 32)]]
 > - **1855–1882 — *American Journal of Education*** 长达 31 卷的教育学术期刊。广泛译介欧洲最前沿的教学理论（裴斯泰洛齐、福禄贝尔）、各国学校法令条文、师资培训实验报告与历史文献，构成了美国公学运动在思想理论与实务技术上的超级智库。
 
 ---
@@ -146,9 +143,9 @@ updated: 2026-09-06
 > > [!axis] 巴纳德比较进路的性质：杂乱无章的盲目记录还是卓越的教育民族志
 > > 围绕巴纳德汇编的海量外国教育法令、统计与事实，战后实证主义学派与当代历史学派展开了正面交锋。
 > >
-> > - **Noah & Eckstein (1969)** 严厉指责巴纳德“在不加鉴别、甚至缺乏系统性地记录与再版所有可得材料中看到了价值”，斥其著作缺乏因果假设检验与严格变量控制，本质上属于非比较、非分析的前科学盲目堆砌。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 32–33)]]
-> > - **Holmes (1965)** 肯定巴纳德的历史与描述性进路，赞誉其独立编纂出世界教育百科全书，为理解跨国制度演进提供了无可替代的客观画卷。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(p. 32)]]
-> > - **Kaloyannaki & Kazamias (2009)** 批驳实证派的时代倒错：巴纳德虽缺乏深层的历史解释学阐释与语境因果模型，但将其斥为“杂乱盲目记录”完全失当；应当公正地将其定位为卓越的“教育编年史官（educational chronicler）”、“教育叙事家（educational narrator）”与“早期教育民族志学者（educational ethnographer）”。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(pp. 32–33)]]
+> > - **Noah & Eckstein (1969)** 严厉指责巴纳德“在不加鉴别、甚至缺乏系统性地记录与再版所有可得材料中看到了价值”，斥其著作缺乏因果假设检验与严格变量控制，本质上属于非比较、非分析的前科学盲目堆砌。（Noah & Eckstein, 1969:25–26）
+> > - **Holmes (1965)** 肯定巴纳德的历史与描述性进路，赞誉其独立编纂出世界教育百科全书，为理解跨国制度演进提供了无可替代的客观画卷。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, p. 32)]]
+> > - **[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 33)]]** 批驳实证派的时代倒错：巴纳德虽缺乏深层的历史解释学阐释与语境因果模型，但将其斥为“杂乱盲目记录”完全失当；应当公正地将其定位为卓越的“教育编年史官（educational chronicler）”、“教育叙事家（educational narrator）”与“早期教育民族志学者（educational ethnographer）”。
 
 > [!warning] 未解问题与方法局限
 > 卡洛扬纳基与卡扎米亚斯指出，巴纳德在撰写欧洲各国教育史时，往往将法令条文与制度演进平铺直叙，缺乏对制度深嵌于特定国家阶级结构、政治冲突与文化传统的解释学阐释与情境归因（lacked historical interpretation and contextual explanation），因而在严格的当代科学定义下难以被称为“比较因果解释学者”。
@@ -161,6 +158,7 @@ updated: 2026-09-06
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
+| [[National Education in Europe]] | 政策 / 事实 | 巴纳德比较教育学代表作，欧洲各国公共教育体制与统计百科全书。 |
 > | [[Common School Movement]] | 概念 | 巴纳德通过文献整理与行政实践，为全美公学运动确立了坚实的制度与理论后盾。 |
 > | [[Auslandspadagogik]] | 概念 | 巴纳德的《国民教育》是 19 世纪前期外国教育学历史描述进路的最高峰。 |
 > | [[Educational Meliorism]] | 概念 | 巴纳德致力于通过吸取外部制度优长改善本土公共教育，体现了改良主义母题。 |

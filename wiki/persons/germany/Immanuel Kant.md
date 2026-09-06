@@ -3,6 +3,7 @@ title: Immanuel Kant
 aliases:
   - Kant, I.
   - 康德
+  - 伊曼努尔·康德
 summary: "德国哲学家，启蒙运动与德国古典哲学的核心人物，以三大批判重塑认识论、伦理学与美学，其心智范畴论调和了先天论与经验论的千年之争"
 type: person
 nationality: germany
@@ -12,15 +13,15 @@ person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
 tags:
-- region/germany
-- region/western
-- field/philosophy
-- field/educational-philosophy
-- school/kantianism
-- theme/knowledge
-- theme/learning
-- theme/ethics
-- theme/metaphysics
+  - region/germany
+  - region/western
+  - field/philosophy
+  - field/educational-philosophy
+  - school/kantianism
+  - theme/knowledge
+  - theme/learning
+  - theme/ethics
+  - theme/metaphysics
 related_concepts:
   - "[[Epistemology]]"
   - "[[Certainty of Knowledge]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-08-20
+updated: 2026-09-06
 ---
 # Immanuel Kant
 

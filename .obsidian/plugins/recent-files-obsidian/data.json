@@ -5,6 +5,22 @@
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings.md"
     },
     {
+      "basename": "Common School Movement",
+      "path": "wiki/concepts/comparative-education/Common School Movement.md"
+    },
+    {
+      "basename": "Pride in Learning",
+      "path": "wiki/concepts/chinese-philosophy/Pride in Learning.md"
+    },
+    {
+      "basename": "Jürgen Habermas",
+      "path": "wiki/persons/germany/Jürgen Habermas.md"
+    },
+    {
+      "basename": "Immanuel Kant",
+      "path": "wiki/persons/germany/Immanuel Kant.md"
+    },
+    {
       "basename": "Faculty Psychology",
       "path": "wiki/concepts/educational-philosophy/Faculty Psychology.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Experimental Research",
       "path": "wiki/methods/quantitative/Experimental Research.md"
-    },
-    {
-      "basename": "Project-Based Learning",
-      "path": "wiki/concepts/instruction-pedagogy/Project-Based Learning.md"
-    },
-    {
-      "basename": "Problem-Based Learning",
-      "path": "wiki/concepts/instruction-pedagogy/Problem-Based Learning.md"
-    },
-    {
-      "basename": "AI Agent in Education",
-      "path": "wiki/concepts/educational-technology/AI Agent in Education.md"
-    },
-    {
-      "basename": "Higher-Order Thinking Skills",
-      "path": "wiki/concepts/learning-science-cognitive-science/Higher-Order Thinking Skills.md"
     }
   ],
   "omittedPaths": [],

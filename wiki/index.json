@@ -15467,7 +15467,8 @@
     "path": "wiki/persons/germany/Immanuel Kant.md",
     "aliases": [
       "Kant, I.",
-      "康德"
+      "康德",
+      "伊曼努尔·康德"
     ]
   },
   {
@@ -20454,6 +20455,20 @@
     "aliases": [
       "NCRPP",
       "全美政策与实践研究中心"
+    ]
+  },
+  {
+    "title": "National Education in Europe",
+    "type": "fact",
+    "path": "wiki/facts/us/National Education in Europe.md",
+    "aliases": [
+      "欧洲国民教育",
+      "国民教育：各国公共教育体制、制度与统计",
+      "巴纳德欧洲国民教育",
+      "巴纳德国民教育",
+      "Barnard's National Education in Europe",
+      "National Education: Systems, Institutions and Statistics of Public Instruction in Different Countries",
+      "National Education in Europe: Being an Account of the Organization, Administration, Instruction, and Statistics of Public Schools"
     ]
   },
   {
