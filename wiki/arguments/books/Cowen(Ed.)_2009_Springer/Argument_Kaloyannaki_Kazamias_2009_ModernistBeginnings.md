@@ -7,7 +7,7 @@ title: "Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings"
 argument_key: "Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings"
 argument_display_title: "The Modernist Beginnings of Comparative Education: The Proto-Scientific and The Reformist-meliorist Administrative Motif"
 argument_kind: "book-chapter"
-argument_related_count: 59
+argument_related_count: 58
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -71,8 +71,7 @@ related_theories: []
 related_methods:
   - "[[Survey Research]]"
   - "[[Ethnography]]"
-related_instruments:
-  - "[[VALUE Rubrics]]"
+related_instruments: []
 related_persons:
   - "[[Marc-Antoine Jullien]]"
   - "[[Victor Cousin]]"
@@ -494,7 +493,7 @@ updated: 2026-09-06
 > [!critique] 现代比较教育学的技术自满迷思与历史传统回归
 > - **实证主义的方法论拜物教与自然[[Scientism|科学主义]]僭越** 20 世纪后半叶，诺亚与埃克斯坦（Noah & Eckstein, 1969）、芝加哥功能主义学派（Anderson, 1961; Foster, 1960）及斯坦福世界体系学派（Arnove, 1982），狭隘地将“科学（*science*）”等同于自然科学假设检验与数理统计建模，将跨国比较异化为脱离历史文化脉络与阶级权力结构的纯技术指标演算；这一实证主义自满彻底割裂了学科初创期脱胎于欧陆“精神与人文科学（*human sciences* / *sciences humaines*）”的原初母体，使跨国研究退化为去语境化、服务于官僚问责的技术工具。（pp.17–18; Noah & Eckstein, 1969）
 > - **辉格史学的时代倒错与起源神话编造** 战后实证派出于学科专业化自满，编造了一套单向度的“科学进化神话”，将 19 世纪早期发端轻率贬为“幼稚前科学（pre-scientific）”与“粗劣的[[Artefact|器物]]借用期（borrowing phase）”（Bereday, 1964; Noah & Eckstein, 1969:25–26）。卡洛扬纳基与卡扎米亚斯（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias, 2009, pp. 32–33]]）严正批驳了这种后发标准的时代倒错（anachronism）：早期先驱作为卓越的“教育编年史官”、“叙事家”与“早期民族志记录者”，其百科全书式的事实汇纂为后世比较学科筑就了不可替代的经验史料母体，绝非实证派笔下不加鉴别的盲目抄录。（pp.32–33; Holmes, 1965）
-> - **教育改良主义与比较认识论问题域的遮蔽** 实证主义片面标榜“价值无涉（[[VALUE Rubrics|VALUE]]-free）”，导致现代学界遗忘了统摄 19 世纪所有先驱求知实践的最高动因——“教育改良主义（Educational Meliorism）”，即“以现实改进为先验目标的探究（inquiry with the objective of improvement）”（pp.33–34）。朱利安关照大革命创伤与永久和平，库森捍卫大资产阶级立宪秩序与国家教育权，霍勒斯·曼、斯托与巴纳德捍卫合众国自由共和政体免于文盲与专制退化；先驱们的跨国探究自始至终深嵌于应对“现代性危机（crisis of modernity）”的伦理关怀之中，构成了学科不可让渡的“比较认识论问题域（comparative epistemic problematique）”。（p.34; Palmer, 1993; Cremin, 1957）
+> - **教育改良主义与比较认识论问题域的遮蔽** 实证主义片面标榜“价值无涉”，导致现代学界遗忘了统摄 19 世纪所有先驱求知实践的最高动因——“教育改良主义（Educational Meliorism）”，即“以现实改进为先验目标的探究（inquiry with the objective of improvement）”（pp.33–34）。朱利安关照大革命创伤与永久和平，库森捍卫大资产阶级立宪秩序与国家教育权，霍勒斯·曼、斯托与巴纳德捍卫合众国自由共和政体免于文盲与专制退化；先驱们的跨国探究自始至终深嵌于应对“现代性危机（crisis of modernity）”的伦理关怀之中，构成了学科不可让渡的“比较认识论问题域（comparative epistemic problematique）”。（p.34; Palmer, 1993; Cremin, 1957）
 > - **历史-哲学传统的失落与学科人道主义救赎** 现代比较研究若沉溺于官僚化的指标测验与去语境化的跨国政策借用，必将沦为无灵魂的技术拼盘。卡洛扬纳基与卡扎米亚斯呼吁学界打破方法论拜物教与技术自满，重返现代主义发端奠定的伟大传统：将客观事实调查的实证求真，与人性解放、社会正义、共和公民德性与世界文明互鉴的崇高伦理关怀重新熔铸为一体，找回学科失落的批判与人文灵魂。（pp.11–13, 33–34）
 
 思想史的重新审视证明，事实分类求真与规范伦理关怀在学科初创期本是不可分割的孪生母题，共同奠定了现代比较认识论的核心问题域：

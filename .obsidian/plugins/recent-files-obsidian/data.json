@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Immanuel Kant",
+      "path": "wiki/persons/germany/Immanuel Kant.md"
+    },
+    {
       "basename": "Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings",
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings.md"
+    },
+    {
+      "basename": "Johann Heinrich Pestalozzi",
+      "path": "wiki/persons/switzerland/Johann Heinrich Pestalozzi.md"
+    },
+    {
+      "basename": "General Education",
+      "path": "wiki/concepts/educational-philosophy/General Education.md"
     },
     {
       "basename": "VALUE Rubrics",
@@ -27,10 +39,6 @@
     {
       "basename": "Pride in Learning",
       "path": "wiki/concepts/chinese-philosophy/Pride in Learning.md"
-    },
-    {
-      "basename": "Immanuel Kant",
-      "path": "wiki/persons/germany/Immanuel Kant.md"
     },
     {
       "basename": "Faculty Psychology",
@@ -191,14 +199,6 @@
     {
       "basename": "Inter-Rater Reliability",
       "path": "wiki/concepts/research-methodology/Inter-Rater Reliability.md"
-    },
-    {
-      "basename": "Funnel Plot",
-      "path": "wiki/concepts/research-methodology/Funnel Plot.md"
-    },
-    {
-      "basename": "Self-Regulated Learning",
-      "path": "wiki/concepts/educational-psychology/Self-Regulated Learning.md"
     }
   ],
   "omittedPaths": [],
