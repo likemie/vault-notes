@@ -10,10 +10,10 @@ summary: "法国启蒙自由主义教育家与国际主义者，1817年发表比
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 22
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 24
+person_related_level: 3
+person_related_stars: "⭐⭐⭐"
+person_related_color: "#ede9fe"
 tags:
   - subject/comparative-education
   - theme/historiography
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Questionnaire]]"
   - "[[International Education]]"
   - "[[Educational Meliorism]]"
+  - "[[Faculty Psychology]]"
   - "[[Epistemology]]"
   - "[[Policy Borrowing]]"
   - "[[Positivism]]"
@@ -47,7 +48,8 @@ related_persons:
   - "[[Auguste Comte]]"
   - "[[Harold Noah]]"
   - "[[Max Eckstein]]"
-related_facts: []
+related_facts:
+  - "[[Esquisse d'un ouvrage sur l'éducation comparée]]"
 related_arguments:
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
 confidence: high
@@ -65,7 +67,7 @@ updated: 2026-09-06
 > [!person-profile] 人物档案
 > - **身份位置** 法国启蒙自由主义教育理论家、外交官、国民公会战地记者、百科全书编纂者与跨国社会活动家，跨越法国大革命恐怖统治至 1848 年二月革命的重要自由派知识分子。
 > - **核心角色** 现代比较教育学的学科奠基人与公认先驱，跨国教育与世界和平治理运动的早期开拓者；确立了以跨国经验观察、实证事实分类诊断社会病理，并服务于全人道德[[Bildung|教化]]、消除战争野蛮与维系世界和平的学术[[Paradigm|范式]]。
-> - **代表贡献** 1817 年出版奠基性专论《关于比较教育的一项著作的计划与初步观点》（*Esquisse*），首创比较教育准实证科学（*science positive*）构想与标准化[[Questionnaire|问卷调查]]法；编制覆盖六大领域的比较观察表（Comparative Observation Tables）；系统构想包含常设特别教育委员会、示范师训学院与多语种通报网络的跨国教育共同体与世界和平治理蓝图，为 20 世纪[[International Education|国际教育]]局（IBE）与联合国教科文组织（UNESCO）提供了早期组织原型。
+> - **代表贡献** 1817 年出版奠基性专论[[Esquisse d'un ouvrage sur l'éducation comparée|《关于比较教育的一项著作的计划与初步观点》（*Esquisse*）]]，首创比较教育准实证科学（*science positive*）构想与标准化[[Questionnaire|问卷调查]]法；编制覆盖六大领域的比较观察表（Comparative Observation Tables）；系统构想包含常设特别教育委员会、示范师训学院与多语种通报网络的跨国教育共同体与世界和平治理蓝图，为 20 世纪[[International Education|国际教育]]局（IBE）与联合国教科文组织（UNESCO）提供了早期组织原型。
 
 > [!citation-card]- 人物定位的关键来源
 > 自 1940 年代朱利安的《计划》被重新发掘至今，比较教育学者普遍认定他是比较教育学发展的先驱，甚至尊称他为这门现代科学之父。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, p. 20)]]
@@ -82,7 +84,7 @@ updated: 2026-09-06
 > - **1792–1794** 青年时代迅速激进化，加入雅各宾俱乐部并出任国民公会特派战地记者，深度卷入罗伯斯庇尔（Maximilien Robespierre）政权的恐怖统治，将国民教育视作政治暴力革命的附庸工具。（Palmer, 1993:ix, 154）
 > - **1798–1801** 作为拿破仑·波拿巴（Napoleon Bonaparte）远征埃及军团的战争专员前往北非；亲历军阀专制残暴、政治清洗与帝国侵略战争后，对政治暴力产生深刻幻灭，随之游历英格兰、苏格兰与欧洲大陆。（Palmer, 1993:ix）
 > - **1805–1810** 思想发生根本转向，投身教育与社会改良研究；1808 年出版《教育总论》；1810 年实地考察瑞士伊弗东（Yverdon）裴斯泰洛齐（J. H. Pestalozzi）学校与霍夫维尔费伦伯格（P. E. Fellenberg）学校，奠定以儿童为中心的自然主义与人道主义教育哲学；同年致信美国前总统杰斐逊（Thomas Jefferson）。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 12, 19–20)]]
-> - **1817** 发表比较教育奠基之作《关于比较教育的一项著作的计划与初步观点》（*Esquisse*），系统阐发比较解剖学类比、经验分类学与跨国[[Questionnaire|问卷调查]]规程。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 11–13)]]
+> - **1817** 发表比较教育奠基之作[[Esquisse d'un ouvrage sur l'éducation comparée|《关于比较教育的一项著作的计划与初步观点》（*Esquisse*）]]，系统阐发比较解剖学类比、经验分类学与跨国[[Questionnaire|问卷调查]]规程。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 11–13)]]
 > - **1819–1830** 创办并主编《百科评论》（*Revue encyclopédique*），提出 1819 年《人类知识总表》，将教育学归入关涉心灵与道德的二级精神科学；践行培根式的科学统一思想与世界公民理念，广泛刊载各大洲的公共教育与文化进展。（Palmer, 1993:176–181）
 > - **1830–1848** 赞同 1830 年七月革命与 1848 年二月革命；积极投身伦敦“和平之友协会”（Association of Friends for Peace），在 1833 年《致英格兰民族书》中将比较解剖学类比升华为“比较文明学”，呼吁以跨国教育协作荡涤旧时代野蛮战争残余；1848 年在巴黎逝世，数周后路易-拿破仑·波拿巴当选法兰西第二共和国总统。（Palmer, 1993:ix, 205; [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias, 2009, pp. 19]], 22–24）
 
@@ -92,11 +94,11 @@ updated: 2026-09-06
 
 > [!thought-timeline] 思想发展
 > - **1789–1808 — 从雅各宾暴力工具论向启蒙教育预防论的根本转向** 亲历大革命恐怖统治与第一帝国战争动荡，从政治暴力幻想中抽离，将政治热忱转移至将公共教育确立为预防流血革命、促进社会理性进化的替代性途径。
->   - **代表著作** 《关于教育的普遍论文》（*Essai général d'éducation*, 1808）、《关于比较教育的一项著作的计划与初步观点》（*Esquisse*, 1817）。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 11, 20)]]
+>   - **代表著作** 《关于教育的普遍论文》（*Essai général d'éducation*, 1808）、[[Esquisse d'un ouvrage sur l'éducation comparée|《关于比较教育的一项著作的计划与初步观点》（*Esquisse*, 1817）]]。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 11, 20)]]
 >   - **关键概念／方法** [[Educational Meliorism|教育改良主义]]、教育预防论、[[Faculty Psychology|心灵官能]]自主展开。
 >   - **阶段转向** 彻底走出革命专政阴影，将教育从阶级暴力夺权的从属工具，升格为革命的替代品与防止暴乱重演的心灵防线。
 > - **1810–1817 — 准实证科学构想与比较观察指标体系的系统确立** 受到居维叶比较解剖学分类法与自然经验主义[[Epistemology|认识论]]启发，试图使教育学摆脱形而上学玄思与神学宗派束缚。
->   - **代表著作** 《关于比较教育的一项著作的计划与初步观点》（*Esquisse et vues préliminaires sur un ouvrage sur l’éducation comparée*, 1817）。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 11–13)]]
+>   - **代表著作** [[Esquisse d'un ouvrage sur l'éducation comparée|《关于比较教育的一项著作的计划与初步观点》（*Esquisse et vues préliminaires sur un ouvrage sur l’éducation comparée*, 1817）]]。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 11–13)]]
 >   - **关键概念／方法** 比较解剖学类比、分析图表（Analytical Charts）、比较观察表（Comparative Observation Tables）、审慎[[Policy Borrowing|政策借用]]。
 >   - **阶段转向** 吸收解剖学经验分类与经验-演绎法，以客观事实分类诊断各国教育机体的患病断层，开创现代经验比较研究的设计原型。
 > - **1818–1848 — 欧陆二级精神科学定位与世界主义永久和平蓝图** 扩展学术视野至全球文明交往与世界和平，将比较科学上升为全人类精神觉醒、消除战争野蛮与道德复兴的世界和平治理工程。
