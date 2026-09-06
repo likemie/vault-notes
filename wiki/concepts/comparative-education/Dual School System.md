@@ -98,7 +98,7 @@ updated: 2026-09-06
 > - **终点性平民初等轨道（Primary Terminal Order / Volksschule）** 面向工农平民与城市贫民；初级小学传授读写算（3Rs）、母语法语或德语通用语、度量衡以及立德固本的宗教道德教化；在超 6,000 人工商业城镇增设高级初等小学（*écoles primaires supérieures* / *Bürgerschulen*），传授商业簿记、制图与实用数理；全轨道以培养勤勉守法的产业劳动力与安抚社会戾气为首要功能，严格封堵升入大学的通道。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 28–29)]]
 > - **排他性精英中等学术轨道（Secondary Academic Order / Gymnasium / Lycée）** 面向贵族、大金融资本家与高级官僚；自设专属的中学附属收费初等预备班（避免与平民子弟混同）；课程以拉丁文、希腊古典文学、严密几何与哲学修辞的“普通文化（*culture générale*）”为核心；全权垄断大学入学会考（Baccalauréat / Abitur）与大学准入，为国家再生产官僚、法官、学者与政治统治精英。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 29–30)]]
 > - **师资培养体系的二元断裂（Bifurcated Teacher Pipelines）** 初等小学教师来自独立设置的中等[[Normal School|师范学校]]（Normal School），学生大多出身平民阶层，仅受过实用教学技能操练；而文理中学教师必须出自综合大学文理学院或巴黎高等师范学校，拥有深厚学术声望与独立知识分子地位；两支师资在薪资待遇、知识素养与社会阶层上互不往来。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 27–28)]]
-> - **学费门槛与制度性准入壁垒（Financial and Latin Gatekeeping）** 精英中等学校收取昂贵学费，且入学考试硬性要求掌握古典语言语法；大众初等学校毕业生由于从未被讲授过拉丁文与高级数学，即便学业拔尖也无法跨越这道制度性鸿沟。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 29–30)]]
+> - **学费门槛与制度性准入壁垒（Financial and Latin Gatekeeping）** 精英中等学校收取昂贵学费，且入学考试硬性要求掌握古典语言语法；大众初等学校毕业生由于从未被讲授过拉丁文与高级数学，即便学业拔尖也无法跨越这道制度性鸿沟。
 
 > [!logic-map]- 双轨学制运作与阶级再生产结构图
 > ```mermaid
