@@ -5,6 +5,14 @@
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings.md"
     },
     {
+      "basename": "Marc-Antoine Jullien",
+      "path": "wiki/persons/france/Marc-Antoine Jullien.md"
+    },
+    {
+      "basename": "Questionnaire",
+      "path": "wiki/concepts/research-methodology/Questionnaire.md"
+    },
+    {
       "basename": "Perpetual Peace",
       "path": "wiki/concepts/comparative-education/Perpetual Peace.md"
     },
@@ -125,10 +133,6 @@
       "path": "wiki/concepts/comparative-education/Policy Borrowing.md"
     },
     {
-      "basename": "Marc-Antoine Jullien",
-      "path": "wiki/persons/france/Marc-Antoine Jullien.md"
-    },
-    {
       "basename": "Max Eckstein",
       "path": "wiki/persons/us/Max Eckstein.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Gita Steiner-Khamsi",
       "path": "wiki/persons/us/Gita Steiner-Khamsi.md"
-    },
-    {
-      "basename": "Argument_Zhao_2025_JIntell",
-      "path": "wiki/arguments/journal-articles/Journal of Intelligence/Argument_Zhao_2025_JIntell.md"
     }
   ],
   "omittedPaths": [],

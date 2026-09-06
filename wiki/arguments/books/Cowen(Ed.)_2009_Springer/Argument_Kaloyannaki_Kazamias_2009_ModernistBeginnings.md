@@ -123,7 +123,7 @@ updated: 2026-09-06
 > 2. **政策导向的行政改良主义母题** 由英美法教育决策者确立，在欧洲体现为库森基于普鲁士考察将外部成功经验直接制度化为法国[[Guizot Law of 1833|1833年基佐法案]]（Guizot Law of 1833）的选择性借用，在北美则体现为霍勒斯·曼等人将欧洲初等公立学校的卓越实绩转化为**击败国内保守势力、论证自由共和政体必须普及公共教育的强大合法化依据**。（pp.11–13, 24–30, 33–34）
 
 > [!concept-lens] 阅读透镜
-> - **对象** 19 世纪前中期现代比较教育学奠基文本，包括[[Esquisse d'un ouvrage sur l'éducation comparée|朱利安 1817 年《计划》（*Esquisse*）]]与问卷题项、库森 1831 年[[Report on the State of Public Instruction in Prussia|《普鲁士公共教育现状报告》]]与法国 1833 年基佐法案、[[Seventh Annual Report of the Massachusetts Board of Education|霍勒斯·曼 1844 年《第七次年度报告》]]、[[Calvin Stowe|卡尔文·斯托]]（Calvin Stowe）1837 年[[Report on Elementary Public Instruction in Europe|俄亥俄州报告]]，以及[[Henry Barnard|亨利·巴纳德]]（Henry Barnard）1872 年[[National Education in Europe|《国民教育》（*National Education*）]]两卷本巨著。
+> - **对象** 19 世纪前中期现代比较教育学奠基文本，包括[[Esquisse d'un ouvrage sur l'éducation comparée|朱利安 1817 年《计划》（Esquisse）]]与问卷题项、库森 1831 年[[Report on the State of Public Instruction in Prussia|《普鲁士公共教育现状报告》]]与法国 1833 年基佐法案、[[Seventh Annual Report of the Massachusetts Board of Education|霍勒斯·曼 1844 年《第七次年度报告》]]、[[Calvin Stowe|卡尔文·斯托]]（Calvin Stowe）1837 年[[Report on Elementary Public Instruction in Europe|俄亥俄州报告]]，以及[[Henry Barnard|亨利·巴纳德]]（Henry Barnard）1872 年[[National Education in Europe|《国民教育》（*National Education*）]]两卷本巨著。
 > - **张力** 20 世纪行为[[Positivism|实证主义]]对早期[[Document|文献]]主观偏见与方法粗糙的时代倒错指责 vs 历史情境中启蒙人文理性、[[Faculty Psychology|心灵官能心理学]]（faculty psychology）与国家道德重生的整全抱负；欧洲行政官员以实定法条文移植为核心的借用 vs 美国改革者在共和政体危机下将外部经验作为国内政治动员合法化工具的深层修辞。
 > - **贡献** 系统解构了学科起源叙事中的单向度实证主义偏见，揭示出朱利安文献兼具实证分类与[[International Education|国际教育]]和平主义的双重特质，并在跨大西洋视野下提炼出改良主义在欧陆制度直接移植与北美政治合法化依据之间的机制分殊。
 
