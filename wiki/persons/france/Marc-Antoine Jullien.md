@@ -170,18 +170,18 @@ updated: 2026-09-06
 
 ## 历史评价
 
-> [!citation-card]- 关键史学定性一：帕尔默与章作者论“文明使徒”与“和平使徒”的双重定性
+> [!citation-card]- 帕尔默与卡洛扬纳基论“文明使徒”与“和平使徒”
 > 朱利安不仅配得上帕尔默对其“文明使徒”的定性，同样完全当得起“和平使徒”的称号。面对宗教道德纽带解体与动荡战争创伤，朱利安致力于通过国内与国际教育的革新，实现全人类文明进步与和平共处。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 23)]]；引自 Palmer (1993)
 >
 > *Jullien, the internationalist and the cosmopolitis (world citizen), does not only merit Palmer’s characterisation of 'apostle of civilisation', he could also, quite justifiably, be called 'apostle of peace'.*
 
-> [!citation-card]- 关键史学定性二：弗雷泽论朱利安的学科文献文物地位与历史局限
-> 弗雷泽在权威整理本导论中指出：尽管在 19 世纪朱利安未必算得上比较教育学的首要发起者或核心阐释者，且技术与事实上他从未发展出一套彻底的比较教育学方法论，生前也未能见到国际教育机构建立；但他被广泛公认为最早将这些极具价值的构想熔铸为一部具备如此巨大潜在体量初稿的先驱之一，以至于今天的比较科学绝无法忽视他；他的《计划》是这门科学中最重要的文献文物之一。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 24)]]；引自 Fraser (1964:117)
+> [!citation-card]- 弗雷泽论《计划》的科学文献价值与历史局限
+> 尽管在 19 世纪朱利安未必算得上比较教育学的首要发起者或核心阐释者，且技术与事实上他从未发展出一套彻底的比较教育学方法论，生前也未能见到国际教育机构建立；但他被广泛公认为最早将这些极具价值的构想熔铸为一部具备如此巨大潜在体量初稿的先驱之一，以至于今天的比较科学绝无法忽视他；他的《计划》是这门科学中最重要的文献文物之一。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 24)]]；引自 Fraser (1964:117)
 >
 > *While Jullien may not necessarily qualify as the principal instigator or exponent of comparative pedagogy in the nineteenth century his Plan remains one of the most important artifacts in the science. Technically, and in fact, Jullien never developed a thoroughgoing comparative methodology in education, nor did he live to see his ideas for institutes of international education become established, but he has been widely identified as one of the first to consolidate these useful ideas into a preliminary draft of such potential magnitude that he cannot be ignored today.*
 
-> [!citation-card]- 关键史学定性三：作者卡洛扬纳基与卡扎米亚斯论朱利安的生前效力局限与后世追认
-> 章作者作为比较教育史学家明确指出：没有任何证据表明朱利安在《计划》中所提出的比较方法论或关于比较与国际教育的构想，在生前曾被采纳或对学科后续发展产生过任何重大影响；作者赞同希尔克、康德尔与汉斯等 20 世纪比较先驱的史学判断——朱利安生前未能实质性影响比较教育的发展，其奠基地位是在 20 世纪手稿被重构后的追认。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 24)]]
+> [!citation-card]- 卡洛扬纳基与卡扎米亚斯论朱利安生前效力局限与学科追认
+> 尚无证据表明朱利安在《计划》中提出的比较方法或国际教育设想在生前被采纳或对学科后续发展产生实质影响。卡洛扬纳基与卡扎米亚斯赞同希尔克（Franz Hilker）、康德尔（Isaac Kandel）与汉斯（Nicholas Hans）等 20 世纪先驱的史学判断，指出朱利安生前未能实质性影响比较教育的发展，其奠基地位是 20 世纪手稿被重构后的追认。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 24)]]
 >
 > *We have no evidence that Jullien’s comparative methodology or his ideas and proposals about comparative and international education as presented in his Plan and preliminary views for a work in comparative education were adopted or had any significant influence in the subsequent development of the two related epistemic domains. As historians of comparative education, we concur with what Stewart Fraser in his authoritative edition and evaluation of Jullien’s Plan wrote back in 1964. Agreeing with the historical judgement of Franz Hilker, Isaac Kandel and Nicholas Hans... that Jullien 'was unable to influence the development of comparative education to any great extent'...*
 
@@ -212,8 +212,8 @@ updated: 2026-09-06
 > >
 > > - **Harold Noah & Max Eckstein (1969)** 认为朱利安对教育正当目标的预先[[Hypothesis|假设]]严重影响了其提问方式，在宗教和道德题项中进行价值诱导，带有浓厚的理念宣传动机而非纯粹客观归纳。（pp. 16–17）
 > > - **Pella Kaloyannaki & Andreas Kazamias (2009) / R. R. Palmer (1993)** 指出实证派批判陷入了辉格史的时代倒错；朱利安将科学界定为人类心灵的一切理性活动，并将其置于关涉心灵与道德的二级精神科学位置，经验事实分类本就全面服从于服务全人道德[[Bildung|教化]]与预防流血暴乱的[[Enlightenment|启蒙伦理规范]]。（pp. 17–18）
-> [!citation-card]- 关键批评：诺亚与埃克斯坦论朱利安调查的先验道德偏见与政策借用动机
-> 诺亚与埃克斯坦严厉批评朱利安的调查问卷深受先验道德预设主导，指出其本质上是比较教育发轫期“受从国外吸取有用教训之渴望所驱动”的选优借用，而非客观中立的实证社会科学调查。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 23)]]；引自 Noah & Eckstein (1969:15, 21)
+> [!citation-card]- 诺亚与埃克斯坦论朱利安调查的政策借用动机与先验道德偏见
+> 朱利安的《计划》是比较教育发轫期“受从国外吸取有用教训之渴望所驱动”的选优借用典型，其调查深受先验道德预设主导，而非客观中立的实证社会科学探究。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 23)]]；引自 Noah & Eckstein (1969:15, 21)
 >
 > *Jullien’s Plan is a prime example of work in comparative education motivated by a desire to gain useful lessons from abroad.*
 

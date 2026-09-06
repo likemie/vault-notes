@@ -125,18 +125,18 @@ updated: 2026-09-06
 
 ## 历史评价
 
-> [!citation-card]- 关键史学定性一：霍姆斯论巴纳德的教育百科全书成就
-> 霍姆斯指出：毫无疑问，巴纳德处理比较教育的方法在很大程度上是历史性与描述性的，但他编纂一部跨国教育百科全书的目标实质上已经圆满达成。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 33)]]；引自 Holmes (1965:14)
+> [!citation-card]- 霍姆斯论巴纳德教育百科全书成就
+> 巴纳德处理比较教育的方法在很大程度上是历史性与描述性的，其旨在编纂一部跨国教育百科全书的宏伟目标实质上已经圆满达成。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 33)]]；引自 Holmes (1965:14)
 >
 > *Unquestionably Barnard’s approach to comparative education was largely historical and descriptive, and his aim to produce an encyclopaedia of education ... was virtually achieved.*
 
-> [!citation-card]- 关键史学定性二：作者卡洛扬纳基与卡扎米亚斯论巴纳德为早期教育民族志学者
-> 章作者批驳战后实证派苛评，给出公允的学科定位：巴纳德虽缺乏深层情境因果解释，但绝非盲目堆砌；应公正地将其定性为卓越的教育编年史官、教育叙事家与早期教育民族志学者；其客观全景记述值得极高赞誉。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 33)]]
+> [!citation-card]- 卡洛扬纳基与卡扎米亚斯论巴纳德为早期教育民族志学者
+> 将巴纳德的方法概括为描述性是恰当的，但不能斥其为“无系统或盲目记录”。巴纳德虽缺乏情境因果解释学分析，因而称不上合格的教育历史学家或严格意义上的比较因果学者，但应公允地将其定性为卓越的教育编年史官、教育叙事家与早期教育民族志学者；其客观全景记述在今天依然具有不可低估的史料价值，值得极高赞誉。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 33)]]
 >
 > *It is appropriate to characterise Barnard’s approach as being descriptive, but in our interpretation, it is inappropriate to characterise it as 'unsystematic' or 'indiscriminate reporting'. It would also be appropriate to characterise Barnard as a good 'chronicler' or a good 'educational narrator' or 'educational ethnographer', rather than a good 'educational historian'... One, however, should not underestimate the value of good descriptive chronicles or narratives in studying foreign education even today, and in our judgement Barnard’s 'educational histories' deserve high praise, especially when one considers the times when they were written.*
 
-> [!citation-card]- 关键史学定性三：作者卡洛扬纳基与卡扎米亚斯论美洲改革家的“合法化理据”借用实质
-> 章作者论断指出：美洲决策者与管理者固然渴望从国外汲取有用教训，但其目的根本不是朱利安或库森意义上的直接政策借用或制度移植；更准确地说，美洲改良主义者是将国外的教训用作推动美利坚本土国民公共教育改革的“合法化理据”。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 34)]]
+> [!citation-card]- 卡洛扬纳基与卡扎米亚斯论美洲改革家的“政治合法化理据”借用实质
+> 美洲决策者与管理者固然渴望从国外汲取有用教训，但其目的根本不是朱利安或库森意义上的直接政策借用或制度移植；更准确地说，美洲改良主义者是将国外的教训用作推动美利坚本土国民公共教育改革的“政治合法化理据”。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 34)]]
 >
 > *...like the Europeans, the American policy-makers and administrators were motivated 'by a desire to gain useful lessons from abroad', but not for the purpose of 'educational borrowing' or 'transplantation' as understood by Jullien and Cousin. It would be more accurate to say that the American meliorists sought 'lessons' from abroad to use as legitimating rationales for the reform of national public education in the United States.*
 
@@ -167,8 +167,8 @@ updated: 2026-09-06
 > > - **Holmes (1965)** 肯定巴纳德的历史与描述性进路，赞誉其独立编纂出世界教育百科全书，为理解跨国制度演进提供了无可替代的客观画卷。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, p. 32)]]
 > > - **[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 33)]]** 批驳实证派的时代倒错：巴纳德虽缺乏深层的历史解释学阐释与语境因果模型，但将其斥为“杂乱盲目记录”完全失当；应当公正地将其定位为卓越的“教育编年史官（educational chronicler）”、“教育叙事家（educational narrator）”与“早期教育民族志学者（educational ethnographer）”。
 
-> [!citation-card]- 关键批评：诺亚与埃克斯坦对巴纳德汇纂方法的批判
-> 诺亚与埃克斯坦严厉批判巴纳德缺乏分析与因果变量设计：“巴纳德在不加鉴别、甚至缺乏系统性地记录与再版所有可得材料中看到了价值。”[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 33)]]；引自 Noah & Eckstein (1969:25–26)
+> [!citation-card]- 诺亚与埃克斯坦对巴纳德汇纂方法的批判
+> “巴纳德在不加鉴别、甚至缺乏系统性地记录与再版所有可得材料中看到了价值。”实证派批评其汇纂进路缺乏严格的变量控制与因果假设检验。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 33)]]；引自 Noah & Eckstein (1969:25–26)
 >
 > *Barnard saw merit in the indiscriminate and even unsystematic recording and republication of all that was available.*
 

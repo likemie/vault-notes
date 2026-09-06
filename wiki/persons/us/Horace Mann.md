@@ -181,23 +181,23 @@ updated: 2026-09-06
 
 ## 历史评价
 
-> [!citation-card]- 关键史学定性一：克雷明论曼的自由与国民教育思想
-> 曼深刻洞悉了自由、大众教育与共和政体之间的内在统一：一个国家不可能既无知又自由；普遍的大众教育是共和政府赖以稳固立足的唯一基石。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 32)]]；引自 Cremin (1957:7)
+> [!citation-card]- 克雷明论大众教育与共和政体之基石
+> 自由、大众教育与共和政体之间存在内在统一：一个国家不可能既无知又自由；普遍的大众教育是共和政府赖以稳固立足的唯一基石。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 32)]]；引自 Cremin (1957:7)
 >
 > *Mann understood well the integral relationship between freedom, popular education, and republican government. ... A nation cannot long remain ignorant and free. ... universal popular education is the only foundation on which republican government can securely rest.*
 
-> [!citation-card]- 关键史学定性二：唐斯论曼赴欧考察的双重自觉：警示险标与指引明灯
-> 唐斯论述曼赴欧考察的内在动力：国外著名机构强烈吸引着曼，使他充满迫切愿望想探明外国经验是否有值得采纳之处以促进本土改良；但对曼而言，首要之务是寻找带来警示的险标，以及指引前路的明灯。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 32)]]；引自 Downs (1974:88)
+> [!citation-card]- 唐斯论曼赴欧考察的双重自觉：警示险标与指引明灯
+> 国外著名机构强烈吸引着曼，使他充满探明外国经验是否有优长之处以促进本土改良的迫切愿望；但对曼而言，首要之务是寻找带来警示的险标，以及指引前路的明灯。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 32)]]；引自 Downs (1974:88)
 >
 > *...the celebrity of institutions in foreign countries had attracted his attention, filling him with 'an intensive desire of knowing whether, in any respect, those institutions were superior to our own; and if anything were found in them worthy of adoption, of transferring it for our improvement' ... Of first importance to Mann was to find 'beacons' to terrify as well as lights to guide.*
 
-> [!citation-card]- 关键史学定性三：作者卡洛扬纳基与卡扎米亚斯论美洲改革家的“合法化理据”借用实质
-> 章作者明确界定曼等美洲改革家的考察实质：他们并非为了朱利安与库森式的机械制度借用或移植，而是为了寻求外部教训作为抗击保守校长与宗派教权、推进全州公学立法的政治合法化理据。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 34)]]
+> [!citation-card]- 卡洛扬纳基与卡扎米亚斯论美洲改革家的“政治合法化理据”借用实质
+> 曼等美洲改革家考察欧陆并非为了朱利安与库森式的机械制度借用或移植，而是寻求外部教训作为抗击保守校长与宗派教权、推进全州公学立法的政治合法化理据。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 34)]]
 >
 > *It would be more accurate to say that the American meliorists sought 'lessons' from abroad to use as legitimating rationales for the reform of national public education in the United States.*
 
-> [!citation-card]- 关键史学定性四：弗雷泽与布里克曼论其话语属于“外国教育学”
-> 弗雷泽与布里克曼指出，曼等人的经验记述与朱利安不同，并非严格意义上的现代比较科学探究，而属于 19 世纪大西洋世界蓬勃兴起的外国教育学（Auslandspädagogik）。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 33)]]；引自 Fraser & Brickman (1968:19)
+> [!citation-card]- 弗雷泽与布里克曼论美洲话语的“外国教育学”定位
+> 曼等人的经验记述与朱利安不同，并非严格意义上的现代比较科学探究，而属于 19 世纪大西洋世界蓬勃兴起的外国教育学（Auslandspädagogik）。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 33)]]；引自 Fraser & Brickman (1968:19)
 >
 > *Unlike Jullien’s, the American discourse was only tangentially about comparative education, and like Cousin’s, it was more about foreign education, or to use Fraser’s and Brickman’s terminology, it was Auslandspadagogik.*
 

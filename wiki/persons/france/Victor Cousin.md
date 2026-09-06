@@ -188,18 +188,18 @@ updated: 2026-09-06
 
 ## 历史评价
 
-> [!citation-card]- 关键史学定性一：国民教育如同陆海军般神圣的现实明证
-> 英国《外国季刊评论》高度赞誉库森报告：以无可争辩的完全实践成功证明，国民教育绝非空想哲学家的脑中幻影，而是国家建立与维持的根本支柱，其重要性不亚于任何一支陆军或海军。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 27)]]；引自 Knight (1930:116)
+> [!citation-card]- 《外国季刊评论》论国民教育如同常备陆海军
+> 库森报告以实实在在的完全实践成功有力证明：国民教育制度绝非不着边际的空想，不是做梦的哲学家凭空捏造的幻影；而是一种确保所有儿童接受初等教育的制度模式，国家建立和维持这一体系的必要性，丝毫不亚于维持一支陆军或海军。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 27)]]；引自 Knight (1930:116)
 >
 > *Cousin’s report was an incontestable proof, 'by the solid and substantial argument of complete practical success', that a system of national education was not visionary ... but a mode of insuring the elementary instruction of all children, which may be established and maintained not less than any army or navy.*
 
-> [!citation-card]- 关键史学定性二：布鲁尔论库森哲学作为大资产阶级统治辩护术
-> 布鲁尔深刻解构库森的意识形态立场：库森的折衷主义哲学与国家教育建制，实质上是法国大资产阶级统治的辩护术，旨在以国家法治与温和改良构筑抵御激进流血革命的安全阀。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 28)]]；引自 Brewer (1971:30)
+> [!citation-card]- 布鲁尔论库森哲学实质为大资产阶级统治辩护术
+> 库森的折衷主义哲学与国家教育建制实质上是法国大资产阶级统治的辩护术，旨在以国家法治与温和改良构筑抵御激进流血革命的安全阀。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 28)]]；引自 Brewer (1971:30)
 >
 > *...a philosophy that was an apologia for the rule of the 'upper bourgeoisie'.*
 
-> [!citation-card]- 关键史学定性三：作者卡洛扬纳基与卡扎米亚斯论库森的规范性直接借用典范
-> 章作者定性指出：库森展现了清晰而典型的“政策导向行政改良主义母题”中的政策借用维度，他将教育权确立为国家公共资源的法哲学，为直接将普鲁士 1819 年草案转置为法国 1833 年基佐法案搭建了坚固的推论桥梁。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 34)]]
+> [!citation-card]- 卡洛扬纳基与卡扎米亚斯论库森的规范性直接借用典范
+> 库森展现了典型的“政策导向行政改良主义母题”；他将教育权确立为国家公共资源的法哲学，为直接将普鲁士 1819 年草案转置为法国 1833 年基佐法案搭建了坚固的推论桥梁。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 34)]]
 >
 > *The 'borrowing' aspect/dimension of meliorism is clearly evident in Jullien and Cousin ... Cousin sought 'useful lessons from abroad' to borrow, transfer or transplant useful ideas and practices into France.*
 

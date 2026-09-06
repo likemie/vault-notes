@@ -111,18 +111,18 @@ updated: 2026-09-06
 
 ## 历史评价
 
-> [!citation-card]- 关键史学定性一：布鲁尔论聚芬草案的时代奠基性
-> 布鲁尔指出：聚芬 1819 年草案是普鲁士教育从零散教区私塾彻底转向国家现代综合教育体制的历史分水岭，其技术条款构成了库森考察报告的核心精髓，并为欧美大西洋各国的公共教育立法提供了不可磨灭的原型。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 26–27)]]；引自 Brewer (1971:44)
+> [!citation-card]- 布鲁尔论聚芬 1819 年草案的时代奠基性
+> 聚芬 1819 年草案是普鲁士教育从零散教区私塾彻底转向国家现代综合教育体制的历史分水岭，其技术条款构成了库森考察报告的核心精髓，并为欧美大西洋各国的公共教育立法提供了原型。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 26–27)]]；引自 Brewer (1971:44)
 >
 > *The Suvern Draft Law of 1819 embodied the legal and institutional framework of a national state system, serving as the primary source from which Cousin extracted the machinery and governance of public instruction for transfer to France.*
 
-> [!citation-card]- 关键史学定性二：库森盛赞聚芬 1819 年草案的完备与智慧
-> 库森在其著名的 1831 年报告中由衷赞叹聚芬草案：“该法律未遗漏任何关乎公众利益的主题，是我所知关于初等教育最为完备详尽的法典。人们不可能不被其深沉的智慧所折服……普鲁士 1819 年法案在我看来堪称卓越。”[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 28–29)]]；引自 Cousin (1930:205–206)
+> [!citation-card]- 库森盛赞聚芬草案的完备详尽与深沉智慧
+> “该法律未遗漏任何关乎公众利益的主题，是我所知关于初等教育最为完备详尽的法典。人们不可能不被其深沉的智慧所折服……普鲁士 1819 年法案在我看来堪称卓越。”[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 28–29)]]；引自 Cousin (1930:205–206)
 >
 > *This law ... omits no topic of interest, and is the most extensive and complete law on primary instruction of which I have any knowledge. It is impossible not to be struck with its profound wisdom … the Prussian law of 1819 appears to me excellent.*
 
-> [!citation-card]- 关键史学定性三：作者卡洛扬纳基与卡扎米亚斯论聚芬草案作为西方现代制度母版
-> 章作者揭示聚芬草案在大西洋世界的辐射意义：聚芬草案虽然在普鲁士本土因反动政局搁浅，却实质上构成了大西洋两岸国民公学体制的隐形总母版；库森将其制度骨架转译入法国实定法，北美公学领袖亦将其视导规程作为州立立法的合法化模型。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 34)]]
+> [!citation-card]- 卡洛扬纳基与卡扎米亚斯论聚芬草案作为现代公学制度母版
+> 聚芬草案虽然在普鲁士本土因政治反动搁浅，却构成了整个大西洋世界国民公学体制的隐形母版；库森将其制度骨架转译入法国实定法，北美公学领袖亦将其视导规程作为州立立法的合法化模型。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 34)]]
 >
 > *The Suvern draft of 1819 served as an archetypal institutional template for public schooling in the Western world, providing the institutional machinery which Cousin extracted for France and which American reformers drew upon as legitimating models.*
 
