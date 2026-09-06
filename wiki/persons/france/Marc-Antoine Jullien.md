@@ -10,7 +10,7 @@ summary: "法国启蒙自由主义教育家与国际主义者，1817年发表比
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 24
+person_related_count: 26
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -44,12 +44,14 @@ related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
+  - "[[Johann Heinrich Pestalozzi]]"
   - "[[Jean-Jacques Rousseau]]"
   - "[[Auguste Comte]]"
   - "[[Harold Noah]]"
   - "[[Max Eckstein]]"
 related_facts:
   - "[[Esquisse d'un ouvrage sur l'éducation comparée]]"
+  - "[[Revue encyclopédique]]"
 related_arguments:
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
 confidence: high
@@ -83,9 +85,9 @@ updated: 2026-09-06
 > - **1789** 作为巴黎中学生亲历攻占巴士底狱，深受启蒙理性思潮激励。
 > - **1792–1794** 青年时代迅速激进化，加入雅各宾俱乐部并出任国民公会特派战地记者，深度卷入罗伯斯庇尔（Maximilien Robespierre）政权的恐怖统治，将国民教育视作政治暴力革命的附庸工具。（Palmer, 1993:ix, 154）
 > - **1798–1801** 作为拿破仑·波拿巴（Napoleon Bonaparte）远征埃及军团的战争专员前往北非；亲历军阀专制残暴、政治清洗与帝国侵略战争后，对政治暴力产生深刻幻灭，随之游历英格兰、苏格兰与欧洲大陆。（Palmer, 1993:ix）
-> - **1805–1810** 思想发生根本转向，投身教育与社会改良研究；1808 年出版《教育总论》；1810 年实地考察瑞士伊弗东（Yverdon）裴斯泰洛齐（J. H. Pestalozzi）学校与霍夫维尔费伦伯格（P. E. Fellenberg）学校，奠定以儿童为中心的自然主义与人道主义教育哲学；同年致信美国前总统杰斐逊（Thomas Jefferson）。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 12, 19–20)]]
+> - **1805–1810** 思想发生根本转向，投身教育与社会改良研究；1808 年出版《教育总论》；1810 年实地考察瑞士伊弗东（Yverdon）[[Johann Heinrich Pestalozzi|裴斯泰洛齐]]（J. H. Pestalozzi）学校与霍夫维尔费伦伯格（P. E. Fellenberg）学校，奠定以儿童为中心的自然主义与人道主义教育哲学；同年致信美国前总统杰斐逊（Thomas Jefferson）。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 12, 19–20)]]
 > - **1817** 发表比较教育奠基之作[[Esquisse d'un ouvrage sur l'éducation comparée|《关于比较教育的一项著作的计划与初步观点》（*Esquisse*）]]，系统阐发比较解剖学类比、经验分类学与跨国[[Questionnaire|问卷调查]]规程。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 11–13)]]
-> - **1819–1830** 创办并主编《百科评论》（*Revue encyclopédique*），提出 1819 年《人类知识总表》，将教育学归入关涉心灵与道德的二级精神科学；践行培根式的科学统一思想与世界公民理念，广泛刊载各大洲的公共教育与文化进展。（Palmer, 1993:176–181）
+> - **1819–1830** 创办并主编[[Revue encyclopédique|《百科评论》]]（*Revue encyclopédique*），提出 1819 年《人类知识总表》，将教育学归入关涉心灵与道德的二级精神科学；践行培根式的科学统一思想与世界公民理念，广泛刊载各大洲的公共教育与文化进展。（Palmer, 1993:176–181）
 > - **1830–1848** 赞同 1830 年七月革命与 1848 年二月革命；积极投身伦敦“和平之友协会”（Association of Friends for Peace），在 1833 年《致英格兰民族书》中将比较解剖学类比升华为“比较文明学”，呼吁以跨国教育协作荡涤旧时代野蛮战争残余；1848 年在巴黎逝世，数周后路易-拿破仑·波拿巴当选法兰西第二共和国总统。（Palmer, 1993:ix, 205; [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias, 2009, pp. 19]], 22–24）
 
 ---
@@ -205,7 +207,8 @@ updated: 2026-09-06
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Educational Meliorism]] | 概念 | 赋予比较教育以改善人类社会秩序与个体道德的整全改良主义旨趣。 |
+> | [[Revue encyclopédique]] | 历史事件 | 朱利安创办并主编的百科期刊，践行科学统一与世界公民理念的国际教育重要载体。 |
+| [[Educational Meliorism]] | 概念 | 赋予比较教育以改善人类社会秩序与个体道德的整全改良主义旨趣。 |
 > | [[Faculty Psychology]] | 概念 | 在 1817 年《计划》问卷中以拉罗米吉埃官能学说为准绳设计跨国智育调查题项。 |
 > | [[Policy Borrowing]] | 概念 | 开启基于跨国经验事实比较进行选择性制度借用与改良的现代话语传统。 |
 > | [[Comparative History of Comparative Education]] | 概念 | 作为学科起源神话与[[Positivism\|实证主义]][[Paradigm\|范式]]建构的关键历史分析对象。 |

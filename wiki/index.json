@@ -1774,7 +1774,6 @@
     "aliases": [
       "官能心理学",
       "心灵官能心理学",
-      "faculty psychology",
       "心智能力说",
       "官能心理学说",
       "mental faculties"
@@ -15777,6 +15776,17 @@
     ]
   },
   {
+    "title": "Johann Heinrich Pestalozzi",
+    "type": "person",
+    "path": "wiki/persons/switzerland/Johann Heinrich Pestalozzi.md",
+    "aliases": [
+      "约翰·海因里希·裴斯泰洛齐",
+      "裴斯泰洛齐",
+      "Pestalozzi, J. H.",
+      "J. H. Pestalozzi"
+    ]
+  },
+  {
     "title": "Norberto Bottani",
     "type": "person",
     "path": "wiki/persons/switzerland/Norberto Bottani.md",
@@ -17854,6 +17864,18 @@
     "aliases": [
       "法国国家科学研究中心",
       "Centre National de la Recherche Scientifique"
+    ]
+  },
+  {
+    "title": "Revue encyclopédique",
+    "type": "fact",
+    "path": "wiki/facts/france/Revue encyclopédique.md",
+    "aliases": [
+      "百科评论",
+      "百科评论杂志",
+      "Revue encyclopédique ou Analyse raisonnée",
+      "Encyclopedic Review",
+      "Jullien's Revue encyclopédique"
     ]
   },
   {
@@ -20517,6 +20539,19 @@
     "aliases": [
       "PIR",
       "公共影响导向研究"
+    ]
+  },
+  {
+    "title": "Report on Elementary Public Instruction in Europe",
+    "type": "fact",
+    "path": "wiki/facts/us/Report on Elementary Public Instruction in Europe.md",
+    "aliases": [
+      "欧洲初等公共教育报告",
+      "斯托欧洲教育报告",
+      "斯托报告",
+      "Stowe's Report on Elementary Public Instruction in Europe",
+      "Stowe's Report",
+      "Report on Elementary Instruction in Europe"
     ]
   },
   {

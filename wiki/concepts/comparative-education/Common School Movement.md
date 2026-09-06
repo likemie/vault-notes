@@ -10,10 +10,10 @@ aliases:
 summary: "19世纪北美以霍勒斯·曼等人为主导的初等教育改革运动，主张由公共税收供养、公众共同治理并秉持无宗派世俗道德，将欧洲公立教育实绩转译为击败国内保守势力的合法化依据"
 type: concept
 domain: "comparative-education"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 11
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - subject/comparative-education
   - region/us
@@ -33,7 +33,9 @@ related_persons:
   - "[[Calvin Stowe]]"
   - "[[Henry Barnard]]"
 related_facts:
+  - "[[Report on Elementary Public Instruction in Europe]]"
   - "[[Seventh Annual Report of the Massachusetts Board of Education]]"
+  - "[[National Education in Europe]]"
   - "[[Boston Schoolmasters Controversy]]"
 related_arguments:
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
@@ -159,7 +161,7 @@ updated: 2026-09-06
 
 > [!dev-timeline] 概念演变
 > - **1760s–1820s — 共和教育思想萌发阶段** 杰斐逊（Thomas Jefferson）与拉什（Benjamin Rush）等开国先驱提出建立由政府保障的初等公立学校设想，但受制于极端地方自治与宗教势力，多停留在蓝图阶段。
-> - **1830s–1840s — 州级行政建制与大西洋考察高潮** 曼出任马萨诸塞州教委秘书，斯托赴欧并向俄亥俄州提交 1837 年报告，全美首所公立师范学校于 1839 年在列克星敦设立；曼发表 1844 年[[Seventh Annual Report of the Massachusetts Board of Education|《第七次年度报告》]]，大西洋跨国比较经验全面卷入国内立法论战。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 31–32)]]
+> - **1830s–1840s — 州级行政建制与大西洋考察高潮** 曼出任马萨诸塞州教委秘书，斯托赴欧并向俄亥俄州提交 1837 年[[Report on Elementary Public Instruction in Europe|《欧洲初等公共教育报告》]]，全美首所公立师范学校于 1839 年在列克星敦设立；曼发表 1844 年[[Seventh Annual Report of the Massachusetts Board of Education|《第七次年度报告》]]，大西洋跨国比较经验全面卷入国内立法论战。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 31–32)]]
 > - **1844 — 波士顿文法学校大论战** 31 位文法学校校长联名反扑，猛烈抨击霍勒斯·曼倡导的温和人道管教；公学派动用普鲁士实绩与共和大义予以有力回击，确立了人道纪律与直观教学的合法性。
 > - **1850s–1860s — 制度法典化与全美普及** 北方各州相继废除学差费，通过强制就学法案；巴纳德出版[[National Education in Europe|《欧洲国民教育》]]并创办《美国教育杂志》，公学理念扩展至全国并确立为现代公立教育的国家范式。
 

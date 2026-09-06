@@ -5,6 +5,18 @@
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings.md"
     },
     {
+      "basename": "VALUE Rubrics",
+      "path": "wiki/instruments/rubric/VALUE Rubrics.md"
+    },
+    {
+      "basename": "Normal School",
+      "path": "wiki/concepts/comparative-education/Normal School.md"
+    },
+    {
+      "basename": "Jürgen Habermas",
+      "path": "wiki/persons/germany/Jürgen Habermas.md"
+    },
+    {
       "basename": "Ch03_Kaloyannaki_Kazamias_2009",
       "path": "books/Cowen(Ed.)_2009_Springer/Ch03_Kaloyannaki_Kazamias_2009.md"
     },
@@ -15,10 +27,6 @@
     {
       "basename": "Pride in Learning",
       "path": "wiki/concepts/chinese-philosophy/Pride in Learning.md"
-    },
-    {
-      "basename": "Jürgen Habermas",
-      "path": "wiki/persons/germany/Jürgen Habermas.md"
     },
     {
       "basename": "Immanuel Kant",
@@ -191,14 +199,6 @@
     {
       "basename": "Self-Regulated Learning",
       "path": "wiki/concepts/educational-psychology/Self-Regulated Learning.md"
-    },
-    {
-      "basename": "Argument_Chen_Cheung_2025_ERR",
-      "path": "wiki/arguments/journal-articles/Educational Research Review/Argument_Chen_Cheung_2025_ERR.md"
-    },
-    {
-      "basename": "Cognitive Offloading",
-      "path": "wiki/concepts/learning-science-cognitive-science/Cognitive Offloading.md"
     }
   ],
   "omittedPaths": [],
