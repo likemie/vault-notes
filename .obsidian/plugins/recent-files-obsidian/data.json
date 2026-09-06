@@ -5,6 +5,10 @@
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings.md"
     },
     {
+      "basename": "Ch03_Kaloyannaki_Kazamias_2009",
+      "path": "books/Cowen(Ed.)_2009_Springer/Ch03_Kaloyannaki_Kazamias_2009.md"
+    },
+    {
       "basename": "Common School Movement",
       "path": "wiki/concepts/comparative-education/Common School Movement.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Cognitive Offloading",
       "path": "wiki/concepts/learning-science-cognitive-science/Cognitive Offloading.md"
-    },
-    {
-      "basename": "Experimental Research",
-      "path": "wiki/methods/quantitative/Experimental Research.md"
     }
   ],
   "omittedPaths": [],
