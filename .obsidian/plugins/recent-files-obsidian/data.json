@@ -5,6 +5,10 @@
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings.md"
     },
     {
+      "basename": "Dual School System",
+      "path": "wiki/concepts/comparative-education/Dual School System.md"
+    },
+    {
       "basename": "Esquisse d'un ouvrage sur l'éducation comparée",
       "path": "wiki/facts/france/Esquisse d'un ouvrage sur l'éducation comparée.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Blended Learning",
       "path": "wiki/concepts/instruction-pedagogy/Blended Learning.md"
-    },
-    {
-      "basename": "Bloom's Taxonomy",
-      "path": "wiki/theories/curriculum/Bloom's Taxonomy.md"
     }
   ],
   "omittedPaths": [],
