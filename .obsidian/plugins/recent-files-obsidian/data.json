@@ -5,6 +5,14 @@
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings.md"
     },
     {
+      "basename": "Faculty Psychology",
+      "path": "wiki/concepts/educational-philosophy/Faculty Psychology.md"
+    },
+    {
+      "basename": "Prussian Draft Education Law of 1819",
+      "path": "wiki/facts/germany/Prussian Draft Education Law of 1819.md"
+    },
+    {
       "basename": "Auguste Comte",
       "path": "wiki/persons/france/Auguste Comte.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Higher-Order Thinking Skills",
       "path": "wiki/concepts/learning-science-cognitive-science/Higher-Order Thinking Skills.md"
-    },
-    {
-      "basename": "Generative Artificial Intelligence",
-      "path": "wiki/concepts/educational-technology/Generative Artificial Intelligence.md"
-    },
-    {
-      "basename": "Critical Thinking",
-      "path": "wiki/concepts/educational-philosophy/Critical Thinking.md"
     }
   ],
   "omittedPaths": [],
