@@ -5,12 +5,16 @@
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kazamias_2009_ForgottenThemes.md"
     },
     {
-      "basename": "Historical-Philosophical-Cultural Motif",
-      "path": "wiki/concepts/comparative-education/Historical-Philosophical-Cultural Motif.md"
-    },
-    {
       "basename": "template-argument",
       "path": "wiki/templates/template-argument.md"
+    },
+    {
+      "basename": "National Character in Comparative Education",
+      "path": "wiki/concepts/comparative-education/National Character in Comparative Education.md"
+    },
+    {
+      "basename": "Historical-Philosophical-Cultural Motif",
+      "path": "wiki/concepts/comparative-education/Historical-Philosophical-Cultural Motif.md"
     },
     {
       "basename": "Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings",
@@ -195,10 +199,6 @@
     {
       "basename": "Michael Sadler",
       "path": "wiki/persons/uk/Michael Sadler.md"
-    },
-    {
-      "basename": "Robert Cowen",
-      "path": "wiki/persons/uk/Robert Cowen.md"
     }
   ],
   "omittedPaths": [],
