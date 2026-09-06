@@ -799,6 +799,18 @@
     ]
   },
   {
+    "title": "Proto-Scientific Motif",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Proto-Scientific Motif.md",
+    "aliases": [
+      "准科学母题",
+      "准科学人道改良母题",
+      "准科学范式",
+      "准实证科学母题",
+      "科学人道主义母题"
+    ]
+  },
+  {
     "title": "Rationalism in International Relations",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Rationalism in International Relations.md",
@@ -15372,6 +15384,16 @@
     ]
   },
   {
+    "title": "François Guizot",
+    "type": "person",
+    "path": "wiki/persons/france/François Guizot.md",
+    "aliases": [
+      "弗朗索瓦·基佐",
+      "基佐",
+      "Francois Guizot"
+    ]
+  },
+  {
     "title": "Jean-François Lyotard",
     "type": "person",
     "path": "wiki/persons/france/Jean-François Lyotard.md",
@@ -15512,6 +15534,17 @@
       "Kant, I.",
       "康德",
       "伊曼努尔·康德"
+    ]
+  },
+  {
+    "title": "Johann Wilhelm Süvern",
+    "type": "person",
+    "path": "wiki/persons/germany/Johann Wilhelm Süvern.md",
+    "aliases": [
+      "约翰·威廉·聚芬",
+      "聚芬",
+      "Johann Wilhelm Suevern",
+      "Johann Wilhelm Suvern"
     ]
   },
   {

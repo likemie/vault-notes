@@ -15,10 +15,10 @@ summary: "德国当代哲学家与社会理论家，法兰克福学派第二代�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 22
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 42
+person_related_level: 5
+person_related_stars: "⭐⭐⭐⭐⭐"
+person_related_color: "#ffedd5"
 tags:
   - person/philosopher
   - person/social-theorist

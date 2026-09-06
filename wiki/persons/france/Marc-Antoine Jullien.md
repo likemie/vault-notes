@@ -10,7 +10,7 @@ summary: "法国启蒙自由主义教育家与国际主义者，1817年发表比
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 27
+person_related_count: 28
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Value Neutrality]]"
   - "[[Artefact]]"
+  - "[[Proto-Scientific Motif]]"
   - "[[Comparative History of Comparative Education]]"
 related_theories: []
 related_methods: []
@@ -209,6 +210,7 @@ updated: 2026-09-06
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Revue encyclopédique]] | 历史事件 | 朱利安创办并主编的百科期刊，践行科学统一与世界公民理念的国际教育重要载体。 |
+| [[Proto-Scientific Motif]] | 概念 | 朱利安开创的奠基性母题，将经验图表归纳与崇高人道主义关怀高度熔铸。 |
 | [[Educational Meliorism]] | 概念 | 赋予比较教育以改善人类社会秩序与个体道德的整全改良主义旨趣。 |
 > | [[Faculty Psychology]] | 概念 | 在 1817 年《计划》问卷中以拉罗米吉埃官能学说为准绳设计跨国智育调查题项。 |
 > | [[Policy Borrowing]] | 概念 | 开启基于跨国经验事实比较进行选择性制度借用与改良的现代话语传统。 |

@@ -7,7 +7,7 @@ aliases:
 summary: "源自拉丁语更好之意且以改善社会与人类境况为根本导向的探究旨趣，是贯穿19世纪比较与国际教育发端的统治性认识论母题"
 type: concept
 domain: "comparative-education"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Proto-Scientific Motif]]"
   - "[[Auslandspadagogik]]"
   - "[[Comparative History of Comparative Education]]"
 related_theories: []
@@ -273,7 +274,8 @@ updated: 2026-09-06
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Policy Borrowing]] | 概念 | 阐明改良主义如何转化为具体的跨国制度借鉴行为、机制转置与合法化修辞。 |
-> | [[Auslandspadagogik]] | 概念 | 构成了 19 世纪改良主义探究在欧陆与美洲[[Document\|文献]]形态上的主要经验承载形式。 |
+> | [[Proto-Scientific Motif]] | 概念 | 与行政改良主义母题并列为 19 世纪比较教育发端期的两大奠基母题。 |
+| [[Auslandspadagogik]] | 概念 | 构成了 19 世纪改良主义探究在欧陆与美洲[[Document\|文献]]形态上的主要经验承载形式。 |
 > | [[Comparative History of Comparative Education]] | 概念 | 将改良主义确立为解构学科现代主义发端与重构比较[[Epistemology\|认识论]]问题域的核心主线。 |
 > | [[Marc-Antoine Jullien]] | 人物 | 开创准科学人道主义改良母题，将经验分类服务于全人道德[[Bildung\|教化]]与世界永久和平。 |
 > | [[Victor Cousin]] | 人物 | 开创欧陆官方行政改良路径，以国家公共资源法哲学将普鲁士经验转化为法国[[Guizot Law of 1833\|基佐法案]]。 |

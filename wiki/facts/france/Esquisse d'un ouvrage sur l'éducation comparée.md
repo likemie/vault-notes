@@ -15,9 +15,9 @@ subtype: policy
 region: france
 fact_region: "france"
 fact_kind: "policy"
-fact_related_count: 11
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 22
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "Journal d'éducation / Société pour l'instruction élémentaire"
 tags:
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Educational Meliorism]]"
   - "[[Leading Questions]]"
   - "[[Growth]]"
+  - "[[Proto-Scientific Motif]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -174,7 +175,8 @@ updated: 2026-09-06
 > | [[Scientific Method]] | 概念 | 本文献试图将培根归纳法与解剖学类比作为教育研究的实证方法论基石。 |
 > | [[Positivism]] | 概念 | 本文献确立了比较教育作为“准实证科学”的早期经验分类取向。 |
 > | [[Faculty Psychology]] | 概念 | 本文献[[Questionnaire\|问卷]]设计所依托的心灵官能自主[[Growth\|生长]]心理学基础。 |
-> | [[Educational Meliorism]] | 概念 | 本文献倡导通过系统收集客观事实与跨国比较来达成改良社会的终极宗旨。 |
+> | [[Proto-Scientific Motif]] | 概念 | 本书是准科学母题的奠基文本，首创问卷表与比较观察表。 |
+| [[Educational Meliorism]] | 概念 | 本文献倡导通过系统收集客观事实与跨国比较来达成改良社会的终极宗旨。 |
 > | [[Questionnaire]] | 概念 | 本文献首创人类教育史上第一套标准化跨国调查问卷系统。 |
 > | [[International Education]] | 概念 | 本文献构想的特别教育委员会与通报网络是现代国际教育机构的组织雏形。 |
 > | [[Victor Cousin]] | 人物 | 将朱利安的学者自发跨国比较转化为由国家行政权力资助的官方调查[[Paradigm\|范式]]。 |

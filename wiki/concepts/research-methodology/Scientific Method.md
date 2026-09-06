@@ -9,10 +9,10 @@ aliases:
 summary: "以经验观察、受控检验与假设证伪为基础的系统性探究程序，传统实证主义将其预设为贯通自然与社会的普适法则，而当代科学哲学与科学教育将其重构为多元、情境化且受价值制约的社会认识论实践。"
 type: concept
 domain: "research-methodology"
-related_count: 37
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 58
+related_level: 5
+related_stars: "⭐⭐⭐⭐⭐"
+related_color: "#fecdd3"
 tags:
   - theme/research-methodology
   - paradigm/positivism

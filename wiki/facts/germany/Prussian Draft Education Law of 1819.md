@@ -9,15 +9,15 @@ aliases:
   - Süvern Draft
   - 1819 Süvern Law
   - Preußischer Bildungsgesetzentwurf von 1819
-summary: "1819 年由普鲁士枢密顾问官约翰·威廉·聚芬主持起草的综合国民教育法草案，确立了国家世俗最高监督、市镇自筹办学义务、初等小学与市民学校垂直双轨分流以及省立师范学校建制，成为维克多·库森《普鲁士公共教育现状报告》与法国 1833 年基佐法案的制度原型与技术蓝本"
+summary: "1819 年由普鲁士枢密顾问官[[Johann Wilhelm Süvern|约翰·威廉·聚芬]]主持起草的综合国民教育法草案，确立了国家世俗最高监督、市镇自筹办学义务、初等小学与市民学校垂直双轨分流以及省立师范学校建制，成为维克多·库森《普鲁士公共教育现状报告》与法国 1833 年基佐法案的制度原型与技术蓝本"
 type: fact
 subtype: policy
 region: germany
 fact_region: "germany"
 fact_kind: "policy"
-fact_related_count: 12
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 18
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: Prussian Ministry of Religion, Education, and Medical Affairs
 tags:
@@ -45,6 +45,7 @@ related_persons:
   - "[[Calvin Stowe]]"
   - "[[Horace Mann]]"
   - "[[Henry Barnard]]"
+  - "[[Johann Wilhelm Süvern]]"
 related_facts:
   - "[[Guizot Law of 1833]]"
   - "[[Top Institute for Evidence-Based Education Research]]"
@@ -179,7 +180,8 @@ updated: 2026-09-06
 > |:-----|:-----|:-----|
 > | [[Report on the State of Public Instruction in Prussia]] | 政策 / 事实 | [[Victor Cousin\|维克多·库森]]考察并详尽摘录聚芬法案的官方外交报告，构成了法案向欧美世界扩散的中介载体。 |
 > | [[Guizot Law of 1833]] | 政策 / 事实 | 法国国民教育奠基性法案，直接以聚芬草案的四大支柱为立法技术蓝本。 |
-> | [[Victor Cousin]] | 人物 | 发现、摘译并向法国政府极力推荐聚芬法案的法国哲学家与官方教育使节。 |
+> | [[Johann Wilhelm Süvern]] | 人物 | 普鲁士枢密顾问官兼学校司司长，主持草案的整体起草与制度设计。 |
+| [[Victor Cousin]] | 人物 | 发现、摘译并向法国政府极力推荐聚芬法案的法国哲学家与官方教育使节。 |
 > | [[Dual School System]] | 概念 | 聚芬草案确立初等国民小学与市民学校的平行分流，成为欧陆双轨学制的技术蓝本。 |
 | [[Normal School]] | 概念 | 聚芬法案中强制各省设立的师范研习所建制（*Lehrerseminare*），为现代师范教育奠立制度标准。 |
 > | [[Faculty Psychology]] | 概念 | 聚芬法案中初等学校全人官能启蒙课程设计的核心[[Epistemology\|认识论]]依据。 |

@@ -7,7 +7,7 @@ title: "Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings"
 argument_key: "Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings"
 argument_display_title: "The Modernist Beginnings of Comparative Education: The Proto-Scientific and The Reformist-meliorist Administrative Motif"
 argument_kind: "book-chapter"
-argument_related_count: 61
+argument_related_count: 62
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Auslandspadagogik]]"
   - "[[Educational Meliorism]]"
   - "[[Paradigm]]"
+  - "[[Proto-Scientific Motif]]"
   - "[[Questionnaire]]"
   - "[[Positivism]]"
   - "[[Document]]"
@@ -118,7 +119,7 @@ updated: 2026-09-06
 
 > [!claim] 核心主张
 > 比较教育学的现代主义发端由启蒙后现代性[[Paradigm|范式]]所催生的两种核心母题共同塑造：
-> 1. **准科学人道主义与改良母题** 由朱利安确立，运用比较解剖学（comparative anatomy）类比、标准化[[Questionnaire|问卷]]与跨国比较观察表，试图将教育探究建构为欧洲大陆传统意义上的整全性人文科学（sciences humaines），其经验归纳从属于全人体智德协调发展、预防流血革命与促进世界和平的世界主义人道工程；
+> 1. **[[Proto-Scientific Motif|准科学人道主义与改良母题]]** 由朱利安确立，运用比较解剖学（comparative anatomy）类比、标准化[[Questionnaire|问卷]]与跨国比较观察表，试图将教育探究建构为欧洲大陆传统意义上的整全性人文科学（sciences humaines），其经验归纳从属于全人体智德协调发展、预防流血革命与促进世界和平的世界主义人道工程；
 > 2. **政策导向的行政改良主义母题** 由英美法教育决策者确立，在欧洲体现为库森基于普鲁士考察将外部成功经验直接制度化为法国[[Guizot Law of 1833|1833年基佐法案]]（Guizot Law of 1833）的选择性借用，在北美则体现为霍勒斯·曼等人将欧洲初等公立学校的卓越实绩转化为**击败国内保守势力、论证自由共和政体必须普及公共教育的强大合法化依据**。（pp.11–13, 24–30, 33–34）
 
 > [!concept-lens] 阅读透镜
@@ -502,7 +503,7 @@ updated: 2026-09-06
 思想史的重新审视证明，事实分类求真与规范伦理关怀在学科初创期本是不可分割的孪生母题，共同奠定了现代比较认识论的核心问题域：
 
 > [!conclusion] 比较教育学现代发端确立的比较认识论问题域
-> 比较教育学在现代初创期确立的准科学人道主义与行政改良主义两大母题，在认识论根基上深度共生。求真事实分类为制度改良提供理性诊断工具，行政改良则赋予学术探究以现实行动力；跨国求知本质上是民族国家在现代性危机下展开自我确证、社会改良与政治合法化的核心[[Champ|场域]]。（pp.11–13, 33–34）
+> 比较教育学在现代初创期确立的[[Proto-Scientific Motif|准科学人道主义]]与行政改良主义两大母题，在认识论根基上深度共生。求真事实分类为制度改良提供理性诊断工具，行政改良则赋予学术探究以现实行动力；跨国求知本质上是民族国家在现代性危机下展开自我确证、社会改良与政治合法化的核心[[Champ|场域]]。（pp.11–13, 33–34）
 
 > [!implication]- 比较教育学现代主义发端的深层认识论启示
 > - **理论后果** 解构了学科史单向度的实证主义起源神话，恢复了学科诞生之初对人性尊严、政治善治与世界和平的宏大文明抱负。（pp.11–13）
@@ -513,7 +514,7 @@ updated: 2026-09-06
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **现代主义发端由准科学人道主义与行政[[Educational Meliorism|改良主义]]双重母题共同塑造** 比较教育学的现代主义发端由启蒙后现代性催生的两大母题共同奠基：[[Marc-Antoine Jullien|朱利安]]开创的准科学人道主义母题，以及欧美教育决策者推进的政策导向行政改良主义母题，二者合力构筑了学科早期的[[Epistemology|认识论]]骨架。（pp.11–13, 33–34）
+> 1. **现代主义发端由准科学人道主义与行政[[Educational Meliorism|改良主义]]双重母题共同塑造** 比较教育学的现代主义发端由启蒙后现代性催生的两大母题共同奠基：[[Marc-Antoine Jullien|朱利安]]开创的[[Proto-Scientific Motif|准科学人道主义母题]]，以及欧美教育决策者推进的政策导向行政改良主义母题，二者合力构筑了学科早期的[[Epistemology|认识论]]骨架。（pp.11–13, 33–34）
 > 2. **朱利安准实证科学构想本质上是服从全人[[Bildung|教化]]与世界和平的欧陆人文精神科学** 朱利安以比较解剖学为类比的分析图表与标准化[[Questionnaire|问卷]]设计，本质上属于欧陆传统意义上的人文科学；其经验事实调查统摄于体智德协调发展、全人道德重生、预防流血革命与国际和平的世界主义工程，绝非 20 世纪[[Value Neutrality|价值无涉]]的技术官僚实证论。（pp.12–14, 16–22）
 > 3. **跨大西洋借用机制发生根本分化：欧陆侧重国家立法移植，北美转向政治合法化依据** 欧美改革者在对待外部经验时呈现出深刻的机制分化：以[[Victor Cousin|库森]]为代表的欧洲语境将普鲁士考察直接转化为国家实定法（1833 年基佐法案）中的具体制度规程移植；而以[[Horace Mann|霍勒斯·曼]]为代表的北美语境则开创了**将外国先进经验作为国内争议政策的合法化依据**的全新路径，借外部实绩击败国内保守势力，奠定共和政体公立学校基石。（pp.28–30, 33–34）
 > 4. **教育改良主义作为统摄性母题，确立了兼具事实经验求真与社会伦理关怀的比较认识论问题域** 改良主义（源自拉丁语 *melior*，即以改善为探究宗旨）是统摄 19 世纪所有外国教育探究的统治性母题；它将跨国事实探究与国家治理危机、共和政体存续及公民权利紧密绑定，确立了比较教育学从发端起便兼具事实求真与规范价值关怀的比较认识论问题域（comparative epistemic problematique）。（pp.33–34）

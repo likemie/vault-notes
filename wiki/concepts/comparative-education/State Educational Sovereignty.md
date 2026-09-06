@@ -10,10 +10,10 @@ aliases:
 summary: "近代世俗民族国家在打破宗教教会神权与家庭宗族私权垄断中确立的最高教育管辖权与视察责任，主张教育属神圣国家公共资源，由公共财政保障学校网络、推行强制义务教育并规范国民资格准入"
 type: concept
 domain: "comparative-education"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 11
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/comparative-education
   - theme/educational-governance
@@ -30,6 +30,8 @@ related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
+  - "[[Johann Wilhelm Süvern]]"
+  - "[[François Guizot]]"
   - "[[Victor Cousin]]"
   - "[[Horace Mann]]"
 related_facts:
@@ -130,7 +132,7 @@ updated: 2026-09-06
 > **公共资源论为跨国法律移植消除正当性赤字** 维克多·库森在推动法国初等教育改革时清醒认识到，直接照搬普鲁士君主制法案条款必将引发国内教会势力与保守势力的剧烈抵抗；通过提出“教育权是国家神圣公共资源”的法哲学命题，库森在法理上赋予了中央世俗国家强制征税、开办学校与行使最高视察权的本体正当性，从而构建了将普鲁士 1819 年聚芬草案系统转置为法国 1833 年基佐法案的核心推论桥梁。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 26–29)]]；引自 Brewer (1971:16, 44)
 
 > [!claim] Suvern, J. W.
-> **世俗国家最高监督权是确立现代国民教育法典的制度总纲** 普鲁士枢密顾问官聚芬在起草《1819 年普鲁士综合教育法草案》时，将世俗国家的最高监督确立为国民教育体制的总纲；通过法律条文强制地方市镇自筹办学经费并由省立师范学校统一师资，确立了国家主权意志统摄全境公学的经典范式。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 26–28)]]
+> **世俗国家最高监督权是确立现代国民教育法典的制度总纲** 普鲁士枢密顾问官[[Johann Wilhelm Süvern|聚芬]]在起草《1819 年普鲁士综合教育法草案》时，将世俗国家的最高监督确立为国民教育体制的总纲；通过法律条文强制地方市镇自筹办学经费并由省立师范学校统一师资，确立了国家主权意志统摄全境公学的经典范式。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 26–28)]]
 
 ---
 
@@ -199,7 +201,9 @@ updated: 2026-09-06
 > | [[Normal School]] | 概念 | 国家教育权的关键操作抓手，通过国家公立师范垄断教师资格准入与专业化标准。 |
 > | [[Educational Meliorism]] | 概念 | 驱动国家教育权确立的最高哲学动因，赋予国家介入教育以拯救社会危机的合法性。 |
 > | [[Guizot Law of 1833]] | 政策事实 | 法国七月王朝以国家公共资源法哲学为推论桥梁确立国家教育权的经典法案。 |
-> | [[Prussian Draft Education Law of 1819]] | 政策事实 | 聚芬主持设计的普鲁士草案，确立国家最高监督与省立师范，成为欧陆国家教育权技术蓝本。 |
+> | [[Johann Wilhelm Süvern]] | 人物 | 起草 1819 草案确立世俗国家最高监督权与省立师范，是欧陆国家教育权技术蓝本设计师。 |
+| [[François Guizot]] | 人物 | 主持颁布 1833 法案，将国家最高监督权与公立初等教育义务在法国法定确立。 |
+| [[Prussian Draft Education Law of 1819]] | 政策事实 | [[Johann Wilhelm Süvern|聚芬]]主持设计的普鲁士草案，确立国家最高监督与省立师范，成为欧陆国家教育权技术蓝本。 |
 > | [[Victor Cousin]] | 人物 | 提炼“教育属神圣国家公共资源”的法哲学命题，开创实定法直接转置范式。 |
 > | [[Horace Mann]] | 人物 | 开创美国州级公立学校教育管理体制，确立国家教育权捍卫自由共和政体的基石地位。 |
 

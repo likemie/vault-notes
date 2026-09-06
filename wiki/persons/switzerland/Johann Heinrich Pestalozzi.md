@@ -9,7 +9,7 @@ summary: "瑞士近代著名民主主义教育家与小学教学法之父，首�
 type: person
 nationality: switzerland
 person_region: "switzerland"
-person_related_count: 16
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
