@@ -54,7 +54,7 @@ updated: 2026-09-06
 > - **核心角色** 法国现代国民公共教育体系与法制框架的奠基人，折衷自由主义政策精英；在政治上致力于将法国大革命的人道成果与立宪君主制的政治秩序相融合。
 > - **代表贡献** 主持颁布具有划时代意义的[[Guizot Law of 1833|《1833 年基佐法案》]]（*Loi Guizot*），宣告教育旨趣在于“获取国民教育的最高福祉（the greatest good to be derived from educating the people）”；强制全境三万余市镇设立公立初小、各省设立公立[[Normal School|师范学校]]、确立专职皇家视学制度并法定承认教学自由（*la liberté d'enseignement*），亲手缔造了法国现代国民公学体制。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 27–29)]]
 
-> [!citation-card]- 人物定位的关键来源：基佐对国民教育最高福祉的政治承诺
+> [!citation-card] 人物定位的关键来源：基佐对国民教育最高福祉的政治承诺
 > 基佐在向法国国民议会阐述其教育立法构想时庄严宣告：国家对民众进行公共教育的最高目标，绝非出于狭隘功利，而是为了达致“从国民教育中汲取最大公共福祉”；唯有使普及公共教育成为社会大厦的稳固基石，自由立宪政体与文明繁荣方可免于内乱与专制覆辙。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 29)]]；引自 Brewer (1971:17)
 >
 > *The greatest good to be derived from educating the people.*
@@ -91,7 +91,7 @@ updated: 2026-09-06
 > [!claim] 核心主张
 > 基佐主张以“折衷自由主义（Eclectic Liberalism）”统摄现代国家教育治理：在政治上拒绝天主教教权的独占垄断与极端世俗激进主义，将基督教道德与世俗公权力视导有机熔铸为一体；在法权上确立国家对教育的最高视导主权，强制市镇设立公立初小、保障赤贫儿童免费入学，同时法定保护“教学自由（*la liberté d’enseignement*）”以包容私人力量；在制度上建立以各省公立师范学校为枢纽的师资培育垄断，并将初等公学垂直划分为面向平民大众的初等初小与面向中产工商业的初等高级双轨学制，以实现社会秩序稳固与文明循序渐进。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 27–30)]]
 
-> [!citation-card]- 关键表述：基佐在 1833 年致全国小学教师通谕中的经典训勉
+> [!citation-card] 基佐在 1833 年致全国小学教师通谕中的经典训勉
 > 基佐在颁布法案后直接向全法小学教师致信，将教师定位为国家世俗道德与文明重生的神圣使者：小学教师的职责绝非局限于传授读写算基础知识，更在于以身作则感化灵魂，将爱国情操、对法律的敬畏与崇高道德深植儿童心田；国家保障教师的基本尊严与最低俸给，教师则必须担负起维系文明与社会稳定的基石天职。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 29)]]；引自 Halls (1965:20)
 >
 > *Primary school teachers are called upon to render immense services to their country ... to instill in children's hearts those moral and civic virtues without which neither liberty nor public order can endure.*

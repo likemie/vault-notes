@@ -61,7 +61,7 @@ updated: 2026-09-06
 
 斯托在考察欧洲公共教育体制时，始终立足于为母州的公共教育建制寻找可资借鉴的成熟经验：
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 俄亥俄州政府委托斯托在欧洲期间收集其认为对本州有益的各种关于公共教学与教育体制的事实与信息。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 31)]]；引自 Knight (1930:248)
 >
 > *Stowe, for example, was commissioned by the state of Ohio to collect, while in Europe, 'such facts and information as he may deem useful to the State [Ohio] in relation to the various systems of public instruction and education'.*
@@ -102,7 +102,7 @@ updated: 2026-09-06
 
 在考察普鲁士专制政体下的公共教育成就时，斯托盛赞国家法律在唤醒青少年爱国情怀与国民凝聚力上的卓越成效：
 
-> [!citation-card]- 关键表述：普鲁士法律在塑造国民精神上的卓越实绩
+> [!citation-card] 普鲁士法律在塑造国民精神上的卓越实绩
 > 斯托高度赞扬非共和政体的君主腓特烈·威廉在所有关涉教育的法律中所展现的坚定执着，即致力于唤醒民族精神，在青年一代的心灵中培育对祖国及其制度的热切依恋。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 32)]]；引自 Knight (1930:255)
 >
 > *Stowe praised the non-Republican government of the 'unostentatious' monarch Frederick William in that it 'repeatedly and strenuously insisted in all the laws pertaining to education, to awaken a national spirit—to create in the youthful mind a warm attachment to his native land, and its institutions'.*

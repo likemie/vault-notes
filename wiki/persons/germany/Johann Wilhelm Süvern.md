@@ -55,7 +55,7 @@ updated: 2026-09-06
 > - **核心角色** 普鲁士后耶拿时期（1806 年战败后）国家现代化重组与国民教育体系的制度总建筑师；将威廉·冯·洪堡（Wilhelm von Humboldt）的新人文主义[[Bildung|全人教化]]理念转译为国家法律规程与行政制度架构。
 > - **代表贡献** 主持起草著名的[[Prussian Draft Education Law of 1819|《1819 年普鲁士综合教育法草案》]]（*Entwurf eines allgemeinen Gesetzes über die Verfassung des Schulwesens im preußischen Staate*），确立世俗国家对教育的[[State Educational Sovereignty|最高监督主权]]、市镇法定办学义务、初等小学与市民学校[[Dual School System|双轨学制]]架构，以及各省公立[[Normal School|师范学校]]网络，成为维克多·库森（Victor Cousin）赴德考察并推行法国国家教育改革的核心技术母本。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 26–29)]]
 
-> [!citation-card]- 人物定位的关键来源：库森对聚芬 1819 年草案的极高推崇
+> [!citation-card] 人物定位的关键来源：库森对聚芬 1819 年草案的极高推崇
 > 维克多·库森在其 1831 年普鲁士考察报告中，盛赞聚芬草案不仅条理严谨、包罗万象，更是欧陆所有关于初等国民教育法案中无出其右的典范：该法案未遗漏任何关键公共利益，是其所见最详尽、最完备的初等国民教育法律文件，其深邃智慧令人叹服。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 28–29)]]；引自 Cousin (1930:205–206)
 >
 > *This law ... omits no topic of interest, and is the most extensive and complete law on primary instruction of which I have any knowledge. It is impossible not to be struck with its profound wisdom ... the Prussian law of 1819 appears to me excellent.*
@@ -90,7 +90,7 @@ updated: 2026-09-06
 > [!claim] 核心主张
 > 聚芬确立了现代世俗国家统摄国民教育体系的法哲学纲领：教育既非宗教教会的私有教区附属物，亦非个人与家族的任意私权，而是关乎民族存亡与社会秩序的最高公共事务。国家必须在世俗主权下对各级各类学校行使不可侵犯的最高监督权（*Supreme Right of Supervision*），通过市镇自筹强制设校保障贫困阶层基本知识分配，通过省立公立师范学校垄断教师专业化执业资质与最低俸给，并在初等大众轨道（初小）与工商业中产轨道（市民学校）之间建立分层而协调的现代化制度骨架。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 26–29)]]
 
-> [!citation-card]- 关键表述：聚芬草案对国民初等教育终极宗旨的界定
+> [!citation-card] 聚芬草案对国民初等教育终极宗旨的界定
 > 聚芬在 1819 年草案中为初等国民教育确立了极具新人文主义色彩的核心目标：初等教育的崇高目的在于全面发展受教育者灵魂的各项潜能、理性、感官与身体力量，并将宗教与道德教化深植其中，使每位臣民成长为理性自立的现代爱国公民。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 29)]]；引自 Cousin (1930:159)
 >
 > *Primary instruction shall have for its aim to develop the faculties of the soul, the reason, the senses, and the bodily strength, and it shall comprehend religion and morals.*

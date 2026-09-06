@@ -82,7 +82,9 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > [!claim] 核心主张
 > 用一段话概括此人最稳定、最有解释力的思想主张。聚焦可争辩的核心论断，不复述著作清单。
 
-> [!citation-card]- 关键表述
+%% 记录代表性思想引文。直接使用不折叠卡片（[!citation-card]），卡片标题直接采用具体思想主题或名言关键词，严禁添加“关键表述一/二/三”、“关键表述：”等自我说明性元叙述标签。 %%
+
+> [!citation-card] <核心命题或思想主题，如：教育权作为国家公共资源>
 > 中文译文或中文原文。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 >
 > *Original text or English translation.*

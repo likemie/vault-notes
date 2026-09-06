@@ -60,7 +60,7 @@ updated: 2026-09-06
 
 巴纳德以极其宏阔的视野系统梳理欧洲各国的教育制度，其工作赢得了后世学者的广泛赞誉：
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 比较教育史学家不能不为巴纳德对不同国家各类等级与面向所有阶层的公立学校，以及其他普通教育机构的历史、组织、行政、课程、师资与教学法、纪律和统计数据所作出的全面详尽的记述所折服。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 32)]]；引自 Barnard (1872)
 >
 > *The comparative educational historian cannot but be impressed by Barnard’s comprehensive account of the history, organisation, administration, studies, curricula, teachers and pedagogy, discipline and statistics of public schools of every grade and for all classes, as well as other institutions of general education, in different countries.*
@@ -102,7 +102,7 @@ updated: 2026-09-06
 
 在对待德意志各邦的教育成就时，巴纳德尤为钦佩其将全体平民纳入国家法治化学校网络的制度魄力：
 
-> [!citation-card]- 关键表述：普鲁士真正的国民教育体系
+> [!citation-card] 普鲁士真正的国民教育体系
 > 所有三位美利坚改革家都对普鲁士人在建立巴纳德所称的‘真正的国民教育’体系方面的努力与成功留下了极其深刻的印象。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 31)]]；引自 Barnard (1872:365)
 >
 > *All three were especially impressed by the Prussians' success in their efforts to establish a system of what Barnard called 'true national education'.*

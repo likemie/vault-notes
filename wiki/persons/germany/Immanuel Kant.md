@@ -80,7 +80,7 @@ updated: 2026-09-06
 
 在启蒙现代性的知识图谱中，康德确立了理性自由与公共启蒙之间不可分割的共生关系：
 
-> [!citation-card]- 人物定位的关键来源：启蒙即公开运用理性的自由
+> [!citation-card] 人物定位的关键来源：启蒙即公开运用理性的自由
 > 康德指出，[[Enlightenment|启蒙]]就是人从自我招致的未成熟状态中走出来。公众实现自我启蒙的可能性极高，只要赋予其自由——即在所有事务中公开运用自己理性的自由。在启蒙哲学中，教育学、政治学与国家建构自始至终紧密交织。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 20)]]；引自 Kant (1784)
 >
 > *According to Kant, 'Enlightenment is man's [[Emergence]] from his self-incurred immaturity. There is more chance of an entire public enlightening itself ... if only the public concerned is left in freedom ... freedom to make public use of one's reason in all matters.' ... in the philosophy of the Enlightenment, education, pedagogy, 'politics' and 'nation-building' were closely related.*
@@ -133,12 +133,12 @@ updated: 2026-09-06
 > [!claim] 核心主张
 > 知识始于经验但非源于经验，人类心智先天地配备了加工感觉经验的时空直观形式与十二先验范畴，主体能动地为自然立法；实践理性通过自我立法摆脱感官欲望羁绊，确立以人本身为终极目的的普遍定言律令；人类历史的内在目的在于通过公开运用理性的启蒙实践与跨国世界主义法权建构，克服野蛮纷争并达成[[Perpetual Peace|永久和平]]；而个体唯有通过教育——从外在[[Disciplina and Doctrina|规训]]跃升为内在道德化自律——方能实现真正的人性展开。
 
-> [!citation-card]- 关键表述一：头顶星空与内心道德法则
+> [!citation-card] 头顶星空与内心道德法则
 > 有两样东西，人们越是经常、越是持久地对它们进行思考，它们在心中唤起的赞叹与敬畏就越是充溢、与日俱增：这就是我头顶上星空璀璨的穹苍，和我内心深处庄严的道德法则。引自《实践理性批判》（1788）
 >
 > *Two things fill the mind with ever new and increasing admiration and reverence, the more frequently and persistently one's reflection deals with them: the starry heavens above me and the moral law within me.*
 
-> [!citation-card]- 关键表述二：人唯有通过教育才能成人
+> [!citation-card] 人唯有通过教育才能成人
 > 人是唯一必须接受教育的造物。……人只有通过教育才能成为人。人完全是教育塑造的产物。……大自然隐藏在我们人性中的许多胚芽，唯有借助教育才能逐步被开发并达到其完满境地。引自《论教育学》（1803）
 >
 > *Man is the only being who needs education. ... Man can only become man by education. He is merely what education makes him of him. ... In man there are many germs, and it is our business to develop the good germs proportionally.*

@@ -65,7 +65,7 @@ updated: 2026-09-06
 
 孔德在现代知识谱系确立过程中的决定性枢纽地位，得到了当代教育研究方法论界的一致公认。
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 虽然实证主义在西方思想史上反复出现，但学者们公认法国哲学家奥古斯特·孔德是首次将“实证主义”一词用于明确哲学立场的人。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1, p. 175)]]
 >
 > *Although positivism has been a recurring form in Western thought... it is generally agreed that the French philosopher Auguste Comte was the first to use the term to characterize a philosophical position (Beck, 1979).*
@@ -115,14 +115,14 @@ updated: 2026-09-06
 
 孔德将自然科学方法无差别推广至社会现象的主张，确立了实证范式的理论基石。
 
-> [!citation-card]- 关键表述：社会现象的自然科学化
+> [!citation-card] 社会现象的自然科学化
 > 孔德认为，社会现象可以像自然物理现象一样被研究——即产生可通过经验考察的法则和理论。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1, p. 175)]]
 >
 > *Oldroyd (1986) says that in Comte's view, social phenomena could be researched just like natural physical phenomena - in other words, to produce laws and theories that could be tested by experience.*
 
 这一实证信念深刻契合了 19 世纪初启蒙现代性对社会秩序重构的渴望，并直接投射至早期比较教育学的建制化设想之中。
 
-> [!citation-card]- 关键表述：科学方法运用于社会事务与教育改良
+> [!citation-card] 科学方法运用于社会事务与教育改良
 > 与其同时代的法国实证主义哲学家社会学家奥古斯特·孔德相似，朱利安坚信科学方法可以应用于人类与社会事务。作为一门实证科学，比较教育学应聚焦于客观可测定且系统收集的事实与观察。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 13–14)]]
 >
 > *Like his contemporary French scientific positivist philosopher-sociologist Auguste Comte (1798–1857), Jullien believed that the scientific method could be applied to human and social affairs. As a positive science, therefore, comparative education should focus on objectively determinable and systematically collected facts and observations.*

@@ -67,7 +67,7 @@ updated: 2026-09-06
 
 历史学家对其教育思想与美国立国精神的内在关联给出了经典定论：
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 著名历史学家劳伦斯·克雷明指出：曼深刻理解自由、大众教育与共和政府之间的内在必然关联。一个国家无法在愚昧无知中长久维系自由。任何政治体制无论设计得多么巧妙，都无法天然保证公民的权利与自由，因为自由只有在知识于民众中广泛普及时才能稳固。因此，全民普及教育是共和政府赖以安身立命的唯一基石。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, p. 32)]]
 >
 > *Mann understood well the integral relationship between freedom, popular education, and republican government ... A nation cannot long remain ignorant and free. No political structure, however artfully devised, can inherently guarantee the rights and liberties of citizens, for freedom can be secure only as knowledge is widely distributed among the populace. Hence, universal popular education is the only foundation on which republican government can securely rest.*
@@ -135,28 +135,28 @@ updated: 2026-09-06
 
 霍勒斯·曼在年度报告与经典演说中留下了关于民主、外国经验与教育正义的不朽论述：
 
-> [!citation-card]- 关键表述一：知识普遍分配与自由共和存续（1848）
+> [!citation-card] 知识普遍分配与自由共和存续（1848）
 > 曼深刻理解自由、大众教育与共和政府之间的内在必然关联……一个国家无法在愚昧无知中长久维系自由。任何政治体制无论设计得多么巧妙，都无法天然保证公民的权利与自由，因为自由只有在知识于民众中广泛普及时才能稳固。因此，全民普及教育是共和政府赖以安身立命的唯一基石。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, p. 32; Cremin, 1957, p. 7)]]
 >
 > *Mann understood well the integral relationship between freedom, popular education, and republican government ... A nation cannot long remain ignorant and free. No political structure, however artfully devised, can inherently guarantee the rights and liberties of citizens, for freedom can be secure only as knowledge is widely distributed among the populace. Hence, universal popular education is the only foundation on which republican government can securely rest.*
 
 曼在阐释考察欧洲学校的原初动力时，确立了跨国探究的辩证双重视野：
 
-> [!citation-card]- 关键表述二：考察外国制度的辩证准则——引路明灯与示警烽火（1844）
+> [!citation-card] 考察外国制度的辩证准则——引路明灯与示警烽火（1844）
 > 外国机构的盛名吸引了曼的注意，使他充满了强烈的渴望，想要了解那些机构在任何方面是否优于我们自己的机构；如果在其中发现了任何值得采纳的东西，便将其转移过来以促进我们的改良……对曼而言，首要之务是寻找足以示警的烽火，以及用以引路的明灯。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, p. 31; Downs, 1974, p. 88)]]
 >
 > *The celebrity of institutions in foreign countries had attracted his attention, filling him with 'an intensive desire of knowing whether, in any respect, those institutions were superior to our own; and if anything were found in them worthy of adoption, of transferring it for our improvement' ... Of first importance to Mann was to find 'beacons' to terrify as well as lights to guide.*
 
 当代比较教育学界高度肯定北美先驱在借用机制上的开创性突破：
 
-> [!citation-card]- 关键表述三：北美借用机制的实质——国内公共改革的合法化依据
+> [!citation-card] 北美借用机制的实质——国内公共改革的合法化依据
 > 毫无疑问，与欧洲人一样，美利坚的决策者和行政官员同样受到从海外汲取有益教训这一愿望的驱动，但其目的绝非[[Marc-Antoine Jullien|朱利安]]和[[Victor Cousin|库森]]所理解的那种[[Policy Borrowing|教育借用]]或制度移植。更为确切的表述应当是：美国的改良主义者远赴海外寻找教训，主要是为了将其用作推进合众国国家公共教育改革的雄辩的合法化依据。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, p. 34)]]
 >
 > *It is, of course, the case that, like the Europeans, the American policy-makers and administrators were motivated 'by a desire to gain useful lessons from abroad', but not for the purpose of 'educational borrowing' or 'transplantation' as understood by Jullien and Cousin. It would be more accurate to say that the American meliorists sought 'lessons' from abroad to use as legitimating rationales for the reform of national public education in the United States.*
 
 曼以共和国家自尊向立法机关发起反诘，将域外经验转化为击溃国内守旧派的道义重炮：
 
-> [!citation-card]- 关键表述四：反诘共和政府自尊与文明责任（1844）
+> [!citation-card] 反诘共和政府自尊与文明责任（1844）
 > 如果欧洲的专制君主尚且能够为了强固其国家而为全体臣民建立如此完备卓越的公立学校，那么以人民主权与个人自由为立国根本的自由共和国，若任由公民子弟沉沦于愚昧文盲，岂非对自由精神的公开背叛与文明耻辱？（Cremin, 1957:7; [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias, 2009, pp. 32–34]]）
 
 ---

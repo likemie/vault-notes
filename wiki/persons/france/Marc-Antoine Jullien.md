@@ -74,7 +74,7 @@ updated: 2026-09-06
 > - **核心角色** 现代比较教育学的学科奠基人与公认先驱，跨国教育与世界和平治理运动的早期开拓者；确立了以跨国经验观察、实证事实分类诊断社会病理，并服务于全人道德[[Bildung|教化]]、消除战争野蛮与维系世界和平的学术[[Paradigm|范式]]。
 > - **代表贡献** 1817 年出版奠基性专论[[Esquisse d'un ouvrage sur l'éducation comparée|《关于比较教育的一项著作的计划与初步观点》（*Esquisse*）]]，首创比较教育准实证科学（*science positive*）构想与标准化[[Questionnaire|问卷调查]]法；编制覆盖六大领域的比较观察表（Comparative Observation Tables）；系统构想包含常设特别教育委员会、示范师训学院与多语种通报网络的跨国教育共同体与世界和平治理蓝图，为 20 世纪[[International Education|国际教育]]局（IBE）与联合国教科文组织（UNESCO）提供了早期组织原型。
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 自 1940 年代朱利安的《计划》被重新发掘至今，比较教育学者普遍认定他是比较教育学发展的先驱，甚至尊称他为这门现代科学之父。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, p. 20)]]
 >
 > *From the 1940s, when Jullien’s Plan was accidentally discovered, till today, comparative educationists have credited Jullien with being a pioneer in the development of comparative education; indeed ... some comparativists have hailed Jullien as the 'father' of this modernist episteme (science).*
@@ -132,22 +132,22 @@ updated: 2026-09-06
 
 朱利安的世界主义情怀与和平治理蓝图在其经典论著与通信中留下了清晰的原典印记：
 
-> [!citation-card]- 关键表述一：准实证科学与比较解剖学类比
+> [!citation-card] 准实证科学与比较解剖学类比
 > 正如所有其他科学与艺术一样，教育由事实与观察构成。因此，为这门科学编制排列在分析图表中的事实与观察汇编显得尤为必要，以便对它们进行关联与比较，从中推导出确定原则与规程，从而使教育几乎成为一门实证科学……对比较解剖学的研究推进了人体解剖学；同样，对比较教育的研究必将为完善教育科学提供新的手段。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, p. 12)]]
 >
 > *Education, as all other sciences and all the arts, is composed of facts and observations. It, therefore, seems necessary to form, for this science as one has done for other branches of knowledge, collections of facts and observations, arranged in analytical charts, which permit them to be related and compared, to deduct from them certain principles, determined rules, so that education might become almost nearly a positive science.*
 
-> [!citation-card]- 关键表述二：教育作为革命替代品的预防功能论
+> [!citation-card] 教育作为革命替代品的预防功能论
 > 在教育领域，正如在其他方面一样，朱利安从雅各宾派转变为自由派。早年他曾将教育视为革命进程的一部分；后来他转而将教育视为革命的替代品，或者视为借以预防革命发生的根本手段。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, p. 19; Palmer, 1993, p. 151)]]
 >
 > *In education, as in other respects, he (Jullien) turned from the Jacobin into the liberal. Where he had once seen education as part of the revolutionary process, he came to see it as a substitute for revolution, or as a means by which revolution could be prevented.*
 
-> [!citation-card]- 关键表述三：世界公民理想与全球知识网络（1819）
+> [!citation-card] 世界公民理想与全球知识网络（1819）
 > 仅做百科全书编纂者对我们而言是不够的；我们尤其渴望成为世界公民。除非每一期都能以最完整、准确的方式，呈现整个地球表面上的科学、文学、艺术、智力劳动与道德改良状况，否则我们的任务便不算完成。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, p. 22; Palmer, 1993, pp. 180–181)]]
 >
 > *It is not enough for us to be encyclopedists; we aspire especially to be cosmopolites (world citizens). We would not think our task fulfilled unless each of our numbers presented, in the most complete and accurate way, the state of sciences, letters, arts, intellectual labors and moral improvement throughout the surface of the globe.*
 
-> [!citation-card]- 关键表述四：以比较文明与比较教育荡涤野蛮战争残余（1833）
+> [!citation-card] 以比较文明与比较教育荡涤野蛮战争残余（1833）
 > 我们杰出而博学的居维叶在崇高的沉思中准确判断出：只有比较解剖学和比较地质学才能推动长期停留在幼年期的解剖学与地质学发展。同样，只有比较文明才能迅速推进我们当前的文明，荡涤其尽管拥有辉煌奇迹却依然保留的深重野蛮残余。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 22–23; Palmer, 1993, p. 205)]]
 >
 > *Our illustrious and learned CUVIER, whose recent death was a loss as keenly felt in England as in France, had rightly judged, in his lofty meditations, that only comparative anatomy and comparative geology could advance the sciences of anatomy and geology which remained so long in their infancy. Similarly, only comparative civilization can speedily advance our present civilization, which still preserves, despite its brilliant and imposing wonders, the deep and afflicting traces of the old barbarism.*

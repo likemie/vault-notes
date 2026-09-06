@@ -70,7 +70,7 @@ updated: 2026-09-06
 
 其跨国教育考察与借用实践奠定了 19 世纪行政改良主义的经典基准：
 
-> [!citation-card]- 人物定位的关键来源
+> [!citation-card] 人物定位的关键来源
 > 正如布鲁尔在《作为比较教育学者的维克多·库森》中所评述，库森关于普鲁士教育的报告堪称审慎借用的经典典范。库森在报告中宣称：一个民族的真正伟大不在于对他人一无所仿，而在于处处借用优良之物，并在吸收改造中使其臻于完善。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, p. 30)]]
 >
 > *The true greatness of a people does not consist in imitating nothing from others, but in borrowing everywhere what is good and in perfecting it while appropriating for oneself.*
@@ -134,35 +134,35 @@ updated: 2026-09-06
 
 库森在 1831 年报告与相关著述中对国家教育权、外国借用及古典人文教育留下了深刻的历史论述：
 
-> [!citation-card]- 关键表述一：审慎借用公理（1831）
+> [!citation-card] 审慎借用公理（1831）
 > 一个民族的真正伟大不在于对他人一无所仿，而在于处处借用优良之物，并在吸收改造中使其臻于完善。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, p. 30)]]
 >
 > *The true greatness of a people does not consist in imitating nothing from others, but in borrowing everywhere what is good and in perfecting it while appropriating for oneself.*
 
 库森的法哲学论证为世俗国家介入教育确立了不可动摇的法权基石：
 
-> [!citation-card]- 关键表述二：教育权作为神圣的国家公共资源（1831）
+> [!citation-card] 教育权作为神圣的国家公共资源（1831）
 > 教育权既非个人的自然权利，亦非信奉特定教义之群体的特权，更非私人产业；它是公共资源。有组织的社会——即国家——通过设立学校，有权利也有责任坚持确保特定条件的落实：这便是国家的监督权。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, p. 28; Brewer, 1971, p. 16)]]
 >
 > *He argued that the right to educate was neither the natural right of the individual, nor of a group of individuals sharing a special creed, nor was it a private industry; 'it is a public resource' ... Organized society—the State—by providing a school has the right and the duty to insist that certain conditions obtain: this is the State’s right of supervision.*
 
 在考察[[Prussian Draft Education Law of 1819|普鲁士聚芬法案]]时，库森高度肯定其对全人体智德教化的制度设计：
 
-> [!citation-card]- 关键表述三：[[Prussian Draft Education Law of 1819|普鲁士 1819 年聚芬法案]]与教育的灵魂理性展开（1831）
+> [!citation-card] [[Prussian Draft Education Law of 1819|普鲁士 1819 年聚芬法案]]与教育的灵魂理性展开（1831）
 > 该法律未遗漏任何关乎公众利益的主题，是我所知关于初等教育最为完备详尽的法典。人们不可能不被其深沉的智慧所折服……普鲁士 1819 年法案在我看来堪称卓越……初等教育应以发展灵魂官能、理性、感官与身体力量为宗旨，并且必须包含宗教与道德。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 28–29; Cousin, 1930, pp. 159, 205–206)]]
 >
 > *This law ... omits no topic of interest, and is the most extensive and complete law on primary instruction of which I have any knowledge. It is impossible not to be struck with its profound wisdom … the Prussian law of 1819 appears to me excellent ... primary instruction shall have for its aim to develop the faculties of the soul, the reason, the senses, and the bodily strength, and it shall comprehend religion and morals.*
 
 在论及中等教育时，库森从人文主义立场深刻阐述古典学问的永恒价值：
 
-> [!citation-card]- 关键表述四：古典人文研究与人类本性的神圣传统（1831）
+> [!citation-card] 古典人文研究与人类本性的神圣传统（1831）
 > 古典研究无可比拟地最为重要，因为它们的趋向与目标在于认识人类本性，在最为宏大崇高的维度审视人性格调……古典研究守护着人类精神道德与智力生活的神圣传统。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, p. 30; Cousin, 1930, p. 213)]]
 >
 > *Classical studies are, without any comparison, the most important of all ... for their tendency and their object is the knowledge of human nature, which they consider under all its grandest aspects … classical studies keep alive the sacred tradition of the moral and intellectual life of the human race.*
 
 库森向教育部首脑建言时，坚持大众普及教育必须牢固锚定于道德与宗教纽带：
 
-> [!citation-card]- 关键表述五：国民普及教育与宗教道德的结合（1831）
+> [!citation-card] 国民普及教育与宗教道德的结合（1831）
 > 感谢上帝，阁下是一位极为开明的国务活动家，绝不会认为脱离道德教育能有真正的大众教育，脱离宗教能有大众道德，或脱离教会能有大众宗教。因此，大众教育应当是宗教性的，也就是说，应当是基督教的。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, p. 30; Cousin, 1930, p. 223)]]
 >
 > *Thank God, Sir, you are too enlightened a statesman to think that true popular instruction can exist without moral education, popular morality without religion, or popular religion without a church. Popular education, ought therefore to be religious, that is to say Christian.*
