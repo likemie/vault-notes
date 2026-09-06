@@ -5,6 +5,10 @@
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings.md"
     },
     {
+      "basename": "Perpetual Peace",
+      "path": "wiki/concepts/comparative-education/Perpetual Peace.md"
+    },
+    {
       "basename": "Prussian Draft Education Law of 1819",
       "path": "wiki/facts/germany/Prussian Draft Education Law of 1819.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Argument_Zhao_2025_JIntell",
       "path": "wiki/arguments/journal-articles/Journal of Intelligence/Argument_Zhao_2025_JIntell.md"
-    },
-    {
-      "basename": "Blended Learning",
-      "path": "wiki/concepts/instruction-pedagogy/Blended Learning.md"
     }
   ],
   "omittedPaths": [],
