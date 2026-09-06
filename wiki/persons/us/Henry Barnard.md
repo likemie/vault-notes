@@ -11,7 +11,7 @@ summary: "美国近代教育家与首任联邦教育专员，编纂卷帙浩繁�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 10
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -35,7 +35,8 @@ related_persons:
   - "[[Victor Cousin]]"
   - "[[Harold Noah]]"
   - "[[Max Eckstein]]"
-related_facts: []
+related_facts:
+  - "[[National Education in Europe]]"
 related_arguments:
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
 confidence: high
@@ -122,6 +123,23 @@ updated: 2026-09-06
 
 ---
 
+## 历史评价
+
+> [!debates] 史学评价与后世定位
+>
+> > [!axis] 百科全书式客观档案：早期教育民族志与史料基石
+> > 比较教育史学家布莱恩·霍姆斯（Brian Holmes）与现代学术史研究者高度评价巴纳德的浩瀚汇纂工程。
+> >
+> > - **Brian Holmes (1965)** 论断指出：“毫无疑问，巴纳德处理比较教育的方法在很大程度上是历史性与描述性的”，而他旨在编纂一部世界“教育百科全书……的宏伟目标实质上已经达成”，为后世留下了前所未有的制度客观全景。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 32–33)]]；引自 Holmes (1965:14)
+> > - **[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]]** 强调后世学者不能以 20 世纪狭隘的因果假设检验去否定巴纳德的历史功绩；应当将其公正地定位为比较教育发端期卓越的“教育编年史官（educational chronicler）”、“教育叙事家（educational narrator）”与“早期教育民族志学者（educational ethnographer）”。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 33)]]
+
+> [!citation-card]- 关键史学定性：霍姆斯论巴纳德的教育百科全书成就
+> 霍姆斯指出：毫无疑问，巴纳德处理比较教育的方法在很大程度上是历史性与描述性的，但他编纂一部跨国教育百科全书的目标实质上已经圆满达成。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 33)]]；引自 Holmes (1965:14)
+>
+> *Unquestionably Barnard’s approach to comparative education was largely historical and descriptive, and his aim to produce an encyclopaedia of education ... was virtually achieved.*
+
+---
+
 ## 关系网络
 
 巴纳德在 19 世纪教育改革与学术史上处于核心网络枢纽：
@@ -158,8 +176,8 @@ updated: 2026-09-06
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-| [[National Education in Europe]] | 政策 / 事实 | 巴纳德比较教育学代表作，欧洲各国公共教育体制与统计百科全书。 |
+> | [[National Education in Europe]] | 政策 / 事实 | 巴纳德比较教育学代表作，欧洲各国公共教育体制与统计百科全书。 |
 > | [[Common School Movement]] | 概念 | 巴纳德通过文献整理与行政实践，为全美公学运动确立了坚实的制度与理论后盾。 |
 > | [[Auslandspadagogik]] | 概念 | 巴纳德的《国民教育》是 19 世纪前期外国教育学历史描述进路的最高峰。 |
 > | [[Educational Meliorism]] | 概念 | 巴纳德致力于通过吸取外部制度优长改善本土公共教育，体现了改良主义母题。 |
-> | [[Ethnography]] | 方法 | 巴纳德对欧洲学校日常运作、纪律、课表与教学法的巨细靡遗的客观记述，开创了早期教育民族志的先河。 |\n
+> | [[Ethnography]] | 方法 | 巴纳德对欧洲学校日常运作、纪律、课表与教学法的巨细靡遗的客观记述，开创了早期教育民族志的先河。 |

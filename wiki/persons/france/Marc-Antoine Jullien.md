@@ -10,7 +10,7 @@ summary: "法国启蒙自由主义教育家与国际主义者，1817年发表比
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 28
+person_related_count: 29
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Questionnaire]]"
   - "[[International Education]]"
+  - "[[Enlightenment]]"
   - "[[Educational Meliorism]]"
   - "[[Faculty Psychology]]"
   - "[[Epistemology]]"
@@ -164,6 +165,28 @@ updated: 2026-09-06
 
 > [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] — 深入解构朱利安的准科学人道主义母题，澄清其欧陆二级精神科学属性，有力反驳 20 世纪行为实证派指责其问卷带有主观偏见的时代倒错。
+
+---
+
+## 历史评价
+
+> [!debates] 史学评价与后世定位
+>
+> > [!axis] 文明使徒与和平使徒：思想史传记定位
+> > 著名历史学家罗伯特·帕尔默（R. R. Palmer）与现代比较教育史学家对朱利安超越时代的思想境界做出了里程碑式的定性。
+> >
+> > - **R. R. Palmer (1993)** 深度考察朱利安从雅各宾青年到宪政自由派的心灵史，将其尊称为“文明使徒（apostle of civilisation）”，阐明其思想核心在于将理性教育确立为终结暴力革命与专制循环的心灵防线。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 19–20, 23)]]；引自 Palmer (1993)
+> > - **[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]]** 进一步论断：朱利安不仅是文明使徒，更完全当得起“和平使徒（apostle of peace）”的崇高赞誉；他将比较解剖学类比升华为以跨国教育协作荡涤旧时代野蛮战争残余的“比较文明学”，在学科发轫期将实证事实归纳与人类永久和平愿景熔铸为一体。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 23)]]
+>
+> > [!axis] 学科奠基神话与实证主义起源定位
+> > 自 1940 年代初其手稿被重新发掘后，国际教育界掀起了对朱利安“比较教育之父”的学术追认。
+> >
+> > - **Stewart Fraser (1964) / P. Rosselló (1943)** 国际学者普遍追认朱利安为比较教育学奠基先驱与现代科学之父，赞扬其《计划》所构想的国际教育常设机构、定期通报与标准化数据调查，精准预言并奠定了 20 世纪国际教育局（IBE）与联合国教科文组织（UNESCO）的体制蓝图。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 20, 24)]]
+
+> [!citation-card]- 关键史学定性：文明与和平的双重使徒
+> 朱利安不仅配得上帕尔默对其“文明使徒”的定性，同样完全当得起“和平使徒”的称号。面对宗教道德纽带解体与动荡战争创伤，朱利安致力于通过国内与国际教育的革新，实现全人类文明进步与和平共处。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 23)]]；引自 Palmer (1993)
+>
+> *Jullien, the internationalist and the cosmopolitis (world citizen), does not only merit Palmer’s characterisation of 'apostle of civilisation', he could also, quite justifiably, be called 'apostle of peace'.*
 
 ---
 

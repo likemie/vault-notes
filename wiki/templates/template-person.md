@@ -102,6 +102,30 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ---
 
+## 历史评价
+
+%% 记录权威史学家、思想史家或后世学者对该人物的学术定位、时代定性与经典评价。可选用 [!debates]（不同史学流派或评价维度）或 [!citation-card]（经典定性引文）。无充分评价材料时可省略本节。 %%
+
+> [!debates] 史学评价与后世定位
+>
+> > [!axis] <史学评价维度一，如：政治哲学定位 / 学科奠基神话>
+> > 说明该评价维度的思想史背景与核心立论。
+> >
+> > - **<学者名>（Year）** 经典评价。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> > - **<学者名>（Year）** 补充或对照评价。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+>
+> > [!axis] <史学评价维度二，如：跨国传播反响 / 时代局限评价>
+> > 另一维度的学术评价说明。
+> >
+> > - **<学者名>（Year）** 评价内容。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+
+> [!citation-card]- 关键史学定性
+> 中文译文或核心评价。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+>
+> *Original text or English translation.*
+
+---
+
 ## 关系网络
 
 > [!person-network] 关系网络

@@ -179,6 +179,32 @@ updated: 2026-09-06
 
 ---
 
+## 历史评价
+
+> [!debates] 史学评价与后世定位
+>
+> > [!axis] 共和政体基石与古典自由主义教育哲学
+> > 美国著名教育史学家劳伦斯·克雷明（Lawrence A. Cremin）高度评价曼对美利坚共和体制与现代教育哲学的奠基性贡献。
+> >
+> > - **Lawrence A. Cremin (1957)** 深刻定性曼的思想精髓：“曼深刻洞悉了自由、大众教育与共和政体之间的内在必然联系……一个国家不可能既无知又自由。无论政治架构设计得多么精巧，其本身都无法内在保障公民的权利与自由；因为唯有当知识广泛分布于民众之中时，自由方能获得保障。因此，普遍的国民教育是共和政府赖以稳固立足的唯一基石。”[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 31–32)]]；引自 Cremin (1957:7)
+>
+> > [!axis] 跨国考察动机：警世险标与前路明灯的双重辩证
+> > 曼的传记作家罗伯特·唐斯（Robert B. Downs）揭示了曼赴欧考察时超越盲目崇拜与狭隘偏见的深刻史学自觉。
+> >
+> > - **R. B. Downs (1974)** 指出曼之所以密切关注外国知名制度，是因为“对曼而言，首要之务是既要寻找令人警醒戒惧的险礁警标（beacons to terrify），也要寻找指引前路的导航明灯（lights to guide）”；他绝非照搬君主专制，而是审慎遴选有益于美洲共和制度改良的养分。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 32)]]；引自 Downs (1974:88)
+>
+> > [!axis] 比较教育学史学史定位：外国教育学与行政改良主义先驱
+> > 在现代比较教育学科编年史上，史学家对曼的经验考察形态给予了明确的类型学界定。
+> >
+> > - **Fraser & Brickman (1968) / [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]]** 指出曼的论述主要属于“外国教育学（Auslandspädagogik）”；尽管多属描述性、报告性且缺乏 20 世纪因果变量分析，但曼敏锐地将外部成功证据转化为国内政治博弈的话语资本，为分权民主社会开创了以比较考察服务于政策改良的经典范式。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 32–34)]]
+
+> [!citation-card]- 关键史学定性：克雷明论曼的自由与国民教育思想
+> 曼深刻洞悉了自由、大众教育与共和政体之间的内在统一：一个国家不可能既无知又自由；普遍的大众教育是共和政府赖以稳固立足的唯一基石。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 32)]]；引自 Cremin (1957:7)
+>
+> *Mann understood well the integral relationship between freedom, popular education, and republican government. ... A nation cannot long remain ignorant and free. ... universal popular education is the only foundation on which republican government can securely rest.*
+
+---
+
 ## 关系网络
 
 曼的思想发展与制度斗争与大西洋两岸的教育先驱及政治对手紧密交织：

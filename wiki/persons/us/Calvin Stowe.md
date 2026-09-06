@@ -123,6 +123,27 @@ updated: 2026-09-06
 
 ---
 
+## 历史评价
+
+> [!debates] 史学评价与后世定位
+>
+> > [!axis] 北美边疆公学立法的动员利器：史学定位
+> > 美国教育史学家埃德加·奈特（Edgar Knight）与思想史家对斯托报告在北美各州所发挥的政治动员与制度催化作用做出了权威评定。
+> >
+> > - **Edgar Knight (1930)** 评价指出：斯托作为俄亥俄州官方使节，其报告以无可辩驳的欧洲事实极具说服力地证明了国家公共教育的可行性与卓越性，不仅促成俄亥俄州初等公校法案通过，更由全美六大州议会破天荒下令重印发行，成为美国边疆拓殖期反击私学垄断、推进公立教育立法的关键政治武器。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 31–32)]]；引自 Knight (1930:248)
+>
+> > [!axis] 行政改良主义母题与外国教育学先驱
+> > 现代比较教育史学家卡洛扬纳基与卡扎米亚斯高度概括了斯托在大西洋跨国教育流动中的范式意义。
+> >
+> > - **[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]]** 阐明斯托与曼、巴纳德共同代表了 19 世纪美洲的“政策导向行政改良主义母题”；他们克服了单纯的党派纷争，将外国卓越实践敏锐地转译为国内民主改革的政治合法化资源，奠定了北美比较教育经验实证探究服务于国家民主建构的优良传统。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 32–34)]]
+
+> [!citation-card]- 关键史学定性：奈特论斯托报告的跨州政策影响
+> 奈特考证指出：斯托受俄亥俄州委托收集对本州有益的欧洲公共教育事实与信息；其报告在全美引发空前轰动，推动多州议会拨款重印，成为 19 世纪中叶美国公学运动最为权威的跨国政策借用文献之一。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 31–32)]]；引自 Knight (1930:248)
+>
+> *Stowe was commissioned by the state of Ohio to collect, while in Europe, 'such facts and information as he may deem useful to the State [Ohio] in relation to the various systems of public instruction and education'.*
+
+---
+
 ## 关系网络
 
 斯托的跨国考察与政策主张紧密镶嵌在 19 世纪大西洋两岸的思想交流网络之中：
@@ -159,7 +180,7 @@ updated: 2026-09-06
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Report on Elementary Public Instruction in Europe]] | 政策事实 | 斯托向俄亥俄州呈递的里程碑式报告，跨大西洋公学借用与师范立法的直接载体。 |
-| [[Common School Movement]] | 概念 | 斯托 1837 年报告为中西部各州确立由税收支持的公立学校提供了权威论据。 |
+> | [[Common School Movement]] | 概念 | 斯托 1837 年报告为中西部各州确立由税收支持的公立学校提供了权威论据。 |
 > | [[Auslandspadagogik]] | 概念 | 斯托以官方使节身份汇纂欧洲教育法令与事实，代表了美国早期外国教育学的典型形态。 |
 > | [[Educational Meliorism]] | 概念 | 斯托基于改善母州现实教育缺陷的先验关怀开展域外调查，践行了教育改良主义母题。 |
-> | [[Policy Borrowing]] | 概念 | 将普鲁士公学与师范建制转译为美国各州政策文本，开创了借用域外实绩论证本土改革正当性的模式。 |\n
+> | [[Policy Borrowing]] | 概念 | 将普鲁士公学与师范建制转译为美国各州政策文本，开创了借用域外实绩论证本土改革正当性的模式。 |
