@@ -112,17 +112,17 @@ updated: 2026-09-06
 
 ## 历史评价
 
-> [!citation-card]- 霍尔斯论 1833 年基佐法案奠定法国现代国民教育体制
+> [!citation-card] 霍尔斯论 1833 年基佐法案奠定法国现代国民教育体制
 > 基佐法案彻底结束了法国初等教育无序与教区垄断的旧时代，将国家最高主权视导与市镇义务结合，标志着现代法国国民教育体系的正式确立。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 28)]]；引自 Halls (1965:20)
 >
 > *The Guizot Law of 1833 laid the real foundations of French primary education, effectively creating a national state system through the synthesis of central supervision and local municipal responsibility.*
 
-> [!citation-card]- 布鲁尔论基佐法案以教育人民为国家最大善举
+> [!citation-card] 布鲁尔论基佐法案以教育人民为国家最大善举
 > “教育人民是国家所能施予的最大善举，是维系公共秩序与立宪自由的基石。”[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 27)]]；引自 Brewer (1971:17)
 >
 > *...the greatest good to be derived from educating the people.*
 
-> [!citation-card]- 卡洛扬纳基与卡扎米亚斯论基佐树立跨国机制转置之标杆
+> [!citation-card] 卡洛扬纳基与卡扎米亚斯论基佐树立跨国机制转置之标杆
 > 基佐代表了主权行政决策者运用域外比较研究推动国家立法的最高水准；他与库森通力协作，将普鲁士草案技术条款转化为法国基佐法案，树立了欧陆“规范性直接借用与机制转置”的标杆。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 34)]]
 >
 > *Guizot and Cousin exemplified the normative borrowing and transposition of institutional machinery from one country to another, translating Prussian draft provisions into the landmark French Guizot Law of 1833.*

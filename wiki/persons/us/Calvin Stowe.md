@@ -125,17 +125,17 @@ updated: 2026-09-06
 
 ## 历史评价
 
-> [!citation-card]- 奈特论斯托报告的跨州政策动员
+> [!citation-card] 奈特论斯托报告的跨州政策动员
 > 斯托受俄亥俄州委托收集对本州有益的欧洲公共教育事实与信息；其报告在全美引发空前轰动，推动多州议会拨款重印，成为 19 世纪中叶美国公学运动极具政策说服力的话语武器。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 31–32)]]；引自 Knight (1930:248)
 >
 > *Stowe was commissioned by the state of Ohio to collect, while in Europe, 'such facts and information as he may deem useful to the State [Ohio] in relation to the various systems of public instruction and education'.*
 
-> [!citation-card]- 斯托论普鲁士教育唤醒爱国民族精神
+> [!citation-card] 斯托论普鲁士教育唤醒爱国民族精神
 > “在所有关乎教育的法令中，普鲁士反复且坚定地强调：唤醒民族精神，在青少年的心灵中建立对其祖国及其制度的热切依恋。”[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 31)]]；引自 Knight (1930:255)
 >
 > *...repeatedly and strenuously insisted in all the laws pertaining to education, to awaken a national spirit—to create in the youthful mind a warm attachment to his native land, and its institutions.*
 
-> [!citation-card]- 卡洛扬纳基与卡扎米亚斯论斯托报告作为边疆立法的合法化理据
+> [!citation-card] 卡洛扬纳基与卡扎米亚斯论斯托报告作为边疆立法的合法化理据
 > 斯托等美洲先驱的核心机制在于将欧陆公学事实转译为美国边疆地区反击私学垄断、推进公立教育立法的政治合法化理据。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 34)]]
 >
 > *...the American policy-makers and administrators were motivated 'by a desire to gain useful lessons from abroad' ... to use as legitimating rationales for the reform of national public education in the United States.*
