@@ -181,24 +181,6 @@ updated: 2026-09-06
 
 ## 历史评价
 
-> [!debates] 史学评价与后世定位
->
-> > [!axis] 共和政体基石与双重考察自觉：思想史传记定位
-> > 著名历史学家劳伦斯·克雷明（Lawrence A. Cremin）与罗伯特·唐斯（Robert B. Downs）对曼的思想境界做出了权威定性。
-> >
-> > - **克雷明（Lawrence A. Cremin, 1957）** 经典定性：“曼深刻洞悉了自由、大众教育与共和政体之间的内在统一……一个国家不可能既无知又自由。任何政治架构无论设计多么精巧，都无法从根本上保障公民的权利与自由，因为唯有当知识广泛分布于民众之中时自由方可稳固。因此，普遍的大众教育是共和政府赖以稳固立足的唯一基石。”[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 32)]]；引自 Cremin (1957:7)
-> > - **唐斯（Robert B. Downs, 1974）** 揭示曼赴欧考察的心态：既有迫切吸收优良经验的渴望，更有审慎防范专制弊端的警惕，首要之务是寻找“警示险标与指引明灯”。（引自 Downs, 1974:88）
->
-> > [!axis] 美洲公学先驱的借用实质：合法化理据而非制度移植
-> > 现代比较教育史学家卡洛扬纳基与卡扎米亚斯对曼的经验考察形态给予了明确的类型学界定。
-> >
-> > - **章作者卡洛扬纳基与卡扎米亚斯评价** 指出曼并非严格意义上的现代因果比较学者，而是卓越的行政改良主义者；其考察欧陆的实质并非直接进行政策借用或体制移植，而是将外部卓越实践转化为国内政治博弈中击溃保守势力、推进公学立法的“政治合法化理据”。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 34)]]
->
-> > [!axis] 外国教育学（Auslandspädagogik）的学术定位
-> > 比较教育史学家界定了曼文献的学科史归属。
-> >
-> > - **弗雷泽与布里克曼（Fraser & Brickman, 1968）** 指出曼的话语与朱利安不同，并非严格意义上的现代比较科学探究，而属于 19 世纪大西洋世界蓬勃兴起的“外国教育学（Auslandspädagogik）”，其关切深嵌于特定国家公学建构的实践需求之中。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 33)]]；引自 Fraser & Brickman (1968:19)
-
 > [!citation-card]- 关键史学定性一：克雷明论曼的自由与国民教育思想
 > 曼深刻洞悉了自由、大众教育与共和政体之间的内在统一：一个国家不可能既无知又自由；普遍的大众教育是共和政府赖以稳固立足的唯一基石。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 32)]]；引自 Cremin (1957:7)
 >

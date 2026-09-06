@@ -111,23 +111,6 @@ updated: 2026-09-06
 
 ## 历史评价
 
-> [!debates] 史学评价与后世定位
->
-> > [!axis] 普鲁士国家现代化重组的法制总建筑师
-> > 德国教育史学界与比较教育学者高度评价聚芬在 1819 年草案中展现出的宏大立法抱负与法制技术成熟度。
-> >
-> > - **斯普兰格（Eduard Spranger）与布鲁尔（Walter Brewer, 1971）** 评价指出：聚芬草案是德意志新人文主义理想与现代理性官僚国家行政法治的巅峰结合；它将洪堡的人格教化哲学全面翻译为可操作的国家教育行政规程，虽因保守反动政治势力的阻挠未能获得国王最终签署，却以各省教育部行政敕令的形式事实上统治了普鲁士 19 世纪的教育实践。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 26–27)]]；引自 Brewer (1971:44)
->
-> > [!axis] 维克多·库森对聚芬草案完备性与智慧的崇高礼赞
-> > 法国哲学家库森在 1831 年赴德考察时对聚芬草案给予了至高评价。
-> >
-> > - **库森（Victor Cousin, 1930）** 盛赞聚芬草案：“该法律未遗漏任何关乎公众利益的主题，是我所知关于初等教育最为完备详尽的法典。人们不可能不被其深沉的智慧所折服……普鲁士 1819 年法案在我看来堪称卓越。”[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 28–29)]]；引自 Cousin (1930:205–206)
->
-> > [!axis] 现代西方国民教育制度的原型母版
-> > 现代比较教育史学家阐明了聚芬草案在大西洋世界的辐射意义。
-> >
-> > - **章作者[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]]** 论述指出：聚芬草案构成了整个大西洋世界国民公共教育体系的“隐形总母版”；通过库森报告在英美法三国的跨国传播，聚芬草案所设计的国家最高监督权、市镇设校义务、公立师范学校垄断以及专业督学规程，成为了 19 世纪西方各主权国家构建现代化世俗国民教育体系时共同援引的技术标杆。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 34)]]
-
 > [!citation-card]- 关键史学定性一：布鲁尔论聚芬草案的时代奠基性
 > 布鲁尔指出：聚芬 1819 年草案是普鲁士教育从零散教区私塾彻底转向国家现代综合教育体制的历史分水岭，其技术条款构成了库森考察报告的核心精髓，并为欧美大西洋各国的公共教育立法提供了不可磨灭的原型。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 26–27)]]；引自 Brewer (1971:44)
 >

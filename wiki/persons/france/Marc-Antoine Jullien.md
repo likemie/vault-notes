@@ -170,26 +170,7 @@ updated: 2026-09-06
 
 ## 历史评价
 
-> [!debates] 史学评价与后世定位
->
-> > [!axis] 文明使徒与和平使徒：思想史传记定位
-> > 著名历史学家帕尔默（R. R. Palmer）与现代比较教育史学家对朱利安超越时代的思想境界做出了里程碑式的定性。
-> >
-> > - **帕尔默（R. R. Palmer, 1993）** 深度考察朱利安从雅各宾青年到宪政自由派的心灵史，将其尊称为“文明使徒（apostle of civilisation）”，阐明其思想核心在于将理性教育确立为终结暴力革命与专制循环的心灵防线。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 19–20)]]；引自 Palmer (1993)
-> > - **章作者卡洛扬纳基与卡扎米亚斯评价** 进一步论断：朱利安不仅是文明使徒，更完全当得起“和平使徒（apostle of peace）”的崇高赞誉；他将比较解剖学类比升华为以跨国教育协作荡涤旧时代野蛮战争残余的“比较文明学”，在学科发轫期将实证事实归纳与人类永久和平愿景熔铸为一体。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 23)]]
->
-> > [!axis] 奠基文献文物 vs 生前效力局限：弗雷泽与章作者的盖棺论定
-> > 比较教育史学界对朱利安的学术史地位形成了客观而辩证的成熟共识。
-> >
-> > - **弗雷泽（Stewart Fraser, 1964）** 在权威整理评注本中做出历史判定：朱利安在技术与事实上并未发展出一套彻底的比较方法论，生前也未能见到国际教育机构建立；但他最早将这些构想凝练为具备巨大潜在体量的宏大初稿，其《计划》是比较科学最重要的文献文物之一。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 24)]]；引自 Fraser (1964:117)
-> > - **章作者与二十世纪先驱共识** 认同弗雷泽、希尔克（Hilker）、康德尔（Kandel）与汉斯（Hans）的史学断言：没有证据表明朱利安的构想在生前被采纳或对学科发展产生实质影响，其“比较教育之父”的学术地位是 20 世纪手稿被发掘后的回顾性追认。（p. 24）
->
-> > [!axis] 跨国政策借用动机的原型
-> > 战后实证派学者剖析了朱利安思想中的改良主义动力机制。
-> >
-> > - **诺亚与埃克斯坦（Noah & Eckstein, 1969）** 指出朱利安的《计划》是比较教育学在其发端期“受从国外吸取有用教训之渴望所驱动”的典型代表。（引自 Noah & Eckstein, 1969:15, 21）
-
-> [!citation-card]- 关键史学定性一：文明与和平的双重使徒
+> [!citation-card]- 关键史学定性一：帕尔默与章作者论“文明使徒”与“和平使徒”的双重定性
 > 朱利安不仅配得上帕尔默对其“文明使徒”的定性，同样完全当得起“和平使徒”的称号。面对宗教道德纽带解体与动荡战争创伤，朱利安致力于通过国内与国际教育的革新，实现全人类文明进步与和平共处。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 23)]]；引自 Palmer (1993)
 >
 > *Jullien, the internationalist and the cosmopolitis (world citizen), does not only merit Palmer’s characterisation of 'apostle of civilisation', he could also, quite justifiably, be called 'apostle of peace'.*
@@ -203,11 +184,6 @@ updated: 2026-09-06
 > 章作者作为比较教育史学家明确指出：没有任何证据表明朱利安在《计划》中所提出的比较方法论或关于比较与国际教育的构想，在生前曾被采纳或对学科后续发展产生过任何重大影响；作者赞同希尔克、康德尔与汉斯等 20 世纪比较先驱的史学判断——朱利安生前未能实质性影响比较教育的发展，其奠基地位是在 20 世纪手稿被重构后的追认。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 24)]]
 >
 > *We have no evidence that Jullien’s comparative methodology or his ideas and proposals about comparative and international education as presented in his Plan and preliminary views for a work in comparative education were adopted or had any significant influence in the subsequent development of the two related epistemic domains. As historians of comparative education, we concur with what Stewart Fraser in his authoritative edition and evaluation of Jullien’s Plan wrote back in 1964. Agreeing with the historical judgement of Franz Hilker, Isaac Kandel and Nicholas Hans... that Jullien 'was unable to influence the development of comparative education to any great extent'...*
-
-> [!citation-card]- 关键史学定性四：诺亚与埃克斯坦论朱利安作为跨国政策借用动机的原型
-> 诺亚与埃克斯坦指出：朱利安的《计划》是比较教育学在其发端期“受从国外吸取有用教训之渴望所驱动”的典型代表。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 23)]]；引自 Noah & Eckstein (1969:15, 21)
->
-> *Jullien’s Plan is a prime example of work in comparative education motivated by a desire to gain useful lessons from abroad.*
 
 ---
 
@@ -236,6 +212,10 @@ updated: 2026-09-06
 > >
 > > - **Harold Noah & Max Eckstein (1969)** 认为朱利安对教育正当目标的预先[[Hypothesis|假设]]严重影响了其提问方式，在宗教和道德题项中进行价值诱导，带有浓厚的理念宣传动机而非纯粹客观归纳。（pp. 16–17）
 > > - **Pella Kaloyannaki & Andreas Kazamias (2009) / R. R. Palmer (1993)** 指出实证派批判陷入了辉格史的时代倒错；朱利安将科学界定为人类心灵的一切理性活动，并将其置于关涉心灵与道德的二级精神科学位置，经验事实分类本就全面服从于服务全人道德[[Bildung|教化]]与预防流血暴乱的[[Enlightenment|启蒙伦理规范]]。（pp. 17–18）
+> [!citation-card]- 关键批评：诺亚与埃克斯坦论朱利安调查的先验道德偏见与政策借用动机
+> 诺亚与埃克斯坦严厉批评朱利安的调查问卷深受先验道德预设主导，指出其本质上是比较教育发轫期“受从国外吸取有用教训之渴望所驱动”的选优借用，而非客观中立的实证社会科学调查。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 23)]]；引自 Noah & Eckstein (1969:15, 21)
+>
+> *Jullien’s Plan is a prime example of work in comparative education motivated by a desire to gain useful lessons from abroad.*
 
 > [!critique]- 批评索引
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] — 详细记录了 20 世纪行为实证学派对朱利安问卷先验偏见、价值诱导设问与官能心理学教条垄断的学术批判。

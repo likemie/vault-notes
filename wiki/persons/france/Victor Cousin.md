@@ -188,23 +188,6 @@ updated: 2026-09-06
 
 ## 历史评价
 
-> [!debates] 史学评价与后世定位
->
-> > [!axis] 七月王朝意识形态与大资产阶级统治辩护术
-> > 思想史家沃尔特·布鲁尔（Walter Brewer）与政治史学者对其哲学与教育蓝图做出了深刻的阶级与政治解构。
-> >
-> > - **布鲁尔（Walter Brewer, 1971）** 明确指出：库森的折衷哲学绝非单纯的学理思辨，其实质是七月王朝“大资产阶级统治的辩护术（an apologia for the rule of the 'upper bourgeoisie'）”；他将国家定位为超越教会与私人的最高主权实体，以教育法治化作为资产阶级秩序防范下层暴动与抵御君主复辟的双重安全阀。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 28)]]；引自 Brewer (1971:30)
->
-> > [!axis] 国民教育可行性的历史确证：如同常备陆海军的立国基石
-> > 英国舆论与史学家高度赞扬库森普鲁士报告以不可辩驳的实践证据，将公共教育从哲学家的玄思升华为现代国家的生存刚需。
-> >
-> > - **《外国季刊评论》（Knight, 1930）** 盛赞库森报告是“无可争辩的明证，以实实在在的完全实践成功有力证明：国民教育制度绝非不着边际的空想，不是做梦的哲学家凭空捏造的幻影；而是一种确保所有儿童接受初等教育的制度模式，国家建立和维持这一体系的必要性，丝毫不亚于维持一支陆军或海军。”[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 27)]]；引自 Knight (1930:116)
->
-> > [!axis] 规范性直接借用与机制转置的欧陆典范
-> > 现代比较教育史学家卡洛扬纳基与卡扎米亚斯高度概括了库森在比较教育学科范式中的奠基意义。
-> >
-> > - **章作者[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]]** 指出：库森展现了清晰而典型的“政策导向行政改良主义母题”中的政策借用维度；他将教育权确立为国家公共资源的法哲学，为直接将普鲁士 1819 年草案转置为法国 1833 年基佐法案搭建了坚固的推论桥梁，树立了欧陆比较研究服务于国家实定法建制的最高典范。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 34)]]
-
 > [!citation-card]- 关键史学定性一：国民教育如同陆海军般神圣的现实明证
 > 英国《外国季刊评论》高度赞誉库森报告：以无可争辩的完全实践成功证明，国民教育绝非空想哲学家的脑中幻影，而是国家建立与维持的根本支柱，其重要性不亚于任何一支陆军或海军。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 27)]]；引自 Knight (1930:116)
 >
