@@ -44,7 +44,11 @@ related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Policy Borrowing]]"
   - "[[Going Native]]"
+  - "[[Proto-Scientific Motif]]"
   - "[[Educational Meliorism]]"
+  - "[[National Character in Comparative Education]]"
+  - "[[Construct]]"
+  - "[[Hypothesis]]"
   - "[[Dialogue in Education]]"
   - "[[Scientism]]"
   - "[[Analytic Framework]]"
@@ -57,16 +61,22 @@ related_theories:
   - "[[Critical Theory]]"
 related_methods:
   - "[[Discourse Analysis]]"
+  - "[[Historical-Comparative Method]]"
 related_instruments: []
 related_persons:
   - "[[Marc-Antoine Jullien]]"
   - "[[Victor Cousin]]"
   - "[[Horace Mann]]"
+  - "[[Michael Sadler]]"
+  - "[[Isaac Kandel]]"
+  - "[[Nicholas Hans]]"
+  - "[[Robert Ulich]]"
 related_facts:
   - "[[OECD]]"
 related_arguments:
   - "[[Argument_Cowen_2009_HistoryCreation]]"
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
+  - "[[Argument_Kazamias_2009_ForgottenThemes]]"
 sources:
   - "[[books/Cowen(Ed.)_2009_Springer/Cowen(Ed.)_2009_Springer|Cowen(Ed.)_2009_Springer]]"
 part_of: ""
@@ -134,7 +144,7 @@ updated: 2026-09-06
 
 > [!cross-chapter] 跨章主题线索
 > - **学科史编纂与传统发明解构**
->   - **相关章节** Ch. 02 [[Argument_Cowen_2009_HistoryCreation]]；Ch. 03 [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]；Ch. 04（Kazamias）；Ch. 10（Kazamias）；Ch. 79（Cowen）。
+>   - **相关章节** Ch. 02 [[Argument_Cowen_2009_HistoryCreation]]；Ch. 03 [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]；Ch. 04 [[Argument_Kazamias_2009_ForgottenThemes]]；Ch. 10（Kazamias）；Ch. 79（Cowen）。
 >   - **阅读价值** 系统展现比较教育学如何从早期的功能主义合法化叙事，走向对被遗忘的人物、传统与肖像学的全面批判与重构。
 > - **教育转移与跨国制度流动**
 >   - **相关章节** Ch. 03 [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]；Ch. 22（Beech）；Ch. 67（Phillips）；Ch. 71（Steiner-Khamsi）。
@@ -147,10 +157,11 @@ updated: 2026-09-06
 > [!chapter-roadmap] 章节处理路线
 > - **已处理章节**
 >   - Ch. 02 [[Argument_Cowen_2009_HistoryCreation]]。Cowen 在该章系统诊断学科史编纂的三重困境，提倡建立 [[Comparative History of Comparative Education|比较教育学的比较史]]。
->   - Ch. 03 [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]。Kaloyannaki 与 Kazamias 深入解构比较教育学的现代主义发端，辨析[[Marc-Antoine Jullien|朱利安]]的准科学人道主义母题与[[Victor Cousin|库森]]、[[Horace Mann|霍勒斯·曼]]等人的行政[[Educational Meliorism|改良主义]]母题，揭示借用作为政治合法化依据的机制。
-> - **优先处理章节** Ch. 01（联合导论）、Ch. 04（被遗忘的人物与主题）、Ch. 10（历史反思）、Ch. 21（导论）、Ch. 61（新思维导论）、Ch. 79 与 Ch. 80（全书收束与结论）。
+>   - Ch. 03 [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]。Kaloyannaki 与 Kazamias 深入解构比较教育学的现代主义发端，辨析[[Marc-Antoine Jullien|朱利安]]的准[[Proto-Scientific Motif|科学人道主义母题]]与[[Victor Cousin|库森]]、[[Horace Mann|霍勒斯·曼]]等人的政策导向行政[[Educational Meliorism|改良主义]]母题，揭示借用作为政治合法化依据的机制。
+>   - Ch. 04 [[Argument_Kazamias_2009_ForgottenThemes]]。Kazamias 系统挖掘[[Michael Sadler|萨德勒]]、[[Isaac Kandel|坎德尔]]、[[Nicholas Hans|汉斯]]与[[Robert Ulich|乌利希]]等学者开创的历史-哲学-文化与自由人文主义母题，阐明其广义人文科学定位、[[National Character in Comparative Education|国民性格]]分析[[Construct|构念]]与历史改良主义底色，并借由布林顿的有限工作[[Hypothesis|假设]]归纳法为[[Historical-Comparative Method|历史比较法]]确立现代合法性。
+> - **优先处理章节** Ch. 01（联合导论）、Ch. 10（历史反思）、Ch. 21（导论）、Ch. 61（新思维导论）、Ch. 79 与 Ch. 80（全书收束与结论）。
 > - **可暂缓章节** 专门聚焦特定国家微观细部、与全书主干理论[[Dialogue in Education|对话]]相对松散的案例章节。
-> - **缺口提醒** 目前已完成 Ch. 02 与 Ch. 03，奠定了学科历史学与[[Epistemology|认识论]]发端的基石，亟需推进各板块导引章与重点理论章以充实全书结构认知。
+> - **缺口提醒** 目前已完成 Ch. 02、Ch. 03 与 Ch. 04，系统夯实了学科发端期准科学、行政借用与历史人文三大母题的谱系演进，第一板块历史奠基框架已初步成型，亟需推进各板块导引章与重点理论章以充实全书结构认知。
 
 ---
 
@@ -159,8 +170,8 @@ updated: 2026-09-06
 > [!chapter-index] 章节索引
 > - **Ch. 01 — Joint Editorial Introduction** Argument_Cowen_Kazamias_2009_Introduction — 概述世纪之交比较教育学的复兴态势、出版繁荣与制度化成就，抛出全书对学科未来的根本追问。
 > - **Ch. 02 — On History and on The Creation of Comparative Education** [[Argument_Cowen_2009_HistoryCreation]] — 揭示早期学科史的职业合法化功能，剖析档案隐蔽、制度匮乏与材料密度低三重困境，倡导走向 [[Comparative History of Comparative Education|比较教育学的比较史]]。
-> - **Ch. 03 — The Modernist Beginnings of Comparative Education** [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]] — 剖析[[Marc-Antoine Jullien|朱利安]]的准科学人道主义母题与[[Victor Cousin|库森]]、[[Horace Mann|霍勒斯·曼]]等人的政策导向行政[[Educational Meliorism|改良主义]]母题，阐明制度移植与政治合法化依据的双重借用机制。
-> - **Ch. 04 — Forgotten Men, Forgotten Themes** Argument_Kazamias_2009_ForgottenThemes — 重新发掘比较教育学史上被遗忘的人物与历史哲学、自由人文主义母题。
+> - **Ch. 03 — The Modernist Beginnings of Comparative Education** [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]] — 剖析[[Marc-Antoine Jullien|朱利安]]的准[[Proto-Scientific Motif|科学人道主义母题]]与[[Victor Cousin|库森]]、[[Horace Mann|霍勒斯·曼]]等人的政策导向行政[[Educational Meliorism|改良主义]]母题，阐明制度移植与政治合法化依据的双重借用机制。
+> - **Ch. 04 — Forgotten Men, Forgotten Themes** [[Argument_Kazamias_2009_ForgottenThemes]] — 重新发掘比较教育学史上被遗忘的大师（[[Michael Sadler|萨德勒]]、[[Isaac Kandel|坎德尔]]、[[Nicholas Hans|汉斯]]、[[Robert Ulich|乌利希]]）与历史哲学、自由人文主义母题，确立[[Historical-Comparative Method|历史比较法]]归纳工作[[Hypothesis|假设]]的正当性。
 > - **Ch. 05 — The Scientific [[Paradigm]] in Comparative Education** Argument_Mattheou_2009_ScientificParadigm — 评析比较教育学中的实证与[[Scientism|科学主义]]范式演进。
 > - **Ch. 06 — Theories of The State, Educational Expansion, Development, and Globalizations** Argument_Olmos_Torres_2009_StateTheories — 探讨马克思主义与[[Critical Theory|批判理论]]视阈下的国家理论与全球化教育扩张。
 > - **Ch. 07 — Comparative Education in Europe** Argument_Mitter_2009_Europe — 系统梳理欧洲大陆比较教育学的发展历程与多元传统。

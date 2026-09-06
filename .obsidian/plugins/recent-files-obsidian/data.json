@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "template-argument",
+      "path": "wiki/templates/template-argument.md"
+    },
+    {
+      "basename": "Argument_Kazamias_2009_ForgottenThemes",
+      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kazamias_2009_ForgottenThemes.md"
+    },
+    {
       "basename": "Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings",
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings.md"
     },
@@ -117,10 +125,6 @@
       "path": "vault-schema.md"
     },
     {
-      "basename": "template-argument",
-      "path": "wiki/templates/template-argument.md"
-    },
-    {
       "basename": "template-argument-edited-volume",
       "path": "wiki/templates/template-argument-edited-volume.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Comparative and International Education Society",
       "path": "wiki/facts/us/Comparative and International Education Society.md"
-    },
-    {
-      "basename": "AI Hallucination",
-      "path": "wiki/concepts/educational-technology/AI Hallucination.md"
     }
   ],
   "omittedPaths": [],
