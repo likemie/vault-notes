@@ -649,6 +649,19 @@
     ]
   },
   {
+    "title": "Historical-Philosophical-Cultural Motif",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Historical-Philosophical-Cultural Motif.md",
+    "aliases": [
+      "历史-哲学-文化母题",
+      "历史哲学文化与自由人文主义母题",
+      "历史人文主义母题",
+      "历史哲学母题",
+      "Historical-Humanist Motif",
+      "Historical-Philosophical-Cultural and Liberal Humanist Motif"
+    ]
+  },
+  {
     "title": "International Mind",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/International Mind.md",
@@ -681,6 +694,18 @@
     "path": "wiki/concepts/comparative-education/Meta-Cultural Sensitivity.md",
     "aliases": [
       "元文化敏感度"
+    ]
+  },
+  {
+    "title": "National Character in Comparative Education",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/National Character in Comparative Education.md",
+    "aliases": [
+      "比较教育中的国民性",
+      "国民性",
+      "民族性格",
+      "国民性格",
+      "National Character"
     ]
   },
   {
@@ -12469,6 +12494,18 @@
     ]
   },
   {
+    "title": "Historical-Comparative Method",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Historical-Comparative Method.md",
+    "aliases": [
+      "历史比较法",
+      "历史-比较法",
+      "比较历史法",
+      "Historical Comparative Method",
+      "Comparative Historical Method in Education"
+    ]
+  },
+  {
     "title": "Ideology Critique",
     "type": "method",
     "path": "wiki/methods/qualitative/Ideology Critique.md",
@@ -16297,6 +16334,17 @@
     ]
   },
   {
+    "title": "Nicholas Hans",
+    "type": "person",
+    "path": "wiki/persons/uk/Nicholas Hans.md",
+    "aliases": [
+      "Hans, N.",
+      "Nicholas A. Hans",
+      "尼古拉斯·汉斯",
+      "汉斯"
+    ]
+  },
+  {
     "title": "Nick Cowen",
     "type": "person",
     "path": "wiki/persons/uk/Nick Cowen.md",
@@ -16874,6 +16922,16 @@
       "Slavin, R.",
       "罗伯特·斯莱文",
       "罗伯特·斯拉文"
+    ]
+  },
+  {
+    "title": "Robert Ulich",
+    "type": "person",
+    "path": "wiki/persons/us/Robert Ulich.md",
+    "aliases": [
+      "Ulich, R.",
+      "罗伯特·乌利希",
+      "乌利希"
     ]
   },
   {
@@ -20935,6 +20993,11 @@
     "title": "Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings",
     "type": "argument",
     "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings.md"
+  },
+  {
+    "title": "Argument_Kazamias_2009_ForgottenThemes",
+    "type": "argument",
+    "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kazamias_2009_ForgottenThemes.md"
   },
   {
     "title": "Argument_Creswell_2022_SAGE",
