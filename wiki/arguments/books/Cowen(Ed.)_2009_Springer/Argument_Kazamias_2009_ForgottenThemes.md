@@ -7,7 +7,7 @@ title: "Argument_Kazamias_2009_ForgottenThemes"
 argument_key: "Argument_Kazamias_2009_ForgottenThemes"
 argument_display_title: "Forgotten Men, Forgotten Themes: The Historical-philosophical-cultural and Liberal Humanist Motif in Comparative Education"
 argument_kind: "book-chapter"
-argument_related_count: 40
+argument_related_count: 44
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -52,13 +52,18 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Research Purpose]]"
   - "[[Variable]]"
+  - "[[Creativity]]"
+  - "[[Ontology]]"
   - "[[Conatus]]"
   - "[[Analytic Framework]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Operationalization]]"
+  - "[[Independent Variable]]"
   - "[[Doxa]]"
   - "[[Research Scope]]"
 related_methods:
   - "[[Historical-Comparative Method]]"
+  - "[[Coding in Qualitative Research]]"
 related_persons:
   - "[[Michael Sadler]]"
   - "[[Isaac Kandel]]"
@@ -72,6 +77,8 @@ related_persons:
   - "[[Calvin Stowe]]"
   - "[[Henry Barnard]]"
   - "[[Victor Cousin]]"
+  - "[[Immanuel Kant]]"
+  - "[[Georg Wilhelm Friedrich Hegel]]"
   - "[[George Bereday]]"
   - "[[Plato]]"
   - "[[Aristotle]]"
@@ -225,14 +232,27 @@ updated: 2026-09-07
 
 #### 1. 萨德勒融通牛津唯心主义与新自由主义，确立校外无形精神力量对校内体系的支配地位
 
-萨德勒在拉格比公学与牛津大学三一学院受训，身处维多利亚晚期英国工业霸权遭遇德美挑战的历史转折点。他彻底摆脱了边沁与密尔的功利主义，转而吸纳牛津唯心主义的积极自由观。（pp.42–43）
+在 19 世纪末与 20 世纪初的维多利亚晚期，曾被誉为“世界工场”的英国面临严峻的社会历史转折：德国与美国在工业、商业与技术上的迅猛崛起对大英帝国的垄断地位构成了实质性挑战；与此同时，以杰里米·边沁（Jeremy Bentham）与约翰·斯图尔特·密尔（John Stuart Mill）为代表的“功利主义幸福哲学”及自由放任（Laissez-faire）自由主义日渐式微，无法继续为国家社会与教育改革提供合法律性依据。萨德勒早期在拉格比公学（Rugby School）与牛津大学三一学院（Trinity College, Oxford）受训，深沐古典人文学术传统，这一学脉使他始终坚信中等教育的首要天职是“通过真实鲜活的人文学科教学使人具有人性（Humanise），其次才是赋予面对实际生活的效能”（Kazamias, 1966: 140–141; 2009: 43）。
 
-> [!feature] 萨德勒的思想根基与实践网络
-> - **牛津唯心主义思想浸润** 萨德勒深受托马斯·希尔·格林、F. H. 布拉德利（F. H. Bradley）与伯纳德·鲍桑葵（Bernard Bosanquet）等哲学家影响，将自由界定为积极向善的积极自由，主张国家应当承担积极的社会与文化干预功能。
-> - **新自由主义政治哲学** 在社会哲学上偏离维多利亚放任主义，坚定探索个人主义与社会主义之间的争鸣地带（Debatable territory between Individualism and Socialism）。（p.43）
-> - **跨界智囊制度实践** 1884 年投身大学推广运动（University Extension）推动劳工阶级成人教育；1894–1895 年主笔具有里程碑意义的布莱斯委员会报告（Bryce Commission）；1895–1903 年执掌特别调查与报告署（OSIR）；1911–1923 年出任利兹大学校长；1907 年规划大英帝国教育局蓝图。（pp.44–45）
+> [!dimension] 萨德勒教育哲学思想体系的四重根基
+> - **古典人文教化的目的论导向**
+>   拉格比与牛津学脉确立了其人文自由主义的教育意识形态：坚决拒绝将学校等同于职业技能培训所或功利效率流水线，断言以人文学科为灵魂的中等教育其本质在于心智开蒙与道德陶冶，旨在培养全面发展的健全人；功利效能只是生存手段，全人人性化方为终极归宿。（Kazamias, 1966: 140–141; 2009: 43）
+> - **牛津唯心主义与积极自由伦理观**
+>   深受牛津大学最具号召力的哲学家托马斯·希尔·格林（T. H. Green / Thomas Hill Green）及 F. H. 布拉德利（F. H. Bradley）、伯纳德·鲍桑葵（Bernard Bosanquet）与 J. M. E. 麦克塔格特（J. M. E. McTaggart）等新[[Immanuel Kant|康德]]主义与新[[Georg Wilhelm Friedrich Hegel|黑格尔]]主义学者影响。格林学派彻底批判功利主义将自由狭隘理解为消极被动的“免于外在限制的自由（Freedom from constraint）”，倡导追求自我实现与道德完善的“积极自由（Positive Freedom）”；据此，主权国家不再是守夜人式的消极看守，而是具有伦理向善潜能、在社会与文化领域承担积极干预职能的正当行动者（Positive actor in society）。（pp.43–44）
+> - **新自由主义在个人与国家间的中间道路**
+>   萨德勒在政治思想上全面偏离了维多利亚早期的放任个人主义，积极拥抱晚期兴起的新自由主义（New Liberalism）思潮。在教育与社会政策层面，追求积极自由逻辑上必然要求“国家介入（State interference）”以改善民生；但他同时高度警惕德国式的全面官僚集权控制，主张坚定探索“个人主义与社会主义之间的争鸣地带（That debatable territory between Individualism and Socialism）”，在守护个人[[Creativity|创造力]]与强化国家公共文化责任之间达成精妙平衡。（Sadler, 1898: 95; p.43）
+> - **多维文化生态与无形精神力量[[Ontology|本体论]]**
+>   在 1902 年《德国及其他地区中等教育动荡》中，萨德勒对“社会环境（Social Environment）”的内涵做出重大哲学开拓：环境绝非仅由住宅、饮食、服装等冰冷物质条件所构成，更包含了精神、道德、智识氛围以及“传统的力量（The power of tradition）”。国家教育系统蕴含着深邃的“内在生命（Inner life）”，决定其效能与相貌的正是这些潜沉在历史地层深处的“无形、不可捉摸的精神力量（Intangible, impalpable spiritual forces）”。（Sadler, 1900/1964: 309–310; 1902: x–xi; p.44）
 
-在 1898 年普鲁士中学报告与 1902 年德国中等教育动荡报告中，萨德勒详尽剖析德国工业崛起的根由，指出这源于德国教育的严密组织与赋予其[[Conatus|生机]]的内在精神力量。在 1900 年著名的吉尔福德演讲中，萨德勒提炼出名垂青史的学术准则：研究外国教育体系必须认识到校外的事情比校内的事情更为重要，并且支配着校内的一切。（pp.43–44）
+不同于仅以书斋思辨见长的学院派知识分子，萨德勒兼具思想家与“教育政治家（Educational Statesman）”的双重身份。传记学者希金森（J. H. Higginson）指出，萨德勒从不将比较教育仅仅视作纯学术智识游戏，而是将其定性为“国家制度改革的能动中介（An agency of reform）”。自 1880 年代起，他便深度嵌入英国晚期维多利亚与爱德华时代的政策决策智囊网络，将跨国考察直接锻造为推动本土制度重塑的顶层设计蓝图。（pp.44–45）
+
+> [!feature] 萨德勒的制度改革实践网络与智囊轨迹
+> - **劳工阶级成人教育拓展（University Extension, 1884）** 早在 1884 年便率先发起大学推广运动，推动高等学术资源走向平民大众与劳工阶层，积极打破精英学术垄断，以实践践行新自由主义民主平权诉求。（p.44）
+> - **皇家布莱斯委员会报告（Bryce Commission, 1894–1895）** 出任全英皇家中等教育委员会核心委员，并作为公认的主笔起草了里程碑式的布莱斯报告，为英国 1902 年《巴尔福教育法》（Balfour Act）及地方中等教育公共体系奠定了奠基性蓝图。
+> - **特别调查与报告署国家智库（OSIR, 1895–1903）** 受命创立并执掌英国教育部的“特别调查与报告署”，亲自将其定义为国家的“教育情报署（Educational intelligence office）”。萨德勒主持撰写 11 卷跨国教育宏篇巨著，确立了情报署的三大职能：从繁杂争鸣中提炼真实经验、向国民揭示本国在国际竞争中的效能位置、凝聚国家教育发展方向的共识。（Higginson, 1961: 289）
+> - **地方行政咨询与现代大学治理（LEAs & Leeds, 1903–1923）** 1902 年后作为高级独立顾问为全英各地方教育局撰写权威中等教育报告；1907 年规划《大英帝国教育局构想》；1911–1923 年出任利兹大学校长，将新自由主义文化关怀全面注入现代地方大学的组织建设。（Kazamias, 1966: 28–29; Jones, 1971: 49–50; p.45）
+
+在 1898 年普鲁士中学报告与 1902 年德国中等教育动荡报告中，萨德勒详尽剖析德国工业崛起的根由，指出这源于德国教育的严密组织与赋予其[[Conatus|生机]]的内在精神力量。在 1900 年著名的吉尔福德演讲中，萨德勒将深厚的唯心主义哲学与宏阔的一线调查经验彻底合流，提炼出名垂青史的学术准则：研究外国教育体系必须认识到校外的事情比校内的事情更为重要，并且支配着校内的一切。（pp.43–44）
 
 #### 2. 坎德尔首创以政治国家为核心解释变量但受困于二元政体划分与实然应然混淆
 
@@ -300,6 +320,28 @@ Kandel (1933) 在哥伦比亚大学执教期间，通过代表作 *Comparative E
 > - **坚定的社会民主党政治信念** 终身恪守民主社会主义理想，以学术抵御极权与压迫。（p.52）
 
 卡扎米亚斯回顾其在哈佛师从乌利希的岁月，强调乌利希将维尔纳·雅格尔（Werner Jaeger）的 *Paideia* 理念融入比较教育，为战后学者保留了宝贵的人文星火。（p.52）
+
+#### 5. 四大奠基者比较方法学推进脉络与范式分化全景对照
+
+从 20 世纪初至 1960 年代，萨德勒、坎德尔、汉斯与乌利希并非互不相干的历史个体，而是在跨大西洋思想网络中形成了一条层层递进、由宏观外在情境向深层人本教化演进的方法论轨迹：萨德勒确立校外力量的[[Ontology|本体论]]基础；坎德尔将其[[Operationalization|操作化]]为国家与政体解释变量；汉斯构建结构化三维因素过滤器以驾驭海量史料；乌利希则超越主权国家狭隘单元，将学科升华为以人为中心的文明思想史防线。（pp.42–52）
+
+> [!logic-map] 历史比较传统四大学者方法论演进轨迹
+> ```mermaid
+> flowchart LR
+>     A["1. 萨德勒（Sadler, 1900）<br>突破机械经验借用<br>提出校外无形精神力量<br>确立民族活体有机体情境论"] -->|"将无形精神力量具体化为政治制度"| B["2. 坎德尔（Kandel, 1933）<br>确立首要上下文解释变量<br>引入国家意志与政体理想型<br>奠定因果探究三阶段与观念形态比较"]
+>     B -->|"将繁复历史数据结构化编码"| C["3. 汉斯（Hans, 1949）<br>构建阶梯式因果分析体系<br>创立自然-宗教-世俗三维因素框架<br>横向剖析英美与苏联民主的制度缺陷"]
+>     C -->|"超越主权国家走向文明思想史"| D["4. 乌利希（Ulich, 1961）<br>升华以人为中心的人文科学底线<br>梳理西方文明演进思想史四阶段<br>确立抵御技术异化的全人教化传统"]
+> ```
+
+四位学者在问题意识、解释变量、分析层级与比较进路上的方法论分化与互补关系，可系统对照如下：
+
+> [!row-contrast] 比较教育历史学派四大学者方法论推进全景横向对照
+> | 学者与学脉渊源 | 核心研究对象与分析单位 | 核心分析工具与解释机制 | 对比较方法学的范式推进贡献 | 代表性文献与方法论代表命题 |
+> |---|---|---|---|---|
+> | **[[Michael Sadler\|迈克尔·萨德勒]]**<br>（Michael Sadler, 1861–1943）<br>牛津唯心主义与新自由主义 | 民族国家的学校体系与其深层社会文化母体 | **校外无形精神力量（Intangible Spiritual Forces）**；民族活体有机体（Living organism）；[[National Character in Comparative Education\|国民性格]] | **击碎机械借用主义与确立情境决定论** 终结了 19 世纪初中期行政视察报告收集数据与生硬移植办学经验的功利工具主义，确立了学校系统由社会历史无形力量决定的方法论公理。（pp.42–45） | Sadler (1900/1964), *How Far Can We Learn Anything of Practical Value...*<br>“校外的事情比校内的事情更为重要，并且支配着校内的一切。”（p.44） |
+> | **[[Isaac Kandel\|艾萨克·坎德尔]]**<br>（Isaac Kandel, 1881–1965）<br>曼彻斯特与哥伦比亚大学学脉 | 主权国家教育制度及其背后的政治哲学观念 | **政治国家作为核心[[Independent Variable\|自变量]]（The State as Primary Variable）**；政体二元理想型（民主制 vs 极权制）；**观念、理想与形态比较（Ideas, Ideals and Forms）** | **确立国家解释变量与规范因果探究程序** 在学科史上首次将国家作为首要上下文变量引入比较研究；规范了因果探究三阶段（探寻起因 ➔ 比较制度差异 ➔ 考察解决方案），推动比较研究从事实罗列转向政治哲学因果解释。（pp.45–48） | Kandel (1933), *Comparative Education*; Kandel (1955), *The New Era in Education*<br>“国家如何，学校便如何；比较的实质在于比较观念、理想与形态。”（pp.42, 47） |
+> | **[[Nicholas Hans\|尼古拉斯·汉斯]]**<br>（Nicholas Hans, 1888–1969）<br>敖德萨学脉与伦敦大学国王学院 | 欧洲主权国家与多民族大国的制度发展史 | **阶梯式三维因素分析框架**（自然因素、宗教因素、世俗因素）；民主综合分析；跨越人文与自然科学边缘的哲学反思 | **建立分类学过滤器与打破冷战意识形态神话** 首创因素分析法，为混乱海量历史数据建立清晰认知[[Coding in Qualitative Research\|编码]]秩序；横向剖析英美政治自由与苏联社会平等的制度实践，得出两者在教育公平上皆存在严重缺陷的客观论断。（pp.49–51） | Hans (1949), *Comparative Education: A Study of Educational Factors and Traditions*<br>“比较教育学坐落于人文科学与自然科学的交界边缘，因而类似于哲学。”（pp.39–40） |
+> | **[[Robert Ulich\|罗伯特·乌利希]]**<br>（Robert Ulich, 1890–1977）<br>魏玛德国高等行政学统与哈佛大学 | 跨越国界的西方文明与思想史长河演进 | **西方思想史四阶段叙事**（中世纪/文艺复兴/理性主义/工业科技）；古典全人[[Bildung\|教化]]（*Paideia*）；以人（*Anthropos*）为中心的质性关怀 | **开辟宏大思想史纵深与筑牢人文科学防线** 摆脱主权国家微观机制束缚，将比较教育嵌入西方文明两千年思想长河，为新兴国家现代转型提供宏观历史参照；抵御纯技术官僚工具主义，确立以人为终极关怀的人文学术品格。（pp.51–52） | Ulich (1961), *The Education of Nations: A Comparison in Historical Perspective*<br>“比较教育是一门以人为中心的人文知识体系，其根本关切应当始终锁定在人身上。”（pp.56–57） |
 
 ---
 
