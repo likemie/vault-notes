@@ -115,7 +115,7 @@ updated: 2026-09-07
 > 该命题揭示了战后学者对国民性概念缺乏经验效度与陷入解释循环的理论批判。
 
 > [!claim] [[Andreas Kazamias|Kazamias, A.]] M.
-> **国民性解释缺乏可靠历史证据** 安德烈亚斯·卡扎米亚斯（Andreas Kazamias）对坎德尔与[[Michael Sadler|萨德勒]]将国民性作为自[[Variable|变量]]的做法提出严厉批评。他指出，将英国教育制度缺乏统筹规划归咎于“英国人天生不愿思考或拟定行动方案”，不仅缺乏可靠的历史与社会学证据支持，更是极不严谨的心理学推断；历史学家必须在具体的制度博弈与[[Conflict of Interest in Research|利益冲突]]中寻找因果解释，而非诉诸虚无飘渺的国民性格。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 55)]]
+> **国民性解释缺乏可靠历史证据** [[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（Andreas Kazamias）对坎德尔与[[Michael Sadler|萨德勒]]将国民性作为自[[Variable|变量]]的做法提出严厉批评。他指出，将英国教育制度缺乏统筹规划归咎于“英国人天生不愿思考或拟定行动方案”，不仅缺乏可靠的历史与社会学证据支持，更是极不严谨的心理学推断；历史学家必须在具体的制度博弈与[[Conflict of Interest in Research|利益冲突]]中寻找因果解释，而非诉诸虚无飘渺的国民性格。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 55)]]
 
 > [!claim] [[Joseph Lauwerys|Lauwerys, J.]] A.
 > **国民性概念陷入全能性解释的同义反复** 约瑟夫·劳威斯（Joseph Lauwerys）尖锐指出，国民性是一个极度模糊的社会心理学构念，其最大缺陷在于它可以被随意用来解释任何事物；当一个概念能够解释一切正面与反面现象时，它在科学与逻辑层面上便失去了任何真实的解释力与辨别力。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 55)]]

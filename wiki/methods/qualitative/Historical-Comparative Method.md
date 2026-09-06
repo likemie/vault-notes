@@ -63,7 +63,7 @@ updated: 2026-09-07
 > - **输出形式** 历史因果脉络谱系、制度演进动力模型、跨国对照[[Analytic Framework|分析框架]]、中程工作假设（Working Hypotheses）。
 
 > [!citation-card] 历史比较法从个案归纳工作假设的[[Epistemology|认识论]]辩护
-> 针对[[Positivism|实证主义]]者关于历史学仅能处理孤立独特性、无法为比较研究提供抽象与普遍化基础的指责，比较历史学早已证明：对历史现象进行分类并为了形成概括而进行比较是完全可能的。正如著名历史学家克兰·布林顿（Crane Brinton）所示，尽管此类概括属于有限范围而非普适规律，但它们能够作为工作假设在其他类似情境中进行检验，以阐明新的教育形态；历史学与社会科学皆包含对特殊性与普遍性的关切，二者差异仅在于研究侧重点与学术目的，而非方法上的对立。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 56)]]
+> 针对[[Positivism|实证主义]]者关于历史学仅能处理孤立独特性、无法为比较研究提供抽象与普遍化基础的指责，比较历史学早已证明：对历史现象进行分类并为了形成概括而进行比较是完全可能的。正如著名历史学家克莱恩·布林顿（Crane Brinton）所示，尽管此类概括属于有限范围而非普适规律，但它们能够作为工作假设在其他类似情境中进行检验，以阐明新的教育形态；历史学与社会科学皆包含对特殊性与普遍性的关切，二者差异仅在于研究侧重点与学术目的，而非方法上的对立。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 56)]]
 >
 > *As Crane Brinton has shown, it is quite possible to categorize or classify historical phenomena and compare them for the purpose of making generalizations. Although such generalizations may be of a limited rather than a universal nature, they may in turn be used as working hypotheses to be tested in other similar situations in order to illuminate them. In other words, from an examination of the specific, the concrete and the particular, the historically-minded comparative educator may induce a generalization and then use it in order to illuminate another particular event or form.*
 
@@ -102,6 +102,6 @@ updated: 2026-09-07
 ## 使用此方法的研究
 
 > [!evidence-grid-a]- 相关研究索引
-> - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias, 2009]] — [[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]运用历史比较法梳理比较教育史中历史-哲学母题的起源、演变、[[Paradigm|范式]]分支与[[Positivism|实证主义]]危机，系统重构该方法论的现代合法性。
-> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias, 2009]] — 卡洛扬纳基与卡扎米亚斯运用比较历史考证[[Marc-Antoine Jullien|朱利安]]与欧美行政官员在 19 世纪的[[Document|文献]]档案，揭示现代主义发端的双重母题。
-> - [[Argument_Cowen_2009_HistoryCreation|Cowen, 2009a]] — [[Robert Cowen|罗伯特·考恩]]运用比较史学方法剖析比较教育学科史编纂面临的档案隐蔽与材料匮乏困境，提出“[[Comparative History of Comparative Education|比较教育学的比较史]]”。
+> - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias, 2009]] — [[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（Andreas Kazamias）运用历史比较法梳理比较教育史中历史-哲学母题的起源、演变、[[Paradigm|范式]]分支与[[Positivism|实证主义]]危机，系统重构该方法论的现代合法性。
+> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias, 2009]] — 佩拉·卡洛扬纳基（Pella Kaloyannaki）与卡扎米亚斯运用比较历史考证[[Marc-Antoine Jullien|马克-安托万·朱利安]]（Marc-Antoine Jullien）与欧美行政官员在 19 世纪的[[Document|文献]]档案，揭示现代主义发端的双重母题。
+> - [[Argument_Cowen_2009_HistoryCreation|Cowen, 2009a]] — [[Robert Cowen|罗伯特·考恩]]（Robert Cowen）运用比较史学方法剖析比较教育学科史编纂面临的档案隐蔽与材料匮乏困境，提出“[[Comparative History of Comparative Education|比较教育学的比较史]]”。

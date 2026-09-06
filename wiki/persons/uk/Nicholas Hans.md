@@ -30,9 +30,9 @@ related_methods:
 related_instruments:
   - "[[VALUE Rubrics]]"
 related_persons:
+  - "[[Joseph Lauwerys]]"
   - "[[Isaac Kandel]]"
   - "[[Michael Sadler]]"
-  - "[[Joseph Lauwerys]]"
   - "[[Harold Noah]]"
   - "[[Max Eckstein]]"
 related_arguments:
@@ -51,12 +51,12 @@ updated: 2026-09-07
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 俄裔英国比较教育学家、教育史学家，伦敦大学国王学院（King's College London）比较教育学读者（Reader），与约瑟夫·劳威斯长期共同主编《教育年鉴》（*World Year Book of Education*）。
+> - **身份位置** 俄裔英国比较教育学家、教育史学家，伦敦大学国王学院（King's College London）比较教育学读者（Reader），与约瑟夫·劳威斯（[[Joseph Lauwerys]]）长期共同主编《教育年鉴》（*World Year Book of Education*）。
 > - **核心角色** 20 世纪历史-哲学学派中最具方法论系统性的奠基学者，开创了闻名学界的“因素[[Analytic Framework|分析框架]]”（Factorial Interpretive Framework），把杂乱的历史经验材料收拢于严谨的分类结构之中。
 > - **代表贡献** 确立包含自然、宗教与世俗三大维度的因素分析法；将比较教育定位为处于人文与科学边缘的广义人文科学（Vergleichende Erziehungswissenschaft）；深刻辨析英美政治自由与苏联社会平等两种民主[[Paradigm|范式]]的教育局限。
 
 > [!citation-card] 人物定位的关键来源
-> 特雷瑟威指出，汉斯的卓越贡献并非提供[[Isaac Kandel|坎德尔]]方法的跨大西洋翻版，尽管二者分享诸多共通之处；他的独特贡献在于构建了一个由各种“因素”组成的比较研究框架。汉斯坚信这些因素代表了塑造民族及其教育系统的内在与永久力量，该框架的巨大价值在于为原本可能难以驾驭的海量相关历史数据赋予了秩序与严整结构。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 49–50)]]；引自 Tretheway (1976:63–64)
+> A. R. 特雷瑟韦（A. R. Tretheway）指出，尼古拉斯·汉斯（Nicholas Hans）的卓越贡献并非提供[[Isaac Kandel|艾萨克·坎德尔]]（Isaac Kandel）方法的跨大西洋翻版，尽管二者分享诸多共通之处；他的独特贡献在于构建了一个由各种“因素”组成的比较研究框架。汉斯坚信这些因素代表了塑造民族及其教育系统的内在与永久力量，该框架的巨大价值在于为原本可能难以驾驭的海量相关历史数据赋予了秩序与严整结构。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 49–50)]]；引自 Tretheway (1976:63–64)
 >
 > *Hans' contribution, therefore, was not in supplying a transatlantic version of Kandel's method, though their work did have much in common. His particular contribution was in developing a framework for comparative study comprised of factors which he believed represented immanent and permanent forces which shaped nations and their educational systems. The [[VALUE Rubrics|VALUE]] of such framework lay in the order or structure it imposed on a potentially unmanageable quantity of relevant data...*
 

@@ -7,10 +7,10 @@ aliases:
 summary: "源自拉丁语更好之意且以改善社会与人类境况为根本导向的探究旨趣，是贯穿19世纪比较与国际教育发端的统治性认识论母题"
 type: concept
 domain: "comparative-education"
-related_count: 34
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 44
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - meliorism
   - comparative-education
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Knowledge Production]]"
   - "[[Value Neutrality]]"
+  - "[[Perpetual Peace]]"
   - "[[Hegemony]]"
   - "[[Artefact]]"
   - "[[Policy Borrowing]]"
@@ -34,6 +35,7 @@ related_concepts:
   - "[[Postpositivism]]"
   - "[[Variable]]"
   - "[[Paradigm]]"
+  - "[[Historical-Philosophical-Cultural Motif]]"
   - "[[Document]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Disciplina and Doctrina]]"
@@ -45,22 +47,30 @@ related_methods: []
 related_instruments:
   - "[[VALUE Rubrics]]"
 related_persons:
+  - "[[Andreas Kazamias]]"
   - "[[Marc-Antoine Jullien]]"
   - "[[Victor Cousin]]"
   - "[[Horace Mann]]"
+  - "[[Calvin Stowe]]"
+  - "[[Henry Barnard]]"
   - "[[Harold Noah]]"
   - "[[Max Eckstein]]"
   - "[[George Bereday]]"
-  - "[[Andreas Kazamias]]"
   - "[[Michael Sadler]]"
+  - "[[Isaac Kandel]]"
+  - "[[Nicholas Hans]]"
+  - "[[Robert Ulich]]"
 related_facts:
+  - "[[Prussian Draft Education Law of 1819]]"
   - "[[Guizot Law of 1833]]"
+  - "[[Seventh Annual Report of the Massachusetts Board of Education]]"
 related_arguments:
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
+  - "[[Argument_Kazamias_2009_ForgottenThemes]]"
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-06
+updated: 2026-09-07
 ---
 
 # Educational Meliorism
@@ -83,28 +93,28 @@ updated: 2026-09-06
 
 学者们在经典论著中对改良主义的本体地位与伦理愿景作出了深刻阐释：
 
-> [!citation-card]- 关键表述一：卡洛扬纳基与卡扎米亚斯论教育改良主义的本体统摄地位（2009）
-> 改良主义源自拉丁语 melior（意为更好），可理解为以改进为目标的探究。正如本章所指出的，“改进的目标”切中了 19 世纪对外国（在此即欧洲）教育系统开展的所有探究的核心……[[Marc-Antoine Jullien|朱利安]]谈到了收集“事实与观察”，以帮助通过教育改革来改善欧洲社会，并在国际层面改善人类境况；[[Victor Cousin|库森]]、[[Horace Mann|曼]]、斯托与巴纳德则谈到了改善自己国家的国民教育……这种改良主义要素从一开始便与所谓的“比较认识论问题域”天然相关。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 33–34)]]
+> [!citation-card] 教育改良主义在比较认识论中的本体统摄地位
+> 改良主义源自拉丁语 melior（意为更好），可理解为以改进为目标的探究。正如佩拉·卡洛扬纳基（Pella Kaloyannaki）与[[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（Andreas Kazamias）所指出的，“改进的目标”切中了 19 世纪对外国（在此即欧洲）教育系统开展的所有探究的核心……[[Marc-Antoine Jullien|马克-安托万·朱利安]]（Marc-Antoine Jullien de Paris）谈到了收集“事实与观察”，以帮助通过教育改革来改善欧洲社会，并在国际层面改善人类境况；[[Victor Cousin|维克多·库森]]（Victor Cousin）、[[Horace Mann|霍勒斯·曼]]（Horace Mann）、[[Calvin Stowe|卡尔文·斯托]]（Calvin Stowe）与[[Henry Barnard|亨利·巴纳德]]（Henry Barnard）则谈到了改善自己国家的国民教育……这种改良主义要素从一开始便与所谓的“比较认识论问题域”天然相关。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 33–34)]]
 >
 > *Meliorism, from the Latin melior (better), can be understood as inquiry with the objective of improvement. As indicated in this chapter, the 'objective of improvement' was germane to all the nineteenth-century inquiries into foreign, in this case European, systems of education ... this ameliorative element ... ab initio, has been, to a degree more or less, germane to what may be called the 'comparative epistemic problematique'.*
 
-朱利安将教育事实比较上升为消除野蛮战争、追求世界永久和平的改良蓝图：
+朱利安将教育事实比较上升为消除野蛮战争、追求世界[[Perpetual Peace|永久和平]]的改良蓝图：
 
-> [!citation-card]- 关键表述二：朱利安以比较文明协作荡涤旧时代野蛮战争残余（1833）
+> [!citation-card] [[Marc-Antoine Jullien|朱利安]]论以比较文明协作荡涤野蛮战争残余
 > 只有比较解剖学和比较地质学才能推动长期停留在幼年期的解剖学与地质学发展。同样，只有比较文明才能迅速推进我们当前的文明，荡涤其尽管拥有辉煌奇迹却依然保留的深重野蛮残余。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 22–23; Palmer, 1993, p. 205)]]
 >
 > *Similarly, only comparative civilization can speedily advance our present civilization, which still preserves, despite its brilliant and imposing wonders, the deep and afflicting traces of the old barbarism.*
 
 库森在普鲁士报告中确立了行政改良主义的审慎借用公理：
 
-> [!citation-card]- 关键表述三：库森审慎借用与立足民族国家建制公理（1831）
+> [!citation-card] [[Victor Cousin|库森]]论审慎借用与民族国家建制公理
 > 一个民族的真正伟大不在于对他人一无所仿，而在于处处借用优良之物，并在吸收改造中使其臻于完善。如果说我考察的是普鲁士，那么我心中始终牵挂的都是法兰西。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 25, 30; Brewer, 1971, p. vii)]]
 >
 > *The true greatness of a people does not consist in imitating nothing from others, but in borrowing everywhere what is good and in perfecting it while appropriating for oneself.*
 
 霍勒斯·曼将普及公立学校改良确立为捍卫自由共和政体的生命线：
 
-> [!citation-card]- 关键表述四：霍勒斯·曼知识普遍分配作为自由共和唯一基石（1848）
+> [!citation-card] [[Horace Mann|霍勒斯·曼]]论普及教育作为自由共和唯一基石
 > 一个国家无法在愚昧无知中长久维系自由。任何政治体制无论设计得多么巧妙，都无法天然保证公民的权利与自由，因为自由只有在知识于民众中广泛普及时才能稳固。因此，全民普及教育是共和政府赖以安身立命的唯一基石。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, p. 32; Cremin, 1957, p. 7)]]
 >
 > *A nation cannot long remain ignorant and free. No political structure, however artfully devised, can inherently guarantee the rights and liberties of citizens, for freedom can be secure only as knowledge is widely distributed among the populace. Hence, universal popular education is the only foundation on which republican government can securely rest.*
@@ -178,7 +188,7 @@ updated: 2026-09-06
 > **经验事实调查服从全人[[Bildung|教化]]与国际和平** 朱利安论证指出，教育如医学与解剖学一样由事实与观察构成，编制分析图表的目的绝非纯粹客观描述，而是为了科学诊断教育机体的患病断层，从而推导出确定改良原则；经验事实分类全面服从于预防阶级暴力革命、促进儿童体智德均衡展开，以及通过跨国教育协作确立消除战争的超国家治理网络。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 11–13, 19–24)]]
 
 > [!claim] Kaloyannaki, P. & [[Andreas Kazamias|Kazamias, A.]] M.
-> **改良主义作为比较认识论的统治性母题** 卡洛扬纳基与卡扎米亚斯深入论证指出，超越外在的“[[Artefact|器物]]借用”行为标签，贯穿 19 世纪所有先驱求知活动的深层精神底色是教育改良主义；朱利安关照社会动荡与永久和平，[[Victor Cousin|库森]]重构中央行政机器与法典化，[[Horace Mann|霍勒斯·曼]]捍卫自由共和政体免于文盲与专制；先驱们的跨国探究自始至终深嵌于应对现代性危机的崇高社会承诺之中，共同奠定了学科不可让渡的“比较认识论问题域（comparative epistemic problematique）”。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 33–34)]]
+> **改良主义作为比较认识论的统治性母题** 卡洛扬纳基与卡扎米亚斯深入论证指出，超越外在的“[[Artefact|器物]]借用”行为标签，贯穿 19 世纪所有先驱求知活动的深层精神底色是教育改良主义；朱利安关照社会动荡与[[Perpetual Peace|永久和平]]，[[Victor Cousin|库森]]重构中央行政机器与法典化，[[Horace Mann|霍勒斯·曼]]捍卫自由共和政体免于文盲与专制；先驱们的跨国探究自始至终深嵌于应对现代性危机的崇高社会承诺之中，共同奠定了学科不可让渡的“比较认识论问题域（comparative epistemic problematique）”。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 33–34)]]
 
 ---
 
@@ -188,7 +198,7 @@ updated: 2026-09-06
 > 该命题探讨政治权力结构如何决定改良主义的运作路径，揭示欧陆实定法移植与北美政治动员的分流逻辑。
 
 > [!claim] Cousin, V.
-> **国家公共资源法哲学支撑下的实定法直接转置** 库森立足法国高度集权的行政官僚传统，提炼教育权属于国家神圣“公共资源”的法哲学命题，打破教会特权与家庭私权，为中央世俗国家行使最高督察主权确立本体法理支撑，进而主笔将普鲁士聚芬法案的技术条款系统性吸纳为法国实定法（1833 年基佐法案），开创了自上而下行政直接移植模式。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 26–29)]]
+> **国家公共资源法哲学支撑下的实定法直接转置** 库森立足法国高度集权的行政官僚传统，提炼教育权属于国家神圣“公共资源”的法哲学命题，打破教会特权与家庭私权，为中央世俗国家行使最高督察主权确立本体法理支撑，进而主笔将普鲁士[[Prussian Draft Education Law of 1819|聚芬法案]]的技术条款系统性吸纳为法国实定法（1833 年基佐法案），开创了自上而下行政直接移植模式。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 26–29)]]
 
 > [!claim] Mann, H.
 > **外部实绩[[Transfer Translation Transformation|转译]]为击溃本土保守派的合法化武器** 霍勒斯·曼身处美利坚联邦分权与城镇自治语境，面对保守学监联合会与正统教会对公税公学的猛烈攻击，战略性抽取欧洲专制君主国公立学校的卓越教学与人道纪律实绩，以“专制君主尚能办好公学、自由共和国任由公民愚昧岂非文明耻辱”发起降维反诘，成功为争议改革确立不可撼动的政治合法化依据。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 31–34)]]
@@ -214,16 +224,16 @@ updated: 2026-09-06
 ### 命题四　历史改良主义将外国探究转化为涵养本土哲学态度与民主自省的思想资源
 
 > [!concept-lens] 历史哲学涵养与去技术化改良维度
-> 该命题探讨历史-哲学学派如何将行政官员短视的直接政策借用，升华为通过理解外国历史来涵养本国国民与决策者哲学态度的“历史改良主义”。
+> 该命题探讨历史-哲学学派如何将行政官员短视的直接[[Policy Borrowing|政策借用]]，升华为通过理解外国历史来涵养本国国民与决策者哲学态度的“历史改良主义”。
 
-> [!claim] Sadler, M.
+> [!claim] [[Michael Sadler|Sadler, M.]]
 > **通过理解外国教育精神进入本土传统** 萨德勒在吉尔福德演讲中指出，研究外国教育系统的实践价值，绝非为了直接照搬外国具体做法，而是使我们能够更好地研究、理解本国教育，并进入我们自身国家教育的精神与传统之中，促进关于国家教育最明智发展路线的广泛共识。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 44–45)]]
 
-> [!claim] Kandel, I. L.
+> [!claim] [[Isaac Kandel|Kandel, I. L.]]
 > **发展哲学态度以超越狭隘民族主义** 坎德尔论证指出，妥善开展的比较教育探究能处理基本原则并促成“哲学态度的获得”，使教育者更好地体悟本国教育体系的精神与传统；同时，通过对其他国家真实历史与文化传统的同情性理解，培育基于理智而非盲目激情的国际主义，抵御极权主义威胁。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 46–49)]]
 
 > [!claim] Kazamias, A. M.
-> **历史改良主义的价值与辉格史观风险** 卡扎米亚斯总结指出，萨德勒、坎德尔、汉斯与乌利希等人属于“历史改良主义者（historical-meliorists）”。他们虽主要是致力于解释的历史知识分子，但同样怀揣强烈的改良抱负。然而，当历史研究过度受制于现实改进诉求时，极易混淆客观描述与主观应然，陷入巴特菲尔德所批评的“辉格史观”；因此，历史比较研究必须在客观时空情境考察与伦理关怀之间保持清醒的反思张力。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 40, 54–55)]]
+> **历史改良主义的价值与辉格史观风险** 卡扎米亚斯总结指出，萨德勒、坎德尔、[[Nicholas Hans|汉斯]]与[[Robert Ulich|乌利希]]等人属于“历史改良主义者（historical-meliorists）”。他们虽主要是致力于解释的历史知识分子，但同样怀揣强烈的改良抱负。然而，当历史研究过度受制于现实改进诉求时，极易混淆客观描述与主观应然，陷入巴特菲尔德所批评的“辉格史观”；因此，历史比较研究必须在客观时空情境考察与伦理关怀之间保持清醒的反思张力。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 40, 54–55)]]
 
 ---
 
@@ -247,7 +257,7 @@ updated: 2026-09-06
 
 > [!dev-timeline] 概念演变
 > - **1817 — 准科学人道主义改良萌芽阶段** [[Marc-Antoine Jullien|朱利安]]发表《计划》，将教育改良主义与居维叶比较解剖学分类、全人道德[[Bildung|教化]]与世界和平共同体蓝图深度交织，奠定学科最初的[[Epistemology|认识论]][[Paradigm|范式]]。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 11–14, 21–24)]]
-> - **1830–1850 — 民族国家建制与行政-政治改良双轨分化阶段** [[Victor Cousin|库森]]以国家公共资源法哲学主笔 1833 年[[Guizot Law of 1833|基佐法案]]，开创欧陆实定法直接转置范式；[[Horace Mann|霍勒斯·曼]]发表《第七次年度报告》，开创北美动用外部实绩作为国内改革政治合法化依据的范式。（pp. 24–34）
+> - **1830–1850 — 民族国家建制与行政-政治改良双轨分化阶段** [[Victor Cousin|库森]]以国家公共资源法哲学主笔 1833 年[[Guizot Law of 1833|基佐法案]]，开创欧陆实定法直接转置范式；[[Horace Mann|霍勒斯·曼]]发表《[[Seventh Annual Report of the Massachusetts Board of Education|第七次年度报告]]》，开创北美动用外部实绩作为国内改革政治合法化依据的范式。（pp. 24–34）
 > - **1900–1950 — 历史改良主义与哲学涵养阶段** [[Michael Sadler|萨德勒]]、[[Isaac Kandel|坎德尔]]、[[Nicholas Hans|汉斯]]与[[Robert Ulich|乌利希]]开创[[Historical-Philosophical-Cultural Motif|历史-哲学-文化母题]]，将改良主义由直接行政借用转向探寻校外无形精神力量，主张通过比较理解涵养哲学态度以服务民主自省与国际主义。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 40, 44–46)]]
 > - **1960年代 — 行为[[Positivism|实证主义]]的“前科学借用期”贬抑阶段** [[George Bereday|贝雷迪]]、[[Harold Noah|诺亚]]与[[Max Eckstein|埃克斯坦]]等战后实证学者编造单向度的科学进化神话，将 19 世纪先驱的改良探究贬为充斥主观偏见的“幼稚借用期”，片面追求[[Value Neutrality|价值中立]]与数理建模。（Noah & Eckstein, 1969; pp. 33–34）
 > - **2000年代至今 — 比较认识论问题域重构与人道主义传统复兴阶段** 卡洛扬纳基、卡扎米亚斯与考恩等学者系统解构实证主义方法论拜物教，重估改良主义对全人解放与世界治理的崇高承诺，呼吁现代学科重返经验求真与伦理关怀重新熔铸的古典人文灵魂。（pp. 11–13, 33–34）

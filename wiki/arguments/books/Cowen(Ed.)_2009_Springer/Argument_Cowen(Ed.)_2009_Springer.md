@@ -106,7 +106,7 @@ updated: 2026-09-07
 
 > [!volume-argument] 编者组织主张
 > - **共同问题** 以学科的创建与再造（Creation and Re-creation）为总轴线，将跨越各大洲的教育历史、政治经济重组、[[Knowledge Production|知识生产]]与文化传统收拢于对全球现代性及其危机的比较反思中。（pp.3–5）
-> - **组织逻辑** 全书严谨划分为 8 个规模均等的主题板块（各含 10 章），形成“历史反思与学科奠基 → 政治形态与国家建构 → 国际与全球力量交织 → 工业化与[[Knowledge-Based Economy|知识经济]] → 后殖民正义与赋权 → 文化、知识与教学法 → 新思维[[Paradigm|范式]]转向 → 未来前沿批判与重构”的逐层推进逻辑。（pp.v–xii）
+> - **组织逻辑** 全书严谨划分为 8 个规模均等的主题板块（各含 10 章），形成历史反思与学科奠基 → 政治形态与国家建构 → 国际与全球力量交织 → 工业化与[[Knowledge-Based Economy|知识经济]] → 后殖民正义与赋权 → 文化、知识与教学法 → 新思维[[Paradigm|范式]]转向 → 未来前沿批判与重构的逐层推进逻辑。（pp.v–xii）
 > - **整体贡献** 汇聚百余位国际代表性学者，不仅构建了迄今为止规模最为庞大的比较教育参考图景，更推动了该学科从西方中心线性历史向多元、多中心、具有高度[[Epistemology|认识论]]自省的现代学科体系演进。（pp.3–6）
 
 > [!citation-card]- 编者关键表述
@@ -157,8 +157,8 @@ updated: 2026-09-07
 > [!chapter-roadmap] 章节处理路线
 > - **已处理章节**
 >   - Ch. 02 [[Argument_Cowen_2009_HistoryCreation]]。Cowen 在该章系统诊断学科史编纂的三重困境，提倡建立 [[Comparative History of Comparative Education|比较教育学的比较史]]。
->   - Ch. 03 [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]。Kaloyannaki 与 Kazamias 深入解构比较教育学的现代主义发端，辨析[[Marc-Antoine Jullien|朱利安]]的准[[Proto-Scientific Motif|科学人道主义母题]]与[[Victor Cousin|库森]]、[[Horace Mann|霍勒斯·曼]]等人的政策导向行政[[Educational Meliorism|改良主义]]母题，揭示借用作为政治合法化依据的机制。
->   - Ch. 04 [[Argument_Kazamias_2009_ForgottenThemes]]。Kazamias 系统挖掘[[Michael Sadler|萨德勒]]、[[Isaac Kandel|坎德尔]]、[[Nicholas Hans|汉斯]]与[[Robert Ulich|乌利希]]等学者开创的历史-哲学-文化与自由人文主义母题，阐明其广义人文科学定位、[[National Character in Comparative Education|国民性格]]分析[[Construct|构念]]与历史改良主义底色，并借由布林顿的有限工作[[Hypothesis|假设]]归纳法为[[Historical-Comparative Method|历史比较法]]确立现代合法性。
+>   - Ch. 03 [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]。Kaloyannaki 与 Kazamias 深入解构比较教育学的现代主义发端，辨析[[Marc-Antoine Jullien|马克-安托万·朱利安]]（Marc-Antoine Jullien）的准[[Proto-Scientific Motif|科学人道主义母题]]与[[Victor Cousin|维克多·库森]]（Victor Cousin）、[[Horace Mann|霍勒斯·曼]]（Horace Mann）等人的政策导向行政[[Educational Meliorism|改良主义]]母题，揭示借用作为政治合法化依据的机制。
+>   - Ch. 04 [[Argument_Kazamias_2009_ForgottenThemes]]。Kazamias 系统挖掘[[Michael Sadler|迈克尔·萨德勒]]（Michael Sadler）、[[Isaac Kandel|艾萨克·坎德尔]]（Isaac Kandel）、[[Nicholas Hans|尼古拉斯·汉斯]]（Nicholas Hans）与[[Robert Ulich|罗伯特·乌利希]]（Robert Ulich）等学者开创的历史-哲学-文化与自由人文主义母题，阐明其广义人文科学定位、[[National Character in Comparative Education|国民性格]]分析[[Construct|构念]]与历史改良主义底色，并借由克莱恩·布林顿（Crane Brinton）的有限工作[[Hypothesis|假设]]归纳法为[[Historical-Comparative Method|历史比较法]]确立现代合法性。
 > - **优先处理章节** Ch. 01（联合导论）、Ch. 10（历史反思）、Ch. 21（导论）、Ch. 61（新思维导论）、Ch. 79 与 Ch. 80（全书收束与结论）。
 > - **可暂缓章节** 专门聚焦特定国家微观细部、与全书主干理论[[Dialogue in Education|对话]]相对松散的案例章节。
 > - **缺口提醒** 目前已完成 Ch. 02、Ch. 03 与 Ch. 04，系统夯实了学科发端期准科学、行政借用与历史人文三大母题的谱系演进，第一板块历史奠基框架已初步成型，亟需推进各板块导引章与重点理论章以充实全书结构认知。

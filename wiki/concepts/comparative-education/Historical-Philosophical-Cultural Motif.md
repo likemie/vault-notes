@@ -72,7 +72,7 @@ updated: 2026-09-07
 > - **边界** 该母题不追求构建去情境化的普遍规律或因果预测公式，也不等同于纯粹描述外国制度现状的事实汇编，其分析聚焦于特定时空坐标中教育传统的精神底色与制度生成。
 
 > [!citation-card] 比较教育的人文科学性质与历史因果探寻
-> 比较教育并非经验性或[[Positivism|实证主义]]的“社会科学”，而是一门广义上的“人文科学”，一如德语中的 *Wissenschaft* 与希腊语中的 *Episteme* 所指。汉斯、坎德尔、乌利希以及施耐德所理解的比较教育，更接近于德语的比较教育科学（Vergleichende Erziehungswissenschaft），类似于比较宗教学、比较法学与比较解剖学，其比较不局限于当代现状，而是延伸至法律、宗教或语言制度的起源与演进探究。它是一门解释与诠释性学科，旨在理解与诠释各民族教育系统何以发展为当下形态，而非追求预测或政策工具主义的实用社会科学。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 39–40)]]
+> 比较教育并非经验性或[[Positivism|实证主义]]的“社会科学”，而是一门广义上的“人文科学”，一如德语中的 *Wissenschaft* 与希腊语中的 *Episteme* 所指。汉斯、坎德尔、乌利希以及弗里德里希·施耐德（Friedrich Schneider）所理解的比较教育，更接近于德语的比较教育科学（Vergleichende Erziehungswissenschaft），类似于比较宗教学、比较法学与比较解剖学，其比较不局限于当代现状，而是延伸至法律、宗教或语言制度的起源与演进探究。它是一门解释与诠释性学科，旨在理解与诠释各民族教育系统何以发展为当下形态，而非追求预测或政策工具主义的实用社会科学。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 39–40)]]
 >
 > *Comparative education is not an empirical or a positivistic 'social science'. It is a 'human science' in the broad meaning of the term 'science' as signified by the German word Wissenschaft and the Greek equivalent Episteme. As interpreted by Hans, Kandel, Ulich and I may add, Schneider, the term comparative education (CE) was nearer to the German Vergleichende Erziehungswissenschaft... It was analogous to such studies as Comparative Religion, Comparative Law and Comparative Anatomy in that 'comparisons were not limited to contemporary actual situations but were extended to the study of the origin and evolution of present systems of law, religion or language'. ... Comparative Education is an explanatory/interpretive episteme, that aims at 'understanding' and 'interpretation' of how national systems of education developed to be what they are, not a predictive or a policy-oriented or practical/applied social science.*
 
@@ -150,4 +150,4 @@ updated: 2026-09-07
 > 该维度回应[[Positivism|实证主义]]者对历史学派“仅能描述孤立特殊事件、无法归纳定律”的严厉批评，论证历史解释学所具备的理论抽象潜能。
 
 > [!claim] [[Andreas Kazamias|Kazamias, A.]] M.
-> **特殊历史个案归纳工作[[Hypothesis|假设]]** 卡扎米亚斯援引著名比较历史学家克兰·布林顿（Crane Brinton）的史学方法论指出，对历史现象进行分类比较并推导概括是完全可能的。虽然由此得出的普遍性属于有限概括而非放之四海而皆准的普适法则，但它们能够作为有效的工作假设（working hypotheses）用于检验和阐明其他类似的教育情境；因此，历史学与社会科学的差异仅在于研究侧重点与目的，绝非方法论上的本质鸿沟。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 56–57)]]
+> **特殊历史个案归纳工作[[Hypothesis|假设]]** [[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（Andreas Kazamias）援引著名比较历史学家克莱恩·布林顿（Crane Brinton）的史学方法论指出，对历史现象进行分类比较并推导概括是完全可能的。虽然由此得出的普遍性属于有限概括而非放之四海而皆准的普适法则，但它们能够作为有效的工作假设（working hypotheses）用于检验和阐明其他类似的教育情境；因此，历史学与社会科学的差异仅在于研究侧重点与目的，绝非方法论上的本质鸿沟。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 56–57)]]

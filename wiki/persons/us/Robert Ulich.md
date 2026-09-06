@@ -51,11 +51,11 @@ updated: 2026-09-07
 
 > [!person-profile] 人物档案
 > - **身份位置** 德裔美籍教育史学家、教育哲学家与比较教育学者，哈佛大学教育研究生院（Harvard Graduate School of Education）讲座教授，魏玛时期萨克森州高级教育官员与德累斯顿工业大学教授。
-> - **核心角色** 比较教育历史-哲学传统中“人本主义（Humanism）”与“古典[[Bildung|教化]]（Paideia）”的集大成者。作为坚定的社会民主主义者流亡美国后，在哈佛大学培育了包括[[George Bereday|乔治·贝雷迪]]与[[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]在内的整整一代战后比较教育领军学者。
+> - **核心角色** 比较教育历史-哲学传统中“人本主义（Humanism）”与“古典[[Bildung|教化]]（Paideia）”的集大成者。作为坚定的社会民主主义者流亡美国后，在哈佛大学培育了包括[[George Bereday|乔治·贝雷迪]]（George Bereday）与[[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（Andreas Kazamias）在内的整整一代战后比较教育领军学者。
 > - **代表贡献** 巨著《国家教育：历史视角下的比较》（*The Education of Nations: A Comparison in Historical Perspective*, 1961）；坚持以“人（anthropos）”为中心的比较哲学；将西方文明史演进与教师人文教育深度整合。
 
 > [!citation-card] 人物定位的关键来源
-> 保罗·纳什在乌利希逝世后的纪念悼文中将其对比较教育的贡献定性为“来自欧洲的人文主义厚礼”。纳什指出，乌利希的人文主义路径具有四个鲜明维度：第一，坚决将人牢牢置于教育画卷的绝对中心，对于乌利希而言，人的价值永远先于课程、学科、建制或纯粹学术研究；第二，其研究路径是彻底且毫不妥协的历史主义，坚信不理解历史语境便无法领会教育进程的本质；第三，高度重视比较教育对教师教育的人文意义，排斥那些仅供研究者内部自我欣赏的枯燥图表和理论；第四，具有鲜明的政治价值系统，终生践行社会民主主义理念。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 52)]]；引自 Nash (1977:147–149)
+> 保罗·纳什（Paul Nash）在罗伯特·乌利希（Robert Ulich）逝世后的纪念悼文中将其对比较教育的贡献定性为“来自欧洲的人文主义厚礼”。纳什指出，乌利希的人文主义路径具有四个鲜明维度：第一，坚决将人牢牢置于教育画卷的绝对中心，对于乌利希而言，人的价值永远先于课程、学科、建制或纯粹学术研究；第二，其研究路径是彻底且毫不妥协的历史主义，坚信不理解历史语境便无法领会教育进程的本质；第三，高度重视比较教育对教师教育的人文意义，排斥那些仅供研究者内部自我欣赏的枯燥图表和理论；第四，具有鲜明的政治价值系统，终生践行社会民主主义理念。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 52)]]；引自 Nash (1977:147–149)
 >
 > *Paul Nash characterised Ulich's 'contribution to comparative education' as quintessentially 'humanistic'... There were four 'dimensions' to Ulich's humanistic approach. First, there was Ulich's 'determination to keep the human being firmly at the center of the educational picture; for Ulich, the person was always central, rather than the curriculum, the discipline, the [[Champ|field]], the institution, or the research'. Second, Ulich's approach was 'unapologetically and thoroughly historical'... The third dimension... lay in the human relevance he saw in comparative education for the education of teachers... Lastly... Ulich's humanistic approach was marked by a strongly political [[VALUE Rubrics|VALUE]] system... he was a lifelong social democrat.*
 
@@ -66,10 +66,10 @@ updated: 2026-09-07
 > [!timeline] 生平与职涯
 > - **1890** 出生于德国巴伐利亚，先后在弗赖堡大学、柏林大学、维尔茨堡大学及莱比锡大学接受严格的哲学与历史学学术训练。
 > - **1920年代** 在魏玛共和国时期出任萨克森州教育部高等教育司司长，兼任德累斯顿工业大学教育学教授，积极推动魏玛[[Democratic Education|民主教育]]实验。
-> - **1934** 希特勒上台后，44 岁的乌利希因坚守社会民主信念、拒绝向纳粹法西斯极权政权妥协而毅然辞职，流亡美国受聘于哈佛大学。
+> - **1934** 阿道夫·希特勒（Adolf Hitler）上台后，44 岁的乌利希因坚守社会民主信念、拒绝向纳粹法西斯极权政权妥协而毅然辞职，流亡美国受聘于哈佛大学。
 > - **1934–1960** 任哈佛大学教育学教授，讲授教育史、教育哲学与比较教育学，开创哈佛人文教育传统。
 > - **1961** 出版代表作《国家教育：历史视角下的比较》（*The Education of Nations*），系统梳理英法德俄等国教育的文明史根基。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 51)]]
-> - **1965** 其哈佛门生保罗·纳什、[[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]与亨利·珀金森联合主编出版文集《受过教育的人》（*The Educated Man: Studies in the History of Educational Thought*）向其致敬。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 52)]]
+> - **1965** 其哈佛门生保罗·纳什、卡扎米亚斯与亨利·珀金森（Henry Perkinson）联合主编出版文集《受过教育的人》（*The Educated Man: Studies in the History of Educational Thought*）向其致敬。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 52)]]
 > - **1977** 逝世于德国斯图加特。
 
 ---
@@ -77,7 +77,7 @@ updated: 2026-09-07
 ## 主要著作与思想发展
 
 > [!work-line] 主要著作
-> - **1945 — *History of Educational Thought*** 梳理自[[Plato|柏拉图]]以降西方教育哲学的宏阔画卷，确立西方思想史作为理解当代教育实践基石的人文立场。
+> - **1945 — *History of Educational Thought*** 梳理自[[Plato|柏拉图]]（Plato）以降西方教育哲学的宏阔画卷，确立西方思想史作为理解当代教育实践基石的人文立场。
 > - **1954 — *The Human Career: A Philosophy of Transcendence*** 阐述超越性人道主义哲学，主张教育必须唤醒人类应对生存危机与极权威胁的道德潜能。
 > - **1961 — *The Education of Nations: A Comparison in Historical Perspective*** 乌利希在比较教育领域的集大成之作。全书先系统剖析界定西方文明的四大文化思潮（中世纪主义、文艺复兴与宗教改革、[[Rationalism in International Relations|理性主义]]、科学与技术），继而深入考察法国、英国、德国与俄国教育体系的历史演变，最后为新兴发展中国家的教育重建提出历史镜鉴。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 51)]]
 
