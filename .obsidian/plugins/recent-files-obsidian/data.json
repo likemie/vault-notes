@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Immanuel Kant",
-      "path": "wiki/persons/germany/Immanuel Kant.md"
-    },
-    {
       "basename": "Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings",
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings.md"
+    },
+    {
+      "basename": "Esquisse d'un ouvrage sur l'éducation comparée",
+      "path": "wiki/facts/france/Esquisse d'un ouvrage sur l'éducation comparée.md"
+    },
+    {
+      "basename": "Leading Questions",
+      "path": "wiki/concepts/research-methodology/Leading Questions.md"
+    },
+    {
+      "basename": "Immanuel Kant",
+      "path": "wiki/persons/germany/Immanuel Kant.md"
     },
     {
       "basename": "Johann Heinrich Pestalozzi",
@@ -191,14 +199,6 @@
     {
       "basename": "Bloom's Taxonomy",
       "path": "wiki/theories/curriculum/Bloom's Taxonomy.md"
-    },
-    {
-      "basename": "Zhao_2025_JIntell",
-      "path": "sources/Zhao_2025_JIntell/Zhao_2025_JIntell.md"
-    },
-    {
-      "basename": "Inter-Rater Reliability",
-      "path": "wiki/concepts/research-methodology/Inter-Rater Reliability.md"
     }
   ],
   "omittedPaths": [],

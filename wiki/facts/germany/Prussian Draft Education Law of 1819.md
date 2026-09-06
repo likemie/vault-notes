@@ -15,7 +15,7 @@ subtype: policy
 region: germany
 fact_region: "germany"
 fact_kind: "policy"
-fact_related_count: 14
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -28,20 +28,18 @@ tags:
   - theme/policy-borrowing
   - nineteenth-century
 related_concepts:
-  - "[[Normal School]]"
-  - "[[Bildung]]"
-  - "[[Policy Borrowing]]"
-  - "[[Educational Meliorism]]"
-  - "[[Auslandspadagogik]]"
-  - "[[Faculty Psychology]]"
   - "[[Common School Movement]]"
+  - "[[Faculty Psychology]]"
+  - "[[Bildung]]"
+  - "[[Normal School]]"
+  - "[[Policy Borrowing]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
   - "[[Victor Cousin]]"
-  - "[[Horace Mann]]"
   - "[[Calvin Stowe]]"
+  - "[[Horace Mann]]"
   - "[[Henry Barnard]]"
 related_facts:
   - "[[Guizot Law of 1833]]"
@@ -75,7 +73,7 @@ updated: 2026-09-06
 该法案草案在欧洲教育史上首次完整构筑了由中央行政、地方自治委员会与专业师范网络协同支撑的国家公共初等教育机器：
 
 > [!claim] 政策核心
-> 1819 年聚芬普鲁士教育法草案系统设计了现代国民公共初等教育的制度总纲。草案确立法定义务送学机制与教区市镇自筹经费建校责任；设立由地方民主代表与专职督学组成的分权化市镇管理委员会；确立初等小学（*Elementarschulen*）与市民学校（*Bürgerschulen*）的垂直双轨分流架构；并在世俗国家教育部最高督导主权下，强制推行各省师范学校（*Lehrerseminare*）专业化培养、国家考试准入与法定薪资保障。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 26–28; Cousin, 1930, pp. 130–188)]]
+> 1819 年聚芬普鲁士教育法草案系统设计了现代国民公共初等教育的制度总纲。草案确立法定义务送学机制与教区市镇自筹经费建校责任；设立由地方民主代表与专职督学组成的分权化市镇管理委员会；确立初等小学（*Elementarschulen*）与市民学校（*Bürgerschulen*）的[[Dual School System|垂直双轨分流架构]]；并在世俗国家教育部最高督导主权下，强制推行各省师范学校（*Lehrerseminare*）专业化培养、国家考试准入与法定薪资保障。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 26–28; Cousin, 1930, pp. 130–188)]]
 
 聚芬草案在文本结构中确立了支撑普鲁士国家公共教育机器运转的四大制度支柱：
 
@@ -177,7 +175,8 @@ updated: 2026-09-06
 > | [[Report on the State of Public Instruction in Prussia]] | 政策 / 事实 | 维克多·库森考察并详尽摘录聚芬法案的官方外交报告，构成了法案向欧美世界扩散的中介载体。 |
 > | [[Guizot Law of 1833]] | 政策 / 事实 | 法国国民教育奠基性法案，直接以聚芬草案的四大支柱为立法技术蓝本。 |
 > | [[Victor Cousin]] | 人物 | 发现、摘译并向法国政府极力推荐聚芬法案的法国哲学家与官方教育使节。 |
-> | [[Normal School]] | 概念 | 聚芬法案中强制各省设立的师范研习所建制（*Lehrerseminare*），为现代师范教育奠立制度标准。 |
+> | [[Dual School System]] | 概念 | 聚芬草案确立初等国民小学与市民学校的平行分流，成为欧陆双轨学制的技术蓝本。 |
+| [[Normal School]] | 概念 | 聚芬法案中强制各省设立的师范研习所建制（*Lehrerseminare*），为现代师范教育奠立制度标准。 |
 > | [[Faculty Psychology]] | 概念 | 聚芬法案中初等学校全人官能启蒙课程设计的核心认识论依据。 |
 > | [[Common School Movement]] | 概念 | 北美教育家借助聚芬法案在普鲁士的卓越成效击退保守派、推动公立学校立法。 |
 > | [[Policy Borrowing]] | 概念 | 聚芬法案在法国与美国的转译与采纳，构成了 19 世纪国际政策借用的经典案例。 |

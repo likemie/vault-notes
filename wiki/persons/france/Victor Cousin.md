@@ -8,7 +8,7 @@ summary: "法国哲学家、七月王朝教育决策者与折衷主义自由派�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 20
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[General Education]]"
   - "[[Bildung]]"
+  - "[[Faculty Psychology]]"
   - "[[Policy Borrowing]]"
   - "[[Normal School]]"
   - "[[Epistemology]]"
@@ -41,9 +42,9 @@ related_persons:
   - "[[Horace Mann]]"
   - "[[Marc-Antoine Jullien]]"
 related_facts:
+  - "[[Report on the State of Public Instruction in Prussia]]"
   - "[[Guizot Law of 1833]]"
   - "[[Prussian Draft Education Law of 1819]]"
-  - "[[Report on the State of Public Instruction in Prussia]]"
 related_arguments:
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
 confidence: high
@@ -223,7 +224,7 @@ updated: 2026-09-06
 
 > [!warning] 未解问题与边界
 > - **条文法案崇拜偏向** 库森对普鲁士教育的考察高度聚焦于[[Prussian Draft Education Law of 1819|聚芬 1819 年法案草案]]的文本规定与官方行政架构，对基层乡村小学的真实教学质量与师资生活困境缺乏深入的微观[[Qualitative Observation|田野观察]]，带有一定的条文理想化投射。
-> - **阶级壁垒与民主化限度** 其所设计的普通文化课程与双轨分流体制，在 19 世纪法国长期构筑了阻隔平民阶层向上流动的制度藩篱，直至 20 世纪下半叶才迎来全面综合中学的民主化改造。
+> - **阶级壁垒与民主化限度** 其所设计的普通文化课程与[[Dual School System|双轨分流体制]]，在 19 世纪法国长期构筑了阻隔平民阶层向上流动的制度藩篱，直至 20 世纪下半叶才迎来全面综合中学的民主化改造。
 
 ---
 

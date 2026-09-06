@@ -35,9 +35,9 @@ related_instruments: []
 related_persons:
   - "[[Victor Cousin]]"
 related_facts:
-  - "[[Top Institute for Evidence-Based Education Research]]"
-  - "[[Prussian Draft Education Law of 1819]]"
   - "[[Report on the State of Public Instruction in Prussia]]"
+  - "[[Prussian Draft Education Law of 1819]]"
+  - "[[Top Institute for Evidence-Based Education Research]]"
 related_arguments:
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
 confidence: high
@@ -76,7 +76,7 @@ updated: 2026-09-06
 >   强制全法逾三万个市镇必须独立开设或联合设立初级初等小学（école primaire élémentaire），由市镇财政税收常态维持；对赤贫家庭适龄学童实行强制全免学费保障，打破天主教慈善救济与宗派势力对初等教育的垄断。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, p. 29; Halls, 1965, p. 20)]]
 > - **省立初等师范学校强制设立与国家最低年薪保障（Compulsory Normal Schools and State Salaries）**
 >   规定全法各省必须独立创办（或跨省合设）一所初等师范学校（école normale primaire），统一师资专业培养；执教人员须持有能力证书（*brevet de capacité*）与品行证明（*certificat de moralité*）；国家确立教师法定最低年薪（最低 200 法郎加免费居所）并由中央财政兜底，彻底终结游方兼差教工充任教席的混乱状态。（p. 29; Bowen, 1981:315）
-> - **初等教育垂直双轨分流与宗教道德轴心（Vertical Two-[[Top Institute for Evidence-Based Education Research|TIER]] Track and Moral Core）**
+> - **初等教育[[Dual School System|垂直双轨分流]]与宗教道德轴心（Vertical Two-[[Top Institute for Evidence-Based Education Research|TIER]] Track and Moral Core）**
 >   精准映射普鲁士初等小学（*Elementarschulen*）与市民学校（*Bürgerschulen*）的双轨结构：初级小学面向全体平民子弟传授读写算、法语、度量衡与宗教道德；在超 6,000 人的城镇强制设立高级初等小学（*écoles primaires supérieures*），面向工商业中产阶层传授几何、制图、商业簿记与实用理化；两级学校皆以宗教与道德教学为立德固本轴心。（pp. 28–29）
 > - **普鲁士式分权监察网络与国家最高督导权（Decentralized Oversight and Supreme State Supervision）**
 >   效仿普鲁士建立由市长、教士和地方显贵组成的市镇与区级分权监察委员会；承认天主教及私人办学之“教学自由原则”（*la liberté d’enseignement*），但划定绝对国家主权红线：所有公私立学校一律接受国家教育部皇家专职督学在道德、纪律与学业上的全面监督与行政视察。（pp. 29–30; Brewer, 1971:89）
