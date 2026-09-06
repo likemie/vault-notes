@@ -9,10 +9,10 @@ summary: "俄裔英国比较教育学家，伦敦大学国王学院教授，提�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 0
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 16
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 tags:
   - subject/comparative-education
   - theme/historical-philosophical
@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-06
+updated: 2026-09-07
 ---
 
 # Nicholas Hans

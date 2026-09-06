@@ -9,10 +9,10 @@ aliases:
 summary: "20世纪经典比较教育学用于解释国家教育制度独特性与内在精神的核心构念，后因缺乏经验证据与同义反复解释陷入方法论争议"
 type: concept
 domain: "comparative-education"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 12
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - comparative-education
   - nationalism
@@ -36,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-06
+updated: 2026-09-07
 ---
 
 # National Character in Comparative Education

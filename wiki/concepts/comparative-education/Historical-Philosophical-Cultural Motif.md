@@ -10,10 +10,10 @@ aliases:
 summary: "19世纪末至20世纪中叶主导比较教育学的核心认识论母题，将学科界定为探究历史因果与文化精神的广义人文科学，以民族国家与国民性为解释单元，服务于历史改良主义与自由民主价值"
 type: concept
 domain: "comparative-education"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 26
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - comparative-education
   - historiography
@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-06
+updated: 2026-09-07
 ---
 
 # Historical-Philosophical-Cultural Motif

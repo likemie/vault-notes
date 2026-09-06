@@ -10,9 +10,9 @@ summary: "运用历史因果考证与跨国情境对照解释教育制度起源�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 0
-method_related_level: 0
-method_related_stars: "☆"
+method_related_count: 16
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - qualitative-methods
@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-06
+updated: 2026-09-07
 ---
 
 # Historical-Comparative Method

@@ -8,10 +8,10 @@ summary: "德裔美籍教育哲学家与文化史学家，哈佛大学教授，�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 0
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 14
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
   - subject/comparative-education
   - philosophy-of-education
@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-06
+updated: 2026-09-07
 ---
 
 # Robert Ulich
