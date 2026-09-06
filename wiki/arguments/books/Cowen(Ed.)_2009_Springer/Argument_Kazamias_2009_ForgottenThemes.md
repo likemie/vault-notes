@@ -7,9 +7,9 @@ title: "Argument_Kazamias_2009_ForgottenThemes"
 argument_key: "Argument_Kazamias_2009_ForgottenThemes"
 argument_display_title: "Forgotten Men, Forgotten Themes: The Historical-philosophical-cultural and Liberal Humanist Motif in Comparative Education"
 argument_kind: "book-chapter"
-argument_related_count: 44
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 47
+argument_related_level: 3
+argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
 authors:
   - "[[Andreas Kazamias|Kazamias, A. M.]]"
