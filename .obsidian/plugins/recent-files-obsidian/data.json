@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Marc-Antoine Jullien",
+      "path": "wiki/persons/france/Marc-Antoine Jullien.md"
+    },
+    {
       "basename": "Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings",
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings.md"
     },
     {
-      "basename": "Marc-Antoine Jullien",
-      "path": "wiki/persons/france/Marc-Antoine Jullien.md"
+      "basename": "Enlightenment",
+      "path": "wiki/concepts/educational-philosophy/Enlightenment.md"
     },
     {
       "basename": "Questionnaire",
@@ -195,10 +199,6 @@
     {
       "basename": "AI Hallucination",
       "path": "wiki/concepts/educational-technology/AI Hallucination.md"
-    },
-    {
-      "basename": "Gita Steiner-Khamsi",
-      "path": "wiki/persons/us/Gita Steiner-Khamsi.md"
     }
   ],
   "omittedPaths": [],
