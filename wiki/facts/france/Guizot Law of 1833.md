@@ -11,7 +11,7 @@ subtype: policy
 region: france
 fact_region: "france"
 fact_kind: "policy"
-fact_related_count: 9
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -36,6 +36,8 @@ related_persons:
   - "[[Victor Cousin]]"
 related_facts:
   - "[[Top Institute for Evidence-Based Education Research]]"
+  - "[[Prussian Draft Education Law of 1819]]"
+  - "[[Report on the State of Public Instruction in Prussia]]"
 related_arguments:
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
 confidence: high
@@ -56,7 +58,7 @@ updated: 2026-09-06
 > - **发布时间 / 发布主体** 1833 年 6 月 28 日由法国七月王朝国民议会两院审议通过，由国王路易-菲利普签署颁布；公共教育部部长弗朗索瓦·基佐领衔提交，哲学家兼公共教育最高委员会委员[[Victor Cousin|维克多·库森]]（Victor Cousin）主笔起草。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 27–28; Brewer, 1971, p. 36)]]
 > - **适用地区 / 对象** 法国本土全境逾三万个市镇（communes）、全体适龄初等学童（特别是平民贫困家庭子弟）以及全法初等师范教师候选人。（p. 29; Halls, 1965:20）
 > - **问题背景** 1830 年七月革命后，法国深陷天主教复辟保守派与平民激进共和派的社会撕裂，立宪君主政权面临严重的合法性与秩序危机；此前初等教育极度滞后、文盲率高企，主要被教会慈善与低素质游方兼差教工垄断；国家亟需通过科层化公共教育重建公共领域，促进社会政治整合。（Butts, 1973:301–302; pp. 25–26）
-> - **制度位置与文本源头** 该法案是比较教育史上“外国经验实定法直接转置（Direct Legislative Transplantation）”的欧陆经典典范；法案条文以库森 1831 年《普鲁士公共教育现状报告》为技术蓝本，系统吸纳了普鲁士 1819 年聚芬法案（Süvern Law）草案的核心条款，并以库森“教育权为神圣国家公共资源”的法哲学为立法正当性推论桥梁。（Brewer, 1971:44; pp. 26–29）
+> - **制度位置与文本源头** 该法案是比较教育史上“外国经验实定法直接转置（Direct Legislative Transplantation）”的欧陆经典典范；法案条文以库森 1831 年[[Report on the State of Public Instruction in Prussia|《普鲁士公共教育现状报告》]]为技术蓝本，系统吸纳了[[Prussian Draft Education Law of 1819|普鲁士 1819 年聚芬法案（Süvern Law）草案]]的核心条款，并以库森“教育权为神圣国家公共资源”的法哲学为立法正当性推论桥梁。（Brewer, 1971:44; pp. 26–29）
 
 ---
 
@@ -67,7 +69,7 @@ updated: 2026-09-06
 > [!claim] 政策核心
 > 1833 年基佐法案确立了法国现代国民初等教育的制度基石。它确立世俗中央国家的最高督导主权，强制全法逾三万个市镇设立公立初等学校并对赤贫儿童实行免费入学；强制各省建立初等[[Normal School|师范学校]]并由中央财政兜底设立教师法定最低薪酬；推行初级初等与高级初等的垂直双轨分流；借鉴普鲁士分权管理委员会，在保障皇家督学最高行政视察权的同时，法定承认“教学自由（*la liberté d’enseignement*）”原则。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 28–30)]]
 
-[[Victor Cousin|库森]]在主笔起草过程中，系统吸纳普鲁士聚芬法案条文，确立了支撑法兰西教育机器运转的四大制度支柱：
+[[Victor Cousin|库森]]在主笔起草过程中，系统吸纳[[Prussian Draft Education Law of 1819|普鲁士聚芬法案]]条文，确立了支撑法兰西教育机器运转的四大制度支柱：
 
 > [!policy-design]- 政策设计：吸纳普鲁士经验的四大法定建制
 > - **市镇办学法定义务与贫困儿童全免就读（Communal Obligation and Free Access）**
@@ -94,9 +96,9 @@ updated: 2026-09-06
 
 > [!timeline] 政策时间线
 > - **1806** 普鲁士耶拿战败濒临亡国，统治精英确立以国民教育重振民族精神的国家理性，拉开现代公共教育机器重构序幕。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 24–26)]]
-> - **1819** 普鲁士枢密顾问官聚芬起草划时代的综合教育法案草案（Süvern Law），奠定义务公立学校、市镇维持责任与师范建制的制度原型。
+> - **1819** 普鲁士枢密顾问官聚芬起草划时代的综合教育法案草案（[[Prussian Draft Education Law of 1819|Süvern Law]]），奠定义务公立学校、市镇维持责任与师范建制的制度原型。
 > - **1830** 法国爆发七月革命，路易-菲利普建立自由主义立宪君主政体，基佐与[[Victor Cousin|库森]]进入政府决策中枢。
-> - **1831** 库森受命作为官方正式外交使节赴德意志考察，发表《普鲁士公共教育现状报告》，建议将聚芬法案作为法国立法蓝本。（Brewer, 1971:44; pp. 26–28）
+> - **1831** 库森受命作为官方正式外交使节赴德意志考察，发表[[Report on the State of Public Instruction in Prussia|《普鲁士公共教育现状报告》]]，建议将[[Prussian Draft Education Law of 1819|聚芬法案]]作为法国立法蓝本。（Brewer, 1971:44; pp. 26–28）
 > - **1833** 基佐与库森合作完成法案起草，国民议会审议通过《初等教育法》（基佐法案），正式确立国民教育法定建制。
 > - **1833–1840** 法案在全法强力实施，公立小学数量与[[Normal School|师范学校]]出现历史性激增。
 > - **1880年代** 第三共和国茹尔·费里（Jules Ferry）法案颁布，承接基佐法案建构的学校与师资物理网络，最终完成初等教育的彻底免费、完全世俗与强制普及。
@@ -211,7 +213,7 @@ updated: 2026-09-06
 
 > [!warning] 适用局限与历史未竟
 > - **未确立普遍免费原则** 法案仅保障了赤贫贫困儿童（poor indigent families）全免学费，普通平民家庭仍需承担微额学费（rétribution scolaire），导致经济困难学童中辍率依然存在。
-> - **未推行普遍法定强制就学** 法案强制地方市镇开设学校，但未对家长设立强制送学上门的法律责任（普鲁士聚芬法案中的 compulsory attendance 在基佐法案中被弱化），全面普及义务教育直至 1880 年代费里法案才最终达成。
+> - **未推行普遍法定强制就学** 法案强制地方市镇开设学校，但未对家长设立强制送学上门的法律责任（[[Prussian Draft Education Law of 1819|普鲁士聚芬法案]]中的 compulsory attendance 在基佐法案中被弱化），全面普及义务教育直至 1880 年代费里法案才最终达成。
 
 ---
 
@@ -227,4 +229,4 @@ updated: 2026-09-06
 > | [[Educational Meliorism]] | 概念 | 展现了国家行政决策精英如何通过公立教育立法践行政治治理与社会秩序的改良主义。 |
 > | [[Auslandspadagogik]] | 概念 | [[Victor Cousin\|库森]] 1831 年普鲁士考察报告作为外国教育学[[Document\|文献]]，直接促成了该法案的诞生。 |
 > | [[Victor Cousin]] | 人物 | 作为核心理论家和起草人，以其国家公共资源法哲学主导将普鲁士经验写入该法案。 |
-> | [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] | 论证 | 提供基佐法案吸收聚芬法案的技术条款、四大法定建制与大资产阶级统治辩护的系统文本证据。 |
+> | [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] | 论证 | 提供基佐法案吸收[[Prussian Draft Education Law of 1819|聚芬法案]]的技术条款、四大法定建制与大资产阶级统治辩护的系统文本证据。 |
