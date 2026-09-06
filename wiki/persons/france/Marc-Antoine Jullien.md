@@ -84,7 +84,7 @@ updated: 2026-09-06
 
 > [!timeline] 生平与职涯
 > - **1775** 出生于巴黎受过良好古典人文学科[[Bildung|教养]]的知识阶层家庭，与美洲独立战争爆发同年。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 11, 19)]]
-> - **1789** 作为巴黎中学生亲历攻占巴士底狱，深受启蒙理性思潮激励。
+> - **1789** 作为巴黎中学生亲历攻占巴士底狱，深受[[Enlightenment|启蒙理性]]思潮激励。
 > - **1792–1794** 青年时代迅速激进化，加入雅各宾俱乐部并出任国民公会特派战地记者，深度卷入罗伯斯庇尔（Maximilien Robespierre）政权的恐怖统治，将国民教育视作政治暴力革命的附庸工具。（Palmer, 1993:ix, 154）
 > - **1798–1801** 作为拿破仑·波拿巴（Napoleon Bonaparte）远征埃及军团的战争专员前往北非；亲历军阀专制残暴、政治清洗与帝国侵略战争后，对政治暴力产生深刻幻灭，随之游历英格兰、苏格兰与欧洲大陆。（Palmer, 1993:ix）
 > - **1805–1810** 思想发生根本转向，投身教育与社会改良研究；1808 年出版《教育总论》；1810 年实地考察瑞士伊弗东（Yverdon）[[Johann Heinrich Pestalozzi|裴斯泰洛齐]]（J. H. Pestalozzi）学校与霍夫维尔费伦伯格（P. E. Fellenberg）学校，奠定以儿童为中心的自然主义与人道主义教育哲学；同年致信美国前总统杰斐逊（Thomas Jefferson）。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 12, 19–20)]]
@@ -97,7 +97,7 @@ updated: 2026-09-06
 ## 主要著作与思想发展
 
 > [!thought-timeline] 思想发展
-> - **1789–1808 — 从雅各宾暴力工具论向启蒙教育预防论的根本转向** 亲历大革命恐怖统治与第一帝国战争动荡，从政治暴力幻想中抽离，将政治热忱转移至将公共教育确立为预防流血革命、促进社会理性进化的替代性途径。
+> - **1789–1808 — 从雅各宾暴力工具论向[[Enlightenment|启蒙教育预防论]]的根本转向** 亲历大革命恐怖统治与第一帝国战争动荡，从政治暴力幻想中抽离，将政治热忱转移至将公共教育确立为预防流血革命、促进社会理性进化的替代性途径。
 >   - **代表著作** 《关于教育的普遍论文》（*Essai général d'éducation*, 1808）、[[Esquisse d'un ouvrage sur l'éducation comparée|《关于比较教育的一项著作的计划与初步观点》（*Esquisse*, 1817）]]。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 11, 20)]]
 >   - **关键概念／方法** [[Educational Meliorism|教育改良主义]]、教育预防论、[[Faculty Psychology|心灵官能]]自主展开。
 >   - **阶段转向** 彻底走出革命专政阴影，将教育从阶级暴力夺权的从属工具，升格为革命的替代品与防止暴乱重演的心灵防线。
@@ -187,11 +187,11 @@ updated: 2026-09-06
 
 > [!debates] 学术争议
 >
-> > [!axis] 现代[[Value Neutrality|价值中立]]实证论 vs 启蒙欧陆人文科学[[Paradigm|范式]]
+> > [!axis] 现代[[Value Neutrality|价值中立]]实证论 vs [[Enlightenment|启蒙]]欧陆人文科学[[Paradigm|范式]]
 > > 20 世纪下半叶科学[[Positivism|实证主义]]学者批评朱利安的[[Questionnaire|问卷]]过度冗长、复杂，且充斥着强烈的主观道德预设和诱导性提问，未能实现真正的价值中立与客观经验测量。围绕这一批评，学界形成了两种根本对立的[[Epistemology|认识论]]评价视角：[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 16–18)]]
 > >
 > > - **Harold Noah & Max Eckstein (1969)** 认为朱利安对教育正当目标的预先[[Hypothesis|假设]]严重影响了其提问方式，在宗教和道德题项中进行价值诱导，带有浓厚的理念宣传动机而非纯粹客观归纳。（pp. 16–17）
-> > - **Pella Kaloyannaki & Andreas Kazamias (2009) / R. R. Palmer (1993)** 指出实证派批判陷入了辉格史的时代倒错；朱利安将科学界定为人类心灵的一切理性活动，并将其置于关涉心灵与道德的二级精神科学位置，经验事实分类本就全面服从于服务全人道德[[Bildung|教化]]与预防流血暴乱的启蒙伦理规范。（pp. 17–18）
+> > - **Pella Kaloyannaki & Andreas Kazamias (2009) / R. R. Palmer (1993)** 指出实证派批判陷入了辉格史的时代倒错；朱利安将科学界定为人类心灵的一切理性活动，并将其置于关涉心灵与道德的二级精神科学位置，经验事实分类本就全面服从于服务全人道德[[Bildung|教化]]与预防流血暴乱的[[Enlightenment|启蒙伦理规范]]。（pp. 17–18）
 
 > [!critique]- 批评索引
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] — 详细记录了 20 世纪行为实证学派对朱利安问卷先验偏见、价值诱导设问与官能心理学教条垄断的学术批判。
@@ -210,8 +210,9 @@ updated: 2026-09-06
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Revue encyclopédique]] | 历史事件 | 朱利安创办并主编的百科期刊，践行科学统一与世界公民理念的国际教育重要载体。 |
-| [[Proto-Scientific Motif]] | 概念 | 朱利安开创的奠基性母题，将经验图表归纳与崇高人道主义关怀高度熔铸。 |
-| [[Educational Meliorism]] | 概念 | 赋予比较教育以改善人类社会秩序与个体道德的整全改良主义旨趣。 |
+> | [[Enlightenment]] | 概念 | 启蒙自由主义学者，将启蒙理性转化为比较教育准科学事实图表与世界和平蓝图。 |
+> | [[Proto-Scientific Motif]] | 概念 | 朱利安开创的奠基性母题，将经验图表归纳与崇高人道主义关怀高度熔铸。 |
+> | [[Educational Meliorism]] | 概念 | 赋予比较教育以改善人类社会秩序与个体道德的整全改良主义旨趣。 |
 > | [[Faculty Psychology]] | 概念 | 在 1817 年《计划》问卷中以拉罗米吉埃官能学说为准绳设计跨国智育调查题项。 |
 > | [[Policy Borrowing]] | 概念 | 开启基于跨国经验事实比较进行选择性制度借用与改良的现代话语传统。 |
 > | [[Comparative History of Comparative Education]] | 概念 | 作为学科起源神话与[[Positivism\|实证主义]][[Paradigm\|范式]]建构的关键历史分析对象。 |

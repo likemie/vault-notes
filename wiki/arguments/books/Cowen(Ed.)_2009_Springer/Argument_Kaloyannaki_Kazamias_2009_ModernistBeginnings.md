@@ -118,7 +118,7 @@ updated: 2026-09-06
 > 比较教育学（Comparative Education, CE）在 19 世纪前中期的现代主义起源具有何种[[Epistemology|认识论]]根基、方法论程序与意识形态诉求？作为公认学科始祖的[[Marc-Antoine Jullien|马克-安托万·朱利安]]（Marc-Antoine Jullien de Paris）所倡导的准实证科学（science positive），与同时代活跃于大西洋两岸的政策制定者（如法国的[[Victor Cousin|维克多·库森]]（Victor Cousin）与美国的[[Horace Mann|霍勒斯·曼]]（Horace Mann）等）的[[Auslandspadagogik|外国教育学]]（Auslandspädagogik）考察话语之间，存在怎样的内在承继与结构性裂痕？贯穿于所有异域教育探究背后的[[Educational Meliorism|教育改良主义]]（Educational Meliorism），如何将跨国事实探究分化为以国家主权为核心的制度移植（transplantation）与以抗衡国内政治阻力为目的的合法化依据（legitimating rationales）双重机制？（pp.11–13, 24–25, 33–34）
 
 > [!claim] 核心主张
-> 比较教育学的现代主义发端由启蒙后现代性[[Paradigm|范式]]所催生的两种核心母题共同塑造：
+> 比较教育学的现代主义发端由后[[Enlightenment|启蒙]]现代性[[Paradigm|范式]]所催生的两种核心母题共同塑造：
 > 1. **[[Proto-Scientific Motif|准科学人道主义与改良母题]]** 由朱利安确立，运用比较解剖学（comparative anatomy）类比、标准化[[Questionnaire|问卷]]与跨国比较观察表，试图将教育探究建构为欧洲大陆传统意义上的整全性人文科学（sciences humaines），其经验归纳从属于全人体智德协调发展、预防流血革命与促进世界和平的世界主义人道工程；
 > 2. **政策导向的行政改良主义母题** 由英美法教育决策者确立，在欧洲体现为库森基于普鲁士考察将外部成功经验直接制度化为法国[[Guizot Law of 1833|1833年基佐法案]]（Guizot Law of 1833）的选择性借用，在北美则体现为霍勒斯·曼等人将欧洲初等公立学校的卓越实绩转化为**击败国内保守势力、论证自由共和政体必须普及公共教育的强大合法化依据**。（pp.11–13, 24–30, 33–34）
 
@@ -138,12 +138,12 @@ updated: 2026-09-06
 > | **[[Auslandspadagogik\|外国教育学]]**<br>Auslandspädagogik | 德语区指称对异域教育开展描述性、报道性与编年史式考察的知识形态，界定早期比较教育学者在缺乏因果解释模型时的经验积累特征。（pp.24–25, 32–33） |
 > | **[[Policy Borrowing\|政策借用]]**<br>Policy Borrowing / Educational Borrowing | 解释跨国教育流动机制，区分将外国法案直接吸纳为实定法的制度移植，以及将外部声望作为解决国内争议的合法化依据。（pp.23–24, 30, 34） |
 > | **[[Comparative History of Comparative Education\|比较教育学的比较史]]**<br>Comparative History of Comparative Education | 批判性学科史编纂纲领，破除线性起源神话，将先驱思想置于启蒙现代性、民族国家建构与大西洋[[Geopolitics of Knowledge\|知识地缘政治]]脉络中展开历史还原。（pp.11–13） |
-> | **启蒙现代性范式**<br>Enlightenment Paradigm of Modernity | 涵盖[[Rationalism in International Relations\|理性主义]]、经验主义、[[Scientific Method\|科学方法]]、世俗化、普遍主义与民族国家建构，构成 19 世纪公共教育改革与比较研究的母体土壤。（pp.12, 24–25） |
+> | **[[Enlightenment\|启蒙现代性范式]]**<br>Enlightenment Paradigm of Modernity | 涵盖[[Rationalism in International Relations\|理性主义]]、经验主义、[[Scientific Method\|科学方法]]、世俗化、普遍主义与民族国家建构，构成 19 世纪公共教育改革与比较研究的母体土壤。（pp.12, 24–25） |
 > | **[[Faculty Psychology\|心灵官能心理学]]与[[General Education\|普通文化]]**<br>Faculty Psychology & Culture Générale | 19 世纪主导心理学说（主张发展注意、比较、推理三大心灵官能），连接了古典人文学科与现代科学的课程整合诉求。（pp.16–17, 30） |
 
 > [!warrant]- 理论如何支撑论证
 > 这一组理论工具构成了从[[Epistemology|认识论]]预设到政治行动策略的严密推理桥梁：
-> 1. 启蒙现代性[[Paradigm|范式]]与改良主义解释了[[Marc-Antoine Jullien|朱利安]]、[[Victor Cousin|库森]]与[[Horace Mann|霍勒斯·曼]]等不同国别学者何以不约而同地将教育确立为社会大厦的基石，并试图借助跨国经验来救治各国的制度缺陷；
+> 1. [[Enlightenment|启蒙现代性范式]]与改良主义解释了[[Marc-Antoine Jullien|朱利安]]、[[Victor Cousin|库森]]与[[Horace Mann|霍勒斯·曼]]等不同国别学者何以不约而同地将教育确立为社会大厦的基石，并试图借助跨国经验来救治各国的制度缺陷；
 > 2. [[Faculty Psychology|心灵官能心理学]]与欧洲大陆人文科学概念，合理解释了朱利安[[Questionnaire|问卷]]中看似充满道德说教与价值偏见的题项，破除了现代[[Positivism|实证主义]]对早期[[Document|文献]]的脱节指责；
 > 3. 外国教育学与政策借用框架，精准切分了欧洲大陆中央集权行政体制下的法案移植逻辑，与美洲联邦分权共和政体下地方改革者动用外部证据平抑本土争议的话语合法化机制。（pp.17–18, 28–30, 33–34）
 
@@ -202,7 +202,7 @@ updated: 2026-09-06
 ### 论证步骤一　朱利安将比较教育奠基为服从伦理规范的准实证人文科学，以全人教化预防暴力革命并构建和平秩序
 
 > [!claim] 步骤一核心主张
-> [[Marc-Antoine Jullien|朱利安]]将比较教育界定为一门类似于比较解剖学的准实证科学，首创标准化[[Questionnaire|问卷]]与跨国比较观察表以推进教育事实分类；这一早期构想植根于启蒙自由主义与欧洲大陆人文科学传统，旨在通过体智德协调发展实现全人重生、预防流血革命并促进国际和平。（pp.11–24）
+> [[Marc-Antoine Jullien|朱利安]]将比较教育界定为一门类似于比较解剖学的准实证科学，首创标准化[[Questionnaire|问卷]]与跨国比较观察表以推进教育事实分类；这一早期构想植根于[[Enlightenment|启蒙自由主义]]与欧洲大陆人文科学传统，旨在通过体智德协调发展实现全人重生、预防流血革命并促进国际和平。（pp.11–24）
 
 #### 1. 朱利安借比较解剖学类比构建事实分类，设计覆盖六大领域的跨国教育观察指标体系
 
@@ -252,14 +252,14 @@ updated: 2026-09-06
 > - **单一官能心理学教条垄断** 在心智训练题项中，完全以法国哲学家皮埃尔·拉罗米吉埃（Pierre Laromiguière）在《哲学课》中确立的三官能学说为绝对真理，强行要求各地答卷者汇报如何按顺序训练注意力（首要官能）、比较力与推理力。（pp.16–17; Fraser, 1964:64）
 > - **实证派的定性：调查退化为理念宣教** 实证派据此断言，朱利安以问卷调查推销[[Jean-Jacques Rousseau|卢梭]]与[[Johann Heinrich Pestalozzi|裴斯泰洛齐]]以儿童为中心的人道主义主张，经验调查实际沦为教育理念的宣教工具。（Noah & Eckstein, 1969:16; [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias, 2009, p.17]]）
 
-实证派的严苛批判实质上陷入了辉格史的时代倒错：它强行以 20 世纪逻辑实证主义公理（命题检验、[[Variable|变量]]回归、价值中立）裁量 19 世纪初启蒙现代性的知识构想。思想史考掘揭示出朱利安的准实证科学深深植根于欧陆人文科学传统：
+实证派的严苛批判实质上陷入了辉格史的时代倒错：它强行以 20 世纪逻辑实证主义公理（命题检验、[[Variable|变量]]回归、价值中立）裁量 19 世纪初[[Enlightenment|启蒙现代性]]的知识构想。思想史考掘揭示出朱利安的准实证科学深深植根于欧陆人文科学传统：
 
 > [!theory-stance] 欧陆人文科学（Sciences Humaines）传统对实证指责的认识论反驳
 > - **科学范畴的历史情境性** 实证派无视“科学”概念的历史演化；罗伯特·帕尔默（R. R. Palmer, 1993）考证，朱利安将科学宽泛界定为人类心灵一切形式的理性精神活动（*toute activité de l'esprit*），涵盖道德哲学、政治经济与人文艺术。（pp.17–18）
 > - **二级精神科学的知识定位** 朱利安 1819 年《人类知识总表》确立严格二元序列：一级科学研究自然物理与实用技术，二级科学研究人类心灵、道德与理智，教育学与历史、道德学并列归入二级精神科学。（Palmer, 1993:176–178; [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias, 2009, pp.17–18]]）
 > - **事实服务于伦理规范** 朱利安通过经验归纳与事实分类破除神学玄思，其技术化调查工具全面服从于服务全人道德教化与社会改良的启蒙伦理规范。（pp.12, 17）
 
-> [!tension-table] 20 世纪行为主义实证论 vs 朱利安启蒙人文科学的认识论对质
+> [!tension-table] 20 世纪行为主义实证论 vs 朱利安[[Enlightenment|启蒙人文科学]]的认识论对质
 > | 认识论维度 | 20 世纪科学实证派（Noah & Eckstein 等） | 朱利安的准实证科学（欧陆人文科学[[Paradigm\|范式]]） |
 > |------------|----------------------------------------|----------------------------------------|
 > | **科学范畴** | 严格限定为可经验证实或[[Falsification\|证伪]]的陈述命题集 | 广义的心灵理性精神活动，涵盖道德哲学、政治经济与人文艺术 |
@@ -286,7 +286,7 @@ updated: 2026-09-06
 >
 > - **波旁复辟时期的宪政自由主义与教育预防论确立（1815–1848）**
 >
->   在波旁复辟时期的保守政治气候下，朱利安成为直言不讳的宪政自由派（outspoken liberal），受到让-雅克·卢梭（Jean-Jacques Rousseau）自由天性学说与伊曼努尔·[[Immanuel Kant|康德]]（Immanuel Kant）关于“启蒙即勇敢运用理性、摆脱不成熟状态”哲学的深刻启迪。1810 年，朱利安亲赴瑞士伊弗东（Yverdon）实地考察[[Johann Heinrich Pestalozzi|裴斯泰洛齐]]（Johann Heinrich Pestalozzi）的实验学校，深受其自然主义与人道主义教育原则触动，认识到儿童具有天赋的心理官能，教育的本质在于顺应天性促进体、智、德自主和谐发展，教师作为启迪受教者自主发展的外部助产士。这一认识论深化确立了其教育功能论的划时代转向：**教育作为革命的理性替代品，承担起防止人类社会再次陷入流血暴乱与专制循环的根本防线功能（a substitute for revolution, or as a means by which revolution could be prevented）**。（Palmer, 1993:151, 163–164; [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias, 2009, pp.19–20]]）
+>   在波旁复辟时期的保守政治气候下，朱利安成为直言不讳的宪政自由派（outspoken liberal），受到让-雅克·卢梭（Jean-Jacques Rousseau）自由天性学说与伊曼努尔·[[Immanuel Kant|康德]]（Immanuel Kant）关于“[[Enlightenment|启蒙]]即勇敢运用理性、摆脱不成熟状态”哲学的深刻启迪。1810 年，朱利安亲赴瑞士伊弗东（Yverdon）实地考察[[Johann Heinrich Pestalozzi|裴斯泰洛齐]]（Johann Heinrich Pestalozzi）的实验学校，深受其自然主义与人道主义教育原则触动，认识到儿童具有天赋的心理官能，教育的本质在于顺应天性促进体、智、德自主和谐发展，教师作为启迪受教者自主发展的外部助产士。这一认识论深化确立了其教育功能论的划时代转向：**教育作为革命的理性替代品，承担起防止人类社会再次陷入流血暴乱与专制循环的根本防线功能（a substitute for revolution, or as a means by which revolution could be prevented）**。（Palmer, 1993:151, 163–164; [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias, 2009, pp.19–20]]）
 
 从革命暴力工具到理性预防机制的根本转向，使朱利安清醒认识到：单一民族国家的孤立改良极易被复辟保守派或极端宗派利益所掐断。为了赋予教育预防论以坚实的制度支撑，他将视野拓展至全欧乃至全球治理，系统构想了以跨国比较促进[[Perpetual Peace|永久和平]]的行动蓝图：
 
@@ -514,7 +514,7 @@ updated: 2026-09-06
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **现代主义发端由准科学人道主义与行政[[Educational Meliorism|改良主义]]双重母题共同塑造** 比较教育学的现代主义发端由启蒙后现代性催生的两大母题共同奠基：[[Marc-Antoine Jullien|朱利安]]开创的[[Proto-Scientific Motif|准科学人道主义母题]]，以及欧美教育决策者推进的政策导向行政改良主义母题，二者合力构筑了学科早期的[[Epistemology|认识论]]骨架。（pp.11–13, 33–34）
+> 1. **现代主义发端由准科学人道主义与行政[[Educational Meliorism|改良主义]]双重母题共同塑造** 比较教育学的现代主义发端由后[[Enlightenment|启蒙]]现代性催生的两大母题共同奠基：[[Marc-Antoine Jullien|朱利安]]开创的[[Proto-Scientific Motif|准科学人道主义母题]]，以及欧美教育决策者推进的政策导向行政改良主义母题，二者合力构筑了学科早期的[[Epistemology|认识论]]骨架。（pp.11–13, 33–34）
 > 2. **朱利安准实证科学构想本质上是服从全人[[Bildung|教化]]与世界和平的欧陆人文精神科学** 朱利安以比较解剖学为类比的分析图表与标准化[[Questionnaire|问卷]]设计，本质上属于欧陆传统意义上的人文科学；其经验事实调查统摄于体智德协调发展、全人道德重生、预防流血革命与国际和平的世界主义工程，绝非 20 世纪[[Value Neutrality|价值无涉]]的技术官僚实证论。（pp.12–14, 16–22）
 > 3. **跨大西洋借用机制发生根本分化：欧陆侧重国家立法移植，北美转向政治合法化依据** 欧美改革者在对待外部经验时呈现出深刻的机制分化：以[[Victor Cousin|库森]]为代表的欧洲语境将普鲁士考察直接转化为国家实定法（1833 年基佐法案）中的具体制度规程移植；而以[[Horace Mann|霍勒斯·曼]]为代表的北美语境则开创了**将外国先进经验作为国内争议政策的合法化依据**的全新路径，借外部实绩击败国内保守势力，奠定共和政体公立学校基石。（pp.28–30, 33–34）
 > 4. **教育改良主义作为统摄性母题，确立了兼具事实经验求真与社会伦理关怀的比较认识论问题域** 改良主义（源自拉丁语 *melior*，即以改善为探究宗旨）是统摄 19 世纪所有外国教育探究的统治性母题；它将跨国事实探究与国家治理危机、共和政体存续及公民权利紧密绑定，确立了比较教育学从发端起便兼具事实求真与规范价值关怀的比较认识论问题域（comparative epistemic problematique）。（pp.33–34）
