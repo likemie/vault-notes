@@ -1,0 +1,586 @@
+================================================================================
+Chapter 05: The Scientific Paradigm in Comparative Education
+Author(s): Dimitris Mattheou
+Handbook: International Handbook of Comparative Education (2009)
+Editors: Robert Cowen and Andreas M. Kazamias (Section Editor: Elaine Unterhalter)
+Section: Section 1: The Creation and Re-creation of a Field
+Book Pages: pp. 59–71
+PDF Pages: pp. 83–95 (in raw/比较教育学国际手册2009Cowen.pdf)
+================================================================================
+
+--- [PDF Page 83 / Book Page 59] ---
+
+5
+THE SCIENTIFIC PARADIGM IN COMPARATIVE
+EDUCATION
+Dimitris Mattheou
+
+The Changing Educational Context and the Quest
+for a New Paradigm in Comparative Education
+Comparative Education as an academic field of study was born in the aftermath of
+the establishment of state systems of education; in an era when the humanities dominated the school curriculum in Europe, when Bildung in Germany, Culture Générale
+in France, Liberal Education in England or Klassiki Paedeia in Greece had basically
+the same ultimate aim; the preparation of intellectually, morally and aesthetically
+cultivated individuals, allegedly capable and willing to provide good service to their
+country and to mankind.
+Natural sciences, which had only recently (by the second half of the nineteenth
+century) managed to find a place in the curriculum, were still struggling to prove themselves in terms of their contribution to the development of human faculties, such as
+discipline, accurate observation, critical analysis, etc. (McLean, 1995; Lawton, 1976;
+Whitfield, 1971; Mattheou, 2006). Science as a form of knowledge had undoubtedly
+won a name for itself (Davies, 1997: 790–794); its achievements could hardly be overlooked. On the contrary, there was a ‘general conviction that scientific methods could
+and should be applied to the study of human as well as natural phenomena’ (Davies,
+1997: 794).
+And it was in this intellectual climate that Comte, one of the fathers of modern
+sociology, introduced scientific positivism in the study of society. Yet, despite these
+developments and the thorough criticism of people like Herbert Spencer, many intellectuals, educators, educational authorities and members of the leisure class remained
+firm in their point of view; for all its weaknesses, drawbacks and failures humanistic
+education embedded in the classics continued, to their way of thinking, to constitute
+the cornerstone of education, the complete system of timeless values and eternal verities (cf. the views of the 1864 Clarendon Commission in England, Matthew Arnold,
+1869, Wilhelm von Humboldt, 1961, etc.).
+This humanistic spirit prevailing in education at that time had certainly exerted
+an influence on the nascent cognitive domain of Comparative Education. The founding fathers of the field, among them M. Sadler, I. Kandel and later on N. Hans and
+R. Ulich, approached the study of foreign systems of education with a melioristic,
+holistic and idealistic outlook (Kazamias & Schwartz, 1977; Noah & Eckstein, 1969).
+59
+R. Cowen and A. M. Kazamias (eds.), International Handbook of Comparative Education, 59–71.
+© Springer Science + Business Media B.V. 2009
+
+--- [PDF Page 84 / Book Page 60] ---
+
+60
+
+Mattheou
+
+Convinced that ideas and ideals fundamentally influence men’s actions, they looked
+for ‘the intangible, impalpable spiritual and cultural forces which underlie an educational system’ (Kandel, 1955: xix) and which, therefore, potentially contribute to the
+betterment of society. As genuine humanists they turned to history and to philosophy
+for help. Moreover, the international circumstances during the first half of the twentieth century, especially during the mid-war years, favoured this attempt: ‘at a time when
+economic depression, rising nationalism, the emergence of modern authoritarian ideologies [threatened peace]… the problems of the democracies preempted the attention
+of educators all over the world’ (Noah & Eckstein, 1969: 50) and consequently shaped
+the priorities of comparative educators. They looked into the ‘forgotten struggles and
+difficulties’ of the past and into ‘battles long ago’ (Sadler, 1964), into the educative
+influence of religious and secular factors – democracy, humanism, nationalism and
+socialism (Hans, 1958) – in an attempt to understand the dynamics of educational
+development that would in turn allow policy makers, if they so wished, to improve
+human condition.
+By the end of the Second World War, circumstances had changed. Faith in humanistic studies had diminished: not only had educated elites failed to prevent atrocities,
+but on several occasions they had played a leading role in the abhorrent war drama:
+‘militarism, fascism, and communism found their adherents not only in the manipulated masses of the most afflicted nations but amongst Europe’s most educated elites
+and its most democratic countries’ (Davies, 1997: 899). The post-war ‘Dark Continent’
+was in search of ‘blue-prints for the golden age’ (Mazower, 1998: 185). Education for
+economic development and democratisation – presumably a key element for individual
+and social improvement – became a central theme of the educational discourse of the
+time (Adams & Farrell, 1967; Sobel, 1982). Policy making and successful reform had
+consequently come to the forefront, and both politicians and academics were trying to
+find ways to respond to the new demands.
+In comparative education, a new generation of comparativists felt increasingly
+unhappy with the historical approach. They maintained that the prevailing historical
+approach was too macroscopic in its perspective, too ambitious in its orientation,
+too qualitative in its approach, heavily melioristic and in any case irrelevant to the
+pressing needs of education which at the time had to cope with the problems posed
+by the pursuit of reform (Noah & Eckstein, 1969.; Kazamias, 1961; Mattheou, 1997;
+Holmes, 1965). The climate for a change of paradigm in the field was thus quite
+favourable.
+Impressive developments in the natural and the social sciences were already pointing to a most promising paradigmatic alternative. Actually, the ‘growing respect for
+science … affected all branches of study. The social sciences [in particular]… exerted
+a profound effect on all the older disciplines’ (Davies, 1997: 1076). For instance, in
+sociology and economics the refinement of measurement techniques and of the statistical processing of data had generated great hopes that objectivity in the study of
+social phenomena could be achieved and that the laws governing their course could be
+expressed in a mathematical form (Kerlinger, 1965; Cohen & Nagel, 1934). For many
+comparativists the strengths of the scientific method, its explanatory and prognostic
+power, its accurate observational techniques, its systematic and thorough empirical
+
+--- [PDF Page 85 / Book Page 61] ---
+
+The Scientific Paradigm in Comparative Education
+
+61
+
+testing of hypotheses, its precise measurements, and its probing and fact-finding
+approach could hardly be ignored (Noah & Eckstein, 1969; Anderson, 1961; Holmes,
+1965). Equally confident and optimistic for the strengths of the scientific method,
+a host of technocrats, technical advisors, bureaucrats and politicians were involved
+in the scientific planning of reform, believing that this was the only safe means to
+overcome socio-economic difficulties (cf. the work of the International Institute for
+Educational Planning).
+
+The Scientific Paradigm: The Question of Aims and Laws
+In this context of optimism and wishful thinking it is not strange that by the late 1950s
+comparative education was in search of a new ‘scientific’ identity. A fundamental
+prerequisite for the field to acquire scientific status was, according to the critics, the
+abolition of impressionism, subjectivity, speculation, intuition and predisposition,
+generically linked, with its qualitative and value-laden character, as this had been nurtured by the historical and philosophical work of its forefathers (Templeton, 1958;
+Epperson & Schmuck, 1963; Clayton, 1972). Yet, transformation was far from easy.
+Firstly, established schools of thought or paradigms, according to Kuhn (1970:7), never
+die out silently and voluntarily, as their exponents are ready to defend them. Secondly,
+consensus as to what actually constitutes science was far from being unanimous, especially in terms of the study of society. Hence, comparative education literature during
+the late 1950s and mainly during the 1960s was intensely occupied with questions of
+aims, content, theory and practice and most significantly of methodology in comparative education.
+One way to follow these debates is to make use of a classificatory system based on
+the elements that constitute the Kuhnian paradigm, namely goals and subject matter,
+theory and exemplary practice, research rules and standards, application and instrumentation (Kuhn, 1970: 10 ff).
+In what follows the discussion focuses on the question of ‘aims and laws’ – the latter
+being also an essential part of the ‘subject matter’ and by the same token closely linked
+with ‘theory’ – and on ‘epistemological and methodological issues’ pervading both
+‘research rules and standards’ and ‘application and instrumentation’.
+A significant paradigmatic shift concerned the aims of Comparative Education. In
+the new paradigm the field retained its ambitious aim to understand and to explain
+the workings of education and its relationship with the broader social context. Yet
+understanding and explanation should not be based any longer on the intuitive, cultivated and sensitive mind of the comparativist but on a hard-core scientific theory,
+comprising laws and verifiable quantitative hypotheses that would stand exhaustive
+empirical test.
+The position of Bereday, who served as a bridge between the historical and the
+scientific paradigm, is characteristic in this respect. While his first three steps aimed
+basically at understanding and explaining specific educational phenomena, his ultimate
+aim remained total analysis; an exercise, i.e. which ‘deals with the imminent general
+forces upon which all systems are built’ and which lead to ‘the formulation of ‘laws’ or
+
+--- [PDF Page 86 / Book Page 62] ---
+
+62
+
+Mattheou
+
+‘typologies’ that permit an international understanding and a definition of the complex
+interrelation between the schools and the people they serve’ (Bereday, 1964: 23–25).
+Establishing laws, as the mature sciences did and as some social sciences – especially
+economics – aspired to do with significant probability of success, became a dominant
+methodological discourse for comparative education.
+Agreement on the necessity of formulating laws did not however imply consensus
+as to the character of these laws. C. A. Anderson, as a sociologist, for example, would
+speak of ‘patterns comprising abstracted social systems, exploring relationships of
+essentially undated and often timeless nature’ (Anderson, 1961: 4), while in the same
+vein Foster would refer to the invariant relationships that exist ‘between educational
+institutions and the institutional matrix in which they function’ (Foster, 1960: 116).
+Although ‘the perennial difficulties of sifting out generalities from the maze of institutional particularities’ were recognized, C. A. Anderson – echoing the optimism and
+perhaps an element of positivism inherent in functionalism, a dominant theory in sociology at the time – appeared to be certain that the ‘continued pursuit of comparative
+education’ in this direction ‘has great promise’ (Anderson, 1977: 415–416). Clearly,
+his confidence as to the scope and purpose of comparative education was based on
+the assumption that such timeless and universal generalisations do exist and can be
+revealed through sociological research, provided that proper use of ever-improving
+research methods and techniques would be made.
+On their part, Harold Noah and Max Eckstein seemed also confident that the ultimate
+aim of comparative education is to provide well-tested and refined generalisations.
+These generalisations were seen as ‘functional relationship(s) between dependent and
+independent variables’ expressed in propositions that preferably take the mathematical form of ‘as x changes so y changes’ (Noah & Eckstein, 1969: 93). Like structural
+functionalists, they too looked for universally valid explanations of how things are and
+how they actually function instead of searching for antecedent causes. Being aware
+however of the difficulties of such a project and of the pitfalls inherent in covariational relationships they were at pains to underline that ‘a statement of a functional
+relationship … need not necessarily refer to causal relationships’, that ‘it may not
+reveal the direction of influence from one factor to another’ and that ‘…the precise
+mechanism by which x causes y may still remain unstated’ (Noah & Eckstein, 1969:
+96). They stressed the need for an unceasing refinement of explanatory propositions,
+every time that comparative evidence would divulge that these propositions constitute
+an ad hoc and a ‘simplistic explanation of the phenomena’ under consideration (Noah
+& Eckstein, 1969: 120). Finally, all these elucidations may explain why they did not
+give the status of ‘laws’ to their universal explanatory propositions.
+This was not the case for Brian Holmes, another prominent adherent of the scientific
+approach in comparative education. Trained originally as a physicist he was imbued
+with the notion that the world, physical as well as social, is governed by laws; that ‘God
+does not play dice’, as Einstein had once said. Consequently, the student of comparative education had to start his work by appreciating the existence of laws governing
+the educational world.
+Following the Popperian critical dualism, Holmes drew however a distinction between
+normative and sociological laws; ‘between the man-enforced normative laws or
+
+--- [PDF Page 87 / Book Page 63] ---
+
+The Scientific Paradigm in Comparative Education
+
+63
+
+conventions and the natural regularities which are beyond his power’. Normative laws
+‘are man-made and can be accepted, rejected or changed by man’ (Holmes, 1981: 77), he
+argues. ‘Representing man’s beliefs, [they] are part of the context in which schools are
+run’, and hence ‘they must be known if we hope to understand how schools function’.
+Accordingly, ‘the establishment of … normative laws for particular nations represents
+… one of the most important of the many tasks a comparative educationist should
+tackle’ (Holmes, 1981: 78). On the other hand, sociological laws, like the laws of physics, ‘are man-made statements’, that ‘apply to the functioning of societal institutions’
+both inside the school system and outside it (Holmes, 1981: 80). They are ‘hypothetical,
+and if they are to be scientific, [they] should be refutable’. Finally, ‘sociological laws
+are not universally valid: they are contingent’, in the sense that, although they constitute
+‘universal or general statement(s)’ they are dependent on ‘the conditions under which
+[they are] to be applied’ (Holmes, 1981: 78).
+Clearly the Holmesian perception of laws that govern education differ in many
+respects from those of his American colleagues (e.g. C. A. Anderson and Noah and
+Eckstein). In the first place, his laws are diversified into two distinct types which
+actually codify and bring together two different intellectual traditions or schools of
+thought: the anthropocentric, expressed through man’s freedom of the will that pervade normative laws, and the structural functional, inherent in the sociological laws.
+Second, sociological laws are contingent and hence they are neither a-historical nor
+unconditionally valid. Prevailing traditions, circumstances and conditions determine
+the validity and the application of these laws. The influence of relativity theory in
+physics is obvious in Holmes’ perception of sociological laws and overtly stated.
+The contingency of sociological laws indicates, among other things, that the aim
+of scientific comparative education is not the ultimate formulation of either a grand
+educational theory based on thoroughly tested hypotheses or of absolute and unconditional laws; in this sense, contingency might even pose the question of comparability
+among substantially different social and educational contexts.
+The role Holmes reserves for comparative education is less ambitious. To his way
+of thinking, comparative education should focus on the study of a specific educational
+problem with the aim to analyse it in context, to understand and to explain it. Through
+contextual analysis the ‘pure’ comparative educationist is expected to formulate refutable hypotheses (i.e. ‘hypotheses on which planned reform in education rests’ (Holmes,
+1981: 78) ), extrapolate from them all rationally anticipated consequences or, in other
+words, proceed to probable predictions as to what the outcomes of policy implementation are likely to be. To the extent that predictions are verified, the problem has been
+solved/explained, the hypothesis has been tested and has provisionally acquired the
+status of sociological law. Impressed by the striking success of relativity theory to predict phenomena that had only much later been empirically established (and explained),
+Holmes inaugurates prediction as the demarcation criterion of science, thus opening
+up a debate on the method of science in comparative education.
+Irrespective of their differences concerning the aim of comparative education as an
+academic field of study, all three versions of the ‘scientific schools of thought’ tend
+to agree on the pragmatic dimensions of the field, on its potential to provide sound
+advice to policy makers. ‘As “pure” scientists’, Holmes argues, ‘we should attempt to
+
+--- [PDF Page 88 / Book Page 64] ---
+
+64
+
+Mattheou
+
+formulate alternative policies to carefully analysed problems and eliminate those we
+think will be less successful in particular countries. As ‘applied’ scientists we should
+be prepared to see how far we can help those responsible for policy to implement
+adopted policies…’ (Holmes, 1981: 54). After all, hypotheses/sociological laws are, to
+Holmes’ way of thinking, identical with education policies.
+‘Although explanation is’, for Noah and Eckstein, ‘the ultimate goal of all scientific
+(and hence comparative) work in education’, they also readily appreciate the practical
+contribution of the field; the help ‘provided to planners trying to improve the effectiveness of educational system’ (Noah & Eckstein, 1969: 187). And of course, many
+comparativists’ involvement in several technical assistance programmes for Third
+World countries (e.g. World Bank Projects, AID Programmes) or in national policymaking committees testify to the truth of their intention to treat comparative education
+as a policy-oriented field of study. This renewed emphasis on policy making on the
+part of scientific comparative education, which clearly runs against the humanitarian
+tradition of the founding fathers’ ambition to appreciate ‘the intangible, impalpable
+spiritual and cultural forces which underlie an educational system’ (Kandel, 1955: xix)
+and to grasp ‘the hidden meaning’ or the ‘real meaning’, or the ‘essence’ of things,
+certainly reflects the developmental priorities of the time, both economic and social.
+This emphasis also reflects faith on the part of political authorities in the effectiveness
+of rational central planning (cf. 5-year plans, in vogue during the 1950s and 1960s in
+many countries) which in turn was encouraged by economists’ and other social scientists’ reassurances that science (basically social sciences) was by then in a position to
+guarantee with a substantial measure of probability the success of the planned, i.e. of
+the desired predicted outcomes of educational policies (cf. Parnes, 1962; Harbison &
+Myers, 1964).
+
+Epistemological and Methodological Issues
+It would not be unreasonable to infer that optimism was to a large extent based on the
+impressive record of success in physical sciences (atomic fission and fusion, transistors, etc.) during the war and after it, and of the remarkable advances in social and
+behavioural sciences as well. As a matter of fact success stories or ‘finished scientific
+achievements as they are recorded in the classics … from which each new scientific
+generation learns to practice its trade’ (Kuhn, 1970: 1) have always contributed to the
+development of an ‘image of science [which is] persuasive and pedagogic’ (Kuhn,
+1970: 1) in the sense that it usually evokes the quest for a ‘more esoteric type of
+research’ which in turn constitutes ‘a sign of maturity in the development of any given
+scientific field’ (Kuhn, 1970: 11). By mid-1950s comparative education seemed to
+have reached this stage. Bereday was among the first to realize it. He insisted that ‘the
+discussion of methods of comparative education is perhaps the most urgent task which
+those who research and teach comparative education must face’ (Bereday, 1957: 13).
+Without rejecting the historical-philosophical approach altogether, he subscribed to
+the circumspect use of the scientific method. He retained ‘a basic concern with the
+concepts and data of the social sciences, especially sociology and political science’
+
+--- [PDF Page 89 / Book Page 65] ---
+
+The Scientific Paradigm in Comparative Education
+
+65
+
+(Noah & Eckstein, 1969: 65). Other comparativists too, like Kazamias, agreed that
+‘comparative education needs to be infected with a more rigorous scientific method’
+(Kazamias, 1961: 96).
+Although unanimous in criticising the traditional historical approach, the new
+generation of comparativists retained substantially different views on fundamental
+epistemological and methodological issues.
+Each provided a different answer to questions like ‘what is science’; ‘should comparative education develop its own characteristic methodology or should it borrow
+from other sciences, and if so, which science should serve as the prototype’; ‘is the
+method of science inductive or deductive’; ‘should it be strictly empirical and quantitative or could it be more theoretical and qualitative’; ‘what should be the role reserved
+for history’?
+Most would agree that comparative education was by definition an interdisciplinary
+field, at least in the sense that its interests were overlapping with those of almost all
+other social sciences, and was hence dependant on their methodologies – comparativists
+were actually ‘shameless borrowers’ of other social scientists’ approaches (Farrell,
+1979). Some, like Edmund King, would even argue that comparative education was
+itself a method of ‘getting at “the truth” of a situation’ (King, 1976: 18) rather than
+an independent field of study.
+Yet, each had his own preferences. According to Bereday, comparative education
+was an interdisciplinary area of study centered around a geographical perspective of
+education: ‘Its specific task’, he argued, ‘is to bring several of the concerns of the
+humanities and the social sciences together in application to a geographical perspective of education’ (Bereday, 1964: x). On their part, C. A. Anderson and Philip Foster
+of the University of Chicago Comparative Education Center envisaged comparative
+education essentially as a branch of sociology. Holmes’ preferences lay basically with
+the physical sciences whose elaborate and efficient methodology he tried to transfer
+to comparative education by adopting critical dualism which, to his mind, constituted
+a productive analytical framework for the study of collective human behaviour and of
+law-like regularities related to the functioning of social institutions.
+Preferences of comparativists for certain scientific fields were influenced by their
+training and occupation as well as by prevailing trends in their academic field of
+expertise and led to the adoption of different methodological approaches. Bereday
+had studied at the London School of Economics, Anderson was a sociologist, Foster,
+a social anthropologist, had studied in the London School of Economics as well as in
+Chicago under Anderson, Holmes was a physicist and Noah was an economist. As
+sociologists working in the United States in the 1950s Anderson and Foster followed
+for the most part the prevailing orthodoxy of structural-functionalism. They investigated both intra-educational and educational-societal relationships, ‘of essentially
+undated and often timeless nature’, by isolating and controlling variables, carefully
+collecting relevant data, empirically testing hypotheses of a covariational character,
+giving emphasis to measurement and quantitative techniques in an attempt to objectify
+research, by eliminating the subjective views, beliefs and prejudices of the observer.
+Noah and Eckstein too appeared to be confident that post-war developments in social
+sciences, ‘the rise of quantitative empirical research’, ‘the greater availability of
+
+--- [PDF Page 90 / Book Page 66] ---
+
+66
+
+Mattheou
+
+numerical data, an improved technology for storing, manipulating and retrieving data,
+and the widespread use of new statistical techniques’ (Noah & Eckstein, 1969: 58),
+had improved the scientific character of the social science approach in ‘dealing with
+problems of bias, tendentiousness and even caprice and willfulness’ (Noah & Eckstein,
+1969: 90); hence their call for the accession of comparative education into the realm
+of social sciences, especially as it concerns the adoption of ‘empirical and quantitative
+methods of inquiry’ (Noah & Eckstein, 1969: 113).
+Criticism of this unilateral perception of the scientific method with all its undue
+emphasis on co-relational, empirical, quantitative and objective character came from
+many quarters. Kazamias for example, who had advocated a synthesis of history and
+social science, would not accept as scientific and explanatory covariational studies that
+failed to make their theoretical basis explicit (Kazamias, 1963; Kazamias & Schwartz,
+1970). Other critics like Toulmin (1961) and Barber (1972) would not accept that there
+was a single method of science utilised by working scientists and that this method provided a guarantee for objective knowledge, which, on top of that, could be universally
+valid. Interestingly, criticism of this mode of science came also from proponents of the
+scientific method in comparative education.
+Brian Holmes too was not ready to accept that co-relational studies, no matter how
+skillfully carried out, could ever lead to general propositions of universal validity and he
+was therefore not ready to accept that these propositions could serve as a reliable basis
+for valid predictions and trustworthy policy proposals. His first reservation came from
+the hypothetico-inductive character of the empiricist approach. Carefully collected data
+on the basis of an intuitively formulated hypothesis – normally involving preconception and bias – could at best lead to its verification only within its frame of reference;
+this was, according to him, a limitation inherent in the inductive method, which parenthetically was not anymore accepted as the method of (physical) science. His second
+reservation came from the recognition of the fact that in empirical studies ‘too little
+attention is usually paid to conceptual analysis prior to operationalising variables’, as it
+is assumed that ‘unambiguous and meaningful indicators can be identified and operationalised’ (Holmes, 1981: 68) without due consideration of the different meanings,
+different ideologies and value systems they endow concepts with. Finally, according to
+Holmes, emphasis on empirical testing and measurement, on variables that can easily
+be quantified, leaves no room for an account of important national or cultural peculiarities; of the Sadlerian ‘living spirit’ or of the ideological whims of policy makers that
+have on so many occasions played a central role in decision taking.
+To address the limitations of the empirical approach Holmes proposes a different
+comparative method. He starts by limiting the scope of his investigation. He refuses
+to get involved in the unfeasible task of discovering universal laws, but prefers to
+deal with the analysis and resolution of a specific problem, preferably of a ‘technical’
+problem, which exists under certain characteristic and identifiable circumstances and
+which is of significance to policy making. His immediate reaction, in his problemsolving approach, is to proceed – after the careful analysis of the problem and the
+appreciation of the ‘initial’ conditions (the context within which the problem exists
+and its policy solution will be implemented) have been completed – to the formulation of a hypothesis/policy proposal that would best solve the problem. This proposal
+
+--- [PDF Page 91 / Book Page 67] ---
+
+The Scientific Paradigm in Comparative Education
+
+67
+
+is only tentative, problem-specific and context-specific, refutable and open to testing
+only through comparing anticipated results, logically deduced from it, with the actual
+outcomes from its implementation. Holmes’ attempt to apply to comparative education
+the hypothetico-deductive method which, according to him, is the method of physical
+science is plainly clear. His conviction on the issue and on the plausibility of transferring and incorporating it to comparative education led him to the extensive exploration
+of relevant epistemological and methodological issues and to the utilisation of various
+theoretical perspectives from scholars such as Popper, Dewey, Weber, Myrdral, etc.
+From all his theoretical stances, prediction as the demarcation criterion of science
+attracted perhaps the most severe criticism. He was reminded that prediction in human
+and social affairs is an unfeasible task, given the complexity and uncertainty of society
+and man’s freedom of the will (King, 1967); a criticism to which he responded that
+prediction is not equivalent to long-term prophesies and in any case it is not about
+extracting certainties but rather probabilities, a situation that has not prevented people
+from organising systems of public transportation or from calculating insurance premiums (Holmes, 1981: 79). The heat of the debate had actually inflated the issue of
+prediction out of its normal proportions.
+On the other hand, reflecting perhaps the influence of the English (and European)
+humanistic tradition in comparative education, the problem-solving approach reserved a
+place for history (Mattheou, 1993). The use of ‘normative patterns’ at the cross-national
+level – this highly internalised set of values and norms inherited from the past, codified
+in ideal-typical models based on the work of historically renowned thinkers (e.g. Plato,
+Dewey, Marx) and responsible for human behaviour – is indicative in this respect. The
+same is true for the ‘pattern of mental states’ at the national level; those ‘lower valuations’ or ‘mores’ which ‘constitute, if you will, Sadler’s “living spirit”, or Mallinson’s
+“national character” ’ (Holmes, 1981: 83). Thus, in a way, the Holmesian scientific
+approach came, in my judgement, closer to satisfying Kazamias appeal for a synthesis
+of history and social science (Kazamias, 1963; Kazamias & Schwartz, 1977).
+The eclecticism of the problem-solving approach in comparative education prevented its use in actual comparative research. On the other hand, research financiers
+and policy makers are sceptical of methodological approaches that do not lead to
+clear-cut proposals, that are not supportive to ideologically preconceived policies and
+that do not provide reassurances for their success within their own term of office.
+So, the scientific method that finally prevailed was that of the American functionalist
+and empirical school of thought in the social sciences. Major comparative research
+projects like the IEA studies, followed the empirical-quantitative road.
+On the other hand, the scientific methodology that finally prevailed seemed to be
+compatible with and well-suited to the needs and priorities of educational policy at
+the time. To some extent one could argue that comparative research of economists and
+human capital theorists interested in Third World development played a substantial
+part in laying down the political agenda for education policy making and certainly in
+providing arguments to educational reformers. Exponents of development education
+(Harbison & Myers, 1964; Adams, 1977; Anderson & Bowman, 1965) and modernisation theorists (like Wiener, 1966; Levy, 1966) with all their reassuring evidence
+were the cornerstone of reform almost everywhere, with policy makers prompt to call
+
+--- [PDF Page 92 / Book Page 68] ---
+
+68
+
+Mattheou
+
+upon the hard facts of scientific research. In this sense social science had become a
+convenient alibi and/or a legitimising means for the prevailing political orthodoxy in
+education. Educational expansion and hence increased funding of the educational sector were argued on the basis of human capital theory (Schultz, 1963; Bowen, 1964)
+and of the utilisation of the latent pool of talents. The comprehensive school movement drew support from sociological research findings (Halsey et al., 1961). Technical
+assistance programmes to Third World countries were also given the blessings of technocrats and several academic experts prior to their approval (UNESCO, 1972; Adams
+& Bjork, 1971).
+
+The Decline of the Search for an All-Embracing Paradigm
+By the mid-1970s the scientific approach of the 1960s to comparative education lost its
+momentum. Developments in the real world and in academia may be held responsible
+for the decline of its appeal.
+In the first place, many promises – social justice and mobility, uninterrupted economic growth, elimination of underdevelopment – were not kept: ‘scientific’ research
+and planning had failed to live up to their reassurances as to the righteousness and
+the effectiveness of their policy proposals (Húsen, 1982). The hard facts of life had
+in practice rendered unreliable all the grandiloquent statements about the objective,
+infallible and positive character of the scientific approach, thus undermining the
+very foundations of its reputation. Scientific comparative education was not in this
+sense better suited for the job than other alternative methodological approaches. This
+explains perhaps why so many different approaches and perspectives found a place in
+comparative education during the following decades.
+A second reason for the decline of the supremacy of the scientific method in comparative education should be sought in the changing epistemological pattern in the
+natural sciences. The quantum mechanics paradigm in physics was suggesting that
+god might eventually play dice; uncertainty and perhaps chaos rather than the rule of
+law might be the order of the day in nature. And if this was true for physics, then social
+sciences (and comparative education) could not hope for anything more. The scientific method could not claim supremacy on epistemological and practical grounds over
+other alternative approaches.
+In addition, the post-modern climate, the devaluing of grand theories into grand narratives, favoured in the social sciences the development of new cognitive domains, new
+theories and new approaches; despite their more qualitative, participatory or subjective
+character, these approaches were given an equivalent academic status. Thus, comparative education itself saw the emergence of new approaches and methodologies that
+were disputing and negating the dominance of the scientific paradigm of the 1960s;
+academics’ inclination to explore new regimes of truth had certainly played its role.
+Already by the 1980s one could rightfully suggest that ‘there are now many schools
+of thought in comparative education and none has dominance’ (Altbach, 1991: 493);
+consequently it would be more accurate to speak today about comparative educations
+rather than about comparative education (Cowen, 2000).
+
+--- [PDF Page 93 / Book Page 69] ---
+
+The Scientific Paradigm in Comparative Education
+
+69
+
+The decline of ‘scientific’ comparative education does not certainly imply that it has
+lost all its influence or its adherents. After all, ‘there are always some men who cling to
+one or another of the older views’ (Kuhn, 1970: 19). This is even more true for those
+past paradigms that had served their stakeholders well. In this sense, the covariational,
+quantitative and empirical sort of comparative education has consistently served politicians well. They have repeatedly relied on it for the legitimation and promotion of their
+preconceived policies. The longevity of the IEA studies and the influence programmes
+like PISA have on policy making bear witness to this fact.
+
+Coda
+Referring to the development of national systems of education Hans had argued that
+every system corresponds to a complex edifice of various architectural styles, each
+related to the historical period its different apartments were built (Hans, 1958: 10).
+The metaphor seems somehow appropriate for the development of comparative education too. Its forefathers had discovered a privileged site for educational study amidst
+the marshy land of nineteenth century educational borrowing. They had decided to
+build an edifice on it that would contribute to the utilisation of its fertile ground; to
+a better understanding of the interplay between society and education through history. When later on difficulties arose, their successors, equipped with new ‘scientific
+technologies’, built a new and presumably stronger estate. Ever since, new buildings
+have been erected, each following different architectural styles and contributing to an
+allegedly better utilisation of the land.
+From the very beginning some of those buildings were occupied by tenants related
+to policy making. Yet the rest remain in the hands of the academic community and are
+still being expanded. Fortunately enough, they constitute the habitat of criticism, innovative thinking and creativity; the place where episteme, the art of endless, laborious
+but intellectually rewarding search for truth resides.
+
+References
+Adams, D. & Bjork, R. (1971). Education in developing areas. New York: David Mc Kay.
+Adams, D. & Farrell, J. (1967). Education and social development. Syracuse: Syracuse Center for
+Development Education.
+Adams, D. (1977). Development education. Comparative Education Review, 21(2/3), 296–310.
+Altbach, Ph. (1991). Trends in comparative education. Comparative Education Review, 35(3), 491–507.
+Anderson, C. A. & Bowman, M. J. (1965). Education and economic development. Chicago: Aldine.
+Anderson, C. A. (1961). Methodology of comparative education. International Review of Education, 7(1),
+1–23.
+Anderson, C. A. (1977). Comparative education over a quarter century: maturity and challenges. Comparative
+Education Review, 21(2/3), 405–416.
+Arnold, M. (1869). Culture and Anarchy, Project Gutenberg, http://www.gutenberg.org/
+Barber, B. (1972). Science, salience and comparative education: Some reflections on social scientific inquiry.
+Comparative Education Review, 16(3), 424–436.
+Bereday, G. Z. F. (1957). Some discussion of methods in comparative education. Comparative Education
+Review, 1(1), 13–15.
+Bereday, G. Z. F. (1964). Comparative method in education. New York: Holt, Rinehart & Winston.
+
+--- [PDF Page 94 / Book Page 70] ---
+
+70
+
+Mattheou
+
+Bowen, W. (1964). Economic aspects of education. Princeton, NJ: Princeton University Press.
+Clayton, S. (1972). Valuation in comparative education. Comparative Education Review, 15(3), 412–423.
+Cohen, M. & Nagel, E. (1934). An introduction to logic and scientific method. New York: Harcourt, Brace
+& World.
+Cowen, R. (2000). Comparing futures or comparing pasts? Comparative Education, 36(3), 333–342.
+Davies, N. (1997). Europe, a history. London: Pimlico.
+Epperson, D. & Schmuck (1963). The uses of social psychology in comparative education. Comparative
+Education Review, 6(1), 182–190.
+Farrell, J. P. (1979). The necessity of comparisons in the study of education: the salience of science and the
+problem of comparability. Comparative Education Review, 23(1), 3–16.
+Foster, P. (1960). Comparative methodology and the study of African education. Comparative Education
+Review, 4(2), 110–117.
+Halsey, A., Floud, J. & Anderson, C. A. (1961). Education, society and economy. New York: The Free Press
+of Glencoe.
+Hans, N. (1958). Comparative education: A study of educational factors and traditions. London: Routledge
+and Kegan Paul.
+Harbison, F. & Myers, A. (1964). Education, manpower and economic growth: Strategies for human resource
+development. New York: McGraw-Hill.
+Holmes, B. (1965). Problems in education. A comparative approach. London: Routledge & Kegan Paul.
+Holmes, B. (1981). Comparative education: Some considerations of method. London: George Allen &
+Unwin.
+Humbold, W. V. (1961). Von dem griechischen Charakter überhaupt und der idealistischen Ansicht desselben
+insbesondere (1808). Zitiert nach Weinstock, Auswahl aus den Werken Humbolds, Frankfurt.
+Húsen, T. (1982). The school in question. A comparative study of the school and its future in western societies. Oxford: Oxford University Press.
+Kandel, I. (1955). The new era in education: A comparative study. Boston: Houghton Mittlin.
+Kazamias, A. & Schwartz, K. (1970). Woozles and wizzles in comparative education. Comparative
+Education Review, 14(3), 255–561.
+Kazamias, A. & Schwartz, K. (1977). Intellectual and ideological perspectives in comparative education: An
+interpretation. Comparative Education Review, 21(2/3), 153–176.
+Kazamias, A. (1961). Some old and new approaches to methodology in comparative education. Comparative
+Education Review, 5(1), 90–96.
+Kazamias, A. (1963). History, science and comparative education: A study in methodology. International
+Review of Education, 8(3/4), 383–398.
+Kerlinger, F. (1965). Foundations of behavioral research. New York: Holt, Rinehart & Wilson.
+King, E. (1967). Comparative studies and educational decision. London: Methuen.
+King, E. (1976). Other schools and ours – comparative studies for today. London: Holt, Rinehart &
+Winston.
+Kuhn, Th. (1970). The structure of scientific revolutions. Chicago: Chicago University Press.
+Lawton, D. (1976). Social change, education theory and curriculum planning. London: Hodder &
+Stoughton.
+Levy, M. J. (1966). Modernization and the structure of societies. Princeton, NJ: Princeton University
+Press.
+Mattheou, D. (1993). National character in comparative education – conceptual, epistemological and
+methodological approaches in the English comparative school of thought. Ekpaideutika [Education
+Quarterly], 29–30, 187–213. [In Greek].
+Mattheou, D. (1997). Comparative study of education. Issues and methods. Athens: ESPAIDEPE. [In Greek].
+Mattheou, D. (2006). Physical sciences and the paedeia of the modern citizen – traditions and prospects.
+In A. Trilianos et al. (Eds.), Recognition (pp. 295–314). Athens: University of Athens Department of
+Primary Education. [In Greek].
+Mazower, M. (1998). The dark continent. Europe’s twentieth century. London: Penguin Books.
+McLean, M. (1995). Educational traditions compared – content, teaching and learning in industrialized
+countries. London: Fulton.
+
+--- [PDF Page 95 / Book Page 71] ---
+
+The Scientific Paradigm in Comparative Education
+
+71
+
+Noah, H. & Eckstein, M. (1969). Towards a science of comparative education. London: Macmillan.
+Parnes, H. (Ed.). (1962). Planning education for economic and social development. Paris: OECD.
+Sadler, M. (1964). How far can we learn anything of practical value from the study of foreign systems of
+education?. Comparative Education Review, 7(3), 307–314.
+Schultz, W. (1963). The economic value of education. New York: Columbia University Press.
+Sobel, I. (1982). The human capital revolution in economic development. In P, Altbach, R. Arnove &
+G. Kelly (Eds.), Comparative education (pp. 54–77). London: Collier Macmillan.
+Templeton, R. (1958). Some reflections on the theory of comparative education. Comparative Education
+Review, 2(3), 27–31.
+Toulmin, S. (1961). Foresight and understanding. London: Hutchinson.
+UNESCO, International Commission on the Development Education (1972). Learning to be. Paris:
+UNESCO.
+Whitfield, R. (Ed.) (1971). Disciplines of the curriculum. London: McGraw-Hill.
+Wiener, M. (Ed.) (1966). Modernization. New York: Basic Books.
+

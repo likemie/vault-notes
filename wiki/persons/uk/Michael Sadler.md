@@ -8,7 +8,7 @@ summary: "英国比较教育先驱与历史主义学派代表人物，主持教�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 18
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -20,22 +20,26 @@ related_concepts:
   - "[[Reference Society]]"
   - "[[Cross-National Attraction]]"
   - "[[Realism in International Relations]]"
-  - "[[AI Hallucination]]"
   - "[[Policy Borrowing]]"
   - "[[International Education]]"
   - "[[Epistemology]]"
+  - "[[Educational Meliorism]]"
   - "[[Governing at a Distance]]"
 related_theories:
   - "[[Situative Perspective]]"
   - "[[Wight's Three Traditions of International Theory]]"
 related_methods:
   - "[[Documentary Analysis]]"
-related_persons: []
+related_persons:
+  - "[[George Bereday]]"
+  - "[[Marc-Antoine Jullien]]"
+  - "[[Isaac Kandel]]"
 related_facts:
   - "[[OECD]]"
 related_arguments:
   - "[[Argument_Klerides_2023_CE]]"
   - "[[Argument_Amos_2022_Springer]]"
+  - "[[Argument_Cowen_2009_HistoryCreation]]"
   - "[[Argument_Cowen_2023_CE]]"
   - "[[Argument_Cowen_2009_CE]]"
   - "[[Argument_Rappleye_2006_RCIE]]"
@@ -44,7 +48,7 @@ related_instruments:
 confidence: high
 status: draft
 created: '2026-06-08'
-updated: 2026-07-09
+updated: 2026-09-05
 ---
 
 # Michael Sadler
@@ -86,7 +90,7 @@ updated: 2026-07-09
 >   - **代表著作** 特别调查与报告办公室发布的系列《教育问题特别报告》（*Special Reports on Educational Subjects*，1897–1903）。
 >   - **关键概念** [[Reference Society|参考社会]]、[[Cross-National Attraction|跨国吸引]]。
 >   - **阶段特征** 此时的探索带有强烈的[[Realism in International Relations|现实主义]]地缘政治底色，旨在通过系统研究德国职业教育和实科学校，为英国公共教育系统注入竞争活力，巩固国家竞争地位。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 420)]]
-> - **1900 至今 — 历史[[Situative Perspective|情境主义]]与方法论反思阶段** 这一阶段转而系统回应政策移植的技术主义[[AI Hallucination|幻觉]]，探讨如何从外国教育中获得“实践价值”而不导致体制排异。
+> - **1900 至今 — 历史[[Situative Perspective|情境主义]]与方法论反思阶段** 这一阶段转而系统回应政策移植的技术主义幻觉，探讨如何从外国教育中获得“实践价值”而不导致体制排异。
 >   - **代表著作** 1900 年吉尔福德演讲：《我们能从外国教育系统的研究中获得多少有实践价值的启示？》（*How far can we learn anything of practical [[VALUE Rubrics|VALUE]] from the study of foreign systems of education?*）。
 >   - **关键概念** 情境不可移植性、外部力量与因素（forces and factors outside the school）。
 >   - **阶段转向** 从工具性[[Policy Borrowing|政策借用]]的热衷者，转向了对借用可行性的深度怀疑与情境边界界定。他警示“校外的事情比校内的事情更重要”，确立了以历史和文化为中介的情境分析视角。
@@ -108,15 +112,16 @@ updated: 2026-07-09
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 奠定了比较教育的历史主义和情境分析学派。他的“外部力量与因素”假说被后世系统化为自然、宗教、世俗等多元因子，并启发了汉斯、贝雷迪、考恩等学者对教育“转移”与“变形”规律的探索。
-> - **方法路径** 否定了朱利安早期试图建立“教育科学测量法”的实证[[AI Hallucination|幻觉]]，确立了深入社会历史脉络开展质性考察的田野与[[Documentary Analysis|文献分析]]传统。
+> - **理论路径** 奠定了比较教育的历史主义和情境分析学派。他的“外部力量与因素”假说被后世系统化为自然、宗教、世俗等多元因子，并启发了汉斯、[[George Bereday|贝雷迪]]、考恩等学者对教育“转移”与“变形”规律的探索。
+> - **方法路径** 否定了[[Marc-Antoine Jullien|朱利安]]早期试图建立“教育科学测量法”的实证幻觉，确立了深入社会历史脉络开展质性考察的田野与[[Documentary Analysis|文献分析]]传统。
 > - **政策路径** 其主持的特别调查与报告办公室的系列成果直接影响了英国 1902 年《巴尔福教育法案》对地方中等教育体系的重构。
 > - **跨国传播** 其“盆栽移植”隐喻成为比较教育和[[Policy Borrowing|政策借用]]领域引用频率最高的方法论格言，在发展援助与[[International Education|国际教育]]流动中被用作反思技术援助失败的理论护盾。
 
 > [!evidence-grid-a]- 相关研究索引
+> - [[Argument_Cowen_2009_HistoryCreation|Cowen, 2009a]] — 批判比较教育学对萨德勒的肖像学崇拜与传统的发明，指出其 1900 年演讲造成的混乱远多于解答。
 > - [[Argument_Klerides_2023_CE|Klerides, 2023]] — 将萨德勒定位为[[Realism in International Relations|现实主义]]国关传统在比较教育中的典型代拟节点，解析其背后的工业自保焦虑。
 > - [[Argument_Cowen_2023_CE|Cowen, 2023]] — 批判比较教育学科对萨德勒“实用价值”格言的长期路径依赖，指出该学科应超越对这种古老辞藻的重复。
-> - [[Argument_Cowen_2009_CE|Cowen, 2009]] — 评价萨德勒关于外部力量与因素的洞察，批判其后续发展中沦为地理区域细节堆砌的[[Epistemology|认识论]]盲区。
+> - [[Argument_Cowen_2009_CE|Cowen, 2009b]] — 评价萨德勒关于外部力量与因素的洞察，批判其后续发展中沦为地理区域细节堆砌的[[Epistemology|认识论]]盲区。
 > - [[Argument_Rappleye_2006_RCIE|Rappleye, 2006]] — 指出学界虽然继承了萨德勒关于情境重要的口号，但一个世纪以来始终没有提出去拆解情境中特定要素的系统性操作方法。
 
 ---
@@ -125,7 +130,7 @@ updated: 2026-07-09
 
 > [!person-network] 关系网络
 > - **师承／合作者** 马修·阿诺德 — 英国早期督学，萨德勒继承并巩固了阿诺德关于通过教育考察应对地缘竞争的警觉 (p. 420)。
-> - **继承者** 艾萨克·坎德尔 — 坎德尔承袭并系统化了萨德勒的[[Situative Perspective|情境主义]]分析，将历史和政治特质作为比较的核心线索。
+> - **继承者** [[Isaac Kandel|艾萨克·坎德尔]] — 坎德尔承袭并系统化了萨德勒的[[Situative Perspective|情境主义]]分析，将历史和政治特质作为比较的核心线索。
 > - **批评者／论敌** 莫兰特 — 教育官员，莫兰特主张教育部应追求直接的技术和管理控制，与萨德勒坚持学术调查的独立性产生正面冲突，最终导致萨德勒辞职。
 > - **机构／项目** 特别调查与报告办公室 — 萨德勒在此设计并主持了首个以国家竞争力为核心的地缘教育政策分析工程。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 420)]]
 
@@ -137,10 +142,11 @@ updated: 2026-07-09
 > 
 > > [!axis] 技术工具论 vs [[Epistemology|认识论]]空洞危机
 > > 争论围绕萨德勒的“实用价值”遗产是否正在阻碍学科的理论化进程展开。
-> > - **实用改良主义立场** 绝大多数比较教育学者支持萨德勒的遗产，认为“情境约束”和“政策借鉴的实用价值”构成了该学科存在的底线合法性与社会改良价值。
+> > - **实用[[Educational Meliorism|改良主义]]立场** 绝大多数比较教育学者支持萨德勒的遗产，认为“情境约束”和“政策借鉴的实用价值”构成了该学科存在的底线合法性与社会改良价值。
 > > - **学术性超越立场** 考恩对萨德勒的“实用价值”路径进行了严厉解构，指出这一框架促成了学科在认识论上的停滞与科学话语的混乱，使学科面临严重的认识型老化危机。[[Argument_Cowen_2023_CE|(Cowen, 2023, pp. 327–328)]]
 
 > [!critique]- 批评索引
+> - [[Argument_Cowen_2009_HistoryCreation|Cowen, 2009a]] — 批判学科对萨德勒的“肖像学”（iconographies）崇拜与传统的发明，指出其 1900 年关于外国教育制度研究的著名演讲在学理上造成的混乱远多于解答，其被固定为不容置疑的学科图腾本身构成了学科史编纂反思的对象。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, p. 9)]]
 > - [[Argument_Rappleye_2006_RCIE|Rappleye, 2006]] — 指出萨德勒的“情境很重要”警告被后世简化为了学术口号，缺乏对“何种情境要素以何种方式发生阻碍”的机制化论证。
 
 > [!warning] 未解问题与边界

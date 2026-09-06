@@ -1,0 +1,856 @@
+================================================================================
+Chapter 59: Towards a Comparative Pedagogy
+Author(s): Robin Alexander
+Handbook: International Handbook of Comparative Education (2009)
+Editors: Robert Cowen and Andreas M. Kazamias (Section Editor: Elaine Unterhalter)
+Section: Section 6: Cultures, Knowledge and Pedagogies
+Book Pages: pp. 923–941
+PDF Pages: pp. 907–925 (in raw/比较教育学国际手册2009Cowen.pdf)
+================================================================================
+
+--- [PDF Page 907 / Book Page 923] ---
+
+59
+TOWARDS A COMPARATIVE PEDAGOGY1
+Robin Alexander
+
+The Neglect of Pedagogy in Comparative Enquiry
+Pedagogy is the most startlingly prominent of the educational themes which British
+comparativists have ignored. In the special millennial issue of the leading UK journal
+Comparative Education, Angela Little recorded that just 6.1% of the journal’s articles
+between 1977 and 1998 dealt with ‘curricular content and the learner’s experience’ as
+compared with nearly 31% on themes such as educational reform and development
+(Little, 2000, p. 283); Cowen asserted that ‘we are nowhere near coming fully to grips
+with the themes of curriculum, pedagogic styles and evaluation as powerful message
+systems which form identities in specific educational sites’ (Cowen, 2000, p. 340);
+and Broadfoot argued that future comparative studies of education should place much
+greater emphasis ‘on the process of learning itself rather than, as at present, on the
+organisation and provision of education’ (Broadfoot, 2000, p. 368).
+If the omission is so obvious, one might reasonably enquire why comparativists
+have not remedied it. There may be a simple practical explanation. Policy analysis,
+especially when it is grounded in documentation rather than fieldwork, is a more
+manageable option than classroom research. Cheaper, speedier and more comfortable too: who would exchange their library or internet connection for time-consuming
+and occasionally hair-raising journeys encumbered by video and audio recorders,
+cameras, tripods, observation schedules, interview schedules, clothing, food and all
+the other necessary apparatus of ‘thick description’ – not to mention the complex
+negotiations which nowadays are required before one can observe teachers or talk
+to children?
+As a less uncharitable possibility, and echoing Brian Simon’s ‘Why no pedagogy in
+England?’ (Simon, 1981), we might suggest that a country without an indigenous
+‘science of teaching’ is hardly likely to nurture pedagogical comparison: cherry-picking
+and policy borrowing maybe, but not serious comparative enquiry (Alexander, 1996).
+Or perhaps pedagogy is one of those aspects of comparative education which
+demands expertise over and above knowledge of the countries compared, their cultures, systems and policies. I rather think it is, especially given the condition which
+Simon identified. Michael Crossley (2000) argues:
+If the well documented pitfalls of comparative education are not to be reencountered, it is important that those new to such research engage with the
+923
+R. Cowen and A. M. Kazamias (eds.), International Handbook of Comparative Education, 923–941.
+© Springer Science + Business Media B.V. 2009
+
+--- [PDF Page 908 / Book Page 924] ---
+
+924 Alexander
+
+literatures that are central to the field. Similarly, it is important for those who see
+themselves as comparativists to embrace the opportunities presented by such a
+widening of research networks and discourses. (p. 324)
+A certain imbalance in the force of these two imperatives is detectable here: noncomparativists must ‘engage with the literature’ (presumably because their ignorance
+is greater), but comparativists need only to ‘embrace opportunities’. There may well
+be evidence of ill-judged comparison among the ‘new’ educational comparers, but
+we can also find examples of superficial or even ill-conceived analyses of particular
+educational phenomena in the mainstream comparative literature. Unless one is content to confine oneself to that superficial A vs B juxtaposing of national educational
+systems which used to be the staple diet of university comparative education courses
+but, mercifully, is now much less common, then meaningful educational comparison
+is never less than a magnificent challenge, for it requires engagement with several
+distinct literatures and modes of analysis simultaneously. One can hardly study comparative law or literature without knowing at least as much about law or literature as
+about the countries and cultures involved and the business of making comparisons; the
+same goes for comparative education.
+This is why this chapter’s title refers to ‘comparative pedagogy’.2 Pedagogy is a
+complex field of practice, theory and research in its own right. The challenge of comparative pedagogy is to marry the study of education elsewhere with the study of
+teaching and learning in a way which respects both of these fields of enquiry yet also
+creates something which is more than the sum of their parts.
+
+New Territories, but Old Maps
+Little’s framework for classifying journal articles on comparative education (Little,
+2000) differentiated context (the country or countries studied), content (using the
+1978 thematic classification reproduced inside the journal’s back cover, and comparison (the number of countries compared). Trying to place my Culture and Pedagogy
+(Alexander, 2001) within this framework underlines pedagogy’s marginal status in
+mainstream comparative discourse. This study used documentary, interview, observational, video and photographic data collected at the levels of system, school and
+classroom between 1994 and 1998. The study’s ‘context’ was England, France, India,
+Russia and the United States. So far so good, even though five-country studies are
+relatively unusual. Edmund King’s seven-nation study remains the classic example of
+this genre (King, 1979). Its ‘content’ straddled at least 6 of Little’s 13 themes without
+sitting comfortably within any of them, and the educational phase with which it dealt –
+primary education – did not appear at all in that framework (nor, strikingly, did the
+terms ‘teaching’ or ‘learning’, let alone ‘culture’ or ‘pedagogy’). Its ‘comparison’ was
+across five countries (a rarity) and included both North and South (a rarity overall, and
+a novelty in Little’s five-country category).
+Apart from the fact that, as already noted, pedagogy is a neglected field in comparative enquiry, there is a further reason why the content of this research maps so
+
+--- [PDF Page 909 / Book Page 925] ---
+
+Towards A Comparative Pedagogy 925
+
+imperfectly onto Little’s framework: the framework does not accommodate studies
+which cross one important boundary hitherto unmentioned, that between the macro
+and the micro. Culture and Pedagogy – as the title suggests – illustrates Sadler’s hoary
+maxim about the inseparability of the worlds inside and outside the school (Sadler,
+1900), yet Little’s framework seems to imply that comparative studies must be either
+national or local, about policy or practice, the system or the classroom, rather than
+about their interaction. In this respect, comparativists may be somewhat behind the
+larger social science game, in which the relationship between social structure, culture
+and human agency has been ‘at the heart of sociological theorising’ for well over a
+century (Archer, 2000, p. 1).
+Thus, pedagogy does not begin and end in the classroom. It is comprehended only
+once one locates practice within the concentric circles of local and national, and of
+classroom, school, system and state, and only if one steers constantly back and forth
+between these, exploring the way that what teachers and students do in classrooms
+reflects the values of the wider society. That was one of the challenges which the Five
+Cultures research sought to address.
+Another challenge for a comparative pedagogy is to engage with the interface
+between present and past, to enact the principle that if one is to understand anything
+about education elsewhere one’s perspective should be powerfully informed by history.
+So while the comparative journey in Culture and Pedagogy culminates in a detailed
+examination of teacher–pupil discourse – for language is at once the most powerful
+tool of human learning and the quintessential expression of culture and identity – it
+starts with accounts of the historical roots and developments of primary education in
+each of the five countries, paying particular attention to the emergence of those core
+and abiding values, traditions and habits which shape, enable and constrain pedagogical
+development.
+
+Defining Pedagogy
+So far, a definition of pedagogy has been inferred. It is time to be more explicit. One of
+the values of comparativism is that it alerts one to the way that the apparently bedrock
+terms in a particular discourse are nothing of the sort.
+Thus it may well matter, in the context of the strong investment in citizenship which
+is part of French public education, that éduquer means to bring up as well as formally
+to educate and that bien éduqué means well brought up or well-mannered rather than
+well-schooled (‘educate’ in English has both senses too, but the latter now predominates); or that the root of the Russian word for education, obrazovanie, means ‘form’
+or ‘image’ rather than, as in our Latinate version, a ‘leading out’; or that obrazovanie
+is inseparable from vospitanie, an idea which has no equivalent in English because it
+combines personal development, private and public morality, and civic commitment,
+while in England these tend to be treated as separate and even conflicting domains; or
+that obuchenie, which is usually translated as teacher-led ‘instruction,’ signals learning
+as well as teaching. It is almost certainly significant that in English (and American)
+education ‘development’ is viewed as a physiological and psychological process
+
+--- [PDF Page 910 / Book Page 926] ---
+
+926 Alexander
+
+which takes place independently of formal schooling whereas Russian teachers define
+‘development’ transitively, as a task which requires their active intervention: in the
+one context development is ‘natural’ while in the other it is more akin to acculturation.
+Similarly, in the Anglo-American tradition the most able child is defined as the one
+with the greatest potential, while in Russia’s Soviet pedagogical legacy it is the least
+able, because he/she has furthest to travel towards goals which are held to be common
+for all children (Muckle, 1988; Alexander, 2001, pp. 368–370).
+Such terms hint at more than the comparativist’s need to be sensitive to the problems of language and translation. They also subtly align the educational agenda
+along culturally distinctive lines even before one starts investigating the detail of
+policy and practice. In the cases exemplified above, both l’éducation and vospitanie
+inject suggestions of public morality and the common good into the discourse in
+ways which subliminally influence the recurring discussions about school goals and
+curricula in France and Russia; while the Russian notions of ‘potential’ and ‘development’ each imply – and indeed impose – strong teacher agency and responsibility
+in a way which their more passive and individualistic English and American connotations do not. The notion of teacher as ‘facilitator’, which is so central to the
+Anglo-Saxon progressive tradition, would make little headway in those continental
+European countries in which teacher intervention and instruction are seen as essential to school learning.
+The consciousness intimated here also implies a model of pedagogy, and a course
+for comparative pedagogical analysis, which are as far removed as they can be from
+the polarising of ‘teacher-centred’ (or ‘subject-centred’) and ‘child-centred’ teaching
+which too often remains the stock-in-trade of such accounts of pedagogy as are available in the comparative literature (Alexander, 2006). Mainstream pedagogical research
+abandoned this dichotomy years ago; mainstream comparative research should do likewise. Perhaps the most damaging residue of this sort of thinking can still be found
+in the reports of some development education consultants, who happily commend
+Western ‘child-centred’ pedagogy to non-Western governments without regard for
+local cultural and educational circumstances, or for recent advances in the psychology
+of learning and teaching, or for the findings of pedagogical research on the decidedly
+questionable record of child-centred teaching in Western classrooms.
+That touch of waspishness apart, we would do well to be no less cautious about
+another boundary problem here. In the literature on culturally located views and
+models of teaching, generalised ‘Asian’, ‘Pacific Rim’, ‘Western’, ‘non-Western’ and
+‘European’ ‘models’ of teaching and learning feature prominently and confidently
+(Reynolds & Farrell, 1996; Stevenson & Stigler, 1992; Clarke, 2001). If we recognise
+that the geographical and cultural coverage of ‘Asian’ is too broad to have descriptive
+validity for the analysis of teaching, we should be no less aware of the hegemonic overtones of ‘Western’. Does ‘Western’ encompass South as well as North America? Does
+it include some European countries while excluding others? With its implied validation of a particular world view, tellingly captured since 2003 in the Old/New Europe
+name-calling of the Bush administration, ‘Western’ may well exacerbate rather than
+supplant the pedagogy of opposition, fuelling a self-righteous occidentalism every bit
+as pernicious as Said’s orientalism (Said, 1979).
+
+--- [PDF Page 911 / Book Page 927] ---
+
+Towards A Comparative Pedagogy 927
+
+As our core educational concept, ‘pedagogy’ lies linguistically and culturally on
+sands at least as treacherous as these. In the Anglo-American tradition, pedagogy is
+subsidiary to curriculum, sometimes inferring little more than ‘teaching method’.
+‘Curriculum’ itself has both a broad sense (everything that a school does) and a narrow one (what is formally required to be taught) which comes closer to continental
+European ‘didactics’ without capturing the sense in la didactique or die Didaktik
+of a quasi-science comprising subject knowledge and the principles by which it is
+imparted. Curriculum is more prominent in educational discourse in systems where it
+is contested, less where it is imposed or accepted as a given. In the central European
+tradition, it is the other way round: pedagogy moves centre stage and frames everything
+else, including curriculum – in so far as that word is used – and didactics (Alexander,
+2001, pp. 540–556; Moon, 1998).
+Because the range of meanings attaching to pedagogy varies so much in English –
+quite apart from differences between English and other languages – we have to be
+stipulative, and in a way which allows us to use the term for comparative analysis.
+I prefer to eschew the greater ambiguities of ‘curriculum’ and the resulting tendency to downgrade pedagogy, and use the latter term to encompass the larger field.
+I distinguish pedagogy as discourse from teaching as act, yet I make them inseparable. Pedagogy, then, encompasses both the act of teaching and its contingent
+theories and debates. Pedagogy is the discourse with which one needs to engage
+in order both to teach intelligently and make sense of teaching – for discourse and
+act are interdependent, and there can be no teaching without pedagogy or pedagogy
+without teaching.
+A comparative pedagogy takes this discourse not one stage but several stages further. Pedagogy relates the act of teaching to the ideas which inform and explain it.
+Comparative pedagogy identifies, explores and explains similarities and differences in
+pedagogy, as concept, discourse and practice, across designated units of comparison
+such as nation states. It thereby exploits opportunities which only proper comparison
+can provide: teasing out what is universal in pedagogy from what is culturally or geographically specific, informing the development of pedagogic theory, and extending
+the vocabulary and repertoire of pedagogic practice.
+
+Conditions for a Comparative Pedagogy
+We can now propose three conditions for a comparative pedagogy. First, it should
+incorporate a defensible rationale and methodology for comparing across sites, cultures, nations and/or regions. Second, it should combine procedures for studying
+teaching empirically with ways of accessing the values, ideas and debates which
+inform, shape and explain it. Third, because these values, ideas and debates are part
+of a wider educational discourse and – typically – are located in the context of public
+national education systems as well as schools and classrooms, a comparative pedagogy should access these different levels, contexts and constituencies and examine
+how they relate to each other and inform the discourse of pedagogy and the act of
+teaching.
+
+--- [PDF Page 912 / Book Page 928] ---
+
+928 Alexander
+
+The first condition applies to all comparative studies so I need say no more about
+it: it will no doubt feature in other chapters. About the second and third conditions,
+however, I need to say rather more.
+
+Frameworks for a Comparative Pedagogy
+If pedagogy is shaped by national culture and history, and by the migration of ideas and
+practices across national borders, as well as by more immediate practical exigencies
+and constraints such as policy and resources, is it possible to postulate a model of pedagogy, and a framework for studying it, which both accommodates its many forms and
+variations and rises above the constraints of value and circumstance? Can we devise an
+analytical model which will serve the needs of the empirical researcher in any context?
+This was the challenge we had to take up in the Culture and Pedagogy project, for we
+needed to make sense of disparate classroom data in a way which showed no obvious
+bias towards particular, culturally specific accounts of learning and teaching.
+The resulting framework has three parts. The first deals with the observable act of
+teaching; the second with the ideas which inform it; the third with the macro–micro
+relationship which links classroom transaction to national policy via the curriculum.
+We start, though, with a definition:
+Pedagogy is the observable act of teaching together with its attendant discourse
+of educational theories, values, evidence and justifications. It is what one needs
+to know, and the skills one needs to command, in order to make and justify the
+many different kinds of decisions of which teaching is constituted.
+With this our colours are nailed firmly to the international mast. In Britain, if the word
+is used at all, ‘pedagogy’ signals merely the teaching act, and the act’s informing ideas
+stand in an, at best, uneasy relationship to it, as so much ‘theory’ to be ‘applied’ (or
+not). But, unfortunately for the theory/practice dualists, the theory is there whether
+they like it or not, unless of course they are prepared to claim that teaching is a mindless activity. The task is to explicate the theory, which in teaching we know to be a
+complex amalgam of sedimented experience, personal values and beliefs, reinterpretations of published research, and policy more or less dutifully enacted.
+
+Pedagogy as Practice
+Many years ago the anthropologist Edmund Leach (1964) argued that the more complex the model, the less likely it is to be useful. With that warning in mind, we start by
+reducing teaching to its barest essentials:
+Teaching, in any setting, is the act of using method x to enable students to learn y.
+In so skeletal a form the proposition is difficult to contest, and if this is so we extract
+from it two no less basic questions to steer empirical enquiry:
+●
+●
+
+What are students expected to learn?
+What method does the teacher use to ensure that they do so?
+
+--- [PDF Page 913 / Book Page 929] ---
+
+Towards A Comparative Pedagogy 929
+
+‘Method’ needs to be unpacked if it is to be useful as an analytical category which
+can cross the boundaries of space and time. Any teaching method combines tasks,
+activities, interactions and judgements. Their function is represented by four further
+questions:
+In a given teaching session or unit what learning tasks do students encounter?
+What activities do they undertake in order to address these learning tasks?
+● Through what interactions does the teacher present, organise and sustain the
+learning tasks and activities?
+● By what means, and on the basis of what criteria, does the teacher reach judgements about the nature and level of the tasks and activities which each student
+shall undertake (differentiation), and the kinds of learning which students achieve
+(assessment)?
+●
+●
+
+Task, activity, interaction and judgement are the building blocks of teaching. However,
+as they stand they lack the wherewithal for coherence and meaning. To our first proposition, therefore, we must add a second. This unpacks ‘in any setting’, the remaining
+phrase in our first proposition:
+Teaching has structure and form; it is situated in, and governed by, space, time and
+patterns of pupil organisation; and it is undertaken for a purpose.
+Structure and form in teaching are most clearly and distinctively manifested in the
+lesson. Lessons and their constituent teaching acts are framed and governed by time,
+by space (the way the classroom is disposed, organised and resourced) and by the chosen forms of student organisation (whole class, small group or individual).
+But teaching is framed conceptually and ethically, as well as temporally and spatially. A lesson is part of a larger curriculum embodying educational purposes and
+values, and reflecting assumptions about what knowledge and understanding are
+of most worth to the individual and to society. This is part of the force of ‘teaching … is undertaken for a purpose’. One element remains. Teaching is not a series
+of random encounters. Together, students and teachers create and are defined by a
+micro culture. They develop procedures for regulating the complex dynamics of
+student–teacher and student–student relationships, the equivalent of law, custom,
+convention and public morality in civil society. This element we define as routine,
+rule and ritual.
+The complete teaching framework (discussed in greater detail in Alexander, 2001,
+pp. 320–325) is shown in Figure 1. The elements are grouped under the headings of
+frame, form and act. The core acts of teaching (task, activity, interaction and judgement) are framed by classroom organisation (‘space’), pupil organisation, time and
+curriculum, and by classroom routines, rules and rituals. They are given form in the
+lesson or teaching session.
+Choices then have to be made about how one analyses each of the elements. These
+dictate further questions about analytical categories, research methods and technologies which for reasons of space cannot be addressed here. Suffice it to say that in the
+Culture and Pedagogy research each element above was broken down into several
+analytical sub-units, the main research tools were observation, video and interview,
+
+--- [PDF Page 914 / Book Page 930] ---
+
+930 Alexander
+A generic model of teaching
+Frame
+Space
+Pupil organisation
+Time
+Curriculum
+Routine, rule and ritual
+
+Form
+
+Act
+Task
+Activity
+
+Lesson
+Interaction
+Judgement
+
+Figure 1. A generic model of teaching
+
+and the core data comprised field notes, interview transcripts, lesson transcripts,
+photographs, teaching documents and some 130 hours of videotape. However, this
+information is relevant here only in so far as it demonstrates that the framework
+actually works. The comparative analysis of teaching in Culture and Pedagogy starts
+with the basic disposition of the framing and regulatory elements of curriculum,
+space, pupil organisation, time and routine/rule/ritual, and works through each of
+the others before finishing with a sustained analysis of patterns of classroom interaction and the dynamics and content of teacher–pupil discourse. The same framework
+could be used to inform a rather different research methodology. The point at issue
+here is conceptual rather than technical: it concerns not the relative advantages of,
+say, systematic observation using pre-coded interaction categories to produce quantifiable data and the use of transcripts to sustain close-grained qualitative analysis
+of discourse, but the viability of this as a framework for researching teaching in any
+context and by any means.
+
+Pedagogy as Ideas
+The second part of our framework for the comparative study of pedagogy attends to
+the ideas, values and beliefs by which the act of teaching is informed and justified.
+These can be grouped into three domains, as shown in Figure 2. Private assumptions and beliefs about teaching are not distinguished here from public accounts of
+the kind which teachers meet while being trained, for all are a kind of theory. The
+object here is not to differentiate theory which is public or private, espoused or in use
+(Argyris & Schön, 1974) but the themes with which such theories deal. Pedagogy
+has at its core ideas about learners, learning and teaching, and these are shaped and
+modified by context, policy and culture. Where the first domain enables teaching
+and the second formalises and legitimates it by reference to policy and infrastructure, the third domain locates it – and children themselves – in time, place and the
+social world, and anchors it firmly to the questions of human identity and social
+purpose without which teaching makes little sense. Such ideas mark the transition
+from teaching to education.
+
+Macro and Micro
+The element in the framework in Figure 1 which most explicitly links macro with
+micro, in the narrower sense of policy and school rather than culture and professional
+
+--- [PDF Page 915 / Book Page 931] ---
+
+Towards A Comparative Pedagogy 931
+Pedagogy as ideas (theories, values, evidence and justifications)
+Classroom level: ideas which enable teaching
+Students
+Learning
+Teaching
+Curriculum
+
+characteristics, development, motivation, needs, differences.
+nature, facilitation, achievement and assessment.
+nature, scope, planning, execution and evaluation.
+ways of knowing, doing, creating, investigating and making sense.
+
+System / policy level: ideas which formalise and legitimate teaching
+School
+Curriculum
+Assessment
+Other policies
+
+e.g. infrastructure, staffing, training.
+e.g. aims, content
+e.g. formal tests, qualifications, entry requirements
+e.g. teacher recruitment and training, equity and inclusion
+
+Cultural / societal level: ideas which locate teaching
+Culture
+Self
+
+the collective ideas, values, customs and relationships which inform and shape
+a society’s view of itself, of the world and of education.
+what it is to be a person; how identity is acquired.
+
+Figure 2. Pedagogy as ideas (theories, values, evidence and justifications)
+
+agency, is the curriculum. In most systems curriculum is centrally prescribed, either at
+national level or, as in a federal and decentralised system like the United States, at the
+levels of state and school district. In few if any public education systems is control of
+the curriculum vested solely in the school.
+In fact, the curriculum is probably best viewed as a series of translations, transpositions and transformations from its initial status as a set of formal requirements.
+At the beginning of this process of metamorphosis is the national or state curriculum. At its end is the array of understandings in respect of each specified curriculum
+goal and domain which the student acquires as a result of his or her classroom
+activities and encounters. In between is a succession of shifts, sometimes bold,
+sometimes slight, as curriculum moves from specification to transaction, and as
+teachers and students interpret, modify and add to the meanings which it embodies.
+Sometimes the change may be slight, as when a school takes a required syllabus
+or programme of study and maps it onto the timetable. This we might call a translation. Then a school or teacher may adjust the nomenclature and move parts of
+one curriculum domain into another to effect a transposition, which then leads to
+a sequence of lesson plans. But the real change, the transformation, comes when
+the curriculum passes from document into action and is broken down into learning
+tasks and activities, and expressed and negotiated as teacher–student interactions
+and transactions.
+However faithful to government, state or school requirements a teacher remains,
+teaching is always an act of curriculum transformation. In this sense, therefore,
+curriculum is a ‘framing’ component of the act of teaching, as suggested by
+Figure 1, only before it is transformed into task, activity, interaction, discourse
+and outcome. From that point on it becomes inseparable from each of these. In
+the classroom, curriculum is task, activity, interaction and discourse, and they are
+curriculum.
+
+--- [PDF Page 916 / Book Page 932] ---
+
+932 Alexander
+Curriculum metamorphosis
+Specification
+Translation
+Transposition
+
+National, state or local curriculum
+School curriculum
+Class curriculum and timetable
+Lesson plan
+
+1
+2
+3
+4
+
+Transformation
+
+Lesson
+
+5
+
+Task
+Activity
+Interaction
+Assessment
+
+6
+7
+8
+9
+
+Frame
+
+Form
+Act
+
+Figure 3. Curriculum metamorphosis
+
+Figure 3 schematises this process, and ties it into the families of ‘frame’, ‘form’ and
+‘act’ from the model of teaching in Figure 1. Together with Figure 2, the frameworks
+provide a basis for constructing a reasonably comprehensive empirical account of pedagogy at the level of action, and for engaging with the attendant discourses.
+Of course, the macro–micro relationship is about much more than state-school
+curriculum transmission or transformation. For a start, the process is complicated by
+the existence of more levels than bipolar formulations like ‘macro–micro’ or ‘centralisation–decentralisation’ allow. Regional and local tiers of government have their
+own designated powers, or strive to compensate for their lack of these by exploiting
+their closeness to the action, and local agency manifests itself in many other guises,
+both formal and informal, beyond the governmental and administrative. In the Five
+Cultures data, the importance of these intermediate levels and agencies provided a
+corrective to Margaret Archer’s classic account of the development of state education systems (Archer, 1979). A proper explanatory account of pedagogical discourse
+needs to engage with this more complex arena of control and action if it is to move out
+of the straitjacket of linear models of teaching as policy-enactment and education as
+unmodified cultural transmission. Here the work of Giroux (1983) and Apple (1995)
+provides the necessary moderation to the stricter reproductionist line taken by Bowles
+and Gintis (1976) or Bourdieu and Passeron (1990).
+Such an account also needs to treat the somewhat mechanistic concept of ‘levels’
+itself with a certain caution, for once we view pedagogic practice through the profoundly important lens of values we find – as Archer shows in her later work (1989)
+– that the relationship between structure, culture and (pedagogic) agency is more
+complex still.
+
+Values
+Values, then, spill out untidily at every point in the analysis of pedagogy, and it is
+one of the abiding weaknesses of much mainstream research on teaching, including
+the rare accounts that appear in the comparative education literature, that it tends to
+play down their significance in shaping and explaining observable practice. Latterly,
+
+--- [PDF Page 917 / Book Page 933] ---
+
+Towards A Comparative Pedagogy 933
+
+the idea of ‘value-free’ teaching has been given a powerful boost by the endorsement
+by several Anglophone governments of school effectiveness research (which reduces
+teaching to technique and culture to one not particularly important ‘factor’ among
+many) and by its adoption, across the full spectrum of public policy, of the crudely
+utilitarian criterion, ‘what works’. Teaching is an intentional and moral activity: it is
+undertaken for a purpose and is validated by reference to educational goals and social
+principles as well as to operational efficacy. In any culture it requires attention to a
+range of considerations and imperatives: pragmatic, certainly, but also empirical, ethical
+and conceptual (Alexander, 1997, pp. 267–287).
+Clearly, a value-sanitised pedagogy is not possible. It makes as little sense as a culturefree comparative education. Yet values can all too easily be neglected, and the problem
+may reflect the accident of technique rather than conscious design. Thus, an account
+of classroom interaction in Kenyan primary schools (Ackers & Hardman, 2001) uses
+Sinclair and Coulthard’s (1992) discourse analysis system, which reduces spoken
+discourse to a hierarchy of ranks, transactions, moves and acts with little regard to its
+meaning and none to its sociolinguistic context. The Kenyan study is illuminating, yet
+if the chosen procedure is problematic in linguistic terms, it may be doubly so in a comparative study of teachers in one country undertaken by researchers from another.
+In the rather different setting of a seminar on the American East Coast, a participant
+viewed one of the Culture and Pedagogy lesson videotapes3 and condemned the featured American teacher for ‘wasting time’ when she negotiated with her students rather
+than directed them. The teacher concerned was highly experienced, and perfectly capable of delivering a traditional lesson and imposing her will upon the children. But
+she chose not to, because her educational goals included the development of personal
+autonomy and choice and she believed it necessary for children to learn, the hard way
+if necessary, how to master time rather than have it master them. (For time, as we found
+in this research, is a value in education as well as a measure of it, and it was viewed
+and used in very different ways in the five countries). This teacher was expressing in
+her practice not only her private values, but also those embodied in the policies of her
+school, school district and state. These values should have been the seminar participant’s first port of call.
+The issue here was not one of simple professional competence but of how, in a
+culture which stands so overtly for individual freedom of action, the diverging individualities of 25 students in one classroom can be reconciled with ostensibly common
+learning goals. For this example was but the tip of a values iceberg, a continuum in
+which the observed American pedagogy stood at the opposite extreme to what we
+observed in Russia and India. On the one hand, confusion, contradiction and inconsistency in values; on the other, clarity, coherence and consistency (inside the classroom at
+least – what we saw on the streets of post-Soviet Russia told a different story, but then
+our teacher respondents were very clear that their task was to hold the line against the
+rising tide of anomie). It is this inherent cultural dissonance, as much as simple executive competence, which explains many of the startling contrasts in the practice, and in
+the apparent efficiency of the practice, with which such values were associated.
+This example, too, may help us with our earlier asides about Sadler and cultural
+borrowing and lending. For perhaps it is the degree of compatibility at the level of
+
+--- [PDF Page 918 / Book Page 934] ---
+
+934 Alexander
+
+values which sets the limits to what can be successfully transferred at the level of
+practice. A pedagogy predicated on teacher authority, induction into subject disciplines, general culture and citizenship will sit uneasily, at best, with one which
+celebrates classroom democracy, personal knowledge, cultural pluralism and antipathy to the apparatus of the state, and vice versa. This simple proposition, which
+can readily be tested in practice, eludes the policy borrowers, who presume that
+‘what works’ in one country will work in another. Thus until Russian education succumbed to resource starvation following the economic collapse of the mid-1990s,
+Russian children continued for a while to outperform those of the United States in
+mathematics and science, despite the massive disparity in funding between the two
+countries’ education systems (Ruddock, 2000; World Bank, 2000). Yet the World
+Bank and OECD dismissed Russian teaching as ‘authoritarian’ and ‘old-fashioned’
+and pressed for a more ‘democratic’ and ‘student-centred’ pedagogy (World Bank,
+1996; OECD, 1998).
+
+Temporal and Spatial Continuities
+So the explication of values is a sine qua non for a comparative pedagogy. Such analysis
+can reveal continuities as well as differences. Thus, although an offspring of revolution, French public education retains features which recall its pre-revolutionary and
+ecclesiastical origins (Sharpe, 1997), and the conjunction of institutional secularism
+and individual liberty is not without its tensions, as is shown by the recurrent crises
+over l’affaire du foulard (the scarf in this case is the Muslim hijab, occasionally the
+chador). The more obvious Soviet trappings of Russian education have been shed, but
+the abiding commitment to vospitanie, and the emphasis in schools and classrooms
+on collective action and responsibility allied to unambiguous teacher authority, not to
+mention the methods of teaching, show the more clearly that the continuities here are
+Tsarist as well as Soviet. The continuities in India reach back even further, and we found
+at least four traditions – two of them indigenous (Brahmanic and post-Independence)
+and two imposed (colonialist and missionary) combining to shape contemporary primary practice in that vast and complex country (Kumar, 1991).
+In England, the twin legacies of elementary school minimalism and progressive
+idealism offset government attempts at root-and-branch modernisation. The one still
+shapes school structures and curriculum priorities (and government is as much in its
+thrall as are teachers), while the other continues to influence professional consciousness and classroom practice. Indeed, in seeking to win over a disgruntled teaching
+force the UK government’s post-2003 Primary National Strategy sought to soften its
+statist image by appealing directly to the progressivist virtues of ‘enjoyment’, ‘creativity’ and ‘flexibility’, complete with large print and pictures of smiling children (DfES,
+2003; Alexander, 2004). Some saw through this ploy; many others did not.
+Jerome Bruner reminds us, too, that in our pedagogical theorising,
+we are still drawing rich sustenance from our more distant, pre-positivist past.
+Chomsky acknowledges his debt to Descartes, Piaget is inconceivable without
+
+--- [PDF Page 919 / Book Page 935] ---
+
+Towards A Comparative Pedagogy 935
+
+Kant, Vygotsky without Hegel and Marx, and ‘learning theory’ was constructed
+on foundations laid by John Locke. (Bruner, 1990, pp. x–xi)
+This kind of intellectual genealogy was most strongly visible in Russian pedagogy,
+partly because of the overall consistency of practice and partly because those whom
+we interviewed were themselves fully aware of the roots of their thinking; for this is a
+pedagogy in which – unlike in England – education theory and history are held to be
+important. Thus, if Russian pedagogy owes much, via Vygotsky and his disciples, to
+Hegel and Marx, it owes no less to a tradition of pedagogic rationality which reaches
+back via Ushinsky to Comenius and Francis Bacon. And it is a familiar truth that Lenin
+and Stalin built directly on the Tsarist legacy of political autocracy, nationalism and
+religious orthodoxy, thus securing fundamental continuities amidst the chaos (Lloyd,
+1998; Hobsbawm, 1995). In interview, one of our Russian teachers spoke readily about
+the influence on her pedagogy of Vygotsky (1896–1934), Ushinsky (1824–1871) and
+Kamenski (Comenius, 1592–1670), not to mention a host of post-Vygotskians such
+as Davydov, Elkonin and Leont’ev, and academics at the local pedagogical university.
+How many British teachers have this depth of historical awareness – let alone such
+interest in what, beyond personal values, public policies and classroom circumstances,
+might inform their teaching?
+Temporal continuities such as these shape contemporary educational practice and
+set limits to the character and speed of its further development, notwithstanding the
+ahistorical zeal of government modernisers. The spatial continuities, casually crossing
+national borders without so much as a nod to Sadler, are detectable in a study involving
+several countries to an extent that is not possible, or plausible, in a study involving just
+two. These continuities place within our reach an important prize, that of differentiating
+the universal in pedagogy from the culturally specific.
+
+Versions of Teaching
+Again, it is not possible to list all the cross-cultural resonances we encountered in the
+Five Cultures research. However, overarching these were six versions of teaching and
+three primordial values which we briefly summarise.
+1. Teaching as transmission sees education primarily as a process of instructing
+children to absorb, replicate and apply basic information and skills.
+2. Teaching as initiation sees education as the means of providing access to, and
+passing on from one generation to the next, the culture’s stock of high-status
+knowledge, for example, in literature, the arts, humanities and the sciences.
+3. Teaching as negotiation reflects the Deweyan idea that teachers and students
+jointly create knowledge and understanding in an ostensibly democratic learning community, rather than relate to one another as authoritative source of
+knowledge and its passive recipient.
+4. Teaching as facilitation guides the teacher by principles which are developmental (and, more specifically, Piagetian) rather than cultural or epistemological.
+
+--- [PDF Page 920 / Book Page 936] ---
+
+936 Alexander
+
+The teacher respects and nurtures individual differences, and waits until children are ready to move on instead of pressing them to do so.
+5. Teaching as acceleration, in contrast, implements the Vygotskian principle that
+education is planned and guided acculturation rather than facilitated ‘natural’
+development, and indeed that the teacher seeks to outpace development rather
+than follow it.
+6. Teaching as technique, finally, is relatively neutral in its stance on society,
+knowledge and the child. Here the important issue is the efficiency of teaching
+regardless of the context of values, and to that end imperatives like structure,
+economic use of time and space, carefully graduated tasks, regular assessment
+and clear feedback are more pressing than ideas such as democracy, autonomy,
+development or the disciplines.
+The first is ubiquitous, but in the Five Cultures data it was most prominent in the
+rote learning and recitation teaching of mainstream Indian pedagogy. French classrooms provided the archetype of the second, but it also surfaced in Russia and India,
+and – though often under professional protest at the primary stage – in England and
+the United States (its more secure pedigree in English education perhaps lies with
+Matthew Arnold and the independent and grammar school traditions). Teachers
+in the United States frequently argued and sought to enact both the third and the
+fourth versions of teaching, often with explicit obeisance to John Dewey and Jean
+Piaget. Those in England, subject to the pressures of the government’s literacy
+and numeracy strategies, still made much of developmental readiness and facilitation though rather less of democracy. Drawing explicitly on Vygotsky’s maxim
+that ‘the only good teaching is that which outpaces development’, our Russian
+teachers illustrated the pedagogy of intervention and acceleration (5) which was
+diametrically opposed to facilitation and developmental readiness. At the same time,
+they, like teachers across a wide swathe of continental Europe, drew on the older
+Comenian tradition (6) of highly structured lessons, whole class teaching, the
+breaking down of learning tasks into small graduated steps, and the maintenance
+of economy in organisation, action and the use of time and space (Comenius, 1657,
+pp. 312–334).
+The trajectory of recent pedagogical reform shows interesting permutations on
+these. Thus, under the Government of India District Primary Education Programme,
+Indian teachers were urged to become more democratic (3) and developmental (4)
+(Government of India, 1998). The language of developmentalism and facilitation also
+found its way into policy documents in France and Russia (Ministère de l’Education
+Nationale, 1998; Ministry of General and Professional Education, 2000). In contrast,
+English teachers were being urged to emulate the continental tradition represented by
+(6), notably through the espousal of ‘interactive whole class teaching’ in the UK government’s literacy and numeracy strategies (DfEE, 1998, 1999). These are deliberate
+acts of pedagogical importation. How far the alien can accommodate to the indigenous
+remains to be seen.
+A distinctly continental European tradition has already been inferred. The Five
+Cultures data enables the idea of broad pedagogical traditions which cut across national
+
+--- [PDF Page 921 / Book Page 937] ---
+
+Towards A Comparative Pedagogy 937
+
+boundaries to be consolidated. In this research, the great cultural divide was the
+English Channel, not the Atlantic. There was a discernible Anglo-American nexus of
+pedagogical values and practices, just as there was a discernible continental European
+one, with Russia at one highly formalised extreme and France – more eclectic and less
+ritualised, though still firmly grounded in structure and les disciplines – at the other.
+India’s pedagogy was both Asian and European, as its history would suggest.
+
+Primordial Values
+Teachers in the five-nation study also articulated, enacted or steered an uncertain path between three versions of human relations: individualism, community and
+collectivism.
+Individualism puts self above others and personal rights before collective responsibilities. It emphasises unconstrained freedom of action and thought.
+● Community centres on human interdependence, caring for others, sharing and
+collaborating.
+● Collectivism also emphasises human interdependence, but only in so far as it serves
+the larger needs of society, or the state (the two are not identical), as a whole.
+●
+
+Within the observed classrooms, a commitment to individualism was manifested in
+intellectual or social differentiation, divergent rather than uniform learning outcomes,
+and a view of knowledge as personal and unique rather than imposed from above in
+the form of disciplines or subjects. Community was reflected in collaborative learning
+tasks, often in small groups, in ‘caring and sharing’ rather than competing, and in an
+emphasis on the affective rather than the cognitive. Collectivism was reflected in common knowledge, common ideals, a single curriculum for all, national culture rather
+than pluralism and multiculture, and on learning together rather than in isolation or in
+small groups.
+These values were pervasive at national, school and classroom levels. We are familiar with the contrast between the supposedly egocentric cultures of the West, with the
+United States as the gas-guzzling arch villain, and the supposedly holistic, sociocentric
+cultures of south and east Asia. Though there is evidence to support this opposition
+(Shweder, 1991) it is all too easy to demonise one pole and romanticise – or orientalise –
+the other. But I think when it comes to pedagogy the tripartite distinction holds up,
+and it seems by no means accidental that so much discussion of teaching methods
+should have centred on the relative merits of whole-class teaching, group and individual work.
+In France this debate can be traced back to arguments at the start of the nineteenth
+century about the relative merits of l’enseignement simultané, l’enseignement mutuel
+and l’enseignement individuel (Reboul-Scherrer, 1989). As a post-revolutionary
+instrument for fostering civic commitment and national identity as well as literacy,
+l’enseignement simultané won. Only now, reflecting decentralisation and the rising
+tide of individualism, has its hegemony begun to be questioned.
+
+--- [PDF Page 922 / Book Page 938] ---
+
+938 Alexander
+
+Individualism, community and collectivism are – as child, group and class – the
+organisational nodes of pedagogy because they are the social nodes of human relations. However, divorcing teaching as technique from the discourse of pedagogy as
+we so often do, we may have failed to understand that such core values and valuedissonances pervade social relations inside the classroom no less than outside it; and
+hence we may have failed to understand why it is that undifferentiated learning, wholeclass teaching and the principle of bringing the whole class along together ‘fit’ more
+successfully in many other cultures than they do in England or the United States, and
+why teachers in these two countries regard this pedagogical formula with such suspicion. For individualism and collectivism arise inside the classroom not as a clinical
+choice between alternative teaching strategies so much as a value-dilemma which may
+be fundamental to a society’s history and culture.
+But the scenario is not one of singularity. Human consciousness and human relations involve the interplay of all three values, and though one may be dominant they
+may all in reality be present and exist in uneasy tension. Nowhere was this tension
+more evident than in the United States, where we found teachers seeking to reconcile
+– and indeed to foster as equivalent values – individual self-fulfilment with commitment to the greater collective good; self-effacing sharing and caring with fierce
+competitiveness; and environmentalism with consumerism. Meanwhile, in the world
+outside the school, rampant individualism competed with the traditional American
+commitment to communal consciousness and local decision-making, and patriotism grappled with anti-statism. As the teacher interviews and lesson transcripts
+show, such tensions were manifested at every level from formal educational goals
+to the everyday discourse of teachers and children (Alexander, 2001, pp. 201–206,
+490–515).
+
+Conclusion
+If globalisation dictates a stronger comparative and international presence in educational research generally, there is a no less urgent need for comparativists to come to
+grips with the very core of the educational enterprise, pedagogy. Such an enterprise,
+however, demands as much rigour in the framing and analysis of pedagogy as in the
+act of comparing. In this chapter I have drawn on a five-nation comparative study
+of primary education to postulate principles and frameworks for a new comparative
+pedagogy. Pedagogy is defined stipulatively as the act of teaching together with its
+attendant discourses, ideas and values. The analysis of this discourse requires both that
+we engage with culture, values and ideas at the levels of classroom, school and system,
+and that we have a viable and comprehensive framework for the empirical study of
+teaching and learning. The interlocking models of pedagogy, teaching and curriculum
+in Figures 1–3, which were initially developed to frame the Culture and Pedagogy data
+analysis and have since been elaborated, link national culture, structure and policy
+with classroom agency; but they also allow for the structure–agency relationship to be
+played out within the micro-cultures of school and classroom.
+
+--- [PDF Page 923 / Book Page 939] ---
+
+Towards A Comparative Pedagogy 939
+
+The focus here is not on the detailed findings of the Five Cultures research but on
+the potential of its analytical framework to support the much-overdue development of
+a comparative pedagogy. But in arguing the centrality of culture, history and values
+to a proper analysis of pedagogy, and in applying the chosen frameworks, tools and
+perspectives to five countries rather than just one or two, we can open up other important domains: of the balance of change and continuity in educational thinking and
+practice over time, and of pedagogical diversity and commonality across geographical
+boundaries. In so doing, we are not only forced to reassess the Sadlerian resistance to
+educational import–export; we also come closer to identifying the true universals in
+teaching and learning. A properly conceived comparative pedagogy can both enhance
+our understanding of the interplay of education and culture and help us to improve the
+quality of educational provision.
+
+Notes
+1. This chapter draws in particular on the author’s comparative study of culture, policy and pedagogy in
+England, France, India, Russia and the United States (Alexander 2001) as well as the broader body of
+published work cited. Several of the author’s more recent papers on pedagogy within an international
+framework may be found in Alexander, R.J. ‘Essays on pedagogy’ (Routledge, July 2008);
+2. The chapter is a revised version of an article which first appeared in the journal Comparative Education,
+37(4), 507–523.
+3. With the permission of the teacher concerned. The ethics of using video as a research tool must always
+be taken seriously.
+
+References
+Ackers, J., & Hardman, F. (2001). Classroom interaction in Kenyan primary schools. Compare, 31(2),
+245–262.
+Alexander, R. J. (1996). Other primary schools and ours: Hazards of international comparison. Warwick,
+CREPE.
+Alexander, R. J. (1997). Policy and practice in primary education: Local initiative, national agenda.
+London: Routledge.
+Alexander, R. J. (2001). Culture and pedagogy: International comparisons in primary education. Oxford:
+Blackwell.
+Alexander, R. J. (2004). Still no pedagogy? Principle, pragmatism and compliance in primary education.
+Cambridge Journal of Education, 34(1), 7–34.
+Alexander, R. J. (2006). Dichotomous pedagogies and the promise of cross-cultural comparison. In A. H.
+Halsey, P. Brown, H. Lauder & J. Dilabough (Eds.), Education, Globalisation and social change (pp.
+722–733). Oxford: Oxford University Press.
+Apple, M. W. (1995). Education and power. London: Routledge.
+Archer, M. S. (1979). Social origins of educational systems. London: Sage.
+Archer, M. S. (1989). Culture and Agency: The place of culture in social theory. Cambridge: Cambridge
+University Press.
+Archer, M. S. (2000). Being human: The problem of agency. Cambridge: Cambridge University Press.
+Argyris, C., & Schön, D. (1974). Theory in practice: Increasing professional effectiveness. San Francisco,
+CA: Jossey-Bass.
+Bourdieu, P., & Passeron, J-C. (1990). Reproduction in Education, society and culture. London: Sage.
+Bowles, S., & Gintis, H. (1976). Schooling in capitalist America: Educational reform and the contradictions
+of educational life. London: Routledge.
+
+--- [PDF Page 924 / Book Page 940] ---
+
+940 Alexander
+Broadfoot, P. (2000). Comparative education for the 21st century: Retrospect and prospect. Comparative
+Education, 36(3), 357–372.
+Bruner, J. S. (1990). Acts of meaning. Cambridge, MA: Harvard University Press.
+Castells, M. (1997). The power of identity. Oxford: Blackwell.
+Clarke, P. (2001). Teaching and learning: The culture of pedagogy. New Delhi: Sage.
+Comenius, J. A. [1657] M. W. Keatinge (trans.) (1896). The great didactic. London, A. & C. Black.
+Cowen, R. (2000). Comparing futures or comparing pasts? Comparative Education, 36(3), 333–342.
+Crossley, M. (2000). Bridging cultures and traditions in the reconceptualisation of comparative and international education. Comparative Education, 36(3), 319–332.
+Crossley, M. & Jarvis, P. (2001). ‘Context matters’. Comparative Education, 37(4), 405–408.
+Department for Education and Skills (2003). Excellence and enjoyment: A strategy for primary schools.
+London: DfES.
+Department of Education and Employment (1998). The national literacy strategy: Framework for teaching.
+London: DfEE.
+Department of Education and Employment (1999). The national numeracy strategy: Framework for teaching mathematics from Reception to Year 6. London: DfEE.
+Giroux, H. A. (1983), Theory and resistance in education. London: Heinemann.
+Government of India (1998). DPEP moves on: Towards universalising basic education, Delhi: Government
+of India Ministry of Human Resource Development.
+Hobsbawm, E. J. (1995). Age of Extremes: The short twentieth century 1914–1991. London: Abacus.
+King, E. J. (1979). Other schools and ours: Comparative studies for today. Eastbourne: Holt, Rinehart &
+Winston.
+Kumar, K. (1991). Political agenda of education: A study of colonialist and nationalist ideas. Delhi: Sage.
+Leach, E. (1964). Models. New Society, 14 June.
+Leach, F., & Preston, R. (2001). Editorial. Compare, 31(2), 149–150.
+Little, A. (2000). Development studies and comparative education: Context, content, comparison and contributors. Comparative Education, 36(3), 279–296.
+Lloyd, J. (1998). Birth of a nation: an anatomy of Russia. London: Michael Joseph.
+Ministère de l’Éducation Nationale (1998). Bâtir l’école du XXI siècle. Paris: Ministère de l’Éducation
+Nationale.
+Ministry of General and Professional Education of the Russian Federation (2000). National doctrine of
+education in the Russian Federation. Moscow: Ministry of General and Professional Education.
+Moon, R. (1998). The English exception: International perspectives on the initial education and training of
+teachers. London, Universities Council for the Education of Teachers.
+Muckle, J. (1988). A Guide to the Soviet Curriculum: What the Russian child is taught in school. London:
+Croom Helm.
+Organization for Economic Co-operation and Development (OECD) (1998). Review of national policies for
+education: Russian Federation. Paris: OECD.
+Reboul-Sherrer, F. (1989). Les Premiers Instituteurs, 1833–1882. Paris: Hachette.
+Reynolds, D., & Farrell, S. (1996). Worlds apart? A review of international surveys of educational achievement involving England. London: TSO.
+Ruddock, G. (2000). Third international mathematics and science study repeat (TIMSS-R): First national
+report. London: DfEE.
+Sadler, M. (1900). How can we learn anything of practical value from the study of foreign systems of education? In J. H. Higginson (Ed.), Selections from Michael Sadler: Studies in world citizenship. Liverpool:
+Dejall & Meyorre.
+Said, E. (1979). Orientalism. London: Vintage.
+Sharpe, K. (1997). The Protestant ethic and the spirit of Catholicism: Ideological and instructional constraints on system change in English and French primary schooling. Comparative Education, 33(3),
+329–348.
+Simon, B. (1981). Why no pedagogy in England? In B. Simon & W. Taylor (Eds.), Education in the eighties:
+The central issues (pp. 124–145). London: Batsford.
+Shweder, R. A. (1991). Thinking through cultures. Cambridge, MA: Harvard University Press.
+
+--- [PDF Page 925 / Book Page 941] ---
+
+Towards A Comparative Pedagogy 941
+Sinclair, J. McH., & Coulthard, R. M. (1992). Towards an analysis of discourse. In M. Coulthard (Ed.),
+Advances in spoken discourse analysis (pp. 1–34). London: Routledge.
+Stevenson, H. W., & Stigler, J. W. (1992). The learning gap: Why our schools are failing and what we can
+learn from Japanese and Chinese education. New York: Simon & Schuster.
+World Bank (1996). Russia: Education in the transition. Washington, D.C.: World Bank.
+World Bank (2000). Entering the 21st century: World development report 1999–2000. New York: Oxford
+University Press.
+

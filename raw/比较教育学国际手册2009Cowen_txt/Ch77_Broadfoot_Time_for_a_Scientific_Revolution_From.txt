@@ -1,0 +1,773 @@
+================================================================================
+Chapter 77: Time for a Scientific Revolution? From Comparative Education to Comparative Learnology
+Author(s): Patricia Broadfoot
+Handbook: International Handbook of Comparative Education (2009)
+Editors: Robert Cowen and Andreas M. Kazamias (Section Editor: Elaine Unterhalter)
+Section: Section 8: The Cutting Edge - Questioning the Future
+Book Pages: pp. 1249–1266
+PDF Pages: pp. 1219–1236 (in raw/比较教育学国际手册2009Cowen.pdf)
+================================================================================
+
+--- [PDF Page 1219 / Book Page 1249] ---
+
+77
+TIME FOR A SCIENTIFIC REVOLUTION? FROM
+COMPARATIVE EDUCATION TO COMPARATIVE
+LEARNOLOGY
+Patricia Broadfoot
+
+A New Dawn for Comparative Education?
+The scale and reach of this handbook is welcome testimony to the current buoyancy of
+the field of comparative education – testimony to its intellectual energy, its theoretical
+reach and its considerable diversity. In recent years, comparative education has moved
+out of the doldrums it found itself in during the late twentieth century, acquiring both
+a new clarity of purpose and significantly increased external recognition of its value as
+an approach. There are a number of reasons for this.
+One of the most important has been the willingness of comparative educationists
+to grasp the opportunities provided by the advent of postmodernist perspectives; to
+progress from the on-going debates between positivist and humanist perspectives
+which dominated a previous era in order to embrace the rich intellectual potential of
+the emerging sociological emphasis on culture and lived experience. Comparative
+educationists have not shied away from the challenges presented by a more fractured
+way of looking at the world; nor have they failed to respond to the implications of
+the seismic changes taking place in the world. Indeed, a great deal of the recent
+interest in characterizing the field of comparative education has centred on these
+very issues – as shown, for example, in the twin millennium issues of the journal
+Comparative Education (Crossley & Jarvis, 2000, 2001).
+Thus, in place of the previously more typical focus on education systems and
+policies, national contexts and international surveys, we are increasingly seeing bold
+attempts to reconfigure the epistemology of the field; to apply hitherto untapped
+theoretical perspectives; to conceive new units of analysis and to widen the range of
+building blocks that form its focus such as micro comparative studies of classroom
+life. In short, as this Handbook convincingly demonstrates, the field of comparative
+education finds itself in ferment, a bubbling cauldron of new ideas and perspectives
+that has welled up in response to the significant intellectual challenges of an increasingly globalized world.
+But, happy as we should be at this state of affairs, there remain aspects of comparative education that are significantly less buoyant at the present time. Chief among these
+is the issue of methodology – the rigour of the research process itself. I do not refer
+to the kind of arcane debates about epistemologies which have long characterized the
+1249
+R. Cowen and A. M. Kazamias (eds.), International Handbook of Comparative Education, 1249–1266.
+© Springer Science + Business Media B.V. 2009
+
+--- [PDF Page 1220 / Book Page 1250] ---
+
+1250
+
+Broadfoot
+
+field. Rather I refer to the apparently simpler, but yet fundamental, questions concerning how data are collected; how they are analyzed and reported; how they are stored
+and how they may be made accessible to other researchers and future generations. As
+Crossley and Broadfoot (1992) have argued, this is an area that has received relatively
+little attention in the comparative education literature. Yet it is fundamental to the quality of the research that is ultimately produced.
+New times present new research challenges. If, as suggested above, there is now a
+growing recognition among scholars in the field that we need a re-conceptualization
+of the fundamental building blocks of comparative education, (see, e.g., Alexander
+et al., 1999), so too, I would argue, it is time for a fresh look at how adequate are the
+traditional tools of the trade for addressing the new research questions now emerging.
+It is perhaps not too whimsical to suggest that comparative education is in the process
+of moving out of a protracted adolescence into young adulthood. Like all adolescents,
+it has had to meet the challenge of separating from its parent disciplines as part of
+a process of exploring its own, potentially unique contribution; to endure a time in
+which it was not sure of its identity, in which it experimented with a variety of different perspectives and approaches; in which it lacked the self-confidence of a mature
+field. Hence there have been protracted discussions in the literature about ‘the state of
+the art’ (see, e.g., Bray, 2003; Watson, 2001) and occasional turf wars between rival
+orthodoxies.
+But, with the advent of explicit recognition of the implications of globalization,
+Governments are now becoming increasingly hungry for comparative insights. There
+is, in consequence, an unprecedented opportunity for a significant upscaling of the
+perceived importance of comparative studies of all kinds. This in turn requires the
+development of the field’s capacity to deliver research that it is adequate in its scope
+and sophistication to bear the weight of this interest. As always, coming of age brings
+with it increased responsibilities. Comparative education, like other comparative fields,
+must be able to deliver research findings that have a broad, international salience; in
+which the rigour of the process of conceptualization, research management, data-gathering and analysis is both robust enough to withstand politically motivated attacks and
+yet sufficiently fresh and original that it is able to provide the independent validation
+or challenge to the status quo that is its raison d’être.
+So what might be the features of such a sea change in the scale and sophistication
+of comparative education research? In this chapter I argue the need for two fundamental re-orientations that seem to me to be particularly pressing. The first of these
+re-orientations is, I suggest, a change in the focus, the epistemological foundation
+of what we currently term ‘comparative education’ and the concepts that frame the
+research questions being asked. The second re-orientation I want to argue for concerns
+the methodologies which comparative researchers currently employ. Thus in the first
+part of what follows, I seek to illustrate the need for a radical re-examination of the
+basic precepts of the field. In the second part of the chapter, I explore some of the
+exciting new methodological challenges for comparative education that are likely to
+present themselves in the years ahead if it is to meet the criteria of an ‘adult’ scientific
+discipline in the twenty-first century. Together these two sections provide the basis for
+a concluding section which describes a future in which comparative education has
+
+--- [PDF Page 1221 / Book Page 1251] ---
+
+Time for a Scientific Revolution? 1251
+
+indeed come of age: an approach to comparative studies that combines the best of an
+illustrious tradition with a refreshed theoretical orientation and enhanced empirical
+rigour. These new developments in the field, it is suggested, will in turn underpin the
+possibility of conducting comparative studies which are both on an unprecedented
+scale and also have an international impact on conventional thinking about educational
+delivery.
+
+From Comparative Education to Comparative ‘Learnology’?
+Previously, I have criticized the world of education for being slow to challenge the
+accepted ‘delivery’ model of conventional schooling (as well as now, increasingly,
+higher education) (Broadfoot, 2001). I have drawn attention to the irony that whilst
+a surgeon transported from an operating theatre in say 1900 to one in the twentyfirst century would find themselves hard put to understand the function of almost all
+the equipment it contained, a school teacher from that time would feel immediately
+at home in the conventional paraphernalia of a contemporary classroom. Although
+slightly unfair, this comparison does underline how little the accepted wisdom concerning educational delivery has so far been challenged. Education is still broadly
+conceived as the transmission of a given body of knowledge from either a teacher or
+a book or some combination of the two, knowledge which is ‘studied’ by the student
+and hopefully ‘learned’ sufficiently well to be reproduced in some kind of examination process. If all goes well, the student passes the test set and everyone is happy. If
+it does not go well, failure is generally explained as either a lack of application on
+the student’s part (‘must try harder’) or as a reflection of some innate weakness on
+the part of the latter (‘less-able student’). This model of learning, accords ill with
+what we know from the growing body of ‘learning science’ (Claxton, 1999) even in
+the Western world in which it mainly developed. It accords even less well with the
+traditions and learning approaches of other cultures (see, e.g., Watkins & Biggs,
+1996; Hufton et al., 2003).
+Given the hitherto largely unchallenged nature of this paradigm, either by educationists or by policy-makers, it is unsurprising that virtually all educational research,
+including comparative education, focuses in one way or another on aspects of this
+‘delivery’. Whether it is the formation of education policy, educational administration
+and management, the training of teachers, questions of school organization, curriculum development, assessment procedures or any of the other topics that form the focus
+for educational research, such studies are almost always conceived within the status
+quo in that they concern how to improve on solutions to current problems of organization and delivery – how we can provide education more efficiently, more equitably,
+or more effectively. Rare indeed are the occasions when either the theoretical or the
+empirical magnifying glass is set up to examine rather different assumptions and questions concerning education and learning.
+Thus, although pressure has been building up within the field of comparative education to recognize the significance of the cultural flesh on the skeleton of laws and
+policies, systems and resources which formally define educational provision, this trend
+
+--- [PDF Page 1222 / Book Page 1252] ---
+
+1252
+
+Broadfoot
+
+has yet to challenge the established parameters of the field. It has yet to challenge the
+discourse that defines educational issues in terms of a delivery model of education
+in which countless thousands of children and young people throughout the world are
+more or less successfully processed through centrally determined curriculum packages
+and taught to compete with each other in the business of regurgitating their knowledge
+in specific ways. Most contemporary developments within the field of comparative education must thus be regarded as still essentially debates within the existing
+paradigm. There is a need, I would argue, for the application of more postmodern
+conceptual tools, to create a ‘neo-comparative’ education (Broadfoot, 1977, 2001) that
+recognizes the very considerable research evidence that now exists concerning the
+shortcomings of conventional models of education. The critical lens provided by comparative educational research can arguably play a key role in the search for concepts
+and approaches that will be more fruitful for the twenty-first century. For whereas the
+‘delivery’ model of education may have served well enough for less rapidly changing
+times, it is becoming increasingly clear that it is ill-equipped to respond to a world
+of pervasive information technology, rapidly changing employment markets and the
+absence of a common canon of values and behavioural norms.
+So far, one of the most defining characteristics of the twenty-first century is the
+erosion of the boundaries between formal education and other activities in life. The
+worlds of work and home, leisure and study are becoming increasingly integrated.
+This means that the modernist conception of education as a defined and organized
+form of activity conducted in a specialist institution and conceived as a preparation
+for adult life thus becomes increasingly anachronistic. Indeed, it could be said that
+in an increasingly postmodern world, the continued use of modernist paradigms of
+educational organization and of teaching and testing, are a powerful reactionary force
+helping to sustain the status quo. If the ‘normal science’ (Kuhn,1962) of education is
+to be challenged, then research must provide the seed bed of the necessary ‘scientific
+revolution’, or ‘paradigm shift’.
+Such a paradigm shift, I suggest, needs to move learning itself centre stage as the
+focus of study. Questions such as how individuals can best be helped to engage successfully with the myriad different forms of learning opportunity that technological
+development has made available pose novel challenges for educational research. For
+comparative education in particular, the broader and more amorphous territory of learning, challenges its more traditional focus on education systems and the problems of
+provision. If learning per se, rather than provision for its acquisition or the evaluation of
+its outcomes, becomes accepted as the new centre of gravity for the discipline, so it might
+be reasonable to reflect this development in a change of nomenclature. ‘Comparative
+education’ as a descriptor might be replaced by ‘comparative learnology’ as a new
+name for research that seeks better to understand the business of learning by using the
+systematic comparison of contexts and cultures. The use of the descriptor ‘comparative
+learnology’, whilst not perhaps defensible in the face of a sustained exegesis, would
+nevertheless provide a strong signal that the centre of attention for such studies is the
+process of learning itself and the forces that shape individuals’ engagement with it.
+This is particularly important because, as suggested above, despite the enormous
+volume of research on teaching and learning that has been undertaken over the years,
+
+--- [PDF Page 1223 / Book Page 1253] ---
+
+Time for a Scientific Revolution? 1253
+
+there is still a considerable gap in our understanding of how to improve learning outcomes in the many different contexts in which learning takes place. Where there is
+a preoccupation with ‘what works’ – as is increasingly the case among governments
+anxious to ‘raise standards’, there is a corresponding tendency to ignore the inevitable
+complexity of the learning process and a consequent failure to take into account some
+of the complex social forces that impact upon it. Among these are the following as
+identified by James and Brown:
+The influence that the environment (characteristics of learners or the learning
+context) has on the success of a particular approach in promoting learning
+● The difficulty of clearly conceptualizing some aspects of learning that are seen as
+highly desirable (e.g., attitudes, dispositions, values, identities) but do not have a
+common interpretation in the way that straightforward practical or cognitive skills do
+● The difficulty of assessment in cases where a clear conceptualization of the learning is yet to be established
+● Problems at a theoretical level that arise from a lack of engagement of many of the
+theories of learning with those of teaching or instruction (i.e., a lack of pedagogy)
+● The need to provide evidence of learning in a form that will convince the community beyond academic researchers’ (James & Brown, 2005, p. 9)
+●
+
+As James and Brown argue, how individuals learn in different settings and cultures and
+how this process can best be facilitated, are questions to which the answer is neither
+simple nor unambiguous. Indeed, so complex are the factors involved that, in the best
+traditions of social science, as Kazamias has argued (Bouzakis, 2000), illumination
+is as likely to come from the humanistic tradition using, for example, a historical
+approach, case studies and other forms of qualitative data, than from the more systematic, controlled studies of the positivist tradition. Alexander’s comparative study of
+learning in five countries provides a good illustration of this approach building on the
+foundations laid by earlier studies such as those of Osborn and colleagues (2003).
+Added to the challenge of seeking to understand the interaction between learning
+processes, and the impact of particular contexts, is the fact that learning itself takes
+many different forms. Various efforts have been made to define the main elements
+such as those of Gardner (1993). Recently, the advent of new neurological research
+techniques has served further to stimulate such efforts with an unprecedented interest in the brain itself as part of the attempt to understand the process of learning (see,
+e.g., Perkins, 1995). This application of neuroscience underpins the developing field
+of ‘learning science’ as a major field of research endeavour to complement more traditional educational perspectives.
+Even a relatively high-level categorization of different kinds of learning such as that
+provided by James and Brown (2005, p. 9) powerfully illustrates the importance of
+such perspectives where learning is the central focus of enquiry:
+Attainments including subject knowledge or work competencies
+Understanding – of ideas, concepts and processes
+● Cognitive and creative learning involving performance or ‘new’ knowledge
+● Using – involving the application of practical or technological skills
+●
+●
+
+--- [PDF Page 1224 / Book Page 1254] ---
+
+1254
+
+Broadfoot
+
+Higher-order learning including metacognition
+Dispositions – attitudes, perceptions, motivation
+● Membership, inclusion self-worth – the shaping of learner identity
+●
+●
+
+The particular contribution that comparative studies can make to our understanding of
+these complexities is the effort to understand the complex interaction between different kinds of learning and different cultural and institutional settings such as attempts
+to explain and evaluate the significance of the various kinds of learning that individual
+cultures prioritize. Moreover, a particular strength of a comparative approach to learning science as embodied in a ‘comparative learnology’ would be a respect for the
+cultural integrity of key concepts. Such a research approach would make no initial
+assumptions about how the purpose and processes of learning were being defined in
+the setting being studied.
+Whilst the differences between cultures in this respect are unlikely to be as significant in today’s, post-colonial, globalized world as they once might have been, there
+remains plenty of evidence in the pages of both anthropological journals and those
+dedicated to comparative education that processes of learning and their goals continue to vary widely around the world. Moreover, as priorities for learning change in
+response to social and economic change, there is likely to be increasing fracturing of
+traditional educational models and tools.
+Educational testing provides a powerful example of the potential difference between
+modernist and postmodernist educational perspectives. The quotation below describes
+a more humanistic, individualized perspective on this most positivist of educational
+technologies:
+[I]f being a learner is about becoming a member of a community and engaging
+in norms of social practice and tool use, or if one accepts ‘knowledge creation’
+as an important learning outcome in a knowledge society then the perceived
+need for valid and reliable assessment instruments … might disappear. … If the
+learning outcomes in which we are interested are dynamic, shifting and sometimes original and unique, we need a new methodology of assessment, perhaps
+drawing more on ethnographies and peer-review approaches in social science,
+appreciation and connoisseurship in the arts and advocacy, testimony and judgment in law. (James & Brown, 2005, p. 19)
+Such an approach to evaluation is in stark contrast with the kind of modernist approach
+embodied in most contemporary forms of assessment and testing which are predicated on
+an objectivist stance. The series of international surveys of educational attainment of recent
+years provide one of the most powerful examples of this tradition using as they do, sophisticated quantitative methodologies for comparative purposes. Reviewing the key role of
+OECD in such studies, McGaw (2004) provides the following description of the search by
+a consortium of 30 member countries for education ‘indicators’ that will permit:
+The systematic examination and assessment of the performance of a state by
+other states, with the ultimate goal of helping the reviewed State improve its
+
+--- [PDF Page 1225 / Book Page 1255] ---
+
+Time for a Scientific Revolution? 1255
+
+policy-making, adopt best practices, and comply with established standards and
+principles. (Pagani, 2002, p. 1)
+This project is based on a model of education that assumes that ‘one size fits all’. It
+is arguably flawed both in not taking into account significant contextual differences
+between the nations involved and in not questioning the accepted structures and delivery of formal education as it has evolved in the last century or so.
+Yet, although many comparativists have deplored the technical inadequacies of such
+international surveys of achievement over the years (see, e.g., Goldstein, 2004; Brown,
+1999) there has been little attempt so far to challenge them in the terms set out above,
+namely, that such surveys of achievement represent the increasingly global imposition
+of a unidimensional model of education that reinforces and celebrates only a small
+part of the rich tapestry of actual and potential learning. The more countries strive
+to compare themselves on such common yardsticks, the more it becomes unlikely
+that comparisons of other kinds of learning outcome will be pursued, which are less
+amenable to formal assessment, even though they may be more important,.
+I rehearse these arguments in order to highlight the urgent need for comparative
+educationists to recognize that as the field is becoming increasingly influential in policy terms, so the responsibility of comparative education to be self-critical in terms of
+its focus and methodology also grows correspondingly. It would be a sad irony indeed
+if the contemporary dynamism of the field proved, in the end, to be a reactionary
+force rather than fulfilling its unique potential to provoke a fundamental questioning
+of accepted perspectives within education.
+If the digital revolution and the dawning of the information age means that formal education provision is becoming a relatively small part of the range of learning
+opportunities available to individuals, comparative studies of that learning need to
+embrace both the widest possible range of theoretical perspectives and the full canon
+of available methodologies from complex statistical analyses based on huge quantitative data-bases at one extreme through to intensive ethnographic studies on the other.
+A comparative focus on the process of learning itself offers a far more ambitious
+intellectual project with the potential for research that embraces a scale and range
+of contributory disciplines hitherto almost unimaginable to address, for example, the
+much neglected ‘affective domain’ – the part played by the perceptions and feelings of
+the individual learner. Thus, comparative studies could draw on insights derived from
+anthropology to neuroscience, political science to systems engineering and the arts, to
+gain a much more profound understanding of the constants and contexts of learning.
+The initial contribution of adopting a ‘comparative learnology’ perspective would
+be to problematize the discourse of comparative education since the existing apparatus
+of educational assumptions and terminology arguably encourages collective conceptual blinkers. Even the most familiar terms – ‘comparative’, ‘international’, ‘system’
+and ‘policy’ – embody a range of taken-for-granted assumptions about the appropriate
+focus and subject matter for such studies. As such, these terms, as a form of discourse,
+are themselves a source of power and control (Foucault, 1977).
+The skeptical reader may justly feel that this bandying of new jargon is neither
+necessary nor helpful. It is certainly the case that for a century or more, comparative
+
+--- [PDF Page 1226 / Book Page 1256] ---
+
+1256
+
+Broadfoot
+
+education has provided a wide range of valuable insights into aspects of educational
+provision and practice – the deliberate management of learning – and that it is these
+insights that form the foundation for the current ascendancy of the field. But despite
+these successes, I suggest that if comparative education remains in this paradigm in
+the future, it will find itself in a self-referencing and self-reinforcing vicious circle
+in which research fails to challenge in any fundamental way the conventional ways
+of conceiving learning and hence, educational problems and issues. Having failed to
+rise to the challenge of change, comparative ‘education’ will in turn find the validity
+and reliability of the research process subject to progressive erosion and with it, the
+capacity of the field to make an impact.
+A comparative study of learning, by contrast, what I refer to here as ‘comparative
+‘learnology’, offers an exciting range of new research avenues. Such a ‘neocomparative education’ would still retain an important place for the existing project of
+comparing the educational process in different cultures. However, it is likely to involve
+a more interdisciplinary even ‘meta-disciplinary’, approach in which a range of social
+disciplines such as sociology, politics, economics, geography, cultural studies, anthropology and history combine on occasions with the physical sciences and medicine, to
+illuminate the complex and interrelated realities that impinge on learning. Examples
+in this respect might include the interaction between diet and learning outcomes in
+different cultures, or the impact of pollution on brain functioning in different national
+settings. In both these cases, whilst there may be significant differences in the educational interventions in the settings being compared, these interventions may ultimately
+be of less significance than differences between the populations being studied that
+derive from quite different factors. A focus on learning, rather than education per se,
+will, I suggest, make it more likely that these other factors and perspectives will be
+taken into account. This in turn should encourage a challenge to the established boundaries of the field that will provoke new questions and concerns as well as eventually,
+produce new insights that will challenge the dominance of prevailing discourses about
+what is desirable in education and how this may best be achieved.
+
+Some Problems of Methodology
+Shifting the focus of comparative study from education to learning also requires the
+development and use of new research tools that take full advantage of contemporary
+advances in technology in their ability to capture and compare social reality. Such
+developments make it possible to anticipate the possibility that the twenty-first century
+will witness significant development in terms of the rigour, scale and innovation of
+comparative methods.
+Thirty years ago, writing in a special issue of the journal Comparative Education
+devoted to the then ‘state of the art’, I suggested that ‘comparative education is not a
+discipline but a context’ (Broadfoot, 1977), that it needs to be conceived as part of a
+more generally conceived – the word repetition is deliberate here – interpretive social
+science perspective. The challenges for comparative education are thus the challenges
+for social science as a whole. As comparativists, we endeavour constantly to ‘make the
+
+--- [PDF Page 1227 / Book Page 1257] ---
+
+Time for a Scientific Revolution? 1257
+
+familiar strange’, to recognize that in a ‘science’ where words are the principal tools,
+there must be a continual search for new epistemologies, new methodological tools
+and new vision. Yet comparative studies also provide a particular challenge since of
+all the methodologies of social science, they are potentially among the most powerful providing as they do something of a ‘virtual’ laboratory’ for the study of different
+approaches to aspects of social organization. It is the recognition of this potential that
+is fuelling the significant growth of large-scale international comparative studies at
+the present time such as the European Social Survey (www.europeansocialsurvey.org)
+which involves a series of collaborative surveys between more than 20 countries to
+compare key facets of contemporary life in those countries.
+But if comparative studies offer perhaps the best approximation in the field of social
+science to the systematic research methods of natural science, they are also associated
+with some of the most difficult methodological challenges. This is particularly the case
+in relation to the comparative study of learning since the latter involves such a complex
+interaction of different factors. Thus, as I outline below, a ‘comparative learnology’ is
+likely to require sophisticated methodological approaches that take full advantage of
+the new social research technologies now being developed.
+
+Cultures and Contexts
+Not surprisingly, the challenges facing the development of comparative education are
+broadly shared with other applied social fields such as Social Policy. At the present time
+all social science disciplines have to respond to the challenge of globalization which is
+reflected in the increasing importance of an international focus both for research problems and in the organization of research teams. The recent European Union initiative
+to establish ‘Networks of Excellence’ (www.frontierseu.org/networks), for example,
+is typical of the growing trend towards larger, international collaborations in research
+projects and the development of communities of researchers drawn from several
+nations. But whilst such cooperation is in principle supportive of both the rationale
+and the practice of comparative studies, it also highlights the endemic problems of
+working across contexts and cultures.
+Whilst these problems accompany both quantitative and qualitative studies, it is with
+regard to the latter that some of the core issues of comparative studies become particularly intractable. The difficulty of achieving equivalence of concepts and comparability
+of meaning between cultures and contexts, for example, or the representativeness of
+the cases chosen for study is particularly salient when generalizability depends on a
+relatively small number of cases. The logic informing the choice of case or country
+selection will critically affect the validity of the study. Whilst the standard assumption
+is to compare ‘most similar cases’ this may not always be the most fruitful design and it
+will not be easy to know this at the outset of a qualitative study. Where studies depend
+heavily on words, rather than numerically coded data, there may be problems working
+with raw data that is rarely fully translated or where the data have been translated, since
+such data are inevitably subject to the overlay of human interpretation by others such
+as interviewers and translators, as well as by the researchers themselves. Moreover, the
+
+--- [PDF Page 1228 / Book Page 1258] ---
+
+1258
+
+Broadfoot
+
+data that form the basis for analysis are often summaries of cases – cases that are often
+not comparable if produced by an international team especially if they are derived
+from Government sources.
+Yet difficult as such issues are methodologically, they must be addressed if a sufficiently rigorous basis for comparative qualitative studies is to be provided. For, as
+Stenhouse (1979) argued, there is a need for a much greater emphasis on evidence
+in the conduct of comparative studies because it is through the provision of evidence
+that:
+[e]xperience is made public to invite judgment in dialogue, and such judgement
+rests upon the possibility of an appeal to evidence. This evidence, the fundamental data source for comparative education, must be description; and I am going
+to argue that since it became a self-conscious academic study, comparative education has paid too little attention to observation and description, preferring to
+emphasise such abstractions as statistics and measurements on the one hand and
+school ‘systems’ on the other. … [A] comparative base for critical interpretation
+is of very great importance.
+I am … asking that we develop in our field a better grounded representation of
+day-to-day educational reality resting on the careful study of particular cases.
+(Stenhouse, 1979, pp. 8, 10)
+
+Sharing Access to Data
+If the starting point for a ‘comparative learnology’ is the individual learner’s lived reality, their feelings and experiences, then the sort of observation and description called
+for by Stenhouse must be the starting point. This approach requires the application of
+specific qualitative methods including the capture of biographical and visual data, in
+order to understand the diversity of individual experience and the impact of change,
+that is, methods that can capture the intersection of time and space. Such case-based,
+rather than variable-based comparisons, provide for an understanding of the different
+layers of context. They can form the basis of controlled comparisons or be simply in
+the form of a patchwork of qualitative case-studies.
+But whatever their design, the data produced by studies that emphasise observation
+and evidence present a particular challenge in terms of their accumulation, storage
+and future access. Where large sums of money have been spent on a cross-national
+comparative project, it is clearly desirable that the products are stored in a form such
+that they can be readily accessed by other researchers in the future. Once again, it
+was Stenhouse who exhorted researchers to be ‘meticulous about their records and,
+as soon as they have completed their study, such records of first hand observation and
+interviewing need to be lodged in national archives which could be replicated internationally on microfiche’.
+If the first part of Stenhouse’s exhortation has proved difficult enough to achieve – the
+UK requirement to lodge all qualitative data derived from ESRC sponsored research
+
+--- [PDF Page 1229 / Book Page 1259] ---
+
+Time for a Scientific Revolution? 1259
+
+in the ‘Qualidata’ national archive, for example, has proved costly and demanding for
+researchers in terms of organization, funding, legal obligations and protection – how
+much more challenging will be achieving similar repositories on an international
+scale, with all the legal and language issues involved. The rapid development of ‘grey
+literature’ available on the internet coupled with the development of open access
+repositories represents a significant step forward in our collective technical ability to
+share both data and analyses. However, significant challenges remain concerning the
+management of and access to such sources. As with any large research team, there
+are more or less complex issues of ownership, authorship and the archiving of data,
+the increasing prominence of research governance and ethics issues and the requirement for transparency in relation to respondents, suggests a growing need for agreed
+international protocols and standards, research guidelines and an ethical code. But at
+present there is no obvious international body to translate such pressures into action.
+
+Funding Constraints
+The problems associated with large-scale data management and access are compounded
+by prevailing research funding regimes. Historically, comparative education studies
+have found it difficult to attract funding. More recently, the growing recognition on the
+part of governments in particular of the value of comparative studies has meant that
+such funding is now more readily available. Yet the latter remains both largely national
+in focus and short-term. Not only does this make it difficult to set up more internationally focused projects, it also renders studies and the data they produce, vulnerable to
+national political agendas and protectionism with regard to access. Although there are
+some green shoots appearing with regard to international cooperation on data storage
+and access, such developments remain a long way short of the sustained international
+effort that would be needed to establish data repositories on the kind of significant
+international scale that currently prevails in other fields such as Medicine.
+
+The Skills Gap
+There is also the problem of ‘the skills gap’– an international cadre of researchers who
+are trained to a sufficiently high level not only in the basic quantitative and qualitative methodologies of comparative education, but in the specific linguistic, theoretical
+and methodological skills needed to undertake a rigorous comparative study. The
+exceptionally challenging task of studying two or more locations each with its several levels of context and culture that impact in a complex way on learning, calls for
+individuals with very specific experience and training. The anthropologist undertaking
+an ethnographic study of a particular classroom setting or cultural learning tradition
+is faced with an exponentially more complex task if the study becomes a team-based
+and multi-site comparison as several recent comparative education studies have illustrated (Osborn et al., 2003; Alexander, 2000). The need for researchers to work in
+increasingly interdisciplinary teams, and to be able to access and use ‘metadata’ of all
+kinds, is likely to require a significant increase in the level of methodological training
+
+--- [PDF Page 1230 / Book Page 1260] ---
+
+1260
+
+Broadfoot
+
+available to both new and experienced researchers if they are to be equipped with the
+skills to take advantage of these new facilities.
+The result of all these problems associated with pursuing comparative research, as
+Holmwood (2005) has argued, is that a great many comparative studies, including a good
+number of those in the field of comparative education, have exhibited depth without
+breadth in the form of an in-depth, narrowly oriented study of a single setting or case or,
+at the other extreme, breadth without depth, manifest in large-scale, often quantitative,
+cross-national comparative projects seeking to garner basic data from multiple cases.
+The pursuit of comparative studies of learning or what I have termed ‘comparative learnology’, arguably requires the rich descriptive power of a qualitative approach
+since only this kind of approach can preserve cultural integrity and hence validly represent the situational wholeness of learning. Whilst it would be wrong to decry the
+value of more quantitative and large-scale comparative surveys, for both hypothesis
+formation and hypothesis testing, I submit that such studies are more likely to reinforce outmoded ways of thinking about educational delivery and particularly about
+learning. The spurious seductiveness of what the nineteenth-century British Prime
+Minister, Benjamin Disraeli, referred to as ‘lies, damned lies and statistics’ has a great
+capacity for reification. As is widely acknowledged, statistical data alone are unlikely
+to be able to explain and situate the patterns they document.
+Figure 1 provides a typical example in this respect. Using data drawn from the
+OECD PISA study, it presents a very interesting set of data concerning the relationship between achievement in Mathematics as a function of within and between school
+differences and social background. Powerful as such comparisons are they are likely to
+be substantially more valuable if embedded in a much more comprehensive database
+of different kinds of data involving sustained and sophisticated interdisciplinary data
+collected over a long period of time.
+By the same token qualitative studies are bedeviled by the difficulty of producing
+findings that are sufficiently large scale and convincing in their rigour to be able to
+challenge accepted orthodoxies. The successful realization of a ‘comparative learnology’ providing comprehensive and generalized insights into learning will require both
+these challenges to be overcome. This will require both a step change in the scale of
+data collection and management currently being undertaken, more sustained funding
+and a significant increase in international cooperation.
+So far I have argued that the potential contribution of comparative education, like
+other comparative fields of study, has been limited both by the burden of an accumulation of different and abstract epistemological positions which can be found in the
+history of the field and by the limitations inherent in established approaches to datagathering and analysis. In the third section of this chapter, I explore the prospects for
+overcoming these constraints in terms of the potential to expand exponentially the
+scale and quality of the enterprise whilst retaining the ecological validity of the subject. I deal first with the potential contribution of new methodological tools and then
+finally, with the epistemological perspective which should drive the future use of these
+powerful new research instruments.
+
+--- [PDF Page 1231 / Book Page 1261] ---
+
+Figure 1. Variance in student PISA 2003 Mathematics achievement partitioned into within and between school components
+Source: OECD (2004, p. 383)
+
+Time for a Scientific Revolution? 1261
+
+--- [PDF Page 1232 / Book Page 1262] ---
+
+1262
+
+Broadfoot
+
+New Questions, New Tools
+As suggested above, one of the most promising contemporary developments in comparative studies is the potential contribution of new technologies. At the most basic
+level, such technologies are transforming the possibilities for international collaboration between researchers. The advent of ‘access grid nodes’, for example, which has
+made it possible to have virtual electronic meetings, is transforming the constraints
+of time and cost that inhibited such collaboration in the past. Such opportunities for
+live discussion and sharing have in turn made much more practicable the blending of
+different cultural perspectives so necessary to authentic comparative studies.
+Even more significant, potentially, is the capacity for new technologies to transform
+the scale of data collection and storage. It is becoming increasingly possible to capture
+live performances of various kinds, not only in more familiar oral and video recordings, but also using digitization. This in turn permits access to data at a distance as well
+as more sophisticated comparisons of its content. Thus, for example, data from the
+three existing sweeps of the European Social Survey (ESS), which aims to provide a
+high quality measure of long-term change in international attitudes, currently involves
+27 European countries and has produced a vast volume of comparative information
+about these countries, which is readily accessible to academics around the world using
+their own desk-top computers.
+Moreover, access to huge international data-sets seems set to grow exponentially as
+a result of advances in ‘E Science’. This is the capacity to transport huge volumes of
+digital data by means of ‘the grid’ – a very high powered international computer network. Developed by natural scientists, these technologies are now being harnessed by
+social scientists to make possible the advent of ‘E Social Science’. It is now possible
+to begin to use such techniques for retrieving archived data, for example, – to capture
+historical reality in all its richness. Thus for example, in the UK the ‘JISC’ Digitization
+programme is making possible the translation of some 600 volumes of census reports
+relating to the British Isles covering the period from 1801 to 1933 which will be available to any researcher who wishes to access it. News stories dating back to 1896 and
+television newsreels from 1955 are also being made into a digital historical archive.
+At present such projects are not focused directly on education but it is easy to see
+how the availability of huge volumes of digital data – whether numeric, pictorial or
+text-based – will transform our collective capacity to interrogate the reality of social
+life on a comparative basis. In due course, the availability of ‘qualitudinal’ surveys –
+longitudinal qualitative data-bases of aspects of social life in different countries – will
+complement the existing quantitative, longitudinal surveys which have long been the
+bedrock of epidemiological studies in public health and to an extent, in education.
+Such developments make it possible to begin to imagine the advent of comparative
+studies of a quite different order of magnitude than in the past, with data-bases and
+associated search tools that begin to rival some of the most prestigious natural science
+installations such as the high speed particle collider at CERN in Switzerland that is
+provided by means of scientific collaboration between many nations. If it is now not too
+difficult to begin to envisage a future in which the collective capacity to do comparative
+studies will be vastly enhanced by the availability of huge, well-organized and textually
+
+--- [PDF Page 1233 / Book Page 1263] ---
+
+Time for a Scientific Revolution? 1263
+
+rich data-bases, complete with user-friendly interfaces. Such facilities are also likely to
+bring with them new methodological challenges in terms of data-management, data ownership and access, the protection of confidentiality and so on. As well as requiring much
+more sophisticated ethical and administrative protocols, the operation of such ‘comparative laboratories’ on a collaborative international basis presents quite new political and
+methodological challenges. This is already apparent in the attempts by the European
+Union to set up such a European Observatory for the social sciences (EHROS).
+To take advantage of such developments it will be necessary for scholars in the
+field of comparative education, as in other comparative social science fields, to be
+highly trained professionals in methodology, as well as in their chosen subject of study,
+capable of working across other cultures and disciplines as a global community of
+researchers. As is increasingly being recognized, the pressing social problems and
+issues of our age are both global and complex, requiring an unprecedented degree
+of interdisciplinary and international collaboration. As I have suggested, one of these
+contemporary global issues, is the need to address the very substantial new challenges
+facing the world of education through the use of comparative methods that will permit
+a better understanding of learning in all its contexts and modes.
+These methodological and organizational developments have the potential to take us
+a long way from the traditional territory of comparative education. They suggest the
+possibility of the collection and coordination of data concerning education and learning
+to become as sophisticated and coordinated internationally as is currently the case for
+other fields such as health or climate change whilst retaining the necessary depth and
+range of qualitative material that is essential to sustain the cultural integrity of the data.
+This has not typically been the case up to now for, as the following statement from the
+UK Economic and Social Research Council illustrates, even where substantial international and interdisciplinary coordination of data management has taken place:
+[t]he heavy investment by international organizations such as The Council of
+Europe, Eurostat, the International Labour organization, the United Nations
+and the World Health Organisation in data mining and post hoc harmonization
+of national data, this has not been matched by a similar level of attention to
+methodology, methods training, research design and the research process among
+funders. As a result, many of the projects supported by international organisations are limited to series of parallel (noncomparable) studies. Frequently,
+national teams collect data about a specific phenomenon in their own countries
+without prior discussion of crucial methodological issues, such as the social construction of concepts in different cultural conditions and research communities
+national or ideological contexts. (Holmwood, 2005, p. 2)
+It is increasingly being recognized that all social science is by definition global, and
+that the use of comparative methods therefore is in turn fundamental to social science.
+Historically, the vision of many comparative fields has been limited by discipline and scale
+and by a national focus. The potential of such studies has also been limited by a failure
+to work collaboratively and to be too content with a ‘cottage-industry’ approach in terms
+of funding, methodological sophistication and the provision of large-scale infrastructure.
+
+--- [PDF Page 1234 / Book Page 1264] ---
+
+1264
+
+Broadfoot
+
+Although comparative education has been characterized by some commendably ambitious attempts to increase its scale and impact, such as the PISA study referred to above,
+such international collaborations have been far from typical. Moreover, the political and
+methodological challenges inherent in such collaborations have inevitably led to limitations and compromises in the depth and comparability of the data collected.
+
+Towards a Neo-Comparative Education
+In this chapter, I have argued that with the new methodological possibilities that political and technological advances are now increasingly opening up it is time to engage in
+the collective challenge of ‘re-engineering’ comparative education. This does not simply mean the pursuit of richer, deeper, larger-scale and more collaborative studies. Nor
+does it mean the creation of sustained comparative ‘observatories’ or data laboratories
+housing data on a scale hitherto undreamed of in the world of social science yet accessible from the desk-top computer, important as both such contemporary developments
+promise to be. New technical and methodological opportunities such as these can only
+be of limited usefulness unless they are accompanied by a willingness to think through
+anew the questions that drive such data-gathering and analysis.
+For, however sophisticated the technologies for data collection and management
+become, as far as the social sciences are concerned, there must also be provision for
+the more reflexive engagement of the researcher with context and culture. There is a
+fundamental difference between the natural sciences and the human sciences since, as
+Habgood (1998) has argued, the latter are fundamentally interpretive. The philosophical
+foundations of the human sciences, he suggests, are defined in terms:
+which cannot exclude the role of the human mind in expressing intentions,
+generating meaning and discerning values. … The human sciences seek for
+understanding through a process of interpretation and total lived experience of
+being human … without allowing individual disciplines to obscure the complexity and interconnectedness of actual human existence (p. 6). … But as we
+reflect on what we ourselves are, and on what our history has made us, all the
+disciplines are relevant because we stand at the point where they all meet, both
+as observers and as objects of study. (p. 10)
+Comparative education has always been explicitly or implicitly reformative or, as
+Nicholas Hans famously put it ‘intentionally reformative’. The reason for undertaking
+comparative education studies has not typically been simply that of scholarly interest,
+though there is a place for this. Rather, as with most other branches of educational
+research, the goal historically has been to find ‘what works’ and to use such insights
+to inform educational policy-making and educational practice. Whilst few would want
+to quarrel with this broad aspiration as a prospective goal, in practice its pursuit rests
+on a judgement about what constitutes reform or improvement. In order to map out a
+journey, it is necessary to have a clear view of the destination. This in turn implies the
+
+--- [PDF Page 1235 / Book Page 1265] ---
+
+Time for a Scientific Revolution? 1265
+
+need for a root and branch examination of the epistemological foundations of what we
+now know as ‘comparative education’.
+The key argument of this chapter has been that what we currently refer to as ‘comparative education’ needs to broaden its focus to embrace learning of all kinds as
+its central focus. I have suggested that the contemporary field is constrained by the
+conceptual constraints associated with modernist assumptions about educational
+delivery. Such concepts, which were the product of a very different time, remain an
+important and fruitful focus for comparative education study. However, as the world
+of education itself becomes subject to increasingly radical change, so, I have suggested, the centre of gravity for comparative education needs to shift towards a more
+central focus on learning rather than education per se. We need to begin to question
+whether the world of education in the future will need classrooms and schools, books
+and teachers, syllabuses and tests as we know them today, How will new technologies with their capacity for individualizing learning; for making it fun; for providing
+immediate feedback; and for being accessible at any time and in any place, impact on
+different cultures? What will be the balance of learning in and out of formal institutions, at home, school and work, at different ages and for different purposes? What
+kinds of learning will be most important? Will learning how to learn, for example,
+replace ‘learning that’ or ‘learning how’ as the key driver? Where will moral and
+spiritual learning figure compared to other kinds of curriculum content and skills
+development in the societies of the future?
+On the answers to these and similar questions rests the legitimate focus for future
+comparative studies of education. In particular, I have suggested that the comparative education of the future will need to be capable of both framing and capturing the
+diversity of learning that goes well beyond what is conventionally encompassed in the
+term ‘education’ at the present time. The advent of this shift in the focus of study for
+comparative education happily coincides with the growing availability of much more
+powerful research tools for data collection and analysis. The capacity of these new
+tools to capture the rich complexity of daily life and to make such data widely available
+on an international basis offers, I suggest, an unprecedented opportunity for comparative education to upscale from a ‘cottage industry’ endeavour to that of a multinational
+corporation. It is to be hoped that in the future, large-scale and sustained international
+collaborations of highly trained teams will increasingly provide for the comprehensive
+study of learning, the scale of collaboration hitherto only associated with international,
+quantitative studies of achievement.
+To the extent that it is able to develop such a capacity for interdisciplinary and
+qualitative studies of learning on a significant scale, comparative education is likely to
+move from being either the blunt tool of policy-makers on the one hand or the arcane
+scholarly endeavour of academics on the other, to being a powerful force for change
+in the way we think about education. I believe that such a ‘neo-comparative education’
+that is centred on the processes of learning itself, can make a significant contribution
+to the urgently needed re-examination of the goals of education in the contemporary
+globalized world. Appropriately, (if ungrammatically), termed ‘comparative learnology’,
+this new orientation might be the first step in a scientific revolution.
+
+--- [PDF Page 1236 / Book Page 1266] ---
+
+1266
+
+Broadfoot
+
+References
+Alexander, R; Broadfoot, P., & Phillips, D. (1999). Learning from comparing: New directions in comparative educational research. Oxford, UK: Symposium.
+Alexander, R. (2000). Culture and pedagogy. Oxford: Blackwell.
+Bouzakis, J. (Ed.) (2000). Historical-comparative perspectives: Festschrift in honour of Andreas Kazamias.
+Athens: Gutenberg.
+Bray, M. (Ed.) (2003). Comparative education: Continuing traditions, new challenges and new paradigms.
+Kluwer. Netherlands: Dordrecht.
+Broadfoot, P. (1977). Decision-making in education – the comparative contribution. Comparative Education
+Special Issue, Summer, 13(2), 133–137.
+Broadfoot, P. (1999). Stones from other hills may polish the jade in this one. Presidential address to inaugural
+meeting of British Association for International and Comparative Education (BAICE). Compare 29(3).
+Broadfoot, P. (2000). Comparative Education for the twenty-first Century: Retrospect and Prospect
+Comparative Education 36(3), 358–371.
+Brown, M. (1999). Problems of Interpreting International Comparative Data In B. Jaworski & D. Phillips
+(Eds.), ‘Comparing Standards Internationally’ Oxford Studies in Comparative Education vol 9 no 1
+pp. 183–207.
+Claxton, G. (1999). Wise-Up: The challenge of lifelong learning. London: Bloomsbury.
+Crossley, M., & Broadfoot, P. (1992). Comparative and international research in education: Scope, problems
+and potential British Educational Research Journal, 18(2), 99–112.
+Crossley, M., & Jarvis, P. (Eds.) (2000). Comparative education for the twenty-first century. Comparative
+Education, 36(3), 261–375.
+Crossley, M., & Jarvis, P. (Eds.) (2001). Comparative education for the twenty-first century: An international
+response. Comparative Education, 37(4), 405–531.
+Foucault, M. (1977). Discipline and punish. Translated by Alan Sheridan. London: Allen Lane.
+Gardner, H. (1993). Multiple intelligences. New York: New Horizons Basic Books.
+Goldstein, H. (2004). International comparative assessment: How far have we really come? Review Essay
+Assessment in Education, 11(2), 227–234.
+Habgood, J. (1998). Theology and the sciences. The Athenaeum Lecture, London.
+Holmwood, J. (2005). Small and large – N comparative solutions Paper presented at ESRC seminar on
+comparative research methods, University of Bristol December.
+Hufton, N. R., Elliott, J. G., & Illushin L. (2003). Teachers’ beliefs about student motivation: Similarities and
+differences across cultures. Comparative Education, 39(3), 367–389.
+James, M., & Brown S. (2005). ‘Grasping the TLRP nettle: A preliminary analysis and some enduring issues
+surrounding the improvement of learning outcomes’. The Curriculum Journal, 16(1), 7–30.
+Kuhn, T. (1962). The structure of scientific revolutions. Chicago, IL: University of Chicago Press.
+McGaw, B. (2004). The role of the OECD in international comparative studies of achievement. OECD Paris
+mimeo.
+OECD (2004). Denmark, lessons from PISA 2000. Paris: OECD.
+Osborn, M., Broadfoot, P., McNess, E., Planel, C., Ravn, B., & Triggs, P.(2003). A world of Difference?
+Comparing learners across Europe. Maidenhead: Open University Press.
+Pagani, F. (2002). Peer review: A tool for cooperation and change – an analysis of an OECD working
+methods. Paris: OECD. (www.oecd.org/about)
+Perkins, D. (1995). Outsmarting IQ: The emerging science of learnable intelligence New York: The Free
+Press.
+Stenhouse, L. (1979). Case studies in comparative education: Particularity and generalisation Comparative
+Education 15(1) 7–14.
+Watkins, D., & Biggs, J. (Eds.) (1996). The Chinese learner. Hong Kong: CERC and ACER.
+Watson, K. (Ed.) (2001). Doing comparative education research: Issues and problems Oxford: Symposium.
+

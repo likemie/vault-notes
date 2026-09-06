@@ -35,7 +35,7 @@ related_concepts:
   - "[[Cognitive Offloading]]"
   - "[[Critical Thinking]]"
   - "[[Socratic Dialogue]]"
-  - "[[AI Hallucination]]"
+  - "[[Scaffolding]]"
   - "[[Structured Teaching]]"
   - "[[Reflexivity]]"
   - "[[Ontology]]"
@@ -105,13 +105,13 @@ updated: 2026-09-02
 > **[[Critical Thinking|批判性思维]]赋能可供性（CT Affordances, 5 大维度）**
 > - **[[Metacognition|元认知监控]]与反思支架（Reflection, n = 27）** 作为[[Socratic Dialogue|苏格拉底式对话]]伙伴，即时挑战学生推论并促发反思。
 > - **论证建构与多源辩护（Argumentation, n = 22）** 辅助梳理复杂论点结构，生成对立论据以强化论辩逻辑。
-> - **事实查错与去[[AI Hallucination|幻觉]]检验（Fact-checking, n = 19）** 提供含瑕疵文本作为批判性核查与红队审验的靶子。
+> - **事实查错与去幻觉检验（Fact-checking, n = 19）** 提供含瑕疵文本作为批判性核查与红队审验的靶子。
 > - **复杂问题结构化拆解（Problem Decomposition, n = 16）** 协助将复杂大任务分解为可操作的微认知子步骤。
 > - **情境化概念释义与类比（Exemplification, n = 14）** 针对抽象概念生成多情境实例与跨学科类比解释。
 >
 > **[[Creativity|创造性思维]]赋能可供性（CrT Affordances, 5 大维度）**
 > - **[[Divergent Thinking|发散思维]]与构想广度爆发（Ideation, n = 31）** 打破思维定势，快速列出远距离非常规概念与方案。
-> - **篇章结构与跨语言表达支架（Language Scaffolding, n = 24）** 克服母语词汇壁垒，辅助修辞重组与体裁转换。
+> - **篇章结构与跨语言表达支架（Language [[Scaffolding]], n = 24）** 克服母语词汇壁垒，辅助修辞重组与体裁转换。
 > - **[[Role-playing|角色扮演]]与认知视角转换（Perspective-taking, n = 18）** 模拟多元利益攸关方开展多角度虚拟研讨。
 > - **起始创作焦虑破冰（Anxiety Relief, n = 16）** 作为低威胁性[[Brainstorming|头脑风暴]]玩伴，克服面对空白页的起始创作阻滞。
 > - **跨学科概念原型迭代重组（Prototyping, n = 14）** 将 AI 产出作为原材料进行二次解构、嫁接与原型重塑。
@@ -144,7 +144,7 @@ updated: 2026-09-02
 > 批判将技术视为灵丹妙药的技术决定论，确立可供性的生态系统观。
 
 > [!claim] Kirschner et al. (2004); [[Argument_Li_2026_CEAI|Li et al. (2026)]]
-> **可供性的关系性[[Emergence|涌现]]** 技术的教育价值并不预先封装在软件代码之中，而是在学习者与任务环境交互时被动态感知与激活。缺乏高阶认知准备的学习者无法感知复杂认知脚手架的可供性，唯有在三者良性匹配时，技术潜能才能转化为有效学习行为。[[Argument_Li_2026_CEAI|(Kirschner et al., 2004; Li et al., 2026, pp. 2–3)]]
+> **可供性的关系性[[Emergence|涌现]]** 技术的教育价值并不预先封装在软件代码之中，而是在学习者与任务环境交互时被动态感知与激活。缺乏高阶认知准备的学习者无法感知复杂[[Scaffolding|认知脚手架]]的可供性，唯有在三者良性匹配时，技术潜能才能转化为有效学习行为。[[Argument_Li_2026_CEAI|(Kirschner et al., 2004; Li et al., 2026, pp. 2–3)]]
 
 ---
 
@@ -221,7 +221,7 @@ updated: 2026-09-02
 > - **基于 ADDIE 模型的[[Creativity|创造性]]写作可供性教学框架（Cake, 2025; [[Argument_Li_2026_CEAI|Li et al., 2026]]）**
 >   利用 ChatGPT 的“构想发散”与“修辞重组”可供性，教师引导学生在分析（Analyze）与设计（Design）阶段使用 AI 激发远距离联想，在开发（Develop）阶段强制学生进行二次批判解构，使最终作品的原创性获得显著提升。
 > - **复杂跨学科项目中的 AI [[AI Agent in Education|智能体]]分步微提示系统（[[Argument_Liu_2026_CHBR|Liu et al., 2026]]）**
->   将 AI Agent 定位为“脚手架中介”，通过分步提示释放概念分解与程序引导可供性，使学生的高阶推理与[[Problem Solving|问题解决]]成绩提升达 $g = 0.540$。
+>   将 AI Agent 定位为“[[Scaffolding|脚手架]]中介”，通过分步提示释放概念分解与程序引导可供性，使学生的高阶推理与[[Problem Solving|问题解决]]成绩提升达 $g = 0.540$。
 
 ---
 

@@ -6,7 +6,7 @@ aliases:
 summary: "在教育研究与全球化社会学中，指代默认主权国家是教育的唯一提供者、出资者与监管者，并将“教育治理”等同于“国家行政管理”的方法论还原主义偏误。它是 Roger Dale 提出的阻碍全球化教育研究的“三大方法论陷阱”之一。"
 type: concept
 domain: "research-methodology"
-related_count: 15
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Methodological Educationism]]"
   - "[[Space of Flows and Space of Places]]"
   - "[[Realism in International Relations]]"
-  - "[[AI Hallucination]]"
   - "[[Travelling Policy]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Analytic Framework]]"
@@ -80,7 +79,7 @@ updated: 2026-07-11
 
 > [!feature] 核心要素
 > - **国家中心主义[[Hypothesis|假设]]（State-Centric Assumption）** 认为凡是属于教育政策的事物，其始作俑者和最终落实者必须是国家教育部等政权科层机构。
-> - **权威单一性[[AI Hallucination|幻觉]]（Illusion of Unitary Authority）** 假设主权国家在领土范围内拥有绝对、单一的控制权，忽视了当今全球治理网络中权威实际上在向超国家机构（如世界银行、[[OECD]]）及次国家实体（如教育产业公司）扩散的现实。 (引自 [[Argument_Klerides_2023_CE|Klerides, 2023, p. 423]])
+> - **权威单一性幻觉（Illusion of Unitary Authority）** 假设主权国家在领土范围内拥有绝对、单一的控制权，忽视了当今全球治理网络中权威实际上在向超国家机构（如世界银行、[[OECD]]）及次国家实体（如教育产业公司）扩散的现实。 (引自 [[Argument_Klerides_2023_CE|Klerides, 2023, p. 423]])
 > - **跨国政策流动的技术遮蔽（Technical Obfuscation of Transnational Flows）** 在分析本国教育改革时，仅从国内政治周期或领导人意图出发解释，从而在方法论上过滤掉跨国**[[Travelling Policy|旅途政策]]**和多边基准评估对国内改革的无声[[Disciplina and Doctrina|规训]]。
 
 > [!logic-map]- 要素关系

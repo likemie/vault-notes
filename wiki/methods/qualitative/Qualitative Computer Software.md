@@ -10,7 +10,7 @@ summary: "用于辅助质性研究中文本和图像数据组织、排序和搜�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 13
+method_related_count: 12
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -20,7 +20,6 @@ tags:
   - software
 related_concepts:
   - "[[Reflexivity]]"
-  - "[[AI Hallucination]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Questionnaire]]"
   - "[[Hypothesis]]"
@@ -51,7 +50,7 @@ updated: 2026-08-16
 > 质性计算机软件（Qualitative Computer Software），即计算机辅助质性数据分析软件（Computer Assisted Qualitative Data Analysis Software，CAQDAS），是用于辅助质性数据分析的计算机程序，帮助研究者组织、排序和搜索文本或图像数据库中的信息（Guest et al., 2012; 引自 Creswell & Creswell, 2022, Ch9, p.206）。传统 CAQDAS（NVivo、MAXQDA、ATLAS.ti 等）主要提高[[Coding in Qualitative Research|编码]]效率，本身并不进行数据分析；Kelle（2004, p. 277）曾称软件与其说是分析文本，不如说是组织和结构化文本以供后续分析。这一判断如今已部分过时，LLM 辅助工具已能承担编码与主题抽取等机械分析环节（见下文），但诠释与效度判断仍属研究者职责。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.4)]]
 
 > [!info] 当下的新进展：LLM 辅助质性编码
-> 传统 CAQDAS 主要负责数据组织、编码与检索，分析仍靠研究者完成。近年来大语言模型（large language model，LLM）已能直接参与质性分析的机械环节，包括自动生成与建议编码、对文本片段归类、抽取主题与摘要、进行持续比较等，显著降低手工编码负担。研究者仍须对 LLM 输出负责：校验编码一致性、保留[[Reflexivity|反身性]]与诠释、报告使用方式与局限（如[[AI Hallucination|幻觉]]、语境丢失、刻板偏误）。这一进展部分缓解了 Kelle 关于算法式诠释存在严格限度的旧判断，但诠释与效度判断仍属研究者职责。
+> 传统 CAQDAS 主要负责数据组织、编码与检索，分析仍靠研究者完成。近年来大语言模型（large language model，LLM）已能直接参与质性分析的机械环节，包括自动生成与建议编码、对文本片段归类、抽取主题与摘要、进行持续比较等，显著降低手工编码负担。研究者仍须对 LLM 输出负责：校验编码一致性、保留[[Reflexivity|反身性]]与诠释、报告使用方式与局限（如幻觉、语境丢失、刻板偏误）。这一进展部分缓解了 Kelle 关于算法式诠释存在严格限度的旧判断，但诠释与效度判断仍属研究者职责。
 
 ## 主要用途
 

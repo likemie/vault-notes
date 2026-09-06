@@ -1,0 +1,629 @@
+================================================================================
+Chapter 72: Digital Technology and Education: Context, Pedagogy and Social Relations
+Author(s): Andrew Brown
+Handbook: International Handbook of Comparative Education (2009)
+Editors: Robert Cowen and Andreas M. Kazamias (Section Editor: Elaine Unterhalter)
+Section: Section 8: The Cutting Edge - Questioning the Future
+Book Pages: pp. 1159–1172
+PDF Pages: pp. 1132–1145 (in raw/比较教育学国际手册2009Cowen.pdf)
+================================================================================
+
+--- [PDF Page 1132 / Book Page 1159] ---
+
+72
+DIGITAL TECHNOLOGY AND EDUCATION:
+CONTEXT, PEDAGOGY AND SOCIAL RELATIONS
+Andrew Brown
+
+Introduction
+Digital technology, and particularly information and communications technology, is
+frequently, but rather obliquely, referred to in contemporary academic comparative
+education. Most commonly the capacity to enable rapid international communication
+and networking is invoked as a facilitating factor in the process of globalization, or
+more generally as a key component in the formation of contemporary societies, be
+they identified as postmodern, late-modern, post-industrial, knowledge-centred or
+some variant of these. Very rarely, however, is sustained attention given to the characteristics and uses of these technologies themselves. This is a pity, since lack of critical
+scrutiny can lead us to accept some questionable assumptions about what digital technologies do and can do in relation to education and society.
+It is all too easy to get drawn towards utopian visions which, for instance, view
+virtual worlds as new frontiers in which material constraints and physical oppression
+can be cast aside in the creation of new digital democracies, throwing open access
+and opportunity to disenfranchised and marginalized groups. Likewise, the virtual
+dystopian complement of this, the potentially unbounded and unregulated moral and
+cultural corruption of society, is equally easy to envision and elaborate. A comparative perspective, which by definition grounds and contextualizes activity, on the uses
+of digital technology would caution and protect against the collapse into any single
+unitary perspective. Comparison as an activity demands difference, diversity and, at
+its best, dialogue, and as an academic activity requires explanation, understanding and
+theoretical development. With respect to digital technologies, however, such academic
+comparative scrutiny is largely absent.
+This lack of specific attention to digital technology constitutes a further lost opportunity in the development of comparative education. Cowen (2006) argues that:
+the academic field of study called comparative education must always deal with
+the intellectual problems produced by the concept of context (the local, social
+embeddedness of educational phenomena) and transfer (the movement of educational ideas, policies and practices from one place to another, normally across
+a national boundary); and their relation. (Cowen, p. 561)
+
+1159
+R. Cowen and A. M. Kazamias (eds.), International Handbook of Comparative Education, 1159–1172.
+© Springer Science + Business Media B.V. 2009
+
+--- [PDF Page 1133 / Book Page 1160] ---
+
+1160
+
+Brown
+
+The academic study of digital technology and education presents copious opportunities
+to explore the pedagogic, social and cultural dynamics of embedded educational and
+cultural practices, and offers an ever-expanding constellation of examples of the transfer of technologies and practices from one context to another. Above all else, it offers
+rich opportunities for the exploration of the effects of re-contextualization, both as these
+technologies and associated practices move from one context to another and as the
+technologies themselves act as a conduit for the transfer of knowledge and the bringing
+together of individuals and groups, and their pedagogic, cultural and social practices.
+In the light of this, rather than address the local and global impact of digital technology
+in general terms, in this chapter I will address a number of dimensions, and specific
+instances, of the educational use of digital technologies in a range of contexts.
+In planning and compiling the World Yearbook of Education 2004 (Brown & Davis,
+2004), which addressed the theme of digital technology, communities and education,
+Niki Davis and I focused on the uses of digital technologies by individuals and groups
+in a variety of contexts, both in their own learning and in the creation of learning
+communities and networks. As in this chapter, we worked with a broad conception
+of digital technology, taking this to include both technologies for the production and
+manipulation of digital artifacts, such as digital video and audio, and digital communication technologies and media, such as the internet and mobile telephony, signifying
+a convergence of digital production and distribution. We also set out to explore the use
+of digital technologies in a wide range of contexts, for instance in individual and collective activities, formal and informal educational settings, and economically rich and
+poor communities. The resulting collection was correspondingly diverse in the perspectives adopted and the substantive focus of the papers, ranging from consideration
+of the impact of digital technology on pedagogic modes and school curricula through
+the technological augmentation of everyday cultural practices and economic activities
+of children and adults to the extension of the locality, networks and community from
+geographic into virtual space.
+In this chapter I will take up some of the key themes explored and consider these
+in the light of recent developments in practice. In particular, I want to explore the
+relationship between the practice and its context in relation to the production and
+reproduction of social relations in and through education, a distinctly sociological concern but not incompatible with Cowen’s framing of academic comparative education.
+Engaging with digital technologies and their uses challenges our conceptions of what
+constitutes a context (by, for instance, the facilitation of virtual communities) and,
+though their capacity to act as a conduit within and between contexts, foregrounds the
+need to understand the processes and effects of transfer.
+
+Learning Technologies
+Alexander’s (2001) international comparison of primary education in five countries
+illustrates the complexity of the relationship between the practices of formal education
+and the historical and contemporary political, social, cultural and economic conditions
+of the societies in question. The organization of pedagogic spaces, modes of regulation,
+
+--- [PDF Page 1134 / Book Page 1161] ---
+
+Digital Technology and Education: Context, Pedagogy and Social Relations 1161
+
+the content of the curriculum, student expectations, the construction of identities, the
+recognition of achievement and so forth are interrelated, are shaped by a complex
+of factors from the systemic to the individual level and vary across contexts. Digital
+technologies present a number of challenges to these practices, but clearly, given the
+manner in which practice is shaped in different contexts, these challenges take different forms and have diverse consequences.
+As Kress (2004) has argued, the manner in which information is presented on the
+screens of computers and portable digital devices, for instance, challenges existing
+notions of literacy. As multi-modal forms of presentation and representation become
+increasingly common, a demand grows for the facility to produce and interpret not
+only linear written text, but also audio, digital still images, animation, video and so on.
+The bringing together of these forms of representation into complex non-linear hypertexts further extends what we might consider to be basic communicative competence
+in the digital age:
+The media of the new screens provide, simultaneously, means for the production of text and for its dissemination. Given the facts of social diversity, the
+disappearance, or attenuation, or absence of central power, and above all the
+displacement of the state by the market as the telling source of power, there is
+now no longer a canonical mode of representation. Rather, the characteristics
+of the audience (now in any case no longer seen as citizens but as consumers),
+their needs, wishes and their real or attributed desires move into the foreground.
+Representational mode becomes a matter of design: does this group prefer image
+or writing? Moving image or still? What ensemble of modes will serve best my
+rhetorical needs vis-a-vis this audience? (Kress, 2004, p. 38)
+The potential impact of digital technologies on schooling is itself multi-dimensional. The
+incorporation of competences relating to the use of digital technology into the curriculum of the school clearly transforms the content of the curriculum, but more than this,
+argues Kress, the productive potential of the creation of multi-modal texts demands the
+radical revision of underlying models of learning from the reproduction of meaning to
+the individual and collective production of meaning, from a curriculum based on transmission to a curriculum based on design. Furthermore, as Jewitt (2003) has observed,
+the move away from the acquisition of ‘competences’ to the fostering of creativity and
+innovation, with the consequent reshaping of the curriculum and of pedagogy, creates a
+need for transformation of the practices of assessment within the school:
+The multimodal reshaping of the construction of curriculum entities and the
+practices of reading brought forth by the multimodal context of learning, in particular computer mediated learning, have important consequences for literacy
+and assessment. There is a need to move beyond language in order to understand
+the complexity of learning and literacy in the multimodal environment of the
+classroom. Further, in order to assess what it is that is learnt assessment needs
+to re-focus in order to attend to the full range of modes involved in learning.
+(Jewitt, 2003, p. 100)
+
+--- [PDF Page 1135 / Book Page 1162] ---
+
+1162
+
+Brown
+
+In this way the use of digital technology both within and beyond the school has the
+potential to provoke transformation in the curriculum, in pedagogy and in assessment
+by virtue of the increasing importance given to multi-modal communication, and in
+particular production, in contemporary schooling. Digital technologies can also be
+incorporated into the school as pedagogic resources, and used in teaching and learning
+across the curriculum (for instance, in the development of virtual and managed learning environments, the use of digital visual and audio production, the use of the internet
+to access information and facilitate collaboration). Whilst much of the literature on
+digital technology and education presents these transformations as necessities (a thinly
+veiled form of technological determinism), there is marked variation at the level of
+practice. This is unsurprising because, from studies such as Alexander’s, we already
+understand that the practices of schooling are diverse and are the product of a complex
+of influences. Digital technology and its associated practices and potentials, inside and
+outside formal education, are made sense of, and incorporated into and transformed
+by, systems of schooling in the context of this diversity and complexity.
+Studies of the use of digital technology in specific contexts present a predictably
+varied picture of the realization of this potential in practice. As part of Module 1 of
+the Second Information Technology in Education Study (SITES M1), a survey of the
+use of ICT in primary and secondary schools in 26 countries was carried out (Pelgrum
+& Anderson, 1999). This revealed substantial variation in the extent to which new
+technology was used in schools, and highlighted differences in access to new technology and variation in teacher knowledge as key factors in this. Module 2 of the study
+(SITES M2) followed this up by collecting reports on innovative pedagogical practices
+(locally defined and identified by national expert panels) from each of the participating
+countries (Kozma, 2003). In her analysis of the resulting 130 case studies, Law states
+that there is some evidence of a shift towards “more collaborative, student-directed,
+enquiry-based and productive modes of learning” (Law, 2004, p. 151). This statement
+is made, however, on the basis of examples of what could be considered by the expert
+panels to be best practice and thus not necessarily representative of practice more generally. Grouping these cases into six activity types (ranging from innovative scientific
+investigation and project work, through media production and online courses, to more
+conventional task-based learning and expository teaching), Law then explores the role
+played by the teacher and the pedagogic strategies they use.
+The picture that emerges is that whilst there is evidence of substantial innovative
+practice using new technology, in terms of the kinds of activities set, the role of the
+teacher and the kinds of pedagogic strategies they use are somewhat more conventional. Law observes that whilst innovative practice is almost equally represented in
+the case studies from the five regions covered by the study (the Americas, Eastern
+Europe, Western Europe, Southern Africa and Asia), the distribution of innovative
+pedagogy varies markedly. From this she suggests that whilst the dissemination and
+transfer of activity types between regions is relatively well established, the transformation of pedagogic practices or teacher roles is somewhat less common and more
+difficult in practice. These, it could be suggested, are less prone to change as they
+are tied to both the professional identities of teachers and local pedagogic cultures.
+The range of what is pedagogically possible in one region, or country, or school, for
+
+--- [PDF Page 1136 / Book Page 1163] ---
+
+Digital Technology and Education: Context, Pedagogy and Social Relations 1163
+
+instance, in making the transition from predominantly didactic forms of pedagogy to
+more facilitative approaches, can be very different from another. The next phase of the
+SITES study (Plomp, Pelgrum & Law, 2007) includes exploration of the factors within
+and beyond school that might act to shape pedagogical practice and the use of digital
+technology in the classroom, and the contextual factors amongst these that might dispose teachers and schools to innovative practice.
+In wide-ranging and large-scale multinational studies such as SITES, it is difficult to explore the relationship between digital technology, pedagogic practice and the
+impact on student attainment in any meaningful way (given the diversity of forms of
+schooling). Some sense of this relationship can be gathered from more detailed and
+nuanced studies in specific, more limited contexts. Take, for instance, the evaluation
+of the use of interactive whiteboards in London schools, carried out by Moss and colleagues (2007). Substantial investment has been made in the provision of interactive
+whiteboards in schools in economically wealthy countries. These enable teachers to
+develop teaching materials that incorporate multi-modal resources (including image,
+sound and movement) and to use these interactively with classes of students. Moss and
+colleagues set out to ascertain the impact of large-scale investment in this particular
+pedagogic technology across London, focusing particularly on the process of learning and teaching, student and teacher motivation, student behaviour and attendance,
+and standards of student attainment in core curriculum subjects. In this study, once
+again, the manner in which the technology is used in teaching is highly variable, with
+the most innovative practice being most evident in the practice of those leading in the
+introduction of the technology.
+In assessing the potential of this technology to transform pedagogy, the researchers
+observe that this depends on what the teachers think it is for. They find that teacher
+thinking about interactive whiteboards revolves around the potential for greater pace of
+delivery, increased multi-modality of teaching resources and a more interactive form of
+class teaching. However, the extent to which pedagogic change can be fostered depends
+on how deeply the technology is integrated into the pedagogic approach adopted and
+how the facilities offered by the technology relate to established forms of pedagogy in
+the classroom and the character of the particular subject area being taught. Put simply,
+speed of delivery, or the use of a variety of forms of representation, may or may not
+be beneficial in the learning and teaching of particular aspects of particular subjects.
+The potential of the technology thus relates to the existing pedagogic practices and
+to the pedagogic cultures and curricular content of the area being learnt and taught.
+Whatever the perceived potential and observed practice, the research was unable to
+find evidence of any relationship between student attainment in the core curriculum
+subjects and increased use of interactive whiteboards in the year of the study.
+The point here is that, again, the form of realization of this digital technology in
+practice relates to the context in which it is embedded. As the technology moves from
+place to place, its meaning changes. The technology itself is both re-contextualized and
+re-contextualizing. Kress and colleagues see digital technology as transforming modes
+of representation and communication and, through this, demanding a transformation
+in our models of learning and practices of education. In the practice of formal, and
+informal, education these technologies and their usage are radically contextualized,
+
+--- [PDF Page 1137 / Book Page 1164] ---
+
+1164
+
+Brown
+
+and, as international studies such as the SITES studies and more localized studies,
+such as Moss and colleagues, demonstrate, factors such as the pedagogic culture of a
+context (at any level from a system to a specific classroom), the skills and understandings of teachers and the expectations of the students act to shape what is possible and
+lead to a diversity of practices, which conform and diverge in varying degrees from
+any imagined ideal. There is more to be understood, though, than the dynamics of the
+contingency of practice. These practices have social consequences and potentials, and
+to explore these I want to shift attention from one side of the pedagogic relation to the
+other and to look at the engagement of learners (though a neat distinction between
+teachers and learners can sometimes be difficult to sustain over time), with a particular
+interest in the strategies by which differentiation is achieved. I will also shift attention
+from the physically defined settings of schools and classrooms to virtual pedagogic,
+and other, settings.
+
+Pedagogic Spaces
+Changing modes of communication and representation do not necessarily attenuate
+the tendency of education to produce and reproduce social and cultural differences
+in the distribution of attainment and life chances. Gino’s (2006) study of visual communication in an economically deprived urban neighbourhood in Israel, for instance,
+has explored the manner in which children from three culturally diverse groups living
+in close proximity draw on their distinct cultural histories in making and interpreting
+images. These children inhabit the same physical neighbourhood, but in their everyday
+lives have limited opportunities for interaction with children from the other communities. Visual communication, and in particular the making of images to represent
+aspects of their experience of living in the neighbourhood, can be seen as offering
+an opportunity to share experiences and perspectives and the creation of a common
+space and mode of communication that bypasses linguistic differences. However, the
+cultural differences between the groups give rise, despite working together to construct
+and share their work, to very different kinds of image, not only at the level of visual
+conventions, but also in terms of what can be represented.
+The move to the visual here could be seen as reinforcing rather than attenuating
+cultural difference. This raises interesting questions with respect to the potential of
+computer-mediated multi-modal representation, both in relation to learning to make
+sense of a diversity of forms of text (where and how might this take place?) and the
+potential of intercultural communication (to what extent do online communities, with
+ready-at-hand shared communicative practices and understandings, reinforce divisions constructed and played out in neighbourhoods such as these). Here we have three
+communities in a tightly bounded physical space with shared common resources and
+experiences, but whose networks of identification are defined elsewhere and stretch
+beyond this setting. Online communication offers different possibilities, by virtue, for
+instance, of its dominant visual conventions, to each group, and both provides the
+potential to evade, for better or for worse, interaction with other groups prominent in
+their physical neighbourhood, and to reinforce existing social, cultural and, ultimately,
+economic differences.
+
+--- [PDF Page 1138 / Book Page 1165] ---
+
+Digital Technology and Education: Context, Pedagogy and Social Relations 1165
+
+A study of three secondary schools serving distinctly different communities in
+post-apartheid South Africa by Dowling and Brown (in press) explores the relationship between the characteristics of a community (including the culture and practices
+of students and parents, and the positioning of schooling and teachers in relation to
+this community and its aspirations) and pedagogic practices and relations within the
+schools (including the layout of classrooms, the use of texts, the modes of interaction
+between students and teachers, and the teaching and learning strategies of teachers
+and students). How school students position themselves in relation to their immediate
+locality and community, and how they envisage their future trajectories in relation to
+these communities clearly has an impact on their orientations to virtual communities
+and networks.
+The school students at a predominantly white school located in a wealthy suburb, for
+instance, saw themselves as part of a global network and held aspirations that extended
+across this network (which was consistent with the aspirations and identifications of
+the school). In contrast students at a predominantly black African township school
+identified more strongly with their immediate community, but those that sought to
+leave this community (including teachers who aspired to pursue other careers) saw
+individual effort, within a supportive community, in formal education as the means to
+achieve this (Dowling & Brown, in press). Whilst this study does not concern digital
+technology directly, it does demonstrate the complex relationship between community
+and pedagogic practice in a way that might lead us to think carefully about assuming
+that virtual spaces are socially and culturally neutral, and to consider how they might
+act as contexts for the production and reproduction of social inequalities as do physical
+pedagogic spaces and practices.
+Doherty (2006) provides an illustration and analysis of the complexity of projecting pedagogic practices and attendant assumptions, from one culture to one or more
+others, by way of an online distance education programme. This study focuses on
+an MBA unit offered internationally by an Australian university. In designing this
+online course, care was taken to respect the cultural identities of the participants, and
+to treat the diversity of experiences and perspectives of the participants as a pedagogic
+resource, for instance, in setting up small group discussions around the workplace narratives of the members of these, deliberately formed, culturally diverse groups. This in
+itself presents a paradox that is difficult to manage. Individual members of the groups
+become privileged informants on, and thus heavily identified with, sets of culturally
+marked localized practices. This representation of self through the abstraction and
+re-description (for an international audience) of workplace experience clearly bears
+the danger of defining individuals and groups in relation to the dominant culture or
+cultures of the programme. It can also lie in tension with the aspirations of participants
+who have made a positive commitment to enrol on an ‘international’ programme as
+a means of extending or supplementing their cultural identities and gaining access to
+what they might see as being a potentially valuable international or global discourse.
+Other ‘troubles’ identified by Doherty more predictably revolve around sometimes
+systemic assumptions of cultural homogeneity, like the ethnocentric default naming
+conventions in the virtual learning environment, the presumption of knowledge of textual conventions in assessed coursework and the effects of time/space displacement on
+
+--- [PDF Page 1139 / Book Page 1166] ---
+
+1166
+
+Brown
+
+provision of feedback to participants. Though Doherty’s analysis – and related work on
+international programmes, such as Singh and Doherty (2004) – goes further than this,
+the main point to be made here is that online courses in virtual settings are as much
+party to the play of pedagogic, social and cultural identities as any localized, located
+and demarcated face-to-face educational programme. Indeed, they may provide particularly fruitful contexts for the further development of the ‘sociology of pedagogy’
+(Singh & Luke in Bernstein, 1996, p. xiii).
+Collis (2006), in a collection of papers exploring “the patterns and dynamics of the
+network society in its policy dimension” (Castells & Cardoso, 2006, p. xix), considers the transformation of education in corporate, professional and higher education
+settings in the light of the shift to a knowledge economy. She focuses particularly
+on the potential of e-learning to support productivity in a situation where, citing a
+New Zealand Ministry of Economic Development statement on the skills needed to
+sustain contemporary knowledge economies, ‘know-why and know-who matters more
+than know-what’ (Collis, 2006, p. 216). Though this clearly echoes a long-standing
+aspiration of broadly progressive forms of education, Collis observes that much of the
+practice in e-learning, in which digital technology is used in the management and delivery of education and training, particularly in corporate settings, works in a contrary
+direction by delivering de-contextualized fragments of knowledge through depersonalized managed learning environments. Collis presents a number of counter-examples
+in which digital technology, in particular the use of Internet-based resources, online
+interaction and digital repositories, has and could be used to foster corporate crossdisciplinary knowledge building and sharing, the development of physically remote but
+mutually supportive professional communities of practice and modes of assessment in
+higher education that foster reflection, sharing and cumulative knowledge building.
+It is notable, however, that once again whilst digital technologies are presented
+as key drivers of the development of the knowledge economy, the conditions for the
+appropriate and productive use of digital technology in education are far from in place.
+The productive use of electronic portfolios in higher education, for instance, is seen
+as requiring greater institutional investment, flexibility of accreditation bodies, reform
+of the practices of lecturers and transformation of the expectations of students. As
+Selwyn (2007) has observed, the gap between the aspirations of advocates of educational technology, like Collis, and the current limited, rigid and constrained usage
+of digital technology evident in higher education is not easily breeched. The use of
+digital technology in higher education is, Selwyn argues, shaped by a range of forces
+at various levels within the system, from governmental concern with global economic
+competitiveness, through the ‘new managerial’ concerns of university administration
+and the commercial interests of the software, hardware and system providers to the
+experience, interests and concerns of university students. The development of productive engagement with digital technology in formal higher education from this
+perspective thus requires macro and micro political engagement if the aspirations of
+educational technologists are to be realized.
+Whilst schools and higher education institutions struggle to incorporate creative and
+flexible uses of digital technology and establish programmes in which the collaborative co-production of knowledge is ostensibly prioritized over transmission, there are
+
+--- [PDF Page 1140 / Book Page 1167] ---
+
+Digital Technology and Education: Context, Pedagogy and Social Relations 1167
+
+communities of physically dispersed agents, collectively and productively engaged in
+the co-construction of knowledge, collaborative activity and the sharing of information and strategies thriving, to varying degrees, on the Internet. Most notable are the
+flourishing informal communities based around shared interests, such as fans of a particular television programme or computer game, or those with an interest in particular
+technological, cultural or political activities, or shared identities and practices. These
+communities do not, however, escape the play of cultural and social capital that marks
+similar endeavours in the ‘space of places’.
+In a study of Internet fan sites, Whiteman (2006) explores the manner in which
+authority is established and maintained in online interaction. Far from being open to
+the free play of positions, perspectives, voices and identities, these sites, though highly
+productive in the exchange of ideas and information and in the production of commentary on their specialized, and related, areas of interest are highly regulated in and
+through the contributions made by participants. The strategies deployed by participants
+act to establish a range of possible legitimate identities and positions mark out who
+can say what in which settings. The strategies can be viewed as pedagogic in that they
+act to induct participants into particular modes of engagement and interaction in addition to producing and reproducing knowledge about their chosen area of interest. In
+conducting the research, Whiteman deploys a broadly comparative strategy in that she
+looks at two distinctly different sites (though how they might be distinguished beyond
+surface description is as much a product of the analysis as a starting point). One site,
+City of Angels (COA), is dedicated to the US television series Angel and the other site,
+Silent Hill Heaven (SHH), concerns the Silent Hill series of videogames.
+By analysing postings in a sample of the discussion lists, Whiteman explores how
+authority and status are established in these fan communities, and the manner in which
+affinity to particular objects is achieved and regulated. She identifies continuities and
+discontinuities between the two sites, and is able to explore the different strategies that
+are deployed by participants in the establishment of an online identity, in claiming
+authority, in building and regulating a community, and so on. In each case a balance
+between openness and regulation is achieved in what are ostensibly completely open
+contexts. Each, however, has its own distinct culture and exhibits the deployment of
+range of pedagogic strategies through which participants are inducted into appropriate behaviour, and are included, positioned and excluded (Whiteman, 2006). Though
+not formally constructed as such, these are pedagogic spaces and within these spaces
+social difference, relations and structures are produced and reproduced.
+
+Digital Divisions
+Access to digital technology is clearly not uniform within or between contexts. For
+those who see digital technologies as a key contemporary educational resource,
+the differential access to these technologies is a central concern in addressing what
+is commonly seen as the ‘digital divide’, with relative wealth or poverty of access
+clearly discernible between rich and poor communities, regions and countries. Whilst
+access to these technologies is clearly an important issue, this chapter has attempted
+
+--- [PDF Page 1141 / Book Page 1168] ---
+
+1168
+
+Brown
+
+to establish that it is not the only issue in understanding, and addressing, social and
+cultural inequity in, and beyond, education. The struggle to ensure more equitable
+access to digital technology has to be accompanied by endeavouring to understand
+how, through different modes of engagement with and through these technologies,
+inequalities are (re)produced. Not to do so invokes the danger of the fetishizing of
+technology, and the pursuit of access as a social project in and of itself.
+This is evident in the One Laptop per Child (OLPC) project, initiated by Nicholas
+Negroponte and other faculty of the Massachusetts Institute of Technology Media Lab.
+The aim here is to develop a low-cost laptop computer that can be widely distributed
+to children in both the ‘developed’ and ‘developing’ worlds (see http://laptop.org). The
+laptop and its software have been developed, it is claimed, to exemplify a ‘constructionist’ approach to learning and thus facilitate ‘learning learning’. Though it is claimed that
+this is an education not a technology project, the development of the laptop, rather than
+the principles of its use, have been to the fore. This project has not been universally well
+received. The Government of India, for instance, turned down the offer to participate
+on the basis that it would divert funds away from more established needs (The Hindu,
+Tuesday 25th July, 2006). Others have argued that, with even small amounts of money
+able to make a distinct difference to life chances in desperately poor parts of the world,
+through, for instance the provision of fresh water and vital medication, this effort is misplaced. Aside from this, the project itself has run into a number of problems relating to
+the production of the technology to specification and budget and relating to assumptions
+made about the conditions in which people live, difficulties in meeting the costs of running the machines and the provision and maintenance of basic infrastructure.
+The very assumption that the provision of a laptop (or, in this case, a simplified
+device that bears only limited similarity to a commercial laptop) and selected software
+(though not, in this case, established business and educational software) will make a
+substantial contribution to the educational and life prospects of the school students in
+this vast array of social, economic and cultural circumstances, is itself open to serious
+question. Even in classrooms in the USA, doubt has been cast by researchers of the
+value added by giving one-to-one access to laptops. For example, Dunleavy, Dexter
+and Heinecke (2007), in a study of two middle schools, found that a one-to-one ratio
+of laptops to students in the classrooms studied did not automatically add value, and
+suggested that the high cost and the management challenges presented to teachers by
+the provision of laptops creates a demand for thorough professional development to
+ensure that teachers are able to create and manage appropriate learning environments.
+This does not necessarily mean giving up on digital technology in all but the most
+economically privileged circumstances (and thus opening the divide further). An
+alternative strategy is to select and deploy digital technologies in a way that is more
+carefully attuned to the specific context and circumstances of their use. In the light of
+the studies cited so far in this chapter, a focus on teacher development would seem
+to be particularly valuable. Leach and Moon (2002) explore the ways in which digital technologies can be deployed in the education of teachers in wider attempts to
+reform schooling and to meet national and international objectives, such as universal
+primary education. They present a number of examples from contexts ranging from
+poor rural communities in sub-Saharan Africa attempting to rebuild education in the
+
+--- [PDF Page 1142 / Book Page 1169] ---
+
+Digital Technology and Education: Context, Pedagogy and Social Relations 1169
+
+face of war and disease to urban schools in rich Western countries attempting to provide for increasingly linguistically, culturally and economically diverse populations.
+In all cases, the creation and maintenance of a sufficiently large teaching force with
+appropriate knowledge and professional skills are seen as key challenges, which digital technologies and new approaches to teacher education can help to meet.
+The strength of the approach proposed and of the examples given is the contextual
+sensitivity and appropriateness of the interventions. In many cases conventional forms
+of teacher education are themselves not feasible, given the scale of the enterprise and
+the levels of resources available. In these settings, the use of communications technologies to facilitate teacher learning and networking can enlarge the possibilities for
+teacher development far beyond the conventional investment in buildings and other
+physical facilities that concentrate resources in one area thus creating distance between
+professional development activities and the context of their eventual realization.
+The Digital Education Enhancement Project (DEEP) is one such research and
+development project which focuses on the use of digital technologies in fostering the
+development of the pedagogic knowledge and practice of teachers, and exploring the
+impact of technology enhanced strategies on the motivation and achievement of school
+students, in 12 schools in the city of Cairo in Egypt and 12 schools in towns and rural
+areas of the Eastern Cape Province in South Africa. As part of this, Leach and Moon
+(2004) explored the use of handheld computers by teachers in this project, finding
+that these small, portable, flexible and easy to use devices became easily integrated
+into teachers’ daily workflow and had a substantial impact on teacher professionalism,
+organization and planning, collaboration and shared learning, the development of new
+classroom practices and the self-esteem of teachers. Studies such as this give some
+indication of the potential of new technologies in teacher education and development.
+It should be clear, though, that the outcomes are not a function of the technology but
+of its interaction with contextual factors in the setting within which the technologies
+and their related practices are embedded. This means not only that care has to be taken
+in assuming that these technologies/practice can be transferred elsewhere to similar
+effect, but that the perceived effectiveness of the intervention itself is likely to be transitory as, for instance, the technology takes on new social and cultural meanings over
+time, and as other conditions change.
+
+Conclusion
+Digital technologies are viewed as enabling rapid communication across distances.
+They enable the production and distribution of information and digital artifacts, in
+the form of text, graphics, sound and video. As these artifacts move from one place to
+another, whilst their form might remain stable (or might not), their meaning, potentially, transforms as they shift from one system of signification to another, and as they
+are read and reread by different agents bringing different meanings and understandings
+to their interpretation. This is nothing new, and indeed is the stuff of that strand of academic comparative education which attempts to understand the relationship between
+systems and practices through addressing, for instance, the borrowings, transfers and
+translations between one system and another. So practices associated with child-centred
+
+--- [PDF Page 1143 / Book Page 1170] ---
+
+1170
+
+Brown
+
+education in England, such as the public display of individual children’s work as a way
+of celebrating individual achievement and encouraging collective endeavour, come to
+mean something very different when transferred to the classrooms of rural Indonesia.
+This re-contextualization constitutes a transformation as practices are plucked from
+one network of meaning, or culture, and replaced in another.
+Viewed in this way, these practices cannot be understood as having a given essential
+meaning, but rather can only be understood in relation to the context of their realization. The movement of digital artifacts from one context to another can also be
+understood in the same way. The spaces through and in which they travel are, however,
+virtual as well as geographical (and the ‘and’ here is of central importance). It is not
+just the digital texts and artefacts, though, which meet this fate; it is also the digital
+technologies themselves.
+The emphasis in this chapter has been on understanding digital technologies and
+their educational usage, both formal and informal, in relation to the contexts in which
+they are embedded. These contexts can themselves be embedded in other contexts.
+Individual schools, for instance, are embedded in particular groupings (defined, for
+example, by the ages of the school students, modes of funding, geo-political location
+and so on) within particular systems of education (defined, for example, in terms of
+nation or region or trans-national network of interlinked or associated institutions and
+so on). Each higher level of organization acts to provide a reservoir of meaning potential for its constituent parts, which in turn, through the realization of this higher level
+as a repertoire of instances, enables us to describe, understand and explain its characteristics. Classrooms thus have to be understood in relation to the systems in which
+they operate, and in turn act to constitute the system as instances of it. This relationship
+operates at any level from individual action to trans-global systems.
+The formal and informal pedagogic spaces that have been considered in this chapter
+are clearly not socially neutral. Just like any material setting or community, virtual
+settings and communities are marked by the play of social and cultural capital, and
+through this patterns of social relations are produced and reproduced. Whilst the shift
+from reproduction of knowledge and artifacts to production and dissemination that is
+facilitated by digital technology can be seen as potentially subverting formal educational institutions, in practice existing patterns of social and cultural relations and their
+associated practices act against this. The perceived need, for instance, to train teachers
+and students to use specialized technologies in particular ways is one example. This
+inverts the notion of transformation of education by new technologies by reading these
+technologies as requiring new competences, of teachers and students, which must be
+acquired before they can be used effectively in pedagogic settings. This creates potential deficits and patterns of distribution of competence, and thus inclusion and exclusion
+and success and failure in the use of technology in particular sanctioned ways.
+Increasingly, the technologies themselves are already part of the everyday experiences of students and teachers. These technologies are not, however, equally part of
+the everyday lives of all students (and so the degree of resonance between the culture,
+practices and common competences of, for instance, the home and the school will
+vary), nor are the material and symbolic resources (such as teacher knowledge and
+expertise) to be able to incorporate them into the curriculum equally available to all
+
+--- [PDF Page 1144 / Book Page 1171] ---
+
+Digital Technology and Education: Context, Pedagogy and Social Relations 1171
+
+schools. Even if they were, the relationship between the cultures of the children and the
+cultures of the school would be different. The framing of the ‘digital divide’ as being
+predominantly about access to appropriate hardware and software fails to address this.
+The OECD study carried out in 23 countries by Venezky and Davis (2002) noted that
+schools were clearly aware of the potential inequalities that the use of digital technologies in schooling might cause, but the strategies to overcome this that they cite relate
+only to helping low-income families to gain access to these technologies. The report
+notes that few schools had data to enable them to monitor differences relating to gender, income or achievement.
+None of these are determining relationships, but involve potential and meaning,
+and thus, of course, entail facilitation and constraint. Much of the discussion of the
+relationship between education and digital technology within and between contexts
+confuses potential with practice and possibility with necessity. Consideration of
+digital technology from a comparative perspective, which acknowledges the social
+embeddedness of the phenomena with which it engages and seeks to understand what
+happens as entities move or are manifest in different contexts, can help us to avoid, or
+at least mitigate, these confusions and conflations. The disembedding, or rather re-contextualizing, potential of digital technologies also presents a challenge to comparative
+education in questioning the utility of the boundaries constructed around contexts (for
+instance, around national systems) and, indeed, constitutes a challenge to the very
+notion of a boundary as elements from one context are projected into (and read and
+reread) in others. Methodologically and conceptually, engagement with the uses of
+digital technology in formal and informal educational settings provides an opportunity for the enlargement and further development of the productivity of a comparative
+approach, both academic and applied.
+
+References
+Alexander, R. (2001). Culture and pedagogy: International comparisons in primary education. Oxford:
+Blackwell.
+Brown, A. J., & Davis, N. (Eds.) (2004). Digital technology, communities and education (World Yearbook of
+Education 2004). London: Routledge Falmer.
+Castells, M., & Cardoso, G. (2006). The network society: From knowledge to policy. Washington, D.C.:
+Johns Hopkins Center for Transatlantic Relations.
+Collis, B. (2006). E-learning and the transformation of education for a knowledge economy. In M. Castells
+& G. Cardosa (Eds.), The network society: From knowledge to policy (pp. 215–224). Washington, D.C.:
+Johns Hopkins Center for Transatlantic Relations.
+Cowen, R. (2006). Acting comparatively upon the educational world: Puzzles and possibilities. Oxford
+Review of Education, 32(5), 561–573.
+Doherty, C. (2006). Pedagogic identities on offer in a case of online internationalised education. AARE 2005
+International Education Research Conference, UWS Parramatta.
+Dowling, P. C., & Brown, A. J (in press). Pedagogy and community in three South African schools: An iterative description. In P. C. Dowling (Ed.), Sociology as method: Departures from the forensics of culture,
+text and knowledge. Rotterdam: Sense.
+Dunleavy, M., Dexter, S., &. Heinecke, W.F. (2007). What added value does a 1:1 student to laptop ratio
+bring to technology-supported teaching and learning? Journal of Computer Assisted Learning, 23(5),
+440–452.
+
+--- [PDF Page 1145 / Book Page 1172] ---
+
+1172
+
+Brown
+
+Gino, J. (2005). Visual meaning making: Children’s texts for an intercultural Israeli neighbourhood.
+Unpublished Ph.D. London: Institute of Education University of London.
+Kozma, R. (2003) (Ed.). Technology, innovation, and educational change: A global perspective. Eugene,
+OR: International Society for Technology in Education.
+Kress, G. (2004). Learning: A semiotic view in the context of digital technologies. In A. J. Brown &
+N. Davis (Eds.), Digital technology, communities and education (World Yearbook of Education 2004),
+(pp. 15–39). London: RoutledgeFalmer.
+Jewitt, C. (2003). Re-thinking assessment: Multi-modality, literacy and computer-mediated learning.
+Assessment in Education, 10(1), 83–102.
+Law, N. (2004). Teachers and teaching innovations in a connected world. In A. J. Brown & N. Davis (Eds.),
+Digital technology, communities and education (World Yearbook of Education 2004) (pp. 145–163).
+London: RoutledgeFalmer.
+Leach, J., & Moon, B. (2004). 4D technologies: Can ICT make a real difference in achieving the goal of
+Universal Primary Education? Pan-Commonwealth Forum on Open Learning. Dunedin, New Zealand.
+Leach, J. & Moon, B. (2002). Globalisation, digital societies and school reform: Realising the potential
+of new technologies to enhance the knowledge, understanding and dignity of teachers. 2nd European
+Conference on Information Technologies in Education and Citizenship: A Critical Insight. Barcelona.
+Moss, G., Jewitt, C., Levaciç, R., Armstrong, V., Cardini, A., & Castle, F. (2007). The interactive whiteboards,
+pedagogy and pupil performance evaluation: An evaluation of the Schools Whiteboard Expansion
+(SWE) Project. DfES Research Report 816. London: DfES.
+Pelgrum, H., & Anderson, R. (Eds.) (1999). ICT and the emerging paradigm for life long learning.
+Amsterdam: IEA.
+Plomp, T., Pelgrum, W. J., & Law, N. (2007). SITES2006–International comparative survey of pedagogical
+practices and ICT in education. Education and Information Technologies, 12(2), 83–92.
+Selwyn, N. (2007). The use of computer technology in university teaching and learning: A critical perspective. Journal of Computer Assisted Learning, 23(2), 83–94.
+Singh, P., & Doherty C. (2004). Global cultural flows and pedagogic dilemmas: Teaching in the global university ‘Contact Zone’. TESOL Quarterly, 38(1), 9–42.
+Singh, P., & Luke, A. (1996). Foreword. In B. Bernstein (Ed.), Pedagogy, symbolic control and identity:
+Theory, research, critique. London: Taylor & Francis.
+Venezky, R. L., & Davis, C. (2002). Quo vademus? The transformation of schooling in a networked world.
+Paris: OECD/CERI.
+Whiteman, N. (2007). The establishment, maintenance and destabilisation of fandom: A study of two online
+communities and an exploration of issues pertaining to internet research. Unpublished Ph.D. thesis,
+London: Institute of Education University of London.
+

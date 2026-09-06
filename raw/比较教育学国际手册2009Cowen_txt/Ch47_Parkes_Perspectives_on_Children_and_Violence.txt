@@ -1,0 +1,662 @@
+================================================================================
+Chapter 47: Perspectives on Children and Violence
+Author(s): Jenny Parkes
+Handbook: International Handbook of Comparative Education (2009)
+Editors: Robert Cowen and Andreas M. Kazamias (Section Editor: Elaine Unterhalter)
+Section: Section 5: Postcolonialism
+Book Pages: pp. 733–747
+PDF Pages: pp. 727–741 (in raw/比较教育学国际手册2009Cowen.pdf)
+================================================================================
+
+--- [PDF Page 727 / Book Page 733] ---
+
+47
+PERSPECTIVES ON CHILDREN AND VIOLENCE
+Jenny Parkes
+
+There can be no compromise in challenging violence against children. Children’s
+uniqueness – their human potential, their initial fragility and vulnerability, their
+dependence on adults for their growth and development – make an unassailable
+case for more, not less, investment in prevention and protection from violence.
+(Pinheiro, 2006)
+The UN World Report on Violence against Children draws attention to how, across the
+globe, young people experience multiple forms of violence in their daily lives: in homes,
+schools and care institutions, in places of work and in the community (Pinheiro, 2006).
+Violence for many children is not an exceptional but an everyday event, particularly
+in countries where there has been recent or ongoing political conflict, often low- and
+middle-income countries, where the legacy of this is a coalescence of multiple forms
+of violence (Glanz & Spiegel, 1996; Knox & Monaghan, 2003; Muldoon, 2004; WHO,
+2002; WHO, 2002). The focus of this chapter is on the consequences of living with
+such violence for children’s psychological and social well-being. The chapter explores
+a diverse literature from psychology, sociology, anthropology and education, asking
+what we can learn from this literature to respond to Pinheiro’s challenge to protect
+children from violence.
+There is an extensive literature highlighting the devastating consequences of violence on children’s educational, health and social opportunities and outcomes, and
+Pinheiro makes a strong plea for action to address these consequences. However, while
+the importance of challenging violence against children cannot be underestimated,
+taken-for-granted assumptions in the literature need to be interrogated. In particular,
+universalising understandings of childhood stemming from the West underpin research
+across the globe, producing particular forms of action and intervention which, it has
+been claimed, may not always be in the best interests of the child (Boyden, 2003). As
+evident in Pinheiro’s words, childhood is viewed as a natural, universal and distinct
+phase, characterised by innocence and vulnerability, a perspective which can be traced
+back to the Romantic and Reform movements in Europe in the nineteenth century
+(Boyden, 2003; James, Jenks & Prout, 1998; Woodhead, 1999). In much of the literature discussed in this chapter, children, living in high-violence neighbourhoods, are
+viewed as innocent victims of violence, in need of protection or rescue, or as caught up
+in cycles of violence, socialised to become the perpetrators of the future. As Western
+feminist researchers have been criticised for the colonising, homogenising representation
+733
+R. Cowen and A. M. Kazamias (eds.), International Handbook of Comparative Education, 733–747.
+© Springer Science + Business Media B.V. 2009
+
+--- [PDF Page 728 / Book Page 734] ---
+
+734 Parkes
+
+of “a composite, singular ‘third world woman’ ”(Mohanty, 1991), research on children
+living with violence in (post-)conflict settings may construct a homogenised ‘third
+world child’, both victim of and perpetrator of violence. The diversity of childhoods is
+neglected, and the active ways in which children engage with and act upon their social
+worlds ignored (Boyden, 2003).
+With this critical lens, this chapter considers studies on children’s experiences of
+living in areas where violence takes many forms, in neighbourhoods, families and
+schools, often in countries where there has been recent or ongoing political conflict,
+including South Africa, Palestine and Ireland, as well as drawing on studies in urban
+neighbourhoods of the USA. The first section considers psychological research, mainly
+within a positivist tradition of inquiry. The second section explores research associated
+with sociological and anthropological studies which draw on qualitative and interpretive paradigms. I have structured the chapter this way to reflect the mainstream
+literature on children and violence and some of its critics, but the distinction is a little
+misleading, as there are many overlaps and increasingly psychologists are engaging with
+a social and interpretive approach. In the final section of the chapter I will consider
+recent research which addresses some critical concepts, and conceptualises children as
+actively engaging with their social worlds. My intention is not to privilege one form of
+research, but to attempt to synthesise these diverse bodies of literature in ways which
+may contribute to the goal of preventing and contesting violence.
+
+Psychological Perspectives on Children and Violence
+Much of the literature on children and violence stems from the field of psychology.
+This literature comes mainly from a positivist tradition, with studies attempting to
+identify measurable effects of violence on children. These effects include emotional
+consequences, such as post-traumatic stress disorder and effects on child development and socialisation. Finally, in this section I will consider the growing awareness in
+psychology of the importance of context, which has generated research into risk and
+resilience factors.
+
+Emotional Consequences and the Concept of Post-Traumatic Stress
+Distress, anxiety and depression are frequent responses to violence, and studies have
+found that following exposure to violence, young people may try to avoid thoughts
+and feelings, places or people associated with the trauma; they may become angry
+and irritable, or experience intense psychological distress at exposure to traumatic
+reminders (Seedat, Nyamai, Njenga, Vythilingum & Stein, 2004). This constellation
+of responses has been termed post-traumatic stress disorder (PTSD), and has been
+identified in studies in many post-conflict settings, including Palestine (Punamaki &
+Suleiman, 1990; Thabet & Vostanis, 1999), South Africa (Barbarin & Richter, 2001;
+Dawes & Tredoux, 1990; Seedat, van Nood, Vythilingum, Stein & Kaminer, 2000),
+Cambodia (Hubbard, Realmuto, Northwood & Masten, 1995) and Kuwait following
+the Gulf War (Nader, Pynoos, Fairbanks, Al-Ajeel, & Al-Asfour, 1993); as well as
+in neighbourhoods with high rates of community violence in the USA (Jenkins &
+
+--- [PDF Page 729 / Book Page 735] ---
+
+Perspectives on Children and Violence 735
+
+Bell, 1997; Martinez & Richters, 1993; Osofsky, Wewes, Hann & Fick, 1993). PTSD
+symptoms increase with the level of and proximity to violence, and when there is a
+close relationship with those engaged directly with violence (Jenkins & Bell, 1997;
+Lorion and Saltzman, 1993; Seedat, van Nood, Vythilingum, Stein & Kaminer, 2000). In
+some studies, symptoms have varied with age and gender, so girls, for example, have
+been found more likely to exhibit depressive symptoms or to internalise pain, while
+boys may be more likely to externalize pain and participate in aggressive acts (Lorion
+& Saltzman, 1993; Seedat, Nyamai, Njenga, Vythilingum & Stein, 2004). Younger
+children may exhibit more passive, regressive symptoms, like bed-wetting or delayed
+language development, while older children may be more likely to engage in acting out
+self-destructive behaviour (Jenkins & Bell, 1997).
+These studies draw attention to the potential consequences of violence for children’s
+mental health across international settings, and highlight the need for therapeutic interventions. However, frequently neglected is the finding that many children do not appear
+to be measurably distressed by their exposure to violence. In studies in South Africa,
+for example, approximately 10–20% of children exposed to a range of traumas experienced PTSD, with perhaps another 10–20% exhibiting some symptoms of emotional
+distress (Cairns & Dawes, 1996; Dawes & Tredoux, 1990; Seedat, Nyamai, Njenga,
+Vythilingum & Stein, 2004; Seedat, van Nood, Vythilingum, Stein & Kaminer, 2000).
+The finding that, despite often horrific engagements with violence, many children do
+not appear to suffer long-term psychological effects, has led to a shift towards the
+question of how children cope (Cairns, 1996) and even whether there may be positive
+effects. Case studies of children living in war zones have identified negative consequences, but also for some children the development of precocious moral sensibility
+(Coles, 1986) and enhanced empathy (Garbarino, Kostelny & Dubrow, 1991). In South
+Africa, an in-depth clinical study of a group of 60 young people who, over an extended
+period, were exposed to and engaged with political violence found that when violence could be justified within an existing system of morality, such as ideology during
+war, it created few psychological problems (Straker, Moosa, Becker & Nkwale, 1992).
+Such findings point to the importance of context in anticipating possible emotional
+consequences.
+The diagnosis of PTSD is a psychiatric one, stemming from the West, usually
+employed to assess the need for clinical support following single traumatic events.
+A number of studies have pointed out that the effects of repeated exposure may be
+quite different from those following single traumas, and exposure to chronic, daily
+violence may generate longer-term developmental changes (Jenkins & Bell, 1997;
+Perry, 1997; Zeanah & Scheeringa, 1997). An alternative label of “continuous traumatic stress syndrome” has been proposed to reflect the political context for many
+people of repeated, expected traumas (Simpson, 1993). But, while such labels might
+serve to highlight the problems of people living in violent communities, they simultaneously explain their behaviour within a medical model, suffering ‘symptoms’ of
+a disease or illness within the individual rather than motivated by the features of
+the situation. The emphasis on ‘disorder’ pathologises children’s reactions, when
+emotions like fear, anxiety and aggression may in fact be functional for day-to-day
+coping (Swartz & Levett, 1989). In these analyses, the conceptualisation of children
+
+--- [PDF Page 730 / Book Page 736] ---
+
+736 Parkes
+
+as dependent and vulnerable is combined with and reinforced by a bio-medical model
+which positions children as traumatised victims in need of therapeutic care (Boyden,
+2003; Machel, 1996). Jo Boyden argues that in Rwanda, Bosnia and Kosovo, this has
+had the dangerous consequence that aid packages have prioritised psychosocial interventions over meeting young people’s basic survival needs (Boyden, 2003). While it
+is vital to be alert to possible stress reactions to violence, it is also important to recognise that these may be highly localised and variable, and that blanket approaches
+to intervention following violent events do little to address the ongoing violence of
+many young people’s lives.
+
+Socialisation, Risk and Resilience
+Paradoxically, at the same time as the psychological literature assumes childhood
+innocence and vulnerability, there are allusions to the inevitability of child victims
+becoming adult perpetrators, through a cycle of violence. Reproductive statements
+abound in the literature, with comments like “it is a sociological fact that people
+treated inhumanely can only treat others in the same way” (Malepa, 1990), or “these
+children live in a ‘culture of violence’ and their view of the world is shaped by it. This
+fact is tragic and extremely dangerous” (Oshako, 1999). Not just do such statements
+pathologise children growing up in violent neighbourhoods, contributing to a version
+of the ‘third world child’ discussed above, but the evidence for these assumptions is
+weak and conflicting.
+Studies report that exposure to violence in childhood affects moral development, with
+young people learning to see violence as a way of solving problems (Reilly, Muldoon
+& Byrne, 2004). Palestinian children involved in street confrontations with Israeli
+troops, for example, were found more likely to use violence in schools and families as
+a socially justified tool for solving problems (Abuateya, 2000). Clinical observations
+have identified normalizing the violence, becoming desensitised, and dehumanising
+the enemy (especially in wartime) as short-term coping strategies, which can also lead
+to violence then being seen as an appropriate response to many everyday situations
+(Garbarino, Kostelny & Dubrow, 1991).
+However, in a review of the international literature on moral development and
+political violence, Andrew Dawes concluded that evidence that violence is perpetuated through its effects on children’s moral reasoning and problem-solving was weak
+(Dawes, 1994). While researchers have observed children’s play imitating violence
+in the neighbourhood (Bundy, 1992; Jones, 1993), others have been surprised by the
+absence of such re-enactments. For example, in her detailed study of children in a South
+African township in the mid-1980s, Pamela Reynolds noted that there was remarkably
+little violence in children’s play, either real or pretend, despite the violence to which the
+children were exposed (Reynolds, 1989). Other South African studies have found that,
+despite frequent exposure to violence, young people did not appear to become habituated (Straker, Mendelsohn, Moosa & Tudin, 1996; Straker, Moosa, Becker & Nkwale,
+1992). And while in one South African study, direct exposure to violence was associated with aggression, opposition/defiance and deficits in self-regulation, witnessing
+violence was not associated with antisocial behaviours, and gender (being male) was
+
+--- [PDF Page 731 / Book Page 737] ---
+
+Perspectives on Children and Violence 737
+
+more predictive of antisocial behaviours than direct exposure to violence (van der
+Merwe & Dawes, 2000).
+These complex and contradictory findings challenge universalising assumptions
+about the reproduction of violence, and increasingly researchers have turned their attention to identifying the range of factors that increase the risk of violence, or alternatively
+those that increase young people’s resilience. This ecological model, which attempts to
+understand the multifaceted nature of violence and its consequences, has been increasingly influential in research and policy development (WHO 2002; Pinheiro, 2006). It
+attempts to measure how a combination of factors, relating to personal characteristics,
+family and the immediate and broader social context combine to influence outcomes
+for young people in high violence contexts (Cicchetti & Lynch, 1993; Dodge & Pettit,
+2003; Matthews, Griggs & Caine, 1999; Tolan, Gorman-Smith & Henry, 2003). The
+South African literature identifies key risk factors, which combine in ways which have
+a multiple rather than additive effect on the likelihood of young people developing
+future criminal behaviour, as being: poverty, race, age, location of residence, gender,
+history of victimisation, coming from a dysfunctional family, poor school achievement
+and substance abuse (Matthews, Griggs & Caine, 1999).
+The repeated finding that despite the risk factors, many children do not appear to
+suffer the predicted negative consequences, has led to a growing interest in resilience,
+a construct which connotes the maintenance of positive adaptation by individuals
+despite experiences of significant adversity (Garmezy, 1993; Luthar, Cicchetti &
+Becker, 2000; Werner & Smith, 1983). In the context of community violence in the
+USA, Garmezy identifies three sources of resilience: temperament factors (activity
+level, reflectiveness, cognitive skills, positive responsiveness to others); warm cohesive families with the presence of a caring adult; and external support, such as teacher,
+neighbour, parent of a peer or institutional structure like a school (Garmezy, 1993).
+Very similar sources of resilience were identified in case studies of children growing
+up in war zones (Garbarino & Kostelny, 1997; Garbarino, Kostelny & Dubrow, 1991).
+Such factors interact with the nature of violence exposure, with predictability, social
+and physical proximity also influencing children’s resilience (Fick, Osofsky & Lewis,
+1997; Osofsky, 1997). Younger children experiencing violence may face more negative
+consequences than older children, who have developed the reasoning and cognitive
+capabilities to adapt (Garbarino, Dubrow, Kostelny & Pardo, 1992; Perry, 1997).
+These studies extend the focus from a direct causal relationship between violence
+and individual responses to a relationship mediated by a range of nested social systems.
+The family, for example, may increase both risk and resilience. Violence which affects
+early family relationships can create lasting problems of attachment, and potentially
+violent relationships (Fonagy, Target, Steele & Steele, 1997). But maternal stability
+and coping can also protect children from the harmful effects of community violence
+(Barbarin & Richter, 2001). Local belief systems and ideologies have also been identified as sources of resilience. There is some evidence that when ideology, such as
+religion, enables violence to be justified within the child’s existing system of morality
+then this protects children from the negative consequences of violence (Garbarino,
+1999; Straker, Moosa, Becker & Nkwale, 1992). In their analysis of growing up in war
+zones in Mozambique, Nicaragua, Palestine and Cambodia, Garbarino and colleagues
+
+--- [PDF Page 732 / Book Page 738] ---
+
+738 Parkes
+
+considered how an ideology can be “comforting”, and can enable children to be
+supported by a community united by belief (Garbarino, Kostelny & Dubrow, 1991).
+They contrast this with the experience of living in gang-controlled urban poverty in
+Chicago, where weak cultural ties and lack of common goals undermine active coping
+mechanisms.
+A strength of the risk-resilience literature is the growing sensitivity to context (Dawes
+& Donald, 2000). The argument that the different levels of the ecological system interact and influence each other is persuasive, with resilience compensating for, protecting
+from or challenging the impact of risk factors. Moderate amounts of stress, for example, may strengthen children’s ability to cope in the longer term (Dawes and Donald,
+2000). At the same time, however, the mechanistic approach of measuring relationships
+between variables results in an oversimplification of the complex relationships between
+the child and the social world. It relies for its data on pre-coded surveys and questionnaires, frequently imported or modified from instruments developed in the West. Such
+instruments may distort local experiences and interpretations of violence. The language
+of abuse used in the West, for example, has been found to make little sense to many
+black, working-class women in South Africa (Levett et al., 1997). Diverse forms of
+violence are lumped together into an explanatory variable, and the complex power relations which produce violence are ignored. The focus of interventions stemming from
+this approach is on prevention, targeting particular high-risk groups. While this may be
+important in channelling welfare support, at the same time it reinforces the tendency to
+‘blame’ those risky individuals, those poor, black males identified in the South African
+literature as at highest risk, labelling them as dangerous and in need of control, and
+who, it is assumed, will become caught up in the inevitable cycle of violence. But
+reviewing the psychological literature points to the variability and diversity in children’s
+responses, and highlights the need to consider not just possible outcomes, but the processes by which young people make sense of and interpret violence.
+
+Social Perspectives on Children and Violence
+Sociological and anthropological studies of children and violence shift the focus from
+individuals, or individuals within nested systems, to analysing the social systems
+themselves. Rather than testing out hypotheses, ethnographic approaches facilitate
+the creation of rich pictures of social phenomena. Psychological studies have been
+hugely influential on policy and practice, perhaps because of developmental psychology’s historical hegemony in childhood research (Mayall, 2002), perhaps also because
+the findings can be generalised across settings and offer practical ways forward.
+Additionally, methods like questionnaires, surveys and clinical assessments may be
+less challenging to conduct than ethnographies, which involve extensive time ‘in the
+field’, often with personal risks to the safety of researchers and their participants.
+Nonetheless, ethnographic studies have provided rich descriptions of young people’s
+lives in adverse social contexts, documented the multiple forms of violence they experience and considered the multiple meanings, functions and consequences of violent
+social relations (Bhana, 2002; Hecht, 1998; Henderson, 1999; Jones, 1993; Kilbride,
+
+--- [PDF Page 733 / Book Page 739] ---
+
+Perspectives on Children and Violence 739
+
+Suda & Njeru, 2000; Reynolds, 1989; Wood, 2002). Through spending extensive time
+living or working in these communities, and developing close relationships between
+the researcher and the research participants, these studies are able to explore experiences of violence which are often taboo or private (Lee & Stanko, 2003).
+Recurring through these studies is a multi-dimensional definition of violence, which
+is inextricably connected with power, and generates a more nuanced analysis than the
+narrower view of violence as an explanatory variable which dominates the positivist
+psychological literature. This body of work illuminates complex historical and social
+processes in the reproduction of violence. David Rosen’s study of child soldiers in
+Sierra Leone, for example, traces the roots of children’s recent engagements in warfare
+in pre-colonial and colonial slavery, and more recently in post-independence politics,
+in which a patrimonial political system has created relationships in which young people are dependent on ‘big men’ for their livelihoods and social status:
+Young men provided the big men with the physical strength, energy and fearlessness needed to intimidate and murder political rivals. In the despoiled
+circumstances of Sierra Leone’s economy, the ties of dependence and violence
+among big men, young men, children, and youth rippled through rural and urban
+communities, disrupting and distorting ties of family and kinship. (Rosen, 2005)
+Rosen’s analysis demonstrates how coercive social relations, supported by violent practices, provide the conditions for children to participate in horrific wartime atrocities.
+Controversially however, he argues that, rather than passive victims of adult criminal
+exploitation, child combatants more often make rational decisions that not fighting is
+a worse option than fighting.
+A rich body of work in South Africa has traced links between colonial and in particular apartheid policies, and the erosion of or breakdown of institutions like the family.
+In his study of 10–15-year-old children growing up in migrant worker hostels near
+Cape Town, Jones shows how the apartheid policy of forced labour migration disrupted
+families, creating childhoods filled with domestic flux and upheaval (Jones, 1993). In
+overcrowded living conditions, domestic violence was widespread and retributive violence was often socially sanctioned. Through violence in play, including fighting with
+sharpened sticks, knives, screwdrivers and bottles, children mimicked violence they
+had witnessed, thus providing practice for violent lifestyles. Violence then could function as a resource in the context of fragmented and uncertain childhoods.
+In a longitudinal ethnographic study of 10–16-year-olds in a Cape Town township, Patricia Henderson also considered the functions of violence in children’s lives
+(Henderson, 1999). Violence was viewed as re-moulding temporarily, social situations
+– to commandeer scarce resources, to create new configurations of power or to express
+dissatisfaction and frustration. She emphasises the importance of viewing violence
+within its specific social location, since violence has so many layers, and different
+consequences. So, for example, although violence plays a major part in the lives of two
+boys, for one, a “comrade” (youth affiliated to political organisations), the violence
+was socially sanctioned and therefore open for discussion and reflection, while for the
+other, who was a gang member involved in crime, it was not sanctioned and he was
+
+--- [PDF Page 734 / Book Page 740] ---
+
+740 Parkes
+
+therefore often silent about these locales of his life. Violence was often viewed by children with ambivalence, so, for example, fighting with gangs was seen as empowering,
+but children also criticised excess – one child would fight with a brick but not with a
+knife. Henderson views violence as a short-term solution, using a metaphor of a hall
+of mirrors in which violence is not a solution but infinite reflections – of men beating
+their sons to try to end gang violence, of boys joining gangs to protect themselves
+from the violence of other gangs: “the practitioners of different forms of violence
+jostled for claims to streets and attempted to fix particular kinds of relations of power
+within them” (p. 102). For Henderson, the multi-layered violence has reverberations
+for children’s social relationships at all levels, including the potential fragmentation
+of identity: “the cultural repertoires they employed to ‘restitch’ the social fabric were
+unable to effect an end point in the process” (p. iii).
+The gendered dimensions of violent practices, remarkably underexplored in the
+psychological literature, have been central in much of the social literature. Studies
+in a range of post-conflict settings have traced how violence may be a means to commandeer scarce resources, which becomes incorporated within masculine identities
+(Barker, 2005; Bhana, 2005b; Reilly, Muldoon & Byrne, 2004). Researchers have
+traced how gendered violence may arise from ‘thwarted’ masculinities (Moore, 1994),
+when men are unable to live up to the expectation of providing support and protection
+for the family (Ramphele, 2000). Such gendered violence, together with harsh forms
+of physical punishment, teach children that personal relationships may be shaped
+by through force, in which the strong exert their will over the weak (Morrell, 2001;
+Ramphele, 1996). In an ethnography of sexual health and violence among young black
+men living in a working-class South African township, Katharine Wood traced how
+gendered violence was both productive and unstable (Wood, 2002). For the young
+men she studied, violent practices helped to impose inequality in sexual relationships,
+producing a hierarchy of gender, but not altogether successfully:
+For young men, the importance of women to their sense of masculinity, both in
+terms of their own self-respect and esteem and in the eyes of others, was evident
+in the energy they expended on acquiring girlfriends, gaining sexual access to
+them (and seeking to establish exclusive sexual access), surveilling them and
+attempting to control their behaviour. The vast majority of acts of violence
+against young women emerged out of these practices (Wood, 2002).
+In order to maintain their social status, constant vigilance was necessary, with violence a way to attempt to establish and maintain uneasy control. What is clear in all
+these studies is that while violence may be functional in helping men to construct particular social identities, there are unforeseen and negative consequences – in the health
+risks discussed by Wood, and in the breakdown or fragmentation of relations discussed
+by Henderson, Ramphele or Rosen.
+Many of these studies focus on young adults rather than on children, but there is
+also a strand of the social literature which explores how violence seeps into children’s
+everyday spaces. Studies investigate how schools, often viewed as safe havens may be
+sites in which violence is reproduced (Bhana, 2005a; Chatty & Hundt, 2005; Davies,
+2004; Dunne, Humphreys & Leach, 2006; Dunne & Leach, 2005; Harber, 2004;
+
+--- [PDF Page 735 / Book Page 741] ---
+
+Perspectives on Children and Violence 741
+
+Leach, 2006). Through the gendered hierarchical relations, systems of punishment and
+in playgrounds where force is a frequent means of negotiating relationships, researchers have traced the reproduction of the violence of the neighbourhood. There are also
+ethnographic studies of children living and working in the streets, in spaces which are
+not viewed as legitimate contexts for children. Stepping into these ‘prohibited’ spaces
+may create risks for children. Children living and working on the streets of Brazil or
+Kenya may be escaping from violence within their homes, to face physical assaults
+and rape in the neighbourhood, from other children and from adults admonishing their
+illegitimate movement (Hecht, 1998; Kilbride, Suda & Njeru, 2000).
+Many of the ethnographic studies do not set out to study violence, but in exploring
+children’s lives in adverse social contexts, find that children have to cope with multiple forms of violence. These studies describe the resourcefulness and resilience of
+children. But there is also a sense that children are adopting survival strategies, often
+employing violence, to cope with immense hardship and the prospects for the future
+may be bleak.
+
+Centring Children’s Perspectives
+The literature shows how violence has many reverberations in children’s lives. The
+psychological studies explore the consequences on children’s emotions, their development and family relationships. Children’s responses vary with age, gender and the
+nature of and proximity to violence. It also shows that many children are resilient, that
+they seem to be protected from some of the negative consequences, perhaps because
+of the social support within families, or because of the ways in which they appraise or
+make sense of violence. These ways of making sense though are not well understood.
+The social literature offers a rich analysis of life in a context of violence, illustrating
+the complex meanings attached to violence within the web of social relations in children’s lives and drawing close connections with experience, history and culture. These
+studies show the importance of understanding violence as social interaction which has
+multiple meanings. While they add considerable depth to our understandings about
+children and violence, it is not difficult to see why they have had less influence than the
+psychological literature on policy and practice. Most are small-scale, located within
+specific social locations and the authors are cautious about making generalised claims.
+The relationships they identify are complex, difficult to disentangle, with deep historical and social roots that do not lend themselves to quick fixes. Change implies
+fundamental upheaval of power relations at the macro-level, as well as at the microlevel of beliefs and practices in local neighbourhoods.
+As in the psychological literature, there is a sense in much of the social literature,
+in which the child remains an object of the researchers’ gaze, vulnerable and innocent
+and at the same time caught up in cycles of violence in which she/he is powerless.
+Increasingly, however, these studies are reconceptualising children as active agents,
+and are beginning to consider the psychosocial processes through which children
+interpret and try to make sense of their social worlds. They engage theoretically with a
+rights-based sociology of childhood (Boyden & de Berry, 2004; Christensen & James,
+2000; Mayall, 2002), and with theoretical developments in psychology which stress
+
+--- [PDF Page 736 / Book Page 742] ---
+
+742 Parkes
+
+the social construction of learning and identity construction (Bruner, 1990; Cole, 1996;
+Goodnow, 1990; Stigler, Schweder & Herdt, 1990; Wetherell, Taylor & Yates, 2001). This
+work, which utilises both ethnographic and participatory research approaches, examines how, as they construct their social identities, young people negotiate conflicts and
+tensions.
+Criticising the homogenising views of the ‘refugee’ child utilised by humanitarian
+agencies, Jason Hart explored the fluidity of children’s identity formation in a Palestinian
+refugee camp in Jordan. Discourses around age, gender, social class, personal history,
+religious faith and political views collided and clashed with the perspectives of their
+parents, in diverse ways which “may sprawl untidily across the neatly-drawn bounds
+of collectivities suggested by older generations” (Hart, 2004). Another study of children in Palestinian refugee camps in Lebanon, Syria, Jordan, Gaza and the West Bank,
+explored how children negotiated their identities as Palestinians, refugees, camp residents, and as Muslims or Christians (Chatty & Hundt, 2005). Political and military
+conflict was mirrored in the relationships central to children’s lives, within families
+and schools. Young people faced competing and conflicting discourses. For girls, for
+example, marriage could be viewed as protective at times of instability or as a way to
+escape the economic and social constraints of their homes, in which their movements
+were circumscribed, but also as preventing them from completing education. And
+while education was viewed as enabling them to lead more productive, fulfilling lives,
+the curriculum was frequently viewed as inappropriate and irrelevant and violence was
+common in the school setting (Chatty & Hundt, 2005).
+In my own work with children in a working-class South African township, young
+people grappled with conflicting and seemingly contradictory viewpoints as they negotiated their identities within a context of multiple forms of violence (Parkes, 2005). For
+boys, for example, strength, fearlessness and fighting skill were sought-after attributes,
+and in their accounts of crimes against their families, they discussed the importance
+of men and boys protecting their homes, with violence if necessary. Yet at the same
+time, they were highly critical of young people who joined gangs. As they talked, they
+adopted uneasy subject positions, speaking proudly about their associations with local
+gangs, and thus reaping social status from these connections, while adamant that they
+would not adopt the violent practices of gangs themselves (Parkes, 2007). Boys and
+girls talked of the need for harsh punishments to maintain law and order, yet were
+cynical about the effectiveness of such punishments. Interestingly, over the course of
+our discussions, which took place over several months in 2001, they appeared to shift
+their views about possible solutions to problems of violence, increasingly proposing
+verbal problem-solving and negotiation as ways of contesting violence. It appeared
+that the subtle interplay of power and pleasure in the research relationship, in which
+young people felt that their views were listened to and valued, may have generated the
+perception of increased reflexive agency (Parkes, forthcoming).
+Placing at the heart of psychological and social research the views of young people
+may expand our understanding of the diverse ways in which girls and boys negotiate the
+complex and contradictory discourses around violence. While this work is in its infancy, it
+begins to identify recurring patterns in how children cope, often simultaneously contesting
+
+--- [PDF Page 737 / Book Page 743] ---
+
+Perspectives on Children and Violence 743
+
+and perpetuating violence. It also alerts us to possibilities for change, while recognising
+how children are deeply embedded within highly constraining social contexts.
+This work, which synthesises psychological and social approaches, together with
+a conceptualisation of children as active participants in their social worlds, points to
+interventions which engage with young people’s perspectives (Daiute & Fine, 2003).
+For some children, as indicated by the psychological literature on trauma, psychotherapeutic interventions designed with sensitivity to local contexts and traditions,
+may be crucial to help cope with the horrific consequences, at the level of individual or
+community, and to support the rebuilding of relations fractured in war and conflict. For
+others, intervening early to support families in high risk settings may disrupt possible
+cycles of violence. At the same time, as stressed in the social literature, it is critical
+that interventions address and challenge the coercive social relations underpinning
+conflict. Within schools, such interventions could focus on human rights, social justice
+and peace. Across these multiple layers of intervention, it is important to avoid universalising, homogenising understandings of childhood, which marginalise children and
+render them powerless. Instead, understanding that children act upon and influence
+their social worlds, in ways that are not fixed but are diverse and fluid, we can develop
+frameworks of negotiation and dialogic pedagogy in which young people are invited to
+discuss, challenge and reconstruct perspectives and relationships, and to explore possibilities for changing violent social relations.
+
+References
+Abuateya, H. S. (2000). Adolescents’ behaviour within the context of political conflict: Case of Palestinian
+Secondary School Students. American University in Cairo.
+Barbarin, O. A., & Richter, L. M. (2001). Mandela’s children: Growing up in post-apartheid South Africa.
+London: Routledge.
+Barker, G. T. (2005). Dying to be men: Youth, masculinity and social exclusion. Abingdon: Routledge.
+Bhana, D. (2002). Making Gender in Early Schooling: A multi-sited ethnography of power and discourse
+from grade one to two in Durban. Unpublished Ph.D. thesis, Durban, University of Natal.
+Bhana, D. (2005a). Violence and the gendered negotiation of young masculinities in South African schools.
+In R. Morrell & L. Ouzgane (Eds.), African masculinities (pp. 205–220). New York: Palgrave.
+Bhana, D. (2005b). What matters to girls and boys in a black primary school in South Africa. Early Child
+Development and Care, 175(2), 99–111.
+Boyden, J. (2003). Children under fire: Challenging assumptions about children’s resilience. Children, Youth
+and Environments, 13(1).
+Boyden, J., & de Berry, J. (Eds.) (2004). Children and Youth on the Front Line: Ethnography, Armed Conflict
+and Displacement. London: Berghahn Books.
+Bruner, J. (1990). Acts of meaning. Cambridge, MA: Harvard University Press.
+Bundy, C. (1992). Introduction. In D. Everatt & E. Sisulu (Eds.), Black youth in crisis: Facing the future.
+Braamfontein: Ravan Press.
+Cairns, E. (1996). Children and political violence. Oxford: Blackwell.
+Cairns, E., & Dawes, A. (1996). Children: Ethnic and political violence – a commentary. Child Development,
+67, 129–139.
+Chatty, D., & Hundt, G. L. (Eds.) (2005). Children of Palestine: Experiencing forced migration in the Middle
+East. Oxford: Berghahn Books.
+Christensen, P., & James, A. (Eds.) (2000). Research with children: Perspectives and practices. London:
+Falmer Press.
+
+--- [PDF Page 738 / Book Page 744] ---
+
+744 Parkes
+Cicchetti, D., & Lynch, M. (1993). Towards an ecological/transactional model of community violence and
+child maltreatment: consequences for children’s development. In D. Reiss, J. E. Richters, M. RadkeYarrow & D. Scharff (Eds.), Children and violence (pp. 96–118). New York: The Guilford Press.
+Cole, M. (1996). Cultural psychology: A once and future discipline. Cambridge, MA: The Belknap Press of
+Harvard University Press.
+Coles, R. (1986). The moral life of children. Boston, MA: Houghton Mifflin Company.
+Daiute, C., & Fine, M. (2003). Youth perspectives on violence and injustice. Journal of Social Issues, 59(1),
+1–14.
+Davies, L. (2004). Education and conflict: Complexity and chaos. London: RoutledgeFalmer.
+Dawes, A. (1994). The effects of political violence on socio-moral reasoning and conduct. In A. Dawes &
+D. Donald (Eds.), Childhood and adversity: Psychological perspectives from South African research
+(pp. 200–219). Cape Town and Johannesburg: David Philip.
+Dawes, A., & Donald, D. (2000). Improving children’s chances: developmental theory and effective interventions in community contexts. In D. Donald, A. Dawes & J. Louw (Eds.), Addressing childhood adversity
+(pp. 1–25). Cape Town: David Philip.
+Dawes, A., & Tredoux, C. (1990). The impact of political violence on the children of K.T.C. In The influence of violence on children: Occasional paper no. 13 (pp. 67–86). Cape Town: Centre for Intergroup
+Studies.
+Dodge, K. A., & Pettit, G. S. (2003). A biopsychosocial model of the development of chronic conduct problems in adolescence. Developmental Psychology, 39(2), 349–371.
+Dunne, M., Humphreys, S., & Leach, F. (2006). Gender violence in schools in the developing world. Gender
+and Education, 18(1), 75–98.
+Dunne, M., & Leach, F. (2005). Gendered school experiences: The impact on retention and achievement in
+Botswana and Ghana. London: DFID.
+Fick, A. C., Osofsky, J. D., & Lewis, M. L. (1997). Perceptions of violence: children, parents, and police
+officers. In J. D. Osofsky (Ed.), Children in a violent society (pp. 261–276). New York and London: The
+Guilford Press.
+Fonagy, P., Target, M., Steele, M., & Steele, H. (1997). The development of violence and crime as it relates
+to security of attachment. In J. D. Osofsky (Ed.), Children in a violent society (pp. 150–182). New York
+and London: The Guilford Press.
+Garbarino, J. (1999). Lost boys: Why our sons turn violent and how we can save them. New York: Anchor.
+Garbarino, J., Dubrow, N., Kostelny, K., & Pardo, C. (1992). Children in danger: Coping with the consequences of community violence. San Francisco, CA: Jossey-Bass.
+Garbarino, J., & Kostelny, K. (1997). What children can tell us about living in a war zone. In J. D. Osofsky
+(Ed.), Children in a violent society (pp. 32–41). New York and London: The Guilford Press.
+Garbarino, J., Kostelny, K., & Dubrow, N. (1991). No place to be a child: Growing up in a war zone. New
+York: Lexington Books.
+Garmezy, N. (1993). Children in poverty: resilience despite risk. In D. Reiss, J. E. Richters, M. RadkeYarrow & D. Scharff (Eds.), Children and violence (pp. 127–143). New York: The Guilford Press.
+Glanz, L. E., & Spiegel, A. D. (Eds.). (1996). Violence and family life in a contemporary South Africa:
+Research and policy issues. Pretoria: HSRC.
+Goodnow, J. (1990). The socialization of cognition: What’s involved? In J. W. Stigler, R. A. Shweder &
+G. Herdt (Eds.), Cultural psychology: Essays on comparative human development (pp. 259–286).
+Cambridge: Cambridge University Press.
+Harber, C. (2004). Schooling as violence: How schools harm pupils and societies. London: Routledge
+Falmer.
+Hart, J. (2004). Beyond struggle and aid: Children’s identities in a Palestinian refugee camp in Jordan. In
+J. Boyden & J. de Berry (Eds.), Children and youth on the front line: Ethnography, armed conflict and
+displacement (pp. 167–188). Oxford: Berghahn Books.
+Hecht, T. (1998). At home in the street: Street children of northeast Brazil. Cambridge: Cambridge University
+Press.
+Henderson, P. (1999). Living with fragility: Children in new crossroads. Unpublished Ph.D. thesis, University
+of Cape Town, Cape Town.
+
+--- [PDF Page 739 / Book Page 745] ---
+
+Perspectives on Children and Violence 745
+Hubbard, J., Realmuto, G. M., Northwood, A. K., & Masten, A. S. (1995). Comorbidity of psychiatric
+diagnosis wiht post-traumatic stress disorder in survivors of childhood trauma. Journal of the Academic
+Academy of Child and Adolescent Psychiatry, 32, 697–708.
+James, A., Jenks, C., & Prout, A. (1998). Theorizing childhood. Cambridge: Polity.
+Jenkins, E. J., & Bell, C. C. (1997). Exposure and response to community violence among children and
+adolescents. In J. D. Osofsky (Ed.), Children in a violent society (pp. 9–31). New York and London:
+The Guilford Press.
+Jones, S. (1993). Assaulting childhood: Children’s experiences of migrancy and hostel life in South Africa.
+Johannesburg: Witwatersrand University Press.
+Kilbride, P., Suda, C., & Njeru, E. (2000). Street children in Kenya: Voices of children in search of a childhood. London: Bergin and Garvey.
+Knox, C., & Monaghan, R. (2003). Violence in a changing political context: Northern Ireland and South
+Africa. In E. Stanko (Ed.), The Meanings of Violence (pp. 184–202). London: Routledge.
+Leach, F. (2006). Gender violence in schools in the developing world. In F. Leach & C. Mitchell (Eds.),
+Combating gender violence in and around schools (pp. 23–30). Stoke-on-Trent: Trentham.
+Lee, R., & Stanko, E. (Eds.) (2003). Researching violence: Essays on methodology and measurement.
+London: Routledge.
+Levett, A., Kottler, A., Walaza, N., Mabena, P., Leon, N., & Ngqakayi-Motaung, N. (1997). Pieces of mind:
+traumatic effects of child sexual abuse among black South African women. In A. Levett, A. Kottler, E.
+Burman & I. Parker (Eds.), Culture, power and difference: Discourse analysis in South Africa(pp. 125–138).
+Cape Town: University of Cape Town Press.
+Lorion, R. P., & Saltzman, W. (1993). Children’s exposure to community violence: Following a path from
+concern to research to action. In D. Reiss, J. E. Richters, M. Radke-Yarrow & D. Scharff (Eds.), Children
+and violence (pp. 55–65). New York: The Guilford Press.
+Luthar, S. S., Cicchetti, D., & Becker, B. (2000). The construct of resilience: a critical evaluation and guidelines for future work. Child Development, 71(3), 543–562.
+Machel, G. (1996). Impact of armed conflict on children. New York: United Nations, UNICEF.
+Malepa, M. (1990). The effects of violence on the development of young children in Soweto. In The influence of violence on children: Occasional paper no. 13 (pp. 45–48). Cape Town: Centre for Intergroup
+Studies.
+Martinez, P., & Richters, J. E. (1993). The NIMH community project: II. Children’s distress symptoms
+associated with violence exposure. In D. Reiss, J. E. Richters, M. Radke-Yarrow & D. Scharff (Eds.),
+Children and violence (pp. 22–35). New York: The Guilford Press.
+Matthews, I., Griggs, M., & Caine, G. (1999). The experience review of interventions and programmes dealing with youth violence in urban schools in South Africa. Durban: Independent Projects Trust.
+Mayall, B. (2002). Towards a sociology for childhood: Thinking from children’s lives. Buckingham: Open
+University Press.
+Mohanty, C. T. (1991). Under Western eyes: feminist scholarship and colonial discourses. In C. T. Mohanty,
+A. Russo & L. Torres (Eds.), Third World women and the politics of feminism (pp. 51–80). Bloomington
+and Indianapolis, IN: Indiana University Press.
+Moore, H. (1994). The problem of explaining violence in the social sciences. In P. Harvey & P. Gow (Eds.),
+Sex and violence: Issues in representation and experience. London: Routledge.
+Morrell, R. (2001). Corporal punishment and masculinity in South African schools. Men and masculinities,
+4(2), 140–157.
+Muldoon, O. T. (2004). Children of the troubles: The impact of political violence in Northern Ireland.
+Journal of Social Issues, 60(3), 453–468.
+Nader, K., Pynoos, R. S., Fairbanks, L., Al-Ajeel, M., & Al-Asfour, A. (1993). A preliminary study of
+PTSD and grief among the children of Kuwait following the Gulf Crisis. British Journal of Clinical
+Psychology, 32, 407–416.
+Oshako, T. (1999). The developing world. In P. K. Smith, Y. Morita, J. Junger-Tas, D. Olweus, R. Catalano
+& P. Slee (Eds.), The nature of school bullying: A cross-national perspective (pp. 359–375). London:
+Routledge.
+Osofsky, J. D. (Ed.) (1997). Children in a violent society. New York and London: The Guilford Press.
+
+--- [PDF Page 740 / Book Page 746] ---
+
+746 Parkes
+Osofsky, J. D., Wewes, S., Hann, D. M., & Fick, A. C. (1993). Chronic community violence: What is happening to our children? In D. Reiss, J. E. Richters, M. Radke-Yarrow & D. Scharff (Eds.), Children and
+violence (pp. 36–54). New York: The Guilford Press.
+Parkes, J. (2005). Children’s engagements with violence: A study in a South African School. Unpublished
+Ph.D., University of London Institute of Education, London.
+Parkes, J. (2007). Tensions and troubles in young people’s talk about safety and danger in a violent neighbourhood. Journal of Youth Studies, 10(1), 117–137.
+Parkes, J. (forthcoming). The power of talk: transformative possibilities in researching violence with children in South Africa. International Journal of Social Research Methodology.
+Perry, B. D. (1997). Incubated in terror: neurodevelopmental factors in the “cycle of violence”. In J. D.
+Osofsky (Ed.), Children in a Violent Society (pp. 124–149). New York and London: The Guilford Press.
+Pinheiro, P. S. (2006). World report on violence against children. New York, United Nations Secretary
+General’s Study on Violence against Children.
+Punamaki, R., & Suleiman, R. (1990). Predictors of and effectiveness of coping with political violence
+amongst Palestinian children. British Journal of Social Psychology, 29, 67–77.
+Ramphele, M. (1996). How sweet is home? Family dynamics in new crossroads. In L. Glanz & A. D. Spiegel
+(Eds.), Violence and family life in a contemporary South Africa: Research and policy issues (pp. 43–60).
+Pretoria: HSRC.
+Ramphele, M. (2000). Teach me how to be a man. In V. Das, A. Kleinman, M. Ramphele & P. Reynolds
+(Eds.), Violence and subjectivity (pp. 102–119). Berkeley, CA: University of California Press.
+Reilly, J., Muldoon, O. T., & Byrne, C. (2004). Young men as victims and perpetrators of violence in Northern
+Ireland: A qualitative analysis. Journal of Social Issues, 60(3), 469–484.
+Reynolds, P. (1989). Children in crossroads: Cognition and society in South Africa. Cape Town and
+Johannesburg: David Philip.
+Rosen, D. M. (2005). Armies of the young: Child soldiers in war and terrorism. New Brunswick: Rutgers
+University Press.
+Seedat, S., Nyamai, C., Njenga, F., Vythilingum, B., & Stein, D. J. (2004). Trauma exposure and posttraumatic stress symptoms in urban African schools: Survey in Cape Town and Nairobi. British Journal
+of Psychiatry, 184, 169–175.
+Seedat, S., van Nood, E., Vythilingum, B., Stein, D. J., & Kaminer, D. (2000). School survey of exposure
+to violence and posttraumatic stress symptoms in adolescents. Southern African Journal of Child and
+Adolescent Mental Health, 12(1), 38–44.
+Simpson, M. A. (1993). Bitter waters: Effects on children of the stresses of unrest and oppression. In J. P.
+Wilson & B. Raphael (Eds.), International Handbook of Traumatic Stress Symptoms (pp. 601–624).
+New York and London: Plenum Press.
+Stigler, J. W., Schweder, R. A., & Herdt, G. (Eds.) (1990). Cultural psychology: Essays on comparative
+human development. Cambridge: Cambridge University Press.
+Straker, G., Mendelsohn, M., Moosa, F., & Tudin, P. (1996). Violent political contexts and the emotional
+concerns of township youth. Child Development, 67, 46–54.
+Straker, G., Moosa, F., Becker, R., & Nkwale, M. (1992). Faces in the revolution: The Psychological Effects
+of Violence on Township Youth in South Africa. Cape Town: David Philip.
+Swartz, L., & Levett, A. (1989). Political repression and children in South Africa: the social construction of
+damaging effects. Social Science and Medicine, 28(7), 741–750.
+Thabet, A., & Vostanis, P. (1999). Post-traumatic stess reactions in children of war. Journal of Child
+Psychology and Psychiatry, 40, 385–391.
+Tolan, P. H., Gorman-Smith, D., & Henry, D. B. (2003). The developmental ecology of urban males’ youth
+violence. Developmental Psychology, 39(2), 274–291.
+van der Merwe, A., & Dawes, A. (2000). Prosocial and antisocial tendencies in children exposed to community violence. Southern African Journal of Child and Adolescent Mental Health, 12(1), 19–37.
+Werner, E., & Smith, R. (1983). Vulnerable but invincible: A longitudinal study of resilient children and
+youth. New York, McGraw-Hill.
+Wetherell, M., Taylor, S., & Yates, S. (Eds.) (2001). Discourse theory and practice: A reader. London:
+Sage.
+
+--- [PDF Page 741 / Book Page 747] ---
+
+Perspectives on Children and Violence 747
+WHO (2002). World report on violence and health. Geneva: World Health Organisation.
+WHO (2002). World report on violence and health. Geneva: World Health Organisation.
+Wood, K. (2002). An ethnography of sexual health and violence among township youth in South Africa.
+Unpublished Ph.D. thesis, School of Hygiene and Tropical Medicine, London.
+Woodhead, M. (1999). Reconstructing developmental psychology – some first steps. Children and Society,
+13, 3–19.
+Zeanah, C. H., & Scheeringa, M. S. (1997). The experiences and effects of violence in infancy. In J. D.
+Osofsky (Ed.), Children in a violent society (pp. 97–123). New York and London: The Guilford Press.
+

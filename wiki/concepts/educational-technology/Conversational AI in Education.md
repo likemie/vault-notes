@@ -23,8 +23,8 @@ tags:
 related_concepts:
   - "[[Dialogue in Education]]"
   - "[[AI Agent in Education]]"
+  - "[[Scaffolding]]"
   - "[[Procedural Skill]]"
-  - "[[AI Hallucination]]"
   - "[[Feedback]]"
   - "[[Presence]]"
   - "[[Revoicing]]"
@@ -57,9 +57,9 @@ updated: 2026-08-25
 > [[Dialogue in Education|教育对话]]式[[AI Agent in Education|智能体]]（Conversational AI in Education / Conversational AI Agents）是指依托自然语言理解（Natural Language Understanding, NLU）、语音识别（Speech Recognition）与多轮会话管理技术，在教育情境中与学习者进行文本或语音实时双向交流的人工智能交互中介。该系统能够模拟人类对话者的语言交流习惯，提供拟真语境口语练习、形成性即时反馈、[[Socrates|苏格拉底]]式追问与自适应语料支架。[[Argument_Liu_2026_CHBR|(Liu et al., 2026, pp. 2, 6–7)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 将对话式人机交互作为核心教学支架（Conversational Scaffolding），让学习者在自然的语言来回（Turn-Taking）中进行意义建构与[[Procedural Skill|程序性技能]]演练。
+> - **含义** 将对话式人机交互作为核心[[Scaffolding|教学支架]]（Conversational Scaffolding），让学习者在自然的语言来回（Turn-Taking）中进行意义建构与[[Procedural Skill|程序性技能]]演练。
 > - **用途** 最广泛应用于外语口语流利度训练、二语词汇与语法自适应习得、古诗词文本赏析互动与写作即时润色。
-> - **边界** 需防范由于语言模型[[AI Hallucination|幻觉]]产生的错误语法或事实误导，以及在需要严密空间几何推导或多步骤公式运算场景下的表示局限。
+> - **边界** 需防范由于语言模型幻觉产生的错误语法或事实误导，以及在需要严密空间几何推导或多步骤公式运算场景下的表示局限。
 
 > [!citation-card]- 关键表述
 > 对话式智能体通过提供低焦虑、随时可用的多轮对话语境与即时发音纠错，极大地激活了学生在语言与读写学科中的主动输出动机，取得了强劲的促学效果。（[[Argument_Liu_2026_CHBR|Liu et al., 2026, pp. 2]], 7）
@@ -87,7 +87,7 @@ updated: 2026-08-25
 > |---|---|---|---|---|---|---|---|
 > | Elmaadaway et al. (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 智能语音[[Dialogue in Education\|对话]]聊天机器人 vs. 常规听说练习 | 初中 EFL 英语口语阅读流利度（WCPM） | $N = 60$（干预 $n = 30$, 控制 $n = 30$） | — | Hedges' $g = 2.12$ | $p < .001$ | 准实验设计；秒级发音重铸与低焦虑环境带来巨大促学增益 |
 > | Chen et al. (2024)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 交互式古诗词虚拟人物问答[[AI Agent in Education\|智能体]] vs. 传统精读教学 | 语文古诗词意境理解与发散鉴赏表现 | $N = 80$ | — | Hedges' $g = 1.15$ | $p < .001$ | 准实验设计；多轮启发式对话显著促进情境代入与深层理解 |
-> | Sapan & Uzun (2024)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 对话式写作助手分步脚手架 vs. 独立自由写作 | 初中英语段落结构与论点展开质量 | $N = 68$ | — | Hedges' $g = 0.08$ | $p > .05$ | [[Quasi-Experimental Designs\|准实验设计]]；写作提示若缺乏教师干预则增益较为有限 |
+> | Sapan & Uzun (2024)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 对话式写作助手分步[[Scaffolding\|脚手架]] vs. 独立自由写作 | 初中英语段落结构与论点展开质量 | $N = 68$ | — | Hedges' $g = 0.08$ | $p > .05$ | [[Quasi-Experimental Designs\|准实验设计]]；写作提示若缺乏教师干预则增益较为有限 |
 
 > [!ma-table]- 一阶[[Meta-analysis|元分析]]互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>

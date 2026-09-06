@@ -23,10 +23,10 @@ tags:
 related_concepts:
   - "[[Generative Artificial Intelligence]]"
   - "[[AI Agent in Education]]"
+  - "[[Scaffolding]]"
   - "[[Problem Solving]]"
   - "[[Divergent Thinking]]"
   - "[[Formative Assessment]]"
-  - "[[AI Hallucination]]"
   - "[[Cognitive Offloading]]"
   - "[[Learning Gain]]"
   - "[[Zone of Proximal Development]]"
@@ -64,12 +64,12 @@ updated: 2026-08-25
 ## 定义
 
 > [!def] 核心定义
-> [[Generative Artificial Intelligence|生成式人工智能]][[AI Agent in Education|教育智能体]]（Generative Artificial Intelligence Agent in Education, GenAI Agent）是指以大语言模型（Large Language Models, LLM）及多模态生成模型为认知驱动中枢，具备环境情境感知、自主规划推理、动态知识检索与自适应内容生成能力的教育技术系统。不同于依赖预设决策树或静态规则的传统导师系统，生成式智能体能够理解学习者开放、非结构化的自然语言输入，并实时生成个性化解释、[[Socrates|苏格拉底]]式追问、程序代码调试反馈与反思脚手架。[[Argument_Liu_2026_CHBR|(Liu et al., 2026, pp. 2–3)]]
+> [[Generative Artificial Intelligence|生成式人工智能]][[AI Agent in Education|教育智能体]]（Generative Artificial Intelligence Agent in Education, GenAI Agent）是指以大语言模型（Large Language Models, LLM）及多模态生成模型为认知驱动中枢，具备环境情境感知、自主规划推理、动态知识检索与自适应内容生成能力的教育技术系统。不同于依赖预设决策树或静态规则的传统导师系统，生成式智能体能够理解学习者开放、非结构化的自然语言输入，并实时生成个性化解释、[[Socrates|苏格拉底]]式追问、程序代码调试反馈与反思[[Scaffolding|脚手架]]。[[Argument_Liu_2026_CHBR|(Liu et al., 2026, pp. 2–3)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 融合了生成式 AI 的开放表征能力与自主智能体（Autonomous Agent）的目标驱动、工具调用与长短期记忆机制，实现人机教学交互从“单向预设分流”向“双向协同共创”跃迁。
 > - **用途** 作为复杂开放任务（如编程探究、跨学科写作、科学[[Problem Solving|问题解决]]）中的个性化认知支架、[[Divergent Thinking|发散思维]]启发伙伴与[[Formative Assessment|形成性评价]]工具。
-> - **边界** 生成式智能体存在输出[[AI Hallucination|幻觉]]（Hallucination）与非确定性特征；若缺乏显性教学法约束与教师引导，极易诱发学习者的[[Cognitive Offloading|认知卸载]]（Cognitive Offloading）与机械盲从。
+> - **边界** 生成式智能体存在输出幻觉（Hallucination）与非确定性特征；若缺乏显性教学法约束与教师引导，极易诱发学习者的[[Cognitive Offloading|认知卸载]]（Cognitive Offloading）与机械盲从。
 
 > [!citation-card]- 关键表述
 > 生成式智能体通过动态情境推理与开放式表征，能够为复杂任务提供多粒度自适应支架。在基础教育[[Meta-analysis|元分析]]中，生成式智能体对认知表现展现出显著促进效应（$g = 0.421, p < .001$），但其对高阶思维的赋能高度依赖显性反思量规与结构化探究脚手架。（[[Argument_Liu_2026_CHBR|Liu et al., 2026, pp. 2]], 7, 10–11）
@@ -116,7 +116,7 @@ flowchart LR
 ```
 
 > [!feature] 生成式[[AI Agent in Education|教育智能体]]的三大赋能支柱与认知风险
-> 1. **开放上下文动态微提示（Dynamic Contextual Scaffolding）** 摆脱封闭题库约束，基于学习者个性化表述动态生成符合其[[Zone of Proximal Development|最近发展区]]（ZPD）的渐进式线索。
+> 1. **开放上下文动态微提示（Dynamic Contextual [[Scaffolding]]）** 摆脱封闭题库约束，基于学习者个性化表述动态生成符合其[[Zone of Proximal Development|最近发展区]]（ZPD）的渐进式线索。
 > 2. **多模态[[Divergent Thinking|发散思维]]启发（Multi-Modal Divergent Stimulation）** 支持文本、代码、图表的多向转换，激发学习者在开放探究与设计任务中的[[Creativity|创造力]]与[[Computational Thinking|计算思维]]。
 > 3. **[[Reflexivity|反思性]]结构约束（[[Metacognition|metacognitive regulation]]）** 通过内置提示词工程引导智能体以“提问促思”而非“直接给答案”，管理外在认知负荷并防范[[Cognitive Offloading|认知卸载]]。
 
@@ -151,11 +151,11 @@ flowchart LR
 >
 > | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（智能体技术类型） | 生成式智能体（GenAI Agent） | $k = 17$ / — | $g = 0.421$ $[0.198, 0.645]$ | 智能体类型间检验 $Q_B = 0.069, p = .793$ | 依赖外部脚手架约束与提示词设计；未作支架约束时易导致效应高度分化 |
+> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（智能体技术类型） | 生成式智能体（GenAI Agent） | $k = 17$ / — | $g = 0.421$ $[0.198, 0.645]$ | 智能体类型间检验 $Q_B = 0.069, p = .793$ | 依赖外部[[Scaffolding\|脚手架]]约束与提示词设计；未作支架约束时易导致效应高度分化 |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] — 在 AI [[AI Agent in Education|智能体]][[Meta-analysis|元分析]]中将生成式智能体作为核心技术亚组（$k = 17, g = 0.421$），系统揭示了其促进[[Computational Thinking|计算思维]]与写作表现的双重属性：当结合显性反思量规时产生稳健增益，若缺乏脚手架则可能诱发严重的[[Cognitive Offloading|认知卸载]]。
+> - [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] — 在 AI [[AI Agent in Education|智能体]][[Meta-analysis|元分析]]中将生成式智能体作为核心技术亚组（$k = 17, g = 0.421$），系统揭示了其促进[[Computational Thinking|计算思维]]与写作表现的双重属性：当结合显性反思量规时产生稳健增益，若缺乏[[Scaffolding|脚手架]]则可能诱发严重的[[Cognitive Offloading|认知卸载]]。

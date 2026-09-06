@@ -7,10 +7,10 @@ summary: "英国比较教育学者，以 transitology、现代／晚期现代教
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 28
-person_related_level: 3
-person_related_stars: "⭐⭐⭐"
-person_related_color: "#ede9fe"
+person_related_count: 33
+person_related_level: 4
+person_related_stars: "⭐⭐⭐⭐"
+person_related_color: "#fce7f3"
 tags:
   - region/uk
   - field/comparative-education
@@ -23,23 +23,27 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Four Sins of Comparative Education]]"
   - "[[Heroic, Strange, and Barbaric]]"
+  - "[[Comparative History of Comparative Education]]"
   - "[[Shape-Shifting]]"
   - "[[Educated Identity]]"
   - "[[Vergegenkunft]]"
   - "[[Geometries of Insertion]]"
+  - "[[Document]]"
+  - "[[Academic Iconography]]"
+  - "[[Policy Borrowing]]"
+  - "[[Epistemology]]"
   - "[[Deductive Rationality]]"
   - "[[Totally Pedagogised Society]]"
-  - "[[Policy Borrowing]]"
   - "[[Policy Science in Comparative Education]]"
   - "[[Assemblage]]"
-  - "[[Epistemology]]"
   - "[[Hierarchy of Future Issues in Comparative Education]]"
 related_theories: []
 related_methods: []
 related_persons:
+  - "[[Andreas Kazamias]]"
+  - "[[Michael Sadler]]"
   - "[[John Dewey]]"
   - "[[Paul Morris]]"
-  - "[[Andreas Kazamias]]"
 related_facts:
   - "[[Comparative Education Society in Europe]]"
   - "[[Comparative and International Education Society]]"
@@ -48,13 +52,14 @@ related_facts:
   - "[[Regional University Alliances]]"
 related_arguments:
   - "[[Argument_Cowen_2009_CE]]"
+  - "[[Argument_Cowen_2009_HistoryCreation]]"
   - "[[Argument_Cowen_2023_CE]]"
   - "[[Argument_Amos_2022_Springer]]"
   - "[[Argument_Zhou_2024_CE]]"
 confidence: medium
 status: draft
 created: 2026-05-08
-updated: 2026-07-08
+updated: 2026-09-05
 ---
 
 # Robert Cowen
@@ -74,8 +79,8 @@ updated: 2026-07-08
 
 > [!timeline] 生平与职涯
 > - **1990年代** 长期任职于伦敦大学学院教育与社会学院，从事比较教育研究与教学，提出现代／晚期现代教育的双轴比较模型。
-> - **2000** 担任[[Comparative Education Society in Europe|欧洲比较教育学会]]会长期间，在 *Comparative Education* 发表标志性论文，正式奠定教育 [[Transitology|转型学]] 的定义。[[Argument_Cowen_2009_CE|(Cowen, 2009, p. 315)]]
-> - **2009** 发表论文提出教育过程的 [[Transfer Translation Transformation|3T 框架]]，将“[[Shape-Shifting|形变]]”引入跨国比较。
+> - **2000** 担任[[Comparative Education Society in Europe|欧洲比较教育学会]]会长期间，在 *Comparative Education* 发表标志性论文，正式奠定教育 [[Transitology|转型学]] 的定义。[[Argument_Cowen_2009_CE|(Cowen, 2009b, p. 315)]]
+> - **2009** 与 [[Andreas Kazamias]] 共同主编《比较教育学国际手册》（*International Handbook of Comparative Education*），并在第 2 章系统反思学科史编纂的三重困境，倡导走向[[Comparative History of Comparative Education|比较教育学的比较史]]；同年发表论文提出教育过程的 [[Transfer Translation Transformation|3T 框架]]，将“[[Shape-Shifting|形变]]”引入跨国比较。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, pp. 7–10)]]
 > - **2023** 针对学科陷入的技术官僚管理主义与理论空洞危机发表诊断性论文，呼吁学科战略性回归转移形态学与[[Educated Identity|受教育身份]]的伦理本质，以应对未来人工智能（Artificial Intelligence，AI）教学时代的挑战。[[Argument_Cowen_2023_CE|(Cowen, 2023, p. 326)]]
 
 ---
@@ -95,9 +100,14 @@ updated: 2026-07-08
 >   - **阶段转向** 将教育定位为社会跃迁中“摧毁过去、重新定义未来”的重构性与象征性力量。他强调过去、现在与未来的非线性交织关系，这一洞察被 Amos 以君特·格拉斯（Günther Grass）的 [[Vergegenkunft]] 文学概念加以呼应。
 > - **2009 — [[Transfer Translation Transformation|3T 框架]]与[[Shape-Shifting|形变]]阶段**
 >   处理教育现象在跨国移动中的“物理与化学变化”，探讨外来思想如何在地发生本土变异。
->   - **代表著作** *The transfer, translation, and transformation of educational processes: And their shape-shifting?* (2009)。[[Argument_Cowen_2009_CE|(Cowen, 2009, pp. 315–327)]]
+>   - **代表著作** *The transfer, translation, and transformation of educational processes: And their shape-shifting?* (2009)。[[Argument_Cowen_2009_CE|(Cowen, 2009b, pp. 315–327)]]
 >   - **关键概念** [[Transfer Translation Transformation|3T 框架]]、形变（Shape-Shifting）、[[Geometries of Insertion|嵌入几何学]]。
 >   - **阶段转向** 打破了“忠实移植”的二元论，将跨国流动解构为转移、转译和转化的演变过程。以嵌入几何学的伦理追问收尾，将分析推向规范层面。
+> - **2009 — 学科史批判与[[Comparative History of Comparative Education|比较教育学比较史]]阶段**
+>   系统反思比较教育学史作为学科合法性起源神话的局限性，揭示隐蔽历史、制度支持不足与[[Document|文献]]密度匮乏三重困境，倡导超越单一线性国别叙事。
+>   - **代表著作** *On History and on The Creation of Comparative Education* (2009)。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, pp. 7–10)]]
+>   - **关键概念** [[Comparative History of Comparative Education|比较教育学的比较史]]、[[Academic Iconography|学科肖像学]]批判、历史哲学诠释学悖论（未来决定过去）。
+>   - **阶段转向** 将批判锋芒从外部[[Policy Borrowing|政策借用]]转向学科内部的历史建构，主张挖掘边缘学者档案（含女性学者）、剖析国别元[[Epistemology|认识论假设]]，并打破对学术图腾（如[[Michael Sadler|萨德勒]]）的迷信。
 > - **2023 — 学科学术与伦理重组阶段**
 >   针对当代大学绩效管理主义的腐蚀，进行深刻的意识形态解构，重新确立学科道德与智识议程。
 >   - **代表著作** *Comparative education: and now?* (2023)。[[Argument_Cowen_2023_CE|(Cowen, 2023, pp. 326–340)]]
@@ -114,7 +124,7 @@ updated: 2026-07-08
 > [!citation-card]- 经典表述：移动即变形
 > 译文：移动即变形。
 > 
-> 原文：*"As it moves, it morphs."* ([[Argument_Cowen_2009_CE|Cowen, 2009, p. 315]])
+> 原文：*"As it moves, it morphs."* ([[Argument_Cowen_2009_CE|Cowen, 2009b, p. 315]])
 
 > [!citation-card]- 2023年学科学术与伦理重组诊断
 > 译文：我们积累了过多惯例化的自我合法化方式；是时候摆脱关于我们过去的舒适陈词滥调，注意到未来至少在隐喻意义上已经是现在，而且是紧迫的。我们能否通过对“受教育身份”的追问，给予我们足够的道德清晰性和确定性，来见证我们以“教育”之名对世界上的孩子们做了什么？
@@ -167,3 +177,4 @@ updated: 2026-07-08
 > | [[Deductive Rationality]] | 概念 | 他用于解构大学微观管理主义和绩效量化控制的批判工具。 |
 > | [[Heroic, Strange, and Barbaric]] | 概念 | 他提出的三个道德批判形容词，用以打破专业相对主义和中立掩饰。 |
 > | [[Totally Pedagogised Society]] | 概念 | 他引入前瞻分析的未来社会形态，以应对 AI 教学与监控资本主义挑战。 |
+| [[Comparative History of Comparative Education]] | 概念 | 他倡导的学科史编纂方法论纲领，主张超越孤立国别史与合法性起源神话，走向多元比较与元[[Epistemology\|认识论]]反思。 |

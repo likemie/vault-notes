@@ -22,11 +22,11 @@ tags:
 related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Boundary Object]]"
+  - "[[Scaffolding]]"
   - "[[Epistemology]]"
   - "[[Cognitive Offloading]]"
   - "[[Externalization]]"
   - "[[Brainstorming]]"
-  - "[[AI Hallucination]]"
   - "[[Creativity]]"
   - "[[Critical Thinking]]"
   - "[[Scientific Literacy]]"
@@ -103,12 +103,12 @@ updated: 2026-09-05
 ## 定义
 
 > [!def] 核心定义
-> 生成式人工智能（Generative Artificial Intelligence, GenAI）指以 Transformer、自回归大语言模型（Large Language Models, LLMs）及多模态扩散模型（Diffusion Models）为底层架构，能够依据自然语言提示（Prompts）动态生成连贯文本、程序代码、多维图像、音视频及复杂合成制品的计算技术系统。在教育研究与学习科学视角下，生成式 AI 不仅是一项自动化内容生产工具，更是嵌入在分布式认知网络中的**交互式认知中介、[[Dialogue in Education|对话]]伙伴与[[Boundary Object|边界对象]]**。它能够通过开放式语义联想激发发散构想与反思监控，但其对学习者高阶心智的最终塑造具有高度的情境依从性——取决于教学活动系统是否施加结构化脚手架以维系必要的“[[Epistemology|认识论]]摩擦”，抑或滑向有害的[[Cognitive Offloading|认知卸载]]。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 1–3, 10–11)]]; [[Argument_Liu_2026_CHBR|(Liu et al., 2026, pp. 2–3)]]
+> 生成式人工智能（Generative Artificial Intelligence, GenAI）指以 Transformer、自回归大语言模型（Large Language Models, LLMs）及多模态扩散模型（Diffusion Models）为底层架构，能够依据自然语言提示（Prompts）动态生成连贯文本、程序代码、多维图像、音视频及复杂合成制品的计算技术系统。在教育研究与学习科学视角下，生成式 AI 不仅是一项自动化内容生产工具，更是嵌入在分布式认知网络中的**交互式认知中介、[[Dialogue in Education|对话]]伙伴与[[Boundary Object|边界对象]]**。它能够通过开放式语义联想激发发散构想与反思监控，但其对学习者高阶心智的最终塑造具有高度的情境依从性——取决于教学活动系统是否施加结构化[[Scaffolding|脚手架]]以维系必要的“[[Epistemology|认识论]]摩擦”，抑或滑向有害的[[Cognitive Offloading|认知卸载]]。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 1–3, 10–11)]]; [[Argument_Liu_2026_CHBR|(Liu et al., 2026, pp. 2–3)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指具有开放上下文理解与概率性合成表征能力的智能技术，重塑了知识检索、表征[[Externalization|外化]]与人机分工的边界。
 > - **用途** 在教育中充当[[Brainstorming|头脑风暴]]启发伙伴、二语写作脚手架、个性化形成性反馈提供者与跨学科概念连接中继。
-> - **边界** 区别于预设规则与决定论算法，其输出具有概率性非确定性与[[AI Hallucination|幻觉]]（Hallucination）特征；无法替代人类具身体验、伦理裁决与深层认识论判断。
+> - **边界** 区别于预设规则与决定论算法，其输出具有概率性非确定性与幻觉（Hallucination）特征；无法替代人类具身体验、伦理裁决与深层认识论判断。
 
 > [!citation-card]- 关键表述：高等教育认知塑造视角
 > 这些研究发现表明，ChatGPT 对学生认知的影响并非该工具自身所固有，而是依存于教学框架、任务设计和教学脚手架。在缺乏教学支架的情境中，研究者观察到[[Creativity|创造力]]优于[[Critical Thinking|批判性思维]]的非对称模式以及双重认知侵蚀，二者往往都由认知卸载所引发。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 1, 10)]]
@@ -144,9 +144,9 @@ updated: 2026-09-05
 
 > [!feature] 核心要素
 > - **概率性语义表征与能力[[Emergence|涌现]]（Emergence & Representation）** 基于海量人类语料的自注意力机制，展现出跨学科模式识别、体裁迁移与概念重组能力，为开放探究提供即时知识连接。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 2–3)]]
-> - **提示词工程与[[Dialogue in Education|对话]]式认知脚手架（Prompt Scaffolding）** 将自然语言提示作为人机交互与思维[[Externalization|外化]]的界面，通过角色设定、追问指令与量规对齐，动态调整技术对[[Zone of Proximal Development|最近发展区]]的支持力度。[[Argument_Liu_2026_CHBR|(Liu et al., 2026, pp. 2, 10)]]
+> - **提示词工程与[[Dialogue in Education|对话]]式[[Scaffolding|认知脚手架]]（Prompt Scaffolding）** 将自然语言提示作为人机交互与思维[[Externalization|外化]]的界面，通过角色设定、追问指令与量规对齐，动态调整技术对[[Zone of Proximal Development|最近发展区]]的支持力度。[[Argument_Liu_2026_CHBR|(Liu et al., 2026, pp. 2, 10)]]
 > - **认知放大与[[Cognitive Offloading|认知卸载]]的动态张力（Amplification vs. Offloading）** 既能剥离机械性外在负荷以释放[[Working Memory|工作记忆]]投入高阶推理（认知放大），又极易因表面语义流畅性诱发心智怠惰与深度思考外包（有害卸载）。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 10–11)]]
-> - **[[Epistemological Vigilance|认识论警觉]]与多源[[Triangulation|三角互证]]（Epistemic Vigilance）** 学习者必须建立对抗模型[[AI Hallucination|幻觉]]与偏见的批判性怀疑态度，将 AI 生成内容与[[Primary and Secondary Documents|一手文献]]、教师点拨及同伴评议进行多源三角核验。[[Argument_Li_2026_CEAI|(Li et al., 2026, p. 11)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, pp. 34–36)]]
+> - **[[Epistemological Vigilance|认识论警觉]]与多源[[Triangulation|三角互证]]（Epistemic Vigilance）** 学习者必须建立对抗模型幻觉与偏见的批判性怀疑态度，将 AI 生成内容与[[Primary and Secondary Documents|一手文献]]、教师点拨及同伴评议进行多源三角核验。[[Argument_Li_2026_CEAI|(Li et al., 2026, p. 11)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, pp. 34–36)]]
 > - **人机协同活动系统全要素整合（[[Third Generation Activity Theory|AT-MCSCL]] Activity System）** 基于[[Third Generation Activity Theory|活动理论]]移动协作学习架构，将生成式 AI 介入解析为主体（学段与学科特质）、工具（模态与平台）、客体（多维产出）、分工（学习同伴 vs 授课导师）、规则（4–12 周干预周期与反思量规）与共同体情境（数字化水平与权力距离文化）六大要素的协同联动，摆脱单一的技术决定论。[[Argument_Chen_Cheung_2025_ERR|(Chen & Cheung, 2025, pp. 3–7)]]
 > - **教学活动系统与评价规则重构（Activity System Reconfiguration）** 推动教学评价从“关注最终文字成品”转向“关注提示词迭代链、事实查错过程与反思日志”的全程伴随式评价。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 11–13)]]
 
@@ -175,7 +175,7 @@ updated: 2026-09-05
 > 该命题批判了技术决定论的乐观或悲观立场，确立了教学法介入在生成式技术应用中的决定性分流作用。
 
 > [!claim] Li, C.
-> **结构化探究驱动双向协同增益 vs 非结构化引发非对称侵蚀** 基于对高等教育实证研究的[[Systematic Review|系统综述]]，ChatGPT 等生成式技术对学生批判性与[[Creativity|创造性思维]]的影响具有鲜明的情境依赖性。在嵌入反思提示与[[Dialogue in Education|对话]]探究的[[Structured Teaching|结构化教学]]中，AI 作为认知放大器显著驱动了两类思维的协同跃升；反之，在缺乏教学支架的自由使用情境中，工具的表面流畅性麻痹了反思本能，诱发严重的[[Cognitive Offloading|认知卸载]]，导致创造性发散繁荣伴随批判性审思崩塌的非对称发展，乃至双重认知侵蚀。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 1, 9–11)]]
+> **结构化探究驱动双向协同增益 vs 非结构化引发非对称侵蚀** 基于对高等教育实证研究的[[Systematic Review|系统综述]]，ChatGPT 等生成式技术对学生批判性与[[Creativity|创造性思维]]的影响具有鲜明的情境依赖性。在嵌入反思提示与[[Dialogue in Education|对话]]探究的[[Structured Teaching|结构化教学]]中，AI 作为认知放大器显著驱动了两类思维的协同跃升；反之，在缺乏[[Scaffolding|教学支架]]的自由使用情境中，工具的表面流畅性麻痹了反思本能，诱发严重的[[Cognitive Offloading|认知卸载]]，导致创造性发散繁荣伴随批判性审思崩塌的非对称发展，乃至双重认知侵蚀。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 1, 9–11)]]
 
 > [!claim] Liu, X.
 > **显性反思量规对[[Generative AI Agent in Education|生成式智能体]]促学效应的决定性调节** 在针对基础教育与高等教育中 AI [[AI Agent in Education|智能体]]促学成效的一阶[[Meta-analysis|元分析]]中，生成式智能体展现出显著的积极效应，但效应在不同干预设计间高度分化。结合显性反思量规与[[Socrates|苏格拉底]]式提问的实验组取得了稳健的[[Computational Thinking|计算思维]]与论证增益，而缺乏脚手架约束的开放使用则导致学生探究推理能力显著受挫。[[Argument_Liu_2026_CHBR|(Liu et al., 2026, pp. 2, 7, 10–11)]]
@@ -260,7 +260,7 @@ updated: 2026-09-05
 
 > [!warning] 适用局限与实施边界
 > - **无法替代具身情境与实践经验** 实验室动手操作、真实[[Fieldwork|田野调查]]、面对面同伴共情与人际伦理协商等核心教育体验，均无法被纯文本/多模态生成式算法替代。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, pp. 32–34)]]
-> - **高度依赖领域先验知识与[[Self-Regulated Learning|自我调节学习]]能力（SRL）** 只有当使用者具备学科基准图式与高水平[[Metacognition|元认知监控]]时，才能有效驾驭生成式 AI 并识别模型[[AI Hallucination|幻觉]]；实证确证低 SRL 学习者在生成式技术环境下促学效应显著滑落（$g = 0.284$ vs 高 SRL $0.863, p < .001$），极易陷入算法盲从与深度推理放弃。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 12–13)]]
+> - **高度依赖领域先验知识与[[Self-Regulated Learning|自我调节学习]]能力（SRL）** 只有当使用者具备学科基准图式与高水平[[Metacognition|元认知监控]]时，才能有效驾驭生成式 AI 并识别模型幻觉；实证确证低 SRL 学习者在生成式技术环境下促学效应显著滑落（$g = 0.284$ vs 高 SRL $0.863, p < .001$），极易陷入算法盲从与深度推理放弃。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 12–13)]]
 > - **警惕长期脱敏与[[Fade-out Effect|效应衰退]]（Fade-out Effect）** 干预时间并非越长越好，过长或过短均削弱成效：① **高校情境黄金周期** [[Argument_Chen_Cheung_2025_ERR|Chen & Cheung (2025)]] 发现短期（$<4$ 周，$g^+ = 0.541$）未充分内化，长期（$>12$ 周，$g^+ = 0.350$）易发生脱敏疲劳，**4–12 周（$g^+ = 1.014$）** 为黄金窗口；② **[[Higher-Order Thinking Skills|高阶思维]]综合倒 U 型验证** [[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] 跨学段实证同样表明，8–16 周干预成效达到峰值（$g = 0.759$），而 $>16$ 周急剧下滑至 $g = 0.372$（$p = 0.011$），跨[[Document|文献]]交叉证实长期介入若缺乏递进式任务挑战，极易诱发工具依赖与认识论摩擦耗散。[[Argument_Chen_Cheung_2025_ERR|(Chen & Cheung, 2025, pp. 12, 17)]]; [[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 11–12)]]
 > - **[[Publication Bias|发表偏倚]]虚高与真实效应收敛** 现有[[Document|文献]]存在显著的“抽屉效应”与自编测验效应虚高（自编测验 $g^+ = 1.022$ vs 标准化量表 $0.614$），经[[Trim and Fill Method|剪补法]]严密校正后总体真实[[Effect Size|效应量]]收敛为中等偏小的客观基准（$g^+ = 0.321$），警示学界与决策者摒弃盲目技术狂热。[[Argument_Chen_Cheung_2025_ERR|(Chen & Cheung, 2025, pp. 13–14)]]
 
@@ -275,7 +275,7 @@ updated: 2026-09-05
 > |---|---|---|---|---|---|---|
 > | [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] | 干预因素（生成式 AI 在高等教育中的综合学习成效） | $k = 97$ / $N = 5{,}389$（57 项实验研究） | Hedges' $g^+$；随机效应模型 | $g^+ = 0.804$ $[0.636, 0.972]$（剪补校正后 $g^+ = 0.321$） | $Q = 1390.16, p < .001, I^2 = 93.09\%$ | 严格控制基线等效性（前测差异 $d < 0.25$）；语言技能（$g^+ = 2.331$）、学业成绩（$g^+ = 0.633$）、情感动机（$g^+ = 0.617$）和高阶思维（$g^+ = 0.580$）显著，但元认知不显著（$g^+ = 0.078$） |
 > | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 干预因素（生成式 AI 对学生[[Higher-Order Thinking Skills\|高阶思维]]的促学总成效） | $k = 59$ / 29 项实验与准实验研究 | Hedges' $g$；随机效应模型 | $g = 0.609$ $[0.485, 0.732]$ | $Q = 255.208, p < .001, I^2 = 77.273\%$ | 涵盖问题解决（$g = 0.745$）、批判性思维（$g = 0.691$）与创造力（$g = 0.444$）；证实适度周期与高自主调节能力是释放促学潜能的关键 |
-> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（[[Generative AI Agent in Education\|生成式智能体]]促学总成效） | $k = 17$ / — | Hedges' $g$；随机效应模型 | $g = 0.421$ $[0.198, 0.645]$ | $Q = 143.76, I^2 = 88.87\%$ | 纳入中小学及高校实证；未作教学反思脚手架约束的研究易产生负向效应 |
+> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（[[Generative AI Agent in Education\|生成式智能体]]促学总成效） | $k = 17$ / — | Hedges' $g$；随机效应模型 | $g = 0.421$ $[0.198, 0.645]$ | $Q = 143.76, I^2 = 88.87\%$ | 纳入中小学及高校实证；未作教学反思[[Scaffolding\|脚手架]]约束的研究易产生负向效应 |
 
 > [!ma-table]- 一阶元分析互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>

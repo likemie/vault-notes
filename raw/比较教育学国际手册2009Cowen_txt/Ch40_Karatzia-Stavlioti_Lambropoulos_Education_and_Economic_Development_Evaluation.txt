@@ -1,0 +1,913 @@
+================================================================================
+Chapter 40: Education and Economic Development: Evaluations and Ideologies
+Author(s): Eleni Karatzia-Stavlioti and Haris Lambropoulos
+Handbook: International Handbook of Comparative Education (2009)
+Editors: Robert Cowen and Andreas M. Kazamias (Section Editor: Elaine Unterhalter)
+Section: Section 4: Industrialisation, Knowledge Economies and Education
+Book Pages: pp. 633–650
+PDF Pages: pp. 632–648, plus p. 1267 (Appendix)
+================================================================================
+
+--- [PDF Page 632 / Book Page 633] ---
+
+40
+EDUCATION AND ECONOMIC DEVELOPMENT:
+EVALUATIONS AND IDEOLOGIES
+Eleni Karatzia-Stavlioti and Haris Lambropoulos
+
+Introduction
+This chapter investigates the relationship of education and economic development
+by reviewing the evolution of the relevant research field. Economic considerations
+regarding the value of education to human development have appeared since the
+ancient times (Mace et al., 2000a: 2). However, there are considerable differences
+in the ideologies, the evaluations and the ways these considerations have been
+put forward at different times and by different societies (Karatzia-Stavlioti, 2005:
+140–142).
+After the Second World War a rapid expansion of education systems took
+place. There were discussions of the contribution of education to economic
+development. Firstly, convergence theories stressed the need for the societies
+to respond to the challenges of the new technological improvements (Ingels &
+Sirowy, 1983: 335). Then neo-Marxist approaches highlighted neo-colonialism
+(Wallerstein, 1974; Altbach, 1971; Carnoy, 1974). Thirdly, there were the theories of neo-institutionalism, which focused on world education culture; world
+culture became very important as a policy legitimization framework (Meyer et al.,
+1997; McNeely, 1995).
+During this post-war period, international organizations were strengthened by the
+need for world peace and social development and they contributed to the creation of a
+major international education discourse. Politicians invited experts from international
+agencies to advise on educational reforms and on how to borrow and invest money
+in education in order to achieve social and economic development (Wolf, 2004: 317;
+Resnic, 2006: 174; Mace et al., 2000b: 2).
+From the 1960s, human capital theory has been important (Schultz, 1961, 1963,
+1993; Becker, 1964, 1993, 1995; Cohn & Geske, 1998: 30–35; Johnes, 1993:
+15–18). The concept of human capital stresses the skills and attributes embodied
+in people and assumes that the skills may be improved through education and
+training.
+In this chapter the link between education and economic development is reviewed
+and the theoretical arguments are critically discussed in an evaluative framework.
+Finally, how the education–economic development discourse became the basis of educational reforms and policies throughout the world is noted.
+633
+R. Cowen and A. M. Kazamias (eds.), International Handbook of Comparative Education, 633–650.
+© Springer Science + Business Media B.V. 2009
+
+--- [PDF Page 633 / Book Page 634] ---
+
+634 Karatzia-Stavlioti and Lambropoulos
+
+Education and Economic Development: Theories
+This section investigates the ways that education was related to economic development
+and presents the underlying theoretical arguments. At the heart of these theoretical considerations lies the concept of human capital that was mainly treated by economists of
+education. The vocabulary used in the relevant works is rather specialized and technical;
+on this basis, any review of the field cannot avoid being to a certain degree technical.
+Adam Smith (1937) in his historic book The Wealth of Nations is the first to identify,
+among the four types of capital he recognizes, the human capital; he defined it as skills,
+dexterity (physical, intellectual, psychological), and judgement. The use of the term in
+the neoclassical economic literature dates back to Mincer’s article ‘Investment in Human
+Capital and Income distribution’ in 1958 (Mincer, 1974). According to Becker (1964),
+human capital is similar to physical means of production like factories and machines as
+(a) one can invest in human capital (via education, training, medical treatment)
+and (b) one’s outputs depend partly on the rate of return of the human capital one owns.
+Thus, human capital is a means of production into which additional investment yields
+additional output. Human capital is substitutable, but not transferable like land, labour or
+fixed capital. While economists use the term human capital, non-economists tend to talk
+about the importance of the ‘skills’ of the workforce (Wolf, 2002, 2004: 317).
+Schultz examines two related ideas in human capital theory and they need to be
+distinguished carefully. The first has to do with the motives for spending money on
+education and the other is related to human capital-creating activities (such as health).
+Blaug (1972: 29) believes that the concept of human capital is the idea that people
+spend on themselves in diverse ways, not for the sake of present enjoyment, but for the
+sake of future pecuniary and non-pecuniary returns. It is this notion that was attacked
+by Shaffer (1961).
+The second idea of human capital theory is that through education and training
+people acquire attributes that make them more productive in the labour market. The
+value of this human capital embodied in them (and in societies) can be measured and
+can help to explain economic growth. In other words, those with more schooling or
+on-the-job training have incurred a cost in the form of foregone earnings. In addition,
+their productivity has increased which in turn results in higher earnings, assuming that
+workers are paid according to their marginal product. In this sense the theory produces
+explanations of the individual earning differences in a competitive labour market.
+Since the 1960s a legitimization discourse for policies towards education advancement has been constructed on the basis of its economic value for individuals and societies. It is important to present the arguments used in the relevant debate. These may be
+grouped as follows:
+1. Rate of return analysis: It is based on aspects of the human capital theory by
+which education is treated as an investment which might enhance productivity
+and yield monetary and non-monetary returns.
+2. Human resource approach: It used the idea that through education and training specific future needs for educated workers might be planned and satisfied
+towards economic development.
+
+--- [PDF Page 634 / Book Page 635] ---
+
+Education and Economic Development 635
+
+3. Education and economic growth analyses: It is based on the idea that education
+has got a major multiplier role in economic analysis growth.
+
+Rate of Return Analysis
+It assumes that it is education that is mainly responsible for the fact that the more educated earn more than the less educated. The question of why education and earnings
+are so closely correlated and the other explanations offered are discussed in the relevant literature under headings such as the ‘alpha-coefficient’, the ‘screening hypothesis’ and the ‘diploma disease’ (Psacharopoulos & Woodhall, 1985: 34–39; Mace
+et al., 2000b: 23–30).
+Rate-of-return analysis is a particular type of cost–benefit analysis. It is a technique
+in which the costs of an educational investment and the benefits of this investment
+are related to each other. The rate of return of any investment project is simply the
+rate of interest that equates the discounted present value of expected benefits and the
+present value of the costs of the project. The private rate of return might be a factor
+that will influence pupils in their decisions as to whether to stay in education or to
+enter the labour market. A number of objections have been made to the technique and
+their importance in evaluating the work in the field is quite high. These objections fall
+into categories such as data constraints, cross-sectional profiles, consumption benefits,
+uncertainty, and whether it is education alone that causes higher earnings (the alphacoefficient) (Wolf, 2002; Mace et al., 2000b: 24–30).
+The first practical problem of calculating rates of return, particularly in developing
+countries, is one of data constraints since the data requirements in ideal circumstances
+are enormous. In practice, no country has such detailed information, but it is perfectly
+possible to obtain enough data even by making assumptions.
+Data on earnings used are usually based on a snapshot, or are cross-sectional. They,
+therefore, do not represent the progress of the earnings of the individual, or group of
+individuals, over the course of their working lives. For the near future, and in particular
+the period of full-time higher education, this probably does not make much difference.
+But for more distant periods and especially in the changing contemporary society, the
+difference may be considerable (Karatzia-Stavlioti & Lambropoulos, 2006: 21–30).
+Consumption benefits are an important issue and whatever the proportion of spending that is incurred for consumption reasons, it should not be included in the measure
+of costs for rate of return calculations. In addition, spending on education may result
+in future consumption benefits, such as a feeling of well-being, or a feeling that the
+quality of life has been improved. These future consumption benefits are obviously not
+going to be captured in rate-of-return calculations which measure benefits in terms of
+additions to salary.
+The uncertainty factor is becoming very important in the knowledge society (EU,
+1996; Council of Europe, 2003). The expectation of being able to work or work in the
+same field throughout one’s lifetime is also subject to increasing uncertainty in the contemporary world. Individuals may be expected to react to uncertainty and risk in different ways, a fact that must be taken into consideration in evaluative empirical estimates.
+
+--- [PDF Page 635 / Book Page 636] ---
+
+636 Karatzia-Stavlioti and Lambropoulos
+
+In comparing average streams of income, it has to be assumed that the whole of the
+difference between average earnings is due to additional education. A moment’s reflection will show that this is not necessarily the case. A number of characteristics of an
+individual may lead her or him higher in education and earnings. Such characteristics
+could be: belonging to the higher socio-economic class, having greater-than-average
+intelligence and ability, or possessing stronger-than-average ambition and drive. The
+proportion of the increased earnings of the more educated that is directly attributed to
+education is called the alpha-coefficient. The actual value of the alpha-coefficient is
+a matter for debate (Denison, 1962). It has been suggested that the effects of natural
+ability may be stronger at some ages, or for some categories of educated workers, than
+others. In this sense different values should be attached to the alpha-coefficient for different calculations (Mace et al., 2000b: 25).
+Apart from the above, some other problems of more technical nature exist. They
+are related to the use of the earnings functions in any model of cost–benefit analysis.
+However, the constructive criticisms to these problems have resulted in further refinements and complicated extensions of the basic mathematical model. The relative literature refers to these in the sections on ‘extended earnings functions’ (Monk, 1990;
+Karatzia-Stavlioti & Lambropoulos, 2006: 150–157). In these extended models a great
+deal of sensitivity to the human capital analyses was added.
+With the social rate of returns we are measuring the profitability of society’s spending on education. The social rate of return to education spending has been used as a
+guide to the allocation of resources, between the education sector and other sectors of
+the economy, and also within the education sector itself. The problems that apply to
+the social-rate-of-return analysis are related to the ones of the private-rate-of-return
+analysis. For example, the problem of data limitations will loom larger in developing
+countries than in developed countries. The additional problems of social rate of returns
+are: education as a filter, whether earnings reflect productivity, and the externalities
+associated with education.
+The problem titled ‘education as a filter’ is related to the question of the size of
+the alpha-coefficient discussed earlier. Though the notion is complex, it is simply
+explained as the situation in which education ‘does not directly improve workers’ skills
+and productivity’ as human capital theory argues, but merely identifies ‘workers with
+superior abilities and personal attributes’ (Dore, 1976: 79–99; Johnes, 1993: 18–26;
+Psacharopoulos, 1994: 45).
+For social-rate-of-return analysis to be more valid the earnings used for this calculation must reflect the workers’ contribution to output, that is their productivity. This
+question is concerned with the imperfections of the labour market. Certain types of
+labour can influence their earnings by controlling entry into the occupation (as with
+monopoly power in, for example, entry into the medical profession). Some employers
+have considerable control over buying labour (e.g. entry into the Civil Service –
+especially in countries such as Greece where the civil servants constitute a large
+proportion) (Magoula & Psacharopoulos, 1999). Also, knowledge of the labour market
+is not always perfect; many employers do not know how their profits will be affected
+by employing more qualified labour, and employees are often not well informed about
+job opportunities.
+
+--- [PDF Page 636 / Book Page 637] ---
+
+Education and Economic Development 637
+
+It can be argued that the question of the earnings–productivity relationship can
+only be answered by examining the operation of the specific labour market. This
+will obviously differ enormously between countries. If labour markets are sufficiently competitive to suggest that earnings do move up and down to reflect market
+forces then rate-of-return analysis will prove a valuable and valid. If earnings are
+not determined in this way, rate-of-return analysis is theoretically flawed and the
+anticipated relationship between education and earnings is not the real one (Mace
+et al., 2000b).
+It is important to distinguish the monetary and non-monetary indirect benefit
+(Psacharopoulos, 1994) or the externalities of education. The main point is that the
+evaluations of the external benefits of education would add to the estimations of the
+net social benefits of investment in education. What is really important is not whether
+education as a whole produces benefits that spill over in the society. It is clear that it
+does (Mace et al., 2000b: 40).
+The point is whether the externalities for some levels or types of education are
+greater than others, or whether the externalities of education are more or less significant than they are for other types of investment. Another important question is whether
+investment in education may help to make social investment more productive and,
+generally, individuals more effective in the contemporary world (Psacharopoulos &
+Woodhall, 1985: 54; Alahiotis & Karatzia-Stavlioti, 2006: 140–145).
+Following the description made by Dore (1976: 81), there are three groups of such
+explanations: (i) investment mechanisms which imply that schooling does, indeed,
+transform people in some useful and productive way; (ii) common-cause mechanisms
+– ways in which the correlation between education and earnings can be traced to other
+factors which are the underlying cause of both, like, for example the ability of the
+individuals; and (iii) institutional mechanisms – ways in which the correlation can be
+ascribed to certain established practices (i.e. recruitment practices based on credentials), which may or may not be based on beliefs about the efficacy of the other two
+mechanisms (Dore, 1997).
+
+Human Resource Approach to Educational Planning
+Under the human resource approach (HRA) the factor determining educational planning is the desired growth rate for the national economy or sector of the economy. This
+is then translated into an educational/occupational requirement and this requirement
+is itself determined by technological rather than economic factors. The merit of this
+planning method is twofold: it enables long-term educational planning and it yields
+exact numbers of human power/resource required. Given these two advantages of the
+human resource-requirements approach (HRA) it is hardly surprising that the approach
+has, according to Mark Blaug (1972: 137), become ‘the leading method throughout
+the world for integrating educational and economic planning’. And, as Youdi and
+Hinchliffe (1985: 249) made clear, it continues to hold this pre-eminent position. Cohn
+and Geske (1998: 211) believe that the human power forecasting approach is particularly important because it has been employed so widely in the international arena,
+
+--- [PDF Page 637 / Book Page 638] ---
+
+638 Karatzia-Stavlioti and Lambropoulos
+
+especially by the Organization for Economic Cooperation and Development (OECD)
+that used HRA analyses for investment purposes.
+The whole question of time lags and their importance in educational planning is
+illustrated in the discussion of the ‘cobweb cycle’ (Mace et al., 2000b: 42). It means
+that the time lag between a decision to expand the supply of human power and the time
+when the new graduates are ready for employment is too long. In this way changes in
+‘price’, or in earnings, may cause graduates or employers to overreact, and earnings
+will fluctuate widely without necessarily leading to equilibrium.
+The point at issue is mainly not whether there are time lags, or whether these are
+significant. The basic disagreement is about whether the market is capable of eliminating shortage or surpluses reasonably quickly; even whether there is a need to do
+human power planning and to establish equilibrium in the labour market. HRA to
+planning comes in a number of forms according to the techniques used in the evaluating procedures (Mace et al., 2000b: 41–48; Karatzia-Stavlioti & Lambropoulos, 2006:
+158–166).
+A synthetic method was used in the Mediterranean Regional Project (MRP).
+This method was applied for nine countries of the Mediterranean region; it combines aspects of other approaches and it is considered as the most deliberate and
+comprehensive attempt to formalize the link between educational provision and
+economic growth. The method proceeds through six stages. Firstly, the calculation is made of educational requirements for all sectors of the economy. The next
+stage is to compare this with the anticipated supply of workers with each type of
+educational qualification that will become available on the basis of the current
+outflow of the education system. The difference between what is required to reach
+the growth target and what will be supplied indicates the increase in education
+enrolments necessary to achieve the target growth rate. This calculation leads
+to estimates of the required increase in teachers, school buildings, educational
+equipment, etc.
+Although there are different HRA forms they all share the characteristic of assuming that labour and the economy are linked in a rigid way that is determined by the
+technology of production. They also assume that wages, prices and costs are irrelevant
+to these links. The criticisms of the approach have been of two types. First, it has
+been argued that the data and techniques used have been too crude to achieve their
+objectives. The second form of criticism argues that better data and refinements of
+techniques will not produce more reliable forecasts, since the basic concepts of the
+approach are founded on false perceptions of the structure and workings of labour
+markets (Youdi & Hinchliffe, 1985: 249).
+It is the latter type of criticism that needs comment here. The criticisms of the HRA,
+about planning, concern the assumptions made about the production function, productivity changes, occupational changes, occupational definitions, the influences of
+price and costs, supply effects, employer plans, and international comparisons. These
+assumptions are quite contrary to the ones made at the rate-of-return studies. They
+represent a different view of the world in terms of the specifications of the production
+function. Proponents of the HRA assume that it is valid to lump together all the inputs
+in the economy – land, labour, capital – and to work out a relationship between these
+
+--- [PDF Page 638 / Book Page 639] ---
+
+Education and Economic Development 639
+
+inputs and output (usually gross national product – GNP). From these calculations it is
+possible to say how many engineers, for example, are needed to produce a given GNP.
+There is, however, no theoretical justification for the use of such a production function
+that assumes no substitution of inputs.
+The evidence available suggests there is absolutely no reason to accept the HRA
+assumptions of zero or near-zero substitution possibilities (Mace et al., 2000b: 41–42).
+Technological change is difficult to predict in the contemporary world (Council of
+Europe, 2003). It is very important in determining the occupational distribution of the
+labour force; on this basis it should be taken into consideration seriously. Technological
+change may cause substitution of capital for labour or one kind of human power for
+another.
+Additionally, productivity changes should be taken into consideration in any human
+resource forecast. The evidence available suggests that it is impossible to accurately
+predict future productivity changes. The occupation must be defined in terms of the
+tasks that are performed on the job; that is, it is necessary to have a ‘job description’
+and a ‘job specification’. Questions about substitutability become questions about
+occupational mobility. Recent evidence given by the European Union suggests that
+individuals will change occupational careers more than four times in their life in the
+near future (EU, 1996).
+The changes in prices and costs are usually ignored in drawing up human power
+plans; they are assumed not to influence either the demand for factors of production
+(e.g. labour and capital) or the supply of factors of production. It has been shown that
+the elasticity of substitution is greater than zero and that substitution has taken place as
+relative prices have changed. Additionally, there is a general agreement among economists that more fully specified models are needed for more realistic results; these models will take into consideration both supply and demand forces (Johnes, 1993; Mace
+et al., 2000b: 42).
+A common practice in human power planning is to use employers’ opinions and
+forecasts of future requirements. Sometimes precise figures are calculated, at other
+times the aggregation of employers’ opinions rather than precise estimates gives rise to
+claims of ‘need’. In both cases it is assumed that firms forecast their future need and
+have human power plans; their plans are based on detailed information for their future
+share of the market and for the future relative process and wages including a precise
+definition of occupations.
+Many forecasts of future requirements for educated manpower make use of international comparisons, the assumption being that educational planners can learn from
+the experience of other countries about the relationship between education and economic growth. Underlying this notion is the idea that there is some international
+human power growth path; it accepts all the assumptions of the HRA discussed above
+and, furthermore, that these assumptions are equally valid for all countries. It seems
+hardly surprising that the empirical evidence lends so little support for the validity
+of this approach when it is so obviously conceptually invalid (Mace et al., 2000b: 46).
+Yet despite all the empirical and conceptual work on this planning method, it
+continues to be used around the world by both international organizations and
+governments.
+
+--- [PDF Page 639 / Book Page 640] ---
+
+640 Karatzia-Stavlioti and Lambropoulos
+
+Education and Economic Growth
+This section is intended to critically present the methods that have been used to establish a causal link between education investment and economic growth. The main
+methods used have been the production function method (Denison, 1964) as well as
+international comparisons and the estimates derived mainly from rate-of-return studies.
+The production function methods are within the ‘growth accounting’ framework as
+they seek to explain and quantify the contribution of the different factors of production
+to economic growth. The question that was explored by the economists of education is
+the extent of education’s contribution to growth. Of course, economic growth is a complex procedure that involves more than physical capital formation alone. Education,
+human skills, innovative knowledge and human resource mobility are also important
+factors.
+The basic production equation of orthodox growth theory posits that levels of output
+can be explained by levels of certain key inputs (merely the physical inputs of capital
+and labour); it also assumes that raising the quantity of any of those will (ceteris paribus) raise total output (Solow, 1956; Lucas, 1988; Lee, 1998). Non-economic variables
+such as human capital variables have no function in the early models. Under the law of
+diminishing returns to scale the neoclassical models carry some implications for the
+economy: particularly that as the capital stock increases growth of the economy slows
+down. In order to keep the economy growing it must capitalize from incessant infusions of technological progress, which is ‘exogenous’ to the system. Reality implied
+that it is not only technology accountable for high performance outside the realm of
+neoclassical growth model, but other factors as well. Addressing these issues, a new
+paradigm was developed in the 1980s, known as ‘endogenous growth models’. This
+was done by broadening the concept of capital to include human capital and technology as endogenous to the system. In this sense the new paradigm is not following the
+law of diminishing returns and producing externalities.
+This model can and has been amended in order to take account of labour force
+quality and technical progress (Scott, 1998; Wolf, 2004: 330). The way this equation
+is expressed encourages people to equate growth with the accumulation of discrete
+inputs. However, growth is dependent not only on quantities, but on how things are
+combined and interact. It is true that international organizations and, notably, politicians respond to straightforward ideas; also they prefer policies which they can implement from the centre, in a top-down, cumulative way with no intensive dealings with
+the complexities with which education deals (Pritchett, 1996; Wolf, 2004: 330; Cowen,
+2006: 571).
+Although there is research evidence (Psacharopoulos, 1994: 24) that education
+makes both a direct and an indirect contribution to economic growth, the chickenand-egg-relationship between education and growth can never be fully established.
+Nonetheless, strong support can be found for the notion that the most likely causal link
+is from education to economic growth, rather than the other way around (Appleton &
+Teal, 1998: 1).
+This latter conclusion has led to a policy of investing in education that was very
+strongly undertaken by international organizations and institutions today (World Bank,
+
+--- [PDF Page 640 / Book Page 641] ---
+
+Education and Economic Development 641
+
+1996, 1999; OECD, 1998b; EU, 2003). In a revision of the implications that investment
+in education has had on economic growth around the world, it is argued by the World
+Bank that: ‘Increased understanding of the relationships among education, nutrition,
+health, and fertility warrants greater attention to education. . . . Education is thus more
+important for economic development and poverty reduction than it used to be or was
+understood to be’ (World Bank, 1996: 92).
+
+The Approaches and the Research
+The main comparisons between countries, using either of the above approaches and
+the relevant empirical data are reported in this section. This review shows how such
+comparisons confounded the idea that more education translates into more growth and
+economic development, although the degree of criticisms varies among researchers.
+In the 40-plus year history of estimates of returns to investment in education, there
+have been several reviews of the empirical results; attempts have been made to establish patterns or to draw principles (from these micro-level studies) that could be used
+in all countries (Johnes, 1993; Psacharopoulos, 1994; Cohn & Geske, 1998; Mace
+et al., 2000b). After the first decade of huge investment in education, faith in economic
+growth began to fade in early 1970s when the oil crisis influenced established educational discourse dealing with school autonomy, decentralization and managerialism. Countries were advised to manage their resources more efficiently and effectively
+(Mattheou, 2002: 20; Karatzia-Stavlioti, 2005: 140).
+In recent reviews (CERI, 1998; Heath, 1998; Asplund & Pereira, 1999; Psacharopoulos
+& Patrinos, 2002; Petrakis & Stamatakis, 2002) the classic patterns of falling returns
+to education by level of economic development and level of education are maintained.
+However, the detailed results seem to be inconclusive in terms of establishing any causal
+and concrete evidence on the link of education to economic development. The findings
+of these review studies are summarized below in order to reveal the variations that exist
+in both the theoretical arguments and the empirical applications. These variations are
+closely related to the criticisms of the theoretical approaches described in the previous
+section.
+Firstly, there is evidence that education is a profitable social as well as a private
+investment. Psacharopoulos and Patrinos (2002) used six new evaluative studies and
+updated estimates for 23 countries showing that the private returns to higher education
+are increasing. They are generally found to be higher than ‘social’ returns. However, the
+evidence was based on the assumption that the higher earnings of the more educated
+reflect their higher productivity. This increased productivity is due to the increased
+education (human capital) they had acquired – that is the rather controversial issue
+identified in the previous section.
+The average rate of return in developing countries has been found to be
+(Psacharopoulos, 1994; Psacharopoulos & Patrinos, 2002) considerably higher for primary education than for secondary or higher education. This suggests that top priority
+should be given to primary education as a form of investment in human resources. In the
+relevant debate it is widely accepted, even by those generally critical, that investment in
+
+--- [PDF Page 641 / Book Page 642] ---
+
+642 Karatzia-Stavlioti and Lambropoulos
+
+compulsory education has led developing countries to economic development (Wolf,
+2004: 320). It is usually noted that, overall, the average rate of return on another year
+of schooling is 10 percent and varies by level of country income. The highest returns
+are recorded for low- and middle-income countries, but, still, they are not identical.
+New country estimates and updated estimates for 42 countries (Psacharopoulos &
+Patrinos, 2002) show average returns to schooling to be highest in the Latin American
+and Caribbean region and for the sub-Saharan Africa region. Returns to schooling
+for Asia are at about the world average. These comparisons, however, are being made
+crudely, because of data limitations (see previous section).
+As can be seen in the tables in the Appendix, the returns are lower in the highincome countries of the OECD. Average returns to schooling are lowest for the nonOECD European, Middle East and North African group of countries. During the last
+12 years, average returns to schooling were found to have declined by 0.6 percentage
+points (Psacharopoulos & Patrinos, 2002). At the same time, average schooling levels have increased. This should be seriously and carefully investigated and taken into
+consideration especially in country comparisons. Also, it is generally supported by
+the aforementioned estimated evaluations that women receive higher returns to their
+schooling investments. But the returns to primary education are much higher for men
+(20 percent) than for women (13 percent). Women, however, experience higher returns
+to secondary education (18 versus 14 percent).
+Most of these views, that are similar to the ones presented by Psacharopoulos in
+1994, have been challenged, especially in the 1990s, by researchers that dealt with subSaharan Africa. Bennell (1996) makes two points. First, the original sources do not
+support Psacharopoulos’s (1994: 195) estimates. Second, that in so far as it ever was
+true, ‘the conventional rate of return on education patterns almost certainly do not prevail in sub-Saharan Africa under current labour market conditions’. The second objection is also suggested by the survey of the returns to education in sub-Saharan Africa in
+Appleton, Hoddinott and Mackinnon (1996). In this study the average (private) returns
+to education suggested are substantially below those presented in Psacharopoulos
+(1994). This was the case for both primary and post-primary schooling, although the
+latter still appears to have substantial returns.
+The issues addressed in similar studies (Kingdon, 1997; Behrman et al., 1996) are
+related to the questions and problems on the specification of the earnings function
+(on the inclusion of cognitive skills and parental background) and on the labour market
+operations. The conclusion we would draw from the evidence suggests that the education variable may overstate the returns to human capital, but not by very much.
+It also suggests that the major influence of years of education on earnings is through its
+effects of cognitive skills and not, as the signalling explanation would imply, indirectly
+through signalling ability.
+Appleton and Teal (1998) provide evidence about a pattern they find similar across
+all the sub-Saharan African countries and which is different from the one reported by
+Psacharopoulos (1994), that the rate of return falls with the level of education. They
+make the claim that this decline has occurred in the context of the rapid expansion of
+education and very low growth rates of physical capital. In such a context low rates of
+return on education might be expected.
+
+--- [PDF Page 642 / Book Page 643] ---
+
+Education and Economic Development 643
+
+The method of international comparisons with reference to human resource development and economic growth presumes that there exist world human power growth
+paths. This notion underlay the Mediterranean Regional Project (MRP) in which
+countries like Portugal, Spain and Greece participated in the late 1960s aiming at
+economic development through educational planning. Finally, Italy, Spain, Portugal,
+Yugoslavia, Turkey and Greece reformed their education systems with economic
+development in view taking advantage of their participation in the MRP which was
+funded by the OECD and the World Bank (Mace et al., 2000b: 43; Karatzia-Stavlioti
+& Lambropoulos, 2006: 166–180).
+Greece, for example, pursued specific educational reforms mainly in vocational education in order to meet the requirements set by the MRA project (OECD, 1965; Psacharopoulos
+& Kazamias, 1985). However, years after the publication of the MRA report, researchers
+in Greece pointed out the ‘asymptotic’ nature of the relationship between education and
+economic growth because the country had not met the levels of economic growth it was
+expected to through the undertaken educational reforms (Pesmazoglou, 1987).
+Apparently, the current policy situation in Greece continues to be driven in similar
+paths. The policy discourse, however, is being carefully adjusted to the one used in the
+contemporary international policies. In a recent report by the OECD (2003: 31) on the
+promotion of lifelong learning it is written that Greece has to confront the technological
+development and the transition from the information society to the knowledge society.
+Also, it is reported that the financial assistance provided to Greece for education from
+the European Structural Fund (EPEAEK I and EPEAEK II) since the 1990s has been
+a major financial instrument for the development of human resources and employment
+positions. The role of both institutions, the OECD and the European Union, has been
+important in promoting a discourse that calls for the adaptation of the human resources
+to the constantly changing needs of the market (Tsakloglou & Cholezas, 2005). The
+quantitative targets set by the Ministry of Education plans are based on promoting
+economic development through education, as growth will depend on mobilizing all
+human recourses and, more importantly, on the availability of a highly qualified workforce with the skills needed to master advanced technologies and adapt to change
+(Tsagloglou & Cholezas, 2005: 30).
+Related to the ideas that underlie the basis of the human resource development
+approach is the use of the setting of quantitative goals for education (OECD, 1998b;
+2005; EU, 2004) and the use of international surveys to establish patterns for educational planning. For example in Greece the Ministry of Education set the following
+target by 2008: access of all young people from 15 to 20 years to education and vocational training (Ministry of Education, 2001).
+The issue of relating literacy to economic growth started in the 1960s. In the 1980s
+Hicks (Mace et al., 2000b) examined the relationship between growth and literacy as
+a measure of educational development, and life expectancy in 83 developing countries
+during the period 1960–1977. He found that the 12 developing countries with the fastest
+growth rate had well above average levels of literacy and life expectancy. According to
+these results, not only do literacy levels rise with the level of national income, but the
+examined 12 countries have higher levels of literacy and life expectancy than would
+be predicted for countries of that income level on the basis of the regression between
+
+--- [PDF Page 643 / Book Page 644] ---
+
+644 Karatzia-Stavlioti and Lambropoulos
+
+literacy and per capita income. Further analysis by Hicks appears to confirm the existence of a relationship between economic growth and human resource development, as
+measured by literacy and life expectancy.
+Given the radical changes that take place in the contemporary labour markets deeper
+investigation of the factors that are likely to influence economic growth is needed.
+For example, when Easterlin in 1981 (Mace et al., 2000b) examined the relationship
+between education and economic growth in 25 of the largest countries in the world, he
+concluded that the spread of the technology of modern economic growth depended on
+the greater learning potential and motivation arising from the qualitative development
+of formal schooling (Guena & Elgar, 1999; OECD, 2006, Cuhna & Heckman, 2007).
+A study carried out in the United States by Ishikawa and Ryan (2002) uses data from the
+National Adult Literacy Survey to examine the relationship between schooling and earnings. Basic skills are divided between those acquired through schooling and those acquired
+elsewhere. The study finds that, for the most part, it is the substance of learning in school –
+the accumulated human capital – that counts. However, these studies did not go any further
+to investigate which parameters of schooling are the most effective in human capital investment and in which way. Nowadays, the Program of International Student Achievement
+(PISA) of OECD (2005) evaluates literacy across countries. Comparisons based on the
+PISA results are used in discussions on the effectiveness of the various educational systems
+sometimes in a quite uncritical way (Wolf, 2004: 320; Karatzia-Stavlioti, 2005: 145).
+The effect of human capital in the growth of countries that exhibit significantly
+different levels of development was recently reviewed in a study by Petrakis and
+Stamatakis (2002). The authors discussed prior research and concluded that overall
+most of the growth literature and the empirical work about human capital would lead
+firstly to the fact that economies with a larger stock of human capital experience faster
+growth and, secondly, that investing in schooling is a prerequisite for the creation of
+human capital which, in turn, generates ideas and promotes development of new products (Romer, 1992; McMahon, 1998).
+The empirical work by Petrakis and Stamatakis (2002) attempts to uncover differences between OECD developed market economies and less developed countries
+(LDC). The empirical findings of the cross country data sets suggest that the link
+between education and growth varies as a result of different economic development.
+They also suggest that primary and secondary education seem to be more important in
+LDC nations, while growth in OECD economies depends mainly on higher education.
+Their findings indicate the structural differences in the way that educational investment relates to growth between OECD and LDC. This finding is consistent with the
+points made earlier on the need to investigate the specific labor market before applying
+any kind of human capital analysis and evaluation.
+
+Evaluation, Discussion and Reflections
+In this section the discussion focuses mainly on the ways in which the link between education and economic development was used and supported empirically. Additionally,
+reflections are offered on the applications of the specific link made by the politicians
+
+--- [PDF Page 644 / Book Page 645] ---
+
+Education and Economic Development 645
+
+and the international organizations and institutions on relations between education
+and economic development. In this way the effectiveness of the work undertaken in
+the field is evaluated and the underlying ideologies may more easily be identified and
+reflected upon.
+After the initial outburst of human capital studies in the 1960s and the crisis identified in the 1970s, in the 1980s a rise in earnings inequality was experienced in
+many countries. This crisis led to renewed interest in estimates of returns to schooling
+that usually relate to other social benefits of education such as the promotion of
+equity issues (Becker, 1993; OECD, 2004; Tsagloglou & Cholezas, 2005). Theories
+tended to capitalize the individual characteristics that relate to education under headings such as ‘social capital’ (Coleman et al., 1966) and ‘cultural capital’ (Bourdieu
+& Passeron, 1977).
+In this framework, education is no longer considered simply an engine of economic
+growth. It has become a means of reducing poverty and promoting sustainable development. Such initiatives have been undertaken by the European Union. They stress
+the role of education in making of Europe into a competitive market space with social
+cohesion (EU, 2003; Karatzia-Stavlioti, 2005). It is clear that education could be found
+at the basis of any economic, social or cultural initiative or goal (UNESCO, 1996;
+Alahiotis & Karatzia-Stavlioti, 2006: 140–145). However, those who use this kind of
+discourse do not refer with precise evidence to the need for promoting the quality of
+learning in classrooms and schools – learning of the kind that would assist individuals
+to maximize all their gains from education. More precisely, they do not offer institutionbased analyses on how to ‘educate individual personalities for (any kind of) growth’.
+Research, as reported in the previous section, indicated that the stock of human capital
+varies widely among countries and the means used to measure it are not necessarily correlated. For example, some countries with high aggregate attainment have low literacy
+rate and vice versa. Therefore, it appears that different countries’ educational systems
+vary in the degree to which they give their students the tools for life. Looking at the
+empirical studies it is obvious that there is little variability in the findings regarding the
+beginning levels of education; there is a wide dispersion in investment in higher levels
+of education. In particular, the mix of public and private investments in education
+fluctuates widely across countries (World Bank, 1996, Petrakis & Stamatakis, 2002);
+also there is evidence that the large discrepancy between the private and social returns
+to investment in higher education has some bearing on financing policy (Hasan, 2004;
+Psacharopoulos & Patrinos, 2002). Evidence on the rate of return suggests that a shift
+of part of the cost burden from the state to individuals and their families is not likely to
+be a disincentive to investing in higher education, given its present high private margin
+of profitability.
+In all countries, educational opportunities seem to be concentrated among the
+younger, more economically advantaged of the populations (Tsagloglou & Cholezas,
+2005; Argy, 2006). This means that social and equity considerations in policymaking which relate to education cannot be easily separated from economic ones. This is
+obviously related to the ways that education promotes economic development as well
+as to the quality of such education; a point that may influence the ways investment in
+education should be made.
+
+--- [PDF Page 645 / Book Page 646] ---
+
+646 Karatzia-Stavlioti and Lambropoulos
+
+The problem related to the limitations in the existing data used in human capital
+evaluations needs to be faced more systematically in the future so that empirical work
+could become more reliable. Firstly, broader measures of the stock of human capital
+need to be developed, allowing research to move beyond using educational attainment
+as a proxy. Using other measures such as life skills fluency or competencies that could
+include the cultural and behavioural results of education would allow a more inclusive
+and holistic measure of productivity and personality gains. In such a case researchers
+from various disciplines need to cooperate. Secondly, the aggregate and macro-level
+data need to be supplemented by micro-level data in order to gain a better understanding of private costs and returns. At the same time the mechanisms by which education
+contributes to economic prosperity and social welfare in general will be revealed. Also,
+improvements in data collection and design will allow governments and researchers
+to investigate more fully the differential impact of policy initiatives on various groups
+within their populations.
+A large body of literature as described in the previous section suggests that systematic changes in the production process in the contemporary economies have led to
+changes in the demand for certain types of labour that acquire certain types of skills
+and competencies. This question has often led to decisions regarding the vocationalization of the curriculum, adult education, and lifelong learning. Such changes in
+the labour market demands are associated with knowledge-based societies. In such
+societies, knowledge is considered the most important input to economic development in two ways: (a) in the general sense (general basic education) as a basis for any
+further specialized productive academic or vocational training and (b) in the specific
+sense (university and upper vocational and technical education) as generating new
+knowledge and promoting science and technological interventions that create economic growth. These arguments are widely used nowadays by national policymakers
+and international institutions.
+Summarizing the above review, it could be stressed that the policy issues surrounding human capital accumulation are important because human capital investments
+account for a large share of national outcomes. There are considerable social returns to
+this type of investment mainly related to the externalities of education. The findings of
+the aforementioned studies show that human capital is not distributed equally among
+or within countries. These observations lead to future research issues that should be
+taken into consideration.
+More specifically, there is a need for defining and achieving ‘adequate’ levels of
+human capital investment. Also there is a need for deciding upon the appropriate
+distribution of costs between the private and public sector, especially in the case of
+vocational education and adult education. Careful consideration should be made in
+allocating resources relative to these costs in a way that could be considered socially
+and economically ‘right’. Deeper investigation must be carried out towards achieving
+equitable distribution of investment spending. It is important to focus on investigating
+the ways by which a specific education system may contribute to economic development. Also there is a need for developing a system whereby education investment
+outcomes (economic, social, cultural) are accurately defined and (if possible) assessed
+in a combined and holistic way.
+
+--- [PDF Page 646 / Book Page 647] ---
+
+Education and Economic Development 647
+
+A very important area that deserves more research attention is the relationship
+between human and social capital and, even cultural capital. Questions also arise as
+to why these different capitals should be separated, as if individuals were not whole
+personalities. These questions are more important today that research in various fields,
+even neuroscience, claims that we should hold a holistic approach to human behaviour
+and consequently to learning.
+The questions that future research would address should move further from just
+measuring human capital stocks and education’s contribution to economic growth;
+they should address issues that relate to the complexity of education as well as to the
+variety of its outcomes. Such issues could be whether societies characterized by a
+greater level of social cohesion have a greater rate of return of human capital accumulation than less cohesive societies or a question could be asked about the relationship
+of democratic values acquisition and practice to education – including what kind of
+education.
+To conclude, if education is to achieve all the cognitive, behavioural and social
+goals it has, more applied research work is needed with the cooperation of researchers
+from different fields. Education and its outcomes are complex and complexities cannot be understood in a simple and single way. Theoretical issues of an interdisciplinary
+nature and more complex empirical works are very important and cannot be ignored.
+Research in this important field must be planned, applied and followed up in a holistic
+and more systematic way.
+
+References
+Alahiotis, S., & Karatzia-Stavlioti, E. (2006). Effective curriculum policy and cross-curricularity: Analysis
+of the new curriculum design by the Hellenic Pedagogical Institute. Pedagogy, Culture & Society, 14(2),
+119–148.
+Altbach, P. (1971). Education and neocolonialism. Teacher’s College Record, 72(4), 543–558.
+Appleton, S., Hoddinott, J., & Mackinon, J. (1996). Education and health in sub Saharan Africa. Journal of
+International Development, 8(3), 307–339.
+Appleton, S. & Teal, F. (1998). Human capital and economic development. Background paper prepared for
+the African Development Report, Centre for the Study of African Economies. Oxford: University of
+Oxford.
+Argy, F. (2006). Equality and opportunity in Australia: Myth and reality. Australia Institute Discussion
+Paper, No. 85, April.
+Asplund, R., & Pereira, P.T. (Eds.) (1999). Returns to human capital in Europe: A literature review. Helsinki:
+The Research Institute of the Finish Economy.
+Becker, G.S. (1964). Human capital: A theoretical and empirical analysis with special reference to education. New York: National Bureau of Economic Research.
+Becker, G.S. (1993). Human capital: A theoretical and empirical analysis with special reference to education. Chicago: N.B.E.R.
+Becker, G.S. (1995). Human capital and poverty alleviation. Human capital development and operations
+policy, Paper No. 52. Washington DC: The World Bank.
+Behrman, J., Rozenzveig, M.R., & Tauman, P. (1996). College choice and wages: Estimates using data on
+female twins. Review of Economics and Statistics, 78(4), 672–685.
+Bennell, P. (1996). Using and abusing rates of return: A critique of the World Bank’s 1995 education sector
+review. International Journal of Educational Development, 16(3), 235–245.
+Blaug, M. (1972). Introduction to the economics of education. Harmondsworth: Penguin.
+Bourdieu, P., & Passeron, J.C. (1977). Reproduction in education society and culture. London: Sage.
+
+--- [PDF Page 647 / Book Page 648] ---
+
+648 Karatzia-Stavlioti and Lambropoulos
+Carnoy, M. (1974). Education and cultural imperialism. New York: Mckay.
+CERI. (1998). Human capital investment policies an overview. Paris: OECD.
+Cohn, E., & Geske, T.G. (1998). The economics of education, 3rd edition. Oxford: Pergamon Press.
+Council of Europe. (2003). Learning and teaching in the communication society. Strasburg: Council of
+Europe.
+Coleman, J.S. et al. (1966). Equality in educational opportunity. Washington DC: Government Printing
+Office.
+Cowen, R. (2006). Acting comparatively upon educational world: puzzles and possibilities. Oxford Review
+of Education, 32(5), 561–573.
+Cuhna, F., & Heckman, J. (2007). The technology of skill formation. NBER Working Paper 12840.
+Denison, E.F. (1962). How to raise the high-employment growth rate by one percentage point. American
+Economic Review Papers and Proceedings, 52, 67–75.
+Denison, E.F. (1964). Measuring the contribution of education (and the residual) to economic growth.
+OECD study group. The residual factor and economic growth (pp. 13–55). Paris: OECD.
+Dore, R. (1976). The diploma disease: Education, qualification and development. London: Allen &
+Unwin.
+Dore, R. (1997). Reflections on the diploma disease twenty years later. Assessment in Education, Principles,
+Policy & Practice, 4(1),177–189.
+European Union, Commission of the European Communities. (1996). White Bible: Teaching and learning.
+Towards the society of knowledge, www.europa-eu.int/documents/comm/index (access 3/2/1997)
+European Union, Commission of the European Communities. (2003). Development of human capital for
+social cohesion and competitiveness in the knowledge society. 2003/C 295/05.
+European Union, Commission of the European Communities. (2004). Progress towards the common objectives in Education and training: Indicators and benchmarks. SEC (2004)73.
+Guena, A., & Elgar, E. (1999). The economics of knowledge production. Northampton, MA: Edward Elgar.
+Hasan, M.A. (2004). Role of human capital in economic development: Some myths and realities. Paper presented for the Development Research and Policy Analysis Division, ESCAP, Asian Development Bank.
+Oxford: Oxford University Press.
+Heath, J.A. (1998). Human capital investment: An international comparison. Paris: CERI-OECD.
+Ishikawa, M., & Ryan, D. (2002). Schooling, basic skills and economic outcomes. Economics of education
+review, http://www.sciencedirect.com/science/article (access 16/2/2006)
+Ingels, A., & Sirowy, L. (1983). Convergent and divergent trends in national education systems. Social
+Forces, 62(2), 302–333.
+Johnes, G. (1993). The economics of education. London, Macmillan.
+Karatzia-Stavlioti, E. (2005). Educational effectiveness and educational policy: The policy discourse of
+UNESCO and the European Union in a comparative perspective. Arethas, University of Patras (pp.
+139–162) (online www.upatras.gr).
+Karatzia-Stavlioti, E., & Lambropoulos, H. (2006). Evaluation, effectiveness and quality in education:
+Educational planning and economy. Athens: Gutenberg (in Greek).
+Kingdon, G. (1997). Does the labor market explain lower female schooling in India? The Development
+Economics Research Program, Discussion paper, No 1.
+Lee, K. (1998). Growth empirics: A panel data approach – A comment. Quarterly Journal of Economics,
+113(1), 319–324.
+Lucas, R. (1988). On the mechanics of economic development. Journal of Monetary Economics, 22(1),
+3–42.
+Mace, J., Karadjia, E., & Lamropoulos, H. (2000a). Markets, values and education. Education for Social
+Democracies, Conference. London: University of London, Institute of Education, online http://www.
+ioe.ac.uk.
+Mace, J., assisted by Karadjia, E., Lamropoulos, H., & Preston, H.J. (2000b). Economics of education:
+External programme. London: University of London.
+McMahon, W.W. (1998). Conceptual framework for the analysis of the social benefits of lifelong learning.
+Education Economics, 6(3), 307–343.
+Magoula, Th., & Psacharopoulos, G. (1999). Schooling and monetary rewards in Greece: An over education
+false alarm? Applied Economics, 31, 1589–1597.
+
+--- [PDF Page 648 / Book Page 649] ---
+
+Education and Economic Development 649
+McNeely, C. (1995). Prescribing national education policy: The role of international organizations.
+Comparative Education Review, 39(4), 483–507.
+Mattheou, D. (2002). Comparative study of education: Theories and issues. Athens: Livanis (in Greek).
+Meyer, J., Boli, J., Thomas, G., & Ramirez, F. (1997). World society and the nation state. American Journal
+of Sociology, 103(1), 144–181.
+Mincer, J. (1974). Schooling, experience and earnings. Columbia: Columbia University Press.
+Ministry of Education. (2001). (MoE) – Greece-EPEAEK. Operational Programme for Education and
+Initial Vocational Training II. Athens, MoE.
+Monk, D. (1990). Educational finance: An economic approach. New York: McGraw-Hill.
+OECD. (1965). Mediterranean regional project: Country reports, Greece. Paris: OECD.
+OECD. (2003). The role of national qualification systems in promoting lifelong learning - GREECE. Paris:
+OECD.
+OECD. (2004). Education and equity. OECD Observer, February 2004.
+OECD. (2005). Programme of international student assessment (PISA). Education at a glance. Paris: OECD.
+OECD. (2006). Starting strong: Early education and care. Paris: OECD.
+Pesmazoglou, S. (1987). Educational development in Greece 1948–1985: An asymptotic relationship.
+Athens: Themelio (in Greek).
+Petrakis, P.E., & Stamatakis, D. (2002). Growth and educational levels: A comparative analysis.
+Economics of Education Review. Available on line 6 August 2002: www.sciencedirect.com/science.
+article/B6VB9–46FS38C-B/2/164fd77fe947f7al.
+Psacharopoulos, G. (1994). Returns to investment in education: A global update. World Development, 22(9),
+1325–1343.
+Psacharopoulos, G. & Kazamias, A. (1985). Education and development in Greece: Social and economic
+study of tertiary education. Athens: EKKE (in Greek).
+Psacharopoulos, G. & Patrinos, H. (2002). Returns to investment to education: A further update. World Bank
+Policy Research Document 2881.
+Psacharopoulos, G. & Woodhall, M. (1985). Education for development: An analysis of investment choices.
+Oxford: Oxford University Press.
+Pritchett, L. (1996). Where has all the education gone? World Bank Policy Research Working Paper, 1581.
+Washington DC: World Bank.
+Resnic, J. (2006). International organizations, the education-economic growth black box, and the development of world education culture. Comparative Education Review, 50(2), 173–195.
+Romer, P. (1992). Endogenous technical change. Journal of Political Economy, 95(5), 71–85.
+Schultz, T.W. (1961). Investment in human capital. American Economic Review, 51, 1–17.
+Schultz, T.W. (1963). The economic value of education. New York: Colombia University Press.
+Schultz, T.W. (1993). The economic importance of human capital in modernization. Education Economics,
+1(1), 13–19.
+Scott, M.F. (1998). A view of economic growth. Oxford: Oxford University Press.
+Shaffer, H. (1961). Investment in human capital: Comment. American economic Review, 52, 1026–1035.
+Smith, A. (1937). The wealth of nations. (originally printed in 1776). London: Modern Library.
+Solow, R. (1956). A contribution to the theory of economic growth. Quarterly Journal of Economics, 70, 65–94.
+Tsakloglou, P., & Cholezas, I. (2005). Education and inequality in Greece. IZA Discussion Paper, No. 1582,
+May.
+UNESCO. (1996). Education: The treasure within. Paris: UNESCO.
+Wallerstein, I. (1974). The modern world system. New York: Academic Press.
+Wolf, A. (2002). Does education matter? Myths about education and economic growth. London: Penguin.
+Wolf, A. (2004). Education and economic performance: Simplistic theories and their policy consequences.
+Oxford Review of Economic Policy, 20(2), 315–333.
+World Bank. (1996). Human capital for better lives. Washington DC: The World Bank.
+World Bank. (1999). World development report. Washington DC: The World Bank.
+Youdi, M., & Hinchliffe, K. (1985). Forecasting skilled manpower needs: The experience of eleven countries. Paris: UNESCO, IIEP.
+
+--- [PDF Page 1267 / Book Page 650 (Appendix)] ---
+
+650 Karatzia-Stavlioti and Lambropoulos
+
+APPENDIX
+Table 1. Returns to investment in education by level, full method, latest year, regional averages (percentage) (Psacharopoulos & Patrinos, 2002: 14)
+Social
+
+Private
+
+Region
+
+Primary
+
+Secondary
+
+Higher
+
+Primary
+
+Secondary Higher
+
+Asiaa
+Europe/Middle East/North Africaa
+Latin America/Caribbean
+OECD
+Sub-Saharan Africa
+World
+
+16.2
+15.6
+17.4
+8.5
+25.4
+18.9
+
+11.1
+9.7
+12.9
+9.4
+18.4
+13.1
+
+11.0
+9.9
+12.3
+8.5
+11.3
+10.8
+
+20.0
+13.8
+26.6
+13.4
+37.6
+26.6
+
+15.8
+13.6
+17.0
+11.3
+24.6
+17.0
+
+18.2
+18.8
+19.5
+11.6
+27.8
+19.0
+
+a
+
+Non-OECD.
+
+Table 2. The coefficient on years of schooling: Rate of return (based on Mincer-Becker-Chiswick),
+regional averages (Psacharopoulos & Patrinos, 2002: 15)
+Region
+
+Mean per capita (US$)
+
+Years of schooling
+
+Coefficient (%)
+
+Asiaa
+Europe/Middle East/North Africaa
+Latin America/Caribbean
+OECD
+Sub-Saharan Africa
+World
+
+5,182
+6,299
+3,125
+24,582
+974
+9,160
+
+8.4
+8.8
+8.2
+9.0
+7.3
+8.3
+
+9.9
+7.1
+12.0
+7.5
+11.7
+9.7
+
+a
+
+Non-OECD.
+
+Table 3. Returns to education by gender (percentage) (Psacharopoulos
+& Patrinos, 2002: 16)
+Educational level
+
+Men
+
+Women
+
+Primary
+Secondary
+Higher
+Overall
+
+20.1
+13.9
+11.0
+8.7
+
+12.8
+18.4
+10.8
+9.8
+

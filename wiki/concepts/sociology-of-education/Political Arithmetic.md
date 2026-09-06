@@ -6,7 +6,7 @@ aliases:
 summary: "英国教育社会学早期传统，以可测量数据把教育机会、阶级流动和人口管理连接起来，并为战后福利国家政策提供知识基础。"
 type: concept
 domain: "sociology-of-education"
-related_count: 4
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -16,6 +16,7 @@ tags:
   - region/uk
   - method/quantitative
 related_concepts:
+  - "[[Educational Meliorism]]"
   - "[[Variable]]"
   - "[[New Sociology of Education]]"
   - "[[School Effectiveness]]"
@@ -47,7 +48,7 @@ updated: 2026-05-23
 
 > [!abstract] 核心要素
 > - 可测量性：用数量资料描述教育机会、社会流动和阶级结构，并把这些资料转化为政策可使用的证据([[Argument_Ball_2008_SR|Ball, 2008, pp.654-656]])。
-> - 政策改良主义：把教育扩张与平等、繁荣和社会效率连接起来，假定外在的经济和物质匮乏若被减轻，阶级与教育成就之间的紧密联系就可能被削弱([[Argument_Ball_2008_SR|Ball, 2008, p.656]])。
+> - 政策[[Educational Meliorism|改良主义]]：把教育扩张与平等、繁荣和社会效率连接起来，假定外在的经济和物质匮乏若被减轻，阶级与教育成就之间的紧密联系就可能被削弱([[Argument_Ball_2008_SR|Ball, 2008, p.656]])。
 > - 阶级解释：把社会阶级确立为教育社会学的中心[[Variable|变量]]；早期研究并不只是把工人阶级家庭病理化，也同时注意学校、家庭、物质条件和选拔制度之间相互叠加的动态关系([[Argument_Ball_2008_SR|Ball, 2008, pp.656-657]])。
 
 ## 治理含义
@@ -72,5 +73,5 @@ updated: 2026-05-23
 ## 争议与批评
 
 > [!warning] 争议
-> 政治算术传统的福利国家乐观主义和 Fabian 式改良主义在 1970 年代受到 [[New Sociology of Education|NSE]] 及后续激进理论的强烈挑战；教育不再被简单看作解决不平等的工具，而被重新理解为再生产不平等的场所([[Argument_Ball_2008_SR|Ball, 2008, p.657]])。
+> 政治算术传统的福利国家乐观主义和 Fabian 式[[Educational Meliorism|改良主义]]在 1970 年代受到 [[New Sociology of Education|NSE]] 及后续激进理论的强烈挑战；教育不再被简单看作解决不平等的工具，而被重新理解为再生产不平等的场所([[Argument_Ball_2008_SR|Ball, 2008, p.657]])。
 

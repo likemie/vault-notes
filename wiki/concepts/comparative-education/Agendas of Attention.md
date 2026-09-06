@@ -7,7 +7,7 @@ aliases:
 summary: "克莱里德斯在国际关系理论视域下提出的概念，指比较教育在不同国际关系思想传统影响下，选择性关注某些问题（在场）而忽略另一些问题（缺席）的话语过滤与知识生产机制"
 type: concept
 domain: "comparative-education"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -38,6 +38,7 @@ related_theories:
 related_methods: []
 related_persons:
   - "[[Eleftherios Klerides]]"
+  - "[[Marc-Antoine Jullien]]"
   - "[[Michael Sadler]]"
   - "[[Robert Cowen]]"
   - "[[Immanuel Kant]]"
@@ -148,7 +149,7 @@ updated: 2026-07-09
 > 探讨革命主义假设下解构主义研究的本体偏好与现实边界。学者们倾向于反思批判话语与制度改良的张力。
 
 > [!claim] Klerides, E.
-> **道德解放事业** 革命主义注意力议程通过[[Dependency Theory|依附理论]]和去殖民透镜，将“中心-边缘剥削关系”、“教育作为革命与反支配的工具”以及“解构学科自身的殖民认识型（如朱利安奠基计划的殖民纠缠）”确立为在场核心；但这一激进的决裂立场和道德激情同时也使得现实主义的国家硬实力竞争约束、多边体制内的渐进改良途径以及非西方帝国的自身地缘扩张演变为盲区与缺席。([[Argument_Klerides_2023_CE|Klerides, 2023, pp. 429–430]])
+> **道德解放事业** 革命主义注意力议程通过[[Dependency Theory|依附理论]]和去殖民透镜，将“中心-边缘剥削关系”、“教育作为革命与反支配的工具”以及“解构学科自身的殖民认识型（如[[Marc-Antoine Jullien|朱利安]]奠基计划的殖民纠缠）”确立为在场核心；但这一激进的决裂立场和道德激情同时也使得现实主义的国家硬实力竞争约束、多边体制内的渐进改良途径以及非西方帝国的自身地缘扩张演变为盲区与缺席。([[Argument_Klerides_2023_CE|Klerides, 2023, pp. 429–430]])
 
 ---
 

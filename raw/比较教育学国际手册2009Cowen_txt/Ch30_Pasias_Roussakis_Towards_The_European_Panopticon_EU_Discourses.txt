@@ -1,0 +1,759 @@
+================================================================================
+Chapter 30: Towards The European Panopticon: EU Discourses and Policies in Education and Training 1992–2007
+Author(s): George Pasias and Yiannis Roussakis
+Handbook: International Handbook of Comparative Education (2009)
+Editors: Robert Cowen and Andreas M. Kazamias (Section Editor: Elaine Unterhalter)
+Section: Section 3: The National, The International, and The Global
+Book Pages: pp. 479–495
+PDF Pages: pp. 486–502 (in raw/比较教育学国际手册2009Cowen.pdf)
+================================================================================
+
+--- [PDF Page 486 / Book Page 479] ---
+
+30
+TOWARDS THE EUROPEAN PANOPTICON:
+EU DISCOURSES AND POLICIES IN EDUCATION
+AND TRAINING 1992–2007
+George Pasias and Yannis Roussakis
+
+Introduction
+The 1990s were marked by various challenges, changes and transformations at the economic, geopolitical, social and technological levels (Held & McGrew, 2000; Adam,
+Beck & van Loon 2000; Reich, 1991) which, in several instances, affected the ongoing transformation processes of the European Union (EU). These challenges were often
+related to factors such as the globalisation of the economy, the growth of Information and
+Communication Technologies (ICTs), the rapid development of ‘techno-science’ and the
+immigration influx to Europe. At the economic level in particular, changes were dominated by the widespread effects of the new technologies in the industries and the enterprises, and by international agreements for the liberalisation of markets and trade (e.g. the
+World Trade Organisation General Agreement on Trade in Services – WTO/GATS), which
+changed both the relative significance of the production factors and the international division of labour (Aglietta, 1998). The perceived challenges of this new economic order were
+underlined in the new ‘human and social capital’ theory (Baron et al., 2000), which argued
+for a new, knowledge-based distribution of labour, flexible production forms and relationships, high specialisation, performativity and mobility of the workforce (Lyotard, 1984;
+Burton-Jones, 1999; Hargreaves, 2003). In the early 1990s, the structural and social consequences of these economic and technological changes were acknowledged at the EU level,
+with special reference to the ‘technological/competition gap’, the ‘regional inequalities’
+between the member states, the ‘demographic problem’ and ‘unemployment’ and ‘social
+exclusion’ in the European societies (Maravegjas & Tsinisizelis, 1995). These transformations accelerated the decisions concerning the institutional, political and economic statusquo of the European Union, and they led to changes in the economic dimension (e.g. the
+establishment of the EMU and the Euro zone, 2001), in the geopolitical dimension (e.g.
+the enlargement with the Eastern and Central European countries in 2004), in the political
+dimension (e.g. the process for establishing a EU Constitutional Treaty between 2004 and
+2006) and in the social dimension (e.g. accounts of demographic ageing, modernisation
+of pension systems and employment).
+All these developments gave new meaning to significant concepts like European
+Union, European citizen, economic and social cohesion, European governance, and
+479
+R. Cowen and A. M. Kazamias (eds.), International Handbook of Comparative Education, 479–495.
+© Springer Science + Business Media B.V. 2009
+
+--- [PDF Page 487 / Book Page 480] ---
+
+480 Pasias and Roussakis
+
+introduced new discourses on competitiveness, quality, employability, performativity,
+convergence, which permeated the EU politics and policies (Bonal 2003; Marglhaes
+& Soter, 2003; Pasias, 2006b: 63–70). They also constructed a new operational context for education, which gradually became a high-priority area in the Community’s
+politics and policies. Education and training were directly linked with the central EU
+policy choices in the fields of the economy, social cohesion, scientific research and
+innovation, which, in the words of the Lisbon Strategy, aimed at ‘Europe to become the
+most competitive knowledge economy in the world’ (European Council, 2000a). At the
+same time, education became a part of political actions aiming at the enhancement of
+the symbolic and ‘imagined’ content of European integration (e.g. European governance, European citizenship, European identity), and the transition to the ‘knowledge
+societies and economies’ and the constitution of a European polity.
+In the Sorbonne Declaration (1999), the document which had set the ground for the
+‘Bologna process’ in European higher education, the Ministers of Education of France,
+Germany, Italy and the UK, four of the core members of the European Union, stated that:
+The European process has very recently moved some extremely important steps
+ahead. Relevant as they are, they should not make one forget that Europe is not
+only that of the Euro, of the banks and the economy: it must be a Europe of knowledge as well. We must strengthen and build upon the intellectual, cultural, social
+and technical dimensions of our continent. (Sorbonne Declaration, 1999: 1)
+The concept ‘Europe of Knowledge’ in its current EU meaning emerged in the 1990s to
+describe the radical changes that took place in the field of ‘knowledge’ and to categorise contemporary societies and post-industrial economies which are considered to be
+knowledge-based and informational, open, innovative and communicative (Stehr, 1994;
+Delanty, 2001; Stone, 2000; Castells, 1998). As an approach to education, ‘Europe of
+Knowledge’ is sometimes considered as a signifier of a certain socio-economic, political, cultural and educational ‘paradigm’, identified with a certain construction of the
+European educational reality. In this sense, the way ‘Europe of Knowledge’ is presented
+by the EU actually serves as a ‘roadmap’ or a ‘diagram’ of ‘power-knowledge’ relations
+in the European Union, exemplifying the close nexus of discourses and practices that
+aim at the formation of a European Area of Education.
+The purpose of this chapter is to examine critically the educational discourses and policies of the European Union since its institutionalisation with the Treaty of Maastricht in
+1992, and their constructed concept of a ‘Europe of Knowledge’. It will be argued that
+the educational policies of the EU are strongly related to its political and economic goals,
+and that they are often enjoined to serve these goals in a passive and uncritical manner.
+It will be argued that the educational discourses and practices of the Union are often used
+as, what M. Foucault would call, ‘regimes of truth’ (Foucault, 1980: 133). They indicate
+acceptable systems of knowledge, which are in turn used for knowledge politics control
+and the legitimation of educational reforms, at both the national and the European levels. It
+will also be argued that the educational politics and policies of the EU are dominated by the
+interrelated discourses of marketisation, regulation, competitiveness and performativity,
+which draw from and are influenced by the ideology of ‘technocracy’, and by the ideas and
+
+--- [PDF Page 488 / Book Page 481] ---
+
+Towards The European Panopticon 481
+
+practices put forward by certain economically oriented international organisations such as
+the OECD, the World Bank and the IMF. Finally, it will be argued that the rhetoric of ‘quality’, ‘sustainability’, ‘employability’, ‘competitiveness’, ‘accountability’, ‘economic and
+social cohesion’, used by the EU in its Europe of Knowledge educational discourses and
+practices, is actually a form of ‘governmentality’. As such, it could be argued that the EU
+is dictating, in a covert or overt manner, politics of ‘surveillance’ and ‘control’ of national
+education policies and planning, literally establishing a contemporary ‘Panopticon’ of the
+European Education Area.
+
+Education in the EU after Maastricht
+Education and training were institutionalised as ‘competences’ of the European
+Community for the first time in the Treaty of Maastricht (Treaty of the European Union/
+TEU, European Council 1993). The relevant articles were based on the principle of subsidiarity, which delegated the division of power over education and training to the member
+states and the European Union. The phrasing of the text indicated that there was a clear
+differentiation of the scope and the aims of Community action between education, where
+the Community ‘contributes to the development of quality education’ (Article 126), and
+training, where the Community ‘implements a vocational training policy’ (Article 127).
+The two policy areas were further differentiated with respect to the decision-making
+processes which prevailed for each one of them. For education, decision-making usually followed the procedures of Article 189B (the co-decision procedure), while training
+issues were decided following mostly the procedures of Article 189C (the cooperation
+procedure). The institutionalisation of education in the TEU also entailed the upgrading
+of the administrative structures responsible for education and training in the European
+Commission, leading to the establishment of a General Directorate in 1995.
+In examining the involvement of the EU in education and training since 1992, we can
+distinguish three different periods, which are marked by different perceptions of the role
+of education and training in the Union and the predominance of different discourses and
+policy practices. These periods are: 1993 to 1996, 1997 to 1999 and 2000 to date.
+
+The Policy Consolidation Period, 1993–1996
+The first period, which is characterised by the Commission’s attempt to consolidate education in the Community apparatus, extends from 1993 to 1996. This period was characterised by intensive debate and activity which resulted in important changes in the ways
+education, as discourses and practices, was perceived in the EU context. It also resulted
+in the expansion of the indirect and implied competences of the Community towards
+education. Concurrently, a wider legalisation procedure was launched which aimed at
+strengthening the complementarity of education and training to other policy areas of the
+Community (especially to in the social, the technological and the cultural domains).
+Education was perceived to be an important element of a wider strategy, which aimed
+at the consolidation of the EU as a political and economic entity and a world player, but
+also as an ‘imagined community’, in Benedict Anderson’s meaning (Anderson, 1983).
+
+--- [PDF Page 489 / Book Page 482] ---
+
+482 Pasias and Roussakis
+
+This second task seemed urgent at the time, considering the difficulties encountered
+during the ratification process of the Maastricht Treaty. The reactions of the European
+electorate emphatically showed that the European integration project needed ideological and symbolic depth within the national civil societies. In order to respond to those
+voices which argued that the EU perspective was irrelevant or hostile to the European
+societies, the European Commission circulated several policy documents that referred
+to issues with a visible impact on concerned Europeans. Such issues included ‘social
+solidarity’ (EC, 23-12-1992), ‘social policy’ (EC, 17-11-1993), ‘citizenship’ (EC, 2112-1993), ‘democratic deficit’ (EC, 5-5-1993) and ‘transparency’ (EC, 2-6-1993) of
+the EU governance. All these documents and the policies which they initiated, served,
+in one way or another, the attempt to enhance the symbolic, imagined and ideological
+meaning of European integration and to coin expressions such as ‘European home’,
+‘Europe of citizens’, ‘European governance’ and ‘diminution of democratic deficit’.
+In order to take advantage of education as a ‘Europeanisation’ factor and to pinpoint
+the huge European intellectual and human potential as a ‘competitive advantage’ in its
+struggle against international rivals (such as the USA and Japan), the EU had to consolidate education and training in the Community edifice as soon as it would be able to do
+so. So, in a very short time, it attempted to construct a discourse that would bring about a
+significant change in the perception of the role of education in Europe. The institutional
+framework of education in the Maastricht Treaty made this attempt easier than ever before
+in the history of the Community. In the 1980s, particularly during the 1986–1992 period,
+the European Commission used the political and economic goals of the Community (e.g.
+European unification, the common market and the emergence of European citizenship),
+to justify its involvement in education through action programmes, and to legitimise
+the educational initiatives put forth at the European level (Pollack, 2000: 520). After
+Maastricht, the educational objectives were used in order to support and enhance the
+political, economic and social goals of the EU (e.g. convergence, adaptation, interaction
+and cohesion). By the late 1990s, a radically different perception of the role of education,
+at the discourse level, had taken shape, mainly in the context of the European Strategy
+for the Employment and Social Cohesion. Education, which was formerly perceived by
+many European governments to be part of the crisis of the welfare systems, had gradually been transformed to perhaps the most significant institutional factor which would
+help Europeans to resolve this crisis (Pasias, 2006a: 373–374).
+In the ‘Guidelines for education in the’90s’ (European Commission, 1993c), a document which summed up the Commission’s initiatives, we see clearly that the European
+Commission had developed its educational discourse through commonly agreed significant documents (mainly Green and White Papers). These documents were powerful
+instruments of political intervention both at the European level – through the support
+provided to cooperation networks among educational organisations, the labour market
+and social partners – and at the national level by affecting national educational planning and reforms. The discourse which emerged from these documents linked education and training policies with the EU policies for competitiveness, employment and
+social cohesion.
+In the White Paper ‘Growth, Competitiveness, Employment: The Challenges
+and Ways Forward into the 21st Century’ (1993), which described and analysed the
+
+--- [PDF Page 490 / Book Page 483] ---
+
+Towards The European Panopticon 483
+
+perceived challenges for the European Union in a changing international environment,
+it was argued that:
+The Community should set firmly and clearly the essential requirements and
+the long-term objectives for measures and policies [in education and training]
+in order to make it easier to develop a new model for growth, competitiveness
+and employment in which education and training play a key role and to ensure
+essential equality of opportunity and the coherent development of the three
+dimensions of the European system of education and training (education, training and culture). (European Commission, 1993a: 122)
+It was also proposed that this should be done by ‘developing, generalising and systematising lifelong learning and continuing training’. According to this White Paper,
+this meant that ‘education and training systems must be reworked in order to take
+account of the need which is already growing and is set to grow even more in the
+future’ (European Commission, 1993a: 120).
+The same principles were further elaborated in the Commission’s White Paper
+‘Teaching and Learning - Towards the Learning Society’ (1995). This Paper attempted
+to identify the role of education in an emerging European Knowledge Society and
+Knowledge Economy in the light of three presumed ‘factors of upheaval’, namely
+‘globalisation’, ‘information society’ and ‘techno-science’. It also attempted to mark
+out a strategy for the development of human resources in view of the EU’s transformation of the European ‘Knowledge Society’. Right from the start it argued that
+‘investment in knowledge plays an essential role in employment, competitiveness and
+social cohesion’, and that ‘the individual’s place in relation to their fellow citizens will
+increasingly be determined by their capacity to learn and master fundamental knowledge’ (European Commission, 1995b: 1–2).
+In both these texts the Commission actually constructs a ‘market orientated discourse’ for education. It has been argued that this discourse draws from, and aligns
+with, the neoliberal perceptions of international economic organisations such as the
+OECD, the World Bank, and the International Monetary Fund, as they foreshadow the
+future development of education and training systems in the post-industrial societies
+(Kazamias, 1995; Field, 1998; Spring, 1998). In order to identify the labour market
+relationships and the employment conditions of the future ‘knowledge societies and
+economies’, the aforementioned White Paper coined a number of key-concepts such
+as: ‘competitiveness’, ‘adaptability’, ‘elasticity’, ‘flexibility’, ‘quality’, ‘certification’
+and ‘evaluation’. It also advocated policies which primarily aimed at the development
+of flexible skills and competences, at the expansion of access to continuous training,
+at the certification of formal and informal qualifications and at the closer relationship
+between educational institutions and business enterprises (European Commission,
+1995b: 44–47). On another widely debated issue, that of the financing of education,
+the White Paper questioned the view that education is a public good and advocated
+the reduction of public spending and the promotion of co-financing or self-financing
+processes by education and training recipients (European Commission, 1995b: 48).
+The influence of the market discourse on the White Paper is further underlined in its
+
+--- [PDF Page 491 / Book Page 484] ---
+
+484 Pasias and Roussakis
+
+proposals to establish an outcomes-oriented system of evaluation of education based
+on measurable criteria (e.g. quality, productivity, performativity and effectiveness) and
+to finance education and training systems based on results (European Commission,
+1995b: 46–49). In this sense the educational project presented in these White Papers,
+leads to a circumscribed perception of the ‘Europe of knowledge’ dominated by the
+neoliberal views about the world economy.
+In an attempt to counterbalance this ‘economistic’ view of education, the
+Commission, in both documents discussed above, but also in the Green Paper on the
+‘European dimension in education’, included some references to the cultural tradition of the European education systems. In the Green Paper, the Commission pointed
+out the need for the adaptation of the educational process to the new economic,
+social and cultural context of a unified Europe, which aimed, among other things, at
+the construction of a European identity, the improvement of the quality of education,
+the preparation of young people for better social and professional integration, and
+the further promotion of cooperation among educational institutions in the member
+states (European Commission, 1993a: 9–13).
+The EU educational discourse during this period was further elaborated in three
+consultation documents: the Green Papers on ‘Innovation’, ‘Life and Work in the
+Information Society’ and ‘Obstacles of Mobility’. In these texts the Commission: (a)
+pointed out that one of the obstacles to innovation was ‘the insufficient adaptation of
+education and training systems to the reality of a changing world as well as the great
+lack of flexibility of structures and their rules of development’ (European Commission,
+1995a: 36–37), and (b) proposed a radical restructuring of education and professional
+training systems which would incorporate the ICTs for their future development since
+‘the basic need for Europe is to develop a new architecture via lifelong learning and
+professional training’ (European Commission,1996a: 26). Mobility was then considered to be an answer both ‘to the economic challenges via the internal market formation processes and to the social implications, particularly to employment matters’
+(European Commission, 1996b: 1).
+
+Education in the Shadow of the Structural
+and Employment Policies, 1997–1999
+The second period of the EU’s involvement in education extends from 1997 to
+1999. During this period, education was directly linked to the Community’s structural and employment policies which aimed at supporting the readjustment of the
+relevant policies of the member states and the modernisation of the education,
+training and employment systems. The new Structural Funds Regulation (1999) as
+well as the European Strategy for Employment (1997–1999) were built, according
+to the Luxemburg European Council Conclusions on four distinctive policy pillars,
+namely ‘employability’, ‘entrepreneurship’, ‘adaptability’ and ‘equal opportunities’
+(European Council, 1997).
+The new cartography of the EU education policy also included the construction of
+two specific educational ‘policy networks’:
+
+--- [PDF Page 492 / Book Page 485] ---
+
+Towards The European Panopticon 485
+
+(a) An ‘official’/‘formal’ network, which drew upon and was supported by Articles
+126 and 127 of the TEU and was framed by the EU Council Decisions and
+Directives. This network included the Community action programmes
+(SOCRATES, LEONARDO and TEMPUS) as well as the mechanisms for
+the mutual recognition of qualifications (ECTS, Europass and EQF). It was
+financed by the new DG 22 of the Commission and it operated according to the
+Community method. Its central goals were cooperation, mobility, exchanges
+and recognition of qualifications, aiming at integrating initial and further education systems.
+(b) An ‘informal’ educational network, which drew upon other competences of
+the EU (such as employment, mobility and social cohesion) and was linked
+to other policy areas (e.g. structural, employment, social, research and culture). It was framed by the Decisions of the European Council, which regulated
+the EU structural policies, the European Strategy for Employment and the
+Lisbon Strategy, and was intended to control national educational planning.
+It was implemented via both the Community method (through the Structural
+Funds Regulations) and an early form of the Open Method of Coordination
+(OMC). This method aimed at economic convergence and social cohesion
+in the member states, which was also reflected in the pursuit of ‘commonly
+agreed’ educational objectives. The national action plans for employment and
+education, which were subsidised by Community resources made available to
+the member states through the Community Support Frameworks (also known
+as Delors I, Delors II and Santer packages) are a genuine example of this
+approach (Addison & Siebert, 1994; Christodoulakis & Kalyvitis, 2004).
+In the late 1990s, the major EU educational policies were characterised as follows:
+(a) By the predominance of an economic-technocratic-instrumentalist perception
+which was connected with and controlled by the emergence of new ‘discourses’,
+the imposition of new ‘regimes of truth’ and a new mode of setting and implementing ‘regulatory processes’ such as globalisation, marketisation, risk society,
+ICT society, governmentality and performativity (Pasias,2006a; Kazamias &
+Roussakis, 2007).
+(b) By the prioritisation of the development of a ‘new competence framework’,
+consisting of professional and social competences, which was based on a ‘new
+human and social capital theory’. The new competences aimed at the adaptation of the European workforce to the requirements of the job market and the
+new knowledge based distribution of labour, and at the reduction of the obstacles of intra-EU mobility (European Commission, 2005b, d)
+(c) By their emphasis on a ‘high-quality general education’, on the enhancement
+of innovative lifelong learning structures and on the development of horizontal competences, such as ‘learning to learn’, ‘cultural awareness’, ‘foreign
+languages’ and ‘entrepreneurship’, which were then considered as inevitable
+requirements for the incorporation and the growth of enterprises (European
+Commission, 2001, 2005d).
+
+--- [PDF Page 493 / Book Page 486] ---
+
+486 Pasias and Roussakis
+
+These features clearly marked a shift in the EU discourse on education, which was now
+seen as an instrument to achieve the political goals of the Union. This shift to the ‘politics
+of knowledge’ was discussed for the first time in Agenda 2000 (European Commission,
+1997a). In this text the Commission argued that the globalisation of the economy and
+the information and communication technologies favoured the emergence, the growth,
+the dissemination and the utilisation of new ‘immaterial goods’, which affected the EU
+economic enlargement, competitiveness and employment. To the extent that ‘technological research, education and training constitute essential immaterial investments, the
+“politics of knowledge” (innovation, research, education and training) have decisive
+consequences for the future of Europe’ (European Commission, 1997a:12–13).
+The ‘politics of knowledge’ were further elaborated in ‘Towards a Europe of
+Knowledge’ (European Commission, 1997b). Here the European Commission presented
+in a comprehensive way the Union perspective for education, namely the functional
+framework, the perceived significant factors, the dimensions that should be developed
+and the objectives that should be pursued. The Commission argued that the Community
+politics for education ‘are inspired by a fundamental orientation: the progressive creation
+of an open and dynamic European educational space, in which the principles of lifelong
+learning education and training will be implemented’. The Commission also underlined
+that the challenges for the formation of the European educational space presupposed ‘the
+unification of sectors of education and training’ and required the rationalisation of the
+educational policies of the member states through ‘the economy of the intentional objectives’, the ‘restriction of measures and the dissemination of actions’, and the establishment of a ‘framework of common purviews between the Community, the member states
+and the other involved agents’ (European Commission, 1997b: 5–7).
+The wider perspective of the Europe of knowledge, which encompassed most of
+the Community discourses and practices for the economy and employment, is schematically presented in Table 1. The politics of knowledge in this document have been
+fundamental to the central policy talk and policy practices which have dominated the
+post-1997 period. It can be argued that they constitute the matrix of the objectives, the
+practices and the technologies occupied by the Lisbon Strategy, which was adopted in
+2000 and is discussed in the next section.
+From the texts discussed above, it appears that the educational policy of the EU was
+constructed on the basis of the key-conceptual axes of ‘convergence’, ‘cooperation’,
+‘cohesion’ and ‘prospect’. By the late as the1990s, both the Commission and the member states had accepted the view that the possibilities of a wider educational cooperation that aimed at convergence/cohesion in education and training were limited, while
+strictly following the ‘action program-approach’.
+The Commission was heavily criticised for ‘ineffective administration’ of the action
+programmes and for ‘disproportionate bureaucracy’ (Ertl, 2006:14). It was also obvious at the EU level, that owing to the institutional barriers imposed by the principle
+of subsidiarity it would be impossible for the Commission to advocate or promote
+interventionist policies in the educational reforms of the member states that aimed
+at the convergence and the European modernisation/Europeanisation of the national
+educational systems. There were strong views (see for example, Berggreen-Merkel,
+1999: 3–4) that the medium-term and long-term perspectives of educational cooperation
+
+--- [PDF Page 494 / Book Page 487] ---
+
+Towards The European Panopticon 487
+Table 1.
+
+Europe of knowledge and the educational Panopticon
+
+European Educational Space
+
+Knowledge
+European Knowledge Society
+
+European Knowledge-Based Economy
+
+The politics of Knowledge
+
+The Lisbon Strategy for Education
+
+The educational Panopticon
+
+The 3 basic dimensions
+Knowledge Citizen Employment
+The 4 basic areas
+Innovation Research Education Training
+The 5 main axes/objectives
+(a) To develop lifelong learning and continuous training
+(b) To maintain the social model in the European Union
+(c) To preserve European identity
+(d) To decrease the social gap
+(e) To increase employability
+Keywords used to describe the education – employment
+Relationship
+Innovation Competitiveness Compliance
+Employability Flexibility Adaptability
+Quality Evaluation Certification
+Performativity Effectiveness Expendability
+Instrumental rationality technocratic discourse
+Legalised reframing scientific legitimation
+Voluntary participation cooperation cohesiveness
+The concrete future objectives
+Quality Accessibility Openness
+(via lifelong learning processes)
+The technologies of knowledge
+Participation, representation, consultation, theasis, mutual
+learning, governing, management, monitoring,
+evaluation, accountability, control,
+performativity, surveillance
+The continuous evaluation and surveillance
+OMC, benchmarking, custody rules, standards, indicators,
+criteria, strict timetables, monitoring, mutual learning,
+exchange of best practices, peer review
+
+clearly demanded new working procedures in agenda setting and in the operation of
+the EU, e.g. the EU Education Council. In this context, the initiative for the Council
+resolution on the ‘Rolling Agenda’ (1999) was received as a clear step towards ensuring a greater continuity and enabling a more effective exchange of information, experience and good practices between the member states (Hingel, 2001:9).
+
+Discourses and Policies of Education for the New
+Millennium, 2000 Until Now
+In the light of the challenges of economic globalisation and the geopolitical transformations at the international level after September 11, 2001, the European integration process acquired particular interest at the pragmatic level (e.g. the economic and
+social) and at the symbolic/imagined levels, pertaining to the role and the status of the
+European Union in the new world order. The establishment of the European Monetary
+
+--- [PDF Page 495 / Book Page 488] ---
+
+488 Pasias and Roussakis
+
+Union (EMU), the enlargement towards Eastern and Central European countries and
+the ambitious project towards the establishment of a Constitutional Treaty, all contributed to a further conceptualisation of the EU as a single, sui generis comprehensive
+geopolitical totality with members sharing common goals and views for the future. As
+a consequence, with the new millennium, both the context and the content of the EU
+politics and policies became more complex and were radically reconstructed.
+In the early 2000s, both the member states and the Commission decided that further steps towards a cohesive European educational policy were needed, which, still
+under the principle of subsidiarity would promote convergence of educational systems
+and the making of a European education area of lifelong learning. This perspective
+was deeply influenced, among others, by (a) the effects of the European Monetary
+Union (EMU) and the introduction of a common currency in the Euro zone, (b) the
+commonly agreed European strategy for employment, (c) the perceived competences
+needed for the knowledge society, and (d) the developments towards a more open and
+transparent European governance that gave meaning to the European citizenship.
+In this renewed process of the ‘unionisation’/Europeanisation of education and training,
+the main goals put forward by the Commission since the late 1990s, summarised in
+the views that the EU expressed towards knowledge, competitiveness and employment
+have been directly linked to distinctive EU policies, processes and strategies.
+In the years after 2000, the division between the Commission’s official/formal action
+programmes and the informal national action plans, as well as the Commission’s educational politics and policies have been acute. The initiatives of the member states,
+through an extensive agenda of intergovernmental activities and agreements, have
+been decisive for the planning of future educational policies. Such activities and agreements have included the Lisbon process that aimed mostly at general education, the
+Copenhagen process that dealt with vocational education and training and the Bologna
+process, which aimed at the construction of a European Area of Higher Education. The
+first two drew immediately from the Lisbon Summit Conclusions (European Council
+2000a), while the Bologna Process began as an independent intergovernmental initiative in which the Commission although sceptical at first, chose to take an active part.
+All these processes deployed some form of the Open Method of Coordination (OMC),
+which, as we elaborate below, has been a major breakthrough in the way education and
+training are steered by the Union. The most distinctive initiatives affecting education
+and training, which derived from these processes, included the following:
+(a) The contribution of education and training to the formation of the “European
+labour market, open to all, with access to all” (European Commission, 2001)
+and to the European strategy for employment and the growth of the knowledge
+economy (European Commission, 1997b). The EU supported this development through life long learning, education and training policies, such as the
+Action Plan for skills and mobility 2002–2004 and the “Lifelong Learning
+Programme” (2007–2013).
+(b) The modernisation and the quality improvement of all levels of education
+and training, in consonance with policies aiming at innovation and competitiveness in the information society. This initiative involved the promotion of
+
+--- [PDF Page 496 / Book Page 489] ---
+
+Towards The European Panopticon 489
+
+convergence and a more centralised control of national educational planning,
+as advocated by the Programme “Education and Training 2010” (Council of
+the EC, 2002, 2003).
+(c) The construction of the European Higher Educational Area, which would facilitate, on the one hand, the mobility of students, researchers, academics and
+education services, and on the other, the mutual recognition of qualifications
+and periods of study.
+(d) The formation of the European vocational education and training area promoted
+by the “European Competences Passport” (Europass), the European certification
+of qualifications (EQF) and the European recognition of periods of study.
+(e) The strengthening of a European identity, of European citizenship and of social
+cohesion, in tandem with the objectives of accessibility, openness and equality
+of opportunities that aimed at the maintenance of a distinctive European social
+model (European Council, 2002).
+Since the late 1990s, it has been obvious that lifelong learning gradually has become the
+central concept and the strategic objective of education and training policies towards the
+knowledge based societies (European Council, 2000a, 2000: 1). The Commission emphasised that ‘the enormous economic and social changes that happen in Europe require a
+completely different approach of education and training, … which must be faced off by
+a framework of lifelong learning, … which will be directly linked to youth, employment,
+social inclusion and active participation in society’ (European Commission, 2001: 3).
+Although the Commission recognised the limitations of the ‘action programme
+approach’, it renewed the implementation of SOCRATES, LEONARDO and TEMPUS,
+and initiatives such as ‘e-learning’ and ‘skills and mobility’. The Commission reframed
+this approach by introducing the new integrated Lifelong Learning Programme (2007–
+2013). At the same time, it emphasised ‘education and training 2010’, which stemmed
+directly from the Lisbon strategy. Moreover, the role and the status of the Commission
+continued to grow stronger in two areas: (a) in the discourse/policy talk formation (e.g.
+‘Europe of knowledge’, ‘European governance’, and ‘active citizen’), and (b) in the
+policy practices implemented through the European strategy for employment and the
+distributive policies of the Structural Funds (Pasias, 2006b: 91–94).
+
+The Lisbon Process for Education and the Open
+Method of Coordination
+The Lisbon Process for education, the Copenhagen Process for vocational education
+and training and the Bologna Process for higher education, are the constituent elements of the discourse that constructs, deconstructs and reconstructs the European
+educational landscape. Placed conveniently within the rhetoric of lifelong learning,
+European Knowledge Society and Knowledge Economy, these processes initiate and
+demand innovative and radical challenges, at both the EU and the member states levels, of decision-making processes and policy choices for education and training. They
+challenge the long established ‘Community approach’, which operates through the
+
+--- [PDF Page 497 / Book Page 490] ---
+
+490 Pasias and Roussakis
+
+implementation of the Community initiatives, programmes and action plans, in favour
+of a ‘common interest/common goals’ approach. This ‘common goals’ approach is
+essentially a ‘steering by results’ approach to education and training which requires and
+leads to wider changes both at the discursive and the political/administrative levels.
+The ‘Europe of knowledge’ as perceived through this new educational ‘canon’, corresponds with a specific construction of European reality which is directly linked to
+‘technocratic’ claims in education. These claims are articulated in such key-concepts
+such as ‘new knowledge’, ‘new skills’ and ‘new competences’, which describe the
+requirements of knowledge-based economies and societies (OECD, 2000; European
+Commission, 2005b, d). In this sense, the formation of a European educational area is
+closely connected with the emergence and dominance of a new political-technocratic
+elite of educational ‘eurocrats’, which is comprised of groups of ‘experts’ (technocratsbureaucrats-administrators) both at the national and the EU levels. This elite acts and
+makes decisions that are based more on technocratic criteria than on democratic ones
+(Radaelli, 1999).
+In the Lisbon Summit, the first European Council summit of the new millennium,
+the European leaders attempted to respond to the challenges posed for the Union by the
+contemporary global discourse. Specifically, these challenges included: (a) the external
+challenges, such as globalisation and marketisation, (b) the future steps in the process
+of ‘unionisation/Europeanisation’ (enlargement, convergence, integration and unification), and (c) the major concerns of the member states towards needed reforms.
+As we have already mentioned, the strategic overarching goal for the European Union
+as was articulated in the text of the Lisbon Summit Conclusions, was ‘to become …
+the most competitive and dynamic knowledge-based economy in the world’. Towards
+this end, the Open Method of Coordination (OMC) was adopted as a process of policy
+choice and implementation and as a ‘means of spreading best practices and achieving greater convergence towards the main EU goals’. Among other things, the OMC
+allows the Commission:
+(a) To coordinate intergovernmental bodies in the process of setting European
+guidelines and translating them into national and regional policies
+(b) To set specific measurable targets towards the commonly agreed objectives
+(c) To adopt measures and timetables of implementation, using indicators and
+benchmarks for the comparison of its performance with non-European global
+competitors
+(d) To evaluate the progress through periodic monitoring and peer review
+The Lisbon Process for education initiated a number of changes in the educational
+policy of the EU. These included the following:
+(a) A shift from the European Commission’s ‘action programme approach’, to the
+Council’s ‘competence-based model’. This new approach prioritised short and
+mid-term commonly agreed objectives, and entailed the continuous assessment of
+the educational initiatives of the EU with the use of indicators and benchmarks
+(b) Downplay of the ‘Community method’ of co-decision and, concomitantly, of
+the subsidiarity principle for Community involvement in education, in favour
+of the open-ended and voluntary open method of coordination
+
+--- [PDF Page 498 / Book Page 491] ---
+
+Towards The European Panopticon 491
+
+(c) The gradual abandonment of the dogma of ‘non-harmonisation’ of the education systems member states, in favour of a more ‘Europeanised’ control of the
+national education planning and policy choice
+These changes in the views of the EU towards education can be seen as a result of a
+wider shift of the policy process in the EU. After 2000 the EU gradually moved from
+the neutral/defensive intergovernmentalism of the 1990s, which prioritised the subsidiarity control of the scope of the EU activities, to two radically different directions.
+It adopted an emphatic/aggressive intergovernmetnalism, which entailed the voluntary
+commitment of the member states, and a resurrected notion of ‘neofunctionalism’,
+which advocated the spillover effect from education to the economy and employment.
+The changes mentioned above can be clearly read in the mandate of the Lisbon
+European Council to the Education Council of the EU, ‘to undertake a general reflection on concrete future objectives of education systems, focusing on common concerns
+and priorities while respecting national diversity’. One year after the Lisbon Council,
+the Education Council identified three strategic objectives identified for the European
+education and training systems:
+• ‘Increasing quality and effectiveness of education and training systems in the
+European Union’
+• ‘Facilitating the access of all to the education and training systems’
+• ‘Opening up education and training systems to the wider world’ (Council of the
+EU, 2001: 7)
+These three strategic objectives became the basis for the establishment in 2002 of the
+‘Education and Training 2010 Programme’ as the single comprehensive framework
+for cooperation in the field of education and training. The Programme transcribed
+the three objectives into specific policy areas that would be closely monitored and
+reviewed by specialised working groups which would use a defined set of indicators
+and benchmarks (European Commission, 2003a).
+Six years after the launching of the Lisbon strategy, the findings of research as well
+as the official progress reports indicate that the effects of the Lisbon process for education appeared to be ‘more rhetoric than real’ (Ertl, 2006: 22). It was found that there
+were serious inequalities in the achievement of the commonly agreed objectives among
+the older European core member states, e.g. England, France and Germany, the southern European region (Greece, Spain and Portugal) and the new EU members states
+of central and eastern Europe (Ertl & Phillips, 2006; European Commission, 2005a).
+In their reports, the Commission and the Council attributed these drawbacks to the
+vagueness of the Lisbon objectives, arguing that they covered vast policy areas which
+were poorly coordinated and without clearly stated priorities (European Commission,
+2003b,c). They recognised that the Open Method of Coordination did not bring about
+the expected results, since it depended too much on the willingness or the ability
+of the member states to compromise the objectives for European convergence with
+their national particularities. Scholars of education policy, on the other hand, have
+argued that the main reason for the observed disparities and the non-achievement of
+the Lisbon objectives is the diversity in the historical national contexts of education.
+Community directives, initiatives and action plans, concerning the implementation of
+
+--- [PDF Page 499 / Book Page 492] ---
+
+492 Pasias and Roussakis
+
+both the Lisbon and the Copenhagen Processes, are interpreted and implemented in
+different and often divergent ways by the various member states (Ertl & Phillips, 2006:
+86; European Commission, 2005c).
+Even though there are clearly identifiable drawbacks in the Lisbon Process, the fact
+remains that, through the Lisbon strategy, the Community policy discourses and practices have operated as mechanisms of control of educational policies of the member
+states. The aim of this process was to achieve convergence of education and training
+systems via a mechanism of continuous monitoring, measurement and surveillance
+(Hodson & Maher, 2001; Hostens, 2003; Pasias, 2005). As several scholars have argued,
+this approach coincides with the discourse on control, evaluation and performativity of
+education and training systems, emanating from international organisations such as the
+World Bank, the OECD and the International Monetary Fund (Spring, 1998; Borg &
+Mayo, 2005; Ball, 2003; Ilon, 2002). This discourse uses terms such as competitiveness,
+productivity, adaptability, flexibility, employability, trainability, effectiveness and accessibility to describe the basic main characteristics that modern educational systems must
+possess in order to adapt to the globalised, competitive and changing economic environment (OECD/CERI, 1994). It also advocates processes such as control, monitoring,
+accountability, total quality control, standards, indicators and benchmarks, to describe
+the basic instruments which education systems must use, to adapt to the demands of
+the knowledge-based economies (OECD, 2002). This approach significantly changes the
+nature of knowledge pursued by education and training systems. It emphasises and prioritises outcomes, learning products and qualifications. Acceptable knowledge is the useful, measurable knowledge. In the context of a technocratic knowledge-based economy,
+knowledge is a commercial commodity-product which can become ‘consumable’ and
+constantly renewable. The whole argument of lifelong learning is based on the assumption that knowledge is ‘consumable’. In the context of lifelong learning, however, it is
+not only knowledge itself that is ‘consumable’, but also the object of knowledge as well
+as the subject of knowledge, both individual and collective.
+In this context, OMC, a process directly drawn from the evaluation procedures of
+multinational companies for education (Arrowsmith et al., 2004), creates the need
+to produce ‘technologies of surveillance’ as tools for the measurement of progress
+towards certain defined objectives, e.g. (a) to invent ‘technologies of performance’ as
+tools for the exchange of best practices; (b) to introduce ‘technologies of theasis’ (gazing) as tools for imprinting and depicting outcomes such as indicators, tables, graphics
+and statistics; and (c) to utilise ‘technologies of governance’ as tools of mutual learning which may provoke political dialogue (Haahr, 2004; Nóvoa & Yariv-Mashal, 2003;
+Pasias, 2005). Since the member states decide in common the criteria, the indicators
+and the benchmarks and formulate the evaluative processes, they accept external controls in policy planning. In doing so they incorporate mechanisms of surveillance and
+conformity in sensitive and critical sectors of social and educational policy (Hostens,
+2003; Badham, 2003).
+The setting-up of the Lisbon agenda constitutes a critical situation of the EU’s
+symbolic, discursive and political/administrative control in the arena of education
+and in society. It draws its legitimation from the common interest approach of
+the member states and is closely connected with the neoliberal technocracy-based
+
+--- [PDF Page 500 / Book Page 493] ---
+
+Towards The European Panopticon 493
+
+paradigm, which is rapidly transferred from the economy to education and training
+through benchmarking practices and OMC technologies. Thus the European educational landscape is gradually dominated by ‘regimes of truth’ and ‘systems of knowledge’, which introduce, reproduce and legitimise the technocratic rationale in order to
+establish a modern European Panopticon based on technologies of governmentality,
+surveillance and control.
+
+References
+Adam, B., Beck, U. & van Loon, J. (Eds.) (2000). The risk society and beyond. London: Sage.
+Addison, J. T. & Siebert, S. W. (1994). Vocational training and the European community. Oxford Economic
+Papers, New Series, 46(4), 696–724.
+Aglietta, M. (1998). Capitalism at the turn of the century: regulation theory and the challenge of social
+change. New Left Review, 232, 41–90.
+Arrowsmith, J., Sisson, K. & Marginson, P. (2004). What can ‘benchmarking’ offer the open method of
+co-ordination? Journal of European Public Policy, 11(2), pp. 311–328.
+Anderson, B. (1983). Imagined communities: Reflections on the origin and spread of nationalism. New
+York: Verso.
+Ball, S.J., (2003). The teacher’s soul and the terrors of Performativity. Journal of Educaion Policy, vol.18,
+no.2, pp. 215–228.
+Baron, S., Field, J. & Schuller, T. (Eds.) (2000). Social capital: Critical perspectives. Oxford: Oxford
+University Press.
+Badham, L. (2003). Benchmarking for European community countries – a critical analysis, in Educational
+ambitions for Europe, CIDREE/SLO, Netherlands Institute for Curriculum Development, Enschede,
+pp. 153-162.
+Berggreen-Merkel, I. (1999). Towards a European educational area. European Journal for Education Law
+and Policy, 3, 1–7.
+Bonal, X. (2003). The neoliberal educational agenda and the legitimation crisis: Old and new state strategies, British Journal of Sociology of Education, 24(2), 159–175.
+Borg, C. & Mayo, P. (2005). The EU Memorandum on lifelong learning. Old wine in new bottles?,
+Globalisation, Societies and Education, 3(2), 203–225.
+Burton-Jones, A. (1999). Knowledge capitalism: Business, work and learning in the new economy. Oxford:
+Oxford University Press.
+Castells, M. (1998). The Information Age: Economy, society and culture. Vol. I: The rise of the network
+society. Oxford: Blackwell.
+Christodoulakis, N. & Kalyvitis, S. (2004). The second CSF (Delors’ II Package) for Greece and its impact
+on the Greek economy. Economics of Planning, 31(1), 57–80.
+Council of the European Communities (2002). Detailed work programme on the follow-up of the objectives
+of the education and training systems in Europe. OJ C 142, 14/06/2002, Brussels: Office for Official
+Publications.
+Council of the European Communities (2003). Council Conclusions on reference levels of European average performance in education and training. OJ C 134, 07.06.2003, Brussels.
+Council of the European Union (2001). The concrete future objectives of education and training systems.
+5680/01 EDUC 18, 14 February 2001, Brussels.
+Delanty, G. (2001). Challenging knowledge: The university in the knowledge society. Buckingham: Open
+University Press.
+Ertl, H. (2006). European Union policies in education and training: The Lisbon agenda as a turning point?
+Comparative Education, 42(1), 5–27.
+Ertl, H. & Phillips, D. (2006). Standardization in EU education and training policy: findings from a European
+research network. Comparative Education, 42(1), 77–91.
+European Commission (1993a). Green Paper ‘European dimension in education’, COM (93) 457 final,
+29-9-1993, Brussels.
+
+--- [PDF Page 501 / Book Page 494] ---
+
+494 Pasias and Roussakis
+European Commission (1993b). White Paper ‘Growth, competitiveness, and employment: The challenges
+and ways forward into the twenty-first century’. COM, (93) 700 final, Brussels.
+European Commission (1995a). Green Paper ‘Innovation’. COM(95)688, Brussels.
+European Commission (1995b). White Paper ‘Teaching and learning: Towards the learning society’, COM,
+(95) 590, Brussels.
+European Commission (1996a). Green Paper ‘Education, training, research: The obstacles to transnational
+mobility’. COM (96) 462, Brussels.
+European Commission (1996b). Green Paper ‘Life and work in the information society. People first’. COM
+(96) 389, Brussels.
+European Council (1997). Presidency conclusions. Luxemburg (20-21/11/1997), Brussels.
+European Commission (1997a). Action Program 2000 (Agenda 2000). COM (97) 2000, Brussels.
+European Commission (1997b). Towards the Europe of knowledge. COM (97) 563, Brussels.
+European Commission (2001). Making a European area of lifelong learning a reality. COM, (2001) 678
+final, Brussels.
+European Commission (2003a). Standing group for indicators and benchmarks, final list of indicators to
+support the implementation of the work programme on the future objectives of the education and training systems, Brussels.
+European Commission (2003b). Investing efficiently in education and training: an imperative for Europe.
+COM (2002) 779 final, Brussels.
+European Commission (2003c). Education and training 2010. The success of the Lisbon strategy hinges on
+urgent reforms. COM (2003) 685 final, Brussels.
+European Commission (2005a). Commission staff working paper: Progress towards the Lisbon objectives in
+education and training. SEC (2005) 419, Brussels.
+European Commission (2005b). Commission staff working document Towards a European qualifications
+framework for lifelong learning. SEC(2005) 957, Brussels.
+European Commission (2005c). Modernising education and training: A vital contribution to prosperity and
+social cohesion in Europe. COM(2005) 549 final, Brussels.
+European Commission (2005d). The new competences for lifelong learning. COM (2005) 548 final,
+Brussels.
+European Council (1993). The Treaty of the European Union. Brussels: Office for Official Publications.
+European Council (2000a). Presidency conclusions. Lisbon (23–24/3/2000), Brussels.
+European Council (2002). Presidency conclusions. Barcelona (15–16/3/2002).
+Field, J. (1998). European dimensions: education, training and the European Union. London: Jessica
+Kingsley.
+Foucault, M. (1980). Truth and power. In C. Gordon (Ed.), Power/Knowledge (pp. 109–133). Brighton:
+Harvester.
+Haahr, J.H. (2004). Open co-ordination as advanced liberal government’, Journal of European Public
+Policy, 11(2), pp. 209–230.
+Hargreaves, A. (2003). Teaching in the knowledge society: Education in the age of insecurity. Buckingham:
+Open University Press.
+Held, D. & McGrew, A. (2000). The global transformations reader: an introduction to the globalisation
+debate. Cambridge: Polity Press.
+Hingel, A.J. (2001). Education policies and European governance – contribution to the interservice groups
+on European governance. European Journal for Education Law and Policy, 5, 7–16.
+Hodson, D.-Maher, I. (2001). The Open Method as a New Mode of Governance: The Case of Soft Economic
+Policy Co-ordination, Journal of Common Market Studies, November, 39(4), pp. 719–46.
+Hostens, G. (2003). Educational policymaking in Europe : a new game, in Educational ambitions for Europe,
+CIDREE/SLO, Netherlands Institute for Curriculum Development, Enschede, pp. 21-45.
+Ilon, L. (2002). Agent of global markets or agent of the poor? The World Bank’s education sector strategy
+paper, International Journal of Educational Development, No.22, pp. 475–482.
+Kazamias, A. & Roussakis, Y. (2007). Education for and beyond the knowledge society: A critical analysis of the European discourse on education. Comparative and International Education Review, 8,
+71–91 [in Greek].
+
+--- [PDF Page 502 / Book Page 495] ---
+
+Towards The European Panopticon 495
+Kazamias, A. (1995). Neo-European modernization and education: discourses and policies in an ‘imagined
+Europe’. In A. Kazamias & M. Kassotakis (Eds.), Greek education: Prospects for restructuring and
+modernization (pp. 550–586). Athens: Seirios editions [in Greek].
+Lyotard, J. F. (1984). The postmodern condition: A report to knowledge. Manchester: Manchester University
+Press.
+Magalhaes, A. M. & Stoer, S. R. (2003). Performance, citizenship and the knowledge society: A new mandate for European education policy. Globalisation, Societies and Education, 1(1), 41–66.
+Nóvoa, A. & Yariv-Mashal, T. (2003). Comparative Research in Education: a mode of governance or a
+historical journey? Comparative Education, 39 (4), pp. 423–438
+Maravegjas, N. & Tsinisizelis, M. (Eds.) (1995). The integration of the European Union. Athens: Themelio
+[in Greek].
+OECD/CERI (1994). Markets for Learning and Educational Services, CD (94) 9, Paris : OECD.
+OECD (2000). Knowledge management in the learning society. Paris: OECD.
+OECD, (2002). Peer Review: A Tool for Cooperation and Change. An Analysis of an OECD Working
+Method. Paris: Mimeo .
+Pasias, G. (2005). OMC as a policy of ‘learning’, as a practice of ‘theasis’ (spectation) and as a technology
+of ‘surveillance’ (custody), Comparative and International Education Review, 5, Athens: Patakis [in
+Greek].
+Pasias, G. (2006a). European Union and education. Vol. I: Institutional discourses and educational policy
+(1957–1999). Athens: Gutenberg.
+Pasias, G. (2006b). European Union and education. Vol. II: Educational discourses and policies (2000–
+2006). Athens: Gutenberg.
+Pollack, M.A. (2000). The end of creeping competence? EU policy-making since Maastricht. Journal of
+Common Market Studies, 38(3), 519–538.
+Radaelli, C. (1999). Technocracy in the European Union. London: Longman.
+Reich, R. B. (1991). The work of nations: Preparing ourselves for the 21st century. London: Simon &
+Schuster.
+Spring, J. (1998). Education and the rise of the global economy, Mahwah, NJ: Lawrence Erlbaum.
+Stehr, N. (1994). Knowledge societies. London: Sage.
+Stone, D. (Ed.). (2000). Banking on knowledge: The genesis of the Global Development. London:
+Routledge.
+

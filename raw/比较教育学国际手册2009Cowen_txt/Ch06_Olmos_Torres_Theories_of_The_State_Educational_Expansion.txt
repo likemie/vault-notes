@@ -1,0 +1,651 @@
+================================================================================
+Chapter 06: Theories of The State, Educational Expansion, Development, and Globalizations: Marxian and Critical Approaches
+Author(s): Liliana Esther Olmos and Carlos Alberto Torres
+Handbook: International Handbook of Comparative Education (2009)
+Editors: Robert Cowen and Andreas M. Kazamias (Section Editor: Elaine Unterhalter)
+Section: Section 1: The Creation and Re-creation of a Field
+Book Pages: pp. 73–86
+PDF Pages: pp. 96–109 (in raw/比较教育学国际手册2009Cowen.pdf)
+================================================================================
+
+--- [PDF Page 96 / Book Page 73] ---
+
+6
+THEORIES OF THE STATE, EDUCATIONAL
+EXPANSION, DEVELOPMENT, AND
+GLOBALIZATIONS: MARXIAN
+AND CRITICAL APPROACHES
+Liliana Esther Olmos and Carlos Alberto Torres
+
+Introduction
+Education has in modern times been situated within the nation-state. It has been shaped
+by the demands within the state to prepare labor for participation in its economy and
+to prepare citizens to participate in the polity. This approximate congruence of nationstate and formalized education becomes problematic as globalization processes place
+limits on state autonomy and national sovereignty, affecting education in various ways.
+The twentieth century has been marked by the expansion of educational opportunities worldwide. It has been the century of education, and the role of the state in the
+promotion of public education has been decisive. Yet, at the millennium’s turn efforts
+to diminish the role of the state were rapidly changing education, especially in terms
+of its role in democracy.
+Theories of the state, the nature of the state, and the nature of public policy have substantive importance for an understanding of the political nature of education and public
+policy formation. Defining the “real” problems of education and the most appropriate
+(e.g., cost-effective, ethically acceptable, and legitimate) solutions depends greatly on
+the theories of the state that underpin, justify, and guide the educational diagnosis
+and proponed solutions. There is, however, a permanent challenge here. As Martin
+Carnoy (1992) has argued, most analyses of educational problems have implicit in
+them a theory of the state but seldom are the fundamentals of that theory recognized
+or spelled out in educational research and practice. Becoming self-reflective about our
+own assumptions seems to be a precondition for solid scholarship.
+Therefore, this chapter briefly reviews classical theories of the relationship between
+the state and education, in particular neoliberal theories, and Marxist critiques of these
+formulations. Obviously, any analysis of the relationships between education and the
+state should take into account the multilayered, complex, and dynamic nature of these
+relationships, revealing the multitude of tensions and contradictions that emerge out
+of the historical and social force buffeting political and educational institutions. This
+comment is due to the weaknesses of some theories, which often tend to assume a single causal factor of educational expansion, and ignore the importance, which the state,
+73
+R. Cowen and A. M. Kazamias (eds.), International Handbook of Comparative Education, 73–86.
+© Springer Science + Business Media B.V. 2009
+
+--- [PDF Page 97 / Book Page 74] ---
+
+74
+
+Olmos and Torres
+
+operating under concrete structural, political, and historical constraints, attaches to the
+contribution that education might make to its functions in the area of accumulation
+and legitimation. Further, most of these theories lack rootedness in specific historical
+context of particular educational systems and their development, a historical sensitivity which is indispensable for the formulation of sound theoretical explanations of
+educational expansion. On the other side, the type of criticism represented by Marxism
+is unique in that it includes a self-critical concept since Marxism is a theory of history,
+which in turn, tries to offer a history of theory. P. Anderson cited in Amadeo (2006),
+page 53.
+Finally, to draw attention to the sort of questions concerning education and the state
+which are brought into focus by the argument presented here, the analysis is placed in
+the context of the globalization of economies, and cultures, using as a case in point the
+educational experience of the last decades within Latin American societies.
+
+Educational Expansion and the State
+We have argued elsewhere against grand theories explaining educational expansion,
+whether they are functional or world system theories. The approach we attempt to
+develop concentrates on the historical circumstances of capital accumulation and
+political legitimation in specific countries, and their influences on educational growth.
+This approach explains how various Third World countries have developed dual educational systems—one for the wealthier group, and the other for the subordinate ones.
+We exemplify our approach by the Latin American experience of social change and
+educational expansion. Yet, the conclusions we draw and the further research questions
+we pose are applicable to many countries.
+In the last 30 years educational expansion has attracted considerable attention from
+Weberian, Functionalist, and Marxist scholars alike. Although these analyses have
+focused largely on the European and North-American experience, some attempts have
+been made in more recent years to examine and explain patterns of educational expansion in countries of the so-called Third World.
+This latter line of inquiry has been guided by a primary concern with the impact of
+the world system of which each nation-state in the contemporary world is a constituent
+element.
+In conceptualizing the world as a single social system, it is argued that its organizational and cultural milieu penetrates the various structural characteristics of all
+countries. The key elements of this shared culture are: (1) common national economic
+development goals; (2) an educated citizenry seen as a prized asset from all political
+perspectives; (3) the belief that individuals and countries are not static but improvable;
+and (4) that in the context of a capitalist world economy “development means success in economic competition.” The causes of this universal educational expansion are
+therefore seen to lie in characteristics of the contemporary world system, which affect
+all nations simultaneously in similar ways.
+However, this particular argument and body of literature suffer from a number of
+problems. It simply postulates the existence of a world historical transformation which
+
+--- [PDF Page 98 / Book Page 75] ---
+
+Theories of the State, Educational Expansion, Development, and Globalizations
+
+75
+
+gave rise to it, and why it is that one is justified in treating educational systems and
+their recent development as being autonomous of or discontinuous with their prewar
+legacy. It is as if some sort of a “Big Bang” brought into being a unique world system
+and the associated patterns of educational developments. The causes and consequences of educational expansion prior to 1945 are treated as irrelevant for explaining
+later developments. Likewise, educational reform in societies undergoing rapid social
+transformation has attracted the attention of scholars (Carnoy & Samoff, 1990; Torres,
+1991; Ginsburg, 1991).
+
+Capital Accumulation and Educational Development
+It is true that most “Third World” societies, including those which have achieved independent nationhood in the wake of postwar decolonization, have been subjected to the
+historical experience of underdevelopment and, thus, share certain structural characteristics relative to the constraints inherent to their economic development and the process
+of capital accumulation. Yet, it is questionable whether they share, along with the
+advanced capitalist nations of the world, a common organizational and cultural milieu.
+We argue in this chapter that, analytically, it is more fruitful to approach the study of
+educational development in these societies in relation to the global process of capital
+accumulation, to which they were subjected under the historically concrete conditions
+of capitalist expansion and/or colonization. Colonial and postcolonial eras represent
+two different sets of conditions for capital accumulation and educational development
+or expansion. While postcolonial expansion of education has been taking place in
+changed domestic and international context, it is conditioned in important ways by the
+patterns of educational growth during the colonial period. The study of educational
+expansion or growth in relation to the process of capital accumulation, as it proceeds
+at the national and global levels, calls for a political economy framework of analysis.
+This should systematically explore the historical linkages between the pre- and postwar developments, by focusing on the dynamic interaction between the state, capitalist
+accumulation and educational expansion.
+Political economy’s starting premise is that we can come to know a society’s key structures and understand its diverse and specific social practices by examining the way in
+which the members of that society produce and reproduce the conditions of their existence.
+In this perspective, schooling in contemporary societies is treated as a distinct institutional
+complex with its own diverse and distinct social practices and purposes, but one that is
+shaped by both the dynamics and contradictions of the capital accumulation process and
+the power relations between different economic, political, and social groups. Because
+power relations among groups are expressed in increasingly important ways through a
+society’s political structures, and more specifically the state, any political economy analysis of the educational system must be based on some implicit or explicit analysis or theory
+of the purposes or functioning of the democratic state.
+The modern state refers to a complex of institutions, such as the government—which
+means the bureaucracy, the military, the judiciary, and representative assemblies—
+including provincial and municipal institutions of government. According to the
+
+--- [PDF Page 99 / Book Page 76] ---
+
+76
+
+Olmos and Torres
+
+traditional approach, the liberal democratic state must perform two basic but often contradictory functions: to foster capital accumulation and social harmony and consensus.
+These “functions” refer to what are merely tendencies at work within the capitalist
+state. Whether the state meets these requirements, and the manner and the extent to
+which it is able to do so, is not preordained in the state structure, but is conditioned by
+the historical specificities attendant upon its operation. While this model of the dual
+functions of the sate might be theoretically adequate for analyzing democratic state,
+this is not so with respect to policies of the colonial state or, in many cases, the postcolonial one. The colonial state, because of its inherently unrepresentative and coercive
+character, has been much less concerned with the so-called legitimation function.
+It follows, therefore, that educational expansion policies pursued by the colonial state
+cannot fruitfully be interpreted in terms of the contradictory demands of capital accumulation and legitimation. Capital accumulation functions, and minimal requirements
+of constructing the state apparatus with adequate administrative-coercive capacity,
+have historically weighed far more heavily in the development of the educational policies of the colonial state.
+Indeed, it is necessary to identify different phases in the development of the capitalist
+accumulation process on a global scale, and then analyze the dynamics of educational
+expansion nationally, in relation to the timing and mode of insertion of particular societies into the global system. The time and mode of insertion of historically distinct
+national political economies into the global accumulation process, the legacy of educational systems which predated such insertion, and the social and cultural specificities
+of their social structures, are the three sets of factors which have been and continue to
+be crucial in shaping the structure and growth of their educational systems.
+
+Marxism as a Critical Theory
+In order to examine such decisive features as the ones developed in this chapter, a
+brief but necessary explanation about the reasons we have to privilege the Marxian
+theoretical corpus is required here. Furthermore, how do we understand the significance of going back to such fundamental and irreplaceable source of critical thinking
+as Marxism? And, if the matter of returning is at hand, why was it that so many of us
+chose to distance ourselves in the first place and are now coming back to it?
+First, the destiny of Marxism as a critical theory—or, in paraphrasing Jean-Paul
+Sartre cited by Boron, A. Por el necesario (y demorado) retorno del marxismo, as the
+indispensable critical horizon of our time, has been indifferent neither to the changes
+generated by socialist revolutions nor to the highs and lows of popular wars fought
+in the twentieth century. We are convinced that a theory of history such as Marxism
+which in turn offers a history of theory, has survived as an intellectual and political
+tradition due to two principal factors that are not the only ones but appear to be the
+most important. The first factor is capitalism’s constant incapacity to confront and
+resolve the problems and challenges that originated through its own being. As long as
+the capitalist system proceeds to condemn the growing sector of modern societies to
+exploitation and all forms of oppression—such as poverty, marginalization, and social
+
+--- [PDF Page 100 / Book Page 77] ---
+
+Theories of the State, Educational Expansion, Development, and Globalizations
+
+77
+
+exclusion—and creates nonstop damage to the environment through its brutal commercialization of water, air, and earth, the conditions to pursue an alternative vision for
+society along with a practical methodology to end these effects will always be present.
+J. P. Sartre, cited in Boron (2006), page 35.
+The second factor is that this theory has demonstrated an unusual capacity to deepen
+itself in accordance with the historical developments of societies and the struggles for
+emancipation of those who are exploited and oppressed by the system. Yet, it cannot be
+ignored how Marxism is negatively affected by the lack of strategic dialogue in terms
+of a political project capable of unifying and combining the energies, which is one of
+its central problems that must be resolved if Marxism wants to be retransformed into
+a philosophy of praxis.
+To conclude, we would like to bring back Sartre’s analysis of Marxism. This still
+possesses vigor. In Questions de Méthode, the French philosopher affirmed that a
+philosophy will continue to be efficient as long as the praxis through which it was
+engendered and sustained remains alive. Once everyone has access to a margin of
+real freedom from the production of life, Marxism will disappear and a philosophy of
+freedom will emerge in its place. However, we are devoid of any intellectual tool or
+concrete experience that would allow us to conceive of this freedom or philosophy. For
+these reasons, Marxism continues to be the unsurpassable philosophy of our time, as
+the circumstances that engendered it have yet to be overcome (Amadeo 2006).
+
+Education and the State
+The concept of the state has become one of the very few in contemporary social sciences
+endowed with the capacity to foster a rich theoretical and methodological debate, not to
+mention the inflamed political controversy raised by its practical existence. It has regained
+recognition as a key concept in the history of political research. Discussions about theories of the state acquired new vigor in the early 1970s, as a result of debates concerning
+the Marxist political theory of the state and the work of Antonio Gramsci, and in the
+1980s, in mainstream political science discussions of the autonomy of the democratic
+state. Now, why is the notion of the state so important in an understanding of educational
+policies and practices? The literature shows that the answer to this question should be
+drafted in the context of the relationships between education and government, education
+and the economy, and education and citizenship building. This is in view of the fact that
+educational systems and practices are sponsored, mandated, organized, and certified by
+the state, therefore their analysis cannot be separated from role, purpose, and functioning
+of the government.
+However, the relationships among education, politics, and the state cannot be discussed only from the perspective of mainstream political culture. Despite what those
+advocating “technocratic” or “technicist” views of educational research, curriculum,
+and educational policy would like to believe education is neither politically neutral nor
+technically “objective.” As Paulo Freire has consistently claimed in his work, there is
+an inherent “politicity” of education that has epistemological, analytical, and ethical
+implications. This politicity relates foremost to the explicit but also the subtle linkages
+
+--- [PDF Page 101 / Book Page 78] ---
+
+78
+
+Olmos and Torres
+
+between education and power. At the same time, it is related to the political nature of
+the state and public education as contested arenas and sites for exchanges of goods
+and services and competition involving political-economic projects (Freire, 1994). In
+summary, prevailing notions of the state held by policymakers and researchers influence the dominant research agenda, the analysis of educational problems, and policy
+prescriptions. Theories of the state also influence educational research per se. At a concrete and practical rather than abstract level, theories of the state held by government
+coalitions and educational bureaucracies will influence not only research but also the
+planning and operation of educational systems. Discussions about theories of the state
+and education encompass a broad range of theories regarding the relationships among
+education, the state, and civil society. By implication, theories of the state define the
+nature, purpose, and role of educational research, policy, and practices.
+Theories of the state give substance to the range of moral and ethical dimensions
+(and roles) attributed to education and schooling in the process of cognitive socialization and construction of cultural identities. Moreover, theories of the state (and their
+precepts regarding the linkages among power, state, and society) will guide the constitution of national, regional, or local educational policies of schooling, including job
+training programs, and the knowledge that is deemed legitimate and official.
+
+Liberal, Neoconservative, and Neoliberal States
+Liberal-pluralist theories of the state conceive this as a political system, as an autonomous political institution independent from the system of production and class
+structure. The state appears, then as a neutral referee overseeing and regulating the
+clashes between interest groups and eventually elites competing for resources conflict with the general interest of all citizens or when the state, pursuing independent
+activities, attempts to modernize society. The liberal view suggests that the state is the
+collective creation of its individual members, providing a set of common social goods,
+including defense, education, a legal system, and the means of enforcing that system
+to all the majority of citizens and legal residents. At this point, we would like to posit
+the following question: are there any connections between the conservative and the
+neoliberal state? Taking a world system approach based on Wallerstein’s work, the
+distinction of metropolitan, semiperipheral, and peripheral countries plays an important role in designating the nature of the state. Neoconservative political economy has
+emerged, partly, as a reaction to welfare states in metropolitan state formations. Many
+of these state formations have been characterized as industrially advanced societies or
+late capitalism. Indeed, the majority of neoconservative experiences have taken place
+in states that have not been historically subject to colonization. Moreover, with few
+exceptions, these states have not been colonized themselves, profiting from colonizing
+regions of the world later identified as Third World states.
+The notions of neoliberalism and the neoliberal state appear to be “exported” from
+the center to the periphery and semiperiphery. The point can be illustrated with a discussion of Latin America and regions of the South in the last few decades. No doubt,
+a neoliberal ideology and narrative are consolidated in the central countries. Given the
+
+--- [PDF Page 102 / Book Page 79] ---
+
+Theories of the State, Educational Expansion, Development, and Globalizations
+
+79
+
+implications of the liberal past of metropolitan societies, the specific debates within the
+political parties and the influence of neoconservative economics in globalization, the
+notion of neoliberalism in central countries appears almost interchangeable with the
+notion of neoconservatism in political economy. Lomnitz and Melnick (1991) argue
+that, historically and philosophically, neoliberalism has been associated with structural
+adjustment programs. Structural adjustment, in turn, is usually described as a broad
+range of policies recommended by the World Bank, the International Monetary Fund,
+and other financial organizations. Although the World Bank differentiates among stabilization, structural adjustment, and adjustment policies, it acknowledges that the
+general use of these terms “is often imprecise and inconsistent” (Samoff, 1990).
+Neoliberalism offers similar prescriptions. The politics of neoliberalism, when
+transported to the countries of the periphery, constitute a set of proposals that refer to
+the conditions of the countries of the South in the international context, particularly
+in the division of labor. Neoliberalism strives to pass the cost of educational services
+to clients through user fees, increasing the participation of the private sector in education (i.e., privatization), and promoting decentralization of educational services as a
+means of redefining the power and educational relations among federal, provincial,
+and municipal governments. These standard policy prescriptions overlap heavily with
+neoconservatism (Torres, 2007).
+Changes in state formation entail a change in the production of hegemony and commonsense interpretations of everyday life and, particularly, a change in the political
+alliances controlling the state, from liberalism to neoconservative and neoliberalism.
+Replacing the role of the state with the logic of the market in determining educational
+policy is criticized as a class strategy in the neoliberal state (Ball, 1993). A similar
+argument is made about the withdrawal of state investment in public education in Latin
+America and how that would affect the constitution of citizens as pedagogical subjects
+(Torres & Puiggrós, 1995). Changes in the labor process relate to the move away from
+a mode of production defined as the transformation of Fordism to a post-Fordist model
+(with implications for the process of skilling and deskilling of the labor force and the
+logic of technical control in curriculum) (Apple, 1982).
+
+From the Nation-State to Globalizations: A Critical Perspective
+Despite their increasing historical specificity, and because of their normative and analytical orientations, critical perspectives have, by and large, focused on the nation-state
+as the locus of politics and education. The notion of globalization, however, has transformed the debate, raising the stakes of emancipatory politics in education.
+Globalization has been defined as “the intensification of worldwide social relations which link distant localities in such a way that local happenings are shaped by
+events occurring many miles away and vice versa” (Held, 1991). Among other things,
+Held suggests that globalization is the product of the emergence of a global economy,
+expansion of transnational linkages between economic units creating new forms of collective decision making, development of intergovernmental and quasi-supranational
+institutions, intensifications of transnational communications, and the creation of new
+
+--- [PDF Page 103 / Book Page 80] ---
+
+80
+
+Olmos and Torres
+
+regional and military orders. The process of globalization is seen as blurring national
+boundaries, shifting solidarities within and between nation-states, and deeply affecting
+the identities of national and interest groups. Neil Smelser (1993) captures the spirit of
+this theme quite well.
+A convenient starting-point for depicting the world situation is to consider the status
+of the nation-state. Once commonly supposed to be the natural and sovereign focus of
+the loyalty and solidarity of its citizens, this idea of the state has recently been challenged with respect to all of these constituent elements. The international boundaries
+of the state have become permeable through the greater globalization of production,
+trade, finance, and culture with a resultant loss of control of all states over their own
+fortunes. The sovereignty of states has been further compromised through shifting patterns of regional political federations and alliances. At the sub-national level, the state
+has found itself challenged by the efflorescence and revitalization of solidarity groupings with multiple bases—regional, linguistic, religious, ethnic, gender, and solidarity.
+All of these compete with the state for the loyalties of peoples and sometimes for
+jurisdiction over territory. In a word, the contemporary state has been pressured from
+both above and below by contested boundaries and shifting solidarities.
+The capitalist state, although territorially defined, was born and develops a loose
+network of interrelated and overlapping jurisdictions. The regulatory framework for
+corporate capitalism which emerged from the last part of the nineteenth century was
+based on the nation-state but involved emulation and transplantation of forms, as
+well as international coordination; and it facilitated international ownership of capital
+through the transnational corporation which became the dominant form in the twentieth
+century. Transnational corporations have favored minimal international coordination
+while strongly supporting the national state, since they can take advantage of regulatory differences and loopholes. Processes of international coordination of states
+relying on national legitimation, have taken the form of bureaucratic-administrative
+bargaining though a motley network of informal structures as well as the more grand
+organizations. The growing globalization of social reactions has put increasing pressure on both national and international state structures (Ruccio et al., 1991)
+The growing internationalization of the state is still an open quo terms of its scope
+and dynamics. Likewise, the implications of this internationalization and globalization for educational policies, textbooks, and curriculum are hitherto lacking empirical
+and theoretical research. There are exceptions. In an eight-country study of reforms of
+teacher education, Popkewitz and Pereyra (1993) argued that international organizations, such as the Organization for Economic Cooperation and Development (OECD);
+and the European community are playing crucial roles in promoting changes in regulations governing teacher education.
+The role of international organizations in the process of globalization and the
+nation-state has been aptly discussed by Joel Samoff, who studied the World Bank’s
+logic of lending in education. By his account, the World Bank is one of the most
+prominent regulatory agencies of the capitalist system. Samoff argues persuasively
+that the World Bank is a major player in an intellectual and financial complex pursuing
+the transnationalization of knowledge and expertise, using a community of experts
+for hire in a process where there is a strong confluence of research and educational
+financing. The world is seen as having a pivotal role in the network of power and
+
+--- [PDF Page 104 / Book Page 81] ---
+
+Theories of the State, Educational Expansion, Development, and Globalizations
+
+81
+
+decision making in education worldwide, influencing in peculiar ways research and
+policy-making in developing countries as well as influencing the international discourse in education by different means. First and foremost is the commissioning of
+long-term research with abundant budgets. This terminology, as presented in most of
+the World Bank’s documents, is based mostly on a neoclassical economy of education, human capital theory, and a theory of the firm applied to education. Through its
+financial weight and operational reach, the World Bank also influences the methods of
+analysis considered appropriate and legitimate (e.g. cost-benefit analysis, input-output
+analysis, and rate of return), defends a technocratic instrumental rationality rather than
+a politically and historically informed policy orientation, and confers legitimacy to
+hypotheses and research findings that its experts deem useful and necessary for educational investment and development. Samoff (1992, 1993) would agree that there is a
+diversity of theoretical perspectives within the ranks of the World Bank’s researchers.
+But he points out that the organization’s logic is implacably applied in the context of
+its lending and that the workings of its managers in charge of lending are distant from
+the theoretical and empirical analysis of its researchers. The World Bank’s logic of
+analysis cannot be characterized as pluralistic. Although not free from tensions and
+contradictions, the organization is quite monolithic (Samoff, 1992, 1993). Similarly,
+in studying the influence of the World Bank in higher education throughout the world,
+Daniel Schugurensky has argued that the World Bank plays a role at an international
+level similar to the one played by the Business Roundtable in the United States with
+its agenda for educational reform. In short, there is an elective affinity between the
+policies promoted by the World Bank and the many neoliberal and neoconservative
+proposals emanating from the Business Roundtable (Schugurensky, 1994)
+
+The State and Education in Latin America
+We offer here a brief account of historical and theoretical context for a discussion on
+the state and education expansion in the Latin American region. The nineteenth-century liberal state, and the diverse state models that emerged in the wake of the struggles
+of the 1920s and the depression of the 1930s, granted to public education systems a
+major role in the integration and legitimation of the political systems a major role
+in the integration and legitimation of the political systems and the modernization of
+Latin American countries. As part of its development policies the state extended social
+benefits to vast sectors of the population, particularly in Argentina, Costa Rica, and
+Mexico. Education played a key role in these social programs, because mass schooling
+was viewed as a means of building a responsible citizen, skilled labor, and increasing
+social mobility. In the early 1960s, human capital theories and educational planning
+justified educational expansion not only as a good investment in skill training but also
+as a prerequisite for liberal democracy.
+The Latin American educational expansion during the early phase of industrialization in the 1960s accounts for the highest rates of educational growth in the world.
+Between 1960 and 1970, the indices of growth for higher education and secondary
+education were 247.9% and 258.3%, after which it grew by only 167.6%, while the
+illiteracy rate remained more or less constant in most countries of the area. One
+
+--- [PDF Page 105 / Book Page 82] ---
+
+82
+
+Olmos and Torres
+
+study of the late 1970s shows a fundamental continuity in this pattern of educational
+development. Ernesto Schiefelbein has argued that in the last four decades of the last
+century, Latin America made significant progress toward democracy by “(i) expanding
+access to education for most the children reaching school age; (ii) extending the years
+of schooling; (iii) improving timely entrance to school, (iv) providing early care to an
+increasing number of deprived children, and (v) increasing the provision of minimum
+inputs and eliminating tracks for social levels.” However, changes took place against
+this background, and were perhaps the result of a new global economy which was
+emerging and operated in very different ways from the former industrial economy.
+The old economy was based on high volume and highly standardized production with
+a few managers controlling the production process from above and a great number of
+workers following orders. Because of advances in transportation and communications
+technology and the growth of service industry, production has become fragmented
+around the world. The new global economy is more fluid and flexible, with multiple
+lines of power and decision making thus, while the public education system in the old
+capitalist order was oriented toward the production of a disciplined and reliable work
+force, the new global economy seems to have redefined the goals of public educations
+in development. The new roles for public education (and for many, the future of public
+education) is at stake in the current debates about education policy.
+From a political economy of education perspective, the performance of the economy
+is a major issue underpinning educational policies. The question is to what extent the
+prescribed recipes of structural adjustment as a cure to the economic malaise will
+help or hinder educational expansion, quality of education, and equality of educational
+opportunity in the region. This is the bedrock underscoring the political behavior of the
+main actors concerned with educational services in Latin America today, particularly
+teachers’ organizations, the neoliberal state and its agencies, and the role of international organizations, particularly the World Bank.
+It is imperative to situate the national and regional educational policies of Latin
+America within the context of global economic, political, and social changes of the past
+years. The current regional context was affected by innumerable changes including the
+rise of the newly industrialized countries in Asia and the Pacific rim, and its impact
+on the models of economic development in Latin America; the promise of consolidation of regional economic markets (European Economic Commission, NAFTA, and
+MERCOSUR); the intensification of competition among the major industrial powers of
+Germany, Japan, and the United States; the opening of Eastern Europe; and the resurgences of regional ethnic and religious conflicts. These changes and contradictions were
+increasingly related to the process of globalization of economies, cultures, and societies,
+showing how very powerful are structural forces involved in education at times of severe
+crisis and re-structuring of policy priorities and systems.
+
+State Corporatism and Theories
+Public education plays a major role in the legitimation of the political systems and the integrations and modernization of countries in Latin America in the context of corporatism
+
+--- [PDF Page 106 / Book Page 83] ---
+
+Theories of the State, Educational Expansion, Development, and Globalizations
+
+83
+
+and dependency. Although the “dependency perspective” should be placed in the context
+of broad schools of development as modernization, postimperialism, and interactive local
+political economy perspective among others, it focuses on the structure of international
+capitalism and the lack of availability of capital for autonomous expansion of a less developed economy. Modernization focuses on the nature and characteristics of the social
+structure of less developed countries as causes of underdevelopment. Postimperialism
+theories attempt to explain underdevelopment as part of a process of transnational class
+formation in the developing world. Finally the perspective that focuses on the interaction
+of social domestic forces using a modern political economy emphasizes that the complex
+interaction of domestic socioeconomic and political trends determine policy outcomes,
+insisting on the centrality of economic pressures by domestic socioeconomic actors in the
+determination of policy options and outcomes.
+Political economists of education and political sociologists from a dependency
+perspective have helped to identify the institutional identity of the state as crucial in
+understanding the role education has played in development and social change. The
+theory of the “conditioned states” in the Third World, expanding upon and clarifying
+the notion of the dependent state, argues that the state is conditioned “by the nature of
+the peripheral role that its economy plays in the world system and the significant (postfeudal) elements in its own political system”. Therefore, Latin American “conditioned
+states” have not been able to carry out their public functions properly for a number of
+reasons. On the one hand, the fragility of local economies made local dominant groups
+unwilling to allow the pluralist participation of the masses in the selection of the state
+bureaucracy. On the other hand, since the state historically has been identified by the
+popular sectors more as a pact of domination by the dominant classes, or a surrogate
+state, it has not been seen as an independent state working on behalf of the citizenry.
+Another question is the ability of the state to consolidate the nation and the market.
+Since the boundaries of the market are externally defined by the presence of external
+powers and multinational corporations, the definition of the nation is continually and
+historically re-elaborated by a complex matrix of exogenous-endogenous processes.
+More often than not the conditioned state has little control over its own political economy dynamics.
+While the notion of dependency, dependent-development, and the conditioned state
+set the tone for a discussion on the nature of the state in Latin America, drawing from
+the tradition of political corporatism, the notion of state corporatism from the political sociology of education has been employed to study the peculiar characteristics of
+political regimes in the region, in particular educational policy formation in Mexico.
+Education has played a fundamental role in the legitimation of the postrevolutionary state, and has contributed to state hegemony in Mexico. It has been argued that
+the corporatist nature of the postrevolutionary state has deeply conditioned the way
+educational policy has been organized, implemented, and evaluated, and that education
+(particularly adult education) in Mexico is part of a comprehensive project of compensatory legitimation. While the Mexican case is perhaps too specific, it could be argued
+that historical changes in the patterns of relationships between state and society during
+this century created the conditions for the widespread implementation of corporatist
+arrangements, and the development of corporatist states.
+
+--- [PDF Page 107 / Book Page 84] ---
+
+84
+
+Olmos and Torres
+
+The role of the conditioned state continues to be problematic for democracy and
+public education in the region. While we have argued that the institutional identity
+of the state is crucial in understanding the role education has played in development
+and social change, the notion of the dependent or “conditioned” state helps to understand not only the contradictions in public policy formation, but also the disparate
+roles and functions that the Latin American states play in the context of peripheral
+capitalism. Conditioned by the dynamic of metropolitan capitalism, the significant
+noncapitalist (although perhaps postfeudal) elements in its own political system, and
+the political alliance in power, the nature of the democratic state in the region continues to pose serious constraints to the political and economic democratization of
+civil societies. This is more so when, despite the political shortcomings of the Latin
+American democracies and their limitations in endowments and resources, the liberal
+state in the region attempted to develop a system of public education that provided
+access and permanence to the system of public education that provided access and
+permanence to the system to vast sectors of the population, including the poor. The
+policy rationale was clearly synthesized by the premise that the state should “educate
+the sovereign”. A critical extension but also de-construction of this premise emerged
+in the 1960s with the notion of a pedagogy of the oppressed, conscientization, and
+popular education. The current debate in the region is, on the one hand, whether the
+systematic withdraw of resources from public education under the political economy
+of neoliberalism has deeply affected the traditional educational role of the states, the
+performance of the systems vis-à-vis equality of educational opportunity and quality of education, and by implication the nature of the democratic pact. On the other
+hand, the prevailing theories and methodologies and the political–technical rationale
+for educational planning, are seen as subsidiary to the main goals of neoliberalism.
+These goals were expressed by international institutions like the IMF and World Bank
+with their political economy of conditionalities and policy references, but were also
+accepted and graciously implemented by neoliberal states in the region. The question
+is whether, given the processes of globalization, these internationally induced policies are compatible with fundamental notions of democratic accountability national
+sovereignty, and community empowerment. The question about the nature of the state
+and public policy is also a question about the future of public education in Latin
+America.
+
+Conclusion
+Current social, political, and economic changes in Latin America underscore the pace,
+texture, and scope of educational development, educational quality, and the relevance
+of education. In this context, educational planners and communities deal with the implications of the lack of economic growth in the 1980s and 1990s, the growing external
+debt, increasing fiscal constraints, and intended and unintended impacts of structural
+adjustment of economies and neoliberal states and policies. Alas, the relationships
+between education and social change continue to be revisited by those seeking educational reform, but the challenges of poverty remain seemingly intractable for public
+policies—especially education—and democracy.
+
+--- [PDF Page 108 / Book Page 85] ---
+
+Theories of the State, Educational Expansion, Development, and Globalizations
+
+85
+
+It is in the framework of this historical dialectical totality where the comprehension
+of neoliberalism and globalization should insert themselves as foundational phenomena
+of a new articulation of capitalistic domination, as primogenital forces from an intent
+of rearticulating the relationships between the economic-technical subsystems and the
+social-political-institutional sphere with a new qualitative connection among them.
+Globalization is a sine qua non condition for the modern day phase of capitalism,
+given the widespread movement of capital and the necessity to squash/destroy worker
+resistance throughout the planet. One must remember that globalization is constructed
+from the pillars of liberalization of the flow of capital, deregulation (flexibilization in the
+capital-work relationship and liquidation of the social security) and competitiveness—
+the last one understood as the unrestricted application of the two previous requisites.
+The crisis of the neoliberal model does not follow a symmetric rhythm thus, given
+the particularity of Latin America in historic cycles, it is very likely that this model
+intends to implant itself in a phase in which it has lost international sustentation.
+A large spectrum of alliances should be constructed, all of their efforts concentrated,
+to coincide with the anticapitalist and libertarian character from the construction of an
+alternative to neoliberalism and exclusionary globalization.
+As Daniel Bensaid affirms, Marxist thought flourished as a result of the rigorous
+research that demonstrates the extent to which the spectrums of Marxism impact the
+present. The new century appears to be a promising period of creativity for the tradition of this theoretical framework.
+The Marxist tradition as a social and political science of emancipation tied with the
+sciences of current times, as part of a cognitive process of transformation and joint
+action, is an interwoven praxis which should be recuperated. To reconstruct this critical
+reason in the face of the growth of cynical reason is essential.
+Constructing partial synthesis and successive approximations, reconstructing the
+dialectic as a method and way of knowing, and associating the “cold” side of Marxism
+(science) with its “hot” phase (utopia), knowledge and praxis, will be how the creation
+and revolutionary interpretation of reality develops, so that Marxism continues to be
+as Gramsci said, a “Philosophy of Praxis.”
+
+References
+Amadeo, J. (2006). Mapeando el marxismo. In: A. Boron, J. Amadeo & S. González (Eds.), La teoría marxista hoy. Problemas y perspectivas. Buenos Aires, CLACSO.
+Apple, M. W. (1982). Curricular form and the logic of technical control: Building the possessive individual.
+In M. W. Apple (Ed.), Cultural and economic reproduction in education: Essays on class, ideology, anti
+the stale (pp. 247–274). London: Routledge & Kegan Paul.
+Arnove, R. & Carlos A. Torres (Eds.) (2007). Comparative education: The dialectics of the global and the
+local, 3rd edn. Lahman, MD: Rowman & Littlefield (in press).
+Audry, C. A. (1998). “Los orígenes del Neoliberalismo”. En: Desde los cuatro puntos, N 1, p. 22. México.
+Ball, S. J. (1993). Educational markets, choice and social class: The market as a class strategy. British
+Journal of Sociology of Education, 14, 3–19.
+Bensaïd, D. (1999). Marx, o intempestivo. São Paulo: Civilização Brasileira.
+Boron, A. (2005). Las ciencias sociales en la era neoliberal: entre la academia y el pensamiento crítico.
+Conferencia Magistral pronunciada en el XXV Congreso ALAS (Asociación Latinoamericana de
+Sociología), Porto Alegre, Brazil.
+
+--- [PDF Page 109 / Book Page 86] ---
+
+86
+
+Olmos and Torres
+
+Borón, A. (2006). Por el necesario (y demorado) retorno del marxismo. In A. Borón, J. Amadeo & S.
+González (Eds.), La teoría marxista hoy: problemas y perspectivas, Buenos Aires, CLACSO.
+Carnoy, M. (1992). Education and the state: From Adam Smith to perestroika. In R.F. Arnove, P. G. Altbach,
+& G. P. Kelly (Eds.), Emergent issues in education: Comparative perspectives (pp. 143–159). Albany,
+NY: State University of New York Press.
+Carnoy, M. & Samoff, J. (1990) Education and Social Translation in the Third World: China, Cuba, Tanzania,
+Mozambique and Nicaragua, Princeton, N.J.: Princeton University Press.
+Chesnais, F. (1994). La mondialisation du capital. Editions Syros, París dos Santos, Theotonio. La Teoría de
+la Dependencia. Un balance histórico y teórico. En: Los retos de la Globalización. Ensayo en homenaje
+a Theotonio Dos Santos. TOMO I. UNESCO – Caracas. Unidad Regional de Ciencias Sociales Humanas
+para América Latina y el Caribe 1998.
+Freire, P. (1994). Cartas a Cristina. São Paulo: Paz e Terra
+Ginsburg, M. (Ed.) (1991). Understanding Educational Reform in Global Context: Economy, Ideology, and
+the State. Garland Publishing, Inc., New York, NY.
+Ginsburg, M. (1993). Book Review of The State, Corporatist Politics, and Educational Policy Making in
+Mexico by D. A. Morales-Gómez and C. A. Torres. Comparative Education Review, 3(37):325–326.
+Held, D. (1991). Political Theory Today. Stanford: Stanford University Press.
+Lomnitz, L. & Melnick, A. (1991). Chile’s middleclass: A struggle for survival in the face of neoliberalism.
+Boulder, CO: Lynne Rienner.
+Morrow, R. & Torres, C.A. (2007). The State, Social Movements, and Educational Reform. In: R. Arnove
+& C. A. Torres (Eds.). Comparative education: The dialectics of the global and the local. Lahman, MD:
+Rowman & Littlefield.
+Petras, J. (1997). Neoliberalismo en América Latina. Rosario, Argentina: Homo Sapiens Ed.
+Popkewitz, T. S. & Pereyra, M. A. (1993). An eight country study of reform practices in teacher education:
+An outline of the problematic. In T. S. Popkewitz ( Ed.) Changing patterns of power: Social regulation
+and teacher education reform. Albany, State University of New York Press.
+Ruccio, D., Resnick, S., & Wolf, R. (1991). Class beyond the nation-state. Capital and Class, 43, 25–42.
+Samoff, J. (1990). More, Less, None? Human Resource Development: Responses to Economic Constraint.
+Unpublished paper, Palo Alto, CA.
+Samoff, J. (1992, July). The financial intellectual complex. Paper presented at the World Congress of
+Political Science, Buenos Aires, Argentina.
+Samoff, J. (1993). The reconstruction of schooling in Africa. Comparative Education Review, 37, 181-222
+Schiefelbein, E. (1998). Financing Education for Democracy in Latin America, page 32. In C. A. Torres
+and A. Puiggros (Eds.), Latin American Education: Comparative Perspectives. Boulder, CO: Westview
+Press.
+Smelser, D. H. (1993). International Sociological Association Bulletin, 60, 5.
+Schugurensky, D. (1994). Global economic restructuring and university change: The case of Universidad de
+Buenos Aires. Unpublished doctoral dissertation, University of Alberta, Edmonton, Alberta, Canada.
+Torres, C. A. (1991). State corporatism, education policies, and students’ and teachers’ movements in
+Mexico. In: M. Ginsburg (Ed.) Understanding reform in global context: Economy, ideology and the
+state (pp.115–150). New York: Garland.
+Torres, C. A. & Puiggrós, A. (2007). The State and Public Education in Latin America. In C. A. Torres, The
+political sociology of education. Collected works. New York: Teachers College Press.
+Torres, C. A. (2007). Education and neoliberal globalization: Oppositional essays. New York: Routledge.
+Torres, C. (2007a). The political sociology of education. Collected works. New York: Teachers College
+Press—with a foreword by Michael Apple (in press).
+Torres, C. (2007b). Education and neoliberal globalization: Oppositional essays. New York: Routledge—
+with a foreword by Pedro Noguera (in press).
+UNESCO (1974). Evolución Reciente de la Educación en América Latina Santiago de Chile: UNESCO pp.
+167 and 127.
+UNESCO/CEPAL/PNUD (1981). Desarrollo y Educación en América Latina: Síntesis General. Buenos
+Aires: Proyecto DEALC.
+Wallerstein, L. (1979). The capitalist world economy. Cambridge, England: Cambridge, University Press.
+

@@ -2,10 +2,12 @@
 title: Policy Borrowing
 aliases:
   - 政策借用
+  - Educational Borrowing
+  - 教育借用
 summary: "教育改革选择性参照外部政策经验并在本地重新解释、合法化和变形的过程，是比较教育分析跨国改革流动的核心概念"
 type: concept
 domain: "comparative-education"
-related_count: 50
+related_count: 60
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -17,9 +19,12 @@ tags:
 - education-policy
 - region/global
 related_concepts:
+  - "[[Paradigm]]"
   - "[[Hypothesis]]"
-  - "[[Policy Entrepreneur]]"
   - "[[Externalization]]"
+  - "[[Policy Entrepreneur]]"
+  - "[[Value Neutrality]]"
+  - "[[Educational Meliorism]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Transitology]]"
   - "[[Praxis]]"
@@ -51,20 +56,27 @@ related_theories:
   - "[[Wight's Three Traditions of International Theory]]"
 related_methods: []
 related_persons:
+  - "[[Horace Mann]]"
+  - "[[Marc-Antoine Jullien]]"
+  - "[[Victor Cousin]]"
   - "[[Michael Sadler]]"
   - "[[Eleftherios Klerides]]"
   - "[[Gita Steiner-Khamsi]]"
+  - "[[Andreas Kazamias]]"
   - "[[Robert Cowen]]"
   - "[[Jurgen Schriewer]]"
   - "[[Paul Morris]]"
 related_facts:
   - "[[Parliamentary Office of Science and Technology]]"
+  - "[[Guizot Law of 1833]]"
   - "[[Sputnik Shock 1957]]"
   - "[[OECD]]"
   - "[[PISA]]"
+  - "[[Grammar School]]"
   - "[[Liberal Studies]]"
 related_arguments:
   - "[[Argument_Yan_2025_JCS]]"
+  - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
   - "[[Argument_Rappleye_2006_RCIE]]"
   - "[[Argument_Cowen_2009_CE]]"
   - "[[Argument_Amos_2022_Springer]]"
@@ -75,7 +87,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-07-13
+updated: 2026-09-06
 ---
 
 # Policy Borrowing
@@ -84,24 +96,52 @@ updated: 2026-07-13
 
 ## 定义
 
+政策借用是比较教育学最具解释力的核心分析[[Paradigm|范式]]之一，揭示了跨国教育经验在本土政治博弈中的选择性转化机制：
+
 > [!def] 核心定义
-> **政策借用（Policy Borrowing）** 指国家或地区在教育政策制定中有选择地参照外部教育模式、实践和论述的过程。与其[[Hypothesis|假设]]“最佳实践”从中立技术角度直接跨国移植不同，政策借用框架指出决策者往往是**先有国内议程，再借用全球论述来合法化该议程**。
+> **政策借用（Policy Borrowing）** 指主权国家或地区在教育政策制定与体制重构中有选择地参照外部教育模式、实践与论述的复杂过程。与其[[Hypothesis|假设]]“最佳实践”从中立技术角度直接跨国移植不同，政策借用框架指出决策者往往是**先有国内改革议程或治理危机，再借用外部话语与制度实绩来合法化该议程**。在 19 世纪现代主义发端期，政策借用表现为以救治母国危机为导向的官方行政直接移植（如库森主笔 1833 年基佐法案）与政治正当性辩护（如[[Horace Mann|霍勒斯·曼]]开创的合法化借用）；而在当代全球化语境下，它进一步演进为政策行动者操纵高声望国际话语以推进国内争议议程的“[[Externalization|外化]]”修辞策略。[[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 482]]; [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 24–34)]]
+
+该概念为解构跨国政策流动背后的政治权力博弈提供了核心透镜：
 
 > [!concept-lens] 概念透镜
-> - **含义** 政策借用指向的是在外部教育模式被引入本地语境时，决策者、[[Policy Entrepreneur|政策企业家]]与公众之间围绕政策的“[[Externalization|外化]]”合法化论证与“形态变异”重构关系。
-> - **用途** 它帮助研究者解构教育改革中“方案先行、问题后建”的政治修辞，看见政策引进背后的真实国内政治考量与合法性焦虑。
-> - **边界** 它不适合解释没有政治合法化需求的政策移植（如高压威权命令下的强推），也不等同于客观理性的跨国教育学习。
+> - **含义** 政策借用指向的是在外部教育模式被引入本地语境时，决策者、[[Policy Entrepreneur|政策企业家]]与公众之间围绕政策的“[[Externalization|外化]]”合法化论证、制度技术转置与“形态变异”重构关系。
+> - **用途** 它帮助研究者解构教育改革中“方案先行、问题后建”的政治修辞，辨识政策引进背后的真实国内政治考量、国家建制诉求与合法性焦虑。
+> - **边界** 它不适合解释没有国内合法化协商需求的单方面强权命令推行，也不等同于[[Value Neutrality|价值中立]]、客观理性的纯技术学习。
 
-> [!citation-card]- 关键表述
-> 决策者通常被认为是在动用广泛传播的全球话语，来合法化和推广那些在国内存在争议的议程。
+跨国政策借用的开驱先辈与当代学者在经典论述中确立了这一范式的核心命题：
+
+> [!citation-card]- 关键表述一：当代政策借用的政治合法化外化定义（2012）
+> 决策者通常被认为是在动用广泛传播的全球话语，来合法化和推广那些在国内存在争议的议程。[[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 482]]（引自 Steiner-Khamsi, 2012）
 >
 > *Policy makers are seen to harness well-travelled global discourses to legitimate and promote domestic agendas which are controversial.*
+
+19 世纪欧陆政策借用先驱确立了以母国建制为绝对归宿的审慎借用公理：
+
+> [!citation-card]- 关键表述二：维克多·库森论审慎借用的双重公理（1831）
+> 一个民族的真正伟大不在于对他人一无所仿，而在于处处借用优良之物，并在吸收改造中使其臻于完善。如果说我考察的是普鲁士，那么我心中始终牵挂的都是法兰西。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 25, 30; Brewer, 1971, p. vii)]]
 >
-> —— [[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 482]]（引自 Steiner-Khamsi, 2012）
+> *The true greatness of a people does not consist in imitating nothing from others, but in borrowing everywhere what is good and in perfecting it while appropriating for oneself.*
+
+北美公学先驱确立了考察外国制度的辩证准则：
+
+> [!citation-card]- 关键表述三：霍勒斯·曼论考察外国经验的“明灯与烽火”（1844）
+> 外国机构的盛名吸引了曼的注意……如果发现其中有任何值得采纳之处，便将其转移过来以促进我们的改良……对曼而言，首要之务是寻找足以示警的烽火，以及用以引路的明灯。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, p. 31; Downs, 1974, p. 88)]]
+>
+> *The celebrity of institutions in foreign countries had attracted his attention ... and if anything were found in them worthy of adoption, of transferring it for our improvement ... Of first importance to Mann was to find 'beacons' to terrify as well as lights to guide.*
+
+现代比较教育思想史家揭示了北美早期借用机制的政治合法化实质：
+
+> [!citation-card]- 关键表述四：卡洛扬纳基与卡扎米亚斯论借用作为国内改革的合法化依据（2009）
+> 毫无疑问，与欧洲人一样，美利坚的决策者和行政官员同样受到从海外汲取有益教训这一愿望的驱动，但其目的绝非[[Marc-Antoine Jullien|朱利安]]和[[Victor Cousin|库森]]所理解的那种教育借用或制度移植。更为确切的表述应当是：美国的[[Educational Meliorism|改良主义]]者远赴海外寻找教训，主要是为了将其用作推进合众国国家公共教育改革的雄辩的合法化依据。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, p. 34)]]
+>
+> *It would be more accurate to say that the American meliorists sought 'lessons' from abroad to use as legitimating rationales for the reform of national public education in the United States.*
+
+在理论适用范围上，必须厘清该概念的核心边界条件：
 
 > [!boundary]- 概念边界
 > - 不等于 [[World Society Theory|世界文化理论]] — 世界文化理论强调全球趋同与规范内化（供给端），政策借用强调选择性借用与政治修辞工具性（需求端）。
 > - 不等于 政策转移（Policy Transfer） — 政策转移预设“最佳实践”的中立搬运，政策借用关注借用话语背后的地缘竞争、合法化操纵与本土[[Transfer Translation Transformation|转译]]。
+> - 不等于 盲目机械照搬（Blind Copying） — 经典政策借用要求立足本土情境进行批判性改造，抽取合用部分而排斥有害异质成分。
 > - 不适用于 威权高压统治 — 当决策者拥有足够强的国内政治强制力，不再需要通过外化来降低国内阻力时，合法化外化需求消失，该框架失效。[[Argument_Yan_2025_JCS|Yan & Morris (2025, p. 491)]]
 
 ---
@@ -124,7 +164,7 @@ updated: 2026-07-13
 > - **合法化功能（Legitimation）** 借用具有高国际声望的教育话语为争议性国内决定提供正当性护航。([[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 482]])
 > - **方案先行、问题后建** 决策者往往在引入国际参照前已确定改革方案，随后才建构与之匹配的“体系陈旧”问题。([[Argument_Yan_2025_JCS|Yan & Morris, 2025, pp. 486–487]])
 > - **四阶段循环模型** 政策流动的完整生命周期，涵盖[[Cross-National Attraction|跨国吸引力]]、决策、实施到内化／[[Going Native|本土化]]。([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 225]])
-> - **形态变异（Morphing）** 借用的教育政策元素在进入本地语境后，发生实质性的形态翻译与功能[[Transfer Translation Transformation|转译]]。([[Argument_Cowen_2009_CE|Cowen, 2009, pp. 319–320]])
+> - **形态变异（Morphing）** 借用的教育政策元素在进入本地语境后，发生实质性的形态翻译与功能[[Transfer Translation Transformation|转译]]。([[Argument_Cowen_2009_CE|Cowen, 2009b, pp. 319–320]])
 > - **吸引力火花（Attraction Sparks）** 政策辩论中使用外国范例的四种动机：丑闻化、合法化、警示与颂扬。([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 229]])
 
 > [!logic-map]- 要素关系
@@ -176,8 +216,11 @@ updated: 2026-07-13
 
 > [!features] 政策借用行为的特征
 > - **选择性借用（Selective Borrowing）** 决策者并不照搬外部的整个体系，而是有选择地抽取适合国内议程的特定政策元素。
-> - **翻译与变异（Translation and Morphing）** 借用的政策元素在进入本地语境时发生实质性的形态翻译与功能[[Transfer Translation Transformation|转译]]，以适应本土环境并承载不同的政治意图。([[Argument_Cowen_2009_CE|Cowen, 2009]])
-> - **吸引力“火花”（Attraction Sparks）** 在政策辩论中调动外部范例的四种修辞动机，包括丑闻化、合法化、警示与颂扬。
+> - **审慎借用双重公理（Dual Axioms of Judicious Borrowing）** 19 世纪欧陆先驱[[Victor Cousin|维克多·库森]]确立的经典公理：民族国家立足点公理（“考察普鲁士，心系法兰西”）与审慎吸收改造公理（“民族的真正伟大在于处处借用优良之物并在吸收改造中使其臻于完善”），确立了超越沙文主义排外与盲目机械照搬的借用准则。([[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias, 2009, pp. 25, 30]])
+> - **实定法直接转置机制（Direct Legislative Transplantation）** 欧陆官方决策精英通过跨国调研外部法典，以法哲学奠基消除正当性赤字，直接将外国技术条款法典化为母国强制立法（如基于普鲁士聚芬法案确立的法国[[Guizot Law of 1833|1833年基佐法案]]）。([[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias, 2009, pp. 27–29]])
+> - **政治合法化转译机制（Legitimation Rationale Translation）** 北美分权民主语境下，改革者（如[[Horace Mann|霍勒斯·曼]]）战略性剥离外部专制外壳，抽取公学实绩作为反击本土保守派、为争议改革确立政治正当性的论证依据。([[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias, 2009, pp. 31–34]])
+> - **翻译与变异（Translation and Morphing）** 借用的政策元素在进入本地语境时发生实质性的形态翻译与功能[[Transfer Translation Transformation|转译]]，以适应本土环境并承载不同的政治意图。([[Argument_Cowen_2009_CE|Cowen, 2009b]])
+> - **吸引力“火花”（Attraction Sparks）** 在政策辩论中调动外部范例的四种修辞动机，包括丑闻化、合法化、警示与颂扬。([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 229]])
 > - **认证效应（Certification Effect）** 跨国教育理念或实践的借用对本地教育改革产生认证效应，为本地已启动或酿响中的改革提供声望与正当性。
 
 ---
@@ -211,6 +254,9 @@ updated: 2026-07-13
 > [!claim] Klerides, E.
 > **[[Governing at a Distance|远处治理]]的技术中介** 在[[Rationalism in International Relations|理性主义]]多边治理机制下，比较教育中看似客观的国际标准、基准测试（benchmarking）和大数据评估（如 [[PISA]]），实质上是超国家组织和跨国机构行使“远处治理”（governing from a distance）的软性控制技术。这些科学化指标远程工具化引导着国家教育政策调整，从而将外部施加的治理规则内化为本土教育借用的正当性强制力。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 425]])
 
+> [!claim] Kaloyannaki, P. & [[Andreas Kazamias|Kazamias, A.]] M.
+> **权力结构分流与作为合法化依据的政策借用** 政策借用的政治合法化功能早在 19 世纪比较教育学发端阶段便已成熟运作。政权体制的权力结构直接决定了跨国知识的处理方式：法国中央集权官僚体制允许行政决策者（如[[Victor Cousin|维克多·库森]]）将普鲁士经验直接写入国家实定法（1833 年基佐法案）；而在美国联邦分权与民主协商语境下，以[[Horace Mann|霍勒斯·曼]]、卡尔文·斯托与亨利·巴纳德为代表的改革者缺乏行政强制权力，被迫将外部探究从“制度技术移植”根本转向“政治正当性辩护”。改革者战略性剥离欧洲专制外壳，抽取其公学实绩作为强有力的政治合法化依据（legitimating rationales），以此反击波士顿保守学监联盟与正统教会对体罚废除与公税办学的围攻，为合众国建立普及、免费且由公税支持的公共学校（Common School）确立无可撼动的正当性基石。([[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias, 2009, pp. 26–34]])
+
 ---
 
 ### 命题类型三　教育政策在跨国转移中必然因微观政治介入而发生形态变异与本土转译
@@ -219,7 +265,7 @@ updated: 2026-07-13
 > 这一视角关注教育政策跨国流动时的非线性转译特征，剖析外部元素在输入端被本土微观权力裁剪、扭曲和变形的微观过程。学者们共同致力于消解“原装移植”的幻想。
 
 > [!claim] [[Robert Cowen|Cowen, R.]]
-> **“转移-转译-变形”的形态变异** 教育改革在跨国转移（Transfer）之初，就不可避免地与本土的微观政治权力、阶级关系与制度利益相缠斗。经过在语言层面的文字翻译和制度层面的本土转译（Translation）后，外部元素在本土落地实施的最终阶段必然发生功能和结构上的变形（Transformation/Morphing），重构为适应本土环境并服务于本土微观统治权力的工具。([[Argument_Cowen_2009_CE|Cowen, 2009, pp. 319–320]])
+> **“转移-转译-变形”的形态变异** 教育改革在跨国转移（Transfer）之初，就不可避免地与本土的微观政治权力、阶级关系与制度利益相缠斗。经过在语言层面的文字翻译和制度层面的本土转译（Translation）后，外部元素在本土落地实施的最终阶段必然发生功能和结构上的变形（Transformation/Morphing），重构为适应本土环境并服务于本土微观统治权力的工具。([[Argument_Cowen_2009_CE|Cowen, 2009b, pp. 319–320]])
 
 > [!claim] [[Jurgen Schriewer|Schriewer, J.]]
 > **[[Autopoiesis|自创生]]系统的自我参照** 教育系统作为一个“自创生”（Autopoietic）的闭环，不是被动的、刺激-反应的线性移入体系。任何被借用的国际参考或外部话语，都只是一个触发源，系统只以自身既有的运作逻辑对外部进行“自我参照的反射”，并由本土网络在本土语境下重新折射和构型。([[Argument_Rappleye_2006_RCIE|Schriewer, 2003, 引自 Rappleye, 2006, pp. 228–229]])
@@ -245,7 +291,7 @@ updated: 2026-07-13
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **工具性借用与情境冲突** | 地缘竞争焦虑驱动工具性借鉴，常因本土历史文化防护引发体制排异 | 地缘危机恐慌期或赶超式改革语境 | Sadler; Klerides |
-> | **外部化合法化与政治修辞** | 操纵国际高声望话语进行“外化”论证，以合法化既有的本土政治议程 | 内部争议性大、需要寻求外部共识背书的决策 | Steiner-Khamsi; Klerides |
+> | **外部化合法化与政治修辞** | 操纵国际高声望话语进行“外化”论证，以合法化既有的本土政治议程 | 内部争议性大、需要寻求外部共识背书的决策 | Steiner-Khamsi; Klerides; Kaloyannaki & Kazamias |
 > | **流动转译与形态变异** | 政策元素在转移中必然经历本地转译，在微观权力作用下产生[[Praxis\|实践]]变形 | 跨国政策移植的落地与实施阶段 | Cowen; Schriewer; Klerides |
 > | **合法化功能与行政强力边界** | 借用话语作为合法化策略，在政府拥有绝对命令权力的语境下面临失效 | 政治环境剧变、强制性行政权力接管时期 | Yan & Morris |
 
@@ -254,13 +300,14 @@ updated: 2026-07-13
 ## 概念演变
 
 > [!dev-timeline] 政策借用概念的理论演变
+> - **1830–1850 — 19世纪行政实定法转置与政治合法化先声** 跨大西洋两岸借用机制发生深刻分流：欧陆由[[Victor Cousin|维克多·库森]]以“审慎借用”准则将普鲁士 1819 年聚芬法案技术条款直接法典化为法国[[Guizot Law of 1833|1833年基佐法案]]的实定法直接转置模式；北美由[[Horace Mann|霍勒斯·曼]]以“示警烽火与引路明灯”辩证剥离专制外壳，开创将外国公学实绩作为击败国内反对派政治合法化依据（legitimating rationales）的模式。([[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias, 2009, pp. 24–34]])
 > - **1996–2000 — [[Transitology|转型学]]宏观背景** Cowen 提出 education 转型学双轴模型，将国际参照分析嵌入到晚期现代性社会系统翻转的宏观背景中。([[Argument_Amos_2022_Springer|Amos, 2022, pp. 53–56]])
 > - **2000 — 政策借用[[Analytic Framework|分析框架]]系统化** Steiner-Khamsi 系统阐述政策借用分析框架，向去政治化、中立移植的理性模式发起挑战，指出教育借用本质上属于政治合法化工具。([[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 482]])
 > - **2002 — [[Cross-National Attraction|跨国吸引力]]结构类型学** Ochs & Phillips 提出跨国吸引力的结构类型学，系统归纳了六类政策焦点与 13 种情境因子。([[Argument_Rappleye_2006_RCIE|Ochs & Phillips, 2002, 引自 Rappleye, 2006, pp. 225–226]])
 > - **2003 — [[Externalization|外化]]话语概念提出** Schriewer 提出教育系统通过“外部化”将国内问题投射到“国际趋势”或“传统”话语中的过滤与合法化机制。([[Argument_Rappleye_2006_RCIE|Schriewer, 2003, 引自 Rappleye, 2006, pp. 230–232]])
 > - **2003–2004 — 四阶段循环模型系统化** Phillips & Ochs 整合推出跨国吸引力、决策、实施、[[Going Native|本土化]]的四阶段循环生命周期模型。([[Argument_Rappleye_2006_RCIE|Phillips & Ochs, 2003, 引自 Rappleye, 2006, p. 225]])
 > - **2006 — 跨国吸引力情境地图** Rappleye 提出推拉力情境[[Concept Mapping|概念地图]]，理清了[[Pre-Transfer Agency|前转移能动性]]与多层次结构因素的作用机制。([[Argument_Rappleye_2006_RCIE|Rappleye, 2006]])
-> - **2009 — 形态变异理论主张** Cowen 建立“转移—[[Transfer Translation Transformation|转译]]—变形”链条，论证政策元素在跨国流动中由于微观权力的介入必然发生形态变异。([[Argument_Cowen_2009_CE|Cowen, 2009]])
+> - **2009 — 形态变异理论主张** Cowen 建立“转移—[[Transfer Translation Transformation|转译]]—变形”链条，论证政策元素在跨国流动中由于微观权力的介入必然发生形态变异。([[Argument_Cowen_2009_CE|Cowen, 2009b]])
 > - **2012 — 政治借用与实质学习的系统区隔** Steiner-Khamsi 系统界定“政治借用”（选择性、仪式性）与“实质学习”（开放、交流性）的分野。
 > - **2023 — 怀特三大传统地缘解构** Klerides 将[[Wight's Three Traditions of International Theory|国际关系三大传统]]（[[Realism in International Relations|现实主义]]、[[Rationalism in International Relations|理性主义]]和[[Revolutionism|革命主义]]）引入政策借用研究，将政策借用与地缘政治焦虑深度绑定，完成了概念的批判性地缘政治学转向。([[Argument_Klerides_2023_CE|Klerides, 2023]])
 > - **2025 — 威权/高压政治语境下的分析失效边界** 政策借用作为合法化工具的理论适用性被明确界定在“半开放协商政治”的权力边界内，高压威权与行政命令直接接管的现象为该框架确立了失效边界。([[Argument_Yan_2025_JCS|Yan & Morris, 2025]])
@@ -281,7 +328,7 @@ updated: 2026-07-13
 > [!critique] 学术学理与方法论批判
 > - **书面文本偏见** 传统的政策借用研究过度局限于国家的官方书面政策文件，忽视了在“统治向治理转变”（[[Government to Governance Shift]]）中，非官方与去中心化网络中话语权力流转的微观机制。([[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]])
 > - **[[Methodological Statism|方法论国家主义]]（[[Methodological Nationalism]]）** 将主权国家预设为分析的自然与唯一单位，从而遮蔽了跨国资本、网络行动者在无边界空间中的流动，并掩盖了地缘支配的后殖民权力关系。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 421]])
-> - **“形态变异”的归因模糊性** 在经验上很难清晰辨定，政策转移到本地后的形态变异究竟是决策者在引入阶段的“主动裁剪”（如 Cowen 的 Morphing 理论），还是在本土实施过程中“被动发生的情境适应”。([[Argument_Cowen_2009_CE|Cowen, 2009]])
+> - **“形态变异”的归因模糊性** 在经验上很难清晰辨定，政策转移到本地后的形态变异究竟是决策者在引入阶段的“主动裁剪”（如 Cowen 的 Morphing 理论），还是在本土实施过程中“被动发生的情境适应”。([[Argument_Cowen_2009_CE|Cowen, 2009b]])
 
 > [!warning] 适用局限
 > - **高压政治语境下的分析失效** 政策借用框架仅在“政府仍需借助外部话语来降低国内阻力、获取合法性”的半开放政治边界内有效。当政府拥有超强且稳固的强制性主权权力时，其可直接依据法律与行政命令强推方案，[[Externalization|外化]]到“国际先进经验”的需求彻底消失，该框架也随之失去了分析对象。[[Argument_Yan_2025_JCS|Yan & Morris (2025, p. 491)]]
@@ -291,6 +338,7 @@ updated: 2026-07-13
 ## 相关研究
 
 > [!evidence-grid] 典型研究与应用案例
+> - **19 世纪欧美跨国借用分流：法国[[Guizot Law of 1833|基佐法案]]实定法转置 vs 北美马萨诸塞公学运动政治合法化反诘** [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] 系统剖析了 19 世纪欧美跨国借用的机制分野。在法国，[[Victor Cousin|维克多·库森]]作为哲学家兼行政决策者赴德考察，发表 1831 年《普鲁士公共教育现状报告》，并主笔将其条文系统法典化为奠定法国国民初等教育基石的 [[Guizot Law of 1833|1833年基佐法案]]，开创欧陆“实定法直接转置”模式；而在美洲，[[Horace Mann|霍勒斯·曼]]身处联邦分权与缺乏中央强制命令的博弈语境，面对波士顿 31 位[[Grammar School|文法学校]]校长与正统教会对公学改革的猛烈围攻，战略性剥离普鲁士君主专制外壳，抽取其公学师训与直观教学实绩，以“专制君主尚能办好公学、自由共和国任由公民愚昧岂非文明耻辱”发起降维政治反诘，开创了将外部成功实绩作为国内争议改革合法化依据（legitimating rationales）的经典比较借用[[Paradigm|范式]]。
 > - **[[Liberal Studies|香港通识教育科]]（LS）创立与废除** [[Argument_Yan_2025_JCS|Yan & Morris (2025)]] 追踪了 LS 从创立到废除的完整生命周期。在创立阶段（2009），港府以“[[Lifelong Learning|终身学习]]”“[[Knowledge-Based Economy|知识经济]]”和 [[IB Diploma Programme|IBDP]] 话语论证改革必要性，这些全球论述被高度工具性地用来解决本地政治问题（政府合法性下降、学制调整需求）。在废除阶段（2021），随着政治局势剧变，全球参照话语彻底消失，以“国家安全”和主权控制为唯一逻辑，展现了借用行为对本地政治合法性需求的依附。
 > - **香港与英格兰的双向借用及 LS and IBDP 比较** Forestier & Crossley (2015) 揭示了香港与英格兰之间“双向借用”的对流特征。而 Forestier et al. (2016) System 比较了香港通识科（LS）与[[International Baccalaureate|国际文凭]]课程（IBDP）的课程设计，证实了“选择性借用”的运作机制：港府参照了 IBDP 的跨学科整合和独立探究形式，但排除了其国际化知识观和批判性哲学内核，使之服务于本地政策议程。
 > - **[[Visible Learning|Visible Learning]] 在俄罗斯的政策借用与拒绝** Hattie 的 Visible Learning 于 2017 年在俄罗斯翻译出版后受到学界与官僚体系的热烈欢迎。然而，[[Argument_Golovchin_2019_ESC|Golovchin (2019)]] 展示了俄罗斯本土学者基于方法论缺陷（[[Heterogeneity|异质性]]过高）、文化不匹配（教师“去专业化”风险）以及官僚化威胁（报表工作量激增），最终向政策决策提出“拒绝采用”建议的过程。
@@ -301,7 +349,7 @@ updated: 2026-07-13
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Yan_2025_JCS|Yan & Morris (2025)]] — 追踪香港通识科创立与废除的完整生命周期，展现了政策借用框架的高压政治语境失效边界条件。
 > - [[Argument_Rappleye_2006_RCIE|Rappleye (2006)]] — 提出[[Cross-National Attraction|跨国吸引力]]情境[[Concept Mapping|概念地图]]，剖析[[Pre-Transfer Agency|前转移能动性]]与吸引力动机。
-> - [[Argument_Cowen_2009_CE|Cowen (2009)]] — 阐述教育转移、[[Transfer Translation Transformation|转译]]与形态变异（reforms morph as they move）的分析视角与变异阶段。
+> - [[Argument_Cowen_2009_CE|Cowen (2009b)]] — 阐述教育转移、[[Transfer Translation Transformation|转译]]与形态变异（reforms morph as they move）的分析视角与变异阶段。
 > - [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] — 详细呈现了 [[Visible Learning]] 进入俄罗斯教育界后，遭遇方法论、文化和制度冲突并建议拒绝的完整分析过程。
 > - [[Argument_Amos_2022_Springer|Amos (2022)]] — 剖析[[Michael Sadler|迈克尔·萨德勒]]和迈克尔·考恩的学术遗产，说明政策借用如何随着现代性转型从偶发外交变成常规合法化手段。
 > - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 将国际关系三大思想传统作为透镜，系统剖析了政策借用与流动的地缘政治焦虑底色。

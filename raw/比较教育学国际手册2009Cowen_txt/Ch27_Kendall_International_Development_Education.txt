@@ -1,0 +1,832 @@
+================================================================================
+Chapter 27: International Development Education
+Author(s): Nancy Kendall
+Handbook: International Handbook of Comparative Education (2009)
+Editors: Robert Cowen and Andreas M. Kazamias (Section Editor: Elaine Unterhalter)
+Section: Section 3: The National, The International, and The Global
+Book Pages: pp. 417–435
+PDF Pages: pp. 427–445 (in raw/比较教育学国际手册2009Cowen.pdf)
+================================================================================
+
+--- [PDF Page 427 / Book Page 417] ---
+
+27
+INTERNATIONAL DEVELOPMENT EDUCATION
+Nancy Kendall
+
+From moralizing calls for its end (Esteva, 1992), to critiques of its discourses and practices (Samoff, 1999), to recent arguments for the potential necessity of its continuance
+(Ferguson, 2002), the effects and goodness of the field of international development
+(education) has been debated for decades. Despite these critiques, it has witnessed a
+renaissance in the past 15 years. This chapter describes the history of the field of international development education, examines current practices and trends, and discusses
+emerging questions for the field. It concludes that there are both legitimate concerns
+about the effects of international development education practices and reason for cautious optimism about some current practices, particularly those that take account of
+past critiques and attempt to restructure the relations and activities undertaken in the
+name of development education. International development education continues, however, to rely primarily on out-of-date discourses, rationales for its existence, and ways
+of dividing up the world; without addressing these issues in an inclusive manner, international development education funding, policies, and programming will rarely support positive change, will in some cases make things worse, and will lose its relevance
+and widespread support. Before continuing, I briefly discuss the terms “international,”
+“development,” and “education”.
+
+Development
+The vocabulary and concepts employed in the international development arena are
+highly contested, as they reflect, represent, and some would argue (re)create underlying
+tensions concerning power and authority. The first arena of dispute is the word “development” itself, which, as Grillo and Stirrat (1997) note, is often placed in quotations by
+researchers to highlight various problematics. International development is generally
+understood to encompass goodwill efforts by richer (industrialzed, “modern”) states
+to improve the lives of people in poorer (agrarian, “backwards,” or “primitive”) states.
+This general definition draws on a number of historically Western concepts (linear
+progress, the nation-state, individualism, state-sponsored mass schooling) that form
+the core concerns of many critiques, such as the continued assumption that there is a
+unitary and linear path of “development” upon which all people and states must tread
+in order to enjoy the good life (Kothari, 2005). For other critics, the central problematic
+is the simultaneous creation of under- or undeveloped people and places through the
+417
+R. Cowen and A. M. Kazamias (eds.), International Handbook of Comparative Education, 417–435.
+© Springer Science + Business Media B.V. 2009
+
+--- [PDF Page 428 / Book Page 418] ---
+
+418 Kendall
+
+construction of developed ones (Escobar, 1995). Still others focus on the asymmetrical
+relations of power and authority created through development discourses and practices
+(Samoff, 1999).
+Many of these critiques highlight a central paradox: the concept of international
+development seems superficially unimpeachable. In practice, however, international
+development efforts are judged failures for many reasons and with great consistency.
+Despite this, they continue to serve as the primary official global approach to addressing issues of equity, progress, and our connections as fellow humans. How are we to
+understand what it is, then, that development discourses, practices, and resources do to
+people and places around the world? How are we to judge whether they help or hinder?
+As Rist (1997: 1) states:
+[T]he strength of ‘development’ discourse comes of its power to seduce, in every
+sense of the term. . . . How could one possibly resist the idea that there is a way
+of eliminating the poverty by which one is so troubled? How dare one think, at
+the same time, that the cure might worsen the ill which one wishes to combat?
+. . . How are we to explain the whole phenomenon, which mobilizes not only the
+hopes of millions but also sizeable financial resources, while appearing to recede
+like the horizon just as you think you are approaching it?
+The history of the concept of “development” is a long one (Fagerlind & Saha, 1989);
+it has been used to indicate the current set of activities, ideas, and relationships termed
+“international development” for only about the past 60 years. The current definition
+crystallized in the post-World War II era as a group of so-called modern states (primarily Western European states and the United States, and later Canada and Japan) created institutions (such as the International Development Association and UNESCO),
+ideational statements (such as the UN Declaration on Human Rights), and professional venues and organizations (such as the UNESCO regional education meetings
+and the US-based Comparative Education Society) that supported an array of activities
+designed to learn about, support, and improve life, including through education, in socalled developing states.
+The history of this term is central to understanding its current use. Perhaps the
+most important influences on current conceptualizations of international development
+(education) stem from the nineteenth century Enlightenment period and the takenfor-granted goodness of particular models of modernity, civilization, Enlightenment,
+truth, progress, and schooling that developed in Europe and the United States during
+this time (Meyer et al., 1977; Meyer, 2000). These models continue to heavily influence conceptualizations of international development and development education,
+from the actors and institutions considered legitimate (e.g. states), to the concepts
+of comparison and ranking that drive conceptualizations of neediness and its causes
+(Chabbott, 2003; Manzo, 1991).
+Rist’s The history of development: From Western origins to global faith (1997)
+provides an excellent overview of historical and current development paradigms and
+points to some important considerations about current definitions. First, most are
+self-referential—that is, they depend upon the definition of progress, justice, desired
+
+--- [PDF Page 429 / Book Page 419] ---
+
+International Development Education 419
+
+lifestyle, and forth held by the individual—and thus are problematic as a shared construct (Rist, 1997). Poerksen’s (1985) notion of “plastic” words may be of great utility
+in understanding the power and weaknesses of current definitions of development.
+Plastic words are those that began as words with distinct meanings in common parlance, that were then expanded to be used in more generalized scientific discourse, and
+finally were taken up in general and technocratic language in such a manner that their
+definition is almost infinitely malleable by individual speakers. “Development” is such
+a word, and its strengths and weaknesses lie at least in part in the ability of individuals
+and organizations to fill it with their desired meanings.
+Second, which definitions of development education come to dominate is a reflection not of a singular reality, but instead of the relations of power and authority that
+shape the voices heard and their effect on the development imaginary. Current definitions generally begin with the ethical question of how to make sense of, and correct,
+inequalities in wealth and life opportunities around the world and the suffering that is
+experienced by the world’s poorest people and states. International development aid,
+focused on poverty reduction, is the answer of the world’s rich to this problem (Collier
+& Dollar, 2000). What, though, constitutes “poverty,” acceptable levels of inequality, or acceptable levels of development aid? These are heavily debated constructs for
+which the world’s richest usually set the terms of engagement; so, for example, the
+current definition of extreme poverty used by most international development organizations is people living on less than US$1 a day, and the OECD’s member states have
+set the goal of having each state provide 0.7% of their annual budget for international
+development funding.
+Third, the definitions used by most of the powerful actors and institutions in the
+international development arena center economistic discourses and indicators of
+progress, survival, equity, and justice. Development, poverty, and equity are still
+generally measured first and foremost in economic terms (e.g., growth in GDP per
+capita; growth in the creation of formal labor market jobs; access to “modern”
+resources such as hospitals or electricity). The centrality of economic imaginaries
+and rationales (from education as human capital development to people as “homo
+economicus”) and the discipline of economics in the field of international development is an important factor in explaining why alternative development imaginaries
+(political, cultural, social, religious, etc.) have failed to gain much traction in the
+international development arena (Easton & Klees, 1992). Despite the historical
+role of education systems as (re)producers of political, cultural, and social relations and generational transmissions, not only of productive laborers, this is true
+even in the development education arena. Early works such as Schultz’s 1953 The
+Economic Value of Education and Balogh’s 1966 The Economics of Poverty, and
+later rate-of-return studies (e.g., Psacharopoulos, 1985) helped reposition education in relation to models of economic growth and development (Schultz, 1953;
+Balogh, 1966).
+Although there have been challenges to the centrality of economistic measures
+of development (e.g., Bhutan’s Gross Happiness Index, which purports to present
+an alternate model of human development rooted in Buddhist philosophy), these
+alternatives have seldom mounted significant challenges to the presuppositions
+
+--- [PDF Page 430 / Book Page 420] ---
+
+420 Kendall
+
+embedded in mainstream development definitions. They have not addressed the
+issue of defining development by defining its desired outcomes (thus ignoring the
+problematic “black box” of development practices and relations), nor the significant issue that the process by which alternate models and measures of development have been created has not generally significantly expand the circle of people
+and institutions that have power to determine what alternative measures of development might be.
+The relative stability of the term “development” thus reflects continued general
+agreement amongst powerful actors and institutions around the world on the shape and
+scope of the international development arena:
+• On the nineteenth century model of modernity that underlies it (Manzo, 1991)
+• On the centrality of economistic models in which “homo economicus,” the state,
+and more recently the market are the central actors in educational rationales and
+processes (Resnik, 2006)
+• On what the state’s educational endeavor should constitute (mass school-based
+primary education, not initiation ceremonies) (United Nations, 2005)
+• On the types of actors and institutions involved in the contemporary field (e.g.,
+states and non-governmental organizations) (Federal Ministry for Economic
+Cooperation and Development, 2007)
+• On the types of exchanges of money, goods, services, and other resources that
+constitute valid “development” support (loans, grants, products, technical assistance to less affluent governments in exchange for adopting certain conditionalities
+and hiring and buying practices that favor more affluent states, but not “corrupt”
+practices such as bribes to public and private institutions) (Walliser, 2004)
+More serious debate and destabilization has occurred in the terms used to describe
+relations among actors and institutions in the development arena. In much of the
+official literature produced by affluent bilateral (USAID, DfID, CIDA, NORRAD,
+JICA, and GTZ) and multilateral (the UN, the World Bank, the IMF, and the WTO)
+organizations, these organizations are referred to as “donors” of “foreign aid” or
+“overseas development assistance.” The states receiving development funds are
+referred to as “less developed,” “underdeveloped,” or “developing” states and “aid
+recipients.” There have been a number of thoughtful and serious critiques of these
+terms, which create the appearance that particular states and organizations (largely
+European states, the United States, and Japan) are donating resources to less affluent and more needy recipient states. Perhaps the simplest critique is that the vast
+majority of international foreign aid funding returns directly to the “donating”
+state. For example, a great deal of aid from countries is tied aid—that is, the money
+must be used by recipient governments to purchase “donor” government products.
+So, for example, the Canadian International Development Agency (CIDA) provides resources for a Ministry of Education to print and distribute textbooks to
+all government-sponsored schools in a country, but the printing must be done by
+a Canadian publisher.
+More seriously, the concept of “donation” usually connotes one who gives or contributes to a charitable cause. In contrast, many argue that international development
+
+--- [PDF Page 431 / Book Page 421] ---
+
+International Development Education 421
+
+funding is more often given for geopolitical gain, to maintain or foster neocolonial
+relations, or to spend out so-called donor organizations’ funds without regards to
+the needs of the so-called recipient (Tilak, 1988; Schraeder et al., 1998; Lumsdaine,
+1993). Likewise, there is extensive evidence (Cornia et al., 1987; Sparr, 1994) of the
+damage to poor populations, or at a minimum the lack of “development,” that has
+resulted from many poor states floating their currencies, reconceptualizing education as a tradable commodity, privatizing industries such as government printing
+presses, and shrinking civil service positions and salaries (Alderman et al., 1992);
+yet these remain popular neoliberal international development education conditionalities and reforms.
+Still another critique of the donor/recipient discourse has arisen in response to evidence that the end result of many reforms aimed at developing so-called recipient
+states has been to open up their economies to greater exploitation by “donors” by, for
+example, lowering the price of the goods they export or the salaries that they can pay
+(Sagasti & Alcalde, 1999; Rankin, 2001). This creates a situation in which the socalled donor states become recipients of people, goods, and other resources from the
+so-called recipient states. In this manner, the true recipients are the states and institutions that supposedly “donate” aid.
+Lastly, for development funding given as loans instead of grants, “donor” states
+and “aid” organizations have made more money in interest from “recipient” states
+than those states have received in initial capital (Jubilee USA Network, 2005). In this
+sense, again, the traditional understandings of the words “donor” and “recipient” may
+be contrary to, or certainly not straightforwardly related to, common usage.
+Despite these cogent arguments that destabilize the donor/recipient binary
+assumed in international development relations and discourse, these terms remain
+in general use, partly because they have been institutionalized in common parlance,
+partly because they reflect the development imaginary that is favored by the most
+powerful actors and institutions in the arena, and partly because other terms put
+forward as alternatives (North/South, industrialized/industrializing, rich/poor) are
+generally themselves open to similar contestation. For example, the geographic
+binary North/South can be useful in discussing which states and non-governmental
+organizations are generally poorer and which are richer in the world. There are,
+however, important inaccuracies in the geographical divide, such as Australia in the
+“South,” the Caribbean in the “North,” and a growing number of states such as India
+and Kuwait that now embody what would traditionally be considered aspects of both
+“Northern” and “Southern” states. All of these binary labels, in fact, assume and fix
+the focus of developmentalist debates on states at a time when divisions between
+rich and poor, “North” and “South” are as great or greater within countries as across
+them, thus concealing the issue of how inequality and poverty affect “Northern”
+geographical spaces as well as “Southern,” and how people, groups, and development-like resources flow within and across state boundaries. In practice, then, no set
+of binary terms can do justice to these complex relations and resource flows, yet the
+terms remain in use as shorthand that may in fact reinscribe the central problematics
+in the development arena.
+
+--- [PDF Page 432 / Book Page 422] ---
+
+422 Kendall
+
+Education
+In contrast to the plasticity and contestation of the term “development,” the “education” concept in use in the international development education arena has been generally fixed since the inception of the field, and has become more so over the past
+15 years. Although other models of education have predominated throughout the
+world’s history, it is possible to argue for a near-hegemonic understanding of and belief
+in formal, Western-style, state-provided, mass schooling as constituting “education”
+(for development) in the twenty-first century. This hegemonic conception has its roots
+in the Prussian mass education system, which was adopted throughout Europe and
+the United States over the course of the nineteenth and twentieth centuries and was
+promulgated by many ex-colonies in the post-independence period (Ramirez & Boli,
+1987). This model of formal schooling became the focus of international development resources following the 1990 World Conference on Education for All (WCEFA);
+has been inscribed in international development frameworks such as the Millennium
+Development Goals; and drives the shape and scope of resources made available to
+less affluent states through the international development education process.
+This model of education, generally speaking, entails support for mass, standardized, state-provided, formal schooling that, in its appropriate form, includes children
+learning (primarily from adults), about “high-stakes” academic subjects (reading,
+writing, arithmetic, science), on a fixed schedule, in an indoor setting that includes
+particular features (desks, chairs, chalkboards, written teaching and learning materials). As with models of international development, there is an imagined, linear
+educational progression from informal, family-provided education concerning daily
+tasks (such as survival skills learned by hunter-gatherer children from their parents),
+through more formalized educational experiences organized by larger bodies (such
+as initiation ceremonies or trade apprenticeship systems), to “modern” schooling
+systems.
+The international development model of education posits that mass, state-sponsored
+schooling is: (1) central to the creation of a “modern” nation-state; (2) central to the
+development of “modern” workers and families; and, thus (3) central to a state’s “modern”
+economic growth and international acceptance. This general conceptualization of education and development has received critical attention since its inception, but has yet
+to be significantly challenged.
+
+International
+As with “development” and “education,” the term “international” has historically taken
+on a particular set of meanings in the international development education arena. The
+concepts of development and of mass education described above rest on the centrality
+of a particular model of the nation-state that arose in Europe in the eighteenth century
+and now dominates maps and our imaginaries alike (Meyer, 2000; Ferguson, 2002). For
+the purposes of this chapter, it is important only to note that the term “international”
+traditionally refers to interstate affairs and relations. The majority of international
+
+--- [PDF Page 433 / Book Page 423] ---
+
+International Development Education 423
+
+development resources continue to be directed to official state governments, although
+there has been a shift since the late 1980s towards increased funding of non-governmental organizations (NGOs). In the post-World War II era, it was the sovereign state that
+was given the right to control the natural and human resources within its boundaries,
+and the responsibility to fulfil the universal rights (such as for education) of its citizens.
+Thus, the state had both the right to inculcate its values in its citizens through education, and the responsibility to provide them with such basic services as were deemed
+to be universal by the UN and its constituent state members. State boundaries around
+the world reflect everything from wars, genocide, and colonial relations, to topographic
+divides and historical compromises. The interest and capacity of various states to provide equal resources to all citizens varies just as much as the historical foundations of
+mapped boundaries. Yet in the eyes of the global community, by the end of the 1960s,
+most of the world had been divided into sovereign states, each regardless of its size,
+resources, or propensities, now viewed as the equal of all other states.
+As global economic, political, and social relations have shifted, so too has the utility
+of understanding the world as constituted by sovereign states. From regional economic
+organizations to intense internal divisions, from NGOs to transnational communities,
+from rebel groups that control vast swathes of land to transnational investors that can
+collapse national economies in days, from HIV to global climate change, the bodies
+and forces that govern people’s daily actions and play a role in determining their opportunities for mobility, survival, and thriving differ in their shape, scope, and imaginaries
+from 60 years ago. Nevertheless, with the exception of increased discussion about
+the roles of NGOs and private organizations in educational provision (Archer, 1994;
+Mundy & Murphy, 2001), the field of international development education has not
+responded significantly to these changes. Current state divisions and international conceptions of state sovereignty fundamentally affect the ability of development efforts to
+identify and address global, regional, and “local” inequities; however, without destabilizing some of the assumptions currently made about national versus cross- and transnational issues, many inequities conceptualized as state development issues cannot be
+addressed by international development efforts (Ferguson, 2006).
+Below, I review the history of the field of international development education since
+the 1950s, paying particular attention to the actors and institutions involved in the
+arena, changing ideas about what constitutes good development education practices,
+and the critiques that have been levelled against these practices. As will be noted, there
+is a certain cyclical and fickle nature to development discourse and practices: if an
+idea, such as universal primary education, gains momentum, the momentum is likely
+to be lost just as widespread agreement is reached, only to reappear a decade or two
+later in a slightly revised form as the brand new panacea for the constant refrain that
+development education. This cycle is likewise visible in education’s positioning in the
+broader international development arena.
+
+1950s and 1960s
+In the 1950s and 1960s, international development actors posited that there was a
+linear progression from hunter-gatherers through to “highly developed,” “modern”
+
+--- [PDF Page 434 / Book Page 424] ---
+
+424 Kendall
+
+industrialized nation-states made up of productive workers (and intelligent, controlled
+reproducers) that progressed and developed individually. The nation-state developed
+through the cumulative effects of these individual activities. This conceptualization of
+modernity and development relied heavily on models of linear progress and growth
+stages, often drawn from the natural sciences. The model of the rational, developing
+whose individual actions create a greater good drew from Enlightenment ideas and
+classical economic theorists such as Adam Smith. Although there was important work
+done during this period concerning social, political, psychological, and other forms of
+development (see Adams, 1977 for a review), the general focus of the field came to rest
+solidly on economic development as, depending on the author, either the absolute or the
+proxy for all other forms of human and state development.
+This early work laid the foundation for current mainstream conceptualizations of
+international development. It argued that all states could achieve development if they
+followed the path already trod upon by Western states—modernization through industrialization, urbanization, and population control. Within this framework, education
+came to play a major role in state development models, as education was the primary
+means to increase individual productivity. It should also be noted that development
+education models, which had missionary roots in most poor states, were also seen as
+central to “civilizing” non-white, non-Christian people.
+The curricula of western schools inculcated a distaste for agrarian (and manual)
+labor and fueled students’ desire to move to urban, “modern” spaces (Corby, 1981).
+Schooling thus forwarded economic and sociocultural practices viewed as central to
+development and modernization. Funding for international development education
+reached its highest levels until the 2000s during the 1950s and 1960s, receiving up to
+6–7% of all international development funding.
+The burgeoning field of development economics laid out what remains the primary
+rationale for development education: because state development occurs through the
+aggregation of increased productivity on the part of its constituent members, the best way
+to develop the state is to increase constituent members’ human capital, and thus productivity. In these models, education is purely functionalist, and education is a worthwhile
+investment only to the extent that it translates into increased worker productivity (and
+later into other easily quantified health, civic participation, and lifestyle outcomes such
+as decreased fertility). Productivity was initially measured in terms of worker wages in
+the formal labor sector, and so growth of the education sector only remained productive
+as long as the labor market could absorb graduates. Over time, increased productivity
+was measured in more diverse ways, such as by increased agricultural output.
+This emphasis resulted in the 1950s and 1960s in a strong focus in international
+development education on secondary and particularly tertiary education (Buchert,
+1995), where the professionals needed for development and modernization (doctors,
+economists, planners) were trained, as well as on planning for the “modern” labor
+market. Bilateral organizations (such as GTZ and USAID), multilateral organizations
+(such as UNESCO), and Foundations (such as Rockefeller and Carnegie) all played
+significant roles in first sending people from poor and newly independent states for
+training in Europe and in the United States, and later building secondary and tertiary
+education institutions in poor and newly independent states.
+
+--- [PDF Page 435 / Book Page 425] ---
+
+International Development Education 425
+
+In the newly independent states, the development education focus was also often
+adopted by independence leaders, who emphasized the need for their country to staff
+their own bureaucracies and professional institutions in order to be truly liberated.
+Nonetheless, development education models focused on tertiary and secondary education sidelined the common pre-independence-era focus on addressing the inequities of
+colonization through the massification of (early) educational opportunities. For example,
+following independence in 1964 in Malawi, the new government bypassed pre-independence promises of education for all and spent the majority of the education budget
+building the University of Malawi, the first tertiary institution in the new state. It received
+international development support for this effort. In socialist states like Tanzania, the
+focus of education development remained on mass primary education. Schooling was
+still conceptualized as human productivity development, but it was the state’s, not the
+market’s, responsibility to harness and plan for the use of this improved capacity.
+The critiques of this approach diversified over the decades. Early critiques included
+those that focused on conceptual flaws in the economic models being used to argue for
+the “productivity” of education, such as Balogh’s (1964) scathing set-down of the economic models used to measure the effects of education; those that addressed fallacies
+in the concept of linear progress and development; those that argued that educational
+experiences were not all equal and models were needed to address the “black box” of
+classroom practices and education processes; and those that expressed concerns that
+development education practices were fostering neo-colonial relations.
+By the late 1960s and early 1970s, critics were discussing the failure of development
+education investment to lead to predicted economic growth in many poor states; were
+increasingly questioning the nature of the relationships between so-called development
+donors and recipients (Altbach, 1971); and drew on Marxist and dependency theories
+to argue that one of the reasons for the “failure” of education to increase equity and
+life chances was that the model of education promulgated by development education
+experts was not a functionalist black box, but instead a system designed to reproduce
+class (and other) inequalities (Carnoy, 1977).
+
+1970s
+By the 1970s, there was a countermovement amongst many of the states that were targets of international development funding. They argued for a focus on basic needs as
+opposed to elite services and fought to center discussions of global and state inequality
+in international development debates. There were new discussions about the role of
+schooling in fostering neocolonial, as opposed to liberatory, relations (Keith, 1978).
+And dependency theory provided a new framework through which to make sense of
+relations among “developed” and “developing” states and to understand the failure of
+development loans and grants to achieve their expected results (Carnoy, 1977; Altbach
+& Kelly, 1978; Lewin & Little, 1984; Little, 2000).
+In the education arena, a rich discussion developed about how to improve the relevance of formal education systems in poor people’s lives, as did interesting work on
+and critiques of non-formal and adult education as alternatives to formal education
+models (Sheffield, 1972). There were new demands for international support for basic
+
+--- [PDF Page 436 / Book Page 426] ---
+
+426 Kendall
+
+education for all (now discussed as a basic need), paralleled by a body of economic
+studies that purported to find improved state returns on investments in primary, as
+opposed to secondary or tertiary, education. At the same time, critics were pointing
+out that economic models used to understand the effects of development and education
+were not able to “count” its effects on women or their work (Kelly & Elliott, 1982),
+agricultural work, or indeed the informal economy.
+At the same time, educational investment by states and international development
+organisations generally still targeted secondary or higher education, and development
+resources for education began to fall as a growing pessimism concerning the inability
+of the past decades’ educational expansion to improve economic growth grew (Weiler,
+1978). This trend of disinvestment in and growing cynicism about formal education
+expanded when the oil crisis hit. As “developed” economies wobbled, international
+debts were called in and resources for new loans slowed, causing crises in newly independent and poorer states with high debt loads (Frieden, 1992). This crisis effectively
+silenced the development target states’ countermovement.
+
+1980s
+In the 1980s, Structural Adjustment Policies or Programs (SAPs) circled the world
+and transformed the funding available for and conceptualization of the role of education in international development. Aimed at restructuring the macroeconomic policies
+of states in crisis, SAPs were promulgated and enforced by the IMF and the World
+Bank. They included reforms such as state privatization of national resources, floating
+national currencies, removing state subsidies for agricultural and food goods, removing trade barriers, and shrinking the state. SAPs were based on the neoliberal notion,
+increasingly popular in Europe and the United States, that the market was always more
+efficient than the state (Carnoy, 1995; Arnove et al., 1996; Torres, 2002).
+Particularly in early SAPs, social services like education were reconceptualized as
+peripheral-to-state responsibilities, and in fact likely to be ineffective and unproductive
+to the extent that they were state-provided. Education, health, and other social services were defunded and privatized, often at least in part to pay “donor” states back as
+older development loans came due (Reimers & Tiburcio, 1993). For example, Malawi
+implemented a SAP in 1981. Funding for education dropped from 13.7% to 8.9% of
+government expenditures. At the same time, debt servicing increased from 17% to 36%
+between 1977 and 1986 (Kaluwa, 1992). Such declines in overall educational expenditures were often accompanied by international restrictions on civil servants’ salaries
+and hiring, which weakened the long-term capacity of SAP-ed government institutions
+to provide services and train the next generation of administrative leaders.
+Throughout this period, mainstream international development education discourse
+focused on the need for states to increase the efficiency of education systems so that governments could reap greater benefits with fewer resources (Fuller & Habte, 1992). The
+World Bank led a movement to introduce cost sharing in education, a policy perspective
+that argued for the need to have individuals and their families pay a greater proportion of
+the costs of schooling—even primary schooling (Tan et al., 1984); and reframed repetition and dropout as systemic inefficiency issues. There were also early discussions about
+the appropriate role for the private sector in education provision (Colclough, 1991).
+
+--- [PDF Page 437 / Book Page 427] ---
+
+International Development Education 427
+
+There were significant critiques levelled against SAP-influenced education
+approaches, ranging from protests over the absolute cut in funding and services for
+poor people; to critiques of neoliberalism and its recalibration of state-market-society
+relations; to feminist critiques of patriarchal development models and practices
+(Beneria & Sen, 1981); to critiques from anthropologists and postmodernists about the
+assumptions of Western, progressive concepts embedded in most development education models (Masemann, 1982); to growing concerns about the lack of widespread
+participation in development decision-making. New arguments in support of basic
+education, both from progressives interested in increased equity and economists who
+claimed evidence of the supremacy of primary education investment returns in poor
+countries (Psacharopoulos, 1987), gained momentum.
+
+1990s
+In 1990, the World Conference on Education for All (WCEFA) was held, heralding
+a new discursive phase in international development education. The WCEFA was
+the culmination of years of economistic and human rights arguments put forward by
+international organizations (multilateral and non-governmental in particular) and poor
+states to address rising global and national inequity and their desire to have individuals
+and states manage their own development. The conference focused on basic education as a fundamental human right and on the state as the body responsible for its
+provision. It centered economistic models of educational utility and effects that argued
+that primary education, particularly for girls, was one of the best investments a state
+could make in economic growth (Lockheed & Verspoor, 1991). It resulted in a strong
+international development education focus on expanding access to primary schooling,
+some would argue at the expense of educational quality.
+Based on the WCEFA and the mounting evidence that SAPs were fuelling the abjection of millions of poor people without resulting in improved economic growth, international development organizations heralded a new idea: structural adjustment “with a
+human face”. They began the arduous process of refunding support for the social service
+sectors they had so recently helped to dismantle. Resources for social services increased
+a bit, resources for education became more focused on primary education, and calls for
+user fees in primary education were discarded; however, there was no net increase to
+education funding (Bennell & Furlong, 1997). A programmatic and policy focus on educational expenditure and system efficiency continued, though discussions about the relevance and efficiency of primary education faded somewhat in the face of human rights
+arguments that all children had the right to a basic education and could learn to be literate
+and numerate—the two tasks repositioned as the primary goals of basic education.
+The WCEFA was the first global education conference to include NGOs in any significant way (Mundy & Murphy, 2001); their inclusion reflected growing critiques of
+development education practices as neo-colonial, and a new willingness on the part of
+state and international governmental organizations to recognize the potential contributions of “civil society” organizations and participatory approaches in improving development education practices and outcomes. This was also the gender decade in international
+development education; based on global data showing significant gender gaps in enrolment rates in many areas of the world (Hill & King, 1995), organizations such as USAID
+
+--- [PDF Page 438 / Book Page 428] ---
+
+428 Kendall
+
+provided significant resources to support multifaceted initiatives designed to improve the
+status of girls’ education. For example, in Malawi, USAID funded the Girls’ Attainment
+in Basic Literacy and Education (GABLE) project, which included support for national
+policy reform, the creation of a gender-appropriate curriculum unit, gender-sensitive
+teacher training, a social mobilization campaign designed to increase community support
+for girls’ education, and a girls’ scholarship program for non-repeating female students.
+During this decade, there was also increasing interest in sector-wide funding
+approaches (Harrold, 1995). Development experts argued that traditional projectbased support produced short-term, unsustainable, uncoordinated efforts with parallel administrative structures to official government education structures. Sector-wide
+approaches, in which international organizations pledged support for a national budget
+in exchange for government agreement to meet certain conditions, seemed a mechanism through which to address many of these critiques (Ratcliffe & Macrae, 1999).
+Extensive aid accountability frameworks were also put in place to address concerns
+about efficiency of aid use in various countries. These measures almost always targeted
+aid recipients, not providers, despite evidence that there was corruption and administrative incompetence on both sides (Therkildsen, 2001).
+
+2000s
+By the 1990s, it was clear that the “bitter pill” of market (neo)liberalization had not
+resulted in the economic growth or improved quality of life assured to citizens in
+many poor states. In fact, as measured by life expectancy, educational completion,
+GDP/capita, and many other development measures, the last 25 years has resulted in
+an absolute decline in the standards of living of many people in the African region
+(Ferguson, 1999; Arrighi, 2002). Recently, the World Bank and IMF have acknowledged (even as they continue to push similar reforms) that SAPs have failed (SAPRIN,
+2004). In the wake of these acknowledgments, international arguments against state
+provision of social services have shifted in important ways. Poverty alleviation plans
+and programs that include some attention to public provision of basic social services
+have been encrusted over earlier forms of neoliberal state transformation. There are
+now even some calls from European states that supported SAPs for poor states to “take
+responsibility” for basic social services like education.
+This shift has resulted in an increase in total international development spending
+on education, raising levels back up to those seen in the heyday of the 1950s and
+1960s. Not only international resources to education have increased; in the wake of
+the WCEFA, a number of countries (e.g., Malawi, Uganda, Kenya) implemented EFAstyle fee-free primary education systems (usually as part of an officially democratizing political process (Kendall, 2007) ) and now spend upwards of one-quarter of
+their entire annual budget on education. There has been rapid growth in NGO involvement in development education activities in many poor states, and they have become
+increasingly networked (Mundy & Murphy, 2001). Communities are also investing
+significant (and in some cases, more) resources in their children’s education, partially
+in response to their perception that education offers their children the best chance of
+mobility in a globalizing environment.
+
+--- [PDF Page 439 / Book Page 429] ---
+
+International Development Education 429
+
+These funding increases mirror increased belief in and demands on formal education; as a number of authors have noted, education is once again viewed as a development panacea (Vavrus, 2003), and formal education is expected to do everything
+from grow economies, to prevent new HIV infections, to create small and healthy
+families, to socialize democratically-oriented citizens. Although as in all social service
+areas there is increasing pressure to conceptualize the education sector as a market and
+educational services as a tradable good, education has emerged as the social service
+in which the state has the most viable, internationally supportable, and public role
+to play. This is due in part to the history of state educational provision in the United
+States and Europe, to historical models of schooling as a (re)producer of nation-state
+citizens, and to the continued conceptualization of basic education as direct human
+capital development.
+As the actors and resources in the development education arena have increased and
+diversified, as the political reality of primary-school leavers clamoring for secondary
+school places has hit, and as investment in primary education has proven to be less
+transformational than expected, there are now calls for a more “balanced” approach
+to education funding. Sectorally, this has translated into support for improved primary
+educational quality, improved secondary and tertiary education access, and growing
+discursive support for early childhood and adult education. In terms of implementing
+agents, national governments’ position as the central development partner continues
+to be undermined by the predominant neoliberal rationality in international development. NGOs continue to be viewed by many international governmental organizations
+as more representative and more efficient development partners than central governments, and a growing percentage of international development funding is being channeled through NGOs instead of states (Hearn, 1998; Makoba, 2002). Likewise, and
+following the roll-out of decentralization reforms often “inspired” by international
+organizations, central governments and NGOs are facing new competition for funds
+from local government bodies.
+Participatory approaches, called for by 1980s and 1990s critics of development practices, are now, at least discursively, fully integrated in most development planning practices
+(World Bank, 1996). For some critics, this is seen as a co-opting of radical critique, for
+others an honest effort by development organizations to improve their practices (Kendall,
+forthcoming). More broadly, international development education has been folded into
+both global plans for development transformation (such as the Millennium Development
+Goals) and into the poverty alleviation frameworks that now shape most bilateral and multilateral organizations’ funding for new development activities. In both cases, education is
+usually incorporated in two ways: as a call for primary schooling for all, and as a call for
+gender equity in formal education, and thus development, opportunities (Mundy, 2006).
+The poverty alleviation approach, coupled with sector-wide funding approaches and joint
+budget financing (Walliser, 2002), has led to a narrowing and intensification of development resources and targets in a smaller number of states throughout the world.
+New actors, such as family foundations, individual donors, local governments, private organizations, community-based organizations, and universities have received
+increasing attention in the development education arena, as have new issues including HIV/AIDS, early childhood education, educational quality, and child-centered
+
+--- [PDF Page 440 / Book Page 430] ---
+
+430 Kendall
+
+pedagogical approaches (Tabulawa, 2003). Perhaps the most important new focus is on
+improving within-classroom resources and practices—that is, affecting change in the
+traditional educational “black box.” In most of these efforts, student learning (usually
+as measured on standardized tests) is the ultimate measure of educational success. For
+example, a current USAID education project, the Malawi Teacher’s Training Activity
+(MTTA) provides preservice and in-service training and support to the education sector in the areas of English, science, math, and life skills, as well as in gender equity in
+the classroom. It does so by providing preservice teacher training materials, training
+school personnel to use local resources to create their own in-service trainings and
+teaching/learning materials, providing books from international sources to Teacher
+Development Centres so that teachers can update their content knowledge, and creating a mobile teacher training troupe that provides support for improved teaching and
+learning through the exchange of innovative practices and ideas across school zones.
+Effects are measured primarily by students’ and teachers’ increased content knowledge
+scores on standardized exams.
+
+Discussion
+Interest in globalization, and particularly the role of education in the creation and distribution of information, opportunity, state and worker competitiveness, and individual
+characteristics such as flexibility, has led to a renaissance in international development education (Crossley, 2000). This same movement is destabilizing concepts that
+have underpinned the field for over 50 years. Perhaps the most important of these is
+the continued emphasis on the individual and the nation-state as the central units of
+analysis and action in international development education. Given the practical effects
+of globalization on the economic, political, and social coherence of states and people’s
+everyday lives, this seems short-sighted. Discussions about the appropriate roles of
+NGOs, private entities, substate and regional actors and institutions, and local and/versus international labor markets point to the variety of daily educational and life experiences that are no longer primarily organized by or within the state, and the extent to
+which the traditional concerns of development—progress, life improvement, equity—
+are no longer (if they ever were) concerns that make sense to discuss within the confines of state borders. A growing literature on globalization and education (Carnoy
+& Rhoten, 2005; Welmond, 2005; Suarez-Orozco & Qin-Hilliard, 2004; Burbules &
+Torres, 2000; Stromquist & Monkman, 2000; King & Buchert, 1999) highlights the
+extent to which the decisions involved in education practices are (differentially) global
+in nature, and a parallel literature on global imaginaries (Ferguson, 2002) points to the
+transformation of people’s understandings of belonging and opportunity, which have
+been poorly addressed by development education researchers and programs.
+These changes threaten to destabilize the economic and human rights rationales
+that have dominated development education since its inception, and this may be a
+good thing. For what continues to be lacking from many of the critiques of development broadly, and development education particularly, is real and sustained engagement with the question of what, exactly, education for development might look like
+
+--- [PDF Page 441 / Book Page 431] ---
+
+International Development Education 431
+
+and mean in people’s lives. It is clear that such a discussion can no longer emanate
+from and respond to the demands of any one state or region, as it has historically
+done to Western Europe and the United States. It is equally clear that there will be
+no single imaginary, and that the currently taken-for-granted models and goals of
+education and its relation to state, market, society, and international relations of
+power, authority, and survival are in flux. Funding for development education is on
+the rise, and there are reasons to believe that these funds can positively affect (by
+both “international” and community measures) the lives of people, and even some
+poor people, in poor states. The MTTA project described above, for instance, has
+had significant effects on the classroom experiences and educational outcomes of
+teachers and students in some target schools, and it has positively transformed relations of power and authority among students, teachers, parents, and district officials
+in such a manner as to both expand teachers’ willingness to learn from multiple
+sources (including each other and students), and to improve community support
+of teachers and schools. These shifts have in turn resulted in classrooms that provide students very different, and potentially empowering, messages about learning, authority, knowledge, and success. For, example, they provide students with
+opportunities to assume academic leadership roles within the classroom and to see
+teachers work collaboratively with other teachers and with community members
+around knowledge production.
+Such positive outcomes appear to occur most frequently when the “recipients” of aid
+take part in development education practices at all stages of the development programming process (planning, implementing, monitoring, and evaluating), and particularly
+when they play a role in determining the intended outcomes of the activities. Positive
+outcomes are also more likely in situations where initiatives are given time to develop
+and to improve, and enough funding to continue for a long enough period of time to
+become institutionalized. This rarely occurs in the international development arena,
+which usually runs on 3–5 year funding and idea cycles.
+There is also reason for caution in supporting international development education efforts. First, even by development standards, there are plenty of failed development education projects and plans. As with all development arenas, these failures
+may outnumber the successes and may have actually negatively impacted the lives of
+those they targeted, both directly (as in sending more children into unhealthy educational environments) and indirectly (through, for example, increased state dependence
+on international monies to fund educational promises and increased domestic spending on debt repayment). Even development education successes may be shallow. For
+example, a report on USAID support for education in Malawi notes that projects that
+achieved their official goals (e.g., improved teacher training) were hampered from having broader effects by the absence of many students attending class on a regular basis,
+of classrooms, and of basic teaching materials (Anzar et al., 2004).
+Second, there are serious questions about whether education is the key human right
+or economic investment to transform the lives of poor people. When poor states spend
+one-quarter of their budget on education without significant changes in their citizen’s
+life experiences, we need to question the assumptions that underlie international
+support for further investment in education.
+
+--- [PDF Page 442 / Book Page 432] ---
+
+432 Kendall
+
+Third, western education occurs to individuals, and in current models, it is individuals who succeed (or more commonly fail) to progress as a result of their formal
+schooling experience. It may thus serve, as Marxists theorists argued in the 1970s, as
+a system to constrain people, not as a liberatory process. And development education
+resources do not address global inequities, they reinscribe individuals and the state as
+the units of analysis that succeed or fail to progress.
+Many of the concerns of people living in less affluent countries—how to cobble
+together a survival; how to stay healthy and care for the ill; how to access increasingly
+privatized resources such as water and land; how to transmit moral, cultural, and religious practices to the next generation—are simply not on the international development education radar.
+People in less affluent countries are responding to this reality in perfectly reasonable
+ways. For a minority, education is absolutely central to geographic mobility, which
+in turn is central to individual and familial survival. For them, continued educational
+investment makes sense. For many others, though, schooling is a brief blip that may
+or may not provide skills and lessons useful for daily survival and thriving (Kendall,
+2007). In countries where neither formal labor, nor expanded agricultural opportunities, nor opportunities to travel to more affluent countries are growing, schooling may
+seem relatively disconnected from daily needs or future opportunities. Not surprisingly, enrolment rates are decreasing in some of the poorest countries in the world, and
+in others, dropouts are accelerating.
+The international development community is always looking for the next panacea:
+sustainable environment? Global health? The extent of future support for educational
+resourcing from communities, states, and international actors will depend on the field’s
+capacity to create space for a multiplicity of actors and institutions to reimagine the
+global relations among education, equity, and individual and communal survival and
+flourishing. At a minimum, this will require extensive engagement with ideas that move
+beyond the current universalizing neoclassical economic orthodoxy (Harriss, 2001)
+and human rights frameworks to address the diverse realities of people’s changing
+lives, survival strategies and dreams. From these may be drawn, the shape and scope of
+potentially empowering educational practices that might be supported by international
+development education practices.
+
+References
+Adams, D. (1977). Development education. Comparitive Education Review, 21(2/3), 296–310.
+Alderman, H., Canagarajah, S. & Younger, S. (1992). Consequences of permanent lay-off from the civil service: Results from a survey of retrenched workers in Ghana. Cornell Food and Nutrition Policy Program
+Working Paper, Ithaca: Cornell University.
+Altbach, P. (1971). Education and neocolonialism. Teachers College Record, 72(4), 543–558.
+Altbach, P. & Kelly, C. (Eds.) (1978). Education and colonialism. London: Longman.
+Anzar, U., Harping, S., Cohen, J. & E. Leu. (2004). Retrospective pilot study of USAID-funded education
+projects in Malawi. EQUIP 1 publication. Washington, DC: Academy for Educational Development.
+Archer, D. (1994). The changing roles of non-governmental organisations in the field of education (in the
+context of changing relationships with the state). International Journal of Educational Development,
+14(3), 223–232.
+
+--- [PDF Page 443 / Book Page 433] ---
+
+International Development Education 433
+Arnove, R., Torres, A., Franz, S., & Morse, K. (1996). A political sociology of education and development
+in Latin America; the conditioned state, neoliberalism and educational policy. International Journal of
+Comparative Sociology, 37(1–2), 140–159.
+Arrighi, G. (2002). The African crisis. New Left Review, 15, 5–36.
+Balogh, T. (1964). The economics of educational planning: Sense and nonsense. Comparative Education,
+1(1), 5–17.
+Balogh, T. (1966). The economics of poverty. London: Weidenfield & Nicolson.
+Beneria, L. & Sen, G. (1981). Accumulation, reproduction, and “women’s role in economic development”:
+Boserup revisited. Signs, 7(2), 279–298.
+Bennell, P. & Furlong, D. (1997). Has Jomtien made any difference? Trends in donor funding for education
+and basic education since the late 1980s. Brighton: University of Sussex Institute for Development
+Studies.
+Buchert, L. (1995). Recent trends in education aid: Towards a classification of policies. Paris: UNESCO/
+International Institute for Educational Planning.
+Burbules, N. & Torres, C. (Eds.) (2000). Globalization and education: Critical perspectives. New York/
+London: Routledge.
+Carnoy, M. (1977). Education as cultural imperialism. New York: David McKay.
+Carnoy, M. (1995). Structural adjustment and the changing face of education. International Labour Review,
+134.
+Carnoy, M. & Rhoten, D. (2005). What does globalization mean for educational change? A comparative
+approach. Comparative Education Review, 46(1), 1–10.
+Chabbott, C. (2003). Constructing education for development: International organizations and education
+for all. London: RoutledgeFalmer.
+Colclough, C. (1991). Who should learn to pay? An assessment of neo-liberal approaches to education
+policy. In C. Colclough & J. Manor (Eds.), States or markets? Neo-liberalism and the development
+policy debate. Oxford: Clarendon.
+Collier, P. & Dollar, D. (2000). Can the world cut poverty in half? How policy reform and effective aid can
+meet the international development goals. Development Research Group. Washington, DC: The World
+Bank.
+Corby, R. (1981). Bo school and its graduates in colonial Sierra Leone. Canadian Journal of African Studies,
+15(2), 323–333.
+Cornia, A., Jolly, R. & Stewart, F. (Eds.) (1987). Adjustment with a human face, Vol. 2. Oxford: Clarendon.
+Crossley, M. (2000). Bridging cultures and traditions in the reconceptualisation of comparative and international education. Comparative Education, 36(3), 319–332.
+Easton, P. & Klees, S. (1992). Conceptualizing the role of education in the economy. In R. Arnove,
+P. Altbach, and Kelly, G. (Eds.), Emergent issues in education: Comparative perspectives. Albany: State
+University of New York Press.
+Escobar, A. (1995). Encountering development: The making and unmaking of the third world. Princeton, NJ:
+Princeton University Press.
+Esteva, G. (1992). Development. In W. Sachs (Ed.), The development dictionary: A guide to knowledge as
+power. London: Zed Books.
+Fagerlind, I. & Saha, L. (1989). Education and national development: A comparative perspective, 2nd ed.
+Oxford: Pergamon.
+Federal Ministry for Economic Cooperation and Development (2007, August 18). Approaches and players;
+bilateral development: The direct approach to the partner. Retrieved August 18, 2007 from: http://www.
+bmz.de/en/approaches/bilateral_development_cooperation/index.html
+Ferguson, J. (1999). Expectations of modernity: Myths and meanings of urban life on the Zambian copperbelt. Berkeley: University of California Press.
+Ferguson, J. (2002). Of mimicry and membership: Africans and the ‘new world society. Cultural
+Anthropology, 17(4), 551–569.
+Ferguson, J. (2006). Global shadows: Africa in the neoliberal world order. Durham: Duke University
+Press.
+Frieden, J. (1992). Debt, development, and democracy: Modern political economy and Latin America,
+1965–1985. Princeton, NJ: Princeton University Press.
+
+--- [PDF Page 444 / Book Page 434] ---
+
+434 Kendall
+Fuller, B. & Habte, A. (Eds.) (1992). Adjusting education policies: Conserving resources while raising
+school quality. World Bank Discussion Paper No. 132. Washington, DC: World Bank.
+Grillo, R. & Stirrat, R. (Eds.) (1997). Discourses of development: Anthropological perspectives. Oxford: Berg.
+Harriss, J. (2001). The case for cross-disciplinary approaches in international development. Feminist
+Economics, 1(2), 21–46.
+Harrold, P. (1995). The broad sector approach to investment lending: Sector investment programs. World
+Bank Discussion Papers, Africa Technical Department Series No. 302. Washington, DC: World Bank.
+Hearn, J. (1998). The ‘NGO-isation’ of Kenyan society: USAID & the restructuring of health care. Review
+of African Political Economy, 25(75), 89–101.
+Hill, A. & E. King. (1995). Women’s education and well-being. Feminist Economics, 1(2), 21–46.
+Jubilee USA Network. (2005). Why drop the debt? Washington, DC: Jubilee USA Network.
+Kaluwa, B. (Ed.) (1992). The structural adjustment programme in Malawi: A case of successful adjustment?
+SAPES Books Monograph Series 3. Harare: SAPES Books.
+Keith, S. (1978). An historical overview of the state and educational policy in Jamaica. Latin American
+Perspectives, 5(2), 37–52.
+Kelly, G. & Elliott, C. (1982). Women’s education in the third world: Comparative perspectives. Buffalo:
+SUNY Press.
+Kendall, N. (2007). Parent and community participation in improving educational quality in Africa: Current
+practices and future possibilities. International Review of Education, 53, 701–708.
+Kendall, N. (2007). Education for All meets political democratization: Free primary education and the neoliberalization of the Malawian school and state. Comparitive Education Review, 51(3), 281–305.
+King, K. & Buchert, L. (1999). Changing international aid to education: Global patterns and national
+contexts. Paris: UNESCO.
+Kothari, U. (2005). Authority and expertise: The professionalisation of international development and the
+ordering of dissent. In N. Laurie and L. Bondi (Eds.), Working the spaces of neoliberalism: Activism,
+professionalization, and incorporation (pp. 32–53). Oxford: Blackwell.
+Lewin, K. & Little, A. (1984). Examination reform and educational change in Sri Lanka, 1972–1982:
+Modernisation or dependent underdevelopment? In K. Watson (Ed.), Dependence and interdependence
+in education: International perspectives. Beckenham: Croom Helm.
+Little, A. (2000). Development studies and comparative education: Context, content, comparison and contributors. Comparative Education, 36(3), 279–296.
+Lockheed, M. & Verspoor, A. (1991). Improving primary education in developing countries. Washington,
+DC: Oxford University Press, for the World Bank.
+Lumsdaine, D. (1993). Moral vision in international politics: The foreign aid regime, 1949–1989. Princeton,
+NJ: Princeton University Press.
+Makoba, J. (2002). Nongovernmental organizations (NGOS) and third world development: An alternative
+approach to development. Journal of Third World Development, 19(1), 53–64.
+Manzo, K. (1991). Modernist discourse and the crisis of development theory. Studies in Comparative
+International Development, 26(2), 3–37.
+Masemann, V. (1982). Critical ethnography in the study of comparative education. Comparative Education
+Review, 1, 1–15.
+Meyer, J. (2000). Globalization: Sources and effects on national states and societies. International Sociology,
+15, 233–248.
+Meyer, J., Ramirez, F., Rubinson, R. & Boli-Bennett, J. (1977). The world educational revolution, 1950–
+1970. Sociology of Education, 50(4), 242–258.
+Mundy, K. (2006). Education for all and the new development compact. Review of Education, 52, 23–48.
+Mundy, K. & Murphy, L. (2001). Transnational advocacy, global civil society? Emerging evidence from the
+field of education. Comparative Education Review, 45(1), 85–126.
+Poerksen, U. (1985). Plastic words: The tyranny of a modular language. University Park: Pennsylvania State
+University Press.
+Psacharopoulos, G. (1985). Returns to education: A further international update and implications. Journal
+of Human Resources, 20(4), 583–604.
+Psacharopoulos, G. (Ed.) (1987). Economics of education: Research and studies. Oxford: Pergamon.
+
+--- [PDF Page 445 / Book Page 435] ---
+
+International Development Education 435
+Ramirez, F. & Boli, J. (1987). The political construction of mass schooling: European origins and worldwide
+institutionalization. Sociology of Education, 60(1), 2–17.
+Rankin, K. (2001). Governing development: Neoliberalism, microcredit, and rational economic woman.
+Economy and Society, 30(1), 18–37.
+Ratcliffe, M. & Macrae, M. (1999). Sector wide approaches to education: A strategic analysis. London:
+Department for International Development.
+Reimers, F. & Tiburcio, L. (1993). Education, adjustment, and reconstruction: Options for change. Paris:
+UNESCO.
+Resnik, J. (2006). International organizations, the “education–economic growth” black box, and the development of world education culture. Comparative Education Review, 50(2), 173–195.
+Rist, G. (1997). The history of development: From Western origins to global faith. London: Zed Books.
+Sagasti, F. & Alcalde, G. (1999). Development cooperation in a fractured global order: An arduous transition. Ottawa: International Development Research Centre.
+Samoff, J. (1999). Education sector analysis in Africa: Limited national control and even less national ownership. International Journal of Educational Development, 19, 249–272.
+Schraeder, P., Hook, S. & Taylor, B. (1998). Clarifying the foreign aid puzzle: A comparison of American,
+Japanese, French, and Swedish aid flows. World Politics, 50(2), 294–323.
+Schultz, T. (1953). The economic value of education. New York: Columbia University Press.
+Sheffield, J. (1972). Nonformal education in Africa: Micro-solutions to macro-problems? African Studies
+Review, 15(2), 241–254.
+Sparr, P. (Ed.). (1994). Mortgaging women’s lives: Feminist critiques of structural adjustment. New York:
+St. Martin’s Press.
+Stromquist, N. & Monkman, K. (Eds.) (2000). Globalization and education: Integration and contestation
+across cultures. Boulder/New York/Oxford: Rowman & Littlefield.
+Structural Adjustment Participatory Review International Network (SAPRIN). (2004). Structural adjustment
+report: The policy roots of economic crisis, poverty and inequality. London/New York: Zed Books.
+Suarez-Orozco, M. & Qin-Hilliard, D. (Eds.) (2004). Globalization, culture and education in the new millennium. Berkeley/London: University of California Press.
+Tan, J., Lee, K. & A. Mingat. (1984). User charges for education: The ability and willingness to pay in
+Malawi. World Bank Staff Working Papers No. 661. Washington, DC: World Bank
+Tabulawa, R. (2003). International aid agencies, learner-centered pedagogy, and political democratisation:
+A critique. Comparative Education, 39(1), 7–26.
+Therkildsen, O. (2001). Efficiency, accountability and implementation: Public sector reform in East and
+Southern Africa. Geneva: UNRISD.
+Tilak, J. (1988). Foreign aid for education. International Review of Education, 34(3), 315–335.
+Torres, C. (2002). The state, privatisation and educational policy: A critique of neo-liberalism in Latin
+America and some ethical and political implications. Comparative Education, 38(4), 365–385.
+United Nations. (2005). Millennium development goals. New York: United Nations.
+Vavrus, F. (2003). Desire and decline: Schooling amid crisis in Tanzania. New York: Peter Lang.
+Walliser, J. (2002). Technical cooperation in joint budget financing arrangements: Requirements, experience, and perspectives. InWEnt speeches and issues notes series. Presented at the InWEnt Conference,
+2004. Retrieved September 15, 2007 from: http://www.inwent.org/ef-texte/challenges/walliser.htm
+Weiler, H. (1978). Education and development: From the age of innocence to the age of scepticism.
+Comparative Education, 14(3), 179–198.
+Welmond, M. (2005). Globalization viewed from the periphery: The dynamics of teacher identity in the
+Republic of Benin. Comparative Education Review, 46(1), 37–66.
+World Bank. (1996). World Bank Participation Sourcebook. Washington, DC: World Bank.
+

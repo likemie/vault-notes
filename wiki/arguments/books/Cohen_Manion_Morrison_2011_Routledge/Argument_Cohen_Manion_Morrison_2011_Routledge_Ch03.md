@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03"
 argument_display_title: "Research Methods in Education · Ch03"
 argument_kind: "book-chapter"
-argument_related_count: 31
+argument_related_count: 30
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -55,7 +55,6 @@ related_concepts:
   - "[[Growth]]"
   - "[[Confidence Interval]]"
   - "[[Positivism]]"
-  - "[[AI Hallucination]]"
 related_theories: []
 related_methods:
   - "[[Action Research]]"
@@ -469,7 +468,7 @@ Levin（1991）识别了研究者与决策者之间在多个维度上的系统�
 本章在最深层次上触及了一个认识论问题：**研究的政治性不仅体现在资助和利用层面，还体现在"什么算作知识"的定义权层面（p.45）**。
 
 > [!claim] [[Positivism|实证主义]]研究的政治后果：维系传统社会观念
-> Usher and Scott（1996, p. 176）指出，[[Positivism|实证主义]]研究使一种传统的社会观念得以相对不受挑战地保存——即**白人、男性、中产阶级研究者**——相对排斥"他者"（others）作为合法的知者（legitimate knowers）。
+> Usher & Scott（1996, p. 176）指出，[[Positivism|实证主义]]研究使一种传统的社会观念得以相对不受挑战地保存——即**白人、男性、中产阶级研究者**——相对排斥"他者"（others）作为合法的知者（legitimate knowers）。
 
 这一批评进入了认识论辩论的核心领域：
 
@@ -481,7 +480,7 @@ Levin（1991）识别了研究者与决策者之间在多个维度上的系统�
 > 知识的社会建构必须考虑不同群体定义何为有价值研究知识的**不平等权力**。这本身就是研究活动的构成性条件，而非外部附加的政治议题。
 
 > [!note]- 本章边界与全书衔接
-> 本章为导论性概述，将评估和研究之间的操作细节（如具体的方法论选择、抽样设计、信效度程序、数据分析技术）留给了后续章节。本章的核心贡献在于：**在进入操作细节之前，先让读者理解这些操作发生的政治和制度条件**——谁付钱、谁设题、谁控制结果、谁使用、为谁的利益。没有这一视角，方法论教科书上的技术程序就可能被误读为中立和去政治化的——而这恰恰是本章试图解构的[[AI Hallucination|幻觉]]。
+> 本章为导论性概述，将评估和研究之间的操作细节（如具体的方法论选择、抽样设计、信效度程序、数据分析技术）留给了后续章节。本章的核心贡献在于：**在进入操作细节之前，先让读者理解这些操作发生的政治和制度条件**——谁付钱、谁设题、谁控制结果、谁使用、为谁的利益。没有这一视角，方法论教科书上的技术程序就可能被误读为中立和去政治化的——而这恰恰是本章试图解构的幻觉。
 
 
 

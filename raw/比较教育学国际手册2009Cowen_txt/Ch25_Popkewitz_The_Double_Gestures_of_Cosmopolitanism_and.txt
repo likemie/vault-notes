@@ -1,0 +1,750 @@
+================================================================================
+Chapter 25: The Double Gestures of Cosmopolitanism and Comparative Studies of Education
+Author(s): Thomas S. Popkewitz
+Handbook: International Handbook of Comparative Education (2009)
+Editors: Robert Cowen and Andreas M. Kazamias (Section Editor: Elaine Unterhalter)
+Section: Section 3: The National, The International, and The Global
+Book Pages: pp. 385–401
+PDF Pages: pp. 397–413 (in raw/比较教育学国际手册2009Cowen.pdf)
+================================================================================
+
+--- [PDF Page 397 / Book Page 385] ---
+
+25
+THE DOUBLE GESTURES OF COSMOPOLITANISM
+AND COMPARATIVE STUDIES OF EDUCATION*
+Thomas S. Popkewitz
+
+It might seem a contemporary cliché when I say that my thinking about comparative
+education is in a context of globalization. Intuitively, what else can the study of comparative education be except in a broader field that takes into account cross-national
+and “global” changes? As I say this, I admit a hesitation as “globalization” has the status of the planetspeak, to draw on the work of António Nóvoa (2002). It is a word that
+appears “everywhere” to explain everything, and without any author. My hesitation,
+however, is tempered historically, in part, through the insights of world systems studies and neo-institutional theory that relate the formations of the modern school and
+nation-forming from the nineteenth century to the present (Meyer et al., 1992, 1997).
+My interest, however, enters the comparative study of schooling from a different
+intellectual terrain. This chapter focuses on the systems of reason through which the
+objects of schooling – the child, family, and teacher – are produced and administered.
+That is, schools are historical sites to change society by changing people. That is what
+pedagogy does. Modern pedagogy is the major social/cultural site where children are
+taught how to reason and problem solve and to become “reasonable people.” The principles of teaching and learning, I will argue, are concerned with the production of
+“reasonable people” through generating cultural theses about modes of living. The
+cultural theses are not merely variation of a single theme such as modernization or
+globalization. If one looks at the Chinese school reforms of May 4 Movement in 1919,
+US Progressive Educations, or current discourses about the Learning Society and the
+Lifelong Learner, they entail different cultural and institutional assemblies and connections about who the child and teacher are and should be. Understanding schools
+comparatively, then, is in considering historically the changing principles generated as
+the cultural theses of who the child is and should be.
+My approach to the comparative qualities of the system of reason of schooling is
+through the notion of cosmopolitanism (Popkewitz, 2008). Cosmopolitanism, I argue,
+is at the heart of schooling. In its northern European Enlightenment traditions, cosmopolitanism embodied the radical thesis about human agency, participation, and science
+as an emancipatory project of humanity. That enlightened individual places faith in
+the application of reason and rationality in directing change, and for the self-improvement and progress of society that respect diversity and hospitality and compassion for
+* The thesis of cosmopolitanism and reform is drawn primarily from Popkewitz, 2008.
+
+385
+R. Cowen and A. M. Kazamias (eds.), International Handbook of Comparative Education, 385–401.
+© Springer Science + Business Media B.V. 2009
+
+--- [PDF Page 398 / Book Page 386] ---
+
+386 Popkewitz
+
+“Others.” Schooling, or at least modern schooling, is concerned with the making of
+the child as the future citizen of the nation who embodies cosmopolitan characteristics.
+Further and oddly enough, the reason of the cosmopolitan that was to be inclusive
+embodied comparative inscriptions to order the phenomena and people. The “reason”
+of European modernity recognized and differentiated “others.” When brought into
+schooling, the very universalizing principles about humanity and emancipation of the
+pedagogical practices carried its opposites, the child who did not “fit” in and thus was
+excluded from the inscribed qualities and characteristics of the cosmopolitanism.
+The cosmopolitanism in schooling, however, is not merely the dissemination of
+Enlightenment notions in a world system. Rather, there are different assemblies, connections, and disconnections that produce cultural theses of the cosmopolitanism of the
+child and collective belonging. The reason and “reasonable person” in pedagogy are
+linked with principles of collective belonging and home. This might sound ironic, as the
+European cosmopolitanism was to shed the provincialism of the nation. Yet it did not and
+its particularism is embedded up to the present in schooling. The “enlightened” individuality was not the same “person” in the making of Brazil, Belgium, Japan, or Britain.
+The first section considers schooling as embedded in processes of globalization in
+the long nineteenth century to the present.1 The analysis draws from the US and Europe
+educational “reform” sciences and policies concerned with restructuring teaching and
+teacher education. I argue that the modern schooling was to remake society through
+remaking the child who was to become the future citizen.2 Pedagogy embodied cultural theses about the mode of life of that cosmopolitanism. But embodied in pedagogy
+were comparative distinctions to differentiate and divide “the civilized” cosmopolitan
+from“the uncivilized.” The next section explores the traveling of Dewey’s pragmatism
+as a historical exemplar of cultural theses about cosmopolitanism and its “Others”
+in reforming society at the turn of the twentieth century. The final section looks at
+the comparative instantiations of cultural theses in contemporary school reforms. It
+examined what I call the unfinished cosmopolitan who is the lifelong learner that lives
+through the continuous making of choices and innovation and its Others – the disadvantaged, the at-risk, immigrant, and the “child left behind” who are recognized for
+inclusion yet cast out as different and potentially dangerous to the stability and consensus. The final section draws the analysis into considering the theoretical implications
+of cosmopolitanism as cultural theses for comparative studies of schooling.
+My use of cosmopolitan is diagnostic and not normative. It is to consider the distinctions and differentiations that partition sensibilities in ordering children’s cognition,
+problem-solving, and collaboration in “communities of learning,” to use commonsense
+words of contemporary reforms. The “ism” of cosmopolitanism is to give attention to
+the different assemblies and connections through which the principles of reason and
+reasonable people are produced rather than to treat the word as a distinctive doctrine.
+
+Modern Schoolng in a Historical Context of Global Processes
+Four brief points raised in the introduction are discussed. First, modern schooling is embedded in processes of globalization from at least the long nineteenth century to the present.
+Second, the notion of cosmopolitanism is a strategy to consider the changes in the cultural
+
+--- [PDF Page 399 / Book Page 387] ---
+
+The Double Gestures of Cosmopolitanism and Comparative 387
+
+theses about modes of living in schooling. Third, the sciences of school pedagogy inscribe
+principles of reason that ordered the cosmopolitanism of the child. Fourth, the universal,
+transcendental qualities of the cosmopolitan child embody a comparative method that
+inscribes the cultural thesis of the cosmopolitan child and processes of abjection that differentiates, casts out and excludes particular “other” children in processes of inclusion.
+1. Modern schooling is embedded in processes of globalization that relate to
+changes associated with the long nineteenth century. This does not mean that
+there are no continuities and overlapping with prior schooling, as the historical studies of David Hamilton (1989) continually illustrate. Rather, particular
+configurations of contemporary schooling become apparent through changes in
+pedagogy and its theories of the child.
+The purpose of modern schooling is to remake society through remaking the child.
+The founding figures of the American and French Republics recognized this. The citizen was not born but made. Democratic participation was “something that had to be
+solicited, encouraged, guided, and directed” (Cruikshank, 1999: 97). The maintenance
+of the nation was dependent on making the citizen who was self-governing and participating in social affairs.
+Education was central in making of the individuality on whose participation modern
+government was dependent. One might say that the problem of social (re)construction of
+society through schooling was placed at the foot of the child. Mass schooling was seen as
+essential to the producing of the individual who embodied the transcendental principles
+of nation. Brazilian, Mexican, Columbian, and Chinese school reforms into the early
+twentieth century, for example, embodied cultural theses about the child’s reflection
+and participation that linked salvation notions of the individual with the nation (Buenfil
+Burgos, 2005; Warde, 2005; Qi, 2005; Sáenze-Obegón, 2005). The Swedish Torsten
+Rudenschöld in the 1800s spoke of a cosmopolitanism when thinking of the school as
+producing “the free will of individuals” in society (cited in Hultqvist, 2006). The introduction of the vernacular language in China after the May 4 Movement of 1919 can be
+read as well as bringing a different relation between people and collective belonging,
+albeit different from that of European and North American schooling (Qi, 2005).
+2. Central to the pedagogy of the school was cultural theses about the cosmopolitanism of the child. Both in the West and outside of it, notions of cosmopolitanism
+emerged to join secularization processes of individual agency and progress with
+salvation themes of redemption that was tied to the nation that had some irony.
+The northern European and North American Enlightenments spoke of cosmopolitanism as a universal mode of living in which reason and rationality provided
+for a more progressive world of freedom and liberty. That cosmopolitan world
+was quickly inserted in the particular narratives and images of nations. The
+different progressive pedagogical ideas embodied in John Dewey, G. Stanley
+Hall, Edward L. Thorndike, and George Counts in the twentieth century, for
+example, inscribed cosmopolitan principles in the planning of schooling and the
+child. These principles embodied cultural narratives about “American exceptionalism,” the nation as an epic account of the progressive development of the
+highest ideals of cosmopolitan human values and progress.
+
+--- [PDF Page 400 / Book Page 388] ---
+
+388 Popkewitz
+
+3. Cosmopolitanism joined science with reason in effecting change in one’s own
+life and community. As the physical sciences could master the natural world,
+science was viewed as a way to order and artificially intervene in the natural
+order to effect change and human progress.
+The notion of human science, however, had different configurations in providing
+for change. Science provided knowledge, for example, about the planning that enables
+conditions for the pursuit of happiness and liberty. Urban planning: the formation
+of the modern welfare state, were instances of the relation of science to finding the
+right mixture of knowledge and strategies for social development. Reform became a
+constant activity. And that reform of society also entailed principles for governing the
+cosmopolitan society through planning modes of living. The sciences of pedagogy, for
+example, made the interior of the child a site of intervention. Dewey’s problem-solving
+and Hall’s child development and growth gave an order to life through designing the
+processes and procedures of “thought” that gave consensus and stability to the rules
+and standards applied for action and the future.
+Psychology is central to pedagogy. If I focus on Europe and North America,
+psychology opened up the interior of the child as the site of calculation and intervention in the pedagogical. Speculative and analytical psychologies were replaced with
+experimental psychologies in diverse sites that moved across Russia, German, and
+the US. The beginning of modern schooling, pedagogy, and its sciences of education, Ó (2003) argues, was designed to act on the spirit and the body of children and
+the young. Examining French and Portuguese pedagogy at the turn of the twentieth
+century, Ó explores the method of the pedagogical sciences as observing and making
+visible the inner physical and moral life in order to map the spirituality of the educated subject (“the human soul”). The French pedagogue Gabriel Compayré in 1885
+asserted that pedagogy is an applied psychology and the sources of all the sciences
+“that are related to the moral faculties of man; pedagogy contains all the parts of the
+soul and must use always psychology” (cited in do Ó, 2003: 106). The purpose was,
+however, not to find God but to provide knowledge that helps to free man through
+the path of reason.
+The narratives of cosmopolitan reason and science embodied salvation and
+redemptive themes that traveled along with practices of rationalization. In an almost
+counterintuitive sense, Western mass schooling cannot be adequately understood
+without understanding the Reformation and Counter Reformation. Themes of individual salvation were secularized as earthy concerns of progress and the organization of daily life (Weber, 1904–1905/1958) that become embedded in constructions
+of modern pedagogy (McKnight, 2003; McMahan, 2001). The secularization and
+modernization processes of the Kemalist Revolution in Turkey during the twentieth century, as well, entailed modernization processes that assembled European
+enlightenment projects with those contained within the Ottoman Empire and its
+Islamic traditions (Kazamias, 2006). A similar argument can also be expressed with
+the Japanese modernization processes associated with Meiji reforms of the middle
+nineteenth century to the post-World War II constructions of the state and schools
+(Shibata, 2005).
+
+--- [PDF Page 401 / Book Page 389] ---
+
+The Double Gestures of Cosmopolitanism and Comparative 389
+
+4. While the impulse of cosmopolitanism is inclusionary, its system of reason entails
+double gestures that excluded. Cosmopolitanism entails comparative methods that
+differentiate and divide the qualities and characteristics of those who are enlightened and civilized from those who threaten the consensus and stability – the
+“uncivilized” person who was called “backward,” “savage,” and the “barbarian” in
+the nineteenth century and today’s at-risk and delinquent child.
+The comparative method inscribed in cosmopolitan reason was a particular historical
+practice that had different trajectories. The analytical qualities of modern science and
+medicine are made possible through the comparison of “things” and parts as it relates to
+some unity of the whole. Comparative installations also entered into social and cultural
+practices through classifications and differentiations formed a continuum of value and
+hierarchy that placed “man” in a continuum of people and civilizations that was “seen”
+as moving from advanced to less advanced and uncivilized. Modern historicism as narratives that linked past/present/future appeared, for example, in the nineteenth century.
+It provided ways to talk about nations as tracing their histories through progressive
+developments of “civilizations” that started in Ancient Greece or Rome and arrived at
+the present; and at the same time, ways of justifying colonialization.
+The rationality and reason of cosmopolitanism visualized the civilized and their
+hospitality to others through the recognition that demarcated difference. The comparative quality functions to differentiate and divide those capable of cosmopolitan
+“reason” and thus given as the civilized people from those in other cultural spaces
+– the individual whose qualities of life are given classifications as “not as advanced.”
+The differentiations and divisions are embedded in modern philosophy, the human
+sciences, and schooling (Rancière, 1983/2004). Theories of the human sciences made
+the arbitrariness of differences into necessity and inevitability. The recognition of difference stabilizes groups as outside normalcy and “incapable of ever acquiring a taste
+for the philosophers’ goods—and even of understanding the language in which their
+enjoyment is expounded” (Ranciére, 1983: 204).
+Cosmopolitanism, then, provides a historical strategy to consider reason as simultaneously systems of inclusion and exclusion in schooling historically and across different social-political spaces. The universal and inclusive practices of school reforms
+that speak about “all children” as a gesture to unify the whole of humanity are, I will
+argue, processes of abjection in which the divisions are produced that cast some qualities and people as outside of the spaces of inclusion.3 Today’s reforms that speak about
+an inclusive society produce unlivable spaces that are occupied by the disadvantaged,
+the urban child and family, the poor, and the immigrant, and, as I will argue from the
+US context, the child “left behind.”4
+
+Cosmopolitan “Reason(s)” and Globalization at the Turn
+of the Twentieth Century: Dewey as Conceptual Personae
+In this section I explore cosmopolitanism historically as an intellectual “tool” in which
+to consider the cultural theses generated through pedagogy, and its systems of abjection.
+I focus on the traveling of John Dewey’s pragmatism as is a cultural thesis about enacting
+
+--- [PDF Page 402 / Book Page 390] ---
+
+390 Popkewitz
+
+the cosmopolitan life that is not merely that of Dewey.5 Dewey functions as a conceptual
+personae (Deleuze & Guattari, 1991/1994), enunciating particular solutions and plans
+for action within a grid of social and cultural practices that give the “ideas” intelligibility. As Dewey was the international salesman for American pragmatism at a time
+when mass schooling was institutionalized in diverse cultural and political fields, the
+encounters with and rejections of pragmatism provide an initial comparative strategy to
+consider the principles interning and enclosing who the child is and should be.
+
+Pragmatism and the Planning of the Cosmopolitan Self
+Dewey’s pragmatism embodied a cosmopolitan that presupposed the individual as a
+purposeful agent of change in a world filled with contingency. That agency brought
+notions of science into a process to order life as a continual and changing set of problem solving. The science that Dewey spoke about was not about what physicist or
+biologists did. It was a cultural thesis that brought Enlightenment notions of the transcendental power of reason and progress as a habit of reflection and action. Dewey
+said that since “the future of our civilization depends upon the widening spread and
+deepening hold of the scientific habit of mind, the problem of problems in our education is therefore to discover how to mature and make effective this scientific habit”
+(cited in Diggins, 1994: 227).
+The “habit of mind” embodied a particular reform Protestantism of northern Europe
+and North America at the beginning of the twentieth century. Dewey saw no difference
+between a universalized notion of Christian values about the good works of the individual and the democracy of the nation. It was a twofold response that responded to the
+moral and physical disorders to the city brought by industrialization and immigration.
+Dewey and his contemporaries were also concerned with reinscribing Christian values
+in society thought lost in the unbridled capitalism of the Robber Barons of Carnegie,
+Mellon, and Rockefeller, among others. These values were about the individual’s social
+obligations in performing “good works” linked to the general welfare of society.
+Dewey’s pragmatism entered into an international field in reforms related to changes
+in politics, society, and individuality (Popkewitz, 2005). The travels of Dewey’s notions
+of agency, “intelligent action,” problem-solving and community in the writings of Dewey
+functioned in traveling libraries as amalgamations of different sets of ideas in which cultural theses were produced about modes of living. The ideas and concepts of Dewey, for
+example, are assembled with the Swiss pedagogue Claparède and the Belgian Decroly in
+South America as national reformers sought to bring into being “the New Education,” a
+name given to a variety of efforts to reform the school through scientific principles.
+While Claparède, Decroly, and Dewey traveled together in many places, there were
+different amalgamations of the texts in constructing cultural theses of who the child
+is and should be. Decroly translated Dewey in a Belgian missionary, evangelistic, and
+propagandistic pedagogical discourse (DeCoster et al., 2005). Pedagogy was to keep
+Christian doctrine as a safeguard of the order of progress through ordering children’s
+lives. Dewey was assembled in Columbia through Decroly and “local” authors, in
+contrast, as a reactionary and conservative pedagogy (Sáenze-Obegón, 2005). Dewey
+and Decroly were placed in the company of the German Kerschensteiner and the Swiss
+Claparède as the philosopher of a social redemption that Yugoslavian pedagogic work
+
+--- [PDF Page 403 / Book Page 391] ---
+
+The Double Gestures of Cosmopolitanism and Comparative 391
+
+would produce to center on the child’s activity. Dewey joined Georg Kerschensteiner
+and Adolfo Lima in the Portuguese reception, structuring, and relaunching of the socalled New Education.
+The different libraries were not variations of a single theme in generating cosmopolitan theses about the child as the future citizen of the nation. The Mexican Revolution discussions of schooling in the early twentieth century joined Dewey’s pragmatism in and
+Catholic religious emblems and traditions with notions drawn from the Enlightenment,
+rationalism, pragmatism, democracy, socialism, and republicanism (Buenfil Burgos,
+2005). The Chinese May Fourth Movement, in contrast, sought to replace the existing hierarchy of the Confucius traditions, with Dewey’s philosophical and pedagogical
+notions as central to introducing vernacular language, literary changes that valued the
+individual author, and child-centered education to sanctify individual rights through
+one’s location in a group (Qi, 2005). The new pedagogy did not do away with social
+and political hierarchy; but was placed in a new organization of hierarchy and notion of
+collective belonging about what it meant to be “Chinese”.
+The traveling of pragmatism entailed, as well, counter theses to Dewey’s cosmopolitan
+theses. German pedagogues, working within Lutheran traditions and its own vision of
+its people as the embodiment of culture and humanity, placed Dewey and pragmatism as
+devoid of spirituality and violating the geist of the nation. Brazilian Catholic CounterEnlightenment Reformers fought against Dewey’s pragmatism as an “urban” secularism
+devoid of the universality and spirituality embodied in Catholicism (Warde, 2005).
+My exploration of Dewey as a conceptual personae assembled, connected, and disconnected in traveling libraries is to recognize that the modern school of the long
+nineteenth century embodied different cultural theses. Further, that individuality is
+projected in terms of a universal humanity but has particular links of individuality and
+sociality in creating belonging and “homes.” Dewey as a conceptual personae in effect
+meets other conceptual personae (the Belgium Decroly, the German Kerschensteiner,
+the Swiss Claparède, the Turkish Yücel, the Brazilian Teixeira, and the Chinese Hu
+Shih, among others. The changes in the social and cultural practices were global but
+with these different cosmopolitan images and narratives of the child and society to
+govern the principles of reason and rationality in ordering life.
+
+Double Gestures of Hope and Fear: Processes of Abjection
+The growing optimism about the “eternal promise” of childhood in pragmatism and
+more generally in the pedagogical reform movements were not only about the child
+as the future citizen in promised lands. The positive hope of planning was a process
+of abjection. Salvation narratives in “intelligent action,” problem-solving, and community gave recognition to those who had not secured the benefits of the good life,
+recognized for inclusion yet different.
+Those recognized for inclusion and abjected as different were embodied in crossAtlantic Protestant reform movements about the Social Question. The Social Question
+directed attention to the perceived moral disorder of immigrants, the working class,
+and racialized groups in cities. Protestant reform politics circulated among the English
+Fabian Society, German Evangelical Social Congress, the French Musée Social, U.S.
+progressive politics, and the transatlantic Protestant’s Settlement House movements to
+
+--- [PDF Page 404 / Book Page 392] ---
+
+392 Popkewitz
+
+change the conditions of the city and to change the new urban populations (Rodgers,
+1998). This entailed, for example, the growing consciousness of the limits of market
+capitalism and urban planning that would confront the debilitating effects of industrialization. Alcoholism, delinquency, prostitution, poverty, and family disintegration
+were perceived as threats to cosmopolitan aspirations of the different societies. The
+cosmopolitan urbane gave focus to the urban!
+The new sciences of society and education were part of the response to the Social
+Question. It embodied the hope of a cosmopolitan future and fears of those who did
+not participate and act as agents of change. The social sciences were to identify and
+find solutions to the urban contexts. The notions of community and primary group
+were concepts to overcome the debilitating effects of modernity in the city, for example, in US urban sociology. The theories and studies draw on German social theories
+about the alienation and abstract qualities of daily life in the city that erased prior pastoral relations of trust and community built through face-to-face relations. The notion
+of community was urbanized to “fit” the social patterns through which belonging,
+attachment, and grounding in an ethics of daily life could be articulated in city life.
+Dewey’s “habits of the mind” and George Herbert Mead’s notion of the self arising out
+of socially symbolic gestures and interactions, for example, embodied this rethinking
+of community in the context of the social as a method to counteract the debilitating
+effects of modern urban conditions.
+I draw on this history of the social and education sciences as not merely national projects
+but of a globalization about the planning of society and people through science. The narratives and images were of the cosmopolitanism; that is, an individuality guided by reason
+and science in effecting human agency and social progress that was given a universalism in
+its purposes even if those purposes were historically specific. The sciences moved schooling as a civilizing project in the name of the cosmopolitan society, although that society and
+individuality had differences when examined cross-nationally and culturally.
+The Social Question embodied a comparative set of distinctions that I spoke about
+earlier. The distinctions and divisions were inscribed through the theories and studies
+that recognized the need to include. The comparative “thought” entailed populational
+reasoning that ordered groups through probabilistic theories that placed individual
+characteristics into categories which classified the modes of living of individuals
+(Hacking, 1990). Populational reasoning, for example, produced particular aggregates of characteristics of people as a unity of the whole that could be targeted interventions. The comparative distinctions also made possible modern theories of race
+and class. Eugenics, for example, constructed difference and division on physical or
+psychological distinctions among populations and races.
+
+Cosmopolitanism and Abjection at the Turn of the Twenty-first
+Century: Cultural Theses of the Lifelong Learner and its Others!
+If we move to the turn of the twenty-first century, the cosmopolitanism and processes of
+abjection entail different assemblies and connections. Today’s cosmopolitanism is talked
+about through the lifelong learner and the Learning Society. John Dewey is still with us
+
+--- [PDF Page 405 / Book Page 393] ---
+
+The Double Gestures of Cosmopolitanism and Comparative 393
+
+in this cosmopolitanism but travels in a different global traveling library of psychological
+constructivism that includes the Russian psychologist Lev Vygotsky (Popkewitz,
+1998a). This joining of the two in pedagogy is historically ironic. Dewey wrote to
+bring Protestant reformist ethics into social policy of the liberal Republic; Vygotsky
+was Jewish but sought a psychology that articulated the moral commitments of the
+new Soviet regime. Both are dead now. Their “history” emptied, to borrow from Walter
+Benjamin (1955/1985). The two “authors” function as universal heroes in the “new”
+reform pedagogies in contemporary South Africa, Spain, the Scandinavian countries,
+and the United States, among others.
+A globalization of the individual who is a lifelong learner is impressive. Google
+search (which of course was not possible at the beginning of the twentieth century)
+brought up 1,090,000 pages under “lifelong learner.” The phrase crosses broad social
+and political arenas and geographical locations (Fejes & Nicoll, 2007; Popkewitz &
+Lindblad, 2004; Lawn, 2001; Álvarez-Mendiola, 2006). European, American, and
+Taiwanese school and teacher education reforms, US Christian religious schools, the
+rights of patients in medicine, among many others, evoke the term lifelong learner as
+the embodiment of who a person is and should be. The American Academy of Allergy,
+Asthma & Immunology Lifelong Learner (AAAAI) Bill of Rights, for example,
+declares the patient “a life-long learner who has chosen to engage in continuing …
+education to identify or fill a gap in knowledge, skill or performance (Academy News,
+July 2005, http://www.aaaai.org). Since the mid-1980s, the making of European Union
+identify is in the cosmopolitanism of the citizen who is the lifelong learner. A draft
+for European teacher education, for example, asserts that teachers’ responsibilities for
+the future hinge of the development of the child who is the lifelong learner (European
+Commission, 2006).
+My interest in the lifelong learner is not to celebrate it as the contemporary salvation story of the twenty-first century. It is to think about the comparative study of
+schooling through exploring its cultural thesis of cosmopolitanism and the comparative instantiation of who does not “fit” its notions of reason and the “reasonable” person. Further, while there are distinctions between the cultural thesis of the lifelong
+learner in Taiwan, Mexico, and northern Europe and North America, my analysis will
+primarily draw from US and European literatures as exemplars of the problematic of
+study in which to engage in comparative studies.
+
+What is the Cultural Thesis of the Unfinished Cosmopolitan?
+The revelation process of the lifelong learner is living as the problem-solver.
+Today’s problem-solving of the lifelong learner, for example, evokes Dewey but
+with a different assembly of ideas, authority relations, and institutions. A Finnish
+“Life as Learning Research Project” asserts that the lifelong learner is a complex, variable, less structured individual that is flexible and adaptive to multiple
+demands (www.aka.fi).
+The problem-solving is a calculus of intervention and displacement of the ethical
+obligation for the child. The rules and standards of problem-solving administer the personal development, self-reflection, and the inner self-guided moral growth of the child.
+
+--- [PDF Page 406 / Book Page 394] ---
+
+394 Popkewitz
+
+The administration is therapeutic, to fabricate a better-managed, healthier, and happier
+individual.
+The salvation themes of the lifelong learner are realized through collaboration and
+participation. The governing of action is through communication systems and networks (discourse communities) of the reformed curriculum. Agency is spoken of in
+psychological notions of problem-solving and the political evocation of voice and
+empowerment through community participation and collaboration.
+Teachers are now partners and collaborators governed through communication systems and networks (discourse communities) in the construction of personal knowledge.
+The cultural thesis of the teacher is a decision-maker who is “empowered” and given
+“voice” through partnerships with communities and parents. The teacher assesses the
+processes of learning and problem-solving to calculate and supervise the making and
+remaking of “self ” and the child’s biographies. The teacher observes the child’s problem-solving processes from a constructivist standpoint in which there are multiple
+paths to attain answers. The process and choices are what is important to teaching.
+The teacher is also an action researcher who reworks herself and the child through a
+continual construction of life histories or portfolios.
+Belonging is no longer directed toward a single public sphere but in diverse communities and individuality that constitute the common good. Emotional bonds and
+self-responsibility are circumscribed through networks of other individuals–the family
+and the community. One works actively in “communities of learning” or “discourse
+communities” as life is a continuous course of personal responsibility and selfmanagement of one’s risks and destiny.
+The narratives of community express universal values about creating the conditions for all individuals to achieve social or economic progress and for the revitalization of democracy. There is less talk about general social values that children are to
+ascribe to and more about children constructing knowledge and teachers as partners
+and collaborators.
+The lifelong learner can be thought of as an unfinished cosmopolitan. It is an individuality continually responsible for making choices and innovation as an unending process
+of life. The future and progress are about making choices and the only thing that is not a
+choice is choice itself. In educational, health, and crime prevention education in the US
+and Sweden, for example, the story told the individual of a mode of live of obliged to live
+with constant changes in society (Popkewitz et al., 2005). Modern schooling, for example, continually links the individual to narratives of social or economic progress and
+the revitalization of democracy that will bring personal betterment. That individuality
+is talked about as a lifelong learner who plans one’s biography as continuously solving
+problems, making choices, and collaborating in “communities of learners.”
+The nation does not disappear but is scaled in different ways. Lifelong Learning
+performs as a particular project to the construction of transnational government and
+integration with the European Union (Lawn, 2003: 330). The problem-solving life
+is a governing discourse that travels across national boundaries to recast the educational space into an imagined European community in which knowledge is a key to
+industrial competitiveness and employment. The image of Europe is of a transnational
+normativity about cosmopolitan homogeneity. Unlike national identity categories,
+
+--- [PDF Page 407 / Book Page 395] ---
+
+The Double Gestures of Cosmopolitanism and Comparative 395
+
+its legitimacy appears as not rooted in histories or ancient cultures and territories.
+The Europe of the lifelong learner is future-oriented whose terms are of universalistic
+principles about abstract values of human rights, democracy, progress, and equality as
+everyone’s modernity.
+What is ignored are the conflicts and divisions through which consensus and peace
+are celebrated and scaled. The unfinished cosmopolitanism of the lifelong learner is
+placed in a hierarchy in which the universal moral good of the nation is envisioned
+as the European Union. Soysal, for example, found a degree of affinity in goals and
+agencies by actors in different national institutional contexts across the European
+Union. The emphasis was on a Europe constituted by dialogue, conflict resolution,
+tolerance, human rights, and intercultural understanding. This is a Europe taken for
+granted and its project’s furtherance was not questioned (Soysal, 2002: 272). Except
+for the German textbooks that focused on a cosmopolitan universalism that did not
+mention the nation, the central structures of textbooks linked individual and collective
+identity with cultural homogeneity that legitimizes the nation-state (Pereyra & Luzón,
+2005: 179). Europe is more at its core than in its margins, as in the cases of Turkey
+and Greece, as the content of education still prioritizes the nation and its chronology
+(Soysal, 2002: 278).
+Social belonging and attachments, however, are not lost. The school and classrooms as communities of learning are sites for recalibrating the political aspirations
+of the individual with the new assemblies of communities as the social. The “barriers”
+breached across groups in narrations of collaboration join individual agency with the
+general development of society.
+Further, the unfinished cosmopolitanism embodies a fatalism. That fatalism is in
+its individualizing that speaks of continuous choice, innovation, and flexibility in the
+face of globalization. Globalization is placed as something that is omnipresent and
+the given to which the individual needs to develop responsible responses in order to
+create a better place for the self and ensure “its” progress. This fatalism is continually
+expressed in policy and research which talk about schools needing to respond to make
+the Learning Society necessitated by the information society and globalization that
+have no authors but stand as something that structures who we are and should be.
+
+Comparative Reasoning about Reason: Casting Out
+Who is not the Unfinished Cosmopolitan
+If cosmopolitanism provides a way to think about the hope of the future, its cultural
+thesis generates principles that order the qualities and characteristics of people who
+threaten that future. The hope and fears of the child are expressed through reforms
+and research that are to achieve an egalitarian society where all children can learn,
+all children have high achievement, and so on. The all expresses the broad political
+commitment about the unity of society and schools as a positive social institution that
+serves all segments of society equally. The reforms equally serving all children are not
+about the unity of the whole. The hope that “all children learn”, ironically, recognizes
+and divides the unfinished cosmopolitanism and its “Others.”
+
+--- [PDF Page 408 / Book Page 396] ---
+
+396 Popkewitz
+
+The efforts for rescue in school reforms bring to bear the double sense of recognition and
+difference – the fear of not being able to achieve the hope of schooling in making a more
+equitable society and the fear of the dangers and dangerous populations for the future.
+The fears have dimensions inside and outside of parameters of inclusion. Contemporary
+schooling in the industrialized nations, for example, produces “worries” about providing
+adequate learning for the child who is academically and socially “at-risk.”
+The fear of not succeeding with particular children is not only recognition of rescue
+of those fallen behind. The recognition of particular populations establishes difference.
+The differences are of the qualities and characteristics of dangers and of the dangerous
+populations – the at-risk child, dysfunctional families, divorced and single parents, juvenile delinquency, drug abuse, and sexual promiscuity, among others. In some countries,
+the fears are expressed in the discourses about immigrant children, the poor and “needy”
+who are not doing adequately in schools and whose values and behaviors demand school
+programs of remediation. The fears are given often through psychological words of difference about lacking self-esteem, the moral disintegration of the family, and inadequate
+child development that requires rescue, remediation, and counseling. (For a more general
+discussion of this “property” of modern thought in relation to a European Union study of
+educational governance and social exclusion, see Popkewitz & Lindblad, 2000.)
+The fears appear in the new statistical capacity of European Statistic System (ESS)
+to produce an inclusive society. The special task force began in 2001 with representatives of five countries (Germany, Netherlands, Portugal, Finland, and UK), European
+agencies, and two Denmark and Swiss experts (Lawn, 2003: 334). The task force was
+to identify numerical information and indicators from within European programs
+about the lifelong learner and the child in need of remediation.
+The indicators of success established determinate categories about kinds of people: the “needy,” or the “at-risk” or “disadvantage youth” in schooling (Popkewitz &
+Lindblad, 2000). In the European context, the child who is not the unfinished cosmopolitan appears in statistical reports as the addicted youth, the teenage mother, and the
+child of a single parent (mother). These characteristics are placed in relation to ethnicity, race, and other categories of the individual whose difference makes it not possible
+to ever be of “the average.” The categories have a redemptive quality to social policy,
+but they also produce divisions and principles that differentiate the “reasonable individual” from those who differentiated as different. The divisions function to qualify
+and disqualify individuals for action and participation.
+A similar process of inclusion and exclusion are embodied in teacher education
+reforms. The National Commission on Teaching and America’s Future (2003), No
+Dream Denied: A Pledge to America’s Children, for example, signifies the unity of
+the nation through cosmopolitan values about the inalienable “educational birthright”
+of all children that has an equal place with the constitutional rights of the citizen. The
+birthright is bound to being a lifelong learning in “a culture of continuous learning”
+in which the competent teachers will emancipate and liberate the universal qualities of
+human reason and rationality of the child.
+The securing of the child’s “birthright” is a double gesture that embodies fears of
+those who do not “reason” and act as “reasonable people.” The school where “all
+children learn” is a comparative injunctive of fear. It is the fear that not engaging in
+
+--- [PDF Page 409 / Book Page 397] ---
+
+The Double Gestures of Cosmopolitanism and Comparative 397
+
+the reforms that include will not enable the realization of the dream of the nation.
+The inclusion of diverse learners is to enable them “to acquire the knowledge, skills,
+and dispositions that will allow them to succeed” (Hammerness et al., 2005: 390).
+A report on the middle school instruction, as well entails double gestures, qualify
+and disqualify individuals for participation that takes into account developmentally
+appropriate psychology. Planning teaching should reflect the physical, psychosocial,
+and cognitive development of young adolescents, inscribes the threats to the moral
+order of young adolescence who experience increased peer pressure to experiment
+with tobacco, increased sexual activity and sexually transmitted diseases, teenage
+pregnancy, alcohol, illegal drugs, and criminality (Manning, 2002: 50–51).
+While no longer evoking the earlier Social Question of the city, the question of
+moral disorders still occupies reforms. The Social Question is transmogrified into the
+optimism of rescuing and rectifying failures by turning to reforms that recognize and
+differentiate “targeted populations.” The populations are not placed in the space of all
+children, but to be included yet cast out as dangerous.
+
+Working Toward Comparative Studies of Schooling
+as a Historical Problem of the Present
+Cosmopolitanism is used as an “intellectual tool” to think historically and comparatively about schooling as sites that connect individuality with collective belonging and
+“homes”. I spoke about cosmopolitanism as cultural theses to consider the principles
+generated about modes of life in pedagogical policy, reform, research, and pedagogy. I
+considered, for example, how the categories about the child as a problem-solver, acting
+in communities, and collaborating are not merely concepts to express policy intentions
+or altruistic goals of schooling in relation to child empowerment or self-realization.
+Such concepts are assembled historically and, shaped and fashioned as governing practices in ordering conduct. Further these governing practices of reflection and action link
+to principles of collective belonging about the future citizen of the nation that is scaled
+today in different ways than previously. The relation of the individual qua citizen of the
+nation and European “identity” in the European Union is one such example of scaling.
+I used the plural, cultural theses, for two overlapping considerations.
+First, the plurality is related to cosmopolitanism and processes of abjection. The
+principles generated about the cosmopolitanism of the child entailed the production
+of “others,” the child who does not have the qualities and characteristics of “reason
+to qualify as a ‘reasonable person.’ Those who do not enjoy the status of the subject,
+but whose lives are circumscribed by the cosmopolitan modes of living are part of the
+same phenomenon of schooling and not, as in the equity problematic, distinct and separate qualities. The phrase “all” children embodied a comparative instantiation of the
+unity of the whole from which to establish difference. The subsequent and continual
+reiteration in policy statements about school reforms about ‘all children will learn’ and
+that programs ‘accommodate all students’ create a space of mystical participation in a
+common good that, in fact, differentiates and divides. My argument, then, is that the
+
+--- [PDF Page 410 / Book Page 398] ---
+
+398 Popkewitz
+
+production of the cosmopolitan child in school reform evokes and enforces its Others”
+in its principles of inclusion.
+Second, the individuality embodied in cosmopolitanism is not merely variations of a
+single cultural thesis but produced in different assembles, connections, and disconnections. My focus on the cultural thesis of the unfinished cosmopolitanism and processes
+of abjection, for example, drew primarily on historicizing the principles generated
+and mutating from northern Protestant European and North American enlightenments.
+This strategy is to provide historical specificity; yet at different points there were different and diverse cultural theses such as within Dewey’s “traveling” as a conceptual personae. Cosmopolitanism, then, is a historical rather than normative method to
+explore the generation of principles about modes of life in a broader historical field of
+comparative studies.
+Cosmopolitanism as generating cultural theses is to consider the politics of schooling. That politics lies not in the conventional notions about the allocation of values
+that dominate political science literatures and school questions about who rules, whose
+knowledge, and who is ruled. The politics that I speak about is the prior system of
+reason that classifies, distinguishes, and differentiates the qualities and characteristics
+of the child who is qualified and disqualified for participation. The universalism given
+in the cultural theses about the cosmopolitanism of the child provide a seeming transcendent set of values that shreds the provincial and the past. That transcendence is
+for an inclusive society spoken about in contemporary European and North American
+policy and research as schooling for “all children.” The “all” is to signify the enlightened unity that transcends human differences. The gesture about the “all” of humanity, however, is not universal but historically and particular. It embodied exclusions:
+processes of abjection that cast some qualities of people as outside of the spaces of
+“reason” and inclusion. And it embodied a distrust of democracy itself as participation
+and collaboration were ordered through shepherds.
+Cosmopolitanism, then, is a strategy to historicize the present and explore the cultural
+theses about modes of life formed and the changing patterns of power embodied in the
+modern school. The problem is not whether people have good intentions or not, or are
+reasoning properly. I assume that people have good intentions but different paths to bring
+happiness and to recognize and to correct those classified as not being able to participate,
+are marginalized, or excluded. Yet the practices of inclusion are processes of abjection
+that cannot be considered as Kantian categorical imperatives of reason. The processes
+of inclusion and abjection are embodied in the very systems of reason through which
+intention and purpose circulate in the complexity of what is both inside and outside, both
+rescued and cast out as threats to cosmopolitanism, and thus as the unlivable spaces.
+I want to focus some issues that emerge in these considerations for the study of
+schooling.
+First, today’s governing is not one of weaker or stronger state compared to the state
+operating in the “future of yesterday.” The state is not withering away. There are different cultural and historical spaces where new configurations in governing the self
+are formed.
+Second, the discussion of cultural theses places certain strains on the residual categories of nineteenth- and early twentieth-century theories. Those theories differentiate
+
+--- [PDF Page 411 / Book Page 399] ---
+
+The Double Gestures of Cosmopolitanism and Comparative 399
+
+the social and the individual; private and public. The discussion of cosmopolitanism
+points, I believe, to the historical poverty of these distinctions in questions of schooling and pedagogy.
+Third, the focus on cultural theses was to recognize the overlapping of cultural,
+social, political, and economic distinctions in schooling. While it is fashionable to
+speak of schooling as a reduction to economic categories, reading of school reforms
+entails no such thing. There is no evidence that there is any relation between schooling
+and the competences of work except in the general qualities of one’s habitus (Meyer
+& Jepperson, 2000). While it is fashionable to talk about the economic as structuring
+educational policy and theories of the child, economic theories of work are often psychological theories of the moral and habitus of the worker today; industrial theories
+are cultural theories of modes of living that relate individuality to leisure as well as
+work productivity. There is evidence that pedagogical theories are also transported into
+business theories and practices that instrumentalize work.
+Finally, there is a paradox to this argument. The focus on cultural theses about cosmopolitanism in schooling is a comparative historical “tool” to diagnose the system of reason
+through which principles are generated that differentiate and divide who the child is and
+who is not that child (Popkewitz, 1991, 2008). The paradox is that to examine the comparative system of reason embodied in schooling while arguing for a method of comparative
+studies. In one sense, this chapter lives with the blackmail of the Enlightenment’s commitments to reason in even its arguing against its modern dogma (see Foucault, 1984).
+
+Notes
+1.
+
+2.
+
+3.
+
+4.
+5.
+
+I use the long nineteenth century to consider uneven historical movements from the late 1700s through
+the turn of the twentieth century that come together in the making of the modern school and its
+pedagogy.
+The notion of citizen is considered historically as the “responsible” individual who is the agent of change in
+the political community of the nation. Few nations today have government that is based, at least officially,
+on its population responsible for electing its representative. This notion of participation is related but not
+necessarily bounded by the ideal types of Republican government and its notions of civil virtue in comparison to that of the notion of subject of the nation. While Sweden and Australia, for example, are not formerly
+republican forms of government, ideas of civic virtue and democracy do prevail and in this sense, it is
+appropriate to use the notion of citizen. This historical use of citizen is linked to the function of schooling
+in the making of child who participates in and feels “belonging” to the nation.
+This term emerged in work that I did with Jamie Kowalcyck (see, e.g., Kowalczyk & Popkewitz, 2005)
+and related to Kristeve (1982) although our use was without the psychoanalytic traditions that Kristeve
+draws on.
+The production of differences as it relates to urban education is discussed in Popkewitz, 1998b.
+The following is drawn from Popkewitz (2005), particularly the introduction.
+
+References
+Álvarez-Mendiola, G. (2006). Lifelong learning policies in Mexico: Context, challenges, and comparisons.
+Compare, 36(3), 379–399.
+Benjamin, W. (1955/1985). Theses on the philosophy of history (H. Zohn, trans.). In H. Arendt (Ed.),
+Illuminations: Essays and reflections (pp. 253–264). New York: Schocken Books.
+Buenfil Burgos, R. (2005). Discursive inscriptions in the fabrication of a modern self: Mexican educational appropriations of Dewey’s writings. In T. S. Popkewitz (Ed.), Modernities, inventing the mod-
+
+--- [PDF Page 412 / Book Page 400] ---
+
+400 Popkewitz
+ern self, and education: The traveling of pragmatism and John Dewey (pp. 181–202). New York:
+PalgraveMacmillan.
+Cruikshank, B. (1999). The will to empower: Democratic citizens and the other subjects. Ithaca, NY: Cornell
+University.
+DeCoster, T., Depaepe, M., Simon, F., & Van Gorp, A. (2005). Dewey in Belgium: A libation for modernity?
+In T. S. Popkewitz (Ed.), Modernities, inventing the modern self, and education: The traveling of pragmatism and John Dewey (pp. 85–110). New York: PalgraveMacmillan.
+Deleuze, G. & Guattari, F. (1991/1994). Conceptual personae. Introduction: The question then.… (H.
+Tomlinson & G. Burchell, trans.). In G. Deleuze (Ed.), What is philosophy? (pp. 61–84). New York:
+Columbia University Press.
+Diggins, J. P. (1994). The promise of pragmatism: Modernism and the crisis of knowledge and authority.
+Chicago: The University of Chicago Press.
+do Ó, J. R. (2003). The disciplinary terrains of soul and self-government in the first map of the Educational
+Sciences (1879–1911). In Paul Smeyers & Marc Depaepe (Eds.), Beyond empiricism: On criteria for
+educational research, Studia Paedoagogica 34. (pp. 105–16), Leuven, Belgium: Leuven University
+Press.
+European Commission. (2006). Draft common European principles for teacher and trainer competences
+and qualifications. Brussels: European Commission, Directorate-General for Education and Culture.
+Fejes, A., & Nicoll, K. (2007). Foucault and lifelong learning: Governing the subject. London: Routledge.
+Foucault, M. (1984). What is the enlightenment? Was ist Auflärlung? In P. Rabinow (Ed.), The Foucault
+Reader (pp. 32–51). New York: Pantheon Books.
+Hacking, I. (1990). The taming of chance. Cambridge, MA: Cambridge University Press.
+Hamilton, D. (1989). Towards a theory of schooling. London: Falmer.
+Hammerness, K., Darling-Hammon, L., Grossman, P., Rust, F., & Shulman, L. (2005). The design of teacher
+education programs. In L. Darling-Hammond, J. Bransford, i. c. with, P. LePage, K. Hammerness &
+H. Duffy (Eds.), Preparing teachers for a changing world. What teachers should learn and be able to do
+(pp. 390–441). San Francisco: Jossey-Bass.
+Hultqvist, K. (2006). The future is already here – as it always has been. The new teacher subject, the pupil,
+and the technologies of the soul. T. Popkewitz, K, Petersson, U. Olsson, & J. Kowalczyk. (Eds.), The
+future is not what it appears to be’ Pedagogy, Geneaology and Political Epistemology. In Honor and in
+Memory to Kenneth Hultqvist (pp. 20–61). Stockholm: Stockholm Institute of Education Press.
+Kowalczyk, J. & Popkewitz, T. S. (2005). Multiculturalism, recognition, and abjection: (Re)-Mapping Italian
+identity. Policy Futures in Education, 3(4), 432–435.
+Lawn, M. (2003). The “usefulness” of learning: The struggle over governance, meaning, and the European
+education space. Discourse, 24(3), 325–336.
+Lawn, M. (2001). Borderless education: Imagining a European education space in a time of brans and networks. Discourse: Studies in the Cultural Politics of Education, 22(2), 173–184.
+Manning, M. L. (2002). /Developmentally appropriate middle schools, 2nd ed.. Olney, MD: Association for
+Childhood Education International.
+McKnight, D. (2003). Schooling, the Puritan imperative, and the molding of an American national identity.
+Education’s “errand into the wilderness”. Mahwah, NJ: Lawrence Erlbaum.
+McMahan, D. (2001). Enemies of the enlightenment. The French counter: Enlightenment and the making of
+modernity. Oxford: Oxford University Press.
+Meyer, J., Boli, J., Thomas, G., & Ramirez, F. (1997). World society and the nation-state. American Journal
+of Sociology, 103(1), 144–181.
+Meyer, J. & Jepperson, R. (2000). The “actors” of modern society: The cultural construction of social
+agency. Sociological Theory, 18(1), 100–120.
+Meyer, J. W., Kamens, D. H., Benavot, A., Cha, Y.-K., & Wong, S.-Y. (1992). School knowledge for the
+masses and national primary curriculum categories in the twentieth century. Washington, DC: Falmer.
+National Commission on Teaching & America’s Future. (2003). No dream denied: A pledge to America’s
+children. Washington, DC: Author.
+Nóvoa, A. (2002). Ways of thinking about education in Europe. In A. Nóvoa & M. Lawn (Eds.),
+Fabricating Europe: The formation of an education space (pp. 131–156). Dordrecht: Kluwer
+Academic Publishers.
+
+--- [PDF Page 413 / Book Page 401] ---
+
+The Double Gestures of Cosmopolitanism and Comparative 401
+Pereyra, M. A. & Luzón, A. (2005). Europe in Spanish textbooks: A vague image in the space of memory.
+In H. Schissler & Y. N. Soyal (Eds.), The nation, Europe, and the world: Textbooks and curricula in
+transition (pp. 163–190). New York: Berghahn Books.
+Popkewitz, T. (1998a). Dewey, Vygotsky, and the social administration of the individual: Constructivist
+pedagogy as systems of ideas in historical spaces. American Educational Research Journal, 35(4),
+535–570.
+Popkewitz, T. (1998b). Struggling for the soul: The politics of education and the construction of the teacher.
+New York: Teachers College Press.
+Popkewitz, T. (1991). A political sociology of educational reform: Power/Knowledge in teaching, teacher
+education, and research. New York: Teachers College Press.
+Popkewitz, T. (Ed.). (2005). Inventing the modern self and John Dewey: Modernities and the traveling of
+pragmatism in education. New York: PalgraveMacmillan.
+Popkewitz, T. (2008). Cosmopolitanism and the age of school reform: Science, education, and making society by making the child. New York: Routledge.
+Popkewitz, T. & Lindblad, S. (2004). Historicizing the future: Educational reform, systems of reason, and
+the making of children who are the future citizens. Journal of Educational Change, 5(3), 229–247.
+Popkewitz, T. S. & Lindblad, S. (2000). Educational governance and social inclusion and exclusion: Some
+conceptual difficulties and problematics in policy and research. Discourse, 21(1), 5–54.
+Popkewitz, T. S., Olsson, U., & Petersson, K. (2005). The learning society, the unfinished cosmopolitan, and
+governing education, public health, and crime prevention at the beginning of the twenty-first century.
+Educational Philosophy and Theory, 38(4), 431–449.
+Qi, J. (2005). A history of the present on Chinese intellectuals: Confucianism and pragmatism. In T. S.
+Popkewitz (Ed.), Modernities, inventing the modern self, and education: The traveling of pragmatism
+and John Dewey (pp. 255–278). New York: PalgraveMacMillan.
+Rancière, J. (1983/2004). The philosopher and his poor (J. Drury, C. Oster, & A. Parker, trans.). Durham,
+NC: Duke University.
+Rodgers, D. T. (1998). Atlantic crossings: Social politics in a progressive age. Cambridge, MA: Belknap
+Press of Harvard University Press.
+Sáenze-Obegón, Javier (2005). The appropriation of Dewey’s pedagogy in Colombia as a cultural event. In
+T. S. Popkewitz (Ed.), Modernities, inventing the modern self, and education: The traveling of pragmatism and John Dewey (pp. 231–254). New York: PalgraveMacmillan.
+Shibata, M. (2005). Japan and Germany under the US occupation: A comparative analysis of the post-war
+education reform: Lexington Books.
+Soysal, Y. N. (2002). Locating Europe. European Societies, 4(3), 265–284.
+Warde, M. (2005). Childhood, school, and family: Continuity and displacement in recent researchers. In
+K. Hultqvist & G. Dahlberg (Eds.), The reinvention of childhood: Governing the child in the new millennium. New York: Routledge.
+Weber, M. (1904–1905/1958). The Protestant ethic and the spirit of capitalism (T. Parsons, trans.). New
+York: Charles Scribner & Sons.
+

@@ -1,0 +1,1074 @@
+================================================================================
+Chapter 74: Big Stories, Small Stories: Beyond Disputatious Theory Towards ‘Multilogue’
+Author(s): Sonia Mehta
+Handbook: International Handbook of Comparative Education (2009)
+Editors: Robert Cowen and Andreas M. Kazamias (Section Editor: Elaine Unterhalter)
+Section: Section 8: The Cutting Edge - Questioning the Future
+Book Pages: pp. 1189–1208
+PDF Pages: pp. 1161–1180 (in raw/比较教育学国际手册2009Cowen.pdf)
+================================================================================
+
+--- [PDF Page 1161 / Book Page 1189] ---
+
+74
+BIG STORIES, SMALL STORIES: BEYOND
+DISPUTATIOUS THEORY TOWARDS
+‘MULTILOGUE’
+Sonia Mehta
+
+Dedicated to Rolland G. Paulston
+That there was a time when a war could be waged between ‘relativists’, who claim
+that language refers only to itself, and ‘realists’, who claim that language may
+occasionally correspond to a true state of affairs, will appear to our descendants
+as strange as the idea of a fight over sacred relics.
+Latour, B. (1999)
+
+By Way of Introduction: A Small Story
+As an ‘international’ student of comparative education, I entered the field of comparative international education, bringing with me a very different academic tradition and
+cultural history. I saw the field as a durbar (or ‘King’s court’, in Hindi) of theories,
+presided over by an organizational structure that positioned it within a certain range of
+disciplinary academic frameworks. This disciplinary lexicon was further disciplined
+by professorial choice of syllabi. This was a powerful court, and its arguments were
+familiar, if distant. I made haste to learn its language. I paid attention to the glittering
+promises of the largest stories: the upliftment of all humankind, and the promise of
+progress. I wore these as mantels in my own grand design of scholarship. Inevitably, I
+was disenchanted: there appeared no way to articulate the different and separate (and to
+me, precious) sets of stories I carried around with me like a secret. There was a reason
+I had come into the field with my own small stories, thinking they meant something
+in a larger canvas, and I was not alone: other students came with other small stories. I
+found my stories becoming more obscure, as language failed them and socio-educational practice left them on a distant margin. There was no advocacy for them in the
+durbar of comparative education studies, more out of neglect and insularity rather than
+specific malignancy. My stories, and those of some of my fellow students, were simply
+unimportant, less immediate or translated and changed as they slowly became grafted
+onto more powerful research options in more powerful and pervasive educational discourses. Mine was only one small story, and this problem was only a nebulous one
+in the larger scheme of educational problems, but it led me to consider this curious
+placing of stories in an educational and social, and intimately human context. I have
+1189
+R. Cowen and A. M. Kazamias (eds.), International Handbook of Comparative Education, 1189–1208.
+© Springer Science + Business Media B.V. 2009
+
+--- [PDF Page 1162 / Book Page 1190] ---
+
+1190
+
+Mehta
+
+two dear friends to thank for their wisdom in helping me escape this effacement of self,
+and the compression of teeming human variety into stifling binary logic. Peter Ninnes
+and Rolland Paulston, with their separate approaches to scholarship and their immense
+humanity, compassion and vision showed me a fluid and malleable landscape of understanding and another possible reality for myself and for what I do through education.
+
+Disputatious Times in a Disputatious Field
+This essay-in-understanding is situated in the context of comparative education studies in Anglo-America. I begin by tracing some of the scholarship done in the field
+that begins to open the way for new and different ways of doing comparative education research, while at the same time marking the upheaval this has caused within
+its scholarship. Comparative education has been struggling with its own stories. The
+field of comparative education has been seen as diverse and eclectic (Laska, 1973;
+Paulston, 1994), the selected expression of knowledge in a field of immense possibilities
+(Schriewer, 2000). Modernism has been long seen to dominate the field, but the field is
+also seen to be moving towards ideologies that are other than modern (Paulston, 1999;
+Rust, 1991; Kelly, 1992; Welch & Masemann, 1997; Cowen, 1996, 2000). There have
+been various interrogations of what is excluded from the histories of comparative education and its origin stories, and concern for excluded narratives (Cowen, 1996, 2000;
+Ninnes, 2002). Cowen, revisiting a comparative education preoccupation with identity
+and ‘early ideologies’, suggests a reflexive and critical look at the literature, and in so
+doing, points out an implied critical value of all “small stories”:
+(If) a good comparative education would combine an understanding of the intersection of the forces of history, social structures and individual biography, then
+it is crucial to absorb the theme of personal identities into our literature. …[A]ny
+reading of the contemporary world in terms of the scale of diasporas and migration suggests that comparative education is now too separated from a literature
+about ‘the other’ which it helped to pioneer. (Cowen, 2000, p. 336)
+Masemann, in 1990, wrote “It is quite likely that the spread of linear fragmentary
+forms of education as we now know them will be slowed or halted”, “in a world that
+can value diversity” (Masemann, 1990, p. 473). She also advocated “looking beyond
+what might be an adaptive form of response … where the ‘sacred knowledge’ is being
+generated by academics and researchers” (1990, p. 469). Masemann, Cowen and
+others, in my reading, are among those advocating alternative ways of thinking about
+education in a diverse world, and are implying that there is a need for non-linear, connective forms of education which can address the world of diversity we now engage
+with. The influx, however small, of postcolonial and postmodern ideas, largely due to
+the search for more relevant and inclusive ways of thinking about comparative education studies, signalled a shift or turn in orthodox comparative education origin stories.
+I suggest that this was a shift/break in the sense that it disrupted the prevailing story of
+what comparative education is or could be, but also a turn, or a move, away from the
+
+--- [PDF Page 1163 / Book Page 1191] ---
+
+Big Stories, Small Stories 1191
+
+largely modernistic premises of the field in Anglo-American Comparative Education.
+This ‘turn’, (Paulston, 2004) ), has been met with vigorous condemnation by those in
+the field who would prefer the familiarity and predictability of a vision of the world as
+seen by the founding fathers of comparative education and education in general. The
+latest in this heated debate is the essay by Epstein and Carroll, “Abusing Ancestors:
+Historical Functionalism and the Postmodern Deviation in Comparative Education”
+Comparative Education Review No. 49 (2005). Three years before that (2002), Ninnes
+delivered his paper, “Origin Stories and the Discursive Constitution of Comparative
+Education” at Stanford University, USA. In 2005, Paulston drew his final maps, specifically referring to this collision of scholarship and knowledge cultures. These maps
+will be explained later in this essay.
+Ninnes, through his work, interrogated the origin stories of comparative education
+and traced (and also displaced) the dominant discourse of comparative education by
+using Critical Discourse Analysis (CDA) by looking at texts and publications that are
+being used to tell the story of comparative education (Ninnes, 2002). In 1994, Paulston
+brought to the attention of the comparative education community, and to education
+theory at large, a map of the diverse perspectives present in the field. In doing so, he also
+introduced a particular way of looking at theory and research, one which was inclusive
+rather than exclusive of the various knowledge communities in comparative education.
+Rolland thus succeeded in marking important engagements the field has with multiplicity and difference. Representations of knowledge continue to change and grow in
+comparative education studies, as Paulston’s mappings of the field show (2004).
+These remain disputatious times. Old orthodoxies are being contested just as local
+skirmishes accelerate into disciplinary wars; even if the old battles between the ‘scientific’
+and the ‘non-scientific’ did not continue to divide scholarship. Beyond that, critiques of
+the ‘birth’ of the social sciences pointed out that the Enlighteners, for all their elegance
+and beauty of reason and humanitarian ideology, shaped a society hostile to social differences, and non-western cultures (as also non-scientific knowledge cultures), and had
+the unfortunate social effect of promoting harsh intolerance towards human diversity,
+and of carving social differences into individuals and groups (Seidman, 2004) This is
+not to say that social differences have not been asserted into individuals and groups far
+before the Enlightenment had anything to do with it, for reasons of religious or social
+categories, separating sect, caste, male, female and so on. In education discourse, however, as perhaps in other sites of identity building, we are still fighting over sacred relics,
+our small or big stories. There will always be the shrillness of acrimonious debating
+over the validity and ethics of one theory against the other as long as some ways of
+knowing are seen to be more valid or more valuable than others.
+In this field, we have long been engaged in various non-harmonious ways of telling
+educational and sociological stories – a debate which has become recently tense and
+embattled, with the inclusion of the ‘post’ enlightenment theories, (postmodern, poststructural, postcolonial among others) the advocacy or condemnation of which have
+led those in the field to align their positions along both sides of an dichotomous theoretical divide. I suggest that this is an artificial divide: being opposed to the ‘universal
+stories’ of modern sociology does not imply an opposition to empirical science or to
+the idea that human studies may make a better world. It does imply however, that the
+
+--- [PDF Page 1164 / Book Page 1192] ---
+
+1192
+
+Mehta
+
+privileging of scientific truth over all others is seen to limit epistemological choice and
+a full understanding of human diversity. Discarding dichotomous divisions also suggests that an understanding of the human condition in society would be more enhanced
+by not discarding the promise of explanatory accounts of social realities, but replacing
+their rationales of ‘truth’ and social ‘progress’ with rationales of social justice and
+critical moral reflexivity, replacing their comparisons of models and functions with
+genealogy and narrative. Academic communities continue, however, to be invested
+in opposing theoretical stances linked with power, prestige, institutional sanction,
+personal ego or other reasons, maintaining the divisiveness of differing knowledge
+cultures. The theoretical divide is particularly harmful to students and studentship in
+the field of comparative education studies, but it could also have the larger effect of
+circumscribing research which has direct implications on individuals and institutions
+that plan and implement policy decisions based on education research, and specifically comparative education research. Binary logic and territorialism in academia also
+serves to decimate our own simple (and complex) humanity.
+This essay-in-understanding seeks to take a view broader than the contentious one,
+to find the landscape that empowers and privileges learning, rather than territory, so that
+those engaged in the business of shaping ontological choice may first be engaged in the
+practice of unlearning, (a term coined by Heredero, 1989, in the context of social awareness) learning and relearning, in other words, “reflexivity’, a term used to refer to the
+practice of understanding a text through its own constructedness, or the understanding of
+the researcher through the constructedness of her own stories. To do this, I use Rolland
+Paulston’s last research and maps to identify and navigate “Big” and “Small” stories
+towards a comparative methodology that is inclusive of the process of how these stories
+are constructed and how they become big or small, and as Paulston shows through his
+maps, how narratives “see” and place each other in an interrelated web of connection.
+Using mapping methods and interpretations of CDA, my essay continues the discussion
+of how to do the ‘multiple’ (to map multiple knowledge perspectives) as both metaand mini-narratives, specifically combining a modality of CDA and postmodern social
+cartography into pedagogy for comparative education studies. For those suffering postenlightenment language fatigue, let me say that this is (simply) an exercise in enabling
+more choice in language and register, through which to describe our various worlds and
+views. Our interconnected and contentious, globalised milieu of academics, academic
+activity and institutions makes it possible to look upon the various wars of ideas and
+disenchantments, and ask, what is it that serves the purpose of a learning and teaching
+community at the end of contestation and disagreement?
+
+Big and Small Stories
+McCarthy and Dimitriadis problematise the organisation of knowledge in schooling
+itself following the industrial age: “Against the tide of … currents of change, however,
+mainstream educational thinkers … have tended to draw a bright line of distinction
+between the established school curriculum and the teeming world of multiplicity that
+flourishes in the everyday lives of youth beyond the school” (2001, p. 2), pointing out
+
+--- [PDF Page 1165 / Book Page 1193] ---
+
+Big Stories, Small Stories 1193
+
+one of the problems of excluding some stories from bodies of knowledge intending to
+teach and instruct. If seen through a genealogical lens, when binaries are adhered to,
+two separate bodies of knowledge are conceptualised, one in which there are dissenting
+opinions and theories, which may be excluded or rejected from other bodies of knowledge, and another which includes local beliefs and heterogeneous ontologies, which are
+unfixed and transgressive. At this impasse comes into play the deployment of authority
+and investiture, constructing the discourse of legitimate/academic/official knowledge,
+deemed ‘knowledge’ and excluding as ‘not knowledge’ the alternative body of knowledge, in its genealogical sense, choosing one knowledge culture above the many.
+Mini-narratives (small stories, local, experiential, subjective and disruptive/transgressive/interrogative of meta-narratives) and meta-narratives (big stories, global,
+theoretical, objective and exclusive of small stories) then become discourses exclusive
+of each other. This bifurcation has particular effects on the wider process of research
+and understanding. Firstly, there is the erasure of voices as stories struggle to become
+part of a dominating discourse and the loss, or translated versions of those stories as
+they become part of the visible discourse (of research, of ‘thick’ or metaphoric sociological description, of policy and so on). Secondly, there is what I call the invisible
+problem (invisible since erasures have occurred), of denying the most plural view to
+the student of educational issues, a significant problem for a field that bases its identity
+in the cross-cultural and multi-disciplinary. The problem of erasures occurs between
+languages and identities, between experience and struggle. We are then faced with
+the problem of making problems; how questions are framed and logic laid out when
+knowledge orientations are effectively kept out. We are also faced with problems of
+inclusion, and what to include what not to; what is counted as knowledge, what then
+becomes ‘legitimate’ in the discourse.
+
+Big and Small Narratives
+Big stories, or meta-narratives, are overarching theoretical ideologies, or universal stories. Mini-narratives, or small stories, are specificities, subjective anti-theories that
+are ubiquitous (everyone has their own small story). Any narrative when ‘grafted’
+(Sommers, 1999) on to a binary code which sets up a system of rules of exclusion and
+engagement (e.g., of social naturalism or religious values) may become a meta-narrative. The binary code then transmogrifies the narrative into a more potent force of
+authority and power, giving it ‘naturalised’ or ‘god-like’ sustainability in the face of
+evidence to the contrary. Which also means that there is an opposition built into this
+binary division, making its alternative an undesirable thing, contrary to the ‘natural’
+or ‘truthful’ set of rules the meta-narrative is grafted upon. For example, the metanarrative of the Enlightenment is so ‘naturalised’ as a state of social being that it is
+monolithic enough to spawn any number of theories addressing the ‘natural’ need for
+society to better itself, supporting the truth claim that this is a universal aspiration.
+My point here is not to demonise the desire behind meta-narratives, or to demonise
+any narrative for that matter. What I mean to do here is to highlight that part of the
+process in the formation of meta-narratives that becomes internalised, entrenched and
+
+--- [PDF Page 1166 / Book Page 1194] ---
+
+1194
+
+Mehta
+
+taken for ‘truth’ myths about the state of society, or individuals in it. Sommers, in
+her essay tracing the building of a meta-narrative suggests that narratives, when they
+become meta-narratives, cannot be easily destabilised. Based as they are on a binary
+logic, they have two important effects: they create and maintain boundaries of inclusion and exclusion, becoming epistemological “gatekeepers” (1999, p. 145), where the
+more ‘valid’ knowledge cultures become those based on this foundational knowledge
+schema or binary logic, and the less ‘valid’ are deemed those based on contingent
+logic. Thus, knowledge cultures are set up to be opposing and mutually exclusive.
+I suggest that small stories more often than not interrogate meta-narratives, are
+plural and local, sometimes referred to as subversive discourse when they appear in
+opposition to the meta-narrative. Mini (small) narratives question the authority of a
+meta-narrative and are usually the site of uncovering the limitations of theory. Andreas
+Musolff (2006) calls small stories “source concepts” and has analysed the organisation of source concepts into mini-narratives in the construction of social debates.
+Mini-narratives are those useful vehicles used in sociological studies for the benefit
+of a researcher who goes on to construct the pattern of these ‘incipient stories’, or
+‘experiential narratives’ according to Conle (1992, pp. 165–190) against a conceptual
+framework, or, in other words, a big story of choice. However, small stories are what
+their proponents say they are, and are to be unknown until they are brought into a
+public domain. In this durbar, turning to Paulston’s map of knowledge cultures within
+big and small stories provides a welcome disruption: All stories are mapped as texts,
+‘telling’ a particular kind of story which then has certain effects and implications.
+More importantly, the map provides a way for texts to talk to each other, and for stories
+to find connection. As a student faced with competing claims of truth and power, it is
+invaluable to be able to see this landscape as one system of interaction, which may then
+be remapped to alter the dynamic presented there. In the end it is about the need for a
+choice of an alternative language, access to the alternative and the ability to craft one’s
+own register within the languages of both meta- and mini-narratives.
+Paulston did his final map for the 2004 CIES Annual conference. It was a conference at which he could not be present because of his failing health, but it provided a
+rich, generative signpost for possible futures for the people in comparative education
+studies. The next section is devoted to the map he drew by hand (reproduced here
+electronically), followed by my reading of the map and its possibilities for crafting a
+different pedagogy for comparative education studies.
+Rolland asked, “How are we to practice our comparative art in this time of heterogeneity and tumultuous change?” To date, several options have been presented. One is
+to hold fast to the eternal truths of our founding fathers. Another is to embrace and
+privilege the cultural differences of Others. And there are also those who would avoid
+the issue altogether, using a strong dose of scientific rigour – and, perhaps, cultural
+blinders. In contrast, I would like to argue for the re-inscription of all “big stories”
+into a space, or field, of little stories. This ontological and epistemological turn from
+a binary logic of exclusion offers the possibility of a more diverse and interactive
+cartographic representation of our field. Thus, the perspectives constructing knowledge debates may be mapped into webs of difference that are open to other actors and
+other possible stories. This is not to argue for a neutral position or a neutral language
+
+--- [PDF Page 1167 / Book Page 1195] ---
+
+Big Stories, Small Stories 1195
+
+in which to compare difference. All theoretical choices offer a view of the world in
+their own terms, and all can be critiqued from the position of another theory. We can,
+of course, insist on the absolute validity and orthodoxy of our view and attempt to
+exclude other accounts as deviant. Or we can embrace Clifford Geertz’s great ‘refusal’
+to impose a single reductive story on the wonderful varieties of human understanding.
+At the end of a long scholarly road, I opt to join those who willingly attempt what may
+seem to be an impossible task, ‘to acknowledge the partiality of one’s story (indeed, of
+all stories) and still tell it with authority and conviction’ (J. W. Scott, 1991, pp. 42–43).
+while mapping it into the debate field of comparative education. In this way, we begin
+to visualise how our field may be seen – constructed as a representation, a picture of
+our complex multidimensional reality” (Paulston, 2004).
+Paulston’s map (reproduced in the following pages) shows the ontological divide
+that separates spaces where it is possible for small stories to emerge while also illustrating the conditions for such possibilities.
+Paulston’s map describes and maps five discourse genres through their core values,
+ontology, epistemology and disciplinary focus. The discourse genres chosen here are
+idiographic, nomothetic, ethnographic, agnostic and cartographic: explained fully in
+the table of genre attributes following the map (Table 1). It might be useful for readers to imagine ‘text’ as narrative – written or spoken, with its specific beginning, its
+present events (a middle) and its ends, denouements or conclusions that fix the narrative or its world view with a particular knowledge culture.
+Although the map shows opposite knowledge constructs, these need not necessarily be opposing unless the value systems of narrators (mappers) are constructed to be
+opposing. I would suggest that the circular nature of the map of knowledge cultures
+shows also what is left out of one’s own narrative when it appears alongside another’s.
+Thus the map begins a dialogue or a ‘multilogue’ (engaging communication on multiple levels), towards an unlearning and relearning as one re-maps and interrogates
+the map itself, and one engages with other narratives, because the ‘other’ is now in
+relational discourse with ‘me’. It is hoped that the map and its coordinates will provoke its own debate. For the purposes of this essay, it has led me to reconfigure my
+own theoretical positions and to rethink my own knowledge culture. A commentary
+on possible pedagogical modalities for the field of comparative education ends this
+essay-in-understanding.
+An original of the map reproduced here is to be found with the University of
+Pittsburgh’s Occasional Papers series (USA) (Figure 1).
+
+Doing the Multiple: How Postmodern Social Cartography
+and Critical Discourse Analysis Work Together
+The question remains of how to operationalise multiplicity and subjectivity. I suggest a modality called multilogue, which constitutes a number of pedagogical themes.
+At the level of text, Critical Discourse Analysis (CDA) focuses on social, historical
+and political contexts of discourses. This school of thought looks at the relationships
+between discourses, the effects of discourse on human subjectivity, and how power and
+
+--- [PDF Page 1168 / Book Page 1196] ---
+
+Causal explanations
+(Nomothetic genre):
+
+Cultural
+interpretations
+(Ethnographic
+genre):
+
+2
+
+3
+
+Materialist
+Documentation
+Representation
+Consensus
+Analogy
+Order
+Linearity
+Lawful relations
+Analytical
+Foundational truth
+Universality
+Verification
+Certainty
+Empathy
+Authenticity
+Mediation
+Holism
+Insight
+Actor identity
+Human agency
+Metaphysical
+Propositional
+Logic
+Exclusive
+Detached
+Lawful reality
+Situated
+Subjective
+Hermeneutical
+Relative
+Reflexive
+Experiential
+Reality
+
+Realist
+Computational
+Objective
+Positive
+Foundational
+reality
+
+Ethnographic
+Thick descriptionn
+Interpreting
+Symbolism
+Qualitative
+Decoding
+Constructing
+meaning
+
+Systemic modeling
+Analyses
+Quantitative
+Correlational
+
+Numeration
+Case study
+Typology
+Calculating
+Categorical
+
+Core values (axiology) Preferred reality, way Favoured way
+of being (ontology)
+of knowing
+(epistemology)
+
+Cultural anthropology
+Ethnology
+Art history
+Folklore
+Humanities
+
+Social sciences
+Sociology and
+economics
+Statistics
+Policy sciences
+
+Social and historical
+studies
+Educational planning
+and evaluation
+
+Disciplinary locus
+
+Narratives
+Myths
+Icons, arteifacts
+Codes
+Images
+Rituals
+
+Theories
+Models
+Functions
+Systems
+“Social facts”
+
+Data, categories
+Cases, types
+Plans, time
+Nomenclature
+Facts
+
+Compares
+
+How the five inquiry perspectives and discourse genres mapped in Figure 1 may be seen to construct a diverse comparative education
+
+DISCOURSE GENRES
+1 Conceptual
+descriptions
+(Ideographic genre):
+
+Table 1.
+
+Durkheim (1895)
+Anderson (1961)
+Archer (1982)
+Khoi (1986)
+Meyer (2003)
+Schriewer (2003)
+Cassirer (1957)
+Geertz (1993)
+Rockwell (1996)
+Hoffman (1999)
+Masemann (1999)
+Epstein, I. (2003)
+
+Jullien (1817)
+Comté (1876)
+Kandel (1961)
+Bereday (1964)
+World Bank (1995)
+Bray (2000)
+
+Illustrative texts
+comprising genre
+“minicanons”
+
+1196
+Mehta
+
+--- [PDF Page 1169 / Book Page 1197] ---
+
+Perspectivist mappings Multiplicity
+(Cartographic genre): Pluralism
+Heterotopia
+Space
+Visual
+Nomadic
+Surface
+
+5
+
+Difference
+Contradiction
+Struggle
+Alterity
+Textuality
+Irony
+Uncertainty
+
+Contested Readings
+(Agonistic genre):
+
+4
+
+Paradoxical
+Becoming
+Subjective
+Aletheistic
+Critical
+Hybrid
+Contested
+Reality
+Rizomatic
+Interconnected
+Perspectivist
+Inclusive
+Fluid
+Relational reality
+
+Revealing
+contradictions
+Aporias
+Unmasking and
+deconstructing
+Rhetoric
+Agonistics
+Paralogics
+Patterning
+spatial links and
+webbings
+Cartographics
+Juxtaposition
+Cognitive mapping
+Comparative studies
+Cultural geography
+Cybernetics
+Intellectual history
+
+Semiotics
+Poetics
+Cultural studies
+Feminist studies
+Postcolonial studies
+Philosophy
+Rhetoric
+World views
+Ways of seeing
+Patterns
+Epistemes
+Performances
+Networks, spatial
+relations
+
+The invisible & the
+visible
+Omissions
+Tropes, genres
+Discourse
+Narratives
+Multivocality
+
+Gore (1993)
+Bain (1995)
+Cowen (2000)
+Ninnes & Mehta
+(2000)
+Hickling-Hudson
+(2003)
+Seidman (2004)
+Foucault (1986)
+O’Dowd (1999)
+Rust (2000)
+Shroff-Mehta (2002)
+Ahmed (2003)
+Gorostiaga &
+Paulston (2004)
+
+Big Stories, Small Stories 1197
+
+--- [PDF Page 1170 / Book Page 1198] ---
+
+1198
+
+Mehta
+
+Figure 1. An Alexandrian-style map comparing knowledge spaces and inquiry genres in comparative
+education discourse
+Source: Paulston (2004)
+See Appendix A for Mini-Canons constructing each genre
+
+knowledge circulate through these effects (Foucault, 1980). In Luke’s writing (1999),
+according to Foucault and Derrida, language and discourse are “not transparent or
+neutral means for describing or analyzing the social world. … (Foucault) refers more
+generally to reiterated key words and statements that recur in local texts of all kinds.
+Such statements appear intertextually across texts and comprise familiar patterns of
+disciplinary and paradigmatic knowledge and practice” (Luke, 1999, p. 163). Derrida
+questions whether authoritative interpretations are at all possible, being that all texts
+are polysemous (the dynamic play of difference where multiple, unpredictable and
+idiosyncratic meanings can be made by multiple readers in multiple social contexts).
+
+--- [PDF Page 1171 / Book Page 1199] ---
+
+Big Stories, Small Stories 1199
+
+Thus ‘text’, in social cartography becomes ‘narrative’. Multiple users of the map can
+re-map, re-tell their texts in relationship to the other narratives on the map.
+CDA therefore begins from certain assumptions of “systematic asymmetries of
+power and resources between speakers and listeners, readers and writers (that) can
+be linked to their unequal access to linguistic and social resources” (Luke, 1999, p.
+167). Fairclough and Wodak (1997) further elaborate on the task of CDA as being both
+deconstructive and constructive. According to Fairclough and Wodak, the deconstructive moment of CDA disrupts the power dynamic of textual and verbal events and
+problematises the themes of these events. In its constructive task, CDA allows for
+a vast resource for students to critically analyse social relations by distributing the
+resources of discourse in an equitable process.
+According to a review of CDA literature done by Peter Ninnes (Ninnes, 2002),
+Critical Discourse Analysis assumes discourses, through language, to be forms of
+social practice and that they are dialectically constituted within social situations that
+are also constituted by them in a mutual process. Ninnes shows us how discourses have
+material effects that can shape, reproduce, disrupt and reshape relations of inequality
+and is therefore a form of social action. In the treatment of textual material (written
+word), CDA makes use of some degree of systemic functional linguistic methods.
+Employing lexical and grammatical features of texts, as argued by Halliday and Hasan
+(1989), have three functions:
+At the level of ‘field’: texts represent and portray the social and natural world
+At the level of ‘tenor’: texts construct and effect social relations
+At the level of ‘mode’: texts develop identifiable conventions in particular media
+‘Field’ also represents texts as the written and spoken word as particular selective
+views of the world, or ‘subject positions. ‘Tenor’ may be seen as ‘reading positions’
+that the text set out as social relations. Texts, by their ‘mode’ of establishing reading
+positions can position readers, situating them in identifiable relationships of power and
+agency vis-à-vis the text.
+In CDA, typically, subject positions (of texts) have analysed cultural assumptions
+in the textual macro-structure, focusing on selective traditions of values, ideologies,
+‘voices’ and representations. Such techniques allow the text to be analysed to demonstrate how they structure and stipulate social relations between human subjects and
+“how they build differential relations of power and agency between readers and writers, between students and textbooks” (Luke, 1999, p. 170). Through this perspective,
+discourses may also be seen as discursively reconstituted by the very discourses that
+may have been deployed to limit and divide them. Thus, because of the repeated action
+made by students and teachers upon the texts of the discourse, these discourses are
+ultimately in the hands of those who are acting upon them. The topic of analysis, such
+as value and beliefs systems about education, or poverty alleviation, is what people say
+or think it (the topic) is (Game & Metcalf, 1996).
+CDA studies the interpretive grid, as it were, of what is said, in text and speech,
+what is not said and what cannot be said. This method focuses on the specific condition under which ‘reality’, ‘truth’ and ‘knowledge’ claims are made and sustained, and
+the conditions under which particular discourses and imbedded discourses are seen as
+
+--- [PDF Page 1172 / Book Page 1200] ---
+
+1200
+
+Mehta
+
+more dominant than others. In a sense, CDA becomes a key process in the creation of
+a map made by multiple users, as the critical step towards working out the coordinates
+of the map.
+Foucault described how some discourses and not others become prominent in
+particular contexts, the conditions of this prominence and the maintenance of it
+and the relationships of power between their mutual functioning, and their transformation whether independent, reciprocally or co-relatively (Foucault, 1972).
+CDA allows one to interrogate discourses by questioning how various spoken,
+written and symbolic texts constitute and define knowledge, learner, educator,
+academic and institutional identities within the relationships of power and socialhistorical conditions through which these discourses are manifest. CDA are not
+only concerned with the contents of documents, but also with the process of their
+development and outcomes.
+The challenge of mapping multiplicity would be engaged when there is more
+than one mapper working on creating a map of knowledge constructs. As Paulston
+(1996, p. xvii) points out, mapping recognises and patterns difference: “[A] spatial
+turn in comparative studies would focus less on formal theory and competing truth
+claims and more on how contingent knowledge may be seen as embodied, locally
+constructed, and re-presented as oppositional yet complementary positionings in
+shifting fields.” Paulston gives us a general outline of the process of mapping in
+six stages:
+1. Choosing “the issues and debates” to be mapped
+2. Choosing the “range of texts that construct these debates”
+3. Conducting a “close reading and macro-analysis” of these texts (or narratives)
+4. Identifying the “range of positions in the intertextual mix”
+5. “Sharing”: Paulston recommends identifying textual communities that share
+ways of seeing and communicating reality and their locations in the mapping.
+One might also find differences.
+6. “Re-mapping”: The last, and I feel, most significant point in the mapping
+process, regarding pedagogy, is Paulston’s recommendation to test the map with
+individuals or knowledge communities involved, and then to re-map as desired
+and or share conflicting interpretations of the map.
+The mapping process requires a choice of coordinates along which to map the various stories told by the text. This can be negotiated through differences or similarities,
+which also have divergences within them, leading to re-mapping. CDA may come into
+the mapping process at anytime and with any narrative, the analysis of which would
+alter its place on the map.
+
+Multilogue
+The concept of multilogue (my coinage) questions the idea that pedagogy of difference
+can be crafted exclusively from the classroom. In the end, the space of most fluidity
+may be found in spaces other than the traditional (such as classrooms), perhaps in
+
+--- [PDF Page 1173 / Book Page 1201] ---
+
+Big Stories, Small Stories 1201
+
+cyber-space versions of a combination of CDA, which uses language to deconstruct
+discourse, and postmodern mapping methods, which mobilises the positioning and
+situatedness of the actors who choose to be within the discourse, and other processesoriented tools of critique and representation. The concept of multilogue extends the
+pedagogical sites of meaning construction from the classroom, to any environment
+through which common and/or different space is represented. It takes the concepts
+of dialogue and multiplies them so that there may be the creation of an internal and
+external map, as well as the ability to share and discuss the differences that these
+maps manifest. The communal space that represents mapping discourse as a group,
+presents, I argue, the means by which to change ontological and epistemological coordinates, introduce new ones. Thus, the actors of the discourse are to be engaged in the
+construction of a deeply meaningful way of creating ‘knowledge’, or perhaps even
+‘problem-solving’, in a fashion that allows for personal expression as well as collective
+interaction with others in the discourse.
+Rolland Paulston had made it his life’s work to construct and reconstruct knowledge perspectives in order to be and become more and more reflexive and inclusive.
+Going beyond the contentious debates of modern against postmodern, orthodoxies
+against heterodoxies, he looked upon the future of international scholarship in terms
+of its heterogeneity: networks and synergetics. This is the manifestation of a belief
+in multiple realities, with space for both big and small stories, multidimensional,
+complex, mutable and embodied, where intertextual relationships take over what
+meta-narratives left out. Thus we move from shared and isolationist histories, the big
+stories of national systems and social movements, and the interruptions of small dissentions and other stories, or mini-narratives to a process of synergy and continually
+changing discourse.
+Multilogue works under the following conceptual framework:
+Concern for Otherness and Othering, as constructive and destructive concepts
+Recognition of the simultaneous existence of multiple voices
+● Acute and self-conscious bias towards enabling tentative and silenced voices
+● Recognition of the existence of liminality, hybridity, transitions/transitologies and
+of motion in all narratives and knowledge cultures
+● Recognition that deconstruction and reconstruction, situatedness and fluidity are
+empowering and desired in a learning process
+● Recognition of the existence and effects of power
+● Recognising the limits of each story: that all knowledge is partial and is built
+through the interaction between reader and texts as well between multiple
+communications
+● Recognising that everything is dangerous, and that being able to engage reflexively
+at all levels keeps us generating connective forces rather than static, silencing forces
+●
+●
+
+Combining CDA and postmodern social cartography gives us a way of operationalising
+a sort of ‘multilogue’. According to the 1920s literary theory of Mikhail Bakhtin, all
+utterance is dialogic in that it anticipates the response of the addressee and is accented
+towards another. That is to say, we are defined by our own perceived relationship to
+others through speech. Bakhtin wrote about the intrinsic connectedness of temporal
+
+--- [PDF Page 1174 / Book Page 1202] ---
+
+1202
+
+Mehta
+
+and spatial relationships in cognitive and meaning-making situations. However, it
+was Foucault and Lefebvre (1974) who privileged space over time, signalling
+the end of ‘despatialised’ history. Rebecca Martusewicz’s Seeking Passage: Post
+Structuralism, Pedagogy, Ethics describes Serras’ idea of ‘noise’ (often dismissed
+as so many small stories): “Serras writes about the ‘beautiful noise’ or the ‘excess
+empirical’ of every text and every claim to knowledge, in the spaces of meaning
+that escape the capture of representation” (2001, p. 13). If inquiry were to be
+so pedagogically configured as to include that noisy third through a process of
+multilogue, such as is possible with the mapping process, then there is a space
+and perhaps many spaces open to the knowledge within the ‘excess empirical’. In
+effect, it may open the discourse of other potential meanings and forms, the creative process of applying all the plural parts of the individual learner, eclipsed or
+suppressed desire and understanding of the human condition, into the public and
+private sites of knowledge creation.
+
+Beyond the Postmodern: In Conclusion
+Postmodern themes in pedagogy are useful because they change the entire paradigm
+by which to approach knowledges, while they also destroy the system of paradigmatic boundary-making. Stronach and McLure (1997) show quite effectively how
+a re-reading of educational research, or perhaps an undoing of it, break not only
+the practise of boundary-making and maintaining, but also unearth ‘new’ insights
+into old research. In that sense, postmodern pedagogies, are both micro and macro:
+micro in that they are concerned with the minute details of research relationships and
+macro because they are concerned with effects and actions and influences outside and
+beyond these details.
+Perhaps the strength of comparative education studies lies in the ability (or possibility) to allow diversity in the field to actually inform the field. It is after all, one
+thing to present differences in theories and concepts, quite another to operationalise
+them in the research of the field. Presenting theories may mean that they are presented as far-away, static spaces to use or not depending on the context defined. My
+argument has been for a way of presenting a multiplicity of views that allows for a
+process as well as for the ‘interference’ of personal agency (whether teacher, learner
+or Other), and that also allows for the possibility of movement, of relationship, of
+perhaps, connective tissue. Multilogue, as CDA and postmodern social cartography
+addresses the unexamined effects of power within an experiential knowledge paradigm (when mapping takes place as an investigation into desire), allowing all actors
+to place themselves self-consciously within a discourse. Multilogue, ultimately,
+breaks the barrier and the power relationship between instructor and instructed,
+engaging both in the learning process. Only a collective can produce a working
+model of multilogue, and this suggests a next phase in traditional ways of doing
+research. In a sense, it begins with a readjustment of values, as an invisible pedagogy, a process begun before the manifestation (mapping) of stories and the shared
+learning (re-mapping) is done.
+
+--- [PDF Page 1175 / Book Page 1203] ---
+
+Big Stories, Small Stories 1203
+
+Through Rolland Paulston’s work, and the extensive interpretations of CDA done
+by Peter Ninnes and others, it has become possible to look through and then beyond
+both the harsh exclusions of meta-narratives and the sharp subjectivities of mininarratives towards processes that illustrate possible connectedness (rather than the
+static divide) of these knowledge cultures or choices, as well as their dependence
+on each other. For a student trying to tell a story or a set of stories through a space
+competing for validity of various kinds, working through text and through visual,
+spatial media could provide an escape and a personal affirmation in the face of the
+monolithic censure of academic legitimation. The backlash from those who felt we
+have to contain and discipline the field into a more secure, predictable community
+surely understand that there is really no going back, because the past was never static
+and because the content, people and places of comparative education are variegated.
+The studentship of comparative education is globally engaged, whether contentiously
+or seamlessly. Indeed the identities of most are plural, culturally, ethnically and even
+perhaps ethically.
+It is a fearsome thing, to think of the unimaginable stories that await representation; mapping the unimaginable is an uncomfortable, unpredictable thing. I want to
+echo Rolland Paulston and Peter Ninnes, and offer the challenge of allowing the selfconscious and biased process of mutilogue to become the choice of method, rather
+than choice of theoretical consolidation to become a method. Theory thus becomes
+vehicle, towards the unpredictable outcomes of research. Simply put, we need to
+start at some point, which will necessarily and admittedly be limited and myopic, but
+intensely subjective and intimate, hence invaluable. Then we continue, in Paulston’s
+conceptualisation, to think in terms of a circular and netted map, rendering the
+‘starting point’ of research only vestigial in its linearity, focusing, not on endings
+(although there will be conclusions) but on continuation and learning through debate
+and discourse. In the end, it will be the students of comparative studies that push
+boundaries in any meaningful ways, but only if there is the freedom to embrace the
+impossible, the subversive and the unthought-of, and the alternative, whatever that
+may be. At a pedestrian level, it would mean the incorporation of reflexivity into
+every teaching event, asking of all research, “What is the alternative? Where, and
+who is the Invisible”, as Susan Star does (1991) in her essay on the ‘Sociology of the
+Invisible’, being able to name known alternatives and then to allow other alternatives
+to name themselves. This is not to imply, in any way that ‘post’ anything is the new
+and glittering direction in which we should all aspire to go. That reinforces only that
+we should not remain in the grip of one or the other orthodoxy. However, it would
+take real courage of academic spirit to have the landscape of context (the multiple
+present), of history (the multiple past) and of abstraction (multiple possible futures)
+in the service of learning above service to agenda or ego. It is a messy direction, but
+I feel, infinitely generative. Advocates of obedience to sacred texts may do so
+because of the predictability of method and inquiry. If predictability means ‘being
+safe’, then by all means let us be safe. Should we then not also be safe to be different
+and differing, and should we not also have a safe space in which to engage these
+differences? Comparative education, as any field of cross-cultural investigation
+deserves at least that.
+
+--- [PDF Page 1176 / Book Page 1204] ---
+
+1204
+
+Mehta
+
+Appendix A: How Diverse Knowledge Perspectives May Be
+Seen to Shape a Postfoundational Comparative Education
+(© Rolland G. Paulston)
+A Proposed Mini-Canon for Knowledge Perspective No. 1
+Conceptual Description
+Bereday, G. Z. F. (1964). Comparative method in education. New York: Holt, Rinehart & Winston.
+Bray, M., & Gui, Q. (2000). Comparative education in greater China: Contexts, characteristics, contrasts and
+contributions. Comparative Education, 37(4), 451–473.
+Chabbot, C., & Elliot, E. J. (Eds.) (2003). Understanding others, educating ourselves: Getting more from
+international comparative studies in education. Washington, D.C.: National Academies Press.
+Chang, K. M. (1996). Quality of basic education in China. A case study of Zhejiang province. Paris:
+International Institute for Educational Planning.
+Comte, A. (1876 [1830–42]). The course of positive philosophy. In 3 vols. London: George Bell and Sons.
+Fraser, S. (1964). Jullien’s plan for comparative education, 1816–1817. New York: Teachers College Press.
+Halls, W. D. (1990). Comparative education: Contemporary issues and trends. London: Jessica Kingsley, in
+association with UNESCO, Part I.
+Hans, N. (1958). Comparative education. A study of educational factors and traditions. London: Routledge
+and Kegan Paul.
+Hayhoe, R. (1999). China’s universities 1895–1995: A century of cultural conflicts. Hong Kong: The
+Comparative Education Research Center, the University of Hong Kong.
+Husén, T. (Ed.) (1967). International study of achievement in mathematics. New York: John Wiley.
+Kandel, I. (1961). Comparative education and underdeveloped countries: A new dimension. Comparative
+Education Review, 4(3), 130–135.
+Noah, H. J., & Eckstein, M. A. (1969). Toward a science of comparative education. New York: Macmillan.
+Sadler, M. E. (1964). How far can we learn anything of practical value from the study of foreign systems of
+education? Comparative Education Review, 7(2), 307–314.
+Watson, K. (1999). Comparative education research: The need for reconceptualizing action and fresh
+insights. Compare, 29(3), 233–248.
+Wilson, D. N. (1994). Comparative and international education: Fraternal or Siamese twins? A preliminary
+geneology of the field. Comparative Education Review, 38(4), 449–486.
+World Bank (1995). Priorities and strategies for education. A World Bank Sector Review. Washington, D.C.:
+The World Bank.
+
+A Proposed Mini-Canon for Knowledge Perspective No. 2 Causal Explanation
+Anderson, C. A. (1961). Methodology of comparative education. International Review of Education 7, 1–23.
+Archer, M. S. (1982). Theorizing about the expansion of educational systems. In The sociology of educational expansion (pp. 3–64). Beverly Hills: Sage.
+Beck, U., Giddens, A., & Lash, S. (1994). Reflexive modernization. Cambridge: Polity Press.
+Bernstein, B. (1975). Class, codes and control: Theoretical studies towards a sociology of language.
+New York: Schocken Books.
+Bourdieu, P., & Passeron, J. C. (1977). Reproduction in education, culture and society. London: Sage.
+Carnoy, M., & Samoff, J. (1989). Education and social transition in the Third World. Princeton, NJ: Princeton
+University Press.
+Clayton, T. (1998). Beyond mystification: Reconnecting the world-system theory for comparative education.
+Comparative Education Review, 42(4), 479–490.
+Collins, R. (1975). Conflict sociology: Towards an explanatory science. New York: Academic Press.
+Diebolt, C. (2003). Towards a theory of systemic regulation? The case of France and Germany in the 19th
+and 20th centuries. In J. Schriewer (Ed.), Discourse formation in comparative education (pp. 55–85).
+Frankfurt am Main: Peter Lang.
+
+--- [PDF Page 1177 / Book Page 1205] ---
+
+Big Stories, Small Stories 1205
+Durkheim, E. (1895). Les regles de la methode sociologique. Paris: Presse Universitaires de France.
+Epstein, E. H. & Carroll, K. T. (2005). Abusing ancestors: Historical functionalism and the postmodern
+deviation in comparative education. Comparative Education Review, 50(1).
+Habermas, J. (1984–1987). The theory of communicative action. 2 vols. Boston, MA: Beacon Press.
+Khoi, L. T. (1986). Towards a general theory of education. Comparative Education Review, 30(1), 12–39.
+Meyer, J. W. et al. (2003). The world institutionalization of education. In J. Schriewer (Ed.), Discourse
+formation in comparative education (pp. 111–132). Frankfurt am Main: Peter Lang.
+Parsons, T. (1966). Societies: Evolutionary and comparative perspectives. Englewood Cliffs, NJ: Prentice
+Hall.
+Schriewer, J. (2003). Comparative education methodology in transition. Towards a science of complexity?
+In J. Schriewer (Ed.), Discourse formation in comparative education (pp. 3–52). Frankfurt am Main:
+Peter Lang.
+
+A Proposed Mini-Canon for Knowledge Perspective No. 3
+Cultural Interpretation
+Abu-Lughod, L. (1990). Can there be a feminist ethnography? Women and Performance. 5(1), 7–27.
+Aikman, S. (1995). Territory, indigenous education and cultural maintenance. The case of the Arakembut of
+southeast Peru. Prospects. 25(4), 665–681.
+Antweiler, C. (1996). Local knowledge and local knowing: An anthropological analysis of contested cultural
+products in the context of development. Knowledge and Learning Center, Africa region web site, The
+World Bank. www.worldbank.org
+Calasso, R. (2001). The Forty-nine steps. Translated by J. Sheply. Minneapolis, MN: University of Minnesota
+Press.
+Bloch, A. (2003). Red ties and residential scholars: Indigenous Siberians in a post-Soviet State. Philadelphia,
+PA: The University of Pennsylvania Press.
+Cassirer, E. (1957). The philosophy of symbolic forms: The phenomenology of knowledge. London: Yale
+University Press.
+Chernela, J. M. (2001). Piercing distinctions: Making and remaking the social contract in the North-West
+Amazon. In L. Rival & N. Whitehead (Eds.), Beyond the visible and the material (pp. 177–196).
+New York: Oxford University Press.
+Clifford, J., & Marcus, G. E. (Eds.) (1986). Writing culture: The practices and polarities of ethnography.
+Berkeley, CA: University of California Press.
+Epstein, I. (2003). Juvenile delinquency and reformatory education in China: A retrospective. In E. R.
+Beauchamp (Ed.), Comparative education reader (pp. 163–182). New York: RoutledgeFalmer.
+Geertz, C. (1993). Local knowledge: Further essays in interpretive anthropology. London: Harper Collins.
+Hoffman, D. (1999). Culture and comparative education: Towards decentering and recentering the discourse.
+Comparative Education Review, 43(4), 464–88.
+Krogh, G. V., Kazuo I., & Nonaka I. (2000). Enabling knowledge creation: How to unlock the mysteries of
+tacit knowledge and release the power of innovation. Oxford: Oxford University Press.
+Johannsen, A. M. (1992). Applied anthropology and postmodern ethnography. Human Organization, 51(1),
+71–81.
+Latour, B. (1998). A few steps toward the anthropology of the iconoclastic gesture. Science in Context,
+10(1), 62–83.
+Masemann, V. L. (1999). Culture and education. In R. F. Arnove & C. A.Torres (Eds.), Comparative education: The dialectic of the global and the local (pp. 115–133). Oxford: Rowman & Littlefield.
+McCarthy, E. D. (1996). Knowledge and culture: The new sociology of knowledge. London and New York:
+Routledge.
+Rockwell, E. (1996). Keys to appropriation: Rural schooling in Mexico. In B. A Levinson (Ed.), The
+cultural production of the educated person: Ethnographies of schooling and practice Albany, NY:
+SUNY Press.
+Tikly, L. (1999). Postcolonialism and comparative education. International Review of Education, 45,
+603–621.
+
+--- [PDF Page 1178 / Book Page 1206] ---
+
+1206
+
+Mehta
+
+A Proposed Mini-Canon for Knowledge Perspective No. 4 Contested Readings
+Bain, W. (1995). The loss of innocence: Lyotard, Foucault and the challenge of postmodern education. In
+M. Peters (Ed.), Education and the postmodern condition (pp. 1–20). Westport, CT: Bergin & Garvey.
+Ball, S. J. (1994). Education reforms: A critical and post-structural approach. Buckingham: Open University
+Press.
+Bonnett, M. (1998). Education in a destitute time: A Heideggarian approach to the problem of education
+in the age of modern technology. In P. Hirst & P. White. (Eds.), Journal of Philosophy of Education,
+17(1), 201–216.
+Brock-Utne, B. (2000). Whose education for all? The recolonizing of the African mind. New York: Falmer Press.
+Cowen, R. (2000). Fine tuning educational earthquakes. In D. Coulby & R. Cowen (Ed.), Education in times
+of transition: World yearbook of education London: Kogan Page.
+Gore, J. (1993). The struggle for pedagogies: Critical and feminist discourses as regimes of truth. New York:
+Routledge, Chapman and Hall.
+Gur-Ze’ev, I. (2002). Martin Heidegger, transcendence and the possibility of counter-education. In M. Peters
+(Ed.), Heidegger, education and modernity (pp. 65–80). Lanham, MD: Rowman & Littlefield.
+Heidegger, M. (1976). The age of the world view. In W. Spanos (Ed.), translated by M. Grene, Martin
+Heidegger and the question of literature: Towards a postmodern literary hermeneutics (pp. 126–149).
+Bloomington, IN: Indiana University Press.
+Hicking-Hudson, A. & Ahlquist, R. (2003). Contesting the curriculum in the schooling of indigenous
+children in Australia and the United States: From Eurocentrism to culturally powerful pedagogies.
+Comparative Education Review, 47(1), 64–89.
+Long, N., & Long A. (Eds.) (1992). Battlefields of knowledge: The interlocking of theory and practice in
+social research and development. New York: Routledge.
+Ninnes, P. (2004). Fear and desire in twentieth century comparative education discourse. Paper presented at
+the 48th CIES International Annual Meeting, Salt Lake City, March.
+Ninnes, P., & Mehta, S. (2000). Postpositivist theorizing and research challenges and opportunities in comparative education. Comparative Education Review, 44(2), 205–22.
+Paulston, R. G. (2000). Comparative education as Heterotopia? J. Bouzakis. In Historical-Comparative
+Perpectives: Festschrift for Andreas M. Kazamias (pp. 153–178). Athens: Gutenburg.
+Ross, H. et al. (1992). On shifting ground: The post-paradigmatic identity of U.S. comparative education,
+1979–1988. Compare, 22(2), 113–132.
+Seidman, S. (2004). Contested knowledge: Social theory today. Malden, MA: Blackwell.
+St. Pierre, E. A. & Pillow, W. S. (Eds.) (2000). Working the ruins: Feminist poststructural theory and
+methods in education. New York: Routledge.
+Stronach, I., & MacLure, M. (1997). Educational research undone: The postmodern embrace. Buckingham:
+Open University Press.
+
+A Proposed Mini-Canon for Knowledge Perspective No. 5
+Perspectivist Mappings
+Ahmed, Z. N. (2003). Mapping rural women’s perspectives on nonformal education experiences. In E. R.
+Beauchamp (Ed.), Comparative Education Reader (pp. 45–76). New York: Routledge Falmer.
+Antonia, R. J. (1998). Mapping the postmodern social theory. In A. Sica (Ed.), The philosophical debates.
+Boston, MA: Blackwell.
+Eckstein, M. A. (1986). The comparative mind. In P. G. Altbach & Kelly, G. P. (Ed.), New Approaches to
+Comparative Education. Chicago, IL: The University of Chicago Press.
+Erkilla, K. (2001). Mapping the entrepreneurial education debates in the United States, the United Kingdom
+and Finland. New York: Garland.
+Fauconnier, G. (1997). Mapping in thought and language. Cambridge University Press.
+Gorostiaga, J., & Paulston, R. G. (2004). Mapping diverse perspectives on school decentralization. In
+P. Ninnes & S. Mehta (Eds.), Re-imagining comparative education: Postfoundational ideas and applications for critical times, New York: Routledge Falmer.
+Foucault, M. (1986). Of other spaces. Diacritics, 16(1), 22–28.
+
+--- [PDF Page 1179 / Book Page 1207] ---
+
+Big Stories, Small Stories 1207
+Friedman, S. S. (1998). Mappings: Feminism and the cultural geographies of encounter. Princeton, NJ:
+Princeton University Press.
+Huff, A. S. (2000). Ways of mapping strategic thought. In R. G. Paulston (Ed.), Social cartography: Mapping
+ways of seeing social and educational change New York: Garland.
+Mehta, S. (2002). Mapping excluded knowledge into comparative education discourse: Some implications
+for pedagogies of difference. Doctoral Dissertation: University at Buffalo, SUNY, 254 p.
+Nicholson-Goodman, J. V. (2000). A Ludic approach to mapping environmental education discourse.
+In R. G. Paulston (Ed.), Social cartography: Mapping ways of seeing social and educational change
+(pp. 307–326). New York: Garland.
+O’Dowd, M. (1999). Mapping knowledge perspectives in the construction of Swedish educational research.
+Paper presented at the 43rd CIES annual meeting, Toronto, Canada, April.
+Pickles, J. (1999). Social and cultural cartographies and the spatial turn in social theory. Journal of Historical
+Geography, 25(1), 93–98.
+Rust, V. D. (2000). From modern to postmodern ways of seeing social and educational change. In R. G. Paulston
+(Ed.), Social cartography: Mapping ways of seeing social and educational change, New York: Garland.
+Shroff-Mehta, P. (2002). Mapping local knowledges in Indian rural development. Doctoral Dissertation:
+University at Buffalo, SUNY, 277 p.
+Stromquist, N. (2000). Mapping gendered space in Third World educational interventions. In R. G. Paulston
+(Ed.), Social cartography: Mapping ways of seeing social and educational change (pp. 223–248).
+New York: Garland.
+
+References
+Bakhtin, M. M. (Ed) (1994). The Bakhtin reader, Edited by Pam Morris. London: Arnold.
+Conle, C. (1992). Language, experience and negotiation. Curriculum Inquiry, 22(2), 165–190.
+Cowen, R. (1996). Last past the post: Comparative education, modernity and perhaps post-modernity.
+Comparative Education, 32(2), 151–70.
+Cowen, R. (2000). Comparing futures or comparing pasts? Comparative Education, 36(3), 333–42.
+Dimitriadis, G. & McCarthy, C. (2001). Reading and teaching the postcolonial: From Baldwin to Basquiat
+and Beyond. New York: Teacher’s College Press.
+Epstein, E. H. & Carroll, K. T. (2005). Abusing ancestors: Historical functionalism and the postmodern
+deviation in comparative education. Comparative Education Review, 50(1).
+Fairclough, N. & Wodak, R. (1997). Critical discourse analysis. In T. A. van Dijk (Ed.), Discourse as social
+interaction (pp. 258–84). London: Sage.
+Foucault, M. (1980). Power and knowledge: Selected interviews and other writings 1972–1977 Edited by
+C. Gordon. Pantheon: New York.
+Foucault, M. (1986). Of other spaces. Translated by J. Miskowiec. Diacritics, 16(1), 22–27.
+Game, A., & Metcalfe, A. (1996). Passionate sociology. London: Sage.
+Halliday, M. A. K., & Hasan, R. (1989). Context and text: Aspects of language in a social-semiotic perspective.
+Oxford: Oxford University Press.
+Heredero, J. M. (1989). Education for social development: Social awareness, organisation and technical
+innovation. New Delhi: Manohar.
+Kelly, G. P. (1992). Debates and trends in comparative education. In R. Arnove, P. Altbach & G. Kelly (Eds.),
+Emergent issues in education: Comparative perspectives (pp. 13–24). Albany, NY: State University of
+New York Press.
+Laska, J. (1973). The future of comparative education: Three basic questions. Comparative Education
+Review, 17(3), 295–298.
+Latour, B. (1999). Pandora’s hope: Essays on the reality of science studies. Cambridge, MA: Harvard
+University Press.
+Lefbevre, H. (1974/1991). The production of space. Oxford: Basil Blackwell.
+Luke, A. (1999). Critical discourse analysis. In J. P Lakomski & Keeves, G. (Eds.), Issues in educational
+research. New York: Pergamon.
+Martusewicz, R. (2001). Seeking passage: Poststructuralism, pedagogy, ethics. New York: Teacher’s College Press.
+
+--- [PDF Page 1180 / Book Page 1208] ---
+
+1208
+
+Mehta
+
+Masemann, V. (1990). Ways of knowing: Implications for comparative education. Comparative Education
+Review 32(4), 465–73.
+Musolff, A. (2006). Metaphor scenarios in public discourse. Metaphor and Symbol, 21(1) 165–190.
+Ninnes, P. (2002). Origin stories and the discursive constitution of comparative education. Paper presented
+at Stanford University, USA, 2002.
+Paulston, R. (1994). Comparative and international education: Paradigms and theories. In T. Husen (Ed.),
+The international encyclopedia of education (pp. 923–33). Oxford.
+Paulston, R. (1999). Mapping comparative education after postmodernity. Comparative Education Review,
+38(2), 438–463.
+Paulston, R. (1996). Social cartography: Mapping ways of seeing social and educational change. New York:
+Garland.
+Paulston, R. (March 2004). Opening up the canon? How freedom to map the multiple in knowledge debates
+enhances comparison for disputatious time. Paper presented at the 48th CIES annual meeting, Salt Lake
+City, Utah.
+Rust, V. (1991). Postmodernism and its comparative education implications. Comparative Education Review,
+35(4), 610–626.
+Star, S. (1991). The sociology of the invisible: The primacy of work in the writings of Anselm Strauss.
+In D. R. Maines (Ed.), Social organisation and social process: Essays in honour of Anselm Strauss.
+New York: Aldine de Gruyter.
+Schriewer, J. (2000). Discourse formation in comparative education, Komparatistische bibliothek; bd 10.
+Comparative education studies series: Vol. 10. New York: Peter Lang.
+Scott, J. W. (1991). Women’s history. In P. Burke (Ed.), New perspectives on historical writing (pp. 42–43).
+Cambridge: Cambridge University Press.
+Seidman, S. (2004). Contested knowledge: Social theory today. Malden, MA: Blackwell.
+Sommers, M. (1999). The privatisation of citizenship: How to unthink a knowledge culture”. In V. Bonnell,
+L. Hunt & R. Biernacki (Eds.), Beyond the cultural turn: New directions in the study of society and
+culture University of California Press.
+Stronach I. & McClure, M. (1997). Educational research undone: The postmodern embrace. Buckingham:
+Open University Press.
+Welch A., & Masemann, V. (1997). Editorial introduction (special issue on tradition, modernity and postmodernism in comparative education). International Review of Education. 43(5–6), 393–399.
+

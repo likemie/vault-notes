@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28"
 argument_display_title: "Research Methods in Education · Ch28"
 argument_kind: "book-chapter"
-argument_related_count: 39
+argument_related_count: 38
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -55,7 +55,6 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Informed Consent]]"
   - "[[Emergence]]"
-  - "[[AI Hallucination]]"
   - "[[Construct]]"
 related_theories: []
 related_methods:
@@ -349,7 +348,7 @@ updated: '2026-08-27'
 > 上述判断主要针对以编码与检索为核心的旧一代软件：计算机不消除人的参与，人仍需决定并生成编码与类别、验证并诠释数据。文本的算法式诠释存在严格限度（Kelle, 2004, p. 277）。CAQDAS 不执行分析，只支持研究者通过组织数据、记录编码与节点来分析；它更像文字处理器与整理器而非分析工具（Flick, 2009, p. 359）。García-Horta & Guerra-Ramos（2009, pp. 152–3）认为软件不能替代研究者赋予意义、识别异同、建立关系的能力，迄今没有软件能处理意义的生成与诠释。（28.4）
 
 > [!note] 当下的变化：LLM 辅助质性编码
-> 近年大语言模型（large language model，LLM）已能自动生成与建议编码、归类文本、抽取主题与摘要，部分承担了过去必须由研究者完成的机械分析环节。研究者仍须对 LLM 输出负责，校验编码一致性、保留[[Reflexivity|反身性]]并报告使用与局限（如[[AI Hallucination|幻觉]]、语境丢失、刻板偏误）。（28.4 附注）
+> 近年大语言模型（large language model，LLM）已能自动生成与建议编码、归类文本、抽取主题与摘要，部分承担了过去必须由研究者完成的机械分析环节。研究者仍须对 LLM 输出负责，校验编码一致性、保留[[Reflexivity|反身性]]并报告使用与局限（如幻觉、语境丢失、刻板偏误）。（28.4 附注）
 
 > [!critique] 软件可能驱动分析
 > - **软件驱动分析而非相反** Crowley et al.（2002）与 Fielding & Lee（1998）指出软件可能驱动分析而非相反。

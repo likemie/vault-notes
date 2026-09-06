@@ -1,0 +1,796 @@
+================================================================================
+Chapter 09: Reflections on the Development of Comparative Education
+Author(s): Val D. Rust, Brian Johnstone, and Carine Allaf
+Handbook: International Handbook of Comparative Education (2009)
+Editors: Robert Cowen and Andreas M. Kazamias (Section Editor: Elaine Unterhalter)
+Section: Section 1: The Creation and Re-creation of a Field
+Book Pages: pp. 121–138
+PDF Pages: pp. 142–159 (in raw/比较教育学国际手册2009Cowen.pdf)
+================================================================================
+
+--- [PDF Page 142 / Book Page 121] ---
+
+9
+REFLECTIONS ON THE DEVELOPMENT
+OF COMPARATIVE EDUCATION
+Val D. Rust, Brian Johnstone, and Carine Allaf
+
+This chapter deals with our reflections on the development of the field of comparative
+education. We ask three major questions. What are its beginnings? Where has it gone?
+Where is it going?
+
+The Beginnings of Comparative Education
+Beginnings are often vague, ill-defined, and tangled. Accounts of a beginning are
+often best associated with the mind of the storyteller than the thing itself, and so it
+is with reports of the beginning of comparative education. Some people are satisfied
+with vague generalities. And so, comparative education began during a shadowy time
+in antiquity, when descriptive tales of “useful lessons from foreign practices” were
+brought home by travellers to foreign parts, by “amateurs,” who happened to take
+note of an exotic educational situation or school in another culture (Noah & Eckstein,
+1969). It is believed to have begun in the West when classical Greeks such as Pindar,
+Herodotus, Xenophon, Cicero, and Julius Caesar described educators and education in
+lands beyond their own borders (Fraser & Brickman, 1968).
+In this context, the origins of comparative education are “ancient” and associated
+more with an art, in that those practicing it were concerned with the practice of learning and teaching (Hilker, 1962). Stewart E. Fraser and William W. Brickman remind
+us of a “growing awareness of the monumental comparative writings of previous
+centuries” related to comparative and international education (Brickman & Fraser,
+1968). One task comparative educators have is to catalogue these writings in some
+systematic form.
+Even the origins of the term “comparative education” are a bit muddled. As early as
+1785, Thomas Jefferson made reference to “comparative advantages of an American
+rather than a European Education” (Jefferson, 1785), but the actual term was likely
+first used by William Russell in 1826, in his translation of Marc-Antoine Jullien’s
+questions on l’éducation comparée, written in 1816–1817. Thus, Jullien may have
+been the first to use the term, at least in the French language. In 1888–1889, William
+T. Harris made reference to “a science of comparative pedagogy,” suggesting that the
+term “comparative education” had not been universally accepted in Americans by
+that time (Harris, 1889). The Germans continue to debate whether the term should
+121
+R. Cowen and A. M. Kazamias (eds.), International Handbook of Comparative Education, 121–.138
+© Springer Science + Business Media B.V. 2009
+
+--- [PDF Page 143 / Book Page 122] ---
+
+122 Rust, Johnstone, and Allaf
+
+be Vergleichende Erziehungswissenschaft (comparative educational sciences) or
+Vegleichende Pädagogik (comparative pedagogy) (Hilker, 1962; Schneider, 1961).
+In 1816–1817 Marc-Antoine Jullien began perhaps the first documented initiative in
+the field of comparative education. He recommended that nation-states collect data and
+catalogue educational conditions through questionnaires he would design that would
+be reviewed by a special committee, composed of experts from various countries. This
+information would then be shared by countries and serve as a frame of reference for
+formulating educational reform policy in various countries (Fraser, 1964).
+
+Comparative Education and the Academy
+For most scholars, comparative education began when it became recognized in the
+modern academy, with its growing orientation toward specialization and scientific
+investigation. Comparative education did not appear as a subfield of education until
+educational studies were adopted by teacher training institutions and universities.1 With
+university programs in education came appointments of faculty devoted to comparative education, courses in comparative education, textbooks for comparative education
+students, and academic journals that published research findings and self-reflections
+on the field. Thus, comparative education is popularly believed to have begun in 1899,
+when Teachers College, Columbia University in the United States developed the first
+course in comparative education one year after Teachers College became a part of
+Columbia University (Bereday, 1963). Curiously, George Bereday, who had already
+published James Russell’s syllabus of the 1899 course, stated that the tradition of
+comparative and international studies at Teachers College dates back to World War I,
+with the publication of the first textbook in comparative education by Peter Sandiford
+(1918). That textbook, of course, was titled Comparative Education (Bereday, 1960).
+As was the case with Sandiford’s edited volume, almost all of these early textbooks
+introduced university students to comparative education as the notion of “education
+in” this or that country or world region (Bereday, 1963).
+The first journal devoted to comparative education was begun by Friedrich Schneider,
+a professor at Köln University in Germany, who in 1931 established the Internationale
+Zeitschrift für Erziehungswissenschaft (International Review of Educational Sciences).
+In the first edition, Schneider outlined what he felt was the history, system, method,
+purposes, and contributions of comparative education, and he attempted to establish a
+terminological base from which the discipline would function (Schneider, 1931/32).
+Some scholars set the beginning of the field with the formal establishment of professional associations dedicated to comparative education. The first such organization
+was initially named the Comparative Education Society, and its constitution was ratified in 1956, though its name would later be changed to its current title, Comparative
+and International Education Society (CIES). In that same year, a formal journal, the
+Comparative Education Review, was established by CIES, intending to provide an
+outlet to scholars of research and reviews of works appearing in the field.
+The senior author of this essay, Val Rust, had a personal experience with beginnings,
+related to doctoral students in the field, who would be expected to take over university
+
+--- [PDF Page 144 / Book Page 123] ---
+
+Reflections on the Development of Comparative Education 123
+
+appointments as specialists in comparative education. Even though university appointments had been made prior to doctoral programs in the field, these appointments
+consisted of people who had been trained in fields other than comparative education.
+The foundations of the field of comparative education were established by scholars
+representing historical and humanistic inclinations, including historians Isaac Kandel,
+Friedrich Schneider, Nicholas Hans, Robert Ulich, Andreas Kazamias, Claude A.
+Eggertsen, and William Brickman, and scholars who rely on what Robert Cowen calls
+“the culturalist motif,” such as Joseph Lauwerys, W. D. Halls, Vernon Mallinson, and
+Edmund King. Of course, there were good early comparative education scholars whom
+we identify with the more conventional disciplines within the social sciences, including C. Arnold Anderson in sociology, Philip Foster, and Harold Noah in economics.
+Interestingly, Max Eckstein is so closely identified with Harold Noah that his name is
+usually connected with Noah’s orientation, although Eckstein comes from a literature
+and humanities background.
+Val D. Rust’s own doctoral advisor, Claude A. Eggertsen, mentioned above, was
+born in a little railroad junction in Utah known as Thistle in Spanish Fork Canyon. At
+Thistle, his father was a railroad man, but he saw to it that Claude had the preparation
+necessary to go to College at Brigham Young University where he studied history,
+then to Stanford University, then the University of Minnesota, and finally he moved to
+the University of Michigan where he established himself as a prominent historian of
+American education. World War II had a profound impact on his life and upon returning to his office in Ann Arbor, he felt cramped by his field of research: it was too small,
+too confined, too limited. He embarked on the field of comparative education, transforming himself from a student of America to a student of the world (Rust, 1987).
+
+Influences Across Cultures
+It is unfortunate that many of those explaining early academic comparative educationists have been so locked into a certain view of scholarship that they have tended to
+discount early versions of the field or cast them as inferior and defective. It has been
+difficult for them to recognize that even “amateur” traveller’s tales had their virtues
+and value. Academic comparative educators have tended to judge so much of the
+nineteenth-century comparative education studies as inferior in that it was “utilitarian”
+filled with “description,” “without reasoned analysis” and “eulogistic” (Templeton,
+1954). These academic assessments were quite accurate about the nature of these
+comparative works. They were indeed utilitarian, practical, and oriented toward the
+general improvement of schools and educational systems. But the studies have been
+harshly judged because they reflected a type of comparative study that is not common in the field today. That is, they focused on what might today be referred to as
+“influences across cultures.” In fact, there are contemporary academic fields of study,
+including comparative literature, that rely almost exclusively on this type of activity. Comparative literature scholars are certainly humanities oriented, but their basic
+quest has strong science overtones in that they attempt to unravel interrelationships
+between individuals, schools of thought, or national literatures across time and space.
+
+--- [PDF Page 145 / Book Page 124] ---
+
+124 Rust, Johnstone, and Allaf
+
+In terms of time, comparative literature specialists wish to chart how German Catholic
+literature influenced German classicism and how it, in turn, influenced romanticism;
+how Shakespeare changed English literature; and how modern European literature is
+in debt to Greek and Latin literature. In terms of space, the comparative literature
+scholar wishes to trace the movement of themes and genres from place to place: how
+religious themes in Switzerland migrated to the Netherlands, then to America; how
+Tolstoi, Emerson, and Thoreau influenced Indian writers in South Asia; how Africa
+incorporates European writing styles; how the Don Juan archetype moves from culture
+to culture (Highet, 1992; Weisbuch, 1989).
+Just as in the field of comparative literature, “influences across cultures” is a definite and wonderful part of the comparative education heritage that ought to be more
+highly prized and appreciated than it sometimes is. Comparative education specialists
+could make a great contribution to the field’s work by paying attention to historical
+and contemporary endeavors. The work of countries such as Norway, in terms of
+national reform policy formation, has been especially significant. In the Norwegian
+educational reform tradition, for example, a commission has usually been established
+either by Parliament or a Department of the government to study the situation and
+make recommendations for change. Their recommendations have come in the form of
+white papers, and, from their inception in the 1840s, these commissions have always
+described relevant conditions in all Scandinavian countries, the rest of Western Europe
+and even North America that served as options for consideration of alternative courses
+of action and models for potential adoption (Rust, 1990). By exploring the “external”
+educational world, Norway was able to make appropriate and useful improvements to
+their own educational system.
+Just as Norway looked to other European countries, the United States also took a
+vested interest in Europe, developing relationships with France, Germany, and England.
+The American involvement in Prussia was part of a general swell of interest throughout
+Europe in the 1830s and 1940s initiated mainly through the report of a French scholar,
+Victor Cousin, who had been sent to Germany by the French Ministry of Education in
+1831. Sarah Austin’s English translation in London of Cousin’s report in 1834 found
+its way to the United States and served as a trumpet-call for a general exodus of educators and statesmen from the United States to Europe, in particular to Prussia. Indeed,
+Burke A. Hinsdale eventually came to write that Cousin’s report “produced results,
+direct and indirect, that far surpass in importance the results produced by any other
+educational volume in the whole history of the country” (Hinsdale, 1906).
+Of course it was utilitarian, descriptive, and eulogistic. Following a trip to Europe,
+Calvin E. Stowe returned to America to declare before the Ohio legislature that the
+Prussian educational system was no “visionary scheme,” but represented a program of
+instruction “in the best school districts that have ever been organized” (Stowe, 1930).
+Alexander Dallas Bache returned to America from a 2-year study of European schools
+to report that Prussian primary education was the “most perfect of the centralized systems” (Bache, 1839). Horace Mann, Secretary of the Board of Education of the State
+of Massachusetts from 1837–1848, stated in his Seventh Annual Report: “Among
+the nations of Europe, Prussia has long enjoyed the most distinguished reputation
+for excellence of its schools” (Mann, 1844). The same praise was expressed by the
+
+--- [PDF Page 146 / Book Page 125] ---
+
+Reflections on the Development of Comparative Education 125
+
+Superintendent of Common Schools in Connecticut, Henry Barnard, who claimed that
+the Prussian schools had “attained a degree of excellence, which has attracted attention
+of statesmen and commanded the admiration of intelligent educators in every part of
+Christendom” (Barnard, 1854).
+Comparative educator Isaac Kandel would certainly have condemned such accounts
+of Prussian education because he felt they were permeated with “mere descriptions of
+administration, organization, and practices . . . written wholly from the point of view
+of education alone, without any closely reasoned analysis of what the systems stood
+for or represented in the field of national progress and development . . .; they were in
+general not prepared in the light of their bearing on specific American problems, or,
+if they were prepared with this end in view, sufficient allowances were not made for
+differences in national environments” (Kandel, 1930).
+Such condemnations, including that of Kandel, took these reports out of context
+and discounted the acute awareness American educational specialists had of the situation in Prussia. The recommendations of the American reports were not universally
+accepted by American policy makers, who opposed adoption of the Prussian schools,
+because the schools were seen to be used by the Prussian state to perpetuate monarchical aims and to check the growing revolutionary spirit within the boundaries of that
+Prussian state. In response to this challenge, the reformers quickly admitted there was
+a relationship between Prussian schools and despotism. Calvin E. Stowe openly conceded that the whole educational program of Prussia was “to unite with the military
+force which always attends despotism, a strong moral power over the understanding
+and affections of the people” (Stowe, 1930). However, the American reformers countered this negative argument by stating that the evils were naturally separable from the
+good. Horace Mann maintained that if the Prussian schoolmaster could teach reading,
+writing, geography, and arithmetic in half the time that was required in America, then
+surely they could “copy his modes of teaching these elements, without adopting his
+notions of passive obedience to government” (Mann, 1844). He argued that human
+faculties were the same everywhere. The best means for their growth and development
+would therefore also be the same, and good schools can be used to strengthen the
+democratic and republican spirit in America. Certainly, context and analysis mattered
+to the American school reformers who were engaged in comparative education study.
+Comparative educators have been sensitive to foreign influences on education; as
+comparative education became an academic field, its founders were generally more
+sensitive about the possibilities of drawing on foreign models with the purpose of
+“perfecting national systems with modifications and changes” than of including past
+influences from abroad in their own analyses of a nation’s educational system (Hans,
+1955). Clearly, early comparative studies were intended to make a direct contribution to
+the American common school movement that led to the establishment of an American
+school system. Consequently, the American common school was almost an exact copy
+of the Prussian Volksschule. Curiously, these American reformers often retained the
+French terms used by Cousin. Consequently, the American normal school is a replica
+of the German teacher training seminar, though the term we use is French.
+Fortunately, these types of early, pre-academic comparative education activities
+have not disappeared from our current academic activities. Some important work
+
+--- [PDF Page 147 / Book Page 126] ---
+
+126 Rust, Johnstone, and Allaf
+
+has been done in comparative education circles related to tracing influences in educational change and reform. Harry Armytage, for example, has written four books
+tracing the influence of America, France, Germany, and Russia on English education
+(Armytage, 1967, 1968, 1969a, b). Friedrich Schneider devoted most of his period of
+exile from Nazi Germany tracing the influences of German education on other countries (Schneider, 1943). Even though his choice of topics is understandable, given the
+National Socialist context within which he was working, his contribution to “influences” remains significant. Some of the work of the senior author of this essay has
+focused on the reciprocal influences on education between Germans and Americans
+(Rust, 1967, 1968, 1997). In fact, Rust’s own dissertation represents one of the few
+studies of a single country’s historical interest in education beyond the borders of that
+country (Rust, 1967).
+Fortunately for specialists in comparative education, significant contemporary work
+is being engaged in relation to “influences across cultures” at least in borrowing terms.
+Recently, scholars at Oxford University, under the leadership of David Phillips have
+engaged in a process of conceptualizing what goes on in the “borrowing” process
+between nations, particularly as they relate to policy formation and implementation
+(Phillips & Ochs, 2003). The Oxford framework is not dissimilar to that developed by
+Rust in his study of educational policy formation and the implementation process in
+Norway, which involve a series of phases: initiation study, consensus-building, legal
+framework, and implementation (Rust, 1989).
+Phillips and his colleagues have engaged in a large number of case studies, both
+geographically and historically that demonstrate part or all of the borrowing process (Phillips, 2004). These Oxford scholars have been joined by people such as Gita
+Steiner-Khamsi at Teachers College, Columbia University, who is concerned not only
+with the borrowing process but also the lending process (Steiner-Khamsi, 2004).
+The borrowing process has gone on as long as there have been separate administrative units that have maintained relations with each other. It is not clear how
+globalization provides special contextual and circumstantial issues to be dealt with.
+Most of the borrowing that has been documented has been between nation-states or
+between systems of education in the modern age. With the emergence of transnational
+conditions within the context of globalization, new models are yet to be developed that
+illuminate the borrowing and lending process in education, as will be discussed in the
+final section of this essay.
+
+Comparative Education as a Scientific Enterprise
+If there is a common theme that runs through the history of comparative education, at
+least as an academic field, it is its quest to be a science. Such a quest is also reflected in
+the whole field of educational studies. In 1887, the first American professor of education, William H. Payne, posed the specific nature of the issue, by noting “education is
+chiefly an empirical art.” There is “no science of education” but a major purpose of the
+field in higher education “is the development of educational science” (Payne, 1887).
+This is not just an American issue. We noted earlier that some Germans have preferred
+
+--- [PDF Page 148 / Book Page 127] ---
+
+Reflections on the Development of Comparative Education 127
+
+to use the term comparative pedagogy, because it reflects a middle ground between the
+idealistic and the realistic, an educating art, an empirical art, the contradictory notion
+of the “art of science.” Our own position related to comparative education is that it
+has never been devoid of science impulses. Even the pre-academic practice comparative education, which we refer to as “influences across cultures,” has clear scientific
+dimensions.
+Comparative education must be viewed as one of a number of comparative fields
+of study that have emerged at the time science was becoming a part of academic studies. Comparative fields of learning were seen to emerge in the life sciences in the
+seventeenth and eighteenth centuries AD, as subfields of anatomy, paleontology, and
+embryology, but they quickly expanded to almost every field coming into existence. In
+fact, some of these fields, including sociology, were initially identified as comparative
+in nature.2 In 1905, Louis Henry Jordan, wrote a large volume entitled Comparative
+Religion, where he extolled no less than 26 comparative fields, claiming that the common property of all these fields was their “distinctive methodology.” That is, they all
+used the scientific method and aimed “to expound those fundamental laws of relation.”
+And, according to Jordan, comparative education was one of the more exemplary of
+these “scientific” comparative fields, because “no method of inquiry has proved more
+fruitful of wise suggestions.”3
+If the example of Jordan serves us, we see that as comparative education entered the
+academy, it had already been identified with being a science. We must consider methods, methodology, and epistemology related to comparative education in the context
+of the broad landscape of higher education and mainly in the context of science. The
+Encyclopedia of Philosophy, for example, deals with the meaning of the terms method
+and methodology under the heading scientific method (Edwards, 1967).
+The terms are inextricably associated with intentions of academic fields to be
+scientific. Bernard S. Phillips echoes most texts dealing with social science research
+as he defines the scientific method as “(1) defining problems so as to build on available knowledge, (2) obtaining information essential for dealing with these problems,
+(3) analyzing and interpreting these data in accordance with clearly defined rules,
+(4) communicating the results of these efforts to others” (Phillips, 1976). Robson also
+claims research strategies usually involve four levels: (1) research design, (2) methods
+of data collection, (3) analysis of the data, (4) and interpretation and implications of
+the analysis (Robson, 1993). There is a crucial difference between the terms methodology and methods in our research. The first and last of the strategies noted by Phillips
+and Robson rely so heavily on conceptual issues that they are mainly methodological
+in nature while only the second and third levels deal explicitly with methods.
+When we refer to research methodologies, we refer to the larger context for methods
+being applied. In addition, methodologies usually have theoretical implications in that
+they provide theories of how research does or should proceed. There is a long methodological tradition in comparative education. The first academic comparative education
+scholars, such as Isaac Kandel, Nicholas Hans, and Friedrich Schneider, argued that
+education can only be understood within the context of broad economic, political,
+cultural, and social forces of a country. And their methodology demanded that educational systems not only be described in detail, but that the meaning of educational
+
+--- [PDF Page 149 / Book Page 128] ---
+
+128 Rust, Johnstone, and Allaf
+
+phenomena be derived by interpreting the economic, political, cultural, and social conditions that defined the educational systems (Hans, 1955; Kandel, 1933; Schneider,
+1961). This deems that education is not a separate or isolated aspect of society – rather
+it is deeply rooted within a society’s political, cultural, and economic conditions.
+As education came to be caught up in the drive to be more scientific, the methodological debates shifted to issues of the social sciences. One of the main issues
+comparative education scholars such as Brian Holmes and George Bereday argued
+over was whether research should proceed inductively or deductively (Bereday, 1960;
+Dewey, 1910; Holmes, 1965; Popper, 1963). The early scholars noted in the preceding paragraph took for granted that the process was inductive. Educational systems
+were described and then interpreted from the broader economic, political, cultural,
+and social context. Bereday’s comparative methodology was also inductive in that it
+began with descriptions of two or more countries; then these systems were interpreted
+from the broader context. The next phase was to juxtapose the data for the countries.
+Finally, this data was compared. Clearly, their methodology was inductive in nature.
+Brian Holmes challenged this tradition by relying on people such as John Dewey and
+Karl Popper to expound on his so-called hypothetico-deductive approach to research
+and he criticized his colleagues for their tendency to begin the research process with
+descriptions of educational phenomena and only arrive at theory at a later stage in the
+process. This discussion is not dead and continues as a methodological issue in the
+debate over so-called grounded theory (Strauss & Glasser, 1967).
+Methodologies are also related to the selection of research methods. The choice of
+data collection ought to be made on theoretical grounds and what data sources provide
+the most compelling evidence. This is particularly the case with regard to when and
+to what degree research ought to be qualitative or quantitative in nature (Crossley &
+Vulliamy, 1984; Heyman, 1979; Masemann, 1976). This issue focuses on the uses put
+to research. Robert Stake explains the different orientations of those doing qualitative
+research as opposed to those doing quantitative research: “Quantitative researchers
+have pressed for explanation and control; qualitative researchers have pressed for
+understanding the complex interrelationships among all that exists” (Stake, 1995).
+Comparative education methodological issues also deal with the degree to which
+studies ought to be descriptive, interpretive, or prescriptive, or whether it ought to be
+melioristic, ideological, or strictly neutral (Kazamias, 1961), or the degree to which
+studies ought to be problem based (Holmes, 1965). Other methodological concerns
+involve the relationship between action and research, the relationship between the
+researcher and the object of research,4 or whether a single perspective or multiple
+perspectives are more appropriate (Kellner, 1988).
+Methods have to do with how we collect and analyze data. When one decides on
+the methods of data collection, one is asking the following questions: what kind of
+information is being sought, from what sources, and under what circumstances? When
+one decides on how to analyze the data, one is deciding how to make sense out of the
+data that has been collected.
+Science was particularly important in the development of comparative studies, and
+early comparative scholars uniformly identified their field as one which relied on the
+use of the scientific method. In the more general scientific sense, comparative scholars tested hypotheses about causal relations between phenomena. However, from the
+
+--- [PDF Page 150 / Book Page 129] ---
+
+Reflections on the Development of Comparative Education 129
+
+beginning comparative scholars also restricted their scientific research in two ways.
+First, they examined similarities and differences between phenomena or classes of
+phenomena. Second, whereas science was generally committed to experimentation
+as a way of making classifications and testing theory, the comparative scholar relied
+almost entirely on studying variations in the natural setting.
+We make no claim that comparative education studies are fundamentally different
+from social sciences in general. In fact, all social sciences are comparative in nature,
+at least insofar as all thought, especially considering that scientific thought is comparative in nature. The major complication of comparative studies is that it involves
+the analysis of “dissimilar units” (different societies and cultures) (Smelser, 1976). In
+comparative education the unit of analysis is usually the educational system or a subset of that system in two or more nation-states (Thomas, 1998). We recognize that no
+single research method or methodology has ever characterized the field of comparative
+education. Isaac Kandel, in his classic work, Comparative Education, explained that
+“the methodology of comparative education is determined by the purpose that the study
+is to fulfill.” In other words, Kandel assumed that different questions require somewhat
+different ways of answering them. However, our research projects at UCLA have confirmed that the types of research strategies available to people such as Kandel were
+rather limited, in that they focused mainly on historical and humanistic strategies.
+
+Comparative Education Matures
+Since comparative education entered the academy, it has undergone great change. In
+general, this change represents increasing complexity and diversity in the field. Such
+change represents both advantages and disadvantages, which we intend to discuss and
+interpret.
+
+Internationalization of Comparative Education
+Comparative education began as an academic field in the United States, but quickly
+developed a presence in Canada, Great Britain, Germany, and other European countries. This Eurocentric situation remained the major base of the field until the last
+quarter of the twentieth century, when programs and professorships rapidly began to
+expand to other parts of the world.
+Erwin Epstein refers to this process as the internationalization of comparative education (Epstein, 1981). The expansion of the field is best illustrated by the growth of
+the World Council of Comparative Education Societies (WCCES) that was organized
+in 1970 to advance the field globally. WCCES has held 12 world congresses, the last
+being held in Havana, Cuba in 2004. At the time this essay was written in 2007, 33
+different comparative education societies are listed as members of the World Council.5
+In the literature, a number of accounts are found of comparative education in specific
+areas of the world. The United States claims the earliest account of its association
+origins (Templeton, 1954), but there are also historical accounts of comparative education in Japan, of Mainland China, of India, of Germany (Rust, 1967), of the former
+Soviet Union, of Europe in general (Cowen, 1980), and other geographic units. Gary
+Tsuchimochi claims comparative education in Japan was a direct outgrowth of World
+
+--- [PDF Page 151 / Book Page 130] ---
+
+130 Rust, Johnstone, and Allaf
+
+War II, when the Japanese wished to gain access to the educational advantages the
+West presented to them (Tsuchimochi, 1982). Sureshchandra Shukla also feels India’s
+interest in comparative education sprang from its colonial past, but also from an interest in understanding the educational conditions of its neighbors in China, Indonesia,
+and elsewhere (Shukla, 1983). The Chinese Comparative Education Society was established in 1979 with the intention that the Chinese educational community break away
+from its isolation with the rest of the world, so that it would learn from developments
+elsewhere, but also to disseminate research findings about educational developments
+in China (Chen, 1994). The former Soviet Union encouraged the development of comparative education within its sphere of influence, but its intentions were unique among
+comparative educators. It used education as a tool of propaganda in that the West
+was willing to publish articles written by Soviets, even though these articles glorified
+developments in the Soviet Union and castigated the West for is decadent, capitalistic
+educational policies and programs (Hans, 1964).
+
+Expanding Scope of Research Options
+The methodologies of early pioneers of the field were remarkably similar, in that no
+single method has ever characterized the field of comparative education. Although data
+collection research strategies several decades ago were limited to literature reviews
+and historical data, they increased dramatically over time. By literature reviews, we
+mean studies that are argued on the basis of secondary literature and could therefore be
+seen as interpretive essays. The more conventional social science approaches, such as
+interviews, ethnographies, participation/observation, questionnaires, and other types
+of field research has increased dramatically. In addition, one finds in comparative education journals additional strategies such as project reviews, content analysis of texts,
+analysis of census data, and other large survey databases.6
+
+Expanding Scope of Data Analysis Options
+Data Analysis in comparative education began almost exclusively as qualitative in
+nature. That is, the tradition was constructivist, interpretive, and naturalistic in that
+it was based on a paradigm that the researcher was continually interacting with the
+subject matter being researched and that the researcher was a part of the evaluation
+process. That process remains in reduced form even today, although a more positivistic, objective social science orientation has become a mainstay of the field. In fact,
+our work at UCLA indicates that the primary fields with which comparative educators
+today identify with are sociology, political science, and economics (Henrickson et al.,
+2003). There remains a pervasive tendency to rely on qualitative data, but there has
+been a significant increase in quantitative studies since the mid-1960s. These quantitative studies are largely related with surveys and questionnaires.
+
+Expanding Geographic Orientation of Research
+The first major observation is that the geographic focus of comparative research
+has shifted dramatically from the 1960s until the present. In the 1960s comparative
+
+--- [PDF Page 152 / Book Page 131] ---
+
+Reflections on the Development of Comparative Education 131
+
+education studies were largely focused on the developed world. In fact, in some
+areas of the world, comparative education was seen as something quite theoretical
+and separated from the developing world. At the University of London, for example,
+there was a clear separation between the comparative education program and the old
+Department of Education in Developing Countries, which was initially focused on
+colonial issues, then became generally concerned with “British foreign assistance
+projects and with training administrators and practitioners in the Third World . . .”
+(Altbach, 1991). This has changed, and even at the University of London, the two
+departments merged for a while as the Department of International and Comparative
+Education.
+The geographic origins of scholars have also shifted. Early centers for the study of
+comparative education were staffed by specialists almost exclusively from the developed world. Thus, Brickman, Eggertsen, and Anderson were American; Hans was
+from Russia and of German descent; Kandel was Romanian and lived and taught in
+England and then the States; Bereday were Polish; Rosello was Swiss: Schneider and
+Hilker were German; Foster, Noah, Eckstein, Lauwerys (by birth, a Belgian), King
+and Holmes were English. Kazamias was Greek who was educated in England who
+later taught in the United States. Today, scholars increasingly originate from various
+parts of the world. They tend to come from countries falling in all spheres of human
+development, though because of the political economy of countries reflecting low
+human development, scholars from these countries are not as visible as scholars from
+other parts of the world, mainly because they do not have the resources necessary
+to engage in international research projects. Some remarkable developments can be
+observed. For example, in the 1990s China had no less than seven journals devoted
+exclusively to comparative education (Chen, 1994). According to a recent Nan Tou
+University bulletin in Taiwan, the university maintains six comparative education faculty positions, more than found at any American comparative education university
+center.
+
+Theory in Comparative Education
+Nowhere is greater change seen in recent decades than in theory. We have already
+noted that a liberal, humanistic tradition exemplified the early years of comparative
+education at universities, but this quickly gave way to endeavors to make comparative education a scientific enterprise. The theoretical foundations for comparative
+education shifted toward the social sciences, and the field was identified with two
+closely allied theoretical orientations: structural functionalism and modernization.
+Kazamias and Schwartz note that structural functionalism emphasized “social functions, societal interdependence, social order or consensus, and value free science”
+(Kazamias & Schwartz, 1977). In the comparative education context they feel it
+seeks to describe the interrelations between the educational system and other social
+institutions. Without question, structural functionalism stood alone as the pervasive
+sociological theory orientation of the period. It so dominated the landscape that it
+was simply taken for granted that any legitimate study of social forces and factors
+would be based on that orientation.
+
+--- [PDF Page 153 / Book Page 132] ---
+
+132 Rust, Johnstone, and Allaf
+
+At the same time, comparative education was coming to devote itself to modernization, or the change process by which traditional societies would become modern. The
+mechanism by which this process would occur was seen to be schooling and education, and so comparative education became a central element in any modernization
+scheme (Altbach, 1991). A number of specific theoretical orientations came into play
+in modernization, including human capital theory, structural functionalism, and systems theory. Comparative education specialists were comfortable with their role in the
+modernization process, because the field had always had a reformist bent, a practical
+role in transforming not only education in any society but using education to transform
+society itself (Kazamias & Schwartz, 1977). This ambition had been central to many
+of the activities of those early reformists, who were anxious to influence others across
+cultures through educational reform.
+By the 1970s, the domination of structural functionalism and modernization precipitously declined, as the hegemonic domination of earlier theoretical orientations
+was successfully challenged. The major challenges came from a wide array of “emergent critical and interpretive knowledge communities” (Paulston, 1993), which were
+attempting to change America into a more open, pluralistic society. If they were not
+successful in transforming society, they were certainly successful in changing academic environments, including comparative education.
+With the decline of the hegemonic impulses of the 1950s and 1960s, comparative
+educationists became increasingly theory oriented, in large part because the journals
+publishing comparative education works reflected an increasing number of theories.
+In addition, our work at UCLA confirmed that authors included multiple perspectives
+in their work. In our inquiries of authors of comparative studies, we compiled a list of
+at least 26 different theoretical orientations authors publishing in major comparative
+education journals were relying on.7
+We must emphasize that scholars who rely on and develop theory are generally
+committed to science. We have found that almost all of the people contributing to
+comparative education journals are committed to theory, and those few scholars who
+deny their work is theory-driven see their work as descriptive and practice-oriented.
+They are “profession-” more than “academics”-driven.
+One of the major concerns that have been raised over the years is the lack of unity
+in comparative education. Surely, at the time the field entered the academy, there was a
+sense of unity with regard to the disciplines in the field, the geographic focus, the origins of the early comparative education scholars, the methodology, and the theoretical
+orientation. Over time, this unity has been lost, and there has been some concern that
+the field has begun to spin out of control and fragment itself in all of the above respects
+to the point that it may have little coherent identity.
+From our vantage point we see the field becoming pluralistic rather than fragmented,
+and that pluralism can be seen as a strength in that it indicates a break from the stifling
+orthodoxy, that characterized the field in the 1950s and early 1960s, both theoretically and methodologically. However, any phenomenon that gyrates has the potential
+of spinning out of control, loosing any sense of the identity and cohesiveness necessary for a field to grow and thrive. This is certainly not yet the case; we see comparative
+education as a healthy, defined field of endeavor.
+
+--- [PDF Page 154 / Book Page 133] ---
+
+Reflections on the Development of Comparative Education 133
+
+Where Is Comparative Education Headed?
+It is our general perspective that comparative education is in a state of good health; it
+is now opting for directions that introduce a fresh perspective for those who have been
+in the field for several decades. This is being highlighted by comparative education students just entering the field. The field reached a decisive and optimistic point in the late
+1960s, with the publication of Toward a Science of Comparative Education by Harold
+Noah and Max Eckstein. The general tone of the book was that the field was finally
+establishing itself as a legitimate science. The authors catalogue various phases of
+the field, including travellers’ tales, educational borrowing, international educational
+cooperation, forces and factors shaping education. All of these were “predecessors of
+modern comparative education” (Noah & Eckstein, 1969).
+Discourse about modern comparative education inherently encompasses the notion
+of globalization. Val Rust addressed the intersection of education and globalization in
+his publication Foreign Influences in Educational Reform, which raises the question as
+to whether or not research in the field of comparative education has been able to keep
+up with the rapid progression of globalization. Rust cites three categories of educational response to globalization – receptivity, resistance, and restoration (Rust, 2004).
+Receptivity, also referred to as “cross-national attraction and borrowing,” is the
+process through which education communities respond positively to external influences by adopting aspects of other educational systems with the desired objective of
+improving their own. This has been the main concentration of the field since its origin.
+The second response by education communities is resistance. Advocated by radical
+theorists, resistance attempts to counter the oppressive, capitalist forces of neo-liberal globalization through concerted efforts to maintain and celebrate differences in
+cultures, languages, and political ideologies. Throughout the world, cultural imperialism, a consequence of colonialism and now globalization, has been responsible for the
+decline and decimation of countless indigenous languages and cultures. Restoration,
+the third identified response, is initiated to ensure the preservation and promotion of
+such indigenous knowledge.
+Receptivity, resistance, and restoration adequately portray a historical focus of
+comparative education. However, as up and coming professionals in this field, the junior authors of this essay feel there has been a lack of focus on the oppressive nature
+of the forced imposition of educational programs or requirements from dominant to
+dominated countries in non-symbiotic relationships, which has been the trigger for
+educational resistance and restoration. This relationship between dominant and dominated countries is substantially different from Rust’s description of “reception theory,”
+and we feel that another category should be considered within the field of comparative education. Such a category is comparable to the theory of reproduction, in which
+“schools function in the interest of the dominant society” (Giroux, 1983). Whereas
+receptivity reflects the internal efforts to improve an educational system by incorporating selective aspects of external systems, reproduction is the forced implementation
+of educational systems by an external, dominant society. In this case, the “dominant
+society” refers to the developed or core countries, with a “hidden curriculum” of promoting the dominant, core culture and maintaining a relationship of inequality and
+
+--- [PDF Page 155 / Book Page 134] ---
+
+134 Rust, Johnstone, and Allaf
+
+dependency. This is a significant consequence of globalization that needs the full attention of future comparative education researchers.
+Mainstream comparative education has conscripted the advancement of modernity
+as the underlying definition of education. As new professionals in the field, we challenge this notion and urge progressive comparative educators to cooperatively consider
+a meaning of education that advances humanity instead of modernity. As part of this
+consideration it is necessary to pose the question, has mainstream comparative education promoted a liberating “education” or rather a hegemonic neo-liberal political
+ideology? Paulo Freire states unambiguously that education is politics (Shor & Freire,
+1987). By promoting modernity, comparative education has sided with the capitalist economic model, which Freire describes as having “absolute insensitivity to the
+ethical dimension of existence” (Freire, 1998). What comparative education requires
+is a shared discourse about the political forces that have infused modernity into the
+definition of education. A brief consideration of UNESCO’s Education for All (EFA)
+initiative provides the impetus for this discourse.
+The EFA goals, as accepted almost universally, represent a meaningful and comprehensive humanist-based definition of education, which emphasizes educational equity,
+access, and literacy. Based on the latest quantitative evaluation of EFA by UNESCO,
+almost none of the African, Middle Eastern (with the exception of Israel), non-English
+speaking Caribbean, or Latin American countries, many of which had been coerced
+into adopting capitalist-based educational systems, have yet met their EFA goals
+(UNESCO, 2006). The notable exception is Cuba, which has succeeded by working
+outside of the dominant global capitalistic structure. Disappointingly, Cuba has not
+received any distinction for achieving the EFA goals due inevitably to its marginalized status for not supporting the dominant capitalist ideology. Considering that EFA
+promotes a humanistic educational outlook, Cuba should be applauded for its achievement in realizing the EFA goals and be considered as a model for other countries.
+Comparative education, in a historical context, has provided a strong foundation
+for international cooperation for the advancement of receptive education. However,
+neglecting the reproductive aspect of mainstream comparative education has led to
+the necessity of resistance and restoration. The recognition of the latter two should
+have been a warning sign that the focus and interventionist approach of the field has
+resulted in non-symbiotic international relationships and an increasingly dependent
+and exploitative global community. As up and coming comparative educators, we concur with Arnove’s statement, “We believe that comparative education can – and should
+– play a significant role in contributing to the possibility that coming generations will
+use their talents on behalf of international peace and social justice in an increasingly
+interconnected world” (Arnove, 1999). In order to play this role, comparative education would do well to return to its roots. Isaac Kandel, the previously mentioned
+pioneer in the field, wrote in 1955, “Because a nation seeks through education to mould
+the character of its citizens and so reflects its aims – political, social, economic, and
+cultural – a study of its educational system, as here defined, can contribute as richly
+to an understanding of its aims in general as a direct study of its political policies”
+(Kandel, 1955). With this understanding of comparative education as a field dedicated
+to research and receptivity, not interventionism and reproduction; with the acceptance
+
+--- [PDF Page 156 / Book Page 135] ---
+
+Reflections on the Development of Comparative Education 135
+
+that education be defined in terms of humanism, not capitalism; and with a praxis of
+liberation, not domination, individual countries and societies can take ownership for
+defining their own educational systems for the benefit of their people, culture, economics, and politics.
+
+Notes
+1.
+
+2.
+3.
+
+4.
+5.
+6.
+7.
+
+The first professors of education were appointed in Scotland in 1876. Simon Somerville Laurie
+received the appointment at Edinburgh and John Miller Dow Meiklejohn at St. Andrews. William
+H. Payne was the first in the United States in 1879 at the University of Michigan. At the time of his
+appointment, William H. Payne had been serving as the superintendent of Adrian School District in
+Michigan, and it is significant that the very first lectures he gave at the University of Michigan were
+on the schools and the educational systems of Europe. Of course, the term comparative education was
+not in use at the time (see Payne, 1887).
+Auguste Comte, father of sociology, initially named the field “comparative sociology” (see Compte,
+1988).
+(Jordan, 1905: 35). The fields Jordan discussed were Comparative Anatomy, Comparative Philology,
+Comparative Grammar, Comparative Education, Comparative Philosophy, Comparative Psychology,
+Comparative History, Comparative Geography, Comparative Antiquities, Comparative Art,
+Comparative Architecture, Comparative Agriculture, Comparative Forestry, Comparative Statistics,
+Comparative Ethnology, Comparative Mythology, Comparative Sociology, Comparative Hygiene,
+Comparative Hygiene, Comparative Physiology, Comparative Zoology, Comparative Jurisprudence,
+Comparative Economics, Comparative Colonization, Comparative Civics, and Comparative Politics.
+There are some wonderful essays from feminists about the dilemmas they face in international work
+(see, for example, Cook & Fonow, 1991; Wolf, 1996).
+See http://www.hku.hk/cerc/wcces.html
+For specific information concerning these strategies, see (Rust et al., 1999)
+These included human capital, modernization, structural functionalism, systems theory rational
+choice, political pluralism, organizational/institutional theory, dependency, Marxian/neo-Marxian,
+World systems, ethnography, phenomenology, constructivism, symbolic interactionism, critical theory, cultural revitalization, feminism, post-structuralism, post-modernism, pragmatic interactionism,
+and neo-colonialism (see Henrickson et al., 2003).
+
+References
+Altbach, P. (1991). Trends in comparative education. Comparative Education Review, 35, 491–507.
+Armytage, W. H. G. (1967). The American influence on English education. London: Routledge & Kegan
+Paul.
+Armytage, W. H. G. (1968). The French influence on English education. London: Routledge & Kegan Paul.
+Armytage, W. H. G. (1969a). The German influence on English education. London: Routledge & Kegan Paul.
+Armytage, W. H. G. (1969b). The Russian influence on English education. London: Routledge & Kegan Paul.
+Arnove, R. F. (1999). Introduction: Reframing comparative education: The dialectic of the global and the
+local. In R. F. Arnove & C. A. Torres (Eds.), Comparative education: The dialectic of the global and the
+local. Boulder: Rowman & Littlefield Publishers.
+Bache, A. D. (1839). Education in Europe. Philadelphia: Lydia Bailey.
+Barnard, H. (1854). National education in Europe. Hartford: Case Tiffany & Co.
+Bereday, G. Z. F. (1960). Comparative education at Columbia University. Comparative Education Review,
+4(1), 15–17.
+Bereday, G. Z. F. (1963). James Russell’s syllabus of the first academic course in comparative education.
+Comparative Education Review, 7(2), 189–196.
+Brickman, W. W., & Fraser, S. E. (Eds.) (1968). A history of international and comparative education.
+Boston: Scott, Foresman & Co.
+
+--- [PDF Page 157 / Book Page 136] ---
+
+136 Rust, Johnstone, and Allaf
+Chen, S.-C. (1994). Research trends in mainland Chinese comparative education. Comparative Education
+Review, 38(2), 233–252.
+Compte, A. (1988). Introduction to positive philosophy (F. Ferre, Trans.). Indianapolis: Hackett.
+Cook, J. A., & Fonow, M. M. (Eds.) (1991). Beyond methodology: Feminist scholarship as lived research.
+Bloomington, IN: Indiana University Press.
+Cowen, R. (1980). Comparative education in Europe: A note. Comparative Education Review, 24(1),
+98–108.
+Crossley, M., & Vulliamy, G. (1984). Case study research methods and comparative education. Comparative
+Education, 20, 273–286.
+Dewey, J. (1910). How we think. Boston: D. C. Heath.
+Edwards, P. (Ed.). (1967). The encyclopedia of philosophy. New York: Macmillan/Free Press.
+Epstein, E. (1981). Toward the internationalization of comparative education: A report on the World Council
+of Comparative Education Societies. Comparative Education Review, 25(2), 261–171.
+Fraser, S. E. (1964). Jullien’s plan for comparative education: 1816–1817. New York: Teachers College,
+Columbia University.
+Fraser, S. E., & Brickman, W. W. (Eds.) (1968). A history of international and comparative education.
+Atlanta: Scott, Foresman & Company.
+Freire, P. (1998). Pedagogy of the heart. In A. M. A. Freire & D. Macedo (Eds.), The Paulo Freire reader
+(pp. 263–282). New York City: Continuum.
+Giroux, H. A. (1983). Theory and resistance in education: A pedagogy for the opposition. South Hadley,
+MA: Bergin & Garvey Publishers.
+Hans, N. (1955). Comparative education: A study of educational factors and traditions. London: Routledge
+& Kegan Paul.
+Hans, N. (1964). The Soviet approach to comparative education. Comparative Education Review, 8(4),
+90–93.
+Harris, W. T. (1889). The annual report of the commissioner for 1889. In U. S. Board of Education (Ed.):
+US Printing Office.
+Henrickson, L., Faisaon, S., & Rust, V. (2003). Theory in comparative education. World Studies in Education,
+4(1), 5–28.
+Heyman, R. (1979). Comparative education from an ethnomethodological perspective. Comparative
+Education, 15(no. 1), 241–249.
+Highet, G. (1992). The classical tradition: Greek and Roman influences on Western literature. New York:
+Oxford University Press.
+Hilker, F. (1962). Vegleichende Paedagogik: Eine Einfuehrung in ihre Geschichte, Theorie und Praxis.
+Muenchen: Max Hueber Verlag.
+Hinsdale, B. A. (1906). History of the University of Michigan. Ann Arbor: University of Michigan.
+Holmes, B. (1965). Problems in educaton: A comparative approach. London: Routledge & Kegan Paul.
+Jefferson, T. (1785). The comparative advantages of an American rather than a European education. In
+S. E. Fraser & W. W. Brickman (Eds.), A history of international and comparative education. Glenview,
+Illinois: Scott, Foresman & Co.
+Jordan, L. H. (1905). Comparative religion. Edinburgh, Scotland: T. & T. Clark.
+Kandel, I. (1930). Essays in comparative education. New York: Teachers College, Columbia University.
+Kandel, I. (1933). Comparative education. Boston: Houghton Mifflin.
+Kandel, I. (1955). The new era in education. Boston: Houghton Mifflin.
+Kazamias, A. (1961). Some old and new approaches to methodology in comparative education. Comparative
+Education Review, 5(October), 90–96.
+Kazamias, A., & Schwartz, K. (1977). Intellectual and ideological perspectives in comparative education:
+An interpretation. Comparative Education Review, 21(3), 153–176.
+Kellner, D. (1988). Globalization and the postmodern turn. http://www.gseis.ucla.edu/courses/ed253a/dk/
+GLOBPM.htm
+Mann, H. (1844). Mr. Mann’s seventh annual report: Education in Europe. Common School Journal, 6, 72.
+Masemann, V. (1976). Anthropological approaches to comparative education. Comparative Education
+Review, 20(October), 368–380.
+Noah, H., & Eckstein, M. (1969). Toward a science of comparative education. London: Collier Macmillan.
+
+--- [PDF Page 158 / Book Page 137] ---
+
+Reflections on the Development of Comparative Education 137
+Paulston, R. (1993). Comparative education as an intellectual field: Mapping the theoretical landscape.
+Comparative Education, 23(2), 101–114.
+Payne, W. H. (1887). Contributions to the science of education. New York: Harper & Brothers.
+Phillips, B. S. (1976). Social research: Strategy and tactics. New York: Macmillan.
+Phillips, D. (2004, March 9–12). Educational borrowing policy: Historical and contemporary perspectives.
+Paper presented at the Comparative and International Education Society Annual Meeting, Salt Lake
+City, Utah.
+Phillips, D., & Ochs, K. (2003). Processes of policy borrowing in education: Some explanatory and analytical devices. Comparative Education, 39(4), 451–461.
+Popper, K. (1963). Conjectures and refutations: The growth of scientific knowledge. New York: Harper & Row.
+Robson, C. (1993). Real world research: A resource for social scientists and practitioner-researchers.
+Oxford, UK: Blackwell.
+Rust, V. D. (1967). German interest in foreign education since world war i. Unpublished dissertation,
+University of Michigan, Ann Arbor, Michigan.
+Rust, V. D. (1968). The common school issue–a case of cultural borrowing. In W. Correll & F. Suellwold
+(Eds.), Forschung und erziehung. Germany: Donauwoerth.
+Rust, V. D. (1987). Claude a. Eggertsen: His formative years. In R. F. Lawson, V. D. Rust & S. M. Shafer
+(Eds.), Education and social concern: An approach to social foundations. Ann Arbor, Michigan:
+Prakken Publications.
+Rust, V. D. (1989). The democratic tradition and the evolution of schooling in Norway. Westport, CT:
+Greenwood Press.
+Rust, V. D. (1990). The policy formation process and educational reform in Norway. Comparative Education,
+26(1), 13–26.
+Rust, V. D. (1997). The German image of American education through the Weimar period. Paedagogica
+Historica: International Journal of the History of Education, 33(1), 25–44.
+Rust, V. D. (2004). Foreign influences in educational reform. In H. Ertl (Ed.), Cross-national attraction in
+education. Oxford: Symposium Books.
+Rust, V. D., Soumare, A., Pescador, O., & Shibuya, M. (1999). Research strategies in comparative education.
+Comparative Education Review, 41(1), 86–109.
+Sandiford, P. (Ed.). (1918). Comparative education, studies of the educational systems of six modern nations.
+London: J. M. Dent & Sons.
+Schneider, F. (1931/32). Internationale paedagogik, auslands paedagogik, vergleichende erziehungswissenschaft: Geschichte, wesen, methoden, aufgaben und ergebnisse. Internationale Zeitschrift fuer
+Erziehungswissenschaft, 1.
+Schneider, F. (1943). Geltung und einfluesse der deutschen paedagogik im ausland. Muenchen: R. Oldenbourg.
+Schneider, F. (1961). Vergleichende erziehungswissenschaft. Heidelberg: Quelle & Meyer.
+Shor, I., & Freire, P. (1987). A pedagogy for liberation. Boston: Bergin & Garvey.
+Shukla, S. (1983). Comparative education: An Indian perspective. Comparative Education Review, 27(2),
+246–258.
+Smelser, N. J. (1976). Comparative methods in the social sciences. Englewood Cliffs, NJ: Prentice-Hall.
+Stake, R. (1995). The art of case study research. Thousand Oaks, CA: Sage.
+Steiner-Khamsi, G. (2004). Lessons from elsewhere: The politics of educational borrowing and lending.
+New York: Teachers College Press.
+Stowe, C. (1930). Report on elementary public instruction in Europe. In E. Knight (Ed.), Reports on
+European education. New York: McGraw Hill.
+Strauss, B. G., & Glasser, A. L. (1967). The discovery of grounded theory: Strategies for qualitative research.
+Chicago: Aldine.
+Templeton, R. G. (1954). The study of comparative education in the United States. Harvard Educational
+Review, 24(3), 141–158.
+Thomas, R. M. (1998). Conducting educational research: A comparative view. Westport, CN: Bergin &
+Garvey.
+Tsuchimochi, G. (1982). Comparative education in japan: A note. Comparative Education Review, 26(3),
+435–431.
+UNESCO (2006). Strong foundations: Early childhood care and education. Paris: UNESCO.
+
+--- [PDF Page 159 / Book Page 138] ---
+
+138 Rust, Johnstone, and Allaf
+Weisbuch, R. (1989). Atlantic double cross: American literature and British influence in the age of emerson.
+Chicago: University of Chicago Press.
+Wolf, D. L. (Ed.). (1996). Feminist dilemmas in fieldwork. Boulder, CO: Westview Press.
+

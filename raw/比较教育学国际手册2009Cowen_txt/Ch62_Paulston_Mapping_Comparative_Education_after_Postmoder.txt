@@ -1,0 +1,1338 @@
+================================================================================
+Chapter 62: Mapping Comparative Education after Postmodernity
+Author(s): Rolland G. Paulston
+Handbook: International Handbook of Comparative Education (2009)
+Editors: Robert Cowen and Andreas M. Kazamias (Section Editor: Elaine Unterhalter)
+Section: Section 7: New Thinking
+Book Pages: pp. 965–990
+PDF Pages: pp. 946–971 (in raw/比较教育学国际手册2009Cowen.pdf)
+================================================================================
+
+--- [PDF Page 946 / Book Page 965] ---
+
+62
+MAPPING COMPARATIVE EDUCATION AFTER
+POSTMODERNITY
+Rolland G. Paulston†1
+
+To Isaiah Berlin, in Memoriam
+Two extravagances: to exclude Reason, to admit only Reason.
+(Blaise Pascal, Pensées)
+He who would do good to another must do so in Minute Particulars: General
+Good is the plea of the scoundrel, hypocrite and flatterer; For Art and Science
+cannot exist but in minutely organized Particulars.
+(William Blake, Jerusalem)
+This article examines the postmodern challenge to how we have come to see, represent, and practice comparative and international education. More specifically, I ask
+three questions: (1) Can a close reading of the relevant literature identify and type
+major positions or arguments in the postmodernism debate in our field? (2) How might
+these positions or knowledge communities be mapped as a discursive field of diverse
+perspectives and relations? Then, using this “heterotopia” of different ways of seeing
+Blake’s minute particulars or mininarratives, (3) What might we reasonably conclude
+about the postmodern challenge of multiperspectivism and its impact on how we as
+comparativists choose to represent our world?
+But first a few words concerning key concepts and methods used in this study. I make
+no distinction in using the terms postmodern, postmodernism, or postmodernity, although
+numerous books have been written that do so.2 My only interest in these terms is to identify
+and map some 60 texts, which is all I could find on the topic. By presenting the postmodernity debate in comparative education and its related discourse as an ensemble of
+textual relations, I hope to avoid giving the appearance of dualism and a binary struggle of
+opposites. On the contrary, I view all positions in the field as interrelated and perhaps best
+understood as an intertextual space that allows the negotiation of meanings and values.
+In order to type and map, I must first enter into the texts and uncover how reality
+is seen (i.e., ontology), on what historical rules or codes truth claims are based (i.e.,
+genealogy), and how the narrative framing process chosen produces a perspective, or
+narrative of transmission (i.e., narratology). In choosing narrative as a thematic frame,
+I seek to highlight specific dimensions of texts in the debate, while acknowledging that
+some aspects of the text are foregrounded at the expense of others.
+965
+R. Cowen and A. M. Kazamias (eds.), International Handbook of Comparative Education, 965–990.
+© Springer Science + Business Media B.V. 2009
+
+--- [PDF Page 947 / Book Page 966] ---
+
+966 Paulston
+
+Accordingly, my reading can only be understood in light of the possible heterogeneity of each text. Readings by others, including the authors themselves, would
+most likely produce different interpretations and mappings. Sharing and critiquing our
+interpretive and cartographic collaborations will help us to better know ourselves,
+others, and the world we jointly construct. The point to remember here is that my
+purpose is to read and interpret written and figural texts, not authors. This requires
+that, to the extent possible, texts be allowed to speak for themselves, to tell, with the
+use of quotes, their own stories.
+1 have always understood the postmodern condition as ironic sensibility, as a
+growing reflexive awareness, as an increasing consciousness of self, space, and multiplicity. Where the Enlightenment project has typically used reason and science in
+efforts to make the strange normal, advocates of the anti-Enlightenment,3 and most
+recently the postmodernists, have sought to render the familiar strange, or uncertain.
+This brings to mind the earlier contrast of Apollonian harmony and rationality and
+Dionysian decentering and deconstruction found in classical thought. The specific theses of postmodernist advocates, that is, the present-day Dionysians, tend to focus on
+what they have seen as the false certainties of modernity since the 1960s. Perhaps we
+might take note of five postmodern theses in particular.4 Foremost is a rejection of the
+Enlightenment foundations found in the grand narratives of progress, emancipation,
+and reason. These metanarratives are viewed as “terror”, silencing the small narratives,
+or in Blake’s terms, the minutely organized particulars of the Other.
+A second thesis is the rejection of universal or hegemonic knowledge, any a priori
+privileging of a given regime of truth (i.e., functionalism, Marxism, postmodernism,
+or the like), and the need for a critical antihegemonic pluralism in social inquiry.
+A third thesis critiques attempts to adjudicate between competing cognitive and theoretical claims from a position of assumed or usurped privilege. Rather, postmodern
+texts see all knowledge claims to be problematic. The idea of universal unsituated
+knowledge that can set us free is seen to be a naive, if perhaps well-intentioned, selfdelusion. Feminist texts, in their rejection of patriarchal truth claims, add the notion of
+a heterogeneous self to the postmodernist’s critique. In total contrast to the Cartesian
+autonomous actor found in modernity texts, identity in the postmodern era is seen to
+be mutable and contextually variable. Bodies are also seen as a contested terrain upon
+which to think differently about who we are and who we might become.
+A fourth thesis argued in postmodern texts attacks Eurocentrism and seeks to open
+knowledge practice to postcolonial experiences and to non-Western cultural codes and
+interpretations. The fifth thesis argues for a shift in research from time to space, from
+facts to interpretations, from grounded positions to narrative readings, and from testing propositions to mapping difference.
+Perhaps the single most important characteristic of postmodern sensibility is an
+ontological shift from an essentialist view of one fixed reality, that is, reason as the
+controlling principle of the universe, to an antiessentialist view where reality constructs are seen to resist closure and where multiple and diverse truth claims become
+part of a continuous agonistic, or contested, struggle.
+The central question of social change in the larger postmodernism debate is also
+at issue in the more recent debate in comparative education. That is, do contemporary
+
+--- [PDF Page 948 / Book Page 967] ---
+
+Mapping Comparative Education after Postmodernity 967
+
+developments – as postmodernists are prone to argue – mark a movement toward a
+distinct new form of social conditions characterized by nonmechanical yet complex
+relations that “appear as a space of chaos and chronic indeterminacy, a territory subjected to rival and contradictory meaning bestowing claims and hence perpetually
+ambivalent” (Bauman, 1992, p. 193)?5 Or, in contrast, as neomodernist texts are prone
+to argue, are contemporary developments best viewed as rational processes internal to
+the development of a global and reflexive “late modernity”?6
+Before examining illustrative texts constructing positions in this debate, we might
+first note some foreshadowing of these exchanges during the earlier paradigm wars.
+In the 1977 “State of the Art” issue of the Comparative Education Review, edited by
+Andreas Kazamias and Carl Schwartz, for example, the cover pictures a broken house
+of knowledge, signifying, in my reading, the conflicted state of the field at that time
+(see Figure 1). Yet, note that the perplexed egghead professor remains whole and apart,
+a senior male in ivy league attire. This image suggests a material world in structural
+disarray, and it seems to question whether the power of rational professorial thought
+(i.e., theory) can rebuild the field’s foundation.
+
+Fig. 1. A late modernist cartoon portraying the once solid structure of comparative education after the
+paradigm wars of the 1970s and structural deconstruction. The question seems to arise regarding how we are
+to retain our modern identity yet deal with the crisis.
+Source: Comparative Education Review, 21 (June/October 1977): Cover
+
+--- [PDF Page 949 / Book Page 968] ---
+
+968 Paulston
+
+In a contribution to this special issue, I proposed (see Table 1) that comparative
+educators make a spatial turn and become more reflexive practitioners. I sought “to
+stimulate greater awareness of how individual views of social reality and social change
+tend to channel and filter perceptions and to look at alternative possibilities for representing educational change potentials and constraints. To this end, I delineated the
+total range of theoretical perspectives that had been used to support educational reform
+strategies and to suggest how individual choice behaviors follow from basic philosophical, ideological, and experimental orientations to perceived social reality” (Paulston,
+1977). For the first time a phenomenological – albeit conflicted and static – portrait
+of how some 320 international texts constructed multiple educational reform realities
+appeared in a comparative education journal. In contrast, C. Arnold Anderson, looking
+back to 1950, argued in this special issue for a continued orthodoxy of high modernity.
+To quote this founding father of the Comparative and International Education Society
+(CIES), “I continue to insist that traditional social science disciplines should remain
+the foundations for work in this field” (Anderson, 1977). He advocated constructing
+theoretical models and formulating sound nomothetic conclusions, and he suggested
+avoiding fashionable ideologies and their semantics, clichés, and novelties. He advised
+comparative and international educators to produce solid scholarship by avoiding
+anthropology and ethnomethodology and embracing sociology and economics. In
+conclusion, Anderson offered guarded optimism for continued progress in CIES, but
+only if the field “avoids weary new panaceas” and works harder at the “identification
+of functional equivalents for the basic structures and functions of educational systems”
+(Anderson, 1977, p. 416).
+My contribution focused on the space of texts in the literary construction of national
+educational reform debates and used what Foucault has called a genealogical approach
+to pattern texts as theoretical windows opening to multiple realities. Anderson’s text,
+in contrast, argued for an orthodoxy of nomothetic research capable of generating
+hypotheses, covering laws, and following modernization theory based on the primacy of autonomous, professional actors measuring the way things really are. Editors
+Andreas Kaza-mias and Karl Schwartz stake out a third and more pragmatic position somewhere between my hermeneutical interpretivism and Anderson’s patriarchal
+logocentrism. While firmly grounded in a realist ontology, the two editors chart a road
+ahead for the increasingly disputatious field of comparative education with their sensible call for a greater openness to cultural and critical approaches (my preference), for
+increased attention to pedagogical practice and teacher education (their preference),
+and for a view that sees social science (Anderson’s preference) as “pluralistic, modest
+and open” (Kazamias & Schwartz, 1977, pp. 175–176).
+Today, some 22 years later, in our more heterogeneous time, it is possible with
+exegetic analysis to identify at least five knowledge communities in comparative education discourse that are more or less favorable to, if not proponents of, postmodernist
+views. These are the sites of (1) postmodernist deconstructions, (2) radical alterity,
+(3) semiotic society, (4) reflexive practitioner, and (5) social cartography. All five
+tend to locate the emergence of postmodernism after the 1970s as a periodizing concept and, accordingly, as external to modernity. Communities defending the grand
+narratives of modernity, in contrast, while they may acknowledge the postmodernist
+
+--- [PDF Page 950 / Book Page 969] ---
+
+Mapping Comparative Education after Postmodernity 969
+Table 1. Relations between theories of social and educational change/“reform”
+Illustrative linked assumptions concerning educational-change potentials and processes
+Social change
+paradigms and
+theories
+
+Concerning
+preconditions for
+educational change
+
+Concerning
+rationales for
+educational change
+
+Equilibrium
+theories:
+Evolutionary
+
+State of evolutionary Pressure to move
+readiness
+to a higher
+evolutionary
+stage required to
+support “national
+modernization”
+efforts
+
+Neo-evolutionary Satisfactory
+completion of earlier
+stages
+
+Concerning scope Concerning major
+and process of
+outcomes sought
+educational change
+Incremental and
+adaptive; “natural
+history” approach
+
+New stage of
+institutional
+evolutional
+adaptation
+
+“Institution
+New “higher” state
+building” using
+of education and
+Western models and social differentiation/
+technical assistance specialization
+
+Structuralfunctionalist
+
+Altered functional
+and structural
+requisites
+
+Social system
+need provoking an
+educational
+response;
+exogenous threats
+
+Incremental
+Continued
+adjustment of
+“homeostasis”
+existing institutions, or “moving”
+occasionally major equilibrium; “human
+capital” and national
+“development”
+
+Systems
+
+Technical expertise Need for greater
+Innovative “problem Improved
+in “systems
+efficiency in
+solving” in
+“efficiency”
+management.”
+system’s operation existing systems,
+regarding costs/
+“Rational decision and goal
+i.e., “Research
+benefits; adoption of
+making” and “needs achievement, i.e.,
+& Development
+innovations
+assessment”
+response to a system approach”
+“malfunction”
+
+Conflict theories: Elite’s awareness
+Marxian
+of need for change;
+or shift of power to
+socialist rulers and
+educational
+reformers
+
+To adjust
+correspondence
+between social
+relations of
+production and
+social relations of
+schooling
+
+Adjustive
+Formation of
+incremental
+integrated workers,
+following social
+i.e., the new
+mutations or radical “Socialist Man”
+restructuring
+with Marxist
+predominance
+
+Neo-Marxian
+
+Increased political
+power and political
+awareness of
+oppressed groups
+
+Demands for social
+justice and social
+equality
+
+Large-scale national Eliminate
+reforms through
+“educational
+“democratic”
+privilege” and
+institutions and
+“elitism”; create a
+processes
+more equalitarian
+society
+
+Cultural
+revitalization
+
+Rise of a collective Rejection of
+effort to revive
+conventional
+or create “a new
+schooling as forced
+culture.” Social
+acculturation.
+tolerance for
+Education needed
+“deviant” normative to support advance
+movements and
+toward movement
+their educational
+goals
+programs
+
+Creation of
+Inculcate new
+alternative schools normative system.
+or educational
+Meet movement’s
+settings. If
+recruitment, training,
+movement captures and solidarity needs
+polity, radical
+change in national
+educational ideology
+and structure
+(continued)
+
+--- [PDF Page 951 / Book Page 970] ---
+
+970 Paulston
+Table 1. (continued)
+Illustrative linked assumptions concerning educational-change potentials and processes
+Anarchistic
+Utopian
+
+Free man from
+Creation of
+supportive settings; institutional and
+social constraints.
+growth of critical
+consciousness; social Enhance creativity
+need for “life-long
+pluralism
+learning”
+
+Isolated “freeing up” Self-renewal and
+of existing programs participation. Local
+and institutions, or control of resources
+create new learning and community;
+modes and settings, elimination of
+exploitation and
+i.e., a “learning
+alienation
+society”
+
+Source: Paulston (1977, pp. 372–373)
+Note: The table presents a phenomenological comparison of how the international literature may be seen
+to construct national educational and social change/reform perspectives.
+
+critique, tend to situate, as with Jürgen Habermas, the postmodern debate as internal to
+and only comprehensible in terms of the notion of late modernity. In my close reading
+of the 60 or so texts selected, four modernist genres or positions in the debate emerged:
+(1) metanarratives of reason, emancipation, and progress; (2) rational actor gaming;
+(3) critical modernist appropriations; and (4) reflexive modernity adaptations. These
+sites can be characterized, mapped, and compared according to how they choose to
+understand reality and how they problematize practice. These differences are represented in Figure 2, where we now turn our attention to the left, or postmodernism side,
+of the debate field.
+
+Postmodernist Deconstructions
+With the publication of his presidential address in 1991, Val Rust opened CIES discourse to the debate on postmodern ideas, a far-ranging controversy that has energized
+and destabilized much of intellectual life in the academy since the 1970s. Rust introduced deconstructivist arguments of the French poststructuralists Jacques Derrida,
+Michel Foucault, and Jean Francois Lyotard, ideas that reject the basic language and
+realist assumptions of the modern age. Arguing that the comparative education community has played almost no role in this discussion, Rust selected four aspects of
+postmodernism that he considered to be crucial for a postmodern understanding of our
+field today: (1) the critique of the totalitarian nature of metanarratives; (2) recognition
+of the problems of the Other; (3) recognition of the development, through technology,
+of an information society; and (4) an opening to new possibilities for art and aesthetics
+in everyday life (see Rust, 1991).
+While Rust presents a compelling case for the utility of postmodern ideas in our
+era, his analysis remains strongly realist, even melioristic: “We comparative educators
+must discuss the opportunities of the incipient age. … We must define more clearly the
+metanarratives that have driven our field … we must engage in the critical task of disassembling those narratives because they define what comparativists find acceptable
+… we must increase our attention to small narratives … we must learn to balance high
+and popular culture” (Rust, 1991, 625–626).
+
+--- [PDF Page 952 / Book Page 971] ---
+
+Fig. 2. A metaphorical mapping of knowledge positions constructing the postmodernity debate in comparative
+education (and related) discourse. In this open intertextual field, arrows suggest intellectual flows and proper names
+refer not to authors, but to illustrative texts cited in the paper and juxtaposed above. In contrast to Utopias (i.e., sites
+with no real place) much favored by modernist texts, this figure draws inspiration from Michel Foucault’s notion
+of “heterotopias”. These are the simultaneously mythic and real spaces of contested everyday life. Postmodernist
+texts favor heterotopias, as above, because they are “capable of juxtaposing in a single real place several spaces,
+several sites that are in themselves incompatible”. (see Foucault & Miskowiec, 1986, p. 25)
+
+--- [PDF Page 953 / Book Page 972] ---
+
+972 Paulston
+
+As Rust’s text demonstrates, letting go of modernity’s language, let alone its essentialist and instrumental vision, is more easily advocated than achieved. Despite the
+contradictions between his text and his message, Rust’s pioneering call to move away
+from a universal belief system toward a plurality of belief systems remains timely and
+exciting. Unfortunately, it evoked little if any response in CIES discourse until 1994
+when Liebman and I used Rust’s critique to support our invitation to a postmodern
+social cartography (Paulston & Liebman, 1994).7
+In contrast to the certainty of Rust’s text about the instrumental utility of postmodern
+ideas, the British scholars Robin Usher and Richard Edwards, in their 1994 text, advocate a
+more ludic or playful approach so as better to avoid creating the monster of a new postmodern metanarrative. To quote their text: “Our attitude to the postmodern is ambivalent. We agree
+that to be consistently postmodern, one should never call oneself a postmodern. There is a
+self-referential irony about this which we find lucidly apt in encapsulating our relationships
+as authors to this text. At the least, we …have let the postmodern ‘speak’ through those
+texts [that] exemplify it” (Usher & Edwards, 1994).
+Building on Rust’s earlier manifesto, Usher and Edwards problematize and deconstruct the very notion of emancipation in the project of modernity to show what they
+see as its oppressive assumptions and consequences, particularly in the field of education. In this, they side with Jacques Derrida, in a desire to dissolve binary oppositions,
+to argue that education like power is neither inherently repressive nor liberatory, but
+perhaps both – or neither.
+Here, there is no Hegelian synthesis where opposition can be transcended by correct ideas or a more logical argument. Rather, they see, as did Friedrich Nietzsche, a
+continual and unresolvable tension and struggle of perspectives. Given this scenario,
+Usher and Edwards argue for an education of resistance to disrupt metanarrative power.
+Or to quote their accessible text:
+[I]t is in disrupting the exercise of power rather than in seeking to overcome
+it, that resistance can take form. The postmodern moment can enable us to
+transgress the boundaries of modernity rather than be contained within them.
+Resistance and transgressions, rather than emancipation, signify the possibilities
+for challenging dominant forms of power. It is analogous to Gramsci’s war of
+maneuver rather than the war of attrition. And it is a war without end, a constant
+refusal of mastery, and of being mastered. (Usher & Edwards, 1994, p. 224)
+In this, they share James Whitson’s contention that the postmodern is perhaps best seen
+as an attempt at the antihegemonic without being counterhegemonic and thus risking
+incorporation as a relatively harmless rhetoric – as with much of critical pedagogy
+– into the dominant structure of control.8
+
+Radical Alterity
+The radical alterity battalions of the postmodernist forces apply Derriderian and
+subalterian ideas of the Other and seek to decenter and topple modernist control
+structures (i.e., hierarchy and patriarchy) with new possibilities opened by nonessentialist
+
+--- [PDF Page 954 / Book Page 973] ---
+
+Mapping Comparative Education after Postmodernity 973
+
+notions of body and identity. Where modernist texts see science, morality, and art
+as stubbornly differentiated, advocates of a radical alterity see the self after postmodernity as both a construct of multiple forms of speech, diverse language games,
+and variegated narratives, and as action-oriented and self-defined by the ways in
+which it communicates. As Calvin Schrag puts it, the self after postmodernity is
+open to understanding through its discourse, its actions, its being together in community, and its experience of transcendence. In contrast, “the modernist grammars of
+unity, totality, identity, sameness, and consensus find little employment in postmodernist thinking” (Schrag, 1997).9 Instead, texts of the radical alterity community
+take up Lyotard’s warning that forced consensus does violence to the free play of
+language games and that our new interpretive categories of heterogeneity, multiplicity, diversity, difference, and dissensus are now available to interrogate and
+deconstruct modernist views of the autonomous Cartesian self (as represented by
+the professor in Figure 1) along with all of its traditional metaphysics and epistemological games.
+Radical alterity texts are, understandably, most often found in the discourse of ethnic
+and gender movements seeking to oppose the hierarchies and exclusions of modernity.
+These are often angry texts seeking to shock, challenge, and defy. I have found only
+three examples in our field’s journals. Perhaps the best is a 1994 book review by Diana
+Brandi, then a doctoral student at the University of Pittsburgh, which appeared in the
+Comparative Education Review. Brandi’s text, in my reading, is first and foremost a
+personal attack on the book’s three senior author/editors, well-known and respected
+advocates of emancipatory modernity. She characterizes their representations of comparative education as it has emerged in the 1990s as a rehash of Marxist, functionalist,
+and structural functionalist perspectives. She finds this uniformity of content, perspective, and analysis not only troubling, but also puzzling. She claims that the chapters
+lack diversity, are self-referential, and lack a rich range of theoretical choices and
+multidisciplinary approaches, and that the book’s structuralist orthodoxy precludes
+any critical reflection on whose views the research reflects or how comparative education can support transformative change for a more humane world (Brandi, 1994).10
+Brandi concludes that the central emerging issue for comparative education in the
+1990s, and an issue the book virtually ignores, is the need to challenge the dominant
+hierarchies that continue to marginalize and silence the greater proportion of humankind. She contends the editors neglected more pluralistic discourses that challenge
+international development education and its service to structural adjustment, to militarism, and to the structural violence now being critically analyzed in other fields and
+disciplines. Here Brandi also challenges our field to open space for voices of the Other,
+antiessentialist voices that will attack and reject our modernist certainties of order and
+progress, if not of emancipation.
+One year later, Irving Epstein, in a more conciliatory vein, also argued the desirability of realigning comparative studies from the seemingly innocent practice and
+critique of educational planning and policy to an opening up of space for cultural studies of contested local knowledge, of ethnicity, gender, disability, and the body. These
+issues of the Other are, Epstein complains, rarely addressed in comparative education
+discourse, despite a proliferation of just such studies in the academy after the 1980s
+(Epstein, 1995).11
+
+--- [PDF Page 955 / Book Page 974] ---
+
+974 Paulston
+
+Semiotic Society
+The semiotic society perspective builds upon ideas of Canadian Marshall McLuhan
+and Frenchman Jean Baudrillard. In his pioneering 1964 study, Understanding Media,
+McLuhan interpreted modernity as a process of differentiation, as a virtual explosion
+of commodification, industrialization, mechanization, and market relations. These differentiations produce “hot” media. In contrast, television, as a “cool” medium, is a
+site of implosion of all boundaries, regions, and distinctions between high and low
+culture (i.e., “the new global village”), between appearance and reality, and between
+the binary oppositions maintained by traditional modernist philosophy and modernization theory (McLuhan, 1964).
+After first rejecting McLuhan’s thesis during his neo-Marxist phase, Baudrillard
+has more recently accepted and extended McLuhan’s “implosion of meaning” argument. Baudrillard’s text now argues that the seemingly endless proliferation of signs
+and information obliterates meaning through neutralizing and dissolving all content.
+This leads to both a collapse of meaning and the destruction of distinctions between
+media and reality, creating what he terms a hyperreality. In Baudrillard’s most recent
+texts, political economy, media, and cybernetics are seen to coalesce to produce a
+semiotic society far beyond the stage of capitalism described by Marxism. This is the
+time of postmodernity in which simulation models come to constitute the world and
+finally devour representation. Society thus is seen to move from a capitalist productivist
+orientation to a neocapitalist cybernetic order that aims at total control. Much like in
+television programs, models and codes come to constitute everyday life and social
+relations (see Poster, 1988). As in Brandi’s text, Baudrillard’s analysis sees a society
+subject to growing cybernetic control, where critiques that claim to be oppositional,
+outside, or threatening to the system become patterned into a society of simulations
+(i.e., copies without originals) as mere alibis that only further enhance social control.
+Disneyland is Baudrillard’s prime example of a hyperreality, that is, not the unreal
+but the more-than-real. In such a universe, there are no explosive contradictions, crises,
+or even oppositions because everything is designed and controlled. There is no reality,
+or even potentiality, in the name of which oppressive phenomena can be criticized and
+transformed because there is nothing behind the flow of signs, codes, and simulacra.
+In this nightmare hyperreal society, not even social critique or critical art are possible.
+For Baudrillard, “a cool universe of digitality … has absorbed the world of metaphor
+and metonymy. The principle of simulation wins out over the reality principle of pleasure.”12 This is Baudrillard’s unsettling fantasy world, and it presents an extreme form
+of postmodern nihilism.
+In a recent special issue on postmodernity and comparative education – the first in
+our field – in the British journal Comparative Education, three texts (none of which cite
+Baudrillard) address a number of more practical aspects of the so-called cyberspace
+challenge. Ronald Goodenow examines how, the emergence of global communications networks, most notably the information superhighway, have created a new world
+of cyberspace. Issues of ownership and power, of how knowledge and services are
+defined and distributed, and of how technological have-nots gain access to networks
+now become major policy issues. Goodenow also stresses that educators will need to
+
+--- [PDF Page 956 / Book Page 975] ---
+
+Mapping Comparative Education after Postmodernity 975
+
+become more interdisciplinary and knowledgeable of trends and debates in many areas
+(Goodenow, 1996).
+Gunther Kress’s text more specifically asks how the constitutive principles of postmodernity, for example, diversity, multiple reality, alterity, and paralogy, suggest the
+need for new representational approaches. Today our theories of meaning making, or
+semiosis, are largely grounded in late nineteenth-century notions of stable social systems (e.g., Emile Durkheim and Talcott Parsons), stable signs communicating stable
+meanings (e.g., Ferdinand de Saussure), and assumptions of an abstract reified formal
+appearance (e.g., C. Arnold Anderson). But now postindustrial societies are struggling
+to construct new forms of information-based economies responsive to cultural difference, change, and innovation. Kress challenges comparative educators to join in the
+creation of new modes of thinking about meaning and how we might jointly make and
+remake our systems of representation “in productive interaction with multiple forms of
+difference” (Kress, 1996, quote on p. 196). But one wonders how Kress would interact
+with Baudrillard’s destabilizing notions of hyperreality.
+Jane Kenway’s text sounds a cautionary note in warning that educators and
+students need to question the cyberspace claims of both Utopians (i.e., the likes
+of Bill Gates) and Dystopians (i.e., the likes of Baudrillard). While granting the
+inevitability of the digital revolution, she draws attention to the way we produce
+and consume the new technologies and to associated issues of politics and justice. Teaching students about the consequences of technology is, she notes, perhaps
+even more important than teaching them how to operate the machines (see Kenway,
+1996). Mary Wilson and colleagues do exactly this in a later political economy
+study of the World Wide Web. Their text contends that an overwhelming American
+presence on the Web renders “the American perspective” the norm, or center, while
+the rest of the world becomes periphery. They argue that cyberspace, with its lack
+of boundaries and connection to geographical place, conceals US dominance, and
+that astute educators need to recognize these factors and work to circumvent them
+(Wilson, Qayyam, & Boskier, 1999).
+
+Reflexive Practitioner
+The two remaining camps favorable to a postmodern reading of our time and our field are
+the reflexive practitioner and the social cartography textual genres. Both favor a hermeneutics of affirmation, and both are closely linked with the burgeoning qualitative research
+tradition in education. The reflexive practitioner genre especially has deep roots in Western
+humanism and in the Romantic Movement. In education, it has resisted scientistic and
+technological efforts to objectify and commodify the world. During the paradigm wars of
+the 1970s and 1980s, the strongly humanistic reflexive perspective successfully defended
+Verstehen, or insight, as a key concept and goal for individual learning and knowledge
+work. An influential text of that time legitimating reflexive approaches in education is
+Donald Schon’s The Reflective Practitioner (Schon, 1983).13 Schon explored the crisis of
+confidence in professional knowledge and advocated a solution of moving from technical
+rationality to reflection in action. In comparative education, I made the same argument
+
+--- [PDF Page 957 / Book Page 976] ---
+
+976 Paulston
+
+seeking to recognize the value of both imagination and technological reason in 1990, but to
+seemingly little effect (Paulston, 1990).
+Today, postmodern attacks on modernist ways of knowing grounded in essentialist
+views of reality have helped to open a larger space for reflexive perspectives. For many,
+a reflexive perspective view of actors and systems offers a reasonable alternative to either
+the demanding perspective of radical postmodernity with its hermeneutics of despair or the
+perspective of a nostalgic, rule-bound modernity. For example, Patricia Broadfoot of the
+University of Bristol chooses this ontological middle ground in her foreword to Qualitative
+Educational Research in Developing Countries. Her introduction recognizes both postmodern influences, that is, a plurality of belief systems, a recognition of multiple realities,
+and the influence of culture and context, yet retains a clear concern for social scientific
+research and “the progress to which it will lead” (Broadfoot, 1997). Variations on this recognition of multiple viewpoints and diverse interests by scholars in the eclectic center are
+also becoming increasingly evident in the educational research literature. Elliot Eisner, for
+example, advocates a multiplicity in data representations that welcomes artistic, linguistic,
+and visual alternatives along with more traditional positivistic choices. But he also warns
+that an interpretive multiple perspectives approach may introduce dangerous ambiguity
+and a potential backlash:
+A genre of work can stand alone without an interpretive context when those
+reading, seeing, or hearing it bring that context with them. When they do not
+they are likely to be lost. Few people like to be lost. When the terrain is new, we
+need context. We also need to be sure …that we are not substituting novelty and
+cleverness for substance. In other words, we need to be our own toughest critics.
+(Eisner, 1997, quote on p. 9)14
+
+Social Cartography
+Texts clustered in the social cartography genre also share a number of defining characteristics, perhaps best captured by Foucault’s notion of heterotopia. In contrast to
+the totalizing utopic (i.e., no-place) space of modernity, heterotopic spaces are the
+simultaneously mythic and real spaces of everyday life capable of juxtaposing in a
+single place a great variety of different sites which in themselves may be incompatible.
+As William Blake noted, modernist texts favor idealistic rational Utopias of general
+good. In contrast, postmodernist texts favor heterotopias of situated difference and
+local knowledge. Figure 2 above illustrates just such a heterotopic mapping of difference. Here, within an intertextual field, all viewpoints producing a text in the CIES
+postmodernity debate find space and relation to other similar or totally different ways
+of seeing. As such, this tangled and interconnected mapping, or Deleuzian rhizome, of
+knowledge positions and relations can be seen as a metaphor of the debate, as a heuristic approach, and as a real site of paralogy and postmodern process. It can also be seen
+as a useful new spatial tool specifically created to give visual form to the growing complexity of knowledge work today. Where Pablo Picasso with analytical cubism made it
+
+--- [PDF Page 958 / Book Page 977] ---
+
+Mapping Comparative Education after Postmodernity 977
+
+possible to represent many sides of an object at the same time, social cartography also
+creates something in the very act of depiction. This is not simply a fragile synthesis,
+but a new way of looking at the world and, equivalently, a new aspect of the world at
+which to look (Foucault & Miskowiec, 1986).15
+The ideas behind heterotopic mappings of perspectival difference began to take form
+in my paper “Comparing Ways of Knowing across Inquiry Communities”, presented
+at the CIES annual meeting in Pittsburgh in 1991. A number of doctoral students at
+the University of Pittsburgh then joined the project, and together we worked to create
+a social cartography able to visualize and pattern multiplicity, be it multiple perspectives, genres, arguments, or dreams. In this heuristic, the field is also defined by the
+outlying positions. In modern, positivistic representations, in contrast, the opposite is
+true, that is, the intention is to plot a central tendency where outliers, such as the Other,
+simply disappear.
+On the surface, discourse mapping appears to be a fairly simple, if demanding,
+process of reading and juxtaposing ways of seeing in texts. I proceed in the following
+“cookbook” fashion, much to the horror of my postmodernist colleagues: (1) Choose
+the issue or debate to be mapped. (2) Select the widest range possible of texts that
+construct this debate and, with close reading, translate their defining rhetorical characteristics, ideas, and worldviews. (3) Identify the range of positions in the intertextual
+mix. In Figure 2, for example, these positions are presented on the horizontal axis
+as the onto-logical poles of “postmodernist destabilizations” and “modernist certainties”. On the vertical axis, the poles chosen are “actors problematized” and “systems
+problematized”. (4) Identify the textual communities that share a way of seeing and
+communicating reality; locate them within their space and interrelate communities of
+vision with space, lines, arcs, arrows, or the like. While resisting all modernist urges
+to box in or lay down a grid, locate coordinates outside the field to allow for a less
+restricted space of intersubjectivity, movement, and choice than provided by Table 1.
+(5) Field test the map with the individuals or knowledge communities involved. Share
+the conflicting interpretations and remap as desired.
+As an oppositional postmodern strategy, social cartography translates across interacting
+sites of material inscriptions, avoiding the idealist totalities of Utopian modernity. This
+process of mapping and translating seeks to open up meanings, to uncover limits within
+cultural fields, and to highlight reactionary attempts to seal borders and prohibit translations.
+In this lies postmodern mapping’s contribution to an antihegemonic critique.
+Social mapping may also be seen as an emergent methodology from within the
+hermeneutic mode of inquiry that acknowledges that worlds are constructed and interpreted both objectively and subjectively, that is, that within fields of study or sites of
+knowledge, a dialogue is always taking place that involves meaning systems that are
+illusive. These meaning systems are formed by those who elaborate them, and an open,
+intertextual field is created by the dialogue. For this reason, the comparative researcher
+and the reader alike serve as translators within this mode of interpretive inquiry. But,
+as Eisner warns, the researcher now has a threefold obligation to explicate what point
+of view is being utilized in the study, to disclose the interrelations of the field or site
+itself, and to convey something of the personal or professional experiences that have
+led her or him to choose a particular point of view.
+
+--- [PDF Page 959 / Book Page 978] ---
+
+978 Paulston
+
+As our social cartography project at the University of Pittsburgh took form, several dissertations and books mapped situated areas of the theoretical and operational
+landscapes of comparative and international education. Martin Liebman’s thesis, for
+example, expands our understanding of metaphorical analysis in comparative method
+(Liebman, 1994).16 Zebun Ahmed’s study maps how village women in rural Bangladesh
+view their nonformal educational experiences with Western nongovernmental organizations (Ahmed, 1997).17 Kristiina Erkkilä maps positions in the entrepreneurial
+education debates in the United States, the United Kingdom, and Finland (Erkkilä,
+2000). Katsuhisa Ito is currently critiquing the project from a human geography viewpoint, Michel Rakatomanana is mapping the debate on new information technologies
+and educational development, and Mina O’Dowd is mapping how multiple knowledge perspectives can be seen to construct a longitudinal research study in Sweden
+(see Katsuhisa, 1998; Rakotomanana, 1999; Gorostiaga, 1999; O’Doud, 1999). In our
+1996 project book, Social Cartography (Paulston, 1996),18 a number of leading US,
+Canadian, and international scholars collaborated to demonstrate mapping applications in research practice (i.e., Christine Fox, Esther Gottlieb, Thomas Mouat, Val
+Rust, Nelly Stromquist, among others) or to critique and counterargue the book’s
+contention that social mapping is a useful tool for comparative analysis today.
+Carlos Torres and John Beverley, for example, propose critical modernist and subaltern studies positions that are antithetical to social mapping. Patti Lather interrogates
+mapping from a radical feminist view, and Joseph Seppi from a traditional positivist
+position. If, indeed, all knowledge claims are now problematic, then opposing views
+will need to be consciously incorporated and juxtaposed in any credible argument or
+analysis. As we shall see in the following section on modernist orthodoxy, this will be
+a hard pill for many true believers to swallow.
+
+Modernist Metanarratives
+On the far-right side of Figure 2, I pattern illustrative modernist texts in comparative
+education discourse that oppose, in one way or another, the postmodern challenge
+within three broad areas: (1) Utopian texts that largely reject postmodernist ideas
+and explicitly counterattack to defend a core modernist metanarrative (i.e., universal
+reason, or progress); (2) critical pedagogy texts that seek to preserve the modernist
+metanarrative of emancipation with the selective appropriation of postmodernist and/
+or feminist ideas, and (3) performativity texts that seek to elaborate a new narrative
+of reflexive modernity for our time of risk (i.e., what they call “late modernity”) when
+the old modernist master stories of certainty and technological progress have less and
+less credibility.
+In the counterattack category, Erwin Epstein’s chapter “The Problematic Meaning of
+Comparison in Comparative Education” presents a spirited defense of totalizing modernist reason and a rejection of what he calls the “challenge of relativism” (Epstein,
+1988).19 His text, however, does not recognize postmodernism and its complaints,
+although that debate was raging then (1988) at a feverish pitch in the social sciences
+and the humanities. Instead, his targets are phenomenological and ethnomethodological
+
+--- [PDF Page 960 / Book Page 979] ---
+
+Mapping Comparative Education after Postmodernity 979
+
+additions to the literature and especially my study (summarized in Table 1). These two
+perspectives share a nonessentialist understanding of ontology with postmodernism,
+and they view reality as a variously situated construct. In a masterly comparison of
+what he claims to be incomparable, Epstein’s text contrasts examples of relativist (i.e.,
+cultural interpretation and phenomenological readings) and realist (i.e., positivist
+theory-development) perspectives in comparative education. He rightly concludes that
+they are incommensurable in their assumptions, procedures, and aims. His text fails,
+however, to address the core difference of ontology or how reality is variously seen.
+His either/or approach, while seemingly evenhanded, has a strong essentialist bias:
+Generalizations across societal boundaries define … the comparative method
+for positivists. For cultural relativists, comparison is a process of observing the
+distinctiveness of individual cultures. These positions are to be sure incompatible, but they both rest on a procedure that requires multicultural analysis and
+therefore can said to employ some concept of “comparison”. This is not so for
+phenomenological approaches, which carry relativism to a nihilistic extreme
+that allows only for interpretation of highly idiosyncratic interactions within
+severely limited contextual boundaries. Within such parameters, not even culture
+is sufficiently contextually delineated to constitute a basis for analysis. (Epstein,
+1988, p. 6)
+Thus, from an extravagant logical positivist viewpoint that in Pascal’s term “will
+admit only reason,” Epstein’s text contends that one who chooses a phenomenological
+approach (as in my Table 1 and Figure 2) cannot be a com-parativist, and he argues that
+the challenge of relativism is a threat not only to the metanarrative of reason, but also
+to the viability of comparative education as a field. “Only nomothetic explanations—
+or the discovery of underlying trends and patterns that account for whole classes of
+actions or events [i.e., covering laws] can support comparison capable of theory development and general laws” (Epstein, 1988, p. 22). Epstein’s essentialist text is notable
+for its epistemological certainty and faith in the positivist story of social progress with
+the discovery of universal regularities—alas, as yet to be seen.
+An anti-Enlightenment position might well counterargue Epstein and claim that only
+relativists can be comparativists because they alone are open to the indeterminacy of
+being. But that would be a modernist either/or argument. Postmodernists would open
+to all positions and, as illustrated in Figure 2, turn to a spatial representation of “the
+order of things” that moves us a bit beyond the limitations of opaque language. This
+would also be my choice, but I must leave it to the reader to assess the comparative
+utility of Figure 2 and Hayden White’s claim that “the macroscopic configuration of
+formalized consciousness uncovered in language” might be translated into a spatial
+visual mode of representation (see White, 1978, quote on p. 239).20
+A more focused rejection of postmodern ideas, at least as they are present in our
+work on social mapping, can be found in Keith Watson’s recent British Comparative
+and International Education Society (BCIES) presidential address and in his review of
+Social Cartography. These two texts warn the reader of the intellectual temptations of
+such dangerous postmodern ideas as pluralism, multiplicity, and uncertainty—or what
+
+--- [PDF Page 961 / Book Page 980] ---
+
+980 Paulston
+
+Watson erroneously disparages as “New Age Thinking”. His text sees postmodernist
+views as fatally flawed because they do not offer testable hypotheses, or criteria for
+decision-making, or parameters for interpretation. Such “wooly thinking” is, he complains, written by enthusiasts who are so excited by the novelty of what they are saying
+that they do not see the weaknesses. Yet, at the same time, he also makes the odd claim
+that “these overly enthusiastic postmodern cartographers are [only] putting into diagrammatic form what most sociologists … have always recognized” (Watson, 1998).21
+But Watson’s text sees a flaw in heterotopic mapping more serious than intellectual
+excitement and enthusiasm. Watson warns that most administrators and aid agency
+officials may well see social cartography as yet one more example of “esoteric comparative education” that is irrelevant for them. While acknowledging that postmodern
+mapping can indeed represent the micronarratives of all the players, whether they hold
+power or are on the margins, his text dismisses the need for such knowledge, claiming
+that educational planners and policy-makers require only “hard data” for rational decision-making.22 Here the term hard data is repeated as a mantra and is not defined, nor
+are any data provided to support Watson’s exclusionist claims.
+Watson’s text would seem to confuse the postmodern social cartography as practiced in Figure 2 with traditional scientific or mimetic modeling, where the image is
+assumed to reflect a positive reality that can be known empirically, or ideologically.
+But with our postmodern mapping of metaphors, the map, like the self, can also be
+portrayed as in a state of Dionysian dispersal that, as with Foucault’s notion of heterotopia, reconstitutes diversity as a provisional unity.
+
+Rational Actor
+The rational actor, or game-theory, position can be seen as a close relation of
+Anderson’s and Watson’s modernist metanarrative of progress. Here, texts seek to
+develop nomothetic models able to explain and predict economic and educational
+behavior in universal terms. Raymond Baudon divides these efforts into two types,
+that is, the “determinist” and “interactionist” (Baudon, 1982). Mary Jane Bowman’s
+model of 1984 (Bowman, 1984) is cited by David Turner to illustrate the former
+because it seeks to explain school attendance rates in terms of prior events and
+to support the discovery of uniform covering laws. Using an analysis of variance,
+a deterministic approach would suggest that every individual is driven by “the
+programming that the social structure imposes on him” (Turner, 1988). In this, modernization and Marxist theories share the same certainty and reductionist view. But
+Turner’s text problematizes actors, not structures, and argues that the determinist
+model is simplistic and fails to recognize features of free will and capriciousness in
+human behavior. Social theories and ultimately social laws are, Turner contends, still
+attainable, but only with the use of an interactive model based on empirical studies
+of student risk-taking behavior. Only with the scientific study of individual agents
+and educational demand, and not just formal structures, Turner’s text argues, will
+progress in educational reform be made.
+
+--- [PDF Page 962 / Book Page 981] ---
+
+Mapping Comparative Education after Postmodernity 981
+
+Critical Modernist
+Texts choosing the critical modernist perspective characteristically maintain a strong
+commitment to the modernist metanarrative of emancipation while seeking to breathe
+new life and credibility into the Enlightenment project. They do so by selectively
+appropriating postmodern ideas from antiessentialist reality positions to shore up
+their own essentialist foundations. Clearly, this is a difficult – if not confused – task
+and requires a good deal of qualification and rationalization. A recent text by Peter
+McLaren presents a prime example of such ontological fancy footwork:
+While I acknowledge the importance of recognizing the conceptual limits of Marxian
+analysis [i.e., Marxist universals] for reading certain aspects of the postmodern condition, I believe that the main pillars of Marxian analysis, remain intact, i.e., the
+primacy of economics and the identification of contradictions and antagonisms that
+follow the changing forces of capitalism. It is important that critical educators not
+lose sight of these foci [i.e., modernist foundations] in their move to incorporate
+[antifoundational] insights from … postmodernism. (McLaren, 1994)23
+Here McLaren’s text shares the yearning of positivists for certainty in the form of
+hard data: “[W]e need to be able to stipulate in specific contexts which effects are
+oppressive and which are productive of social transformation. I believe that to defend
+emancipation … we must make certain that not all voices are celebrated” (McLaren,
+1994, p. 338).24 Where Erwin Epstein’s counterattack excludes relativism as the enemy
+of Enlightenment reason and true comparison, McLaren’s text would, like Watson’s,
+silence the ideological Other. In order to avoid just this sort of silencing, I invited
+Carlos Torres to provide a concluding chapter for our Social Cartography book using a
+critical modernist perspective antithetical to the books uncertainty thesis. This practice
+of incorporating oppositional views into intertextual constructions is seen by pluralists and postmodernists not as masochism, but as paralogy where science opens up
+from an Apollonian program of testing and verification for truth value to also include
+a Dionysian process of paralogical deconstruction and a recycling of all knowledge
+claims. In this way, we seek to create a spirited conversation and vouchsafe its continuation.25 With mapping, as in Figure 2, Torres’s self-privileging metanarrative claim is
+recognized and reinscribed into the intertextual field/map, not as a master narrative
+of “general good,” but as another contending mininarrative, that is, as perhaps useful
+“minute particulars” to be assessed in practice.
+Torres also recognizes the utility of postmodernist critiques of representation, but
+only when they avoid what he sees (but does not illustrate) as the pitfalls of extreme
+relativism and solipsism. Torres’s text sees the greatest danger of postmodern views
+in their claim that language constructs reality. His text sees this postmodern shift
+from hard data and “correct” ideology to metaphor, multiple perspectives, and methodological pluralism as antithetical, even subversive, of the theoretical integrity of his
+privileged modernist metanarrative of emancipation. His text defensively calls for a
+linguistic hygiene, that is, that “metaphors … should have no place in social sciences if
+
+--- [PDF Page 963 / Book Page 982] ---
+
+982 Paulston
+
+they substitute for social theorizing including metatheory (or epistemology), empirical
+theory and normative theory” (Torres, 1996).26 Here, Torres’s text seems to be deeply
+suspicious of any but a scientific, analytical method whose goal is not the recovery
+and confirmation of its own ideological origins. While Torres, like McLaren, acknowledges that postmodern ideas may help to make Marxist class analysis less totalizing
+and deterministic, his text continues to demand a so-called reproduction of the concrete situation in conformance with his ontological choice of theoretical realism and
+his claims of a universal truth system.27
+
+Reflexive Modernity
+Texts representing the reflexive modernity position share common origins with critical modernist texts. They have, however, been better able – at least superficially – to
+let go of fading modernist certainties and master narratives. They seek to survive
+the poststructuralist storms by selectively adapting useful interpretations, stories,
+and vocabulary from the postmodern literature and choosing the metaphors of late
+modernity and reflexive modernity.28 Texts from this burgeoning community retain
+modernist notions of a unitary and ideal space of a society that is mapped onto the
+body of a population along with territorial claims of a nation state and a national
+educational system. At the same time, they seem to have lost all hope for certainty
+and selectively attempt to incorporate and adopt postmodern ideas of fragmentation,
+polymorphous identity, and discontinuous thought spaces (see, e.g. Welch, 1998).29
+In the West, and especially in Western Europe, the reflexive systems view recognizes
+a politics of voice and representation that often seeks to displace a welfare state held
+to be inefficient and paternalistic. Central to this view, and in marked contrast to the
+certainties of critical modernist texts, is the idea that to know how to act we need
+to know “what’s happening”. For this we need to develop a language and a space in
+which to engage our present willingness to let most, if not all, knowledge perspectives contend and compete.
+In comparative education, this reflexive systems view is well illustrated by Robert
+Cowen’s recent text, where he claims that Lyotard’s 1979 analysis of the postmodern
+condition continues to offer the most accurate assessment of society – and of universities – as they move into “the post-industrial age and as culture moves into what is
+known as the postmodern age” (Cowen, 1996, quote on p. 247).30,31 Lyotard’s argument
+is that today knowledge is subject to “performativity,” or the optimization of system
+efficiency. Knowledge has become a technology, that is, a marketable commodity
+subject to performativity as well as truth tests. Cowen perceptively argues that these
+changes define a different kind of comparative education predicated not on the tired old
+modernist metanarratives of certainty, but on the recognition of a crisis of legitimacy.
+Where the modern comparative education of John Dewey and Talcott Parsons and colleagues focused largely on citizen preparation and equality of educational opportunity,
+in late-modern educational systems the strongest pairing is seen to be between the
+international economy and efforts to gird educational systems for global competition.
+Today, Cowen contends, we comparativists will need
+
+--- [PDF Page 964 / Book Page 983] ---
+
+Mapping Comparative Education after Postmodernity 983
+
+to specify the patterns of muddle in specific national contexts of transition to
+late-modern education. [Today] the common sense categories of analysis – i.e.,
+school management and finance, administrative structures, the curriculum,
+teacher education – are now dangerous. Even if we could deduce determined
+rules from them [as advocates of modernity would have us do] the rules would
+be a reading of the wrong world. (Cowen, 1996, p. 167)31
+
+Coda
+To conclude, Cowen cites Zygmunt Bauman’s observation that we are no longer legislators, and that we should first look to our interpretations (Bauman, 1987). I can only
+concur and further suggest that as comparativists we are, from the look of things, also
+well positioned to become social cartographers, able to translate, map, and compare
+multiple perspectives on social and educational life. And as our intertextual traveling
+in this study suggests, while our collective work is becoming more postparadigmatic
+and eclectic, we are, as individuals, also aware of “sweet spots” or favored sites in
+knowledge work where we encounter more allies, resources for practice, and options
+for movement (Ross et al., 1992).32 At the same time, we are learning to recognize and
+include views of the Other, thus enlarging the scope of our vision and the diversity, or
+minute particulars, of our representations.
+So is there, perhaps, something akin to a general good, writ small, to be found in the
+opportunities arising from comparative education practiced as comparative mappings
+of disparate world views? This is our challenge today, to understand William Blake’s
+belief that truth is particular, not general, while we move beyond his either/or formulation into a more heterotopic space of critically reflexive understanding – as shown in
+Figure 2 – open to the essentialist texts of late modernity, to the antiessentialist texts of
+the postmodernists, and to all the texts that have yet to claim their agonistic spaces.33
+
+Notes
+1
+
+2
+
+3
+
+I thank Professor Roger Boshier and his students at the University of British Columbia who invited
+me to present a version of this paper as a keynote address at the Western Regional Meeting of the
+Comparative and International Education Society, June 1998.I also thank the three reviewers for their
+helpful comments.
+For those interested in the intricacies of new social science ideas and terminology in education after
+modernity, see, among others, Buenfil-Burgos (1997, pp. 97–107); and English (1998, pp. 426–
+463). For an accessible introductory textbook on popular culture and the postmodern condition, see
+Anderson, Reality Isn’t What It Used To Be (1990).
+See Berlin (1980), esp. pp. 1–24. Berlin identifies the three central ideas of the anti-Enlightenment
+as (1) populism, or the view that people can realize themselves fully only when they belong to rooted
+groups or cultures; (2) expressionism, or the notion that all human works are above all voices speaking or forms of representation conveying a world view; and (3) pluralism, or the recognition of a
+potentially infinite variety of cultures, ways of seeing, and systems of values all equally incommensurable with one another, rendering logically incoherent the Enlightenment belief in a universally valid
+master narrative or ideal path to human progress and fulfillment. Berlin identifies leading exponents
+
+--- [PDF Page 965 / Book Page 984] ---
+
+984 Paulston
+
+4
+
+5
+
+6
+7
+
+8
+
+9
+10
+
+11
+
+12
+
+of the anti-Enlightenment as Niccolo Machia-velli, Giambattista Vico, William Blake, Johann Herder,
+Alexander Herzen, and others, including Georges Sorel and Friedrich Nietzche.
+A more detailed exposition may be found in Owen (1997, pp. 1–22). Owen suggests that postmodern
+“theory” seeks to shift the work of social science from theorizing truth claims to representing new
+social and intertextual terrains in constant flux. For a useful guide to exegetic textual analyses as
+“close reading,” see Francese (1997, pp. 107–154).
+Earlier, Foucault, perhaps anticipating the cyberspace revolution, argued that today there has indeed
+been a fundamental change of consciousness from time to space: “the great obsessive dread of the
+nineteenth century was history, with its themes of development and stagnation, crises and cycle, the
+accumulation of the past, the surplus of the dead. Our own era, on the other hand, seems to be that of
+space. We are in the age of the simultaneous, of juxtaposition, the near and the far, the side by side, and
+the scattered. A period when the world is putting itself to the test, not so much as a great way of life
+destined to grow in time but as a net that links points together and creates its own muddle [as in table
+1 and figure 21. It might be said that certain ideological conflicts which underlie the controversies of
+our day take place between the pious descendants of time and tenacious inhabitants of space.” See
+Foucault and Miskowiec (1986).
+For useful discussions of the reflexive modernity – or late modernity – world view, see Beck, Giddens,
+and Lash (1994).
+Here the authors introduce social cartography to comparative educators as “a new and effective
+method for visually demonstrating the sensitivity of post modern influences for opening social dialogue, especially to those who have experienced disenfranchisement by modernism” (p. 232). Their
+social cartography text contends that spatial juxtapositioning provides a new way to seek a more
+situated truth in a cyberspace era. Now truth is not necessarily grounded in measurable fact alone;
+it is also predicated on the acquisition of a generosity of vision composed of many truths, that is,
+what postmodern texts call a “multiplicity of witness” and a “democracy of perception”. By opening
+comparison in this way, postmodern social cartography helps actors move outward from subjective
+truth toward a reintegration of the self into a new social fabric/space composed of multiple voices and
+stories. This view is labeled “postmodern multiperspectivism” by Francese (n. 4 above) who advocates
+its utility as a safeguard against “any excessively strong, exclusionary reading of the past: the univocal
+truth that suffocates all others and quickly transmogrifies into reified myth” (p. 130).
+See James Whitson’s somewhat quixotic “Post-structuralist Pedagogy as a Counter-hegemonic Praxis”
+(1991). Texts advocating or applying a postmodern deconstruction perspective can also be found in
+Weiler (1996), Luke (1995), and others, including Gottlieb (1989).
+For the subaltern perspective, see, e.g., Mohanty (1991). For an application of the radical alterity
+perspective to probe the trope of space in feminist studies, see Spark (1996).
+Brandi claims that the book’s structuralist orthodoxy silences questions of how research reflects the views
+of those under consideration and whose voices and what questions direct the evolution of the field (p. 160).
+She also contends that the inclusion of feminist theories on structural adjustment and phenomenological
+studies of local perspectives would better help oppressed people improve their quality of life.
+In contrast to what Epstein’s text sees as my purported optimism for the field, I see my viewpoint more
+akin to Berlin’s curious combination of idealism and skepticism. Epstein’s text also makes an argument for measured skepticism in evaluating the field’s future possibilities. The problem, as Epstein
+sees it, is that limited understanding of self restricts the scope and possibility of knowledge work
+within the comparative education field. But is our lack of reflexive self-knowledge, our naivete, our
+bane? If so, could it not be viewed as an educational problem that might be treatable with heterotopic
+mapping? A third radical alterity example problematizing actors in comparative education texts can
+be found in Moran (1998). Moran compares two life histories, her own and that of Gail Paradise Kelly,
+with painful honesty and introspection. Her narrative account of one woman’s struggle with the rules
+of patriarchal modernity provides a valuable pioneering contribution to comparative education, to date
+a largely logocentric male discourse repelled by the very radical alterity sensibilities that construct
+Moran’s story.
+See the neo-Marxist critique of Baudrillard’s arguments in Kellner, Jean Baudrillard:From Marxism
+to Postmodernism and Beyond (1989). While Kellner seems to be fascinated with the brilliance and
+originality of Baudrillard’s ideas, he nevertheless sees him trapped by “the absence of a theory of
+
+--- [PDF Page 966 / Book Page 985] ---
+
+Mapping Comparative Education after Postmodernity 985
+
+13
+
+14
+
+15
+
+16
+
+17
+18
+
+19
+
+20
+
+21
+
+22
+
+agency and mediation [by] … the impossibility of any sort of agent of political change … by the
+metaphysical triumph of the object over the subject” (p. 216). And yet Kellner concludes “the appeal
+of Baudrillard’s thinking might suggest that we are [indeed] living in a transitional situation whereby
+new social conditions are putting into question the old orthodoxies and boundaries” (p. 217).
+For a perceptive examination of different traditions in reflexive thought today, see Potter (1996). For
+two imaginative literary attempts to move beyond the tendency of most modern intellectual production
+to “state, qualify, and conclude,” see Ermath (1992), and Paulston and Plank (2000).
+Anna Sfard, in a related study, warns that the struggle for a conceptual unification of research is not
+a worthwhile endeavor and that too great a devotion to one particular metaphor can lead to theoretical distortion and undesirable practical consequences. Instead, she rejects Torres’s stricture (see n. 27
+below) and advocates a discursive approach of “metaphorical mappings” and metaphorical pluralism
+for conceptual renewal and improved practice. See her study, “On two metaphors for learning and the
+dangers of choosing just one” (1998).
+(See n. 5 above). In making his shift from time to space in social analysis, Foucault graciously
+acknowledges his intellectual debt to Gilles Deleuze with the words “perhaps one day, this century
+will be known as Deleuzian” in his Language, Counter-Memory, Practice (1977, p. 76). For their
+original and fecund ideas on concepts seen as territory and on the necessity of cartographies as a
+strategy to examine discourse with spatial analysis, see Deleuze and Guttari (1980). For the cubism
+analogy, see Nehamas (1985). I thank Professor Eugenie Potter for pointing out this relationship.
+In postmodern mapping as in postmodern narrative, the effort at estrangement moves in two directions simultaneously: one magnifying the subjectivity of perception, the other diminishing any sense
+of mimetic connection between that subjectivity and the world that seemingly remains intact and
+apart. Liebman excels in producing this sense of estrangement as a distortion of scale and perception.
+In the words of Vladimir Nabokov, the objective is to find “a kind of delicate meeting place between
+imagination and knowledge, a point, arrived at by diminishing large things and enlarging small ones,
+that [like social mapping] is intrinsically artistic”. See Nabokov (1970).
+Ahmed demonstrates how a mapping of women’s stories from the margins can, indeed, provide valuable evaluative data for educational planners – if they will only look and listen.
+The interested reader is also directed to a companion project volume by Paulston, Leibman, and
+Nicholson-Goodman, Mapping Multiple Perspectives: Research Reports of the University of
+Pittsburgh Social Cartography Project, 1993–1996 (1996).
+Variations on this metanarrative can be found in Psacharopoulos, “Comparative Education: From
+Theory to Practice” (1990, pp. 369–380) and Heyneman, “Quantity, Quality and Source” (1993, pp.
+372–388).
+White concludes that the key to understanding Foucault’s method of “transcription” is to be found in
+how it is used to reveal the inner dynamics of the thought process by which a given representation of
+the world in words is grounded in poesis: “[T]o translate prose into poetry is Foucault’s purpose, and
+thus he is especially interested in showing how all systems of thought in the human sciences can be
+seen as little more than terminological formulations of poetic closures with the world of words, rather
+than with the things they purport to represent and explain” (p. 259).
+Watson echoes C. Arnold Anderson’s earlier modernization agenda for comparative education: “above
+all, the work undertaken should have purposeful reformist and practical goals and should be used to
+inform and advise governments” (p. 28). In his text, Watson offers by way of illustration two structural-functionalist figures, one of “the determinants of an educational system” (p. 22) and the other of
+“international influences that shape educational systems” (p. 27). However, it is not clear how these
+representations meet his criterion for “hard data,” especially the latter figure, which is coded using
+world systems ideology and presents a soft critique of international capitalism, in, for example, the
+“Role of Stock Markets, e.g., Tokyo’s Hang Seng” (p. 27). But as every Hong Kong schoolboy knows,
+the Hang Seng stock market is not in Tokyo, and even supposedly “hard data” may become a bit fuzzy
+now and then. The Nikkei is, in fact, Tokyo’s stock exchange.
+See also Keith Watson, reviews of Mapping Multiple Perspectives by Paulston, Leibman, and
+Nicholson-Goodman (1996); and Social Cartography, edited by Paulston (1998). While statistical
+analyses may indeed be useful in technical work, balanced educational assessment requires an alternative practice of formulating judgments not only on assigned numerical ratings, but also on the
+
+--- [PDF Page 967 / Book Page 986] ---
+
+986 Paulston
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+29
+
+30
+
+31
+
+32
+
+33
+
+characteristics of performance in context. Watson’s text sees useful knowledge from a rather narrow
+modernization theory viewpoint (i.e., articulated in simple, essentialist, and mechanistic terms). My
+view is broader and also welcomes a perspective that sees knowledge as individually and socially
+constructed and as reflected in particular contexts and discourses that can be mapped and discussed
+and remapped. See Delandshere and Petrosky (1998).
+See also the related studies by Buder (1992) and Stromquist (1995). Stromquist suggests that critical
+gender issues can be appropriated from feminist discourse to support a more liberating “manipulation
+of gender identities through schooling and the mass media” (p. 454). In this genre, see also Dimitriadis
+and Kamberelis, “Shifting Terrains: Mapping Education within a Global Landscape” (1997).
+In contrast to McLaren’s call to base critical pedagogy on neo-Marxist theory updated with selective
+postmodern appropriations, Jennifer Gore advocates Foucault’s strategy of leaving specific tactics
+and strategies of resistance to those directly involved in struggle at the precise points where their own
+conditions of life or work situate them. Here the shift is made from a master narrative of emancipation
+owned by intellectuals to the mininarratives or small stories arising from situated experiences and
+actual power relations. See Gore (1993).
+For a valuable study seeking to situate, or map, various contradictory versions of constructivist theory
+in educational psychology, see Prawat, “Constructivisms, Modern and Postmodern” (1996). Prawat
+uses textual analysis and conceptual mapping, as in this study, to identify and compare different ways
+of seeing. This is a fine example of a reflexive practitioner viewpoint at work.
+A major problem with the moralistic approach found in many critical modernist texts is that it often
+leads to a dead end of author self-centering where the marginalized get marginalized still more. Nast
+puts it like this: “Guilt that centers merely on the existence of … inequality and not on how inequality
+can be transformed is … unproductively paralyzing”. See Nast (1994).
+For a variety of ideas on opening new space for radical critique in a postmodern era, see Simons and
+Billig, After Postmodernism: Reconstructing Ideological Critique (1994). I found Richard Harvey
+Brown’s chapter “Reconstructing Social Theory after the Postmodern Critique” (pp. 12–37) especially
+helpful in its advocacy of self-reflexive talk-about-talk and its advice on teaching debates.
+See introduction to Beck et al. (n. 6 above).
+Here Welch worries that disruptive postmodern ideas will be used as a stick to drive performativity
+efforts in the academy. While this, indeed, seems to be under way, his call to reassert a universal ideal
+of Western democracy as an opposing criterion of judgment, as an absolute standpoint to judge the
+truth, sounds a bit Eurocentric and nostalgic. For a serious attempt to rethink political space today,
+that is, the “hyperspace” of politics in the “global village” in which we all now live, see Magnusson,
+The Search for Political Space: Globalization, Social Movements, and the Urban Political Experience
+(1996).
+For related work framed in this perspective, see also Coulby and Jones (1995, 1996). See also Green
+(1994, pp.136–49) and Schriewer (1988, pp. 25–83), where the text ambitiously advocates a “science
+of comparative education” based on styles of reasoning, or Denkstile, in “divergent types of theory viz,
+scientific theories and reflection theories” (p. 30).
+In a related study, Peter Jarvis uses the concept of “late modernity” to situate performativity concerns
+of non-Western cultures consuming educational knowledge that can now be packaged and marketed
+globally. See his “Continuing Education in a Late-Modern or Global Society (1996).
+As in the study presented here, the authors report finding a “fragmented field constituting chaos for
+some, and for others a mosaic of diverse and sometimes competing goals, theoretical frameworks,
+methodologies and claims” (p. 113). In 1988, they found that CIES members by and large “placed their
+hopes in the multiple possibilities of diversity and defended the field’s eclectic stance as a widening
+rather than an absence of identity” (p. 127). I locate this view as the “postparadigmatic eclecticism”
+position in the center of Figure 2. It is, perhaps, still the favored perspective of most comparative
+education practitioners, but a follow-up study is long overdue. For a perceptive review of our Social
+Cartography book from this eclectic perspective, see Pickeles, “Social and Cultural Cartographies and
+the Spatial Turn in Social Theory” (1999).
+Nigel Blake also addresses this challenge in his perceptive study, “Between Postmodernism and Anti
+Modernism: The Predicament of Educational Studies” (1996). Blake sees postmodernists resisting the
+use of a criterion of validity, as advocated here by Watson (i.e., “hard data”) and Welch (i.e., “western
+
+--- [PDF Page 968 / Book Page 987] ---
+
+Mapping Comparative Education after Postmodernity 987
+democracy”), to settle a usage (see nn. 22 and 30). This would foreclose other stories and represent
+a claim to universal assent for one criterion. As such, postmodern theory impugns the value of all
+inquiry frameworks that make an a priori claim to universal validity. Indeed, it is one of postmodernism’s most salient intellectual characteristics to repudiate the notion of uniquely valid or valuable
+perspectives on itself, or on anything else (p. 43). Here Nigel Blake reiterates the profound skepticism
+found in anti-Enlightenment and postmodern texts about the universal validity of any single master
+narrative or grand theoretical story. See Lyotard, The Postmodern Condition: A Report on Knowledge
+(1984), where, with no little irony, the text might well be read as advocating as a master narrative the
+rejection of metanarratives. Social cartography, as practiced here, seeks to avoid this temptation by
+recognizing and interrelating all texts and arguments claiming space in knowledge debates.
+
+References
+Ahmed, Z. (1997). Mapping rural women’s perspectives on nonformal educational experiences: A case
+study in a Bangladeshi village. Ph.D. dissertation, University of Pittsburgh.
+Anderson, C. A. (June–October 1977). Comparative education over a quarter century: Maturity and challenges. Comparative Education Review, 21(2/3), The State of the Art. 405–416.
+Anderson T. W. (1990). Reality isn’t what it used to be. San Francisco: Harper & Row.
+Baudon, R. (1982). The unintended consequences of social action (pp. 155–59). London: Macmillan.
+Bauman, Z. (1987). Legislators and interpreters: On modernity, postmodernity and intellectuals. London:
+Cambridge University Press.
+Bauman, Z. (1992). Postmodernity (p. 193). London: Routledge.
+Beck, U., Giddens, A., & Lash, S. (1994). Reflexive modernization. Cambridge: Polity.
+Berlin, I. (1980). Against the current: Essays in the history of ideas. New York: Viking.
+Blake N. (March 1996). Between postmodernism and anti-modernism: The predicament of educational
+studies. British Journal of Educational Studies, 44(1), 42–65.
+Bowman, M. J. (November 1984). An integrated framework for analysis of the spread of schooling in less
+developed countries. Comparative Education Review, 28(4), 563–583.
+Brandi, D. (February 1994). Review: [untitled]. Comparative Education Review, Special issue on schooling
+and learning in children’s lives, 38(1), 159–162.
+Broadfoot, P. (1997). Introduction. In M. Crossley & G. Vulliamy (Eds.), Qualitative educational research
+in developing countries (pp. xi-viii). New York: Garland.
+Richard Harvey Brown’s chapter “Reconstructing Social Theory after the Postmodern Critique”
+(pp. 12–37)
+Buenfil-Burgos, R. N. (February 1997). Education in a post-modern horizon: Voices from Latin-America.
+British Educational Research Journal, 23(1), 97–107.
+Buder, J. (1992). Contingent foundations: Feminism and the question of ‘postmodernism’. In J. Butler &
+J. W. Scott (Eds.), Feminists theorize the political. New York: Routledge.
+Coulby, D., & Jones, C. (June 1996). Post-Modernity, education and European identities. Comparative
+Education, 32(2), 171–184. Special Number (18): Comparative Education and Post-Modernity.
+Coulby, D., & Jones, C. (1995). Postmodernity and European educational systems. Stoke-On-Trent:
+Trentham.
+Cowen, R. (June 1996). Performativity, post-modernity and the University. Comparative Education, 32(2).
+Special Number (18): Comparative Education and Post-Modernity, 245–258.
+Delandshere, G., & Petrosky, A. R. (March 1998). Assessment of complex performances: Limitations of key
+measurement assumptions. Educational Researcher, 27(2), 14–24.
+Erkkila, K. (2000). Mapping the entrepreneurial education debates in the United States, the United Kingdom
+and Finland. New York: Garland, in press.
+Deleuze, G., & Guttari, F. (1980). A thousand plateaus, vol. 2 of Capitalism and Schizophrenia. Translated
+by B. Massumi. Minneapolis, MN: University of Minnesota Press.
+Dimitriadis, G., & Kamberelis, G. (May 1997). Shifting terrains: Mapping education within a global landscape. Annals of the American Academy of Political and Social Science, 551, Globalization and the
+changing U S city, 137–150.
+
+--- [PDF Page 969 / Book Page 988] ---
+
+988 Paulston
+Eisner, E. W. (August–September 1997). The promise and perils of alternative forms of data representation.
+Educational Researcher, 26(6), 4–10.
+English, W. F. (September 1998). The postmodern turn in educational administration: Apostrophic or catastrophic development? Journal of School Leadership, 8, 426–463.
+Epstein, H. E. (1988). The problematic meaning of ‘comparison’ in comparative education. In J. Schriewer
+& B. Holmes (Eds,) Theories and methods in comparative education (pp. 3–23). Frankfurt am Main:
+Verlag Peter Lang.
+Epstein, I. (1995). Comparative education in North America: The search for the Other through the escape
+from self? Compare 25(1), 5–16.
+Ermath, D. E. (1992). Sequel to history: Postmodernism and the crisis of representation. Princeton, NJ:
+Princeton University Press.
+Foucault, M. (1997). Language, counter-memory, practice (p. 76). Translated by D. F. Bouchard & S. Simon.
+Ithaca, NY: Cornell University Press.
+Foucault, M., & Miskowiec, J. (Spring, 1986). Of other spaces. Diacritics, 16(1), 22–27.
+Francese, J. (1997). Narrating postmodern time and space (pp. 107–154). Albany, NY: SUNY.
+Goodenow, R. (June 1996). The cyberspace challenge: Modernity, post-modernity and reflections on international networking policy. Comparative Education, 32(2), Special Number (18): Comparative Education
+and Post-Modernity, 197–216.
+Gore, J. (1993). The struggle for pedagogies: Critical and feminist discourses as regimes of truth (pp.
+65–66). London: Routledge.
+Gorostiaga, M. J. (April 1999). Mapping debates on educational decentralization: The case of Argentina
+in the 1990s. Paper presented at the Comparative and International Education Society [CIES] annual
+meeting, Toronto.
+Gottlieb, E. E. (1989).The discursive construction of knowledge: The case of radical education discourse.
+Qualitative Studies in Education, 2, 132–44.
+Green, W. A. (1994). Postmodernism and state education. Journal of Educational Policy, 9, 136–149.
+Heyneman, S. P. (November 1993). Quantity, quality, and source. Comparative Education Review, 37(4),
+372–388.
+Jarvis, P. (June 1996). Continuing education in a late-modern or global society: Towards a theoretical framework for comparative analysis. Comparative Education, 32(2), Special Number (18): Comparative
+Education and Post-Modernity, 233–244.
+Katsuhisa, I. (June 1998). The social cartography project at the University of Pittsburgh: A geographer’s
+assessment. Paper presented at the Western Regional Comparative and International Conference,
+University of British Columbia, Vancouver.
+Kazamias, A. M., & Schwartz, K. (June–October 1977). Intellectual and ideological perspectives in comparative education: An interpretation. Comparative Education Review, 21(2/3), The State of the Art.
+153–176.
+Kellner, D. (1989). Jean Baudrillard: From Marxism to postmodernism and beyond (p. 152). Stanford, CA:
+Stanford University Press.
+Kenway, J. (June 1996). The information superhighway and post-modernity: The social promise and the
+social price. Comparative Education, 32(2), Special Number (18): Comparative Education and PostModernity, 217–231.
+Kress, G. (June 1996). Internationalisation and globalisation: Rethinking a curriculum of communication.
+Comparative Education, 32(2), Special Number (18): Comparative Education and Post-Modernity, 185–196.
+Liebman, W. M. (1994). The social mapping rationale: A method and resource to acknowledge postmodern
+narrative expression. Ph.D. dissertation, University of Pittsburgh.
+Luke, A. (1995/1996). Text and discourse in education: An introduction to critical discourse analysis. Review
+of Research in Education, 21, 3–48.
+Lyotard, J. -F.(1984). The postmodern condition: A report on knowledge. Translated by G. Bennington &
+B. Massumi. Minneapolis, MN: University of Minnesota Press.
+McLaren, P. (Summer 1994). Critical pedagogy, political agency, and the pragmatics of justice: The case of
+Lyotard. Educational Theory 44(3), 319–40.
+McLuhan, M. (1964).Understanding media. New York: McGraw-Hill.
+
+--- [PDF Page 970 / Book Page 989] ---
+
+Mapping Comparative Education after Postmodernity 989
+Magnusson, W. (1996). The search for political space: Globalization, social movements, and the urban
+political experience. Toronto: University of Toronto Press.
+Mohanty, C. T. (1991). Cartographies of struggle. In C. T. Mohanty et al.(Eds.), Third world women and the
+politics of feminism (pp. 1–49). Bloomington, IN: Indiana University Press.
+Moran, J. P. (January 1998). An alternative existence. CIES Newsletter 117, 1, 4.
+Nabokov, V. (1970). Speaking memory: An autobiography revisited (p. 167). New York: Capricorn.
+Nast, H. (1994). Opening remarks on ‘women in the field’. Professional Geographer, 46(1), 54–66.
+Nehamas, A. (1985). Nietzsche: Life as literature (p. 59). Cambridge, MA: Harvard University Press.
+O’Doud, M. (April 1999). Mapping knowledge perspectives in the construction of Swedish educational
+research. Paper presented at the CIES annual meeting, Toronto.
+Owen, D. (1997). Sociology after postmodernism (pp.1–22). London: Sage.
+Paulston R. G. (June–October 1977). Social and educational change: Conceptual frameworks. Comparative
+Education Review, 21(2/3), The State of the Art. 370–395.
+Paulston, R. G. (May 1990). Review: Toward a reflective comparative education? Comparative Education
+Review, 34(2), 248–255.
+Paulston, R. G. (Ed.) (1996). Social cartography: Mapping ways of seeing social and educational change.
+New York: Garland.
+Paulston, R. G. (November 1999). Mapping comparative education after postmodernity. Comparative
+Education Review, 43(4), 438–463.
+Paulston, R. G., & Liebman, M. (May 1994). An invitation to postmodern social cartography. Comparative
+Education Review, 38(2), 215–232.
+Paulston R. G., & Plank, D. N. (2000). Imagining comparative education: Past, present and future. Compare,
+30(2), forthcoming.
+Paulston, R. G., Leibman, M., & Nicholson-Goodman, J. V. (1996). Mapping multiple perspectives: Research
+reports of the University of Pittsburgh social cartography project, 1993–1996. Pittsburgh: University of
+Pittsburgh, Department of Administrative and Policy Studies.
+Pickeles, J. (January 1999). Social and cultural cartographies and the spatial turn in social theory. Journal
+of Historical Geography, 25(1), 93–98.
+Poster, M. (Ed.). Jean Baudrillard: Selected writings. Saint Louis: Telos.
+Potter, J. (1996). Representing reality: Discourse, rhetoric and social construction (pp. 88–96, 228–232).
+London: Sage.
+Prawat, R. S. (1996). Constructivisms, modern and postmodern. Educational Psychologist, 31(3), 215–25.
+Psacharopoulos, G. (August 1990). Comparative education: From theory to practice, or are you A: .* or
+B*. ist? Comparative Education Review, 34(3), 369–380.
+Rakotomanana, M. (1999). Mapping the debate on new information and communication technologies
+(NICTs) and development: Implications for educational planning in Francophone Africa. Ph.D. dissertation, University of Pittsburgh.
+Ross, H., Cho-Yee To, Cave, W. & Blair, D. E. (1992). On shifting ground: The post-paradigmatic identity
+of US comparative education, 1979–1988. Compare, 22(2), 113–32.
+Rust, V. D. (November 1991). Postmodernism and its comparative education implications. Comparative
+Education Review, 35(4), 610–626.
+Schon, D. (1983). The reflective practitioner: How professionals think in action. New York: Basic.
+Schrag, C. O. (1997). The Self after postmodernity (p. 7). New Haven, CT: Yale University Press.
+Schriewer, J. (1988). The method of comparison and the need for externalization (pp. 25–83). J. Schriewer
+& B. Holmes (Eds.). Frankfurt am Main: Verlag Peter Lang.
+Sfard, A. (March 1998). On two metaphors for learning and the dangers of choosing just one. Educational
+Researcher, 27(2), 4–13.
+Simons, H. W., & Billig, M. (Eds.) (1994). After postmodernism: Reconstructing ideological critique.
+London: Sage.
+Spark, M. (1996). Displacing the field in fieldwork. In N. Duncan (Ed.), Bodyspace: Destabilizing geographies of gender and sexuality (pp. 212–233). London: Routledge.
+Stromquist, N. P. (November 1995). Romancing the state: Gender and power in education. Comparative
+Education Review, 39(4), 423–454.
+
+--- [PDF Page 971 / Book Page 990] ---
+
+990 Paulston
+Torres, C. A. (1996). Social cartography, comparative education, and critical modernism: Afterthought.
+In R. G. Paulston (Ed.), Social cartography: Mapping ways of seeing social and educational change
+(p. 430). New York: Garland.
+Turner, D. A. (1988). Game theory in comparative education: Prospects and propositions. In J. Schriewer &
+B. Holmes (Eds.), Theories and methods in comparative education (p. 158). Frankfurt am Main: Verlag
+Peter Lang.
+Usher, R., & Edwards, R. (1994). Postmodernism and education (p. 3). London: Routledge.
+Watson, K. (March 1998). Review: [untitled]. Comparative Education, 34(1), 107–108.
+Watson, K. (1998). Memories, models and mapping: The impact of geopolitical changes on comparative
+studies in education. Compare 28, 1, 5–31.
+Weiler, K. (Summer, 1996). Myths of Paulo Freire. Educational Theory, 46, 353–71.
+Welch, A. (February 1998). The end of certainty? The academic profession and the challenge of change.
+Comparative Education Review, 42(1), Special Issue on the Professoriate, 1–14.
+Wilson, M., Qayyam, A. & Boskier, R. (1999). World Wide America: Manufacturing Web information.
+Distance Education, in press.
+White, H. (1978). Foucault decoded: Notes from underground. In H. White (Ed.), Tropics of discourse:
+Essays in cultural criticism (pp. 230). Baltimore, MD: Johns Hopkins University Press.
+Whitson, J. (1991). Post-structuralist pedagogy as a counter-hegemonic praxis. Education and Society,
+9, 73–86.
+Reviewed Work(s): Review: [Untitled]. Emergent Issues in Education: Comparative Perspectives by R. F.
+Arnove, P. G. Altbach, G. P. Kelly.
+Reviewed Work(s): Review: [Untitled]. Mapping Multiple Perspectives by R. G. Paulston; M. Liebman;
+J. V. Nicolson-Goodman Social Cartography Mapping Ways of Seeing Social and Educational Change
+by R. G. Paulston.
+Reviewed Work(s): Review: Toward a reflective comparative education? New Approaches to Comparative
+Education by Philip G. Altbach; Gail P. Kelly Theories and Methods in Comparative Education by
+Jürgen Schriewer; Brian Holmes.
+

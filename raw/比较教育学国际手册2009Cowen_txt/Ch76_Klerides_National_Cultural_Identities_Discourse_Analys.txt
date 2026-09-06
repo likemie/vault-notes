@@ -1,0 +1,1042 @@
+================================================================================
+Chapter 76: National Cultural Identities, Discourse Analysis and Comparative Education
+Author(s): Eleftherios Klerides
+Handbook: International Handbook of Comparative Education (2009)
+Editors: Robert Cowen and Andreas M. Kazamias (Section Editor: Elaine Unterhalter)
+Section: Section 8: The Cutting Edge - Questioning the Future
+Book Pages: pp. 1225–1247
+PDF Pages: pp. 1196–1218 (in raw/比较教育学国际手册2009Cowen.pdf)
+================================================================================
+
+--- [PDF Page 1196 / Book Page 1225] ---
+
+76
+NATIONAL CULTURAL IDENTITIES, DISCOURSE
+ANALYSIS AND COMPARATIVE EDUCATION
+Eleftherios Klerides
+
+Introduction
+The notions of nationhood and cultural identity have long been fundamental motifs
+in Comparative Education (CE) (Mason, 2006; Ninnes & Burnett, 2004; Tikly, 1999).
+In the literature that the field has produced since at least the turn of the twentieth
+century, they appear either as underlying assumptions or as objects of study. They are
+an important part of the working professional and intellectual capital of comparative
+educators, to the point that they are said to be amongst the “unit ideas” of the field
+(Cowen, 2002a; Cowen, 2002b).
+In recent times, Cowen (2002b, 1996) has called for a rethinking of how to treat
+these unit ideas within CE. The necessity to renegotiate them is part of a wider call
+for re-imagining the field in the new millennium (Ninnes & Mehta, 2004; Kazamias,
+2001; Crossley, 2000; Broadfoot, 2000; Watson, 1999). Such a call is believed to be
+mandated by a changed or changing world, in the words of Kazamias (2001, p. 439),
+“the new cosmos of late modernity” and notably, by what is seen as a pressing need to
+incorporate into comparative educational research the complex new views of identity,
+culture and nation that have emerged or are emerging not least through post-structuralism,
+postmodernism and post-colonialism (Ninnes & Mehta, 2004; Ninnes & Burnett, 2004;
+Cowen, 2002b; Tikly, 1999).
+Even if the world has changed or is changing, it does not necessarily mean that
+older perspectives on these unit ideas should be automatically dismissed. Their renegotiation does not imply developing an ahistorical thinking. Rather, the practice of
+their redefinition should be viewed “as one of consolidation and maturity that builds
+cumulatively, confidently and critically upon past achievements” (Crossley, 2000,
+p. 329). Hence, historical interpretations of these concepts in the field should be
+reviewed to assess which ideas can be kept, which should be readapted and which
+should be discarded.
+This chapter seeks to contribute towards the re-conceptualisation of these unit ideas
+in CE through a critical engagement with both the traditions of the field and the new
+views of nationhood and national identities. It starts with an analysis of the historical
+literature of the field, seeking to sketch how these concepts were construed and what
+implications did their understanding carry for the study of education across settings.
+
+1225
+R. Cowen and A. M. Kazamias (eds.), International Handbook of Comparative Education, 1225–1247.
+© Springer Science + Business Media B.V. 2009
+
+--- [PDF Page 1197 / Book Page 1226] ---
+
+1226
+
+Klerides
+
+This is followed by an outline of the emergence of new perspectives on identity and
+nation in other fields of study such as Cultural Studies, Sociology and Sociolinguistics.
+It is argued that these new perspectives make urgent a rethinking of how CE appreciates these notions and that a new agenda for comparative educational research arises
+out of their re-articulation. It is then suggested that discourse analysis is a helpful
+approach in putting into practice the new research priorities and in reaching new complexities in understanding identity formation in school practices. The main argument
+being forward here is that discourse analysis can be a theoretical and methodological
+bridge in the study of identity and nationhood across cultural settings. The chapter finishes with a call for looking beyond economic aspects of education and globalisation
+into a cultural and historical motif of analysis reinvented, however, along the lines of
+the new emancipatory views on nationhood and cultural identity.
+
+Nationhood and Cultural Identity in the Comparative
+Education Canon
+The notions of identity, nation and culture, and their study in different settings have
+always been a central theme in a particular strand of CE. For example in the work of
+Kandel (1933), Mallinson (1975) and Schneider (1966), there was the idea of “national
+character”. Hans (1958) also stressed through his “factors” (notably race, religion, language and political philosophies), an extended concept of national culture and identity.
+A cultural framing also characterised the Sadlerian dictum that “the things outside the
+schools matter even more than the things inside the schools” (Sadler, 1964, p. 310).
+Underpinning this early historical literature of the field was a certain cluster of
+claims about the nature of nationhood and national identity. These were often perceived as natural and objective entities, existing “in the very nature of things”, to use
+Gellner’s terms (1983, p. 48). This assumption is reflected in the literature as a tendency to write and talk about these concepts in terms of an organicist and naturalist
+wording. One example of this tendency comes from Hans. He distinguished between
+“immature” and “mature” nations, and drew an analogy between national communities and human beings as follows: “The growth of nations can be compared with the
+growth of an individual” (Hans, 1958, p. 11). The parallelism between a national group
+and a human being is also manifested in the work of Kandel who also ascribed to each
+and every nation characteristics and qualities that are similar to a person. Nationality,
+he writes, “is for a people what personality is for the individual, the expression of its
+life and culture” (Kandel, 1933, p. xxiv).
+There was also a tendency in this literature, notably in the work of Mallinson
+(1975), to make nationality equivalent with such terms as “national consciousness”
+and “national feelings”. This terminology reveals the way in which he and other
+comparativists thought about identities – they were inner and innate essences. This
+thinking is particularly dominant in their views on the notion of “national character”.
+Mallinson, for instance, defined it as a “fixed mental constitution”, a determinant of
+a nation’s behaviour rather than a form of national behaviour. He also ascribes its origins “to the existence of a number of relatively permanent attitudes – to these prime
+
+--- [PDF Page 1198 / Book Page 1227] ---
+
+National Cultural Identities, Discourse Analysis 1227
+
+values – common to a nation” (1975, p. 14). In his writings on the concept, Kandel,
+recognising the danger of generalisations, defined it as a strong possibility towards
+collective behaviour in specific ways. As he put it, “certain groups are likely to act in
+ways different from other groups according to their history, traditions, environment,
+ideals, and intellectual outlook” (1933, p. 23). Even so, he could not also escape
+essentialised generalisations such as “the Englishman dislikes to think or formulate
+plans of action” and “the Englishman, more than any other national, believes that an
+ounce of practice is worth a pound of theory” (1933, p. 25).
+The above statements also highlight a specific reading of cosmos. In the eyes of
+these comparative educators, the world was inevitably and fatally organised into a
+league of unique and independent nations, each with its own distinct identity, culture
+and destiny in the world. The work of Mallinson is also indicative of this reading. He
+wrote that each and every nation was “master of its own fate, owing no obedience to
+any power above or outside it, and free to determine itself as it best thought fit” (1975,
+p. 265). In the literature studied, however, there was no consensus on what constituted
+a nation or a national identity. On the contrary, comparative educators often defined
+them on the basis of a range of combinations drawing upon ethnic and civic criteria.
+Nationhood were said to be determined by ethno-cultural elements such as a common
+language, a common religion, collective historical experience, a shared set of traditions and customs or a common descent; or, by such political-territorial features as a
+common territory, a body of civic values and aspirations common to all citizens or a
+patria of common institutions and laws.
+The essentials of cultural identities and nationhood were further understood as
+being there from birth, unified and continuous, changeless throughout all the changes,
+eternal. To cite Mallinson again, national character was described as “the totality of
+dispositions to thought, feeling and behaviour peculiar to and widespread in a certain
+people, and manifested with greater or less continuity in a succession of generations”
+(1975, p. 14). The illustrations from his work can be multiplied – the identity of a
+society “is the total way of life of that society” and “comprehends all that is inherited”;
+“is an expression of continuity, an awareness of an extension of people in time, in
+numbers and in space”; and “is based on long continued uniformity of customs and
+manners” (Mallinson, 1975, pp. 7, 263–264).
+To sum up here, the notions under discussions were seen in this early comparative
+literature as essential, homogenised, fixed and everlasting entities. Their specific conception is a manifestation of the colonisation of CE by the so-called primordialist and
+perennialist paradigm on the study of nationhood and nationalism (Özkirimli, 2000;
+Smith, 1999). In turn, this reading of national identity and nation produced and legitimised: (a) certain views on the nature of education and its purposes; (b) how national
+systems of education and educational knowledge were shaped; and thus (c) a certain
+kind of comparative education with particular research emphases and priorities.
+Since the nation and identity were viewed as essential units, they were in turn seen
+as existing independently from school practices; and if they existed before these practices, a national system of education was nothing more than their mere reflection. The
+following statement taken from Kandel is illustrative of this point: “each national system of education is characteristic of the nation which has created it and expresses
+
+--- [PDF Page 1199 / Book Page 1228] ---
+
+1228
+
+Klerides
+
+something peculiar to the group which constitutes that nation” (1933, p. xxiv). Hans
+echoed Kandel by stressing that education systems “are the outward expression of
+national character and as such represent the nation in distinction from other nations”
+(1958, p. 9).
+Thus, the main purpose of national education was to protect, preserve and hand on
+the so-called cultural inheritance of a nation, and by means of this heritage, to foster
+a sense of national belongingness among citizens and to assure the cultural continuity
+of the nation. An example of this line of thought comes from Mallinson. “It is through
+the education of the immature that each society strives to protect and perpetuate its traditions and its aspirations” (1975, p. 8). Kandel likewise spoke of education in terms
+of “the transmission of the cultural inheritance which has been regarded as necessary
+for the preservation of society” (1933, p. 365). In this view, education was an institution where the nation’s children were assimilated into national culture and learned
+how to be nationally. This form of national socialisation was based on the assumption
+that children were already ethnic subjects, but the fuller realisation of that was to be
+achieved through national education.
+Since they were construed as given entities, national mentalities, traditions and their
+historical trajectory tended to be dealt with in CE as “the things outside the school”
+(Sadler, 1964, p. 310), “the intangible, impalpable, spiritual and cultural forces”
+(Kandel, 1933, p. xix) or the “factors” (Hans, 1958) that affect the shaping of education.
+Formulated differently, the forces and factors’ school of thought approached cultural
+context and the history of cultural context in which education was embedded in terms
+of a causal narrative (Cowen, 2002a; Kazamias, 1961): they were the ‘determinants’
+and ‘causes’ of certain forms of national educational systems and knowledges.
+Hence, as a mode of research and an approach to knowledge, CE under the impact
+of nationalist claims of primordialism and perennialism was envisaged as a multidisciplinary episteme devoted to the study of education within its wider cultural and
+historical context (Kazamias, 1961, 2001; Cowen, 1996, 2002a). This point is perhaps
+best illustrated in the work of Mallinson. He defined comparative research and study in
+education as “a systematic examination of other cultures and other systems of education deriving from those cultures in order to discover the resemblances and differences,
+the causes behind resemblances and differences, and why variant solutions have been
+attempted (and with what result) to problems that are often common to all” (1975,
+p. 10). This epistemic strand of the field tried to specify the cultural contexts that are
+always relevant in shaping all educational systems and all educational knowledge. It
+was, however, on the margin of mainstream CE, which was mainly preoccupied with
+the modernisation and development of educational systems within a broader functionalist and positivist approach (Kazamias, 2001; Cowen, 1996).
+In the mid-1970s and early 1980s, there was a shift in the field (Kazamias, 2001;
+Tikly, 1999; Cowen, 1996). It concerned itself with colonialism, neo-colonialism
+and cultural imperialism, examining educational patterns in former colonies from a
+dependency theory perspective. Within this paradigm (Carnoy, 1974; Altbach & Kelly,
+1978; Watson, 1982), comparative research in education focused on, amongst other
+things, the specification of the forms and contents of cultural identities created by
+school practices across colonial settings (Cowen, 1996), but being concerned mainly
+
+--- [PDF Page 1200 / Book Page 1229] ---
+
+National Cultural Identities, Discourse Analysis 1229
+
+with economic facets of underdevelopment “did not lend itself easily to an analysis
+of issues of race, culture, language and identity” (Tikly, 1999, p. 609). Nevertheless,
+what was common in all work produced during this period was the sociological view of
+education as a mechanism for cultural reproduction. The most explicit manifestation
+of this tendency in CE is the volume of Brock and Tulasiewicz (1985), in which the
+concept of “cultural identity” was used to explain the role of education in reproducing
+cultural norms. In the introduction of this volume, the editors write about this notion:
+“The cultural identity of the group is kept up by constant reference to the reservoir of
+its culture” and “is born of a common heritage” (pp. 3–4).
+Though forms of identity within education became now units of comparative analysis, the notions of identity and nation, as the last statement above highlights, were still
+perceived as essential and fixed entities (Ninnes & Burnett, 2004; Tikly, 1999). As a
+result, this new body of comparative literature took the modernist categories ‘coloniser’ and ‘colonised’ for granted – and reproduced and perpetuated them. It treated
+the relationship between these categories unproblematically and necessarily as one
+of omnipotence, neglecting to examine the effects of colonialism on the identities of
+colonising nations. It also gave little attention to heteroglossia, antinomies and tension
+regarding identity formation within both the colonial and the metropolitan settings;
+to cultural resistance by colonised peoples to imperialist cultural plans and cultural
+hybridity as a result of these struggles; and, to fragmentation of colonial experience
+along gender, class, ethnic and other lines. That is, it failed to examine exactly all
+the issues which are now considered to characterise notions of national identity and
+nationhood.
+
+New Perspectives on Nation and Identity
+In the second half of the twentieth century, a number of influential works (Kedourie,
+1960; Gellner, 1964; 1983; Anderson, 1983; Hobsbawm & Ranger, 1983) appeared
+in the fields of political science, history and sociology, signalling a shift in the study
+of nationalism: “from a primordialist, essentialist notion of the nation to the currently
+dominant view of the nation as constructed or invented” (Eley & Suny, 1996, p. 6).
+Some scholars (Smith, 2001; 1999) speak of this shift in terms of the emergence of a
+new paradigm of explaining the nature and origins of nations – the so-called modernist paradigm, which apart from the thesis of the social constructedness of nationhood,
+advocates their modernity. Others (Hall, 1992) see this shift as the beginnings of the
+emancipatory process of deconstructing national cultures and identities.
+More recently, during the 1990s, a new set of approaches (Bhabha, 1990; Hall, 1992;
+1996b; Billig, 1995; Woodward, 1997; Wodak et al., 1999) appeared. These postmodern
+and post-colonial accounts do not represent a distinct explanatory category of the nation
+but they employ a constructionist mode of thinking to back and operationalise the modernist arguments (Smith, 1999). For Eley and Suny (1997), these recent methodological
+approaches and techniques have moved the study of nationhood and nationality into
+“the realm of discourse and the generation of meaning” (p. 6). Specifically, they attempt
+to explain how nations and identities are socially constructed in two senses: (a) what
+
+--- [PDF Page 1201 / Book Page 1230] ---
+
+1230
+
+Klerides
+
+particular means and devices are employed to construct them and (b) what elements
+constitute the meta-narrative of the nation. It is the task of the following paragraphs to
+provide an account of these most recent developments in the study of nationalism.
+The point of departure of the discussion is Anderson’s thesis of nations as “imagined political communities”. For him, each and every nation is necessarily imagined
+because it stretches beyond immediate experience – it embraces far more people than
+those with which nationals are personally acquainted and far more places that they
+have visited. As an abstraction, the nation is imagined as finite, bounded, autonomous
+and horizontally uniform:
+The nation is imagined as limited because even the largest of them, encompassing
+perhaps a billion living human beings, has finite, if elastic, boundaries, beyond
+which lie other nations. … It is imagined as sovereign because … nations dream
+of being free, and, if under God, directly so. … Finally it is imagined as a community, because, regardless of the actual inequality and exploitation that may
+prevail in each, the nation is always conceived as a deep, horizontal comradeship
+(Anderson, 1983, p. 7).
+Similarly, national identity can be conceived as a mental construct - one that creates a
+sense of solidarity among a group of people by promoting the notion of being part of
+and sharing a common image; a construct that stresses the bound-ness of this image,
+providing an imaginary unity against other peoples that exist beyond its frontiers and
+from whom the group is felt to be autonomous; and, a construct that is conceived as
+unity, concealing actual divisions and heterogeneity within the national boundaries.
+The re-reading of nations and identities as imagined is not a denial of their reality and material effects. Rather, it is a recognition of the fact that they are contingent
+upon human practices, being constructed in and out of interaction between human
+beings and their world. Hence, nations and nationalities, in Anderson’s words, “are
+to be distinguished not by their falsity/genuineness, but by the style in which they are
+imagined” (p. 6).
+Like Anderson, Hall also points out that identity is imagined as a form of solidarity.
+He goes on to suggest that this is achieved through “a discursive device which represents difference as unity or identity” (Hall, 1992, p. 297). Thus, however different the
+members of a nation may be in terms of class, gender, region, ethnicity, age or race,
+this device-identity depicts them all as sharing the same features and belonging to the
+same national family. This means that the unity, which every national identity treats as
+fundamental, is not a natural but rather an imaginative structure of solidarity accomplished through the exercise of certain forms of symbolic power.
+Although diversity within the nation is often repressed and backgrounded in
+national identities, international differences tend to be foregrounded and emphasised
+(Woodward, 1997; Bauman, 1997; Hall, 1996a; Hall, 1996b; Billig, 1995). Hence, any
+identity is about imagining the national Self as much as imagining the national Others.
+As Hall (1996b) puts it, “there is no identity that is without the dialogic relationship
+to the Other. The Other is not outside, but also inside the Self, the identity” (p. 345).
+From a post-structuralist perspective, the presence of otherness in national imaginings
+
+--- [PDF Page 1202 / Book Page 1231] ---
+
+National Cultural Identities, Discourse Analysis 1231
+
+is critical in constructing national sameness: “[I]t is only through the relation to the
+Other, the relation to what it is not, to precisely what it lacks, to what has been called
+its constitutive outside that the ‘positive’ meaning of any term – and thus its ‘identity’
+– can be constructed” (Hall, 1996a, pp. 4–5).
+If nations and national identities are an imaginary complex of ideas containing at
+least the defining elements of unity and difference then the image is real to the extent
+that citizens are convinced of it, believe in it and identify with it emotionally. The issue
+here is how the imagined community reaches the minds of those who are convinced of
+it – it is conveyed and constituted in representation. Indeed, according to Hall (1992),
+nations are not only political formations but also systems of cultural representations.
+It is via these systems that a people represent, interpret and produce knowledge about
+themselves:
+[N]ational identities are not things we are born with, but are formed and transformed within and in relation to representation. We only know what it is to be
+‘English’ because the way ‘Englishness’ has come to be represented, as a set
+of meanings, by English national culture. It follows that a nation is not only a
+political entity but something which produces meanings – a system of cultural
+representation. People are not only legal citizens of a nation; they participate in
+the idea of the nation as represented in its national culture. A nation is a symbolic community and it is this which accounts for its power to generate a sense
+of identity. (Hall, 1992, p. 292)
+Bhabha (1990) points out that a mode of representation which has been used to produce and circulate the image of the nation is narration. “Nations, like narratives,” he
+writes, “lose their origins in the myths of time and only fully realise their horizons
+in the mind’s eye. Such an image of the nation – or narration – might seem impossibly romantic and excessively metaphorical, but it is from those traditions of political
+thought and literary language that the nation emerges as a powerful historical idea” (p. 1).
+In a more recent account, Benwell and Stokoe (2006) emphasise the same point by
+writing that “the practice of narration involves the ‘doing’ of identity” (p. 138). This
+perspective is often related to the notion of “narrative identity” seen as the identity
+of a character – the national Self – in a story (Wodak et al., 1999; Martin, 1995). The
+quintessence of such an identity is that the nation draws its identity from the story’s
+plot rather than being described in it.
+In all scholarly accounts highlighting narratives as sites of identity work, there is
+also an emphasis on the multiplicity of identities. In the words of Özkirimli (2000),
+“different members of the nation promote different, often conflicting, constructions of
+nationhood” (p. 228). Hence, “there is no single narrative of the nation” (Özkirimli,
+2005, p. 169). Yet, the idea of multiple identities does not simply refer to the articulation of different narratives by different social groups. It also refers to the construction
+of diverse narratives according to the sort of social communicative occasion that they
+are told and to the historic and institutional location of their narrator(s). The view of
+identities as situational entities is best captured in Wodak and her colleagues’ formulation
+that there is “no such thing as one national identity. We believe rather that different
+
+--- [PDF Page 1203 / Book Page 1232] ---
+
+1232
+
+Klerides
+
+identities are discursively constructed according to audience, setting, topic and
+substantive content” (1999, p. 4). The various versions of national identity in a given
+society are in relationships of appropriateness and in relationships of complementarity,
+translation, opposition and exclusion.
+Several implications for theorising identity and nation can be highlighted in relation to this plurality thesis. First, their construction may be seen as a contested process
+and these concepts themselves as terrains of contestation (Özkirimli, 2005; Smith,
+1999). Second, they are marked by fragmentation, contradictions and hybridity. They
+are made up out of partial and diverse narrative fragments, of the Self and the Others,
+that frequently pull in different directions. Thus, for Martin (1995) “the Self is a mixed
+body” (p. 17); for Hall (1996a) cultural identities are “fragmented and fractured”
+(p. 4); for Calhoun (1997) nations are “heterogeneous objects of analysis” (p. 21);
+and for Bauman (1997) every group identity is “a palimpsest identity” (p. 53). Third,
+identities are ambivalent entities and there are various kinds of ambivalence. Bhabha
+(1990) advocates that they oscillate between tradition and modernisation. According
+to Hall (1990, 1992), they are ambiguously placed between past and future, belonging
+to the future as much as to the past. Billig (1995) speaks of the tension between the
+particularistic and universalistic claims of nation. In his various works, Smith (2003,
+1991) finally suggests that they fluctuate between reality and fiction, culture and politics, inclusion and exclusion.
+Identities, moreover, change shape not only in space across social fields, institutions and occasions, but also over time: “national identification and what it is believed
+to imply, can change and shift in time, even in the course of quite short period”
+(Hobsbawm, 1992: 11). Similarly, Bauman (2004) sees identity “as an as-yet-unfulfilled, unfinished task”, a concept that “was destined to remain not just perpetually
+unaccomplished but forever precarious” (pp. 20–21). Hall (1996a) also speaks of identity as a formation in a state of constant flux and identity construction as “a process
+never completed – always ‘in process’. It is not determined in the sense that it can
+always be ‘won’ or ‘lost’, sustained or abandoned” (p. 2). Hall further stresses the
+point that changes in the shape and form of an identity are always associated with “its
+determinate conditions of existence”, including material and symbolic resources.
+If national identity is now seen as the product of narrative representation, the issue
+is what is “the cluster of ideas and understandings that came to surround the signifier
+‘nation’ in modern times” (Suny, 2001, p. 870). It is suggested that a narratively constructed identity contains four main elements.
+The notion of a common national space is the first pillar. “A nation is more than an
+imagined community of people, for a place – a homeland – also has to be imagined”
+(Billig, 1995, p. 74). The geo-body of the nation is articulated in a range of ways (Smith,
+2003, 1986) – as a sacred homeland, a unified entity which starts and stops at demarcated borders beyond which lie other national territories. It is imagined as a historic and
+ancestral land, a land that spiritually and organically belongs to its people and a people
+to its land. It is also imagined as a unique, peculiar, beautiful and self-sufficient land,
+separating what is ‘ours’ from ‘theirs’.
+Secondly, there is a collective national time in the narrative representation of
+national identities. “If nations exist in space,” Smith suggests, “they are equally
+
+--- [PDF Page 1204 / Book Page 1233] ---
+
+National Cultural Identities, Discourse Analysis 1233
+
+anchored in time” (2003, p. 166). The national time is often segregated into three subelements – a shared past, present and future. It is represented as stretching back into
+the mists of obscure generations of ancestors and forward into the equally unknowable
+generations of descendants (Calhoun, 1997; Miller, 1995; Smith, 1986). Of these three
+facets of time, Hobsbawm (1996) privileges the past in the making of nationhood.
+“What makes the nation is the past; what justifies one nation against others is the past
+and historians are the people who produce it” (p. 255). In any national historicity, there
+are a number of recurrent themes – the people’s uniqueness, the superiority of their
+culture and character, their racial and cultural purity, their longevity, the importance of
+their autonomy and the negative effects of heteronomy (Berger et al., 1999).
+A third aspect of identity is the idea of a shared national culture. “Modern man (sic)
+is not loyal to a monarch or a land or a faith, whatever he (sic) may say, but to a culture”, writes Gellner (1983, p. 35). Similarly, for Martin, the making of any collective
+identity implies “a selection of pre-existing cultural traits which will be transformed
+into emblems of identity” (1995, p. 13). National identity is represented to be the sum
+of the great artefacts of a “high culture’, as presented in the classic works of literature,
+painting, music and philosophy and beyond that, to everyday practices which make up
+the lives of ordinary people – to the widely distributed forms of popular music, art,
+design and literature, or the mass activities of leisure-time and entertainment (Hall,
+1997; Smith, 1991; Gellner, 1983).
+The final aspect of the narration of identity is a common national habitus. “National
+identity has its own distinctive habitus which Bourdieu defines as a complex of common but diverse notions or schemata of perception, of related emotional dispositions
+and attitudes, as well as of behavioural dispositions and conventions” (Wodak, 2006,
+p. 106). Here, instead of the traditional term ‘national character’, the notion of national
+habitus is preferred on the grounds that it indicates not ‘something’ inherent and eternal, but a set of beliefs or opinions, emotions, attitudes, and behavioural norms that can
+change from one period to another and that are internalised or individually acquired in
+the course of socialisation. Hence, a national habitus goes beyond stereotypical images
+about ‘us’ and ‘them’ to include features such as the willingness to take sides with the
+nation one has a sense of belonging or the readiness to protect it when one feels it is
+threatened (Wodak et al., 1999).
+Thus, to have a national identity, following Billig (1995), is to possess certain banal,
+prosaic, routinely familiar ways of writing and talking about nationhood – about the
+national space, the national time, the national culture and the national habitus. However,
+“rather than being reflected in discourse, identity is actively, ongoingly, dynamically
+constituted in discourse” (Benwell & Stokoe, 2006, p. 4). Equally, for Wodak et al.
+(1999), “national identities, as special forms of social identities, are produced and
+reproduced, as well as transformed and dismantled, discursively” (pp. 3–4), and for
+Özkirimli (2005), “nationalism is in this sense a form of discourse, a way of seeing
+and interpreting the world” (p. 2). This discursive approach to nationalist phenomena
+is based on structuralist and post-structuralist linguistic philosophy. This theory sees
+language not as a neutral medium merely reflecting reality, but rather as a means of
+creating experience, identities and systems of knowledge about the world (Benwell &
+Stokoe, 2006; Jørgensen & Phillips, 2002; Fairclough, 1992).
+
+--- [PDF Page 1205 / Book Page 1234] ---
+
+1234
+
+Klerides
+
+This recent reading of identities as inscriptions in discourse has been criticised on
+the grounds that it tells little about agency, specifically how subjects interact with
+discourse and how they may resist, modify, negotiate or reject narratives about the
+national Self (Benwell & Stokoe, 2006). In an attempt to hit a middle ground, Hall
+(1996a) employs the term ‘identification’, defining this concept as
+the meeting point, the point of suture, between on the one hand the discourses
+and practices which attempt to ‘interpellate’, speak to us or hail us into place as
+the social subjects of particular discourses, and on the other hand, the processes
+which produce subjectivities, which construct us as subjects which can be
+‘spoken’. Identities are thus points of temporary attachment to the subject
+positions which discursive practices construct for us. (pp. 5–6)
+National identity can be similarly conceived as a positional concept. It is a position
+of identification, the attachment of the subject to what may be called the nationalist subject position. This is constituted by nationalist discourse, either, according to
+Hall (1992), the discourse of national culture, or, according to Calhoun (1997), the
+discourse of nationalism. Both discourses have the ‘nation’ or the ‘people’ as their
+object of signification. Members of a nation identify with this position to which they
+are summoned and seek to engage or invite others in discourse. “National cultures”, as
+Hall (1992) points out, “construct identities by producing meanings about ‘the nation’
+with which we can identify” (p. 293). This premise – the joining of authors and readers
+in structures of nationalist meaning and conventions – represents a consensus in the
+literature.
+
+Implications for Comparative Education: A New
+Research Agenda?
+In light of deconstructive views, treating nationhood and cultural identity within CE
+as essential, unified, eternal and fixed is problematic. Rather, the emergence of these
+new theoretical accounts makes urgent a rethinking of how the field appreciates the
+concepts of identities and nations. Their re-negotiation and re-conceptualisation builds
+on the traditions of the field and is explored here in relation to the nature and function
+of education, as well as to the way in which educational knowledge is constituted. It is
+then suggested that a range of new research issues for CE to engage with arises from
+this re-reading. The intention here is to identify some potential areas for research and
+to open debate rather than to imply closure.
+Since national identities and nationhood are now seen as products of language
+and discourse, their treatment as existing independently from schooling processes is
+problematic. From the standpoint of the new theories, signifying practices within education (for instance, the production and distribution of curricula and textbooks, and
+their consumption in school and classroom), as in other social domains, are not mere
+reflections of the distinctive character, history and culture of a nation. Rather, they
+should be viewed as sites of their discursive construction. Any educational practice of
+
+--- [PDF Page 1206 / Book Page 1235] ---
+
+National Cultural Identities, Discourse Analysis 1235
+
+signification be it a civics lesson, the reading of a poem, a geography book or a history map, provided that it has either explicitly or implicitly the ‘nation’ or ‘people’ as
+its privileged object of attention, can be seen as an instantiation of national identity
+articulation. In any such instance, the production of the nation’s image is a historically
+and socially contingent praxis depending on a number of factors: the topic and the
+audience to which an instance of identity construction is related, the general features
+(including purposes) of the pedagogic setting and the education system in which this
+instance takes places and more generally, the wider society and the historical trajectory
+of that society in which identity formation is embedded.
+Therefore, the role of national education is not so much to protect, preserve and pass
+on the nation’s cultural inheritance. Instead, the purpose of education, from the point
+of view of postmodern, post-structural and post-colonial accounts of identities and
+nationhood, is to participate in the construction and transmission of this heritage to the
+masses – for example, of the belief in national unification, in the differentiation of the
+Self from Others and in the singularity of the people, of the idea of national continuity
+over time and in space, and more generally, of certain types of national subjectivities.
+Some scholars working for instance in the field of history education have recently
+begun to address these functions of education (Lowe, 1999; Frangoudaki & Dragona,
+1997; Green, 1997), and others to particularly study them from a comparative perspective (Foster & Crawford, 2006; Vickers & Jones, 2005). In spite of these positive
+developments, there is still a lot to be done, especially in developing the theoretical
+dimension of this work.
+Moreover, the centrality of a culturally contextualised and historical approach to
+the study of educational matters across national settings – that is, the Sadlerian views
+that ‘the things outside the schools’ shape and regulate ‘the things inside the schools’,
+and that education is ‘the outcome of battles long ago’ – should still be relevant today
+for the field. For example, in light of the new views on nationhood and cultural identity, it is expected that constructs of national identity in education are linked to, and
+influenced by, the articulation of nationhood in other social fields (the political, media,
+academic), both synchronically and diachronically. The value of contextualisation in
+the investigation of educational practices and the relevance of cultural specificities in
+shaping educational forms and knowledge have been also reiterated recently by some
+scholars working in CE (Mason, 2006; Crossley, 2000; Broadfoot, 2000; Alexander,
+2000). Others, the most vocal of them being Kazamias (2001), Watson (1999) and
+Sweeting (1999), have extended the notion of cultural context calling for the reinvention of the historical in CE.
+However, from the position of new conceptions of identity and nationhood, the link
+between ‘the things outside the schools’ and ‘the things inside the schools’ needs to be
+reread in terms of a dialectic: ‘the things inside’ are constituted by ‘the things outside’
+but at the same time, they are constitutive of them. Therefore, if CE is to take account
+of the new complexities of identity formation, any educational instance of identity
+constitution should be now construed as “the insertion of history (society) into a text
+and of this text into history” (Kristeva, 1986, p. 39). By the insertion of history into a
+text, it is meant that identity absorbs and is built out of available conventions from a
+society and its history, being in this way involved in the enactment of continuity with
+
+--- [PDF Page 1207 / Book Page 1236] ---
+
+1236
+
+Klerides
+
+the past and reproduction. By the insertion of this text into history, it is meant that
+identity reworks the available meanings of that society, and in so doing, it helps to
+make history by contributing to processes of change in the image of the national Self.
+Moreover, and following again new theories of identity construction, the relation
+of education with cultural context and the history of cultural context, ought not to be
+thought of and examined on the basis of determinism – ‘the intangible, impalpable,
+spiritual and cultural forces and factors’ as ‘determinants’ of educational forms and
+knowledge. Instead, this motif of the historical comparative literature should be
+re-conceptualised on the basis of the idea of possibility – ‘the intangible, impalpable,
+spiritual and cultural forces and factors’ as the conditions for articulating certain
+nationalist narratives and at the same time, delimiting the possibility for other ways of
+representing and constructing knowledge about the Self. This point will be revisited
+and further explained later in this chapter.
+From a critical engagement with both traditions of the field and new perspectives
+on identities and nationhood, a number of new priorities for research can be now
+sketched.
+It is necessary for CE to start interrogating notions of nationhood and cultural
+identity across national settings. The starting point of this process should be an interpretation of these notions as products of discourse and language, being materialised
+in curricula, policy texts, textbooks or classroom practices. A whole range of new
+research themes emerges from this insight. Of particular relevance are for instance
+the study of how nationalities are constructed as primordial units, of how nations and
+cultures are presented as homogeneous, of how continuity and singularity are enunciated, of how distinctions between the Self and the Others are constituted, of how
+identities are presented as eternal and natural entities. The implication for CE here is
+to engage in investigations of the ways in which these nationalist ideas (unity, timelessness, uniqueness, difference, and so on) are constructed in different places. Such
+an approach, one that focuses on how rather than what, is not a usual practice in CE,
+and in other educational fields. In the literature, national identities and nationhood are
+often studied via methods of content analysis which neglect the role of language in
+constituting content (Oteiza, 2003).
+Another area of study is to deepen understanding of now nationalist subject positions are constructed in schooling across cultural settings. This type of analysis can be
+carried out by identifying and describing issues such as: what kind of knowledge about
+the national past and culture the nation’s children are given; what types of opinions,
+emotions and attitudes about and towards the Self and the Others are made available
+to them; what representations of the nation’s geo-body they are provided with; and,
+what sense of destiny in the present and future is cultivated in them. It is through identification with particular nationalist readings of time, culture, habitus and space that
+children ‘become’ certain kinds of national subjects.
+If CE is to start examining the making of national subjectivities, then attention also
+needs to be given in the study of the ways in which pupils are summoned to identify with
+narratives of nationhood and whether some space is created for them to negotiate, resist,
+modify or reject national mythologies. This mode of analysis can be extended to cover the
+ways in which teachers or writers of curricular material themselves are positioned in
+
+--- [PDF Page 1208 / Book Page 1237] ---
+
+National Cultural Identities, Discourse Analysis 1237
+
+relation to discourses about the Self. A crucial implication for comparative research
+here is to trace and explain possible variations across cultural settings regarding pupils’
+interpellation and writers’ positioning towards nationalist discourses.
+Moreover, the ‘style’, to employ Anderson’s (1983) term, in which nations and identities are imagined in different places needs not be examined as coherent and consistent.
+Rather, it ought to start from the view that it is marked by fragmentation, ambivalence,
+heterogeneity, contradictions and pluralism, implying that the search for the nature and
+origins of these features can be the basis of comparison. This implication, as was said
+earlier, derives from the postmodern and post-colonial axiom that the imagery of the
+nation is fractured, fluid and hybrid, a point of struggle and contestation, of ambiguity,
+dilemmas and paradoxes.
+The inherent historicity of every national identity, that images of nation are subject to
+change or perpetuation, implies a need to look at how nationhood is challenged, transformed, sustained or defended across cultural settings. The recent works of Vickers
+and Jones (2005) on national identity and nationhood in East Asia and Schissler and
+Soysal (2005) in Europe provide two examples of the application of such an approach
+comparatively. However, although the contributors in these volumes analyse changing
+politics concerning nation, they frequently neglect the persistence of older entrenched
+national myths; and more importantly, the hybridisation of identification deriving from
+co-articulations of new and older national images. The complex juxtaposition of new
+and old and the creation of novel hybrids should also be taken into account.
+A final area of comparative research addressed here stems from the view that national
+identity is contingent upon the ideological, political, sociocultural and historical context in which it is embedded and is constitutive of this context in creative or normative
+ways. Such a view implies a necessity to explore both the role that education is given
+to shape and transmit certain perceptions of nationhood, and the conditions for the
+(re)production of certain styles of identities. The examination of the conditionality
+should seek to capture and illustrate both the uniqueness and the interdependency of
+cultures. Some of the complex linkages between educational constructs of identity
+and the broader conditions which they are related to can be revealed by discourse
+analysis.
+
+Discourse as a Theoretical and Methodological Bridge
+This section seeks to show how discourse analysis can be fruitfully used to help CE
+to operationalise some of the new priorities for comparative study that arise from a
+rereading of both the traditions of the field and the notions of nationhood and national
+identity. As a research method and a theoretical approach to knowledge, discourse
+analysis provides a set of concepts and techniques that are valuable in studying nations
+and nationalities in a systematic way in different places. It is argued here that the
+notion of ‘discourse’ itself can be a theoretical and methodological bridge across cultural settings. Its analytical power lies in that it can capture what is common in different
+places – that is, the discursive (re)construction of nationhood and national identity –
+and at the same time, does not gloss over history, culture and difference – “the themes
+
+--- [PDF Page 1209 / Book Page 1238] ---
+
+1238
+
+Klerides
+
+that make comparative education intellectually interesting” (Cowen, 2002a, p. 419). It
+also lies in that it builds bridges not only across cultures but also between disciplines,
+micro and macro levels of analysis, theoretical and empirical study – the themes of “a
+neo-comparative education” (Broadfoot, 2000; Kazamias, 2001; Crossley, 2000; Bray
+& Thomas, 1995).
+
+Identifying and Describing Discursive Identities
+The ‘styles’ in which national identities are imagined in a range of educational texts
+(curricula, textbooks, policy documents, teachers’ talk or pupils’ writings) across cultural settings can be identified and described through three interconnected levels of
+analysis: the level of propositional contents, the level of discursive strategies, and the
+level of linguistic realisation. This tripartite framework of analysing nationalist discourse derives from a view of discourse as a group of statements about a specific topic
+whose organisation is regular and systematic (Mills, 2004; Hall, 2001; Fairclough,
+1992; Foucault, 1972).
+First, there is the level of topics and propositions. The purpose of discursive
+analysis here is to reveal the thematic choices of, and the messages encoded in,
+nationalist discourse. Its contents are organised in terms of the four categories
+of narrative identity presented and defined earlier – the category of ‘time’, of
+‘space’, of ‘culture’, and, of ‘habitus’.
+● The second level of analysis is the level of strategies. Following the Austrian
+strand of Critical Discourse Analysis (Wodak, 2006; Reisigl & Wodak, 2001;
+Wodak et al., 1999), a strategy is defined as the particular, conscious or unconscious plan adopted by writers or speakers to achieve the aims of constituting and
+conveying primarily national unity and difference in relation to the categories of
+time, space, habitus and culture. Yet, identity, as was said earlier, is also about the
+construction of a range of other nationalist notions – the ideas of national continuity, uniqueness, superiority, autonomy, positive ‘self’-presentation and negative
+‘other’-presentation, and so forth.
+● All these strategies are of a constructive nature – that is, they attempt to enact
+a certain kind of identity by promoting sameness, difference, continuity, and so
+forth. There are also strategies of perpetuation (that aim to maintain, defend and
+reproduce a national identity) and transformation strategies (changing a particular
+identity and its pillars into another one). All these strategies types stem from a
+view of discourse as having simultaneously the following functions – constructive, transformational and perpetuating (Wodak, 2006; Wodak et al., 1999).
+● There is another cluster of strategies – those of involvement or detachment, and
+those of intensification or mitigation (Reisigl & Wodak, 2001). The former set
+refers to how writers or speakers express their involvement in or detachment from
+a represented nationalist discourse and position their point of view in the discursive flux. The latter set is applied to qualify or modify the epistemic status
+of a nationalist proposition and to express its commitment to truth. Both sets of
+strategies are related to the way hearers or readers are summoned to identify with
+nationalist discourse.
+●
+
+--- [PDF Page 1210 / Book Page 1239] ---
+
+National Cultural Identities, Discourse Analysis 1239
+●
+
+Third, there is the analysis of the linguistic means and devices which are involved
+in the expression of contents and strategies. The two layers – contents and strategies on the one hand, and language on the other – “are connected via the process
+of ‘realisation’: lexico-grammar ‘realises’ semantics, the linguistic ‘realises’ the
+social” (Benwell & Stokoe, 2006, p. 108). This process, in other words, is based
+on the idea that content and language forms are inseparable (Fairclough, 2003). A
+central dimension of the linguistic realisation of nationalist discourse is what may
+be called the lexicon of nationality. And, as Billig (1995) points out, “the crucial
+words of banal nationalism are often the smallest: ‘we’, ‘this’ and ‘here’, which
+are the words of linguistic ‘deixis’ ” (p. 94). This means that a given nationalist discourse is expected to construct narratives of national time, national space, national
+habitus and national culture, as well as of continuity, difference, singularity, autonomy, in specific ways realised linguistically through specific vocabulary choices.
+
+This tripartite framework of identifying and describing identities, based on the analysis of nationalist contents, strategies and language forms, is illustrated with examples
+from my own research on national identity and school historiography in Cyprus and
+England.
+The following extract is taken from a Greek Cypriot textbook. It encodes particular
+readings of the past and present of the Greek community of Cyprus, as well as of
+its habitus, destiny, land and culture. These readings are linked to three strategies –
+the strategy of stressing continuity, difference and unity – and both contents and strategies are constituted and conveyed via certain linguistic devices:
+Many peoples (or groups) made their way through Cyprus or conquer it:
+Phoenicians, Assyrians, Egyptians, Persians, Ptolemies, Romans, Arabs,
+Crusaders, Franks, Venetians, Turks and English. However, the inhabitants safeguarded the Greek character which had been formed since the Mycenaeans had
+settled on the island, at the end of the Later Bronze period; this is evident in the
+language as much as in the tradition.
+The projection of the continuity of ‘the Greek character’ of the population, culturally
+defined by Greek language and tradition, is prominent here. Two linguistic devices are
+used to realise the strategy of continuation. First, there is the tense system which gives
+expression to the comparative loci of difference and similarity. These two loci construct the view of the distant past as the origins of the Greek character of the people,
+and of the present as the epoch where this character is still evident. Second, there is the
+conjunction ‘however’ employed to realise the contrastive locus of comparison. This
+suggests the reading that the people ‘safeguarded’ (a verb carrying connotations of
+preservation) their character, despite repeated contact with and attempts by ethnically
+and religiously different peoples to suppress, change or destroy it.
+In this excerpt, there is also strategic emphasis on difference and sameness, which
+is linguistically manifested in group-constituting labels (such as ‘Turks’, ‘Franks’) and
+the epithet ‘Greek’ (it evokes a Greek unified people). Through these two strategies,
+both the constitution of the Self and the Others, and their differentiation, are created
+
+--- [PDF Page 1211 / Book Page 1240] ---
+
+1240
+
+Klerides
+
+by insinuating a symbolic frontier between a Greek world of subjugation, defiance,
+resistance and struggles, and a non-Greek world of power, conquests, oppression and
+threats. This division highlights the destiny of the Self in a world of nations – to preserve their Greek character by defending it against Others who tried to change or
+destroy it. This, in turn, is related to the implied message of Cyprus as a Greek land,
+both at the present time and throughout history, as well as a specific perspective on the
+nature and habitus of the Self – ‘we’ are a Greek cultural community of shared language and tradition, and of stubborn loyalty to them, including the readiness to fight
+against powerful peoples for their maintenance.
+The categories of ‘discourse content’ are also valuable in sketching the different
+style in which identities are imagined across cultures, diachronically and synchronically. This is illustrated with the ‘past’. In English histories, two main aspects of the
+representation of the national past are what I have termed in my analysis ‘the narrative
+strand of constitutional growth’ and ‘the narrative strand of imperial expansionism’. In
+contrast, Greek Cypriot histories, as was mentioned above, promoted the past as one
+of the preservation of Greek culture on the island. The making of the past along Greek
+lines has dominated school historiography in Greek Cypriot schooling since the first
+decades of the twentieth century. Following the territorial division of Cyprus in 1974,
+a new narrative was added to existing patterns. This is ‘the strand of heteronomy and
+autonomy’ that tells the story of a Cypriot people struggling for physical survival and
+freedom against great powers.
+The content categories can be also important in revealing the motifs of fragmentation, ambivalence, dilemmas and hybridity that characterise the constitution of
+identity. In English stories, for example, the narrative of constitutional growth promotes a democratic nation, the English first and then the British (after the creation of
+the United Kingdom), who, with the passing of time have broadened their liberties. In
+the expansionist narrative, the Self is also articulated in an ambivalent way: there is,
+on the one hand, the image of a powerful and progressive English nation who had managed to bring their weak and backward Celtic neighbours under English power, and
+on the other, the image of a civilised and superior British nation who were engaged in
+a mission to spread civilisation to uncivilised and inferior peoples. Similarly, the cooccurrence of the narrative of Greek cultural preservation and the narrative of Cypriot
+heteronomy and autonomy in Greek Cypriot histories after 1974 further exemplifies
+the heterogeneous, fragmented, ambivalent and dilemmatic nature of identity. Each of
+these two strands promotes a different position of national identification: a Greek position, the narrative of Greek cultural preservation, through which the Self is construed
+as a Greek people that is an inseparable part of the Hellenic community; and a Cypriot
+position, the narrative of autonomy and heteronomy, through which the Self is seen
+as a Cypriot people that is independent and different from the broader community of
+Hellenism.
+Ambivalence and heterogeneity can be also studied through the discursive motif of
+‘linguistic realisation’. This is illustrated with an excerpt from an English textbook of
+1966, which is also indicative of the persistence of the nineteenth-century Whig construction of the English past as a triumphant and uninterrupted march towards political
+democracy:
+
+--- [PDF Page 1212 / Book Page 1241] ---
+
+National Cultural Identities, Discourse Analysis 1241
+
+Just as a child grows up to maturity, learning by experience and teaching, so a
+country must develop its own institutions and ideas, growing through its history
+into a responsible nation. Some of the lessons are hard, some of the experiences
+are shattering, like the Civil War in the reign of Charles I, but all play their part.
+We in Britain have developed gradually towards a country where the law protects
+our liberties and Parliament represents the majority of our wishes.
+In this passage, it is uncertain whether the terms ‘country’ and ‘nation’, the deictic
+‘we’ and the possessive pronoun ‘our’ denote the English or the British people. This
+is the effect of the fact that the text blends together elements from English identity
+discourse – the Whig historicity manifested, for example, in the episode of the Civil
+War – and elements from the British identity discourse – the British parliament as the
+representative of the nation’s will and the British law as the guardian of national liberties. Similarly, the term ‘Britain’ appears ambivalent whether it refers to Britain or
+England, highlighting the so-called enigma of national identity in England – British or
+English? (Kumar, 2003). This example also indicates that the aim of discourse analysis to ‘read between the lines’ can only be reached with a combination of detailed
+linguistic analysis of texts and the explanatory insights from other social disciplines
+(Fairclough, 2003; Reisigl & Wodak, 2001).
+The notion of ‘linguistic realisation’ is also useful in tracing the different formation
+of identity according to audience and generally, the idea of multiple identities in educational practices of signification. This notion embeds the view that even if a certain
+proposition or strategy is the same in two distinct instances of identity formation, its
+realisation in language may differ. One example is the different linguistic realisation
+of the idea of the preservation of Greek culture and identity over time in elementary
+and secondary education textbooks. Greek Cypriot stories for elementary school often
+convey this idea through simple language, for example, by verbs and adverbs denoting
+continuity and the tense system: “The Cypriots continued to feel love for Greece. This
+love has never stopped.” The same message is often expressed in secondary textbooks
+through abstract noun phrases – “the continuation of Hellenism under extremely bad
+conditions” – or negation: “But, despite all the sufferings the Arabic raids caused to the
+Greek Cypriots, they had no effect on their Greek character.”
+Apart from content categories, the analytic category of ‘discourse strategy’ is also a
+useful tool in uncovering identity shifts. To mention one example, English histories, in
+light of decolonisation and post-colonial literature, sought to reconstruct the reading
+of the British imperial past via a strategy of transformation. Consider this extract taken
+from a textbook section entitled “Changing interpretations”:
+For more than fifty years twentieth-century historians agreed with the nineteenthcentury view that the British Empire brought the benefits of European civilisation
+to native peoples. …
+By the 1970s most countries of the Empire had become independent of Britain,
+some after bitter wars. British historians no longer looked at the Empire purely
+from the British or European point of view. A. J. P. Taylor pointed out that British
+rule did not necessarily benefit the people of the Empire.
+
+--- [PDF Page 1213 / Book Page 1242] ---
+
+1242
+
+Klerides
+
+By means of temporal references, this extract adopts the locus of difference to project
+two understandings of the relation between empire and native peoples. The first is the
+nineteenth-century reading (still evident in most parts of the twentieth century) that
+empire brought the benefits of civilisation to them. The second is the view of the 1970s
+and onwards that empire did not necessarily benefit them. What links these two historical interpretations is change – from the old certainty that empire was favourable to the
+colonised peoples into a new view that empire was not necessarily beneficial to them.
+The strategies of detachment/involvement and of mitigation/intensification are also
+of important value especially in examining comparatively the way in which writers or
+speakers position themselves in relation to represented discourses on nationhood and
+the way in which hearers or readers are summoned to identify with them. This is also
+illustrated with examples from my own analysis of school historiographies in Cyprus
+and England, notably in relation to how stereotypic expressions appeared in textbooks.
+Consider two extracts:
+1. The Irish live like beasts, are more uncivil, more uncleanly, more barbarous in
+their customs than in any part of the world (in source 4E: an Englishman reporting in Elizabeth I’s reign, taken from an English textbook).
+2. Processions, honour and dignity, personal liberty, were all effortlessly violated
+by the Venetians (found in the main narrative of a Greek Cypriot textbook).
+In the English textbook, the utilisation of direct reporting with source to give expression to the negative stereotype of the Irish as uncivilised indicates a mood on behalf of
+the textbook writer to explicitly detach himself from it and to implicitly challenge it in
+terms of universal truth. At the same time, this detachment strategy mitigates the illocutionary force of the stereotype and its persuasive impact on readers, telling them that
+this is just an opinion and thus, generating space for them to negotiate it. The Greek
+Cypriot textbook, in contrast, does not allow much space for the readers to negotiate
+the stereotype of the Venetians as an autocratic people. It is conveyed as a universal
+truth (via the simple past) and its illocutionary force is further intensified through the
+adverb ‘effortlessly’. These features also highlight the writer’s strategic involvement in
+the making, naturalisation, legitimacy and perpetuation of this stereotype.
+
+Conditions for Discursive Identity Construction: Contexts of Possibility
+Discourse analysis can be also valuable in the comparative study of the conditions
+within which certain identities are constructed – through the idea of ‘context of possibility’. “Discourse”, Fairclough & Wodak (1997) point out, “is not produced without
+context and cannot be understood without taking the context into consideration” (p. 276).
+Blommaert (2005) further elaborates that the notion of context is to be construed “as
+conditions for discourse production” (p. 66). This position echoes Foucault (1972)
+who defined this notion as the rules of formation of discourse. For him, context operates as a regime of possibilities, permitting, and at the same time, constraining what
+can be thought, said and written, in this case, about the national Self. The context, then,
+does not determine the articulation of an national identity, but rather “what enables
+it to appear, to juxtapose itself with other objects, to situate itself in relation to them,
+
+--- [PDF Page 1214 / Book Page 1243] ---
+
+National Cultural Identities, Discourse Analysis 1243
+
+to define its difference, its reducibility, and even perhaps its heterogeneity; in short to
+be placed in a field of exteriority” (Foucault, 1972, p. 45).
+The reading of context as conditions of possibility regarding the representation and
+construction of nationhood differs from older approaches in CE to the study of cultural
+and historical context in two ways. First, it acknowledges the possible existence of a
+finite variety of positions of national identification based on and derived from different interpretations of and interactions with the context of possibility, by members of a
+national community. Older approaches, viewing nations and cultures as essential entities, did not accommodate diversity of nationalist imagination. Second, trying to trace
+conditions of possibility underlying the making of a discourse on nationhood is an
+activity much less fixed, certain or transparent than the older deterministic arguments.
+Though it also implies that a range of ‘forces and factors’ are linked with its construction, the notion of context of possibility recognises that the researcher probably fails to
+grasp all of them, primarily the most ‘insignificant’ but perhaps the most crucial, leaving thus room for conditions yet to be identified. In other words, this concept is more
+locally sensitive, more inclined to capture the vast complexity of the emergence of a
+nationalist discourse, and points to the limitations of analysis and interpretation.
+Yet, the line between ‘contexts of possibility’ and ‘causes’ or ‘determinants’ is
+very thin and fuzzy. Larsen (2004), using a similar distinction in her work, notes that
+ways bringing together these two notions without resorting to determinism must be
+developed. A fruitful way, perhaps, to resolve this problem would be to look for these
+contexts in texts themselves rather than arbitrarily decide about them on the grounds
+of available theories and literature. This suggestion derives from the view that any discourse is defined by its relations with others and by the material conditionality which
+it is related to (Reisigl & Wodak, 2001; Fairclough, 1992; Foucault, 1972).
+One example of how such an interdiscursive approach can reveal the conditions that
+made the production of a nationalist discourse possible is the shift in the representation
+of colonial rule in English school stories. As said above, histories of the post-imperial
+period seek to transform the view that imperial rule brought the benefits of civilisation to colonial peoples into a view that empire did not necessarily benefit them. This
+means that it was decolonisation and the emergence of new post-colonial histories
+(upon which textbooks draw) that made it possible for this shift in the making of the
+national past to take place. An additional condition for national identity reconstruction
+was the existence of practices of new history in school historiography – notably the
+belief that history is just a reading of the past which is never definitive but shifts in
+light of new historical evidence.
+A second example also comes from English history textbooks. School stories of the
+earlier parts of the twentieth century often represented Magna Carta as “the foundation
+of our liberties” or as the act that “rescued our ancestors from much of the oppressive tyranny of the feudal system”. In both utterances, the possessive pronoun ‘our’
+conveys the view of Magna Carta as beneficial to all the English. In contrast, Magna
+Carta tended to be represented in textbooks of the later parts of the twentieth century
+as an act which was favourable only to some people: “It was granted to all freemen of
+the realm (not villeins).” Again, this shift was made possible to occur with the emergence of new history as a paradigm of history teaching and writing as well as of new
+
+--- [PDF Page 1215 / Book Page 1244] ---
+
+1244
+
+Klerides
+
+academic historiographies in the post-war period, promoting the reading of this act as
+the foundation of the rights of the higher social ranks of England – not of common
+people. Thus, new history, new constitutional and post-colonial academic historiographies, as well as decolonisation and the collapse of the British Empire were part of the
+contexts of possibility for identity constitution in post-imperial English textbooks.
+It derives from the discussion above that instances of national identity construction
+also necessarily position themselves in relation to non-discursive aspects of context.
+Perhaps this point can be made clearer with an example from a Greek Cypriot textbook.
+It illustrates exactly how material conditions shape the construction of a particular
+image of the national present and the destiny of the national Self:
+Four years have passed since the coup and the Turkish invasion. The 40% of our
+land is under Turkish occupation. Four thousands our dead and two thousand the
+missing persons. Some 200 thousand Greeks have been forced to abandon their
+houses and belongings and they live as refugees under miserable conditions.
+Those who stayed behind are being humiliated and are suffering at the hands of
+the conqueror and with numerous blackmails are also being enforced to abandon
+the land of their fathers.
+Under specific material conditions – the Greek and Turkish military offensives, the
+territorial division of the island, violent displacement of populations, death and abject
+social and economic circumstances – the common present is constructed in negative
+terms, as one of ordeal, occupation, mourning, expulsion and oppression, implicitly
+conveying an image of the Self as a victimised people.
+The conceptualisation of ‘contexts of possibility’ along both discursive and material
+lines, is indicative that the approach offered here does not align itself with postmodernist reification of discourses as autonomous collusive actors which steer speakers
+and writers, hearers and readers. Nor does it subscribe to the post-structuralist dogma
+that there is ‘nothing outside the text’. Rather, it tries to hit a middle ground: discursive
+practices produce, reproduce, transform and dismantle material aspects of the world
+just as elements of material reality shape what can be thought, spoken and written
+(Fairclough & Wodak, 1997).
+
+Conclusion
+The emergence of complex new perspectives on nationhood and cultural identity in
+other fields of study does not merely imply a necessity for a radical rethinking of
+how CE treats these unit ideas. Perhaps more importantly, it also highlights for comparative educators that they need to broaden their research agenda and particularly
+to look beyond economic globalisation concerns into non-economic issues including
+identity, ethnicity, culture, nation, race and gender. This is a call that has been repeatedly stressed in recent times in literature (Kazamias, 2001; Watson, 1999; Tikly, 1999;
+Cowen, 1996). Here, I would like to extend this call by arguing that it is important to
+start the study of these non-economic concepts from their understanding as discourses
+and as products of discourse, and to examine the complex dialectic linkages of their
+
+--- [PDF Page 1216 / Book Page 1245] ---
+
+National Cultural Identities, Discourse Analysis 1245
+
+articulation in educational sites with the wider cultural and historical contexts of possibility in which they are embedded. This chapter illustrated, I hope, that discourse
+analysis can help CE to carry out these research priorities, and thus, to recaptures its
+concern with two of its older, but largely marginal, traditions – the study of culture and
+the history of culture.
+
+References
+Alexander, R. (2000). Culture and pedagogy: International comparisons in primary education. London:
+Blackwell.
+Altbach, P., & Kelly, G. (Eds.) (1978). Education and colonialism. New York and London: Longmans.
+Anderson, B. (1983). Imagined communities: Reflections on the origin and spread of nationalism. London
+and New York: Verso.
+Bauman, Z. (1997). The making and unmaking of strangers. In P. Werbner & T. Modood (Eds.), Debating cultural hybridity: Multi-cultural identities and the politics of anti-racism. London and New Jersey: Zed.
+Bauman, Z. (2004). Identity. Cambridge: Polity.
+Benwell, B., & Stokoe, E. (2006). Discourse and identity. Edinburgh: Edinburgh University Press.
+Berger, S., Donovan, M., & Passmore, K. (1999). Apologias for the nation-state in Western Europe since
+1800. In S. Berger, M. Donovan & K. Passmore (Eds.), Writing national histories: Western Europe since
+1800. London and New York: Routledge.
+Bhabha, H. K. (1990). Narrating the nation. In H. K. Bhabha (Ed.), Nation and narration. London:
+Routledge.
+Billig, M. (1995). Banal nationalism. London: Sage.
+Blommaert, J. (2005). Discourse. Cambridge: Cambridge University Press.
+Bray, M., & Thomas, R. M. (1995). Levels of comparison in educational studies: different insights from different literatures and the value of multi-level analysis. Harvard Educational Review, 65(4), 472–489.
+Broadfoot, P. (2000). Comparative education for the 21st century: retrospect and prospect. Comparative
+Education, 36(3), 357–371.
+Brock, C., & Tulasiewicz, W. (1985). (Eds.). Cultural identity and educational policy. London: Croom Helm.
+Calhoun, C. (1997). Nationalism. Buckingham: Open University Press.
+Carnoy, M. (1974). Education as cultural imperialism. New York: David McKay.
+Cowen, R. (1996). Last past the post: Comparative education, modernity and perhaps post-modernity.
+Comparative Education, 32(2), 151–170.
+Cowen, R. (2002a). Moments of time: A comparative note. History of Education, 31(5), 413–424.
+Cowen, R. (2002b). Sketches of a future: Renegotiating the unit ideas of comparative education. In
+M. Caruso & H. E. Tenorth (Eds.), Internationalisation: Comparing educational systems and semantics.
+Frankfurt am Main: Peter Lang.
+Crossley, M. (2000). Bridging cultures and traditions in the reconceptualisation of comparative and international education. Comparative Education, 36(3), 319–332.
+Eley, G., & Suny, R. G. (1996). Introduction: from the moment of social history to the work of cultural
+representation. In G. Eley & R. G. Suny (Eds.), Becoming national: A reader. Oxford: Oxford University
+Press.
+Fairclough, N., & Wodak, R. (1997). Critical discourse analysis. In T. van Dijk (Ed.), Discourse as social
+interaction: A multidisciplinary introduction. London: Sage.
+Fairclough, N. (1992). Discourse and social change. Cambridge: Polity.
+Fairclough, N. (2003). Analysing discourse: Textual analysis for social research. London and New York:
+Routledge.
+Foster, S., & Crawford, K. (Eds.) (2006). What shall we tell the children? International perspectives on
+school history textbooks. Connecticut: Information Age Publishing.
+Foucault, M. (1972). The archaeology of knowledge. London: Tavistock.
+Frangoudaki, A., & Dragona, T. (Eds.) (1997). ‘Ti einai h patridha mas? Ethnocentrismos stin ekpaideusi.
+Athens: Aleksandria (in Greek).
+
+--- [PDF Page 1217 / Book Page 1246] ---
+
+1246
+
+Klerides
+
+Gellner, E. (1964). Thought and change. London: Weidenfeld & Nicholson.
+Gellner, E. (1983). Nations and nationalism. Oxford: Blackwell.
+Green, A. (1997). Education, globalisation and the nation state. London: Macmillan.
+Hall, S. (1992). The question of cultural identity. In S. Hall, D. Held & T. McGrew (Eds.), Modernity and
+its future. Cambridge: Polity Press.
+Hall, S. (1996a). Introduction: Who needs ‘identity’?. In S. Hall & P. Du Gay (Eds.), Questions of cultural
+identity. London: Sage.
+Hall, S. (1996b). Ethnicity: Identity and difference. In G. Eley & R. G. Suny (Eds.), Becoming national: A
+reader. Oxford: Oxford University Press.
+Hall, S. (1997). Introduction. In S. Hall (Ed.), Representation: Cultural representations and signifying practices. London: Sage in association with The Open University.
+Hall, S. (2001). Foucault: Power, knowledge and discourse. In M. Wetherell, S. Taylor & S. J. Yates (Eds.),
+Discourse theory and practice: A reader. London: Sage.
+Hans, N. (1958). Comparative education: The study of educational factors and traditions (3rd edn.). London:
+Routledge & Kegan Paul.
+Hobsbawm, E. J., & Ranger, T. (Eds.) (1983). The invention of tradition. Cambridge: Cambridge University
+Press.
+Hobsbawm, E. J. (1992). Nations and nationalism since 1780: Programme, myths, reality. Cambridge:
+Cambridge University Press.
+Hobsbawm, E. J. (1996). Ethnicity and nationalism in Europe today. In G. Balakrishnan (Ed.), Mapping the
+nation. London: Verso.
+Jørgensen, M., & Phillips, L. (2002). Discourse analysis as theory and method. London and Thousand Oaks
+and New Delhi: Sage.
+Kandel, I. L. (1933). Comparative education. Connecticut: Greenwood.
+Kazamias, A. M. (1961). Some old and new approaches to methodology in comparative education.
+Comparative Education Review, 5(2), 90–96.
+Kazamias, A. M. (2001). Re-inventing the historical in comparative education: Reflections on a protean
+episteme by a contemporary player. Comparative Education, 37(4), 439–449.
+Kedourie, E. (1960). Nationalism. London: Hutchinson.
+Kristeva, J. (1986). Word, dialogue and novel. In T. Moi (Ed.), The Kristeva reader. Oxford: Basil
+Blackwell.
+Kumar, K. (2003). The making of English national identity. Cambridge: Cambridge University Press.
+Larsen, M. (2004). A comparative study of the socio-historical construction of the teacher in mid-Victorian
+England and Upper Canada. Unpublished Ph.D. thesis, Institute of Education, University of London.
+Lowe, R. (Ed.) (1999). Education and national identity. History of Education, 28(3).
+Mallinson, V. (1975). An introduction to the study of comparative education (4th edn.). London:
+Heinemann.
+Martin, D. C. (1995). The choices of identity. Social Identities. 1(1), 5–20.
+Mason, M. (2006). Comparing cultures. In M. Bray, B. Adamson & M. Mason (Eds.), Comparative education research: approaches and methods. Hong Kong: Hong Kong University Press.
+Miller, D. (1995). On nationality. Oxford: Oxford University Press.
+Mills, S. (2004). Discourse. London and New York: Routledge.
+Ninnes, P., & Burnett, G. (2004). Postcolonial theory in and for comparative education. In P. Ninnes
+& S. Mehta (Eds.), Re-imagining comparative education: Postfoundational ideas and applications for
+critical times. New York and London: RoutledgeFalmer.
+Ninnes, P., & Mehta, S. (2004). A meander through the maze: Comparative education and postfoundational
+studies. In P. Ninnes & S. Mehta (Eds.), Re-imagining comparative education: Postfoundational ideas
+and applications for critical times. New York and London: RoutledgeFalmer.
+Oteiza, T. (2003). How contemporary history is presented in Chilean middle school textbooks. Discourse
+and Society, 14(5), 639–660.
+Özkirimli, U. (2000). Theories of nationalism: A critical introduction. Basingstoke and New York:
+Palgrave.
+Özkirimli, U. (2005). Contemporary debates on nationalism: A critical engagement. Basingstoke and New
+York: Palgrave Macmillan.
+
+--- [PDF Page 1218 / Book Page 1247] ---
+
+National Cultural Identities, Discourse Analysis 1247
+Reisigl, M., & Wodak, R. (2001). Discourse and discrimination: Rhetorics of racism and anti-Semitism.
+London and New York: Routledge.
+Sadler, M. (1964). How far can we learn anything of practical value from the study of foreign systems of
+education? Comparative Education Review, 7(3), 307–314.
+Schissler, H., & Soysal, Y. (Eds.) (2005). The nation, Europe and the world: Textbooks and curricula in
+transition. Oxford: Berghahn.
+Schneider, F. (1966). Towards substantive research in comparative education. Comparative Education
+Review, 10(1), 18–20.
+Smith, A. D. (1986). The ethnic origins of nations. Oxford: Blackwell.
+Smith, A. D. (1991). National identity. Reno: University of Nevada Press.
+Smith, A. D. (1999). Myths and memories of the nation. Oxford: Oxford University Press.
+Smith, A. D. (2001). Nationalism: Theory, ideology, history. Cambridge: Polity Press.
+Smith, A. D. (2003). Chosen peoples. Oxford: Oxford University Press.
+Suny, R. G. (2001). Constructing Primordialism: Old histories for new nations. The Journal of Modern
+History, 73, 862–896.
+Sweeting, A. (1999). Doing comparative historical education research: Problems and issues from and about
+Hong Kong. Compare. 29(3), 269–285.
+Tikly, L. (1999). Postcolonialism and comparative education. International Review of Education, 45(5/6),
+603–621.
+Vickers, E., & Jones, A. (Eds.) (2005). History education and national identity in East Asia. New York and
+London: Routledge.
+Watson, K. (Ed.) (1982). Education in the third world. London: Croom Helm.
+Watson, K. (1999). Comparative educational research: The need for reconceptualisation and fresh insights.
+Compare. 29(3), 233–245.
+Wodak, R. (2006). Discourse-analytic and socio-linguistic approaches to the study of nation(alism). In
+G. Delanty & K. Kumar (Eds.), The Sage handbook of nations and nationalism. London: Sage.
+Wodak, R., De Cillia, R., Reisigl, M., & Liebhart, K. (1999). The discursive construction of national identity.
+Edinburgh: Edinburgh University Press.
+Woodward, K. (Ed.) (1997). Identity and difference. London: Sage in association with the Open University.
+

@@ -1,0 +1,810 @@
+================================================================================
+Chapter 44: Curriculum Reform in Sub-Saharan Africa: When Local Meets Global
+Author(s): Linda Chisholm and Ramon Leyendecker
+Handbook: International Handbook of Comparative Education (2009)
+Editors: Robert Cowen and Andreas M. Kazamias (Section Editor: Elaine Unterhalter)
+Section: Section 5: Postcolonialism
+Book Pages: pp. 685–702
+PDF Pages: pp. 680–697 (in raw/比较教育学国际手册2009Cowen.pdf)
+================================================================================
+
+--- [PDF Page 680 / Book Page 685] ---
+
+44
+CURRICULUM REFORM IN SUB-SAHARAN AFRICA:
+WHEN LOCAL MEETS GLOBAL
+Linda Chisholm and Ramon Leyendecker
+
+Introduction
+Educational change in sub-Saharan Africa since the 1990s is a diverse and complex issue.
+Not only are the societies, their socio-economic and political profiles extremely varied,
+but heterogeneous external and internal forces have also influenced their trajectories of
+educational change. If anything can be said to bind such diverse contexts, it must include
+the history and impact of colonial and postcolonial endeavours. On the one hand, the
+legacies of colonialism continue to hold great power over the imaginary and real lives of
+states and citizens. On the other hand, the political transitions that swept over many parts
+of sub-Saharan Africa from the 1960s were accompanied over the successive decades
+by growing political instability, debt and poverty. The region’s real GDP per head fell
+by 42.5% between 1980 and 1990; its income distribution has become more unequal.
+Although the growth rate has improved since the mid-1990s, “sub-Saharan Africa has
+found itself retreating economically while other developing areas of the world are advancing strongly” (Sparks, 2006). The causes are both external and internal and economic and
+political (see Williams, 2006; Jennings, 2006; Sparks, 2006). New education systems and
+especially higher education institutions were established in the immediate postcolonial
+period as key projects of national pride, aspiration and affirmation. These also experienced increasingly serious difficulties as political crisis combined with economic crisis.
+In the early 1990s, the seemingly distant event of the fall of the Berlin Wall and
+gathering pace of globalisation also had distinct implications for Africa. Not immune
+from world currents, many countries in Africa held multiparty elections in the early to
+mid-1990s to signal commitment to liberal democracy and market openness consistent
+with world developments even though authoritarianism remained part of many political
+systems. These elections legitimated the new market orientation that had begun to take
+hold in the 1980s and paved the way for educational and curriculum reform, including
+demands for greater accountability with regard to the spending of development aid on
+education. They ushered in new processes for educational and curriculum reform. This
+article examines curricular reform, and specifically learner-centredness, outcomesand competency-based education and the National Qualifications Framework. The
+analysis encompasses evidence for sub-Saharan Africa, but provides a specific focus
+on Southern Africa.
+
+685
+R. Cowen and A. M. Kazamias (eds.), International Handbook of Comparative Education, 685–702.
+© Springer Science + Business Media B.V. 2008
+
+--- [PDF Page 681 / Book Page 686] ---
+
+686 Chisholm and Leyendecker
+
+A considerable literature has emerged over the past decade and a half exploring
+the impact of these new developments through an examination of the relationship
+between policy and practice. Policy sociology has shown that policy and curriculum
+implementation does not follow the predictable path of formulation–adoption–
+implementation–reformulation, but is recontextualised through multiple processes
+(Ball, 1990, 1994; see also Bernstein, 2004) and mechanisms (Dale, 1999); that
+most implementation happens with little regard for available capacities or resources
+(Elmore, 2001); that local, and especially teachers’ values, practices and beliefs
+shape the outcomes of implementation (McLaughlin, 1991, 1998); and that the way
+to understand implementation is to start with an examination of practice (Sutton &
+Levinson, 2001). Comparative education has also emphasised the role of globalisation (Carnoy, 2000), processes of discourse formation (Schriewer, 2003) and impact
+of local contexts in producing asymmetrical patterns (Steiner-Khamsi, 2004).
+Not much of this literature takes account of African contexts, or their considerable diversity. Indeed, they are, for the most part, largely invisible. Here two main
+approaches to the problem of the relationship between policy and practice can be identified. The first emphasises mainly external and the other mainly internal reasons for
+policy failure, although neither ignores the other. There are also significant differences
+within each approach. The first focuses on political economy and the overwhelming
+and decisive role of donors and multilateral agencies in shaping policy goals in the
+majority of contexts (Samoff, 1999a, b, 2001, 2005; Tabulawa, 2003; Vavrus, 2003).
+The second focuses, on the one hand, on the resilience of distinctively African
+forms of social organisation, and on the other hand, on the nature of policy and the
+politics of education. Stambach, for example, has shown how schools on Mount
+Kilimanjaro mediate collective and individual notions of and identifications with
+modernity while hardly altering dominant, ritualised call-and-response styles of
+teaching; these show strong resonances with patrilineal values and hierarchies, and
+age and gender relations that reinforce male authority. And Tabulawa has argued that
+failure in attempts to introduce learner-centred education in Botswana has much to
+do with the strength of agreement between traditional and colonial approaches to
+learning (Stambach, 2000; Tabulawa, 1997). A sophisticated variation on this theme,
+which examines the complexity of local educational practices in Ghana, has demonstrated how different international, national and local discourses jostle alongside one
+another in the same school, where teaching can remain lacklustre and rote-learningcentred, but opportunities can nonetheless be created where students do actually
+learn from one another (Coe, 2005).
+Authors in the South African context have likewise focused on contradictory outcomes. Here, however, policy failure has not been linked specifically or mainly to the
+imposition of policy from the outside, or to specifically ‘African’, ‘traditional’ features. Rather, they have focused on internal politics and contradictions. Thus Jansen
+(2002) has emphasised the symbolic role of policy in political transition to explain
+non-change, Harley and Wedekind (2004) and Jansen (2005a) have highlighted the
+contradictions between pedagogical and political ideals and the great diversity in the
+context of practice, and Hoadley, Reeves and Muller have underscored the socially
+reproductive role of schools and the centrality of variations in teacher knowledge and
+
+--- [PDF Page 682 / Book Page 687] ---
+
+Curriculum Reform in Sub-Saharan Africa: When Local Meets Global 687
+
+pedagogy in reproducing historical fault lines of inequality (Hoadley, 2007, 2008;
+Reeves & Muller, 2005).
+These approaches are not mutually exclusive, as the work of Tabulawa illustrates. He
+(Tabulawa, 2003) has argued that the ascendancy of neo-liberalism as a development
+paradigm in the 1980s and 1990s elevated political democratisation as a prerequisite
+for economic development and with it, learner-centred pedagogy. For him, the pedagogy is part of “an ideological outlook, a worldview intended to develop a preferred
+kind of society and people … representing a process of Westernisation disguised as
+quality and effective teaching” (2003, p. 7). The argument here does not however
+explain the favourable reception of the idea at the local level. In attempting to explain
+why learner-centred education has been both accepted so easily and implemented with
+such difficulty, this paper argues that both external and internal reasons need to be
+taken into account.
+The chapter focuses less, however, on African culture as a cause of implementation failure, than on the combined non-relationship of international and national-level
+discourse to local realities and practices. In so doing, it draws on much existing work.
+But it argues in addition that local histories of resistance to colonialism incorporated
+educational ideas that reverberated with learner-centred education. Learner-centred
+and outcomes-based education found local favour because they were not entirely new
+ideas, and were ambiguous enough to be seen as key vehicles for achieving not so
+much educational, as economic, social and political goals. Learner-centred and outcomes-based education, when they emerged in the post-1990s period, appeared to be
+a (democratic educational) rose by another name. But its implementation faltered in
+contexts where capacities and requirements for its realisation varied enormously not
+only amongst one another but also from the contexts in which they were originally
+developed. The chapter argues for a complex understanding of external and internal dynamics that takes account of the diversity and differences between contexts of
+implementation.
+The chapter begins with a discussion of the ambiguities and differences between
+learner-centred, child-centred and competency-based education. It then examines the
+international pressures on sub-Saharan Africa for curriculum change and the local
+Southern African historical context and alternative educational experience that, it
+argues, predisposed Southern Africa to adoption of such ideas. It shows how these
+have not been realised in practice. It attempts to explain this on the basis that reforms
+have focused less on what is feasible in contexts of implementation than on the economic, social and political goals to be achieved and concludes with implications for
+research. In so doing, the article is concerned with how history and context shape
+goals and ideals of reform and contexts of implementation. The article focuses mainly
+on curriculum reform based on learner-centred education, but also outcomes-based
+education and the National Qualifications Framework. Although conceptually distinct,
+learner-centred education, outcomes-based education and the National Qualifications
+Framework all represent an interrelated set of ideas that have diffused via curriculum
+reform across sub-Saharan Africa in the late twentieth and early twenty-first centuries.
+The article draws on secondary and primary sources relating to a variety of different
+sub-Saharan African countries.
+
+--- [PDF Page 683 / Book Page 688] ---
+
+688 Chisholm and Leyendecker
+
+Learner-Centred and Outcomes-Based Education
+Learner-centred education is one of the most pervasive educational ideas in contemporary sub-Saharan Africa and elsewhere. It is often accompanied by competency-based
+discourses and official shifts in curriculum and assessment policy designed to lessen
+the significance of examinations and enhance the importance of continuous assessment
+as a means of stimulating learner-centred pedagogies. And yet there is overwhelming evidence from very different kinds of sources, that the idea has not taken root in
+classrooms.
+Country profiles developed for sub-Saharan African countries by the Vrije Universiteit,
+Amsterdam, as part of a larger study on Science, Maths and ICTs in secondary education in sub-Saharan Africa (SMICT, 2005) indicate the prevalence of “traditional” and
+“outmoded” styles of teaching. “Chalk and talk” teaching strategies, largely aimed at
+verbal recall of factual information and definitions, are described as characterising
+pedagogies in Tanzania (Ibid, Country profile, United Republic of Tanzania, p. 13).
+The modus operandi in Uganda is said to revolve around a traditional (predominantly
+behaviourist) model of curriculum and instruction rather than, for example, one based
+on the development of meaning. Inquiry-based teaching and practical applications
+of science to real life are all seen as missing from teachers’ pedagogical strategies,
+rendering teaching and learning mainly “theoretical” (Ibid, Country profile, Uganda,
+p. 25). In Botswana, “the read-regurgitate-recite learning cycle” prevails despite a formally sophisticated competency-based and learning-centred curriculum (Ibid, Country
+profile, Botswana, p. 34). In Ghana, as in other countries, “lessons … are almost exclusively teacher-centred, and content-driven” (Ibid, Country profile, Ghana, p. 19), even
+though many educators feel that not even the potential of teacher-centred education is
+fulfilled. Despite Namibia’s learner-centred curriculum, “a learner-centred pedagogy
+… is frequently operationally absent” (Ibid, Country profile, Namibia, p. 31). Nigeria
+also promotes the learner-centred ideal, “but the implementation … has often been far
+from the … ideal” (Ibid, Country profile, Nigeria, p. 31). Assessment in Senegal, as
+in the majority of countries, is still examination-driven and led, and focused on recall
+and memorisation rather than learning and understanding. The gap between policy
+and practice, as in these West, East and Southern African contexts, are familiar also
+in South Africa, where the learner-centred goals of outcomes-based education – the
+educational philosophy here – are proving far harder to achieve in practice than in
+policy (see, e.g., Harley & Wedekind, 2004).
+In order to understand this gap between policy and practice, it is necessary to backtrack briefly and understand how learner-centred education has been understood.
+The idea of learner-centred education derives from the works of mainly Jean Piaget
+(although Piaget is sometimes interpreted as a stage theorist only), John Dewey (1938)
+and Lev Vygotsky (1978). Contemporary understandings of learner-centred education
+are based mainly on Vygotskian cognitive psychology, and differ from pedagogies
+based on behaviourist psychologies. In constructivism, knowledge about the structure
+and processes of learning is relevant for learning in general. Learning is understood
+as a permanent and lifelong process occurring in a variety of social settings, of which
+formal schooling is just one aspect. Learner-centred education is more specific about
+
+--- [PDF Page 684 / Book Page 689] ---
+
+Curriculum Reform in Sub-Saharan Africa: When Local Meets Global 689
+
+the understanding of the nature of learning, and less specific on the pedagogies and
+detailed provision of outcomes in formal schooling. Its origin and ambiguities also
+allow a variety of different understandings that go beyond the classroom.
+In spite of the apparent similarities, there are differences between learner-centred,
+child-centred and outcome-based education. For some writers, child-centred education was a reaction to, and development from, strong behaviourist pedagogies and
+is based on a different epistemology from learner-centred education (van Harmelen,
+1998). In terms of learner-centred and outcome-based education, learner-centred
+education can be argued to be input-related, whereas outcomes-based education is
+output-related. Learner-centred education is more focused on teaching and instructional quality, whereas outcomes-based education is more focused on the quality of
+assessment. Learner-centred education is a pedagogical philosophy about teaching
+and learning, applicable to learning in general but academic education more specifically. Outcomes-based education primarily provides a framework of outcomes and an
+approach to knowledge-integration, and is only secondarily concerned with curriculum
+knowledge, pedagogies and learning-support materials. Outcomes can be behaviourist
+and achieved by child-centred education. Important for the purposes of this article is
+the essential ambiguity in the concept and between the different meanings, despite the
+fundamental differences that are said to underlie them.
+The contested meanings of learner-centred education as expressed in outcomesbased education can be illustrated through its application in South Africa’s post-1994
+curriculum 2005. Outcomes-based education as a philosophy has been differently
+interpreted by different writers. There are few educationists in South Africa who have
+not taken a stance either for or against outcomes-based education. Writers such as
+Mohamed (1998), Malcolm (2000) and Odora-Hoppers (2002) have defended outcomes-based education, whereas others such as Kraak (2001) have been moderately
+critical, and yet others such as Jansen (1997, 1998, 1999, 2002, 2004), Jansen and
+Christie (1999), Muller (1998, n.d. c2001), Muller and Taylor (1998) and Unterhalter
+(1998a) have questioned its foundations. The nature of the debate has also shifted over
+time. The debate has polarised people who, to all intents and purposes, see themselves
+as, in one way or another, ‘educational progressives’. Thus, it has been possible for
+some to see outcomes-based education as a narrowing and de-radicalisation of educational goals, and for others to see it as expanding and revolutionising them; for some
+to see it as permitting the play of difference, and allowing local, hidden knowledges to
+surface; for others to see it as yet another form of universal knowledge which stamps
+upon these; for some to see its learner-centred focus as allowing greater possibilities
+to the poor and others to see it as an educational romanticism which has the effect of
+denying the poor real learning opportunities (see above).
+Its effect in international and comparative context has also been seen, in some cases,
+as integral to competency-driven, marketised forms of knowledge, and in others as promoting forms of knowing which contest these. For some, outcomes-based education has
+‘worked’; in others, it has not. Its centrality to South Africa’s National Qualifications
+Framework has been less often debated. Early on, however, the NQF was identified as
+constraining educational goals to serve narrowly economic ends (Samson & Vally, 1996;
+Unterhalter, 1998b; Muller, 1998) rather than, as claimed, integrating education and
+
+--- [PDF Page 685 / Book Page 690] ---
+
+690 Chisholm and Leyendecker
+
+training. Outcomes-based education is thus the ultimate ‘floating signifier’, meaning different things to different people, who invest it with diametrically opposed qualities. As
+a construct of social possibility and/or limitation, it speaks to public and private desires
+and relationships to the emerging social order. But seeing it as this purely symbolic
+social construct also militates against an understanding of the material effects of the
+multiple social dynamics, processes and struggles of which it is a part and in which it is
+finely imbricated (see Chisholm, 2003, for further discussion of this aspect).
+
+External Pressures and Conditions
+Learner-centredness, outcomes-based education and the idea of the National Qualifications
+Framework have both international and local historical roots. We will first examine the
+international pressures and conditions ensuring take-up in policy discourse and then go
+on to explore the specific Namibian and South African contexts in more detail.
+Since 1990, the goals and purposes of education in sub-Saharan African have been
+reshaped by four interconnected developments: globalisation; the changed focus of
+international aid agencies towards development assistance; the adaptation of subSaharan African countries to the new world order with its new political emphases; and
+the spilling over of new pedagogical ideas from the USA and Europe into sub-Saharan
+Africa. The latter resulted from development-export on the part of the Western world,
+development import from sub-Saharan African countries as well as increased international communications. Independently of the origin, the implementation of both
+learner-centered and outcomes-based education has, to all intents and purposes, not
+occurred in the ways intended.
+Despite differences between them, learner-centred and outcomes-based education is
+part of a discursive repertoire of international rights and quality education. This amalgam of ideas is broadly shared amongst multilateral and donor agencies. UNICEF,
+in particular, has vigorously promoted rights-based and child-centred approaches for
+several decades, as have UNESCO, donor-agencies and international NGOs (see also
+Tabulawa, 2003). National Qualifications Frameworks are not explicitly part of this
+body of curriculum ideas, but are nonetheless part of an international discourse that
+has been appropriated in the African context and that has implications for curriculum
+and education systems. The majority of sub-Saharan African countries are signatories
+to a number of conventions on education, including the Convention on the Rights of
+the Child (1989), the World Declaration on Education For All (Jomtien, 1990), the
+Dakar Accord and Millenium Development Goals (April 2000). These spell out collective commitments by nation states and international agencies on the achievement of
+education development goals and bind sub-Saharan African countries to changing educational policy and practice in order to realise them. In so far as sub-Saharan African
+countries are bound to quality education, amongst other things, by the Convention of
+the Rights of the Child, the Jomtien Declaration, the Dakar Accord and Millenium
+Development Goals, attention is focused on curricular policy and practice.
+The Jomtien call for access, equity, quality and democracy in education was accepted
+with little resistance in sub-Saharan Africa (Chisholm et al., 1998). Its egalitarian thrust
+
+--- [PDF Page 686 / Book Page 691] ---
+
+Curriculum Reform in Sub-Saharan Africa: When Local Meets Global 691
+
+was appealing and its achievement appeared to promise both social and economic
+development: the undoing of previous social injustices, and the achievement of economic growth that would bring benefits to citizens. Social and economic development,
+it was believed and continues to be so, requires educational change, and educational
+change is necessary for social and economic development. Educational change, in
+turn, is perceived to depend on, amongst other things, changing classroom practices
+through learner-centred education. The willing adoption of these ideas through topdown pressures and bottom-up desires account in part for the appropriation of ideas
+current within the international arena. In Southern Africa countries such as Namibia
+and South Africa in particular, the Jomtien call for equity chimed with the social,
+political and economic goals of post-apartheid governments.
+Improved quality in education was widely perceived on the one hand as a necessary adaptation to the new knowledge requirements of globalisation and on the other,
+as meeting popular needs for improved schooling (ANC, 1994; Namibia Ministry of
+Education and Culture, 1993). On the one hand, the progressive appeal of the epistemological idea of learner-centredness seemed to fit well with development ambitions, and
+found favour amongst a broad array of social-educational interests. On the other hand,
+the National Qualifications Framework, first implemented in South Africa (1995) and
+Namibia (1996), appealed because it was thought it would bring social and systemic
+benefits: A National Qualifications Framework would form the educational ‘ladder’
+out of poverty, low skill and unemployment, and open doors into prosperity, high
+skill and full employment. The route to this would be the integration of education and
+training through competency and unit-standards-based curricula (see ANC/COSATU,
+1993; ANC, 1994).
+In almost all sub-Saharan countries, however, curriculum reform is also mandated
+through the social sectoral education components of Enhanced Structural Adjustment
+Facilities’ loan conditions. In general, the focus of structural adjustment packages is
+on cost-containment, reform of the public sector, privatisation and removal of tariff
+barriers. Poverty reduction strategies are a vital means by which structural adjustment
+packages are implemented. Educational reform is part of poverty reduction strategies,
+and entails measures intended to improve access and quality of education. Curriculum
+reform becomes part of the educational component of the structural adjustment package through the implementation of Universal Primary Education, as in Uganda (IMF,
+1998); the Basic Education Master Plan and Secondary Education Master Plan, as
+in Tanzania (IMF, 1999); the 5-year Education Sector Strategic Plan (ESSP) for primary and secondary education for 1999–2003, as in Mozambique (IMF, 1999) and
+the improvement of the quality of schooling, as in Malawi (IMF, 1998/99). Malawi’s
+Second Development Plan 1985–1995, for example, stipulated a number of reforms
+aimed at renewal and reorganisation of the public sector; its educational proposal
+included a requirement for a shift to ‘methodology-centred and competency-based
+instruction’. Its Enhanced Structural Adjustment Facility Policy Framework Paper for
+1998/99–2000/01 specifies the review and revision of the curriculum and establishment of exit points from the system (IMF, 1998/99). Significantly, these proposed
+shifts and changes occurred shortly after similar reforms were introduced in South
+Africa. Joint IMF-government teams arrive at agreements on the components of the
+
+--- [PDF Page 687 / Book Page 692] ---
+
+692 Chisholm and Leyendecker
+
+loans. All major donor agencies and international organisations are centrally involved
+in implementation of the range of activities for which loans are granted and on which
+agreement has been achieved.
+
+Internal and External Processes and Conditions
+In the southern and eastern African region, new learner-centred ideas were to some
+extent also a repackaging of ideas that had been in circulation in previous decades,
+caught up as the region had been in various national liberation and anti-colonial
+struggles. On the assumption of power, national liberation movements initially made
+strenuous efforts to overcome the legacies of colonialism. Independence was achieved
+at different times in the region: Botswana, Lesotho, Swaziland, Zambia, Tanzania,
+Malawi and Mauritius in the early and mid-1960s, Angola and Mozambique in 1975,
+Zimbabwe in 1980, Namibia in 1990 and South Africa in 1994. This staggered process of achieving independence influenced the nature of the regional political economy
+considerably throughout the 1970s and 1980s.
+Before the early 1990s and independence in Southern Africa, Namibian and South
+African liberation movements found homes in neighbouring states such as Botswana,
+Mozambique, Tanzania, Zambia, Zimbabwe and Angola. Here, in anticipation of future
+liberation, there was some experimentation with alternative ideas to forms of education developed under colonialism and apartheid. Originating in Botswana, the idea of
+Education with Production spread through interaction between independent African
+countries, SWAPO, the ANC, Frelimo. In Tanzania, the ANC’s Solomon Mahlangu
+Freedom College wrestled with similar ideas. Educational ideas that were to inform
+post-1990s approaches thus took shape in contexts where “strands of Africanism,
+social-democratic and various forms of Marxist socialism, and non-racialism” interacted in a complex mix (Morrow et al., 2002, p. 156).
+Probably spilling over from international pedagogical discussions, learner-centred
+education emerged as the driving pedagogical ideal for contemporary curriculum
+reform in the early 1990s. Learner-centred education was officially adopted in many
+African countries in the 1990s, and, in spite of national differences in stronger or
+weaker attachment to reform attempts, implementation (or rather lack of it) has shown
+similarities in the challenges experienced. In the following we attempt to trace the
+emergence of learner-centred education in Namibia (and outcomes-based education in
+South Africa) as the most prominent and widely favoured educational ideal. In tracing
+the origins, actors and processes of implementation in one specific context, we can
+begin to understand some of the reasons for the gap between policy and practice.
+Learner-centered education as official part of curriculum reform in sub-Saharan
+Africa seems to have first started with the introduction of the subject of Life Science
+in the newly independent Namibia in 1990. Although learner-centredness was in hindsight explicitly identified only in 1998 and not at the beginning of the large-scale
+implementation process in 1991 as the theoretical base of Life Science, it was the
+vehicle chosen to drive the process of political reform to achieve access to education
+for all, equity, education for democracy and democracy in education (Leyendecker,
+
+--- [PDF Page 688 / Book Page 693] ---
+
+Curriculum Reform in Sub-Saharan Africa: When Local Meets Global 693
+
+2002; MEC Namibia, 1993, pp. 32–42). The subject Life Science itself was meant to
+spearhead not only the educational reform process, but also the social reform intended
+to eliminate the racial inequalities characterising pre-independence education. Life
+Science in Namibia was based on concepts of social constructivism, or the pedagogical
+translation of it – learner-centred education.
+Historically linked to pre-independence SWAPO exile education in Loudima,
+Zambia, Danish development aid drove the development and implementation of
+Life Science in Namibia. The idea of Life Science was strongly influenced by the
+social-democratic values and philosophies of the Danish advisers, and was based on
+experiences with Education with Production (EwP) in Zambian schools. It strongly
+supported the political goals of post-independence SWAPO. The Danish programme
+advisers and the progressive ideals of the newly developed subject Life Science had an
+open ear from the then Minister of Education, Nahas Angula.
+The idea of Education with Production was popularised in the region by Patrick
+van Rensburg, a former South African diplomat who renounced his allegiance to
+apartheid, became a Botswana citizen in 1973, founded the Swaneng Hill School and
+subsequently two others in association with the Botswana government, as well as the
+Swaneng Consumers Cooperative and Brigades Movement. Van Rensburg’s approach
+drew on then-popular socialist ideas that aimed to combine Education with Production
+in order to more effectively link theory with practice, and in so doing, to ensure more
+effective learning, doing and understanding of production in its social context. As such,
+it also aimed to break down the social division between mental and manual labour that
+was seen as characteristic of all elitist, class-based and colonial forms of education.
+The brigades curriculum included practical as well as academic subjects such as
+Development Studies, which encouraged students to apply their knowledge and skills
+in socially useful productive work. The Brigades were self-help education and training
+organisations producing goods and services both for themselves and for public sale
+to help finance teaching and training. The success of the experiment resulted in the
+establishment of the Foundation for Education with Production in 1980 which sought
+to spread the idea regionally and internationally through publications and conferences
+that drew together Ministry officials, liberation movements, non-governmental organisations, teachers’ institutions and the “world of work” (http://www.rightlivelihood.
+org/recip/van-rensburg.htm as at 12/12/2005; van Rensburg, 1978; Seidmann, 1985).
+The Zimbabwe Foundation for Education with Production (ZIMFEP) was founded in
+Zimbabwe shortly after its independence in 1980, and followed the same principles
+(see McLaughlin et al., 2002). After 1994, the Foundation initiated activities in South
+Africa, but in the new climate of reform, the pedagogical ideas were very much under
+the shadow of the National Qualifications Framework with its emphasis on competencies and qualifications.
+Throughout the 1980s there was a rich exchange of ideas across regional and international boundaries on the concept and its implementation. The journal, Education
+with Production, edited by John Conradie, Patrick van Rensburg and Frank Youngman,
+and published in Botswana, provided a focus for this critical debate over the decade.
+It examined the historical, comparative and international dimensions, as well as the
+theoretical and practical problems involved in its implementation in both capitalist
+
+--- [PDF Page 689 / Book Page 694] ---
+
+694 Chisholm and Leyendecker
+
+and socialist countries across the developed and developing worlds. The journal drew
+contributions on production in schools, education and employment, technical and
+vocational education and training, and adult education from as far afield as the Soviet
+Union, Latin America, Africa, Europe and the USA. Authors comprised a ‘Who’s Who’
+of the comparative education field: Kazim Bacchus, Joan Simon, Manning Marable,
+Kenneth King, Wim Hoppers, Fay Chung, Claudio de Mouro Castro and Antonio
+Cabral de Andrade, Stephen Heyneman, John Middleton, Alan Fowler, Daniel Sifuna,
+Neil Parsons, David Stern and Julius Nyerere, all appeared in its pages at one time
+or another. The journal self-consciously promoted articles that drew on conceptual
+approaches to teaching and learning that were based in the work of Luria and Vygotksy
+to critique dominant behaviourist approaches to ‘learning theory’ (see, e.g., Simon,
+1986). The approach emphasised the relationship between consciousness and activity,
+learning and doing, context and practice.
+Education with Production or polytechnical education in the African contexts of
+Zimbabwe, Tanzania and Botswana was “seen as a means of bringing about radical or
+socialist transformation” (Botha, 1991, p. 207). In none of these countries, however, was
+EwP universally implemented. As Botha shows, in Zimbabwe there were only eight EwP
+or ZIMFEP schools, largely based in the rural areas (p. 207). Nonetheless, its conception
+“assumed considerable importance as the point of departure for education policies in
+many African countries and, indeed, also in South Africa” (amongst those intellectuals
+and activists in exile and inside the country striving for an alternative to Bantu Education).
+EwP was a philosophy “permeating the curriculum”. In his critical analysis in 1991 of
+its prospects for South Africa, Botha contrasts the EwP approach which sees education as an instrument of social transformation with one that recognises the constraints
+on its ability to achieve such transformation: “curriculum changes in themselves”, he
+says, “cannot play the role that the advocates … suggest. The social conditions in which
+these changes are made determine the extent to which they can advance the process of
+transformation” (Botha, 1991, p. 210). In Zimbabwe, itself, there seems to have been
+some awareness that “the declaration of the policy does not necessarily go hand in hand
+with the definition of the fine details needed for implementation”. (ZIMFEP, n.d.) It is
+interesting that despite this awareness amongst analysts and implementors, curriculum
+still, in the post-1994 Southern African context, came to carry the weight of achieving
+broader social transformation goals (see, e.g., Harley & Wedekind, 2004).
+The trajectory of implementation of learner-centred ideas in Namibia in the early
+1990s provides an example of how the EwP ideas altered over time. It also further
+illustrates the distance between the ideas and their realisation in practice. In the 1980s,
+notions of EwP were taken up in SWAPO’s exile school in Loudima, Zambia. Loudima
+was influenced by the idea of the Zimbabwe Science (ZimSci) syllabus (see, e.g.,
+CDU, 1987), ZimSci having borrowed the initial idea from the van Rensburg brigades
+in Botswana. In Zimbabwe, European teachers (and probably NGOs) sympathetic to
+Zimbabwean independence, like many others, were attracted by the notion of self-help
+and the idea of EwP. The very idea of EwP is close to ideas of contextualised and
+culturally relevant learning. Although learner-centredness was only later consciously
+spelled out as the pedagogy underlying Life Science in Namibia, the link to learnercentredness was a relatively organic one.
+
+--- [PDF Page 690 / Book Page 695] ---
+
+Curriculum Reform in Sub-Saharan Africa: When Local Meets Global 695
+
+The Danish-guided implementation of Life Science in independent Namibia was
+clearly structured and planned. The implementation process was well resourced and
+supported over a period of 8 years. In addition, and what probably counted the most
+during this period, the dedication and motivation of the NGO, the Danish advisers,
+and Namibian staff was infectious to many in the educational system – that is, if they
+were supporting the political goals. Those opposed to the political goals in the education system (and who probably still dominated the system) resisted Life Science
+and learner-centred education because of its close link to the political aims of social
+transformation. However, when signs emerged that learner-centred education in
+Namibia was failing, it was not due to this resistance. Nor did it fail because of lack
+of resources, and probably not even because of capacity shortages. The main obstacle
+seems to have been the unclear nature of the understanding and the actual application
+of learner-centred education, and the scope of the intended change that focused on the
+high pedagogical ideal. As sound as the implementation process was in many places, it
+failed to transport the understanding of learner-centred education into classrooms.
+The signs of poor understanding, subject content and methodological knowledge
+amongst teachers were many. The idea of contextualised biology teaching was often
+reduced to gardening, and real-life dissections were conducted at the blackboard, away
+from where students could see what was going on. When chickens were not available
+for dissection, no alternatives were found, although they were available. Dissection
+simply did not happen. Supplies such as chicken mesh and garden tools started to disappear or boxes of chemicals simply remained unpacked in storerooms or were lost,
+their uses not properly understood. Overlaps in the curriculum were not recognised,
+and the curriculum consequently modified or built upon; the same thing was simply
+taught twice. Whether this was culture or context or both, there was little understanding of what was expected to be implemented.
+The reasons for its failure to take root were varied. Researchers have argued that
+instructional methodologies (and partly the syllabus content of Life Science) were
+not consonant with local, culturally determined classroom practices (Geckler, 1999;
+Leyendecker, 2003). The gaps that had to be bridged between existing classroom realities, social expectations of education and learner-centred education were simply too
+wide to be achieved in one step. To a certain extent, the implementation of learnercentred education seems to have been restricted because the Danish ideology of
+liberated education did not fit the Namibian version of it. In the end, little of the wellmeant classroom intentions (and development goals) materialised in practice (IBIS,
+2000; Geckler, 1999).
+In South Africa, learner-centred education as a pedagogical ideal had already
+existed during the apartheid years in some progressive independent schools such as
+Sacred Heart College in Johannesburg, in non-governmental organisations such as
+SACHED (the South African College of Higher Education), and in the practices of
+new teacher organisations such as NEUSA (the National Education Union of South
+Africa), one of the predecessors of the South African Democratic Teachers’ Union.
+Harley and Wedekind argue that it was also promoted in the White Natal Education
+Department before 1994 (Harley & Wedekind, 2004). In the new South Africa after
+1994, learner-centred education together with outcomes-based education and the
+
+--- [PDF Page 691 / Book Page 696] ---
+
+696 Chisholm and Leyendecker
+
+National Qualifications Framework was meant to undo the injustices of apartheid
+education once and for all.
+The borrowing and indigenisation process in South Africa followed a different trajectory from that of Namibia. This has been so extensively researched and analysed
+elsewhere, that only the main outlines will be provided here (see Jansen, 2004, pp.
+206, 207; see also Spreen, 2004; Govender, 2004). Close links between the trade union
+movement, COSATU, the National Training Board and individual curriculum developers in the run-up to elections in 1994 ensured that a mix of ideas linked to integration,
+competency and outcomes-based education were adopted from Australia and translated
+into the schooling terrain. Although there was little, if any, initial discussion or consultation with teachers, the South African Democratic Teachers’ Union subsequently
+became advocates of outcomes-based education as the philosophy of a post-apartheid
+educational dispensation. Although teachers strongly supported the intended direction
+and goals of curriculum change, mounting criticism led to its review and revision in
+2000 and 2002 respectively (Chisholm et al., 2000). This first implementation attempt
+of the curriculum based on the NQF, OBE, and learner-centred education, encountered so many problems that the curriculum was considered not-implemented (Jansen,
+1999). Similarly, the National Qualifications Framework of South Africa was increasingly criticised for not fulfilling its mandate. It, too, was reviewed in 2002. As with
+the curriculum, there has been some scaling back of ambition, if not the intended
+goals (McGrath, 2005). As with the curriculum, resistance and criticism has come
+from intellectuals; amongst implementers and practitioners, there has been resistance,
+compliance and mimicry (Harley et al., 2000).
+In South Africa, the main reasons for the problems faced in indigenising learnercentred education (and OBE) appear to be comparable to those in Namibia: confusion
+about the meaning and content of the concepts and intended changes, and the consequences of the intended instructional practices not being of-a-piece with local classroom
+cultures and realities. In the case of the National Qualifications Framework, there
+also appears to be an incompatibility between goals and realities. In South Africa
+(as elsewhere), further implementation problems arose with outcomes-based education because of lack of resources and capacity, and shortcomings in the curriculum
+design. Ironically, former White schools, although probably opposed to the political
+agenda, initially had fewer problems in implementing learner-centred education since
+they felt they had been teaching close to the intended instructional methodologies
+for some years, although many were also adept at giving the appearance of change
+while maintaining the status quo. Former Black schools, although supporting the
+political agenda, appeared unable to implement learner-centred education. Where they
+attempted to do so, the meaning of what was to be achieved in some cases led to a
+travesty of the intended meaning of it (Jansen, 1998, 1999; Jansen & Christie, 1999;
+DOE, 2000). This reduction of the understanding of what learner-centred education is
+and does has also been associated with extremely poor literacy and numeracy achievements in those grades where outcomes-based and learner-centred education have been
+implemented (Taylor & Vinjevold, 1999; Muller, 2000). A sharp reaction to constructivism and learner-centred education has accordingly characterised many responses to
+outcomes-based education.
+
+--- [PDF Page 692 / Book Page 697] ---
+
+Curriculum Reform in Sub-Saharan Africa: When Local Meets Global 697
+
+It is clear from the above that one of the legacies of the pre-1990 period and context
+is a degree of educational and pedagogical experimentation. This did not, however,
+post-apartheid, appear to have entered the formal schooling systems. One of the possible
+reasons must be that these experiments of changing practice in classrooms through
+learner-centred education barely touched the majority of schools. Here the main concerns lay elsewhere.
+Both the fact that these ideas are not new and in some isolated instances may even
+predate independence in sub-Saharan African countries, and that they have seldom
+penetrated the broader educational system in any significant way, echoes US scholarship on the lack of impact of successive waves of reform on classroom practices
+over the past century (Cuban, 1990). In sub-Saharan Africa as much as in the USA,
+as Cuban has shown, dominant social groups have again and again turned to schools
+and education to solve intractable social and national problems, rather than directly
+addressing those major social problems themselves. In sub-Saharan Africa, as much as
+in the USA and probably Western Europe as well, there is also an enduring belief in the
+ability of schools to promote social mobility, create national harmony and responsible
+citizenship, a belief that is harnessed during all major periods of social change to the
+reform of education, despite evidence that schools seldom achieve these goals (Cuban,
+1990, p. 9; Vavrus, 2003). The problems of taking progressive educational ideas to
+scale also appear to be as much an African as an American or European challenge
+(Elmore, 1996).
+In both the Namibian and South African contexts, it has been easier to identify
+what needs to change and attempt to mandate this change from above, than to identify
+and ensure the conditions necessary for their successful implementation. Research on
+these issues is however sparse for sub-Saharan Africa. Much more research is needed
+on the gap between policy and practice, implementation and what has changed over
+time, how and why.
+
+Understanding the Challenge
+Outside South Africa and Namibia, learner-centred education has dominated
+contemporary official curriculum reform attempts across sub-Saharan Africa.
+Learner-centred education is considered to be one of the principal vehicles to drive
+societies and economies from mainly agricultural bases into modern and knowledge-based societies with attendant economic benefits. Advised and supported by
+multilateral organisations advocating the need for different and better learning outcomes, learner-centred education is accepted as the pedagogical ideal to facilitate
+this change.
+While the need for different and better learning outcomes are undisputed in all subSaharan African educational systems, evidence from Namibia and South Africa suggests
+that the scope of the change is as underestimated as the differences of understanding
+of concepts. Local cultural and contextual realities and capacities as much as implementation requirements influence understanding and possibilities. Often learner-centred
+
+--- [PDF Page 693 / Book Page 698] ---
+
+698 Chisholm and Leyendecker
+
+education is attractive to policy-makers because of the appeal and promises of the
+social goals attached. African policy-makers can prescribe learner-centred and competency-based education and invest it with particular meanings that vary from those
+of their international counterparts. (Samoff, 2005; Leyendecker, 2005) These differing meanings are contested, accounting in part for challenges in implementation. To
+understand the problems experienced with learner-centred education, it is important to
+distinguish between the idea of learner-centred education as panacea (see also Vavrus,
+2003), and the interlinked approach to implementation. It is also important to note that
+implementation challenges are not necessarily restricted to learner-centred education,
+but that they are a general feature of other curricular developments as well. In the case
+of learner-centred education, OBE and NQF, problems are aggravated by conflicts over
+meaning.
+Two approaches can be identified in understanding what needs to be done. From
+one perspective, teachers need to understand the underlying idea, be motivated to
+change practice, adapt and apply appropriate pedagogies, and have the capacity to do it.
+(Elmore, 2001, p. 16) A sense of ownership is important but on its own, as shown in the
+South African case, it may not be enough to change practice (see McLaughlin, 1991,
+for discussion of the idea). From another perspective, more attention needs to be paid
+to ensuring opportunity to learn in classrooms, especially in working-class and poor
+schools, through addressing teacher knowledge and pedagogies that militate against
+learning (Hoadley, 2007, 2008; Reeves & Muller, 2005) or, as Jansen (2005b) has proposed, placing “teachers, texts and time” at the forefront of any strategy for change.
+In conclusion, this article has attempted to examine the gap between policy and practice in curriculum change efforts in sub-Saharan Africa and paid specific attention to the
+Namibian and South African experiences. Far from learner-centredness being imposed,
+it has shown that the ambiguities of the idea, international pressures and local histories
+all help to account for local receptiveness to the idea. The article shows that while there
+is convergence around the ideas and purposes they are intended to serve, there is also
+evidence of divergence in practice in the extent to which they are able to meet the goals
+attributed to them. In practice there is considerable convergence in the divergence: ideas
+are recontextualised and displaced, unable in the majority of instances to meet the social
+development goals demanded of them. In most instances, dominant modes of teaching
+and learning in practice appear to converge in ways that affirm complex cultural practices
+as well as multifaceted contexts (Stambach, 2000; Vavrus, 2003; Crossley & Watson,
+2003; Watson, 2001; Carnoy, 2000; Samoff 1999a, b, 2001; Steiner-Khamsi, 2004; Tikly,
+2004; Coe, 2005). What this suggests is the need for a great deal more research on the
+local responses and sources of receptiveness and resistance to global ideas.
+
+References
+African National Congress (ANC). Education Department. (1994). A policy framework for education and
+training. January.
+ANC/COSATU. (1993). A framework for lifelong learning. ANC/COSATU Draft Discussion document as
+amended by the National Training Policy Workshop, 13–15 August, Johannesburg.
+Atchoarena, D. (2002). Revisiting technical and vocational education in sub-Saharan Africa: An update on
+trends, innovations and challenges. Paris: IIEP, UNESCO.
+
+--- [PDF Page 694 / Book Page 699] ---
+
+Curriculum Reform in Sub-Saharan Africa: When Local Meets Global 699
+Ball, S. (1990). Politics and policymaking in education: Exploration in policy sociology. London: Routledge.
+Ball, S. (1994). What is Policy? Texts, trajectories and toolboxes. In S. J. Ball (Ed.), Education reform:
+A critical and poststructural approach. Buckingham: Open University Press.
+Bernstein, B. (2004). Social class and pedagogic practice. In S. J. Ball (Ed.), The Routledge Falmer reader
+in sociology of education. London and New York: Routledge Falmer.
+Botha, T. (1991). Education with production in Zimbabwe: A model for post-apartheid South Africa. In
+E. Unterhalter, H. Wolpe, T. Botha, S. Badat, T. Dlamini & B. Khotseng (Eds.), Apartheid education and
+populat struggles. Johannesburg: Ravan Press.
+Carnoy, M. (2000). Globalization and educational reform. In N. P. Stromquist & K. Monkman (Eds.),
+Globalization and education: Integration and contestation across cultures. Oxford: Rowman &
+Littlefield.
+Chisholm, L., Makwati, G., Marope P., & Dumba-Safuli, S. (1998). SADC initiative in education policy
+development, planning and management: Report of a needs assessment study. Harare: Canon Press.
+Chisholm, L., et al. (2000). A South African curriculum for the twenty first century: Report of the review
+committee on curriculum 2005. Retrieved January 2006, www.pwv.gov.za.
+Chisholm, L. (2003). The State of curriculum reform in South Africa: The issue of curriculum 2005. In
+J. Daniel, A. Habib & R. Southall (Eds.), State of the Nation 2003–4. Pretoria: HSRC Press.
+Chisholm, L. (2007). Diffusion of the National Qualifications Framework and outcomes-based education in
+Southern and Eastern Africa. Comparative Education, 43(2), 295–309.
+Chisholm, L., Motala, S., & Vally, S. 2003. South African education policy review. Johannesburg:
+Heinemann.
+Coe, C. (2005). Dilemmas of culture in African schools. Youth, nationalism, and the transformation of
+knowledge. Chicago, IL: University of Chicago Press.
+Crossley, M. & Watson, K. (2003). Comparative and international research in education: globalisation,
+context and difference. London and New York: RoutledgeFalmer.
+Cuban, L. (1990). Reforming again, again, and again. Educational Researcher, January 1990, 415–425.
+Curriculum Development Unit (CDU). (1987). ‘O’ level teacher’s guide: Science in energy uses. Module
+1 energy sources. Harare: Ministry of Education.
+Dale, R. (1999). Specifying globalization effects on national policy: A focus on the mechanisms. Journal of
+Education Policy, 1(14), 1–17.
+Dewey, J. (1938). Experience and education. New York: Macmillan.
+Elmore, Richard F. (1996). Getting to scale with good educational practice. Harvard Educational Review, 66, 1.
+Elmore, Richard F. (2001). Professional development and large-scale improvement in education. Report
+prepared for the Albert Shanker Institute.
+Geckler, P. (2000). Impacts of basic education reform in independent Namibia. Unpublished Ph.D. thesis,
+University of Copenhagen.
+Guskey, T. R. (2000). Evaluating professional development. Thousand Oaks, CA: Corwin Press.
+Govender, L. (2004). Teacher unions, policy struggles and educational change, 1994–2004. In Linda
+Chisholm (Ed.), Changing class: Education and social change in post-apartheid South Africa. Cape
+Town: HSRC Press.
+Harley, K., Barasa, F., Bertram, C., Mattson, E., & Pillay, K. (2000). “The real and the ideal”: Teacher
+roles and competences in South African policy and practice. International Journal of Educational
+Development, 20 (4), 287–304.
+Harley, K., & Wedekind. V. (2004). Political change, curriculum change and social formation, 1990–2002.
+In L. Chisholm (Ed.), Changing class: education and social change in post-apartheid South Africa.
+Cape Town: HSRC Press.
+Hoadley, U. (2008). Pedagogy and social class: a model for the analysis of pedagogic variation. British
+Journal of Sociology of Education, 29(1), 63–78.
+Ibis. (2001). Evaluating change. An impact study of the Life Science project, Namibia, 1991–2000. ISBN
+99916-745-7-8.
+International Monetary Fund (1998). Uganda enhanced structural adjustment facility policy framework
+paper, 1998/99–2000/01. Retrieved 6/1/2006 http://www.img.org/external/np/pfp/uganda/102998.htm.
+International Monetary Fund (1999). Tanzania enhanced structural adjustment facility policy framework paper
+for 1998/99–2000/01. Retrieved 6/1/2006 http://www.imf.org/external/np/pfp/1999/tanzania/taztab.htm.
+
+--- [PDF Page 695 / Book Page 700] ---
+
+700 Chisholm and Leyendecker
+International Monetary Fund (1998/99). Malawi enhanced structural adjustment facility policy framework
+paper, 1998/99–2000/01: Policy matrix and tables. Retrieved 6/1/2006 http://www.imf.org/external/np/
+pfp/malawi/tables.htm.
+International Monetary Fund (1999). Republic of Mozambique enhanced structural adjustment facility
+policy framework paper for April 1999–March 2002. Retrieved 6/1/2006 http://www.imf.org/external/
+NP/PFP/1999/Mozam/Index.htm.
+Jansen J. (1997). “Essential alterations?” A critical analysis of the states syllabus revision process.
+Perspectives in Education, 17(2), 1–11.
+Jansen, J. (1998). Curriculum reform in South Africa: A critical assessment of outcomes-based education.
+Cambridge Journal of Education, 28(3), 321–331.
+Jansen, J. & Christie, P. (Eds.) (1999). Changing curriculum: Studies on outcomes-based education in South
+Africa (pp. 3–21). South Africa: Juta, Academic.
+Jansen, J. (1999).“A very noisy OBE”: The implementation of OBE in grade 1 classrooms. In J. Jansen &
+P. Christie (Eds), Changing the curriculum: Studies on outcomes-based education in South Africa. Cape
+Town: Juta.
+Jansen, J. (2002). Political symbolism as policy craft: Explaining non-reform in South African education
+after apartheid. Journal of Educational Policy, 17(2), 199–215.
+Jansen, J. (2004). Importing outcomes-based education into South Africa: Policy borrowing in a post-communist world. In D. Phillips & K. Ochs (Eds.), Educational policy borrowing: Historical perspectives.
+Oxford: Symposium Books.
+Jansen, J. (2005a). The seduction of sameness: The globalisation of pedagogies and impacts on developing
+countries. In T. Townsend & R. Bates (Eds.), Globalization, standards and professionalism: Teacher
+education in times of change. The Netherlands: Kluwer Press.
+Jansen, J. (2005b). Targeting education: The politics of performance and the prospects of ‘Education for
+All’. In International Journal of Educational Development, 25(4), 368–380.
+Jennings, M. (2006). A century of development: Policy and process in sub-Saharan Africa. In I. Frame (Ed.),
+Africa south of the Sahara: European regional surveys of the world. London: RKP.
+Kraak, A. (n.d.) Policy ambiguity and slippage: Higher education under the new State, 1994–2001. In M.
+Young & A. Kraak (Eds.), Education policy and implementation in South Africa. Cape Town: HSRC
+Press.
+Leyendecker, R. (2002). In search of promising practices in science, mathematics and ICT education in subSaharan Africa. Unpublished Master thesis. University of Twente, The Netherlands.
+Leyendecker, R. (2005). Curricula, examination and assessment in sub-Saharan secondary education. Draft
+research report. Presented at Windhoek conference on secondary education in Africa, July.
+Malcolm, C. (2000) Implementation of outcomes-based approaches to education in Australia and South Africa:
+A comparative study (RADMASTE, Wits).
+McGrath, S. (2005). The multiple contexts of vocational education and training in southern Africa. In
+S. Akoojee, A. Gewer & S. McGrath (Eds.), Vocational education and training in Southern Africa: A
+comparative study. Pretoria: HSRC research monograph.
+McLaughlin, J. et al. (2002). Education with production in Zimbabwe: The story of ZIMFEP. Harare and
+Gaborone: ZIMFEP and FEP.
+McLaughlin, M. (1991). The Rand change agent study: Ten years later. In A. R. Odden (Ed.), Education
+policy implementation. New York: SUNY.
+McLaughlin, M. (1998). Listening and learning from the field: tales of implementation and situated practice.
+In A. Hargreaves, A. Lieberman, M. Gullan, & S. Hopkins (Eds.), International handbook of educational change. Dordrecht: Kluwer Academic.
+Ministry of Education and Culture, Namibia (1993). Toward education for all: a development brief for education, culture and training. Windhoek: Government Printers.
+Mohamed, H. (1998). The implementation of OBET in South Africa: Pathway to success or recipe for failure. Education Practice, 1, 3–16.
+Morrow, S. et al. (2002). Education in exile: The African National Congress’s Solomon Mahlangu College
+(SOMAFCO) and Dakawa Development Centre, Tanzania 1978–1992. In P. Kallaway (Ed.), The history
+of education under apartheid, 1948–1994. Cape Town: Maskew Millar Longman.
+
+--- [PDF Page 696 / Book Page 701] ---
+
+Curriculum Reform in Sub-Saharan Africa: When Local Meets Global 701
+Muller, J. (1998). NQF and outcomes-based education: Pedagogic models and hard choices. Centre for
+education policy development. (Comp.) Reconstruction, development and the National Qualifications
+Framework: Conference proceedings. Johannesburg: CEPD.
+Muller, J. & Taylor, N. (1995). Schooling and everyday life: Knowledges sacred and profane. Social
+Epistemology, 9, 257–275.
+Muller, J. (2001). Progressivism redux: Ethos, policy, pathos. In A. Kraak & M. Young (Eds.), Education in
+retrospect: Policy and implementation since 1990. HSRC and Institute of Education, n.d., c2001.
+Muller, J. (2000). Reclaiming knowledge: Social theory, curriculum and education olicy. London: Routledge.
+Namibia Ministry of Education and Culture (1993). Toward education for all: A development brief for education, culture and training. Windhoek.
+Odora-Hoppers, C. (2002). Higher education, sustainable development and the imperative of social responsiveness, Mimeo, University of Pretoria.
+Reeves, C. & Muller, J. (2005). Picking up the pace: Variation in the structure and organization of learning
+school mathematics. Journal of Education, 37, 103–130.
+Rogan, J. (2000). Strawberries, cream and the implementation of curriculum 2005: Towards a research
+agenda. South African Journal of Education, 2(20), 118–125.
+Samoff, J. (1999a). Institutionalizing international influence. In R. F. Arnove & Carlos Alberto Torres
+(Eds), Comparative education: The dialectic of the global and the local (pp. 51–89). Boulder, CO:
+Rowman & Littlefield.
+Samoff, J. (1999b). No teacher guide, no textbooks, no chairs: Contending with crisis in African education.
+In R. F. Arnove & C. A. Torres (Eds.), Comparative education: The dialectic of the global and the local
+(pp. 393–431). Boulder, CO: Rowman & Littlefield.
+Samoff, J. (2001). “Education for all” in Africa but education systems that serve few well. Perspectives in
+Education, 19(1), 5–28.
+Samoff, J. (2005). Education quality: Difficult choices. Paper prepared for the expert meeting on Researching
+Quality of Education for All in the South: Main Issues and Current Gaps. University of Amsterdam,
+29–30 August 2005.
+Samson, M., & Vally, S. (1996). Snakes and ladders: Promises and potential pitfalls of the NQF. South
+African Labour Bulletin, 20(4).
+Schriewer, J. (Ed.) (2003). Discourse formation in comparative education. Frankfurt am Main: Peter Lang.
+Seidmann, G. (1985). Working for the future. Gaborone, Botswana: Foundation for Education with Production.
+Simon, J. (1986). Psychology in the service of education – the work of AR Luria. Education with Production,
+4(2): 104–130.
+SMICT study. Vrije Universiteit Amsterdam. Retrieved 12/12/2005 at http://www.cis.vu.nl/Projects.
+Sparks, D. L. (2006). Economic trends in Africa south of the Sahara, 2006. In I. Frame (Ed.), Africa south
+of the Sahara: Europea regional surveys of the world. London: RKP.
+Spreen, C. (2004). Appropriating borrowed policies: Outcomes-based education in South Africa. In G.
+Steiner-Khamsi (Ed.), The global politics of educational borrowing and lending. Columbia, New York
+and London, Teachers’ College.
+Stambach, A. (2000). Lessons from Mount Kilimanjaro: Schooling, community and gender in East Africa.
+New York and London: Routledge.
+Steiner-Khamsi, G. (2003). Transferring education, displacing reforms. In J. Schriewer (Ed.), Discourse
+formation in comparative education. Berlin: Peter Lang.
+Steiner-Khamsi, G. (Ed.) (2004). The global politics of educational borrowing and lending. Columbia, New
+York and London, Teachers’ College.
+Sutton, M., & Levinson, B. (Eds.) (2001). Policy as practice: Towards a comparative socio-cultural analysis
+of educational policy. Westport, CN: ABLEX Publishing.
+Tabulawa, R. (1997). Pedagogical classroom practice and social context: The case of Botswana. International
+Journal of Educational Development, 17(2).
+Tabulawa, R. (2003). International aid agencies, learner-centred pedagogy and political democratisation:
+A critique. Comparative Education, 39(1), 7–26.
+Taylor, N., & Vinjevold P. (1999). Getting learning right: Report of the President’s education initiative.
+Johannesburg: Joint Education Trust.
+
+--- [PDF Page 697 / Book Page 702] ---
+
+702 Chisholm and Leyendecker
+Tikly, L. (2004). Education and the new imperialism. Comparative Education, 40(2), 173–198.
+Tyack, D., & Cuban, L. (1995). Tinkering toward Utopia: A century of public school reform. Cambridge,
+MA: Harvard University Press.
+Unterhalter E. (1998a). Citizenship, difference and education: Reflections on the South African transition. In
+P. Werbner & N. Yuval-Davis (Eds.), Women, citizenship and difference. London: Zed.
+Unterhalter E. (1998b). Economic rationality or social justice? Gender, the National Qualifications
+Framework and educational reform in South Africa 1989–1996, Cambridge Journal of Education,
+28(3).
+Van Harmelen, U. (1998). Is learner centred education child centred? Journal for Educational Reform in
+Namibia, (8), 1–10.
+Van Rensburg, P. (1978). The Serowe brigades: Alternative education in Botswana. Published by the Bernard
+van Leer Foundation for MacMillan.
+Vavrus, F. (2003). Desire and decline: Schooling amid crisis in Tanzania. New York: Peter Lang.
+Vygotsky, L. (1978). Mind and society: Development of higher psychological processes. Cambridge:
+Harvard University Press.
+Watson, K. (Ed.) (2001). Doing comparative education research: Issues and problems. Oxford: Symposium
+Books.
+Williams, G. (2006). Reforming Africa: Continuities and changes. In I. Frame (Ed.), Africa south of the
+Sahara: Europea regional surveys of the world. London: RKP.
+Kraak, A., & Young, M. (Eds.) (c 2001). Education in retrospect: Policy and implementation since 1990.
+HSRC and Institute of Education.
+ZIMFEP (n.d.). Nkululeko – A Step Ahead. Harare: Zimbabwe Foundation for Education with Production.
+

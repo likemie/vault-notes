@@ -7,7 +7,7 @@ aliases:
 summary: "18 世纪起源于欧洲的教师培训机构，后被扩散到世界各地，其流通轨迹展示了教育思想跨空间传播的复杂性"
 type: concept
 domain: "comparative-education"
-related_count: 4
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -22,7 +22,8 @@ related_concepts:
   - "[[Circular Transfer]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Horace Mann]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Beech_2015_GSE]]"
@@ -48,7 +49,7 @@ updated: 2026-06-07
 > [!note]-
 > 师范学校从欧洲扩散到加拿大、美国、墨西哥、阿根廷、哥伦比亚、智利、巴西、芬兰、日本、中国、台湾、菲律宾、新西兰等地，在这些地方成为培训教师的主要制度形式。在制度实施过程中，师范学校在不同情境中因文化特定模式而被不同地转化([[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]])。
 >
-> 以阿根廷为例，萨米恩托（Sarmiento）1842 年流亡期间在智利创立了该国第一所师范学校，后受马萨诸塞州霍勒斯·曼（Horace Mann）的工作吸引。1869 年担任阿根廷总统后，他以波士顿模型为基础在巴拉那市创立了阿根廷第一所师范学校。但随着教育体系的扩展，阿根廷逐渐从马萨诸塞模型转向法国模型。
+> 以阿根廷为例，萨米恩托（Sarmiento）1842 年流亡期间在智利创立了该国第一所师范学校，后受马萨诸塞州[[Horace Mann|霍勒斯·曼]]（Horace Mann）的工作吸引。1869 年担任阿根廷总统后，他以波士顿模型为基础在巴拉那市创立了阿根廷第一所师范学校。但随着教育体系的扩展，阿根廷逐渐从马萨诸塞模型转向法国模型。
 
 ---
 

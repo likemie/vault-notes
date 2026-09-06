@@ -39,6 +39,42 @@
         "year": "2025"
       }
     ],
+    "Cowen, 2009": [
+      {
+        "aliases": [
+          "Cowen, 2009a",
+          "Cowen (2009a)"
+        ],
+        "argument": "Argument_Cowen_2009_HistoryCreation",
+        "authors": [
+          "[[Robert Cowen|Cowen, R.]]"
+        ],
+        "citation": "Cowen, R. (2009). On History and on The Creation of Comparative Education. In R. Cowen & A. M. Kazamias (Eds.), International Handbook of Comparative Education (pp. 7–10). Dordrecht: Springer.",
+        "doi": "",
+        "isbn": "978-1-4020-6402-9",
+        "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Cowen_2009_HistoryCreation.md",
+        "source_language": "en",
+        "title": "Argument_Cowen_2009_HistoryCreation",
+        "year": "2009"
+      },
+      {
+        "aliases": [
+          "Cowen, 2009b",
+          "Cowen (2009b)"
+        ],
+        "argument": "Argument_Cowen_2009_CE",
+        "authors": [
+          "[[Robert Cowen|Cowen, R.]]"
+        ],
+        "citation": "Cowen, R. (2009). The transfer, translation and transformation of educational processes: and their shape‐shifting? Comparative Education, 45(3), 315-327.",
+        "doi": "",
+        "isbn": "",
+        "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Cowen_2009_CE.md",
+        "source_language": "en",
+        "title": "Argument_Cowen_2009_CE",
+        "year": "2009"
+      }
+    ],
     "Hattie, 2015": [
       {
         "aliases": [

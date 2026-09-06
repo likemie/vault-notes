@@ -6,7 +6,7 @@ aliases:
 summary: "Cowen（2023）诊断比较教育学科长期并存的四种理解形式，包括求同存异、趋同理论、政策科学和结果导向，指出它们各自的政治预设"
 type: concept
 domain: "comparative-education"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -29,6 +29,7 @@ related_theories: []
 related_methods: []
 related_persons:
   - "[[Robert Cowen]]"
+  - "[[Isaac Kandel]]"
   - "[[Andreas Kazamias]]"
   - "[[Edmund King]]"
 related_facts:
@@ -62,7 +63,7 @@ updated: 2026-06-06
 ### 第一种：求同存异
 
 > [!info]
-> 在社会和教育系统中寻找相似与差异，并以历史或情境来解释。代码词是历史（history）和情境（contexts），代表人物包括 Isaac Kandel、[[Andreas Kazamias]]、Nicholas Hans，以及英格兰比较教育传统。
+> 在社会和教育系统中寻找相似与差异，并以历史或情境来解释。代码词是历史（history）和情境（contexts），代表人物包括 [[Isaac Kandel]]、[[Andreas Kazamias]]、Nicholas Hans，以及英格兰比较教育传统。
 >
 > **政治解构与缺陷** 其政治预设表面上是中立的，而这恰恰是其致命缺陷。由于它拒绝从“国家”（State，无论是理想的还是现实的）概念出发，导致其倾向于忽视法西斯主义、弥赛亚国家或国家社会主义等极端政治现象。它无法透视国家暴力、政治压迫与意识形态强权对教育系统的直接控制，使学科流于去政治化的文化和情境描述([[Argument_Cowen_2023_CE|Cowen, 2023, pp.332–333]])。
 

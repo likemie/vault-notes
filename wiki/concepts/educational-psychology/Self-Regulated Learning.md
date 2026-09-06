@@ -9,10 +9,10 @@ aliases:
 summary: "学习者为了达成学业目标，主动对自身的认知过程、动机体验和行为策略进行规划、监控、评价与反思性调整的循环性心理与行为系统"
 type: concept
 domain: "educational-psychology"
-related_count: 23
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - theme/self-regulated-learning
   - construct/metacognition
@@ -20,20 +20,25 @@ tags:
   - paradigm/cognitive
 related_concepts:
   - "[[Metacognition]]"
+  - "[[Scaffolding]]"
   - "[[Cognitive Offloading]]"
   - "[[Task Structure]]"
+  - "[[Higher-Order Thinking Skills]]"
   - "[[Self-Efficacy]]"
+  - "[[Construct]]"
   - "[[AI Hallucination]]"
   - "[[Dialogue in Education]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Reflexivity]]"
+  - "[[Problem Solving]]"
+  - "[[Necessary and Sufficient Conditions]]"
+  - "[[Learner Autonomy]]"
   - "[[Intelligent Tutoring Systems]]"
   - "[[Questionnaire]]"
   - "[[Learning Analytics]]"
   - "[[Common Method Variance]]"
   - "[[Academic Achievement]]"
   - "[[Variable]]"
-  - "[[Higher-Order Thinking Skills]]"
   - "[[Effect Size]]"
   - "[[Creativity]]"
 related_methods:
@@ -45,6 +50,9 @@ related_instruments:
 related_arguments:
   - "[[Argument_Li_2026_CEAI]]"
   - "[[Argument_Zhao_2025_JIntell]]"
+related_persons:
+  - "[[Wang Yangming]]"
+  - "[[Yong Zhao]]"
 confidence: high
 status: active
 created: 2026-08-31
@@ -58,7 +66,7 @@ updated: 2026-09-05
 ## 定义
 
 > [!def] 核心定义
-> 自我调节学习（Self-Regulated Learning, SRL）是指学习者在[[Metacognition|元认知]]、动机和行为层面上主动参与自身学习过程的动态循环系统。学习者通过设定明确的学业目标、选择并实施适切的认知策略、持续监控任务进展与理解状态，并依据反馈对心智操作和外部行为做出适应性调整。在人工智能介入的学习环境中，自我调节学习是发挥“风险中和”功能、决定学生能够将技术作为认知脚手架批判性审视其输出，还是滑向被动顺从与[[Cognitive Offloading|认知外包]]的核心调节机制。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 2–3, 7)]]；[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 11–12, 16)]]
+> 自我调节学习（Self-Regulated Learning, SRL）是指学习者在[[Metacognition|元认知]]、动机和行为层面上主动参与自身学习过程的动态循环系统。学习者通过设定明确的学业目标、选择并实施适切的认知策略、持续监控任务进展与理解状态，并依据反馈对心智操作和外部行为做出适应性调整。在人工智能介入的学习环境中，自我调节学习是发挥“风险中和”功能、决定学生能够将技术作为[[Scaffolding|认知脚手架]]批判性审视其输出，还是滑向被动顺从与[[Cognitive Offloading|认知外包]]的核心调节机制。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 2–3, 7)]]；[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 11–12, 16)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 学习者对自身认知加工、情绪动机与行为环境实施自主监控、前瞻性调控与风险中和的心理机能。
@@ -70,7 +78,7 @@ updated: 2026-09-05
 >
 > *Self-Regulated Learning (SRL) refers to learners' capacity to plan, monitor, and regulate their learning through strategic goal-setting, reflection, and adaptation... Both perspectives are crucial for understanding how students interact with ChatGPT as a thinking aid — whether they critically interrogate its outputs or passively adopt them.*
 
-> [!citation-card]- 关键表述：自我调节学习对高阶思维的奠基与风险中和（[[Argument_Zhao_2025_JIntell|Zhao et al., 2025]]）
+> [!citation-card]- 关键表述：自我调节学习对[[Higher-Order Thinking Skills|高阶思维]]的奠基与风险中和（[[Argument_Zhao_2025_JIntell|Zhao et al., 2025]]）
 > 自我调节学习（SRL）在促使学生确立学习目标、选择适切策略与监控认知加工方面发挥着决定性作用，从而为高阶思维的发展奠定了基础框架。更重要的是，SRL 构成了关键的调节中枢，能够有效“中和”使用生成式 AI 培养高阶思维时伴随的潜在认知风险。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, p. 16)]]
 >
 > *Self-regulated learning (SRL) plays a critical role in enabling students to establish learning goals, select appropriate strategies, and monitor their cognitive processes, thereby laying a foundational framework for the development of HOT... Specifically, SRL functions as a "key regulatory mechanism" that can effectively "neutralize" the potential cognitive risks associated with the use of Gen-AI in fostering HOT.*
@@ -86,7 +94,7 @@ updated: 2026-09-05
 > [!contrast-table] 概念辨析
 > | 维度 | 自我调节学习（SRL） | [[Metacognition\|元认知]]（Metacognition） | 学业[[Self-Efficacy\|自我效能感]]（Academic Self-Efficacy） |
 > |------|-------------------|-----------------------------------------|----------------------------------------|
-> | **构念范围** | 包含认知、元认知、动机与行为调控的综合系统 | 侧重于对认知活动本身的认知与监控 | 侧重于对自身完成特定学业任务能力的信心判断 |
+> | **[[Construct\|构念]]范围** | 包含认知、元认知、动机与行为调控的综合系统 | 侧重于对认知活动本身的认知与监控 | 侧重于对自身完成特定学业任务能力的信心判断 |
 > | **核心机制** | 预见规划 → 表现监控 → 自我反思的三阶段循环 | 任务难度评估、加工进度监控与策略纠偏 | 影响任务选择、努力程度与逆境坚持力 |
 > | **技术中介作用** | 决定人机协同深度，中和风险并防范[[Cognitive Offloading\|认知外包]] | 识别大模型输出中的逻辑漏洞与事实[[AI Hallucination\|幻觉]] | 支撑学习者在面对复杂人机[[Dialogue in Education\|对话]]时持续探索 |
 
@@ -128,7 +136,7 @@ updated: 2026-09-05
 
 ### 命题一　显性元认知支架是激活技术增强环境中自我调节学习的关键前提
 
-> [!concept-lens] [[Metacognition|元认知]]脚手架与自主监控
+> [!concept-lens] [[Metacognition|元认知]][[Scaffolding|脚手架]]与自主监控
 > 探讨外部教学提示词与反思规程如何转化为学习者内部的自我调节操作。
 
 > [!claim] Li, C.; Cui, H.; Hagedorn, L. S.
@@ -151,11 +159,11 @@ updated: 2026-09-05
 > [!concept-lens] 风险中和中枢与群体认知分水岭
 > 探讨学习者内在自我调节能力如何充当认知缓冲与控制中枢，既中和智能算法对思维深度的侵蚀风险，又主导了人机协同促学成效的断层式两极分化。
 
-> [!claim] Wang, Y.; Huang, R.; Zhao, Y.
+> [!claim] [[Wang Yangming|Wang, Y.]]; Huang, R.; [[Yong Zhao|Zhao, Y.]]
 > **风险中和机制与认知分水岭** 生成式 AI 对思维发展的赋能并非无条件成立，自我调节学习构成了至关重要的中枢调节机制。理论上，大语言模型交互具有即时满足与表层流畅的特质，极易诱发心智惰性与盲目顺从；SRL 通过持续的监控、反思与策略调整，充当了不可或缺的“风险中和器”，有效抵消了算法幻觉、认知外包与思维惰性等潜在负面效应。在机制分流上，高自律学习者主动设定目标、将 AI 视为协同副驾驶并批判性吸收其输出，从而实现认知图式的跃升；而低自律学习者缺乏目标校准与审验能力，极易被算法牵引而滑向被动顺从与虚假理解，致使技术赋能严重受限。[[Argument_Zhao_2025_JIntell|(Wang & Huang, 2024; Zhao et al., 2025, pp. 11–12, 16)]]
 
 > [!claim] Wang, T.; Liu, S.; Zhao, Y.
-> **高阶思维与自律调控的双向强化闭环** 自我调节学习与高阶思维并非单向的线性因果，而是构成动态互促的认知闭环。一方面，SRL 的目标规划与监控机能为学生开展复杂问题解决与批判证据审视提供了基础操作脚手架；另一方面，持续沉浸于复杂、多视角的深度探究与观点论证任务中，必然要求学生反复进行元认知监控、逻辑纠偏与策略重构，这种高强度的认知挑战反过来磨砺、淬炼并深化了学习者的自我调节机能。[[Argument_Zhao_2025_JIntell|(Wang & Liu, 2024; Zhao et al., 2025, p. 16)]]
+> **[[Higher-Order Thinking Skills|高阶思维]]与自律调控的双向强化闭环** 自我调节学习与高阶思维并非单向的线性因果，而是构成动态互促的认知闭环。一方面，SRL 的目标规划与监控机能为学生开展[[Problem Solving|复杂问题解决]]与批判证据审视提供了基础操作脚手架；另一方面，持续沉浸于复杂、多视角的深度探究与观点论证任务中，必然要求学生反复进行元认知监控、逻辑纠偏与策略重构，这种高强度的认知挑战反过来磨砺、淬炼并深化了学习者的自我调节机能。[[Argument_Zhao_2025_JIntell|(Wang & Liu, 2024; Zhao et al., 2025, p. 16)]]
 
 ---
 
@@ -164,8 +172,8 @@ updated: 2026-09-05
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **外部支架依赖** | 显性反思提示是技术中介环境中触发自我调节的必要条件 | 探究式任务、人机写作与问题解决 | Li et al.; Yang et al.; Shen & Chen |
-> | **认知主体性防御** | 自我调节能力能够阻断心智外包与技术盲从 | 开放式生成任务与在线自主学习 | Zimmerman; Azevedo et al.; Li et al. |
+> | **外部支架依赖** | 显性反思提示是技术中介环境中触发自我调节的[[Necessary and Sufficient Conditions\|必要条件]] | 探究式任务、人机写作与问题解决 | Li et al.; Yang et al.; Shen & Chen |
+> | **认知主体性防御** | 自我调节能力能够阻断心智外包与技术盲从 | 开放式生成任务与在线[[Learner Autonomy\|自主学习]] | Zimmerman; Azevedo et al.; Li et al. |
 > | **风险中和与双向互促** | 自我调节学习充当风险中和器，并与高阶思维形成双向互促闭环 | 智能技术赋能教学、复杂人机协同 | Wang & Huang; Wang & Liu; Zhao et al. |
 
 ---
@@ -176,7 +184,7 @@ updated: 2026-09-05
 > - **1980 年代 — 社会认知起源** Bandura 与 Zimmerman 奠定社会认知取向的自我调节学习理论，提出人、行为与环境三元交互决定论。
 > - **2000 年代 — 认知架构与信息加工模型** Winne & Hadwin 提出基于[[Metacognition|元认知]]监控与控制的信息加工四阶段模型（COPES）。
 > - **2010 年代 — 计算机中介与超媒体环境** Azevedo 等人深入探讨[[Intelligent Tutoring Systems|智能导师系统]]与超媒体探究中的实时自适应支架对自我调节的干预机制。
-> - **2020 年代 — [[Generative Artificial Intelligence|生成式人工智能]]时代的风险中和与分流中枢** [[Argument_Li_2026_CEAI|Li et al. (2026)]] 揭示了 SRL 阻断认知外包的核心枢纽价值；[[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] 进一步通过元分析确立了 SRL 作为中和算法认知风险与主导促学成效断层分流的关键调节中枢地位。
+> - **2020 年代 — [[Generative Artificial Intelligence|生成式人工智能]]时代的风险中和与分流中枢** [[Argument_Li_2026_CEAI|Li et al. (2026)]] 揭示了 SRL 阻断[[Cognitive Offloading|认知外包]]的核心枢纽价值；[[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] 进一步通过[[Meta-analysis|元分析]]确立了 SRL 作为中和算法认知风险与主导促学成效断层分流的关键调节中枢地位。
 
 ---
 

@@ -25,7 +25,6 @@ related_concepts:
   - "[[Epistemic Friction]]"
   - "[[Cognitive Offloading]]"
   - "[[Reliability]]"
-  - "[[AI Hallucination]]"
   - "[[Critical Thinking]]"
   - "[[Creativity]]"
   - "[[Surface and Deep Learning]]"
@@ -34,6 +33,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Doxa]]"
+  - "[[AI Hallucination]]"
   - "[[Metacognition]]"
   - "[[Effective Teaching]]"
   - "[[Working Memory]]"
@@ -80,7 +80,7 @@ updated: 2026-09-01
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向主体在面对外部信息与中介工具时，主动评估证据[[Reliability|可靠性]]、识别概念预设与检验逻辑自洽性的动态反思倾向。
-> - **用途** 帮助社会科学研究者破除对“领导力”、“教学质量”等日常规范性概念的未经审查的接受；帮助高等教育学习者在人机协同中识别模型[[AI Hallucination|幻觉]]、解构顺滑表象并维持深层[[Critical Thinking|批判性思维]]。
+> - **用途** 帮助社会科学研究者破除对“领导力”、“教学质量”等日常规范性概念的未经审查的接受；帮助高等教育学习者在人机协同中识别模型幻觉、解构顺滑表象并维持深层[[Critical Thinking|批判性思维]]。
 > - **边界** 区别于对一切知识持怀疑态度的虚无主义，它旨在通过严格的标准校准与[[Triangulation|三角互证]]确立可靠认识；同时超越事后静态的质检操作，是一种内嵌于认知监控与探究活动全过程的能动性状态。
 
 > [!citation-card]- 关键表述：社会学方法论视角
@@ -159,7 +159,7 @@ updated: 2026-09-01
 > 该命题阐明在[[Generative Artificial Intelligence|生成式人工智能]]深度融入学习活动的背景下，认识论警觉是防止学生从“人机[[Dialogue in Education|对话]]伙伴”滑向“被动心智外包”的关键调节[[Variable|变量]]。
 
 > [!claim] Li, C.
-> **显性 AI 素养对认识论警觉的激活与反思放大机制** 大语言模型生成的文本具有极高的表层语义流畅性与语法规范性，若缺乏显性引导，学习者倾向于全盘接受输出，导致严重的[[Cognitive Offloading|认知卸载]]、事实盲从与论证退化。通过在课程中嵌入显性[[AI Literacy|人工智能素养]]模块（重点讲授概率生成机制、偏见识别与[[AI Hallucination|幻觉]]侦测）以及反思规程，能够有效激活学习者的认识论警觉，使其将 AI 视为需要审问的对话伙伴而非直接答案提供者，进而驱动[[Critical Thinking|批判性思维]]的显著增长。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 10–11)]]
+> **显性 AI 素养对认识论警觉的激活与反思放大机制** 大语言模型生成的文本具有极高的表层语义流畅性与语法规范性，若缺乏显性引导，学习者倾向于全盘接受输出，导致严重的[[Cognitive Offloading|认知卸载]]、事实盲从与论证退化。通过在课程中嵌入显性[[AI Literacy|人工智能素养]]模块（重点讲授概率生成机制、偏见识别与幻觉侦测）以及反思规程，能够有效激活学习者的认识论警觉，使其将 AI 视为需要审问的对话伙伴而非直接答案提供者，进而驱动[[Critical Thinking|批判性思维]]的显著增长。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 10–11)]]
 
 > [!claim] Medina, J.
 > **[[Epistemic Friction|认识论摩擦]]作为[[Surface and Deep Learning|深层学习]]所必需的生产性张力** 高阶心智的发展高度依赖于主体在面对异质观点与复杂事实时所经历的“认识论摩擦”（Epistemic Friction）。生成式 AI 的平滑输出天然具有抹平认知阻力的危险；唯有当学习者维持高水平的认识论警觉、主动设置论证质疑与事实核查关卡时，这种生产性张力才能得以维系，从而迫使长时记忆图式深度参与高阶推理。[[Argument_Li_2026_CEAI|(Medina, 2013; Li et al., 2026, p. 10)]]

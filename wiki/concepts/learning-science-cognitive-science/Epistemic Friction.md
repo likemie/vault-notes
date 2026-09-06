@@ -9,7 +9,7 @@ aliases:
 summary: "源自社会认识论与学习科学的核心构念，指个体在遭遇相左证据、异质观点或复杂认知任务时所经历的生产性阻力与反思张力，是激活元认知监控、深度推理与知识图式重构的必要心理机制。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 35
+related_count: 37
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -40,9 +40,11 @@ related_concepts:
   - "[[Primary and Secondary Documents]]"
   - "[[Epistemic Value]]"
   - "[[Cognitive Offloading]]"
+  - "[[Scaffolding]]"
   - "[[Educational Affordances]]"
   - "[[Document]]"
   - "[[Homework]]"
+  - "[[Blended Learning]]"
   - "[[Epistemology of Resistance]]"
   - "[[Effect Size]]"
   - "[[Variable]]"
@@ -163,7 +165,7 @@ updated: 2026-09-02
 
 ### 命题三　结构化教学设计的核心功能在于按需重构认识论摩擦
 
-> [!concept-lens] 教学支架与认知阻力重塑
+> [!concept-lens] [[Scaffolding|教学支架]]与认知阻力重塑
 > 阐明教师在智能化时代的角色转变：从传统的“知识传递者”转变为“生产性摩擦的设计师”。
 
 > [!claim] [[Argument_Li_2026_CEAI|Li et al. (2026)]]
@@ -178,7 +180,7 @@ updated: 2026-09-02
 > |---|---|---|---|
 > | **认知前提命题** | [[Higher-Order Thinking Skills\|高阶思维]]与深度图式构建依赖生产性认识论摩擦 | 高等教育、复杂概念学习与学术研究 | Medina (2013); [[Argument_Li_2026_CEAI\|Li et al. (2026)]] |
 > | **技术旁路命题** | 算法顺滑表象天然切除心智摩擦，诱发认知卸载 | 无约束人机交互、常规[[Homework\|作业]]应付场景 | [[Argument_Li_2026_CEAI\|Li et al. (2026)]] |
-> | **教学重构命题** | 教学支架的核心在于将摩擦转化为可控的探索关卡 | 结构化课程设计、混合式教学与评价改革 | [[Argument_Li_2026_CEAI\|Li et al. (2026)]] |
+> | **教学重构命题** | 教学支架的核心在于将摩擦转化为可控的探索关卡 | 结构化课程设计、[[Blended Learning\|混合式教学]]与评价改革 | [[Argument_Li_2026_CEAI\|Li et al. (2026)]] |
 
 ---
 

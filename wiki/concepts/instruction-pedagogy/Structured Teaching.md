@@ -18,6 +18,7 @@ tags:
   - "theme/scaffolding"
   - "theme/higher-order-thinking"
 related_concepts:
+  - "[[Scaffolding]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
   - "[[Epistemic Friction]]"
@@ -40,7 +41,6 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Variable]]"
   - "[[Generative Artificial Intelligence]]"
-  - "[[AI Hallucination]]"
 related_theories:
   - "[[Radical Constructivism]]"
 related_methods:
@@ -66,7 +66,7 @@ updated: 2026-09-02
 ## 定义
 
 > [!def] 核心定义
-> 结构化教学（Structured Teaching）指在教学设计与组织过程中，通过教师或教学系统建立清晰的目标导向、逻辑严密的认知支架（Scaffolding）、有序的课堂活动管理、即时的过程性反馈与理解监控，为学生提供清晰稳定的系统支持，同时维持高度能动的师生与人机交互的教学[[Paradigm|范式]]。它既不是僵化单向的教师机械讲授，也不是把所有责任全盘推给学生的放任式自学，而是在结构化支持（Structure）与能动性互动（Interaction）之间形成动态平衡，并依据学生的自我调节水平与任务复杂度弹性调整支架强度。[[Argument_Håkansson_2015_TT|(Håkansson, 2015a, pp. 584–585, 592–595)]]; [[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 1, 10–13)]]
+> 结构化教学（Structured Teaching）指在教学设计与组织过程中，通过教师或教学系统建立清晰的目标导向、逻辑严密的[[Scaffolding|认知支架]]（Scaffolding）、有序的课堂活动管理、即时的过程性反馈与理解监控，为学生提供清晰稳定的系统支持，同时维持高度能动的师生与人机交互的教学[[Paradigm|范式]]。它既不是僵化单向的教师机械讲授，也不是把所有责任全盘推给学生的放任式自学，而是在结构化支持（Structure）与能动性互动（Interaction）之间形成动态平衡，并依据学生的自我调节水平与任务复杂度弹性调整支架强度。[[Argument_Håkansson_2015_TT|(Håkansson, 2015a, pp. 584–585, 592–595)]]; [[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 1, 10–13)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 教学结构不仅是维持课堂秩序的外部纪律手段，更是剥离机械外在认知负荷、维持[[Epistemology|认识论]]摩擦（[[Epistemic Friction]]）、引导深层[[Higher-Order Thinking Skills|高阶思维]]推理的脚手架体系。
@@ -106,7 +106,7 @@ updated: 2026-09-02
 ## 核心要素
 
 > [!feature] 结构化教学的核心构件
-> - **清晰目标导向与对齐认知支架（Aligned Cognitive Scaffolds）** 明确短期与长期的认知进阶目标，为分析或生成任务提供分步支架与评价量规，使学生清晰把握学习方向与评价标准。[[Argument_Håkansson_2015_TT|(Håkansson, 2015a, p. 592)]]; [[Argument_Li_2026_CEAI|(Li et al., 2026, p. 11)]]
+> - **清晰目标导向与对齐[[Scaffolding|认知支架]]（Aligned Cognitive Scaffolds）** 明确短期与长期的认知进阶目标，为分析或生成任务提供分步支架与评价量规，使学生清晰把握学习方向与评价标准。[[Argument_Håkansson_2015_TT|(Håkansson, 2015a, p. 592)]]; [[Argument_Li_2026_CEAI|(Li et al., 2026, p. 11)]]
 > - **教师清晰领导与反思引导（Teacher Leadership & Reflexive Guidance）** 教师承担课堂流程组织、关键概念解构与高阶推理示范的领导职责，确保学习活动始终聚焦核心学科思想与[[Epistemology|认识论]]标准。[[Argument_Håkansson_2015_TT|(Håkansson, 2015a, pp. 590–592)]]
 > - **递归探究任务闭环（Recursive Inquiry Cycles）** 设计“人脑构想 $	o$ 工具/AI 发散扩展 $	o$ 批判性事实核查 $	o$ 迭代重构 $	o$ 综合辩护”的结构化任务流程，避免单向交差。[[Argument_Li_2026_CEAI|(Li et al., 2026, p. 12)]]
 > - **多源反馈与理解监控（Multi-Source [[Feedback]] & Comprehension Monitoring）** 整合智能系统的形成性评语、教师专业点拨、同伴深度质询与自我认知校准，构建四维一体的反馈生态网络。
@@ -144,7 +144,7 @@ updated: 2026-09-02
 ### 命题一　结构化教学是高阶认知发展的决定性调节中介而非单纯的形式约束
 
 > [!concept-lens] 教学结构对高阶心智的赋能机制
-> 探讨教学设计中外在结构的设立如何为内部高级心理机能的运转与师生深度互动提供不可或缺的认知支架。
+> 探讨教学设计中外在结构的设立如何为内部高级心理机能的运转与师生深度互动提供不可或缺的[[Scaffolding|认知支架]]。
 
 > [!claim] [[Argument_Håkansson_2015_TT|Håkansson (2015a)]]
 > **结构与互动的共生性** 比较[[Meta-meta-analysis|元综合]]表明，教学质量的高级维度是由“结构”与“互动”共同定义的。教师对教学目标、内容序列、时间管理与反馈机制的清晰结构化组织，绝非对学生思维的禁锢，反而为高质量的师生深度[[Dialogue in Education|对话]]、生生合作与学生探究提供了必要的安全边界与认知基础。[[Argument_Håkansson_2015_TT|(Håkansson, 2015a, pp. 584, 595–596)]]
@@ -196,7 +196,7 @@ updated: 2026-09-02
 > [!dev-timeline] 概念演变脉络
 > - **2011 — 政策口号引入与教师领导重提** 瑞典 2011 年课程改革（Lgr 11）与教育条例正式引入“结构化教学（structured teaching）”，作为扭转国际测评（[[PISA]]）成绩下滑、重塑教师课堂组织与领导职责的政策要求。[[Argument_Håkansson_2015_TT|(Håkansson, 2015a, pp. 584–585)]]
 > - **2015 — 比较[[Meta-meta-analysis|元综合]]与“结构—互动”教学论重构** Håkansson 基于 43 项国际与本土教学研究综述，将结构化教学从模糊的政策口号提炼为“教师结构与能动互动的动态平衡”，澄清了其与[[Direct Instruction|直接教学]]及讲坛式灌输的本质区别。[[Argument_Håkansson_2015_TT|(Håkansson, 2015a)]]
-> - **2026 — 智能[[Technology Infusion|技术整合]]与高等教育认知支架[[Paradigm|范式]]跃迁** Li et al. 在生成式 AI 与[[Higher-Order Thinking Skills|高阶思维]][[Systematic Review|系统综述]]中深化了结构化教学的内涵，将其发展为涵盖提示词链追踪、递归探究任务闭环、多源反馈生态的人机协同教学规制，确立了其防范算法心智侵蚀的关键防御价值。[[Argument_Li_2026_CEAI|(Li et al., 2026)]]
+> - **2026 — 智能[[Technology Infusion|技术整合]]与高等教育[[Scaffolding|认知支架]][[Paradigm|范式]]跃迁** Li et al. 在生成式 AI 与[[Higher-Order Thinking Skills|高阶思维]][[Systematic Review|系统综述]]中深化了结构化教学的内涵，将其发展为涵盖提示词链追踪、递归探究任务闭环、多源反馈生态的人机协同教学规制，确立了其防范算法心智侵蚀的关键防御价值。[[Argument_Li_2026_CEAI|(Li et al., 2026)]]
 
 ---
 
@@ -238,10 +238,10 @@ updated: 2026-09-02
 > [!example] 典型教学与干预案例
 > - **基础教育中平衡结构与自主的课堂组织（[[Argument_Håkansson_2015_TT|Håkansson, 2015a]]）**
 >   - **全班目标导入与示范** 教师用 10 分钟清晰阐明本课核心探究目标、评价量规与解题示范；
->   - **小组合作与结对探究** 学生在明确的任务脚手架下展开自主讨论与任务实践，教师巡视并实施针对性理解检查；
+>   - **小组合作与结对探究** 学生在明确的任务[[Scaffolding|脚手架]]下展开自主讨论与任务实践，教师巡视并实施针对性理解检查；
 >   - **反馈收束与反思总结** 教师引导全班汇总关键概念网络，提供纠正性反馈，确保知识系统化。
 > - **高等教育生成式 AI 结构化递归探究教学（[[Argument_Li_2026_CEAI|Li et al., 2026]]）**
->   - **基于 ADDIE 与创意写作框架的教学干预（Cake, 2025; Abdelmagid et al., 2025）** 要求学生先独立拟定初始构想，再利用大模型发散视角，随后依据评分量规开展自我批判与去[[AI Hallucination|幻觉]]事实核查；
+>   - **基于 ADDIE 与创意写作框架的教学干预（Cake, 2025; Abdelmagid et al., 2025）** 要求学生先独立拟定初始构想，再利用大模型发散视角，随后依据评分量规开展自我批判与去幻觉事实核查；
 >   - **提示词迭代链（Prompt Trail）与反思日志** 强制要求考核提交提示词修改历史与人机[[Dialogue in Education|对话]]辩护记录，将评价重心锚定在反思过程本身。
 
 ---

@@ -16,7 +16,6 @@ tags:
 - theory/comparative-education
 - paradigm/historical
 related_concepts:
-  - "[[AI Hallucination]]"
   - "[[Epistemology]]"
   - "[[Paradigm]]"
   - "[[Agendas of Attention]]"
@@ -38,6 +37,7 @@ related_theories:
 related_methods: []
 related_persons:
   - "[[Robert Cowen]]"
+  - "[[Horace Mann]]"
 related_facts:
   - "[[PISA]]"
 related_arguments:
@@ -60,7 +60,7 @@ updated: 2026-08-20
 
 > [!concept-lens] 概念透镜
 > - **含义** 指学科对外部地缘政治冲突和全球经济秩序的宏观叙事回应。它阐明比较教育从来不是真空中发展的中立学科，而是地缘政治秩序的晴雨表。(pp. 330–331)
-> - **用途** 用于解构比较教育作为客观中立咨询或纯粹科学的合法化[[AI Hallucination|幻觉]]，揭示学术研究注意力随大国博弈和世界秩序起舞的共谋本质。(p. 331)
+> - **用途** 用于解构比较教育作为客观中立咨询或纯粹科学的合法化幻觉，揭示学术研究注意力随大国博弈和世界秩序起舞的共谋本质。(p. 331)
 > - **边界** 区别于[[Epistemology|认识论]][[Paradigm|范式]]（如四种理解形式）——认识论范式关注学科“如何理解”教育现象，而全球解读关注学科在特定时代所选取的“全球背景板”与[[Agendas of Attention|注意力议程]]。(p. 332)
 
 ---
@@ -78,7 +78,7 @@ updated: 2026-08-20
 ## 核心要素
 
 > [!dev-timeline] 全球解读的历史分期演变
-> - **18世纪末至19世纪末 — 世俗化与民族国家建构** 最早的全球解读源于世俗化阅读，紧密连接革命政治、国家形成与新民族主义及其教育含义。这一时期的教育行政者（如美国的 Horace Mann and William Torrey Harris、英国的 James Kay-Shuttleworth、加拿大的 Egerton Ryerson 等）海外考察的目的，是为了发明适合传播初等教育和培训教师的国民制度（如对普鲁士国民教育模式的借用与改版）。([[Argument_Cowen_2023_CE|Cowen, 2023, p. 331]])
+> - **18世纪末至19世纪末 — 世俗化与民族国家建构** 最早的全球解读源于世俗化阅读，紧密连接革命政治、国家形成与新民族主义及其教育含义。这一时期的教育行政者（如美国的 [[Horace Mann]] and William Torrey Harris、英国的 James Kay-Shuttleworth、加拿大的 Egerton Ryerson 等）海外考察的目的，是为了发明适合传播初等教育和培训教师的国民制度（如对普鲁士国民教育模式的借用与改版）。([[Argument_Cowen_2023_CE|Cowen, 2023, p. 331]])
 > - **19世纪末至一战前 — 工业竞争与维持帝国** 注意力转向工业革命的长期后果、国际经济竞争及教育系统的重新定义，以维持帝国主义。对外考察与变得现代（或保持本真的斯拉夫或日本身份，如日本明治维新与俄罗斯斯拉夫派的理论抵制）紧密相连，外国系统成为现代性焦虑的投射。(p. 331)
 > - **两次世界大战之间 — 意识形态对立与专业沉默** 这一时期对法西斯主义和共产主义政治的专业比较工作极少，形成了学术上显著的沉默期。(p. 331)
 > - **1945年后至冷战时期 — 重建、平等与冷战测评竞争** 战后[[Document|文献]]展现出明确的分期模式，随着地缘政治秩序演进包含四个子阶段：

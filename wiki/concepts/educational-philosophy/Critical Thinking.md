@@ -6,7 +6,7 @@ aliases:
 summary: "以理由权衡、有目的的反思判断和自我调节为核心，统合认知技能、思维倾向、领域知识与情境标准；在教育研究中用于设计教学、界定学习结果并检验课程与评估的构念效度。"
 type: concept
 domain: "educational-philosophy"
-related_count: 96
+related_count: 97
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -34,6 +34,8 @@ related_concepts:
   - "[[Definition of Terms]]"
   - "[[Metacognition]]"
   - "[[Reflective Thinking]]"
+  - "[[Blended Learning]]"
+  - "[[Scaffolding]]"
   - "[[Cooperative Learning]]"
   - "[[Academic Achievement]]"
   - "[[Affective Outcomes]]"
@@ -47,7 +49,6 @@ related_concepts:
   - "[[Epistemic Friction]]"
   - "[[Socratic Dialogue]]"
   - "[[Working Memory]]"
-  - "[[AI Hallucination]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Self-Regulated Learning]]"
   - "[[Learning Gain]]"
@@ -227,7 +228,7 @@ updated: 2026-09-05
 > 研究关注批判性思维是否需要被明确命名、示范和练习，以及独立课程获得的策略如何与学科知识、教师能力和学校组织结合。
 
 > [!claim] Abrami, P. C., et al.; Marin, L. M., & Halpern, D. F.; Behar-Horenstein, L. S., & Niu, L.
-> **显性教学与复合策略优势** [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] [[Meta-analysis|元分析]]证实显性混合教学模式（独立思维教学 + 学科融入）显著优于单纯隐性沉浸模式；同时，将[[Authentic Instruction|真实性教学]]（应用型解题与[[Role-playing|角色扮演]]）、深度[[Dialogue in Education|对话]]与导师指导整合的三维复合干预产生最高增益，揭示了显性示范、情境锚定与过程脚手架的协同机制。Abrami et al. (2008) 早期元分析与 Behar-Horenstein & Niu (2011) 高教干预[[Systematic Review|系统综述]]亦一致证实，唯有明确界定高阶认知目标并结合显性示范，才能产生稳定增益。Marin and Halpern 在低表现学校开展的[[Randomised Controlled Trials|随机对照实验]]也发现，显性教学组的技能增益显著更大。[[Argument_Abrami_2015_RER|(Abrami et al., 2015, pp. 293–295)]] [[Argument_Cole_2015_AJE|(Cole et al., 2015, pp. 249–250)]] [[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 33)]]
+> **显性教学与复合策略优势** [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] [[Meta-analysis|元分析]]证实显性[[Blended Learning|混合教学]]模式（独立思维教学 + 学科融入）显著优于单纯隐性沉浸模式；同时，将[[Authentic Instruction|真实性教学]]（应用型解题与[[Role-playing|角色扮演]]）、深度[[Dialogue in Education|对话]]与导师指导整合的三维复合干预产生最高增益，揭示了显性示范、情境锚定与过程[[Scaffolding|脚手架]]的协同机制。Abrami et al. (2008) 早期元分析与 Behar-Horenstein & Niu (2011) 高教干预[[Systematic Review|系统综述]]亦一致证实，唯有明确界定高阶认知目标并结合显性示范，才能产生稳定增益。Marin and Halpern 在低表现学校开展的[[Randomised Controlled Trials|随机对照实验]]也发现，显性教学组的技能增益显著更大。[[Argument_Abrami_2015_RER|(Abrami et al., 2015, pp. 293–295)]] [[Argument_Cole_2015_AJE|(Cole et al., 2015, pp. 249–250)]] [[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 33)]]
 
 > [!claim] Willingham, D. T.; Bailin, S.; Cole, D. R., et al.
 > **知识与实施约束** 历史、科学及其他领域采用不同的证据和论证标准，学生需要足够的背景知识才能运用通用策略。Cole 等人的学校案例进一步显示，同一 ToK 框架可产生高度整合或近乎随意的课堂实践。课程形式只有与领域知识、教师培训、学校文化和跨学科协作结合，才可能稳定支持批判性思维。[[Argument_Cole_2015_AJE|(Cole et al., 2015, pp. 249–250, 255–259)]]
@@ -283,7 +284,7 @@ updated: 2026-09-05
 > **显性三步反思规程与人机对话对批判性论证深化的实证确证** Strobl et al. (2024) 在二语学术写作中设计的“批判性评估（标记可疑处） $\to$ 理由辩护（解释采纳/拒绝依据） $\to$ 独立改写”三步反思规程，强制学生维持认知摩擦，使写作逻辑严密性与证据充分性显著跃升；Fan et al. (2025) 亦证实，结构化人机多轮追问能显著提升学生在复杂科学任务中的批判性质询深度与反思倾向。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 6, 11)]]
 
 > [!claim] Zhao et al.
-> **AI 错误引发的批判反思契机与思维提升** 基于实验与准实验的一阶[[Meta-analysis|元分析]]证实，生成式 AI 对学生批判性思维具有显著促进作用（$g = 0.691$）。研究揭示出独特的促学机制：在合理的教学引导下（如人机对抗辩论），生成式 AI 偶尔出现的[[AI Hallucination|事实错误与算法幻觉]]非但没有成为学习阻碍，反而成了一个绝佳的反思训练场景；正因为 AI 会犯错，促使学生不敢再盲从它的回答，而是主动查阅[[Primary and Secondary Documents|一手文献]]核实证据、寻找逻辑漏洞并展开质疑。但这种批判性思维的提升高度依赖学生的[[Self-Regulated Learning|自主调节学习]]能力，缺乏自律和反思习惯的学生更容易被虚假信息误导。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 10–13, 15–16)]]
+> **AI 错误引发的批判反思契机与思维提升** 基于实验与准实验的一阶[[Meta-analysis|元分析]]证实，生成式 AI 对学生批判性思维具有显著促进作用（$g = 0.691$）。研究揭示出独特的促学机制：在合理的教学引导下（如人机对抗辩论），生成式 AI 偶尔出现的事实错误与算法幻觉非但没有成为学习阻碍，反而成了一个绝佳的反思训练场景；正因为 AI 会犯错，促使学生不敢再盲从它的回答，而是主动查阅[[Primary and Secondary Documents|一手文献]]核实证据、寻找逻辑漏洞并展开质疑。但这种批判性思维的提升高度依赖学生的[[Self-Regulated Learning|自主调节学习]]能力，缺乏自律和反思习惯的学生更容易被虚假信息误导。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 10–13, 15–16)]]
 
 ### 命题总览
 
@@ -337,7 +338,7 @@ updated: 2026-09-05
 > - **科学知识传播立场** 学校科学教育承担传授关于物质世界之可靠知识的责任，因此会为开放质疑设置学科内容和规范边界。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, pp. 179–180)]]
 >
 > > [!axis] 算法表面顺滑性 vs [[Epistemology|认识论]]摩擦维持
-> > 生成式 AI 输出的极度流畅与自信表象极大降低了思维门槛，但容易钝化学生的反思审视与怀疑本能；唯有在教学中主动设计对抗性查错与论据辩护等“[[Epistemic Friction|认识论摩擦]]”，才能维系批判性思维的[[Growth|生长]]（[[Argument_Li_2026_CEAI|Li et al., 2026]]; Medina, 2013）；同时，[[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] [[Meta-analysis|元分析]]实证表明，在对抗性探究中偶发算法[[AI Hallucination|幻觉]]反而能反向激发[[Epistemological Vigilance|认识论警觉]]（$g = 0.691$），将 AI 转化为批判论辩的高效磨刀石。
+> > 生成式 AI 输出的极度流畅与自信表象极大降低了思维门槛，但容易钝化学生的反思审视与怀疑本能；唯有在教学中主动设计对抗性查错与论据辩护等“[[Epistemic Friction|认识论摩擦]]”，才能维系批判性思维的[[Growth|生长]]（[[Argument_Li_2026_CEAI|Li et al., 2026]]; Medina, 2013）；同时，[[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] [[Meta-analysis|元分析]]实证表明，在对抗性探究中偶发算法幻觉反而能反向激发[[Epistemological Vigilance|认识论警觉]]（$g = 0.691$），将 AI 转化为批判论辩的高效磨刀石。
 
 > [!warning] 教学与改革边界
 > - 高中生的认知发展水平可能限制证据比较和决策标准阐明，课程目标与评估要求需要考虑发展适切性。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, pp. 173–174)]]

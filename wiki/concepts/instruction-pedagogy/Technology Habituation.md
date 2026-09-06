@@ -7,7 +7,7 @@ aliases:
 summary: "英国皇家学会在《科学造福社会》报告中提出的前沿科技教育理念，主张在中小学阶段通过专项资助实现人工智能、增强现实与先进制造等颠覆性技术的常态化、低门槛动手接触，使其成为如铅笔般日常的思维工具，从而在根本上去神秘化并消解社会信任赤字"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 17
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Disciplina and Doctrina]]"
   - "[[AI Literacy]]"
-  - "[[AI Hallucination]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Creativity]]"
   - "[[Social License to Operate]]"
@@ -84,7 +83,7 @@ updated: 2026-09-04
 
 > [!feature] 核心实施维度
 > - **普惠硬件与算力基础设施兜底** 国家设立专项基建基金，确保弱势地区及偏远工薪学校与中心城市名校享有完全平等的先进数字制造与 AI 工具接入通道，防止技术[[Habituation|习惯化]]沦为精英阶层的特权。
-> - **教学法的“去神秘化”（Demystification）** 抛弃把技术神化为“黑箱全能神”的教学偏向，通过指导学生亲手标注训练数据、调整参数、观察模型[[AI Hallucination|幻觉]]与算法偏误，直观理解前沿技术的实证运作机制与局限性。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026, p. 60)]]
+> - **教学法的“去神秘化”（Demystification）** 抛弃把技术神化为“黑箱全能神”的教学偏向，通过指导学生亲手标注训练数据、调整参数、观察模型幻觉与算法偏误，直观理解前沿技术的实证运作机制与局限性。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026, p. 60)]]
 > - **防范[[Cognitive Offloading|认知外包]]的批判性放大原则** 确保学生利用前沿技术来放大人类[[Higher-Order Thinking Skills|高阶思维]]与[[Creativity|创造力]]，而非替代独立阅读、批判反思与基础论证能力。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 32)]]
 
 > [!logic-map]- 从技术神秘到自主能动的发展路径

@@ -55,8 +55,8 @@ related_concepts:
   - "[[Presence]]"
   - "[[Externalization]]"
   - "[[Epoché]]"
-  - "[[AI Hallucination]]"
   - "[[Dialogue in Education]]"
+  - "[[Scaffolding]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Research Question]]"
   - "[[Questionnaire]]"
@@ -271,7 +271,7 @@ updated: '2026-08-27'
 #### 在场感、沉浸感与共在感
 
 > [!def] [[Presence|在场感]]与共在感
-> 使用互动或非互动媒体将自我[[Externalization|外化]]并在并非物理在场的环境中创建在场印象，依赖于**"自愿[[Epoché|悬置]]不信任"（willing suspension of disbelief, Coleridge, 1817）**以创建**"视角的[[AI Hallucination|幻觉]]性转移"（illusory shift in point of view, Dennett, 1978, p. 312）**，以及我们在体验中使用自身知识、想象力和热情（Zhao, 2003）。
+> 使用互动或非互动媒体将自我[[Externalization|外化]]并在并非物理在场的环境中创建在场印象，依赖于**"自愿[[Epoché|悬置]]不信任"（willing suspension of disbelief, Coleridge, 1817）**以创建**"视角的幻觉性转移"（illusory shift in point of view, Dennett, 1978, p. 312）**，以及我们在体验中使用自身知识、想象力和热情（Zhao, 2003）。
 >
 > 在场感可能是**高度个体化的**，并取决于环境内呈现的感觉信息以及用户对环境的控制水平（Sheridan, 1992; Ijsselsteijn et al., 2000; Sadowski & Stanney, 2002）。**沉浸式体验（immersive experience）**的出现条件是：当环境中的在场感被其对物理现实的整体表面保真度加强时（Slater & Steed, 2000），尽管这不必须是以自我为中心或计算机中介的；当身临其境感被在那里能理解（making sense there）的总体响应增强时出现（Schuemie et al., 2001; Riva et al., 2003）。
 >
@@ -352,7 +352,7 @@ updated: '2026-08-27'
 > - **更多参与者数据收集**
 >   虚拟世界允许研究者通过捕获文本、聊天和用户演示（来自在线环境）以及活动录像，收集比传统课堂通常可能收集到的更多参与者数据。
 > - **沟通困难个体的数据收集**
->   通过提供**脚手架式词汇（scaffolded vocabulary）**，研究者可以更容易地从沟通困难个体收集数据。在这些环境中，目前较少的数据量（缺乏微妙的面部或身体语言沟通）和较慢的沟通节奏可能是有利的（Ravenscroft & McAllister, 2006）。
+>   通过提供**[[Scaffolding|脚手架]]式词汇（scaffolded vocabulary）**，研究者可以更容易地从沟通困难个体收集数据。在这些环境中，目前较少的数据量（缺乏微妙的面部或身体语言沟通）和较慢的沟通节奏可能是有利的（Ravenscroft & McAllister, 2006）。
 > - **多通道数据[[Triangulation|三角验证]]**
 >   虚拟世界中的沟通，通过文字、聊天、语音和手势，都可以通过**录音和[[Transcription in Qualitative Research|转录]]**捕获以供后续分析。由于数据可以**加盖时间戳（time-stamped）**，可以从不同沟通渠道的分析结果比较中以实现数据三角验证（Martin & Vallance, 2008; Vallance & Wiz, 2008）。
 > - **量化与质性分析双路径**

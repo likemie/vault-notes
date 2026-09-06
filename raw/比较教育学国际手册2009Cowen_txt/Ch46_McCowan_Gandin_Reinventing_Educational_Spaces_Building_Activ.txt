@@ -1,0 +1,800 @@
+================================================================================
+Chapter 46: Reinventing Educational Spaces, Building Active Citizenship: Two Brazilian Experiences
+Author(s): Tristan McCowan and Luís Armando Gandin
+Handbook: International Handbook of Comparative Education (2009)
+Editors: Robert Cowen and Andreas M. Kazamias (Section Editor: Elaine Unterhalter)
+Section: Section 5: Postcolonialism
+Book Pages: pp. 715–732
+PDF Pages: pp. 709–726 (in raw/比较教育学国际手册2009Cowen.pdf)
+================================================================================
+
+--- [PDF Page 709 / Book Page 715] ---
+
+46
+REINVENTING EDUCATIONAL SPACES,
+BUILDING ACTIVE CITIZENSHIP:
+TWO BRAZILIAN EXPERIENCES
+Tristan McCowan and Luís Armando Gandin
+
+Introduction
+When Leslie Bethell (2000) states that, “Brazil is a democracy of voters, not yet a
+democracy of citizens”, he is highlighting two significant aspects of the country.
+Firstly, the fact that all people can vote in Brazil, and nearly all do (it is obligatory
+for those aged 18–70), is indicative of a range of advances in the twentieth-century that
+ensured universal formal rights. The Constitution of 1988 and the Statute of the Child
+and the Adolescent of 1990 form part of an edifice of official guarantees to the people, including that of compulsory education from 7 to 14 years. Yet the progressive
+and enlightened nature of much Brazilian legislation and institutional structures is
+matched by the ineffectiveness and incompleteness of their implementation. Civil
+rights are generally upheld only in proportion to the wealth of the individuals involved,
+and the poorest have next to no social rights. In the political sphere, there is formal,
+but not effective, participation.
+In general terms, it is possible to see citizenship as consisting of two strands: the
+passive, relating to the set of rights that the State guarantees to uphold for the individual, and the active, relating to the participation of the individual in the functioning
+of the State. The two major paradigms of citizenship – liberal and civic republican
+– each focus principally on one of these two elements, the former on rights and the
+latter on active participation (Heater, 1999; Kymlicka, 2002). Yet it can be argued that
+citizenship will only be effective if attention is paid to both, with citizens ensured of
+their civil, political and social rights (in T. H. Marshall’s [1950] conception) and taking
+an active part in decision-making, whether at the local or national level.
+Education is related to both these strands of citizenship. Firstly, it is itself a right
+(though the nature and extent of that right may be strongly contested) and as such,
+citizenship makes necessary the provision of at least basic education for all. Yet education is also a means to ensuring the second strand. Effective participation cannot be
+‘granted’ to citizens (even though the State can make efforts to remove formal barriers).
+It depends on knowledge, skills and dispositions that must be developed internally and
+thus will occur largely through formal or informal education. Importantly, therefore,
+effective citizenship raises questions over the quantity and quality of schooling, the
+access to educational provision and its nature or orientation.
+715
+R. Cowen and A. M. Kazamias (eds.), International Handbook of Comparative Education, 715–732.
+© Springer Science + Business Media B.V. 2009
+
+--- [PDF Page 710 / Book Page 716] ---
+
+716 McCowan and Gandin
+
+In addition, we can distinguish between weak and strong forms of political
+participation (McCowan, 2006a). Current democratic systems for the most part allow
+citizens freedom of choice among candidates and policies. Yet these political options
+are embedded in a deeper framework of social, economic and political structures and
+relations which are fundamental to the running of the polity but which are rarely questioned. Strong forms of citizenship (truly critical forms) will allow these underlying
+orientations of society, the questioning of which is often taboo, to be open for rethinking
+and reinvention.
+The above analysis, however, shows a certain universalist tendency, one which
+Unterhalter (1999, pp. 102–103) calls, “an appeal to an abstract concept of the citizen, stripped of all qualities save subjective rationality and morality”, and which can
+“maintain and perpetuate social divisions based on gender, race ethnicity, sexuality
+and disability”. Discussion of citizenship must balance the need for universal rights
+and participation with the claims of particular groups for recognition of difference.
+Formal equality may mask inequalities and discrimination in practice. People with
+disabilities, for example, may have specific requirements to enable them to participate on an equal footing in the political sphere. Policies may be needed to address
+histories of discrimination on the basis of gender and race. This provision may not be
+easy to achieve: identity has an uneasy relationship with citizenship, since the latter
+unavoidably entails some abstraction from specific characteristics towards the general
+characteristics of membership of a polity.
+The history of Brazil has not provided fertile ground for the flowering of citizenship.
+Each of its periods – successively characterized by colonization, authoritarianism and
+neo-liberalism – has limited both the aspects of extending rights and equipping people
+for active participation. After independence in 1821, it was well over half a century
+before slavery was abolished in 1888. Since then, there have been two periods of dictatorship, from 1937–1945 and 1964–1985, and stuttering advances towards democracy
+in between. Despite significant democratization since 1985, social inequalities remain
+acute. Brazil in 2006 was ranked 10th most unequal country on the Gini scale, with
+the top 10% of society having a 58 times greater share of wealth than the bottom 10%
+(UNDP, 2006).
+This historical background is important in understanding the current educational context in Brazil. The country’s unique scenario is a product of long-lasting
+battles between progressives and traditionalists on the one hand and between the
+elites and working classes on the other. In the colonial period, opportunities were
+few and far between, even for the wealthy, who as a general rule sent their children
+to be educated in Europe. After a slow expansion of provision in the nineteenth
+century, a new momentum came with the formation of the Republic, as faith grew
+in the importance of universal schooling and the role of formal education in promoting technological advances (Havighurst & Moreira, 1965). Yet it was only with
+the rapid economic growth of the years after the Second World War that significant
+quantitative gains were made, and these continued until near universal primary
+enrolment was achieved by the end of the century (secondary and higher education
+gross enrolments are less impressive, standing at 75% and 20% respectively –
+UNESCO, 2004; INEP, 20031).
+
+--- [PDF Page 711 / Book Page 717] ---
+
+Reinventing Educational Spaces, Building Active Citizenship 717
+
+However, while these quantitative gains are welcome, they hide deep and widespread
+problems of quality. Curriculum in Brazil has traditionally been characterized by an
+allegiance to inert academic learning with little relevance to the local context. The
+Escola Nova (new school) movement in the first half of the twentieth century, led
+by Anísio Teixeira, consequently attempted to inject new life into schools, promoting expression, investigation and problem-solving relating to current issues. These
+reforms, however, did not affect the majority of educational provision (Louro, 1986).
+Moreover, in addition to these ‘soft’ elements, the movement had a ‘hard’ side of
+pragmatic instrumentalism, paving the way for the later technicist approaches of the
+military dictatorship. Ironically, it was during the two periods of the twentieth century
+in which direct elections were suspended – first the Vargas period from 1937 and later
+after the military coup of 1964 – that citizenship became an explicit part of the curriculum. Yet this was a form of citizenship education that fostered neither rights nor
+critical participation. Educação Moral e Cívica (Moral and Civic Education) became
+a compulsory subject, promoting a conservative patriotism, one which valued duties
+over rights and the glory of the nation over justice for all its members.
+After 1985, direct elections returned and the country experienced a considerable
+opening of democratic spaces and emergence of social movements. This period coincides with the worldwide rise of an economic policy framework commonly termed
+‘neo-liberalism’, which, while to a lesser extent than in other Latin American countries
+such as Chile, brought significant changes in Brazilian society. During the administration of Fernando Henrique Cardoso (1994–2002) public spending in education was
+focused increasingly on the primary level, in accordance with the recommendations
+of the World Bank and other international agencies, with private providers increasing
+their share at post-compulsory levels. This succeeded in bringing high levels of commercialization in higher education, and despite steady gains in primary enrolments,
+did not resolve problems of quality, with severe lack of resources and high levels of
+unqualified teachers in the poorer regions of the country (Gentili, 1995; Gentili &
+Frigotto, 2000).
+A new paradigm of citizenship emerges in this final period. The political sphere
+appears to be subordinated to the economic, with the free market becoming the model
+system of public services. The citizen is thereby identified with the consumer, making
+choices among a number of competing services, but limited, of course, by purchasing
+power. While the citizen of the authoritarian regime was disempowered by repression
+and a lack of political rights, the consumer-citizen is disempowered in more subtle
+ways. Having been granted the semblance of power through choice (the ‘parent power’
+of UK government discourse) the consumer-citizen surrenders the potential power of
+collective organization, democratic deliberation and peaceful protest.
+Effective citizenship in Brazil today is threatened by both the paradigms of authoritarianism and neo-liberalism. This chapter explores two educational initiatives, which,
+in different ways, aim to challenge these frameworks and form new conceptions
+of citizenship in their place. The first is the Movement of Landless Rural Workers
+(MST2), a social movement that has campaigned for agrarian reform since its founding
+in 1984, and which has established a nationwide network of schools in its cooperative settlements. The second is the Citizen School, an initiative implemented by the
+
+--- [PDF Page 712 / Book Page 718] ---
+
+718 McCowan and Gandin
+
+municipal government of Porto Alegre, aiming to combat educational exclusion. These
+are distinct in significant ways: the MST is a social movement and one working in
+rural areas, while the Citizen School is an urban government-led programme. Yet they
+share the feature of belonging to a broad popular movement of social and educational
+reform that emerged towards the end of the military dictatorship. In the process of
+re-democratization, the establishment of the Constitution and the National Educational
+Plan, sections of Brazilian civil society experienced high levels of mobilization and
+created a number of spaces for participatory democracy (Gentili & McCowan, 2003).
+Numerous trade unions and social movements were formed to represent the interests of particular groups which had been marginalized in previous decades. Forums
+such as the CONEDs (National Congresses of Education) and the World Social and
+Education Forums in Porto Alegre created national and international focal points for
+campaigns. Local governments around the country developed new forms of participatory policy (e.g., Gandin & Apple, 2002; McCowan, 2006b): in this the Workers’
+Party (PT) has been particularly influential, its achievements at the local level being in
+many ways more noteworthy than those at the national level. Underlying many of these
+new initiatives in the educational sphere is the thought of Paulo Freire (1972, 1985,
+1994), whose vision of transformatory pedagogy has built faith in the possibility of
+change in adverse contexts. Freire himself participated actively in this transformation
+as Secretary of Education of the municipality of São Paulo from 1989 to 1991.
+The following sections will explore the two initiatives in turn, and assess their possibilities and limitations in challenging authoritarian and market-based conceptions of
+citizenship, and for building new forms in their place, ones which can ensure both the
+guarantee of rights and active participation. The final section will discuss some broader
+questions arising from the analysis concerning the relationship between education and
+democratic citizenship in the context of the extreme political marginalization characteristic of many countries of the global South.
+
+Education in the Movement of Landless
+Rural Workers (MST)
+The MST is widely recognized as the largest and most influential social movement in
+Latin America. It grew out of the actions of scattered peasant uprisings and progressive wings of the Catholic Church responding to the urgent need for agrarian reform.
+In Brazil, approximately 1% of landowners control 50% of farmland, while there are
+as many as 4.5 million landless peasants (Brandford & Rocha, 2002; Caldart, 2000).
+Many of those forced off the land have migrated towards a new form of poverty in the
+growing urban favelas. The movement was officially founded in 1984 and functioned initially in the south of the country, although now it has spread to 23 of Brazil’s 273 states.
+Central to the movement’s activities is land occupation, whereby a group of families
+squats on unused agricultural land in one of the large estates. An acampamento (camp)
+is formed, in which high levels of organization and cooperation are required to sustain the itinerant community. The Brazilian Constitution states that idle farmland must
+be allocated for land reform, and after long struggles with the government, the
+
+--- [PDF Page 713 / Book Page 719] ---
+
+Reinventing Educational Spaces, Building Active Citizenship 719
+
+families will often win the right to stay. The acampamento then becomes an assentamento
+(settlement) and the families can begin to farm the land, which they do either individually
+or collectively.
+The aims of the MST, however, go beyond the winning of land for those without it. The
+movement is strongly committed to the transformation of society as a whole, replacing
+the unjust capitalist system with one in which all people can live and work in dignity,
+solidarity and equality (MST, 1995, 2001a). With time, the focus has moved from the
+local to the national level, and even to global issues such as world trade agreements
+and genetically modified organisms (Caldart, 2000). Soon after the first settlements
+were established it became clear that some form of educational provision would be
+necessary for the children of the landless. Furthermore, a large proportion of the adults
+were themselves illiterate and needed to develop basic skills to improve their agricultural work and enable effective political participation. Networks of primary schools
+slowly grew, along with adult literacy classes, staffed mainly by those few members of
+the community who had completed school. After struggles with local authorities, communities managed to have their schools officially recognized, and thereby gain state
+funding and provision of teachers and materials. Education soon became a key priority
+for the movement, and a network has been built up of 1,500 schools which over the
+years have provided for 160,000 children, and 28,000 in youth and adult education,
+as well as provision in infant education, technical secondary courses, teacher education and other HE courses in partnership with established universities (MST, 2005).
+Children with a similar socio-economic background in other contexts could expect no
+more than a few years of poor quality primary education.
+These quantitative gains are an achievement in themselves. Yet the aim of the MST
+is to transform the fundamental nature of education as well:
+Faced with the tradition of an elitist, authoritarian, bureaucratic, content-heavy,
+‘banking’4 school, with a narrow and pragmatist conception of education, [we
+have] the challenge of constructing a popular, democratic, flexible, dialogical
+school, a space for a holistic human development in movement. (MST, 2004)
+Firstly, for the MST there is a need to make schooling relevant to the rural population. This
+involves developing knowledge and skills relating to agricultural work, but also building pride in rural culture in the context of the predominantly urban values promoted
+by the media. An example of new approaches to knowledge is the ethnomathematics
+described by Knijnik (1996, 1998), in which local calculation methods – such as those
+of land area and the weight of agricultural produce – are integrated into the curriculum.
+The movement is also strongly influenced by the ideas of Paulo Freire, and attempts to
+maintain pedagogical relations based on dialogue, in which both students and teachers
+are engaged in a common process of learning and human development. Processes of
+Freirean dialogue are also means to the construction of democracy, since they embody
+respect for persons, the valuing of the knowledge and opinions of all and the provision
+of a site for expression. There is also an explicitly political element in MST education.
+The movement follows Freire (1972, 1994) in understanding that education cannot be
+neutral, and so as not to support the unjust status quo must actively promote justice and
+
+--- [PDF Page 714 / Book Page 720] ---
+
+720 McCowan and Gandin
+
+oppose oppression. While adult education allows for more developed forms of political
+discussion, the movement aims to promote a sense of justice and understanding of
+societal dynamics from the earliest phases of schooling. Another essential element is
+that education in the MST is organically linked to the social movement. Education,
+both formal and informal, is integral to achieving the goals of the individual communities and the movement as a whole. Beyond this, the movement itself can be seen as a
+school, and participation in the struggle for social justice the most important learning
+experience the landless people engage in.
+This final idea is best expressed by Roseli Caldart (2000, 1999), perhaps the most
+influential education theorist in the movement. In her work she explores the rich dialectic of the school in the movement and the movement as a school. One of her key
+motifs is pedagogy in movement in which she sees the educational work of the MST
+as one that is constantly being created and recreated by the practical experience of
+educators in acampamentos and assentamentos, in dialogue with theoretical influences. Another is the importance of the sem terra (landless) identity, which, following
+Thompson’s (1980) analysis of the English working class, she sees as fundamental to
+the development of the social movement as a political actor.
+Another distinctive aspect of MST education is the ‘mística’, referring to those
+activities designed to develop allegiance to the movement and its principles (MST,
+1999). Rituals enacting episodes in the movement’s history, anthem singing and
+use of the symbolic flag, among other activities, are encouraged to develop the
+emotional aspects of participating in the struggle for land reform. Tied to this is
+the importance given to history, in terms of world history in general in order to
+understand the root causes of social inequalities and specifically the history of the
+movement.
+In relation to the understanding of citizenship sketched above, therefore, the
+movement acts both to ensure the right of citizens to an education of quality, and
+also to empower citizens to participate fully in the political sphere. It is perhaps in this latter
+function that the movement is most distinctive, with political elements strongly integrated into the school curriculum, and with a wider context (the activities of the
+movement itself) in which these skills can be exercised. In relation to the weak and
+strong forms identified above, political participation is understood to involve challenging the core structures of society rather than simply exercising electoral choice
+within a given system. Citizenship is seen to depend on conscientization, the development of political consciousness together with action. One of the stated aims of
+education the movement is:
+[t]o awaken the organizational consciousness and spirit of leadership of the children, adolescents, educators and community, with political clarity in order to
+exercise citizenship. (MST, 2001b)
+Students develop this political consciousness and capacity for action through the participatory structures of the school itself. Pupils’ collectives and self-organizing work
+groups serve to give students an opportunity to develop deliberation and organizational
+skills, and have a real voice in the running of the school:
+
+--- [PDF Page 715 / Book Page 721] ---
+
+Reinventing Educational Spaces, Building Active Citizenship 721
+
+We understand by self-organization the right of pupils to organise themselves
+into collectives, with their own space and time, to analyse and discuss their own
+issues, to elaborate proposals and make their own decisions with a view to participating as subjects in the democratic management of the educative process,
+and of the school as a whole. (MST, 1999)
+Elsewhere it is stated:
+When people are given everything, dependence is reinforced and the person
+never becomes a subject. It is part of the process that people wanting to become
+literate organise themselves to achieve this objective. (MST, 1994)
+This self-organization is particularly evident in the movement’s teacher education
+provision, where the students are effectively required to construct and run their own
+courses (Caldart, 1997). The first formal courses were run in 1990, and in 1998 a
+higher education programme in teacher education was established, using a distinctive
+approach termed pedagogy of the land, responding to the specific political and environmental needs of the movement.
+In schools, participatory structures are also present for teachers, who, like the students, are themselves engaged in a process of collective transformation. Some schools,
+therefore, have horizontal management structures with the responsibilities of head
+teacher rotating among the members of staff. Participatory bodies also extend to the
+members of the community, who are involved in general assemblies, to determine the
+overall directions of the school, and are represented in the school council (or education
+team), where the details of the implementation are discussed. These structures serve
+to facilitate the running of the school, to integrate it more effectively in the life of the
+community and to provide a space for all community members, including the children,
+to develop skills of political participation (McCowan, 2003).
+Assessments of the achievements of the MST’s educational programmes vary. The sociologist José de Souza Martins has identified what he sees to be a fatal contradiction in the
+MST between the belief systems of the vanguard, mostly with a revolutionary Marxist
+vision, and the body of the landless people, rooted in traditional conservative and religious
+values (Martins, 2000). While this distinction may be an oversimplification, there certainly
+exist significant tensions between progressive and traditional values in the movement. One
+area in which this is apparent is gender. On the one hand, the movement has taken considerable strides to give women equal footing in decision-making. One of the movement’s six
+principal goals is “to combat all forms of social discrimination and seek the equal participation of women”. The National Sector of Gender has consequently been established to
+help achieve this aim within the movement. One structural manifestation of this goal is the
+requirement that one of the two delegates representing each community (and each state)
+must be a woman. By the year 2000, 9 of the 18 elected members of the national leadership
+were women, a considerable achievement in a country where less than 10% of the representatives in the Lower House and the Senate are female.
+Nevertheless, the traditional machista attitudes and practices of the wider society
+can still be seen within the movement, and women can struggle to be accepted in roles
+
+--- [PDF Page 716 / Book Page 722] ---
+
+722 McCowan and Gandin
+
+other than those of the home and child rearing. Education is seen by most as key to
+changing these deep-seated attitudes:
+Why should men’s work be valued more? There’s a great difference in the job
+market.… So we work with these issues in the camp, women and men being
+valued equally for going out to the fields. So in this way we break what the
+media has been giving us since the time of our ancestors. (Interview with Olga,
+educational coordinator)5
+The MST as yet has not paid great attention to other factors of wider social division
+such as race, disability and sexuality. While adopting a generally inclusive approach,
+it has yet to develop an effective strategy to ensure this in practice. As a whole,
+the movement tends towards universalist conceptions of citizenship, focusing on
+the ‘human’ as the fundamental underlying value (although it does recognize the
+specificities of the rural context). The struggle for land reform is seen as part of the
+wider class struggle, to which other forms of oppression, such as race and gender,
+are subordinated (MST, 2001a).
+The MST’s efforts in promoting effective citizenship are not, therefore, without
+problems. Another issue concerns the development of criticality, primarily conceived
+in terms of Freire’s conception of conscientization. Previous research (McCowan,
+2003) has shown that while the movement is successful in developing critical understanding and attitudes towards the government and State structures, it is less successful
+at doing so towards the movement itself. Given the extreme external threats facing
+the MST (particularly from landowners and their militias) and the need for internal
+unity for effective coordination, it is no surprise that critical attitudes can become a
+secondary priority. Some commentators (e.g., Navarro, 2001) have argued that uncritical political education is not uncommon in the movement, particularly in relation to
+young activists moving into positions of responsibility. At the school level, this is less
+common, though use of the mística may be problematic in this respect. The right-wing
+press (e.g., Weinberg, 2004), however, aiming to undermine the MST as a whole, has
+undoubtedly exaggerated the extent of ‘brainwashing’ in the movement. Moreover, as
+stated before, the MST adopts a Freirean approach to neutrality, and would consider any
+more ‘balanced’ approach to political education to be supportive of the status quo.
+Another issue concerns the running of its state-funded (mostly primary) schools. For
+the movement, this is problematic since the local authorities can impose teachers unfavourable to its aims and thereby undermine the distinctive philosophy of the school.
+Yet the MST resists running its schools privately, partly because it lacks the funds to
+do so and also because it is strongly in favour of the idea of public schooling. From the
+point of view of the State, MST schools are problematic as they have a specific ideology which may not be sufficiently ‘lay’ to justify state school status. Nevertheless, state
+and municipal governments recognize that the MST is playing a fundamental role in
+providing basic schooling in many rural areas, and thus tolerate it.
+These contradictions and tensions are real and cannot be explained away. Yet they
+do not negate the remarkable achievements of the MST in going beyond critiques
+of conventional schooling to create a viable alternative, and moreover maintain this
+
+--- [PDF Page 717 / Book Page 723] ---
+
+Reinventing Educational Spaces, Building Active Citizenship 723
+
+at a number of levels across a nation as large as Brazil. The MST’s approach is well
+summed up in the following passage:
+With time these children gain a greater consciousness of the struggle: this happens
+… where they have the right to speak, to sing. They have a strong desire to participate, they have pleasure in contributing to the assemblies, meetings, celebrations,
+building toys and the school tent.… It is this space for participation that makes the
+children critical, so they don’t accept things as they are. (MST, 2001b)
+The MST experience is undoubtedly highly specific to the Brazilian context. Yet can
+it speak to other contexts of political marginalization in the global South? Before
+addressing this question we will turn to the second case of innovation in relation to
+education for citizenship: the Citizen School initiative.
+
+The Citizen School in Porto Alegre
+The Citizen School6 is an educational initiative of the municipal government of
+Porto Alegre, the largest city in southern Brazil, with a population of approximately
+1,400,000. In 1989, a coalition of left-wing parties (the Popular Administration),
+under the leadership of the PT, won the municipal elections and started a new plan
+for the city. The basic premise was a radical idea of democracy, one that entailed a
+real involvement of the citizens in the governance of the city. According to one of the
+former mayors of Porto Alegre, the purpose of the Popular Administration is to:
+recuperate the utopian energies, (…) [to] create a movement which contains, as
+a real social process, the origins of a new way of life, constructing a ‘new moral
+life’ (Gramsci) and a new articulation between state and society (…) that could
+lead social activity and citizenship consciousness to a new order. (Genro, 1999)
+In order to materialize such a complex ideal, the Popular Administration envisioned
+several macro mechanisms that would allow the implementation of the articulation
+described by Genro. One of these elements is the Citizen School.
+The Citizen School is the project of involving all the municipal schools of Porto
+Alegre in a radical idea of education for citizenship. Fighting against the idea of an
+individualized citizen, the Citizen School claims that the whole educational institution
+has to embody citizenship. The main goals of the Citizen School can be summarized
+in a quotation from the one of the Secretaries of Education. He says that the project
+wanted to create a school:
+where everyone has guaranteed access, that is not limited to transmission of content; a school that is able to articulate the popular knowledge with the scientific
+knowledge. A school that is a public space for the construction and experience
+of citizenship, that goes beyond merely delivering knowledge and transforms
+itself into a social-cultural space, with a pedagogical policy oriented toward
+
+--- [PDF Page 718 / Book Page 724] ---
+
+724 McCowan and Gandin
+
+social transformation, where the student is the subject of the knowledge and
+where the pedagogy takes place in an interdisciplinary perspective, overcoming
+the curricular fragmentation present in schools. A school that has the necessary
+material resources to implement this policy, where the participation of the whole
+community can lead to the construction of an autonomous school, with a real
+democratic management, where all segments of the community have their participation guaranteed. (Azevedo, 1999b)
+From these guidelines, the basic goals of the project were created in the ‘Constituent
+Assembly’. This was a democratic, deliberative and participatory forum created in
+order to mobilize the school communities and generate the principles that would guide
+the policy for the municipal schools in Porto Alegre. The process of organization of the
+Constituent lasted 18 months and involved thematic meetings in the schools, regional
+meetings, the Assembly itself, and the elaboration of the schools’ internal regulation.
+The process of deciding the principles through such structure is itself worth noting.
+The Citizen School project was created under the principle of not separating the determination of the goals from the creation of the mechanisms to implement these goals.
+Rather, the process of generating the practical goals should represent in itself an innovative mechanism that is able to produce transformations in the relationships between
+the schools and the community. The normative goals that guide the practice in the
+schools are collectively created, through a participatory process. The idea was to foster
+a government that creates channels for real development of collectively constructed
+normative goals and that replaces the traditional relationship of distant government
+officials managing schools that they know little about.
+The Constituent Assembly elected the radical democratization of education in the
+municipal schools as the main normative goal of the Citizen School project. It was decided
+that this radical democratization would have to occur in three dimensions: democratization
+of access to school, democratization of knowledge and democratization of governance.
+These three principles were to guide every action in the municipal system of Porto Alegre.
+These three principles changed the structure of the schools and the relationship between
+schools and the Municipal Department of Education (SMED).
+In order to democratize the access to the school and to the knowledge, the SMED
+implemented a new organization for the municipal schools. Instead of keeping the traditional structure of grades with the duration of one year (1–8 in primary education),
+the idea was to adopt a new structure called cycles. The administrators at the SMED
+were convinced that the issue of access to schools could be dealt with in a much better
+way using cycles. According to the SMED,
+the cycle structure offers a better way of dealing seriously with student failure,
+because its educational perspective respects, understands, and investigates the
+socio-cognitive processes that the students go through. (SMED, 1999a).
+The idea is that by using a different conception of learning/time, the Citizen School
+would put an end to the punishment of the so-called ‘slow’ students. In this new
+configuration, the traditional deadline – the end of each academic year – when the
+
+--- [PDF Page 719 / Book Page 725] ---
+
+Reinventing Educational Spaces, Building Active Citizenship 725
+
+students had to ‘prove’ that they had ‘learned’ was eliminated in favour of a different time organization. The democratization of knowledge was to be addressed by the
+adoption of cycles: “[T]he cycles contribute to the respect of the rhythm, the timing, and the experiences of each student, enhancing the collective organization and
+interdisciplinarity in the schools” (SMED, 1999a). The establishment of cycles was
+a conscious attempt to eliminate the mechanisms in schools believed to perpetuate
+exclusion, failure, and dropouts, as well as the blaming of the victim that generally
+accompanies these.
+In the Citizen School, there are three cycles of 3 years each, a change that adds
+one year at the start of primary education (expanding it to 9 years). This makes the
+municipal schools responsible for the education of children from 6 to 14 years of age.
+The three cycles are based on the cycles of life: each one corresponds to one phase of
+development, that is, childhood, pre-adolescence and adolescence. The idea is to group
+together students of the same age in each of the years of the three cycles. This aims at
+changing the reality (one that is present in the majority of public schools that serve the
+working class in Brazil) that confronted the SMED when the Popular Administration
+started to govern the city: students with multiple failures were in classes intended for
+much younger children. Through organizing the education by age, having students of
+the same age in the same year of the cycle, the SMED aimed to re-motivate children
+who had failed multiple times. Its goal was to challenge the common sense idea that
+learning must be sequenced. As the Secretary says, the institution using the cycles is:
+the redesigned school, with space and time that are geared towards the development of the students. Children and adolescents are beings in permanent
+development that should not be ruled by the school calendar or the school year.
+(…) The school using the cycles sees learning as a process in which preparatory
+periods or steps do not exist; instead there is a permanent process of development. Instead of punishing the student because he/she did not learn, the Citizen
+School aims at valorizing the already acquired knowledge. (Azevedo, 2000)
+In schools using these cycles, students progress from one year to another within one
+cycle, and the notion of ‘failure’ is eliminated.
+Despite this victory, the SMED understood that the elimination of exclusion mechanisms was not enough to achieve the goal of democratization of knowledge. Because
+of this, the Citizen School created several mechanisms that aimed at guaranteeing the
+inclusion of students: Progression Groups for students who had discrepancies between
+their age and what they have learned, Learning Laboratories for students who, despite
+the changes in methodology and curriculum were still not learning, Itinerant Teachers
+to aid teachers by being a second educator in the classroom, when one is needed, and
+Formative Evaluation to help students understand their own pace of learning without
+merely classifying them through grades.
+Curriculum transformation has been a crucial part of Porto Alegre’s project to
+build ‘thick democracy’ and effective citizenship. This is actually what can make the
+democratization of knowledge possible. It is important to say that this dimension is
+not limited to access to traditional knowledge. What is being constructed is a new
+
+--- [PDF Page 720 / Book Page 726] ---
+
+726 McCowan and Gandin
+
+epistemological understanding about what counts as knowledge as well. It is not based
+on a mere incorporation of new knowledge within the margins of an intact ‘core of
+humankind’s wisdom’, but a radical transformation. The Citizen School goes beyond
+the mere episodic mentioning of cultural manifestations or class, racial, sexual and
+gender-based oppression. It includes these themes as an essential part of the process
+of construction of knowledge.
+In the Citizen School, the notion of ‘core’ and ‘periphery’ in knowledge is made
+problematic. The starting point for the construction of curricular knowledge is the
+culture(s) of the communities themselves, not only in terms of content, but in terms
+of perspective as well. The whole educational process is aimed at inverting previous
+priorities and instead serving the historically oppressed and excluded groups. The starting point for this new process of knowledge construction is the idea of the Thematic
+Complex. This organization of the curriculum is a way of having the whole school
+working on a central generative theme, from which the disciplines and areas of knowledge, in an interdisciplinary effort, will structure the focus of their content.
+In the Citizen School, the idea of the Thematic Complex emphasizes that the disciplines or areas of knowledge are not all collapsed in all the levels of the curriculum;
+what happens is that all knowledge areas become subordinate to a global idea, to a
+thematic core that is rather complex because it represents the centre of the preoccupations and/or interests of the community where the school is situated. All the areas or,
+in fact, the entire school, are guided by the discussion and problematization around
+the thematic complex. This thematic complex provides the whole school with a central
+focus that guides the curriculum of that school for a period of time that can be one
+semester or an entire academic year.
+After having determined the principles, the larger contribution of each knowledge area
+for the discussion of the thematic complex, and the conceptual matrix – a web of concepts
+from the knowledge area, rather than isolated facts or information that the teachers understand are essential to use when dealing with the thematic complex – the teachers have
+meetings organized by their knowledge areas and by each year in the cycles, to elaborate
+and plan the curriculum.
+Each school is autonomous and able to elaborate its own curriculum. This curriculum
+has to meet the following criteria: no student should have to ‘unlearn’ his/her knowledge,
+culture and practices in order to learn ‘scientific’ knowledge and no student should leave
+school without being exposed to formal ‘school knowledge’. The idea is that no knowledge
+should be left unquestioned and considered above critique. The idea of starting with their
+own experiences should not mean that students have to stop there.
+To give a concrete example of how this works, here is the description of how the
+socio-historic knowledge area proceeded, in one school of Porto Alegre, to organize
+its curriculum. After the phase of carrying out research in the community, the school
+elected “the quality of life in the favela” as its thematic complex. The socio-historic
+knowledge area had to construct the principle of that area, that is, the contribution of
+this area to deal with the elected thematic complex. This area expressed its possible
+contribution as “the individual and collective transformation of the citizen, in his/her
+time and space, recuperating his/her origins, aiming at improving the quality of life,
+taking into account the ideas of the community where this individual is situated”.
+
+--- [PDF Page 721 / Book Page 727] ---
+
+Reinventing Educational Spaces, Building Active Citizenship 727
+
+From the major thematic complex – the quality of life – three sub-themes were listed
+by the teachers in the socio-historic area: rural exodus, social organization and property.
+In the rural exodus sub-theme, the issues reflected the origin of the community – living
+now in a favela, but originally from the rural areas. In this sub-theme, the issues discussed were migration movements, overpopulation of the cities, “disqualification” of
+the working force, and marginalization. In the sub-theme social organization, the issues
+were distributed in terms of temporal, political, spatial and sociocultural relations. The
+issues, again, represent important questions in the organization of the community: the
+excessive and uncritical pragmatism of some in the neighbourhood associations, and
+cultural issues such as religiosity, body expression, African origins, dance groups and
+samba schools. In the third sub-theme – property – the issues were directly linked to
+the situation of the families in the favela, living in illegal lots with no title, having to
+cope with the lack of running water, basic sanitation and other infrastructure problems,
+the history of this situation and of the struggles for lots legalization, and their rights
+(of having basic public goods in the neighbourhood) and duties (of understanding the
+importance and the social function of taxation) as citizens.
+The governance structure of the citizen school was also radically changed. The
+School Councils, established by a municipal law in December of 1992 and implemented in 1993, became the most important institutions in schools. They were formed
+by elected teachers, school staff, parents, students, and by one member of the administration, and they had consultative, deliberative and monitoring functions. As such they
+expressed key ideas of the Popular Administration and the demands of social movements involved in education in the city.
+It is important to mention that, before the Popular Administration took office, there
+was a practice (common in Brazil) of a very centralized budget. Every expense (even
+the daily ones) had to be sent to the central administration before it was approved,
+and then, either the money was sent to the school, or a central agency would purchase
+the product or the service necessary. In such a system, the school council would have
+“their hands tied”, with no autonomy at all. The SMED changed this structure and
+established a new policy to make the amount of money available to each school every
+3 months. According to the SMED, this measure instituted the financial autonomy for
+the schools, and allowed the schools to manage their expenditures according to the
+goals and priorities established by the school council. At the same time that this measure creates autonomy, it gives parents, students, teachers and staff who are present
+in the council a notion of social responsibility in administering public money, and it
+teaches them to prioritize the investments with solidarity in mind (SMED, 1999b).
+In the municipal schools of Porto Alegre, the whole school community elects the
+principal by direct vote. The one responsible for the implementation of the decisions
+of the school council, that is, the principal, is herself/himself elected defending a particular
+project of administration for the school. There is a legitimacy that comes from this.
+The principal is not someone who necessarily represents the interests of the central
+administration inside the school councils, but someone with a majority of supporters inside that particular educational community. Principals thus have a great degree
+of embeddedness, and, because of this, the SMED feels that it is possible to avoid
+the potential problem of having someone responsible for the concretization of the
+
+--- [PDF Page 722 / Book Page 728] ---
+
+728 McCowan and Gandin
+
+deliberations occurring in the school councils who is not connected with the project.
+But the responsibility of the community does not stop there: through the school council, the school community has a way of monitoring the activities of the principal and
+holding her/him responsible for implementing its democratic decisions.
+These new mechanisms created to implement the democratization of access, knowledge
+and governance would not meet this goal without large investments in school buildings and
+in teachers’ conditions of work. The municipal schools are almost all situated in the most
+impoverished areas of the city and unlike other public schools in these conditions, are in
+very good shape. Many of these buildings were constructed recently, have excellent layouts
+and are very well kept. This sends a clear message: a school in a poor neighbourhood has
+to make the education that is supposed to happen in its interior possible and the school staff
+should not have to worry about building conditions. The other aspect is teachers’ salaries
+and training: in Porto Alegre a municipal school teacher earns three times as much as a
+state school teacher. There is also a policy of continuous in-service education both in the
+knowledge area of the teachers and in general educational issues, like the relationship of
+education and society, for example.
+Despite all these successes, there are real challenging issues in the implementation
+of the Citizen School. Although the SMED is sensitive to issues of race and gender,
+this does not seem always to translate into a sustained support for the schools as they
+face the challenge of constructing a curriculum that deals with racism and gender
+discrimination. Certainly because of its Marxist roots, the emphasis of the SMED has
+been on issues of class. These are clearly central issues for students who live in slums,
+but reducing all oppression to class can certainly represent a problem in a country like
+Brazil, with such blatant racial and gender issues.
+Another potential problem is the fact that teachers’ knowledge is not always considered and sometimes even shunned in the Citizen School. If it is true that school
+curriculum revolves around the knowledge of the communities, the same cannot be
+said about the previous experiences and practices of teachers. Many times, the SMED
+sees teachers as the ones responsible for the problems it faces. A simplified description of this problem is the following: “the proposal is good, but conservative teachers
+do not implement it as it should be”. The idea of characterizing every teacher that
+criticizes elements of the proposal as conservative shows how problematic the implementation of the proposal can be in some instances: teachers are the ones who make
+a proposal real in a school. As several studies have shown, teachers’ knowledge must
+always be taken into consideration when the goal is to enact progressive reforms (see
+Page, 2001; Gitlin, 2001).
+Finally it is essential to discuss the sustainability of the initiative. When the city of
+Porto Alegre faced budget constraints, cuts were made in key elements of the project,
+such as the itinerant teacher and places in the Learning Laboratories. But the biggest
+challenge is certainly the fact that, after 16 years in power, the PT and the Popular
+Administration lost the municipal election in 2004. The core mechanisms of the
+Citizen School have not been touched so far and continue in place, even though the
+name given to the educational experience of the city is a different one. But it might be
+too early to say. It will be important to follow the subtle changes that can occur and
+possibly undermine the project.
+
+--- [PDF Page 723 / Book Page 729] ---
+
+Reinventing Educational Spaces, Building Active Citizenship 729
+
+The Citizen School is an alternative to neo-liberal solutions in education, based
+on the introduction of market schemes inside schools. It has been important not only
+as a way of giving an impoverished population a quality education that will enable
+them to have better chances in the paid labour market and at the same time operate as
+empowered citizens, but also because it has generated structured forms of ‘educating’
+the communities both for organizing around and discussing their problems, and for
+acting on their own behalf through the channels of participation and deliberation. In
+the process, it has ‘educated’ the state agencies as well.
+
+Conclusions
+Some common themes emerge from these two cases. Both represent attempts to address
+both the ‘participation’ and ‘rights’ strands of citizenship. On the one hand, the two initiatives aim to provide access to education for marginalized populations, both in terms of
+making places available in schools, and taking steps to ensure inclusion in the learning
+environment and avoiding early dropout. They are therefore attempting to go beyond the
+formal right of all Brazilians to basic education and to take action to make it a reality. Yet
+they are also aiming to equip learners to be effective citizens in the active sense, by involving students, teachers and the community in decision-making and providing the knowledge
+and skills for them to extend that participation to the wider political sphere. Emerging
+from the dual influences of authoritarianism and neo-liberalism, the two cases are creating
+a new understanding of citizenship, one based in participatory democracy and a Freirean
+conception of conscientization, by which social transformation is brought about through a
+dialectic of reflection and political action.
+However, the cases also show some of the difficulties of implementing this type of
+programme. As in many other contexts, there is a tendency to see teachers as ‘obstacles’ to change and reform. Neither of these two cases has been fully successful in
+resolving the dilemma of implementing a normative scheme through teachers, while
+at the same time respecting their autonomy, their knowledge and their experience.
+Teacher education is key here (as long as it is not simply an attempt to reconstruct
+the teachers in the initiative’s mould), but so is the authentic involvement of teachers
+in the construction of policy. Another limitation evident in the cases concerns efforts
+to address difference, particularly that of race and of gender. In dealing with social
+exclusion in a general way, the initiatives have not fully acknowledged the specificities
+of race and gender, the distinct historical oppressions of women, African Brazilians
+and indigenous peoples, and the need for explicit responses to them. Lastly, there is a
+simple problem of sustainability and viability: in the case of the Citizen School, this
+concerns the survival of the initiative in the face of a change of government, and in
+the case of the MST, the incorporation of its project in the state sector. The necessarily
+political nature of the two projects threatens their continued existence.
+Brazilian history has certain unique aspects – such as its mixing of peoples, its spectacular concentration of wealth and the combination of centralizing and decentralizing
+impulses – and the cases explored in this chapter are without doubt responses to the
+specificities of this context. Yet the successes and challenges of the two in the face of
+severe social and political exclusion do have implications for other countries. A first
+
+--- [PDF Page 724 / Book Page 730] ---
+
+730 McCowan and Gandin
+
+issue concerns the importance of participation. The cases show the benefit gained from
+involving the whole school and the wider community, not in the implementation of
+policy created by a distant government, but in the formulation of goals and methods
+themselves. Secondly, the two initiatives have both grappled with the problems faced
+by schools all around the world of whether to teach ‘universal’ academic knowledge,
+and risk marginalizing the students’ own culture, or to teach the local knowledge of the
+community and risk confining students to their own context without the possibility of
+looking beyond. Both cases here show that it is possible to combine the two, drawing
+on local knowledge and skills relevant to the lives of the community, but at the same
+time equipping students to pursue a life beyond it and to understand and engage with
+wider forms of knowledge and processes of social change.
+A further implication of these cases is the importance of maintaining a holistic vision of
+citizenship. Conceptions based purely on the guarantee of rights of the individual are not
+sufficient, and yet these rights must be guaranteed before active forms of participation can
+be fostered. In addition, education must address citizenship as identity – acknowledging
+differences that may challenge the “abstract concept of the citizen, stripped of all qualities save subjective rationality and morality” (Unterhalter, 1999) – as well as citizenship
+as equality in the polity. Lastly, in a spirit captured by the World Social Forum slogan
+“another world is possible”, these cases show that, even within the established state system,
+it is possible to create alternatives in education. Steering a course through both traditional
+hierarchical forms of schooling and contemporary consumerist ones, radical democratic
+alternatives are a possibility, albeit one facing considerable challenges.
+In the midst of an overwhelming global wave of reforms where market control,
+devolution with fewer resources, tight control of outcomes, steering at a distance,
+and accountability that only looks at quantitative results are the central impulses, it
+is important to reaffirm, that to encounter experiences like the Movement of Landless
+Rural Workers or the Citizen School is certainly a novelty. What is even more striking
+in these projects is the fact that, unlike other progressive initiatives around the world,
+where individual teachers or schools promote radical changes, this is an organic transformation of a whole school system, in the Citizen School case, or the conception of
+education in the case of the Landless Movement.
+The change in structures has energized schools and produced spaces where education for social justice is being pursued. If it is true that there are serious limits to what
+has been done so far, it is also true that real spaces have been created to challenge these
+same limitations.
+
+Notes
+1.
+2.
+3.
+4.
+5.
+6.
+
+Figures for secondary enrolment are from 2002 to 2003, and for tertiary are for 2002.
+Movimento dos Trabalhadores Rurais Sem Terra.
+This figure includes the Federal District.
+Freire’s conception of ‘banking education’.
+This interview is taken from research undertaken in 2002 in the states of Espírito Santo, Bahia and Rio
+de Janeiro (McCowan 2003). Pseudonyms were used for participants.
+In this chapter only an initial idea of the experience can be offered. For more on the Citizen School see
+Gandin (2005).
+
+--- [PDF Page 725 / Book Page 731] ---
+
+Reinventing Educational Spaces, Building Active Citizenship 731
+
+References
+Azevedo, J. C. (1999b). Escola, democracia e cidadania. In C. Simon, D. D. Busetti, E. Viero, & L. W.
+Ferreira (Eds.), Escola cidadã: Trajetórias (pp. 11–33). Porto Alegre, Brazil: Prefeitura Municipal de
+Porto Alegre – Secretaria Municipal de Educação.
+Azevedo, J. C. (2000). Escola cidadã: Desafios, diálogos e travessias. Petrópolis, Brazil: Vozes.
+Bethell, L. (2000). Politics in Brazil: From elections without democracy to democracy without citizenship.
+Daedalus, 129(2), 1–27.
+Brandford, S. & Rocha, J. (2002). Cutting the wire. London: Latin American Bureau.
+Caldart, R. S. (2000). O MST e a formação dos sem terra: O movimento social como princípio educativo.
+In P. Gentili & G. Frigotto (Eds.), Cidadania negada: Políticas de Exclusão na Educação e no Trabalho.
+São Paulo: Cortez.
+Caldart, R. S. (1997). Educação em Movimento: Formação de Educadoras e Educadores no MST. Petropolis,
+Editora Vozes.
+Caldart, R. S. (1999). Pedagogia do Movimento Sem Terra: a Escola é Mais que Escola. Petropolis: Editora
+Vozes.
+Freire, P. (1972). Pedagogy of the oppressed. London: Sheed & Ward.
+Freire, P. (1985). The politics of education. Massachusetts: Bergin and Garvey.
+Freire, P. (1994). Pedagogy of hope: Reliving pedagogy of the oppressed. New York: Continuum.
+Gandin, L. A. (2006). Creating real alternatives to neo-liberal policies in education: The citizen school
+project. In M. W. Apple and K. Buras (Eds.), The subaltern speak: Curriculum, power, and educational
+struggles. New York: Routledge.
+Gandin, L., & Apple, M. W. (2002). Challenging neo-liberalism, building democracy: Creating the citizen
+school in Porto Alegre, Brazil. Journal of Education Policy, 17(2), 259–279.
+Genro, T. (1999). Cidadania, emancipação e cidade. In L. H. Silva (Ed.), Escola cidadã: Teoria e prática
+(pp. 7–11). Petrópolis, Brazil: Vozes.
+Gentili, P. (Ed.) (1995). Pedagogia da Exclusão: Critica ao neoliberalismo em educação. Petropolis:
+Vozes.
+Gentili, P., & Frigotto, G. (Eds.) (2000). A cidadania negada: Políticas de exclusão na educação e no trabalho. Buenos Aires: CLACSO.
+Gentili, P., & McCowan, T. (Eds.) (2003). Reinventar a Escola Publica: Politica educacional para um novo
+Brasil. Petropolis: Vozes.
+Gitlin, A. (2001). Bounding teacher decision making: The threat of intensification. Educational Policy,
+15(2), 227–257.
+Havighurst, R. J. & Moreira, J. R. (1965). Society and education in Brazil. Pittsburgh, PA: University of
+Pittsburgh Press.
+Heater, D. (1999). What is citizenship? Cambridge: Polity Press.
+INEP (2003). Censo da educação superior 2002. Brasília: INEP.
+Knijnik, G. (1996). Exclusão e Resistencia: Educação Matemática e Legitimidade. Porto Alegre: Artes
+Médicas Sul.
+Knijnik, G. (1998). Ethnomathematics and the Brazilian landless people education. Paper presented at the
+first international conference on ethnomathematics, University of Granada.
+Kymlicka, W. (2002). Contemporary political philosophy: An introduction (2nd edn.). Oxford: Clarendon
+Press.
+Louro, G. L. (1986). História, Educação e Sociedade no Rio Grande do Sul. Porto Alegre: Educação e
+Realidade Edições.
+Marshall, T. H. (1950). Citizenship and social class and other essays. Cambridge: Cambridge University
+Press.
+Martins, J. de S. (2000). Reforma agrária: O Impossível Diálogo. São Paulo: Editora da Universidade de
+São Paulo.
+McCowan, T. (2006a). The foundations of critical questioning in citizenship education. Currículo Sem
+Fronteiras [Curriculum Without Borders], 6(2), online at http://www.curriculosemfronteiras.org/vol6iss2articles/
+mccowanen.htm, accessed 2 April 2007.
+
+--- [PDF Page 726 / Book Page 732] ---
+
+732 McCowan and Gandin
+McCowan, T. (2006b). Educating citizens for participatory democracy: A case study of local government education policy in pelotas, Brazil. International Journal of Educational Development, 26(5),
+456–470.
+McCowan, T. (2003). Participation and Education in the Landless People’s Movement of Brazil. Journal for
+Critical Education Policy Studies, 1(1), available online at http://www.jceps.com/index.php?pageID=ar
+ticle&articleID=6. Accessed 15 June, 2004.
+MST (2005). MST, Movimento dos Trabalhadores Rurais Sem Terra. Online at www.mst.org.uk, accessed
+on 15 November 2005.
+MST (2004). Educação no MST: Balanço 20 Anos (Boletim da Educação no. 9). São Paulo, MST Setor de
+Educação.
+MST (2001a). A historia da luta pela terra e o MST. São Paulo: Expressão Popular.
+MST (2001b). Escola Itinerante: uma Pratica Pedagógica em Acampamentos (Coleção Fazendo Escola).
+São Paulo: MST Setor de Educação.
+MST (1999). Como Fazemos a Escola de Educação Fundamental (Caderno de Educação no. 9). Veranópolis,
+ITERRA.
+MST (1995). Como Fazer a Escola que Queremos: o Planejamento (Caderno de Educação no. 6). São
+Paulo: MST Setor de Educação.
+MST (1994). Alfabetização de Jovens e Adultos: Como Organizar (Caderno de Educação no. 3). São Paulo:
+MST Setor de Educação.
+Navarro, Z. (2001). “Mobilização sem emancipação” — As lutas sociais dos sem-terra no Brasil. In B. de
+Sousa Santos (Ed.), Reinventando a Emancipação Social. São Paulo: Record.
+Page, R. N. (2001). Common sense: A form of teacher knowledge. Journal of Curriculum Studies, 33(5),
+525–533.
+SMED (1999a). Ciclos de formação – Proposta político-pedagógica da Escola Cidadã. Cadernos
+Pedagogicos, 9(1), 1–111
+SMED (1999b). Official Homepage of the SMED. Retrieved December 15, 1999, from http://www.portoalegre.rs.gov.br/smed
+Thompson, E. (1980) The making of the English working class. Harmondsworth: Penguin.
+UNDP (2006). Human development report 2006. Beyond scarcity: Power, poverty and the global water
+crisis. Basingstoke: Palgrave Macmillan.
+UNESCO (2004). Statistical tables: Education. Available online at http://www.uis.unesco.org/TEMPLATE/
+html/Exceltables/education/ger_tertiary.xls, accessed 14 December 2004.
+Unterhalter, E. (1999). Citizenship, difference and education: Reflections inspired by the South African
+transition. In P. Werbner & N. Yuval-Davis (Eds.), Women, citizenship and difference. London: Zed.
+Weinberg, M. (2004). Madraçais do MST. Veja, April 2004.
+

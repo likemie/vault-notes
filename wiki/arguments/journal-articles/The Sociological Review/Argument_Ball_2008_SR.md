@@ -23,6 +23,7 @@ related_concepts:
   - "[[Political Arithmetic]]"
   - "[[New Sociology of Education]]"
   - "[[School Effectiveness]]"
+  - "[[Educational Meliorism]]"
   - "[[Postmodernism]]"
   - "[[Literature Review]]"
 related_theories: []
@@ -43,9 +44,9 @@ title: "Argument_Ball_2008_SR"
 argument_key: "Argument_Ball_2008_SR"
 argument_display_title: "Some sociologies of education: A history of problems and places, and segments and gazes"
 argument_kind: "journal-article"
-argument_related_count: 14
-argument_related_level: 0
-argument_related_stars: ""
+argument_related_count: 15
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: The Sociological Review
 book_title: ""
@@ -100,7 +101,7 @@ citation_aliases:
 >
 > ### 主题三：三个历史片段展示研究目光如何转移
 >
-> 7. 1930-1960 年代的 [[Political Arithmetic]] 将教育机会、家庭、阶级和人口能力连接起来。它在反优生学和福利国家改良主义之间形成，使教育扩张、离校年龄、补偿教育和“人才浪费”成为政策可处理的问题(pp.654-656)。
+> 7. 1930-1960 年代的 [[Political Arithmetic]] 将教育机会、家庭、阶级和人口能力连接起来。它在反优生学和福利国家[[Educational Meliorism|改良主义]]之间形成，使教育扩张、离校年龄、补偿教育和“人才浪费”成为政策可处理的问题(pp.654-656)。
 >
 > 8. 1970 年代的 [[New Sociology of Education]] 将目光从机会分配转向学校内部。学校知识、课程和课堂过程不再是中性媒介，而是教育不平等可能发生的机制；教育由“解决方案”变成“问题”本身(pp.657-659)。[[Committee for the Accreditation of Teacher Education|CATE]] 在 1984 年以后进一步改变了这一制度空间，将教师教育从学科基础转向课堂技能和能力导向(p.659)。
 >
@@ -123,7 +124,7 @@ citation_aliases:
 >
 > ### 研究目光
 > - [[Political Arithmetic]] 把阶级、家庭、学校和机会结构连接起来，使教育不平等成为福利国家可认识、可测量、可干预的问题(pp.654-657)。
-> - [[New Sociology of Education]] 将教育社会学目光转向学校知识和课堂过程，打破政治算术的政策改良主义，但也无意中帮助把学校和教师实践打开为新的治理对象(pp.657-659)。
+> - [[New Sociology of Education]] 将教育社会学目光转向学校知识和课堂过程，打破政治算术的政策[[Educational Meliorism|改良主义]]，但也无意中帮助把学校和教师实践打开为新的治理对象(pp.657-659)。
 > - [[School Effectiveness]] 在政策中成为一种正常化技术：它建构有效学校的规范模型，把无效学校异常化，并通过检查、测试、排行榜和改进话语推进学校管理(pp.663-665)。
 >
 > ### 政策后果

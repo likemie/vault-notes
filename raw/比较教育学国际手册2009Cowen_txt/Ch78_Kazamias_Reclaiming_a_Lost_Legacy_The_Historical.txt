@@ -1,0 +1,405 @@
+================================================================================
+Chapter 78: Reclaiming a Lost Legacy: The Historical Humanist Vision in Comparative Education
+Author(s): Andreas M. Kazamias
+Handbook: International Handbook of Comparative Education (2009)
+Editors: Robert Cowen and Andreas M. Kazamias (Section Editor: Elaine Unterhalter)
+Section: Section 8: The Cutting Edge - Questioning the Future
+Book Pages: pp. 1267–1276
+PDF Pages: pp. 1237–1246 (in raw/比较教育学国际手册2009Cowen.pdf)
+================================================================================
+
+--- [PDF Page 1237 / Book Page 1267] ---
+
+78
+RECLAIMING A LOST LEGACY: THE HISTORICAL
+HUMANIST VISION IN COMPARATIVE
+EDUCATION
+Andreas M. Kazamias
+
+Prologue
+The history of comparative education in the second half of the twentieth century has been
+marked by periodic “systems crises”, in Alvin Gouldner’s meaning of the term. The historian can identify such “systems crises” in the late 1950s and early 1960s, in the mid-1970s
+and early 1980s, and in the late 1990s and the opening years of the new millennium. “The
+central implication of a crisis”, according to Gouldner, “is not that the ‘patient will die’, but
+rather that the system “will change in significant ways from its present of condition”, and
+that such change may produce “a basic metamorphosis in the total character” (Gouldner,
+1970, p. 341). As a result of these critical episodes, comparative education may not have
+undergone “a metamorphosis of its total character”, but it changed in significant ways.
+One significant change has been the metamorphosis of comparative education from an
+essentially historical-philosophical-humanistic episteme to an essentially social scientific
+episteme. The concern of this chapter is twofold. First, it briefly examines critically the two
+varieties of comparative education as systems of thought or modes of inquiry and ways of
+knowing. The systems in question have drawn their theoretical insights and methodological approaches from the domains of ‘history’ and ‘social science’, and will be referred to
+as ‘historical comparative education’ and ‘scientific comparative education’ respectively.
+The second concern of this chapter is to make a case for another intellectual system, mode
+of inquiry and mode of knowing, or another variety of comparative education, which,
+drawing from both history and social science, avoids their respective limitations. This
+alternative system will be referred to as “comparative historical analysis”.
+
+Historical-Philosophical-Humanistic Comparative Education
+As examined in greater detail in the first section of this Handbook, the dominant approach
+to the study of comparative education until the 1950s, as exemplified by such notable
+comparative scholars as Michael Sadler, Isaac Kandel, Nicholas Hans and Robert Ulich,
+was what may be referred to as the “historical-philosophical-humanist” or the “historicalhumanist-meliorist” approach. Other comparativists, for example, Brian Holmes has
+referred to the major representatives of this genre of comparative education as “historian
+1267
+R. Cowen and A. M. Kazamias (eds.), International Handbook of Comparative Education, 1267–1276.
+© Springer Science + Business Media B.V. 2009
+
+--- [PDF Page 1238 / Book Page 1268] ---
+
+1268
+
+Kazamias
+
+comparativists” or “historian comparative educationists” (Holmes, 1965, p. 64). In epigrammatic form, the main characteristics of the “historical-philosophical-humanistic”
+generation of comparative education discourse have included the following:
+– Comparative education is a ‘human science’, as connoted and denoted by the Greek
+term episteme and the German Wissenschaft; it is not an empirical or positivistic
+social science. According to Hans, “comparative education as an academic discipline
+is just on the border line between the humanities and sciences and thus resembles
+philosophy, which is the formulation of both” (Hans, 1959, p. 299).
+– Related to the above, comparative education, to use Karl Popper’s classification of the
+sciences, is a “historical science” not a “generalising social science”. As a “historical
+science” its epistemic focus is on the illumination and explanation of the particular,
+of specific events, not on universal historical laws (Popper, 1957, p. 254).
+– Related to the above, comparative education is a hermeneutic, explanatory episteme
+that aims at historical interpretation. In one of the many statements on the nature of
+comparative education, Kandel has written:
+The thesis that the study of education without a study of all the backgrounds
+which give meaning is to reduce it to absorption with techniques which, however useful, furnish only a narrow approach to the fundamental concepts and
+purposes of education. It is significant that the earliest and still the most living
+contributions to the philosophy of education deal with education not in isolation but in their political, social and ethical setting. … The real contribution of
+the history of education lies in introducing the student to an appreciation of the
+relativity of education to the multiplicity of the forces in its contemporary setting. … Comparative education, the study of current educational theories and
+practices as influenced by different backgrounds, is but the prolongation of the
+history of education into the present (Kandel, n.d., pp. 164–165).
+And again:
+[T]he study of comparative education as a method of clarifying and interpreting
+educational issues has its proper and rightful place by the side of the study of the
+history of education; to ignore these two methods of approach is to fail to recognize
+their value for building a philosophy of education and as a consequence to run into
+the danger of spinning educational Penelope’s webs (Kandel, n.d., p. 185).
+– In so far as it deals with ‘education’, not just in the narrow sense of ‘schooling’
+but in the broad sense of paideia/culture, comparative education’s main concern
+as a ‘human science’ should be with the ‘human being’, the anthropos (‘man’).
+It should, therefore, be anthropocentric (‘man-centred). As such, it should be pervaded by a ‘humanistic’ philosophy, and it should be concerned with the great
+problems – political, social but also ethical – which ‘humankind’ faces.
+In the 1960s, a period during which social science emerges as a hegemonic intellectual
+system, the historical-philosophical-humanistic discourse in comparative education,
+as indicated in Section One of this Handbook, was criticised by a new generation of
+scientifically minded comparativists, but also by revisionist historians. As a consequence,
+
+--- [PDF Page 1239 / Book Page 1269] ---
+
+Reclaiming a Lost Legacy: The Historical Humanist Vision 1269
+
+the methodological, epistemological and pari passu the ideological trajectory of comparative education was veering towards the social scientific path.
+
+Social Scientific Comparative Education
+As with the historical-philosophical-humanist motif in comparative education, the
+social scientific motif that became dominant in the years following the first system
+crisis of this episteme in the 1960s is examined in great detail in the first section of this
+Handbook. And as with that motif, here I shall refer rather briefly to the distinguishing
+features of this genre of comparative education discourse and comment critically on
+it. It might be helpful at the outset to delineate some of the most important features of
+social science and the scientific method.
+The ultimate purpose of the non-human sciences is prediction and control. In pursuing this purpose, scientists in the main formulate explicit hypotheses, test them in
+laboratories or other sites/contexts, and seek to establish generalisations or universal laws. While natural/physical scientists seek to establish universal laws concerning
+physical phenomena, social scientists attempt to do so with respect to social phenomena. Another feature of science is that the findings are subject to replication for
+purposes of confirmation or refutation. Furthermore, one of the essential concerns of
+the social scientist is explanation, that is, in addition to describing social phenomena,
+the social scientist is also interested in explaining why such phenomena are the way
+they are. But it should be noted here that ‘explanation’ in the empirical social sciences
+is different from historical explanations.
+As a participant in the debates on the nature and scope of comparative education in the
+comparative education crisis of the 1960s (Kazamias, 1963), I cited Nadel’s method of
+“co-variations” as a good example of the comparative method as used in the social sciences.
+According to Nadel, variations of social phenomena are first observed, and then general
+uniformities or regularities are arrived at. Such correlations or co-variations are not causal
+connections; they are of the type: “X varies as Y does” or “when A occurs, B also occurs”
+(Nadel, 1951, pp. 222–226). Although I judged Nadel’s method of “co-variations” to be
+“an extremely valuable scheme” for research in comparative education, I also pointed out
+that it had certain “limitations” and “dangers” if not used carefully. “As is the case with
+most social ‘general laws’”, I wrote, “the ‘if A then B’ type of law cannot but be a limited
+one, for obviously the S(n) situations are limited”. Then I commented on the nature of
+“scientific laws” in the social sciences, particularly in sociology, which at the time informed
+comparative studies in education, particularly “functional sociology”. I then wrote:
+In so far as sociology is a science, sociological laws must necessarily correspond
+to scientific laws with universal applicability and with explanatory and predictive
+powers. Some sociologists have indeed attempted … to establish universal propositions or general laws of human behavior. However, as Barrington Moore has noted,
+it is safe to assert that ‘generalizations of social science nowhere approach the range
+and cogency of those in physics and chemistry (Kazamias, 1963, p. 391).
+In subsequent assessments of the “functional sociological approach” to comparative
+education, I wrote:
+
+--- [PDF Page 1240 / Book Page 1270] ---
+
+1270
+
+Kazamias
+
+The structural-functional perspective of the ‘60s has however: a) resulted in
+reductionist tendencies; b) restricted thee types of questions raised; c) forced comparative educators into a conservative ideology regarding schools; and d) led them
+to overlook important aspects of educational change (Kazamias, 1972, p. 408).
+Furthermore: “Structural-functionalism, as a framework to analyze and interpret
+society and social changes has been assessed as consensus-oriented, politically conservative, and a historical” (Kazamias & Schwartz, 1977, p. 162). In the same vein,
+Benjamin Barber averred:
+Despite its vaunted neutrality, functionalism is pervaded by instrumental values such as stability (homeostasis) and efficiency (‘good functioning’ per se)
+that give it a static and politically conservative temper … at the same time, by
+refusing to deal frontally with categorical purposes and human projects, functionalism depoliticizes its subject-matter and trivializes its contents (Barber,
+1972, pp. 430, 435).
+Another variant of scientific comparative education was advocated by positivistic
+social scientists, the most prominent of whom were Harold Noah and Max Eckstein of
+Columbia University and George Psacharopoulos, formerly of the London School of
+Economics and later of the World Bank. As I wrote elsewhere:
+Noah and Eckstein, two influential comparativists, advocated a scientific
+comparative education that would conform to all the epistemological and methodological accoutrements of what Benjamin Barber had called ‘methodologism’
+and we had then called ‘methodological empiricism, namely, hypothesis formation and hypothesis testing, verification, control, scientific explanation, prediction,
+quantification, positivism and theory construction (Kazamias, 2001, p. 441).
+Some of the contemporary comparativists, including this writer, were critical of the
+emerging social scientific discourse in comparative education, especially the positivist motif. Among other things, we were critical of the emergent scientific paradigms
+for being “ahistorical”. Also, as noted above, I was critical of the traditional historical-philosophical-humanistic approach. Instead, I called for a “revisionist historical approach,
+one that would combine history with social science” (Kazamias, 1961, 1963). I referred
+to this approach as “comparative historical analysis”, one that would construct a comparative historical educational episteme akin to comparative history and comparative
+historical sociology.
+
+Comparative History, Comparative Historical Sociology,
+and Comparative Historical Education
+Comparative history, according to Marc Bloch, the historian of the French Annales
+School of historiography, is a purely scientific discipline, oriented towards knowledge
+and not towards practical results. History, Bloch further notes, “is animated not by the
+
+--- [PDF Page 1241 / Book Page 1271] ---
+
+Reclaiming a Lost Legacy: The Historical Humanist Vision 1271
+
+love of the past, but by a passion for the present; it is this faculty of understanding the
+living [that] is, in very truth, the master quality of the historian” (Bloch, 1964, p. 43;
+Larsen, 2001). And in the same epistemological vein, the eminent Max Weber has
+noted that comparative history uses the comparative method as a tool of dealing with
+explanation of a given historical problem.
+Looking at comparative history more from a sociological, that is, a social scientific
+rather than a historical perspective, Theda Skocpol, a comparative historical sociologist, noted that there are at least three variants of comparative history:
+Some comparative histories, such as the Rebellious Century. 1830–1930, by
+Louise and Richard Tilly, are meant to show that a particular general sociological
+model holds across different national contexts. Other studies, such as Reinhard
+Bendix’s Nation-Building and Citizenship and Perry Anderson’s Lineages of the
+Absolutist State, use comparisons primarily to bring out contrasts among nations
+or civilizations taken as synthetic wholes. But there is still a third version of
+comparative history – which I am here labeling the method of comparative historical analysis – in which the overriding intent is to develop, test, and refine
+causal, explanatory hypotheses about events or structures integral to macro-units
+such as nation-states (Skocpol, 1974, p. 36).
+And again, from the same perspective, by Skocpol and Somers:
+[C]omparative history serves as an ancillary mode of theoretical demonstration.
+Historical instances are juxtaposed to demonstrate that the theoretical arguments
+apply convincingly to multiple cases that ought to fit if the theory in question is
+indeed valid … The point of the comparison is to assert a similarity among the
+cases – similarity, in terms of the common applicability of the overall theoretical
+arguments that … (is) presenting.
+And again,
+[I]t is characteristic of all works of parallel comparative history to elaborate
+theoretical models and hypotheses before turning to historical case illustrations
+(Skocpol & Somers, 1980).
+These references highlight quintessential elements of comparative history that would
+inhere in a reinvented historically oriented episteme of comparative education. One
+is the element of explanation and interpretation for the purpose of understanding any
+aspect of the educational enterprise. This epistemic element alone differentiates the
+comparative historical approach to the field from other prevalent approaches, particularly from the positivistic scientific paradigms. It also places this type of comparative
+analysis in the category of the interpretive-explanatory rather than the predictive sciences. There is a great difference between these two modes of comparative study, an
+elaboration of which is beyond the scope of this chapter. In other words, comparative
+historical analysis deals with explanation and interpretation rather than prediction. It
+is a retrospective rather than a prospective analysis, in the sense that it begins with
+
+--- [PDF Page 1242 / Book Page 1272] ---
+
+1272
+
+Kazamias
+
+particular historical conditions, causes if you like, that are related to the system/event
+under consideration.
+The other quintessential element of comparative history that is implied above, that
+would be germane to a reinvented historical approach to comparative education is the
+use of concepts, models and theory in the comparative analysis of educational phenomena. Most historians are not theoretical, but most comparative historians use to a
+degree more or less theoretical insights from other disciplines. Most social scientists
+and sociologists, however, are theoretical. Sociologically oriented historical comparativists, with varying degrees of emphasis on the generality of theory, seek to combine
+social theory with historical analysis and interpretation.
+In some such studies, for example, Neil Smelser’s Social Change in the Industrial
+Revolution, specific historical patterns, structures, institutions or processes are
+approached, analysed or illuminated in terms of, or as illustrations of explicit, formal conceptual models drawn deductively from sociological theoretical traditions.
+Preoccupation with an explicit conceptual model, likewise deduced from sociological
+theory (in this case a combination of functionalism and Marxism), characterises also
+Immanuel Wallerstein’s “world system” approach as applied in his book Modem World
+System. The difference between these two approaches is the generality of the theory.
+Smelser formulates a middle-range theory of social change, while Wallerstein offers
+a model with universal applicability, purporting to explain global developments from
+the Neolithic Revolution to recent times.
+In still other forms of comparative history, theories (e.g., functionalism, Marxism,
+modernisation, postcolonialism, or other types), or formal conceptual models may not
+be explicitly invoked or used. Instead, however, there is recourse to concepts of limited
+or more general applicability (e.g., ‘class’, ‘capitalism’, ‘power’, ‘conflict’, ‘violence’,
+‘reproduction’, ‘dependence’, ‘democratisation’, ‘globalisation’, ‘systematisation’
+and ‘segmentation’), which provide the ‘lenses’, or the medium to select, organise and
+interpret the historical material.
+Most historically oriented and theoretically or, conceptually minded comparative
+historians generally avoid the use of comprehensive theories of the type noted above.
+One species of the theoretically minded comparative historians is what has been called
+the “eclectic user” described as follows:
+This scholar is interested in theory but can’t find a comprehensive theory that is
+fully satisfying. So, the ‘eclectic user’ puts together different theoretical insights
+wherever they seem to apply, or wherever they help illuminate a particular historical
+situation. Sometimes an eclectic historian will be very explicit about eclecticism and
+even try out different theories on the same set of historical data. (Kaestle, 1984)
+There have been conspicuously few historically oriented comparative educational
+studies that have used theory either in the systematic comprehensive sense, or in the
+‘eclectic’ sense. Among these few, the following are noteworthy:
+Margaret Archer, Social Origins of Educational Systems (1979).
+Andy Green, Education and State Formation (1990).
+
+--- [PDF Page 1243 / Book Page 1273] ---
+
+Reclaiming a Lost Legacy: The Historical Humanist Vision 1273
+
+Philip Foster, Education and Social Change in Ghana (1965).
+Andreas Kazamias, Education and the Quest for Modernity in Turkey (1966).
+Andreas Kazamias, “Transfer and Modernity in Greek and Turkish Education”, in
+A. M. Kazamias & E. H. Epstein (Eds.), Schools in Transition (1968).
+Kazamias, A. M., & Massialas, B. G., Tradition and Change in Education: A
+Comparative Study. Englewood Cliffs, NJ. (1965).
+Muller, D., Ringer, F., & Simon, B., The Rise of the Modem Educational System
+(1989).
+Carnoy Martin, Education and Cultural Imperialism (1974).
+Carnoy Martin, & Joel Samoff, Education and Social Transition in the Third World
+(1990).
+Shipman M. D., Education and Modernisation (1971).
+Michalina Vaughan & Margaret S. Archer, Social Conflict and Educational Change
+in England and France, 1789–1848 (1971).
+Another characteristic of comparative historical studies is that such enquiries belong
+more to the qualitative than to the quantitative research tradition, which, among other
+things, involves comparisons of configurations. These aspects of the comparative historical epistemological and methodological perspective were well stated by Charles C.
+Ragin in his book The Comparative Method (1987) as follows:
+Not only is the qualitative tradition oriented toward cases wholes as configurations, but it also tends to be historically interpretive; historically oriented
+interpretive work attempts to account for specific historical outcomes or sets of
+comparable outcomes or processes chosen for study because of their significance
+for current institutional arrangements or for social life in general. Typically, such
+work seeks to make sense out of different cases by piecing evidence together in
+a manner sensitive to chronology and by offering limited historical generalisations that are both objectively possible and cognizant of enabling conditions and
+limiting means – of context.
+Ragin further explains:
+Most comparativists, especially those who are qualitatively oriented, also seek to
+interpret specific experiences and trajectories of specific countries (or categories
+of countries). That is, they are interested in the cases themselves, their different
+historical experiences in particular, not simply in relations between variables
+characterizing broad categories of cases (Ragin, 1987, pp. 3–6).
+The last point made by Ragin above points to yet another and final for our purposes
+here, quintessential element of historical comparative educational studies. From our
+perspective, the comparative historian is interested in interpreting and illuminating
+specific experiences and trajectories, i.e., in the particular cases themselves. In this
+respect also, the comparative historical approach to education differs from the social
+scientific variants as presented above, especially the methodological-empirical and the
+world systems ones.
+
+--- [PDF Page 1244 / Book Page 1274] ---
+
+1274
+
+Kazamias
+
+The historical comparative studies cited above are examples of comparative
+historical research that is carried out mostly at the macro level of sociocultural analysis.
+I should like to add here that there are other noteworthy historical comparative studies
+that examine synchronically educational problems and issues at the micro level, and
+diachronically aspects and problems of education in the same society. Also there are
+studies focusing on one society, a form of historical comparative education demonstrated in A. Sweeting’s study of Hong Kong (Sweeting, 1999).
+
+Re-Inventing the Historical Humanist Vision
+in Comparative Education
+In arguing for the reclamation of the disappearing historical legacy in comparative
+education, I have elsewhere emphasised that history is also a humanistic episteme:
+“it deals with the human condition, with human beings as subjects and not as commodities or numbers, with human cultures as wholes and not narrowly as economic
+cultures, and with human values, in short with humanistic and humanizing knowledge,
+in the broad meaning of the term” (Kazamias, 2001, p. 447). And in my critical comments above, I pointed out that the historical-philosophical-humanistic discourse of
+comparative education, was pervaded by a humanist philosophy and was concerned
+with the great problems – political, social and ethical – that mankind faces.
+Reclaiming the humanistic element in comparative education, is, in my opinion,
+also implied in Patricia Broadfoot’s vision of a “neo-comparative education”. In her
+words:
+We need to recongnise that there is an implicit value position in any conceptualisation of a problem and in the choice of method to study it. Comparative
+educationists therefore need to be willing to engage in fundamental debates
+about the nature of ‘the good life’ and about the role of education in relation
+to this in a world where, increasingly, nothing can be taken for granted. In our
+unique role that enables us to straddle cultures and countries, perspectives and
+topics, we have a responsibility to carry the debate beyond the discussion of
+means alone, and towards ends (Broadfoot, 1999, pp. 228–229).
+
+Epilogue
+Recently, some comparativists, older players like Rolland Paulston, Max Eckstein,
+Robert Cowen, Joe Farrell, Wolfgang Mitter, Jurgen Schriewer, Val Rust, Robert
+Arnove and Andreas Kazamias, and newer ones like Patricia Broadfoot, Vandra
+Masemann, Nelly Stromquist, Anthony Welch, Francisco Ramirez, and Carlos Torres
+to name a few, have taken the challenges of the onset of the new millennium and of
+the postmodern turn in sociocultural and politico-educational theorising/thinking as an
+opportunity to both reflect upon the intellectual tradition of comparative education and
+to engage actively in charting new epistemological and methodological trajectories
+
+--- [PDF Page 1245 / Book Page 1275] ---
+
+Reclaiming a Lost Legacy: The Historical Humanist Vision 1275
+
+or paradigms. In the new era of late modernity and even postmodernity, the stage is
+being set for the performance of a new dramaturgical act in the multifaceted protean
+episteme of comparative education. At the 2001 Washington, D.C. conference of the
+Comparative and International Education Society (CIES), Marianne Larsen, a young
+comparativist, instructed us and the larger community of comparative educators in
+these words:
+At the 2000 CIES Conference, Rolland Paulston encouraged us to use our imaginations to envision new spatial, visual, and discursive forms of truth, while
+Andreas Kazamias proclaimed that we needed to reinvent the historical in comparative education so that we can better understand the world. While we may
+initially conclude that these two approaches are completely divergent, this is not
+entirely the case. Within the wider discussions about the future of comparative
+education, there are multiple methodological and epistemological choices for all
+comparative researchers. We have much to gain from challenging the barriers
+that limit wider debate and dialogue. Comparative education could benefit from
+both reinventing our past tradition of historical research, while imaginatively
+adopting the pluralistic stance, multi-interpretive strategies and general incredulity towards totalizing meta-narratives that post-modernism brings to the social
+scientific tradition (Larsen, 2001).
+
+References
+Bloch, M. (1964). The historian’s craft. New York: Vintage.
+Broadfoot, P. (1999). Stones from other hills may serve to polish and jade of this one: Towards a neoconservative ‘learnology’ of education. Compare, 29, 217–231.
+Hans, N. (1959). The historical approach to comparative education. International Review of Education,
+5(3), 299–307.
+Holmes, B. (1965). Problems in education: A comparative approach. New York: Humanities Press.
+Kandel, I. L. (n.d). The historical approach to the study of education. In The National Society of College
+Teachers of Education, National backgrounds of education. Yearbook XXV of The National Society of
+College Teachers of Education. Chicago, IL: University of Chicago Press.
+Kazamias, A. M. (1961). Some old and new approaches to methodology in comparative education.
+Comparative Education Review, 5(2), 90–96.
+Kazamias, A. M. (1963). History, science and comparative education: A study in methodology. International
+Review of Education, 7, 383–398.
+Kazamias, A. M. (1972). Comparative pedagogy: An assignment for the ‘70s. Comparative Education
+Review, 16.
+Kazamias, A. M. (2001). Re-inventing the historical in comparative education: Reflections on a protean
+episteme by a contemporary player. Comparative Educaation, 37(4), 439–449.
+Larsen, M. (2001). Reinventing the historical in comparative education: Bridging the gap through Foucault.
+Paper delivered at the annual conference of the Comparative and International Education Society in
+Washington, D.C.
+Nadel, S. F. (1951). The Foundations of social anthropology. London: Cohen & West.
+Ragin, C. (1987). The comparative method, moving beyond qualitative and quantitative strategies. Berkeley,
+CA: University of California Press.
+Rust, Val et al. (1999). Research strategies in comparative education. Comparative Education Review, 43(1).
+Skocpol, T., & Somers, M. (1980). The uses of comparative history in macrosocial inquiry. Comparative
+Studies in Society and History, 22(2), 174–197.
+
+--- [PDF Page 1246 / Book Page 1276] ---
+
+1276
+
+Kazamias
+
+Sweeting, A. (1999). Doing comparative historical education research: Problems and issues from and about
+Hong Kong. Compare, 39, 269–281.
+Watson, K. (1999), Comparative education research: The need for reconceptualisation and fresh insights.
+Compare, 29(3).
+Weber, M. (1968). Economy and society. New York: Bedminster Press.
+

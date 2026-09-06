@@ -9,7 +9,7 @@ title: "Argument_Eacott_2017_SLM"
 argument_key: "Argument_Eacott_2017_SLM"
 argument_display_title: "School leadership and the cult of the guru: The neo-Taylorism of Hattie"
 argument_kind: "journal-article"
-argument_related_count: 39
+argument_related_count: 38
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -42,7 +42,6 @@ related_concepts:
   - "[[Instructional Leadership]]"
   - "[[Transformative Leadership]]"
   - "[[Scientism]]"
-  - "[[AI Hallucination]]"
   - "[[Growth]]"
   - "[[Return on Investment]]"
   - "[[Variable]]"
@@ -169,7 +168,7 @@ updated: 2026-06-09
 
 ### 步骤二：数据账本——效应量、投资回报率与科学管理的中介化
 
-罗宾逊等（2008）通过[[Meta-analysis|元分析]]证明了[[Instructional Leadership|教学领导力]]优于[[Transformative Leadership|变革型领导力]]，并引入[[Effect Size|效应量]]，重新点燃了管理层对教学领导力的兴趣。然而，罗宾逊的研究仅指出了促进教师学习等宏观维度（ES = 0.84），未能解决教师在课堂中具体做什么这一微观技术问题（p.417）。[[John Hattie|哈蒂]]的《[[Visible Learning|VL]]》恰逢其时地填补了这一空白，其[[Meta-meta-analysis|元-元分析]]庞大的数据库体量顺应了将[[Randomised Controlled Trials|随机对照试验]]（RCTs）奉为黄金标准的[[Scientism|科学主义]]潮流，为科层系统提供了无可比拟的科学严谨性[[AI Hallucination|幻觉]]（p.418）。
+罗宾逊等（2008）通过[[Meta-analysis|元分析]]证明了[[Instructional Leadership|教学领导力]]优于[[Transformative Leadership|变革型领导力]]，并引入[[Effect Size|效应量]]，重新点燃了管理层对教学领导力的兴趣。然而，罗宾逊的研究仅指出了促进教师学习等宏观维度（ES = 0.84），未能解决教师在课堂中具体做什么这一微观技术问题（p.417）。[[John Hattie|哈蒂]]的《[[Visible Learning|VL]]》恰逢其时地填补了这一空白，其[[Meta-meta-analysis|元-元分析]]庞大的数据库体量顺应了将[[Randomised Controlled Trials|随机对照试验]]（RCTs）奉为黄金标准的[[Scientism|科学主义]]潮流，为科层系统提供了无可比拟的科学严谨性幻觉（p.418）。
 
 哈蒂将效应量 d = 0.40 设定为“铰链点”（hinge point），并宣称其等同于学生在一个学年内的正常[[Growth|成长]]。这个等式将极度依赖特定情境的教学体验降维为单一的数值：
 - **循证决策的表格化** 校长可以像挑选股票一样进行“[[Return on Investment|投资回报]]”（[[Return on Investment|ROI]]）审计，支持效应量高于 0.40 的干预措施，砍掉低于 0.40 的措施（p.418）。

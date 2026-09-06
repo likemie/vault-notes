@@ -7,7 +7,7 @@ summary: "阿根廷圣安德烈斯大学教育学者，研究教育话语的跨�
 type: person
 nationality: argentina
 person_region: "argentina"
-person_related_count: 16
+person_related_count: 17
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -31,6 +31,7 @@ related_theories:
   - "[[Network Society]]"
 related_methods: []
 related_persons:
+  - "[[Marc-Antoine Jullien]]"
   - "[[Alejandro Artopoulos]]"
 related_facts:
   - "[[Conectar Igualdad]]"
@@ -59,7 +60,7 @@ updated: '2026-06-08'
 > Beech 区分了「静态的转移解释」和关系性空间视角。静态解释认为教育思想在某个地点被生产，然后被转移到另一个地点。关系性视角则认为教育知识在不同地点之间的沟通过程中被建构，[[Grammar of Schooling|学校的语法]]是在流通过程中被建构的，而非在某个特定地点生产然后被转移的([[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]])。
 
 > [!tip]- 教育转移的历史研究
-> Beech (2006) 回顾了比较教育中教育转移主题的历史演变，从 18 世纪朱利安的实践导向取向到更学术性的解释视角。他的工作强调了理解教育思想从一个语境转移到另一个语境的过程（引自 Beech & Artopoulos, 2015）。
+> Beech (2006) 回顾了比较教育中教育转移主题的历史演变，从 18 世纪[[Marc-Antoine Jullien|朱利安]]的实践导向取向到更学术性的解释视角。他的工作强调了理解教育思想从一个语境转移到另一个语境的过程（引自 Beech & Artopoulos, 2015）。
 
 > [!tip]- 阿根廷教育政策研究
 > Beech & Barrenechea (2011) 研究了阿根廷教育治理中的市场化倾向，分析了阿根廷是否是新自由主义教育治理的「黑天鹅」。他们的工作揭示了阿根廷官方教育部门抵制市场力量与实际政策中私人企业参与之间的张力。阿根廷《国家教育法》规定国家不会将教育视为盈利服务，但通过 [[Conectar Igualdad|PCI]] 等项目，英特尔、微软等私人企业正在阿根廷课堂中部署其权力（引自 Beech & Artopoulos, 2015）。

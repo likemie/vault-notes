@@ -9,7 +9,7 @@ title: "Argument_Cowen_2009_CE"
 argument_key: "Argument_Cowen_2009_CE"
 argument_display_title: "The transfer, translation and transformation of educational processes: and their shape‐shifting? Comparative Education, 45(3), 315-327"
 argument_kind: "journal-article"
-argument_related_count: 40
+argument_related_count: 41
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Discipline-Based Theory]]"
   - "[[Positivism]]"
   - "[[Research Problem]]"
+  - "[[Auslandspadagogik]]"
   - "[[Bildung]]"
   - "[[Cult of Efficiency]]"
   - "[[Educated Identity]]"
@@ -75,8 +76,8 @@ updated: '2026-07-08'
 year: 2009
 doi: ""
 citation_aliases:
-  - "Cowen, 2009"
-  - "Cowen (2009)"
+  - "Cowen, 2009b"
+  - "Cowen (2009b)"
 ---
 # Argument_Cowen_2009_CE
 
@@ -155,7 +156,7 @@ citation_aliases:
 > - **方法论执迷**
 >   在1950年代末至1970年代，英美比较教育学界陷入关于[[Positivism|实证主义]]、科学化及研究程序的长期论战（Lauwerys, 1959; Bereday, 1964; King, 1968; Noah & Eckstein, 1969）。尽管有些学者（如Holmes, 1965）的方法论旨在预测移植的社会后果，但这导致实质[[Research Problem|研究议题]]退化为对当时政策热点（如综合中学改革、课程大纲调整、师范教育改革）的琐碎追踪，忽略了深层的转移机制（pp.316–317）。
 > - **形式执迷**
-> 将并列对比的国别呈现形式（如阿富汗对比桑给巴尔）误当成学科的本质定义，遮蔽了比较教育科学（Vergleichende Erziehungswissenschaft）与国外教育学（Auslandspädagogik）之间的学理界限（p.317）。这种简化排斥了许多非对称对比但具有高度洞察力的经典研究：
+> 将并列对比的国别呈现形式（如阿富汗对比桑给巴尔）误当成学科的本质定义，遮蔽了比较教育科学（Vergleichende Erziehungswissenschaft）与国外教育学（[[Auslandspadagogik|Auslandspädagogik]]）之间的学理界限（p.317）。这种简化排斥了许多非对称对比但具有高度洞察力的经典研究：
 >   - **世界体系分析** Arnove (1980) 阐述的全球体系视角。
 >   - **军事精英培养** Barnett (1969) 对军校精英选拔与训练的历史对比。
 >   - **思想系统社会学** Bourdieu 对思想体系的社会学机制剖析（Hopper, 1971）。

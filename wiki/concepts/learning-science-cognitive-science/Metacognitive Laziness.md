@@ -23,12 +23,12 @@ related_concepts:
   - "[[Metacognition]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Academic Achievement]]"
+  - "[[Scaffolding]]"
   - "[[Cognitive Offloading]]"
   - "[[Working Memory]]"
   - "[[Learned Helplessness]]"
   - "[[Reflexivity]]"
   - "[[Learner Autonomy]]"
-  - "[[AI Hallucination]]"
   - "[[Illusion of Competence]]"
   - "[[Dialogue in Education]]"
   - "[[Homework]]"
@@ -72,7 +72,7 @@ updated: '2026-09-05'
 > [!concept-lens] 概念透镜
 > - **含义** 指向人机协同交互中，外部工具的高效性对学习者内部元认知加工机制的替代与抑制。
 > - **用途** 解释为何学生在借助 GenAI 取得优异表面[[Academic Achievement|学业成绩]]或语言表现的同时，其深层元认知调控与自主知识迁移能力并未同步发展的促学悖论。
-> - **边界** 不适用于具备显性反思提示与监控约束的高脚手架学习环境；亦不同于泛化的学习动力不足或行为怠惰，它特指高阶认知监控回路的被动旁路。
+> - **边界** 不适用于具备显性反思提示与监控约束的高[[Scaffolding|脚手架]]学习环境；亦不同于泛化的学习动力不足或行为怠惰，它特指高阶认知监控回路的被动旁路。
 
 > [!citation-card]- 关键表述
 > 元认知至关重要，提供诸如结构化自我评估和策略评价等方面的培训，能够增强学生有效使用生成式 AI 工具的准备度，并避免“元认知惰性”。[[Argument_Chen_Cheung_2025_ERR|(Chen & Cheung, 2025, p. 18)]]
@@ -103,8 +103,8 @@ updated: '2026-09-05'
 > [!feature] 核心要素
 > - **即时满足与认知捷径依赖** [[Generative Artificial Intelligence|GenAI]] 能够以极快速度输出结构完整、语言流畅的解答，消除认知冲突与求知阻力，诱使学生形成依赖算法输出的习惯心理。[[Argument_Chen_Cheung_2025_ERR|(Chen & Cheung, 2025, pp. 4, 16)]]
 > - **监控回路旁路（Bypassing Monitoring Loop）** 传统[[Learner Autonomy|自主学习]]中“计划—监控—评估—调节”的闭环，在自动化答案呈现时被短路，[[Reflexivity|反思性]]提问退化为单向指令索取。[[Argument_Chen_Cheung_2025_ERR|(Chen & Cheung, 2025, pp. 16, 18)]]
-> - **能力[[AI Hallucination|幻觉]]与表面绩效繁荣（[[Illusion of Competence]]）** 学生将 AI 辅助下生成的优质文本或代码误认为是自身心智能力的体现，掩盖了真实概念理解与反思能力的停滞。[[Argument_Chen_Cheung_2025_ERR|(Chen & Cheung, 2025, pp. 4, 18)]]
-> - **外在反思脚手架缺位** 大多数现有 AI 工具仅聚焦于“内容生成”与“单向解答”，缺乏促使学习者审视思维缺陷、权衡不同方案的交互引导机制。[[Argument_Chen_Cheung_2025_ERR|(Chen & Cheung, 2025, p. 16)]]
+> - **能力幻觉与表面绩效繁荣（[[Illusion of Competence]]）** 学生将 AI 辅助下生成的优质文本或代码误认为是自身心智能力的体现，掩盖了真实概念理解与反思能力的停滞。[[Argument_Chen_Cheung_2025_ERR|(Chen & Cheung, 2025, pp. 4, 18)]]
+> - **外在反思[[Scaffolding|脚手架]]缺位** 大多数现有 AI 工具仅聚焦于“内容生成”与“单向解答”，缺乏促使学习者审视思维缺陷、权衡不同方案的交互引导机制。[[Argument_Chen_Cheung_2025_ERR|(Chen & Cheung, 2025, p. 16)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -141,7 +141,7 @@ updated: '2026-09-05'
 > 探讨如何通过活动系统的规则重塑与工具再设计，将技术从信息供给型跃迁为思维激发型。
 
 > [!claim] Karaoglan Yilmaz & Yilmaz
-> **元认知脚手架的不可或缺性** 学习者在使用 AI 工具时需要更强大的[[Self-Regulated Learning|自我调节学习]]能力以主动设定目标和评估进度；未来技术与教学设计必须强制嵌入元认知脚手架，推动 AI 从单纯的信息传输转向促进[[Cognitive Flexibility|认知灵活性]]与自省意识。[[Argument_Chen_Cheung_2025_ERR|(Karaoglan Yilmaz & Yilmaz, 2025; 引自 Chen & Cheung, 2025, p. 16)]]
+> **元[[Scaffolding|认知脚手架]]的不可或缺性** 学习者在使用 AI 工具时需要更强大的[[Self-Regulated Learning|自我调节学习]]能力以主动设定目标和评估进度；未来技术与教学设计必须强制嵌入元认知脚手架，推动 AI 从单纯的信息传输转向促进[[Cognitive Flexibility|认知灵活性]]与自省意识。[[Argument_Chen_Cheung_2025_ERR|(Karaoglan Yilmaz & Yilmaz, 2025; 引自 Chen & Cheung, 2025, p. 16)]]
 
 > [!claim] Chen & Cheung
 > **结构化反思培训与制度性规约** 要化解生成式 AI 带来的元认知钝化风险，教育机构和教师不能仅关注工具操作层面的培训，而必须向学生系统提供结构化自我评估、策略批判与人机提示词反思训练，通过显性规则将反思环节重新植入学习活动闭环。[[Argument_Chen_Cheung_2025_ERR|(Chen & Cheung, 2025, pp. 18–19)]]
@@ -177,7 +177,7 @@ updated: '2026-09-05'
 > > - **de la Puente et al. (2024)** 坚信 LLM 能提供多视角批判性质询，显著提升大学生的[[Critical Thinking|批判性思维]]与高阶论证能力。
 > > - **Stadler et al. (2024)** 实证发现 AI 虽然显著降低了外在认知负荷，但导致了推理深度与论证质量的直接下滑，催生浅层思维。
 >
-> > [!axis] 解决路径：限制技术使用 vs 嵌入反思脚手架
+> > [!axis] 解决路径：限制技术使用 vs 嵌入反思[[Scaffolding|脚手架]]
 > > 针对[[Metacognition|元认知]]惰性的防范，政策与教学实践呈现出两种治理取向。
 > >
 > > - **传统规约派** 主张在考试与核心[[Homework|作业]]中限制或严禁 AI 接入，以强制恢复学生的内部心智运算与自我监控阻力。

@@ -1,0 +1,570 @@
+================================================================================
+Chapter 23: Mobility, Migration and Minorities in Education
+Author(s): Noah W . Sobe and Melissa G. Fischer
+Handbook: International Handbook of Comparative Education (2009)
+Editors: Robert Cowen and Andreas M. Kazamias (Section Editor: Elaine Unterhalter)
+Section: Section 3: The National, The International, and The Global
+Book Pages: pp. 359–371
+PDF Pages: pp. 372–384 (in raw/比较教育学国际手册2009Cowen.pdf)
+================================================================================
+
+--- [PDF Page 372 / Book Page 359] ---
+
+23
+MOBILITY, MIGRATION AND MINORITIES
+IN EDUCATION
+Noah W. Sobe and Melissa G. Fischer
+
+In recent years space and spatiality have increasingly become seen as important
+research topics in comparative and international education. By taking an interest in
+space as a domain of cultural practice, the researcher can also bring into resolution
+the restrictions on movement, inducements to movement, and the related boundaries,
+flows, and enclosures that have profound impact on the ways that educational policy and schooling practices are implemented, reformed, and contested. This chapter
+provides an introduction to several global educational issues that benefit from being
+analyzed in terms of spatial practices. We propose that comparative and international
+education researchers should be very interested in the ways that space and movement
+are “problematized,” or, put differently, seen as “problems” meriting political as well
+as social science attention. This in and of itself has considerable influence on the ways
+schools are researched globally and on the ways in which educational reforms are
+envisioned and implemented. Conceptualizations of space and movement also play
+a key role in the ways that particular groups/“kinds” of individuals are differentially
+affected by and differentially experience schooling institutions. The present chapter
+begins by discussing the interest in spatiality that has appeared across multiple academic disciplines. It then moves on to discuss student mobility and the education of
+migrant students as two specific educational issues that benefit from being analyzed
+in spatial terms. In the conclusion we suggest additional topics and areas in which the
+concepts being discussed here can be fruitfully employed by researchers in comparative and international education.
+
+Space in Historical and Contemporary Perspective
+Since the 1970s scholars in a range of disciplines have placed questions connected with
+space and spatiality increasingly at the center of their analyses (e.g. Cosgrove, 1998;
+Gupta & Ferguson, 1997; Poovey, 1995; Soja, 1996). Henri Lefebvre’s work (1991)
+and his suggestion that space be understood as a social production frequently provides
+a baseline for the argument that a “spatial dimension” is critical for comprehensive
+understandings of social formations, identities and, indeed, the practices of everyday
+life (de Certeau, 1984). This trend in scholarship has even led to notions of a “spatial
+turn” akin to the assertion of a “cultural turn” and “linguistic turn”. Paul Gilroy’s
+359
+R. Cowen and A. M. Kazamias (eds.), International Handbook of Comparative Education, 359–371.
+© Springer Science + Business Media B.V. 2009
+
+--- [PDF Page 373 / Book Page 360] ---
+
+360 Sobe and Fischer
+
+(1993) work on the “Black Atlantic” stands as a superb example of the usefulness of
+thinking about space in social and cultural terms, rather than exclusively relying upon
+natural and territorial criteria. This current has had an increasing presence in comparative and international education scholarship, expressly in the social cartographic work
+of the late Roland Paulston (1997, 2000) and as a perspective and instrument put to
+use by a number of scholars (e.g. Beech, 2002; Dussel et al., 2000; English, 2004;
+Epstein, 2006; Gordon & Lahelma, 1996; Ninnes & Burnett, 2003; Nóvoa & Lawn,
+2002). However, the importance that some scholars now give to issues of spatiality
+should not be seen merely as academic vogue or, alternatively, simply as a progressive
+improvement in the practices of scholarship. Rather, it is important to set this in the
+context of main currents in European and American thought which, particularly since
+the Enlightenment, have exhibited a tendency to view space in temporal terms.
+The temporalization of space enabled Europeans who traveled around the globe from
+the seventeenth century onwards to view themselves as “time travellers” whose journeys
+allowed them to observe different stages of civilizational progress (Leed, 1991). In indigenous/
+aboriginal peoples it was possible to see ancient Greeks, Romans, and barbarians (Sayre,
+1997). And, accordingly, it was also possible to deploy the temporal category “primitive”
+as a descriptor of certain groups and their manners and mores. The self-privileging, tautological, and linear evolutionary trajectory that this inscribed is so familiar that it hardly
+bears mention, except that the pattern of positioning minority and marginalized groups in
+spaces that could be characterized by an absence of norms of civility and a need for “development” continues up through the present day (Popkewitz, 1998). However, to emphasize that philosophical, historical, and social scientific thought as shaped by the European
+Enlightenment tends to prioritize time over space is not to deny the historical importance
+that space has actually had. Over this same time-span, and well beyond the ways it functioned in narratives of progress, spatiality has had profound importance as a strategy of
+government (with “government” to be understood in this chapter not as synonymous with
+state but in the broader, classical political theory sense as a category encompassing the
+minute and multiple ways in which individuals are regulated and self-regulate.)
+Nikolas Rose (1999) proposes that since the early nineteenth century we have seen the
+spatialization of governmental thought along three noteworthy axes. First, one can look
+at territorializations, the demarcations of spaces such as a “national economy,” “population,” as well as “classroom,” “school,” “family,” and “community.” Once these objects
+are thought of as discrete spaces it becomes possible to administer them, and to prevent
+and foster the movement (conceptual or physical) of certain individuals into or across
+them. Second, one can point to the inscription of power relations through maps, surveys,
+charts, and tables as “spatializing the gaze of the governors” (p. 36). This captures the
+importance to government of rendering visible the acts, dispositions, and “being” of
+those who are its subjects and objects. James Kay-Shuttleworth’s (1832/1970) study
+of the Manchester poor is an excellent example of how statistical investigations make
+objects visible so that they can be manipulated (e.g. the construct of “living conditions”
+as an aggregation of individual experience). Norms and values are inscribed in the
+very ways that such objects are seen as problems that can be alleviated or managed.
+Third, one can look at the way the “texture” of space has been understood or “modeled”
+in relation to government. Conceptualized as isotropic (everywhere the same), space
+
+--- [PDF Page 374 / Book Page 361] ---
+
+Mobility, Migration and Minorities in Education 361
+
+lends itself to repetitive action, reproducible products, standardization, and uniformity
+(Poovey, 1995). However, in modernity space has also at times been conceptualized
+to possess thickness and depth, notably in the division often taken to separate human
+experiences from “underlying” laws and principles (Foucault, 1971; Rose, 1999). When
+space is conceptualized not as a smooth plane but as nonregular, with varying, uneven
+depths, principles of differentiation ensue. For example, some areas emerge as sites
+suited for liberal, democratic participatory politics; others emerge as more appropriately governed through force, authority, and the inculcation of habit. Notwithstanding
+the fact that “smooth” and “uneven” notions of space produce very different strategies
+of governance, they can be deployed simultaneously, to be applied to one or another
+dimension of the social phenomena and kinds of individuals at hand.
+Understanding the ways space has served as an arena and tool of modern governance
+allows us to see the school (1) as an enclosure used in the administration of populations and (2) as a site for the qualification/disqualification of individuals (and specific
+groups of individuals) for participation/non-participation in other social spaces. As
+will be seen below, forms of mobility and practices of migration interact with the
+operations of schooling and are problematized in educational policy and research in
+ways that are of deep significance for minority and marginalized groups.
+
+Mobility
+Closely tied to the social production of space is the social production of movement.
+Scholarly interest in people and objects in “flux” has exploded in the past two decades. With this, debate has ensued on how to approach mobility and movement as
+sometimes a privileged condition and sometimes (perhaps even frequently) more of a
+generic, widespread human experience. As James Clifford (1997) has pointed out, the
+customary paradigm has been to attribute movement and the advantages that accrue
+from an ability to occupy multiple positions to cultural elites, academic researchers
+among them (cf., Riles, 2000). Settlement, stability, and all that remains in-situ (i.e.,
+most of what falls under the much-critiqued classical anthropological notion of culture
+as static entity) is then coded as a “backwards” provincial remainder needing to be
+reformed/transformed by “forces” seen as “moving in” from the outside. Connected
+to this is the analytic and cultural paradigm that views “authentic” forms of mobility as
+inhering exclusively in the free (and freeing) movements of subjects for whom journeys/departures are a matter of choice. When movement is prompted by economic
+necessities or forces “beyond one’s control”, it is taken as a considerably less desirable
+form of mobility (Bartkowski, 1995). This bifurcation is directly reflected in contemporary educational research literature, as is starkly evidenced by the radically different
+studies that one finds catalogued under the descriptor “student mobility”.
+Looking globally and comparatively across education research on “student mobility”
+exposes a deep contradiction: in some settings this is a cherished objective and key desideratum of educational policy; in others it is woeful problem to be stemmed and urgently
+managed. In fact, it is quite rare to find any middle ground between the valorizing and
+excoriating perspectives. There is “student mobility” as exemplified by European Union
+
+--- [PDF Page 375 / Book Page 362] ---
+
+362 Sobe and Fischer
+
+(EU) initiatives such as ERASMUS, SOCRATES, and TEMPUS. And, there is “student
+mobility” epitomized in a United States “school report card” – one of the accountabilityrelated procedures required as part of President George Bush’s 2001 “No Child Left
+Behind” (NCLB) education reform legislation. In this second case, the reference is to the
+number of students who enter or leave a school during a given school year, something
+held to be one of several key indicators of a school’s student characteristics and a plausible mitigating factor in the quest to meet accountability-related performance objectives
+(Offenberg, 2004). While they diverge sharply, these two uses of the concept of “student
+mobility” illustrate how the spatialization of education is linked to strategies of governance that inscribe social norms and regulative ideals through the administration of spaces
+together with those who are (and those who are not) to pass through and across them.
+António Nóvoa (2002) argues that mobility has emerged as a key touchstone in
+EU-oriented European identity formation. The concept becomes a means to imagine European citizenship, as it “contain[s] an imaginary of past journeys and cultural
+travels [and] suggests a sense of freedom and openness towards the future” (p. 146).
+EU-mobility programs such as ERASMUS play a symbolic role in inscribing “an experience of Europe in each citizen” (p. 147) that is collectivizing and unifying while also
+being entirely compatible with an imagined Europe of diversity, multiple identities and
+complexity. In 2007 the ERASMUS program celebrated its 20th anniversary, having
+provided grant support that to date has enabled around 1.5 million European university
+students to study at other institutions within Europe. The program has now been folded
+into the EU’s new lifelong learning program and will continue at least through 2013.
+In addition to boosting mobility, transparency, and facilitating the transfer of credits,
+the ERASMUS objectives include reinforcing the “European dimension” of higher education. As Nóvoa suggests, the program also reinforces the “European dimension” of
+Europeans themselves. As a technique for producing a collective identity, travel is a
+classic technique in the national imaginary repertoire (Sobe, 2006; Vari, 2006). Yet, as
+the EU pursues traditional nation-building strategies (flag/anthem/textbook) in conjunction with a knowledge- and competencies-based strategy that lays out new territories
+of affiliation and ideals of “Europeanness” (Schissler & Soysal, 2005; Soysal, 2002),
+mobility and movement have been recast to emphasize participation in networks that
+bring people together in contingent assemblages and temporary “common” projects
+(Papatsiba, 2006; Reed-Danahay, 2003). Student mobility in this milieu can be viewed
+as an individualizing educational practice that places new responsibilities on individuals and centers on employability-related competencies, even as these competencies are
+revised to encompass civic and political rationalities (Papatsiba, 2005). The TEMPUS
+mobility program, which targets higher education mobility between the EU and partner
+countries in Eastern Europe, the Balkans, the Middle East, and North Africa, extends
+this project of modernization and mutual learning, arguably helping to further cement
+the linkage between mobility and a European social imaginary configured around participation. This is hardly to suggest that TEMPUS programs don’t produce forms of
+exclusion (Lawson et al., 2003; Walsh et al., 2005), but rather to emphasize the ways
+that “student mobility” as it presently appears as an education policy problem in Europe
+is connected with identity work that normalizes individual movement, flexibility, and
+multicultural resourcefulness as the proper qualities of the enfranchised citizen.
+
+--- [PDF Page 376 / Book Page 363] ---
+
+Mobility, Migration and Minorities in Education 363
+
+Standing in stark contrast is the “student mobility” that appears as an education
+policy problem in the United States. This form of mobility – students moving from one
+educational institution to another mid-school year – is a particularly common problem in urban areas, though it has been noted as an issue that rural areas face as well
+(Schafft, 2005). It is quite revealing of ways that student movement is socially coded
+and culturally constructed in the US context that the policy and research language
+sometimes shifts from speaking in terms of “mobility” to discussing this as a form
+of “transiency”, the latter being closely linked with poverty and the perception that
+the individual(s) in question exhibit an almost pathological inability to live a proper,
+settled life. In other words, mobility is not seen as an advantage but as an obstacle
+to progress and stability. We can identify a similarly divergent coding of movement
+in the distinction sometimes made between “exile” and “refugee” (Clifford, 1997).
+Although there are great similarities in that both have been somehow forced to emigrate from a country of origin, the “exile” tends to be viewed as an autonomous agent,
+whereas the “refugee” is frequently stigmatized in terms of dependency (Mosselson,
+2007). As mentioned earlier, the 2001 NCLB legislation has brought renewed attention to “student mobility” since this has now become one of the key characteristics that
+defines a school. Mobility here is related to the spatialization of family and community
+as objects of government, with Latino populations featuring as a particular concern,
+something we will also see in the following section on the education of migrant students. Student mobility in this problematization is multifaceted and could, for example,
+connect with homelessness, foster care, child custody issues, etc. Of course, it should
+not be overlooked that mobility can also be school-initiated due to discipline policy or
+the management of overcrowding. Russell Rumberger (2003) argues that while residential relocation is the largest factor prompting US primary and secondary students
+to enter or leave a school while the school year is in session (typically accounting for
+around 60% of student mobility) it is far from the sole reason. Particularly given that
+a large portion of residential relocation is local and would not necessarily force school
+relocation, some researchers are beginning to argue that student mobility also needs
+to be viewed as a purposeful, strategic action on the part of students and families who
+may be changing schools because of their own concerns about safety, teacher quality,
+and academic opportunities (Kerbow et al., 2003). However, as an NCLB school report
+card item, “student mobility” serves as an indicator of deviance within a school population, namely the deviance of those who stubbornly refuse to stay within the space(s)
+that are supposed to confine, regulate and advance them.
+These starkly different orientations taken towards “student mobility” are partly – but
+not fully – explained by the differences in educational levels being considered. To be
+sure, there are European educational researchers concerned about connections between
+primary school student mobility and achievement (Demie et al., 2005; Strand & Demie,
+2006), just as there are US researchers interested in student mobility in post-secondary
+education. However, in the US at the post-secondary level, by and large, the overall
+problematization does not shift from what we have seen at primary and secondary levels:
+student mobility becomes “multiple institution attendance” and is seen as a complicating
+factor, typically with adverse effects on degree completion and sector-wide efficiency
+(Pusser & Turner, 2004). Study-abroad at the college and university level would seem to
+
+--- [PDF Page 377 / Book Page 364] ---
+
+364 Sobe and Fischer
+
+be the exception, except that in the US this is much more frequently constructed as an
+issue of “international exchange” than one of “student mobility”. Obviously studying
+abroad necessarily requires movement and travel on the part of students, nonetheless
+it seems quite evident that, in the US, the mobility aspect of this is not inscribed in a
+social salvation narrative anyway near to the extent that it is in European higher education reform discourses.
+A similar contrast emerges when one compares European and US discourses on
+“teacher mobility”. Professional mobility, including teacher mobility is a policy desideratum only slowly beginning to be realized in Europe (Sayer, 2006). In US contexts
+this tends to be seen in terms of workforce attrition and through an equity lens that
+frequently reveals qualified teachers leaving urban schools with high minority student
+populations (Elfers et al., 2006; Scafidiet al., 2007). To an extent, focusing on different
+meanings imputed to “mobility” as a research descriptor forces a false dichotomy.
+Teacher credentials mobility is, after all, very much an active concern in the US.
+Likewise, teacher attrition and urban teacher retention are very much pressing concerns in Europe. Yet, our hope is that the comparisons drawn in this section usefully
+expose the conflicted nature of the educational politics around “movement” – as something possessing “proper” and “improper” forms. The regulation of who is and who
+isn’t to be mobile is a key dimension of the spatial practices within which and by which
+modern schooling operates.
+
+Migration
+It is now canonical in comparative education literature to note that population flows are
+transforming the composition of social and political communities around the globe.
+With this come new cultural formations (Appadurai, 1990, 2000) and new educational
+pressures (Burbules & Torres, 2000; Suárez-Orozco, 2001). This section of the chapter
+examines migration as a subset of mobility that concerns the relocation of people from
+one locality to another. Academic researchers and public policymakers frequently find
+it useful, if not necessary, to distinguish between “voluntary” and “forced” migration.
+While this distinction is redolent of the cultural coding of different styles of human
+movement as discussed above (and while some analysis in this vein would seem to be
+called for), military conflict and war are increasingly pushing issues connected with
+de facto forced migration onto educational research agendas (Burde, 2005; Pinson
+& Arnot, 2007; Talbot, 2005) and compelling scholars to confront the legitimately
+unique combinations of problems (repatriation, restitution, reconciliation, rehabilitation, etc.) faced by those forced to migrate under such circumstances. The discussion
+of migration that follows in this section will focus only on the category of “voluntary
+migration” and its frequent association with economic/employment driven relocation.
+Rather than tackling the enormous topic of immigration and the education of immigrant students (for an excellent synthetic treatment of immigrant education in the US
+see Olneck, 2004) we will continue with our focus on space and movement and look
+specifically at the education of migrant students. These are students considered by
+school authorities to be “in transit” (even while students themselves may have different
+
+--- [PDF Page 378 / Book Page 365] ---
+
+Mobility, Migration and Minorities in Education 365
+
+understandings of their school attendance). Some basic configurations and contours of
+migrant education can be illuminated by looking briefly at several cases: China, Spain,
+the United States, the United Kingdom, and India.
+What is sometimes referred to as China’s migrant rural population consists of
+individuals and families from the countryside who have become “unofficial” urban
+residents, typically because they were drawn to China’s eastern urban conglomerations for jobs in the service and industrial sectors. Because of China’s Residence
+Registration System, the children of these internal migrants are not categorized as
+local residents and until recently have not had access to publicly funded state schools
+(Liang & Chen, 2007; Shaoqing & Shouli, 2004; Yan, 2005). As a consequence,
+special unlicensed, private schools for migrant children have sprung up in the last
+decade – frequently started by migrant workers themselves (Jianhua, 2006; Kwong,
+2004). Since 2003, however, government policy has begun to change, and more and
+more migrant children are entering public urban schools (Yuankai, 2006). In connection with this policy shift, in 2006 over 100 private schools for migrant children
+were forcibly closed in Beijing, There appears to be considerable variability from city
+to city as to whether there is adequate capacity in the public schools that are now,
+in principle, open to the children of China’s internal migrants (French, 2007). The
+number of school-aged children in question is sometimes estimated to be around 20
+million and the Chinese case stands as a powerful example of the ways that schooling
+is drawn into larger politics of social regulation, with considerable consequence for
+great numbers of children whose social exclusion is further exacerbated by the denial
+of educational opportunity.
+In the United States, since the 1982 Plyler v. Doe Supreme Court decision, the equal
+protection clause of the constitution has been held to grant to the children of illegal
+aliens the right to a free, public education. Though not all migrant students in the US
+are of “undocumented status,” this decision was pivotal in regularizing the provision of
+education to migrant students. The federal-level Department of Education contains an
+Office of Migrant Education that organizes regional networks and administers several
+funding programs. Alongside this, it is worth mentioning that the US possesses extensive networks of researchers and educators attempting to address the special educational needs of migrant students (Garza et al., 2004; Green, 2003). While the children
+that fall into this group share certain experiences of mobility as “children of the road,”
+and while many of them are of Mexican descent, this population also includes students
+from Haiti, Puerto Rico, Africa, Vietnam, Cambodia, and Eastern Europe (Branz-Spall
+et al., 2003). They face similar challenges in the US school system including segregation due to limited English proficiency and/or their status as migrants; a general
+inconsistency in educational opportunities (Brunn, 1999); and, home-school conflicts
+(Lopez, 1999). Despite the attention paid to migrant education, as mentioned, only a
+small percentage of US educators serving this population have ever received professional development for teaching migrant students. In diametric contrast to the Chinese
+case, the parents of these migrant students are typically pursuing agricultural labor
+in rural areas. Nonetheless, a politics of documentation and registration is common
+to both instances, once again highlighting the school as a site where the regulation of
+movement is tied to the creation of governable populations.
+
+--- [PDF Page 379 / Book Page 366] ---
+
+366 Sobe and Fischer
+
+In the last several decades Spain has experienced a rapid reversal, moving from being
+an immigrant-producing to immigrant-receiving country. At present around 9% of the
+population is classified as foreign, with the number of children between the ages of 0
+and 14 in this category more than doubling between 2002 and 2006. Data indicate that
+the pool of foreigners residing in Spain contains sharply diverging profiles. No longer
+are the majority of Spain’s foreign workers from North Africa. Even though Morocco
+provides the single largest national contingent, as a region it is Latin America followed
+by Eastern Europe now supplying the greatest numbers (Isusi & Corral, 2007). A sizeable population of Europeans from EU countries has also begun to take up residency
+in Spain, adding further uncertainty to the pattern or long-term trend that this is all
+pointing to. It is even unclear what portion of these populations might come to be
+referred to as “migrant,” and what portion “immigrant.” Educators face the challenge
+of teaching heterogeneous classes that include limited Spanish proficiency students
+(Harry, 2005). Some researchers emphasize that in the face of this Spain has adopted
+an “intercultural approach” that aims to recognize, accept and value the different cultural groups in Spanish schools (Garcia & Molina, 2001; Santos, 1999). The different
+ways that these various migrant groups will interact with the Spanish school system
+remains to be seen. However, when set alongside China and the US, Spain serves as a
+useful reminder that the spatial politics of migrant education are not fixed to a uniform
+pattern. The configuration of individuals, institutions, and proper/improper movement
+across and between is always to an extent in formation.
+In the United Kingdom, “traveler” children have been a longstanding concern of
+educators (Bhopal et al., 2000). The recent post-communist migration of Romani
+groups out of Eastern and South-eastern Europe has added new layers of complexity
+to the multiple, and quite different, social/ethnic groups which are sometimes labeled
+as “gypsy.” In the UK in particular, there is an extraordinary diversity within “traveler” communities, some mobile and others settled though still experiencing the social
+stigma of being considered itinerant (Acton, 2006). Recent scholarship (Derrington &
+Kendall, 2004) has detailed the continued obstacles that traveler/gypsy children face in
+schools, though also acknowledging the educational successes and advances that have
+been made. Among sections of these populations that are in fact migrant, researchers
+Martin Levinson and Andrew Sparkes (2005) have found that students face problems
+adapting to the way that space is used within the school, specifically “the highly structured use of space” (p. 764) which generates a cultural dissonance. This mismatch
+undermines the policy objective of preparing these children for participation in the
+larger society at the same time as recognizing home culture(s) and enabling these populations to continue to remain somewhat apart. The UK case shows how cross-cultural
+interaction adds a layer of complexity to the education of migrant students particularly
+as educators and policymakers sensitive to multicultural education concerns strive to
+accommodate the cultural distinctiveness of a given migrant population while also
+affording academic opportunities and attempting to alleviate social exclusion.
+Pastoral nomads in Western India constitute one of the country’s most marginalized
+groups (Dyer, 2001). Until quite recently schooling options have been quite limited
+for the Rabaris, a group in the province of Gujarat whose migratory pastoral practices
+have been steadily disrupted by development initiatives. For nomadic peoples, formal
+
+--- [PDF Page 380 / Book Page 367] ---
+
+Mobility, Migration and Minorities in Education 367
+
+education has frequently featured as a centerpiece of state-initiated sedentarization
+campaigns (cf. Steiner-Khamsi & Stolpe, 2006). However, schooling is also something
+that can be leveraged by migrant groups to their own advantage. Researcher Caroline
+Dyer (2001) argues that educational attainment, while uneven, is increasingly viewed
+as a route to building social capital. Literacy in particular is viewed as standing to
+“eliminate the current disempowering dependency on others to provide information”
+(p. 319). Nomadic families frequently place a son in school as a form of “insurance,”
+less to aid pastoralism than to establish alternative economic options. This particular
+instance of nomadic migrant education is not a general example that would hold consistent across all instances of pastoral nomadism – such as in Iran or Nigeria (Umar &
+Tahir, 2000) – but it does illustrate the agency of migrant peoples with regard to education and with regard to their own mobility, even in the face of substantial state-related
+limitations and restrictions.
+The five cases discussed in this section all show the various ways that the spatial
+enclosures of schools produce or limit participation in other social spaces. As we saw
+earlier with “student mobility” there is no one experience of educational space and
+movement but multiple forms of “migrant education” that need to be contextually and
+historically understood.
+
+Conclusion
+This chapter’s discussion of mobility, migrants, and minorities in education has
+revealed that alongside an interest in the spatial dimensions within which schools and
+education policies operate, it is also necessary to take into account the spatial practices
+by which they operate. In terms of the former, one can think of labor market flows,
+international trade in educational services, and the new media transmission of youth
+cultures as phenomena significantly responsible for shaping the “terrain” and “territory” of education. In terms of the latter, it is useful to remind ourselves that at least
+since the early nineteenth century schools have been a central node in the project of
+rendering individuals and populations subject to calculation and administration. The
+creation of spaces that can be studied, evaluated, and managed is one the chief techniques of this form of governance. Though the ways in which various components
+have been put into relation with one another has experienced considerable change
+in the intervening two centuries, education policy still fundamentally relies on the
+production of governable spaces such as “classroom,” “school,” “family,” and “community.” Even a multicultural educational project that attempts to recognize and value
+gypsy culture or preserve the livelihood of pastoral nomads invariably relies upon such
+governable spaces. We have proposed that spatial practices need to be analyzed in conjunction with the flows and stoppages that hasten and restrict the movements of people
+and objects into and across particular spaces. This could be a useful frame from which
+to analyze what is sometimes referred to as educational borrowing and lending and to
+use in more extensive and fine-grained studies of immigrant education globally. It also
+makes an extremely productive ground for cross-cultural comparison of curricular and
+pedagogical practices.
+
+--- [PDF Page 381 / Book Page 368] ---
+
+368 Sobe and Fischer
+
+This chapter has suggested that increased attention be paid to the spatial organization
+of schooling, whether this is in relation to the physical architecture of classrooms and
+corridors, or whether this is considered in terms of the space of particular “populations”.
+Popkewitz and Lindblad (2000) recommend that we approach the issue of educational
+inclusion and exclusion as involving both a problematic of knowledge and an equityparticipation problematic. The latter describes a problematization that takes as its central concern the access and representation of individuals and groups in educational and
+other social practices and emphasizes the structural role of the state as an interest-driven
+actor. The former focuses on the systems of reasoning and cultural practices that qualify
+and disqualify as they establish what is proper and improper or virtuous and deficient.
+To join these two problematics is a formidable analytic challenge; however, we propose
+that looking at the spatial practices within which and by which schools operate is one
+productive way to undertake such a project. It is an avenue of inquiry that promises to
+be extremely fruitful for scholars in comparative and international education.
+
+References
+Acton, T. (2006). Book review: Traveller education. Journal of Multilingual and Multicultural Development,
+27(4), 353–355.
+Appadurai, A. (1990). Disjuncture and difference in the global cultural economy. In M. Featherstone (Ed.),
+Global culture: Nationalism, globalization and modernity (pp. 295–310). London: Sage.
+Appadurai, A. (2000). Grassroots globalization. Public Culture, 12(1), 1–19.
+Bartkowski, F. (1995). Travelers, immigrants, inmates: Essays in estrangement. Minneapolis: University of
+Minnesota Press.
+Beech, J. (2002). Latin American education: Perceptions of linearities and the construction of discursive
+space. Comparative Education, 38(4), 415–427.
+Bhopal, K., Gundara, J., Jones, C., & Owen, C. (2000). Working towards inclusive education: Aspects of
+good practice for gypsy traveller pupils. London: International Centre for Intercultural Studies Institute
+of Education, University of London.
+Branz-Spall, A. M., Rosenthal, R., & Wright, A. (2003). Children of the road: Migrant students, our nation’s
+most mobile population. Journal of Negro Education, 72(2), 55–61.
+Brunn, M. (1999). The absence of language policy and its effects on the education of Mexican migrant
+children. Bilingual Research Journal, 23(4), 319–344.
+Burbules, N. C. & Torres, C. A. (2000). Globalization and education: An introduction. In N. C. Burbules &
+C. A. Torres (Eds.), Globalization and education: Critical perspectives (pp. 1–26). New York: Routledge.
+Burde, D. (2005). Promoting stable post-conflict education. Forced Migration Review, 22 (“Education in
+Emergencies Special Issue”), 41.
+Clifford, J. (1997). Routes: Travel and translation in the late twentieth century. Cambridge, MA: Harvard
+University Press.
+Cosgrove, D. E. (1998). Social formation and symbolic landscape ([Pbk.] ed.). Madison: University of
+Wisconsin Press.
+de Certeau, M. (1984). The practice of everyday life. Berkeley: University of California Press.
+Demie, F., Lewis, K., & Taplin, A. (2005). Pupil mobility in schools and implications for raising achievement. Educational Studies, 31(2), 131–147.
+Derrington, C. & Kendall, S. (2004). Gypsy traveller students in secondary schools: Culture identity and
+achievement. Stoke-on-Trent: Trentham Books.
+Dussel, I., Tiramonti, G., & Birgin, A. (2000). Towards a new cartography of curriculum reform: reflections
+on educational decentralization in Argentina. Journal of Curriculum Studies, 32(4), 537–559.
+Dyer, C. (2001). Nomads and education for all: Education for development or domestication? Comparative
+Education, 37(3), 315–327.
+
+--- [PDF Page 382 / Book Page 369] ---
+
+Mobility, Migration and Minorities in Education 369
+Elfers, A. M., Plecki, M. L., & Knapp, M. S. (2006). Teacher mobility: Looking more closely at “the movers” within a state system. Peabody Journal of Education, 81(3), 94–127.
+English, L. M. (2004). Third space/identity montage and international adult educators. In P. Ninnes &
+S. Mehta (Eds.), Re-imagining comparative education: Postfoundational ideas and applications for
+critical times (pp. 225–240). New York: Routledge.
+Epstein, I. (2006). Introduction. In I. Epstein (Ed.), Recapturing the personal: Education, embodied knowledge and comparative inquiry (pp. 1–22). Greenwich, CT: Information Age Publishing.
+Foucault, M. (1971). The order of things: An archaeology of the human sciences. New York: Pantheon
+Books.
+French, H. W. (2007, January 25). China strains to fit migrants into mainstream classes. New York Times, 3.
+Garcia, B. L. & Molina, L. M. (2001). Moroccan children and Arabic in Spanish schools. In G. Extra &
+D. Gorter (Eds.), The other languages of Europe: Demographic, sociolinguistic, and educational perspectives (pp. 279–292). Clevedon, UK/Buffalo, NY: Multilingual Matters.
+Garza, E., Reyes, P., & Trueba, E. T. (2004). Resiliency and success: Migrant children in the United States.
+Boulder, CO: Paradigm Publishers.
+Gilroy, P. (1993). The black Atlantic: Modernity and double consciousness. Cambridge: Harvard
+University Press.
+Gordon, T., & Lahelma, E. (1996). “School is like an Ant’s Nest:” Spatiality and embodiment in schools.
+Gender and Education, 8(3), 301–310.
+Green, P. (2003). The undocumented: Educating the children of migrant workers in America. Bilingual
+Research Journal, 27(1), 51–73.
+Gupta, A. & Ferguson, J. (1997). Culture, power, place: Explorations in critical anthropology. Durham
+[N.C.]: Duke University Press.
+Harry, B. (2005). Equality, excellence and diversity in a rural secondary school in Spain: ‘Integration is very
+nice, but . . . ’. European Journal of Special Needs, 20(1), 89–106.
+Isusi, I. & Corral, A. (May 30, 2007). Employment and working conditions of migrant workers – Spain. Retrieved
+June 22, 2007, from http://www.eurofound.europa.eu/ewco/studies/tn0701038s/es0701039q.htm
+Jianhua, F. (2006). Equal education. Beijing Review, 49(12), 28–29.
+Kay-Shuttleworth, J. (1832/1970). The moral and physical condition of the working classes employed in the
+cotton manufacture in Manchester. New York: A.M. Kelly.
+Kerbow, D., Azcoitia, C., & Buell, B. (2003). Student mobility and local school improvement in Chicago.
+Journal of Negro Education, 72(1), 158–164.
+Kwong, J. (2004). Educating migrant children: Negotiations between the state and civil society. China
+Quarterly, 180, 1073–1088.
+Lawson, T., Livingston, K., & Mistrik, E. (2003). Teacher training and multiculturalism in a transitional
+society: the case of the Slovak Republic. Intercultural Education, 14(4), 409–421.
+Leed, E. (1991). The mind of the traveler: From Gilgamesh to global tourism. New York: Basic Books.
+Lefebvre, H. (1991). The production of space. Oxford/Cambridge, MA: Blackwell.
+Levinson, M. P. & Sparkes, A. C. (2005). Gypsy children, space, and the school environment. International
+Journal of Qualitative Studies in Education, 18(6), 751–772.
+Liang, Z. & Chen, Y. P. (2007). The educational consequences of migration for children in China. Social
+Science Research, 36, 28–47.
+Lopez, M. E. (1999). When discourses collide: An ethnography of migrant children at home and in school.
+New York: P. Lang.
+Mosselson, J. (2007). Masks of achievement: An experiential study of Bosnian female refugees in New York
+city school. Comparative Education Review, 51(1), 95–115.
+Ninnes, P. & Burnett, G. (2003). Comparative education research: Poststructuralist possibilities. Comparative
+Education, 39(3), 279–297.
+Nóvoa, A. (2002). Ways of thinking about education in Europe. In A. Nóvoa & M. Lawn (Eds.), Fabricating
+Europe: The formation of an education space (pp. 131–155). Dordrecht/Boston: Kluwer.
+Nóvoa, A. & Lawn, M. (2002). Fabricating Europe: The formation of an education space. Dordrecht/
+Boston: Kluwer.
+Offenberg, R. M. (2004). Inferring adequate yearly progress of schools from student achievement in highly
+mobile communities. Journal of Education for Students Placed at Risk, 9(4), 337–355.
+
+--- [PDF Page 383 / Book Page 370] ---
+
+370 Sobe and Fischer
+Olneck, M. (2004). Immigrants and education in the United States. In J. A. Banks & A. M. Banks (Eds.),
+Handbook of research on multicultural education (Second ed., pp. 381–403). New York: Macmillan.
+Papatsiba, V. (2005). Political and individual rationalities of student mobility: A case-study of ERASMUS
+and a French regional scheme for studies abroad. European Journal of Education, 40(2), 173–188.
+Papatsiba, V. (2006). Making higher education more European through student mobility? Revisiting EU
+initiatives in the context of the Bologna process. Comparative Education, 41(1), 93–111.
+Paulston, R. (1997). Mapping visual culture in comparative education discourse. Compare, 27(2), 217–252.
+Paulston, R. (2000). A spatial turn in comparative education? Constructing a social cartography of difference. In J. Schriewer (Ed.), Discourse formation in comparative education (pp. 297–357). Frankfurt am
+Main: Peter Lang.
+Pinson, H. & Arnot, M. (2007). Sociology of education and the wasteland of refugee education research.
+British Journal of Sociology of Education, 28(3), 399–407.
+Poovey, M. (1995). Making a social body: British cultural formation, 1830–1864. Chicago: University of
+Chicago Press.
+Popkewitz, T. S. (1998). Struggling for the soul: the politics of schooling and the construction of the teacher.
+New York: Teachers College Press.
+Popkewitz, T. S. & Lindblad, S. (2000). Educational Governance and Social Inclusion and Exclusion: some
+conceptual difficulties and problematics in policy and research. Discourse: Studies in the Cultural
+Politics of Education, 21(1), 5–44.
+Pusser, B. & Turner, J. K. (2004). Student mobility; Changing patterns challenging policymakers. Change,
+36(2), 36–44.
+Reed-Danahay, D. (2003). Europeanization and French primary education: Local implications of supranational policies. In K. M. Anderson-Levitt (Ed.), Local meanings, global schooling: Anthropology and
+world culture theory (pp. 201–218). New York: Palgrave.
+Riles, A. (2000). The network inside Out. Ann Arbor: University of Michigan Press.
+Rose, N. S. (1999). Powers of freedom: Reframing political thought. Cambridge/New York: Cambridge
+University Press.
+Rumberger, R. W. (2003). The causes and consequences of student mobility. Journal of Negro Education,
+72(1), 6–21.
+Santos, M. (1999). Cultural diversity: Equal opportunities? Journal of Education, 34(4), 437–447.
+Sayer, J. (2006). European perspectives of teacher education and training. Comparative Education, 42(1),
+63–75.
+Sayre, G. M. (1997). Les Sauvages Américains: Representations of native Americans in French and English
+colonial literature. Chapel Hill: University of North Carolina Press.
+Scafidi, B., Sjoquist, D. L., & Stinebrickner, T. R. (2007). Race, Poverty, and Teacher Mobility. Economics
+of Education Review, 26(2), 145–159.
+Schafft, K. A. (2005). The incidence and impacts of student transiency in upstate New York’s rural school
+districts. Journal of Research in Rural Education, 20(15), 1–13.
+Schissler, H. & Soysal, Y. N. (2005). The nation, Europe, and the world: Textbooks and curricula in transition. New York: Berghahn Books.
+Shaoqing, L. & Shouli, Z. (2004). Urban/rural disparity and migrant children’s education. Chinese Education
+and Society, 37(5), 56–83.
+Sobe, N. W. (2006). Embodied knowledge and the nation: The school field trip. In I. Epstein (Ed.),
+Recapturing the personal: Education, embodied knowledge and comparative inquiry (pp. 143–162).
+Greenwich, Connecticut: Information Age Publishing.
+Soja, E. W. (1996). Thirdspace: Journeys to Los Angeles and other real-and-imagined places. Cambridge,
+MA: Blackwell.
+Soysal, Y. N. (2002). Locating Europe. European Societies, 4(3), 265–284.
+Steiner-Khamsi, G., & Stolpe, I. (2006). Educational import: Local encounters with global forces in
+Mongolia (1st Edn.). New York: Palgrave Macmillan.
+Strand, S. & Demie, F. (2006). Pupil mobility, attainment and progress in primary school. British Educational
+Research Journal, 32(4), 551–568.
+Suárez-Orozco, M. M. (2001). Globalization, immigration, and education: The research agenda. Harvard
+Educational Review, 71(3), 345–365.
+
+--- [PDF Page 384 / Book Page 371] ---
+
+Mobility, Migration and Minorities in Education 371
+Talbot, C. (2005). Recent research and current research gaps. Forced Migration Review, 22 (“Education in
+Emergencies Special Issue”), 5–7.
+Umar, A. & Tahir, G. (2000). Researching nomadic education: A Nigerian perspective. International Journal
+of Educational Research, 33, 231–240.
+Vari, A. (2006). From friends of nature to tourist-soldiers: Nation building and tourism in Hungary 1873–
+1914. In A. E. Gorsuch & D. P. Koenker (Eds.), Turizm: The Russian and East European tourist under
+capitalism and socialism (pp. 64–81). Ithaca: Cornell University Press.
+Walsh, T., Friffiths, W. H., McColgan, M., & Ross, J. (2005). Trans-national curriculum development:
+Reflecting on experiences in Romania. Social Work Education, 24(1), 19–36.
+Yan, F. (2005). Education problems with urban migratory children in China. Journal of Sociology and Social
+Welfare, 32(3), 3–10.
+Yuankai, T. (2006). The fight for education. Beijing Review, 49(5), 18–19.
+

@@ -122,7 +122,7 @@ updated: 2026-09-04
 > - **理解科学运作机制与科学本质（Understanding Scientific Processes & Nature of Science）** 掌握实证观察、假说检验、实验设计与同行评议如何共同确立和修正科学结论；深刻理解科学知识的经验性、暂定性与社会协商修正属性。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 30)]]
 > - **证据质量批判评估与来源辨识（Evidence Quality & Source Evaluation）** 在信息爆炸与算法分发环境中，能够穿透商业公关赞助与机构通稿夸大，准确[[Evaluation Research|评估研究]][[Sample Size Determination|样本量]]、[[Effect Size|效应量]]大小、相关与[[Causality|因果关系]]的本质鸿沟，审慎核验多源证据[[Reliability|信度]]。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026, p. 62)]]
 > - **接纳[[Scientific Uncertainty|科学不确定性]]与暂定性（Navigating Uncertainty & Provisionality）** 深刻领会[[Confidence Interval|置信区间]]、测量误差与区间预测的科学价值，认识到承认“证据有限与未知”并非科学无能，而是严谨探索的必然常态；避免因科学争议而滑向反智虚无主义。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 31)]]
-> - **公共决策参与与算法数据批判（Civic Deliberation & Algorithmic Critique）** 能够将科学证据理性应用于应对气候危机、公共卫生防护、基因科技伦理以及审视生成式 AI 工具带来的模型[[AI Hallucination|幻觉]]与偏见，积极参与民主审议。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, p. 116)]]
+> - **公共决策参与与算法数据批判（Civic Deliberation & Algorithmic Critique）** 能够将科学证据理性应用于应对气候危机、公共卫生防护、基因科技伦理以及审视生成式 AI 工具带来的模型幻觉与偏见，积极参与民主审议。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, p. 116)]]
 
 > [!logic-map]- 现代科学素养四大支柱与公民赋能关系拓扑
 > ```mermaid
@@ -177,7 +177,7 @@ updated: 2026-09-04
 > **穿透源头过度营销的批判性鉴别力** 里程碑实证研究证明，大众媒体上的夸大失真高达三分之一以上直接发端于大学新闻通稿的过度营销（Overselling）；具备科学素养的公民能够穿透耸人听闻的新闻标题，审视其原始研究设计是动物实验还是人体临床、是相关性还是因果推论。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026, p. 62)]]
 
 > [!claim] West & Bergstrom (2021)
-> **对抗算法污染的批判性证据素养** 在[[Generative Artificial Intelligence|生成式人工智能]]与推荐算法主导的信息环境中，科学素养不仅意味着辨别传统的错误论断，更意味着识别由大语言模型生成的看似严谨、实则虚构的伪学术[[Document|文献]]与模型[[AI Hallucination|幻觉]]（AI Hallucination）。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026, p. 61)]]
+> **对抗算法污染的批判性证据素养** 在[[Generative Artificial Intelligence|生成式人工智能]]与推荐算法主导的信息环境中，科学素养不仅意味着辨别传统的错误论断，更意味着识别由大语言模型生成的看似严谨、实则虚构的伪学术[[Document|文献]]与模型幻觉（[[AI Hallucination]]）。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026, p. 61)]]
 
 ---
 

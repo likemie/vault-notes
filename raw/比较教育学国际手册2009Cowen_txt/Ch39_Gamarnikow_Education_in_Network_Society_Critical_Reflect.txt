@@ -1,0 +1,577 @@
+================================================================================
+Chapter 39: Education in Network Society: Critical Reflections
+Author(s): Eva Gamarnikow
+Handbook: International Handbook of Comparative Education (2009)
+Editors: Robert Cowen and Andreas M. Kazamias (Section Editor: Elaine Unterhalter)
+Section: Section 4: Industrialisation, Knowledge Economies and Education
+Book Pages: pp. 619–631
+PDF Pages: pp. 619–631 (in raw/比较教育学国际手册2009Cowen.pdf)
+================================================================================
+
+--- [PDF Page 619 / Book Page 619] ---
+
+39
+EDUCATION IN NETWORK SOCIETY:
+CRITICAL REFLECTIONS
+Eva Gamarnikow
+
+Introduction
+The main aim of this chapter is to raise a number of key questions about the current
+‘education and globalisation’ policy discourse. This discussion is contextualised in
+critical reflections on how the thesis underpinning Castells’ (2000) Network Society
+has been appropriated as a claim about the knowledge society and its significance in
+the era of globalisation. The main argument of the chapter is that Network Society is a
+treatise focusing primarily on changes in the economy, technology and work, and on
+the importance of the nation state, of the sphere of politics, in mediating economic
+and social changes. The focus of Network Society requires educational researchers
+to address issues which tend to be elided in discussions about education, namely the
+nature of the link between education and economy, technology and work. There is
+a tendency in policy sociology to treat economy, technology and work as taken-forgranted givens, occasionally under the conceptual umbrella of globalisation, whose
+main role is to act as a source of policy imperatives for expanding or otherwise intervening in education. The aim of this chapter is to explore the discourses constituting
+these sites of the policy trajectory, namely, the context of influence (Ball, 2006) of the
+contours and shape of education policy.
+The chapter is organised in six main parts. The first three engage with the themes
+of Network Society which articulate with education policy. The following three
+sections are concerned with employment, education as human capital development
+and social mobility as key elements in policy discourses. The main focus of the
+argument is on the policy tensions which arise from the failure of current education policy to address the central theme identified in Network Society, namely its
+capitalist form.
+
+Network Society
+Castells’ Network Society is a key text in a field of sociological inquiry which is almost
+invisible today – a Marxist contribution to the sociology of work, critically engaging with long-forgotten debates about the relationship between technology, work and
+social structure. For those of us concerned about education systems and policies in the
+619
+R. Cowen and A. M. Kazamias (eds.), International Handbook of Comparative Education, 619–631.
+© Springer Science + Business Media B.V. 2009
+
+--- [PDF Page 620 / Book Page 620] ---
+
+620 Gamarnikow
+
+current policy era, which places great emphasis on education as human capital development, Castells’ main thesis is worth looking at in some detail.
+In Network Society Castells develops his analysis of the current transformations in
+the capitalist mode of production, from its post-war, social democratic, statist, industrial society model to the current neo-liberal, global, informational form, organised
+around:
+deepening the capitalist logic of profit-seeking in capital-labor relationships;
+enhancing the productivity of labor and capital; globalizing production, circulation, and markets . . . and marshalling the state’s support for productivity gains
+and competitiveness of national economies, often to the detriment of social protection and public interest regulation. (Castells, 2000: 19)
+What Castells is talking about is a new emergent form of capitalism, aptly described
+by Hutton, citing Luttwack (1998), as ‘turbo-capitalism’:
+It is a very particular kind of capitalism that has emerged victorious from its
+competition with communism. It’s a capitalism that is much harder, more mobile,
+more ruthless and more certain about what it needs to make it tick. (Giddens &
+Hutton, 2000: 9)
+Network society is definitely not a non-capitalist economy. Its organisational and
+structural form has changed to informational, network capitalism, made possible by
+the introjection of ICT into the production, organisation and trading of goods and services,
+a significant portion of which is informational. What this means is that analysis of the
+impact of network society on education has to begin with changes in the capitalist
+economy and the complex relationships between economy and education.
+
+Network Society, Technology and Education Policy
+While Guile (2006) and others have noted that Castells himself speaks little of the relationship between education and informational capitalism, education policy discourses
+at national and international levels (Lingard, 2000; Ozga & Lingard, 2007) appear to
+operate with very specific, prescriptive assumptions about the educational ‘needs’ of
+globalisation. Castells’ carefully crafted arguments about the complex relationships
+between the key features of informational capitalism – economy, technology, society
+and the (nation) state – are virtually absent in these education policy discourses. Here
+the complexities discussed by Castells tend to be reduced to variants of Blair’s famous
+formula, ‘education, education, education’. Thus the knowledge society discourse,
+the education policy perspective on the informational capitalism of Network Society,
+tends to focus on an abstracted argument about the role of education in globalisation,
+often articulated as a rather simplistic teleological claim about the ‘need’ for education
+produced by technological change. This knowledge society discourse, unlike Network
+Society, propounds a profoundly technologically determinist view. In other words,
+
+--- [PDF Page 621 / Book Page 621] ---
+
+Education in Network Society: Critical Reflections 621
+
+national and international education policy silences the tensions and contradictions of
+Castells’ informational capitalism, such as national and global uneven development,
+poverty, inequality and exclusion, and the importance of nation states in managing
+economic and social change. By linking the knowledge society to the rhetoric of globalisation, education policy tends to reproduce hegemonic, common-sense functionalist assumptions concerning technological change and employment, and immanent
+imperatives for more education.
+There is, therefore, a sense in which the arguments of Network Society about informational capitalism have been appropriated by education policy and collapsed to
+conform to a familiar tradition of conceptualising and theorising modern societies
+as driven by knowledge and technology (e.g. Galbraith (1969) or Bell (1973) ), and
+thus requiring more education. Many of these accounts are fundamentally determinist,
+arguing that changes in technology ‘cause’ changes in social organisation and mode
+of production. Thus because technology is identified both as a prime mover of social
+change and an integral aspect of the world of work, and because technology is equated
+with knowledge and its applications, skilling the nation by means of extending education becomes a logical policy solution.
+By contrast with the deterministic discourses of education policy, Network Society
+is not only concerned with exploring both the logic of informational capitalism and/in
+its national ‘real-world’ contexts. It also explores the organic articulation of informational capitalism and globalisation, expressed in ICT technologies as symbiotically
+both productive and informational. In other words, ICT is both embedded in a range of
+computer-centred work technologies (whether the personal computer of professionals
+or the computerised assembly line of manufacturing), and a key mechanism for informational flows, facilitating coordination and control. ICT is thus both a feature of the
+work in the globalised capitalist economy as well as the technology which has made
+the global reach of capitalism possible, through time–space compression.
+
+Education Policy and the Globalisation Discourse
+There are significant parallels and overlaps between the ingredients of Network Society
+and globalisation, namely the crucial role of ICT and informational workers and/in the
+globalised economy. However, in Network Society the policies adopted by the nation
+state are significant in managing the impact on populations, making decisions about
+national economic strategies and priorities (such as the choice between flexibility versus social protection). By contrast, globalisation and knowledge society discourses
+tend to present a less optimistic view of the capacity of the nation state to influence
+the economic and social impact of globalisation. Here the sphere of competence of
+national polities tends to be reduced to education.
+This fatalistic education policy discourse constructs turbo-capitalist globalisation as inevitable and unstoppable and decentres the agentic nation state, marginalising its capacity to act effectively in the economic sphere. Instead of ‘protecting’
+against global turbo-capitalism, the government (Foucault, 1977) of the nation state
+claims powerlessness in the face of globalisation. This powerlessness is both external,
+
+--- [PDF Page 622 / Book Page 622] ---
+
+622 Gamarnikow
+
+making anti-globalisation interventions impossible, and internal, instituting a variety
+of changes in and through national social institutions, especially education, by reference to the imperatives of globalisation.
+Thus, education policy discourses concerning the education–globalisation link constitute education as the essential and only strategy available for nation states to cope
+with the challenges, demands even, of globalisation, present and future. Education
+becomes the main ‘insurance policy’ for individuals, families, communities, countries
+and regions in the era of globalisation, which is invoked in terms of known (technology
+and skills) and unknown (the vagaries of markets) risks and insecurities. The nation
+state’s government is thus reduced to educational formation of citizens for selfprotection. The globalisation discourse of national and international education policy
+thus constructs the knowledge society as both problem and solution, with education
+advocated as the global ‘vaccination’.
+However, the claims that education can resolve the problems of global informational
+societies, identified by Castells as inequality, exclusion and identity politics, is, at best,
+somewhat optimistic. For this to be the case, education would have to become an
+oxymoron – a socially neutral institution in terms of access and outcomes, but socially
+powerful, in order to exert influence on national and global companies, financiers and
+labour markets.
+To assess critically the claims made for the efficacy of education as a form of protection in the global economy it is essential to explore both employment and education.
+
+Education Policy and the Globalisation
+Discourse: Employment
+The education policy argument about globalisation and employment is concerned
+with wider changes in the occupational structure and, thus, the labour market. Here
+the claim is that de-industrialisation in developed countries (and the concomitant
+expansion of manufacturing in low-wage developing countries) has reduced manual
+employment in the manufacturing sector, and increased non-manual employment in
+the service sector. These changes have resulted in an increased requirement for higher
+educational levels in the labour force, appropriate to the growth in higher-skill, nonmanual occupations. This section explores this claim from two perspectives, firstly, the
+nature of the link between education and employment, and secondly, changes in the
+occupational structure.
+There is a long-standing tradition in education policy analysis of ambiguity and
+opacity with respect to explicating the complex relationship between education and
+employment. There is a wide spectrum of positions, ranging from the optimistic ‘educational determinism’ of the 1960s, where employment opportunities are viewed as a
+function of the educational levels of the labour force:
+There can be little doubt that the driving force behind automation is the fact that
+people who have been exposed to formal schooling for twelve or sixteen years
+have expectations in respect to work and jobs. . . . They increasingly demand jobs
+
+--- [PDF Page 623 / Book Page 623] ---
+
+Education in Network Society: Critical Reflections 623
+
+in which in which they can apply what they have learned, to work with their
+minds. (Drucker, 1961: 19)
+to Bell’s new educated, scientific elite changing societal power structures:
+The rise of the new elites based on skills derives from the simple fact that knowledge and planning . . . have become the basic requisites for organised action in
+modern society. (Bell, 1973: 362)
+to more circumspect current arguments which see the economy as wielding greater
+influence:
+The power shift in the direction of knowledge workers has been greatly exaggerated. Most ‘knowledge’ workers are only able to capitalise on their knowledge
+within employment. Power remains decisively with the employers. (Brown,
+2006: 388)
+to arguments, such as those represented in UK government policy on higher education
+argues for expansion on the grounds of the ‘needs’ of the economy:
+Society is changing. Our economy is becoming ever more knowledgebased. . . . These trends demand a more highly skilled workforce. (Department
+for Education and Skills, 2003: para 5.1)
+In order to make sense of these different accounts of the relationship between
+education and employment, let us turn first to exploring employment in relation
+to education. The central factor here is that employment is organised and determined by specific macro- and micro-level requirements of employers, not education
+(Hussain, 1976). The existence of skill shortages, such as ‘sub-degree . . . associate
+professional and higher technician’ identified in The Future of Higher Education
+(Department for Education and Skills, 2003: para 5.12) is evidence of mismatch
+between employer ‘needs’ and the types of educated workers ‘produced’ by education. More importantly, however, the existence of skill shortages demonstrates that
+logics other than a simple availability of skills dominate decisions about employment. Thus, how employers organise and divide up discrete labour processes, how
+they link these subdivisions with technological capacity, and how they integrate
+discrete chunks of labour processes and technology with employment strategies,
+is dependent on the inherent logic of the capitalist economy more generally. That
+is the logic of turbo-capitalism. How work is performed, what the nature of the
+technological input is and who will do the work are factors which are dependent on
+profitability in the first instance, and not on educational levels. A key case in point
+here is the shift of ICT work to India, where similar computer skills are available
+at a lower cost than in developed countries. Thus employment practices are driven
+by employers, not by education, and these follow traditional capitalist forms – a
+concern with reducing labour costs.
+
+--- [PDF Page 624 / Book Page 624] ---
+
+624 Gamarnikow
+
+Additionally, far from being a form of ‘insurance’ against the dangers of global
+informational capitalism, education and educational expansion contribute more generally to the possibility, if not likelihood, of labour-cost reduction. Education has many
+‘faces’; one of these is ongoing universalisation of skills, contributing to increasing the
+supply of skills in the labour force. In simple economic terms, this means that education is continually devaluing its own products. Thus, mass literacy means that literacy
+is no longer a scarce skill. Instead it is reduced to a skill of ‘general labour’, a sine qua
+non of entry into the labour market, rather than a prized asset. The greater the supply
+of skills, the lower their value. ICT skills are no exception.
+Moreover, this devaluation of skills operates in a pincer movement. So in addition
+to devaluation by ‘supply side’ education policies, the quest for profitability results
+in further devaluation through deskilling. This happens in two main ways. The first is
+when skilled labour processes are hierarchically divided by skill levels, such as educational work in schools being separated into the work of teachers and that of teaching
+assistants, or nurses and health-care assistants in hospitals. This changes employment
+patterns, substituting cheaper for more expensive labour. The second way this occurs
+is through routinisation: the development of protocols which reduce decision-making
+in skill deployment by prescribing sets of practices or ‘operations’, such as technicising clinical treatment options by the National Institute for Clinical Excellence, set up
+by New Labour ‘to promote clinical and cost effectiveness and the production and
+dissemination of clinical guidelines’ (Department of Health, 1997: 84), or the microlevel detailing and sequencing of pedagogic practices in the ‘Literacy Hour’ in English
+primary education (Moss, 2007). Ironically, both forms of deskilling, universalisation
+and massification of skills and managerial control of the labour process, are more characteristic of Fordism (Braverman, 1974) rather than post-Fordism (Harvey, 1989).
+Another difficulty with the education policy narrative about the ‘need’ for education arising from changes in the type of jobs created in developed countries lies in the
+images of occupational reconstruction it invokes – a shift from an overwhelmingly
+industrial manual labour force to an overwhelmingly non-industrial, non-manual, educated labour force. While there is resemblance between actual changes in the occupational structure and the representations of these changes in the globalisation and
+employment narrative, they are by no means as extreme and precipitous as the narrative seems to imply. Table 1 is an attempt to provide a ‘broad brush’ mapping of the
+non-manual/manual divide in employment patterns in the labour force between 1921
+and 2006.
+Table 1 is to be read with all the usual caveats concerning methodological difficulties of combining different data sets, comparing over time, and so on. Identifying and
+charting changes over time is notoriously difficult, because differences in measurement and classification make successive data sets difficult to compare (ONS, 2003;
+2006, 2007b; Marshall, 1997; Reid, 1989). However, the aim here is not to delve into
+the minutiae of the debates about social class and occupational ranking, but to attempt
+to draw a broader picture of the changes in occupational distribution. The focus here is
+on overall patterns, rather than specific details of classification.
+The overall patterns of occupational change are highly significant in relation to the
+employability narrative. Thus Table 1 depicts two interrelated patterns. The first is the
+
+--- [PDF Page 625 / Book Page 625] ---
+
+Education in Network Society: Critical Reflections 625
+Table 1. Percentage of the UK labour force employed in non-manual and manual
+occupations, 1921–2006
+
+1921a
+1951b
+1961a
+1971a
+1981c
+1991d
+2001e
+2006e
+
+Non-manual (%)
+
+Manual (%)
+
+28
+37
+42
+46
+48
+57
+58
+60
+
+72
+63
+58
+54
+52
+43
+42
+40
+
+(Sources: a Westergaard & Resler, 1975, pp. 293, 295; b Abercrombie & Warde, 1994,
+p. 124; c Reid, 1989, p. 92; d Kirby et al., 1997, p. 121; e ONS, 2007a: Table 19)
+
+shrinking of manual employment from just over 70% of the working population in
+1921 to 40% in 2006, and the concomitant expansion of education-based occupations,
+non-manual employment. This pattern conforms to the globalisation and employment
+discourse. The second pattern which emerges is that this decline in manual employment and increase in non-manual employment is not a recent phenomenon, linked specifically and uniquely to the post-industrial informational economy. The occupational
+change from manual to non-manual employment appears to be a fairly steady, ongoing
+feature of the occupational structure throughout the entire period. This second pattern
+of continuity, rather than (the discursively implied) radical discontinuity, undermines
+the discursive claims that current economic forms have engendered drastic changes
+in the occupational structure which necessitate specific and immediate educational
+policy interventions.
+What can one conclude about the claims made concerning the nature of employment in education policy discourses? It is clear from the argument thus far that education policy discourses which locate the need for education in the logic of globalisation,
+the knowledge society and so on are, at best, overstating the case, and/or, constructing
+a hegemonic, regulatory ‘imaginary’, at worst.
+
+Education Policy and the Globalisation Discourse:
+Education as Human Capital Formation
+In the previous section I argued that employment in globalised capitalist societies conforms, perhaps not surprisingly, to capitalist logic of skill devalorisation. Thus, the
+more educated the labour force, the less valuable educational skills become in the
+labour market, a key feature of which appears to be a steady increase in skilled occupations. These tensions between employment, occupations and skills are explored in
+this section from the other side of the equation in education policy discourses, the
+construction of education as human capital development.
+The sociology of education policy literature has provided a vast array of work on education policy in the context of globalisation (see, for example, Burbules & Torres, 2000;
+
+--- [PDF Page 626 / Book Page 626] ---
+
+626 Gamarnikow
+
+Lauder et al., 2006; Lingard & Ozga, 2007), making it unnecessary to rehearse the
+arguments in detail. For the purpose of this chapter, the key shift identified parallels
+Castells’ Network Society, namely the radical shift from the Keynesian, social democratic welfare state to the neo-liberal, post-welfarist, market-dominated and marketdriven model. Thus while the previous section on capitalist employment emphasised
+important continuities, this part of the argument concentrates on the discontinuities.
+Here, the most significant of the discontinuities in the changing policy regimes lies
+in the role attributed to education. In the social democratic era, education was constructed as a public good and a collective form of welfare provision, a key element of
+Marshall’s social citizenship (Marshall, 1950). In the current neo-liberal era, by contrast, policy discourses construct education as a positional good for individuals, and as
+the site for human capital formation for the globalised economy. What has not changed
+is the importance ascribed to education.
+Neo-liberal education policy discourse thus reduces education to skill formation for
+employability, drawing on human capital theory:
+This is the ‘age of human capital’ in the sense that human capital is by far the
+most important form of capital in modern economies. The economic successes
+of individuals, and also of whole economies, depends [sic] on how extensively
+and effectively people invest in themselves. (Becker, 2006: 292)
+Unlike in the social democratic era, when the benefits of education were more collectively
+appropriated and distributed, for instance through the institutions of social citizenship,
+neo-liberal policy discourses focus on two aspects of education: education for individual employability and for economic growth. The economic growth argument has been
+extensively researched (e.g. see Wolf, 2000) and suggests that links between increases
+in education and increases in productivity are tenuous in the extreme. Government policy (Department for Education and Skills, 2003, para 5.3), by contrast, maintains that
+‘there is compelling evidence that education increases productivity’. These diametrically opposed conclusions are indicative of a seriously contested ideological terrain. For
+if, as argued earlier, the globalisation discourse denies the nation state any real capacity
+for independent economic policy, then the role of the state appears to be reduced to
+promulgating educational opportunity to citizens. In this context, negating the efficacy
+of human capital development for productivity can be profoundly counter-hegemonic,
+undermining the legitimacy of government through education.
+However, human capital development has another, more popular/populist dimension, namely the promise of individual formation for employability. From the perspective of current post-welfarist, ‘Third Way’ policy discourses of state and education and
+educational expansion represent a political reorientation of the nature and direction of
+welfare expenditure from social insurance to employability. Educational expansion is,
+firstly, an extension of compulsory education, hence a reduction in the overall labour
+force and a consequent reduction in visible and financially supported unemployment.
+So education reclassifies individuals as educational subjects and welfare expenditure
+as investment in employability. Secondly, employability through education also represents a shift in values. Neo-liberal education policy constructs individuals as responsible
+
+--- [PDF Page 627 / Book Page 627] ---
+
+Education in Network Society: Critical Reflections 627
+
+for developing employability through education. The onus of welfare shifts from the
+state as the dispenser of the collective provision of Marshall’s social citizenship to the
+neo-liberal subject who is obligated to self-improve through education. The role of
+the state is to facilitate the educational formation of citizens; that is its new welfare
+role. Thirdly, the ideological justification for this reorientation of welfare lies in the
+combination of policy narratives about globalisation, education and the knowledge
+society. In these narratives, as discussed earlier, the economic role of the nation state
+is constructed as limited by globalisation and free markets over which the state has no
+control. The main economic lever available to the individual nation state is educational
+formation of a desirable labour force which will attract investment and jobs. The role
+of education for employability is to stimulate expansion in the higher-skill end of the
+global labour market, since low-skill work has tended to move to low-wage economies.
+Thus education is both the new welfare and the new economic policy.
+In view of the apparent elevation of education to such policy significance in the current era, it is vital to point to the paradox of neo-liberal educational expansion: when
+education is constructed as a positional good, acquired by individuals to enhance their
+competitive position with regard to employability, education’s reproductive tendencies
+are enhanced. So while education policy creates ‘opportunities’ for self-improvement
+by increasing educational participation, the outcomes of neo-liberal choice policies in
+compulsory education are growing polarisation of achievement, and deepening exclusion and poverty.
+The overall outcomes continue to be problematic for social justice and equity.
+Although it is still early days, it would appear that the policies have been relatively
+successful in increasing overall educational achievement, i.e. raising the achievement
+floor. Measured levels of literacy and numeracy among primary pupils have risen,
+as have the numbers achieving the gold standard of 5 GCSEs A*–C: in 2006, 56.3%
+achieved 5 A*–C, compared with around 45% in 1997 (Department for Education and
+Skills, 2005; Fabian Commission on Life Chances and Child Poverty, 2006). What these
+overall positive results hide, however, is continuing educational polarisation: underachievement is complex and diverse, but broadly reproductive. Links between social
+class and/or other forms of social disadvantage and educational (under)achievement
+have not been broken.
+Thus, although the size of the educational pie has increased, there has not been a
+concomitant redistribution of educational opportunities. Moreover, neo-liberal choice
+is reproducing a social geography of successful and failing schools which reflects the
+social geography of poverty, social exclusion and inequality: successful schools tend
+to be located in wealthier areas, while failing schools tend to be located in areas of
+poverty and social exclusion. The current high-stakes, marketised system of education is not inclusive in its human capital formation, but polarising (Fitz et al.,, 2007;
+Tomlinson, 2005).
+Social and educational polarisation in compulsory education has clear implications
+for opportunities in the post-compulsory phase. Here, too, social and educational inequality are a key feature of UK’s expanded educational provision.
+Participation in post-compulsory education is socially and ethnically skewed. In 2002
+young people aged 16–19 from higher-social-class backgrounds were almost 1.5 times
+
+--- [PDF Page 628 / Book Page 628] ---
+
+628 Gamarnikow
+
+more likely to be in full-time education (87%) than young people from working class
+backgrounds (60%) (Fabian Commission on Life Chances and Child Poverty, 2006).
+There are further social-class inequalities evident in the type of post-compulsory education attended: overall, the lower the status of the institution, the higher the proportion
+of working class and ethnic minority students (Wolf, 2002). Thus Oxbridge continues
+to recruit very heavily from the 7% who attend private education, while ethnic minority children and those from working class backgrounds are more likely to study at the
+new universities (the former polytechnics) or to attend Further Education Colleges.
+Interestingly, ethnic minority students are more likely than whites to continue their education post-16 years, probably to counteract the ‘ethnic penalty’ of a racist labour market
+(Fabian Commission on Life Chances and Child Poverty, 2006; Modood et al., 1997).
+These social inequalities in access, participation and achievement are most evident in higher education (HE). HE developed from an elite into a mass system in the
+expansion which took place in the 1990s after the abolition of the binary divide, the
+concomitant increase in the number of universities, and government policy aimed at
+increasing student numbers. Currently around 45% of the age cohort attend HE, and
+the government target is 50%.
+In addition to overall expansion, current HE funding policy is linked to government
+demands for the HE sector to widen participation by increasing the proportion of firstgeneration undergraduates from so-called non-traditional backgrounds (Department
+for Education and Skills, 2003). In 2000, for instance, 72% of young people from the
+highest socio-economic group went to HE, as against 17% from the lowest.
+However, there are some important tensions in the possibilities for greater educational
+equality in the widening participation agenda. A key issue is the myopic focus in the
+employability narrative on the non-manual sector of employment and skills, and its significance for economic growth. Thus, there is very little discussion in the human capital
+formation narrative about the 40% or so of the labour force engaged in manual occupations
+(see Table 1). It would appear that the employability narrative operates within the parameters of knowledge society discourses, with their stigmatisation and marginalisation of the
+two fifths of the population working in the low-skill, low-wage sectors of the economy.
+This marginalisation is clearly visible in government HE policy (Department for
+Education and Skills, 2003). Here, as mentioned, the strategy is to raise HE enrolments
+to 50% by 2010 from the 43% of 2003. Irrespective of the success or otherwise of the
+widening participation agenda, it remains the case that half of the population will be
+excluded from HE. This group is directed to vocational and technical courses, intended
+for either manual or lower-status non-manual employment. The presence of the 50%
+of the population, destined to never attend HE in the knowledge society thus remains
+highly ambivalent – included through employment but excluded by education.
+
+Education Policy and the Globalisation Discourse:
+Education and Social Mobility
+Enhanced opportunity for social mobility in the meritocratic knowledge society is the
+last element in educational policy discourse. The challenges, risks and insecurities
+of capitalist globalisation appear to be redeemed by the promises of human capital
+
+--- [PDF Page 629 / Book Page 629] ---
+
+Education in Network Society: Critical Reflections 629
+
+formation, not just for employability, but, more importantly, for social betterment.
+Acquisition of skills and qualifications carries the promise of social mobility as a
+reward for ‘ability plus effort’ (Young, 1958).
+New Labour education policy discourse focuses on equality of opportunity and
+‘meritocracy’, not to equality. This perspective regards equity as the fair distribution
+of inequality, and identifies education as the key mechanism. Upward and downward
+social mobility are the indexical signs of the success of education-based meritocracy:
+people enter the occupational hierarchy on the basis of their own achievement and
+merit, expressed in educational qualifications, and not on the basis of social origins.
+Thus social mobility is significant site for mobilising the consent of citizens to skill
+formation and employability.
+However, the social mobility evidence shows quite clearly that educational expansion
+is not having the desired, predicted effects (Breen & Goldthorpe, 2001; Goldthorpe,
+2003; Aldridge, 2004). Additionally, the research indicates, damningly, that social
+mobility is lower now compared to the social democratic era, when political commitment to full employment and structural changes in the labour market (reduction
+in manual employment and expansion of white collar employment in an expanding
+labour market) enabled a significant amount of upward social mobility. By contrast,
+neo-liberalism has embraced the free market ‘flexibility’ of labour, in the context of
+increasingly insecure employment in an ever-deepening occupational hierarchy. Thus
+labour market conditions are not propitious for ensuring social mobility. In fact, it is
+the main features of the neo-liberal economy, socio-economic polarisation and polarised educational expansion which are identified as the two main reasons for currently
+stagnant social mobility:
+Income inequality has risen very rapidly in Britain since the 1970s. Consequently,
+the number of pounds sterling separating people on each rung of the social ladder, making the ladder that much harder to climb . . . Second, . . . the expansion
+of higher education . . . disproportionately benefited people from richer families.
+(Van Reenen & Machin, 2007: 17)
+There is, however, also a third reason for social immobility, namely the networks of
+Network Society. Educational expansion has undermined the value of educational
+qualifications, as previously argued, and at the higher levels of the occupational structure (and educational achievement), non-educational qualifications and attributes, as
+well as the social capital of networks, have become increasingly important in access to
+high-status occupations. At lower levels, where educational qualifications are sparser,
+educational qualifications continue to be more important, thereby excluding many
+poor and disadvantaged young people from labour market participation. This complex coupling of educational qualifications and occupational structure, together with
+broadly reproductive education, means that social and economic inequalities have
+become increasingly polarised. Thus educational policy, embedded in notions of the
+knowledge society as the only realistic alternative in the face of capitalist globalisation, has, thus far, failed to deliver the promised opportunities. Instead, human capital
+formation in neo-liberal globalised economies creates ‘the opportunity trap’ (Brown,
+2006) – continuing and entrenched social and educational inequalities, with blame
+
+--- [PDF Page 630 / Book Page 630] ---
+
+630 Gamarnikow
+
+deflected from the nation state by the apparent expanding openness of the educational
+system, where educational failure is firmly located in the individual.
+
+Conclusion
+These critical reflections on the educational policy implications of Network Society
+paint a somewhat gloomy picture of education policy in the UK. I have argued that the
+themes and issues raised by Castells in the idea of informational capitalism are related,
+in certain respects, to the education policy discourses of the knowledge society and
+globalisation. Unlike Castells, however, who recognises the capitalist features inherent
+in Network Society, UK education policy discourse identifies education, in the guise of
+human capital development, as solution, insurance and new form of welfare in the era
+of the knowledge society and globalisation.
+It is not surprising, perhaps, that education policy has failed to live up to these
+promises. The promises are too many, and too burdensome for education, which has
+become an ‘over-determined’ (Althusser, 1969) policy site for prevention and cure of
+social exclusion, disadvantage and social inequality, for economic growth, for meritocratic modernity and social mobility, for insurance from the challenges and risks of
+globalisation through human capital formation, for. . . . The list goes on.
+
+References
+Abercrombie, N. & Warde, A. (1994). Contemporary British society, 2nd edition. Cambridge: Polity Press.
+Aldridge, S. (2004). Life chances and social mobility: an overview of the evidence, Strategy Unit, Cabinet
+Office (www.strategy.gov.uk)
+Althusser, L. (1969). For Marx. London: Allen Lane.
+Ball, S. J. (2006). “What is policy? Texts, trajectories and toolboxes”. In S. J. Ball Education policy and
+social class: the selected works of Stephen J Ball. London: Routledge.
+Becker, G. S. (2006). “The age of human capital”. In H. Lauder, P. Brown, J. Dillabough, & A. H. Halsey
+(Eds.), Education, globalisation and social change. Oxford: Oxford University Press.
+Bell, D. (1973). The coming of post-industrial society: a venture in social forecasting. Harmondsworth:
+Penguin.
+Braverman, H. (1974). Labour and monopoly capital: the degradation of work in the twentieth century. New
+York: Monthly Review Press.
+Breen, R., & Goldthorpe, J. H. (2001). “Class, mobility and merit: the experience of two British birth
+cohorts”. European Sociological Review, 17(2), 81–101.
+Brown, P. (2006). “The opportunity trap”. In H. Lauder, P. Brown, J. Dillabough, & A. H. Halsey (Eds.),
+Education, globalisation and social change. Oxford: Oxford University Press.
+Burbules, N. C., & Torres, C. A. (Eds.) (2000). Globalisation and education: critical perspectives. London:
+Routledge.
+Castells, M. (2000). The rise of network society, 2nd edition. Oxford: Blackwell.
+Department for Education and Skills. (2003). The future of higher education, Cmd 5735. London: The
+Stationery Office.
+Department for Education and Skills. (2005). Higher standards, better schools for all: more choice for
+parents and pupils. London: Stationery Office.
+Department of Health. (1997). The new NHS: modern, dependable. London: Stationery Office.
+Drucker, P. (1961). “The educational revolution”. In A. H. Halsey, J. Floud, & C. Arnold Anderson (Eds.),
+Education, economy and society. London: Collier-Macmillan.
+
+--- [PDF Page 631 / Book Page 631] ---
+
+Education in Network Society: Critical Reflections 631
+Fabian Commission on Life Chances and Child Poverty. (2006). Narrowing the gap. London: Fabian
+Society.
+Fitz, J., Davies, D., & Evans, J. (2007). Education policy and social reproduction: class inscription and
+symbolic control. London: Routledge.
+Foucault, M. (1977). Discipline and punish: the birth of the prison. Harmondsworth: Penguin.
+Galbraith, J. K. (1969). The new industrial state. Harmondsworth: Penguin.
+Giddens, A., & Hutton, W. (2000). “Anthony Giddens and Will Hutton in conversation”. In W. Hutton &
+A. Giddens On the edge: living with global capitalism. London: Jonathan Cape.
+Goldthorpe, J. H. (2003). “The myth of education-based meritocracy”. New Economy, 10(4), 234–239.
+Guile, D. (2006). “What is distinctive about the knowledge economy? Implications for education”. In
+H. Lauder, P. Brown, J. Dillabough, & A. H. Halsey (Eds.), Education, globalisation and social change.
+Oxford: Oxford University Press.
+Harvey, D. (1989). The condition of postmodernity. Oxford: Blackwell.
+Hussain, A. (1976). “The economy and the educational system in capitalist societies”. Economy and Society,
+5(4), 413–434.
+Kirby, M. et al. (1997). Sociology in perspective. Oxford: Heinemann.
+Lauder, H., Brown, P., Dillabough, J., & Halsey, A. H. (Eds.) (2006). Education, globalisation and social
+change. Oxford: Oxford University Press.
+Lingard, B. (2000). “It is and it isn’t: vernacular globalisation, education policy, and restructuring”. In
+N. C. Burbules & C. A. Torres (Eds.), Globalisation and education: critical perspectives. London:
+Routledge.
+Lingard, B., & Ozga, J. (Eds.) (2007). The RoutledgeFalmer reader in education policy and politics.
+Abingdon: Routledge.
+Luttwack, E. N. (1998). Turbo-capitalism: winners and losers in the global economy. London: Weidenfeld
+& Nicholson.
+Marshall, G. (1997). Repositioning social class: social inequality in industrial societies. London: Sage.
+Marshall, T. H. (1950). “Citizenship and social class”. In T. H. Marshall & T. Bottomore (1992) Citizenship
+and Social Class. London: Pluto Press.
+Modood, T. et al. (1997). Ethnic minorities in Britain: diversity and disadvantage. London: Policy Studies
+Institute.
+Moss, G. (2007). “Understanding the limits of top-down management: literacy policy as a telling case”. In
+F. Coffield et al. (Eds.), Public sector reform: principles for improving the education system, Bedford
+Way Paper 30. London: Institute of Education.
+Office of National Statistics. (2003). Labour Force Survey, www.statistics.gov.uk/STATBASE/Expodata/
+Spreadsheets
+Office of National Statistics. (2006). Labour Market Review, www.statistics.gov.uk/cci/nugget_print.asp
+Office of National Statistics. (2007a). Labour Force Survey, www.statistics.gov.uk/downloads/theme_
+labour/LFSHQS
+Office of National Statistics. (2007b). The National Statistics Socio-economic Classification, www.
+statistics.gov.uk/methods_quality/ns_sec/default.asp
+Ozga, J., & Lingard, B. (2007). “Globalisation, education policy and politics”. In B. Lingard & J. Ozga
+(Eds.), The RoutledgeFalmer reader in education policy and politics. Abingdon: Routledge.
+Reid, I. (1989). Social class differences in Britain, 3rd edition. London: Fontana.
+Tomlinson, S. (2005). Education in a post-welfare society, 2nd edition. Buckingham: Open University
+Press.
+Van Reenen, J., & Machin, S. (2007). “Why schools are the best tool for targeting social mobility”. Fabian
+Review, 119(2), 16–19.
+Westergaard, J., & Resler, H. (1975). Class in a capitalist society: a study of contemporary Britain. London:
+Heinemann.
+Wolf, A. (2002). Does education matter? Myths about education and economic growth. London: Penguin.
+Young, M. (1958). The rise of the meritocracy. Harmondsworth: Penguin.
+

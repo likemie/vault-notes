@@ -1331,10 +1331,27 @@
       "title": "Argument_Cole_2005_JRIE",
       "year": "2005"
     },
-    "Cowen (2009)": {
+    "Cowen (2009a)": {
       "aliases": [
-        "Cowen, 2009",
-        "Cowen (2009)"
+        "Cowen, 2009a",
+        "Cowen (2009a)"
+      ],
+      "argument": "Argument_Cowen_2009_HistoryCreation",
+      "authors": [
+        "[[Robert Cowen|Cowen, R.]]"
+      ],
+      "citation": "Cowen, R. (2009). On History and on The Creation of Comparative Education. In R. Cowen & A. M. Kazamias (Eds.), International Handbook of Comparative Education (pp. 7–10). Dordrecht: Springer.",
+      "doi": "",
+      "isbn": "978-1-4020-6402-9",
+      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Cowen_2009_HistoryCreation.md",
+      "source_language": "en",
+      "title": "Argument_Cowen_2009_HistoryCreation",
+      "year": "2009"
+    },
+    "Cowen (2009b)": {
+      "aliases": [
+        "Cowen, 2009b",
+        "Cowen (2009b)"
       ],
       "argument": "Argument_Cowen_2009_CE",
       "authors": [
@@ -1422,10 +1439,27 @@
       "title": "Argument_Cowen_2015_CHESS",
       "year": "2015"
     },
-    "Cowen, 2009": {
+    "Cowen, 2009a": {
       "aliases": [
-        "Cowen, 2009",
-        "Cowen (2009)"
+        "Cowen, 2009a",
+        "Cowen (2009a)"
+      ],
+      "argument": "Argument_Cowen_2009_HistoryCreation",
+      "authors": [
+        "[[Robert Cowen|Cowen, R.]]"
+      ],
+      "citation": "Cowen, R. (2009). On History and on The Creation of Comparative Education. In R. Cowen & A. M. Kazamias (Eds.), International Handbook of Comparative Education (pp. 7–10). Dordrecht: Springer.",
+      "doi": "",
+      "isbn": "978-1-4020-6402-9",
+      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Cowen_2009_HistoryCreation.md",
+      "source_language": "en",
+      "title": "Argument_Cowen_2009_HistoryCreation",
+      "year": "2009"
+    },
+    "Cowen, 2009b": {
+      "aliases": [
+        "Cowen, 2009b",
+        "Cowen (2009b)"
       ],
       "argument": "Argument_Cowen_2009_CE",
       "authors": [
@@ -2948,6 +2982,42 @@
       "source_language": "en",
       "title": "Argument_Jornitz_2022_Bildung_algorithmic",
       "year": "2022"
+    },
+    "Kaloyannaki & Kazamias (2009)": {
+      "aliases": [
+        "Kaloyannaki & Kazamias, 2009",
+        "Kaloyannaki & Kazamias (2009)"
+      ],
+      "argument": "Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings",
+      "authors": [
+        "[[Pella Kaloyannaki|Kaloyannaki, P.]]",
+        "[[Andreas Kazamias|Kazamias, A. M.]]"
+      ],
+      "citation": "Kaloyannaki, P. & Kazamias, A. M. (2009). The Modernist Beginnings of Comparative Education: The Proto-Scientific and The Reformist-meliorist Administrative Motif. In R. Cowen & A. M. Kazamias (Eds.), International Handbook of Comparative Education (pp. 11–36). Dordrecht: Springer.",
+      "doi": "",
+      "isbn": "978-1-4020-6402-9",
+      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings.md",
+      "source_language": "en",
+      "title": "Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings",
+      "year": "2009"
+    },
+    "Kaloyannaki & Kazamias, 2009": {
+      "aliases": [
+        "Kaloyannaki & Kazamias, 2009",
+        "Kaloyannaki & Kazamias (2009)"
+      ],
+      "argument": "Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings",
+      "authors": [
+        "[[Pella Kaloyannaki|Kaloyannaki, P.]]",
+        "[[Andreas Kazamias|Kazamias, A. M.]]"
+      ],
+      "citation": "Kaloyannaki, P. & Kazamias, A. M. (2009). The Modernist Beginnings of Comparative Education: The Proto-Scientific and The Reformist-meliorist Administrative Motif. In R. Cowen & A. M. Kazamias (Eds.), International Handbook of Comparative Education (pp. 11–36). Dordrecht: Springer.",
+      "doi": "",
+      "isbn": "978-1-4020-6402-9",
+      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings.md",
+      "source_language": "en",
+      "title": "Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings",
+      "year": "2009"
     },
     "Kazancı Tınmaz & Sezgin (2023)": {
       "aliases": [

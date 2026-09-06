@@ -1,0 +1,855 @@
+================================================================================
+Chapter 17: The Developmental State, Social Change, and Education
+Author(s): Wing-W ah Law
+Handbook: International Handbook of Comparative Education (2009)
+Editors: Robert Cowen and Andreas M. Kazamias (Section Editor: Elaine Unterhalter)
+Section: Section 2: Political Formations and Educational Systems
+Book Pages: pp. 257–275
+PDF Pages: pp. 274–292 (in raw/比较教育学国际手册2009Cowen.pdf)
+================================================================================
+
+--- [PDF Page 274 / Book Page 257] ---
+
+17
+THE DEVELOPMENTAL STATE, SOCIAL CHANGE,
+AND EDUCATION
+Wing-Wah Law
+
+Since the modern state’s emergence in the sixteenth century, theorists have
+articulated various approaches to understanding the development of different countries, the relative importance of the role of the state and markets in development,
+and the models and strategies of development that countries should follow. Of these
+approaches, the developmental-state thesis (and world systems theory) has been more
+useful in explaining the state’s important role in economic growth and industrialization, particularly in East Asia and Latin America after World War II. Developmental
+states refer to countries that, compared to Western industrial countries, achieved “late
+development” (White & Wade, 1988b: 1). They include capitalist countries, such as
+Germany, Japan, Russia, South Korea, and Taiwan, and socialist countries, such as
+China, the former Soviet Union, and North Korea. Despite the severe challenges posed
+by the financial globalization crisis that took place in Asia in 1997, this statist approach
+is still useful in explaining the intertwined interactions of the state and markets for
+development and competition within and between national borders.
+This chapter first introduces major theoretical frameworks for understanding
+development, the state, and markets. They include the theories of modernization,
+dependency, the world system, and the developmental state. The discussion focuses on
+the latter and the role of education in skills formation in developmental states. Second,
+the chapter examines challenges to the developmental-state thesis, both theoretically,
+in the literature of globalization, and practically, as exemplified by the 1997 economic
+crisis in Asia. Third, the chapter uses the cases of Japan as a capitalist developmental
+state and China as a socialist counterpart to illustrate the continuing significance of
+the state, markets, and education in nation-building and rebuilding and how states
+have used the economic and sociopolitical tasks of education for the cause of development. Finally, the chapter discusses the complex relationship between globalization
+and nationalism in development.
+
+Major Theoretical Frameworks for Development,
+States, and Markets
+Issues related to development, states, and markets have arisen at different times
+in the literature of development, particularly in the disciplines of development
+257
+R. Cowen and A. M. Kazamias (eds.), International Handbook of Comparative Education, 257–275.
+© Springer Science + Business Media B.V. 2009
+
+--- [PDF Page 275 / Book Page 258] ---
+
+258 Law
+
+economics and international political relations. Major development approaches
+include modernization theory in the 1940s and 1950s; dependency theory, world
+systems theory, and the developmental-state thesis from the 1960s to the 1980s;
+and the discourse about the globalization of world economies in the 1990s.
+
+Theories of Modernization, Dependency, and the World System
+Modernization theory and dependency theory both assume that the world is
+dichotomized, respectively, into modern and traditional sectors in the processes of
+differentiating social institutions and economic growth (Parsons, 1951; Rostow,
+1985), and core and peripheral parts that engage in unequal economic exchange
+(Frank, 1971). According to both schools, industrialized countries in the West represent modern and core parts of the world, and the Third World countries represent
+traditional and peripheral ones. However, both schools have been criticized for their
+dualistic notions of the world, predicting in different ways a deterministically unilinear and pessimistic picture of economic development in Third World countries,
+undermining the state’s role in their developments, and undervaluing their cultures
+(Martinussen, 1997; Worsley, 1985). These two schools also fail to explain the
+growth paths of a minority of latecomers in Latin America and Asia between the
+1960s and 1980s, which differed from those of advanced developed countries in the
+West (Haggard, 1990).
+The economic performance of these latecomers can be better explained by
+world systems theory and the developmental-state thesis. In contrast with dependency theorists, world systems theorists argue that the reliance on core countries
+by noncore ones does not necessarily lead to their economic underdevelopment.
+According to Wallerstein (1974, 1979), the world system consists of the capitalist
+world economy and the interstate system. The single, capitalist world economy
+comprises three tiers: core, semiperiphery, and periphery. All countries engage
+in the capitalist relation of unequal exchange in an endless pursuit of capital and
+labor. The “political superstructure of the capitalist world-economy,” as further
+suggested by Wallerstein and Phillips (1991: 141), is the interstate system. Member
+states possess different capacities to intervene in the operation of the world market and can adjust their economic strategies to regulate the inflow and outflow
+of capital. They therefore may be able to change their status, for instance, from
+periphery to semiperiphery, or from semiperiphery to core, if they can achieve
+“development,” or if they end up in “regression” (Wallerstein, 1975). However,
+Wallerstein’s (1974, 1979) world systems theory has been criticized for advocating
+an over-deterministic domination of the world by capitalism and for undermining
+the qualitative differences between capitalist and the former socialist countries;
+paying too much attention to the system level while lacking specificity in understanding social relationships and institutions; and overemphasizing the ruling
+class’s capacity to manipulate the system, but undermining the contribution of the
+ruled and social agencies to development through various efforts, including resistance to domination (Worsley, 1985).
+
+--- [PDF Page 276 / Book Page 259] ---
+
+The Developmental State, Social Change, and Education 259
+
+The Developmental-State Thesis: The State’s Role in Markets,
+Development, and Education
+In a different way, the developmental-state thesis has provided an alternative line of
+thinking by bringing the state back in. Unlike dependency theory, which is based mainly
+on selected cases in Latin America, the development-state thesis was derived mainly
+from investigations on the rapid industrialization of capitalist economies in East Asia,
+including Japan, which was seen as a rising global economic power in the 1960s,
+and the four Asian Dragons (Hong Kong, Singapore, South Korea, and Taiwan) in the
+1970s and 1980s (Amsden, 1989; Castells, 1992; Johnson, 1982; Wu, 1994). Unlike
+dependency theory, which holds a pessimistic view of development, researchers often
+use this statist approach to explain the economic growth of the second generation of
+Asia’s newly industrialized economies, such as China, Malaysia, and Thailand, that
+emerged in the 1980s. Compared with world systems theory, the developmental-state
+thesis pays more attention to the state’s relationships with the market and domestic
+institutions, and how they work together in the process of nation formation.
+Developmental-state theorists also differ from neoliberal scholars in how they explain
+these late or late-latecomers. Neoliberal scholars and the World Bank attributed the late
+development of East Asian economies to the emergence of free markets within their territories and regions, and the economic failure of Latin American countries to excessive
+intervention (Kay, 2002). However, proponents of the developmental-state thesis challenged neoliberal beliefs in minimalist state and free-market-driven development and
+argued for the state’s critical role, and its economic and social functions in development
+and economic progress. With reference to Japan, Johnson (1982) developed an institutionalist approach to understanding the developmental state. He argued that economic
+development can be successful without a totally free market when it is supported by guidance from the state and favorable political conditions (see more discussion about Japan
+later). Leftwich (2000) went even further by arguing for the primacy of politics over
+economics. In a milder version, Wade (1990) proposed a “guided market” approach and
+argued that in the case of Taiwan, the state’s intervention in the market is not unimportant
+and both state’s policies and market’s dynamics can contribute to economic growth.
+In such developmental economies, the respective states established development
+as the top priority in their long-term national interests; created a favorable environment with low economic risk and low cost to attract investors at home or from abroad;
+intensively intervened in market and development processes by controlling the composition of what is profitable, guiding and taming domestic and international market
+forces, and harnessing them for national economic interests; and cultivated a collective
+consciousness and urgency for development in policymaking and social mobilization
+(such as the use of external threats by the nation’s foes) to achieve this development
+task (Evans, 1987; Gereffi, 1990; Johnson, 1982; White & Wade, 1988a). The developmental economies in East Asia, as Castells (1992) noted, have five commonalities: the
+existence of emergent situations that demand urgency for development and survival,
+the adoption of an outward economic orientation, the lack of a rural landowning class,
+an ability to govern the labor force and re-skill it for development, and high ability
+
+--- [PDF Page 277 / Book Page 260] ---
+
+260 Law
+
+and flexibility to adapt to rapid changes in the global economy. Many factors can
+account for differences in developmental states’ economic performances: differences
+in the state’s capacity and relations with the economy; the state’s choice of appropriate
+development strategies; domestic preconditions, such as national histories, cultures,
+and social class structure; and international factors, like international relations (Evans,
+1987; Gereffi, 1990; Kay, 2002; Vartiainen, 1999).
+In addition to these factors, numerous theorists have cited education and training as
+an important engine for economic growth during postwar period, particularly in East
+Asian developmental states. In developmental states, the state is a principal shaper of
+education for nation-building. There are strong reasons for the state to be involved.
+First, market failure in education can be rectified by the state’s intervention. Although
+neoliberal and the World Bank have advocated the state’s nonintervention in markets,
+they also have recognized the necessity of the state’s intervention when the market fails
+in education, particularly universal primary or secondary education (Ashton et al.,
+1999). Second, the state can use education to serve state formation and development.
+Buchert (1998) argued that the purpose of education is to fulfill the broader social
+development goals stipulated by the state, predominantly those related to economic,
+political, social, and cultural developments that are determined by local, national,
+regional, and international contexts.
+To be more specific, education in developmental states, as in other societies, addresses
+two major themes related to state formation: economic and sociopolitical. Human capital theorists see education and training as important means to acquire, accumulate,
+and enhance a society’s resources. Schultz (1961, 1971) argued that people can invest
+in human capital through education and training to acquire knowledge and skills and
+that enhancing human capital can increase human performance and earnings, and, in
+turn, strengthen the economy and raise living standards. Becker (1998) used two Asian
+developmental states, Taiwan and South Korea, to illustrate that investment in human
+capital is a major way to encourage development and alleviate poverty. However, Blaug
+(1987) criticized human capital theory for overestimating education’s contribution to
+economic growth; and, according to Livingstone (1997), the theory fails to recognize the multifaceted character of learning, particularly in knowledge-based societies.
+Despite these criticisms, Castells (1992) argued that the developmental state’s ability
+to redefine its manpower needs and re-skill its citizens is key to achieving economic
+success. The World Bank (1993) has considered the increase in state’s investment in
+education as an important impetus to East Asia’s miraculous economic growth.
+Based on the cases of the Four Dragons in East Asia, Ashton et al. (1999) proposed
+a skill formation model to explain how developmental states influence both education
+and the economy for development. First, the state can use trade and industrial policies
+to influence the markets in which companies compete and the economy’s overall direction, thus influencing employers’ demands for skills during specific times. Second, to
+ensure an appropriate match between the demand for, and supply of, skills, the state
+can use existing and future human resources requirements to guide its education and
+training systems. Third, to achieve this task, the state also has a strong control over
+educational and training institutions so that it can respond quickly to meet the labor
+market’s changing demands.
+
+--- [PDF Page 278 / Book Page 261] ---
+
+The Developmental State, Social Change, and Education 261
+
+Besides fulfilling economic tasks, education in developmental states is entrusted with
+sociopolitical and cultural tasks for state formation. In East Asia, values education has
+been seen to contribute to economic growth and to establish and sustain the state’s political
+legitimacy and independence (Castells, 1992). Green (1997) pointed out that one major
+role of the education system is to spread the dominant cultures, foster a sense of nationhood or statehood (e.g., by generalizing the use of the dominant language or dialect), and
+develop and maintain social cohesion and political and cultural unity. In some developmental economies in East Asia (such as Singapore, South Korea, and Taiwan), one major
+impetus to emphasizing values education as a strategic component of development was
+external threats resulting from their “antagonistic or at least strained relationship” with a
+neighboring power (Morris, 1996: 96). To survive external threats, these developmental
+states used education to cultivate a collective urgency for rapid economic development
+and a strong and distinctive sense of national solidarity and identity.
+
+Re-questioning the State’s Role in Education
+and the Globalized Market
+The developmental-state thesis can explain the upward mobility of developmental
+economies, such as Taiwan, from peripheral to semiperipheral status in the international economic hierarchy (Gold, 1986, 1988) and the stagnancy of developmental
+economies in Latin America (Gereffi, 1990). However, since the late-twentieth century, the developmental-state thesis, particularly its emphasis on the state’s significant
+role in development and education in Asian economies, has been severely challenged
+by globalization, particularly after the 1997 Asian financial crisis.
+The 1990s witnessed the development of a huge academic literature on globalization in various disciplines (Held et al., 1998; Marsh et al., 2006). The postwar
+period witnessed the conspicuous intensification and acceleration of the movement of
+people, capital, goods and services, information, and images across national borders.
+According to Giddens (1999), this spatial-temporal compression has affected various
+dimensions of human activities and even created new economic, social, and cultural
+areas that may transcend borders. This, in turn, has increased the interconnectivity and
+interdependence of states, economies, societies, and peoples.
+There are multiple views on the relation between the state and globalization in development (Held et al., 1998; Sorensen, 2006). Skeptics such as Hirst and Thompson
+(1996) have argued that the world is far from global and considered globalization as
+nothing but a myth. Radical scholars have contended that globalization challenges and
+undermines the states’ power and autonomy and predicted some convergent effects
+of globalization on human activities, such as the “end of history” (Fukuyama, 1992),
+the “end of geography” (O’Brien, 1992), a “borderless world,” the “end of the nation
+state” (Ohmae, 1990, 1995), and the death of the “national citizen” (Urry, 1998).
+Common to these predictions are emphases on the de-differentiation and even erosion of traditional borders, and the diminishing role of the nation-state and national
+governance. In particular, the state’s power is doubly squeezed by shifting upward to
+regional institutions (such as the European Union in the case of its member countries)
+
+--- [PDF Page 279 / Book Page 262] ---
+
+262 Law
+
+or transnational or supranational agencies (such as the World Trade Organization), and
+downward to subnational, nongovernmental entities (such as large, private companies)
+(Delanty, 2000). Between the two extremes of skeptics and radical scholars are those
+theorists who both recognize the world’s increasing interconnectivity and interdependence and argue for the nation-states’ continuing key role, as well as their divergent
+responses to globalization on various dimensions, including economy, culture, and
+education (Currie & Subotzky, 2000; Green, 1999; Sassen, 2000, 2002).
+Education scholars also have addressed the tension between convergence and divergence in response to globalization. Radicalists such as Usher and Edwards (1994)
+predicted the state’s loss of control over education and the increasing convergence of
+education systems on global or regional norms. However, more scholars have argued
+for the coexistence of convergence and divergence. On the one hand, the changing
+global economy requires a redefinition of manpower needs and new skills formation, and therefore new imperatives for education. As Green (1999) observed, there
+is considerable convergence in policy rhetoric and objectives in education in many
+countries, including developmental states. Education also is regarded as a primary
+means of promoting “skills of globalization” for competing and living together in
+an increasingly interconnected and interdependent world (Marginson, 1999). On the
+other hand, nation-states, as Green (1999) argued, still control their education systems,
+and they differ in policy details, structures, and processes because of different national
+conditions (including political traditions and institutions, economic structures, and
+manpower planning) and different paces of development.
+
+Developmental States, Globalization, and Nationalism:
+Japan and China
+Japan and China illustrate the continuing significant role of the state in development
+and education and how education can be used for nation-building. In East Asia, Japan
+is a capitalist developmental state that belongs to the first generation of developmental
+states in East Asia right after World War II, whereas China is a socialist development
+state and belongs to the second generation. This section argues that both societies
+have dual phobias: the phobia of lagging behind other countries and/or being unable
+to sustain their development in the pursuit of global capital, and the phobia of losing
+their collective political identity while competing in an increasingly interconnected
+world. As a result, education in these two developmental states is caught in a dilemma
+between globalization and nationalism, specifically, between the economic task of
+education for equipping manpower for competition in the global economy and the
+sociopolitical task of education to preserve the collective political identity.
+
+Japan and China as Developmental States
+After opening its ports to Western powers in the 1850s, Japan began to industrialize
+and modernize. In early twentieth century, it became a regional military and economic
+power. Despite its military defeat in World War II, Japan achieved unprecedented economic growth between the 1960s and 1980s and became a world economic power.
+
+--- [PDF Page 280 / Book Page 263] ---
+
+The Developmental State, Social Change, and Education 263
+
+Johnson (1982) identified four major factors that contributed to Japan’s success as
+the first developmental state in East Asia. They included: a small and efficient state
+bureaucracy managed by the best talents available in the system; a political system that
+enabled state institutions to be autonomous, take initiative, and operate effectively; the
+state–private sector cooperation with the coexistence of market-conforming and stateintervention chemistry; and a state-related agency that shared the state’s management
+responsibility in leading and implementing the state’s development agenda, such as the
+Ministry of International Trade and Industry (MITI). However, in the 1990s, Japan’s
+economy began to experience a considerable slowdown, which was further complicated by unemployment issues, the rapid advancement of an aging society together
+with low birthrates, and the challenges of the rise of the information society and internationalization (MEXT, 2001c). The Japanese state also worried about two related
+social trends: an overemphasis on respect for individual rights and an underemphasis on social duties and responsibilities, and young people’s social disengagement by
+drawing away from society to their own worlds (MEXT, 2001a).
+China started its development later than Japan. After assuming power in 1949, the
+Communist Party of China (CPC) officially transplanted the former Soviet model of a
+central, planned economy and socialism in the Chinese soil. Market forces were banned,
+and private ownership and the private sector were prohibited. However, in the late 1970s,
+China gradually began to shift its development strategy, in Martinussen’s (1997) terminology, from a noncapitalist path to socialism (by dissociating from world economy and
+relying on a state-controlled planned economy) to a capitalist path to socialism (by adopting capitalist principles and a market economy) to create the necessary material conditions
+for socialist development. Liew (2005) argued that since the introduction of market forces
+into its socialist economy in the 1980s, China’s pathway to rapid economic development
+has tended to fit the developmental-state type, rather than the liberalization models of
+the World Bank and the International Monetary Fund. China’s state under the leadership
+of the CPC has actively mediated market reform and controlled the process of transformation from a centrally planned economy to a socialist market economy. In particular,
+China’s state has adopted four major development strategies: using capitalist principles
+and market forces to revitalize its declining socialist economy; engaging in a deliberate
+and gradual shift of economic structure from the primary to secondary and tertiary sectors; letting some areas and people prosper ahead of others; and diversifying economic
+activity to pursue global capital and reduce economic protectionism (Law, 2006b).
+In these two East Asian developmental states, education is used as a vital means
+to enhance the quality of their human capital and to serve as an important development tool for industrialization. In Japan, education has been regarded as an important
+engine, particularly for the postwar economic miracle. In the 1860s, Japanese national
+leaders began establishing public education with a view to using it to modernize Japan
+and catch up with Western industrial countries. Since then, prewar educational development has been designated as a most important national policy area (Kida, 1986). In
+the early twentieth century, Japan achieved universal primary education, established a
+selective multitracked secondary education system, and developed a highly selective,
+elitist higher education system. This educational investment enabled Japan to maximize its human resources by producing a massive educated and trainable workforce
+
+--- [PDF Page 281 / Book Page 264] ---
+
+264 Law
+
+and elite for catching up with Western countries (Schoppa, 1991). After its defeat in
+World War II, the Japan’s state obtained its people’s support for the nation’s reconstruction through education (Kida, 1986). It extended universal education from six to
+nine years, and later expanded senior education and higher education. This became
+an important source of skilled labor force for postwar nation-rebuilding. However,
+Japan’s education system has been criticized for high centralization because the state
+can exert considerable influence on local governments through the pressure of the
+peoples’ strong demand for equal opportunity for education and the provision of
+standardized services to all citizens. The Japanese state uses three major measures to
+influence local school education: the Ministry of Education, Culture, Sports, Science
+and Technology’s (MEXT) prescription of criteria and standards in curriculum through
+the Courses of Study; the disbursement of general educational grants to local governments and the granting of special national aid for various items; and the national
+contribution to half of salary expenditures of educational personnel, particularly in
+public schools of compulsory education (Kida, 1986).
+Unlike Japan, China began using education to develop its human capital at a rather
+late stage. Despite Chinese civilization’s long history, education in imperial China was
+limited to the elite and associated with officialdom. In 1949 (the founding year of the
+People’s Republic of China), it was estimated that 80% of its population was illiterate.
+Despite an emphasis on vocational competence in nation-building, Mao Zedong held
+a low view of human capital and used the class struggle of the masses to fight against
+intellectuals and professionals, particularly during the Cultural Revolution (1966–1976).
+When Deng Xiaoping resumed power in late 1970s, he shifted from Mao’s ideological
+approach to a pragmatic one. Deng (1977, 1978, 1985) saw education and science and
+technology as key to the nation’s prosperity, advocated respecting knowledge and talents, and suggested that China’s national strength depended on the Chinese workforce’s
+qualifications and the quantity and quality of intellectuals. China also has a strong wish
+to use education to turn its huge population (1.3 billion in 2005) from a national liability to national asset (China’s Education and Human Resource Development Project
+Team, 2003). To achieve this end, China’s state adopted a series of strategies, including
+the speeding up of the campaign for eliminating illiteracy among people over age 15,
+and the introduction of universal basic education of nine years in 1986 to improve the
+basic literacy and skills for the labor force at the lowest, but largest stratum; the rapid
+expansion in the 1980s of the vocational track (and the corresponding reduction of the
+academic track) in senior secondary education to provide subprofessionals at the middle stratum; and the drastic expansion of higher education in the late 1990s to increase
+the quantity and enhance the quality of talents at the high stratum (Law, 2000).
+
+The Economic Phobia of Lagging Behind, and Education Reform
+for Economic Globalization
+Despite an emphasis on skills formation, some have questioned whether the education
+systems of Japan and China are capable of equipping students with the necessary abilities to face the challenges of economic globalization in the twenty-first century. Since
+the 1960s, many have wondered whether the Japanese education system could help
+
+--- [PDF Page 282 / Book Page 265] ---
+
+The Developmental State, Social Change, and Education 265
+
+Japan become an economic power in the region and the world. In the late 1960s and
+mid-1980s, respectively, the Japanese state initiated two major education reforms to
+increase students’ choices, reduce examination pressure, and deal with school violence
+and students’ misbehavior (Schoppa, 1991). Despite the two reform initiatives, these
+long-standing issues remained unresolved and the general public was dissatisfied with
+the education system and school curriculum (Peter & Curtis, 2002).
+During the third reform at the turn of the millennium, Japan admitted that its education was “deteriorating” (National Commission on Educational Reform, 2000). First,
+the Japanese education system was criticized for failing to prepare students to cope
+with social change, meet the new manpower needs and demands, and rise to the challenges arising from globalization and the rapid progress of science and technology
+(MEXT, 2001a). Second, Japan’s students suffer from high examination pressure and
+information cramming (Bossy, 2000). Because of this, the Japanese school curriculum, as admitted by the Curriculum Council (1998), had not satisfactorily equipped
+Japanese children with an ability to study, make judgments, express opinions, and
+use different perspectives. Third, Japanese education faces some serious educational
+issues, including bullying and violence on campus, disruptive behaviors in class, truancy, and juvenile delinquency (MEXT, 2001c).
+Similar to Japan, China admitted that its education system lagged behind changing social needs in the twenty-first century. First, the overall quality of the Chinese
+labor force is still low and has difficulty competing in the global knowledge economy.
+The average length of schooling for people over age 15 is about eight years and is
+three to six years shorter than that of developed countries and newly industrialized
+economies (Ministry of Education, 2004a). The population’s average level of popular
+science and technology is far below that of Japan, the European Union, and the United
+States (China’s Education and Human Resource Development Project Team, 2003).
+Second, many schools emphasize rote learning and drilling and focus on outdated book
+knowledge that is difficult for students to learn (Ministry of Education, 2001b). Third,
+on average Chinese students are “relatively weak in creativity, practical dimension,
+employability, and founding their own business” (Ministry of Education, 2004a: 46).
+Despite the inadequacy of their respective education systems, the states of Japan
+and China continue to believe that education can prevent them from lagging behind
+others and help them sustain their development. In Japan, this strong belief is explicitly
+reflected in various education reform proposals and particularly the title of the 2004
+education reform plan, Japan! Rise Again! (MEXT, 2005). In China, the 2003–2007
+Action Plan for Invigorating Education reiterated that education “is the very basis of
+the long-term development of the nation” (Ministry of Education, 2005: 1). To deal
+with external challenges from globalization and long-standing domestic educational
+problems, in the early 2000s, both developmental states began to reform their school
+curricula and shift from a skill-formation model to a model that emphasizes developing students’ abilities to meet changing social needs.
+Earlier in the education reform in the 1980s, Japan began to use education as a
+means to cope with internationalization, and tried to use globalization to justify the
+urgent need for education reform. The ad hoc National Council on Educational Reform
+(1985: 18) (which was established by Premier Nakasone) even warned that if Japan
+
+--- [PDF Page 283 / Book Page 266] ---
+
+266 Law
+
+wanted “to survive and develop in the age of internationalization, it is essential . . . [to]
+design [Japan’s] education reform from the standpoint of internationalization.” As
+observed by Lincicome (1993), this Council advocated the concept of “cosmopolitan
+Japanese” who can communicate in at least one foreign language, have a thorough
+knowledge of foreign countries and cultures, appreciate the cultures of other peoples,
+and have an international consciousness. A similar urgency to equip Japanese students
+to face economic globalization can be found in the 2001 Education Reform Plan for
+the 21st Century (also called the Rainbow Plan) (MEXT, 2001b). Parallel to this plan
+is the introduction of a new school curriculum reform in 2002. The Japanese state
+advocated a shift in pedagogy from a teacher-centric and textbook-centric approach
+to student-focused and self-directed learning, and it emphasized the development of
+students’ willingness to learn independently and their independence in thinking, making judgments, engaging in self-expression, and acting for themselves (Yoshikawa, c.
+2000). In particular, students from grade three to grade nine are now required to take
+Integrated Studies, in which they can undertake their own research, go on field trips,
+and tackle real-life problems with hand-on activities.
+In China, the curricular reforms of primary and secondary education are intended to
+strengthen the relevance of students’ study to their daily lives and modern social and
+technological developments; to help enhance students’ motivation to learn actively
+and their willingness to explore and develop various abilities (including the collection
+and processing of information, acquisition of new knowledge, problem analysis and
+solving, and collaboration and exchange); to equip them with the basic knowledge and
+skills of lifelong learning; and to help them develop a proper worldview and global
+outlook, in addition to developing a love for China, the ruling party, and Chinese cultures (Ministry of Education, 2001b, 2003).
+Japan and China selected Information Technology (IT) and English as important transnational skills to be fostered among students for living in an increasingly
+connected world. The Japanese state is attempting to make Japan an internationally
+competitive nation built on IT (i.e., e-Japan) within the first decade of the third millennium (Information Technology Strategic Headquarters, 2001). The Curriculum
+Council (1998) encourages the implementation of consistent and systematic information education and the use of computers in class-learning activities at all stages of
+school education. In 2002, the Japanese state changed IT and Computers (including
+basic computer skills) from an elective to a compulsory subject in the junior secondary
+curriculum, and in 2003, it introduced a compulsory course in IT for all students in
+senior secondary schools. Unlike Japan, China has no plan to make itself an e-nation.
+Despite this, in 2001 the China started an effort to popularize IT education in school
+education within 10 years (Ministry of Education, 2000). By 2005, IT courses were
+offered in secondary schools across the nation and in primary schools in relatively
+developed areas.
+In these two non-English-speaking developmental states, English is seen as a means
+to increase interconnectivity with the rest of the world and to enhance human capital in
+the pursuit of global capital. In the early 2000s, Japan wanted to equip “Japanese with
+English abilities”: speaking, listening, reading, and writing. The MEXT (2002) admitted that Japan’s development in the global economy had been hindered by a lack of
+
+--- [PDF Page 284 / Book Page 267] ---
+
+The Developmental State, Social Change, and Education 267
+
+sufficient English proficiency. To rectify this, the MEXT (2003) issued the Action Plan
+to Cultivate Japanese with English Abilities. Japan has selected English as the major
+common foreign language for its children to master and expects that English-capable
+Japanese can help Japan link to the rest of the world, gain the world’s understanding
+and trust, enhance Japan’s presence in the international community, and improve its
+national development. Primary students are now provided with conversational activities. In the new Courses of Study that were implemented in 2002, English became a
+compulsory subject in junior and senior secondary education.
+China recognized the significance of English much earlier than Japan. After reconnecting with Western countries in the late 1970s, China replaced Russian with English
+as one of the most important foreign languages, and students began to receive English
+lessons in junior secondary education. Because of the intensification of economic
+globalization and informatization, the Ministry of Education (2001a) recognized the
+increasing importance of foreign languages, particularly English, and set the learning
+and mastery of at least one foreign language as the “basic requirement of citizens in
+the twenty-first century.” However, the Ministry of Education (2001d) deemed that
+the average English proficiency of the Chinese people has lagged behind the needs of
+national economic and social developments. Consequently, from 2001 English instruction began to be officially extended from junior secondary education to primary three
+across the nation (Ministry of Education, 2001a). Schools are required to provide
+at least four learning activities per week, cutting one lesson on Chinese language if
+necessary. Some urban areas, such as Shanghai and Beijing, have extended the provision of English lessons to primary one students. Three years later, the Ministry of
+Education (2004b) asked colleges and universities to reform the curricula of university
+foundation English for students whose major is not English language, with a view to
+enhancing overall English proficiency, particularly in listening and speaking.
+
+The Sociopolitical Phobia of Losing National Identity and Revitalizing
+Nationalism in the Curriculum
+In addition to an economic phobia, both Japan and China fear losing their collective
+political identities in the process of modernization and economic globalization. In
+response, they have reasserted the importance of preserving their collective political and
+cultural identity, in particular, by reviving nationalism in their school curricula. Despite
+the struggles for modernization since World War II, Japan had been proud of its national
+spirit and cultural traditions. However, whilst preparing its people for globalization, the
+Japanese state has feared losing its national characteristics and cultural identity. In the
+1980s the Japanese state began to be aware of the increasing tension between being
+a “Japanese citizen” and being a “world citizen” (National Council on Educational
+Reform, 1985: 18). The Central Council for Education (1997) even expressed its fear
+that in the future, Japanese people may lack a sufficient understanding of traditional
+culture and the culture may be lost because of a lack of successors to perpetuate it.
+Similar to, but more complicated than Japan, at the turn of the millennium, China,
+as a late developmental state, fears the loss of its socialist collective political identity.
+The rapid downfall of the former socialist block in the late 1980s and 1990s leaves
+
+--- [PDF Page 285 / Book Page 268] ---
+
+268 Law
+
+China as one of very few remaining socialist countries, and since then, this has created
+a national identity crisis for its people and the nation in the international community (Law, 2006a), which has been exacerbated by the ruling party’s identity crisis.
+The change of development strategy (as described earlier) brought forth a series of
+domestic problems, such as widening gaps between urban and rural areas and between
+the rich and poor; intensified social unrest and conflicts; widespread materialistic values; and the widespread power abuse of party cadres and officials (including very
+top-ranked CPC members, such as Beijing’s Mayor in 1995 and Shanghai’s municipal
+party secretary in 2006, who were sacked for corruption). The massive student demonstration in Tiananmen Square in Beijing in 1989 represented the popular challenge
+to the legitimacy of the CPC’s leadership and led to military suppression with the
+use of state force (Fewsmith, 2002). All these negative consequences of economic
+reform were deemed a serious threat to China’s social stability and the CPC’s political
+leadership.
+To deal with their sociopolitical phobias, China and Japan revitalized their citizenship education. Since the 1980s, the Japanese state has attempted to deal with the
+global–national–local tension by reconstructing Japan as a culturally oriented nation
+in the globalizing world with a two-pronged approach. On the one hand, the Japanese
+state encourages schools to foster values related to global citizenship, such as a rich
+sense of humanity, respect for life and human rights, an appreciation of different cultures, a spirit of international cooperation, and living together in harmony. On the other
+hand, the Japanese state repeatedly promotes the concept of being Japanese more than
+global citizenship. In his address at a meeting on educational reform, Prime Minister
+Nakasone (1984) expressed that the education reform in the mid-1980s could help
+“preserve and further develop the traditional Japanese culture,” improve children’s
+moral and behavioral standards, and also prepare Japanese citizens “to contribute to
+the international community with a Japanese consciousness.” Whilst promoting the
+digitization of education, the Japanese government attempts to reform its education
+system with a view to making a “culturally oriented nation” through helping students
+foster self-discipline, consideration for others, and a deep respect for traditional culture and social norms (MEXT, 2001c).
+In particular, the Japanese state used two major means to reinforce and consolidate the sociopolitical function of education for preserving Japan’s traditions and
+cultures. The first means to maintain the national identity of Japanese living in a globalizing world is to legalize this function of schools by amending the Fundamental
+Law of Education under the leadership of Prime Minister Koizumi (Akito, 2002). Per
+Koizumi’s request, the Central Council for Education (2003) proposed to amend the
+law to emphasize the school’s importance in fostering among students a sense of civic
+responsibility, a respect for tradition and culture, and love of the nation and home. In
+2006, the Japanese parliament enacted a patriotic bill calling on schools to inculcate in
+students respect for tradition and culture and love for the nation and homeland.
+The MEXT (2001a) used the curriculum as the second means to inculcate Japanese
+people with Japan’s traditions and culture. Students are exhorted to deepen their understanding of, and pride in, national and local histories, cultures, and traditions (MEXT,
+2000). To sustain Japan’s traditional cultures, schools are urged to provide students with
+
+--- [PDF Page 286 / Book Page 269] ---
+
+The Developmental State, Social Change, and Education 269
+
+hands-on activities in traditional arts and crafts and teach them traditional performing
+arts and traditional manufacturing techniques (Central Council for Education, 1997).
+To foster a sense of social collectivity and deal with the children’s moral degeneracy,
+Japan’s Education Reform Plan for the 21st Century (MEXT, 2001a) requires schools
+to teach children social rules and basic morals at every stage of their development.
+In contrast with Japan, China used laws to enforce the sociopolitical function of education much earlier. Chinese laws stipulate that schools train and equip successors of
+socialist construction and pass on to them CPC-prescribed values, including the “five
+loves” (love of home country, people, labor, science, and socialism), and the “fiveisms” (patriotism, collectivism, internationalism, communism, and dialectical and
+historical materialism) to combat feudal, capitalist decadent ideas (National People’s
+Congress, 1995, 1999). Unlike Japan, which does not have drastic social transformation, in the 1980s China began to make a paradigm shift to a more accommodative
+framework for socialist citizenship by opening up to the world; recognizing the market
+as a lever of diversification and pluralization; reinstating law as an external regulating
+force; revitalizing virtues as an internal, self-impelling force of social conformity; and
+repackaging the ruling party as a political vanguard of all classes (Law, 2006a). As a
+result, China’s state redefined its citizenship education curriculum and reasserted the
+importance of citizenship education in nation-rebuilding. It has a strong urge to make
+use of citizenship education to help students identify with the present socialist system
+and political system across the nation regardless of regional, ethnic, and cultural differences (Wan, 2004).
+The paradigm shift of socialist citizenship in China is also reflected in the change
+of its citizenship curriculum by incorporating a multileveled framework with elements
+of citizenship from global, national, and subnational levels (Ministry of Education,
+2001c, 2002). Despite having a more accommodative framework, more emphasis
+is placed on the national than global or local level. This is reflected in the textbook
+revisions for citizenship education in primary and secondary schools after the CPC
+National Congress drew conclusions about these sociopolitical changes in China in the
+mid-1990s and early 2000s. As compared with previous versions, these two revisions,
+as shown by Law (2006a), carry both continuities and changes. On the one hand, these
+political textbooks continue to help students recognize the CPC’s paramount leadership in and the working class’s contribution to socialist modernization; understand the
+meaning of national symbols (such as national flag and anthem); and learn about the
+self-sacrificing spirit of role models, such as Lei Feng and the Chinese people’s courage in their fight against foreign aggressors. On the other hand, the revised political
+textbooks changed in ways that reflect the inadequacy of socialism in modernizing
+China. For example, they replaced the party line on class struggle with cooperation
+among people and the peaceful coexistence of different ethnic groups. The textbooks
+also shifted from totally rejecting Western modernization, cultures, and characters
+to accommodating them; changed from playing down Chinese culture to including
+Chinese classical stories and characters and designating some Chinese values as good,
+traditional ones (such as hard work, filial obedience to parents, and willingness to help
+others); and placed a new emphasis on the importance of personal efforts and continuous improvement and discouraged unhealthy materialistic competition. These changes
+
+--- [PDF Page 287 / Book Page 270] ---
+
+270 Law
+
+in political textbooks reflect socialist China’s significant readjustment in rebuilding the
+relative positions of socialism, capitalism, endogenous traditional Chinese cultures,
+and contemporary values.
+
+Conclusion
+The various models of development share two common concerns: the relative role of
+the state and markets in development and the relevance of the development models
+of developed countries to their less-developed counterparts. The developmental-state
+thesis recognizes the contributions of both the state and markets to development,
+particularly their supplementary and complementary roles. The various interactions
+between the state and market forces and the strategies they use can yield different
+results, such as different forms of and paths to development, and different extents of
+development ranging from regression to progression. In this sense, the developmental
+state is dynamic rather than static. It is a “diachronic phenomenon” occurring in different forms over a long period of time, adapting itself to new forms in new epochs
+(Woo-Cumings, 1999: 15).
+Despite the challenges posed by the discourse of globalization and the 1997 crisis
+of financial globalization in Asia, the developmental-state thesis is still a useful framework for explaining the dual (economic and sociopolitical) phobias of countries like
+Japan and China in the pursuit of global capital and the sustenance of their national
+identities, and how their states use the economic and sociopolitical functions of education to address the dilemma between globalization and nationalism. The cases of Japan
+and China support Krasner’s (1999) view that although globalization has challenged
+the effectiveness of state control, it has not fundamentally transformed the state’s
+sovereignty, nor has it qualitatively changed the state’s authority. Increased internationalization and deregulation has not replaced nation-states with global actors or local
+states. On the contrary, like other East Asian developmental economies (Weiss, 1998),
+the states of Japan and China continue to be powerful actors in the international polity
+and economy. Instead of being maneuvered by globalization, states can actively use
+it as both a common hegemonic justification for, and an external impetus to, urgent
+reform of their education systems.
+The cases of these two East Asian developmental states also support Sassen’s (1999)
+argument that the global is embedded in the national. Global processes need to take
+place and be materialized within national borders. In the world economy, the new division of labor has not changed the fact that labor markets are still embedded mainly in
+national contexts (Abrahamson, 2004). States are still the ultimate guarantors of the
+rights of global capital and the protectors of contracts and property rights. In education, the state can redefine policies to shift the orientation of education from skills
+formation to the fostering and enhancement of students’ basic abilities for living and
+coping with a changing society and market at domestic and global levels. The state
+continues to be a principal selector and translator of global imperatives for education,
+including proficiencies in the transnational skills of IT and English. Thus the selection
+and translation of global educational imperatives are mainly local processes that are
+subject to the constraints of local players and conditions.
+
+--- [PDF Page 288 / Book Page 271] ---
+
+The Developmental State, Social Change, and Education 271
+
+Moreover, despite the adoption of a multileveled framework for citizenship
+curriculum, states can promote and emphasize nationalism more than globalism
+for their domestic purposes and needs. The intensification of interconnectivity and
+interdependence between economies and between societies does not necessarily
+marginalize the state’s role in nation-building or rebuilding, nor must it bring forth an
+overwhelming homogenization of human activities into a limited number of patterns.
+On the contrary, in countries like Japan and China, the temporal-spatial compression of human activities can induce an intense fear about the possibility of losing
+collective political and cultural identity. This, in turn, can create an opportunity
+for states to reassert in their citizenship curricula the distinction of nation-specific
+political and cultural traditions from those of other states and peoples in a globalizing world. Highlighting the importance of recognizing and respecting other cultures
+and peoples can be seen as another way to reinforce the sociopolitical and cultural
+distinctions between “we” and “they.”
+In a changing world, states are arguably transitional and developmental. They face
+changing domestic needs and conditions, changing external challenges from other
+member states, or both. They can respond by proactively or reactively revising their
+strategies of development; modifying their social structures and institutions; adjusting
+the interrelationships among the state, markets, and society; and/or enhancing their
+competitiveness for international competition while maintaining cooperation with
+other countries. In an increasingly interconnected and interdependent world, societal
+politics and economies are increasingly intertwined, rather than separated, as are the
+state and market forces. Globalization can stimulate and reinforce both the convergence and diversity of human activities at the local, national, and global levels. On
+behalf of its people, economy, and society, the state plays a significant role in both
+negotiating globalization for domestic development and promoting nationalism for
+domestic social cohesion by establishing its distinctions from its counterparts in international competition.
+
+References
+Abrahamson, M. (2004). Global cities. New York: Oxford University Press.
+Akito, O. (2002). Education of whom, for whom, by whom: Revising the fundamental law of education in
+Japan. Japan Forum, 14(3), 425–441.
+Amsden, A. H. (1989). Asia’s next giant: South Korea and late industrialization. New York: Oxford
+University Press.
+Ashton, D., Green, F., James, D., & Sung, J. (1999). Education and training for development in East Asia: The
+political economy of skill formation in East Asian newly industrialised economies. London: Routledge.
+Becker, G. S. (1998). Human capital and poverty. Religion and Liberty, 8(1), 5–7, 11.
+Blaug, M. (1987). Economics of education and the education of an economist. New York: New York
+University Press.
+Bossy, S. (2000). Academic pressure and impact on Japanese students. McGill Journal of Education, 35(1),
+71–89.
+Buchert, L. (1998). Introduction. In L. Buchert (Ed.), Education reform in the south in the 1990s
+(pp. 11–25). Paris: UNESCO.
+Castells, M. (1992). Four Asian tigers with a dragon head: A comparative analysis of the state, economy, and
+society in the Asian Pacific Rim. In R. P. Appelbaum & J. Henderson (Eds.), States and development in
+the Asian Pacific Rim. London: Sage.
+
+--- [PDF Page 289 / Book Page 272] ---
+
+272 Law
+Central Council for Education. (1997). The model for Japanese education in the perspective of the 21st
+century (2nd Report). Tokyo: Central Council for Education.
+Central Council for Education. (2003). Fundamental law of education and basic promotional plan for
+education. Tokyo: Central Council for Education.
+China’s Education and Human Resource Development Project Team (Ed.). (2003). Zongrenkou Daguo
+Maixiang Renli Ziyuan Qiangguo [Stride from a country of tremendous population to a country of
+profound human resources]. Beijing: Higher Education Press.
+Curriculum Council. (1998). General outline of the principle of national curriculum standards reform.
+Tokyo: Curriculum Council.
+Currie, J., & Subotzky, G. (2000). Alternative responses to globalization from European and South African
+universities. In N. P. Stromquist & K. Monkman (Eds.), Globalization and education: Integration and
+contestation across cultures (pp. 123–148). Lanham, MD: Rowman & Littlefield.
+Delanty, G. (2000). Citizenship in a global age: Society, culture, politics. Buckingham: Open University Press.
+Deng, X. P. (1977). Zunzhong Zhizhi Zhuzhong Rencai [Respect knowledge, respect trained personnel]. In Central Committee of Communist Party of China Document Editorial Commission (Ed.),
+Deng Xiaoping Wenxuan, 1975–1982 [Selected work of Deng Xiaoping, 1975–1982] (pp. 37–38).
+Beijing: Renmin.
+Deng, X. P. (1978). Zaiquanguo Kexue Dahui Kaimushi Shang De Jianghua [Speech at the opening ceremony of the National Conference on Science]. In Central Committee of Communist Party of China
+Document Editorial Commission (Ed.), Deng Xiaoping Wenxuan, 1975–1982 [Selected work of Deng
+Xiaoping, 1975–1982] (pp. 82–97). Beijing: Renmin.
+Deng, X. P. (1985). Ba Jiaoyu Gongzuo Renzhen Zhuaqilai [Devote special efforts to education]. In Central
+Committee of Communist Party of China Document Editorial Commission (Ed.), Deng Xiaoping
+Wenxuan, 1983–1992 [Selected work of Deng Xiaoping, 1983–1992] (pp. 120–122). Beijing: Renmin.
+Evans, P. (1987). Class, state, and dependence in East Asia: Lessons for Latin Americanists. In F. C. Deyo (Ed.),
+The political economy of the New Asian industrialism (pp. 203–226). Ithaca: Cornell University Press.
+Fewsmith, J. (2002). China since Tiananmen: The politics of transition. Cambridge: Cambridge University
+Press.
+Frank, A. G. (1971). Capitalism and underdevelopment in Latin America: Historical studies of Chile and
+Brazil. Harmondsworth: Penguin.
+Fukuyama, F. (1992). The end of history and the last man. New York: Free Press.
+Gereffi, G. (1990). Paths of industrialization: An overview. In G. Gereffi and D. L. Wyman (Eds.),
+Manufacturing miracles: Paths of industrialization in Latin America and East Asia (pp. 3–31). Princeton,
+NJ: Princeton University Press.
+Giddens, A. (1999). Runaway word: The Reith lectures revisited, globalization. Retrieved 9 November,
+2000, from http://www.lse.ac.uk/Giddens/pdf/10-Nov-99.PDF
+Gold, T. B. (1986). State and society in the Taiwan miracle. Armonk, NY: M. E. Sharpe.
+Gold, T. B. (1988). Entrepreneurs, multinationals, and the state. In E. A. Winckler & S. Greenhalgh (Eds.),
+Contending approaches to the political economy of Taiwan (pp. 175–205). New York: M. E. Sharpe.
+Green, A. (1997). Education, globalization and the nation state. London: Macmillan.
+Green, A. (1999). Education and globalization in Europe and East Asia: Convergent and divergent trends.
+Journal of Education Policy, 14(1), 55–71.
+Haggard, S. (1990). Pathways from the periphery: The politics of growth in the newly industrializing countries. Ithaca, NY: Cornell University Press.
+Held, D., McGrew, A., Goldblatt, D., & Perraton, J. (1998). Global transformations: Politics, economics and
+culture. Cambridge: Polity Press.
+Hirst, P., & Thompson, G. (1996). Globalization in question: The international economy and the possibilities of governance. Cambridge, MA: Polity Press.
+Information Technology Strategic Headquarters. (2001). e-Japan 2002 program: Basic guidelines concerning the IT priority policies. Tokyo.
+Johnson, C. (1982). MITI and the Japanese miracle: The growth of industrial policy, 1925–1975. Stanford,
+CA: Stanford University Press.
+Kay, C. (2002). Why East Asia overtook Latin America: Agrarian reform, industrialisation and development.
+Third World Quarterly, 23(6), 1073–1102.
+
+--- [PDF Page 290 / Book Page 273] ---
+
+The Developmental State, Social Change, and Education 273
+Kida, H. (1986). Educational administration in Japan. Comparative Education, 22(1), 7–12.
+Krasner, S. (1999). Globalization and sovereignty. In D. A. Smith, D. J. Solinger, & S. C. Topik (Eds.), States
+and sovereignty in the global economy (pp. 34–52). London: Routledge.
+Law, W. W. (2000). Schooling and society in the people’s republic of China. In K. Mazurek, M. Winzer, &
+C. Majorek (Eds.), Education in a global society: A comparative perspective (pp. 355–370). Needham
+Heights, MA: Allyn & Bacon.
+Law, W. W. (2006a). Citizenship, citizenship education and the state in China in a global age. Cambridge
+Journal of Education, 36(4), 597–628.
+Law, W. W. (2006b). Education reform for national competitiveness in a global age: The experience and
+struggle of China. In K. Mazurek & M. Winzer (Eds.), Schooling around the world: Debates, challenges, and practices (pp. 68–103). Boston, MA: Pearson Allyn & Bacon.
+Leftwich, A. (2000). States of development: On the primacy of politics in development. Cambridge: Polity Press.
+Liew, L. H. (2005). China’s engagement with Neo-liberalism: Path dependency, geography and party selfreinvention. Journal of Development Studies, 41(2), 331–352.
+Lincicome, M. (1993). Nationalism, internationalization, and the dilemma of educational reform in Japan.
+Comparative Education Review, 37(2), 123–151.
+Livingstone, D. W. (1997). The limits of human capital theory: Expanding knowledge, informal learning and
+underemployment. Policy Options, 18(6), 9–13.
+Marginson, S. (1999). After globalization: Emerging politics of education. Journal of Education Policy,
+14(1), 19–31.
+Marsh, D., Smith, N. J., & Hothi, N. (2006). Globalization and the state. In C. Hay, M. Lister, & D. Marsh
+(Eds.), The state: Theories and issues (pp. 172–189). Basingstoke: Palgrave Macmillan.
+Martinussen, J. (1997). Society, state and market: A guide to competing theories of development. Atlantic
+Highlands, NJ: Zed Books.
+Ministry of Education. (2000). Zai Zhongxioaxue Puji Xinxi Jishu Jiaoyu De Tongzhi [A circular concerning the popularization of information technology education in primary and secondary schools] (No.
+Jiaoji 2000–33). Beijing: Ministry of Education.
+Ministry of Education. (2001a). Jiaoyubao Guanyu Jiji Tuijin Xiaoxue Kaishe Yingyu Kecheng De Zhidao
+Yijian [Guidelines on the provision of English language subject in primary schools]. Beijing: Ministry
+of Education.
+Ministry of Education. (2001b). Jichu Jiaoyu Kecheng Gaige Gangyao Shixing [Guidelines on the curriculum reform of basic education]. Beijing: Beijing Normal University Press.
+Ministry of Education. (2001c). Xiaoxue Sixiang Pinde He Chuzhong Sixiang Zhengzhike Kecheng Biaozhun
+De Tongzhi [A notice concerning the revision of the curriculum standards of ideology and moral character in primary schools and ideology and politics in junior middle schools]. Beijing: Ministry of
+Education.
+Ministry of Education. (2001d). Yingyu Kecheng Biaozhun [Curriculum standards for English language
+in primary education, junior secondary education and senior secondary education]. Beijing: Beijing
+Normal University Press.
+Ministry of Education. (2002). Pinde Yu Shenghuo Kecheng Biaozhun [Curriculum standards for moral and
+life education]. Beijing: Peking Normal University Press.
+Ministry of Education. (2003). Putong Gaozhong Kecheng Fangan (Shiyan) [Guidelines on the curriculum
+standards for general senior secondary education, experimental version]. Beijing: People’s Education
+Press.
+Ministry of Education. (2004a). 2003–2007 Nian Jiaoyu Zhenxing Xingdong Jihua: Xuexi Fudao Duben
+[2003–2007 action plan for invigorating education: Study guide]. Beijing: Educational Science Press.
+Ministry of Education. (2004b). Guanyu Yinfa Daxue Yingyu Kecheng Jiaoxue Yaoqiu De Tongzhi, Shixing
+[A circular concerning the demand on the provisional curriculum of English language in higher education]. Beijing: Ministry of Education.
+Ministry of Education. (2005). 2003–2007 Nian Jiaoyu Zhenxing Xingdong Jihua [2003–2007 action plan
+for invigorating education]. Beijing: People’s Education Press.
+Ministry of Education, Culture, Sports, Science, and Technology. (2000). Japanese Government Policies in
+Education, Science, Sports and Culture 2000: Toward a Culturally-Oriented Nation. Retrieved 1 March,
+2002, from http://wwwwp.mext.go.jp/hakusyo/book/hpae200001/hpae200001_2_072.html
+
+--- [PDF Page 291 / Book Page 274] ---
+
+274 Law
+Ministry of Education, Culture, Sports, Science, and Technology. (2001a). Education reform plan for the
+21st century. Tokyo: Ministry of Education, Culture, Sports, Science and Technology.
+Ministry of Education, Culture, Sports, Science, and Technology. (2001b). The education reform plan
+for the 21st century: The rainbow plan. Tokyo: Ministry of Education, Culture, Sports, Science and
+Technology.
+Ministry of Education, Culture, Sports, Science, and Technology. (2001c). Japanese government policies
+in education, science, sports and culture 2000. Tokyo: Ministry of Education, Culture, Sports, Science
+and Technology.
+Ministry of Education, Culture, Sports, Science, and Technology. (2002). Developing a strategic plan to
+cultivate ‘Japanese with English abilities’. Tokyo: Ministry of Education, Culture, Sports, Science and
+Technology.
+Ministry of Education, Culture, Sports, Science, and Technology. (2003). Action plan to cultivate ‘Japanese
+with English abilities’. Tokyo: Ministry of Education, Culture, Sports, Science and Technology.
+Ministry of Education, Culture, Sports, Science, and Technology. (2005). Japan’s education at a glance
+2005. Tokyo: Ministry of Education, Culture, Sports, Science and Technology.
+Morris, P. (1996). Asia’s four little tigers: A comparison of the role of education in their development.
+Comparative Education, 32(1), 95–110.
+Nakasone, Y. (1984). Speech made by the prime minister Mr. Yasuhiro Nakasone at the first meeting of
+the national council on educational reform (September 5, 1984). In National Council on Educational
+Reform (Ed.), Reports on education reform (pp. 560–561). Tokyo: Government of Japan.
+National Commission on Educational Reform. (2000). Report by the national commission on educational
+reform: 17 proposals for changing education. Tokyo.
+National Council on Educational Reform. (1985). First report on educational reform (June 26, 1985).
+In National Council on Educational Reform (Ed.), Reports on education reform (pp. 1–47). Tokyo:
+Government of Japan.
+National People’s Congress. (1995). Zhonghua Renmin Gongheguo Jiaoyufa [The Education Law of the
+People’s Republic of China]. In Zhonghua Renmin Gongheguo Jiaoyufa, Yiwu Jiaoyufa, Jiaoshifa [The
+education law, basic education law and teachers law of the People’s Republic of China] (pp. 1–13).
+Beijing: China Law Publishing House.
+National People’s Congress. (1999). Zhonghua Renimin Gongheguo Xianfa [The Constitution of the People’s
+Republic of China]. Beijing: China Law Publishing House.
+O’Brien, R. (1992). Global financial integration: The end of geography. New York: Council on Foreign
+Relations Press.
+Ohmae, K. (1990). The borderless world: Power and strategy in the interlinked economy. New York:
+HarperPerennial.
+Ohmae, K. (1995). The end of the nation state: The rise of regional economics. New York: Free Press.
+Parsons, T. (1951). The social system. Glencoe, IL: Free Press.
+Peter, G., & Curtis, A. (2002). The Japanese education system: Globalisation and international education.
+Japanese Studies, 22(2), 153–167.
+Rostow, W. W. (1985). The stages of economic growth: A non-communist manifesto. Cambridge: Cambridge
+University Press.
+Sassen, S. (1999). Embedding the global in the national: Implications for the role of the state. In
+D. A. Smith, D. J. Solinger, & S. C. Topik (Eds.), States and sovereignty in the global economy
+(pp. 159–171). London: Routledge.
+Sassen, S. (2000). Cities in the world economy (Second ed.). Thousand Oaks, CA and London: Pine Forge
+Press.
+Sassen, S. (2002). Introduction: Locating cities on global circuits. In S. Sassen (Ed.), Global networks,
+linked cities (pp. 1–36). London: Routledge.
+Schoppa, L. J. (1991). Education reform in Japan: A case of immobilist politics. London: Routledge.
+Schultz, T. W. (1961). Investment in human capital. American Economic Review, 51(1), 1–17.
+Schultz, T. W. (1971). Investment in human capital: The role of education and of research. New York: Free
+Press.
+Sorensen, G. (2006). The transformation of the state. In C. Hay, M. Lister, & D. Marsh (Eds.), The state:
+Theories and issues (pp. 190–208). Basingstoke: Palgrave Macmillan.
+
+--- [PDF Page 292 / Book Page 275] ---
+
+The Developmental State, Social Change, and Education 275
+Urry, J. (1998). Globalisation and citizenship. Retrieved 23 January, 2002, from http://www.comp.lancs.
+ac.uk/sociology/soc009ju.html
+Usher, R., & Edwards, R. (1994). Postmodernism and education. London: Routledge.
+Vartiainen, J. (1999). The economics of successful state intervention in industrial transformation. In M. WooCumings (Ed.), The developmental state (pp. 200–234). Ithaca, NY: Cornell University Press.
+Wade, R. (1990). Governing the market: Economic theory and the role of government in East Asian industrialization. Princeton, NJ: Princeton University Press.
+Wallerstein, I. M. (1974). The modern world-system. New York: Academic Press.
+Wallerstein, I. M. (1975). The present state of the debate on world inequality. In I. M. Wallerstein (Ed.),
+World inequality: Origins and perspectives on the world system (pp. 12–28). Montreal: Black Rose
+Books.
+Wallerstein, I. M. (1979). The capitalist world-economy. Cambridge: Cambridge University Press.
+Wallerstein, I. M. & Phillips, D. (1991). National and world identities and the interstate system. In
+I. M. Wallerstein (Ed.), Geopolitics and geoculture: Essays on the changing world-system. Cambridge:
+Cambridge University Press.
+Wan, M. G. (2004). Ethnic diversity and citizenship education in the People’s Republic of China. In
+J. A. Banks (Ed.), Diversity and citizenship education: Global perspectives (pp. 355–371). San
+Francisco, CA: Jossey-Bass.
+Weiss, L. (1998). The myth of the powerless state: Governing the economy in a global era. Ithaca, NY:
+Cornell University Press.
+White, G., & Wade, R. (1988a). Developmental states and markets in East Asia. In G. White (Ed.),
+Developmental states in East Asia (pp. 1–29). Houndmills, Basingstoke, Hampshire: Macmillan.
+White, G., & Wade, R. (1988b). Developmental states and markets in East Asia: An introduction. In G. White
+& J. Gray (Eds.), Developmental states in East Asia (pp. 1–29). Houndmills, Basingstoke, Hampshire:
+Macmillan.
+Woo-Cumings, M. (1999). Introduction: Chalmers Johnson and the politics of nationalism and development.
+In M. Woo-Cumings (Ed.), The developmental state (pp. 1–31). Ithaca, NY: Cornell University Press.
+World Bank. (1993). The East Asian miracle: Economic growth and public policy. New York: Oxford
+University Press.
+Worsley, P. (1985). One world or three? A critique of the world-system theory of Immanuel Wallerstein. In
+D. Held, J. Anderson, B. Gieben, S. Hall, L. Harris, P. Lewis, N. Parker, & B. Turok (Eds.), States and
+societies (pp. 504–525). Oxford: Basil Blackwell in association with The Open University.
+Wu, Y. S. (1994). Comparative economic transformations: Mainland China, Hungary, the Soviet Union, and
+Taiwan. Stanford, CA: Stanford University Press.
+Yoshikawa, S. (c. 2000). Japan. Retrieved 20 November, 2006, from http://www.ibe.unesco.org/curriculum/
+Asia%20Networkpdf/JAPAN.pdf
+

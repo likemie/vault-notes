@@ -1,0 +1,824 @@
+================================================================================
+Chapter 67: Aspects of Educational Transfer
+Author(s): David Phillips
+Handbook: International Handbook of Comparative Education (2009)
+Editors: Robert Cowen and Andreas M. Kazamias (Section Editor: Elaine Unterhalter)
+Section: Section 7: New Thinking
+Book Pages: pp. 1061–1077
+PDF Pages: pp. 1039–1055 (in raw/比较教育学国际手册2009Cowen.pdf)
+================================================================================
+
+--- [PDF Page 1039 / Book Page 1061] ---
+
+67
+ASPECTS OF EDUCATIONAL TRANSFER
+David Phillips
+
+There has always been much agonising and disagreement about the definition, purpose, and methods of comparative education. But there might be general agreement on
+one thing, namely, that among the aims of comparative inquiry in education should be
+the intention to learn from the foreign experience, to identify aspects of educational
+provision ‘elsewhere’ that might serve as lessons for the ‘home’ situation, that might
+be ‘borrowed’ or ‘copied’, ‘emulated’, ‘imported’, ‘appropriated’ – the vocabulary is
+both diverse and in various ways problematic – that might result, in Michael Sadler’s
+words, ‘in our being better fitted to understand our own [system]’ (Sadler, 1900, in
+Higginson, 1979).
+The idea that policy and practice might be ‘borrowed’ or ‘transferred’ from other
+locations has, then, been a continuing theme – both enthusiastically embraced and
+dismissed as a simplistic notion – since the early days of comparative inquiry in
+education.
+In this chapter I shall be concerned with ways in which notions of policy transfer
+have developed and in turn been analysed over the past 200 years or so. I shall refer
+to ‘policy borrowing’ as meaning the ‘conscious adoption in one context of policy
+observed in another’ (Phillips & Ochs, 2004a, p. 774). ‘Borrowing’ is therefore seen
+as a deliberate, purposive phenomenon in educational policy development. Borrowing
+in this sense is a part of ‘educational transfer’, which can be seen to cover a range of
+possibilities for the movement of ideas and practices (see Figure 2).
+First, I shall consider the place of borrowing in the work of some key figures in the
+development of comparative education since the beginning of the nineteenth century.
+Then I shall describe some examples of borrowing over a long historical period and
+in various contexts. Next, I shall sketch some of the most important recent research
+into this general field of inquiry in comparative education. Finally I shall look at some
+present and future developments.
+
+Borrowing
+Marc-Antoine Jullien in his Plan for Comparative Education of 1816/17 had the
+implicit aim of identifying practices that might be transferable from one system to
+others:
+
+1061
+R. Cowen and A. M. Kazamias (eds.), International Handbook of Comparative Education, 1061–1077.
+© Springer Science + Business Media B.V. 2009
+
+--- [PDF Page 1040 / Book Page 1062] ---
+
+1062
+
+Phillips
+
+One could judge with ease those [European nations] which are advancing; those
+which are falling back, those which remain stationary; what are, in each country,
+the deficient and ailing sections; what are the causes of internal defects which
+one would have noticed; or what are the obstacles to the ascendancy of religion, ethics, and social advancement, and how these obstacles can be overcome;
+finally, which parts offer improvements capable of being transposed from one
+country to another, with modifications and changes which circumstances and
+localities would determine suitable. (Fraser, 1964, p. 37)
+This curiously modern ambition reminds us, incidentally, of the information collected
+in the OECD’s Education at a Glance surveys and of the use that might be made of
+the PISA data.
+If we jump ahead a few decades we can see much in the work of Matthew Arnold
+as Inspector of Schools that would lend itself to notions of borrowing. In his various
+writings it is clear that he found a lot to commend in what he observed in educational
+provision in Prussia and in France especially. But he was sanguine about the use that
+might be made of his findings:
+‘I hope with time to convince people,’ he wrote in a letter of April 1868, ‘that I
+do not care the least for importing this or that foreign machinery, whether it be
+French or German, but only for getting certain English deficiencies supplied’.
+(Murray, 1997, p. 240)
+Arnold’s scepticism about educational ‘import’ is mirrored in a comment by the Oxford
+academic and one-time Rector of Lincoln College Mark Pattison, who wrote a report
+on education in Germany for a government commission in 1861 (Arnold had reported
+on France at the same time):
+The utility of … study of a foreign system does not depend on the question:
+Are the German primary schools or training colleges better than our own? …
+But the same difficulties in the way of national education with which we have to
+contend have to be met in the several countries of Germany, only under conditions so altered and infinitely varied as to afford a most instructive lesson. … In
+this country we are little likely to err on the side of a hasty imitation of foreign
+modes, or to adopt a usage from a neighbouring country, forgetful that its being
+successful there is no guarantee that it will adapt itself to our climate. … Much
+rather is everyone, who has any information on foreign systems to give, called
+upon to come forward with it, not as precedent to be followed, but as material for
+deliberation. (Pattison, 1861, vol.4, p. 68)
+And no brief survey of the early comparativists and their views on borrowing would be
+complete without a reminder of Michael Sadler’s much-quoted speech of 1900:
+In studying foreign systems of Education we should not forget that the things
+outside the schools matter even more than the things inside the schools, and
+
+--- [PDF Page 1041 / Book Page 1063] ---
+
+Aspects of Educational Transfer 1063
+
+govern and interpret the things inside. We cannot wander at pleasure among the
+educational systems of the world, like a child strolling through a garden, and
+pick off a flower from one bush and some leaves from another, and then expect
+that if we stick what we have gathered into the soil at home, we shall have a
+living plant. A national system of Education is a living thing, the outcome of
+forgotten struggles and difficulties, and “of battles long ago”. It has in it some
+of the secret workings of national life. It reflects, while it seeks to remedy, the
+failings of the national character. By instinct, it often lays special emphasis on
+those parts of training which the national character particularly needs. Not less
+by instinct it often shrinks from laying stress on points concerning which bitter
+dissensions have arisen in former periods of national history. (Sadler, 1900, in
+Higginson, 1979, p. 49)
+So, between Jullien and Sadler, the aims had shifted from reasoned faith in the notion
+of educational transfer to balanced scepticism about the possibilities (emphasising in
+particular problems of context) and an explicit desire to use the foreign example as
+a means by which a ‘home’ system might be better understood. The understanding
+thus engendered would then lead to reform which would take into account the home
+context. The foreign example could be used as an argument in the policy discussion,
+as Zymek demonstrated in a seminal study of 1975, a theme later developed by Gonon
+in 1998.
+Transfer was a topic frequently addressed by some of the leading middle-to-late
+twentieth-century comparativists, among them Brian Holmes and Edmund King.
+Holmes (1965), outlining his ‘problem approach’, talks of ‘cultural borrowing’ and
+of the force of comparative inquiry as an instrument in educational reform. In attempting ‘the anticipation or prediction of the outcomes of policies’ the comparativist will
+want to identify “the universal, vaguely perceived problem, to intellectualise (or analyse) it in general terms, and then to reveal its specific features in selected contexts”
+(1965, pp. 34–35). The revelation of such features would not result in their being
+directly borrowed but rather would facilitate prediction on the basis of potential reform
+which would draw on an analysis of them. In a later study Holmes asks if ‘selective
+cultural borrowing is theoretically justified and practically feasible’ (1981, p. 33). He
+sees value in ‘ideal-typical models in the light of which a clash of cultures can be analysed’ and argues for “appropriate normative patterns, which will permit us to weigh
+all the fruits and educative values of innovation and which will enable us to predict in
+known circumstances the outcomes of policy” (!981, pp. 33–34). Implicit in Holmes’s
+approach is a rejection of the methods associated with attempts at cultural borrowing
+unless the processes involved assist in the identification of general principles on which
+prediction might be based.
+Edmund King disagreed with Holmes on the subject of prediction, preferring
+instead to think in terms of hypotheses. The very way that King would formulate problems indicates a fundamentally different approach. In writing of borrowing he talks in
+terms of ‘living examples … elsewhere, which might be in comparable circumstances.
+Or they might give some indication of why expected results did not follow apparently
+comparable practices’ (King, 1968, p. 87). The foreign example thus helps to explain,
+
+--- [PDF Page 1042 / Book Page 1064] ---
+
+1064
+
+Phillips
+
+to inform and to provide a basis for speculation rather than forms of scientifically
+arrived-at prediction.
+
+Historical Perspectives
+As I have indicated, it would be wrong to regard ‘borrowing’ as a naïve phase through
+which comparative studies have passed, belonging only in stages 1 and 2 of Noah and
+Eckstein’s five-stage sequence for the development of the subject.
+The first stage for Noah and Eckstein, we may recall, represents the time when
+travellers brought back ‘tales’ of what they had observed. Such reports formed ‘the
+most primitive… observations’, originating in curiosity and emphasising the exotic
+so as to produce stark contrast with the norm at home: ‘Only the rare observer could
+extract systematic conclusions with explanatory value from a mass of indiscriminately
+reported impressions’ (Noah & Eckstein, 1969, p. 5). British and other travellers who
+come into Noah and Eckstein’s first stage were visiting Prussia, for example, out of
+cultural and general intellectual curiosity, and they constituted a large group of commentators whose work was very variable in quality.
+The second stage covers travellers who had an educational focus to their investigations. These visitors came in order to learn from a foreign example and thereby to help
+improve the circumstances ‘at home’. But their reports were ‘rarely explanatory’; they
+tended to concentrate on “encyclopedic descriptions of foreign school systems, perhaps enlivened here and there with anecdotes” (Noah & Eckstein, 1969, p. 5).
+But another way of looking at phases or stages in the development of comparative
+inquiry is to describe, as Michele Schweisfurth and I have attempted, a ‘sequential
+chain of emphases beginning at certain broadly defined historical points and continuing alongside the already existing emphases, while modifying them in various ways’.
+This is depicted in Figure 1.
+This ‘chain of development’ (Phillips & Schweisfurth, 2006, p. 28) starts with a
+period limited for the most part to description, as seen in the ‘travellers’ tales’ to be
+found in many early accounts of political and social conditions in other countries.
+Next, it envisages an overlapping time when observers had a clear political purpose
+in mind in their investigations, a desire to influence the policy debate in their home
+countries and to suggest aspects of provision elsewhere that might be borrowed. An
+example of this approach would be the work of William Howitt (1792–1879) on
+Germany, designed to dissuade his British readers from espousing the notion of state
+control of education: “The free spirit of England and private interests will never permit
+government here, as in Germany, to take charge of, regulate, and enforce the education
+of every class of the community” (Howitt, 1844, p. 310). The third major development
+came with advances in the collection of statistical data allowing a more sophisticated
+analysis of socio-economic conditions and their relationship to educational provision.
+German governments were especially adept at the collection of statistics, and by the
+time of the setting-up of Michael Sadler’s Office of Special Inquiries and Reports
+in London (1895), it was possible to produce authoritative accounts of education in
+other countries based on something approaching ‘scientific’ evidence. At the same
+
+--- [PDF Page 1043 / Book Page 1065] ---
+
+Aspects of Educational Transfer 1065
+description
+- - - - - - - - - --------------------------------------------------------------------------------->
+
+political analysis
+------------------------------------------------------------------------->
+
+use of statistical evidence, systematic data collection
+----------------------------------------------------------->
+------
+
+socio-economic evidence/understanding
+------------------------------------------------------->
+
+outcomes analysis
+------------------------------------------->
+
+globalised context
+------------------------------------------>
+
+postmodern approaches
+-------------------------->
+
+Fig. 1. Historical emphases in comparative analysis
+Source: Phillips & Schweisfurth (2006, p. 28)
+
+time, as Figure 1 describes, reporting within other traditions continued. Nearer to our
+own time we have seen growth in large-scale international surveys of pupil achievement and of the performance of national systems of education, as undertaken by the
+International Association for the Evaluation of Educational Achievement (IEA) and
+the Organisation for Economic Co-operation and Development (OECD), as well as the
+continuing work of theorists who monitor globalising trends and explore postmodern
+themes in education (Phillips & Schweisfurth, 2006, pp. 28–29). Policy borrowing
+would be a feature of each of these overlapping periods of emphasis.
+Almut Sprigade has shown that in the early decades of the nineteenth century there
+was far more sophistication than is usually supposed in the reporting of the foreign
+example in education. Her study confirms, as she puts it,
+the existence of a broad spectrum of information about education abroad in a variety
+of sources and [it] supports assertions of expertise in educational comparison and an
+
+--- [PDF Page 1044 / Book Page 1066] ---
+
+1066
+
+Phillips
+
+active involvement of groups and politicians in the exchange and generation of
+information about educational provision elsewhere. (Sprigade, 2005, p. i)
+In view of this and other evidence, it would be wrong in my view to dismiss interest
+in ‘policy borrowing’ as a manifestation of a phase of comparative education through
+which we passed long ago.
+If a principal purpose of comparative inquiry in education is, to use a term favoured
+by W. D. Halls, ‘meliorist’, that is, to improve things (Halls, 1990, p. 23), then (as I have
+argued above) it involves ‘learning lessons’, seeking out good practice, identifying educational policy and practice that might be emulated, copied, ‘borrowed’, if you will.
+But if the endeavour to learn lessons does result in attempts to borrow, comparativists need to understand the processes involved, to monitor what happens at the policy
+level, and to warn appropriately. On a previous occasion I listed some of the forces
+which might produce the conditions for an intention to borrow:
+Serious scientific/academic investigation of the situation in a foreign
+environment
+● Popular conceptions of the superiority of other approaches to educational
+questions
+● Politically motivated endeavours to seek reform of provision by identifying clear
+contrasts with the situation elsewhere (what Steiner-Khamsi calls ‘scandalising’
+the situation at home)
+● Distortion (exaggeration), whether or not deliberate, of evidence from abroad to
+highlight perceived deficiencies at home (a common feature of reporting in the
+popular press) (Phillips, 2000b, p. 299)
+●
+
+Below I shall look at examples of actual and potential transfer – at various levels of
+sophistication – between countries (with a particular focus on British interest in educational provision in Germany over a long period) and point to some heuristic devices
+to aid analysis of the processes involved.
+
+Examples
+An early example of serious attraction to a foreign example is to be found in an
+account written by John Quincy Adams of his travels in Silesia in 1800 and 1801 and
+published in London in 1804. Adams (1767–1848) was at the time the US Minister
+Plenipotentiary in Berlin; the son of an American President, he was to hold among
+other offices the post of Ambassador to Great Britain, to be elected to the Senate,
+and to become the sixth US President in 1825. Adams’s description of progress in
+elementary education in Prussia was later to be cited in England in a 1839 report of the
+Committee of Council, Recent Measures for the Promotion of Education in England,
+and is worth quoting in part as a good example of early interest in educational provision ‘elsewhere’ and the lessons to be learnt from it:
+Adams writes appreciatively of the educational reforms of Frederick the Great: it
+was due to ‘the zeal with which he pursued the purpose of spreading useful knowledge
+among all classes of his subjects’, that compared to the United States,
+
+--- [PDF Page 1045 / Book Page 1067] ---
+
+Aspects of Educational Transfer 1067
+
+[p]robably, no country in Europe could so strongly contest our pre-eminence in
+[elementary education] as Germany. (1804, p. 362)
+He mentions in particular the training of teachers:
+The teachers are directed to give plain instruction, and upon objects applicable to
+the ordinary concerns of life; not merely to load the memory of their scholars with
+words, but to make things intelligible to their understanding; to habituate them to the
+use of their own reason, by explaining every object of the lesson, so that the children
+themselves may be able to explain it, upon examination. (1804, p. 366)
+And he cites the regulations in place for compulsory attendance and for inspection:
+The school-tax must be paid by the lord and the tenants, without distinction
+of religions. In the towns, the school must be kept the whole year round. It is
+expected that one month shall suffice to make a child know the letters of the
+alphabet; that in two it shall be able to join them; and in three, to read. The boys
+must all be sent to school, from their sixth to their thirteenth year, whether the
+parents are able to pay the school-tax or not. For the poor, the school-money
+must be raised by collections. Every parent or guardian who neglects to send
+his child or pupil to school, without sufficient cause, is obliged to pay a double
+school-tax, for which the guardians shall have no allowance. Every curate must
+examine, weekly, the children of the school in his parish. A general examination
+must be held annually, by the deans of the districts, of the schools within their
+respective precincts; and a report of the condition of the schools, the talents and
+attention of the school masters, the state of the buildings, and of attendance by
+the children, made to the office of the vicar-general, who must transmit all these
+reports to the royal domain offices. From these, orders are issued to the respective landraths, to correct the abuses and supply the deficiencies indicated in the
+reports. (1804, p. 367–368)
+This relatively enlightened reporting covers matters of great concern in the early decades
+of the nineteenth century, as the debate began about the nature of educational provision and
+in particular the involvement of the state in it. The detail here is important, since it provides
+a blueprint for possible emulation and can thus be seen as an early example of identifying
+‘what works’ in another system. There is of course no intention to ‘borrow’ from experience in Silesia, but information of the kind collected by Adams was routinely fed into the
+policy discussion and was used by others advocating reform.
+Let us move from the personal to the official. A 1834 House of Commons Select
+Committee Report on the promotion of education in England was to include evidence
+from witnesses who could give testimony on the basis of first-hand experience of education in Germany. Here is what appears to be a verbatim record of an interview with
+William Davis, who ran a school in Whitechapel, London (on the lines of Bell’s monitorial
+system). The context is a discussion about expanding educational provision in England
+and exploring ways in which such expansion had occurred in Germany.
+
+--- [PDF Page 1046 / Book Page 1068] ---
+
+1068
+
+Phillips
+
+Are you of opinion that it is exceedingly desirable that a more extended system of
+education should be established?
+– Yes, if possible.
+And that with that system of education a system of employment should be combined,
+so as to give children useful habits?
+– Yes; perhaps it may not be irrelevant to observe I have known much about foreigners of the lowest class, who have come to England for employment, and I have
+scarcely known an instance where one of them (Germans) could not write his
+name and read his Bible.
+You mean to say that there is a much larger proportion of foreigners than of English
+who can do that?
+– I have scarcely found one in my own experience, among many hundreds whom I
+have known, who could not read and write.
+Are the class of foreigners with whom you have been conversant as low as those in this
+country whom you have known?
+– They come from the class of peasantry of their own country, and are here chiefly
+labourers to the sugar refiners.
+Have you found the German sugar bakers who have come to this country better educated than men of similar stations of life, and similar occupations in this country?
+– I should think upon the whole they are better educated. (Report from Select
+Committee, 1834, p. 215)
+This exchange is also worth quoting in detail, since it provides evidence of serious
+official endeavour at an early period – a time when there was serious debate about the
+need to consider state intervention in education in England – to identify evidence that
+might account for the perceived superiority of provision elsewhere. It is an example of
+what Steiner-Khamsi calls ‘scandalising’ the home system.
+Thereafter many official reports in England throughout the nineteenth century devoted
+much space to consideration of foreign examples in education, a habit which continued in
+the twentieth century. Michael Sadler’s Office of Special Inquiries and Reports produced a
+remarkable range of studies on multifarious aspects of foreign systems of education in the
+period 1895–1905, an initiative which was emulated from 1989 by successive ministries
+of education in London which published reports on education in other countries (including no fewer than eight on education in Germany). These reports can be related directly or
+indirectly to decision-making in the policy realm.
+The London Borough of Barking and Dagenham provides an important modern case
+study of borrowing in England on a local scale. The Chief Education Officer of this
+local education authority (LEA) initiated an extraordinary plan to improve teaching in
+local schools by learning from foreign examples. A special study was made of mathematics teaching in Swiss schools where good practice was observed and analysed and
+then ‘copied’ by teachers in the LEA. This involved the active cooperation of schools
+and the training of staff in new teaching techniques, together with the development
+of explanatory handbooks. This unusual example of the successful ‘transplanting’ of
+good practice identified elsewhere into the home environment resulted in observable
+improvement in standards in mathematics in the LEA (Ochs, 2006).
+
+--- [PDF Page 1047 / Book Page 1069] ---
+
+Aspects of Educational Transfer 1069
+
+In the United States we might mention the important work of Horace Mann,
+whose account of education in Germany was widely influential, that of Calvin
+Stowe (1838) and of Henry Barnard (1861, 1876), as well as William Torrey
+Harris’s vast ‘International Education Series’. Notably in the twentieth century there
+were important reports from the US Department of Education on education in Japan
+(1987) and Germany (1999), countries whose educational provision has attracted
+much attention around the world.
+In France, the report on education in Prussia by Victor Cousin was hugely influential. Translated into English (by Sarah Austin), it received widespread coverage in
+reviews and reports and was used both positively and negatively in the policy debate
+over a long period (Cousin, 1864).
+In Japan we can cite the curious instance of the Iwakura Mission. Led by Iwakura
+Tomoni, a Japanese delegation set sail for Europe and the United States in 1871 and
+spent 1 year and 9 months away from Japan. It comprised half the government of
+the day. The mission was huge (107 in all), and its objectives were wide-ranging: to
+present credentials to countries with which treaties had been concluded; to begin treaty
+revisions; and to observe and investigate advanced societies in order to determine what
+features of those societies might assist the modernisation of Japan. This latter objective became the principal aim of the mission. The embassy visited the United States,
+Britain, France, Belgium, The Netherlands, Germany, Russia, Denmark, Sweden,
+Italy, Austria, and Switzerland. It included an investigation of educational provision in
+the countries visited. A detailed report on the Embassy’s travels and findings was put
+together by the Confucian scholar Kume Kunitake (1839–1931) and published in 1878
+(Tokumei zenken taishi Beiõ kairan jikki) (Kume, 2002).
+In South Africa since the end of Apartheid we have seen the problematic import of
+‘outcomes based education’ (OBE), despite worries about this style of teaching and
+learning in ‘exporter’ countries. This provides a good example of failure to learn from
+the foreign example and of insufficient attention to the importance of context. For
+OBE to work there has to be at an appropriate infrastructure in place to support it. To
+move swiftly from traditional modes of teaching and learning to a situation where a
+teacher could say to pupils ‘I’m not the sage on the stage but the guide on the side’ was
+seriously mistaken (Jansen, 2004; Spreen, 2004).
+Elsewhere (Phillips, 2000b, pp. 302–303) I have listed the positive and negative use
+made of the German example during the nineteenth century in Britain. The positive
+features of German provision in education which attracted observers were:
+The coherent systematic nature of educational provision
+The unambiguity of the role of the state
+● The high standards of basic education
+● The long history and developing importance of vocational education
+● The attention to technological education and research in the Technische
+Hochschulen
+● The conceptualisation of the ‘modern’ university
+●
+●
+
+--- [PDF Page 1048 / Book Page 1070] ---
+
+1070
+
+Phillips
+
+On the negative side, there was concern about:
+The intervention of the state in matters which were seen by some observers to be
+quintessentially the concern of the people
+● The overbearing nature of bureaucratic administration
+● The overloaded curriculum and its departure (in the case of the Gymnasium) from
+the ideals of Wilhelm von Humboldt
+● The tendency towards blind obedience which encouraged the state to be manipulative
+of education for its own political and military ends
+●
+
+The official voice has therefore been consistently heard pronouncing on positive and negative features of education elsewhere for the past 200 years and more. The task for analysts
+of policy transfer is to identify instances of actual ‘borrowing’ of policy and practice and
+then to attempt to explain the processes involved. There are some potentially very informative instances of transfer at various stages of what Kimberly Ochs and I have seen as a
+‘spectrum’ (Figure 2) ranging from imposition to general influence.
+At the extreme (‘imposed’) end of the spectrum we might look at instances of the
+imposition of foreign models on countries coming under authoritarian influence from
+outside, as in the case of the Soviet bloc countries after the Second World War, or in
+the case of colonised countries required to adopt approaches to education common in
+the countries of the colonisers. Next we can examine conditions in countries defeated
+in war and required by the occupying victors to introduce new measures – the cases of
+Germany and Japan after the War are relevant here. Further along the spectrum we can
+identify instances of countries being required to change policy and practice in return
+for aid of various kinds, from the World Bank, for example. Next comes the deliberate
+and voluntary ‘borrowing’, which we have defined as ‘the conscious adoption in one
+context of policy observed in another’ (Phillips & Ochs, 2004a, p. 774). Finally, there
+is the general influence of educational ideas, ranging from the power of theories of
+education developed by such figures of international status as Pestalozzi or Dewey or
+Piaget to the forces of educational globalisation.
+
+(1)
+(2)
+(3)
+(4)
+(5)
+
+Totalitarian/authoritarian rule, inc.
+Defeated/occupied countries
+Required by bilateral and multilateral agreements
+Intentional copying of policy/practice observed elsewhere
+General influence of educational ideas/methods
+
+Fig. 2. Spectrum of educational transfer
+Source: Phillips & Ochs (2004b, p. 9)
+
+--- [PDF Page 1049 / Book Page 1071] ---
+
+Aspects of Educational Transfer 1071
+
+Research
+Given this rich historical background, there is a need to develop ways of analysing
+what happens in policy transfer of various kinds, and this is what many comparativists and others have been preoccupied with in recent years. In 1989, a special issue of
+Comparative Education investigated cross-national attraction in education (Phillips,
+1989). The rationale for the papers included was that a commentator from country a,
+would write about that country’s apparent interest in aspects of education in country b,
+while a knowledgeable observer from country b would react to the nature of country
+a’s attraction. Not surprisingly, there was considerable scepticism about the particular
+foci of attraction, as an OECD report had argued in a different context: “in nearly all
+countries, the reformers advocate following foreign models which their counterparts
+in the foreign country themselves criticise in the light of their experience of them” ’
+(Grégoire, 1967). Torsten Husén’s contribution spoke of the example of reform in
+Sweden being ‘exemplary both ways’:
+The reform-minded, particularly in Britain and the Federal Republic of Germany,
+who wanted to change in the same direction as Sweden, tended to regard the
+reform as exemplary. Those of a more conservative disposition were on the [look
+out] for weaknesses and failures, and tended to view it as exemplary in a negative sense. (Husén, 1989, p. 346)
+This reminds us of Steiner-Khamsi’s descriptors ‘glorification’ and ‘scandalisation’
+in order to illustrate ways in which the foreign example might be used in the policy
+debate.
+More recently Jürgen Schriewer and others in Berlin have investigated the internationalisation of educational ideas in connection with world system theory (Schriewer,
+2000; Caruso & Tenorth, 2002). Schriewer’s concept of ‘externalisation’ involves the
+use of foreign models in attempts to legitimise controversial reform proposals ‘at
+home’ (Schriewer, 1990).
+Steiner-Khamsi has looked at policy borrowing using in particular examples from
+Mongolia and Ghana (Steiner-Khamsi & Stolpe, 2006; Steiner-Khamsi & Quist,
+2000).
+Beech (2005, 2006a, b), Tanaka (2003), Ochs (2005), Sprigade (2005) and Rappleye
+(2006) have examined a wide range of instances of policy transfer in many different
+contexts and at various times.
+Kimberly Ochs and I have described models and other devices designed to analyse
+processes of policy borrowing, using for the most part British attraction to educational provision in Germany (Ochs & Phillips, 2002a, b; Phillips, 1989, 1993, 1997,
+2000a, b, 2002, 2004, 2005, 2006b; Phillips & Ochs, 2003a, b, 2004a, b). Other edited
+volumes (Finegold et al., 1993; Steiner-Khamsi, 2004; Phillips & Ochs, 2004b; Ertl,
+2006; Phillips, 2006c) have covered policy transfer issues in a variety of present-day
+and historical contexts. The historical approach is especially important, since it allows
+us to analyse completed processes: the work of Caruso (2002) on foreign adoption of
+the Bell-Lancaster (‘monitorial’) system in the nineteenth century is a good example.
+
+--- [PDF Page 1050 / Book Page 1072] ---
+
+1072
+
+Phillips
+
+The devices which Kimberly Ochs and I have produced in Oxford have been concerned with the description and analysis of stages in the policy-borrowing process.
+We have postulated a four-stage model describing processes of attraction, decision,
+implementation, and internalisation (Phillips & Ochs, 2003a, 2004a, b), and we have
+described ‘filters’ or ‘lenses’ through which policy (or practice) might pass as it transfers from one location to another: ‘ideas move and morph’, as Cowen puts it (2006,
+p. 567). These devices are not supposed to be applicable to each and every case of borrowing/transfer, but simply to serve as a tool for researchers to use as they trace what
+has happened or is happening in cases of educational transfer in a variety of contexts.
+They have been described at length in the papers cited above and are reproduced here
+as Appendices 1 and 2.
+
+Prospects
+I began by asserting the significance of policy borrowing as a theme in comparative
+education and the importance of the aim of ‘learning lessons’ through comparative
+inquiry in education. So far I have not touched in detail upon globalisation, but it is
+clear that more than ever against the background of globalising tendencies there will
+be instances of the transfer of educational ideas – deliberately or not – between locations. There will be cases of seemingly irresistible imperatives driving such transfer,
+as has been seen in the interesting situation with the Bologna Process in education
+in Europe, where long-standing traditions are potentially giving way to a consensual
+standardisation.
+Here the aim is the creation, by 2010, of a ‘European Higher Education Area’, with
+comparability and compatibility of provision from country to country. Ministers of
+Education met in Bologna in 1999 and have had a series of meetings since in order to
+take forward a programme involving the adoption of a three-cycle system of bachelor,
+master, and doctoral degrees and to agree on common approaches to quality assurance
+and the mutual recognition of qualifications and their associated periods of study. They
+agreed a remarkable series of objectives and declared:
+We hereby undertake to attain these objectives – within the framework of our
+institutional competences and taking full respect of the diversity of cultures,
+languages, national education systems and of University autonomy – to consolidate the European area of higher education. To that end, we will pursue the
+ways of intergovernmental co-operation, together with those of non governmental European organisations with competence on higher education. We expect
+Universities again to respond promptly and positively and to contribute actively
+to the success of our endeavour. (Bologna Declaration, 1999)
+The stage is set for an extension of processes observable since the creation of the
+European Community towards an ever-closer degree of cooperation, of convergence,
+between the member states and the nations of Europe beyond the European Union. It
+is this kind of convergence that it will be important for comparativists to monitor, in
+
+--- [PDF Page 1051 / Book Page 1073] ---
+
+Aspects of Educational Transfer 1073
+
+particular to test Cowen’s notion of ‘moving and morphing’ – to what extent will the
+notions underpinning the agreement be affected by local contexts?
+Contexts are of course the key factor in analyses of policy transfer. Sadler reminded
+us of this in 1900, and others had done so in various ways before him. A difficult but
+important task for future research is to disentangle the contextual factors that aid or
+hinder educational transfer. This will involve detailed investigation of the ‘internalisation’ stage in the model described in Appendix 1.
+Equally important will be an investigation of the roles of what in that model are seen
+as ‘significant actors’ (individuals and institutions) in promoting or hindering the transfer
+of policy and practice. Reportage in all forms will play a part in transfer processes, as we
+have seen in the case of worldwide interest in Finland, following that country’s egregious
+success in the PISA surveys, or in the case of Germany, as a result of very disappointing
+performance in PISA. This too needs to be monitored and critiqued.
+There is now a rich body of work on educational transfer upon which to build, and the
+further development of case-based theory in this important area of comparative inquiry
+will no doubt help to underline the continuing importance of the study of comparative education and the relevance of comparative data to the processes of policy making.
+
+Summary
+This survey of aspects of policy transfer in education has attempted to cover a lot of
+ground in a short space. In summary, I may attempt some conclusions:
+It is important to be clear about the terminology used when discussing transfer,
+much of which is potentially problematic; ‘borrowing’ is only one feature in a
+spectrum of possibilities for educational transfer.
+● ‘Borrowing’ should be seen as a purposive phenomenon, where deliberate attempts
+are made to learn from the foreign example and to ‘import’ ideas in the shape of
+policy and practice into the ‘home’ system.
+● A significant feature of the examination of foreign approaches to educational
+problems, whether or not they are ‘borrowable’, is that they help us to better
+understand problems ‘at home’.
+● In analysing ways in which borrowing takes place it is essential to tackle the
+difficult question of context and its appropriateness in terms of accommodating
+imported policies and practices.
+● An important task for comparativists is to uncover the motives of those advocating the borrowing of aspects of educational provision elsewhere.
+● With a seemingly irresistible and increasing convergence in education in a
+globalising context, tensions between the global and the local, between standardisation and tradition, will be evident and will constitute a rich area for future
+investigation.
+●
+
+The centrality of educational transfer as a field of analysis and inquiry in comparative
+education is established. It is the task of comparativists to make sure that it continues
+to be researched in ever-new contexts.
+
+--- [PDF Page 1052 / Book Page 1074] ---
+
+1074
+
+Phillips
+
+Appendices
+1. Four stages of policy borrowing (Phillips & Ochs, 2003a, b; 2004a, b)
+
+IMPULSES
+-INTERNAL DISSATISFACTION
+-SYSTEMIC COLLAPSE
+-NEGATIVE EXTERNAL
+EVALUATION
+-ECONOMIC CHANGE / COMPETITION
+-POLITICAL AND OTHER IMPERATIVES
+-NOVEL CONFIGURATIONS
+-KNOWLEDGE / SKILLS
+INNOVATION
+-POLITICAL CHANGE
+
+EXTERNALIZING
+POTENTIAL
+-GUIDING PHILOSOPHY
+-AMBITIONS/GOALS
+-STRATEGIES
+-ENABLING STRUCTURES
+-PROCESSES
+-TECHNIQUES
+
+FOUR STAGES
+OF POLICY
+BORROWING
+IN EDUCATION
+
+-IMPACT ON EXISTING
+SYSTEM/MODUS OPERANDI
+-ABSORPTION OF
+EXTERNAL FEATURES
+-SYNTHESIS
+-EVALUATION
+
+-THEORETICAL
+-REALISTIC/PRACTICAL
+-‘QUICK FIX’
+-‘PHONEY’
+
+-ADAPTATION
+-SUITABILITY OF CONTEXT
+-SPEED OF CHANGE
+-SIGNIFICANT ACTORS
+SUPPORT
+NATIONAL/LOCAL
+
+RESISTANCE
+‘NON-DECISION’
+REJECTION
+
+2. Filters in the policy-borrowing process (Phillips & Ochs (Eds.), 2004b)
+
+‘Filters’ in the Policy Borrowing Process
+INTERPRETATION
+
+TRANSMISSION
+
+RECEPTION
+
+IMPLEMENTATION
+
+F1
+
+F2
+
+F3
+
+F4
+
+PRACTICE1
+
+PRACTICE2
+
+TIME FLOW/PROGRESSION
+
+ACTORS
+ORGANIZATIONS
+
+AGENCIES
+MEDIA
+PUBLICATIONS
+
+INDIVIDUALS
+INSTITUTIONS
+
+CONTEXTS
+PRACTITIONERS
+
+--- [PDF Page 1053 / Book Page 1075] ---
+
+Aspects of Educational Transfer 1075
+
+References
+Adams, J. Q. (1804). Letters on Silesia, written during a tour through that country in the years 1800–1801.
+London: J. Budd.
+Barnard, H. (1861). German schools and pedagogy: Organization and instruction of common schools in
+Germany, with the views of German teachers and educators on elementary instruction. New York: F.C.
+Brownell.
+Barnard, H. (1876). German pedagogy: Education, the school, and the teacher, in German literature.
+Hartford.
+Beech, J. (2005). International agencies, educational discourse, and the reform of teacher education in
+Argentina and Brazil (1985–2002): A comparative analysis, unpublished Ph.D. thesis, University of
+London.
+Beech, J. (2006a). The theme of educational transfer in comparative education: A view over time. Research
+in Comparative and International Education, .1(.1), 2–13.
+Beech, J. (2006b). Redefining educational transfer: International agencies and the (re)production of educational ideas. In J. Sprogøe & T. Winther-Jensen (Eds.), Identity, education and citizenship – Multiple
+interrelations (pp. 175–196). Frankfurt am Main, etc.: Peter Lang.
+Bologna Declaration (1999). Accessible via http://ec.europa.eu/education/policies/educ/bologna/bologna_
+en.html
+Caruso, M. (2004). Locating educational authority: Teaching monitors, educational meanings and the importing of pedagogical models, Spain and the German States in the nineteenth century., In D. Phillips & K.
+Ohs (Eds.), Educational policy borrowing: Historical perspectives (pp.59–87). Didcot: Symposium.
+Caruso, M., & H. –E. Tenorth (Eds.) (2002). Internationalisierung: Semantik und bildungssystem in vergleichender perspektive. Frankfurt am Main, etc.: Peter Lang.
+Cousin, V. (1864). Report on the state of public instruction in Prussia. London: Effingham Wilson.
+Cowen, R. (2006). Acting comparatively upon the educational world: Puzzles and possibilities. Oxford
+Review of Education, 32(5), 561–573.
+Ertl, H. (Ed.) (2006). Cross-national attraction in education. Accounts from England and Germany. Didcot:
+Symposium.
+Finegold, D., McFarland, L. & Richardson, W. (Eds.) (1993). Something borrowed, something learned? The
+transatlantic market in education and training reform. Washington, D.C.: The Brooking Institution.
+Fraser, S. (1964). Jullien’s plan for comparative education, 1816–1817. New York: Teachers College Press.
+Gonon. P. (1998). Das internationale Argument in der Bildungsreform. Bern: Peter Lang.
+Grégoire, R. (1967). Vocational education (p. 34). Paris: OECD.
+Halls, W. D. (1990) (Ed.). Comparative education: Contemporary issues and trends. London: Jessica
+Kingsley/UNESCO.
+Hayden, M., Levy J., & Thompson J. (Eds.) (2006). The Sage handbook of research in international education. London: Sage.
+Higginson, J. H. (Ed.) (1979). Selections from Michael Sadler. Studies in world citizenship. Liverpool:
+Dejall & Meyorre.
+Holmes, B. (1965). Problems in education. A comparative approach. London: Routledge & Kegan Paul.
+Holmes, B. (1981). Comparative education: Some considerations of method. London: Allen & Unwin.
+Howitt, W. (1844). German experiences. London: Longman, Brown, etc.
+Husén, T. (1989). The Swedish school reform – Exemplary both ways. Comparative Education, 25(3),
+345–355.
+Jansen, J. (2004). Importing outcomes-based education into South Africa: Policy borrowing in a postCommunist world. In D. Phillips & K. Ochs (Eds.), Educational policy borrowing: Historical
+perspectives. Didcot: Symposium.
+King, E. J. (1968). Comparative studies and educational decision. Indianapolis and New York: The BobbsMerrill Company.
+Kume K. (2002). The Iwakura embassy, 1871–73. A true account of the ambassador extraordinary & plenipotentiary’s journey of observation through the United States of America and Europe, 4 volumes. Chiba
+(The Japan Documents).
+
+--- [PDF Page 1054 / Book Page 1076] ---
+
+1076
+
+Phillips
+
+Matlin, S. (Ed.) (2003). Commonwealth education partnerships 2004, edited by S. Matlin, Commonwealth
+Secretariat, The Stationery Office.
+Murray, N. (1997). A life of Matthew Arnold. London: Sceptre.
+Noah, H. J., & Eckstein, M. A. (1969). Toward a science of comparative education. London: Macmillan.
+Ochs, K., & Phillips, D. (2002a). Towards a structural typology of cross-national attraction in education.
+Lisbon: Educa.
+Ochs, K., & Phillips, D. (2002b). Comparative studies and ‘cross-national attraction’ in education: A typology for the analysis of English interest in educational policy and provision in Germany. Educational
+Studies, 28(4), 325–339.
+Ochs, K. (2005). Educational policy borrowing and its implications for reform and innovation: A study
+with specific reference to the London Borough of Barking and Dagenham. Unpublished D.Phil. thesis,
+University of Oxford.
+Ochs, K. (2006). Cross-national policy borrowing and educational innovation: Improving achievement in
+the London Borough of Barking and Dagenham. Oxford Review of Education, 32(5), 599–618.
+Pattison, M. (1861). Report of the Rev. Mark Pattison, B.D., Reports of the assistant commissioners
+appointed to inquire into the state of popular education in England and Wales (The Newcastle report,
+pp. 161–266). London: HMSO. pp.161–266.
+Phillips, D. (1989). Neither a borrower nor a lender be? The problems of cross-national attraction in education, Comparative Education, 25(3), 267–274.
+Phillips, D. (1993). Borrowing educational policy. In D. Finegold, L. McFarland & W. Richardson (Eds.),
+Something borrowed, something learned? The transatlantic market in education and training reform
+(pp. 13–19). Washington, D.C.: The Brookings Institution.
+Phillips, D. (1997). Prolegomena to a history of British interest in education in Germany. In C. Kodron
+et al. (Eds.), Vergleichende erziehungswissenschaft: Herausforderung – Vermittlung – Praxis. Cologne:
+Böhlau.
+Phillips, D. (2000a). Beyond travellers’ tales: Some nineteenth-century British commentators on education
+in Germany. Oxford Review of Education, 26(1), 49–62.
+Phillips, D. (2000b). Learning from elsewhere in education: Some perennial problems revisited with reference to British interest in Germany. Comparative Education, 36(3), 297–307.
+Phillips, D. (2002). Reflections on British interest in education in Germany in the nineteenth century. (A
+Progress Report). Lisbon: Educa.
+Phillips, D. (2004). Toward a theory of policy attraction in education. In G. Steiner-Khamsi (Ed.), Lessons
+from elsewhere: The politics of educational borrowing and lending (pp. 54–67). New York: Teachers
+College Press.
+Phillips, D. (2005). Policy borrowing in education: Frameworks for analysis. In J. Zajda (Ed.), International
+handbook on globalisation, education and policy research (pp. 23–34). Springer.
+Phillips, D. (2006b). Investigating educational policy transfer. In M. Hayden, J. Levy & J. Thompson (Eds.),
+The Sage handbook of research in international education (pp. 450–461). London: Sage.
+Phillips, D. (Ed.) (2006c). Comparative inquiry and educational policy making, special issue of Oxford
+Review of Education, 32(5).
+Phillips, D., & Ochs, K. (2003a), Processes of policy borrowing in education: Some analytical and explanatory devices, Comparative Education, 39(4), 451–461.
+Phillips, D., & Ochs, K. (2003b): Educational policy borrowing: Some questions for small states. In S.
+Matlin (Ed.), Commonwealth Education Partnerships 2004 (pp. 131–136). Commonwealth Secretariat,
+The Stationery Office.
+Phillips, D., & Ochs, K. (2004a). Researching policy borrowing: Some methodological challenges in comparative education, British Educational Research Journal, 30(6), 773–784.
+Phillips, D., & Ochs, K. (Eds.) (2004b). Educational policy borrowing: Historical perspectives. Didcot:
+Symposium.
+Phillips, D., & Schweisfurth, M. (2006). Comparative and international education. An introduction to theory, method, and practice. London: Continuum.
+Rappleye, J. (2006). Theorising educational transfer: Towards a conceptual map of the context of crossnational attraction. Research in Comparative and International Education, 1(3). (www.wwwords.
+co.uk/RCIE)
+
+--- [PDF Page 1055 / Book Page 1077] ---
+
+Aspects of Educational Transfer 1077
+Report from Select Committee on the State of Education (1834). London: House of Commons.
+Schriewer, J. (1990). The method of comparison and the need for externalization: Methodological criteria
+and sociological concepts. In J. Schriewer & B. Holmes (Eds.), Theories and methods in comparative
+education (pp. 25–83). Frankfurt: Peter Lang.
+Schriewer, J. (Ed.) (2000). Discourse formation in comparative education. Frankfurt am Main, etc.: Peter
+Lang.
+Shibata, M. (2005). Japan and Germany under the U.S. occupation: A comparative study of the post-war
+education reform. Lanham, etc.: Lexington Books.
+Spreen, C. A. (2004). The vanishing origins of outcomes-based education., In D. Phillips & K. Ochs (Eds.),
+Educational policy borrowing: Historical perspectives (pp. 221–236). Didcot: Symposium.
+Sprigade, A. (2005). Where there is reform there is comparison. English interest in education abroad, 1800–
+1839. Unpublished D.Phil. thesis, University of Oxford.
+Sprogøe, J. & Winther-Jensen T. (Eds.) (2006). Identity, education and citizenship – Multiple interrelations.
+Frankfurt am Main, etc.: Peter Lang.
+Steiner-Khamsi, G. (2000). Transferring education, displacing reforms. In J. Schriewer (Ed.), Discourse
+formation in comparative education (pp.155–187). Frankfurt am Main, etc.: Peter Lang.
+Steiner-Khamsi, G. (2002). Re-framing educational policy borrowing as a policy strategy. In M. Caruso
+& H. –E. Tenorth (Eds.), Internationalisierung: Semantik und bildungssystem in vergleichender perspektive (pp.57–89). Frankfurt am Main, etc.: Peter Lang.
+Steiner-Khamsi, G. (Ed.) (2004). Lessons from elsewhere: The politics of educational borrowing and lending. New York: Teachers College Press.
+Steiner-Khamsi, G., & Quist, H. O. (2000). The politics of policy borrowing: Reopening the case of
+Achimota in British Ghana. Comparative Education Review. 44(3), 272–299.
+Steiner-Khamsi, G. & Stolpe I. (2006). Educational import. Local encounters with global forces in Mongolia.
+New York: Palgrave Macmillan.
+Tanaka, M. (2003). The transfer of university concepts and practices between Germany, the United States,
+and Japan: A comparative perspective. Unpublished Ph.D. thesis, University of London.
+US Department of Education (1987). Japanese education today. Washington, D.C.
+US Department of Education (1999). The educational system in Germany: Case study findings. Washington,
+D.C.
+Zymek, B. (1975). Das Ausland als Argument in der pädagogischen Reformdiskussion. Ratingen: Aloys
+Henn Verlag.
+

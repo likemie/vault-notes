@@ -1,0 +1,746 @@
+================================================================================
+Chapter 36: From Coherence to Differentiation: Understanding (Changes In) The European Area for Higher Education and Research
+Author(s): Wim Weymans
+Handbook: International Handbook of Comparative Education (2009)
+Editors: Robert Cowen and Andreas M. Kazamias (Section Editor: Elaine Unterhalter)
+Section: Section 4: Industrialisation, Knowledge Economies and Education
+Book Pages: pp. 569–585
+PDF Pages: pp. 571–587 (in raw/比较教育学国际手册2009Cowen.pdf)
+================================================================================
+
+--- [PDF Page 571 / Book Page 569] ---
+
+36
+FROM COHERENCE TO DIFFERENTIATION:
+UNDERSTANDING (CHANGES IN) THE EUROPEAN
+AREA FOR HIGHER EDUCATION AND RESEARCH
+Wim Weymans
+
+Introduction
+It would be no exaggeration to say that the aim of a European research and higher education policy is the creation of a ‘European research area’ (ERA) or a ‘European area
+of higher education’ (EAHE). Although people in the field may be more affected by,
+and thus acquainted with, the process of European higher education reform known as
+‘Bologna’, the aim that underpins this process is the construction of a common area for
+higher education. Particularly since the intergovernmental agreement in 1999, known
+as the Bologna declaration, and the European Commission’s initiative in 2000 to make
+Europe the world’s most competitive knowledge-based economy, known as the Lisbon
+Agenda, the formation of this area by 2010 has been high on the European agenda.
+There is a marked contrast, however, between the pervasiveness of this concept of a
+European area and its lack of conceptual clarity. What, then, do people mean when
+they refer to such a European area?
+This chapter will argue, firstly, that one can discern at least three different ways in
+which the European area for research and higher education is understood and structured: while referring to the same area, people often mean different things by it. This
+chapter will also show who defends which space and how different groups wish to
+govern it. Although it will mainly focus on the Commission’s discourse on universities,
+it will also take into account other voices.
+Second, this chapter will argue that over the past few years, one can witness a dramatic and paradigmatic shift in the way this area is understood and structured. One can
+describe this shift as the evolution from a model of coherence and cohesion towards
+one of differentiation or competition. While the model of coherence stresses and creates similarities between different European universities, the new model focuses more
+on differentiation. Interestingly, this change affects all three conflicting views mentioned before. The chapter then examines how, as a result of these changes, the financial and political stakes of the European education and research area are getting higher.
+I shall also show how this new paradigm produces new agents, a new rhetoric and new
+modes of governance.
+Despite its importance in terms of budget and strategic impact, very few EU scholars devote attention to research and education policy: for example, in Wallace et al.,
+569
+R. Cowen and A. M. Kazamias (eds.), International Handbook of Comparative Education, 569–585.
+© Springer Science + Business Media B.V. 2009
+
+--- [PDF Page 572 / Book Page 570] ---
+
+570 Weymans
+
+2005 there is no chapter on this topic. While there are many interesting books on the
+idea of a ‘European space’ (Jensen & Richardson, 2004), on the construction of a
+European identity (Shore, 2000) and on the relationship between a European space
+and that identity (McNeill, 2004), very little attention has so far been devoted to the
+area for research and education. True, some researchers have started to investigate
+the European area of higher education (van der Wende, 2001; Nóvoa & Lawn, 2002;
+de Wit, 2003; Keeling, 2004). Yet most of these existing studies examine the area of
+higher education and that of research separately, thus simply duplicating the bureaucratic division of labour between the respective European Commission’s directoratesgeneral of education (DG EAC) and research (DG RTD). By contrast, this chapter
+takes the higher education and research areas together. This is because universities are
+characterised by precisely the combination of education and research, which means
+that changes in education affect a university’s research and vice versa. The fact that the
+Bologna process – which traditionally only touched education – currently also reforms
+doctoral research (The European Ministers of Education, 2005: 3–4) shows how artificial this distinction has become. Similarly, the Commission’s power, which was initially mainly limited to research, has now de facto expanded to higher education policy
+as well (Keeling, 2006). This explains why stakeholders ask that “these two policy
+agendas urgently need to be viewed together” (EUA, 2005: 3). Taking them together
+may allow people to see the massive nature of the changes that are underway.
+
+Fighting Over European Areas for Higher
+Education and Research
+What is a European area for higher education and research? The trivial answer is that
+it is simply a geographical area in which there are about “4 000 institutions, over
+17 million students and some 1.5 million staff – of whom 435 000 are researchers”
+(CEC, 2006b: 3, 2003: 5).1 In this sense, a ‘European university’ is a university located
+in Europe, just as a European city is a city that can be found on the European map.
+However, for most people agents the mere presence of institutes of higher education in
+the same geographical space is, in itself, not enough. Indeed, nothing guarantees that
+these institutions know about each other, understand each other’s systems or exchange
+information. When European ministers of education began with the ‘creation of the
+European area of higher education’ in Bologna in 1999 and the Commission 1 year
+later had the idea “to create a European research area” (CEC, 2000: 8), they meant
+more than just geography. In order to feel part of a larger area beyond the borders of
+the region or the nation state, one should not simply be objectively on the European
+map, but also be subjectively connected with other people. Creating a European area
+means that existing institutions at least know that they are part of the same space or
+landscape and feel connected to each other. How can this be achieved?
+I believe that, until recently, for most people the answer to that question lay in
+increasing the coherence and cohesion of standards and degrees. In European jargon this cohesion is often also referred to as ‘convergence’ (in the field of education)
+or ‘harmonisation’ (when talking about research) and one could also use terms like
+
+--- [PDF Page 573 / Book Page 571] ---
+
+From Coherence to Differentiation 571
+
+‘standardisation’ or ‘coordination’. Given the consensus on this answer one can see it
+as a paradigm, that is to say an ‘entire constellation of beliefs, values, techniques, and
+so on shared by the members of a given community’ (Kuhn, 1996: 175). Such a model
+or paradigm is of course an abstract ideal-typical construct, which therefore leaves
+room for different appropriations. I believe that in policy documents and initiatives
+one can indeed discern at least three different ways of conceptualising and constructing such an area according to the model of coherence. As we shall see these views also
+differ on the question of who should ‘govern’ this area (Treib et al., 2005).
+A first way to turn a European map into a European area through coherence is
+obviously to create common or shared standards and points of reference. In this sense
+universities can only be called European universities if they share the same degrees,
+standards, credit systems, indicators and infrastructures. Once they do this, universities
+will start comparing themselves with other European universities rather than merely
+with universities in their own country. Moreover, once they share the same standards
+and degrees, they will become readable and visible (and therefore accessible) for insiders and for outsiders. By way of comparison one can say that many European cities are
+‘European’ because they share for example the same currency or traffic road system,
+which gives them a distinct European dimension beyond their typical features.
+This first attempt to create a shared European space through sharing standards
+clearly underpins the Bologna process that aims at a further achievement of ‘greater
+compatibility and comparability’ of the systems of higher education (The European
+Ministers of Education, 1999) through the ‘adoption of a system of easily readable
+and comparable degrees’ that provides ‘a common reference’ (CEC, 2005: 6). The aim
+then was to ‘strengthen the convergence of higher education systems’ (CEC, 2003:
+4), notably through the creation of a European Qualifications Network, ‘commonly
+accepted guidelines and criteria’, a shared quality assurance and a European credit
+transfer system (ECTS) (The European Ministers of Education, 1999, 2005, 2007;
+CEC, 2005: 6–7, 11).
+The creation of the European research area is equally driven by the need for ‘common
+references and basic standards’ (CEC, 2005: 6) and the establishment of ‘a common
+system of reference . . . by aligning methods, harmonising procedures and comparing
+results’ resulting in ‘the development of a European scientific and technical reference
+area’ (CEC, 2000: 15). To that aim ‘the collection of data throughout the Union . . .
+needs to be improved and statistics and indicators developed at European level’ (CEC,
+2000: 20). As in the economic free market, in the market of research too, the aim is ‘to
+simplify and harmonise regulations and administrative conditions’ (CEC, 2000: 19).
+In short, students and researchers alike should be able to refer to a shared European
+horizon, expressed in similar degrees and comparable scientific indicators. As the
+Bologna process has shown, to realise this first spatial vision, ‘soft’ or minimal modes
+of governance (like the ‘open method of coordination’) involving national ministers
+and several stakeholders normally suffice, as one does not in principle need a supranational body to coordinate national policies.
+Yet, for the European Commission in particular this first answer is insufficient
+for obtaining a ‘true’ European area. For them, creating a shared space not only presupposes sharing standards but also needs active collaboration through exchange of
+
+--- [PDF Page 574 / Book Page 572] ---
+
+572 Weymans
+
+students and researchers. Compare this with the idea that truly European cities may be
+created through collaboration between them, such as partnerships.
+This second vision also concretely underpins European policy. In the field of education one can think of the Erasmus exchange programme, which has advanced European
+student mobility for more than a quarter century. While the introduction of shared
+degrees affects all students, actual student mobility through Erasmus only involves a
+relatively small minority (Neave, 2002: 184–185). Consider also the more recent idea
+of offering ‘more “European” courses, offered jointly by consortia of universities and
+leading to joint or double degrees at Master or Doctorate level’ (CEC, 2006b: 10).
+In the field of research there is collaborative research, which aimed at ‘networking
+of existing centres of excellence’ (CEC, 2000: 8), the creation of networks between
+different European countries, in order to increase collaboration between different
+European research teams. In sum, in this view a truly European space only comes into
+being when universities collaborate through exchange of students or researchers.
+More radically still, the Commission supports a third way of developing a European
+higher education and research area, one that creates new institutions that are detached
+from existing national territories. As an example of such a truly ‘European’ university,
+one can think of the European University Institute (EUI) in Florence, where academics and students teach or study after having left their national university. Similarly,
+consider the creation of a Joint Research Centre (JRC) as an independent ‘European’
+research centre, hosted by the European Commission. In the field of research, there
+is the dream of creating ‘virtual centres’ or ‘real “virtual centres of excellence” ’ or
+‘real “virtual research institutes” ’ through IT tools (CEC, 2000: 8, 10–11). This can
+be compared with the creation of new capitals (think of Madrid or Brasilia) that are
+meant to transcend existing regional cities and capitals. The underlying idea here is
+that a truly European space must be detached from existing places that have a national
+reputation.
+These last two visions imply different modes of governance. Although it would be
+conceivable that different countries agree to exchange or collaborate (as they often
+do), it is de facto a supranational institution like the European Commission that was
+able to push through collaboration and exchange programmes on a European scale.
+Instead of intergovernmental modes of governance, we find here a more centralised
+way of steering, for example in the field of research where the Commission determines
+which topics it wants to subsidise. Because of its supranational nature, the creation of
+new institutions obviously presupposes an even more centralised mode of steering.
+Given that the latter two visions of the creation of a European space through collaboration or new institutions presuppose centralised modes of governance, it comes as no
+surprise that most stakeholders and national governments reject these. The European
+Commission by contrast emerges as their stubborn defender. Why is this so? The simple answer is that this is because of the Commission’s thirst for power. The more interesting answer is that the Commission’s particular vision of a European area stems from
+an attachment to a deeply rooted idea that a truly European space should necessarily
+transcend national institutions and that it involves a detachment from one’s particular national horizon. Just as the Jacobins in revolutionary France saw an opposition
+between one’s particular background and the true national general spirit, the European
+
+--- [PDF Page 575 / Book Page 573] ---
+
+From Coherence to Differentiation 573
+
+Commission similarly believes that creating Europe involves a detachment from one’s
+national background. Just as French Jacobins created practices and institutions that
+would actively foster such detachment notably through education (Rosanvallon, 1990:
+100 ff), so the European Commission wants to create a European space through programmes of collaboration or by creating new European institutions.
+
+Three Spaces, Two Paradigms: From Coherence
+to Differentiation
+While the fight over these different spatial views continues, I believe that over the
+last few years the underlying goal and paradigm has changed dramatically. I think
+that the paradigm of coherence is currently in the process of being replaced by a
+model of differentiation. Where the final goal of a European research and higher
+education area initially consisted in stressing and creating similarities between
+different European universities, more recently the focus has been more on differentiation and competition.2
+It was no surprise that coherence precedes differentiation. Both logically and chronologically, differentiation and competition presuppose a minimal degree of standardisation.
+As the Commission writes: ‘a more coherent and compatible European framework . . . is
+a condition for the readability, and hence the competitiveness, of European universities’
+(CEC, 2003: 5; my emphasis). This explains why the Commission, as one of the main
+advocates of the paradigm of differentiation today, at the same time wants a ‘sufficient
+compatibility between the different national regulations’ (CEC, 2005: 6) as a condition
+for increased differentiation. This also explains why some see the coherence associated
+with the Bologna process as a tool for a ‘badly needed injection of diversity and competition into the European university system’ (Lambert & Butler, 2006: 38).
+Yet, while differentiation necessarily presupposes coherence, coherence should not
+necessarily lead to differentiation. While initial standardisation may be a matter of
+necessity, subsequent differentiation is a matter of political choice and is certainly not
+a natural evolution. Herein lies the whole political problem. For what is to be done
+once a minimal degree of coherence is achieved? Should one further distribute funds
+equally over all European universities to foster further harmonisation, or are shared
+standards and degrees only a first step to differentiate between strong and weak universities? The answer depends on which model you follow. Those defending the model of
+coherence will focus on what universities have in common and will want to include all
+universities. Those who start from the model of differentiation by contrast will focus
+on differences between universities and will want to foster this differentiation through
+competition.
+To be sure, the rationale behind both paradigms was the need for Europe to become
+a knowledge-based economy. The question had always been are universities ‘in a position to compete with the best universities in the world and provide a sustainable level
+of excellence?’ (CEC, 2003: 3, 22). Yet the answers to that question have differed.
+Those defending coherence believed that international competitiveness would increase
+through coherence alone (thus making European universities more attractive to foreign
+
+--- [PDF Page 576 / Book Page 574] ---
+
+574 Weymans
+
+researchers and students) and by distributing more money over all universities. Those
+aiming at differentiation argued by contrast that coherence alone did not suffice and
+that differentiation and competition were also needed. Funding, then, should be concentrated on a competitive basis rather than disseminated on the basis of inclusiveness.
+According to the Commission, the creation of a true knowledge economy presupposes a concentration of top research in a small number of universities, rather than a
+distribution of research capacity over as many universities as possible, as the model
+of coherence would have it. Differentiation thus became the new keyword. While the
+Commission still said that ‘the aim must be to bring all universities to the peak of
+their potential’ (CEC, 2003: 16) it also suggested that this potential differed and that
+a ‘combination of the absolute need for excellence, the effects of the precariousness
+of resources and the pressure of competition, forces universities and member states to
+make choices’ (CEC, 2003: 18; my emphasis). Put another way, the Commission
+stated that ‘Europe needs universities able to build on their own strengths and
+differentiate their activities on the basis of these strengths’ (CEC, 2006b: 4; my emphasis)
+arguing that ‘mobilising all Europe’s brain power (. . .) will require much more diversity
+than hitherto’ (CEC, 2005: 5; my emphasis). The Commission clearly and unambiguously indicated the implications of all this, stating that ‘the concentration of research
+funding on a smaller number of areas and institutions should lead to increased specialisation of the universities, in line with the move currently observed towards a European
+university area which is more differentiated’ (CEC, 2003: 18; my emphasis, see also
+CEC, 2005: 5). This, then, ‘requires more competition-based funding in research and
+more output-related funding in education’ (CEC, 2005: 8).
+The underlying assumption of the paradigm of differentiation is that in order to
+be attractive for foreign researchers and students, European universities, like their
+American counterparts, need ‘the necessary critical mass’ (CEC, 2003: 7). The
+Commission explains that while the United States, like the European Union, has about
+4,000 higher education establishments, only 50 of these ‘account for the lion’s share of
+American academic research capacity, public funding in support of university research
+and the country’s Nobel prizes for science’ (CEC, 2003: 5 n.9; CEC, 2006a: 5n.9). For
+the Commission, in Europe too a ‘culture of excellence’ can exist only in ‘a few entire
+universities’ (CEC, 2005: 5). Given that ‘high-tech businesses . . . tend to set up near the
+best-performing universities’ (CEC, 2003: 8), concentration of research is also necessary for technology transfer.
+
+Changing Paradigms, Changing Discourses
+Under this new paradigm of differentiation, old words acquired a new meaning. Take
+the central idea that in order to create ‘a dynamic European landscape’ that is ‘open
+and attractive’ (CEC, 2000: 18) to researchers, students and investors, both inside and
+outside Europe, ‘European higher education … needs to become “readable” ’ or ‘more
+visible in the world’ and should be ‘building an attractive image’ (CEC, 2005: 4, 2006b:
+9–10; my emphasis). With the change of paradigm, the meaning of readability or visibility as central goals of this area changed as well. Under the model of coherence,
+
+--- [PDF Page 577 / Book Page 575] ---
+
+From Coherence to Differentiation 575
+
+increasing visibility or readability only meant making an area intelligible through
+shared standards and references. The idea was that Europe had a hidden expertise
+which needed to be made visible or readable to outsiders through a harmonisation of
+standards and degrees. That was done by ‘mapping’ (existing) European centres of
+excellence (CEC, 2000: 10).
+Under the paradigm of differentiation, readability and visibility now mean making
+some excellent universities more visible than others through, for example, differentiated funding. Where in the old model visibility simply meant revealing existing excellence by harmonising standards, under the model of differentiation it implies actively
+creating excellence by concentrating funding in some highly visible excellent universities. Under the model of coherence excellence was deemed to be already there waiting to be discovered, while under the paradigm of differentiation it had to be created.
+Rather than assuming that Europe already has excellence the Commission now stated
+that at present ‘most universities . . . are ill-prepared for worldwide competition’ and
+that, in the future, ‘Europe simply must have a first-class university system’ or should
+be ‘achieving world-class quality’ (CEC, 2003: 22; CEC, 2005: 3).
+To use the metaphor of light, visibility no longer meant ‘bringing to light’ existing
+excellence in all European universities by making their degrees readable and comparable, but rather to create excellence by putting the best universities ‘in the spotlight’,
+while leaving others ‘in the shadows’. The light of coherence is a sun that shines over
+the entire European stage. Differentiation is a spotlight that picks out the best.
+As the meaning of keywords underpinning the discourse changed, so did its basic
+oppositions. The key dichotomy of the paradigm of harmonisation was between on the
+one hand a state of ‘fragmentation’, ‘isolation’, ‘compartmentalisation’, ‘disparity’,
+‘lack of coordination’ of existing national systems, which needed to be replaced by, on
+the other hand, ‘de-compartmentalisation’, ‘better integration’ and ‘a more coherent
+approach’ (CEC, 2000: 7, 9, 18). Under the paradigm of differentiation, that dichotomy
+is turned upside down: the ideal is now differentiation rather than coherence, which is
+now opposed to ‘an undesirable degree of uniformity’ (CEC, 2006b: 3; my emphasis).
+The problem is now no longer fragmentation but rather ‘uniformity and egalitarianism’
+which excludes those ‘who do not conform to the standard model’ leading to ‘an average quality of universities’ and, which is seen in terms of ‘insufficient differentiation’
+resulting in ‘deficiencies’ (CEC, 2005: 3–4; my emphasis).
+Ominously, the Commission openly states that universities should no longer follow traditional models such as ‘the ideal model of university envisaged nearly one
+century ago [sic] by Wilhelm von Humboldt’ because the trend today ‘is away from
+these models, and towards greater differentiation’ (CEC, 2003: 5–6; my emphasis).
+While it still admits that ‘the link between research and teaching naturally continues
+to define the ethos of a university . . . this link is nevertheless not the same in all institutions, for all programmes or for all levels’ (CEC, 2003: 18). Stronger still: ‘while all
+institutions share certain common values and tasks, not all need the same balance
+between education and research . . . research should remain a key task of the systems as a whole, but not necessarily for all institutions’ (CEC, 2006b: 4). A recent
+report by a European think tank similarly states that ‘there is a growing need for
+diversity – for some universities with the resources to compete with the best in the
+
+--- [PDF Page 578 / Book Page 576] ---
+
+576 Weymans
+
+world, and for others to meet regional and local requirements in a first-class fashion’
+(Lambert & Butler, 2006: 15).
+It is hard to tell when exactly the paradigm of coherence was challenged by that of
+differentiation. In fact, one could even argue that from the very start of the creation of a
+European area for education and research, the language of differentiation was already
+present in the documents. Yet, as in the case of visibility, words mean different things
+here. In the Bologna declaration of 1999, for example, there was already talk about
+‘increasing the international competitiveness of the European system of higher education’. Yet, this was then interpreted not in terms of increasing competition between
+European universities, but rather as an argument to boost the competitiveness of all
+European universities vis-à-vis the United States and Japan. Under the paradigm of
+differentiation, ‘increasing competitiveness’ means making the very best competitive
+at the expense of others. To be competitive with universities outside Europe, then,
+European universities also need to compete with each other.
+
+The Model of Differentiation in Action
+This new model of differentiation is mainly visible in the ‘communications’ by the
+Commission, which have propagated it since 2003 (if not earlier). Yet the model was
+practised in policy initiatives as much as it was preached in those communications.
+What, then, were the implications of these policy initiatives at different spatial levels?
+Let us take the creation of shared standards first. Where, within the paradigm of
+harmonisation, shared standards were used to enhance coherence between different
+universities, within the newer model, ‘standards’ are used to differentiate between
+them. Consider the creation of instruments for quality assurance, whereby universities
+evaluate themselves or are evaluated, which fosters competition and differentiation.
+The Bologna process itself is also affected by the Commission’s interference, which
+leads to ‘a growing stratification of the higher education sector in the EU’ (Keeling,
+2006: 214).
+Even more crucially and more significantly at this first level was the creation of
+a European Research Council (ERC) which is modelled after the National Science
+Foundation (NSF) in the United States (CEC, 2004). The aim of this ERC is to apply
+the same standards to all researchers. Yet, the standards are those of excellence rather
+than the lowest common denominator: ‘unlike earlier EU contributions to science
+funding, it will allocate research grants purely on the basis of peer-reviewed excellence’ (Lambert & Butler, 2006: 5). Needless to say, when researchers from particular
+universities enter into a Europe-wide competition with excellence as its sole criterion,
+this will increase competition and differentiation. Moreover, such an ERC will ‘set up
+benchmarks against which the best researchers in Europe can measure themselves’
+(Lambert & Butler, 2006: 57).
+The new model also affected the second spatial level. The creation of a European
+space through collaboration now also aimed at excellence. In the field of research there
+was the intention of creating so-called networks of excellence (NoE) and integrated
+projects (IP) (CEC, 2003: 10, 18). In the domain of education there was the start of the
+
+--- [PDF Page 579 / Book Page 577] ---
+
+From Coherence to Differentiation 577
+
+Erasmus Mundus programme at the Masters level. Unlike the classical Erasmus programme, the Erasmus Mundus programmes presuppose a selection of the programme
+as well as the participants on a competitive basis ‘in order to attract to Europe some of
+the world’s best students’ (CEC, 2003: 11). Where for traditional Erasmus programmes
+almost all universities could participate, Erasmus Mundus programmes are selected on
+a competitive basis.
+More so than in the classical Erasmus programme, the Erasmus Mundus programme
+defines the European space in terms of detachment or disconnection: the idea behind
+the programme is that students only enter a European space when they are confronted
+with different European cultures, which is why the programme requires them to pursue
+their studies ‘in at least two European countries’ (CEC, 2003: 11) during one academic
+year. While the US Fulbright scheme, which is Erasmus Mundus’ main example, forbids
+a stay in more than one institution, under Erasmus Mundus such a stay in at least two
+member states is a key condition. Just as in collaborative research, a European space is
+seen as the negation of rootedness in a national space and culture. Entering a European
+space means detaching oneself from national cultures. It remains to be seen if such an
+uprooted ‘European’ experience where students from outside Europe are confronted with
+two or even three different cultures during one academic year (while classes are taught in
+English) will not leave them confused rather than enriched by a ‘European’ experience.
+All the same, in this sense Erasmus Mundus combines the two views of European space:
+from the organisers’ perspective, it aims at collaboration, while from the participants’
+viewpoint it involves an experience of detachment or disconnection.
+The third vision of a European space in terms of detachment is now also interpreted
+in terms of differentiation. Consider the Commission’s recent idea to create a European
+Institute of Technology (EIT) (CEC, 2005: 12, 2006b: 2, 11; CEC, 2006a: 2,4) as a
+European counterpart to the MIT. Unlike the paradigm of coherence, the EIT wants to
+concentrate excellence. Yet rather than concentrating on excellence in a small number
+of existing universities – which could be the outcome of an ERC – the EIT wants to
+concentrate research in a separate European institute. Although the project has been
+toned down (CEC, 2006c), the Commission initially wanted excellent universities to
+‘second’ their best researchers to a European institute where they would remain for
+several years (CEC, 2006a: 2, 8–9, 11–12).
+
+A New Model, New Modes of Governance
+Differentiation also changed the balance of power between existing players. Where the
+Bologna process aiming at coherence was mainly led by the Ministers of Education
+of member states, ‘together with . . . non governmental European organisations’, the
+model of differentiation is clearly guided by supranational agents, specifically the
+European Commission. More generally, the autonomy of universities vis-à-vis both
+national governments and the Commission is bound to increase under the new model.
+While cohesion still requires a nation state to implement common standards, the model
+of differentiation by contrast necessitates that the state give up its control over
+universities and increase their autonomy.
+
+--- [PDF Page 580 / Book Page 578] ---
+
+578 Weymans
+
+At the same time the new model also created new players, such as new advocacy
+organisations. While the Bologna Process is monitored and steered by the European
+University Association (EUA), the paradigm of differentiation is propagated by more
+‘selective’ advocacy organisations. Where the EUA represents about 700 European
+universities, its more ‘selective’ counterparts like the League for European Research
+Universities (LERU) (founded in 2002) only represents 20 (from ‘Oxbridge’ to
+Leuven and Heidelberg), while the IDEA league which was founded in 2005 only
+represents five of the best ‘technical’ research institutions in Europe. Its four founding members are Imperial College London, Delft University of Technology, ETH
+Zürich and Aachen University – hence the acronym ‘IDEA’. Both the LERU and
+IDEA ‘leagues’ explicitly represent the interests of top research universities and thus
+defend differentiation. A differentiated European area thus also causes a differentiation in advocacy groups.
+Interestingly, the gap between the more inclusive and more elitist policy organisations is not as wide as one would expect: all seem to support differentiation which
+again suggests that there is indeed a paradigm at work. Even the more inclusive EUA
+states that ‘universities accept that there is a tension between its necessary strengthening of research universities and the need to ensure resources for research-based teaching in all universities’ (EUA, 2005: 4).
+Although most actors involved agreed on the new paradigm of differentiation, the
+traditional differences on the European area between the Commission and these advocacy groups, old and new, continued. Once again two concepts of a European space
+conflict: a space in terms of common standards and infrastructures (this time serving
+differentiation and excellence) was again opposed to a European space as transcending existing national universities. As before, all participants agree on the first spatial
+vision: just as almost all endorse the Bologna process as a means to get more coherence, all now support the creation of a research council (ERC) as a way to increase
+differentiation. Yet when it comes to the more ambitious visions of a more integrated
+European space the Commission and the stakeholders again part company. Just as
+almost all advocacy organisations welcomed the ERC, so they almost unanimously
+rejected the ‘European MIT’ (the EIT) precisely because it was a separate institution,
+which was only defended by the Commission.
+Critics of the Commission’s more radical view of the European area may argue
+that true differentiation is incompatible with the Commission’s more ‘integrated’ and
+controlled, ‘top-down’ views. While very few doubt that the ERC (like the National
+Science Foundation in the United States) is an efficient ‘bottom-up’ way to benefit
+differentiation, competition and ‘excellence’, many doubt the efficiency of a competition in which the Commission interferes. The Networks of Excellence indeed require
+lots of paperwork, are policy driven and not responsive enough to science (Lambert &
+Butler, 2006: 44), while the Erasmus Mundus programme in turn only accepts universities which already collaborate. All this means that truly excellent universities (like
+‘Oxbridge’) are reluctant to apply to these programmes that then risk becoming excellent in name only.
+Although old oppositions surface again, governance in the new paradigm of differentiation differs in crucial ways from that of coherence. Generally speaking, the stakes
+
+--- [PDF Page 581 / Book Page 579] ---
+
+From Coherence to Differentiation 579
+
+under the paradigm of differentiation have become higher. Unlike the paradigm of differentiation, the model of harmonisation was simply less contentious and in that sense
+less political. This is hardly surprising, for who would object to increasing coherence
+of standards? This is why the Bologna process is often seen as an example of harmonious policymaking where all stakeholders are involved, thus showing that multilevel
+governance with 40 or so ministers and an equal amount of stakeholders around the
+table is indeed possible. Typical for coherence is also its inclusiveness: Erasmus and
+the Bologna process, for example, have as their goal to include as many institutions
+as possible and use hardly any internal competition for quality. In the field of collaborative research, too, there was de facto a marked absence of competition for excellent research teams. Instead a wide range of European research institutes participated,
+mostly evenly spread between north and south, west and east.
+By contrast, the policy aiming at differentiation is generally more political not only
+because funding is differentiated on a competitive basis, but also because the available
+amount of funding is higher. The paradigm of coherence had no other incentive than
+the binding signatures of ministers or the award of relatively small-scale grants to students under the Erasmus programme. True, the Marie Curie grants and collaborative
+research involved a considerable budget. Yet the budget that is used to propagate the
+new model is considerably higher. The ERC will get its own budget of around €1 billion a
+year, while the Erasmus Mundus grants (to which, surprisingly, only non-EU citizens
+are entitled) are higher than those of the existing Erasmus programmes. The presence
+of funding as a mechanism of governance, then, means that the impact of the paradigm
+of differentiation is likely to be even higher than that of coherence.
+Yet, as the debates get more political and the stakes get higher, consultation, and
+thus contestation, paradoxically diminishes. Indeed, the relatively broad and open consultation that had still characterised the model of coherence (think of the Bologna
+process), is now replaced by a top-down mode of governance. The creation of the ERC
+and the EIT was implemented fast and without much consultation. Despite a massive
+rejection of the idea of an EIT by various stakeholders and consultative bodies inside
+and outside the Commission (e.g. Sanders, 2006; Lambert & Butler, 2006: 5, 58–9;
+LERU, 2005), the Council and Commission initially went ahead with the idea (see
+CEC 2006a; CEC, 2006b: 2, 11). Only recently has the Commission moderated it,
+probably because some member states protested.3
+How can we explain that, as the stakes get higher, consultation diminishes? A cynical explanation could be that when the budget increases, the space for democratic consultation decreases. Multilevel governance within the Bologna process is all well and
+good as long as there are no huge EU budgets involved. Yet I believe that this is only
+part of the story. The relative consensus on this top-down policy can also be explained
+by the language that is used to legitimise the creation of a differentiated European area.
+I believe differentiation is legitimised through a permanent ‘rhetoric of emergency’.
+The origin of and driving force behind this rhetoric lies in the Commission’s so-called
+Lisbon agenda which wants to make Europe the most competitive knowledge-based
+economy in the world by 2010.
+True, this rhetoric of emergency was used by the Commission as early as 2000 when
+it declared that ‘the situation is urgent’ (CEC, 2000: 24). The motif increased even
+
+--- [PDF Page 582 / Book Page 580] ---
+
+580 Weymans
+
+further when the model of differentiation started guiding European policy. Ever since,
+the European area for research and education is depicted as being in a permanent state
+of emergency. In almost all Commission documents the dramatic weakness of European
+research and education vis-à-vis the United States and Japan is emphasised. This rhetoric
+became particularly strong when in 2004 for the first time an attempt was made to offer
+a global ranking of the 500 best universities in the world in what became known as the
+so-called Shanghai ranking (Shanghai Jiao Tong University, 2004). This ranking has been
+used ever since by the European Commission to legitimise its call for evermore drastic
+action (e.g. in CEC, 2005: 3 n.10; CEC, 2006a: 5n.6). Almost simultaneously another global ranking by the Times Higher Education Supplement (2004) came to similar conclusions. Why were these rankings so alarming? Tony Blair gave the answer to that question
+in the European Parliament in June 2005 when he declared that ‘of the top 20 universities
+in the world today, only two are now in Europe’ (Blair, 2005). Blair modestly omitted the
+fact that those two were in fact British, so that, with the words of the Commission, ‘apart
+from a handful in Britain, there are no European Union universities in the top 20 in the
+world and relatively few in the top 50’ (CEC, 2005: 3; CEC, 2006a: 5). Such a desperate
+condition, goes the line, requires and legitimises desperate measures.
+Perhaps it is this rhetoric of a state of emergency which explains why the Commission
+is given such a strong mandate in this field and why it can operate in a swift and topdown way, as opposed to the more bottom-up procedures that were characteristic for
+the implementation of coherence. This is surprising given that initiatives propagating
+differentiation such as the ERC ‘have caused alarm in some EU countries, concerned
+that the drive for results will mean that EU money is pumped into elite institutions with
+the best research records mainly in Britain, the Nordic countries and the Netherlands’
+(Laitner, 2005). Yet although many member states have reasons to believe that an ERC
+would go against their national interests, the Council has nonetheless supported the
+Commission in its creation of differentiated European space. However, it remains to
+be seen how things will evolve once the ERC starts working. Will member states in
+the south and the east accept a differentiated European landscape? Moreover, one can
+wonder if these countries are not ‘trapped in a vicious circle: they will get no more
+money unless they reform; and they cannot reform without more money’ (Lambert &
+Butler, 2006: 20, 38, 47, 55, 60, 65).
+
+Epilogue: ‘Future Research’
+Some may object that this chapter limits itself to examining the official discourse without actually researching how people experience changes in the European space at the
+grass roots level. One could for example ask if the Bologna process’s official intention
+to increase mobility, did not de facto decrease it, because of the rigid study structure it
+has created. While it is true that an analysis of texts by the Commission does not tell
+us if and how they are implemented and experienced at the grass roots, I believe that
+it is equally true that such analysis also precedes events at that level and can therefore
+identify tendencies that have not yet been implemented in practice. Despite all postmodern doubts about the idea of a ‘centre’, it remains true that most policies start at a
+
+--- [PDF Page 583 / Book Page 581] ---
+
+From Coherence to Differentiation 581
+
+fairly limited policy level and is only afterwards implemented in reality. First there was
+the Bologna declaration and then the process, not the other way round.
+For that reason, conceptual analysis may offer us an ‘early warning system’ to inform
+us that an educational earthquake may be underway. Only now, many years after its
+inception, millions of students and researchers in the European area are coming to
+terms with the consequences of the Bologna process. If we wait till the model of differentiation is visible in the field, then stakeholders and policymakers alike may (again) be
+caught off-guard by decisions they may not have foreseen or may not approve of. This,
+then, is the paradox: while we can only now see what the implications of a process
+such as ‘Bologna’ are in practice, it is precisely for that reason too late now to change
+dysfunctions. So, although conceptual analysis differs from an examination of what
+happens at grass roots level, it may still critically anticipate consequences at that level.
+How, then, can we try to anticipate consequences of the paradigm of differentiation?
+First, we can obviously try to anticipate consequences by looking at the United
+States as an example of a differentiated area and hence one the Commission constantly
+invokes. One problem we can observe there concerns the social role of the (social)
+sciences on which the Commission had always taken an ambiguous position. On the
+one hand the Commission suggests that universities should be more open to society and should ‘explain at home and abroad the specific value of what they produce
+for learners and society’ (CEC, 2005: 4). Similarly, the Commission complains that
+‘communication between scientific specialists and non-specialists is much needed but
+often absent’ (CEC, 2006b: 8). This openness to society ranges from developing policy
+oriented research to being ‘open’ to society and the market at large (e.g. CEC, 2005: 8)
+leading to a ‘cross-fertilisation with the business-community and with the wider
+society’ (CEC, 2006b: 4).
+Yet on the other hand the Commission also states that ‘universities should be funded
+more for what they do than for what they are, by focussing funding on relevant outputs
+rather than on inputs’ (CEC, 2006b: 7). Yet the more output is measured in (and by)
+the social sciences, the more those researchers tend to publish in highly specialised
+journals. This in turn means that they will be less likely to publish for a wider audience
+(as this is not acknowledged as relevant ‘output’ in most rankings) and that they will
+be less likely to develop more general positions addressing a wider audience (as these
+seldom conform to what is required in specialised journals) or simply have less time to
+communicate to a larger audience (Lipsett, 2006). In short, this risks undermining the
+‘public mission and overall social and cultural remit of universities’ (CEC, 2006b: 6).
+Here the European Commission risks reproducing the paradox that characterises its
+admired American example: while the United States has the best research universities
+in terms of output, its universities host arguably less ‘public intellectuals’ in the social
+sciences than Europe. The question will thus be if the paradigm of differentiation will
+not lead to a ‘neutralisation’ of the social and political role of academics in the (social)
+sciences, and if, in so doing, Europe risks not losing one of its typical cultural values in
+the name of an American model that may be particularly deficient in this respect.
+Another problem we can observe in a differentiated area such as the United States
+is that the university and the knowledge it produces are seen ‘in terms of a generalized logic of “accountability” in which the University must pursue “excellence” in all
+
+--- [PDF Page 584 / Book Page 582] ---
+
+582 Weymans
+
+aspects of its functioning’ (Readings, 1996: 3). In the same way, the Commission also
+supports ‘external quality assurance’ (CEC, 2005: 7), and relates it to ‘clearly defined
+targets and indicators’ (CEC, 2006b: 8) or to the presence of professional management in universities, allowing ‘professionals from outside the purely academic tradition’ within ‘universities’ management and governance structures’ (CEC, 2003: 17 and
+9, 2005: 9, 2006b: 5). However excellence and accountability then often tend to be
+reduced to ‘exhaustive accounting’, ‘bookkeeping’ and evaluation (Readings, 1996:
+18, 26, 29, 32, 130–34). As a result, the university increasingly needs administrators,
+which explains why (American) universities understand themselves ‘solely in terms of
+the structure of corporate administration’ (Readings, 1996: 29). Yet one can wonder
+if this reflects the universities’ mission. Is the knowledge the university produces and
+teaches something that can be measured and quantified? Can its accountability be
+reduced to accounting? Shouldn’t its mission resist any ‘final determination’ rather
+than embracing a narrow definition of excellence ‘as an alibi that might excuse us
+from the necessity of thinking about what we are saying, when and from where we are
+saying it’? (Readings, 1996: 160).
+But we can, secondly, also learn positive lessons from the United States like the
+importance of access. It is not easy to reconcile a differentiated area with the Bologna
+process’ ‘commitment to making quality higher education equally accessible to all’
+(The European Ministers of Education, 2005: 4) as differentiation normally implies a
+diversification of students on the basis of intelligence. Yet such a differentiated landscape also means that universities need more money, which almost inevitably implies
+that tuition fees will be introduced (Lambert & Butler, 2006: 4). This in turn signifies
+that there is a risk that some of the best students from a less privileged background
+will no longer be able to study. A differentiation will then reflect differences in wealth
+rather than in talent.
+If a diversified European space really wants to attract the best rather than the richest, thus ‘breaking the link between social origin and educational attainment’ (CEC,
+2005: 6) then it needs an extensive system of grants, like in the United States or the
+United Kingdom. The Commission indeed emphasised that ‘it is crucially important to
+maintain the excellence of teaching and research . . . while still ensuring broad, fair and
+democratic access’ (CEC, 2003: 6, 13–15, 2005: 10). Against many in (continental)
+Europe who believe in the ‘automatic right of access to university studies’ (CEC, 2003:
+14), the Commission argues that ‘tuition fees could in practice provide better access
+for students from lower income groups if the incremental funds were recycled into a
+sound aid system’ (CEC, 2005: 8). Put more bluntly: the ‘use of the access argument
+to justify free higher education for all university students is simply a piece of middle class special pleading’ (Lambert & Butler, 2006: 52). The Commission concretely
+suggests that ‘where tuition fees are introduced, a substantial part of the funds should
+be redistributed as income-contingent grant/loans aimed at guaranteeing access for
+all, and as performance-related scholarships aimed at encouraging excellence’ (CEC,
+2005: 10). However, most governments or advocacy groups which are (slowly) implementing the paradigm of differentiation did not follow the Commission’s advice for
+compensating talent-based grants (partly financed by tuition fees) for the less well off.
+This is worrying, as the European diversified space risks become more unequal than its
+
+--- [PDF Page 585 / Book Page 583] ---
+
+From Coherence to Differentiation 583
+
+American counterpart, where excellence is at least in part combined with an extended
+grants scheme.
+Another thing we could learn from the United States, as the Commission admits, is
+fostering certain values and practices in higher education, such as valuing interdisciplinarity, fundamental research, autonomy and career prospects for (young) researchers and so on (Lambert & Butler, 2006: 44; Ingdahl, 2006; CEC, 2003: 8–9, 2005: 9).
+Yet although a successful implementation of differentiation requires such values and
+practices, implementing this will be very difficult.
+A third and final way to predict problems is by focussing on the United Kingdom as
+a European country where differentiation is already implemented, the results of which
+can now be observed. One striking result is that teaching becomes less important than
+research, as ‘competitive funding . . . based on institutional evaluation systems and on
+diversified performance indicators’ (CEC, 2006b: 8) means – de facto – attributing
+funding on the basis of research output. This too is worrying. While the United States
+has the best research universities in the world, when it comes to quality of undergraduate teaching at those research universities, some top European research universities
+particularly in the United Kingdom, are arguably better in some respects. Think of
+‘Oxbridge’ and its particular tutorial system, which involves top researchers (and not
+graduate students, as is the case in the United States) offering small-scale tutorials
+for undergraduates. Yet, precisely as a result of ‘more competition-based funding in
+research and more output-related funding in education’ (CEC, 2005: 8), this undergraduate teaching system and the colleges that provide its particular context are currently under threat. For if careers of academics depend increasingly on research output
+rather than commitment to undergraduate teaching and university life in general, then
+such commitment risks being undermined.
+A further problem is related to the way a differentiated area is created in the United
+Kingdom. While the United States already has an established differentiated university landscape, European countries like the United Kingdom try to get one of its own
+through ‘the highly artificial creation of a fictional market’ (Readings, 1996: 36) by
+using government funding. This concretely means that the British government creates ‘a unified . . . accounting mechanism’, such as the Research Assessment Exercise
+(RAE), in order ‘to accentuate differentials in perceived quality rather than to reduce
+them. Thus more money is given to the high-scoring university departments, while the
+poor ones, rather than being developed, are starved of cash’ (Readings, 1996: 36–37).
+However, given that ‘the taxpayer’s money’ is involved, the procedures that are used
+to award competitive funding tends to involve a hugely bureaucratic system of auditing, surveillance and controlling researchers (Readings, 1996: 36–37). Ironically, when
+it comes to higher education policy, the United Kingdom has now become a precursor
+of a bureaucratic system that is normally associated with ‘Brussels’. As a result, the
+United Kingdom, and tomorrow’s Europe, risk creating an artificial university ‘market’
+or ‘area’ that involves much more bureaucracy and government than the American area
+they wanted to emulate. Yet this may have unintended outcomes. Indeed, such bureaucratic control may even become counterproductive, not just because it takes away time
+from researchers, but also, and more importantly, because it starts from the assumption that researchers cannot be trusted, which may damage their ‘professional pride
+
+--- [PDF Page 586 / Book Page 584] ---
+
+584 Weymans
+
+and integrity’ and build ‘a culture of suspicion, low morale, and may ultimately lead
+to professional cynicism’ (O’Neill, 2002: 50 and 57). With the exception of Readings’
+(1996) work, it is perhaps no coincidence that these trends are mainly examined by
+British academics such as Onora O’Neill (2002), David Marquand (2004), Michael
+Power (1997) or Marilyn Strathern (2000).
+These are just some telling examples of a bureaucratic tendency to measure and
+‘objectify’ knowledge, research and teaching which is not limited to the United
+Kingdom alone: what happens in the United Kingdom and some other European
+countries today may happen in the rest of Europe tomorrow. As we have seen, the
+creation of a European area for higher education and research also changes the reality
+of a European university. Yet despite this, these European universities themselves are
+hardly reflecting on these and future changes. Compared to the scale of the changes
+that are currently affecting the European area, academic research about these changes
+is relatively rare, and within this under-researched field only few researchers offer a
+critical perspective. Given this gap between the dramatic changes in the European university landscape and the universities’ own lack of (critical) research on these changes
+that will nevertheless determine their future, an appeal for more research is justified.
+
+Notes
+1.
+2.
+
+‘CEC’ stands for ‘Commission of the European Communities’
+I distinguish differentiation (of tasks and profiles) from diversity (of culture): while harmonisation can
+be compatible with cultural diversity, it does not necessarily imply functional differentiation (or stratification). Moreover, like the Commission, I use the term differentiation, although I am aware that others
+argue that it is better to use the term ‘diversification’ (Huisman, 1995).
+3. Even the influence these member states retained over the Bologna process or over the collaborative
+research is now replaced by institutions such as the ERC or the EIT that are autonomous from either the
+Commission or the member states.
+
+References
+Blair, T. (2005). Speech to the European Parliament, 23 June.
+CEC (2000). Towards a European research area, COM (2000) 6 final.
+CEC (2003). The role of universities in the Europe of knowledge, COM (2003) 58 final.
+CEC (2004). Europe and basic research, COM (2004) 9 final.
+CEC (2005). Mobilising the brainpower of Europe: Enabling universities to make their full contribution to
+the Lisbon strategy, COM (2005) 152 final.
+CEC (2006a). Developing a knowledge flagship: The European Institute of Technology, COM (2006) 77
+final.
+CEC (2006b). Delivering on the modernisation agenda for universities: Education, research and innovation, COM (2006) 208 final.
+CEC (2006c). The European Institute of Technology: Further steps towards its creation, COM (2006) 276
+final.
+de Wit, K. (2003). The consequences of European integration for higher education. Higher Education
+Policy, 16, 161–178.
+EUA (2005). Glasgow declaration: Strong universities for a strong Europe. Brussels: EUA.
+Huisman, J. (1995). Differentiation, diversity and dependency in higher education: A theoretical and empirical analysis. Utrecht: Lemma.
+Ingdahl, W. (2006). Old School, TCSdaily, 9 February.
+
+--- [PDF Page 587 / Book Page 585] ---
+
+From Coherence to Differentiation 585
+Jensen, O. B. & Richardson, T. (2004). Making European space: Mobility, power and territorial identity.
+London: Routledge.
+Keeling, R. (2004). Locating ourselves in the ‘European Higher Education Area’: Investigating the Bologna
+process in practice, EPS NET.
+Keeling, R. (2006). The Bologna process and the Lisbon research agenda: The European Commission’s
+expanding role in higher education discourse. European Journal of Education, 41(2), 203–223.
+Kuhn, T. S. (1996). The structure of scientific revolutions. Chicago – London: University of Chicago Press,
+3rd edition.
+Laitner, S. (2005). Brussels hopes research money will aid innovation, Financial Times, 3rd April.
+Lambert, R. & Butler, N. (2006). The future of European universities: Renaissance or decay? London:
+Centre for European Reform.
+LERU (2005). Competitiveness, research and the concept of a European Institute of Technology – November
+2005.
+Lipsett, A. (2006). Scientists have no time to talk to public, Times Higher Education Supplement, 30 June.
+Marquand, D. (2004). Decline of the public. Cambridge: Polity.
+McNeill, D. (2004). New Europe: Imagined spaces. London: Arnold.
+Neave, G. (2002). Anything goes: Or, how the accommodation of Europe’s universities to European integration integrates an inspiring number of contradictions. Tertiary Education and Management, 8,
+181–197.
+Nóvoa, A. & Lawn, M. (Eds.) (2002). Fabricating Europe. The formation of an education space. Dordrecht –
+Boston – London: Kluwer.
+O’Neill, O. (2002). A question of trust. Cambridge: Cambridge University Press.
+Power, M. (1997). The audit society: Rituals of verification. Oxford: Oxford University Press.
+Readings, B. (1996). The university in ruins. Cambridge, MA: Harvard University Press.
+Rosanvallon, P. (1990). L’Etat en France. Paris: Seuil.
+Sanders, C. (2006). Business pans idea of Europe institute, The Times Higher, 28th April.
+Strathern, M. (Ed.) (2000). Audit cultures. Anthropological studies in accountability, ethics and the academy. London – New York: Routledge.
+Shanghai Jiao Tong University (2004). Academic ranking of world universities.
+Shore, C. (2000). Building Europe: The cultural politics of European integration. London – New York:
+Routledge.
+The European Ministers of Education (1999). The Bologna declaration of 19 June 1999.
+The European Ministers of Education (2005). The European higher education area – achieving the goals
+(‘Bergen Communiqué’) (19–20 May 2005).
+The European Ministers of Education (2007). London communiqué: Towards the European higher education area: Responding to challenges in a globalised world (18 May 2007).
+Times Higher Education Supplement (2004). World university rankings: Who is number one?, 5th November,
+1–16.
+Treib, O., Bahr, H., & Falkner, G. (2005). Modes of governance: A note to conceptual clarification. European
+governance papers (EUROGOV) No. N-05-02.
+van der Wende, M. (2001). Internationalisation policies: About new trends and contrasting paradigms.
+Higher Education Policy, 14, 249–259.
+Wallace, H. et al. (2005). Policy-making in the European Union. Oxford: Oxford University Press.
+

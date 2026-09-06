@@ -28,6 +28,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Divergent Thinking]]"
+  - "[[Scaffolding]]"
   - "[[Effect Size]]"
   - "[[Metacognition]]"
   - "[[Cognitive Offloading]]"
@@ -36,7 +37,6 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Argument Mapping]]"
   - "[[Dialogue in Education]]"
-  - "[[AI Hallucination]]"
   - "[[Creativity]]"
   - "[[Graphic Organizer]]"
   - "[[Epistemic Friction]]"
@@ -85,7 +85,7 @@ updated: 2026-09-02
 > - **边界** 聚合思维关注推理的严密性、有效性与唯一收敛性，不负责开放式构想的广泛发散生成。
 
 > [!citation-card]- 关键表述：聚合思维与[[Higher-Order Thinking Skills|高阶思维]]体系（[[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al., 2026]]; [[Argument_Li_2026_CEAI|Li et al., 2026]]）
-> [[Higher-Order Thinking Skills|高阶思维]]既包括生成新颖观念的[[Divergent Thinking|发散思维]]，也包括依据逻辑规则进行批判性分析与求证的聚合思维；两者在教学脚手架干预下表现出不同的认知敏感度与[[Effect Size|效应量]]幅度。[[Argument_Lei_Ding_Chiu_2026_ERR|(Lei et al., 2026, pp. 3–4)]]
+> [[Higher-Order Thinking Skills|高阶思维]]既包括生成新颖观念的[[Divergent Thinking|发散思维]]，也包括依据逻辑规则进行批判性分析与求证的聚合思维；两者在[[Scaffolding|教学脚手架]]干预下表现出不同的认知敏感度与[[Effect Size|效应量]]幅度。[[Argument_Lei_Ding_Chiu_2026_ERR|(Lei et al., 2026, pp. 3–4)]]
 >
 > *Higher-order thinking encompasses both divergent thinking that generates novel ideas and convergent thinking that critically analyzes and proves solutions according to logical rules...*
 >
@@ -116,7 +116,7 @@ updated: 2026-09-02
 > - **规则遵循与逻辑演绎（Rule Following & Deduction）** 严格依照形式逻辑、数学公理或领域规范展开自顶向下或自底向上的因果推演。[[Argument_Lei_Ding_Chiu_2026_ERR|(Lei et al., 2026, pp. 3–4)]]
 > - **信息筛选与证据权衡（Evidence Screening & Evaluation）** 辨析相关信息与无关干扰，评估证据真实性、论据支持力度与潜在偏见。[[Argument_Lei_Ding_Chiu_2026_ERR|(Lei et al., 2026, pp. 2–3)]]; [[Argument_Li_2026_CEAI|(Li et al., 2026, p. 6)]]
 > - **方案比较与排他性收敛（Alternative Comparison & Elimination）** 对多个候选[[Hypothesis|假设]]进行对照排查，逐步剔除矛盾选项并收敛至唯一最优解。
-> - **[[Metacognition|元认知监控]]与查错修正（Metacognitive Scrutiny & Error Detection）** 在收敛过程中持续检验推理步骤的前后自洽性，主动识别并修正逻辑断层与AI 事实[[AI Hallucination|幻觉]]。[[Argument_Li_2026_CEAI|(Li et al., 2026, p. 6)]]
+> - **[[Metacognition|元认知监控]]与查错修正（Metacognitive Scrutiny & Error Detection）** 在收敛过程中持续检验推理步骤的前后自洽性，主动识别并修正逻辑断层与AI 事实幻觉。[[Argument_Li_2026_CEAI|(Li et al., 2026, p. 6)]]
 
 > [!logic-map]- 聚合思维认知收敛机制与 AI 中介路径
 > ```mermaid
@@ -158,7 +158,7 @@ updated: 2026-09-02
 
 ### 命题二　外在认知脚手架对聚合思维的促学效应受形式逻辑约束呈现中等稳健幅度
 
-> [!concept-lens] 结构化脚手架与收敛推理边界
+> [!concept-lens] 结构化[[Scaffolding|脚手架]]与收敛推理边界
 > 空间可视化工具对聚合思维具有稳健的促进效应，但因其受严格形式逻辑规则的内在约束，其促进幅度显著低于无拘束的发散思维。
 
 > [!claim] [[Argument_Lei_Ding_Chiu_2026_ERR|Lei, Ding & Chiu (2026)]]
@@ -193,7 +193,7 @@ updated: 2026-09-02
 > - **1950s — 吉尔福特确立智力结构二元划分** J. P. Guilford 在智力结构理论中正式将聚合思维与[[Divergent Thinking|发散思维]]并列为两大核心认知操作维度。
 > - **1960s — [[Remote Associates Test|远距离联想测验]]的收敛测量** S. A. Mednick 研发远距离联想测验（RAT），开创了以“给定三词寻找唯一共同联结词”测度聚合[[Creativity|创造潜能]]的[[Paradigm|范式]]。
 > - **1980s–1990s — [[Creative Problem Solving|创造性问题解决模型]]（CPS）整合** Isaksen & Treffinger 等将聚合思维正式嵌入 CPS 各阶段的“生成—聚焦”循环中。
-> - **2020–2025 年 — [[Meta-analysis|元分析]]对思维类型干预效应的量化确立** [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] 首次在大样本元分析中量化对比了外在脚手架对聚合思维（$g = 0.680$）与发散思维（$g = 1.167$）的差异化赋能规律。
+> - **2020–2025 年 — [[Meta-analysis|元分析]]对思维类型干预效应的量化确立** [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] 首次在大样本元分析中量化对比了外在[[Scaffolding|脚手架]]对聚合思维（$g = 0.680$）与发散思维（$g = 1.167$）的差异化赋能规律。
 > - **2026 年 — 生成式 AI 与人机协同论证重构** [[Argument_Li_2026_CEAI|Li et al. (2026)]] 系统揭示了生成式 AI 作为辩难对手促进聚合批判思维（$n=27$）与诱发[[Cognitive Offloading|认知卸载]]（$n=21$）的机制分水岭。
 
 ---
@@ -208,7 +208,7 @@ updated: 2026-09-02
 > > - **传统发散中心论** 认为聚合思维过早引入逻辑批判与标准答案束缚，容易扼杀非常规新颖构想的萌芽。
 > > - **现代认知整合论（[[Argument_Runco_2026_CRJ|Runco et al., 2026]]）** 强调没有聚合思维的严格审视、筛选与优化，新颖构想无法转化为具备实用性与适切性的真实创新成果。
 >
-> > [!axis] AI 时代的聚合推理：认知赋能（Cognitive Scaffolding） vs 心智外包（[[Cognitive Offloading]]）
+> > [!axis] AI 时代的聚合推理：认知赋能（[[Scaffolding|Cognitive Scaffolding]]） vs 心智外包（[[Cognitive Offloading]]）
 > > 争论大模型辅助逻辑分析是否削弱了人类学生的独立推导能力。
 > >
 > > - **赋能派（Sykes, 2024; [[Argument_Li_2026_CEAI|Li et al., 2026]]）** 指出将 AI 作为辩难对手能大幅提升论证严密性与反思深度。
@@ -258,6 +258,6 @@ updated: 2026-09-02
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] — 运用随机效应[[Meta-analysis|元分析]]系统检验[[Graphic Organizer|图形组织器]]对聚合思维的促进效应（$g = 0.680$），并通过亚组检验揭示了[[Divergent Thinking|发散思维]]与聚合思维在空间脚手架干预下的敏感度差异。
+> - [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] — 运用随机效应[[Meta-analysis|元分析]]系统检验[[Graphic Organizer|图形组织器]]对聚合思维的促进效应（$g = 0.680$），并通过亚组检验揭示了[[Divergent Thinking|发散思维]]与聚合思维在空间[[Scaffolding|脚手架]]干预下的敏感度差异。
 > - [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] — 在[[Meta-meta-analysis|二阶元分析]]中探讨[[Creativity|创造性]]认知过程的多维构件，指出完整的创造力依赖于构想发散与逻辑收敛的有机结合。
 > - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — [[Systematic Review|系统综述]] 67 项高等教育实证研究，解构生成式 AI 对聚合性批判思维的赋能机制（[[Metacognition|元认知监控]] $n=27$、论证深化 $n=22$）与[[Cognitive Offloading|认知卸载]]风险（$n=21$）。

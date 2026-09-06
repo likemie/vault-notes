@@ -18006,8 +18006,57 @@ table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nt
 
 /* 理论工具箱：首列专名与作者略小，减少长名称换行。 */
 .callout[data-callout="framework-table"] td:first-child {
-  font-size: 0.9em;
+  font-size: 0.98em;
 }
 .callout[data-callout="framework-table"] td:first-child strong {
   font-size: inherit;
+}
+
+/* Dimension：保留错落层次，压缩纵向节奏，适合 5 项以上的长列表。 */
+.callout[data-callout="dimension"] {
+  padding-bottom: 0.5rem;
+}
+.callout[data-callout="dimension"] > .callout-title {
+  padding-block: 0.68rem 0.48rem;
+}
+.callout[data-callout="dimension"] > .callout-content {
+  padding: 0.08rem 0.85rem 0.1rem;
+}
+.callout[data-callout="dimension"] > .callout-content > ul {
+  padding-block: 0.16rem 0;
+}
+.callout[data-callout="dimension"] > .callout-content > ul > li {
+  margin-top: 0.38rem;
+  padding: 0.44rem 0.76rem 0.5rem 2.48rem;
+  line-height: 1.55;
+}
+.callout[data-callout="dimension"] > .callout-content > ul > li:first-child {
+  margin-top: 0.1rem;
+}
+.callout[data-callout="dimension"] > .callout-content > ul > li:nth-child(odd) {
+  margin-right: 0.75rem;
+}
+.callout[data-callout="dimension"] > .callout-content > ul > li:nth-child(even) {
+  margin-left: 0.75rem;
+}
+.callout[data-callout="dimension"] > .callout-content > ul > li::before {
+  top: 0.39rem;
+  left: 0.58rem;
+  width: 1.4rem;
+  height: 1.4rem;
+  line-height: 1.4rem;
+}
+.callout[data-callout="dimension"] > .callout-content > ul > li > p:first-of-type > strong:first-of-type,
+.callout[data-callout="dimension"] > .callout-content > ul > li > strong:first-of-type {
+  margin-bottom: 0.12rem;
+  padding-bottom: 0.12rem;
+}
+.callout[data-callout="dimension"] > .callout-content > ul > li > p,
+.callout[data-callout="dimension"] > .callout-content > ul > li > .el-p > p {
+  margin-block: 0 !important;
+  line-height: 1.52;
+}
+.callout[data-callout="dimension"] > .callout-content > ul > li > p + p,
+.callout[data-callout="dimension"] > .callout-content > ul > li > .el-p + .el-p {
+  margin-top: 0.22rem !important;
 }

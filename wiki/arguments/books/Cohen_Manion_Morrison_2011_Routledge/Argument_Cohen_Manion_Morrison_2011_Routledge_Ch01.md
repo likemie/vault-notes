@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01"
 argument_display_title: "Research Methods in Education · Ch01"
 argument_kind: "book-chapter"
-argument_related_count: 89
+argument_related_count: 88
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -59,7 +59,6 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Operationalization]]"
   - "[[Scientism]]"
-  - "[[AI Hallucination]]"
   - "[[Interpretive Paradigm]]"
   - "[[Self-Efficacy]]"
   - "[[Epoché]]"
@@ -157,7 +156,7 @@ updated: '2026-08-27'
 
 ### 步骤 1：建立本体论→认识论→方法论的层级框架
 
-Hitchcock and Hughes (1995, p. 21)的框架提出了一个严格的层级推导关系(p.105)，将研究从纯技术操作提升为受世界观、理解目的和价值判断驱动的活动：
+Hitchcock & Hughes (1995, p. 21)的框架提出了一个严格的层级推导关系(p.105)，将研究从纯技术操作提升为受世界观、理解目的和价值判断驱动的活动：
 
 > [!timeline] 研究的层级结构：从哲学到操作
 > - **[[Axiology|价值论]](axiology)** 研究者持有的价值与信念——什么被视为有价值的，理解的目的是什么
@@ -349,7 +348,7 @@ Mouly (1978)将经验科学进程分为五步(p.271)：
 >   D --> E["逐步逼近真理<br>Approximation to Truth"]
 > ```
 
-Hitchcock and Hughes (1995, p. 23)进一步提出八阶段科学方法模型(Box 1.4)：
+Hitchcock & Hughes (1995, p. 23)进一步提出八阶段科学方法模型(Box 1.4)：
 
 > [!logic-map] 步骤4论证链B：Hitchcock & Hughes 科学方法八阶段
 > ```mermaid
@@ -406,7 +405,7 @@ Popper (1968)、Lakatos (1970)、Mouly (1978)、Laudan (1990)和 Rasmussen (1990
 **(一)存在主义与反[[Scientism|科学主义]]批评**
 
 > [!voice] 克尔凯郭尔([[Søren Kierkegaard]])
-> 这位丹麦哲学家、存在主义起源者之一，关注个体实现自身最高发展水平的需要。他认为客观性是最大的[[AI Hallucination|幻觉]]——它意味着将行为和思想的规则强加于人，将人变为一个旨在发现普遍法则的旁观者。他主张恢复和保持"主观性的能力"(capacity for subjectivity)，即考虑自己与研究对象之间关系的能力。对于克尔凯郭尔，"主观性和真理的具体性一起构成了光。任何献身于科学或规则支配的道德的人，都处于黑暗之中，需要被从中拯救出来"(Warnock, 1970)(pp.423–428)。
+> 这位丹麦哲学家、存在主义起源者之一，关注个体实现自身最高发展水平的需要。他认为客观性是最大的幻觉——它意味着将行为和思想的规则强加于人，将人变为一个旨在发现普遍法则的旁观者。他主张恢复和保持"主观性的能力"(capacity for subjectivity)，即考虑自己与研究对象之间关系的能力。对于克尔凯郭尔，"主观性和真理的具体性一起构成了光。任何献身于科学或规则支配的道德的人，都处于黑暗之中，需要被从中拯救出来"(Warnock, 1970)(pp.423–428)。
 
 > [!voice] 其他批评者
 > - **罗斯扎克(Roszak, 1970, 1972)** 科学的客观性追求是对真实自我和自然的疏离

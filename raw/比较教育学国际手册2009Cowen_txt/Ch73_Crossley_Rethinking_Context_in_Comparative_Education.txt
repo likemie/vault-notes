@@ -1,0 +1,692 @@
+================================================================================
+Chapter 73: Rethinking Context in Comparative Education
+Author(s): Michael Crossley
+Handbook: International Handbook of Comparative Education (2009)
+Editors: Robert Cowen and Andreas M. Kazamias (Section Editor: Elaine Unterhalter)
+Section: Section 8: The Cutting Edge - Questioning the Future
+Book Pages: pp. 1173–1187
+PDF Pages: pp. 1146–1160 (in raw/比较教育学国际手册2009Cowen.pdf)
+================================================================================
+
+--- [PDF Page 1146 / Book Page 1173] ---
+
+73
+RETHINKING CONTEXT IN COMPARATIVE
+EDUCATION
+Michael Crossley
+
+Concern with context penetrates to the heart of comparative education. It is reflected in
+much of the early writing within the field, and it remains central to many contemporary
+intellectual positionings, discourses and developments. Contextual issues are also central
+to many of the most passionate theoretical and methodological debates that are to be found
+in the research literature – past and present. Thus questions of context reveal much about
+the history of comparative education, at the same time as they inspire and shape some of
+the most challenging research and scholarship at the cutting edge of the field today.
+This chapter explores the nature and implications of such debates, and of the contextual themes that play a strategic role in shaping the future of some of the most
+innovative approaches to comparative and international education worldwide. This is
+done with reference to developments that have made a significant contribution to the
+evolution of research in comparative education, and to my own related work within this
+multi-disciplinary field.
+
+Historical Reflections and Paradigmatic Tensions
+Tensions between positivistic forms of comparative research in education seeking
+generalisable laws and predictions, and more hermeneutic/interpretive perspectives
+developed to generate insights and improved understanding, can be traced back to
+the intellectual foundations of comparative education as a specialist field of enquiry.
+While details of this history can be readily found elsewhere (Brickman, 1960, 1966;
+Wilson, 1994; Crossley & Watson, 2003), the implications of related paradigmatic
+debates for contemporary innovation and creativity in both theory and methodology
+repay careful reconsideration.
+The seminal influence of Marc-Antoine Jullien’s “plan” for comparative education
+in the Parisien intellectual climate of 1817, for example, established the positivistic foundations of the field with efforts “to deduce true principles and determined
+routes so that education would be transformed into an almost positivist science”
+(cited in Fraser, 1964, p. 20). For many Western writers Jullien is seen as the founding “father” of systematic research in what was, then, a new field. Jullien’s influence
+is alive and well today where it is reflected in the efforts of international agencies,
+such as UNESCO and the Organisation for Economic Cooperation and Development
+1173
+R. Cowen and A. M. Kazamias (eds.), International Handbook of Comparative Education, 1173–1187.
+© Springer Science + Business Media B.V. 2009
+
+--- [PDF Page 1147 / Book Page 1174] ---
+
+1174
+
+Crossley
+
+(OECD), to produce annual collections of international education statistics to facilitate
+global comparisons. It is also visible in the work of bodies such as the International
+Association for the Evaluation of Educational Achievement (IEA) that has pioneered
+cross-national achievement tests and the construction of international league tables
+(Postlethwaite, 1999) – and in the OECDs own influential Programme for International
+Student Assessment (PISA) surveys (OECD, 2004).
+While there is much that can be learned from the current enthusiasm for cross-cultural
+achievement studies, attention also needs to be given to their limitations and to the dangers of their misuse – be it unintended or not. Finland, for example, has consistently done
+well in cross-national league tables, while South Africa has experienced disappointing
+results. The visibility of such rankings can inform and inspire qualitative improvements,
+but it can also prove to be damaging and unhelpful, as argued by Reddy (2005) in the
+South African context – and, perhaps more surprisingly, as Simola (2005) points out for
+Finland. What unites these two very different cases is attention to the limitations of largescale comparative surveys in taking adequate account of the influence of contextual and
+cultural differences. Reddy (2005,p. 76) for example, argues that the potential benefits of
+cross-national achievement studies will only be realised in South Africa if:
+participating countries contribute more towards the shaping of such studies to
+meet their own needs. The power relations inherent in cross-national research
+also deserve greater recognition, and mechanisms need to be set in place to
+help diminish these differentials. Information derived from multi-country studies
+needs more careful analyses if it is to be relevant to specific local contexts … and
+it is also important for the culture of the international organisations that promote
+and coordinate such work to change so that they can better accommodate the
+implications of different experiences and contexts.
+Secondly, as Simola (2005) demonstrates, distinctive pedagogic assumptions and values
+are embedded deep within cross-national achievement tests, and, somewhat ironically,
+these often prioritise formalistic forms of teaching and learning that many educational
+decision-makers and stakeholders claim to be challenging for being inappropriate for the
+demands of the twenty-first century. Issues of context thus loom large if we are to better
+understand the dilemmas that are associated with cross-national achievement testing, the
+use of league tables and the dangers of their “backwash” effect (see also Dore, 1976 and
+Little, 1997) upon pedagogic and professional cultures in education worldwide.
+Returning to the historical and epistemological foundations of such debates, it can
+be seen how concern for context also underpins one of the central questions faced by
+comparativists in many fields and disciplines – that is, how can we best learn from
+experience elsewhere? It was such questions that inspired challenges to Jullien’s
+positivistic foundations for the field, and to nineteenth-century preoccupations with
+the international transfer or “borrowing” of educational policy and practice (Phillips
+& Ochs, 2004; Phillips & Schweisfurth, 2006). Michael Sadler’s widely acknowledged influence upon the emerging field of comparative education at the outset of the
+twentieth century clearly reflected a challenge to such positivistic assumptions, and
+represented a socio-political re-positioning that both recognised the dangers of the
+
+--- [PDF Page 1148 / Book Page 1175] ---
+
+Rethinking Context In Comparative Education 1175
+
+uncritical international transfer of policies and practices, and highlighted the significance of context and culture in the development of education systems (Sadler, 1900;
+Higginson, 1979; Sislian, 2003). In subsequent years leading comparativists such as
+Isaac Kandel (1933), Nicholas Hans (1964), Vernon Mallison (1975) and Edmund
+King (1979a) developed and applied their own distinctive approaches to comparative
+research, consistent with the spirit of Sadler’s influence and the interpretive-hermeneutic paradigm. By the 1960s, however, a resurgence of “scientific” approaches to
+research in the social sciences was evident in the Western literature. This favoured
+quantifiable data that offered the prospect of law-like generalisations and the possibility of more robust educational planning and social engineering. Positivistic aspirations
+were thus refashioned in the form of post-war contributions seeking to advance the
+“science” of comparative education. Noah and Eckstein (1969) are well known for
+pursuing such work in the United States, while in the United Kingdom, Holmes (1965,
+1981) sought to advance the scientific model by promoting what he called the “problem approach” to social science and comparative education.
+Interpretive and hermeneutic traditions, nevertheless, remained influential with many
+comparativists, championed by writers such as Grant (1977), King (1989) and Kazamias
+(2001). By the 1970s renewed rigour and enthusiasm were also stimulated by advances in
+the “new sociology of education”, critical theory and qualitative approaches to research
+in the social sciences. Stenhouse’s (1979) Presidential Address for the then UK Branch of
+the Comparative Education Society in Europe (CESE) characteristically advocated greater
+attention to case study informed by detailed qualitative fieldwork (see also Crossley &
+Vulliamy, 1984/2006). At the time, this was seen to challenge current practice and preoccupations with policy, by opening up new units for analysis at the micro level, and
+focusing the attention of researchers more firmly upon observed practice and the lived
+experience of research subjects. For many observers this was seen to exemplify:
+the change which has taken place since the 1960s in all aspects of social study
+(including the study of education). “Phenomenological” or “locally significant”
+dimensions of the educational scene are now given more attention in terms which
+the prime participants would use. (King, 1979b, p. 1)
+My own work contributed to such developments by arguing for greater attention to be
+paid to local professional contexts in developing countries, as a way of challenging the
+uncritical international transfer of curriculum reform strategies (Crossley, 1984). New
+“voices” were thus increasingly being heard and, in combination with the influence of
+critical theory, the politics of different discourses was increasingly recognised at all
+levels of the research process. Masemann’s work on critical ethnography (1982) illustrates this well, and her CIES Presidential Address on “Ways of Knowing” (Masemann,
+1990) drew direct attention to the significance of contextual issues in epistemological
+debates concerned with the nature, characteristics and quality of comparative education. More could be said, but while it is not the intention to rehearse the details of
+this history here, it is useful to observe how what came to be called the “paradigm
+wars” inspired further methodological advances that both reflected and contributed
+to major theoretical developments across the social sciences. A related overview of
+
+--- [PDF Page 1149 / Book Page 1176] ---
+
+1176
+
+Crossley
+
+such historical trends and their influence on comparative education is also provided
+elsewhere (see Crossley et al., 2007). More pertinently for the present analysis, these
+are all developments that in large part wrestled (and still do) with the place of context
+in both theoretically and empirically orientated research and scholarship. It is to the
+nature and significance of more recent intellectual developments, to the centrality of
+context in such processes, and to their implications for the future of comparative and
+international research in education that we now turn.
+
+Reflections and Reworkings: Rethinking the Place
+of Context in Comparative Research in Education
+While tensions between positivistic and interpretive forms of comparative education
+continue to influence the research landscape to the present day, the impact of critical theory, postmodern perspectives and other related epistemological and theoretical
+positionings has been profound. Recent decades have experienced dramatic paradigmatic challenges and innovative “re-imaginings” for comparative education, as growth
+in the research profile of the field has been spurred on by the intensification and impact
+of globalisation worldwide (Crossley & Watson, 2003; Dale & Robertson, 2005).
+This history may seem to be familiar territory for some readers, but by taking a
+different view of events, the main thrust of this chapter is to argue that it is contextual
+factors and increased awareness of their significance in both educational research and
+educational change, that underpin many of the most significant developments of current times. This, in turn, points to the very real potential of comparative research in
+education to contribute to increased understanding of such issues, by drawing upon the
+field’s wealth of directly relevant experience. This can now be illustrated by revisiting
+and reflecting upon selected paradigmatic shifts, and future possibilities, in greater
+detail from this explicitly contextual perspective.
+Perhaps, most obviously, it can be seen how qualitative researchers such as Stenhouse
+and Masemann played a significant role in shifting the focus of comparativist’s attention away from a concentration upon both the nation-state context and the analysis of
+policy at the macro level. Contributions to Crossley and Vulliamy’s (1997) volume
+illustrate this well with reference to studies of education and international development that employ ethnographic, case study and other research strategies that access
+the micro-level contexts of schools and communities throughout the South. While
+such studies, and influential European research by Broodfoot, Osborn and colleagues
+(1993, 2000, 2003), often combined local level context sensitivity with broader social
+and political analyses, Bray and Thomas (1995) made a further contribution by highlighting the importance of multi-level analysis through the construction of a helpful
+three dimensional theoretical model. In this model:
+The authors observed that much research remained at a single level, thereby
+neglecting recognition of the ways in which patterns at the lower levels in education
+systems are shaped by patterns at higher levels and vice versa. (Bray, Adamson,
+& Mason, 2007, p. 8)
+
+--- [PDF Page 1150 / Book Page 1177] ---
+
+Rethinking Context In Comparative Education 1177
+
+Again, however, Bray and Thomas were advocating the juxtaposition and comparison
+of different levels of context.
+In a related series of developments, efforts to better understand local perspectives
+and the voices and needs of practitioners helped to inspire the application of action
+research and practitioner researcher strategies in comparative investigations – so reducing the extent of the gap between the researcher and the researched. Stuart, Morojele
+and Lefoka’s (1997) study of classroom practice in Lesotho demonstrates the potential
+of such forms of action research, and Choksi and Dyer’s (1997) reflections on their
+collaborative research in India draw attention to the benefits to be gained from contextsensitivity generated through North–South collaboration. Influenced by writers such as
+Freire (1971, 1982), Chambers (1994) and Kemmis (1997) the potential contribution
+of participatory and practitioner approaches to comparative and international research
+has become increasingly recognised by the academy as well as by governments,
+development agencies and funding bodies. This has further stimulated the generation
+of a variety of innovative models that include Participatory Rural Appraisal (PRA)
+(Chambers, 1994; 1995) and participatory action research (Selner, 1997). Paticipatory
+approaches to research have thus become increasingly acknowledged for what they
+can contribute to educational development and community empowerment in context.
+Similarly, much of the rationale for the application of postcolonial perspectives
+(Hickling-Hudson, 1998; Hickling-Hudson, Mathews & Woods, 2003) draws upon:
+an interpretive approach blending history and epistemology in specified locations [that] is useful in showing how interwoven is the postcolonial present with
+the colonial past. (Hickling-Hudson, 1998, p. 328)
+Here concern is given to understanding the world from the perspective of the South,
+the formerly colonised, the marginalised, from their own distinctive vantage points
+– and informed by their own political and contextual sensitivities. Not surprisingly,
+critical theory often informs such comparative research (Burns & Welch, 1992; Apple,
+1993; Rizvi, 2004), inspired by a commitment to ensure that research plays a part in
+challenging unequal power relations and in influencing the nature and direction of
+change (Foucault, 1972; Habermas, 1978; Apple, 2001). A special issue of the journal
+Comparative Education (Crossley & Tikly, 2004) explores such postcolonial possibilities for comparative and international research in education, reflecting upon this in the
+light of a related critique of postmodern influences upon educational research.
+Where both postcolonialism and postmodernism have much in common is in
+their critique of globally orientated meta-theory and the assumptions of enlightenment science, along with their celebration of diversity, difference and context. To cite
+Gadamer “all knowledge reflects the socio-historical contexts of its production” (cited
+in Hammersley, 1995, p. 14). By drawing attention to the political and intellectual contexts of knowledge production and legitimation, researchers thus began to focus upon
+the deconstruction of dominant world views and to explore the relationship between
+politics, knowledge and power. According to Cowen (1996a, b) such advances came
+late to the field of comparative education though there is now much work within the
+contemporary literature to suggest that these influences are increasingly significant – if
+
+--- [PDF Page 1151 / Book Page 1178] ---
+
+1178
+
+Crossley
+
+somewhat indirect and marginalised from policy-making arenas. This need not be so,
+however, as demonstrated by the edited collection by Ninnes and Mehta (2004) titled
+Re-Imagining Comparative Education: Post foundational Ideas and Applications for
+Critical Times; and work in progress, by Larsen and Mehta (forthcoming), exploring
+the impact on education of the insecurities that have been generated in North America
+by the events of September 2001. For present purposes, however, it is the contextual
+sensitivities that engage with the philosophical foundations of post-modernist, postcolonial and post-structuralist thinking that are seen to have much to offer comparativists,
+and it is selected research initiatives that capture elements of such potential that are the
+focus of the next sections.
+
+Changing Research Contexts, Emergent Trends
+and New Possibilities
+Despite the many and varied paradigmatic advances of recent decades the global
+research context is currently one in which positivistic conceptions of the social sciences
+are once again prioritised in many quarters. In the UK and United States, for example,
+neo-liberal ideologies, combined with the interests of the state and managerialist
+principles have had a powerful impact upon the nature and focus of research environments and processes (St.Clair & Belzer, 2007). Sustained critiques of social and
+educational research have argued that too much work lacks a coherent body of theory,
+is neither authoritative nor cumulative enough, and is often unhelpful for policy and
+practice (Hargreaves, 1996; Kennedy, 1997; Hillage, 1998; Tooley & Darby, 1998). In
+responding to this, policy-makers, research funders and other powerful stakeholders
+have engaged with what Furlong (2004) refers to as the “big science” approach to
+research-based evidence. This many see as silencing other approaches, most notably those qualitative strategies that have contributed most to the study of practice
+in context. Vulliamy (2004) challenges the global impact of such trends with direct
+reference to their implications for comparative education in his 2003 Presidential Address
+for the British Association for International and Comparative Education (BAICE). In
+doing so he points out how comparative researchers must now contend with:
+growing international interest in systematic review methodology and its associated privileging of quantitative research strategies, such as randomised controlled
+trials, in evidence-based policy. (Vulliamy, 2004, p. 261)
+This is the intellectual and professional context in which many in the educational
+research community – including comparativists – must now work. It is in the light
+of this that possible ways forward are now considered, arguing along with Furlong
+(2004,p. 343), that:
+we need to defend a rich and diverse range of approaches to research, promoting
+debate about quality within different sub-communities and encouraging open
+discussion across epistemological and methodological boundaries.
+
+--- [PDF Page 1152 / Book Page 1179] ---
+
+Rethinking Context In Comparative Education 1179
+
+Indeed, it is also argued that this is even more important in the arenas of cross-cultural,
+international and comparative research – where differences in world views add significantly to the complexities, and ethical, political and contextual implications (Hayhoe
+& Pan, 2001). In exploring possible ways forward the chapter now draws upon examples of innovative comparative research, along with aspects of my own work, that it
+is suggested hold potential for future trajectories in context-sensitive comparative and
+international research in education.
+In looking to the future, reference is initially made to two related arguments that
+help to draw a number of contextual themes together. Firstly, this revisits my own
+concerns to “reconceptualise” comparative and international research in education
+in ways that more effectively acknowledge the potential and limitations of different
+approaches to, and modes of, comparative education (Crossley, 1999). Secondly, this
+argument is developed along with efforts to encourage an increased “bridging of cultures and traditions” (Crossley, 2000; Crossley & Watson, 2003) within the field and
+between, for example, paradigmatic and disciplinary positions, theoretical and applied
+studies, policy and practice, micro, macro and other levels of analysis, the humanities
+and the social sciences, studies of the past and the present and research in the North
+and the South. It is argued that such efforts could do much to help to address many of
+the challenges raised about the impact, authority and accessibility of educational and
+social research that are noted above – and that this is possible even in contexts experiencing the difficulties and dilemmas generated by problematic changes in the broader
+research environment.
+Moreover, while this bridging process may encourage a blurring of boundaries
+between constituencies, paradigms and personnel, this should not be seen as equating in any way to an intellectual or professional compromise or bland search for
+consensus. Rather, as argued elsewhere (Crossley & Watson, 2003), it prioritises
+and values the ongoing creativity and originality that the juxtaposition of different world views may generate – and, most pertinently here, improved awareness of
+the implications of cultural and contextual differences. This “bridging” thesis therefore celebrates and values difference – and the potential of different comparative
+educations – and applies comparative perspectives and processes to generate new
+creativity. Bakhtin’s understanding of such processes is helpful in this respect when
+he suggests that:
+A meaning only reveals its depths once it has encountered and come into contact
+with another, foreign meaning. … We raise new questions for a foreign culture,
+ones that it did not raise itself; we see answers to our questions in it; and the
+foreign culture responds to us by revealing to us its new aspects and new semantic depths … such a dialogic encounter of two cultures does not result in merging
+or mixing. Each retains its own unity and open totality, but they are mutually
+enriched. (Bakhtin, 1986, p. 7)
+In the light of this conceptual and theoretical positioning, much can be gained from
+examples of ways in which recent comparative studies have been developed around
+international collaborations between Northern and Southern research teams, while
+
+--- [PDF Page 1153 / Book Page 1180] ---
+
+1180
+
+Crossley
+
+linking theoretical scholarship with studies designed to inform policy and practice in
+context. Three such research projects stemming from my own work over the last decade were carried out in collaboration with colleagues at the Universities of Bristol and
+Bath, and personnel working within universities, colleges and ministries of education
+in Belize, Kenya, Rwanda and Tanzania.
+The first study (1994–1999) was designed to document the nature and quality of
+teaching and learning in Belizean primary schools – and to help evaluate the impact,
+in practice, of the DFID funded Belize Primary Education Development Project
+(BPEDP) (Crossley & Bennett, 1997). The second two-phase study consisted of the
+formative and summative evaluation of the implementation of the Primary School
+Management Project (PRISM), designed to train head teachers in leadership skills
+in Kenya (1996–2000). This was combined with a reflective and historically situated
+analysis (2001–2005) of the theoretical foundations of the project and its associated
+research and evaluation strategies (Crossley et al., 2005). The third study (2000–2002)
+examined the implications of globalisation for education and training policies in
+Rwanda and Tanzania (Tikly et al., 2003).
+For present purposes these initiatives can be seen to build cumulatively upon
+each other. While each had a different substantive focus, all were funded by the UK
+Department for International Development (DFID) and all prioritised improved stakeholder partnerships and process goals designed to contribute to the strengthening of
+research and evaluation capacity within the South. From the outset, this was seen to
+include ways of improving the context-sensitivity, and cross-cultural research skills
+and experience of all involved – including the Northern partners.
+The substantive findings of each specific study can be read elsewhere, but it can be
+seen how they collectively demonstrate different dimensions of the bridging thesis in
+practice. It is therefore the process goals and associated research strategies that are
+most illuminating for present purposes. In all three cases the research was carried out
+by international teams of researchers – emphasising long-term collaboration between
+organisations and personnel in both the North and the South. This had the advantage
+of combining insiders familiar with the cultural contexts involved, with outsiders who
+can bring fresh and challenging perspectives – a strategy much commended in the
+international literature (Spindler & Spindler, 1982). In the Belizean and Kenyan studies emphasis was also placed on involving practitioners in forms of participatory or
+action research and evaluation. This is consistent with Delanty’s (1997) proposal for
+social research to be conceptualised as ‘discursive practice’, whereby problems are
+democratically identified, defined and examined. In a related vein, Chambers, an advocate of participatory research in development work, calls for the researcher’s role to be
+transformed in similar ways so that:
+[f]rom planning, issuing orders, transferring technology and supervising, they shift
+to convening, facilitating, searching for what people need and supporting. From
+being teachers they become facilitators of learning. (Chambers, 1994, p. 34)
+In these three studies bridges were thus built between the North and the South, between
+researchers, policy-makers and practitioners, and between insiders and outsiders. In
+
+--- [PDF Page 1154 / Book Page 1181] ---
+
+Rethinking Context In Comparative Education 1181
+
+addition, all three studies were multidisciplinary in nature, provided research training that
+bridged paradigmatic boundaries, incorporated macro and micro levels of analysis and
+located contemporary policy critique within a thoroughly researched historical framework. Finally, each of these studies usefully illustrates the possibilities and dilemmas that
+are encountered when efforts are made to investigate development issues with increased
+sensitivity to what Arnove and Torres (2003) call the “dialectic of the global and the local”.
+In this respect we can see how these initiatives, designed partly to help strengthen local
+research and evaluation capacity, are firmly grounded in perspectives that are at the heart
+of disciplined and context sensitive comparative and international research.
+Today the influence and potential of such collaborative approaches to research
+are being explored further in the form of a new DFID funded Research Programme
+Consortium (RPC) led by Leon Tikly, Angeline Barrett and colleagues (www.edqual.
+org/.). This focuses upon studies designed to help improve the quality of education in
+low income countries, and the mode of operation continues to foreground long-term,
+international partnerships and research capacity strengthening (Crossley, 2006).
+A second area where an increased focus upon context holds considerable potential
+for future comparative research relates to the work of a parallel DIFD-funded RPC
+focused upon access to education (www.create-rpc.org), and to the earlier discussion of cross-national achievement studies and associated league tables. In a recent
+BAICE Presidential Address, Lewin (forthcoming) draws upon the initial work of the
+Sussex-led RPC on “Access to Education for All” and demonstrates how improved
+understanding of such issues can be gained from innovative uses of statistical data sets
+in ways that draw attention to, rather than mask, local variations and contextual differences. To quote Lewin’s (forthcoming) concluding remarks:
+[A]s the EFA processes have unfolded, at least in the poorest countries and those
+most dependent on external assistance, convergence in diagnosis and prescription has overshadowed more and more divergence in context and patterns of
+exclusion. If this persists it is at least arguable that progress will be hampered by
+homogenised goals and targets applied without much contextual grounding or
+dynamic relationship to changing circumstances.
+Indeed, by paying close attention to context, this statistically oriented research helps to
+indicate how quantitative and qualitative research can make complementary contributions that have important potential for policy critique and development, and for the
+advancement of theory – in this case relating to school access and retention, and to the
+pursuit of the Millennium Development Goals.
+Similarly, the critique of cross-national achievement tests, the use of league tables
+(of all types and in all sectors of society), and target setting, deserves increased attention
+from the comparative social sciences – ideally incorporating mixed method (Osborn,
+2004) collaborations between quantitative researchers and qualitative personnel
+attuned to contextual implications. Goldstein (2004, p. 13), for example, draws upon a
+distinguished career in statistical methods but engages with comparative critique and
+context sensitivities in a most challenging way when he argues that organisations such
+as UNESCO should challenge their:
+
+--- [PDF Page 1155 / Book Page 1182] ---
+
+1182
+
+Crossley
+
+current orientation … which appears to derive from official philosophies of target setting and centrally determined “benchmarks” which have prevailed within
+certain parts of the Anglophone world since at least the mid 1980s. Nevertheless,
+from the perspective of those countries identified as likely to fail to meet current
+targets, a locally contextualised perspective would seem to offer more potential for
+improvement. It is, after all, just those countries that are in most need of help.
+In reflecting upon the significance and impact of the IEA studies, Goldstein (1996,
+p. 126) holds similar sentiments, calling for more careful and insightful studies of test
+procedures, conclusions and implications and noting that:
+when educational systems have different aims and curricula, interpretations of
+student performance need to be related to such different contexts.
+A third and final group of examples of innovative context-sensitive research can be
+drawn from recent advances in the application of narrative research to comparative
+studies. Trahar’s (2006) edited volume is one of the first books to explicitly address
+such combinations, and the individual chapters make a valuable contribution to the
+methodological debate, at the same time as they point to future possibilities. As Hayhoe
+(2006, p. 9) argues in her Foreword to this volume … through narrative research:
+people in different contexts share their thoughts and experiences about educational changes brought about through globalisation, and contribute to the
+reconceptualisation of comparative research and notions of internationalisation
+in ways that reflect their distinctive geopolitical locations.
+Narrative approaches can thus build most effectively upon other qualitative traditions
+that have already played a part in advancing interpretive and hermeutic research, but
+it can also help to bridge such work with theoretical perspectives such as postcolonialism (Fox, 2006), and arts-based investigations in which story, poetry and other
+forms of representation are used to understand context (see Holmes & Crossley, 2004).
+Bainton (2007), for example, has recently completed doctoral research that developed
+a “critical narrative” approach to explore the impact of Western education on indigenous knowledge in the Indian Himalayan region of Ladakh. In this highly innovative
+study the researcher prioritised post-structural and narrative approaches, combined
+with Buddhist philosophy, in order to interrogate the livelihood practices and educational experiences of rural communities in Ladakh. Here, his own experience living
+and interacting with local farmers, sculptors, poets, priests and families, was the wellspring for policy critique and theoretical insights where:
+[t]he productive tensions between the different aspects of the critical narrative
+approach allows for a tentative comparative analysis of possible counter hegemonic
+knowledge production. In this regard, Buddhist philosophy, as a form of “indigenous theory” is seen to offer new forms of critique while at the same time giving
+a hopeful reading of the possibility of human agency. (Bainton, 2007, p. i)
+
+--- [PDF Page 1156 / Book Page 1183] ---
+
+Rethinking Context In Comparative Education 1183
+
+In such research, the analysis of uncritical international transfer is central, and context
+is both the focus and the methodology – context is the heart of the study itself.
+
+Conclusions
+Rethinking the place of context in comparative education, it is suggested, has much
+to offer all engaged in both educational research and educational development.
+Indeed, as Schriewer (2006a) has shown a “culturalist” approach can be identified
+within comparative studies across the social sciences and has long “been geared
+towards examining phenomena not in disjointed isolation but in terms of their
+historical affiliation to, and dependence on, more encompassing societal and cultural contextual conditions” (Schriewer, 2006b, p. 1). Implications of the present
+analysis, in turn, hold potential for future research trajectories in many fields and
+disciplines across the social sciences. The year 2002, for example, saw the American
+Sociological Association launch a new journal simply titled Contexts, designed to
+take “sociological research out of its ivory tower and into a real world perspective”
+(ASA, Contexts Brochure). In the realm of psychology, innovative and challenging advances by Rogoff (1990), Wertsch (1995) and Elliott and Grigorenko (2007)
+reflect many comparative principles, by demonstrating how sociocultural theory
+understands individual, personal growth as shaped by the cultural and social contexts in which it occurs. Similarly, in exploring future directions for global economic
+development, the BBC Reith Lectures delivered by Jeffrey Sachs in 2007, also locate
+increased contextual sensitivity at the heart of future international policy deliberations designed to reduce poverty, tackle climate change and prevent war (Sachs,
+2007). Returning to the field of comparative education, Stromquist prioritises similar concerns for international equality and equity with implications for improved
+linkages between stakeholders and constituencies. She argues that the influence of
+comparative and international education:
+is determined not only by its intellectual value but also by the proximity of its
+practitioners to the circles of power. Those wielding influence are not academics
+but rather the staff members of international organisations and their transnational
+counterparts who subscribe to dominant, market-oriented development models
+that are not substantiated by empirical research. (Stromquist, 2005, p. 107)
+The future for comparative and international research across the social sciences will
+therefore be exciting, challenging and increasingly engaged with the nature, role and
+impact of context.
+In this chapter new ways of exploring the significance and implications of context have
+been explored, in the light of its long acknowledged place in research and scholarship
+in this multi-disciplinary field. It is argued that further revisiting and rethinking of
+such implications could make a significant contribution to the future of comparative
+and international research in education. Vulliamy (2004), nevertheless, returns to the
+paradigmatic issues discussed at the outset of this chapter and warns that:
+
+--- [PDF Page 1157 / Book Page 1184] ---
+
+1184
+
+Crossley
+
+A concern for sensitivity to cultural context has been a key part of the field of
+comparative education in England – all the way from its pioneers … to current
+exponents … Such a concern for cultural context also pervades sociological traditions underpinning the development of qualitative research … The challenge
+for future comparative and international researchers in education is to harness
+the symbiosis of these two traditions to resist the increasing hegemony of a positivist global discourse of educational research and policy-making. This global
+discourse threatens to undermine the findings and analyses of comparative education research by either completely disregarding cultural context or relegating
+culture merely to existing as an extraneous variable to be statistically analysed.
+It is hoped that the critical reflections presented here help others to challenge the
+uncritical international transfer of educational and social research paradigms and policies, that they contribute in some way to future directions for comparative education,
+and that they help to demonstrate the extent to which “context matters” more than is
+often realised, not only by policy-makers, but also by many researchers working in
+education and across the social sciences.
+
+References
+Apple, M. (1993). Official knowledge: Democratic education in a conservative age. London: Routledge.
+Apple, M. (2001). Comparing neo-liberal projects and inequality in education. Comparative Education,
+37(4), 409–423.
+Arnove, R. F. & Torres, C. A. (Eds.) (2003). Comparative education: The dialectic of the global and the
+local (2nd edn.). Lanham, MD: Rowman & Littlefield.
+Bainton, D. (2007). Suffering development. Indigenous knowledge and Western education in Ladakh.
+Unpublished Ph.D. dissertation. University of Bristol, Graduate School of Education.
+Bakhtin, M. M. (1986). Response to a question from Novy Mir editorial staff. In C. Emerson & M. Holquist
+(Eds.), Speech genres and other late essays. Translated by V. W. McGee). Austin, TX: University of
+Texas Press.
+Bray, M., Adamson, B., & Mason, M. (Eds.) (2007). Comparative education research: Approaches and
+methods, Hong Kong Comparative Education Research Centre, University of Hong Kong: Springer.
+Bray, M. & Thomas, R. M. (1995). Levels of comparison in educational studies: Different insights from different literatures and the value of multi-level analyses. Harvard Educational Review, 65(4), 472–490.
+Brickman, W. W. (1960). A historical introduction to comparative education. Comparative Education
+Review, 3(3), 1–24.
+Brickman, W. W. (1966). The prehistory of comparative education to the end of the eighteenth century.
+Comparative Education Review, 10(1), 30–47.
+Broadfoot, P., Osborn, M., Gilly, M., & Bûcher, A. (1993). Perceptions of teaching. Primary school teachers
+in England and France. London: Cassell.
+Broadfoot, P., Osborn, M., Planel, C., & Sharpe, K. (2000). Promoting quality in learning. Does England
+have the answer? London: Cassell.
+Burns, R., & Welch, A. R. (Eds) (1992). Contemporary perspectives in comparative education. New York:
+Garland.
+Chambers, R. (1994). Participatory rural appraisal (PRA): Challenges, potentials and paradigm. World
+Development, 22(9), 1437–1454.
+Chambers, R. (1995). Paradigm shifts and the practice of participatory research and development. In
+N. Nelson & S. Wright (Eds.), Power and participatory development: Theory and practice. London:
+Intermediate Technology Publications.
+
+--- [PDF Page 1158 / Book Page 1185] ---
+
+Rethinking Context In Comparative Education 1185
+Choksi, A., & Dyer, C. (1997). North-South collaboration in educational research: reflections on Indian
+experience. In M. Crossley & G. Vulliamy (Eds.), Qualitative educational research in developing countries. New York: Garland.
+Cowen, R. (1996a). Last past the post: comparative education, modernity and perhaps post-modernity.
+Comparative Education, 32(2), 151–170.
+Cowen, R. (Ed.) (1996b). Comparative education and post-modernity. Special Number of Comparative
+Education, 32(2).
+Crossley, M. (1984). Strategies for curriculum change and the question of international transfer. Journal of
+Curriculum Studies, 16(1), 75–88.
+Crossley, M. (1999). Reconceptualising comparative and international education. Compare, 29(3), 249–267.
+Crossley, M. (2000). Bridging cultures and traditions in the reconceptualisation of comparative and international education, Comparative Education, 36(3) 319–332.
+Crossley, M. (2006). Capacity strengthening and evaluation within international research collaboration.
+A consultation paper for the DFID funded Implementing Quality Education in Low Income Countries,
+Research Programme Consortium, University of Bristol: Research Centre for International and
+Comparative Studies (5 January).
+Crossley, M. (2006). Bridging cultures and traditions. Perspectives from comparative and international
+research in education. Bristol: University of Bristol, Graduate School of Education (public lecture).
+Crossley, M., & Bennett, A. (1997). Planning for case-study evaluation in Belize, Central America. In
+M. Crossley & G. Vulliamy (Eds.), Qualitative educational research in developing countries. New York:
+Garland.
+Crossley, M., Broadfoot, P., & Schweisfurth, M. (Eds.) (2007). Changing educational contexts, issues and
+identities: 40 years of comparative education. London & New York: Routledge.
+Crossley, M, Herriot, A, Waudo, J, Mwirotsi, M, Holmes, K., & Juma, M. (2005). Research and evaluation
+for educational development. Learning from the PRISM experience in Kenya. Oxford: Symposium.
+Crossley, M., & Tikly, L. (Eds.) (2004). Postcolonialism and comparative education. Special issue of
+Comparative Education, 40(2).
+Crossley, M., & Vulliamy, G. (1984). Case-study research methods and comparative education, Comparative
+Education 20(2), 193–207; republished in A. Sica (Ed.), Comparative methods in the social sciences,
+vol III. London & Thousand Oaks: Sage (2006).
+Crossley, M., & Vulliamy, G. (Eds.) (1997). Qualitative educational research in developing countries.
+New York: Garland.
+Crossley, M., & Watson, K. (2003). Comparative and international research in education. Globalisation,
+context and difference. London & New York: Routledge Falmer.
+Dale, R., & Robertson, S. L. (Eds) (2005). Globalisation and education in knowledge economies and knowledge societies. Special Issue of Comparative Education, 41(2).
+Delanty, G. (1997). Social science: Beyond constructivism and realism. Milton Keynes: Open University Press.
+Dore, R. (1976). The Diploma disease. London: Allen & Unwin.
+Elliott, J., & Grigorenko, E. (Eds.) (2007). Western psychological and educational theory and practice in
+diverse contexts. Special Issue of Comparative Education, 43(1).
+Epstein, E. H. (1994). Comparative and international education: Overview and historical development. In
+T. Husen & T. N. Postlethwaite (Eds.), The international encyclopaedia of education (2nd edn.). Oxford:
+Pergamon.
+Foucault, M. (1972). The archaeology of knowledge and the discourse on language. New York: Tavistock
+Publications.
+Fox, C. (2006). Stories within stories: Dissolving the boundaries in narrative research and analysis. In
+S. Trahar (Ed.), Narrative research on learning. Comparative and International Perspectives. Oxford:
+Symposium.
+Fraser, S. E. (1964). Jullien’s plan for comparative education 1816–1817. New York: Bureau of Publications,
+Teachers’ College, Columbia University.
+Freire, P. (1971). Pedagogy of the oppressed. London: Penguin.
+Freire, P. (1982). Creating alternative research methods: learning to do it by doing it. In B. Hall, A. Gillette
+& R. Tandon (Eds.), Creating knowledge: A monopoly? Participatory research in development.
+New Delhi: Society for Participatory Research in Asia.
+
+--- [PDF Page 1159 / Book Page 1186] ---
+
+1186
+
+Crossley
+
+Furlong, J. (2004). BERA at 30. Have we come of age? British Educational Research Journal, 30(3),
+343–358.
+Goldstein, H. (1996). Introduction, in Special Issue of Assessment in Education on The IEA Studies, 3(2),
+125–128.
+Goldstein, H. (2004). Education for All: The globalisation of learning targets. Comparative Education,
+40(1), 7–14.
+Grant, N. (1977). Educational policy and cultural pluralism: A task for comparative education. Comparative
+Education 13(2), 139–150.
+Habermas, J. (1978). Knowledge and human interests. London: Heinemann.
+Hammersley, M. (1995). The politics of social research. London: Routledge.
+Hans, N. (1964). Comparative education. London: Routledge & Kegan Paul.
+Hargreaves, D. (1996). Teaching as a research based profession: Possibilities and prospects. The Teacher
+Training Agency Annual Lecture, 1996. London: TTA.
+Hayhoe, R. (2006). Foreword. In S. Trahar (Ed.), Narrative research on learning. Comparative and
+International Perspectives. Oxford: Symposium.
+Hayhoe, R., & Pan, J. (Eds.) (2001). Knowledge across cultures: A contribution to dialogue among civilisation. Hong Kong: University of Hong Kong Comparative Education Research Centre.
+Hickling-Hudson, A. (1998). When Marxist post-modern theories won’t work: The potential of post-colonial theory for educational analysis. Discourse, 19(3), 327–339.
+Hickling-Hudson, A., Mathews, J. & Woods, A. (Eds.) (2003). Disrupting preconceptions: Postcolonialism
+and Education. Flaxton: Post Press.
+Higginson, J. K. (Ed) (1979). Selections from Michael Sadler: Studies in world citizenship. Liverpool: Dejall
+& Meyorre.
+Hillage, J. (1998). Excellence in research on schools. Research report no. 74. London: Department for
+Education & Employment.
+Holmes, B. (1965). Problems in education. London: Routledge and Kegan Paul.
+Holmes, B. (1981). Comparative Education: Some Considerations of Method. London: Allen & Unwin.
+Holmes, K., & Crossley, M. (2004). Whose knowledge, whose values? The contribution of local knowledge
+to education policy processes: a case study of research development initiatives in the small state of
+St Lucia. Compare, 34(1), 197–214.
+Kandel, I. L. (1933). Studies in comparative education. Boston, MA: Houghton & Mifflin.
+Kazamias, A. M. (2001). Re-inventing the historical in comparative education: Reflections on a protean
+episteme by a contemporary player. Comparative Education, 37(4), 439–449.
+Kazamias, A. M., & Massialas, B. G. (1965). Tradition and change in education: A comparative study.
+Englewood Cliffs, NJ: Prentice Hall.
+Kemmis, S. (1997) “Action research” in J. Keeves (Ed) Educational Research Methodology and
+Measurement: an international handbook. Oxford: Pergamon.
+Kennedy, M. K. (1997). The connection between research and practice. Educational Researcher, 26(8), 4–12.
+King, E. J. (1979a). Other schools and ours (5th edn.). London: Holt, Rinehart & Winston.
+King, E. J. (1979b). Notes and comments. Comparative Education, 1(4), 1 1–4,
+King, E. J. (1989). Comparative investigation of education: an evolutionary process. Prospects, 19(3), 369–379.
+Larsen, M., & Mehta, S. (Eds.) (forthcoming). Insecurity, desire and comparative education: North
+American perspectives. Special Issue of Comparative Education.
+Lauwerys, J. (1959). The philosophical approach to comparative education. International Review of
+Education, 5(3), 281–298.
+Lewin, K. (forthcoming). Diversity in convergence: Access to Education for All, Compare.
+Little, A. W. (Ed.) (1997). The diploma disease twenty years on. Special Issue of Assessment in Education, 4(1).
+Mallison, V. (1975). An introduction to the study of comparative education (4th edn.). London: Heinemann.
+Masemann, V. L. (1982). Critical ethnography in the study of comparative education. Comparative Education
+Review, 26(1), 1–15.
+Masemann, V. L. (1990). Ways of knowing. Comparative Education Review, 34(3), 463–473.
+Ninnes, P., & Mehta, S. (Eds.) (2004). Re-imagining Comparative Education: postfoundational ideas and
+applications for critical times. New York: Routledge.
+Noah, H. J., & Eckstein, M. A. (1969). Toward a science of comparative education. New York: Macmillan.
+
+--- [PDF Page 1160 / Book Page 1187] ---
+
+Rethinking Context In Comparative Education 1187
+OECD (2004). Learning for tomorrow’s world: First results from PISA 2003. Available online at: http://
+www.pisa.oecd.org/
+Osborn, M. (2004). New methodologies for comparative research? Establishing “constants” and “contexts”
+in educational experience. Oxford Review of Education, 30(2), 265–285.
+Osborn, M., Broadfoot, P., McNess, E., Planel, C., Ravn, B., & Triggs, P. (2003). A world of difference?
+Comparing learners across Europe, Maidenhead: Open University Press.
+Phillips, D., & Ochs, K. (Eds.) (2004) Educational policy borrowing: Historical perspectives. Oxford:
+Symposium.
+Phillips, D., & Schweisfurth, M. (2006). Comparative and international education: An introduction to theory, method and practice. London: Continuum.
+Postlethwaite, T. N. (1999). International studies of educational achievement: Methodological issues. Hong
+Kong: University of Hong Kong Comparative Education Research Centre.
+Reddy, V. (2005). Cross-national and achievement studies: Learning from South Africa’s participation in the
+Trends in International Mathematics and Science Study (TIMSS). Compare, 35(1), 63–77.
+Rizvi, F. (2004). Debating globalisation and education after September 11. Comparative Education, 40(2),
+157–171.
+Rogoff, B. (1990). Apprenticeship in thinking. Cognitive development in social contexts. Oxford: Oxford
+University Press.
+St Clair, R., & Belzer, A. (2007). In the market for ideas: How reforms in the political economy of educational research in the US and UK promote market managerialism. Comparative Education. 33(4),
+471–488.
+Sachs, J. (2007). A new politics for a new age, 2007 Reith Lecture for the BBC (http:www.bbc.co.uk/radio4/
+reith2007/lectures5.shtml).
+Schriewer, J. (2006a). Comparative methodologies in the social sciences – Cross-disciplinary inspirations.
+Special Issue of Comparative Education, 42(3).
+Schriewer, J. (Ed.) (2006b). Comparative social science: characteristic problems and changing problem
+solutions. Comparative Education, 42(3), 299–336.
+Sadler, M. (1900). How far can we learn anything of practical value from the study of foreign systems
+of education? In J. H. Higginson (Ed.) (1979), Selections from Michael Sadler. Liverpool: Dejall &
+Meyorre.
+Selner, D. (1997). Participatory action research and social change. New York: Cornell University.
+Simola, H. (2005). The Finnish miracle of PISA: historical and sociological remarks on teaching and teacher
+education, Comparative Education, 41, 4: 455–470.
+Sislian, J. (Ed.) (2003). Representative Sadleriana. New York: Nova Science Publisher.
+Spindler, G. D., & Spindler, L. (1982). Roger Harker and Schonhausen: From the familiar to the strange and
+back again. In G. D Spinder (Ed.), Doing the ethnography of schooling: Educational anthropology in
+action. New York: Holt, Rinehart & Winston.
+Stenhouse, L. (1979). Case-study and comparative education. Particularity and generalization. Comparative
+Education, 15(1), 5–11.
+Stromquist, N. (2005). Comparative and international education: a journey toward equality and equity.
+Harvard Educational Review, 75(1), 89–111.
+Stuart, J., Morojele, M., & Lefoka, P. (1997). Improving our practice. In M. Crossley & G. Vulliamy (Eds.),
+Qualitative educational research in developing countries. New York: Garland.
+Tikly, L., Lowe, J., Crossley, M., Dachi, H., Garrett, R. M., & Mukabaranga, B. (2003). Globalisation and
+skills for development in Rwanda and Tanzania. London: DFID.
+Tooley, J., & Darby, D. (1998). Educational research. A critique. London: Office for Standards in Education.
+Trahar, S. (Ed.) (2006). Narrative research on learning: Comparative and international perspectives (Bristol
+Papers in Education, Comparative and International Studies). Oxford: Symposium.
+Vulliamy, G. (2004). The impact of globalisation on qualitative research in comparative and international
+education. Compare, 34(3), 261–284.
+Wertsch, J. (1995). Socio-cultural studies of the mind. Cambridge: Cambridge University Press.
+Wilson, D. N. (1994). Comparative and international education: Fraternal or Siamese twins? A preliminary
+genealogy of our twin fields. Comparative Education Review, 38(4), 449–486.
+

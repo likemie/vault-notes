@@ -1,0 +1,726 @@
+================================================================================
+Chapter 71: Comparison: Quo Vadis?
+Author(s): Gita Steiner-Khamsi
+Handbook: International Handbook of Comparative Education (2009)
+Editors: Robert Cowen and Andreas M. Kazamias (Section Editor: Elaine Unterhalter)
+Section: Section 8: The Cutting Edge - Questioning the Future
+Book Pages: pp. 1141–1158
+PDF Pages: pp. 1116–1131 (in raw/比较教育学国际手册2009Cowen.pdf)
+================================================================================
+
+--- [PDF Page 1116 / Book Page 1141] ---
+
+71
+COMPARISON: QUO VADIS?
+Gita Steiner-Khamsi
+
+The history of comparative education in the United States is often told in terms of
+revolutionary paradigm changes that revamped disciplinary focus, methods, and
+geographical reach (e.g., Altbach, 1991). Until the 1960s, comparative education in
+the United States was firmly based in the discipline of history, enamoured with single-country studies, and fixated on educational systems in Europe. By the end of the
+decade, the field was transformed into comparative and international education, with
+a composition of researchers and practitioners who were multi-disciplinary, crossnational and international in perspective. The name of its professional association was
+changed accordingly, from Comparative Education Society (CES) to Comparative and
+International Education Society (CIES). According to standard accounts, disciplinary
+“orthodoxy” in history gave way to a “heterodoxy” (Paulston, 1993), inclusive of different social science disciplines. Once history was abandoned as the only legitimate
+disciplinary foundation for the comparative study of educational systems, methodological changes followed suit. For some, the units of comparison became smaller
+moving from national educational systems to culturally bounded educative sites or
+communities. For others, they became broader, as the narrow focus on cross-national
+comparison in North America and Europe was suspended and academic curiosity
+and professional interests were redirected towards the Third World. In this chapter, I
+explore the proliferation of single-case studies that occurred at the expense of multiple
+case studies and other types of studies that involve comparison. I discuss the development turn that occurred in the 1960s and reflect on the repercussions it has had on
+methodological issues.
+
+The Development Turn
+There is a strongly held belief that the development turn of the 1960s was all positive.
+This general assessment, held by culturally oriented comparative and international
+researchers in the United States deserves scrutiny. It is accurate that the exclusive focus
+on Europe was abandoned and replaced with an orientation towards developing countries. It is also true that universities in the United States embarked in great style upon
+language and area studies in order to understand, but also win the hearts and minds of
+people in the Third World. Thus, the development turn marked the beginning of area
+
+1143
+R. Cowen and A. M. Kazamias (eds.), International Handbook of Comparative Education, 1141–1158.
+© Springer Science + Business Media B.V. 2009
+
+--- [PDF Page 1117 / Book Page 1142] ---
+
+1144
+
+Steiner-Khamsi
+
+studies in the social sciences, humanities and in educational research. As discussed in
+more detail in other publications, the emergence of development and area studies was
+inextricably linked to the Cold War (Steiner-Khamsi, 2006; Steiner-Khamsi & deJongLambert, 2006). The fact that US comparative education went global in the late 1950s
+and in the 1960s, leaving the exclusive focus on Europe behind, had to do more with
+the global dimension of US interventions rather than with greater sensitivities towards
+people in developing countries.
+Naturally, the development turn has had consequences for the selection of target
+countries of research, redirecting attention from high-income countries to low-income
+countries. In addition, as this chapter will demonstrate, the development turn also
+had considerable methodological repercussions. The push for single-case studies was
+clearly visible in the late 1950s and early 1960s when the National Defense Education
+Act (1958) and the Title VI Foreign Language and Area Studies fellowships created
+funding opportunities and other financial incentives to focus one’s research on one
+country only. The focus on one geographic area was hardly new for comparative
+researchers. Given their kinship with historians, most early comparative education
+researchers have always seen themselves as area specialists, focusing on the history of
+education in a particular region. However, despite their area or context specialty, they
+did compare. Their analyses were embedded in contextual comparison. The situation,
+however, changed with the development turn.
+In retrospect, the period of greatest territorial gain in comparative education was
+also the era of greatest methodological loss: with US political interventions targeting
+developing countries in the 1950s and 1960s, comparative education gained terrain.
+The field was no longer restricted to North America and Europe, but now encompassed any country with which the US government either entertained friendly ties
+or intended to forge a bond. Typically these countries were low-income, developing
+countries. At closer scrutiny, however, in the wake of paying more attention to developing countries, the project of comparison got suspended; not for its methodological
+limitations (e.g., difficulty of conducting solid contextual comparison) but oftentimes
+for chauvinist reasons: What is there possibly to learn from countries that are at a lower
+development stage? What “bourgeois education” in the United States was to MarxistLeninist comparative education, and vice versa, education in developing countries was
+to comparative education in the United States: deemed too inferior to be comparable
+(see Steiner-Khamsi, 2006). With the boom of development and area specialists in the
+1960s, funded by NDEA Title VI or other international fellowships, comparative and
+international education in the United States shifted towards qualitative single-country
+studies and lost, to some extent, its comparative dimension.1
+I would like to draw on Harold H. Noah’s astute methodological observations. His
+comments capture very well my own criticism of the narrow research paradigm that
+emerged during the Cold War in the 1960s, and endured into the present:
+Obviously, the 35 years since 1970 has seen tremendous organizational growth
+[in US comparative and international education]. Now, I will not speak at all;
+my lips are sealed on whether there has been qualitative improvement. There
+
+--- [PDF Page 1118 / Book Page 1143] ---
+
+Comparison: Quo Vadis? 1145
+
+certainly are differences. … It is just very different in one way, but very much
+the same in another way. There are still, as there were before, lots and lots of
+single-country studies. And the big question always is: is that comparative education? Couldn’t these studies just as well have been published in a sociology of
+education journal in that country, a political science journal in that country, or
+in an educational journal in that country? Why is it comparative education? That
+question still worries me. (Noah, 2006, DVD excerpt 00:15:28 – 00:16:58)
+
+Cold-War Legacies
+The development turn surfaced in the late 1950s and the early 1960s. This period
+marked the formative years for comparative education societies in different parts of
+the world, including in the United States. The decade coincided with the period of
+greatest competition between the two superpowers. The race over arms, technology
+and science was the fiercest during that time. For comparative education researchers
+in the United States, Soviet education was first an object of admiration, and in the following two decades a counter-reference for all that US education was not supposed to
+be, or never wished to become. At the founding meeting of the Comparative Education
+Society at New York University in 1956, the comparison between education in the
+United States and education in the Soviet Union was placed at centre stage.2 Soviet
+education became a primary point of reference after the launch of Sputnik in 1957,
+a position reinforced once Yuri Gagarin became the first man in space in 1961. The
+Soviet downfall coincided with reports in the 1970s and 1980s in which dissidents
+spoke up against political repression and wrote about the widespread “economy of
+shortage” in socialist countries.
+The influence of the Cold War has endured into the present and is evident in
+several contemporary features of US comparative and international education: first,
+the dominance of development and area studies in US comparative and international
+education, and second, the preoccupation of US comparative education with contrastive analyses of educational systems, conceived as diametrically opposed to the US
+system. In the United States, Sovietology was soon replaced by Japanology, followed
+by, after more than a decade of relative inertia, Islamology. Research on educational
+practices in the Soviet Union, Japan, or the Arab world – all regions that were seen at
+one time or another as economic or political threats to the United States – attracted
+great public attention and government funding. Finally, it is noticeable that US comparative education researchers rarely compare US education with education in other parts
+of the world. The only country that seems to serve as a “reference society” (Schriewer
+et al., 1998) for educational reform in the United States is Great Britain, and even this
+is limited to market-oriented educational reforms. It seems there is no cross-national
+“policy attraction” for US analysts unless the reforms happen to emanate from Great
+Britain. This is in stark contrast to comparative education research in other countries
+that typically is enamoured with observing, documenting and publishing on reforms in
+countries that are perceived as comparable in context.
+
+--- [PDF Page 1119 / Book Page 1144] ---
+
+1146
+
+Steiner-Khamsi
+
+Language and Area Studies
+In the United States, Congress passed the National Defense Education Act (NDEA)
+in 1958 to improve the quality of education (especially in math, sciences and foreign
+language instruction), and increase access to postsecondary and higher education by
+means of student loans and scholarships. A total of 10 areas (“titles”) were listed as
+eligible for federal funding. In higher education these new areas were Title II (student
+loans), Title IV (national defense fellowships), and language and areas studies development (Title VI). These funding priorities were initiated in 1958 and are, at a much
+lower level of funding, available to this date.3
+A review of the NDEA budget for 1963 illustrates the preoccupation with socialist countries. The top-ranking foreign languages in the early 1960s were Chinese and
+Russian. More precisely, 16% of the budget for Modern Foreign Language Graduate
+Fellowships was spent for Chinese and 13% for Russian, followed by Arabic (11%),
+Japanese (10%), Spanish (10%) and other languages (Office of Education, 1963,
+Figure 20). The US–Soviet cultural exchange agreement of 1958 made it possible to
+take a peek behind the Iron Curtain in the form of organized study visits or tours. The
+interest in Soviet and East European languages and studies dropped drastically in
+the 1970s when government funding for foreign language and area studies dwindled. The
+number of doctorates earned in Soviet and East European Studies at American universities, for example, was at a peak in the decade 1970–1979 (3,598 doctorates), but then
+dropped by 60% in the period 1980–1987 (Atkinson, 1988).
+Although the rhetoric for establishing NDEA was clearly embedded in the
+language of the Cold War, a great number of foreign language and area studies
+– regardless of whether they were in socialist countries or not – benefited from the
+infusion of government funds. In 1958, the US Commissioner of Education designated 83 languages as critically needed, and identified six of them for first priority
+in development: Arabic, Chinese, Hindi-Urdu, Japanese, Portuguese, and Russian
+(Spanish was added in 1996, after the announcement of the US-Latin American
+Alliance for Progress). By the end of 1962, four years after the implementation
+of NDEA, 56 of the 83 “critical languages” received federal support and 53 centres for area and language studies in higher education were established (Office of
+Education, 1963).
+A brief comparison of US educational reform strategies used during the Cold War
+and during the ongoing War on Terror is appropriate here. Since 2006, there has been
+talk of establishing a new NDEA as an educational offensive to win the War on Terror.
+Education was, like today, directly tied to national and global security, and federal
+expenditures for education more than doubled in the 4 years after the NDEA of 1958
+was implemented (Senate of the United States, 2006, p. 2). Even though the funds were
+administered by the Department of Education, the language used to pass the Act in
+Congress was soaked in the language of the military provoking anxieties that the country
+would lose the race in science, technology and arms. The magnitude of NDEA becomes
+immediately apparent if we compare the educational measures of the late 1950s with
+those of today that the US government has initiated to combat the War on Terror. Such a
+comparison is not far-fetched, since many political commentators compare September
+
+--- [PDF Page 1120 / Book Page 1145] ---
+
+Comparison: Quo Vadis? 1147
+
+11 (2001) to the launch of the Sputnik (October 1957). Both events were hyped as a
+shock to the nation and triggered a host of government interventions. In education, the
+parallel is striking, and reflected in the 2005 National Security Language Initiative,4
+established by President George W. Bush, and the plan of democratic senators, backed
+by the Association of American Universities (2006), to pass the so-called New NDEA
+of 2006. However, if the Federal Government were to allocate the same amount for education in the interest of “national security” as it did with NDEA in 1958, it would cost
+$400–500 million, that is, roughly 10 times more than it is spending nowadays for Title
+VI and Homeland Security fellowships (Brainard, 2005). In both eras – the Cold War
+and War on Terror – public expenditures for winning the “war” were massive. During
+the Cold War, however, the allocation of funds to the education sector was considerably
+higher – in fact, 10 times higher – than today.
+Returning to the decade of development in the 1960s, the boost in federal support
+for higher education generated very attractive incentives to establish area studies as
+well as development studies in education and the social sciences. In fact, most graduate programmes in international and comparative education, educational development
+studies, or international education policy studies at US universities were established
+during the decade of development. Even though the decade ended in the late 1960s, it
+entirely transformed the field of US comparative and international education in that
+it moved the field away from comparative historiography and directed attention to
+(de-contextualized) cross-national comparison on one hand, and highly contextualized
+but non-comparative single-country studies on the other.
+
+Contrastive Analyses
+Andreas Kazamias criticizes the “social scientific metamorphosis of comparative
+education” (2001, p. 440) of the 1960s for having transformed comparative education into an ahistorical, and to some extent atheoretical field of inquiry. I would like
+to add to Kazamias’s observation that the early period of social scientific comparison in the 1960s witnessed, in the form of Sovietology and then later Japanology,
+the most shallow and de-contextualized mode of comparison: contrastive analyses.
+Methodologically, contrastive analyses need to be regarded as a specific type of
+comparison. They emphasize differences over commonalities. The typology of comparative case study analyses helps situate contrastive analyses within comparative
+methodology.
+Table 1 presents the distinction made in comparative case study analyses between
+systems and outcomes (Berg-Schlosser, 2002, p. 2430; see also Przeworski & Teune,
+1970). I use “system” and “case” interchangeably, because methodologically a case is
+a bounded system with its own “causal web” (Tilly, 1997, p. 49) that connects the large
+Table 1.
+
+Comparative case study analyses
+
+Most similar outcomes
+Most different outcomes
+
+Most similar systems/cases
+msS-msO
+msS-mdO
+
+Most different systems/cases
+mdS-msO
+mdS-mdO
+
+--- [PDF Page 1121 / Book Page 1146] ---
+
+1148
+
+Steiner-Khamsi
+
+number of variables in the case/system. The following table is especially useful for
+sampling decisions as it helps to make the selection of cases transparent.
+In contrastive analyses, the researchers select cases/systems that they perceive to be
+“most different” from each other with regard to political system, educational system,
+or other system criteria (mdS), and expects to find different outcomes (mdO). The
+fourth quadrant in Table 1 represents the contrastive research design (mdS-mdO), in
+which the most different systems are examined with the expectation to find most different outcomes.
+During the Cold War, the field of Sovietology satisfied populist demands for understanding why the US nation fell behind in the space and arms race. As a corollary, it
+made it acceptable in educational research to engage in contrastive analyses, that is,
+in comparison that is primarily directed towards identifying difference. As a result the
+two systems were dichotomized, and each was situated at the end of a spectrum. Soviet
+education was depicted as a system that relied on political indoctrination, whereas
+the US system supposedly fostered critical thinking in students. The list of binary
+constructions is long. Suffice it only to mention one more false dichotomy: the Soviet
+educational system supposedly emphasized access to education at the expense of quality
+of education. The dismissal of all that is perceived as typically socialist, such as, for
+example, universal and free access to education, has had disastrous effects on current
+reforms in the post-socialist region (see Steiner-Khamsi & Stolpe, 2006). The field of
+Sovietology was dropped, as some commentators notice (e.g., Foster, 1998), virtually
+overnight and replaced with Japanology. The new methodology was later on adopted
+for the research field Japanology producing a multitude of contrastive studies on US
+and Japanese education.
+As with its older cousin Sovietology (see Noah, 2006), Japanology was populist
+in that it spread, at breathtaking speed, many broad generalizations and exaggerated
+statements about education. Furthermore – as William Cummings (1989), with reference to an expression coined by Joseph Tobin, has pointed out – American researchers
+tended to use a “yes, but” approach. The approach acknowledges the successes in the
+other educational system but at the same time “argues that these successes come at
+too high a price, a price Americans are unwilling to pay” (Cummings, 1989, p. 296).
+The exaggerated statements or myths about Japanese education included: inverted
+socialization paradigm (indulgence in early childhood, discipline in adolescence and
+early adulthood), education for the nation and the state, kyoiku mama (educationoriented mother), rote learning in schools, competition and suicide, elitist higher
+education, and social inequality. The US attraction for the Japanese educational system evaporated as quickly as it emerged due to the economic crisis in Asia. Within a
+short period of time, the “cautiously acknowledged strengths of Japanese education”
+(Cummings, 1989, p. 298) disappeared from American accounts. The Japanese educational system fell from grace and American observers started to make extensive
+use of studies that documented cram schools, student suicide and teacher burnout
+in Japan. Critics also emerged within the Japanese contexts. In Japan, the crisis talk
+surfaced at the turn of the new millennium and was used to justify the need for fundamental reform, such as the far-reaching curriculum reform that was implemented
+in 2002 (Tsuneyoshi, 2004).
+
+--- [PDF Page 1122 / Book Page 1147] ---
+
+Comparison: Quo Vadis? 1149
+
+Cross-National Policy Apathy
+William Cummings is not alone in observing US disinterest in educational reforms of
+other countries:
+The American interest in foreign educational systems has never been great, and
+as America has prospered to a position of international pre-eminence it appears
+that this interest has steadily declined: after all, what could the world teach
+America? (Cummings, 1989, p. 294)
+Cummings published his observation in 1989, at the dawn of a new era in which the other
+empire, the Soviet Union and its socialist allies, was dissolved. Even more than before,
+the global posture of US policy analysts is noticeable. The isolationist status of US comparative education research or “self-referentiality” (Luhmann, 1990; Schriewer, 1990; see
+also Steiner-Khamsi, 2004) as the primary mode with which policy decisions are made
+in US educational reform, is a relatively recent phenomenon. Historically, the period
+of greatest US interest in educational systems of other countries (in particular Europe),
+was the second half of the nineteenth century and early twentieth century. Having this
+particular period of US comparative education in mind, Harold Noah and Max Eckstein
+(1969. p. 3) identified the period of educational borrowing, “when the desire to learn
+useful lessons from foreign practices was the major motivation” as the second stage in
+the development of comparative education.5 In a similar vein, Gail P. Kelly refers to the
+period in the history of comparative education, when “gentlemen traveled extensively
+and wrote about differences between nations” (Kelly, 1992, p. 14).
+David Phillips coined the term “cross-national policy attraction” (Phillips, 2004;
+Ertl, 2006) to capture, from a historical perspective, the British interest in German
+educational provision over a considerable period of time. This interpretive framework
+is useful to understand the sustained interest of policy analysts of one educational
+system in the educational provisions, reform strategies, and other institutional features of another. In the case of US policy analysts, however, the inverse applies: an
+apathy towards experiences from elsewhere. It seems that there are no lessons to be
+learned from other educational systems and experiences elsewhere are not viewed as
+instructive for domestic policy development. Exceptions such as UK – United States
+cross-national policy attraction do exist, but there are, for sure, no contours of any
+pronounced policy pilgrimage by US policy analysts. In other contexts, cross-national
+policy attraction is the rule and not the exception. For example, the first few years after
+the release of the PISA results, numerous policy analysts from different corners of the
+world flocked to Finland to explore the reasons for the exceptional achievement of
+Finnish students in language literacy.
+
+The Challenge of Contextualized Comparison
+Contextualized comparison, or the move away from contrastive analyses, was only
+rediscovered in comparative education with the general cultural turn in the social
+sciences in the 1980s. Social anthropological and historical research, by the 1980s
+
+--- [PDF Page 1123 / Book Page 1148] ---
+
+1150
+
+Steiner-Khamsi
+
+grown closer together and paradigmatically regarded as siblings rather than cousins, positively influenced the methods discussion in the social sciences, educational research,
+and comparative education research. Not only did they render the exclusive focus on
+national education systems problematic by including other units of analyses (classrooms, schools, communities, regions, the world), but they also demanded a more
+hermeneutic approach to the study of educational systems that, by implication, pays
+greater attention to cultural and historical context. As a corollary, single-country studies or case studies offered themselves as a methodological tool in which all units of
+analyses, from the classroom to the globe, were interwoven and in which causal connections between the various units or layers of analyses could be made.
+I would like to argue that the cultural turn in comparative education has dominated
+the field at the expense of other quantitative and mixed-methods comparative studies. Today, qualitative case studies or single-country studies are the most frequently
+used genre of methodological inquiry in US comparative and international education. To reiterate Harold Noah’s point, mentioned earlier (Noah, 2006): “Why is this
+comparative education?” In principle, singe-country studies could very well be comparative. At closer scrutiny, however, the majority of single-country studies published
+in comparative and international education journals are not comparative. This applies
+especially to those case studies that refrain from any of the three conceivable types of
+comparison: comparison over time (historical analysis), across space (cross-cultural
+or cross-dimensional analysis), or across socially agreed standards (e.g., OECD/IEDtype of studies). Arguably, cross-national comparison is but one of several methods
+of comparison. A more frequently used method in comparative education was, until
+the 1960s, comparative historiography, when education in a “foreign country” was
+analyzed and compared over a long period of time. Demands for more cross-dimensional analyses have been made (Bray & Thomas, 1995), but rarely implemented in
+research. I regard case study research as a very powerful tool for policy analysis under
+two conditions: the researcher must clearly define the case (what does the case stand
+for?) and the researcher needs to convincingly construct causal stories within the case
+(Tilly, 1997, p. 5) by investigating how the various actors, agendas, policy levels, and
+educational practices relate to each other. As a corollary, a case study must be regarded
+as a thick description based on a small sample size (small N), but many variables
+(Ragin, 1997).
+For example, in the case study on educational import in Mongolia (SteinerKhamsi & Stolpe, 2006), we had to come to grips with the ‘fuzziness’ of case studies
+(Bassey, 2001, p. 6; see also Hammersly, 2001; Pratt, 2003). The uncertainty of predictions relates to the contextual information in which a case study must be nested.
+Even though we have, every now and then, included observations made in other
+contexts, the bulk of our findings were deeply rooted in the Mongolian context of
+educational reform. The fuzziness of case studies is both a methodological weakness and strength. What accounts for the fuzziness is the complexity of an issue
+(many variables) that unfolds when attention is paid to the different actors, agendas,
+units of analysis, and practices within a context. In the Mongolian case study, for
+example, we consistently used three units of analysis, corresponding to three distinct
+policy levels (policy talk, action, implementation); the lists of actors, agendas, and
+
+--- [PDF Page 1124 / Book Page 1149] ---
+
+Comparison: Quo Vadis? 1151
+
+practices varied for each chapter in the book (Steiner-Khamsi & Stolpe, 2006), and
+would be too long to reiterate here.
+Solid comparative studies or “contextual comparison” typically draw from information, which are specific to the case(s), as well as from comparison with other cases.
+The problem I observe, however, is that many studies either do one or the other. That
+is, they either focus on one case – and are highly contextual within that case – but lack
+a broader frame of reference or perspective, oftentimes because the researcher (over-)
+emphasizes contextual differences and, thus, refuses to compare. Or, they are very
+exact with describing, for a number of cases, changes over time but miss out on important details for each case. These methodological differences are not merely nuances for
+they produce different theories, depending on which method of inquiry and perspective is utilized. For example, in the fascinating intellectual debate on whether there
+is an international convergence towards a single (international) model of schooling,
+methodological considerations are instrumental for determining whether the scholars believe or disbelieve in an international convergence of schooling that supposedly
+results from globalization.
+Globalization is commonly viewed as an act of de-territorialization (Appadurai,
+1990). By implication, globalization studies investigate the transnational flow of money,
+communication, beliefs, or, as is the case with comparative educational research, the
+travel of educational reforms from one cultural context to another. As students of globalization, we are able to draw on an established tradition in comparative education
+with investigating policy borrowing and lending (Noah & Eckstein, 1969; Holmes,
+1981) from one context to another, and by implication, with examining transnational
+or global phenomena. In this key research area of comparative education, the cultural
+turn in the social sciences that, more specifically, corresponds to the development turn
+in comparative education, has had vast repercussions for the study of transnational
+policy borrowing/lending or globalization in education. What we are witnessing today
+is a bifurcation of comparative borrowing/lending research with one branch featuring cross-national comparison, and the other emphasizing culture or local contexts.
+Within this binary space, one group of scholars – associated with neo-institutionalist
+sociology – investigates long-term changes to identify a convergence of national educational systems, beliefs, and practices over time (Meyer & Ramirez, 2000; Ramirez,
+2003; Baker & LeTendre, 2005; Kamens & Benavot, 2006). Diametrically opposed is
+a group of researchers, representing a specific orientation within cultural anthropology, that produces single-country studies to emphasize that global or “external” forces
+are heavily reinterpreted and adapted locally, and therefore only have a limited impact
+on local structures, beliefs, and practices (Anderson-Levitt, 2003).
+Although the disagreements between the two camps – neo-institutionalist sociologists and anti-neo-institutionalist cultural anthropologists – have ignited a lively debate
+on strengths and shortcomings of each interpretive framework, we lack a discussion
+on methodological constraints and disciplinary blind spots. The single-case studies
+presented in Anderson-Levitt’s book criticize neo-institutionalism or world culture
+theory from an anthropological perspective. In her edited volume (Anderson-Levitt,
+2003), each of the nine case studies reflects on how exogenous influences in education (global forces) have been interpreted in a particular community (local encounter).
+
+--- [PDF Page 1125 / Book Page 1150] ---
+
+1152
+
+Steiner-Khamsi
+
+As announced in the title of the book, the case study authors investigate “local meanings” to visions and pressures of “global schooling,” and find a multiplicity of (local)
+meanings. Their criticism builds on this finding, and serves them as an argument to
+denounce the homogenizing effects of globalization that world culture theory has
+asserted. The contributors illustrate that, although choice, student-centred learning,
+outcomes-based education, marketization of schools, etc., went global, they neither
+replaced already existing models nor do did they mean the same in various cultural
+contexts. For example, choice with regard to the language of instruction, propelled by
+US missionaries in Tanzania (Stambach, 2003) is, for a variety of reasons, a different
+“thing” altogether than the choice in math instructional methods that factions of the
+PTA association in California were combating (Rosen, 2003). Such variations matter
+a great deal to the contributors of the edited volume for these differences reveal that
+individuals in a particular community have a shared understanding of what global
+reform models mean in their own cultural context. They criticize their antagonists,
+the scholars of world culture theory or neo-institutionalist sociology, for taking global
+schooling models at face value without scratching at the surface, and examining how
+they play out differently at the community level. To phrase it more bluntly, world culture
+theorists seem to have mistaken “brand name piracy” such as choice, outcomes-based
+education, student-centred learning, etc., hijacked from one corner of the world and
+catapulted to another, as heralds of an international convergence of education.
+In contrast, neo-institutionalism or world culture theory acknowledges local “variations” (Ramirez, 2003, p. 247) of the global model of schooling, but regards them
+either merely as manifestations of “loose coupling” between official and enacted policy, or views them as part of a world culture that promotes difference and diversity.
+It simply is not interesting to comparative sociologists to analyze how and why exactly
+the same school reform – let’s say “choice” – is interpreted and implemented differently in various cultural contexts. There is little to gain for them in the way of making
+better sense of trends at system level. The fact that policy-makers in different parts of
+the world justify choice, vouchers, privatization of education, and a host of other neoliberal reforms in terms of “progress” and “justice” only reconfirms their theory on the
+international convergence in education.
+Anthropological research has much to offer for understanding how globalization
+plays out in communities. They have the methodological tools to understand what
+“globalization” means to groups and communities: why “it” is appropriated or rejected,
+and how “it” is adapted and modified to their cultural contexts. By analyzing the local
+encounters with global forces, we learn more about cultural contexts than we do about
+“globalization” per se. In contrast, defining the global or “the-out-there” (AndersonLevitt, 2003, p. 17), is not the strength of this kind of anthropological research. In
+fact, in a few case studies presented in Anderson-Levitt’s edited volume (2003), the
+external forces or globalization (“out-there”) was actually “in-here.” These are a few
+constructions that I noticed in the volume: The authors either assumed that the global is manifested in neo-liberal reforms (choice, economic efficiency programs),
+personified in specific groups viewed as outsiders (Russian immigrants in Israel, US
+missionaries in Tanzania), or, if all other methods of distilling the global from the
+local failed, simply used a quasi-subtractive method (the residual from what already
+
+--- [PDF Page 1126 / Book Page 1151] ---
+
+Comparison: Quo Vadis? 1153
+
+existed locally, was established as the global) and thus run the risk of having given
+attention to anything new. However, not everything that is “out there in the larger
+world” (Anderson-Levitt, 2003, p. 55) qualifies as global. Precisely because the global
+is frequently “in here,” several anthropologists have pointed out that concepts of spatial
+determinism or “the local,” are of limited value (e.g., Camaroff & Camaroff, 2001),
+and at the same time acknowledged the disjunctures of various transnational developments (Appadurai, 1990). This other group of anthropologists forces us to explicitly
+address the blurring lines between global and local, between external and internal, and
+to render the overlap of these two spaces to an object of study.
+The endeavour to investigate the impact of globalization on education is more ambitious than it appears. The greatest challenge is to avoid falling into the trap of first
+establishing national boundaries, only to demonstrate afterwards, that these boundaries have indeed been transcended. Reforms do not have a home base, a territory,
+or a nationality, and therefore do not “belong” to a particular educational system.
+Individuals conceive reforms and, depending on where they are geographically and
+institutionally situated and how well they are globally networked, succeed in having
+their ideas disseminated worldwide. Important for comparative research is therefore
+the question as to why policy-makers and analysts refer to globalization, that is, generate reform pressure by pointing at educational reforms in other countries.
+
+Comparativists Who Understand
+By way of concluding my methodological observations, I highlight a few of the challenges of comparison that I mentioned earlier. The development turn of the late 1950s
+and early 1960s reinforced a tendency that already existed in comparative educational
+research: a great attention to context (culture, history, language) and a reluctance to
+compare unless a strong case could be made for comparability of contexts. As Noah
+mentions (Noah, 2006), the majority of articles in the journal of the US Comparative
+and International Education Society (Comparative Education Review) are single-country
+studies. Authors who do compare risk being criticized for being culture-insensitive or
+for engaging in de-contextualized comparison.
+Given the caution towards comparison, the question of comparability has taken on
+monumental significance. Of course, nothing is comparable per se (Tilly, 1998; Ragin,
+1997). Unless the researcher identifies a commonality, or more accurately constructs a
+specific dimension against which two or more cases/contexts can be compared, comparison is ruled out. Establishing a tertium comparationis, that is, generating, justifying
+and applying a construct against which two or more educational systems are compared,
+has become one of the major preoccupations of comparative researchers. The tertium
+comparationis changed over time. From a historical perspective, “civilization”, “modernization”, “development” and “democracy”, only to list the major constructs utilized
+in North American comparative education research, has each served as an interpretive
+framework or as tertium comparationis for justifying comparison across contexts or
+cases, or – in early comparative education research – across national educational systems. The early comparativists, such as Sadler and Kandel, used civilization theory to
+
+--- [PDF Page 1127 / Book Page 1152] ---
+
+1154
+
+Steiner-Khamsi
+
+construct comparability. Groups, people and nations that were perceived to be at the
+same stage of “civilization” were deemed comparable (Steiner-Khamsi, 2002; Welch,
+2000). Since the newly formed nation states of the nineteenth century were supposedly
+at the same (high) stage of civilization, the transatlantic transfer of educational models
+was justifiable. Similarly, US and British researchers at the turn of the last century
+believed that African Americans, Native Americans, and Africans (and later all colonized people in the British colonial empire) were regarded to be at the same (low) stage
+of civilization. Since these groups were perceived to be comparable, transfer of educational models from one continent (North America) to another (Africa) was viewed,
+methodologically and morally, as permissible. A good case in point is the transfer of
+“adapted education” from Hampton and Tuskegee (schools in the segregated South
+of the United States) to Achimota (colonial Ghana) in the 1920s (Steiner-Khamsi &
+Quist, 2000).
+There is a need to write a historiography of comparison that accounts for changing
+notions of comparability. With the proliferation of indicator research in the 1980s and
+1990s, development was framed in quantitatively measurable terms (HDI, GDP, GNP,
+etc.). Arguably, the quantification of development makes the justification for comparison too easy for comfort. Coefficients tend to conceal, perhaps more than theoretical
+concepts, the assumptions of a stage model which ranges from 0 (“not developed”) to 1
+(“developed”). At the same time, we need to acknowledge positively that the vast number
+of development indicators is evidence that definitions of development have become
+diversified. Even though each and every international organization advances its own
+stage model with regard to dimensions that matter to them (e.g., economic dimensions
+for development banks, children and women’s rights for UNICEF, absence of corruption
+for Transparency International, etc.), we lack a critical reflection of how data banks on
+development and other indicators, established at each and every international organization, actively contribute to the construction of “development” or “under-development”.
+As mentioned earlier, we have behind us more than two decades of growing skepticism about the place and purpose of cross-national and cross-contextual comparison
+(Steiner-Khamsi, Torney-Purta & Schwille, 2002). Attacks against large-scale country
+comparisons are not singular incidents. Furthermore, they are not carried out by cultural anthropologists only. Nor are these attacks exclusively directed to sociologists,
+as the debates around world culture theory seem to suggest. However, these attacks
+neglect the existence of researchers in comparative studies that simultaneously contextualize and compare. For example, Charles Tilly emphasizes, not only in his widely
+read historical analyses of nation states (or “national states” as he labels them) and
+citizenship, but also in his methodological contributions to comparative sociology and
+history, the need to simultaneously examine intra-national and transnational interactions. He reminds researchers in comparative studies to explore the “causal stories”
+that are embedded in each case or context and that rest on “different chains of causeeffect relations” (Tilly, 1997b, p. 50). To name one concrete example, his comparison
+of several European “revolutionary situations” in the early 1990s, and his discussion
+of the different political “outcomes” in these Central and Eastern European countries,
+is one of his methodological masterpieces integrating cross-national comparison and
+contextual analysis. For the research field of comparative policy studies in education,
+
+--- [PDF Page 1128 / Book Page 1153] ---
+
+Comparison: Quo Vadis? 1155
+
+Tilly’s methodological approach helps us to understand why, in a given context, one
+policy solution is selected over another and how external factors influence and are
+woven into local politics.
+In comparative education research, the group of scholars advancing contextual comparison has been quite productive. This group is very visible in one of the traditional
+research areas of comparative education: cross-national policy borrowing and lending. Embedded in a theoretical framework of system theory (Luhmann, 1990), Jürgen
+Schriewer and his colleagues propose to study the local context in order to understand
+the “socio-logic” (Schriewer & Martinez, 2004, p. 33) of externalization. According
+to this theory, references to other educational systems serve as leverage to carry out
+reforms that otherwise would be contested. Schriewer and Martinez also find it indicative of the “socio-logic” of a system that only specific educational systems are used as
+external sources of authorities. Which systems are used as “reference societies” and
+which are not tells us something about the interrelations of actors within various worldsystems. I found the concept of externalization useful for comparative policy studies
+as it enables us to understand how “global forces” are sometimes locally induced with
+the purpose of generating reform on domestic developments (Steiner-Khamsi, 2004).
+I found that it is precisely at a moment of heightened policy contestation that references to other educational systems, to “international standards in education” broadly
+defined, or to globalization are made. I concluded that cross-national policy borrowing,
+discursive or factual, has a certification effect on domestic policy talk. Teasing out the
+interrelation between the local and global requires a bifocal focus that enables us to
+investigate – in meticulous detail and across various policy levels – the local context, and
+to simultaneously compare the particular case with other cases that had either a similar
+or a different policy outcome. Comparativist after comparativist, from Michael Sadler to
+Brian Holmes to Robert Cowen, warned against analyzing education out of context and
+using comparison in ways that blindly advances cross-national policy borrowing. Robert
+Cowen (2000) revisits Sadler’s hundred-year-old question: “What can we learn from the
+study of foreign systems?” Cowen illustrates that, in practice, the comparative study of
+educational systems has fuelled a “cargo-cult”, that is, a wholesale export and import
+of educational models across national boundaries. Cowen is among a growing group of
+researchers in comparative studies that insist on the need for more contextualized comparison. This group of researchers attempts to seriously challenge the contention that
+those who compare do not understand, and those who understand do not compare.
+
+Notes
+1. It is important to keep in mind that the shift of comparative education towards single-country studies
+did not necessarily occur in other countries and continents. In fact, the comparative education section
+of the European Educational Research Association (EERA) excluded all abstracts and presentations
+that lacked an explicit comparative dimension and delegated them to other sections of EERA. There
+was a lively debate at the European Conference for Educational Research in Geneva (September 2006)
+whether presentations dealing with one case only qualify for the comparative education section.
+2. Study of Soviet education was the only area specific topic at the 1956 meeting. All other topics dealt
+with theories, methods, or concepts of comparative education (see Campisano, 1988, p. 35; Brickman,
+1966). George Z. Bereday was asked to compare education in the United States with Soviet education
+
+--- [PDF Page 1129 / Book Page 1154] ---
+
+1156
+
+Steiner-Khamsi
+
+(Bereday, 1957). The other three topics, scheduled by the co-organizers William Brickman and Gerald
+Read, were: (1) the theoretical foundations of comparative education; (2) the current importance of
+the subject as an area of study and research; and (3) an examination of definitions, aims, and values of
+comparative education and the concept and general principles of comparison. The participants discussed
+the practical applications of comparative education in the second half of the programme.
+3. In 2005, 60 universities were eligible to administer Foreign Language and Area Studies (Title VI) fellowships. The budget for 2005 fiscal year was $28.2 million and 926 year-long fellowships and 635
+summer fellowships were funded. The Title VI international education programs remained the largest
+source of federal funding in which education is explicitly tied with national and global security. It is
+followed by the Homeland Security fellowship (created in 2003) which disbursed $15 million and the
+National Security Education Program with a budget of $8 million in 2005 (Glenn, 2005).
+4. In 2002, the US army reported the “serious shortfalls of translators and interpreters in 5 of its 6 critical
+languages” (Senate of the United States, 2006, p. 3): Arabic, Korean, Mandarin Chinese, Persian-Farsi
+and Russian. The National Security Language Initiative is supposed to remedy the situation by producing 2,000 “advanced speakers of critical languages” by 2009 that could be employed by the US army,
+intelligence and government offices (Liebowitz, 2006, p. B29).
+5. Noah and Eckstein (1969) identify the following five stages in the development of comparative education: (1) travellers’ tales, (2) educational borrowing, (3) international educational cooperation, (4) studies
+on society and schooling, including national character studies, and (5) social science foundation of comparative education. Noah and Eckstein have been criticized for their assertion that the early philosophical
+and historical emphases of comparative education have been replaced with one devoted to the social
+sciences, and especially for their enthusiastic endorsement of quantitative research methods in comparative education. Their historical account of the five stages is in line with what other scholars have
+noted. Perhaps, their enthusiasm about the great potential of quantitative research could have been more
+guarded, but – despite assertions to the contrary (Masemann, 2006; see also Steiner-Khamsi 2006, note
+12) certainly there is no doubt that history and philosophy were the foundation of early comparative education research, and any other educational research for that matter, in the United States and in Europe.
+
+References
+Altbach, P. G. (1991). Trends in comparative education. Comparative Education Review, 35(3), 491–507.
+Anderson-Levitt, K. (ed.) (2003). Local meanings, global schooling. Anthropology and world culture theory. New York: Palgrave Macmillan.
+Appadurai, A. (1990). Disjuncture and difference in the global cultural economy. In M. Featherstone (Ed.),
+Global culture (pp. 295–310). London: Sage.
+Atkinson, D. (1988). Soviet and East European studies in the United States. Slavic Review, 47(3),
+397–413.
+Baker, D. P., & LeTendre, G. K. (2005). National differences, global similarities. World culture and the
+future of schooling. Stanford: Stanford University Press.
+Bassey, M. (2001). A solution to the problem of generalization in educational research: Fuzzy predictions.
+Oxford Review of Education, 27(1), 5–22.
+Bereday, G. Z. F. (1957). American and Soviet scientific potential. Social Problems, 4(3), 208–219.
+Berg-Schlosser, D. (2002). Comparative studies: method and design. International encyclopedia of the
+social and behavioural sciences, no. 4 (pp. 2427–2433). Amsterdam: Elsevier.
+Brainard, J. (2005). Defense Department hopes to revive Sputnik-era science-education program. Chronicle
+of Higher Education, 51(36), A18.
+Bray, M., & Thomas, R. M. (1995). Levels of comparison in educational studies: Different insights from different literatures and the value of multilevel analyses. Harvard Educational Review, 65(3), 472–490.
+Brickman, W. W. (1966). Ten years of the Comparative Education Society. Comparative Education Review,
+10(1), 4–15.
+Camaroff, J., & Camaroff, J. L. (2001). Millennial capitalism: First thoughts on a second coming. In
+J. Camaroff & J. L. Camaroff (Eds.), Millennial capitalism and the culture of neoliberalism (pp. 1–56).
+Durham, NC: Duke University Press.
+
+--- [PDF Page 1130 / Book Page 1155] ---
+
+Comparison: Quo Vadis? 1157
+Campisano, C. J. (1988). The Comparative Education Review: Thirty years of scholarship. Ed.D. dissertation. New York: Teachers College, Columbia University.
+Cowen, R. (2000). Comparing futures or comparing pasts? Comparative Education, 36(3), 333–342.
+Cummings, W. K. (1989). The American perception of Japanese education. Comparative Education, 25(3),
+293–302.
+Ertl, H. (2006). Cross-national attraction in education. Accounts from England and Germany. Oxford:
+Symposium.
+Foster, P. (1998). Foreword. In H. J. Noah & M. A. Eckstein. Doing comparative education: Three decades
+of collaboration (pp. 1–8). Hong Kong: CERC Studies in Comparative Education.
+Glenn, D. (2005). Cloak and classroom. Many social scientists say a new government program will turn
+fieldwork abroad into spying. Can secrecy coexist with academic openness? Chronicle of Higher
+Education, 51(29), A14.
+Hammersley, M. (2001). On Michael Bassey’s concept of the fuzzy generalization. Oxford Review of
+Education, 27(2), 219–225.
+Holmes, B. (1981). Comparative education: Some considerations of method. London: Allen & Unwin.
+Kamens, D. H., & Benavot, A. (2006). World models of secondary education, 1960–2000. In A. Benavot &
+C. Braslavsky (Eds.), School knowledge in comparative and historical perspective. Changing curricula
+in primary and secondary education (pp. 135–154). Hong Kong: Comparative Education Research
+Centre, University of Hong & Springer.
+Kazamias, A. (2001). Re-inventing the Historical in Comparative Education: reflections on a protean episteme by a contemporary player. Comparative Education, 37(4), 439–449.
+Kelly, G. P. (1992). Debates and trends in comparative education. In R. F. Arnove, P. G. Altbach & G. P.
+Kelly (Eds.), Emergent Issues in Education: Comparative Perspectives. Albany: State University of
+New York Press.
+Liebowitz, R. D. (2006). What America must do to achieve competence. Chronicle of Higher Education,
+52(29), B29.
+Luhmann, N. (1990). Essays on self-reference. New York: Columbia University Press.
+Masemann, V. (2006). Afterword. Current Issues in Comparative Education, 8(2), 104–111.
+Meyer, J. W., & Ramirez, F. O. (2000). The world institutionalization of education. In J. Schriewer (Ed.),
+Discourse formation in comparative education (pp. 111–132). Frankfurt/M: Lang.
+Noah, H. J. (2006). Video-recorded interview. In G. Steiner-Khamsi & E. M. Johnson, producers,
+Comparatively speaking: The first 50 years of the Comparative and International Education Society.
+New York: Teachers College, Columbia University and CIES.
+Noah, H. J., & Eckstein, M. A. (1969). Towards a science of comparative education. New York:
+Macmillan.
+Office of Education (1963). Report on the National Defense Education Act. Fiscal year 1963. Washington,
+D.C.: US Department of Health, Education, and Welfare, Office of Education.
+Paulston, R. G. (1993). Mapping discourse in comparative education. Compare, 23(2), 101–114.
+Phillips, D. (2004). Toward a theory of policy attraction in education. In G. Steiner-Khamsi (Ed.), The global
+politics of educational borrowing and lending (pp. 54–67). New York: Teachers College Press.
+Pratt, N. (2003). On Martyn Hammersley’s critique of Bassey’s concept of the fuzzy generalization. Oxford
+Review of Education, 29(1), 27–32.
+Przeworski, A., & Teune, H. (1970). The logic of comparative social inquiry. New York: Wiley.
+Ragin, C. C. (1997). Turning the tables: How case-oriented research challenges variable-oriented research.
+Comparative Social Research, 16, 27–42.
+Ramirez, F. P. (2003). The global model and national legacies. In K. Anderson-Levitt (Ed.), Local
+meanings, global schooling. Anthropology and world culture theory (pp. 239–254). New York: Palgrave
+Macmillan.
+Rosen, L. (2003). The politics of identity and the marketization of U.S. schools: How local meanings
+mediate global struggles. In K. Anderson-Levitt (Ed.), Local meanings, global schooling. Anthropology
+and world culture theory (pp. 161–182). New York: Palgrave Macmillan.
+Schriewer, J. (1990). The method of comparison and the need for externalization: Methodological criteria
+and sociological concepts. In J. Schriewer (Ed.), in cooperation with B. Holmes, Theories and methods
+in comparative education (pp. 25–83). Frankfurt/M, Germany: Lang.
+
+--- [PDF Page 1131 / Book Page 1156] ---
+
+1158
+
+Steiner-Khamsi
+
+Schriewer, J., & Martinez, C. (2004). Constructions of internationality in education. In G. Steiner-Khamsi
+(Ed.), The global politics of educational borrowing and lending (pp. 29–53). New York: Teachers
+College Press.
+Schriewer, J., Henze, J., Wichmann, J., Knost, P., Barucha, S., & Taubert, J. (1998). Konstruktion von
+Internationaliltät: Referenzhorizonte pädagogischen wissens im wandel gesellschaftlicher systeme
+(Spanien, Sowjetunion/Russland, China). [The construction of internationality: Reference horizons
+of educational knowledge and social change]. In H. Kaelble & J. Schriewer (Eds.), Gesellschaften
+im Vergleich. Forschungen aus Sozial- und Geschichtswissenschaften (pp. 151–258). Frankfurt/
+M: Lang.
+Senate of the United States (2006). New National Defense Education Act of 2006. Session of the Senate of
+the United States, 13 June 2006. Accessed 2 July 2006: http://www.govtrack.us/congress.
+Stambach, A. (2003). World-cultural and anthropological interpretations of “choice programming” in
+Tanzania. In K. Anderson-Levitt (Ed.), Local meanings, global schooling. Anthropology and world culture theory (pp. 141–160). New York: Palgrave Macmillan.
+Steiner-Khamsi, G. (2002). Re-framing educational borrowing as a policy strategy. In M. Caruso & H.-E.
+Tenorth (Eds.), Internationalisierung – Internationalisation (pp. 57–89). Frankfurt/M: Lang.
+Steiner-Khamsi, G. (2004). Conclusion. Blazing a trail for policy theory and practice. In G. Steiner-Khamsi
+(Ed.), The global politics of educational borrowing and lending (pp. 201–220). New York: Teachers
+College Press.
+Steiner-Khamsi, G. (2006). The development turn in comparative education. European Education, 38(3),
+19–47.
+Steiner-Khamsi, G. & deJong-Lambert, W. (2006). The international race over the patronage of the South:
+Comparative and international education in Eastern Europe and the United States. Current Issues in
+Comparative Education, 8(2), 84–94.
+Steiner-Khamsi, G. & Quist, H. O. (2000). The politics of educational borrowing: Reopening the case of
+Achimota in British Ghana. Comparative Education Review, 44(3), 272–299.
+Steiner-Khamsi, G. & Stolpe, I. (2006). Educational import. Local encounter with global forces in Mongolia.
+New York: Palgrave Macmillan.
+Steiner-Khamsi, G., Torney-Purta, J., & Schwille, J. (2002). Introduction. Issues and insights in crossnational analysis of qualitative studies. In Steiner-Khamsi, G., Torney-Purta, J. & Schwille, J. (Eds.),
+New paradigms and recurring paradoxes in education for citizenship: An international comparison
+(pp. 1–36). Oxford: Elsevier.
+Tilly, C. (1997). Means and ends of comparison in macrosociology. Comparative Social Research, 16,
+43–53.
+Tilly, C. (1998). Micro, macro, and megrim. In J. Schlumbohm (Ed.), Mikrogeschichte – Makrogeschichte:
+komplementär oder inkommensurabel? (pp. 34–51). Göttingen: Wallstein.
+Tsuneyoshi, R. (2004). The new Japanese educational reforms and the achievement “crisis” debate.
+Educational Policy, 18(2), 364–394.
+Welch, A. (2000). New times, hard times: Re-reading comparative education in an age of discontent. In
+J. Schriewer (Ed.), Discourse formation in comparative education (pp. 189–225). Frankfurt/M: Lang.
+

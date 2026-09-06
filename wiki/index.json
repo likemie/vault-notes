@@ -340,6 +340,18 @@
     ]
   },
   {
+    "title": "Academic Iconography",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Academic Iconography.md",
+    "aliases": [
+      "学科肖像学",
+      "学术肖像学",
+      "比较教育学肖像学",
+      "Iconography in Comparative Education",
+      "Disciplinary Iconography"
+    ]
+  },
+  {
     "title": "Agendas of Attention",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Agendas of Attention.md",
@@ -359,12 +371,46 @@
     ]
   },
   {
+    "title": "Auslandspadagogik",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Auslandspadagogik.md",
+    "aliases": [
+      "外国教育学",
+      "Auslandspädagogik",
+      "外国教育研究",
+      "异域教育学"
+    ]
+  },
+  {
     "title": "Circular Transfer",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Circular Transfer.md",
     "aliases": [
       "循环转移",
       "circular transfer"
+    ]
+  },
+  {
+    "title": "Common School Movement",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Common School Movement.md",
+    "aliases": [
+      "公学运动",
+      "公共学校运动",
+      "Common School",
+      "公共学校",
+      "American Common School Movement",
+      "common school reform"
+    ]
+  },
+  {
+    "title": "Comparative History of Comparative Education",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Comparative History of Comparative Education.md",
+    "aliases": [
+      "比较教育学的比较史",
+      "比较教育学比较史",
+      "比较教育学的比较历史"
     ]
   },
   {
@@ -437,6 +483,16 @@
       "情境免疫",
       "本土文化免疫",
       "免疫反应"
+    ]
+  },
+  {
+    "title": "Educational Meliorism",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Educational Meliorism.md",
+    "aliases": [
+      "教育改良主义",
+      "Meliorism",
+      "改良主义"
     ]
   },
   {
@@ -675,7 +731,9 @@
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Policy Borrowing.md",
     "aliases": [
-      "政策借用"
+      "政策借用",
+      "Educational Borrowing",
+      "教育借用"
     ]
   },
   {
@@ -1707,6 +1765,19 @@
       "经验教育",
       "experiential learning",
       "experiential education"
+    ]
+  },
+  {
+    "title": "Faculty Psychology",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Faculty Psychology.md",
+    "aliases": [
+      "官能心理学",
+      "心灵官能心理学",
+      "faculty psychology",
+      "心智能力说",
+      "官能心理学说",
+      "mental faculties"
     ]
   },
   {
@@ -3196,8 +3267,7 @@
       "Hallucination in AI",
       "Machine Hallucination",
       "Algorithmic Hallucination",
-      "LLM Hallucination",
-      "幻觉"
+      "LLM Hallucination"
     ]
   },
   {
@@ -8779,7 +8849,9 @@
     "aliases": [
       "实证主义",
       "positivist approach",
-      "positivist paradigm"
+      "positivist paradigm",
+      "实证主义范式",
+      "实证主义学说"
     ]
   },
   {
@@ -9348,7 +9420,8 @@
       "科学方法",
       "empirical science",
       "经验科学",
-      "scientific approach"
+      "scientific approach",
+      "科学探究方法"
     ]
   },
   {
@@ -15223,7 +15296,8 @@
     "path": "wiki/persons/france/Auguste Comte.md",
     "aliases": [
       "奥古斯特·孔德",
-      "Comte"
+      "孔德",
+      "Isidore Marie Auguste François Xavier Comte"
     ]
   },
   {
@@ -15274,6 +15348,18 @@
     ]
   },
   {
+    "title": "Marc-Antoine Jullien",
+    "type": "person",
+    "path": "wiki/persons/france/Marc-Antoine Jullien.md",
+    "aliases": [
+      "Jullien, M.",
+      "Marc-Antoine Jullien de Paris",
+      "Jullien de Paris",
+      "马克-安托万·朱利安",
+      "朱利安"
+    ]
+  },
+  {
     "title": "Pierre Bourdieu",
     "type": "person",
     "path": "wiki/persons/france/Pierre Bourdieu.md",
@@ -15290,6 +15376,16 @@
     "aliases": [
       "Descartes, R.",
       "笛卡尔"
+    ]
+  },
+  {
+    "title": "Victor Cousin",
+    "type": "person",
+    "path": "wiki/persons/france/Victor Cousin.md",
+    "aliases": [
+      "Cousin, V.",
+      "维克多·库森",
+      "库森"
     ]
   },
   {
@@ -16269,6 +16365,21 @@
     ]
   },
   {
+    "title": "Calvin Stowe",
+    "type": "person",
+    "path": "wiki/persons/us/Calvin Stowe.md",
+    "aliases": [
+      "卡尔文·斯托",
+      "Calvin Ellis Stowe",
+      "C. E. Stowe",
+      "卡尔文·埃利斯·斯托",
+      "Stowe, C. E.",
+      "Stowe, C.",
+      "Stowe (1837)",
+      "Stowe, 1837"
+    ]
+  },
+  {
     "title": "Catherine Lewis",
     "type": "person",
     "path": "wiki/persons/us/Catherine Lewis.md",
@@ -16346,6 +16457,18 @@
     ]
   },
   {
+    "title": "George Bereday",
+    "type": "person",
+    "path": "wiki/persons/us/George Bereday.md",
+    "aliases": [
+      "Bereday, G. Z. F.",
+      "George Z. F. Bereday",
+      "George Zygmunt Fijalkowski Bereday",
+      "乔治·贝雷迪",
+      "贝雷迪"
+    ]
+  },
+  {
     "title": "George Herbert Mead",
     "type": "person",
     "path": "wiki/persons/us/George Herbert Mead.md",
@@ -16372,7 +16495,8 @@
     "path": "wiki/persons/us/Gita Steiner-Khamsi.md",
     "aliases": [
       "Steiner-Khamsi, G.",
-      "吉塔·施泰纳-卡姆西"
+      "吉塔·施泰纳-卡姆西",
+      "吉塔·斯泰纳-哈姆西"
     ]
   },
   {
@@ -16391,6 +16515,30 @@
     "aliases": [
       "哈罗德·加芬克尔",
       "Garfinkel"
+    ]
+  },
+  {
+    "title": "Harold Noah",
+    "type": "person",
+    "path": "wiki/persons/us/Harold Noah.md",
+    "aliases": [
+      "Noah, H. J.",
+      "Harold J. Noah",
+      "哈罗德·诺亚",
+      "诺亚"
+    ]
+  },
+  {
+    "title": "Henry Barnard",
+    "type": "person",
+    "path": "wiki/persons/us/Henry Barnard.md",
+    "aliases": [
+      "亨利·巴纳德",
+      "Barnard, H.",
+      "Barnard (1872)",
+      "Barnard, 1872",
+      "Barnard (1854)",
+      "Barnard, 1854"
     ]
   },
   {
@@ -16419,6 +16567,27 @@
     "aliases": [
       "Taba, H.",
       "希尔达·塔巴"
+    ]
+  },
+  {
+    "title": "Horace Mann",
+    "type": "person",
+    "path": "wiki/persons/us/Horace Mann.md",
+    "aliases": [
+      "Mann, H.",
+      "霍勒斯·曼",
+      "曼"
+    ]
+  },
+  {
+    "title": "Isaac Kandel",
+    "type": "person",
+    "path": "wiki/persons/us/Isaac Kandel.md",
+    "aliases": [
+      "Kandel, I. L.",
+      "Isaac Leon Kandel",
+      "艾萨克·坎德尔",
+      "坎德尔"
     ]
   },
   {
@@ -16537,6 +16706,17 @@
       "马克·A·朗科",
       "马克·朗科",
       "Mark Runco"
+    ]
+  },
+  {
+    "title": "Max Eckstein",
+    "type": "person",
+    "path": "wiki/persons/us/Max Eckstein.md",
+    "aliases": [
+      "Eckstein, M. A.",
+      "Max A. Eckstein",
+      "马克斯·埃克斯坦",
+      "埃克斯坦"
     ]
   },
   {
@@ -17685,6 +17865,17 @@
     "aliases": [
       "French Class Size Reduction 2017",
       "法国2017年班额缩减政策"
+    ]
+  },
+  {
+    "title": "Guizot Law of 1833",
+    "type": "fact",
+    "path": "wiki/facts/france/Guizot Law of 1833.md",
+    "aliases": [
+      "1833年基佐法案",
+      "基佐法案",
+      "Loi Guizot",
+      "Guizot Law"
     ]
   },
   {
@@ -19597,7 +19788,8 @@
     "aliases": [
       "比较与国际教育学会",
       "CIES",
-      "Comparative Education Society"
+      "Comparative Education Society",
+      "CES"
     ]
   },
   {
@@ -20508,6 +20700,21 @@
     "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29",
     "type": "argument",
     "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29.md"
+  },
+  {
+    "title": "Argument_Cowen(Ed.)_2009_Springer",
+    "type": "argument",
+    "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Cowen(Ed.)_2009_Springer.md"
+  },
+  {
+    "title": "Argument_Cowen_2009_HistoryCreation",
+    "type": "argument",
+    "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Cowen_2009_HistoryCreation.md"
+  },
+  {
+    "title": "Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings",
+    "type": "argument",
+    "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings.md"
   },
   {
     "title": "Argument_Creswell_2022_SAGE",

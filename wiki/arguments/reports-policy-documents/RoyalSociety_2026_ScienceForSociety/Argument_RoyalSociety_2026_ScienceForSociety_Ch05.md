@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch05"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch05"
 argument_display_title: "Chapter five: Policy"
 argument_kind: "book-chapter"
-argument_related_count: 34
+argument_related_count: 33
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -43,7 +43,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Scientific Literacy]]"
-  - "[[AI Hallucination]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Policy Science in Comparative Education]]"
   - "[[Post-Normal Science]]"
@@ -233,7 +232,7 @@ updated: 2026-09-04
 > [!challenges] 议员科学信息鉴别的能力短板与新兴技术风险
 > 1. **新任议员对权威科学中介尤为疏离** 2024 年大选后进入议会的新生代议员中，使用权威法定科学信源的比例处于显著少数，仅 22% 提及 POST，仅 12% 查阅国家学术院综合报告。
 > 2. **科学证据可靠性判断规程缺失** 议员在面对海量互联网信息与精美游说简报时，缺乏经过同行评议验证的科学可靠性与稳健性甄别规程，易受带有立场偏见的材料误导。
-> 3. **生成式人工智能渗透带来的隐性风险** 尽管仅 5% 议员自述使用 AI，但主流商业搜索引擎已深度内嵌生成式 AI 摘要，议员及其助手在检索中正承受算法[[AI Hallucination|幻觉]]与偏见隐性渗透的风险。（p. 82）
+> 3. **生成式人工智能渗透带来的隐性风险** 尽管仅 5% 议员自述使用 AI，但主流商业搜索引擎已深度内嵌生成式 AI 摘要，议员及其助手在检索中正承受算法幻觉与偏见隐性渗透的风险。（p. 82）
 
 > [!case] 案例研究四：智库与倡导团体对议会立法的定向议程设置（pp. 82–83）
 > 议员对智库信源的高依赖性（55%）构成立法科学性的一大隐患：

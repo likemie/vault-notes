@@ -1,0 +1,1515 @@
+================================================================================
+Front Matter: Title, Series, Copyright, Preface, and Table of Contents
+Book: International Handbook of Comparative Education (2009)
+Editors: Robert Cowen and Andreas M. Kazamias (Section Editor: Elaine Unterhalter)
+Publisher: Springer (Dordrecht, Heidelberg, London, New York)
+Book Pages: pp. i–xiii
+PDF Pages: pp. 1–27 (in raw/比较教育学国际手册2009Cowen.pdf)
+================================================================================
+
+--- [PDF Page 1] ---
+
+
+
+--- [PDF Page 2] ---
+
+INTERNATIONAL HANDBOOK OF COMPARATIVE EDUCATION
+
+--- [PDF Page 3] ---
+
+Springer International Handbooks of Education
+VOLUME 22
+
+For other titles published in this series, go to
+www.springer.com/series/6189.
+
+--- [PDF Page 4] ---
+
+International Handbook
+of Comparative Education
+Part One
+Editors
+Robert Cowen
+Institute of Education, University of London, UK
+and
+
+Andreas M. Kazamias
+Universities of Wisconsin-Madison (USA) and Athens (Greece)
+
+Section Editor (Postcolonialism)
+Elaine Unterhalter
+Institute of Education, University of London, UK
+
+--- [PDF Page 5] ---
+
+Professor Robert Cowen
+Institute of Education
+University of London
+20 Bedford Way
+London, WC1H 0AL
+UK
+
+Professor Andreas M. Kazamias
+Department of Educational Policy Studies
+University of Wisconsin-Madison
+Madison WI 53711
+USA
+
+ISBN 978-1-4020-6402-9
+e-ISBN 978-1-4020-6403-6
+Springer Dordrecht Heidelberg London New York
+Library of Congress Control Number: 2008932354
+© Springer Science + Business Media B.V. 2009
+No part of this work may be reproduced, stored in a retrieval system, or transmitted in any form or by
+any means, electronic, mechanical, photocopying, microfilming, recording or otherwise, without written
+permission from the Publisher, with the exception of any material supplied specifically for the purpose of
+being entered and executed on a computer system, for exclusive use by the purchaser of the work.
+Printed on acid-free paper
+Springer is part of Springer Science+Business Media (www.springer.com)
+
+--- [PDF Page 6] ---
+
+PREFACE
+
+A big project like this Handbook means that you incur debts, and not only to your
+authors and your publisher. As editors we, along with our colleague Elaine Unterhalter
+who edited the section on postcolonialism, would like to thank most warmly those
+authors who delivered on time, and who did not fuss but just got on and did a firstrate job. We would also like to thank all authors who did deliver – which was almost
+everyone we asked. We know that some of our authors worked in very difficult private
+circumstances as they were finishing their chapters and we hope the publication of
+the Volumes will, later, be for them a happy reminder of difficulties and disasters
+overcome.
+The only sad theme is that some very close colleagues, with whom we were working and for whom we had the greatest respect and liking, became very ill (and died)
+while the volumes were being prepared. We decided to ask for copyright permissions
+to publish something of theirs. These permissions were graciously given by two major
+journals and with the agreement also of our publishers Springer, Rolland Paulston and
+Terry McLaughlin have examples of their writing in this Handbook.
+We know it is going to embarrass her and she no doubt will take advantage of working in the same building to reprove Bob Cowen directly, but we wanted especially to
+note the major contribution to these Volumes of Elaine Unterhalter who combines a
+genuine independence of mind and spirit with a charming sense of what it is to work
+in a small team, to soak up pressure and to deliver on time. We are very grateful to
+her and to her colleague Helen Paulsen who provided us with technically perfect copy,
+address lists, Notes on Authors, Abstracts, and so on. We had problems enough of our
+own – it was a treat to deal with another small team that did the job faster, more neatly,
+and with less fuss.
+Our two institutions – the Institute of Education within the University of London
+and the University of Wisconsin-Madison – provided crucial infrastructures for
+controlling the project, notably computing services backed by the inestimable assistance
+of Apple specialist Jem Dowse in the Institute and the last-minute computer skills of
+Lefteris Klerides which helped keep Bob Cowen calmer than he thought he was going
+to be.
+However, it was not just an infrastructure thing. Both of us were in each other’s
+universities from time to time and Bob Cowen would like to thank Tom Popkewitz
+and Mike Apple who made him feel especially welcome in Wisconsin and Andreas
+v
+
+--- [PDF Page 7] ---
+
+vi Preface
+
+Kazamias would like to thank Jagdish Gundara and Gerald Grace who made him feel
+especially welcome inside the Institute of Education. Much of the project was actually
+edited in a small office inside Bob Cowen’s new ‘department’ – Curriculum, Pedagogy,
+and Assessment – in the Institute of Education which was reorganized internally during
+the life of this project. He would like to thank colleagues within Curriculum, Pedagogy,
+and Assessment for welcoming a relative stranger – especially Denis Lawton with whom
+Bob (and Andreas for much of this project) was privileged to share a room. With the
+calm wisdom for which Denis is famed, he planned his visits to the Institute with
+exquisite care for quite some time.
+We thank him and all other colleagues in many countries – it is the unexpected extra
+kindnesses which is so touching – for their help and support. The project finally got
+completed. We are still not exactly sure how; but it did. Like many other people we
+also look forward to reading the Volumes. It is difficult to grasp their full scope and
+complexity. They contain some surprises and a flurry of implications – captured in the
+writing of our authors – for future work in comparative education.
+Robert Cowen and Andreas Kazamias
+March 2009
+
+--- [PDF Page 8] ---
+
+TABLE OF CONTENTS
+
+Preface
+
+v
+
+Section 1: The Creation and Re-creation of a Field
+1 Joint Editorial Introduction
+Robert Cowen and Andreas Kazamias
+
+3
+
+2 On History and on The Creation of Comparative Education
+Robert Cowen
+
+7
+
+3 The Modernist Beginnings of Comparative Education:
+The Proto-scientific and The Reformist-meliorist
+Administrative Motif
+Pella Kaloyannaki and Andreas M. Kazamias
+4 Forgotten Men, Forgotten Themes: The Historical-philosophicalcultural and Liberal Humanist Motif in Comparative Education
+Andreas M. Kazamias
+5 The Scientific Paradigm in Comparative Education
+Dimitris Mattheou
+6 Theories of The State, Educational Expansion, Development,
+and Globalizations: Marxian and Critical Approaches
+Liliana Esther Olmos and Carlos Alberto Torres
+7 Comparative Education in Europe
+Wolfgang Mitter
+
+11
+
+37
+59
+
+73
+87
+
+8 World-systems Analysis and Comparative Education
+in the Age of Globalization
+Robert F. Arnove
+
+101
+
+9
+
+121
+
+Reflections on the Development of Comparative Education
+Val D. Rust, Brian Johnstone, and Carine Allaf
+
+vii
+
+--- [PDF Page 9] ---
+
+viii Table of Contents
+
+10
+
+Comparative Education: Historical Reflections
+Andreas M. Kazamias
+
+139
+
+Section 2: Political Formations and Educational Systems
+11
+
+Paideia and Politeia: Education, and The Polity/state
+in Comparative Education
+Andreas M. Kazamias
+
+12
+
+Empires and Education: The British Empire
+Gary McCulloch
+
+13
+
+Comparing Colonial Education Discourses in the French
+and Portuguese African Empires: An Essay on Hybridization
+Ana Isabel Madeira
+
+161
+169
+
+181
+
+14
+
+Education and State Formation in Italy
+Donatella Palomba
+
+15
+
+Social Change and Configurations of Rhetoric:
+Schooling and Social Exclusion–inclusion in Educational
+Reform in Contemporary Spain
+Miguel A. Pereyra, J. Carlos González Faraco,
+Antonio Luzón, and Mónica Torres
+
+217
+
+Modernity, State-formation, Nation Building,
+and Education in Greece
+Andreas M. Kazamias
+
+239
+
+16
+
+195
+
+17
+
+The Developmental State, Social Change, and Education
+Wing-Wah Law
+
+257
+
+18
+
+The Developing States and Education: Africa
+John Metzler
+
+277
+
+19
+
+Varieties of Educational Transformation:
+The Post-socialist States of Central/southeastern
+Europe and the Former Soviet Union
+Iveta Silova
+
+20
+
+The European Union and Education in Spain
+José Luis García Garrido
+
+295
+321
+
+Section 3: The National, The International, and The Global
+21
+
+Editorial Introduction: The National,
+The International, and The Global
+Robert Cowen
+
+337
+
+--- [PDF Page 10] ---
+
+Table of Contents ix
+
+22
+
+Who is Strolling Through The Global Garden?
+International Agencies and Educational Transfer
+Jason Beech
+
+341
+
+23
+
+Mobility, Migration and Minorities in Education
+Noah W. Sobe and Melissa G. Fischer
+
+24
+
+Fundamentalisms and Secularisms: Education
+and La Longue Durée
+David Coulby
+
+373
+
+The Double Gestures of Cosmopolitanism and Comparative
+Studies of Education
+Thomas S. Popkewitz
+
+385
+
+Multicultural Education in a Global Context: Addressing
+The Varied Perspectives and Themes
+Carl A. Grant and Ayesha Khurshid
+
+403
+
+25
+
+26
+
+359
+
+27
+
+International Development Education
+Nancy Kendall
+
+417
+
+28
+
+The OECD and Global Shifts in Education Policy
+Fazal Rizvi and Bob Lingard
+
+437
+
+29
+
+Can Multilateral Banks Educate The World?
+Claudio De Moura Castro
+
+455
+
+30
+
+Towards The European Panopticon: EU Discourses
+and Policies in Education and Training 1992–2007
+George Pasias and Yiannis Roussakis
+
+479
+
+Section 4: Industrialisation, Knowledge Economies and Education
+31
+
+32
+
+33
+
+34
+
+Editorial Introduction: Industrialisation, Knowledge Societies
+and Education
+Robert Cowen
+
+499
+
+Industrialization and Public Education: Social Cohesion
+and Social Stratification
+Jim Carl
+
+503
+
+Industrialisation, Knowledge Economies and Educational
+Change: A Note on Argentina and Brazil
+Márcia Cristina Passos Ferreira
+
+519
+
+Education, Jobs, and Vocational Training
+Leslie Bash
+
+539
+
+--- [PDF Page 11] ---
+
+x Table of Contents
+
+35
+
+36
+
+37
+
+38
+
+The Evaluative State as Policy in Transition:
+A Historical and Anatomical Study
+Guy Neave
+
+551
+
+From Coherence to Differentiation: Understanding (Changes In)
+The European Area for Higher Education and Research
+Wim Weymans
+
+569
+
+Mammon, Markets, and Managerialism – Asia-Pacific
+Perspectives on Contemporary Educational Reforms
+Anthony Welch
+
+587
+
+Lifelong Learning and Globalisation: Towards a Structural
+Comparative Model
+Peter Jarvis
+
+601
+
+39
+
+Education in Network Society: Critical Reflections
+Eva Gamarnikow
+
+40
+
+Education and Economic Development: Evaluations
+and Ideologies
+Eleni Karatzia-Stavlioti and Haris Lambropoulos
+
+619
+
+633
+
+Section 5: Postcolonialism
+41
+
+Editorial Introduction
+Elaine Unterhalter
+
+42
+
+Reflecting on Postcolonialism and Education: Tensions
+and Dilemmas of an Insider
+Vinathe Sharma-Brymer
+
+655
+
+Democratic Inequalities: The Dilemma of Elementary
+Education in India
+Vimala Ramachandran
+
+669
+
+Curriculum Reform in Sub-Saharan Africa:
+When Local Meets Global
+Linda Chisholm and Ramon Leyendecker
+
+685
+
+Gender and Education in Developing Contexts: Postcolonial
+Reflections on Africa
+Deevia Bhana, Robert Morrell, and Rob Pattman
+
+703
+
+Reinventing Educational Spaces, Building Active Citizenship:
+Two Brazilian Experiences
+Tristan McCowan and Luís Armando Gandin
+
+715
+
+43
+
+44
+
+45
+
+46
+
+47
+
+Perspectives on Children and Violence
+Jenny Parkes
+
+653
+
+733
+
+--- [PDF Page 12] ---
+
+Table of Contents xi
+
+48
+
+49
+
+50
+
+An Indigenous Discourse to Cradle our Cognitive Heritage
+and Script our Aspirations: Reflections from India and Africa
+Anita Rampal
+
+749
+
+Human Rights and the Limitations of Releasing Subaltern
+Voices in a Post-Apartheid South Africa
+Nazir Carrim
+
+765
+
+Social Justice, Development Theory and the
+Question of Education
+Elaine Unterhalter
+
+781
+
+Section 6: Cultures, Knowledge and Pedagogies
+51
+
+52
+
+53
+
+54
+
+55
+
+On Educational Knowledge – A Neglected Theme
+in Comparative Education
+Andreas Kazamias
+
+803
+
+What Knowledge is of Most Worth? An Old Question
+Revisited in England
+Denis Lawton
+
+813
+
+The Enlightenment and Religion, Knowledge and
+Pedagogies in Europe
+Thyge Winther-Jensen
+
+823
+
+The Church and the State in Argentina and Brazil:
+Knowledge, Religion and Pedagogy
+Maria C. M. De Figueiredo-Cowen and Silvina Gvirtz
+
+837
+
+Confucianism, Modernities and Knowledge: China,
+South Korea and Japan
+Terri Kim
+
+857
+
+56
+
+Hinduism, Modernity and Knowledge: India
+Joseph W. Elder
+
+57
+
+Reflections on Educational Transitions in Egypt, Lebanon
+and Turkey
+Jennifer Ashkenazi
+
+873
+
+889
+
+58
+
+Christianity, Modernities and Knowledge
+Gerald Grace
+
+907
+
+59
+
+Towards a Comparative Pedagogy
+Robin Alexander
+
+923
+
+60
+
+Pedagogical and Educational Change for Sustainable
+Knowledge Societies
+Andy Hargreaves
+
+943
+
+--- [PDF Page 13] ---
+
+xii Table of Contents
+
+Section 7: New Thinking
+61
+
+Editorial Introduction: New Thinking
+Robert Cowen
+
+961
+
+62
+
+Mapping Comparative Education after Postmodernity
+Rolland G. Paulston
+
+965
+
+63
+
+Politics, Theory, and Reality in Critical Pedagogy
+Michael W. Apple and Wayne Au
+
+991
+
+64
+
+The Future of Intercultural Studies in Multicultural Societies
+Jagdish S. Gundara
+
+1009
+
+65
+
+Feminism, Liberation, and Education
+Nelly P. Stromquist
+
+1027
+
+66
+
+Comparative Education, Postmodernity and Historical
+Research: Honouring Ancestors
+Marianne A. Larsen
+
+67
+
+Aspects of Educational Transfer
+David Phillips
+
+68
+
+Agamemnon Contra Prometheus: Globalisation,
+Knowledge/learning Societies and Paideia in the
+New Cosmopolis
+Andreas M. Kazamias
+
+69
+
+70
+
+Beyond Methodological ‘Isms’ in Comparative Education
+in an Era of Globalisation
+Roger Dale and Susan Robertson
+Education, Philosophy and the Comparative Perspective
+Terence H. McLaughlin
+
+1045
+1061
+
+1079
+
+1113
+1129
+
+Section 8: The Cutting Edge - Questioning the Future
+71
+
+Comparison: Quo Vadis?
+Gita Steiner-Khamsi
+
+72
+
+Digital Technology and Education: Context,
+Pedagogy and Social Relations
+Andrew Brown
+
+73
+
+Rethinking Context in Comparative Education
+Michael Crossley
+
+74
+
+Big Stories, Small Stories: Beyond Disputatious
+Theory Towards ‘Multilogue’
+Sonia Mehta
+
+1143
+
+1159
+1173
+
+1189
+
+--- [PDF Page 14] ---
+
+Table of Contents xiii
+
+75
+
+76
+
+77
+
+78
+
+Comparative Education in Two Asian Contexts:
+A Juxtaposition and Some Questions
+Chengxu Wang, Jianhong Dong, and Masako Shibata
+
+1209
+
+National Cultural Identities, Discourse Analysis
+and Comparative Education
+Eleftherios Klerides
+
+1225
+
+Time for a Scientific Revolution? From Comparative
+Education to Comparative Learnology
+Patricia Broadfoot
+
+1249
+
+Reclaiming a Lost Legacy: The Historical Humanist
+Vision in Comparative Education
+Andreas M. Kazamias
+
+1267
+
+79
+
+Then and Now: Unit Ideas and Comparative Education
+Robert Cowen
+
+1277
+
+80
+
+Conclusion
+Robert Cowen and Andreas M. Kazamias
+
+1295
+
+Biographical Notes
+
+1297
+
+Subject Index
+
+1319
+
+Author Index
+
+1327
+
+--- [PDF Page 15] ---
+
+INTERNATIONAL HANDBOOK OF COMPARATIVE EDUCATION
+
+--- [PDF Page 16] ---
+
+Springer International Handbooks of Education
+VOLUME 22
+
+For other titles published in this series, go to
+www.springer.com/series/6189.
+
+--- [PDF Page 17] ---
+
+International Handbook
+of Comparative Education
+Part Two
+Editors
+Robert Cowen
+Institute of Education, University of London, UK
+and
+
+Andreas M. Kazamias
+Universities of Wisconsin-Madison (USA) and Athens (Greece)
+
+Section Editor (Postcolonialism)
+Elaine Unterhalter
+Institute of Education, University of London, UK
+
+--- [PDF Page 18] ---
+
+Professor Robert Cowen
+Institute of Education
+University of London
+20 Bedford Way
+London, WC1H 0AL
+UK
+
+Professor Andreas M. Kazamias
+Department of Educational Policy Studies
+University of Wisconsin-Madison
+Madison WI 53711
+USA
+
+ISBN 978-1-4020-6402-9
+e-ISBN 978-1-4020-6403-6
+Springer Dordrecht Heidelberg London New York
+Library of Congress Control Number: 2008932354
+© Springer Science + Business Media B.V. 2009
+No part of this work may be reproduced, stored in a retrieval system, or transmitted in any form or by
+any means, electronic, mechanical, photocopying, microfilming, recording or otherwise, without written
+permission from the Publisher, with the exception of any material supplied specifically for the purpose of
+being entered and executed on a computer system, for exclusive use by the purchaser of the work.
+Printed on acid-free paper
+Springer is part of Springer Science+Business Media (www.springer.com)
+
+--- [PDF Page 19] ---
+
+PREFACE
+
+A big project like this Handbook means that you incur debts, and not only to your
+authors and your publisher. As editors we, along with our colleague Elaine Unterhalter
+who edited the section on postcolonialism, would like to thank most warmly those
+authors who delivered on time, and who did not fuss but just got on and did a firstrate job. We would also like to thank all authors who did deliver – which was almost
+everyone we asked. We know that some of our authors worked in very difficult private
+circumstances as they were finishing their chapters and we hope the publication of
+the Volumes will, later, be for them a happy reminder of difficulties and disasters
+overcome.
+The only sad theme is that some very close colleagues, with whom we were working and for whom we had the greatest respect and liking, became very ill (and died)
+while the volumes were being prepared. We decided to ask for copyright permissions
+to publish something of theirs. These permissions were graciously given by two major
+journals and with the agreement also of our publishers Springer, Rolland Paulston and
+Terry McLaughlin have examples of their writing in this Handbook.
+We know it is going to embarrass her and she no doubt will take advantage of working in the same building to reprove Bob Cowen directly, but we wanted especially to
+note the major contribution to these Volumes of Elaine Unterhalter who combines a
+genuine independence of mind and spirit with a charming sense of what it is to work
+in a small team, to soak up pressure and to deliver on time. We are very grateful to
+her and to her colleague Helen Paulsen who provided us with technically perfect copy,
+address lists, Notes on Authors, Abstracts, and so on. We had problems enough of our
+own – it was a treat to deal with another small team that did the job faster, more neatly,
+and with less fuss.
+Our two institutions – the Institute of Education within the University of London
+and the University of Wisconsin-Madison – provided crucial infrastructures for
+controlling the project, notably computing services backed by the inestimable assistance
+of Apple specialist Jem Dowse in the Institute and the last-minute computer skills of
+Lefteris Klerides which helped keep Bob Cowen calmer than he thought he was going
+to be.
+However, it was not just an infrastructure thing. Both of us were in each other’s
+universities from time to time and Bob Cowen would like to thank Tom Popkewitz
+and Mike Apple who made him feel especially welcome in Wisconsin and Andreas
+v
+
+--- [PDF Page 20] ---
+
+vi Preface
+
+Kazamias would like to thank Jagdish Gundara and Gerald Grace who made him feel
+especially welcome inside the Institute of Education. Much of the project was actually
+edited in a small office inside Bob Cowen’s new ‘department’ – Curriculum, Pedagogy,
+and Assessment – in the Institute of Education which was reorganized internally during
+the life of this project. He would like to thank colleagues within Curriculum, Pedagogy,
+and Assessment for welcoming a relative stranger – especially Denis Lawton with whom
+Bob (and Andreas for much of this project) was privileged to share a room. With the
+calm wisdom for which Denis is famed, he planned his visits to the Institute with
+exquisite care for quite some time.
+We thank him and all other colleagues in many countries – it is the unexpected extra
+kindnesses which is so touching – for their help and support. The project finally got
+completed. We are still not exactly sure how; but it did. Like many other people we
+also look forward to reading the Volumes. It is difficult to grasp their full scope and
+complexity. They contain some surprises and a flurry of implications – captured in the
+writing of our authors – for future work in comparative education.
+Robert Cowen and Andreas Kazamias
+March 2009
+
+--- [PDF Page 21] ---
+
+TABLE OF CONTENTS
+
+Preface
+
+v
+
+Section 1: The Creation and Re-creation of a Field
+1 Joint Editorial Introduction
+Robert Cowen and Andreas Kazamias
+
+3
+
+2 On History and on The Creation of Comparative Education
+Robert Cowen
+
+7
+
+3 The Modernist Beginnings of Comparative Education:
+The Proto-scientific and The Reformist-meliorist
+Administrative Motif
+Pella Kaloyannaki and Andreas M. Kazamias
+4 Forgotten Men, Forgotten Themes: The Historical-philosophicalcultural and Liberal Humanist Motif in Comparative Education
+Andreas M. Kazamias
+5 The Scientific Paradigm in Comparative Education
+Dimitris Mattheou
+6 Theories of The State, Educational Expansion, Development,
+and Globalizations: Marxian and Critical Approaches
+Liliana Esther Olmos and Carlos Alberto Torres
+7 Comparative Education in Europe
+Wolfgang Mitter
+
+11
+
+37
+59
+
+73
+87
+
+8 World-systems Analysis and Comparative Education
+in the Age of Globalization
+Robert F. Arnove
+
+101
+
+9
+
+121
+
+Reflections on the Development of Comparative Education
+Val D. Rust, Brian Johnstone, and Carine Allaf
+
+vii
+
+--- [PDF Page 22] ---
+
+viii Table of Contents
+
+10
+
+Comparative Education: Historical Reflections
+Andreas M. Kazamias
+
+139
+
+Section 2: Political Formations and Educational Systems
+11
+
+Paideia and Politeia: Education, and The Polity/state
+in Comparative Education
+Andreas M. Kazamias
+
+12
+
+Empires and Education: The British Empire
+Gary McCulloch
+
+13
+
+Comparing Colonial Education Discourses in the French
+and Portuguese African Empires: An Essay on Hybridization
+Ana Isabel Madeira
+
+161
+169
+
+181
+
+14
+
+Education and State Formation in Italy
+Donatella Palomba
+
+15
+
+Social Change and Configurations of Rhetoric:
+Schooling and Social Exclusion–inclusion in Educational
+Reform in Contemporary Spain
+Miguel A. Pereyra, J. Carlos González Faraco,
+Antonio Luzón, and Mónica Torres
+
+217
+
+Modernity, State-formation, Nation Building,
+and Education in Greece
+Andreas M. Kazamias
+
+239
+
+16
+
+195
+
+17
+
+The Developmental State, Social Change, and Education
+Wing-Wah Law
+
+257
+
+18
+
+The Developing States and Education: Africa
+John Metzler
+
+277
+
+19
+
+Varieties of Educational Transformation:
+The Post-socialist States of Central/southeastern
+Europe and the Former Soviet Union
+Iveta Silova
+
+20
+
+The European Union and Education in Spain
+José Luis García Garrido
+
+295
+321
+
+Section 3: The National, The International, and The Global
+21
+
+Editorial Introduction: The National,
+The International, and The Global
+Robert Cowen
+
+337
+
+--- [PDF Page 23] ---
+
+Table of Contents ix
+
+22
+
+Who is Strolling Through The Global Garden?
+International Agencies and Educational Transfer
+Jason Beech
+
+341
+
+23
+
+Mobility, Migration and Minorities in Education
+Noah W. Sobe and Melissa G. Fischer
+
+24
+
+Fundamentalisms and Secularisms: Education
+and La Longue Durée
+David Coulby
+
+373
+
+The Double Gestures of Cosmopolitanism and Comparative
+Studies of Education
+Thomas S. Popkewitz
+
+385
+
+Multicultural Education in a Global Context: Addressing
+The Varied Perspectives And Themes
+Carl A. Grant and Ayesha Khurshid
+
+403
+
+25
+
+26
+
+359
+
+27
+
+International Development Education
+Nancy Kendall
+
+417
+
+28
+
+The OECD and Global Shifts in Education Policy
+Fazal Rizvi and Bob Lingard
+
+437
+
+29
+
+Can Multilateral Banks Educate The World?
+Claudio De Moura Castro
+
+455
+
+30
+
+Towards The European Panopticon: EU Discourses
+and Policies in Education and Training 1992–2007
+George Pasias and Yiannis Roussakis
+
+479
+
+Section 4: Industrialisation, Knowledge Economies and Education
+31
+
+32
+
+33
+
+34
+
+Editorial Introduction: Industrialisation, Knowledge Societies
+and Education
+Robert Cowen
+
+499
+
+Industrialization and Public Education: Social Cohesion
+and Social Stratification
+Jim Carl
+
+503
+
+Industrialisation, Knowledge Economies and Educational
+Change: A Note on Argentina and Brazil
+Márcia Cristina Passos Ferreira
+
+519
+
+Education, Jobs, and Vocational Training
+Leslie Bash
+
+539
+
+--- [PDF Page 24] ---
+
+x Table of Contents
+
+35
+
+36
+
+37
+
+38
+
+The Evaluative State as Policy in Transition:
+A Historical and Anatomical Study
+Guy Neave
+
+551
+
+From Coherence to Differentiation: Understanding (Changes In)
+The European Area for Higher Education and Research
+Wim Weymans
+
+569
+
+Mammon, Markets, and Managerialism – Asia-Pacific
+Perspectives on Contemporary Educational Reforms
+Anthony Welch
+
+587
+
+Lifelong Learning and Globalisation: Towards a Structural
+Comparative Model
+Peter Jarvis
+
+601
+
+39
+
+Education in Network Society: Critical Reflections
+Eva Gamarnikow
+
+40
+
+Education and Economic Development: Evaluations
+and Ideologies
+Eleni Karatzia-Stavlioti and Haris Lambropoulos
+
+619
+
+633
+
+Section 5: Postcolonialism
+41
+
+Editorial Introduction
+Elaine Unterhalter
+
+42
+
+Reflecting on Postcolonialism and Education: Tensions
+and Dilemmas of an Insider
+Vinathe Sharma-Brymer
+
+655
+
+Democratic Inequalities: The Dilemma of Elementary
+Education in India
+Vimala Ramachandran
+
+669
+
+Curriculum Reform in Sub-Saharan Africa:
+When Local Meets Global
+Linda Chisholm and Ramon Leyendecker
+
+685
+
+Gender and Education in Developing Contexts: Postcolonial
+Reflections on Africa
+Deevia Bhana, Robert Morrell, and Rob Pattman
+
+703
+
+Reinventing Educational Spaces, Building Active Citizenship:
+Two Brazilian Experiences
+Tristan McCowan and Luís Armando Gandin
+
+715
+
+43
+
+44
+
+45
+
+46
+
+47
+
+Perspectives on Children and Violence
+Jenny Parkes
+
+653
+
+733
+
+--- [PDF Page 25] ---
+
+Table of Contents xi
+
+48
+
+49
+
+50
+
+An Indigenous Discourse to Cradle our Cognitive Heritage
+and Script our Aspirations: Reflections from India and Africa
+Anita Rampal
+
+749
+
+Human Rights and the Limitations of Releasing Subaltern
+Voices in a Post-Apartheid South Africa
+Nazir Carrim
+
+765
+
+Social Justice, Development Theory and the
+Question of Education
+Elaine Unterhalter
+
+781
+
+Section 6: Cultures, Knowledge and Pedagogies
+51
+
+52
+
+53
+
+54
+
+55
+
+On Educational Knowledge – A Neglected Theme
+in Comparative Education
+Andreas Kazamias
+
+803
+
+What Knowledge is of Most Worth? An Old Question
+Revisited in England
+Denis Lawton
+
+813
+
+The Enlightenment and Religion, Knowledge and
+Pedagogies in Europe
+Thyge Winther-Jensen
+
+823
+
+The Church and the State in Argentina and Brazil:
+Knowledge, Religion and Pedagogy
+Maria C. M. De Figueiredo-Cowen and Silvina Gvirtz
+
+837
+
+Confucianism, Modernities and Knowledge: China,
+South Korea and Japan
+Terri Kim
+
+857
+
+56
+
+Hinduism, Modernity and Knowledge: India
+Joseph W. Elder
+
+57
+
+Reflections on Educational Transitions in Egypt, Lebanon
+and Turkey
+Jennifer Ashkenazi
+
+873
+
+889
+
+58
+
+Christianity, Modernities and Knowledge
+Gerald Grace
+
+907
+
+59
+
+Towards a Comparative Pedagogy
+Robin Alexander
+
+923
+
+60
+
+Pedagogical and Educational Change for Sustainable
+Knowledge Societies
+Andy Hargreaves
+
+943
+
+--- [PDF Page 26] ---
+
+xii Table of Contents
+
+Section 7: New Thinking
+61
+
+Editorial Introduction: New Thinking
+Robert Cowen
+
+961
+
+62
+
+Mapping Comparative Education after Postmodernity
+Rolland G. Paulston
+
+965
+
+63
+
+Politics, Theory, and Reality in Critical Pedagogy
+Michael W. Apple and Wayne Au
+
+991
+
+64
+
+The Future of Intercultural Studies in Multicultural Societies
+Jagdish S. Gundara
+
+1009
+
+65
+
+Feminism, Liberation, and Education
+Nelly P. Stromquist
+
+1027
+
+66
+
+Comparative Education, Postmodernity and Historical
+Research: Honouring Ancestors
+Marianne A. Larsen
+
+67
+
+Aspects of Educational Transfer
+David Phillips
+
+68
+
+Agamemnon Contra Prometheus: Globalisation,
+Knowledge/learning Societies and Paideia in the
+New Cosmopolis
+Andreas M. Kazamias
+
+69
+
+70
+
+Beyond Methodological ‘Isms’ in Comparative Education
+in an Era of Globalisation
+Roger Dale and Susan Robertson
+Education, Philosophy and the Comparative Perspective
+Terence H. McLaughlin
+
+1045
+1061
+
+1079
+
+1113
+1129
+
+Section 8: The Cutting Edge - Questioning the Future
+71
+
+Comparison: Quo Vadis?
+Gita Steiner-Khamsi
+
+72
+
+Digital Technology and Education: Context,
+Pedagogy and Social Relations
+Andrew Brown
+
+73
+
+Rethinking Context in Comparative Education
+Michael Crossley
+
+74
+
+Big Stories, Small Stories: Beyond Disputatious
+Theory Towards ‘Multilogue’
+Sonia Mehta
+
+1143
+
+1159
+1173
+
+1189
+
+--- [PDF Page 27] ---
+
+Table of Contents xiii
+
+75
+
+76
+
+77
+
+78
+
+Comparative Education in Two Asian Contexts:
+A Juxtaposition and Some Questions
+Chengxu Wang, Jianhong Dong, and Masako Shibata
+
+1209
+
+National Cultural Identities, Discourse Analysis
+and Comparative Education
+Eleftherios Klerides
+
+1225
+
+Time for a Scientific Revolution? From Comparative
+Education to Comparative Learnology
+Patricia Broadfoot
+
+1249
+
+Reclaiming a Lost Legacy: The Historical Humanist
+Vision in Comparative Education
+Andreas M. Kazamias
+
+1267
+
+79
+
+Then and Now: Unit Ideas and Comparative Education
+Robert Cowen
+
+1277
+
+80
+
+Conclusion
+Robert Cowen and Andreas M. Kazamias
+
+1295
+
+Biographical Notes
+
+1297
+
+Subject Index
+
+1319
+
+Author Index
+
+1327
+

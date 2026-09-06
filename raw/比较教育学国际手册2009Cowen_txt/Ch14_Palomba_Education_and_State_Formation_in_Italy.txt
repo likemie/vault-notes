@@ -1,0 +1,988 @@
+================================================================================
+Chapter 14: Education and State Formation in Italy
+Author(s): Donatella Palomba
+Handbook: International Handbook of Comparative Education (2009)
+Editors: Robert Cowen and Andreas M. Kazamias (Section Editor: Elaine Unterhalter)
+Section: Section 2: Political Formations and Educational Systems
+Book Pages: pp. 195–216
+PDF Pages: pp. 212–233 (in raw/比较教育学国际手册2009Cowen.pdf)
+================================================================================
+
+--- [PDF Page 212 / Book Page 195] ---
+
+14
+EDUCATION AND STATE FORMATION IN ITALY
+Donatella Palomba
+
+Introduction
+In many respects, the evolution of the Italian education system since the Unity of Italy
+(1861) can be investigated according to an interpretation that is not too far from the
+one usually adopted in international literature about education and state formation.
+At a deeper level, however, failing to take adequately into account the distinctive features of Italy’s socio-political situation might prevent an understanding of the process
+itself.
+This chapter is intended to make the following point: from its origin in 1861 to
+very recent years, the Italian State has constantly suffered from a lack of legitimation
+and full sovereignty, which has strongly affected all its political events and has had
+a particular influence on the raising of national awareness and the possible role of
+education therein. Although the reasons for this phenomenon have not always been
+the same during the time span considered, the full acknowledgement of the legitimacy
+and sovereignty of the Italian State has been limited for a much longer time (and more
+severely) than is emphasised, especially in the literature on Italy’s education system.
+This has brought about a somehow paradoxical situation, marked by a long-standing
+national feeling on the one hand (suffice it to remember Dante’s invettive in the Comedy
+or Petrarch’s Canzone all’Italia in the fourteenth century), and a relatively belated and
+troubled process of state formation on the other hand, with sovereignty being continuously challenged and apparently never fully achieved. In turn, this has negatively
+affected the development of a sense of belonging to the new nation state – the weakness of this sense of belonging having often been denounced from the Unity of Italy
+up until today.
+In order to understand the roots of this situation, issues of international policy and
+international balances need to be considered in the first instance. Upon the unification
+of Italy, these balances were seriously challenged by the deterioration in the relations
+with the Pope and the Vatican State. Later on, they played a key role for different
+reasons, both early in the twentieth century and after the Second World War, to an
+extent that has probably not been investigated enough yet, especially in terms of
+education.
+During the period from the Unity of Italy to the Second World War, the legitimacy of
+the Italian State was first challenged by the Pope not recognising the State itself, with
+all the implications this had both domestically and internationally in the relations with
+195
+R. Cowen and A. M. Kazamias (eds.), International Handbook of Comparative Education, 195–216.
+© Springer Science + Business Media B.V. 2009
+
+--- [PDF Page 213 / Book Page 196] ---
+
+196 Palomba
+
+European Catholic powers. Later on, the Concordat signed by Mussolini’s Government
+and the Holy See (1929) somehow settled this vulnus. Very soon, however, the authoritarian nature of the Fascist regime questioned in turn the full recognition of the Italian
+State’s democratic legitimacy vis-à-vis many other countries.
+In the years after the end of the Second World War, the newborn Italian Republic had
+to prove its bona fide democratic nature and break with its authoritarian past, on the one
+hand; on the other hand, its sovereignty – meant as the real possibility of Italy’s choosing
+its own government – was conditional on the geopolitical situation resulting from the
+Yalta Agreement reached by the victorious powers to set out post-war world balances.
+This conditioning had a profound effect on the ways in which democracy evolved in
+Italy, which needed to re-establish its institutions and, in particular, try and define the
+features of an education system that was supposed to shape the ‘new’ democratic citizen,
+according to guidelines that were particularly complicated by a tangle of domestic and
+international factors in which both Catholic and communist forces played a crucial role.
+Therefore, the deep change in international balances from 1989 onwards had a very
+strong impact on both the politics and institutions of the Italian State, by restoring
+greater autonomy while upsetting a reference framework that had lasted for almost
+five decades. That was the so-called transition to the Second Republic. This transition
+period is actually still in place and, once again, has profoundly affected the education
+system too.
+This chapter intends therefore to follow two directions: on the one hand, analysing
+the evolution, structure, and features of Italy’s education system according to an interpretation that is similar to that applicable to most other European nation states; on the
+other hand, constantly refocusing on the distinctiveness of the Italian situation as the
+key interpretation of this analysis.
+
+The Problematic Framework
+The Unity of Italy was achieved – as in other countries – through a process of reunification of areas that had been previously governed by rulers of different dynasties or
+had been under the direct rule of a foreign government (as was the case with Lombardy
+and Veneto under the Austrian Empire). In addition, a significant part of the country
+was under the Vatican State, headed by the Pope.
+As a consequence, the Italian State was founded in opposition to the Papal State,
+by first (1860) annexing most territories that had once belonged to the Pope, except
+Latium and Rome. About ten years later (in 1870), with the well-known ‘Breach of
+Porta Pia’, Italian troops marched into Rome and proclaimed it the capital of the new
+State, while the Pope retreated into the Vatican enclave. As the years went by, the conflict became less fierce, although it was not until 1929 that the Lateran Pacts signed by
+the Fascist Government led to mutual recognition, with the birth of the Vatican City
+State. Nevertheless, this recognition did not completely settle the dispute.
+There is a very extensive bibliography of historical and juridical texts on Church–
+State relations and the ‘laicity’ of the State (Veneruso, 1972, 2003; Lariccia, 1971)
+which cannot be dwelt upon here. There is no doubt, however, that education – namely
+
+--- [PDF Page 214 / Book Page 197] ---
+
+Education and State Formation in Italy 197
+
+the school system – was one of the major battlefields in the Church–State conflict,
+for quite understandable reasons. The notion of the national education system as the
+primary institution of citizens’ education – consequently involving public responsibility – clashed with the Church’s view of education as natural right of families which,
+however, must be enlightened and guided by straight faith: this implies that education
+institutions to which families must/can entrust their children cannot but be inspired by,
+and accountable to, the guardian of faith itself, i.e. the Catholic Church.
+This conflict was not something peculiar to Italy. The specificity of the situation in
+Italy was that the very legitimacy of the Italian State – and, consequently, of its educational action – had not been acknowledged by the Church for a long time, because
+the State had been established by an act of ‘aggression’ against the Papal State and
+the Pope himself was both a Head of State and universal religious authority; hence the
+contrast over education was of major significance.
+This aspect, while not being the only criterion to be taken into account for the interpretation of the history of united Italy and of its education system, should however be
+considered as the background and framework within which events took place, in order
+to realise the distinctiveness of the situation in Italy, as compared to other countries, at
+the time of the state formation.
+
+The Birth of the Italian Kingdom and the Casati Law
+In the first semester of 1859 a highly surprising event took place in the frame of the
+European political evolution: Cavour, Prime Minister of a small Italian State, the
+Kingdom of Sardinia, skilfully took advantage of Paris’s mistakes in the evaluation of
+the Italian situation and of the even greater diplomatic mistakes by Vienna. He thus succeeded in channelling the centuries-old conflict between the two mightiest European
+states, France and Austria, into a war which would lay the foundations of an Italian
+Nation State (Ugolini, 2001).
+When the two great empires, the Napoleonic and the Asburgic, realised that the only
+state to take advantage of the war was the Kingdom of Sardinia, they tried – without effect –
+to stop the fight (Villafranca’s armistice), to engage an impossible reverse motion.
+In fact Great Britain, trying to prevent at all costs the war from overflowing the
+Italian theatre and trespassing on European and worldwide territory, adopted Cavour’s
+policy, that is the thesis according to which the establishment of the Italian Kingdom
+was the price to pay to recover the international equilibrium and thus make up for
+Paris’s and Vienna’s incautious and deleterious policy.
+So in just two years, in this international context, the unification of Italy was accomplished,
+bringing about the quick establishment of a 21-million inhabitant new national state.
+By February 1861, in Turin, the Italian Parliament started its sessions, in a somewhat gloomy atmosphere for the new State that had to face several serious problems
+big enough to justify the lack of international confidence in its life expectancy.
+The first problem was related to the completion of national unity: still outside the
+kingdom’s boundaries were Veneto and Latium, and above all Rome, considered by
+acclamation as the new State’s capital. But Rome was already the capital of a state, the
+
+--- [PDF Page 215 / Book Page 198] ---
+
+198 Palomba
+
+Papal State, whose sovereign, Pius IX, also held religious powers of divine origin and
+with universal jurisdiction.
+Thus the second problem was to persuade the Pope-King to split his two powers, temporal and religious, and give up the first one. That problem had already been
+debated for many years by the international secular and catholic circles. Pius IX’s ultimate answer came – unequivocally – when, in the spring of 1860, some former papal
+territories expressed their will to recognize Vittorio Emanuele II as their own king. The
+Pope excommunicated the Piedmontese king and all those who made an attempt on his
+territories; he did not recognize the new State and consequently ordered the Catholics
+not to take part to the institutional life of the Italian kingdom. This created a deep inner
+cleavage in the new Nation and, on the international side, made it hard for Catholic
+States to recognize the Italian State.
+This international isolation made it even harder to solve another problem, maybe
+the gravest for the new ruling class: the financial crisis due to the sum of the seven
+pre-unitary states’ budget deficits. It was evident that Italy had to increase its
+income internally and cut expenditure: failing to do that would mean losing the
+newly gained independence.
+And then the issue which was perhaps the most important: one State was made out
+of seven, but there was the need to create those unifying norms (such as laws, weights,
+and measures) and those infrastructures (such as streets, railways, and postal services)
+necessary to make the unification real and to make people perceive it as an effective
+reality. To echo a famous motto, ‘once Italy had been created, Italians had to be made’,
+through many complex actions in which education (discussed below) had a role. For a
+few months, at the beginning of 1861, it was thought to have its politics managed by
+an administratively decentralized State, but the risks connected to such a hypothesis
+(catholic opposition, international isolation) forced the ruling class to take a decision
+to centralise – in an effort to reduce internal strife.
+For the preservation of the unity a basic consensus was achieved by all the political
+forces of the Italian peninsula, the liberal and conservative right wing as well as the
+democratic and revolutionary left wing. In the first 15 years of its institutional life,
+owing to such consensus, the Italian State could complete its unification. (In 1866
+Veneto was annexed, followed by Rome and Latium in 1870.) It could also achieve
+the legal, administrative, financial, and transport unification of the country and be
+recognized by the other states. Notwithstanding such positive outcomes, the problems
+related to the Catholic opposition and to the structural financial weakness intensified.
+After 1870, the Pope was far from acknowledging the loss of his temporal power: he
+declared himself ‘prisoner’ in the Vatican, and systematically incited the Catholics not
+to support the new State’s institutions (Non expedit),1 in expectation of a providential
+restoration of the status quo ante. The new State, with its structural weaknesses, just
+about had the economic strength to support the unity already achieved, but it was not
+capable of investing enough to create the hoped-for transformation from a rural to an
+industrial economy.
+Any reform in nineteenth-century Italy had to satisfy two main conditions: it had to
+cost the bare minimum needed, and it had to be able to survive the inevitable Catholic
+opposition.
+
+--- [PDF Page 216 / Book Page 199] ---
+
+Education and State Formation in Italy 199
+
+Education laws were the first to have to fulfil such conditions. So did the Casati law,
+enacted by the Piedmontese Government with plenipotentiary powers in November
+1859 – at the very beginning of the unification process. The law, comprising 380
+articles, fully regulated all parts of the educational system. When it was approved, it
+was neither enthusiastically welcomed nor explicitly rejected: it was considered as a
+temporary law for a temporary political situation. Its main purpose was to show the
+willingness of the Kingdom of Sardinia to meet the requirements of Lombardy, which
+was then the only new region annexed. Gabrio Casati was the first Milanese in the
+government and his law was intended, at the moment in which it was passed, only for
+the Piedmontese and Lombard territories.
+Actually, the Casati Law ruled Italian education up to 1923, when, under the Fascist
+Government, it was replaced by the Gentile Reform. This juridical longevity was due
+to the fact that after the unification of Italy it was quickly realised that such a law
+– outlined and brought into force in only four months – responded perfectly to the
+delicate social and financial equilibriums maturing in the new State after 1861. Gabrio
+Casati was a conservative Catholic, and he had intended the law to be non-ideological,
+not too directive of families and communes, and not very expensive for the Treasury.
+Moreover, his law had the merit of having been accepted by Piedmontese and Lombard
+Catholics without too many reservations.
+Relying on such qualities, the Casati Law was progressively enforced in the whole
+Italian Kingdom as unification was being achieved. Right from its first enforcement,
+many scholars and experts of education highlighted its faults and contradictions, but
+such claims faded whenever it came to suggesting an alternative text, for fear of having
+to face insurmountable ideological, political, and financial problems.
+The law provided for a four-year elementary school, divided into two periods of
+two years each. Attendance of the first two years was compulsory for all pupils aged
+between six and eight. After elementary school, different branches of secondary education were established: classical secondary education, divided into a five-year lower
+cycle (ginnasio) and a three-year upper cycle (liceo); lower and upper technical education (a three-year technical school followed by a three-year technical institute); and
+two- or three-year ‘normal’ schools for the training of elementary teachers.
+This law – and relevant enforcement regulation, passed in 1860 – set its mark on
+the very concept of Italy’s education system and established its foundation for many
+decades. It is therefore proper to dwell upon it in order to highlight the features that are
+strongly linked to state formation.
+The Casati Law was traditionally criticised by Italian education historiography in
+the second half of the twentieth century for being selective, for providing different
+branches of education with a clear hierarchy, and for being ‘centralistic’, as it imposed
+the same system on the whole country, leaving little autonomy to local authorities.
+Despite the fact that this criticism, among others, was raised right upon the passing
+of the law (Semeraro, 1996; Talamo, 1960), one might argue that the emphasis placed
+on it in the twentieth century suffered from an a posteriori interpretation given on the
+basis of the hottest issues of that period, rather than based on a careful consideration of
+the context in the mid-nineteenth century.
+
+--- [PDF Page 217 / Book Page 200] ---
+
+200 Palomba
+
+As regards centralisation, in the situation outlined above, while the country was
+getting unified with so much resistance and there remained the unsolved problem of
+the relations with the Pope, it is no wonder that the ruling class, which had bound its
+destiny to unification, chose to keep a firm central grasp, especially considering that in
+many regions the Church exerted a strong influence on schools and that a significant
+part of the teaching staff was made up of clerics, even in public schools.
+However, the ‘centralist’ policy preference met with some hesitation and opposition,
+not least because the liberal ruling class was in turn quite opposed to a statist view of
+education (Soldani & Turi, 1993: 18), and, as stated above, had seriously considered
+a more decentralised approach. Therefore, efforts were made to try and reconcile the
+different demands. In the covering report of the law itself, the choice was discussed
+also on a comparative basis. With respect to some European models – the British one,
+with a very limited state role; the Belgian one, with private and public schools competing; the German one, with the highest degree of state authority over education – Italy
+chose a ‘system of medium liberty, supported by those cautions that keep it into its
+boundaries and by those guarantees that defend it from manifest and hidden enemies
+that might spoil it and its fruit’ (Relazione, 1859, in Talamo, 1960: 73). The reference
+to the opponents of the new State could not have been clearer.
+As to the criticism about the school system structure – with particular regard to the
+mutual positions of classical and technical education – the (few) views that interpret
+the Casati Law without forgetting to set it in both a historical and comparative context
+seem much more convincing.
+According to Barbagli:
+The most interesting thing – which has instead been neglected by many scholars,
+all intent to prove the reactionary nature of the Casati Law – is that the education
+system resulting from that law – if compared to those existing in Europe at that
+time and those that followed in Italy from 1923 onwards – was relatively open, in
+that its internal structure was such as to foster relatively high university attendance rates. (Barbagli, 1974: 81)
+Barbagli continues the analysis by stressing that there was no internal differentiation in elementary education in terms of schools for pupils willing to pursue their
+studies and schools for those who did not mean to. Furthermore ‘more than at the
+elementary school level, however, the relative openness of Italy’s education system
+was to be found at the lower or upper secondary education level’ (Barbagli, 1974:
+82). The opportunities of entering higher education were not exclusively restricted to
+students coming from academic secondary schools: access to the Faculties of Science
+and Engineering was possible for pupils coming from the physics and mathematics
+branch of the Istituto Tecnico Superiore (upper secondary technical school) (Barbagli,
+1974: 82–83).
+In short, one of the distinctive traits of the Casati Law was that no school in the
+whole education system was conceived as a ‘blind alley’. This feature can be understood in relation to the education policy undertaken by the Italian ruling class, which
+was supposed to ensure the growth of the new State, also from a political standpoint.
+
+--- [PDF Page 218 / Book Page 201] ---
+
+Education and State Formation in Italy 201
+
+If this growth was to be founded on education, it needed to find a practicable way
+between the need for selection and that for socialization. That meant not restricting
+participation in the school system too much, in a situation in which schooling was
+already hindered by socio-economic backwardness, especially in some areas of the
+country. The main target was therefore the education of the middle classes, through
+relatively ‘open’ channels at secondary level, with a view to possibly fostering some
+social mobility. If the focus on technical education might have been considered inadequate by some of the most advanced productive forces – especially in some regions of
+northern Italy (Semeraro, 1996) – it was however probably even more than the global
+economic situation of the country required and allowed for. The model of social control
+through education adopted by the ruling class clashed with resistance from reactionary
+groups, while, on the other hand, the social demand for education – especially at the
+elementary level– was still low, even in the North.
+‘Our school system resulted, as it were, from the convergence of the education policy undertaken by the Italian ruling class and the difficulties in creating an adequate
+demand for education among people’ (Barbagli, 1974: 99). The relative openness of
+the education system stemmed from the fact that in a situation of poor attendance,
+greater selection would have been counterproductive.
+The law was quite successful in promoting the education of middle classes: enrolments grew considerably – especially from 1870 onwards – in technical institutes
+above all. Gradually, during the following 15 years, the concern became that lower
+classes too be reached in a more direct way, by promoting elementary schooling and, in
+particular, by enforcing compulsory education, also in order to bridge the gap between
+school levels.2
+In 1874, the new Italian State balanced its budget for the first time. In 1876, when
+the first left-wing government came to power, one of the first measures adopted was
+a law (Legge Coppino) that aimed to make compulsory schooling as real as possible,
+providing sanctions for offenders and regulations to facilitate the establishment and
+maintenance of schools in communes.
+The Coppino Law also began to better define the ‘formation of citizens’ in elementary school syllabi. Rather than a true subject, the Casati Law had envisaged ‘readings’
+on national history – though mainly on the Savoia dynasty’s – national geography,
+and citizens’ duties to God, their families, and the country (Santerini, 2001: 19). The
+Coppino Law, instead, included the First Notions on the Duties of Men and Citizens
+among the subjects taught in elementary school syllabi – this was particularly meaningful, considering that the law equally abolished the compulsory teaching of religion
+in elementary schools.
+Then, the last two decades of the nineteenth century were marked by a much greater
+emphasis on the formation of citizens in elementary school. This topic was included in
+the 1888 curricula – inspired by educational and pedagogical positivism – which had
+been developed by Aristide Gabelli, a renowned educationalist (Santerini, 2001). The
+need for education as ‘national pedagogy’ was even further emphasised in the curricula
+designed in 1894 by Baccelli, which criticised those of 1888 in that they had focused
+too much on knowledge content and not enough on general education (Ascenzi, 2004:
+98 onwards). The strengthening of ‘national pedagogy’ certainly responded to the need
+
+--- [PDF Page 219 / Book Page 202] ---
+
+202 Palomba
+
+to ‘provide new and greater legitimation to the political class that had achieved unification’, at a time when socialist and Catholic opposition was growing; elementary
+education was thought to be the best channel for this legitimation, as emphasised by
+Minister Baccelli himself (Ascenzi, 2004: 113).
+In that context, the call to ‘make Italians’, usually credited to Massimo d’Azeglio,
+was revived. The famous sentence ‘We have made Italy, now we must make Italians’
+was not proclaimed as such by d’Azeglio; instead, it was pronounced in 1896 by
+Ferdinando Martini, former Minister of Education, who recalled and emphasised
+a different expression by Massimo d’Azeglio himself3 (Soldani & Turi, 1993: 17).
+Regardless of the philological dispute, this episode confirms that the issue of the role
+of education in the formation of citizens had become crucial.
+Under Giolitti’s governments (1903–1914), the State budget was more under control, and opposition became less fierce between most liberal forces and a significant
+portion of Catholic ones; this allowed major changes to be introduced in school structures. In 1904, the Orlando Law raised the compulsory age to 12 years, among a set of
+measures intended to widen social participation in education.
+In 1911, the Daneo-Credaro Law shifted responsibility for elementary education
+from communes – where Catholic influence had been very strong in many cases – to
+the State. Due to Catholic opposition, the measure was only enforced in those communes that were not provincial capitals. The law also included further measures for
+popular education.
+Therefore, on the eve of the First World War, the relative easing of tension with
+Catholics (the non expedit, in particular, had become less strict) and the better economic situation led to greater emphasis being placed on the development of the
+education system at the lower levels. The opportunity of introducing a more comprehensive structure at lower secondary level began to be considered. On the other hand,
+in the same decades, the rapid growth in secondary-school-attendance rates caused
+problems in terms of jobs available for school-leavers and also in terms of education
+quality – as argued by many contemporary politicians and intellectuals. As a consequence, the introduction of measures to restrict the number of secondary school
+pupils began to be discussed and was supported by non-conservatives as well (Canestri
+& Ricuperati, 1976; Semeraro, 1996). Idealist philosopher Giovanni Gentile recalled
+this controversy and these positions when he was called to serve as the Minister of
+Education after the rise of Fascism and worked out provisions to reform the education
+system.
+
+The Riforma Gentile
+The so-called Gentile Reform revised the education system as a whole, reorganising
+its central and local administration with a significant reduction of the number of bodies
+involved, and introduced several provisions covering virtually all key aspects of Italy’s
+education system.4
+With regard to the school system structure, the reform designed a system whereby,
+after a five-year elementary school cycle, a differentiated structure was provided.
+
+--- [PDF Page 220 / Book Page 203] ---
+
+Education and State Formation in Italy 203
+
+Compulsory education was raised to 14 years of age, and a dead-end channel was
+created: the so-called complementary school (scuola complementare), lasting three
+years, for pupils who did not mean to pursue their studies. Classical education kept
+its structure: a five-year lower cycle (ginnasio) and a three-year upper cycle (liceo). In
+addition, a science branch was created: the liceo scientifico.5 Technical education was
+supplied by technical institutes, while ‘normal schools’ were changed into elementary
+teacher-training schools (istituti magistrali). A liceo femminile (girls’ upper secondary
+school) was also created: it did not make pupils eligible for higher education and was
+meant (among other things) to divert a significant number of girls’ enrolments from
+teacher-training schools, thus depleting the supply of female teachers.
+Consistently with Gentile’s philosophical approach, the school system was founded
+on the pre-eminence of philosophical and classical studies, namely philosophy.
+Nevertheless, at lower levels, where the ‘light’ of philosophy could not shine, religion recovered its educational role; hence, in elementary schools, ‘the teaching of
+Christian doctrine according to the catholic tradition was considered as the foundation
+and crowning of all degrees of elementary education’ (Royal Decree 1923, Article 3).
+Therefore, the Gentile Reform changed the school system – and the socialisation
+and selection approach adopted until then – not least in connection with the concerns
+voiced by many politicians and intellectuals in previous years. Secondary school enrolment was to be reduced, in order to safeguard the quality of education and to better
+match the labour market demand. On the other hand, however, driving too many pupils
+out of the school system prematurely would have caused a problem of lack of socialisation – a big risk, indeed, at a time when the new regime was just starting to establish
+itself. The matter, therefore, was not so much reducing the global number of pupils as
+reducing it in ‘open’ channels. That was the aim of creating a dead-end school after
+the elementary cycle – a solution that the Casati Law had never envisaged. Three-year
+complementary schools were supposed to be the backbone of education for the people:
+designed for the ‘humble citizen’ (il modesto cittadino) (Canestri & Recuperati, 1976:
+141) and ideally meant to provide ‘education for all’, if compulsory schooling until the
+age of 14 had been complied with.
+If this aspect can be interpreted in the light of the openness/closeness issue described
+above, the reform action as a whole is a complex interpretation problem (Canestri,
+1983) which cannot be addressed here as it should. The complexity of interpretation
+stems from a tangle of elements. On the one hand, the historical context referred to – i.e.
+the early years of Fascism (before the notorious murder of Matteotti, in 1925, marked its
+transformation into a ‘regime’) – was a transition period with elements of continuity as
+well as of rupture, with the previous situation having an influence on the government’s
+action. On the other hand, Gentile was a philosopher and intellectual with a complex
+personality (Coli, 2004) holding an ideal and conceptual view of Fascism and of the role
+of education, which was not necessarily in tune with practical policymaking needs.
+Therefore, the Riforma Gentile, defined by Mussolini as ‘the most fascist of
+reforms’, was actually an object of appreciation and criticism that cannot be identified
+and linked with any clear-cut political groups.
+It was certainly an elitist selective reform and, as such, was criticised by socially
+committed groups. In Gentile’s philosophical and intellectual view, however, the elite
+
+--- [PDF Page 221 / Book Page 204] ---
+
+204 Palomba
+
+had to be strictly selected according to its merits: this was something that disappointed
+bourgeois middle classes, whose approval was instead sought after by Fascism. On the
+other hand, the idea of an essentially humanistic elite culture was a cause of concern to
+emerging industrialists, while Catholics – who were satisfied with some aspects of the
+reform, like the compulsory teaching of Catholic religion in elementary schools – could
+not agree to the idealistic secular framework of Gentile’s Reform as a whole. One should
+be reminded that the reform had been designed in cooperation with first-class intellectuals, representatives of a culture that was far from reactionary (including Giuseppe
+Lombardo Radice, who had drawn up the 1923 elementary school curricula6).
+The discontent coming also from sectors of public opinion that the Government
+wished instead to please led to the so-called policy of readjustments carried on by the
+successors of Gentile (who left his post as a minister in the middle of 1924). Gentile
+himself referred to this policy as a form of ‘betrayal’, especially with regard to some
+provisions aimed at lessening the selectivity and strictness of education.
+Measures were adopted to reform ‘dead-end’ schools, which had been completely
+unsuccessful in attracting enrolments. As a result, between 1929 and 1931, the lower
+secondary education cycle was reorganised by creating the so-called scuole di avviamento al lavoro (schools preparing for work) to replace complementary schools, thus
+reintroducing at least the opportunity for pupils to be made eligible for technical institutes and teacher-training schools.
+
+The Fascist ‘Regeneration’
+In Gentile’s vision, linked to the Ethical State and to an education conceived as a
+philosophy of spirit, the connection between the educational system and the State, is
+undoubtedly very strong, as having an authoritarian impact on all aspects of school
+life. In this light, Mussolini’s definition as ‘the most Fascist of reforms’ is perhaps well
+grounded. On the other hand, however, the development of the system as it had been
+conceived by Gentile clashed with the political need to maintain the consensus of the
+different social strata (Canestri & Ricuperati, 1976: 142), and was, in some respects,
+inadequate to bring about an in-depth educational ‘Fascistisation’, which was subsequently achieved through different routes, not limited to school.
+Numerous measures were adopted to this end by the various ministers who followed Gentile. Suffice it to mention the establishment of Opera Nazionale Balilla,
+a youth organization aimed at controlling physical education in schools, which, in
+1929, came directly under the authority of the National Education Ministry (Ministero
+dell’Educazione Nazionale); the adoption, again in 1929, of the State Common Text
+(Testo Unico di Stato) for elementary schools, followed, in the 1930s, by deep changes
+in curricula and in many aspects of school life, for the purpose of a ‘Fascist regeneration of schools’ (Pazzaglia & Sani, 2001).
+In 1929 the signing of the Lateran Pacts brought about the recognition of the Italian
+State by the Holy See with a 70 years’ delay, and the establishment of the Vatican City
+State. The Pacts mark a crucial phase in Italian history, their importance going beyond
+the Fascist era. Despite strong opposition, they would in fact be subsequently included
+
+--- [PDF Page 222 / Book Page 205] ---
+
+Education and State Formation in Italy 205
+
+in the Constitution of the new Italian Republic which came into force in 1948, and be
+replaced by a new treaty as recently as 1984.
+The delicate quid pro quo at the basis of the Pacts has been made the object of
+several studies and has been differently interpreted, especially with reference to the
+new balance of powers established between the State and the Church (Spadolini, 1967;
+Margiotta Broglio, 1969). Undoubtedly, the State did make several concessions: with
+reference to education, Catholic religion was recognised to be the ‘foundation and
+crowning’ no longer of elementary school alone, but of the entire school system. On
+the other hand, at the same time the State was forcibly indoctrinating pupils (to the
+point of speaking of ‘Fascist Mystics’ in education). Hence, education of the young
+came to be once again the setting for a confrontation for control over citizen formation,
+including outside the school, as, for instance, in the field of youth association movements (Jemolo, 1955).
+Considerable concessions had therefore been made to obtain the recognition of the
+State by the Holy See, which also meant getting rid of that delegitimization which
+had had such a strong impact on Italian political life. Paradoxically, a guarantee of the
+fact that these concessions would not imply that the State would entirely surrender its
+prerogatives came precisely from its authoritarian character – although this very nature
+would impact on the democratic legitimisation of the State itself.
+A deeper analysis than the one that can be done here would look at the Carta della
+Scuola, presented by Giuseppe Bottai, who had become Minister of Education in
+1936. As it was intended to be ‘the document of the full Fascist maturity in the political/programmatic approach to the relationship between economy, work, society and
+education’ (Bertoni Jovine, 1958: 364), a careful examination would allow to better
+understand the general concept of the relation of education and society in the last
+period of the Fascist regime. However, it remained mostly unimplemented, owing to
+wartime and then to the fall of Fascism itself, except for a measure which was relevant
+in itself and for its future developments, i.e. the law, passed in 1940, that unified the
+lower courses of the secondary schools (ginnasio, technical schools and teacher-training schools), leaving out vocational and artisan courses (the latter not leading to any
+further study).
+
+After the Second World War
+Following the end of the Second World War, the reconstruction of the defeated Italian
+nation had to go well beyond merely making good the material devastation: it had to
+face once again, in a sense, the issue of state formation.
+As a result of the referendum of 2 June 1946 Italy abolished monarchy in favour
+of the Republic. The years which immediately followed the Second World War were
+marked by a unitary approach to reconstruction, with a government that saw the participation of all the anti-Fascist forces which, together, after long and complex discussions,
+drafted the new Republic’s Constitution, which came into force on 1 January 1948. The
+Constitution fully took into account the need to counterbalance forces that could cause
+the country to revert to the past, both recent and distant. On that need for ‘countering’,
+
+--- [PDF Page 223 / Book Page 206] ---
+
+206 Palomba
+
+the necessary agreement had been reached among forces which were deeply different
+and even opposed owing to their ideological background, political structure, and social
+representativeness, i.e. Catholic forces, liberal ones, and those influenced by Marxism.
+Soon enough, though, a number of factors, the most important being the worsening
+of the international scenario, led to the break-up of this unity. This was replaced by
+a situation whereby more than the endorsement of the national spirit, what prevailed
+were those which have been defined as ‘separate belongings’ (Scoppola, 1993: 32),
+i.e. allegiances to the political and ideological forces mentioned above, which in turn
+referred to different supranational forces, in a world which was about to split.
+A decisive event was the first general elections, which were held in 1948. The victory
+of left-wing forces would have strongly unbalanced international equilibria as they had
+come out of the agreements negotiated by the victorious powers. However, even after
+the moderate block dominated by the Christian Democrats prevailed, the revolutionary
+perspective was still the main scenario for the left-wing forces influenced by Marxism,
+preventing them from fully endorsing ‘normal’ reformist policies.
+On the other hand, the Catholics were for the first time fully taking part in Italian
+political life and, while recognising the State, they could not but be influenced by their
+past history, both in their relations within Italy and with the Vatican State. The difficulties encountered in building up a national identity were compounded by the ‘very
+high price paid for the Questione Romana’ and the non expedit (Scoppola, 1993: 27;
+Rusconi, 1993).
+The majority of Italian citizens’ ideal allegiance to one or the other of the forces that
+presented themselves as two largely universal ‘churches’ made it even more difficult
+to build an ethically grounded, albeit non-nationalistic, sense of nation. The prospect
+of an agreement between the two, if any, existed on a different plane. As recently as
+the 1970s, when precisely such an agreement appeared to be feasible, the scenario
+envisaged by at least some of its major protagonists ‘was not to obtain a physiological
+dialectic in Italian democracy, between forces homologated within the system, but, on
+the contrary, that of building a new society resulting from the encounter between two
+worlds, the Catholic and the Communist ones’ (Scoppola, 1997: 393).
+However, what weighed more heavily in the development of Italian democracy, nailing some way or another citizens to their separate allegiances, was the impossibility of
+alternate government, which has made Italian democracy a ‘stalled democracy’.
+In fact, with the Yalta agreements in 1945, Italy found itself belonging to the Western
+bloc, while having at the same time a powerful Communist party – the strongest in the
+West – which, however, had no real chances to come to power and create a turnover in
+the government.
+Hence, while the country strived to resume its position on the international scene
+(Italy joined the United Nations in 1955), its sovereignty was hampered by the impossibility of an alternative government, which affected the very nature of democracy.
+With the passing of the years, at the beginning of the 1960s, the governing majority
+was expanded to include the Socialist party; but this did not extend to the entire left.
+In the mid-1970s the so-called historic compromise between Catholic and left-wing
+forces was explored, and went as far as granting ‘external support’ by the Communist
+Party (PCI) to the government, but the hypothesis of a more direct involvement of
+
+--- [PDF Page 224 / Book Page 207] ---
+
+Education and State Formation in Italy 207
+
+the Communists was not realized. Notwithstanding the consolidated presence of PCI
+in local governments, the further step of full participation in the government of the
+country seemed to be still impossible. As, however, a partly cooperative dynamic
+existed, there came to be a peculiar situation of ‘consociate democracy’ as it has been
+sometimes called, in which many agreements could be found, but with no realistic
+perspective of an alternation in government.
+This allowed the country to be governed without forcing those international equilibriums that had proved themselves inviolable, but was obviously negative for democratic
+dialectic. The majority forces did not fear to be unsaddled and be passed on to the
+opposition; the opposition, in turn, was not actually asked to elaborate a realistic and
+organic alternative policy at national level. A possibility of alternation was only envisageable when the post-war equilibria changed, as late as the end of the 1980s. Amongst
+the many consequences of this manifestly distorted situation, many important ones
+concerned education.
+
+The Role of Education
+Immediately after the armistice (1943), the crucial role to be played by education in the
+reconstruction of the country called the attention and the action of the Allied Control
+Commission, which, however, never pushed its action too far. Namely, Carleton
+Washburne committed himself, involving Italian educationalists as well, to the elaboration of curricula for primary school (adopted in 1945) which were based on the
+notion of a democratic formation of citizens. Later on, at the time of the drafting of
+the Constitution, the school was assigned a relevant role, but debate in the Constituent
+Assembly mainly focused on the space that the new Republic should grant to private
+schools, which in Italy were almost exclusively Catholic. Once again the educational
+issue revolved around the relations between the State and the Church. After a complex debate (Palomba, 1985; Ambrosoli, 1982) an agreement was reached whereby
+private citizens and bodies were free to establish schools, but with no right to State
+aid. ‘Organizations and private citizens are entitled to found schools and educational
+institutions, with no charges for the State’ (Article 33 of the Italian Constitution).
+After the task of the Constituent Assembly was completed, for almost a decade
+left-wing opposition parties did not include education among their political priorities
+(Canestri & Ricuperati, 1976; Semeraro, 1996; Ventura, 1998). In the 1950s in Italy
+schools were under the control of the majority party, the Christian Democrats, whose
+ministers managed them without introducing significant reforms, but rather through
+constant administrative actions (so-called leggine, i.e. by-laws) which aimed at maintaining a certain balance, ensuring control over state schools while granting private
+ones all the space that could be allowed in compliance with the Constitution.
+In that period, the school system developed rapidly. In the decade 1951–1961, the
+number of students and the rate of participation in lower and upper secondary schools
+doubled. The growth, notwithstanding all its imbalances, corresponded to a moment of
+intense and quick development, where the quantitative extension itself brought about
+an enlargement of the social participation to education, thus showing also a qualitative
+
+--- [PDF Page 225 / Book Page 208] ---
+
+208 Palomba
+
+improvement. After a period of 15 years, however, the need to plan the development
+according to a socially more adequate model raised the problem of a more advanced
+reformism, following the international trend at the beginning of the 1960s.
+It was the moment of the so-called left turn, which brought about, in December
+1963, the first government including the Socialist Party. The entry of the Socialists in
+the institutions softened the contrast between the representativeness of the institutions
+themselves and social reality, while still fully respecting the basic features of the system, that is of a State of liberal structure dealing with the social ethics of a large part
+of the Catholic forces, and without any direct participation of the Communist party to
+the government.
+This shift from a static situation to a more dynamic period of discussion and debate
+involved many fields – including education – in a ‘reformist’ perspective. This project,
+however, never quite succeeded in coming into being (CENSIS, 1970).
+One of the greater obstacles to the development of authentic reformist action was
+undoubtedly the difficulty in interpreting univocally the concept of reform itself. In the
+1960s and 1970s the ‘meliorist’ hypothesis intertwined with structural reform ones,
+which were aimed at radical transformations of the system, in order to overcome the
+bourgeois nature of the State and of its social provisions. So, even if the ‘revolutionary’ perspective as such was no longer on the agenda of the left-wing forces, it was
+replaced by the call for ‘structural reforms’, which were often burdened ideologically
+with revolutionary meanings and intentions.
+In terms of the political proposals and the cultural orientation of left-wing parties,
+this translated into a framework of reference in which on the one hand the importance of education for greater social justice emerged, and on the other hand the forms
+in which education presented itself were rejected. In this perspective, the education
+reform was seen as a ‘tool to put an end to the class organisation of the existing school’
+(Ventura, 1998: 193), and school itself as ‘the major battlefield for a different social
+and economic development’, as it was stated in an article published in 1972 by L’Unità,
+the official newspaper of the Italian Communist Party (quoted in Chiosso, 1977: 75).
+The refusal to recognise the democratic legitimacy of any differentiation – seen as
+the cause and effect of class-based discrimination – was one of the main reasons for
+the emergence of the myth of a ‘unified school’, the ‘Holy Grail of the left’ (Polesel,
+2006: 550), which affected not only the far left, but also many intellectuals and educationalists, who came to share, for different reasons, the ‘comprehensive approach’,
+intended, in most cases, as a total lack of diversification.
+As is known, the role of education in society was one of the key topics in the sociological debate of those years. As pointed out by Benadusi (1984), a positive image
+of the social role of education – shared by some sociologists who may be labelled
+as liberal-functionalist, even if from different (progressive or conservative) perspectives – confronted the image of education upheld by those who emphasised that it was
+an ideological State apparatus (Althusser) and a tool to reproduce the structures and
+values of capitalist society (Bourdieu), thus denying the meaningfulness and effectiveness of any reform ‘within the system’. However, amongst those who shared a positive
+view of education from a ‘progressive’ point of view, the positive attitude was not so
+much towards the present role of the school, but rather on the ‘school-that-could-be’
+
+--- [PDF Page 226 / Book Page 209] ---
+
+Education and State Formation in Italy 209
+
+(Benadusi, 1984: XI). The debate was very lively in Italy, and was not without influence in the actual policy adopted. In a context in which gradual reformism had very
+few champions, it ended up merging in the demand for global or ‘structural’ reforms
+of most non-conservative intellectuals and scholars.
+With regard to lower secondary education, a political agreement was reached, which
+led in December 19627 to the passing of a law that, while confirming the constitutional obligation of an eight-year compulsory school, unified the old academically
+oriented lower secondary schools with the vocationally oriented scuole di avviamento
+al lavoro.
+Scuola media unica (unified lower secondary school) was a fully comprehensive
+structure, whose purpose was to deliver the common basic education required for
+every citizen, whether willing to continue studying or not. Throughout the years, this
+‘comprehensiveness’ was further improved by doing away with some residual optional
+elements which could suggest the possibility of a choice or selection: namely, Latin
+courses in the third year, upon which admission to liceo classico8 was conditional.
+Once the reform passed, it seemed natural to start reorganising upper secondary
+education as well. However, despite the significant number of bills submitted, several
+decades were not enough to implement a consistent policy at upper secondary level.
+These difficulties show the weakening of social consensus when moving up from
+basic education. The consensus on some basic elements of ‘education for all’ had
+developed in the nineteenth and twentieth centuries, almost as a ‘social pact’ on what
+the basic formation of citizens needed to be. In a way, it could be said, that it was the
+educational implication of the recognition of human, social, and political rights. As
+discussed above, the appropriateness of a less differentiated lower secondary education
+system had been debated in Italy since the early twentieth century. Later on, in 1940, a
+provision – although a partial one – to unify the system was passed by Giuseppe Bottai.
+Hence, the ground had already been prepared. Unification at the compulsory level had
+gained a large and solid social consensus, and the change suggested responded to the
+actual political and cultural level as well as to the socio-economic development of the
+country, while also meeting the solidaristic approach shared by the major forces.
+A further proof that it was possible to find some agreement in order to implement
+measures concerning the basic levels of education, even on sensitive points, was the
+creation of a pre-primary State school in 1968, after memorable fights in Parliament.9
+In fact, until that moment the presence of the State was missing at that educational
+level, while private religious institutions were largely present, together with a less widespread presence of local authorities. The growth of the public presence was gradual but
+not slow, promoting a significant improvement and in the end a generalisation of the
+participation rate (CENSIS). These data concerning childhood education – a subject so
+rich in cultural and emotional significance – reveal the transformation of Italian habits,
+attitudes, and behaviours that went together with the social and economic transformations in the second half of the twentieth century.
+Conflict arises when dealing with the ways of differentiation within society, the
+articulation of social classes and types of work, and therefore the corresponding education articulation at the secondary level. In the 1960s and 1970s, the correspondence
+of the school structure to a social stratification was questioned. There were criticisms
+
+--- [PDF Page 227 / Book Page 210] ---
+
+210 Palomba
+
+of the sharp differentiations between licei, technical institutes, vocational institutes,
+and teacher-training schools, that were still, basically, the same of the Gentile reform
+(the ‘organ-pipes chart’). However, notwithstanding the great number of bills proposed, the attempt of putting in place a different structure of the secondary school did
+not succeed.
+Agreement was found in the fact that the situation was unsatisfactory, but the only
+shared answer to the rising criticism was to abolish some of the existing bonds, virtually without adopting ‘positive’ measures other than experimental ones. This policy was
+intended to be temporary, but, as the lack of agreement persisted, it was actually longlasting and brought about profound changes in the secondary school and the university.
+In 1969, three separate measures were adopted, which, taken together, caused the
+abolition of the regulatory framework that previously conditioned the students’ educational future according to the choices made after the years of compulsory school. Such
+measures included: (a) the so-called liberalisation of access to university, according to
+which it was possible to enrol at all university faculties, for those who had completed
+a five-year secondary school, irrespective of the kind of school they had followed10;
+(b) the law modifying the procedure for the secondary-school-leaving-examination,
+extending the qualification of ‘maturità’ to all the secondary school final examinations11; and (c) the law introducing in vocational institutes – until then not considered
+as proper secondary schools – some experimental courses intended to allow students to
+get a five-year diploma, called ‘maturità’ as well,12 therefore allowing them university
+access.
+All this brought a profound transformation of secondary education. The three measures taken together led to a substantial equivalence between the different study courses,
+in terms of further educational opportunities, duration of the course and value of the
+final diploma, thus transforming the prospects resulting from the attendance of a given
+school, even without a reform of its articulation and contents. It can be observed that,
+in a way, these measures brought to the highest point the trend towards the abolition of
+dead-end courses in the school system – with the ensuing effect of de-professionalisation of the system itself – that had periodically been adopted in the history of Italian
+education policy. As was the case before, it was possible to detect in this action the
+double intent to meet the aspirations for sociocultural mobility of middle and working
+classes and to provide ways to absorb jobless secondary-school-leavers.
+Admittedly, these were intended to be temporary choices, a ‘breach’ in the old
+school system, not meant to last. However, the egalitarian frame was desired, and was
+intended to indicate the direction to be followed to build a new school: but a positive
+consensus on this issue was not found – and is still hard to find.
+However, even if an ‘organic’ reform of the upper secondary school was not achieved,
+innovation, sometimes relevant, was introduced through several partial measures. To
+quote a perceptive comment by a non-Italian author, ‘the political landscape of Italy
+is such that developments at the margin are often the only kind which can be effected,
+and, therefore, such changes are often of a significance which may surprise the foreign
+observer’ (Polesel, 2006: 552).
+A relevant role has been played by experimental courses that the schools were
+allowed to create following a law passed in 1974. At the upper secondary level, these
+
+--- [PDF Page 228 / Book Page 211] ---
+
+Education and State Formation in Italy 211
+
+courses offered an opportunity to concretely test many of the emerging reform hypotheses. Actually they have represented permanent innovative features adopted by the
+schools rather than ‘experimentations’.
+In the ensuing years their number had grown, also due to rules that were passed in favour
+of school autonomy. Consequently, in an essentially unaltered structural framework, many
+initiatives have been blossoming from individual schools (OCSE-MPI, 1983).
+In a later period, there was an attempt at the central level to ‘promote a systemic
+innovation in a whole cycle of post-compulsory education, even without a legislative
+framework of reference’ (Niceforo, 1990: 47). An ad hoc committee (Commissione
+Brocca, after the name of its President) was established in 1989, with the task of
+elaborating and proposing new curricula for the first two years of post-compulsory
+education, aimed at the creation of more flexible learning paths in classical as well as
+in technical schools. It was once again the administrative way of promoting and managing innovation – and it ended up, if not in a ‘systemic’ change, in more innovative
+‘experimental’ courses being permanently included in the system.
+Besides the thorny question of upper secondary school, however, in the decades here
+considered several provisions were adopted about different aspects of the school system. One of the main principles inspiring the action was still the egalitarian principle,
+together with a strong trend towards participation at all levels. To this overall inspiring motif corresponded several measures, from the integration of the handicapped in
+ordinary schooling to the adoption of new evaluation procedures,13 from the liberalization of the university entrance to the enlargement of social participation in the school
+government.14
+Most of the measures did meet highly sensitive problems. Their main limit lay in
+the fact that, if on the one hand they addressed concrete questions, on the other, very
+often they were once again implicitly referring to a school-that-could-be, in a society
+still-to-be-built, thereby implying a global reform of the educational system which by
+then was clearly not very realistic. No wonder then if in the end they turned out to be
+disappointing and fragmentary, being the result of a combination of radical spurs from
+the bottom and a lack of clear political decisions (Benadusi, 1989).
+Still, it has to be considered that, in the Italian context of the 1970s, the illusion – the
+utopia – of ‘another possible world’ lingered on, sometimes influencing the institutional
+policies and generating, in some dramatic moments, subversive hypotheses, which fortunately in the end were always belied by facts. Education has to be seen against this
+background.
+
+Italy After 1989
+In more recent times, the egalitarian approach, tied to a radical idea of education and oriented to ‘another-possible-world’, was deeply affected by the changes that took place in
+the 1980s and most of all in the last two decades. During this period, in Italy as elsewhere
+the keywords have been quality in education and a need for an external evaluation of the
+effectiveness of education and training, in the context of a European and an international
+setting which was very demanding in terms of efficiency and competitiveness.
+
+--- [PDF Page 229 / Book Page 212] ---
+
+212 Palomba
+
+To fully understand the nature and the meaning of the change the Italian society
+and education had to face, we need once more to go back to consider certain Italian
+peculiarities in the rapidly evolving international context, particularly regarding the
+consequences of the fall of communism.
+Italy was much more affected by the fall of the Berlin Wall than most of the other
+western countries; the end of bipolarism shattered its delicate equilibrium of ‘frontier’
+country, which was heavily conditioned in its democratic dialectic. As Lepre noted,
+‘Italy had been a borderland between the two systems, and at the same time it had been
+internally cut across by the border itself’ (Lepre, 1993: 21).
+The fall of the Berlin Wall and the disintegration of the Soviet Union put an end to this
+situation; it was said that the post-war period was definitively over. Thus Italy had to rearrange its political-institutional dynamics according to a radically changed context, where
+the composition of the governments did not necessarily have to be predetermined.
+The first part of the 1990s saw a great turmoil in political life. On the one hand, there
+was the redefinition of the name and programmes of the Communist Party (PCI): it
+became Partito Democratico della Sinistra (PDS) in 1990 and then Democratici di Sinistra
+(DS), paying for these shifts with a split on its left, which gave birth to Rifondazione
+Comunista – Communist Refounding Party. On the other hand, there was a fall of those
+parties that had governed Italy for almost 50 years, above all Christian Democracy and
+the Socialist Party. The ruling elite of these latter parties was overwhelmed by the corruption scandals linked to political financing but the deep roots of the turmoil are to be
+found in the crisis of the equilibrium that had run Europe and the world from Yalta on,
+where Italy, borderland between two blocs, was one of the keystones.
+It was necessary to redefine almost everything. Amongst other things, the electoral
+system was changed, giving way to the so-called second republic. Also, the proportional system was abandoned, to adopt a mechanism close to the majority system,
+based on two main coalitions, even though it allows the presence of different parties
+within each alliance.
+The fall of the former leading parties seemed to open the way to the left-wing ones,
+legitimated at last. Actually, the period of waiting was longer than it was expected, as
+a newly founded moderate party, Forza Italia, came unexpectedly to fill the gap left
+by the recent changes, and won the general elections of 1994, in alliance with other
+forces. Yet in a short time the coalition split up, giving way to a ‘technical government’, and the left-wing coalition assumed power with the elections of 1996.
+This coalition completed its five years of government, despite the many difficulties
+and the changing of several prime ministers. In 2001 the right-wing coalition won
+again; in 2006 the Left came back into power. Italy seemed to have eventually found
+its way to alternation in government.
+However, the transformation of the political forces is still going on. New aggregations and new coalition parties, both Left and Right, are constantly being formed.
+Concerning school policies, some relevant points can be pinpointed. The most important one is the renewed need for a wide action of reform, maybe not to build a new society
+as before, but because it is felt that such a changed society needs to reorganise many of
+its aspects, including education. Therefore, some reformist features can be discerned, not
+aiming to bring about a less violent revolution, but trying to fulfil the need to reorganise
+the educational system to face a changed and continuously evolving society.
+
+--- [PDF Page 230 / Book Page 213] ---
+
+Education and State Formation in Italy 213
+
+The need for major changes in the education system has been invoked virtually
+everywhere in the last years. The point about Italy is that the country is once again at a
+crucial moment of state formation. From this perspective, the question of the ‘formation of the citizen’ comes up again, with all the difficulties stemming from the previous
+and the recent history.
+In this dynamic, the European unification plays a most relevant role. ‘Conforming
+to Europe’ becomes a sort of password. The reference to Europe is used as a strong
+argument to support reformist measures that are felt to be necessary but which jeopardised well-established equilibriums. ‘Europe’ therefore can help to find a common
+framework of reference, inside which the ‘new’ Italian identity can take shape.
+
+The Italian School System in the Last Decade
+In 1996, for the first time a left-wing coalition come to power that included the
+Democratic Left Party (Partito democratico della Sinistra, born from the transformation of the Communist Party) and with the external support of the Communist
+Refounding Party. The Minister of Education, Luigi Berlinguer, symbolised this
+change. He is the cousin of Enrico, who was the Secretary of the Communist Party in
+the crucial 1970s.
+Luigi Berlinguer undertook great interventions in every aspect of the educational system, from school to university, from teachers’ training to the Ministry’s structure, from
+the relations between public and private schools—which came at last to a legislative
+regulation after more than 50 years from the Constitution—to ‘maturità’ examination,
+from school autonomy to the territorial reorganisation, and the reform of regional institutes for educational research (Niceforo, 2001; Berlinguer, 2001). Most measures were
+implemented; some of them remained in force, even, if with some modifications, during
+the years in which the political Right governed, while others were abrogated.
+What the left-wing did not succeed to implement was a real reform of the school
+structure. The law for school reform (Law n.30, February 2000) was approved on the
+eve of the termination of the legislature’s terms of office. During the electoral campaign
+the opposition explicitly promised that in case of victory they would first abrogate that
+law and propose a new and different reform. And so it happened. In spring 2001 the
+right-wing won the elections, the law’s application was immediately suspended and two
+years later (April 2003) the new government approved a delega-law15 to rearrange the
+whole school and training system, whose first decrees, concerning compulsory school,
+were approved in the first months of 2004, while the decrees concerning secondary
+school were passed in 2005. But these measures in turn did not enjoy a long life, being
+suspended by a Ministerial Decree of the new left-wing government in May 2006.
+The present situation is therefore complex, and not easy to describe, as the concrete school reality is an inextricable interlacing and overlapping of measures kept but
+modified, cancelled reforms, new reforms, some already approved and gradually coming into force, others still to be defined in detail – all this of course interacting with the
+pre-existing general features of the system.16 Irrespective of any judgement about the
+content of the proposed measures, this process clashes with the typical difficulties of a
+
+--- [PDF Page 231 / Book Page 214] ---
+
+214 Palomba
+
+substantial reformist action, having to deal with many previous situations, overlapping
+sets of rules and well-established interests, all problems that, to be overcome, need at
+the same time decision, consensus-building, political will, and competence.
+But above all, the dynamics that have been described show how, in the alternation,
+the ‘separate belongings’ are still strong, or, to be more accurate, are felt and perceived
+as such. Especially the first leftist government was tempted to use structural reforms
+in such a harsh way that it recalled the revolutionary spirit of the previous decades,
+in method if not in content, reforming at the same time all the sectors of the educational system with what has been called a sort of Jacobin approach. Then, as described
+just above, each further change in government produced an allegedly global upheaval.
+Actually, the contents of the different measures are far less distant than declared (once
+again the most difficult issue being upper secondary school) – but still the idea that
+the alternation is not so much between two ‘homologated forces within the system’ as
+between different – perhaps even mutually exclusive – conceptions of society is still
+alive. At least it still cannot be denied altogether even by the most realistic of politic
+forces, which cannot disregard the lingering of attitudes shaped in so many years of
+‘stalled democracy’.
+More than anything else, this shows the determining influence that Italy’s peculiar
+position between the two blocs has had over the Italian political and institutional life,
+and it is curious to see how the awareness of this influence is lacking in most international and comparative studies on education. Yet one of the last walls between ‘east’
+and ‘west’ fell 15 years after the Berlin Wall; it was the wall that until recently divided
+Gorizia, in Italy, from Nova Goriça, in Slovenia. Only the entry of Slovenia in the EU
+allowed this wall to fall, while still keeping the division of the city in two different
+states. This can symbolically represent the particular relevance for our country – not
+always fully perceived – of the transformation of the international set-up.
+
+Notes
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+6.
+7.
+8.
+9.
+
+Decree by which the Holy See on 10 September 1874 gave a negative answer about the possible
+participation of Italian Catholics in the elections and in general in the political life of the State. The
+prohibition was attenuated in 1905, and abolished in 1919.
+The gap was such that in 1866, Cesare Correnti denounced Italy’s ‘unusual record’ in terms of number
+of secondary schools and students compared to other countries, while it ranked last in terms of number
+of popular and primary schools, despite its highest rate of increase in the demand for these schools
+(Barbagli, 1974: 69).
+The original text of I Miei Ricordi by Massimo d’Azeglio was only brought back to light in the years
+after the Second World War. That historical and philological episode cannot be dwelt upon herein, but
+see Soldani and Turi (1993: 17) with particular reference to the sentence quoted above.
+Rather than one text, it was actually a set of provisions – passed between the end of 1922 and the middle of 1924 – which, however, responded to a consistent design and are usually considered as a whole
+as the ‘Gentile’s Reform’. The reform is normally dated 1923, the year when most of its provisions
+were passed.
+Upper secondary school with an emphasis on science subjects.
+When the Fascist regime showed its nature more clearly, however, many intellectuals who had first
+supported it moved away from it – like Lombardo Radice himself.
+Law 31.XII.1962, n.1859.
+Law 16.VI.1977, n.348. ‘Liceo classico’: upper secondary school with an emphasis on humanities.
+Law 18.IV.1968, n.444.
+
+--- [PDF Page 232 / Book Page 215] ---
+
+Education and State Formation in Italy 215
+10.
+11.
+12.
+13.
+14.
+15.
+16
+
+Law 11.XII.1969, n.910.
+Law 5.IV.1969, n.119.
+Law 27.X.1969, n.754.
+Law 4.X.1977, n.517.
+DPR 31.V.1974, n.416.
+A delega-law is a law that defines the general criteria, delegating the government to emanate specific
+measures for their practical application.
+In this situation, it does not seem worthwhile to try giving a description of the system at the moment of
+writing, which would certainly be more than obsolete when the text will be published. The best reference is to Eurydice data, especially the accurate and frequently updated National Summary sheets.
+
+References
+Ambrosoli, L. (1982). La scuola in Italia dal dopoguerra ad oggi. Bologna: Il Mulino.
+Ascenzi, A. (2004). Tra educazione etico-civile e costruzione dell’identità nazionale. L’insegnamento della
+storia nelle scuole italiane dell’Ottocento. Milano: Vita e Pensiero.
+Autori Vari, (1978). La scuola secondaria in Italia (1859–1977). Firenze: Vallecchi.
+Balduzzi, G. & Telmon, V. (1998). Storia della scuola e delle istituzioni educative. Milano: Guerini studio.
+Barbagli, M. (1974). Disoccupazione e sistema scolastico in Italia (1859–1973). Bologna: Il Mulino.
+Benadusi, L. (1984). Scuola, riproduzione, mutamento. Sociologie dell’educazione a confronto. Firenze:
+La Nuova Italia.
+Benadusi, L. (Ed.). (1989). La non decisione politica. La scuola italiana fra riforma e non riforma. Firenze:
+La Nuova Italia.
+Berlinguer, L. (2001). La scuola nuova. Bari: Editori Laterza.
+Bertoni Jovine, D. (1958). La scuola italiana dal 1870 ai giorni nostri. Roma: Editori Riuniti.
+Canestri, G. (1983). Centovent’anni di storia della scuola, 1861/1983. Torino: Loescher.
+Canestri, G. & Ricuperati, G. (1976). La scuola in Italia dalla Legge Casati a oggi. Torino: Loescher.
+CENSIS (Centro Studi Investimenti Sociali) (1970). Rapporto sulla situazione sociale del paese, Rome.
+Chiosso, G. (1977). Scuola e partiti tra contestazione e decreti delegati. Brescia: Editrice La Scuola.
+Coli, D. (2004). Giovanni Gentile. Bologna: Il Mulino.
+Jemolo, A. C. (1955). Chiesa e Stato in Italia. Dalla unificazione ai giorni nostri. Torino: Einaudi.
+Lariccia, S. (1971). I rapporti fra Stato e Chiesa in Italia. Saggio bibliografico (1° gennaio 1948–30 settembre 1971). Il diritto ecclesiastico. LXXXII: 348–500.
+Lepre, A. (1993). Storia della prima Repubblica. L’Italia dal 1945 al 1998. Bologna: Il Mulino.
+Mammarella, G. (2000). L’Italia contemporanea 1943–1998. Bologna: Il Mulino.
+Margiotta Broglio, F. (1969). Il tramonto dello Stato liberale e la conciliazione: riflessioni su alcune costanti
+della politica ecclesiastica italiana. Chiesa e politica, 8, 103–145.
+Niceforo, O. (1990). L’innovazione difficile. Da Falcucci a Brocca: la scuola italiana tra nuovi programmi
+e vecchi ordinamenti. Pisa: Tacci Editore.
+Niceforo, O. (2001). La scuola dell’Ulivo. Cinque anni di speranze e delusioni. Roma: Casa Editrice
+Ruggero Risa.
+OCSE Ministero della Pubblica Istruzione (1983). Rapporto sulla politica educativa italiana. Roma.
+Palomba, D. (1985). The non-state sector in the Italian Education System. European Journal of Education,
+20 (4), 361–370.
+Palomba, D. (1988). Scuola e società in Italia nel secondo dopoguerra. Analisi di una progressiva convergenza. Roma: Edizioni dell’Ateneo.
+Pazzaglia, L. & Sani, R. (Eds.). (2001). Scuola e società nell’Italia unita. Dalla Legge Casati al CentroSinistra. Brescia: Editrice La Scuola.
+Polesel, J. (2006). Reform and reaction: creating new education and training structures in Italy. Comparative
+Education, 42 (4), 549–562.
+Romeo, R. (1984). Cavour e il suo tempo (1854 –1861). Bari: Editori Laterza.
+Rusconi, G. E. (Ed.). (1993). Nazione etnia cittadinanza in Italia e in Europa. Brescia: Editrice La Scuola.
+Santerini, M. (2001). Educare alla cittadinanza. La pedagogia e le sfide della globalizzazione. Roma: Carocci.
+Scoppola, P. (1993). ‘Nazione e storiografia’. In G. E. Rusconi (Ed.), Nazione etnia cittadinanza in Italia e
+in Europa. Brescia: Editrice La Scuola.
+
+--- [PDF Page 233 / Book Page 216] ---
+
+216 Palomba
+Scoppola, P. (1997). La repubblica dei partiti. Evoluzione e crisi di un sistema politico 1945–1996. Bologna:
+il Mulino.
+Semeraro, A. (1996). Il sistema scolastico italiano. Profilo storico. Roma: La Nuova Italia Scientifica.
+Soldani, S. & Turi, G. (Eds.). (1993). Fare gli Italiani. Scuola e cultura nell’Italia contemporanea. I. La
+nascita dello Stato nazionale. Bologna: Il Mulino.
+Spadolini, G. (1967). Il Tevere più largo. Chiesa e Stato in Italia dal Sillabo a Paolo VI. Napoli: Morano.
+Talamo, G. (1960). La scuola dalla Legge Casati alla Inchiesta del 1864. Milano: Giuffrè.
+Ugolini, R. (2001). ‘Equilibri e squilibri nella realtà internazionale’. In M. Millozzi (Ed.). Giano Bifronte.
+L’eredità storica del Novecento. Firenze: Centro Editoriale Toscano.
+Veneruso, D. (1972), ‘Stato e Chiesa’ in Bibliografia dell’Età del Risorgimento in onore di Alberto M.
+Ghisalberti, vol II. Firenze: Leo S. Olschki Editore, 585–648.
+Veneruso, D. (2003), ‘Stato e Chiesa’ in Bibliografia dell’Età del Risorgimento 1970–2001, vol III. Firenze:
+Leo S. Olschki Editore, 1391–1434.
+Ventura, S. (1998). La politica scolastica. Bologna: Il Mulino.
+Vertecchi, B. (Ed.). (2001). La scuola italiana da Casati a Berlinguer. Milano: Franco Angeli.
+

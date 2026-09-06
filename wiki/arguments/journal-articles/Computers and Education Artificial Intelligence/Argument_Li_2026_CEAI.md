@@ -29,6 +29,7 @@ related_concepts:
   - "[[Divergent Thinking]]"
   - "[[Creativity]]"
   - "[[Heterogeneity]]"
+  - "[[Scaffolding]]"
   - "[[Dialogue in Education]]"
   - "[[Structured Teaching]]"
   - "[[Metacognition]]"
@@ -109,7 +110,7 @@ title: "Argument_Li_2026_CEAI"
 argument_key: "Argument_Li_2026_CEAI"
 argument_display_title: "The cognitive impact of ChatGPT in higher education: A systematic review of critical and creative thinking outcomes"
 argument_kind: "journal-article"
-argument_related_count: 70
+argument_related_count: 71
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -129,7 +130,7 @@ issuing_organization: ""
 > [[Generative Artificial Intelligence|生成式人工智能]]（以 ChatGPT 为代表）在高等教育中的迅速普及引发了关于学生高阶心智发展的广泛争议。既有综述多将[[Higher-Order Thinking Skills|高阶思维]]笼统合并为一般的[[Academic Achievement|学业表现]]、学习动机或宽泛的认知参与，未能系统区分[[Convergent Thinking|收敛性认知加工]]（如[[Critical Thinking|批判性思维]]）与[[Divergent Thinking|发散性认知加工]]（如[[Creativity|创造性思维]]）在人机交互中所受到的[[Heterogeneity|异质性]]塑造。本研究旨在系统探究：在高等教育不同教学情境与任务设计下，ChatGPT 如何分别塑造大学生的批判性思维与创造性思维？二者在人机协同学习中呈现何种共现演进模式？哪些教学调节条件能够促进高阶思维的协同发展并规避认知退化风险？
 
 > [!claim] 核心主张
-> ChatGPT 对大学生认知发展的影响并非技术固有的必然属性，而是高度依存于任务的教学情境与脚手架设计。当嵌入探究导向、反思提示与[[Dialogue in Education|对话]]式互动的[[Structured Teaching|结构化教学]]设计中时，ChatGPT 能够作为认知放大器与中介伙伴，通过促进[[Metacognition|元认知]]监控、论证建构与发散构想，驱动批判性思维与创造性思维的“双向协同增益”；反之，在缺乏教学支架的非结构化或工具主义应付情境中，ChatGPT 会诱发严重的[[Cognitive Offloading|认知卸载]]与心智惰性，导致“创造性繁荣伴随批判性萎缩”的非对称发展，乃至批判与创造能力的“双重认知侵蚀”。
+> ChatGPT 对大学生认知发展的影响并非技术固有的必然属性，而是高度依存于任务的教学情境与[[Scaffolding|脚手架]]设计。当嵌入探究导向、反思提示与[[Dialogue in Education|对话]]式互动的[[Structured Teaching|结构化教学]]设计中时，ChatGPT 能够作为认知放大器与中介伙伴，通过促进[[Metacognition|元认知]]监控、论证建构与发散构想，驱动批判性思维与创造性思维的“双向协同增益”；反之，在缺乏教学支架的非结构化或工具主义应付情境中，ChatGPT 会诱发严重的[[Cognitive Offloading|认知卸载]]与心智惰性，导致“创造性繁荣伴随批判性萎缩”的非对称发展，乃至批判与创造能力的“双重认知侵蚀”。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 2022 至 2025 年间发表的 67 项关于 ChatGPT 影响高校学生高阶思维的实证研究（涵盖量化实验、质性反思与[[Mixed Methods Research|混合方法]]设计）。
@@ -163,7 +164,7 @@ issuing_organization: ""
 > | **[[Educational Affordances\|教育技术可供性框架（Kirschner, 2004; Bower, 2008）]]**<br>[[Educational Affordances]] | 作为核心分析透镜，系统解构 ChatGPT 在批判性与[[Creativity\|创造性思维]]维度上的 10 大认知使能可供性与 10 大限制风险。 |
 
 > [!warrant]- 理论如何支撑论证
-> 论文通过整合认知加工（认知负荷理论与自我调节学习）、社会文化情境（[[Third Generation Activity Theory|活动理论]]与边界对象）及网络技术（连通主义与分布式认知），构建了多层次解释体系。分布式认知与活动理论揭示了人类思维并非孤立发生在颅骨内部，而是延伸并中介于技术工具中；认知负荷理论精确刻画了外在负荷释放与有害认知卸载的生理界限；自我调节学习与 AI 素养则为学习者在算法流畅性与[[Illusion of Competence|能力错觉]]面前维持“[[Epistemic Friction|认识论摩擦]]”（Epistemic Friction）提供了主体性防线。这些理论工具的交织，使综述能够严密解释为什么相同的技术介入会在不同教学脚手架下分化出协同增益与认知侵蚀两种截然相反的心智后果（pp. 2–3, 10–11）。
+> 论文通过整合认知加工（认知负荷理论与自我调节学习）、社会文化情境（[[Third Generation Activity Theory|活动理论]]与边界对象）及网络技术（连通主义与分布式认知），构建了多层次解释体系。分布式认知与活动理论揭示了人类思维并非孤立发生在颅骨内部，而是延伸并中介于技术工具中；认知负荷理论精确刻画了外在负荷释放与有害认知卸载的生理界限；自我调节学习与 AI 素养则为学习者在算法流畅性与[[Illusion of Competence|能力错觉]]面前维持“[[Epistemic Friction|认识论摩擦]]”（Epistemic Friction）提供了主体性防线。这些理论工具的交织，使综述能够严密解释为什么相同的技术介入会在不同[[Scaffolding|教学脚手架]]下分化出协同增益与认知侵蚀两种截然相反的心智后果（pp. 2–3, 10–11）。
 
 ---
 
@@ -267,7 +268,7 @@ issuing_organization: ""
 ### 论证步骤一　ChatGPT 对批判性思维具有双向调节效应：反思催化与心智惰性并存
 
 > [!claim] 步骤一主张
-> ChatGPT 对大学生[[Critical Thinking|批判性思维]]（[[Convergent Thinking|收敛性认知加工]]）的影响呈现鲜明的双刃剑特征：在具备显性引导与反思规程的教学情境中，它能作为[[Metacognition|元认知]][[Dialogue in Education|对话]]脚手架有效催化证据评估、论证深化与事实核查；但在缺乏教学支架的场景中，极易诱发严重的[[Cognitive Offloading|认知卸载]]、思维怠惰与论证逻辑退化。
+> ChatGPT 对大学生[[Critical Thinking|批判性思维]]（[[Convergent Thinking|收敛性认知加工]]）的影响呈现鲜明的双刃剑特征：在具备显性引导与反思规程的教学情境中，它能作为[[Metacognition|元认知]][[Dialogue in Education|对话]][[Scaffolding|脚手架]]有效催化证据评估、论证深化与事实核查；但在缺乏教学支架的场景中，极易诱发严重的[[Cognitive Offloading|认知卸载]]、思维怠惰与论证逻辑退化。
 
 > [!ref-table]- 表5：ChatGPT 对批判性思维影响的核心主题、情境与调节[[Variable|变量]]（Key Themes on Critical Thinking）
 > | 影响维度 | 主题名称与频数（Theme & n） | 代表性教学情境（Representative Contexts） | 调节条件与关键变量（Moderators / Conditions） | 代表性实证研究（Illustrative Studies） |
@@ -445,7 +446,7 @@ issuing_organization: ""
 ## 关键引用
 
 > [!citation-card]- 教学设计决定认知走向
-> 这些研究发现表明，ChatGPT 对学生认知的影响并非该工具自身所固有，而是依存于教学框架、任务设计和教学脚手架。在缺乏教学支架的情境中，研究者观察到[[Creativity|创造力]]优于[[Critical Thinking|批判性思维]]的非对称模式以及双重认知侵蚀，二者往往都由[[Cognitive Offloading|认知卸载]]所引发。（pp. 1, 10）
+> 这些研究发现表明，ChatGPT 对学生认知的影响并非该工具自身所固有，而是依存于教学框架、任务设计和[[Scaffolding|教学脚手架]]。在缺乏教学支架的情境中，研究者观察到[[Creativity|创造力]]优于[[Critical Thinking|批判性思维]]的非对称模式以及双重认知侵蚀，二者往往都由[[Cognitive Offloading|认知卸载]]所引发。（pp. 1, 10）
 >
 > *These divergent findings suggest that the influence of ChatGPT on student cognition is not intrinsic to the tool itself but contingent upon pedagogical framing, task design, and instructional scaffolding... unstructured implementation frequently led to asymmetrical or diminished cognitive engagement.*
 

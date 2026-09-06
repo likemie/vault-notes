@@ -1,0 +1,1103 @@
+================================================================================
+Chapter 03: The Modernist Beginnings of Comparative Education: The Proto-Scientific and The Reformist-meliorist Administrative Motif
+Author(s): Pella Kaloyannaki and Andreas M. Kazamias
+Handbook: International Handbook of Comparative Education (2009)
+Editors: Robert Cowen and Andreas M. Kazamias (Section Editor: Elaine Unterhalter)
+Section: Section 1: The Creation and Re-creation of a Field
+Book Pages: pp. 11–36
+PDF Pages: pp. 36–60 (in raw/比较教育学国际手册2009Cowen.pdf)
+================================================================================
+
+--- [PDF Page 36 / Book Page 11] ---
+
+3
+THE MODERNIST BEGINNINGS OF COMPARATIVE
+EDUCATION: THE PROTO-SCIENTIFIC AND THE
+REFORMIST-MELIORIST ADMINISTRATIVE MOTIF
+Pella Kaloyannaki and Andreas M. Kazamias
+
+Introduction
+The modernist beginnings of comparative education (CE) as a field of study are
+conventionally traced to the post-Enlightenment period in the early and mid decades
+of the nineteenth century, specifically to the pioneering work of Marc-Antoine Jullien
+de Paris and to discourses of educational policy-makers, reformers and administrators in Europe and the United States, such as Horace Mann, Calvin Stowe and Henry
+Barnard in the United States, Victor Cousin in France and the poet–school inspector
+Matthew Arnold in England. First, this chapter analyses in some detail Jullien’s ideas
+about CE—its methodology, epistemology and ideology—as reflected mainly in his
+now famous Esquisse et vues préliminaires sur un ouvrage sur 1’éducation comparée
+(Plan and Preliminary Views for a Work on Comparative Education), published in 1817,
+on the basis of which Jullien has been acclaimed as ‘the father’ of CE. Here Jullien’s
+conception of CE will be referred to as representing ‘the proto-scientific humanistic
+and meliorist motif ’ in the history of the field. Second, the study examines in lesser
+detail what may be called ‘the reformist-meliorist motif in comparative education’,
+which refers to discourses about foreign education as reflected in the relevant texts of
+nineteenth-century policy-makers, reformers and administrators like Victor Cousin of
+France, and Horace Mann, Calvin Stowe and Henry Barnard of the United States.
+
+The Proto-Scientific Humanistic and Meliorist Motif:
+Marc-Antoine Jullien de Paris
+The Man, His Work and His Times
+Marc-Antoine Jullien de Paris was born in Paris in 1775, from highly educated parents
+in the humanities (philosophy, language, literature and the classics). At a young age
+and for a short period he served as a journalist for the Jacobins and the French National
+Convention, and was a diplomat and legionnaire in the service of Napoleon Bonaparte.
+He travelled widely in Europe, visited England and Scotland and also went to Egypt
+as a war commissioner in Bonaparte’s expedition there. Throughout most of his life
+11
+R. Cowen and A. M. Kazamias (eds.), International Handbook of Comparative Education, 11–36.
+© Springer Science + Business Media B.V. 2009
+
+--- [PDF Page 37 / Book Page 12] ---
+
+12
+
+Kaloyannaki and Kazamias
+
+until his death in 1848 he devoted his time to the study of education and pedagogy on
+which he wrote books, monographs, essays, reports and memoranda. During the years
+1819–1830, Jullien founded and directed the journal Revue encyclopédique ou Analyse
+raisonnée de productions les plus remarquables dans la littérature, les sciences et les
+arts (Encyclopedic Review or Reasoned Analysis of the Most Remarkable Productions
+in Literature, Sciences and the Arts) for which he wrote, among other things, on public
+education in Switzerland, Belgium and Spain.
+Jullien’s interest in education began quite early in his life, during the period of the
+French Revolution, and continued thereafter until his death. According to his biographer R. R. Palmer, Jullien started writing books on the subject in 1805 while he was
+serving in the French army. As a theorist of education he was especially attracted to the
+pedagogical ideas of the famous Swiss educators J. H. Pestalozzi and P. E. Fellenberg
+whose schools he had visited at Yverdun and Hofwyl, respectively, in Switzerland
+(Palmer, 1993). According to Fraser, in his authoritative edition and translation of
+Jullien’s Plan:
+Until his death … Jullien was engaged constantly in scientific and cultural affairs.
+He founded the Societé Française de l’union des nations, and invited international
+scholars to his home for monthly dinners. He traveled continually, attending international congresses, devoting his time to learned societies, and corresponding
+with statesmen and educators whose cosmopolitanism sought to evade the confines of nationalism as it consolidated itself in Europe (Fraser, 1964:12).
+In Jullien’s life and works, one can distinguish certain elements which, in combination
+with each other, had an effect on Jullien’s pioneering ideas in the promotion of the
+episteme (‘science’) of comparative education. Jullien was also nurtured in the ideas
+and spirit of the Enlightenment ‘paradigm of modernity’ with its emphasis on reason/
+rationalism, empiricism, science (including social science), universalism, secularism,
+progress and the nation state. Not unsurprisingly, he became interested in the scientific
+study of education.
+
+Comparative Education as ‘Almost Nearly a Positive Science’
+Jullien envisaged ‘education’ and a fortiori comparative education, to be a ‘nearly positive
+science’ (science positivie) analogous to comparative anatomy. In the Plan he explained:
+Education, as all other sciences and all the arts, is composed of facts and observations. It, therefore, seems necessary to form, for this science as one has done
+for other branches of knowledge, collections of facts and observations, arranged
+in analytical charts, which permit them to be related and compared, to deduct
+from them certain principles, determined rules, so that education might become
+almost nearly a positive science. … Researches on comparative anatomy have
+advanced the science of anatomy. In the same way the researches on comparative education must furnish new means of perfecting the science of education
+(Fraser, 1964:40–41).
+
+--- [PDF Page 38 / Book Page 13] ---
+
+The Modernist Beginnings of Comparative Education
+
+13
+
+To make comparative education a ‘nearly positive science’ Jullien developed the aforementioned Plan (Esquisse). The Plan consisted of two major parts: (a) an introductory
+statement on Jullien’s critical assessment of the state of education in the different countries of Europe, and his own ideas as to how the ‘incomplete’ and ‘defective’ European
+education could be improved; and (b) a series of questions which were intended to
+collect ‘facts and observations’ and ‘destined to furnish material for Comparative
+Observation Tables’ (Fraser, 1964:31).
+
+Why a Science of Comparative Education?
+Like his contemporary French scientific positivist philosopher-sociologist Auguste
+Comte (1798–1857), Jullien believed that the scientific method could be applied to
+human and social affairs. As a positive science, therefore, comparative education
+should focus on objectively determinable and systematically collected facts and observations. A ‘nearly positive science’ of CE, according to Jullien, which in the collection
+and tabulation of ‘facts and observations’ employed similar methods and techniques/
+instruments as the positive sciences and the ‘mechanical arts’, would be useful in
+the reform and improvement of contemporary education throughout Europe. In the
+introduction to the Plan, Jullien averred that both public and private education in the
+different countries of Europe were ‘incomplete, defective, without coordination …
+without harmony with itself in the different physical, moral, and intellectual spheres
+in which the students ought to be guided’. He attributed the social, political and moral
+ills of European countries, the corruption and ‘degradation of minds and hearts, which
+have produced revolutions and wars’, the disorder and the general deterioration of
+European societies to incomplete and defective education. Consequently, education
+needed to be reformed and improved. In his own words:
+The reform and improvement of education, the true basis of the social edifice,
+primary source of habits and opinions, which exercise a powerful influence on
+the entire life, are a need generally felt, as if by instinct, through Europe. It is a
+matter of indicating the means of satisfying the need in the surest, most efficient,
+and prompt manner (Fraser, 1964:35).
+According to Jullien, the methodological approach by which the defects and weaknesses of education, and generally ‘the condition of education and public instruction
+in all the countries of Europe’ could be ascertained, would be the drawing up of
+‘analytical summaries of information’, collected through a ‘series of questions’—a
+questionnaire—tabulated in ‘comparative tables of observations’ and classified
+under ‘uniform headings’ for purposes of ‘comparative analysis’. The responsibility for the collection of such educational facts and observations, for evaluative
+judgements and for the search of solutions to educational problems ‘would be given
+to intellectual and active men of sound judgment, (and) of known moral conduct’
+(Fraser, 1964:36–37; Kaloyiannaki, 2002:42–43). Jullien articulated this reformative-melioristic value of his ‘nearly positivist’ scientific conception of comparative
+education as follows:
+
+--- [PDF Page 39 / Book Page 14] ---
+
+14
+
+Kaloyannaki and Kazamias
+
+These analytical summaries of information, on the condition of education and
+public instruction in all the countries of Europe, would supply successively
+comparative tables of the present state of European nations in regard to this
+important aspect. One could judge with ease those which are advancing; those
+which are falling back, those which remain stationary; what are in each country the deficient and ailing sections; what are the causes of internal defects
+… or what are the obstacles to the ascendancy of religion, ethics, and social
+advancement and how these obstacles can be overcome; finally, which parts offer
+improvement capable of being transported from one country to another, with
+modifications and changes which circumstances and localities would determine
+suitable (Fraser, 1964:37).
+A ‘nearly positivist’ scientific perspective in comparative education, as envisaged by
+Jullien, would also be valuable in other respects. In one respect, it would ‘furnish
+new means of perfecting the science of education’ (Fraser, 1964:41). In another, it
+would release comparative study from political influence, the omnipotence of religion,
+prejudice and despotism (Kaloyiannaki, 2002). And, in still another, it would help in
+‘nation-building’, as he argues in the case of a comparative study of education in the
+22 cantons of Switzerland. Indeed, according to Jullien, the comparative study of education in the cantons of Switzerland would serve a double purpose: in the first place, it
+‘will give birth to the idea of borrowing from one another what they may have which
+is good and useful in their institutions’; and in the second, it will establish and consolidate ‘the political unity of Switzerland’ by developing ‘a national Helvetian mind’
+(Fraser, 1964:45–46).
+
+Jullien’s Methodology: The ‘Questionnaire’ and the Indicators of Comparison
+Jullien’s comparative methodology could be described as ‘empirico-deductive’ and
+perhaps ‘qualitative quasi-ethnographic’. It sought to gather data, in Jullien’s words
+‘facts and observations’, on education and related questions by means of a questionnaire which consisted of a ‘series of questions’ on six educational areas, namely:
+(a) primary and common education; (b) secondary and classical education; (c) higher
+and scientific education; (d) normal education; (e) education of girls; and (f) education,
+as it related to legislation and social institutions. The collected facts and observations
+would then be ‘arranged in analytical charts’ or ‘comparative tables of observations’
+which would allow for comparative analysis and the deduction of ‘certain principles,
+determined rules, so that education might become almost nearly a positive science’
+(Fraser, 1964:40).
+In the Plan Jullien identified the educational themes/topics for all six areas for
+which a series of questions would be posed. However, what he was able to complete
+was questions for the first two areas, namely, primary and common education and
+instruction, and secondary and classical education. In each area the questions posed
+were a set that covered a variety of educational issues, topics and questions. Some
+of the questions were relatively short, seeking to elicit quantitative data or yes or no
+answers, while others were relatively long and involved seeking to elicit qualitative
+
+--- [PDF Page 40 / Book Page 15] ---
+
+The Modernist Beginnings of Comparative Education
+
+15
+
+judgements and interpretations. Briefly and selectively, the questions for the first two
+areas were of the following kind:
+1. The first area ‘primary and common education and instruction’ included questions on: (a) ‘Primary or Elementary Schools’, e.g. number, organisation,
+maintenance and administration, ‘differences among the schools destined for
+children of different religious faiths’, whether they are free or not; (b) students,
+e.g. number, age of admission, enrollment ratios; (c) directors and primary
+teachers, e.g. number, preparation, salaries, possibilities for advancement or
+retirement; (d) physical education and gymnastics, e.g. ‘suckling of children,
+nourishment, clothing, sleep, beds, games, exercises, walks, hygienic care and
+diet, sicknesses, vaccination, and death rate’; (e) moral and religious education,
+e.g. ‘first development of moral sentiments, repression of vicious tendencies,
+influence of mothers of families, religious instruction whether dry and dogmatic
+or interesting and appropriate to make a profound impression on the soul, regulations and discipline of primary schools, punishments … emulation—is it used
+or not as a necessary motivation?’; (f) intellectual education, e.g. ‘development
+of the faculties of the mind, instruction or acquisition of knowledge, first education of the senses and organs, aims and ways of teaching, memory exercises,
+three principal faculties: attention, comparison, reasoning’; (g) domestic and
+private education, e.g. ‘up to what point is the education begun and continued
+by parents, in the bosom of the family, in harmony or in opposition with the
+education and instruction given in primary and public schools?’; (h) primary
+and common education—as it is related to secondary education, or to the second
+stage and with the intentions of children’, e.g. ‘Is the present organization of
+primary and common education resting on a basis sufficiently large, solid, and
+complete to supply children of poor and working classes with all the elementary
+knowledge indispensable to them to exercise and develop all their faculties?’;
+and (i) general considerations, e.g. ‘Is the present manner of bringing up children, up to their seventh or ninth year, the same as in former times? Or rather, in
+what does the difference consist, between the new and old ways of education?’
+(Fraser, 1964:53–67).
+2. The questions in the second area ‘Secondary and Classical Education’ were
+similar to those in the first. They asked for information about (a) secondary
+schools (colleges, gymnasia, private institutions and boarding schools), namely,
+‘number, nature, origin and foundation, organization … fees’; (b) students,
+namely, number, age, ‘their division into classes’, etc.; (c) physical education
+and gymnastics; (d) moral and religious education, for example, ‘Knowledge of
+God, daily prayers, feeling of benevolence, courage, patience’; (e) intellectual
+education, for example, ‘development of the faculties, acquisition of knowledge or instruction … teaching aims/methods … classical books … exercises
+to develop the memory, judgment or reason, imagination … vacations … letter writing style … study of laws’; (f) domestic and family education—in its
+relationship with public education; and (g) ‘general considerations and various
+questions’ (Fraser, 1964:67–82).
+
+--- [PDF Page 41 / Book Page 16] ---
+
+16
+
+Kaloyannaki and Kazamias
+
+Jullien’s Conception of Comparative Education: A Positive or a Human Science?
+Viewed from the vantage point of a positivist empirical-scientific methodology, it could
+be said, as indeed it has been said, that Jullien’s questionnaire is too complex, too long
+and ‘biased’ in the sense that ‘Jullien’s assumptions about the proper goals of education colored the questions he asked’ (Noah and Eckstein, 1969:29). Likewise, from the
+same positivist methodological perspective one might also add that in several parts,
+the questions in the Plan are convoluted and ‘leading questions’ seeking less to record
+‘objectively determinable’ and systematically collected ‘facts and observations’, and
+more to instruct and promote Jullien’s own ideas and theories about education. Such
+evaluative comments would indeed be quite in order, especially on the question of
+‘biased’ and convoluted ‘leading questions’ which appear quite frequently under the
+thematic categories of ‘moral and religious education’ and ‘intellectual education’.
+Here are some selected pertinent examples of such types of questions (Fraser 1964).
+
+Under ‘Moral and Religious Education’
+- ‘Does one restrict religious instruction to teaching and explanation of the catechism, precepts, dogmas, ceremonies, exterior forms? Or does one attempt to
+penetrate children’s souls, give solid internal foundation to their religious belief,
+to form conscience, to develop and fortify by the double strength of habits and
+examples, the moral character, true devotion, disposition to benevolence, tolerance, Christian charity?’
+- ‘Does one apply oneself (according to the wise advice of the German philosopher, Basedow) to making children well acquainted with virtue in its beautiful
+side and with vice in its bad side, so that they may become truly good men and
+not hypocrites, that is to say, that they not only have their own interests in view,
+when they do good?’
+
+Under ‘Intellectual Education’
+- ‘What are the aims of education which the children usually receive in primary
+school? (Does one limit oneself in the majority of schools to reading, writing and
+arithmetic? Or does one also give a few elementary ideas of grammar, singing,
+geometrical drawing, geometry, and land surveying, applied mechanics, geography and history of the country, anatomy of the human body, practical hygiene,
+natural history applied to the study of land products most useful to men? All the
+elements of these sciences, as essentials to each individual in all conditions and
+circumstances of life, would seem to have to form a part of a complete system of
+primary and common education, perfectly appropriate to the true needs of man
+in our present state of civilization.)’
+- ‘Does one apply the elementary teaching method of arithmetic, practiced with
+success by M. Pestalozzi in his educational institute; or of any other methods of
+the same kind, whether in arithmetic, or for other branches of instruction?’
+- ‘How does one seek to develop and exercise in children, in a progressive and
+imperceptible manner, first, the power of attention, the foremost faculty and
+
+--- [PDF Page 42 / Book Page 17] ---
+
+The Modernist Beginnings of Comparative Education
+
+17
+
+generator of all others; then, the faculty of comparing or the simile; finally,
+reasoning (which are the three essential and fundamental faculties of human
+understanding, according to the distinction established by M. Laromiguiere, in
+his Lessons of Philosophy)?’
+If, however, one were to place Jullien’s conception of a ‘science of education’ in the
+post-Enlightenment broader ‘scientific’ intellectual historical context, and, further, if
+one bore in mind (a) Jullien’s humanistic cultural background, and (b) as noted above,
+that Jullien was nurtured in the ideas, spirit and culture of the Enlightenment ‘paradigm
+of modernity’, one could perhaps understand his conception of comparative education
+as ‘an almost nearly positive science’, i.e. as not a positive science in the strict meaning
+of the term, as this is shown by the nature of the questionnaire and the indicators of
+comparison in the Plan. Positivism, stricto sensu, affirms that ‘all knowledge regarding matters of fact is based on the “positive” data of experience’, and its all-important
+imperative is ‘strict adherence to the testimony of observation and experience’. As
+a philosophical ideology, further, positivism is ‘worldly, secular, anti-theological,
+and anti-metaphysical’ (http://www.brittanica.com/eb/article9 108682/Positivism).
+Additionally, according to the Wikipedia encyclopedia, as it developed in the second
+half of the twentieth century, positivism (a) focuses ‘on science as a product, a linguistic
+or numerical set of statements’; (b) insists that at least some of the statements made are
+‘testable, that is amenable to being verified, confirmed, or falsified by the empirical
+observation of reality’; and (c) is based on the belief that ‘science rests on specific
+results that are dissociated from the personality and social position of the investigator’
+(http:1/en. wikipedia. org/wiki/Positivism).
+Bearing in mind the above, Jullien’s conception of a ‘science of comparative education’ cannot be said to be consonant with the positivistic scientific conceptions of
+comparative education that developed in the second half of the twentieth century, e.g.
+that of Harold Noah and Max Eckstein (Noah & Eckstein, 1969). Nor can it be said
+that it was consonant with other scientific conceptions of the same twentieth-century
+period, e.g. those of Brian Holmes (Holmes, 1965), George Bereday (Bereday, 1964),
+the University of Chicago Functionalist School (Anderson, 1961; Foster, 1960), or
+indeed the Stanford World Systems School of later years (Arnove, 1982). It can, however, still be said that Jullien’s conception of a science of comparative education was
+consonant with what the French and other Europeans, e.g. the Greeks and the Germans,
+refer to as ‘human sciences’, which in certain respects are differentiated, in terms of
+methodology and subject matter, from the positive and the other empirical-statistical
+sciences. Two years after the appearance of the Plan for comparative education, Jullien
+published a Sketch for an Essay on the philosophy of the sciences where, according to
+Palmer, ‘science was taken to mean mental activity of all kinds, including, applied technology, political and economic treatises, imaginative literature, and the fine arts’. In a
+‘Synoptic Table of Human Knowledge According to a New Method of Classification’
+in the same Sketch, Jullien classified ‘human knowledge’ under ‘first order’ and ‘second order’ sciences. Under ‘first order’ sciences he included the physical sciences and
+practical sciences such as ‘agriculture, mining, engineering and healing’, and under
+‘second order’, he included ‘metaphysical, moral and intellectual sciences, relative to
+
+--- [PDF Page 43 / Book Page 18] ---
+
+18
+
+Kaloyannaki and Kazamias
+
+the mind’, history, psychology, natural theology, liberal arts, fine arts, practical morality and education (Palmer, 1993:176–178).
+Ideologically, as explained below, Jullien could be characterised as an Enlightenment
+liberal and an international cosmopolitan humanist educational reformer. The purpose
+of investigating, in a scientific/epistemic way, what he considered to be a defective,
+morally and intellectually, and an ‘incomplete’ European education, was to ameliorate/improve it by reforming it along what he considered to be the desirable moral,
+intellectual and physical educational principles. As quoted above, the Enlightenment
+liberal humanist Jullien considered education to be ‘the true basis of the social edifice,
+primary source of habits and opinions, which exercise a powerful influence on the
+entire life’ (Fraser, 1964:35). He believed that education can exert a decisive influence on the moral and intellectual ‘renaissance’ of man, on national welfare and on
+nation-building (Kaloyiannaki, 2002). His comparative method—the use of the type of
+questionnaire analysed above—sought to do more than merely collect ‘facts and observations’. As Noah and Eckstein have pointed out, Jullien ‘was ultimately concerned
+with problems of diffusing knowledge of education, particularly knowledge of educational innovation’. The same authors have added: ‘Influenced as he was by the ideas
+of Rousseau and Pestalozzi, he wished to encourage a practical, child-centered educational methodology that emphasized, among other things, education of the senses and
+preparation for life in society, all with a humanitarian emphasis’ (Noah & Eckstein,
+1969:16). Actually, Jullien wished to encourage a multi-prismatic humanistic education, as indicated by his emphasis in the questionnaire on the moral, the religious, the
+physical and the intellectual education of ‘man’, who, according to him, is ‘the subject
+on which education acts’. Man, Jullien avers, ‘is composed of three elements: body,
+heart, and mind, whose culture and development constitute for him the true means of
+happiness’ (Fraser, 1964:48). It would be relevant to add here that Jullien’s Plan and
+the questions asked reflected also the humanitarian influence of the German Count
+Leopold Berchold, a renowned ‘traveler and humanist’, and of the Frenchman M.
+Laromiguiere to whom he refers in the questionnaire in connection with an education
+that cultivates the ‘faculties of the soul’ (Fraser, 1964:41, 91, 133–147; Kaloyiannaki,
+2002). And, further, that some researchers (Gautherin,1993; Leclercque, 1999) consider that Jullien’s work constructs a polyphonic human world; for in the Plan Jullien
+goes beyond Europe and refers to ‘mankind as a whole’ (humanité), to ‘all people’,
+to the ‘amelioration of the human being’ and to the ‘love for mankind’, thus giving a
+universal and humanitarian character to his comparative approach and the propositions
+for reform (Kaloyiannaki, 2002).
+
+A French Enlightenment Liberal: Liberté, Raison, Education
+In the preface to his study on Jullien, titled From Jacobin to Liberal (1993), R. R.
+Palmer wrote:
+Born in the year when armed rebellion against Britain began in America, he
+(Jullien) witnessed the fall of the Bastille as a schoolboy in Paris, joined the
+Jacobin club, took part in the Reign of Terror, advocated democracy, put his
+
+--- [PDF Page 44 / Book Page 19] ---
+
+The Modernist Beginnings of Comparative Education
+
+19
+
+hopes in Napoleon Bonaparte, turned against him, welcomed his return from
+Elba, became an outspoken liberal under the restored Bourbons, rejoiced in the
+revolution of 1830, had doubts about the July monarchy, welcomed the revolution of 1848, and died a few weeks before the election of Louis-Napoleon
+Bonaparte as president of the Second Republic (Palmer, 1993:ix).
+And in a chapter on Jullien as a ‘theorist of education’, the same author noted: ‘In
+education, as in other respects, he (Jullien) turned from the Jacobin into the liberal.
+Where he had once seen education as part of the revolutionary process, he came to see
+it as a substitute for revolution, or as a means by which revolution could be prevented”
+(Palmer, 1993:151).
+The Enlightenment, R. Freeman Butts, a noted educational historian, has written,
+‘was a reaction against the traditional civilisation of the old regime in Europe—against
+absolute monarchy, closed economic systems, rigid social stratification, religious
+authoritarianism, an unscientific world view, the doctrine of original sin in human
+nature, and the domination of intellectual life by medieval conceptions of knowledge’.
+And further:
+Underlying this protest was a growing faith in the powers of man, in science,
+and in human reason. This age of reason preached the humanitarian faith in
+progress that man, by taking thought, could reform his institutions as a means
+of promoting the general welfare. These currents of thought helped to shape the
+pervasive liberal and democratic ideals that came to mark the heartland of the
+West (Butts, 1973:307).
+To the above, one should add another basic tenet of the Enlightenment, namely, the
+concept of ‘freedom’. ‘Freedom’ was emphasised by J. J. Rousseau, the eminent
+modern political and educational philosopher and an Enlightenment thinker who influenced Jullien, but also by an equally eminent philosopher, the German, Immanuel
+Kant. According to Kant, ‘Enlightenment is man’s emergence from his self-incurred
+immaturity. There is more chance of an entire public enlightening itself … if only the
+public concerned is left in freedom … freedom to make public use on one’s reason in
+all matters’ (http://philosophy.eserver.orgjkant/what-is-enlightenment). Lastly, and of
+particular relevance here, it should be made explicit what appears to be implicit in the
+above, that in the philosophy of the Enlightenment, education, pedagogy, ‘politics’ and
+‘nation-building’ were closely related.
+Jullien’s Plan and his other texts on education (e.g. his General Essay on Education
+published in 1808) as well as his many writings on ‘culture’ and ‘civilisation’ reflect
+certain of the aforementioned key ideas of the Enlightenment. First, as shown in the
+Plan but also elsewhere, Jullien placed great emphasis on ‘reason’ and the related
+‘scientific way of knowing’, which, as indicated above, were cardinal tenets of the
+philosophy of the Enlightenment. In the first number of the newly launched Revue
+Encyclopédique, which appeared in 1819, Jullien wrote: ‘Our new journal should meet
+one of the needs of our time. Its object is to set forth, accurately and faithfully, the
+march and continuing progress of human knowledge in relation to the social order and
+
+--- [PDF Page 45 / Book Page 20] ---
+
+20
+
+Kaloyannaki and Kazamias
+
+its improvement which constitute true civilization.’ And in an issue in 1823, he wrote:
+‘Our Revue is the first and only work to have executed, by periodical publication, the
+great Baconian idea of the unity of the sciences, brought together in such a form as to
+resemble a universal Congress, in an alliance truly holy for advancement of the human
+mind toward the same moral and philosophical goal in the infinitely varied spheres
+where it is destined to operate’ (Palmer, 1993:178–181; Davies, 1996:596–598).
+A second element in Jullien’s theory of education, which was consonant with the
+philosophy of the Enlightenment, was his emphasis on the ‘regeneration and perfection of public education/instruction’ (Fraser, 1964:36). Like the French Enlightenment
+thinkers and the French and English political liberals of that time, Jullien considered
+public education to be socially and politically important for the production of enlightened and patriotic ‘citizens’, for man’s ‘renaissance’, for progress and national welfare.
+As Palmer pertinently has observed:
+It is evident why Jullien thought of education as an aspect of political or social
+science. The ideas expressed were not his alone. They may be found, more piecemeal, in the educational plans formulated before and during the Revolution,
+including those of Talleyrand in 1791, Condorcet in 1792, and a plan endorsed
+by the Paris Jacobins in 1793. They resemble the ideas of Jeremy Bentham and
+the emerging “Philosophical Radicals” in England (Palmer, 1993:154).
+Still another Enlightenment element in Jullien’s educational ideological repertoire,
+which reflected the influence of Rousseau and Pestalozzi, was his emphasis on the
+pedagogical principle of ‘complete liberty in the development of natural faculties or
+inclinations and the individuality of each pupil’. After visiting Pestalozzi’s school at
+Yverdon in Switzerland in 1810, Jullien enunciated the following pedagogical principle: ‘The fourth general principle … consists in allowing a full development of
+the original faculties and inclinations of each pupil as they reveal and express his
+true nature. … The child grows and in a way instructs himself; the teacher is only
+the external means of development and instruction. … Education should make each
+child capable of rising to all perfection that his physical, moral and intellectual nature
+allows’ (Palmer, 1993:163–164).
+
+An International Educationist/Pedagogue and a Cosmopolitis (World Citizen)
+From the 1940s, when Jullien’s Plan was accidentally discovered, till today, comparative educationists have credited Jullien with being a pioneer in the development
+of comparative education; indeed, as noted above, some comparativists have hailed
+Jullien as the ‘father’ of this modernist episteme (science). Generally speaking, however, comparativists have paid relatively little attention to Jullien’s pioneering ideas
+about international education (IE), a kindred epistemic field.
+The term/concept ‘international education’ has been plagued by vagueness and a
+multiplicity of definitions and interpretations concerning its subject matter (Vestal,
+1994:13). In the recent literature on it, there is a distinction drawn between international education and comparative education, but also a recognition that the two
+
+--- [PDF Page 46 / Book Page 21] ---
+
+The Modernist Beginnings of Comparative Education
+
+21
+
+epistemic domains are related to each other (Fraser & Brickman, 1968). This is also
+witnessed by the fact that in the 1960s, the name of the newly founded Americanbased Comparative Education Society was changed to Comparative and International
+Education Society (Jones, 1971:22). When the term is used by comparative and
+international educationists it usually refers to the following activities and concerns:
+(a) study of the education of other peoples in other countries; (b) educational exchanges
+and study abroad; (c) technical assistance to educational development in other countries; (d) international cooperation in educational development through international
+organisations; (e) ‘comparative and cross-cultural studies in a variety of subjects and
+disciplines’; and (f) intercultural education (Vestal, 1994:14).
+Viewed from such an international education perspective, one could, not unjustifiably, refer to Jullien as being a precursor of ‘international education’. His views
+about, and criticisms of, the state of education at the time referred to the ‘different
+countries of Europe’, not just to his native France. Also, as he states in the Plan, what
+was needed for ‘the regeneration and perfection of public education’ in Europe was
+the organisation of a Special Education Commission ‘small in number, composed of
+men in charge of collecting, through their own means and by corresponding associates
+chosen with care, the materials for a general work on the establishments and methods
+of education and instruction in the different European states, related and compared
+under this report’. With a carefully selected staff of international associates, this special international commission would see that ‘analytical summaries of information’
+about ‘the condition of education and public instruction’ in all the countries of Europe
+were collected through the use of a common method, namely, a ‘questionnaire’. The
+purpose of collecting such ‘analytical summaries of information’ was to evaluate the
+state of education in each European nation, to determine and explain the ‘deficient and
+ailing sections’ in each country, and to make suggestions for improvement. Speaking
+as a theorist of education, but more so as an international educational reformer and
+pedagogue, Jullien elaborated:
+These analytical summaries of information, collected at the same time and in the
+same order … would supply successively, in less that three years, comparable
+tables of the present state of European nations in regard to this important aspect.
+One could judge with ease those which are advancing; those which are falling
+back, those which remain stationary; what are, in each country, the deficient and
+ailing sections; what are the causes of internal defects … or what are the obstacles to the ascendancy of religion, ethics, and social advancement, and how these
+obstacles can be overcome; finally, which parts offer improvement capable of being
+transposed from one country to another, with modifications and changes which
+circumstances and localities would determine suitable (Fraser, 1964:36–37).
+In the Plan, in addition to the organisation of a special international commission, he
+proposed that a Normal Institute of Education and similar institutions be established
+in different areas for the training of ‘good teachers’. The Normal Institute would publish a multilingual Bulletin or General Journal of Education which would disseminate
+information for the ‘perfecting of instructional methods’ (Fraser, 1964:39).
+
+--- [PDF Page 47 / Book Page 22] ---
+
+22
+
+Kaloyannaki and Kazamias
+
+Jullien’s internationalism in education and more broadly in ‘culture’, ‘knowledge’
+and ‘civilisation’ was reflected in other activities and theoretical treatises. As Fraser,
+quoted above, has noted: ‘He (Jullien) travelled extensively, attending international
+congresses, devoting his time to learned societies, and corresponding with statesmen
+and educators whose cosmopolitanism sought to evade the confines of nationalism
+as it consolidated itself in Europe.’ Apropos of Jullien’s contacts with eminent international figures, Fraser quotes Thomas Jefferson, the American president, who in a
+letter in 1810, acknowledging receipt of Jullien’s General Essay on Education, praises
+Jullien for his ‘devotion to international education’ (Fraser, 1964:12–13).
+The Revue Encyclopédique, of which he was founder and editor, published articles,
+reports, short notices, book reviews and letters on civilisation/culture (letters, literature and the arts) and the sciences in America, Asia, Africa and Europe. In one of the
+‘letters’ to the correspondents and contributors of the Revue, Jullien noted that the
+journal was ‘circulated through all countries of the civilized world’, and added:
+It is not enough for us to be encyclopedists; we aspire especially to be cosmopolites (world citizens). We would not think our task fulfilled unless each of our
+numbers presented, in the most complete and accurate way, the state of sciences,
+letters, arts, intellectual labors and moral improvement throughout the surface of
+the globe. (Palmer, 1993:180–181)
+Lastly, it would be appropriate to mention here that Jullien, the internationalist and
+the cosmopolitis (world citizen), does not only merit Palmer’s characterisation of
+‘apostle of civilisation’, he could also, quite justifiably, be called ‘apostle of peace’.
+Perturbed by what he perceived to be ‘the dissolution of all religious, moral, and social
+bonds, extreme corruption, degradation of minds and hearts, which have produced
+revolutions and wars’, Jullien stressed the need for the improvement of education,
+nationally and internationally, for international cooperation and for peaceful coexistence (Kaloyiannaki, 2002). He became a member of the London-based ‘Association of
+Friends for Peace’, and in 1833 in A Letter to the English Nation, he wrote:
+Our illustrious and learned CUVIER, whose recent death was a loss as keenly
+felt in England as in France, had rightly judged, in his lofty meditations, that
+only comparative anatomy and comparative geology could advance the sciences
+of anatomy and geology which remained so long in their infancy. Similarly, only
+comparative civilization can speedily advance our present civilization, which
+still preserves, despite its brilliant and imposing wonders, the deep and afflicting
+traces of the old barbarism. (Palmer, 1993:205)
+Given his views about the value of a reformed European education and pedagogy in
+the regeneration of European societies and the amelioration of the human condition
+in general, in the Letter quoted above, Jullien could easily have added comparative education next to comparative civilisation as being of equal significance in the
+advancement of ‘our present civilization’. This ameliorative element, which is salient
+in Jullien’s own ‘lofty meditations’ as well as in his proposals and activities for the
+
+--- [PDF Page 48 / Book Page 23] ---
+
+The Modernist Beginnings of Comparative Education
+
+23
+
+advancement of ‘civilization’ and ‘comparative and international education’, merits
+additional comment.
+
+A ‘Scientific Humanist’ Reformer and a Meliorist Comparativist/Internationalist
+Historical accounts of comparative education as a modernist episteme (‘science’)
+have placed Jullien’s conception of this epistemic area in the first phase of its course
+of development, which has been characterised as the phase of ‘borrowing’. Other
+nineteenth-century observers of European education who have been placed in this
+‘borrowing’ category of ‘comparativists’ are the American and European educational
+reformers mentioned in the introduction to this chapter, namely, Calvin Stowe, Victor
+Cousin and Horace Mann, about whom more will be said below. The emphasis of
+‘borrowing’ in the nineteenth century, according to Bereday, ‘was on cataloguing
+descriptive educational data; comparison of the collected information was then undertaken in order to make available the best practices of one country for transplantation
+to others’ (Bereday, 1964:7). And, according to Noah and Eckstein, Jullien’s Plan ‘is a
+prime example of work in comparative education motivated by a desire to gain useful
+lessons from abroad’ (Noah & Eckstein, 1969:15, 21). Behind the idea of ‘borrowing’,
+of ‘transplantation of best practices’ and of ‘gaining useful lessons’ was the meliorist
+ideology of improvement.
+In the Plan, Jullien uses the word ‘borrowing’ as a likely benefit of comparative
+analysis, when he talks about applying his ‘instrument’ and ‘observation charts’ first
+to the cantons of Switzerland. In his words: ‘The bringing together and comparison
+of cantons in these respects will give birth to the idea of borrowing from one another
+what they may have which is good and useful in their institutions’ (Fraser, 1964:46).
+In the same text, Jullien also uses the word ‘transpose’ in the sense of transferring
+what is found through comparison to be an improvement in one country, to another. In
+such a case, however, ‘modifications and changes which circumstances and localities
+would determine “suitable,” would have to be made’. So, one could say that behind his
+notions of ‘borrowing’ and ‘transfer’ was one side to Jullien’s meliorist ideology which
+was similar to that of the aforementioned nineteenth-century reformers.
+But there was another side to Jullien’s meliorism that differentiated him from the
+other ‘borrowing comparativists’. This, simply stated, was that Jullien had definite
+ideas about the type of education and pedagogy that was needed for the regeneration
+of European man, civilisation and society. This is patently evident by the types of
+questions he included in the Plan, some of which are quoted in the relevant section
+above. The regeneration of human society, Jullien averred, could only be accomplished
+through a ‘moral and religious education’ as well as an ‘intellectual education’.
+A believer in ‘faculty psychology’, the dominant psychological theory of the
+time, Jullien called for an education that would develop ‘attention, comparison and reasoning’, the ‘three principal faculties of the mind’. More important, Jullien implies in
+the questionnaire, would be moral and religious education, specifically: ‘first development
+of moral sentiments … religious instruction, dry and dogmatic or interesting to make
+a profound impression on the soul … knowledge of God, daily prayers, feeling of
+benevolence, courage, patience’ (Fraser, 1994:60, 63, 71). And in the introductory part
+
+--- [PDF Page 49 / Book Page 24] ---
+
+24
+
+Kaloyannaki and Kazamias
+
+to the questionnaire, he unequivocably declared: ‘It is through the return to religion
+and morality, it is through a reform widely contrived, introduced in public education,
+that one can reinvigorate men …, it is time to give to the prosperity of nations and
+to the broad foundation of politics the necessary stability of religion and morality’
+(Fraser, 1964:34–35).
+
+Epilogue: Jullien as a Comparative and International Educator
+We have no evidence that Jullien’s comparative methodology or his ideas and proposals about comparative and international education as presented in his Plan and
+preliminary views for a work in comparative education were adopted or had any significant influence in the subsequent development of the two related epistemic domains.
+As historians of comparative education, we concur with what Stewart Fraser in his
+authoritative edition and evaluation of Jullien’s Plan wrote back in 1964. Agreeing
+with the historical judgement of Franz Hilker, Isaac Kandel and Nicholas Hans, three
+twentieth-century pioneer comparativists, that Jullien ‘was unable to influence the
+development of comparative education to any great extent’, Fraser added:
+While Jullien may not necessarily qualify as the principal instigator or exponent
+of comparative pedagogy in the nineteenth century his Plan remains one of the
+most important artifacts in the science. Technically, and in fact, Jullien never
+developed a thoroughgoing comparative methodology in education, nor did he
+live to see his ideas for institutes of international education become established,
+but he has been widely identified as one of the first to consolidate these useful
+ideas into a preliminary draft of such potential magnitude that he cannot be
+ignored today (Fraser, 1964:117).
+
+The Policy-Oriented and Administrative Meliorist
+Motif in Comparative-International Education: Victor
+Cousin of France, and Horace Mann, Calvin Stowe and
+Henry Barnard of the United States
+Jullien’s Plan and his other writings that dealt with comparative and international education were among very few such discourses that appeared at the beginning of the nineteenth
+century. Indeed, Jullien’s Plan was rather unique insofar as ‘comparative education’ was
+concerned. But, as William Brickman, a noted historian of ‘international education’ has
+noted, by 1900, the ‘meager literature’ on ‘foreign education’, what in German has been
+referred to as Auslandspadagogik, was transformed into a ‘flood of books’ and other
+writings, e.g. reports, travellers’ or visitors’ observations, journalistic reportages and the
+like (Fraser & Brickman, 1968:19). This was especially true of the United States, but a
+heightened interest in Auslandspadagogik (education in ‘other lands’) was also manifested in European countries, particularly in England and France.
+The period following the French Revolution was one of portentous political, social,
+cultural and economic changes. According to the already mentioned historian Freeman
+
+--- [PDF Page 50 / Book Page 25] ---
+
+The Modernist Beginnings of Comparative Education
+
+25
+
+Butts, by the middle of the nineteenth century there was a ‘transmutation in the heartland of Western civilisation’ from ‘traditional’ to ‘modern’ ideas, socio-economic and
+political institutions, and values (Butts, 1973:295). Central to the ‘modernity project’,
+to use Jurgen Habermas much discussed characterisation of this transmutation, also
+referred to as ‘modernisation’, was the Enlightenment ideas of reason and the ‘reconstruction of the public sphere in which reason might prevail’, as well as the ‘rational
+organisation of everyday social life’, of ‘objective science’, of universal ‘morality and
+law’ (Habermas, 2007).
+An important element of the Enlightenment ‘modernity project’ was the reform
+of education. The rational organisation of ‘national/public education’ was seen as a
+necessary condition in the reconstruction of the public sphere—the emerging political formation of the ‘nation state’—and the rational organisation of social life (Butts,
+1973:301–302). As was the case with Jullien’s interest in comparative education, nineteenth-century European and American reformers, in their capacity as educational
+administrators and policy-makers in their respective countries, showed an interest
+in ‘foreign/international education’, mainly, however, for the purpose of what in the
+aforementioned historical accounts of the development of comparative education
+has been referred to as ‘educational borrowing’ (Bereday, 1964:7; Noah & Eckstein,
+1969:16–21). Jullien’s interest in comparative and international education, as noted
+above, was partly melioristic in the ‘educational borrowing’ connotation of the term,
+but purportedly it was also ‘scientific’: the systematic collection of comparative ‘facts
+and observations’ through a questionnaire, which would permit the comparativistinternationalist ‘to deduct from them certain principles, determined rules, so that
+education might become almost nearly a positive science’ (Fraser, 1964:40–41). To
+illustrate this ‘non-scientific’ melioristic, in the sense of ‘borrowing’ international/
+foreign educational discourses and practices, we have chosen to present the ideas
+of Victor Cousin of France, Horace Mann, Calvin Stowe and Henry Barnard of the
+United States.
+
+The French Discourse: Victor Cousin—‘If it is Prussia
+I Study, it is Always of France that I Think’
+Victor Cousin (1792–1867) was a contemporary of Jullien, and like Jullien, an
+Enlightenment liberal intellectual, but there is no evidence that the two collaborated
+or communicated with each other. Cousin, according to Palmer, was mentioned as
+‘subject’ in Jullien’s Revue Enclopédique, but not as a contributor (Palmer, 1993:180).
+In his professional career as philosopher-teacher at the Sorbonne, Cousin was attracted
+to German philosophy, particularly to Hegelian idealism, which, according to Walter
+Brewer’s authoritative study Victor Cousin as a Comparative Educator (1971),
+Cousin introduced into French philosophy (Brewer, 1971:23–24). It was not, however,
+only German philosophy that Cousin held in high esteem and sought to introduce
+into France. Like other contemporary European and, as we shall see later on in this
+chapter, American thinkers and reformers, Cousin held German public education to
+be very successful, and worthy of study for the purpose of emulating some of its
+
+--- [PDF Page 51 / Book Page 26] ---
+
+26
+
+Kaloyannaki and Kazamias
+
+characteristics and practices. So, soon after his transformation from philosophy professor to philosopher cum administrator and educational policy-maker during the July
+Monarchy of Louis Philippe (1830–1848)—he served as a member of the Supreme
+Council of Public Instruction in Guizot’s ministry and in 1840 for a short time as
+Minister of Public Instruction—Cousin travelled to Germany to study the German
+educational institutions and practices. The result of his German tour was his influential
+report Rapport sur 1’état de 1’instruction publique en Prusse (Report on the state of
+public instruction in Prussia) (1831) which, according to the American historian E. W.
+Knight, ‘is among the most important of all the reports on educational conditions in
+Europe during the second quarter of the nineteenth century’ (Knight, 1930:117–118).
+
+Cousin’s Report on Prussian Public Instruction
+The main part of Cousin’s report dealt with aspects of Prussian education that Cousin
+considered appropriate to his purpose, which was expressed in these words: ‘if it is
+Prussia I study, it is always of France that I think’ (Brewer, 1971:50). Most of what
+Cousin considered appropriate for his purpose, he found in a legislative proposal by
+Privy Councilor Johann Wilhelm Suvern, which he called the ‘Law of 1819’. Cousin
+commented on the following aspects of the Prussian public system of primary education: the organisation and administration or ‘the government of public instruction’; the
+training, appointment, promotion, emoluments and ‘punishment’ of primary ‘schoolmasters’; the ‘duty’ of parents to send their children to the primary schools, and of
+each parish ‘to maintain a primary school at its own cost’; the ‘different gradations
+(or stages) of primary instruction’, i.e. elementary schools (Elementarschulen) and
+burgher schools (Burgerschulen); and the content of school curricula (Knight, 1930).
+The Suvern ‘Law of 1819’ could be interpreted as being part of the politico-social
+side of the already mentioned European ‘modernity project’. As Brewer has written,
+‘it was among the last in the series of political and social reforms that were designed
+to modernize and strengthen the State after the disasters of 1805–1806 had left Prussia
+dismembered and prostate at the feet of the French Imperial Army’ (Brewer, 1971:44).
+The Enlightenment liberal reformer Cousin, like his contemporary Prussian reformers,
+considered the establishment of a national system of public primary schools as being
+a basic desideratum necessary for the development of a modern French nation state.
+In the Germanic-Prussian system of primary education and in the Law of 1819, which
+he described in glowing terms in his 1831 report, Cousin, then a high-ranking policymaker, saw a framework for the restructuring of French education and the formation
+of a national system.
+In his report, Cousin identified and commented on several aspects of the legal and
+institutional framework of the Prussian educational system in the ‘Law of 1819’,
+which, according to him, could be profitably transferred to France. Among these,
+three received special attention. One, to which he devoted considerable space, had
+to do with the provisions and mechanisms, which Cousin called the ‘machinery’ and
+‘government’ of public instruction, for the formation of a national system. Specifically,
+he commented on: (a) the ‘national’ obligation of parents to send their children to the
+primary schools; (b) the ‘duty of each parish to maintain a primary school at its own
+
+--- [PDF Page 52 / Book Page 27] ---
+
+The Modernist Beginnings of Comparative Education
+
+27
+
+cost’; (c) a decentralised administrative structure, whereby, according to the ‘Law of
+1819 … every primary school, in town or country, shall have its own particular management, its own special committee of superintendence’; and (d) maintenance ‘in a
+just and reasonable measure’ of the ‘ancient’ and beneficial union of popular education
+with Christianity and the church, but ‘always under the supreme control of the state,
+and of the minister of public instruction and ecclesiastical affairs’ (Cousin, 1930:130–
+155, 189–198).
+Another aspect of Prussian education, embodied in the ‘Law of 1819’, that impressed
+Cousin was the organisation of schooling at a national level. The law provided for ‘two
+stages or gradations in primary instruction, i.e. elementary schools (Elementarschulen)’
+for the ‘lower classes’ and ‘burgher schools (Burgerschulen, Stadtschulen)’ for the
+middle-class tradesmen and artisans, followed by a third-stage gradation, the ‘gymnasia’, for those who wanted ‘to enter on a course of practical studies in ordinary life, or
+scientific, superior and special, or professional, studies at the universities’ (pp. 155–
+156). Cousin also referred to, and commented—rather positively—on, the detailed
+provisions of the law that pertained to the content of the curricula of the elementary
+and burgher schools. He noted that both types of schools were to provide a general curriculum consisting of religion and morals, the German language, history, geography,
+mathematics, physics, gymnastics, drawing and singing. The burgher schools, in addition, were to teach Latin. The gymnasia, on the other hand, were to provide exclusively
+‘a classical and liberal culture’ (pp. 155–164).
+The third aspect of the Prussian system of education that received special attention
+by Cousin was the training of primary ‘schoolmasters’ and their ‘mode of appointment,
+promotion and punishment’. Here again, Cousin quoted in detail the provisions of the
+1819 Suvern Law, emphasising what he did with the aforementioned other aspects
+of the Prussian system, namely, the care and active role of the state in education (pp.
+167–188).
+Translated into English and published in England and the United States, Cousin’s
+report on public instruction in Prussia impressed the English and American educational reformers, who in the second quarter of the nineteenth century were actively
+involved in the development of a national state system of elementary schools (Brewer,
+1971:54–57). In America, according to Knight, the educational historian: ‘The report
+served to emphasize the importance of state control of education and the training of
+teachers in normal schools supported by the state. Its influence is widely apparent,
+especially in Michigan and Massachusetts.’ In England, Knight added, ‘[t]he Foreign
+Quarterly Review viewed Cousin’s report as an incontestable proof, “by the solid and
+substantial argument of complete practical success”, that a system of national education was not visionary, not merely a chimera, “not a phantom of the brain, imagined
+by dreaming philosophers; but a mode of insuring the elementary instruction of all
+children, which may be established and maintained not less than any army or navy”
+(Knight, 1930:116–119).
+The influence of Cousin’s report in England and the United States lay more in providing a legitimising` force for the educational reform efforts of the times, which
+sought to establish a national state system of elementary/primary schooling. In his
+native, France, on the other hand, Cousin’s report not only provided a legitimating
+
+--- [PDF Page 53 / Book Page 28] ---
+
+28
+
+Kaloyannaki and Kazamias
+
+rationale for the reform of primary instruction, it actually influenced the enactment of
+the famous Guizot Law of 1833, which in large part was written by Cousin himself;
+it was based on his report, and it laid the foundation for the development of a French
+national system of elementary education (Knight, 1930:116; Brewer, 1971:36; Halls,
+1965:20). It should be noted here that Guizot and Cousin, both liberals, became highranking political figures and educational policy-makers under the new monarchy—the
+July Monarchy of Louis Philippe (1830–1848). ‘To liberals’, according to the
+European historian J. M. Roberts, ‘Louis Philippe was attractive because he reconciled
+the Revolution with the stability provided by the monarchy’ (Roberts, 1996:352). To
+Cousin, the post-Revolutionary liberal intellectual, who characterised himself as an
+‘eclectic’ thinker, a Louis Philippe constitutional monarchy would combine the best
+qualities of both monarchy and democracy. As an ‘eclectic’ liberal political ideologist and policy-maker during the July Monarchy, he was to found a philosophy of the
+middle-of-the-road that meant to offend neither Catholic nor atheist, that would be
+liberal, proclaiming the principles of the French Revolution, but would be opposed to
+republicanism, a philosophy that was an apologia for the rule of the ‘upper bourgeoisie’ (Brewer, 1971:30). Cousin’s discourse on education—his policy talk and policy
+practices— reflected his ideological ‘eclecticism’.
+
+An ‘Eclectic’ Political Liberal and Educational Reformer
+Cousin’s ‘eclectic’ liberal educational ideology is reflected both in his discursive
+text on Prussian education and in the policy text of the Guizot Law, reputedly written largely by Cousin. As noted in the discussion above on Jullien, one of the basic
+doctrines of the European Enlightenment and the ‘modernity project’ was the reform
+of political and sociocultural institutions, notably the ‘state’, i.e. the machinery of
+government, and public education as an ideological mechanism of the state. Cousin,
+the ecletic liberal of the July Monarchy, advocated that for national regeneration and
+nation-building, the French state should take a more active role in broadening the
+popular base for education. As Brewer has written:
+He [Cousin] argued that the right to educate was neither the natural right of the
+individual, nor of a group of individuals sharing a special creed, nor was it a
+private industry; “it is a public resource”. … Organized society—the State—by
+providing a school has the right and the duty to insist that certain conditions
+obtain: this is the State’s right of supervision (Brewer, 1971:16).
+In his report, Cousin lauded the Prussian experience of state-building and the state’s
+active involvement in the development of a national system of elementary education.
+After quoting profusely from the Law of 1819, which specified the state’s ‘care’ and
+involvement in the organisation and provision of public instruction, he eulogised: ‘This
+law … omits no topic of interest, and is the most extensive and complete law on primary instruction of which I have any knowledge. It is impossible not to be struck with
+its profound wisdom … the Prussian law of 1819 appears to me excellent’ (Cousin,
+
+--- [PDF Page 54 / Book Page 29] ---
+
+The Modernist Beginnings of Comparative Education
+
+29
+
+1930:205–206). It was the 1819 Suvern legislative proposal that Cousin recommended
+to the French Minister of the Interior that it form the basis for the reform of French
+primary education (Brewer, 1971:44).
+The Guizot Law of 1833, whose objective, as stated by Guizot himself, was ‘the
+greatest good to be derived from educating the people’ (Brewer, 1971:17), was indeed
+based on Cousin’s report and the Suvern proposal. It reflected the liberal ideology
+of both Cousin and Guizot, two active liberal educational reformers during the July
+Monarchy of Louis Philippe. The main provisions of the Guizot Law, which are relevant for us here, were the following: (a) every commune (and there were more than
+30,000) was obliged to open an elementary school to which children from poor indigent families would be admitted free; (b) every department was required to establish
+a normal school to train primary school teachers; (c) elementary education was to be
+organised hierarchically into two levels, i.e. (i) lower primary level schools—similar to the Prussian Elementarschulen—to teach the 3 Rs, French and religion, and
+(ii) upper/intermediate level schools, similar to the Prussian Burgerschulen, for the
+middle classes, to train for commerce and industry; (d) religious and moral instruction
+was to be included in both levels of schools; (e) the administrative structure of the
+system was to be decentralised after the Prussian pattern; and (f) the (liberal) principle
+of la liberté d’enseignement was to be recognised by sanctioning the opening of nonstate, i.e. private, institutions (Brewer, 1971:58; Halls, 1965:20; Bowen, 1981:315).
+Cousin’s ‘eclectic’ liberalism was also reflected in his views about secondary education and his conception of the ideal school system. In this connection it should be noted
+that Cousin also inquired into the secondary schools of Prussia and Holland and made
+some comparisons with the French secondary collèges. Among other things, Cousin
+called for the increase in the number of such schools and the removal of barriers to
+the establishment of private secondary schools. He suggested that the principle of la
+liberté d’enseignement be adopted for secondary education as it had been adopted in
+1833 for primary education, and that private secondary schools, like private primary
+schools ‘shall be subject to the supervision of the special authorities of public education in all matters that concern morals, discipline and studies’ (Brewer, 1971:89).
+As to his ideal school system, Cousin, as quoted by Brewer (1971), envisaged a selective class system of post-elementary schools: primary elementary schools for everyone,
+‘advanced elementary schools’ for the ‘middle class’, lower-level secondary schools
+for ‘young people of the middle and upper classes’, and selective upper secondary
+schools for the ‘upper ranks of society’ (p. 95).
+Cousin was a humanist intellectual and a cultural educational reformer. He had a
+classical humanistic formal education and, as noted above, he was a professor of philosophy who was attracted to German thought, particularly Hegelian idealism. In his
+report on Prussian public instruction he lauded the provision in the Suvern Law that
+‘primary instruction shall have for its aim to develop the faculties of the soul, the
+reason, the senses, and the bodily strength’, and ‘it shall comprehend religion and morals’ (Cousin, 1930:159). And in the same report, which was addressed to the French
+Minister of Public Instruction and Ecclesiastical Affairs, Cousin declared: ‘Thank
+God, Sir, you are too enlightened a statesman to think that true popular instruction can
+
+--- [PDF Page 55 / Book Page 30] ---
+
+30
+
+Kaloyannaki and Kazamias
+
+exist without moral education, popular morality without religion, or popular religion
+without a church. Popular education, ought therefore to be religious, that is to say
+Christian’ (p. 223). Elsewhere in the report, Cousin talked about the programme of
+studies in the French secondary schools, the collèges. Again addressing the Minister,
+he expressed his ‘zeal for classical and scientific studies’, and added: ‘[N]ot only do
+I think that we must keep up to the plan of study prescribed in our collèges, and particularly the philological part of that plan, but I think we ought to raise and extend it.’
+He further advised the Minister that the French ‘endeavour to rival Germany in the
+solidity of our classical learning’, because ‘classical studies are, without any comparison, the most important of all’. And speaking as a humanist, he reasoned: ‘for their
+[classical studies] tendency and their object is the knowledge of human nature, which
+they consider under all its grandest aspects … classical studies keep alive the sacred
+tradition of the moral and intellectual life of the human race’ (p. 213).
+Cousin’s observations and reports about foreign education were not limited to primary
+education in Prussia. He extended his observations to secondary education in Prussia
+and Holland, and at the same time he made comparisons between the French and the
+Prussian secondary schools. In one report, a ‘memoir on secondary instruction in the
+kingdom of Prussia’ (1837), he referred to the curriculum of the Prussian Gymnasien
+where there was an ‘alliance of scientific with literary studies’. And although, in the
+report on Prussian primary education, as shown above, Cousin emphasised his zeal for
+‘classical’ and ‘philological’ studies, in the 1837 Memoir on secondary education, he
+advised that in the collège there could be a ‘redistribution and an extension of time’
+so that ‘the ancient humanities and the modern languages, mathematics, and natural
+sciences would be studied’ (Brewer, 1971:91–92). As a corpus of knowledge and a
+mode of intellectual discipline or a means of training the mind (Cousin, like Jullien,
+adhered to the psychological theory known as ‘faculty psychology’ and the associated
+idea of ‘mental discipline’), Cousin’s conception of the content of the curriculum of
+the secondary collèges—a general education that combined humanistic with scientific
+studies—could be interpreted as foreshadowing the ideal of culture générale which
+subsequently dominated French educational thought for a long time (Halls, 1965:2).
+
+Victor Cousin and Comparative-International Education
+In historical accounts of the modernist course of comparative education that appeared
+in the 1960s, Cousin is cited as belonging to a period or ‘phase’ in the development
+of the field, which has been conceptualised and interpreted in such terms as ‘borrowing’ (Bereday, 1964), ‘educational borrowing’ (Noah & Eckstein, 1969) or ‘selective
+cultural borrowing’ (Holmes, 1965; Jones, 1971). Similarly, Brewer in his detailed
+study Victor Cousin as a Comparative Educator (1971) described Cousin’s report on
+Prussian secondary education ‘as an example of judicious borrowing’ (p. 97). There
+is indeed evidence to justify such a historical periodisation in the modernist course of
+comparative education. And in the case of Cousin, in his report on Prussian education,
+as quoted by Brewer (1971), he averred: ‘The true greatness of a people does not consist in imitating nothing from others, but in borrowing everywhere what is good and in
+perfecting it while appropriating for oneself’ (p. vii).
+
+--- [PDF Page 56 / Book Page 31] ---
+
+The Modernist Beginnings of Comparative Education
+
+31
+
+The American Discourse: Horace Mann, Calvin Stowe
+and Henry Barnard
+Interest in European education, particularly in German/Prussian, English and French
+education, was conspicuously evident in nineteenth-century America. It was salient in
+the first half of the century, and in the case of elementary schooling during the active
+period of the common school reform in the second quarter of the century. During this
+period, many American scholars and educational reformers travelled to Europe in search
+of ideas and practical lessons that could be helpful to them in their efforts to reform
+and improve education at home. In this study, we have chosen to write about three wellknown and influential educational reformers: Horace Mann, Calvin Stowe and Henry
+Barnard. Mann was a liberal social and educational reformer, a religious humanitarian,
+and he served as Secretary of the Board of Education of the state of Massachusetts;
+Stowe was a professor of classical Greek and sacred literature, and an educational
+thinker who showed great interest in the reform of education in Ohio; and Barnard was
+a superintendent of schools in Connecticut, who served as United States Commissioner
+of Education and for many years published the American Journal of Education.
+Mann, Stowe and Barnard were actively involved, through word and deed, in the
+common school movement, itself an integral part of the post-revolutionary republican ideal of education. ‘In the century of republican education [from the 1760s to
+the 1860s]’, R. F. Butts, the historian, has written: ‘Americans eventually chose the
+common school, control and supported in common, and embracing a supposedly nonsectarian religious outlook … their primary concern was to design a universal, free
+comprehensive system of public schools that would promote modern republican [democratic] institutions’ (Butts, 1973:408).
+As with the Frenchman Victor Cousin, the three Americans were motivated to study
+European education primarily for ‘melioristic’ purposes: to see whether they could
+learn something that would be useful to them in their reformist efforts to improve
+American education, particularly primary/elementary schooling. Stowe, for example,
+was commissioned by the state of Ohio to collect, while in Europe, ‘such facts and
+information as he may deem useful to the State [Ohio] in relation to the various systems of public instruction and education’ (Knight, 1930:248). And, as R. B. Downs,
+one of Mann’s biographers, quoting Mann has written: ‘ the celebrity of institutions
+in foreign countries had attracted his attention, filling him with “an intensive desire of
+knowing whether, in any respect, those institutions were superior to our own; and if
+anything were found in them worthy of adoption, of transferring it for our improvement”. … Of first importance to Mann was to find “beacons” to terrify as well as lights
+to guide’ (Downs, 1974:88). Also, as with Cousin, the Americans had high praise for the
+German/Prussian common school education, particularly the active role of the state, and
+the governance of schooling. All three were especially impressed by the Prussians’ success in their efforts to establish a system of what Barnard called ‘true national education’
+(Barnard, 1872:365). All three also commented favourably on the Prussian teachers and
+the internal pedagogical aspects of schooling. Mann, especially, was impressed by the
+methods of teaching, the school discipline and generally by what he felt was a humane
+
+--- [PDF Page 57 / Book Page 32] ---
+
+32
+
+Kaloyannaki and Kazamias
+
+classroom atmosphere in the Prussian schools (Downs, 1974; Holmes, 1965). Stowe
+praised the non-Republican government of the ‘unostentatious’ monarch Frederick
+William in that it ‘repeatedly and strenuously insisted in all the laws pertaining to
+education, to awaken a national spirit—to create in the youthful mind a warm attachment to his native land, and its institutions’ (Knight, 1930:255). And, like Jullien and
+Cousin, all three Americans made special reference to the emphasis the Prussian
+schools placed on moral and religious instruction.
+
+The American Liberal Republicanism/Reformism and the
+Comparative-International Education Melioristic Discourse
+From a political ideological standpoint, Horace Mann, Calvin Stowe and Henry
+Barnard could be characterised as liberal democratic-republican thinkers and social
+activists who espoused the principles of nineteenth-century ‘liberal republicanism’ also
+referred to as ‘classical liberalism’ with its emphasis on freedom, liberal democracy
+and popular education. Referring specifically to Horace Mann’s republican ideology and its relationship to public education, Lawrence A. Cremin, the distinguished
+American historian, has written:
+Mann understood well the integral relationship between freedom, popular education, and republican government. … A nation cannot long remain ignorant and
+free. No political structure, however artfully devised, can inherently guarantee
+the rights and liberties of citizens, for freedom can be secure only as knowledge
+is widely distributed among the populace. Hence, universal popular education is
+the only foundation on which republican government can securely rest (Cremin,
+1957:7).
+Unlike Jullien’s, the American discourse was only tangentially about comparative education, and like Cousin’s, it was more about foreign education, or to use Fraser’s and
+Brickman’s terminology, it was Auslandspadagogik (Fraser & Brickman, 1968:19).
+Like the francophone discourse (Cousin’s and what Jullien wrote about foreign education in the Plan and elsewhere), the American discourse was descriptive, reportorial,
+‘ahistorical’ and for the most part non-comparative, non-systematic and non-analytic,
+except with some qualifications in the case of Henry Barnard’s studies.
+The comparative educational historian cannot but be impressed by Barnard’s comprehensive account of the history, organisation, administration, studies, curricula,
+teachers and pedagogy, discipline and statistics of public schools of every grade and
+for all classes, as well as other institutions of general education, in different countries (Barnard, 1872). In his commentary on Barnard’s approach and studies, Holmes
+has observed that ‘unquestionably’ Barnard’s ‘approach to comparative education was
+largely historical and descriptive’, and his aim to produce an ‘encyclopaedia of education … was virtually achieved’ (Holmes, 1965:14). Noah and Eckstein have also
+commented on Barnard’s encyclopedism, but they were more critical of his approach
+than Holmes. According to them, Barnard ‘saw merit in the indiscriminate and even
+unsystematic recording and republication of all that was available’ (Noah & Eckstein,
+
+--- [PDF Page 58 / Book Page 33] ---
+
+The Modernist Beginnings of Comparative Education
+
+33
+
+1969:25–26). It is appropriate to characterise Barnard’s approach as being descriptive, but in our interpretation, it is inappropriate to characterise it as ‘unsystematic’
+or ‘indiscriminate reporting’. It would also be appropriate to characterise Barnard as
+a good ‘chronicler’ or a good ‘educational narrator’ or ‘educational ethnographer’,
+rather than a good ‘educational historian’; his historical accounts of education in the
+several European countries lacked the elements of historical interpretation and contextual explanation, two basic desiderata of any historical episteme/science. Nor can
+Barnard, and we might add Mann and Stowe, strictly speaking, be described as ‘comparativists’, as Holmes as well as Noah and Eckstein have argued (Holmes, 1965;
+Noah & Eckstein, 1969). Barnard, in several of his studies of education in European
+countries, always wrote about the ‘history’ or the ‘historical development’ of education
+and instruction in the particular countries, or about the ‘educational history’ of each
+state, e.g. Prussia (Barnard, 1872:335). But his historical accounts lacked the element
+of interpretation and contextual explanation, which are basic desiderata of any historical episteme (‘science’). Barnard’s historical accounts can at best be characterised as
+historical narratives or ‘chronicles’. One, however, should not underestimate the value
+of good descriptive chronicles or narratives in studying foreign education even today,
+and in our judgement Barnard’s ‘educational histories’ deserve high praise, especially
+when one considers the times when they were written.
+
+Coda—on Meliorism
+Finally, there were two other elements in the nineteenth-century American ‘comparative-international discourse’, as examined above, which differentiated it from
+the European, as was exemplified by the aforementioned francophone Victor Cousin
+and even Marc-Antoine Julllien. The first, simply stated, was that the Americans were
+more disposed to look critically at the European educational experience than the
+Frenchmen. The second, which is worthy of some additional comment, pertained to
+their ‘meliorism’, an overriding consideration/purpose of all the nineteenth-century
+precursors of ‘comparative-international education’, and one we may add which, ab
+initio, has been, to a degree more or less, germane to what may be called the ‘comparative epistemic problematique’.
+Meliorism, from the Latin melior (better), can be understood as inquiry with the
+objective of improvement. As indicated in this chapter, the ‘objective of improvement’
+was germane to all the nineteenth-century inquiries into foreign, in this case European,
+systems of education. We noted that Jullien talked about collecting ‘facts and observations’ that would help in the reform of education for the betterment of European
+societies and, internationally, of the human condition; Cousin, Mann, Stowe and
+Barnard talked about the improvement of national education in their own countries. We
+have also noted that well-known comparativists like George Bereday, Harold Noah and
+Max Eckstein in the United States, and Brian Holmes in England have characterised
+all of the nineteenth-century French and American observers and students of European
+education, mentioned here, as belonging to the ‘borrowing’ or ‘selective cultural borrowing’ phase in the development of comparative education. According to these later
+comparativists, the nineteenth-century precursors were motivated ‘by a desire to gain
+
+--- [PDF Page 59 / Book Page 34] ---
+
+34
+
+Kaloyannaki and Kazamias
+
+useful lessons from abroad’ and to ‘borrow’, transfer or ‘transplant’ useful ideas and
+practices for the purposes of educational improvement (Noah & Eckstein, 1969;
+Bereday, 1964). The ‘borrowing’ aspect/dimension of meliorism is clearly evident in
+Jullien and Cousin. But it is not as clear in the case of the American nineteenth-century
+meliorist reformers. It is, of course, the case that, like the Europeans, the American
+policy-makers and administrators were motivated ‘by a desire to gain useful lessons
+from abroad’, but not for the purpose of ‘educational borrowing’ or ‘transplantation’ as
+understood by Jullien and Cousin. It would be more accurate to say that the American
+meliorists sought ‘lessons’ from abroad to use as legitimating rationales for the reform
+of national public education in the United States.
+
+References
+Anderson, C. A. (1961). Methodology of Comparative Education. International Review of Education,
+VII(1), 1–23.
+Arnove, R. (1982). Comparative education and world-systems. In P. G. Altbach, R. F. Arnove & G. P. Kelly
+(Eds.), Comparative education (pp. 453–468). New York: Macmillan.
+Barnard, H. (1872). National education: Systems, institutions and statistics of public instruction in different
+countries. Part I—Europe— German States. New York: E. Steiger.
+Bereday, G. Z. F. (1964). Comparative method in education. New York: Holt, Rinehart & Winston.
+Bowen, J. (1981). A history of western education (vol. three). The modern west: Europe and the new world.
+New York: St. Martin’s Press.
+Brewer, W. V. (1971). Victor Cousin as a comparative educator. Teachers College, Columbia University:
+Teachers College Press.
+Butts, R. F. (1973). The education of the West: A formative chapter in the history of civilization. New York:
+McGraw-Hill.
+Cousin, V. (1930). Report on the state of public instruction in Prussia. In E. W. Knight (Ed.), Reports
+on European education by John Griscom, Victor Cousin, Calvin E. Stowe (pp. 113–247). New York:
+McGraw-Hill.
+Cremin, L. A. (Ed.). (1957). The republic and the school: Horace Mann on the education of free men. New
+York: Bureau of Publications, Teachers College, Columbia University.
+Davies, N. (1996). Europe: A history. Oxford/New York: Oxford University Press.
+Debeauvais, M. (2000). De Marc-Antoine Jullien aux indicateurs comparatives de l’an 2000. In Congrès
+CESE, Bologne.
+Downs, R. B. (1974). Horace Mann: Champion of public schools. New York: Twayne.
+Foster, P. (1960). Comparative methodology and the study of African education. Comparative Education
+Review, 4, 110–117.
+Fraser, St. (1964). Jullien’s Plan for Comparative Education 1816–1817. Teachers College, Columbia
+University, Bureau of Publications.
+Fraser, St. & Brickman, W.W. (Eds.). (1968). A history of international and comparative education:
+Nineteenth-century documents. Glenview, IL: Scott, Foresman & Co.
+Gautherin, J. (1993). Marc-Antoine Jullien (‘Jullien de Paris’ 1775–1848). Prospects: The Quarterly Review
+of Comparative Education, XXIII(3/4), 757–773.
+Habermas, J. (2007) Modernity: An unfinished project. Retrieved October 10, 2007, from http://www.eng.
+fiu.edu.tw/Literary-Criticism/postrnodernisrn/haberm.
+Halls, W. D. (1965). Society, schools & progress in France. Oxford: Pergamon Press.
+Hans, N. (1949). Comparative education: A study of educational factors and traditions. London: Routledge
+& Kegan Paul.
+Holmes, B. (1965). Problems in education: A comparative approach. London: Routledge & Kegan Paul.
+Jones, P. E. (1971). Comparative education: Purpose and method. St. Lucia, Queensland: University of
+Queensland Press.
+
+--- [PDF Page 60 / Book Page 35] ---
+
+The Modernist Beginnings of Comparative Education
+
+35
+
+Kaloyiannaki, P. (2002). Comparative education: A French approach. Athens: Atrapos. (in Greek).
+Kant, I. (1784). What is Enlightenment? http:1/philosophy.eserver.org/kant/what-is-enlightenment.txt
+Kazamias, A. M. (2001). Re-inventing the historical in comparative education: Reflections on a protean
+episteme by a contemporary player. Comparative Education, 37(3/1), 439–449.
+Knight, E. W. (Ed.). (1930). Reports on European education by John Griscom, Victor Cousin, Calvin E.
+Stowe. New York: McGraw-Hill.
+Leclercque, J. -M. (1999). L’Education comparée: mondialisation et spécificités francophones, Actes du
+Congres International sur l’histoire et l’avenir de l’éducation comparée en langue francaise, organisé par
+l’Association Francophone d’Education Comparée, Centre National de Documentation Pédagogique,
+Associations Francophone d ‘Education Comparée, Paris.
+Noah, H. J. & Eckstein, M. A. (1969). Toward a science of comparative education. London: Macmillan.
+Palmer, R. R. (1993). From Jacobin to Liberal, Marc-Antoine Jullien, 1775–1848. Princeton, NJ: Princeton
+University Press.
+Roberts, J. M. (1996). A history of Europe. New York/London: Allen Lane/Penguin Press.
+Vestal, T. M. (1994). International education. Its history and promise today. Westport, CT: Praeger.
+

@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch02"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch02"
 argument_display_title: "Chapter two: Informal engagement with science"
 argument_kind: "book-chapter"
-argument_related_count: 40
+argument_related_count: 39
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -46,7 +46,6 @@ related_concepts:
   - "[[Science Capital]]"
   - "[[Attrition]]"
   - "[[Creativity]]"
-  - "[[AI Hallucination]]"
   - "[[Epistemology]]"
   - "[[Rich and Thick Description]]"
   - "[[Public Engagement with Science]]"
@@ -220,7 +219,7 @@ updated: 2026-09-04
 > [!case] 案例研究二：造梦机器与[[The Perception Census|感知普查]]：艺术体验与脑科学认知共创
 > - **学术主导与国家重大跨界工程** 由苏塞克斯大学萨克勒意识科学中心主任、英国皇家学会会士阿尼尔·塞斯（Anil Seth, FRS）团队联合艺术机构 Collective Act、先锋音乐家乔恩·霍普金斯（Jon Hopkins）及特纳奖建筑团队 Assemble 跨界研发，作为英国 2022 年非约束（Unboxed: [[Creativity]] in the UK）重大科技艺术节的核心科研工程。（p. 43）
 > - **双轨实验交互矩阵设计**
->   - *线下沉浸式造梦机器（Dreamachine）* 依托定制白光脉冲频闪与环绕声场，在参与者闭目状态下通过视网膜与大脑节律共振，安全激发丰富动态的内心几何[[AI Hallucination|幻觉]]与深层知觉体验；
+>   - *线下沉浸式造梦机器（Dreamachine）* 依托定制白光脉冲频闪与环绕声场，在参与者闭目状态下通过视网膜与大脑节律共振，安全激发丰富动态的内心几何幻觉与深层知觉体验；
 >   - *线上感知普查（The Perception Census）* 将高度晦涩的计算神经科学与认知心理学实验转化为生动易懂的 10 大线上互动测试模块，系统测量颜色知觉差异、视错觉与几何扭曲敏感度、主观时间流速感知、声音视觉联觉机制以及对他人心智状态的推断能力。
 > - **全球级数据库突破与实证积累** 吸引了来自全球 100 多个国家逾 **20,000** 名受访者完成全套多模块深度测评，构建了人类认知科学史上规模最大、维度最全的知觉多样性（Perceptual Diversity）开放数据库。
 > - **[[Epistemology|认识论]]颠覆与社会包容重塑** 参与者在测评结束后可获得专属生成的知觉指纹（Perceptual Fingerprint）多维画像。该项目生动证明人类感知并非外部物理世界的被动照相，而是大脑基于感官信号的主动预测构建与受控幻觉；这一体验从认识论根基上打破了所有人都以同一种方式看待世界的常识偏见，极大深化了公众对人类神经多样性（Neurodiversity）的科学理解与社会共情。

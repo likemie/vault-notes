@@ -17,9 +17,9 @@ tags:
   - theory/transfer-frameworks
 related_concepts:
   - "[[Going Native]]"
+  - "[[Policy Borrowing]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Recontextualization]]"
-  - "[[Policy Borrowing]]"
   - "[[Cross-National Attraction]]"
   - "[[Praxis]]"
   - "[[Growth]]"
@@ -54,7 +54,7 @@ updated: 2026-06-24
 
 > [!concept-lens] 概念透镜
 > - **指向机制** 指向移动后的教育构件与接受国本土既有教育系统、权力结构相交织而产生的结构性杂糅状态或微观[[Going Native|本土化]]扭曲。
-> - **学术用途** 提供一套透视教育转移非线性、变异性特征的问题意识，用于解构单纯将教育借用视为忠实复制或成败二元对立的简单化理解。
+> - **学术用途** 提供一套透视教育转移非线性、变异性特征的问题意识，用于解构单纯将[[Policy Borrowing|教育借用]]视为忠实复制或成败二元对立的简单化理解。
 > - **适用边界** 并非指代单一的[[Transfer Translation Transformation|转译]]机制，而是一个概括性（umbrella）的待解问题意识；具体解析需要借助 [[Transfer Translation Transformation|3T 框架]] 或 [[Recontextualization|再脉络化]] 机制。
 
 > [!boundary]- 概念边界

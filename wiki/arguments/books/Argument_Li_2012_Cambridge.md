@@ -7,7 +7,7 @@ title: "Argument_Li_2012_Cambridge"
 argument_key: "Argument_Li_2012_Cambridge"
 argument_display_title: "Cultural Foundations of Learning: East and West"
 argument_kind: "book"
-argument_related_count: 147
+argument_related_count: 148
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Concept Mapping]]"
   - "[[Ideal Learner]]"
   - "[[Questionnaire]]"
+  - "[[Scaffolding]]"
   - "[[Parental Cognitive and Affective Socialization]]"
   - "[[Problem Solving]]"
   - "[[Faust]]"
@@ -215,7 +216,7 @@ citation_aliases:
 - **[[Prototype Methods|原型方法]]（Ch3）** 自由联想提取"学习"相关词汇 → 聚类分析生成[[Concept Mapping|概念地图]]（研究一）；书面叙事收集[[Ideal Learner|理想学习者形象]] → [[Content Analysis|内容分析]]提取人格结构（研究二）。两条证据线独立后汇聚（convergence）验证[[Cultural Models|文化模型]]
 - **跨文化[[Survey Research|调查研究]]（Ch3, Ch5, Ch6）** 归因[[Questionnaire|问卷]]、课堂观察、家庭社会化调查、同伴态度测量、学习情感自述——多方法[[Triangulation|三角验证]]同一结论
 - **跨国评测数据（Ch3）** TIMSS 与 [[PISA]] 排名作为东亚学习成就的宏观佐证
-- **[[Mother-Child Conversation|MCC]] 方法（Ch7）** 母亲-儿童对话的三层分析——结构分析（排除"量"的差异）→ 序列分析（胜算比追踪话题流向）→ [[Discourse Analysis|话语分析]]（Vygotsky 认知支架 + Frijda/Gottman [[Parental Cognitive and Affective Socialization|情感社会化]]框架）。200 组对话，欧裔美国 vs 台湾
+- **[[Mother-Child Conversation|MCC]] 方法（Ch7）** 母亲-儿童对话的三层分析——结构分析（排除"量"的差异）→ 序列分析（胜算比追踪话题流向）→ [[Discourse Analysis|话语分析]]（Vygotsky [[Scaffolding|认知支架]] + Frijda/Gottman [[Parental Cognitive and Affective Socialization|情感社会化]]框架）。200 组对话，欧裔美国 vs 台湾
 - **语用学比较（Ch8）** Grice 四准则与四条东亚替代准则逐条对照；Kim 生理实验（说话时的[[Problem Solving|问题解决]]表现与皮质醇变化）
 - **移民儿童学校适应比较（Ch9）**Li et al.(2010)中国移民学前儿童 vs 欧裔美国同龄人的成就比较；Yamamoto & [[Argument_Li_2012_Cambridge|Li (2012)]]两种学校情境（亚裔为主 vs 欧裔为主）中安静的不同命运
 - **个人经验作为分析工具（Ch1, Ch9）** Li 的德国学习经历、中国教师工作坊——不作为权威证据，而作为生成分析性洞察的起点

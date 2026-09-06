@@ -10,7 +10,7 @@ summary: "通过随机分配和变量控制建立因果关系的实验设计，�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 96
+method_related_count: 95
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -47,7 +47,6 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Reliability]]"
   - "[[Publication Bias]]"
-  - "[[AI Hallucination]]"
   - "[[Experiential Learning]]"
   - "[[Tracking]]"
   - "[[Stable Unit Treatment Value Assumption]]"
@@ -251,7 +250,7 @@ updated: 2026-08-21
 >
 > Kvernbekk (2013) 补充：RCT 在学校中极其具有挑战性，尤其是在教育领导力领域——领导力的效果分布于组织内外多重关系中，无法被隔离为单一干预和单一结果之间的因果线。
 
-> [!critique-logic] 封闭系统的[[AI Hallucination|幻觉]]
+> [!critique-logic] 封闭系统的幻觉
 > RCT 的实验程序试图通过稳定其他变量来隔离单一干预的影响——将真实情境的开放性和复杂性转化为封闭系统。但大多数社会情境（包括教育情境）是开放系统（Pawson, 2006, p. 18; [[Argument_Biesta_2010_SPE|Biesta, 2010, p. 496]]）（[[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp. 115, 123]]）。
 
 > [!warning] RCT 忽视因果过程、语境和参与者能动性

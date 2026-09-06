@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch06"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch06"
 argument_display_title: "Chapter six: Academic scientific community"
 argument_kind: "book-chapter"
-argument_related_count: 40
+argument_related_count: 39
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -44,7 +44,6 @@ related_concepts:
   - "[[Research Problem]]"
   - "[[Hypothesis]]"
   - "[[Epistemic Resources]]"
-  - "[[AI Hallucination]]"
   - "[[Patient and Public Involvement]]"
   - "[[Clinical Trial]]"
   - "[[Informed Consent]]"
@@ -153,7 +152,7 @@ updated: 2026-09-04
 > [!case] 案例研究二：造梦机器与[[The Perception Census|感知普查]]：认知科学的上游深度共创（pp. 43, 92）
 > 脑科学与认知科学研究通过深度整合艺术体验与大规模公众共创，开创了上游参与的典范范式：
 > - **跨界协同网络** 萨塞克斯大学（University of Sussex）认知神经科学家阿尼尔·赛斯（Anil Seth）团队联合艺术机构、作曲家与沉浸式体验设计师发起“造梦机器”（Dreamachine）全国巡演。
-> - **感知普查（The Perception Census）的科学设计** 巡演结合沉浸式闭眼光影体验，配套推出了英国规模最大的感知多样性公民普查研究，动员超过 40,000 名公众在线参与完成关于色彩、声音、[[AI Hallucination|幻觉]]与时间体验等 12 项交互式认知实验。
+> - **感知普查（The Perception Census）的科学设计** 巡演结合沉浸式闭眼光影体验，配套推出了英国规模最大的感知多样性公民普查研究，动员超过 40,000 名公众在线参与完成关于色彩、声音、幻觉与时间体验等 12 项交互式认知实验。
 > - **认识论层面的双向赋能** 公众在沉浸式艺术探索中深刻理解了人类大脑感知世界的神经生物学机制与主观变异性；科研团队则成功获取了前所未有的超大规模高维度真实世界知觉变异性数据库，直接将非专业公众的微观生活体验转化为了前沿认知科学的核心实证资产。
 
 > [!case] 案例研究三：英国癌症研究中心（CRUK）全生命周期[[Patient and Public Involvement|患者与公众参与]]机制（pp. 74, 92, 100）

@@ -9,7 +9,7 @@ title: "Argument_Cowen_2023_CE"
 argument_key: "Argument_Cowen_2023_CE"
 argument_display_title: "Comparative education: and now? Comparative Education, 59(3), 326-340"
 argument_kind: "journal-article"
-argument_related_count: 60
+argument_related_count: 62
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Theoretical Perspective]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Scientism]]"
-  - "[[AI Hallucination]]"
   - "[[Educated Identity]]"
   - "[[Totally Pedagogised Society]]"
   - "[[Epistemology]]"
@@ -67,6 +66,7 @@ related_methods:
   - "[[Documentary Analysis]]"
 related_persons:
   - "[[Michael Sadler]]"
+  - "[[Marc-Antoine Jullien]]"
   - "[[Daniel Tröhler]]"
   - "[[Eleftherios Klerides]]"
   - "[[Andreas Kazamias]]"
@@ -75,6 +75,8 @@ related_persons:
   - "[[Jürgen Habermas]]"
   - "[[Edmund King]]"
   - "[[Stephen Ball]]"
+  - "[[Horace Mann]]"
+  - "[[Isaac Kandel]]"
   - "[[Michael Barber]]"
 related_facts:
   - "[[PISA]]"
@@ -109,7 +111,7 @@ citation_aliases:
 > 比较教育（Comparative Education）作为一门大学学科已陷入制度性繁荣但理论性空洞的危机。学科中积累了大量用于自我合法化（self-legitimation）的陈词滥调（Banalities），而学者们习惯于待在这些舒适区中，未能意识到未来在隐喻层面上已然临近且极具紧迫性。如何将未来即现在这一直觉性隐喻，转化为审视比较教育学科未来的连贯[[Theoretical Perspective|理论视角]]，是学科面临的核心问题。(p.326)
 
 > [!claim] 核心主张
-> 比较教育必须摆脱塞浦路斯会议透露的历史主义倒退、[[Michael Sadler|迈克尔·萨德勒]]（Michael Sadler, 1900）的[[Pragmatic Paradigm|实用主义]]政策工具论（practical [[VALUE Rubrics|VALUE]]）、马克-安托万·朱利安（Marc-Antoine Jullien, 1817）的唯[[Scientism|科学主义]]（scientism）预测[[AI Hallucination|幻觉]]以及约翰·斯图亚特·密尔（John Stuart Mill, 1843）的机械对比法等历史陈词滥调。学科应直面其学术与政治共谋的本质，并战略性地回归转移（Transfer，即移动即变形的形态变化）与[[Educated Identity|受教育身份]]（Educated Identity，即伦理与道德拷问）这两个核心基础问题，以此应对监控资本主义（surveillance capitalism）与人工智能（Artificial Intelligence，AI）教学（AI pedagogy）时代[[Totally Pedagogised Society|全盘教育化社会]]（Totally Pedagogised Society）的未来挑战。(pp.326–327, pp.335–336)
+> 比较教育必须摆脱塞浦路斯会议透露的历史主义倒退、[[Michael Sadler|迈克尔·萨德勒]]（Michael Sadler, 1900）的[[Pragmatic Paradigm|实用主义]]政策工具论（practical [[VALUE Rubrics|VALUE]]）、[[Marc-Antoine Jullien|马克-安托万·朱利安]]（Marc-Antoine Jullien, 1817）的唯[[Scientism|科学主义]]（scientism）预测幻觉以及约翰·斯图亚特·密尔（John Stuart Mill, 1843）的机械对比法等历史陈词滥调。学科应直面其学术与政治共谋的本质，并战略性地回归转移（Transfer，即移动即变形的形态变化）与[[Educated Identity|受教育身份]]（Educated Identity，即伦理与道德拷问）这两个核心基础问题，以此应对监控资本主义（surveillance capitalism）与人工智能（Artificial Intelligence，AI）教学（AI pedagogy）时代[[Totally Pedagogised Society|全盘教育化社会]]（Totally Pedagogised Society）的未来挑战。(pp.326–327, pp.335–336)
 
 > [!concept-lens] 阅读透镜
 > - **对象** 比较教育学科（包括学术研究与咨询应用两个维度）的合法化惯例、[[Epistemology|认识论]]边界与政治预设。(p.326)
@@ -178,13 +180,13 @@ citation_aliases:
 > - **先知化的焦虑与历史倒退** 2018年 [[Comparative Education Society in Europe|CESE]] 塞浦路斯会议以教育中的身份认同（Identities in Education）为主题，由 [[Eleftherios Klerides]] 与 Stephen Carney (2021) 组织，António Nóvoa (2021) 做了精彩的主旨演讲。然而，在专门纪念 [[Andreas Kazamias]] 的特别讲座环节中，发言者即兴将 Kazamias 解读为一位正确预见了我们当前时代和问题的哲学先知（philosopher-prophet），宣称学界应走向希腊人文主义（Hellenistic Humanism）和灵魂教育（paideia，即教育的灵魂）来重新平衡自己。Kazamias 本人常倡导历史和人文主义，并将其概括为渐进、现代、改良与普罗米修斯式的比较教育，但他从未自封先知。这种将 Kazamias 历史先知化的姿态泄露了学科对于自身定位的深层焦虑：如果我们需要退回 50 年前 Kazamias 的历史人文学说，是否意味着过去半个世纪以来的科学化与制度繁荣其实是一个战略错误？(p.327)
 > - **三大陈词滥调的惯例化使用** 学科极少丢弃旧信条，积累了过多的陈词滥调：
 >   1. [[Michael Sadler|迈克尔·萨德勒]][[Pragmatic Paradigm|实用主义]]试图从外国教育政策中获取实用价值。这在一百年后仍被常规使用，但它将比较教育矮化为了应对教育危机的高级应急社会管道工（emergency social plumbing），即通过机械嫁接外国经验来修理本国的政策漏水。
->   2. 马克-安托万·朱利安科学理想宣称要让学科成为科学（science）的理想。这一口号已喊了近两百年，但学界至今仍未理清科学是指探寻事物原因，还是指像物理学一样进行准确预测。
+>   2. [[Marc-Antoine Jullien|马克-安托万·朱利安]]科学理想宣称要让学科成为科学（science）的理想。这一口号已喊了近两百年，但学界至今仍未理清科学是指探寻事物原因，还是指像物理学一样进行准确预测。
 >   3. 约翰·斯图亚特·密尔对比法宣称要将比较教育简化为在外国教育系统中寻找相似与差异（similarities and differences），被戏称为对比苹果与橘子的精妙视角，缺乏更深层的社会学想象力。
 > - **自我演绎的认识论边界犹豫** 学科面临通过自我演绎来定义自己的俄式轮盘赌（Russian roulette）：要么强行援引一位时尚理论家（如 [[Pierre Bourdieu]]、Michel Foucault、[[Niklas Luhmann]]、Jacques Derrida、[[Jürgen Habermas]]、Gilles Deleuze 与 Félix Guattari 等）在这一框架内生造比较教育；要么将其打碎为若干社会科学概念并演绎出分支（Tavis Jules and Matthew Thomas, 2021）。这导致理论工作碎片化为连贯性极低的退潮波痕；同时，学科名称不断变形，从比较教育演变为比较与[[International Education|国际教育]]、国际比较教育乃至超越比较教育。(pp.327–328)
 
 > [!warning] [[Four Sins of Comparative Education|比较教育的四种罪过]]
 > 每一代比较教育学者都在犯错，却常将错误视为理论突破。
-> - **进步[[Hypothesis|假设]] (Assumption of progress)** 如 Harold Noah and Max Eckstein (1969) 的目的论历史观，假设学科在经历早期错误后必然成熟为接受实证[[Scientific Method|科学方法]]的比较社会科学。
+> - **进步[[Hypothesis|假设]] (Assumption of progress)** 如 Harold Noah & Max Eckstein (1969) 的目的论历史观，假设学科在经历早期错误后必然成熟为接受实证[[Scientific Method|科学方法]]的比较社会科学。
 > - **地方主义 (Parochialism)** 默认大西洋中部（Mid-Atlantic，即美英轴心）是定义全球比较教育政治、视角和方向的唯一世界轴心。
 > - **借用成瘾 (Addiction to borrowing)** 不加批判地进口[[Big Ideas|大概念]]（如全球化），通过快速引用（如模式[[Variable|变量]]、第三世界、多文化社会、儒家学说等）来保护自己免于处理复杂的社会情境。
 > - **科学混乱 (Scientific confusion)** 科学一词定义极其不稳定，混淆了计量经济学模型（Harold Noah, 1973）、物理学式精确预测（Brian Holmes, 1984）、探寻事物原因与拥有海量硬数据四种含义。(p.328)
@@ -231,7 +233,7 @@ citation_aliases:
 >   5. **全球解读** 学科对外部政治与经济大叙事变化的宏观回应，直接决定了比较教育在不同历史分期中的理解风格与研究议程。
 
 > [!dev-timeline] 全球解读的历史分期演变
-> - **18世纪末至19世纪末：世俗化与民族国家建构** 最早的全球解读源于世俗化阅读，紧密连接革命政治、国家形成和新民族主义。Horace Mann, Egerton Ryerson, William Torrey Harris, James Kay-Shuttleworth 等人海外考察的目的，是为了发明适合传播初等教育和培训教师的制度（如美国与加拿大对普鲁士国民教育模式的借用）。
+> - **18世纪末至19世纪末：世俗化与民族国家建构** 最早的全球解读源于世俗化阅读，紧密连接革命政治、国家形成和新民族主义。[[Horace Mann]], Egerton Ryerson, William Torrey Harris, James Kay-Shuttleworth 等人海外考察的目的，是为了发明适合传播初等教育和培训教师的制度（如美国与加拿大对普鲁士国民教育模式的借用）。
 > - **19世纪末至一战前：工业竞争与帝国维持** 注意力转向工业革命后果、国际经济竞争及教育系统的重新定义，以维持帝国主义。对外考察与变得现代（或保持本真的斯拉夫或日本身份，如日本明治维新与俄罗斯斯拉夫派的理论抵制）紧密相连。
 > - **两次世界大战之间：意识形态对立与专业沉默** 这一时期对法西斯主义和共产主义政治的专业比较工作极少，形成了学术上的沉默期。
 > - **1945年后至冷战时期：重建、平等与冷战测评竞争** 战后初期聚焦于重建和改善教育机会平等；1950年代自由民主与国家社会主义民主展开教育竞争；冷战期间主要努力投入到通过国际测试衡量教育成功（IEA 的兴起），并将竞争延伸至第三世界（Le tiers monde）的发展。
@@ -249,7 +251,7 @@ citation_aliases:
 
 > [!dimension] 学术界中长期并存的四种理解形式
 > - **历史与情境的相似与差异比较（求同存异）**
->   注重历史和情境解释。代码词为历史（history）与情境（contexts），代表人物包括 Isaac Leon Kandel、Nicholas Hans and Andreas Kazamias 等。其政治预设表面上是中立的，而这恰恰是其致命缺陷：它倾向于忽视法西斯主义、弥赛亚国家或国家社会主义等极端政治现象。由于它拒绝从“国家”（State，无论是理想的还是现实的）概念出发，导致其缺乏分析国家暴力、政治压迫与意识形态强权干预的工具，使比较研究退化为去政治化的温和文化与历史情境陈述。(pp.332–333)
+>   注重历史和情境解释。代码词为历史（history）与情境（contexts），代表人物包括 [[Isaac Kandel|Isaac Leon Kandel]]、Nicholas Hans and Andreas Kazamias 等。其政治预设表面上是中立的，而这恰恰是其致命缺陷：它倾向于忽视法西斯主义、弥赛亚国家或国家社会主义等极端政治现象。由于它拒绝从“国家”（State，无论是理想的还是现实的）概念出发，导致其缺乏分析国家暴力、政治压迫与意识形态强权干预的工具，使比较研究退化为去政治化的温和文化与历史情境陈述。(pp.332–333)
 > - **[[Convergence Theory in Comparative Education|趋同理论]]与同构（Convergence Theory）**
 >   认为教育系统正走向相似。经历了五个核心节点：Lauwerys (1957) 宣扬科学的民主可以克服政治偏见；国际教育局（International Bureau of Education，IBE）的 Pedro Rosselló 提出在全球范围内识别教育趋势（延续至 1980 年代）；1960 年代的技术趋同论（A. H. Halsey 等, 1965）认为工业生产系统相似决定了教育相似；Alex Inkeles 的现代性模式变量说；以及当前新制度主义同构说（isomorphisms）。其政治预设看似中性，将各种新同构的出现和[[Growth|成长]]视为“自然、正常和良性”的过程。然而，其语义策略依赖于“出现”（emerge）、“发生”（happen）、“成形”（take shape）等温和的动词，且行动主体模糊不清，从而掩盖了背后的权力关系、霸权强推与利益博弈。
 > - **作为实用工具的[[Policy Science in Comparative Education|政策科学]]（Policy Science）**
@@ -325,7 +327,7 @@ citation_aliases:
 
 > [!finding-cards] 核心发现
 > 1. **学术焦虑与陈词滥调危机**。诊断比较教育学术合法化长期寄生于 Sadler、Jullien、Mill 等历史陈词滥调上，面临严重的[[Epistemology|认识论]]碎片化与科学话语混乱危机。(p.327, p.328)
-> 2. **四种理解形式及其政治共谋**。归纳了学科中并存的四种理解形式：求同存异（历史文化中性偏见掩盖国家概念的缺失，忽视极端政治）、[[Convergence Theory in Comparative Education|趋同理论]]（借由温和动词和模糊主体掩盖权力关系，制造天然良性同构[[AI Hallucination|幻觉]]）、[[Policy Science in Comparative Education|政策科学]]（与自由民主国家的民主权力结盟，退化为丧失批判距离的决策咨询工具）与结果导向（配合确立新自由主义经济定义，以效率度量压倒文化脉络，强化特定世界秩序的政治合理性），揭示了它们在认识论与政治结盟上的双重矛盾。(pp.332–334)
+> 2. **四种理解形式及其政治共谋**。归纳了学科中并存的四种理解形式：求同存异（历史文化中性偏见掩盖国家概念的缺失，忽视极端政治）、[[Convergence Theory in Comparative Education|趋同理论]]（借由温和动词和模糊主体掩盖权力关系，制造天然良性同构幻觉）、[[Policy Science in Comparative Education|政策科学]]（与自由民主国家的民主权力结盟，退化为丧失批判距离的决策咨询工具）与结果导向（配合确立新自由主义经济定义，以效率度量压倒文化脉络，强化特定世界秩序的政治合理性），揭示了它们在认识论与政治结盟上的双重矛盾。(pp.332–334)
 > 3. **绩效管理对学术原创性的腐蚀**。揭示学术界微观管理政治中以即时影响与一流大学为名的控制话语，已演变为限制理论建构与[[Academic Freedom|学术自由]]的腐蚀性[[Deductive Rationality|演绎理性]]。(p.332)
 > 4. **重构学科议程的两大伦理支点**。提出以转移与[[Educated Identity|受教育身份]]作为学科重建的学术与道德基石，借以在AI资本主义时代应对[[Totally Pedagogised Society|全盘教育化社会]]的挑战。(pp.335–336)
 

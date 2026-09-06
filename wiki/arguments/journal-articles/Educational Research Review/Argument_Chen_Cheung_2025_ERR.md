@@ -63,6 +63,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Funnel Plot]]"
   - "[[Emergence]]"
+  - "[[Scaffolding]]"
   - "[[Confidence Interval]]"
   - "[[Hypothesis]]"
   - "[[Falsification]]"
@@ -120,7 +121,7 @@ title: "Argument_Chen_Cheung_2025_ERR"
 argument_key: "Argument_Chen_Cheung_2025_ERR"
 argument_display_title: "Effect of generative artificial intelligence on university students learning outcomes: A systematic review and meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 83
+argument_related_count: 84
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -241,7 +242,7 @@ issuing_organization: ""
 > | **出版年份**<br>（Publication Year） | • **2024 年** 40 篇（70.2%）<br>• **2023 年** 10 篇（17.5%）<br>• **2025 年** 7 篇（12.3%） | 2024 年呈现爆发式增长，体现生成式 AI 问世后高等教育实证研究的[[Emergence\|涌现]]与成熟周期。 |
 > | **出版载体类型**<br>（Document Type） | • **同行评审期刊** 50 篇（87.7%）<br>• **会议论文与硕博论文** 7 篇（12.3%） | 纳入 7 篇未公开发表的灰色文献，用于严谨评估并缓解“抽屉文件效应”对合并效应量的潜在高估。 |
 > | **地理区域分布**<br>（Geographic Region） | • **东亚地区** 25 篇（43.9%）<br>• **中东地区** 10 篇（17.5%）<br>• **欧美地区** 7 篇（12.3%）<br>• **南亚与东南亚** 5 篇（8.8%）<br>• **其他地区** 10 篇（17.5%） | 东亚高校实证最为密集；中东地区采纳增速显著，为高权力距离文化检验提供了充分的跨文化样本支撑。 |
-> | **参与者年级学段**<br>（Participant Level） | • **跨年级混合** 40 篇（70.2%）<br>• **大一新生** 6 篇（10.5%）<br>• **大二学生** 6 篇（10.5%）<br>• **大三学生** 5 篇（8.8%） | 绝大多数实证面向通识或大类基础课的混合学段学生；大一新生作为独立亚组呈现出最强的教学支架需求。 |
+> | **参与者年级学段**<br>（Participant Level） | • **跨年级混合** 40 篇（70.2%）<br>• **大一新生** 6 篇（10.5%）<br>• **大二学生** 6 篇（10.5%）<br>• **大三学生** 5 篇（8.8%） | 绝大多数实证面向通识或大类基础课的混合学段学生；大一新生作为独立亚组呈现出最强的[[Scaffolding\|教学支架]]需求。 |
 > | **学科领域门类**<br>（Academic Disciplines） | • **语言学** 20 篇（35.1%）<br>• **STEM 学科** 19 篇（33.3%）<br>• **人文社科** 9 篇（15.8%）<br>• **医学与健康** 7 篇（12.3%）<br>• **交叉学科** 2 篇（3.5%） | 语言与 STEM 占据三分之二以上（天然契合大语言模型交互机制）；医学教育亦逐步引入 AI 问诊与病案模拟。 |
 
 > [!search-protocol]- 文献检索与筛选 PRISMA 流程（p. 7）
@@ -300,7 +301,7 @@ issuing_organization: ""
 > - **[[Language Skills|语言技能]]超大效应** 自然语言模型底层基于大规模语料概率分布，在二语写作重构、语法纠错、体裁模仿与口语即时[[Dialogue in Education|对话]]中提供极低焦虑的演练环境，产生超大促学效应（Liu et al., 2025; Wang et al., 2024）。（pp. 9–10）
 > - **学业成绩实证案例** 在计算机初级编程（Kosar et al., 2024; Johnson et al., 2024）与骨科医学病案教学（Gan et al., 2024; Hui et al., 2025）中，AI 扮演即时助教角色有效帮助学生理解复杂程序逻辑与临床诊断要点。（pp. 14–15）
 > - **情感动机提升机制** AI 工具以无评判压力的对话界面响应学生提问，极大降低了求助焦虑并提升了学业[[Self-Efficacy|自我效能感]]（Urban et al., 2024; Yilmaz & Yilmaz, 2023b; Marengo et al., 2025）。（pp. 10, 15）
-> - **高阶思维促进与张力** 在国际关系辩论与方案设计中，ChatGPT 作为思维脚手架促进了[[Reflexivity|反思性]]论证（de la Puente et al., 2024; Lee et al., 2024），但部分研究也警示其可能降低深层逻辑推断质量（Stadler et al., 2024）。（pp. 15, 17）
+> - **高阶思维促进与张力** 在国际关系辩论与方案设计中，ChatGPT 作为思维[[Scaffolding|脚手架]]促进了[[Reflexivity|反思性]]论证（de la Puente et al., 2024; Lee et al., 2024），但部分研究也警示其可能降低深层逻辑推断质量（Stadler et al., 2024）。（pp. 15, 17）
 > - **元认知促学缺失警示** 实证数据表明生成式 AI 对大学生元认知能力未产生统计显著影响，证实直接提供技术工具无法自发带来自主监控提升，反而可能导致学生跳过反思评估直接采纳生成答案（Fan et al., 2025; Karaoglan Yilmaz & Yilmaz, 2025）。（pp. 15–16）
 
 > [!warrant]- 推理桥梁

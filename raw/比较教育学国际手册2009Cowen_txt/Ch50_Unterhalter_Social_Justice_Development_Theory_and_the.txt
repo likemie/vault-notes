@@ -1,0 +1,887 @@
+================================================================================
+Chapter 50: Social Justice, Development Theory and the Question of Education
+Author(s): Elaine Unterhalter
+Handbook: International Handbook of Comparative Education (2009)
+Editors: Robert Cowen and Andreas M. Kazamias (Section Editor: Elaine Unterhalter)
+Section: Section 5: Postcolonialism
+Book Pages: pp. 781–800
+PDF Pages: pp. 772–791 (in raw/比较教育学国际手册2009Cowen.pdf)
+================================================================================
+
+--- [PDF Page 772 / Book Page 781] ---
+
+50
+SOCIAL JUSTICE, DEVELOPMENT THEORY
+AND THE QUESTION OF EDUCATION
+Elaine Unterhalter
+
+Education holds a particular place for theorisations of development formulated since
+the 1950s. In changing conditions, marked initially by the political economy of the
+Cold War and decolonisation, and later by globalisation and the political realignments
+of the post-Cold War era, views on the aims for education, how to systematise school
+knowledge, organise pedagogy or view school management have been much contested.
+Particular development theories’ assumptions, research methodologies and practices
+have emphasised certain aspects of education and de-emphasised others. But little
+attention has been given to views of justice (both implicit and explicit) and how these
+orient the dynamics of thinking about education and international development.
+Six approaches to development theory are explored in this chapter in relation to
+the ways in which they conceptualise education and social justice. This is a partial
+selection as it is not possible to explore all the varieties and debates in development
+theory in one chapter. I have made the selection, partly because these approaches are
+evident in largely chronological waves from the 1950s and partly because they are
+those commonly discussed in general reviews of phases of contemporary development
+theory (Preston, 1996; Munck & O’Hearn, 1999; Rapley, 2002; Gasper, 2004). In discussing them I have tried to draw out how each locates the aims of education and the
+implications of these for practices advocated in relation to curriculum, pedagogy and
+management. I also attempt to distil in each approach assumptions about the nature
+of the person to be educated and the connection between education and social justice.
+I draw out some of the consequences of these formulations for the preferred forms of
+research associated with each theory. The consequences of the explanations these offer
+for global action on education and poverty is then assessed.
+
+Modernisation Theory and Nation Building
+Modernisation theory emerged in the 1950s and 1960s and expressed the view that the
+economic, political and social formations associated with Western Europe and North
+America were at a more evolved level of development than what were termed the ‘traditional’, non-modern or underdeveloped societies of the rest of the world. ‘Modernity’
+was linked by Rostow (1959) with a market economy where investment and growth in
+a particular sector would lead to take-off, higher wages and increased consumption.
+David Apter identified modernity with democratic politics, where local affiliations and
+781
+R. Cowen and A. M. Kazamias (eds.), International Handbook of Comparative Education, 781–800.
+© Springer Science + Business Media B.V. 2009
+
+--- [PDF Page 773 / Book Page 782] ---
+
+782 Unterhalter
+
+practices of governance were replaced by institutional forms associated with political parties, elected parliaments, and efficient local government (Apter, 1965). Inkeles
+and Smith (1974) identified particular dispositions of a modern personality who was
+independent and rational.
+These theorists suggested sharp and normatively inscribed distinctions between the
+world of modernity and that of tradition. The former, it was claimed, would deliver
+higher living standards, more efficient government and more rational forward-looking
+human subjects. The latter, it was claimed, was characterised by stagnant economies
+and poverty, corruption, inept government and backward-looking parochial subjects.
+In its ideal form at the centre of the theorisation of modernity stood a man, with all the
+attributes of a good subject. The relationships that were considered important to him
+were in the public sphere of politics or work. While he might have ties of affiliation to
+women, children, or community these were all at a second order of concern located in
+a private sphere, which might be problematically not modern or not modern enough.
+A slightly different version of modernity, less overtly critical of certain forms
+of ‘tradition’ was being articulated by the architects of new nation states that were
+forming as decolonisation gathered pace from the late 1940s. Here modernity was
+associated with citizenship of the new states, a putting aside of affiliation based exclusively on one religion, language or region for commitment to a national project rooted
+in a Constitution, the establishment of key social institutions such as universities or a
+national radio or a planned economy. The establishment of an official language was
+often an important site of contestation for new nations. While many of the anti-colonial
+national movements that put in place this version of modernity had been actively supported by the mobilisation of women (Jayawardena, 1986; Stasiulis & Yuval Davis,
+1995), the modern citizen envisaged tended to be considered gender-neutral; all it was
+claimed, were equal before the law and had equal opportunities in the new secular state
+(Rai, 2002).
+These two intersecting appropriations of ideas of modernity were aligned with different social forces which sometimes made common cause. The first was linked with
+the expansion of American political and economic influence into areas once the sphere
+of European colonial powers (Ambrose & Brinkley, 1997). The second was associated with the complex politics of decolonisation (Chatterjee, 1991; Pieterse & Parekh,
+1995; Hyam, 2007). But despite some significant differences these two perspectives
+on modernity have in common a limited capacity to acknowledge sufficiently, either
+analytically or in practice, the diverse contexts of citizenship, the ambiguities of understandings of modernity and the millions of people who did not have clear relationships
+of citizenship with nation states, either because they lived in regions that were inaccessible to modern institutions and forms of mass communication, or because they
+had been dispossessed of citizenship through war or a politics of exclusion. From the
+perspective of modernisation theory social relationships that did not fit with ideas of
+rational citizenship, employment in the wage economy, consumption, secularism, and
+national affiliation were portrayed as ‘weighed down’ by tradition, particularism and
+inefficiency. For democratic projects associated with new forms of state emerging,
+for example, in India or Ghana, there were intense struggles about how to articulate a
+popular vision that was inclusive enough.
+
+--- [PDF Page 774 / Book Page 783] ---
+
+Social Justice, Development Theory and The Question of Education 783
+
+The implications of this sharp binary were that the aims of education should include
+a process through which people could become modern and ‘take off ’ the burdens of
+‘tradition’. In schools, technical institutes, adult literacy classes and universities they
+would learn the dispositions of citizenship, democracy and the importance of national
+economic growth. Education was thus a key process through which the transformation
+to modernity was to be achieved (Fagerlind & Saha, 1983). The new technologies associated with mass communication, for example, radio and then television, were seen as
+key instruments to achieve this (Lerner, 1958). The provision of mass schooling was an
+important component of the form of modernity associated with nation building. Mass
+schooling for all citizens was seen as necessary for economic growth and as an indication of commitment by new governments to social development for all the people
+(Carnoy & Samoff, 1990).
+It was thus important that schools should teach those forms of knowledge associated
+with modernity, not available elsewhere. Literacy in the official language, understood in
+terms of the capacity to read and write a short statement with understanding, was considered best taught in schools to adults and children (Jones, 1990). Languages associated
+with nation building: Swahili or Hindi or Spanish were also seen as the particular remit of
+schools (Aikman, 1999; Mvungi, 1974).Practices of national affiliation, such as saluting
+the flag or learning about the provinces that made up the country of which children were
+citizens, were also emphasised (Uchendu, 1980; Harber, 1997). Numeracy was considered
+key to employment in the modern sectors of the economy where a science of measurement,
+numeric representation, and abstract deduction, were seen as important for efficiency, technological innovation and understanding of health (Eisemon, 1989). Thus, schools were key
+spaces for teaching subjects associated with modernisation.
+The pedagogy that would support learning these subjects for these purposes was
+often termed transmission teaching, because its main concern was conveying the
+content of knowledge, not particularly responding to the ideas or contexts of the learners. Thus, for example, Eisemon, commenting on the teaching of science in African
+schools in the 1970s, suggested that it was not the length of time in school, but the
+nature of teaching, that is content and quality of instruction that would strengthen
+understanding (Eisemon, 1989). Adesina, reviewing changing approaches to the teaching of history in Nigeria, charts how in the 1960s emphasis initially was on instruction
+in the sequence of events in the 1960s (Adesina, 2006). The approach to school management associated with modernisation stressed rational bureaucracies with a central
+role assigned to Departments of Education located in capital cities with subordinate
+district or circuit offices reporting upwards. For example, in South Africa this system of education administration, duplicated for all the racially divided groups, was
+considered rational and efficient in relation to ‘modern’ ideas about national- and
+provincial-level organisational structures (Behr, 1966). When all education provision
+was unified under one Ministry of Education in Kenya at independence, the units for
+administration were designed in terms of what was seen as a rational national organisational structure (Raju, 1973).
+The assumptions about the person in relation to the institutions of modernity were
+thus ideas about sameness and unity. All should be offered equal opportunities to
+access school and these new forms of knowledge.
+
+--- [PDF Page 775 / Book Page 784] ---
+
+784 Unterhalter
+
+Two ideas about justice are implicit within modernisation theory. The first is that
+justice is not a theory, but a set of efficient legal institutions. This understanding links
+together descriptive accounts of state authority with a normative account of the legitimacy of that authority (Hart, 1961) If laws in education are made by democratically
+elected bodies and interpreted by courts that are not corrupt, if revenue is collected
+efficiently and spent rationally on school provision as laid out in economic plans, then
+justice is seen to be done.
+The second idea concerning justice and legitimate authority associated with modernisation is that a person who acts in accordance with modernity and the impartiality
+and morality of modern institutions is acting justly. In Joseph Raz’s formulation the
+authority of the state is guided by its morality in acting to promote what is good. The
+state’s authority derives from codifying as law the reasons for action towards others
+that people already have, for example, paying taxes to support schools or encouraging
+economic growth that will benefit all. Because this is reasonable, it is also legitimate
+and thus just (Raz, 1986). This notion that states can be active in creating the conditions for individuals to pursue meaningful lives, can be seen to animate ideas about
+global justice developed in the 1950s and 1960s, where this aspiration was seen to
+be articulated through states and the international machinery of the United Nations
+organisations, rather than through the connections of individuals or civil society organisations or a wider notion of the state concerned not just with government (Jones &
+Coleman, 2005).
+These ideas about justice and equal opportunities had a particular effect on how
+research agendas were set. What was researched and measured in schools was success in teaching functional literacy and numeracy, proficiency in the national language
+and the psychological traits of modernity because these showed the extent to which
+just institutions were at work nationally. Hence, the explanatory force of methodologies concerned with measurement and large-scale surveys were stressed. The research
+paradigm suggested that improving institutions would expand provision and the poorest would eventually access school.
+
+Basic Needs
+Many problems associated with the uneven realisation of the optimism of modernisation theory were evident by the late 1960s. Pressing issues included widespread
+poverty which the new institutions seemed unable to overcome. Some brutal governments claimed they were acting in response to modernisation. The exclusion of some
+on grounds of race, ethnicity or gender from the institutions associated with economic
+growth and political legitimacy called into question the efficiency of modernisation. In
+the 1970s, a highly influential group of development economists critiqued the assumptions of modernisation that poverty would be eradicated by economic growth, the
+expansion of employment, higher incomes and the trickle-down effects of successful
+capitalism (Streeten, 1981; Stewart, 1985). The basic needs approach to social policy
+stressed one should not focus on particular outcomes or on humans as a means to social,
+economic or political ends. Basic needs theorists outlined how it was important to
+
+--- [PDF Page 776 / Book Page 785] ---
+
+Social Justice, Development Theory and The Question of Education 785
+
+consider those who might not be incorporated into successful modernisation projects,
+who might never be economically productive, and never increase economic growth.
+Some people might have important preferences that could not be satisfied on the same
+terms as everyone else, such as the old, the very young, those with disabilities or those
+who were excluded from political or economic participation because of historically
+located forms of discrimination on the grounds of gender, race or ethnicity. Wiggins
+made explicit that there was a normative basis to need. The argument he developed was
+that the importance of needs was that they expressed aspects of a condition of human
+flourishing. Failure to ensure a certain level of human flourishing – meeting basic
+needs – would constitute harm (Wiggins, 1988). One of the important contributions
+of the work on need was that it gave philosophic, political and economic visibility
+to ideas about care and concerns that modernisation theory had relegated to the private realm of the household, beyond the purview and resourcing of government policy
+(Reader, 2006).
+In Frances Stewart’s work provision of education and health were intimately connected with a minimal provision of a good life, below the threshold of which harm
+would result (Stewart, 1985). Thus the idea of education associated with the basic
+needs approach was that education up to a certain level was crucial to ensure human
+flourishing regardless of whether or not the dispositions of the person were made modern or the institutions associated with education were run in accordance with ideas
+about governance, democracy or efficiency. A second implicit idea was that basic
+needs in education could not be considered outside concern with health, housing, food
+security and other aspects of well-being. The multi-dimensionality of need and the
+implication that needs could be met by a range of persons or institutions (Reader,
+2006) indicated that the aims of education would not be realised only in schools, but
+that it was important to address provision for basic needs in education in conjunction
+with work on all the other basic needs (Stewart, 1985).
+The strength of the basic needs approach lay with the idea of thresholds and the interconnection with other areas of social policy. But with regard to specifying particular
+features of schooling, this clear direction presented a number of problems. Basic needs
+as applied to schooling came to be interpreted in a weak and a strong form. In its weak
+form basic needs in schooling came to be interpreted as a finite package of a certain
+number of years in school, generally 4–5, which were taken to mean that a basic need
+had been met. The problem with this was that computing the number of years children
+were enrolled in school without attention to what was taught or learned, how, and with
+what consequences, actually provided very little assurance that basic needs were being met
+(Unterhalter, 2007). Nonetheless, in early applications of the basic needs approach by
+UN organisations it was simply the number of years in school of children in particular
+countries that were analysed (see e.g., UNESCO, 1976; World Bank, 1979).
+A stronger form of the basic needs approach in relation to education was articulated
+in the Jomtien Declaration on Education for All (EFA) in 1990 which launched the
+EFA movement as an alliance initially of UN organisations and some governments, but,
+increasingly from 2000, a movement taking in the majority of world governments, UN
+organisations and civil society (Chabbott, 1997; Mundy & Murphy, 2001). The purpose of EFA was to meet basic learning needs. These were defined very broadly:
+
+--- [PDF Page 777 / Book Page 786] ---
+
+786 Unterhalter
+
+Every person – child, youth and adult – shall be able to benefit from educational
+opportunities designed to meet their basic learning needs. These needs comprise
+both essential learning tools (such as literacy, oral expression, numeracy, and
+problem solving) and the basic learning content (such as knowledge, skills, values, and attitudes) required by human beings to be able to survive, to develop
+their full capacities, to live and work in dignity, to participate fully in development, to improve the quality of their lives, to make informed decisions, and to
+continue learning. The scope of basic learning needs and how they should be met
+varies with individual countries and cultures, and inevitably, changes with the
+passage of time. (WDEFA, 1990)
+It can be seen that the prescriptions regarding functional literacy and numeracy to
+participate in the modern sectors of the economy or access the institutions of the state
+have been replaced by wider and fuzzier notions of literacy, numeracy, oral expression
+and problem-solving aligned with self-development, achieving a life of dignity and
+quality. There is no single set of ideas concerning curriculum content that is being
+prescribed. The second article of the Declaration stresses tolerating a plurality of ideas
+about curriculum, pedagogy and management and is concerned with situating EFA
+within existing ‘cultural, linguistic and spiritual heritage(s)’. The sharp distinction
+between the languages and practices of modernity and tradition has thus disappeared:
+The satisfaction of these needs empowers individuals in any society and confers
+upon them a responsibility to respect and build upon their collective cultural,
+linguistic and spiritual heritage, to promote the education of others, to further
+the cause of social justice, to achieve environmental protection, to be tolerant
+towards social, political and religious systems which differ from their own,
+ensuring that commonly accepted humanistic values and human rights are
+upheld, and to work for international peace and solidarity in an interdependent
+world. (WDEFA, 1990)
+In this form supporting basic learning needs turns the pedagogy couplet from teaching
+to learning, from outcome to process. What is important is not moulding particular dispositions of a modern person, who is rational and responsible, in relation to
+the institutions of the state and the economy. Facilitating learning, seen as synonymous with flourishing, empowerment and surviving in an interdependent world, now
+becomes key. It is the relational and contextual aspects of the situation of learner that
+is a matter of concern. Thus, the question of selecting or sequencing school knowledge and managing that process disappears from the global agenda and come within
+the purview of particular governments or schools. In this transition these discussions
+may well lose the dimensions of need articulated in documents such as the Jomtein
+Declaration. For example, in Bangladesh, state expansion of mass primary education
+and the introduction of a competency-based curriculum was linked to local political
+shifts, which involved aid agencies and aid packages on teaching and learning, but
+which interpreted meeting basic needs not with the emphasis on learning and empowerment suggested by WDEFA, but more in the spirit of modernisation (Davis, 2001;
+
+--- [PDF Page 778 / Book Page 787] ---
+
+Social Justice, Development Theory and The Question of Education 787
+
+Hosain et al., 2002). In Kenya, as the 1990s progressed, a number of international
+development partners withdrew assistance because of high levels of corruption and
+the perception that Kenya was a ‘reluctant reformer’ (Collier, 2004). This exacerbated
+some of the effects of structural adjustment which had resulted in the imposition of
+charges for schooling. However the Government of Kenya embarked, nonetheless, on
+a programme, with some donor assistance, to enhance the supply of textbooks, and
+deepen advice and training for teachers. The emphasis, however, was on improving
+school provision, more than meeting the basic learning needs of the poorest (Nzomo
+et al., 2001). These instances indicate how the global agenda on meeting basic learning
+needs, was interpreted in diverse ways in national policy.
+Concerns with justice and need brought together discussion of what needs were basic
+and fundamental to human life, and what priority should be given to basic needs. There was
+considerable debate about whether basic needs were satisfied by commodities or conditions, and the extent to which non-marketable goods and services associated, for example,
+with emotional needs, were within the realm of public action (Sen, 1981; Doyal & Gough,
+1991; Dasgupta, 1993; Gasper, 2004). However, this philosophical discussion of need was
+not considered in putting into practice policy based on the rather limited conception that
+basic education needs were fulfilled by 5 years in school (Unterhalter, 2007).
+Nonetheless, the conception of basic needs and the multi-dimensional aspects of a
+person’s flourishing this suggested, raised the question of justice in terms not related to
+the authority or efficiency of institutions but much more within the approach mapped
+out by political liberalism which stressed that there is no comprehensive all encompassing notion of the good (e.g. linked to modernisation). Rather it is important to
+consider how an overlapping consensus can be formed so that people will collaborate
+on the basis of ideas about justice and reasoned discussion they hold in common in
+an overlapping consensus (Rawls, 2005). Exploring and resolving difference through
+this process of consensus building could allow questions about priority or equality or
+threshold entailed in a discussion of need to be adjudicated. The EFA movement with
+its establishment of forums for very different states and multilateral bodies to meet, its
+slow opening of space at the table for international NGOs and its concern with issues
+of quality that do not touch on content, may be seen as one instance of this form of
+political liberalism in action. Elsewhere I have termed this a thin cosmopolitanism
+(Unterhalter, 2007) in that it was concerned to support global action for provision
+for basic learning needs, but not to demand further reforms in relation to political
+economy, culture or gender relations.
+Although the basic needs approach in education presented a clear critique of modernisation theory, and drew on very different ideas of the person and of justice, the
+approach did not generate different research methodologies. The very methods associated with reviewing the extent of modernisation – that is, large-scale surveys and
+interpretation of census data – were used in assessing whether basic learning needs
+were being met. Some of the research questions implicit in the approach – for example,
+how basic learning needs were understood, and what level of provision was considered
+sufficient – called for qualitative methodologies, but few studies of this form were
+used in developing policy. In the expansion of EFA, as Karen Mundy remarked, the
+political and ethical literature on global obligations for the poorest was little discussed
+
+--- [PDF Page 779 / Book Page 788] ---
+
+788 Unterhalter
+
+(Mundy, 1998). It seems that the weak interpretation given to basic learning needs as
+a bounded package of provision and the thin cosmopolitanism invoked in global and
+national interpretations of EFA was legitimated by research methods which did not
+depart from the terrain mapped by modernisation theory. This may have contributed to
+this approach not generating global action commensurate with its ethical concerns.
+
+Human Capital Theory
+In the 1960s, ideas about the economic value of schooling itself, not the particular
+subjects or dispositions of citizenship so central to modernisation, were elaborated.
+Gary Becker’s (1964) classic work Human Capital elaborated the notion of human
+capital within neoclassical economics registering that investment in humans could be
+viewed as similar to investment in other means of production, like factories or mines.
+Investment in human capital, just like investment in physical infrastructure would yield
+a rate of return, which could be calculated. Becker’s study set out to estimate the return
+to college and high school education in the United States, but he was able to show that
+it was not only schooling per se that was significant for growth, but a range of other
+investments in people including health and on-the-job training.
+Developing Becker’s work, Theodore Schultz, set out to map how rates of return
+from education could be calculated in countries with different levels of income, different variables concerning wage patterns, and different human attitudes to foregoing
+earnings to develop human capital. Schultz’s hypothesis was that calculating rates of
+return from investment in human capital would confirm how important investment in
+schooling and research was for the productivity of the labour force and the capacity of
+the economy to grow (Schultz, 1971).
+Detailed work investigating rates of return from education to families and national
+economies was undertaken by George Psacharopoulos in the 1970s and 1980s. In bringing together data from many countries on the role of education in economic growth,
+he set out to examine how the profitability of investment in education compared with
+profits from investment in physical capital, symbolised in the rhetorical question
+investment in schools or steel mills? (Psacharopoulos, 1973) Psacharopoulos was also
+interested in whether inter-country differences in human capital could explain differences in per capita income, what the rate of return by level of education was across
+countries, whether there were differences with regard to the level of public subsidy to
+education, and whether subsidies reduced or increased incentives. Psacharopoulos’
+findings were to have profound significance on international policy with regard to
+investment in education. On the basis of the data he examined he concluded:
+[R]ates of return decline by the level of education. Looking first at the social
+rates of return, the average for primary education is 19.4 per cent, for secondary
+13.5 per cent and for higher 11.3 per cent. (Psacharopoulos, 1973)
+This stress on the high rate of return from primary education was to orient a generation of planners in the World Bank and other international and national institutiutions
+
+--- [PDF Page 780 / Book Page 789] ---
+
+Social Justice, Development Theory and The Question of Education 789
+
+to focus on this level. There has been a critical discussion of the way Psacharopoulos
+calculated rates of return and reached these conclusions (Bennell, 1996), but the policy
+implications of his work were nonetheless enormous.
+Generally, work within a human capital framework assumes that labour markets
+work rationally and efficiently and that once schools have developed certain aspects of
+human capital the labour market will allocate people to occupations that are appropriate for their level of skill. The framework does not take account of segregated labour
+markets where people, irrespective of their level of education, are allocated to particular jobs on the grounds of race, gender, or assumptions about class or caste. The
+framework tends to view schooling something like a machine which children enter
+and exit with their human capital appropriately topped up. Enhancing human capital,
+like developing the political subjects of modernisation, does require particular forms
+of knowledge and particular pedagogies that enhance this learning. But the theory
+suggests that there will be different kinds of human capital. Thus, different schools
+may enhance human capital differently. For example, elite schools will be required
+for managers and good-enough schools for those who will be semi-skilled workers.
+As both groups will help contribute to economic growth the different emphasis in
+curriculum and pedagogy is not a major issue. The ways in which schools may provide different learning environments for children of diverse backgrounds with very
+divergent outcomes is not considered significant unless the schooling is so poor and
+children learn so little it does not increase human capital. Thus, writers interested in
+human capital will generally consider whether the school is efficient, in other words,
+how many hours of instruction are provided, what the level of teacher qualification is,
+and whether children pass. The UNESCO Global Monitoring Reports, published since
+2002, were strongly influenced by human capital approaches in developing indicators
+to measure EFA, compiling statistical tables on inputs and outputs, that is, enrolment
+rates, retentions and teacher training (UNESCO, 2003) Writers working within this
+framework are generally not interested in debates about curriculum hidden or in use,
+constructed or negotiated processes of learning or the identities of teachers.
+While some of the writing on human capital noted differential rates of return for
+women and men (Woodhall, 1973; Schultz, 1995) their general conclusion was not that
+structures of gender or race inequality should be considered, but that more education
+should be growth is provided for these groups to improve levels of economic growth.
+It can be seen that what is important for all the writers on human capital theory. In this
+framework schooling assists growth and a major social obligation is to increase access
+to schooling to facilitate economic growth. What this framework does not register
+is questions of value that extend beyond the economic sphere, questions of inequality and how to address this, and how or whether critical pedagogy or new forms of
+knowledge that are not deemed appropriate for enhancing economic growth should be
+incorporated into school.
+The idea of the person inherent in human capital theory is an active agent primarily
+concerned with utility maximisation, which is achieving the highest level of wellbeing or happiness for himself, herself or a society. However, most writers on human
+capital did not look at an individual and the mental metrics she or he might use in
+making this assessment. Assumptions were made about people in families or nations
+
+--- [PDF Page 781 / Book Page 790] ---
+
+790 Unterhalter
+
+where the individual person disappeared into a larger unit bent on utility maximisation
+for all its members, giving scant attention to distributional issues or different needs.
+Thus, as Naila Kabeer pointed out for views about utility maximisation generally, the
+assumption was that there were no gender dynamics in families and that fathers or husbands would always act to enhance utility for all members of a family, despite research
+evidence which showed that in many contexts sons were preferred over daughters
+(Kabeer, 1994). When these ideas were translated into education policy (see e.g., King
+& Hill, 1993) the assumption was that if cost or distance barriers to schooling could be
+removed the rationality of utility maximisation would be evident.
+Human capital theory draws implicitly on ideas about justice associated with classical liberalism, as it came to be interpreted in the era of Thatcher and Reagan, namely,
+that the individual is a rights bearer with regard say to rights to education or to economic accumulation. These rights pre-date the existence of any particular form of the
+state and do not take account of different situations or social contexts. Free markets
+that allow for the circulation of ideas, different kinds of schools, or different forms
+of employment must not be inhibited. An individual’s rights to education and to the
+returns from investments in education should be protected by a limited form of constitutional government. In this limited interpretation of the ideas of Adam Smith concerns
+with social context and the political dimensions of the economy are underplayed. Ideas
+associated with basic needs of care, obligation and overlapping consensus on social
+justice are not of particular interest to this interpretation of classical liberalism with its
+stress on a single individual’s rights to accumulation and education.
+The assumptions about ontological rather than ethical liberalism, and the notion
+that utility maximisation entailed simply economic growth, generated a concern to
+establish efficient institutions to deliver an education that articulated well with the
+economy. The research methods associated with the approach tended to be large-scale
+surveys which looked at the level of rate of return and considered how school inputs
+related to outputs. While a number of qualitative studies were done to understand why
+some families or particular ethnic or social groups did not make use of schooling with
+particular attention to gendered exclusion (Herz & Sperling, 2004) the data were not
+utilised to consider wider aspects of need or discrimination. The implication was that
+obstacles to increasing the rate of return from education were located within families,
+communities and inefficient polities. The remit of global action was thus to help governments remove these and enhance growth, from which the poorest, as a result of
+trickle down, would ultimately benefit.
+
+Development and Underdevelopment
+Marxist critiques of development theories based on growth reach back to the nineteenth
+century, but from the 1960s, took a particular form in considering how development
+and underdevelopment could be articulated and how the persistence of poverty was
+not an oversight, but a key dimension of capitalism which required a reserve army
+of labour, who were poorly educated and impoverished, in order to drive down the
+wages of those employed and buy allies amongst a relatively small skilled segment
+
+--- [PDF Page 782 / Book Page 791] ---
+
+Social Justice, Development Theory and The Question of Education 791
+
+of the working class (Wolpe, 1980; Leys, 1996). Walter Rodney’s widely read How
+Europe underdeveloped Africa (1973) made the case that the slave trade and other
+interventions in African political economy reaching back to the fifteenth century had
+resulted in exploitation and forms of domination. Martin Carnoy’s (1971) Education
+as cultural imperialism extended this analysis looking at the ways in which the school
+system had been allied to repression.
+The assumption in the Marxist view of education and development was that schools
+reproduced capitalist or imperialist relations. Thus, in a political economy marked by
+exploitation and the articulation of modes of capitalist and non-capitalist production,
+schools would form ideas about the place of children according to class or gender. In
+the research within this framework in South Africa (where development and underdevelopment coincided in one country), race was generally viewed as equivalent to
+class and the ways in which the school system reproduced the racialised occupational
+structure was a major theme (Kallaway, 1984; Nkomo, 1990).
+The challenge to the Marxist critique of development was how education could
+be transformative. Paulo Freire (1968, 1970) developed the notion of conscientisation within a Marxist framework elaborating how misunderstanding of social relations
+associated with capitalism could be transformed. Freire gave particular attention to
+the nature of the relationship between learners and teachers, a departure from some
+Marxist writing on education, where the school was seen as merely reproductive of
+capitalist relations of production (Wolpe, 1990).
+The Freirean approach to school took basic learning needs much further than suggested in the Jomtien Declaration, suggesting schools should not only satisfy needs and
+empower individuals, but should also help them to transform themselves and their societies. Implicit in this work is a notion of a person, who is both made by his or her social
+conditions, but also has the capacity to change. Change is both personal and has a consequence for changing social relations. Marx’s statement that man can change history, but
+not on terms of his own making, sums up a view of the person who is at once constrained
+by global capitalism, class structures and schools that mirror this, but who also has the
+potential, through collective and transformative action, to change this. Attempts have
+been made to put these ideas into practice in schools and adult literacy classes with
+explicitly transformative pedagogies. Generally this entails developing a different form
+of school management from that focused on delivering only outputs. The management
+ideas associated with Freirean pedagogies tend to stress the participation of learners,
+teachers and communities in reflection and critique. While Freirean educational work
+may have been imperfectly realised or difficult to sustain, in settings as diverse as Latin
+America, Southern and Eastern Africa and India, they offer powerful examples of how
+teachers and learners engage with critiques of their society (Archer & Costello, 1990;
+Stromquist, 1997; Motala & Vally, 2002; Abadzi, 2003; McCowan, 2008).
+The concern for justice associated with this approach is linked with discussions of
+egalitarianism and redistribution and with attending to how conditions in schools can
+be made more equal or the formation of educators can be linked to the struggles of the
+poorest (Lynch & Lodge, 2004; Hill, 2003). In Katarina Tomasevski’s work (2003), the
+importance of justice in making education free for all children, particularly the poorest, presents a view of justice grounded in a conception of rights to education that is
+
+--- [PDF Page 783 / Book Page 792] ---
+
+792 Unterhalter
+
+different from that associated with human capital theory. These moral rights that evoke
+equality and non-discrimination require satisfaction partly because of the historical
+global relations of dominance and subordination, but also because of the potentially
+transformative power of education. Distribution and transformation are thus the major
+emphases in these discussions of justice.
+In advancing these arguments quantitative and qualitative research methods have
+been used. While quantitative studies have been important to document inequalities in
+distribution by class, race, gender or region, qualitative investigation has been used to
+show how Freirean educational experiences transform lives in many of the works cited
+above. The methods thus give explanatory weight to the framework, but the forthright
+critique of global capitalism and national accommodations with inequality have not
+translated comfortably into programmes for action.
+
+Postmodernism and Postcolonialism
+From the 1980s postmodernism and post-structuralism, drawing on work such as
+Edward Said’s study of colonial relations in Orientalism (1978) and Michel Foucault’s
+work on discourse (1969, 1977), began to present a very clear paradigmatic challenge
+to ideas about education, society, international development and social justice of previous decades. These influences came together in postcolonial theory, which had its
+greatest influence in discussions of art and literature, but which raised a number of
+salient questions for education (Loomba, 1998).
+All the preceding approaches, despite their different emphases, worked with similar
+aspirations to extend the distribution of education. There are distinctions between those
+that were more attentive to wider social relations concerning power, inequality and need
+beyond education (basic needs and underdevelopment) and those that were more confident of the connection between education and economic growth (modernisation and
+human capital theory) underplaying the structural dimensions of injustice. The challenge
+postcolonial theorising presented was to consider how the very paradigm of education
+and international development carried within itself assumptions about Western superiority and constructions of third-world peoples as ‘others’. A binary opposition was
+therefore posited between ‘the West’ and ‘the rest’, colonial and postcolonial states or
+dominant discourse on appropriate education and the multiple experiences of colonised
+peoples. The latter, it was noted, were always portrayed in deficit in relation to dominant
+forms of knowledge, homogenised by particular identities, such as ‘third world woman’
+and silenced by the languages of power concerning policy discussion (Mohanty, 1979;
+Bhabha, 1984; Spivak, 1988). In postcolonial theorising the multiplicity of identities,
+constructed, reconstructed, hybridised and resisted in different settings was of particular
+note. The political task was to consider that dominant languages and discourses may be
+the only vehicle available to subalterns to contest the identities of subordination given to
+them, yet that language erased those very identities (Spivak, 1999).The capacity to see
+things, nonetheless, as it were in double exposure was a key concern (Minh Ha, 1989).
+Thus the colonial past was always in the present of education reform, and all activities
+had multiple resonances.
+
+--- [PDF Page 784 / Book Page 793] ---
+
+Social Justice, Development Theory and The Question of Education 793
+
+Underpinning this paradigm shift was a notion that all action can only be understood
+through discourse and that the key social relations to be analysed are forms of language and representation. Thus the notion of the person associated with this approach
+notes fragmented identities and considers human practices of making and using language, emphasising this is not a simple act of agency but entails action within powerful
+formations of already formed languages systems, structured both by forms of words
+and the nexus of ideas concerning, for example, race, gender or rationality.
+Because the focus was on a critique of discourses and identities, there was very
+little concern at first with the content of what was taught in school or the outcomes
+of schooling. Initial work within this framework identified policy discourses and discursive shifts. Thus, for example, the process through which ideas about unifying
+education and training into one National Qualification Framework were diffused in
+South Africa were explored using a range of different methods from discourse analysis
+(Lugg, 2007). In India the tropes entailed in thinking about a new saffronised curriculum were noted (Kamat, 2004). However, later work within a postcolonial frame
+began to look at forms of negotiation and resistance within classrooms to dominant
+discourses looking closely at children and teachers’ identity formation and discursive
+forms (Hickling Hudson, 2003). It can be seen that the emphasis on discourse and
+process meant that little attention was given to management or distributional issues.
+In contrast with the concern with institutional and distributional approaches to justice, which characterise the foregoing frameworks, postcolonial theorising raises the
+question of justice in terms of recognition. The problem outlined by the approach is
+how to value subordinated, multiple, shifting identities, and how, acknowledging this,
+conditions of justice are to be established (Fraser, 1997; Spivak, 1999).
+These assumptions about the person – discursively situated with shifting identities
+– and about justice, as no longer primarily a matter of distribution, have generated
+a profound change in methodologies. Deconstruction and analysis of discourse and
+identity in education became a major concern. Methods borrowed from literary criticism, social linguistics, history and cultural studies have been used. As a consequence
+more textured understandings of processes of policy formulation, identity negotiation
+and the experiences of subordination have been generated. The remit of what attending to the education of the poorest might entail has broadened considerably, but the
+breadth has not generally been accompanied by concern with strategy and policy.
+
+Human Development and the Capability Approach
+The human development and capability approach, linked with the work of Mahbub Ul
+Haq (1995), Amartya Sen (1992, 1999) and Martha Nussbaum (2000, 2006) repositions education as a distributional issue, but gives considerable attention to human
+diversity, albeit in a different guise to that suggested by postcolonial theory.
+Human development is defined by Ul Haq as an approach where
+[p]eople are moved to centre stage. Development is analysed and understood in
+terms of people. Each activity is analysed to see how much people participate in
+
+--- [PDF Page 785 / Book Page 794] ---
+
+794 Unterhalter
+
+it or benefit from it. The touchstone of success of development policies becomes
+the betterment of people’s lives, not just the expansion of production processes.
+(Ul Haq, 1995)
+As a consequence, health and education, which form people, are as important to development as what people do in their work, politics or leisure. Implicitly education is here
+both a process that encourages human development and an expression of the enjoyment of human development.
+Ul Haq’s ideas about human development drew explicitly on Sen’s notion of capabilities and Sen’s perception that in looking at equality one must not assess equality of
+opportunity or outcome, but capabilities, that is, a person’s “ability to do valuable acts or
+reach valuable states of being … the alternative combinations of things a person is able
+to do or be” (Sen, 1993, p. 30). The approach thus points to the importance of evaluation of social, economic and political arrangements that people can and do enjoy for an
+expansion of freedoms. Thus in dealing with education we need to evaluate not simply
+inputs (numbers of teachers or classrooms) or outputs (level of education qualifications),
+but also whether there are a range of opportunities for valued actions and states of being
+to be achieved and whether this is accomplished. Sen is particularly interested in human
+diversity and the ways in which people in different situations convert resources like
+education into valued functionings. For example, women in a patriarchal family might
+consider they have less need for education because they do not attribute value to their
+contribution to the family (Sen, 1990). Widening the capability set addresses diversity
+in ways that diverge from the postcolonial plea for the recognition of difference without
+attention to distribution or social institutions. Sen also stresses the significance of participation in processes to select valued capabilities and decide on forms of provision (Sen,
+2005). In developing some of these ideas further Martha Nussbaum identified a list of
+central capabilities for human functioning, where education figures large (Nussbaum,
+2000). It is evident that all three view the purpose of education as much wider than
+developing the skills that will enhance economic growth. They are not only interested in
+schooling as a system of inputs and outputs, but as nurturing processes of critical reflection and connection with others that are intrinsically ethical, and not just instrumental.
+The utilisation of the human development and capability approach in the practice
+of education is currently more apparent in terms of aspiration, rather than practice.
+Although the state of Madhya Pradesh in India utilised this framework in drafting its
+education policy, the interpretation in districts and schools showed little signs of a
+full engagement with the key ideas (Page, 2005). Arguments for the potential of the
+approach in developing higher education pedagogies, assessments of education provision for those with disabilities, new forms of management, and curriculum to engage
+with HIV or the training of social workers have been developed, but remain to be
+put into practice (Walker, 2006; Terzi, 2005; Bates, 2007; Unterhalter, 2008; Otto &
+Zigler, 2006). To date the most significant instance of human development and the
+capability approach at work in education has been through the generation of alternative indicators to assess development.
+Ul Haq suggested a measure of human development that would allow for rankings
+between countries or districts similar to measures of GDP, but express more fully the
+
+--- [PDF Page 786 / Book Page 795] ---
+
+Social Justice, Development Theory and The Question of Education 795
+
+range of valued aspects of living the human development approach encompassed. Sen
+worked on the mathematics for the Human Development Index (HDI) (Sen, 2003).
+Subsequent work generated indices to assess gender, poverty and rights The HDI
+methodology was adapted for measuring progress on EFA in the Education Development Index to measure progress on EFA (UNESCO, 2003). A Gender Equality and
+Education Index was subsequently developed (Unterhalter et al., 2005).
+The idea of the person in the human development and capability approach is both
+active and reflective, considering not just utility maximisation as interpreted by human
+capital theory, or incorporation into modernity, but a wide range of valued ‘doings
+and beings’. There is considerable attention paid to diversity and different conditions
+which constrain the realisation of capabilities. The person is not only dedicated to
+economic growth, as in human capital theory. She or he may be very much constrained
+by conditions of exploitation and oppression as outlined in Marxist and postcolonial
+theory. But the assumption in postcolonial theorising that the person cannot be conceptualised or act outside particular forms of discourse and that experiences of hybrid
+identities raise significant questions with regard to justice is questioned.
+Although in formulating his notion of capabilities, Sen criticised conceptions of
+basic needs (1981), in practice there are many ways in which human development may
+be seen as a continuation of the basic needs approach. The links between capabilities
+and basic needs continue to be much discussed and concern in the capability approach
+to broaden the scope of evaluation from one-dimensional outputs to broader notions
+of flourishing has much in common with assessments of need (Reader, 2006; Alkire,
+2002; Terzi, 2007).
+Sen and Nussbaum both developed their ideas about capabilities, partly as an engagement with the work of John Rawls in A theory of justice (1973) and Political Liberalism
+(2005). They are interested, as he was, in distributional questions of justice, but they
+try to take his ideas further as the very notion of capability provides dimensions for
+thinking about justice and distribution that supplement Rawls’ stress on primary goods
+(Robeyns, 2006a). Further, Sen suggests, a theory of justice in contemporary times of
+grave inequalities requires not a complete transcendent theory but insights to make
+comparative assessments that enable action to make the world less unjust (Sen, 2006a).
+In some conditions, he therefore implies questions about justice must be concerned
+with recognition, language and identity, but the route to this conclusion is not through
+critiques of discourse, but through rigorous engagement with debates in political philosophy and acknowledgement of how the construction of antagonistic identities is
+generally associated with injustice (Sen, 2006b).
+The capability approach has much in common with a human rights approach which
+emphasises equality and non-discrimination and obligations to deliver in education,
+for instance. The claims people can make for protection against abuse and deprivation
+associated with human rights support a number of ideas about justice invoked by the
+capability approach. Robeyns (2006b) draws on suggestions by Brighouse (2004) to
+suggest that the notion of capabilities might provide a normative basis for thinking
+about rights. Vizard (2006) argues that human rights and the capability approach can
+work together in campaigns against poverty to hold governments accountable for nonfulfilment of obligations.
+
+--- [PDF Page 787 / Book Page 796] ---
+
+796 Unterhalter
+
+Both Sen (1999) and Nussbaum (2006) have drawn out how their visions for justice
+are global, not just local and given education a significant place in terms of the obligations of people to each other to expand capabilities. This demands thinking through
+education in relation to debates about cosmopolitanism and the processes of global
+justice.
+The idea of the person and associated conceptions of justice in the human development and capability approach have generated a distinctive methodological approach.
+Work within this framework is characterised by a high level of multi-disciplinarity
+drawing on philosophy, economics and sociology, and crossing disciplinary boundaries
+to link together different forms of data. Thus social statistics are utilised in innovative
+forms of combination and qualitative accounts provide rich insight into how capabilities are understood in practice (Raynor, 2007; Uyan, 2007). In using new explanatory
+frameworks to address the issue of global action on education the approach appears to
+have overcome some of the difficulties of not generating alternative methods encountered by the basic needs approach. Furthermore, the location of human development
+research within some of the UN organisations gives a level of access to powerful settings thus far denied critical approaches such as underdevelopment and postcolonial
+theorising. However the capacity of the human development and capability approach
+to make use of this advantageous conjunction in relation to affecting the practice of
+education for the poorest remains to be seen.
+
+Conclusion
+This chapter set out to explore the ways in which education was placed in relation
+to different theories of development and the implications of associated ideas about
+social justice for the research conducted. The discussion has revealed how education has been linked by different development theories with particular dispositions
+or outcomes (modernisation and human capital theory), with problems of imperialist exploitation and positioning of third-world people as the subordinate ‘other’
+(underdevelopment and postcolonial theory) and with the potential to bring about
+changes that attend to the needs of the poorest, facilitate critical reflection and expand
+opportunities for demanding and living a life one has reason to value (basic needs,
+underdevelopment and the capability approach). The most mainstream approaches
+(modernisation and human capital) situate justice primarily as the remit of individuals
+or institutions. Critical accounts highlight the social dimensions of justice, be they the
+processes of political liberalism, the demands of rigorous redistribution or concerns
+with recognition. While both basic needs and human development and the capability
+approach have significant presence in the policy documents of UN institutions and
+the programmes that flow from these, the ideas about justice associated with both
+approaches are often ignored. The education assumptions of human capital theory
+and modernisation continue to command respect and widespread understanding of
+the research methods they use contribute to this. The challenge is to turn the social
+justice aspirations of many global EFA documents into policies that express their core
+ideas and develop rigorous research agendas to sustain global action on poverty and
+education.
+
+--- [PDF Page 788 / Book Page 797] ---
+
+Social Justice, Development Theory and The Question of Education 797
+
+References
+Abadzi, H. (2003). Improving adult literacy outcomes: Lessons from cognitive research for developing
+countries. Washington, D.C.: World Bank.
+Adesina, O. C. (2006).Teaching history in twentieth century Nigeria: The challenges of change. History in
+Africa, 33, 17–37.
+Aikman, S. (1999). Intercultural education and literacy: an ethnographic study of indigenous knowledge
+and learning in the Peruvian Amazon. Amsterdam: Benjamins.
+Alkire, S. (2002). Valuing freedoms: Sen’s capability approach and poverty reduction. Oxford: Oxford
+University Press.
+Ambrose, S., & Brinkley, D. (1997). Rise to globalism: American foreign policy since 1938. Harmondsworth:
+Penguin.
+Archer, D., & Costello, P. (1990). Literacy and power: The Latin American battleground. London:
+Earthscan.
+Astorga, P., Berges, A. R., & Fitzgerald, V. (2005). The standard of living in Latin America during the twentieth century. The Economic History Review, 58(4), 765–796.
+Apter, D. (1965). The politics of modernization. Chicago, IL: University of Chicago Press.
+Bates, R. (2007). Developing capabilities and management of trust. In M. Walker & E. Unterhalter (Eds.),
+Amartya Sen’s Capability Approach and Social Justice in Education (137–135). Basingstoke: Palgrave
+Macmillan.
+Becker, G. (1964). Human capital. Chicago, IL: University of Chicago Press.
+Behr, A. (1966). Education in South Africa. Pretoria: van Schaik.
+Bennell, P. (1996). Rates of return to education: Does the conventional pattern prevail in Sub-Saharan
+Africa. World Development, 24(1), 183–199.
+Bhabha, H. (1990). Nation and narration. London : Routledge.
+Brighouse, H. (2004). Justice. Cambridge : Polity.
+Carnoy, M., & Samoff, J. (1990). Education and social transition in the Third World. Princeton, NJ: Princeton
+University Press.
+Chabbott, C. (2003). Constructing education for development: International organizations and Education
+for All. London: RoutledgeFalmer
+Chatterjee, P. (1993). The Nation and its fragments: Colonial and postcolonial histories. Princeton, NJ:
+Princeton University Press.
+Collier, P. (2004). Consensus building, knowledge and conditionality. Paper prepared for the Annual
+World Bank conference on development economics on line at http://siteresources.worldbank.org/
+INTABCDEWASHINGTON2000/Resources/collier.pdf (consulted September 2007).
+Dasgupta, P. (1993). An inquiry into wellbeing and destitution. Oxford, Oxford University Press.
+Davis, P. (2001). Rethinking the welfare regime approach: The case of Bangladesh. Global Social Policy,
+1(91), 79–107.
+Doyal, L., & Gough, I. (1991). A theory of need. London: Macmillan.
+Eisemon, T. O. (1989). Schooling, cognition and creating capacity for technological innovation in Africa.
+International Review of Education, 35(3), 329–348.
+Fagan, H., Munck, R., & O’Hearn, D. (1999). Critical development theory: Contributions to a new paradigm. London: Zed.
+Fägerlind, I., & Saha, L. J. (1983). Education and national development: A comparative perspective. Oxford:
+Pergamon.
+Foucault, M. (1972). The archaeology of knowledge. London, Tavistock Publications.
+Foucault, M. (1977). Discipline and punish. London, Allen Lane.
+Fraser, N. (1997). Justice interruptus: Rethinking key concepts of a post-socialist age. London: Routledge.
+Freire, P. (1972). Pedagogy of the oppressed. London: Sheed & Ward.
+Freire, P. (1974). Education for critical consciousness. London: Sheen & Ward.
+Gasper, D. (2004). The ethics of development. Edinburgh: Edinburgh University Press.
+Harber, C. (1997). Education, democracy and political development in Africa. Brighton: Sussex Academic
+Press.
+Hart, H. L. (1961). The concept of law. Oxford: Clarendon Press.
+
+--- [PDF Page 789 / Book Page 798] ---
+
+798 Unterhalter
+Herz, B., & Sperling, G. B. (2004). What works in girls’ education. New York: Council on Foreign
+Relations.
+Hickling-Hudson, A., & Ahlquist, R. (2003). Contesting the curriculum in the schooling of indigenous
+children in Australia and the United States: From Eurocentrism to culturally powerful pedagogies.
+Comparative Education Review. 47, 64–89.
+Hill, D. (2003). Global neoliberalism, the deformation of education, and resistance. Journal of Critical
+Education Policy Studies, 1, 1. On line at http://www.jceps.com/index.php?pageID = article&articleID
+= 7 (accessed August 2007).
+Hossain, N., Subrhamanian, R., & Kabeer, N. (2002). The politics of educational expansion in Bangladesh.
+Falmer: Institute of Development Studies, University of Sussex.
+Hyam, R. (2007). Britain’s declining empire: The road to decolonisation, 1918–1968. Cambridge, Cambridge
+University Press.
+Inkeles, A., & Smith, D. H. (1974). Becoming modern. Cambridge, MA,: Harvard University Press.
+Jayawardena, K. (1986). Feminism and nationalism in the third world. London: Zed.
+Jones, P. (1990). UNESCO and the politics of global literacy. Comparative Education Review, 34(1),
+41–60.
+Jones, P., & Coleman, D. (2005). The United Nations and education: Multilateralism, development and
+globalization. London: Routledge.
+Kabeer, N. (2004). Reversed realities: Gender hierarchies in development thought. London: Verso.
+Kallaway, P. (1984). Apartheid and education: The education of Black South Africans. Johnannesburg:
+Ravan Press.
+King, E., & Hill, M. A. (Eds.) (1993). Women’s education in developing countries. Barriers, benefits and
+policies. Baltimore, MD, Johns Hopkins University Press.
+Lerner, D. (1958). The passing of traditional society: Modernizing the Middle East. Glencoe, IL,: The Free
+Press.
+Leys, C. (1996). The rise and fall of development theory. Oxford: James Currey Publishers.
+Loomba, A. (1998). Colonialism/postcolonialism. London: Routledge.
+Lugg, R. (2007). Making different equal? Social practices of policy-making and the National Qualifications
+Framework in South Africa between 1985 and 2003. Doctoral thesis, University of London, Institute of
+Education.
+Lynch, K. & Lodge, A. (2004) Equality and power in schools: Redistribution, recognition and representation. London: Routledge.
+McCowan, T. (2008). Enacting citizenship: A study of three educational initiatives in Brazil. Doctoral thesis,
+University of London, Institute of Education.
+Minh Ha, T. (1989). Woman, native, other: Writing postcoloniality and feminism..Bloomington, IN, Indiana
+University Press.
+Mohanty, C. (1988). Under Western eyes: Feminist scholarship and colonial discourse. Feminist Review,
+30, 65–88.
+Motala, S. & Vally, S. (2002). People’s Education: From People’s Power to Tirisaro. In P. Kallaway (Ed.) The
+History of Education under Apart heid Pinelands: Masked Muller.
+Mundy, K., & Murphy, L. (2001). Transnational advocacy, global civil society? Emerging evidence from the
+field of education. Comparative Education Review, 45(1), 85–126.
+Munck, R., & O’Hearn, D. (Eds.) (1999). Critical development theory: Contributions to a new paradigm.
+London and New York: Zed.
+Mvungi, M. (1974). Language policy in Tanzania with emphasis on implementation. Dar es Salaam:
+University of Dar es Salaam.
+Nkomo, M. (1990). Pedagogy of domination. Trenton: Africa World Press.
+Nzomo, J., Kariuki, M., & Guantai, L. (2001). The quality of primary education in Kenya. SACMEQ Report.
+Paris: International Institute for Educational Planning.
+Nussbaum, M. (2000). Women and human development. Cambridge: Cambridge University Press.
+Nussbaum, M. (2006). Frontiers of justice. Cambridge and London: Harvard University Press.
+Otto, H., & Ziegler, H. (2006). Capabilities and education. Social work and society, 4(2).
+Page, E. (2005). Gender and the construction of identities in Indian elementary education. Doctoral thesis
+University of London, Institute of Education.
+
+--- [PDF Page 790 / Book Page 799] ---
+
+Social Justice, Development Theory and The Question of Education 799
+Pieterse, J., & Parekh, B. (Eds). (1995). The decolonization of the imagination. London: Zed.
+Preston, P. W. (1996). Development theory. An introduction. Oxford: Blackwell.
+Psacharapoulos, G. (1973). Returns to education. An international comparison. Amsterdam: Elsevier.
+Rai, S. (2002). Gender and the political economy of development. Cambridge: Polity.
+Raju, B.H. (1973). Education in Kenya: Problems and perspectives in educational planning and administration. London: Heinemann.
+Rapley, J. (2002). Understanding development: Theory and practice in the Third World. Boulder, CO: Lynn
+Rienner.
+Rawls, J. (1972). A theory of justice. Oxford: Clarendon Press.
+Rawls, J. (2005). Political liberalism. Columbia, NY: Columbia University Press.
+Raynor, J. (2007). Education and capabilities in Bangladesh. In M. Walker & E. Unterhalter (Eds.),
+Amartya Sen’s capability approach and social justice in education (157–176), Basingstoke: Palgrave
+Macmillan.
+Raz, J. (1986). The morality of freedom. Oxford: Oxford University Press.
+Reader, S. (2006). Does a basic needs approach need capabilities? Journal of Political Philosophy, 14(3),
+337–350.
+Robeyns, I. (2006a). Assessing gender justice: Primary goods or capabilities. Paper presented at the meeting of the Human Development and Capability Association, Groningen, the Netherlands.
+Robeyns, I. (2006b). Three models of education: Rights, capabilities and human capital. Theory and
+Research in Education, 4(1), 69–84.
+Rodney, W. (1972). How Europe underdeveloped Africa. London: Bogle-L’Ouverture Publications.
+Rostow, W. (1959). The stages of economic growth: A non-communist manifesto. Cambridge: Cambridge
+University Press.
+Said, E. (1978). Orientalism. New York: Pantheon Books.
+Schultz. T. W. (1971). Investment in Human Capital: the Role of Education and of Research. New York: The
+Free Press.
+Schultz, T. P. (1993). Returns to women’s education. In E. King & A. Hill (Eds.), Women’s education in
+developing countries. Baltimore, MD: Johns Hopkins Univeristy Press.
+Sen, A. (1981). Poverty and famines. Oxford: Clarendon Press.
+Sen, A. (1990). Gender and co-operative conflict. In I. Tinker (Ed.), Persistent inequalities. New York:
+Oxford University Press.
+Sen, A. (1992). Inequality reexamined. Oxford: Oxford University Press.
+Sen, A. (1993). Capability and wellbeing. In M. Nussbaum & A. Sen. The quality of life. Oxford: Oxford
+University Press.
+Sen, A. (1999). Development as freedom. Oxford: Oxford University Press.
+Sen, A. (2003). Foreword. In S. Fukuda-Parr & A. K. Shiva Kumar (Eds.), Readings in human development.
+New Delhi: Oxford University Press.
+Sen, A. (2005). Human rights and capabilities. Journal of Human Development, 6(2), 151–66.
+Sen, A. (2006a). What do we want from a theory of justice? Journal of Philosophy, 103(95), 215–238.
+Sen, A. (2006b). Identity and violence. New York and London: Allen Lane.
+Spivak, G. (1988). Can the subaltern speak? In C. Nelson & L. Grossberg (Eds.), Marxism and the interpretation of culture (pp. 271–313). Urbana, IL: University of Illinois Press.
+Spivak, G. (1999). A critique of postcolonial reason: Toward a history of the vanishing present. Cambridge
+and London: Harvard University Press.
+Stasiulis, D., & Yuval Davis, N. (Eds.) (1995). Unsettling settler societies. London: Sage.
+Stewart, F. (1985). Basic needs in developing countries. Baltimore: Johns Hopkins University Press
+Streeten, P. (1981). Recent issues in world development: A collection of survey articles. Oxford : Pergamon.
+Stromquist, N. (1997). Increasing girls’ and women’s participation in basic education. Paris: UNESCO:
+International Institute for Educational Planning.
+Terzi, L. (2005). A capability perspective on impairment, disability and special educational needs: Towards
+social justice in education. Theory and Research in Education, 3(2), 197–223.
+Terzi, L. (2007). The capability to be educated. In M. Walker & E. Unterhalter (Eds.), Amartya Sen’s capability approach and social justice in education (pp. 25–44). Basingstoke: Palgrave Macmillan.
+Tomasevski, K. (2003). Education denied. London: Zed.
+
+--- [PDF Page 791 / Book Page 800] ---
+
+800 Unterhalter
+Uchendu, V. (Ed.) (1980). Dependency and underdevelopment in West Africa. Leiden: E. J. Brill.
+Ul Haq, M. (1995). Reflections on human development. New York and Oxford: Oxford University Press.
+UNESCO (1976). Statistical yearbook. Paris: UNESCO.
+UNESCO (2003). Global monitoring report 2004. Gender and education for all. The leap to equality. Paris:
+UNESCO.
+Unterhalter, E., Challender, C., & Rajagopalan, R. (2005). A scorecard on gender equality in girls’ education in Asia, 1990–2000, Bangkok: UNESCO.
+Unterhalter, E. (2007). Gender schooling and global social justice. London and New York: Routledge.
+Unterhalter, E. (2007). The capability approach at work in education: Sore issues of operationalisation in the
+context of the HIV/AIDS epidemic in South Africa, In F. Comim, M. Qizalbash & S. Alkire (Eds.), The
+capability approach: Concepts, measures and applications. Cambridge: Cambridge University Press.
+Uyan-Semerci, P. (2007). A relational account of Nussbaum’s list of capabilities. Journal of Human
+Development, 8(2), 203–221.
+Vizard, P. (2006). Poverty and human rights: Sen’s ‘capability perspective’ explored. Oxford: Oxford
+University Press.
+Walker, M.(2006). Higher education pedagogies: A capabilities approach. Maidenhead: Open University
+Press.
+Wiggins, D. (1985). Claims of need. In T. Honderich (Ed.), Morality and objectivity. London: Routledge.
+World Declaration (1990). In ‘World declaration on education for all’ in World education forum, The Dakar
+framework for action. Paris: UNESCO.
+Wolpe, H. (1980).The articulation of modes of production. London: Routledge.
+Wolpe, H. (1990). Education and Social transformation: problems and dilerres: In E. Unterhalter, H. Wolpe
+& T. Botha (Eds.), Education in a future South Africa. London: Macmillan.
+Woodhall, M. (1973). The economic returns to investment in women’s education. Higher Education, 2(3),
+275–299.
+World Bank (1979). World development report. New York: Oxford University Press.
+

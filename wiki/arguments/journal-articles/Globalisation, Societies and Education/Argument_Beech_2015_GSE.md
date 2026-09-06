@@ -10,9 +10,9 @@ title: "Argument_Beech_2015_GSE"
 argument_key: "Argument_Beech_2015_GSE"
 argument_display_title: "Interpreting the circulation of educational discourse across space: searching for new vocabularies"
 argument_kind: "journal-article"
-argument_related_count: 29
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 30
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: Globalisation, Societies and Education
 citation: "Beech, J., & Artopoulos, A. (2015). Interpreting the circulation of educational discourse across space: searching for new vocabularies. Globalisation, Societies and Education, 14(1), 1-18."
@@ -45,6 +45,7 @@ related_methods:
   - "[[Ethnography]]"
 related_persons:
   - "[[Gita Steiner-Khamsi]]"
+  - "[[Horace Mann]]"
   - "[[Doreen Massey]]"
   - "[[Stephen Ball]]"
   - "[[Fazal Rizvi]]"
@@ -102,7 +103,7 @@ citation_aliases:
 > [!example] [[Normal School|师范学校]]的流通轨迹
 > 师范学校作为培训小学教师的机构，18 世纪起源于欧洲。「师范」（normal）一词最早在普鲁士使用，后传入瑞士和法国(Larsen, 2011)。师范学校对旅行者和改革者极具吸引力，他们前往这些国家寻找可模仿的模型。由此，师范学校被「转移」到加拿大、美国、墨西哥、阿根廷、哥伦比亚、智利、巴西、芬兰、日本、中国、台湾、菲律宾、新西兰等地。
 >
-> 以阿根廷为例，通常认为阿根廷复制（或转移）了法国师范学校作为教师培训模型(Alliaud, 1993)。然而实际过程远为复杂。萨米恩托（Sarmiento）是阿根廷政治家和知识分子，被视为阿根廷教育体系的奠基人。1842 年流亡期间，他在智利创立并主持了该国第一所师范学校。三年后受智利政府派遣考察欧美教育体系，深受马萨诸塞州霍勒斯·曼（Horace Mann）的工作吸引，与之建立了密切关系(Velleman, 2001)。1869 年萨米恩托担任阿根廷总统后，在巴拉那市（Paraná）以波士顿模型为基础创立了阿根廷第一所师范学校。
+> 以阿根廷为例，通常认为阿根廷复制（或转移）了法国师范学校作为教师培训模型(Alliaud, 1993)。然而实际过程远为复杂。萨米恩托（Sarmiento）是阿根廷政治家和知识分子，被视为阿根廷教育体系的奠基人。1842 年流亡期间，他在智利创立并主持了该国第一所师范学校。三年后受智利政府派遣考察欧美教育体系，深受马萨诸塞州[[Horace Mann|霍勒斯·曼]]（Horace Mann）的工作吸引，与之建立了密切关系(Velleman, 2001)。1869 年萨米恩托担任阿根廷总统后，在巴拉那市（Paraná）以波士顿模型为基础创立了阿根廷第一所师范学校。
 >
 > > 巴拉那师范学校是移植到南美荒野的波士顿学校……我们的学校是北美的，因为它的校长、学监、家具设备、从英文翻译的书籍、军装和学校战术以及程序和学说。（引自 Alliaud, 1993）
 >

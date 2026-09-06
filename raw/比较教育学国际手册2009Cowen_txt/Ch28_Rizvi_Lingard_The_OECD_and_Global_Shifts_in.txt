@@ -1,0 +1,709 @@
+================================================================================
+Chapter 28: The OECD and Global Shifts in Education Policy
+Author(s): Fazal Rizvi and Bob Lingard
+Handbook: International Handbook of Comparative Education (2009)
+Editors: Robert Cowen and Andreas M. Kazamias (Section Editor: Elaine Unterhalter)
+Section: Section 3: The National, The International, and The Global
+Book Pages: pp. 437–453
+PDF Pages: pp. 446–462 (in raw/比较教育学国际手册2009Cowen.pdf)
+================================================================================
+
+--- [PDF Page 446 / Book Page 437] ---
+
+28
+THE OECD AND GLOBAL SHIFTS
+IN EDUCATION POLICY
+Fazal Rizvi and Bob Lingard
+
+Introduction
+In 1994, the Organization for Economic Cooperation and Development (OECD)
+published an important account of its work on education. The author of this account
+was none other than George Papadopoulos, the highly regarded deputy director responsible for education in the then Directorate for Social Affairs. Although celebratory in
+tone, Papadopoulos closely examined the planning and implementation of the organization’s educational activities between 1960 and 1990, situating them within the context of the OECD’s broader interest in economic policies. He suggested that this period
+was characterized by much debate and various shifts in policy focus. In the 1960s, for
+example, quality in education and human resource development were the major issues,
+replaced in the 1970s with concerns of equality of educational opportunity and the
+democratization of education (Papadopoulos, 1994: 202).
+At the end of 1980s, however, Papadopoulos sensed further changes occurring
+within the OECD, with educational policy again becoming more closely aligned
+to economic imperatives. He noted that: the exponential growth of knowledge and
+rapid technological change; economic restructuring and changes in labor markets;
+changing attitudes to the role of the state in initiating and funding public policy; the
+emergence of new concerns about social equity and cohesion; and a market-driven
+and consumption-oriented society and the growing political, economic, and cultural
+interdependence of countries inevitably demanded some shifts in the OECD’s policy
+work in education.
+Little did Papadopoulos realize in 1994, however, how extensive and profound these
+shifts were likely to become, both in relation to reshaping the context within which the
+OECD works and to the ways in which the OECD would interpret and respond to this
+context. The issue of “globalization,” for example, does not feature in Papadopoulos’
+analysis; and “a new humanism” he regards as an integral part of contemporary culture does not even appear on the organization’s current agenda. Although the concepts that were central to the OECD’s educational work during 1960–1990, such as
+educational equality and social cohesion, have not been abandoned, they have been
+thoroughly rearticulated, given new meaning, becoming instruments of economic policy associated with a new vocabulary of the knowledge economy. And although the
+OECD remains concerned with issues of educational reform, accountability and social
+437
+R. Cowen and A. M. Kazamias (eds.), International Handbook of Comparative Education, 437–453.
+© Springer Science + Business Media B.V. 2009
+
+--- [PDF Page 447 / Book Page 438] ---
+
+438 Rizvi and Lingard
+
+efficiency, it no longer treats them as matters of philosophical debate, but as issues to
+which it can apply its growing technical expertise.
+Significantly, also, the OECD’s work has now become embedded within a new multilateral system constituted by various international policy networks, involving not
+only its member countries but others as well.
+In this chapter, we seek to do two things: to understand how the contemporary processes of globalization have affected the OECD’s policy work in education, how, in turn,
+the OECD has ideologically named these processes, and has sought to steer its members
+and non-members alike towards its preferred conception of education, through both a new
+ideological vocabulary of reform, which, following Taylor (2004) we refer to as a “social
+imaginary,” and its growing technical expertise in monitoring educational performance.
+
+A Historical Background
+Established in 1961 out of the Organization for European Economic Cooperation (OEEC)
+funded under the Marshall Plan for the economic reconstruction of Europe, the OECD
+has variously and simultaneously been described as a think tank, a geographic entity, an
+organizational structure, a policy-making forum, a network of policy-makers, researchers
+and consultants, and a sphere of influence (Henry et al., 2001: 1). In formal terms, the
+OECD views itself as an intergovernmental organization of some 30 of the world’s most
+developed countries, which produce two thirds of the world’s goods and services, and
+which are committed to the principles of a market economy and a pluralistic democracy
+(OECD, 1997). Article 1 of the OECD’s convention requires its members to promote
+policies designed to develop the world economy and trade on a multilateral and nondiscriminatory basis.
+Although primarily an economic organization, the OECD has, since its inception,
+emphasized the role education must play in both economic and social development.
+Within the organization however, there has been much debate about the ways in which
+economic and educational policies might be related. In the 1970s and 1980s in particular, the European countries sought to “tone down” the dominant US versions of market
+liberalism, with their own distinctive social-democratic agendas, refusing to view education and social policies as secondary to, or instruments of, economic policies. Haas
+(1990: 159) has suggested that the OECD could best be viewed as “a rather incoherent
+compromise between the United States and the European members,” especially with
+respect to the role education plays in the total polity.
+Indeed, as Papadopoulos (1994: 11) points out, in the OECD’s original charter there was no independent structural location for education, though there was
+always an “inferred role,” derived from early human capital formulations of links
+between economic productivity and educational investment, then conceived somewhat narrowly in terms of boosting scientific and technological personnel capacity
+and, by extension, of improved and expanded science and mathematics education
+in schools. Hence, education-related activities were initially carried out under the
+rubric of the Office for Scientific and Technical Personnel, which in turn grew
+out of the former OEEC’s pivotal work in mapping the technological gap between
+
+--- [PDF Page 448 / Book Page 439] ---
+
+The OECD and Global Shifts in Education Policy 439
+
+Europe and North America, against the backdrop of the geopolitical issues relating
+to the Cold War.
+It was not until 1968 that the Centre for Research and Innovation (CERI) was established within the OECD, partly as a result of a growing recognition within the organization of the “qualitative” aspects of economic growth – “as an instrument for creating
+better conditions of life” – and, along with that, a more comprehensive view of education’s multiple purposes. By 1970, the organization recognized a fuller range of objectives of education – a less “economistic” view of education policy, as Papadopoulos
+(1994: 122) puts it, enabling it to attach equal importance to education’s social and
+cultural purposes. For most of the 1970s and 1980s then the dominance of economic
+concerns within the OECD was tempered by the recognition of the social dimensions
+and purposes of economic growth and development.
+This was clearly evident in the educational work the OECD pursued, organized
+under four programs: two of them emerging from the Education Committee and
+CERI’s Governing Board, with the other two being the more specialist Programmes
+of Educational Buildings (PEB) and Institutional Management in Higher Education
+(IMHE). An illustrative list of the projects sponsored by the organization during the
+1970s and 1980s includes analyses of: school pedagogy and curriculum, educational
+disadvantage, multicultural education, education of girls, linguistic diversity, alternative education, early childhood education, links between school and work, school–community relations, youth employment, youth at risk, people with disabilities, teacher
+education, educational and performance indicators, the economics of education, educational technology, recurrent education and lifelong learning, and adult literacy.
+These themes were largely supportive of national agendas, brought to the OECD
+by the member countries. They pointed to the OECD’s consensual approach
+to decision-making in which nation-states retained a great deal of autonomy in
+defining the ways they wished to use the resources of the organization, in both
+thematic and national reviews. These reviews indicated the OECD to be a broad
+ideological church respectful of the diversity of ideological positions. According to
+Papadopoulos (1994), to view OECD as a homogeneous unit with a narrow, static
+agenda is to fail to capture its educational reach, the contestations within its various
+forums and the ideological layers that underpin its charter aimed at both economic
+and social development.
+This is not to deny the existence of deep ideological tensions within the OECD.
+Any analysis of the debates until the mid-1990s both within the organization’s committees and its secretariat reveals an ideological cleavage between social-democratic
+and neoliberal policy stances. These tensions however were resolved in the way the
+OECD worked: without any prescriptive mandate it operated through processes that
+involved its “traditions of transparency: of providing explanations and justifications
+for policy, and of engaging in critical self-appraisal” (OECD 1998). As Martens et
+al. (2004: 15) point out, the OECD does not have any legally binding mandate over
+its members; nor does it have the financial resources at its disposal to encourage
+policy adoption. It thus seeks to exert influence through the processes of “mutual
+examination by governments, multilateral surveillance and peer pressure to conform
+or reform.”
+
+--- [PDF Page 449 / Book Page 440] ---
+
+440 Rizvi and Lingard
+
+Recent Transformations
+Papadopoulos provides a convincing historical account of how, until the early 1990s,
+the OECD’s educational work can usefully be characterized as involving a struggle
+between its concerns for promoting economic efficiency and growth, on the one hand,
+and education’s broader social purposes, on the other. Since the mid-1990s, however,
+this tension, we want to argue, is no longer so evident, as education is once again
+increasingly viewed in instrumental terms, as a handmaiden to the organization’s primary interest in economic matters. With a greater focus on the changed context in
+which education now works and armed with a new discourse of globalization and the
+knowledge economy, the economic efficiency perspective now dominates the OECD’s
+educational work, which is increasingly more technical and data-driven, and which
+have replaced the earlier normative debates about the multiple purposes of education.
+Equally, the way the OECD works and the manner in which it relates to its members
+have changed. Indeed, this much is explicitly acknowledged by the organization in
+suggesting that:
+OECD has evolved greatly in the globalising world economy. It has been ‘globalising’ itself, notably through new Members and dialogue activities. . . . Further,
+analysing the many facets of the process of globalization, and their policy implications, has become the central theme in OECD’s work, as the challenges and
+opportunities of globalization have become a high priority of policy-makers in
+OECD countries. (OECD, 1996a: 15)
+The OECD now asserts – perhaps accurately – that “a broad consensus exists on many
+aspects of the policy requirement for a globalizing world economy.” In this way, the
+OECD has made considerable use of the idea of globalization in both redefining its
+policy program and in reconceptualizing its relationship to member countries, often
+prescribing the manner in which they should interpret and respond to the pressures of
+globalization, and take the opportunities offered by the global economy.
+However, in articulating the logic of globalization in this manner, the OECD appears
+to “reify” the economic relations it regards as “globalizing,” treating them as if they
+were self-evident and inevitable. This has the effect of masking some of the normative assumptions underlying its conception of globalization, treating them as if they
+were beyond political debate. Yet, globalization is a highly contested term that refers
+to a whole range of social processes. Indeed, it is possible to interpret globalization
+in a number of contrasting ways (Held & McGrew, 2005). The OECD’s perspective
+on “globalization” seems to accord market relations conceptual primacy, referring to
+a set of social processes that imply inexorable integration of markets, nation-states,
+and technologies. It correctly associates globalization with technological revolutions in
+transport, communication, and data processing, but explores only their economic implications, and not the cultural transformations to which they have also given rise.
+And in so far as the OECD considers the political aspects of the global economy,
+characterized as informational, networked, knowledge-based, postindustrial, and
+service-oriented, it suggests a radically revised view of the roles and responsibilities
+
+--- [PDF Page 450 / Book Page 441] ---
+
+The OECD and Global Shifts in Education Policy 441
+
+of the state (OECD, 1995). It assumes that the old centralized bureaucratic state structures were too slow and sclerotic and “out of sync” with the emergent needs of transnational capital. It therefore calls for a minimalist state, with a greater reliance on
+the market. It argues for new devolved forms of governance that are more compatible
+with the so-called demands of the global economy. It recognizes increasing levels of
+cultural interactions across national and ethnic communities, but views this as both
+an opportunity and a challenge to the social cohesion necessary for economic growth
+and development.
+A problem with this account is that it views globalization in terms of an objective
+inexorable set of social processes. This focus on description however overlooks the
+fact that globalization is also a subjective phenomena, which involves actual human
+agents interpreting the conditions of interconnectivity. Nor does it permit the possibility that it may be a deliberate, ideological project of economic liberalization that
+directs people towards more intense market forces (see Bourdieu, 2003); and that it
+is based on a politics of meaning that seeks to steer them towards a certain taken-forgrantedness about the ways in which the global economy operates and the manner in
+which culture, crises, resources, and power formations are filtered through its universal
+logic. It thus “ontologizes” the processes it describes, seeking to create subjects who
+view policy options through the conceptual prism of an assumed logic. As Schrato and
+Webb (2003: 1) point out, represented in these terms, “globalization” designates certain power relations, practices, and technologies, playing a “hegemonic role in organizing and decoding the meaning of the world.”
+Given this representation, the OECD no longer seems to entertain broader philosophical debates about the purposes of education, but locates them instead within its
+presumed normative commitment to globalization’s ideological forms, articulated in
+terms of a neoliberal logic of markets. This depoliticization of educational issues leads
+the organization to reconceptualize its policy work in mostly technical terms, concerned with questions of how best to understand the so-called imperatives of globalization; how education can be a more efficient instrument of economic development;
+how greater accountability of educational systems can be ensured; and how education
+should develop social subjects who view the world as an interconnected space in which
+informational networks play a crucial role in sustaining market activity.
+Indeed, within this neoliberal economic logic, the OECD now accords greater
+importance to education than ever before. So much so that in 2002, it established a
+separate Directorate for Education, something it had resisted for most of its history
+(Papadopoulos, 1994). In establishing the Directorate, the secretary-general of the
+OECD (2004) stressed that “Education is a priority for OECD Member countries and
+the OECD is playing an increasingly important role in this field. Society’s most important investment is in the education of its people.” This observation is clearly based on
+the OECD’s interpretation of the requirements of the global economy, in which knowledge is assumed to be a key ingredient and in which innovation and commercialization
+of knowledge are considered major drivers of economic development.
+Given these normative convictions, it is not surprising then that much of educational
+policy deliberations at the OECD are concerned with technical issues, as is evident
+in its work program for 2005–2006, which suggests that internationally comparable
+
+--- [PDF Page 451 / Book Page 442] ---
+
+442 Rizvi and Lingard
+
+statistics and indicators must underpin much of the educational work of the OECD, and
+that the ultimate outputs of its policy recommendations must be designed to increase
+both the quality and equity of education systems. Listed as major concerns are issues
+of equity in access and outcomes, quality, choice, public and private financing, and
+individual and social returns to investment in learning. Underpinning this list is the
+conviction that education is a major factor in contributing to human capital formation and economic growth, and that policy research in education should therefore be
+directed to this end.
+
+Changing Modes of Working
+With this conviction firmly in place, the OECD’s mode of working has undergone substantial shifts. According to Papadopolous (1994: 14), the OECD’s general approach
+to education between 1960 and 1990 was based on international cooperation, which
+involved its education committee to identify problems on which such cooperation was
+felt to be useful. Country educational policy reviews were conducted on a voluntary
+basis, and followed “a sui generis’ pattern in terms of their methods of investigation,
+coverage and periodicity.” The Secretariat in turn brought to the education committee
+newly emerging policy concerns, around which it was authorized to conduct thematic
+reviews. And although these reviews made recommendations, there was no mechanism for ensuring that they were implemented, beyond encouragement and advice.
+In more recent years, however, while the OECD has retained this general rhetoric
+of international cooperation, the balance between the political work of the education
+committee and the technical tasks performed by the secretariat has shifted. With a
+greater agreement over the organization’s ideological position, the debates within the
+committee are no longer as intense, and are replaced by the setting of work priorities and a consideration of the administrative issues of coordination and monitoring.
+The OECD now devotes more resources to the collection of comparative performance
+data in education than it has ever done before. Equally, the country reports no longer
+occupy the centre stage; and it is around the performance data that the organization
+explores issues of educational equity and outcomes. The notions of multilateral surveillance and peer pressure have always existed within the OECD, as we have already
+noted, but in the current context, the organization insists that the effectiveness of policies requires mutual adaptation and that the “peer pressure” system is essential for
+countries to become more transparent, to accept explanations and justification, and to
+become self-critical (OECD, 1998: 2).
+The OECD has traditionally viewed itself as a unique forum, which enables its members to examine and formulate their distinctive policies in both economic and social
+spheres. However, in recent years, its outreach and impact have become greatly extended,
+through its work with ‘non-member economies’ and through the global recognition
+of the technical expertise it has acquired in comparative performance assessment. Its
+Directorate for Education, for example, has developed a Unit for Cooperation with Nonmember Economies (NME), the terminology used by the OECD to refer to non-member
+countries. The Directorate’s interest in NMEs is based on the view that in the context of
+
+--- [PDF Page 452 / Book Page 443] ---
+
+The OECD and Global Shifts in Education Policy 443
+
+a global integration of economic activity, it is no longer possible to understand the economic competitiveness of its own members without focusing also on comparative issues,
+and monitoring the challenges posed to them by transitional economies, especially those
+that are now achieving higher levels of growth.
+Of particular interest to the OECD then are the transitional and fast developing
+economies of China and India. Its Global Relations program is based on its realization that in a globally integrated economy, an understanding of and strategic cooperation with these economies is vital for the sustainability of the economies of its own
+members. It therefore conducts a wide range of policy dialogue and capacity building activities not only with China and India but also with other NMEs. Through its
+Country Programmes, Regional Approaches and Global Forums and the like, it shares
+best policy practices with them on matters that bear on OECD’s policy debate. It holds
+regular global forums on such policy themes as the knowledge economy, governance,
+international investment, competition, agriculture and education, but on an assumption
+that ‘the OECD has progressively evolved from the traditional concept of ‘outreach’
+in its relations with the rest of the world to a two-way flow where giving access to
+and participation in core OECD work and processes is as important as disseminating
+OECD’s best practices’ (OECD, 2007: 4). Ultimately, the OECD insists that its global
+relations program is based on its desire to contribute to the harmonious functioning of
+the global economy, to promote shared prosperity and to encourage shared knowledge
+for better public policy.
+The OECD’s perspective on globalization has also led it to develop formal links with
+a number of other international organizations, with the expressed purpose of helping
+bring the OECD’s institutional and policy expertise and technical know how to NMEs.
+It has therefore worked, for example, with the World Bank and UNESCO on the development of a World Education Indicators (WEI) project. WEI is a joint initiative of these
+organizations designed to provide a set of comparative educational data about transitional economies. The OECD’s role in the project has been to provide technical advice
+based on its long history of work with performance indicators. But as Rutkowski (2007)
+points out, this role is grounded in the OECD’s neoliberal precepts, and it is difficult to
+separate the OECD’s technical expertise from its normative assumptions about the role
+education must play in the development of the global economy.
+These normative assumptions now constitute a global ideology that both informs the
+OECD’s policy work in education and have become central to its multilateral relations
+with NMEs and international organizations alike. This has of course happened within a
+broader context of the changes in the ways in which nation-states now relate to and work
+with each other. The traditional conception of the nation-state as a fundamental unit of
+world order, a unitary phenomenon characterized by its relative homogeneity with a set
+of singular purposes, has been replaced by a fragmented policy arena, permeated by
+transnational networks as well as domestic agencies and forces. As Held & McGrew
+(2005: 11) argue, ‘the contemporary era has witnessed layers of governance spreading
+within and across political boundaries’, transforming state sovereignty into a shared
+exercise of power. With the emergence of new patterns of political interconnectedness,
+‘the scope of policy choices available to individual governments and the effectiveness
+of many traditional policy instruments tends to decline’ (p. 13).
+
+--- [PDF Page 453 / Book Page 444] ---
+
+444 Rizvi and Lingard
+
+However, this multilateral cooperation does not occur in a politically neutral space,
+but in a space that is characterized by asymmetrical relations of power. The flows of
+information and policy ideas are skewed towards the most powerful countries and their
+political interests. However, as facilitators of information flows and policy dialogue,
+international organizations have acquired greater power and influence than ever before.
+In the past the OECD viewed itself a forum for open dialogue with its members, but it
+is now clear that it has increasingly become a policy actor in its own right (Henry et al.,
+2001). Both through the construction of its agenda for policy dialogue and its technical statistical work, it displays a marked preference for certain policy priorities. This
+preference is now carried over into its multilateral work. This much is evident in the
+ways in which the OECD has promoted a new social imaginary around the discourse
+of the knowledge economy.
+
+A Social Imaginary of the Knowledge Economy
+In recent years, scholars such as Taylor (2004) and Appadurai (2000) have used the notion
+of ‘social imaginary’ to show how ideologies are promoted through social imaginaries, in
+ways that make them appear self-evident and natural. A ‘social imaginary’ (Taylor, 2004)
+represents a discourse, or a set of overlapping discourses, that is at once descriptive and
+prescriptive of conceptions of how practice is best organized around policy, is directed
+towards certain outcomes and is organized around a set of norms. For Taylor, the idea of
+social imaginary involves a complex, unstructured and contingent mix of the empirical
+and the affective – not a ‘fully articulated understanding of our whole situation within
+which particular features of our world become evident’ (Taylor, 2004: 21).
+Importantly however a social imaginary is not simply inherited and already determined for us, it is rather something that is in a constant state of flux. It is through the
+collective sense of imagination that discourses and institutional practices are created,
+and are given coherence, and acquire the character of a taken-for-granted commonsense.
+Appadurai (1996) has analysed the role of social imaginary in the formation of subjectivities within the globalizing context in which we now live, a context that is characterized by diffusion of social images, ideas and ideologies across communities around the
+world. This diffusion is facilitated by electronic media, mass migration and the mobility
+of capital and labour.
+Within such a context, international organizations play an important role, in directing people away from the dominant national narratives to shared transnational imaginaries, through the global distribution of particular policy ideas and ideologies that
+link ‘states together and transformed sovereignty into the shared exercise of power’
+(Held & McGrew, 2005: 11). In this way, as Bourdieu (2003) has pointed out, there
+is a slide from the descriptive usage of globalization to a normative or performative
+one that elides the politics of meaning surrounding concepts such as the ‘knowledge
+economy’. As Kenway et al. (2006: 4) point out, “the contemporary policy discourse of
+knowledge economy, with its interlaced ideas about knowledge, information, learning,
+economy, and society, has become so influential that it has assumed the status of truth,
+dominating policy lexicon and excluding alternative economies –even denying that
+
+--- [PDF Page 454 / Book Page 445] ---
+
+The OECD and Global Shifts in Education Policy 445
+
+they exist”. A social imaginary that becomes hegemonic makes it difficult to imagine
+its alternatives.
+No other organization has been as globally influential in promoting the social imaginary of the knowledge economy as the OECD. This imaginary suggests that education
+is central to human capital formation for the development of national economies in the
+face of international competition and global pressures. Within an increasingly global
+economy, knowledge is assumed to be an intrinsic component of economic production and activity. The OECD has been centrally important in articulating and spreading this policy talk about the knowledge economy and the role education, innovation
+and research must play in it. Indeed, its document, The Knowledge Based Economy
+published in 1996 set the tone for the ways in which the knowledge economy is now
+described. Other international organizations such as the World Bank, UNESCO and
+the European Union followed its suit, as did many national governments, liberally
+using the concepts associated with the discourse of knowledge economy to develop
+their own policy recommendations.
+The discourse of knowledge economy fuses various ideas about knowledge, information, learning, the economy and society into a single imaginary. Its claims to authority
+reside both in recent developments in the supposed facts of globalization and in recent
+economic theory, particularly new growth theory. According to new growth theorists
+such as Romer (1986) and Howitt (2000), in the era of globalization, economic growth
+is driven largely by technological progress or innovation that involves converting
+existing knowledge and human capital into new and improved knowledge products.
+In contrast to earlier economic theories, the new growth theory regards knowledge as
+endogenous to economic activity, requiring improvements in the ways in which knowledge workers and resources are used. It puts knowledge at the centre of economic
+policies, and makes investment in knowledge producing sectors such as research and
+education central to policy interventions.
+Human capital development thus becomes a key to economic growth and competitiveness. As OECD (1996c) argues, “governments will need more stress on upgrading
+human capital through promoting access to a range of skills, and especially the capacity to learn.” It suggests that the knowledge economy requires a larger proportion of
+workers to be prepared for highly skilled jobs, workers who have competencies to
+use new technologies effectively and favorable cultural attitudes towards change and
+innovation. In a rapidly changing world, these competencies include certain behavioral
+traits such as adaptability, organizational loyalty, and integrity; the skills of communication, information processing and problem-solving; the ability to work independently
+and under pressure, take responsibility for decisions and work in culturally diverse
+contexts, to seize upon the commercial potential of knowledge and to be able to work
+in teams and provide leadership.
+In the knowledge economy, knowing about facts and theories is less important than
+an understanding of the world of social relations and the networks through which
+knowledge is converted into innovation and commercially viable products. This is
+considered more important than formal, codified, structured, and explicit knowledge.
+Against these assumptions, it is suggested by new growth theorists, such as Foray and
+Lundvall (1996), that a nation’s capacity to take advantage of the knowledge economy
+
+--- [PDF Page 455 / Book Page 446] ---
+
+446 Rizvi and Lingard
+
+depends on how quickly it can become a ‘learning economy’. Learning, Foray and
+Lundvall argue, should not only involve the ability to use new technologies to access
+global knowledge, but should also mean using technology to communicate with other
+people about how to improve productivity. This implies that individuals, corporations,
+and nations create wealth in proportion to their capacity to learn and share innovation.
+If this is so then learning must be continuous and not restricted to formal schooling
+– that is, it must be lifelong learning.
+Together these ideas constitute a new social imaginary, now vigorously promoted
+by the OECD, shifting the focus of learning from “knowing that” to “knowing how,”
+giving rise to new conceptions of the ways in which learning is defined, arranged,
+valued, and utilized in largely market terms. It represents an almost universal deepening of a shift from social-democratic to neoliberal orientations, in which economic
+goals of education are given priority over its social and cultural purposes. When represented as having a solid, almost incontestable, intellectual foundation, it does not
+permit alternative questions of value to be raised. As Kenway et al. (2006: 2) point out
+the discourse of knowledge economy does not question the values it promotes. They
+argue, moreover, that the “knowledge economy is haunted by the spectres of alternative economies,” because it does not examine how it privileges certain values over others, taking for granted its priorities, exclusions, contradictions, and blind spots.
+In its popular form, the social imaginary of the knowledge economy imagines all
+human behavior to be based on the economic self-interest of individuals operating
+within free competitive markets. It assumes economic growth and competitive advantage to be a direct outcome of the levels of investment in developing human capital.
+It suggests that in a global economy, performance is increasingly linked to people’s
+knowledge stock, skills level, learning capabilities, and cultural adaptability. It therefore demands policy interventions that enhance labor flexibility not only through
+the deregulation of the market but also through reform to systems of education and
+training, designed to align them to the changing nature of economic activity. And
+it suggests a society in which economic concerns shape not only subjectivities and
+social relations but also governance structures. It encourages greater demands for
+accountability, surveillance, as well modes of policy coordination based on measurements of comparative performance, to provide information about the levels of global
+competitiveness.
+
+The Rise and Rise of PISA
+It is within the broader context of this social imaginary of knowledge economy that the
+enormous success of the OECD’s Programme for International Student Assessment
+(PISA) can be understood. PISA is based on a fundamental assumption that the international competitiveness of national economies is based on “the quality of national
+education and training systems judged according to international standards” (Brown
+et al., 1997, pp. 7–8). The OECD has been enormously successful in representing PISA
+as the most accurate and legitimate measure of comparative performance. Indeed, it
+has built a new policy niche for itself amongst international organizations for its
+
+--- [PDF Page 456 / Book Page 447] ---
+
+The OECD and Global Shifts in Education Policy 447
+
+unmatched technical expertise in educational performance assessment. Published in
+it annual publication, Education at a Glance: OECD Indicators and in other reports,
+PISA demonstrates the important role that OECD now plays as a policy actor and
+mediator of knowledge (Henry et al., 2001), with an increasing capacity to shape policy priorities in education not only among its member nations but others as well.
+As we have already noted, for example, UNESCO and the World Bank have drawn
+heavily on the OECD’s expertise in developing the World Education Indicators for the
+education systems of the transitional economies. The OECD has also worked closely
+with the Commission of the EU in developing technical infrastructure for the collection and analysis of data of various kinds, including indicators, and has provided
+technical advice to numerous national systems. In this way, it has become a major
+international source of technical expertise in educational statistics. This expertise however privileges what might be referred to as “a number approach” to policy work,
+which sidelines the broader philosophical discussions of educational purpose, focussing instead on an input/output systems; attempting to offer policy insights about the
+efficiency and effectiveness of national educational systems.
+In pursuing this technical approach to policy research, the OECD has been singularly
+successful in not only shifting the goals of the education towards the social imaginary
+of knowledge economy, but it has also been able to promote a particular notion of “good
+governance” in education, a phrase that masks an underlying shift in educational ideology. Located within the ideas of the new public management (OECD, 1995), which
+attaches a great deal of important to the mechanisms of “steering at a distance” through
+comparative performance measures, the OECD has effectively shifted the focus of the
+educational governance from questions of purpose to such issues concerning transparency of decision-making processes, forms of devolution, technologies of measuring
+educational performance, international benchmarking, mechanisms of quality assurance, appropriate accountability regimes, sources of educational funding, effective uses
+of public resources, and so on. Even this short list shows how most of these issues relate
+to economic efficiency, defined mostly in terms of the extent to which educational systems are responsive to the labor market needs of the global economy.
+Around the world, the effectiveness of educational systems is now increasingly measured against the performance data provided by PISA. Its results are taken very seriously
+by participating nations as a measure of the effectiveness of their education systems
+and the quality of their human capital, currently and potentially. Witness, for example,
+the apparent education policy panic in Germany following their poor results in the first
+PISA of 2000. The outstanding performance of Finnish students on all measures on all
+PISA testing to date has, on the other hand, made Finland something of a laboratory for
+educators looking to improve their systems. In each case, the categories around which
+the PISA is constructed have seldom been the subject of political debate, as comparative performance and relative rankings have assumed centre stage.
+PISA was developed in the 1990s and was based on the 1999 OECD report,
+Measuring Student Knowledge and Skills – A New Framework for Assessment. It is
+conducted every 3 years to examine the applied knowledge and skills of students at
+the end of compulsory schooling at age 15 years. PISA tests the capacities of students
+near the end of compulsory schooling in the use of their knowledge and skills to meet
+
+--- [PDF Page 457 / Book Page 448] ---
+
+448 Rizvi and Lingard
+
+real-life challenges. Thus its tests are not curricula based; rather they are constructed
+in a purpose-built way by a contracted consortium of expert agencies with the support
+of technical advisory committees. A lot of sophisticated test development is done to
+ensure as far as possible culture fair testing and accurate translation. In this way, PISA
+creates its own data rather than drawing national data into a space of international
+comparison. PISA regards as crucially important its claim to comparability and a commensurate space of international comparison – a space of uniform measurement, or
+what Desrosieres (1998) refers to as a “space of equivalence.”
+Within national frameworks; there was always greater concern about the creation of
+this national commensurable space than about construct validity, more about issues of
+reliability and comparison than ontology. The same is the case with PISA. It claims
+to have created a global commensurable space of measurement of the effectiveness
+of schooling systems in terms of the capacities of students at the end of compulsory
+schooling in the “application of knowledge to real-life challenges.” Its architects suggest that PISA is constructed in a policy relevant way and is concerned to ascertain the
+dispositions of students at the end of compulsory schooling for lifelong learning. As
+such, while there might still be some technical debates about the nature of the tests,
+most of the national and international media and political responses to PISA results are
+about the league tables of performance and comparative national positioning. In this
+way, the technical is privileged over the political, and the popular social imaginary of
+the knowledge economy is sustained. As Rose (1999) has argued, policy as numbers
+tends to do this – the power of numbers is such that they “render invisible and hence
+incontestable – the complex array of judgements and decisions that go into a measurement, a scale, a number” (Rose, 1999: 208). Arguably then PISA’s rise and rise would
+not have been possible without the social imaginary of knowledge economy complementing its central claims.
+
+Rearticulating the Social
+While PISA deals mostly with literacy, mathematics, science, and problem-solving
+(only in 2003), it also requires students to complete a questionnaire about themselves
+on their backgrounds, study habits, while background data on the school in terms
+of resourcing, size and the organization of the curriculum are also collected. This
+allows for the generation of some very policy-useful correlational data between variables such as socioeconomic background and performance, which has helped reignite
+equity debates both within the OECD members and elsewhere. However, as Berliner
+(2007) points out, the PISA’s technical focus means that its own analysis of equity
+matters is located within a very narrow definition of equity in education, as formal
+access to educational institutions. It eschews the broader political issues about educational justice, both within and across nations.
+This is broadly symptomatic of the OECD’s general approach to educational policies. Indeed, while it would be wrong to assume that the organization is not interested
+in social and ethical issues relevant to education, it is equally true that, given its
+social imaginary of the knowledge economy, it views these issues within the broader
+
+--- [PDF Page 458 / Book Page 449] ---
+
+The OECD and Global Shifts in Education Policy 449
+
+framework of education’s economic ends. In this way, its exploration of such issues
+rests on what George Soros (1998) has called “economic fundamentalism,” a kind of
+conceptual prism through which even such moral notions as equality are considered,
+with their meaning rearticulated. Equality, for example, is no longer interpreted as an
+intrinsic moral end as such, but is linked to the instrumental purposes of human capital development and economic self-maximization. So while the OECD continues to
+utilize seemingly ethical concepts, this work is increasingly couched in terms of such
+notions as access, social capital, and social cohesion, rearticulated in a language that
+views them as necessary for participation in the knowledge economy.
+What such economic fundamentalism fails to do, however, is to recognize that
+access to education is a conceptually complicated matter and that a purely economic analysis of its character is never sufficient to realize the potential of education. So while a commitment to formal access to educational institutions is entirely
+consistent with the idea of economic efficiency, it is not enough to achieve social
+justice, more broadly conceptualized, concerned with the multiple and diverse ways
+in which human societies function. That this is so can perhaps be demonstrated
+by considering issues relating to the education of girls and boys. In recent years,
+organizations such as the OECD have repeatedly emphasized the importance of
+gender equity in education. And indeed much has been done to provide girls greater
+access to education; and the number of girls attending school has never been greater.
+In recent years, organizations such as the OECD have repeatedly emphasized the
+importance of gender equity in education. And indeed much has been done to provide girls greater access to education; and the number of girls attending school has
+never been greater; PISA results have been used to document the generally poorer
+performance of boys on literacy measures. The concern for girls has been about
+economic outcomes from schooling compared with boys in terms of income and
+career opportunities.
+However, the arguments presented for gender equity by the OECD reveal its preference for a social imaginary that is cast largely in terms of economic efficiency, and the
+requirements of the knowledge economy. According to the OECD (2006), “Investing
+in women (with respect to education, health, family planning, access to land, etc.) not
+only directly reduces poverty, but also leads to higher productivity and a more efficient
+use of resources.” Such an argument reduces concerns of gender equity to a purely
+economic logic, which is arguably sexist, since it views women as a means to certain
+economic ends, rather than as people who participate in education for a huge variety
+of reasons, some economic, others social and cultural.
+A stronger claim to gender equity in education, on the other hand, would address
+issues not only of their access to formal education but also of social outcomes of their
+education, as well as the broader cultural issues of gender relations. Here the picture
+is decidedly mixed. Recent data show that while girls are participating in education in
+larger numbers than ever before, the benefits of their education are not proportional
+to their effort. For example, in recent years, there have been many more opportunities for women to utilize their education in paid work. However, this work has been
+predominantly in the service economy of global information, global communication,
+global retailing, and global finance (Scholte, 2000: 251). Each of these areas has been
+
+--- [PDF Page 459 / Book Page 450] ---
+
+450 Rizvi and Lingard
+
+characterized by “flexible” labor conditions and poorer career prospects, perpetuating
+and sometimes deepening gender hierarchies.
+What this analysis indicates is that gender equity beyond access requires a radical
+overhaul of the educational and social processes that perpetuate gender inequalities.
+This aspiration is clearly informed by a broader purpose of education than that suggested
+by the OECD’s social imaginary of the knowledge economy, which, while it demands
+better utilization of the human resources that women represent, does not seek the social
+transformation through which gender relations could be reconfigured. For such a transformation, there would clearly be a need to highlight not only access and social inclusion, but also the importance of rethinking the terms of this inclusion. It would envisage
+societies that have potentially been economically, politically, and socially transformed
+in gender terms. It would require changes not only to the ways education is administered but also to curriculum and pedagogy, especially in the context of globalization
+with its potential to reshape patterns of both economic and social relations.
+What is clear then is that the OECD’s interest in the social is largely driven by its
+commitment to the social imaginary of the knowledge economy. So, for example, its
+work on social cohesion is no longer promoted because it is morally worthwhile, but
+because it is necessary for economic sustainability and development. A similar logic
+is evident in the way the OECD has used the concept of social capital. Following
+Putnam (2000), the concept of social capital has received a good deal of attention
+within OECD circles in recent years. But, as Thomson (1999) suggests this interest
+stems from three impulses: a response to the dominant individualism underpinning the
+development of human capital for purposes of national competitiveness; a recognition
+that economic success requires a certain level of social cohesion, stability and trust;
+and a growing recognition that many people are decoupling economic success from
+sense of well-being.
+In this way, social capital appears as a policy for managing economic marginalization, social exclusion, and heightening levels of cultural differences within societies,
+to promote social cohesion considered necessary for economic activity. But such a
+view of social cohesion presupposes economic efficiency to be a primary value, within
+the framework of which social and educational policies are couched. This effectively
+residualizes social concepts such as equality and social cohesion, no longer treated
+in moral terms, or as necessary for cultural sustainability, but essential for economic
+productivity. Educational policy, couched in terms of these concepts, thus assumes
+education to be a strategic tool for the management of economic change. Social exclusion is interpreted as a matter of failure to engage with the knowledge economy, either
+through the lack of appropriate skills or disposition or through the lack of effective
+governance, and not as a broader issue of social and cultural formations.
+
+Conclusion
+In this chapter, we have argued that a fundamental tension has always existed within
+the OECD between two competing perspectives on educational policy. The first of
+these perspectives views education in terms of its multiple purposes, as an instrument
+
+--- [PDF Page 460 / Book Page 451] ---
+
+The OECD and Global Shifts in Education Policy 451
+
+of economic development but also a vehicle for promoting democratic equality and
+social mobility. This tension is accurately and insightfully described by Papadopoulos.
+For much of the period Papadopoulos worked at the OECD and discusses in his book,
+education was viewed in social-democratic terms, concerned with the development of
+democratic citizens, who could participate in their communities in a critically informed
+manner. Education was regarded as a public good, implying that maximum benefit
+could only be derived from education if every member of a community was educated
+equally to realize their full potential. The primary purpose of education was thus the
+creation of productive citizens. Economic outcomes of education were recognized, but
+were located within the framework of the broader role of education in the development
+of a socially cohesive democratic community.
+We have argued that in recent decades this perspective on education has gradually given way within the OECD to an alternative perspective that emphasizes
+instead the role of education in ensuring economic efficiency within an increasingly
+globalized market. This perspective requires education to play an instrumental role
+in producing workers able to contribute to the economic productivity of nations and
+corporations alike. Its focus is not only on the needs and development of individuals but also on the efficiency with which educational systems operate. The emphasis
+is on the system’s capacity to make an adequate return on investment, assessed in
+terms of its contribution in producing workers with knowledge, skills, and attitudes
+relevant to increasing productivity. In this way, education is viewed both as a public
+and a private good: public because it contributes to the economic development of a
+community; and private because it serves individual interests within a competitive
+labour market.
+The ascendancy of this perspective to on education within the OECD, we have suggested, has been associated with a new discourse of globalization and its implications
+for educational policy. The OECD has justified this shift in its orientation in its educational policy work in terms of the need to reflect the changing global realities. In
+the process globalization has been reified, treated as if it is inevitable, with its various
+forms self-evident. Not only has the OECD’s policy work been transformed in such
+terms the organization has also played an important role in globally promoting it.
+This has been done through the development of what we have called a social imaginary of the knowledge economy. Such an imaginary is based on the ideological belief
+that social and economic “progress” can only be achieved through systems of education more geared towards fulfilling the needs of the market in which knowledge has
+acquired greater importance than ever before.
+With the purposes of education so instrumentally defined, education has been allocated the primary task of producing workers who have a grounding in basic literacy
+and numeracy, who are flexible, creative, entrepreneurial, and multiskilled, who have
+good knowledge of new information and communication technologies, and who are
+able to work in culturally diverse environments. Issues of social policy relevant to education such as equity and social cohesion are still considered important by the OECD,
+but their meanings have now been rearticulated to a consideration of the social conditions necessary for the development of these attributes and for economic sustainability
+and development within the global knowledge economy.
+
+--- [PDF Page 461 / Book Page 452] ---
+
+452 Rizvi and Lingard
+
+This ideological shift has led the OECD to a radically different view of its policy work
+in education, now concerned less with debating philosophical issues about the purposes
+of education and the sociological conditions in which education can serve its various
+purposes, and more with the technical issues of performance management, exemplified
+most explicitly in its educational indicators project, PISA. Ultimately, the OECD, which,
+in the Papadopoulos period, represented a unique forum for its members to debate educational issues has now become a policy actor in its own right, which promotes, through
+its ideological and technical work, a particular view of education concerned more with
+economic efficiency than with issues of social and cultural formations.
+
+Note
+This paper extends the work of an Australian Research Council funded project (1995–
+1997) conducted by Miriam Henry, Sandra Taylor, Fazal Rizvi, and Bob Lingard, as
+well as a book derived from that study, The OECD, Globalisation and Education Policy
+(Henry et al., 2001). The section on PISA also draws upon the project “Fabricating
+Quality in European Education Systems” as part of an ESF Eurocores project, in which
+the UK element is funded by ESRC (RES-00-23–1385). Bob Lingard acknowledges
+the contribution of his colleague, Sotiria Grek.
+
+References
+Appadurai, A. (1996). Modernity at large. Minneapolis: University of Minnesota Press.
+Appadurai, A. (Ed.) (2000). Globalization. Durham, NC: Duke University Press.
+Berliner, D. (2007) Our impoverished view of educational reform. In A. R. Sadovnik (Ed.), Sociology of
+education: A critical reader (pp. 487–516). New York: Routledge.
+Bourdieu, P. (2003). Firing back against the tyranny of the market. London: Verso.
+Brown, P., Halsey, A. H., Lauder, H. & Stuart Wells, A. (1997). The transformation of education and society:
+An introduction. In A. H. Halsey, Lauder, H., Brown, P & A. Stuart Wells (Eds.), Education: Culture,
+economy and society. Oxford: Oxford University Press.
+CERI (2003a). Knowledge management: New challenges for educational research. Paris: OECD.
+CERI (2003b). Schooling for tomorrow –Networks of innovation. Paris: OECD.
+CERI (2004a). Innovation in the knowledge economy: Implications for education and learning. Paris:
+OECD.
+CERI (2004b). Measuring knowledge management in the business sector: First steps. Paris: OECD.
+Desrosieres, A. (1998). The politics of large numbers: A history of statistical reasoning. Cambridge: Harvard
+University Press.
+Foray, D. and Lundvall, B.A. (eds) 1996. Education and growth in the knowledge-based economy. Paris:
+OECD.
+Haas, E. (1990). When knowledge is power: Three models of change in international organizations. Berkeley:
+University of California Press.
+Held, D. & A. McGrew (Eds.) (2005). The Global transformation reader: An introduction to the globalization debate, 3rd ed. Cambridge: Polity Press.
+Henry, M., Lingard, B., Rizvi, F. & Taylor, S. (2001). The OECD, globalisation and education policy.
+Oxford: Pergamon.
+Howitt, P. (2000). Endogenous growth theory and cross-country income differences, American Economic
+Record, 90, 829–846.
+Kenway, J., Bullen, E., Fahey, J. & Robb, S. (2006). Haunting the knowledge economy. London: Routledge.
+Martens, K., Balzer, C., Sackmann, R. & Waymann, A (2004). Comparing governance of international
+organizations: The EU, The OECD and educational policy Breman: Unveristat Breman.
+
+--- [PDF Page 462 / Book Page 453] ---
+
+The OECD and Global Shifts in Education Policy 453
+OECD (1995). Governance in transition: Public management reforms in OECD countries. Paris: OECD.
+OECD (1996a). Globalisation and linkages to 2030: Challenges and opportunities for OECD countries.
+Paris: OECD.
+OECD (1996c). The knowledge based economy. Paris: OECD.
+OECD (1997). Education at a glance: OECD indicators. Paris: OECD.
+OECD (1998). Annual Report 1997. Paris: OECD.
+OECD (2004). OECD work on education. Paris: OECD.
+OECD (2005). OECD work on education 2005–2006. (OECD website).
+OECD (2006). Gender and economic development: The work of Diane Elson. Summary and Comments,
+Introduction: women and development. Retrieved in Jan 2006 from: http://www.oecd.org/LongAbstract/
+0,2546,en_2649_37419_2755271_1_1_1_37419,00.html
+OECD (2007) The OECD’s Global Relations Programme 2007–2008. Paris: OECD.
+Papadopoulos, G. S. (1994). Education 1960–1990: The OECD perspective. Paris: OECD.
+Putnam, R.D. (2000). Bowling alone: The collapse and revival of American community. New York: Simon
+& Shuster.
+Romer, P. (1986). Increasing returns and long-run growth, Journal of Political Economy, 94(5), 1002–1037.
+Rose, N. (1999). Powers of freedom reframing political thought. Cambridge: Cambridge University Press.
+Rutkowski, D. (2007). Towards a new multilateralism: The development of world education indicators,
+unpublished PhD Thesis, University of Illinois at Urbana-Champaign.
+Schirato. A. and Webb, J. (2003). Understanding globalization. London: Sage.
+Scholte, J. A. (2000). Globalization: A critical view. London: St Martin’s Press.
+Soros, G. (1998). The crisis of global capitalism. Boston: Little, Brown.
+Taylor, C. (2004). Modern social imaginaries. Durham, NC: Duke University Press.
+Thomson, P. (1999). Towards a just future: Schools working in partnership with neighbourhoods made poor.
+Paper present to UNESCO Conference, Reforming Learning, Curriculum and Pedagogy: Innovative
+Visions for the Next Century. Bangkok, Thailand, 13–16 December.
+

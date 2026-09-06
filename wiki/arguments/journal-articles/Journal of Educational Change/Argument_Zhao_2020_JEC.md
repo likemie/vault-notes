@@ -9,7 +9,7 @@ title: "Argument_Zhao_2020_JEC"
 argument_key: "Argument_Zhao_2020_JEC"
 argument_display_title: "Two decades of havoc: A synthesis of criticism against PISA"
 argument_kind: "journal-article"
-argument_related_count: 17
+argument_related_count: 16
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Document]]"
   - "[[Lifelong Learning]]"
   - "[[International Education]]"
-  - "[[AI Hallucination]]"
   - "[[Evaluation Research]]"
   - "[[Construct]]"
   - "[[Hypothesis]]"
@@ -102,7 +101,7 @@ PISA 声称测量未来生活所需的基本技能，同时声称测量教育系
 PISA 声称测量现代社会或未来世界所需的知识和技能，但这一声称没有任何实证依据。
 
 > [!warning] 无实证依据
-> PISA 题目基于其研究者的实际推理和[[Pilot Testing|预测试]]中在大多数或所有情境中有效的内容，而非基于对当前或未来知识结构和需求的系统研究。没有研究能够证明这一断言，除了知道一些东西总是好的、知道更多更好之外。甚至没有研究表明 PISA 涵盖的内容足以代表所涉及的学校科目或一般知识基础（Hopmann 2008, p.438）。换句话说，这个主张只是一个幻想，一个[[AI Hallucination|幻觉]]，完全由 PISA 团队捏造。但 PISA 通过重复成功地说服了人们（Labaree 2014; Sjøberg 2015b）。
+> PISA 题目基于其研究者的实际推理和[[Pilot Testing|预测试]]中在大多数或所有情境中有效的内容，而非基于对当前或未来知识结构和需求的系统研究。没有研究能够证明这一断言，除了知道一些东西总是好的、知道更多更好之外。甚至没有研究表明 PISA 涵盖的内容足以代表所涉及的学校科目或一般知识基础（Hopmann 2008, p.438）。换句话说，这个主张只是一个幻想，一个幻觉，完全由 PISA 团队捏造。但 PISA 通过重复成功地说服了人们（Labaree 2014; Sjøberg 2015b）。
 
 ---
 

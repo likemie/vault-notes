@@ -14,7 +14,7 @@ aliases:
 summary: "个体对自己认知过程的意识、评估与主动调节，包括元认知知识与元认知调节两个核心成分。它不仅构成批判性思维与人机协同认识论警觉的防御中介，更是驱动创造性问题解决、策略内化与克服思维定势的核心高阶认知机制。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 65
+related_count: 66
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Self-Efficacy]]"
   - "[[Reliability]]"
   - "[[AI Hallucination]]"
+  - "[[Scaffolding]]"
   - "[[Epistemology]]"
   - "[[Theory of Knowledge]]"
   - "[[Critical Thinking Disposition]]"
@@ -150,7 +151,7 @@ updated: 2026-09-04
 > - **元认知知识（Metacognitive Knowledge）** 关于个体自身与他人的认知特质、任务属性与约束条件，以及何时何地采用何种启发式策略（如逆向思考、概念重组、类比迁移）的陈述性、程序性与条件性知识。[[Argument_Cole_2015_AJE|(Cole et al., 2015, p. 249)]]
 > - **元认知调节与监控（Metacognitive Regulation & Monitoring）** 对即时思维进程的主动调控，包含前瞻性计划（界定问题空间与设定评价标准）、过程性监控（实时查错、检测盲区与察觉思维定势）以及总结性评估（反思成果质量与提炼可迁移策略）。[[Argument_Lakhani_2012_AKUIED|(Lakhani, 2012, p. 174)]]; [[Argument_Guo_2025_TSC|(Guo et al., 2025, pp. 2–3)]]
 > - **[[Epistemological Vigilance|认识论警觉]]（Epistemic Vigilance）** 在面对外部信息流或大语言模型生成的表面流畅输出时，主动保持怀疑审视、抗拒[[Illusion of Competence|虚假能力错觉]]并展开严密论据核验的元认知习惯。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 10–11)]]
-> - **元认知反思支架（Metacognitive Scaffolds）** 外部教学环境所提供的显性脚手架（如反思日志、提示词追踪链 Prompt Trail、量规自评检核表），用于将隐性内隐监控操作转化为显性外显认知实践。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 6–7)]]; [[Argument_Guo_2025_TSC|(Guo et al., 2025, p. 10)]]
+> - **元认知反思支架（Metacognitive Scaffolds）** 外部教学环境所提供的显性[[Scaffolding|脚手架]]（如反思日志、提示词追踪链 Prompt Trail、量规自评检核表），用于将隐性内隐监控操作转化为显性外显认知实践。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 6–7)]]; [[Argument_Guo_2025_TSC|(Guo et al., 2025, p. 10)]]
 
 > [!logic-map]- 元认知在[[Higher-Order Thinking Skills|高阶思维]]双向协同与人机共创中的调控架构
 > ```mermaid
@@ -249,7 +250,7 @@ updated: 2026-09-04
 > [!dev-timeline] 元认知理论与实践应用演进脉络
 > - **1970 年代　概念奠基与双成分模型** 弗拉维尔（Flavell, 1976, 1979）正式提出元认知概念，区分为元认知知识与元认知体验/调节，奠定了人类心智自我监控的研究基石。
 > - **1990–2000 年代　[[Self-Regulated Learning|自我调节学习]]整合与可教性实证** 宾特里奇（Pintrich, 2000, 2002）与齐默曼（Zimmerman）将元认知深度整合入自我调节学习（SRL）理论体系中，编制了 [[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale|MSLQ]] 等工具，确立了元认知策略的高度可教性。
-> - **2010 年代　批判反思、[[Epistemology|认识论]]课程与[[Creative Problem Solving|创造性问题解决]]** [[Argument_Cole_2015_AJE|Cole et al. (2015)]] 探讨 IB 认识论（ToK）课程的元认知训练效能；哈格罗夫与尼特菲尔德（Hargrove & Nietfeld, 2015）开展准实验，证实显性元认知指导对高校创造性[[Problem Solving|问题解决]]的因果促学作用。
+> - **2010 年代　批判反思、[[Epistemology|认识论]]课程与[[Creative Problem Solving|创造性问题解决]]** [[Argument_Cole_2015_AJE|Cole et al. (2015)]] 探讨 IB 认识论（ToK）课程的元认知训练效能；哈格罗夫与尼特菲尔德（Hargrove & Nietfeld, 2015）开展准实验，证实显性元认知指导对高校[[Creativity|创造性]][[Problem Solving|问题解决]]的因果促学作用。
 > - **2025 年　基线控制[[Meta-analysis|元分析]]确证“[[Metacognitive Laziness|元认知惰性]]”** [[Argument_Chen_Cheung_2025_ERR|Chen & Cheung (2025)]] 通过 57 项高校实验元分析证实生成式 AI 对元认知无统计显著促进（$g^+ = 0.078, p = .789$），推翻技术自发促学假说，实证确立防范元认知惰性的紧迫性。
 > - **2025–2026 年　大规模[[Meta-analysis|元分析]]确立协同机制与 AI 警觉防线** [[Argument_Park_2026_TSC|Park et al. (2026)]] 确立[[Creativity|创造力]]与[[Critical Thinking|批判性思维]]共享元认知底座（$r = 0.386$）；[[Argument_Guo_2025_TSC|Guo et al. (2025)]] 揭示独立练习深思（$g = 0.682$）促进元认知策略内化的组织优势；[[Argument_Li_2026_CEAI|Li et al. (2026)]] 确立显性元认知监控作为生成式 AI 时代维系[[Epistemological Vigilance|认识论警觉]]的战略防线。
 
@@ -277,7 +278,7 @@ updated: 2026-09-04
 
 > [!warning] 适用边界与干预警示
 > 1. **警惕“过度元认知监控”引发的认知瘫痪** 在需要高度发散自由联想的初期阶段，过度严苛的批判性元认知审查会过早扼杀非传统构想；必须区分发散探索期（低监控）与收敛评定期（高监控）；
-> 2. **元认知支架不可变成僵化教条** 过于繁琐的反思填表任务易引发学生的合规性应付与认知超载，必须将支架动态渐退（Scaffold Fading）。
+> 2. **元[[Scaffolding|认知支架]]不可变成僵化教条** 过于繁琐的反思填表任务易引发学生的合规性应付与认知超载，必须将支架动态渐退（Scaffold Fading）。
 
 ---
 

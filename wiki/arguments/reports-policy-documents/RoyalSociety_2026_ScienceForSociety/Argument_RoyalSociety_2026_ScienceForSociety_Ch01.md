@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch01"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch01"
 argument_display_title: "Chapter one: Education"
 argument_kind: "book-chapter"
-argument_related_count: 47
+argument_related_count: 46
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -45,7 +45,6 @@ related_concepts:
   - "[[Data Literacy]]"
   - "[[AI Literacy]]"
   - "[[Sustainability Education]]"
-  - "[[AI Hallucination]]"
   - "[[Creativity]]"
   - "[[Falsification]]"
   - "[[Cognitive Offloading]]"
@@ -171,7 +170,7 @@ updated: 2026-09-04
 > - **数学与数据素养（Mathematical and Data Literacy）**
 >   依托概率论与统计学基础，培养对现实海量数据来源、[[Reliability|可靠性]]、完整性、采样偏差及可视化图表表达的批判性审视与量化推理能力。（p. 31）
 > - **人工智能与批判性数字素养（AI and Critical Digital Literacy）**
->   深刻理解大语言模型（Large Language Models, LLMs）等人工智能（Artificial Intelligence, AI）算法模型的运作机制与算法偏见、[[AI Hallucination|幻觉]]黑箱等固有局限，坚守放大人类认知与[[Creativity|创造力]]的应用底线。（p. 32）
+>   深刻理解大语言模型（Large Language Models, LLMs）等人工智能（Artificial Intelligence, AI）算法模型的运作机制与算法偏见、幻觉黑箱等固有局限，坚守放大人类认知与[[Creativity|创造力]]的应用底线。（p. 32）
 > - **可持续发展素养与绿色技能（Sustainability Literacy and Green Skills）**
 >   系统把握气候变化与生态承载力的多学科复杂性，掌握服务国家低碳转型的绿色技能，将生态文明内化为跨学科行动力。
 > - **科学本质素养（Nature of Science Literacy）**

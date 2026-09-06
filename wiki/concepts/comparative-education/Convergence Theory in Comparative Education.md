@@ -7,7 +7,7 @@ aliases:
 summary: "比较教育的四种理解形式之一，认为不同社会的教育系统正在趋向相似，经历了从 UNESCO 科学理想到新制度主义的多个阶段"
 type: concept
 domain: "comparative-education"
-related_count: 9
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,7 +19,6 @@ related_concepts:
   - "[[International Education]]"
   - "[[Variable]]"
   - "[[Hypothesis]]"
-  - "[[AI Hallucination]]"
   - "[[Growth]]"
   - "[[Hegemony]]"
 related_theories:
@@ -82,7 +81,7 @@ updated: 2026-06-06
 ## 争议与批评
 
 > [!warning]
-> - **政治中性的[[AI Hallucination|幻觉]]**。趋同理论掩盖了新[[Institutional Isomorphism|制度同构]]背后的权力关系。同构的[[Growth|成长]]并非自然演化，而是政治、经济与[[Hegemony|文化霸权]]机制（如国际援助、有条件贷款、地缘博弈和西方模式的制度输出）共同作用的权力后果([[Argument_Cowen_2023_CE|Cowen, 2023, p.333]])。
+> - **政治中性的幻觉**。趋同理论掩盖了新[[Institutional Isomorphism|制度同构]]背后的权力关系。同构的[[Growth|成长]]并非自然演化，而是政治、经济与[[Hegemony|文化霸权]]机制（如国际援助、有条件贷款、地缘博弈和西方模式的制度输出）共同作用的权力后果([[Argument_Cowen_2023_CE|Cowen, 2023, p.333]])。
 > - **能动性与主体的双重遮蔽**。由于缺乏明确的行动主体，该理论遮蔽了“谁在推动趋同”、“出于何种政治与经济动机”以及“谁在趋同中获益或受损”等关于学科核心权力运作的问题。
 
 ---

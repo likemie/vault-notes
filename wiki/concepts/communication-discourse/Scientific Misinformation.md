@@ -7,7 +7,7 @@ aliases:
 summary: "指向在传统与数字媒体中传播的与科学证据或学界共识相悖的错误或误导性信息，涵盖无恶意失实与蓄意操纵，其扩散受算法推荐、极化回音室与源头新闻通稿夸大共同驱动，治理依赖证据透明、不确定性坦诚沟通与科研诚信制度融合。"
 type: concept
 domain: "communication-discourse"
-related_count: 21
+related_count: 20
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -21,7 +21,6 @@ related_concepts:
   - "[[Confidence Interval]]"
   - "[[Scientific Literacy]]"
   - "[[Conflict of Interest in Research]]"
-  - "[[AI Hallucination]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Science Journalism]]"
   - "[[Responsible Conduct of Research]]"
@@ -92,7 +91,7 @@ updated: 2026-09-04
 > - **算法推荐与注意力经济驱动** 商业社交媒体平台受点击率、用户黏性与广告营收驱动，其推荐算法往往优先放大具有情感冲击力、争议性与惊悚效果的内容，使得伪科学与阴谋论在传播速度与广度上显著压倒严谨平实的科学事实。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026, p. 58)]]
 > - **源头失真与高校新闻通稿过度夸大** 实证研究表明，大众传媒中泛滥的科学夸大陈述往往并非源于新闻记者的胡乱编造，而是直接始于大学与科研机构自身新闻办公室（Press Offices）的新闻通稿；科研竞争压力迫使机构过度包装发现以博取媒体曝光。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026, p. 62)]]
 > - **意识形态极化与回音室放大** 极少数高度党派化或持极端立场的个体在社交网络中主动寻找印证自身偏见的信息，形成闭合的“回音室”；尽管深陷回音室的公众在总体中属于少数，但其在数字网络中的极端声量对社会新闻议程产生了不成比例的扭曲影响。
-> - **人工智能合成与模型[[AI Hallucination|幻觉]]风险** [[Generative Artificial Intelligence|生成式人工智能]]（AI）工具的大规模普及降低了虚假内容生成的门槛，大语言模型的“幻觉”（Hallucinations）、黑箱算法与数据时效滞后，极易在搜索引擎和社交问答中生成似是非的错误科学解释。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026, p. 61)]]
+> - **人工智能合成与模型幻觉风险** [[Generative Artificial Intelligence|生成式人工智能]]（AI）工具的大规模普及降低了虚假内容生成的门槛，大语言模型的“幻觉”（Hallucinations）、黑箱算法与数据时效滞后，极易在搜索引擎和社交问答中生成似是非的错误科学解释。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026, p. 61)]]
 
 > [!logic-map]- 科学虚假信息的多源生成与社会传播闭环
 > ```mermaid
