@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Isaac Kandel",
+      "path": "wiki/persons/us/Isaac Kandel.md"
+    },
+    {
       "basename": "Argument_Kazamias_2009_ForgottenThemes",
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kazamias_2009_ForgottenThemes.md"
+    },
+    {
+      "basename": "Michael Sadler",
+      "path": "wiki/persons/uk/Michael Sadler.md"
     },
     {
       "basename": "template-argument",
@@ -191,14 +199,6 @@
     {
       "basename": "Cowen(Ed.)_2009_Springer",
       "path": "books/Cowen(Ed.)_2009_Springer/Cowen(Ed.)_2009_Springer.md"
-    },
-    {
-      "basename": "Ch02_Cowen_2009",
-      "path": "books/Cowen(Ed.)_2009_Springer/Ch02_Cowen_2009.md"
-    },
-    {
-      "basename": "Michael Sadler",
-      "path": "wiki/persons/uk/Michael Sadler.md"
     }
   ],
   "omittedPaths": [],
