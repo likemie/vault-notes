@@ -38,6 +38,7 @@ related_theories:
 related_methods:
   - "[[Historical-Comparative Method]]"
 related_persons:
+  - "[[Matthew Arnold]]"
   - "[[Immanuel Kant]]"
   - "[[Georg Wilhelm Friedrich Hegel]]"
   - "[[Isaac Kandel]]"
@@ -199,7 +200,7 @@ updated: 2026-09-07
 
 > [!person-network] 关系网络
 > - **哲学导师／精神源流** 托马斯·希尔·格林（T. H. Green） — 牛津唯心主义领袖，格林的积极自由观与国家伦理干预学说奠定了萨德勒新自由主义教育哲学的理论根基。
-> - **先锋同行** 马修·阿诺德（Matthew Arnold） — 萨德勒继承并深化了阿诺德关于通过国家干预提升文化[[Bildung|教化]]并抵御地缘竞争的警觉。
+> - **先锋同行** [[Matthew Arnold|马修·阿诺德]]（Matthew Arnold） — 萨德勒继承并深化了阿诺德关于通过国家干预提升文化[[Bildung|教化]]并抵御地缘竞争的警觉。
 > - **继承者** [[Isaac Kandel|艾萨克·坎德尔]] — 曼彻斯特大学受业弟子，坎德尔将萨德勒的情境与精神力量分析发展为成熟的学科框架。
 > - **同行／学派** [[Nicholas Hans|尼古拉斯·汉斯]]、[[Robert Ulich|罗伯特·乌利希]] — 共同维系 20 世纪前中期的[[Historical-Philosophical-Cultural Motif|历史-哲学-文化母题]]。
 > - **行政论敌** 罗伯特·莫兰特（Robert Morant） — 英国教育部常务次官，莫兰特主张教育部应追求直接的技术和行政控制，与萨德勒坚持学术调查的独立性产生正面冲突，最终导致萨德勒辞职。

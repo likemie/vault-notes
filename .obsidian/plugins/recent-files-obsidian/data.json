@@ -5,6 +5,10 @@
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kazamias_2009_ForgottenThemes.md"
     },
     {
+      "basename": "Whiggism",
+      "path": "wiki/concepts/comparative-education/Whiggism.md"
+    },
+    {
       "basename": "Bildung",
       "path": "wiki/concepts/educational-philosophy/Bildung.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Policy Borrowing",
       "path": "wiki/concepts/comparative-education/Policy Borrowing.md"
-    },
-    {
-      "basename": "Comparative History of Comparative Education",
-      "path": "wiki/concepts/comparative-education/Comparative History of Comparative Education.md"
     }
   ],
   "omittedPaths": [],

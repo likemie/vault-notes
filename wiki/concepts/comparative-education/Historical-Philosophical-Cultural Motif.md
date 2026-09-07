@@ -10,10 +10,10 @@ aliases:
 summary: "19世纪末至20世纪中叶主导比较教育学的核心认识论母题，将学科界定为探究历史因果与文化精神的广义人文科学，以民族国家与国民性为解释单元，服务于历史改良主义与自由民主价值"
 type: concept
 domain: "comparative-education"
-related_count: 39
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - comparative-education
   - historiography
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Whole Person Education]]"
   - "[[Scientism]]"
   - "[[Falsification]]"
+  - "[[Whiggism]]"
   - "[[Effect Size]]"
   - "[[Construct]]"
 related_theories: []
@@ -225,7 +226,7 @@ updated: 2026-09-07
 > - **1949 — [[Nicholas Hans|汉斯]]提出三维历史因素分析分类框架** 汉斯出版《比较教育：教育的因素与传统研究》，建立自然、宗教与世俗历史因素框架，为纷繁复杂的跨国历史史料提供了系统的分类过滤器。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 49–51)]]
 > - **1961 — [[Robert Ulich|乌利希]]《国家教育》奠定古典全人[[Bildung|教化]]文明史纵深** 乌利希将西方文明两千年思想史演进与全人教化引入比较研究，确立以人为中心的人文关怀底色。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 51–52)]]
 > - **1960s — 实证[[Scientism|科学主义]]围剿与前科学标签化** [[Harold Noah|诺亚]]、[[Max Eckstein|埃克斯坦]]与霍姆斯等实证学者借由狭隘科学观与[[Falsification|可证伪性]]准绳，指责历史学派依赖主观洞察力、缺乏因果预测力、陷入个殊不可比，并将萨德勒的无形力量贬斥为神秘主义。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 52–54)]]
-> - **1963/2009 — 卡扎米亚斯重建广义科学定位与比较史学合法性** 卡扎米亚斯批判反思历史学派辉格史观与[[National Character|国民性格]]偏误，同时恢复德语 *Wissenschaft* 广义科学传统，援引布林顿有限工作[[Hypothesis|假设]]归纳法确立历史比较因果解释的现代合法性。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 54–57)]]
+> - **1963/2009 — 卡扎米亚斯重建广义科学定位与比较史学合法性** 卡扎米亚斯批判反思历史学派[[Whiggism|辉格史观]]与[[National Character|国民性格]]偏误，同时恢复德语 *Wissenschaft* 广义科学传统，援引布林顿有限工作[[Hypothesis|假设]]归纳法确立历史比较因果解释的现代合法性。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 54–57)]]
 
 ---
 
@@ -248,7 +249,7 @@ updated: 2026-09-07
 > [!critique] 外部批评
 > - **缺乏因果预测力指控** 霍姆斯（Holmes, 1965）断言历史比较无法替代科学比较教育，教育决策关切的是未来行动的后果，真正的理解来自于成功的因果预测而非回顾性历史溯源。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 53–54)]]
 > - **滑向神秘主义倾向指控** 埃普斯坦（Epstein, 1970）批评萨德勒对校外无形、不可捉摸精神力量的强调濒临神秘主义，有将严谨实证探究引向主观灵性启示的风险。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 54)]]
-> - **辉格史观与[[National Character|国民性格]]循环论证** 卡扎米亚斯（Kazamias, 1961, 2009）深刻指出老一代历史学者混淆现状实然描述与道德改良应然诉求，借由主观臆断的[[National Character|国民性格]]解释教育差异，陷入同义反复与辉格史观的理论陷阱。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 54–55)]]
+> - **[[Whiggism|辉格史观]]与[[National Character|国民性格]]循环论证** 卡扎米亚斯（Kazamias, 1961, 2009）深刻指出老一代历史学者混淆现状实然描述与道德改良应然诉求，借由主观臆断的[[National Character|国民性格]]解释教育差异，陷入同义反复与辉格史观的理论陷阱。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 54–55)]]
 
 > [!warning] 适用局限
 > - **资产阶级自由主义改良预设局限** 历史学派奠基学者多带有西方资产阶级自由民主制的先验偏见，未深入考察发达资本主义社会内部的阶级对抗、种族主义与深层权力不平等。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 48, 55)]]
@@ -267,7 +268,7 @@ updated: 2026-09-07
 > | **价值与伦理导向** | [[Educational Meliorism]]；[[Bildung]] | 服务于审慎的历史改良主义，旨在涵养哲学态度与促进全人教化以抵御专制与虚无 |
 > | **批判对立范式** | [[Positivism]]；[[Technical Rationality]]；[[Falsification]] | 抵抗狭隘经验实证主义的规律预测论、技术理性[[Disciplina and Doctrina\|规训]]与教条化证伪主义围剿 |
 > | **经典奠基者** | [[Michael Sadler]]；[[Isaac Kandel]]；[[Nicholas Hans]]；[[Robert Ulich]] | 开创并集大成无形精神力量、政治国家[[Variable\|变量]]、三维因素分析与全人教化思想长河 |
-> | **战后反思与重塑** | [[Andreas Kazamias]] | 清算辉格史观与国民性偏误，激活布林顿有限工作假设重构现代学术合法性 |
+> | **战后反思与重塑** | [[Andreas Kazamias]] | 清算[[Whiggism\|辉格史观]]与国民性偏误，激活布林顿有限工作假设重构现代学术合法性 |
 > | **核心研究专著** | [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009)]] | 系统挖掘被遗忘的人物与母题，确立历史-哲学-文化传统的现代学术尊严 |
 
 ---
@@ -275,5 +276,5 @@ updated: 2026-09-07
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009)]] — 思想史考古系统梳理[[Michael Sadler|萨德勒]]、[[Isaac Kandel|坎德尔]]、[[Nicholas Hans|汉斯]]与[[Robert Ulich|乌利希]]的思想谱系，反思辉格史观与[[National Character|国民性格]]，并借由布林顿比较史学确立[[Historical-Comparative Method|历史比较法]]在理论建构与因果阐释上的现代学术合法性。
+> - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009)]] — 思想史考古系统梳理[[Michael Sadler|萨德勒]]、[[Isaac Kandel|坎德尔]]、[[Nicholas Hans|汉斯]]与[[Robert Ulich|乌利希]]的思想谱系，反思[[Whiggism|辉格史观]]与[[National Character|国民性格]]，并借由布林顿比较史学确立[[Historical-Comparative Method|历史比较法]]在理论建构与因果阐释上的现代学术合法性。
 

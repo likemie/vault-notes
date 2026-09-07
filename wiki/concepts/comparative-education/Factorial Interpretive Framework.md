@@ -10,7 +10,7 @@ aliases:
 summary: "20世纪经典比较教育学中由汉斯集大成的核心分析范式，通过自然、宗教与世俗三维恒久力量解释民族国家教育制度的相貌生成与精神特质"
 type: concept
 domain: "comparative-education"
-related_count: 41
+related_count: 42
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Interpretive Validity]]"
   - "[[Research Purpose]]"
   - "[[Construct]]"
+  - "[[Whiggism]]"
   - "[[Historical-Philosophical-Cultural Motif]]"
   - "[[Educational Meliorism]]"
   - "[[Epistemic Stances]]"
@@ -316,7 +317,7 @@ updated: 2026-09-07
 > | [[Isaac Kandel]] | 人物 | 思想奠基人，深化国家意志与政治哲学在校外动力中的核心解释地位。 |
 > | [[Harold Noah]] | 人物 | 战后实证批判者，将该框架定性为前科学动力与因素阶段并指责其证据标准缺陷。 |
 > | [[Max Eckstein]] | 人物 | 战后实证批判者，倡导以跨国[[Variable\|变量]]控制与多元统计取代传统的因素分析。 |
-> | [[Andreas Kazamias]] | 人物 | 现代史学辩护者，反思辉格史观的同时以德语广义科学观重估因素分析的现代因果合法性。 |
+> | [[Andreas Kazamias]] | 人物 | 现代史学辩护者，反思[[Whiggism\|辉格史观]]的同时以德语广义科学观重估因素分析的现代因果合法性。 |
 > | [[Historical-Philosophical-Cultural Motif]] | 概念 | 因素解释框架所属的高阶[[Epistemology\|认识论]]母题，确立其解释学与广义科学定位。 |
 > | [[Historical-Comparative Method]] | 方法 | 因素解释框架在研究操作层面的方法论母体，提供史料考据与案例比较程序。 |
 > | [[National Character]] | 概念 | 早期因素框架用于指涉民族文化精神的核心解释构念，后因同义反复陷入争议。 |

@@ -10,7 +10,7 @@ summary: "运用历史因果考证与跨国情境对照解释教育制度起源�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 29
+method_related_count: 30
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Epistemic Stances]]"
   - "[[Research Question]]"
+  - "[[Whiggism]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Document]]"
   - "[[Policy Borrowing]]"
@@ -121,7 +122,7 @@ updated: 2026-09-07
 > |---|---|
 > | **材料来源** | 官方档案（特别调查报告 Special Reports、皇家委员会调查白皮书 Bryce Commission、议会立法案卷）、各国内政与教育部公报、视察专员历史考察手札、哲人经典著述与历史统计年鉴。 |
 > | **抽样或选案** | [[Theoretical Sampling\|理论抽样]]与关键制度案例（如普鲁士中等教育报告、英国文法公学体系、法国国家中央集权督学系统）；最大变异比较（英美自由地方分权体系 vs 法德苏国家主义集权体系）。 |
-> | **研究者位置** | 跨文化历史诠释者。深入历史当事人的思想地平线内部，严格防范辉格史观（以现代价值观剪裁历史）与当下主义偏见，反思研究者自身的民族国家与意识形态前设。 |
+> | **研究者位置** | 跨文化历史诠释者。深入历史当事人的思想地平线内部，严格防范[[Whiggism\|辉格史观]]（以现代价值观剪裁历史）与当下主义偏见，反思研究者自身的民族国家与意识形态前设。 |
 > | **资料边界** | 聚焦国家制度奠基期、关键立法节点与文明转型危机期；严格划分一手文献（[[Primary and Secondary Documents\|Primary Documents]]）与后世二手研究（Secondary Literature）。 |
 
 > [!proc] 质性史料分析与因果推导程序
@@ -170,7 +171,7 @@ updated: 2026-09-07
 
 > [!method-limits] 方法局限
 > - **偏误来源**
->   - **辉格史观（Whiggism）** 容易以当代民主改良的应然愿望裁剪复杂的历史实然事实，造成史料的偏颇解读（Butterfield, 1931; Kazamias, 1961）；
+>   - **[[Whiggism|辉格史观]]（Whiggism）** 容易以当代民主改良的应然愿望裁剪复杂的历史实然事实，造成史料的偏颇解读（Butterfield, 1931; Kazamias, 1961）；
 >   - **[[National Character|国民性格]]（[[National Character]]）[[Construct|构念]]滥用** 易将复杂的阶级政治与制度利益博弈轻率归咎于虚无飘渺的心理特质，陷入同义反复的套套逻辑；
 >   - **[[Document|文献]]幸存者偏误** 留存至今的历史档案多出自官方精英与行政机构，容易遮蔽基层教师、边缘群体与弱势阶层的真实教育体验。
 > - **适用边界** 提炼出的理论概括属于“有限工作[[Hypothesis|假设]]”，其解释力严格依附于特定的时空情境与制度母体，不能直接外推为普适规律。

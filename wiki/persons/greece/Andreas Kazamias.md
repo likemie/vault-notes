@@ -7,7 +7,7 @@ summary: "希腊裔比较教育学者，倡导历史和人文主义视角与普�
 type: person
 nationality: greece
 person_region: "greece"
-person_related_count: 36
+person_related_count: 37
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Educational Meliorism]]"
   - "[[Champ]]"
   - "[[Bildung]]"
+  - "[[Whiggism]]"
   - "[[National Character]]"
   - "[[Hypothesis]]"
   - "[[Positivism]]"
@@ -86,7 +87,7 @@ updated: 2026-09-07
 
 > [!timeline] 生平与职涯
 > - **1950年代** 赴美留学，在哈佛大学师从著名德裔教育哲学家与文化史学家[[Robert Ulich|罗伯特·乌利希]]（Robert Ulich），接受深厚的古典[[Bildung|教化]]（Paideia）与思想史学术熏陶并获博士学位。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 52)]]
-> - **1961** 发表《比较教育方法论中的新旧进路》（*Some Old and New Approaches to Methodology in Comparative Education*），作为战后新一代学者代表，率先反思[[Isaac Kandel|艾萨克·坎德尔]]（Isaac Kandel）的辉格史观与[[National Character|国民性格]]概念。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 54–55)]]
+> - **1961** 发表《比较教育方法论中的新旧进路》（*Some Old and New Approaches to Methodology in Comparative Education*），作为战后新一代学者代表，率先反思[[Isaac Kandel|艾萨克·坎德尔]]（Isaac Kandel）的[[Whiggism|辉格史观]]与[[National Character|国民性格]]概念。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 54–55)]]
 > - **1963** 发表《历史、科学与比较教育》（*History, Science and Comparative Education*），援引克莱恩·布林顿（Crane Brinton）比较史学理论，论证有限工作[[Hypothesis|假设]]在历史探究中的科学性，正面回击实证派将历史排斥于科学之外的浪潮。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 56)]]
 > - **1965** 与哈佛同门保罗·纳什（Paul Nash）、亨利·珀金森（Henry Perkinson）联合主编出版文集《受过教育的人》（*The Educated Man*），向导师乌利希致敬。
 > - **1960年代–1970年代** 长期任教于威斯康星大学麦迪逊分校，任比较教育学与教育政策教授，坚决捍卫[[Historical-Comparative Method|历史比较法]]，抵制[[Positivism|实证主义]]技术官僚化。
@@ -100,7 +101,7 @@ updated: 2026-09-07
 ## 主要著作与思想发展
 
 > [!thought-timeline] 思想发展
-> - **1950年代–1960年代 — 哈佛学统与战后方法论双重论战** 承继[[Robert Ulich|乌利希]]古典[[Bildung|教化]]（*Paideia*）思想史传统，作为战后新一代学者投身学科重构；既对历史传统内部的辉格史观展开尖锐反思，又正面迎击实证学派对历史学的清洗。
+> - **1950年代–1960年代 — 哈佛学统与战后方法论双重论战** 承继[[Robert Ulich|乌利希]]古典[[Bildung|教化]]（*Paideia*）思想史传统，作为战后新一代学者投身学科重构；既对历史传统内部的[[Whiggism|辉格史观]]展开尖锐反思，又正面迎击实证学派对历史学的清洗。
 >   - **代表著作** *Some Old and New Approaches to Methodology in Comparative Education* (1961); *History, Science and Comparative Education: A Study in Methodology* (1963); *The Educated Man* (1965); *Tradition and Change in Education* (1965). [[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 52, 54–56)]]
 >   - **关键概念／方法** [[Historical-Comparative Method]]、[[Historical-Philosophical-Cultural Motif]]、有限工作[[Hypothesis|假设]]。
 >   - **阶段转向** 厘清实然与应然界限，援引布林顿比较史学确立历史研究的中程归纳机制，确立历史比较法的现代科学合法性。
@@ -118,7 +119,7 @@ updated: 2026-09-07
 ## 核心思想
 
 > [!claim] 核心主张
-> 卡扎米亚斯坚持历史学与古典人文主义是比较教育学的生命线。在学科转型期，他扮演了反思者与捍卫者的双重角色：对内，他率先检讨历史学派混淆实然与应然的“辉格史观”以及将制度差异轻率归咎于“[[National Character|国民性格]]”的循环论证；对外，他直面战[[Postpositivism|后实证主义]]对历史传统的清洗，揭露英语“科学”（Science）概念对经验量化与自然科学[[Paradigm|范式]]的狭隘垄断，力倡德语广义科学（*Wissenschaft*）与古希腊理知（*Episteme*）传统，并援引克莱恩·布林顿（Crane Brinton）史学理论论证历史比较依托“有限工作[[Hypothesis|假设]]”建立中程解释理论的合法性。他坚信比较教育的本体根基在于对人的整全[[Bildung|教化]]（*Paideia*）与人（*Anthropos*）的终极关怀。
+> 卡扎米亚斯坚持历史学与古典人文主义是比较教育学的生命线。在学科转型期，他扮演了反思者与捍卫者的双重角色：对内，他率先检讨历史学派混淆实然与应然的“[[Whiggism|辉格史观]]”以及将制度差异轻率归咎于“[[National Character|国民性格]]”的循环论证；对外，他直面战[[Postpositivism|后实证主义]]对历史传统的清洗，揭露英语“科学”（Science）概念对经验量化与自然科学[[Paradigm|范式]]的狭隘垄断，力倡德语广义科学（*Wissenschaft*）与古希腊理知（*Episteme*）传统，并援引克莱恩·布林顿（Crane Brinton）史学理论论证历史比较依托“有限工作[[Hypothesis|假设]]”建立中程解释理论的合法性。他坚信比较教育的本体根基在于对人的整全[[Bildung|教化]]（*Paideia*）与人（*Anthropos*）的终极关怀。
 
 > [!citation-card] 广义科学观与人文科学的[[Epistemology|认识论]]合法性
 > [[Positivism|实证主义]]者对历史比较教育‘非科学’的批评，本身是建立在对英语‘科学’（science）一词的狭隘解释之上，这种狭隘理解往往仅仅指涉自然科学或经验实证社会科学。然而，科学在其他语言中（如德语的 Wissenschaft 或希腊语的 Episteme）同样指涉对社会、文化和人类现象的系统化研究及其认识策略。若在广义人文科学的意义上理解，[[Michael Sadler|萨德勒]]、[[Isaac Kandel|坎德尔]]、[[Nicholas Hans|汉斯]]与[[Robert Ulich|乌利希]]的历史比较研究完全有资格被称为科学研究。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 56)]]

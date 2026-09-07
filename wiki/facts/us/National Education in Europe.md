@@ -14,7 +14,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 27
+fact_related_count: 28
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Hypothesis]]"
   - "[[Positivism]]"
+  - "[[Whiggism]]"
   - "[[Epistemic Value]]"
   - "[[Policy Borrowing]]"
 related_theories: []
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-06
+updated: 2026-09-07
 ---
 
 # National Education in Europe
@@ -160,7 +161,7 @@ updated: 2026-09-06
 > > - **Harold Noah & Max Eckstein (1969)** 严厉批评巴纳德的工作缺乏科学因果解释与[[Hypothesis|假设]]检验，认为他“在不加甄别甚至缺乏条理地记录并重新发表所能获得的一切资料中看到了价值”，将其归入前科学阶段的简单资料汇编。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, p. 32; Noah & Eckstein, 1969:25–26)]]
 > > - **Brian Holmes (1965)** 则给予极高赞誉，指出巴纳德的比较教育路径完全是历史与描述性的，他试图编纂一部教育百科全书的宏伟目标在很大程度上得到了实质性实现。（p. 32; Holmes, 1965:14）
 >
-> > [!axis] 编年史与[[Ethnography|民族志]]正名：超越[[Positivism|实证主义]]辉格史观
+> > [!axis] 编年史与[[Ethnography|民族志]]正名：超越[[Positivism|实证主义]][[Whiggism|辉格史观]]
 > > 新世纪思想史学者力图突破狭隘的量化偏见，还原巴纳德在 19 世纪特定时空下的卓越贡献。
 > >
 > > - **[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]]** 明确反驳了[[Harold Noah|诺亚]]与[[Max Eckstein|埃克斯坦]]“缺乏条理”的指责；他们指出巴纳德固然缺乏现代历史因果解释（contextual explanation），但这并不妨碍他成为一名极其优秀的“教育编年史家（educational chronicler）”与“教育民族志学者（educational ethnographer）”。在 19 世纪的历史条件下，其所提供的高质量描述性历史至今仍具有不可低估的史料与[[Epistemic Value|认识论价值]]。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 32–33)]]

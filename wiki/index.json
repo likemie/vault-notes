@@ -999,6 +999,19 @@
     ]
   },
   {
+    "title": "Whiggism",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Whiggism.md",
+    "aliases": [
+      "辉格史观",
+      "辉格主义",
+      "辉格史学",
+      "辉格主义史观",
+      "Whig Interpretation of History",
+      "Whiggish Historiography"
+    ]
+  },
+  {
     "title": "Advanced Placement Program",
     "type": "concept",
     "path": "wiki/concepts/curriculum/Advanced Placement Program.md",
@@ -16010,6 +16023,17 @@
     ]
   },
   {
+    "title": "Brian Holmes",
+    "type": "person",
+    "path": "wiki/persons/uk/Brian Holmes.md",
+    "aliases": [
+      "布赖恩·霍姆斯",
+      "布莱恩·霍姆斯",
+      "霍姆斯",
+      "Holmes, B."
+    ]
+  },
+  {
     "title": "Carlos Frenk",
     "type": "person",
     "path": "wiki/persons/uk/Carlos Frenk.md",
@@ -16303,6 +16327,16 @@
     "aliases": [
       "Homer, M.",
       "马特·霍默"
+    ]
+  },
+  {
+    "title": "Matthew Arnold",
+    "type": "person",
+    "path": "wiki/persons/uk/Matthew Arnold.md",
+    "aliases": [
+      "马修·阿诺德",
+      "阿诺德",
+      "Arnold, M."
     ]
   },
   {

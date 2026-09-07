@@ -9,7 +9,7 @@ summary: "哥伦比亚大学师范学院比较教育学讲座教授，《教育�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 39
+person_related_count: 36
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -24,11 +24,8 @@ related_concepts:
   - "[[National Character]]"
   - "[[Document]]"
   - "[[Bildung]]"
-  - "[[International Education]]"
   - "[[Paradigm]]"
-  - "[[Growth]]"
-  - "[[Scientism]]"
-  - "[[Primary and Secondary Documents]]"
+  - "[[Positivism]]"
   - "[[Academic Freedom]]"
   - "[[Independent Variable]]"
   - "[[Disciplina and Doctrina]]"
@@ -36,9 +33,9 @@ related_concepts:
   - "[[Historical-Philosophical-Cultural Motif]]"
   - "[[Educational Meliorism]]"
   - "[[Reflexivity]]"
-  - "[[Positivism]]"
   - "[[Policy Borrowing]]"
   - "[[Operationalization]]"
+  - "[[Whiggism]]"
   - "[[Construct]]"
   - "[[Comparative History of Comparative Education]]"
 related_theories:
@@ -220,7 +217,7 @@ updated: 2026-09-07
 > > - **Harold Noah & Max Eckstein（1969）** 批评历史-哲学路径缺乏客观假说检验规程，处于学科演进的“前科学力量与因素阶段”。
 > > - **布赖恩·霍姆斯（Brian Holmes，1965）** 批评历史学派面向过去而非面向未来，认为科学比较教育的标志是预测而非回顾性解释。
 >
-> > [!axis] 辉格史观与[[National Character|国民性]][[Construct|构念]]的虚妄
+> > [!axis] [[Whiggism|辉格史观]]与[[National Character|国民性]][[Construct|构念]]的虚妄
 > > 卡扎米亚斯作为战后青年学者对坎德尔历史方法展开的内在方法论清算。
 > >
 > > - **Kazamias（1961, 2009）** 批评坎德尔混淆了历史描述与现实改良诉求，陷入历史学家赫伯特·巴特菲尔德（Herbert Butterfield）所指责的“辉格史观”（Whiggism）；同时指出其借助[[National Character|国民性格]]解释教育差异（如将英国教育松散归咎于英国人天生不愿深思规划）缺乏可靠史料支撑，本质上是主观心理投射。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 54–55)]]

@@ -36,6 +36,7 @@ related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
+  - "[[Brian Holmes]]"
   - "[[Joseph Lauwerys]]"
   - "[[Isaac Kandel]]"
   - "[[Robert Cowen]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-05
-updated: 2026-09-06
+updated: 2026-09-07
 ---
 
 # George Bereday
@@ -132,7 +133,7 @@ updated: 2026-09-06
 > [!person-network] 关系网络
 > - **师承与前辈** 罗伯特·乌利希（Robert Ulich） 哈佛大学博士导师，奠定其历史哲学比较底色；[[Isaac Kandel|艾萨克·坎德尔]] 哥伦比亚大学师范学院前辈泰斗，贝雷迪在坎德尔逝世后发表权威纪念评传，总结其[[Epistemology|认识论]]遗产。
 > - **合作者与跨洲学术镜像** [[Joseph Lauwerys|约瑟夫·劳韦里斯]] 联合主编《世界教育年鉴》，共同构成 20 世纪中期跨越大西洋、连接拉美与东亚的学术立交桥枢纽。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, p. 9)]]
-> - **学术论敌与论战者** [[Edmund King|埃德蒙·金]]（Edmund King） 就教育与种族、阶级平等的跨国解释展开长期的公开论辩；布莱恩·霍姆斯（Brian Holmes） 就归纳比较法与演绎[[Problem Solving|问题解决]]法的方法论优劣展开学科大论战。
+> - **学术论敌与论战者** [[Edmund King|埃德蒙·金]]（Edmund King） 就教育与种族、阶级平等的跨国解释展开长期的公开论辩；[[Brian Holmes|布莱恩·霍姆斯]]（Brian Holmes） 就归纳比较法与演绎[[Problem Solving|问题解决]]法的方法论优劣展开学科大论战。
 > - **同事与后继学者** [[Harold Noah|哈罗德·诺亚]] 与 [[Max Eckstein|马克斯·埃克斯坦]] 共同执教于哥伦比亚大学师范学院，在其归纳框架之上进一步推进量化实证与假说检验的科学[[Paradigm|范式]]。
 > - **机构与组织** [[Comparative and International Education Society]]（CIES 前身早期会长、创办《比较教育评论》并设立乔治·贝雷迪奖）、哥伦比亚大学师范学院。
 
@@ -143,9 +144,9 @@ updated: 2026-09-06
 > [!debates] 学术争议
 >
 > > [!axis] 归纳经验主义 vs 演绎问题法与科学假说检验
-> > 围绕比较教育学应当坚持客观事实归纳还是走向演绎[[Hypothesis|假设]]检验的论战。布莱恩·霍姆斯等学者批评贝雷迪的四步法过于偏向静态描述与归纳归纳法，难以有效预测教育移植后的社会后果；而后继的[[Harold Noah|诺亚]]与[[Max Eckstein|埃克斯坦]]则进一步主张必须以严格的统计控制和[[Independent Variable|自变量]]/[[Dependent Variable|因变量]]假说检验替代质性描述。
+> > 围绕比较教育学应当坚持客观事实归纳还是走向演绎[[Hypothesis|假设]]检验的论战。[[Brian Holmes|布莱恩·霍姆斯]]等学者批评贝雷迪的四步法过于偏向静态描述与归纳归纳法，难以有效预测教育移植后的社会后果；而后继的[[Harold Noah|诺亚]]与[[Max Eckstein|埃克斯坦]]则进一步主张必须以严格的统计控制和[[Independent Variable|自变量]]/[[Dependent Variable|因变量]]假说检验替代质性描述。
 > >
-> > - **Brian Holmes（1965）** 主张以[[John Dewey|杜威]][[Reflective Thinking|反思性思维]]为基础的演绎问题法更具政策预测力。
+> > - **[[Brian Holmes|Brian Holmes]]（1965）** 主张以[[John Dewey|杜威]][[Reflective Thinking|反思性思维]]为基础的演绎问题法更具政策预测力。
 > > - **Harold Noah & Max Eckstein（1969）** 主张比较教育应走向以经验测量和可检验命题为核心的实证社会科学。
 >
 > > [!axis] 学科合法化叙事与深层历史评传的缺位
