@@ -10,6 +10,10 @@ summary: "运用历史因果考证与跨国情境对照解释教育制度起源�
 type: method
 method_type: qualitative
 method_family: "qualitative"
+method_related_count: 29
+method_related_level: 3
+method_related_stars: "⭐⭐⭐"
+method_related_color: "#dbeafe"
 tags:
   - qualitative-methods
   - comparative-education
@@ -20,30 +24,32 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Epistemology]]"
   - "[[Positivism]]"
-  - "[[Postpositivism]]"
   - "[[Epistemic Stances]]"
+  - "[[Research Question]]"
   - "[[Primary and Secondary Documents]]"
-  - "[[Paradigm]]"
   - "[[Document]]"
+  - "[[Policy Borrowing]]"
+  - "[[Transfer Translation Transformation]]"
+  - "[[Going Native]]"
   - "[[National Character]]"
+  - "[[Construct]]"
+  - "[[Theoretical Perspective]]"
+  - "[[Paradigm]]"
+  - "[[Postpositivism]]"
+  - "[[Independent Variable]]"
   - "[[Educational Meliorism]]"
-  - "[[Bildung]]"
-  - "[[Scientific Method]]"
-related_theories:
-  - "[[Critical Theory]]"
-  - "[[Critical Realism]]"
+  - "[[Comparative History of Comparative Education]]"
+related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
+  - "[[Theoretical Sampling]]"
+  - "[[Mixed Methods Research]]"
+  - "[[Triangulation]]"
   - "[[Case Study]]"
 related_instruments: []
 related_persons:
-  - "[[Andreas Kazamias]]"
-  - "[[Marc-Antoine Jullien]]"
-  - "[[Robert Cowen]]"
-  - "[[Michael Sadler]]"
-  - "[[Isaac Kandel]]"
   - "[[Nicholas Hans]]"
-  - "[[Robert Ulich]]"
+  - "[[Marc-Antoine Jullien]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Kazamias_2009_ForgottenThemes]]"
