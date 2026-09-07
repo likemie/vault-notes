@@ -118,7 +118,7 @@ updated: 2026-09-06
 > | 样本层面 | 构成 |
 > |----------|------|
 > | **经典[[Document\|文献]]样本** | 聚焦 Noah & Eckstein (1969)《走向比较教育科学》、Bereday (1964)《教育中的比较方法》、[[Michael Sadler\|Michael Sadler]]（Sadler, 1964/1900）经典演讲文本。 |
-> | **参照学科样本** | 涵盖 William Dalrymple (2007) 莫卧儿帝国史、Arthur Herman (2006) 苏格兰启蒙运动史、Norman Davies (1997) 与 Tony Judt (2007) 欧洲史，以及 Randall Collins (1998)《哲学社会学》、Robert W. Friedrichs (1970)《社会学之社会学》、James R. Bartholomew (1989) 日本现代科学建制史。 |
+> | **参照学科样本** | 涵盖 William Dalrymple (2007) 莫卧儿帝国史、Arthur Herman (2006) 苏格兰[[Enlightenment\|启蒙运动]]史、Norman Davies (1997) 与 Tony Judt (2007) 欧洲史，以及 Randall Collins (1998)《哲学社会学》、Robert W. Friedrichs (1970)《社会学之社会学》、James R. Bartholomew (1989) 日本现代科学建制史。 |
 > | **考察人物与传统** | 涵盖[[Isaac Kandel\|艾萨克·坎德尔]]（Isaac Kandel）、[[Joseph Lauwerys\|约瑟夫·劳韦里斯]]（Joseph Lauwerys）、[[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]]（Andreas Kazamias）、多明戈·福斯蒂诺·萨米恩托（Domingo Faustino Sarmiento）、阿尼西奥·特谢拉（Anísio Teixeira），以及隐形女性学者安·德赖兰（Ann Dryland）和哈廷盖夫人（Madame Hattinguais）等。 |
 
 > [!row-contrast] 史学文献密度与资料基础横向对比表
@@ -202,7 +202,7 @@ updated: 2026-09-06
 > | 国家／区域与思想脉络 | 核心历史人物与思想载体 | 支配性的元认识论[[Hypothesis\|假设]]与学术传统 | 现存史学盲区与被遮蔽的历史 |
 > |---|---|---|---|
 > | **美国比较教育传统** | 哥伦比亚大学、芝加哥大学等建制学者 | 深度浸润于结构功能主义（Structural-Functionalism）社会学与现代化理论，追求[[Nomothetic\|通则式]]（Nomothetic）预测与实证测量。 | 对法兰克福学派（Frankfurt School）[[Critical Theory\|批判理论]]（Critical Theory）保持惊人的漠视与排斥，忽视阶级再生产与权力批判。（p.9） |
-> | **英国伦敦学派传统** | 伦敦大学教育学院（Institute of Education, University of London, IOE）与伦敦国王学院（King's College London）文化主义学派 | 1950 年代末至 1960 年代初深受文化主义（Culturalism）支配，其核心特征是对社会学抱有深刻的恐惧与防范。 | 长期以历史与民族性格特质抵制社会学量化与结构分析，但其内部不同学者（如 Lauwerys）态度分化。 |
+> | **英国伦敦学派传统** | 伦敦大学教育学院（Institute of Education, University of London, IOE）与伦敦国王学院（King's College London）文化主义学派 | 1950 年代末至 1960 年代初深受文化主义（Culturalism）支配，其核心特征是对社会学抱有深刻的恐惧与防范。 | 长期以历史与[[National Character\|民族性格]]特质抵制社会学量化与结构分析，但其内部不同学者（如 Lauwerys）态度分化。 |
 > | **拉丁美洲经验** | 阿根廷 Sarmiento；巴西 Teixeira | 深度嵌入国家建设、世俗教育与民主化实践，具有极强的务实比较与跨国反思取向。 | 印刷出版物中至今不存在系统性的阿根廷或巴西比较教育史，仅存期刊中的零星提示。（pp.8–9） |
 > | **欧洲大陆传统** | 法国、德国、意大利诸国独立脉络；沃尔夫冈·米特尔（Wolfgang Mitter）探索 | 法国[[Rationalism in International Relations\|理性主义]]行政考察、德国精神科学与历史学传统、意大利民族国家构建。 | 各国史料各自分立，至今从未被真正以横向对照的方式加以综合，缺少跨国比较整合。 |
 > | **被边缘化的女性学者** | Ann Dryland（英国 IOE 比较教育研究者）、Madame Hattinguais（法国） | 在机构初创、国际交流、教学实践与学术网络联结中承担了关键实质性工作。 | 她们真实地存在于历史之中，却在所有现存的学科正史与英雄谱系中集体被隐形。 |

@@ -21,7 +21,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Bildung]]"
   - "[[Positivism]]"
-  - "[[National Character in Comparative Education]]"
+  - "[[National Character]]"
   - "[[Epistemology]]"
   - "[[Hypothesis]]"
   - "[[Paradigm]]"
@@ -86,7 +86,7 @@ updated: 2026-09-07
 
 > [!timeline] 生平与职涯
 > - **1950年代** 赴美留学，在哈佛大学师从著名德裔教育哲学家与文化史学家[[Robert Ulich|罗伯特·乌利希]]（Robert Ulich），接受深厚的古典[[Bildung|教化]]（Paideia）与思想史学术熏陶并获博士学位。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 52)]]
-> - **1960年代–1970年代** 长期任教于威斯康星大学麦迪逊分校，任比较教育学与教育政策教授；在学科[[Positivism|实证主义]]大转型时期发表系列方法论专论，既对[[Isaac Kandel|艾萨克·坎德尔]]（Isaac Kandel）的辉格史观与[[National Character in Comparative Education|国民性]]进行反思，又坚决反击[[Harold Noah|哈罗德·诺亚]]（Harold Noah）、[[Max Eckstein|马克斯·埃克斯坦]]（Max Eckstein）与布赖恩·霍姆斯（Brian Holmes）的狭隘实证主义，捍卫[[Historical-Comparative Method|历史比较法]]。
+> - **1960年代–1970年代** 长期任教于威斯康星大学麦迪逊分校，任比较教育学与教育政策教授；在学科[[Positivism|实证主义]]大转型时期发表系列方法论专论，既对[[Isaac Kandel|艾萨克·坎德尔]]（Isaac Kandel）的辉格史观与[[National Character|国民性]]进行反思，又坚决反击[[Harold Noah|哈罗德·诺亚]]（Harold Noah）、[[Max Eckstein|马克斯·埃克斯坦]]（Max Eckstein）与布赖恩·霍姆斯（Brian Holmes）的狭隘实证主义，捍卫[[Historical-Comparative Method|历史比较法]]。
 > - **1965** 与哈佛同门保罗·纳什（Paul Nash）、亨利·珀金森（Henry Perkinson）联合主编出版文集《受过教育的人》（*The Educated Man*），向导师乌利希致敬。
 > - **2001** 获选为[[Comparative Education Society in Europe|欧洲比较教育学会]]荣誉会员，表彰其在跨大西洋与跨欧洲比较教育学术共同体建设中的持久贡献。
 > - **2009** 与[[Robert Cowen|罗伯特·考恩]]共同主编《比较教育学国际手册》（*International Handbook of Comparative Education*），主持并撰写学科创建与再造板块的多篇关键篇章，系统确立未来重塑过去的比较史学[[Epistemology|认识论]]。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, pp. 7–10)]]
@@ -170,7 +170,7 @@ updated: 2026-09-07
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Historical-Philosophical-Cultural Motif]] | 概念 | 系统梳理[[Michael Sadler\|萨德勒]]、[[Isaac Kandel\|坎德尔]]、[[Nicholas Hans\|汉斯]]与[[Robert Ulich\|乌利希]]的思想谱系，重构历史人文主义母题的现代价值。 |
-> | [[National Character in Comparative Education]] | 概念 | 从史学严谨性视角批判国民性[[Construct\|构念]]的同义反复与证据虚妄。 |
+> | [[National Character]] | 概念 | 从史学严谨性视角批判国民性[[Construct\|构念]]的同义反复与证据虚妄。 |
 > | [[Historical-Comparative Method]] | 方法 | 论证历史经验研究由特殊归纳工作[[Hypothesis\|假设]]的正当性，捍卫广义人文科学的[[Epistemology\|认识论]]尊严。 |
 > | [[Comparative History of Comparative Education]] | 概念 | 主编 2009 手册创建卷，确立每一代人必须重写其历史的历史诠释学基石。 |
 > | [[Four Forms of Understanding of Comparative Education]] | 概念 | 归属于求同存异传统，以历史与情境为核心代码解释教育体系的多样性。 |

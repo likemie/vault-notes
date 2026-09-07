@@ -22,7 +22,7 @@ related_concepts:
   - "[[Cross-National Attraction]]"
   - "[[Realism in International Relations]]"
   - "[[Ontology]]"
-  - "[[National Character in Comparative Education]]"
+  - "[[National Character]]"
   - "[[Policy Borrowing]]"
   - "[[Historical-Philosophical-Cultural Motif]]"
   - "[[Creativity]]"
@@ -85,7 +85,7 @@ updated: 2026-09-07
 ## 生平与职涯
 
 > [!timeline] 生平与职涯
-> - **1861** **古典人文教养与健全人格理想** 出生于英国约克郡巴恩斯利（Barnsley），先后就读于拉格比公学与牛津大学三一学院，深沐 19 世纪英国古典文学与人文学术训练。这段学养确立了其教育哲学的核心信条：坚持中等教育的根本使命首先在于通过鲜活的人文学科教学实现人的教化，其次才是传授适应现实生活的实践效能。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 1966: 140–141; 2009: 43)]]
+> - **1861** **古典人文[[Bildung|教养]]与健全人格理想** 出生于英国约克郡巴恩斯利（Barnsley），先后就读于拉格比公学与牛津大学三一学院，深沐 19 世纪英国古典文学与人文学术训练。这段学养确立了其教育哲学的核心信条：坚持中等教育的根本使命首先在于通过鲜活的人文学科教学实现人的教化，其次才是传授适应现实生活的实践效能。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 1966: 140–141; 2009: 43)]]
 > - **1880年代初** **牛津唯心主义浸润与积极自由伦理观** 在牛津大学深受托马斯·希尔·格林（T. H. Green）开创的新[[Immanuel Kant|康德]]主义与新[[Georg Wilhelm Friedrich Hegel|黑格尔]]主义“牛津唯心主义”哲学浸润（格林被誉为自纽曼红衣主教以来牛津最具影响力的导师），与 F. H. 布拉德利、伯纳德·鲍桑葵等学者共同确立积极自由伦理观；将主权国家定位为在社会文化领域承担积极道德干预职能的正当行动者，促使萨德勒偏离维多利亚放任主义，坚定探索个人主义与社会主义之间的中间道路。[[Argument_Kazamias_2009_ForgottenThemes|(Sadler, 1898: 95; Kazamias, 2009: 43–44)]]
 > - **1884** **发起大学推广运动与平民精神教化** 发起并领导牛津大学推广运动（University Extension），推动高等学术资源走向劳工阶层与地方民众；正如史学家布赖恩·西蒙（Brian Simon）评价，萨德勒等学者坚信教育本身即是善，校外教学能使劳动者的生命精神化，帮助他们超脱物质生存的暂时性劳碌，以实际行动践行新自由主义的平权关怀。[[Argument_Kazamias_2009_ForgottenThemes|(Simon, 1965: 305; Kazamias, 2009: 44)]]
 > - **1894–1895** **主持皇家布莱斯委员会起草中等教育蓝图** 出任全英皇家中等教育委员会（Bryce Commission，布莱斯委员会）核心委员，并作为公认的主笔起草了里程碑式的委员会总报告，为 1902 年《巴尔福教育法》与现代地方公立中等教育体系的法定诞生奠定了顶层设计蓝图。
@@ -113,7 +113,7 @@ updated: 2026-09-07
 >   - **阶段特征** 探索带有强烈的[[Realism in International Relations|现实主义]]地缘政治底色，旨在通过系统研究德国职业教育和实科学校，为英国公共教育系统注入竞争活力，巩固国家竞争地位。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 420)]]
 > - **1900–1943 — 历史[[Situative Perspective|情境主义]]、无形精神力量[[Ontology|本体论]]与新自由主义中道** 这一阶段系统反思政策移植的技术主义幻觉，将唯心主义哲学与宏阔的一线调查经验彻底合流。
 >   - **代表著作** 1900 年吉尔福德演讲：《我们能从外国教育系统的研究中获得多少有实践价值的启示？》（*How far can we learn anything of practical [[VALUE Rubrics|VALUE]] from the study of foreign systems of education?*）；1902 年《德国与其他地区中等教育的动荡》（*The Unrest in Secondary Education in Germany and Elsewhere*）。
->   - **关键概念** 情境不可移植性、外部力量与因素（Forces and factors outside the school）、无形精神力量（Intangible spiritual forces）、[[National Character in Comparative Education|国民性格]]。
+>   - **关键概念** 情境不可移植性、外部力量与因素（Forces and factors outside the school）、无形精神力量（Intangible spiritual forces）、[[National Character|国民性格]]。
 >   - **阶段转向** 从[[Policy Borrowing|政策借用]]的推动者转向借用可行性的深度怀疑与情境边界界定。他警示校外的事情比校内的事情更为重要，确立以历史和文化为中介的[[Historical-Philosophical-Cultural Motif|历史-哲学-文化母题]]，并在哲学上确立了个人自由与国家干预相平衡的新自由主义中间道路。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 43–45)]]
 
 ---
@@ -146,7 +146,7 @@ updated: 2026-09-07
 上述哲学反思与一线调查实践在 1900 年吉尔福德演讲中形成合流，提炼出具有里程碑意义的方法论警句与引文。
 
 > [!citation-card] 维系学校体系的无形精神力量与民族有机体
-> 教育不仅是学校或书本知识之事。因此，若我们要研究外国教育系统……就必须探求在任何成功的教育系统中究竟何种无形的、不可捉摸的精神力量在真正维系着学校系统并决定其实际效能……国家教育系统是一个活生生的有机体，是昔日被遗忘的艰难抗争与战火的结晶。它蕴含着民族生活的隐秘运作；它既反映又试图救治[[National Character in Comparative Education|国民性格]]的缺陷。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 40, 44)]]；引自 Sadler (1900/1964:309–310)
+> 教育不仅是学校或书本知识之事。因此，若我们要研究外国教育系统……就必须探求在任何成功的教育系统中究竟何种无形的、不可捉摸的精神力量在真正维系着学校系统并决定其实际效能……国家教育系统是一个活生生的有机体，是昔日被遗忘的艰难抗争与战火的结晶。它蕴含着民族生活的隐秘运作；它既反映又试图救治[[National Character|国民性格]]的缺陷。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 40, 44)]]；引自 Sadler (1900/1964:309–310)
 >
 > *Education is not a matter of schools or book learning alone. Therefore, if we propose to study foreign systems of education... we must also... try to find out what is the intangible, impalpable, spiritual force which, in the case of any successful system of Education, is in reality upholding the school system and accounting for its practical efficiency... A national system of education is a living thing, the outcome of forgotten struggles and difficulties, and 'of battles long ago.' It has in it some of the secret workings of national life. It reflects, while seeking to remedy, the failings of national character.*
 
@@ -233,7 +233,7 @@ updated: 2026-09-07
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Historical-Philosophical-Cultural Motif]] | 概念 | 开创以校外无形精神力量与活体有机体为核心的历史-文化研究母题。 |
-> | [[National Character in Comparative Education]] | 概念 | 将国民性格作为解释国家教育制度独特性与内在效能的深层依据。 |
+> | [[National Character]] | 概念 | 将国民性格作为解释国家教育制度独特性与内在效能的深层依据。 |
 > | [[Historical-Comparative Method]] | 方法 | 确立历史演化与深层文化考据优于纯统计数字调查的方法论传统。 |
 > | [[Policy Borrowing]] | 概念 | 首次系统提出情境不可移植假说，奠定了反机械化借用的规范方法论边界。 |
 > | [[Cross-National Attraction]] | 概念 | 指出国家工业实力竞争构成了向他者学习和跨国政策吸引的核心地缘心理机制。 |
