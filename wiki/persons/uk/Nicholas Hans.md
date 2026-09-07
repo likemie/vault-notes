@@ -4,7 +4,8 @@ aliases:
   - Hans, N.
   - Nicholas A. Hans
   - 尼古拉斯·汉斯
-  - 汉斯
+  - N. A. Hans
+  - N. Hans
 summary: "俄裔英国比较教育学家，伦敦大学国王学院读者，提出系统解释国家教育体系的三维因素分析框架（自然、宗教与世俗因素），主张比较教育作为应用性广义人文科学"
 type: person
 nationality: uk

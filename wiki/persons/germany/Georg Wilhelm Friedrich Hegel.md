@@ -2,7 +2,7 @@
 title: Georg Wilhelm Friedrich Hegel
 aliases:
   - 黑格尔
-  - Hegel
+  - G. W. F. Hegel
 summary: "19世纪德国唯心主义哲学家。在教育研究（特别是批判性课程研究）中，其思想常被作为传统理性主义与国家主义教育的象征（即“黑格尔式教化”），强调通过理性的“辩证否定”来规训个体情感，最终使学生融入市民社会与国家秩序。"
 type: person
 nationality: germany

@@ -4,7 +4,8 @@ aliases:
   - Noah, H. J.
   - Harold J. Noah
   - 哈罗德·诺亚
-  - 诺亚
+  - H. J. Noah
+  - H. Noah
 summary: "哥伦比亚大学师范学院经济学与教育学讲座教授、院长，CIES 前会长（1976–1977），与 Max Eckstein 合著《走向比较教育科学》（1969），奠定比较教育学实证量化与假说检验科学范式。"
 type: person
 nationality: us

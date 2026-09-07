@@ -2,8 +2,8 @@
 title: Louis Cohen
 aliases:
   - 路易斯·科恩
-  - 科恩
   - Cohen, L.
+  - L. Cohen
 summary: "英国教育研究方法学者，与 Manion、Morrison 合著《Research Methods in Education》，该书是教育研究方法领域的综合性教材"
 type: person
 nationality: uk

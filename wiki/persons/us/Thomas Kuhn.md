@@ -38,7 +38,6 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Quantitative Research]]"
 related_persons:
-  - "[[Deanna Kuhn]]"
   - "[[Aristotle]]"
   - "[[Louis Cohen]]"
   - "[[Karl Popper]]"
@@ -49,7 +48,7 @@ related_arguments:
   - "[[Argument_Mattheou_2009_ScientificParadigm]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 confidence: high
-status: draft
+status: active
 created: 2026-06-13
 updated: 2026-09-07
 ---
@@ -65,7 +64,7 @@ updated: 2026-09-07
 > - **核心角色** 颠覆逻辑[[Positivism|实证主义]]与线性积累主义科学观的“[[Paradigm|范式]]理论”奠基人；将科学发展阐释为常规科学、异常积累、危机爆发与科学革命的历史演进周期，确立了学术共同体与[[Incommensurability|不可通约性]]在[[Knowledge Production|知识生产]]中的核心地位。
 > - **代表贡献** 提出[[Paradigm|范式]]（Paradigm）与范式转换（Paradigm Shift）概念；系统论证[[Incommensurability|不可通约性]]；提出由目标、理论、规则与工具构成的范式四维框架，深刻启发了包括[[Scientific Paradigm|科学范式]]在内的比较教育学方法论反思。
 
-> [!citation-card]- [[Deanna Kuhn|库恩]]论既有范式的顽固性与学术惯性
+> [!citation-card] 库恩论既有范式的顽固性与学术惯性
 > 既有范式绝不会自愿消亡。总有人会依恋旧范式，尤其是那些曾经极佳地服务于利益相关者的范式。在面临新危机时，学术共同体往往展现出深刻的范式惯性。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 61, 69; Kuhn, 1970, p. 19)]]
 >
 > *No paradigm that has once achieved the status of paradigm ever surrenders easily... Some will cling to the old paradigm, especially those who were well served by it...*
@@ -108,7 +107,7 @@ updated: 2026-09-07
 > [!claim] 核心主张
 > 科学的发展绝非渐进累积的线性真理逼近，而是常规科学与科学革命交替演进的历史过程。科学研究始终镶嵌在特定学者共同体所共享的[[Paradigm|范式]]之中，范式规范了研究的主题、理论典范、操作规则与测量技术；当经验异常积累引发危机时，新范式将推翻旧范式确立新的常规科学；由于不同范式之间存在[[Incommensurability|不可通约性]]，范式竞争不仅取决于纯粹证据，更深嵌于学术共同体的社会认同与权力合法化之中。
 
-> [!citation-card] 范式的多维内涵与[[Deanna Kuhn|库恩]]式四维构件
+> [!citation-card] 范式的多维内涵与库恩式四维构件
 > 库恩将范式定义为一种被学术共同体接受的模型或模式，它包含看待现象的世界观、对研究什么及如何研究的共识、典型的解谜方案以及共享的原则集合；具体展现为四个互联的构件：研究目标与主题、理论框架与典范实践、研究规则与规范标准，以及应用技术与测量工具。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1; Mattheou, 2009, p. 61)]]
 >
 > *A paradigm is an accepted model or pattern... encompassing a way of looking at phenomena, a shared belief system, the consensus on what and how to research, and exemplary problem solutions.*
@@ -130,7 +129,7 @@ updated: 2026-09-07
 > [!influence-path] 影响路径
 > - **理论路径** 彻底终结了逻辑[[Positivism|实证主义]]的教条，催生了科学知识社会学（SSK）、爱丁堡学派强纲领与[[Constructivist Paradigm|社会建构主义]][[Epistemology|认识论]]；
 > - **方法路径** 为人文社会科学提供了“[[Paradigm|范式]]”这一核心元理论工具，使教育研究者意识到[[Qualitative Research|质性研究]]与[[Quantitative Research|量化研究]]并非单纯技术差异，而是扎根于不同的认识论范式；
-> - **跨学科应用（比较教育学）** 战后比较教育学家（如 Mattheou, 2009）系统运用[[Deanna Kuhn|库恩]]的范式理论与四维构件模型，深入剖析了 1950–1970 年代“[[Scientific Paradigm|科学范式]]”对古典历史主义的清洗、内部三大派别在法则与目标上的认识论争鸣，以及实证量化范式与现代国家规划体制结盟的学术合法化机制。
+> - **跨学科应用（比较教育学）** 战后比较教育学家（如 Mattheou, 2009）系统运用库恩的范式理论与四维构件模型，深入剖析了 1950–1970 年代“[[Scientific Paradigm|科学范式]]”对古典历史主义的清洗、内部三大派别在法则与目标上的认识论争鸣，以及实证量化范式与现代国家规划体制结盟的学术合法化机制。
 
 > [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 系统阐述库恩范式理论、科学革命四阶段演进以及[[Incommensurability|不可通约性]]概念在教育研究方法论中的基石作用。
@@ -140,7 +139,7 @@ updated: 2026-09-07
 
 ## 历史评价
 
-> [!citation-card] [[Louis Cohen|科恩]]等论[[Deanna Kuhn|库恩]]对教育研究方法论[[Paradigm|范式]]图谱的奠基
+> [!citation-card] [[Louis Cohen|科恩]]等论库恩对教育研究方法论[[Paradigm|范式]]图谱的奠基
 > 托马斯·库恩以其开创性著作《科学革命的结构》深刻改变了人们对科学发展与研究方法的理解。自他提出范式概念以来，教育研究的方法论取向一直被理解为栖息于不同的范式与学者共同体之中，揭示了学术探究所具有的深层社会性与制度权力属性。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1)]]
 >
 > *Thomas Kuhn transformed our understanding of the development of science and research methodology... Since his pioneering work, methodological orientations in educational research have been understood as residing within distinct paradigms and communities of scholars.*
@@ -155,7 +154,7 @@ updated: 2026-09-07
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **论辩同行 / 哲学家** [[Karl Popper]] — 围绕常规科学的性质、科学革命与[[Falsification|证伪主义]]展开著名的“波普尔-[[Deanna Kuhn|库恩]]大论战”；
+> - **论辩同行 / 哲学家** [[Karl Popper]] — 围绕常规科学的性质、科学革命与[[Falsification|证伪主义]]展开著名的“波普尔-库恩大论战”；
 > - **科学哲学继承与争鸣** 保罗·费耶阿本德（Paul Feyerabend）、伊姆雷·拉卡托斯（Imre Lakatos）— 激化或修正[[Incommensurability|不可通约性]]与科学研究纲领理论；
 > - **教育研究与比较教育应用** [[Brian Holmes]]、[[Andreas Kazamias]]、迪米特里斯·马修（Dimitris Mattheou）— 将[[Paradigm|范式]]理论引入跨国教育研究与学科史方法论反思。
 
@@ -163,7 +162,7 @@ updated: 2026-09-07
 
 ## 争议与批评
 
-> [!debates] 围绕[[Deanna Kuhn|库恩]][[Paradigm|范式]]理论的学术争鸣
+> [!debates] 围绕库恩[[Paradigm|范式]]理论的学术争鸣
 >
 > > [!axis] 范式转换的理性判准 vs 相对主义危机
 > > 争论焦点在于范式转换究竟是受理性原则支配的认知进步，还是类似于宗教皈依的社会心理现象。

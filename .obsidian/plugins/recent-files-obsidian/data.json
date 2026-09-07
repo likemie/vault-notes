@@ -5,6 +5,26 @@
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Mattheou_2009_ScientificParadigm.md"
     },
     {
+      "basename": "Rationalism in International Relations",
+      "path": "wiki/concepts/comparative-education/Rationalism in International Relations.md"
+    },
+    {
+      "basename": "Bildung",
+      "path": "wiki/concepts/educational-philosophy/Bildung.md"
+    },
+    {
+      "basename": "General Education",
+      "path": "wiki/concepts/educational-philosophy/General Education.md"
+    },
+    {
+      "basename": "René Descartes",
+      "path": "wiki/persons/france/René Descartes.md"
+    },
+    {
+      "basename": "Matthew Arnold",
+      "path": "wiki/persons/uk/Matthew Arnold.md"
+    },
+    {
       "basename": "Philip Foster",
       "path": "wiki/persons/us/Philip Foster.md"
     },
@@ -137,16 +157,8 @@
       "path": "wiki/persons/us/Robert Ulich.md"
     },
     {
-      "basename": "Matthew Arnold",
-      "path": "wiki/persons/uk/Matthew Arnold.md"
-    },
-    {
       "basename": "Whiggism",
       "path": "wiki/concepts/comparative-education/Whiggism.md"
-    },
-    {
-      "basename": "Bildung",
-      "path": "wiki/concepts/educational-philosophy/Bildung.md"
     },
     {
       "basename": "Isaac Kandel",
@@ -187,18 +199,6 @@
     {
       "basename": "Michael Sadler",
       "path": "wiki/persons/uk/Michael Sadler.md"
-    },
-    {
-      "basename": "Historical-Comparative Method",
-      "path": "wiki/methods/qualitative/Historical-Comparative Method.md"
-    },
-    {
-      "basename": "Positivism",
-      "path": "wiki/concepts/research-methodology/Positivism.md"
-    },
-    {
-      "basename": "Nicholas Hans",
-      "path": "wiki/persons/uk/Nicholas Hans.md"
     }
   ],
   "omittedPaths": [],

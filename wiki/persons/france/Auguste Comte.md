@@ -2,8 +2,8 @@
 title: Auguste Comte
 aliases:
   - 奥古斯特·孔德
-  - 孔德
   - Isidore Marie Auguste François Xavier Comte
+  - A. Comte
 summary: "19世纪法国实证主义哲学家与社会学奠基人，提出知识演进三阶段法则、实证科学分类阶梯与实证政治学，其将自然科学方法移植于人类社会事物的学说深度形塑了现代社会科学与启蒙教育改良构想。"
 type: person
 nationality: "france"

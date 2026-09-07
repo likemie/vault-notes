@@ -3,7 +3,7 @@ title: Jürgen Habermas
 aliases:
   - 尤尔根·哈贝马斯
   - 哈贝马斯
-  - Habermas
+  - J. Habermas
   - Habermas, J.
   - Habermas (1972)
   - Habermas (1976)

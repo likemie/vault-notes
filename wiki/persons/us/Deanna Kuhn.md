@@ -1,8 +1,9 @@
 ---
 title: Deanna Kuhn
 aliases:
-  - 库恩
+  - 迪安娜·库恩
   - Kuhn, D.
+  - D. Kuhn
 summary: "发展心理学家，在批判性思维、论辩推理与认识论理解的领域具有重要影响力。"
 type: person
 nationality: "us"
