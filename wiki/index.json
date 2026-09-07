@@ -436,14 +436,14 @@
     ]
   },
   {
-    "title": "Critical Dualism in Comparative Education",
+    "title": "Critical Dualism",
     "type": "concept",
-    "path": "wiki/concepts/comparative-education/Critical Dualism in Comparative Education.md",
+    "path": "wiki/concepts/comparative-education/Critical Dualism.md",
     "aliases": [
       "批判二元论",
       "比较教育学批判二元论",
       "规范法则与社会学法则",
-      "Critical Dualism",
+      "Critical Dualism in Comparative Education",
       "Normative Laws and Sociological Laws"
     ]
   },
@@ -970,13 +970,14 @@
     ]
   },
   {
-    "title": "Scientific Paradigm in Comparative Education",
+    "title": "Scientific Paradigm",
     "type": "concept",
-    "path": "wiki/concepts/comparative-education/Scientific Paradigm in Comparative Education.md",
+    "path": "wiki/concepts/comparative-education/Scientific Paradigm.md",
     "aliases": [
       "比较教育学科学范式",
       "科学范式",
-      "Scientific Paradigm"
+      "比较教育科学范式",
+      "Scientific Paradigm in Comparative Education"
     ]
   },
   {
@@ -12827,14 +12828,14 @@
     ]
   },
   {
-    "title": "Problem Approach in Comparative Education",
+    "title": "Problem Approach",
     "type": "method",
-    "path": "wiki/methods/qualitative/Problem Approach in Comparative Education.md",
+    "path": "wiki/methods/qualitative/Problem Approach.md",
     "aliases": [
       "问题法",
       "比较教育学问题法",
       "问题解决法",
-      "Problem Approach",
+      "Problem Approach in Comparative Education",
       "Holmes' Problem Approach"
     ]
   },

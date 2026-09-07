@@ -79,7 +79,7 @@ updated: 2026-09-07
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 英国比较教育学家、科学哲学家，伦敦大学教育学院（IOE）比较教育学教授兼系主任（1975–1985），世界比较教育学会联合会（WCCES）前主席。
+> - **身份位置** 英国比较教育学家、科学哲学家，伦敦大学教育学院（Institute of Education, IOE）比较教育学教授兼系主任（1975–1985），世界比较教育学会联合会（World Council of Comparative Education Societies, WCCES）前主席。
 > - **核心角色** 战后比较教育“科学化运动”三大奠基流派之一（问题学派）的领袖；将[[Karl Popper|卡尔·波普尔]]批判[[Rationalism in International Relations|理性主义]]与[[John Dewey|杜威]]反思思维方法论化，将学科重塑为面向未来决策的[[Nomothetic|通则式]]预测与[[Policy Science in Comparative Education|政策科学]]。
 > - **代表贡献** 创立比较教育“[[Problem Solving|问题解决]]法（Problem Approach）”分析程序；提出“批判的二元论（Critical Dualism）”与教育“文化滞后/时代不同步（Asynchrony）”理论；系统批判老派历史学派的回溯性归因与[[George Bereday|贝雷迪]]的经验归纳进路。
 
@@ -95,13 +95,13 @@ updated: 2026-09-07
 > [!timeline] 生平与职涯
 > - **1920** **约克郡出身与物理学实证科学底色** 出生于英格兰约克郡威格顿（Wigton），中学就读于贵格会名校威格顿朋友中学（Friends' School, Wigton）；后考入伦敦大学学院（UCL）攻读物理学，1941 年获理学学士（B.Sc.）学位。这门现代自然科学训练为其日后建构假说-演绎模型、寻求因果普遍法则奠定了[[Positivism|实证主义]]与科学哲学底色。
 > - **1941–1946** **二战期间皇家空军技术军官与雷达气象经历** 二战爆发后应征入伍，在英国皇家空军（RAF）担任雷达与气象技术军官。战时在极端不确定环境中依靠数理模型与数据观测预测空中战局与天气演进的实战历练，塑造了他后来坚信“科学理解的唯一试金石在于成功预测未来而非事后解释过去”的[[Epistemic Stances|认识论立场]]。
-> - **1946–1951** **战后完全中学物理教学与伦敦教育学院转型** 退役后在英格兰多所公立完全中学担任物理学科主任（Physics Master）；1951 年考入伦敦大学教育学院（IOE）攻读教育学研究生文凭（Dip.Ed.），深受比较教育领袖约瑟夫·劳威斯（[[Joseph Lauwerys]]）赏识；在此期间赴伦敦政治经济学院（LSE）系统研修科学哲学，深受[[Karl Popper|卡尔·波普尔]]（[[Karl Popper]]）批判[[Rationalism in International Relations|理性主义]]哲学（[[Falsification|证伪主义]]与反归纳主义）的强烈震撼。
+> - **1946–1951** **战后完全中学物理教学与伦敦教育学院转型** 退役后在英格兰多所公立完全中学担任物理学科主任（Physics Master）；1951 年考入伦敦大学教育学院攻读教育学研究生文凭（Dip.Ed.），深受比较教育领袖约瑟夫·劳威斯（[[Joseph Lauwerys]]）赏识；在此期间赴伦敦政治经济学院（London School of Economics and Political Science, LSE）系统研修科学哲学，深受[[Karl Popper|卡尔·波普尔]]（[[Karl Popper]]）批判[[Rationalism in International Relations|理性主义]]哲学（[[Falsification|证伪主义]]与反归纳主义）的强烈震撼。
 > - **1953–1964** **任教伦敦大学教育学院与合编《世界教育年鉴》** 1953 年受聘为伦敦大学教育学院比较教育学讲师，与劳威斯、[[Nicholas Hans|尼古拉斯·汉斯]]（[[Nicholas Hans]]）共同构筑伦敦比较教育研究中心；长期深度参与主编国际权威年刊《世界教育年鉴》（*The Year Book of Education* / *World Year Book of Education*, 1953–1970），开展跨国教育规划与现代化转型的战略调查。
 > - **1961** **参与创设[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE）** 与劳威斯、佩德罗·罗塞略（Pedro Rosselló）等共同发起创设欧洲比较教育学会（CESE），长期出任学会秘书长与副主席，成为联结战后欧洲与跨大西洋比较教育学术共同体的关键组织枢纽。
 > - **1964** **获伦敦大学哲学博士学位奠定问题法哲学基础** 完成博士学位论文，系统将波普尔的批判二元论、情境逻辑与[[John Dewey|约翰·杜威]]（[[John Dewey]]）的[[Reflective Thinking|反思性思维]]理论相熔铸，奠定“[[Problem Solving|问题解决]]法（Problem Approach）”的理论架构。
 > - **1965** **出版《教育问题：一种比较进路》与跨大西洋方法论围论** 出版方法论里程碑名著《教育问题：一种比较进路》（*Problems in Education: A Comparative Approach*），晋升为伦敦大学比较教育学读者（Reader）。他在书中高调向老派历史学派宣战，断言比较教育必须是一门以[[Nomothetic|通则式]]“预测”为标志的[[Policy Science in Comparative Education|政策科学]]，并对汉斯、[[Isaac Kandel|坎德尔]]的回溯性历史归因发起系统挑战，与[[George Bereday|乔治·贝雷迪]]、[[Harold Noah|哈罗德·诺亚]]、[[Max Eckstein|马克斯·埃克斯坦]]及[[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]展开长达十余年的跨大西洋方法论大论战。[[Argument_Kazamias_2009_ForgottenThemes|(Holmes, 1965: 19–21, 30; Kazamias, 2009: 53–54)]]
 > - **1975–1985** **执掌伦敦大学教育学院比较教育系主任** 接替荣休的劳威斯，荣任伦敦大学教育学院比较教育学正教授兼系主任（Head of Department），全面确立享誉全球的“伦敦问题学派”，培养了遍布英联邦与国际组织的教育决策专家。
-> - **1977–1983** **主政世界比较教育学会联合会（WCCES）推动国际治理** 当选并连任世界比较教育学会联合会（WCCES）主席，深度受聘为联合国教科文组织（UNESCO）、日内瓦[[International Education|国际教育]]局（IBE）与欧洲委员会高级咨询专家，主持撰写《国际教育系统指南》（*International Guide to Education Systems*, 1979）。
+> - **1977–1983** **主政世界比较教育学会联合会（WCCES）推动国际治理** 当选并连任世界比较教育学会联合会（WCCES）主席，深度受聘为联合国教科文组织（United Nations Educational, Scientific and Cultural Organization, UNESCO）、日内瓦国际教育局（International Bureau of Education, IBE）与欧洲委员会高级咨询专家，主持撰写《国际教育系统指南》（*International Guide to Education Systems*, 1979）。
 > - **1981** **出版《比较教育：方法论的若干思考》深化分析模型** 出版方法论专著《比较教育：方法论的若干思考》（*Comparative Education: Some Considerations of Method*），系统完善涵盖规范模式、体制模式、精神模式与自然环境模式的四维理想类型，深化“文化滞后”与“时代不同步（Asynchrony）”[[Analytic Framework|分析框架]]。
 > - **1985** **从伦敦大学教育学院荣休** 正式卸任教职与系主任职务。
 > - **1993** **逝世于伦敦与政策科学传统定评** 逝世于英国伦敦，享年 73 岁。[[Robert Cowen|罗伯特·考恩]]（[[Robert Cowen]]）高度评价其学术生涯，称其为 1960 年代[[Ontology|本体论]]大论战的中流砥柱，奠定了比较教育作为预测性政策科学的坚实基石。[[Argument_Cowen_2023_CE|(Cowen, 2023, pp. 328, 333)]]
@@ -152,7 +152,7 @@ updated: 2026-09-07
 
 > [!influence-path] 影响路径
 > - **理论路径** 与[[George Bereday|贝雷迪]]（Bereday）、[[Harold Noah|诺亚]]（Noah）与[[Max Eckstein|埃克斯坦]]（Eckstein）共同确立战后比较教育社会科学化、[[Policy Science in Comparative Education|政策科学]]化的主流[[Paradigm|范式]]；
-> - **方法路径** 确立了“问题分析—模式建构—因果预测”的演绎[[Problem Approach in Comparative Education|问题法]]，使跨国比较摆脱了无反思的经验白描与静态因素列举；
+> - **方法路径** 确立了“问题分析—模式建构—因果预测”的演绎[[Problem Approach|问题法]]，使跨国比较摆脱了无反思的经验白描与静态因素列举；
 > - **政策路径** 深度影响了英联邦、UNESCO 与 IBE 的教育规划专家培训，成为[[International Education|国际教育]]顾问制定政策可行性方案的标准分析工具；
 > - **史料评价** 破除实证派对早期发端的傲慢偏见，高度肯定[[Henry Barnard|亨利·巴纳德]]（Henry Barnard）编纂世界教育百科全书的历史贡献。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 32–33; Holmes, 1965)]]
 
@@ -177,7 +177,7 @@ updated: 2026-09-07
 > *Holmes's critique of historical comparative education challenged its retrospective orientation, posing the formidable demand that comparative study must demonstrate predictive power for future policy action.*
 
 > [!citation-card] 马修论霍姆斯对历史学派与实证社会科学的综合
-> 迪米特里斯·马修指出，霍姆斯在批判二元论框架下运用跨国规范模式（柏拉图、马克思、杜威）以及国家层面的心理状态模式（萨德勒所谓的活的精神与国民性格），既对美国实证派肤浅的变量操作化和去情境化提出了尖锐反思，也在很大程度上满足了卡扎米亚斯关于“综合历史与社会科学”的学术追求。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 66–67)]]
+> 迪米特里斯·马修（Dimitris Mattheou）指出，霍姆斯在批判二元论框架下运用跨国规范模式（柏拉图、马克思、杜威）以及国家层面的心理状态模式（萨德勒所谓的活的精神与国民性格），既对美国实证派肤浅的变量操作化和去情境化提出了尖锐反思，也在很大程度上满足了卡扎米亚斯关于“综合历史与社会科学”的学术追求。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 66–67)]]
 >
 > *Reflecting perhaps the influence of the English (and European) humanistic tradition in comparative education, the problem-solving approach reserved a place for history... Thus, in a way, the Holmesian scientific approach came, in my judgement, closer to satisfying Kazamias appeal for a synthesis of history and social science.*
 

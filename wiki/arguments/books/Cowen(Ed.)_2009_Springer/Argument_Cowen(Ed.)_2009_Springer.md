@@ -122,7 +122,7 @@ updated: 2026-09-07
 > [!volume-structure] 全书结构
 > - **Section 1 / Ch. 01–10 — 学科的创建与再造（The Creation and Re-creation of a [[Champ|field]]）** 反思学科起源神话、现代主义源头、科学[[Paradigm|范式]]、国家理论、世界体系分析与欧洲传统。（pp.3–157）
 > - **Section 2 / Ch. 11–20 — 政治形态与教育系统（Political Formations and Educational Systems）** 考察帝国主义与殖民遗产、民族国家建构、希腊/意大利国家形态、后社会主义转型与欧盟话语。（pp.161–334）
-> - **Section 3 / Ch. 21–30 — 民族、国际与全球（The National, The International, and The Global）** 审视教育转移、流动与移民、原教旨与世俗主义、世界性、多元文化教育、国际发展教育以及 [[OECD]] 与多边银行。（pp.337–495）
+> - **Section 3 / Ch. 21–30 — 民族、国际与全球（The National, The International, and The Global）** 审视教育转移、流动与移民、原教旨与世俗主义、世界性、多元文化教育、国际发展教育以及[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）与多边银行。（pp.337–495）
 > - **Section 4 / Ch. 31–40 — 工业化、[[Knowledge-Based Economy|知识经济]]与教育（Industrialisation, Knowledge Economies and Education）** 分析公共教育分层、职业教育、评估国家（Evaluative State）、欧洲高教区重构、亚太市场化与[[Network Society|网络社会]]。（pp.499–650）
 > - **Section 5 / Ch. 41–50 — 后殖民主义（Postcolonialism）** 深入探讨[[Post-colonial Theory|后殖民理论]]、次撒哈拉非洲、性别与暴力、人权局限与社会正义。（pp.653–806）
 > - **Section 6 / Ch. 51–60 — 文化、知识与教学法（Cultures, Knowledge and Pedagogies）** 探索儒家、印度教、伊斯兰教与基督教文化在现代性中的知识形态，反省课程与可持续教学变革。（pp.809–973）
@@ -163,7 +163,7 @@ updated: 2026-09-07
 >   - Ch. 02 [[Argument_Cowen_2009_HistoryCreation]]。Cowen 在该章系统诊断学科史编纂的三重困境，提倡建立 [[Comparative History of Comparative Education|比较教育学的比较史]]。
 >   - Ch. 03 [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]。Kaloyannaki 与 Kazamias 深入解构比较教育学的现代主义发端，辨析[[Marc-Antoine Jullien|马克-安托万·朱利安]]（Marc-Antoine Jullien）的准[[Proto-Scientific Motif|科学人道主义母题]]与[[Victor Cousin|维克多·库森]]（Victor Cousin）、[[Horace Mann|霍勒斯·曼]]（Horace Mann）等人的政策导向行政[[Educational Meliorism|改良主义]]母题，揭示借用作为政治合法化依据的机制。
 >   - Ch. 04 [[Argument_Kazamias_2009_ForgottenThemes]]。Kazamias 系统挖掘[[Michael Sadler|迈克尔·萨德勒]]（Michael Sadler）、[[Isaac Kandel|艾萨克·坎德尔]]（Isaac Kandel）、[[Nicholas Hans|尼古拉斯·汉斯]]（Nicholas Hans）与[[Robert Ulich|罗伯特·乌利希]]（Robert Ulich）等学者开创的历史-哲学-文化与自由人文主义母题，阐明其广义人文科学定位、[[National Character|国民性格]]分析[[Construct|构念]]与历史改良主义底色，并借由[[Crane Brinton|克莱恩·布林顿]]（Crane Brinton）的有限工作[[Hypothesis|假设]]归纳法为[[Historical-Comparative Method|历史比较法]]确立现代合法性。
->   - Ch. 05 [[Argument_Mattheou_2009_ScientificParadigm]]。Mattheou 系统剖析 20 世纪下半叶比较教育学科学范式的兴衰，辨析芝加哥学派（Anderson, Foster）的恒常制度规律、哥大学派（Noah, Eckstein）的变量函数共变与伦敦学派（Holmes）基于批判二元论的权变社会学法则及预测划界标准，揭示实证量化模式作为战后国家规划合法化工具（alibi）的政治共谋，并阐明其在现实危机、量子不确定性与后现代思潮冲击下向“复数比较教育学”的多元解体。
+>   - Ch. 05 [[Argument_Mattheou_2009_ScientificParadigm]]。Mattheou 系统剖析 20 世纪下半叶比较教育学科学范式的兴衰，辨析芝加哥学派（安德森、福斯特）的恒常制度规律、哥大学派（诺亚、埃克斯坦）的变量函数共变与伦敦学派（霍姆斯）基于批判二元论的权变社会学法则及预测划界标准，揭示实证量化模式作为战后国家规划合法化工具（alibi）的政治共谋，并阐明其在现实危机、量子不确定性与后现代思潮冲击下向“复数比较教育学”的多元解体。
 > - **优先处理章节** Ch. 01（联合导论）、Ch. 10（历史反思）、Ch. 21（导论）、Ch. 61（新思维导论）、Ch. 79 与 Ch. 80（全书收束与结论）。
 > - **可暂缓章节** 专门聚焦特定国家微观细部、与全书主干理论[[Dialogue in Education|对话]]相对松散的案例章节。
 > - **缺口提醒** 目前已完成 Ch. 02、Ch. 03、Ch. 04 与 Ch. 05，系统夯实了学科发端期准科学、行政借用、历史人文以及战后科学化运动全景，第一板块方法论奠基与范式论争的主干框架已大体成型，亟需推进各板块导引章与重点理论章以充实全书结构认知。

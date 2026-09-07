@@ -65,7 +65,7 @@ updated: 2026-09-07
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 美籍英裔比较教育学家、教育经济学家，哥伦比亚大学[[Normal School|师范学院]]（Teachers College, Columbia University）经济学与教育学讲座教授、前院长，[[Comparative and International Education Society|比较与国际教育学会]]（CIES）前会长（1976–1977）。
+> - **身份位置** 美籍英裔比较教育学家、教育经济学家，哥伦比亚大学[[Normal School|师范学院]]（Teachers College, Columbia University）经济学与教育学讲座教授、前院长，[[Comparative and International Education Society|美国比较与国际教育学会]]（Comparative and International Education Society, CIES）前会长（1976–1977）。
 > - **核心角色** 20 世纪下半叶比较教育学[[Positivism|实证主义]]与科学化[[Paradigm|范式]]（Scientific Paradigm）的核心旗手；与[[Max Eckstein|马克斯·埃克斯坦]]（Max Eckstein）组[[Growth|成长]]期合作的学术双子星，系统推动学科从历史-哲学定性描述向跨国定量测量与假说检验转型。
 > - **代表贡献** 与 Eckstein 合著《走向比较教育科学》（*Toward a Science of Comparative Education*, 1969），以清晰严密的逻辑勾勒学科源流，确立跨国实证科学规范；推动教育经济学与量化评价融入比较教育核心议程。
 
@@ -79,7 +79,7 @@ updated: 2026-09-07
 ## 生平与职涯
 
 > [!timeline] 生平与职涯
-> - **1925** 出生于英国伦敦。早年在英国接受[[Normal School|师范教育]]与经济学训练，后在伦敦经济学院（LSE）深造。
+> - **1925** 出生于英国伦敦。早年在英国接受[[Normal School|师范教育]]与经济学训练，后在伦敦政治经济学院（London School of Economics and Political Science, LSE）深造。
 > - **1964** 获得哥伦比亚大学博士学位，博士论文聚焦苏联教育经济与教育财政。随后留校任教，开创比较教育经济学方向。
 > - **1969** 与 [[Max Eckstein]] 共同出版里程碑式专著《走向比较教育科学》（*Toward a Science of Comparative Education*），将历史学派判定为前科学阶段，全面确立比较教育实证科学化[[Paradigm|范式]]。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, p. 7)]]；[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 53–54)]]
 > - **1969–1975** 与 Eckstein 进一步主编《比较教育的科学调查》（*Scientific Investigations in Comparative Education*），将跨国定量与统计技术具体[[Operationalization|操作化]]。
@@ -152,7 +152,7 @@ updated: 2026-09-07
 > *Noah and Eckstein, in their often-cited text Toward a Science of Comparative Education (1969), noted critically that 'their conclusions rely largely on the private insights of their authors, not only regarding which categories are valid and which data are relevant, but also on the matter of what quantity and quality of evidence constitute proof of a particular assertion'... What appeared in Kandel's work as persuasive conclusion are in fact important [[Hypothesis|hypotheses]] remaining open for testing... They were primarily intellectuals intent on explanation, rather than activists in the field of educational policy-making.*
 
 > [!citation-card] 马修论诺亚与埃克斯坦的变量共变模型与审慎法则观
-> 迪米特里斯·马修指出，诺亚与埃克斯坦在寻求跨国普遍解释的同时，清醒意识到了共变关系的内在陷阱，明确指出函数命题并不等同于因果机制，且无法直接阐明因果作用的具体链条。正是基于这种无休止完善命题的要求，他们明智地未将这些实证概括冠以绝对“法则”之名，展现了实证主义阵营内部严谨求实的方法论素养。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, p. 62)]]
+> 迪米特里斯·马修（Dimitris Mattheou）指出，诺亚与埃克斯坦在寻求跨国普遍解释的同时，清醒意识到了共变关系的内在陷阱，明确指出函数命题并不等同于因果机制，且无法直接阐明因果作用的具体链条。正是基于这种无休止完善命题的要求，他们明智地未将这些实证概括冠以绝对“法则”之名，展现了实证主义阵营内部严谨求实的方法论素养。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, p. 62)]]
 >
 > *Being aware however of the difficulties of such a project and of the pitfalls inherent in covariational relationships they were at pains to underline that 'a statement of a functional relationship... need not necessarily refer to causal relationships'... Finally, all these elucidations may explain why they did not give the status of 'laws' to their universal explanatory propositions.*
 
