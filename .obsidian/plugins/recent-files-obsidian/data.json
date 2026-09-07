@@ -5,6 +5,30 @@
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kazamias_2009_ForgottenThemes.md"
     },
     {
+      "basename": "Intangible Spiritual Forces",
+      "path": "wiki/concepts/comparative-education/Intangible Spiritual Forces.md"
+    },
+    {
+      "basename": "Argument_Peterson_1987_OpenCourt_Ch06",
+      "path": "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch06.md"
+    },
+    {
+      "basename": "Fair Market Value",
+      "path": "wiki/concepts/higher-education/Fair Market Value.md"
+    },
+    {
+      "basename": "Argument_Bouckaert_2023_OECD",
+      "path": "wiki/arguments/reports-policy-documents/Argument_Bouckaert_2023_OECD.md"
+    },
+    {
+      "basename": "VALUE Rubrics",
+      "path": "wiki/instruments/rubric/VALUE Rubrics.md"
+    },
+    {
+      "basename": "Argument_Bang_2025_ClinicalTrials",
+      "path": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Bang_2025_ClinicalTrials.md"
+    },
+    {
       "basename": "Analytical Stance",
       "path": "wiki/concepts/educational-policy-reform/Analytical Stance.md"
     },
@@ -15,10 +39,6 @@
     {
       "basename": "Robert Ulich",
       "path": "wiki/persons/us/Robert Ulich.md"
-    },
-    {
-      "basename": "VALUE Rubrics",
-      "path": "wiki/instruments/rubric/VALUE Rubrics.md"
     },
     {
       "basename": "Matthew Arnold",
@@ -179,26 +199,6 @@
     {
       "basename": "Value Neutrality",
       "path": "wiki/concepts/research-methodology/Value Neutrality.md"
-    },
-    {
-      "basename": "Knowledge Mobilisation",
-      "path": "wiki/concepts/educational-policy-reform/Knowledge Mobilisation.md"
-    },
-    {
-      "basename": "vault-schema",
-      "path": "vault-schema.md"
-    },
-    {
-      "basename": "template-argument-edited-volume",
-      "path": "wiki/templates/template-argument-edited-volume.md"
-    },
-    {
-      "basename": "Argument_Peterson_1987_OpenCourt_Ch06",
-      "path": "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch06.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
     }
   ],
   "omittedPaths": [],

@@ -23,13 +23,13 @@
             }
           },
           {
-            "id": "ffc1a70d9b63a440",
+            "id": "b8a30d52ebcef69e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kazamias_2009_ForgottenThemes.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "value",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -230,16 +230,20 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "ffc1a70d9b63a440",
+  "active": "b8a30d52ebcef69e",
   "lastOpenFiles": [
-    "wiki/concepts/educational-policy-reform/Analytical Stance.md",
-    "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kazamias_2009_ForgottenThemes.md",
-    "wiki/concepts/comparative-education/Factorial Interpretive Framework.md",
     "wiki/concepts/comparative-education/Intangible Spiritual Forces.md",
+    "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kazamias_2009_ForgottenThemes.md",
+    "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch06.md",
+    "wiki/concepts/higher-education/Fair Market Value.md",
+    "wiki/arguments/reports-policy-documents/Argument_Bouckaert_2023_OECD.md",
+    "wiki/instruments/rubric/VALUE Rubrics.md",
+    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Bang_2025_ClinicalTrials.md",
+    "wiki/concepts/educational-policy-reform/Analytical Stance.md",
+    "wiki/concepts/comparative-education/Factorial Interpretive Framework.md",
     "wiki/concepts/comparative-education/Cultural Nationalism vs. Political Nationalism.md",
     "wiki/concepts/comparative-education/The Nation-State as the Unit of Comparison.md",
     "wiki/persons/us/Robert Ulich.md",
-    "wiki/instruments/rubric/VALUE Rubrics.md",
     "wiki/persons/uk/Matthew Arnold.md",
     "wiki/concepts/comparative-education/Whiggism.md",
     "wiki/persons/uk/Brian Holmes.md",
@@ -254,10 +258,6 @@
     "wiki/concepts/educational-philosophy/Technical Rationality.md",
     "wiki/concepts/research-methodology/Postpositivism.md",
     "wiki/concepts/comparative-education/National Character.md",
-    "wiki/persons/uk/Michael Sadler.md",
-    "wiki/concepts/comparative-education/National Character in Comparative Education.md",
-    "wiki/methods/qualitative/Historical-Comparative Method.md",
-    "wiki/concepts/research-methodology/Positivism.md",
     "scratch/do_cleanup.py",
     "scratch/check_all_targets.py",
     "scratch/test_repl.py",
