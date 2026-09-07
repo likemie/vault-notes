@@ -9,7 +9,7 @@ summary: "哥伦比亚大学师范学院比较教育学讲座教授，《教育�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 36
+person_related_count: 39
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -19,16 +19,18 @@ tags:
   - theme/totalitarianism-critique
 related_concepts:
   - "[[Normal School]]"
+  - "[[Variable]]"
   - "[[Democratic Education]]"
   - "[[National Character in Comparative Education]]"
   - "[[Document]]"
-  - "[[Growth]]"
+  - "[[Bildung]]"
   - "[[International Education]]"
   - "[[Paradigm]]"
+  - "[[Growth]]"
+  - "[[Scientism]]"
+  - "[[Primary and Secondary Documents]]"
   - "[[Academic Freedom]]"
   - "[[Independent Variable]]"
-  - "[[Bildung]]"
-  - "[[Variable]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Epistemology]]"
   - "[[Historical-Philosophical-Cultural Motif]]"
@@ -42,16 +44,17 @@ related_concepts:
 related_theories:
   - "[[Critical Theory]]"
 related_methods:
+  - "[[Fieldwork]]"
   - "[[Philosophical Analysis in Education]]"
   - "[[Historical-Comparative Method]]"
 related_instruments: []
 related_persons:
   - "[[Michael Sadler]]"
+  - "[[George Bereday]]"
   - "[[Plato]]"
   - "[[Aristotle]]"
   - "[[Nicholas Hans]]"
   - "[[Robert Ulich]]"
-  - "[[George Bereday]]"
   - "[[Andreas Kazamias]]"
   - "[[Robert Cowen]]"
   - "[[Harold Noah]]"
@@ -73,9 +76,9 @@ updated: 2026-09-07
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 美籍英裔比较教育学家、教育史学家、哲学家，哥伦比亚大学[[Normal School|师范学院]]（Teachers College, Columbia University）教育学教授（1923–1946），曼彻斯特大学美国研究讲座教授，《教育年鉴》（*Educational Yearbook*, 1924–1944）创办主编。
-> - **核心角色** 20 世纪上半叶比较教育学公认的学术泰斗与精神领袖，与[[Michael Sadler|迈克尔·萨德勒]]（Michael Sadler）共同奠定了学科的历史-哲学传统（Historical-Philosophical Heritage）；在二战前后以敏锐的人文主义洞察深刻剖析极权主义与[[Democratic Education|民主教育]]的冲突。
-> - **代表贡献** 巨著《比较教育》（*Comparative Education*, 1933）确立以民族主义与[[National Character in Comparative Education|民族性格]]为轴心的分析体系；提出决定学校制度的深层“力量与因素”（Forces and Factors）；主持《教育年鉴》二十载，记录两次世界大战之间全球教育变革。
+> - **身份位置** 美籍英裔比较教育学家、教育史学家与哲学家，哥伦比亚大学[[Normal School|师范学院]]（Teachers College, Columbia University）教育学教授（1923–1946），曼彻斯特大学首任美国研究教授，《教育年鉴》（*Educational Yearbook*, 1924–1944）创办主编。
+> - **核心角色** 20 世纪上半叶比较教育学公认的学术泰斗与精神领袖，将[[Michael Sadler|萨德勒]]的历史主义推进为以政治国家为核心解释[[Variable|变量]]的理论体系；作为欧洲犹太博雅学者，被[[George Bereday|贝雷迪]]（[[George Bereday]]）誉为博雅大学人文学者一代的参天灯塔，其犹太精神纯粹而坚定；在两次世界大战与冷战前夕以深刻的人文直觉捍卫[[Democratic Education|民主教育]]与国际主义。
+> - **代表贡献** 巨著《比较教育》（*Comparative Education*, 1933）确立以国家意志、民族主义与[[National Character in Comparative Education|民族性格]]为轴心的分析体系；奠定教育制度因果探究三阶段程序；创办并独立主持《教育年鉴》21 卷；出版战后集大成续作《教育的新时代》（*The New Era in Education*, 1955）。
 
 > [!citation-card]- 人物定位的关键来源
 > 米格尔·佩雷拉（Miguel Pereyra）长期致力于分析作为比较教育史学者的艾萨克·坎德尔（Isaac Kandel），但追索坎德尔的[[Document|文献]]资料需要进行大量的跨国差旅和高昂费用。这几乎达到了处于职业中期学者所能承受的极限，凸显出对此类历史学术缺乏结构性制度支持的困境。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, pp. 7–8)]]
@@ -87,15 +90,18 @@ updated: 2026-09-07
 ## 生平与职涯
 
 > [!timeline] 生平与职涯
-> - **1881** 出生于罗马尼亚布加勒斯特，[[Growth|成长]]于英国曼彻斯特。在曼彻斯特大学攻读古典学与历史学，师从著名教育史学家[[Michael Sadler|迈克尔·萨德勒]]。
-> - **1908–1910** 赴德国耶拿大学师从赫尔巴特学派代表学者威廉·莱因（Wilhelm Rein），随后赴美在哥伦比亚大学师从保罗·门罗（Paul Monroe）并获得博士学位（1910）。
-> - **1914–1923** 在卡内基教学促进基金会（Carnegie Foundation for the Advancement of Teaching）任职研究员，系统开展全美及[[International Education|国际教育]]养老金与课程调查。
-> - **1923** 参与创立哥伦比亚大学[[Normal School|师范学院]]国际研究所（International Institute），出任教授并开创现代比较教育研究生专业培养体系。
-> - **1924–1944** 独立创办并主编国际研究所《教育年鉴》（共 21 卷），成为跨战时全球教育最重要的权威记录。
-> - **1933** 出版划时代代表作《比较教育》（*Comparative Education*），系统奠定历史-[[Philosophical Analysis in Education|哲学分析]][[Paradigm|范式]]。
-> - **1930年代–1940年代** 发表《纳粹的塑造》（*The Making of Nazis*, 1934）与《极权主义的考验》（1940）等专著，率先从教育与意识形态角度批判法西斯极权主义。
-> - **1947–1950** 退休后重返英国，担任曼彻斯特大学首任美国研究教授，并出任联合国教科文组织核心咨询专家。
-> - **1965** 逝世于瑞士日内瓦。
+> - **1881** **欧洲犹太家庭出身与博雅文化滋养** 出生于罗马尼亚布加勒斯特的一个犹太家庭，幼年随家庭迁居英国曼彻斯特，深沐欧洲中心主义自由人文[[Bildung|教养]]与传统英国自由主义熏陶。正如乔治·贝雷迪（George Bereday）在悼念中所深情赞颂：坎德尔是笃信直觉与人文洞见的博雅人文学者典范，兼具欧洲与美国的双重文明修养，其犹太精神纯粹而坚定。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 46)]]；引自 Bereday (1966: 147–150)
+> - **1898–1906** **曼彻斯特大学受业迈克尔·萨德勒** 在曼彻斯特大学攻读古典学与历史学，受教于英国比较教育先驱[[Michael Sadler|迈克尔·萨德勒]]（Michael Sadler），系统汲取了校外无形精神力量、活体有机体与情境不可移植性等核心洞见，奠定了其终身治学的史学与哲学基石。
+> - **1906–1908** **德国耶拿大学深造赫尔巴特学派体系** 赴德国耶拿大学（University of Jena）深造，师从著名教育家威廉·莱因（Wilhelm Rein），接受系统的赫尔巴特学派教育哲学、教学论与欧陆制度科学学术训练。
+> - **1908–1910** **哥伦比亚大学博士深造与横跨三大学脉** 赴美在哥伦比亚大学[[Normal School|师范学院]]师从教育史权威保罗·门罗（Paul Monroe），1910 年以德国教师培训史研究获得哲学博士学位，融汇英国博雅文人情怀、德国哲理思辨深度与美国开阔的制度视野。
+> - **1914–1923** **卡内基基金会十年实地调查与经验事实奠基** 出任卡内基教学促进基金会（Carnegie Foundation for the Advancement of Teaching）专职研究员，十年间深入全美各地与欧洲多国，系统开展教师养老金制度、中等教育课程改革与学校管理体制调查，积累了庞大扎实的第一手制度事实。
+> - **1923** **参与创立哥大国际研究所并开创研究生培养** 在保罗·门罗倡议下参与创立哥伦比亚大学师范学院国际研究所（International Institute），受聘为比较教育学教授，开创全球现代跨国比较教育研究生专业培养体系。
+> - **1924–1944** **主持编纂 21 卷《教育年鉴》百科全书式记录** 独立创办并主持编纂国际研究所《教育年鉴》（*Educational Yearbook*，共 21 卷），系统记录两次世界大战之间全球数十个主要国家的制度变迁、法案改革与课程演进，成为 20 世纪前半叶记录全球教育演进最重要的权威文献库。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, pp. 7–8)]]
+> - **1933** **划时代巨著《比较教育》确立国家解释变量** 出版划时代代表作《比较教育》（*Comparative Education*），系统奠定历史-[[Philosophical Analysis in Education|哲学分析]][[Paradigm|范式]]，在学科史上首次将国家（The State）确立为统领全局的核心情境解释变量，并提出规范的因果探究三阶段流程。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 45–48)]]
+> - **1934–1941** **直面极权主义扩张并构筑民主教育防线** 相继出版《纳粹的塑造》（*The Making of Nazis*, 1934）、《相互冲突的教育理论》（*Conflicting Theories of Education*, 1938）与《一个时代的终结》（*The End of an Era*, 1941），率先揭露法西斯极权政权利用学校进行政治灌输与动员的危害，主张以尊重多元文化的文化民族主义抵御侵略性政治民族主义。[[Argument_Kazamias_2009_ForgottenThemes|(Herzog, 1960; Kazamias, 1963: 385; 2009: 48–49)]]
+> - **1946** **哥大荣休与重返曼彻斯特大学创设美国研究** 从哥伦比亚大学荣休；1947 至 1950 年重返英国曼彻斯特大学出任首任美国研究教授，并长期受聘为联合国教科文组织核心咨询专家，积极投身战后国际理解与教育重建。
+> - **1955** **出版战后集大成续作《教育的新时代》** 出版代表作《教育的新时代：比较研究》（*The New Era in Education: A Comparative Study*），系统反思战后西方福利国家民主化转型背景下个性自由与国家权力的动态平衡。
+> - **1965** **逝世于日内瓦与学派参天灯塔的历史评价** 逝世于瑞士日内瓦，享年 84 岁。尽管在 1960 年代实证主义浪潮中因倚重个人直觉而受到方法论批评，但乔治·贝雷迪等学者尊其为“一座参天灯塔与精神坐标”，学术界公认其为 20 世纪现代比较教育学无可撼动的开山泰斗。(Bereday, 1965: 249; Kazamias & Schwartz, 1977)
 
 ---
 

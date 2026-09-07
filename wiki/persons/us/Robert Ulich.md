@@ -8,7 +8,7 @@ summary: "德裔美籍教育哲学家与文化史学家，哈佛大学教授，�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 24
+person_related_count: 25
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Bildung]]"
   - "[[Champ]]"
   - "[[Democratic Education]]"
+  - "[[Academic Freedom]]"
   - "[[Normal School]]"
   - "[[Rationalism in International Relations]]"
   - "[[Enlightenment]]"
@@ -60,8 +61,8 @@ updated: 2026-09-07
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 德裔美籍教育史学家、教育哲学家与比较教育学者，哈佛大学教育研究生院（Harvard Graduate School of Education）讲座教授，魏玛时期萨克森州高级教育官员与德累斯顿工业大学教授。
-> - **核心角色** 比较教育历史-哲学传统中人本主义（Humanism）与古典[[Bildung|教化]]（Paideia）的集大成者。作为坚定的社会民主主义者流亡美国后，在哈佛大学培育了包括[[George Bereday|乔治·贝雷迪]]（George Bereday）与[[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（Andreas Kazamias）在内的整整一代战后比较教育领军学者。
+> - **身份位置** 德裔美籍教育史学家、教育哲学家与比较教育学者，哈佛大学教育研究生院（Harvard Graduate School of Education）科南特讲座教授（James Bryant Conant Professor of Education），魏玛共和国时期萨克森州教育部高等教育司司长（Ministerialrat）与德累斯顿工业大学教育学教授。
+> - **核心角色** 比较教育历史-哲学传统中人本主义（Humanism）与古典[[Bildung|教化]]（Paideia）的集大成者。作为坚定的社会民主主义者，他在 44 岁时断然拒绝妥协纳粹暴政而流亡美国；在哈佛执教二十六载，以深厚的人文底蕴培育了包括[[George Bereday|乔治·贝雷迪]]（George Bereday）、[[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（Andreas Kazamias）、保罗·纳什（Paul Nash）与亨利·珀金森（Henry Perkinson）在内的整整一代战后史学派比较教育领军学者。
 > - **代表贡献** 巨著《国家教育：历史视角下的比较》（*The Education of Nations: A Comparison in Historical Perspective*, 1961）；坚持以“人（anthropos）”为中心的比较哲学；将西方文明史演进与教师人文教育深度整合。
 
 > [!citation-card]- 人物定位的关键来源
@@ -74,13 +75,26 @@ updated: 2026-09-07
 ## 生平与职涯
 
 > [!timeline] 生平与职涯
-> - **1890** 出生于德国巴伐利亚，先后在弗赖堡大学、柏林大学、维尔茨堡大学及莱比锡大学接受严格的哲学与历史学学术训练。
-> - **1920年代** 在魏玛共和国时期出任萨克森州教育部高等教育司司长，兼任德累斯顿工业大学教育学教授，积极推动魏玛[[Democratic Education|民主教育]]实验。
-> - **1934** 阿道夫·希特勒（Adolf Hitler）上台后，44 岁的乌利希因坚守社会民主信念、拒绝向纳粹法西斯极权政权妥协而毅然辞职，流亡美国受聘于哈佛大学。
-> - **1934–1960** 任哈佛大学教育学教授，讲授教育史、教育哲学与比较教育学，开创哈佛人文教育传统。
-> - **1961** 出版代表作《国家教育：历史视角下的比较》（*The Education of Nations*），系统梳理英法德俄等国教育的文明史根基。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 51)]]
-> - **1965** 其哈佛门生保罗·纳什、卡扎米亚斯与亨利·珀金森（Henry Perkinson）联合主编出版文集《受过教育的人》（*The Educated Man: Studies in the History of Educational Thought*）向其致敬。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 52)]]
-> - **1977** 逝世于德国斯图加特。
+> - **1890** 出生于德国巴伐利亚（Bavaria），先后在弗赖堡大学、柏林大学、维尔茨堡大学及莱比锡大学接受严格的欧陆古典人文、哲学与历史学学术训练，获哲学博士学位。
+> - **1920年代** 在魏玛共和国时期出任萨克森州教育部高等教育司司长（Ministerialrat），兼任德累斯顿工业大学（Technische Hochschule Dresden）教育学教授，深度主持魏玛时期的公立大学治理改革与[[Democratic Education|民主教育]]实验。
+> - **1934** 阿道夫·希特勒（Adolf Hitler）上台后，年届 44 岁的乌利希因坚守社会民主主义信念、拒绝向纳粹法西斯极权政权妥协而断然辞职，流亡美国受聘于哈佛大学。
+> - **1934–1960** 任哈佛大学教育研究生院教授，后晋升为詹姆斯·布莱恩特·科南特讲座教授（James Bryant Conant Professor of Education），讲授教育史、教育哲学与比较教育学，开创哈佛人文教育传统。
+> - **1945–1954** 相继出版《教育思想史》（*History of Educational Thought*, 1945）与《人类生涯：超越哲学》（*The Human Career: A Philosophy of Transcendence*, 1954），奠定古典人道主义教育哲学根基。
+> - **1961** 出版划时代代表作《国家教育：历史视角下的比较》（*The Education of Nations: A Comparison in Historical Perspective*），系统梳理英法德俄等国教育的文明史根基。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 51)]]
+> - **1965** 其哈佛门生保罗·纳什、[[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]与亨利·珀金森联合主编出版文集《受过教育的人》（*The Educated Man: Studies in the History of Educational Thought*），题词敬献给恩师乌利希并冠以“一位受过教育的人”（An Educated Man）之崇高殊荣。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 52)]]
+> - **1977** 逝世于德国斯图加特，享年 87 岁。保罗·纳什在悼文中将其学术与人格定性为“来自欧洲的人文主义厚礼”。
+
+### 德意志古典学养与魏玛公共治理
+
+乌利希出生于德国巴伐利亚，青年时期先后游学于弗赖堡大学、柏林大学、维尔茨堡大学与莱比锡大学四所历史悠久的德国名校，深沐德意志历史学派与古典哲学的严格训练。在魏玛共和国时期，乌利希兼具卓越的学者才华与高层行政领导力，出任萨克森州教育部高等教育司司长（Ministerialrat），并兼任德累斯顿工业大学教育学教授。在这一时期，乌利希积极投身于战后德国高等教育现代转型与民主制度建设，致力于打破传统封建特权对大学的垄断，推动大学面向工业现代社会的制度创新。这段高层公共政策治理的实践经历，使乌利希深谙主权国家行政力量与文化传统之间的互动张力，为其日后宏观剖析民族国家教育演进奠定了深厚的政治现实基础。
+
+### 1934 年反纳粹流亡与哈佛学统奠基
+
+1933 年纳粹党夺取政权后，全面推行法西斯一体化（Gleichschaltung）政策，残酷清洗民主进步力量与[[Academic Freedom|学术自由]]。面对极权暴政的逼迫，44 岁的乌利希表现出崇高的道德勇气与政治风骨。作为一名终身坚定的社会民主党人，他断然拒绝向希特勒政权作任何妥协，毅然辞去全部教育部高级行政公职与大学教席，告别故土流亡美国。1934 年，乌利希受聘于哈佛大学教育研究生院，在此执教长达二十六载（1934–1960），并荣任声名卓著的詹姆斯·布莱恩特·科南特讲座教授。在大洋彼岸，乌利希与撰写三卷本名著《[[Bildung|教化]]》（*Paideia: The Ideals of Greek Culture*）的同代希腊古典学泰斗维尔纳·耶格尔（Werner Jaeger）交相辉映，共同代表了德意志古典人道主义学术传统在北美的最纯正移植。乌利希在哈佛系统讲授教育史、哲学与比较教育，以其宏阔深邃的欧洲文明史视野对抗战后美国教育界日趋弥漫的工具理性与技术至上倾向。
+
+### 宗师风范与战后比较学派的学脉滋润
+
+正如其哈佛弟子安德烈亚斯·卡扎米亚斯深情回忆，严格从学科划分而言，乌利希并非拘泥于狭隘细分领域的实证比较学者，而是一位秉持宏大文明史视角的古典人道主义历史学家与教育哲人；但正是其渊博深邃的博雅风范与思想穿透力，激励了包括[[George Bereday|乔治·贝雷迪]]（George Bereday）、安德烈亚斯·卡扎米亚斯、保罗·纳什（Paul Nash）与亨利·珀金森（Henry Perkinson）在内的整整一代战后青年学子，引领他们走向具有深刻历史反思品格的比较教育探索。1965 年，纳什、卡扎米亚斯与珀金森三位弟子联合主编出版文集《受过教育的人》（*The Educated Man*），全书扉页题词一致献给“罗伯特·乌利希——一位真正受过教育的人”（Nash et al., 1965）。在乌利希逝世后，保罗·纳什高度概括了其人文学术的四大支柱：坚决将“人（Person）”置于教育的绝对中心，坚持彻底且毫不妥协的历史语境主义，坚持比较教育服务于一线教师人文教化的现实关切，以及终身恪守社会民主主义的崇高政治信念（Nash, 1977: 147–149）。
 
 ---
 

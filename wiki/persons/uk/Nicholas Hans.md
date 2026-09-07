@@ -9,7 +9,7 @@ summary: "俄裔英国比较教育学家，伦敦大学国王学院读者，提�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 21
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Analytic Framework]]"
   - "[[Paradigm]]"
+  - "[[Emergence]]"
   - "[[Epistemology]]"
   - "[[Epistemic Stances]]"
   - "[[National Character in Comparative Education]]"
@@ -56,9 +57,9 @@ updated: 2026-09-07
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 俄裔英国比较教育学家、教育史学家，伦敦大学国王学院（King's College London）比较教育学读者（Reader），与约瑟夫·劳威斯（[[Joseph Lauwerys]]）长期共同主编《教育年鉴》（*World Year Book of Education*）。
-> - **核心角色** 20 世纪历史-哲学学派中最具方法论系统性的奠基学者，开创了闻名学界的“因素[[Analytic Framework|分析框架]]”（Factorial Interpretive Framework），把杂乱的历史经验材料收拢于严谨的分类结构之中。
-> - **代表贡献** 确立包含自然、宗教与世俗三大维度的因素分析法；将比较教育定位为处于人文与科学边缘的广义人文科学（Vergleichende Erziehungswissenschaft）；深刻辨析英美政治自由与苏联社会平等两种民主[[Paradigm|范式]]的教育局限。
+> - **身份位置** 俄裔英国比较教育学家、教育史学家，伦敦大学国王学院（King's College London）比较教育学读者（Reader），与约瑟夫·劳威斯（[[Joseph Lauwerys]]）长期共同主编《世界教育年鉴》（*World Year Book of Education*）。
+> - **核心角色** 20 世纪历史-哲学学派中最具方法论系统性的奠基学者，开创了闻名学界的“因素[[Analytic Framework|分析框架]]”（Factorial Interpretive Framework）。特雷瑟韦（A. R. Tretheway）指出，他的独特贡献并非提供[[Isaac Kandel|坎德尔]]方法的跨大西洋翻版，而在于构建了一套由自然、宗教与世俗恒久力量组成的因素过滤器，把原本可能难以驾驭的海量历史数据收拢于严谨的分类学秩序之中。
+> - **代表贡献** 确立包含自然、宗教与世俗三大维度的因素分析法；将比较教育定位为具有动态改良使命、处于人文与科学边缘的广义人文科学（Vergleichende Erziehungswissenschaft）；深刻辨析英美政治自由与苏联社会平等两种民主[[Paradigm|范式]]的教育局限。
 
 > [!citation-card] 人物定位的关键来源
 > A. R. 特雷瑟韦（A. R. Tretheway）指出，尼古拉斯·汉斯（Nicholas Hans）的卓越贡献并非提供[[Isaac Kandel|艾萨克·坎德尔]]（Isaac Kandel）方法的跨大西洋翻版，尽管二者分享诸多共通之处；他的独特贡献在于构建了一个由各种“因素”组成的比较研究框架。汉斯坚信这些因素代表了塑造民族及其教育系统的内在与永久力量，该框架的巨大价值在于为原本可能难以驾驭的海量相关历史数据赋予了秩序与严整结构。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 49–50)]]；引自 Tretheway (1976:63–64)
@@ -70,12 +71,17 @@ updated: 2026-09-07
 ## 生平与职涯
 
 > [!timeline] 生平与职涯
-> - **1888** 出生于俄罗斯帝国敖德萨，早年在敖德萨大学受教育，俄国革命前曾积极参与地方自由主义教育改革与行政管理。
-> - **1920** 俄国内战期间因政治原因流亡英国，进入伦敦大学国王学院深造并获哲学博士学位。
-> - **1945–1953** 任伦敦大学国王学院比较教育学讲师与高级讲师，后晋升为读者（Reader）。
-> - **1949** 出版划时代代表作《比较教育：教育因素与传统研究》（*Comparative Education: A Study of Educational Factors and Traditions*），确立因素分析[[Paradigm|范式]]的国际声誉。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 49–50)]]
-> - **1950年代** 与约瑟夫·劳威斯密切合作，共同主持伦敦大学教育研究院与国王学院的比较教育研究网络，联合主编跨国《教育年鉴》。
-> - **1969** 逝世于英国伦敦。
+> - **1888** **黑海名埠出身与欧陆史哲基础** 出生于俄罗斯帝国敖德萨（Odessa，今属乌克兰），早年在敖德萨大学（新俄罗斯大学）接受系统严格的欧陆历史学与哲学学术训练。
+> - **1910年代** **投身俄国革命前自由主义教育改革与基层治理** 积极投身俄国南部地方自治与自由主义教育改革运动，并担任敖德萨市教育行政官员；直面多民族帝国的复杂治理实践，深切体认到语言、宗教与地理环境对教育制度的深刻制约。
+> - **1920** **俄国内战流亡英国与学术人生转向** 俄国内战期间，因坚守自由宪政立场、反对布尔什维克专政而被迫流亡英国；跨国流亡经历赋予其东欧斯拉夫文明与西欧盎格鲁-撒克逊文明的双重视野。
+> - **1920年代** **伦敦大学国王学院深造确立历史研究根基** 在伦敦大学国王学院继续深造，1926 年以俄国教育史专论获哲学博士（Ph.D.）学位，后获文学博士（D.Lit.）学位，正式融入英国比较教育学术网络。
+> - **1945–1953** **执教伦敦国王学院奠定学术中枢** 任伦敦大学国王学院比较教育学讲师、高级讲师，后晋升为读者（Reader，相当于准教授）。
+> - **1948–1953** **携手劳威斯共同主编战后《世界教育年鉴》** 与伦敦大学教育研究院的约瑟夫·劳威斯（[[Joseph Lauwerys]]）紧密合作，共同主编战后《世界教育年鉴》（*World Year Book of Education*），构建伦敦比较教育学派的国际学术中枢。
+> - **1949** **出版划时代巨著《比较教育》确立三维因素分析法** 出版划时代代表作《比较教育：教育因素与传统研究》（*Comparative Education: A Study of Educational Factors and Traditions*）。A. R. 特雷瑟韦（A. R. Tretheway）指出，汉斯的独特贡献在于构建了一套由自然、宗教与世俗恒久力量构成的因素过滤器，以清晰分类学成功驯服了战后海量失序的历史数据。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 49–50)]]；引自 Tretheway (1976: 63–64)
+> - **1951** **出版《十八世纪教育新趋势》深掘启蒙思想根基** 出版专著《十八世纪教育新趋势》（*New Trends in Education in the Eighteenth Century*），系统挖掘近代科技、工业革命与世俗启蒙思想对欧洲现代国民教育体系的奠基作用。
+> - **1952** **阐明学科应用性质与动态制度改良使命** 发表论文系统界定比较教育为兼具功利目的与动态改革关切的“应用学科”（Applied subject），其核心使命在于为战后各国设想最适合新经济与社会条件的制度方案。[[Argument_Kazamias_2009_ForgottenThemes|(Hans, 1952: 57; Kazamias, 2009: 51)]]
+> - **1959** **发表方法论专论抵御量化心理测量侵蚀** 发表《比较教育的历史研究法》（*The Historical Approach to Comparative Education*），系统回应美国行为主义与量化测验思潮的冲击，指出量化测验无法捕捉学校的整体精神氛围，确立学科跨越人文与科学边缘的哲学品格。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 39–41)]]
+> - **1969** **逝世于伦敦与学派历史地位** 逝世于英国伦敦，享年 81 岁。学术界高度评价其以严谨的分类学框架将历史主义推向巅峰，并在冷战白热化时期客观揭示英美与苏联民主实践的共同缺陷，树立了比较教育学术独立性的典范。
 
 ---
 
