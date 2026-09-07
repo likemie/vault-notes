@@ -7,7 +7,7 @@ title: "Argument_Kazamias_2009_ForgottenThemes"
 argument_key: "Argument_Kazamias_2009_ForgottenThemes"
 argument_display_title: "Forgotten Men, Forgotten Themes: The Historical-philosophical-cultural and Liberal Humanist Motif in Comparative Education"
 argument_kind: "book-chapter"
-argument_related_count: 67
+argument_related_count: 72
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -42,11 +42,11 @@ related_concepts:
   - "[[National Character]]"
   - "[[Construct]]"
   - "[[Whiggism]]"
-  - "[[Hypothesis]]"
   - "[[Technical Rationality]]"
   - "[[Document]]"
   - "[[Falsification]]"
   - "[[Historical-Philosophical-Cultural Motif]]"
+  - "[[Hypothesis]]"
   - "[[Questionnaire]]"
   - "[[Rationalism in International Relations]]"
   - "[[Educational Meliorism]]"
@@ -71,6 +71,7 @@ related_concepts:
   - "[[Epoché]]"
   - "[[Operationalization]]"
   - "[[Doxa]]"
+  - "[[Humanistic Episteme]]"
   - "[[Axiology]]"
   - "[[Research Scope]]"
 related_methods:
@@ -81,11 +82,14 @@ related_persons:
   - "[[Isaac Kandel]]"
   - "[[Nicholas Hans]]"
   - "[[Robert Ulich]]"
+  - "[[Crane Brinton]]"
   - "[[Matthew Arnold]]"
   - "[[Harold Noah]]"
   - "[[Max Eckstein]]"
   - "[[Brian Holmes]]"
   - "[[Andreas Kazamias]]"
+  - "[[Vernon Mallinson]]"
+  - "[[Philip Foster]]"
   - "[[Marc-Antoine Jullien]]"
   - "[[Horace Mann]]"
   - "[[Calvin Stowe]]"
@@ -101,6 +105,7 @@ related_persons:
   - "[[Johann Heinrich Pestalozzi]]"
   - "[[Joseph Lauwerys]]"
 related_facts:
+  - "[[Office of Special Inquiries and Reports]]"
   - "[[Grammar School]]"
   - "[[Esquisse d'un ouvrage sur l'éducation comparée]]"
 related_theories:
@@ -119,7 +124,7 @@ updated: 2026-09-07
 > 20 世纪上半叶由[[Michael Sadler|迈克尔·萨德勒]]（Michael Sadler）、[[Isaac Kandel|艾萨克·坎德尔]]（Isaac Kandel）、[[Nicholas Hans|尼古拉斯·汉斯]]（Nicholas Hans）与[[Robert Ulich|罗伯特·乌利希]]（Robert Ulich）等学者奠立的历史-哲学-文化与自由人文主义母题究竟包含哪些深层[[Epistemology|认识论]]基石与内部[[Paradigm|范式]]分殊？在 1960 年代战[[Postpositivism|后实证主义]]、量化主义与结构功能主义的科学化围剿下，该传统何以被贬斥为前科学或神秘主义？比较教育学者应如何超越狭隘[[Positivism|实证主义]]，重构[[Historical-Comparative Method|历史比较法]]的现代学科合法性？
 
 > [!claim] 核心主张
-> 历史-哲学-文化与自由人文主义母题建基于广义科学观（*Wissenschaft* / *Episteme*），是以国家制度起源演进与全人[[Bildung|教化]]（*Paideia*）为内核的深层人文科学传统；尽管其[[National Character|国民性格]][[Construct|构念]]与[[Whiggism|辉格史观]]存在时代局限，但通过引入克莱恩·布林顿（Crane Brinton）的非普适探索性[[Hypothesis|假说]]归纳法，历史比较法展现出严谨的因果解释与理论建构效能，成为抵抗当代[[Technical Rationality|技术理性]]与实证工具主义、捍卫以人为中心的教育研究的坚实学术防线。
+> 历史-哲学-文化与自由人文主义母题建基于广义科学观（*Wissenschaft* / *Episteme*），是以国家制度起源演进与全人[[Bildung|教化]]（*Paideia*）为内核的深层人文科学传统；尽管其[[National Character|国民性格]][[Construct|构念]]与[[Whiggism|辉格史观]]存在时代局限，但通过引入[[Crane Brinton|克莱恩·布林顿]]（Crane Brinton）的非普适探索性假说归纳法，历史比较法展现出严谨的因果解释与理论建构效能，成为抵抗当代[[Technical Rationality|技术理性]]与实证工具主义、捍卫以人为中心的教育研究的坚实学术防线。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 19 世纪末至 20 世纪中叶英美跨大西洋比较教育思想史文本，重点考据[[Matthew Arnold|马修·阿诺德]]（Matthew Arnold）、[[Michael Sadler|萨德勒]]、[[Isaac Kandel|坎德尔]]、[[Nicholas Hans|汉斯]]与[[Robert Ulich|乌利希]]的原著论述，以及 1960 年代[[Harold Noah|哈罗德·诺亚]]（Harold Noah）、[[Max Eckstein|马克斯·埃克斯坦]]（Max Eckstein）、[[Brian Holmes|布赖恩·霍姆斯]]（Brian Holmes）等人的批判[[Document|文献]]。
@@ -157,9 +162,9 @@ updated: 2026-09-07
 > | 样本层面 | 构成 |
 > |----------|------|
 > | **先驱奠基文献** | Arnold (1864), *A French Eton*; Arnold (1868), *Schools and Universities on the Continent*; Sadler (1898, 1900/1964, 1902) |
-> | **历史学派经典文献** | Kandel (1933), *Comparative Education*; Kandel (1955), *The New Era in Education*; Kandel (1959); Hans (1949), *Comparative Education: A Study of Educational Factors and Traditions*; Hans (1952, 1959); Ulich (1961), *The Education of Nations: A Comparison in Historical Perspective* |
-> | **实证与量化批判文献** | Noah & Eckstein (1969), *Toward a Science of Comparative Education*; Holmes (1965), *Problems in Education: A Comparative Approach*; Foster (1960); Anderson (1961); Epstein (1970) |
-> | **史学理论与纪念文献** | Brinton (1938/1952), *The Anatomy of Revolution*; Lauwerys (1959); Bereday (1965, 1966); Nash (1977); Kazamias (1961, 1963, 1966); Kazamias & Schwartz (1977) |
+> | **历史学派经典文献** | Kandel (1933), *Comparative Education*; Kandel (1955), *The New Era in Education*; Kandel (1959); Hans (1949), *Comparative Education: A Study of Educational Factors and Traditions*; Hans (1952, 1959); Ulich (1961), *The Education of Nations: A Comparison in Historical Perspective*; [[Vernon Mallinson\|Mallinson]] (1957), *An Introduction to the Study of Comparative Education* |
+> | **实证与量化批判文献** | Noah & Eckstein (1969), *Toward a Science of Comparative Education*; Holmes (1965), *Problems in Education: A Comparative Approach*; [[Philip Foster\|Foster]] (1960); Anderson (1961); Epstein (1970) |
+> | **史学理论与纪念文献** | [[Crane Brinton\|Brinton]] (1938/1952), *The Anatomy of Revolution*; Lauwerys (1959); Bereday (1965, 1966); Nash (1977); Kazamias (1961, 1963, 1966); Kazamias & Schwartz (1977) |
 
 ---
 
@@ -270,7 +275,7 @@ updated: 2026-09-07
 > [!feature] 萨德勒的制度改革实践网络与智囊轨迹
 > - **劳工阶级成人教育拓展（University Extension, 1884）** 早在 1884 年便率先发起大学推广运动，推动高等学术资源走向平民大众与劳工阶层，积极打破精英学术垄断，以具体行动践行新自由主义民主平权诉求。（p.44）
 > - **皇家布莱斯委员会报告（Bryce Commission, 1894–1895）** 出任全英皇家中等教育委员会核心委员，并作为公认的主笔起草了里程碑式的布莱斯报告，为英国 1902 年《巴尔福教育法》（Balfour Act）及地方中等教育公共体系奠定了奠基性蓝图。
-> - **特别调查与报告署国家智库（OSIR, 1895–1903）** 受命创立并执掌英国教育部的“特别调查与报告署”，亲自将其定义为国家的教育情报署（Educational intelligence office）。萨德勒主持撰写 11 卷跨国教育宏篇巨著，确立了情报署的三大职能：从繁杂争鸣中提炼真实经验、向国民揭示本国在国际竞争中的效能位置、凝聚国家教育发展方向的共识。（Higginson, 1961: 289）
+> - **[[Office of Special Inquiries and Reports|特别调查与报告局]]（Office of Special Inquiries and Reports, OSIR, 1895–1903）** 受命创立并执掌英国教育部的“特别调查与报告署”，亲自将其定义为国家的教育情报署（Educational intelligence office）。萨德勒主持撰写 11 卷跨国教育宏篇巨著，确立了情报署的三大职能：从繁杂争鸣中提炼真实经验、向国民揭示本国在国际竞争中的效能位置、凝聚国家教育发展方向的共识。（Higginson, 1961: 289）
 > - **地方行政咨询与现代大学治理（LEAs & Leeds, 1903–1923）** 1902 年后作为高级独立顾问为全英各地方教育局撰写权威中等教育报告；1907 年规划《大英帝国教育局构想》；1911–1923 年出任利兹大学校长，将新自由主义文化关怀全面注入现代地方大学的组织建设。（Kazamias, 1966: 28–29; Jones, 1971: 49–50; p.45）
 
 正是依托这一横跨理论思辨与国家智库调查的双重视野，萨德勒在 1900 年著名的吉尔福德演讲中，将唯心主义哲学与宏阔的一线调查经验彻底合流，提炼出名垂青史的比较方法论公理：研究外国教育体系必须认识到校外的事情比校内的事情更为重要，并且支配与诠释着校内的一切。（Sadler, 1900/1964: 310; pp.43–45）
@@ -420,7 +425,7 @@ updated: 2026-09-07
 > | **[[Michael Sadler\|迈克尔·萨德勒]]**<br>（Michael Sadler, 1861–1943）<br>牛津唯心主义与新自由主义 | 民族国家的学校体系与其深层社会文化母体 | **校外无形精神力量（Intangible Spiritual Forces）**；民族活体有机体（Living organism）；[[National Character\|国民性格]] | **击碎机械借用主义与确立情境决定论** 终结了 19 世纪初中期行政视察报告收集数据与生硬移植办学经验的功利工具主义，确立了学校系统由社会历史无形力量决定的方法论公理。（pp.42–45） | Sadler (1900/1964), *How Far Can We Learn Anything of Practical Value...*<br>“校外的事情比校内的事情更为重要，并且支配着校内的一切。”（p.44） |
 > | **[[Isaac Kandel\|艾萨克·坎德尔]]**<br>（Isaac Kandel, 1881–1965）<br>曼彻斯特与哥伦比亚大学学脉 | 主权国家教育制度及其背后的政治哲学观念 | **政治国家作为核心[[Independent Variable\|自变量]]（The State as Primary Variable）**；政体二元理想型（民主制 vs 极权制）；**观念、理想与形态比较（Ideas, Ideals and Forms）** | **确立国家解释变量与规范因果探究程序** 在学科史上首次将国家作为首要情境变量引入比较研究；规范了因果探究三阶段（探寻起因 ➔ 比较制度差异 ➔ 考察解决方案），推动比较研究从事实罗列转向政治哲学因果解释。（pp.45–48） | Kandel (1933), *Comparative Education*; Kandel (1955), *The New Era in Education*<br>“国家如何，学校便如何；比较的实质在于比较观念、理想与形态。”（pp.42, 47） |
 > | **[[Nicholas Hans\|尼古拉斯·汉斯]]**<br>（Nicholas Hans, 1888–1969）<br>敖德萨学脉与伦敦大学国王学院 | 欧洲主权国家与多民族大国的制度发展史 | **阶梯式三维[[Factorial Interpretive Framework\|因素分析框架]]**（自然因素、宗教因素、世俗因素）；民主综合分析；跨越人文与自然科学边缘的哲学反思 | **建立分类学过滤器与打破冷战意识形态神话** 首创因素分析法，为混乱海量历史数据建立清晰认知[[Coding in Qualitative Research\|编码]]秩序；横向剖析英美政治自由与苏联社会平等的制度实践，得出两者在教育公平上皆存在严重缺陷的客观论断。（pp.49–51） | Hans (1949), *Comparative Education: A Study of Educational Factors and Traditions*<br>“比较教育学坐落于人文科学与自然科学的交界边缘，因而类似于哲学。”（pp.39–40） |
-> | **[[Robert Ulich\|罗伯特·乌利希]]**<br>（Robert Ulich, 1890–1977）<br>魏玛德国高等行政学统与哈佛大学 | 跨越国界的西方文明与思想史长河演进 | **西方思想史四阶段叙事**（中世纪/文艺复兴/理性主义/工业科技）；古典全人[[Bildung\|教化]]（*Paideia*）；以人（*Anthropos*）为中心的质性关怀 | **开辟宏大思想史纵深与筑牢人文科学防线** 摆脱主权国家微观机制束缚，将比较教育嵌入西方文明两千年思想长河，为新兴国家现代转型提供宏观历史参照；抵御纯技术官僚工具主义，确立以人为终极关怀的人文学术品格。（pp.51–52） | Ulich (1961), *The Education of Nations: A Comparison in Historical Perspective*<br>“比较教育是一门以人为中心的人文知识体系，其根本关切应当始终锁定在人身上。”（pp.56–57） |
+> | **[[Robert Ulich\|罗伯特·乌利希]]**<br>（Robert Ulich, 1890–1977）<br>魏玛德国高等行政学统与哈佛大学 | 跨越国界的西方文明与思想史长河演进 | **西方思想史四阶段叙事**（中世纪/文艺复兴/理性主义/工业科技）；古典全人[[Bildung\|教化]]（*Paideia*）；以人（*Anthropos*）为中心的质性关怀 | **开辟宏大思想史纵深与筑牢人文科学防线** 摆脱主权国家微观机制束缚，将比较教育嵌入西方文明两千年思想长河，为新兴国家现代转型提供宏观历史参照；抵御纯技术官僚工具主义，确立以人为终极关怀的人文学术品格。（pp.51–52） | Ulich (1961), *The Education of Nations: A Comparison in Historical Perspective*; [[Vernon Mallinson\|Mallinson]] (1957), *An Introduction to the Study of Comparative Education*<br>“比较教育是一门以人为中心的人文知识体系，其根本关切应当始终锁定在人身上。”（pp.56–57） |
 
 ---
 
@@ -440,7 +445,7 @@ updated: 2026-09-07
 > |---|---|---|
 > | **前科学与主观臆测** | Noah & Eckstein (1969), *Toward a Science of Comparative Education* | 将萨德勒、坎德尔和汉斯归入学科演进的**前科学（Pre-scientific）因素与力量阶段**；指责其结论依赖学者个人的私人洞察力（Private insights），缺乏判定各因素相对重要性的客观标准，结论充其量只是待检验的假说。（p.53） |
 > | **缺乏因果预测力** | [[Brian Holmes\|Holmes]] (1965), *Problems in Education: A Comparative Approach* | 断言历史比较无法替代**科学比较教育**；学科必须是一门**概括性科学（Generalising science）**；教育决策者关心的是行动的未来后果而非历史渊源，真正的理解来自于成功的预测（Successful prediction）。（Holmes, 1965:19–21, 30） |
-> | **个殊性排斥比较** | Anderson (1961); Foster (1960) | 指责历史学派固守历史主义（Historicism），认定历史仅处理具有唯一时空坐标的个殊且不可重复现象；既然个殊事物不可比较，比较学者就必须告别历史，转向探寻规律与可重复模式的经验社会科学。 |
+> | **个殊性排斥比较** | Anderson (1961); [[Philip Foster\|Foster]] (1960) | 指责历史学派固守历史主义（Historicism），认定历史仅处理具有唯一时空坐标的个殊且不可重复现象；既然个殊事物不可比较，比较学者就必须告别历史，转向探寻规律与可重复模式的经验社会科学。 |
 > | **滑向神秘主义** | Epstein (1970) | 攻击萨德勒对[[Intangible Spiritual Forces\|无形精神力量]]（无形、不可捉摸精神力量）的强调**濒临神秘主义（Borders on mysticism）**，指责其呼吁学者关注非经验力量实质上是将严谨的实证分析引向随意的空想或灵性启示。（p.54） |
 
 #### 2. 卡扎米亚斯反思并检讨历史学派混淆实然与应然的[[Whiggism|辉格史观]]及国民性格循环论证
@@ -449,7 +454,7 @@ updated: 2026-09-07
 
 > [!critique-method] 卡扎米亚斯对历史学派两大方法论陷阱的早期批判反思
 > - **混淆实然与应然引发的[[Whiggism|辉格史观]]（Whiggism）** 卡扎米亚斯援引著名史学家赫伯特·巴特菲尔德（Herbert Butterfield）的经典论断，批评坎德尔试图在历史考察中寄托民主改良愿望，将现状是怎样的（What is）与未来应当怎样（What ought to be）混为一谈。历史学家的天职是客观厘清事物为何发生，一旦历史写作被先验的道德改良狂热所绑架，必然堕落为剪裁史料的辉格主义。（pp.54–55）
-> - **国民性格（National Character）概念的滥用与循环论证** 卡扎米亚斯严厉抨击坎德尔将英法制度差异轻率归因于心理特质的作法：例如坎德尔声称英国教育缺乏体系源于英国人厌恶抽象思考与规划，而法国教育秩序井然源于法国人沉溺于纯粹思维的快感。这种缺乏实证史料支撑的心理刻板印象陷入了互为因果的循环论证；正如约瑟夫·劳威斯（[[Joseph Lauwerys]]）所针砭的：国民性格若能被用来解释一切，实际上就什么也没有解释。（p.55）
+> - **国民性格（National Character）概念的滥用与循环论证** 卡扎米亚斯严厉抨击坎德尔与[[Vernon Mallinson|弗农·马林森]]（Vernon Mallinson）等学者将英法制度差异轻率归因于国民性格心理特质的作法：例如坎德尔声称英国教育缺乏体系源于英国人厌恶抽象思考与规划，而法国教育秩序井然源于法国人沉溺于纯粹思维的快感。这种缺乏实证史料支撑的心理刻板印象陷入了互为因果的循环论证；正如约瑟夫·劳威斯（[[Joseph Lauwerys]]）所针砭的：国民性格若能被用来解释一切，实际上就什么也没有解释。（p.55）
 
 然而，卡扎米亚斯强调：检讨历史学派的具体操作偏误，绝不意味着认同实证学派对[[Historical-Comparative Method|历史比较法]]的彻底否定与取消。（pp.55–56）
 
@@ -458,7 +463,7 @@ updated: 2026-09-07
 ### 论证步骤五　卡扎米亚斯激活广义科学观并借由非普适探索性假说确立历史比较法因果建构合法性与全人教化底线
 
 > [!claim] 步骤五核心主张
-> 实证主义者对历史方法的排斥建立在对科学概念的狭隘经验主义垄断之上；通过恢复德语 *Wissenschaft* 的广义人文科学传统，并引入克莱恩·布林顿（Crane Brinton）比较史学中基于非普适探索性[[Hypothesis|假说]]的归纳法，能够完全确立[[Historical-Comparative Method|历史比较法]]在理论建构与因果阐释上的现代科学合法性，筑牢以人为中心的终极防线。（pp.56–57）
+> 实证主义者对历史方法的排斥建立在对科学概念的狭隘经验主义垄断之上；通过恢复德语 *Wissenschaft* 的广义人文科学传统，并引入[[Crane Brinton|克莱恩·布林顿]]（Crane Brinton）比较史学中基于非普适探索性假说的归纳法，能够完全确立[[Historical-Comparative Method|历史比较法]]在理论建构与因果阐释上的现代科学合法性，筑牢以人为中心的终极防线。（pp.56–57）
 
 #### 1. 认识论溯源消解英语 Science 的狭隘垄断，为历史学派恢复德语广义科学规范的合法地位
 
@@ -477,7 +482,7 @@ updated: 2026-09-07
 
 针对 Foster (1960) 与 Anderson (1961) 所谓历史个案具有唯一时空性因而不具备比较价值的论断，卡扎米亚斯援引著名比较史学家 Brinton (1938/1952) 在 *The Anatomy of Revolution* 中提出的史学理论予以反驳。（p.56）
 
-> [!proc] 基于非普适探索性假说（Working Hypotheses of a Limited Nature）的历史归纳循环
+> [!proc] 基于非普适探索性假说（Working [[Hypothesis|hypotheses]] of a Limited Nature）的历史归纳循环
 > 1. **深耕具体与个殊事实（The Particular & The Concrete）** 历史比较学者首先对特定时空坐标下的具体制度、法案、政策与文化语境展开严密考证。
 > 2. **分类提炼与中程归纳（Induction & Formulation）** 比较史学家完全有能力将历史现象归类，并提炼出具有概括性的理论命题。这些命题虽非普遍永恒铁律，但构成了严谨的中程**非普适探索性假说**。
 > 3. **跨情境检验与反哺阐释（Testing & Illumination）** 将所提炼的非普适探索性假说投射至其他面临类似结构性矛盾的教育体系中进行批判性检验，从而深刻照亮另一个独特的历史个案。（p.56）
@@ -498,10 +503,10 @@ flowchart LR
 > [!chain-link] 历史比较传统的终极价值推导链
 > - **本体跃升：从微观学校教育（Schooling）扩展至广义文化教化（Paideia / Culture）**
 >   萨德勒、坎德尔、汉斯与乌利希四位奠基者拒绝将教育窄化为孤立的学校课堂、教学技术或文凭考核（Schooling），将其置于古希腊文化教化（*Paideia*）与新人文主义全人培育（*Bildung*）的宏阔格局中。学校是深嵌于民族整体文化生态与精神传统的鲜活有机体，制度比较的深层意义在于考察学校体系如何映照并滋养文明演进。（p.56）
-> - **认识论锚定：确立以人（Anthropos）为中心的人文知识体系（Humanistic Episteme）**
->   比较教育学是一门以人为本的人文理性体系（Humanistic Episteme）。无论制度结构如何演化、跨国统计指标如何纷繁，其根本关切始终锁定在人（*Anthropos* / Human being）的生存境遇、健全心智与精神解放之上。这一认识论原则击碎了将教育研究异化为投入-产出比测算或行为主义规训工具的狭隘取向，确立了以人的尊严为最高尺度的价值基石。（p.57）
+> - **认识论锚定：确立以人（Anthropos）为中心的人文知识体系（[[Humanistic Episteme]]）**
+>   比较教育学是一门以人为本的[[Humanistic Episteme|人本认识论]]（Humanistic Episteme）。无论制度结构如何演化、跨国统计指标如何纷繁，其根本关切始终锁定在人（*Anthropos* / Human being）的生存境遇、健全心智与精神解放之上。这一认识论原则击碎了将教育研究异化为投入-产出比测算或行为主义规训工具的狭隘取向，确立了以人的尊严为最高尺度的价值基石。（p.57）
 > - **方法论通达：以非普适探索性假说（Working Hypotheses of a Limited Nature）连接历史特殊性与理论建构**
->   援引布林顿（Crane Brinton）比较史学理论，论证学者完全有能力从个殊、具体与经验的历史事实中提炼中程理论命题。这些非普适探索性假说能够投射至其他相似历史情境中接受检验与反哺阐释，破除了实证派所谓历史个殊不可比较、缺乏理论建构效能的实证教条，为历史比较法确立了严谨的因果解释合法性。（Kazamias, 1963: 396; 2009: 56）
+>   援引[[Crane Brinton|布林顿]]（Crane Brinton）比较史学理论，论证学者完全有能力从个殊、具体与经验的历史事实中提炼中程理论命题。这些非普适探索性假说能够投射至其他相似历史情境中接受检验与反哺阐释，破除了实证派所谓历史个殊不可比较、缺乏理论建构效能的实证教条，为历史比较法确立了严谨的因果解释合法性。（Kazamias, 1963: 396; 2009: 56）
 > - **[[Axiology|价值论]]归宿：铸就直面极权崇拜、社会断裂与技术异化的时代文明防线**
 >   比较教育学承载着深刻的政治与道德哲学使命。历史学派学者亲历 20 世纪两次世界大战与极权浩劫，深知教育若脱离人文批判反思，极易沦为军国主义同质化动员、极权意识形态灌输或经济效率机器。历史比较学者必须具备深厚的哲学情怀与文明史自觉，主动介入当代人类面临的政治极权、社会不公与伦理异化等重大危机，守护教育作为人类精神解放之途的崇高品格。（pp.56–57）
 
@@ -513,12 +518,12 @@ flowchart LR
 > 1. **历史学派母题的七大[[Epistemology|认识论]]基石** [[Michael Sadler|萨德勒]]、[[Isaac Kandel|坎德尔]]、[[Nicholas Hans|汉斯]]与[[Robert Ulich|乌利希]]共同奠立了以广义人文科学、因果因素解释学、历史[[Educational Meliorism|改良主义]]、民族国家单元、质性优位、自由民主信念与观念唯心比较为支柱的学术[[Paradigm|范式]]。（pp.39–42）
 > 2. **奠基学者独特的范式分支贡献** 萨德勒立足特别调查署实践开创[[Intangible Spiritual Forces|校外无形精神力量]]情境论；坎德尔首创国家意志与政体解释[[Variable|变量]]；汉斯建立自然、宗教与世俗三维阶梯式因素框架并敏锐指出英美与苏联民主在教育公平上的共同缺陷；乌利希贯通西方思想文明四阶段开辟以人为本的[[Bildung|教化]]史路径。（pp.42–52）
 > 3. **1960年代实证危机的本质是话语垄断** [[Positivism|实证主义]]者对历史学派前科学、主观神秘与缺乏预测的指责，源于战后英美经验主义对科学（Science）概念的狭隘语义垄断，抹杀了德语 *Wissenschaft* 与希腊语 *Episteme* 的深厚人文科学传统。（pp.52–56）
-> 4. **非普适探索性[[Hypothesis|假说]]确立[[Historical-Comparative Method|历史比较法]]现代科学合法性** 援引克莱恩·布林顿的比较史学理论，论证历史研究能够经由归纳提炼中程的非普适探索性假说，在特殊与一般之间建立双向循环检验，从而打破个殊性不可比较的实证主义神话，确立了以人（*Anthropos*）为中心的现代学科防线。（pp.56–57）
+> 4. **非普适探索性假说确立[[Historical-Comparative Method|历史比较法]]现代科学合法性** 援引[[Crane Brinton|克莱恩·布林顿]]的比较史学理论，论证历史研究能够经由归纳提炼中程的非普适探索性假说，在特殊与一般之间建立双向循环检验，从而打破个殊性不可比较的实证主义神话，确立了以人（*Anthropos*）为中心的现代学科防线。（pp.56–57）
 
 > [!timeline]- 标志性学术史与[[Document|文献]]里程碑
 > - **1817 年** Jullien (1817) 发表 *[[Esquisse d'un ouvrage sur l'éducation comparée]]*，提出实证科学建构构想。（p.37）
 > - **1864 年** Arnold (1864) 发表 *A French Eton*，以图卢兹公学为例确立国家干预文化教育模式。（p.38）
-> - **1895–1903 年** Sadler 主持英国特别调查与报告署（OSIR），奠定实地历史比较调查范式。（pp.44–45）
+> - **1895–1903 年** Sadler 主持英国特别调查与报告署（[[Office of Special Inquiries and Reports|OSIR]]），奠定实地历史比较调查范式。（pp.44–45）
 > - **1900 年** Sadler (1900/1964) 发表吉尔福德演讲，确立校外无形精神力量支配校内一切的名篇断论。（p.44）
 > - **1933 年** Kandel (1933) 出版 *Comparative Education*，开创国家政体解释变量与观念比较进路。（p.46）
 > - **1949 年** Hans (1949) 出版 *Comparative Education: A Study of Educational Factors and Traditions*，确立自然、宗教、世俗三维因素框架。（p.50）
@@ -554,13 +559,13 @@ flowchart LR
 >
 > *From these examples it appears that neither the Anglo-Saxon interpretation of democracy as political freedom nor its Soviet interpretation as social equality have resulted in practice in establishing a true equality of educational opportunity for all citizens of their countries. We cannot escape the conclusion that both interpretations of democracy as practiced at present are defective.*
 
-> [!citation-card] 卡扎米亚斯援引布林顿比较史学重构非普适探索性[[Hypothesis|假说]]
-> 正如杰出的比较史学家克莱恩·布林顿所表明的，对历史现象进行归类并为了提炼概括而展开比较是完全可行的。尽管此类概括可能具有有限性而非普遍永恒性，但它们反过来可以作为工作假设，在其他类似情境中接受检验以阐释这些情境。换言之，通过对具体的、经验的和特殊事物的考察，具有历史头脑的比较教育学者能够归纳出概括性结论，并进而用其照亮另一个具体的事件或形态。(p. 56)；引自 Kazamias (1963:396)
+> [!citation-card] 卡扎米亚斯援引[[Crane Brinton|布林顿]]比较史学重构非普适探索性假说
+> 正如杰出的比较史学家克莱恩·布林顿所表明的，对历史现象进行归类并为了提炼概括而展开比较是完全可行的。尽管此类概括可能具有有限性而非普遍永恒性，但它们反过来可以作为工作[[Hypothesis|假设]]，在其他类似情境中接受检验以阐释这些情境。换言之，通过对具体的、经验的和特殊事物的考察，具有历史头脑的比较教育学者能够归纳出概括性结论，并进而用其照亮另一个具体的事件或形态。(p. 56)；引自 Kazamias (1963:396)
 >
 > *As Crane Brinton has shown, it is quite possible to categorize or classify historical phenomena and compare them for the purpose of making generalizations. Although such generalizations may be of a limited rather than a universal nature, they may in turn be used as working hypotheses to be tested in other similar situations in order to illuminate them. In other words, from an examination of the specific, the concrete and the particular, the historically-minded comparative educator may induce a generalization and then use it in order to illuminate another particular event or form.*
 
 > [!citation-card] 历史人文主义比较传统的以人为本与全人[[Bildung|教化]]底线
-> 萨德勒、坎德尔、汉斯与[[Robert Ulich|乌利希]]这四位杰出学者，不仅从狭隘的学校教育（schooling）视域审视教育，更从广义的文化教化（paideia/culture）层面理解教育；他们将比较教育视为一门人文主义知识体系（humanistic episteme），其根本关切应当始终锁定在人（anthropos）身上。因此，它必须是以人为中心的（anthropocentric），必须充盈着人文主义的哲学情怀，深切关照人类所面临的宏大政治、社会与伦理危机。(pp. 56–57)
+> 萨德勒、坎德尔、汉斯与[[Robert Ulich|乌利希]]这四位杰出学者，不仅从狭隘的学校教育（schooling）视域审视教育，更从广义的文化教化（paideia/culture）层面理解教育；他们将比较教育视为一门人文主义知识体系（[[Humanistic Episteme]]），其根本关切应当始终锁定在人（anthropos）身上。因此，它必须是以人为中心的（anthropocentric），必须充盈着人文主义的哲学情怀，深切关照人类所面临的宏大政治、社会与伦理危机。(pp. 56–57)
 >
 > *Sadler, Kandel, Hans, and Ulich, four of its most noted exponents, approached education not just from the narrow sense of 'schooling' but from the broader sense of paideia/culture, and comparative education as a 'humanistic episteme' whose major concern should be with the 'human being', the anthropos ('man'). As such, it should therefore be anthropocentric ('man-centred'); it should be pervaded by a 'humanistic' philosophy, and it should be concerned with the great problems—political, social but also ethical—which 'mankind' faces.*
 

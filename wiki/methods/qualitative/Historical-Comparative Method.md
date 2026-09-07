@@ -10,7 +10,7 @@ summary: "运用历史因果考证与跨国情境对照解释教育制度起源�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 30
+method_related_count: 31
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -49,6 +49,7 @@ related_methods:
   - "[[Case Study]]"
 related_instruments: []
 related_persons:
+  - "[[Crane Brinton]]"
   - "[[Nicholas Hans]]"
   - "[[Marc-Antoine Jullien]]"
 related_facts: []
@@ -80,7 +81,7 @@ updated: 2026-09-07
 > - **输出形式** 历史因果脉络谱系、制度演进动力模型、跨国对照[[Analytic Framework|分析框架]]、中程工作假设（Working Hypotheses）。
 
 > [!citation-card] 历史比较法从个案归纳工作假设的[[Epistemology|认识论]]辩护
-> 针对[[Positivism|实证主义]]者关于历史学仅能处理孤立独特性、无法为比较研究提供抽象与普遍化基础的指责，比较历史学早已证明：对历史现象进行分类并为了形成概括而进行比较是完全可能的。正如著名历史学家克莱恩·布林顿（Crane Brinton）所示，尽管此类概括属于有限范围而非普适规律，但它们能够作为工作假设在其他类似情境中进行检验，以阐明新的教育形态；历史学与社会科学皆包含对特殊性与普遍性的关切，二者差异仅在于研究侧重点与学术目的，而非方法上的对立。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 56)]]
+> 针对[[Positivism|实证主义]]者关于历史学仅能处理孤立独特性、无法为比较研究提供抽象与普遍化基础的指责，比较历史学早已证明：对历史现象进行分类并为了形成概括而进行比较是完全可能的。正如著名历史学家[[Crane Brinton|克莱恩·布林顿]]（Crane Brinton）所示，尽管此类概括属于有限范围而非普适规律，但它们能够作为工作假设在其他类似情境中进行检验，以阐明新的教育形态；历史学与社会科学皆包含对特殊性与普遍性的关切，二者差异仅在于研究侧重点与学术目的，而非方法上的对立。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 56)]]
 >
 > *As Crane Brinton has shown, it is quite possible to categorize or classify historical phenomena and compare them for the purpose of making generalizations. Although such generalizations may be of a limited rather than a universal nature, they may in turn be used as working hypotheses to be tested in other similar situations in order to illuminate them. In other words, from an examination of the specific, the concrete and the particular, the historically-minded comparative educator may induce a generalization and then use it in order to illuminate another particular event or form.*
 
@@ -113,7 +114,7 @@ updated: 2026-09-07
 > 2. **系统检索与鉴别多源史料** 全面搜集立法文本、官方考察报告、统计档案与经典论著。
 > 3. **因素解构与内在因果推导** 将制度演变拆解为政治政体、宗教传统、经济转型与文化思想等多维结构力量。
 > 4. **跨国横向矩阵对照** 识别不同国家面对相似历史挑战时的制度应对方案异同。
-> 5. **提炼中程非普适探索性[[Hypothesis|假说]]** 形成兼具经验具体性与理论抽象性的解释命题并投射至新情境中反哺检验。
+> 5. **提炼中程非普适探索性假说** 形成兼具经验具体性与理论抽象性的解释命题并投射至新情境中反哺检验。
 
 ### 质性方法模块
 
@@ -130,7 +131,7 @@ updated: 2026-09-07
 > 2. **内在考证（Internal Criticism）** 深度考掘文本字里行间的真实语义、修辞策略与作者意图，结合时代背景辨析立法陈述背后的隐秘利益博弈与阶级诉求。
 > 3. **因素结构化分解（Factorial Analysis）** 依据[[Nicholas Hans|汉斯]]（Hans, 1949）三维框架，将纷繁史料归纳为自然因素（语言、地理、种族）、宗教因素（天主教、新教、东正教）与世俗动因（人文主义、民族主义、民主平等）。
 > 4. **跨国矩阵对照与类型学提炼** 建立国别-历史时段-制度维度的跨国对照矩阵，提炼理想类型（如双轨制精英教育 vs 单轨制大众教育）。
-> 5. **非普适探索性假说生成与检验** 从具体历史形态中归纳中程假说（Limited Working Hypotheses），并将其运用于新案例的阐释与双向修正。
+> 5. **非普适探索性假说生成与检验** 从具体历史形态中归纳中程假说（Limited Working [[Hypothesis|hypotheses]]），并将其运用于新案例的阐释与双向修正。
 
 历史比较法通过在中程理论与个殊史实之间建立双向循环，消解了普遍与特殊的二元对立。
 
@@ -174,7 +175,7 @@ updated: 2026-09-07
 >   - **[[Whiggism|辉格史观]]（Whiggism）** 容易以当代民主改良的应然愿望裁剪复杂的历史实然事实，造成史料的偏颇解读（Butterfield, 1931; Kazamias, 1961）；
 >   - **[[National Character|国民性格]]（[[National Character]]）[[Construct|构念]]滥用** 易将复杂的阶级政治与制度利益博弈轻率归咎于虚无飘渺的心理特质，陷入同义反复的套套逻辑；
 >   - **[[Document|文献]]幸存者偏误** 留存至今的历史档案多出自官方精英与行政机构，容易遮蔽基层教师、边缘群体与弱势阶层的真实教育体验。
-> - **适用边界** 提炼出的理论概括属于“非普适探索性[[Hypothesis|假说]]”，其解释力严格依附于特定的时空情境与制度母体，不能直接外推为普适规律。
+> - **适用边界** 提炼出的理论概括属于“非普适探索性假说”，其解释力严格依附于特定的时空情境与制度母体，不能直接外推为普适规律。
 > - **误用风险** 在缺乏扎实史料支撑时，极易退化为主观臆断与缺乏证据基础的宏大玄想，招致实证学派关于“涉嫌神秘主义”的严厉指责（Epstein, 1970）。
 > - **补救方式** 坚持[[Primary and Secondary Documents|一手文献]]与二手研究的多重[[Triangulation|三角互证]]；公开反思研究者的价值前设与[[Theoretical Perspective|理论视角]]；引入中程社会学理论规范因果机制推导。
 

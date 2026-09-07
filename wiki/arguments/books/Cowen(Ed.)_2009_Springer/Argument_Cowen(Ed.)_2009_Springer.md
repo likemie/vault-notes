@@ -7,7 +7,7 @@ title: "Argument_Cowen(Ed.)_2009_Springer"
 argument_key: "Argument_Cowen(Ed.)_2009_Springer"
 argument_display_title: "International Handbook of Comparative Education"
 argument_kind: "edited-volume"
-argument_related_count: 39
+argument_related_count: 40
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#e5e7eb"
@@ -71,6 +71,7 @@ related_persons:
   - "[[Isaac Kandel]]"
   - "[[Nicholas Hans]]"
   - "[[Robert Ulich]]"
+  - "[[Crane Brinton]]"
 related_facts:
   - "[[OECD]]"
 related_arguments:
@@ -158,7 +159,7 @@ updated: 2026-09-07
 > - **已处理章节**
 >   - Ch. 02 [[Argument_Cowen_2009_HistoryCreation]]。Cowen 在该章系统诊断学科史编纂的三重困境，提倡建立 [[Comparative History of Comparative Education|比较教育学的比较史]]。
 >   - Ch. 03 [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]。Kaloyannaki 与 Kazamias 深入解构比较教育学的现代主义发端，辨析[[Marc-Antoine Jullien|马克-安托万·朱利安]]（Marc-Antoine Jullien）的准[[Proto-Scientific Motif|科学人道主义母题]]与[[Victor Cousin|维克多·库森]]（Victor Cousin）、[[Horace Mann|霍勒斯·曼]]（Horace Mann）等人的政策导向行政[[Educational Meliorism|改良主义]]母题，揭示借用作为政治合法化依据的机制。
->   - Ch. 04 [[Argument_Kazamias_2009_ForgottenThemes]]。Kazamias 系统挖掘[[Michael Sadler|迈克尔·萨德勒]]（Michael Sadler）、[[Isaac Kandel|艾萨克·坎德尔]]（Isaac Kandel）、[[Nicholas Hans|尼古拉斯·汉斯]]（Nicholas Hans）与[[Robert Ulich|罗伯特·乌利希]]（Robert Ulich）等学者开创的历史-哲学-文化与自由人文主义母题，阐明其广义人文科学定位、[[National Character|国民性格]]分析[[Construct|构念]]与历史改良主义底色，并借由克莱恩·布林顿（Crane Brinton）的有限工作[[Hypothesis|假设]]归纳法为[[Historical-Comparative Method|历史比较法]]确立现代合法性。
+>   - Ch. 04 [[Argument_Kazamias_2009_ForgottenThemes]]。Kazamias 系统挖掘[[Michael Sadler|迈克尔·萨德勒]]（Michael Sadler）、[[Isaac Kandel|艾萨克·坎德尔]]（Isaac Kandel）、[[Nicholas Hans|尼古拉斯·汉斯]]（Nicholas Hans）与[[Robert Ulich|罗伯特·乌利希]]（Robert Ulich）等学者开创的历史-哲学-文化与自由人文主义母题，阐明其广义人文科学定位、[[National Character|国民性格]]分析[[Construct|构念]]与历史改良主义底色，并借由[[Crane Brinton|克莱恩·布林顿]]（Crane Brinton）的有限工作[[Hypothesis|假设]]归纳法为[[Historical-Comparative Method|历史比较法]]确立现代合法性。
 > - **优先处理章节** Ch. 01（联合导论）、Ch. 10（历史反思）、Ch. 21（导论）、Ch. 61（新思维导论）、Ch. 79 与 Ch. 80（全书收束与结论）。
 > - **可暂缓章节** 专门聚焦特定国家微观细部、与全书主干理论[[Dialogue in Education|对话]]相对松散的案例章节。
 > - **缺口提醒** 目前已完成 Ch. 02、Ch. 03 与 Ch. 04，系统夯实了学科发端期准科学、行政借用与历史人文三大母题的谱系演进，第一板块历史奠基框架已初步成型，亟需推进各板块导引章与重点理论章以充实全书结构认知。

@@ -9,7 +9,7 @@ aliases:
 summary: "一种主张真正知识唯独建立在感官经验、观察与实验基础之上的认识论立场，预设自然与社会遵循同质客观法则；在启蒙发轫期曾从属于全人道德教化与社会改良，而在20世纪演化为追求价值中立与法则概括的统治性实证范式。"
 type: concept
 domain: "research-methodology"
-related_count: 73
+related_count: 74
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -84,6 +84,7 @@ related_persons:
   - "[[Nicholas Hans]]"
   - "[[Brian Holmes]]"
   - "[[Michael Sadler]]"
+  - "[[Philip Foster]]"
   - "[[Jürgen Habermas]]"
   - "[[Søren Kierkegaard]]"
   - "[[Francis Bacon]]"
@@ -238,7 +239,7 @@ updated: 2026-09-07
 > [!claim] Epstein, E. H.
 > **[[Michael Sadler|萨德勒]]式[[Intangible Spiritual Forces|无形精神力量]]对神秘主义的滑向与非经验力贬斥** [[Michael Sadler|萨德勒]]与坎德尔将学校外部无形、不可捉摸的精神力量置于分析核心的做法“濒临神秘主义”（borders on mysticism），其极端形态会导致关于教育本质的无端虚妄推论。将比较教育奠基于非经验力量之上的人文主义预设，实质上是在引导学者仅仅描述学校外部表象结构，而将核心解释机制诉诸松散的主观臆想乃至灵性启示，严重背离了现代[[Scientific Method|经验科学]]的实证规范。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 54; Epstein, 1970, p. 45)]]
 
-> [!claim] Anderson, C. A. & Foster, P. J.
+> [!claim] Anderson, C. A. & [[Philip Foster|Foster, P. J.]]
 > **历史主义个殊性排斥比较与重复模式探寻** 历史学派陷入了波普尔所批评的历史主义（historicism）陷阱，或者固守于处理具有特定时空坐标且不可重复的个殊事件。既然个殊事物不可比较，以寻求跨国抽象、法则概括与重复规律为天职的比较教育学者，其任务就不能等同于历史学家，而必须彻底转向探寻社会关系规律性与重复模式的经验社会科学家。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 54, 56; Foster, 1960; Anderson, 1961)]]
 
 ### 命题四　实证主义对客观性与价值中立的绝对化导致工具理性极权并遮蔽人类主体能动性

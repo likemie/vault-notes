@@ -687,6 +687,18 @@
     ]
   },
   {
+    "title": "Humanistic Episteme",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Humanistic Episteme.md",
+    "aliases": [
+      "人本认识论",
+      "以人为中心的比较教育学",
+      "人文认识论",
+      "Anthropocentric Comparative Education",
+      "Humanistic Comparative Episteme"
+    ]
+  },
+  {
     "title": "Intangible Spiritual Forces",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Intangible Spiritual Forces.md",
@@ -16526,6 +16538,16 @@
     ]
   },
   {
+    "title": "Vernon Mallinson",
+    "type": "person",
+    "path": "wiki/persons/uk/Vernon Mallinson.md",
+    "aliases": [
+      "弗农·马林森",
+      "马林森",
+      "Mallinson, V."
+    ]
+  },
+  {
     "title": "Walter Bodmer",
     "type": "person",
     "path": "wiki/persons/uk/Walter Bodmer.md",
@@ -16643,6 +16665,18 @@
       "克利福德·格尔茨",
       "Clifford James Geertz",
       "Geertz"
+    ]
+  },
+  {
+    "title": "Crane Brinton",
+    "type": "person",
+    "path": "wiki/persons/us/Crane Brinton.md",
+    "aliases": [
+      "克莱恩·布林顿",
+      "布林顿",
+      "Clarence Crane Brinton",
+      "C. Crane Brinton",
+      "Brinton, C."
     ]
   },
   {
@@ -16983,6 +17017,17 @@
       "保罗·鲍勒斯",
       "保罗·B·鲍勒斯",
       "Paul Paulus"
+    ]
+  },
+  {
+    "title": "Philip Foster",
+    "type": "person",
+    "path": "wiki/persons/us/Philip Foster.md",
+    "aliases": [
+      "菲利普·福斯特",
+      "福斯特",
+      "Philip J. Foster",
+      "Foster, P. J."
     ]
   },
   {
@@ -19465,6 +19510,18 @@
       "HEFCE",
       "英格兰高等教育拨款委员会",
       "英国高教拨款委员会"
+    ]
+  },
+  {
+    "title": "Office of Special Inquiries and Reports",
+    "type": "fact",
+    "path": "wiki/facts/uk/Office of Special Inquiries and Reports.md",
+    "aliases": [
+      "OSIR",
+      "特别调查与报告局",
+      "英国特别调查与报告局",
+      "Special Inquiries and Reports",
+      "Educational Intelligence Office"
     ]
   },
   {
