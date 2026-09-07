@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch04"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch04"
 argument_display_title: "Chapter four: Industry and business sector"
 argument_kind: "book-chapter"
-argument_related_count: 44
+argument_related_count: 43
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -67,8 +67,7 @@ related_methods:
   - "[[Observation Protocol]]"
   - "[[Accounts]]"
   - "[[Participatory Research]]"
-related_instruments:
-  - "[[VALUE Rubrics]]"
+related_instruments: []
 related_persons: []
 related_facts:
   - "[[EngineeringUK]]"
@@ -83,7 +82,7 @@ related_facts:
   - "[[Gatsby Benchmarks]]"
 status: draft
 created: 2026-09-04
-updated: 2026-09-04
+updated: 2026-09-07
 ---
 # Argument_RoyalSociety_2026_ScienceForSociety_Ch04
 
@@ -225,7 +224,7 @@ updated: 2026-09-04
 > [!policy-design] 英国《国家政府采购政策声明》与《社会价值模型》法定杠杆
 > - **政策目标** 激发商业承包企业实质投资在地社区科学外展与青年技能培训，消除阶层机会壁垒并修复公众信任。
 > - **适用对象** 竞标英国中央政府采购重大商业合同的所有大中型商业企业、研发供应商与交付联合体。
-> - **政策工具** 依据政府采购政策声明备忘录《社会价值模型指南》（Procurement Policy Note, PPN 002/2025），在中央政府采购合同评审最终阶段，**社会价值（Social [[VALUE Rubrics|VALUE]]）强制占据至少 10% 评审权重**。
+> - **政策工具** 依据政府采购政策声明备忘录《社会价值模型指南》（Procurement Policy Note, PPN 002/2025），在中央政府采购合同评审最终阶段，**社会价值（Social VALUE）强制占据至少 10% 评审权重**。
 > - **约束机制** 实行严格的可审计（Auditable）方案核算，倒逼企业携手[[Association for Science and Discovery Centres|英国科学与探索中心协会]]（Association for Science and Discovery Centres, ASDC）成员场馆落地普惠科普，形[[Growth|成长]]期造血双赢闭环。（p. 69）
 
 > [!example]- 图4-2：英国政府采购《社会价值模型》（[[Promising Practices Network|PPN]] 002）10% 法定权重撬动产业与非正式科学场馆协同机制图（基于 Cabinet Office 2025 与 PPN 002 指南，pp. 69, 76）

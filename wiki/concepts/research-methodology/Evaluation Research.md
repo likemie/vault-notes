@@ -9,7 +9,7 @@ aliases:
 summary: "运用社会科学研究方法回答项目或政策的有效性、效果和实施方案问题的应用研究分支，与纯研究（blue skies research）在研究动机、理论角色、议程设定和受众上存在系统差异。"
 type: concept
 domain: "research-methodology"
-related_count: 13
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -34,12 +34,11 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-related_instruments:
-  - "[[VALUE Rubrics]]"
+related_instruments: []
 confidence: medium
 status: draft
 created: 2026-06-17
-updated: 2026-06-17
+updated: 2026-09-07
 ---
 # Evaluation Research
 
@@ -81,7 +80,7 @@ updated: 2026-06-17
 > - **信息收集** 运用社会科学的全部方法论工具——研究设计、抽样、工具选择、信效度处理、数据分析——来收集与给定问题相关的信息。
 > - **判断与决策导向** 评估研究的终点是判断和决策，而非对理论或普遍知识体的贡献（Smith & Glass, 1987, pp. 33–34）。
 > - **政治嵌入性** 评估研究不可逃避地嵌入政治过程，涉及资源分配和权力关系（MacDonald, 1987, p. 42）。评估者必须决定服务于哪些决策者、什么信息最有价值、何时需要以及如何获取。
-> - **多重价值立场** 不同于研究对[[Value Neutrality|价值中立]]（[[VALUE Rubrics|VALUE]] neutrality）的追求，评估研究必须呈现多重价值立场并包含相关数据（Smith & Glass, 1987, p. 34）。
+> - **多重价值立场** 不同于研究对[[Value Neutrality|价值中立]]（VALUE neutrality）的追求，评估研究必须呈现多重价值立场并包含相关数据（Smith & Glass, 1987, p. 34）。
 > - **方法论与研究的重叠** 评估研究在操作层面几乎与研究无法区分——两者都提出问题与[[Hypothesis|假设]]、选择样本、操纵和测量[[Variable|变量]]、计算结果并陈述结论。Norris（1990, p. 97）因此将评估视为"研究的延伸"。
 
 > [!logic-map] 评估研究的双重关系

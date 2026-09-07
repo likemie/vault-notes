@@ -11,10 +11,10 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07"
 argument_display_title: "Research Methods in Education · Ch07"
 argument_kind: "book-chapter"
-argument_related_count: 75
-argument_related_level: 5
-argument_related_stars: "⭐⭐⭐⭐⭐"
-argument_related_color: "#fecdd3"
+argument_related_count: 74
+argument_related_level: 4
+argument_related_stars: "⭐⭐⭐⭐"
+argument_related_color: "#fef3c7"
 book_title: "Research Methods in Education"
 publisher: "Routledge"
 year: 2011
@@ -109,11 +109,10 @@ related_arguments: []
 sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
-related_instruments:
-  - "[[VALUE Rubrics]]"
+related_instruments: []
 status: draft
 created: 2026-06-21
-updated: '2026-08-27'
+updated: 2026-09-07
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07
 
@@ -882,7 +881,7 @@ Furlong & Oancea (2005, pp.11–15) 识别了教育研究中的质量维度（pp
 >   - 合宜性（法律和伦理要求）
 >   - 范式依赖性
 > - **技术维度（Technological dimension）**
->   使用价值（[[VALUE Rubrics|VALUE]] for use）：
+>   使用价值（VALUE for use）：
 >   - 显著性/时效性
 >   - 合目的性（purposivity）
 >   - 具体性和可及性

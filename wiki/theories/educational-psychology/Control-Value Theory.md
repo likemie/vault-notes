@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-05'
-updated: '2026-09-05'
+updated: 2026-09-07
 ---
 
 # Control-Value Theory
@@ -75,7 +75,7 @@ updated: '2026-09-05'
 > - **知识位置** 由德国教育心理学家 Reinhard Pekrun 于 2000 年代初系统提出并完善（Pekrun, 2000, 2006, 2014），是[[International Education|国际教育]]研究、课堂教学与智能学习技术[[Domain Analysis|领域分析]]学业情绪与心理状态的首要[[Paradigm|范式]]。
 
 > [!claim] 核心主张
-> 控制-价值理论主张，**主观控制感评价（Control Appraisals）**与**任务价值感评价（[[VALUE Rubrics|VALUE]] Appraisals）**是诱发和分化学业情绪的近端决定因素（Proximal Determinants）；当学习环境提升个体对学习过程/结果的可控感，并赋予活动内在或工具性价值时，将系统激发积极的高唤醒情绪（如学习享受、希望），抑制消极阻滞情绪（如课业焦虑、无聊与绝望），进而赋能高阶策略运用与深度学习投入。[[Argument_Chen_Cheung_2025_ERR|(Chen & Cheung, 2025, pp. 2, 16)]]
+> 控制-价值理论主张，**主观控制感评价（Control Appraisals）**与**任务价值感评价（VALUE Appraisals）**是诱发和分化学业情绪的近端决定因素（Proximal Determinants）；当学习环境提升个体对学习过程/结果的可控感，并赋予活动内在或工具性价值时，将系统激发积极的高唤醒情绪（如学习享受、希望），抑制消极阻滞情绪（如课业焦虑、无聊与绝望），进而赋能高阶策略运用与深度学习投入。[[Argument_Chen_Cheung_2025_ERR|(Chen & Cheung, 2025, pp. 2, 16)]]
 
 > [!citation-card]- 关键表述
 > 这一对[[Academic Achievement|学业成绩]]和[[Affective Outcomes|情感动机]]维度的显著促学效应，有力支持了[[Self-Determination Theory|自我决定理论]]与控制-价值理论，凸显了生成式 AI 如何满足学习者的基本心理需求并促进学习投入。[[Argument_Chen_Cheung_2025_ERR|(Chen & Cheung, 2025, p. 16)]]
@@ -143,7 +143,7 @@ updated: '2026-09-05'
 > 在复杂编程或学术英语写作中，传统教学下许多大学生面临严苛的考核，感到“任务极难且无法驾驭（低控制感）”，同时“挂科后果极其严重（高消极价值）”，从而陷入剧烈的学业焦虑（Anxiety），甚至产生认知瘫痪与拖延。
 > 当引入生成式 AI 作为协作导师时（[[Argument_Chen_Cheung_2025_ERR|Chen & Cheung, 2025]]）：
 > 1. **控制感重塑** AI 分解了复杂的代码构建与论文润色任务，提供即时语法修正与逻辑提示，使学生对完成任务的**主观控制感（Control Appraisal）**大幅上升；
-> 2. **价值感重估** 学生目睹了清晰可行的成果雏形，认识到当前投入能迅速产生高质量作品，**任务效用价值（[[VALUE Rubrics|VALUE]] Appraisal）**显著增强；
+> 2. **价值感重估** 学生目睹了清晰可行的成果雏形，认识到当前投入能迅速产生高质量作品，**任务效用价值（VALUE Appraisal）**显著增强；
 > 3. **情绪与动机跃迁** 焦虑被学习享受（Enjoyment）与掌控感取代，直接驱动了情感动机状态（$g^+ = 0.617$）的大幅改善，进而正向迁移至学业表现（$g^+ = 0.633$）。[[Argument_Chen_Cheung_2025_ERR|(Chen & Cheung, 2025, pp. 10, 16)]]
 
 ---
@@ -178,7 +178,7 @@ updated: '2026-09-05'
 
 > [!dev-timeline] 发展脉络
 > - **2000–2002 — 理论初创** Reinhard Pekrun 提出控制-价值理论核心架构，打破以往单一关注考试焦虑的局限，构建涵盖多维学业情绪的整体图景。
-> - **2006 — 完整体系发表** Pekrun 在 *Educational Psychology Review* 发表里程碑[[Document|文献]] *The Control-[[VALUE Rubrics|VALUE]] Theory of Achievement Emotions*，确立三维矩阵与递归因果模型。
+> - **2006 — 完整体系发表** Pekrun 在 *Educational Psychology Review* 发表里程碑[[Document|文献]] *The Control-VALUE Theory of Achievement Emotions*，确立三维矩阵与递归因果模型。
 > - **2014 — 跨文化与实证深化** Pekrun 等人出版专著并发布 AEQ 系列量表，在全球范围内验证控制-价值评价机制的普适性。
 > - **2025 — AI 教育时代的理论应用** [[Argument_Chen_Cheung_2025_ERR|Chen & Cheung (2025)]] 将 CVT 与 [[Self-Determination Theory|SDT]] 并列为解释生成式 AI 改善大学生[[Affective Outcomes|情感动机]]状态（$g^+ = 0.617$）的核心理论，指出自适应 AI 工具重塑了学习者的过程控制感与学习效能体验。
 

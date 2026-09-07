@@ -445,6 +445,18 @@
     ]
   },
   {
+    "title": "Cultural Nationalism vs. Political Nationalism",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Cultural Nationalism vs. Political Nationalism.md",
+    "aliases": [
+      "文化民族主义与政治民族主义",
+      "文化民族主义与政治民族主义的二元区分",
+      "Cultural Nationalism vs Political Nationalism",
+      "文化民族主义",
+      "政治民族主义"
+    ]
+  },
+  {
     "title": "Deductive Rationality",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Deductive Rationality.md",
@@ -672,6 +684,18 @@
       "历史哲学母题",
       "Historical-Humanist Motif",
       "Historical-Philosophical-Cultural and Liberal Humanist Motif"
+    ]
+  },
+  {
+    "title": "Intangible Spiritual Forces",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Intangible Spiritual Forces.md",
+    "aliases": [
+      "无形精神力量",
+      "不可捉摸的精神力量",
+      "校外无形精神力量",
+      "Intangible, Impalpable, Spiritual Forces",
+      "Spiritual Forces in Education"
     ]
   },
   {
@@ -973,6 +997,19 @@
       "教育国家化",
       "教育为国家公共资源",
       "education as a public resource"
+    ]
+  },
+  {
+    "title": "The Nation-State as the Unit of Comparison",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/The Nation-State as the Unit of Comparison.md",
+    "aliases": [
+      "民族国家作为比较单位",
+      "以民族国家作为比较单位",
+      "民族国家比较单位",
+      "比较教育中的民族国家单位",
+      "Nation-State as the Unit of Analysis",
+      "Nation-State as Unit of Comparison"
     ]
   },
   {
@@ -14446,7 +14483,6 @@
     "aliases": [
       "Valid Assessment of Learning in Undergraduate Education",
       "AAC&U VALUE Rubrics",
-      "VALUE",
       "本科生学习成果评价量规",
       "本科教育有效学习评估量规"
     ]

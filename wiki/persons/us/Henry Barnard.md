@@ -11,7 +11,7 @@ summary: "美国近代教育家与首任联邦教育专员，编纂卷帙浩繁�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 28
+person_related_count: 27
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -40,8 +40,7 @@ related_theories: []
 related_methods:
   - "[[Ethnography]]"
   - "[[Accounts]]"
-related_instruments:
-  - "[[VALUE Rubrics]]"
+related_instruments: []
 related_persons:
   - "[[Horace Mann]]"
   - "[[Brian Holmes]]"
@@ -59,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-06
+updated: 2026-09-07
 ---
 
 # Henry Barnard
@@ -150,7 +149,7 @@ updated: 2026-09-06
 > [!citation-card] 卡洛扬纳基与卡扎米亚斯论巴纳德为早期教育[[Ethnography|民族志]]学者
 > 将巴纳德的方法概括为描述性是恰当的，但不能斥其为“无系统或盲目记录”。巴纳德虽缺乏情境因果解释学分析，因而称不上合格的教育历史学家或严格意义上的比较因果学者，但应公允地将其定性为卓越的教育编年史官、教育叙事家与早期教育民族志学者；其客观全景记述在今天依然具有不可低估的史料价值，值得极高赞誉。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 33)]]
 >
-> *It is appropriate to characterise Barnard’s approach as being descriptive, but in our interpretation, it is inappropriate to characterise it as 'unsystematic' or 'indiscriminate reporting'. It would also be appropriate to characterise Barnard as a good 'chronicler' or a good 'educational narrator' or 'educational ethnographer', rather than a good 'educational historian'... One, however, should not underestimate the [[VALUE Rubrics|VALUE]] of good descriptive chronicles or narratives in studying foreign education even today, and in our judgement Barnard’s 'educational histories' deserve high praise, especially when one considers the times when they were written.*
+> *It is appropriate to characterise Barnard’s approach as being descriptive, but in our interpretation, it is inappropriate to characterise it as 'unsystematic' or 'indiscriminate reporting'. It would also be appropriate to characterise Barnard as a good 'chronicler' or a good 'educational narrator' or 'educational ethnographer', rather than a good 'educational historian'... One, however, should not underestimate the VALUE of good descriptive chronicles or narratives in studying foreign education even today, and in our judgement Barnard’s 'educational histories' deserve high praise, especially when one considers the times when they were written.*
 
 > [!citation-card] 卡洛扬纳基与卡扎米亚斯论美洲改革家的“政治合法化理据”借用实质
 > 美洲决策者与管理者固然渴望从国外汲取有用教训，但其目的根本不是[[Marc-Antoine Jullien|朱利安]]或[[Victor Cousin|库森]]意义上的直接[[Policy Borrowing|政策借用]]或制度移植；更准确地说，美洲[[Educational Meliorism|改良主义]]者是将国外的教训用作推动美利坚本土国民公共教育改革的“政治合法化理据”。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 34)]]

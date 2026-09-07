@@ -7,7 +7,7 @@ aliases:
 summary: "研究者对研究质量的基本义务，涵盖伦理规范、数据管理、实验设计和成果报告，大学通常要求师生完成 RCR 培训作为从事研究的条件"
 type: concept
 domain: "research-methodology"
-related_count: 14
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -33,12 +33,11 @@ related_facts: []
 related_arguments:
   - "[[Argument_Hall_2025_EthicalLegalFrameworks]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03]]"
-related_instruments:
-  - "[[VALUE Rubrics]]"
+related_instruments: []
 confidence: medium
 status: draft
 created: 2026-06-04
-updated: 2026-09-04
+updated: 2026-09-07
 ---
 
 # Responsible Conduct of Research
@@ -106,7 +105,7 @@ updated: 2026-09-04
 > 英国皇家学会建言参照英国统计局《统计实践守则》（Code of Practice for Statistics），为科学家与机构新闻官制定科学传播行为规范，确立三大核心支柱：
 > - **[[Trustworthiness|可信赖性]]（Trustworthiness）** 确立科学传播的独立性与透明度，主动披露资金支持、商业[[Conflict of Interest in Research|利益冲突]]与潜在偏见，严禁为追求眼球效应而片面发布未定论成果。
 > - **质量（Quality）** 恪守实证严谨性，确保新闻稿与公共阐述忠实于原始论文的证据力度；明确界定相关关系与[[Causality|因果关系]]，如实向公众说明动物模型与人体临床的本质差异。
-> - **价值（[[VALUE Rubrics|VALUE]]）** 秉持服务公众理性决策的价值导向，坦诚沟通研究的局限性与[[Scientific Uncertainty|证据不确定性]]（Uncertainty）；以平实、平衡的语言促进理性审议，杜绝煽动性恐慌或虚妄承诺。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026, pp. 61–64)]]
+> - **价值（VALUE）** 秉持服务公众理性决策的价值导向，坦诚沟通研究的局限性与[[Scientific Uncertainty|证据不确定性]]（Uncertainty）；以平实、平衡的语言促进理性审议，杜绝煽动性恐慌或虚妄承诺。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026, pp. 61–64)]]
 
 ---
 

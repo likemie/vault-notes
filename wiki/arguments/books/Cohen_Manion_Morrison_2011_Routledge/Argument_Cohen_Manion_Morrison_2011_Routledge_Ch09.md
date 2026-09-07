@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09"
 argument_display_title: "Research Methods in Education · Ch09"
 argument_kind: "book-chapter"
-argument_related_count: 43
+argument_related_count: 42
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -77,11 +77,10 @@ related_arguments: []
 sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
-related_instruments:
-  - "[[VALUE Rubrics]]"
+related_instruments: []
 status: draft
 created: 2026-06-22
-updated: '2026-08-27'
+updated: 2026-09-07
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09
 
@@ -780,7 +779,7 @@ Lee (1993, pp. 102–114) 将敏感访谈的操作总结为四个需要逐一处
 > [!citation-card]- [[Covert Research|隐蔽研究]] vs 间谍活动
 > "间谍活动是意识形态主动的，而研究是意识形态天真的。"间谍旨在推进特定价值体系或意识形态；研究旨在理解而非说服。（Mitchell, 1993, p. 46）
 >
-> *"Spying is ideologically proactive, whereas research is ideologically naïve." Spies seek to further a particular [[VALUE Rubrics|VALUE]] system or ideology; research seeks to understand rather than to persuade.*
+> *"Spying is ideologically proactive, whereas research is ideologically naïve." Spies seek to further a particular VALUE system or ideology; research seeks to understand rather than to persuade.*
 
 > [!citation-card]- 访谈是权力游戏的延伸
 > "我们需要承认……访谈是'权力游戏'的延伸而非与之分离，只是对其的评注……访谈既是[[Ethnography|民族志]]事件，也是政治事件。"（Ball, 1994b, p. 113）

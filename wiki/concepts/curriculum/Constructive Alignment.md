@@ -6,7 +6,7 @@ aliases:
 summary: "Biggs 提出的课程系统设计原则，以学生实际开展的学习活动为核心，并用同一组目标动词协调预期学习结果、教学／学习活动与标准参照评估；OECD报告进一步将其扩展为涵盖宏观资格框架、中观全课程整合与微观真实性评价的多层级治理工程。"
 type: concept
 domain: "curriculum"
-related_count: 39
+related_count: 38
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -50,7 +50,6 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Intervention Research]]"
 related_instruments:
-  - "[[VALUE Rubrics]]"
   - "[[Collegiate Learning Assessment]]"
   - "[[ETS HEIghten Critical Thinking Assessment]]"
 related_persons: []
@@ -66,7 +65,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-04
-updated: 2026-08-29
+updated: 2026-09-07
 ---
 
 # Constructive Alignment
@@ -81,7 +80,7 @@ updated: 2026-08-29
 > [!concept-lens] 概念透镜
 > - **含义** 建构性对齐把教育过程视为相互作用的生态系统，用同一组可观察的认知动词（如分析、评价、创新设计、批判[[Hypothesis|假设]]）统整预期结果、学习经历与评价载体。
 > - **用途** 帮助课程设计者诊断目标（宣称培养[[Higher-Order Thinking Skills|高阶思维]]）、教学（教师单向事实讲授）与考试（低阶客观题[[Rote Learning|死记硬背]]）之间的结构性脱节，并通过正向[[Assessment Backwash|评价反拨]]驱动[[Surface and Deep Learning|深层学习]]。
-> - **多层级拓展** 从单一微观课程模块，上升为宏观国家资格框架（如 [[European Qualifications Framework|EQF]]）、中观专业全课程体系（如 [[TESTA Project|TESTA]]）与微观课堂评价量规（如 [[VALUE Rubrics|VALUE]]）的全链条贯通。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 6–8, 26–28)]]
+> - **多层级拓展** 从单一微观课程模块，上升为宏观国家资格框架（如 [[European Qualifications Framework|EQF]]）、中观专业全课程体系（如 [[TESTA Project|TESTA]]）与微观课堂评价量规（如 VALUE）的全链条贯通。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 6–8, 26–28)]]
 > - **边界** 对齐只保障课程系统内部的逻辑协同与实现概率，不能代替对目标本身的价值判断，也不能自动抹平学生的个体背景差异。[[Argument_Biggs_1999_HERD|(Biggs, 1999, pp. 64, 73–74)]]
 
 > [!boundary]- 概念边界
@@ -163,7 +162,7 @@ updated: 2026-08-29
 > [!frames-ref]- 多层级对齐的核心内涵（[[Argument_Bouckaert_2023_OECD|Bouckaert, 2023]]）
 > - **宏观层级（Macro）** [[European Qualifications Framework|欧洲资格框架]]（EQF）与各国 NQF 将[[Higher-Order Thinking Skills|高阶思维]]确立为学士、硕士与博士的核心学习成果。
 > - **中观层级（Meso / 全课程级）** 克服模块化（Modularisation）导致的考核碎片化危机；依托 [[TESTA Project|TESTA]] 等模式在专业整体层面统整评价任务，保障跨学期复合能力的螺旋式上升。
-> - **微观层级（Micro / 课堂与量规）** 采用 [[VALUE Rubrics|VALUE]] 等经过教师校准研讨（Calibration）的表现性量规，直接嵌入日常大[[Homework|作业]]与论文中，实现教、学、评一体化。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 6–8, 26–28)]]
+> - **微观层级（Micro / 课堂与量规）** 采用 VALUE 等经过教师校准研讨（Calibration）的表现性量规，直接嵌入日常大[[Homework|作业]]与论文中，实现教、学、评一体化。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 6–8, 26–28)]]
 
 ---
 
@@ -227,7 +226,7 @@ updated: 2026-08-29
 > 现代[[Higher-Order Thinking Skills|高阶思维]]培养无法依靠孤立的单门课程完成，必须破除模块化碎片化考核，在全专业乃至国家资格框架层面建立系统对齐。
 
 > [!claim] Bouckaert
-> **从微观课程对齐向全系统多层级对齐跃升** 传统对齐局限于单门课程模块内部，易在大学模块化（Modularisation）浪潮中遭遇“过度考核（Hyper-Assessment）”异化；唯有将对齐原则上升至宏观国家资格框架（NQFs）、中观全课程评价架构（[[TESTA Project|TESTA]]）以及微观跨校教师量规校准研讨（[[VALUE Rubrics|VALUE]] Calibration），才能从根本上解决大学生批判与创新思维增益微弱的系统性危机。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 6–8, 26–28)]]
+> **从微观课程对齐向全系统多层级对齐跃升** 传统对齐局限于单门课程模块内部，易在大学模块化（Modularisation）浪潮中遭遇“过度考核（Hyper-Assessment）”异化；唯有将对齐原则上升至宏观国家资格框架（NQFs）、中观全课程评价架构（[[TESTA Project|TESTA]]）以及微观跨校教师量规校准研讨（VALUE Calibration），才能从根本上解决大学生批判与创新思维增益微弱的系统性危机。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 6–8, 26–28)]]
 
 ---
 
@@ -252,7 +251,7 @@ updated: 2026-08-29
 > - **1999 年：微观课程操作框架完整化** Biggs 发表经典论文，整合[[Constructivist Paradigm|建构主义]]、目标动词、[[Criterion-Referenced Test|标准参照评估]]、[[SOLO Taxonomy|SOLO]] 质量阶梯与[[Assessment Backwash|评估反拨]]，奠定全球高等教育课程设计的理论基石。[[Argument_Biggs_1999_HERD|(Biggs, 1999, pp. 63–73)]]
 > - **2000 年代初至 2010 年代：[[Bologna Process|博洛尼亚进程]]与学习成果本位推广** 欧洲高等教育区将建构性对齐采纳为推行 ECTS 学分制、模块化大纲与成果导向教育（[[Outcomes-based Education|OBE]]）的核心指导原则。
 > - **2015 年：与[[Visible Learning|可见的学习]]（Visible Learning）框架衔接** Hattie 强调预先公开成功标准、协调表层与[[Surface and Deep Learning|深层学习]]，并建立评估反馈闭环，丰富了对齐的实证心理机制。[[Argument_Hattie_2015_SOTLP|(Hattie, 2015b, pp. 80–89)]]
-> - **2020 年代至今：多层级治理与全课程[[Authentic Assessment|真实性评价]]重塑** [[OECD]] 报告（[[Argument_Bouckaert_2023_OECD|Bouckaert, 2023]]）反思模块化过度考核弊端，倡导通过 [[TESTA Project|TESTA]] 全专业整合、[[VALUE Rubrics|VALUE]] 量规校准及国家资格框架联动，构建现代[[Higher-Order Thinking Skills|高阶思维]]培养的多层级对齐生态。
+> - **2020 年代至今：多层级治理与全课程[[Authentic Assessment|真实性评价]]重塑** [[OECD]] 报告（[[Argument_Bouckaert_2023_OECD|Bouckaert, 2023]]）反思模块化过度考核弊端，倡导通过 [[TESTA Project|TESTA]] 全专业整合、VALUE 量规校准及国家资格框架联动，构建现代[[Higher-Order Thinking Skills|高阶思维]]培养的多层级对齐生态。
 
 ---
 

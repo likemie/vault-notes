@@ -10,7 +10,7 @@ aliases:
 summary: "大学拥有或运营的专为产业合作和创新活动提供的物理空间，包括孵化器、研究园区和科技园区，是产学合作中经济发展维度的重要基础设施"
 type: concept
 domain: "higher-education"
-related_count: 11
+related_count: 10
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -33,12 +33,11 @@ related_facts:
 related_arguments:
   - "[[Argument_Boccanfuso_Hall_2025_OrgStrategy]]"
   - "[[Argument_Byrne_2025_InnovationCenters]]"
-related_instruments:
-  - "[[VALUE Rubrics]]"
+related_instruments: []
 confidence: medium
 status: draft
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-09-07
 ---
 
 # Innovation Park
@@ -92,7 +91,7 @@ updated: 2026-05-27
 > 3. 学术与公共对研发的承诺 — 强大的研究项目是吸引企业入驻的基础
 > 4. 筹资与对外关系 — 成功的园区几乎总是精心规划和利益相关者参与的结果
 > 5. 区域合作 — 必须"基于本地"并利用区域独特的文化和地理特征
-> 6. 激活活动与[[Placemaking|场所营造]] — 在建筑"内"创造价值，而非创造建筑"的"价值（[[VALUE Rubrics|VALUE]] "in" the building, not "of" the building）
+> 6. 激活活动与[[Placemaking|场所营造]] — 在建筑"内"创造价值，而非创造建筑"的"价值（VALUE "in" the building, not "of" the building）
 >
 > TUFF 的口号是"密度就是命运"（density is destiny）：不仅指物理邻近性，更指强力、灵活的场所营造项目推动的人际互动频率和质量（p.136）。
 

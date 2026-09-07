@@ -8,7 +8,7 @@ aliases:
 summary: "产业方编制临床试验预算时依据的定价原则，通过跨试验阶段和地理区域的行业实际谈判数据共享确保预算公平，但进入学术机构后被 20%–35% 的管理费率显著推高，构成产学预算矛盾的核心"
 type: concept
 domain: "higher-education"
-related_count: 4
+related_count: 3
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -25,12 +25,11 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-related_instruments:
-  - "[[VALUE Rubrics]]"
+related_instruments: []
 confidence: medium
 status: draft
 created: 2026-06-03
-updated: 2026-06-03
+updated: 2026-09-07
 ---
 
 # Fair Market Value
@@ -38,7 +37,7 @@ updated: 2026-06-03
 ## 定义
 
 > [!info]
-> 公平市场价值（Fair Market [[VALUE Rubrics|VALUE]], FMV）是产业方编制[[Clinical Trial|临床试验]]预算时依据的定价原则：产业方通过订阅成本数据共享服务，跨不同试验阶段、治疗领域和地理区域比较实际谈判预算，确保提出的成本不构成对机构的诱导参与或不当影响（pp.205–206）。常用的数据共享服务包括 Grant Plan® 和 Grants Manager®。
+> 公平市场价值（Fair Market VALUE, FMV）是产业方编制[[Clinical Trial|临床试验]]预算时依据的定价原则：产业方通过订阅成本数据共享服务，跨不同试验阶段、治疗领域和地理区域比较实际谈判预算，确保提出的成本不构成对机构的诱导参与或不当影响（pp.205–206）。常用的数据共享服务包括 Grant Plan® 和 Grants Manager®。
 
 ## 核心要素
 

@@ -7,7 +7,7 @@ aliases:
 summary: "分析公共论述如何取得正当性的四层次框架，包括权威与传统、道德价值、理性与真理、奖励叙事，可用于解释教育政策如何包装证据立场"
 type: theory
 theory_field: "communication-discourse"
-theory_related_count: 18
+theory_related_count: 17
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -40,12 +40,11 @@ related_facts:
   - "[[Education Endowment Foundation]]"
 related_arguments:
   - "[[Argument_Bainbridge_2022_ROE]]"
-related_instruments:
-  - "[[VALUE Rubrics]]"
+related_instruments: []
 confidence: low
 status: draft
 created: '2026-05-07'
-updated: '2026-05-18'
+updated: 2026-09-07
 ---
 
 ## 核心主张
@@ -70,7 +69,7 @@ updated: '2026-05-18'
 > - 在教育政策中的表现：引用 [[Ofsted]] 评级（制度权威）、议会内部报告（程序权威）、传统[[Grammar School|文法学校]]模式（历史权威）
 > - 例：议员以"grammar schools have thrived and have been vindicated"（Lord Framlingham, 2016）为[[Grammar School|文法学校]]辩护时，诉诸的是传统权威而非实证证据([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.20]])
 >
-> **2. 道德价值合法化（Moral [[VALUE Rubrics|VALUE]] Legitimation）**
+> **2. 道德价值合法化（Moral VALUE Legitimation）**
 > - 观点或行动与**组织或群体持有的道德价值**对齐时获得合法性
 > - 在教育政策中的表现：将 [[Ofsted]] 的技术评级"good"转化为道德判断——"[[Grammar School|文法学校]]是好的"
 > - 这是 Bainbridge et al. 识别的"建构型道德侧步"的核心机制——"good"（[[Ofsted]] 术语）被扭曲为道德上的"善"([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.19, 27]])

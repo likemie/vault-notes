@@ -95,7 +95,7 @@ updated: 2026-09-07
 > [!boundary]- 概念边界
 > - 不等于 逻辑[[Positivism|实证主义]]的证实原则（Verificationism） — 证实原则要求通过感官经验归纳确立真理；证伪主义认定全称命题在逻辑上无法被穷尽证实，科学仅能通过排除错误命题逼近客观真理。
 > - 不等于 朴素否定与彻底抛弃（Naive Falsificationism） — 面对反常观测，科学家往往通过调整辅助假设或重构理论保护带（如拉卡托斯所述）来修正理论，而非盲目放弃整个理论体系。
-> - 不等于 拒斥历史比较中的中程工作假设（Working Hypotheses） — 历史与[[Qualitative Research|质性研究]]基于具体情境提炼的有限工作假设虽非放之四海而皆准的普适铁律，但具备跨语境检验与反哺阐释的科学合法性，不能被唯实证的证伪主义全盘取消。
+> - 不等于 拒斥历史比较中的中程工作假设（Working Hypotheses） — 历史与[[Qualitative Research|质性研究]]基于具体情境提炼的非普适探索性假说虽非放之四海而皆准的普适铁律，但具备跨语境检验与反哺阐释的科学合法性，不能被唯实证的证伪主义全盘取消。
 
 ---
 
@@ -173,13 +173,13 @@ updated: 2026-09-07
 ### 命题三　教学与方法论中的简化版证伪主义掩盖了理论检验的整体论困境与历史归纳效能
 
 > [!concept-lens] 不完全决定性困境与历史中程抽象反思
-> 剖析证伪主义在课程教学与认识论操作中的过度简化现象，揭示迪昂-蒯因难题与比较史学有限工作假设对唯证伪教条的突围。
+> 剖析证伪主义在课程教学与认识论操作中的过度简化现象，揭示迪昂-蒯因难题与比较史学非普适探索性假说对唯证伪教条的突围。
 
 > [!claim] Zemplén, G. Á.
 > **[[Critical Thinking|批判性思维]]课程对证伪主义的工具化简化与深层矛盾** 曾普伦通过对[[International Baccalaureate|国际文凭]]（IB）[[Theory of Knowledge|TOK]] 教科书的深入分析指出，虽然教科书编写者在理论上明晰证伪主义无法解决归纳问题且面临拉卡托斯的反思，但在设计练习题与考核时依然将可证伪性作为区分科学与非科学的唯一机械标准（8/12 题目）。这种简化并非出于知识匮乏，而是科学教育在自由批判审议与树立科学绝对权威之间的结构性妥协，导致证伪主义在实践中退化为教条化的宣传口号。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, pp. 175–178)]]
 
 > [!claim] [[Andreas Kazamias|Kazamias, A.]] M.
-> **比较史学有限工作假设对唯证伪主义教条的突破** 卡扎米亚斯反击狭隘实证派对历史学派的彻底取消，指出克莱恩·布林顿（Crane Brinton）的比较史学有力证明：历史学者完全能够从具体个案事实中归纳出具有中程解释力的工作假设（Working Hypotheses）。这些工作假设虽非放之四海而皆准的普遍经验律，但具备跨时空比较检验与反哺阐释另一独特个案的强大效能；科学与历史的区别仅在于研究重心的不同，实证学派借由可证伪性否定历史比较的因果合法性建立在狭隘的经验主义垄断之上。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 56)]]
+> **比较史学非普适探索性假说对唯证伪主义教条的突破** 卡扎米亚斯反击狭隘实证派对历史学派的彻底取消，指出克莱恩·布林顿（Crane Brinton）的比较史学有力证明：历史学者完全能够从具体个案事实中归纳出具有中程解释力的工作假设（Working Hypotheses）。这些工作假设虽非放之四海而皆准的普遍经验律，但具备跨时空比较检验与反哺阐释另一独特个案的强大效能；科学与历史的区别仅在于研究重心的不同，实证学派借由可证伪性否定历史比较的因果合法性建立在狭隘的经验主义垄断之上。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 56)]]
 
 ---
 
@@ -190,7 +190,7 @@ updated: 2026-09-07
 > |---|---|---|---|
 > | **科学哲学划界命题** | 确立以经验可反驳性为标志的划界标准，主张知识增长建立在推测与反驳循环之上 | 科学哲学划界、假说演绎模型构建与理论检验 | Popper; Cohen et al.; Laudan |
 > | **学科转型实证检验命题** | 将质性历史论断降维为待检验假说，主张跨国变量测量与可证伪政策推演 | 战后经验比较教育学转型、跨国因果假说检验与问题解决分析 | [[Harold Noah\|Noah]] & [[Max Eckstein\|Eckstein]]; Holmes |
-> | **方法论整体论反思命题** | 揭示证伪主义在教学中的教条化倾向，确立比较史学有限工作假设的合法性 | 批判性思维教学反思、科学社会学与历史比较因果解释 | Zemplén; [[Andreas Kazamias\|Kazamias]]; Brinton |
+> | **方法论整体论反思命题** | 揭示证伪主义在教学中的教条化倾向，确立比较史学非普适探索性假说的合法性 | 批判性思维教学反思、科学社会学与历史比较因果解释 | Zemplén; [[Andreas Kazamias\|Kazamias]]; Brinton |
 
 ---
 
@@ -200,7 +200,7 @@ updated: 2026-09-07
 > - **1934/1959 — 波普尔《科学发现的逻辑》确立证伪划界标准** 波普尔出版《科学发现的逻辑》（*Logik der Forschung*），明确批判逻辑[[Positivism|实证主义]]的归纳证实主义，确立以不对称经验反驳为内核的可证伪性划界标准。
 > - **1960s — 比较教育学科大转型引入证伪主义准绳** [[Brian Holmes|霍姆斯]]（Holmes, 1965）基于波普尔批判[[Rationalism in International Relations|理性主义]]确立[[Problem Solving|问题解决]]法；[[Harold Noah|诺亚]]与[[Max Eckstein|埃克斯坦]]（Noah & Eckstein, 1969）指责传统历史学派结论仅为未经证伪检验的假说，呼吁将学科建立在经验跨国检验基础之上。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 53)]]
 > - **1970 — 拉卡托斯提出科学研究纲领方法论** 拉卡托斯（Imre Lakatos）反思朴素证伪主义，指出面对反常科学家会设立辅助[[Hypothesis|假设]]保护理论硬核，提出精致证伪主义与纲领进步/退化判定准则。
-> - **1963/2009 — 卡扎米亚斯重建比较史学有限工作假设** 卡扎米亚斯援引布林顿史学方法，阐明历史比较能够通过有限工作假设实现中程抽象与经验检验，打破了实证主义对检验科学概念的狭隘垄断。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 56)]]
+> - **1963/2009 — 卡扎米亚斯重建比较史学非普适探索性假说** 卡扎米亚斯援引布林顿史学方法，阐明历史比较能够通过非普适探索性假说实现中程抽象与经验检验，打破了实证主义对检验科学概念的狭隘垄断。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 56)]]
 > - **2007 — 曾普伦反思[[Critical Thinking|批判性思维]]教育中的证伪教条** 曾普伦发表针对 [[Theory of Knowledge|TOK]] 教科书的[[Content Analysis|内容分析]]，系统揭示证伪主义在中学与大学批判性思维课程中被简化为机械教条的结构性教学困境。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007)]]
 
 ---
@@ -219,7 +219,7 @@ updated: 2026-09-07
 > > 社会科学探究是否必须遵循严格假说演绎与反驳，还是可以通过历史个案归纳中程假说。
 > >
 > > - **[[Positivism|实证主义]]比较学者（Noah & Eckstein, Holmes）** 主张将所有质性论断[[Transfer Translation Transformation|转译]]为跨国可证伪假说，唯有预测成功才算科学理解。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 53)]]
-> > - **比较史学者（Kazamias, Brinton）** 论证历史质性归纳能够提炼出有效的有限工作假设，其使命在于跨语境阐释制度生成的深层原因，而非追求普遍普适律的机械预测。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 56)]]
+> > - **比较史学者（Kazamias, Brinton）** 论证历史质性归纳能够提炼出有效的非普适探索性假说，其使命在于跨语境阐释制度生成的深层原因，而非追求普遍普适律的机械预测。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 56)]]
 
 > [!critique] 外部批评
 > - **脱离真实科学史实践轨迹** [[Deanna Kuhn|库恩]]与拉卡托斯指出，科学史上科学家在面对反常数据时极少直接放弃主流[[Paradigm|范式]]，相反通常选择对理论加以修正或保护，证伪主义无法如实描述科学史的动态演进。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, pp. 183–184)]]
@@ -248,7 +248,7 @@ updated: 2026-09-07
 > |---|---|---|
 > | **[[Epistemology\|认识论]]范式** | [[Positivism]]；[[Postpositivism]] | 作为后实证主义科学哲学的核心基石，取代实证主义归纳证实原则 |
 > | **核心方法要素** | [[Hypothesis]]；[[Operationalization]] | 驱动科学假说的精确操作化与异质情境严格检验设计 |
-> | **学科转型碰撞** | [[Historical-Comparative Method]] | 1960 年代实证学派以可证伪性为武器批评历史学派，促使历史比较引入有限工作假设 |
+> | **学科转型碰撞** | [[Historical-Comparative Method]] | 1960 年代实证学派以可证伪性为武器批评历史学派，促使历史比较引入非普适探索性假说 |
 > | **反思与[[Dialogue in Education\|对话]][[Paradigm\|范式]]** | [[Historical-Philosophical-Cultural Motif]] | 历史人文母题通过广义科学定位打破实证派唯证伪主义的科学话语垄断 |
 > | **教学与[[Metacognition\|元认知]]应用** | [[Critical Thinking]]；[[Theory of Knowledge]] | 构成 TOK 课程中关于科学划界与知识真伪审议的核心讨论主题 |
 > | **[[Critical Theory\|批判理论]]支撑** | [[Duhem-Quine Thesis]] | 迪昂-蒯因不完全决定性构成了反思朴素证伪主义的核心认识论反论 |
@@ -261,5 +261,5 @@ updated: 2026-09-07
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 在研究方法教科书的哲学基础章节中系统阐述证伪主义作为[[Postpositivism|后实证主义范式]]的基石概念，详细界定严格检验与推测反驳循环。
 > - [[Argument_Zemplen_2007_SciEduc|Zemplén (2007)]] — 以 IB [[Theory of Knowledge|TOK]] 教科书为经验案例，剖析证伪主义在[[Critical Thinking|批判性思维]]教学中被教条化和简化的结构性困境，提出以不完全决定性和纽拉特[[Positivism|实证主义]]作为替代教学起点。
-> - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009)]] — 思想史考古揭示 1960 年代[[Brian Holmes|霍姆斯]]、[[Harold Noah|诺亚]]与[[Max Eckstein|埃克斯坦]]如何利用波普尔可证伪性准绳围剿历史比较学派，并借由布林顿比较史学归纳法重构有限工作[[Hypothesis|假设]]的合法性。
+> - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009)]] — 思想史考古揭示 1960 年代[[Brian Holmes|霍姆斯]]、[[Harold Noah|诺亚]]与[[Max Eckstein|埃克斯坦]]如何利用波普尔可证伪性准绳围剿历史比较学派，并借由布林顿比较史学归纳法重构非普适探索性[[Hypothesis|假说]]的合法性。
 

@@ -8,7 +8,7 @@ summary: "德裔美籍教育哲学家与文化史学家，哈佛大学教授，�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 25
+person_related_count: 24
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -33,8 +33,7 @@ related_concepts:
   - "[[Historical-Philosophical-Cultural Motif]]"
 related_methods:
   - "[[Historical-Comparative Method]]"
-related_instruments:
-  - "[[VALUE Rubrics]]"
+related_instruments: []
 related_persons:
   - "[[George Bereday]]"
   - "[[Andreas Kazamias]]"
@@ -68,7 +67,7 @@ updated: 2026-09-07
 > [!citation-card]- 人物定位的关键来源
 > 保罗·纳什（Paul Nash）在罗伯特·乌利希（Robert Ulich）逝世后的纪念悼文中将其对比较教育的贡献定性为“来自欧洲的人文主义厚礼”。纳什指出，乌利希的人文主义路径具有四个鲜明维度：第一，坚决将人牢牢置于教育画卷的绝对中心，对于乌利希而言，人的价值永远先于课程、学科、建制或纯粹学术研究；第二，其研究路径是彻底且毫不妥协的历史主义，坚信不理解历史语境便无法领会教育进程的本质；第三，高度重视比较教育对教师教育的人文意义，排斥那些仅供研究者内部自我欣赏的枯燥图表和理论；第四，具有鲜明的政治价值系统，终生践行社会民主主义理念。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 52)]]；引自 Nash (1977:147–149)
 >
-> *Paul Nash characterised Ulich's 'contribution to comparative education' as quintessentially 'humanistic'... There were four 'dimensions' to Ulich's humanistic approach. First, there was Ulich's 'determination to keep the human being firmly at the center of the educational picture; for Ulich, the person was always central, rather than the curriculum, the discipline, the [[Champ|field]], the institution, or the research'. Second, Ulich's approach was 'unapologetically and thoroughly historical'... The third dimension... lay in the human relevance he saw in comparative education for the education of teachers... Lastly... Ulich's humanistic approach was marked by a strongly political [[VALUE Rubrics|VALUE]] system... he was a lifelong social democrat.*
+> *Paul Nash characterised Ulich's 'contribution to comparative education' as quintessentially 'humanistic'... There were four 'dimensions' to Ulich's humanistic approach. First, there was Ulich's 'determination to keep the human being firmly at the center of the educational picture; for Ulich, the person was always central, rather than the curriculum, the discipline, the [[Champ|field]], the institution, or the research'. Second, Ulich's approach was 'unapologetically and thoroughly historical'... The third dimension... lay in the human relevance he saw in comparative education for the education of teachers... Lastly... Ulich's humanistic approach was marked by a strongly political value system... he was a lifelong social democrat.*
 
 ---
 

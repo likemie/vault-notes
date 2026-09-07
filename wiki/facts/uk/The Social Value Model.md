@@ -11,9 +11,9 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 8
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 7
+fact_related_level: 0
+fact_related_stars: ""
 fact_related_color: "#dbeafe"
 issuing_organization: Cabinet Office, Government Commercial Function
 tags:
@@ -27,8 +27,7 @@ related_concepts:
   - "[[Lifelong Learning]]"
 related_theories: []
 related_methods: []
-related_instruments:
-  - "[[VALUE Rubrics]]"
+related_instruments: []
 related_persons: []
 related_facts:
   - "[[Promising Practices Network]]"
@@ -39,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-09-04
+updated: 2026-09-07
 ---
 
 # The Social Value Model
@@ -59,7 +58,7 @@ updated: 2026-09-04
 ## 政策文本摘要
 
 > [!claim] 政策核心
-> 确立中央政府采购法定指导原则，**明确规定社会价值（Social [[VALUE Rubrics|VALUE]]）必须占最终评标阶段总可分配分数的至少 10% 权重**，并将打破机会壁垒、填补技能差距与支持边缘群体确立为战略考核维度。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04|(The Royal Society, 2026, p. 69)]]
+> 确立中央政府采购法定指导原则，**明确规定社会价值（Social VALUE）必须占最终评标阶段总可分配分数的至少 10% 权重**，并将打破机会壁垒、填补技能差距与支持边缘群体确立为战略考核维度。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04|(The Royal Society, 2026, p. 69)]]
 
 > [!policy-design]- 政策设计
 > - **核心目标** 激励竞标企业将商业交付与社会效益有机融合，重点解决国家关键行业技能短缺、促进欠发达地区经济复苏、减少青年与代表性不足群体面临的发展壁垒。

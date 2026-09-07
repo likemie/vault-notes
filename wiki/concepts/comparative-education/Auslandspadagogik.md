@@ -8,7 +8,7 @@ aliases:
 summary: "德语区指称对异域教育制度与实践开展百科全书式描述性、报道性调查的文献与知识传统，构成了19世纪比较教育学制度化前的核心经验载体"
 type: concept
 domain: "comparative-education"
-related_count: 33
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -38,8 +38,7 @@ related_theories:
 related_methods:
   - "[[Ethnography]]"
   - "[[Accounts]]"
-related_instruments:
-  - "[[VALUE Rubrics]]"
+related_instruments: []
 related_persons:
   - "[[Brian Holmes]]"
   - "[[Harold Noah]]"
@@ -92,7 +91,7 @@ updated: 2026-09-07
 > [!citation-card]- 关键表述二：卡洛扬纳基与卡扎米亚斯论外国教育学的编年史官与民族志特质（2009）
 > 适当的做法应当是将这些早期观察者正名为出色的“教育编年史官”、“优秀的教育叙事家”或“早期的教育[[Ethnography|民族志]]学者”，而非严格意义上的“现代教育历史学家”或“比较学者”；他们对欧洲各国的教育叙述缺乏历史解释与情境阐释这两个任何现代历史科学所必需的基石……但即便在今天，人们也不应低估优秀的描述性编年史或叙事在研究外国教育中的不可替代价值。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 32–33)]]
 >
-> *It would also be appropriate to characterise Barnard as a good 'chronicler' or a good 'educational narrator' or 'educational ethnographer', rather than a good 'educational historian'; his historical [[Accounts]] of education in the several European countries lacked the elements of historical interpretation and contextual explanation, two basic desiderata of any historical episteme/science ... One, however, should not underestimate the [[VALUE Rubrics|VALUE]] of good descriptive chronicles or narratives in studying foreign education even today.*
+> *It would also be appropriate to characterise Barnard as a good 'chronicler' or a good 'educational narrator' or 'educational ethnographer', rather than a good 'educational historian'; his historical [[Accounts]] of education in the several European countries lacked the elements of historical interpretation and contextual explanation, two basic desiderata of any historical episteme/science ... One, however, should not underestimate the VALUE of good descriptive chronicles or narratives in studying foreign education even today.*
 
 围绕 19 世纪外国教育学集大成之作《国民教育》，学界形成了极具代表性的学术争鸣：
 

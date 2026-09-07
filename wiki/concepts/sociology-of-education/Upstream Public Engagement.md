@@ -8,7 +8,7 @@ aliases:
 summary: "指在科学研究与技术开发的早期构思、议程设定、优先序确立以及基金申请阶段，将非专业公众、患者群体及相关社群系统化引入科研全生命周期的前瞻性参与范式，通过平权对话与平权共创共同塑造科技发展轨迹。"
 type: concept
 domain: "sociology-of-education"
-related_count: 18
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -38,14 +38,13 @@ related_concepts:
 related_facts: []
 related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06]]"
-related_instruments:
-  - "[[VALUE Rubrics]]"
+related_instruments: []
 related_persons:
   - "[[Fred N. Kerlinger]]"
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-09-04
+updated: 2026-09-07
 ---
 
 # Upstream Public Engagement
@@ -87,7 +86,7 @@ updated: 2026-09-04
 >   公众与非专业群体不再仅作为被调查的数据提供者，而是实质性参与界定“哪些现实问题最值得被研究”，例如在医学健康与环境生态领域的优先序磋商。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06|(The Royal Society, 2026, pp. 92, 100)]]
 > - **全生命周期的前置性（Lifecycle Front-loading）**
 >   参与机制紧密嵌入科研规划的最早阶段，使公众反馈能够直接影响研究方案的实验设计、[[Variable|变量]]选取与伦理防护安排。
-> - **[[Reflexivity|反思性]]与价值敞开（[[VALUE Rubrics|VALUE]] Pluralism and Reflexivity）**
+> - **[[Reflexivity|反思性]]与价值敞开（VALUE Pluralism and Reflexivity）**
 >   促使科研人员超越狭隘的[[Technical Rationality|技术理性]]，审视研究背后的规范性[[Hypothesis|假设]]与商业/社会利益偏倚，构建负责任的创新文化。
 
 > [!logic-map]- 科研全生命周期中上游与下游参与的关系

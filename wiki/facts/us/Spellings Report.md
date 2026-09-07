@@ -11,7 +11,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 9
+fact_related_count: 8
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -28,7 +28,6 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_instruments:
-  - "[[VALUE Rubrics]]"
   - "[[Collegiate Learning Assessment]]"
   - "[[Collegiate Assessment of Academic Proficiency]]"
   - "[[ETS Proficiency Profile]]"
@@ -40,7 +39,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-08-27
+updated: 2026-09-07
 ---
 
 # Spellings Report
@@ -60,7 +59,7 @@ updated: 2026-08-27
 ## 政策文本摘要
 
 > [!claim] 政策核心
-> 报告要求全美高等教育打破传统声誉与选拔性招生的神话，必须向公众、纳税人与学生提供公开透明的本科教育“增值（[[VALUE Rubrics|VALUE]]-Added）”测量数据，系统证明学生在大学期间[[Critical Thinking|批判性思维]]、分析推理与有效沟通能力的实际增长。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 7, 25)]]
+> 报告要求全美高等教育打破传统声誉与选拔性招生的神话，必须向公众、纳税人与学生提供公开透明的本科教育“增值（VALUE-Added）”测量数据，系统证明学生在大学期间[[Critical Thinking|批判性思维]]、分析推理与有效沟通能力的实际增长。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 7, 25)]]
 
 > [!policy-design]- 政策设计与问责杠杆
 > - **核心诊断** 美国大学在评估学生真实认知增益与学习产出方面处于“问责真空”，缺乏跨院校可比标准。
@@ -74,4 +73,4 @@ updated: 2026-08-27
 > [!finding-cards] 影响与后果
 > - **政策影响** 引发了全美乃至全球高等教育界长达十余年围绕“[[Learning Gain|学习增益]]（Learning Gain）”与“通用能力标准化测评”的大论战。
 > - **实践影响** 推动了大学学习评估（[[Collegiate Learning Assessment|CLA]] / CLA+）、[[Collegiate Assessment of Academic Proficiency|CAAP]] 与 [[ETS Proficiency Profile|MAPP]] / EPP 在全美数百所高校的大规模应用试验。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 25)]]
-> - **知识影响** 深刻揭示了自上而下标准化问责制在低利害环境下的方法学生态困境，间接加速了校本[[Authentic Assessment|真实性评价]]量规（如 [[VALUE Rubrics|VALUE]]）的兴起。
+> - **知识影响** 深刻揭示了自上而下标准化问责制在低利害环境下的方法学生态困境，间接加速了校本[[Authentic Assessment|真实性评价]]量规（如 VALUE）的兴起。

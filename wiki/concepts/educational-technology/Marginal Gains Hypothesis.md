@@ -23,6 +23,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Effect Size]]"
   - "[[Academic Achievement]]"
+  - "[[Scaffolding]]"
   - "[[Fade-out Effect]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Cultural Capital]]"
@@ -37,8 +38,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Baseline Standardized Mean Difference]]"
   - "[[Moderator Analysis]]"
-related_instruments:
-  - "[[VALUE Rubrics]]"
+related_instruments: []
 related_persons: []
 related_facts:
   - "[[OECD]]"
@@ -47,7 +47,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-09-05'
-updated: '2026-09-05'
+updated: 2026-09-07
 ---
 
 # Marginal Gains Hypothesis
@@ -58,7 +58,7 @@ updated: '2026-09-05'
 ## 定义
 
 > [!def] 核心定义
-> 边际效益假说（Marginal Gains [[Hypothesis]] in Educational Technology）是指在教育技术干预与数字化学习研究中，由于初始教育资源分布的不均衡，在信息通信技术基础设施匮乏（低 ICT 水平）或学生家庭/区域社会经济地位脆弱（低 SES 背景）的环境中引入新兴教育技术工具，往往比在资源已高度饱和的成熟环境中产生显著更大的相对促学增量和边际附加价值（Added [[VALUE Rubrics|VALUE]]）。[[Argument_Chen_Cheung_2025_ERR|(Chen & Cheung, 2025, pp. 6, 17–18)]]
+> 边际效益假说（Marginal Gains [[Hypothesis]] in Educational Technology）是指在教育技术干预与数字化学习研究中，由于初始教育资源分布的不均衡，在信息通信技术基础设施匮乏（低 ICT 水平）或学生家庭/区域社会经济地位脆弱（低 SES 背景）的环境中引入新兴教育技术工具，往往比在资源已高度饱和的成熟环境中产生显著更大的相对促学增量和边际附加价值（Added VALUE）。[[Argument_Chen_Cheung_2025_ERR|(Chen & Cheung, 2025, pp. 6, 17–18)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 揭示教育技术干预的有效性大小与应用环境的初始资源基线呈反比关系的补偿性规律。
@@ -72,7 +72,7 @@ updated: '2026-09-05'
 
 > [!boundary]- 概念边界
 > - 不等于 数字鸿沟假说 — 数字鸿沟假说通常强调优势群体凭借技术进一步拉大与劣势群体的绝对差距（马太效应）；边际效益假说则聚焦于技术工具在劣势群体端产生的超额相对补偿效用。
-> - 不等于经济学一般的边际产量递减规律 — 边际产量递减是要素投入的普遍生产函数规律；本假说特指教育弱势情境中“从 0 到 1”的自适应脚手架对稀缺个别化师资的强力补偿机制。
+> - 不等于经济学一般的边际产量递减规律 — 边际产量递减是要素投入的普遍生产函数规律；本假说特指教育弱势情境中“从 0 到 1”的自适应[[Scaffolding|脚手架]]对稀缺个别化师资的强力补偿机制。
 > - 绝对水平不反超 — 低 ICT/SES 组取得的高效应量（$g^+ > 1.70$）反映了其干预前基线极低，其学业绝对水平通常仍未超越高资源环境群体。
 
 ---
@@ -93,7 +93,7 @@ updated: '2026-09-05'
 
 > [!feature] 核心要素
 > - **基线资源匮乏性（Baseline Scarcity）** 低 ICT 与低 SES 环境中，学生面临师资配比不足、个性化辅导缺失和数字教辅空白，导致其[[Academic Achievement|学业表现]]长期受压抑。[[Argument_Chen_Cheung_2025_ERR|(Chen & Cheung, 2025, p. 18)]]
-> - **补偿性替代机制（Compensatory Scaffolding）** 生成式 AI 充当了个性化导师（Tutor）与练习同伴，以极低边际成本提供了以往只有精英阶层才能享有的全天候即时答疑与反馈。[[Argument_Chen_Cheung_2025_ERR|(Chen & Cheung, 2025, pp. 6, 18)]]
+> - **补偿性替代机制（Compensatory [[Scaffolding]]）** 生成式 AI 充当了个性化导师（Tutor）与练习同伴，以极低边际成本提供了以往只有精英阶层才能享有的全天候即时答疑与反馈。[[Argument_Chen_Cheung_2025_ERR|(Chen & Cheung, 2025, pp. 6, 18)]]
 > - **边际增益高敏感度（High Marginal Sensitivity）** 在近乎空白的数字化支持基础上，技术的单点突破便能迅速扫除初级学习障碍，驱动[[Effect Size|效应量]]爆发式增长（$g^+ > 1.70$）。[[Argument_Chen_Cheung_2025_ERR|(Chen & Cheung, 2025, pp. 12–13, 18)]]
 > - **饱和边际[[Fade-out Effect|效应衰减]]（Diminishing Returns in Saturated Contexts）** 高数字化与高 SES 环境已拥有完善的 LMS 平台、智能题库与充足师资，[[Generative Artificial Intelligence|GenAI]] 的引入仅是对既有数字生态的局部边际改良，边际增益收敛于中等效应（$g^+ \approx 0.50$）。[[Argument_Chen_Cheung_2025_ERR|(Chen & Cheung, 2025, p. 18)]]
 

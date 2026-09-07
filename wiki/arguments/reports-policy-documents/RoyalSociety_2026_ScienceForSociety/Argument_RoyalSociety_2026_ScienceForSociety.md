@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety"
 argument_display_title: "Science for society: How society and science shape each other"
 argument_kind: "report"
-argument_related_count: 53
+argument_related_count: 52
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dcfce7"
@@ -67,8 +67,7 @@ related_methods:
   - "[[Longitudinal Study]]"
   - "[[Cohort Study]]"
   - "[[Case Study]]"
-related_instruments:
-  - "[[VALUE Rubrics]]"
+related_instruments: []
 related_persons:
   - "[[Walter Bodmer]]"
   - "[[Carlos Frenk]]"
@@ -94,7 +93,7 @@ sources:
 part_of:
 status: draft
 created: 2026-08-22
-updated: 2026-09-04
+updated: 2026-09-07
 ---
 # Argument_RoyalSociety_2026_ScienceForSociety
 
@@ -149,7 +148,7 @@ updated: 2026-09-04
 > - **[[Science Capital|科学资本]]（Science Capital）与 [[Scientific Literacy|科学素养]]（Scientific Literacy）** 解释家庭背景、社会网络与文化资源如何深层影响青少年科学抱负，阐明现代科学素养从[[Rote Learning|死记硬背]]公式向证据评估、[[Data Literacy|数据素养]]与 [[AI Literacy|人工智能素养]]的当代演进（pp. 30–32）。
 > - **[[Informal Science Learning|非正式科学学习]]（Informal Science Learning）与 [[Citizen Science|公民科学]]（Citizen Science）** 确立科学探索中心、博物馆及社区空间作为支撑繁荣社会的文化基建地位，揭示公众作为数据生产者与研究共同体深度介入真实科研的平权力量（pp. 42–44, 75）。
 > - **[[Post-Normal Science|后常规科学]]（[[Parliamentary Office of Science and Technology|POST]]-Normal Science）与 [[Scientific Uncertainty|科学不确定性]]（Scientific Uncertainty）** 在事实不确定、价值存在争议、利益博弈剧烈且决策紧迫的复杂治理情境下，确立坦诚向决策者与社会公众披露科学证据不确定性与局限性的制度规范（pp. 84–86）。
-> - **[[Patient and Public Involvement|患者与公众参与]]（PPI）与 [[The Social Value Model|社会价值模型]]（Social [[VALUE Rubrics|VALUE]] Model）** 提炼英国第三部门医学研究由受影响病患群体全流程主导的共创机制，以及政府借助采购合同 10% 社会价值权重撬动企业参与科普场馆的政策杠杆（pp. 69–74）。
+> - **[[Patient and Public Involvement|患者与公众参与]]（PPI）与 [[The Social Value Model|社会价值模型]]（Social VALUE Model）** 提炼英国第三部门医学研究由受影响病患群体全流程主导的共创机制，以及政府借助采购合同 10% 社会价值权重撬动企业参与科普场馆的政策杠杆（pp. 69–74）。
 > - **[[Research Impact|科研影响力]]（Research Impact）与 [[Organizational Culture|组织文化]]（Organizational Culture）** 剖析国家评估机制中对长周期、弥散性社会效益因果归因的制度扭曲，确立大学内部从管理层到一线学者的支持性文化变革路径（pp. 98, 100–101）。
 
 > [!monograph-method] 全书综合研究方法与证据体系

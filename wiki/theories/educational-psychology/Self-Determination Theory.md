@@ -27,6 +27,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Academic Engagement]]"
   - "[[Dialogue in Education]]"
+  - "[[Scaffolding]]"
   - "[[AI Agent in Education]]"
   - "[[Learner Autonomy]]"
   - "[[Epistemic Stances]]"
@@ -48,8 +49,7 @@ related_theories:
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Qualitative Interview]]"
-related_instruments:
-  - "[[VALUE Rubrics]]"
+related_instruments: []
 related_persons: []
 related_facts: []
 related_arguments:
@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-05'
-updated: '2026-09-05'
+updated: 2026-09-07
 ---
 
 # Self-Determination Theory
@@ -79,7 +79,7 @@ updated: '2026-09-05'
 > [!citation-card]- 关键表述
 > 这一对[[Academic Achievement|学业成绩]]和[[Affective Outcomes|情感动机]]维度的显著促学效应，有力支持了自我决定理论与[[Control-Value Theory|控制-价值理论]]，凸显了生成式 AI 如何满足学习者的基本心理需求（即自主性、胜任感与归属感）并促进学习投入。[[Argument_Chen_Cheung_2025_ERR|(Chen & Cheung, 2025, p. 16)]]
 >
-> *First, the pronounced effects on academic achievement and affective-motivational outcomes support self-determination theory and control-[[VALUE Rubrics|VALUE]] theory, while highlighting how Gen-AI satisfies learners' psychological needs (i.e., autonomy, competence and relatedness) and fosters engagement (Guay, 2022; Pekrun, 2006).*
+> *First, the pronounced effects on academic achievement and affective-motivational outcomes support self-determination theory and control-VALUE theory, while highlighting how Gen-AI satisfies learners' psychological needs (i.e., autonomy, competence and relatedness) and fosters engagement (Guay, 2022; Pekrun, 2006).*
 
 ---
 
@@ -147,7 +147,7 @@ updated: '2026-09-05'
 > [!exegesis]- 教育研究例子
 > 在生成式 AI 介入的高校语言学习中，学生面对传统教师纠错往往产生强烈的评价焦虑与胜任感挫败（控制型环境）。当引入 ChatGPT 充当学习同伴时：
 > 1. **自主性赋能** 学生自定提问主题、[[Dialogue in Education|对话]]轮次与探索节奏，摆脱了班级固定进度的束缚；
-> 2. **胜任感构建** AI 针对复杂的语法错误提供分步脚手架与即时改写建议，让学生体验到“微小进阶（Micro-success）”；
+> 2. **胜任感构建** AI 针对复杂的语法错误提供分步[[Scaffolding|脚手架]]与即时改写建议，让学生体验到“微小进阶（Micro-success）”；
 > 3. **归属感与心理安全** 面对无情绪偏见、无打分压力的[[AI Agent in Education|智能体]]，学生敢于暴露真实的语言缺陷（$g^+ = 0.617$ 的情感动机跃升）。这一教育情境完美印证了基本心理需求满足对[[Learner Autonomy|自主学习]]动机的激活机制。[[Argument_Chen_Cheung_2025_ERR|(Chen & Cheung, 2025, pp. 16, 18)]]
 
 ---
@@ -174,7 +174,7 @@ updated: '2026-09-05'
 > - **适合解释** 学习投入度、拖延行为、课程满意度、[[Self-Efficacy|自我效能感]]、自适应学习环境设计、师生互动质量。
 > - **谨慎使用** 极端匮乏生存资源或重度认知障碍环境，需优先保障基础生理安全与认知负荷承载。
 > - **不适合解释** 纯粹的认知加工速度、[[Working Memory|工作记忆]]容量限制、客观逻辑推理算法或知识表征结构（需结合[[Cognitive Load Theory|认知负荷理论]]）。
-> - **常见误用** 误以为“支持自主就是完全放任自流（Laissez-faire）”；忽视了胜任感需要清晰的规则与结构化脚手架（Structure）作为支撑。
+> - **常见误用** 误以为“支持自主就是完全放任自流（Laissez-faire）”；忽视了胜任感需要清晰的规则与结构化[[Scaffolding|脚手架]]（Structure）作为支撑。
 
 ---
 

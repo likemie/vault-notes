@@ -32,6 +32,7 @@ related_concepts:
   - "[[Informationalization]]"
   - "[[University-Industry Co-location]]"
   - "[[Further Education]]"
+  - "[[Normal School]]"
   - "[[International Education]]"
   - "[[Learning Analytics]]"
   - "[[Theory of Mind]]"
@@ -56,11 +57,10 @@ related_arguments: []
 sources:
   - "[[books/Hall_Boccanfuso_2025_Springer/Ch7_Byrne_2025|Ch7_Byrne_2025]]"
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
-related_instruments:
-  - "[[VALUE Rubrics]]"
+related_instruments: []
 status: draft
 created: 2026-05-28
-updated: '2026-08-27'
+updated: 2026-09-07
 subtype: book-chapter
 publication_type: book
 title: "Argument_Byrne_2025_InnovationCenters"
@@ -257,7 +257,7 @@ citation_aliases:
 15. 大学如果缺乏统一愿景或面临物理空间限制，容易出现两种失误(pp.130–131)：一是以为建一个园区就能从外部"抓住"某个趋势，比如看到人工智能热门就建 AI 创新中心，但本地实际没有 AI 研究积累和人才基础；二是试图凭空创造一个尚不存在的实践社区，而非增量式地利用现有优势。
 
 > [!example]
-> 暂时不具备条件建大型园区的大学，可以从卫星式[[Further Education|继续教育]]中心开始，在市区或产业区开设培训点，提供证书课程和短期培训，先服务已有的学术和产业社区，再逐步积累扩展(p.131)。一所地方师范学院不一定一开始就建"[[International Education|国际教育]]研究中心"，可以先为本地中小学教师开设课后研修班，从服务已有的需求开始建立信任和网络。
+> 暂时不具备条件建大型园区的大学，可以从卫星式[[Further Education|继续教育]]中心开始，在市区或产业区开设培训点，提供证书课程和短期培训，先服务已有的学术和产业社区，再逐步积累扩展(p.131)。一所地方[[Normal School|师范学院]]不一定一开始就建"[[International Education|国际教育]]研究中心"，可以先为本地中小学教师开设课后研修班，从服务已有的需求开始建立信任和网络。
 
 ---
 ### 案例：研究三角园的学术联合
@@ -276,7 +276,7 @@ citation_aliases:
 ---
 ### 大学内部协同的挑战
 
-20. 确保分散且经常各自为政的大学各部门保持一致，是产学合作中学术领导力的另一个重要组成部分。为了让尽可能多的利益相关者对总体愿景保持清晰认知，大学必须展示并沟通一个明确的价值主张（clear [[VALUE Rubrics|VALUE]] proposition）。拥有清晰的角色和流程定位，学术伙伴才能在对外沟通中保持一致性，避免重复对话或冗余。这些行政或官僚流程不应成为研究园区发展的不必要障碍(pp.129–130)。
+20. 确保分散且经常各自为政的大学各部门保持一致，是产学合作中学术领导力的另一个重要组成部分。为了让尽可能多的利益相关者对总体愿景保持清晰认知，大学必须展示并沟通一个明确的价值主张（clear VALUE proposition）。拥有清晰的角色和流程定位，学术伙伴才能在对外沟通中保持一致性，避免重复对话或冗余。这些行政或官僚流程不应成为研究园区发展的不必要障碍(pp.129–130)。
 
 21. Clough 卸任后出版了《重新构想的科技大学：佐治亚理工学院，1994–2008》(The Technological University Reimagined, Georgia Institute of Technology, 1994–2008)，提供了大量具体案例来说明佐治亚理工学院的转型在多大程度上来自战略愿景和领导力(p.129)。该书在文中仅作为背景资料提及，暗示 Tech Square 的成功是系统性领导力的结果，而非仅凭一次关键决策。
 

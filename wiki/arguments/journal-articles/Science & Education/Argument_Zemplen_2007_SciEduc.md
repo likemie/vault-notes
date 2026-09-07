@@ -59,8 +59,7 @@ related_theories:
 related_methods:
   - "[[Case Study]]"
   - "[[Critical Incidents]]"
-related_instruments:
-  - "[[VALUE Rubrics]]"
+related_instruments: []
 related_persons:
   - "[[Bruno Latour]]"
   - "[[Deanna Kuhn]]"
@@ -77,14 +76,14 @@ sources:
   - "[[sources/Zemplen_2007_SciEduc/Zemplen_2007_SciEduc|Zemplen_2007_SciEduc]]"
 status: draft
 created: 2026-07-04
-updated: 2026-08-20
+updated: 2026-09-07
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Zemplen_2007_SciEduc"
 argument_key: "Argument_Zemplen_2007_SciEduc"
 argument_display_title: "Conflicting agendas: Critical thinking versus science education in the International Baccalaureate Theory of Knowledge course"
 argument_kind: "journal-article"
-argument_related_count: 50
+argument_related_count: 49
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -519,7 +518,7 @@ issuing_organization: ""
 > [!citation-card]- 纽拉特的[[Phronesis|实践智慧]]
 > 不完全决定性是好事，因为它允许价值观在竞争理论之间做出选择，从而使进步的社会行动成为可能。承认科学不是[[Value Neutrality|价值无涉]]的、确实受价值驱动，反而允许一种更丰富但仍然实证主义的科学哲学路径（pp.183–184）。
 >
-> *Underdetermination was good because it allowed values to play a role in opting for one of the competing theories, and thus made progressive social action possible. To recognise that science is not [[VALUE Rubrics|VALUE]]-free, and indeed is driven by values allows for a richer and nevertheless positivist approach.*
+> *Underdetermination was good because it allowed values to play a role in opting for one of the competing theories, and thus made progressive social action possible. To recognise that science is not VALUE-free, and indeed is driven by values allows for a richer and nevertheless positivist approach.*
 
 ---
 

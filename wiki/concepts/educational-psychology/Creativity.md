@@ -11,7 +11,7 @@ aliases:
 summary: "个体或群体在特定情境中综合调动认知、情绪与环境资源生成新颖且适切成果的心理能力与综合表现，在教育研究中兼具预测变量与发展结果的双重属性"
 type: concept
 domain: "educational-psychology"
-related_count: 55
+related_count: 54
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -38,7 +38,6 @@ related_concepts:
   - "[[Higher-Order Thinking Skills]]"
   - "[[Brainstorming]]"
   - "[[Reflexivity]]"
-  - "[[Paradigm]]"
   - "[[Self-Regulated Learning]]"
   - "[[Predictive Validity]]"
   - "[[Champ]]"
@@ -50,11 +49,12 @@ related_concepts:
   - "[[Jigsaw]]"
   - "[[Common Method Variance]]"
   - "[[Cognitive Offloading]]"
-  - "[[Problem-Based Learning]]"
+  - "[[Project-Based Learning]]"
   - "[[Cooperative Integrated Reading and Composition]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Interaction Effect]]"
   - "[[Critical Thinking Assessment]]"
+  - "[[Scaffolding]]"
   - "[[Formative Assessment]]"
 related_methods:
   - "[[Meta-meta-analysis]]"
@@ -65,7 +65,6 @@ related_instruments:
   - "[[Alternate Uses Test]]"
   - "[[Torrance Tests of Creative Thinking]]"
   - "[[Consensual Assessment Technique]]"
-  - "[[VALUE Rubrics]]"
 related_persons:
   - "[[Mark A. Runco]]"
 related_arguments:
@@ -84,7 +83,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-08-23
-updated: 2026-09-05
+updated: 2026-09-07
 ---
 
 # Creativity
@@ -307,6 +306,6 @@ updated: 2026-09-05
 > - **[[Cooperative Learning|合作学习]]对创造性思维赋能** [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] 开展[[Cooperative Learning|合作学习]]对多维学习产出的二阶元分析，实证确立了合作学习对创造性思维等[[Higher-Order Thinking Skills|高阶认知技能]]的赋能效应达到 $ES = 0.76$，证实小群体互动与认知冲突对[[Creative Problem Solving|创造性问题解决]]的促进价值。
 > - **创造力与[[Critical Thinking|批判性思维]]相关元分析** [[Argument_Park_2026_TSC|Park et al. (2026)]] 开展学生样本中创造力与[[Critical Thinking|批判性思维]]相关的一阶元分析，综合 29 项研究 51 个[[Effect Size|效应量]]，确立两者中等正相关（$r = 0.386$），并证实测量类型显著调节相关大小，双主观组合相关最高（$r = 0.509$），提示自陈测量中的[[Common Method Variance|共同方法变异]]放大了观察相关。
 > - **高等教育政策与量规评价实践** [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] [[Systematic Review|系统综述]] [[OECD]] 国家高等教育中创造力与[[Critical Thinking Assessment|批判性思维评价]]的政策与实践，详析创造力在高校微观考核中的显性标准匮乏现状与真实性量规的破局路径。
-> - **[[Generative Artificial Intelligence|生成式人工智能]]赋能与抑制综述** [[Argument_Li_2026_CEAI|Li et al. (2026)]] 系统综述 67 项实证研究，揭示 ChatGPT 作为发散生成伙伴在构想拓展（31 项）、结构脚手架（24 项）与视角转换（18 项）中的促进效能，并指出非结构化使用导致个人学术声音稀释与探索停滞的风险。
+> - **[[Generative Artificial Intelligence|生成式人工智能]]赋能与抑制综述** [[Argument_Li_2026_CEAI|Li et al. (2026)]] 系统综述 67 项实证研究，揭示 ChatGPT 作为发散生成伙伴在构想拓展（31 项）、结构[[Scaffolding|脚手架]]（24 项）与视角转换（18 项）中的促进效能，并指出非结构化使用导致个人学术声音稀释与探索停滞的风险。
 > - **生成式 AI 影响创造力的元分析实证** [[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] 运用随机效应[[Meta-analysis|元分析]]综合 29 项实验与准实验（创造力子维度 $k = 23$），确立生成式 AI 对学生创造力的中等偏小正向促进效应（$g = 0.444$），揭示了统计生成模型的同质化输出对突破性原创新颖性构成的潜在阻抗。
-> - **[[Creativity Assessment|创造力测评]]与测量方法学** 参见专门概念条目 [[Creativity Assessment|创造力测评]]，该条目系统整合了从[[Divergent Thinking|发散思维]]标准化测验（[[Torrance Tests of Creative Thinking|TTCT]]/[[Alternate Uses Test|AUT]]）、专家产品同感评定（[[Consensual Assessment Technique|CAT]]）、大学招生情境任务（Rainbow/Kaleidoscope）到校本真实性评分量规（[[VALUE Rubrics|VALUE]]/CERI/[[CALOHEE Project|CALOHEE]]）的工具矩阵、[[Criterion Problem|效标困境]]与[[Formative Assessment|促学评价]]生态。
+> - **[[Creativity Assessment|创造力测评]]与测量方法学** 参见专门概念条目 [[Creativity Assessment|创造力测评]]，该条目系统整合了从[[Divergent Thinking|发散思维]]标准化测验（[[Torrance Tests of Creative Thinking|TTCT]]/[[Alternate Uses Test|AUT]]）、专家产品同感评定（[[Consensual Assessment Technique|CAT]]）、大学招生情境任务（Rainbow/Kaleidoscope）到校本真实性评分量规（VALUE/CERI/[[CALOHEE Project|CALOHEE]]）的工具矩阵、[[Criterion Problem|效标困境]]与[[Formative Assessment|促学评价]]生态。

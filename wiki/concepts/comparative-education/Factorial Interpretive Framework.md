@@ -27,6 +27,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Variable]]"
   - "[[Analytic Framework]]"
+  - "[[Intangible Spiritual Forces]]"
   - "[[Questionnaire]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
@@ -53,8 +54,7 @@ related_theories: []
 related_methods:
   - "[[Multiple Regression]]"
   - "[[Historical-Comparative Method]]"
-related_instruments:
-  - "[[VALUE Rubrics]]"
+related_instruments: []
 related_persons:
   - "[[Nicholas Hans]]"
   - "[[Isaac Kandel]]"
@@ -105,11 +105,11 @@ updated: 2026-09-07
 > [!citation-card] 因素[[Analytic Framework|分析框架]]对海量历史数据的结构化秩序赋予
 > 汉斯的贡献并非在于提供[[Isaac Kandel|坎德尔]]方法的跨大西洋翻版，尽管二者的研究确有诸多共通之处。他的独特贡献在于构建了一个由各种‘因素’组成的比较研究框架，汉斯坚信这些因素代表了塑造民族及其教育体系的内在与永久力量。该框架的巨大价值在于为原本可能难以驾驭的海量相关数据赋予了秩序与严整结构，同时也在于应用该框架的研究展现出的实际解释效能。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 49–50; Tretheway, 1976, pp. 63–64)]]
 >
-> *Hans' contribution, therefore, was not in supplying a transatlantic version of Kandel's method, though their work did have much in common. His particular contribution was in developing a framework for comparative study comprised of factors which he believed represented immanent and permanent forces which shaped nations and their educational systems. The [[VALUE Rubrics|VALUE]] of such framework lay in the order or structure it imposed on a potentially unmanageable quantity of relevant data and, of course, in the usefulness of the studies applying it.*
+> *Hans' contribution, therefore, was not in supplying a transatlantic version of Kandel's method, though their work did have much in common. His particular contribution was in developing a framework for comparative study comprised of factors which he believed represented immanent and permanent forces which shaped nations and their educational systems. The VALUE of such framework lay in the order or structure it imposed on a potentially unmanageable quantity of relevant data and, of course, in the usefulness of the studies applying it.*
 
 该框架的思想根基深植于[[Michael Sadler|萨德勒]]（Michael Sadler）关于校外精神力量的经典洞见：
 
-> [!citation-card] 校外无形精神力量对学校制度的支配
+> [!citation-card] [[Intangible Spiritual Forces|校外无形精神力量]]对学校制度的支配
 > 在研究外国教育体系时，我们绝不能忘记：校外的事情比校内的事情更重要，并且支配和解释着校内的事情……教育绝不仅是学校或书本知识的问题。因此，如果我们打算研究外国教育体系，就必须努力找出在任何成功教育体系背后实际支撑着学校并解释其实际效能的无形、不可捉摸的精神力量是什么。国民教育体系是一个活生生的有机体，是早已被遗忘的艰难抗争与往昔战斗的结晶。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 44–45; Sadler, 1900, pp. 309–310)]]
 >
 > *...in studying foreign systems of education we should not forget that the things outside the schools matter even more than the things inside the schools, and govern and interpret the things inside... A national system of education is a living thing, the outcome of forgotten struggles and difficulties, and 'of battles long ago.' It has in it some of the secret workings of national life.*
@@ -202,7 +202,7 @@ updated: 2026-09-07
 > 该命题探讨学校制度与社会母体之间的有机共[[Conatus|生机]]理，阐明历史学派为何坚决拒斥将学校视为孤立技术机械的浅层制度观。
 
 > [!claim] [[Michael Sadler|Sadler, M.]]
-> **校外深层精神力量对学校体制的支配** 萨德勒强调，学校只是整个民族文化肌体的表层器官，决定其实际运作效能与特色的，是校外深层政治传统、家庭伦理与精神追求；因此，孤立考察课程技术或单纯从外国抄录条文势必引发严重的文化排异，唯有深入探究维系学校的不可捉摸的精神力量，才能真正读懂外国教育并理解本国传统。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 44–45; Sadler, 1900)]]
+> **校外深层精神力量对学校体制的支配** 萨德勒强调，学校只是整个民族文化肌体的表层器官，决定其实际运作效能与特色的，是校外深层政治传统、家庭伦理与精神追求；因此，孤立考察课程技术或单纯从外国抄录条文势必引发严重的文化排异，唯有深入探究维系学校的[[Intangible Spiritual Forces|不可捉摸的精神力量]]，才能真正读懂外国教育并理解本国传统。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 44–45; Sadler, 1900)]]
 
 > [!claim] [[Nicholas Hans|Hans, N.]]
 > **国民教育体系是[[National Character|国民性格]]与历史力量的外在表达** 汉斯确立了因素分析的[[Ontology|本体论]]公理，指出国民教育体系如同国家宪法与民族文学，本质上是国民性格（[[National Character]]）的凝结与投射；比较教育学的首要任务正在于穿透外在形式，分离并解析在历史岁月中塑造该民族独特性格的自然、宗教与世俗诸项恒久动力。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 50; Hans, 1949, pp. 9–11)]]
@@ -240,7 +240,7 @@ updated: 2026-09-07
 > **政策预测力优于回溯性先行原因发现** 布赖恩·霍姆斯（Brian Holmes）指出，科学比较教育必须以“[[Nomothetic|通则式]]预测（prediction）”为标志，而非回顾性“解释（explanation）”；教育决策者最迫切需要的是知晓当下改革方案的未来后果，而非导致当前不满的历史先行原因，因素框架沉溺于探究过去的因果力量，无法提供行动层面的精准预测。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 53–54; Holmes, 1965, pp. 19–21)]]
 
 > [!claim] Kazamias, A. M.
-> **捍卫广义科学观并重估因素框架的因果解释合法性** 卡扎米亚斯坚决反驳了实证派的狭隘指责，指出将科学等同于量化统计是对科学（*Wissenschaft* / *Episteme*）概念的英语霸权垄断；历史学派运用因素框架探求现象背后的因果机制完全符合广义人文科学的严谨准则；只要借鉴克莱恩·布林顿（Crane Brinton）的方法，将因素框架作为“有限工作假设”在不同国别案例中持续检验与修正，因素分析法便能展现出兼顾具体情境与理论建构的强大生命力。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 55–57; Kazamias, 1963, p. 396)]]
+> **捍卫广义科学观并重估因素框架的因果解释合法性** 卡扎米亚斯坚决反驳了实证派的狭隘指责，指出将科学等同于量化统计是对科学（*Wissenschaft* / *Episteme*）概念的英语霸权垄断；历史学派运用因素框架探求现象背后的因果机制完全符合广义人文科学的严谨准则；只要借鉴克莱恩·布林顿（Crane Brinton）的方法，将因素框架作为“非普适探索性假说”在不同国别案例中持续检验与修正，因素分析法便能展现出兼顾具体情境与理论建构的强大生命力。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 55–57; Kazamias, 1963, p. 396)]]
 
 ---
 

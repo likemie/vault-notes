@@ -12,9 +12,9 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18"
 argument_display_title: "Research Methods in Education · Ch18"
 argument_kind: "book-chapter"
-argument_related_count: 60
-argument_related_level: 4
-argument_related_stars: "⭐⭐⭐⭐"
+argument_related_count: 59
+argument_related_level: 3
+argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
 book_title: "Research Methods in Education"
 publication_place: "London"
@@ -97,11 +97,10 @@ related_persons:
   - "[[Paulo Freire]]"
   - "[[Carlos Alberto Torres]]"
   - "[[Donald A. Schön]]"
-related_instruments:
-  - "[[VALUE Rubrics]]"
+related_instruments: []
 status: draft
 created: 2026-07-18
-updated: '2026-08-27'
+updated: 2026-09-07
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18
 
@@ -171,7 +170,7 @@ updated: '2026-08-27'
 
 > [!chain-link] 定义谱系的论证逻辑
 > - **操作严谨性（Hopkins → Corey）** 行动研究首先是一种严谨、系统的探究形式，从个人尝试理解实践，到科学地[[Research Question|研究问题]]，再到比日常生活更严谨地计划、行动、观察和反思
-> - **哲学深度（Carr & Kemmis）** 从操作严谨性跃升至哈贝马斯式的自我[[Reflective Thinking|反思性探究]]，将社会正义设为行动研究的内在目标
+> - **哲学深度（Carr & Kemmis）** 从操作严谨性跃升至[[Jürgen Habermas|哈贝马斯]]式的自我[[Reflective Thinking|反思性探究]]，将社会正义设为行动研究的内在目标
 > - **集体性（Kemmis & McTaggart 全纳定义）** 在严谨性和正义性之上叠加集体性。行动研究不仅是个体反思，更是合作进行的集体自我反思探究。这一谱系揭示了一个核心张力：行动研究本质上是严谨探究、实践改进与社会正义三种诉求的不稳定结合。
 
 **第一层：操作严谨性**
@@ -983,7 +982,7 @@ Zuber-Skerritt（1996a, p. 17）进一步提出四个实践问题（p. 296）：
 > [!citation-card]- Melrose 论批判性研究的价值负载
 > 批判性研究因自身价值负载而放弃中立，在审视特定情境中运作的价值观、伦理、道德和政治的幌子下，实际上旨在改变现状。（Melrose, 1996, p. 52; p. 278）
 >
-> *Critical research is, itself, [[VALUE Rubrics|VALUE]]-laden, it abandons neutrality; it has an explicit social agenda that, under the guise of examining values, ethics, morals and politics that are operating in a particular situation, is actually aimed at transforming the status quo.*
+> *Critical research is, itself, VALUE-laden, it abandons neutrality; it has an explicit social agenda that, under the guise of examining values, ethics, morals and politics that are operating in a particular situation, is actually aimed at transforming the status quo.*
 
 ## 来源
 

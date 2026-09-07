@@ -86,11 +86,12 @@ related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Design-Based Research]]"
   - "[[Internet-based Survey]]"
-related_instruments:
-  - "[[VALUE Rubrics]]"
+related_instruments: []
+related_persons:
+  - "[[Jürgen Habermas]]"
 status: draft
 created: 2026-07-19
-updated: '2026-08-27'
+updated: 2026-09-07
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19
 
@@ -117,7 +118,7 @@ updated: '2026-08-27'
 > ```
 
 > [!abstract] 论证主线
-> 从[[Computer Simulation|计算机模拟]]和[[Virtual World|虚拟世界]]的基本定义与对比出发，阐明二者在[[Complexity Theory|复杂性理论]]、基于主体建模和哈贝马斯[[Ideal Speech Situation|理想言说情境]]中的理论基础，展示虚拟世界在教育研究中的五种应用方向，并以一个公民教育虚拟世界研究（Martin, 2010）为完整案例详细拆解研究设计的每一步，最后系统讨论机遇与局限、操作指南、伦理议题和在线数据收集工具。论证链条为：**定义与区分（19.1）→ 理论基础（19.2）→ 应用（19.3）→ 案例展示（19.4）→ 反思与[[Operationalization|操作化]]（19.5–19.9）→ 结论（19.10）**。
+> 从[[Computer Simulation|计算机模拟]]和[[Virtual World|虚拟世界]]的基本定义与对比出发，阐明二者在[[Complexity Theory|复杂性理论]]、基于主体建模和[[Jürgen Habermas|哈贝马斯]][[Ideal Speech Situation|理想言说情境]]中的理论基础，展示虚拟世界在教育研究中的五种应用方向，并以一个公民教育虚拟世界研究（Martin, 2010）为完整案例详细拆解研究设计的每一步，最后系统讨论机遇与局限、操作指南、伦理议题和在线数据收集工具。论证链条为：**定义与区分（19.1）→ 理论基础（19.2）→ 应用（19.3）→ 案例展示（19.4）→ 反思与[[Operationalization|操作化]]（19.5–19.9）→ 结论（19.10）**。
 
 ---
 
@@ -575,7 +576,7 @@ updated: '2026-08-27'
 > [!citation-card]- Gilbert & Troitzsch 论模拟的三大目的
 > [[Computer Simulation|计算机模拟]]的主要目的是发现、证明和实验。超越简单的预测，计算机模拟使研究者能够理解和解释过程如何随时间展开及其结果。这颠覆了预测作为理论检验标准的价值；相反，它主张理论的检验标准应是其解释力和诠释力，而非预测价值。（Gilbert & Troitzsch, 2005, p. 6; p. 147）
 >
-> *The prime purposes of computer simulations are for discovery, proof and experiment. Beyond simply prediction, computer simulations enable an understanding and explanation to be gained of how processes operate and unfold over time, and the results of these. This explodes the [[VALUE Rubrics|VALUE]] of prediction as a test of a theory; rather it argues that the test of a theory should be its explanatory and hermeneutic power, rather than its predictive value.*
+> *The prime purposes of computer simulations are for discovery, proof and experiment. Beyond simply prediction, computer simulations enable an understanding and explanation to be gained of how processes operate and unfold over time, and the results of these. This explodes the VALUE of prediction as a test of a theory; rather it argues that the test of a theory should be its explanatory and hermeneutic power, rather than its predictive value.*
 
 > [!citation-card]- [[Complexity Theory|复杂性理论]]对[[Virtual World|虚拟世界]]的基础性支撑
 > 真实世界虽然高度复杂，但建立在相对简单的规则之上，这些规则产生了这种复杂性。（Waldrop, 1992; Lewin, 1993; p. 154）

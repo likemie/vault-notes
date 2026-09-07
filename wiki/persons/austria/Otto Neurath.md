@@ -7,10 +7,10 @@ summary: "奥地利哲学家、社会学家和经济学家，维也纳学派核�
 type: person
 nationality: austria
 person_region: "austria"
-person_related_count: 16
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 15
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
 - theme/philosophy-of-science
 - theme/epistemology
@@ -29,8 +29,7 @@ related_concepts:
 related_theories:
   - "[[Duhem-Quine Thesis]]"
 related_methods: []
-related_instruments:
-  - "[[VALUE Rubrics]]"
+related_instruments: []
 related_persons:
   - "[[W. V. O. Quine]]"
   - "[[René Descartes]]"
@@ -41,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-04
-updated: 2026-07-10
+updated: 2026-09-07
 ---
 
 # Otto Neurath
@@ -85,7 +84,7 @@ updated: 2026-07-10
 ## 核心思想
 
 > [!claim] 核心主张
-> 科学不应假装是[[Value Neutrality|价值无涉]]的（[[VALUE Rubrics|VALUE]]-free），因为它在事实上并非如此。好的科学是将人从教条主义中解放出来的力量，但坏的科学可以变成它声称要取代的东西。承认科学不被价值无涉的原则所驱动，反而允许一种更加丰富但仍然[[Positivism|实证主义]]的科学哲学——不完全决定性（underdetermination）不是科学的弱点，而是其优点：它允许价值观在竞争理论之间发挥作用，从而使进步的社会行动成为可能。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, pp. 183–184)]]
+> 科学不应假装是[[Value Neutrality|价值无涉]]的（VALUE-free），因为它在事实上并非如此。好的科学是将人从教条主义中解放出来的力量，但坏的科学可以变成它声称要取代的东西。承认科学不被价值无涉的原则所驱动，反而允许一种更加丰富但仍然[[Positivism|实证主义]]的科学哲学——不完全决定性（underdetermination）不是科学的弱点，而是其优点：它允许价值观在竞争理论之间发挥作用，从而使进步的社会行动成为可能。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, pp. 183–184)]]
 
 > [!citation-card]- 纽拉特原则的核心意象
 > 我们就像在公海上必须重建船只的水手，永远无法从底部重新开始。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, p. 183)]]

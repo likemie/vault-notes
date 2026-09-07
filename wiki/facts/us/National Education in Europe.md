@@ -14,7 +14,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 29
+fact_related_count: 28
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -47,8 +47,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Ethnography]]"
-related_instruments:
-  - "[[VALUE Rubrics]]"
+related_instruments: []
 related_persons:
   - "[[Henry Barnard]]"
   - "[[Brian Holmes]]"
@@ -170,7 +169,7 @@ updated: 2026-09-07
 > [!citation-card]- 经典学术评论：卡洛扬纳基与卡扎米亚斯对巴纳德的重估
 > 将巴纳德的方法概括为描述性是恰当的，但依我们的诠释，将其定性为‘缺乏条理’或‘不加甄别的记录’是不恰当的。将巴纳德视为一名优秀的‘编年史家’、优秀的‘教育叙述者’或‘教育民族志学者’，而非一名优秀的‘教育历史学家’也是恰当的……然而，人们即使在今天也不应低估优秀的描述性编年史或叙述在研究外国教育中的价值；依我们的判断，尤其是考虑到它们所处的时代，巴纳德的‘教育历史’理应赢得高度赞誉。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, p. 33)]]
 >
-> *It is appropriate to characterise Barnard’s approach as being descriptive, but in our interpretation, it is inappropriate to characterise it as ‘unsystematic’ or ‘indiscriminate reporting’. It would also be appropriate to characterise Barnard as a good ‘chronicler’ or a good ‘educational narrator’ or ‘educational ethnographer’ ... One, however, should not underestimate the [[VALUE Rubrics|VALUE]] of good descriptive chronicles or narratives in studying foreign education even today, and in our judgement Barnard’s ‘educational histories’ deserve high praise, especially when one considers the times when they were written.*
+> *It is appropriate to characterise Barnard’s approach as being descriptive, but in our interpretation, it is inappropriate to characterise it as ‘unsystematic’ or ‘indiscriminate reporting’. It would also be appropriate to characterise Barnard as a good ‘chronicler’ or a good ‘educational narrator’ or ‘educational ethnographer’ ... One, however, should not underestimate the VALUE of good descriptive chronicles or narratives in studying foreign education even today, and in our judgement Barnard’s ‘educational histories’ deserve high praise, especially when one considers the times when they were written.*
 
 ---
 

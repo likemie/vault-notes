@@ -7,7 +7,7 @@ title: "Argument_Bouckaert_2023_OECD"
 argument_key: "Argument_Bouckaert_2023_OECD"
 argument_display_title: "The assessment of students' creative and critical thinking skills in higher education across OECD countries: A review of policies and related practices (OECD Education Working Papers No"
 argument_kind: "report"
-argument_related_count: 106
+argument_related_count: 108
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -62,6 +62,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Student Engagement]]"
   - "[[Learning Analytics]]"
+  - "[[Normal School]]"
   - "[[Attrition]]"
   - "[[Hypothesis]]"
   - "[[Construct Validity]]"
@@ -75,6 +76,7 @@ related_concepts:
   - "[[Growth]]"
   - "[[Homework]]"
   - "[[Chain of Evidence]]"
+  - "[[Scaffolding]]"
   - "[[Feedback]]"
 related_theories:
   - "[[Creative Problem Solving]]"
@@ -147,7 +149,7 @@ sources:
 issuing_organization: "OECD"
 status: draft
 created: 2026-08-26
-updated: 2026-08-28
+updated: 2026-09-07
 ---
 # Argument_Bouckaert_2023_OECD
 
@@ -319,7 +321,7 @@ updated: 2026-08-28
 > - **美国州际新教师评估与支持联盟（[[InTASC Standards|InTASC]]）与[[Educational Testing Service|美国教育考试服务中心]]（ETS）教师[[Test of Teaching Knowledge|教学知识测验]]（Test of Teaching Knowledge, TTK）：生成性情境执业评估**
 >   - **跨州政策联盟** 美国各州首席教育官理事会（Council of Chief State School Officers, CCSSO）下属州际新教师评估与支持联盟（InTASC）联合 15 个州教育厅与[[Educational Testing Service|美国教育考试服务中心]]（Educational Testing Service, ETS）联合研制。
 >   - **[[Construct|构念]]与题型创新** 将“促进学生批判性思维与创造性探究的教学能力”确立为核心胜任力，摒弃纯[[Multiple-Choice Questions|客观选择题]]，采用高度真实的教学情境生成性任务（Constructed-Response Items），要求考生对学习困难诊断、教学策略调整与思维支架设计进行开放论述。
->   - **多维评价体系** 结合学科内容测试与真实教学实践档案袋（Teaching Portfolios），构建起贯通师范教育与教师准入资格认证的[[Authentic Assessment|表现性评价]]链条。（p. 18）
+>   - **多维评价体系** 结合学科内容测试与真实教学实践档案袋（Teaching Portfolios），构建起贯通[[Normal School|师范教育]]与教师准入资格认证的[[Authentic Assessment|表现性评价]]链条。（p. 18）
 
 > [!example]- 图1：促进高等教育中创造力与[[Critical Thinking Assessment|批判性思维评价]]的政策杠杆汇总
 > ![](https://img.mylikemie.icu/sources/Bouckaert_2023_OECD/figures/Bouckaert_2023_OECD_Fig1_Policy_Levers.jpg)
@@ -430,13 +432,13 @@ updated: 2026-08-28
 > - **欧洲资格标准体系与都柏林描述符（Dublin Descriptors）**
 >   - **博洛尼亚成果元基准** [[Bologna Process|博洛尼亚进程]]采纳的都柏林描述符（Dublin Descriptors）将批判判断（Making Judgements）与复杂问题解决确立为本硕博核心资格；但由于其高度抽象，欧洲各大学在微观考核对齐中普遍受阻，直接倒逼了学科化量规的诞生（pp. 12–14, 27）。
 > - **全美质量测量工具清单调查（[[Measuring Quality Inventory]]）**
->   - **创造力测评生态短板** 高等教育质量测量工具清单（Measuring Quality Inventory, MQI）（Borden & Kernel, 2012）收录全美 250 余种高教测评工具，实证盘点揭示除 AAC&U [[VALUE Rubrics|VALUE]] 创造性思维量规外，全美几乎没有任何现成工具直接测查大学生的创造力，凸显了校本真实性量规研发的极端紧迫性（p. 29）。
+>   - **创造力测评生态短板** 高等教育质量测量工具清单（Measuring Quality Inventory, MQI）（Borden & Kernel, 2012）收录全美 250 余种高教测评工具，实证盘点揭示除 AAC&U VALUE 创造性思维量规外，全美几乎没有任何现成工具直接测查大学生的创造力，凸显了校本真实性量规研发的极端紧迫性（p. 29）。
 > - **欧洲 CALOHEE 项目（2016–2018）：跨国学科化[[CALOHEE Assessment Reference Frameworks|评价参照框架]]**
 >   - **承袭 [[Tuning Project|Tuning]] 进程** 欧洲高等教育学习成果测度与比较项目（CALOHEE）由欧盟委员会资助，联合全欧数十所大学、学科专家、行业雇主与校友代表共同研发。
 >   - **五大专业学科突破** 在土木工程、教师教育、历史、护理和物理五大专业领域，开创性研制出超越抽象[[Dublin Descriptors|都柏林描述符]]的“评价参照框架”（Assessment Reference Frameworks）。
 >   - **高阶思维学科操作化** 将批判性思维（覆盖全部 5 个专业）与创造力（覆盖教师教育、历史与物理）转化为可测量的课程预期学习成果、劣构表现任务设计范例与评分标准，构建起跨国可比且深植具体学科的真实性评价模型。（pp. 27–28）
 > - **全美 AAC&U VALUE 量规套件（2009–至今）：校本真实性评价标准共享**
->   - **全美跨校协作研发** 全美大学与学院协会（AAC&U）组织数百所高校跨学科教师团队，历时多年研制出 16 套面向本科通用核心素养的“本科生教育学习成果有效评估”（[[VALUE Rubrics|VALUE]]）质性评分量规。
+>   - **全美跨校协作研发** 全美大学与学院协会（AAC&U）组织数百所高校跨学科教师团队，历时多年研制出 16 套面向本科通用核心素养的“本科生教育学习成果有效评估”（VALUE）质性评分量规。
 >   - **4 级阶梯表现描述符** 建立从基准（Benchmark 1）、里程碑（Milestones 2–3）到顶峰（Capstone 4）的可观察阶梯指标，直接嵌入课程大作业、毕业设计、科研论文与反思档案袋。
 >   - **规模化制度影响** 全美超过 40% 的高校正式采纳或参考 VALUE 量规，在全美高校掀起了依托校内及跨校教师评分校准（Calibration）研讨提升评价素养的改革浪潮，成功化解了外部通用统考脱离学科课程的危机。（pp. 26–27）
 
@@ -467,7 +469,7 @@ updated: 2026-08-28
 > | 教育科学研究维度 | 核心科学结论与深层机制 | 教学实践启示与实证学者依据 |
 > |---|---|---|
 > | **显性教学与评价目标** | 隐性渗透教学对批判性思维提升的概率极低；在课程大纲与考核要求中明确将高阶思维设定为显性目标时，学生的技能增长效应最为显著。 | 教学大纲与评价任务必须公开清晰的高阶认知动词，严禁使用模糊的“了解/掌握”（Abrami et al., 2008; Behar-Horenstein & Niu, 2011; Heft & Scharff, 2017; Dominguez, 2018）。 |
-> | **促学评价与形成性反馈** | 评价的核心价值在于促进深层学习而非单一认证；多轮形成性反馈为学生反思、修正错误与认知迭代提供了必不可少的脚手架。 | 将评价贯穿于学程全过程，提供多轮草稿修订与指导机会，打破“一考定终身”的终结性霸权（Marton & Säljö, 1976; Sadler, 1989; Black & Wiliam, 1998, 2007; Nicol, 2010; Nicol & Macfarlane-Dick, 2006; Gibbs & Simpson, 2004; Hattie, 2009; Sambell, 2016; Wu & Jessop, 2018）。 |
+> | **促学评价与形成性反馈** | 评价的核心价值在于促进深层学习而非单一认证；多轮形成性反馈为学生反思、修正错误与认知迭代提供了必不可少的[[Scaffolding\|脚手架]]。 | 将评价贯穿于学程全过程，提供多轮草稿修订与指导机会，打破“一考定终身”的终结性霸权（Marton & Säljö, 1976; Sadler, 1989; Black & Wiliam, 1998, 2007; Nicol, 2010; Nicol & Macfarlane-Dick, 2006; Gibbs & Simpson, 2004; Hattie, 2009; Sambell, 2016; Wu & Jessop, 2018）。 |
 > | **质性评语 vs 数字打分** | 单独给予定性评语能够激发任务卷入（Task-Involvement）；而数字评分易诱发自我防卫（Ego-Involvement）与焦虑，扼杀探索与冒险动机。 | 在过程性作业中优先提供无分数的精准、即时且任务聚焦的质性描述反馈，保护探索与创造动机（Butler, 1988; Sadler, 1989; Fink, 2003）。 |
 > | **多次评价与循环迭代** | 单次考核无法捕获复杂心智的成长轨迹；在模块与学程中增加评价频次并多元化考核形式，能形成“多次练习—反馈—自我反思”的提升循环。 | 实施档案袋、多阶段设计与定期诊断任务，提供多轮递进式反馈循环（Garfolo & L'Huillier, 2015; Valencia, 1990; Perry & Southwell, 2011; McWilliam, 2007, 2009; Ritchhart, 2015; Freeman et al., 2014; Bourke, 2018; Looney, 2009; Heft & Scharff, 2017; Bok, 2006; Wiggins, 1998）。 |
 > | **真实性与劣构任务** | 创造力与批判性思维只能在模拟现实不确定性的开放表现中生成，封闭选择题无法激活高级认知加工。 | 广泛采用研究项目、实作设计、案例诊断、学术答辩与跨学科档案袋等真实性评价（Wiggins, 1998; Shepard, 2000; Darling-Hammond, 2012）。 |
@@ -508,7 +510,7 @@ updated: 2026-08-28
 > [!finding-cards] 核心发现
 > 1. **政策宏观倡导与课堂考核落地的普遍脱节** 尽管 [[OECD]] 成员国在宏观国家资格框架中普遍强调[[Creativity|创造力]]与[[Critical Thinking|批判性思维]]，但系统级统考极少直接测度这些能力，微观高校课堂仍以传统事实记忆笔试为主。（pp. 3–5, 18–20）
 > 2. **标准化[[Multiple-Choice Questions|选择题]]统考存在严重的方法学效度短板** 客观多项选择题（Multiple-Choice Questions, MCQ）难以捕获生成性思维与复杂论证，导致严重的[[Construct|构念]]代表性不足；单纯依靠外部统考难以推动高校内部教学改进。（pp. 24–26）
-> 3. **校本真实性评分量规成为国际主流演进方向** 全美高校调查与欧洲 [[CALOHEE Project|CALOHEE]] 项目表明，基于真实学业成果的质性评分量规（如 [[VALUE Rubrics|VALUE]] 量规）正成为连接教学与评价的核心工具。（pp. 26–28）
+> 3. **校本真实性评分量规成为国际主流演进方向** 全美高校调查与欧洲 [[CALOHEE Project|CALOHEE]] 项目表明，基于真实学业成果的质性评分量规（如 VALUE 量规）正成为连接教学与评价的核心工具。（pp. 26–28）
 > 4. **必须依托多层级[[Constructive Alignment|建构性对齐]]与形成性支持** 评价改革必须在宏观资格框架与微观课堂任务间实现建构性对齐，并建立鼓励试错、提供质性评语的[[Formative Assessment|形成性评价]]生态。（pp. 30–34）
 
 > [!stat-cards]- 核心数据

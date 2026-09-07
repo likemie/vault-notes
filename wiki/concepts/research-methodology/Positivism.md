@@ -9,7 +9,7 @@ aliases:
 summary: "一种主张真正知识唯独建立在感官经验、观察与实验基础之上的认识论立场，预设自然与社会遵循同质客观法则；在启蒙发轫期曾从属于全人道德教化与社会改良，而在20世纪演化为追求价值中立与法则概括的统治性实证范式。"
 type: concept
 domain: "research-methodology"
-related_count: 72
+related_count: 73
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Perpetual Peace]]"
   - "[[Educational Meliorism]]"
+  - "[[Intangible Spiritual Forces]]"
   - "[[Evidence-Based Education]]"
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
@@ -235,7 +236,7 @@ updated: 2026-09-07
 > **概括性科学与基于预测而非因果渊源的科学比较观** 历史比较教育无法替代真正的“科学比较教育”；作为社会科学的比较教育学必须是一门“概括性科学”（generalising science），其本质特征在于具备对未来行动后果的“预测”（prediction）能力，而非仅仅回溯既往原因的“解释”（explanation）。教育改革者首要关切的是政策干预的未来实际后果，而非历史渊源或现状不满的远因；真正的学术理解来自于成功的经验预测，历史分析唯有作为提供指导性或预测性权力的实用工具时才具有辅助价值。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 54; Holmes, 1965, pp. 19–21, 30)]]
 
 > [!claim] Epstein, E. H.
-> **[[Michael Sadler|萨德勒]]式无形精神力量对神秘主义的滑向与非经验力贬斥** [[Michael Sadler|萨德勒]]与坎德尔将学校外部无形、不可捉摸的精神力量置于分析核心的做法“濒临神秘主义”（borders on mysticism），其极端形态会导致关于教育本质的无端虚妄推论。将比较教育奠基于非经验力量之上的人文主义预设，实质上是在引导学者仅仅描述学校外部表象结构，而将核心解释机制诉诸松散的主观臆想乃至灵性启示，严重背离了现代[[Scientific Method|经验科学]]的实证规范。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 54; Epstein, 1970, p. 45)]]
+> **[[Michael Sadler|萨德勒]]式[[Intangible Spiritual Forces|无形精神力量]]对神秘主义的滑向与非经验力贬斥** [[Michael Sadler|萨德勒]]与坎德尔将学校外部无形、不可捉摸的精神力量置于分析核心的做法“濒临神秘主义”（borders on mysticism），其极端形态会导致关于教育本质的无端虚妄推论。将比较教育奠基于非经验力量之上的人文主义预设，实质上是在引导学者仅仅描述学校外部表象结构，而将核心解释机制诉诸松散的主观臆想乃至灵性启示，严重背离了现代[[Scientific Method|经验科学]]的实证规范。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 54; Epstein, 1970, p. 45)]]
 
 > [!claim] Anderson, C. A. & Foster, P. J.
 > **历史主义个殊性排斥比较与重复模式探寻** 历史学派陷入了波普尔所批评的历史主义（historicism）陷阱，或者固守于处理具有特定时空坐标且不可重复的个殊事件。既然个殊事物不可比较，以寻求跨国抽象、法则概括与重复规律为天职的比较教育学者，其任务就不能等同于历史学家，而必须彻底转向探寻社会关系规律性与重复模式的经验社会科学家。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 54, 56; Foster, 1960; Anderson, 1961)]]
@@ -303,7 +304,7 @@ updated: 2026-09-07
 > > 争论焦点在于：比较教育学的根本目标是发现放之四海皆准的因果规律与预测模型，还是理解特定民族国家历史脉络中的文化精神与深层制度根由？
 > > 
 > > - **1960 年代实证学派（Noah & Eckstein, 1969; Holmes, 1965）** 坚称学科必须转型为概括性预测科学，唯有经过[[Hypothesis|假设]]检验与统计控制的量化关系才构成有效因果知识。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 53–54)]]
-> > - **历史-哲学比较传统（Sadler, 1900; Kandel, 1933; [[Argument_Kazamias_2009_ForgottenThemes|Kazamias, 2009]]）** 强调学校深嵌于民族整体文化生态与无形精神力量中，真正的理解依赖于对历史生成脉络与人文价值的深层阐释，而非脱离情境的技术建模。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 54–57)]]
+> > - **历史-哲学比较传统（Sadler, 1900; Kandel, 1933; [[Argument_Kazamias_2009_ForgottenThemes|Kazamias, 2009]]）** 强调学校深嵌于民族整体文化生态与[[Intangible Spiritual Forces|无形精神力量]]中，真正的理解依赖于对历史生成脉络与人文价值的深层阐释，而非脱离情境的技术建模。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 54–57)]]
 
 > [!critique] 对实证主义局限的多维批评
 > - **抹杀情境深度的去情境化偏向** 实证主义追求普适法则，往往通过统计控制强行剔除地方性文化、历史脉络与微观交往细节，导致研究成果高度贫瘠且脱离教育现场。

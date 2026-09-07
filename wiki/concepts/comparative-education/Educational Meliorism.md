@@ -7,7 +7,7 @@ aliases:
 summary: "源自拉丁语更好之意且以改善社会与人类境况为根本导向的探究旨趣，是贯穿19世纪比较与国际教育发端的统治性认识论母题"
 type: concept
 domain: "comparative-education"
-related_count: 46
+related_count: 47
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Whiggism]]"
   - "[[Paradigm]]"
   - "[[Historical-Philosophical-Cultural Motif]]"
+  - "[[Intangible Spiritual Forces]]"
   - "[[Document]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Disciplina and Doctrina]]"
@@ -153,7 +154,7 @@ updated: 2026-09-07
 >   将探究的根本正当性建立在救治现实缺陷之上，坚信人类社会具有可改进性；拒绝脱离社会苦难的纯智力游戏，求知天然承载着增进人类福祉的道德使命。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 33–34)]]
 > - **双重实践路径分化（Dual Structural Pathways）**
 >   在大西洋两岸具体制度情境下发[[Conatus|生机]]制分流：欧陆表现为以[[Victor Cousin|库森]]为代表的“行政制度移植与机制转置（transposition）模式”，直接推动国家法典化；北美表现为以[[Horace Mann|霍勒斯·曼]]为代表的“政治动员与合法化依据（legitimating rationales）模式”，借域外实绩击溃本土反对派。（pp. 28–30, 33–34）
-> - **事实经验求真与崇高伦理规范的深度共生（Fact-[[VALUE Rubrics|VALUE]] Synthesis）**
+> - **事实经验求真与崇高伦理规范的深度共生（Fact-VALUE Synthesis）**
 >   经验事实的客观搜集与分类图表编制，从属于服务全人道德[[Bildung|教化]]、理性预防流血革命与维系国际和平的启蒙伦理规范，形成经验分类服务于精神道德的有机统一。（pp. 16–22, 34）
 > - **应对现代性危机（Crisis of Modernity）的国家整合诉求**
 >   深嵌于 19 世纪大革命创伤、普鲁士耶拿惨败重建、美利坚独立后自由共和体制维系等重大危机之中，充当现代民族国家重构公共领域与社会整合的核心纽带。（pp. 24–26, 31–32）
@@ -260,7 +261,7 @@ updated: 2026-09-07
 > [!dev-timeline] 概念演变
 > - **1817 — 准科学人道主义改良萌芽阶段** [[Marc-Antoine Jullien|朱利安]]发表《计划》，将教育改良主义与居维叶比较解剖学分类、全人道德[[Bildung|教化]]与世界和平共同体蓝图深度交织，奠定学科最初的[[Epistemology|认识论]][[Paradigm|范式]]。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 11–14, 21–24)]]
 > - **1830–1850 — 民族国家建制与行政-政治改良双轨分化阶段** [[Victor Cousin|库森]]以国家公共资源法哲学主笔 1833 年[[Guizot Law of 1833|基佐法案]]，开创欧陆实定法直接转置范式；[[Horace Mann|霍勒斯·曼]]发表《[[Seventh Annual Report of the Massachusetts Board of Education|第七次年度报告]]》，开创北美动用外部实绩作为国内改革政治合法化依据的范式。（pp. 24–34）
-> - **1900–1950 — 历史改良主义与哲学涵养阶段** [[Michael Sadler|萨德勒]]、[[Isaac Kandel|坎德尔]]、[[Nicholas Hans|汉斯]]与[[Robert Ulich|乌利希]]开创[[Historical-Philosophical-Cultural Motif|历史-哲学-文化母题]]，将改良主义由直接行政借用转向探寻校外无形精神力量，主张通过比较理解涵养哲学态度以服务民主自省与国际主义。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 40, 44–46)]]
+> - **1900–1950 — 历史改良主义与哲学涵养阶段** [[Michael Sadler|萨德勒]]、[[Isaac Kandel|坎德尔]]、[[Nicholas Hans|汉斯]]与[[Robert Ulich|乌利希]]开创[[Historical-Philosophical-Cultural Motif|历史-哲学-文化母题]]，将改良主义由直接行政借用转向探寻[[Intangible Spiritual Forces|校外无形精神力量]]，主张通过比较理解涵养哲学态度以服务民主自省与国际主义。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 40, 44–46)]]
 > - **1960年代 — 行为[[Positivism|实证主义]]的“前科学借用期”贬抑阶段** [[George Bereday|贝雷迪]]、[[Harold Noah|诺亚]]与[[Max Eckstein|埃克斯坦]]等战后实证学者编造单向度的科学进化神话，将 19 世纪先驱的改良探究贬为充斥主观偏见的“幼稚借用期”，片面追求[[Value Neutrality|价值中立]]与数理建模。（Noah & Eckstein, 1969; pp. 33–34）
 > - **2000年代至今 — 比较认识论问题域重构与人道主义传统复兴阶段** 卡洛扬纳基、卡扎米亚斯与考恩等学者系统解构实证主义方法论拜物教，重估改良主义对全人解放与世界治理的崇高承诺，呼吁现代学科重返经验求真与伦理关怀重新熔铸的古典人文灵魂。（pp. 11–13, 33–34）
 

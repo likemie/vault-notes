@@ -7,7 +7,7 @@ aliases:
 summary: "关于知识本质与获取方式的底层假设。在研究方法学中，它决定了不同研究范式的有效知识标准；在认知发展中，它表现为个体协调主客观维度的认知任务。"
 type: concept
 domain: "educational-philosophy"
-related_count: 28
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -49,12 +49,11 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Kuhn_2000_CD]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07]]"
-related_instruments:
-  - "[[VALUE Rubrics]]"
+related_instruments: []
 confidence: high
 status: active
 created: 2026-06-13
-updated: '2026-08-27'
+updated: 2026-09-07
 ---
 
 # Epistemology
@@ -125,7 +124,7 @@ updated: '2026-08-27'
 > 探讨事实与价值分离的[[Objectivism|客观主义]]神话是如何被打破的。
 
 > [!claim] Cohen, L. 等
-> **事实的理论负载与社会建构** [[Postpositivism|后实证主义]]对传统的实证主义认识论提出了根本性挑战。它主张事实和理论是可错的（fallible）；所有的事实和观察都是理论负载和价值负载的（theory-laden and [[VALUE Rubrics|VALUE]]-laden）。社会事实甚至思维方式本身都是社会建构，而非客观普遍真实。事实与价值的绝对分离不可持续，因为研究者的价值观和范式预设本身就决定了研究焦点和解释路径。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1)]]
+> **事实的理论负载与社会建构** [[Postpositivism|后实证主义]]对传统的实证主义认识论提出了根本性挑战。它主张事实和理论是可错的（fallible）；所有的事实和观察都是理论负载和价值负载的（theory-laden and VALUE-laden）。社会事实甚至思维方式本身都是社会建构，而非客观普遍真实。事实与价值的绝对分离不可持续，因为研究者的价值观和范式预设本身就决定了研究焦点和解释路径。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1)]]
 
 ---
 

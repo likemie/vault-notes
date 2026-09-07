@@ -8,7 +8,7 @@ summary: "奥地利裔英国科学哲学家，以证伪主义（falsification）
 type: person
 nationality: austria
 person_region: "austria"
-person_related_count: 7
+person_related_count: 6
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
@@ -28,12 +28,11 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
-related_instruments:
-  - "[[VALUE Rubrics]]"
+related_instruments: []
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-07-11
+updated: 2026-09-07
 ---
 
 # Karl Popper
@@ -55,7 +54,7 @@ updated: 2026-07-11
 
 ### 事实的理论负载
 
-波普尔（1980）与其他[[Postpositivism|后实证主义]]者（Feyerabend, 1975; Reichardt and Rallis, 1994）论证，事实和观察是理论负载和价值负载的（theory-laden and [[VALUE Rubrics|VALUE]]-laden），事实与价值的分离不可持续——研究者的价值体系和[[Paradigm|范式]]决定了研究焦点、方法和解释（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
+波普尔（1980）与其他[[Postpositivism|后实证主义]]者（Feyerabend, 1975; Reichardt and Rallis, 1994）论证，事实和观察是理论负载和价值负载的（theory-laden and VALUE-laden），事实与价值的分离不可持续——研究者的价值体系和[[Paradigm|范式]]决定了研究焦点、方法和解释（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
 
 ## 关键引用
 

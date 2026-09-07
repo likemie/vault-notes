@@ -9,7 +9,7 @@ aliases:
 summary: "在教学过程中系统收集学生理解与表现证据、提供指向改进的对话式反馈并动态调整教与学行动的评价范式"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Creativity]]"
   - "[[Higher-Order Thinking Skills]]"
+  - "[[Scaffolding]]"
   - "[[Learning Gap]]"
   - "[[Reflexivity]]"
   - "[[Classroom Learning Culture]]"
@@ -48,7 +49,7 @@ related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
   - "[[Argument_Biggs_1999_HERD]]"
 created: '2026-05-25'
-updated: 2026-08-26
+updated: 2026-09-07
 ---
 
 # Formative Assessment
@@ -58,7 +59,7 @@ updated: 2026-08-26
 ## 定义
 
 > [!def] 核心定义
-> 形成性评价（Formative Assessment，常被称为促学评价 Assessment for Learning）是指在教学进程中系统诱发、解释和利用关于学生学习状况的证据，向教师与学生提供指向下一步改进的反馈，并据此动态调整教与学活动的评价[[Paradigm|范式]]。其核心在于将评价功能从终结性认证（Certification）转向学习促进（Learning），通过澄清学习目标、开展诊断性活动、提供低利害（Low-Stakes）练习机会以及培育自我调节与同伴反思能力，为[[Critical Thinking|批判性思维]]与[[Creativity|创造力]]等[[Higher-Order Thinking Skills|高阶思维技能]]的生成提供持续的脚手架支持。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 32–34)]]; Black & Wiliam (1998, 2007); Crooks (2008)
+> 形成性评价（Formative Assessment，常被称为促学评价 Assessment for Learning）是指在教学进程中系统诱发、解释和利用关于学生学习状况的证据，向教师与学生提供指向下一步改进的反馈，并据此动态调整教与学活动的评价[[Paradigm|范式]]。其核心在于将评价功能从终结性认证（Certification）转向学习促进（Learning），通过澄清学习目标、开展诊断性活动、提供低利害（Low-Stakes）练习机会以及培育自我调节与同伴反思能力，为[[Critical Thinking|批判性思维]]与[[Creativity|创造力]]等[[Higher-Order Thinking Skills|高阶思维技能]]的生成提供持续的[[Scaffolding|脚手架]]支持。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 32–34)]]; Black & Wiliam (1998, 2007); Crooks (2008)
 
 > [!concept-lens] 概念透镜
 > - **含义** 评价作为教学有机组成部分，服务于识别[[Learning Gap|学习差距]]（Learning Gap）并指导即时与后续认知修正。

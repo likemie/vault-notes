@@ -89,7 +89,7 @@ updated: 2026-09-07
 > [!timeline] 生平与职涯
 > - **1950年代** 赴美留学，在哈佛大学师从著名德裔教育哲学家与文化史学家[[Robert Ulich|罗伯特·乌利希]]（Robert Ulich），接受深厚的古典[[Bildung|教化]]（Paideia）与思想史学术熏陶并获博士学位。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 52)]]
 > - **1961** 发表《比较教育方法论中的新旧进路》（*Some Old and New Approaches to Methodology in Comparative Education*），作为战后新一代学者代表，率先反思[[Isaac Kandel|艾萨克·坎德尔]]（Isaac Kandel）的[[Whiggism|辉格史观]]与[[National Character|国民性格]]概念。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 54–55)]]
-> - **1963** 发表《历史、科学与比较教育》（*History, Science and Comparative Education*），援引克莱恩·布林顿（Crane Brinton）比较史学理论，论证有限工作[[Hypothesis|假设]]在历史探究中的科学性，正面回击实证派将历史排斥于科学之外的浪潮。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 56)]]
+> - **1963** 发表《历史、科学与比较教育》（*History, Science and Comparative Education*），援引克莱恩·布林顿（Crane Brinton）比较史学理论，论证非普适探索性[[Hypothesis|假说]]在历史探究中的科学性，正面回击实证派将历史排斥于科学之外的浪潮。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 56)]]
 > - **1965** 与哈佛同门保罗·纳什（Paul Nash）、亨利·珀金森（Henry Perkinson）联合主编出版文集《受过教育的人》（*The Educated Man*），向导师乌利希致敬。
 > - **1960年代–1970年代** 长期任教于威斯康星大学麦迪逊分校，任比较教育学与教育政策教授，坚决捍卫[[Historical-Comparative Method|历史比较法]]，抵制[[Positivism|实证主义]]技术官僚化。
 > - **2001** 获选为[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE）荣誉会员，表彰其在跨大西洋与跨欧洲比较教育学术共同体建设中的持久贡献。
@@ -104,7 +104,7 @@ updated: 2026-09-07
 > [!thought-timeline] 思想发展
 > - **1950年代–1960年代 — 哈佛学统与战后方法论双重论战** 承继[[Robert Ulich|乌利希]]古典[[Bildung|教化]]（*Paideia*）思想史传统，作为战后新一代学者投身学科重构；既对历史传统内部的[[Whiggism|辉格史观]]展开尖锐反思，又正面迎击实证学派对历史学的清洗。
 >   - **代表著作** *Some Old and New Approaches to Methodology in Comparative Education* (1961); *History, Science and Comparative Education: A Study in Methodology* (1963); *The Educated Man* (1965); *Tradition and Change in Education* (1965). [[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 52, 54–56)]]
->   - **关键概念／方法** [[Historical-Comparative Method]]、[[Historical-Philosophical-Cultural Motif]]、有限工作[[Hypothesis|假设]]。
+>   - **关键概念／方法** [[Historical-Comparative Method]]、[[Historical-Philosophical-Cultural Motif]]、非普适探索性[[Hypothesis|假说]]。
 >   - **阶段转向** 厘清实然与应然界限，援引布林顿比较史学确立历史研究的中程归纳机制，确立历史比较法的现代科学合法性。
 > - **1970年代–1980年代 — 威斯康星教席与学科[[Paradigm|范式]]反思** 面对社会科学量化实证范式席卷北美的现实，系统反思学科过度技术官僚化与工具主义危机。
 >   - **代表著作** *Comparative Education: The State of the Art* (1977).
@@ -120,15 +120,15 @@ updated: 2026-09-07
 ## 核心思想
 
 > [!claim] 核心主张
-> 卡扎米亚斯坚持历史学与古典人文主义是比较教育学的生命线。在学科转型期，他扮演了反思者与捍卫者的双重角色：对内，他率先检讨历史学派混淆实然与应然的“[[Whiggism|辉格史观]]”以及将制度差异轻率归咎于“[[National Character|国民性格]]”的循环论证；对外，他直面战[[Postpositivism|后实证主义]]对历史传统的清洗，揭露英语“科学”（Science）概念对经验量化与自然科学[[Paradigm|范式]]的狭隘垄断，力倡德语广义科学（*Wissenschaft*）与古希腊理知（*Episteme*）传统，并援引克莱恩·布林顿（Crane Brinton）史学理论论证历史比较依托“有限工作[[Hypothesis|假设]]”建立中程解释理论的合法性。他坚信比较教育的本体根基在于对人的整全[[Bildung|教化]]（*Paideia*）与人（*Anthropos*）的终极关怀。
+> 卡扎米亚斯坚持历史学与古典人文主义是比较教育学的生命线。在学科转型期，他扮演了反思者与捍卫者的双重角色：对内，他率先检讨历史学派混淆实然与应然的“[[Whiggism|辉格史观]]”以及将制度差异轻率归咎于“[[National Character|国民性格]]”的循环论证；对外，他直面战[[Postpositivism|后实证主义]]对历史传统的清洗，揭露英语“科学”（Science）概念对经验量化与自然科学[[Paradigm|范式]]的狭隘垄断，力倡德语广义科学（*Wissenschaft*）与古希腊理知（*Episteme*）传统，并援引克莱恩·布林顿（Crane Brinton）史学理论论证历史比较依托“非普适探索性[[Hypothesis|假说]]”建立中程解释理论的合法性。他坚信比较教育的本体根基在于对人的整全[[Bildung|教化]]（*Paideia*）与人（*Anthropos*）的终极关怀。
 
 > [!citation-card] 广义科学观与人文科学的[[Epistemology|认识论]]合法性
 > [[Positivism|实证主义]]者对历史比较教育‘非科学’的批评，本身是建立在对英语‘科学’（science）一词的狭隘解释之上，这种狭隘理解往往仅仅指涉自然科学或经验实证社会科学。然而，科学在其他语言中（如德语的 Wissenschaft 或希腊语的 Episteme）同样指涉对社会、文化和人类现象的系统化研究及其认识策略。若在广义人文科学的意义上理解，[[Michael Sadler|萨德勒]]、[[Isaac Kandel|坎德尔]]、[[Nicholas Hans|汉斯]]与[[Robert Ulich|乌利希]]的历史比较研究完全有资格被称为科学研究。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 56)]]
 >
 > *The criticism that historical comparative education was 'unscientific' was itself based on the restrictive interpretation of the English term 'science'... But the word 'science' might also refer, as indeed it does in other languages, to the 'human sciences' or to the systematic study of social, cultural and human phenomena... If 'science' is interpreted in the broader sense of episteme or Wissenschaft, then Sadler's, Kandel's, Hans' and Ulich's versions of historical comparative education could legitimately be called 'scientific'.*
 
-> [!citation-card] 有限工作假设在历史比较中的理论建构
-> 历史比较研究并不必然受制于个殊事实不可比较的实证教条。借鉴布林顿（Crane Brinton）在革命史比较研究中的经验，历史学者完全能够从具体时空坐标的个殊事实中，归纳并提炼出中程的有限工作假设（limited working hypotheses），进而在跨情境比对中检验这些假设，解释现代教育体系的演化机制。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 56)]]
+> [!citation-card] 非普适探索性假说在历史比较中的理论建构
+> 历史比较研究并不必然受制于个殊事实不可比较的实证教条。借鉴布林顿（Crane Brinton）在革命史比较研究中的经验，历史学者完全能够从具体时空坐标的个殊事实中，归纳并提炼出中程的非普适探索性假说（working hypotheses of a limited nature），进而在跨情境比对中检验这些假设，解释现代教育体系的演化机制。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 56)]]
 >
 > *Historians could generalise from unique, spatially and temporally located events, and did so by establishing 'working hypotheses'... The comparative educator, like the comparative historian, could legitimately formulate limited working hypotheses from historical materials.*
 
@@ -144,7 +144,7 @@ updated: 2026-09-07
 
 > [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Cowen_2009_HistoryCreation|Cowen (2009a)]] — 考恩分析卡扎米亚斯对每一代人必须重写其历史命题的提出，及其对学科比较史学传统的开创性贡献。
-> - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009)]] — 卡扎米亚斯系统回顾历史-哲学母题奠基者的思想遗产，重构德语广义科学与有限工作[[Hypothesis|假设]]的方法论合法性。
+> - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009)]] — 卡扎米亚斯系统回顾历史-哲学母题奠基者的思想遗产，重构德语广义科学与非普适探索性[[Hypothesis|假说]]的方法论合法性。
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] — 考掘比较教育的现代主义发端，辨析[[Marc-Antoine Jullien|朱利安]]准科学人道主义与行政借用母题。
 > - [[Argument_Cowen_2023_CE|Cowen (2023)]] — 考恩反思卡扎米亚斯的人文主义传统与学科半个世纪制度化成就之间的历史辩证关系。
 

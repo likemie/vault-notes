@@ -3,7 +3,6 @@ title: VALUE Rubrics
 aliases:
   - Valid Assessment of Learning in Undergraduate Education
   - AAC&U VALUE Rubrics
-  - VALUE
   - 本科生学习成果评价量规
   - 本科教育有效学习评估量规
 summary: "由美国大学与学院协会组织数百名学者研发的16套通识学习成果评价量规，涵盖批判性思维与创造性思维等高阶认知素养的阶梯式表现标准"
@@ -11,14 +10,14 @@ type: instrument
 instrument_type: rubric
 part_of: ""
 developers:
-  - "Association of American Colleges and Universities"
-  - "Rhodes, T. L."
+  - Association of American Colleges and Universities
+  - Rhodes, T. L.
 original_year: "2009"
 languages:
   - en
-item_count: "16 套独立量规（每套包含 4–6 个核心维度）"
+item_count: 16 套独立量规（每套包含 4–6 个核心维度）
 administration_mode: authentic portfolio / performance evaluation
-response_format: "4-level descriptive rubric (Benchmark, Milestone 2, Milestone 3, Capstone)"
+response_format: 4-level descriptive rubric (Benchmark, Milestone 2, Milestone 3, Capstone)
 tags:
   - instrument/rubric
   - theme/higher-order-thinking
@@ -50,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: '2026-08-27'
+updated: 2026-09-07
 ---
 
 # VALUE Rubrics

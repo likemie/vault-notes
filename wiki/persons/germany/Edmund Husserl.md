@@ -8,10 +8,10 @@ summary: "德国哲学家与数学家，现象学的创始人，提出悬置（e
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 24
-person_related_level: 3
-person_related_stars: "⭐⭐⭐"
-person_related_color: "#ede9fe"
+person_related_count: 23
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 tags:
   - person/philosopher
   - person/phenomenologist
@@ -45,12 +45,11 @@ related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Schaffar_2024_CogentEdu]]"
-related_instruments:
-  - "[[VALUE Rubrics]]"
+related_instruments: []
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-08-20
+updated: 2026-09-07
 ---
 
 # Edmund Husserl
@@ -133,7 +132,7 @@ updated: 2026-08-20
 > [!citation-card]- 人物定位的关键来源
 > 直觉本身还不够，我们必须回到“事物本身”。胡塞尔并不认为存在任何纯粹、中立或脱离价值的物体。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 2]]
 >
-> *Meaning is inspired by intuitions, but since intuitions are not enough, 'we must go back to "the things themselves"'. However, Husserl did not think there was anything like a 'pure' or neutral and [[VALUE Rubrics|VALUE]]-free object or thing.*
+> *Meaning is inspired by intuitions, but since intuitions are not enough, 'we must go back to "the things themselves"'. However, Husserl did not think there was anything like a 'pure' or neutral and VALUE-free object or thing.*
 
 ---
 

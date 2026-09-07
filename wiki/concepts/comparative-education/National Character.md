@@ -9,7 +9,7 @@ aliases:
 summary: "20世纪经典比较教育学用于解释国家教育制度独特性与内在精神的核心构念，后因缺乏经验证据、同义反复解释与辉格史观陷入方法论争议"
 type: concept
 domain: "comparative-education"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Externalization]]"
   - "[[Independent Variable]]"
   - "[[Heterogeneity]]"
+  - "[[Intangible Spiritual Forces]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Whiggism]]"
@@ -93,7 +94,7 @@ updated: 2026-09-07
 > [!contrast-table] 经典学者对国民性格构念的理解辨析
 > | 学者 | 核心提法 | 解释重心 | 制度对应表现 |
 > |---|---|---|---|
-> | **[[Michael Sadler\|Sadler]]** | 民族生活的隐秘运作与活体有机体 | 历史抗争遗留、无形精神力量与内生代偿救治潜能 | 强调学校制度既反映国民性格弱点，又本能地加以救治 |
+> | **[[Michael Sadler\|Sadler]]** | 民族生活的隐秘运作与活体有机体 | 历史抗争遗留、[[Intangible Spiritual Forces\|无形精神力量]]与内生代偿救治潜能 | 强调学校制度既反映国民性格弱点，又本能地加以救治 |
 > | **[[Isaac Kandel\|Kandel]]** | 民族群体特性的真实[[Externalization\|外化]] | 政治国家意志、文化理想与民族主义投射 | 英国教育的重经验与缺乏规划 vs 法国教育的重理性与条理秩序 |
 > | **[[Nicholas Hans\|Hans]]** | 自然、宗教与世俗历史因素的外在表现 | 历史因果因素综合作用下的国家相貌（Physiognomy） | 历史因素在语言、法治、教派与学校传统中的客观沉淀 |
 > | **Mallinson** | 思想、情感与行为倾向的总和 | 文化心理连续性与跨世代代际传承 | 教育作为国民性格的函数（Function），承载文化再生产使命 |

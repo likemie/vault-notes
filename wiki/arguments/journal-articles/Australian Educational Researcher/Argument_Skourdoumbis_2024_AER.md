@@ -10,7 +10,7 @@ title: "Argument_Skourdoumbis_2024_AER"
 argument_key: "Argument_Skourdoumbis_2024_AER"
 argument_display_title: "A critique of 'Strong Beginnings' initial teacher education reforms: mandating neuroscience as core curriculum within the 'what works' movement"
 argument_kind: "journal-article"
-argument_related_count: 40
+argument_related_count: 39
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -71,11 +71,10 @@ related_arguments: []
 sources:
   - "[[sources/Skourdoumbis_2024_AER|Skourdoumbis_2024_AER]]"
 part_of: ''
-related_instruments:
-  - "[[VALUE Rubrics]]"
+related_instruments: []
 status: draft
 created: 2026-06-06
-updated: 2026-07-13
+updated: 2026-09-07
 year: 2024
 doi: ""
 citation_aliases:
@@ -301,7 +300,7 @@ citation_aliases:
 > [!citation-card]- “什么有效”运动的意识形态本质
 > “什么有效”运动虽然标榜自己“无价值偏见”，但在形式和意图上都是意识形态的，并受既得利益驱动。（p. 9）
 > 
-> The "what works" movement, whilst presenting itself as "[[VALUE Rubrics|VALUE]] free", is ideological in shape and intent and driven by vested interests.
+> The "what works" movement, whilst presenting itself as "VALUE free", is ideological in shape and intent and driven by vested interests.
 
 > [!citation-card]- 惩罚性问责的本质
 > 核心课程的标准化将与认证过程和毕业生教师标准相绑定，这受到了基于惩罚性问责方法的支持。（p. 2）

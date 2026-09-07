@@ -121,7 +121,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-06-30
-updated: 2026-09-05
+updated: 2026-09-07
 ---
 
 # Critical Thinking
@@ -433,4 +433,4 @@ updated: 2026-09-05
 > - **与[[Creativity|创造力]]关系的元分析实证** [[Argument_Park_2026_TSC|Park et al. (2026)]] 综合 29 项学生研究 51 个[[Effect Size|效应量]]，确立批判性思维与创造力中等正相关（$r = 0.386$），并证实测量类型显著调节相关，双主观测量组合相关最高（$r = 0.509$），提示自陈测量中的[[Common Method Variance|共同方法变异]]放大了观察相关。
 > - **[[Generative Artificial Intelligence|生成式人工智能]]赋能与[[Epistemic Friction|认识论摩擦]]机制** [[Argument_Li_2026_CEAI|Li et al. (2026)]] [[Systematic Review|系统综述]] 67 项实证研究，揭示 ChatGPT 对批判性思维具有催化反思与诱发认知惰性的双重效应，确立了维持认识论摩擦与显性反思支架防范批判性论证退化的教学干预机制。
 > - **生成式 AI 促进批判性思维的元分析实证** [[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] 运用随机效应[[Meta-analysis|元分析]]综合 29 项实验与准实验（其中批判性思维子维度 $k = 20$），证实生成式 AI 对学生批判性思维具有中等偏强的显著促进效应（$g = 0.691$），并指出 AI 偶尔出现的错误反而促使学生保持怀疑，把“给 AI 挑错与核实证据”转化为锻炼批判性思维的契机。
-> - **[[Critical Thinking Assessment|批判性思维测评]]与测量方法学** 参见专门概念条目 [[Critical Thinking Assessment|批判性思维测评]]，该条目系统整合了从心理测量学客观测试（[[Watson-Glaser Critical Thinking Appraisal|WGCTA]]/[[California Critical Thinking Skills Test|CCTST]]）、自陈倾向[[Questionnaire|问卷]]（[[California Critical Thinking Disposition Inventory|CCTDI]]/[[Critical Thinking Strategies Scale|CTSS]]）到校本真实性评分量规（[[VALUE Rubrics|VALUE]]/[[CALOHEE Project|CALOHEE]]）的工具谱系、共同方法变异机制及形成性[[Formative Assessment|促学评价]]生态。
+> - **[[Critical Thinking Assessment|批判性思维测评]]与测量方法学** 参见专门概念条目 [[Critical Thinking Assessment|批判性思维测评]]，该条目系统整合了从心理测量学客观测试（[[Watson-Glaser Critical Thinking Appraisal|WGCTA]]/[[California Critical Thinking Skills Test|CCTST]]）、自陈倾向[[Questionnaire|问卷]]（[[California Critical Thinking Disposition Inventory|CCTDI]]/[[Critical Thinking Strategies Scale|CTSS]]）到校本真实性评分量规（VALUE/[[CALOHEE Project|CALOHEE]]）的工具谱系、共同方法变异机制及形成性[[Formative Assessment|促学评价]]生态。

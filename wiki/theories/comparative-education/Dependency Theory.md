@@ -8,7 +8,7 @@ aliases:
 summary: "1970 年代至 1980 年代初兴起于比较教育的新马克思主义理论路径，以中心与边缘分析框架取代国家比较单位，将西方剥削和资本主义世界秩序视为第三世界欠发展的真正原因。后于 1990 年代至 2010 年代初演化为对高等教育领域“学术依附”与“学术新殖民主义”的地缘政治非自觉批判。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 18
+theory_related_count: 17
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -41,12 +41,11 @@ related_facts:
 related_arguments:
   - "[[Argument_Klerides_2023_CE]]"
   - "[[Argument_Yu_Xie_2025_JHE]]"
-related_instruments:
-  - "[[VALUE Rubrics]]"
+related_instruments: []
 confidence: medium
 status: active
 created: 2026-06-08
-updated: 2026-07-09
+updated: 2026-09-07
 ---
 
 # Dependency Theory
@@ -151,7 +150,7 @@ updated: 2026-07-09
 > [!philosophy] [[Epistemology|认识论]]与方法论立场
 > - **[[Ontology|本体论]]** 将国际社会视为被支配-从属阶级斗争和资本主义全球掠夺所撕裂的冲突体（符合[[Revolutionism|革命主义]]传统）。(引自 [[Argument_Klerides_2023_CE|Klerides, 2023, p. 417]])
 > - **方法论** 打破[[Methodological Statism|方法论国家主义]]（[[Methodological Nationalism]]），在跨国及全球尺度下聚焦资本流转与话语剥削链条。
-> - **规范立场** 坚定地承诺于边缘群体的解放和变革，彻底抛弃学术“[[Value Neutrality|价值中立]]”（[[VALUE Rubrics|VALUE]] Neutrality）的客观面具。
+> - **规范立场** 坚定地承诺于边缘群体的解放和变革，彻底抛弃学术“[[Value Neutrality|价值中立]]”（VALUE Neutrality）的客观面具。
 
 > [!debates] 理论争议
 >

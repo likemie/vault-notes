@@ -8,7 +8,7 @@ aliases:
 summary: "Swick and Jones（2025）在产学合作语境中提出的概念，指不同合作方对合作回报的根本差异化定义，分歧本身是合作的驱动力而非障碍，须通过终端用户中心的透镜重新审视各方回报"
 type: concept
 domain: "higher-education"
-related_count: 8
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -28,12 +28,11 @@ related_facts:
   - "[[University Industry Demonstration Partnership]]"
 related_arguments:
   - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
-related_instruments:
-  - "[[VALUE Rubrics]]"
+related_instruments: []
 confidence: medium
 status: draft
 created: 2026-06-02
-updated: 2026-06-02
+updated: 2026-09-07
 ---
 
 # Return on Investment
@@ -73,7 +72,7 @@ updated: 2026-06-02
 ## 产学合作中的 ROI 度量实践
 
 > [!abstract]
-> 2019 年 [[Oxford UIDP Summit 2019|Oxford UIDP Summit]] 将 ROI 的清晰阐明和理解列为建立有效产学联合体的核心前提之一。峰会指出，联合体必须能够清晰区分**产出（outputs）**与**创造和获取的价值（[[VALUE Rubrics|VALUE]] created and captured）**，并管理各方对合作可能产生什么回报的期望。仅计数产出（会议次数、技术报告、专利数量）并不说明合作是否产生了实际效果——许多产出可能并未为伙伴组织创造任何价值([[Argument_OxfordUIDP_2019_UIPartnerships|Oxford & UIDP, 2019, pp.11-12, 23-24]])。
+> 2019 年 [[Oxford UIDP Summit 2019|Oxford UIDP Summit]] 将 ROI 的清晰阐明和理解列为建立有效产学联合体的核心前提之一。峰会指出，联合体必须能够清晰区分**产出（outputs）**与**创造和获取的价值（VALUE created and captured）**，并管理各方对合作可能产生什么回报的期望。仅计数产出（会议次数、技术报告、专利数量）并不说明合作是否产生了实际效果——许多产出可能并未为伙伴组织创造任何价值([[Argument_OxfordUIDP_2019_UIPartnerships|Oxford & UIDP, 2019, pp.11-12, 23-24]])。
 
 > [!info] 影响的额外性
 > 评估[[University-Industry Collaboration|产学合作]]的 ROI 还必须考虑**[[Counterfactual|反事实]]（counterfactual）**——在没有这些投资的情况下会实现什么结果和影响。这一概念被称为影响的**额外性（additionality）**。峰会指出，评估如果没有回答"这些影响在合作不存在的情况下是否仍会发生"，就无法确定合作的真正价值。这一原则与 [[University Industry Demonstration Partnership|UIDP]] 2017 年发布的 Collaboration Metrics Guide 一致——该指南强调指标需要关注评估**结果和影响**，而非仅关注投入（pp.23-24）。

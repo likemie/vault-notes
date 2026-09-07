@@ -34,20 +34,19 @@ related_arguments: []
 sources:
   - "[[books/Hall_Boccanfuso_2025_Springer/Ch16_Brock_2025|Ch16_Brock_2025]]"
 part_of: "[[Hall_Boccanfuso_2025_Springer]]"
-related_instruments:
-  - "[[VALUE Rubrics]]"
+related_instruments: []
 status: draft
 created: 2026-06-04
-updated: '2026-08-27'
+updated: 2026-09-07
 subtype: book-chapter
 publication_type: book
 title: "Argument_Brock_2025_DataAccessGenerationUse"
 argument_key: "Argument_Brock_2025_DataAccessGenerationUse"
 argument_display_title: "Data: Access, generation, use"
 argument_kind: "book"
-argument_related_count: 15
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 14
+argument_related_level: 0
+argument_related_stars: ""
 argument_related_color: "#ede9fe"
 book_title: "University-Industry Collaboration: Innovation at the Interface"
 year: 2025
@@ -72,7 +71,7 @@ citation_aliases:
 > - **隐私（Privacy）** 受哪些联邦、州和国际法规保护；个人可识别信息如何管理
 > - **法规（Regulation）** 研究数据的管理和共享受哪些法律和资助方政策约束
 > - **安全（Security）** 数据在存储、传输和共享过程中需要什么级别的保护
-> - **价值（[[VALUE Rubrics|VALUE]]）** 数据的商业价值和竞争优势如何评估；开放科学与专有保护之间如何平衡
+> - **价值（VALUE）** 数据的商业价值和竞争优势如何评估；开放科学与专有保护之间如何平衡
 
 > 同时援引 [[University Industry Demonstration Partnership|UIDP]] Contract Accord 14(2020)的 13 条数据条款特征作为协议起草的实践框架。
 

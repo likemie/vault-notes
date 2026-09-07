@@ -91,7 +91,6 @@ related_methods:
   - "[[Experimental Research]]"
 related_instruments:
   - "[[AMSTAR]]"
-  - "[[VALUE Rubrics]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -100,14 +99,14 @@ sources:
 part_of: ""
 status: draft
 created: 2026-08-24
-updated: 2026-08-25
+updated: 2026-09-07
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Gungor_2026_CP"
 argument_key: "Argument_Gungor_2026_CP"
 argument_display_title: "A second-order meta-analysis on the effects of cooperative learning on students’ academic achievement, higher-order thinking, and affective behaviors"
 argument_kind: "journal-article"
-argument_related_count: 67
+argument_related_count: 66
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -437,7 +436,7 @@ issuing_organization: ""
 > [!citation-card]- 软科学领域综合缺口的揭示
 > 采用二阶元分析的独特价值不仅在于报告一项发现，更在于精准揭示这一方法学空白：系统性报告语言或社会学科领域效应量的高水平综合（元分析）极度匮乏……我们的研究不仅证实了合作学习的总体有效性，更关键的是为未来的一阶元分析确立了明确的议程，这些研究必须积极搜寻并综合语言和社会学科的基础研究，以纠正综合[[Document|文献]]图景中的系统性失衡。（p. 10）
 >
-> *The unique [[VALUE Rubrics|VALUE]] of employing a second-order meta-analysis here is not just to report a finding, but to highlight this exact methodological gap: there is a severe paucity of high-level synthesis (meta-analyses) that systematically report effect sizes for the language or social studies domains... establishes a clear agenda for future first-order meta-analyses, which must actively seek out and synthesize primary research in disciplines such as language and social studies to rectify this systemic imbalance in the synthesis landscape.*
+> *The unique VALUE of employing a second-order meta-analysis here is not just to report a finding, but to highlight this exact methodological gap: there is a severe paucity of high-level synthesis (meta-analyses) that systematically report effect sizes for the language or social studies domains... establishes a clear agenda for future first-order meta-analyses, which must actively seek out and synthesize primary research in disciplines such as language and social studies to rectify this systemic imbalance in the synthesis landscape.*
 
 ---
 

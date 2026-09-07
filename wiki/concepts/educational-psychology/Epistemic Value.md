@@ -6,7 +6,7 @@ aliases:
 summary: "哲学与心理学概念附加特定认识成就的相对价值。影响探究中权衡成本与收益的决策。"
 type: concept
 domain: "educational-psychology"
-related_count: 5
+related_count: 4
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -17,8 +17,7 @@ related_concepts:
   - "[[Theoretical Knowledge]]"
 related_theories: []
 related_methods: []
-related_instruments:
-  - "[[VALUE Rubrics]]"
+related_instruments: []
 related_persons: []
 related_facts: []
 related_arguments:
@@ -26,7 +25,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-08-20
+updated: 2026-09-07
 ---
 
 # Epistemic Value
@@ -36,7 +35,7 @@ updated: 2026-08-20
 ## 定义
 
 > [!def] 核心定义
-> [[Epistemology|认识论]]价值（Epistemic [[VALUE Rubrics|VALUE]]）是特定的认识成就（epistemic achievements），如理论推导、实用技巧、深层理解等，对个体的价值、意义或重要性。[[Argument_Chinn_2011_EP|(Chinn et al., 2011, p. 142)]]
+> [[Epistemology|认识论]]价值（Epistemic VALUE）是特定的认识成就（epistemic achievements），如理论推导、实用技巧、深层理解等，对个体的价值、意义或重要性。[[Argument_Chinn_2011_EP|(Chinn et al., 2011, p. 142)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 判断某种知识或认知成果是否值得追求。

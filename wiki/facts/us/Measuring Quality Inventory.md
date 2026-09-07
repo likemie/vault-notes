@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-28
-updated: 2026-08-28
+updated: 2026-09-07
 ---
 
 # Measuring Quality Inventory
@@ -82,5 +82,5 @@ updated: 2026-08-28
 ## 影响与政策启示
 
 > [!finding-cards] 影响与政策启示
-> - **实证揭示[[Creativity|创造力]]测量空白** 清单证实，在全美高等教育使用的数百种评估工具中，除了 AAC&U [[VALUE Rubrics|VALUE]] 量规专设了创造性思维量规外，几乎没有任何现成工具能够直接测查大学生的创造力，为 [[OECD]] 等国际组织推动[[Creativity Assessment|创造力评价]]研发提供了直接证据支撑。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 29)]]
+> - **实证揭示[[Creativity|创造力]]测量空白** 清单证实，在全美高等教育使用的数百种评估工具中，除了 AAC&U VALUE 量规专设了创造性思维量规外，几乎没有任何现成工具能够直接测查大学生的创造力，为 [[OECD]] 等国际组织推动[[Creativity Assessment|创造力评价]]研发提供了直接证据支撑。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 29)]]
 > - **促进院校评价工具遴选透明化** 为大学教务部门与质量保障机构根据具体教学目标科学遴选测评工具提供了权威指南。

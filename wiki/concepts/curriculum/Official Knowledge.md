@@ -7,7 +7,7 @@ aliases:
 summary: "Apple 提出的批判课程论核心概念，指学校课程中被国家与支配群体选择性界定为合法、正当且值得传授的知识，反映并再生产社会中的文化权力关系与政治霸权"
 type: concept
 domain: "curriculum"
-related_count: 15
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -37,12 +37,11 @@ related_facts: []
 related_arguments:
   - "[[Argument_Yu_2024_CE]]"
   - "[[Argument_Xu_2024_CE]]"
-related_instruments:
-  - "[[VALUE Rubrics]]"
+related_instruments: []
 confidence: high
 status: active
 created: '2026-05-21'
-updated: '2026-07-22'
+updated: 2026-09-07
 ---
 
 # Official Knowledge
@@ -62,7 +61,7 @@ updated: '2026-07-22'
 > [!citation-card]- 关键表述
 > 学校课程并非[[Value Neutrality|价值中立]]，而是官方知识——即特定群体的知识被选择性地合法化，这一选择过程本身就是政治性的。[[Argument_Yu_2024_CE|(Apple, 2000, 引自 Yu & Zhao, 2024, p. 59)]]
 >
-> *“Schools are not [[VALUE Rubrics|VALUE]]-neutral, but are 'official knowledge' – the selective legitimation of particular groups' knowledge, a process that is itself political.”*
+> *“Schools are not VALUE-neutral, but are 'official knowledge' – the selective legitimation of particular groups' knowledge, a process that is itself political.”*
 
 > [!boundary]- 概念边界
 > - **不等于 隐性课程（Hidden Curriculum）** — 隐性课程侧重非正式的规范、服从态度与阶层习惯再生产；官方知识侧重显性教学大纲、标准教材与法定考核内容的政治合法化。

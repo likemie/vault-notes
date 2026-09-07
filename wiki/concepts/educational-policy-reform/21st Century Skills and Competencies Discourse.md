@@ -12,7 +12,7 @@ aliases:
 summary: "由全球教育治理中的多边组织、国家政府和跨国智库共同推动的政策修辞与规范框架，旨在界定未来劳动力市场所需关键能力并塑造教育政策与自我企业家主体性；实证研究揭示其存在技能空心化、实践转译断裂以及高教宏观倡导与微观评价滞后的制度脱节，二阶元分析证实合作学习对21世纪综合高阶技能具有显著赋能效应（ES = 0.76/0.84）。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 60
+related_count: 59
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -74,8 +74,7 @@ related_methods:
   - "[[In-depth Interview]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Discourse Analysis]]"
-related_instruments:
-  - "[[VALUE Rubrics]]"
+related_instruments: []
 related_persons: []
 related_facts:
   - "[[OECD]]"
@@ -95,7 +94,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-20
-updated: 2026-08-27
+updated: 2026-09-07
 ---
 
 # 21st Century Skills and Competencies Discourse
@@ -228,7 +227,7 @@ updated: 2026-08-27
 > - **第二阶段（2010 年代） — 跨国协调与多边私营共建** ATCS 跨国评估项目、美国 NRC 报告（2012）与世界经济论坛（WEF, 2016）加入，私营部门直接介入技能标准设定，确立标准化测量意图。
 > - **第三阶段（2010 年代末至 2020 年代初） — 全球指标趋同与产品下沉** [[OECD]]《学习罗盘 2030》（2019）与欧盟八大关键素养高度同质化；[[PISA]] 通过创新领域（协作[[Problem Solving|问题解决]]、创造性思维）实现跨国测量落地。（OECD, 2019; [[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p. 254]]）
 > - **第四阶段（2020 年代中） — 智能时代交叉素养与学科[[Epistemology|认识论]]重构** 面对大模型与生成式 AI 冲击，以英国皇家学会（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026)]]）为代表的科学界反思抽象技能空心化，提出将 21 世纪核心素养扎根于四大交叉支柱：[[Scientific Literacy|科学素养]] + [[Data Literacy|数据素养]] + AI 素养 + 气候生态素养。
-> - **第五阶段（2020 年代后期至今） — 高等教育真实[[Authentic Assessment|表现性评价]]与政策杠杆重构** OECD 报告（[[Argument_Bouckaert_2023_OECD|Bouckaert, 2023]]）引领从“口头倡导”转向“评价生态重构”，通过 [[TESTA Project|TESTA]] 全课程整合评价、[[VALUE Rubrics|VALUE]] 量规校准与高利害统考增设大口试答辩，实质性破除 21 世纪素养落地的评价瓶颈。
+> - **第五阶段（2020 年代后期至今） — 高等教育真实[[Authentic Assessment|表现性评价]]与政策杠杆重构** OECD 报告（[[Argument_Bouckaert_2023_OECD|Bouckaert, 2023]]）引领从“口头倡导”转向“评价生态重构”，通过 [[TESTA Project|TESTA]] 全课程整合评价、VALUE 量规校准与高利害统考增设大口试答辩，实质性破除 21 世纪素养落地的评价瓶颈。
 
 ---
 

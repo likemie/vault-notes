@@ -9,7 +9,7 @@ summary: "俄裔英国比较教育学家，伦敦大学国王学院读者，提�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 22
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -33,8 +33,7 @@ related_concepts:
   - "[[Democratic Education]]"
 related_methods:
   - "[[Historical-Comparative Method]]"
-related_instruments:
-  - "[[VALUE Rubrics]]"
+related_instruments: []
 related_persons:
   - "[[Joseph Lauwerys]]"
   - "[[Isaac Kandel]]"
@@ -64,7 +63,7 @@ updated: 2026-09-07
 > [!citation-card] 人物定位的关键来源
 > A. R. 特雷瑟韦（A. R. Tretheway）指出，尼古拉斯·汉斯（Nicholas Hans）的卓越贡献并非提供[[Isaac Kandel|艾萨克·坎德尔]]（Isaac Kandel）方法的跨大西洋翻版，尽管二者分享诸多共通之处；他的独特贡献在于构建了一个由各种“因素”组成的比较研究框架。汉斯坚信这些因素代表了塑造民族及其教育系统的内在与永久力量，该框架的巨大价值在于为原本可能难以驾驭的海量相关历史数据赋予了秩序与严整结构。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 49–50)]]；引自 Tretheway (1976:63–64)
 >
-> *Hans' contribution, therefore, was not in supplying a transatlantic version of Kandel's method, though their work did have much in common. His particular contribution was in developing a framework for comparative study comprised of factors which he believed represented immanent and permanent forces which shaped nations and their educational systems. The [[VALUE Rubrics|VALUE]] of such framework lay in the order or structure it imposed on a potentially unmanageable quantity of relevant data...*
+> *Hans' contribution, therefore, was not in supplying a transatlantic version of Kandel's method, though their work did have much in common. His particular contribution was in developing a framework for comparative study comprised of factors which he believed represented immanent and permanent forces which shaped nations and their educational systems. The VALUE of such framework lay in the order or structure it imposed on a potentially unmanageable quantity of relevant data...*
 
 ---
 
@@ -72,7 +71,7 @@ updated: 2026-09-07
 
 > [!timeline] 生平与职涯
 > - **1888** **黑海名埠出身与欧陆史哲基础** 出生于俄罗斯帝国敖德萨（Odessa，今属乌克兰），早年在敖德萨大学（新俄罗斯大学）接受系统严格的欧陆历史学与哲学学术训练。
-> - **1917–1919** **出任敖德萨市教育局长直面多民族语言文化冲突** 积极投身俄国南部地方自治与自由主义教育改革运动，在俄国二月革命后及内战过渡时期出任敖德萨市教育局长（Director of Education of the City of Odessa）。直面黑海多民族港口城市的治理现实，汉斯深入协调俄语、乌克兰语、意第绪语等多元语言学校以及东正教、天主教与犹太教社群的教育诉求，这一难得的历史治理经验为其日后创立三维因素解释框架奠定了深厚的实践土壤。
+> - **1917–1919** **出任敖德萨市教育局长直面多民族语言文化冲突** 积极投身俄国南部地方自治与自由主义教育改革运动，在俄国二月革命后及内战过渡时期出任敖德萨市教育局长（Director of Education of the City of Odessa）。直面黑海多民族港口城市的治理现实，汉斯深入协调俄语、乌克兰语、意第绪语等多元语言学校以及东正教、天主教与犹太教社群的教育诉求，这一难得的历史治理经验为其日后创立三维[[Factorial Interpretive Framework|因素解释框架]]奠定了深厚的实践土壤。
 > - **1920** **俄国内战流亡英国与学术人生转向** 俄国内战期间，因坚守自由宪政立场、反对布尔什维克专政而被迫流亡英国；跨国流亡经历赋予其东欧斯拉夫文明与西欧盎格鲁-撒克逊文明的双重视野。
 > - **1920年代–1936** **伦敦大学国王学院深造与荣获文学博士学位** 在伦敦大学国王学院继续深造，1926 年以俄国教育史专论获哲学博士（Ph.D.）学位；先后出版《教育政策的原则》（*The Principles of Educational Policy*, 1929）与《俄国教育政策史》（*History of Russian Educational Policy*, 1931）；1936 年凭借卓越的历史与制度研究成就荣获伦敦大学文学博士学位（Doctor of Literature, D.Lit.）。
 > - **1945–1953** **执教伦敦国王学院奠定学术中枢** 任伦敦大学国王学院比较教育学讲师、高级讲师，后晋升为读者（Reader，相当于准教授）。
@@ -179,7 +178,7 @@ updated: 2026-09-07
 > [!citation-card] Tretheway论汉斯因素框架为海量史料确立秩序
 > 特雷瑟韦（A. R. Tretheway）指出，汉斯的卓越贡献在于构建了一个由各种“因素”组成的比较研究框架。汉斯坚信这些因素代表了塑造民族及其教育系统的内在与永久力量，该框架的巨大价值在于为原本可能难以驾驭的海量相关历史数据赋予了秩序与严整结构。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 49–50)]]；引自 Tretheway (1976:63–64)
 >
-> *Hans' contribution... was in developing a framework for comparative study comprised of factors which he believed represented immanent and permanent forces which shaped nations and their educational systems. The [[VALUE Rubrics|VALUE]] of such framework lay in the order or structure it imposed on a potentially unmanageable quantity of relevant data...*
+> *Hans' contribution... was in developing a framework for comparative study comprised of factors which he believed represented immanent and permanent forces which shaped nations and their educational systems. The VALUE of such framework lay in the order or structure it imposed on a potentially unmanageable quantity of relevant data...*
 
 卡扎米亚斯特别赞赏汉斯在冷战政治意识形态极化的大背景下保持的超然学术清醒与批判深度。
 

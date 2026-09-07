@@ -34,6 +34,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Going Native]]"
   - "[[Metacognitive Laziness]]"
+  - "[[Scaffolding]]"
   - "[[Operationalization]]"
   - "[[Scientism]]"
   - "[[Document]]"
@@ -51,8 +52,7 @@ related_methods:
   - "[[Trim and Fill Method]]"
   - "[[Experimental Research]]"
   - "[[Cohort Study]]"
-related_instruments:
-  - "[[VALUE Rubrics]]"
+related_instruments: []
 related_persons:
   - "[[Robert Slavin]]"
   - "[[Chen Xie]]"
@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-02'
-updated: '2026-09-05'
+updated: 2026-09-07
 ---
 
 # Alan C. K. Cheung
@@ -87,7 +87,7 @@ updated: '2026-09-05'
 > [!citation-card]- 人物定位的关键来源
 > [[Evidence-Based Reform|证据本位改革]]只有在证据严谨且有现实意义时才能得以持续推进。根据 Hattie (2008) 对教育干预的综合评估，[[Effect Size|效应量]]超过 0.40 即被视为具有教育实践意义。本元分析表明生成式 AI 在控制基线等效后仍展现出扎实的实际教学价值，但也揭示出必须依靠严谨的方法学门槛消除过度乐观估计。[[Argument_Chen_Cheung_2025_ERR|(Chen & Cheung, 2025, pp. 15–16)]]
 >
-> *Practically, evidence-based policies can only be sustained when evidence is rigorous and meaningful (Cheung & Slavin, 2016)... indicating that Gen-AI tools offer genuine educational [[VALUE Rubrics|VALUE]] beyond inflated estimates reported in prior reviews.*
+> *Practically, evidence-based policies can only be sustained when evidence is rigorous and meaningful (Cheung & Slavin, 2016)... indicating that Gen-AI tools offer genuine educational VALUE beyond inflated estimates reported in prior reviews.*
 
 ---
 
@@ -117,7 +117,7 @@ updated: '2026-09-05'
 >   - **代表著作** 
 >     - Chen, S., & Cheung, A. C. K. (2025). Effect of [[Generative Artificial Intelligence]] on university students' learning outcomes: A [[Systematic Review]] and meta-analysis. *Educational Research Review*, 49, Article 100737. [[Argument_Chen_Cheung_2025_ERR|(Chen & Cheung, 2025)]]
 >   - **关键概念／方法** [[Marginal Gains Hypothesis]]、[[Metacognitive Laziness]]、[[Third Generation Activity Theory|AT-MCSCL]] 框架、[[Baseline Standardized Mean Difference]]、[[Trim and Fill Method]]。
->   - **阶段转向** 从传统 K-12 课程干预向高等教育生成式 AI 场景迁移；在宏观活动系统生态中揭示“边际效益递增”规律（低 ICT 与低 SES 环境超额收益）与权力距离文化壁垒破除机制，主张技术治理需警惕“元认知惰性”并植入显性反思脚手架。
+>   - **阶段转向** 从传统 K-12 课程干预向高等教育生成式 AI 场景迁移；在宏观活动系统生态中揭示“边际效益递增”规律（低 ICT 与低 SES 环境超额收益）与权力距离文化壁垒破除机制，主张技术治理需警惕“元认知惰性”并植入显性反思[[Scaffolding|脚手架]]。
 
 ---
 
@@ -129,7 +129,7 @@ updated: '2026-09-05'
 > [!citation-card]- 关键表述
 > 早期[[Meta-analysis|元分析]]往往采用了不够严格的纳入标准，导致对[[Effect Size|效应量]]的高估，例如未能控制基线差异以及使用与实验干预内在绑定的测量工具... 在经过[[Trim and Fill Method|剪补法]]调整后，总体效应量降至小幅度（$g^+ = 0.321$），这一数值与教育干预的基准效应高度吻合，表明生成式 AI 具有超越既往膨胀估计的真实教育价值。[[Argument_Chen_Cheung_2025_ERR|(Chen & Cheung, 2025, p. 15)]]
 >
-> *Earlier meta-analyses might have adopted less stringent inclusion criteria, leading to inflated estimates of effect sizes... Moreover, the overall effect after applying the trim-and-fill procedure was reduced to a small magnitude ($g^+ = 0.321$). This effect size aligns with benchmarks in educational interventions, indicating that Gen-AI tools offer genuine educational [[VALUE Rubrics|VALUE]] beyond inflated estimates.*
+> *Earlier meta-analyses might have adopted less stringent inclusion criteria, leading to inflated estimates of effect sizes... Moreover, the overall effect after applying the trim-and-fill procedure was reduced to a small magnitude ($g^+ = 0.321$). This effect size aligns with benchmarks in educational interventions, indicating that Gen-AI tools offer genuine educational VALUE beyond inflated estimates.*
 
 ---
 

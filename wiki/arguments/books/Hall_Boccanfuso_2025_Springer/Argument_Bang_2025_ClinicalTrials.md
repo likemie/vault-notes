@@ -45,18 +45,17 @@ related_arguments: []
 sources:
   - "[[books/Hall_Boccanfuso_2025_Springer/Ch11_Bang_2025|Ch11_Bang_2025]]"
 part_of: "[[Hall_Boccanfuso_2025_Springer]]"
-related_instruments:
-  - "[[VALUE Rubrics]]"
+related_instruments: []
 status: draft
 created: 2026-06-03
-updated: '2026-08-27'
+updated: 2026-09-07
 subtype: book-chapter
 publication_type: book
 title: "Argument_Bang_2025_ClinicalTrials"
 argument_key: "Argument_Bang_2025_ClinicalTrials"
 argument_display_title: "University–Industry Relations in Clinical Trials"
 argument_kind: "book"
-argument_related_count: 27
+argument_related_count: 26
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -164,7 +163,7 @@ citation_aliases:
 
 ### 第二部分：四组结构性摩擦
 
-**5. [[Fair Market Value|公平市场价值]]（Fair Market [[VALUE Rubrics|VALUE]]）与学术机构管理费之间的落差，构成第一组也是最根本的预算矛盾**
+**5. [[Fair Market Value|公平市场价值]]（Fair Market VALUE）与学术机构管理费之间的落差，构成第一组也是最根本的预算矛盾**
 
 产业方编制的临床试验预算按照公平市场价值原则制定：产业方通过订阅 Grant Plan® 和 Grants Manager® 等成本数据共享服务，跨不同试验阶段、治疗领域和地理区域比较实际谈判预算，确保提出的成本不构成对机构的诱导参与或不当影响(pp.205–206)。
 

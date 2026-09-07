@@ -8,7 +8,7 @@ aliases:
 summary: "TUFF 创新中心框架的六项优先领域之一，通过非正式激活活动、意向性空间设计和社区文化建设，在建筑内部空间创造人际互动价值，以信任和人际密度推动商业活力"
 type: concept
 domain: "higher-education"
-related_count: 9
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -31,12 +31,11 @@ related_facts:
   - "[[Purdue Discovery Park]]"
 related_arguments:
   - "[[Argument_Byrne_2025_InnovationCenters]]"
-related_instruments:
-  - "[[VALUE Rubrics]]"
+related_instruments: []
 confidence: medium
 status: draft
 created: 2026-05-28
-updated: 2026-07-08
+updated: 2026-09-07
 ---
 
 # Placemaking
@@ -44,7 +43,7 @@ updated: 2026-07-08
 ## 定义
 
 > [!info]
-> 场所营造（Placemaking）是 [[TUFF]] [[Innovation Hub|创新中心]]框架的六项优先领域之一，指通过有意识的活动设计、空间布局和社区文化建设，在建筑内部空间创造人际互动价值（creating [[VALUE Rubrics|VALUE]] "in" the building），以此推动商业活力和区域经济发展([[Argument_Byrne_2025_InnovationCenters|Byrne & Clements, 2025, pp.136–137]])。
+> 场所营造（Placemaking）是 [[TUFF]] [[Innovation Hub|创新中心]]框架的六项优先领域之一，指通过有意识的活动设计、空间布局和社区文化建设，在建筑内部空间创造人际互动价值（creating VALUE "in" the building），以此推动商业活力和区域经济发展([[Argument_Byrne_2025_InnovationCenters|Byrne & Clements, 2025, pp.136–137]])。
 
 TUFF 将其与传统的建筑资产管理区分开来——后者关注建筑本身的账面价值，场所营造关注的是楼内发生的互动、关系和信任（p.136）。其深层逻辑链为：商业由社区赋能（commerce enabled by community），社区由人际体验的密度和持久的个人纽带赋能（community enabled by density of human experience and lasting interpersonal bonds）（p.137）。
 

@@ -5,7 +5,7 @@ aliases:
 summary: "把教育目的与价值判断置于证据选择之前的教育取向，强调先回答想培养什么样的人与社会，再讨论什么做法有效"
 type: concept
 domain: "educational-philosophy"
-related_count: 9
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -30,18 +30,17 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Biesta_2010_SPE]]"
-related_instruments:
-  - "[[VALUE Rubrics]]"
+related_instruments: []
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: '2026-05-18'
+updated: 2026-09-07
 ---
 
 ## 定义
 
 > [!info] 定义
-> 价值本位教育（[[VALUE Rubrics|VALUE]]-Based Education）是 [[Argument_Biesta_2010_SPE|Biesta (2010)]] 提出的教育取向，作为[[Evidence-Based Education|证据本位教育]]的替代。其核心主张是：**价值先于证据**——教育实践的方向来自关于教育目的的规范性判断，关于"什么有效"的手段性问题始终从属于"我们想要达成什么"的目的性问题。
+> 价值本位教育（VALUE-Based Education）是 [[Argument_Biesta_2010_SPE|Biesta (2010)]] 提出的教育取向，作为[[Evidence-Based Education|证据本位教育]]的替代。其核心主张是：**价值先于证据**——教育实践的方向来自关于教育目的的规范性判断，关于"什么有效"的手段性问题始终从属于"我们想要达成什么"的目的性问题。
 >
 > > "Calling the idea of value-based education an alternative, is not meant to suggest that evidence plays no role at all in value-based education but is to highlight that its role is subordinate to the values that constitute practices as educational practices." ([[Argument_Biesta_2010_SPE|Biesta, 2010, p. 492]])
 
@@ -121,7 +120,7 @@ updated: '2026-05-18'
 > [!warning] 可能被误解为反证据
 > 尽管 Biesta 明确声明证据在价值本位教育中"仍有角色"（证据通知可能性、价值决定方向），该概念容易被误读或利用为完全拒绝研究证据的借口。
 >
-> - **Biesta 的立场** "Calling the idea of [[VALUE Rubrics|VALUE]]-based education an alternative, is not meant to suggest that evidence plays no role at all."([[Argument_Biesta_2010_SPE|Biesta, 2010, p. 492]])
+> - **Biesta 的立场** "Calling the idea of VALUE-based education an alternative, is not meant to suggest that evidence plays no role at all."([[Argument_Biesta_2010_SPE|Biesta, 2010, p. 492]])
 > - **批评者的立场** 在 EBE 支持者阵营（如 Slavin, 2019）的压力下，"价值本位"被简化为"反证据"的稻草人，削弱了它的实际影响。
 >
 > **目前状态** 概念被广泛引用但也广泛简化——在政策辩论中常以"Biesta vs. Slavin"的二分形式出现，失去了 Biesta 细致论证的层次。

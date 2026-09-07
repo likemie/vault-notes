@@ -9,7 +9,7 @@ subtype: institution
 region: uk
 fact_region: "uk"
 fact_kind: "institution"
-fact_related_count: 7
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#e5e7eb"
@@ -28,12 +28,11 @@ related_facts:
 related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
-related_instruments:
-  - "[[VALUE Rubrics]]"
+related_instruments: []
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-09-04
+updated: 2026-09-07
 ---
 
 # EngineeringUK
@@ -71,7 +70,7 @@ updated: 2026-09-04
 
 > [!finding-cards] 国家级战略影响
 > 1. **英国基础教育 STEM 改革的重要循证推动者** 依托 SET 追踪调查等实证数据，持续向英国国会与教育部建言，力促扭转中学动手探究边缘化现状，推动高中阶段推行宽口径跨学科课程改革。
-> 2. **重构工业界参与教育的社会契约** 皇家学会《科学造福社会》报告将 EngineeringUK 视为推动商业企业落实社会价值（Social [[VALUE Rubrics|VALUE]]）与开展深层公共沟通不可或缺的全国性中介，有效避免了企业各自为战的碎片化弊端。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04|(The Royal Society, 2026, p. 68)]]
+> 2. **重构工业界参与教育的社会契约** 皇家学会《科学造福社会》报告将 EngineeringUK 视为推动商业企业落实社会价值（Social VALUE）与开展深层公共沟通不可或缺的全国性中介，有效避免了企业各自为战的碎片化弊端。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04|(The Royal Society, 2026, p. 68)]]
 
 ---
 

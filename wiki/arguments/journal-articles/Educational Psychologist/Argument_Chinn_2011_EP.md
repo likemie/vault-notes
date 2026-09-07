@@ -29,6 +29,7 @@ related_concepts:
   - "[[Rote Learning]]"
   - "[[Domain Specificity]]"
   - "[[Epistemic Forms]]"
+  - "[[Scaffolding]]"
   - "[[Paradigm]]"
   - "[[Justificatory Standards]]"
   - "[[Evaluation Research]]"
@@ -45,8 +46,7 @@ related_theories:
   - "[[Reliabilism]]"
   - "[[Expanded Framework of Epistemic Cognition]]"
 related_methods: []
-related_instruments:
-  - "[[VALUE Rubrics]]"
+related_instruments: []
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -54,7 +54,7 @@ sources:
   - "[[sources/Chinn_2011_EP|Chinn_2011_EP]]"
 status: draft
 created: 2026-08-17
-updated: 2026-08-20
+updated: 2026-09-07
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Chinn_2011_EP"
@@ -124,7 +124,7 @@ issuing_organization: ""
 ### 论证步骤一 引入认识目标与价值的必然性
 
 > [!claim] 步骤一主张
-> 必须将[[Epistemic Aims|认识目标]]和[[Epistemic Value|认识价值]]（epistemic [[VALUE Rubrics|VALUE]]）确立为模型的第一组件，因为它们决定了后续认知策略的选择。
+> 必须将[[Epistemic Aims|认识目标]]和[[Epistemic Value|认识价值]]（epistemic VALUE）确立为模型的第一组件，因为它们决定了后续认知策略的选择。
 
 > [!warrant] 哲学辩护（概念合法性）
 > Kvanvig (2003) 与 Goldman (1986) 等学者提出，[[Epistemology|认识论]]本质上是关于达成知识、真理与深层理解等特定认识成就的探讨。如果缺乏特定的认识目标，就无法区分[[Epistemic Cognition|认识论认知]]与非认识论认知（nonepistemic cognition）。
@@ -167,7 +167,7 @@ issuing_organization: ""
 
 > [!exegesis] 心理学效用（情境与预测力检验）
 > - **单向度量表的预测失效**
->   用简单到复杂单维量表测量信念，因缺乏具体情境，这种粗略信念无法转化为指导认知操作的脚手架。
+>   用简单到复杂单维量表测量信念，因缺乏具体情境，这种粗略信念无法转化为指导认知操作的[[Scaffolding|脚手架]]。
 > - **学科特异性图式的干预力量**
 >   - **机制结构（mechanism structures）** 理解分子生物学微观图式的学习者，在阅读教材时能自动寻找并组织实体与属性，显著提高文本理解力。
 >   - **因果模型** 在生态系统等复杂系统中，持有非线性因果图式的学习者，对系统反馈循环的理解表现优于仅持有线性因果信念的学习者。
@@ -286,7 +286,7 @@ issuing_organization: ""
 ## 教育启示
 
 > [!implication]- [[Epistemology|认识论]]认知作为学科学习的底层操作系统
-> [[Epistemic Cognition|认识论认知]]绝非悬浮于具体内容之外的抽象哲学观念，而是直接支持学科深度学习的核心认知脚手架。当细化到特定学科的微观层面时，便转化为处理学科信息的操作系统：
+> [[Epistemic Cognition|认识论认知]]绝非悬浮于具体内容之外的抽象哲学观念，而是直接支持学科深度学习的核心[[Scaffolding|认知脚手架]]。当细化到特定学科的微观层面时，便转化为处理学科信息的操作系统：
 > - **提供学科专属的图式工具** 掌握生物学中特定的机制结构图式，能自动寻找实体与触发条件，极大提升知识组织效率。
 > - **指导复杂信息的加工策略** 具备评估实证共识的细粒度[[Justificatory Standards|确证标准]]，能在面对冲突信息时采取验证与比对策略。
 > - **塑造攻克学科难点的韧性** 求真的[[Epistemic Aims|认识目标]]与理智勇气，为克服高昂认知成本提供了心理底座。

@@ -10,7 +10,7 @@ aliases:
 summary: "将专业实践与教育治理窄化为手段-目的因果计算与去情境化技术控制的实证主义模型；在微观教学中剥夺教师专业判断，在宏观政策与比较教育中将教育退化为劳动力技能规训并侵蚀全人教化"
 type: concept
 domain: "educational-philosophy"
-related_count: 55
+related_count: 54
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -61,8 +61,7 @@ related_theories:
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Experimental Research]]"
-related_instruments:
-  - "[[VALUE Rubrics]]"
+related_instruments: []
 related_persons:
   - "[[Donald A. Schön]]"
   - "[[Aristotle]]"
@@ -133,7 +132,7 @@ updated: 2026-09-07
 
 > [!feature] 核心要素构成
 > - **手段-目的工具主义（Means-Ends Instrumentalism）** 将专业实践窄化为寻求最有效达成给定目标的工具手段，将复杂情境问题剥离为孤立的因果链条。
-> - **[[Value Neutrality|价值中立]]与目标[[Epoché|悬置]]（[[VALUE Rubrics|VALUE]] Neutrality & Objective Fixation）** 预设教育目标是[[Doxa|不言自明]]的既定前提，拒绝在技术层面反思“为何要教”与“何为良好的教育”，仅追逐效率最大化。
+> - **[[Value Neutrality|价值中立]]与目标[[Epoché|悬置]]（VALUE Neutrality & Objective Fixation）** 预设教育目标是[[Doxa|不言自明]]的既定前提，拒绝在技术层面反思“为何要教”与“何为良好的教育”，仅追逐效率最大化。
 > - **专家特权与线性单向传输（Expert Privilege & Linear Transmission）** 确立学术研究者对因果真理的垄断地位，把知识传播构想为从大学向学校自上而下的单向输送。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 127)]]
 > - **去情境化可量化迷执（Decontextualised Quantificationalism）** 倾向于将所有教育现象转化为可测量的[[Variable|变量]]与标准量化指标，排斥质性、情境性与主观意义维度的证据。
 > - **去政治化技术官僚[[Disciplina and Doctrina|规训]]（Technocratic Schooling De-politicisation）** 将教育矮化为去情境化、可测量的工具性“学校教育”（Schooling），用量化生产力与人力资本测算取代对社会正义与人类文明危机的哲学追问。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 56–57)]]

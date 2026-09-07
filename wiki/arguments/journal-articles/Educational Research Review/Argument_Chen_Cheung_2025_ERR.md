@@ -100,7 +100,6 @@ related_instruments:
   - "[[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale]]"
   - "[[California Critical Thinking Disposition Inventory]]"
   - "[[California Critical Thinking Skills Test]]"
-  - "[[VALUE Rubrics]]"
 related_persons:
   - "[[Alan C. K. Cheung]]"
   - "[[Robert Slavin]]"
@@ -114,14 +113,14 @@ sources:
 part_of:
 status: draft
 created: 2026-09-04
-updated: 2026-09-05
+updated: 2026-09-07
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Chen_Cheung_2025_ERR"
 argument_key: "Argument_Chen_Cheung_2025_ERR"
 argument_display_title: "Effect of generative artificial intelligence on university students learning outcomes: A systematic review and meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 84
+argument_related_count: 83
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -416,7 +415,7 @@ issuing_organization: ""
 > [!citation-card]- [[Baseline Standardized Mean Difference|基线等效性]]与[[Meta-analysis|元分析]]严谨性
 > 早期元分析往往采用了不够严格的纳入标准，导致对[[Effect Size|效应量]]的高估，例如未能控制基线差异以及使用与实验干预内在绑定的测量工具。由于本研究采用了更为严格的标准，许多在其他综述中出现的[[Document|文献]]未被纳入。在经过[[Trim and Fill Method|剪补法]]调整后，总体效应量降至小幅度（$g^+ = 0.321$），这一数值与教育干预的基准效应高度吻合，表明生成式 AI 具有超越既往膨胀估计的真实教育价值。（p. 15）
 >
-> *Earlier meta-analyses might have adopted less stringent inclusion criteria, leading to inflated estimates of effect sizes, such as failing to control for baseline differences and using measures inherent to the experimental treatment... Moreover, the overall effect after applying the trim-and-fill procedure was reduced to a small magnitude ($g^+ = 0.321$). This effect size aligns with benchmarks in educational interventions, indicating that Gen-AI tools offer genuine educational [[VALUE Rubrics|VALUE]] beyond inflated estimates reported in prior reviews.*
+> *Earlier meta-analyses might have adopted less stringent inclusion criteria, leading to inflated estimates of effect sizes, such as failing to control for baseline differences and using measures inherent to the experimental treatment... Moreover, the overall effect after applying the trim-and-fill procedure was reduced to a small magnitude ($g^+ = 0.321$). This effect size aligns with benchmarks in educational interventions, indicating that Gen-AI tools offer genuine educational VALUE beyond inflated estimates reported in prior reviews.*
 
 > [!citation-card]- 权力距离与人机交互自主赋能
 > 在以高权力距离为特征的教育情境中，学生更为依赖教师权威和自上而下的层级式教学。生成式 AI 在此类环境中的整合打破了这种传统动态，减少了学生对教师的依赖，提供了个性化和[[Learner Autonomy|自主学习]]的机会。通过与 AI 工具的即时个性化交互，学生得以独立建构理解，从而推动教学模式从教师中心向学习者中心转变。（p. 18）

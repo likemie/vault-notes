@@ -9,10 +9,10 @@ summary: "哥伦比亚大学师范学院比较教育学讲座教授，《教育�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 37
-person_related_level: 4
-person_related_stars: "⭐⭐⭐⭐"
-person_related_color: "#fce7f3"
+person_related_count: 41
+person_related_level: 5
+person_related_stars: "⭐⭐⭐⭐⭐"
+person_related_color: "#ffedd5"
 tags:
   - subject/comparative-education
   - theme/historical-philosophical
@@ -24,15 +24,18 @@ related_concepts:
   - "[[National Character]]"
   - "[[Document]]"
   - "[[Bildung]]"
+  - "[[Intangible Spiritual Forces]]"
   - "[[Paradigm]]"
-  - "[[Positivism]]"
+  - "[[Cultural Nationalism vs. Political Nationalism]]"
   - "[[Academic Freedom]]"
+  - "[[Technical Rationality]]"
   - "[[Independent Variable]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Epistemology]]"
   - "[[Historical-Philosophical-Cultural Motif]]"
   - "[[Educational Meliorism]]"
   - "[[Reflexivity]]"
+  - "[[Positivism]]"
   - "[[Policy Borrowing]]"
   - "[[Operationalization]]"
   - "[[Whiggism]]"
@@ -57,7 +60,8 @@ related_persons:
   - "[[Harold Noah]]"
   - "[[Max Eckstein]]"
   - "[[Brian Holmes]]"
-related_facts: []
+related_facts:
+  - "[[Australian Council for Educational Research]]"
 related_arguments:
   - "[[Argument_Cowen_2009_HistoryCreation]]"
   - "[[Argument_Kazamias_2009_ForgottenThemes]]"
@@ -89,17 +93,17 @@ updated: 2026-09-07
 
 > [!timeline] 生平与职涯
 > - **1881** **欧洲犹太家庭出身与博雅文化滋养** 出生于罗马尼亚布加勒斯特的一个犹太家庭，幼年随家庭迁居英国曼彻斯特，深沐欧洲中心主义自由人文[[Bildung|教养]]与传统英国自由主义熏陶。正如[[George Bereday|乔治·贝雷迪]]（George Bereday）在悼念中所深情赞颂：坎德尔是笃信直觉与人文洞见的博雅人文学者典范，兼具欧洲与美国的双重文明修养，其犹太精神纯粹而坚定。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 46)]]；引自 Bereday (1966: 147–150)
-> - **1898–1906** **曼彻斯特大学受业[[Michael Sadler|迈克尔·萨德勒]]** 在曼彻斯特大学攻读古典学与历史学，受教于英国比较教育先驱[[Michael Sadler|迈克尔·萨德勒]]（Michael Sadler），系统汲取了校外无形精神力量、活体有机体与情境不可移植性等核心洞见，奠定了其终身治学的史学与哲学基石。
+> - **1898–1906** **曼彻斯特大学受业[[Michael Sadler|迈克尔·萨德勒]]** 在曼彻斯特大学攻读古典学与历史学，受教于英国比较教育先驱[[Michael Sadler|迈克尔·萨德勒]]（Michael Sadler），系统汲取了[[Intangible Spiritual Forces|校外无形精神力量]]、活体有机体与情境不可移植性等核心洞见，奠定了其终身治学的史学与哲学基石。
 > - **1906–1908** **德国耶拿大学深造赫尔巴特学派体系** 赴德国耶拿大学（University of Jena）深造，师从著名教育家威廉·莱因（Wilhelm Rein），接受系统的赫尔巴特学派教育哲学、教学论与欧陆制度科学学术训练。
 > - **1908–1910** **哥伦比亚大学博士深造与横跨三大学脉** 赴美在哥伦比亚大学[[Normal School|师范学院]]师从教育史权威保罗·门罗（Paul Monroe），1910 年以德国教师培训史研究获得哲学博士学位，融汇英国博雅文人情怀、德国哲理思辨深度与美国开阔的制度视野。
 > - **1914–1923** **卡内基基金会十年[[Fieldwork|实地调查]]与经验事实奠基** 出任卡内基教学促进基金会（Carnegie Foundation for the Advancement of Teaching）专职研究员，十年间深入全美各地与欧洲多国，系统开展教师养老金制度、中等教育课程改革与学校管理体制调查，积累了庞大扎实的第一手制度事实。
 > - **1923** **参与创立哥大国际研究所并开创研究生培养** 在保罗·门罗倡议下参与创立哥伦比亚大学师范学院国际研究所（International Institute），受聘为比较教育学教授，开创全球现代跨国比较教育研究生专业培养体系。
 > - **1924–1944** **主持编纂 21 卷《教育年鉴》百科全书式记录** 独立创办并主持编纂国际研究所《教育年鉴》（*Educational Yearbook*，共 21 卷），系统记录两次世界大战之间全球数十个主要国家的制度变迁、法案改革与课程演进，成为 20 世纪前半叶记录全球教育演进最重要的权威[[Document|文献]]库。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, pp. 7–8)]]
 > - **1933** **划时代巨著《比较教育》确立国家解释[[Variable|变量]]** 出版划时代代表作《比较教育》（*Comparative Education*），系统奠定历史-[[Philosophical Analysis in Education|哲学分析]][[Paradigm|范式]]，在学科史上首次将国家（The State）确立为统领全局的核心情境解释变量，并提出规范的因果探究三阶段流程。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 45–48)]]
-> - **1934–1941** **直面极权主义扩张并构筑[[Democratic Education|民主教育]]防线** 相继出版《纳粹的塑造》（*The Making of Nazis*, 1934）、《相互冲突的教育理论》（*Conflicting Theories of Education*, 1938）与《一个时代的终结》（*The End of an Era*, 1941），率先揭露法西斯极权政权利用学校进行政治灌输与动员的危害，主张以尊重多元文化的文化民族主义抵御侵略性政治民族主义。[[Argument_Kazamias_2009_ForgottenThemes|(Herzog, 1960; Kazamias, 1963: 385; 2009: 48–49)]]
-> - **1937** **大洋洲巡回讲学与跨国民主教育咨询** 受澳大利亚教育研究委员会（ACER）与新西兰政府邀请赴大洋洲展开学术巡讲与教育考察，在墨尔本大学等地发表演讲，系统指导英联邦国家反思过度中央集权体制，探索兼顾地方自主与教育机会均等的现代公共教育方案。
+> - **1934–1941** **直面极权主义扩张并构筑[[Democratic Education|民主教育]]防线** 相继出版《纳粹的塑造》（*The Making of Nazis*, 1934）、《相互冲突的教育理论》（*Conflicting Theories of Education*, 1938）与《一个时代的终结》（*The End of an Era*, 1941），率先揭露法西斯极权政权利用学校进行政治灌输与动员的危害，主张以尊重多元文化的[[Cultural Nationalism vs. Political Nationalism|文化民族主义]]抵御侵略性政治民族主义。[[Argument_Kazamias_2009_ForgottenThemes|(Herzog, 1960; Kazamias, 1963: 385; 2009: 48–49)]]
+> - **1937** **大洋洲巡回讲学与跨国民主教育咨询** 受[[Australian Council for Educational Research|澳大利亚教育研究委员会]]（ACER）与新西兰政府邀请赴大洋洲展开学术巡讲与教育考察，在墨尔本大学等地发表演讲，系统指导英联邦国家反思过度中央集权体制，探索兼顾地方自主与教育机会均等的现代公共教育方案。
 > - **1946** **哥大荣休与重返曼彻斯特大学创设美国研究** 从哥伦比亚大学荣休；1947 至 1950 年重返英国曼彻斯特大学出任首任美国研究教授，并长期受聘为联合国教科文组织核心咨询专家，积极投身战后国际理解与教育重建。
-> - **1946–1953** **执掌《学校与社会》主编捍卫博雅学术自由** 出任全美声誉卓著的教育权威周刊《学校与社会》（*School and Society*）主编。在战后麦卡锡主义政治阴影与极端技术理性泛滥的社会思潮中，坎德尔发表大量针砭时弊的社论，坚决捍卫博雅教育、大学学术自由与教师专业伦理，警示防止学校沦为意识形态动员或功利技术的附庸。
+> - **1946–1953** **执掌《学校与社会》主编捍卫博雅[[Academic Freedom|学术自由]]** 出任全美声誉卓著的教育权威周刊《学校与社会》（*School and Society*）主编。在战后麦卡锡主义政治阴影与极端[[Technical Rationality|技术理性]]泛滥的社会思潮中，坎德尔发表大量针砭时弊的社论，坚决捍卫博雅教育、大学学术自由与教师专业伦理，警示防止学校沦为意识形态动员或功利技术的附庸。
 > - **1955** **出版战后集大成续作《教育的新时代》** 出版代表作《教育的新时代：比较研究》（*The New Era in Education: A Comparative Study*），系统反思战后西方福利国家民主化转型背景下个性自由与国家权力的动态平衡。
 > - **1965** **逝世于日内瓦与学派参天灯塔的历史评价** 逝世于瑞士日内瓦，享年 84 岁。乔治·贝雷迪（George Bereday）在悼词中高度礼赞坎德尔为“大学博雅人文学者一代的参天巨塔与指路明灯”，既非纯粹的技术科学家，亦非语义琐碎的学究，其坚毅的犹太精神与博雅学养将永远指引后人。(Bereday, 1965: 249; 1966: 147–150; Kazamias & Schwartz, 1977)
 
@@ -150,7 +154,7 @@ updated: 2026-09-07
 > - **观念形态比较的唯心论升华**
 >   坎德尔将这一因果探究程序升华为极具唯心主义色彩的哲学纲领：1956 年在反思学科本质时，他明确断言比较教育的实质在于“比较各种观念、理想与形态”（Comparison of ideas, ideals and forms），穿透客观体制细节捕捉深层精神本质。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 43)]]
 
-在政治改良诉求上，坎德尔推崇国家对社会政策的有限介入，倡导依托学校培育国际理解，以此构筑文化民族主义抵抗侵略性政治民族主义的价值防线。
+在政治改良诉求上，坎德尔推崇国家对社会政策的有限介入，倡导依托学校培育国际理解，以此构筑[[Cultural Nationalism vs. Political Nationalism|文化民族主义]]抵抗侵略性政治民族主义的价值防线。
 
 > [!tension] 坎德尔论民族主义的二元价值分野
 > - **文化民族主义（Cultural Nationalism）** 倡导多元文化传承、精神自主与思想包容，坚信依托学校教育培育公民批判理智与国际理解（International understanding），筑牢和平共处的人道主义底线。[[Argument_Kazamias_2009_ForgottenThemes|(Kandel, 1933; Kazamias, 1963: 385; 2009: 47–49)]]
@@ -247,7 +251,7 @@ updated: 2026-09-07
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Historical-Philosophical-Cultural Motif]] | 概念 | 将比较教育奠基为考察观念、理想、政治形态与无形精神力量的广义人文科学。 |
+> | [[Historical-Philosophical-Cultural Motif]] | 概念 | 将比较教育奠基为考察观念、理想、政治形态与[[Intangible Spiritual Forces\|无形精神力量]]的广义人文科学。 |
 > | [[National Character]] | 概念 | 将民族主义与国民性格确立为理解国家教育体系的核心支柱。 |
 > | [[Historical-Comparative Method]] | 方法 | 践行历史溯源与政治哲学辨析相结合的比较教育分析路径。 |
 > | [[Comparative History of Comparative Education]] | 概念 | 展现比较教育历史-哲学传统奠基与跨国档案挖掘困境的核心案例。 |

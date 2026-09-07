@@ -38,11 +38,11 @@ related_theories: []
 related_methods:
   - "[[Triangulation]]"
 related_instruments:
-  - "[[VALUE Rubrics]]"
   - "[[Collegiate Learning Assessment]]"
   - "[[Cognitive Ability Test KFT]]"
   - "[[Collegiate Assessment of Academic Proficiency]]"
   - "[[ETS Proficiency Profile]]"
+  - "[[VALUE Rubrics]]"
 related_persons: []
 related_facts:
   - "[[Higher Education Funding Council for England]]"
@@ -57,7 +57,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
 created: 2026-08-26
-updated: '2026-08-27'
+updated: 2026-09-07
 ---
 
 # Learning Gain
@@ -67,7 +67,7 @@ updated: '2026-08-27'
 ## 定义
 
 > [!def] 核心定义
-> 学习增益（Learning Gain，也常称学习增值或 [[VALUE Rubrics|VALUE]]-Added）是指学生在高等教育求学期间（从入学到毕业），在专业知识、[[Higher-Order Thinking Skills|高阶思维技能]]（如[[Critical Thinking|批判性思维]]、[[Creativity|创造力]]与[[Problem Solving|问题解决]]）、就业就绪度（Work-Readiness）以及个人综合素养等方面所获得的纵向能力进步与净增长幅度。它突破了传统以入学成绩、名校声誉或静态文凭等级为主的质量评价模式，转而通过前[[Pre-test and Post-test|后测]]对比或增值模型（Value-Added Modeling）直接评估院校教学与培养过程对学生认知发展的实际赋能效果。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 17–18)]]; Kandiko Howson (2018); McGrath et al. (2015)
+> 学习增益（Learning Gain，也常称学习增值或 VALUE-Added）是指学生在高等教育求学期间（从入学到毕业），在专业知识、[[Higher-Order Thinking Skills|高阶思维技能]]（如[[Critical Thinking|批判性思维]]、[[Creativity|创造力]]与[[Problem Solving|问题解决]]）、就业就绪度（Work-Readiness）以及个人综合素养等方面所获得的纵向能力进步与净增长幅度。它突破了传统以入学成绩、名校声誉或静态文凭等级为主的质量评价模式，转而通过前[[Pre-test and Post-test|后测]]对比或增值模型（Value-Added Modeling）直接评估院校教学与培养过程对学生认知发展的实际赋能效果。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 17–18)]]; Kandiko Howson (2018); McGrath et al. (2015)
 
 > [!concept-lens] 概念透镜
 > - **含义** 关注学生在大学教育全过程中认知与实践能力的“[[Growth|成长]]距离”（Distance Travelled），而非初始选拔生源的优劣。

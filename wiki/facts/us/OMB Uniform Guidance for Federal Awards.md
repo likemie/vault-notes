@@ -10,9 +10,9 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 5
+fact_related_count: 4
 fact_related_level: 0
-fact_related_stars: ""
+fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
 issuing_organization: "White House Office of Management and Budget (OMB)"
 tags:
@@ -30,12 +30,11 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Hall_2025_EthicalLegalFrameworks]]"
-related_instruments:
-  - "[[VALUE Rubrics]]"
+related_instruments: []
 confidence: medium
 status: draft
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-09-07
 ---
 
 # OMB Uniform Guidance for Federal Awards
@@ -70,5 +69,5 @@ updated: 2026-06-04
 > Uniform Guidance 在[[University-Industry Collaboration|产学合作]]协议谈判中制造了一个具体的制度摩擦点。企业习惯于商业承包商的报价方式——不透明但全成本回收（包括利润）——而大学的预算是"透明但有补贴"的：企业可以看到每位教授的确切工资，但也必须接受大学实际上在以机构资金补贴研究项目（因为 26% 的行政成本上限不可突破）。
 
 > [!note]-
-> 产业赞助的[[Clinical Trial|临床试验]]是这一规则的重要例外：许多临床站点成本按直接费用收取，间接成本费率低于典型的联邦费率，且临床成本按"[[Fair Market Value|公平市场价值]]"（Fair Market [[VALUE Rubrics|VALUE]]）确定（p.264）。
+> 产业赞助的[[Clinical Trial|临床试验]]是这一规则的重要例外：许多临床站点成本按直接费用收取，间接成本费率低于典型的联邦费率，且临床成本按"[[Fair Market Value|公平市场价值]]"（Fair Market VALUE）确定（p.264）。
 
