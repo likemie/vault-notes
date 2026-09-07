@@ -10,15 +10,16 @@ summary: "哥伦比亚大学师范学院比较教育学讲座教授，《比较�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 22
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 25
+person_related_level: 3
+person_related_stars: "⭐⭐⭐"
+person_related_color: "#ede9fe"
 tags:
   - subject/comparative-education
   - theme/comparative-methodology
   - theme/historiography
 related_concepts:
+  - "[[Normal School]]"
   - "[[International Education]]"
   - "[[Analytic Framework]]"
   - "[[Epistemology]]"
@@ -36,11 +37,12 @@ related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
-  - "[[Brian Holmes]]"
   - "[[Joseph Lauwerys]]"
+  - "[[Robert Ulich]]"
   - "[[Isaac Kandel]]"
   - "[[Robert Cowen]]"
   - "[[Edmund King]]"
+  - "[[Brian Holmes]]"
   - "[[Harold Noah]]"
   - "[[Max Eckstein]]"
   - "[[John Dewey]]"
@@ -61,7 +63,7 @@ updated: 2026-09-07
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 美籍波兰裔比较教育学家、法学家，哥伦比亚大学师范学院（Teachers College, Columbia University）比较教育学讲座教授，[[Comparative and International Education Society|比较与国际教育学会]]（Comparative and [[International Education]] Society, CIES）前身美国比较教育学会早期会长（1961–1962），学科旗舰期刊《比较教育评论》（*Comparative Education Review*, CER）创刊主编（1957–1968）。
+> - **身份位置** 美籍波兰裔比较教育学家、法学家，哥伦比亚大学[[Normal School|师范学院]]（Teachers College, Columbia University）比较教育学讲座教授，[[Comparative and International Education Society|比较与国际教育学会]]（Comparative and [[International Education]] Society, CIES）前身美国比较教育学会早期会长（1961–1962），学科旗舰期刊《比较教育评论》（*Comparative Education Review*, CER）创刊主编（1957–1968）。
 > - **核心角色** 20 世纪中期连接欧美与全球比较教育学者的制度化核心枢纽；在方法论上创立系统的归纳式四步比较法，在学科建制上通过绘制全球院系版图与主编核心期刊，为现代比较教育学奠定了专业存在感与职业合法性。
 > - **代表贡献** 著作《教育中的比较方法》（*Comparative Method in Education*, 1964）系统建构归纳主义[[Analytic Framework|分析框架]]并勾勒全球学者网络；创办并主持 CER 奠定学科公认学术阵地；与[[Joseph Lauwerys|约瑟夫·劳韦里斯]]（Joseph Lauwerys）跨洲联合主持《世界教育年鉴》（*World Year Book of Education*），构筑战后跨国思想立交桥。
 
@@ -76,8 +78,8 @@ updated: 2026-09-07
 
 > [!timeline] 生平与职涯
 > - **1920** 出生于波兰华沙。二战爆发后加入波兰抵抗运动及西部波兰武装部队，任骑兵军官，参加阿纳姆战役，因战功荣获波兰最高军事勋章（Virtuti Militari）。
-> - **1944–1953** 战后流亡英国与美国，先后在伦敦经济学院（LSE）获得经济学学士学位，在牛津大学获得文学硕士学位，并在哈佛大学师从罗伯特·乌利希（Robert Ulich）完成博士学位（1953），奠定跨学科视野与多语种比较研究功底。
-> - **1955** 进入哥伦比亚大学师范学院任教，继承并拓展由[[Isaac Kandel|艾萨克·坎德尔]]（Isaac Kandel）等人开辟的比较教育重镇，迅速成为哥大师范学院核心领袖。
+> - **1944–1953** 战后流亡英国与美国，先后在伦敦经济学院（LSE）获得经济学学士学位，在牛津大学获得文学硕士学位，并在哈佛大学师从[[Robert Ulich|罗伯特·乌利希]]（Robert Ulich）完成博士学位（1953），奠定跨学科视野与多语种比较研究功底。
+> - **1955** 进入哥伦比亚大学[[Normal School|师范学院]]任教，继承并拓展由[[Isaac Kandel|艾萨克·坎德尔]]（Isaac Kandel）等人开辟的比较教育重镇，迅速成为哥大师范学院核心领袖。
 > - **1957** 创办《比较教育评论》（CER）并担任首任主编，确立了比较教育学作为独立学术领域的专业交流平台与同行评审制度。
 > - **1961–1962** 出任美国比较教育学会会长，推动学会专业化与国际化学术交流。
 > - **1964** 出版标志性经典专著《教育中的比较方法》（*Comparative Method in Education*），提出归纳式四步比较分析程序，成为全球比较教育研究者的权威方法论指南。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, p. 7)]]
@@ -131,7 +133,7 @@ updated: 2026-09-07
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **师承与前辈** 罗伯特·乌利希（Robert Ulich） 哈佛大学博士导师，奠定其历史哲学比较底色；[[Isaac Kandel|艾萨克·坎德尔]] 哥伦比亚大学师范学院前辈泰斗，贝雷迪在坎德尔逝世后发表权威纪念评传，总结其[[Epistemology|认识论]]遗产。
+> - **师承与前辈** [[Robert Ulich|罗伯特·乌利希]]（Robert Ulich） 哈佛大学博士导师，奠定其历史哲学比较底色；[[Isaac Kandel|艾萨克·坎德尔]] 哥伦比亚大学[[Normal School|师范学院]]前辈泰斗，贝雷迪在坎德尔逝世后发表权威纪念评传，总结其[[Epistemology|认识论]]遗产。
 > - **合作者与跨洲学术镜像** [[Joseph Lauwerys|约瑟夫·劳韦里斯]] 联合主编《世界教育年鉴》，共同构成 20 世纪中期跨越大西洋、连接拉美与东亚的学术立交桥枢纽。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, p. 9)]]
 > - **学术论敌与论战者** [[Edmund King|埃德蒙·金]]（Edmund King） 就教育与种族、阶级平等的跨国解释展开长期的公开论辩；[[Brian Holmes|布莱恩·霍姆斯]]（Brian Holmes） 就归纳比较法与演绎[[Problem Solving|问题解决]]法的方法论优劣展开学科大论战。
 > - **同事与后继学者** [[Harold Noah|哈罗德·诺亚]] 与 [[Max Eckstein|马克斯·埃克斯坦]] 共同执教于哥伦比亚大学师范学院，在其归纳框架之上进一步推进量化实证与假说检验的科学[[Paradigm|范式]]。

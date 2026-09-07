@@ -10,7 +10,7 @@ aliases:
 summary: "将专业实践与教育治理窄化为手段-目的因果计算与去情境化技术控制的实证主义模型；在微观教学中剥夺教师专业判断，在宏观政策与比较教育中将教育退化为劳动力技能规训并侵蚀全人教化"
 type: concept
 domain: "educational-philosophy"
-related_count: 54
+related_count: 55
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -72,6 +72,7 @@ related_persons:
   - "[[Carol Campbell]]"
   - "[[Anthony Bryk]]"
   - "[[Auguste Comte]]"
+  - "[[Brian Holmes]]"
   - "[[Harold Noah]]"
   - "[[Max Eckstein]]"
   - "[[John Hattie]]"
@@ -204,7 +205,7 @@ updated: 2026-09-07
 
 > [!dev-timeline] 技术理性的哲学演化与教育批判脉络
 > - **19 世纪 — [[Positivism|实证主义]]哲学奠基** [[Auguste Comte|孔德]]等倡导实证主义哲学，将科学与技术控制确立为解决人类社会问题、指导一切专业实践的最高[[Paradigm|范式]]。
-> - **1960s — 比较教育学科转型确立技术官僚理性支配** 霍姆斯、[[Harold Noah|诺亚]]与[[Max Eckstein|埃克斯坦]]等战后实证学者以“[[Scientific Method|科学方法]]”、“实证主义”与“技术官僚理性”为核心，推动比较教育转向因果预测与指标量化，将教育窄化为去情境化的学校[[Disciplina and Doctrina|规训]]。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 53, 56–57)]]
+> - **1960s — 比较教育学科转型确立技术官僚理性支配** [[Brian Holmes|霍姆斯]]、[[Harold Noah|诺亚]]与[[Max Eckstein|埃克斯坦]]等战后实证学者以“[[Scientific Method|科学方法]]”、“实证主义”与“技术官僚理性”为核心，推动比较教育转向因果预测与指标量化，将教育窄化为去情境化的学校[[Disciplina and Doctrina|规训]]。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 53, 56–57)]]
 > - **1976 / 1984 — [[Critical Theory|批判理论]]与合法化危机分析** [[Jürgen Habermas|哈贝马斯]]出版《合法化危机》与《交往行为理论》，系统剖析技术理性作为国家行政治理媒介对日常“生活世界”的殖民，揭示其导致的动机衰退与正当性危机。
 > - **1983 — [[Reflexivity|反思性]]实践者模型的提出** 舍恩出版《反思性实践者》（*The Reflective Practitioner*），正式将技术理性定义为实证主义专业[[Epistemology|认识论]]，指出其无法应对“沼泽地”问题，倡导反思性实践作为替代范式。
 > - **2000s — [[Evidence-Based Education|循证教育]]运动与技术理性复兴** 随着“[[What Works Movement|什么有效运动]]”、医学模式类比及英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）工具包的普及，技术理性在教育政策中以[[Effect Size|效应量]]排行榜和因果证据等级制的形式再度盛行。

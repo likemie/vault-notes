@@ -9,7 +9,7 @@ aliases:
 summary: "一种主张真正知识唯独建立在感官经验、观察与实验基础之上的认识论立场，预设自然与社会遵循同质客观法则；在启蒙发轫期曾从属于全人道德教化与社会改良，而在20世纪演化为追求价值中立与法则概括的统治性实证范式。"
 type: concept
 domain: "research-methodology"
-related_count: 71
+related_count: 72
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -81,6 +81,7 @@ related_persons:
   - "[[Max Eckstein]]"
   - "[[Isaac Kandel]]"
   - "[[Nicholas Hans]]"
+  - "[[Brian Holmes]]"
   - "[[Michael Sadler]]"
   - "[[Jürgen Habermas]]"
   - "[[Søren Kierkegaard]]"
@@ -230,7 +231,7 @@ updated: 2026-09-07
 > [!claim] [[Harold Noah|Noah, H. J.]] & [[Max Eckstein|Eckstein, M. A.]]
 > **学科演进前科学阶段定性与私人洞察力批判** 历史比较学派（如[[Isaac Kandel|坎德尔]]与[[Nicholas Hans|汉斯]]）的学术进路属于学科演进中不成熟的“前科学”（Pre-scientific）因素与力量分析阶段；其研究结论过度依赖学者个人的“私人洞察力”（private insights），不仅在判定范畴有效性与数据相关性上缺乏客观实证判准，也无法衡量各因素之间的相对重要性。历史学派看似令人信服的定性结论，本质上充其量只是有待严格经验测试的开放假说（open hypotheses）。比较教育学唯有引入量化交叉分析、假设检验与受控测量，才能真正走向“比较教育科学”（A Science of Comparative Education）。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 53–54; Noah & Eckstein, 1969, pp. 51, 188)]]
 
-> [!claim] Holmes, B.
+> [!claim] [[Brian Holmes|Holmes, B.]]
 > **概括性科学与基于预测而非因果渊源的科学比较观** 历史比较教育无法替代真正的“科学比较教育”；作为社会科学的比较教育学必须是一门“概括性科学”（generalising science），其本质特征在于具备对未来行动后果的“预测”（prediction）能力，而非仅仅回溯既往原因的“解释”（explanation）。教育改革者首要关切的是政策干预的未来实际后果，而非历史渊源或现状不满的远因；真正的学术理解来自于成功的经验预测，历史分析唯有作为提供指导性或预测性权力的实用工具时才具有辅助价值。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 54; Holmes, 1965, pp. 19–21, 30)]]
 
 > [!claim] Epstein, E. H.
@@ -274,7 +275,7 @@ updated: 2026-09-07
 > - **1810–1830 年代 — 启蒙现代性准实证构想与道德改良统摄** [[Marc-Antoine Jullien|朱利安]]与[[Auguste Comte|孔德]]坚信[[Scientific Method|科学方法]]可推广至社会事务；朱利安创立比较教育分析图表与跨国[[Questionnaire|问卷]]，其实证操作始终归属于欧陆二级精神科学并服从于全人[[Bildung|教化]]与教育改良。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009)]]
 > - **1830–1850 年代 — 孔德确立实证哲学[[Epistemology|认识论]]总纲** 孔德出版六卷本《实证哲学教程》，系统确立神学—形而上学—实证三阶段法则，确立社会物理学/社会学的独立学科地位与跨领域方法论统一[[Hypothesis|假设]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011)]]
 > - **20 世纪前半叶 — 逻辑实证主义鼎盛与波普尔[[Falsification|证伪主义]]超越** 维也纳学派追求经验证实与物理主义统一语言；波普尔（[[Karl Popper]]）提出证伪原则打破归纳证实神话，推动实证主义由粗糙证实向批判[[Rationalism in International Relations|理性主义]]跃迁。
-> - **20 世纪 60 年代 — 比较教育实证科学化运动与历史传统危机** 战后新兴国家建设与行为科学崛起推动英美比较教育经历剧烈范式转型，[[Harold Noah|诺亚]]与[[Max Eckstein|埃克斯坦]]（Noah & Eckstein）、霍姆斯（Brian Holmes）等发起实证科学化运动，主张以[[Variable|变量]][[Operationalization|操作化]]、假设检验与预测力重构学科，将历史-哲学进路贬斥为缺乏实证标准的“前科学”。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 53–56)]]
+> - **20 世纪 60 年代 — 比较教育实证科学化运动与历史传统危机** 战后新兴国家建设与行为科学崛起推动英美比较教育经历剧烈范式转型，[[Harold Noah|诺亚]]与[[Max Eckstein|埃克斯坦]]（Noah & Eckstein）、[[Brian Holmes|霍姆斯]]（Brian Holmes）等发起实证科学化运动，主张以[[Variable|变量]][[Operationalization|操作化]]、假设检验与预测力重构学科，将历史-哲学进路贬斥为缺乏实证标准的“前科学”。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 53–56)]]
 > - **20 世纪 60–80 年代 — [[Interpretive Paradigm|反实证主义]]大交锋与[[Postpositivism|后实证主义]]转向** [[Deanna Kuhn|库恩]]范式理论打破[[Value Neutrality|价值中立]]神话，诠释学与法兰克福学派[[Critical Theory|批判理论]]崛起；社会科学界广泛承认实在的多维性与主客体交往性质，[[Postpositivism|后实证主义]]成为主流修正范式。
 > - **21 世纪 — [[Evidence-Based Education|循证教育]]新实证主义回潮与技术自满反思** 在全球量化治理与教育问责驱动下，以 [[Randomised Controlled Trials|RCT]] 黄金法则和[[Meta-analysis|元分析]]为代表的“新实证主义”强势复兴，并引发学界对数据霸权与教学[[Ontology|本体论]]抽空的深刻反思。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024)]]
 
@@ -320,7 +321,7 @@ updated: 2026-09-07
 > [!evidence-grid] 典型研究与应用案例
 > - **教育研究方法论中实证[[Paradigm|范式]]与后实证转型的系统解构** [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] 系统复原了[[Auguste Comte|孔德]]实证主义的起源、四大科学[[Hypothesis|假设]]、[[Anthony Giddens|Giddens]] 识别的方法论统一与产出同构双重预设，并综合存在主义（克尔凯郭尔）、法兰克福学派（[[Jürgen Habermas|哈贝马斯]]）与社会学内部批评，展现了当代教育研究向后实证与批判范式演进的完整版图。
 > - **19 世纪比较教育现代主义发轫期的准实证科学与伦理统摄** [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] 剖析了比较教育学奠基人[[Marc-Antoine Jullien|朱利安]]构建的准实证科学体系，澄清其事实分析图表与跨国[[Questionnaire|问卷]]归属于欧陆二级精神科学，揭示其经验收集始终从属于全人[[Bildung|教化]]与社会改良，强力反驳了 20 世纪行为主义实证派以[[Value Neutrality|价值中立]]为由指责其带有主观偏见的辉格史错置。
-> - **20 世纪 60 年代比较教育实证主义围剿历史学派与科学话语反思** [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009)]] 系统梳理 1960 年代[[Harold Noah|诺亚]]与[[Max Eckstein|埃克斯坦]]（Noah & Eckstein）、霍姆斯（Holmes）、安德森（Anderson）与埃普斯坦（Epstein）等实证主义学者对历史比较学派发起的范式围剿，揭示实证派如何从依赖私人洞察力、缺乏因果预测力、个殊事实无法抽象以及涉嫌神秘主义四个维度将历史传统贬为“前科学”，并反思实证科学对英语 *Science* 狭隘词义垄断的[[Epistemology|认识论]]局限。
+> - **20 世纪 60 年代比较教育实证主义围剿历史学派与科学话语反思** [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009)]] 系统梳理 1960 年代[[Harold Noah|诺亚]]与[[Max Eckstein|埃克斯坦]]（Noah & Eckstein）、[[Brian Holmes|霍姆斯]]（Holmes）、安德森（Anderson）与埃普斯坦（Epstein）等实证主义学者对历史比较学派发起的范式围剿，揭示实证派如何从依赖私人洞察力、缺乏因果预测力、个殊事实无法抽象以及涉嫌神秘主义四个维度将历史传统贬为“前科学”，并反思实证科学对英语 *Science* 狭隘词义垄断的[[Epistemology|认识论]]局限。
 > - **科学教育中对程式化实证[[Scientific Method|科学方法]]的[[Practical Epistemology|实践认识论]]超越** [[Argument_Sandoval_2005_SE|Sandoval (2005)]] 揭示中小学科学教育深受教条实证主义影响，将科学探究扭曲为呆板的线性实验室规程，进而呼吁突破幼稚的[[Formal Epistemology|形式认识论]]，转向关注学生在真实探究情境中的[[Practical Epistemology|实践认识论]]。
 > - **[[Evidence-Based Education|循证教育]]中新实证主义[[Meta-analysis|元分析]]数据霸权与教学[[Ontology|本体论]]抽空批判** [[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe (2024)]] 剖析当代循证教育狂热标榜的实证主义科学话语，揭示将教学质量简化为元分析[[Effect Size|效应量]]与量化控制[[Variable|变量]]，本质上是对微观教学实践关系性本体论的粗暴抽空。
 > - **比较教育学中实证主义霸权的历史演化与形态变异** [[Argument_Cowen_2009_CE|Cowen (2009b)]] 回顾比较教育学科发展史，指出以美国 1960 年代科学实证派（如诺亚与埃克斯坦）为代表的实证主义霸权曾试图将跨国比较改造为脱离情境的假设检验与定律发现，最终在学科反思中被“转移-[[Transfer Translation Transformation|转译]]-变形”的后实证视角所解构。

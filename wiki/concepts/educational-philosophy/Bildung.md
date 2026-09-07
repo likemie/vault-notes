@@ -9,7 +9,7 @@ aliases:
 summary: "源自古希腊教化与德国精神科学传统的品格陶成与自我形成概念，主张教育指向人（Anthropos）在开放未知未来的自主人格塑造，构成抵御狭隘工具化学校教育（Schooling）与数字化算法预测的本体防线。"
 type: concept
 domain: "educational-philosophy"
-related_count: 48
+related_count: 49
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -61,6 +61,7 @@ related_persons:
   - "[[Michael Sadler]]"
   - "[[Isaac Kandel]]"
   - "[[Nicholas Hans]]"
+  - "[[Matthew Arnold]]"
   - "[[Plato]]"
   - "[[Socrates]]"
   - "[[Niklas Luhmann]]"
@@ -202,7 +203,7 @@ updated: 2026-09-07
 > [!claim] [[Andreas Kazamias|Kazamias, A.]] M.
 > **以广义文化教化超越狭隘学校教育与[[Technical Rationality|技术理性]]** [[Michael Sadler|萨德勒]]、[[Isaac Kandel|坎德尔]]、[[Nicholas Hans|汉斯]]与乌利希等奠基学者拒绝将教育窄化为微观课堂、技能训练与考试选拔（Schooling），而是将其锚定在希腊古风教化（*Paideia*）与新人文主义全人培育的宏阔视野中；比较教育学本质上是以人为中心的“人文科学”（humanistic episteme），在技术官僚[[Rationalism in International Relations|理性主义]]将学校降格为人力资本加工厂的浪潮中，维系了对人类政治、社会与伦理危机的根本哲学关怀。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 56–57)]]
 
-> [!claim] Arnold, M.
+> [!claim] [[Matthew Arnold|Arnold, M.]]
 > **国家干预与古典教化作为抵御庸俗放任的屏障** 面对维多利亚时代自由放任资本主义所滋生的缺乏甜蜜与光明（Sweetness and Light）的市侩庸人（Philistines），马修·阿诺德（Matthew Arnold）论证指出，唯有依靠现代国家的积极干预，将涵盖古典人文精神的普遍教化确立为公共教育的灵魂，才能抵御社会的野蛮化堕落。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 38–39)]]
 
 ---

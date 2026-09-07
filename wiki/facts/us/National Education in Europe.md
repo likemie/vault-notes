@@ -14,7 +14,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 28
+fact_related_count: 29
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -51,6 +51,7 @@ related_instruments:
   - "[[VALUE Rubrics]]"
 related_persons:
   - "[[Henry Barnard]]"
+  - "[[Brian Holmes]]"
   - "[[Harold Noah]]"
   - "[[Max Eckstein]]"
   - "[[Horace Mann]]"
@@ -129,7 +130,7 @@ updated: 2026-09-07
 > - **1855–1881** 巴纳德创办并主编 31 卷本《美国教育杂志》（*American Journal of Education*），持续汇集译介欧洲各国教育[[Document|文献]]与统计报告。
 > - **1867** 出任美国历史上第一任联邦教育专员（U.S. Commissioner of Education），将《欧洲国民教育》所体现的全国性统计收集与跨国制度调研直接转化为联邦教育局的建制职能。（pp. 31–32）
 > - **1872** 出版扩充重编的两卷本巨著《国民教育：各国公共教育体制、制度与统计》（*National Education*, 2 vols.），成为 19 世纪最完整的世界教育史料库。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, p. 32)]]
-> - **1965** 布赖恩·霍姆斯（Brian Holmes）高度评价巴纳德的百科全书式比较抱负，认为其历史描述工作几近完美。（Holmes, 1965:14; p. 32）
+> - **1965** [[Brian Holmes|布赖恩·霍姆斯]]（Brian Holmes）高度评价巴纳德的百科全书式比较抱负，认为其历史描述工作几近完美。（Holmes, 1965:14; p. 32）
 > - **1969** [[Harold Noah|诺亚]]与[[Max Eckstein|埃克斯坦]]（Harold Noah & Max Eckstein）批评巴纳德缺乏方法学系统性，斥之为“不加甄别的记录”（Noah & Eckstein, 1969:25–26; p. 32）。
 > - **2009** 卡洛扬纳基与卡扎米亚斯（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias, 2009]]）发表重磅重估，正名巴纳德为近代卓越的“教育编年史家与教育[[Ethnography|民族志]]学者”。（pp. 32–33）
 

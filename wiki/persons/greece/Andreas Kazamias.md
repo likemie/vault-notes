@@ -7,7 +7,7 @@ summary: "希腊裔比较教育学者，倡导历史和人文主义视角与普�
 type: person
 nationality: greece
 person_region: "greece"
-person_related_count: 37
+person_related_count: 38
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -51,6 +51,7 @@ related_persons:
   - "[[Eleftherios Klerides]]"
   - "[[Harold Noah]]"
   - "[[Max Eckstein]]"
+  - "[[Brian Holmes]]"
 related_facts:
   - "[[Comparative Education Society in Europe]]"
   - "[[Comparative and International Education Society]]"
@@ -170,7 +171,7 @@ updated: 2026-09-07
 > - **同门学友** 保罗·纳什（Paul Nash）、亨利·珀金森（Henry Perkinson）、[[George Bereday|乔治·贝雷迪]] — 共同构成乌利希哈佛弟子学术网络。
 > - **合作者** [[Robert Cowen|罗伯特·考恩]] — 共同主编《比较教育学国际手册》（2009），展开长期跨大西洋与跨欧洲的学术合作与比较史学[[Dialogue in Education|对话]]。
 > - **同行与对话者** [[Eleftherios Klerides|埃莱夫塞里奥斯·克莱里德斯]]（Eleftherios Klerides） — 希腊裔比较教育同行，深化对 [[Comparative Education Society in Europe|CESE]] 历史与希腊学派的梳理。
-> - **论辩对象** [[Harold Noah|哈罗德·诺亚]]、[[Max Eckstein|马克斯·埃克斯坦]]、布赖恩·霍姆斯（Brian Holmes） — 围绕科学实证与人文历史传统展开长达数十年的方法论论战。
+> - **论辩对象** [[Harold Noah|哈罗德·诺亚]]、[[Max Eckstein|马克斯·埃克斯坦]]、[[Brian Holmes|布赖恩·霍姆斯]]（Brian Holmes） — 围绕科学实证与人文历史传统展开长达数十年的方法论论战。
 > - **学术渊源与反思对象** [[Isaac Kandel|艾萨克·坎德尔]]、[[Nicholas Hans|尼古拉斯·汉斯]]、[[Michael Sadler|迈克尔·萨德勒]] — 兼具同情理解与内部批判。
 > - **思想灵感** 托马斯·斯特恩斯·艾略特（T. S. Eliot） — 汲取诗学与历史诠释学灵感，确立每一代人必须重写其历史的核心信念。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, p. 9)]]
 > - **学术机构** [[Comparative Education Society in Europe]]（CESE 荣誉会员）、威斯康星大学麦迪逊分校（长期教席）。

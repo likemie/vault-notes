@@ -8,7 +8,7 @@ aliases:
 summary: "德语区指称对异域教育制度与实践开展百科全书式描述性、报道性调查的文献与知识传统，构成了19世纪比较教育学制度化前的核心经验载体"
 type: concept
 domain: "comparative-education"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -41,6 +41,7 @@ related_methods:
 related_instruments:
   - "[[VALUE Rubrics]]"
 related_persons:
+  - "[[Brian Holmes]]"
   - "[[Harold Noah]]"
   - "[[Max Eckstein]]"
   - "[[Michael Sadler]]"
@@ -95,7 +96,7 @@ updated: 2026-09-07
 
 围绕 19 世纪外国教育学集大成之作《国民教育》，学界形成了极具代表性的学术争鸣：
 
-> [!citation-card]- 关键表述三：霍姆斯与[[Harold Noah|诺亚]]-[[Max Eckstein|埃克斯坦]]论巴纳德百科全书式文献的史学定位（1965, 1969）
+> [!citation-card]- 关键表述三：[[Brian Holmes|霍姆斯]]与[[Harold Noah|诺亚]]-[[Max Eckstein|埃克斯坦]]论巴纳德百科全书式文献的史学定位（1965, 1969）
 > 霍姆斯指出，毫无疑问，巴纳德对待比较教育的方法主要是历史性与描述性的，其编纂一部宏大世界“教育百科全书”的目标几乎得到了完全兑现；而诺亚与埃克斯坦则严苛指责巴纳德“过于推崇对所有可得材料的不加鉴别、杂乱无章的盲目记录与再版”。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 32–33; Holmes, 1965, p. 14; Noah & Eckstein, 1969, pp. 25–26)]]
 >
 > *Holmes has observed that 'unquestionably' Barnard's 'approach to comparative education was largely historical and descriptive', and his aim to produce an 'encyclopaedia of education ... was virtually achieved'. Noah and Eckstein ... were more critical ... According to them, Barnard 'saw merit in the indiscriminate and even unsystematic recording and republication of all that was available'.*
@@ -193,7 +194,7 @@ updated: 2026-09-07
 > [!concept-lens] 知识谱系积累与学术史重估维度
 > 该命题对外国教育学在比较教育学术史中的客观贡献进行平反与重估，肯定其档案整理与事实奠基价值。
 
-> [!claim] Holmes, B.
+> [!claim] [[Brian Holmes|Holmes, B.]]
 > **巴纳德百科全书式记录对比较教育学的奠基价值** 霍姆斯高度赞扬巴纳德等早期先驱的学术贡献，强调在跨国交通闭塞与史料极度匮乏的 19 世纪，巴纳德以惊人毅力搜集欧洲各邦法令、统计与规章，几乎独立筑就了一座近代世界教育的百科全书，为后世比较探究提供了第一批系统化的客观史料。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, p. 32; Holmes, 1965, p. 14)]]
 
 > [!claim] Kaloyannaki, P. & Kazamias, A. M.

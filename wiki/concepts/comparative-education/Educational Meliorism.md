@@ -7,7 +7,7 @@ aliases:
 summary: "源自拉丁语更好之意且以改善社会与人类境况为根本导向的探究旨趣，是贯穿19世纪比较与国际教育发端的统治性认识论母题"
 type: concept
 domain: "comparative-education"
-related_count: 45
+related_count: 46
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -61,6 +61,7 @@ related_persons:
   - "[[Isaac Kandel]]"
   - "[[Nicholas Hans]]"
   - "[[Robert Ulich]]"
+  - "[[Brian Holmes]]"
 related_facts:
   - "[[Prussian Draft Education Law of 1819]]"
   - "[[Guizot Law of 1833]]"
@@ -248,7 +249,7 @@ updated: 2026-09-07
 > | **认识论奠基命题** | 改良主义统摄 19 世纪跨国探究并确立比较认识论问题域 | 比较教育学科发端思想史与哲学母体分析 | Jullien, M.; Kaloyannaki, P. & Kazamias, A. M. |
 > | **机制分殊命题** | 改良主义分化为行政实定法直接转置与本土政治合法化论证 | 跨大西洋欧美比较[[Policy Borrowing\|教育借用]]机制差异分析 | Cousin, V.; Mann, H.; Kaloyannaki, P. & Kazamias, A. M. |
 > | **历史哲学涵养命题** | 历史改良主义通过外国历史理解涵养本土哲学态度与民主自省 | 20 世纪历史-哲学传统与教育哲学比较分析 | Sadler, M.; Kandel, I. L.; Kazamias, A. M. |
-> | **史学批判与救赎命题** | 破除实证主义起源神话，重返经验事实求真与伦理关怀的统一 | 比较教育学方法论争鸣与学术传统反思 | Noah, H. & Eckstein, M.; Holmes, B.; Kazamias, A. M. |
+> | **史学批判与救赎命题** | 破除实证主义起源神话，重返经验事实求真与伦理关怀的统一 | 比较教育学方法论争鸣与学术传统反思 | Noah, H. & Eckstein, M.; [[Brian Holmes\|Holmes, B.]]; Kazamias, A. M. |
 
 ---
 

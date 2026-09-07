@@ -7,7 +7,7 @@ summary: "英国首任比较教育教授（1947），欧洲比较教育学会首
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 21
+person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -31,9 +31,9 @@ related_theories: []
 related_methods:
   - "[[Philosophical Analysis in Education]]"
 related_persons:
-  - "[[Brian Holmes]]"
-  - "[[Nicholas Hans]]"
   - "[[Jean Piaget]]"
+  - "[[Nicholas Hans]]"
+  - "[[Brian Holmes]]"
   - "[[George Bereday]]"
   - "[[Michael Sadler]]"
   - "[[Robert Cowen]]"

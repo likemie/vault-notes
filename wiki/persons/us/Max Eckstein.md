@@ -9,7 +9,7 @@ summary: "纽约城市大学皇后学院比较教育学教授，CIES 前会长�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 27
+person_related_count: 28
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -45,6 +45,7 @@ related_persons:
   - "[[Isaac Kandel]]"
   - "[[Nicholas Hans]]"
   - "[[George Bereday]]"
+  - "[[Brian Holmes]]"
   - "[[Michael Sadler]]"
 related_facts:
   - "[[Comparative and International Education Society]]"
@@ -151,7 +152,7 @@ updated: 2026-09-07
 > [!person-network] 关系网络
 > - **终身学术搭档** [[Harold Noah|哈罗德·诺亚]] — 共同构筑战后比较教育科学实证大厦，合著多部里程碑[[Document|文献]]。
 > - **学术同侪与同代领袖** [[George Bereday|乔治·贝雷迪]] — 共同活跃于哥伦比亚大学及北美比较教育学界；[[Robert Cowen|罗伯特·考恩]] — 在考恩年轻时赴美任教予以热情提携。
-> - **论辩与[[Dialogue in Education|对话]]者** [[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]、布赖恩·霍姆斯（Brian Holmes） — 围绕定量实证与人文历史传统展开方法论争鸣。
+> - **论辩与[[Dialogue in Education|对话]]者** [[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]、[[Brian Holmes|布赖恩·霍姆斯]]（Brian Holmes） — 围绕定量实证与人文历史传统展开方法论争鸣。
 > - **历史批判对象** [[Isaac Kandel|艾萨克·坎德尔]]、[[Nicholas Hans|尼古拉斯·汉斯]]、[[Michael Sadler|迈克尔·萨德勒]] — 将其归为前科学阶段。
 > - **机构与组织** [[Comparative and International Education Society]]（CIES 1988–1989 年会长）、纽约城市大学皇后学院、[[International Education|国际教育]]成就评价协会（IEA）。
 

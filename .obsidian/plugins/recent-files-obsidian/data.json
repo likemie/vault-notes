@@ -5,6 +5,10 @@
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kazamias_2009_ForgottenThemes.md"
     },
     {
+      "basename": "Matthew Arnold",
+      "path": "wiki/persons/uk/Matthew Arnold.md"
+    },
+    {
       "basename": "Whiggism",
       "path": "wiki/concepts/comparative-education/Whiggism.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Guizot Law of 1833",
       "path": "wiki/facts/france/Guizot Law of 1833.md"
-    },
-    {
-      "basename": "Policy Borrowing",
-      "path": "wiki/concepts/comparative-education/Policy Borrowing.md"
     }
   ],
   "omittedPaths": [],

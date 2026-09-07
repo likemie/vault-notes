@@ -25,7 +25,7 @@ related_methods:
     <a href="/wiki/concepts"><span>概念</span><strong>1015</strong></a>
     <a href="/wiki/arguments"><span>论证</span><strong>238</strong></a>
     <a href="/wiki/facts"><span>事实</span><strong>379</strong></a>
-    <a href="/wiki/persons"><span>人物</span><strong>232</strong></a>
+    <a href="/wiki/persons"><span>人物</span><strong>234</strong></a>
     <a href="/wiki/theories"><span>理论</span><strong>130</strong></a>
     <a href="/wiki/methods"><span>方法</span><strong>219</strong></a>
     <a href="/wiki/instruments"><span>测量工具</span><strong>56</strong></a>

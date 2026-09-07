@@ -7,7 +7,7 @@ aliases:
 summary: "比较教育的四种理解形式之一，认为比较教育可以且应该是政策科学，代表人物包括 Holmes and King，政治上是与自由民主国家权力的联盟"
 type: concept
 domain: "comparative-education"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -24,6 +24,7 @@ related_theories: []
 related_methods: []
 related_persons:
   - "[[Robert Cowen]]"
+  - "[[Brian Holmes]]"
   - "[[Edmund King]]"
 related_facts: []
 related_arguments:
@@ -56,7 +57,7 @@ updated: 2026-06-06
 ## 概念演变
 
 > [!note]-
-> **1960 年代的经典[[Ontology|本体论]]争论**。政策科学这一理解形式在 1960 年代的经典本体论争论中非常可见，代表人物包括 Brian Holmes 和 [[Edmund King]]([[Argument_Cowen_2023_CE|Cowen, 2023, p.333]])。
+> **1960 年代的经典[[Ontology|本体论]]争论**。政策科学这一理解形式在 1960 年代的经典本体论争论中非常可见，代表人物包括 [[Brian Holmes]] 和 [[Edmund King]]([[Argument_Cowen_2023_CE|Cowen, 2023, p.333]])。
 >
 > **2010 年后的世界教育年鉴**。这一理解形式也出现在世界教育年鉴在 2010 年后的身份中。
 >

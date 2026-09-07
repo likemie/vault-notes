@@ -9,7 +9,7 @@ title: "Argument_Cowen_2023_CE"
 argument_key: "Argument_Cowen_2023_CE"
 argument_display_title: "Comparative education: and now? Comparative Education, 59(3), 326-340"
 argument_kind: "journal-article"
-argument_related_count: 62
+argument_related_count: 64
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Ontology]]"
   - "[[Document]]"
+  - "[[Bildung]]"
   - "[[Four Sins of Comparative Education]]"
   - "[[Hypothesis]]"
   - "[[Scientific Method]]"
@@ -77,6 +78,7 @@ related_persons:
   - "[[Stephen Ball]]"
   - "[[Horace Mann]]"
   - "[[Isaac Kandel]]"
+  - "[[Nicholas Hans]]"
   - "[[Michael Barber]]"
 related_facts:
   - "[[PISA]]"
@@ -177,7 +179,7 @@ citation_aliases:
 > 比较教育学科虽然在大学建制上获得了巨大成功，但其自我合法化的基础极其虚弱，长期依赖客观上已显陈旧的三大陈词滥调，且面临[[Epistemology|认识论]]碎片化的危险。(p.327)
 
 > [!chain-link] 证据到判断
-> - **先知化的焦虑与历史倒退** 2018年 [[Comparative Education Society in Europe|CESE]] 塞浦路斯会议以教育中的身份认同（Identities in Education）为主题，由 [[Eleftherios Klerides]] 与 Stephen Carney (2021) 组织，António Nóvoa (2021) 做了精彩的主旨演讲。然而，在专门纪念 [[Andreas Kazamias]] 的特别讲座环节中，发言者即兴将 Kazamias 解读为一位正确预见了我们当前时代和问题的哲学先知（philosopher-prophet），宣称学界应走向希腊人文主义（Hellenistic Humanism）和灵魂教育（paideia，即教育的灵魂）来重新平衡自己。Kazamias 本人常倡导历史和人文主义，并将其概括为渐进、现代、改良与普罗米修斯式的比较教育，但他从未自封先知。这种将 Kazamias 历史先知化的姿态泄露了学科对于自身定位的深层焦虑：如果我们需要退回 50 年前 Kazamias 的历史人文学说，是否意味着过去半个世纪以来的科学化与制度繁荣其实是一个战略错误？(p.327)
+> - **先知化的焦虑与历史倒退** 2018年 [[Comparative Education Society in Europe|CESE]] 塞浦路斯会议以教育中的身份认同（Identities in Education）为主题，由 [[Eleftherios Klerides]] 与 Stephen Carney (2021) 组织，António Nóvoa (2021) 做了精彩的主旨演讲。然而，在专门纪念 [[Andreas Kazamias]] 的特别讲座环节中，发言者即兴将 Kazamias 解读为一位正确预见了我们当前时代和问题的哲学先知（philosopher-prophet），宣称学界应走向希腊人文主义（Hellenistic Humanism）和灵魂教育（[[Bildung|Paideia]]，即教育的灵魂）来重新平衡自己。Kazamias 本人常倡导历史和人文主义，并将其概括为渐进、现代、改良与普罗米修斯式的比较教育，但他从未自封先知。这种将 Kazamias 历史先知化的姿态泄露了学科对于自身定位的深层焦虑：如果我们需要退回 50 年前 Kazamias 的历史人文学说，是否意味着过去半个世纪以来的科学化与制度繁荣其实是一个战略错误？(p.327)
 > - **三大陈词滥调的惯例化使用** 学科极少丢弃旧信条，积累了过多的陈词滥调：
 >   1. [[Michael Sadler|迈克尔·萨德勒]][[Pragmatic Paradigm|实用主义]]试图从外国教育政策中获取实用价值。这在一百年后仍被常规使用，但它将比较教育矮化为了应对教育危机的高级应急社会管道工（emergency social plumbing），即通过机械嫁接外国经验来修理本国的政策漏水。
 >   2. [[Marc-Antoine Jullien|马克-安托万·朱利安]]科学理想宣称要让学科成为科学（science）的理想。这一口号已喊了近两百年，但学界至今仍未理清科学是指探寻事物原因，还是指像物理学一样进行准确预测。
@@ -251,7 +253,7 @@ citation_aliases:
 
 > [!dimension] 学术界中长期并存的四种理解形式
 > - **历史与情境的相似与差异比较（求同存异）**
->   注重历史和情境解释。代码词为历史（history）与情境（contexts），代表人物包括 [[Isaac Kandel|Isaac Leon Kandel]]、Nicholas Hans and Andreas Kazamias 等。其政治预设表面上是中立的，而这恰恰是其致命缺陷：它倾向于忽视法西斯主义、弥赛亚国家或国家社会主义等极端政治现象。由于它拒绝从“国家”（State，无论是理想的还是现实的）概念出发，导致其缺乏分析国家暴力、政治压迫与意识形态强权干预的工具，使比较研究退化为去政治化的温和文化与历史情境陈述。(pp.332–333)
+>   注重历史和情境解释。代码词为历史（history）与情境（contexts），代表人物包括 [[Isaac Kandel|Isaac Leon Kandel]]、[[Nicholas Hans]] and Andreas Kazamias 等。其政治预设表面上是中立的，而这恰恰是其致命缺陷：它倾向于忽视法西斯主义、弥赛亚国家或国家社会主义等极端政治现象。由于它拒绝从“国家”（State，无论是理想的还是现实的）概念出发，导致其缺乏分析国家暴力、政治压迫与意识形态强权干预的工具，使比较研究退化为去政治化的温和文化与历史情境陈述。(pp.332–333)
 > - **[[Convergence Theory in Comparative Education|趋同理论]]与同构（Convergence Theory）**
 >   认为教育系统正走向相似。经历了五个核心节点：Lauwerys (1957) 宣扬科学的民主可以克服政治偏见；国际教育局（International Bureau of Education，IBE）的 Pedro Rosselló 提出在全球范围内识别教育趋势（延续至 1980 年代）；1960 年代的技术趋同论（A. H. Halsey 等, 1965）认为工业生产系统相似决定了教育相似；Alex Inkeles 的现代性模式变量说；以及当前新制度主义同构说（isomorphisms）。其政治预设看似中性，将各种新同构的出现和[[Growth|成长]]视为“自然、正常和良性”的过程。然而，其语义策略依赖于“出现”（emerge）、“发生”（happen）、“成形”（take shape）等温和的动词，且行动主体模糊不清，从而掩盖了背后的权力关系、霸权强推与利益博弈。
 > - **作为实用工具的[[Policy Science in Comparative Education|政策科学]]（Policy Science）**

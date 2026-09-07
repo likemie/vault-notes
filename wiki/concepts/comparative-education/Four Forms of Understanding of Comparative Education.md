@@ -6,7 +6,7 @@ aliases:
 summary: "Cowen（2023）诊断比较教育学科长期并存的四种理解形式，包括求同存异、趋同理论、政策科学和结果导向，指出它们各自的政治预设"
 type: concept
 domain: "comparative-education"
-related_count: 16
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -31,6 +31,8 @@ related_persons:
   - "[[Robert Cowen]]"
   - "[[Isaac Kandel]]"
   - "[[Andreas Kazamias]]"
+  - "[[Nicholas Hans]]"
+  - "[[Brian Holmes]]"
   - "[[Edmund King]]"
 related_facts:
   - "[[PISA]]"
@@ -63,7 +65,7 @@ updated: 2026-06-06
 ### 第一种：求同存异
 
 > [!info]
-> 在社会和教育系统中寻找相似与差异，并以历史或情境来解释。代码词是历史（history）和情境（contexts），代表人物包括 [[Isaac Kandel]]、[[Andreas Kazamias]]、Nicholas Hans，以及英格兰比较教育传统。
+> 在社会和教育系统中寻找相似与差异，并以历史或情境来解释。代码词是历史（history）和情境（contexts），代表人物包括 [[Isaac Kandel]]、[[Andreas Kazamias]]、[[Nicholas Hans]]，以及英格兰比较教育传统。
 >
 > **政治解构与缺陷** 其政治预设表面上是中立的，而这恰恰是其致命缺陷。由于它拒绝从“国家”（State，无论是理想的还是现实的）概念出发，导致其倾向于忽视法西斯主义、弥赛亚国家或国家社会主义等极端政治现象。它无法透视国家暴力、政治压迫与意识形态强权对教育系统的直接控制，使学科流于去政治化的文化和情境描述([[Argument_Cowen_2023_CE|Cowen, 2023, pp.332–333]])。
 
@@ -87,7 +89,7 @@ updated: 2026-06-06
 ### 第三种：[[Policy Science in Comparative Education|政策科学]]
 
 > [!info]
-> 认为比较教育可以且应该是政策科学。这一理解形式在 1960 年代的经典[[Ontology|本体论]]争论中非常可见，代表人物包括 Brian Holmes 和 [[Edmund King]]，也出现在 2010 年后的世界教育年鉴中([[Argument_Cowen_2023_CE|Cowen, 2023, p.333]])。
+> 认为比较教育可以且应该是政策科学。这一理解形式在 1960 年代的经典[[Ontology|本体论]]争论中非常可见，代表人物包括 [[Brian Holmes]] 和 [[Edmund King]]，也出现在 2010 年后的世界教育年鉴中([[Argument_Cowen_2023_CE|Cowen, 2023, p.333]])。
 >
 > **政治解构与缺陷** 政治上并非中性，它是与权力的联盟，即与自由民主国家中所谓民主权力的联盟。它默认国家机器具有合理性，主张比较教育学者应当在关键决策时刻（critical points of decision）为政策制定者提供建议。这种联盟极易削弱学者的学术反思能力与批判距离，使其退化为国家机器和行政部门的合法化咨询工具。
 

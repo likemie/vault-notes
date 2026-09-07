@@ -7,7 +7,7 @@ title: "Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings"
 argument_key: "Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings"
 argument_display_title: "The Modernist Beginnings of Comparative Education: The Proto-Scientific and The Reformist-meliorist Administrative Motif"
 argument_kind: "book-chapter"
-argument_related_count: 66
+argument_related_count: 67
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -83,7 +83,6 @@ related_persons:
   - "[[Horace Mann]]"
   - "[[Calvin Stowe]]"
   - "[[Henry Barnard]]"
-  - "[[Brian Holmes]]"
   - "[[Harold Noah]]"
   - "[[Max Eckstein]]"
   - "[[Auguste Comte]]"
@@ -93,6 +92,7 @@ related_persons:
   - "[[Jürgen Habermas]]"
   - "[[Johann Wilhelm Süvern]]"
   - "[[François Guizot]]"
+  - "[[Brian Holmes]]"
 related_facts:
   - "[[Guizot Law of 1833]]"
   - "[[Seventh Annual Report of the Massachusetts Board of Education]]"

@@ -8,6 +8,11 @@ aliases:
 summary: "英国著名比较教育学家与科学哲学家，伦敦大学教育学院领袖，问题解决法（Problem Approach）创立者；引入波普尔批判理性主义与杜威反思思维，主张比较教育作为通则式预测的政策科学，开创文化滞后与时代不同步分析范式。"
 type: person
 nationality: uk
+person_region: "uk"
+person_related_count: 36
+person_related_level: 4
+person_related_stars: "⭐⭐⭐⭐"
+person_related_color: "#fce7f3"
 tags:
   - person/uk
   - comparative-education
@@ -15,32 +20,48 @@ tags:
   - critical-rationalism
   - policy-science
 related_concepts:
-  - "[[Problem Solving]]"
+  - "[[Rationalism in International Relations]]"
+  - "[[Nomothetic]]"
   - "[[Policy Science in Comparative Education]]"
+  - "[[Problem Solving]]"
+  - "[[Hypothesis]]"
+  - "[[Operationalization]]"
+  - "[[International Education]]"
+  - "[[Epistemology]]"
+  - "[[Scientific Method]]"
+  - "[[Reflective Thinking]]"
+  - "[[Paradigm]]"
+  - "[[Ontology]]"
+  - "[[Technical Rationality]]"
+  - "[[Variable]]"
+  - "[[Incommensurability]]"
+  - "[[Falsification]]"
   - "[[Four Forms of Understanding of Comparative Education]]"
   - "[[Factorial Interpretive Framework]]"
-  - "[[Positivism]]"
-  - "[[Falsification]]"
-  - "[[Auslandspadagogik]]"
-  - "[[Whiggism]]"
+  - "[[Analytic Framework]]"
 related_theories: []
 related_methods:
-  - "[[Scientific Method]]"
+  - "[[Typological Analysis]]"
 related_instruments: []
 related_persons:
+  - "[[Karl Popper]]"
+  - "[[John Dewey]]"
+  - "[[George Bereday]]"
   - "[[Joseph Lauwerys]]"
   - "[[Nicholas Hans]]"
-  - "[[George Bereday]]"
   - "[[Harold Noah]]"
   - "[[Max Eckstein]]"
-  - "[[Andreas Kazamias]]"
+  - "[[Henry Barnard]]"
+  - "[[Robert Cowen]]"
   - "[[Edmund King]]"
+  - "[[Isaac Kandel]]"
+  - "[[Michael Sadler]]"
 related_facts:
   - "[[National Education in Europe]]"
 related_arguments:
+  - "[[Argument_Cowen_2023_CE]]"
   - "[[Argument_Kazamias_2009_ForgottenThemes]]"
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
-  - "[[Argument_Cowen_2023_CE]]"
 confidence: high
 status: active
 created: 2026-09-07
@@ -55,11 +76,11 @@ updated: 2026-09-07
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国比较教育学家、科学哲学家，伦敦大学教育学院（IOE）比较教育学教授兼系主任（1975–1985），世界比较教育学会联合会（WCCES）前主席。
-> - **核心角色** 战后比较教育“科学化运动”三大奠基流派之一（问题学派）的领袖；将卡尔·波普尔批判理性主义与杜威反思思维方法论化，将学科重塑为面向未来决策的通则式预测与政策科学。
-> - **代表贡献** 创立比较教育“问题解决法（Problem Approach）”分析程序；提出“批判的二元论（Critical Dualism）”与教育“文化滞后/时代不同步（Asynchrony）”理论；系统批判老派历史学派的回溯性归因与贝雷迪的经验归纳进路。
+> - **核心角色** 战后比较教育“科学化运动”三大奠基流派之一（问题学派）的领袖；将[[Karl Popper|卡尔·波普尔]]批判[[Rationalism in International Relations|理性主义]]与[[John Dewey|杜威]]反思思维方法论化，将学科重塑为面向未来决策的[[Nomothetic|通则式]]预测与[[Policy Science in Comparative Education|政策科学]]。
+> - **代表贡献** 创立比较教育“[[Problem Solving|问题解决]]法（Problem Approach）”分析程序；提出“批判的二元论（Critical Dualism）”与教育“文化滞后/时代不同步（Asynchrony）”理论；系统批判老派历史学派的回溯性归因与[[George Bereday|贝雷迪]]的经验归纳进路。
 
 > [!citation-card] 考恩论霍姆斯作为问题法与预测科学的开拓者
-> 考恩深刻评析指出，霍姆斯在 1960 年代学科方法论转型大论战中扮演了中流砥柱的角色。他坚信比较教育学可以且必须成为一门严谨的“政策科学”，通过引入科学哲学假设检验模型与物理学式的精准预测逻辑，为解决现实教育改革中的制度与规范失调提供了高度操作化的智识工具。[[Argument_Cowen_2023_CE|(Cowen, 2023, pp. 328, 333)]]
+> 考恩深刻评析指出，霍姆斯在 1960 年代学科方法论转型大论战中扮演了中流砥柱的角色。他坚信比较教育学可以且必须成为一门严谨的“政策科学”，通过引入科学哲学[[Hypothesis|假设]]检验模型与物理学式的精准预测逻辑，为解决现实教育改革中的制度与规范失调提供了高度[[Operationalization|操作化]]的智识工具。[[Argument_Cowen_2023_CE|(Cowen, 2023, pp. 328, 333)]]
 >
 > *Holmes was central to the classic ontological debate of the 1960s, arguing that comparative education could and should be a policy science anchored in prediction and critical rationalism.*
 
@@ -68,30 +89,33 @@ updated: 2026-09-07
 ## 生平与职涯
 
 > [!timeline] 生平与职涯
-> - **1920** 出生于英格兰；早年在伦敦大学学院（UCL）接受严格的物理学专业训练并获物理学学士学位，二战期间在英国皇家空军（RAF）从事雷达与气象科学技术工作。
-> - **1951** 获伦敦大学教育学院教育学文凭并开始转向教育科学哲学与比较教育学，在约瑟夫·劳威斯（Joseph Lauwerys）与卡尔·波普尔（Karl Popper）的指导下深造，深受波普尔批判理性主义（Critical Rationalism）震撼。
-> - **1953** 被任命为伦敦大学教育学院（IOE）比较教育学讲师，与劳威斯、尼古拉斯·汉斯（Nicholas Hans）共同执教，并参与主编《世界教育年鉴》（*World Year Book of Education*）。
-> - **1964** 获得博士学位，博士论文系统奠定波普尔哲学与杜威方法在跨国教育政策中的整合机制。
-> - **1965** 出版方法论划时代巨著《教育问题：一种比较进路》（*Problems in Education: A Comparative Approach*），正式确立比较教育“问题法”，与贝雷迪（George Bereday）展开跨大西洋方法论大论战。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 53–54)]]
-> - **1975** 接替劳威斯荣任伦敦大学教育学院比较教育学正教授兼系主任。
-> - **1977–1983** 担任世界比较教育学会联合会（WCCES）主席，大力推动比较教育在教科文组织（UNESCO）与国际教育局（IBE）的政策咨询应用。
-> - **1981** 出版《比较教育：方法论的若干思考》（*Comparative Education: Some Considerations of Method*），进一步完善文化滞后模型与国家政策预测指标。
-> - **1993** 逝世于伦敦。
+> - **1920** **约克郡出身与物理学实证科学底色** 出生于英格兰约克郡威格顿（Wigton），中学就读于贵格会名校威格顿朋友中学（Friends' School, Wigton）；后考入伦敦大学学院（UCL）攻读物理学，1941 年获理学学士（B.Sc.）学位。这门现代自然科学训练为其日后建构假说-演绎模型、寻求因果普遍法则奠定了实证主义与科学哲学底色。
+> - **1941–1946** **二战期间皇家空军技术军官与雷达气象经历** 二战爆发后应征入伍，在英国皇家空军（RAF）担任雷达与气象技术军官。战时在极端不确定环境中依靠数理模型与数据观测预测空中战局与天气演进的实战历练，塑造了他后来坚信“科学理解的唯一试金石在于成功预测未来而非事后解释过去”的认识论立场。
+> - **1946–1951** **战后完全中学物理教学与伦敦教育学院转型** 退役后在英格兰多所公立完全中学担任物理学科主任（Physics Master）；1951 年考入伦敦大学教育学院（IOE）攻读教育学研究生文凭（Dip.Ed.），深受比较教育领袖约瑟夫·劳威斯（[[Joseph Lauwerys]]）赏识；在此期间赴伦敦政治经济学院（LSE）系统研修科学哲学，深受卡尔·波普尔（[[Karl Popper]]）批判[[Rationalism in International Relations|理性主义]]哲学（证伪主义与反归纳主义）的强烈震撼。
+> - **1953–1964** **任教伦敦大学教育学院与合编《世界教育年鉴》** 1953 年受聘为伦敦大学教育学院比较教育学讲师，与劳威斯、尼古拉斯·汉斯（[[Nicholas Hans]]）共同构筑伦敦比较教育研究中心；长期深度参与主编国际权威年刊《世界教育年鉴》（*The Year Book of Education* / *World Year Book of Education*, 1953–1970），开展跨国教育规划与现代化转型的战略调查。
+> - **1961** **参与创设欧洲比较教育学会（CESE）** 与劳威斯、佩德罗·罗塞略（Pedro Rosselló）等共同发起创设欧洲比较教育学会（CESE），长期出任学会秘书长与副主席，成为联结战后欧洲与跨大西洋比较教育学术共同体的关键组织枢纽。
+> - **1964** **获伦敦大学哲学博士学位奠定问题法哲学基础** 完成博士学位论文，系统将波普尔的批判二元论、情境逻辑与约翰·杜威（[[John Dewey]]）的反思性思维理论相熔铸，奠定“[[Problem Solving|问题解决]]法（Problem Approach）”的理论架构。
+> - **1965** **出版《教育问题：一种比较进路》与跨大西洋方法论围论** 出版方法论里程碑名著《教育问题：一种比较进路》（*Problems in Education: A Comparative Approach*），晋升为伦敦大学比较教育学读者（Reader）。他在书中高调向老派历史学派宣战，断言比较教育必须是一门以通则式“预测”为标志的政策科学，并对汉斯、坎德尔的回溯性历史归因发起系统挑战，与[[George Bereday|乔治·贝雷迪]]、[[Harold Noah|哈罗德·诺亚]]、[[Max Eckstein|马克斯·埃克斯坦]]及[[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]展开长达十余年的跨大西洋方法论大论战。[[Argument_Kazamias_2009_ForgottenThemes|(Holmes, 1965: 19–21, 30; Kazamias, 2009: 53–54)]]
+> - **1975–1985** **执掌伦敦大学教育学院比较教育系主任** 接替荣休的劳威斯，荣任伦敦大学教育学院比较教育学正教授兼系主任（Head of Department），全面确立享誉全球的“伦敦问题学派”，培养了遍布英联邦与国际组织的教育决策专家。
+> - **1977–1983** **主政世界比较教育学会联合会（WCCES）推动国际治理** 当选并连任世界比较教育学会联合会（WCCES）主席，深度受聘为联合国教科文组织（UNESCO）、日内瓦[[International Education|国际教育]]局（IBE）与欧洲委员会高级咨询专家，主持撰写《国际教育系统指南》（*International Guide to Education Systems*, 1979）。
+> - **1981** **出版《比较教育：方法论的若干思考》深化分析模型** 出版方法论专著《比较教育：方法论的若干思考》（*Comparative Education: Some Considerations of Method*），系统完善涵盖规范模式、体制模式、精神模式与自然环境模式的四维理想类型，深化“文化滞后”与“时代不同步（Asynchrony）”分析框架。
+> - **1985** **从伦敦大学教育学院荣休** 正式卸任教职与系主任职务。
+> - **1993** **逝世于伦敦与政策科学传统定评** 逝世于英国伦敦，享年 73 岁。罗伯特·考恩（[[Robert Cowen]]）高度评价其学术生涯，称其为 1960 年代本体论大论战的中流砥柱，奠定了比较教育作为预测性政策科学的坚实基石。[[Argument_Cowen_2023_CE|(Cowen, 2023, pp. 328, 333)]]
 
 ---
 
 ## 主要著作与思想发展
 
 > [!thought-timeline] 思想发展
-> - **1950s — 物理科学向比较认识论的跨界融合期** 结合物理学实证传统与波普尔反归纳主义哲学，探索如何克服经验主义旅行见闻与粗糙借用。
+> - **1950s — 物理科学向比较[[Epistemology|认识论]]的跨界融合期** 结合物理学实证传统与波普尔反归纳主义哲学，探索如何克服经验主义旅行见闻与粗糙借用。
 >   - **代表著作** 与劳威斯合编《世界教育年鉴》系列年度专著（1953–1970）。
->   - **关键概念／方法** [[Scientific Method]]、[[Hypothesis]]、杜威反思性思维。
+>   - **关键概念／方法** [[Scientific Method]]、[[Hypothesis]]、[[John Dewey|杜威]][[Reflective Thinking|反思性思维]]。
 >   - **阶段转向** 彻底摒弃单纯制度史白描，确立以“假说演绎模式”改造比较教育学的终身志业。
-> - **1960s — 问题法范式确立与跨大西洋大论战期** 直面战后教育规划与现代化转型，全面建构问题解决法分析程序，向历史学派与归纳学派发起范式论战。
+> - **1960s — 问题法[[Paradigm|范式]]确立与跨大西洋大论战期** 直面战后教育规划与现代化转型，全面建构[[Problem Solving|问题解决]]法分析程序，向历史学派与归纳学派发起范式论战。
 >   - **代表著作** *Problems in Education: A Comparative Approach* (1965)。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 53–54)]]
 >   - **关键概念／方法** [[Problem Solving]]、[[Policy Science in Comparative Education]]、文化滞后与批判二元论。
->   - **阶段转向** 明确提出“通则式预测优于回顾性解释”，断言科学比较教育的唯一试金石是“预测（prediction）”。
-> - **1970s–1980s — 国际制度化深化与模式完善期** 领导 IOE 比较教育学系与 WCCES，深化规范模式、体制模式、精神模式与自然环境模式四维理想类型分析。
+>   - **阶段转向** 明确提出“[[Nomothetic|通则式]]预测优于回顾性解释”，断言科学比较教育的唯一试金石是“预测（prediction）”。
+> - **1970s–1980s — 国际制度化深化与模式完善期** 领导 IOE 比较教育学系与 WCCES，深化规范模式、体制模式、精神模式与自然环境模式四维理想[[Typological Analysis|类型分析]]。
 >   - **代表著作** *Comparative Education: Some Considerations of Method* (1981)。
 >   - **关键概念／方法** 理想类型分类法、时代不同步（Asynchrony）。
 >   - **阶段转向** 将问题法系统扩展至第三世界发展中国家教育政策规划与去殖民化现代转型。
@@ -101,7 +125,7 @@ updated: 2026-09-07
 ## 核心思想
 
 > [!claim] 核心主张
-> 比较教育必须是一门以通则式“预测（prediction）”为核心标志的概括性政策科学；反对无假说的经验归纳与沉溺于过去的制度历史溯源，主张以杜威反思思维和波普尔批判理性主义为基石，通过“问题甄别—假说提出—初始条件与环境模式分析—逻辑演绎推导—政策后果预测”程序，精准诊断由于制度变革与深层传统观念不同步（文化滞后）引发的教育危机，指导具有现实可操作性的零星社会工程改革。
+> 比较教育必须是一门以[[Nomothetic|通则式]]“预测（prediction）”为核心标志的概括性[[Policy Science in Comparative Education|政策科学]]；反对无假说的经验归纳与沉溺于过去的制度历史溯源，主张以[[John Dewey|杜威]]反思思维和波普尔批判[[Rationalism in International Relations|理性主义]]为基石，通过“问题甄别—假说提出—初始条件与环境模式分析—逻辑演绎推导—政策后果预测”程序，精准诊断由于制度变革与深层传统观念不同步（文化滞后）引发的教育危机，指导具有现实可操作性的零星社会工程改革。
 
 > [!citation-card] 通则式预测优于回顾性历史解释
 > 科学比较教育必须以概括性通则与因果预测为生命线。教育政策制定者迫切需要的是知晓某种既定政策干预在未来的可能后果，而非导致当前不满的漫长历史原因。真正的理解来自于成功的预测；老一代历史学派面向过去而非面向未来，无法为紧迫的现实教育改革提供可靠的预测工具。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 53–54; Holmes, 1965, pp. 19–21)]]
@@ -118,13 +142,13 @@ updated: 2026-09-07
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 与贝雷迪（Bereday）、诺亚（Noah）与埃克斯坦（Eckstein）共同确立战后比较教育社会科学化、政策科学化的主流范式；
+> - **理论路径** 与[[George Bereday|贝雷迪]]（Bereday）、[[Harold Noah|诺亚]]（Noah）与[[Max Eckstein|埃克斯坦]]（Eckstein）共同确立战后比较教育社会科学化、[[Policy Science in Comparative Education|政策科学]]化的主流[[Paradigm|范式]]；
 > - **方法路径** 确立了“问题分析—模式建构—因果预测”的演绎问题法，使跨国比较摆脱了无反思的经验白描与静态因素列举；
-> - **政策路径** 深度影响了英联邦、UNESCO 与 IBE 的教育规划专家培训，成为国际教育顾问制定政策可行性方案的标准分析工具；
-> - **史料评价** 破除实证派对早期发端的傲慢偏见，高度肯定亨利·巴纳德（Henry Barnard）编纂世界教育百科全书的历史贡献。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 32–33; Holmes, 1965)]]
+> - **政策路径** 深度影响了英联邦、UNESCO 与 IBE 的教育规划专家培训，成为[[International Education|国际教育]]顾问制定政策可行性方案的标准分析工具；
+> - **史料评价** 破除实证派对早期发端的傲慢偏见，高度肯定[[Henry Barnard|亨利·巴纳德]]（Henry Barnard）编纂世界教育百科全书的历史贡献。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 32–33; Holmes, 1965)]]
 
 > [!evidence-grid-a]- 相关研究索引
-> - [[Argument_Cowen_2023_CE|Cowen (2023)]] — 考察霍姆斯物理学式预测模型与政策科学定位在 1960 年代本体论大论战中的关键地位。
+> - [[Argument_Cowen_2023_CE|Cowen (2023)]] — 考察霍姆斯物理学式预测模型与政策科学定位在 1960 年代[[Ontology|本体论]]大论战中的关键地位。
 > - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009)]] — 梳理霍姆斯以科学预测为标尺对历史学派发起的实证围剿与范式冲击。
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] — 引用霍姆斯对巴纳德百科全书式比较调查的极高赞誉与思想史平反。
 
@@ -132,8 +156,8 @@ updated: 2026-09-07
 
 ## 历史评价
 
-> [!citation-card] 考恩论霍姆斯作为政策科学与物理学式预测范式的代表
-> 罗伯特·考恩在系统考察比较教育学本体论争论时指出，霍姆斯是将比较教育建构为“政策科学”的领袖人物，他所倡导的物理学式预测模型与严密逻辑演绎，代表了 1960 年代学科追求科学确定性与政策干预效能的巅峰形态。[[Argument_Cowen_2023_CE|(Cowen, 2023, pp. 328, 333)]]
+> [!citation-card] 考恩论霍姆斯作为[[Policy Science in Comparative Education|政策科学]]与物理学式预测[[Paradigm|范式]]的代表
+> [[Robert Cowen|罗伯特·考恩]]在系统考察比较教育学[[Ontology|本体论]]争论时指出，霍姆斯是将比较教育建构为“政策科学”的领袖人物，他所倡导的物理学式预测模型与严密逻辑演绎，代表了 1960 年代学科追求科学确定性与政策干预效能的巅峰形态。[[Argument_Cowen_2023_CE|(Cowen, 2023, pp. 328, 333)]]
 >
 > *Brian Holmes stood at the center of the classical 1960s debate, championing comparative education as an applied policy science grounded in predictive precision and rational problem-solving.*
 
@@ -149,7 +173,7 @@ updated: 2026-09-07
 > [!person-network] 关系网络
 > - **师承／合作者** [[Joseph Lauwerys]]、[[Nicholas Hans]] — IOE 比较教育学系前辈与合著者，共同主编《世界教育年鉴》；
 > - **论辩同行** [[George Bereday]] — 就演绎问题法 vs 归纳区域研究比较展开跨大西洋大论战；
-> - **论辩同行** [[Edmund King]] — 就通则式预测政策科学 vs 地方生态学语境相对主义展开长达数十年辩鸣；
+> - **论辩同行** [[Edmund King]] — 就[[Nomothetic|通则式]]预测[[Policy Science in Comparative Education|政策科学]] vs 地方生态学语境相对主义展开长达数十年辩鸣；
 > - **实证批评对象** [[Isaac Kandel]]、[[Michael Sadler]] — 历史学派代表，被霍姆斯批评缺乏政策预测力；
 > - **机构领导** 伦敦大学教育学院（IOE）、世界比较教育学会联合会（WCCES）。
 
@@ -165,14 +189,14 @@ updated: 2026-09-07
 > > - **Holmes, B.（1965）** 主张没有先验假说与理论模式，经验归纳必然盲目无措；唯有以问题为起点、以假说为驱动的演绎程序才能赋予研究以科学性。[[Argument_Cowen_2023_CE|(Cowen, 2023, p. 328; Holmes, 1965)]]
 > > - **Bereday, G.（1964）** 坚持必须先有全面客观的国别描述与解释，才能进阶到并置与对称比较，指责问题法容易预设结论并主观剪裁材料。
 >
-> > [!axis] 通则式预测科学 vs 历史情境解释学
+> > [!axis] [[Nomothetic|通则式]]预测科学 vs 历史情境解释学
 > > 争论焦点在于教育研究应否追求自然科学式的政策干预后果预测，还是应当聚焦于历史文化情境的诠释与价值反思。
 > >
 > > - **Holmes, B.（1965）** 坚信科学的唯一试金石是“预测”，政策决策者迫切需要评估现实干预的未来后果，而非回溯先行历史原因。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 53–54)]]
-> > - **Kazamias, A. M.（2009）** 与埃德蒙·金反驳指出，教育深嵌于复杂的历史、文化与人际互动中，充斥着不可还原的价值与意义，强行追求自然科学式的单向预测容易落入技术理性的官僚陷阱。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 55–56)]]
+> > - **Kazamias, A. M.（2009）** 与[[Edmund King|埃德蒙·金]]反驳指出，教育深嵌于复杂的历史、文化与人际互动中，充斥着不可还原的价值与意义，强行追求自然科学式的单向预测容易落入[[Technical Rationality|技术理性]]的官僚陷阱。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 55–56)]]
 
 > [!warning] 适用局限
-> 问题解决法高度依赖对“初始条件”与“文化滞后”的精确辨析，在文化极度多元、政治动荡的非西方社会中，模式推演可能面临变量难以控制或不可通约性挑战。
+> [[Problem Solving|问题解决]]法高度依赖对“初始条件”与“文化滞后”的精确辨析，在文化极度多元、政治动荡的非西方社会中，模式推演可能面临[[Variable|变量]]难以控制或[[Incommensurability|不可通约性]]挑战。
 
 ---
 
@@ -182,10 +206,10 @@ updated: 2026-09-07
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Problem Solving]] | 概念 | 将杜威反思思维与波普尔证伪原则操作化为跨国教育政策分析的问题解决法。 |
-> | [[Policy Science in Comparative Education]] | 概念 | 主张比较教育作为通则式预测与政策科学，服务于现实制度干预的后果评估。 |
-> | [[Four Forms of Understanding of Comparative Education]] | 概念 | 代表了 1960 年代本体论大论战中将比较教育理解为应用政策科学的经典形态。 |
-> | [[Factorial Interpretive Framework]] | 概念 | 批评历史动力与因素分析框架面向过去，确立通则预测对回溯解释的方法论超越。 |
+> | [[Problem Solving]] | 概念 | 将[[John Dewey\|杜威]]反思思维与波普尔[[Falsification\|证伪]]原则[[Operationalization\|操作化]]为跨国教育政策分析的问题解决法。 |
+> | [[Policy Science in Comparative Education]] | 概念 | 主张比较教育作为[[Nomothetic\|通则式]]预测与政策科学，服务于现实制度干预的后果评估。 |
+> | [[Four Forms of Understanding of Comparative Education]] | 概念 | 代表了 1960 年代[[Ontology\|本体论]]大论战中将比较教育理解为应用政策科学的经典形态。 |
+> | [[Factorial Interpretive Framework]] | 概念 | 批评历史动力与因素[[Analytic Framework\|分析框架]]面向过去，确立通则预测对回溯解释的方法论超越。 |
 > | [[National Education in Europe]] | 事实 | 高度赞誉巴纳德编纂世界教育百科全书的本体贡献，为其早期编年史地位平反。 |
-> | [[Argument_Cowen_2023_CE|Cowen (2023)]] | 论证 | 考恩论述霍姆斯物理学式预测模型与政策科学定位在学科本体论论战中的地位。 |
-> | [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009)]] | 论证 | 梳理霍姆斯以科学预测为标尺对历史学派发起的实证围剿与范式冲击。 |\n
+> | [[Argument_Cowen_2023_CE\|Cowen (2023)]] | 论证 | 考恩论述霍姆斯物理学式预测模型与政策科学定位在学科本体论论战中的地位。 |
+> | [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009)]] | 论证 | 梳理霍姆斯以科学预测为标尺对历史学派发起的实证围剿与[[Paradigm\|范式]]冲击。 |\n

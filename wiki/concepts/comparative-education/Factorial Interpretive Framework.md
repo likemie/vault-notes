@@ -10,7 +10,7 @@ aliases:
 summary: "20世纪经典比较教育学中由汉斯集大成的核心分析范式，通过自然、宗教与世俗三维恒久力量解释民族国家教育制度的相貌生成与精神特质"
 type: concept
 domain: "comparative-education"
-related_count: 42
+related_count: 43
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -64,6 +64,7 @@ related_persons:
   - "[[Max Eckstein]]"
   - "[[Victor Cousin]]"
   - "[[Horace Mann]]"
+  - "[[Brian Holmes]]"
   - "[[Andreas Kazamias]]"
 related_facts: []
 related_arguments:
@@ -133,7 +134,7 @@ updated: 2026-09-07
 > | **分析单位** | 民族国家、整体文化传统与国民教育体系 | [[Operationalization\|操作化]][[Variable\|变量]]、量化测验分数与跨国抽样指标 | 具体的外国学校规程、法规条文与教学法技术 | 处在特定社会断层与价值冲突中的教育问题情境 |
 > | **因果机制** | 探寻校外自然、宗教与世俗深层动力的历史沉淀与功能互动 | 建立[[Multiple Regression\|多元回归]]统计模型，度量[[Independent Variable\|自变量]]对[[Dependent Variable\|因变量]]的净效应 | 机械假设外部优秀经验可直接剥离并移植至本土土壤 | 基于[[John Dewey\|杜威]][[Reflective Thinking\|反思性思维]]，从假设检验推导改革行动的未来后果 |
 > | **对数据的态度** | 历史档案考据、思想史文本诠释与质性制度生态剖析 | 严格依赖标准化测验、量化[[Questionnaire\|问卷]]与数理统计数据 | 视察日记、官方统计汇编与描述性事实白描 | 整合跨学科经验数据，构建用于政策决策的假说检验矩阵 |
-> | **代表学者** | [[Nicholas Hans\|Hans, N.]], [[Michael Sadler\|Sadler, M.]], [[Isaac Kandel\|Kandel, I. L.]] | [[Harold Noah\|Noah, H.]], [[Max Eckstein\|Eckstein, M.]] | [[Victor Cousin\|Cousin, V.]], [[Horace Mann\|Mann, H.]] | Holmes, B. |
+> | **代表学者** | [[Nicholas Hans\|Hans, N.]], [[Michael Sadler\|Sadler, M.]], [[Isaac Kandel\|Kandel, I. L.]] | [[Harold Noah\|Noah, H.]], [[Max Eckstein\|Eckstein, M.]] | [[Victor Cousin\|Cousin, V.]], [[Horace Mann\|Mann, H.]] | [[Brian Holmes\|Holmes, B.]] |
 
 ---
 
@@ -235,7 +236,7 @@ updated: 2026-09-07
 > [!claim] Noah, H. & Eckstein, M.
 > **动力与因素阶段缺乏相对权重与客观证据标准** [[Harold Noah|诺亚]]与[[Max Eckstein|埃克斯坦]]在《走向比较教育科学》中，严苛指责汉斯与坎德尔的进路属于“前科学的动力与因素阶段”；他们批评历史学者无法提供判定各因素相对重要性的客观测度规则，各因素的取舍完全依赖研究者主观认定的“不证[[Doxa|自明真理]]”，其得出的结论在本质上仅是尚未经过统计检验的待证[[Hypothesis|假设]]。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 53–54; Noah & Eckstein, 1969, pp. 51, 188)]]
 
-> [!claim] Holmes, B.
+> [!claim] [[Brian Holmes|Holmes, B.]]
 > **政策预测力优于回溯性先行原因发现** 布赖恩·霍姆斯（Brian Holmes）指出，科学比较教育必须以“[[Nomothetic|通则式]]预测（prediction）”为标志，而非回顾性“解释（explanation）”；教育决策者最迫切需要的是知晓当下改革方案的未来后果，而非导致当前不满的历史先行原因，因素框架沉溺于探究过去的因果力量，无法提供行动层面的精准预测。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 53–54; Holmes, 1965, pp. 19–21)]]
 
 > [!claim] Kazamias, A. M.
@@ -264,7 +265,7 @@ updated: 2026-09-07
 > - **1900 — 校外精神力量奠基阶段** [[Michael Sadler|萨德勒]]发表著名的吉尔福德演讲（Guildford Lecture），确立“校外的事情支配校内的事情”的经典命题，开启探寻不可捉摸精神力量的历史文化进路。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 44–45; Sadler, 1900)]]
 > - **1933 — 国家政治因果力量深化阶段** [[Isaac Kandel|坎德尔]]出版《比较教育》，将政治哲学与国家意志作为主导解释[[Variable|变量]]，奠定从外部政治生态剖析教育内部机制的框架原型。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 47–48; Kandel, 1933)]]
 > - **1949 — 三维阶梯因素[[Analytic Framework|分析框架]]集大成阶段** [[Nicholas Hans|汉斯]]出版《比较教育：教育因素与传统研究》，正式提出由自然、宗教与世俗三大群组构成的分类学体系，并确立民主与教育的终极评价准绳，标志着该[[Paradigm|范式]]达到理论成熟巅峰。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 49–51; Hans, 1949)]]
-> - **1960年代 — 行为[[Positivism|实证主义]]的方法论清洗阶段** [[Harold Noah|诺亚]]与[[Max Eckstein|埃克斯坦]]、布赖恩·霍姆斯等人将因素框架判定为缺乏相对权重与可操作性的“前科学”形态，力推跨国统计变量回归与假说演绎预测模型。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 53–54; Noah & Eckstein, 1969)]]
+> - **1960年代 — 行为[[Positivism|实证主义]]的方法论清洗阶段** [[Harold Noah|诺亚]]与[[Max Eckstein|埃克斯坦]]、[[Brian Holmes|布赖恩·霍姆斯]]等人将因素框架判定为缺乏相对权重与可操作性的“前科学”形态，力推跨国统计变量回归与假说演绎预测模型。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 53–54; Noah & Eckstein, 1969)]]
 > - **2000年代至今 — 历史诠释学平反与广义科学重建阶段** 卡扎米亚斯与考恩等学者解构实证主义的方法论神话，重估汉斯因素框架在抵御技术官僚量化拜物教、捍卫以人为中心的人文科学品格中的当代意义。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 55–57)]]
 
 ---
@@ -296,7 +297,7 @@ updated: 2026-09-07
 相关[[Document|文献]]记录了对该框架的历史清理与方法反思：
 
 > [!critique] 外部批评
-> - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009, pp. 53–54)]] — 记录了战后科学实证学派对动力与因素阶段的方法论批判：[[Harold Noah|诺亚]]与[[Max Eckstein|埃克斯坦]]（Noah & Eckstein, 1969）指责其缺乏因素权重的客观衡量标准与[[Hypothesis|假设]]检验，布赖恩·霍姆斯（Holmes, 1965）批评其面向过去探寻先行原因而缺乏指引政策行动的预测力。
+> - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009, pp. 53–54)]] — 记录了战后科学实证学派对动力与因素阶段的方法论批判：[[Harold Noah|诺亚]]与[[Max Eckstein|埃克斯坦]]（Noah & Eckstein, 1969）指责其缺乏因素权重的客观衡量标准与[[Hypothesis|假设]]检验，[[Brian Holmes|布赖恩·霍姆斯]]（Holmes, 1965）批评其面向过去探寻先行原因而缺乏指引政策行动的预测力。
 
 > [!warning] 适用局限
 > - **警惕滑向机械决定论与分类僵化** 因素分类体系属于理想型建构，切忌将鲜活的历史过程生硬削足适履于固定的三维九项指标之中。

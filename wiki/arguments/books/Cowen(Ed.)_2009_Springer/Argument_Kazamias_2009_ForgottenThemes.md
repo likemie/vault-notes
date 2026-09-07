@@ -7,7 +7,7 @@ title: "Argument_Kazamias_2009_ForgottenThemes"
 argument_key: "Argument_Kazamias_2009_ForgottenThemes"
 argument_display_title: "Forgotten Men, Forgotten Themes: The Historical-philosophical-cultural and Liberal Humanist Motif in Comparative Education"
 argument_kind: "book-chapter"
-argument_related_count: 62
+argument_related_count: 64
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -79,9 +79,9 @@ related_persons:
   - "[[Nicholas Hans]]"
   - "[[Robert Ulich]]"
   - "[[Matthew Arnold]]"
-  - "[[Brian Holmes]]"
   - "[[Harold Noah]]"
   - "[[Max Eckstein]]"
+  - "[[Brian Holmes]]"
   - "[[Andreas Kazamias]]"
   - "[[Marc-Antoine Jullien]]"
   - "[[Horace Mann]]"
@@ -179,7 +179,7 @@ updated: 2026-09-07
 ### 论证步骤一　阿诺德与萨德勒确立国家文化教化与校外精神力量，推动比较教育从机械行政借用转向历史情境阐释
 
 > [!claim] 步骤一核心主张
-> 19 世纪欧美的比较教育探索经历了从浅层事实罗列与功利行政借用，向深入社会历史与国家政治环境的文化情境阐释的深刻转变；[[Matthew Arnold|阿诺德]]批判自由放任庸俗信条并倡导国家介入教育[[Bildung|教化]]，[[Michael Sadler|萨德勒]]立足牛津唯心主义提出校外精神力量决定论，共同开辟了历史-哲学-文化比较[[Paradigm|范式]]的思想发端。（pp.37–39, 42–45）
+> 19 世纪欧美的比较教育探索经历了从浅层事实罗列与功利行政借用，向深入社会历史与国家政治环境的文化情境阐释的深刻转变；阿诺德批判自由放任庸俗信条并倡导国家介入教育[[Bildung|教化]]，[[Michael Sadler|萨德勒]]立足牛津唯心主义提出校外精神力量决定论，共同开辟了历史-哲学-文化比较[[Paradigm|范式]]的思想发端。（pp.37–39, 42–45）
 
 #### 1. 早期行政官员考察受制于描述性、功利借用与先验改良三重局限
 
@@ -567,7 +567,7 @@ flowchart LR
 
 > [!warning] 原文自述局限与[[Research Scope|研究边界]]
 > - **个人学术亲历者立场的双重张力** 卡扎米亚斯明确自述其学术生平卷入的双重张力：一方面，作为战后新一代青年学者，他曾率先激烈批判[[Isaac Kandel|坎德尔]]的历史主义方法（指出其[[Whiggism|辉格史观]]与[[National Character|国民性格]]偏见）；另一方面，他又在哈佛大学亲炙[[Robert Ulich|乌利希]]教授（并合编文集向恩师致敬），这使其在反思历史学派时既带有敏锐的批判锋芒，又带有深刻的学脉同情与代际反思张力。（pp.52, 54）
-> - **主要聚焦于英美与跨大西洋代表性人物** 本章对历史-哲学母题的考察主要聚焦于英美语境中的四位核心学者（[[Michael Sadler|萨德勒]]、坎德尔、[[Nicholas Hans|汉斯]]、乌利希）及先驱[[Matthew Arnold|阿诺德]]，对欧洲大陆同属该传统的其他重要学者（如德国的弗里德里希·施耐德 Friedrich Schneider、法国相关比较学者）仅作了简略提及，未作同等深度的专门[[Document|文献]]剖析。（pp.38–39）
+> - **主要聚焦于英美与跨大西洋代表性人物** 本章对历史-哲学母题的考察主要聚焦于英美语境中的四位核心学者（[[Michael Sadler|萨德勒]]、坎德尔、[[Nicholas Hans|汉斯]]、乌利希）及先驱阿诺德，对欧洲大陆同属该传统的其他重要学者（如德国的弗里德里希·施耐德 Friedrich Schneider、法国相关比较学者）仅作了简略提及，未作同等深度的专门[[Document|文献]]剖析。（pp.38–39）
 > - **历史学派奠基者自身的阶级与意识形态盲区** 卡扎米亚斯客观指出，包括坎德尔在内的老一代历史学者带有明显的西方资产阶级自由民主制偏见与先验[[Educational Meliorism|改良主义]]预设，未能深入探究发达资本主义社会内部的阶级对抗、种族主义与深层权力不平等，在社会批判的彻底性上具有时代局限性。（pp.48, 55）
 
 ---

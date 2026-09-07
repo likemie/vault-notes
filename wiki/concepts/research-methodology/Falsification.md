@@ -10,10 +10,10 @@ aliases:
 summary: "波普尔提出的科学划界与检验标准，主张科学理论的标志在于其承担被经验反驳的风险；在教育研究中既驱动了比较假说的实证化转型，又因方法论简化与不完全决定性引发广泛反思"
 type: concept
 domain: "research-methodology"
-related_count: 39
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - theme/epistemology
   - theme/philosophy-of-science
@@ -57,6 +57,7 @@ related_persons:
   - "[[Michael Sadler]]"
   - "[[Isaac Kandel]]"
   - "[[Nicholas Hans]]"
+  - "[[Brian Holmes]]"
   - "[[Andreas Kazamias]]"
   - "[[Deanna Kuhn]]"
 related_facts: []
@@ -164,7 +165,7 @@ updated: 2026-09-07
 > [!claim] [[Harold Noah|Noah, H. J.]] & [[Max Eckstein|Eckstein, M. A.]]
 > **历史学派结论实为待证伪假说** 诺亚与埃克斯坦在《迈向比较教育科学》（1969）中将[[Michael Sadler|萨德勒]]、[[Isaac Kandel|坎德尔]]和[[Nicholas Hans|汉斯]]归入学科演进的前科学力量与因素阶段。他们尖锐批评指出，坎德尔等学者凭借私人洞察力给出的论断，由于缺乏在竞争性因素间进行权重权衡的客观标准，在本质上充其量只是未经验证、亟待跨国经验检验的待证伪工作[[Hypothesis|假设]]（Important Hypotheses Remaining Open for Testing）；唯有将比较研究建立在可[[Operationalization|操作化]][[Variable|变量]]与跨国假说证伪检验之上，学科才能走向成熟科学。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 53)]]
 
-> [!claim] Holmes, B.
+> [!claim] [[Brian Holmes|Holmes, B.]]
 > **[[Problem Solving|问题解决]]法中的[[Reflexivity|反思性]]假说证伪** 霍姆斯（Holmes, 1965）明确基于波普尔批判理性主义哲学，构建了比较教育的问题解决法（Problem-Solving Approach）。他主张将不同国家的教育政策方案视为应对特定社会矛盾的假说，通过将这些假说代入各国的客观制度、政治与文化情境中推演其可能后果，在理性比较与推演中淘汰失效政策方案，从而将证伪逻辑转化为科学比较的政策指导工具。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 53)]]
 
 ---
@@ -197,7 +198,7 @@ updated: 2026-09-07
 
 > [!dev-timeline] 概念演变
 > - **1934/1959 — 波普尔《科学发现的逻辑》确立证伪划界标准** 波普尔出版《科学发现的逻辑》（*Logik der Forschung*），明确批判逻辑[[Positivism|实证主义]]的归纳证实主义，确立以不对称经验反驳为内核的可证伪性划界标准。
-> - **1960s — 比较教育学科大转型引入证伪主义准绳** 霍姆斯（Holmes, 1965）基于波普尔批判[[Rationalism in International Relations|理性主义]]确立[[Problem Solving|问题解决]]法；[[Harold Noah|诺亚]]与[[Max Eckstein|埃克斯坦]]（Noah & Eckstein, 1969）指责传统历史学派结论仅为未经证伪检验的假说，呼吁将学科建立在经验跨国检验基础之上。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 53)]]
+> - **1960s — 比较教育学科大转型引入证伪主义准绳** [[Brian Holmes|霍姆斯]]（Holmes, 1965）基于波普尔批判[[Rationalism in International Relations|理性主义]]确立[[Problem Solving|问题解决]]法；[[Harold Noah|诺亚]]与[[Max Eckstein|埃克斯坦]]（Noah & Eckstein, 1969）指责传统历史学派结论仅为未经证伪检验的假说，呼吁将学科建立在经验跨国检验基础之上。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 53)]]
 > - **1970 — 拉卡托斯提出科学研究纲领方法论** 拉卡托斯（Imre Lakatos）反思朴素证伪主义，指出面对反常科学家会设立辅助[[Hypothesis|假设]]保护理论硬核，提出精致证伪主义与纲领进步/退化判定准则。
 > - **1963/2009 — 卡扎米亚斯重建比较史学有限工作假设** 卡扎米亚斯援引布林顿史学方法，阐明历史比较能够通过有限工作假设实现中程抽象与经验检验，打破了实证主义对检验科学概念的狭隘垄断。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 56)]]
 > - **2007 — 曾普伦反思[[Critical Thinking|批判性思维]]教育中的证伪教条** 曾普伦发表针对 [[Theory of Knowledge|TOK]] 教科书的[[Content Analysis|内容分析]]，系统揭示证伪主义在中学与大学批判性思维课程中被简化为机械教条的结构性教学困境。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007)]]
@@ -260,5 +261,5 @@ updated: 2026-09-07
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 在研究方法教科书的哲学基础章节中系统阐述证伪主义作为[[Postpositivism|后实证主义范式]]的基石概念，详细界定严格检验与推测反驳循环。
 > - [[Argument_Zemplen_2007_SciEduc|Zemplén (2007)]] — 以 IB [[Theory of Knowledge|TOK]] 教科书为经验案例，剖析证伪主义在[[Critical Thinking|批判性思维]]教学中被教条化和简化的结构性困境，提出以不完全决定性和纽拉特[[Positivism|实证主义]]作为替代教学起点。
-> - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009)]] — 思想史考古揭示 1960 年代霍姆斯、[[Harold Noah|诺亚]]与[[Max Eckstein|埃克斯坦]]如何利用波普尔可证伪性准绳围剿历史比较学派，并借由布林顿比较史学归纳法重构有限工作[[Hypothesis|假设]]的合法性。
+> - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009)]] — 思想史考古揭示 1960 年代[[Brian Holmes|霍姆斯]]、[[Harold Noah|诺亚]]与[[Max Eckstein|埃克斯坦]]如何利用波普尔可证伪性准绳围剿历史比较学派，并借由布林顿比较史学归纳法重构有限工作[[Hypothesis|假设]]的合法性。
 

@@ -10,7 +10,7 @@ aliases:
 summary: "19世纪末至20世纪中叶主导比较教育学的核心认识论母题，将学科界定为探究历史因果与文化精神的广义人文科学，以民族国家与国民性为解释单元，服务于历史改良主义与自由民主价值"
 type: concept
 domain: "comparative-education"
-related_count: 40
+related_count: 41
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -64,6 +64,7 @@ related_persons:
   - "[[Harold Noah]]"
   - "[[Max Eckstein]]"
   - "[[Andreas Kazamias]]"
+  - "[[Brian Holmes]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Kazamias_2009_ForgottenThemes]]"
@@ -225,7 +226,7 @@ updated: 2026-09-07
 > - **1930s — [[Isaac Kandel|坎德尔]]确立政治国家与因果探究三阶段[[Paradigm|范式]]** 坎德尔出版巨著《比较教育》（1933），将主权国家作为首要解释[[Variable|变量]]，确立探寻起因、比较差异与考察方案的三阶段程序，并创办《教育年鉴》。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 45–48)]]
 > - **1949 — [[Nicholas Hans|汉斯]]提出三维历史因素分析分类框架** 汉斯出版《比较教育：教育的因素与传统研究》，建立自然、宗教与世俗历史因素框架，为纷繁复杂的跨国历史史料提供了系统的分类过滤器。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 49–51)]]
 > - **1961 — [[Robert Ulich|乌利希]]《国家教育》奠定古典全人[[Bildung|教化]]文明史纵深** 乌利希将西方文明两千年思想史演进与全人教化引入比较研究，确立以人为中心的人文关怀底色。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 51–52)]]
-> - **1960s — 实证[[Scientism|科学主义]]围剿与前科学标签化** [[Harold Noah|诺亚]]、[[Max Eckstein|埃克斯坦]]与霍姆斯等实证学者借由狭隘科学观与[[Falsification|可证伪性]]准绳，指责历史学派依赖主观洞察力、缺乏因果预测力、陷入个殊不可比，并将萨德勒的无形力量贬斥为神秘主义。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 52–54)]]
+> - **1960s — 实证[[Scientism|科学主义]]围剿与前科学标签化** [[Harold Noah|诺亚]]、[[Max Eckstein|埃克斯坦]]与[[Brian Holmes|霍姆斯]]等实证学者借由狭隘科学观与[[Falsification|可证伪性]]准绳，指责历史学派依赖主观洞察力、缺乏因果预测力、陷入个殊不可比，并将萨德勒的无形力量贬斥为神秘主义。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 52–54)]]
 > - **1963/2009 — 卡扎米亚斯重建广义科学定位与比较史学合法性** 卡扎米亚斯批判反思历史学派[[Whiggism|辉格史观]]与[[National Character|国民性格]]偏误，同时恢复德语 *Wissenschaft* 广义科学传统，援引布林顿有限工作[[Hypothesis|假设]]归纳法确立历史比较因果解释的现代合法性。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 54–57)]]
 
 ---
@@ -247,7 +248,7 @@ updated: 2026-09-07
 > > - **Crane Brinton / Kazamias（1963, 2009）** 论证历史学者完全能够从具体个案事实中提炼有限工作假设，并投射至同类教育情境中展开检验与阐释，实现特殊与一般的有机统一。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 56)]]
 
 > [!critique] 外部批评
-> - **缺乏因果预测力指控** 霍姆斯（Holmes, 1965）断言历史比较无法替代科学比较教育，教育决策关切的是未来行动的后果，真正的理解来自于成功的因果预测而非回顾性历史溯源。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 53–54)]]
+> - **缺乏因果预测力指控** [[Brian Holmes|霍姆斯]]（Holmes, 1965）断言历史比较无法替代科学比较教育，教育决策关切的是未来行动的后果，真正的理解来自于成功的因果预测而非回顾性历史溯源。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 53–54)]]
 > - **滑向神秘主义倾向指控** 埃普斯坦（Epstein, 1970）批评萨德勒对校外无形、不可捉摸精神力量的强调濒临神秘主义，有将严谨实证探究引向主观灵性启示的风险。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 54)]]
 > - **[[Whiggism|辉格史观]]与[[National Character|国民性格]]循环论证** 卡扎米亚斯（Kazamias, 1961, 2009）深刻指出老一代历史学者混淆现状实然描述与道德改良应然诉求，借由主观臆断的[[National Character|国民性格]]解释教育差异，陷入同义反复与辉格史观的理论陷阱。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 54–55)]]
 
