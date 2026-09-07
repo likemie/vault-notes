@@ -11,7 +11,7 @@ aliases:
 summary: "将教育目标与学习产出按认知、情感与动作技能三领域分层解构的经典课程与评价理论框架，认知领域以六级思维阶梯（识记、理解、应用、分析、评价、创造）与二维知识-认知过程矩阵为核心，支撑教学设计、目标对齐与实证测量。"
 type: theory
 theory_field: "curriculum"
-theory_related_count: 37
+theory_related_count: 39
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -35,6 +35,8 @@ related_concepts:
   - "[[Problem Solving]]"
   - "[[Critical Thinking]]"
   - "[[Creativity]]"
+  - "[[Heterogeneity]]"
+  - "[[Scaffolding]]"
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
@@ -117,8 +119,8 @@ updated: 2026-09-05
 > - **前提一** 处于不同认知层级的学习任务其内在认知负荷机制各异：低阶事实与[[Procedural Skill|程序技能]]依赖自动化演练与即时纠错，而高阶思维依赖[[Reflective Thinking|反思性探究]]与认知[[Externalization|外化]]。[[Argument_Liu_2026_CHBR|(Liu et al., 2026, pp. 10–11)]]
 >   > [!evidence-grid]- 证据
 >   > - **[[Meta-analysis|元分析]]实证证据（[[Argument_Liu_2026_CHBR|Liu et al., 2026]]）** AI [[AI Agent in Education|智能体]]干预在技能类结果（$g = 0.391, p < .001$）和知识类结果（$g = 0.344, p = .026$）上获得稳定显著增益，而在高阶思维（$g = 0.540, p = .066$）上表现出极高异质性（$I^2 = 95.4\%$）。[[Argument_Liu_2026_CHBR|(Liu et al., 2026, p. 7)]]
->   > - **[[Meta-analysis|元分析]]实证证据（[[Argument_Zhao_2025_JIntell|Zhao et al., 2025]]）** 依据修订版布鲁姆高阶认知层级细化检验生成式 AI 促学成效，证实技术对程序排错与方案推演为主的[[Problem Solving|问题解决能力]]（$g = 0.745$）和证据审视为主的[[Critical Thinking|批判性思维]]（$g = 0.691$）赋能显著，而对顶层综合与独创为核心的[[Creativity|创造力]]（$g = 0.444$）提升相对有限（组间异质性 $Q_b = 4.961, df = 2, p = 0.084$），实证检验了智能技术在高阶思维不同层级上的赋能级差。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 10–11)]]
-> - **前提二** 教学工具与技术形态对不同认知层级的赋能机制存在匹配边界：结构化提示易于优化程序技能，但高阶探究必须依赖显性教学法脚手架协同。
+>   > - **[[Meta-analysis|元分析]]实证证据（[[Argument_Zhao_2025_JIntell|Zhao et al., 2025]]）** 依据修订版布鲁姆高阶认知层级细化检验生成式 AI 促学成效，证实技术对程序排错与方案推演为主的[[Problem Solving|问题解决能力]]（$g = 0.745$）和证据审视为主的[[Critical Thinking|批判性思维]]（$g = 0.691$）赋能显著，而对顶层综合与独创为核心的[[Creativity|创造力]]（$g = 0.444$）提升相对有限（组间[[Heterogeneity|异质性]] $Q_b = 4.961, df = 2, p = 0.084$），实证检验了智能技术在高阶思维不同层级上的赋能级差。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 10–11)]]
+> - **前提二** 教学工具与技术形态对不同认知层级的赋能机制存在匹配边界：结构化提示易于优化程序技能，但高阶探究必须依赖显性教学法[[Scaffolding|脚手架]]协同。
 > - **推导** 任何教学法或教育技术干预都不是普遍均质有效的；其成效必须置于布鲁姆认知目标分类框架下分解评估，否则极易掩盖高阶思维与低阶程序之间的结构性效能分化。[[Argument_Liu_2026_CHBR|(Liu et al., 2026, pp. 10–13)]]
 
 > [!mechanism-map]- 认知目标分类与教学对齐机制图

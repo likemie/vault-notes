@@ -126,7 +126,7 @@ updated: 2026-09-07
 > - **历史[[Educational Meliorism|改良主义]]旨趣（Historical-Meliorism）** 坚持研究旨在涵养健全的哲学态度与批判眼光，反对机械政策移植，坚信对历史的深刻理解能滋养本国民主改革。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 40)]]
 > - **民族国家与[[National Character|国民性]]分析单元（Nation-State & National Character）** 以主权国家及其教育体系为基本单位，将国民性格视为主导学校组织、课程取向与治理模式的深层无形动因。
 > - **质性诠释优位（Qualitative Priority）** 明确排斥以纯统计测验与心理智商度量界定教育本质，主张教育品质在于学校整体氛围、精神追求与文化品格。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 41)]]
-> - **自由民主人文主义理念（Liberal Democratic Humanism）** 深受西方古典人文教育（Paideia）熏陶，坚信启蒙理智与公民自由，视教育为抵御极权专制与培养民主公民的核心防线。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 41–42)]]
+> - **自由民主人文主义理念（Liberal Democratic Humanism）** 深受西方古典人文教育（[[Bildung|Paideia]]）熏陶，坚信启蒙理智与公民自由，视教育为抵御极权专制与培养民主公民的核心防线。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 41–42)]]
 > - **唯心主义思想观念比较（Idealism & Comparison of Ideas）** 在社会动因解释中赋予思想、理想、形式与精神追求高于物质经济维度的先验决定地位。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 42)]]
 
 > [!logic-map]- 认识论结构与因果阐释逻辑

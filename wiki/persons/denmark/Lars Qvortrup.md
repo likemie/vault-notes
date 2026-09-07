@@ -7,7 +7,7 @@ summary: "丹麦教育学者和系统理论研究者，专业判断与复杂性�
 type: person
 nationality: denmark
 person_region: "denmark"
-person_related_count: 17
+person_related_count: 18
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Structural Coupling]]"
   - "[[Didaktik]]"
   - "[[Hypothesis]]"
+  - "[[Problem Solving]]"
   - "[[Effect Size]]"
   - "[[Professional Judgment]]"
   - "[[Reflexivity]]"
@@ -70,7 +71,7 @@ updated: '2026-06-08'
 > [!info] 核心思想
 > Qvortrup 的学术立场是从 [[Visible Learning|VL]] 支持者角度为其提供理论辩护：
 >
-> > "The aim of [[Visible Learning]] is to support teachers' professional judgement. (...) The aim is to provide teachers with '[[Hypothesis|hypotheses]] for intelligent problem solving' (Hattie, 2009, p. 247)."([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.7]])
+> > "The aim of [[Visible Learning]] is to support teachers' professional judgement. (...) The aim is to provide teachers with '[[Hypothesis|hypotheses]] for intelligent [[Problem Solving]]' (Hattie, 2009, p. 247)."([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.7]])
 >
 > 他的核心贡献包括：
 >

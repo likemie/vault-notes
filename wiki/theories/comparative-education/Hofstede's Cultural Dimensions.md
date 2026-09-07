@@ -8,10 +8,10 @@ aliases:
 summary: "国家文化维度理论，提出权力距离、个人主义/集体主义、不确定性规避等维度刻画文化心智软件；在教育中用于解释权威结构、教学法跨文化转译及生成式 AI 破除师生权力壁垒的中介机制。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 49
-theory_related_level: 5
-theory_related_stars: "⭐⭐⭐⭐⭐"
-theory_related_color: "#ffedd5"
+theory_related_count: 50
+theory_related_level: 6
+theory_related_stars: "⭐⭐⭐⭐⭐⭐"
+theory_related_color: "#fef3c7"
 tags:
   - theme/comparative-education
   - theme/national-culture
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Effective Teaching]]"
   - "[[Dialogue in Education]]"
   - "[[Stereotype Threat]]"
+  - "[[Common School Movement]]"
   - "[[Value Neutrality]]"
   - "[[Avatar]]"
   - "[[Student-Teacher Relationship]]"
@@ -134,7 +135,7 @@ updated: 2026-09-04
 > - **前提一** 国家层面的历史发展、生态环境与制度演进，凝结为相对稳定的社会核心价值观网络，形成区别不同群体的“心智软件”。
 >   > [!evidence-grid]- 证据
 >   > - **证据一** IBM 全球数十万跨国员工调查及后续世界价值观调查（WVS）聚合数据表明，各主权国家在各核心维度上的相对坐标跨越数十年依然展现出高度的统计稳定性与可重测性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, p. 181)]]
->   > - **证据二** 跨国政策与组织研究显示，国家文化价值观深刻渗透于家庭养育、公共学校体系与劳动力市场等核心制度之中，形塑着制度实践的隐性规约。[[Argument_Laursen_2015_Paideia|(Laursen, 2015, p. 36)]]
+>   > - **证据二** 跨国政策与组织研究显示，国家文化价值观深刻渗透于家庭养育、[[Common School Movement|公共学校]]体系与劳动力市场等核心制度之中，形塑着制度实践的隐性规约。[[Argument_Laursen_2015_Paideia|(Laursen, 2015, p. 36)]]
 > - **前提二** 个体在其所处文化社群中完成早期社会化，不自觉地内化了关于权力不对称性、人际信任与不确定性应对的深层认知与情感图式。
 > - **推导** 因此，教育并非[[Value Neutrality|价值中立]]的纯认知传递系统，而是深刻嵌入于国家文化心智软件之中的社会化建制；任何外来教学模式或技术工具的介入，必然首先与本土文化深层的交往规约发生碰撞与互动。
 
