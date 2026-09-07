@@ -1,10 +1,10 @@
 ---
 title: C. Arnold Anderson
 aliases:
-  - 安德森
   - C. A. Anderson
   - Charles Arnold Anderson
   - Anderson, C. A.
+  - 阿诺德·安德森
 summary: "芝加哥大学教育与社会学教授、比较教育研究中心主任，CIES 前会长，战后比较教育实证社会学与结构功能主义学派核心领袖，倡导寻求超越时空的恒常制度规律并开创教育经济与发展研究"
 type: person
 nationality: us

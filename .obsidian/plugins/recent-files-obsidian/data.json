@@ -5,12 +5,48 @@
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Mattheou_2009_ScientificParadigm.md"
     },
     {
+      "basename": "Philip Foster",
+      "path": "wiki/persons/us/Philip Foster.md"
+    },
+    {
+      "basename": "C. Arnold Anderson",
+      "path": "wiki/persons/us/C. Arnold Anderson.md"
+    },
+    {
       "basename": "Argument_Jornitz_2022_Bildung_algorithmic",
       "path": "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Jornitz_2022_Bildung_algorithmic.md"
     },
     {
       "basename": "Argument_Partaken_2022_Springer",
       "path": "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Partaken_2022_Springer.md"
+    },
+    {
+      "basename": "George Bereday",
+      "path": "wiki/persons/us/George Bereday.md"
+    },
+    {
+      "basename": "Karl Popper",
+      "path": "wiki/persons/austria/Karl Popper.md"
+    },
+    {
+      "basename": "Thomas Kuhn",
+      "path": "wiki/persons/us/Thomas Kuhn.md"
+    },
+    {
+      "basename": "Scientific Paradigm",
+      "path": "wiki/concepts/comparative-education/Scientific Paradigm.md"
+    },
+    {
+      "basename": "Brian Holmes",
+      "path": "wiki/persons/uk/Brian Holmes.md"
+    },
+    {
+      "basename": "Deanna Kuhn",
+      "path": "wiki/persons/us/Deanna Kuhn.md"
+    },
+    {
+      "basename": "Critical Dualism",
+      "path": "wiki/concepts/comparative-education/Critical Dualism.md"
     },
     {
       "basename": "Argument_Zapp_2022_Springer",
@@ -163,42 +199,6 @@
     {
       "basename": "Nicholas Hans",
       "path": "wiki/persons/uk/Nicholas Hans.md"
-    },
-    {
-      "basename": "template-argument",
-      "path": "wiki/templates/template-argument.md"
-    },
-    {
-      "basename": "Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings",
-      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings.md"
-    },
-    {
-      "basename": "Esquisse d'un ouvrage sur l'éducation comparée",
-      "path": "wiki/facts/france/Esquisse d'un ouvrage sur l'éducation comparée.md"
-    },
-    {
-      "basename": "Horace Mann",
-      "path": "wiki/persons/us/Horace Mann.md"
-    },
-    {
-      "basename": "Victor Cousin",
-      "path": "wiki/persons/france/Victor Cousin.md"
-    },
-    {
-      "basename": "Marc-Antoine Jullien",
-      "path": "wiki/persons/france/Marc-Antoine Jullien.md"
-    },
-    {
-      "basename": "Enlightenment",
-      "path": "wiki/concepts/educational-philosophy/Enlightenment.md"
-    },
-    {
-      "basename": "Questionnaire",
-      "path": "wiki/concepts/research-methodology/Questionnaire.md"
-    },
-    {
-      "basename": "Perpetual Peace",
-      "path": "wiki/concepts/comparative-education/Perpetual Peace.md"
     }
   ],
   "omittedPaths": [],

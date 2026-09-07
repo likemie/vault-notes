@@ -16673,10 +16673,10 @@
     "type": "person",
     "path": "wiki/persons/us/C. Arnold Anderson.md",
     "aliases": [
-      "安德森",
       "C. A. Anderson",
       "Charles Arnold Anderson",
-      "Anderson, C. A."
+      "Anderson, C. A.",
+      "阿诺德·安德森"
     ]
   },
   {
@@ -17071,7 +17071,6 @@
     "path": "wiki/persons/us/Philip Foster.md",
     "aliases": [
       "菲利普·福斯特",
-      "福斯特",
       "Philip J. Foster",
       "Foster, P. J."
     ]
@@ -17157,8 +17156,9 @@
     "path": "wiki/persons/us/Thomas Kuhn.md",
     "aliases": [
       "托马斯·库恩",
-      "Kuhn",
-      "Thomas S. Kuhn"
+      "Thomas S. Kuhn",
+      "T. S. Kuhn",
+      "T. Kuhn"
     ]
   },
   {
