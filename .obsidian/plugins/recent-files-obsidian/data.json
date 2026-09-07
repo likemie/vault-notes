@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "National Character in Comparative Education",
+      "path": "wiki/concepts/comparative-education/National Character in Comparative Education.md"
+    },
+    {
       "basename": "Argument_Kazamias_2009_ForgottenThemes",
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kazamias_2009_ForgottenThemes.md"
+    },
+    {
+      "basename": "Historical-Comparative Method",
+      "path": "wiki/methods/qualitative/Historical-Comparative Method.md"
+    },
+    {
+      "basename": "Positivism",
+      "path": "wiki/concepts/research-methodology/Positivism.md"
     },
     {
       "basename": "Postpositivism",
       "path": "wiki/concepts/research-methodology/Postpositivism.md"
     },
     {
-      "basename": "Michael Sadler",
-      "path": "wiki/persons/uk/Michael Sadler.md"
-    },
-    {
       "basename": "Robert Ulich",
       "path": "wiki/persons/us/Robert Ulich.md"
+    },
+    {
+      "basename": "Michael Sadler",
+      "path": "wiki/persons/uk/Michael Sadler.md"
     },
     {
       "basename": "Nicholas Hans",
@@ -27,10 +39,6 @@
     {
       "basename": "template-argument",
       "path": "wiki/templates/template-argument.md"
-    },
-    {
-      "basename": "National Character in Comparative Education",
-      "path": "wiki/concepts/comparative-education/National Character in Comparative Education.md"
     },
     {
       "basename": "Historical-Philosophical-Cultural Motif",
@@ -137,10 +145,6 @@
       "path": "wiki/concepts/research-methodology/Value Neutrality.md"
     },
     {
-      "basename": "Positivism",
-      "path": "wiki/concepts/research-methodology/Positivism.md"
-    },
-    {
       "basename": "Educational Meliorism",
       "path": "wiki/concepts/comparative-education/Educational Meliorism.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Argument_Cowen_2009_HistoryCreation",
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Cowen_2009_HistoryCreation.md"
-    },
-    {
-      "basename": "Argument_Cowen(Ed.)_2009_Springer",
-      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Cowen(Ed.)_2009_Springer.md"
     }
   ],
   "omittedPaths": [],
