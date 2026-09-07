@@ -4,7 +4,6 @@ aliases:
   - Eckstein, M. A.
   - Max A. Eckstein
   - 马克斯·埃克斯坦
-  - 埃克斯坦
 summary: "纽约城市大学皇后学院比较教育学教授，CIES 前会长（1988–1989），与 Harold Noah 长期合作创立比较教育学科学实证范式，推动经验测量、假说检验与跨国量化研究。"
 type: person
 nationality: us

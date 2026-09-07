@@ -3,7 +3,6 @@ title: Brian Holmes
 aliases:
   - 布赖恩·霍姆斯
   - 布莱恩·霍姆斯
-  - 霍姆斯
   - Holmes, B.
 summary: "英国著名比较教育学家与科学哲学家，伦敦大学教育学院领袖，问题解决法（Problem Approach）创立者；引入波普尔批判理性主义与杜威反思思维，主张比较教育作为通则式预测的政策科学，开创文化滞后与时代不同步分析范式。"
 type: person

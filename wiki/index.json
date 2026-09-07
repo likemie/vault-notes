@@ -1694,7 +1694,7 @@
     "aliases": [
       "教养",
       "教化",
-      "Paideia",
+      "精神教化",
       "Character Formation",
       "Edification of Character"
     ]
@@ -1774,6 +1774,17 @@
     "aliases": [
       "批判性思维",
       "critical thinking skills"
+    ]
+  },
+  {
+    "title": "Culture Générale",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Culture Générale.md",
+    "aliases": [
+      "Culture Generale",
+      "普通文化",
+      "通识教养",
+      "法兰西普通文化"
     ]
   },
   {
@@ -2021,7 +2032,6 @@
     "path": "wiki/concepts/educational-philosophy/General Education.md",
     "aliases": [
       "通识教育",
-      "culture générale",
       "allgemeine Bildung"
     ]
   },
@@ -2103,6 +2113,17 @@
     ]
   },
   {
+    "title": "Liberal Education",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Liberal Education.md",
+    "aliases": [
+      "自由教育",
+      "博雅教育",
+      "文雅教育",
+      "英国自由教育"
+    ]
+  },
+  {
     "title": "Lifelong Learning",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Lifelong Learning.md",
@@ -2168,6 +2189,18 @@
       "nature of reality",
       "本体论认知",
       "Ontological Cognition"
+    ]
+  },
+  {
+    "title": "Paideia",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Paideia.md",
+    "aliases": [
+      "Paedeia",
+      "Klassiki Paedeia",
+      "Klassiki Paideia",
+      "古希腊教化",
+      "古典教化"
     ]
   },
   {
@@ -16114,7 +16147,6 @@
     "aliases": [
       "布赖恩·霍姆斯",
       "布莱恩·霍姆斯",
-      "霍姆斯",
       "Holmes, B."
     ]
   },
@@ -17048,8 +17080,7 @@
     "aliases": [
       "Eckstein, M. A.",
       "Max A. Eckstein",
-      "马克斯·埃克斯坦",
-      "埃克斯坦"
+      "马克斯·埃克斯坦"
     ]
   },
   {

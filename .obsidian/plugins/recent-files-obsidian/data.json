@@ -5,6 +5,42 @@
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Mattheou_2009_ScientificParadigm.md"
     },
     {
+      "basename": "Educational Meliorism",
+      "path": "wiki/concepts/comparative-education/Educational Meliorism.md"
+    },
+    {
+      "basename": "Philip Foster",
+      "path": "wiki/persons/us/Philip Foster.md"
+    },
+    {
+      "basename": "Brian Holmes",
+      "path": "wiki/persons/uk/Brian Holmes.md"
+    },
+    {
+      "basename": "Max Eckstein",
+      "path": "wiki/persons/us/Max Eckstein.md"
+    },
+    {
+      "basename": "C. Arnold Anderson",
+      "path": "wiki/persons/us/C. Arnold Anderson.md"
+    },
+    {
+      "basename": "Positivism",
+      "path": "wiki/concepts/research-methodology/Positivism.md"
+    },
+    {
+      "basename": "Auguste Comte",
+      "path": "wiki/persons/france/Auguste Comte.md"
+    },
+    {
+      "basename": "Culture Générale",
+      "path": "wiki/concepts/educational-philosophy/Culture Générale.md"
+    },
+    {
+      "basename": "General Education",
+      "path": "wiki/concepts/educational-philosophy/General Education.md"
+    },
+    {
       "basename": "Rationalism in International Relations",
       "path": "wiki/concepts/comparative-education/Rationalism in International Relations.md"
     },
@@ -13,24 +49,12 @@
       "path": "wiki/concepts/educational-philosophy/Bildung.md"
     },
     {
-      "basename": "General Education",
-      "path": "wiki/concepts/educational-philosophy/General Education.md"
-    },
-    {
       "basename": "René Descartes",
       "path": "wiki/persons/france/René Descartes.md"
     },
     {
       "basename": "Matthew Arnold",
       "path": "wiki/persons/uk/Matthew Arnold.md"
-    },
-    {
-      "basename": "Philip Foster",
-      "path": "wiki/persons/us/Philip Foster.md"
-    },
-    {
-      "basename": "C. Arnold Anderson",
-      "path": "wiki/persons/us/C. Arnold Anderson.md"
     },
     {
       "basename": "Argument_Jornitz_2022_Bildung_algorithmic",
@@ -55,10 +79,6 @@
     {
       "basename": "Scientific Paradigm",
       "path": "wiki/concepts/comparative-education/Scientific Paradigm.md"
-    },
-    {
-      "basename": "Brian Holmes",
-      "path": "wiki/persons/uk/Brian Holmes.md"
     },
     {
       "basename": "Deanna Kuhn",
@@ -165,10 +185,6 @@
       "path": "wiki/persons/us/Isaac Kandel.md"
     },
     {
-      "basename": "Educational Meliorism",
-      "path": "wiki/concepts/comparative-education/Educational Meliorism.md"
-    },
-    {
       "basename": "Andreas Kazamias",
       "path": "wiki/persons/greece/Andreas Kazamias.md"
     },
@@ -177,28 +193,12 @@
       "path": "wiki/persons/us/Harold Noah.md"
     },
     {
-      "basename": "Max Eckstein",
-      "path": "wiki/persons/us/Max Eckstein.md"
-    },
-    {
       "basename": "Historical-Philosophical-Cultural Motif",
       "path": "wiki/concepts/comparative-education/Historical-Philosophical-Cultural Motif.md"
     },
     {
       "basename": "Falsification",
       "path": "wiki/concepts/research-methodology/Falsification.md"
-    },
-    {
-      "basename": "Technical Rationality",
-      "path": "wiki/concepts/educational-philosophy/Technical Rationality.md"
-    },
-    {
-      "basename": "Postpositivism",
-      "path": "wiki/concepts/research-methodology/Postpositivism.md"
-    },
-    {
-      "basename": "Michael Sadler",
-      "path": "wiki/persons/uk/Michael Sadler.md"
     }
   ],
   "omittedPaths": [],

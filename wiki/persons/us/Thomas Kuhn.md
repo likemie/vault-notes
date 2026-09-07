@@ -43,6 +43,7 @@ related_persons:
   - "[[Karl Popper]]"
   - "[[Brian Holmes]]"
   - "[[Andreas Kazamias]]"
+  - "[[Deanna Kuhn]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Mattheou_2009_ScientificParadigm]]"
