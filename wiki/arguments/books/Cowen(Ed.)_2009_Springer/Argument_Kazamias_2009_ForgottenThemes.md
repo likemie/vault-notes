@@ -7,7 +7,7 @@ title: "Argument_Kazamias_2009_ForgottenThemes"
 argument_key: "Argument_Kazamias_2009_ForgottenThemes"
 argument_display_title: "Forgotten Men, Forgotten Themes: The Historical-philosophical-cultural and Liberal Humanist Motif in Comparative Education"
 argument_kind: "book-chapter"
-argument_related_count: 60
+argument_related_count: 61
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -60,6 +60,7 @@ related_concepts:
   - "[[Independent Variable]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Analytic Framework]]"
+  - "[[Factorial Interpretive Framework]]"
   - "[[Incommensurability]]"
   - "[[Analytical Stance]]"
   - "[[Enlightenment]]"
@@ -318,7 +319,7 @@ updated: 2026-09-07
 ---
 #### 3. 汉斯依托三维因素框架结构化海量数据并揭示英美政治自由与苏联社会平等的共同教育缺陷
 
-作为流亡英国的东欧学者，[[Nicholas Hans|尼古拉斯·汉斯]]（Nicholas Hans）在伦敦大学国王学院长期任教，深受萨德勒与坎德尔的思想启迪。在历史学派的奠基者中，汉斯最为体系化地运用历史因果框架，构建了一套由内在与恒久力量构成的“因素（Factors）”解释体系，在海量极易失序的跨国历史材料中确立了分类学认知与[[Coding in Qualitative Research|编码]]秩序（Tretheway, 1976: 63–64; pp.49–50）。
+作为流亡英国的东欧学者，[[Nicholas Hans|尼古拉斯·汉斯]]（Nicholas Hans）在伦敦大学国王学院长期任教，深受萨德勒与坎德尔的思想启迪。在历史学派的奠基者中，汉斯最为体系化地运用历史因果框架，构建了一套由内在与恒久力量构成的“[[Factorial Interpretive Framework|因素解释框架]]（Factorial Interpretive Framework）”，在海量极易失序的跨国历史材料中确立了分类学认知与[[Coding in Qualitative Research|编码]]秩序（Tretheway, 1976: 63–64; pp.49–50）。
 
 > [!theory-components] 汉斯因素分析法的本体论公理与双重比较任务
 > - **国民性格外在表达的本体论公理**
@@ -339,7 +340,7 @@ updated: 2026-09-07
 >    系统剖析近代瓦解或重塑宗教主导的三大世俗思想运动。人文主义（Humanism）继承文艺复兴古典理性，确立古典博雅学科在精英中等教育（如英国公学、德国文理中学、法国文理高中）的支配地位，致力于批判理性与健全人格的陶冶；社会主义（Socialism）直面工业资本主义带来的阶级压迫与教育不平等，主张教育作为社会公平与生产劳动相结合的解放工具，倡导国家统筹免费普及义务教育，在苏联转化为消弭脑体对立的统一劳动学校；民族主义（Nationalism）作为最具穿透力的现代世俗动因（Universal secular movement），被汉斯视为国民性格的自然表达，打破教会普世壁垒并将学校全面收归主权国家控制。（Hans, 1949: 215–234）
 > 4. **民主与教育的综合评价归宿（Democracy and Education）**
 >    在全书终章专列“民主与教育”作为统摄并衡量所有因素运作的最高政治伦理基准（Hans, 1949: 16, 236–237）。汉斯将民主视为现代国家教育发展的试金石，检验特定政治体制能否超越单纯的形式结构，在保障文化精神发展自由的同时，真正实现实质性的教育机会均等（True equality of educational opportunity）。这一终极维度使因素分析法超越了静态的机械归类，升华为关照社会正义与人类尊严的规范性批判框架。（Hans, 1949: 236–237; pp.50–51）
-基于因素分析框架，汉斯进一步确立了比较教育作为跨学科知识形态的学科性质与方法论边界：（pp.39–41, 51）
+基于[[Factorial Interpretive Framework|因素解释框架]]，汉斯进一步确立了比较教育作为跨学科知识形态的学科性质与方法论边界：（pp.39–41, 51）
 
 > [!dimension] 汉斯论比较教育学的学科性质与方法论边界
 > - **应用学科的动态改良使命（An Applied Subject for Institutional Reform）**
@@ -412,7 +413,7 @@ updated: 2026-09-07
 > |---|---|---|---|---|
 > | **[[Michael Sadler\|迈克尔·萨德勒]]**<br>（Michael Sadler, 1861–1943）<br>牛津唯心主义与新自由主义 | 民族国家的学校体系与其深层社会文化母体 | **校外无形精神力量（Intangible Spiritual Forces）**；民族活体有机体（Living organism）；[[National Character\|国民性格]] | **击碎机械借用主义与确立情境决定论** 终结了 19 世纪初中期行政视察报告收集数据与生硬移植办学经验的功利工具主义，确立了学校系统由社会历史无形力量决定的方法论公理。（pp.42–45） | Sadler (1900/1964), *How Far Can We Learn Anything of Practical Value...*<br>“校外的事情比校内的事情更为重要，并且支配着校内的一切。”（p.44） |
 > | **[[Isaac Kandel\|艾萨克·坎德尔]]**<br>（Isaac Kandel, 1881–1965）<br>曼彻斯特与哥伦比亚大学学脉 | 主权国家教育制度及其背后的政治哲学观念 | **政治国家作为核心[[Independent Variable\|自变量]]（The State as Primary Variable）**；政体二元理想型（民主制 vs 极权制）；**观念、理想与形态比较（Ideas, Ideals and Forms）** | **确立国家解释变量与规范因果探究程序** 在学科史上首次将国家作为首要情境变量引入比较研究；规范了因果探究三阶段（探寻起因 ➔ 比较制度差异 ➔ 考察解决方案），推动比较研究从事实罗列转向政治哲学因果解释。（pp.45–48） | Kandel (1933), *Comparative Education*; Kandel (1955), *The New Era in Education*<br>“国家如何，学校便如何；比较的实质在于比较观念、理想与形态。”（pp.42, 47） |
-> | **[[Nicholas Hans\|尼古拉斯·汉斯]]**<br>（Nicholas Hans, 1888–1969）<br>敖德萨学脉与伦敦大学国王学院 | 欧洲主权国家与多民族大国的制度发展史 | **阶梯式三维因素分析框架**（自然因素、宗教因素、世俗因素）；民主综合分析；跨越人文与自然科学边缘的哲学反思 | **建立分类学过滤器与打破冷战意识形态神话** 首创因素分析法，为混乱海量历史数据建立清晰认知[[Coding in Qualitative Research\|编码]]秩序；横向剖析英美政治自由与苏联社会平等的制度实践，得出两者在教育公平上皆存在严重缺陷的客观论断。（pp.49–51） | Hans (1949), *Comparative Education: A Study of Educational Factors and Traditions*<br>“比较教育学坐落于人文科学与自然科学的交界边缘，因而类似于哲学。”（pp.39–40） |
+> | **[[Nicholas Hans\|尼古拉斯·汉斯]]**<br>（Nicholas Hans, 1888–1969）<br>敖德萨学脉与伦敦大学国王学院 | 欧洲主权国家与多民族大国的制度发展史 | **阶梯式三维[[Factorial Interpretive Framework\|因素分析框架]]**（自然因素、宗教因素、世俗因素）；民主综合分析；跨越人文与自然科学边缘的哲学反思 | **建立分类学过滤器与打破冷战意识形态神话** 首创因素分析法，为混乱海量历史数据建立清晰认知[[Coding in Qualitative Research\|编码]]秩序；横向剖析英美政治自由与苏联社会平等的制度实践，得出两者在教育公平上皆存在严重缺陷的客观论断。（pp.49–51） | Hans (1949), *Comparative Education: A Study of Educational Factors and Traditions*<br>“比较教育学坐落于人文科学与自然科学的交界边缘，因而类似于哲学。”（pp.39–40） |
 > | **[[Robert Ulich\|罗伯特·乌利希]]**<br>（Robert Ulich, 1890–1977）<br>魏玛德国高等行政学统与哈佛大学 | 跨越国界的西方文明与思想史长河演进 | **西方思想史四阶段叙事**（中世纪/文艺复兴/理性主义/工业科技）；古典全人[[Bildung\|教化]]（*Paideia*）；以人（*Anthropos*）为中心的质性关怀 | **开辟宏大思想史纵深与筑牢人文科学防线** 摆脱主权国家微观机制束缚，将比较教育嵌入西方文明两千年思想长河，为新兴国家现代转型提供宏观历史参照；抵御纯技术官僚工具主义，确立以人为终极关怀的人文学术品格。（pp.51–52） | Ulich (1961), *The Education of Nations: A Comparison in Historical Perspective*<br>“比较教育是一门以人为中心的人文知识体系，其根本关切应当始终锁定在人身上。”（pp.56–57） |
 
 ---
