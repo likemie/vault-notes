@@ -10,7 +10,7 @@ aliases:
 summary: "指个体理解科学探究运作机制、批判性评估多源证据质量、接纳科学知识的暂定性与不确定性，并在日常生活和公共决策中做出理性判断的核心公民素养，涵盖科学本质理解、数据与算法素养及抵御虚假信息的认知免疫机制。"
 type: concept
 domain: "curriculum"
-related_count: 41
+related_count: 40
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -53,7 +53,6 @@ related_concepts:
   - "[[Questionnaire]]"
 related_facts:
   - "[[PISA]]"
-  - "[[Parliamentary Office of Science and Technology]]"
   - "[[Beyond 2000 Report]]"
   - "[[OECD]]"
   - "[[UK Science Education Tracker]]"
@@ -189,7 +188,7 @@ updated: 2026-09-04
 > 科学素养并非仅仅是中小学生或普通公民的通识素养，更是高级公共政策制定者与立法者履行公职、实现循证治理的前提条件。
 
 > [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|The Royal Society (2026, Ch. 5)]]
-> **立法者信源偏误与全政策社群技能建设** YouGov 2025 针对 108 名英国国会议员的实证调查表明，高达 55% 的议员主要依赖带有立场倾向的智库，仅 22% 使用议会专属法定科技机构（[[Parliamentary Office of Science and Technology|POST]]），仅 12% 查阅国家学术院综合报告；面对开放互联网（47%）与生成式 AI 工具的隐性渗透，议员普遍缺乏判断证据可靠性与稳健性的规程；皇家学会建议十六明确强调，国家必须在整个政策社群（包括政府部委与议会两院）全面推行科学、技术、工程与数学（STEM）研究和数据分析技能培训。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|(The Royal Society, 2026, Ch. 5, pp. 82–83, 88)]]
+> **立法者信源偏误与全政策社群技能建设** YouGov 2025 针对 108 名英国国会议员的实证调查表明，高达 55% 的议员主要依赖带有立场倾向的智库，仅 22% 使用议会专属法定科技机构（POST），仅 12% 查阅国家学术院综合报告；面对开放互联网（47%）与生成式 AI 工具的隐性渗透，议员普遍缺乏判断证据可靠性与稳健性的规程；皇家学会建议十六明确强调，国家必须在整个政策社群（包括政府部委与议会两院）全面推行科学、技术、工程与数学（STEM）研究和数据分析技能培训。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|(The Royal Society, 2026, Ch. 5, pp. 82–83, 88)]]
 
 ---
 

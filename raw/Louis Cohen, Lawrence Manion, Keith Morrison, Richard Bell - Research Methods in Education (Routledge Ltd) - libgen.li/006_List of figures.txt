@@ -1,0 +1,304 @@
+List of figures
+===============
+
+Figures
+
+1.1
+
+The subjective-objective dimension
+
+2.1
+
+Steps in an ‘ideal’ participatory research approach
+
+2.2
+
+Positivist, interpretive and critical paradigms in educational research
+
+4.1
+
+Two unrelated factors caused by a third factor
+
+4.2
+
+Positive and negative causes on an effect
+
+4.3
+
+Modelling causes and effects
+
+5.1
+
+Seedhouse’s ethical pyramidal grid
+
+7.1
+
+A planning sequence for research
+
+7.2
+
+Understanding the levels of organizational culture
+
+8.1
+
+Distribution of sample means showing the spread of a selection of sample means around the population mean
+
+8.2
+
+Snowball sampling
+
+11.1
+
+Stages in the planning of naturalistic, qualitative and ethnographic research
+
+11.2
+
+Elements of a qualitative research design
+
+11.3
+
+Seven steps in qualitative data analysis
+
+11.4
+
+Five stages in critical ethnography
+
+13.1
+
+Stages on the planning of a survey
+
+13.2
+
+Types of developmental research
+
+14.1
+
+A typology of observation studies
+
+15.1
+
+Four types of ex post facto research
+
+15.2
+
+Two causes and two effects
+
+16.1
+
+Independent and dependent variables
+
+16.2
+
+The ‘true’ experiment
+
+16.3
+
+Interaction effects in an experiment
+
+16.4
+
+Two groups receiving both conditions (repeated measures)
+
+16.5
+
+The ABAB design
+
+16.6
+
+An ABAB design in an educational setting
+
+17.1
+
+Class size and learning in well-controlled and poorly controlled studies
+
+18.1
+
+A model of emancipatory action research for organizational change
+
+18.2
+
+The full action research cycle
+
+18.3
+
+A framework for action research
+
+20.1
+
+A flow chart technique for question planning
+
+20.2
+
+A flow chart for the planning of a postal survey
+
+21.1
+
+Methods of administering interviews
+
+22.1
+
+A sociogram in sociometry
+
+22.2
+
+Graphic network portraying strengths or types of relationship
+
+23.1
+
+Continua of observation
+
+25.1
+
+Simple grid layout
+
+25.2
+
+A completed grid
+
+25.3
+
+A grid cluster representation
+
+25.4
+
+A self-identity plot
+
+25.5
+
+Spatial representation of elements and constructs
+
+28.1
+
+Edited screen shot of emails in a threaded conversation
+
+32.1
+
+An early twentieth-century photograph of children in an art lesson
+
+32.2
+
+Matching the viewer’s field of vision and the shape of the main part of a photograph
+
+34.1
+
+Test scores of two groups
+
+34.2
+
+The predictions of a one-tailed test that predicts a higher score
+
+34.3
+
+The predictions of a one-tailed test that predicts a lower score
+
+34.4
+
+The predictions of a two-tailed test
+
+34.5
+
+The normal curve of distribution
+
+34.6
+
+Skewed distributions
+
+34.7
+
+How well learners are cared for, guided and supported
+
+34.8
+
+Staff voluntarily taking on coordination roles
+
+34.9
+
+Types of kurtosis
+
+35.1
+
+A line graph of test scores
+
+35.2
+
+Distribution around a mean with an outlier
+
+35.3
+
+A platykurtic distribution of scores
+
+35.4
+
+A leptokurtic distribution of scores
+
+35.5
+
+Correlation scatterplots
+
+35.6
+
+A line diagram to indicate curvilinearity
+
+35.7
+
+Visualization of correlation of 0.65 between reading grade and arithmetic grade
+
+35.8
+
+SPSS output from partial correlation, controlling for socio-economic status
+
+35.9
+
+SPSS output for partial correlations, controlling for part-time work
+
+36.1
+
+Graphic plots of two sets of scores on a dependent variable
+
+36.2
+
+A scatterplot with the regression line (SPSS output)
+
+36.3
+
+A scatterplot with grid lines and regression line (SPSS output)
+
+36.4
+
+Multiple regression to determine relative weightings
+
+36.5
+
+Standardizing scores
+
+37.1
+
+A scree plot
+
+37.2
+
+Three-dimensional rotation
+
+37.3
+
+Cluster analysis
+
+37.4
+
+Students’ perceptions of social episodes
+
+37.5
+
+Perception of social episodes
+
+37.6
+
+Path analysis modelling with AMOS (AMOS output)
+
+37.7
+
+Path analysis with calculations added (AMOS output)
+
+37.8
+
+A structural equation model 695 38.1 Choosing statistical tests for parametric and non-parametric data

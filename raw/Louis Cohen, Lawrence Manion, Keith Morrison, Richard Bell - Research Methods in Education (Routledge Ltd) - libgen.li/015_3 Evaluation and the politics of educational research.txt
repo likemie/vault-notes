@@ -1,0 +1,198 @@
+3 Evaluation and the politics of educational research
+=====================================================
+
+Evaluation and the politics of educational research
+
+CHAPTER 3
+
+This brief chapter confines itself to indicating some of the key similarities and differences between research and evaluation. The chapter sets out:
+
+[图片: images/015_3 Evaluation and the politics of educational research/001_box.jpg | image]
+ similarities between research and evaluation
+
+[图片: images/015_3 Evaluation and the politics of educational research/002_box.jpg | image]
+ differences between research and evaluation
+
+[图片: images/015_3 Evaluation and the politics of educational research/003_box.jpg | image]
+ connections between evaluation, politics and policy making
+
+The chapter is deliberately of an introductory nature only, providing an overview rather than the extended analysis of the opening chapter. This is because many of the points concerning research and evaluation overlap, e.g. their methodologies, ethical issues, sampling, reliability and validity, instrumentation, data analysis.
+
+3.1 Research and evaluation
+
+The chapter introduces only the conceptual and political similarities and differences between research and evaluation, as many of their operational procedures are similar.
+
+Key differences lie in their audiences (evaluations are often commissioned and they become the property of the sponsors and not for the public domain), scope (evaluations often have a more limited scope), purposes (e.g. to judge), setting of the agenda (the evaluator works within a given brief ), uses to which the results are put (e.g. the evaluation might be used to increase or withhold resources), ownership of the data (the evaluator often cedes ownership to the sponsor, upon completion), policy orientation, control of the project (e.g. the sponsor can sponsor but not control the independence of the evaluator), power (the evaluator may have the power to control the operation of the project but not the brief ), and the politics of the situation (e.g. the evaluator may be unable to stand outside the politics of the purposes and uses of, or participants in, an evaluation).
+
+As mentioned in the previous chapter, research and politics are inextricably bound together. This can be taken further, as researchers in education will be advised to pay serious consideration to the politics of their research enterprise and the ways in which politics can steer research. For example one can detect a trend in educational research towards more evaluative research, where, for instance, a researcher’s task is to evaluate the effectiveness (often of the implementation) of given policies and projects. This is particularly true in the case of ‘categorically funded’ and commissioned research – research which is funded by policy makers (e.g. governments, fund-awarding bodies) under any number of different headings that those policy makers devise (Burgess, 1993). On the one hand this is laudable, for it targets research directly towards policy; on the other hand it is dangerous in that it enables others to set the research agenda. Research ceases to become open-ended, pure research, and, instead, becomes the evaluation of given initiatives. Less politically charged, much research is evaluative, and indeed there are many similarities between research and evaluation. The two overlap but possess important differences.
+
+The problem of trying to identify differences between evaluation and research is compounded because not only do they share several of the same methodological characteristics but one branch of research is called evaluative research or applied research.1 This is often kept separate from ‘blue skies’ research in that the latter is open-ended, exploratory, contributes something original to the substantive field and extends the frontiers of knowledge and theory whereas in the former the theory is given rather than interrogated or tested. As Plewis and Mason (2005: 192) suggest, evaluation research is, at heart, applied research that uses the tools of research in the social sciences to provide answers to the effectiveness and effects of programmes. One can detect many similarities between the two in that they both use methodologies and methods of social science research generally, covering, for example:
+
+[图片: images/015_3 Evaluation and the politics of educational research/004_box.jpg | image]
+ the need to clarify the purposes of the investigation;
+
+[图片: images/015_3 Evaluation and the politics of educational research/005_box.jpg | image]
+ the need to operationalize purposes and areas of investigation;
+
+[图片: images/015_3 Evaluation and the politics of educational research/006_box.jpg | image]
+ the need to address principles of research design that include:
+
+a formulating operational questions;
+
+b deciding appropriate methodologies;
+
+c deciding which instruments to use for data collection;
+
+d deciding on the sample for the investigation;
+
+e addressing reliability and validity in the investigation and instrumentation;
+
+f addressing ethical issues in conducting the investigation;
+
+g deciding on data analysis techniques;
+
+h deciding on reporting and interpreting results.
+
+Indeed Norris (1990: 97) argues that evaluation applies research methods to shed light on a problem of action; he suggests that evaluation can be viewed as an extension of research, because it shares its methodologies and methods, and because evaluators and researchers possess similar skills in conducting investigations. In many senses the eight features outlined above embrace many elements of the scientific method, which Smith and Glass (1987) set out thus:
+
+Step 1: a theory about the phenomenon exists;
+
+Step 2: a research problem within the theory is detected and a research question is devised;
+
+Step 3: a research hypothesis is deduced (often about the relationship between constructs);
+
+Step 4: a research design is developed, operationalizing the research question and stating the null hypothesis;
+
+Step 5: the research is conducted;
+
+Step 6: the null hypothesis is tested based on the data gathered;
+
+Step 7: the original theory is revised or supported based on the results of the hypothesis testing.
+
+Indeed, if steps 1 and 7 were removed then there would be nothing to distinguish between research and evaluation. Both researchers and evaluators pose questions and hypotheses, select samples, manipulate and measure variables, compute statistics and data, and state conclusions. Nevertheless there are important differences between evaluation and research that are not always obvious simply by looking at publications. Publications do not always make clear the background events that gave rise to the investigation, nor do they always make clear the uses of the material that they report, nor do they always make clear what the dissemination rights (Sanday, 1993) are and who holds them. Several commentators set out some of the differences between evaluation and research. For example Smith and Glass (1987) offer eight main differences:
+
+1 The intents and purposes of the investigation – the researcher wants to advance the frontiers of knowledge of phenomena, to contribute to theory and to be able to make generalizations; the evaluator is less interested in contributing to theory or general body of knowledge. Evaluation is more parochial than universal (pp. 33–4).
+
+2 The scope of the investigation – evaluation studies tend to be more comprehensive than research in the number and variety of aspects of a programme that are being studied (p. 34).
+
+3 Values in the investigation – research aspires to value neutrality, evaluations must represent multiple sets of values and include data on these values.
+
+4 The origins of the study – research has its origins and motivation in the researcher’s curiosity and desire to know (p. 34). The researcher is answerable to colleagues and scientists (i.e. the research community) whereas the evaluator is answerable to the ‘client’. The researcher is autonomous whereas the evaluator is answerable to clients and stakeholders. The researcher is motivated by a search for knowledge, the evaluator is motivated by the need to solve problems, allocate resources and make decisions. Research studies are public, evaluations are for a restricted audience.
+
+5 The uses of the study – the research is used to further knowledge, evaluations are used to inform decisions.
+
+6 The timeliness of the study – evaluations must be timely, research need not be. Evaluators’ timescales are given, researchers’ timescales need not be given.
+
+7 Criteria for judging the study – evaluations are judged by the criteria of utility and credibility, research is judged methodologically and by the contribution that it makes to the field (i.e. internal and external validity).
+
+8 The agendas of the study – an evaluator’s agenda is given, a researcher’s agenda is her own.
+
+Norris (1990) reports an earlier piece of work by Glass and Worthen in which they identified eleven main differences between evaluation and research:
+
+1 The motivation of the enquirer – research is pursued largely to satisfy curiosity, evaluation is undertaken to contribute to the solution of a problem.
+
+2 The objectives of the search – research and evaluation seek different ends. Research seeks conclusions, evaluation leads to decisions.
+
+3 Laws versus description – research is the quest for laws (nomothetic), evaluation merely seeks to describe a particular thing (idiographic).
+
+4 The role of explanation – proper and useful evaluation can be conducted without producing an explanation of why the product or project is good or bad or of how it operates to produce its effects.
+
+5 The autonomy of the enquiry – evaluation is undertaken at the behest of a client, while researchers set their own problems.
+
+6 Properties of the phenomena that are assessed – evaluation seeks to assess social utility directly, research may yield evidence of social utility but often only indirectly.
+
+7 Universality of the phenomena studied – researchers work with constructs having a currency and scope of application that make the objects of evaluation seem parochial by comparison.
+
+8 Salience of the value question – in evaluation value questions are central and usually determine what information is sought.
+
+9 Investigative techniques – while there may be legitimate differences between research and evaluation methods, there are far more similarities than differences with regard to techniques and procedures for judging validity.
+
+10 Criteria for assessing the activity – the two most important criteria for judging the adequacy of research are internal and external validity, for evaluation they are utility and credibility.
+
+11 Disciplinary base – the researcher can afford to pursue enquiry within one discipline and the evaluator cannot.
+
+A clue to some of the differences between evaluation and research can be seen in the definition of evaluation. Most definitions of evaluation include reference to several key features: (1) answering specific, given questions; (2) gathering information; (3) making judgements; (4) taking decisions; (5) addressing the politics of a situation (Morrison, 1993: 2). Morrison provides one definition of evaluation as: the provision of information about specified issues upon which judgements are based and from which decisions for action are taken (1993: 2). This view echoes MacDonald in his comments that the evaluator:
+
+is faced with competing interest groups, with divergent definitions of the situation and conflicting informational needs. . . . He has to decide which decision makers he will serve, what information will be of most use, when it is needed and how it can be obtained. . . . The resolution of these issues commits the evaluator to a political stance, an attitude to the government of education. No such commitment is required of the researcher. He stands outside the political process, and values his detachment from it. For him the production of new knowledge and its social use are separated. The evaluator is embroiled in the action, built into a political process which concerns the distribution of power, i.e. the allocation of resources and the determination of goals, roles and tasks. . . . When evaluation data influences power relationships the evaluator is compelled to weight carefully the consequences of his task specification. . . . The researcher is free to select his questions, and to seek answers to them. The evaluator, on the other hand, must never fall into the error of answering questions which no one but he is asking
+
+(MacDonald, 1987: 42)
+
+MacDonald argues that evaluation is an inherently political enterprise. His much-used threefold typology of evaluations as autocratic, bureaucratic and democratic is premised on a political reading of evaluation (see also Chelinsky and Mulhauser (1993) who refer to ‘the inescapability of politics’ (p. 54) in the world of evaluation). MacDonald (1987), noting that ‘educational research is becoming more evaluative in character’ (p. 101), argues for research to be kept out of politics and for evaluation to square up to the political issues at stake:
+
+The danger therefore of conceptualizing evaluation as a branch of research is that evaluators become trapped in the restrictive tentacles of research respectability. Purity may be substituted for utility, trivial proofs for clumsy attempts to grasp complex significance. How much more productive it would be to define research as a branch of evaluation, a branch whose task it is to solve the technological problems encountered by the evaluator.
+
+(MacDonald, 1987: 43)
+
+However, the truth of the matter is far more blurred than these distinctions suggest. Two principle causes of this blurring lie in the funding and the politics of both evaluation and research. For example, the view of research as uncontaminated by everyday life is naive and simplistic; Norris (1990: 99) argues that such an antiseptic view of research ignores the social context of educational research, some of which is located in the hierarchies of universities and research communities and the funding support provided for some research projects but not all is by governments. His point has a pedigree that reaches back to Kuhn (1962), and is commenting on the politics of research funding and research utilization. For over two decades one can detect a huge rise in ‘categorical’ funding of projects, i.e. defined, given projects (often by government or research sponsors) for which bids have to be placed. This may seem unsurprising if one is discussing research grants by government bodies, which are deliberately policy oriented, though one can also detect in projects that have been granted by non-governmental organizations (e.g. the Economic and Social Research Council in the UK) a move towards sponsoring policy-oriented projects rather than the ‘blue skies’ research mentioned earlier. Indeed Burgess (1993: 1) argues that ‘researchers are little more than contract workers . . . research in education must become policy relevant . . . research must come closer to the requirement of practitioners’.
+
+This view is reinforced by several articles in the collection edited by Anderson and Biddle (1991) which show that research and politics go together uncomfortably because researchers have different agendas and longer timescales than politicians and try to address the complexity of situations, whereas politicians, anxious for short-term survival want telescoped timescales, simple remedies and research that will be consonant with their political agendas. Indeed James (1993) argues that
+
+the power of research-based evaluation to provide evidence on which rational decisions can be expected to be made is quite limited. Policy-makers will always find reasons to ignore, or be highly selective of, evaluation findings if the information does not support the particular political agenda operating at the time when decisions have to be made.
+
+(James, 1993: 135)
+
+The politicization of research has resulted in funding bodies awarding research grants for categorical research that specify timescales and the terms of reference. Burgess’s view also points to the constraints under which research is undertaken; if it is not concerned with policy issues then research tends not to be funded. One could support Burgess’s view that research must have some impact on policy making.
+
+Not only is research becoming a political issue, but this extends to the use being made of evaluation studies. It was argued above that evaluations are designed to provide useful data to inform decision making. However, as evaluation has become more politicized so its uses (or non-uses) have become more politicized. Indeed Norris (1990) shows how politics frequently overrides evaluation or research evidence. He writes (p. 135) that the announcement of the decision to extend the Technical and Vocational Education Initiation (TVEI) project in the UK was made without any evaluation reports having been received from evaluation teams in Leeds or the National Foundation for Educational Research. This echoes James (1993) where she writes:
+
+The classic definition of the role of evaluation as providing information for decision makers . . . is a fiction if this is taken to mean that policy-makers who commission evaluations are expected to make rational decisions based on the best (valid and reliable) information available to them.
+
+(James, 1993: 119)
+
+Where evaluations are commissioned and have heavily political implications, Stronach and Morris (1994) argue that the response to this is that evaluations become more ‘conformative’, possessing several characteristics:
+
+1 Short-term, taking project goals as given, and supporting their realization.
+
+2 Ignoring the evaluation of longer-term learning outcomes, or anticipated economic/social consequences of the programme.
+
+3 Giving undue weight to the perceptions of programme participants who are responsible for the successful development and implementation of the programme; as a result, tending to ‘over-report’ change.
+
+4 Neglecting and ‘under-reporting’ the views of classroom practitioners, and programme critics.
+
+5 Adopting an atheoretical approach, and generally regarding the aggregation of opinion as the determination of overall significance.
+
+6 Involving a tight contractual relationship with the programme sponsors that either disbars public reporting, or encourages self-censorship in order to protect future funding prospects.
+
+7 Undertaking various forms of implicit advocacy for the programme in its reporting style.
+
+8 Creating and reinforcing a professional schizophrenia in the research and evaluation community, whereby individuals come to hold divergent public and private opinions, or offer criticisms in general rather than in particular, or quietly develop ‘academic’ critiques which are at variance with their contractual evaluation activities, alternating between ‘critical’ and ‘conformative’ selves.
+
+The argument so far has been confined to large-scale projects that are influenced by and may or may not influence political decision making. However the argument need not remain there. Morrison (1993), for example, indicates how evaluations might influence the ‘micro-politics of the school’. Hoyle (1986), for example, asks whether evaluation data are used to bring resources into, or take resources out of, a department or faculty. In this respect the evaluator may have to choose carefully his or her affinities and allegiances (Barton, 2002), as the outcomes and consequences of the evaluation may call these into question. He writes that, although the evaluator may wish to remain passive and apolitical, in reality this view is not shared by those who commission the evaluation or the reality of the situation, not least when the evaluation data are used in ways that distort the data or use them selectively to justify different options (p. 377).
+
+The issue does not relate only to evaluations, for school-based research, far from the emancipatory claims for it made by action researchers (e.g. Carr and Kemmis, 1986; Grundy, 1987), is often concerned more with finding out the most successful ways of organization, planning, teaching and assessment of a given agenda rather than setting agendas and following one’s own research agendas. This is problem-solving rather than problem-setting. That evaluation and research are being drawn together by politics at both a macro-and micro-level is evidence of a growing interventionism by politics into education, thus reinforcing the hegemony of the government in power. Several points have been made here:
+
+[图片: images/015_3 Evaluation and the politics of educational research/007_box.jpg | image]
+ there is considerable overlap between evaluation and research;
+
+[图片: images/015_3 Evaluation and the politics of educational research/008_box.jpg | image]
+ there are some conceptual differences between evaluation and research, though, in practice, there is considerable blurring of the edges of the differences between the two;
+
+[图片: images/015_3 Evaluation and the politics of educational research/009_box.jpg | image]
+ the funding and control of research and research agendas reflect the persuasions of political decision makers;
+
+[图片: images/015_3 Evaluation and the politics of educational research/010_box.jpg | image]
+ evaluative research has increased in response to categorical funding of research projects;
+
+[图片: images/015_3 Evaluation and the politics of educational research/011_box.jpg | image]
+ the attention being given to, and utilization of, evaluation varies according to the consonance between the findings and their political attractiveness to political decision makers.
+
+In this sense the views expressed earlier by MacDonald (1987) are now little more than a historical relic; there is very considerable blurring of the edges between evaluation and research because of the political intrusion into, and use of, these two types of study. One response to this can be seen in Burgess’s (1993) view that a researcher needs to be able to meet the sponsor’s requirements for evaluation whilst also generating research data (engaging the issues of the need to negotiate ownership of the data and intellectual property rights).
+
+3.2 Research, politics and policy making
+
+The preceding discussion has suggested that there is an inescapable political dimension to educational research, both in the macro-and micro-political senses. In the macro-political sense this manifests itself in funding arrangements, where awards are made provided that the research is ‘policy-related’ (Burgess, 1993) – guiding policy decisions, improving quality in areas of concern identified by policy makers, facilitating the implementation of policy decisions, evaluating the effects of the implementation of policy. Burgess notes a shift here from a situation where the researcher specifies the topic of research and towards the sponsor specifying the focus of research. The issue of sponsoring research reaches beyond simply commissioning research towards the dissemination (or not) of research – who will receive or have access to the findings and how the findings will be used and reported. This, in turn, raises the fundamental issue of who owns and controls data, and who controls the release of research findings. Unfavourable reports might be withheld for a time, suppressed or selectively released. Research can be brought into the service of wider educational purposes – the politics of a local education authority, or indeed the politics of government agencies.
+
+Though research and politics intertwine, the relationships between educational research, politics and policy making are complex because research designs strive to address a complex social reality (Anderson and Biddle, 1991); a piece of research does not feed simplistically or directly into a specific piece of policy making. Rather, research generates a range of different types of knowledge – concepts, propositions, explanations, theories, strategies, evidence, methodologies (Caplan, 1991). These feed subtly and often indirectly into the decision-making process, providing, for example, direct inputs, general guidance, a scientific gloss, orienting perspectives, generalizations and new insights. Basic and applied research have significant parts to play in this process.
+
+The degree of influence exerted by research depends on careful dissemination: too little and its message is ignored; too much and data overload confounds decision makers and makes them cynical – the syndrome of the boy who cried wolf (Knott and Wildavsky, 1991). Hence researchers must give care to utilization by policy makers (Weiss, 1991a), reduce jargon, provide summaries and improve links between the two cultures of researchers and policy makers (Cook, 1991) and, further, to the educational community. Researchers must cultivate ways of influencing policy, particularly when policy makers can simply ignore research findings, commission their own research (Cohen and Garet, 1991) or underfund research into social problems (Coleman, 1991; Thomas, 1991). Researchers must recognize their links with the power groups who decide policy. Research utilization takes many forms depending on its location in the process of policy making, e.g. in research and development, problem-solving, interactive and tactical models (Weiss, 1991b). Researchers will have to judge the most appropriate forms of utilization of their research (Alkin et al., 1991).
+
+The impact of research on policy making depends on its degree of consonance with the political agendas of governments (Thomas, 1991) and policy makers anxious for their own political survival (Cook, 1991) and the promotion of their social programmes. Research is used if it is politically acceptable. That the impact of research on policy is intensely and inescapably political is a truism (Selleck, 1991; Kamin, 1991; Horowitz and Katz, 1991; Wineburg, 1991). Research too easily becomes simply an ‘affirmatory text’ which ‘exonerates the system’ (Wineburg, 1991) and is used by those who seek to hear in it only echoes of their own voices and wishes (Kogan and Atkin, 1991).
+
+There is a significant tension between researchers and policy makers. The two parties have different, and often conflicting, interests, agendas, audiences, timescales, terminology and concern for topicality (Levin, 1991). These have huge implications for research styles. Policy makers anxious for the quick fix of superficial facts, unequivocal data, short-term solutions and simple, clear remedies for complex and generalized social problems (Cartwright, 1991; Cook, 1991; Radford, 2008: 506) – the Simple Impact model (Biddle and Anderson, 1991; Weiss, 1991a, 1991b) – find positivist methodologies attractive, often debasing the data through illegitimate summary. Moreover policy makers find much research too uncertain in its effects (Kerlinger, 1991; Cohen and Garet, 1991), dealing in a Weltanschauung rather than specifics, and being too complex in its designs and of limited applicability (Finn, 1991). This, reply the researchers, misrepresents the nature of their work (Shavelson and Berliner, 1991) and belies the complex reality which they are trying to investigate (Blalock, 1991). Capturing social complexity and serving political utility can run counter to each other. As Radford (2008: 506) remarks, the work of researchers is driven by objectivity, and independence from, or disinterestedness in, ideology, whereas policy makers are driven by interests, ideologies and values.
+
+The issue of the connection between research and politics – power and decision making – is complex. On another dimension, the notion that research is inherently a political act because it is part of the political processes of society has not been lost on researchers. Usher and Scott (1996: 176) argue that positivist research has allowed a traditional conception of society to be preserved relatively unchallenged – the white, male, middle-class researcher – to the relative exclusion of ‘others’ as legitimate knowers. That this reaches into epistemological debate is evidenced in the issues of who defines the ‘traditions of knowledge’ and the disciplines of knowledge; the social construction of knowledge has to take into account the differential power of groups to define what is worthwhile research knowledge, what constitutes acceptable foci and methodologies of research and how the findings will be used.
+
+[图片: images/015_3 Evaluation and the politics of educational research/012_common.jpg | image]
+Companion Website
+
+The companion website to the book includes PowerPoint slides for this chapter, which list the structure of the chapter and then provide a summary of the key points in each of its sections. This resource can be found online at www.routledge.com/textbooks/cohen7e.

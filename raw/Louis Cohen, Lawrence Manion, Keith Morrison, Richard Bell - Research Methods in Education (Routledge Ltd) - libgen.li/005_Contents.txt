@@ -1,0 +1,814 @@
+Contents
+========
+
+Contents
+
+List of figures
+
+List of tables
+
+List of boxes
+
+List of contributors
+
+Preface to the seventh edition
+
+Acknowledgements
+
+PART 1
+
+The context of educational research
+
+1 The nature of enquiry: setting the field
+
+1.1 Introduction
+
+1.2 The search for truth
+
+1.3 Two conceptions of social reality
+
+1.4 Positivism
+
+1.5 The assumptions and nature of science
+
+1.6 The tools of science
+
+1.7 The scientific method
+
+1.8 Criticisms of positivism and the scientific method
+
+1.9 Alternatives to positivistic social science-naturalistic approaches
+
+1.10 A question of terminology: the normative and interpretive paradigms
+
+1.11 Phenomenology, ethnomethodology and symbolic interactionism
+
+1.12 Criticisms of the naturalistic and interpretive approaches
+
+1.13 Mixed methods research: a new paradigm?
+
+1.14 Is mixed methods research a new paradigm?
+
+1.15 A note on post-positivism, postmodernism and post-structuralism
+
+1.16 The paradigm of complexity theory
+
+2 Critical educational research
+
+2.1 Critical theory and critical educational research
+
+2.2 Criticisms of approaches from critical theory
+
+2.3 Critical theory and curriculum research
+
+2.4 Participatory research and critical theory
+
+2.5 Feminist research
+
+2.6 A note on post-colonial theory and queer theory
+
+2.7 A summary of three major paradigms
+
+3 Evaluation and the politics of educational research
+
+3.1 Research and evaluation
+
+3.2 Research, politics and policy making
+
+4 The search for causation
+
+4.1 Causes and conditions
+
+4.2 Causal inference and probabilistic causation
+
+4.3 Causation, explanation, prediction and correlation
+
+4.4 Causal over-determination
+
+4.5 The timing and scope of the cause and the effect
+
+4.6 Causal direction, directness and indirectness
+
+4.7 Establishing causation
+
+4.8 The role of action narratives in causation
+
+4.9 Researching causes and effects
+
+4.10 Researching the effects of causes
+
+4.11 Researching the causes of effects
+
+4.12 Conclusion
+
+PART 2
+
+Planning educational research
+
+5 The ethics of educational and social research
+
+5.1 Introduction
+
+5.2 Informed consent
+
+5.3 Access and acceptance
+
+5.4 The field of ethics
+
+5.5 Sources of tension
+
+5.6 Voices of experience
+
+5.7 Ethical dilemmas
+
+5.8 Privacy
+
+5.9 Anonymity
+
+5.10 Confidentiality
+
+5.11 Against privacy, confidentiality and anonymity
+
+5.12 Ethics in electronic research
+
+5.13 Betrayal
+
+5.14 Deception
+
+5.15 Ethics and evaluative research
+
+5.16 Research and regulation: ethical codes and review boards
+
+5.17 Sponsored research
+
+5.18 Responsibilities to the research community
+
+5.19 Conclusion
+
+6 Choosing a research project
+
+6.1 Introduction
+
+6.2 What gives rise to the research project?
+
+6.3 The importance of the research
+
+6.4 The purposes of the research
+
+6.5 Ensuring that the research can be conducted
+
+6.6 Considering research questions
+
+6.7 Considering the scope of the literature review
+
+6.8 Summary of key issues in choosing a research topic or project
+
+7 Planning educational research
+
+7.1 Introduction
+
+7.2 Approaching research planning
+
+7.3 A framework for planning research
+
+7.4 Conducting and reporting a literature review
+
+7.5 Searching for literature on the internet
+
+7.6 Orienting decisions in planning research
+
+7.7 Research design and methodology
+
+7.8 How to operationalize research questions
+
+7.9 Data analysis
+
+7.10 Presenting and reporting the results
+
+7.11 A planning matrix for research
+
+7.12 Managing the planning of research
+
+7.13 A worked example
+
+7.14 Ensuring quality in the planning of research
+
+8 Sampling
+
+8.1 Introduction
+
+8.2 The sample size
+
+8.3 Sampling error
+
+8.4 The representativeness of the sample
+
+8.5 The access to the sample
+
+8.6 The sampling strategy to be used
+
+8.7 Probability samples
+
+8.8 Non-probability samples
+
+8.9 Sampling in qualitative research
+
+8.10 Sampling in mixed methods research
+
+8.11 Planning a sampling strategy
+
+8.12 Conclusion
+
+9 Sensitive educational research
+
+9.1 Introduction
+
+9.2 What is sensitive research?
+
+9.3 Sampling and access
+
+9.4 Ethical issues in sensitive research
+
+9.5 Researching powerful people
+
+9.6 Researching powerless and vulnerable people
+
+9.7 Asking questions
+
+9.8 Conclusion
+
+10 Validity and reliability
+
+10.1 Defining validity
+
+10.2 Validity in quantitative research
+
+10.3 Validity in qualitative research
+
+10.4 Types of validity
+
+10.5 Triangulation
+
+10.6 Validity in mixed methods research
+
+10.7 Ensuring validity
+
+10.8 Reliability
+
+10.9 Reliability in quantitative research
+
+10.10 Reliability in qualitative research
+
+10.11 Validity and reliability in interviews
+
+10.12 Validity and reliability in experiments
+
+10.13 Validity and reliability in questionnaires
+
+10.14 Validity and reliability in observations
+
+10.15 Validity and reliability in tests
+
+10.16 Validity and reliability in life histories
+
+PART 3
+
+Styles of educational research
+
+11 Naturalistic, qualitative and ethnographic research
+
+11.1 Foundations of naturalistic, qualitative and ethnographic enquiry
+
+11.2 Planning naturalistic, qualitative and ethnographic research
+
+11.3 Features and stages of a qualitative study
+
+11.4 Critical ethnography
+
+11.5 Some problems with ethnographic and naturalistic approaches
+
+12 Historical and documentary research in education
+
+GARY MCCULLOCH
+
+12.1 Introduction
+
+12.2 What is a document?
+
+12.3 Primary documents
+
+12.4 In the archive
+
+12.5 Documentary analysis
+
+12.6 Ethical and legal issues
+
+12.7 Conclusions
+
+13 Surveys, longitudinal, cross-sectional and trend studies
+
+13.1 What is a survey?
+
+13.2 Some preliminary considerations
+
+13.3 Planning a survey
+
+13.4 Low response and non-response, and how to reduce them
+
+13.5 Survey sampling
+
+13.6 Longitudinal, cross-sectional and trend studies
+
+13.7 Strengths and weaknesses of longitudinal, cohort and cross-sectional studies
+
+13.8 Postal, interview and telephone surveys
+
+13.9 Internet-based surveys
+
+13.10 Comparing methods of data collection in surveys
+
+14 Case studies
+
+14.1 What is a case study?
+
+14.2 Generalization in case study
+
+14.3 Reliability and validity in case studies
+
+14.4 What makes a good case study researcher?
+
+14.5 Examples of kinds of case study
+
+14.6 Why participant observation?
+
+14.7 Planning a case study
+
+14.8 Data in case studies
+
+14.9 Recording observations
+
+14.10 Writing up a case study
+
+14.11 Conclusion
+
+15 Ex post facto research
+
+15.1 Introduction
+
+15.2 Co-relational and criterion groups designs
+
+15.3 Characteristics of ex post facto research
+
+15.4 Occasions when appropriate
+
+15.5 Advantages and disadvantages of ex post facto research
+
+15.6 Designing an ex post facto investigation
+
+15.7 Procedures in ex post facto research
+
+16 Experiments, quasi-experiments, single-case research and internet-based experiments
+
+16.1 Introduction
+
+16.2 Designs in educational experimentation
+
+16.3 True experimental designs
+
+16.4 A quasi-experimental design: the non-equivalent control group design
+
+16.5 Single-case research: ABAB design
+
+16.6 Procedures in conducting experimental research
+
+16.7 Threats to internal and external validity in experiments
+
+16.8 The timing of the pre-test and the post-test
+
+16.9 Examples from educational research
+
+16.10 The design experiment
+
+16.11 Internet-based experiments
+
+16.12 Conclusion
+
+17 Meta-analysis, research syntheses and systematic reviews
+
+17.1 Evidence-based research
+
+17.2 Meta-analysis
+
+17.3 Research syntheses and systematic reviews
+
+18 Action research
+
+18.1 Introduction
+
+18.2 Defining action research
+
+18.3 Principles and characteristics of action research
+
+18.4 Participatory action research
+
+18.5 Action research as critical praxis
+
+18.6 Action research and complexity theory
+
+18.7 Procedures for action research
+
+18.8 Reporting action research
+
+18.9 Reflexivity in action research
+
+18.10 Some practical and theoretical matters
+
+18.11 Conclusion
+
+19 Virtual worlds in educational research
+
+STEWART MARTIN
+
+19.1 Simulations and virtual worlds
+
+19.2 Theoretical bases of simulations and virtual worlds
+
+19.3 Applications of virtual worlds
+
+19.4 A worked example of virtual world research
+
+19.5 Opportunities and limitations
+
+19.6 Issues and problems in virtual world research
+
+19.7 Using a virtual world and simulations in educational research
+
+19.8 Ethical issues in virtual world research
+
+19.9 Online tools for data collection from virtual worlds
+
+19.10 Conclusions
+
+PART 4
+
+Strategies and instruments for data collection and researching
+
+20 Questionnaires
+
+20.1 Ethical issues
+
+20.2 Approaching the planning of a questionnaire
+
+20.3 Types of questionnaire items
+
+20.4 Asking sensitive questions
+
+20.5 Avoiding pitfalls in question writing
+
+20.6 Sequencing questions
+
+20.7 Questionnaires containing few verbal items
+
+20.8 The layout of the questionnaire
+
+20.9 Covering letters/sheets and follow-up letters
+
+20.10 Piloting the questionnaire
+
+20.11 Practical considerations in questionnaire design
+
+20.12 Administering questionnaires
+
+20.13 Processing questionnaire data
+
+21 Interviews
+
+21.1 Introduction
+
+21.2 Conceptions of the interview
+
+21.3 Purposes of the interview
+
+21.4 Types of interview
+
+21.5 Planning interview-based research procedures
+
+21.6 Group interviewing
+
+21.7 Interviewing children
+
+21.8 Interviewing minority and marginalized people
+
+21.9 Focus groups
+
+21.10 Non-directive, focused, problem-centred and in-depth interviews
+
+21.11 Telephone interviewing
+
+21.12 Ethical issues in interviewing
+
+22 Accounts
+
+22.1 Introduction
+
+22.2 The ethogenic approach
+
+22.3 Characteristics of accounts and episodes
+
+22.4 Procedures in eliciting, analysing and authenticating accounts: an example
+
+22.5 Network analysis
+
+22.6 Discourse analysis
+
+22.7 Analysing social episodes
+
+22.8 Account gathering in educational research: an example
+
+22.9 Problems in gathering and analysing accounts
+
+22.10 Strengths of the ethogenic approach
+
+22.11 A note on stories
+
+23 Observation
+
+23.1 Introduction
+
+23.2 Structured observation
+
+23.3 The need to practise structured observation
+
+23.4 Analysing data from structured observations
+
+23.5 Critical incidents
+
+23.6 Naturalistic and participant observation
+
+23.7 Data analysis for less structured observations
+
+23.8 Natural and artificial settings for observation
+
+23.9 The use of technology in recording observations
+
+23.10 Timing and causality with observational data
+
+23.11 Ethical considerations
+
+23.12 Some cautionary comments
+
+23.13 Conclusion
+
+24 Tests
+
+24.1 What are we testing?
+
+24.2 Parametric and non-parametric tests
+
+24.3 Norm-referenced, criterion-referenced and domain-referenced tests
+
+24.4 Commercially produced tests and researcher-produced tests
+
+24.5 Constructing a test
+
+24.6 Software for preparation of a test
+
+24.7 Devising a pre-test and post-test
+
+24.8 Ethical issues in testing
+
+24.9 Computerized adaptive testing
+
+25 Personal constructs
+
+RICHARD BELL
+
+25.1 Introduction
+
+25.2 Strengths of repertory grid technique
+
+25.3 Working with personal constructs
+
+25.4 Grid analysis
+
+25.5 Some examples of the use of repertory grid in educational research
+
+25.6 Difficulties in the use of repertory grid technique in research
+
+25.7 Resources
+
+26 Role-playing
+
+CARMEL O’SULLIVAN
+
+26.1 Introduction
+
+26.2 What is role-play?
+
+26.3 Why use role-play in research?
+
+26.4 Issues to be aware of when using role-play
+
+26.5 Role-play as a research method
+
+26.6 How does it work?
+
+26.7 Important strategies for successful role-play
+
+26.8 Three examples of research using role-play
+
+27 Visual media in educational research
+
+27.1 Introduction
+
+27.2 Photographs and still images
+
+27.3 Video and moving images
+
+27.4 Artefacts
+
+27.5 Ethical practices in visual research
+
+PART 5
+
+Data analysis
+
+28 approaches to qualitative data analysis
+
+28.1 Introduction
+
+28.2 Data analysis, thick description and reflexivity
+
+28.3 Ethics in qualitative data analysis
+
+28.4 Computer-assisted qualitative data analysis (CAQDAS)
+
+29 Organizing and presenting qualitative data
+
+29.1 Tabulating data
+
+29.2 Seven ways of organizing and presenting data analysis
+
+29.3 Narrative and biographical approaches to data analysis
+
+29.4 Systematic approaches to data analysis
+
+29.5 Methodological tools for analysing qualitative data
+
+30 Coding and content analysis
+
+30.1 Coding
+
+30.2 What is content analysis?
+
+30.3 How does content analysis work?
+
+30.4 A worked example of content analysis
+
+30.5 Reliability in content analysis
+
+31 Discourses: conversations, narratives and autobiographies as texts
+
+31.1 What is a discourse?
+
+31.2 A conversational analysis
+
+31.3 A narrative discourse
+
+31.4 Autobiography
+
+31.5 Conclusion
+
+32 Analysing visual media
+
+32.1 Introduction
+
+32.2 Content analysis
+
+32.3 Discourse analysis
+
+32.4 Grounded theory
+
+32.5 Interpreting images
+
+32.6 Interpreting an image: a worked example
+
+32.7 Analysing moving images
+
+32.8 Concluding remarks
+
+33 Grounded theory
+
+33.1 Introduction
+
+33.2 The tools of grounded theory
+
+33.3 Developing grounded theory
+
+33.4 Evaluating grounded theory
+
+33.5 Preparing to work in grounded theory
+
+34 Approaches to quantitative data analysis
+
+34.1 Scales of data
+
+34.2 Parametric and non-parametric data
+
+34.3 Descriptive and inferential statistics
+
+34.4 Kinds of variables
+
+34.5 Hypotheses
+
+34.6 One-tailed and two-tailed tests
+
+34.7 Distributions
+
+34.8 Statistical significance
+
+34.9 Hypothesis testing
+
+34.10 Effect size
+
+34.11 A note on symbols
+
+35 Descriptive statistics
+
+35.1 Frequencies, percentages and crosstabulations
+
+35.2 Measures of central tendency and dispersal
+
+35.3 Taking stock
+
+35.4 Correlations and measures of association
+
+35.5 Partial correlations
+
+35.6 Reliability
+
+36 Inferential statistics
+
+36.1 Measures of difference between groups
+
+36.2 The t-test
+
+36.3 Analysis of variance
+
+36.4 The chi-square test
+
+36.5 Degrees of freedom
+
+36.6 The Mann-Whitney and Wilcoxon tests
+
+36.7 The Kruskal-Wallis and Friedman tests
+
+36.8 Regression analysis
+
+36.9 Simple linear regression
+
+36.10 Multiple regression
+
+36.11 Standardized scores
+
+36.12 Closing remarks
+
+37 Multidimensional measurement and factor analysis
+
+37.1 Introduction
+
+37.2 Elementary linkage analysis: an example
+
+37.3 Factor analysis
+
+37.4 What to look for in factor analysis output
+
+37.5 Cluster analysis
+
+37.6 Examples of studies using multidimensional scaling and cluster analysis
+
+37.7 Multidimensional data: some words on notation
+
+37.8 Using the chi-square test in a three-way classification table
+
+37.9 A note on structural equation modelling
+
+37.10 A note on multilevel modelling
+
+38 Choosing a statistical test
+
+38.1 Introduction
+
+38.2 How many samples?
+
+38.3 The types of data used
+
+38.4 Choosing the right statistic
+
+38.5 Assumptions of tests
+
+Notes
+
+Bibliography
+
+Index

@@ -1,0 +1,780 @@
+Index
+=====
+
+Index
+
+Absolutism 87–8
+
+access 81–1, 109, 152, 177, 394
+
+accounts 444–54; characteristics of 44–5; examples of 452–3; problems with 453; procedures in 445–8; see also discourse analysis; ethogenic method; network analysis; speech acts; stories
+
+action research 47, 65, 129, 344–61; and complexity theory 351; as critical praxis 349–51; defined 344–6; emancipator 349–51; participatory 348–9, 540; planning of 351–8; principles of 346–8; problems in 359–61; reflexivity in 358; reporting 358–9; see also collaborative action research; Delphi techniques; Nominal Group Technique
+
+Adjusted R-squared see R-squared
+
+agent-based modelling 367
+
+alpha see Cronbach’s alpha
+
+alternative hypothesis see hypothesis
+
+AMOS (Analysis of Moment Structures) 692–5
+
+analysis of variance 645–51, 700–3
+
+analytic induction 557
+
+anonymity 91–3
+
+ANOVA see analysis of variance
+
+anthropological methods see ethnographic methods
+
+artefacts 531–3
+
+assessment 129; see also tests
+
+association see correlation
+
+assumptions of statistical tests 699–703
+
+authenticity 185
+
+autobiography 584–6
+
+axial coding see coding
+
+axiology 3
+
+beneficence 85; see also ethics
+
+beta weighting 662–3, 664–6
+
+betrayal 94–5
+
+bias 153–1, 159–60, 168, 177, 182, 184–5, 187, 192–3, 197, 199, 204–5, 209, 210, 214, 240, 253, 259, 261–2. 271, 285–6, 295, 327, 359, 379, 411, 468, 479, 572, 580
+
+biographies 552–4; see also life histories
+
+CAQDAS (Computer Assisted Qualitative Data Analysis) 542–6, 559, 588
+
+case studies 129, 289–302; defined 289–94; examples of 296–8; observation in 296–300; reliability in 295–6
+
+catalytic validity see validity, kinds of
+
+causation 54–71, 305, 312–14, 470–1; and conditions 54–5; and overdetermination 58–9; and prediction 56–7; direction of 60–1; probabilistic 55–6; researching 65–71
+
+Central Limit Theorem 150
+
+central tendency 627–30; see also mean; median; mode; range; standard deviation; interquartile range
+
+children 79–80, 433–5
+
+chi-square 651–5, 700–3
+
+cluster analysis 685–9
+
+cluster sampling see sampling, kinds of
+
+codes of ethics see ethical codes
+
+coding 428, 543–5, 559–63, 565–7, 569–70, 599–600
+
+cohort studies 267–71, 272–3
+
+collaborative action research see action research
+
+collinearity 402
+
+complexity theory 28–30, 46, 351, 366–7
+
+computerized adaptive testing 494–5
+
+computers see CAQDAS; simulations; SPSS; virtual research
+
+concurrent validity see validity, kinds of
+
+confidence intervals 145–7, 618
+
+confidence levels 147–7
+
+confidentiality 92–3
+
+consequential validity see validity, kinds of
+
+consistency see reliability
+
+constant comparison 557–8, 600–1
+
+constructs, personal see personal constructs
+
+construct validity see validity, kinds of
+
+content analysis 428, 555–6, 563–73, 588–9
+
+content validity see validity, kinds of
+
+contingency tables see chi-square; crosstabulations
+
+continuous variable 608; see also variables
+
+controlling for variables 57, 64, 314, 329, 418, 450, 637–9
+
+convenience sampling see sampling, kinds of
+
+convergent validity see validity, kinds of
+
+conversations 575–8
+
+core variables see grounded theory
+
+correlation 613–15, 630–9, 699, 700, 701–3; co-efficients 635–7; explained 632–4, 635–7; partial 637–9; see also curvilinearity; effect size; Pearson product moment correlation; Spearman rank-order correlation; statistical significance; Type I errors; Type II errors
+
+correlational studies 305–8
+
+cost/benefits ratio 75, 85, 89
+
+covering letters 400–1
+
+covert research 80, 81, 92, 97, 101, 104, 118, 141, 170–2. 174, 175, 176, 178, 228–9, 234, 298, 400–1, 457, 460, 465, 471–2, 515, 529, 533–4
+
+criterion-referenced tests see tests, kinds of
+
+criterion-related validity see validity, kinds of
+
+critical educational research see critical theory
+
+critical ethnography 243–5
+
+critical pedagogy 37
+
+critical theory 15, 31–47
+
+Cronbach’s alpha 639–10
+
+cross sectional studies 267–71, 272–3
+
+CROSSTABS see crosstabulations
+
+crosstabulations 623–7
+
+cultural validity see validity, kinds of
+
+curriculum research 35–7
+
+curve of distribution 611–13, 670
+
+curvilinearity 634–5
+
+Data Protection Act 99, 254, 442
+
+Deception 95–7; see also ethics
+
+‘definition of the situation’ 20, 190, 205, 221, 245, 583
+
+degrees of freedom 654–5
+
+Delphi techniques 357–8
+
+dependability 181, 182, 183, 184, 187, 199, 201, 202–3, 210, 241
+
+dependent variable see variables
+
+descriptive statistics see statistics
+
+descriptive validity see validity, kinds of
+
+design experiment 330–1
+
+diagnostic tests see tests
+
+dichotomous questions see questions
+
+difference testing 641–60, 699, 700–3; see also analysis of variance; Mann-Whitney U-test, Kruskal-Wallis test; t-test
+
+Direct Oblimin rotation see factor analysis
+
+discourse analysis 450–2, 574–87, 590–1
+
+discourses 574–87
+
+documentary research 236, 248–55, 299
+
+domain referencing see tests
+
+ecological validity see validity, kinds of
+
+effect size 183, 185, 294, 325, 327, 336–9, 604, 616–20, 621, 633, 645, 648, 650, 654, 700, 703
+
+eigenvalues 677
+
+elementary linkage analysis 672–4
+
+emancipatory interest 32–6, 37, 43, 46
+
+emic approaches 221, 530
+
+empiricism 7, 9
+
+episodes 444, 445, 452, 685
+
+epistemology 3, 6, 33
+
+errors see Type I error; Type II error
+
+eta 618–20, 700; see also partial eta squared
+
+ethical codes 90, 98–101, 103–4
+
+ethics 75–104, 140; consequential 76; in documentary research 254; in electronic research 94–5; in ethnographies 228–9; in evaluative research 97–8; in experiments 316, 318; in interviews 442–3; in observation 471–2; in questionnaires 377–8; in sensitive research 170–1; in video research 533–4; in virtual research 373; see also covert research
+
+ethnographic methods 128, 219–47, 410; critical 243–5; ethics in 228–9; planning 223–6; see also naturalistic research
+
+ethnomethodology 18–19
+
+ethogenic method 444–5, 454
+
+etic approaches 221–2, 530
+
+evaluative research 48–53, 97–8
+
+evaluative validity see validity, kinds of
+
+event sampling 460–2
+
+evidence-based research 335–6; see also randomized controlled trials
+
+experiments and quasi-experiments 66, 128, 312–34, 698; and ex post facto research 303–10; design experiment 330–1; examples of 328–30; internet-based 331–3; kinds of 316–24; quasi-experiments 315, 322–1; reliability and validity in 326–8; true 313–14, 315–7; see also meta-analysis; pre-test; post-test; randomized controlled trials
+
+ex post facto research 303–11; characteristics of 307–8; planning 309–11
+
+external validity see validity, kinds of
+
+face validity see validity, kinds of
+
+factor analysis 402, 674–84, 699, 700–3
+
+factorial designs in experiments see experiments, kinds of
+
+factor loadings 487, 680–1
+
+feminist research 39–45, 187, 206, 207
+
+field notes 81, 85, 130, 141, 223, 235–6, 238, 299, 300, 357, 465, 466–9, 539, 542, 581; see also accounts; case studies; computers; documentary research; naturalistic research; observation
+
+focus groups 436–7
+
+focused interview see interviews
+
+Frankfurt School see critical theory
+
+F-ratio see analysis of variance
+
+freedom, degrees of see degrees of freedom
+
+frequencies 622–7
+
+Friedman test 656–60, 700–3
+
+gatekeepers 79, 117, 152, 159, 160, 167, 168–9, 170, 232, 234, 436, 466
+
+generalizability 242–3, 294–5
+
+Goffman, E. 510, 512, 581–3
+
+grid technique see personal construct theory
+
+grounded theory 590–1, 598–603; coding in 599–600; constant comparing in 600–1; core variable in 601; procedures in 599–603; saturation in 601
+
+group interviewing 432–5; see also focus groups
+
+Guttman scales see rating scales
+
+Habermas, J. 15, 28, 31–7, 40, 42, 243, 244, 345, 349, 350, 359, 367, 450
+
+halo effect 66, 118, 140, 199, 210, 246, 530
+
+Hawthorne effect 66, 118, 185, 186, 199, 211, 215, 244, 246, 326, 708
+
+hermeneutic interest 32–3, 36
+
+historical research 248–55; see also biographies; life histories; stories
+
+hypothesis 4, 9, 11–13, 33, 49, 115, 116, 117, 127–8, 226, 240, 309, 310, 355, 428, 457, 555, 557, 608–10, 613, 615–16, 620; null hypothesis 49, 127–8, 184, 240, 338, 608–10, 613, 615–16, 620, 633, 641–3, 648, 649, 652–3, 656, 658; see also Type I error; Type II error
+
+hypothesis testing 625–6
+
+ideology 33—4
+
+ideology critique 33–4, 35, 36, 39, 40, 43, 46, 108, 116, 126, 129, 244, 245, 450, 575, 589, 597
+
+idiographic approach to human behaviour 6
+
+illuminative approaches see ethnographic methods
+
+images see photographs; visual media
+
+independent variable see variables
+
+inferential statistics see statistics
+
+informal interview see interview, types of
+
+informants 117, 157, 158, 159, 163, 167, 194, 210, 222, 223, 224, 230, 232, 233, 234, 301, 415, 446, 465, 466; see also ethnographic methods; gatekeepers
+
+informed consent 43, 77–81, 85, 87, 90, 91, 93, 94, 97, 99–100, 101, 103, 104, 140, 159, 170, 171, 228, 259, 281, 285, 340, 360, 373, 422, 442, 471, 472, 494, 533–4, 541, 596
+
+instantaneous sampling 462
+
+interactionism see ethnographic methods; naturalistic research
+
+interests see knowledge-constitutive interests
+
+internal validity see validity, kinds of
+
+internet 93–4, 122–5; ethics in 94–5; internet-based experiments 331–3; internet-based surveys 276–87; see also virtual research
+
+interpretive paradigm 16–18, 46; see also naturalistic methods
+
+interpretive validity see validity, kinds of
+
+interquartile range 629
+
+inter-rater reliability see reliability, kinds of
+
+interval recording 562
+
+interval scale 605, 698–9, 700–3; see also scales of data
+
+interview control questions 417–19
+
+interviews 176–7, 236, 409–13; analysis of 427–31; conduct of 421–6, 435–6; ethical issues 442–3; focused 437–9; group 432–5; nature of 409, 410; non-directive 437–9; planning of 425–1; purposes of 411–2; reliability and validity in 204–5; response modes in 419–21; telephone 94, 439–42; transcription of 426–7; types of 236, 412–15, 437–9; see also children focus groups; questions; triangulation
+
+item analysis see tests
+
+item difficulty see tests
+
+item discriminability see tests
+
+item response theory see tests
+
+jury validity see validity, kinds of
+
+Kelly, G see personal constructs
+
+Kendall’s tau 630, 631, 699
+
+knowledge-constitutive interests 32–6
+
+Kruskal-Wallis test 658–60, 700–3
+
+Kuder-Richardson formula for reliability 212
+
+kurtosis 606, 610–13
+
+laddering see personal constructs
+
+legal issues 254; see also Data Protection Act
+
+levels of data see scales of data
+
+Levene test 618, 642, 644
+
+life histories 130, 214–15, 235, 238, 542
+
+Likert scales see questions, Likert scales; rating scales
+
+linear regression see regression
+
+linkage analysis see elementary linkage analysis
+
+literature review 112, 121–5
+
+logistic regression 666–7
+
+longitudinal studies 238, 266–71, 272–3
+
+Mann-Whitney U test 655–7, 700–3
+
+matched pairs design in experiments see experiments, kinds of
+
+mean 618, 627, 702–3
+
+median scores 627, 702–3
+
+meta-analysis 194, 335–42
+
+Milgram, S. 66, 78, 80, 88, 96, 314, 448, 469
+
+mixed methods 21–6, 47, 111, 117, 120, 126, 162–3, 189, 197–8, 289, 299
+
+mode 627, 702–3
+
+multidimensional measurement 672–91; see also cluster analysis; elementary linkage analysis
+
+multidimensional scaling 452, 487, 507, 672, 684, 686
+
+multilevel modelling 654–5
+
+multi-phase sampling see sampling, kinds of
+
+multiple analysis of variance see analysis of variance
+
+multiple choice questions see questions, multiple choice multiple regression 402, 663–8, 700
+
+narrative 454–5, 552–4, 581–4
+
+naturalistic research 15–17, 219–46, 464–9; ethics in 228–9; observation in 233; planning of 223–6; problems in 245–7; see also ethnographic methods; observation; participant observation
+
+network analysis 448–50
+
+Nominal Group Technique 357–8
+
+nominal scale 605, 698–9, 700–3; see also scales of data
+
+nomothetic approach to human behaviour 6
+
+non-directive interview see interviews
+
+non-maleficence 85, 86, 95, 96, 104, 171, 228, 378, 422, 494, 542; see also ethics
+
+non-parametric data 606, 700
+
+non-parametric tests 630–1, 651–5, 655–60, 700–3
+
+non-participant observation 297–8, 457–9, 461; see also observation; participant observation
+
+non-probability sampling see sampling, kinds of
+
+normative paradigm 17–18
+
+norm-referenced tests see tests
+
+NUD*IST 468, 543, 546, 560, 573; see also CAQDAS
+
+null hypothesis see hypothesis
+
+N-Vivo 162, 189, 468, 543, 544, 546, 560, 573, 588; see also CAQDAS
+
+objectivity 8
+
+Observation 233, 296–300, 454, 456–75; critical incidents 464; duration of 463–4; ethics of 471–2; kinds of 457–9, 464–9; reliability and validity in 209–10, 472–4; structured 454–64; see also accounts; case studies; covert research; field notes; non-participant observation; participant observation
+
+one-tailed tests 610–11
+
+one-way analysis of variance see analysis of variance
+
+ontology 3, 4, 33
+
+open-ended interviews see interviews
+
+opportunity sampling see sampling, kinds of
+
+ordinal scale 605, 698–9; see also rating scales; scales of data
+
+panel studies 267–71, 272–3
+
+paradigms 5, 26–7, 28, 45–6
+
+parametric data 606, 700
+
+parametric designs in experiments see experiments, kinds of
+
+parametric tests 630–3, 642–5, 645–51, 660–8, 668–71, 674–84, 691–4, 700–3
+
+partial eta squared 619, 621, 644, 648, 650, 700
+
+participant observation 65, 79, 89, 162, 209, 210, 223, 235, 244, 295, 296–300, 457–9, 464–9, 470, 471, 474, 557; see also case studies, covert research, ethnographic methods; observation; non-participant observation
+
+participatory action research see action research
+
+participatory research 37–9, 540; see also action research; collaborative action research
+
+Pearson’s product moment correlation coefficient 630, 631, 632, 633, 700, 701–3
+
+percentages 622–7, 631–2
+
+personal constructs 496–509; elicited and provided 498–9; examples of 506–7; grid administration and analysis 500–6; laddering 499–500, 501; pyramid constructions in 499–500; repertory grids 496–8; resources for 508–9
+
+phenomenology 18–21; see also definition of the situation; ethnographic methods; interpretive paradigm; naturalistic research
+
+piloting 118, 119, 155, 200, 205, 261, 275, 402, 492
+
+planning educational research 115–42
+
+policy-making and research 52–3
+
+politics 48–53; see also powerful people
+
+population see sampling
+
+positivism 6, 7–8, 14–15, 31, 221
+
+postal surveys 272, 274, 405–7
+
+post-colonial theory 45
+
+post-positivism 5, 6, 26–8
+
+postmodernism 26–8
+
+post-test 493–4; see also experiments, kinds of
+
+power 45, 101, 152, 158, 170, 172–1, 174–6, 177, 205, 206, 208, 237, 348, 435–6, 539, 579–80
+
+power of a test 618
+
+powerful people 152, 165, 166, 170, 172–4, 177, 205, 206, 208, 539
+
+practical interest 32–3, 46; see also hermeneutic interest; knowledge-constitutive interests
+
+prediction 56–7
+
+predictive validity see validity, kinds of
+
+pre-test 493–4; see also experiments, kinds of
+
+primary source of data 249–52
+
+principal components analysis see factor analysis
+
+privacy 77, 80, 87, 89, 90–3, 94, 98, 99, 104, 159, 171, 224, 287, 299, 358, 377, 436, 471, 472, 542, 583; see also ethics
+
+probabilistic causation see causation
+
+probability sampling see sampling, kinds of
+
+progressive focussing 237, 539–40
+
+purposive sampling see sampling, kinds of
+
+QSR see CAQDAS
+
+qualitative data analysis 537–602; autobiographies in 584–6; coding 543–5, 559–63, 565–7, 569–70, 599–600; computers in 538–9, 542–6, 559, 588; content analysis in 555–6, 563–73; conversations in 575–81; examples of 547–51; grounded theory in 598–603; narrative approaches 552–1, 581—4; photographs 591–6; presenting data in 551–2; systematic approaches to 554–7; visual images in 588–97
+
+quasi-experimental designs see experiments
+
+queer theory 45
+
+questionnaires 377–108, 412; administration of 405–7; computer usage in 276–87; construction and design 402–4; covering letter in 400-; ethical issues in 377–8; layout 399–400; operationalization 379–80; piloting 402; planning 378–81; question types in 382–99, 396–7; reliability and validity in 209, 407; sequence in 397–8; types of 381–2; see also interviews; postal surveys questions; sensitive research; surveys
+
+questions: closed 382–3; constant sum 391–2; contingency 394–5; dichotomous 383; filters 394–5; Likert scales 386–91; matrix 393–4; multiple choice 383–5; nonverbal 398–9 open-ended 383–3, 392; rank ordering 385–6, 391; rating scales 386–91, 462–3; ratio 392; semantic differential scales 397; sensitive 395–6; sequencing 397–8; see also interviews; sensitive research
+
+quota sampling see sampling, kinds of
+
+randomization 313–14, 317, 318, 319
+
+randomized controlled trials 29, 66, 153, 318, 327, 335, 336
+
+random sampling see sampling, kinds of
+
+range 629
+
+ranking response see questions
+
+rating scales 386–91, 462–3; see also questions
+
+ratio scale 605, 698–9; see also scales of data
+
+reactivity 42, 170, 185, 186, 187, 199, 210, 236, 240, 246, 267, 302, 465, 470, 471, 473, 529; see also Hawthorne effect
+
+records see documentary research; field notes; historical research
+
+reflexivity 5, 19, 28, 40, 133, 136, 141, 142, 171, 224–6, 238, 241, 244, 293, 295, 298, 344, 350, 358, 359, 452, 459, 473, 531, 538–41, 554, 559, 575, 580–1, 595–6, 600
+
+regression 661–8, 699, 700, 703; see also multiple regression
+
+relativism 87–8
+
+reliability 179, 199–215, 402, 639-40; equivalence 200; in case studies 295–6; in content analysis 572–3; in experiments 208, 326–8; in interviews 204–7; in life histories 215–5; in observation 209–10, 47 2–4; in qualitative research 201–4; in quantitative research 200–4; in questionnaires 209; internal consistency 201; inter-rater 201, 473–4; in tests 210–14, 483–4; split half 201, 203; stability 200; see also Cronbach’s alpha; dependability; triangulation
+
+repeated measures experiments 314; see also experiments, kinds of
+
+repertory grid see personal constructs
+
+reporting 130, 241–2, 301, 358–9, 431–2
+
+reputational case sampling see sampling, kinds of
+
+research: design 118–42; operationalization 126–7; project 105–13; purposes 107–8; research questions 110–12, 138, 227–8
+
+research questions 23, 24, 25, 110–12, 117, 119, 120, 126–7, 131, 132, 138, 141, 163, 224, 225, 227–8, 431, 552, 565, 586
+
+research syntheses 335, 342–3
+
+respondent validation 83, 134, 134, 180, 181, 182, 185, 192, 202, 240, 299, 435, 541, 542
+
+right to know see ethics
+
+right to privacy see ethics
+
+role 232–4; see also access; ethnographic methods; gatekeepers; naturalistic research
+
+role-playing 510–26; defined 512–3; examples of 522–3, 524–6; issues in 515–8; management of 517–21, 523; strategies for 521–2; uses of 513–5; see also Milgram, S.; Stanford Prison Experiment
+
+R-squared 661–2, 667
+
+sample see sampling, kinds of
+
+sample size 143–9
+
+sampling 139, 143–64, 229; in sensitive research 166–7; sampling error 149–50; sampling, kinds of 153–64: boosted 157; cluster 154–5; complete collection 158; convenience 155–62, 229; critical case 157, 229; dimensional 158; extreme case 157, 229, 230; homogeneous 157, 230; in qualitative research 161–2; in mixed methods research 162–4; intensity 157; maximum variation 157, 230; multi-phase 155; non-probability sample 155–61, 164; opportunity 155–6, 230; probability 153–5, 164; purposive 156; quota 156; random 153, 154, 230; reputational case 157, 230; revelatory 157; snowball 158–60, 230; stage 155; stratified 154; systematic 153—4; theoretical 158, 160, 230, 599; typical case 157, 229, 230; unique case 229; volunteer 160; see also case studies
+
+saturation, in grounded theory 601
+
+scales of data 382–3, 604–6, 698–9
+
+scientific method 12–13
+
+scree plot 677
+
+secondary sources of data 249–52
+
+Second Life 365, 370
+
+self-completion questionnaires 404–5
+
+semantic differential scales 386, 387
+
+semi-structured interviews see interviews, kinds of
+
+sensitive research 88, 165–78, 395–6
+
+significance, statistical see statistical significance; effect size
+
+simulations 362–8, 511; see also Stanford Prison Experiment
+
+single-case research see experiments, kinds of
+
+skewness 606, 610–13, 628–9
+
+snowball sampling see sampling, kinds of
+
+social episodes 452–3
+
+sociogram 448
+
+sociometry 448
+
+Solomon design of experiments 318–19
+
+Spearman-Brown formula for reliability 201, 639
+
+Spearman rank-order correlation 630, 631, 700, 701–3
+
+SPSS (Statistical Package for the Social Sciences) 604, 638, 640, 646, 648–9, 650, 651, 658, 664, 665, 666, 667, 670, 676, 679, 681
+
+stability see reliability
+
+stage sampling see sampling, kinds of
+
+standard deviation 606, 627–9
+
+standard error 210, 212, 642, 646
+
+standard error of mean 150
+
+standard error of proportions 150–1
+
+standardized scores 668–70
+
+Stanford Prison Experiment 66, 87, 314–15, 469, 515, 516, 518, 520, 522
+
+statistical significance 613–16, 634, 635, 638, 642–5, 649–50, 653, 657, 658, 665; see also effect size
+
+statistics 604–703; descriptive 622–40, 700; inferential 641–71, 674–84
+
+stories 454–5
+
+stratified sampling see sampling, kinds of
+
+structural equation modelling 691–4
+
+structured interview see interview, kinds of
+
+structured observation see observation
+
+surveys 128, 256–88; cross-sectional 267–71, 272–3; internet 276–87; longitudinal 266–71, 272–3; planning 259–61; postal 271, 274; sampling 264–6; telephone 274–6; trend studies 267–71, 272–3; see also questionnaires; questions, sampling
+
+symbolic interactionism 17, 18–19; see also ethnographic methods; naturalistic methods
+
+systematic reviews 335, 342–3
+
+systematic sampling see sampling, kinds of
+
+systemic validity see validity, kinds of
+
+technical interest 32–3, 36, 46
+
+telephone interviewing 94, 274–6, 439–42
+
+test/re-test 200
+
+tests 129, 476–95; classical test theory 480–1; commercially produced 479–80; computerized adaptive testing 494–5; construction of 480–92; criterion-referenced 478; domain-referenced 478; ethics of 493; format 488; item analysis 482–7; item difficulty 485–6; tests continued item discriminability 484–6; item response theory 480–1; item writing 488–90; layout of 490; non-parametric 477–8; norm-referenced 478; parametric 477–8; pre-test 493–4; post-test 493–4; purposes of 476–7, 481; reliability and validity in 483–4, 487; scoring 491–2; software in 492–3; timing of 490–1; types of 476–7; see also questions
+
+theoretical validity see validity, kinds of
+
+theory 9–11; see also grounded theory
+
+thick description 17, 93, 162, 180, 183, 187, 195, 220, 241, 290, 444, 466, 538–42
+
+Thurstone scales see questions; rating scales
+
+transcription 538–9; see also case studies; ethnographic methods; field notes; interviews; naturalistic research
+
+trend studies 267–71, 272–3
+
+triangulation 42, 118, 185, 193, 195–7, 230, 295, 464
+
+T-scores 670–1
+
+t-test 642–5, 700–3
+
+Tukey test 647–8, 700
+
+two-tailed test 610–13
+
+Two-way analysis of variance see analysis of variance
+
+Type I error 184, 338, 616, 621, 633, 641
+
+Type II error 184, 616, 621, 633
+
+typical case sampling see sampling, kinds of
+
+unique case sampling see sampling, kinds of
+
+unstructured interview see interview, kinds of
+
+unstructured observation see observation
+
+validity 179–99, 199–215; defined 179–80; in case studies 295–6; in experiments 208, 326–8; in interviews 204–7; in life histories 214–5; in mixed methods research 197–8; in observation 209–10; in qualitative research 180–5, 186, 189; in quantitative research 180–4, 189; in questionnaires 209, 407; in tests 483–4; threats to 183–7, 191–2, 199, 326
+
+validity, kinds of: catalytic 187–8; concurrent 190; consequential 188; construct 188–9; content 188; convergent 189; criterion-related 190; cross-cultural 190–4; cultural 194–5; descriptive 181; discriminant 189; ecological 195; evaluative 182; external 181, 183, 186–7, 195, 295, 326; face 204, 214; internal 181, 183–5, 208, 295, 326, 371; interpretive 181, 187; jury 133, 214; predictive 189, 190, 214, 483; systemic 214; theoretical 181
+
+variables 88, 89, 110, 141, 303, 304–5, 306, 307, 308, 309, 310–22, 325–3, 335, 339, 370, 371, 380–1, 418, 568, 604, 606–8, 621, 623, 631, 635, 641, 645, 649, 650, 660, 661–4, 668, 692–3, 695, 699, 700, 702, 703
+
+varimax rotation see factor analysis
+
+verstehen approaches 32, 34
+
+video research 90, 98, 104, 122, 201, 235, 298, 331, 332, 357, 362, 365, 368, 424, 426, 427, 440, 457, 458, 459, 469, 470, 524–34, 596–7
+
+virtual research 362–74; example of 368–71; ethics in 373; see also internet
+
+virtual worlds see virtual research
+
+visual media 528–34; analysis of 588–97; content analysis in 588–9; discourse analysis in 589–90; ethics in 533–4; example of 592–5; grounded theory in 590–1 ; see also artefacts; photographs; video
+
+voluntarism 6, 7, 29, 78
+
+Whyte, W. 86, 169, 170, 236, 291, 469, 515, 540–1
+
+Wilcoxon test 655–7, 700, 703
+
+writing research reports see reporting
+
+Yates’s correction 653
+
+z-scores 668–71

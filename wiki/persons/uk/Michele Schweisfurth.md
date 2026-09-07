@@ -57,7 +57,7 @@ updated: '2026-07-22'
 
 > [!timeline] 生平与职涯
 > - **2013 年** — 出版著作 *[[Learner-Centred Education]] in International Perspective: Whose Pedagogy for Whose Development?*（Routledge），系统构建 LCE 的国际比较与最低实施标准框架。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 605)]]
-> - **2015 年** — 在 *International Journal of Educational Development* 发表论文，提出 [[Parliamentary Office of Science and Technology|POST]]-2015 教学法议程，警惕高利害[[Test-Based Accountability|考试问责]]对民主教学的压制。
+> - **2015 年** — 在 *International Journal of Educational Development* 发表论文，提出 POST-2015 教学法议程，警惕高利害[[Test-Based Accountability|考试问责]]对民主教学的压制。
 
 ---
 

@@ -7,7 +7,7 @@ aliases:
 summary: "将 STEM 学科与社会科学和人文学科（SSH）深度整合的研究模式，旨在解决需要多学科视角才能应对的复杂社会技术挑战，区别于传统多学科/跨学科研究，强调知识的深度融合而非并列"
 type: concept
 domain: "higher-education"
-related_count: 7
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Responsible Innovation]]"
 related_facts:
   - "[[National Science Foundation]]"
-  - "[[Parliamentary Office of Science and Technology]]"
 related_arguments:
   - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
 confidence: medium
@@ -68,7 +67,7 @@ updated: 2026-06-10
 ## 概念辨析
 
 > [!warning]
-> 峰会代表强调，融合研究不等于走向"后学科"（[[Parliamentary Office of Science and Technology|POST]]-disciplinary）——不是要取消学科边界，而是要更好地理解和认识不同学科可为应对社会、技术和经济挑战带来的各自价值。这要求在学科内部继续建设坚实基础与在学科之间建设有效桥梁之间取得平衡（p.15）。
+> 峰会代表强调，融合研究不等于走向"后学科"（POST-disciplinary）——不是要取消学科边界，而是要更好地理解和认识不同学科可为应对社会、技术和经济挑战带来的各自价值。这要求在学科内部继续建设坚实基础与在学科之间建设有效桥梁之间取得平衡（p.15）。
 
 ## 理论语境
 

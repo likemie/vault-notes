@@ -7,7 +7,7 @@ summary: "通过概念区分、逻辑推理和哲学论证分析教育政策与�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 17
+method_related_count: 16
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -38,8 +38,7 @@ related_arguments:
   - "[[Argument_Biesta_2010_SPE]]"
   - "[[Argument_Slavin_2019_EP]]"
   - "[[Argument_Schaffar_2024_CogentEdu]]"
-related_facts:
-  - "[[Parliamentary Office of Science and Technology]]"
+related_facts: []
 confidence: medium
 status: draft
 created: '2026-05-01'
@@ -58,7 +57,7 @@ updated: '2026-05-18'
 ## 认识论立场
 
 > [!abstract] [[Epistemology|认识论]]立场
-> 属于**后基础主义（[[Parliamentary Office of Science and Technology|POST]]-foundationalist）**[[Paradigm|范式]]。哲学分析不试图建立绝对确定的知识基础（这是方法论的基础主义），而是通过揭示不同立场的**前提[[Hypothesis|假设]]和推论后果**，帮助正在实践和决策的人做出更明智、更具[[Reflexivity|反思性]]的判断。它不声称"这是真理"，而是提供"如果你接受前提 X，那么你必须面对后果 Y"的论证结构。
+> 属于**后基础主义（POST-foundationalist）**[[Paradigm|范式]]。哲学分析不试图建立绝对确定的知识基础（这是方法论的基础主义），而是通过揭示不同立场的**前提[[Hypothesis|假设]]和推论后果**，帮助正在实践和决策的人做出更明智、更具[[Reflexivity|反思性]]的判断。它不声称"这是真理"，而是提供"如果你接受前提 X，那么你必须面对后果 Y"的论证结构。
 
 ## 操作步骤
 

@@ -9,7 +9,7 @@ title: "Argument_Zhao_2020_JEC"
 argument_key: "Argument_Zhao_2020_JEC"
 argument_display_title: "Two decades of havoc: A synthesis of criticism against PISA"
 argument_kind: "journal-article"
-argument_related_count: 16
+argument_related_count: 17
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -40,6 +40,7 @@ related_persons:
 related_facts:
   - "[[PISA]]"
   - "[[OECD]]"
+  - "[[IEA]]"
   - "[[Baby PISA]]"
 related_arguments: []
 sources:
@@ -86,7 +87,7 @@ PISA 的成功是一个绝佳的营销案例。它首先利用了人类对未来
 PISA 巧妙地利用了这种焦虑，提出了三个问题：年轻人是否准备好迎接未来挑战？他们能否有效分析、推理和沟通？他们是否有[[Lifelong Learning|终身学习]]的能力（[[OECD]] 1999, p.7）？这些话语从 1999 年引入 PISA 的文件开始，几乎在所有 PISA 报告中被重复（Sjøberg 2015b）。
 
 > [!info] PISA 的差异化定位
-> 作为[[International Education|国际教育]]评估，PISA 是后来者。在 PISA 之前，国际教育成就评价协会（IEA）自 1960 年代以来一直在运营国际评估，提供 TIMSS and PIRLS 等有影响力的项目。一个后来者要击败建立者，必须提供不同的、更好的东西。PISA 正是这样承诺的。
+> 作为[[International Education|国际教育]]评估，PISA 是后来者。在 PISA 之前，[[IEA|国际教育成就评价协会]]（IEA）自 1960 年代以来一直在运营国际评估，提供 TIMSS and PIRLS 等有影响力的项目。一个后来者要击败建立者，必须提供不同的、更好的东西。PISA 正是这样承诺的。
 >
 > PISA 批评 IEA 的调查集中于与课程直接相关的成果，而学校课程传统上以需要掌握的信息和技术体为建构，在课程领域内较少关注在成人生活中通用的技能，更少关注跨课程的一般能力。PISA 声称克服了这些局限，评估未来生活所需的基本技能，无论是否被学校课程覆盖。
 >

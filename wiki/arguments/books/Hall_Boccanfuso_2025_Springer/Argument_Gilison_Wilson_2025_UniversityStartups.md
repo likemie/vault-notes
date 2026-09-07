@@ -37,7 +37,8 @@ related_concepts:
   - "[[Membership-based Research Consortium]]"
   - "[[Emergence]]"
   - "[[Tracking]]"
-related_theories: []
+related_theories:
+  - "[[Human Capital Theory]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Discourse Analysis]]"
@@ -64,7 +65,7 @@ title: "Argument_Gilison_Wilson_2025_UniversityStartups"
 argument_key: "Argument_Gilison_Wilson_2025_UniversityStartups"
 argument_display_title: "University-Based Startups and Entrepreneurship: A Practical Guide for Industry Collaboration"
 argument_kind: "book"
-argument_related_count: 34
+argument_related_count: 35
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -361,7 +362,7 @@ citation_aliases:
 
 ---
 
-34. 核心结论坦率且克制：产业与大学之间虽然有丰富多样的互动，但这些互动"很少直接催生初创企业"，也"很少是衍生企业获得资金、IP 或进入市场支持等实质性资源的催化剂或重要来源"(p.151)。产业赞助研究尤其很少产生初创企业或合资企业。然而，这并不意味着产业合作在创业领域是无效的。它的价值在于"广泛意义上刺激了有意义的创新和创业"，通过两种途径：一是直接的货币收益，大学获得研究经费，产业产品因吸收了学术成果而增强；二是经验性知识的双向积累，产业获得了对前沿科学的早期认知，大学研究者和衍生企业获得了"市场声音"。这种无形的人力资本（human capital）和 IP 资产的提升，虽然难以量化，但可能在长期中比任何单笔投资都更有价值。
+34. 核心结论坦率且克制：产业与大学之间虽然有丰富多样的互动，但这些互动"很少直接催生初创企业"，也"很少是衍生企业获得资金、IP 或进入市场支持等实质性资源的催化剂或重要来源"(p.151)。产业赞助研究尤其很少产生初创企业或合资企业。然而，这并不意味着产业合作在创业领域是无效的。它的价值在于"广泛意义上刺激了有意义的创新和创业"，通过两种途径：一是直接的货币收益，大学获得研究经费，产业产品因吸收了学术成果而增强；二是经验性知识的双向积累，产业获得了对前沿科学的早期认知，大学研究者和衍生企业获得了"市场声音"。这种无形的[[Human Capital Theory|人力资本]]（human capital）和 IP 资产的提升，虽然难以量化，但可能在长期中比任何单笔投资都更有价值。
 
 > [!example]
 > 一位参与过三次 PoP 项目评审的教育出版集团副总裁，在这过程中建立了一个关于"哪些教育技术方向真的有人愿意买单"的心理模型。两年后当集团决定设立一只 5000 万美元的 EdTech 投资专项基金时，他是投资决策委员会的成员——他过去三年的评审经验变成了基金的"项目筛选直觉"。一群在 PoP 项目中被"毙掉"的项目，让他积累了关于"哪些方向不行"的宝贵负样本知识。这种知识的积累过程是分散的、渐进的、无法在一张电子表格上呈现的——但它是产业-大学长期合作中最被低估的产出（参见 p.151）。
@@ -374,7 +375,7 @@ citation_aliases:
 > **产业在衍生企业中最有价值的贡献**
 > - 提供"市场声音"（voice of the market），包括客户需求、竞争格局、成本驱动因素和商业可行性方面的洞察，是产业为刺激大学创新和创业成功所能提供的最重要、最普遍的高价值输入(p.148)
 > - 当产业在大学或初创企业的邀请下、在正确的时机进入时最有价值，而非产业主动发起衍生企业创建
-> - 产业参与的价值多以间接形式体现，包括货币收益（大学的研究经费、产业的产品增强）以及双方组织人力资本和 IP 资产的经验性积累(p.151)
+> - 产业参与的价值多以间接形式体现，包括货币收益（大学的研究经费、产业的产品增强）以及双方组织[[Human Capital Theory|人力资本]]和 IP 资产的经验性积累(p.151)
 
 > [!warning]
 > **产业直接参与衍生企业创建的结构性障碍**

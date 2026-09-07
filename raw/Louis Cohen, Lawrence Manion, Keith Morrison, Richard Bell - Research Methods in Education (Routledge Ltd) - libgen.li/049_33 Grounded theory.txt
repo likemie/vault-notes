@@ -1,0 +1,254 @@
+33 Grounded theory
+==================
+
+Grounded theory
+
+CHAPTER 33
+
+A mainstream intention or outcome of analysing qualitative data is the generation of grounded theory. We unpack key issues in grounded theory and, along the way, introduce several tools for analysing qualitative data which yield the grounded theory. The chapter includes:
+
+[图片: images/049_33 Grounded theory/001_box.jpg | image]
+ the tools of grounded theory
+
+[图片: images/049_33 Grounded theory/002_box.jpg | image]
+ developing grounded theory
+
+[图片: images/049_33 Grounded theory/003_box.jpg | image]
+ evaluating grounded theory
+
+[图片: images/049_33 Grounded theory/004_box.jpg | image]
+ preparing to work in grounded theory
+
+Readers may find it helpful to refer, also, to Chapters 11 and 30.
+
+33.1 Introduction
+
+Theory generation in qualitative data can be emergent, and grounded theory is an important method of theory generation. It is more inductive than content analysis, as the theories emerge from, rather than exist before, the data. Strauss and Corbin (1994: 273) remark: ‘grounded theory is a general methodology for developing theory that is grounded in data systematically gathered and analysed’. The theory is derived inductively from the analysis and study of, and reflection on, the phenomena under scrutiny (cf. Strauss and Corbin, 1990: 23). Grounded theory, as Moghaddam (2006) avers, is a set of relationships amongst data and categories that proposes a plausible and reasonable explanation of the phenomenon under study, i.e. it explains by drawing on the data generated. It is a method or set of procedures for the generation of theory or for the production of a certain kind of knowledge (Greckhamer and Koro-Ljungberg, 2005: 729). (For a summary sheet of grounded theory principles see the accompanying website.) Though there are different versions of grounded theory, and variations in its forms and episte-mologies (Greckhamer and Koro-Ljungberg, 2005: 731; Buckley and Waring, 2009: 318), nevertheless there are several features in common in these definitions:
+
+[图片: images/049_33 Grounded theory/005_box.jpg | image]
+ theory is emergent rather than predefined and tested;
+
+[图片: images/049_33 Grounded theory/006_box.jpg | image]
+ theory emerges from the data rather than vice versa;
+
+[图片: images/049_33 Grounded theory/007_box.jpg | image]
+ theory generation is a consequence of, and partner to, systematic data collection and analysis;
+
+[图片: images/049_33 Grounded theory/008_box.jpg | image]
+ patterns and theories are implicit in data, waiting to be discovered;
+
+[图片: images/049_33 Grounded theory/009_box.jpg | image]
+ grounded theory is both inductive and deductive, it is iterative and close to the data that give rise to it.
+
+Glaser (1996) suggests that ‘grounded theory is the systematic generation of a theory from data’; it is an inductive process in which everything is integrated and in which data pattern themselves rather than having the researcher pattern them, as actions are integrated and interrelated with other actions. Glaser and Strauss’s (1967) seminal work rejects simple linear causality and the decontextualization of data, and argues that the world which participants inhabit is multivalent, multivariate and connected. As Glaser (1996) says: ‘the world doesn’t occur in a vacuum’ and the researcher has to take account of the interconnectedness of actions. In everyday life, actions are interconnected and people make connections naturally; it is part of everyday living, and hence grounded theory catches the naturalistic element of research and formulates it into a systematic methodology. In seeking to catch the complexity and interconnectedness of everyday actions grounded theory is faithful to how people act; it takes account of apparent inconsistencies, contradictions, discontinuities and relatedness in actions. As Glaser (1996) says: ‘grounded theory is appealing because it tends to get at exactly what’s going on’. Flick (1998: 41) writes that ‘the aim is not to reduce complexity by breaking it down into variables but rather to increase complexity by including context’.
+
+Grounded theory is a systematic theory, using systematized methods (discussed below) of theoretical sampling, coding constant comparison, the identification of a core variable and saturation. Grounded theory is not averse to quantitative methods, it arose out of them (Glaser, 1996) in terms of trying to bring to qualitative data some of the analytic methods applied in statistical techniques (e.g. multivariate analysis). In grounded theory the researcher discovers what is relevant; indeed Glaser and Strauss’s (1967) work is entitled The Discovery of Grounded Theory.
+
+However, where grounded theory parts company with much quantitative, positivist research is in its view of theory. In positivist research the theory pre-exists its testing and the researcher deduces from the data whether the theory is robust and can be confirmed. The data are ‘forced’ into a fit with the theory. Grounded theory, on the other hand, does not force data to fit with a predetermined theory (Glaser and Strauss, 1967: 3); indeed the difference between inductive and deductive research is less clear than it appears to be at first sight. For example, before one can deduce, one has to generate theory and categories inductively. The intention of grounded theory is to build and generate theory rather than to test an existing theory, to provide researchers with tools that they can use to generate this theory through data analysis, to weigh up alternative explanation (e.g. through constant comparison) and to relate concepts in the development of theory (Moghaddam, 2006).
+
+Grounded theory starts with data, which are then analysed and reviewed to enable the theory to be generated from them; it is rooted in the data and little else. Here the theory derives from the data – it is grounded in the data and emerges from it. As Lincoln and Guba (1985: 205) argue, grounded theory must fit the situation that is being researched.
+
+Glaser (1996) writes that ‘forcing methodologies were too ascendant’, not least in positivist research and that grounded theory had to reject forcing or constraining the nature of a research investigation by preexisting theories. As grounded theory sets aside any preconceived ideas, letting the data themselves give rise to the theory, certain abilities are required of the researcher, for example:
+
+[图片: images/049_33 Grounded theory/010_box.jpg | image]
+ tolerance and openness to data and what is emerging;
+
+[图片: images/049_33 Grounded theory/011_box.jpg | image]
+ tolerance of confusion and regression (feeling stupid when the theory does not become immediately obvious);
+
+[图片: images/049_33 Grounded theory/012_box.jpg | image]
+ resistance to premature formulation of theory;
+
+[图片: images/049_33 Grounded theory/013_box.jpg | image]
+ ability to pay close attention to data;
+
+[图片: images/049_33 Grounded theory/014_box.jpg | image]
+ willingness to engage in the process of theory generation rather than theory testing; it is an experiential methodology;
+
+[图片: images/049_33 Grounded theory/015_box.jpg | image]
+ ability to work with emergent categories rather than preconceived or received categories.
+
+As theory is not predetermined, the role of targeted pre-reading is not as strong as in other kinds of research (e.g. using literature reviews to generate issues for the research), indeed it may be dangerous as it may prematurely close off or determine what one sees in data; it may cause one to read data through given lenses rather than anew. As one does not know what one will find, one cannot be sure what one should read before undertaking grounded theory. One should read widely, both within and outside the field, rather than narrowly and in too focused a direction.
+
+There are several elements of grounded theory that contribute to its systematic nature, and it to these that we now turn.
+
+33.2 The tools of grounded theory
+
+There are several common practices that researchers use in grounded theory: theoretical sampling, coding (discussed in the previous chapter), constant comparison, the core variable(s) and ‘saturation’. We discuss these below.
+
+Theoretical sampling
+
+In theoretical sampling, data are collected on an ongoing, iterative basis, and the researcher keeps on adding to the sample until she has enough data to describe what is going on in the context or situation under study and until ‘theoretical saturation’ is reached (discussed below). As one cannot know in advance when this point will be reached, one cannot determine the sample size or representativeness until one is actually doing the research. In theoretical sampling, data collection continues until sufficient data have been gathered to create a theoretical explanation of what is happening and what constitutes its key features. It is not a question of representativeness, but, rather, a question of allowing the theory to emerge. As Chapter 8 reported, Glaser and Strauss (1967: 45) write that theoretical sampling is where, during the data collection process as part of theory generation, the researcher collects data, codes the data and analyses them, and this analysis influences what data to collect next, from whom and where. The data collection process, then, is determined by the emerging theory and its categories. Hence theoretical relevance (how the data contribute to the emerging theory and its categories) is a key criterion for further data collection and sampling, rather than, for example, conventional sampling strategies and criteria.
+
+Coding
+
+Coding is ‘the process of disassembling and reassembling the data. Data are disassembled when they are broken apart into lines, paragraphs or sections. These fragments are then rearranged, through coding, to produce a new understanding that explores similarities, differences, across a number of different cases. The early part of coding should be confusing, with a mass of apparently unrelated material. However, as coding progresses and themes emerge, the analysis becomes more organized and structured (Ezzy, 2002: 94).
+
+In grounded theory there are three types of coding: open, axial and selective coding, the intention of which is to deconstruct the data into manageable chunks in order to facilitate an understanding of the phenomenon in question. Open coding involves exploring the data and identifying units of analysis to code for meanings, feelings, actions, events and so on. The researcher codes up the data, creating new codes and categories and subcategories where necessary, and integrating codes where relevant until the coding is complete. Axial coding seeks to make links between categories and codes, ‘to integrate codes around the axes of central categories’ (Ezzy, 2002: 91); the essence of axial coding is the interconnectedness of categories (Creswell, 1998: 57). Hence codes are explored, their interrelationships are examined, and codes and categories are compared to existing theory. In selective coding a core code is identified, the relationship between that core code and other codes is made clear (Ezzy, 2002: 93), and the coding scheme is compared with pre-existing theory. Creswell (1998: 57) writes that ‘in selective coding, the researcher identifies a “story line” and writes a story that integrates the categories in the axial coding model’.
+
+As coding proceeds the researcher develops concepts and makes connections between them. Flick et al. (2004: 19) argue that ‘repeated coding of data leads to denser concept-based relationships and hence to a theory’, i.e. that the richness of the data is included in the theoretical formulation.
+
+Constant comparison
+
+The application of open, axial and selective coding adopts the method of constant comparison. In constant comparison the researcher compares the new data with existing data and categories, so that the categories achieve a perfect fit with the data. If there is a poor fit between data and categories, or indeed between theory and data, then the categories and theories have to be modified until all the data are accounted for. New and emergent categories are developed in order to be able to incorporate and accommodate data in a good fit, with no discrepant cases. Glaser and Strauss (1967: 102) write that the constant comparative method, in which coding and analysis take place together, even simultaneously, is conducted in order to assist in the process of theory generation; that is its purpose. Further, they argue that theory does not concern itself with universality or any ‘proof’ of putative causation; rather constant comparison seeks only theoretical saturation rather than any intention to consider all available data.
+
+To accompany the constant comparison, and to aid reflexivity, Glaser and Strauss (1967) suggest the value of memoing: where the researcher writes ideas, notes, comments, notes on surprising matters, themes or metaphors, reminders, hunches, draft hypotheses, references to literature, diagrams, questions, draft theories, methodological points, personal points, suggestions for further enquiry, etc. that occur to him/her during the process of constant comparison and data analysis (Lempert, 2007: 245; Flick, 2009: 434). They can be long or short, with verbatim quotations or just notes and jottings, with key points underlined, or simply observations made (Strauss and Corbin, 1990: 202–3). Memos should be dated and referenced to data and codes. Software also enables memos to be written and attached to text.
+
+In constant comparison, discrepant, negative and disconfirming cases are important in assisting the categories and emergent (grounded) theory to fit all the data. Constant comparison is the process ‘by which the properties and categories across the data are compared continuously until no more variation occurs’ (Glaser, 1996), i.e. saturation is reached. In constant comparison data are compared across a range of situations, times, groups of people, and through a range of methods. The process resonates with the methodological notion of triangulation.
+
+Glaser and Strauss (1967: 105–13) suggest that the constant comparison method involves four stages: (i) comparing incidents and data that are applicable to each category; (ii) integrating these categories and their properties; (iii) bounding the theory; (iv) setting out the theory. The first stage here involves coding of incidents and comparing them with previous incidents in the same and different groups and with other data that are in the same category. For this to happen they suggest that unitizing has to be undertaken – dividing the narrative into the smallest pieces of information or text that are meaningful in themselves, e.g. phrases, words, paragraphs. It also involves categorizing: bringing together those unitized texts that relate to each other, that can be put into the same category, together with devising rules to describe the properties of these categories, and checking that there is internal consistency within the unitized text contained in those categories. The second stage involves memoing and further coding. Here ‘the constant comparative units change from comparison of incident with incident to comparison of incident with properties of the category that resulted from initial comparisons of incidents’ (p. 108). The third stage – of delimitation – occurs at the levels of the theory and the categories (p. 110), and in which the major modifications reduce as underlying uniformities and properties are discovered and in which theoretical saturation takes place. The final stage – of writing theory – occurs when the researcher has gathered and generated coded data, memos and a theory, and this is then written in full.
+
+By going through the previous sections of data, particularly the search for confirming, negative and discrepant cases, the researcher is able to keep a ‘running total’ of these cases for a particular theory. The researcher also generates alternative theories for the phenomena under investigation and performs the same count of confirming, negative and discrepant cases. Lincoln and Guba (1985: 253) argue that the theory with the greatest incidence of confirming cases and the lowest incidence of negative and discrepant cases is the most robust.
+
+Constant comparison, LeCompte and Preissle (1993: 256) opine, combines the elements of inductive category coding (discussed above) with simultaneously comparing these with the other events and social incidents that have been observed and coded over time and location. This enables social phenomena to be compared across categories, where necessary giving rise to new dimensions, codes and categories. Glaser (1978) indicates that constant comparison can proceed from the moment of starting to collect data, to seeking key issues and categories, to discovering recurrent events or activities in the data that become categories of focus, to expanding the range of categories. This process can continue during the writing-up period, which should be ongoing, so that a model or explanation of the phenomena can emerge that accounts for fundamental social processes and relationships.
+
+The core variable
+
+Through the use of constant comparison a core variable (or core category) is identified: that variable/category which accounts for most of the data and to which as much as possible is related; that variable around which most data are focused (Strauss and Corbin, 1990: 116). As Flick et al. (2004: 19) suggest: ‘the successive integration of concepts leads to one or more key categories and thereby to the core of the emerging theory’. The core variable is that variable that integrates the greatest number of codes, categories and concepts, and to which most of them are related and with which they are connected. It has the greatest explanatory power; as Glaser (1996) remarks: ‘a concept has to earn its way into the theory by pulling its weight’.
+
+A core variable/category must be central to the category system and the phenomena rather than peripheral to these; it must appear frequently in the data and must fit comfortably and logically to the data rather than be a strained fit. It should have an abstract title but one that is close to the categories and data in question, and it must enable variations to be explained (Strauss and Corbin, 1994).
+
+Saturation
+
+Saturation is reached when no new insights, properties, dimensions, relationships, codes or categories are produced even when new data are added, when all of the data are accounted for in the core categories and sub-categories (Glaser and Strauss, 1967: 61; Creswell, 2002: 450), and when the variable covers variations and processes (Moghaddam, 2006). As Ezzy (2002: 93) remarks: ‘saturation is achieved when the coding that has already been completed adequately supports and fills out the emerging theory’. Of course one can never know for certain that the categories are saturated, as there are limits to induction, i.e. fresh data may come along that refute the existing theory. The partner of saturation is theoretical completeness, when the theory is able to explain the data fully and satisfactorily.
+
+33.3 Developing grounded theory
+
+As a consequence of theoretical sampling, coding, constant comparison, the identification of the core variable and the saturation of data, categories and codes, the grounded theory (of whatever is being theorized) emerges from the data in an unforced manner, accounting for all the data. How adequate the derived theory is can be evaluated against several criteria. Glaser and Strauss (1967: 237) suggest four main criteria:
+
+[图片: images/049_33 Grounded theory/016_box.jpg | image]
+ the closeness of the fit between the theory and the data;
+
+[图片: images/049_33 Grounded theory/017_box.jpg | image]
+ how readily understandable the theory is by the lay persons working in the field, i.e. that it makes sense to them;
+
+[图片: images/049_33 Grounded theory/018_box.jpg | image]
+ the ability of the theory to be general to a ‘multitude of diverse daily situations within the substantive area, not just to a specific type of situation’;
+
+[图片: images/049_33 Grounded theory/019_box.jpg | image]
+ the theory must enable partial control to be exercised over the processes and the structures of day-to-day situations that evolve over time, such that the researcher who is using the theory can have sufficient control of such situations to render it worthwhile to apply the theory to these (p. 245).
+
+Strauss and Corbin (1994: 253–6) suggest several criteria for evaluating the theory:
+
+[图片: images/049_33 Grounded theory/020_box.jpg | image]
+ How adequately and powerfully the theory accounts for the main concerns of the data.
+
+[图片: images/049_33 Grounded theory/021_box.jpg | image]
+ The relevance and utility of the theory for the participants.
+
+[图片: images/049_33 Grounded theory/022_box.jpg | image]
+ The closeness of the fit of the theory to the data and phenomenon being studied, and under what conditions the theory holds true.
+
+[图片: images/049_33 Grounded theory/023_box.jpg | image]
+ The fit of the axial coding to the categories and codes.
+
+[图片: images/049_33 Grounded theory/024_box.jpg | image]
+ The ability of the theory to embrace negative and discrepant cases.
+
+[图片: images/049_33 Grounded theory/025_box.jpg | image]
+ The fit of the theory to literature.
+
+[图片: images/049_33 Grounded theory/026_box.jpg | image]
+ How the original sample was selected, and on what basis.
+
+[图片: images/049_33 Grounded theory/027_box.jpg | image]
+ What major categories emerged?
+
+[图片: images/049_33 Grounded theory/028_box.jpg | image]
+ What were some of the events, incidents, actions, and so on (as indicators) that pointed to some of the major categories?
+
+[图片: images/049_33 Grounded theory/029_box.jpg | image]
+ On the basis of what categories did theoretical sampling proceed? Was it representative of the categories?
+
+[图片: images/049_33 Grounded theory/030_box.jpg | image]
+ What were some of the hypotheses pertaining to conceptual relations (that is, among categories), and on what grounds were they formulated and tested?
+
+[图片: images/049_33 Grounded theory/031_box.jpg | image]
+ Were there instances when hypotheses did not hold up against what was actually seen? How were these discrepancies accounted for? How did they affect the hypotheses?
+
+[图片: images/049_33 Grounded theory/032_box.jpg | image]
+ How and why was the core category selected (sudden, gradual, difficult, easy)? On what grounds?
+
+[图片: images/049_33 Grounded theory/033_box.jpg | image]
+ Were concepts generated and systematically related?
+
+[图片: images/049_33 Grounded theory/034_box.jpg | image]
+ Were there many conceptual linkages between concepts, and were the categories well developed?
+
+[图片: images/049_33 Grounded theory/035_box.jpg | image]
+ Was much variation built into the theory? Are variations explained? Were the broader conditions built into its explanation?
+
+[图片: images/049_33 Grounded theory/036_box.jpg | image]
+ Were change or movement taken into account in the development of the theory?
+
+The essence of this approach, that theory emerges from and is grounded in data, is not without its critics. For example Silverman (1993: 47) suggests that it fails to acknowledge the implicit theories which guide research in its early stages (i.e. data are not theory-neutral but theory saturated) and that it might be strong on providing categorizations without necessarily explanatory potential. These are caveats that should feed into the process of reflexivity in qualitative research.
+
+33.4 Evaluating grounded theory
+
+Strauss and Corbin (1990) indicate that the grounded theory that has been generated should be judged against several criteria:
+
+[图片: images/049_33 Grounded theory/037_box.jpg | image]
+ the reliability, validity and credibility of the data (p. 252);
+
+[图片: images/049_33 Grounded theory/038_box.jpg | image]
+ the adequacy of the research process (p. 252);
+
+[图片: images/049_33 Grounded theory/039_box.jpg | image]
+ the empirical grounding of the research findings (p. 252);
+
+[图片: images/049_33 Grounded theory/040_box.jpg | image]
+ the sampling procedures (p. 253);
+
+[图片: images/049_33 Grounded theory/041_box.jpg | image]
+ the major categories that emerged (p. 253);
+
+[图片: images/049_33 Grounded theory/042_box.jpg | image]
+ the adequacy of the evidence base for the categories that emerged (p. 253);
+
+[图片: images/049_33 Grounded theory/043_box.jpg | image]
+ the adequacy of the basis in the categories that led to the theoretical sampling (p. 253);
+
+[图片: images/049_33 Grounded theory/044_box.jpg | image]
+ the formulation and testing of hypotheses and their relationship to the conceptual relations amongst the categories (p. 253);
+
+[图片: images/049_33 Grounded theory/045_box.jpg | image]
+ the adequacy of the way in which discrepant data were handled (p. 253);
+
+[图片: images/049_33 Grounded theory/046_box.jpg | image]
+ the adequacy of the basis on which the core category was selected (p. 253);
+
+[图片: images/049_33 Grounded theory/047_box.jpg | image]
+ the generation of the concepts (p. 254);
+
+[图片: images/049_33 Grounded theory/048_box.jpg | image]
+ the extent to which the concepts are systematically related (p. 254);
+
+[图片: images/049_33 Grounded theory/049_box.jpg | image]
+ the number and strength of the linkages between categories, and their conceptual density, leading to their explanatory power (p. 255);
+
+[图片: images/049_33 Grounded theory/050_box.jpg | image]
+ the extent of variation that is built into the theory (p. 255);
+
+[图片: images/049_33 Grounded theory/051_box.jpg | image]
+ the extent to which the explanations take account of the broader conditions that affected the phenomenon being studied (p. 255);
+
+[图片: images/049_33 Grounded theory/052_box.jpg | image]
+ the account taken of emergent processes over time in the research (p. 256);
+
+[图片: images/049_33 Grounded theory/053_box.jpg | image]
+ the significance of the theoretical findings (p. 256).
+
+One can note here the emphasis on the procedures and not only on the outcomes of the grounded theory research.
+
+To this can be added the criteria of originality, resonance (the data, the phenomenon, the participants’ experiences and views) and usefulness (for different people and groups, for identifying generic processes, for further research, for advancing the field (Charmaz, 2006: 182–3)), and the criteria of ‘workability’ (practicality and explanatory power), fit with the data, ‘relevance’ (to the situation, to groups, to researchers, to the field) and ‘modifiability’ (in light of additional data) (Glaser and Strauss, 1967).
+
+It can be seen here that grounded theory is not exempted from the conventional criteria of rigorous research.
+
+33.5 Preparing to work in grounded theory
+
+Glaser (1996) offers some useful practical and personal advice for researchers working in the field of grounded theory. He suggests that researchers need to be able to tolerate uncertainty (there is no preconceived theory), confusion (see also Buckley and Waring, 2009: 330), setbacks (e.g. when data disconfirm an emergent theory) and to avoid premature formulation of the theory, but, by constant comparison, enable the final theory to emerge. They need to be open to what is emerging, and not to try to force data to fit a theory but, rather, to ensure that data and theory fit together in an unstrained manner. As he says, ‘forcing is a consequence of an inability to handle confusion and regression [feeling stupid] while you study’. Grounded theory, he avers, is an ‘experiential methodology’, and he advises researchers to ‘just do it’! He also indicates that it might not be useful to do much pre-reading since, as he says ‘you never know what you’re going to find, so how do you know what to read?’. He makes the point that, since grounded theory is not easy, the researcher has to be prepared to work hard to be faithful to the rigour of the process.
+
+[图片: images/049_33 Grounded theory/054_common.jpg | image]
+Companion Website 
+
+The companion website to the book includes PowerPoint slides for this chapter, which list the structure of the chapter and then provide a summary of the key points in each of its sections. In addition there is further information on grounded theory. These resources can be found online at www.routledge.com/textbooks/cohen7e.

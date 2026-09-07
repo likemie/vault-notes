@@ -11,7 +11,7 @@ aliases:
 summary: "指国家在科研与技术发展中追求自主自足、减少对外部人力资本、资金与合作的依赖，并在技术主权与孤立化成本之间寻求平衡的政策与战略导向。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 4
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -25,6 +25,8 @@ related_concepts:
   - "[[Megascience Installations]]"
 related_arguments:
   - "[[Argument_Dezhina_2022_ECO]]"
+related_theories:
+  - "[[Human Capital Theory]]"
 confidence: medium
 status: draft
 created: '2026-06-26'
@@ -41,7 +43,7 @@ updated: '2026-06-26'
 > 科学自给自足（Scientific Autarky）是指在科学与技术领域追求自主自足、降低对外部研究资源（包括科研资金、高水平学者、尖端设备等）和跨国合作依赖的政策导向与战略模式。该导向旨在维护国家的技术与科研主权，但往往会由于国际学术交流受限和竞争性资金减少，而带来科研人员流动性弱化、学术管理僵化及学术竞争力下降等潜在风险 [[Argument_Dezhina_2022_ECO|(Dezhina & Egerev, 2022, pp. 35–37)]]。
 
 > [!concept-lens] 概念透镜
-> - **含义** 指向国家科研系统中的隔离程度以及在科研资源、人力资本、基础设施和资金筹措方面追求自足的战略选择。
+> - **含义** 指向国家科研系统中的隔离程度以及在科研资源、[[Human Capital Theory|人力资本]]、基础设施和资金筹措方面追求自足的战略选择。
 > - **用途** 帮助解析在全球化受阻、地缘政治紧张的背景下，后进国家或受限制国家在科研制度转型与政策管控中的张力。
 > - **边界** 不等于纯粹的科研[[Going Native|本土化]]，其更强调由地缘政治、国家规制和外部制裁等因素交织推动的主动或被动的系统性闭架倾向。
 

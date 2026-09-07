@@ -10,7 +10,7 @@ title: "Argument_Zheng_2023_ShanghaiSanlian"
 argument_key: "Argument_Zheng_2023_ShanghaiSanlian"
 argument_display_title: "金榜题名之后：大学生出路分化之谜"
 argument_kind: "book"
-argument_related_count: 103
+argument_related_count: 104
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -95,6 +95,7 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Statistical Significance]]"
 related_theories:
+  - "[[Human Capital Theory]]"
   - "[[Dual-Process Model of Culture in Action]]"
   - "[[Rational Action Theory]]"
   - "[[Culture as Toolkit]]"
@@ -151,7 +152,7 @@ citation_aliases:
 > [!question]
 > 寒门学子即使冲破了[[Gaokao|高考]]壁垒进入顶尖大学，为何在毕业出路和职业前景上仍然系统性落后于优势阶层同学？大学经历本身在其中扮演了什么角色？
 
-本书从经验谜题出发——"金榜题名"之后的不安：网络热议的"985废物""小镇做题家"、[[Quantitative Research|量化研究]]一再确认的弱势学生出路劣势——指出现有解释（人力资本理论、社会再生产理论）的共同缺陷是将教育视为一种"所有物"（possession），而非一个生成性的"过程"（process）。[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]][[Epoché|悬置]]"经济人"[[Hypothesis|假设]]，走入教育过程的"黑箱"，追问：
+本书从经验谜题出发——"金榜题名"之后的不安：网络热议的"985废物""小镇做题家"、[[Quantitative Research|量化研究]]一再确认的弱势学生出路劣势——指出现有解释（[[Human Capital Theory|人力资本理论]]、社会再生产理论）的共同缺陷是将教育视为一种"所有物"（possession），而非一个生成性的"过程"（process）。[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]][[Epoché|悬置]]"经济人"[[Hypothesis|假设]]，走入教育过程的"黑箱"，追问：
 
 1. 家庭的资源优势如何转化为学生在大学阶段的[[Cultural Capital|文化资本]]？（资本化过程）
 2. 学生在大学里的努力如何转化为出路获得上的优势？（投入过程）
@@ -219,7 +220,7 @@ citation_aliases:
 
 **第二步：指出现有解释的"黑箱"缺陷**
 
-教育社会学两大主流视角——人力资本理论（理性选择）和社会结构再生产理论——都"将教育仅仅视作某种如同资产财货一般的'所有物'（possession），忽略了教育作为一个生成性的'过程'（process）对个体的阶层身份认同、职业目标定向和价值目标的塑造性影响"。
+教育社会学两大主流视角——[[Human Capital Theory|人力资本理论]]（理性选择）和社会结构再生产理论——都"将教育仅仅视作某种如同资产财货一般的'所有物'（possession），忽略了教育作为一个生成性的'过程'（process）对个体的阶层身份认同、职业目标定向和价值目标的塑造性影响"。
 
 两种路径的核心关切都是底层人"有多少能力"将教育成就兑换为职业地位，却疏于关注他们在大学里"成了什么样的人""想兑换什么"。
 

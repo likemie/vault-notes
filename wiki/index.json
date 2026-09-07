@@ -404,6 +404,17 @@
     ]
   },
   {
+    "title": "Comparative Educations",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Comparative Educations.md",
+    "aliases": [
+      "复数比较教育学",
+      "多个比较教育学",
+      "比较教育学的复数化",
+      "plural comparative education"
+    ]
+  },
+  {
     "title": "Comparative History of Comparative Education",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Comparative History of Comparative Education.md",
@@ -1779,7 +1790,7 @@
   {
     "title": "Culture Générale",
     "type": "concept",
-    "path": "wiki/concepts/educational-philosophy/Culture Générale.md",
+    "path": "wiki/concepts/educational-philosophy/Culture Générale.md",
     "aliases": [
       "Culture Generale",
       "普通文化",
@@ -2940,6 +2951,22 @@
     "path": "wiki/concepts/educational-policy-reform/Side Effects.md",
     "aliases": [
       "教育中的副作用"
+    ]
+  },
+  {
+    "title": "Social Science as Legitimation Alibi",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Social Science as Legitimation Alibi.md",
+    "aliases": [
+      "实证社会科学作为合法化借口",
+      "社会科学作为合法化借口",
+      "政策合法化借口",
+      "科学借口",
+      "合法化借口",
+      "social science as alibi",
+      "legitimation alibi",
+      "legitimising alibi",
+      "scientific alibi"
     ]
   },
   {
@@ -9859,8 +9886,10 @@
     "path": "wiki/concepts/research-methodology/Subjectivism.md",
     "aliases": [
       "主观主义",
-      "subjectivist approach",
-      "subjectivist paradigm"
+      "主观主义取向",
+      "主观主义范式",
+      "Subjectivist Approach",
+      "Subjectivist Paradigm"
     ]
   },
   {
@@ -10027,6 +10056,19 @@
       "false positive",
       "false negative",
       "统计错误"
+    ]
+  },
+  {
+    "title": "Unit of Analysis",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Unit of Analysis.md",
+    "aliases": [
+      "分析单位",
+      "分析单元",
+      "units of analysis",
+      "recording unit",
+      "context unit",
+      "sampling unit"
     ]
   },
   {
@@ -10893,6 +10935,16 @@
     "aliases": [
       "耦合协调理论",
       "Theory of Coupling Coordination"
+    ]
+  },
+  {
+    "title": "Human Capital Theory",
+    "type": "theory",
+    "path": "wiki/theories/education-economics/Human Capital Theory.md",
+    "aliases": [
+      "人力资本理论",
+      "人力资本",
+      "human capital"
     ]
   },
   {
@@ -16035,6 +16087,16 @@
     ]
   },
   {
+    "title": "Torsten Husén",
+    "type": "person",
+    "path": "wiki/persons/sweden/Torsten Husén.md",
+    "aliases": [
+      "托斯滕·胡森",
+      "托斯滕·胡森教授",
+      "Torsten Husen"
+    ]
+  },
+  {
     "title": "Daniel Tröhler",
     "type": "person",
     "path": "wiki/persons/switzerland/Daniel Tröhler.md",
@@ -16220,7 +16282,9 @@
     "path": "wiki/persons/uk/Edmund King.md",
     "aliases": [
       "King, E.",
-      "埃德蒙·金"
+      "埃德蒙·金",
+      "Edmund J. King",
+      "E. J. King"
     ]
   },
   {
@@ -17080,7 +17144,8 @@
     "aliases": [
       "Eckstein, M. A.",
       "Max A. Eckstein",
-      "马克斯·埃克斯坦"
+      "马克斯·埃克斯坦",
+      "M. A. Eckstein"
     ]
   },
   {
@@ -18444,6 +18509,15 @@
     ]
   },
   {
+    "title": "IEA",
+    "type": "fact",
+    "path": "wiki/facts/global/IEA.md",
+    "aliases": [
+      "国际教育成就评价协会",
+      "International Association for the Evaluation of Educational Achievement"
+    ]
+  },
+  {
     "title": "INES Lugano General Assembly 1991",
     "type": "fact",
     "path": "wiki/facts/global/INES Lugano General Assembly 1991.md",
@@ -18477,7 +18551,8 @@
     "aliases": [
       "IIEP",
       "UNESCO IIEP",
-      "国际教育规划研究所"
+      "国际教育规划研究所",
+      "联合国教科文组织国际教育规划研究所"
     ]
   },
   {
@@ -19857,7 +19932,6 @@
     "type": "fact",
     "path": "wiki/facts/uk/Parliamentary Office of Science and Technology.md",
     "aliases": [
-      "POST",
       "英国议会科学与技术办公室",
       "议会科学技术办公室",
       "POSTnote"
@@ -21208,6 +21282,11 @@
     "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29",
     "type": "argument",
     "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29.md"
+  },
+  {
+    "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30",
+    "type": "argument",
+    "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30.md"
   },
   {
     "title": "Argument_Cowen(Ed.)_2009_Springer",

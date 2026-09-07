@@ -7,7 +7,7 @@ summary: "英国比较教育学者，以 transitology、现代／晚期现代教
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 33
+person_related_count: 32
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -47,7 +47,6 @@ related_persons:
 related_facts:
   - "[[Comparative Education Society in Europe]]"
   - "[[Comparative and International Education Society]]"
-  - "[[Parliamentary Office of Science and Technology]]"
   - "[[PISA]]"
   - "[[Regional University Alliances]]"
 related_arguments:
@@ -90,7 +89,7 @@ updated: 2026-09-05
 > [!thought-timeline] 思想发展阶段
 > - **1996 — 双轴模型阶段**
 >   关注晚期现代教育体制的结构性变迁，回答教育制度本身在结构上“如何变化”。
->   - **代表著作** *Last past the [[Parliamentary Office of Science and Technology|POST]]: Comparative education, modernity and perhaps post-modernity* (1996)。（引自 [[Argument_Amos_2022_Springer|Amos, 2022, p. 55]]）
+>   - **代表著作** *Last past the POST: Comparative education, modernity and perhaps post-modernity* (1996)。（引自 [[Argument_Amos_2022_Springer|Amos, 2022, p. 55]]）
 >   - **关键概念** 现代与晚期现代教育双轴比较模型。
 >   - **阶段转向** 刻画了教育从“公共利益与国家文化认同驱动（Polis-driven）”向“效率管理与国际知识竞争驱动（Market-driven）”的转向。
 > - **2000 — [[Transitology|转型学]]阶段**

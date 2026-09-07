@@ -8,7 +8,7 @@ aliases:
 summary: "衡量扣除资本和劳动投入贡献后产出增长剩余部分的生产率指标，用于衡量技术进步和技术效率变化"
 type: concept
 domain: "education-economics"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -23,7 +23,8 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Alternative Hypothesis]]"
   - "[[Technology Transfer]]"
-related_theories: []
+related_theories:
+  - "[[Human Capital Theory]]"
 related_methods:
   - "[[Perpetual Inventory Method]]"
 related_persons: []
@@ -59,7 +60,7 @@ updated: 2026-09-07
 > - **产出度量** 通常使用总增加值（gross VALUE added），需转换为不变价格以消除通胀影响。[[Argument_Glitz_2020_AER|Glitz & Meyersson (2020)]] 在处理东德数据时，面临中央计划价格非市场决定的特殊困难，通过 Heske (2009, 2013) 的回顾性国民经济核算数据解决。
 > - **资本存量估算** 使用[[Perpetual Inventory Method|永续盘存法]]（[[Perpetual Inventory Method]]）从投资序列推算：$K_{jt} = I_{jt} + (1-\delta) K_{j,t-1}$，需要设定初始资本存量和折旧率 $\delta$。
 > - **资本份额参数** $\alpha_j$ 在竞争市场中等于资本收入在增加值中的份额；在非竞争环境（如东德计划经济）中需要用代理[[Variable|变量]]或[[Alternative Hypothesis|替代假设]]校准。
-> - **劳动投入** 通常以就业人数或工时度量，隐含[[Hypothesis|假设]]人力资本同质。
+> - **劳动投入** 通常以就业人数或工时度量，隐含[[Hypothesis|假设]][[Human Capital Theory|人力资本]]同质。
 
 ---
 

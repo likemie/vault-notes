@@ -7,7 +7,7 @@ aliases:
 summary: "一种逻辑谬误，指仅因一个事件在时间上先于另一个事件，就推断前者是后者的原因。是事后回溯研究中的核心风险之一。"
 type: concept
 domain: "research-methodology"
-related_count: 14
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -31,8 +31,7 @@ related_methods:
   - "[[Random Assignment]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15]]"
-related_facts:
-  - "[[Parliamentary Office of Science and Technology]]"
+related_facts: []
 confidence: medium
 status: draft
 created: 2026-07-12
@@ -44,7 +43,7 @@ updated: 2026-07-12
 
 ## 定义
 
-> [!def] 事后归因谬误（[[Parliamentary Office of Science and Technology|POST]] Hoc Ergo Propter Hoc Fallacy）
+> [!def] 事后归因谬误（POST Hoc Ergo Propter Hoc Fallacy）
 > 事后归因谬误是一种逻辑谬误，指仅因一个[[Variable|变量]]在时间上先于另一个变量，就推断前者是后者的原因。拉丁文全称为 post hoc, ergo propter hoc，意为"在此之后，因此因为此"（after this, therefore because of this）。该谬误的根本问题在于：时间上的先后顺序不能单独作为[[Causality|因果关系]]成立的[[Necessary and Sufficient Conditions|充分条件]]（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15|Cohen et al., 2011, Ch. 15, p. 309]]）。
 
 > [!concept-lens] 概念透镜

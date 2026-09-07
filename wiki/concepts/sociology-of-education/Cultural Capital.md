@@ -8,7 +8,7 @@ aliases:
 summary: "Pierre Bourdieu 的核心概念，指个体通过家庭社会化与教育获得并在特定场域中具有交换价值的文化资源（具身化、客体化和制度化）。在大规模教育实证研究中常操作化为家庭藏书量等资源，实证表明其既直接赋能学业表现，又通过培育批判性认识论信念间接促进高阶成就。"
 type: concept
 domain: "sociology-of-education"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Epoché]]"
   - "[[Questionnaire]]"
 related_theories:
+  - "[[Human Capital Theory]]"
   - "[[Social Capital Theory]]"
 related_methods:
   - "[[Causal Modeling]]"
@@ -79,7 +80,7 @@ updated: 2026-08-20
 > [!concept-lens] 概念透镜
 > - **含义** 具有阶层印记的惯习、文化品位、学术工具（如藏书）以及制度化文凭凭证。
 > - **用途** 揭示看似客观中立的学业考试、[[School Choice|择校]]竞争与高校选拔背后的阶级筛选机制，解释优势地位的隐性代际传递与认知发展分化。
-> - **边界** 不等于个体理性投资所形成的人力资本；其积累高度依赖于家庭早期无意识的身体化熏陶与文化环境刺激，且其变现价值受特定场域规则的制约。
+> - **边界** 不等于个体理性投资所形成的[[Human Capital Theory|人力资本]]；其积累高度依赖于家庭早期无意识的身体化熏陶与文化环境刺激，且其变现价值受特定场域规则的制约。
 
 > [!citation-card]- 关键表述
 > 即使在学历相同的情况下，社会出身的差别仍然体现为文化能力的差别。当人们对一种严格的、可严格评测的能力要求越少，而对一种文化的熟习要求越多，这种差别就越明显。[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023, Ch. 2)]]（引自 Bourdieu, 1984, p. 63）
@@ -96,7 +97,7 @@ updated: 2026-08-20
 ## 概念辨析
 
 > [!contrast-table] 资本类型对比
-> | 维度 | 文化资本（Cultural Capital） | [[Social Capital Theory\|社会资本（Social Capital）]] | 人力资本（Human Capital） |
+> | 维度 | 文化资本（Cultural Capital） | [[Social Capital Theory\|社会资本（Social Capital）]] | [[Human Capital Theory\|人力资本]]（Human Capital） |
 > |---|---|---|---|
 > | **分析焦点** | 阶层化的[[Habitus\|惯习]]、文化品位、家庭藏书与文凭凭证 | 社会网络连接、熟人关系网与体制内权力资源 | 个体理性的教育投资与专业生产力技能 |
 > | **传递机制** | 家庭早期无意识的身体化熏陶与智力环境刺激 | 人际网络的维系、情感互惠与人情交换 | 市场导向的有意识时间与金钱资本投入 |
@@ -221,7 +222,7 @@ updated: 2026-08-20
 > [!debates] 学术争议
 >
 > > [!axis] 概念边界的重叠性与新自由主义[[Transfer Translation Transformation|转译]]
-> > 学界对其与人力资本、社会资本的清晰界线存在争议。例如在劳动力市场中，优雅的沟通能力常被经济学家直接折算为高效率的人力资本回报。
+> > 学界对其与[[Human Capital Theory|人力资本]]、社会资本的清晰界线存在争议。例如在劳动力市场中，优雅的沟通能力常被经济学家直接折算为高效率的人力资本回报。
 > > - **批判学派学者** 认为这混淆了文化资本的阶级再生产阶层属性，使其沦为新自由主义个人增值的话语工具。
 >
 > > [!axis] 经验测量的代理性困难与指标争议

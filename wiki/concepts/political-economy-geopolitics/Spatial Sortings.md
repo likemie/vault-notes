@@ -6,10 +6,10 @@ aliases:
 summary: "知识密集型资本主义通过投资、治理和空间规划持续把地点与人口划分为赢家和输家的过程，是空间不平等生产的重要机制"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 20
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 19
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
 - spatial-sortings
 - knowledge-based-economization
@@ -36,8 +36,7 @@ related_methods:
   - "[[Coupling Coordination Model]]"
 related_persons:
   - "[[Sami Moisio]]"
-related_facts:
-  - "[[Parliamentary Office of Science and Technology]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Moisio_2022_Springer]]"
   - "[[Argument_Fan_Song_Zhai_2024_RSEE]]"
@@ -111,7 +110,7 @@ Moisio 论证[[Knowledge-Based Economization|知识经济化]]有能力将某些
 > [!tip]-
 > - Sassen (2010) 的**驱逐（expulsion）**概念——
 > 
-> > "the core organizing logic of the [[Parliamentary Office of Science and Technology|POST]]-Keynesian world is not to VALUE people as workers and consumers, but to expel people and to destroy traditional capitalism to feed high finance and high tech" (cited in Moisio, 2022, p. 31)
+> > "the core organizing logic of the POST-Keynesian world is not to VALUE people as workers and consumers, but to expel people and to destroy traditional capitalism to feed high finance and high tech" (cited in Moisio, 2022, p. 31)
 > > 
 > > 后凯恩斯主义世界的核心组织逻辑不是将人们作为工人和消费者来评价，而是驱逐人们和摧毁传统资本主义以满足高级金融和高科技的需求。
 > 

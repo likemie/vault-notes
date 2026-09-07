@@ -9,7 +9,7 @@ aliases:
 summary: "衡量学生在高等教育阶段从入学到毕业期间在知识储备、高阶思维技能、工作就绪度及个人发展等维度所获得的净增长或纵向发展距离"
 type: concept
 domain: "higher-education"
-related_count: 29
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -46,7 +46,6 @@ related_instruments:
 related_persons: []
 related_facts:
   - "[[Higher Education Funding Council for England]]"
-  - "[[Parliamentary Office of Science and Technology]]"
   - "[[Graduate Outcomes Survey]]"
   - "[[Irish Survey of Student Engagement]]"
   - "[[Studiebarometeret]]"
@@ -84,7 +83,7 @@ updated: 2026-09-07
 ## 核心要素
 
 > [!feature] 学习增益的三大测量取向与构件（Kandiko Howson, 2018; [[Argument_Bouckaert_2023_OECD|Bouckaert, 2023]]）
-> - **标准化认知前-[[Pre-test and Post-test|后测]]（Standardized Cognitive Pre-[[Parliamentary Office of Science and Technology|POST]] Testing）** 在新生入学与毕业阶段分别实施通用[[Cognitive Ability Test KFT|认知能力测验]]（如 [[Collegiate Learning Assessment|CLA+]]、[[Collegiate Assessment of Academic Proficiency|CAAP]]、[[ETS Proficiency Profile]]），计算纵向分数增益或相对预期表现的残差值。
+> - **标准化认知前-[[Pre-test and Post-test|后测]]（Standardized Cognitive Pre-POST Testing）** 在新生入学与毕业阶段分别实施通用[[Cognitive Ability Test KFT|认知能力测验]]（如 [[Collegiate Learning Assessment|CLA+]]、[[Collegiate Assessment of Academic Proficiency|CAAP]]、[[ETS Proficiency Profile]]），计算纵向分数增益或相对预期表现的残差值。
 > - **课程[[Academic Achievement|学业表现]]与评分量规（Grades & Authentic Rubrics）** 追踪学生从低年级到高年级在课程[[Homework|作业]]、学术长文与毕业设计中基于表现性量规（如 [[VALUE Rubrics]]）的分数演进。
 > - **学生自陈与参与度调查（Student Self-Reports & Engagement Surveys）** 通过国家或院校层面的调查工具（如澳大利亚 [[Graduate Outcomes Survey|GOS]]、爱尔兰 [[Irish Survey of Student Engagement|ISSE]]、挪威 [[Studiebarometeret]]），测量学生感知到的[[Higher-Order Thinking Skills|高阶思维]]与通用技能收获。
 

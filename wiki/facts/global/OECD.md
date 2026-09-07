@@ -10,7 +10,7 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 25
+fact_related_count: 26
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#fef3c7"
@@ -39,7 +39,8 @@ related_concepts:
   - "[[Avatar]]"
   - "[[PISA Shock]]"
   - "[[Governing by Numbers]]"
-related_theories: []
+related_theories:
+  - "[[Human Capital Theory]]"
 related_methods: []
 related_persons: []
 related_facts:
@@ -76,7 +77,7 @@ updated: 2026-07-11
 > [!dev-timeline] 经合组织教育治理角色的历史演进
 > - **1948 — 欧洲经济合作组织（OEEC）的奠基** 美国政府创建OEEC以负责管理二战后的马歇尔计划。这一技术援助框架从一开始就孕育了教育规划与西欧经济复兴的关联。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 422]])
 > - **1961 — 经合组织（OECD）的正式改组** OECD正式取代OEEC，系统地将教育规划纳入其经济增长议程。在冷战动员和美国[[Economics of Education Movement|教育经济学运动]]的影响下，教育在技术官僚话语中从传统的文化陶冶重构为能带来高收益回报的“资本投资”。
-> - **1960s–1970s — 冷战时期的[[Development Turn in Comparative Education|发展转向]]与人力资本扩张** OECD与联合国教科文组织[[International Education|国际教育]]规划研究所（[[International Institute for Educational Planning|IIEP]]）形成双翼，成为比较教育“发展转向”的关键载体。通过将教育投资因果链作为援助的科学条件，将人力资本理论从美国学术界成功扩散到西欧、南欧和拉丁美洲地区。
+> - **1960s–1970s — 冷战时期的[[Development Turn in Comparative Education|发展转向]]与[[Human Capital Theory|人力资本]]扩张** OECD与联合国教科文组织[[International Education|国际教育]]规划研究所（[[International Institute for Educational Planning|IIEP]]）形成双翼，成为比较教育“发展转向”的关键载体。通过将教育投资因果链作为援助的科学条件，将人力资本理论从美国学术界成功扩散到西欧、南欧和拉丁美洲地区。
 > - **1990s 至今 — 新自由主义全球化与大数据[[Governing at a Distance|远处治理]]** 苏联解体后，冷战发展[[Paradigm|范式]]平稳过渡为新自由主义的“最佳实践”输出话语。OECD于2000年推出[[PISA]]项目，通过软治理和基准数据比较协调全球教育政策，转型为实质性全球教育治理的核心协调者([[Argument_Klerides_2023_CE|Klerides, 2023, pp. 424–425]])。
 
 ---
@@ -92,7 +93,7 @@ updated: 2026-07-11
 > *The aims of the Organisation for Economic Co-operation and Development shall be to promote policies designed: (a) to achieve the highest sustainable economic [[Growth]] and employment and a rising standard of living in Member countries... (b) to contribute to sound economic expansion in Member as well as non-member countries... and (c) to contribute to the expansion of world trade on a multilateral, non-discriminatory basis...*
 
 > [!citation-card]- 《地中海区域项目报告》（1962年）
-> 地中海区域项目（Mediterranean Regional Project）是经合组织在教育领域的第一个重大制度实践。它将成员国（如意大利、西班牙、葡萄牙、希腊、土耳其和南斯拉夫）的教育规划与未来十五年经济发展的预期人力资本需求挂钩，系统地将教育投入重构为经济“投资”，成为冷战“[[Development Turn in Comparative Education|发展转向]]”期间将人力资本理论转化为国家政策模板的关键蓝本。
+> 地中海区域项目（Mediterranean Regional Project）是经合组织在教育领域的第一个重大制度实践。它将成员国（如意大利、西班牙、葡萄牙、希腊、土耳其和南斯拉夫）的教育规划与未来十五年经济发展的预期[[Human Capital Theory|人力资本]]需求挂钩，系统地将教育投入重构为经济“投资”，成为冷战“[[Development Turn in Comparative Education|发展转向]]”期间将人力资本理论转化为国家政策模板的关键蓝本。
 >
 > *The Mediterranean Regional Project (MRP) represents the first major attempt by the OECD to relate educational planning to economic growth, setting a template for translating human capital theory into national educational plans.*
 
@@ -122,7 +123,7 @@ updated: 2026-07-11
 
 > [!tension] [[Governing at a Distance|远处治理]]的合法性争议
 > - **去情境化科学中立（蓝方）** OECD声称其测试和数据库是科学客观、跨国可比的，旨在提供诊断教育短板的有效证据，引导全球教育改革迈向公平和质量的提升。
-> - **标准化资本运作逻辑（红方）** 批评者指出，OECD将教育窄化为人力资本投资，通过数据垄断剥夺了非西方教育传统的多元价值，实质上在不经意间将西方的教育现代化形式施加于非西方国家。
+> - **标准化资本运作逻辑（红方）** 批评者指出，OECD将教育窄化为[[Human Capital Theory|人力资本]]投资，通过数据垄断剥夺了非西方教育传统的多元价值，实质上在不经意间将西方的教育现代化形式施加于非西方国家。
 
 ---
 

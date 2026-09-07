@@ -8,7 +8,7 @@ aliases:
 summary: "1970 年代至 1980 年代初兴起于比较教育的新马克思主义理论路径，以中心与边缘分析框架取代国家比较单位，将西方剥削和资本主义世界秩序视为第三世界欠发展的真正原因。后于 1990 年代至 2010 年代初演化为对高等教育领域“学术依附”与“学术新殖民主义”的地缘政治非自觉批判。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 17
+theory_related_count: 18
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -31,7 +31,8 @@ related_concepts:
   - "[[Methodological Nationalism]]"
   - "[[Value Neutrality]]"
   - "[[Paradigm]]"
-related_theories: []
+related_theories:
+  - "[[Human Capital Theory]]"
 related_methods:
   - "[[Snowball Sampling]]"
 related_persons:
@@ -100,7 +101,7 @@ updated: 2026-09-07
 > 这一命题关注如何将第三世界的发展问题从“管理落后”的技术归因还原为地缘支配的本质。
 
 > [!claim] [[Eleftherios Klerides|Klerides, E.]]
-> **发展主义批判** 拒绝将“第三世界”教育系统的不完善归结为管理低效、投入不足或标准落后等技术性“缺失”；指出这些充斥着现代化与人力资本投资因果链的“发展主义话语”，本质上是以技术改进掩盖了资本主义世界体系地缘权力剥削的殖民主义修辞。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 426]])
+> **发展主义批判** 拒绝将“第三世界”教育系统的不完善归结为管理低效、投入不足或标准落后等技术性“缺失”；指出这些充斥着现代化与[[Human Capital Theory|人力资本]]投资因果链的“发展主义话语”，本质上是以技术改进掩盖了资本主义世界体系地缘权力剥削的殖民主义修辞。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 426]])
 
 ---
 

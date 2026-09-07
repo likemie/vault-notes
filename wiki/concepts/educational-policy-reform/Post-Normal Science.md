@@ -55,7 +55,7 @@ updated: 2026-09-04
 ## 定义
 
 > [!def] 核心定义
-> **后常规科学（[[Parliamentary Office of Science and Technology|POST]]-Normal Science, PNS）** 是由科学哲学家西尔维奥·丰托维奇（Silvio Funtowicz）与杰罗姆·拉维茨（Jerome Ravetz）于 1993 年系统确立的科学治理与[[Epistemology|认识论]]分析概念。该[[Paradigm|范式]]专门指代这样一类极端的政策与科技决策情境：**系统事实高度不确定、社会价值充满争议、决策涉及的利益赌注极其高昂、且采取行动的紧迫性不容拖延（Facts uncertain, values in dispute, stakes high, and decisions urgent）**。在此类情境中，传统的实验室实证求真（常规科学）或封闭专家技术鉴定（专业咨询）不再足以单独解决问题，必须引入多元证据源与广泛公众审议。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|(The Royal Society, 2026, Ch. 5, p. 86)]]
+> **后常规科学（POST-Normal Science, PNS）** 是由科学哲学家西尔维奥·丰托维奇（Silvio Funtowicz）与杰罗姆·拉维茨（Jerome Ravetz）于 1993 年系统确立的科学治理与[[Epistemology|认识论]]分析概念。该[[Paradigm|范式]]专门指代这样一类极端的政策与科技决策情境：**系统事实高度不确定、社会价值充满争议、决策涉及的利益赌注极其高昂、且采取行动的紧迫性不容拖延（Facts uncertain, values in dispute, stakes high, and decisions urgent）**。在此类情境中，传统的实验室实证求真（常规科学）或封闭专家技术鉴定（专业咨询）不再足以单独解决问题，必须引入多元证据源与广泛公众审议。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|(The Royal Society, 2026, Ch. 5, p. 86)]]
 
 > [!concept-lens] 概念透镜
 > - **核心含义** 揭示了当科学前沿深涉复杂生态、生命伦理、公共卫生或颠覆性人工智能时，科学证据不再能提供唯一的“标准答案”，政策制定不可避免地交织着道德偏好、风险分配与政治权衡。

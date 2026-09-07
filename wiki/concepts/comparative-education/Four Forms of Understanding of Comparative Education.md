@@ -33,8 +33,8 @@ related_persons:
   - "[[Andreas Kazamias]]"
   - "[[Nicholas Hans]]"
   - "[[Brian Holmes]]"
-  - "[[Edmund King]]"
 related_facts:
+  - "[[IEA]]"
   - "[[PISA]]"
 related_arguments:
   - "[[Argument_Cowen_2023_CE]]"
@@ -89,7 +89,7 @@ updated: 2026-06-06
 ### 第三种：[[Policy Science in Comparative Education|政策科学]]
 
 > [!info]
-> 认为比较教育可以且应该是政策科学。这一理解形式在 1960 年代的经典[[Ontology|本体论]]争论中非常可见，代表人物包括 [[Brian Holmes]] 和 [[Edmund King]]，也出现在 2010 年后的世界教育年鉴中([[Argument_Cowen_2023_CE|Cowen, 2023, p.333]])。
+> 认为比较教育可以且应该是政策科学。这一理解形式在 1960 年代的经典[[Ontology|本体论]]争论中非常可见，代表人物包括 [[Brian Holmes]] 和 c，也出现在 2010 年后的世界教育年鉴中([[Argument_Cowen_2023_CE|Cowen, 2023, p.333]])。
 >
 > **政治解构与缺陷** 政治上并非中性，它是与权力的联盟，即与自由民主国家中所谓民主权力的联盟。它默认国家机器具有合理性，主张比较教育学者应当在关键决策时刻（critical points of decision）为政策制定者提供建议。这种联盟极易削弱学者的学术反思能力与批判距离，使其退化为国家机器和行政部门的合法化咨询工具。
 
@@ -101,7 +101,7 @@ updated: 2026-06-06
 > 关注教育结果的测量。这一理解形式经历了从文化理解到效率测量的转变([[Argument_Cowen_2023_CE|Cowen, 2023, pp.333–334]])：
 >
 > - **Lauwerys 时期（1965）**。以 Verstehen 方式理解法国、英格兰、美国和苏联的理想[[Educated Identity|受教育身份]]模型。
-> - **IEA 与 [[PISA]] 时期**。从理解文化转向通过国际测试衡量教育效率。
+> - **[[IEA]] 与 [[PISA]] 时期**。从理解文化转向通过国际测试衡量教育效率。
 >
 > **政治解构与缺陷** 当代的结果导向完全契合于在世界范围内建立新自由主义经济定义的政治斗争。国际测试将复杂的教育情境与文化脉络抽空，仅留下测量技术细节。它沦为效率运动的附属品与社会温度计，并在实践中不断强化和维系单一、特定世界秩序的政治合理性。
 

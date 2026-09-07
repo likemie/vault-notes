@@ -181,7 +181,7 @@ updated: 2026-08-26
 > | 维度组合 | 理性-线性取向（Linearity） | 复杂性与情境化取向（Complexity & Contextual） |
 > |----------|--------------------------|-----------------------------------------------|
 > | **核心视角** | 知识自上而下单向传递，侧重考察教师是否直接照搬论文方案（Brown et al., 2018）。（p. 5） | 关注教师在真实情境中如何[[Transfer Translation Transformation\|转译]]、改编与反思科研成果（Cordingley, 2008; La Velle & Flores, 2018）。 |
-> | **分析单位** | 个人层面：受[[Methodological Individualism\|方法论个体主义]]主导，调查教师个人的态度、问卷打分与信息素养（Brown & Zhang, 2016）。 | 组织生态层面：关注学校信任氛围、领导支持与教研制度（Farley-Ripple, 2012; Schaik et al., 2018）。 |
+> | **[[Unit of Analysis\|分析单位]]** | 个人层面：受[[Methodological Individualism\|方法论个体主义]]主导，调查教师个人的态度、问卷打分与信息素养（Brown & Zhang, 2016）。 | 组织生态层面：关注学校信任氛围、领导支持与教研制度（Farley-Ripple, 2012; Schaik et al., 2018）。 |
 > | **代表性研究** | Williams & Coles (2007) 测度教师信息素养；Brown & Zhang (2016) 检验教师循证行为的理性选择逻辑。 | Cooper (2013); Lysenko et al. (2015); Proctor (2015) 考察学区中介与学校支持环境。 |
 > | **实证结论** | 教师缺乏[[Research Literacy\|研究素养]]与技能，实际使用极少。（p. 6） | 尽管学校提供了系统支持且教师态度积极，但实际使用依然处于低水平。（p. 6） |
 

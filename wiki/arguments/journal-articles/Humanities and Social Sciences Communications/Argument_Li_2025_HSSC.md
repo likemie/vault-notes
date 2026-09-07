@@ -57,6 +57,7 @@ related_concepts:
   - "[[Global Education Reform Movement]]"
   - "[[Reliability]]"
 related_theories:
+  - "[[Human Capital Theory]]"
   - "[[Actor-Network Theory]]"
 related_methods:
   - "[[Systematic Review]]"
@@ -88,7 +89,7 @@ title: "Argument_Li_2025_HSSC"
 argument_key: "Argument_Li_2025_HSSC"
 argument_display_title: "The effects of PISA on global basic education reform: A systematic literature review"
 argument_kind: "journal-article"
-argument_related_count: 46
+argument_related_count: 47
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -128,7 +129,7 @@ issuing_organization: ""
 > | 理论工具 | 解释功能 |
 > |----------|----------|
 > | **议程设置理论**<br>agenda-setting theory | 解释 [[PISA]] 结果如何将教育问题推上公共政策议程。Martens & Niemann（2013）用以分析什么条件下数字（PISA 分数和排名）能产生政策影响。 |
-> | **当代人力资本理论与全球化治理框架**<br>human capital theory & global governance | Sellar & Lingard（2018）用以解释 PISA 如何将教育投入与学生知识技能产出联系起来，为分析全球化与教育治理提供人力资本视角。 |
+> | **当代人力资本理论与全球化治理框架**<br>human capital theory & global governance | Sellar & Lingard（2018）用以解释 PISA 如何将教育投入与学生知识技能产出联系起来，为分析全球化与教育治理提供[[Human Capital Theory\|人力资本]]视角。 |
 > | **教育政策自愿趋同的因果机制理论**<br>voluntary convergence | Bieber & Martens（2011）通过建立教育政策自愿趋同的[[Causality\|因果]]机制框架，分析跨国沟通、规制竞争和独立问题解决如何导致政策趋同。 |
 > | **体用框架**<br>Ti-Yong framework | Xie et al.（2022）借用中国自古以来解释中西关系的体用框架：体指事物根本、内在和本质的性质，用指体之表现与功能。该框架用于分析中国在 PISA 外部影响下处理问题的政治行动。 |
 > | **[[Actor-Network Theory\|行动者网络理论]]** | 将权力视为与知识、主体地位和参与者身份交织的治理网络。该框架指出政治情感（political sentiment）是[[Theories of Policy Change\|政策变革]]的重要杠杆；情感理论框架和批判话语分析有助于分析文本材料中的支配、权力和控制结构关系。 |
@@ -216,7 +217,7 @@ issuing_organization: ""
 
 > [!dimension] 宏观决策层面的五种表现
 > - **接受新自由主义教育价值并增加教育支出**
->   德国和法国在 PISA 冲击后大幅增加教育投入。德国社会在 2000 年 PISA 结果公布时受到冲击：从 1970 年代到 2000 年代初，德国未能创造人力资本，用 OECD 的话说，剥夺了大部分学生获得最佳工作回报所需学术素质的机会（Martens & Niemann, 2013）。PISA 将教育主题直接推上政策议程，强化了政策制定者弥补绩效缺陷的行动。
+>   德国和法国在 PISA 冲击后大幅增加教育投入。德国社会在 2000 年 PISA 结果公布时受到冲击：从 1970 年代到 2000 年代初，德国未能创造[[Human Capital Theory|人力资本]]，用 OECD 的话说，剥夺了大部分学生获得最佳工作回报所需学术素质的机会（Martens & Niemann, 2013）。PISA 将教育主题直接推上政策议程，强化了政策制定者弥补绩效缺陷的行动。
 > - **接受能力和素养概念**
 >   日本在 2003 年 PISA 结果公布后，于 2004 年将 [[PISA Literacy|PISA素养]]正式纳入国家教育政策的核心目标。PISA素养聚焦高阶能力：[[Problem Solving|问题解决]]、知识应用、[[Creativity|创造性]]工作和知识回忆（Ninomiya, 2019），为日本教育带来了与以往学力理解不同的新含义。
 > - **影响[[Reference Society|参考社会]]选择**

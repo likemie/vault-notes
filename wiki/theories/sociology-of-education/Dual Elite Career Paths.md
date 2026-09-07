@@ -5,7 +5,7 @@ aliases:
 summary: "解释后社会主义社会精英流动如何沿政治管理路径与专业技术路径分化展开的理论，用于分析教育、身份与职业机会的不同连接方式"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 8
+theory_related_count: 9
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -22,7 +22,8 @@ related_concepts:
   - "[[Opportunist Mode]]"
   - "[[Lost Mode]]"
   - "[[Credential Inflation]]"
-related_theories: []
+related_theories:
+  - "[[Human Capital Theory]]"
 related_methods: []
 related_persons: []
 related_facts:
@@ -54,7 +55,7 @@ updated: '2026-05-18'
 ## 对名校毕业生的意涵
 
 
-- 对于手持国内顶尖大学文凭的学生而言，无论家境如何，他们既拥有进入非国有经济部门的人力资本，又是党组织发展潜在成员的关键对象，因此有机会进入任何一条精英职业路径（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）
+- 对于手持国内顶尖大学文凭的学生而言，无论家境如何，他们既拥有进入非国有经济部门的[[Human Capital Theory|人力资本]]，又是党组织发展潜在成员的关键对象，因此有机会进入任何一条精英职业路径（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）
 - 这种双重可能性意味着大学生必须在政治—技术两条路径之间做出一个真正意义上的取舍，这构成了精英大学迷宫出口之外的又一重选择([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
 
 ---

@@ -7,7 +7,7 @@ aliases:
 summary: "Cowen 用于分析比较教育在不同时期关注哪个世界的五阶段历史分期框架，从 18 世纪末的世俗化阅读到冷战后的全球化"
 type: concept
 domain: "comparative-education"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -39,6 +39,7 @@ related_persons:
   - "[[Robert Cowen]]"
   - "[[Horace Mann]]"
 related_facts:
+  - "[[IEA]]"
   - "[[PISA]]"
 related_arguments:
   - "[[Argument_Cowen_2023_CE]]"
@@ -85,7 +86,7 @@ updated: 2026-08-20
 >   - 重建与平等（1945年后）：尤其在欧洲，努力以重建和改善教育机会平等来理解和行动世界。
 >   - 自由民主与国家社会主义的竞争（1950年代）：主题聚焦为自由民主与国家社会主义民主在教育领域的竞争，重大努力投入到通过国际测试衡量教育成功。
 >   - 第三世界的发展：竞争延伸至对“第三世界”（Le tiers monde）发展的援助与地缘控制。
->   - 国际测试的兴起与延续：如[[International Education|国际教育]]成就评价协会（International Association for the Evaluation of Educational Achievement，IEA）的兴起，将竞争扩展为基于标准测试的数据军备竞赛，这一努力延续至今。
+>   - 国际测试的兴起与延续：如[[International Education|国际教育]]成就评价协会（[[IEA|International Association for the Evaluation of Educational Achievement]]，IEA）的兴起，将竞争扩展为基于标准测试的数据军备竞赛，这一努力延续至今。
 > - **冷战后至今 — 全球化大叙事与绩效主义治理** 全球解读转向了全球化大叙事及其粗糙的派生词汇（如新自由主义效率测量），最终演变为[[PISA|国际学生评估项目]]（Programme for International Student Assessment，PISA）测试霸权和数据绩效主义治理，将复杂的文化和教育语境抽空为测量细节。(p. 331)
 
 ---

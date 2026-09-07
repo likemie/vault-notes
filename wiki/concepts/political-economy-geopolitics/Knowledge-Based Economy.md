@@ -44,6 +44,7 @@ related_concepts:
   - "[[Progressive Neoliberalism]]"
   - "[[Innovation Hub]]"
 related_theories:
+  - "[[Human Capital Theory]]"
   - "[[Systems of Innovation]]"
   - "[[Cultural Political Economy]]"
 related_methods:
@@ -55,7 +56,6 @@ related_instruments:
 related_persons: []
 related_facts:
   - "[[OECD]]"
-  - "[[Parliamentary Office of Science and Technology]]"
   - "[[European Qualifications Framework]]"
   - "[[Melbourne Declaration]]"
   - "[[UAE Education Hub Projects]]"
@@ -94,7 +94,7 @@ updated: 2026-08-27
 
 > [!boundary]- 概念边界
 > - 不等于 **[[Knowledge-Based Economization|知识经济化]]** —— KBE 指实际存在的经济形态本身；知识经济化则是通过话语想象与物质实践将教育、科研等非经济领域持续“重构为经济要素”的社会政治过程。[[Argument_Moisio_2022_Springer|(Moisio, 2022, p. 25)]]
-> - 不等于 **后工业社会（[[Parliamentary Office of Science and Technology|POST]]-Industrial Society）** —— Bell（1973）的后工业社会强调[[Theoretical Knowledge|理论知识]]相对于工业制造的优先性，而 KBE 更聚焦知识作为全球竞争中资本积累、地缘博弈与劳动力[[Disciplina and Doctrina|规训]]的核心驱动机制。[[Argument_Moisio_2022_Springer|(Moisio, 2022, p. 22)]]
+> - 不等于 **后工业社会（POST-Industrial Society）** —— Bell（1973）的后工业社会强调[[Theoretical Knowledge|理论知识]]相对于工业制造的优先性，而 KBE 更聚焦知识作为全球竞争中资本积累、地缘博弈与劳动力[[Disciplina and Doctrina|规训]]的核心驱动机制。[[Argument_Moisio_2022_Springer|(Moisio, 2022, p. 22)]]
 
 ---
 
@@ -113,7 +113,7 @@ updated: 2026-08-27
 ## 核心要素
 
 > [!feature] 知识经济的核心结构特征
-> - **无形资产与一般智识的价值化** 财富创造的主要来源从自然资源与有形物质资本，系统性转变为无形专利、数据算法、知识网络与人力资本。[[Argument_Moisio_2022_Springer|(Moisio, 2022, p. 23)]]
+> - **无形资产与一般智识的价值化** 财富创造的主要来源从自然资源与有形物质资本，系统性转变为无形专利、数据算法、知识网络与[[Human Capital Theory|人力资本]]。[[Argument_Moisio_2022_Springer|(Moisio, 2022, p. 23)]]
 > - **非程序化[[Higher-Order Thinking Skills|高阶思维]]的决定性地位** 随着人工智能、大数据与技术自动化加速替代常规程序化劳动，分析推理、证据辨析、批判审视与突破性创造等[[Higher-Order Thinking Skills|高阶思维技能]]成为不可替代的核心劳动力生产力。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 4–5)]]
 > - **知识的[[Reflexivity|反身性]]生产与永久创新** 知识被反身性地应用于知识自身的再生产；产品与技术生命周期急剧缩短，迫使全社会处于“永久创新（Perpetual Innovation）”与持续再技能化的结构性压力中。[[Argument_Hartmann_2022_CorporateEducation|(Hartmann, 2022, p. 179)]]
 > - **额外经济系统（Extra-Economic）的深度嵌入** KBE 高度依赖科研体制、教育质量保障、知识产权法治及社会文化规范等非经济制度的持续滋养与协同。[[Argument_Moisio_2022_Springer|(Jessop, 2005; Moisio, 2022, p. 23)]]
@@ -192,7 +192,7 @@ updated: 2026-08-27
 > [!dev-timeline] 知识经济概念演进脉络
 > - **十九世纪先驱 — Friedrich List 国家[[Systems of Innovation|创新系统]]萌芽** List《政治经济学的国家系统》（1841）主张国家必须通过有组织的技术教育、科研与长期产业政策拓展知识优势，奠定国家创新系统的知性根源。[[Argument_Moisio_2022_Springer|(Moisio, 2022, p. 22)]]
 > - **二战后奠基（1950s–1970s） — 知识工作者与后工业理论** Drucker（1959/1969）提出“知识工作者”；Bell（1973）阐述[[Theoretical Knowledge|理论知识]]在后工业主义中的核心地位；人造卫星危机（1957）促使 [[OECD]] 将 STEM 教育与国家地缘经济竞争力深度绑定。[[Argument_Amos_2022_Springer|(Amos, 2022, p. 56)]]
-> - **经济学理论化（1980s–1990s） — 内生增长与新自由主义全球化** Romer（1986）内生增长理论将知识与人力资本确立为不受边际收益递减限制的内生动力；世界银行（1991）与 OECD（1996）正式将 KBE 话语确立为全球教育与经济政策主导典范。[[Argument_Moisio_2022_Springer|(Moisio, 2022, p. 23)]]
+> - **经济学理论化（1980s–1990s） — 内生增长与新自由主义全球化** Romer（1986）内生增长理论将知识与[[Human Capital Theory|人力资本]]确立为不受边际收益递减限制的内生动力；世界银行（1991）与 OECD（1996）正式将 KBE 话语确立为全球教育与经济政策主导典范。[[Argument_Moisio_2022_Springer|(Moisio, 2022, p. 23)]]
 > - **全球扩散与空间运作（2000s–2010s） — 教育出口与枢纽建设** 亚洲国家与澳大利亚将 KBE 转化为教育出口战略；新加坡与迪拜通过“教育枢纽”政策将大学完全产业化为经济增长极。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022)]]; [[Argument_Erfurth_2022_education-hubs|(Erfurth, 2022)]]
 > - **智能时代评价重构（2020s至今） — 聚焦高阶认知素养与评价治理** 面对生成式 AI 与劳动力深度重组，OECD 等国际组织反思“教育扩张”数量指标，转向推动以[[Critical Thinking|批判性思维]]、[[Creativity|创造力]]与真实表现任务为核心的高教评价与治理变革。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023)]]
 
@@ -205,7 +205,7 @@ updated: 2026-08-27
 > > [!axis] 知识经济话语的批判轴线
 > > - **[[Spatial Sortings|空间分化]]与不平等极化（Spatial Polarization）** [[Progressive Neoliberalism|进步新自由主义]]的 KBE 极度偏向少数跨国大都市[[Innovation Hub|创新枢纽]]，导致非枢纽中小城镇与农村地区经历不可逆的经济衰退与人才失血。[[Argument_Moisio_2022_Springer|(Moisio, 2022, pp. 30–32)]]
 > > - **以市场扩张替代民主制度建设（Institutional Substitution）** 教育枢纽研究揭示，威权政权常将“投资 KBE 基础设施与分校园区”作为合法性幌子，以此规避实质性的政治民主与公民社会制度建设。[[Argument_Erfurth_2022_education-hubs|(Erfurth, 2022, pp. 200, 211)]]
-> > - **教育公共价值与人文关怀的工具化矮化（Instrumentalization）** 将高等教育窄化为单纯的人力资本投资与劳动力再生产机器，剥离了教育在社会公平、审美情趣与民主公民素养培育上的崇高本质。
+> > - **教育公共价值与人文关怀的工具化矮化（Instrumentalization）** 将高等教育窄化为单纯的[[Human Capital Theory|人力资本]]投资与劳动力再生产机器，剥离了教育在社会公平、审美情趣与民主公民素养培育上的崇高本质。
 
 ---
 

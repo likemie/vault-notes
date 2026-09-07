@@ -1,0 +1,815 @@
+
+Research Methods in Education
+=============================
+
+Research Methods in Education
+
+This rewritten, expanded and updated seventh edition of the long-running bestseller Research Methods in Education encompasses the whole range of methods currently employed by educational research at all stages. It offers plentiful and rich practical advice, underpinned by clear theoretical foundations, research evidence and up-to-date references.
+
+Research Methods in Education is essential reading for both the professional researcher and students of education at undergraduate and postgraduate level, who need to understand how to plan, conduct, analyse and use research.
+
+Louis Cohen is Emeritus Professor of Education at Loughborough University, UK.
+
+Lawrence Manion was former Principal Lecturer at Didsbury School of Education, Manchester Metropolitan University, UK.
+
+Keith Morrison is Professor and Registrar at Macau University of Science and Technology, formerly at Durham University, UK.
+
+Copyright
+=========
+
+This seventh edition published 2011
+
+by Routledge
+
+2 Park Square, Milton Park, Abingdon, Oxon OX14 4RN
+
+Simultaneously published in the USA and Canada
+
+by Routledge
+
+270 Madison Avenue, New York, NY 10016
+
+Routledge is an imprint of the Taylor & Francis Group, an informa business
+
+© 2011 Louis Cohen, Lawrence Manion and Keith Morrison; individual chapters, Richard Bell, Stewart Martin, Gary McCulloch and Carmel O’Sullivan
+
+The right of Louis Cohen, Lawrence Manion, Keith Morrison, Richard Bell, Stewart Martin, Gary McCulloch and Carmel O’Sullivan to be identified as the authors of the editorial material, and of the authors for their individual chapters, has been asserted in accordance with sections 77 and 78 of the Copyright, Designs and Patents Act 1988.
+
+All rights reserved. No part of this book may be reprinted or reproduced or utilized in any form or by any electronic, mechanical, or other means, now known or hereafter invented, including photocopying and recording, or in any information storage or retrieval system, without permission in writing from the publishers.
+
+Trademark notice: Product or corporate names may be trademarks or registered trademarks, and are used only for identification and explanation without intent to infringe.
+
+British Library Cataloguing in Publication Data
+
+A catalogue record for this book is available from the British Library
+
+Library of Congress Cataloging-in-Publication Data
+
+Cohen, Louis, 1928–
+
+Research methods in education / Louis Cohen, Lawrence
+
+Manion, and Keith Morrison. – 7th ed.
+
+p. cm.
+
+Includes bibliographical references and index.
+
+1. Education–Research. 2. Education–Research–Great Britain.
+
+I. Manion, Lawrence. II. Morrison, Keith (Keith R. B.) III.
+
+Title.
+
+LB1028.C572 2011
+
+370.7′2-dc22
+
+2010032342
+
+ISBN13: 978-0-415-58335-0 (hbk)
+
+ISBN13: 978-0-415-58336-7 (pbk)
+
+Typeset in Times Roman by Wearset Ltd, Boldon, Tyne and Wear
+
+
+
+1 The nature of enquiry: setting the field
+==========================================
+
+The nature of enquiry
+
+Setting the field
+
+CHAPTER 1
+
+This large chapter explores the context of educational research. It sets out several foundations on which different kinds of empirical research are constructed:
+
+[图片: images/013_1 The nature of enquiry_ setting the field/001_box.jpg | image]
+ scientific and positivistic methodologies
+
+[图片: images/013_1 The nature of enquiry_ setting the field/002_box.jpg | image]
+ naturalistic and interpretive methodologies
+
+[图片: images/013_1 The nature of enquiry_ setting the field/003_box.jpg | image]
+ mixed methods and methodologies
+
+[图片: images/013_1 The nature of enquiry_ setting the field/004_box.jpg | image]
+ introducing post-positivism, post-structuralism and postmodernism
+
+Given the emphasis placed in educational research on quantitative and qualitative approaches, this chapter sets out the basis on which these two main approaches are founded. Then it indicates how both are combined in mixed methods research. It introduces post-positivism, post-structuralism and postmodernism not only in their own right but as having affinities with interpretive approaches and also as bridges into complexity theory.
+
+1.1 Introduction
+
+Our analysis takes an important notion from Hitchcock and Hughes (1995: 21) who suggest that ontological assumptions (assumptions about the nature of reality and the nature of things) give rise to epistemological assumptions (ways of researching and enquiring into the nature of reality and the nature of things); these, in turn, give rise to methodological considerations; and these, in turn, give rise to issues of instrumentation and data collection. Indeed, added to ontology and epistemology is axiology (the values and beliefs that we hold). This view moves us beyond regarding research methods as simply a technical exercise and as concerned with understanding the world; this is informed by how we view our world(s), what we take understanding to be and what we see as the purposes of understanding, and what is deemed valuable. The chapter also acknowledges that educational research, politics and decision making are inextricably intertwined, and it draws attention to the politics of educational research and the implications that this has for undertaking research (e.g. the move towards applied and evaluative research and away from ‘pure’ research). Finally, we add a note about methodology.
+
+1.2 The search for truth
+
+People have long been concerned to come to grips with their environment and to understand the nature of the phenomena it presents to their senses. The means by which they set out to achieve these ends may be classified into three broad categories: experience, reasoning and research (Mouly, 1978). Far from being independent and mutually exclusive, however, these categories must be seen as complementary and overlapping, features most readily in evidence where solutions to complex problems are sought.
+
+In our endeavours to come to terms with the problems of day-to-day living, we are heavily dependent upon experience and authority. However, as tools for uncovering ultimate truth they have decided limitations. The limitations of personal experience in the form of common-sense knowing, for instance, can quickly be exposed when compared with features of the scientific approach to problem-solving. Consider, for example, the striking differences in the way in which theories are used. Laypeople base them on haphazard events and use them in a loose and uncritical manner. When they are required to test them, they do so in a selective fashion, often choosing only that evidence that is consistent with their hunches and ignoring that which is counter to them. Scientists, by contrast, construct their theories carefully and systematically. Whatever hypotheses they formulate have to be tested empirically so that their explanations have a firm basis in fact. And there is the concept of control distinguishing the layperson’s and the scientist’s attitude to experience. Laypeople may make little or no attempt to control any extraneous sources of influence when trying to explain an occurrence. Scientists, on the other hand, only too conscious of the multiplicity of causes for a given occurrence, resort to definite techniques and procedures to isolate and test the effect of one or more of the alleged causes. Finally, there is the difference of attitude to the relationships among phenomena. Laypeople’s concerns with such relationships may be loose, unsystematic and uncontrolled. The chance occurrence of two events in close proximity is sufficient reason to predicate a causal link between them. Scientists, however, display a much more serious professional concern with relationships and only as a result of rigorous experimentation and testing will they postulate a relationship between two phenomena.
+
+People attempt to comprehend the world around them, by using three types of reasoning: deductive reasoning, inductive reasoning and the combined inductive-deductive approach. Deductive reasoning is based on the syllogism which was Aristotle’s great contribution to formal logic. In its simplest form the syllogism consists of a major premise based on an a priori or self-evident proposition, a minor premise providing a particular instance, and a conclusion. Thus:
+
+All planets orbit the sun;
+
+The earth is a planet;
+
+Therefore the earth orbits the sun.
+
+The assumption underlying the syllogism is that through a sequence of formal steps of logic, from the general to the particular, a valid conclusion can be deduced from a valid premise. Its chief limitation is that it can handle only certain kinds of statement. The syllogism formed the basis of systematic reasoning from the time of its inception until the Renaissance. Thereafter its effectiveness was diminished because it was no longer related to observation and experience and became merely a mental exercise. One of the consequences of this was that empirical evidence as the basis of proof was superseded by authority and the more authorities one could quote, the stronger one’s position became. Naturally, with such abuse of its principal tool, science became sterile.
+
+The history of reasoning was to undergo a dramatic change in the 1600s when Francis Bacon began to lay increasing stress on the observational basis of science. Being critical of the model of deductive reasoning on the grounds that its major premises were often preconceived notions which inevitably bias the conclusions, he proposed in its place the method of inductive reasoning by means of which the study of a number of individual cases would lead to a hypothesis and eventually to a generalization. Mouly (1978) explains it by suggesting that Bacon’s basic premise was that, with sufficient data, even if one does not have a preconceived idea of their significance or meaning, nevertheless important relationships and laws would be discovered by the alert observer. Bacon’s major contribution to science was thus that he was able to rescue it from the stranglehold of the deductive method whose abuse had brought scientific progress to a standstill. He thus directed the attention of scientists to nature for solutions to people’s problems, demanding empirical evidence for verification. Logic and authority in themselves were no longer regarded as conclusive means of proof and instead became sources of hypotheses about the world and its phenomena.
+
+Bacon’s inductive method was eventually followed by the inductive-deductive approach which combines Aristotelian deduction with Baconian induction. Here the researcher is involved in a back-and-forth process of induction (from observation to hypothesis, from the specific to the general) and deduction (from hypothesis to implications) (Mouly, 1978). Hypotheses are tested rigorously and, if necessary, revised.
+
+Although both deduction and induction have their weaknesses, their contributions to the development of science are enormous, for example: (1) the suggestion of hypotheses; (2) the logical development of these hypotheses; and (3) the clarification and interpretation of scientific findings and their synthesis into a conceptual framework.
+
+A further means by which we set out to discover truth is research. This has been defined by Kerlinger (1970) as the systematic, controlled, empirical and critical investigation of hypothetical propositions about the presumed relations among natural phenomena. Research has three characteristics in particular which distinguish it from the first means of problem-solving identified earlier, namely, experience. First, whereas experience deals with events occurring in a haphazard manner, research is systematic and controlled, basing its operations on the inductive-deductive model outlined above. Second, research is empirical. The scientist turns to experience for validation. As Kerlinger puts it, subjective, personal belief has to have a reality check against objective, empirical facts and tests. And third, research is self-correcting. Not only does the scientific method have built-in mechanisms to protect scientists from error as far as is humanly possible, but also their procedures and results are open to public scrutiny by fellow professionals. Incorrect results in time will be found and either revised or discarded (Mouly, 1978). Research is a combination of both experience and reasoning and must be regarded as the most successful approach to the discovery of truth, particularly as far as the natural sciences are concerned (Borg, 1963).1
+
+Educational research has absorbed several competing views of the social sciences – the established, traditional view and an interpretive view, and several others that we explore in this chapter, including critical theory, feminist theory and complexity theory. The established, traditional view holds that the social sciences are essentially the same as the natural sciences and are therefore concerned with discovering natural and universal laws regulating and determining individual and social behaviour; the interpretive view, however, while sharing the rigour of the natural sciences and the same concern of traditional social science to describe and explain human behaviour, emphasizes how people differ from inanimate natural phenomena and, indeed, from each other. These contending views – and also their corresponding reflections in educational research – stem in the first instance from different conceptions of social reality and of individual and social behaviour. It will help our understanding of the issues to be developed subsequently if we examine these in a little more detail.
+
+Since the ground-breaking work of Kuhn (1962), approaches to methodology in research have been seen to reside in ‘paradigms’ and communities of scholars. A paradigm is a way of looking at or researching phenomena, a world view, a view of what counts as accepted or correct scientific knowledge or way of working, an ‘accepted model or pattern’ (Kuhn, 1962: 23), a shared belief system or set of principles, the identity of a research community, a way of pursuing knowledge, consensus on what problems are to be investigated and how to investigate them, typical solutions to problems, and an understanding that is more acceptable than its rivals. A notable example of this is the old paradigm that placed the earth at the centre of the universe, only to be replaced by the Copernican heliocentric model as evidence and explanation became more persuasive of the new paradigm. Importantly, one has to note that the old orthodoxy retained its value for generations because it was supported by respected and powerful scientists and, indeed, others (witness the attempts made by the Catholic Church to silence Galileo in his advocacy of the heliocentric model of the universe). More recently the Newtonian view of the mechanical universe has been replaced by the Einsteinian view of a relativistic, evolving universe. More recently still, the idea of a value-free, neutral, objective, positivist science has been replaced by a post-positivist, critical realist view of science with its hallmarks in conjecture (Popper, 1980), the (subjective) value systems of researchers, phenomenology, subjectivity, the need for reflexivity in research (discussed later in this book), the value of qualitative approaches to research, and the contribution of critical theory and feminist approaches to research methodologies and principles.
+
+Post-positivists argue that facts and observations are theory-laden and value-laden (Popper, 1980; Feyerabend, 1975; Reichardt and Rallis, 1994), that facts and theories are fallible, that different theories may support specific observations/facts, and that social facts, even ways of thinking and observing, are social constructions rather than objectively and universally true (Nisbett, 2005).
+
+At issue here is the significance of regarding approaches to research as underpinned by different paradigms, an important characteristic of which is their incommensurability with each other (i.e. one cannot hold two distinct paradigms simultaneously as there is no common asset of principles, standards or measures). That said, the later part of this chapter sets out a new ‘paradigm’ of mixed methods research, and this might be seen to challenge, if only in part, the incommensurability argument.
+
+As more knowledge is acquired to challenge an existing paradigm, such that the original paradigm cannot explain a phenomenon as well as the new paradigm, there comes about a ‘scientific revolution’, a paradigm shift, in which the new paradigm replaces the old as the orthodoxy – the ‘normal science’ – of the day. Kuhn’s (1962) notions of paradigms and paradigm shifts link here objects of study and communities of scholars, where the field of knowledge or paradigm is seen to be only as good as the evidence and the respect in which it is held by ‘authorities’.
+
+This chapter sets out several paradigms of educational research.
+
+1.3 Two conceptions of social reality
+
+The views of social science that we have mentioned represent strikingly different ways of looking at social reality and are constructed on correspondingly different ways of interpreting it. We can perhaps most profitably approach these conceptions of the social world by examining the explicit and implicit assumptions underpinning them. Our analysis is based on the work of Burrell and Morgan (1979) who identified four sets of such assumptions.
+
+First, there are assumptions of an ontological kind – assumptions which concern the very nature or essence of the social phenomena being investigated. Thus, the authors ask, is social reality external to individuals – imposing itself on their consciousness from without – or is it the product of individual consciousness? Is reality of an objective nature, or the result of individual cognition? Is it a given ‘out there’ in the world, or is it created by one’s own mind? These questions spring directly from what philosophy terms the nominalist-realist debate. The former view holds that objects of thought are merely words and that there is no independently accessible thing constituting the meaning of a word. The realist position, however, contends that objects have an independent existence and are not dependent for it on the knower.
+
+The second set of assumptions identified by Burrell and Morgan (1979) are of an epistemological kind. These concern the very bases of knowledge – its nature and forms, how it can be acquired, and how communicated to other human beings. How one aligns oneself in this particular debate profoundly affects how one will go about uncovering knowledge of social behaviour. The view that knowledge is hard, objective and tangible will demand of researchers an observer role, together with an allegiance to the methods of natural science; to see knowledge as personal, subjective and unique, however, imposes on researchers an involvement with their subjects and a rejection of the ways of the natural scientist. To subscribe to the former is to be positivist; to the latter, anti-positivist or post-positivist.
+
+The third set of assumptions concern human nature and, in particular, the relationship between human beings and their environment. Since the human being is both its subject and object of study, the consequences for social science of assumptions of this kind are indeed far-reaching. Two images of human beings emerge from such assumptions – the one portrays them as responding mechanically and deterministically to their environment, i.e. as products of the environment, controlled like puppets; the other, as initiators of their own actions with free will and creativity, producing their own environments. The difference is between determinism and voluntarism respectively (Burrell and Morgan, 1979).
+
+It would follow from what we have said so far that the three sets of assumptions identified above have direct implications for the methodological concerns of researchers, since the contrasting ontologies, epistemologies and models of human beings will in turn demand different research methods. Investigators adopting an objectivist (or positivist) approach to the social world and who treat it like the world of natural phenomena as being real and external to the individual will choose from a range of traditional options – surveys, experiments and the like. Others favouring the more subjectivist (or anti-positivist) approach and who view the social world as being of a much more personal and humanly created kind will select from a comparable range of recent and emerging techniques – accounts, participant observation and personal constructs, for example.
+
+Where one subscribes to the view which treats the social world like the natural world – as if it were an external and objective reality – then scientific investigation will be directed at analysing the relationships and regularities between selected factors in that world. It will be predominantly quantitative and will be concerned with identifying and defining elements and discovering ways in which their relationships can be expressed. Hence, they argue, methodological issues, of fundamental importance, are thus the concepts themselves, their measurement and the identification of underlying themes in a search for universal laws which explain and govern that which is being observed (Burrell and Morgan, 1979). An approach characterized by procedures and methods designed to discover general laws may be referred to as nomothetic.
+
+However, if one favours the alternative view of social reality which stresses the importance of the subjective experience of individuals in the creation of the social world, then the search for understanding focuses upon different issues and approaches them in different ways. The principal concern is with an understanding of the way in which individuals create, modify and interpret the world in which they find themselves. The approach now takes on a qualitative as well as quantitative aspect. As Burrell and Morgan (1979) and Kirk and Miller (1986: 14) observe, emphasis here is placed on explanation and understanding of the unique and the particular individual case rather than the general and the universal; the interest is in a subjective, relativistic social world rather than an absolutist, external reality. In its emphasis on the particular and individual this approach to understanding individual behaviour may be termed idiographic.
+
+In this review of Burrell and Morgan’s analysis of the ontological, epistemological, human and methodological assumptions underlying two ways of conceiving social reality, we have laid the foundations for a more extended study of the two contrasting perspectives evident in the practices of researchers investigating human behaviour and, by adoption, educational problems. Figure 1.1 summarizes these assumptions along a subjective/objective dimension. It identifies the four sets of assumptions by using terms we have adopted in the text and by which they are known in the literature of social philosophy.
+
+Each of the two perspectives on the study of human behaviour outlined above has profound implications for research in classrooms and schools. The choice of problem, the formulation of questions to be answered, the characterization of pupils and teachers, methodological concerns, the kinds of data sought and their mode of treatment, all are influenced by the viewpoint held. Some idea of the considerable practical implications of the contrasting views can be gained by examining Table 1.1 which compares them with respect to a number of critical issues within a broadly societal and organizational framework. Implications of the two perspectives for research into classrooms and schools will unfold in the course of the text.
+
+A scheme for analysing assumptions about the nature of social science
+
+[图片: images/013_1 The nature of enquiry_ setting the field/005_f0007-01.jpg | image]
+
+FIGURE 1.1 The subjective-objective dimension
+
+Source: Burrell and Morgan, 1979
+
+Because of its significance for the epistemological basis of social science and its consequences for educational research, we devote much discussion in this chapter to the debate on positivism and anti-positivist/post-positivism, and on alternative paradigms and rationales for understanding educational research.
+
+1.4 Positivism
+
+Although positivism has been a recurrent theme in the history of western thought from the Ancient Greeks to the present day, it is historically associated with the nineteenth-century French philosopher, Auguste Comte, who was the first thinker to use the word for a philosophical position (Beck, 1979) and who gave rise to sociology as a distinct discipline. His positivism turns to observation and reason as means of understanding behaviour; explanation proceeds by way of scientific description. In his study of the history of the philosophy and methodology of science, Oldroyd (1986) says that, in this view, social phenomena could be researched in ways similar to natural, physical phenomena, i.e. generating laws and theories that could be investigated empirically.
+
+Comte’s position was to lead to a general doctrine of positivism which held that all genuine knowledge is based on sense experience and can only be advanced by means of observation and experiment. Following in the empiricist tradition, it limited enquiry and belief to what can be firmly established, and in thus abandoning metaphysical and speculative attempts to gain knowledge by reason alone, the movement developed a rigorous orientation to social facts and natural phenomena to be investigated empirically (Beck, 1979).
+
+Though the term positivism is used by philosophers and social scientists, a residual meaning is always present and this derives from an acceptance of natural science as the paradigm of human knowledge (Duncan, 1968). This includes the following connected suppositions, identified by Giddens (1975). First, the methodological procedures of natural science may be directly applied to the social sciences. Positivism here implies a particular stance concerning the social scientist as an observer of social reality. Second, the end-product of investigations by social scientists can be formulated in terms parallel to those of natural science. This means that their analyses must be expressed in laws or law-like generalizations of the same kind that have been established in relation to natural phenomena. Positivism here involves a definite view of social scientists as analysts or interpreters of their subject matter. Positivism claims that science provides us with the clearest possible ideal of knowledge.
+
+Where positivism is less successful, however, is in its application to the study of human behaviour where the immense complexity of human nature and the elusive and intangible quality of social phenomena contrast strikingly with the order and regularity of the natural world. This point is nowhere more apparent than in the contexts of classroom and school where the problems of teaching, learning and human interaction present the positivistic researcher with a mammoth challenge.
+
+We now look more closely at some of the features of the scientific method that is underpinned by positivism.
+
+TABLE 1.1 ALTERNATIVE BASES FOR INTERPRETINg SOCIAL REALITY
+
+Conceptions of social reality
+
+Dimensions of comparison
+
+Objectivist
+
+Subjectivist
+
+Philosophical basis
+
+Realism: the world exists and is knowable as it really is. Organizations are real entities with a life of their own.
+
+Idealism: the world exists but different people construe it in very different ways. Organizations are invented social reality.
+
+The role of social science
+
+Discovering the universal laws of society and human conduct within it.
+
+Discovering how different people interpret the world in which they live.
+
+Basic units of social reality
+
+The collectivity: society or organizations.
+
+Individuals acting singly or together.
+
+Methods of understanding
+
+Identifying conditions or relationships which permit the collectivity to exist. Conceiving what these conditions and relationships are.
+
+Interpretation of the subjective meanings which individuals place upon their action. Discovering the subjective rules for such action.
+
+Theory
+
+A rational edifice built by scientists to explain human behaviour.
+
+Sets of meanings which people use to make sense of their world and behaviour within it.
+
+Research
+
+Experimental or quasi-experimental validation of theory.
+
+The search for meaningful relationships and the discovery of their consequences for action.
+
+Methodology
+
+Abstraction of reality, especially through mathematical models and quantitative analysis.
+
+The representation of reality for purposes of comparison. analysis of language and meaning.
+
+Society
+
+Ordered. governed by a uniform set of values and made possible only by those values.
+
+Conflicted. governed by the values of people with access to power.
+
+Organizations
+
+Goal oriented. Independent of people. Instruments of order in society serving both society and the individual.
+
+Dependent upon people and their goals. Instruments of power which some people control and can use to attain ends which seem good to them.
+
+Organizational pathologies
+
+Organizations get out of kilter with social values and individual needs.
+
+Given diverse human ends, there is always conflict among people acting to pursue them.
+
+Prescription for change
+
+Change the structure of the organization to meet social values and individual needs.
+
+Find out what values are embodied in organizational action and whose they are. Change the people or change their values if you can.
+
+Source: Adapted from Barr Greenfield, 1975.
+
+1.5 The assumptions and nature of science
+
+We begin with an examination of the tenets of scientific faith: the kinds of assumptions held by scientists, often implicitly, as they go about their daily work. First, there is the assumption of determinism. This means simply that events have causes, that events are determined by other circumstances; and science proceeds on the belief that these causal links can eventually be uncovered and understood, that the events are explicable in terms of their antecedents. Moreover, not only are events in the natural world determined by other circumstances, but there is regularity about the way in which they are determined: the universe does not behave capriciously. It is the ultimate aim of scientists to formulate laws to account for the happenings in the world, thus giving them a firm basis for prediction and control.
+
+The second assumption is that of empiricism. We have already touched upon this viewpoint, which holds that certain kinds of reliable knowledge can only derive from experience. In practice, this means scientifically that the tenability of a theory or hypothesis depends on the nature of the empirical evidence for its support. Empirical here means that which is verifiable by observation and direct experience (Barratt, 1971); and evidence, data yielding proof or strong confirmation, in probability terms, of a theory or hypothesis in a research setting.
+
+Mouly (1978) identifies five steps in the process of empirical science:
+
+1 experience – the starting point of scientific endeavour at the most elementary level
+
+2 classification – the formal systematization of otherwise incomprehensible masses of data
+
+3 quantification – a more sophisticated stage where precision of measurement allows more adequate analysis of phenomena by mathematical means
+
+4 discovery of relationships – the identification and classification of functional relationships among phenomena
+
+5 approximation to the truth – science proceeds by gradual approximation to the truth.
+
+The third assumption underlying the work of the scientist is the principle of parsimony. The basic idea is that phenomena should be explained in the most economical way possible, as Einstein was known to remark – one should make matters as simple as possible, but no simpler! The first historical statement of the principle was by William of Occam when he said that explanatory principles (entities) should not be needlessly multiplied (‘Occam’s razor’). It may, of course, be interpreted in various ways: that it is preferable to account for a phenomenon by two concepts rather than three; that a simple theory is to be preferred to a complex one.
+
+The final assumption, that of generality, played an important part in both the deductive and inductive methods of reasoning. Indeed, historically speaking, it was the problematic relationship between the concrete particular and the abstract general that was to result in two competing theories of knowledge – the rational and the empirical. Beginning with observations of the particular, scientists set out to generalize their findings to the world at large. This is so because they are concerned ultimately with explanation. Of course, the concept of generality presents much less of a problem to natural scientists working chiefly with inanimate matter than to human scientists who, of necessity having to deal with samples of larger human populations, have to exercise great caution when generalizing their findings to the particular parent populations.
+
+We come now to the core question: What is science? Kerlinger (1970) points out that in the scientific world itself two broad views of science may be found: the static and the dynamic. The static view, which has particular appeal for laypeople, is that science is an activity that contributes systematized information to the world. The work of the scientist is to uncover new facts and add them to the existing corpus of knowledge. Science is thus seen as an accumulated body of findings, the emphasis being chiefly on the present state of knowledge and adding to it.2 The dynamic view, by contrast, conceives science more as an activity, as something that scientists do. According to this conception it is important to have an accumulated body of knowledge of course, but what really matter most are the discoveries that scientists make. The emphasis here, then, is more on the heuristic nature of science.
+
+Contrasting views exist on the functions of science. We give a composite summary of these in Box 1.1. For the professional scientists however, science is seen as a way of comprehending the world; as a means of explanation and understanding, of prediction and control. For them the ultimate aim of science is theory.
+
+Theory has been defined by Kerlinger as ‘a set of interrelated constructs [concepts], definitions, and propositions that presents a systematic view of phenomena by specifying relations among variables, with the purpose of explaining and predicting the phenomena’ (Kerlinger, 1970: 9). In a sense, theory gathers together all the isolated bits of empirical data into a coherent conceptual framework of wider applicability. More than this, however, theory is itself a potential source of further information and discoveries. It is in this way a source of new hypotheses and hitherto unasked questions; it identifies critical areas for further investigation; it discloses gaps in our knowledge; and enables a researcher to postulate the existence of previously unknown phenomena.
+
+Clearly there are several different types of theory, and each type of theory defines its own kinds of ‘proof ’. For example, Morrison (1995a) identifies empirical theories, ‘grand’ theories and ‘critical’ theory. Empirical theories and critical theories are discussed below. ‘Grand theory’ is a metanarrative, defining an area of study, being speculative, clarifying conceptual structures and frameworks, and creatively enlarging the way we consider behaviour and organizations (Layder, 1994). It uses fundamental ontological and epistemological postulates which serve to define a field of enquiry (Hughes, 1976). Here empirical material tends to be used by way of illustration rather than ‘proof’. This is the stuff of some sociological theories, for example Marxism, consensus theory and functionalism. Whilst sociologists may be excited by the totalizing and all-encompassing nature of such theories, they have been subject to considerable undermining. For example, Merton (1949), Coser and Rosenberg (1969), Doll (1993) and Layder (1994) contend that whilst they might possess the attraction of large philosophical systems of considerable – Byzantine – architectonic splendour and logical consistency, nevertheless they are scientifically sterile, irrelevant and out of touch with a world that is characterized by openness, fluidity, change, heterogeneity and fragmentation. This book does not endeavour to refer to this type of theory.
+
+BOX 1.1 THE FUNCTIONS OF SCIENCE
+
+1 Its problem-seeking, question-asking, hunch-encouraging, hypotheses-producing function.
+
+2 Its testing, checking, certifying function; its trying out and testing of hypotheses; its repetition and checking of experiments; its piling up of facts.
+
+3 Its organizing, theorizing, structuring, function; its search for larger and larger generalizations.
+
+4 Its history-collecting, scholarly function.
+
+5 Its technological side; instruments, methods, techniques.
+
+6 Its administrative, executive and organizational side.
+
+7 Its publicizing and educational functions.
+
+8 Its applications to human use.
+
+9 Its appreciation, enjoyment, celebration and glorification.
+
+Source: Maslow, 1954
+
+The status of theory varies quite considerably according to the discipline or area of knowledge in question. Some theories, as in the natural sciences, are characterized by a high degree of elegance and sophistication; others, perhaps like educational theory, are only at the early stages of formulation and are thus characterized by great unevenness. Popper (1968), Lakatos (1970),3 Mouly (1978), Laudan (1990) and Rasmussen (1990) identify the following characteristics of an effective empirical theory:
+
+1 A theoretical system must permit deductions and generate laws that can be tested empirically; that is, it must provide the means for its confirmation or rejection. One can test the validity of a theory only through the validity of the propositions (hypotheses) that can be derived from it. If repeated attempts to disconfirm its various hypotheses fail, then greater confidence can be placed in its validity. This can go on indefinitely, until possibly some hypothesis proves untenable. This would constitute indirect evidence of the inadequacy of the theory and could lead to its rejection (or more commonly to its replacement by a more adequate theory that can incorporate the exception).
+
+2 Theory must be compatible with both observation and previously validated theories. It must be grounded in empirical data that have been verified and must rest on sound postulates and hypotheses. The better the theory, the more adequately it can explain the phenomena under consideration, and the more facts it can incorporate into a meaningful structure of ever-greater generalizability. There should be internal consistency between these facts. It should clarify the precise terms in which it seeks to explain, predict and generalize about empirical phenomena.
+
+3 Theories must be stated in simple terms; theory is best that explains the most in the simplest way. This is the law of parsimony. A theory must explain the data adequately and yet must not be so comprehensive as to be unwieldy. On the other hand, it must not overlook variables simply because they are difficult to explain.
+
+4 A theory should have considerable explanatory and predictive potential.
+
+5 A theory should be able to respond to observed anomalies.
+
+6 A theory should spawn a research enterprise (echoing Siegel’s (1987) comment that one of the characteristics of an effective theory is its fertility).
+
+7 A theory should demonstrate precision and universality, and set the grounds for its own falsification and verification, identifying the nature and operation of a ‘severe test’ (Popper, 1968). An effective empirical theory is tested in contexts which are different from those that gave rise to the theory, i.e. they should move beyond simply corroboration and induction and towards ‘testing’ (Laudan, 1990). It should identify the type of evidence which is required to confirm or refute the theory.
+
+8 A theory must be operationalizable precisely.
+
+9 A test of the theory must be replicable.
+
+Sometimes the word model is used instead of, or interchangeably with, theory. Both may be seen as explanatory devices or schemes having a broadly conceptual framework, though models are often characterized by the use of analogies to give a more graphic or visual representation of a particular phenomenon. Providing they are accurate and do not misrepresent the facts, models can be of great help in achieving clarity and focusing on key issues in the nature of phenomena.
+
+Hitchcock and Hughes draw together the strands of the discussion so far when they describe a theory thus:
+
+Theory is seen as being concerned with the development of systematic construction of knowledge of the social world. In doing this theory employs the use of concepts, systems, models, structures, beliefs and ideas, hypotheses (theories) in order to make statements about particular types of actions, events or activities, so as to make analyses of their causes, consequences and process. That is, to explain events in ways which are consistent with a particular philosophical rationale or, for example, a particular sociological or psychological perspective. Theories therefore aim to both propose and analyse sets of relations existing between a number of variables when certain regularities and continuities can be demonstrated via empirical enquiry.
+
+(Hitchcock and Hughes, 1995: 20–1)
+
+Scientific theories must, by their very nature, be provisional. A theory can never be complete in the sense that it encompasses all that can be known or understood about the given phenomenon. As Mouly (1978) argues, one scientific theory is replaced by a superior, more sophisticated theory, as new knowledge is acquired; this rehearses the matter of paradigms and paradigm shifts introduced earlier.
+
+In referring to theory and models, we have begun to touch upon the tools used by scientists in their work. We look now in more detail at two such tools which play a crucial role in science – the concept and the hypothesis.
+
+1.6 The tools of science
+
+Concepts express generalizations from particulars – anger, achievement, alienation, velocity, intelligence, democracy. Examining these examples more closely, we see that each is a word representing an idea: more accurately, a concept is the relationship between the word (or symbol) and an idea or conception. Whoever we are and whatever we do, we all make use of concepts. Naturally, some are shared and used by all groups of people within the same culture – child, love, justice, for example; others, however, have a restricted currency and are used only by certain groups, specialists or members of professions – idioglossia, retroactive inhibition, anticipatory socialization.
+
+Concepts enable us to impose some sort of meaning on the world; through them reality is given sense, order and coherence. They are the means by which we are able to come to terms with our experience. How we perceive the world, then, is highly dependent on the repertoire of concepts we can command. The more we have, the more sense data we can pick up and the surer will be our perceptual (and cognitive) grasp of whatever is ‘out there’. If our perceptions of the world are determined by the concepts available to us, it follows that people with differing sets of concepts will tend to view the ‘same’ objective reality differently – a doctor diagnosing an illness will draw upon a vastly different range of concepts from, say, the restricted and perhaps simplistic notions of the layperson in that context.
+
+So, you may ask, where is all this leading? Simply to this: that social scientists have likewise developed, or appropriated by giving precise meaning to, a set of concepts which enable them to shape their perceptions of the world in a particular way, to represent that slice of reality which is their special study. And collectively, these concepts form part of their wider meaning system which permits them to give accounts of that reality, accounts which are rooted and validated in the direct experience of everyday life. These points may be exemplified by the concept of social class. Hughes says that it offers ‘a rule, a grid, even though vague at times, to use in talking about certain sorts of experience that have to do with economic position, life-style, life chances, and so on’ (Hughes, 1976: 34).
+
+There are two important points to stress when considering scientific concepts. The first is that they do not exist independently of us: they are indeed our inventions, enabling us to acquire some understanding of nature. The second is that they are limited in number and in this way contrast with the infinite number of phenomena they are required to explain.
+
+A second tool of great importance to the scientist is the hypothesis. It is from this that much research proceeds, especially where cause-and-effect or concomitant relationships are being investigated. The hypothesis has been defined by Kerlinger (1970) as a conjectural statement of the relations between two or more variables, or ‘an educated guess’, though it is unlike an educated guess in that it is often the result of considerable study, reflective thinking and observation. Medawar writes of the hypothesis and its function thus:
+
+All advances of scientific understanding, at every level, begin with a speculative adventure, an imaginative preconception of what might be true – a preconception which always, and necessarily, goes a little way (sometimes a long way) beyond anything which we have logical or factual authority to believe in. It is the invention of a possible world, or of a tiny fraction of that world. The conjecture is then exposed to criticism to find out whether or not that imagined world is anything like the real one. Scientific reasoning is therefore at all levels an interaction between two episodes of thought – a dialogue between two voices, the one imaginative and the other critical; a dialogue, if you like, between the possible and the actual, between proposal and disposal, conjecture and criticism, between what might be true and what is in fact the case.
+
+(Medawar, 1972: 22)
+
+Kerlinger (1970) has identified two criteria for ‘good’ hypotheses. The first is that hypotheses are statements about the relations between variables; and second, that hypotheses carry clear implications for testing the stated relations. To these he adds two ancillary criteria: that hypotheses disclose compatibility with current knowledge; and that they are expressed as economically as possible. Thus if we conjecture that social class background determines academic achievement, we have a relationship between one variable, social class, and another, academic achievement. And since both can be measured, the primary criteria specified by Kerlinger can be met. Neither do they violate the ancillary criteria proposed by Kerlinger (see also Box 1.2).
+
+He further identifies four reasons for the importance of hypotheses as tools of research. First, they organize the efforts of researchers. The relationship expressed in the hypothesis indicates what they should do. Hypotheses enable researchers to understand the problem with greater clarity and provide them with a framework for collecting, analysing and interpreting their data. Second, they are, in Kerlinger’s words, the working instruments of theory. They can be deduced from theory or from other hypotheses. Third, they can be tested, empirically or experimentally, thus resulting in confirmation or rejection. And there is always the possibility that a hypothesis, once supported and established, may become a law. And fourth, hypotheses are powerful tools for the advancement of knowledge because, as Kerlinger explains, they enable us to get outside ourselves. Hypotheses and concepts play a crucial part in the scientific method and it is to this that we now turn our attention.
+
+1.7 The scientific method
+
+If the most distinctive feature of science is its empirical nature, the next most important characteristic is its set of procedures which show not only how findings have been arrived at, but are sufficiently clear for fellow-scientists to repeat them, i.e. to check them out with the same or other materials and thereby test the results. As Cuff and Payne say: ‘A scientific approach necessarily involves standards and procedures for demonstrating the “empirical warrant” of its findings, showing the match or fit between its statements and what is happening or has happened in the world’ (Cuff and Payne, 1979: 4). These standards and procedures we will call for convenience ‘the scientific method’, though this can be somewhat misleading, as the combination of the definite article, adjective and singular noun conjures up in the minds of some people a single invariant approach to problem-solving, an approach frequently involving
+
+BOX 1.2 THE HYPOTHESIS 
+
+Once one has a hypothesis to work on, the scientist can move forward; the hypothesis will guide the researcher on the selection of some observations rather than others and will suggest experiments. Scientists soon learn by experience the characteristics of a good hypothesis. A hypothesis that is so loose as to accommodate any phenomenon tells us precisely nothing; the more phenomena it prohibits, the more informative it is. atoms or rats, and taking place within the confines of a laboratory. Yet there is much more to it than this. The term in fact cloaks a number of methods which vary in their degree of sophistication depending on their function and the particular stage of development a science has reached.
+
+A good hypothesis must also have logical immediacy, i.e. it must provide an explanation of whatever it is that needs to be explained and not an explanation of other phenomena. Logical immediacy in a hypothesis means that it can be tested by comparatively direct and practicable means. A large part of the art of the soluble is the art of devising hypotheses that can be tested by practicable experiments.
+
+Source: Adapted from Medawar, 1981
+
+Box 1.3 sets out the sequence of stages through which a science normally passes in its development or, perhaps more realistically, that are constantly present in its progress and on which scientists may draw depending on the kind of information they seek or the kind of problem confronting them. Of particular interest in our efforts to elucidate the term ‘scientific method’ are stages 2, 3 and 4. Stage 2 is a relatively uncomplicated point at which the researcher is content to observe and record facts and possibly arrive at some system of classification. Much research in the field of education, especially at classroom and school level, is conducted in this way, e.g. surveys and case studies. Stage 3 introduces a note of added sophistication as attempts are made to establish relationships between variables within a loose framework of inchoate theory. Stage 4 is the most sophisticated stage and often the one that many people equate exclusively with the scientific method. In order to arrive at causality, as distinct from mere measures of association, researchers here design experimental situations in which variables are manipulated to test their chosen hypotheses. This process moves from early, inchoate ideas, to more rigorous hypotheses, to empirical testing of those hypotheses, thence to confirmation or modification of the hypotheses (Kerlinger, 1970).
+
+With stages 3 and 4 of Box 1.3 in mind, we may say that the scientific method begins consciously and deliberately by selecting from the total number of elements in a given situation.
+
+Hitchcock and Hughes (1995: 23) suggest an eight stage model of the scientific method that echoes Kerlinger. This is represented in Box 1.4.
+
+The elements the researchers fasten on to will naturally be suitable for scientific formulation; this means simply that they will possess quantitative aspects. Their principal working tool will be the hypothesis which, as we have seen, is a statement indicating a relationship (or its absence) between two or more of the chosen elements and stated in such a way as to carry clear implications for testing. Researchers then choose the most appropriate method and put their hypotheses to the test.
+
+BOX 1.3 STAGES IN THE DEVELOPMENT OF A SCIENCE 
+
+1 Definition of the science and identification of the phenomena that are to be subsumed under it.
+
+2 Observational stage at which the relevant factors, variables or items are identified and labelled; and at which categories and taxonomies are developed.
+
+3 Correlational research in which variables and parameters are related to one another and information is systematically integrated as theories begin to develop.
+
+4 The systematic and controlled manipulation of variables to see if experiments will produce expected results, thus moving from correlation to causality.
+
+5 The firm establishment of a body of theory as the outcomes of the earlier stages are accumulated. Depending on the nature of the phenomena under scrutiny, laws may be formulated and systematized.
+
+6 The use of the established body of theory in the resolution of problems or as a source of further hypotheses.
+
+BOX 1.4 AN EIGHT-STAGE MODEL OF THE SCIENTIFIC METHOD 
+
+Stage 1: Hypotheses, hunches and guesses
+
+Stage 2: Experiment designed; samples taken; variables isolated
+
+Stage 3: Correlations observed; patterns identified
+
+Stage 4: Hypotheses formed to explain regularities
+
+Stage 5: Explanations and predictions tested; falsifiability
+
+Stage 6: Laws developed or disconfirmation (hypothesis rejected)
+
+Stage 7: Generalizations made
+
+Stage 8: New theories
+
+1.8 Criticisms of positivism and the scientific method
+
+In spite of the scientific enterprise’s proven success using positivism – especially in the field of natural science – its ontological and epistemological bases have been the focus of sustained and sometimes vehement criticism from some quarters. Beginning in the second half of the nineteenth century, the revolt against positivism occurred on a broad front, attracting some of the best intellectuals in Europe – philosophers, scientists, social critics and creative artists. Essentially, it has been a reaction against the world picture projected by science which, it is contended, undermines life and mind. The precise target of the anti-positivists’ attack has been science’s mechanistic and reductionist view of nature which, by definition, defines life in measurable terms rather than inner experience, and excludes notions of choice, freedom, individuality and moral responsibility, regarding the universe as a living organism rather than as a machine (e.g. Nesfield-Cookson, 1987).
+
+Another challenge to the claims of positivism came from Søren Kierkegaard, the Danish philosopher, one of the originators of existentialism. Kierkegaard was concerned with individuals and their need to fulfil themselves to the highest level of development. This realization of a person’s potential was for him the meaning of existence which he saw as ‘concrete and individual, unique and irreducible, not amenable to conceptualization’ (Beck, 1979). Characteristic features of the age in which we live – democracy’s apparent mutation into crowd mentality, the ascendancy of reason, scientific and technological progress – all militate against the achievement of this end and contribute to the dehumanization of the individual. In his desire to free people from their illusions, the illusion Kierkegaard was most concerned about was that of objectivity. By this he meant the imposition of rules of behaviour and thought, and the making of a person into an observer set on discovering general laws governing human behaviour. The capacity for subjectivity, he argued, should be regained and retained. This he regarded as the ability to consider one’s own relationship to whatever constitutes the focus of enquiry. The contrast he made between objectivity and subjectivity is brought out in the following passage:
+
+When the question of truth is raised in an objective manner, reflection is directed objectively to the truth as an object to which the knower is related. Reflection is not focused on the relationship, however, but upon the question of whether it is the truth to which the knower is related. If only the object to which he is related is the truth, the subject is accounted to be in the truth. When the question of truth is raised subjectively, reflection is directed subjectively to the nature of the individual’s relationship; if only the mode of this relationship is in the truth, the individual is in the truth, even if he should happen to be thus related to what is not true.
+
+(Kierkegaard, 1974: 178)
+
+For Kierkegaard, ‘subjectivity and concreteness of truth are together the light. Anyone who is committed to science, or to rule-governed morality, is benighted, and needs to be rescued from his state of darkness’ (Warnock, 1970).
+
+Also concerned with the dehumanizing effects of the social sciences is Ions (1977). While acknowledging that they can take much credit for throwing light in dark corners, he expresses serious concern at the way in which quantification and computation, assisted by statistical theory and method, are used. He argues that quantification is a form of collectivism, but that this runs the risk of depersonalization. His objection is not directed at quantification per se, but at quantification when it becomes an end in itself – ‘a branch of mathematics rather than a humane study seeking to explore and elucidate the gritty circumstances of the human condition’ (Ions, 1977). This echoes Horkheimer’s (1972) powerful critique of positivism as the mathematization of concepts about nature and of scientism – science’s belief in itself as the only way of conducting research and explaining phenomena.
+
+Another forceful critic of the objective consciousness has been Roszak (1970, 1972), who argues that science, in its pursuit of objectivity, is a form of alienation from our true selves and from nature. The justification for any intellectual activity lies in the effect it has on increasing our awareness and degree of consciousness. This increase, some claim, has been retarded in our time by the excessive influence that the positivist paradigm has exerted on areas of our intellectual life. Holbrook (1977), for example, affording consciousness a central position in human existence and deeply concerned with what happens to it, condemns positivism and empiricism for their bankruptcy of the inner world, morality and subjectivity.
+
+Hampden-Turner (1970) concludes that the social science view of human beings is biased in that it is conservative and ignores important qualities. This restricted image of humans, he contends, comes about because social scientists concentrate on the repetitive, predictable and invariant aspects of the person, on ‘visible externalities’ to the exclusion of the subjective world and on the parts of the person in their endeavours to understand the whole.
+
+Habermas (1972), in keeping with the Frankfurt School of critical theory (critical theory is discussed below) provides a corrosive critique of positivism, arguing that the scientific mentality has been elevated to an almost unassailable position – almost to the level of a religion (scientism) – as being the only epistemology of the west. In this view all knowledge becomes equated with scientific knowledge. This neglects hermeneutic, aesthetic, critical, moral, creative and other forms of knowledge. It reduces behaviour to technicism.
+
+Positivism’s concern for control and, thereby, its appeal to the passivity of behaviourism and for instrumental reason is a serious danger to the more open-ended, creative, humanitarian aspects of social behaviour. Habermas (1972, 1974) and Horkheimer (1972) argue that scientism silences an important debate about values, informed opinion, moral judgements and beliefs. Scientific explanation seems to be the only means of explaining behaviour, and, for them, this seriously diminishes the very characteristics that make humans human. It makes for a society without conscience. Positivism is unable to answer many interesting or important areas of life (Habermas, 1972: 300). Indeed this is an echo of Wittgenstein’s (1974) famous comment that when all possible scientific questions have been addressed they have left untouched the main problems of life.
+
+Other criticisms are commonly levelled at positivistic social science from within its own ranks. One is that it fails to take account of our unique ability to interpret our experiences and represent them to ourselves. We can, and do, construct theories about ourselves and our world; moreover, we act on these theories. In failing to recognize this, positivistic social science is said to ignore the profound differences between itself and the natural sciences. Social science, unlike natural science, stands in a subject-subject rather than a subject-object relation to its field of study, and works in a preinterpreted world in the sense that the meanings that subjects hold are part of their construction of the world (Giddens, 1976).
+
+The difficulty in which positivism finds itself is that it regards human behaviour as passive, essentially determined and controlled, thereby ignoring intention, individualism and freedom. This approach suffers from the same difficulties that inhere in behaviourism, which has scarcely recovered from Chomsky’s (1959) withering criticism where he writes that a singular problem of behaviourism is its inability to infer causes from behaviour, to identify the stimulus that has brought about the response – the weakness of Skinner’s stimulus-response theory. This problem with positivism also rehearses the familiar problem in social theory, namely, the tension between agency and structure (Layder, 1994): humans exercise agency – individual choice and intention – not necessarily in circumstances of their own choosing, but nevertheless they do not behave simply or deterministically like puppets.
+
+Finally, the findings of positivistic social science are often said to be so banal and trivial that they are of little consequence to those for whom they are intended, namely, teachers, social workers, counsellors, managers, and the like. The more effort, it seems, that researchers put into their scientific experimentation in the laboratory by restricting, simplifying and controlling variables, the more likely they are to end up with a ‘pruned, synthetic version of the whole, a constructed play of puppets in a restricted environment’.4
+
+These are formidable criticisms; but what alternatives are proposed by the detractors of positivistic social science?
+
+1.9 Alternatives to positivistic social science – naturalistic approaches
+
+Although the opponents of positivism within social science itself subscribe to a variety of schools of thought each with its own subtly different epistemological viewpoint, they are united by their common rejection of the belief that human behaviour is governed by general, universal laws and characterized by underlying regularities. Moreover, they would agree that the social world can only be understood from the standpoint of the individuals who are part of the ongoing action being investigated and that their model of a person is an autonomous one, not the plastic version favoured by positivist researchers. In rejecting the viewpoint of the detached, objective observer – a mandatory feature of traditional research – anti-positivists and post-positivists would argue that individuals’ behaviour can only be understood by the researcher sharing their frame of reference: understanding of individuals’ interpretations of the world around them has to come from the inside, not the outside. Social science is thus seen as a subjective rather than an objective undertaking, as a means of dealing with the direct experience of people in specific contexts, and where social scientists understand, explain and demystify social reality through the eyes of different participants; the participants themselves define the social reality (Beck, 1979).
+
+The anti-positivist/post-positivist movement has influenced those constituent areas of social science of most concern to us, namely, psychology, social psychology and sociology. In the case of psychology, for instance, a school of humanistic psychology has emerged alongside the coexisting behaviouristic and psychoanalytic schools. Arising as a response to the challenge to combat the growing feelings of dehumanization which characterize many social and cultural milieux, it sets out to study and understand the person as a whole (Buhler and Allen, 1972). Humanistic psychologists present a model of people that is positive, active and purposive, and at the same time stresses their own involvement with the life experience itself. They do not stand apart, introspective, hypothesizing. Their interest is directed at the intentional and creative aspects of the human being. The perspective adopted by humanistic psychologists is naturally reflected in their methodology. They are dedicated to studying the individual in preference to the group, and consequently prefer idiographic approaches to nomothetic ones. The implications of the movement’s philosophy for the education of the human being have been drawn by Carl Rogers (1942, 1945, 1969).5.
+
+Comparable developments within social psychology may be perceived in the ‘science of persons’ movement. It is argued here that we must use ourselves as a key to our understanding of others and, conversely, our understanding of others as a way of finding out about ourselves, an anthropomorphic model of people. Since anthropomorphism means, literally, the attribution of human form and personality, the implied criticism is that social psychology as traditionally conceived has singularly failed, so far, to model people as they really are. As some wry commentators have pleaded, ‘For scientific purposes, treat people as if they were human beings’ (Harré and Secord, 1972), which entails treating them as capable of monitoring and arranging their own actions, exercising their agency.
+
+Social psychology’s task is to understand people in the light of this anthropomorphic model. Proponents of this ‘science of persons’ approach place great store on the systematic and painstaking analysis of social episodes, i.e. behaviour in context. In Box 1.5 we give an example of such an episode taken from a classroom study. Note how the particular incident would appear on an interaction analysis coding sheet of a researcher employing a positivistic approach. Note, too, how this slice of classroom life can only be understood by knowledge of the specific organizational background and context in which it is embedded.
+
+BOX 1.5 A CLASSROOM EPISODE
+
+Walker and Adelman describe an incident in the following manner:
+
+In one lesson the teacher was listening to the boys read through short essays that they had written for homework on the subject of ‘Prisons’. After one boy, Wilson, had finished reading out his rather obviously skimped piece of work the teacher sighed and said, rather crossly:
+
+T: Wilson, we’ll have to put you away if you don’t change your ways, and do your homework. Is that all you’ve done?
+
+P: Strawberries, strawberries. (Laughter)
+
+Now at first glance this is meaningless. An observer coding with Flanders Interaction Analysis Categories (FIAC) would write down:
+
+‘7’ (teacher criticizes) followed by a,
+
+‘4’ (teacher asks question) followed by a,
+
+‘9’ (pupil irritation) and finally a,
+
+‘10’ (silence or confusion) to describe the laughter.
+
+Such a string of codings, however reliable and valid, would not help anyone to understand why such an interruption was funny. Human curiosity makes us want to know why everyone laughs – and so, I would argue, the social scientist needs to know too. Walker and Adelman asked subsequently why ‘strawberries’ was a stimulus to laughter and were told that the teacher frequently said the pupils’ work was ‘like strawberries – good as far as it goes, but it doesn’t last nearly long enough’. Here a casual comment made in the past has become an integral part of the shared meaning system of the class. It can only be comprehended by seeing the relationship as developing over time.
+
+Source: Adapted from Delamont, 1976
+
+The approach to analysing social episodes in terms of the ‘actors’ themselves is known as the ‘ethogenic method’.6 Unlike positivistic social psychology which ignores or presumes its subjects’ interpretations of situations, ethogenic social psychology concentrates upon the ways in which persons construe their social world. By probing at their accounts of their actions, it endeavours to come up with an understanding of what those persons were doing in the particular episode.
+
+As an alternative to positivist approaches, naturalistic, qualitative, interpretive approaches of various hues possess particular distinguishing features:
+
+[图片: images/013_1 The nature of enquiry_ setting the field/006_box.jpg | image]
+ people are deliberate and creative in their actions, they act intentionally and make meanings in and through their activities (Blumer, 1969);
+
+[图片: images/013_1 The nature of enquiry_ setting the field/007_box.jpg | image]
+ people actively construct their social world – they are not the ‘cultural dopes’ or passive dolls of positivism (Becker, 1970; Garfinkel, 1967);
+
+[图片: images/013_1 The nature of enquiry_ setting the field/008_box.jpg | image]
+ situations are fluid and changing rather than fixed and static; events and behaviour evolve over time and are richly affected by context – they are ‘situated activities’;
+
+[图片: images/013_1 The nature of enquiry_ setting the field/009_box.jpg | image]
+ events and individuals are unique and largely non-generalizable;
+
+[图片: images/013_1 The nature of enquiry_ setting the field/010_box.jpg | image]
+ a view that the social world should be studied in its natural state, without the intervention of, or manipulation by, the researcher (Hammersley and Atkinson, 1983);
+
+[图片: images/013_1 The nature of enquiry_ setting the field/011_box.jpg | image]
+ fidelity to the phenomena being studied is fundamental;
+
+[图片: images/013_1 The nature of enquiry_ setting the field/012_box.jpg | image]
+ people interpret events, contexts and situations, and act on the bases of those events (echoing Thomas’s (1928) famous dictum that if people define their situations as real then they are real in their consequences – if I believe there is a mouse under the table, I will act as though there is a mouse under the table, whether there is or not (Morrison, 1998));
+
+[图片: images/013_1 The nature of enquiry_ setting the field/013_box.jpg | image]
+ there are multiple interpretations of, and perspectives on, single events and situations;
+
+[图片: images/013_1 The nature of enquiry_ setting the field/014_box.jpg | image]
+ reality is multilayered and complex;
+
+[图片: images/013_1 The nature of enquiry_ setting the field/015_box.jpg | image]
+ many events are not reducible to simplistic interpretation, hence ‘thick descriptions’ (Geertz, 1973) are essential rather than reductionism, that is to say thick descriptions representing the complexity of situations are preferable to simplistic ones;
+
+[图片: images/013_1 The nature of enquiry_ setting the field/016_box.jpg | image]
+ we need to examine situations through the eyes of participants rather than the researcher.
+
+The anti-positivist/post-positivist movement in sociology is represented by three schools of thought – phenomenology, ethnomethodology and symbolic interactionism. A common thread running through the three schools is a concern with phenomena, that is, the things we directly apprehend through our senses as we go about our daily lives, together with a consequent emphasis on qualitative as opposed to quantitative methodology. The differences between them and the significant roles each phenomenon plays in research in classrooms and schools are such as to warrant a more extended consideration of them in the discussion below.
+
+1.10 A question of terminology: the normative and interpretive paradigms
+
+So far we have introduced and used a variety of terms to describe the numerous branches and schools of thought embraced by the positivist and anti-positivist viewpoints. As a matter of convenience and as an aid to communication, we clarify at this point two generic terms conventionally used to describe these two perspectives and the categories subsumed under each, particularly as they refer to social psychology and sociology. The terms in question are ‘normative’ and ‘interpretive’. The normative paradigm (or model) contains two major orienting ideas (Douglas, 1973): first, that human behaviour is essentially rule-governed; and second, that it should be investigated by the methods of natural science. The interpretive paradigm, in contrast to its normative counterpart, is characterized by a concern for the individual. Whereas normative studies are positivist, all theories constructed within the context of the interpretive paradigm tend to be anti-positivist. As we have seen, the central endeavour in the context of the interpretive paradigm is to understand the subjective world of human experience. To retain the integrity of the phenomena being investigated, efforts are made to get inside the person and to understand from within. The imposition of external form and structure is resisted, since this reflects the viewpoint of the observer as opposed to that of the actor directly involved.
+
+Two further differences between the two paradigms may be identified at this stage: the first concerns the concepts of ‘behaviour’ and ‘action’; the second, the different conceptions of ‘theory’. A key concept within the normative paradigm, behaviour refers to responses either to external environmental stimuli (another person, or the demands of society, for instance) or to internal stimuli (hunger, or the need to achieve, for example). In either case, the cause of the behaviour lies in the past. Interpretive approaches, on the other hand, focus on action. This may be thought of as behaviour-with-meaning; it is intentional behaviour and as such, future oriented. Actions are only meaningful to us in so far as we are able to ascertain the intentions of actors to share their experiences. A large number of our everyday interactions with one another rely on such shared experiences.
+
+As regards theory, normative researchers try to devise general theories of human behaviour and to validate them through the use of increasingly complex research methodologies which, some believe, push them further and further from the experience and understanding of the everyday world and into a world of abstraction. For them, the basic reality is the collectivity; it is external to the actor and manifest in society, its institutions and its organizations. The role of theory is to say how reality hangs together in these forms or how it might be changed so as to be more effective. The researcher’s ultimate aim is to establish a comprehensive ‘rational edifice’, a universal theory, to account for human and social behaviour.
+
+But what of the interpretive researchers? They begin with individuals and set out to understand their interpretations of the world around them. Theory is emergent and must arise from particular situations; it should be ‘grounded’ in data generated by the research act (Glaser and Strauss, 1967). Theory should not precede research but follow it. Investigators work directly with experience and understanding to build their theory on them. The data thus yielded will include the meanings and purposes of those people who are their source. Further, the theory so generated must make sense to those to whom it applies. The aim of scientific investigation for the interpretive researcher is to understand how this glossing of reality goes on at one time and in one place and compare it with what goes on in different times and places. Thus theory becomes sets of meanings which yield insight and understanding of people’s behaviour. These theories are likely to be as diverse as the sets of human meanings and understandings that they are to explain. From an interpretive perspective the hope of a universal theory which characterizes the normative outlook gives way to multifaceted images of human behaviour as varied as the situations and contexts supporting them.
+
+1.11 Phenomenology, ethnomethodology and symbolic interactionism
+
+There are many variants of qualitative, naturalistic approaches (Jacob, 1987; Hitchcock and Hughes, 1995). Here we focus on three significant ‘traditions’ in this style of research – phenomenology, ethnomethodology and symbolic interactionism. In its broadest meaning, phenomenology is a theoretical point of view that advocates the study of direct experience taken at face value; and one which sees behaviour as determined by the phenomena of experience rather than by external, objective and physically described reality (English and English, 1958). Although phenomenologists differ among themselves on particular issues, there is fairly general agreement on the following points identified by Curtis (1978) which can be taken as distinguishing features of their philosophical viewpoint:
+
+1 a belief in the importance, and in a sense the primacy, of subjective consciousness;
+
+2 an understanding of consciousness as active, as meaning bestowing; and
+
+3 a claim that there are certain essential structures to consciousness of which we gain direct knowledge by a certain kind of reflection. Exactly what these structures are is a point about which phenomenologists have differed.
+
+Various strands of development may be traced in the phenomenological movement: we shall briefly examine two of them – the transcendental phenomenology of Husserl; and existential phenomenology, of which Schutz is perhaps the most characteristic representative.
+
+Husserl, regarded by many as the founder of phenomenology, was concerned with investigating the source of the foundation of science and with questioning the common-sense, ‘taken-for-granted’ assumptions of everyday life (see Burrell and Morgan, 1979). To do this, he set about opening up a new direction in the analysis of consciousness. His catchphrase was ‘back to the things!’ which for him meant finding out how things appear directly to us rather than through the media of cultural and symbolic structures. In other words, we are asked to look beyond the details of every day life to the essences underlying them. To do this, Husserl exhorts us to ‘put the world in brackets’ or free ourselves from our usual ways of perceiving the world. What is left over from this reduction is our consciousness of which there are three elements – the ‘I’ who thinks, the mental acts of this thinking subject, and the intentional objects of these mental acts. The aim, then, of this method of epoché, as Husserl called it, is the dismembering of the constitution of objects in such a way as to free us from all preconceptions about the world (see Warnock, 1970).
+
+Schutz was concerned with relating Husserl’s ideas to the issues of sociology and to the scientific study of social behaviour. Of central concern to him was the problem of understanding the meaning structure of the world of everyday life. The origins of meaning he thus sought in the ‘stream of consciousness’ – basically an unbroken stream of lived experiences which have no meaning in themselves. One can only impute meaning to them retrospectively, by the process of turning back on oneself and looking at what has been going on. In other words, meaning can be accounted for in this way by the concept of reflexivity. For Schutz, the attribution of meaning reflexively is dependent on the people identifying the purpose or goal they seek (see Burrell and Morgan, 1979).
+
+According to Schutz, the way we understand the behaviour of others is dependent on a process of typification by means of which the observer makes use of concepts resembling ‘ideal types’ to make sense of what people do. These concepts are derived from our experience of everyday life and it is through them, claims Schutz, that we classify and organize our everyday world. As Burrell and Morgan (1979) observe, we learn these typifications through our biographical locations and social contexts. Our knowledges of the everyday world inheres in social order and this world is socially ordered.
+
+The fund of everyday knowledge by means of which we are able to typify other people’s behaviour and come to terms with social reality varies from situation to situation. We thus live in a world of multiple realities, and social actors move within and between these with ease (Burrell and Morgan, 1979), abiding by the rules of the game for each of these worlds.
+
+Like phenomenology, ethnomethodology is concerned with the world of everyday life. In the words of its proponent, Harold Garfinkel, it sets out ‘to treat practical activities, practical circumstances, and practical sociological reasonings as topics of empirical study, and by paying to the most commonplace activities of daily life the attention usually accorded extraordinary events, seeks to learn about them as phenomena in their own right’ (Garfinkel, 1967: vii). He maintains that students of the social world must doubt the reality of that world; and that in failing to view human behaviour more sceptically, sociologists have created an ordered social reality that bears little relationship to the real thing. He thereby challenges the basic sociological concept of order.
+
+Ethnomethodology, then, is concerned with how people make sense of their everyday world. More especially, it is directed at the mechanisms by which participants achieve and sustain interaction in a social encounter – the assumptions they make, the conventions they utilize and the practices they adopt. Ethnomethodology thus seeks to understand social accomplishments in their own terms; it is concerned to understand them from within (see Burrell and Morgan, 1979).
+
+In identifying the ‘taken-for-granted’ assumptions characterizing any social situation and the ways in which the people involved make their activities rationally accountable, ethnomethodologists use notions like ‘indexicality’ and ‘reflexivity’. Indexicality refers to the ways in which actions and statements are related to the social contexts producing them; and to the way their meanings are shared by the participants but not necessarily stated explicitly. Indexical expressions are thus the designations imputed to a particular social occasion by the participants in order to locate the event in the sphere of reality. Reflexivity, on the other hand, refers to the way in which all accounts of social settings – descriptions, analyses, criticisms, etc. – and the social settings occasioning them are mutually interdependent.
+
+It is convenient to distinguish between two types of ethnomethodologists: linguistic and situational. The linguistic ethnomethodologists focus upon the use of language and the ways in which conversations in everyday life are structured. Their analyses make much use of the unstated ‘taken-for-granted’ meanings, the use of indexical expressions and the way in which conversations convey much more than is actually said. The situational ethnomethodologists cast their view over a wider range of social activity and seek to understand the ways in which people negotiate the social contexts in which they find themselves. They are concerned to understand how people make sense of and order their environment. As part of their empirical method, ethnomethodologists may consciously and deliberately disrupt or question the ordered ‘taken-for-granted’ elements in everyday situations in order to reveal the underlying processes at work.
+
+The substance of ethnomethodology thus largely comprises a set of specific techniques and approaches to be used in studying what Garfinkel has described as the ‘awesome indexicality’ of everyday life. It is geared to empirical study, and the stress which its practitioners place upon the uniqueness of the situation encountered, projects its essentially relativist standpoint. A commitment to the development of methodology and fieldwork has occupied first place in the interests of its adherents, so that related issues of ontology, epistemology and the nature of human beings have received less attention than perhaps they deserve.
+
+Essentially, the notion of symbolic interactionism derives from the work of Mead (1934). Although subsequently to be associated with such noted researchers as Blumer, Hughes, Becker and Goffman, the term does not represent a unified perspective in that it does not embrace a common set of assumptions and concepts accepted by all who subscribe to the approach. For our purposes, however, it is possible to identify three basic postulates. These have been set out by Woods (1979) as follows. First, human beings act towards things on the basis of the meanings they have for them. Humans inhabit two different worlds: the ‘natural’ world wherein they are organisms of drives and instincts and where the external world exists independently of them, and the social world where the existence of symbols, like language, enables them to give meaning to objects. This attribution of meanings, this interpreting, is what makes them distinctively human and social. Interactionists therefore focus on the world of subjective meanings and the symbols by which they are produced and represented. This means not making any prior assumptions about what is going on in an institution, and taking seriously, indeed giving priority to, inmates’ own accounts. Thus, if pupils appear preoccupied for too much of the time – ‘being bored’, ‘mucking about’, ‘having a laugh’, etc. – the interactionist is keen to explore the properties and dimensions of these processes.
+
+Second, this attribution of meaning to objects through symbols is a continuous process. Action is not simply a consequence of psychological attributes such as drives, attitudes or personalities, or determined by external social facts such as social structure or roles, but results from a continuous process of meaning attribution which is always emerging in a state of flux and subject to change. The individual constructs, modifies, pieces together, weighs up the pros and cons and bargains.
+
+Third, this process takes place in a social context. Individuals align their actions to those of others. They do this by ‘taking the role of the other’, by making indications to ‘themselves’ about others’ likely responses. They construct how others wish or might act in certain circumstances, and how they themselves might act. They might try to ‘manage’ the impressions others have of them, put on a ‘performance’, try to influence others’ ‘definition of the situation’.
+
+Instead of focusing on the individual, then, and his or her personality characteristics, or on how the social structure or social situation causes individual behaviour, symbolic interactionists direct their attention at the nature of interaction, the dynamic activities taking place between people. In focusing on the interaction itself as a unit of study, the symbolic interactionist creates a more active image of the human being and rejects the image of the passive, determined organism. Individuals interact; societies are made up of interacting individuals. People are constantly undergoing change in interaction and society is changing through interaction. Interaction implies human beings acting in relation to each other, taking each other into account, acting, perceiving, interpreting, acting again. Hence, a more dynamic and active human being emerges rather than an actor merely responding to others. Woods (1983: 15–16) summarizes key emphases of symbolic interaction thus:
+
+[图片: images/013_1 The nature of enquiry_ setting the field/017_box.jpg | image]
+ individuals as constructors of their own actions;
+
+[图片: images/013_1 The nature of enquiry_ setting the field/018_box.jpg | image]
+ the various components of the self and how they interact; the indications made to self, meanings attributed, interpretive mechanisms, definitions of the situation; in short, the world of subjective meanings, and the symbols by which they are produced and represented;
+
+[图片: images/013_1 The nature of enquiry_ setting the field/019_box.jpg | image]
+ the process of negotiation, by which meanings are continually being constructed;
+
+[图片: images/013_1 The nature of enquiry_ setting the field/020_box.jpg | image]
+ the social context in which they occur and whence they derive;
+
+[图片: images/013_1 The nature of enquiry_ setting the field/021_box.jpg | image]
+ by taking the ‘role of the other’ – a dynamic concept involving the construction of how others wish to or might act in a certain circumstance, and how individuals themselves might act – individuals align their actions to those of others.
+
+A characteristic common to the phenomenological, ethnomethodological and symbolic interactionist perspectives, which makes them singularly attractive to the would-be educational researcher, is the way they fit naturally to the kind of concentrated action found in classrooms and schools. Yet another shared characteristic is the manner in which they are able to preserve the integrity of the situation where they are employed. Here the influence of the researcher in structuring, analysing and interpreting the situation is present to a much smaller degree than would be the case with a more traditionally oriented research approach.
+
+1.12 Criticisms of the naturalistic and interpretive approaches
+
+Critics have wasted little time in pointing out what they regard as weaknesses in these newer qualitative perspectives. They argue that while it is undeniable that our understanding of the actions of our fellow-beings necessarily requires knowledge of their intentions, this, surely, cannot be said to comprise the purpose of a social science. As Rex has observed:
+
+Whilst patterns of social reactions and institutions may be the product of the actors’ definitions of the situations there is also the possibility that those actors might be falsely conscious and that sociologists have an obligation to seek an objective perspective which is not necessarily that of any of the participating actors at all. . . . We need not be confined purely and simply to that . . . social reality which is made available to us by participant actors themselves.
+
+(Rex, 1974)
+
+While these more recent perspectives have presented models of people that are more in keeping with common experience, some argue that anti-positivists/post-positivists have gone too far in abandoning scientific procedures of verification and in giving up hope of discovering useful generalizations about behaviour. Are there not dangers in rejecting the approach of physics in favour of methods more akin to literature, biography and journalism? Some specific criticisms of the methodologies are well directed, for example Argyle (1978) questions whether, if carefully controlled interviews such as those used in social surveys are inaccurate, then the less controlled interviews carry even greater risks of inaccuracy. Indeed Bernstein (1974) suggests that subjective reports may be incomplete and misleading. As Morrison (2009) suggests, I may believe that the teacher does not like me, and, therefore, act as though the teacher does not like me (a self-fulfilling prophecy), but, in fact, all the time the teacher actually does like me; my perception is wrong.
+
+Bernstein’s criticism is directed at the overriding concern of phenomenologists and ethnomethodologists with the meanings of situations and the ways in which these meanings are negotiated by the actors involved. What is overlooked about such negotiated meanings, observes Bernstein, is that the very process whereby one interprets and defines a situation is itself a product of the circumstances in which one is placed. One important factor in such circumstances that must be considered is the power of others to impose their own definitions of situations upon participants. Doctors’ consulting rooms and headteachers’ studies are locations in which inequalities in power are regularly imposed upon unequal participants. The ability of certain individuals, groups, classes and authorities to persuade others to accept their definitions of situations demonstrates that while – as ethnomethodologists insist – social structure is a consequence of the ways in which we perceive social relations, it is clearly more than this.
+
+Conceiving of social structure as external to ourselves helps us take its self-evident effects upon our daily lives into our understanding of the social behaviour going on about us. Here is rehearsed the tension between agency and structure of social theorists (Layder, 1994); the danger of interactionist and interpretive approaches is their relative neglect of the power of external – structural – forces to shape behaviour and events. There is a risk in interpretive approaches that they become hermetically sealed from the world outside the participants’ theatre of activity – they put artificial boundaries around subjects’ behaviour. Just as positivistic theories can be criticized for their macro-sociological persuasion, so interpretive and qualitative models can be criticized for their narrowly micro-sociological perspectives.
+
+1.13 Mixed methods research: a new paradigm?
+
+The ‘paradigm wars’ (Gage, 1989), in which one stood by one’s allegiances to quantitative or qualitative methodologies, and which sanctioned the rise of qualitative methods and the partial eclipse of solely numerical methods (Denzin, 2008: 316), have given way to mixed methods research (Gorard and Taylor, 2004; Gorard and Smith, 2006; Teddlie and Tashakkori, 2009). This recognizes that ‘qualitative or quantitative represents only one, perhaps not very useful, way of classifying methods’ (Gorard and Smith, 2006: 61), that there is a need for less confrontational approaches to be adopted between different research paradigms (Denzin, 2008: 322), greater convergence between the two (Brannen, 2005), and a greater dialogue to be engaged between them and their proponents. Mixed methods research is ‘a research paradigm whose time has come’ (Johnson and Onwuegbuzie, 2004).
+
+Ercikan and Roth (2006) argue against the polarization of research into either quantitative or qualitative approaches, and their associated objectivity and subjectivity respectively, as this is neither meaningful nor productive and because, in fact, there is compatibility between the two (see also Denscombe, 2008: 273). Schwandt (2000: 210), for example, argues that ‘all research is interpretive’ whilst, by contrast, Miles and Huberman (1994: 40) report Kerlinger’s comment that there is no such thing as qualitative data, and that ‘everything is either 1 or 0’. However, Onwuegbuzie and Leech (2005a: 377) argue that not all quantitative approaches are positivist and not all qualitative approaches are hermeneutic. They suggest that the terms ‘quantitative’ and ‘qualitative’ would be better replaced by ‘confirmatory and exploratory research’ (p. 382). They argue that methodological puritanism should give way to methodological pragmatism in addressing research questions. Indeed Caracelli and Greene (1993), Greene (2008) and Creswell (2009) suggest that mixed methods research established an early presence in evaluation research (discussed later in this chapter).
+
+Far from assuming the incommensurability of paradigms (Denzin, 2008; Trifonas, 2009: 297; Creswell, 2009: 102), mixed methods research follows from the demise of such polarities and argues for their compatibility. These same authors (see also Howe, 1988) suggest the power of integrating different approaches, ways of viewing a problem, and types of data in conducting both confirmatory and exploratory research, induction and deduction, in answering research questions, in strengthening the inferences (both in terms of processes of analysis and outcomes of analysis) that can be made from research and data, and in generating theory. Indeed Reams and Twale (2008: 133) argue that mixed methods are ‘necessary to uncover information and perspective, increase corroboration of the data, and render less biased and more accurate conclusions’.
+
+Denscombe (2008: 272) suggests that mixed methods research can: (a) increase the accuracy of data; (b) provide a more complete picture of the phenomenon under study than would be yielded by a single approach, thereby overcoming the weaknesses and biases of single approaches; (c) enable the researcher to develop the analysis and build on the original data; and (d) aid sampling (he gives the example of where a questionnaire might be used to screen potential participants who might be approached for interview purposes).
+
+The rise of mixed methods research is a signal feature of research debate in recent years, meteoric to the extent that it has been called the ‘third methodological movement’ (Teddlie and Tashakkori, 2009; Johnson et al., 2007), the ‘third research paradigm’ (Johnson and Onwuegbuzie, 2004; Johnson et al., 2007: 112; Denscombe, 2008), and the ‘third path’ (Gorard and Taylor, 2004). The rise of this approach is evidenced in the number of recent papers and ‘special issues’ of journals (e.g. Evaluation and Research in Education, 19(2), 2006), an entirely new Journal of Mixed Methods Research, the online journal International Journal of Multiple Research Approaches, the Handbook of Mixed Methods Research (Tashakkori and Teddlie, 2003) and its subsequent Foundations of Mixed Methods Research (Teddlie and Tashakkori, 2009). Mixed methods research recognizes, and works with, the fact that the world is not exclusively quantitative or qualitative; it is not an either/or world, but a mixed world, even though the researcher may find that the research has a predominant disposition to, or requirement for, numbers or qualitative data. Leech and Onwuegbuzie (2009: 265) suggest that conducting mixed methods research involves ‘collecting, analyzing, and interpreting quantitative and qualitative data in a single study or in a series of studies that investigate the same underlying phenomenon’.
+
+As a comparatively young discipline, mixed methods research has a range of different definitions (Tashakkori and Teddlie, 2003). Johnson et al. (2007: 119–21) give nineteen different definitions that vary according to what is being mixed, where and when the mixing takes place, the breadth and scope of the mixing, the reasons for the mixing, and the orientation of the research. Greene (2008: 20) suggests that a mixed method way of thinking recognizes that there are many legitimate approaches to social research and that, as a corollary, a single approach on its own will only yield a partial understanding of the phenomenon being investigated. Johnson et al. (2007) also present nine types of legitimation (validity) in mixed methods (p. 126): ‘inside-outside, sample integration, weakness minimization, sequential, conversion, paradigmatic mixing, commensurability, multiple validities, and political validity’.
+
+Tashakkori and Teddlie (2003) indicate that varieties of meanings of mixed methods research lie in six major domains: (1) basic definitions; (2) utility of mixed methods research; (3) paradigmatic foundations of mixed methods research; (4) design issues; (5) drawing inferences; and (6) logistical issues on conducting mixed methods research. Teddlie and Tashakkori (2006) set out seven dimensions in organizing different views of mixed methods research:
+
+1 the number of methodological approaches used;
+
+2 the number of strands or phases in the research;
+
+3 the type of implementation process in the research;
+
+4 the stage(s) at which the integration of approaches occur(s);
+
+5 the priority given to one or more methodological approaches (e.g. quantitative over qualitative or vice versa, or of equal emphasis);
+
+6 the purpose and function of the research study;
+
+7 the theoretical perspective(s) in the research.
+
+In a later paper (Creswell and Tashakkori, 2007) they set out four different realms of mixed methods research: (1) methods (quantitative and qualitative methods for the research and data types); (2) methodologies (mixed methods as a distinct methodology that integrates world views, research questions, methods, inferences and conclusions); (3) paradigms (philosophical foundations and world views of, and underpinning, mixed methods research); and (4) practice (mixed methods procedures in research designs). The significance of these different views is that mixed methods operate at all stages and levels of the research.
+
+Greene (2008: 8–10) organized mixed methods research into four domains:
+
+1 philosophical assumptions and stances (assumptions about ontology – the nature of the world; and epistemology – how we understand and research the world; and the warrants we use);
+
+2 enquiry logics (e.g. purposes and research questions, designs, methodologies of research, sampling, data collection and analysis, reporting and writing);
+
+3 guidelines for practice (how to mix methods in empirical research and in the study of phenomena);
+
+4 sociopolitical commitment (what and whose interests, purposes and political stances are being served).
+
+This sees a mixed methods approach as being implicit in all the stages of research: philosophical foundations and paradigms; approaches to the conduct of research and the realities it is researching; methodology, research questions and design; instrumentation, sampling, validity and reliability, data collection; data analysis and interpretation; reporting; and outcomes and uses of the research (cf. Creswell and Tashakkori, 2007). This echoes Yin (2006: 42), who sees mixed methods as entering the stages of: research questions; units of analysis; samples; instrumentation and data collection; and analytic strategies. He argues that the stronger is the mix of methods and their integration at all stages, the stronger is the benefit of mixed methods approaches (p. 46).
+
+Mixed methods approaches work beyond quantitative and qualitative exclusivity or affiliation, and in a ‘pragmatist paradigm’ (Onwuegbuzie and Leech, 2005a; Johnson et al., 2007: 113; Teddlie and Tashakkori, 2009: 4) which draws on, and integrates, both numeric and narrative approaches and data, quantitative and qualitative methods as necessary and relevant, to meet the needs of the research rather than the allegiances or preferences of the researcher, and in order to answer research questions fully (Johnson et al., 2007). Whereas positivist approaches are premised on scientific, objectivist ontologies and epistemologies, and whereas interpretive approaches are premised on humanistic and existential ontologies and epistemologies, by contrast, mixed methods approaches are premised on pragmatism ontologies and epistemologies.
+
+Pragmatism is essentially practical rather than idealistic; it is ‘practice-driven’ (Denscombe, 2008: 280). It argues that there may be both singular and multiple versions of the truth and reality, sometimes subjective and sometimes objective, sometimes scientific and sometimes humanistic. It is a matter-of-fact approach to life, oriented to the solution of practical problems in the practical world. It prefers utility, practical consequences and outcomes, and heurism over the singular pursuit of the most accurate representation of ‘reality’. Rather than engaging in the self-absorbed debate over qualitative or quantitative affiliations, it gets straight down to the business of judging research by whether it has enabled the researcher to find out what he or she wants to know, regardless of whether the data and methodologies are quantitative or qualitative (Feilzer, 2010: 14).
+
+Pragmatism adopts a methodologically eclectic, pluralist approach to research, drawing on positivism and interpretive epistemologies based on the criteria of fitness for purpose and applicability, and regarding ‘reality’ as both objective and socially constructed (Johnson and Onwuegbuzie, 2004). No longer is one a slave to methodological loyalty and a particular academic community or social context (Oakley, 1999), though, in Kuhnian terms, Denscombe (2008) argues for the mixed methods paradigm to be defined in terms of a new ‘community of practice’ of those like-minded researchers who adopt the principles of mixed methods research, and that regarding the mixed methods approach in terms of a ‘community of practice’ respects the pragmatic underpinning of this approach.
+
+Pragmatism suggests that ‘what works’ to answer the research questions is the most useful approach to the investigation, be it a combination of experiments, case studies, surveys or whatever, as such combinations enhance the quality of the research (e.g. Suter, 2005). Indeed Chatterji (2004) argues that mixed methods are unavoidable if one wishes to discover ‘what works’, in particular Extended-Term Mixed-Methods designs. Pragmatism is not an ‘anything goes’, sloppy, unprincipled approach; it has its own standards of rigour, and these are that the research must answer the research questions and ‘deliver’ useful answers to questions put by the research (Denscombe, 2008).
+
+Methodological pluralism rather than affinity to a single paradigm is the order of the day (Johnson et al., 2007: 116) as this enables errors in single approaches to be identified and rectified. It also enables meanings in data to be probed, corroboration and triangulation to be practised, rich(er) data to be gathered, and new modes of thinking to emerge where paradoxes between two individual data sources are found (Johnson et al., 2007: 115; Sechrest and Sidana, 1995).
+
+The consequences of this are that the research is driven by the research questions (which are often more than one in number and which require both quantitative and qualitative data to answer them) rather than the methodological preferences of the researcher. Greene (2008: 13) comments on the wide agreement in the mixed methods research community that methodology ‘follows from’ the purposes and questions in the research rather than vice versa, and that different kinds of mixed methods research designs follow from different kinds of research purposes (e.g. hypothesis testing, understanding, explanation, democratization (see the discussion of critical theory in Chapter 2)). Such purposes can adopt probability and non-probability samples (discussed in Chapter 8), multiple instruments for data collection and a range of data analysis methods, both numerical and qualitative.
+
+Bryman (2007a: 8) indicates a signal feature of mixed methods research, that distinguishes it from the simple usage of quantitative and qualitative research separately within a single piece of research, where he suggests that mixed methods researchers must write up their research in ‘such a way that the quantitative and qualitative components are mutually illuminating’. This criterion of ‘mutually illuminating’ not only argues for the fully integrated mixed design but it also argues for research purposes and questions to require such integration is being addressed, i.e. that the research question cannot be answered sufficiently by drawing only on one or the other of quantitative or qualitative methods, but that it requires both types of data.
+
+Indeed Tashakkori and Creswell (2007: 207) write that ‘a strong mixed methods study starts with a strong mixed methods research question’, and they suggest that such a question could ask ‘what and how’ or ‘what and why’ (p. 207), i.e. the research question, rather than requiring only numerical or qualitative data, is a ‘hybrid’ (p. 208). The research question, in fact, might be broken down into separate subquestions, each of which could be either quantitative or qualitative, as in ‘parallel’ or concurrent mixed methods designs (see below) or in ‘sequential mixed designs’ (see below), but which must converge into a combined, integrated answer to the research question. Bryman (2007a: 13) goes further, to suggest not only that qualitative and quantitative data must be mutually informing, but that the research design itself has to be set up in a way that ensures that integration will take place, i.e. so that it is not biased to, say, a numerical survey.
+
+Such a research question could be, for example: ‘What are the problems of staff turnover in inner city schools, and why do they occur?’ Here qualitative data might provide an indication of what the problems are and a range of reasons for these, whilst numerical data might provide an indication of the extent of the problems. Here qualitative data subsequently might be ‘quantitized’ into the numbers of responses expressing given reasons, or the quantitative data subsequently might be ‘qualitized’ in a narrative case study.
+
+Day and Sammons (2008) indicate how a mixed method approach can provide more nuanced and authentic accounts than single methods approaches of the complexities of phenomena under investigation. Greene (2005: 207) argues for a mixed methods approach that welcomes multiple methodological traditions, as these catch diversity and difference and are ‘anchored in values of tolerance, acceptance, respect’ and democracy (p. 208). She argues (Greene, 2008) that mixed methods research calls for equity and social justice. Indeed this is taken further by Mertens (2007), who argues that mixed methods, in seeking social justice, operates in a ‘transformative paradigm’, which is discussed in Chapter 2 (on critical theory).
+
+Further, mixed methods approaches enable a more comprehensive understanding of phenomena to be obtained than single methods approaches, combining particularity with generality, ‘patterned regularity’ with ‘contextual complexity’, ‘inside and outside perspectives, and the whole and its constituent parts’ (p. 208), and the causes of effects (discussed in Chapter 4).
+
+Onwuegbuzie and Leech (2005a: 376) argue that using mixed methods recognizes similarities between different philosophies and epistemologies (in quantitative and qualitative traditions), rather than the differences that keep them apart, and that there are far more similarities than differences between the two approaches, as both use observational data, both describe data and construct explanations and speculations about the reasons why observed outcomes are as they are (p. 379). Both concern corroboration, elaboration, both complement each other and identify important conflicts, where they arise, between findings from the two kinds of data (Brannen, 2005: 176).
+
+Mixed methods research can combine data types (numerical and qualitative) in answering research questions and also convert data (Bazeley, 2006: 66). Caracelli and Greene (1993) suggest four strategies for integrating data in mixed methods research:
+
+1 data transformation (discussed below);
+
+2 typology development (where classifications from one set or type of data are applied to the other set or type of data);
+
+3 extreme case analysis (where outliers that are found in one set of data are explored using different data and methods);
+
+4 data consolidation/merging (where new variables are created by merging data).
+
+‘Data conversion’ (‘transformation’) (Teddlie and Tashakkori, 2009: 27), is where qualitative data are ‘quantitized’ (converted into numbers, typically nominal or ordinal (see Chapter 34)) (e.g. Miles and Huberman, 1994), for example by giving frequency counts of certain responses, codes, data or themes in order to establish regularities or peculiarities (Sandelowski et al., 2009: 210), or rating scales of intensity of those responses, data, codes or themes (Teddlie and Tashakkori, 2009: 269). Bazeley (2006: 68) reports software which can assist the researcher (e.g. QDAS), for example in frequency counts. ‘Data conversion’ can also take place where numerical data are ‘qualitized’ (converted into narratives and then analysed using qualitative data analysis processes).
+
+Mixed methods research addresses both the ‘what’ (numerical and qualitative data) and ‘how or why’ (qualitative) types of research questions. This is particularly important if the intention of the researcher is really to understand the different explanations of outcomes. For example, let us say that the researcher has found that a hundred people decide that schools are like prisons. This might be an interesting finding in itself, but it might be that forty of the respondents thought they were like prisons because they restricted students’ freedom and had very harsh, controlling discipline. Twenty respondents might say that schools were like prisons because they were overcrowded; fifteen might say that schools were like prisons because the food was awful; ten might say that schools were like prisons because there was a lot of violence and bullying; ten might say schools were like prisons because they taught people how to steal and become involved in criminality; and another five might say that schools were like prisons because students had an easy life as long as they obeyed the rules. Here the reasons given for the simple statistic are very different from each other, and it is here that qualitative data can shed a lot of useful light on a simple statistic (cf. Feilzer’s (2010: 12) study of the reasons given for the limited effects of prison sentences on reducing recidivism).
+
+Teddlie and Tashakkori (2009) suggest that mixed methods research can adopt different designs:
+
+a ‘parallel mixed designs’ (p. 26) (also termed ‘concurrent designs’ (Teddlie and Tashakkori, 2006)), in which both qualitative and quantitative approaches run simultaneously but independently in addressing research questions (akin to the familiar notion of triangulation of method, theory, methodologies, investigators, perspectives and data, discussed later in this book);
+
+b ‘sequential mixed designs’ (p. 26), in which one or other of quantitative and qualitative approaches run one after the other, as the research requires, and in which one strand of the research or research approach determines the subsequent strand or approach and in which the major findings from all strands are subsequently synthesized;
+
+c ‘quasi-mixed designs’ (p. 142), in which both quantitative and qualitative data are gathered but which are not integrated in answering a particular research question, i.e. quantitative data might answer one research question and qualitative data another research question, even though both research questions are included in the same piece of research;
+
+d ‘conversion mixed designs’ (p. 151), in which data are transformed (qualitative to quantitative and vice versa (in a parallel mixed design));
+
+e ‘multilevel mixed designs’ (in parallel of sequential research designs) (p. 151) (also termed ‘hierarchical’ research designs), where different types of data (both quantitative and qualitative) are integrated and/or used at different levels of the research (e.g. student, class, school, district, region), for instance numerical data may be used at one level (students) and qualitative data used at another level (school);
+
+f ‘fully integrated mixed designs’ (p. 151), in which mixed methods are used at each and all stages (perhaps iteratively: where one stage influences the next) and levels of the research.
+
+Mixed methods research has to attend to several important decisions (Ivankova et al., 2006: 9–11; Greene, 2008: 14–17):
+
+a priority (whether quantitative or qualitative approaches dominate, or are given equal weight at the stages of data collection and analysis);
+
+b implementation/timing (whether and where quantitative or qualitative data collection and analysis occur concurrently or seriatim/one after the other);
+
+c integration (where – at which stages – the integration of quantitative and qualitative methods occurs);
+
+d issues (around what issues the mixed methods occur, e.g. at the levels of constructs, variables, research questions, purposes of the research);
+
+e independence/interaction (the extent to which different methods are conceptualized, designed and ‘implemented independently or interactively’ (Greene, 2008: 14);
+
+f transformative intention (whether the research has an explicitly political agenda);
+
+g scope (whether the mixing of methods occurs within a single study or across more than one study in a set of coordinated studies within a single programme of research);
+
+h strands (the ‘number of different strands that are mixed in a study’ (Greene, 2008: 14));
+
+i methods characteristics (the nature and extent to which there are ‘offsetting differences’ (Greene, 2008: 14), for example in perspectives and stances, in the methods that are being mixed in the study).
+
+1.14 Is mixed methods research a new paradigm?
+
+Whilst it is perhaps too early to judge whether mixed methods research really constitutes a new paradigm, as was claimed at the start of the previous section, or whether it is just another out of a growing number of paradigms, with equal status to them, is an open question. It is a young paradigm, and it is dangerous to predict what an adult will be like on the basis of his or her characteristics when a baby.
+
+On the one hand, the advocates of mixed methods research hail it as an important approach that is driven by pragmatism, that yields real answers to real questions, that is useful in the real world, that avoids mistaken allegiance to either quantitative or qualitative approaches on their own, that enables rich data to be gathered which afford the triangulation that has been advocated in research for many years, that respects the mixed, messy real world, and that increases validity and reliability; in short, that ‘delivers’. It possesses the flexibility in usage that reflects the changing and integrated nature of the world and the phenomenon under study. Further, it has its own ways of working and methodologies of enquiry, ontology, epistemology and values. It is a way of thinking, in which researchers have to see the world as integrated and in which they have to approach research from a standpoint of integrated purposes and research questions. Mixed methods research, its advocates suggest, enters into all stages of the research process: (a) philosophical foundations, ontologies, world views and epistemologies; (b) research purposes and research questions; (c) research design, methodology, sampling, instrumentation and data collection; (d) data analysis; (e) data interpretation; (f ) conclusions and reporting results.
+
+On the other hand mixed methods research has been taking place for years, before it was given the cachet of a new paradigm; it is not unusual for different methods to be used at different stages of a piece of research or even at the same stage, or with different samples within a single piece of research. It does not really have the novelty that seems to be claimed for it. Maybe it is a neat piece of marketing by researchers anxious to catch the real world by real-world research, which necessarily is mixed! Further, underneath mixed methods research are still, to some extent, the existing paradigms of quantitative and qualitative research, and they are different in ontology and epistemology, so to mix them is to dilute and adulterate them, trying to mix oil and water, though, of course, the way in which they are used together is a very important step forward. Indeed Giddings (2006) sees a suppressed, or covert, support for positivism residing within mixed methods research, though this is questionable. Can one call a paradigm new simply because it blends two previous paradigms and makes a powerful case for thinking in a mixed methods way? Perhaps the jury is still out, though this book underlines the importance of combining methods wherever necessary and relevant in planning and doing research, and we return to mixed methods research throughout the book, as an indication of its importance.
+
+Denzin (2008: 317) argues that the impact of ‘the third methodological movement’ (Teddlie and Tashakkori, 2003: 9) has had two distinct outcomes: first, it has spawned the mixed methods paradigm, and second, it has endorsed a proliferation of paradigms, not least of which are complexity theory and ‘critical interpretive social science traditions’ (p. 317). This chapter introduces some features of complexity theory in educational research, whilst the next chapter turns to critical theory (for examples of mixed methods empirical studies see Notes 1 and 7). Before we move to complexity theory, it is worth pausing momentarily to link the preceding discussion to complexity theory, by way of introducing post-positivism, post-structuralism and postmodernism in educational research.
+
+1.15 A note on post-positivism, postmodernism and post-structuralism
+
+Whilst it is not the intention of this chapter to pursue these terms in detail, it is fitting here to note their presence in the educational research arena. The positivist, modernist view of the world is of an ordered, controllable, predictable, standardized, mechanistic, deterministic, stable, objective, rational, impersonal, largely inflexible, closed system whose study yields immutable, universal laws and patterns of behaviour (a ‘grand narrative’, a ‘metanarrative’) and which can be studied straightforwardly through the empirical means of the scientific method. It suggests that there is a single grand design to the world, that there are straightforward laws of cause and effect of a linear nature (a specific cause produces a predictable effect, a small cause (stimulus) produces a small effect (response) and a large cause produces a large effect) which can be understood typically through the application of the scientific method as set out earlier in this chapter. Like a piece of clockwork, there is a place for everything and everything is in its place. It argues for an external and largely singular view of an objective reality (i.e. external to, and independent of, the researcher) that is susceptible to comparatively straightforward scientific discovery and laws.
+
+By contrast, post-positivists challenge such a view of the world. Rather, following Popper (1968), our knowledge of the world is conjectural, falsifiable, challengeable, changing. Secure, once-and-for-all foundational knowledge and grand narratives of a singular objective reality are replaced by tentative speculation in which multiple perspectives and multiple warrants are brought forward by the researcher; the world is multilayered, able to tolerate multiple interpretations, and in which – depending on the particular view of post-positivism that is being embraced – there exist multiple external realities or knowledge is regarded as subjective rather than objective. Here the separation of fact and value in positivism is unsustainable: our values, perspectives, paradigms, even research communities determine what we focus on, how we research, what we deem to be important, what counts as knowledge, what research ‘shows’ and how we interpret research findings, and what constitutes ‘good’ research.
+
+On the one hand, post-positivism argues for the continuing existence of an objective reality, but adopts a pluralist view of multiple, coexisting realities rather than a single reality. On the other hand, post-positivism has an affinity with the phenomenological, interpretive approaches to research, arguing for the centrality of the subjective and multiple interpretations of the phenomenon made by the researcher and other parties involved in the research (e.g. participants, researchers, audiences of the research).
+
+It is not only post-positivists who challenge the modernist, positivist conception of the world. Whilst it is perhaps invidious to try to characterize postmodernists (as they would argue against any singular or all-embracing definitions), in a seminal text Jameson (1991) argues that postmodernism does have several distinguishing hallmarks, including, for example:
+
+[图片: images/013_1 The nature of enquiry_ setting the field/022_box.jpg | image]
+ the absence of ‘grand narratives’ (metanarratives) and grand designs, laws and patterns of behaviour;
+
+[图片: images/013_1 The nature of enquiry_ setting the field/023_box.jpg | image]
+ the valorization of discontinuity, difference, diversity, variety, uniqueness, subjectivity, distinctiveness and individuality;
+
+[图片: images/013_1 The nature of enquiry_ setting the field/024_box.jpg | image]
+ the importance of the local, the individual and the particular;
+
+[图片: images/013_1 The nature of enquiry_ setting the field/025_box.jpg | image]
+ the ‘utter forgetfulness of the past’ and the ‘autoreferentiality’ of the present (Jameson, 1991: 42);
+
+[图片: images/013_1 The nature of enquiry_ setting the field/026_box.jpg | image]
+ the importance of temporality and context in understanding phenomena: meanings are rooted in time, space, cultures, societies and are not universal across these;
+
+[图片: images/013_1 The nature of enquiry_ setting the field/027_box.jpg | image]
+ the celebration of depthlessness, multiple realities (and, as Jameson argues, multiple superficialities) and the rectitude of individual interpretations and meanings;
+
+[图片: images/013_1 The nature of enquiry_ setting the field/028_box.jpg | image]
+ relativism rather than absolutism in deciding what constitutes worthwhile knowledge, research and their findings;
+
+[图片: images/013_1 The nature of enquiry_ setting the field/029_box.jpg | image]
+ the view of knowledge as a human, social construct;
+
+[图片: images/013_1 The nature of enquiry_ setting the field/030_box.jpg | image]
+ multiple, sometimes contradictory, yet coexistent interpretations of the world, in which the researcher’s interpretation is only one out of several possible interpretations, i.e. the equal value of different interpretations are part of the world that they are researching;
+
+[图片: images/013_1 The nature of enquiry_ setting the field/031_box.jpg | image]
+ the emancipatory potential and the reduction in the authority of the researcher, yet, simultaneously, the privileging of some interpretations of the world to the neglect of others (i.e. the nexus between knowledge and power, a feature of critical theory, discussed in Chapter 2);
+
+[图片: images/013_1 The nature of enquiry_ setting the field/032_box.jpg | image]
+ the recognition that researchers of according value to individual views, values, perspectives and interpretations (see Chapter 2).
+
+This interpretation of postmodernism has deliberately not discussed its role in understanding culture and cultural studies, nor has it addressed postmodernism as ‘the cultural logic of late capitalism’ (Jameson, 1991). Rather, it has expressed those features which impact on the conduct and meaning of educational research. In one sense postmodernism supports the interpretive paradigm set out earlier in this chapter. In another sense it supports complexity theory as discussed below, and in a third sense it supports critical theory as set out in Chapter 2. Postmodernism has a chameleon-like nature in this respect.
+
+Post-structuralism, like postmodernism, has many different interpretations (we will not discuss here the interpretation that relates to semiology). Here we take a necessarily selective interpretation, to focus on those features that are relevant to the foundations and conduct of educational research. In this sense, post-structuralism can be regarded as a counter to those structural-functionalists who adopt a systems view of society (e.g. Marxism, or functionalist anthropologists such as Levi-Strauss) or behaviour, as a set of interrelated parts which, in law-like fashion, pattern themselves and fit together neatly into a fixed view of the world and its operations and in which individual behaviour is largely determined by given, structural features of society (e.g. social class, position in society, role in society). In post-structuralist approaches, data (e.g. conversations, observations), even artefacts (Burman and Parker, 1993) can be regarded as texts, as discourses that are constructed and performed through discourses (see Chapters 31 and 32), open to different meaning and interpretations (Francis, 2010: 327).
+
+Post-structuralists (e.g. Foucault, Derrida) argue individual agency has prominence; individuals are not simply puppets of a given system, people are diverse and different, indeed they may carry contradictions and tensions within themselves (e.g. in terms of class, ethnicity, sex, employment, social group, family membership and tasks, and so on), they are not simply the decentred bearers of given roles. Individuals have views of themselves, and one task of the researcher is to locate research findings within the views of the self that the participants hold, and to identify the meanings which the participants accord to phenomena. Hence not only do the multiple perspectives of the participants have to be discerned, but also those of the researchers, the audiences of the research and the readers of research. The task of the research is to ‘deconstruct’, e.g. to expose, the different meanings, layers of meanings and privileging of meanings inherent in a phenomenon or piece of research. There is no single, ‘essential’ meaning, but many, and one task of research is to understand how meanings and knowledge are produced, legitimized and used. (This links post-structuralism to critical theory, perhaps, though some critical theorists, e.g. Habermas (1987), argue against critical theory’s affinity to postmodernism or post-structuralism.)
+
+One can detect affinities between post-positivism, postmodernism and post-structuralism, in underpinning interpretive and qualitative approaches to educational research, complexity theory and critical theory, and the significance given to individual and subjective accounts in the research process, along with reflexivity on the part of the researcher. (That said, many post-positivists, postmodernists and post-structuralists would reject such a simple affinity, or even the links between their views and, for example, phenomenology and interpretivism. We do not explore this here.) One can suggest that post-positivism, postmodernism and post-structuralism argue for multiple interpretations of a phenomenon to be provided, to accord legitimacy to individual voices in research, and to abandon the search for deterministic, simple cause-and-effect laws of behaviour and action.
+
+1.16 The paradigm of complexity theory
+
+An emerging paradigm in educational research is that of complexity theory (Medd, 2002; Radford, 2006, 2007, 2008; Kuhn, 2007; Morrison, 2002a, 2008), as schools can be regarded as ‘complex adaptive systems’ (Kauffman, 1995). Complexity theory looks at the world in ways which break with simple cause-and-effect models, simple determinism and linear predictability (Gomm and Hammersley, 2001), and a dissection/atomistic approach to understanding phenomena (Byrne, 1997; Radford, 2007, 2008), replacing them with organic, non-linear and holistic approaches (Santonus, 1998: 3). Relations within interconnected, dynamic and changing networks are the order of the day (Youngblood, 1997: 27; Wheatley, 1999: 10), and there is a ‘multiplicity of simultaneously interacting variables’ (Radford, 2008: 510). Here key terms are feedback, recursion, emergence, connectedness and self-organization. Out go the simplistic views of linear causality (Radford, 2007; Morrison, 2009), the ability to predict, control and manipulate, to apply reductive techniques to research; and in come uncertainty, networks and connection, holism, self-organization, emergence over time through feedback and the relationships of the internal and external environments, and survival and development through adaptation and change.
+
+In complexity theory, a self-organizing system is autocatalytic and possesses its own unique characteristics and identity (Kelly and Allison, 1999: 28) which enable it to perpetuate and renew itself over time – it creates the conditions for its own survival. This takes place through engagement with others in a system (Wheatley, 1999: 20). The system is aware of its own identity and core properties, and is self-regenerating (able to sustain that identity even though aspects of the system may change, e.g. staff turnover in a school).
+
+Through feedback, recursion, perturbance, autocatalysis, connectedness and self-organization, higher levels of complexity and differentiated, new forms of life, behaviour and systems arise from lower levels of complexity and existing forms. These complex forms derive from often comparatively simple sets of rules – local rules and behaviours generating emergent complex global order and diversity (Waldrop, 1992: 16–17; Lewin, 1993: 38). General laws of emergent order can govern adaptive, dynamical processes (Waldrop, 1992: 86; Kauffman, 1995: 27).
+
+The interaction of individuals feeds into the wider environment, which, in turn, influences the individual units of the network; they co-evolve, shaping each other (Stewart, 2001), and co-evolution requires connection, cooperation and competition: competition to force development and cooperation for mutual survival. The behaviour of a complex system as a whole, formed from its several elements, is greater than the sum of the parts (Bar-Yam, 1997; Goodwin, 2000).
+
+Feedback must occur between the interacting elements of the system. Negative feedback is regulatory (Marion, 1999: 75), for example learning that one has failed in a test. Positive feedback brings increasing returns and uses information to change, grow and develop (Wheatley, 1999: 78); it amplifies small changes (Stacey, 1992: 53; Youngblood, 1997: 54). Once a child has begun to read she is gripped by reading, she reads more and learns at an exponential rate.
+
+Connectedness, a key feature of complexity theory, exists everywhere. In a rainforest ants eat leaves, birds eat ants and leave droppings, which fertilize the soil for growing trees and leaves for the ants (Lewin, 1993: 86). In schools, children are linked to families, teachers, peers, societies and groups; teachers are linked to other teachers, support agencies (e.g. psychological and social services), policy-making bodies, funding bodies, the legislature, and so on. The child (indeed the school) is not an island, but is connected externally and internally in several ways. Disturb one element and the species or system must adapt or die; the message is ruthless.
+
+Emergence is the partner of self-organization. Systems possess the ability for self-organization, which is not according to an a priori grand design – a cosmoslogical argument – nor a teleological argument; complexity is neither. Further, self-organization emerges, it is internally generated; it is the opposite of external control. As Kauffman (1995) suggests, order comes for free and replaces control. Order is not imposed; it emerges; in this way it differs from control. Self-organized order emerges of itself as the result of the interaction between the organism and its environment, and new structures emerge that could not have been predicted; that emerged system is, itself, complex and cannot be reduced to those parts that gave rise to the system. As Davis and Sumara (2005: 313) write: ‘phenomena have to be studied at their level of emergence, i.e. not in terms of their lower level activities but at their new – emerged – level’.
+
+Stacey (2000: 395) suggests that a system can only evolve, and evolve spontaneously, where there is diversity and deviance (p. 399) – a salutary message for command-and-control teachers who exact compliance from their pupils. The future is largely unpredictable. At the point of ‘self-organized criticality’ (Bak, 1996), a tipping point, the effects of a single event are likely to be very large, breaking the linearity of Newtonian reasoning wherein small causes produce small effects; the straw that breaks the camel’s back.
+
+Chaos and complexity theories argue against the linear, deterministic, patterned, universalizable, stable, atomized, modernistic, objective, mechanist, controlled, closed systems of law-like behaviour which may be operating in the laboratory but which do not operate in the social world of education. These features of chaos and complexity theories seriously undermine the value of experiments and positivist research in education (e.g. Gleick, 1987; Waldrop, 1992; Lewin, 1993).
+
+Complexity theory replaces these with an emphasis on networks, linkages, holism, feedback, relationships and interactivity in context (Cohen and Stewart, 1995), emergence, dynamical systems, self-organization and an open system (rather than the closed world of the experimental laboratory). Even if one could conduct an experiment, its applicability to ongoing, emerging, interactive, relational, open situations, in practice, is limited (Morrison, 2001). It is misconceived to hold variables constant in a dynamical, evolving, fluid, open situation. What is measured is history.
+
+Complexity theory challenges randomized controlled trials – the ‘gold standard’ of research. Classical experimental methods, abiding by the need for replicability and predictability, may not be particularly fruitful since, in complex phenomena, results are never clearly replicable or predictable: As Heraclitus noted, we never jump into the same river twice. Complexity theory suggests that educational research should concern itself with: (a) how multivalency and non-linearity enter into education; (b) how voluntarism and determinism, intentionality, agency and structure, lifeworld and system, divergence and convergence interact in learning (Morrison, 2002a, 2005); (c) how to both use, but transcend, simple causality in understanding the processes of education; (d) how viewing a system holistically, as having its own ecology of multiple interacting elements, is more powerful than an atomized approach. To atomize phenomena into measurable variables and then to focus only on certain of these is to miss synergy and the significance of the whole. Measurement, however acute, may tell us little of value about a phenomenon; one can measure every observable variable of a person to an infinitesimal degree, but his/her nature, what makes him/her who he or she is, eludes atomization and measurement.
+
+Complexity theory suggests that phenomena must be looked at holistically; to atomize phenomena into a restricted number of variables and then to focus only on certain factors is to miss the necessary dynamic interaction of several parts (Morrison, 2008). More fundamentally, complexity theory suggests that the conventional units of analysis in educational research (as in other fields) should move away from, for example, individuals, institutions, communities and systems (cf. Lemke, 2001). These should merge, so that the unit of analysis becomes a web or ecosystem (Capra, 1996: 301), focused on, and arising from, a specific topic or centre of interest (a ‘strange attractor’). Individuals, families, students, classes, schools, communities and societies exist in symbiosis; complexity theory tells us that their relationships are necessary, not contingent, and analytic, not synthetic. This is a challenging prospect for educational research, and complexity theory, a comparatively new perspective in educational research (Radford, 2006; Morrison, 2008), offers considerable leverage into understanding societal, community, individual and institutional change; it provides the nexus between macro and micro-research in understanding and promoting change.
+
+In addressing holism, complexity theory suggests the need for case study methodology, narratives, action research and participatory forms of research, premised in many ways on interactionist, qualitative accounts, i.e. looking at situations through the eyes of as many participants or stakeholders as possible. This enables multiple causality, multiple perspectives and multiple effects to be charted. Self-organization, a key feature of complexity theory, argues for participatory, collaborative and multi-perspectival approaches to educational research. This is not to deny ‘outsider’ research; it is to suggest that, if it is conducted, outsider research has to take in as many perspectives as possible.
+
+In educational research terms, complexity theory stands against simple linear methodologies based on linear views of causality, arguing for multiple causality and multi-directional causes and effects, as organisms (however defined: individuals, groups, communities) are networked and relate at a host of different levels and in a range of diverse ways. No longer can one be certain that a simple cause brings a simple or single effect, or that a single effect is the result of a single cause, or that the location of causes will be in single fields only, or that the location of effects will be in a limited number of fields (Morrison, 2009).
+
+Complexity theory not only questions the values of positivist research and experimentation, but it also underlines the importance of educational research to catch the deliberate, intentional, agentic actions of participants and to adopt interactionist and constructivist perspectives. Kuhn (2007: 172–3) sets out a series of axioms for complexity-based research: (a) reality is dynamic, emergent and self-organizing, and requires multiple perspectives to be addressed (see also Medd, 2002); (b) the relationship between the knower and the known is, itself, dynamic, emergent and self-organizing; (c) hypotheses for research must relate to time and context (see also Medd, 2002; Radford, 2006); (d) it is impossible to distinguish cause from effect, as entities are mutually shaping and influencing (co-evolution); (d) enquiry is not value-free.
+
+Addressing complexity theory’s argument for self-organization, the call is for the teacher-as-researcher movement to be celebrated, and complexity theory suggests that research in education could concern itself with the symbiosis of internal and external researchers and research partnerships. Just as complexity theory suggests that there are multiple views of reality, so this accords not only with the need for several perspectives on a situation (using multi-methods), but resonates with those tenets of critical research that argue for different voices and views to be heard. Heterogeneity is the watchword. Complexity theory provides not only a powerful challenge to conventional approaches to educational research, but it suggests both a substantive agenda and also a set of methodologies, arguing for methodological, paradigmatic and theoretical pluralism. In addressing holism, complexity theory suggests the need for case study methodology, qualitative research and participatory, multi-perspectival and collaborative (self-organized), partnership-based forms of research, premised on interactionist, qualitative and interpretive accounts (e.g. Lewin and Regine, 2000). It provides an emerging new paradigm for research.
+
+[图片: images/013_1 The nature of enquiry_ setting the field/033_common.jpg | image]
+ Companion Website
+
+The companion website to the book includes PowerPoint slides for this chapter, which list the structure of the chapter and then provide a summary of the key points in each of its sections. In addition there is further information on complexity theory. These resources can be found online at www.routledge.com/textbooks/cohen7e.

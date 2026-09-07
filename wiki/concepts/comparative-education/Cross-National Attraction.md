@@ -6,7 +6,7 @@ aliases:
 summary: "政策借用过程中外部教育经验之所以显得有吸引力的阶段性机制，涉及结构条件、行动者动机以及不同类型的借用火花"
 type: concept
 domain: "comparative-education"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -31,6 +31,7 @@ related_persons: []
 related_facts:
   - "[[Sputnik Shock 1957]]"
   - "[[PISA]]"
+  - "[[IEA]]"
   - "[[American Attraction to Japanese Education 1980s]]"
   - "[[A Nation at Risk 1983]]"
   - "[[Late Qing Borrowing of Japanese Education]]"
@@ -78,7 +79,7 @@ updated: 2026-07-13
 > "更广阔世界"中独立于人的能动性的客观变化，按可感知度排序：
 > - 系统性崩溃（如政权更替后教育体系真空）
 > - 内部不满（公众对教育质量的持续批评）
-> - 负面外部评估（如 [[PISA]] 排名下滑、IEA 早期研究的国际比较）
+> - 负面外部评估（如 [[PISA]] 排名下滑、[[IEA]] 早期研究的国际比较）
 > - 经济变化／竞争（如日本经济崛起对美国构成的竞争压力）
 > - 新型态（如全球化催生的跨国教育市场）
 > - 知识／技能创新（如信息技术革命对劳动力技能的新要求）

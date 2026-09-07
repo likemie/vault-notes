@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01"
 argument_display_title: "Research Methods in Education · Ch01"
 argument_kind: "book-chapter"
-argument_related_count: 88
+argument_related_count: 87
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -108,7 +108,6 @@ related_methods:
 related_persons:
   - "[[Aristotle]]"
   - "[[Francis Bacon]]"
-  - "[[Deanna Kuhn]]"
   - "[[Thomas Kuhn]]"
   - "[[Auguste Comte]]"
   - "[[Søren Kierkegaard]]"
@@ -222,7 +221,7 @@ Hitchcock & Hughes (1995, p. 21)的框架提出了一个严格的层级推导关
 
 ### 步骤 2：以库恩的范式概念统摄方法论之争
 
-[[Deanna Kuhn|库恩]]([[Thomas Kuhn]], 1962)的[[Paradigm]]概念为理解不同研究传统之间的关系提供了一个核心框架(pp.133–141)：
+库恩([[Thomas Kuhn]], 1962)的[[Paradigm]]概念为理解不同研究传统之间的关系提供了一个核心框架(pp.133–141)：
 
 > [!abstract] 范式的多重含义
 > 范式是一种看待或研究现象的方式，一种世界观，一种关于什么算作被接受或正确的科学知识或工作方式的观点，一种"被接受的模型或模式"(Kuhn, 1962, p. 23)，一种共享的信念体系或原则集合，一个研究共同体的身份标识，一种追求知识的方式，对研究什么问题以及如何研究这些问题的共识，典型的[[Problem Solving|问题解决]]方案，以及一种比其竞争对手更容易被接受的理解。
@@ -414,7 +413,7 @@ Popper (1968)、Lakatos (1970)、Mouly (1978)、Laudan (1990)和 Rasmussen (1990
 
 **(二)法兰克福学派的批判**
 
-> [!critique] 哈贝马斯与霍克海默：科学主义与文化贫瘠
+> [!critique] [[Jürgen Habermas|哈贝马斯]]与霍克海默：科学主义与文化贫瘠
 > 哈贝马斯([[Jürgen Habermas]], 1972)和霍克海默(Horkheimer, 1972)提供了最系统的社会理论层面的批评(pp.437–440)：
 >
 > - 科学心态已被提升至几乎不容置疑的地位——近乎一种宗教([[Scientism|科学主义]])
@@ -685,7 +684,7 @@ Teddlie & Tashakkori (2009)提出了六种设计(pp.685–696)，构成了一套
 > - **反线性因果** 混沌和复杂性理论反对线性、决定论、模式化、可普遍化的、原子化的、受控的、封闭的系统——这些系统可能在**实验室**中运作，但在教育的**社会世界**中并不运作
 > - **反变量控制** 即使能够进行实验，其在持续涌现、互动的、关系性的**开放情境**中的适用性也是有限的(Morrison, 2001)。在一个动态、演化、流动、开放的情境中，**保持变量恒常是误导性的**——所测量到的已经是历史。正如赫拉克利特所言：我们永远不会两次踏入同一条河流
 > - **整体论** 现象必须被**整体地**看待——将现象原子化为有限数量的变量，然后只聚焦于某些因素，会错过多个部分的必要动态互动
-> - **分析单位转向** 研究的分析单位应从个体／机构／制度转向**网络或生态系统(Capra, 1996, p. 301)**，聚焦于一个特定的主题或兴趣中心
+> - **[[Unit of Analysis|分析单位]]转向** 研究的分析单位应从个体／机构／制度转向**网络或生态系统(Capra, 1996, p. 301)**，聚焦于一个特定的主题或兴趣中心
 > - **测量之限** 人可以测量一个人的每一个可观察变量到无限微小的程度，但**他／她的本质——是什么使他／她成为他／她——却逃逸了原子化和测量**
 
 #### 11.3 方法论含义

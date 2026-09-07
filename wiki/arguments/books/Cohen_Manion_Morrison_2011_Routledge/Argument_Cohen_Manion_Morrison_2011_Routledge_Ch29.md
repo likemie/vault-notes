@@ -353,7 +353,7 @@ updated: '2026-08-27'
 >     - 按涌现或关键主题
 >     - 按关键议题与议题群
 >     - 按关键决策点
-> - **按分析单位**
+> - **按[[Unit of Analysis|分析单位]]**
 >     - 按个体案例研究，或多案例／参与者随时间展开事件的集体分析（29.3）
 
 > [!info] 逐字引用的使用
@@ -577,9 +577,6 @@ updated: '2026-08-27'
 > 预先决定议题框架的分析如同把磁铁放到数据上，磁铁吸起该议题的相关数据，但也留下被视为不相关的数据，后者有丢失风险。（29.2）
 >
 > *It is akin to lowering a magnet onto data – the magnet picks up relevant data for the issue in question but it also leaves behind data not deemed relevant and these risk being lost.*
-
-> [!example]- 图29-5　配套网站（Companion Website）
-> ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_29-5_Companion_Website.jpg)
 
 ---
 

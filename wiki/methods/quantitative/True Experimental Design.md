@@ -7,7 +7,7 @@ summary: "具备随机分配、控制组、前测后测和变量操纵全部特�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 29
+method_related_count: 28
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -46,8 +46,7 @@ related_methods:
   - "[[Pre-Experimental Designs]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
-related_facts:
-  - "[[Parliamentary Office of Science and Technology]]"
+related_facts: []
 status: draft
 created: 2026-07-13
 updated: 2026-07-13
@@ -87,7 +86,7 @@ updated: 2026-07-13
 > 2. 一个或多个实验组
 > 3. [[Random Assignment|随机分配]]至控制组和实验组
 > 4. [[Pre-test and Post-test|前测]]（pre-test）以保证各组等价
-> 5. 后测（[[Parliamentary Office of Science and Technology|POST]]-test）以观察对[[Dependent Variable|因变量]]的效应
+> 5. 后测（POST-test）以观察对[[Dependent Variable|因变量]]的效应
 > 6. 对实验组施加一个或多个干预
 > 7. 隔离、控制和操纵[[Independent Variable|自变量]]
 > 8. 控制组与实验组不相互污染（non-contamination）

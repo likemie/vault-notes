@@ -10,7 +10,7 @@ aliases:
 summary: "指发生在传统正规学校课堂之外、具有自愿性、情境化与终身性的科学学习与参与形态，涵盖科技馆、探索中心、科学节、社区项目、公民科学与数字媒体，是支撑现代社会公共健康、理性决策与公民文化基础设施的核心支柱。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -46,6 +46,8 @@ related_methods:
   - "[[Cohort Study]]"
   - "[[Ethnography]]"
   - "[[Participatory Research]]"
+related_theories:
+  - "[[Human Capital Theory]]"
 confidence: high
 status: draft
 created: 2026-08-23
@@ -82,7 +84,7 @@ updated: 2026-09-03
 > | **学习体验** | 结构化、学科分科、公式记忆与纸笔测验 | 具身动手探究、多感官沉浸、跨学科融合与开放社交[[Dialogue in Education\|对话]] |
 > | **受众跨度** | 5–18 岁在校中小学生 | 全年龄段公民（儿童、青年、在职成人与银发群体） |
 > | **评价机制** | 标准化考试分数与及格率指标 | 通用学习成果框架（Generic Learning Outcomes, GLOs）、体验反馈与长期科学认同追踪 |
-> | **社会定位** | 国家劳动力基础与人力资本管道构建 | **社会与文化基础设施**，赋能社区繁荣、公共健康与理性民主协商（p. 48） |
+> | **社会定位** | 国家劳动力基础与[[Human Capital Theory\|人力资本]]管道构建 | **社会与文化基础设施**，赋能社区繁荣、公共健康与理性民主协商（p. 48） |
 
 ---
 

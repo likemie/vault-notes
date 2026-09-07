@@ -8,7 +8,7 @@ aliases:
 summary: "以学习结果为中心的课程设计范式，强调可测量的学习成果而非知识内容，在新西兰 2007 年课程和全球教育改革中广泛采用，近年受到社会实在论批评"
 type: concept
 domain: "curriculum"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,6 +30,7 @@ related_methods: []
 related_persons:
   - "[[Joseph Lauwerys]]"
 related_facts:
+  - "[[IEA]]"
   - "[[PISA]]"
   - "[[NZ Curriculum Refresh 2021-2026]]"
 related_arguments:
@@ -71,7 +72,7 @@ updated: 2026-08-20
 > [!note]-
 > **Lauwerys 时期（1965）**。[[Joseph Lauwerys]] 最初以理解的方式把握法国、英格兰、美国和苏联的理想[[Educated Identity|受教育身份]]模型，这些模型作为世界[[Paradigm|范式]]具有影响力。此时结果导向是学术性的文化理解努力([[Argument_Cowen_2023_CE|Cowen, 2023, p.333]])。
 >
-> **IEA 研究时期**。结果变成了通过[[International Education|国际教育]]成就评价协会（IEA）研究衡量教育效率。这一转变标志着从理解文化到衡量效率的转向。
+> **[[IEA]] 研究时期**。结果变成了通过[[International Education|国际教育]]成就评价协会（IEA）研究衡量教育效率。这一转变标志着从理解文化到衡量效率的转向。
 >
 > **[[PISA]] 时期（当代）**。PISA 进一步强化了效率测量的方向。当代的结果导向已从学术性的文化理解转向新自由主义经济定义下的效率测量。比较教育被掏空了学术理解的所有形式，成为效率运动的附属品([[Argument_Cowen_2023_CE|Cowen, 2023, pp.333–334]])。
 >

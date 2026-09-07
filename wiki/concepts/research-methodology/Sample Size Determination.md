@@ -9,7 +9,7 @@ aliases:
 summary: "研究设计中确定样本大小的决策过程，涉及研究目的、总体规模、置信水平与置信区间、变量类型、统计方法要求、子组数量和预期无回应率等多重因素，是抽样规划的核心环节"
 type: concept
 domain: "research-methodology"
-related_count: 16
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -35,8 +35,7 @@ related_methods:
   - "[[Random Sampling]]"
   - "[[Meta-regression]]"
 related_persons: []
-related_facts:
-  - "[[Parliamentary Office of Science and Technology]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08]]"
 confidence: medium
@@ -54,7 +53,7 @@ updated: 2026-07-13
 > [!concept-lens] 概念透镜
 > - **含义** 样本量确定指向在资源约束与研究精确度之间做出权衡的决策过程，核心问题是"多少案例才算足够"。
 > - **用途** 帮助研究者提前规划数据收集规模，确保研究具有足够的统计功效、子组代表性和分析可行性。
-> - **边界** 样本量确定不是纯粹数学计算——其中包含大量判断成分（如预期效应大小、可接受的误差范围）。它也不同于事后功效分析（[[Parliamentary Office of Science and Technology|POST]] hoc [[Power Analysis]]）。
+> - **边界** 样本量确定不是纯粹数学计算——其中包含大量判断成分（如预期效应大小、可接受的误差范围）。它也不同于事后功效分析（POST hoc [[Power Analysis]]）。
 
 > [!citation-card]- 关键表述
 > 一个经常困扰新手研究者的问题是：研究的样本应该多大？没有明确的答案，因为正确的样本量取决于[[Research Purpose|研究目的]]、所审视总体的性质、所需准确度、预期回应率、研究包含的变量数量，以及研究是定量还是定性。（第8章，p.144）

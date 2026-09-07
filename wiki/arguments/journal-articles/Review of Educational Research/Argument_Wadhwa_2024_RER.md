@@ -260,7 +260,7 @@ updated: 2026-08-22
 > [!warrant]- 步骤二深度解读：因果质量评估的技术分歧与方法学盲区
 > 1. **RCT 黄金标准的表象共识与实质割裂**
 >    - 虽然全部 12 个清算中心在名义上均赋予 RCT 最高优先级，但对于“何为高质量 RCT”的技术审查深度判若云泥。
->    - **[[Cluster Randomized Trials|集群随机对照试验]]（Cluster Randomized Controlled Trial, Cluster RCT）的致命处理** 在教育现场，[[Random Assignment|随机化]]往往发生在学校或班级层面，而测量发生在学生个体层面。若不进行多层线性模型（Hierarchical Linear Model, HLM）或群组内相关系数（Intraclass Correlation Coefficient, ICC）校正，[[Standard Error|标准误]]将被严重低估，导致虚假显著性。全库仅 WWC 制定了详尽的集群偏倚防范与自由度调整规程；多数机构（如 NDPC、CASEL）甚至无法识别集群与分析单位错位问题。
+>    - **[[Cluster Randomized Trials|集群随机对照试验]]（Cluster Randomized Controlled Trial, Cluster RCT）的致命处理** 在教育现场，[[Random Assignment|随机化]]往往发生在学校或班级层面，而测量发生在学生个体层面。若不进行多层线性模型（Hierarchical Linear Model, HLM）或群组内相关系数（Intraclass Correlation Coefficient, ICC）校正，[[Standard Error|标准误]]将被严重低估，导致虚假显著性。全库仅 WWC 制定了详尽的集群偏倚防范与自由度调整规程；多数机构（如 NDPC、CASEL）甚至无法识别集群与[[Unit of Analysis|分析单位]]错位问题。
 >    - **样本流失（[[Attrition]]）与选择偏差** WWC 建立了著名的“整体流失 vs 差异流失”边界模型（允许最大潜在偏倚在 0.05 个标准差 [Standard Deviation, SD] 以内）；SPTW 与 CMFR 仅设定了粗糙的 20% 流失率上限；Blueprints 则要求对脱落者与保留者实施双重卡方/[[t-test|t检验]]。这意味着同一篇因流失被 WWC 降级的 RCT，在其他清算中心可能轻松获评最高质量。
 > 2. **意向治疗分析（ITT） vs 顺从者平均因果效应（CACE）之争**
 >    - Blueprints、SPTW 等坚持公共卫生传统的机构强制要求 ITT（即不论学生实际上了几节课，只要被分入实验组均计入分析），以避免依从性偏倚（compliance bias）；

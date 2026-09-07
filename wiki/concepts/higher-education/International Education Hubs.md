@@ -7,7 +7,7 @@ aliases:
 summary: "Knight 提出的概念，指国家战略性地把自身定位为教育、培训、知识生产和创新活动中心的地缘政治项目。"
 type: concept
 domain: "higher-education"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Flow]]"
   - "[[Geopolitics of Knowledge]]"
 related_theories:
+  - "[[Human Capital Theory]]"
   - "[[Critical Geopolitics]]"
   - "[[Network Society]]"
   - "[[Cultural Political Economy]]"
@@ -83,7 +84,7 @@ updated: '2026-06-26'
 Knight & Lee (2014) 提出了 IEHs 的三类递进模型（详见 [[#核心要素|核心要素]]）：
 
 - **学生枢纽** 以教育服务出口为目标，扩大入学机会、提升系统形象、创造收入
-- **人才枢纽** 转向人力资本积累，扩大技能劳动力储备、增强经济竞争力
+- **人才枢纽** 转向[[Human Capital Theory|人力资本]]积累，扩大技能劳动力储备、增强经济竞争力
 - **知识/[[Innovation Hub|创新枢纽]]** 聚焦商业应用导向的新[[Knowledge Production|知识生产]]，与[[Knowledge-Based Economy|知识经济]]逻辑最深度整合
 
 Knight 的研究为 IEH 提供了基本的概念坐标，但其框架主要采用政策倡导导向的肯定性立场。后续研究从地缘政治角度对这一框架进行了批判性拓展。
@@ -133,7 +134,7 @@ Rizvi 进一步揭示了 IEHs 兴起背后的**话语理性转移** 其正当性
 Knight & Lee (2014) 提出的递进模型（Knight & Lee, 2014, pp.31–34, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.44]]）：
 
 - **学生枢纽（Student Hub）** 旨在扩大高等教育入学机会、现代化和国际化本国高校、提升国家高等教育系统形象、并通过外国学生流入创造收入。主要功能聚焦于教育服务出口
-- **人才枢纽（Talent Hub）** 旨在扩大技能劳动力储备、为服务型和/或[[Knowledge-Based Economy|知识型经济]]做出贡献、增强经济竞争力并提高劳动力的质量和相关性。关注焦点从教育出口转向人力资本积累
+- **人才枢纽（Talent Hub）** 旨在扩大技能劳动力储备、为服务型和/或[[Knowledge-Based Economy|知识型经济]]做出贡献、增强经济竞争力并提高劳动力的质量和相关性。关注焦点从教育出口转向[[Human Capital Theory|人力资本]]积累
 - **知识/[[Innovation Hub|创新枢纽]]（Knowledge/Innovation Hub）** 聚焦于具有商业应用潜力的新知识的生产和应用，其范畴远超高等教育，涵盖公共和私营部门合作研究及企业部门的研发活动。这是三类模型中与经济竞争力逻辑最深度整合的一类
 
 ### Erfurth 的双重运作维度

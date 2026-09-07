@@ -8,7 +8,7 @@ aliases:
 summary: "20 世纪 50 至 70 年代支配英美比较教育学的知识体系与研究纲领，摒弃古典历史学派主观印象与思辨归因，通过变量控制、量化共变检验与假说-演绎问题法探寻跨国规律与政策预测，并在实践中与战后国家理性规划形成合法化共谋"
 type: concept
 domain: "comparative-education"
-related_count: 43
+related_count: 46
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -43,18 +43,20 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[Falsification]]"
   - "[[Questionnaire]]"
+  - "[[Social Science as Legitimation Alibi]]"
+  - "[[Comparative Educations]]"
   - "[[Bildung]]"
   - "[[Critical Dualism]]"
   - "[[Heterogeneity]]"
 related_theories:
   - "[[Critical Theory]]"
+  - "[[Human Capital Theory]]"
 related_methods:
   - "[[Problem Approach]]"
   - "[[Discourse Analysis]]"
   - "[[Quantitative Research]]"
 related_persons:
   - "[[Thomas Kuhn]]"
-  - "[[Deanna Kuhn]]"
   - "[[C. Arnold Anderson]]"
   - "[[Harold Noah]]"
   - "[[Max Eckstein]]"
@@ -63,6 +65,7 @@ related_persons:
   - "[[Philip Foster]]"
   - "[[Michael Sadler]]"
 related_facts:
+  - "[[IEA]]"
   - "[[OECD]]"
   - "[[PISA]]"
 related_arguments:
@@ -116,11 +119,11 @@ updated: 2026-09-07
 
 ## 核心要素
 
-依据[[Thomas Kuhn|库恩]]关于科学[[Paradigm|范式]]构成的四维框架，比较教育科学范式具备以下结构化要素：
+依据库恩关于科学[[Paradigm|范式]]构成的四维框架，比较教育科学范式具备以下结构化要素：
 
 > [!quad-grid] 科学范式的库恩式四维构件（p. 61）
 > - **研究目标与主题** 终结无序事实堆砌与个案直觉描述，将学科目标确立为揭示跨国教育制度运行的内在规律、类型学建构以及对政策干预后果的精确预见。
-> - **理论框架与典范** 依托结构功能主义社会学模型、人力资本理论与波普尔情境逻辑；典范实践包括大样本跨国实证调查（如 IEA 早期研究）与标准化[[Problem Solving|问题解决]]案例。
+> - **理论框架与典范** 依托结构功能主义社会学模型、[[Human Capital Theory|人力资本理论]]与波普尔情境逻辑；典范实践包括大样本跨国实证调查（如 [[IEA]] 早期研究）与标准化[[Problem Solving|问题解决]]案例。
 > - **研究规则与规范标准** 恪守客观性、[[Value Neutrality|价值中立]]、概念严格[[Operationalization|操作化]]、[[Hypothesis|假设]]可检验性与[[Falsification|可证伪性]]；彻底清洗无法量化或不可经验验证的范畴。
 > - **应用技术与测量工具** 开发跨国标准化[[Questionnaire|问卷]]、多元统计模型、国家指标数据库，以及服务于中央五年计划的系统预测技术。
 
@@ -184,7 +187,7 @@ updated: 2026-09-07
 > 战后科学化运动中的不同流派在官方政策市场遭遇了剧烈分化，实证量化学派的全面胜出反映了学术[[Paradigm|范式]]与国家机器意识形态的深度结盟。
 
 > [!claim] Mattheou, D.
-> **实证硬数据充当推卸政治责任的科学借口** 美国实证功能主义与量化学派之所以压倒霍姆斯折衷复杂的[[Problem Approach|问题法]]，其根源不在于认识论上的高明，而在于现代国家规划体制（如中央五年计划、综合中学制度重构、第三世界技术援助）急需无可置辩的客观科学依据为既定预算与意识形态方针背书；实证[[Quantitative Research|量化研究]]产出的直观回归系数与硬数据，完美契合了技术官僚规避政治责任与逃避道德反思的工具性需求，使社会科学在实践中蜕变为现存政治正统的便利借口与合法化手段（alibi）。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 67–68)]]
+> **实证硬数据充当推卸政治责任的[[Social Science as Legitimation Alibi|科学借口]]** 美国实证功能主义与量化学派之所以压倒霍姆斯折衷复杂的[[Problem Approach|问题法]]，其根源不在于认识论上的高明，而在于现代国家规划体制（如中央五年计划、综合中学制度重构、第三世界技术援助）急需无可置辩的客观科学依据为既定预算与意识形态方针背书；实证[[Quantitative Research|量化研究]]产出的直观回归系数与硬数据，完美契合了技术官僚规避政治责任与逃避道德反思的工具性需求，使社会科学在实践中蜕变为现存政治正统的便利借口与合法化手段（alibi）。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 67–68)]]
 
 ---
 
@@ -194,7 +197,7 @@ updated: 2026-09-07
 > 1970 年代中叶以后，统摄性的科学范式神话彻底破灭，比较教育学不可逆转地走向多流派并存的复数时代。
 
 > [!claim] Mattheou, D.
-> **学科从单数霸权走向复数多元共存** 科学范式的衰退由三重危机共同促成：一是现实中教育扩张与规划未能消除贫困与阶层不平等，实证公信力严重受挫；二是量子力学打破微观物理世界机械因果律，动摇了社会科学寻求绝对定律的哲学根基；三是后现代思潮对宏大叙事的系统解构；这促使学界在 1980 年代达成共识，确认学科中存在众多学派且无一占据主导，推动学科从单数的比较教育学（Comparative Education）演进为复数的多个比较教育学（Comparative Educations）。[[Argument_Mattheou_2009_ScientificParadigm|(Altbach, 1991; Cowen, 2000; Mattheou, 2009, pp. 68–69)]]
+> **学科从单数霸权走向复数多元共存** 科学范式的衰退由三重危机共同促成：一是现实中教育扩张与规划未能消除贫困与阶层不平等，实证公信力严重受挫；二是量子力学打破微观物理世界机械因果律，动摇了社会科学寻求绝对定律的哲学根基；三是后现代思潮对宏大叙事的系统解构；这促使学界在 1980 年代达成共识，确认学科中存在众多学派且无一占据主导，推动学科从单数的比较教育学（Comparative Education）演进为复数的[[Comparative Educations|多个比较教育学]]（Comparative Educations）。[[Argument_Mattheou_2009_ScientificParadigm|(Altbach, 1991; Cowen, 2000; Mattheou, 2009, pp. 68–69)]]
 
 ---
 
@@ -213,9 +216,9 @@ updated: 2026-09-07
 
 > [!dev-timeline] 科学[[Paradigm|范式]]的兴起、演进与解体
 > - **1950 年代末 — 历史范式危机与转型萌发** 二战浩劫击碎了古典人文[[Bildung|教化]]精英的神话，古典历史学派被指责沉溺于宏观文化白描而无力回应战后重建规划；[[George Bereday|乔治·贝雷迪]]（George Bereday）提出比较四步法，将学科目标推向跨国普遍法则探寻，充当过渡桥梁。（pp. 59–62）
-> - **1960 年代 — 科学范式全盛与[[Epistemology|认识论]]大论战** 芝加哥大学中心建立，推进超越时空的制度规律探索；诺亚与埃克斯坦（1969）出版《走向比较教育科学》，建立[[Variable|变量]]共变检验程序；[[Brian Holmes|霍姆斯]]（1965, 1981）提出[[Critical Dualism|批判二元论]]与假说-演绎[[Problem Approach|问题法]]，以预测力划界；科学范式确立绝对统治地位。（pp. 62–67）
+> - **1960 年代 — 科学范式全盛与[[Epistemology|认识论]]大论战** 芝加哥大学中心建立，推进超越时空的制度规律探索；诺亚与埃克斯坦（1969）出版《走向比较教育科学》，建立[[Variable|变量]]共变检验程序；霍姆斯（1965, 1981）提出[[Critical Dualism|批判二元论]]与假说-演绎[[Problem Approach|问题法]]，以预测力划界；科学范式确立绝对统治地位。（pp. 62–67）
 > - **1970 年代中叶 — 三重危机与全包容神话破灭** 西方滞胀与第三世界危机戳破了实证规划承诺；量子物理学打破决定论神话；后现代思潮解构宏大叙事，单一科学范式不可逆转地走向衰落。（pp. 68–69）
-> - **1980 年代至今 — 学科复数化与全球治理制度惯性** 学界确立多元范式并存且无霸权主导的共识（Comparative Educations）；与此同时，实证量化模式在 IEA 与 [[OECD]]（如 [[PISA]] 测验）等跨国治理机制中依然保有强大的制度惯性话语权。（p. 69）
+> - **1980 年代至今 — 学科复数化与全球治理制度惯性** 学界确立多元范式并存且无霸权主导的共识（[[Comparative Educations]]）；与此同时，实证量化模式在 [[IEA]] 与 [[OECD]]（如 [[PISA]] 测验）等跨国治理机制中依然保有强大的制度惯性话语权。（p. 69）
 
 ---
 

@@ -10,7 +10,7 @@ aliases:
 summary: "将专业实践与教育治理窄化为手段-目的因果计算与去情境化技术控制的实证主义模型；在微观教学中剥夺教师专业判断，在宏观政策与比较教育中将教育退化为劳动力技能规训并侵蚀全人教化"
 type: concept
 domain: "educational-philosophy"
-related_count: 54
+related_count: 52
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[Professional Judgment]]"
   - "[[Bildung]]"
+  - "[[Paideia]]"
   - "[[Variable]]"
   - "[[Teacher Professional Agency]]"
   - "[[Disciplina and Doctrina]]"
@@ -57,6 +58,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Historical-Philosophical-Cultural Motif]]"
 related_theories:
+  - "[[Human Capital Theory]]"
   - "[[Critical Theory]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
@@ -70,10 +72,6 @@ related_persons:
   - "[[Andreas Kazamias]]"
   - "[[Carol Campbell]]"
   - "[[Anthony Bryk]]"
-  - "[[Auguste Comte]]"
-  - "[[Brian Holmes]]"
-  - "[[Harold Noah]]"
-  - "[[Max Eckstein]]"
   - "[[John Hattie]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
@@ -96,7 +94,7 @@ updated: 2026-09-07
 技术理性（Technical Rationality），在宏观政策与学科[[Epistemology|认识论]]中又常被称为技术官僚理性（Technocratic Rationalism），是一种植根于[[Positivism|实证主义]]哲学的专业[[Epistemology|认识论]]与治理模型。该模型主张专业实践与政策干预应通过严格应用由基础科学推导出的标准化因果规律来达成既定目标；实践被解构为手段-目的（Means-Ends）的工具性操作，强调外部专家知识的特权、[[Value Neutrality|价值中立]]与标准化技术控制。
 
 > [!def] 核心定义
-> 技术理性将专业实践与教育改革窄化为**自上而下的线性研究灌输与去情境化的工具性计算模型**。在微观实践层面，[[Argument_Nelson_2017_ER|Nelson & Campbell (2017, p. 127)]] 指出，技术理性将教师贬低为被动执行外部有效性证据的技术人员，因忽视复杂实践情境与教师[[Professional Judgment|专业判断]]而频遭政策受挫；在宏观比较教育与国际治理层面，[[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009, pp. 56–57)]] 揭示技术官僚理性将教育矮化为单纯的“学校教育”（Schooling）与可测量的经济投入产出工程，剥夺了对以人为中心（Anthropocentric）的古典全人[[Bildung|教化]]（*Paideia*）传统与人类文明伦理危机的哲学反思。
+> 技术理性将专业实践与教育改革窄化为**自上而下的线性研究灌输与去情境化的工具性计算模型**。在微观实践层面，[[Argument_Nelson_2017_ER|Nelson & Campbell (2017, p. 127)]] 指出，技术理性将教师贬低为被动执行外部有效性证据的技术人员，因忽视复杂实践情境与教师[[Professional Judgment|专业判断]]而频遭政策受挫；在宏观比较教育与国际治理层面，[[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009, pp. 56–57)]] 揭示技术官僚理性将教育矮化为单纯的“学校教育”（Schooling）与可测量的经济投入产出工程，剥夺了对以人为中心（Anthropocentric）的古典全人[[Bildung|教化]]（*[[Paideia]]*）传统与人类文明伦理危机的哲学反思。
 
 > [!concept-lens] 概念透镜
 > - **核心维度** 聚焦手段-目的工具计算、价值中立性设想、科学程序对不确定性的消除，以及外部专家知识与量化指标对本土实践经验与人文教化的权威置换。
@@ -135,7 +133,7 @@ updated: 2026-09-07
 > - **[[Value Neutrality|价值中立]]与目标[[Epoché|悬置]]（VALUE Neutrality & Objective Fixation）** 预设教育目标是[[Doxa|不言自明]]的既定前提，拒绝在技术层面反思“为何要教”与“何为良好的教育”，仅追逐效率最大化。
 > - **专家特权与线性单向传输（Expert Privilege & Linear Transmission）** 确立学术研究者对因果真理的垄断地位，把知识传播构想为从大学向学校自上而下的单向输送。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 127)]]
 > - **去情境化可量化迷执（Decontextualised Quantificationalism）** 倾向于将所有教育现象转化为可测量的[[Variable|变量]]与标准量化指标，排斥质性、情境性与主观意义维度的证据。
-> - **去政治化技术官僚[[Disciplina and Doctrina|规训]]（Technocratic Schooling De-politicisation）** 将教育矮化为去情境化、可测量的工具性“学校教育”（Schooling），用量化生产力与人力资本测算取代对社会正义与人类文明危机的哲学追问。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 56–57)]]
+> - **去政治化技术官僚[[Disciplina and Doctrina|规训]]（Technocratic Schooling De-politicisation）** 将教育矮化为去情境化、可测量的工具性“学校教育”（Schooling），用量化生产力与[[Human Capital Theory|人力资本]]测算取代对社会正义与人类文明危机的哲学追问。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 56–57)]]
 
 > [!logic-map]- 要素关系与批判逻辑
 > ```mermaid
@@ -175,7 +173,7 @@ updated: 2026-09-07
 > **系统侵蚀生活世界与合法化悖论** 技术理性在晚期现代社会中被国家治理机器广泛采纳，作为以科学客观性掩盖价值冲突的合法化工具。在教育领域，这种逻辑促成了[[New Public Management|新公共管理]]（New Public Management, NPM）与机械问责制的盛行。将教学简化为可测量、可排名的技术指标（如部分循证改革对单一[[Randomised Controlled Trials|随机对照试验]]（RCT）指标的迷执），消除了教师和学生作为意义寻求者的意向性，剥夺了教师的[[Professional Judgment|专业判断]]权。这种做法表面上提升了系统审计效率，实则瓦解了学校日常教育实践的内在意义结构，最终导致教师职业倦怠、师生动力衰退以及深层的系统合法化危机。
 
 > [!claim] [[Andreas Kazamias|Kazamias, A.]] M.
-> **技术官僚理性对全人[[Bildung|教化]]与人文科学传统的侵蚀** 卡扎米亚斯深刻批判了 1960 年代以来支配比较教育与国际政策界的技术官僚理性（Technocratic Rationalism）。他指出，现代主义实证学者将[[Scientific Method|科学方法]]、经验主义、工具主义与技术官僚理性奉为主宰神祇，将教育研究窄化为对单纯“学校教育”（Schooling）的微观[[Disciplina and Doctrina|规训]]与经济人力产出测算，系统抹杀了以人为中心（Anthropocentric）的古典全人[[Bildung|教化]]（*Paideia*）传统与对人类政治、社会与伦理危机的哲学反思。这种去历史化、去文化深度的技术控制论，导致教育研究沦为服务于跨国官僚治理的去政治化工具。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 56–57)]]
+> **技术官僚理性对全人[[Bildung|教化]]与人文科学传统的侵蚀** 卡扎米亚斯深刻批判了 1960 年代以来支配比较教育与国际政策界的技术官僚理性（Technocratic Rationalism）。他指出，现代主义实证学者将[[Scientific Method|科学方法]]、经验主义、工具主义与技术官僚理性奉为主宰神祇，将教育研究窄化为对单纯“学校教育”（Schooling）的微观[[Disciplina and Doctrina|规训]]与经济人力产出测算，系统抹杀了以人为中心（Anthropocentric）的古典全人[[Bildung|教化]]（*[[Paideia]]*）传统与对人类政治、社会与伦理危机的哲学反思。这种去历史化、去文化深度的技术控制论，导致教育研究沦为服务于跨国官僚治理的去政治化工具。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 56–57)]]
 
 ---
 
@@ -203,12 +201,12 @@ updated: 2026-09-07
 ## 概念演变
 
 > [!dev-timeline] 技术理性的哲学演化与教育批判脉络
-> - **19 世纪 — [[Positivism|实证主义]]哲学奠基** [[Auguste Comte|孔德]]等倡导实证主义哲学，将科学与技术控制确立为解决人类社会问题、指导一切专业实践的最高[[Paradigm|范式]]。
-> - **1960s — 比较教育学科转型确立技术官僚理性支配** [[Brian Holmes|霍姆斯]]、[[Harold Noah|诺亚]]与[[Max Eckstein|埃克斯坦]]等战后实证学者以“[[Scientific Method|科学方法]]”、“实证主义”与“技术官僚理性”为核心，推动比较教育转向因果预测与指标量化，将教育窄化为去情境化的学校[[Disciplina and Doctrina|规训]]。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 53, 56–57)]]
+> - **19 世纪 — [[Positivism|实证主义]]哲学奠基** 孔德等倡导实证主义哲学，将科学与技术控制确立为解决人类社会问题、指导一切专业实践的最高[[Paradigm|范式]]。
+> - **1960s — 比较教育学科转型确立技术官僚理性支配** 霍姆斯、诺亚与埃克斯坦等战后实证学者以“[[Scientific Method|科学方法]]”、“实证主义”与“技术官僚理性”为核心，推动比较教育转向因果预测与指标量化，将教育窄化为去情境化的学校[[Disciplina and Doctrina|规训]]。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 53, 56–57)]]
 > - **1976 / 1984 — [[Critical Theory|批判理论]]与合法化危机分析** [[Jürgen Habermas|哈贝马斯]]出版《合法化危机》与《交往行为理论》，系统剖析技术理性作为国家行政治理媒介对日常“生活世界”的殖民，揭示其导致的动机衰退与正当性危机。
 > - **1983 — [[Reflexivity|反思性]]实践者模型的提出** 舍恩出版《反思性实践者》（*The Reflective Practitioner*），正式将技术理性定义为实证主义专业[[Epistemology|认识论]]，指出其无法应对“沼泽地”问题，倡导反思性实践作为替代范式。
 > - **2000s — [[Evidence-Based Education|循证教育]]运动与技术理性复兴** 随着“[[What Works Movement|什么有效运动]]”、医学模式类比及英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）工具包的普及，技术理性在教育政策中以[[Effect Size|效应量]]排行榜和因果证据等级制的形式再度盛行。
-> - **2009 — 卡扎米亚斯批判技术官僚理性并重申全人[[Bildung|教化]]** 卡扎米亚斯系统批判技术官僚理性对比较教育人文传统的剥离，重申古典全人教化（*Paideia*）与以人为中心的伦理底线。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 56–57)]]
+> - **2009 — 卡扎米亚斯批判技术官僚理性并重申全人[[Bildung|教化]]** 卡扎米亚斯系统批判技术官僚理性对比较教育人文传统的剥离，重申古典全人教化（*[[Paideia]]*）与以人为中心的伦理底线。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 56–57)]]
 > - **2017 — 证据知情视阈下对技术理性线性供给的反思** [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] 汇聚国际前沿实证，明确指出自上而下的技术-理性研究灌输模型已导致系统推行受挫，倡导转向以[[Professional Judgment|专业判断]]为核心的多源证据整合与全系统[[Knowledge Mobilisation|知识动员]]。
 
 ---
@@ -220,8 +218,8 @@ updated: 2026-09-07
 > > [!axis] 技术官僚控制 vs 育人人文本体
 > > 教育的核心追求究竟是提高去情境化的可测量产出效率，还是涵养受过教育的人的精神自由与道德品格。
 > >
-> > - **技术理性[[Paradigm|范式]]（1960s 至今）** 将教育视为劳动力生产与人力资本投资的闭合工程，追求[[Effect Size|效应量]]最大化与投入产出可控性。
-> > - **批判与人文传统（Schön, [[Jürgen Habermas|Habermas]], Kazamias）** 坚信教育是关乎善、正义与全人[[Bildung|教化]]的开放生活世界，排斥将人原子化为指标[[Variable|变量]]的技术控制。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 56–57)]]
+> > - **技术理性[[Paradigm|范式]]（1960s 至今）** 将教育视为劳动力生产与[[Human Capital Theory|人力资本]]投资的闭合工程，追求[[Effect Size|效应量]]最大化与投入产出可控性。
+> > - **批判与人文传统（Schön, Habermas, Kazamias）** 坚信教育是关乎善、正义与全人[[Bildung|教化]]的开放生活世界，排斥将人原子化为指标[[Variable|变量]]的技术控制。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 56–57)]]
 >
 > > [!axis] 线性研究指令 vs 情境专业审议
 > > 外部科学证据是否可以直接推导出具体的实践处方与政策指令。
@@ -268,7 +266,7 @@ updated: 2026-09-07
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] — 批判教育政策中长期主导的“技术-理性”研究灌输模型，系统阐述以[[Professional Judgment|专业判断]]为核心的多源[[Evidence-Informed Practice|证据知情实践]]与全系统[[Knowledge Mobilisation|知识动员]]。
 > - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009)]] — 思想史批判指出 1960 年代实证转型以技术官僚理性取代历史-哲学-文化传统，将教育异化为狭隘的学校技能[[Disciplina and Doctrina|规训]]，重申以人为中心的全人[[Bildung|教化]]防线。
-> - Nielsen & Klitmøller (2021) — 运用 Schön 和 [[Jürgen Habermas|Habermas]] 的[[Critical Theory|批判理论]]，系统剖析 [[Visible Learning]] 的技术理性内核及其行为主义理论谱系。
+> - Nielsen & Klitmøller (2021) — 运用 Schön 和 Habermas 的[[Critical Theory|批判理论]]，系统剖析 [[Visible Learning]] 的技术理性内核及其行为主义理论谱系。
 > - Schön (1983) — 奠基性著作《[[Reflexivity|反思性]]实践者》，系统界定技术理性并阐明反思性实践作为专业[[Epistemology|认识论]]的替代方案。
 > - Habermas (1976) — 阐明技术理性作为晚期资本主义治理媒介对生活世界的侵蚀与合法化危机生成机制。
 

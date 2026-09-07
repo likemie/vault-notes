@@ -5,7 +5,7 @@ aliases:
 summary: "Nancy Fraser 提出的概念，指新自由主义经济政策与进步社会议程之间形成的话语和政治联盟。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,7 +20,8 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Operationalization]]"
   - "[[Spatial Sortings]]"
-related_theories: []
+related_theories:
+  - "[[Human Capital Theory]]"
 related_methods: []
 related_persons: []
 related_facts: []
@@ -61,7 +62,7 @@ updated: '2026-05-18'
 
 
 > [!note-] Moisio 的空间化应用
-> [[Argument_Moisio_2022_Springer|Moisio (2022)]]将 Fraser 的概念引入[[Knowledge-Based Economization|知识经济化]]的空间分析：进步新自由主义在过去三十年中是 [[Knowledge-Based Economization]] 的主要意识形态驱动——"硅谷世界观"不仅塑造了经济政策，还塑造了城市发展、高等教育和人力资本话语([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.30–32]])。Moisio 尤其关注这一过程的排斥效应：进步新自由主义版本的 [[Knowledge-Based Economy|KBE]] "为少数人口和地点生产大量财富，同时将其他人口和地点置于社会和地理边缘"([[Argument_Moisio_2022_Springer|Moisio, 2022, p.30]])。
+> [[Argument_Moisio_2022_Springer|Moisio (2022)]]将 Fraser 的概念引入[[Knowledge-Based Economization|知识经济化]]的空间分析：进步新自由主义在过去三十年中是 [[Knowledge-Based Economization]] 的主要意识形态驱动——"硅谷世界观"不仅塑造了经济政策，还塑造了城市发展、高等教育和[[Human Capital Theory|人力资本]]话语([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.30–32]])。Moisio 尤其关注这一过程的排斥效应：进步新自由主义版本的 [[Knowledge-Based Economy|KBE]] "为少数人口和地点生产大量财富，同时将其他人口和地点置于社会和地理边缘"([[Argument_Moisio_2022_Springer|Moisio, 2022, p.30]])。
 >
 
 ## 实证发现

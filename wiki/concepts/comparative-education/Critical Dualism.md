@@ -102,7 +102,7 @@ updated: 2026-09-07
 ## 核心要素
 
 > [!feature] 批判二元论的四大分析构件（pp. 62–67）
-> - **规范模式的跨国理想类型化（Normative Patterns）** [[Brian Holmes|霍姆斯]]主张将人类历史上沉淀的深层哲学传统提炼为跨国理想类型（如[[Plato|柏拉图]]主义精英[[Bildung|教化]]、马克思主义全面发展、[[John Dewey|杜威]][[Pragmatic Paradigm|实用主义]][[Democratic Education|民主教育]]），作为衡量特定国家教育目标与伦理追求的[[Criterion-Referenced Test|标准参照]]系。
+> - **规范模式的跨国理想类型化（Normative Patterns）** 霍姆斯主张将人类历史上沉淀的深层哲学传统提炼为跨国理想类型（如[[Plato|柏拉图]]主义精英[[Bildung|教化]]、马克思主义全面发展、[[John Dewey|杜威]][[Pragmatic Paradigm|实用主义]][[Democratic Education|民主教育]]），作为衡量特定国家教育目标与伦理追求的[[Criterion-Referenced Test|标准参照]]系。
 > - **心理状态模式与民族文化精神（Pattern of Mental States & Mores）** 深入考察沉淀于制度深处的心理状态模式与民俗伦理，系统吸纳[[Michael Sadler|迈克尔·萨德勒]]（Michael Sadler）所指的活的精神与[[Vernon Mallinson|弗农·马林森]]（Vernon Mallinson）的[[National Character|国民性格]]，为实证研究注入历史人文厚度。
 > - **社会学法则的情境权变性（Contingency of Sociological Laws）** 汲取爱因斯坦相对论物理学启示，断言社会学法则虽然以全称命题形式陈述，但其有效性严格依赖于适用的初始情境条件；由于社会语境的[[Heterogeneity|异质性]]，彻底击碎了超越时空的普适定律神话。
 > - **时代不同步与文化滞后诊断（Asynchrony / Cultural Lag）** 批判二元论提供了强大的教育危机病理诊断工具：规范法则的变迁往往滞后于社会经济结构的突变，或者激进的学制变革脱离了深层民族规范传统，造成制度运行与价值信仰脱节的时代不同步。
@@ -181,7 +181,7 @@ updated: 2026-09-07
 
 > [!dev-timeline] 批判二元论的知识谱系演进
 > - **1945 年 — 波普尔奠定批判[[Rationalism in International Relations|理性主义]]哲学基石** [[Karl Popper|卡尔·波普尔]]（Karl Popper）在《开放社会及其敌人》中系统阐述批判二元论，严格划清自然界客观规律与人类自设规范公约的界限，清算将道德价值还原为历史必然性的决定论历史主义。
-> - **1965 年 — [[Brian Holmes|霍姆斯]]开辟比较教育[[Problem Approach|问题法]]转化** 霍姆斯在《教育中的问题》（*Problems in Education*）中首次将批判二元论系统引入比较教育，建构由规范模式与机构背景组成的情境[[Analytic Framework|分析框架]]，将教育政策重塑为可检验假说。
+> - **1965 年 — 霍姆斯开辟比较教育[[Problem Approach|问题法]]转化** 霍姆斯在《教育中的问题》（*Problems in Education*）中首次将批判二元论系统引入比较教育，建构由规范模式与机构背景组成的情境[[Analytic Framework|分析框架]]，将教育政策重塑为可检验假说。
 > - **1981 年 — 相对论物理学启示与权变法则理论成熟** 霍姆斯在《比较教育方法论思考》（*Comparative Education: Some Considerations on Method*）中全面深化二元分立，汲取爱因斯坦相对论启示确立社会学法则的权变性，并与[[Edmund King|埃德蒙·金]]就预测划界标准展开世纪大论战。
 > - **2000 年代至今 — 学科史重估与现代性反思** [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] 等学者系统复盘批判二元论，指出其在[[Positivism|实证主义]]狂飙突进的年代为历史人文传统守住了合法阵地，但在官方政策资助市场却因其哲学复杂性与揭示非意图后果的尖锐性而遭到技术官僚冷落。
 

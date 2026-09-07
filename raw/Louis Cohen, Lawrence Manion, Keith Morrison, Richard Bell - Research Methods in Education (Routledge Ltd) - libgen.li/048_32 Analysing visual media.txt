@@ -1,0 +1,444 @@
+32 Analysing visual media
+=========================
+
+Analysing visual media
+
+CHAPTER 32
+
+This chapter provides researchers with an introduction to key issues in analysing different kinds of visual image, including still and moving images, and artefacts. It uses tools of analysis that have been introduced in previous chapters, such as content analysis, discourse analysis, and it provides an entrée into the next chapter on grounded theory. With reference to analysing visual data, the chapter introduces:
+
+[图片: images/048_32 Analysing visual media/001_box.jpg | image]
+ content analysis
+
+[图片: images/048_32 Analysing visual media/002_box.jpg | image]
+ discourse analysis
+
+[图片: images/048_32 Analysing visual media/003_box.jpg | image]
+ grounded theory
+
+[图片: images/048_32 Analysing visual media/004_box.jpg | image]
+ interpreting images
+
+[图片: images/048_32 Analysing visual media/005_box.jpg | image]
+ interpreting an image: an example
+
+[图片: images/048_32 Analysing visual media/006_box.jpg | image]
+ analysing moving images
+
+We provide an extended worked example of an analysis, of a photograph, to clarify key issues in this kind of analysis.
+
+32.1 Introduction
+
+Chapter 31 introduced discourse analysis. Visual media are a form of text or discourse. Hence they are susceptible to some of the same kinds of analytical tools that are available to quantitative and qualitative data analysts, including, for example: content analysis (both numerical and qualitative), discourse analysis and grounded theory. We address these below. Further, some computer software (e.g. NVivo, ATLAS.ti) works with visual data as well as textual data.
+
+32.2 Content analysis
+
+We can analyse visual images in a similar way to that of analysing texts, e.g. through ‘reading’ the meanings, through disclosing our own views, perspectives, backgrounds and values (reflexivity). Here content analysis – purportedly an ‘objective’ form of analysis – can be performed in ways similar to those in qualitative and, indeed, quantitative data analysis. A possible sequence is set out below:
+
+[图片: images/048_32 Analysing visual media/007_box.jpg | image]
+ start with research questions that determine which images (sampling) will be used in the analysis;
+
+[图片: images/048_32 Analysing visual media/008_box.jpg | image]
+ retrieve the appropriate images;
+
+[图片: images/048_32 Analysing visual media/009_box.jpg | image]
+ devise a coding system and codes (which must be mutually exclusive, exhaustive and enlightening (Rose, 2007: 65));
+
+[图片: images/048_32 Analysing visual media/010_box.jpg | image]
+ code the images according to the codes;
+
+[图片: images/048_32 Analysing visual media/011_box.jpg | image]
+ count codes and their frequencies;
+
+[图片: images/048_32 Analysing visual media/012_box.jpg | image]
+ reflect on what the coding and the frequencies have indicated.
+
+A celebrated example of this approach is from Lutz and Collins (1993), who examined some 600 visual images in the magazine National Geographic. They devised 22 predetermined codes to analyse the photographs (e.g. smiling, gender of adults, group size, skin colour, activity, surroundings of people, wealth indicators, etc.). Codes were used in relation to each other as well as ‘stand alone’. From their analysis they concluded that Westerners defined non-Westerners in terms that made them very different from Westerners and ‘as everything that the West is not’ (Rose, 2007: 67) (akin to Edward Said’s (1978) notion of the ‘other’), as ‘natural’, less advanced technologically, more attuned to their environment, more spiritual, more exotic and, indeed, naked. The photographs avoided negative imagery (e.g. of poverty, wars, starvation, conflict, illness, physical deformity); in short a sanitized, non-disturbing, non-upsetting, and, of course, unreal view of non-Westerners was portrayed. Issues of power, of dissatisfaction were simply excluded; a structured silence that acted ideologically to reproduce the status quo of inequality within and across countries.
+
+Content analysis, as its name suggests, is more concerned with the contents of the image rather than the production or ‘audiencing’ of the image (Rose, 2007: 61); hence it may not be able to comment on the cultural significance of the images made or caught.
+
+In content analysis of texts, the whole is more than the sum of the parts, and this is particularly so in visual data, as the effect of the whole and the combination of parts can be greater than each item of composition. As part of content analysis, coding risks losing this wholeness, as it is atomistic and fragmentizing. Rose (2007: 72) argues that content analysis: (a) does not discriminate between weaker and stronger instances of the code; (b) loses important interconnections between elements of an image. Further, codes miss the mood that an image might be trying to create. Indeed she argues that, fundamentally, they overlook the important point that different people view images in different ways and with different interpretations. Whilst content analysis, conducted through coding, lends itself to the scientifically approved maxim of replicability, this may miss important features of the researcher working with visual data.
+
+In summary, then, content analysis risks overlooking any ideology-critical way of viewing an image; it builds out such an approach, and yet ideology critique is an important element of deconstructing a visual image. Ideology, defined as the views of the ruling, dominant groups who succeed – by force or by consent (hegemony) – in having their views and values ‘count’ or seen as legitimate, is all powerfully pervasive, and the views and values of others are relegated or discredited, i.e. ideology serves to reproduce social inequalities in society and to have those social inequalities played out in the everyday lives of participants. Ideology is ‘lived experience’, legitimating the power of the powerful at the expense of the powerless. Ideology critique is a powerful way of looking at visual data, exposing illegitimate operations and functions of power, and how these are produced and reproduced through images, how images legitimize social inequality. This takes place, for example, in the selection, focus, exclusion, inclusion and interpretation of images and their contents. This is evidenced in semiological studies (studies of signs – signifiers – and the meaning given to that which they signify – the signified – for the viewer of the image), how meaning is encoded in the image and decoded by the viewer. In this context it is interesting for researchers to look at school prospectuses and websites; for example look at the images on the front page of school websites (e.g. Eton College: www.etoncollege.com/ and Winchester College: www.winchestercollege.co.uk/, both of them private schools for the privileged) to see the images of the school that are selected, given or received by the school and the viewer, to see what the images denote or connote.
+
+Content analysis is a useful way of examining images, then, but its limitations have to be recognized. That is not to say that the outcomes of content analysis cannot be subject to ideology critique (indeed the study by Lutz and Collins (1993) is an example of this).
+
+32.3 Discourse analysis
+
+Visual images can also be read as discourses, and here the discussion of discourse analysis in Chapter 31 can apply very strongly, as images can be ‘read’ for the meanings that they convey to, or elicit from, the viewer. A discourse, as Rose (2007: 142) remarks, is a group of statements which structure how we think about things and how we act on the basis of those thoughts. As Chapter 31 makes clear, discourses structure and define what is valuable knowledge, how to know and how to think, and this is linked to Foucault’s (1998) view that discourse is an instrument and an effect of power. Discourses, like ideology, are saturated by power; hence in understanding images we have to engage in an analysis, and critique, of power, how it operates and with what effects (a worked example of this is presented below in an analysis of a photograph).
+
+Discourse, as Rose (2007: 146) remarks, operates in several spheres, be they individual (the viewer or the producer of the image) or institutional (the items that galleries, museums, etc. hold, display and how they present them): ‘the social production and the effects of discourses’ (p. 147). We can ‘read’ images for their symbolism, their messages and their iconography. This may involve trying to set on one side our own interpretations or views, and endeavouring to see the image as it might have been intended by the producer of the image, to look at the image anew, to review and review again the image iteratively and reiteratively, as Rose (2007: 157) remarks, to immerse ourselves in the image.
+
+One can review the image on the basis of the structured approach of content analysis, or to discover key themes or features, or to identify interesting features or messages, or to look for contradictions, discontinuities or complex issues in the image, or to look at what the image has omitted (deliberately or not), i.e. to consider silences and absences as well as the items that have been included. In conducting this kind of discourse analysis, as with the conversational analysis in Chapter 31, there is a high level of detail in the focus and the analysis. Further, one can consider the purpose of the image in terms of its effects on the audience – intended audience or unintended audience, intended effects or unintended effects. This engages consideration of the production of the image as well as the audience of the image.
+
+As discourse analysis and the interpretation of images involve a large element of subjectivity as intrinsic to the activity, it is incumbent on the researcher to be highly reflexive in the account given, indeed to regard his or her own interpretation as itself a discourse.
+
+Not only is discourse analysis conducted at the level of the individual image, but at the level of the institution which holds the image, e.g. the gallery, the museum, the newspaper, the film archive, the school, the broadcasting network. Rose (2007: 175) particularly cites this in her examples of photographs, where the use of the image may be giving messages about the institution and its values and, indeed, the intended message behind the institution’s selection and use of the image, not least because institutions are sites of the operations of power (a central feature of discourses) in deciding what visual images to display or to give, together with considerations of to whom, how and where to display the images. Were the images commissioned, bought, donated, acquired and from whom – families, philanthropists, other institutions, and how and why, and so on? How did they change hands? Here we can consider the near instantaneous transfer of digital images in contrast to the protracted transfer of many valuable oil paintings. Indeed images have their own social lives and biographies (for a clear example of this see the 1998 film The Red Violin). What labels and captions accompany the image (e.g. the painting, the photograph), and what does it say about the priorities that the institution gives to the image? How are images stored, labelled, catalogued, archived and indexed? What are the visitor rules that have to be obeyed in the viewing institution (e.g. no touching, no approaching the image too close, no eating, no talking, no undesirable clothing (if the image is in a place of worship), how and in what order to move around the institution, where to sit, etc.)?
+
+In terms of moving images, the researcher can investigate the kinds of films that come out of film companies and studios, the kinds of programmes that television channels put out, for whom and in what format. For example the easy-going, familiar, polite, superficial and chatty style of television talk shows, that always end on a happy note and take pains not to touch on sensitive or dangerous knowledge, can be contrasted to the gritty documentary about child prostitution or the raw film genre such as Raging Bull (Cormack, 1992). Here ‘audiencing’ features large: examining which audiences watch which films or which programmes, or go to see which images and where. In educational research the techniques of discourse analysis can be applied to still and moving images taken by, or provided by, the researcher and/or the participants.
+
+Discourses and discourse analysis can apply to artefacts as well as to images. For example Francis (2010) analysed the discourses of gendered worlds into which young boys and girls are inducted through commercially produced toys and films.
+
+32.4 Grounded theory
+
+Both the tools and the outcomes of grounded theory can be used in analysing images. The tools of grounded theory, as discussed in Chapter 33, include induction, open coding, axial coding (relating conceptually similar codes to a code that embraces them all), selective coding (looking at relationships between axial codes), categorizing, theoretical sampling, constant comparison, memoing, generation of core categories, theoretical saturation and the generation of the theory itself as the end point of the analysis (i.e. derived from the data not driving the data). We refer the reader to Chapter 33 for a fuller overview of these techniques. The researcher gathers together the visual data, then codes the data, moving to generating categories, themes, key issues and features, thence to writing a memo about these, thence to formulating general concepts, thence to saturating the category and theoretical sampling, ‘visual contrasting of time perspectives and co-constructed sequences of visual images of time’ (Konecki, 2009: 85) and onwards to the generation of the grounded theory itself. For a worked example of this we refer the reader to Konecki (2009).
+
+Figueroa (2008) argues that, although there is a large battery of analytical tools available for qualitative data analysis, these tend to focus on interactional studies. She argues for a variant of grounded theory to be used in analysing audio-visual texts, in the context of looking at audio-visual texts and narratives in their own right (as phenomena themselves) rather than solely regarding the audio-visual medium as the means for collecting data on a phenomenon. Texts, she avers, are ‘crystallised pieces of this symbolic social net of meanings’ (p. 4) and have to be examined in their own right. This entails looking at the actors’ behaviours and strategies, and the consequences of these. But who are the actors – the people who have been filmed or the producers of the final image? Regarding audio-visual media simply as the means or instruments for observing a phenomenon will look at actors’ behaviours and interactions; however, she suggests that it is not always easy to identify who the actors are. For example, in a piece of television journalism, the actors may be the cameraman, the journalist in the film, the chief editor, the television presenter, eyewitnesses or other people in the film, the film editor or, indeed, others. Hence it is not always easy to see who is ‘speaking’ in the text.
+
+Given this difficulty, Figueroa (2008) argues that researchers have to look at texts in their own right as a single product, to see the text as a single-perspective narrative. If the researcher regards texts as the medium to another end, rather than as the product in itself, then this will lead the researcher to look at individual actors and their different behaviours, interactions, strategies, etc. However, if texts are regarded as ends in themselves, then they will be analysed and coded differently, and, not least, interrogated for what they omit as well as what they include. Such texts and their associated readings are recognized to be: (a) already selective (having created a world, not only reflected one); (b) fictional (because they are constructed narratives); and (c) affected by the manner of their construction (they are dramaturgical and framed in a certain way, e.g. by news editors and news presenters) (p. 6).
+
+Reading audio-visual products as texts, to be analysed through grounded theory, Figueroa (2008: 7) suggests, breaks down elements into smaller ‘microscopic’ units of coded fragments too soon, usually at the beginning of the analysis. This, she argues, risks losing sight of the whole text and the force of the whole text, in which that whole is more than the sum of its parts. She makes the point that such early coding analysis loses the impact of the whole when it is undertaken before any ‘deep interpretation’ and analysis of the overall structure of the text has been made.
+
+Hence Figueroa (2008) suggests that, whilst grounded theory of texts (as products rather than as media for studying other phenomena) is useful, it should be undertaken differently from the normal sequence of open coding moving to axial coding and categorizing and, through constant comparison and the generation of core categories, to the generation of the grounded theory. Rather, she suggests that the researcher needs to turn ‘this paradigm [of grounded theory] on its head’ (p. 8). Here an analysis of audiovisual texts should start by looking at the whole, with the overall picture and ‘global impressions’, as these influence the more detailed analysis that can follow. Only after the overall impression has been formed should the researcher move to the more detailed analysis and coding, i.e. with the overall picture in mind, together with an insight into the interconnections and interrelationships between different parts of the text. Echoing Blumer’s (1969: 41) advocacy of moving from the broad view to a sharper, close-up focus, this recognizes that the text is not simply a collection of independent, coded units but a whole, which has a structure and overall impact. The textual analysis becomes an ‘exploration’ (Figueroa, 2008: 9) to provide a comprehensive overall picture and account of what is ‘going on’ in the audio-visual text, rather than simply being a coding exercise. To accompany such ‘exploration’, she argues for Blumer’s (1969: 43) use of ‘inspection’: ‘an intensive focused examination of the empirical content of whatever analytical elements’ arise from, and come out in the text, i.e. smaller units and pieces of the text. Indeed she writes that a more suitable way of interpreting Blumer’s ‘inspection’ is not as examination of analytical units, but as ‘exemplification’ of analytical elements and emergent constructs and hypotheses.
+
+In moving from the global to the detailed levels, macro to micro, the emergent hypotheses that are a feature of grounded theory take account of the audiovisual texts as a whole and are exemplified in the text, thus enabling the researcher to come to the close-up focus more slowly, after undertaking an overall view (Figueroa, 2008: 10). This, Figueroa avers, does greater justice to the nature of audio-visual texts and the structures of meaning within them. Though her comments are intended to apply to audio-visual texts of moving images, they can apply equally well to still images and visual data.
+
+In advocating grounded theory, then, the researcher can start with the overall, general impression and awareness of the broad-based structures and interlocking elements of the whole, then move to the fine-grained, micro-analysis in coding and then through the several stages of the generation of the grounded theory, informed and influenced by the overall impression and messages gained at the early stages of approaching the analysis.
+
+32.5 Interpreting images
+
+Images are ‘compressed performances’ (Pinney, 2004: 8), they take place in a social milieu, both at the sites of production and ‘consumption’, and the sites of ‘consumption’ (viewing) may change over time. They are produced for one set of purposes but often used with other intentions. The researcher has to be alert not to over-interpret photographs or to read into them meanings which are barely supportable by the material itself, i.e. he or she needs to be highly reflexive. In this respect educational researchers should accompany the photograph in question with text, for verification, for third-party validation of interpretations, for contextualizing the photograph and, not least, for ensuring that the photograph is not ‘read’ in entirely different ways from those of the researcher.
+
+In examining images we can suggest several questions that can be asked (cf. Rose, 2007: 258–9):
+
+[图片: images/048_32 Analysing visual media/013_box.jpg | image]
+ Why, when, where, by whom, for whom, how is/was the image made?
+
+[图片: images/048_32 Analysing visual media/014_box.jpg | image]
+ Who is/was/are/were the originally intended audiences of the image?
+
+[图片: images/048_32 Analysing visual media/015_box.jpg | image]
+ How is/was the image displayed?
+
+[图片: images/048_32 Analysing visual media/016_box.jpg | image]
+ What do we know about the maker, the owner(s) and the people (if any) on the image?
+
+[图片: images/048_32 Analysing visual media/017_box.jpg | image]
+ What were the relations (if any) between the producer, the subjects and the owner(s) of the image?
+
+[图片: images/048_32 Analysing visual media/018_box.jpg | image]
+ What is the image about, and what/whom does the image show?
+
+[图片: images/048_32 Analysing visual media/019_box.jpg | image]
+ What are the features of the image (e.g. compositional, genre, style, colour, elements, structure, format, arrangement, symmetry, etc.)?
+
+[图片: images/048_32 Analysing visual media/020_box.jpg | image]
+ What is the medium of the image?
+
+[图片: images/048_32 Analysing visual media/021_box.jpg | image]
+ What are the striking features of the image?
+
+[图片: images/048_32 Analysing visual media/022_box.jpg | image]
+ Is the image ‘stand-alone’, is it part of a set or series, is it part of a collection?
+
+[图片: images/048_32 Analysing visual media/023_box.jpg | image]
+ Should the image be seen on its own or in the context of a set or series?
+
+[图片: images/048_32 Analysing visual media/024_box.jpg | image]
+ From where was the image taken?
+
+[图片: images/048_32 Analysing visual media/025_box.jpg | image]
+ What do the different elements of the image signify, and how do we know?
+
+[图片: images/048_32 Analysing visual media/026_box.jpg | image]
+ What interpretations can be made of the image?
+
+[图片: images/048_32 Analysing visual media/027_box.jpg | image]
+ Do the interpretations made of the image accord with the intentions of the producer of the image (do we know of the original intentions)?
+
+[图片: images/048_32 Analysing visual media/028_box.jpg | image]
+ What different interpretations of the image are made by different audiences (and from different backgrounds, e.g. related to ethnicity, age group, sex, sexuality, social class, income groups, geographical location, etc.)?
+
+[图片: images/048_32 Analysing visual media/029_box.jpg | image]
+ What and whose knowledge is included in or excluded from the image?
+
+[图片: images/048_32 Analysing visual media/030_box.jpg | image]
+ Who is empowered/disempowered in or by the image?
+
+[图片: images/048_32 Analysing visual media/031_box.jpg | image]
+ What contradictions, if any, exist within the image?
+
+[图片: images/048_32 Analysing visual media/032_box.jpg | image]
+ Where is the image kept/stored/displayed?
+
+[图片: images/048_32 Analysing visual media/033_box.jpg | image]
+ Who has/had access to the image?
+
+[图片: images/048_32 Analysing visual media/034_box.jpg | image]
+ How can/could the image be viewed?
+
+[图片: images/048_32 Analysing visual media/035_box.jpg | image]
+ How is the image described, labelled, indexed, catalogued, archived?
+
+[图片: images/048_32 Analysing visual media/036_box.jpg | image]
+ Is there a written commentary on the image, and, if so, what does it contain?
+
+[图片: images/048_32 Analysing visual media/037_box.jpg | image]
+ What is the intended and actual relation between the image and those who view it?
+
+There is a wealth of literature on examining images in educational research, particularly in the history of education, and we refer readers to O’Donoghue (2010) for comprehensive references to this. His paper also suggests that images, including photographs, can be regarded as ‘installation art’, i.e. those artworks that are produced at an exhibition site (he gives an example of period rooms that have been constructed as ‘immersive spaces’ (p. 413) in an exhibition, into which the public can walk, look, touch, feel and smell, and in which they interact as more than spectators as participators). Regarding photographs as ‘photographs of installations’ (p. 411) invites researchers not only to imagine the three-dimensional nature of the classroom but how it must feel to be inside that classroom.
+
+32.6 Interpreting an image: a worked example
+
+A worked example of a ‘reading’ of an image (Figure 32.1) is presented in this section. This is a still image, a photograph.
+
+This fascinating historical photograph of a UK schoolroom in the north-east of England carries the museum label thus: ‘Children possibly at Woodland school, taken during an art class. Note sculptured trees on desks.’ It is a typical photograph of its time (early twentieth century), and it is part of the genre of this type of photograph in which each child’s head is turned to the left, the teacher is at the back of the class, and the photographer is on one side of the room in order to include all the children in the photograph. In places the photograph is faded and the image is a little fuzzy: the ravages of time. It has also been preserved in digital form by the museum, so that further image quality loss is prevented.
+
+If we examine the picture, what can we notice?
+
+The people
+
+[图片: images/048_32 Analysing visual media/038_box.jpg | image]
+ There are 60 children in the class (there may have been just a few more, out of the camera shot on the right; the presence of light from the right suggests that the last row in the right may be next to a window).
+
+[图片: images/048_32 Analysing visual media/039_box.jpg | image]
+ There are more girls than boys.
+
+[图片: images/048_32 Analysing visual media/040_box.jpg | image]
+ The sexes sit together, and in some places a boy is wedged between two girls.
+
+[图片: images/048_32 Analysing visual media/041_box.jpg | image]
+ All the children are white Caucasians.
+
+[图片: images/048_32 Analysing visual media/042_box.jpg | image]
+ The teacher is female.
+
+[图片: images/048_32 Analysing visual media/043_box.jpg | image]
+ Nearly all the children are dressed smartly in the style of the day; it is unclear whether there is a uniform, or clothing for the special event of the photograph, but there is a homogeneity or standardization of clothing.
+
+[图片: images/048_32 Analysing visual media/044_box.jpg | image]
+ Some boys are wearing expensive lace collars, others are wearing stiff ‘Eton’ collars, but the school is probably not for rich children (who would be in much smaller classes and with different uniforms; perhaps here the parents wanted the best for their children’s schooling).
+
+[图片: images/048_32 Analysing visual media/045_box.jpg | image]
+ Clothing is clearly differentiated by sex.
+
+[图片: images/048_32 Analysing visual media/046_box.jpg | image]
+ The children are wearing warm clothing.
+
+[图片: images/048_32 Analysing visual media/047_box.jpg | image]
+ The only person not looking at the camera is the teacher, and, like a military officer, she is looking imperiously, sternly and unsmilingly at the children, and is the only one standing in the photograph, i.e. physically and metaphorically above the students.
+
+[图片: images/048_32 Analysing visual media/048_box.jpg | image]
+ All the children are facing the camera; no child is looking away.
+
+[图片: images/048_32 Analysing visual media/049_box.jpg | image]
+ The picture is ‘posed’ and serious, not light-hearted; clearly the children have been told what to do, how to sit (hands behind their backs) and where to look. Some are trying to smile, one or two seem to be smiling more naturally, and yet most are not.
+
+[图片: images/048_32 Analysing visual media/050_box.jpg | image]
+ The situation seems unusual for the children, to have a photographer in the classroom, as many of them have an air of curiosity in their look.
+
+[图片: images/048_32 Analysing visual media/051_f0593-01.jpg | image]
+
+FIGURE 32.1 An early twentieth-century photograph of children in an art lesson
+
+Source: Image courtesy of Beamish museum limited, image copyright Beamish museum limited
+
+The classroom and the furniture
+
+[图片: images/048_32 Analysing visual media/052_box.jpg | image]
+ Proportional to the number of people, the classroom is quite small and the children are tightly packed.
+
+[图片: images/048_32 Analysing visual media/053_box.jpg | image]
+ The back of the classroom is raised up (by one step, visible on the upper right of the photograph), so that the children at the back can see the teacher at the front, and be seen by that teacher.
+
+[图片: images/048_32 Analysing visual media/054_box.jpg | image]
+ There are no windows out of which children can look (the windows are too high or are blocked out).
+
+[图片: images/048_32 Analysing visual media/055_box.jpg | image]
+ The children are sitting in solid desks, three to a desk.
+
+[图片: images/048_32 Analysing visual media/056_box.jpg | image]
+ The desks are standardized, the same, dark (black iron and dark wood), heavy (too heavy to move easily) and unable to be adjusted.
+
+[图片: images/048_32 Analysing visual media/057_box.jpg | image]
+ The desks are large, taking up all the classroom space, yet the children are small. The desks are bigger than the children.
+
+[图片: images/048_32 Analysing visual media/058_box.jpg | image]
+ The desks are fixed, made of strong wood and cast iron.
+
+[图片: images/048_32 Analysing visual media/059_box.jpg | image]
+ The desks are hard, strong and large, in contrast to the students who are fragile and small.
+
+[图片: images/048_32 Analysing visual media/060_box.jpg | image]
+ There is little room for movement in the desks; the position of the seats is fixed, as they are joined to the desk by the iron bar at the base.
+
+[图片: images/048_32 Analysing visual media/061_box.jpg | image]
+ The seating arrangement suggests that all the interactions go through the teacher.
+
+[图片: images/048_32 Analysing visual media/062_box.jpg | image]
+ The seating arrangements may be designed to control children, not least the boys (mixing the sexes and having some boys sitting between two girls).
+
+[图片: images/048_32 Analysing visual media/063_box.jpg | image]
+ The children sit in rows, and columns, each row facing the front. It is very regimented, and oriented to a single focal point – the teacher at the front.
+
+[图片: images/048_32 Analysing visual media/064_box.jpg | image]
+ There appears to be a gap between the front row of children and the teacher’s desk (out of the image).
+
+[图片: images/048_32 Analysing visual media/065_box.jpg | image]
+ There are some unusual objects in the class: the large thermometer hanging from the light fitting (a science instrument?), the large portraits high up around the room (not all completely contained within the photograph), with dignitaries looking down on the children.
+
+[图片: images/048_32 Analysing visual media/066_box.jpg | image]
+ There is bare, but varnished, brickwork in the classroom.
+
+[图片: images/048_32 Analysing visual media/067_box.jpg | image]
+ Some work that is on the walls is too high for children to read – it is for decoration only.
+
+[图片: images/048_32 Analysing visual media/068_box.jpg | image]
+ The children’s pictures are nearly all the same, and are about the same topic – flowers; all are nearly identical.
+
+[图片: images/048_32 Analysing visual media/069_box.jpg | image]
+ The pictures by the children, on the walls, are stylized and almost the same.
+
+[图片: images/048_32 Analysing visual media/070_box.jpg | image]
+ There is an almost exclusive focus on nature in the children’s pictures and not other work on display (indicative, perhaps, of an alternative to the hardness of the real world inside and outside the classroom).
+
+[图片: images/048_32 Analysing visual media/071_box.jpg | image]
+ This is an art lesson, yet there is no evidence of drawing materials. There is evidence of what the children should be looking at in the art lesson (the jar of flowers on their desk or the sculptured trees). It is unclear whether this is an art/drawing lesson or an art appreciation lesson.
+
+[图片: images/048_32 Analysing visual media/072_box.jpg | image]
+ All the objects on the desks are the same.
+
+The photograph and the photographer
+
+[图片: images/048_32 Analysing visual media/073_box.jpg | image]
+ The photograph is old, and, in parts, the focus is not always sharp or even, the images are slightly unclear in places, and the contrast is uneven and, in parts, the image is faded. Hence the researcher has to be careful not to over-interpret those parts of the photograph which are unclear, or to read into the analysis any points that are not supportable by the evidence. This is a commonplace problem with old materials, and argues for the value of a third party to examine the photograph.
+
+[图片: images/048_32 Analysing visual media/074_box.jpg | image]
+ The photographer must have been standing some distance from the children (nearly two desks’ length from the front row of desks if we calculate the ratios) and higher than floor level. Standing higher than the children makes them look smaller – the symbolism is striking.
+
+[图片: images/048_32 Analysing visual media/075_box.jpg | image]
+ The way in which, taken as a two-dimensional image, the teacher is at the apex and the children are below, a visual hierarchy reflecting a positional/role hierarchy.
+
+[图片: images/048_32 Analysing visual media/076_box.jpg | image]
+ Why was the picture taken? For whom? For what purpose?
+
+[图片: images/048_32 Analysing visual media/077_box.jpg | image]
+ There is no clear single focal point in the photograph; the conventional ‘rule of the thirds’ (where the focus is one third or two thirds of the way into the picture) is not there, nor is there a clear centre to the image.
+
+[图片: images/048_32 Analysing visual media/078_box.jpg | image]
+ There are many points of focus, for example:
+
+a The girls’ bright dresses in the first complete right-hand row.
+
+b The staring eyes of the boy sitting at the front, or the worried look of the little girl in the second row, or the haughty teacher at the back.
+
+c The children who are more in the image’s sharp focus towards the rear of the second row of desks.
+
+d The bright lace collar of the boy in the centre rear.
+
+e The near-rhomboid symmetry in terms of the rows and columns of children’s heads, which suggests order, regulation and regularity.
+
+f The use of diagonals here, rather than a front shot (whether simply out of the requirements to include all the children seated in their desks, or for artistic effect, or to make the most of the natural light, or some other reason), which brings a sense of inclusiveness to the picture and which draws the viewer into the picture.
+
+g The field of vision of the viewer (from a single point outwards), which is matched by the shape of the classroom and the view of the arrangement of the desks and children (almost a rhombus, see Figure 32.2).
+
+h The match between the direction of the walls of the classroom and the layout of the rows and columns of the desks (the children are triply ‘contained’: (a) within their desk; (b) with the rows and columns of the desk arrangement; and (c) within the confines of the classroom walls, all of which is supervised by the overriding presence of the teacher. There is a scalability to the picture: each desk is a scaled-down version of the arrangement of all the desks (into rows and columns) and the arrangement of all the desks is a scaled-down version of the proportions and layout of the classroom walls.
+
+i The contrast between the foreground and the background – the foreground shows powerless children whilst the background shows the powerful teacher keeping watch.
+
+j The contrast between the dowdy walls/gloomy far reaches of the classroom and the humanity and clothed children/models sitting in the centre of the picture.
+
+k The contrast between the harsh brick walls and the soft children.
+
+l The contrast between the staid and very formally dressed teacher and the relatively innocent children’s faces and clothing.
+
+m The emphasis on regularity (rows and columns) and the repeated motifs of the three children sitting at a desk, multiplied 18 times (18 complete desks in the picture).
+
+n The contrast between the static pose rather than the dynamic potential of the photograph, there being 61 potentially dynamic agents (people) in the photograph.
+
+[图片: images/048_32 Analysing visual media/079_box.jpg | image]
+ The way in which the picture’s background is cut off at crucial points.
+
+[图片: images/048_32 Analysing visual media/080_box.jpg | image]
+ The old, faded and fuzzy parts of photograph.
+
+[图片: images/048_32 Analysing visual media/081_box.jpg | image]
+ The observation that there are almost no shadows, everything is open to scrutiny and nothing is shaded or hidden.
+
+[图片: images/048_32 Analysing visual media/082_f0594-01.jpg | image]
+
+FIGURE 32.2 Matching the viewer’s field of vision and the shape of the main part of a photograph
+
+What we see is often what we look for; this makes us look selectively and construe what we see through the interpretive lenses of our own subjectivity and ideological frameworks and values. Researchers bring their own subjectivities and cultural backgrounds to the photograph (hence the issues of reflexivity and disclosure of possible subjectivity assume a high profile here).
+
+For example, one researcher might ‘read’ this picture as presenting stark messages and themes of:
+
+[图片: images/048_32 Analysing visual media/083_box.jpg | image]
+ lack of freedom and no room for freedom;
+
+[图片: images/048_32 Analysing visual media/084_box.jpg | image]
+ power (the teacher has it all and the children seem to have none): asymmetrical relations of power;
+
+[图片: images/048_32 Analysing visual media/085_box.jpg | image]
+ lack of creativity;
+
+[图片: images/048_32 Analysing visual media/086_box.jpg | image]
+ standardization, sameness and uniformity;
+
+[图片: images/048_32 Analysing visual media/087_box.jpg | image]
+ surveillance, control, domination, authoritarianism and containment;
+
+[图片: images/048_32 Analysing visual media/088_box.jpg | image]
+ conformity, obedience, passivity and loss of individuality.
+
+Though the formal curriculum here may be art (which, perhaps, concerns individuality and creativity), the hidden curriculum (that which is learnt without being taught; the unspoken messages that children must learn very thoroughly if they are to survive in school, e.g. about being one of a crowd, about differentials of power, about delay, denial and domination (Jackson, 1968)) is the exact opposite. As O’Donoghue (2010) suggests, photographs concern the ‘Layout, design and associated disciplinary practices’ embedded in the space.
+
+Of course, this interpretation might say more about the researcher than the researched: the researcher may be attuned to looking for dominatory forms of schooling, to the neglect of its more positive aspects. For example, another researcher may interpret the photograph as showing:
+
+[图片: images/048_32 Analysing visual media/089_box.jpg | image]
+ a clear, undistracted focus on the teacher and children’s own work, designed to promote learning and concentration;
+
+[图片: images/048_32 Analysing visual media/090_box.jpg | image]
+ clear understanding by all parties of roles and behaviours, so that learning can take place beneficially, willingly and without disruption.
+
+Here the researcher may feel that the clarity of role specifications and expected behaviours are not at all negative, but are designed to promote the effective learning of children (and the current layout of rows and columns in East Asian classrooms follows this pattern and has produced outstanding results in world-class tests). Indeed the power of this arrangement for learning and its outcomes could be immense, e.g. for children to be able to climb the social ladder in the future – education as a great emancipatory force in society.
+
+Further, initially we have the photograph’s title attached to it by the museum: ‘School Children in Art Class’, with the museum’s own label reading: ‘Children possibly at Woodland school, taken during an art class. Note sculptured trees on desks.’ Immediately the reader’s attention is drawn to the fact that this concerns an art lesson, and that there are some art materials. Why were these features included in the text, and not others? Is that really the purpose or key message of the image, or is the museum, in a positive endeavour to be helpful, drawing attention to points that otherwise might go unnoticed? Is it trying not to be pejorative in its comments, or is it simply that the museum wanted a short label for indexing and referencing purposes? The point here is the labels can frame the researcher’s or the viewer’s insights, and the researcher needs to be aware of this. It is not only the focus of the text label, but the tone of those words: the label used by the museum may appear to be couched in neutral terms, but it has already decided what to comment on and what to ignore. Guidelines on inclusion and exclusion can be both useful and dangerous.
+
+In considering the photograph, indeed any visual image, we can focus on the subject matter, its form, its genre, its meanings, its composition, its style and technical matters. However, we can go further, to examine the context of the photograph, its audience, its provenance, why it was taken, its usages and, indeed, the ethical issues that are raised by the photograph.
+
+It is interesting, perhaps, to speculate on the history of the photograph in question, why it was taken, for whom it was taken, and what use was intended to be made of it, or, indeed, was made of it. Was it designed to impress parents, school governors, inspectors, local officials (and, if so, why was an art lesson chosen)? Was it designed to be simply a document of record of the school’s history, and, if so, why this scene in particular? Was it designed to be a celebratory record (the children may have been dressed very smartly for the occasion, in clothes that they would not normally wear for school)? Who was the intended audience: the children themselves (e.g. in later life), their parents, education officials, researchers, visitors, historians, the families in question?
+
+We can also ask how and why the photograph came to be in the museum in question (an award-winning national museum of social and industrial history). For example, was it a donation, a purchase, did it arrive by happenstance, or deliberately, or as part of a large collection, or what?
+
+The photograph raises several ethical questions, for example:
+
+[图片: images/048_32 Analysing visual media/091_box.jpg | image]
+ Are the people still alive?
+
+[图片: images/048_32 Analysing visual media/092_box.jpg | image]
+ Was informed consent gained from the people in the photograph to be photographed (or was it simply an accepted part of being at school)?
+
+[图片: images/048_32 Analysing visual media/093_box.jpg | image]
+ What informed consent was gained by the museum, and from whom, to release the document into the public domain, or has the passage of time obviated the need for this?
+
+[图片: images/048_32 Analysing visual media/094_box.jpg | image]
+ Is it acceptable and fair of the researcher to portray the school, the teacher and the students in question in a perhaps negative way, and, if not, then who actually suffers?
+
+[图片: images/048_32 Analysing visual media/095_box.jpg | image]
+ Will the use of the photograph bring harm or good, and to whom?
+
+What we have here encapsulates the problem that often adheres to documentary evidence: that it is prepared (or in this case taken) for one set of purposes and audiences, but it is used for other reasons and intentions.
+
+Photographs, like other visual materials, are multi-layered and capable of sustaining several interpretations. Hence the visual researcher, just like the textual researcher, has to disclose his or her own reflexivity and the possible influence that this has on the analysis and interpretation made. Though a picture may be worth a thousand words, photographs, on their own, may be relatively inert; it is only in the interaction between producer of the image, the image itself, and the audience that it comes alive.
+
+Not only can we read a photograph like a text, but it is often the case that text is useful to accompany the image. Text and photograph run together. A commentary can be useful to accompany, explain, interpret and contextualize the image, and, in research terms, this can tie the image into other evidence – visual or textual – that the researcher is using.
+
+32.7 Analysing moving images
+
+The term ‘moving images’ here is taken to include video and film material. Denzin (1990: 102) remarks that ‘films do not faithfully reproduce reality’; rather, they are ideological interpretations and selections from reality; they are a particular version or view of reality. Hence the researcher has to interrogate the moving images in light of the research questions and to undertake a more valuative and ideology-critical reading of their content. This includes selecting, and justifying the selection of, particular parts of the moving images (what to focus on and what to overlook) (which may be informed by the research questions and purposes).
+
+Denzin (2004) suggests that films (and we can include video material here) should be considered initially at their ‘textual realism’ level, i.e. the story that the material is telling and how it is telling that story. At a second level, which he terms a ‘subversive’ level (p. 240), he suggests that a film can be read for its ideological content and effects, i.e. how the film functions to reproduce the (dominant) values and beliefs of every day life and society. Hence the researcher starts with an overall view of the film as a whole, noting themes, impressions, key points, rather as one would ‘read’ a text. Having gained an overall view, the researcher can then go into details, e.g. scenes, events, sequences and so on, in short, a micro-analysis of the material (Flick, 2009: 247). In this, the methods and tools of grounded theory can be used, working not only with the visual images but also, where relevant, transcriptions of the spoken words. As Flick remarks (p. 249), films can be regarded as visual texts, and so the range of tools for textual analysis can be brought into play here. He argues (p. 247) that researchers can look for patterns in the film. Having conducted a first level and second level analysis, the researcher can then look for points of resonance, consonance, dissonance and contradiction between the two levels of analysis.
+
+As with much qualitative data analysis, exploration and interpretation run together; hence researchers have to be acutely aware of the influence of their own values, cultures, interests, background in the selection and interpretation of the data, in short they have to be reflexive. In this respect the repeatability of moving image material is useful in being able to be viewed by a third party, to check for alternative interpretations of the material.
+
+Analysing moving images is very costly in terms of time, as they have to be watched and re-watched many times, in order to extract fair and suitable data and interpretations (e.g. for coding and constant comparison). This can be exacting and demanding of the researcher’s insight and persistence.
+
+32.8 Concluding remarks
+
+This chapter has suggested that analysis and interpretation of images are often inextricably linked, raising the need for considerable reflexivity on the part of the researcher. It has suggested that the processes of content analysis (both numerical and qualitative), discourse analysis and a modified form of grounded theory can be used in the analysis and interpretation of visual images. It has provided a worked example of the analysis and interpretation of a single still image – a photograph. It has used this not only to indicate the processes and kinds of observations and interpretations that can be made, but to indicate that interpretations are multiple, sometimes conflicting, and subjective. The interpretation used elements of ideology critique in its exposure and disclosure of power in the image and its explanation. The authority of the researcher to determine the focus, analysis and interpretation of a still or moving image is, itself, subject to ideology critique and interrogation of power within a discourse. Visual images invite researchers to consider ‘alternate forms of data representation’ and the ‘variety of questions that we can ask about the educational systems we study’ and ‘new ways of seeing things’ (Eisner, 1997: 6). That is a powerful challenge for researchers.
+
+[图片: images/048_32 Analysing visual media/096_common.jpg | image]
+Companion Website 
+
+The companion website to the book includes PowerPoint slides for this chapter, which list the structure of the chapter and then provide a summary of the key points in each of its sections. This resource can be found online at www.routledge.com/textbooks/cohen7e.

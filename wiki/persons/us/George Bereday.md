@@ -11,7 +11,7 @@ summary: "哥伦比亚大学师范学院比较教育学讲座教授，《比较�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 33
+person_related_count: 34
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -39,7 +39,8 @@ related_concepts:
   - "[[Reflective Thinking]]"
   - "[[Language Skills]]"
   - "[[Academic Iconography]]"
-related_theories: []
+related_theories:
+  - "[[Situative Perspective]]"
 related_methods:
   - "[[Problem Approach]]"
 related_instruments: []
@@ -48,9 +49,9 @@ related_persons:
   - "[[Robert Ulich]]"
   - "[[Isaac Kandel]]"
   - "[[Robert Cowen]]"
+  - "[[Brian Holmes]]"
   - "[[Harold Noah]]"
   - "[[Max Eckstein]]"
-  - "[[Brian Holmes]]"
   - "[[C. Arnold Anderson]]"
   - "[[Philip Foster]]"
   - "[[Edmund King]]"
@@ -169,7 +170,7 @@ updated: 2026-09-07
 >
 > *The position of Bereday, who served as a bridge between the historical and the scientific paradigm, is characteristic in this respect. While his first three steps aimed basically at understanding and explaining specific educational phenomena, his ultimate aim remained total analysis; an exercise, i.e. which 'deals with the imminent general forces upon which all systems are built' and which lead to 'the formulation of 'laws' or 'typologies'... Establishing laws, as the mature sciences did... became a dominant methodological discourse for comparative education.*
 
-> [!citation-card] [[Harold Noah|诺亚]]与[[Max Eckstein|埃克斯坦]]论贝雷迪对社会科学概念与数据的审慎接纳
+> [!citation-card] 诺亚与埃克斯坦论贝雷迪对社会科学概念与数据的审慎接纳
 > 贝雷迪在 1950 年代中期率先意识到学科探讨方法论的紧迫性。他并未全盘抛弃历史-哲学路径，而是赞同审慎运用[[Scientific Method|科学方法]]，在研究中保持对社会科学——特别是社会学和政治学——概念与数据的基本关注（Noah & Eckstein, 1969, p. 65）。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, p. 65)]]
 >
 > *Without rejecting the historical-philosophical approach altogether, he subscribed to the circumspect use of the scientific method. He retained 'a basic concern with the concepts and data of the social sciences, especially sociology and political science'.*
@@ -183,8 +184,8 @@ updated: 2026-09-07
 > - **合作者与跨洲学术镜像** [[Joseph Lauwerys|约瑟夫·劳韦里斯]]（Joseph Lauwerys） 联合主编《世界教育年鉴》，共同构成 20 世纪中期跨越大西洋、连接拉美与东亚的学术立交桥枢纽。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, p. 9)]]
 > - **方法论论敌与演绎学派** [[Brian Holmes|布莱恩·霍姆斯]]（Brian Holmes） 就经验归纳四步法与[[Critical Dualism|批判二元论]]演绎[[Problem Approach|问题法]]展开学科大论战，霍姆斯指责四步归纳法陷入观察前见与无法获得普遍有效规律。
 > - **跨国量化学派与哥大后继者** [[Harold Noah|哈罗德·诺亚]]（Harold Noah）与[[Max Eckstein|马克斯·埃克斯坦]]（Max Eckstein） 共同执教于哥伦比亚大学师范学院，在其经验归纳框架基础上，进一步推进大[[Sample Size Determination|样本量]]化测量、严格控制[[Variable|变量]]与[[Hypothesis|假设]]检验的实证[[Scientific Paradigm|科学范式]]。
-> - **结构功能主义学派对照** [[C. Arnold Anderson|C. 阿诺德·安德森]]（C. Arnold Anderson）与[[Philip Foster|菲利普·福斯特]]（Philip Foster） 芝加哥学派代表人物，主张探寻超越时空的恒常制度法则，与贝雷迪立足人文历史与地理视角的归纳法形成学术张力。
-> - **情境主义论辩者** [[Edmund King|埃德蒙·金]]（Edmund King） 就教育与种族、阶级平等的跨国解释展开长期论辩，金主张情境化解释，质疑跨国普遍分类法则。
+> - **结构功能主义学派对照** C. [[C. Arnold Anderson|阿诺德·安德森]]（C. Arnold Anderson）与[[Philip Foster|菲利普·福斯特]]（Philip Foster） 芝加哥学派代表人物，主张探寻超越时空的恒常制度法则，与贝雷迪立足人文历史与地理视角的归纳法形成学术张力。
+> - **[[Situative Perspective|情境主义]]论辩者** [[Edmund King|埃德蒙·金]]（Edmund King） 就教育与种族、阶级平等的跨国解释展开长期论辩，金主张情境化解释，质疑跨国普遍分类法则。
 > - **机构与组织** [[Comparative and International Education Society|CIES]]（早期会长、创办《比较教育评论》并设立乔治·贝雷迪奖）、哥伦比亚大学师范学院。
 
 ---
@@ -194,7 +195,7 @@ updated: 2026-09-07
 > [!debates] 学术争议
 >
 > > [!axis] 归纳经验并列 vs 演绎[[Problem Approach|问题法]]与科学假说检验
-> > 围绕比较教育学应当坚持经验事实归纳还是走向演绎假说检验的深刻论战。[[Brian Holmes|布莱恩·霍姆斯]]批评贝雷迪的四步法本质上是“假说-归纳主义”（hypothetico-inductive），精心搜集的数据受制于研究者未经检视的直觉与前见，且无法推导出跨越不同社会情境的普遍法则；而哥大后继学者[[Harold Noah|诺亚]]与[[Max Eckstein|埃克斯坦]]则主张彻底清洗主观叙述，以大[[Sample Size Determination|样本量]]化统计与[[Independent Variable|自变量]]/[[Dependent Variable|因变量]]经验检验替代四步描述。
+> > 围绕比较教育学应当坚持经验事实归纳还是走向演绎假说检验的深刻论战。[[Brian Holmes|布莱恩·霍姆斯]]批评贝雷迪的四步法本质上是“假说-归纳主义”（hypothetico-inductive），精心搜集的数据受制于研究者未经检视的直觉与前见，且无法推导出跨越不同社会情境的普遍法则；而哥大后继学者诺亚与埃克斯坦则主张彻底清洗主观叙述，以大[[Sample Size Determination|样本量]]化统计与[[Independent Variable|自变量]]/[[Dependent Variable|因变量]]经验检验替代四步描述。
 > >
 > > - **[[Brian Holmes|Brian Holmes]]（1965, 1981）** 指责四步归纳法忽视了概念[[Operationalization|操作化]]背后的价值与意识形态预设，主张采用以[[John Dewey|杜威]][[Reflective Thinking|反思性思维]]与波普尔[[Critical Dualism|批判二元论]]为基础的演绎问题法。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 66–67)]]
 > > - **Harold Noah & Max Eckstein（1969）** 主张将比较教育带入经验社会科学，强调通过[[Variable|变量]]操作化与协变分析克服研究偏见与任意性。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 65–66)]]

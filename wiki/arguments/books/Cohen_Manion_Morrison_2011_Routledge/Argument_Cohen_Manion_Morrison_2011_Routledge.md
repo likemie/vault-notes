@@ -80,13 +80,13 @@ sources:
 part_of:
 status: draft
 created: 2026-06-12
-updated: 2026-08-16
+updated: 2026-09-08
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge
 
 ## 总览
 
-《Research Methods in Education》由[[Louis Cohen|科恩]]（Cohen）、[[Lawrence Manion|马尼恩]]（Manion）与[[Keith Morrison|莫里森]]（Morrison）合著，是教育研究方法的综合性教材，面向研究生、教育研究者及一线教师。全书分为五大部分、39章，系统覆盖研究[[Paradigm|范式]]、研究设计、资料收集与数据分析方法，兼顾量化、质性与[[Mixed Methods Research|混合方法]]取向，并在各章提供操作指南与案例。
+《Research Methods in Education》由科恩（Cohen）、[[Lawrence Manion|马尼恩]]（Manion）与[[Keith Morrison|莫里森]]（Morrison）合著，是教育研究方法的综合性教材，面向研究生、教育研究者及一线教师。全书分为五大部分、39章，系统覆盖研究[[Paradigm|范式]]、研究设计、资料收集与数据分析方法，兼顾量化、质性与[[Mixed Methods Research|混合方法]]取向，并在各章提供操作指南与案例。
 
 > [!textbook-overview] 章节总览
 > | 章节 | 内容概要 | 主要关联条目 |
@@ -124,7 +124,7 @@ updated: 2026-08-16
 > | **Part 5 数据分析** | | |
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28 \| 第28章 Approaches to qualitative data analysis]] | 系统介绍质性数据分析的多种进路：目的适配原则下分析与诠释融合、[[Transcription in Qualitative Research | |
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29 \| 第29章 Organizing and presenting qualitative data]] | 系统介绍质性数据的组织与呈现：数据表格化与数据缩减（澳门学童学英语访谈实例）、组织与分析数据的七种方式（按群体／个体／议题／研究问题／工具／案例／叙事）、[[Narrative Analysis | |
-> | 第30章 Coding and content analysis | | |
+> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30 \| 第30章 Coding and content analysis]] | 系统介绍质性数据分析中的[[Coding in Qualitative Research\|编码]]技术（开放编码、分析编码、主轴编码、选择性编码及层级建构）与[[Content Analysis\|内容分析]]的完整操作流程（11步分析步骤、Mayring三类型、信效度威胁及教师工作压力范例）。 | [[Coding in Qualitative Research]]、[[Content Analysis]]、[[Unit of Analysis]]、[[Domain Analysis]] |
 > | 第31章 Discourses: conversations, narratives and autobiographies as texts | | |
 > | 第32章 Analysing visual media | | |
 > | 第33章 [[Grounded Theory]] | | |

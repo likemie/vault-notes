@@ -6,10 +6,10 @@ aliases:
 summary: "外国范例进入国内教育话语之初的引入者及其动机与策略，区别于政策实施后的后转移能动性，由 Rappleye (2006) 在响应 Steiner-Khamsi 时明确提出"
 type: concept
 domain: "comparative-education"
-related_count: 10
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 9
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - pre-transfer-agency
 - policy-borrowing
@@ -29,7 +29,6 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
-  - "[[Parliamentary Office of Science and Technology]]"
   - "[[A Nation at Risk 1983]]"
 related_arguments:
   - "[[Argument_Rappleye_2006_RCIE]]"
@@ -44,7 +43,7 @@ updated: '2026-05-28'
 > [!info] 定义
 > 前转移能动性（Pre-Transfer Agency）指在[[Cross-National Attraction|跨国吸引力]]（[[Cross-National Attraction]]）阶段、尚未作出任何实际借用决策之前，外国教育范例进入国内教育话语时即开始运作的能动性——谁在引入外国范例？出于什么目的？以什么修辞策略包装？([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 227]])
 >
-> 这一概念在 Rappleye (2006) 对 Phillips & Ochs [[Policy Borrowing|政策借用]]框架的批判性扩展中被明确提出。Phillips & Ochs 的四阶段模型为政策实施后的抵制和[[Going Native|本土化]]（后转移能动性，[[Parliamentary Office of Science and Technology|POST]]-transfer agency）留出了空间，但忽略了外国范例刚进入国内话语那一刻的能动性——即在"借用还是不借用"的辩论正式展开之前，就已经有人在选择性地引入、翻译和包装外国范例了。
+> 这一概念在 Rappleye (2006) 对 Phillips & Ochs [[Policy Borrowing|政策借用]]框架的批判性扩展中被明确提出。Phillips & Ochs 的四阶段模型为政策实施后的抵制和[[Going Native|本土化]]（后转移能动性，POST-transfer agency）留出了空间，但忽略了外国范例刚进入国内话语那一刻的能动性——即在"借用还是不借用"的辩论正式展开之前，就已经有人在选择性地引入、翻译和包装外国范例了。
 >
 > > "Education reform is not science, but a highly normative endeavour – perhaps the premier arena for social discourse on values." ([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 228]])
 
@@ -53,7 +52,7 @@ updated: '2026-05-28'
 ## 概念辨析
 
 > [!example] 与相关概念的区别
-> - **vs 后转移能动性（[[Parliamentary Office of Science and Technology|POST]]-Transfer Agency）** — 后转移能动性发生在政策实施之后（抵制、适应、[[Going Native|本土化]]），Phillips & Ochs 的四阶段模型已涵盖（阶段三"实施"和阶段四"内化/本土化"）。前转移能动性发生在[[Policy Borrowing|政策借用]]循环的起点——外国范例刚进入国内话语的"[[Cross-National Attraction|跨国吸引力]]"阶段。两者的行动者可能重叠，但能动性的形式和目标不同：前转移能动性聚焦"引入和包装外国范例"，后转移能动性聚焦"抵制和改造已采纳的政策"([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, pp. 225, 227]])。
+> - **vs 后转移能动性（POST-Transfer Agency）** — 后转移能动性发生在政策实施之后（抵制、适应、[[Going Native|本土化]]），Phillips & Ochs 的四阶段模型已涵盖（阶段三"实施"和阶段四"内化/本土化"）。前转移能动性发生在[[Policy Borrowing|政策借用]]循环的起点——外国范例刚进入国内话语的"[[Cross-National Attraction|跨国吸引力]]"阶段。两者的行动者可能重叠，但能动性的形式和目标不同：前转移能动性聚焦"引入和包装外国范例"，后转移能动性聚焦"抵制和改造已采纳的政策"([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, pp. 225, 227]])。
 > - **vs [[Externalization|外化]]** — 外化是前转移能动性的核心机制——行动者通过将国内问题（或解决方案）投射到国际参照系中来包装其改革（或抵制）主张。前转移能动性是外化机制的施动者侧：谁在做外化、以什么策略做。两者是施动者与机制的关系([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 230]])。
 > - **vs [[Policy Entrepreneur|政策企业家]]** — 政策企业家是前转移能动性的一种重要行动者类型（在 Dolowitz & Marsh 2000 的分类中与专家并列），但前转移能动性的行动者范围更广，包括民选官员、政党、媒体、智库、超国家组织等所有在跨国吸引力阶段引入和包装外国范例的能动者([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, pp. 229–230]])。
 

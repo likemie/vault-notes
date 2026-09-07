@@ -7,7 +7,7 @@ aliases:
 summary: "去殖民理论中指代非西方新兴地缘主体（如中国）通过经济崛起与主权话语建设，企图夺取对全球资本主义世界秩序与殖民权力矩阵掌控权的政治空间运动。它与西方“再西方化”地缘战略相对立，虽然在政治与权威领域挑战西方主导，但在本质上仍维护资本主义体系的生存。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -31,7 +31,8 @@ related_concepts:
   - "[[Revolutionism]]"
   - "[[Dialogue in Education]]"
   - "[[Geopolitics of Higher Education]]"
-related_theories: []
+related_theories:
+  - "[[Human Capital Theory]]"
 related_methods: []
 related_persons:
   - "[[Eleftherios Klerides]]"
@@ -107,7 +108,7 @@ updated: '2026-08-27'
 > 剖析非西方崛起国家如何挑战西方霸权，但同时再生产了资本主义的生产方式与效率神话。
 
 > [!claim] [[Eleftherios Klerides|Klerides, E.]]
-> **地缘权威易手与资本主义共存** 指出以中国经济和高等教育崛起为代表的去西方化道路，其本质是拒绝西方的直接规则干预，但去西方化并不追求变革世界资本主义经济秩序，而是追求从美国手中夺取对它的控制权。它将不加约束的资本主义扩张与国家主义相结合，使之与[[Re-Westernisation|再西方化]]在地缘权力分配上处于激烈对抗状态，但在维持全球新自由主义人力资本积累的大前提上两者高度一致。([[Argument_Klerides_2023_CE|Klerides, 2023, pp. 429–430]])
+> **地缘权威易手与资本主义共存** 指出以中国经济和高等教育崛起为代表的去西方化道路，其本质是拒绝西方的直接规则干预，但去西方化并不追求变革世界资本主义经济秩序，而是追求从美国手中夺取对它的控制权。它将不加约束的资本主义扩张与国家主义相结合，使之与[[Re-Westernisation|再西方化]]在地缘权力分配上处于激烈对抗状态，但在维持全球新自由主义[[Human Capital Theory|人力资本]]积累的大前提上两者高度一致。([[Argument_Klerides_2023_CE|Klerides, 2023, pp. 429–430]])
 
 ---
 

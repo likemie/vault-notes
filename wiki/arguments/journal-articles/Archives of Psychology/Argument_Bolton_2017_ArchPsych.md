@@ -10,7 +10,7 @@ title: "Argument_Bolton_2017_ArchPsych"
 argument_key: "Argument_Bolton_2017_ArchPsych"
 argument_display_title: "Cognitive and brain development: Executive function, Piaget, and the prefrontal cortex"
 argument_kind: "journal-article"
-argument_related_count: 27
+argument_related_count: 26
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -53,8 +53,7 @@ related_persons:
   - "[[Juan Pascual-Leone]]"
   - "[[Robbie Case]]"
   - "[[Kurt Fischer]]"
-related_facts:
-  - "[[Parliamentary Office of Science and Technology]]"
+related_facts: []
 related_arguments: []
 sources:
   - "[[sources/Bolton_2017_ArchPsych/Bolton_2017_ArchPsych|Bolton_2017_ArchPsych]]"
@@ -163,7 +162,7 @@ citation_aliases:
 > - **抑制功能的跳跃（延迟满足与日夜任务）**
 > - *糖果延迟满足任务 (Treat Delay Task)*：卡尔森 (Carlson, 2005) 发现，2岁儿童仅 50% 能坚持等待 20 秒不吃糖；而 3 岁儿童则有 85% 能坚持等待 1 分钟。
 > - *日夜任务 (Day-Night Task)*：要求看到月亮说“日”，看到太阳说“夜”。4岁是一个绝对的 Hinge Point，4岁以下儿童觉得极度困难，而 4岁以上儿童则能轻易完成，体现了主动压制优势反应的抑制控制 ([[Cognitive Inhibition]]) 能力的跳跃。
-> - **认知转换的阻碍（DCCS 任务）** 维度变化卡片分类任务 (DCCS) 要求按颜色或形状分类卡片。3-4岁儿童在 切换前 (Pre-switch)（如按颜色）完美通关，但在 切换后 ([[Parliamentary Office of Science and Technology|POST]]-switch)（要求改按形状分类）时遇到极强的 [[Attentional Inertia|注意力惯性]] (Attentional Inertia) 而失败（p.11）。即使 3 岁儿童能流利说出新规则，手指却依然把卡片分类到旧维度下。这与额叶受损成人的“言行脱节”表现一致，直到 5 岁时多数儿童才能完成转换。
+> - **认知转换的阻碍（DCCS 任务）** 维度变化卡片分类任务 (DCCS) 要求按颜色或形状分类卡片。3-4岁儿童在 切换前 (Pre-switch)（如按颜色）完美通关，但在 切换后 (POST-switch)（要求改按形状分类）时遇到极强的 [[Attentional Inertia|注意力惯性]] (Attentional Inertia) 而失败（p.11）。即使 3 岁儿童能流利说出新规则，手指却依然把卡片分类到旧维度下。这与额叶受损成人的“言行脱节”表现一致，直到 5 岁时多数儿童才能完成转换。
 > - **更新功能的脑与行为变化** 有声书任务 (Noisy Book Task)（按动物声音按钮并重复序列）显示3-4岁更新能力记增。数字广度任务 (Digit Span Task) 在4-6岁显著增长（倒背从1.58个词增加到2.88个词）（pp.10-11）。
 
 > [!line-b] 脑发育生理机制

@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch02"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch02"
 argument_display_title: "Chapter two: Informal engagement with science"
 argument_kind: "book-chapter"
-argument_related_count: 38
+argument_related_count: 39
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -51,7 +51,8 @@ related_concepts:
   - "[[Public Engagement with Science]]"
   - "[[Praxis]]"
   - "[[Questionnaire]]"
-related_theories: []
+related_theories:
+  - "[[Human Capital Theory]]"
 related_methods:
   - "[[Participatory Research]]"
   - "[[Case Study]]"
@@ -149,7 +150,7 @@ updated: 2026-09-07
 > | **学习体验** | 结构化、学科分科、事实记忆与纸笔测验 | 具身动手探究、多感官沉浸、跨学科融合与社交对话 |
 > | **受众跨度** | 5–18 岁在校中小学生 | 全年龄段公众（儿童、青年、在职成人与银发群体） |
 > | **评价方式** | 标准化考试分数与及格率指标 | 通用学习成果框架（Generic Learning Outcomes, GLOs）、体验反馈、长期科学认同与社会资本积累 |
-> | **社会定位** | 国家劳动力基础与人力资本管道构建 | **社会与文化基础设施**，赋能社区繁荣、公共健康与理性对话（p. 48） |
+> | **社会定位** | 国家劳动力基础与[[Human Capital Theory\|人力资本]]管道构建 | **社会与文化基础设施**，赋能社区繁荣、公共健康与理性对话（p. 48） |
 
 ---
 

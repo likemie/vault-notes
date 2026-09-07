@@ -10,7 +10,7 @@ title: "Argument_Parreira do Amaral_2022_Springer"
 argument_key: "Argument_Parreira do Amaral_2022_Springer"
 argument_display_title: "Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation"
 argument_kind: "book"
-argument_related_count: 31
+argument_related_count: 32
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -50,6 +50,7 @@ related_concepts:
   - "[[Response-ability]]"
   - "[[Knowledge Transfer]]"
 related_theories:
+  - "[[Human Capital Theory]]"
   - "[[Critical Geopolitics]]"
 related_methods:
   - "[[Snowball Sampling]]"
@@ -79,7 +80,7 @@ citation_aliases:
 ## 编者论点
 
 > [!question]
-> 在全球[[Knowledge-Based Economy|知识经济]]时代，创新、科学能力和教育被视为全球经济竞争的关键驱动力，高等教育被重构为[[Knowledge Production|知识生产]]、创新学习环境和人力资本的首要场所。编者提出，这些发展正在构成一种（新的）[[Geopolitics of Knowledge|知识地缘政治]]（a [[New Geopolitics]] of knowledge）——其中创新、科学和教育成为个体、企业、地区和国家进行全球战略定位的关键特征(Thompson &, p.9)。
+> 在全球[[Knowledge-Based Economy|知识经济]]时代，创新、科学能力和教育被视为全球经济竞争的关键驱动力，高等教育被重构为[[Knowledge Production|知识生产]]、创新学习环境和[[Human Capital Theory|人力资本]]的首要场所。编者提出，这些发展正在构成一种（新的）[[Geopolitics of Knowledge|知识地缘政治]]（a [[New Geopolitics]] of knowledge）——其中创新、科学和教育成为个体、企业、地区和国家进行全球战略定位的关键特征(Thompson &, p.9)。
 
 编者的核心关切是：传统上嵌入民族国家框架的大学，正在经历深刻的"脱位"（dislocation）与"再定位"（relocation）——从与民族国家文化科学发展紧密相连的古典形式，转向在全球政治经济[[Champ|场域]]中被重构为企业化、[[Snowball Sampling|网络化]]、数字化的全球行动者。
 

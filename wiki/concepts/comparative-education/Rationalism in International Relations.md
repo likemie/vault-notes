@@ -9,7 +9,7 @@ aliases:
 summary: "Martin Wight 国际关系三大传统之一（对应 Grotius 思想），视国际社会为通过多边合作与规则缓和无政府冲突的“存在制度缺陷的社会”，以“权威”为核心概念。在比较教育中，它将学科塑造成促进国际理解与远处治理规范趋同的“理性事业”。"
 type: concept
 domain: "comparative-education"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -44,6 +44,7 @@ related_concepts:
 related_theories:
   - "[[Wight's Three Traditions of International Theory]]"
   - "[[Actor-Network Theory]]"
+  - "[[Human Capital Theory]]"
 related_methods: []
 related_persons:
   - "[[Joseph Lauwerys]]"
@@ -129,7 +130,7 @@ updated: 2026-07-11
 > 这一命题解析为何看似[[Value Neutrality|价值中立]]的数据测试会成为强效的跨国行政干预武器。
 
 > [!claim] Nóvoa, A. & Yariv-Mashal, A.
-> **基准测试作为[[Governing at a Distance|远处治理]]的科学神话** 证明，理性主义在当代不再局限于传统的[[Policy Borrowing|政策借用]]，而是发展出强烈的“远处治理”模式。多边组织（如[[OECD|经合组织]] OECD）运用基准测试与大型跨国评估（如 [[PISA]]），以科学客观的数据结果引导舆论，将绩效效率内化为本国教育改革的“免责良方”和“合理追赶”要求。这导致了“人人皆是比较教育者”的繁荣，但也使学科高度服务于新自由主义的人力资本增殖目的，将受教育者主体性统一纳入“[[Global Citizenship|全球公民]]”和“效率劳动工具”的量化考量。([[Argument_Klerides, 2023, pp. 424–425]])
+> **基准测试作为[[Governing at a Distance|远处治理]]的科学神话** 证明，理性主义在当代不再局限于传统的[[Policy Borrowing|政策借用]]，而是发展出强烈的“远处治理”模式。多边组织（如[[OECD|经合组织]] OECD）运用基准测试与大型跨国评估（如 [[PISA]]），以科学客观的数据结果引导舆论，将绩效效率内化为本国教育改革的“免责良方”和“合理追赶”要求。这导致了“人人皆是比较教育者”的繁荣，但也使学科高度服务于新自由主义的[[Human Capital Theory|人力资本]]增殖目的，将受教育者主体性统一纳入“[[Global Citizenship|全球公民]]”和“效率劳动工具”的量化考量。([[Argument_Klerides, 2023, pp. 424–425]])
 
 ---
 

@@ -1,0 +1,725 @@
+34 Approaches to quantitative data analysis
+===========================================
+
+Approaches to quantitative data analysis
+
+CHAPTER 34
+
+Many research data are numerical, and many numerical data are bewildering to researchers. Before moving to specific statistical tests for analysing data, we introduce some important foundational concepts in this chapter. These include:
+
+[图片: images/050_34 Approaches to quantitative data analysis/001_box.jpg | image]
+ scales of data
+
+[图片: images/050_34 Approaches to quantitative data analysis/002_box.jpg | image]
+ parametric and non-parametric data
+
+[图片: images/050_34 Approaches to quantitative data analysis/003_box.jpg | image]
+ descriptive and inferential statistics
+
+[图片: images/050_34 Approaches to quantitative data analysis/004_box.jpg | image]
+ kinds of variables
+
+[图片: images/050_34 Approaches to quantitative data analysis/005_box.jpg | image]
+ hypotheses
+
+[图片: images/050_34 Approaches to quantitative data analysis/006_box.jpg | image]
+ one-tailed and two-tailed tests
+
+[图片: images/050_34 Approaches to quantitative data analysis/007_box.jpg | image]
+ distributions
+
+[图片: images/050_34 Approaches to quantitative data analysis/008_box.jpg | image]
+ statistical significance
+
+[图片: images/050_34 Approaches to quantitative data analysis/009_box.jpg | image]
+ hypothesis testing
+
+[图片: images/050_34 Approaches to quantitative data analysis/010_box.jpg | image]
+ effect size
+
+[图片: images/050_34 Approaches to quantitative data analysis/011_box.jpg | image]
+ a note on symbols
+
+The prospect of analysing numerical data sends shivers down the spines of many novice researchers who not only baulk at the thought of statistics but hold fundamental objections to what they see as ‘the mathematization of nature’ (Horkheimer, 1972). Most concepts in education, some will assert, are simply not reducible to numerical analysis. Statistics, they will object, combine refinement of process with crudity of concept.
+
+We do not hold with any of this. Quantitative data analysis has no greater or lesser importance than qualitative analysis. Its use is entirely dependent on fitness for purpose. Arbitrary dismissal of numerical analysis is mere ideology or prejudice.
+
+Quantitative data analysis is a powerful research form, emanating in part from the positivist tradition. It is often associated with large-scale research, but can also serve smaller-scale investigations, with case studies, action research, correlational research and experiments. In the following chapters we will show how numerical data can be reported and introduce some of the most widely used statistics that can be employed in their analysis.
+
+Numerical analysis can be performed using software, for example the Statistical Package for the Social Sciences (SPSS, Minitab, Excel). Software packages apply statistical formulae and carry out computations. With this in mind, we avoid extended outlines of statistical formulae though we do provide details where considered useful. Our primary aim is to explain the concepts that underpin statistical analyses and to do this in as user-friendly a way as possible. Lest our approach should raise purist eyebrows, we provide extended treatments in greater detail, signalled where appropriate by website references. Our outline commentary is closely linked to SPSS, the most widely used statistical package for social sciences. An introductory SPSS manual to this volume is located in an accompanying website (including printouts of data analysis together with comments on what they show). It is often the case that such outputs can clarify issues more straightforwardly than extended prose. We also include a guide to all the SPSS files held on the website. See the list of websites at the end of this chapter.
+
+We begin by identifying some key concepts in numerical analysis (scales of data, parametric and nonparametric data, descriptive and inferential statistics, dependent and independent variables). We then address the concept of statistical significance. We finally conclude with a brief outline of some simple descriptive statistics. Throughout this chapter and the next we indicate how to report analysis; these are collected together in a single file on the accompanying website. Material in the accompanying website also refers to statistical tables, and these tables can also be found on the website.
+
+In this chapter we introduce some basic concepts and terms, then the following chapters move to descriptive statistics, thence to inferential statistics. Bearing in mind the range of statistics covered, the final chapter reviews key statistics that are available to the researcher.
+
+34.1 Scales of data
+
+Before one can advance very far in the field of data analysis one needs to distinguish the kinds of numbers with which one is dealing. This takes us to the commonly reported issue of scales or levels of data, and four are identified, each of which, in the order given below, subsumes its predecessor.
+
+The nominal scale simply denotes categories, 1 means such-and-such a category, 2 means another and so on, for example, ‘1’ might denote males, ‘2’ might denote females. The categories are mutually exclusive and have no numerical meaning. For example, consider numbers on a football shirt: we cannot say that the player wearing number 4 is twice as anything as a player wearing a number 2, nor half as anything as a player wearing a number 8; the number 4 simply identifies a category, and, indeed, nominal data are frequently termed categorical data. The data classify, but have no order. Nominal data include items such as sex, age group (e.g. 30–35, 36–40), subject taught, type of school, socio-economic status. Nominal data denote discrete variables, entirely separate categories, e.g. according females the number 1 category and males the number 2 category (there cannot be a 1.25 or a 1.99 position). The figure is simply a conveniently short label.
+
+The ordinal scale classifies but also introduces an order into the data. These might be rating scales where, for example, ‘strongly agree’ is stronger than ‘agree’, or ‘a very great deal’ is stronger than ‘very little’. It is possible to place items in an order, weakest to strongest, smallest to biggest, lowest to highest, least to most and so on, but there is still an absence of a metric – a measure using calibrated or equal intervals. Therefore one cannot assume that the distance between each point of the scale is equal, i.e. the distance between ‘very little’ and ‘a little’ may not be the same as the distance between ‘a lot’ and ‘a very great deal’ on a rating scale. One could not say, for example, that, in a five-point rating scale (1 = strongly disagree; 2 = disagree; 3 = neither agree nor disagree; 4 = agree; 5 = strongly agree) point 4 is in twice as much agreement as point 2, or that point 1 is in five times more disagreement than point 5. However, one could place them in an order: ‘not at all’, ‘very little’, ‘a little’, ‘quite a lot’, ‘a very great deal’, or ‘strongly disagree’, ‘disagree’, ‘neither agree nor disagree’, ‘agree’, ‘strongly agree’, i.e. it is possible to rank the data according to rules of ‘lesser than’ or ‘greater than’, in relation to whatever the value is included on the rating scale. Ordinal data include items such as rating scales and Likert scales, and are frequently used in asking for opinions and attitudes.
+
+The interval scale introduces a metric – a regular and equal interval between each data point – as well as keeping the features of the previous two scales of classification and order. This lets us know ‘precisely how far apart are the individuals, the objects or the events that form the focus of our inquiry’ (Cohen and Holliday, 1996: 9). As there is an exact and same interval between each data point, interval level data are sometimes called equal-interval scales (e.g. the distance between 3 degrees Celsius and 4 degrees Celsius is the same as the distance between 98 degrees Celsius and 99 degrees Celsius). However, in interval data, there is no true zero. Let us give two examples. In Fahrenheit degrees the freezing point of water is 32 degrees, not zero, so we cannot say, for example, that 100 degrees Fahrenheit is twice as hot as 50 degrees Fahrenheit, because the measurement of Fahrenheit did not start at zero. In fact twice as hot as 50 degrees Fahrenheit is 68 degrees Fahrenheit (({50–32} 3 2) + 32). Let us give another example. Many IQ tests commence their scoring at point 70, i.e. the lowest score possible is 70. We cannot say that a person with an IQ of 150 has twice the measured intelligence as a person with an IQ of 75 because the starting point is 70; a person with an IQ of 150 has twice the measured intelligence as a person with an IQ of 110, as one has to subtract the initial starting point of 70 ({150–70}/2). In practice, the interval scale is rarely used, and the statistics that one can use with this scale are, to all extents and purposes, the same as for the fourth scale: the ratio scale.
+
+The ratio scale embraces the main features of the previous three scales – classification, order and an equal interval metric – but adds a fourth, powerful feature: a true zero. This enables the researcher to determine proportions easily – ‘twice as many as’, ‘half as many as’, ‘three times the amount of’ and so on. Because there is an absolute zero, all the arithmetical processes of addition, subtraction, multiplication and division are possible. Measures of distance, money in the bank, population, time spent on homework, years teaching, income, Celsius temperature, marks on a test and so on are all ratio measures as they are capable of having a ‘true’ zero quantity. If I have 1,000 dollars in the bank then it is twice as much as if I had 500 dollars in the bank; if I score 90 per cent in an examination then it is twice as many as if I had scored 45 per cent. The opportunity to use ratios and all four arithmetical processes renders this the most powerful level of data. Interval and ratio data are continuous variables that can take on any value within a particular, given range. Interval and ratio data typically use more powerful statistics than nominal and ordinal data.
+
+The delineation of these four scales of data is important, as the consideration of which statistical test to use is dependent on the scale of data: it is incorrect to apply statistics which can only be used at a higher scale of data to data at a lower scale. For example, one should not apply averages (means) to nominal data, nor use t-tests and analysis of variances (discussed later) to ordinal data. Which statistical tests can be used with which data are set out clearly later. To close this section we record Wright’s (2003: 127) view that the scale of measurement is not inherent to a particular variable, but something that researchers ‘bestow on it based on our theories of that variable. It is a belief we hold about a variable.’ What is being suggested here is that we have to justify classifying a variable as nominal, ordinal, interval or ratio, and not just assuming that it is selfevident.
+
+34.2 Parametric and non-parametric data
+
+Non-parametric data are those which make no assumptions about the population, usually because the characteristics of the population are unknown. Parametric data assume knowledge of the characteristics of the population, in order for inferences to be able to be made securely; they often assume a normal, Gaussian curve of distribution, as in reading scores, for example (though Wright (2003: 128) suggests that normal distributions are actually rare in psychology). In practice this distinction means: nominal and ordinal data are considered to be non-parametric, whilst interval and ratio data are considered to be parametric data. The distinction, as for the four scales of data, is important, as the consideration of which statistical test to use is dependent on the kinds of data: it is incorrect to apply parametric statistics to non-parametric data, though it is possible to apply non-parametric statistics to parametric data (though it is not widely done, as the statistics are usually less powerful). Non-parametric data are often derived from questionnaires and surveys (though these can also gain parametric data), whilst parametric data tend to be derived from experiments and tests (e.g. examination scores). (For the power efficiency of a statistical test see the accompanying website.)
+
+34.3 Descriptive and inferential statistics
+
+Descriptive statistics do exactly what they say: they describe and present data, for example in terms of summary frequencies. No attempt is made to infer or predict population parameters, and they are concerned simply with enumeration and organization. This will include, for example:
+
+[图片: images/050_34 Approaches to quantitative data analysis/012_box.jpg | image]
+ the mode (the score obtained by the greatest number of people);
+
+[图片: images/050_34 Approaches to quantitative data analysis/013_box.jpg | image]
+ the mean (the average score);
+
+[图片: images/050_34 Approaches to quantitative data analysis/014_box.jpg | image]
+ the median (the score obtained by the middle person in a ranked group of people, i.e. it has an equal number of scores above it and below it);
+
+[图片: images/050_34 Approaches to quantitative data analysis/015_box.jpg | image]
+ minimum and maximum scores;
+
+[图片: images/050_34 Approaches to quantitative data analysis/016_box.jpg | image]
+ the range (the distance between the highest and the lowest scores);
+
+[图片: images/050_34 Approaches to quantitative data analysis/017_box.jpg | image]
+ the variance (a measure of how far scores are from the mean, calculated as the average of the squared deviations of individual scores from the mean);
+
+[图片: images/050_34 Approaches to quantitative data analysis/018_box.jpg | image]
+ the standard deviation (a measure of the dispersal or range of scores, calculated as the square root of the variance);
+
+[图片: images/050_34 Approaches to quantitative data analysis/019_box.jpg | image]
+ the standard error (the standard deviation of sample means);
+
+[图片: images/050_34 Approaches to quantitative data analysis/020_box.jpg | image]
+ the skewness (how far the data are asymmetrical in relation to a ‘normal’ curve of distribution);
+
+[图片: images/050_34 Approaches to quantitative data analysis/021_box.jpg | image]
+ kurtosis (how steep or flat is the shape of a graph or distribution of data; a measure of how peaked a distribution is and how steep is the slope or spread of data around the peak).
+
+Such statistics make no inferences or predictions, they simply report what has been found, in a variety of ways.
+
+Inferential statistics, by contrast, strive to make inferences and predictions based on the data gathered. They infer or predict population parameters or outcomes from simple measures, e.g. from sampling and from statistical techniques, and use information from a sample to reach conclusions about a population, based on probability. These will include, for example, hypothesis testing, correlations, regression and multiple regression, difference testing (e.g. t-tests and analysis of variance, factor analysis and structural equation modelling). Sometimes simple frequencies and descriptive statistics may speak for themselves, and the careful portrayal of descriptive data may be important. However, often it is the inferential statistics that are more valuable for researchers, and typically these are more powerful.
+
+34.4 Kinds of variables
+
+A variable is a condition, factor or quality that, as its name suggests, can vary from one case to another; it is the opposite of a constant, which does not vary between cases.
+
+Dependent and independent variables
+
+Research often concerns relationships between variables (a variable can be considered as a construct, opera tionalized construct or particular property in which the researcher is interested). An independent variable is an input variable, that which causes, in part or in total, a particular outcome; it is a stimulus that influences a response, an antecedent or a factor which may be modified (e.g. under experimental or other conditions) to affect an outcome. A dependent variable, on the other hand, is the outcome variable, that which is caused, in total or in part, by the input, antecedent variable. It is the effect, consequence of, or response to, an independent variable. This is a fundamental concept in many statistics.
+
+For example, we may wish to see if doing more homework (independent variable) increases students’ performance in, say, mathematics (dependent variable). We increase the homework and measure the result and, we notice, for example, that the performance increases on the mathematics test. The independent variable has produced a measured outcome. Or has it? Maybe: (a) the threat of the mathematics test increased the students’ concentration, motivation and diligence in class; (b) the students liked mathematics and the mathematics teacher, and this caused them to work harder, not the mathematics test itself; (c) the students had a good night’s sleep before the mathematics test and hence were refreshed and alert; (d) the students’ performance in the mathematics test, in fact, influenced how much homework they did – the higher the marks, the more they were motivated to doing mathematics homework; (e) the increase in homework increased the students’ motivation for mathematics and this, in turn, may have caused the performance increase in the mathematics test; (f ) the students were told that if they did not perform well on the test then they would be punished, in proportion to how poorly they scored.
+
+What one can observe here is important. In respect of (a) there are other extraneous variables which have to be factored into the causal relationship (i.e. in addition to the homework). In respect of (b) the assumed relationship is not really present; behind the coincidence of the rise in homework and the rise in the test result is a stronger causal relationship of the liking of the subject and the teacher which caused the students to work hard, a by-product of which was the rise in test scores. In respect of (c) an intervening variable was at work (a variable which affected the process of the test but which was not directly observed, measured or manipulated). In respect of (d) in fact the test caused the increase in homework, and not vice versa, i.e. the direction of causality was reversed. In respect of (f ), the amount of increase was negatively correlated with the amount of punishment: the greater the mark, the lesser the punishment. In fact, what may be happening here is that causality may be less in a linear model and more multi-directional and multi-related, more like a web than a line.
+
+This example indicates a range of issues in the discussion of dependent and independent variables:
+
+[图片: images/050_34 Approaches to quantitative data analysis/022_box.jpg | image]
+ the direction of causality is not always clear (an independent variable may, in turn, become a dependent variable and vice versa);
+
+[图片: images/050_34 Approaches to quantitative data analysis/023_box.jpg | image]
+ the direction of causality may be bi-directional;
+
+[图片: images/050_34 Approaches to quantitative data analysis/024_box.jpg | image]
+ assumptions of association may not be assumptions of causality;
+
+[图片: images/050_34 Approaches to quantitative data analysis/025_box.jpg | image]
+ there may be a range of other factors which have a bearing on an outcome;
+
+[图片: images/050_34 Approaches to quantitative data analysis/026_box.jpg | image]
+ there may be causes (independent variables) behind the identified causes (independent variables) that have a bearing on the dependent variable;
+
+[图片: images/050_34 Approaches to quantitative data analysis/027_box.jpg | image]
+ the independent variable may cause something else, and it is the something else that causes the outcome (dependent variable);
+
+[图片: images/050_34 Approaches to quantitative data analysis/028_box.jpg | image]
+ causality may be non-linear rather than linear;
+
+[图片: images/050_34 Approaches to quantitative data analysis/029_box.jpg | image]
+ the direction of the relationship may be negative rather than positive;
+
+[图片: images/050_34 Approaches to quantitative data analysis/030_box.jpg | image]
+ the strength/magnitude of the relationship may be unclear.
+
+Many statistics operate with dependent and independent variables (e.g. experiments using t-tests and analysis of variance, regression and multiple regression); others do not (e.g. correlational statistics, factor analysis). If one uses tests which require independent and dependent variables, great caution has to be exercised in assuming which is or is not the dependent or independent variable, and whether causality is as simple as the test assumes. Further, many statistical tests are based on linear relationships (e.g. correlation, regression and multiple regression, factor analysis) when in fact the relationships may not be linear (some software programs, e.g. SPSS, have the capability for handling nonlinear relationships). The researcher has to make a fundamental decision about whether, in fact, the relationships are linear or non-linear, and select the appropriate statistical tests with these considerations in mind.
+
+To draw these points together, the researcher will need to consider:
+
+[图片: images/050_34 Approaches to quantitative data analysis/031_box.jpg | image]
+ What scales of data are there?
+
+[图片: images/050_34 Approaches to quantitative data analysis/032_box.jpg | image]
+ Are the data parametric or non-parametric?
+
+[图片: images/050_34 Approaches to quantitative data analysis/033_box.jpg | image]
+ Are descriptive or inferential statistics required?
+
+[图片: images/050_34 Approaches to quantitative data analysis/034_box.jpg | image]
+ Do dependent and independent variables need to be identified?
+
+[图片: images/050_34 Approaches to quantitative data analysis/035_box.jpg | image]
+ Are the relationships considered to be linear or non-linear?
+
+The prepared researcher will need to consider the mode of data analysis that will be employed. This is very important as it has a specific bearing on the form of the instrumentation. For example a researcher will need to plan the layout and structure of a questionnaire survey very carefully in order to assist data entry for computer reading and analysis; an inappropriate layout may obstruct data entry and subsequent analysis by computer. The planning of data analysis will need to consider:
+
+[图片: images/050_34 Approaches to quantitative data analysis/036_box.jpg | image]
+ What needs to be done with the data when they have been collected – how will they be processed and analysed?
+
+[图片: images/050_34 Approaches to quantitative data analysis/037_box.jpg | image]
+ How will the results of the analysis be verified, cross-checked and validated?
+
+Decisions will need to be taken with regard to the statistical tests that will be used in data analysis as this will affect the layout of research items (for example in a questionnaire), and the computer packages that are available for processing quantitative and qualitative data, e.g. SPSS and NUD*IST respectively.
+
+Categorical, discrete and continuous variables
+
+A categorical variable is a variable which has categories of values. For example, the variable ‘sex’ has two values: male and female, it is a dichotomous variable. In a rural community with, say, four local schools, the variable ‘school attended’ will have four values, one for each school. If we are looking at the types of food in school meals we may want to have three categories: carbohydrates, proteins and fats; each of these is a category of the variable ‘food’.
+
+A discrete variable has a finite number of values of the same item, with no intervals or fractions of the value (e.g. the number of illnesses a person has had, the number of mealtimes a person has each day). Here there are no fractions of a value – a person cannot have half an illness or half a mealtime; they either have the illness or not, they either have the mealtime or do not have it.
+
+A continuous variable, as its name suggests, can vary in quantity, e.g. money in the bank, monthly earnings, numbers of students present in a class. Here there are equal intervals, and, usually, a zero (it is possible to have no money in the bank, or to have no earnings, or for a class of students to have none present that day).
+
+Categorical variables match categorical data. Continuous variables match interval and ratio data. Depending on the kind of variable one has will be the kinds of statistics that can be used. This will be addressed in subsequent chapters.
+
+Kinds of analysis
+
+Univariate analysis examines differences amongst cases within one variable. Bivariate analysis looks for a relationship between two variables. Multivariate analysis looks for a relationship between two or more variables.
+
+34.5 Hypotheses
+
+Research in a hypothetico-deductive mode, and research that uses statistics, often commences with one or more hypotheses. This is the essence of hypothesis testing in quantitative research. Typically hypotheses fall into different types. The null hypothesis, a major type of hypothesis states that, for example, there is no relationship between two variables, or that there has been no change in participants between a pre-test and a post-test, or that there is no difference between three school districts in respect of their examination results, or that there is no difference between the voting of males and females on such-and-such a factor.
+
+The point here is that by casting the hypothesis in a null form the burden of proof is placed on the researcher not to confirm that null hypothesis. The task is akin to a jury starting with a presumption of innocence and having to prove guilt beyond reasonable doubt. Not only is it often easier simply to support a straightforward positive hypothesis, but, more seriously, even if that positive hypothesis is supported, there may be insuffi-cient grounds for accepting that hypothesis, as the finding may be consistent with other hypotheses. For example, let us imagine that our hypothesis is that a coin is weighted and, therefore, unfair. We flip the coin 100 times, and find that 60 times out of the hundred it comes out as heads. It would be easy to jump to the conclusion that the coin is weighted, but, equally easy, other reasons may account for the result. Of course, if the coin were to come out as heads 99 times out of the hundred then perhaps there would be greater truth in the hypothesis. The null hypothesis is a stronger version of evidence, requiring not only that the negative hypothesis be ‘not supported’, but also indicating a cut-off point only above which the null hypothesis is ‘not supported’, and below which the null hypothesis is supported. In our coin example it may be required to find that heads comes up 95 times out of a hundred, or 99 times out of a hundred, or even 999 times out of a thousand, to say, with increasing confidence in respect of these three sets of figures, that the null hypothesis is not supported.
+
+We use terminology carefully here. Some researchers state that the null hypothesis is ‘rejected’; others say that it is ‘confirmed’ or ‘not confirmed’; others say that it is ‘accepted’ or ‘not accepted’. We prefer the terminology of ‘supported’ or ‘not supported’. This is not mere semantics or pedantry; rather it signals caution. Rejecting a null hypothesis is not the same as ‘not confirming’ or ‘not supporting’ that null hypothesis, rejection implying an absolute and universal state which the research will probably not be able to demonstrate, being bounded within strict parameters and not being applicable to all cases. Further, ‘confirming’ and ‘not confirming’, like ‘rejecting’, is too strong, absolute and universal a set of terms for what is, after all, research that is bounded and within delineated boundaries. Similarly, one cannot ‘accept’ a null hypothesis as a null hypothesis can never be proved unequivocally.
+
+A second type of hypothesis is termed the alternative hypothesis. Whereas the null hypothesis states that there is no such-and-such (e.g. change, relationship, difference), the alternative hypothesis states that there is such-and-such, for example: there is a change in behaviour of the school students; there is a difference between students’ scores on mathematics and science; there is a difference between the examination results of five school districts; there is a difference between the pre-test and post-test results of such-and-such a class. This weaker form of hypothesis is often supported when the null hypothesis is ‘not supported’, i.e. if the null hypothesis is not supported then the alternative hypothesis is.
+
+The two kinds of hypothesis are usually written thus:
+
+H0: the null hypothesis
+
+H1: the alternative hypothesis
+
+Sometimes the alternative hypothesis is written as HA. So, for example the researcher could have null hypotheses and alternative hypotheses thus:
+
+H0:
+
+There is no difference between the results of the control group and experimental group in the post-test of mathematics
+
+or
+
+There is no statistically significant difference between males and females in the results of the English examination
+
+or
+
+There is no statistically significant correlation between the importance given to a subject and the amount of support given to it by the headteacher
+
+H1:
+
+There is a statistically significant difference between the control group and experimental groups in the post-test of mathematics
+
+or
+
+There is a statistically significant difference between males and females in the results of the English examination
+
+Or
+
+There is a statistically significant positive correlation between examination scores in mathematics and science
+
+The null hypothesis is the stronger hypothesis, requiring rigorous evidence not to support it. The alternative hypothesis is, perhaps, a fall-back position, taken up when the first – null – hypothesis is not confirmed. The latter is the logical opposite of the former. One should commence with the former and cast the research in the form of a null hypothesis, only turning to the latter in the case of finding the null hypothesis not to be supported.
+
+A hypothesis can be directional or non-directional. A directional hypothesis states the kind of difference or relationship between two conditions or two groups of participants. For example:
+
+[图片: images/050_34 Approaches to quantitative data analysis/038_box.jpg | image]
+ Students who do homework without the television switched on in their room whilst working produce better results than those who do homework with the television switched on.
+
+[图片: images/050_34 Approaches to quantitative data analysis/039_box.jpg | image]
+ Students who have a computer at home do better in exams than those who do not.
+
+[图片: images/050_34 Approaches to quantitative data analysis/040_box.jpg | image]
+ People remember the words that appear early in a list better than the words that appear later.
+
+[图片: images/050_34 Approaches to quantitative data analysis/041_box.jpg | image]
+ People who are given a list of emotionally charged words recall more than participants given a list of neutral words.
+
+Here one can see the direction of the hypothesis (‘better’, ‘more than’).
+
+By contrast, a non-directional hypothesis simply predicts that there will be a difference or relationship between two conditions or two groups of participants, but it does not state the direction of the difference (e.g. ‘more than’, ‘less than’, ‘better than’, ‘worse than’). For example:
+
+[图片: images/050_34 Approaches to quantitative data analysis/042_box.jpg | image]
+ Students who do homework without the television switched on in their room whilst working produce different results from those who do homework with the television switched on.
+
+[图片: images/050_34 Approaches to quantitative data analysis/043_box.jpg | image]
+ Students who have a computer at home perform differently in exams than people who do not.
+
+[图片: images/050_34 Approaches to quantitative data analysis/044_box.jpg | image]
+ People remember a different number of words that appear early in a list from the words that appear later.
+
+[图片: images/050_34 Approaches to quantitative data analysis/045_box.jpg | image]
+ People who are given a list of emotionally charged words recall a different number than participants given a list of neutral words.
+
+Here there is a difference, but the direction of that difference is not made explicit. The stronger of these two types of hypothesis is the directional hypothesis because it makes a stronger claim than the non-directional hypothesis. In hypothesis testing the researcher:
+
+1 Formulates a hypothesis.
+
+2 Measures the variables involved and examines the relationship between them.
+
+3 Calculates the probability of obtaining such a relationship if there were no relationship by chance, i.e. if there were no relationship in the population (if the null hypothesis is true). If the calculated probability is small enough, it suggests that the pattern of findings is unlikely to have arisen by chance, and probably reflects a genuine relationship in the population.
+
+34.6 One-tailed and two-tailed tests
+
+In using statistics, researchers are sometimes confronted with the decision whether to use a one-tailed or a two-tailed test. Which to use is a function of the kind of result one might predict. In a one-tailed test one predicts, for example, that one group will score more highly than the other, whereas in a two-tailed test one makes no such prediction. The one-tailed test is a stronger test than the two-tailed test as it makes assumptions about the population and the direction of the outcome (i.e. that one group will score more highly than another), and hence, if supported, is more powerful than a two-tailed test. A one-tailed test will be used with a directional hypothesis (e.g. ‘Students who do homework without the TV on produce better results than those who do homework with the TV playing’). A two-tailed test will be used with a non-directional hypothesis (e.g. ‘There is a difference between homework done in noisy or silent conditions’). The directional hypothesis indicates ‘more’ or ‘less’, whereas the non-directional hypothesis indicates only difference, and not where the difference may lie.
+
+For example, let us imagine that we run a ‘true experiment’ to see if students who do homework without the TV on produce better results than those who do homework with the TV playing. The results are shown in Figure 34.1. We can see here that there is an overlap between the two sets of scores, but that the scores of the group that did not have the television switched on whilst doing homework are much higher than the scores of the group whose television is switched on whilst doing homework. Our directional hypothesis is supported, and we have used a one-tailed test to test the hypothesis.
+
+In graphical terms, we can portray the results of a one-tailed test that predicts high scores as in Figure 34.2. Here the prediction is that those students who work without the television switched on score more highly (the black area, that is at one end (tail) of the graph). The ‘5%’ indicates that we are predicting with a 95 per cent degree of certainty that the results will be higher.
+
+[图片: images/050_34 Approaches to quantitative data analysis/046_f0610-01.jpg | image]
+
+FIGURE 34.1 Test scores of two groups
+
+By contrast, we can portray the results of a one-tailed test that predicts low scores in Figure 34.3. Here the prediction is that those students who work with the television switched on score lower (the black area, that is at one end (tail) of the graph). Again, because we predict the direction of the result, we use a one-tailed test. Here the ‘5%’ indicates that we are predicting with a 95 per cent degree of certainty that the results will be lower.
+
+Figure 34.4 indicates the results for a two-tailed test. Here we can see that there are two black areas, one at each end (tail) of the graph. Because we have not predicted the direction of the result (it could be higher or lower, the burden of proof is higher, i.e. instead of having a 95 per cent certainty (the 5 per cent of the two previous figures), we distribute that 5 per cent between the two tails, each of which is 2.5 per cent, i.e. we need to demonstrate a 97.5 per cent certainty level in the result.
+
+[图片: images/050_34 Approaches to quantitative data analysis/047_f0610-02.jpg | image]
+
+FIGURE 34.2 The predictions of a one-tailed test that predicts a higher score
+
+[图片: images/050_34 Approaches to quantitative data analysis/048_f0611-01.jpg | image]
+
+FIGURE 34.3 The predictions of a one-tailed test that predicts a lower score
+
+[图片: images/050_34 Approaches to quantitative data analysis/049_f0612-02a.jpg | image]
+
+FIGURE 34.4 The predictions of a two-tailed test
+
+34.7 Distributions
+
+In everyday life many variables tend to be normally distributed. For example, we may say that most men are about such-and-such an average height. Some of course will be taller, and some shorter – there is a range. A smaller number will be much taller or much shorter; an even smaller number will be very much taller or very much shorter; a very small number will be extremely tall or extremely short. We can present the results on a normal curve of distribution (Figure 34.5).
+
+The normal curve of distribution is a smooth, perfectly symmetrical (bell-shaped) curve; it is symmetrical about the mean and its tails are assumed to meet the x-axis at infinity. Here 68.3 per cent of people will fall within one standard deviation of the mean (a measure of variance from the mean (the average)). In our example we might assume that the majority of men (68.3 per cent) will be either just about or just below the mean height. Then, if we look at Figure 34.5, we can see that a smaller proportion (95.4 per cent minus 68.3 per cent = 27.1 per cent) are much taller or much shorter (between one standard deviation and two standard deviations away from the mean), and an even smaller proportion (99.7 per cent minus 95.4 per cent = 4.3 per cent) are very tall or very short (even further away from the mean; between two and three standard deviations), and only a very tiny proportion (100 per cent minus 99.7 per cent = 0.3 per cent) are extremely tall or extremely short (more than three standard deviations away from the mean).
+
+[图片: images/050_34 Approaches to quantitative data analysis/050_f0611-03.jpg | image]
+
+FIGURE 34.5 The normal curve of distribution
+
+In educational research that uses statistics, the statistical calculations often assume that the population is distributed normally and then compare the data collected from the sample to the population, allowing inferences to be made about the population (e.g. in random sampling). The assumption of the normal curve of distribution enables researchers to measure all normal distributions of a variable, regardless of the units in which that variable is initially measured.
+
+Of course this is not always the case; rarely, if ever, in real life are data distributed so neatly. Rather than being symmetrical, data might be skewed in different ways. They may be positively or negatively skewed, as in Figure 34.6.
+
+Skewed distributions are not symmetrical; a positively skewed distribution has the tail skewed to the right, whilst a negatively skewed distribution has the tail skewed to the left. This has important implications for even the simplest statistics calculated. For example whilst the mean (average) may be useful for normal distributions, in skewed distributions it is an unreliable measure, as it is affected by the long tail (positive or negative). Similarly the mode (the particular score registered by the greatest number) may not be an accurate measure of the distributions, being too strongly influenced by the positive or negative tails. In both of these cases, the median score (the score which is given by the middle person, e.g. in a test) is more reliable.
+
+[图片: images/050_34 Approaches to quantitative data analysis/051_f0612-01.jpg | image]
+
+FIGURE 34.6 Skewed distributions
+
+For example, Figure 34.7 is a line graph to show how respondents voted on how well learners are guided and supported in their learning, awarding marks out of ten for the voting, with a sample size of 400 respondents. Here the data are skewed, with more votes being received at the top end of the scale. There is a long tail going to the negative end of the scores, so, even though the highest scores are given at the top end of the scale, we say that this table has a negative skew because there is a long tail down.
+
+By contrast, let us look at Figure 34.8, a graph of how much staff take on voluntarily roles in the school, with 150 votes received and awarding marks out of ten. Here a long tail goes toward the upper end of the scores, and the bulk of the scores are in the lower range. Even though most of the scores are in the lower range, because the long tail is towards the upper end of the scale this is termed a positive skew. The skewness of the data is an important feature to observe in data, and to which to draw attention.
+
+[图片: images/050_34 Approaches to quantitative data analysis/052_f0612-02.jpg | image]
+
+FIGURE 34.7 How well learners are cared for, guided and supported
+
+Further, a graph of distribution may not always have the same bell-shaped features of the normal curve. For example it may be flatter than normal (platykurtic) or steeper than normal (leptokurtic), see Figure 34.9.
+
+The measure of steepness of the curve is termed ‘kurtosis’, and many statistics packages calculate the measure of kurtosis. Normal distributions have a skewness of zero and a measure of kurtosis of zero: a platykurtic distribution has a negative value of kurtosis, whilst a leptokurtic distribution has a positive value of kurtosis. The degree of kurtosis may affect the reliability of the statistics that are used or the inferences that are made from them. For example a platykurtic distribution may not have a problem with outliers, whilst a leptokurtic distribution may, and, further, many statistics assume normal kurtosis, rather than unduly flat or steep kurtosis.
+
+[图片: images/050_34 Approaches to quantitative data analysis/053_f0612-03.jpg | image]
+
+FIGURE 34.8 Staff voluntarily taking on coordination roles
+
+[图片: images/050_34 Approaches to quantitative data analysis/054_f0612-04.jpg | image]
+
+FIGURE 34.9 Types of kurtosis
+
+34.8 Statistical significance
+
+Much statistical analysis hinges on the notion of statistical significance. Kirk (1999: 337) indicates that ‘a statistically significant result is one for which chance is an unlikely explanation’. Let us take an example from correlational research to unpack further the notion of statistical significance. A correlation enables a researcher to ascertain whether, and to what extent, there is a degree of association between two variables (this is discussed much more fully later in this chapter). Let us imagine that we observe that many people with large hands also have large feet and that people with small hands also have small feet (see Morrison, 1993: 136–40). We decide to conduct an investigation to see if there is any correlation or degree of association between the size of feet and the size of hands, or whether it is just chance that some people have large hands and large feet. We measure the hands and the feet of 100 people and observe that 99 times out of a hundred people with large feet also have large hands. Convinced that we have discovered an important relationship, we run the test on 1,000 people, and find that the relationship holds true in 999 cases out of the thousand. That seems to be more than mere coincidence; it would seem that we could say with some certainty that if a person has large hands then s/he will also have large feet. How do we know when we can make that assertion? When do we know that we can have confi-dence in this prediction?
+
+For statistical purposes, if we observe this relationship occurring 95 times out of a hundred, i.e. that chance only accounts for 5 per cent of the difference, then we could say with some confidence that there seems to be a high degree of association between the two variables hands and feet; it would occur by chance in five people in every hundred, reported as the 0.05 level of significance (0.05 being five hundredths). If we observe this relationship occurring 99 times out of every hundred (as in the example of hands and feet), i.e. that chance only accounts for 1 per cent of the difference, then we could say with even greater confidence that there seems to be a very high degree of association between the two variables; it would occur by chance once in every hundred, reported as the 0.01 level of significance (0.01 being one hundredth). If we observe this relationship occurring 999 times out of every thousand (as in the example of hands and feet), i.e. that chance only accounts for 0.1 per cent of the difference, then we could say with even greater confidence that there seems to be a very high degree of association between the two variables; it would occur only once in every thousand, reported as the 0.001 level of significance (0.001 being one thousandth).
+
+We begin with a null hypothesis, which states that there is no relationship between the size of hands and the size of feet. The task is not to support the hypothesis, i.e. the burden of responsibility is not to support the null hypothesis. If we can show that the hypothesis is not supported for 95 per cent or 99 per cent or 99.9 per cent of the population, then we have demonstrated that there is a statistically significant relationship between the size of hands and the size of feet at the 0.05, 0.01 and 0.001 levels of significance respectively. These three levels of significance – the 0.05, 0.01 and 0.001 levels – are the levels at which statistical significance is frequently taken to have been demonstrated, usually the first two of these three levels. The researcher would say that the null hypothesis (that there is no statistically significant relationship between the two variables) has not been supported and that the level of significance observed (ρ) is at the 0.05, 0.01 or 0.001 level. Note here that we have used the terms ‘statistically significant’, and not simply ‘significant’; this is important, for we are using the term in a specialized way.
+
+Let us take a second example. Let us say that we have devised a scale of 1–8 which can be used to measure the sizes of hands and feet. Using the scale we make the following calculations for eight people, and set out the results thus:
+
+[图片: images/050_34 Approaches to quantitative data analysis/055_f0614-02.jpg | image]
+
+We can observe a perfect correlation between the size of the hands and the size of feet, from the person who has a size one hand and a size one foot to the person who has a size eight hand and also a size eight foot. There is a perfect positive correlation (as one variable increases, e.g. hand size, so the other variable – foot size – increases, and as one variable decreases so does the other). We can use the mathematical formula for calculating the Spearman correlation (this is calculated automatically in SPSS):
+
+[图片: images/050_34 Approaches to quantitative data analysis/056_f0614-01.jpg | image]
+
+where d = the difference between each pair of scores, Σ = the sum of, and N = the size of the population. We calculate that this perfect correlation yields an index of association – a coefficient of correlation – which is +1.00.
+
+Suppose that this time we carry out the investigation on a second group of eight people and report the following results:
+
+[图片: images/050_34 Approaches to quantitative data analysis/057_f0614-03.jpg | image]
+
+This time the person with a size one hand has a size eight foot and the person with the size eight hand has a size one foot. There is a perfect negative correlation (as one variable increases, e.g. hand size, the other variable – foot size – decreases, and as one variable decreases, the other increases). Using the same mathematical formula we calculate that this perfect negative correlation yields an index of association – a coefficient of correlation – which is –1.00.
+
+Now, clearly it is very rare to find a perfect positive or a perfect negative correlation; the truth of the matter is that looking for correlations will yield coefficients of correlation which lie somewhere between –1.00 and +1.00. How do we know whether the coefficients of correlation are statistically significant or not?
+
+Let us say that we take a third sample of eight people and undertake an investigation into their hand and foot size. We enter the data case by case (Subject A to Subject H), indicating their rank order for hand size and then for foot size. This time the relationship is less clear because the rank ordering is more mixed, for example Subject A has a hand size of two and one for foot size, Subject B has a hand size of one and a foot size of two, etc.
+
+[图片: images/050_34 Approaches to quantitative data analysis/058_f0614-04.jpg | image]
+
+Using the mathematical formula for calculating the correlation statistic, we find that the coefficient of correlation for the eight people is 0.7857. Is it statistically significant? From a table of significance, we read off whether the coefficient is statistically significant or not for a specific number of cases, for example:
+
+[图片: images/050_34 Approaches to quantitative data analysis/059_f0614-05.jpg | image]
+
+We see that for eight cases in an investigation the correlation coefficient has to be 0.78 or higher, if it is to be significant at the 0.05 level, and 0.875 or higher, if it is to be significant at the 0.01 level of significance. As the correlation coefficient in the example of the third experiment with eight subjects is 0.7857 we can see that it is higher than that required for significance at the 0.05 level (0.78) but not as high as that required for significance at the 0.01 level (0.875). We are safe, then, in stating that the degree of association between the hand and foot sizes does not support the null hypothesis and demonstrates statistical significance at the 0.05 level.
+
+The first example above of hands and feet is very neat because it has 100 people in the sample. If we have more or less than 100 people how do we know if a relationship between two factors is statistically significant? Let us say that we have data on 30 people; in this case, because sample size is so small, we might hesitate to say that there is a strong association between the size of hands and size of feet if we observe it occurring in 27 people (i.e. 90 per cent of the population). On the other hand, let us say that we have a sample of 1,000 people and we observe the association in 700 of them. In this case, even though only 70 per cent of the sample demonstrate the association of hand and foot size, we might say that because the sample size is so large we can have greater confidence in the data than in the case of the small sample.
+
+Statistical significance varies according to the size of the number in the sample (as can be seen also in the section of the table of significance reproduced above). In order to be able to determine significance we need to have two facts in our possession: the size of the sample and, in correlational research, the coefficient of correlation or, in other kinds of research, the appropriate coef-ficients or data (there are many kinds, depending on the test being used). Here, as the selection from the table of significance reproduced above shows, the coefficient of correlation can decrease and still be statistically signi-ficant as long as the sample size increases. (This resonates with Krejcie’s and Morgan’s (1970) principles for sampling, observed in Chapter 8, namely as the population increases the sample size increases at a diminishing rate in addressing randomness.) This is a major source of debate for critics of statistical significance, who argue that it is almost impossible not to find statistical significance when dealing with large samples, as the coefficients can be very low and still attain statistical significance.
+
+To ascertain statistical significance from a table, then, is a matter of reading off the significance level from a table of significance according to the sample size, or processing data on a computer program to yield the appropriate statistic. In the selection from the table of significance for the third example above concerning hand and foot size, the first column indicates the number of people in the sample and the other two columns indicate significance at the two levels. Hence, if we have 30 people in the sample then, for the correlation to be statistically significant at the 0.05 level, we would need a correlation coefficient of 0.36, whereas, if there were only ten people in the sample, we would need a correlation coefficient of 0.65 for the correlation to be statistically significant at the same 0.05 level. Most statistical packages (e.g. SPSS) automatically calculate the level of statistical significance, indeed SPSS automatically asterisks each case of statistical significance at the 0.05 and 0.01 levels or smaller. We discuss correlational analysis in more detail later in Chapter 36, and we refer the reader to that discussion.
+
+34.9 Hypothesis testing
+
+The example that we have given above from correlational analysis illustrates a wider issue of hypothesis testing. This follows four stages.
+
+Stage 1
+
+In quantitative research, as mentioned above, we commence with a null hypothesis, for example:
+
+[图片: images/050_34 Approaches to quantitative data analysis/060_box.jpg | image]
+ there is no statistical significance in the distribution of the data in a contingency table (crosstabulation);
+
+[图片: images/050_34 Approaches to quantitative data analysis/061_box.jpg | image]
+ there is no statistically significant correlation between two factors;
+
+[图片: images/050_34 Approaches to quantitative data analysis/062_box.jpg | image]
+ there is no statistically significant difference between the means of two groups;
+
+[图片: images/050_34 Approaches to quantitative data analysis/063_box.jpg | image]
+ there is no statistically significant difference between the means of a group in a pre-test and a post-test;
+
+[图片: images/050_34 Approaches to quantitative data analysis/064_box.jpg | image]
+ there is no statistically significant difference between the means of three or more groups;
+
+[图片: images/050_34 Approaches to quantitative data analysis/065_box.jpg | image]
+ there is no statistically significant difference between two subsamples;
+
+[图片: images/050_34 Approaches to quantitative data analysis/066_box.jpg | image]
+ there is no statistically significant difference between three or more subsamples;
+
+[图片: images/050_34 Approaches to quantitative data analysis/067_box.jpg | image]
+ there is no significant prediction capability between one independent variable X and dependent variable Y;
+
+[图片: images/050_34 Approaches to quantitative data analysis/068_box.jpg | image]
+ there is no significant prediction capability between two or more independent variable X, Y, Z . . . and dependent variable A.
+
+The task of the researcher is to support or not to support the null hypothesis.
+
+Stage 2
+
+Having set the null hypothesis, the researcher then sets the level of significance (α) that will be used to support or not to support the null hypothesis; this is the alpha (α) level. The level of alpha is determined by the researcher. Typically it is 0.05, i.e. for 95 per cent of the time the null hypothesis is not supported. In writing this we could say ‘Let α = 0.05’. If one wished to be more robust then one would set a higher alpha level (α = 0.01 or α = 0.001). This is the level of risk that one wishes to take in supporting or not supporting the null hypothesis.
+
+Stage 3
+
+Having set the null hypothesis and the level at which it will be supported or not supported, one then computes the data in whatever form is appropriate for the research in question (e.g. measures of association, measures of difference, regression and prediction measures).
+
+Stage 4
+
+Having analysed the data one is then in a position to support or not to support the null hypothesis, and this is what would be reported.
+
+It is important to distinguish two types of hypothesis (Wright, 2003: 132): a causal hypothesis and an associative hypothesis. As its name suggests, a causal hypothesis suggests that input X will affect outcome Y, as in, for example, an experimental design. An associative hypothesis describes how variables may relate to each other, not necessarily in a causal manner (e.g. in correlational analysis). One has to be careful not to describe an associative hypothesis (e.g. gender) as a causal hypothesis, as gender may not be actually having a causal effect.
+
+In hypothesis testing one has to avoid Type I and Type II errors. A Type I error occurs when one does not support the null hypothesis when it is in fact true. This is a particular problem as the sample increases, as the chances of finding a significant association increase, irrespective of whether a true association exists (Rose and Sullivan, 1993: 168), requiring the researcher, therefore, to set a higher alpha (α) limit (e.g. 0.01 or 0.001) for statistical significance to be achieved). A Type II error occurs when one supports the null hypothesis when it is in fact not true (often the case if the levels of significance are set too stringently, i.e. requiring the researcher to lower the alpha level (α) of significance (e.g. 0.1 or 0.2) required). Type I and Type II can be represented as in Table 34.1.
+
+TABLE 34.1 TYPE I AND TYPE II ERRORS
+
+Decision
+
+H0 True
+
+H0 False
+
+Support H0
+
+Correct
+
+Type II error (β)
+
+Do not support H0
+
+Type I error (α)
+
+Correct
+
+34.10 Effect size
+
+One has to be cautious in using statistical significance. Statistical significance is not the same as educational significance. For example, I might find a statistically signi-ficant correlation between the amount of time spent on mathematics and the amount of time spent in watching television. This may be completely unimportant. Similarly I might find that there is no statistically significant difference between males and females in their liking of physics. However, close inspection might reveal that there is a difference. Say, for example, that males prefer physics to females, but that the difference does not reach the ‘cut-off’ point of the 0.05 level of significance; maybe it is 0.065. To say that there is no difference, or simply to support the null hypothesis here might be inadvisable. There are two issues here: (a) the cut-off level of significance is comparatively arbitrary, though high; (b) one should not ignore coefficients that fall below the conventional cut-off points. This leads us into a discussion of effect size as an alternative to significance levels.
+
+Statistical significance on its own has come to be seen as an unacceptable index of effect (Thompson, 1994, 1996, 1998, 2001, 2002; Thompson and Snyder, 1997; Rozeboom, 1997: 335; Fitz-Gibbon, 1997: 43; Wilkinson and the Task Force on Statistical Inference, APA Board of Scientific Affairs, 1999; Olejnik and Algina, 2000; Capraro and Capraro, 2002; Wright, 2003; Kline, 2004) because it depends on both sample size and the coefficient (e.g. of correlation). Statistical significance can be attained either by having a large coefficient together with a small sample or having a small coefficient together with a large sample. The problem is that one is not able to deduce which is the determining effect from a study using statistical significance (Coe, 2000: 9). It is important to be able to tell whether it is the sample size or the coefficient that is making the difference. The effect size can do this.
+
+What is required either to accompany or replace statistical significance is information about effect size (American Psychological Association, 1994: 18; 1999; Wilkinson and the Task Force on Statistical Inference, APA Board of Scientific Affairs, 1999; Kline, 2004). Indeed effect size is seen as much more important than significance, and many international journals have either abandoned statistical significance reporting in favour of effect size, or have insisted that statistical significance be accompanied by indications of effect size (Olejnik and Algina, 2000; Capraro and Capraro, 2002; Thompson, 2002). Statistical significance is seen as arbitrary in its cut-off points and unhelpful – a ‘corrupt form of the scientific method’ (Carver, 1978), an obstacle rather than a facilitator in educational research. It commands slavish adherence rather than addressing the subtle, sensitive and helpful notion of effect size (see Fitz-Gibbon, 1997: 118). Indeed common sense should tell the researcher that a differential measure of effect size is more useful than the blunt edge of statistical significance.
+
+An effect size is ‘simply a way of quantifying the difference between two groups. For example, if one group has had an “experimental treatment” and the other has not (the “control”), then the Effect Size is a measure of the effectiveness of the treatment’ (Coe, 2000: 1). It tells the reader ‘how big the effect is, something that the p value [statistical significance] does not do’ (Wright, 2003: 125). An effect size (Thompson, 2002: 25) ‘characterizes the degree to which sample results diverge from the null hypothesis’; it operates through the use of standard deviations.
+
+Wood (1995: 393) suggests that effect size can be calculated by dividing the significance level by the sample size. Glass et al. (1981: 29, 102) calculate the effect size as:
+
+(mean of experimental group – mean of control group)
+
+Standard deviation of the control group
+
+Coe (2000: 7), whilst acknowledging that there is a debate on whether to use the standard deviation of the experimental or control group as the denominator, suggests that that of the control group is preferable as it provides ‘the best estimate of standard deviation, since it consists of a representative group of the population who have not been affected by the experimental intervention’. However, he also suggests that it is perhaps preferable to use a ‘pooled’ estimate of standard deviation, as this is more accurate than that provided by the control group alone. To calculate the pooled deviation he suggests that the formula should be:
+
+[图片: images/050_34 Approaches to quantitative data analysis/069_f0617-01.jpg | image]
+
+where NE = number in the experimental group, NC = number in the control group, SDE = standard deviation of the experimental group and SDC = standard deviation of the control group.
+
+The formula for the pooled deviation then becomes (Muijs, 2004: 136):
+
+(mean of experimental group – mean of control group)
+
+pooled standard deviation
+
+where the pooled standard deviation = (standard deviation of group 1 + standard deviation of group 2).
+
+There are several different calculations of effect size, for example (Richardson, 1996; Capraro and Capraro, 2002: 771): r2, adjusted R2, ω2, Cramer’s V, Kendall’s W, Cohen’s d, and Eta. Different kinds of statistical treatments use different effect size calculations. For example, the formula given by Muijs (2004) here yields the statistic termed Cohen’s d. Further details of this, together with a facility which calculates it automatically, can be found at www.uccs.edu/~lbecker/psy590/escalc3.htm.
+
+An effect size can lie between 0 to 1 (some formulae yield an effect size that is larger than 1 -see Coe, 2000). In using Cohen’s d:
+
+0–0.20 = weak effect
+
+0.21–0.50 = modest effect
+
+0.51–1.00 = moderate effect
+
+>1.00 = strong effect
+
+In correlational data the coefficient of correlation is used as the effect size in conjunction with details of the direction of the association (i.e. a positive or negative correlation). The coefficient of correlation (effect size) is interpreted thus:
+
+<0 +/–1
+
+weak
+
+<0 +/–3
+
+modest
+
+<0 +/–5
+
+moderate
+
+<0 +/–8
+
+strong
+
+≥ +/–0.8
+
+very strong
+
+We provide more detail on interpreting correlation coefficients later in this chapter. However, Thompson (2001, 2002) argues forcibly against simplistic interpretations of effect size as ‘small’, ‘medium’ and ‘large’, as to do this commits the same folly of fixed benchmarks as that of statistical significance. He writes that ‘if people interpret effect sizes with the same rigidity that α=.05 has been used in statistical testing, we would merely be being stupid in another metric’ (Thompson, 2001, 82-3). Rather, he avers, it is important to avoid fixed benchmarks (i.e. cut-off points), and relate the effect sizes found to those of prior studies, confidence intervals and power analyses. Wright (2003: 125) also suggests that it is important to report the units of measurement of the effect size, for example in the units of measure of the original variables as well as in standardized units (e.g. standard deviations), the latter being useful if different scales of measures are being used for the different variables.
+
+We discussed confidence intervals in Chapter 8. It is the amount of the ‘true population value of the parameter’ (Wright, 2003: 126), e.g. 90 per cent of the population, 95 per cent of the population, 99 per cent of the population. A confidence interval is reported as 1–α, i.e. the level of likelihood that a score falls within a pre-specified range of scores (e.g. 95 per cent, 99 per cent likelihood). Software for calculating confidence intervals for many measures can be found at http://glass.ed.asu/stats/analysis/`.
+
+The power of a test is ‘an estimate of the ability of the test to separate the effect size from random variation’ (Gorard, 2001b: 14), the ‘probability of rejecting a specific effect size for a specific sample size at a particular αlevel (i.e. the critical level to reject H0)’ (Wright, 2003: 126). Wright suggests that it should be a minimum of 80 per cent and to be typically with an αlevel at 5 per cent. Software for calculating power analysis can be found at www.psycho.uni-duesseldorf.de/abteilungen/aap/gpower3/download-and-register.
+
+In calculating the effect size (Eta squared) for independent samples in a t-test (discussed later) the following formula can be used.
+
+[图片: images/050_34 Approaches to quantitative data analysis/070_f0618-02.jpg | image]
+
+Here t = the t-value (calculated by SPSS); N1 = the number in the sample of group one and N2 = the number in the sample of group 2. Let us take an example of the results of an evaluation item in which the two groups are (a) leaders/senior managers (SMT) of schools, and (b) teachers, shown in Tables 34.2 and 34.3.
+
+Here the t-value is 1.923, N1 is 347 and N2 is 653. Hence the formula is:
+
+[图片: images/050_34 Approaches to quantitative data analysis/071_f0618-03.jpg | image]
+
+The guidance here from Cohen (1988) is that 0.01 = a very small effect; 0.06 = a moderate effect; and 0.14 = a very large effect. Here the result of 0.003 is a tiny effect, i.e. only 0.3 per cent of the variance in the variable ‘How well learners are cared for, guided and supported’ is explained by whether one is a leader/SMT member or a teacher.
+
+For a paired sample t-test (discussed later) the effect size (Eta squared) is calculated by the following formula:
+
+[图片: images/050_34 Approaches to quantitative data analysis/072_f0618-04.jpg | image]
+
+Let us imagine that the same group of students had scored marks out of a hundred in ‘Maths’ and ‘Science’, as shown in Tables 34.4 and 34.5.
+
+TABLE 34.2 MEAN AND STANDARD DEVIATION IN AN EFFECT SIZE (SPSS OUTPUT)
+
+[图片: images/050_34 Approaches to quantitative data analysis/073_f0618-05.jpg | image]
+
+TABLE 34.3 THE LEVENE TEST FOR EQUALITY OF VARIANCES (SPSS OUTPUT)
+
+[图片: images/050_34 Approaches to quantitative data analysis/074_f0618-06.jpg | image]
+
+The effect size can be worked out thus (using SPSS):
+
+[图片: images/050_34 Approaches to quantitative data analysis/075_f0619-01.jpg | image]
+
+In this example the effect size is 0.216, a very large effect, i.e. there was a very substantial difference between the scores of the two groups.
+
+For analysis of variance (discussed in Chapter 36) the effect size is calculated thus:
+
+[图片: images/050_34 Approaches to quantitative data analysis/076_f0619-02.jpg | image]
+
+In SPSS this is given as ‘partial eta squared’. For example, let us imagine that we wish to compute the effect size of the difference between four groups of schools on mathematics performance in a public examination. The fours groups of schools are: (a) rural primary; (b) rural secondary; (c) urban primary; (d) urban secondary. Analysis of variance yields the result as shown in Table 34.6.
+
+Working through the formula yields the following:
+
+[图片: images/050_34 Approaches to quantitative data analysis/077_f0619-03.jpg | image]
+
+The figure of 0.021 indicates a small effect size, i.e. that there is a small difference between the four groups in their mathematics performance (note that this is a much smaller difference than that indicated by the significance level of .006, which suggests a statistically highly significant difference between the four groups of schools.
+
+TABLE 34.4 MEAN AND STANDARD DEVIATION IN A PAIRED SAMPLE TEST (SPSS OUTPUT)
+
+[图片: images/050_34 Approaches to quantitative data analysis/078_f0619-04.jpg | image]
+
+TABLE 34.5 DIFFERENCE TEST FOR A PAIRED SAMPLE (SPSS OUTPUT)
+
+[图片: images/050_34 Approaches to quantitative data analysis/079_f0619-05.jpg | image]
+
+TABLE 34.6 EFFECT SIZE IN ANALYSIS OF VARIANCE (SPSS OUTPUT)
+
+[图片: images/050_34 Approaches to quantitative data analysis/080_f0619-06.jpg | image]
+
+In regression analysis (discussed in Chapter 36) the effect size of the predictor variables is given by the beta weightings. In interpreting effect size here Muijs (2004: 194) gives the following guidance:
+
+0–0.1
+
+ weak effect
+
+0.1–0.3
+
+ modest effect
+
+0.3–0.5
+
+ moderate effect
+
+0.5
+
+ strong effect
+
+For a discussion of the importance of attending to both small effect sizes as well as large effect sizes, see Wang (2008). Wang argues that small effect sizes could indicate an important finding (p. 130), i.e. effect size and importance are two separate concepts.
+
+Hedges (1981) and Hunter et al. (1982) suggest alternative equations to take account of differential weightings due to sample size variations. The two most frequently used indices of effect sizes are standardized mean differences and correlations (Hunter et al., 1982: 373), though non-parametric statistics, e.g. the median, can be used. Lipsey (1992: 93–100) sets out a series of statistical tests for working on effect sizes, effect size means and homogeneity.
+
+Muijs (2004: 126) indicates that a measure of effect size for crosstabulations, instead of chi-square, should be phi, which is the square root of the calculated value of chi-square divided by the overall valid sample size. He gives an example: ‘if chi-square = 14.810 and the sample size is 885 then phi = 14.810/885 = 0.0167 and then take the square root of this = 0.129’.
+
+Effect sizes are susceptible to a range of influences. These include (Coe: 2000):
+
+[图片: images/050_34 Approaches to quantitative data analysis/081_box.jpg | image]
+ Restricted range: the smaller the range of scores, the greater is the possibility of a higher effect size, therefore it is important to use the standard deviation of the whole population (and not just one group), i.e. a pooled standard deviation, in calculating the effect size. It is important to report the possible restricted range or sampling here (e.g. a group of highly able students rather than, for example, the whole ability range).
+
+[图片: images/050_34 Approaches to quantitative data analysis/082_box.jpg | image]
+ Non-normal distributions: effect size usually assumes a normal distribution, so any non-normal distributions would have to be reported.
+
+[图片: images/050_34 Approaches to quantitative data analysis/083_box.jpg | image]
+ Measurement reliability: the reliability (accuracy, stability and robustness) of the instrument being used (e.g. the longer the test, or the more items that are used to measure a factor, the more reliable it could be).
+
+There are downloadable software programs available that will calculate effect size simply by the researcher keying in minimal amounts of data, for example:
+
+[图片: images/050_34 Approaches to quantitative data analysis/084_box.jpg | image]
+ http://web.uccs.edu/lbecker/Psy590/escalc3.htm
+
+[图片: images/050_34 Approaches to quantitative data analysis/085_box.jpg | image]
+ www.cedu.niu.edu/~walker/calculators/effect.asp
+
+[图片: images/050_34 Approaches to quantitative data analysis/086_box.jpg | image]
+ www.uccs.edu/~faculty/lbecker/
+
+[图片: images/050_34 Approaches to quantitative data analysis/087_box.jpg | image]
+ www.cognitiveflexibility.org/effectsize/
+
+[图片: images/050_34 Approaches to quantitative data analysis/088_box.jpg | image]
+ http://davidmlane.com/hyperstat/effect_size.html
+
+[图片: images/050_34 Approaches to quantitative data analysis/089_box.jpg | image]
+ www.danielsoper.com/statcalc/calc05.aspx
+
+[图片: images/050_34 Approaches to quantitative data analysis/090_box.jpg | image]
+ www.danielsoper.com/statcalc/
+
+[图片: images/050_34 Approaches to quantitative data analysis/091_box.jpg | image]
+ http://freewareapp.com/effect-size-generator_ download/
+
+[图片: images/050_34 Approaches to quantitative data analysis/092_box.jpg | image]
+ mwwatkin/Watkins3.html
+
+More information on effect sizes can be found at: www.latrobe.edu.au/psy/esci and www.cemcentre.org/ evidence-based-education/effect-size-calculator, Leech and Onwuegbuzie (2004) and Kline (2004).
+
+34.11 A note on symbols
+
+It is commonplace to see a range of Greek letters used in statistics. These may appear forbidding to the novice researcher, hence Table 34.7 presents the main letters used, together with an explanation of these.
+
+Additionally there are many English letters used in statistics. The main ones are:
+
+df =
+
+degrees of freedom
+
+F =
+
+f-ratio value (in analysis of variance (ANOVA))
+
+H0 =
+
+null hypothesis
+
+H1 =
+
+alternative hypothesis
+
+i as subscript =
+
+(number of ) specific observations in a data set
+
+N =
+
+population size
+
+n =
+
+sample size
+
+R2 =
+
+multiple coefficients of determination in a multiple regression
+
+R1 =
+
+Spearman rank order correlation
+
+r =
+
+correlation
+
+SD =
+
+standard deviation
+
+SSi =
+
+sum of squares
+
+t =
+
+t-value in a t-test
+
+x =
+
+arithmetic mean (x-bar)
+
+We meet some of these signs, symbols and letters in the following chapters.
+
+TABLE 34.7 FIREQUENTLY USED GREEK LETTERS IN STATISTICS
+
+[图片: images/050_34 Approaches to quantitative data analysis/093_f0621-01.jpg | image]
+
+[图片: images/050_34 Approaches to quantitative data analysis/094_common.jpg | image]
+Companion Website 
+
+The companion website to the book includes PowerPoint slides for this chapter, which list the structure of the chapter and then provide a summary of the key points in each of its sections. This resource can be found online at www.routledge.com/textbooks/cohen7e.
+
+Additionally readers are recommended to access the online resources for Chapter 36 as these contain materials that apply to the present chapter, such as the SPSS Manual which guides readers through the SPSS commands required to run statistics in SPSS, together with data files of different data sets.

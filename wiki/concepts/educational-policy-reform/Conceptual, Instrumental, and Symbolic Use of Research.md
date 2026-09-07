@@ -11,10 +11,10 @@ aliases:
 summary: "对研究利用方式的经典三分类：概念性使用指研究以间接方式影响理解与思考，工具性使用指研究直接用于具体决策，象征性使用指研究被事后用来为已定决策背书"
 type: concept
 domain: "educational-policy-reform"
-related_count: 18
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - topic/research-use
   - topic/educational-policy
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Research-Practice Partnership]]"
   - "[[Problem Solving]]"
   - "[[Document]]"
+  - "[[Social Science as Legitimation Alibi]]"
   - "[[Fitness for Purpose]]"
   - "[[Dialogue in Education]]"
   - "[[Evidence-Informed Practice]]"
@@ -45,10 +46,11 @@ related_facts:
 related_arguments:
   - "[[Argument_Nelson_2017_ER]]"
   - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
+  - "[[Argument_Mattheou_2009_ScientificParadigm]]"
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-08-26
+updated: 2026-09-08
 ---
 
 # Conceptual, Instrumental, and Symbolic Use of Research
@@ -140,6 +142,9 @@ updated: 2026-08-26
 > [!claim] Knorr (1977)
 > **象征性使用的策略性** 指出象征性使用是策略性的，可能在特定情境下被使用以达成某种目的。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, p.3)]]
 
+> [!claim] [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]]
+> **宏观政策与跨国治理中的[[Social Science as Legitimation Alibi|合法化借口]]（Alibi）** 在宏观教育规划与跨国治理中，象征性使用演变为极具政治支配力的合法化借口机制：决策者预设了财政追加、综合改制或跨国技术援助的政治目标，实证社会科学的量化硬数据被策略性调动，用以将充满党派偏见的意识形态抉择包装为客观必然的技术规律，从而为官僚机器推卸行政决策问责提供了坚固的免责护照。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 67–69)]]
+
 ---
 
 ### 命题二　学校中的研究使用以象征性与工具性使用为主，深思熟虑的整合性使用相对罕见
@@ -170,7 +175,7 @@ updated: 2026-08-26
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **类型学源流** | 从七模型到三分类的收敛 | 研究利用的分类与分析 | Weiss (1979); Nutley et al. (2007) |
+> | **类型学源流** | 从七模型到三分类的收敛与合法化借口演变 | 研究利用与宏观政策规划 | Weiss (1979); Nutley et al. (2007); Mattheou |
 > | **学校中的分布** | 象征与工具性使用为主，深思熟虑参与罕见 | 学校研究使用的实证描述 | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] |
 > | **成果分类应用** | 类型学扩展为长期成果分类 | 研究影响测量 | [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]] |
 

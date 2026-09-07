@@ -186,7 +186,7 @@ updated: 2026-09-04
 
 > [!taxonomy] 应急科学咨询与立法科技评估的双轨机制
 > - **行政应急咨询轨：紧急情况科学咨询小组（SAGE）** 面对突发公共危机，可在国家紧急状态宣布后 30 分钟内作为内阁简报室（Cabinet Office Briefing Room, COBR）下设委员会迅速组建，动态汇聚跨学科前沿专家提供即时科学评估。
-> - **立法评估制衡轨：议会科学与技术办公室（[[Parliamentary Office of Science and Technology|POST]]）** 独立于行政内阁，面向议会两院提供经严格同行评议的客观科技政策简报（POSTnotes），两院各专责委员会亦常设专家顾问进行证据调查。
+> - **立法评估制衡轨：议会科学与技术办公室（POST）** 独立于行政内阁，面向议会两院提供经严格同行评议的客观科技政策简报（POSTnotes），两院各专责委员会亦常设专家顾问进行证据调查。
 > - **跨部门规制指南轨：财政部《[[The Green Book|绿皮书]]》与评估工作组（ETF）** 在全政府层面，依据英国财政部《[[The Green Book|绿皮书]]》（HM Treasury The Green Book）与政府评估工作组（Government Evaluation Task Force, ETF），推进科学信息在政策论证与投资评估中的规范应用。（p. 81）
 
 > [!index-table] 表5-3：英国中央政府科学咨询机制五十年演进与核心支柱矩阵（pp. 80–81）
@@ -417,13 +417,13 @@ updated: 2026-09-04
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **科学顾问机制面临立法信源偏误与公共机构投资萎缩双重压力** 议员日常履职过度依赖立场偏见的智库（55%）而极少使用法定权威信源（[[Parliamentary Office of Science and Technology|POST]] 仅 22%），同时公共部门科研机构（PSREs）基础能力遭长期削减侵蚀。（pp. 80–83）
+> 1. **科学顾问机制面临立法信源偏误与公共机构投资萎缩双重压力** 议员日常履职过度依赖立场偏见的智库（55%）而极少使用法定权威信源（POST 仅 22%），同时公共部门科研机构（PSREs）基础能力遭长期削减侵蚀。（pp. 80–83）
 > 2. **科学顾问独立性面临潜在政治化压力与程序规则滥用** 处于体制内参谋与独立挑刺者双重张力下的 CSAs 面临依附性管理的现实风险，大选前静默期规则被过度泛化用于不当封堵客观科学发声。（p. 84）
 > 3. **后常规治理要求破除政策黑箱与口号化“遵循科学”** 面对高赌注与高不确定性决策，政客以科学为挡箭牌掩盖利益权衡的行为严重反噬科学公信力；必须依据《[[The Green Book|绿皮书]]》坦诚披露[[Scientific Uncertainty|科学不确定性]]并说明为何未采纳特定证据。（pp. 85–86）
 > 4. **公众高度认同专家建言但对决策参与赤字表达强烈不满** 75% 公众支持专家建言政府、62% 诉求顺应民意，但仅 12% 感觉充分参与科技决策，76% 批评政府未作公众咨询努力；报告提出由法定证据陈述、学术院独立审计与前瞻[[Dialogue in Education|对话]]构成的行动闭环。（pp. 85–88）
 
 > [!stat-cards]- 核心数据
-> - **55% vs 22%** 英国国会议员履职中主要依赖智库与倡导团体（55%），而使用议会科学技术办公室（POST）的比例仅为 22%（YouGov, 2025, p. 83）。
+> - **55% vs 22%** 英国国会议员履职中主要依赖智库与倡导团体（55%），而使用[[Parliamentary Office of Science and Technology|议会科学技术办公室]]（POST）的比例仅为 22%（YouGov, 2025, p. 83）。
 > - **12%** 英国国会议员主动查阅国家学术院权威综合科学报告的比例仅为 12%（YouGov, 2025, p. 83）。
 > - **47%** 近半数国会议员在立法工作中将开放互联网检索作为主要科学信息来源（YouGov, 2025, p. 83）。
 > - **75%** 英国公众压倒性认同应由专家而非普通公众就科技发展的长远影响向政府提供专业建言（PAS 2025, p. 85）。
@@ -448,7 +448,7 @@ updated: 2026-09-04
 > [!citation-card]- [[Post-Normal Science|后常规科学问题]]中必须诚实披露未采纳证据
 > 需要付出更大努力将公共政策与科学证据及其固有的不确定性明确关联，从而降低“后常规问题”（当赌注极高、[[Scientific Uncertainty|科学不确定性]]极高且对科学信息需求极度迫切时）变得愈发棘手难解的风险。例如，至关重要的是，不仅要对科学不确定性保持诚实，还必须在相关科学信息未被采纳时给出明确解释，以此坚决防止为了迎合既定政策而挑选证据的行为。（p. 86）
 >
-> *Greater effort is needed to explicitly link policies to scientific evidence and its uncertainties to reduce the chances of ‘[[Parliamentary Office of Science and Technology|POST]]-normal problems’ (when the stakes are high, there is high scientific uncertainty and high demand for scientific information) becoming increasingly intractable. For example, it is important not only to be honest about scientific uncertainty, but to explain when relevant scientific information is not used, to avoid selecting only the scientific evidence to suit the policy.*
+> *Greater effort is needed to explicitly link policies to scientific evidence and its uncertainties to reduce the chances of ‘POST-normal problems’ (when the stakes are high, there is high scientific uncertainty and high demand for scientific information) becoming increasingly intractable. For example, it is important not only to be honest about scientific uncertainty, but to explain when relevant scientific information is not used, to avoid selecting only the scientific evidence to suit the policy.*
 
 > [!citation-card]- 建议十四：法定发布平实英文版《科学证据陈述》
 > 英国政府应当确立雄心，成为公共决策中科学证据系统化应用与公众透明度的全球引领者。为支撑这一透明度，英国政府应当在各项政策出台时同步发布一份《科学证据陈述》，在法律草案、白皮书、政策战略框架和公共咨询文件中，明确详述来自科研领域的科学证据究竟是如何被具体应用的。（p. 87）

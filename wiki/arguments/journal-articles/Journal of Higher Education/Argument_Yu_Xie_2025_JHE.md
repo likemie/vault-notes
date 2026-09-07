@@ -68,8 +68,10 @@ related_concepts:
 related_theories:
   - "[[Critical Geopolitics]]"
   - "[[Dependency Theory]]"
+  - "[[Human Capital Theory]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Jürgen Habermas]]"
 related_facts:
   - "[[Bologna Process]]"
   - "[[Southeast Asian Higher Education Common Space]]"
@@ -88,7 +90,7 @@ title: "Argument_Yu_Xie_2025_JHE"
 argument_key: "Argument_Yu_Xie_2025_JHE"
 argument_display_title: "空间、权力与高等教育：地缘政治视角下的高等教育研究"
 argument_kind: "journal-article"
-argument_related_count: 54
+argument_related_count: 56
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -250,7 +252,7 @@ journal: "高等教育研究"
 > > | 维度 | 教育学（Pedagogy） | 经济学（Economics） | 社会学（Sociology） | 地缘政治超越 |
 > > |------|-------------------|---------------------|---------------------|-------------|
 > > | 核心问题 | 为谁培养人、培养什么人 | 人才培养如何与劳动力市场适配 | 个体的高等教育机会与社会化 | 人被培养为哪一层级的[[Geopolitical Subject\|地缘政治主体]] |
-> > | 人的概念化 | 文化与道德属性的承载者 | 人力资源或人力资本 | 社会结构与个体能动性的交汇点 | 地缘政治秩序的承载者与再生产节点 |
+> > | 人的概念化 | 文化与道德属性的承载者 | 人力资源或[[Human Capital Theory\|人力资本]] | 社会结构与个体能动性的交汇点 | 地缘政治秩序的承载者与再生产节点 |
 > > | 分析路径 | 课程体系设计、教学法革新 | 人力资本投资与回报 | 机会获得、社会化过程及影响因素 | 教育空间如何将外在秩序内化为认知与认同 |
 > > | 成效标准 | 可量化的测评[[Paradigm\|范式]] | 劳动市场薪资与职业匹配 | 社会流动与文化再生产 | 地缘政治秩序是否被持久、日常地内化 |
 > > | 空间意识 | 无 | 无 | 无 | 空间既是物质存在也以叙事和想象形式运作 |
@@ -471,7 +473,7 @@ journal: "高等教育研究"
 > |------|-------------|-----------|
 > | 本体论位置 | 物质—实践端 | 观念—科学端 |
 > | [[Theoretical Standpoint\|理论立场]] | [[Realism in International Relations\|现实主义]] | 建构主义 |
-> | 理论源头 | 费舍尔的社会达尔文主义和斯宾塞的社会有机体概念 | 法兰克福学派及西方马克思主义（阿多诺、哈贝马斯、德里达、福柯、葛兰西） |
+> | 理论源头 | 费舍尔的社会达尔文主义和斯宾塞的社会有机体概念 | 法兰克福学派及西方马克思主义（阿多诺、[[Jürgen Habermas\|哈贝马斯]]、德里达、福柯、葛兰西） |
 > | 空间观 | 可测量、可分割、可占有的客观地理实体；竞争舞台 | 流动的社会建构；通过命名、分类与治理等话语实践不断生产的政治产物 |
 > | 权力形式 | 军事力量、安全能力、对关键空间（领土、通道、资源）的控制 | 知识生产、话语建构、规范制定与日常治理实现的空间秩序塑造能力 |
 > | 行动主体 | 民族国家（唯一主体） | 多层级的行动者网络：国家机构、国际组织、专家群体、教育机构、媒体、普通行动者 |
@@ -555,7 +557,7 @@ journal: "高等教育研究"
 
 > [!finding-cards] 核心发现
 > 1. **[[Geopolitics of Higher Education|高等教育的地缘政治]]研究经历从相对不可见到非自觉再到自觉的演变** 在[[Classical Geopolitics|古典地缘政治]]阶段，高等教育不被视为独立分析对象（缺乏概念工具）；冷战时期，它仅被理解为国家战略的附属工具；冷战结束后，非自觉的研究用中心-边缘理论描述不平等但未追溯到地缘政治理论；近年来的自觉研究主动引入[[Critical Geopolitics|批判地缘政治]]和[[Space Production|空间生产]]理论（pp.3–6）。
-> 2. **四项关键议题共享空间与权力的分析逻辑** 人的培养（从人力资本到[[Geopolitical Subject|地缘政治主体]]性生产，涉及政府、教育机构和课程教学三个层面）、[[Knowledge Production|知识生产]]（[[Epistemology|认识论]]殖民到认识论治理，通过排名、出版平台和学者自我[[Disciplina and Doctrina|规训]]三层机制再生产全球知识等级）、学术流动（从个体选择到被流动的地缘政治实践，引入[[Infrastructures of Immobility|流动基础设施]]概念分析制度性筛选机制）、跨境合作（从[[Soft Power|软实力]]到[[Knowledge Diplomacy|知识外交]]到空间项目，揭示不同国家的差异化空间策略）。四项议题共同揭示高等教育如何通过其核心功能参与全球空间秩序的生产与再生产（pp.5–12）。
+> 2. **四项关键议题共享空间与权力的分析逻辑** 人的培养（从[[Human Capital Theory|人力资本]]到[[Geopolitical Subject|地缘政治主体]]性生产，涉及政府、教育机构和课程教学三个层面）、[[Knowledge Production|知识生产]]（[[Epistemology|认识论]]殖民到认识论治理，通过排名、出版平台和学者自我[[Disciplina and Doctrina|规训]]三层机制再生产全球知识等级）、学术流动（从个体选择到被流动的地缘政治实践，引入[[Infrastructures of Immobility|流动基础设施]]概念分析制度性筛选机制）、跨境合作（从[[Soft Power|软实力]]到[[Knowledge Diplomacy|知识外交]]到空间项目，揭示不同国家的差异化空间策略）。四项议题共同揭示高等教育如何通过其核心功能参与全球空间秩序的生产与再生产（pp.5–12）。
 > 3. **传统地缘政治与[[New Geopolitics|新地缘政治]]在空间观、权力观和高等教育角色上存在根本性[[Ontology|本体论]]差异，但当代呈现复合嵌套形态** 传统[[Paradigm|范式]]将空间视为客观地理实体、权力体现为军事控制，新范式将空间视为社会建构、权力体现为知识与话语的空间秩序塑造能力。当代研究在吸收批判地缘政治成果的基础上重新纳入物质性与安全议题的分析（pp.11–13）。
 > 4. **空间生产三元维度（物质性、表征性、关系性）为整合分析提供框架** 该框架能够同时容纳传统地缘政治对物质权力的关切和新地缘政治对空间建构的分析，将高等教育空间实践分解为制度装置的物质布局、象征等级的合法性生产和行动者网络的动态协商三个彼此嵌套的维度（pp.12–13）。
 

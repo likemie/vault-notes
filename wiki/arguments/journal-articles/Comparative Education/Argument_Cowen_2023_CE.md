@@ -9,7 +9,7 @@ title: "Argument_Cowen_2023_CE"
 argument_key: "Argument_Cowen_2023_CE"
 argument_display_title: "Comparative education: and now? Comparative Education, 59(3), 326-340"
 argument_kind: "journal-article"
-argument_related_count: 63
+argument_related_count: 65
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -35,7 +35,7 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Ontology]]"
   - "[[Document]]"
-  - "[[Bildung]]"
+  - "[[Paideia]]"
   - "[[Four Sins of Comparative Education]]"
   - "[[Hypothesis]]"
   - "[[Scientific Method]]"
@@ -59,6 +59,7 @@ related_concepts:
   - "[[Academic Freedom]]"
 related_theories:
   - "[[Critical Theory]]"
+  - "[[Human Capital Theory]]"
   - "[[Wight's Three Traditions of International Theory]]"
 related_methods:
   - "[[Snowball Sampling]]"
@@ -79,19 +80,20 @@ related_persons:
   - "[[Horace Mann]]"
   - "[[Isaac Kandel]]"
   - "[[Nicholas Hans]]"
+  - "[[C. Arnold Anderson]]"
   - "[[Michael Barber]]"
 related_facts:
   - "[[PISA]]"
   - "[[Comparative Education Society in Europe]]"
   - "[[National Security Law]]"
-  - "[[Parliamentary Office of Science and Technology]]"
+  - "[[IEA]]"
   - "[[Comparative Education Center at Chicago 1958]]"
   - "[[OECD]]"
 related_arguments:
   - "[[Argument_Klerides_2023_CE]]"
 sources:
   - "[[sources/Cowen_2023_CE|Cowen_2023_CE]]"
-part_of: ''
+part_of: ""
 related_instruments: []
 status: draft
 created: 2026-06-06
@@ -178,7 +180,7 @@ citation_aliases:
 > 比较教育学科虽然在大学建制上获得了巨大成功，但其自我合法化的基础极其虚弱，长期依赖客观上已显陈旧的三大陈词滥调，且面临[[Epistemology|认识论]]碎片化的危险。(p.327)
 
 > [!chain-link] 证据到判断
-> - **先知化的焦虑与历史倒退** 2018年 [[Comparative Education Society in Europe|CESE]] 塞浦路斯会议以教育中的身份认同（Identities in Education）为主题，由 [[Eleftherios Klerides]] 与 Stephen Carney (2021) 组织，António Nóvoa (2021) 做了精彩的主旨演讲。然而，在专门纪念 [[Andreas Kazamias]] 的特别讲座环节中，发言者即兴将 Kazamias 解读为一位正确预见了我们当前时代和问题的哲学先知（philosopher-prophet），宣称学界应走向希腊人文主义（Hellenistic Humanism）和灵魂教育（[[Bildung|Paideia]]，即教育的灵魂）来重新平衡自己。Kazamias 本人常倡导历史和人文主义，并将其概括为渐进、现代、改良与普罗米修斯式的比较教育，但他从未自封先知。这种将 Kazamias 历史先知化的姿态泄露了学科对于自身定位的深层焦虑：如果我们需要退回 50 年前 Kazamias 的历史人文学说，是否意味着过去半个世纪以来的科学化与制度繁荣其实是一个战略错误？(p.327)
+> - **先知化的焦虑与历史倒退** 2018年 [[Comparative Education Society in Europe|CESE]] 塞浦路斯会议以教育中的身份认同（Identities in Education）为主题，由 [[Eleftherios Klerides]] 与 Stephen Carney (2021) 组织，António Nóvoa (2021) 做了精彩的主旨演讲。然而，在专门纪念 [[Andreas Kazamias]] 的特别讲座环节中，发言者即兴将 Kazamias 解读为一位正确预见了我们当前时代和问题的哲学先知（philosopher-prophet），宣称学界应走向希腊人文主义（Hellenistic Humanism）和灵魂教育（[[Paideia]]，即教育的灵魂）来重新平衡自己。Kazamias 本人常倡导历史和人文主义，并将其概括为渐进、现代、改良与普罗米修斯式的比较教育，但他从未自封先知。这种将 Kazamias 历史先知化的姿态泄露了学科对于自身定位的深层焦虑：如果我们需要退回 50 年前 Kazamias 的历史人文学说，是否意味着过去半个世纪以来的科学化与制度繁荣其实是一个战略错误？(p.327)
 > - **三大陈词滥调的惯例化使用** 学科极少丢弃旧信条，积累了过多的陈词滥调：
 >   1. [[Michael Sadler|迈克尔·萨德勒]][[Pragmatic Paradigm|实用主义]]试图从外国教育政策中获取实用价值。这在一百年后仍被常规使用，但它将比较教育矮化为了应对教育危机的高级应急社会管道工（emergency social plumbing），即通过机械嫁接外国经验来修理本国的政策漏水。
 >   2. [[Marc-Antoine Jullien|马克-安托万·朱利安]]科学理想宣称要让学科成为科学（science）的理想。这一口号已喊了近两百年，但学界至今仍未理清科学是指探寻事物原因，还是指像物理学一样进行准确预测。
@@ -203,7 +205,7 @@ citation_aliases:
 > 重构学术议程总是充满政治阻力。历史上的[[Paradigm|范式]]转型留下了严重的[[Disciplina and Doctrina|规训]]惩罚痕迹，而当代关于去殖民化的争论虽然更为理智，但也极易陷入过度简单化，需要引入精确的非西方殖民警示。(p.329)
 
 > [!chain-link] 证据到判断
-> - **方法论断裂与规训惩罚的历史** 1970年代初的方法论论战（Methodology Debates）是一场学术惨剧，可被称为方法论分裂（the fracturing）。在这个过程中，偏离传统路径者被强行贴上偏差者（deviants）的标签。一个标志性事件是 [[Edmund King]] 试图以权威姿态去[[Disciplina and Doctrina|规训]]Margaret Scotford Archer（Edmund King, 1979; Edmund King and Margaret Scotford Archer, 1980）。这场公开的学术规训冲突，暴露了当时以 King 为代表的英格兰比较教育学界对结构社会学（无论是历史社会学还是其他流派）的完全排斥与共鸣缺乏。
+> - **方法论断裂与规训惩罚的历史** 1970年代初的方法论论战（Methodology Debates）是一场学术惨剧，可被称为方法论分裂（the fracturing）。在这个过程中，偏离传统路径者被强行贴上偏差者（deviants）的标签。一个标志性事件是 [[Edmund King|埃德蒙·金]]（Edmund King）试图以权威姿态去[[Disciplina and Doctrina|规训]]Margaret Scotford Archer（Edmund King, 1979; Edmund King and Margaret Scotford Archer, 1980）。这场公开的学术规训冲突，暴露了当时以 King 为代表的英格兰比较教育学界对结构社会学（无论是历史社会学还是其他流派）的完全排斥与共鸣缺乏。
 > - **当代社会学转向的进步** 当代英格兰社会学和历史社会学学者（如 [[Stephen Ball]]、Roger Dale、Martin Lawn、Gemma Moss、Jenny Ozga、Susan Robertson 等）做出了重大贡献。一些修正主义与批判作品（如 Peter Ninnes and Greg Burnett, 2003; Marianne Larsen and Sandip Mehta, 2008; Stephen Carney 等, 2012; Terri Seddon and Sandford Levin, 2013）也成功成为理论经典。
 
 > [!warning] 去殖民化讨论的区域局限与精确警示
@@ -228,7 +230,7 @@ citation_aliases:
 > [!chain-link] 证据到判断
 > - **[[Hierarchy of Future Issues in Comparative Education|未来议题分类原则]]** 决定学科智识命运与前瞻方向的五个核心议题层级：
 >   1. **常规谜题 (Normal-puzzle topics)** 学科日常运转的核心业务，侧重于对学校系统及其各个组成部分的运转和改革分析。具体包括：学前教育、初等教育、中等教育、考试、课程、教师教育、职业技术教育、衡量学校与大学质量、以及新型教学技术。(p.329, p.330)
->   2. **热门主题 (Hot topics)** 产出极其丰厚、学者关注度极高且将持续维持热度的领域。具体包括：种族与性别（例如 Unterhalter 于 2023 年编辑的女孩教育专刊），以及各种以“后”（[[Parliamentary Office of Science and Technology|POST]]）为标志的新理论研究，如后社会主义、后现代、[[Posthumanism|后人类主义]]理论，以及系统装配 (assemblages) 解释视角。
+>   2. **热门主题 (Hot topics)** 产出极其丰厚、学者关注度极高且将持续维持热度的领域。具体包括：种族与性别（例如 Unterhalter 于 2023 年编辑的女孩教育专刊），以及各种以“后”（POST）为标志的新理论研究，如后社会主义、后现代、[[Posthumanism|后人类主义]]理论，以及系统装配 (assemblages) 解释视角。
 >   3. **突破性主题 (Break-through themes)** 近年[[Emergence|涌现]]、不仅突然显性化且直穿未来的突破性议题。具体包括：治理与控制模式 (governance and modes of control)；数据霸权；后殖民主义与全球南方 (post-colonialism and the Global South)；[[PISA]] 等国际测试批判；从全球化洪流中重新解救民族主义概念；以及人工智能尤其是智能[[Dialogue in Education|对话]]机器人（如 ChatGPT）带来的急剧技术变革与行业恐慌。
 >   4. **冷门主题与重大沉默 (Cold topics / Major silences)** 学科历史上面对重大地缘政治剧变却长期失声、几乎从未进入学术过去的冷门领域。具体包括：战争、革命、帝国以及宗教。Cowen 强调，这些领域不能仅靠短文章来拯救，而应当被全盘重估，放在不以提供政策建议为目的的纯粹学术比较教育中进行深刻探讨。
 >   5. **全球解读** 学科对外部政治与经济大叙事变化的宏观回应，直接决定了比较教育在不同历史分期中的理解风格与研究议程。
@@ -237,7 +239,7 @@ citation_aliases:
 > - **18世纪末至19世纪末：世俗化与民族国家建构** 最早的全球解读源于世俗化阅读，紧密连接革命政治、国家形成和新民族主义。[[Horace Mann]], Egerton Ryerson, William Torrey Harris, James Kay-Shuttleworth 等人海外考察的目的，是为了发明适合传播初等教育和培训教师的制度（如美国与加拿大对普鲁士国民教育模式的借用）。
 > - **19世纪末至一战前：工业竞争与帝国维持** 注意力转向工业革命后果、国际经济竞争及教育系统的重新定义，以维持帝国主义。对外考察与变得现代（或保持本真的斯拉夫或日本身份，如日本明治维新与俄罗斯斯拉夫派的理论抵制）紧密相连。
 > - **两次世界大战之间：意识形态对立与专业沉默** 这一时期对法西斯主义和共产主义政治的专业比较工作极少，形成了学术上的沉默期。
-> - **1945年后至冷战时期：重建、平等与冷战测评竞争** 战后初期聚焦于重建和改善教育机会平等；1950年代自由民主与国家社会主义民主展开教育竞争；冷战期间主要努力投入到通过国际测试衡量教育成功（IEA 的兴起），并将竞争延伸至第三世界（Le tiers monde）的发展。
+> - **1945年后至冷战时期：重建、平等与冷战测评竞争** 战后初期聚焦于重建和改善教育机会平等；1950年代自由民主与国家社会主义民主展开教育竞争；冷战期间主要努力投入到通过国际测试衡量教育成功（[[IEA]] 的兴起），并将竞争延伸至第三世界（Le tiers monde）的发展。
 > - **冷战后至今：全球化大叙事与绩效主义治理** 全球解读转向了全球化大叙事（Grand narrative of globalisation）及其粗糙的派生词汇，最终演变为新自由主义效率测量与 PISA 霸权。(p.331)
 
 > [!warrant]- 推理桥梁
@@ -308,7 +310,7 @@ citation_aliases:
 
 > [!quad-grid] 专刊重点学者论证矩阵
 > - **Will Brehm (2023)**
->   **美国比较教育政治史**<br>讲述[[Comparative Education Center at Chicago 1958|芝加哥大学比较教育中心]]（C. Arnold Anderson 创立）的历史演变。 Anderson 在1950年代将教育经济学与比较教育融合，推动了人力资本理论的全球扩张。Brehm 论证这其实是冷战时期美国遏制共产主义、推广全球霸权的技术官僚规划，进而发出关于世界政治变迁对学科冲击的预警。(Brehm, 2023)
+>   **美国比较教育政治史**<br>讲述[[Comparative Education Center at Chicago 1958|芝加哥大学比较教育中心]]（[[C. Arnold Anderson]] 创立）的历史演变。 Anderson 在1950年代将教育经济学与比较教育融合，推动了[[Human Capital Theory|人力资本理论]]的全球扩张。Brehm 论证这其实是冷战时期美国遏制共产主义、推广全球霸权的技术官僚规划，进而发出关于世界政治变迁对学科冲击的预警。(Brehm, 2023)
 > - **Maren Elfert (2023)**
 >   **国际组织的知识政治**<br>分析联合国教科文组织（United Nations Educational, Scientific and Cultural Organization，UNESCO）和[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD）之间从早期的人文主义承诺向现代数据化绩效治理的转变。Elfert 揭示了国际组织如何通过知识政治（politics of knowledge）将教育政策简化为可测量的技术性指标，脱离了传统的[[Democratic Education|民主教育]]关切。(Elfert, 2023)
 > - **[[Eleftherios Klerides]] (2023)**

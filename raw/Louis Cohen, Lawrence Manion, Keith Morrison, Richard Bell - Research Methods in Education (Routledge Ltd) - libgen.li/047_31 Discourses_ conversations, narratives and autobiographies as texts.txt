@@ -1,0 +1,1005 @@
+31 Discourses: conversations, narratives and autobiographies as texts
+=====================================================================
+
+Discourses
+
+Conversations, narratives and autobiographies as texts
+
+CHAPTER 31
+
+Whilst coding represents one major approach to analysing qualitative data (discussed in the previous chapter), nevertheless it is only one way. In this chapter we provide very different methods of analysing qualitative data, founded in part on discourse analysis, and including:
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/001_box.jpg | image]
+ what is a discourse?
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/002_box.jpg | image]
+ a conversational analysis
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/003_box.jpg | image]
+ a narrative discourse
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/004_box.jpg | image]
+ autobiography
+
+These approaches do not use coding, and keep together the text rather than fragmenting them as in coding. In each instance we provide a worked example, so that readers can understand the issues more clearly.
+
+31.1 What is a discourse?
+
+Words carry many meanings; they are nuanced and highly context-sensitive. In qualitative data analysis it is often the case that interpretation and analysis are fused and, indeed, concurrent. It is naive to suppose that the qualitative data analyst can separate analysis from interpretation, because words themselves are interpretations and are to be interpreted. In this chapter we show how qualitative researchers can analyse discourses, be they in written texts or transcriptions of spoken conversations.
+
+‘Discourse’ is a very slippery term. We use it here to indicate the meanings that are given to texts which create and shape knowledge and behaviour, not least by the exercise of power through texts and conversations. A discourse is a way of thinking, perhaps culturally or institutionally conditioned, which, like a paradigm, is legitimated by communities, often those with power. Discourses shape, and are shaped by, different meanings and people are members of different discourse communities – those communities which hold similar values, views, ideas and ways of looking at the world. The familiar slogan that ‘knowledge is power’ is a central element in much discourse analysis, and discourse analysis reveals how power operates and is legitimated or challenged in and through discourses (e.g. Fraser, 2004). As Foucault (1998: 101) remarks, ‘discourse can be both an instrument and an effect of power’; it is the ‘tactical dimension’ of the operation of power in individuals, groups and organizations. Power is immanent in discourse; it is one of its defining features. Indeed the three examples in this chapter (a conversation, a narrative and an autobiographical text) all concern power – its possession, its denial, it operations, its fluidity, its negotiation, its relations, its absence and so on.
+
+Any text can be the bearer of several discourses, and a single text can be deconstructed into several meanings. Texts are set in social contexts, and reality is a social construction, so discourse analysis has to take account of the social contexts in which the texts are set.
+
+To constitute a discourse Renkema (2004) suggests that a text – spoken or written – must fulfil seven main criteria:
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/005_box.jpg | image]
+ cohesion: there must be a grammatical relationship between the different parts of the text or conversation;
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/006_box.jpg | image]
+ coherence: the sequence and structure of the text must make sense and ‘hang together’;
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/007_box.jpg | image]
+ intentionality: the text or conversation must be written or spoken intentionally;
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/008_box.jpg | image]
+ acceptability: it has to be accepted or acceptable to its intended audience;
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/009_box.jpg | image]
+ informativeness: it must include new information;
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/010_box.jpg | image]
+ situationality: the context, conditions and circumstances in which it is embedded must be known and made explicit;
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/011_box.jpg | image]
+ intertextuality: the text or conversation must go beyond simply the text and to an outer world of the reader, interpreter, researcher and other agents.
+
+Whilst discourse analysis is a scrutiny of any text, conversation analysis is a subset of this, looking at a conversation between two or more people. Discourse analysis examines how meaning in constructed through texts at beyond the single sentence level, and, indeed, the different meanings that can be constructed. In particular (but by no means exclusively) it focuses on issues of power, domination and the constructions and reproduction of power in texts and conversations, language in social contexts and interactions. It regards talk and texts as social practices (Potter and Wetherell, 1994: 48), agentic, interactive and socially constructivist (Clifton, 2006). Discourse analysis is influenced by speech act theory (Austin, 1962; Searle, 1969) of locutions (what is uttered), illocutions (doing something whilst saying something) and perlocutions (achieving something by saying something), by textual analysis, ideological analysis and ideology critique (Potter and Wetherell, 1994: 47).
+
+Wetherell et al. (2001) identify four methods of discourse analysis:
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/012_box.jpg | image]
+ analysing words in context (e.g. cultural, social, group) as ways in which people express themselves and in which context influences the language used, i.e. how context affects meaning and language;
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/013_box.jpg | image]
+ analysing interactions conducted through language;
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/014_box.jpg | image]
+ analysing patterns of language use (e.g. language used to express wishes, emotions, reactions, to create scenarios, to give information);
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/015_box.jpg | image]
+ analysing the links between language and the constitution, structure and nature of society, often focusing on differentials of power and their reproduction.
+
+Texts themselves carry many levels of meaning, and the qualitative researcher has to strive to catch these different levels or layers. Further, researchers are often part of the world that they are actually writing about, and, even if not, bring their own culture, norms, values to bear in conducting, analysing, interpreting and reporting the research. The issues of projection and counter-transference are important: the researcher’s analysis may say as much about the researcher as about the text being analysed, both in the selection of the levels of analysis, the actual analysis, and the imputation of intention and function of discourses in the text, with their corollary in the key issue of reflexivity.
+
+In this chapter we take three examples of ways in which researchers can analyse and interpret discourse: a conversation, a narrative and an autobiographical text. A conversation involves more than one person; a narrative is written by a single person and an autobiography is a narrative that is written by, and in, the first person.
+
+31.2 A conversational analysis
+
+The following example of a conversational analysis exposes the multilevelled interpretations that can be made of conversations as discourses (Sacks, 1984). Conversational analysis is a rigorous investigation of features of a conversation, how it is generated and constructed, how it operates, what are its distinguishing features and how participants construct their own meanings in the conversational situation (Clifton, 2006: 203).
+
+The example is of a transcript of a short conversation in an infant classroom (Cummings, 1985) which contains the potential for several levels of analysis; several meanings can be deconstructed from this conversation, and some of them concern power. The analysis also raises the issue of reflexivity in the researcher.
+
+This is a class of 27 5–6-year-old children, with the children (CC) seated on a carpet and the teacher (T) seated on a chair. A new set of class books has arrived for the children’s free use. After a few days the teacher feels that the class and the teacher should look at them together.
+
+1
+
+T
+
+Right. Let’s have a look at this book – ’cause these are – smashing books. Are you enjoying them?
+
+2
+
+CC
+
+Yes//Yes//Yes.
+
+3
+
+T
+
+What’s it called this one? Can anyone tell me?
+
+4
+
+CC
+
+Splosh//
+
+5
+
+C
+
+//Splish//
+
+6
+
+CC
+
+//Splosh//
+
+7
+
+T
+
+Splosh not splish. It’s got an ‘o’ in the middle. Splosh.
+
+8
+
+CC
+
+Splish splosh//
+
+9
+
+C
+
+//Splosh//
+
+10
+
+T
+
+Splosh it says. (Reading) A dog, a pig, a cow, a bear, a monkey, a donkey, all in the –
+
+11
+
+T
+
+& CC Air
+
+12
+
+T
+
+((Showing pictures)) There’s the dog and the pig and the cow and the bear and the monkey and the donkey all in the air. What are they in the air in?
+
+13
+
+CC
+
+()//
+
+14
+
+T
+
+//Put up your hand if you know. Vicky. ((Buzz of children trying to get in))
+
+15
+
+C
+
+The cow’s popped it.
+
+16
+
+Vicky
+
+// A hot air balloon.
+
+17
+
+T
+
+A hot air balloon.
+
+18
+
+C (as 15) 
+
+The cow’s popped it.
+
+19
+
+T
+
+What’s the cow popped it with?
+
+20
+
+CC
+
+Horn//horn//ear//horn//his horn.
+
+21
+
+T
+
+His horn – it’s not his ear is it – his ears//
+
+22
+
+CC
+
+((Laughing))//
+
+23
+
+T
+
+are down here. It’s his horn that’s sticking up.
+
+24
+
+CC
+
+((Laughing))
+
+25
+
+T
+
+What does this mean then? ((showing stylized drawings of air escaping))
+
+26
+
+C
+
+Air’s coming out//
+
+27
+
+C
+
+//Air//
+
+28
+
+T
+
+The air coming out of the balloon isn’t it. Can you really see the air coming out of a balloon?
+
+29
+
+CC
+
+No. No. No.
+
+30
+
+T
+
+No – very often in cartoons it looks like that doesn’t it.
+
+31
+
+C
+
+I can see gas coming out of my mouth when I () on the windows.
+
+32
+
+T
+
+When can you see it?
+
+33
+
+C
+
+When it’s steamed up.
+
+34
+
+T
+
+Yes. And if//
+
+35
+
+C
+
+//When it’s cold.
+
+36
+
+T
+
+When it’s cold. When you hhh//
+
+37
+
+C
+
+//When your breath – when your breath turns over and it steams on the – steams on the window.
+
+38
+
+T
+
+Yes//
+
+39
+
+C
+
+And it//
+
+40
+
+T
+
+But only when it’s –
+
+41
+
+CC
+
+Cold.
+
+42
+
+T
+
+Cold. Only when it’s cold.
+
+43
+
+C
+
+I saw a airship.
+
+44
+
+T
+
+Did you. When? Where?
+
+45
+
+C
+
+On the park.
+
+46
+
+T
+
+Really.
+
+47
+
+CC
+
+I have // I saw// Mrs. Cummings
+
+48
+
+T
+
+Shh – Yes, Luke.
+
+49
+
+Luke
+
+When we – when the airship was aft – when it was finished and the Pope was on we took the telly outside – and – we took the telly outside – and – and we saw – we saw the good old airship.
+
+50
+
+T
+
+Did you.
+
+51
+
+Luke
+
+An air balloon as well.
+
+52
+
+T
+
+It’s not good old airship – it’s Goodyear – the Goodyear airship.
+
+53
+
+CC
+
+Good year // Mrs. Cummmings
+
+54
+
+T
+
+Good year. Yes.
+
+55
+
+C
+
+I seed the airship. ((Many children talking at once))
+
+56
+
+T
+
+Just a moment because I can’t hear Luke because other people are chattering. You’ll have your turn in a minute.
+
+57
+
+Luke
+
+I said Mummy, what’s that thing with the ‘X’ on the back and she didn’t answer me but when I () it off () an air balloon.
+
+58
+
+T
+
+Yes. It was an airship. Yes. Actually I think we saw it at school one day last summer, didn’t we.
+
+59
+
+CC
+
+Yes.
+
+60
+
+T
+
+We all went outside and had a look at it. It was going through the sky.
+
+61
+
+CC
+
+()//
+
+62
+
+Luke
+
+Mrs Cummings //
+
+63
+
+C
+
+()
+
+64
+
+T
+
+Uuhm – Ben
+
+65
+
+Ben
+
+I remember that time when it came () over the school.
+
+66
+
+T
+
+Did you. Y-//
+
+67
+
+Ben
+
+//() the same one came over my house when I went home.
+
+68
+
+T
+
+Yes. Paul.
+
+69
+
+Paul
+
+I went to a airship where they did //
+
+70
+
+Luke
+
+//It flew over my house ()//
+
+71
+
+T
+
+//Just a moment Paul because Luke is now interrupting. We listened to him very carefully. Now it’s his turn to listen to us.
+
+72
+
+Paul
+
+I went to see a airship where they take off and when I – when I got there I saw () going around.
+
+73
+
+T
+
+Oh . . . What keeps an airship up in the air?
+
+74
+
+CC
+
+Air//air//gas//
+
+75
+
+Luke
+
+Mrs Cummings.
+
+76
+
+T
+
+Air or gas. Yes. If it’s air, it’s got to be hot air to keep it up – or gas. Now put your hands down for a minute and we’ll have a look at the rest of the book. ((Reading)) Help said Pig. There he is saying help. ((There is a cartoon-like ‘bubble’ from his mouth with ‘help’ written in)) Help said –
+
+77
+
+CC
+
+Monkey
+
+78
+
+T
+
+Help said donkey. It’s gone wonky.
+
+79
+
+CC
+
+h-h-h ((untranscribable talk from several children))
+
+80
+
+T
+
+Look as though it had gone wonky once before. What makes me say that?
+
+81
+
+C
+
+Because – because there’s – something on the balloon.
+
+82
+
+T
+
+Mmm. There’s already a patch on it isn’t there to cover a hole ((reading)) A bear, a cow, a pig, a dog, a donkey and a monkey all – in – a – and this is the word you got wrong before – all in a –
+
+83
+
+C
+
+Bog
+
+84
+
+T
+
+Bog – Who said it said dog at the end and it shouldn’t?
+
+85
+
+James
+
+Me.
+
+86
+
+T
+
+James! James, what does it start with?
+
+87
+
+James
+
+‘b’ for ‘bog’.
+
+88
+
+T
+
+‘b’. It only goes to show how important it is to get them the right way round//
+
+89
+
+C
+
+//Toilet//
+
+90
+
+T
+
+No. I don’t think it means toilet.
+
+91
+
+CC
+
+((Laughter))
+
+92
+
+T
+
+I don’t think they’re in a toilet.
+
+93
+
+CC
+
+((Laughter))
+
+94
+
+T
+
+What’s a bog when it isn’t a toilet?
+
+95
+
+Gavin
+
+My brother call it the bog.
+
+96
+
+T
+
+Yes. Lots of people do – call a toilet a bog but I don’t think that’s what this means.
+
+97
+
+Paul
+
+(fall in) something when – when it sticks to you.
+
+98
+
+T
+
+Yes, you’re quite right Paul. It’s somewhere that’s very sticky. If you fall in its very sticky //
+
+99
+
+C
+
+()
+
+100
+
+T
+
+It’s not glue.
+
+101
+
+C
+
+It’s called a swamp.
+
+102
+
+T
+
+Swamp is another word for it, good boy – but it’s not glue, it’s usually mud or somewhere. It’s usually somewhere – somewhere in the countryside that’s very wet. ((Many children talking))
+
+103
+
+C
+
+Mrs. Cummings what ()
+
+104
+
+T
+
+Just a moment you are forgetting to listen. You are remembering to think and to talk but you’re forgetting to listen and take your turn. Now Olga.
+
+105
+
+Olga
+
+Once my daddy –
+
+Let us explore the levels of analysis here. If we ask ‘what is being learned here by the children?’ there are several kinds of response. At a formal level, first, there is a curricular response: the children are learning a little bit of language (reading, speaking, listening, vocabulary, spelling, letter orientation (e.g. ‘bog’ and ‘dog’)), science (condensation, hot and cold, hot air rising, hot air and gas-filled balloons) and soil (a muddy swamp). That concerns the academic curriculum, as it were.
+
+However, at a second level the children are learning other aspects of development, not just academic but personal, social, emotional and interpersonal, for example turn-taking, cooperation, shared enjoyment, listening to each other, contributing to a collective activity, taking risks with language (the risqué joke about the word ‘bog’ with its double-entendre of a swamp and an impolite term for a toilet).
+
+At a third level one can notice language rights in the classroom. Here the text usefully provides numbered lines to assist analysis and to preserve the chronology of events. One can observe the following, using a closer textual analysis:
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/016_box.jpg | image]
+ A great deal of the conversation follows the sequence of teacher ⟶ student ⟶ teacher ⟶ student and so on (e.g. lines 28-48).
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/017_box.jpg | image]
+ It is rare for the sequence to be broken, for instance teacher→student→student (e.g. lines 3-7 and 14-16).
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/018_box.jpg | image]
+ Where the sequence is broken, it is at the teacher’s behest, and with individual children only (lines 48-52, 64-9, 84-8, 94-8).
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/019_box.jpg | image]
+ Where the conventional sequence is broken without the teacher’s blessing the teacher intervenes to restore the sequence or to control the proceedings (lines 54-6, 70-1, 103-4).
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/020_box.jpg | image]
+ It appears that many of the 27 children are not joining in very much -the teacher only talks directly to, or encourages to talk, a few named children individually: Vicky, Luke, Ben, Paul, James and Olga.
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/021_box.jpg | image]
+ There are almost no instances of children initiating conversations (e.g. lines 43, 65, 101); most of the conversations are in response to the teacher’s initiation (e.g. lines 3, 11, 20, 25, 28, 32, 34, 36, etc.).
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/022_box.jpg | image]
+ The teacher only follows up on a child’s initiation when it suits her purposes (lines 43-6).
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/023_box.jpg | image]
+ Nearly everything goes through, or comes from the teacher who mediates everything.
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/024_box.jpg | image]
+ Where a child says something that the teacher likes or is in the teacher’s agenda for the lesson then that child is praised (e.g. lines 34, 42, 54, 58, 76 and 96, 98 (the word ‘yes’), 102) and the teacher repeats the child’s correct answer (e.g. lines 16–17, 20–1, 29–30, 35–6, 41–2).
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/025_box.jpg | image]
+ The teacher feeds the children with clues as to the expected answer (lines 10–11, 40–1, 76–7, 82–3).
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/026_box.jpg | image]
+ Where the conversation risks being out of the teacher’s control the teacher becomes much more explicit in the classroom rules (e.g. lines 56, 71, 104).
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/027_box.jpg | image]
+ When the teacher decides that it is time to move on to get through her agenda she closes off further discussion and moves on (line 76).
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/028_box.jpg | image]
+ The teacher is prepared to share a joke (lines 90–3) to maintain a good relationship but then moves the conversation on (line 94).
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/029_box.jpg | image]
+ Most of the conversation, in speech act terms, is perlocutionary (achieving the teacher’s intended aim of the lesson) rather than illocutionary (an open-ended and free-range, multi-directional discussion where the outcome is unpredictable).
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/030_box.jpg | image]
+ The teacher talks a lot more than the children.
+
+At a fourth level, employing speech act theory we can see how some utterances in the conversation are intended not only to involve the children but thereby to control them. Lines 76, 82 and 102 show the teacher taking charge of the conversation by talking a lot – it has the effect of keeping the children quiet and of reining in the children’s talk: a perlocutionary speech act that reasserts classroom control through talk (and it is noticeable that this is later in the conversation rather than earlier, as the children may be starting to become restless). Then, in line 104, when that strategy has not worked so effectively the teacher takes a more overt control strategy and tells the children to listen and take turns.
+
+At a fifth level, one can begin to theorize from the materials here. It could be argued, for example, that the text discloses the overt and covert operations of power, to suggest, in fact, that what the children are learning very effectively is the hidden curriculum in which power is a major feature, for instance:
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/031_box.jpg | image]
+ The teacher has the power to decide who will talk, when they will talk, what they will talk about and how well they have talked (cf. Edwards, 1980).
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/032_box.jpg | image]
+ The teacher has the power to control a mass of children (27 children sitting on the floor whilst she, the teacher, sits on a chair, i.e. physically above them).
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/033_box.jpg | image]
+ The teacher controls and disciplines through her control of the conversation and its flow, and, when this does not work (e.g. lines 56, 71, 104) then her control and power become more overt and naked. What we have here is an example of Bernstein’s (1975) ‘invisible pedagogy’, e.g. where the control of the teacher over the child is implicit rather than explicit; where, ideally, the teacher arranges the context which the children are expected to rearrange and explore; where there is a reduced emphasis upon the transmission and acquisition of specific skills.
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/034_box.jpg | image]
+ What we have here is a clear example of the importance of the children learning the hidden curriculum of classrooms (Jackson, 1968), wherein they have to learn how to cope with power and authority, praise, denial, delay, membership of a crowd, loss of individuality, rules, routines and socially acceptable behaviour. As Jackson says, if children are to do well in school then it is equally, if not more important, that they learn, and abide by, the hidden curriculum rather than the formal curriculum.
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/035_box.jpg | image]
+ What we have here is also an example of Giddens’s (1976, 1984) structuration theory, wherein the conversation in the classroom is the cause, the medium and the outcome of the perpetuation of the status quo of power asymmetries and differentials in the classroom, reinforcing the teacher’s control, power and authority.
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/036_box.jpg | image]
+ The teacher has been placed in a difficult position by being the sole adult with 27 children, and so her behaviour, motivated perhaps benevolently, is, in fact, a coping or survival strategy to handle and manage the discipline with large numbers of young and demanding children – crowd control.
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/037_box.jpg | image]
+ The children are learning to be compliant and that their role is to obey, and that if they are obedient to a given agenda then they will be rewarded.
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/038_box.jpg | image]
+ The ‘core variable’ (in terms of grounded theory’) is power: the teacher is acting to promote and sustain her power; when it can be asserted and reinforced through an invisible pedagogy then it is covert; when this does not work it becomes overt.
+
+Now, one has to ask whether, at the fourth level, the researcher is reading too much into the text, over-interpreting it, driven by her own personal hang-ups or negative experiences of power and authority, and over-concerned with the issue of discipline, projecting too much of herself onto the data interpretation. Maybe the teacher is simply teaching the children socially acceptable behaviour and moving the conversation on productively, exercising her professional task sensitively and skilfully, building in the children’s contributions, and her behaviour has actually nothing to do with power. Further, one can observe at level four that several theories are being promulgated to try to explain the messages in the text, and one has to observe the fertility of a simple piece of transcription to support several grounded or pre-ordinate/pre-existing theories. The difficult question here is ‘which interpretation is correct?’. Here there is no single answer; they are all perhaps correct.
+
+The classroom transcription only records what is said. People will deliberately withhold information; some children will give way to more vocal children, and others may be off task. What we have here is only one medium that has been recorded. Even though the transcription tries to note a few other features (e.g. children talking simultaneously), it does not catch all the events in the classroom. How do we know, for example, whether most children are bored, or if some are asleep, or some are fighting, or some are reading another book and so on? All we have here is a selection from what is taking place, and the selection is made on what is transcribable.
+
+One can see in this example that the text is multilayered. At issue here are the levels of analysis that are required, or legitimate, and how analysis is intermingled with interpretation. In qualitative research, analysis and interpretation frequently merge. This raises the issues of validity and reliability. What we have here is a problem of the ‘double hermeneutic’ – as researchers we are members of the world that we are researching, so we cannot be neutral; we live in an already-interpreted world. More extensively Morrison (2003) suggests that the problem extends beyond this. Look at the example above:
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/039_box.jpg | image]
+ The teacher and the children act on the basis of their interpretations of the situation (their ‘definitions of the situation’).
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/040_box.jpg | image]
+ The lived actions are converted from one medium (observations, actions and live events) to another (written) by choosing to opt only for transcription – an interpretation of their interpretation.
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/041_box.jpg | image]
+ The researcher then interprets the written data (a third hermeneutic) and writes an unavoidably selective account (a fourth – quadruple – hermeneutic – an interpretation of an interpretation of an interpretation of an interpretation!).
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/042_box.jpg | image]
+ The reader then brings his/her own biography and background to interpret the researcher’s written interpretation (a fifth – quintuple – hermeneutic).
+
+Given the successive interpretations it is difficult not to suggest that reliability and validity can easily be compromised in qualitative research. Reflexivity as the disclosure of one’s possible biased interpretations does little to reduce them – I can state my possible biases and interpretations but that does not necessarily stop them from being selective and biased. This suggests, perhaps, the limits of reflexivity. In connection with increasing reliability and validity, reflexivity is not enough.
+
+31.3 A narrative discourse
+
+Discourse analysis looks for meanings and themes in texts. The second example of discourse analysis that follows, is of a narrative text that has been constructed from field notes into an ‘omniscient, authorial voice’ (Bruner, 2004: 702), a third-person, continuous narrative report. A narrative analysis reports personal experiences or observations and brings fresh insights to often familiar situations. It is strongly interpretivist, with meanings constructed through observations and language, indeed it is sometimes difficult to separate facts from observations, as many narratives can use data selectively and report them in non-neutral terms (as in the example that follows). As with other forms of discourse analysis, narrative analysis is rooted in a social constructivist paradigm in which behaviours and their meanings are socially situated and socially interpreted.
+
+Though this example is taken from Goffman’s (1968) Asylums (a study of a psychiatric hospital), nevertheless the ‘asylums’ – hospitals – bear many similarities to schools, particularly boarding schools, in being ‘total institutions’. By taking a non-school example here, it is intended to ‘make the familiar strange’ (Blumer, 1969): to make the familiar world of schools ‘strange’ to the researcher (i.e. to see schools with a new eye) by comparing them to another similar but also different institution.
+
+Goffman (1968: 17–19) writes that a total institution (e.g. a hospital, an army, a boarding school, a prison), is characterized by several features:
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/043_box.jpg | image]
+ The institution is convened for a specific purpose.
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/044_box.jpg | image]
+ All aspects of life take place in the same place and under the same single authority.
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/045_box.jpg | image]
+ Every part of the member’s normal daily activities takes place in the company of many others.
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/046_box.jpg | image]
+ All members are treated the same and are required to do the same things together.
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/047_box.jpg | image]
+ The daily activities are precisely and tightly scheduled by a controlling authority and officials, and through formal rules that are tightly enforced.
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/048_box.jpg | image]
+ The several activities are part of a single, overall plan that is intended to fulfil the aims of the organization.
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/049_box.jpg | image]
+ There is a division between the managers and the managed (e.g. the inmates and the hospital staff; the teachers and the students).
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/050_box.jpg | image]
+ The inmates have limited or no contact with the outside world but the officials do have contact with the outside world.
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/051_box.jpg | image]
+ Access to the outside world for inmates may be physically or institutionally restricted, controlled or forbidden.
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/052_box.jpg | image]
+ There is some antagonism between the two groups, who hold hostile stereotypes of each other and act on the basis of those stereotypes, often based on in equalities of power.
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/053_box.jpg | image]
+ Officials tend to feel superior and powerful whilst inmates tend to feel inferior and powerless.
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/054_box.jpg | image]
+ The cultures and cultural worlds of the officials and the inmates are separate.
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/055_box.jpg | image]
+ The two worlds – of officials and inmates – have limited penetration of each other.
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/056_box.jpg | image]
+ There is a considerable social distance between the two groups.
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/057_box.jpg | image]
+ Inmates tend to be excluded from knowledge of decisions made about them.
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/058_box.jpg | image]
+ Incentives (for work, behaviour) and privileges have greater significance within the institution than they would in the outside world.
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/059_box.jpg | image]
+ There are limited and formal channels of communication between the members of the two worlds.
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/060_box.jpg | image]
+ Release from the institution is often part of the privilege system.
+
+It can be seen that these features can apply to several different total institutions, of which schools are an example.
+
+Goffman (1968: 220–5) presents a narrative account of his field notes on the psychiatric hospital, synthesized into a single text.
+
+In everyday life, legitimate possessions employed in primary adjustments are typically stored, when not in use, in special places of safekeeping which can be gotten to at will, such as foot-lockers, cabinets, bureau drawers, and safe-deposit boxes. These storage places protect the object from damage, misuse, and misappropriation, and allow the user to conceal what he possesses from others. (p. 220).
+
+(pp. 222–5) When patients entered Central Hospital, especially if they were excited or depressed on admission, they were denied a private, accessible place to store things. Their personal clothing, for example, might be stored in a room that was beyond their discretionary use. Their money was kept in the administration building, unobtainable without medial and/or their legal agents’; permission. Valuable or breakables, such as false teeth, eyeglasses, wrist watches, often an integral part of body image, might be locked up safely out of their owners’ reach.
+
+Official papers of self-identification might also be retained by the institution. Cosmetics, needed to present oneself properly to others, were collectivized, being made accessible to patients only at certain times. On convalescent wards, bed boxes were available, but since they were unlocked they were subject to theft from other patients and from staff, and in any case were often located in rooms locked to patients during the day.
+
+If people were selfless, or were required to be selfless, there would of course be a logic to having no private storage places, as a British ex-mental patient suggests:
+
+I looked for a locker, but without success. There appeared to be none in this hospital; the reason soon [became] abundantly clear; they were quite unnecessary – we had nothing to keep in them – everything being shared, even the solitary face cloth which was used for a number of other purposes, a subject on which my feelings became very strong.
+
+But all have some self. Given the curtailment implied by loss of places of safekeeping, it is understandable that patients in Central Hospital developed places of their own.
+
+It seemed characteristic of hospital life that the most common form of stash was one that could be carried around on one’s person wherever one went. One such device for female patients was a large handbag; a parallel technique for a man was a jacket with commodious pockets, worn even in the hottest weather. While these containers are quite usual ones in the wider community, there was a special burden placed upon them in the hospital: books, writing materials, washcloths, fruit, small valuables, scarves, playing cards, soap, shaving equipment (on the part of men), containers of salt, pepper, and sugar, bottles of milk – these were some of the objects sometimes carried in this manner. So common was this practice that one of the most reliable symbols of patient status in the hospital was bulging pockets. Another portable storage device was a shopping bag lined with another shopping bag. (When partly full, this frequently employed stash also served as a cushion and back rest.) Among men, a small stash was sometimes created out of a long sock: by knotting the open end and twisting this end around a belt, the patient could let a kind of moneybag inconspicuously hang down inside his trouser leg. Individual variations of these portable containers were also found. One young engineering graduate fashioned a purse out of discarded oilcloth, the purse being stitched in separate, well-measured compartments for comb, toothbrush, cards, writing paper, pencil, soap, small face cloth, toilet paper – the whole attached by a concealed clip to the underside of his belt. The same patient had also sewn an extra pocket on the inside of his jacket to carry a book. Another male patient, an avid newspaper reader, invariably wore a suit jacket, apparently to conceal his newspapers, which he carried folded over his belt. Still another made effective use of a cleaned-out tobacco pouch for transporting food; whole fruit, unpeeled, could easily be put in one’s pocket to be taken back to the ward from the cafeteria, but cooked meat was better being carried in a greaseproof stash.
+
+I would like to repeat that there were some good reasons for these bulky carryings-on. Many of the amenities of life, such as soap, toilet paper, or cards, which are ordinarily available in many depots of comfort in civil society, are thus not available to patients, so that the day’s needs had to be partly provided for at the beginning of the day.
+
+Fixed stashes, as well as portable ones, were employed, too; they were most often found in free places and territories. Some patients attempted to keep their valuables under their mattresses but, as previously suggested, the general hospital rule making dormitories off-limits during the day reduced the usefulness of this device. The half-concealed lips of window sills were sometimes used. Patients with private rooms and friendly relations with the attendant used their rooms as stashes. Female patients sometimes hid matches and cigarettes in the compacts they left in their rooms. And a favourite exemplary tale in the hospital was of an old man who was claimed to have hidden his money, $1,200 in a cigar box in a tree on the hospital grounds.
+
+It would be plain that some assignments also provided stashes. Some of the patients who worked in the laundry availed themselves of the individual lockers officially allocated only to non-patient workers. The patients who worked in the kitchen of the recreation building used the cupboards and the refrigerator as places in which to lock up the food and drink they saved from the various socials, and other indulgences they had managed to acquire.
+
+(Goffman, 1968: 220–5)
+
+The narrative account tells a story, quite a gripping, disturbing story in much more graphic detail than would be possible through the often decontextualized world of extracted, codified and reassembled data; the narrative makes the most of the virtues of a story: an account that ‘catches fire’ through the language used, that persuades, that is human, that is rich in detail and that tells a story. What is that story?
+
+At first sight the patients’ behaviour may seem very odd, they seem fixated on minute matters, they dress bizarrely, their clothing bulges with a range of objects that normal people would not carry around, they are obsessive about hoarding, they trust nobody and what they take so many pains to carry around is almost worthless. They might be rightly accused of not being in their right mind, and therefore that they are rightly incarcerated in the secure hospital so that they are no danger to themselves and to others. That is one version, one discourse.
+
+However, when one looks at the constructed narrative in detail, an alternative explanation can be offered, an alternative discourse is at work. Here one can see why their behaviour is as it is. For example, if we look at the descriptions of what the patients were experiencing we can observe:
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/061_box.jpg | image]
+ their personal clothing was available at the discretion of the staff;
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/062_box.jpg | image]
+ valuables were kept locked away from the patients;
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/063_box.jpg | image]
+ self-identification papers were held by the institution;
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/064_box.jpg | image]
+ cosmetics were made available only at certain times;
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/065_box.jpg | image]
+ everyday amenities of life in civil society were not available to the patients;
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/066_box.jpg | image]
+ bed boxes were kept unlocked;
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/067_box.jpg | image]
+ everything was shared;
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/068_box.jpg | image]
+ there were no free places;
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/069_box.jpg | image]
+ private spaces (dormitories) were off-limits during the day;
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/070_box.jpg | image]
+ individual lockers were for non-patients.
+
+What we see in both an actual and metaphorical sense is the stripping away of identity, personality, individuality, privacy, power, freedom, autonomy, humanity and decision making, and all by those with power over the inmates. Goffman (1968) terms this the processes of depersonalization and mortification. Nothing personal is left to the patients; nothing is private, nothing is safe.
+
+If we look at the vocabulary that Goffman has used in connection with the patients, we see very many terms about these same points: ‘stash’, ‘possessions’, ‘protect’, ‘conceal’, ‘stored’, ‘storage’, ‘safekeeping’, ‘valuables’, ‘hidden’, hid’, ‘half-concealed’, ‘lock up’, ‘containers’, ‘saved’. They have actual and metaphorical meaning: at both an actual and metaphorical level the patients are trying to retain their lost personalities, identities, rights, autonomy and freedoms, even their sanity. It is little wonder, then, that metaphors of storage, protection, privacy, keeping things safe and containment become realized in practice. Indeed it could be argued that, far from being disturbed or out of their minds, the patients were behaving very sanely and sensibly in an insane or disturbing situation. How often do we find the same situation in schools, where students behave very sensibly in the face of extreme or unacceptable behaviour by teachers (but often the blame is placed on ‘disruptive’ students who dare to disrupt the disruptively power-and-control oriented, boring and dominatory behaviour of teachers)? Sanity and madness are, to some degree perhaps, a social construct rather than an objective reality.
+
+Descriptive data in this narrative form enable the researcher to understand the situation vividly from the perspective of the participants – their ‘definition of the situation’. The hospital staff might have put a very different interpretation on their own behaviour, arguing that they were removing sources of distress and danger from the patients, and caring for them very extensively. That may be true also; reality is multifaceted. Through an analysis of the narrative, the descriptive data help the researcher to explain why situations are the way that they are. In fact one could argue that the patients are behaving very rationally and reasonably in an unreasonable, power-stripping and depersonalizing situation, even though their behaviour at first might seem strange.
+
+The extract is powerfully written; the structured silence on the less antagonistic or depersonalizing behaviour of the staff and the regime is presented highly selectively, if at all, but the force of the narrative is the stronger for this. The well-chosen examples of the hiding of even everyday objects are given extraordinary semiological, symbolic power in indicating how power reaches right to the heart of commonplace, almost taken-for-granted matters. The narrative is a well-worked example of how the taken-for-granted, everyday world and its artefacts can have extraordinary meaning in certain contexts. When these everyday objects are used to make grotesque shapes in the clothing of the patients, rendering them instantly recognizable as patients by their freakish garb, the contrastive power of this juxtaposition is startling. Whilst this is not the place to go into semiotics, narrative analysis can use semiotic analysis – the interpretation of signs and symbols as signifiers of meaning – as one of its strategies.
+
+In examining the narrative, the researcher can look for what is happening, what are the main features that are being reported, why the behaviours were as they were (and on what basis of evidence the researcher is making that judgement), what other inferences and explanations might be made of the data provided, and what other data might be needed to support or refute the inferences and explanations given.
+
+31.4 Autobiography
+
+Bruner (2004) argues that we regard ‘lived time’ as a narrative (p. 692), a story that has meaning for us and which shapes our lives (as he remarks: ‘we become the autobiographical narratives by which we “tell about” our lives’ (p. 694); our own stories direct our future lives (p. 708)). As Eisner (1997: 6) puts it: ‘first, we tell stories. Stories have particular features. Stories instruct, they reveal, they inform in special ways.’ Or, as Sartre (1964: 39) writes: ‘a man [sic] is surrounded by his own stories and those of others, and he sees everything that happens to him in terms of these stories and he tries to live his life as if he were recounting it’. Indeed Plummer (1995; 2001) argues that an essential feature of being human is our creation of stories to ourselves and others, and that these are essential features of research enquiry.
+
+An autobiography is, as Bruner (2004: 693) writes, ‘a privileged but troubled narrative because it is both subjective and objective, reflective and reflexive, and in which the narrator is also the central figure’. Given this, an autobiographical narrative, for all it is multilayered and selective, can be deconstructed at many levels: personal, cultural, interpersonal, ideological, linguistic and so on. It has facts, themes, actors, a sequence, agency, coherence, situatedness and a sense of audience, all of which are elements of a true discourse as set out at the start of this chapter.
+
+In the example that follows, the fictitious autobiography tells a personal story in a highly selective and authentic way. Imagine that the researcher had asked the teacher to write a brief autobiography of his experiences as a teacher; what we have here is the teacher’s own views, and this indicates the significance that the writer gives to the events selected.
+
+I had always wanted to teach music to secondary school students. I had played in a school band when I was at secondary school, and had taken piano lessons for ten years, and had passed all the Grades, and I thought that it would be really good to teach. I thought it would be good for students to be exposed to the great classics, or modern music, and I thought that it would be even better if I could teach them how to read, write and compose music. I thought that this would be particularly interesting for downtown kids who had not had access to such music, so I was keen to work in an inner city school.
+
+I had been working in business for 25 years, ten years with a printing company and then 15 years in a commercial company selling paper products. But I felt dissatisfied with my life, so I decided to do what I had always wanted to do, which was to train to be a secondary school music teacher. So I discussed it with my family and gave up my job to take a teacher training course. I was very keen and worked hard on my studies.
+
+I was very happy when the course began; we were introduced into all sorts of ways in which students could learn to write, read and play music, how they could work in pairs and groups to devise musical compositions, how to read non-standard musical scores, how to use the electronic instruments that had not been around when I was at school, and how to teach students to appreciate all different kinds and genres of music.
+
+I passed my course and went to a downtown school. What a total let down! The students didn’t care about music – they saw it as a waste of time and boring. They thought that the music syllabus was old fashioned, that it did not represent the music that they were interested in. All they wanted to do was to play their own downloads of the latest music releases and albums from the ridiculous groups and so called ‘artists’ which they had seen gyrating sexily on the television, to the whole class. When I tried to change the activities, so that they were playing musical instruments and composing their own music, they either just made a whole lot of noise with them, and the din was awful, or they thought that the instruments and the activity were just babyish, so they did nothing except fooling around in the class. Everything that I had been taught about discipline in my teacher training didn’t work. At first I thought that it was that my class control wasn’t very good, so I asked my mentor how to improve this, but it did not help – the students just sat and laughed, shouted, or refused to do anything.
+
+So I tried a different approach – I told them that they had to learn several musical ‘facts’ such as information about the lives of composers and the names of pieces of music of certain composers. In fact this wasn’t so much a music lesson as a reading lesson. I told them that I was going to give them a test on this, and that those who didn’t score highly enough on the test would be punished. I thought that by making the lesson more like a ‘high status’ area of the curriculum, and coupled this with a test, it would make the students take this more seriously, but it didn’t. All they said was that they didn’t care, that music was a waste of time, and that it wouldn’t help them to get a job. I felt very frustrated.
+
+It didn’t get better and I was worn out, stressed, and felt as if I were in a job that was completely unrewarding. So, in the end I looked for job in a private secondary all-boys boarding school, thinking that at least the students would be more motivated and well behaved. I was hopeful and felt good. I got a job in a small private secondary school where the students had to learn a music instrument at school, as well as taking class music lessons. I hoped that this would be the answer, and that I would be happy again and able to teach ‘real’ music.
+
+However, I quickly found out that this wasn’t the solution. Whilst some of the students were motivated and very nice indeed, some of them were arrogant and treated me as a hired servant whom they could control by threatening to report me to the Senior Teacher if I raised my voice to them or set them too much work to do. I felt insulted.
+
+I didn’t like their attitude to me or to the subject – I had been told to follow a more traditional curriculum, and I was very happy to do this, but I found that the students thought that the music lessons were ‘beneath their dignity’, trivial, and ‘tame’ compared to the other subjects on the curriculum. In turn, at first I thought that they were just upper class ‘Sloane Rangers’ [a young, fashionable, upper-class or would-be upper class person who has a superior attitude and self-confident manner, who is wealthy, privately educated, privileged, brash, indulgent, with an expensive lifestyle and high living, a love of country sports, and even a shared way of speaking], and I humoured them, but, the longer it went on the more it irritated me, as I felt that they were looking down on me and on the music lessons.
+
+In fact they weren’t all like that, and some of them were from poor, middle class and working class homes, whose parents wanted to give their children the chances that had not been available to them, and some students had been thrown out of other schools and had been put into this school by anxious and overwrought parents or by parents who were at their wits end in trying to cope with their badly behaved child. These students continued to be badly behaved, but I was told to ‘put up with it’, as they brought in a lot of money to the school.
+
+I couldn’t take it. One day I exploded with them. I insulted them very strongly, called them all upper class idiots, called the others ‘layabouts’, shouted that they should treat teachers with a shred of decency, and basically ‘lost it’. The class laughed loud and long – they had won. I left the class and walked out of the job.
+
+I feel very dispirited and let down. I feel as though I have a lot to offer to teaching, but there’s no way I can offer it under the present system, so I’m getting out. I’m going back to find another job in business and maybe I’ll do some part-time music tuition and give piano lessons in the evenings, with motivated kids and in a situation that is under my control, and where my students will learn something other than how to behave badly.
+
+The autobiography has several themes (and themes or leitmotivs are a feature of narratives): optimism turning to resentment turning to disillusionment; positive to negative; empowerment turning to disempowerment; dreams turning to dust; power shifts (from the writer to the students); achievement and loss; aspiration turning to deterministic frustration; ignorance turning to knowledge; power turning to loss of control; false expectations to growing realism; and so on.
+
+Further, we can observe that the narrative employs a chronological, linear sequence which is interrupted only very occasionally to break off into reflection or comment. The writer has chosen to focus on critical events and decisive moments, all of which are autonomously chosen and life-changing. This is an existential, journey in which agentic choice struggles to realize itself as planned and which, in the end, leads to resignation in several senses.
+
+If we examine the text we can observe the overwhelming preponderance of the active rather than the passive voice – here is a writer who is existentially alert. We can note the absence of metaphor, the emphasis on the ‘facts’ of the events, and a ‘no nonsense’ approach to getting on with life (albeit selectively chosen and interpreted) rather than reflections, indeed it is only towards the end of the extract that we can detect a sense of deeper reflection in the writer – that the writer has learned from experience and the reflection on that experience, and has gained a truer knowledge of the ‘real’ rather than the perceived or desired situation.
+
+We can note the presence of many stative verbs, phrases and their accompanying adjectives to indicate feelings: ‘I thought it would be good’; ‘I thought it would be even better’; ‘I felt dissatisfied’; ‘I was very keen’; ‘I felt very frustrated’; ‘I was in a job that was completely unrewarding’; ‘I was hopeful and felt good’; ‘I didn’t like’; ‘I felt insulted’; ‘I felt that they were looking down on me’; ‘I feel very dispirited and let down.’ Here is a writer who is seeking authenticity, self-realization, emotional fulfilment, who is concerned with feelings.
+
+One interpretation of the texts is that it reveals a writer who seeks control and the realization of a personal agenda for happiness; when this is challenged, he finds it hard to come to terms with the situation, to accept it or to accommodate to it. Points of conflict chart the movement in the text from ‘me’ to ‘them’, from the writer’s agenda to the student. The word ‘I’ is used 54 times in the extract, whereas the word ‘them’ occurs only 15 times. Indeed one can suggest that using the contrast of ‘I’ and ‘them’ can denote a perhaps antagonistic stance of the writer, a significant divide between the teacher and the student, a power struggle for control of the agenda. Indeed the word ‘them’ occurs more frequently whenever things are going wrong for the writer.
+
+We can see a distinctly sympathetic choice of prose, in which the writer’s own situation is presented sympathetically and in which the report on the students is almost entirely negative: they are the ones who ‘let down’ the writer, who ‘didn’t care’ about music, who only wanted to play ‘music from the ridiculous groups and so called “artists” which they had seen gyrating sexily on the television’, who ‘did nothing except fooling around’, who ‘just made a whole lot of noise’ and ‘just sat and laughed’ or who were ‘just upper class Sloane Rangers’ (note the use of the word ‘just’ – a negative term here), who didn’t take the lesson seriously, and so on. The pejorative tone of the writer – sympathetic to one party and highly unsympathetic to the others – constitutes a very one-sided text. Indeed, as Riessman (1993) remarks, silence – what is not spoken or included, what is left out – is as important as what is said or included. The question is whether this is a problem, as the text is authentic, strong in reality and revealing of the intense emotions at play in the situation; that surely catches the ‘quality’ of the situation so prized by qualitative research.
+
+There are a few tell-tale verbs: the early part of the text includes positive, hopeful verbs such as ‘wanted’, ‘worked hard’, ‘passed’, whereas by the final paragraph we have the dramatic verbs ‘getting out’, ‘going back’ (the use of ‘back’ is perhaps a sign of defeat and a retrograde step).
+
+Do we have sympathy with the writer? Do we think that the writer is a ‘control freak’ who deserves to come to the kind of self-knowledge that becomes clear by the end of the extract? Did the writer simply receive his just desserts or were the outcomes undeserved and a pity? Did the writer deserve what happened? Has the writer really taken any account of the students? Do we think that the writer has been treated badly by the students? Is the writer controlled, weak, strong, too strong, too controlling a person?
+
+This is one reading of the text. But a discourse permits many interpretations. The interpretation above has operated at the level of the personal perspective of the writer, and has suggested that issues of power, control and self-realization feature strongly in the text. An alternative reading is that this is an accurate and authentic account of a horrible situation in which a decent, hard-working and committed person is treated very badly by two groups of distasteful students. Another reading could focus on the quality and contents of teacher training and false aspirations that the teacher training might have led the writer to hold. Another reading might be of the text as an insight into the problems of teaching, e.g. indicating that teachers face huge problems of stress, disruptive behaviour and appalling treatment by students, that these constitute a major reason for the flight out of teaching and problems of teacher recruitment and retention, and that there are insufficient support systems for teachers in school. Another reading might be that of social class in education, and the perpetuation of deep-seated class structures through the provision and uptake of different kinds of schooling, curricula and education. We bring our own agenda to the reading and deconstruction of texts. Texts are multilayered.
+
+And who is the writer? Is the writer male, female, young, old, single, in a relationship, living with parents or living alone, able-bodied or disabled, easy-going, temperamental, outgoing, introverted, sociable or antisocial, politically left-wing or right-wing, working class or middle class, and with what views on education and music, and so on? We don’t know. Perhaps if we had known some of these details our reading of the text would have been different.
+
+31.5 Conclusion
+
+This chapter has introduced alternatives to coding and the collation of segmented data in qualitative data analysis. It has suggested that the holism of complete texts can constitute discourses, and that variants of discourse analysis have to recognize that discourses and texts are multilayered and open to a range of interpretations and deconstructions. The chapter has given three different examples of these, selected not only for their content but also for their exemplification of three main kinds of discourse: a conversation, a narrative text and an autobiographical extract. Discourse analysis has been seen to have many meanings, included in which is the recurrent theme of power and its operations (Foucault, 1998; Fraser, 2004). Whilst discourses have the attraction of emic research, authenticity and rich language, the researcher has to be mindful not only of the effects of this on the reader, but of the reader’s own effects on the text. As Riessman (1993: 70) explains, how a person relates his or her story ‘shapes how we can legitimately interpret it’. The chapter has indicated that analysis of narrative, discourse-based data has to attend to the fine-grained details of texts (Potter and Wetherell, 1994: 58), together with situating these in the social context and milieu in which they are set (e.g. Clifton, 2006). In combining different narratives, patterns, themes, similarities, commonalities and differences can be noted (Fraser, 2004), not only in content, but in terms of tone, style, register, genre, vocabulary, audience, settings, contexts, metaphors and intentions. Given this, there is no single privileged, definitive way of analysing discourse nor of the meanings that surface from it.
+
+[图片: images/047_31 Discourses_ conversations, narratives and autobiographies as texts/071_common.jpg | image]
+Companion Website 
+
+The companion website to the book includes PowerPoint slides for this chapter, which list the structure of the chapter and then provide a summary of the key points in each of its sections. This resource can be found online at www.routledge.com/textbooks/cohen7e.

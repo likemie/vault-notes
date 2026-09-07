@@ -6,7 +6,7 @@ aliases:
 summary: "被政治权力塑造成具有特定技能、行为取向和空间心态的人形集合，用于分析教育如何服务于国家竞争和地缘政治想象。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Hub and Flow Imaginaries]]"
 related_theories:
+  - "[[Human Capital Theory]]"
   - "[[Fixity-Motion Tension]]"
 related_methods:
   - "[[Ethnography]]"
@@ -128,7 +129,7 @@ Moisio 指出，这一主体形塑过程——"how this crafting of political su
 ## 概念辨析
 
 > [!example] 概念辨析
-> - vs 人力资本（Human Capital）：这是最关键的区分。人力资本概念的核心逻辑是"投资-回报"——个体通过教育获取技能，技能在市场上兑现为更高的工资。人力资本将教育问题框定为*效率*问题（如何最大化教育投资的经济回报）。地缘政治主体概念将教育问题重新框定为*权力*问题：国家通过教育系统在做什么？不是在分配投资机会，而是在*制造适应其竞争需求的人口类型*。前者问"教育值不值得花钱"，后者问"教育在把学生变成什么样的人，这种转变服务于谁的议程"
+> - vs [[Human Capital Theory|人力资本]]（Human Capital）：这是最关键的区分。人力资本概念的核心逻辑是"投资-回报"——个体通过教育获取技能，技能在市场上兑现为更高的工资。人力资本将教育问题框定为*效率*问题（如何最大化教育投资的经济回报）。地缘政治主体概念将教育问题重新框定为*权力*问题：国家通过教育系统在做什么？不是在分配投资机会，而是在*制造适应其竞争需求的人口类型*。前者问"教育值不值得花钱"，后者问"教育在把学生变成什么样的人，这种转变服务于谁的议程"
 >
 > - vs 创意阶层（Creative Class, Florida, 2002）：创意阶层是[[Knowledge-Based Economy|知识经济]]中的一种特定理想主体类型——强调[[Creativity|创造力]]、生活方式偏好和文化消费；地缘政治主体是更广义的分析范畴，涵盖国家通过教育和制度实践系统性地塑造的各类适应全球竞争的主体性形态。创意阶层可以是地缘政治主体的一种具体变体（参见下文关于"创意创业者"的讨论），但地缘政治主体不一定都是"创意阶层"——一个被训练为全球金融服务业员工的毕业生同样是地缘政治主体
 >

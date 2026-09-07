@@ -1,0 +1,860 @@
+30 Coding and content analysis
+==============================
+
+Coding and content analysis
+
+CHAPTER 30
+
+Many researchers who have gathered qualitative data undertake forms of content analysis. This chapter addresses coding and content analysis. It provides a straightforward introduction to key issues in coding and content analysis, including:
+
+[图片: images/046_30 Coding and content analysis/001_box.jpg | image]
+ coding
+
+[图片: images/046_30 Coding and content analysis/002_box.jpg | image]
+ what is content analysis?
+
+[图片: images/046_30 Coding and content analysis/003_box.jpg | image]
+ how does content analysis work?
+
+[图片: images/046_30 Coding and content analysis/004_box.jpg | image]
+ a worked example of content analysis
+
+[图片: images/046_30 Coding and content analysis/005_box.jpg | image]
+ reliability in content analysis
+
+One of the enduring problems of qualitative data analysis is the reduction of copious amounts of written data to manageable and comprehensible proportions. Data reduction is a key element of qualitative analysis, performed in a way that attempts to respect the quality of the qualitative data. One common procedure for achieving this is content analysis, a process by which the ‘many words of texts are classified into much fewer categories’ (Weber, 1990: 15). The goal is to reduce the material in different ways (Flick, 1998: 192). Categories are usually derived from theoretical constructs or areas of interest devised in advance of the analysis (preordinate categorization) rather than developed from the material itself, though these may be modified, of course, by reference to the empirical data. Before we turn to content analysis, it is important to consider the matter of coding, and we address this in the next section.
+
+30.1 Coding
+
+A major feature of qualitative data analysis is coding (e.g. Strauss and Corbin, 1990; Kelle, 1995: 62–104; Gibbs, 2007: 38–55; Flick, 2009: 305–32). There are several kinds of codes (e.g. Lonkila, 1995; Strauss and Corbin, 1990; Kelle, 1995: 62–104; Gibbs, 2007: 38–55; Flick, 2009: 305–32) and we explore these below. Texts may be lightly coded or densely coded (e.g. where a single piece of text has several codes attached to it). A code is simply a name or label that the researcher gives to a piece of text that contains an idea or a piece of information. Gibbs (2007: 38) catches the nature of a code neatly when he writes that the same code is given to an item of text that says the same thing or is about the same thing. Seidel and Kelle (1995) suggest that codes can denote a text, passage or fact, and can be used to construct data networks.
+
+Coding has been defined by Kerlinger (1970) as the translation of question responses and respondent information to specific categories for the purpose of analysis. Coding is the ascription of a category label to a piece of data, that is either decided in advance or in response to the data that have been collected. Newby (2010: 467) refers to this as ‘tagging’. The same piece of text may have more than one code ascribed to it, depending on the richness and contents of that piece of text.
+
+Coding enables the researcher to identify similar information. More than this, it enables the researcher to search and retrieve the data in terms of those items that bear the same code. Codes can be regarded as an indexing or categorizing system, akin to the index in a book, which gives all the references to that index entry in the book, and the data can be stored under the same code, with an indexed entry for that code. A list of codes can be stored, accompanied by data such as who coded the data, when the coding was undertaken and what the code means (Gibbs, 2007: 41).
+
+Coding can be performed on many kinds of data, focusing on, for example (cf. Gibbs, 2007: 47–8): specific acts, conversations, reports, behaviours, events, interactions, activities, contexts, settings, conditions, actions, strategies, practices, tactics, meanings, intentions, states, symbols, participation, relationships, constraints, causes, consequences and issues concerning the researcher’s reflexivity. In short, nothing is ruled out.
+
+Codes can be at different levels of specificity and generality when defining content and concepts. There may be some codes which subsume others, thereby creating a hierarchy of subsumption – subordination and superordination – in effect creating a tree diagram of codes. Some codes are very general; others are more specific. Codes are astringent, pulling together a wealth of material into some order and structure. They keep words as words; they maintain context specificity. Codes may be descriptive and might include (Bogdan and Biklen, 1992: 167–72): situation codes; perspectives held by subjects; ways of thinking about people and objects; process codes; activity codes; event codes; strategy codes; relationship and social structure codes; methods codes. However, to be faithful to the data, the codes themselves derive from the data responsively rather than being created pre-ordinately. Hence the researcher will go through the data ascribing codes to each piece of datum. A code is a word or abbreviation sufficiently close to that which it is describing for the researcher to see at a glance what it means (in this respect it is unlike a number). For example, the code ‘trust’ might refer to a person’s trustworthiness; the code ‘power’ might refer to the status or power of the person in the group. This enables meanings to be seen at a glance, memorized and recalled easily.
+
+Miles and Huberman (1994) advise that codes should be kept as discrete as possible and that coding should start earlier rather than later as late coding enfeebles the analysis, though there is a risk that early coding might influence too strongly any later codes. It is possible, they suggest, for as many as 90 codes to be held in the working memory whilst going through data, though clearly, there is a process of iteration and reiteration whereby some codes that are used in the early stages of coding might be modified subsequently and vice versa, necessitating the researcher to go through a data set more than once to ensure consistency, refinement, modification and exhaustiveness of coding (some codes might become redundant, others might need to be broken down into finer codes). By coding up the data the researcher is able to detect frequencies (which codes are occurring most commonly) and patterns (which codes occur together).
+
+In coding a piece of transcription the researcher goes through the data systematically, typically line by line, and writes a descriptive code by the side of each piece of datum, for example:
+
+Text
+
+Code
+
+The students will undertake
+
+problem-solving in science
+
+PROB
+
+I prefer to teach mixed ability classes
+
+MIXABIL
+
+One can see here that the codes are frequently abbreviations, enabling the researcher to understand immediately the issue that they denote because they resemble that issue (rather than, for example, ascribing a number as a code for each piece of datum, where the number provides no clue as to what the datum or category concerns). Where they are not abbreviations, Miles and Huberman (1994) suggest that the coding label should bear sufficient resemblance to the original data so that the researcher can know, by looking at the code, what the original piece of datum concerned. We give a full worked example of a coding exercise later in this chapter.
+
+There are several computer packages that can help the coder here (e.g. MAXqda, ATLAS.ti, NVivo, NUD*IST, Ethnograph), though they require the original transcript to be entered onto the computer. One such, Code-A-Text, is particularly useful for analysing dialogues both quantitatively and qualitatively (the system also accepts sound and video input).
+
+Although Miles and Huberman (1994) suggest that it is possible to keep as many as 90 codes in the working memory at any one time, they make the point that data might be recoded on a second or third reading, as codes that were used early on might have to be refined in light of codes that are used later, either to make the codes more discriminating or to conflate codes that are unnecessarily specific. Codes, they argue, should enable the researcher to catch the complexity and comprehensiveness of the data. Codes are derived through the dual processes of induction and deduction (p. 111); codes should be verifiable by data (p. 108).
+
+It is important for codes to be applied consistently, so that relevant data are coded consistently, that no data are excluded, that the same code is used. This enables retrieval, categorization, collation and separation of data (particularly if software is being used). Often, in the first coding attempt, many new codes are generated, and the subtlety of difference of codes may be unclear as the researcher goes further through the text, or the earlier codes may turn out to be unhelpful (e.g. too general), or the later codes may be too strongly influenced (or driven) by the earlier codes, or later coding may make the researcher feel that she or he wishes to alter the earlier coding, or there may be duplication or overlap of codes (e.g. the same kind of meaning but given slightly different codes), or there may be redundant codes (e.g. codes that only appear once or twice and which are more fittingly replaced by other codes in light of the remainder of the text). The point here is that coding is not a ‘one-off’ exercise; it requires reading and rereading, assigning and reassigning codes, placing and replacing codes, refining codes and coded data; the process is iterative and requires the researcher to go back and forth through the data on maybe several occasions, to ensure consistency and coverage of codes and data. Once the initial coding has been undertaken and checked then emergent themes, frequencies of codes, patterns of combinations of codes, key points, similarities and differences, variations and so on can be conducted, and we discuss these in this chapter and the next.
+
+Coding, argues Flick (2009: 310), can address fundamental questions such as ‘who’, ‘why’ ‘what’, ‘where’, ‘how’, ‘when’, ‘how long’, ‘how much’, ‘how strong’, ‘what for’ and ‘by which’. These, he suggests, are useful questions in steering the coding exercise, particularly for open coding (discussed below).
+
+There are different kinds of code: an open code, an analytic code, an axial code, a selective code, and we discuss these next. Though there is a suggestion in what follows that there is a temporal sequence in coding, this need not be the case, as the different codes are different procedures and operate at different levels, and these are not necessarily driven by time-order (Flick, 2009: 307).
+
+Open coding
+
+An open code is simply a new label that the researcher attaches to a piece of text to describe and categorize that piece of text (Strauss and Corbin, 1990: chapter 5). Open coding generates categories and defines their properties (the characteristics of a category or phenomenon or its attributes) and dimensions (the location of a property along a given continuum) (Strauss and Corbin, 1990: 69). Strauss and Corbin (1990: 70) give an example of the category/code ‘colour’, which has properties of hue, shade and intensity. These properties, in turn, have dimensions: hue can be light to dark; shade can be light to dark, and intensity from high to low. Each category can have several properties, each of which has its own dimensional continuum (p. 70). The authors give an example of properties and dimensions for the category/code/label ‘watching’ (p. 72): property: ‘frequency’; dimension: often to never; property: ‘extent’; dimension: more to less; property: ‘intensity’: dimension: high to low; property: ‘duration’: dimension: long to short.
+
+Coding is the process of breaking down segments of text data into smaller units (based on whatever criteria are relevant), and then examining, comparing, conceptualizing and categorizing the data (Strauss and Corbin, 1990: 61). The researcher goes through the text, marking the text with codes (labels) that describe that text. The code name might derive from the researcher’s own creation, or it may derive from the words used in the text or spoken by one of the participants in the transcribed data (e.g. if the participant remarks that she is bored with the science lesson, the code may be ‘bored’: a short term that catches the essence of the text in question).
+
+Open coding can be performed on a line-by-line, phrase-by-phrase, sentence-by-sentence, paragraph-by-paragraph or unit-of text-by-unit-of-text basis. Then the codes can be grouped into categories, with the categories given a title or name by the researcher, based on criteria that are decided by the researcher (e.g. concerning a specific theme, based on similar words, similar concepts, similar meanings, etc.). The title of the category should be more abstract than the specific concepts or contents of the codes that it subsumes (Strauss and Corbin, 1990: 69). In undertaking such grouping it is important that all the data fit into the group consistently, that there are no negative cases.
+
+Open coding is usually the earliest, initial form of coding undertaken by the researcher.
+
+Analytic coding
+
+As its name suggests, an analytic code is more than a descriptive code. It becomes more interpretive. For example, whereas ‘experimenting’, ‘controlling variables’, ‘testing’ and ‘measuring’ are descriptive codes (e.g. in describing science activities), an analytic code here could be ‘working like a scientist’, ‘doing science’ or ‘active science’; it draws together and gives more explanatory and analytic meaning to a group of descriptive codes.
+
+Another example might be where the descriptive codes given to teacher behaviour might be ‘ignores disruption’ (for when a teacher ignores disruptive behaviour), ‘interested students’ (for when a teacher only concentrates on those students who are interested in the lesson contents) and ‘no response’ (for when a teacher does not respond to students shouting in class). The category might be ‘teacher behaviour’ and the analytic – more inferential – code might be ‘teacher resignation’ or ‘teacher denial’.
+
+An analytic code might derive from the theme or topic of the research (e.g. Gibbs, 2007: 45), the literature, or, responsively, from the data themselves.
+
+Axial coding
+
+An axial code is a category label ascribed to a group of open codes whose referents (the phenomena being described) are similar in meaning (e.g. concern the same concept). Axial coding is that set of procedures that the researcher follows, whereby the data that were originally segmented into small units of fractions of a whole text are recombined in new ways following the open coding (Strauss and Corbin, 1990: 96). An axial code refers to (Strauss and Corbin, 1990):
+
+[图片: images/046_30 Coding and content analysis/006_box.jpg | image]
+ causal conditions: events, activities, behaviours or incidents that lead to the occurrence of a phenomenon (p. 100);
+
+[图片: images/046_30 Coding and content analysis/007_box.jpg | image]
+ a phenomenon: an event, idea, activity, action, behaviour, etc. (p. 100);
+
+[图片: images/046_30 Coding and content analysis/008_box.jpg | image]
+ context: a specific set of properties or conditions that obtain in a phenomenon, action or interaction (p. 101);
+
+[图片: images/046_30 Coding and content analysis/009_box.jpg | image]
+ intervening conditions: the broad, general conditions that have a bearing on the action or interaction in question (p. 103);
+
+[图片: images/046_30 Coding and content analysis/010_box.jpg | image]
+ actions and interactions: purposeful, goal-oriented processes, strategies or behaviours obtaining in an action (p. 104);
+
+[图片: images/046_30 Coding and content analysis/011_box.jpg | image]
+ consequences: outcomes for people, events, places, etc., which may or may not have been predicted, and which, in turn, may become the causes or conditions of further actions and interactions (p. 106).
+
+For a worked example of these six areas we refer readers to Buckley and Waring (2009), in which they diagrammatize the six areas and insert relevant data into them for their study of physical activity in children.
+
+Axial coding connects related codes and subcategories into a larger category of common meaning that is shared by the group of codes in question (thereby creating a hierarchy in which some codes are subsumed into the large axial category); an axial code, as its name suggests, is a category or axis around which several codes revolve.
+
+Axial coding works within one category, making connections between subgroups of that category and between one category and another. This might be in terms of the phenomena that are being studied, the causal conditions that lead to the phenomena, the context of the phenomena and their intervening conditions, and the actions and interactions of, and consequences for, the actors in situations.
+
+Selective coding
+
+Selective coding identifies the core categories of text data, integrating them to form a theory. It is the process of identifying the core category in a text, i.e. that central category or phenomenon around which all the other categories identified and created are integrated (Strauss and Corbin, 1990: 116), and to which other categories are systematically related and by which it is validated. Strauss and Corbin (1990) argue that, in fact, a selective code is very similar to an axial code, except that it is at a greater level of abstraction than an axial code. Creating the selective code requires: (a) a deep understanding of the main ‘story line’ (p. 117) (the descriptive overview of the main phenomenon being described and analysed, and its salient features); then moves to (b) creating the core category; then (c) relating categories at the level of the dimensions identified; then (d) validating those relations in terms of the data that gave rise to them; and then (e) filling in any gaps in categories (pp. 116–17) to ensure the ‘conceptual density’ (p. 141) of the category, based on data collected. Though set out in a linear sequence, the authors indicate that, in fact, the process is iterative, and researchers move back and forth between the steps (a) to (e).
+
+Once codes have been assigned, ordered and grouped, they can be structured into hierarchies of sub-sumption, in which lower order (e.g. descriptive codes) are subsumed under analytic and axial codes, which, in turn, are subsumed under a selective code. Hierarchies order codes and keep them tidy (Gibbs, 2007: 75), and, indeed, the creation of a hierarchy is, itself, part of data analysis, as the researcher ascribes meanings to the data. This is a pre-eminent function of CAQDAS software, in the creation of nodes, node trees and hierarchies. The advice from Gibbs (2007: 77) is to keep hierarchies ‘shallow’ rather than ‘deep’, i.e. not too many levels. It is important, too, to ensure that the data contained in each code at each level are consistent with each other, hence the researcher has to constantly check and make comparisons across the data (the ‘constant comparison’ of grounded theory (Glaser and Strauss, 1967)) to ensure that they all fit together, with no exceptions or disconfirming data. Gibbs (2007: 78–83) suggests that this can be done easily with tabulated data, and Chapter 29 provides examples of this, where data in columns can be compared or data in rows can be compared, to look for consistency, patterns, commonalities, relationships, similarities and differences (e.g. Tables 29.1 to 29.4). In such tabulated data (often where individuals are the rows and the issue is the column, it is possible to examine and compare individual cases (the rows) and different interpretations of the issues (the columns), for example Table 30.1, with fictitious data from a primary school.
+
+In this example, looking across the rows we can see that the children have positive attitudes but their interest is thwarted by distractions, lack of ‘voice’ and level of demand in the lessons; they all prefer practical work but this is not always done. One child seems to be more accommodating to the teacher’s decisions than the other two, and one seems to be much less accommodating, i.e. there is variation on this dimension. Looking down the columns, we see very different attitudes within and between the two lessons. The table enables comparisons to be made, looking for similarities, differences, consistencies and inconsistencies, variations and homogeneity of responses, and deviant and extreme cases (cf. Gibbs, 2007: 96).
+
+Though coding is a central feature in many forms of qualitative data analysis, researchers need to ensure that it is the most appropriate way to analyse the data, as there is a risk of losing temporality, context and sequence in the coding and retrieval of text. For example, there is a temptation, perhaps, to ascribe the same code to an observed behaviour regardless of the setting, the time (e.g. in a longitudinal study or a study that involves observation over several weeks), the prevalent conditions, states of mind, actors involved, intervening events and so on, when, in fact, the meaning and significance of the behaviour is not the same in different contexts or points in time. In this case, the researcher may wish to write a narrative account rather than to abstract data from the several contexts in which they are set.
+
+TABLE 30.1 TABULATED DATA FOR COMPARATIVE ANALYSIS
+
+Name
+
+Attitudes to science lessons
+
+Attitudes to music lessons
+
+Jane
+
+Finds them difficult, but interesting. too much homework which is not addressed in the class. enjoys experiments but is not very good at them.
+
+Enjoys listening to music, but there is too much singing to be done in class, and not enough playing or practical activity. the teacher only concentrates on those who are in the school choir.
+
+John
+
+Cannot concentrate because he finds the work boring and too ‘bookish’. Prefers experiments but never has the chance to do them.
+
+We are never allowed to choose the music to listen to, and the teacher’s music is boring and old. Why do we have to use babyish instruments?
+
+Stephen
+
+Thoroughly enjoys the practical activities and the idea of exploring what went wrong in the experiments, and why.
+
+I liked it when we were making up our own tunes in groups, but the class was very noisy. i don’t like singing. i wish we were taught how to read and write proper music. lots of children just ‘mess around’ in the music lesson, and that’s horrible.
+
+We return to coding and constant comparison in Chapter 31, as they are integral to grounded theory.
+
+30.2 What is content analysis?
+
+Having introduced coding, we are now in a position to consider content analysis. The term ‘content analysis’ is often used sloppily. In effect, it simply defines the process of summarizing and reporting written data – the main contents of data and their messages. More strictly speaking, it defines a strict and systematic set of procedures for the rigorous analysis, examination and verification of the contents of written data (Flick, 1998: 192; Mayring, 2004: 266). Krippendorp (2004: 18) defines it as ‘a research technique for making replicable and valid inferences from texts (or other meaningful matter) to the contexts of their use’. Texts are defined as any written communicative materials which are intended to be read, interpreted and understood by people other than the analysts (Krippendorp, 2004: 30).
+
+Originally deriving from analysis of mass media and public speeches, the use of content analysis has spread to examination of any form of communicative material, both structured and unstructured. It may be ‘applied to substantive problems at the intersection of culture, social structure, and social interaction; used to generate dependent variables in experimental designs; and used to study groups as microcosms of society’ (Weber, 1990: 11). Content analysis can be undertaken with any written material, from documents to interview transcriptions, from media products to personal interviews. It is often used to analyse large quantities of text, facilitated by the systematic, rule-governed nature of content analysis, not least because this enables computer assisted analysis to be undertaken. It often uses categorization as an essential feature in reducing large quantities of data (Flick, 2009: 323).
+
+Content analysis has several attractions. It is an unobtrusive technique (Krippendorp, 2004: 40), in that one can observe without being observed (Robson, 1993: 280). It focuses on language and linguistic features, meaning in context, is systematic and verifiable (e.g. in its use of codes and categories), as the rules for analysis are explicit, transparent and public (Mayring, 2004: 267–9). Further, as the data are in a permanent form (texts), verification through re-analysis and replication is possible.
+
+Many researchers see content analysis as an alternative to numerical analysis of qualitative data. But this is not so, although it is widely used as a device for extracting numerical data from word-based data. Indeed Anderson and Arsenault (1998: 101–2) suggest that content analysis can describe the relative frequency and importance of certain topics as well as to evaluate bias, prejudice or propaganda in print materials.
+
+Weber (1990: 9) sees the purposes of content analysis as including: (a) the coding of open-ended questions in surveys; (b) the revealing of the focus of individual, group, institutional and societal matters; (c) the description of patterns and trends in communicative content. The latter suggestion indicates the role of statistical techniques in content analysis; indeed Weber (p. 10) suggests that the highest quality content-analytic studies use both quantitative and qualitative analysis of texts (texts defined as any form of written communication).
+
+Content analysis takes texts and analyses, reduces and interrogates them into summary form through the use of both pre-existing categories and emergent themes in order to generate or test a theory. It uses systematic, replicable, observable and rule-governed forms of analysis in a theory-dependent system for the application of those categories.
+
+Krippendorp (2004: 22–4) suggests that there are several features of texts that relate to a definition of content analysis, including the fact that texts have no objective reader-independent qualities; rather they have multiple meanings and can sustain multiple readings and interpretations. There is no one meaning waiting to be discovered or described in them. Indeed, the meanings in texts may be personal and are located in specific contexts, discourses and purposes, and, hence, meanings have to be drawn in context. Content analysis, then: (a) describes the manifest characteristics of communication (Krippendorp, 2004: 46) (asking who is saying what to whom, and how); (b) infers the antecedents of the communication (the reasons for, and purposes behind, the communication, and the context of communication (Mayring, 2004: 267)); (c) infers the consequences of the communication (its effects). Krippendorp suggests (pp. 75–7) that content analysis is at its most successful when it can break down ‘linguistically constituted facts’ into four classes: attributions, social relationships, public behaviours and institutional realities.
+
+30.3 How does content analysis work?
+
+Ezzy (2002: 83) suggests that content analysis starts with a sample of texts (the units), defines the units of analysis (e.g. words, sentences) and the categories to be used for analysis, reviews the texts in order to code them and place them into categories, and then counts and logs the occurrences of words, codes and categories. From here statistical analysis and quantitative methods are applied, leading to an interpretation of the results. Put simply, content analysis involves coding, categorizing (creating meaningful categories into which the units of analysis – words, phrases, sentences, etc. – can be placed), comparing (categories and making links between them), and concluding – drawing theoretical conclusions from the text.
+
+Anderson and Arsenault (1998: 102) indicate the quantitative nature of content analysis when they state that ‘at its simplest level, content analysis involves counting concepts, words or occurrences in documents and reporting them in tabular form’. This succinct statement catches essential features of the process of content analysis:
+
+[图片: images/046_30 Coding and content analysis/012_box.jpg | image]
+ breaking down text into units of analysis;
+
+[图片: images/046_30 Coding and content analysis/013_box.jpg | image]
+ undertaking statistical analysis of the units;
+
+[图片: images/046_30 Coding and content analysis/014_box.jpg | image]
+ presenting the analysis in as economical a form as possible.
+
+This masks some other important features of content analysis, including, for example, examination of the interconnectedness of units of analysis (categories), the emergent nature of themes and the testing, development and generation of theory.
+
+Flick (2009: 326) summarizes several stages of content analysis:
+
+[图片: images/046_30 Coding and content analysis/015_box.jpg | image]
+ defining the units of analysis;
+
+[图片: images/046_30 Coding and content analysis/016_box.jpg | image]
+ paraphrasing the relevant passages of text;
+
+[图片: images/046_30 Coding and content analysis/017_box.jpg | image]
+ defining the level of abstraction required of the paraphrasing;
+
+[图片: images/046_30 Coding and content analysis/018_box.jpg | image]
+ data reduction and deletion (e.g. removing paraphrases that duplicate meaning);
+
+[图片: images/046_30 Coding and content analysis/019_box.jpg | image]
+ data reduction by combing and integrating paraphrases at the level of abstraction required;
+
+[图片: images/046_30 Coding and content analysis/020_box.jpg | image]
+ putting together the new statements into a category system;
+
+[图片: images/046_30 Coding and content analysis/021_box.jpg | image]
+ reviewing the new category system against the original data.
+
+More fully, the whole process of content analysis can follow several steps.
+
+Step 1: Define the research questions to be addressed by the content analysis
+
+This will also include what one wants from the texts to be content-analysed. The research questions will be informed by, indeed may be derived from, the theory to be tested.
+
+Step 2: Define the population from which units of text are to be sampled
+
+The population here refers not only to people but also, and mainly, to text – the domains of the analysis. For example, is it to be newspapers, programmes, interview transcripts, textbooks, conversations, public domain documents, examination scripts, emails, online conversations and so on?
+
+Step 3: Define the sample to be included
+
+Here the rules for sampling people can apply equally well to documents. One has to decide whether to opt for a probability or non-probability sample of documents, a stratified sample (and, if so, the kind of strata to be used), random sampling, convenience sampling, domain sampling, cluster sampling, purposive, systematic, time sampling, snowball and so on (see Chapter 8). Robson (1993: 275–9) indicates the careful delineation of the sampling strategy here, for example, such-and-such a set of documents, such-and-such a time frame (e.g. of newspapers), such-and-such a number of television programmes or interviews. The key issues of sampling apply to the sampling of texts: representativeness, access, size of the sample and generalizability of the results.
+
+Krippendorp (2004: 145) indicates that there may be ‘nested recording units’, where one unit is nested within another, for example, with regard to newspapers that have been sampled it may be thus: ‘the issues of a newspaper sampled; the articles in an issue of a newspaper sampled; the paragraphs in an article in an issue of a newspaper sampled; the propositions constituting a paragraph in an article in an issue of a newspaper sampled’. This is the equivalent of stage sampling, discussed in Chapter 8.
+
+Step 4: Define the context of the generation of the document
+
+This will examine, for example: how the material was generated (Flick 1998: 193); who was involved; who was present; where the documents come from; how the material was recorded and/or edited; whether the person was willing to, able to and did tell the truth; whether the data are accurately reported (Robson 1993: 273); whether the data are corroborated; the authenticity and credibility of the documents; the context of the generation of the document; the selection and evaluation of the evidence contained in the document.
+
+Step 5: Define the units of analysis
+
+This can be at very many levels, for example, a word, phrase, sentence, paragraph, whole text, people, and themes. Robson (1993: 276) includes here, for newspaper analysis, the number of stories on a topic, column inches, size of headline, number of stories on a page, position of stories within a newspaper, the number and type of pictures. His suggestions indicate the careful thought that needs to go into the selection of the units of analysis. Different levels of analysis will raise different issues of reliability, and these are discussed later. It is assumed that the units of analysis will be classifiable into the same category text with the same or similar meaning in the context of the text itself (semantic validity) (Krippendorp, 2004: 296), though this can be problematic (discussed later). The description of units of analysis will also include the units of measurement and enumeration.
+
+The coding unit defines the smallest element of material that can be analysed, whilst the contextual unit defines the largest textual unit that may appear in a single category
+
+Krippendorp (2004: 99–101) distinguishes three kinds of units. Sampling units are those units that are included in, or excluded from, an analysis; they are units of selection. Recording/coding units are units that are contained within sampling units and are smaller than sampling units, thereby avoiding the complexity that characterizes sampling units; they are units of description. Context units are ‘units of textual matter that set limits on the information to be considered in the description of recording units’ (p. 101); they are units that ‘delineate the scope of information that coders need to consult in characterizing the recording units’ (p. 103).
+
+Krippendorp (2004) continues by suggesting a further five kinds of sampling units: physical (e.g. time, place, size); syntactical (words, grammar, sentences, paragraphs, chapters, series, etc.); categorical (members of a category have something in common); propositional (delineating particular constructions or propositions); and thematic (putting texts into themes and combinations of categories). The issue of categories signals the next step.
+
+The criterion here is that each unit of analysis (cate gory – conceptual, actual, classification element, cluster, issue) should be as discrete as possible whilst retaining fidelity to the integrity of the whole, i.e. that each unit must be a fair rather than a distorted representation of the context and other data. The creation of units of analysis can be done by ascribing codes to the data (Miles and Huberman, 1984). This is akin to the process of ‘unitizing’ (Lincoln and Guba, 1985: 203).
+
+Step 6: Decide the codes to be used in the analysis
+
+Hammersley and Atkinson (1983: 177–8) propose that the first activity here is to read and reread the data to become thoroughly familiar with them, noting also any interesting patterns, any surprising, puzzling or unexpected features, any apparent inconsistencies or contradictions (e.g. between groups, within and between individuals and groups, between what people say and what they do). Then, having become familiar with the text, the process of coding can take place, following the principles and mechanics of coding as set out earlier in this chapter.
+
+Step 7: Construct the categories for analysis
+
+Categories are the main groupings of constructs or key features of the text, showing links between units of analysis. For example, a text concerning teacher stress could have groupings such as ‘causes of teacher stress’, ‘the nature of teacher stress’, ‘ways of coping with stress’ and ‘the effects of stress’. The researcher will have to decide whether to have mutually exclusive categories (preferable but difficult), how broad or narrow each category will be, the order or level of generality of a category (some categories may be very general and subsume other more specific categories, in which case analysis should only operate at the same level of each category rather than having the same analysis which combines and uses different levels of categories). Categories are inferred by the researcher, whereas specific words or units of analysis are less inferential; the more one moves towards inference, the more reliability may be compromised, and the more the researcher’s agenda may impose itself on the data.
+
+Categories will need to be exhaustive in order to address content validity; indeed Robson (1993: 277) argues that a content analysis ‘is no better than its system of categories’ and that these can include: subject matter; direction (how a matter is treated – positively or negatively); values; goals; method used to achieve goals; traits (characteristics used to describe people); actors (who is being discussed); authority (in whose name the statements are being made); location; conflict (sources and levels); and endings (how conflicts are resolved).
+
+This stage of constructing the categories is sometimes termed the creation of a ‘domain analysis’. This involves grouping the units into domains, clusters, groups, patterns, themes and coherent sets to form domains. A domain is any symbolic category that includes other categories (Spradley, 1979: 100). At this stage it might be useful for the researcher to recode the data into domain codes, or to review the codes used to see how they naturally fall into clusters, perhaps creating overarching codes for each cluster. Hammersley and Atkinson (1983) show how items can be assigned to more than one category, and, indeed, see this as desirable as it maintains the richness of the data. This is akin to the process of ‘categorization’ (Lincoln and Guba, 1985), putting ‘unitized’ data to provide descriptive and inferential information. Unitization is the process of putting data into meaning units for analysis, examining data, and identifying what those units are. A meaning unit is simply a piece of datum which the researcher considers to be important; it may be as small as a word or phrase, or as large as a paragraph, groups of paragraphs, or, indeed, a whole text, provided that it has meaning in itself.
+
+Spradley (1979) suggests that establishing domains can be achieved by four analytic tasks: (a) selecting a sample of verbatim interview and field notes; (b) looking for the names of things; (c) identifying possible terms from the sample; (d) searching through additional notes for other items to include. He identifies six steps to achieve these tasks: (i) select a single semantic relationship; (ii) prepare a domain analysis sheet; (iii) select a sample of statements from respondents; (iv) search for possible cover terms and include those that fit the semantic relationship identified; (v) formulate structural questions for each domain identified; (vi) list all the hypothesized domains. Domain analysis, then, strives to discover relationships between symbols (Spradley, 1979: 157).
+
+Like codes, categories can be at different levels of specificity and generality. Some categories are general and overarching; others are less so. Typically codes are much more specific than categories. This indicates the difference between nodes and codes. A code is a label for a piece of text; a node is a category into which different codes fall or are collected. A node can be a concept, idea, process, group of people, place or, indeed, any other grouping that the researcher wishes it to be; it is an organizing category. Whereas codes describe specific textual moments, nodes draw together codes into a categorical framework, making connections between coded segments and concepts. It is rather like saying that a text can be regarded as a book, with the chapters being the nodes and the paragraphs being the codes, or the content pages being the nodes and the index being the codes. Nodes can be related in several ways, for example: one concept can define another; they can be logically related; and they can be empirically related (found to accompany each other) (Krippendorp, 2004: 296).
+
+One has to be aware that the construction of codes and categories might steer the research and its findings, i.e. that the researcher may enter too far into the research process. For example, a researcher may have been examining the extra-curricular activities of a school and discovered that the benefits of these are to be found in non-cognitive and non-academic spheres rather than in academic spheres, but this may be fallacious. It could be that it was the codes and categories themselves rather than the data in the minds of the respondents that caused this separation of cognitive/academic spheres and issues from the non-cognitive/non-academic, and that if the researcher had specifically asked about, or established codes and categories which established the connection between the academic and non-academic, then s/he would have found more than s/he did. This is the danger of using codes and categories to predefine the data analysis.
+
+Step 8: Conduct the coding and categorizing of the data
+
+Once the codes and categories have been decided the analysis can be undertaken. This concerns the actual ascription of codes and categories to the text, as described earlier in this chapter. Mayring (2004: 268–9) suggests that summarizing content analysis reduces the material to manageable proportions whilst maintaining fidelity to essential contents, and that inductive category formation proceeds through summarizing content analysis by inductively generating categories from the text material. This is in contrast to explicit content analysis, the opposite of summarizing content analysis, which seeks to add in further information in the search for intelligible text analysis and category location. The former reduces contextual detail, the latter retains it. Structuring content analysis filters out parts of the text in order to construct a cross-section of the material using specified pre-ordinate criteria.
+
+It is important to decide whether to code simply for the existence or the incidence of the concept. This is important, as it would mean that, in the case of the former – existence – the frequency of a concept would be lost, and frequency may give an indication of the significance of a concept in the text. Further, the coding will need to decide whether it should code only the exact words or those with a similar meaning. The former will probably result in significant data loss, as words are not often repeated in comparison to the concepts that they signify; the latter may risk losing the nuanced sensitivity of particular words and phrases. Indeed some speech-makers may deliberately use ambiguous words or those with more than one meaning.
+
+Having performed the first round of coding the researcher is able to detect patterns, themes and begin to make generalizations (e.g. by counting the frequencies of codes). The researcher can also group codes into more general clusters, each with a code, i.e. begin the move towards factoring the data.
+
+Perhaps the biggest problem concerns the coding and scoring of open-ended questions. Two solutions are possible here. Even though a response is open-ended, an interviewer, for example, may precode her interview schedule so that while an interviewee is responding freely, the interviewer is assigning the content of her responses, or parts of it, to predetermined coding categories. Classifications of this kind may be developed during pilot studies.
+
+Alternatively, data may be postcoded. Having recorded the interviewee’s response, for example, either by summarizing it during or after the interview itself, or verbatim by tape recorder, the researcher may subject it to content analysis and apply it to one of the available scoring procedures – scaling, scoring, rank scoring, response counting, etc.
+
+Step 9: Conduct the data analysis
+
+Once the data have been coded and categorized, the researcher can count the frequency of each code or word in the text, and the number of words in each category. This is the process of retrieval, which may be in multiple modes, for example words, codes, nodes and categories. Some words may be in more than one category, for example where one category is an overarching category and another is a subcategory. To ensure reliability, Weber (1990: 21–4) suggests that it is advisable at first to work on small samples of text rather than the whole text, to test out the coding and categorization, and make amendments where necessary. The complete texts should be analysed, as this preserves their semantic coherence.
+
+Words and single codes on their own have limited power, and so it is important to move to associations between words and codes, i.e. to look at categories and relationships between categories. Establishing relationships and linkages between the domains ensures that the data, their richness and ‘context-groundedness’ are retained. Linkages can be found by identifying confirming cases, by seeking ‘underlying associations’ (LeCompte and Preissle, 1993: 246) and connections between data subsets.
+
+Weber (1990: 54) suggests that it is preferable to retrieve text based on categories rather than single words, as categories tend to retrieve more than single words, drawing on synonyms and conceptually close meanings. One can make category counts as well as word counts. Indeed, one can specify at what level the counting can be conducted, for example, words, phrases, codes, categories and themes.
+
+The implication here is that the frequency of words, codes, nodes and categories provides an indication of their significance. This may or may not be true, since subsequent mentions of a word or category may be difficult in certain texts (e.g. speeches). Frequency does not equal importance, and not saying something (withholding comment) may be as important as saying something. Content analysis only analyses what is present rather than what is missing or unsaid (Anderson and Arsenault, 1998: 104). Further, as Weber (1990: 73) says: ‘pronouns may replace nouns the further on one goes through a passage; continuing raising of the issue may cause redundancy as it may be counterproductive repetition; constraints on text length may inhibit reference to the theme; some topics may require much more effort to raise than others’.
+
+The researcher can summarize the inferences from the text, look for patterns, regularities and relationships between segments of the text, and test hypotheses. The summarizing of categories and data is an explicit aim of statistical techniques, for these permit trends, frequencies, priorities and relationships to be calculated. At the stage of data analysis there are several approaches and methods that can be used. Krippendorp (2004: 48–53) suggests that these can include:
+
+[图片: images/046_30 Coding and content analysis/022_box.jpg | image]
+ extrapolations (trends, patterns and differences);
+
+[图片: images/046_30 Coding and content analysis/023_box.jpg | image]
+ standards (evaluations and judgements);
+
+[图片: images/046_30 Coding and content analysis/024_box.jpg | image]
+ indices (e.g. of relationships, frequencies of occurrence and co-occurrence, number of favourable and unfavourable items);
+
+[图片: images/046_30 Coding and content analysis/025_box.jpg | image]
+ linguistic re-presentations.
+
+Once frequencies have been calculated, statistical analysis can proceed, using, for example:
+
+[图片: images/046_30 Coding and content analysis/026_box.jpg | image]
+ factor analysis (to group the kinds of response);
+
+[图片: images/046_30 Coding and content analysis/027_box.jpg | image]
+ tabulation (of frequencies and percentages);
+
+[图片: images/046_30 Coding and content analysis/028_box.jpg | image]
+ crosstabulation (presenting a matrix where the words or codes are the column headings and the nominal variables, e.g. the newspaper, the year, the gender, are the row headings);
+
+[图片: images/046_30 Coding and content analysis/029_box.jpg | image]
+ correlation (to identify the strength and direction of association between words, between codes and between categories);
+
+[图片: images/046_30 Coding and content analysis/030_box.jpg | image]
+ graphical representation (for example to report the incidence of particular words, concepts, categories over time or over texts);
+
+[图片: images/046_30 Coding and content analysis/031_box.jpg | image]
+ regression (to determine the value of one variable/word/code/category in relationship to another): a form of association that gives exact values and the gradient or slope of the goodness of fit line of relationship – the regression line;
+
+[图片: images/046_30 Coding and content analysis/032_box.jpg | image]
+ multiple regression (to calculate the weighting of independents on dependent variables);
+
+[图片: images/046_30 Coding and content analysis/033_box.jpg | image]
+ structural equation modelling and LISREL analysis (to determine the multiple directions of causality and the weightings of different associations in a pathway analysis of causal relations);
+
+[图片: images/046_30 Coding and content analysis/034_box.jpg | image]
+ dendrograms (tree diagrams to show the relationship and connection between categories and codes, codes and nodes).
+
+The calculation and presentation of statistics is discussed in Chapters 35–38. At this stage the argument here suggests that what starts as qualitative data – words – can be converted into numerical data for analysis.
+
+If a less quantitative form of analysis is required then this does not preclude a qualitative version of the statistical procedures indicated here. For example, one can establish linkages and relationships between concepts and categories, examining their strength and direction (how strongly they are associated and whether the association is positive or negative respectively). Many computer packages will perform the qualitative equivalent of statistical procedures.
+
+It is also useful to try to pursue the identification of core categories (see the later discussion of grounded theory). A core category is that which has the greatest explanatory potential and to which the other categories and subcategories seem to be repeatedly and closely related (Strauss, 1987: 11). Robson (1993: 401) suggests that drawing conclusions from qualitative data can be undertaken by counting, patterning (noting recurrent themes or patterns), clustering (of people, issues, events, etc. which have similar features), relating variables, building causal networks and relating findings to theoretical frameworks.
+
+Whilst conducting qualitative data analysis using numerical approaches or paradigms may be criticized for being positivistic, one should note that one of the founders of grounded theory – Glaser – is on record (1996) as saying that not only did grounded theory develop out of a desire to apply a quantitative paradigm to qualitative data, but that paradigmal purity was unacceptable in the real world of qualitative data analysis, in which fitness for purpose should be the guide. Further, one can note that Miles and Huberman (1994) strongly advocate the graphic display of data as an economical means of reducing qualitative data. Such graphics might serve both to indicate causal relationships as well as simply summarizing data.
+
+Step 10: Summarizing
+
+By this stage the investigator will be in a position to write a summary of the main features of the situation that have been researched so far. The summary will identify key factors, key issues, key concepts and key areas for subsequent investigation. It is a watershed stage during the data collection, as it pinpoints major themes, issues and problems that have arisen, so far, from the data (responsively) and suggests avenues for further investigation. The concepts used will be a combination of those derived from the data themselves and those inferred by the researcher (Hammersley and Atkinson, 1983: 178).
+
+At this point, the researcher will have gone through the preliminary stages of theory generation. Patton (1980) sets these out for qualitative data:
+
+i finding a focus for the research and analysis;
+
+ii organizing, processing, ordering and checking data;
+
+iii writing a qualitative description or analysis;
+
+iv inductively developing categories, typologies and labels;
+
+v analysing the categories to identify where further clarification and cross-clarification are needed;
+
+vi expressing and typifying these categories through metaphors (see also Pitman and Maxwell, 1992: 747);
+
+vii making inferences and speculations about relationships, causes and effects.
+
+Bogdan and Biklen (1992: 154–63) identify several important factors that researchers need to address at this stage, including: forcing oneself to take decisions that will focus and narrow the study and decide what kind of study it will be; developing analytical questions; using previous observational data to inform subsequent data collection; writing reflexive notes and memos about observations, ideas, what is being learned; trying out ideas with subjects; analysing relevant literature whilst conducting the field research; generating concepts, metaphors and analogies and visual devices to clarify the research.
+
+Step 11: Making speculative inferences
+
+This is an important stage, for it moves the research from description to inference. It requires the researcher, on the basis of the evidence, to posit some explanations for the situation, some key elements and possibly even their causes. It is the process of hypothesis generation or the setting of working hypotheses that feeds into theory generation.
+
+The stage of theory generation is linked to grounded theory, and we turn to this later in the chapter. Here we provide an example of content analysis that does not use statistical analysis but which nevertheless demonstrates the systematic approach to analysing data that is at the heart of content analysis.
+
+30.4 A worked example of content analysis 
+
+In this example the researcher has already transcribed data concerning stress in the workplace from, let us say, a limited number of accounts and interviews with a few teachers, and these have already been summarized into key points. It is imagined that each account/interview has been written up onto a separate file (e.g. computer file), and now they are all being put together into a single data set for analysis. What we have are already-interpreted, rather than verbatim, data.
+
+Stage 1: Extract the interpretive comments that have been written on the data
+
+By the side of each, a code/category/descriptor word has been inserted (in capital letters), i.e. the summary data have already been collected together into 33 summary sentences.
+
+1 Stress is caused by deflated expectation i.e. stress is caused by annoyance with other people not pulling their weight or not behaving as desired, or teachers letting themselves down. CAUSE
+
+2 Stress is caused by having to make greater demands on personal time to meet professional concerns. So, no personal time/space as a cause of stress. Stress is caused by having to compromise one’s plans/desires. CAUSE
+
+3 Stress comes from having to manage several demands simultaneously, CAUSE but the very fact that they are simultaneous means that they can’t be managed at once, so stress is built into the problem of coping – it’s an insoluble situation. NATURE
+
+4 Stress from one source brings additional stress which leads to loss of sleep – a sign that things are reaching a breaking point. OUTCOME
+
+5 Stress is a function of the importance attached to activities/issues by the person involved. NATURE Stress is caused when one’s own integrity/values are not only challenged but called into question. CAUSE
+
+6 Stress comes from ‘frustration’– frustration leads to stress leads to frustration leads to stress, etc. – a vicious circle. NATURE
+
+7 When the best-laid plans go wrong this can be stressful. CAUSE
+
+8 The vicious circle of stress, inducing sleep irregularity which, in turn, induces stress. NATURE
+
+9 Reducing stress often works on symptoms rather than causes – may be the only thing possible CAUSE, given that the stressors will not go away, but it allows the stress to fester. CAUSE
+
+10 The effects of stress are physical which, in turn, causes more stress – another vicious circle. OUTCOMES
+
+11 Stress from lowering enthusiasm/commitment/aspiration/expectation. CAUSE
+
+12 Pressure of work lowers aspiration which lowers stress. CAUSE
+
+13 Stress reduction through companionship. HANDLING
+
+14 Stress because of things out of one’s control. CAUSE
+
+15 Stress through handling troublesome students. CAUSE
+
+16 Stress because of a failure of management/leadership. CAUSE
+
+17 Stress through absence of fulfilment. CAUSE
+
+18 Stress rarely happens on its own, it is usually in combination – like a rolling snowball, it is cumulative. NATURE
+
+19 Stress through worsening professional conditions that are out of the control of the participant. CAUSE Stress through loss of control and autonomy. CAUSE
+
+20 Stress through worsening professional conditions is exponential in its effects. NATURE
+
+21 Stress is caused when professional standards are felt to be compromised. CAUSE
+
+22 Stress because matters are not resolved. CAUSE
+
+23 Stress through professional compromise which is out of an individual’s control. CAUSE
+
+24 The rate of stress is a function of its size – a big bomb causes instant damage. NATURE
+
+25 Stress is caused by having no escape valve; it’s bottled up and causes more stress, like a kettle with no escape valve, it will stress the metal and then blow up. CAUSE
+
+26 Stress through overload and frustration – a loss of control. Stress occurs when people cannot control the circumstances with which they have to work. CAUSE
+
+27 Stress through overload. CAUSE
+
+28 Stress through seeing one’s former work being undone by others’ incompetence. CAUSE
+
+29 Stress because nothing has been possible to reduce the level of stress. So, if the boil of stress is not lanced, it grows and grows. CAUSE NATURE
+
+30 Handling stress through relaxation and exercise. HANDLING
+
+31 Trying to relieve stress through self-damaging behaviour – taking alcohol and smoking. HANDLING NATURE
+
+32 Stress is a function of the importance attached to activities by the participants involved. NATURE
+
+33 The closer the relationship to people who cause stress, the greater the stress. NATURE
+
+The data have been coded very coarsely, in terms of three or four main categories. It may have been possible to have coded the data far more specifically, e.g. each specific cause has its code, indeed one school of thought would argue that it is important to generate the specific codes first. One can code for words (and, thereafter, the frequency of words) or meanings – it is sometimes dangerous to go for words rather than meanings, as people say the same things in different ways.
+
+Stage 2: Sort data into key headings/areas
+
+The codes that have been used fall into four main areas:
+
+a causes of stress
+
+b nature of stress
+
+c outcomes of stress
+
+d handling stress.
+
+Stage 3: List the topics within each key area/heading and put frequencies in which items are mentioned
+
+For each main area the relevant data are presented together, and a tally mark (/) is placed against the number of times that the issue has been mentioned by the teachers.
+
+a Causes of stress
+
+[图片: images/046_30 Coding and content analysis/035_box.jpg | image]
+ Deflated expectation/aspiration /
+
+[图片: images/046_30 Coding and content analysis/036_box.jpg | image]
+ Annoyance /
+
+[图片: images/046_30 Coding and content analysis/037_box.jpg | image]
+ Others not pulling weight /
+
+[图片: images/046_30 Coding and content analysis/038_box.jpg | image]
+ Others letting themselves down /
+
+[图片: images/046_30 Coding and content analysis/039_box.jpg | image]
+ Professional demands, e.g. troublesome students /
+
+[图片: images/046_30 Coding and content analysis/040_box.jpg | image]
+ Demands on personal time from professional tasks /
+
+[图片: images/046_30 Coding and content analysis/041_box.jpg | image]
+ Difficulties of the job /
+
+[图片: images/046_30 Coding and content analysis/042_box.jpg | image]
+ Loss of personal time and space /
+
+[图片: images/046_30 Coding and content analysis/043_box.jpg | image]
+ Compromising oneself/one’s professional standards and integrity ///
+
+[图片: images/046_30 Coding and content analysis/044_box.jpg | image]
+ Plans go wrong /
+
+[图片: images/046_30 Coding and content analysis/045_box.jpg | image]
+ Stress itself causes more stress /
+
+[图片: images/046_30 Coding and content analysis/046_box.jpg | image]
+ Inability to reduce causes of stress /
+
+[图片: images/046_30 Coding and content analysis/047_box.jpg | image]
+ Lowering enthusiasm/commitment/aspiration /
+
+[图片: images/046_30 Coding and content analysis/048_box.jpg | image]
+ Pressure of work /
+
+[图片: images/046_30 Coding and content analysis/049_box.jpg | image]
+ Things out of one’s control //
+
+[图片: images/046_30 Coding and content analysis/050_box.jpg | image]
+ Failure of management/leadership /
+
+[图片: images/046_30 Coding and content analysis/051_box.jpg | image]
+ Absence of fulfilment /
+
+[图片: images/046_30 Coding and content analysis/052_box.jpg | image]
+ Worsening professional conditions /
+
+[图片: images/046_30 Coding and content analysis/053_box.jpg | image]
+ Loss of control and autonomy //
+
+[图片: images/046_30 Coding and content analysis/054_box.jpg | image]
+ Inability to resolve situation /
+
+[图片: images/046_30 Coding and content analysis/055_box.jpg | image]
+ Having no escape valve /
+
+[图片: images/046_30 Coding and content analysis/056_box.jpg | image]
+ Overload at work /
+
+[图片: images/046_30 Coding and content analysis/057_box.jpg | image]
+ Seeing one’s work undone by others /
+
+b Nature of stress
+
+[图片: images/046_30 Coding and content analysis/058_box.jpg | image]
+ Stress is a function of the importance attached to activities issues by the participants /
+
+[图片: images/046_30 Coding and content analysis/059_box.jpg | image]
+ Stress is inbuilt when too many simultaneous demands are made, i.e. it is insoluble /
+
+[图片: images/046_30 Coding and content analysis/060_box.jpg | image]
+ It is cumulative (like a snowball) until it reaches a breaking point /
+
+[图片: images/046_30 Coding and content analysis/061_box.jpg | image]
+ Stress is a vicious circle //
+
+[图片: images/046_30 Coding and content analysis/062_box.jpg | image]
+ The effects of stress are exponential /
+
+[图片: images/046_30 Coding and content analysis/063_box.jpg | image]
+ The rate of stress is a function of its size /
+
+[图片: images/046_30 Coding and content analysis/064_box.jpg | image]
+ If stress has no escape valve then that causes more stress //
+
+[图片: images/046_30 Coding and content analysis/065_box.jpg | image]
+ Handling stress can lead to self-damaging behaviour (smoking/alcohol) /
+
+[图片: images/046_30 Coding and content analysis/066_box.jpg | image]
+ Stress is a function of the importance attached to activities issues by the participants /
+
+[图片: images/046_30 Coding and content analysis/067_box.jpg | image]
+ The closer the relationship to people who cause stress, the greater the stress /
+
+c Outcomes of stress
+
+[图片: images/046_30 Coding and content analysis/068_box.jpg | image]
+ Loss of sleep/physical reaction //
+
+[图片: images/046_30 Coding and content analysis/069_box.jpg | image]
+ Effects of stress themselves cause more stress /
+
+[图片: images/046_30 Coding and content analysis/070_box.jpg | image]
+ Self-damaging behaviour /
+
+d Handling stress
+
+[图片: images/046_30 Coding and content analysis/071_box.jpg | image]
+ Physical action/exercise /
+
+[图片: images/046_30 Coding and content analysis/072_box.jpg | image]
+ Companionship /
+
+[图片: images/046_30 Coding and content analysis/073_box.jpg | image]
+ Alcohol and smoking /
+
+Stage 4: Go through the list generated in Stage 3 and put the issues into groups (avoiding category overlap)
+
+Here the grouped data are re-analysed and re-presented according to possible groupings of issues under the four main heading (causes, nature, outcomes and handling of stress: (a) – (d) below).
+
+a Causes of Stress:
+
+i Personal factors
+
+[图片: images/046_30 Coding and content analysis/074_box.jpg | image]
+ Deflated expectation/aspiration /
+
+[图片: images/046_30 Coding and content analysis/075_box.jpg | image]
+ Annoyance /
+
+[图片: images/046_30 Coding and content analysis/076_box.jpg | image]
+ Demands on personal time from professional tasks /
+
+[图片: images/046_30 Coding and content analysis/077_box.jpg | image]
+ Loss of personal time and space /
+
+[图片: images/046_30 Coding and content analysis/078_box.jpg | image]
+ Stress itself causes more stress /
+
+[图片: images/046_30 Coding and content analysis/079_box.jpg | image]
+ Inability to reduce causes of stress /
+
+[图片: images/046_30 Coding and content analysis/080_box.jpg | image]
+ Lowering enthusiasm/commitment/aspiration /
+
+[图片: images/046_30 Coding and content analysis/081_box.jpg | image]
+ Things out of one’s control //
+
+[图片: images/046_30 Coding and content analysis/082_box.jpg | image]
+ Absence of fulfilment /
+
+[图片: images/046_30 Coding and content analysis/083_box.jpg | image]
+ Loss of control and autonomy //
+
+[图片: images/046_30 Coding and content analysis/084_box.jpg | image]
+ Inability to resolve situation /
+
+[图片: images/046_30 Coding and content analysis/085_box.jpg | image]
+ Having no escape valve /
+
+ii Interpersonal factors
+
+[图片: images/046_30 Coding and content analysis/086_box.jpg | image]
+ Annoyance /
+
+[图片: images/046_30 Coding and content analysis/087_box.jpg | image]
+ Others not pulling weight /
+
+[图片: images/046_30 Coding and content analysis/088_box.jpg | image]
+ Others letting themselves down /
+
+[图片: images/046_30 Coding and content analysis/089_box.jpg | image]
+ Compromising oneself/one’s professional standards and integrity ///
+
+[图片: images/046_30 Coding and content analysis/090_box.jpg | image]
+ Seeing one’s work undone by others /
+
+iii Management
+
+[图片: images/046_30 Coding and content analysis/091_box.jpg | image]
+ Pressure of work /
+
+[图片: images/046_30 Coding and content analysis/092_box.jpg | image]
+ Things out of one’s control //
+
+[图片: images/046_30 Coding and content analysis/093_box.jpg | image]
+ Failure of management/leadership /
+
+[图片: images/046_30 Coding and content analysis/094_box.jpg | image]
+ Worsening professional conditions /
+
+[图片: images/046_30 Coding and content analysis/095_box.jpg | image]
+ Seeing one’s work undone by others /
+
+iv Professional matters
+
+[图片: images/046_30 Coding and content analysis/096_box.jpg | image]
+ Others not pulling weight /
+
+[图片: images/046_30 Coding and content analysis/097_box.jpg | image]
+ Professional demands, e.g. troublesome students /
+
+[图片: images/046_30 Coding and content analysis/098_box.jpg | image]
+ Demands on personal time from professional tasks /
+
+[图片: images/046_30 Coding and content analysis/099_box.jpg | image]
+ Difficulties of the job /
+
+[图片: images/046_30 Coding and content analysis/100_box.jpg | image]
+ Compromising oneself/one’s professional standards and integrity ///
+
+[图片: images/046_30 Coding and content analysis/101_box.jpg | image]
+ Plans go wrong /
+
+[图片: images/046_30 Coding and content analysis/102_box.jpg | image]
+ Pressure of work /
+
+[图片: images/046_30 Coding and content analysis/103_box.jpg | image]
+ Worsening professional conditions /
+
+[图片: images/046_30 Coding and content analysis/104_box.jpg | image]
+ Loss of control and autonomy //
+
+[图片: images/046_30 Coding and content analysis/105_box.jpg | image]
+ Overload at work /
+
+b Nature of Stress:
+
+i Objective
+
+[图片: images/046_30 Coding and content analysis/106_box.jpg | image]
+ It is a function of the importance attached to activities issues by the participants /
+
+[图片: images/046_30 Coding and content analysis/107_box.jpg | image]
+ Stress is inbuilt when too many simultaneous demands are made, i.e. it is insoluble /
+
+[图片: images/046_30 Coding and content analysis/108_box.jpg | image]
+ It is cumulative (like a snowball) until it reaches a breaking point /
+
+[图片: images/046_30 Coding and content analysis/109_box.jpg | image]
+ Stress is a vicious circle //
+
+[图片: images/046_30 Coding and content analysis/110_box.jpg | image]
+ The effects of stress are exponential /
+
+[图片: images/046_30 Coding and content analysis/111_box.jpg | image]
+ The rate of stress is a function of its size /
+
+[图片: images/046_30 Coding and content analysis/112_box.jpg | image]
+ If stress has no escape valve then that causes more stress //
+
+[图片: images/046_30 Coding and content analysis/113_box.jpg | image]
+ Handling stress can lead to self-damaging behaviour (smoking/alcohol) /
+
+ii Subjective
+
+[图片: images/046_30 Coding and content analysis/114_box.jpg | image]
+ Stress is a function of the importance attached to activities issues by the participants /
+
+[图片: images/046_30 Coding and content analysis/115_box.jpg | image]
+ The closer the relationship to people who cause stress, the greater the stress /
+
+c Outcomes of Stress:
+
+i Physiological
+
+[图片: images/046_30 Coding and content analysis/116_box.jpg | image]
+ Loss of sleep /
+
+ii Physical
+
+[图片: images/046_30 Coding and content analysis/117_box.jpg | image]
+ Physical reactions //
+
+[图片: images/046_30 Coding and content analysis/118_box.jpg | image]
+ Increased smoking /
+
+[图片: images/046_30 Coding and content analysis/119_box.jpg | image]
+ Increased alcohol /
+
+iii Psychological
+
+[图片: images/046_30 Coding and content analysis/120_box.jpg | image]
+ Annoyance /
+
+d Handling Stress:
+
+i Physical
+
+[图片: images/046_30 Coding and content analysis/121_box.jpg | image]
+ Physical action/exercise /
+
+ii Social
+
+[图片: images/046_30 Coding and content analysis/122_box.jpg | image]
+ Social solidarity, particularly with close people ///
+
+[图片: images/046_30 Coding and content analysis/123_box.jpg | image]
+ Companionship /
+
+Stage 5: Comment on the groups or results in Stage 4 and review their messages
+
+Once the previous stage has been completed, the researcher is then in a position to draw attention to general and specific points, e.g.
+
+1 There is a huge number of causes of stress (give numbers).
+
+2 There are very few outlets for stress, so it is inevitable, perhaps, that stress will accumulate.
+
+3 Causes of stress are more rooted in personal factors than any others – management, professional, etc. (give frequencies here).
+
+4 The demands of the job tend to cause less stress than other factors (e.g. management), i.e. people go into the job knowing what to expect, but the problem lies elsewhere, with management (give frequencies).
+
+5 Loss of control is a significant factor (give frequencies).
+
+6 Challenges to people and personal integrity/selfesteem are very stressful (give frequencies).
+
+7 The nature of stress is complex, with several interacting components (give frequencies).
+
+8 Stress is omnipresent.
+
+9 Not dealing with stress compounds the problem; dealing with stress compounds the problem.
+
+10 The subjective aspects of the nature of stress are as important as its objective nature (give frequencies).
+
+11 The outcomes of stress tend to be personal rather than outside the person (e.g. systemic, or system-disturbing) (give frequencies).
+
+12 The outcomes of stress are almost exclusively negative rather than positive (give frequencies).
+
+13 The outcomes of stress tend to be felt non-cognitively, e.g. emotionally and psychologically, rather than cognitively (give frequencies).
+
+14 There are few ways of handling stress (frequencies), i.e. opportunities for stress reduction are limited.
+
+The stages of this analysed example embody several of the issues raised in the preceding discussion of content analysis, though the example here does not undertake word counts or statistical analysis, and, being fair to content analysis, this could – some would argue even ‘should’ – be a further kind of analysis. What has happened in this analysis raises several important issues:
+
+[图片: images/046_30 Coding and content analysis/124_box.jpg | image]
+ The researcher has looked within and across categories and groupings for patterns, themes, generalizations, as well as exceptions, unusual observations, etc.
+
+[图片: images/046_30 Coding and content analysis/125_box.jpg | image]
+ The researcher has had to decide whether frequencies are important, or whether an issue is important even if it is only mentioned once or a few times.
+
+[图片: images/046_30 Coding and content analysis/126_box.jpg | image]
+ The researcher has looked for, and reported, disconfrming as well as confirming evidence for statements.
+
+[图片: images/046_30 Coding and content analysis/127_box.jpg | image]
+ The final stage of the analysis is that of theory generation, to account for what is being explained about stress. It might also be important, in further analysis, to try to find causal relationships here: what causes what and the directions of causality; it may also be useful to construct diagrams (with arrows) to show the directions, strength and positive/negative nature of stress.
+
+30.5 Reliability in content analysis
+
+There are several issues to be addressed in considering the reliability of texts and their content analysis; indeed in analysing qualitative data using a variety of means, for example:
+
+[图片: images/046_30 Coding and content analysis/128_box.jpg | image]
+ Witting and unwitting evidence (Robson, 1993: 273): witting evidence is that which was intended to be imparted; unwitting evidence is that which can be inferred from the text, and which may not be intended by the imparter.
+
+[图片: images/046_30 Coding and content analysis/129_box.jpg | image]
+ The text may not have been written with the researcher in mind and may have been written for a very different purpose from that of the research (a common matter in documentary research); hence the researcher will need to know or be able to infer the intentions of the text.
+
+[图片: images/046_30 Coding and content analysis/130_box.jpg | image]
+ The documents may be limited, selective, partial, biased, non-neutral and incomplete because they were intended for a different purpose other than that of research (an issue of validity as well as of reliability).
+
+[图片: images/046_30 Coding and content analysis/131_box.jpg | image]
+ It may be difficult to infer the direction of causality in the documents – they may have been the cause or the consequence of a particular situation.
+
+[图片: images/046_30 Coding and content analysis/132_box.jpg | image]
+ Classification of text may be inconsistent (a problem sometimes mitigated by computer analysis), because of human error, coder variability (within and between coders) and ambiguity in the coding rules (Weber, 1990: 17).
+
+[图片: images/046_30 Coding and content analysis/133_box.jpg | image]
+ Texts may not be corroborated or able to be corroborated.
+
+[图片: images/046_30 Coding and content analysis/134_box.jpg | image]
+ Words are inherently ambiguous and polyvalent (the problem of homographs), for example, what does the word ‘school’ mean? A building; a group of people; a particular movement of artists (e.g. the impressionist school); a department (a medical school); a noun; a verb (to drill, to induct, to educate, to train, to control, to attend an institution); a period of instructional time (‘he stayed after school to play sports’); a modifier (e.g. a school day); a sphere of activity (e.g. ‘the school of hard knocks’); a collection of people adhering to a particular set of principles (e.g. the utilitarian school); a style of life (e.g. ‘a gentleman from the old school’); a group assembled for a particular purpose (e.g. a gambling school), and so on. This is a particular problem for computer programs which may analyse words devoid of their meaning.
+
+[图片: images/046_30 Coding and content analysis/135_box.jpg | image]
+ Coding and categorizing may lose the nuanced richness of specific words and their connotations.
+
+[图片: images/046_30 Coding and content analysis/136_box.jpg | image]
+ Category definitions and themes may be ambiguous, as they are inferential.
+
+[图片: images/046_30 Coding and content analysis/137_box.jpg | image]
+ Some words may be included in the same overall category but they may have more or less significance in that category (and a system of weighting the words may be unreliable).
+
+[图片: images/046_30 Coding and content analysis/138_box.jpg | image]
+ Words that are grouped together into a similar category may have different connotations and their usage may be more nuanced than the categories recognize.
+
+[图片: images/046_30 Coding and content analysis/139_box.jpg | image]
+ Categories may reflect the researcher’s agenda and imposition of meaning more than the text may sustain or the producers of the text (e.g. interviewees) may have intended.
+
+[图片: images/046_30 Coding and content analysis/140_box.jpg | image]
+ Aggregation may compromise reliability. Whereas sentences, phrases and words and whole documents may have the highest reliability in analysis, paragraphs and larger but incomplete portions of text have lower reliability (Weber, 1990: 39).
+
+[图片: images/046_30 Coding and content analysis/141_box.jpg | image]
+ A document may deliberately exclude something for mention, overstate an issue or understate an issue (Weber, 1990: 73).
+
+At a wider level, the limits of content analysis are suggested by Ezzy (2002: 84) where he argues that, due to the pre-ordinate nature of coding and categorizing, content analysis is useful for testing or confirming a pre-existing theory rather than for building a new one, though this perhaps understates the ways in which content analysis can be used to generate new theory, not least through a grounded theory approach (discussed later). In many cases content analysts know in advance what they are looking for in text, and perhaps what the categories for analysis will be. Ezzy (p. 85) suggests that this restricts the extent to which the analytical categories can be responsive to the data, thereby confining the data analysis to the agenda of the researcher rather than the ‘other’. In this way it enables pre-existing theory to be tested. Indeed Mayring (2004: 269) argues that if the research question is very open or if the study is exploratory, then more open procedures than content analysis, e.g. grounded theory, may be preferable.
+
+However, inductive approaches may be ruled out of the early stages of a content analysis, but this does not keep them out of the later stages, as themes and interpretations may emerge inductively from the data and the researcher, rather than only or necessarily from the categories or pre-existing theories themselves. Hence to suggest that content analysis denies induction or is confined to the testing of pre-existing theory (Ezzy, 2002: 85) is uncharitable; it is to misrepresent the flexibility of content analysis. Indeed Flick (1998) suggests that pre-existing categories may need to be modified if they do not fit the data.
+
+[图片: images/046_30 Coding and content analysis/142_common.jpg | image]
+Companion Website
+
+The companion website to the book includes PowerPoint slides for this chapter, which list the structure of the chapter and then provide a summary of the key points in each of its sections. In addition there is further information in the form of a screen-print manual for using QSR N6 NUD*IST, exportable to N-Vivo, plus data files of qualitative data for analysis that can be read NUD*IST and N-Vivo, using Word files and OSR data files. These resources can be found online at www.routledge.com/textbooks/cohen7e.

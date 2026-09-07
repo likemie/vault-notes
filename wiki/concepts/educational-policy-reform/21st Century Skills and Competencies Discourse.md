@@ -12,7 +12,7 @@ aliases:
 summary: "由全球教育治理中的多边组织、国家政府和跨国智库共同推动的政策修辞与规范框架，旨在界定未来劳动力市场所需关键能力并塑造教育政策与自我企业家主体性；实证研究揭示其存在技能空心化、实践转译断裂以及高教宏观倡导与微观评价滞后的制度脱节，二阶元分析证实合作学习对21世纪综合高阶技能具有显著赋能效应（ES = 0.76/0.84）。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 59
+related_count: 60
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -64,7 +64,8 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Science Capital]]"
   - "[[Operationalization]]"
-related_theories: []
+related_theories:
+  - "[[Human Capital Theory]]"
 related_methods:
   - "[[Single-Case Design]]"
   - "[[Meta-meta-analysis]]"
@@ -108,7 +109,7 @@ updated: 2026-09-07
 
 > [!concept-lens] 概念透镜
 > - **含义** 话语将关注焦点从宏观社会结构的再分配改革，转向个体技能与素养的终身积累，将青年与劳动者塑造为必须对自身[[Employability|就业能力]]负全责的“[[Self-Entrepreneur|自我企业家]]”。
-> - **用途** 揭示全球教育政策趋同的修辞动力，批判以经济生产力与人力资本为单一维度的工具主义教育观，并诊断高阶通用素养在政策宏观倡导与微观学业评价之间的制度断裂。
+> - **用途** 揭示全球教育政策趋同的修辞动力，批判以经济生产力与[[Human Capital Theory|人力资本]]为单一维度的工具主义教育观，并诊断高阶通用素养在政策宏观倡导与微观学业评价之间的制度断裂。
 > - **边界** 区别于具体学科内的专业知识教学，SCD 侧重于超越学科门类的横向可迁移技能（Transversal / Generic Skills）；但若脱离具体学科知识脉络与实证探究载体，极易沦为抽象口号与技能空心化。
 
 > [!boundary]- 概念边界

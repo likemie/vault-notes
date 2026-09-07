@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Pre-test and Post-test]]"
   - "[[Evidence-Based Education]]"
+  - "[[Scaffolding]]"
   - "[[Hawthorne Effect]]"
   - "[[Effect Size]]"
   - "[[Gatekeepers]]"
@@ -43,7 +44,6 @@ related_facts:
   - "[[Clearinghouse for Military Family Readiness Continuum of Evidence]]"
   - "[[Peer-Assisted Learning Strategies]]"
   - "[[Community Innovation Survey]]"
-  - "[[Parliamentary Office of Science and Technology]]"
   - "[[Communities in Schools]]"
   - "[[Top Institute for Evidence-Based Education Research]]"
 related_arguments:
@@ -70,9 +70,9 @@ updated: 2026-08-22
 > - **清算体系分歧的头号诱因** [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] 证实，各机构对随访期要求的差异是导致评级冲突的核心原因之一：[[What Works Clearinghouse|WWC]] 与 [[National Dropout Prevention Center|NDPC]] 仅看干预结束即测（0 个月随访），因而给予大量方案积极推荐；而 [[Clearinghouse for Military Family Readiness Continuum of Evidence|CMFR]]（6 个月随访）与 Blueprints（12 个月随访）因随访期衰减而裁定同一批项目（如 [[Peer-Assisted Learning Strategies|PALS]]、[[Community Innovation Survey|CIS]]）为证据不足。
 
 > [!citation-card]- 关键定义
-> 教育干预的即时效果常常是海市蜃楼。真正的循证政策必须要求干预在外部脚手架撤除后仍能在真实世界中维持其效应。12 个月干预后持续效果门槛是检验干预究竟重塑了发展轨迹还是仅制造了短期测验波动的试金石。[[Argument_Wadhwa_2024_RER|(Wadhwa et al., 2024, pp. 11–15)]]
+> 教育干预的即时效果常常是海市蜃楼。真正的循证政策必须要求干预在外部[[Scaffolding|脚手架]]撤除后仍能在真实世界中维持其效应。12 个月干预后持续效果门槛是检验干预究竟重塑了发展轨迹还是仅制造了短期测验波动的试金石。[[Argument_Wadhwa_2024_RER|(Wadhwa et al., 2024, pp. 11–15)]]
 >
-> *Fade-out refers to the rapid dissipation of intervention impacts after direct program delivery ceases. Requiring sustained effects at 6 to 12 months [[Parliamentary Office of Science and Technology|POST]]-intervention serves as a decisive institutional threshold separating robust, trajectory-altering educational practices from transient test-score inflations.*
+> *Fade-out refers to the rapid dissipation of intervention impacts after direct program delivery ceases. Requiring sustained effects at 6 to 12 months POST-intervention serves as a decisive institutional threshold separating robust, trajectory-altering educational practices from transient test-score inflations.*
 
 ---
 

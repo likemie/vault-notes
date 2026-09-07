@@ -147,7 +147,7 @@ updated: 2026-09-07
 > - **[[Social License to Operate|社会运营许可]]（Social License to Operate）** 阐释大学学术探索、产业前沿研发与颠覆性技术试验维系公共财政支持、伦理合规合法性及全社会民主信任的基础性政治与社会契约（pp. 75, 93, 102）。
 > - **[[Science Capital|科学资本]]（Science Capital）与 [[Scientific Literacy|科学素养]]（Scientific Literacy）** 解释家庭背景、社会网络与文化资源如何深层影响青少年科学抱负，阐明现代科学素养从[[Rote Learning|死记硬背]]公式向证据评估、[[Data Literacy|数据素养]]与 [[AI Literacy|人工智能素养]]的当代演进（pp. 30–32）。
 > - **[[Informal Science Learning|非正式科学学习]]（Informal Science Learning）与 [[Citizen Science|公民科学]]（Citizen Science）** 确立科学探索中心、博物馆及社区空间作为支撑繁荣社会的文化基建地位，揭示公众作为数据生产者与研究共同体深度介入真实科研的平权力量（pp. 42–44, 75）。
-> - **[[Post-Normal Science|后常规科学]]（[[Parliamentary Office of Science and Technology|POST]]-Normal Science）与 [[Scientific Uncertainty|科学不确定性]]（Scientific Uncertainty）** 在事实不确定、价值存在争议、利益博弈剧烈且决策紧迫的复杂治理情境下，确立坦诚向决策者与社会公众披露科学证据不确定性与局限性的制度规范（pp. 84–86）。
+> - **[[Post-Normal Science|后常规科学]]（POST-Normal Science）与 [[Scientific Uncertainty|科学不确定性]]（Scientific Uncertainty）** 在事实不确定、价值存在争议、利益博弈剧烈且决策紧迫的复杂治理情境下，确立坦诚向决策者与社会公众披露科学证据不确定性与局限性的制度规范（pp. 84–86）。
 > - **[[Patient and Public Involvement|患者与公众参与]]（PPI）与 [[The Social Value Model|社会价值模型]]（Social VALUE Model）** 提炼英国第三部门医学研究由受影响病患群体全流程主导的共创机制，以及政府借助采购合同 10% 社会价值权重撬动企业参与科普场馆的政策杠杆（pp. 69–74）。
 > - **[[Research Impact|科研影响力]]（Research Impact）与 [[Organizational Culture|组织文化]]（Organizational Culture）** 剖析国家评估机制中对长周期、弥散性社会效益因果归因的制度扭曲，确立大学内部从管理层到一线学者的支持性文化变革路径（pp. 98, 100–101）。
 
@@ -188,7 +188,7 @@ updated: 2026-09-07
 > - **1. 历史[[Paradigm|范式]]演进与时代复合危机** 40 年来全球科研论文出版量激增至每年 330 万篇，互联网算法推荐与生成式 AI 彻底颠覆信息传播生态，气候危机、公共卫生大流行与公共财政紧缩加剧了公众对科学证据与不确定性理解的需求，促使科学传播范式从单向灌输彻底走向双向共创（pp. 4–8, 11–13）。
 > - **2. 公众态度图景与深刻治理赤字** 全国民调揭示出公众对科学家的崇高信任（87% 信任大学学者）与现实参与维度的极度匮乏——62% 认为日常获知科学信息不足，仅 12% 感觉在科技决策中有发言权，商业科学家（47%）与 AI 发展（33%）更深陷信任赤字，暴露出严重的制度性参与断层（pp. 9–13, 47, 70, 83）。
 > - **3. 六大细分领域系统性制度壁垒剖析** 深入学校、场馆、媒体、企业、政府与大学六大[[Champ|场域]]，全面揭示制约公众参与深化的体制根源：中小学实验教学被[[Rote Learning|死记硬背]]挤压（Ch1）；校外场馆深陷生存危机与地理集聚（Ch2）；高校通稿夸大结论与社交媒体算法偏误（Ch3）；产业界研发体量与社会[[Dialogue in Education|对话]]严重脱节（Ch4）；议员信源失真与[[Post-Normal Science|后常规科学]]不确定性被刻意遮蔽（Ch5）；大学学者 75% 深陷时间紧迫困境与“重论文轻外展”的考评惩罚（Ch6）。
-> - **4. 破除藩篱的创新实践范式萃取** 系统总结各领域前沿探索所孕育的突破性机制：爱沙尼亚宽口径科学探究教育（Ch1）；科学中[[Flow|心流]]动巡回展与在地[[Citizen Science|公民科学]]（Ch2）；[[Science Media Centre|科学媒体中心]]（SMC）中立专业机制与[[Solutions Journalism|解决方案新闻]]（Ch3）；政府采购 10% 社会价值定向撬动与第三部门全流程 [[Patient and Public Involvement|PPI]] 患者参与（Ch4）；议会科技办公室（[[Parliamentary Office of Science and Technology|POST]]）循证审计与部委首席科学顾问网络（Ch5）；[[National Co-ordinating Centre for Public Engagement|英国国家公众参与协调中心]]（NCCPE）文化评估工具与 [[Research Excellence Framework|REF]] 2029 改革方案（Ch6）。
+> - **4. 破除藩篱的创新实践范式萃取** 系统总结各领域前沿探索所孕育的突破性机制：爱沙尼亚宽口径科学探究教育（Ch1）；科学中[[Flow|心流]]动巡回展与在地[[Citizen Science|公民科学]]（Ch2）；[[Science Media Centre|科学媒体中心]]（SMC）中立专业机制与[[Solutions Journalism|解决方案新闻]]（Ch3）；政府采购 10% 社会价值定向撬动与第三部门全流程 [[Patient and Public Involvement|PPI]] 患者参与（Ch4）；议会科技办公室（POST）循证审计与部委首席科学顾问网络（Ch5）；[[National Co-ordinating Centre for Public Engagement|英国国家公众参与协调中心]]（NCCPE）文化评估工具与 [[Research Excellence Framework|REF]] 2029 改革方案（Ch6）。
 > - **5. 科研全生命周期协同行动蓝图** 将公众参与从自发自愿的偶发善举升格为维系办学与创新存续的战略性制度投资；通过全书 20 项核心建议（Recommendations 1–20），构建跨政府部委、资助机构、大学管理层、产业界与学术共同体的协同治理闭环，将科学参与全方位内嵌于选题构思、研究实施、政策转化到社会反馈的完整生命周期之中（pp. 14–15, 29–106）。
 
 ---
@@ -240,7 +240,7 @@ updated: 2026-09-07
 > - **2000 万人次** 全英科技馆与科学探索中心每年吸引的公众参访总量，但 50% 欠发达地区面临场馆物理真空。（p. 42）
 > - **40% 通稿失真** [[Science Journalism|科学新闻]]报道中的因果夸大与结论外推，约 40% 源于高校科研机构新闻通稿的源头夸大。（p. 61）
 > - **67% 产业研发** 产业界承担英国逾三分之二的总体科研与试验发展（R&D）经费支出，构成科技创新的物质主力。（p. 68）
-> - **55% vs 22%** 55% 的英国国会议员在科技政策上依赖外部游说与智库信源，仅 22% 依赖中立权威的议会科技办公室（[[Parliamentary Office of Science and Technology|POST]]）。（p. 82）
+> - **55% vs 22%** 55% 的英国国会议员在科技政策上依赖外部游说与智库信源，仅 22% 依赖中立权威的议会科技办公室（POST）。（p. 82）
 > - **85% 参与覆盖** 英国理工科（STEM）科研人员开展公众参与的比例达到 85%，高频参与者占比攀升至 27%。（p. 94）
 > - **75% 时间挤压** 75% 的一线科研人员将严峻的“时间压力”列为阻碍开展公众参与的首要体制性障碍。（p. 97）
 > - **50% REF 案例** 英国 2014 年与 2021 年两轮全国科研卓越框架（REF）评估中，约 50% 的影响力案例以公众参与为关键路径。（p. 100）

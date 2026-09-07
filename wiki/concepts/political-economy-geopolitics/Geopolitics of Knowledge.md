@@ -6,7 +6,7 @@ aliases:
 summary: "围绕知识生产、流动、控制和利用展开的地缘政治竞争形态，用于分析高等教育、科研和技术如何成为国际权力关系的一部分。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 76
+related_count: 77
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -67,6 +67,7 @@ related_concepts:
   - "[[Employability]]"
   - "[[Blue Skies Research]]"
 related_theories:
+  - "[[Human Capital Theory]]"
   - "[[Critical Geopolitics]]"
   - "[[Fixity-Motion Tension]]"
   - "[[Decolonial Geopolitics of Knowledge]]"
@@ -111,7 +112,7 @@ updated: 2026-08-20
 ## 定义
 
 > [!info] 核心定义
-> 知识地缘政治（Geopolitics of Knowledge，GPK）指在知识密集型资本主义的全球语境中，高等教育被重构为[[Knowledge Production|知识生产]]、创新和人力资本的核心场所，从而成为地缘政治竞争和战略定位的关键维度。该概念关注创新、科学和教育如何被想象为个体、企业、地区和国家的全球竞争优势来源，以及这一过程中涉及的政治、话语和物质/结构性转变（Thompson & Parreira do Amaral, 2022, pp.8–9）。
+> 知识地缘政治（Geopolitics of Knowledge，GPK）指在知识密集型资本主义的全球语境中，高等教育被重构为[[Knowledge Production|知识生产]]、创新和[[Human Capital Theory|人力资本]]的核心场所，从而成为地缘政治竞争和战略定位的关键维度。该概念关注创新、科学和教育如何被想象为个体、企业、地区和国家的全球竞争优势来源，以及这一过程中涉及的政治、话语和物质/结构性转变（Thompson & Parreira do Amaral, 2022, pp.8–9）。
 
 > [!quote]
 > "geopolitics of"之后最常见的名词从 2010 年起已是 Knowledge——超越 energy、oil、capitalism、Europe、war——知识已成为当代地缘政治中书写和辩论最密集的主题。（[[Argument_Partaken_2022_Springer|Partaken, 2022, p.68]]）
@@ -194,7 +195,7 @@ updated: 2026-08-20
 > ```
 
 > [!line-a] 空间竞争与知识经济化
-> 高等教育被嵌入关于未来、竞争力、经济增长的集体**政治想象**之中，这些想象驱动政策和制度变革（Thompson & Parreira do Amaral, 2022, p.11）。在此过程中，高等教育机构从民族国家框架中"脱位"并在全球政治经济[[Champ|场域]]中"再定位"，物理空间（从知识储存场所转变为"makerspaces"）和社会空间全面**重构（Thompson & Parreira do Amaral, 2022, pp.6–7）**。[[Knowledge-Based Economization|知识经济化]]将知识视为产生价值和比较优势的关键资产——包括专有知识（专利、创新）、创新学习环境和人力资本（Thompson & Parreira do Amaral, 2022, p.9）。
+> 高等教育被嵌入关于未来、竞争力、经济增长的集体**政治想象**之中，这些想象驱动政策和制度变革（Thompson & Parreira do Amaral, 2022, p.11）。在此过程中，高等教育机构从民族国家框架中"脱位"并在全球政治经济[[Champ|场域]]中"再定位"，物理空间（从知识储存场所转变为"makerspaces"）和社会空间全面**重构（Thompson & Parreira do Amaral, 2022, pp.6–7）**。[[Knowledge-Based Economization|知识经济化]]将知识视为产生价值和比较优势的关键资产——包括专有知识（专利、创新）、创新学习环境和[[Human Capital Theory|人力资本]]（Thompson & Parreira do Amaral, 2022, p.9）。
 
 > [!line-b] Hub-Flow 想象与固着-流动张力
 > [[Knowledge-Based Economization|知识经济化]]的核心地缘政治悖论是[[Fixity-Motion Tension|固着-流动张力]]：国家和地方的空间配置被创造出来以锚定和促进全球资本流动，但流动性本身又不断动摇这些配置的稳定性。集群、创意城市、学习区域、[[Innovation Ecosystem|创新生态系统]]等成为[[Knowledge-Based Economy|知识经济]]空间组织的具体表述——[[Hub and Flow Imaginaries]]将世界划分为知识资本流动的枢纽中心与边缘区域，正是这种地缘政治想象的当代表现（[[Argument_Moisio_2022_Springer|Moisio, 2022, pp.27–28]]）。

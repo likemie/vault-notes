@@ -8,7 +8,7 @@ aliases:
 summary: "经目的性选择和加工的派生统计量，合并多数据源；Le Galès 技术—权力双重性框架，Rambla 四维运作机制分析；合并原 Education Indicators"
 type: concept
 domain: "research-methodology"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -46,6 +46,7 @@ related_facts:
   - "[[Lisbon Strategy]]"
   - "[[Europe 2020 Strategy]]"
   - "[[YOUNG_ADULLLT]]"
+  - "[[IEA]]"
   - "[[Innovation Union]]"
   - "[[EU Skills Agenda]]"
   - "[[Youth Guarantee Scheme]]"
@@ -143,7 +144,7 @@ Sauvageot（1997）将指标类比为仪表盘上的警示灯——提醒决策�
 ### OECD 层面的指标运作
 
 - **指标影响行为**[[Education at a Glance|EAG]] 指标被用于薪资谈判、选举策略制定；荷兰教师利用 1996 年薪资比较指标成功争取加薪(Smith & Baker, 2001, p.142; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.3–4]])
-- **数据滥用的制度化** 1996 年 EAG 中，同样的 IEA 阅读素养调查数据被用于计算三种不同指标——对相同数据进行多种推论、使用并非为此目的设计的数据(Bottani, 1996, pp.283–284; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.13]])
+- **数据滥用的制度化** 1996 年 EAG 中，同样的 [[IEA]] 阅读素养调查数据被用于计算三种不同指标——对相同数据进行多种推论、使用并非为此目的设计的数据(Bottani, 1996, pp.283–284; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.13]])
 - **指标删除的阻力** 一旦指标被发布，即使 OECD 团队想删除，用户（政策制定者）会产生依赖并抵制。"即使我们从印刷版删除一个表格，它仍保留在网络版"（OECD 官员访谈; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.17]]）
 
 ### 欧盟层面的指标体系运作

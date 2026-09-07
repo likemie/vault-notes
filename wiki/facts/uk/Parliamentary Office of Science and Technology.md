@@ -1,7 +1,6 @@
 ---
 title: Parliamentary Office of Science and Technology
 aliases:
-  - POST
   - 英国议会科学与技术办公室
   - 议会科学技术办公室
   - POSTnote

@@ -9,7 +9,7 @@ title: "Argument_Moisio_2022_Springer"
 argument_key: "Argument_Moisio_2022_Springer"
 argument_display_title: "In what sense a geopolitical knowledge-based economy? In M"
 argument_kind: "book"
-argument_related_count: 30
+argument_related_count: 31
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -50,6 +50,7 @@ related_concepts:
   - "[[Progressive Neoliberalism]]"
   - "[[Geopolitics of Knowledge]]"
 related_theories:
+  - "[[Human Capital Theory]]"
   - "[[Cultural Political Economy]]"
   - "[[Systems of Innovation]]"
   - "[[Fixity-Motion Tension]]"
@@ -76,7 +77,7 @@ citation_aliases:
 
 > [!question]
 
-当代知识密集型资本主义在什么意义上是一种地缘政治经济？Moisio 的核心论旨是：当代知识密集型资本主义并非纯粹的经济现象，而是一种"历史偶然的地缘政治星座"，将空间、城市、国家、人力资本、教育和技术统合在一起。被常规性地视为地缘经济（geoeconomic）的当代现实，需要从地缘政治的角度重新理解——因为 [[Knowledge-Based Economy|KBE]] 不仅是市场交易，更是通过政治行动（国家、城市、区域）持续再领土化的[[Relational Space|关系性空间]]过程(p.21)。
+当代知识密集型资本主义在什么意义上是一种地缘政治经济？Moisio 的核心论旨是：当代知识密集型资本主义并非纯粹的经济现象，而是一种"历史偶然的地缘政治星座"，将空间、城市、国家、[[Human Capital Theory|人力资本]]、教育和技术统合在一起。被常规性地视为地缘经济（geoeconomic）的当代现实，需要从地缘政治的角度重新理解——因为 [[Knowledge-Based Economy|KBE]] 不仅是市场交易，更是通过政治行动（国家、城市、区域）持续再领土化的[[Relational Space|关系性空间]]过程(p.21)。
 
 
 ## 理论框架
@@ -117,7 +118,7 @@ Moisio 首先论证 [[Knowledge-Based Economy|KBE]] 并非天然、必然的经�
 
 2. **二战后学术多元探索** 不同学科学者从各自视角理解资本主义的结构转型——Drucker（1959/1969）的"知识工作者"概念和知识管理学术领域的确立；Bell(1973)的后工业社会理论强调[[Theoretical Knowledge|理论知识]]的相对重要性；二者共同揭示"经济-社会界面正在发生结构性转变"(p.22)。
 
-3. **内生增长理论的经济学授权**Romer(1986)等新增长理论家"提出创新、学习、人力资本、创业和技术是'内生增长'的根本"，知识和人力资本投资被视为不受有限限制的增长资产，为 KBE 提供了经济学合法性基础(p.23)。
+3. **内生增长理论的经济学授权**Romer(1986)等新增长理论家"提出创新、学习、[[Human Capital Theory|人力资本]]、创业和技术是'内生增长'的根本"，知识和人力资本投资被视为不受有限限制的增长资产，为 KBE 提供了经济学合法性基础(p.23)。
 
 4. **政策话语化** 1990 年代以来，原本用于学术解释的概念成为 [[OECD]] 世界政策制定者的核心术语。世界银行（1991, pp.33–35）论断"无形投资于知识积累——而非物理资本投资——是决定性的"(p.23)。
 
@@ -218,7 +219,7 @@ Moisio 以对批判研究者的呼吁结束：(1) 不仅要审视 KBE 的空间�
 
 Moisio 的核心论旨：
 
-> “在本章中，我试图将据称是地缘经济的现在地缘政治化。具体而言，我主张当代知识密集型资本主义是一个具有历史偶然性的地缘政治星系，它将空间、城市、国家、人力资本、教育和技术等一系列议题汇聚在一起。”
+> “在本章中，我试图将据称是地缘经济的现在地缘政治化。具体而言，我主张当代知识密集型资本主义是一个具有历史偶然性的地缘政治星系，它将空间、城市、国家、[[Human Capital Theory|人力资本]]、教育和技术等一系列议题汇聚在一起。”
 > (“在本章中，我试图将据称是地缘经济的现在地缘政治化。具体而言，我主张当代知识密集型资本主义是一个具有历史偶然性的地缘政治星系，它将空间、城市、国家、人力资本、教育和技术等一系列议题汇聚在一起。”
 > ("In this chapter, I seek to geopoliticize the purportedly geoeconomic present. In particular, I argue that the contemporary knowledge-intensive capitalism is a historically contingent geopolitical constellation that brings together a range of issues such as space, cities, states, human capital, education, and technology."))(p.21)
 

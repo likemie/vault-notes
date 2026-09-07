@@ -12,10 +12,10 @@ aliases:
 summary: "19世纪在欧洲大陆确立的阶级分选式教育制度，由面向平民大众的初等终点性轨道与面向大资产阶级和统治精英的中等文理学术轨道构成，形成阶层固化与教育特权再生产的二元学制格局"
 type: concept
 domain: "comparative-education"
-related_count: 30
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 29
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/comparative-education
   - theme/school-system
@@ -24,11 +24,11 @@ tags:
   - theme/nineteenth-century
   - level/k12
 related_concepts:
+  - "[[Culture Générale]]"
   - "[[Tracking]]"
   - "[[Common School Movement]]"
   - "[[Conatus]]"
   - "[[Bildung]]"
-  - "[[General Education]]"
   - "[[Normal School]]"
   - "[[Paradigm]]"
   - "[[Going Native]]"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Cultural Capital]]"
   - "[[Policy Borrowing]]"
   - "[[School Choice]]"
+  - "[[General Education]]"
 related_theories:
   - "[[Technological Trajectories]]"
 related_methods: []
@@ -46,13 +47,11 @@ related_persons:
   - "[[Robert Cowen]]"
   - "[[Andreas Kazamias]]"
   - "[[Johann Wilhelm Süvern]]"
-  - "[[Philip Foster]]"
   - "[[Calvin Stowe]]"
   - "[[Henry Barnard]]"
   - "[[Pierre Bourdieu]]"
   - "[[François Guizot]]"
 related_facts:
-  - "[[Parliamentary Office of Science and Technology]]"
   - "[[Guizot Law of 1833]]"
   - "[[1904 Educational System]]"
   - "[[Prussian Draft Education Law of 1819]]"
@@ -75,7 +74,7 @@ updated: 2026-09-07
 双轨学制（Dual School System），又称双轨制学制或阶级分选学制（Selective Class System of Schools），是指 19 世纪在西欧与中欧（以法国、普鲁士及英国为典型）形成的自上而下相互平行、互不沟通的二元教育组织架构。
 
 > [!def] 核心定义
-> 双轨学制是近代欧洲民族国家在资产阶级革命与工业化进程中确立的阶级再生产制度机器。该体制将适龄人口在法理与组织上划分为两条性质截然对立的轨道：一轨是面向广大劳动平民的初等教育系统（初级小学与高级初小），传授基础读写算与职业技术，以劳动技能培训和道德驯化为轴心，具有不可升学的终点性质；另一轨是面向大资产阶级与贵族子弟的中等教育系统（文理中学预备班 ➔ 文理中学 ➔ 大学），传授文理融通的古典“普通文化”，垄断文凭会考与国家统治精英的晋升渠道。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 28–30)]]
+> 双轨学制是近代欧洲民族国家在资产阶级革命与工业化进程中确立的阶级再生产制度机器。该体制将适龄人口在法理与组织上划分为两条性质截然对立的轨道：一轨是面向广大劳动平民的初等教育系统（初级小学与高级初小），传授基础读写算与职业技术，以劳动技能培训和道德驯化为轴心，具有不可升学的终点性质；另一轨是面向大资产阶级与贵族子弟的中等教育系统（文理中学预备班 ➔ 文理中学 ➔ 大学），传授文理融通的古典“[[Culture Générale|普通文化]]”，垄断文凭会考与国家统治精英的晋升渠道。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 28–30)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指称近代欧洲国家通过国家立法直接将社会阶级分层法典化、制度化固化的宏观教育结构形态。
@@ -85,7 +84,7 @@ updated: 2026-09-07
 > [!citation-card]- 关键表述：作为阶级等级镜像的学校系统
 > [[Victor Cousin|维克多·库森]]所构想的理想学校系统，在本质上是一种初等教育后严格按社会阶级进行分选的学校体系：基础初等小学面向全体平民，高级初等小学面向工商业中产阶级，初级中学面向中上阶层青年，而选拔性的高级文理中学则专门保留给社会的最高统治精英阶层。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 29–30)]]；引自 Brewer (1971:95)
 >
-> *As to his ideal school system, Cousin ... envisaged a selective class system of [[Parliamentary Office of Science and Technology|POST]]-elementary schools: primary elementary schools for everyone, 'advanced elementary schools' for the 'middle class', lower-level secondary schools for 'young people of the middle and upper classes', and selective upper secondary schools for the 'upper ranks of society'.*
+> *As to his ideal school system, Cousin ... envisaged a selective class system of POST-elementary schools: primary elementary schools for everyone, 'advanced elementary schools' for the 'middle class', lower-level secondary schools for 'young people of the middle and upper classes', and selective upper secondary schools for the 'upper ranks of society'.*
 
 > [!boundary]- 概念边界
 > - 不等于单轨学制（Single-Track / [[Common School Movement|Common School]] System） — 单轨制以 19 世纪北美[[Common School Movement|公共学校运动]]为代表，主张全体儿童不分出身进入统一的公立小学，学制自下而上垂直衔接初中、高中与大学，形成人人皆有平权机会的梯形结构。
@@ -103,7 +102,7 @@ updated: 2026-09-07
 > | **历史发轫** | 19 世纪欧陆立宪君主国（法、德、英） | 19 世纪北美自由共和政体（美） | 20 世纪下半叶欧美现代综合中学 |
 > | **招[[Conatus\|生机]]制** | **出生阶级身份决定**，平民入初小，精英入预备班 | **社区地缘普遍准入**，不分阶层混合入学 | **标准化测试与学科学力分类** |
 > | **升学接口** | **初等轨绝不通往大学**，中等轨直通高等教育 | **垂直贯通**（小学 ➔ 中学 ➔ 大学） | 共享同一高中毕业文凭，但分化升学竞争力 |
-> | **课程哲学** | 初等轨重 3Rs 与道德安抚；中等轨重古典普通文化 | 统一公民基础知识、无宗派道德与实用民主素养 | 分化为荣誉学术课程、普通课程与职业技术课程 |
+> | **课程哲学** | 初等轨重 3Rs 与道德安抚；中等轨重古典[[Culture Générale\|普通文化]] | 统一公民基础知识、无宗派道德与实用民主素养 | 分化为荣誉学术课程、普通课程与职业技术课程 |
 > | **核心社会功能** | 维系资产阶级与贵族统治秩序，防范阶层流动失序 | 熔铸统一的爱国公民认同，促进代际平等流动 | 适应多样化学术需求，但隐性再生产家庭资本优势 |
 
 ---
@@ -114,7 +113,7 @@ updated: 2026-09-07
 
 > [!feature] 核心要素
 > - **终点性平民初等轨道（Primary Terminal Order / Volksschule）** 面向工农平民与城市贫民；初级小学传授读写算（3Rs）、母语法语或德语通用语、度量衡以及立德固本的宗教道德[[Bildung|教化]]；在超 6,000 人工商业城镇增设高级初等小学（*écoles primaires supérieures* / *Bürgerschulen*），传授商业簿记、制图与实用数理；全轨道以培养勤勉守法的产业劳动力与安抚社会戾气为首要功能，严格封堵升入大学的通道。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 28–29)]]
-> - **排他性精英中等学术轨道（Secondary Academic Order / Gymnasium / Lycée）** 面向贵族、大金融资本家与高级官僚；自设专属的中学附属收费初等预备班（避免与平民子弟混同）；课程以拉丁文、希腊古典文学、严密几何与哲学修辞的“普通文化（*[[General Education|culture générale]]*）”为核心；全权垄断大学入学会考（Baccalauréat / Abitur）与大学准入，为国家再生产官僚、法官、学者与政治统治精英。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 29–30)]]
+> - **排他性精英中等学术轨道（Secondary Academic Order / Gymnasium / Lycée）** 面向贵族、大金融资本家与高级官僚；自设专属的中学附属收费初等预备班（避免与平民子弟混同）；课程以拉丁文、希腊古典文学、严密几何与哲学修辞的“[[Culture Générale|普通文化]]（*culture générale*）”为核心；全权垄断大学入学会考（Baccalauréat / Abitur）与大学准入，为国家再生产官僚、法官、学者与政治统治精英。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 29–30)]]
 > - **师资培养体系的二元断裂（Bifurcated Teacher Pipelines）** 初等小学教师来自独立设置的中等[[Normal School|师范学校]]（Normal School），学生大多出身平民阶层，仅受过实用教学技能操练；而文理中学教师必须出自综合大学文理学院或巴黎高等师范学校，拥有深厚学术声望与独立知识分子地位；两支师资在薪资待遇、知识素养与社会阶层上互不往来。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 27–28)]]
 > - **学费门槛与制度性准入壁垒（Financial and Latin Gatekeeping）** 精英中等学校收取昂贵学费，且入学考试硬性要求掌握古典语言语法；大众初等学校毕业生由于从未被讲授过拉丁文与高级数学，即便学业拔尖也无法跨越这道制度性鸿沟。
 
@@ -161,7 +160,7 @@ updated: 2026-09-07
 > **大资产阶级立宪秩序的法理辩护机制** 沃尔特·布鲁尔与罗伯茨深刻剖析了以法国1833 年[[Guizot Law of 1833|基佐法案]]为代表的双轨制立法实质：七月王朝的立宪大资产阶级并非真正追求教育民主与阶层流动，而是构筑了一套精密的阶级辩护体系；他们通过初级公学向大众分配基础识字以维持社会安宁并适应工业工场纪律，通过高级初小向中产阶层提供技术出路，而将最核心的国家治理文凭与学术[[Bildung|教养]]死死封锁在中等中学内，以国家强制力完成了统治阶级的代际闭合再生产。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 28–29)]]；引自 Brewer (1971:58); Roberts (1996:406)
 
 > [!claim] [[Victor Cousin|Cousin, V.]]
-> **学校层级与社会阶级分工的宿命论契合** 维克多·库森在论证中指出，社会必然存在着不同等级的现实分工，教育学制度的设计必须与这一客观现实相称。初等小学是普及性的道德启蒙，而文理中学所磨砺的心智训练（普通文化）专属于承担国家公共理性职责的高级阶层；如果打破双轨界限诱导大众普遍追求学术中等教育，只会制造心怀不满的失意文人阶层，引发社会政治动乱。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 29–30)]]
+> **学校层级与社会阶级分工的宿命论契合** 维克多·库森在论证中指出，社会必然存在着不同等级的现实分工，教育学制度的设计必须与这一客观现实相称。初等小学是普及性的道德启蒙，而文理中学所磨砺的心智训练（[[Culture Générale|普通文化]]）专属于承担国家公共理性职责的高级阶层；如果打破双轨界限诱导大众普遍追求学术中等教育，只会制造心怀不满的失意文人阶层，引发社会政治动乱。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 29–30)]]
 
 ---
 
@@ -193,7 +192,7 @@ updated: 2026-09-07
 双轨学制经历了 19 世纪法典化巩固、跨大西洋单轨抗衡，到二战后在民主化浪潮中被综合中学拆解转化的完整历程：
 
 > [!dev-timeline] 概念演变
-> - **19世纪初中叶 — 普法英确立欧陆典型双轨学制** 普鲁士《1819 年[[Johann Wilhelm Süvern|聚芬]]草案》、法国《1833 年[[Guizot Law of 1833|基佐法案]]》以及英国 1870 年《[[Philip Foster|福斯特]]法案》先后出台，正式将平民初等小学与精英古典中学的制度性隔离确立为欧洲国家的主导学制形态。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 28–30)]]
+> - **19世纪初中叶 — 普法英确立欧陆典型双轨学制** 普鲁士《1819 年[[Johann Wilhelm Süvern|聚芬]]草案》、法国《1833 年[[Guizot Law of 1833|基佐法案]]》以及英国 1870 年《福斯特法案》先后出台，正式将平民初等小学与精英古典中学的制度性隔离确立为欧洲国家的主导学制形态。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 28–30)]]
 > - **1830s–1860s — 跨大西洋抗衡与单轨公学模式崛起** 北美[[Horace Mann|霍勒斯·曼]]、[[Calvin Stowe|卡尔文·斯托]]与[[Henry Barnard|亨利·巴纳德]]掀起[[Common School Movement|公共学校运动]]，拒绝欧陆双轨分选架构，奠定了单轨制教育传统，形成世界近现代学制发展的两大基本路向。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 31–33)]]
 > - **19世纪末至20世纪初 — 东方借用与双轨制在亚洲移植** 清末 1904 年“[[1904 Educational System|癸卯学制]]”与日本明治维新学制大量吸收德日双轨经验，设立实业初等与文理大学两歧系统，成为近代后发国家组织现代学校教育的早期蓝本。
 > - **1960s–1970s — 综合中学革命与法定双轨学的解体** 随着二战后教育民主化与阶层流动呼声高涨，英国（1965 年综合中学通告）、法国（1975 年阿比法案颁布“统一初中” *collège unique*）相继拆除了初中阶段的双轨隔离，法定双轨学制在西欧绝大多数国家宣告终结。
@@ -230,7 +229,7 @@ updated: 2026-09-07
 > | [[Common School Movement]] | 概念 | 作为单轨公学学制的历史代表，与欧陆双轨学制形成近代世界最重大的跨大西洋学制对立。 |
 > | [[Tracking]] | 概念 | 记录法定双轨学制终结后，学校分流机制向现代综合中学内部学力分轨的历史演进。 |
 > | [[Normal School]] | 概念 | 专为双轨学制中的初等平民轨道批量生产专职小学教师的专门师范机器。 |
-> | [[General Education]] | 概念 | 双轨学制中精英中等学术轨道所垄断的核心文理融通课程理想（普通文化）。 |
+> | [[General Education]] | 概念 | 双轨学制中精英中等学术轨道所垄断的核心文理融通课程理想（[[Culture Générale\|普通文化]]）。 |
 > | [[Bildung]] | 概念 | 德意志文理中学在双轨学制中用以标榜精英心智全面陶冶的教化哲学。 |
 > | [[Guizot Law of 1833]] | 政策事实 | 法国七月王朝奠定初等初级、初等高级与文理中学阶级双轨学制的基石性法案。 |
 > | [[Prussian Draft Education Law of 1819]] | 政策事实 | [[Johann Wilhelm Süvern\|聚芬]]主持设计的普鲁士双轨初等法案，构成了[[Report on the State of Public Instruction in Prussia\|库森报告]]与法国[[François Guizot\|基佐]]双轨法案的技术原型。 |

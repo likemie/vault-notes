@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04"
 argument_display_title: "Research Methods in Education · Ch04"
 argument_kind: "book-chapter"
-argument_related_count: 53
+argument_related_count: 52
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -82,7 +82,6 @@ related_methods:
 related_persons: []
 related_facts:
   - "[[Stanford Prison Experiment]]"
-  - "[[Parliamentary Office of Science and Technology]]"
   - "[[RAiSE Programme]]"
 related_arguments: []
 sources:
@@ -694,7 +693,7 @@ Reichenbach（1956）和 Salmon（1998）提出了**[[Screening Off|筛选隔离
 
 #### 事后回溯研究与七步过程
 
-Morrison（2009）提出了两种回溯因果推断方法：（a）各种形式的[[Ex Post Facto Research|事后回溯研究]]（ex [[Parliamentary Office of Science and Technology|POST]] facto research，见第15章）；（b）一个七步推理过程（pp.82–83）：
+Morrison（2009）提出了两种回溯因果推断方法：（a）各种形式的[[Ex Post Facto Research|事后回溯研究]]（ex POST facto research，见第15章）；（b）一个七步推理过程（pp.82–83）：
 
 > [!proc] 从效果追溯原因的七步过程
 > 1. **确立需要解释的究竟是什么** 明确效果、规律性或现象。

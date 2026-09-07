@@ -10,7 +10,7 @@ subtype: event
 region: hong-kong
 fact_region: "hong-kong"
 fact_kind: "event"
-fact_related_count: 17
+fact_related_count: 16
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -40,7 +40,6 @@ related_facts:
   - "[[Citizenship and Social Development]]"
   - "[[Youth Development Blueprint]]"
   - "[[National Education]]"
-  - "[[Parliamentary Office of Science and Technology]]"
   - "[[Liberal Studies]]"
 related_arguments:
   - "[[Argument_Yan_2025_JCS]]"
@@ -92,7 +91,7 @@ updated: 2026-07-13
 > [!citation-card]- 国安法后的课程[[Paradigm|范式]]转型
 > 2020年后通识科与[[Citizenship and Social Development|公社科]]课程的重组标志着一个决定性的转变：从侧重于培养理性讨论和参与式公民所必需的素质，转向强加一种关于香港作为中国一部分的同质化和总体性的国族身份图景（[[Argument_Vickers_2024_CE|Vickers, 2024, p.154]]）。
 >
-> *“The [[Parliamentary Office of Science and Technology|POST]]-2020 overhaul of the curriculum for [[Liberal Studies]] / [[Citizenship and Social Development|CSD]] signals a decisive shift from an emphasis on fostering qualities … essential to the responsible exercise of participatory citizenship, towards imposition of a homogenous and totalising vision of Hong Kong-as-Chinese.”*
+> *“The POST-2020 overhaul of the curriculum for [[Liberal Studies]] / [[Citizenship and Social Development|CSD]] signals a decisive shift from an emphasis on fostering qualities … essential to the responsible exercise of participatory citizenship, towards imposition of a homogenous and totalising vision of Hong Kong-as-Chinese.”*
 
 ---
 

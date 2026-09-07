@@ -8,7 +8,7 @@ summary: "英国著名比较教育学家与科学哲学家，伦敦大学教育�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 48
+person_related_count: 47
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -51,10 +51,10 @@ related_instruments: []
 related_persons:
   - "[[Karl Popper]]"
   - "[[John Dewey]]"
-  - "[[George Bereday]]"
   - "[[Joseph Lauwerys]]"
   - "[[Nicholas Hans]]"
   - "[[Isaac Kandel]]"
+  - "[[George Bereday]]"
   - "[[Harold Noah]]"
   - "[[Max Eckstein]]"
   - "[[Andreas Kazamias]]"
@@ -63,7 +63,6 @@ related_persons:
   - "[[Henry Barnard]]"
   - "[[Plato]]"
   - "[[C. Arnold Anderson]]"
-  - "[[Edmund King]]"
   - "[[Philip Foster]]"
 related_facts:
   - "[[Comparative Education Society in Europe]]"
@@ -88,7 +87,7 @@ updated: 2026-09-07
 > [!person-profile] 人物档案
 > - **身份位置** 英国比较教育学家、科学哲学家，伦敦大学教育学院（Institute of Education, IOE）比较教育学教授兼系主任（1975–1985），世界比较教育学会联合会（World Council of Comparative Education Societies, WCCES）前主席。
 > - **核心角色** 战后比较教育“科学化运动”三大奠基流派之一（问题学派）的领袖；将[[Karl Popper|卡尔·波普尔]]批判[[Rationalism in International Relations|理性主义]]与[[John Dewey|杜威]]反思思维方法论化，将学科重塑为面向未来决策的[[Nomothetic|通则式]]预测与[[Policy Science in Comparative Education|政策科学]]。
-> - **代表贡献** 创立比较教育“[[Problem Solving|问题解决]]法（[[Problem Approach]]）”分析程序；提出“批判的二元论（[[Critical Dualism]]）”与教育“文化滞后/时代不同步（Asynchrony）”理论；系统批判老派历史学派的回溯性归因与[[George Bereday|贝雷迪]]的经验归纳进路。
+> - **代表贡献** 创立比较教育“[[Problem Solving|问题解决]]法（[[Problem Approach]]）”分析程序；提出“批判的二元论（[[Critical Dualism]]）”与教育“文化滞后/时代不同步（Asynchrony）”理论；系统批判老派历史学派的回溯性归因与贝雷迪的经验归纳进路。
 
 > [!citation-card] 考恩论霍姆斯作为问题法与预测科学的开拓者
 > 考恩深刻评析指出，霍姆斯在 1960 年代学科方法论转型大论战中扮演了中流砥柱的角色。他坚信比较教育学可以且必须成为一门严谨的“政策科学”，通过引入科学哲学[[Hypothesis|假设]]检验模型与物理学式的精准预测逻辑，为解决现实教育改革中的制度与规范失调提供了高度[[Operationalization|操作化]]的智识工具。[[Argument_Cowen_2023_CE|(Cowen, 2023, pp. 328, 333)]]
@@ -163,7 +162,7 @@ updated: 2026-09-07
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 创立[[Critical Dualism|批判二元论]]，与[[George Bereday|贝雷迪]]、[[Harold Noah|诺亚]]与[[Max Eckstein|埃克斯坦]]共同开启比较教育社会科学化、[[Policy Science in Comparative Education|政策科学]]化与[[Scientific Paradigm|科学范式]]跨大西洋大论战；
+> - **理论路径** 创立[[Critical Dualism|批判二元论]]，与贝雷迪、诺亚与埃克斯坦共同开启比较教育社会科学化、[[Policy Science in Comparative Education|政策科学]]化与[[Scientific Paradigm|科学范式]]跨大西洋大论战；
 > - **方法路径** 确立了“问题甄别—假说提出—情境模式—逻辑演绎—后果预测”的假说-演绎[[Problem Approach|问题法]]，使跨国比较摆脱了无反思的经验白描与静态因素列举；
 > - **政策路径** 深度影响了英联邦、UNESCO 与 IBE 的教育规划专家培训，成为[[International Education|国际教育]]顾问制定政策可行性方案的标准分析工具；
 > - **史料评价** 破除实证派对早期发端的傲慢偏见，高度肯定[[Henry Barnard|亨利·巴纳德]]（Henry Barnard）编纂世界教育百科全书的历史贡献。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 32–33; Holmes, 1965)]]
@@ -201,7 +200,7 @@ updated: 2026-09-07
 > - **师承／合作者** [[Joseph Lauwerys]]、[[Nicholas Hans]] — IOE 比较教育学系前辈与合著者，共同主编《世界教育年鉴》；
 > - **论辩同行（美国实证学派）** [[C. Arnold Anderson]]、[[Harold Noah]]、[[Max Eckstein]] — 围绕恒常普遍规律 vs 权变情境法则展开跨大西洋论辩；
 > - **论辩同行** [[George Bereday]] — 就演绎[[Problem Approach|问题法]] vs 归纳区域研究比较展开跨大西洋大论战；
-> - **论辩同行** [[Edmund King]] — 就[[Nomothetic|通则式]]预测[[Policy Science in Comparative Education|政策科学]] vs 地方生态学语境相对主义展开长达数十年辩鸣；
+> - **论辩同行** c — 就[[Nomothetic|通则式]]预测[[Policy Science in Comparative Education|政策科学]] vs 地方生态学语境相对主义展开长达数十年辩鸣；
 > - **实证批评对象** [[Isaac Kandel]]、[[Michael Sadler]] — 历史学派代表，被霍姆斯批评缺乏政策预测力；
 > - **机构领导** 伦敦大学教育学院（IOE）、世界比较教育学会联合会（WCCES）。
 
@@ -227,7 +226,7 @@ updated: 2026-09-07
 > > 争论焦点在于教育研究应否追求自然科学式的政策干预后果预测，还是应当聚焦于历史文化情境的诠释与价值反思。
 > >
 > > - **Holmes, B.（1965）** 坚信科学的唯一试金石是“预测”，政策决策者迫切需要评估现实干预的未来后果，而非回溯先行历史原因。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 53–54)]]
-> > - **[[Andreas Kazamias]] & [[Edmund King]]** 反驳指出，教育深嵌于复杂的历史、文化与人际互动中，充斥着不可还原的价值与行动者自由意志，强行追求自然科学式的单向预测容易落入[[Technical Rationality|技术理性]]的官僚陷阱。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 55–56; King, 1967)]]
+> > - **[[Andreas Kazamias]] & c** 反驳指出，教育深嵌于复杂的历史、文化与人际互动中，充斥着不可还原的价值与行动者自由意志，强行追求自然科学式的单向预测容易落入[[Technical Rationality|技术理性]]的官僚陷阱。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 55–56; King, 1967)]]
 
 > [!critique]- 批评与局限索引
 > - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 揭示霍姆斯折衷复杂的问题法因坚持批判二元论与权变思维，倾向于暴露政策改革中规范与制度不同步所伴生的尖锐矛盾与非意图后果，无法像经验量化学派那样提供符合执政周期的简化、确定性数据背书，从而在战后官方政策资助市场（五年计划与技术援助）中屡遭冷遇。

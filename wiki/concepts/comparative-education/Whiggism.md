@@ -10,7 +10,7 @@ aliases:
 summary: "历史学中以当代价值、标准或进步结果逆向剪裁历史演化过程的史学倾向；在比较教育学中特指混淆实然因果阐释与应然民主改良，或以当代实证量化尺度评判历史先驱的时代倒错。"
 type: concept
 domain: "comparative-education"
-related_count: 32
+related_count: 30
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -46,15 +46,13 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Isaac Kandel]]"
-  - "[[Harold Noah]]"
-  - "[[Max Eckstein]]"
   - "[[Andreas Kazamias]]"
   - "[[Marc-Antoine Jullien]]"
   - "[[Victor Cousin]]"
+  - "[[Harold Noah]]"
+  - "[[Max Eckstein]]"
   - "[[Joseph Lauwerys]]"
-  - "[[George Bereday]]"
-related_facts:
-  - "[[Parliamentary Office of Science and Technology]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Kazamias_2009_ForgottenThemes]]"
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
@@ -71,7 +69,7 @@ updated: 2026-09-07
 ## 定义
 
 > [!def] 核心定义
-> **辉格史观（Whiggism / The Whig Interpretation of History）**指历史研究中以当下的价值取向、政治制度或学术标准为终极依归，将复杂的历史演进过程简化为通向当下“优越状态”的线性进步叙事，并据此对历史事实与历史当事人展开逆向剪裁与道德裁判的史学方法论倾向。该[[Construct|构念]]由英国史学家赫伯特·巴特菲尔德（Herbert Butterfield）于 1931 年系统确立。在比较教育学中，辉格史观主要表现为两种形态：一是历史学派学者（如[[Isaac Kandel|坎德尔]]）在考察国家制度演进时混淆“实然阐释（What is）”与“应然改良（What ought to be）”，以先验的民主改良热忱逆向剪裁史料；二是战[[Postpositivism|后实证主义]]学者（如[[Harold Noah|诺亚]]与[[Max Eckstein|埃克斯坦]]）虚构学科从“前科学借用”走向“科学假说检验”的单向进化神话，以 20 世纪量化与[[Value Neutrality|价值中立]]公理衡量 19 世纪初启蒙先驱，造成严重的时代倒错与原初人文母题的遮蔽。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 54–55)]]; [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 17–18, 32–33)]]
+> **辉格史观（Whiggism / The Whig Interpretation of History）**指历史研究中以当下的价值取向、政治制度或学术标准为终极依归，将复杂的历史演进过程简化为通向当下“优越状态”的线性进步叙事，并据此对历史事实与历史当事人展开逆向剪裁与道德裁判的史学方法论倾向。该[[Construct|构念]]由英国史学家赫伯特·巴特菲尔德（Herbert Butterfield）于 1931 年系统确立。在比较教育学中，辉格史观主要表现为两种形态：一是历史学派学者（如[[Isaac Kandel|坎德尔]]）在考察国家制度演进时混淆“实然阐释（What is）”与“应然改良（What ought to be）”，以先验的民主改良热忱逆向剪裁史料；二是战[[Postpositivism|后实证主义]]学者（如诺亚与埃克斯坦）虚构学科从“前科学借用”走向“科学假说检验”的单向进化神话，以 20 世纪量化与[[Value Neutrality|价值中立]]公理衡量 19 世纪初启蒙先驱，造成严重的时代倒错与原初人文母题的遮蔽。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 54–55)]]; [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 17–18, 32–33)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 研究者以后见之明（hindsight）为特权坐标，将当下的价值共识（如自由民主体制、量化实证科学）倒推为历史演进的必然终点，从而破坏历史情境的自律性与偶发性。
@@ -91,7 +89,7 @@ updated: 2026-09-07
 > [!citation-card] 卡洛扬纳基与卡扎米亚斯论战后[[Positivism|实证主义]]学科进化神话的时代倒错
 > 战后实证派学者出于学科专业化自满，虚构了一套单向度的科学进化阶梯，将 19 世纪早期发端轻率贬低为业余、前科学的粗劣借用阶段。这种以后发量化标准裁判历史先驱的做法犯了典型的辉格史时代倒错，遮蔽了早期学者作为卓越教育编年史官与[[Ethnography|民族志]]学者的史料基座贡献，更遗忘了统摄学科原初发端的启蒙伦理关怀与全人[[Bildung|教化]]母题。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 32–33)]]
 >
-> *The [[Parliamentary Office of Science and Technology|POST]]-war positivist narrative created a Whiggish myth of linear scientific progress, dismissing 19th-century pioneers as 'pre-scientific borrowers' by anachronistically imposing 20th-century quantitative criteria, thereby obscuring their foundational role as educational chroniclers and the moral-meliorist problematique of early comparative inquiry.*
+> *The POST-war positivist narrative created a Whiggish myth of linear scientific progress, dismissing 19th-century pioneers as 'pre-scientific borrowers' by anachronistically imposing 20th-century quantitative criteria, thereby obscuring their foundational role as educational chroniclers and the moral-meliorist problematique of early comparative inquiry.*
 
 > [!boundary] 概念边界
 > - **不等于 历史主义（Historicism）** — 历史主义主张历史现象具有独特的个殊性与内生逻辑，要求依时代自身的原则理解过去；辉格史观恰恰取消了这种独立性，将历史降格为当代标准的注脚。
@@ -197,8 +195,8 @@ updated: 2026-09-07
 > [!dev-timeline] 概念演变
 > - **1931 — 史学理论确立** 赫伯特·巴特菲尔德出版《辉格史观》（*The Whig Interpretation of History*），批判以英国自由派政治成功剪裁历史进程的现时主义倾向，奠定批判时代倒错的经典史学基准。
 > - **1961–1963 — 比较教育方法论反思的引入** [[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（Andreas Kazamias）发表《比较教育方法论中的新旧进路》等文，率先援引巴特菲尔德理论批判[[Isaac Kandel|坎德尔]]等前辈学者混淆实然与应然的辉格偏误及[[National Character|国民性格]]循环论证。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 54–55)]]
-> - **1960s–1970s — 战[[Postpositivism|后实证主义]]构建学科进化神话** [[Harold Noah|诺亚]]与[[Max Eckstein|埃克斯坦]]（Noah & Eckstein, 1969）及[[George Bereday|贝雷迪]]（Bereday, 1964）将学科演进模式化为“借用期—因素分析期—社会科学实证期”的三阶段阶梯，自身不自觉地陷入了[[Positivism|实证主义]]的辉格史叙事。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 32–33)]]
-> - **2009 — 跨世纪思想史解构与原初母题平反** 卡扎米亚斯与卡洛扬纳基（Kaloyannaki & Kazamias, 2009; Kazamias, 2009）系统清算学科史中的双向辉格史观：一方面捍卫历史因果解释免于老派[[Educational Meliorism|改良主义]]剪裁，另一方面打破实证主义进化神话，为 19 世纪先驱的教育编年史官与[[Ethnography|民族志]]地位平反，恢复启蒙现代性中的人文[[Bildung|教化]]内核。
+> - **1960s–1970s — 战[[Postpositivism|后实证主义]]构建学科进化神话** 诺亚与埃克斯坦（Noah & Eckstein, 1969）及贝雷迪（Bereday, 1964）将学科演进模式化为“借用期—因素分析期—社会科学实证期”的三阶段阶梯，自身不自觉地陷入了[[Positivism|实证主义]]的辉格史叙事。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 32–33)]]
+> - **2009 — 跨世纪思想史解构与原初母题平反** 卡扎米亚斯与卡洛扬纳基（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias, 2009]]; [[Argument_Kazamias_2009_ForgottenThemes|Kazamias, 2009]]）系统清算学科史中的双向辉格史观：一方面捍卫历史因果解释免于老派[[Educational Meliorism|改良主义]]剪裁，另一方面打破实证主义进化神话，为 19 世纪先驱的教育编年史官与[[Ethnography|民族志]]地位平反，恢复启蒙现代性中的人文[[Bildung|教化]]内核。
 
 ---
 

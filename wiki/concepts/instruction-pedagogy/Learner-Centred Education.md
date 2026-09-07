@@ -24,6 +24,7 @@ related_concepts:
   - "[[Higher-Order Thinking Skills]]"
   - "[[Constructivist Paradigm]]"
   - "[[Epistemology]]"
+  - "[[Scaffolding]]"
   - "[[Test-Based Accountability]]"
   - "[[Decodification]]"
   - "[[Rote Learning]]"
@@ -49,7 +50,6 @@ related_arguments:
   - "[[Argument_Wang_2025_CE]]"
 related_facts:
   - "[[Gaokao]]"
-  - "[[Parliamentary Office of Science and Technology]]"
 confidence: medium
 status: draft
 created: 2026-05-26
@@ -90,7 +90,7 @@ updated: '2026-07-21'
 > | **分析对象** | 以学生为主体、强调自主与对话的整体教学[[Paradigm\|范式]] | 以教师为知识权威和控制核心的讲授范式 | 关注学习者主观知识建构过程的[[Epistemology\|认识论]]与教学法 |
 > | **核心机制** | 内在动机驱动、已有经验联系、课堂对话与[[Critical Thinking\|批判性思维]] | 系统讲授、知识传授、精细练习与数据诊断提分 | 发现学习、认知冲突解决、社会文化互动与意义建构 |
 > | **知识观** | 知识在师生与生生[[Dialogue in Education\|对话]]协商中建构与深化 | 知识为客观确定的符号体系，需被记忆与掌握 | 知识由个人或共同体在情境中主观建构 |
-> | **教师角色** | 学习促进者（facilitator）、设计者与探究引导者 | 知识权威、课堂主导者与统考冲刺指挥官 | 认知支架提供者、情境创设者 |
+> | **教师角色** | 学习促进者（facilitator）、设计者与探究引导者 | 知识权威、课堂主导者与统考冲刺指挥官 | [[Scaffolding\|认知支架]]提供者、情境创设者 |
 > | **[[Test-Based Accountability\|考试问责]]适应性** | 易被质疑效率低，但可被重构为攻克高阶考题与提升课堂吸收率的工具 | 与标准考核高度适配，风险低且能稳定输出中等分数 | 强调深度理解，与传统记忆型考核存在摩擦 |
 
 ---
@@ -172,7 +172,7 @@ updated: '2026-07-21'
 
 > [!dev-timeline] 概念演变
 > - **2013 — 最低实施标准与全球脉络提炼** Schweisfurth 系统提出 LCE 的 7 项最低实施标准，分析其在全球教育改革中的广泛传播与本土落地的复杂性。
-> - **2015 — [[Policy Borrowing|政策借用]]与 [[Parliamentary Office of Science and Technology|POST]]-2015 全球教育议程** Schweisfurth 进一步将 LCE 置于跨国政策借用视域下，指出高应试绩效地区往往存在 LCE 落地阻力，呼吁重新审视教学法改革的语境适应性。
+> - **2015 — [[Policy Borrowing|政策借用]]与 POST-2015 全球教育议程** Schweisfurth 进一步将 LCE 置于跨国政策借用视域下，指出高应试绩效地区往往存在 LCE 落地阻力，呼吁重新审视教学法改革的语境适应性。
 > - **2019 — 中国双轨制改革张力** You 揭示了中国在推进[[Quality Education|素质教育]]中，LCE 话语与[[Examination-Oriented Education|应试教育]]实质并存的双轨张力。
 > - **2021 — 概念内涵的多元与情境化转向** Bremner 系统梳理 LCE 的多重定义，倡导放弃僵化的单一西方标准，采取更具包容性与情境化的灵活定义。
 > - **2025 — [[Third Generation Activity Theory|活动理论]]视角下的双系统扩展性改造** Wang & McLaughlin 运用[[Third Generation Activity Theory|第三代活动理论]]解构中国案例学校，揭示了 LCE 如何通过建立学校特定共享目标与应试问责实现扩展性改造与[[Going Native|本土化]][[Transfer Translation Transformation|转译]]。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 586–605)]]

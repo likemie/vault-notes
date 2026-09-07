@@ -7,7 +7,7 @@ aliases:
 summary: "教育改革选择性参照外部政策经验并在本地重新解释、合法化和变形的过程，是比较教育分析跨国改革流动的核心概念"
 type: concept
 domain: "comparative-education"
-related_count: 60
+related_count: 63
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Reference Society]]"
   - "[[Governing at a Distance]]"
   - "[[Rationalism in International Relations]]"
+  - "[[Common School Movement]]"
   - "[[Re-Westernisation]]"
   - "[[Orientalism]]"
   - "[[Analytic Framework]]"
@@ -63,15 +64,17 @@ related_persons:
   - "[[Eleftherios Klerides]]"
   - "[[Gita Steiner-Khamsi]]"
   - "[[Andreas Kazamias]]"
+  - "[[Calvin Stowe]]"
+  - "[[Henry Barnard]]"
   - "[[Robert Cowen]]"
   - "[[Jurgen Schriewer]]"
   - "[[Paul Morris]]"
 related_facts:
-  - "[[Parliamentary Office of Science and Technology]]"
   - "[[Guizot Law of 1833]]"
   - "[[Sputnik Shock 1957]]"
   - "[[OECD]]"
   - "[[PISA]]"
+  - "[[Prussian Draft Education Law of 1819]]"
   - "[[Grammar School]]"
   - "[[Liberal Studies]]"
 related_arguments:
@@ -210,7 +213,7 @@ updated: 2026-09-06
 
 > [!features] 前后转移能动性
 > - **[[Pre-Transfer Agency|前转移能动性]]（Pre-Transfer Agency）** 外国范例引入之初的引入者及其动机，涉及官员、政策倡导者、智库及外部评估发布方。([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 229]])
-> - **后转移能动性（[[Parliamentary Office of Science and Technology|POST]]-Transfer Agency）** 政策引进实施阶段本土学校、教师和社区的阻力与自发情境重构行为。
+> - **后转移能动性（POST-Transfer Agency）** 政策引进实施阶段本土学校、教师和社区的阻力与自发情境重构行为。
 
 ### 借用行为的特征
 
@@ -255,7 +258,7 @@ updated: 2026-09-06
 > **[[Governing at a Distance|远处治理]]的技术中介** 在[[Rationalism in International Relations|理性主义]]多边治理机制下，比较教育中看似客观的国际标准、基准测试（benchmarking）和大数据评估（如 [[PISA]]），实质上是超国家组织和跨国机构行使“远处治理”（governing from a distance）的软性控制技术。这些科学化指标远程工具化引导着国家教育政策调整，从而将外部施加的治理规则内化为本土教育借用的正当性强制力。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 425]])
 
 > [!claim] Kaloyannaki, P. & [[Andreas Kazamias|Kazamias, A.]] M.
-> **权力结构分流与作为合法化依据的政策借用** 政策借用的政治合法化功能早在 19 世纪比较教育学发端阶段便已成熟运作。政权体制的权力结构直接决定了跨国知识的处理方式：法国中央集权官僚体制允许行政决策者（如[[Victor Cousin|维克多·库森]]）将普鲁士经验直接写入国家实定法（1833 年基佐法案）；而在美国联邦分权与民主协商语境下，以[[Horace Mann|霍勒斯·曼]]、卡尔文·斯托与亨利·巴纳德为代表的改革者缺乏行政强制权力，被迫将外部探究从“制度技术移植”根本转向“政治正当性辩护”。改革者战略性剥离欧洲专制外壳，抽取其公学实绩作为强有力的政治合法化依据（legitimating rationales），以此反击波士顿保守学监联盟与正统教会对体罚废除与公税办学的围攻，为合众国建立普及、免费且由公税支持的公共学校（Common School）确立无可撼动的正当性基石。([[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias, 2009, pp. 26–34]])
+> **权力结构分流与作为合法化依据的政策借用** 政策借用的政治合法化功能早在 19 世纪比较教育学发端阶段便已成熟运作。政权体制的权力结构直接决定了跨国知识的处理方式：法国中央集权官僚体制允许行政决策者（如[[Victor Cousin|维克多·库森]]）将普鲁士经验直接写入国家实定法（1833 年基佐法案）；而在美国联邦分权与民主协商语境下，以[[Horace Mann|霍勒斯·曼]]、[[Calvin Stowe|卡尔文·斯托]]与[[Henry Barnard|亨利·巴纳德]]为代表的改革者缺乏行政强制权力，被迫将外部探究从“制度技术移植”根本转向“政治正当性辩护”。改革者战略性剥离欧洲专制外壳，抽取其公学实绩作为强有力的政治合法化依据（legitimating rationales），以此反击波士顿保守学监联盟与正统教会对体罚废除与公税办学的围攻，为合众国建立普及、免费且由公税支持的[[Common School Movement|公共学校]]（Common School）确立无可撼动的正当性基石。([[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias, 2009, pp. 26–34]])
 
 ---
 
@@ -300,7 +303,7 @@ updated: 2026-09-06
 ## 概念演变
 
 > [!dev-timeline] 政策借用概念的理论演变
-> - **1830–1850 — 19世纪行政实定法转置与政治合法化先声** 跨大西洋两岸借用机制发生深刻分流：欧陆由[[Victor Cousin|维克多·库森]]以“审慎借用”准则将普鲁士 1819 年聚芬法案技术条款直接法典化为法国[[Guizot Law of 1833|1833年基佐法案]]的实定法直接转置模式；北美由[[Horace Mann|霍勒斯·曼]]以“示警烽火与引路明灯”辩证剥离专制外壳，开创将外国公学实绩作为击败国内反对派政治合法化依据（legitimating rationales）的模式。([[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias, 2009, pp. 24–34]])
+> - **1830–1850 — 19世纪行政实定法转置与政治合法化先声** 跨大西洋两岸借用机制发生深刻分流：欧陆由[[Victor Cousin|维克多·库森]]以“审慎借用”准则将普鲁士 1819 年[[Prussian Draft Education Law of 1819|聚芬法案]]技术条款直接法典化为法国[[Guizot Law of 1833|1833年基佐法案]]的实定法直接转置模式；北美由[[Horace Mann|霍勒斯·曼]]以“示警烽火与引路明灯”辩证剥离专制外壳，开创将外国公学实绩作为击败国内反对派政治合法化依据（legitimating rationales）的模式。([[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias, 2009, pp. 24–34]])
 > - **1996–2000 — [[Transitology|转型学]]宏观背景** Cowen 提出 education 转型学双轴模型，将国际参照分析嵌入到晚期现代性社会系统翻转的宏观背景中。([[Argument_Amos_2022_Springer|Amos, 2022, pp. 53–56]])
 > - **2000 — 政策借用[[Analytic Framework|分析框架]]系统化** Steiner-Khamsi 系统阐述政策借用分析框架，向去政治化、中立移植的理性模式发起挑战，指出教育借用本质上属于政治合法化工具。([[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 482]])
 > - **2002 — [[Cross-National Attraction|跨国吸引力]]结构类型学** Ochs & Phillips 提出跨国吸引力的结构类型学，系统归纳了六类政策焦点与 13 种情境因子。([[Argument_Rappleye_2006_RCIE|Ochs & Phillips, 2002, 引自 Rappleye, 2006, pp. 225–226]])
@@ -338,7 +341,7 @@ updated: 2026-09-06
 ## 相关研究
 
 > [!evidence-grid] 典型研究与应用案例
-> - **19 世纪欧美跨国借用分流：法国[[Guizot Law of 1833|基佐法案]]实定法转置 vs 北美马萨诸塞公学运动政治合法化反诘** [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] 系统剖析了 19 世纪欧美跨国借用的机制分野。在法国，[[Victor Cousin|维克多·库森]]作为哲学家兼行政决策者赴德考察，发表 1831 年《普鲁士公共教育现状报告》，并主笔将其条文系统法典化为奠定法国国民初等教育基石的 [[Guizot Law of 1833|1833年基佐法案]]，开创欧陆“实定法直接转置”模式；而在美洲，[[Horace Mann|霍勒斯·曼]]身处联邦分权与缺乏中央强制命令的博弈语境，面对波士顿 31 位[[Grammar School|文法学校]]校长与正统教会对公学改革的猛烈围攻，战略性剥离普鲁士君主专制外壳，抽取其公学师训与直观教学实绩，以“专制君主尚能办好公学、自由共和国任由公民愚昧岂非文明耻辱”发起降维政治反诘，开创了将外部成功实绩作为国内争议改革合法化依据（legitimating rationales）的经典比较借用[[Paradigm|范式]]。
+> - **19 世纪欧美跨国借用分流：法国[[Guizot Law of 1833|基佐法案]]实定法转置 vs 北美马萨诸塞[[Common School Movement|公学运动]]政治合法化反诘** [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] 系统剖析了 19 世纪欧美跨国借用的机制分野。在法国，[[Victor Cousin|维克多·库森]]作为哲学家兼行政决策者赴德考察，发表 1831 年《普鲁士公共教育现状报告》，并主笔将其条文系统法典化为奠定法国国民初等教育基石的 [[Guizot Law of 1833|1833年基佐法案]]，开创欧陆“实定法直接转置”模式；而在美洲，[[Horace Mann|霍勒斯·曼]]身处联邦分权与缺乏中央强制命令的博弈语境，面对波士顿 31 位[[Grammar School|文法学校]]校长与正统教会对公学改革的猛烈围攻，战略性剥离普鲁士君主专制外壳，抽取其公学师训与直观教学实绩，以“专制君主尚能办好公学、自由共和国任由公民愚昧岂非文明耻辱”发起降维政治反诘，开创了将外部成功实绩作为国内争议改革合法化依据（legitimating rationales）的经典比较借用[[Paradigm|范式]]。
 > - **[[Liberal Studies|香港通识教育科]]（LS）创立与废除** [[Argument_Yan_2025_JCS|Yan & Morris (2025)]] 追踪了 LS 从创立到废除的完整生命周期。在创立阶段（2009），港府以“[[Lifelong Learning|终身学习]]”“[[Knowledge-Based Economy|知识经济]]”和 [[IB Diploma Programme|IBDP]] 话语论证改革必要性，这些全球论述被高度工具性地用来解决本地政治问题（政府合法性下降、学制调整需求）。在废除阶段（2021），随着政治局势剧变，全球参照话语彻底消失，以“国家安全”和主权控制为唯一逻辑，展现了借用行为对本地政治合法性需求的依附。
 > - **香港与英格兰的双向借用及 LS and IBDP 比较** Forestier & Crossley (2015) 揭示了香港与英格兰之间“双向借用”的对流特征。而 Forestier et al. (2016) System 比较了香港通识科（LS）与[[International Baccalaureate|国际文凭]]课程（IBDP）的课程设计，证实了“选择性借用”的运作机制：港府参照了 IBDP 的跨学科整合和独立探究形式，但排除了其国际化知识观和批判性哲学内核，使之服务于本地政策议程。
 > - **[[Visible Learning|Visible Learning]] 在俄罗斯的政策借用与拒绝** Hattie 的 Visible Learning 于 2017 年在俄罗斯翻译出版后受到学界与官僚体系的热烈欢迎。然而，[[Argument_Golovchin_2019_ESC|Golovchin (2019)]] 展示了俄罗斯本土学者基于方法论缺陷（[[Heterogeneity|异质性]]过高）、文化不匹配（教师“去专业化”风险）以及官僚化威胁（报表工作量激增），最终向政策决策提出“拒绝采用”建议的过程。

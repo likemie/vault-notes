@@ -1,0 +1,504 @@
+List of tables
+==============
+
+Tables
+
+1.1
+
+Alternative bases for interpreting social reality
+
+2.1
+
+Habermas’s knowledge-constitutive interests and the nature of research
+
+2.2
+
+Differing approaches to the study of behaviour
+
+4.1
+
+Science choices of secondary school males and females
+
+4.2
+
+Science choices of male and female secondary students with Teacher A or B
+
+4.3
+
+Further science choices of male and female secondary students with Teacher A or B
+
+7.1
+
+Purposes and kinds of research
+
+7.2
+
+Three examples of planning for time frames for data collection in mixed methods research
+
+7.3
+
+Elements of research styles
+
+7.4
+
+A matrix for planning research
+
+7.5
+
+A planning matrix for research
+
+8.1
+
+Sample size, confidence levels and confidence intervals for random samples
+
+8.2
+
+Sample sizes for categorical and continuous data
+
+8.3
+
+Types of sample
+
+10.1
+
+Comparing validity in quantitative and qualitative research
+
+10.2
+
+Comparing reliability in quantitative and qualitative research
+
+13.1
+
+Maximum variation for low response rates in a yes/no question for a 50/50 distribution
+
+13.2
+
+The characteristics, strengths and weaknesses of longitudinal, cross-sectional, trend analysis and retrospective longitudinal studies
+
+13.3
+
+Problems and solutions in internet-based surveys
+
+14.1
+
+Continua of data collection, types and analysis in case study research
+
+19.1
+
+Features and affordances of simulations and virtual worlds
+
+20.1
+
+Crosstabulation of responses to two key factors in effective leadership
+
+20.2
+
+A ten-point marking scale in a questionnaire
+
+20.3
+
+Potential problems in conducting research
+
+21.1
+
+Summary of relative merits of interview versus questionnaire
+
+21.2
+
+Strengths and weaknesses of different types of interview
+
+21.3
+
+The selection of response mode
+
+23.1
+
+A structured observation schedule
+
+23.2
+
+Structured, unstructured, natural and artificial settings for observations
+
+24.1
+
+A matrix of test items
+
+24.2
+
+Compiling elements of test items
+
+25.1
+
+A laddering dialogue
+
+25.2
+
+Grid summary measures
+
+25.3
+
+Focused grid data showing effect of construct alignment
+
+26.1
+
+Examples of the use of role-play in the literature
+
+29.1
+
+The effectiveness of English teaching
+
+29.2
+
+The strengths and weaknesses of English language teaching
+
+29.3
+
+Teaching methods
+
+29.4
+
+Student-related factors
+
+30.1
+
+Tabulated data for comparative analysis
+
+34.1
+
+Type I and Type II errors
+
+34.2
+
+Mean and standard deviation in an effect size (SPSS output)
+
+34.3
+
+The Levene test for equality of variances (SPSS output)
+
+34.4
+
+Mean and standard deviation in a paired sample test (SPSS output)
+
+34.5
+
+Difference test for a paired sample (SPSS output)
+
+34.6
+
+Effect size in analysis of variance (SPSS output)
+
+34.7
+
+Frequently used Greek letters in statistics
+
+35.1
+
+Frequencies and percentages for a course evaluation (SPSS output)
+
+35.2
+
+Crosstabulation by totals (SPSS output)
+
+35.3
+
+Crosstabulation by row totals (SPSS output)
+
+35.4
+
+Rating scale of agreement and disagreement
+
+35.5
+
+Satisfaction with a course
+
+35.6
+
+Combined categories of rating scales
+
+35.7
+
+Representing combined categories of rating scales
+
+35.8
+
+A bivariate crosstabulation (SPSS output)
+
+35.9
+
+A bivariate analysis of parents’ views on public examinations
+
+35.10
+
+A trivariate crosstabulation
+
+35.11
+
+Distribution of test scores (SPSS output)
+
+35.12
+
+Common measures of relationship
+
+35.13
+
+Percentage of public library members by their social class origin
+
+35.14
+
+A Pearson product moment correlation (SPSS output)
+
+35.15
+
+Part-time work and class of degree, controlled for socio-economic status (SPSS output)
+
+35.16
+
+Identifying unreliable items in Cronbach’s alpha (SPSS output)
+
+36.1
+
+Means and standard deviations for a t-test (SPSS output)
+
+36.2
+
+The Levene test for equality of variances in a t-test (SPSS output)
+
+36.3
+
+A t-test for leaders and teachers (SPSS output)
+
+36.4
+
+The Levene test for equality of variances between leaders and teachers (SPSS output)
+
+36.5
+
+Means and standard deviations in a paired samples t-test (SPSS output)
+
+36.6
+
+The paired samples t-test (SPSS output)
+
+36.7
+
+Descriptive statistics for analysis of variance (SPSS output)
+
+36.8
+
+SPSS output for one-way analysis of variance (SPSS output)
+
+36.9
+
+The Tukey test (SPSS output)
+
+36.10
+
+Homogeneous groupings in the Tukey test (SPSS output)
+
+36.11
+
+Means and standard deviations in a two-way analysis of variance (SPSS output)
+
+36.12
+
+The Levene test of equality of variances in a two-way analysis of variance (SPSS output)
+
+36.13
+
+Between-subject effects in two-way analysis of variance (SPSS output)
+
+36.14
+
+A 2 × 3 contingency table for chi-square
+
+36.15
+
+A 2 × 5 contingency table for chi-square
+
+36.16
+
+A crosstabulation for a Mann-Whitney U test (SPSS output)
+
+36.17
+
+Rankings for the Mann-Whitney U test (SPSS output)
+
+36.18
+
+The Mann-Whitney U value and significance level (SPSS output)
+
+36.19
+
+Frequencies and percentages of variable one in a Wilcoxon test (SPSS output)
+
+36.20
+
+Frequencies and percentages of variable two in a Wilcoxon test (SPSS output)
+
+36.21
+
+Ranks and sums of ranks in a Wilcoxon test (SPSS output)
+
+36.22
+
+Significance level in a Wilcoxon test (SPSS output)
+
+36.23
+
+Crosstabulation for the Kruskal-Wallis test (SPSS output)
+
+36.24
+
+Rankings for the Kruskal-Wallis test (SPSS output)
+
+36.25
+
+Significance levels in a Kruskal-Wallis test (SPSS output)
+
+36.26
+
+Frequencies for variable one in the Friedman test (SPSS output)
+
+36.27
+
+Frequencies for variable two in the Friedman test (SPSS output)
+
+36.28
+
+Frequencies for variable three in the Friedman test (SPSS output)
+
+36.29
+
+Rankings for the Friedman test (SPSS output)
+
+36.30
+
+Significance level in the Friedman test (SPSS output)
+
+36.31
+
+A summary of the R, R square and adjusted R square in regression analysis (SPSS output)
+
+36.32
+
+Significance level in regression analysis (SPSS output)
+
+36.33
+
+The Beta coefficient in a regression analysis (SPSS output)
+
+36.34
+
+A summary of the R, R square and adjusted R square in multiple regression analysis (SPSS output)
+
+36.35
+
+Significance level in multiple regression analysis (SPSS output)
+
+36.36
+
+The Beta coefficients in a multiple regression analysis (SPSS output)
+
+36.37
+
+Relative Beta weightings of independent variables on teacher stress (SPSS output)
+
+36.38
+
+Altered weightings in Beta coefficients (SPSS output)
+
+36.39
+
+Further altered weightings in Beta coefficients (SPSS output)
+
+36.40
+
+Extract from area under the normal curve of distribution
+
+37.1
+
+Rank ordering of ten children on seven constructs
+
+37.2
+
+Intercorrelations between seven personal constructs
+
+37.3
+
+The structuring of relationships among the seven personal constructs
+
+37.4
+
+Initial SPSS output for principal components analysis (SPSS output)
+
+37.5
+
+The rotated components matrix in principal components analysis (SPSS output)
+
+37.6
+
+Checking the correlation table for suitability of the data for factorization (SPSS output)
+
+37.7
+
+Checking the suitability of the data for factor analysis (SPSS output)
+
+37.8
+
+Checking the variance explained by each item (SPSS output)
+
+37.9
+
+Extraction of two factors (SPSS output)
+
+37.10
+
+Pattern matrix (SPSS output with markings added)
+
+37.11
+
+Person-concept coding system
+
+37.12
+
+Reliability coefficients for peer descriptions
+
+37.13
+
+Sex, voting preference and social class: a three-way classification table
+
+37.14
+
+Sex, voting preference and social class: a three-way notational classification
+
+37.15
+
+Expected frequencies in sex, voting preference and social class
+
+37.16
+
+Expected frequencies assuming that sex is independent of social class and voting preference
+
+37.17
+
+Sex and voting preference: a two-way classification table
+
+38.1
+
+Identifying statistical tests for an experiment
+
+38.2
+
+Statistical tests to be used with different numbers of groups of samples
+
+38.3
+
+Types of statistical tests for four scales of data
+
+38.4
+
+Statistics available for different types of data
+
+38.5
+
+Assumptions of statistical tests

@@ -26,7 +26,8 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Operationalization]]"
   - "[[External Validity]]"
-related_theories: []
+related_theories:
+  - "[[Human Capital Theory]]"
 related_methods:
   - "[[Fieldwork]]"
 related_persons:
@@ -49,7 +50,7 @@ title: "Argument_Bulag_2024_CE"
 argument_key: "Argument_Bulag_2024_CE"
 argument_display_title: "The wheel of history and minorities' 'self-sacrifice' for the Chinese nation"
 argument_kind: "journal-article"
-argument_related_count: 21
+argument_related_count: 22
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -289,7 +290,7 @@ citation_aliases:
 
 > [!critique]- 对本篇论证的学术批判
 > - **全球化背景下的文化趋同过度政治化** 将中国语言政策完全定性为文化灭绝忽视了城市化、经济一体化等全球现代化进程中少数民族为社会流动而做出主动调适与文化趋同的普遍现象。
-> - **忽略推广普通话的[[Pragmatic Paradigm|实用主义]]维度** 忽视了通用语言作为国家通用教学媒介的人力资本投资价值，且无法合理解释在推行普通话的同时大规模投资英语教育与消灭少数民族语言定性之间的逻辑张力。
+> - **忽略推广普通话的[[Pragmatic Paradigm|实用主义]]维度** 忽视了通用语言作为国家通用教学媒介的[[Human Capital Theory|人力资本]]投资价值，且无法合理解释在推行普通话的同时大规模投资英语教育与消灭少数民族语言定性之间的逻辑张力。
 > - **[[Retrotopia|怀旧乌托邦]]批判的双向性缺失** 仅批判汉人中心的国家复古想象，但对少数民族文化保护运动中同样存在的坚守传统、试图修复前现代家园的怀旧结构保持沉默。
 > - **自我牺牲概念[[Operationalization|操作化]]边界模糊** 将蒙古族精英接受官方表彰与基层干部悲剧性自杀等性质完全不同的行为统称为自我牺牲，模糊了策略服从与终极反抗的本质区别。
 > - **分析案例选择偏差限制[[External Validity|外部效度]]** 案例高度聚焦于新疆和内蒙古，未能检验自我牺牲概念在西藏或西南多民族共存地区（如云贵）政策实践中的一般性与适用性。

@@ -8,7 +8,7 @@ aliases:
 summary: "Bernstein（2001）提出的概念，指教育关系从学校扩展到整个社会的社会形态，Cowen 视其为分析 21 世纪教育变迁的关键理论资源"
 type: concept
 domain: "sociology-of-education"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,7 +25,8 @@ related_concepts:
   - "[[Scientism]]"
   - "[[Space of Flows and Space of Places]]"
   - "[[Educated Identity]]"
-related_theories: []
+related_theories:
+  - "[[Human Capital Theory]]"
 related_methods: []
 related_persons:
   - "[[Basil Bernstein]]"
@@ -68,7 +69,7 @@ updated: '2026-07-04'
 > | 维度 | 全盘教育化社会 (Totally Pedagogised Society) | [[Lifelong Learning\|终身学习]] (Lifelong Learning) | 教育化 (Pedagogization) |
 > |------|-------------------|-------------------|-------------------|
 > | **性质定位** | 批判社会学关于社会控制的结构形态学诊断。(p. 336) | 超国家机构极力推广的规范性政策话语与治理修辞。 | 描述教育逻辑向非教育领域扩张的过程性概念。 |
-> | **分析焦点** | **结构控制** 关注教学与评价关系如何泛化为不可逃脱的社会基础。(p. 336) | **个体责任** 强调个人在经济变迁中必须不断自我重塑与人力资本更新。 | **领域渗透** 关注司法、医疗、企业管理等社会系统被包装成“学习[[Champ\|场域]]”。 |
+> | **分析焦点** | **结构控制** 关注教学与评价关系如何泛化为不可逃脱的社会基础。(p. 336) | **个体责任** 强调个人在经济变迁中必须不断自我重塑与[[Human Capital Theory\|人力资本]]更新。 | **领域渗透** 关注司法、医疗、企业管理等社会系统被包装成“学习[[Champ\|场域]]”。 |
 
 ---
 

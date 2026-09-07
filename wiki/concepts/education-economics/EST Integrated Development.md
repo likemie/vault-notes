@@ -7,7 +7,7 @@ aliases:
 summary: "教育（Education）、科技（Science and Technology）与人才（Talent）三个子系统协同演进的一体化发展概念，以系统论为理论基础，强调三者之间相互支撑、相互制约的耦合关系"
 type: concept
 domain: "education-economics"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Causality]]"
 related_theories:
+  - "[[Human Capital Theory]]"
   - "[[Coupling Coordination Theory]]"
 related_methods: []
 related_persons: []
@@ -47,7 +48,7 @@ updated: 2026-06-12
 
 > [!boundary]- 概念边界
 > - 不等于教育、科技、人才的简单加总 — EST一体化强调耦合协调关系而非三个领域的独立发展
-> - 不等于人力资本理论 — 人力资本理论聚焦个人层面的技能和收益，EST关注系统层面的耦合机制和空间格局
+> - 不等于[[Human Capital Theory|人力资本理论]] — 人力资本理论聚焦个人层面的技能和收益，EST关注系统层面的耦合机制和空间格局
 
 ---
 
@@ -60,7 +61,7 @@ updated: 2026-06-12
 > 教育是基础——它提供知识传授和人才培育的制度化渠道；科技是引擎——它从0到1的突破依赖高[[Quality Education|素质教育]]产出的人才；人才是核心——教育以人为主体、科技靠人来驱动，三者的交汇点始终是人。但实证数据显示，中国当前呈现教育 > 科技 > 人才的发展水平递减格局，人才的实际发展水平落后于其在理论框架中的核心定位。[[Argument_Fan_Song_Zhai_2024_RSEE|(Fan et al., 2024, pp. 69–70)]]
 
 > [!line-b] 关系命题：两两耦合机制
-> - **教育 ↔ 科技** 教育提供科技所需的人力资本基础，科技通过信息技术赋能教育现代化和人才培养模式更新
+> - **教育 ↔ 科技** 教育提供科技所需的[[Human Capital Theory|人力资本]]基础，科技通过信息技术赋能教育现代化和人才培养模式更新
 > - **教育 ↔ 人才** 教育是人才生产的主渠道，高技能人才的持续供给反过来提升教育系统的质量和声誉
 > - **科技 ↔ 人才** 科技创新需要高技能人才的主动性和[[Creativity|创造力]]，科技发展创造的新产业和新场景反过来重塑人才需求结构
 >
@@ -76,7 +77,7 @@ updated: 2026-06-12
 > [!logic-map] 理论归属
 > - General Systems Theory — EST一体化以系统论为理论基础，将三个子系统视为超系统的组成部分
 > - [[Coupling Coordination Theory]] — 耦合协调理论为EST三个子系统的互动关系提供了机制层面的解释框架
-> - Human Capital Theory — EST与人力资本理论共享"教育和技能是经济发展的关键投入"的前提，但EST进一步将科技和人才从教育中分离为独立子系统
+> - [[Human Capital Theory]] — EST与人力资本理论共享"教育和技能是经济发展的关键投入"的前提，但EST进一步将科技和人才从教育中分离为独立子系统
 
 ---
 

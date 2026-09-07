@@ -6,7 +6,7 @@ aliases:
 summary: "源于系统论的多系统协同发展理论，认为若干子系统之间通过相互作用形成耦合关系，系统整体发展水平取决于耦合强度和各自发展水平的协调程度"
 type: theory
 theory_field: "education-economics"
-theory_related_count: 11
+theory_related_count: 12
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -22,7 +22,8 @@ related_concepts:
   - "[[Postpositivism]]"
   - "[[Causality]]"
   - "[[EST Integrated Development]]"
-related_theories: []
+related_theories:
+  - "[[Human Capital Theory]]"
 related_methods:
   - "[[Coupling Coordination Model]]"
   - "[[LISA Time Path]]"
@@ -58,7 +59,7 @@ updated: 2026-06-12
 > 耦合协调理论的核心可概括为三个相互关联的命题，从"系统如何连接"到"系统如何演进"再到"空间如何分化"逐层递进。
 
 > [!line-a] 命题一：耦合的普遍性
-> 任何复杂系统的若干子系统之间必然存在耦合关系——教育和科技之间、科技和人才之间、教育和人才之间均存在双向互动。教育为科技供给人力资本，科技为教育提供技术赋能，人才为两者的交汇载体。不存在完全独立于他人的子系统。
+> 任何复杂系统的若干子系统之间必然存在耦合关系——教育和科技之间、科技和人才之间、教育和人才之间均存在双向互动。教育为科技供给[[Human Capital Theory|人力资本]]，科技为教育提供技术赋能，人才为两者的交汇载体。不存在完全独立于他人的子系统。
 
 > [!line-b] 命题二：协调的条件性
 > 耦合强度高不等于系统发展水平高。三个子系统均处于低水平时，耦合度 $C$ 仍可接近最大值——这是"耦合度陷阱"。因此需要引入协调度 $D = \sqrt{C \times T}$，同时考虑耦合强度 $C$ 和发展水平 $T$：只有 $C$ 和 $T$ 同时较高时，$D$ 才得高分。这赋予协调度天然的"短板惩罚"特性。[[Argument_Fan_Song_Zhai_2024_RSEE|(Fan et al., 2024, pp. 67–68)]]

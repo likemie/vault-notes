@@ -1,0 +1,10 @@
+PART 3: Styles of educational research
+======================================
+
+Part 3
+
+Styles of educational research
+
+It is important to distinguish between design, methodology and instrumentation. Too often methods are confused with methodology and methodology is confused with design. Part Two provided an introduction to design issues and this part examines different methodologies of research, different styles, kinds of, and approaches to research, separating them from methods – instruments for data collection. We identify nine main styles of educational research in this part: a bundle of approaches that come under the umbrella of naturalistic/qualitative/ethnographic types of research; historical and documentary research (entirely rewritten by Gary McCulloch); different kinds of survey; case studies; ex post facto research; different kinds of experiment; a new chapter on meta-analysis, research syntheses and systematic reviews, which takes account of the increased prominence given to these in the research community; action research; and a new chapter on virtual worlds in educational research (written by Stewart Martin). These chapters include more extended analysis of key issues and features of the different research styles that researchers can address in planning and implementing their research.
+
+Although we recognize that these are by no means exhaustive, we suggest that they cover the major styles of research methodology. These take in quantitative as well as qualitative research, mixed methods, the emerging field of virtual worlds, together with small-scale and large-scale approaches. As with the previous parts, the key here is the application of the notion of fitness for purpose. We do not advocate slavish adherence to a single methodology in research; indeed combining methodologies may be appropriate for the research in hand. The intention here is to shed light on the different styles of research, locating them in the paradigms of research introduced in Part One.

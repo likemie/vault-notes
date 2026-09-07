@@ -7,7 +7,7 @@ title: "Argument_Cowen(Ed.)_2009_Springer"
 argument_key: "Argument_Cowen(Ed.)_2009_Springer"
 argument_display_title: "International Handbook of Comparative Education"
 argument_kind: "edited-volume"
-argument_related_count: 40
+argument_related_count: 44
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#e5e7eb"
@@ -49,8 +49,11 @@ related_concepts:
   - "[[National Character]]"
   - "[[Construct]]"
   - "[[Hypothesis]]"
+  - "[[Scientific Paradigm]]"
+  - "[[Variable]]"
+  - "[[Critical Dualism]]"
+  - "[[Comparative Educations]]"
   - "[[Dialogue in Education]]"
-  - "[[Scientism]]"
   - "[[Analytic Framework]]"
   - "[[Theoretical Standpoint]]"
   - "[[Heterogeneity]]"
@@ -78,6 +81,7 @@ related_arguments:
   - "[[Argument_Cowen_2009_HistoryCreation]]"
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
   - "[[Argument_Kazamias_2009_ForgottenThemes]]"
+  - "[[Argument_Mattheou_2009_ScientificParadigm]]"
 sources:
   - "[[books/Cowen(Ed.)_2009_Springer/Cowen(Ed.)_2009_Springer|Cowen(Ed.)_2009_Springer]]"
 part_of: ""
@@ -149,7 +153,7 @@ updated: 2026-09-07
 >   - **阅读价值** 系统展现比较教育学如何从早期的功能主义合法化叙事，走向对被遗忘的人物、传统与肖像学的全面批判与重构。
 > - **学科科学化运动与方法论大论战（1950s–1970s）**
 >   - **相关章节** Ch. 03 [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]；Ch. 04 [[Argument_Kazamias_2009_ForgottenThemes]]；Ch. 05 [[Argument_Mattheou_2009_ScientificParadigm]]；Ch. 10（Kazamias）；Ch. 79（Cowen）。
->   - **阅读价值** 呈现比较教育学如何从早期准科学与历史人文传统，走向 1960 年代围绕“法则、预测与经验共变”的实证科学化运动，辨析芝加哥、哥大与伦敦学派在规律性质上的认识论分野，并剖析实证方法与战后国家规划合法化之间的政治共谋与范式衰变。
+>   - **阅读价值** 呈现比较教育学如何从早期准科学与历史人文传统，走向 1960 年代围绕“法则、预测与经验共变”的实证科学化运动，辨析芝加哥、哥大与伦敦学派在规律性质上的[[Epistemology|认识论]]分野，并剖析实证方法与战后国家规划合法化之间的政治共谋与[[Paradigm|范式]]衰变。
 > - **教育转移与跨国制度流动**
 >   - **相关章节** Ch. 03 [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]；Ch. 22（Beech）；Ch. 67（Phillips）；Ch. 71（Steiner-Khamsi）。
 >   - **阅读价值** 呈现[[Policy Borrowing|教育借用]]从经典移植论向全球治理与去[[Going Native|本土化]]分析的[[Paradigm|范式]]演进。
@@ -163,10 +167,10 @@ updated: 2026-09-07
 >   - Ch. 02 [[Argument_Cowen_2009_HistoryCreation]]。Cowen 在该章系统诊断学科史编纂的三重困境，提倡建立 [[Comparative History of Comparative Education|比较教育学的比较史]]。
 >   - Ch. 03 [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]。Kaloyannaki 与 Kazamias 深入解构比较教育学的现代主义发端，辨析[[Marc-Antoine Jullien|马克-安托万·朱利安]]（Marc-Antoine Jullien）的准[[Proto-Scientific Motif|科学人道主义母题]]与[[Victor Cousin|维克多·库森]]（Victor Cousin）、[[Horace Mann|霍勒斯·曼]]（Horace Mann）等人的政策导向行政[[Educational Meliorism|改良主义]]母题，揭示借用作为政治合法化依据的机制。
 >   - Ch. 04 [[Argument_Kazamias_2009_ForgottenThemes]]。Kazamias 系统挖掘[[Michael Sadler|迈克尔·萨德勒]]（Michael Sadler）、[[Isaac Kandel|艾萨克·坎德尔]]（Isaac Kandel）、[[Nicholas Hans|尼古拉斯·汉斯]]（Nicholas Hans）与[[Robert Ulich|罗伯特·乌利希]]（Robert Ulich）等学者开创的历史-哲学-文化与自由人文主义母题，阐明其广义人文科学定位、[[National Character|国民性格]]分析[[Construct|构念]]与历史改良主义底色，并借由[[Crane Brinton|克莱恩·布林顿]]（Crane Brinton）的有限工作[[Hypothesis|假设]]归纳法为[[Historical-Comparative Method|历史比较法]]确立现代合法性。
->   - Ch. 05 [[Argument_Mattheou_2009_ScientificParadigm]]。Mattheou 系统剖析 20 世纪下半叶比较教育学科学范式的兴衰，辨析芝加哥学派（安德森、福斯特）的恒常制度规律、哥大学派（诺亚、埃克斯坦）的变量函数共变与伦敦学派（霍姆斯）基于批判二元论的权变社会学法则及预测划界标准，揭示实证量化模式作为战后国家规划合法化工具（alibi）的政治共谋，并阐明其在现实危机、量子不确定性与后现代思潮冲击下向“复数比较教育学”的多元解体。
+>   - Ch. 05 [[Argument_Mattheou_2009_ScientificParadigm]]。Mattheou 系统剖析 20 世纪下半叶[[Scientific Paradigm|比较教育学科学范式]]的兴衰，辨析芝加哥学派（安德森、福斯特）的恒常制度规律、哥大学派（诺亚、埃克斯坦）的[[Variable|变量]]函数共变与伦敦学派（霍姆斯）基于[[Critical Dualism|批判二元论]]的权变社会学法则及预测划界标准，揭示实证量化模式作为战后国家规划合法化工具（alibi）的政治共谋，并阐明其在现实危机、量子不确定性与后现代思潮冲击下向“[[Comparative Educations|复数比较教育学]]”的多元解体。
 > - **优先处理章节** Ch. 01（联合导论）、Ch. 10（历史反思）、Ch. 21（导论）、Ch. 61（新思维导论）、Ch. 79 与 Ch. 80（全书收束与结论）。
 > - **可暂缓章节** 专门聚焦特定国家微观细部、与全书主干理论[[Dialogue in Education|对话]]相对松散的案例章节。
-> - **缺口提醒** 目前已完成 Ch. 02、Ch. 03、Ch. 04 与 Ch. 05，系统夯实了学科发端期准科学、行政借用、历史人文以及战后科学化运动全景，第一板块方法论奠基与范式论争的主干框架已大体成型，亟需推进各板块导引章与重点理论章以充实全书结构认知。
+> - **缺口提醒** 目前已完成 Ch. 02、Ch. 03、Ch. 04 与 Ch. 05，系统夯实了学科发端期准科学、行政借用、历史人文以及战后科学化运动全景，第一板块方法论奠基与[[Paradigm|范式]]论争的主干框架已大体成型，亟需推进各板块导引章与重点理论章以充实全书结构认知。
 
 ---
 
@@ -176,8 +180,8 @@ updated: 2026-09-07
 > - **Ch. 01 — Joint Editorial Introduction** Argument_Cowen_Kazamias_2009_Introduction — 概述世纪之交比较教育学的复兴态势、出版繁荣与制度化成就，抛出全书对学科未来的根本追问。
 > - **Ch. 02 — On History and on The Creation of Comparative Education** [[Argument_Cowen_2009_HistoryCreation]] — 揭示早期学科史的职业合法化功能，剖析档案隐蔽、制度匮乏与材料密度低三重困境，倡导走向 [[Comparative History of Comparative Education|比较教育学的比较史]]。
 > - **Ch. 03 — The Modernist Beginnings of Comparative Education** [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]] — 剖析[[Marc-Antoine Jullien|朱利安]]的准[[Proto-Scientific Motif|科学人道主义母题]]与[[Victor Cousin|库森]]、[[Horace Mann|霍勒斯·曼]]等人的政策导向行政[[Educational Meliorism|改良主义]]母题，阐明制度移植与政治合法化依据的双重借用机制。
-> - **Ch. 04 — Forgotten Men, Forgotten Themes** [[Argument_Kazamias_2009_ForgottenThemes]] — 重新发掘比较教育学史上被遗忘的大师（[[Michael Sadler|萨德勒]]、[[Isaac Kandel|坎德尔]]、[[Nicholas Hans|汉斯]]、[[Robert Ulich|乌利希]]）与历史哲学、自由人文主义母题，确立[[Historical-Comparative Method|历史比较法]]归纳工作[[Hypothesis|假设]]的正当性。
-> - **Ch. 05 — The Scientific [[Paradigm]] in Comparative Education** [[Argument_Mattheou_2009_ScientificParadigm]] — 评析比较教育学科学范式的兴起动因、四大派别在目标与法则上的认识论分野，揭示其充当战后国家规划合法化工具的深层机制及走向多元解体的必然性。
+> - **Ch. 04 — Forgotten Men, Forgotten Themes** [[Argument_Kazamias_2009_ForgottenThemes]] — 重新发掘比较教育学史上被遗忘的大师（[[Michael Sadler|萨德勒]]、[[Isaac Kandel|坎德尔]]、汉斯、[[Robert Ulich|乌利希]]）与历史哲学、自由人文主义母题，确立[[Historical-Comparative Method|历史比较法]]归纳工作[[Hypothesis|假设]]的正当性。
+> - **Ch. 05 — The Scientific [[Paradigm]] in Comparative Education** [[Argument_Mattheou_2009_ScientificParadigm]] — 评析[[Scientific Paradigm|比较教育学科学范式]]的兴起动因、四大派别在目标与法则上的[[Epistemology|认识论]]分野，揭示其充当战后国家规划合法化工具的深层机制及走向多元解体的必然性。
 > - **Ch. 06 — Theories of The State, Educational Expansion, Development, and Globalizations** Argument_Olmos_Torres_2009_StateTheories — 探讨马克思主义与[[Critical Theory|批判理论]]视阈下的国家理论与全球化教育扩张。
 > - **Ch. 07 — Comparative Education in Europe** Argument_Mitter_2009_Europe — 系统梳理欧洲大陆比较教育学的发展历程与多元传统。
 > - **Ch. 08 — World-systems Analysis and Comparative Education in the Age of Globalization** Argument_Arnove_2009_WorldSystems — 阐述世界体系[[Analytic Framework|分析框架]]在当代比较教育中的应用与启示。

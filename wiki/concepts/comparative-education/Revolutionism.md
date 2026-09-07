@@ -8,7 +8,7 @@ aliases:
 summary: "Martin Wight 国际关系三大传统之一（对应 Kant 思想），将政治的终极现实视为普遍人类共同体而非国家间关系，以“武力”为推翻旧秩序的必要手段。在比较教育中，它塑造了以揭露不平等和开辟解放可能性为使命的道德事业形态，涵盖 1970 年代的新马克思主义依附论以及当代的后殖民与去殖民批判。"
 type: concept
 domain: "comparative-education"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -39,6 +39,7 @@ related_theories:
   - "[[Wight's Three Traditions of International Theory]]"
   - "[[Critical Theory]]"
   - "[[Dependency Theory]]"
+  - "[[Human Capital Theory]]"
 related_methods: []
 related_persons:
   - "[[Immanuel Kant]]"
@@ -116,7 +117,7 @@ updated: 2026-07-09
 > 这一命题解析教育作为革命性解放工具的合法性。
 
 > [!claim] Carnoy, M. et al.
-> **依附论时期的道德揭露与社会转型** 指出，在革命主义支配下，1970 年代至 1980 年代早期的依附论学者（Carnoy, 1974; Altbach, 1977; Arnove, 1980; Watson, 1982）拒绝了西方将第三世界贫困归结为“发展滞后/缺乏现代化”的人力资本逻辑。他们利用“中心-边缘”透镜，证明西方的学校教育输出是旨在延续心智奴役和资本榨取的帝国支配工具。Carnoy 进一步主张在社会向社会主义过渡期间，必须利用“自由学校”或“解放学校”打破资本主义分层；同时，第三世界革命政府可通过引进反向政策（如借鉴苏联的“ rabfaki 工人大学”模型）来重塑阶级主体性，从而开展阶级对抗。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 426]])
+> **依附论时期的道德揭露与社会转型** 指出，在革命主义支配下，1970 年代至 1980 年代早期的依附论学者（Carnoy, 1974; Altbach, 1977; Arnove, 1980; Watson, 1982）拒绝了西方将第三世界贫困归结为“发展滞后/缺乏现代化”的[[Human Capital Theory|人力资本]]逻辑。他们利用“中心-边缘”透镜，证明西方的学校教育输出是旨在延续心智奴役和资本榨取的帝国支配工具。Carnoy 进一步主张在社会向社会主义过渡期间，必须利用“自由学校”或“解放学校”打破资本主义分层；同时，第三世界革命政府可通过引进反向政策（如借鉴苏联的“ rabfaki 工人大学”模型）来重塑阶级主体性，从而开展阶级对抗。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 426]])
 
 ### 命题二　学科自身是再西方化治理与欧洲殖民扩张分类的隐性载体
 

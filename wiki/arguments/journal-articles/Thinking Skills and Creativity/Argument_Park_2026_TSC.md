@@ -190,7 +190,7 @@ issuing_organization: ""
 
 ## 研究方法
 
-> [!evidence-scope] 证据范围与分析单位
+> [!evidence-scope] 证据范围与[[Unit of Analysis|分析单位]]
 > - **总体** 学生样本，覆盖中学/高中、大学与研究生各学段。
 > - **结果/干预** 无教学干预；核心关系为[[Creativity|创造力]]与[[Critical Thinking|批判性思维]]两个[[Construct|构念]]的测量相关。
 > - **[[Effect Size|效应量]]** [[Pearson Product-Moment Correlation|皮尔逊相关]]系数 $r$（经 Fisher's $z$ 变换后合成）。

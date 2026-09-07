@@ -7,7 +7,7 @@ title: "Argument_Bouckaert_2023_OECD"
 argument_key: "Argument_Bouckaert_2023_OECD"
 argument_display_title: "The assessment of students' creative and critical thinking skills in higher education across OECD countries: A review of policies and related practices (OECD Education Working Papers No"
 argument_kind: "report"
-argument_related_count: 108
+argument_related_count: 109
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -79,6 +79,7 @@ related_concepts:
   - "[[Scaffolding]]"
   - "[[Feedback]]"
 related_theories:
+  - "[[Human Capital Theory]]"
   - "[[Creative Problem Solving]]"
   - "[[Item Response Theory]]"
 related_methods:
@@ -285,7 +286,7 @@ updated: 2026-09-07
 > [!claim] 各国政府广泛将高阶思维写入国家战略与资格框架，但面临行政规约与高校自治的松散耦合；通过综合议程、资格框架、质保认证、统考改造与研发资助“五大政策杠杆”，可实现系统性推进。（pp. 11–20）
 
 > [!chain-link] 国家政策测绘、松散耦合矛盾与五大政策杠杆
-> - **国家政策战略规划与资格框架下沉** [[OECD]] 成员国广泛将高阶思维确立为国家核心人力资本，国家资格框架（National Qualifications Framework, NQF）普及率剧增并逐步细化跨学段阶梯式描述符。（pp. 11–16）
+> - **国家政策战略规划与资格框架下沉** [[OECD]] 成员国广泛将高阶思维确立为国家核心[[Human Capital Theory|人力资本]]，国家资格框架（National Qualifications Framework, NQF）普及率剧增并逐步细化跨学段阶梯式描述符。（pp. 11–16）
 > - **行政规约与学术自治的“松散耦合”治理困境** 高等教育深厚的[[Academic Freedom|学术自由]]与院校自治传统使得政策穿透面临两难：刚性行政指令易诱发教师群体抵制与形式主义应付，宽泛倡议又难以撼动闭卷事实笔试的惯性，政策制定者必须在行政规约与学术开放间寻求精准平衡。（pp. 18–19）
 > - **构建系统协同的“五大政策杠杆”[[Analytic Framework|分析框架]]** 单一政策指令无法打破考核惯性，必须依托战略议程（政治信号）、资格框架（能力进阶）、质保认证（破除阻碍）、统考改造（正面反拨）与专项研发资助（工具供给）的五大政策杠杆系统合力。（p. 20）
 

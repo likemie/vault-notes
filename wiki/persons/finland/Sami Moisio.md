@@ -7,7 +7,7 @@ summary: "芬兰政治地理学者，知识经济化与知识经济地缘政治�
 type: person
 nationality: finland
 person_region: "finland"
-person_related_count: 24
+person_related_count: 25
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Global Education Industry]]"
 related_theories:
   - "[[Critical Geopolitics]]"
+  - "[[Human Capital Theory]]"
   - "[[Fixity-Motion Tension]]"
   - "[[Cultural Political Economy]]"
 related_methods: []
@@ -82,7 +83,7 @@ Sami Moisio，芬兰政治地理学者，赫尔辛基大学地球科学与地理
 ## 核心思想
 
 > [!tip]-
-> Moisio 的核心理论主张是：当代知识密集型资本主义并非纯粹的经济现象，而是一种历史偶然的地缘政治星座（historically contingent geopolitical constellation），将空间、城市、国家、人力资本、教育和技术统合在一起([[Argument_Moisio_2022_Springer|Moisio, 2022, p.21]])。
+> Moisio 的核心理论主张是：当代知识密集型资本主义并非纯粹的经济现象，而是一种历史偶然的地缘政治星座（historically contingent geopolitical constellation），将空间、城市、国家、[[Human Capital Theory|人力资本]]、教育和技术统合在一起([[Argument_Moisio_2022_Springer|Moisio, 2022, p.21]])。
 
 Moisio 的核心理论主张是：当代知识密集型资本主义并非纯粹的经济现象，而是一种历史偶然的地缘政治星座（historically contingent geopolitical constellation），将空间、城市、国家、人力资本、教育和技术统合在一起([[Argument_Moisio_2022_Springer|Moisio, 2022, p.21]])。
 

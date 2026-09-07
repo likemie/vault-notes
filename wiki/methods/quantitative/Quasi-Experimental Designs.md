@@ -11,7 +11,7 @@ summary: "在无法实现随机分配的真实教育情境中通过非等对控�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 51
+method_related_count: 50
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -68,7 +68,6 @@ related_facts:
   - "[[Top Institute for Evidence-Based Education Research]]"
   - "[[What Works Clearinghouse]]"
   - "[[Gaokao]]"
-  - "[[Parliamentary Office of Science and Technology]]"
   - "[[ESSA 2015 Evidence Standards]]"
   - "[[Best Evidence Encyclopedia]]"
   - "[[Blueprints for Healthy Youth Development]]"
@@ -153,7 +152,7 @@ updated: 2026-08-21
 > [!formula-step] 双重差分模型（DID）与 [[What Works Clearinghouse|WWC]] 基线等值分级判定
 > 
 > 1. **双重差分因果效应估计模型（Difference-in-Differences）**
->    $$Y_{it} = \beta_0 + \beta_1 \cdot \text{Treat}_i + \beta_2 \cdot \text{[[Parliamentary Office of Science and Technology|POST]]}_t + \mathbf{\delta} \cdot (\text{Treat}_i \times \text{Post}_t) + \mathbf{\gamma}' \mathbf{X}_{it} + \varepsilon_{it}$$
+>    $$Y_{it} = \beta_0 + \beta_1 \cdot \text{Treat}_i + \beta_2 \cdot \text{POST}_t + \mathbf{\delta} \cdot (\text{Treat}_i \times \text{Post}_t) + \mathbf{\gamma}' \mathbf{X}_{it} + \varepsilon_{it}$$
 >    - **$\delta$** 核心因果效应参数（净处理效应），代表干预组在干预前后的变化量减去控制组的变化量；
 >    - **$\mathbf{X}_{it}$** 控制的可观察协变量向量（如家庭经济背景、先前基线成绩）。
 >

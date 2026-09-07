@@ -6,7 +6,7 @@ aliases:
 summary: "米尼奥洛和康奈尔指出的全球知识体系以欧洲中心主义认识论为基础的隐性权力结构，通过界定哪些知识可被看见与接受来固化象征空间的等级边界"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 14
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -33,8 +33,7 @@ related_theories:
   - "[[Decolonial Geopolitics of Knowledge]]"
 related_methods: []
 related_persons: []
-related_facts:
-  - "[[Parliamentary Office of Science and Technology]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Yu_Xie_2025_JHE]]"
 confidence: medium
@@ -55,7 +54,7 @@ updated: 2026-06-29
 > [!concept-lens] 概念透镜
 > - **含义** 认识论殖民揭示了知识与权力之间的深层纠缠：认知的等级秩序并非知识本身的"质量"差异所致，而是殖民现代性（modernity/coloniality）在认知层面的结构性延续——西方知识的特殊性被伪装成普遍理性，非西方知识被系统性地贬低为局部的经验或传统智慧。
 > - **用途** 用于分析全球[[Knowledge Production|知识生产]]中的不平等结构，尤其适用于解释排名体系、学术出版平台和科学语言如何维系以全球北方国家为中心的知识秩序。
-> - **边界** 认识论殖民不等于[[Post-colonial Theory|后殖民理论]]（[[Parliamentary Office of Science and Technology|POST]]-colonial theory）——后者侧重殖民历史的遗产和文化表征政治，前者侧重知识体系本身的认识论规则和制度机制。也不等于学术依附（academic dependency）——后者强调资源和技术层面的依赖关系，前者追问更深层的知识合法性条件。
+> - **边界** 认识论殖民不等于[[Post-colonial Theory|后殖民理论]]（POST-colonial theory）——后者侧重殖民历史的遗产和文化表征政治，前者侧重知识体系本身的认识论规则和制度机制。也不等于学术依附（academic dependency）——后者强调资源和技术层面的依赖关系，前者追问更深层的知识合法性条件。
 
 ---
 

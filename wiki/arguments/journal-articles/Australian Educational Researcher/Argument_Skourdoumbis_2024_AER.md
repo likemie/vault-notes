@@ -10,7 +10,7 @@ title: "Argument_Skourdoumbis_2024_AER"
 argument_key: "Argument_Skourdoumbis_2024_AER"
 argument_display_title: "A critique of 'Strong Beginnings' initial teacher education reforms: mandating neuroscience as core curriculum within the 'what works' movement"
 argument_kind: "journal-article"
-argument_related_count: 39
+argument_related_count: 40
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Learner Autonomy]]"
   - "[[Educational Neuroscience]]"
   - "[[Classroom Management]]"
+  - "[[Social Science as Legitimation Alibi]]"
   - "[[Ontology]]"
   - "[[Axiology]]"
   - "[[Theoretical Standpoint]]"
@@ -214,7 +215,7 @@ citation_aliases:
 > 政策文本对脑科学在历史上曾作为“压迫性技术”和“伪科学缺陷叙事”的黑暗历史保持绝对沉默。这种“科学确定性”极易在现实课堂中演变为针对低社会经济地位（Socio-Economic Status, SES）或少数族裔学生的缺陷标签，将社会不平等生理学化与遗传学化。
 
 > [!case] 神经推理与生物决定论的历史压迫案例
-> - **澳大利亚“被偷走的一代”** 在同化政策期间，脑部发育与“文明化能力”的伪科学学说曾被用作强行剥夺和同化原住民儿童的科学借口。
+> - **澳大利亚“被偷走的一代”** 在同化政策期间，脑部发育与“文明化能力”的伪科学学说曾被用作强行剥夺和同化原住民儿童的[[Social Science as Legitimation Alibi|科学借口]]。
 > - **纳粹德国种族卫生学** 神经科学在历史上曾被高度动员，用于为针对边缘群体的强制绝育政策和种族卫生学提供所谓“科学依据”（Zeidman, 2020, p. 7）。
 
 > [!critique-fatal] 对弱势学生的生物赤字标签化与隐形种族主义

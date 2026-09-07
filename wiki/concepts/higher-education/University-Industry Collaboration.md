@@ -10,7 +10,7 @@ aliases:
 summary: "大学与企业之间有目的的、对齐的合作关系，涵盖研究与学术、教育与学习、公共效益三大维度，区别于单纯的产学关系，强调正式协议框架下的深度参与"
 type: concept
 domain: "higher-education"
-related_count: 97
+related_count: 98
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -81,6 +81,7 @@ related_concepts:
 related_theories:
   - "[[Triple Helix]]"
   - "[[Systems of Innovation]]"
+  - "[[Human Capital Theory]]"
   - "[[Values Alignment Model]]"
   - "[[King-Persily Model]]"
 related_methods:
@@ -352,7 +353,7 @@ Hoffman 等人（2025, pp.108–113）按组织化程度从低到高排列了四
 - **人才杠杆** 企业最需要从大学获取的是熟练劳动力，招聘是最直接的商业利益。大学可以将产业对创业项目的参与（做评审、做导师、做顾问）打包为产业伙伴关系的一部分。对企业而言，花时间指导创业者同时也是"人才的早期侦察"（early talent scouting）（p.148）。
 
 > [!abstract]
-> [[Argument_Gilison_Wilson_2025_UniversityStartups|Gilison & Wilson (2025, pp.151-152)]]将产业在大学衍生企业生命周期中的参与归纳为七个层级，从最轻量到最重度：前瞻性市场输入 → 早期项目评审 → 拨款申请指导 → 挑战与黑客马拉松 → 联盟投资与专家派驻 → 展示会与竞赛评委 → 直接投资。核心发现是：产业与大学的互动"很少直接催生初创企业"，但其价值在于"广泛意义上刺激了有意义的创新和创业"（p.151），通过市场声音和人力资本积累间接发挥作用。详见 [[Argument_Gilison_Wilson_2025_UniversityStartups]]。
+> [[Argument_Gilison_Wilson_2025_UniversityStartups|Gilison & Wilson (2025, pp.151-152)]]将产业在大学衍生企业生命周期中的参与归纳为七个层级，从最轻量到最重度：前瞻性市场输入 → 早期项目评审 → 拨款申请指导 → 挑战与黑客马拉松 → 联盟投资与专家派驻 → 展示会与竞赛评委 → 直接投资。核心发现是：产业与大学的互动"很少直接催生初创企业"，但其价值在于"广泛意义上刺激了有意义的创新和创业"（p.151），通过市场声音和[[Human Capital Theory|人力资本]]积累间接发挥作用。详见 [[Argument_Gilison_Wilson_2025_UniversityStartups]]。
 
 ---
 

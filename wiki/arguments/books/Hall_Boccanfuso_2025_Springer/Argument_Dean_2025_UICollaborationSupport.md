@@ -12,7 +12,7 @@ title: "Argument_Dean_2025_UICollaborationSupport"
 argument_key: "Argument_Dean_2025_UICollaborationSupport"
 argument_display_title: "Gaining Support Within Universities for Collaboration"
 argument_kind: "books"
-argument_related_count: 27
+argument_related_count: 26
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#e5e7eb"
@@ -49,7 +49,6 @@ related_facts:
   - "[[Schlegel-UW Research Institute for Aging]]"
   - "[[University of Waterloo Global Futures Framework]]"
   - "[[European Standards and Guidelines]]"
-  - "[[Parliamentary Office of Science and Technology]]"
 related_arguments: []
 sources:
   - "[[books/Hall_Boccanfuso_2025_Springer/Ch13_Dean_2025|Ch13_Dean_2025]]"
@@ -330,7 +329,7 @@ citation_aliases:
 ## 自述局限
 
 > [!warning]
-> **单一制度经验的局限性**。六位作者全部在滑铁卢大学研究行政系统任职，所阐述的原则虽然声称广泛适用于整个高等教育领域（broadly applicable across the [[Parliamentary Office of Science and Technology|POST]]-secondary sector），但最终根植于滑铁卢大学的特定制度条件——一所拥有全球最大[[Cooperative Education|合作教育]]项目的中等规模加拿大研究型大学，地处北美最密集的科技创新走廊(pp.242, 248)。未讨论这些机制在以下情境中的适用边界：
+> **单一制度经验的局限性**。六位作者全部在滑铁卢大学研究行政系统任职，所阐述的原则虽然声称广泛适用于整个高等教育领域（broadly applicable across the POST-secondary sector），但最终根植于滑铁卢大学的特定制度条件——一所拥有全球最大[[Cooperative Education|合作教育]]项目的中等规模加拿大研究型大学，地处北美最密集的科技创新走廊(pp.242, 248)。未讨论这些机制在以下情境中的适用边界：
 > - 缺乏大型合作教育项目的大学（多数研究型大学没有滑铁卢规模的 co-op 项目）。
 > - 位于[[Innovation Ecosystem|创新生态系统]]较不成熟地区的大学（缺乏 15,000 家科技公司的地理禀赋）。
 > - 主要依赖公共资金而非产业配资的研究资助体系（如部分欧洲国家）。

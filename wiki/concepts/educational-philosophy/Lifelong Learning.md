@@ -7,7 +7,7 @@ aliases:
 summary: "指贯穿个体全生命周期的自愿性、适应性与累积性学习过程，既包含服务知识经济与劳动力重构的人力资本技能更新，更涵盖支撑公民健康、理性决策、民主协商与社会文化基础设施构建的全人发展与非正式参与生态。"
 type: concept
 domain: "educational-philosophy"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -42,7 +42,8 @@ related_concepts:
   - "[[Document]]"
   - "[[Variable]]"
   - "[[Questionnaire]]"
-related_theories: []
+related_theories:
+  - "[[Human Capital Theory]]"
 related_methods:
   - "[[Cohort Study]]"
 related_persons: []
@@ -101,7 +102,7 @@ updated: 2026-09-03
 > [!dimension] 终身学习的三重理论维度与实践支柱
 > - **1. 人本主义与全人发展维度（Humanistic & Personal Development）**
 >   将学习视为个体探索未知世界、丰富精神生活与提升生命福祉的内在需求。通过非正式探究、艺术科技体验与闲暇阅读，激发持久好奇心与[[Critical Thinking|批判性思维]]，促进身心健康与认知多样性包容。
-> - **2. 人力资本与经济适应维度（Human Capital & Economic Adaptability）**
+> - **2. [[Human Capital Theory|人力资本]]与经济适应维度（Human Capital & Economic Adaptability）**
 >   服务于技术颠覆下的劳动力市场重构。重点提升成年工人的[[Data Literacy|数据素养]]、[[AI Literacy|人工智能素养]]以及适应低碳经济转型的绿色技能（Green Skills），防范结构性失业并支撑经济创新。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 32)]]
 > - **3. 社会文化基础设施与非正式参与生态（Social & Cultural Infrastructure）**
 >   依托公共图书馆、科技博物馆、科学探索中心（[[Association for Science and Discovery Centres|ASDC]] 网络）、动植物园以及线上[[Citizen Science|公民科学]]平台（如 [[Big Butterfly Count]]、[[The Perception Census]]），构建去中心化、低门槛的全民学习网络，赋能公众在医疗健康、环境治理等公共事务中开展理性民主协商。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026, pp. 43, 48)]]
@@ -163,7 +164,7 @@ updated: 2026-09-03
 >
 > > [!axis] 经济工具主义 vs 人本主义全人赋能
 > > 终身学习究竟是为了将劳动力驯化为适应资本积累的工具，还是为了追求人性的自由解放与生活乐趣？
-> > - **[[OECD|经济合作与发展组织]]（OECD）与世界银行** 侧重[[Employability|就业能力]]、人力资本回报与技能缺口填补，强调终身技能更新的经济效率。
+> > - **[[OECD|经济合作与发展组织]]（OECD）与世界银行** 侧重[[Employability|就业能力]]、[[Human Capital Theory|人力资本]]回报与技能缺口填补，强调终身技能更新的经济效率。
 > > - **联合国教科文组织（UNESCO）与皇家学会（2026b）** 重申好奇心、生活福祉、社会批判反思以及应对气候变化的集体能动性。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026, p. 46)]]
 >
 > > [!axis] 风险个体化 vs 国家制度性保障

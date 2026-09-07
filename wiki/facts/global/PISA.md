@@ -10,7 +10,7 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 43
+fact_related_count: 46
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Evidence-Based Education]]"
+  - "[[Normal School]]"
   - "[[Critical Thinking]]"
   - "[[School Autonomy]]"
   - "[[21st Century Skills and Competencies Discourse]]"
@@ -57,6 +58,7 @@ related_methods:
 related_facts:
   - "[[OECD]]"
   - "[[Beyond 2000 Report]]"
+  - "[[IEA]]"
   - "[[Baby PISA]]"
   - "[[HarmoS]]"
   - "[[National Assessment of Education Quality China 2007]]"
@@ -68,6 +70,7 @@ related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
   - "[[Argument_Li_2025_HSSC]]"
 related_theories:
+  - "[[Human Capital Theory]]"
   - "[[Item Response Theory]]"
 confidence: high
 status: draft
@@ -84,7 +87,7 @@ updated: 2026-08-23
 > [!event-context] 事件背景
 > - **时间 / 地点** 1995 年由[[OECD|经济合作与发展组织]]（[[OECD]]）提出，1997 年正式启动开发，2000 年首轮实施；每三年一轮，已扩展至全球 90 多个国家和经济体。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, pp. 6–8)]]
 > - **关键主体** [[OECD]]（发起与运营主体）、参与国教育部与考试评估机构、[[International Education|国际教育]]研究网络、跨国政策智库。
-> - **制度背景** 1990 年代[[Knowledge-Based Economy|知识经济]]崛起，OECD 致力于为成员国提供衡量人力资本质量、评估教育投入产出效能的共同语言与跨国可比标准；PISA 摆脱了传统课程记忆测验的局限，专注于测量 15 岁学生在现实生活与未来社会中应用知识的关键素养。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]
+> - **制度背景** 1990 年代[[Knowledge-Based Economy|知识经济]]崛起，OECD 致力于为成员国提供衡量[[Human Capital Theory|人力资本]]质量、评估教育投入产出效能的共同语言与跨国可比标准；PISA 摆脱了传统课程记忆测验的局限，专注于测量 15 岁学生在现实生活与未来社会中应用知识的关键素养。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]
 > - **理论奠基与触发** 科学教育领域 1998 年《[[Beyond 2000 Report|Beyond 2000]] 报告》（Millar & Osborne）提出的“面向全体公民的[[Scientific Literacy|科学素养]]”理念，直接奠定了 PISA 科学素养测评框架的理论底座。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 31)]]
 
 ---
@@ -93,7 +96,7 @@ updated: 2026-08-23
 
 > [!dev-timeline] 发展历程与科学测评框架迭代（1995–2025+）
 > - **1995–2000 — 构想奠基与公民素养[[Paradigm|范式]]确立**
->   - 1995 年 [[OECD]] 构想超越 IEA 传统课程测验的评估方案，吸纳《[[Beyond 2000 Report|Beyond 2000]]》原则；2000 年首轮测评（32 个经济体），阅读为主测，正式确立应用导向的素养评价范式。
+>   - 1995 年 [[OECD]] 构想超越 [[IEA]] 传统课程测验的评估方案，吸纳《[[Beyond 2000 Report|Beyond 2000]]》原则；2000 年首轮测评（32 个经济体），阅读为主测，正式确立应用导向的素养评价范式。
 > - **2000–2009 — PISA 冲击、科学首轮主测与全球扩散**
 >   - PISA 2000 结果发布触发德国著名的“PISA 冲击”，芬兰成为全球[[Reference Society|参考社会]]；
 >   - **PISA 2006（首个科学主测年）** 正式确立[[Scientific Literacy|科学素养]]三大核心能力（识别科学议题、科学解释现象、使用科学证据），强调在真实个人、社会与全球情境中考查科学本质。
@@ -127,7 +130,7 @@ updated: 2026-08-23
 > - **背景[[Questionnaire|问卷]]与社会学透视** 采集学生家庭社会经济文化地位（ESCS）、学校资源、教师教学法等丰富[[Variable|变量]]，为教育公平与效能分析提供海量微观数据。
 
 > [!info] 差异化定位与营销策略（[[Argument_Zhao_2020_JEC|Zhao, 2020]]）
-> PISA 的全球成功是一场精准的市场化定位案例。在 PISA 之前，IEA（[[International Education|国际教育]]成就评价协会）已深耕 TIMSS 和 PIRLS 评估数十年。PISA 通过直击各国政府对未来全球竞争与青年[[Employability|就业能力]]的普遍焦虑，提出了三大核心问询：“年轻人是否准备好迎接未来挑战？他们能否有效分析、推理与沟通？他们是否具备[[Lifelong Learning|终身学习]]的能力？”（OECD 1999, p. 7）。PISA 借此宣称其测量的是“未来生活所需的基本技能”，从而击败传统课程导向评估，确立了全球主导地位。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]
+> PISA 的全球成功是一场精准的市场化定位案例。在 PISA 之前，[[IEA]]（[[International Education|国际教育]]成就评价协会）已深耕 TIMSS 和 PIRLS 评估数十年。PISA 通过直击各国政府对未来全球竞争与青年[[Employability|就业能力]]的普遍焦虑，提出了三大核心问询：“年轻人是否准备好迎接未来挑战？他们能否有效分析、推理与沟通？他们是否具备[[Lifelong Learning|终身学习]]的能力？”（OECD 1999, p. 7）。PISA 借此宣称其测量的是“未来生活所需的基本技能”，从而击败传统课程导向评估，确立了全球主导地位。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]
 
 > [!policy-design]- 全球产品线全景扩张
 > - **PISA for Schools** — 将跨国评估指标下沉至单一学校层面，为学校改进提供国际对标诊断。
@@ -147,8 +150,8 @@ updated: 2026-08-23
 ### [[Argument_Li_2025_HSSC|Li et al. (2025)]] 综述：质量与公平双轨决策路径
 
 > [!dimension] 质量路径：宏观—中观—微观三层决策
-> - **宏观决策层面** 接受新自由主义教育价值与人力资本导向，增加公共教育支出（德、法）；采纳素养[[Construct|构念]]（日本将 PISA 素养写入学习指导要领）；重置[[Reference Society|参考社会]]（韩国从日本转向芬兰）；全面推行[[Evidence-Based Education|循证教育]]决策机制。
-> - **中观决策层面** 改革师范教育与职后进修；对标 PISA 建立国家级质量监测系统（瑞士 [[HarmoS]]、中国 [[National Assessment of Education Quality China 2007|NAEQ]]、加拿大 CEIP）；推行学校自评与数据驱动改进循环。
+> - **宏观决策层面** 接受新自由主义教育价值与[[Human Capital Theory|人力资本]]导向，增加公共教育支出（德、法）；采纳素养[[Construct|构念]]（日本将 PISA 素养写入学习指导要领）；重置[[Reference Society|参考社会]]（韩国从日本转向芬兰）；全面推行[[Evidence-Based Education|循证教育]]决策机制。
+> - **中观决策层面** 改革[[Normal School|师范教育]]与职后进修；对标 PISA 建立国家级质量监测系统（瑞士 [[HarmoS]]、中国 [[National Assessment of Education Quality China 2007|NAEQ]]、加拿大 CEIP）；推行学校自评与数据驱动改进循环。
 > - **微观决策层面** 课程内容向情境化与[[Critical Thinking|批判性思维]]重构（德国 NES 课程标准深度引入[[Scientific Literacy|科学素养]]）；优化基础学制（瑞士 HarmoS 延长义务教育至 11 年）。
 
 > [!dimension] 公平路径：机会—过程—结果三维度

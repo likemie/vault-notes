@@ -9,7 +9,7 @@ aliases:
 summary: "源自古希腊教化与德国精神科学传统的品格陶成与自我形成概念，主张教育指向人（Anthropos）在开放未知未来的自主人格塑造，构成抵御狭隘工具化学校教育（Schooling）与数字化算法预测的本体防线。"
 type: concept
 domain: "educational-philosophy"
-related_count: 58
+related_count: 59
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -56,6 +56,7 @@ related_concepts:
   - "[[IB Diploma Programme]]"
   - "[[Theory of Knowledge]]"
 related_theories:
+  - "[[Human Capital Theory]]"
   - "[[Autopoiesis]]"
 related_methods: []
 related_instruments: []
@@ -101,7 +102,7 @@ updated: 2026-09-08
 > [!def] 核心定义
 > 教化（Bildung，通常译为教养，古希腊语对应为 *[[Paideia]]*，英文亦作 character formation 或 edification of character）源自德国精神科学传统（*geisteswissenschaftliche Tradition*）与古希腊古典人文主义，是指超越外在技术性知识传授和工具化技能训练的自主人格形成与精神提升过程。在教育哲学与比较教育思想史视阈下，该概念主张教育的终极本体在于对人（*Anthropos*）的整全教化与自我发现，要求个人在无法预设终点的开放未来中，持续实现人性的自我完善。
 > 
-> 教化是人类决定其知识与技能如何以远超外在被要求和被期望的方式被使用的能力与勇气，具有不可度量性、不可形式化与不可[[Operationalization|操作化]]的内在尊严。它不仅指向个体在与生活世界独立交互中的主体性觉醒，更在文明演进与比较教育视阈中被确立为以人为本的人文科学（[[Humanistic Episteme]]）底线，用以抵御将教育降格为技术官僚流水线人力资本加工（*Schooling*）的异化危险。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 8)]]；[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 56–57)]]
+> 教化是人类决定其知识与技能如何以远超外在被要求和被期望的方式被使用的能力与勇气，具有不可度量性、不可形式化与不可[[Operationalization|操作化]]的内在尊严。它不仅指向个体在与生活世界独立交互中的主体性觉醒，更在文明演进与比较教育视阈中被确立为以人为本的人文科学（[[Humanistic Episteme]]）底线，用以抵御将教育降格为技术官僚流水线[[Human Capital Theory|人力资本]]加工（*Schooling*）的异化危险。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 8)]]；[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 56–57)]]
 
 > [!concept-lens] 概念透镜
 > - **自主人格透镜** 关注人与自身、他者及世界的三维关系，强调在不确定未知中锤炼非目的论的开放[[Growth|生长]]与[[Critical Thinking|批判性思维]]勇气。
@@ -220,7 +221,7 @@ updated: 2026-09-08
 > **文明思想史中抵御技术异化的全人防线与德国教化悲剧** 科技革命与工业化大生产打破了古典[[Liberal Education|文雅教育]]对社会生活的垄断，带来了工具理性的恶性膨胀与人的深层异化。德国历史的发展呈现出洪堡新人文主义全人教化（*Bildung*）理想与军国主义威权国家机器之间的悲剧性分裂；比较研究必须立足两千年西方思想史长河，将教育定位于抵御技术机械化、唤醒人（*Anthropos*）之神圣尊严的最后屏障。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 51–52)]]；引自 Ulich (1961)
 
 > [!claim] [[Andreas Kazamias|Kazamias, A.]] M.
-> **以广义文化教化超越狭隘学校教育与[[Technical Rationality|技术理性]]** [[Michael Sadler|萨德勒]]、[[Isaac Kandel|坎德尔]]、汉斯与乌利希等奠基学者拒绝将教育窄化为微观课堂、技能训练与考试选拔（Schooling），而是将其锚定在希腊古风教化（*Paideia*）与新人文主义全人培育的宏阔视野中；比较教育学本质上是以人为中心的“人文科学”（[[Humanistic Episteme]]），在技术官僚[[Rationalism in International Relations|理性主义]]将学校降格为人力资本加工厂的浪潮中，维系了对人类政治、社会与伦理危机的根本哲学关怀。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 56–57)]]
+> **以广义文化教化超越狭隘学校教育与[[Technical Rationality|技术理性]]** [[Michael Sadler|萨德勒]]、[[Isaac Kandel|坎德尔]]、汉斯与乌利希等奠基学者拒绝将教育窄化为微观课堂、技能训练与考试选拔（Schooling），而是将其锚定在希腊古风教化（*Paideia*）与新人文主义全人培育的宏阔视野中；比较教育学本质上是以人为中心的“人文科学”（[[Humanistic Episteme]]），在技术官僚[[Rationalism in International Relations|理性主义]]将学校降格为[[Human Capital Theory|人力资本]]加工厂的浪潮中，维系了对人类政治、社会与伦理危机的根本哲学关怀。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 56–57)]]
 
 > [!claim] [[Matthew Arnold|Arnold, M.]]
 > **国家干预与古典教化作为抵御庸俗放任的屏障** 面对维多利亚时代自由放任资本主义所滋生的缺乏甜蜜与光明（Sweetness and Light）的市侩庸人（Philistines），马修·阿诺德（Matthew Arnold）论证指出，唯有依靠现代国家的积极干预，将涵盖古典人文精神的普遍教化确立为公共教育的灵魂，才能抵御社会的野蛮化堕落。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 38–39)]]
@@ -273,7 +274,7 @@ updated: 2026-09-08
 > > 围绕人文教化是否能够自发构成抵御野蛮与极权暴政的文明屏障展开深刻的史学反思。
 > >
 > > - **古典人文主义传统（Humboldt, 1961; Arnold, 1869）** 坚信研读古典人文学术能够涵养人性的至善与公义，维系社会理性与国家秩序。
-> > - **战后批判史学派（Davies, 1997; Mazower, 1998; Mattheou, 2009）** 针砭指出欧洲受教育程度最高、深谙古典文化的精英阶层不仅未能阻止暴行，反而在极权官僚中大行其道，宣告了单纯依赖[[Paideia|古典教化]]作为道德防线的全面坍塌。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 59–60)]]
+> > - **战后批判史学派（Davies, 1997; Mazower, 1998; [[Argument_Mattheou_2009_ScientificParadigm|Mattheou, 2009]]）** 针砭指出欧洲受教育程度最高、深谙古典文化的精英阶层不仅未能阻止暴行，反而在极权官僚中大行其道，宣告了单纯依赖[[Paideia|古典教化]]作为道德防线的全面坍塌。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 59–60)]]
 >
 > > [!axis] 古典教化哲学情怀 vs 半个世纪学科制度化成就
 > > 在比较教育学界，有学者呼吁全盘回归希腊古风 *Paideia* 以拯救学科技术官僚化危机。考恩提出了审慎的反思：过分神化教化情怀如果演变为对战后半个世纪以来跨国经验测评、因果分析与政策制度化成就的否定，实际上是在削弱学科的立足根基；必须将经验成就与历史教化自觉有机融通。[[Argument_Cowen_2023_CE|(Cowen, 2023, p. 327)]]

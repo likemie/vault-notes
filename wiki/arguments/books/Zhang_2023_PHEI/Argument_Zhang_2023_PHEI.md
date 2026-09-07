@@ -13,7 +13,7 @@ title: "Argument_Zhang_2023_PHEI"
 argument_key: "Argument_Zhang_2023_PHEI"
 argument_display_title: "科技创新\"双循环\"生态系统：基于粤港澳大湾区的实践与探索"
 argument_kind: "book"
-argument_related_count: 24
+argument_related_count: 25
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -54,6 +54,7 @@ related_concepts:
 related_theories:
   - "[[Luhmann's Systems Theory]]"
   - "[[Systems of Innovation]]"
+  - "[[Human Capital Theory]]"
 related_facts:
   - "[[Guangdong-Hong Kong-Macau Greater Bay Area]]"
   - "[[San Francisco Bay Area]]"
@@ -426,7 +427,7 @@ updated: 2026-08-20
 > - **区域平台聚合模式** 突出区域化发展，加大力度部署大科学装置、国家实验室、重点实验室等重大创新功能型平台，规划建设一批聚焦产业技术研发和成果转化的平台，加强企业与人才的进入，实现[[Going Native|本土化]]、集聚化发展
 > - **新型研发机构聚合模式** 以领军科学家或首席科学家带领实验室为载体，围绕相关领域展开理论研究与应用开发，推动相应产业发展，形成产业和金融的良性循环
 > - **大学园区聚合模式** 通过引入著名高校及其研究院，大力吸引高素质人才与专业技术人才，进一步加强科研机构与产业资本的联合，为企业与产业发展提供智力支持。建设系列联合实验室，既为研究人员提供合作平台，又为企业发展提供支持
-> - **新兴产业聚合模式** 突出新技术导入，以新兴产业、金融资本与人力资本融合为切入点。依托全球领先的高科技产品形成产业竞争优势，在全球范围内并购或开设分支机构，联合更高层次的大学和科研院所，加大海外布局广度与力度
+> - **新兴产业聚合模式** 突出新技术导入，以新兴产业、金融资本与[[Human Capital Theory|人力资本]]融合为切入点。依托全球领先的高科技产品形成产业竞争优势，在全球范围内并购或开设分支机构，联合更高层次的大学和科研院所，加大海外布局广度与力度
 
 
 ---

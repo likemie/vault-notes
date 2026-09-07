@@ -9,7 +9,7 @@ title: "Argument_Rizvi_2022_Springer"
 argument_key: "Argument_Rizvi_2022_Springer"
 argument_display_title: "Rise of Asia, geopolitical shifts and higher education"
 argument_kind: "book"
-argument_related_count: 33
+argument_related_count: 34
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -52,6 +52,7 @@ related_concepts:
 related_theories:
   - "[[Critical Geopolitics]]"
   - "[[Network Society]]"
+  - "[[Human Capital Theory]]"
 related_methods:
   - "[[Snowball Sampling]]"
   - "[[Discourse Analysis]]"
@@ -226,7 +227,7 @@ Rizvi 从高等教育过去三十年的深刻变化说起。他列出一系列�
 
 **亚洲内部的高等教育扩张**
 
-亚洲各国政府大规模投资高等教育、允许私人投资、鼓励公众将高等教育视为人力资本投资。"一种强有力的修辞出现了，将高等教育视为满足全球化经济需求的[[Necessary and Sufficient Conditions|必要条件]]"(p.95)。亚洲高等教育系统努力改革课程以对接全球劳动力市场的变化需求，同时追求"世界最佳实践"和对西方顶尖大学的"追赶"。
+亚洲各国政府大规模投资高等教育、允许私人投资、鼓励公众将高等教育视为[[Human Capital Theory|人力资本]]投资。"一种强有力的修辞出现了，将高等教育视为满足全球化经济需求的[[Necessary and Sufficient Conditions|必要条件]]"(p.95)。亚洲高等教育系统努力改革课程以对接全球劳动力市场的变化需求，同时追求"世界最佳实践"和对西方顶尖大学的"追赶"。
 
 **西方世界的双重反应**
 

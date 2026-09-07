@@ -5,7 +5,7 @@ aliases:
 summary: "指知识密集型资本主义的物质过程如何通过想象、指标和社会实践被话语建构并制度化的过程。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 40
+related_count: 41
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[Spatial Sortings]]"
   - "[[Progressive Neoliberalism]]"
 related_theories:
+  - "[[Human Capital Theory]]"
   - "[[Cultural Political Economy]]"
   - "[[Critical Geopolitics]]"
   - "[[Fixity-Motion Tension]]"
@@ -85,7 +86,7 @@ updated: '2026-06-02'
 
 要理解[[Knowledge-Based Economy|知识经济]]化为什么是一个必要的分析概念，考虑大学在当代的角色转变：
 
-一个常规的知识经济视角会说：知识经济时代，大学因生产知识和人力资本而在经济中变得更重要。
+一个常规的知识经济视角会说：知识经济时代，大学因生产知识和[[Human Capital Theory|人力资本]]而在经济中变得更重要。
 
 但知识经济化视角会追问：大学变得更重要**本身**是一个需要被制造和维持的过程——这个过程涉及什么？
 
@@ -110,7 +111,7 @@ Moisio 的[[Knowledge-Based Economy|知识经济]]化概念建立在两个理论
 
 具体而言，economization 包含两个方向的运动([[Argument_Moisio_2022_Springer|Moisio, 2022, p.25]])：
 
-1. **社会议题被经济化** 一系列社会议题被不断转译为经济议题，如同它们是纯粹的经济事务。例如：教育的目的本可以是公民培养、个人[[Growth|成长]]或文化传承，但在 economization 过程中，教育被首要地转译为**投资人力资本**、**增强国家竞争力**、**回报率**的经济议题——其他目的不是消失了，而是被经济逻辑重新框定和排序。
+1. **社会议题被经济化** 一系列社会议题被不断转译为经济议题，如同它们是纯粹的经济事务。例如：教育的目的本可以是公民培养、个人[[Growth|成长]]或文化传承，但在 economization 过程中，教育被首要地转译为**投资[[Human Capital Theory|人力资本]]**、**增强国家竞争力**、**回报率**的经济议题——其他目的不是消失了，而是被经济逻辑重新框定和排序。
 
 2. **经济议题被社会化** 反过来，经济相关事务也被表述为社会的、政治的和集体的**我们**议题。例如：提升 GDP 被表述为**为了孩子们的未来**，吸引全球资本被表述为**爱国（参见 [[Economic Patriotism]]）**。这一方向使得经济政策获得了超越纯粹经济计算的道德和情感合法性。
 
@@ -199,7 +200,7 @@ Polanyi 提供了一个关键的方法论启示：**要理解经济，必须分�
 
 **第一层：经济理论为知识经济化提供正当性。** 二十世纪的经济学发展系统性地将知识建构为经济增长的核心驱动力([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.27–28]])：
 
-- Kuznets (1971) 论证知识正成为与物质资本和人力资本并列的生产要素。
+- Kuznets (1971) 论证知识正成为与物质资本和[[Human Capital Theory|人力资本]]并列的生产要素。
 - Solow (1957) 的技术变革理论将技术进步内化于增长模型。
 - Arrow (1962) 论证政府须资助基础[[Knowledge Production|知识生产]]——因知识具有公共品属性，私人市场会对其投资不足。
 - Romer (1986) 的内生增长理论将创新、学习和人力资本确立为增长的根本驱动力。

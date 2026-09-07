@@ -6,7 +6,7 @@ aliases:
 summary: "描述全球教育改革向标准化、问责、市场化和私有化集中的批判性术语，常用于分析新自由主义政策如何重塑学校制度"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Champ]]"
   - "[[Effect Size]]"
+  - "[[Social Science as Legitimation Alibi]]"
   - "[[Academic Achievement]]"
 related_theories: []
 related_methods:
@@ -143,7 +144,7 @@ updated: 2026-07-08
 
 > [!case] [[John Hattie|约翰·哈蒂]]《[[Visible Learning|可见的学习]]》（Visible Learning，VL）在 GERM 中的角色
 > 约翰·哈蒂（John Hattie）的《VL》因其 [[Effect Size|效应量]]排名的简明外观，成为 GERM 时代技术官僚最完美的政策论证工具（p.141）。
-> - **压制社会阶级讨论** 哈蒂在其著作中明确拒绝将"学校无法改变的因素"纳入讨论，宣称研究家庭贫困、营养健康和阶级差异等问题为"政治干扰"（p.150）。这为各国政府推行教育预算缩减提供了强大的科学借口（p.150）。
+> - **压制社会阶级讨论** 哈蒂在其著作中明确拒绝将"学校无法改变的因素"纳入讨论，宣称研究家庭贫困、营养健康和阶级差异等问题为"政治干扰"（p.150）。这为各国政府推行教育预算缩减提供了强大的[[Social Science as Legitimation Alibi|科学借口]]（p.150）。
 > - **抹杀教学法多样性** 哈蒂将"拼读法（0.60）"与"[[Whole Language|全语言]]（0.06）"的效应量拉出来对比，迎合了政策制定者对"唯一证据基础"的迷恋，直接导致澳大利亚维多利亚州教育部等政策实体强行推行基于 VL 指标的公立教师教学限制政策。
 
 > [!case] 德国：[[PISA]] 冲击与产出导向[[Paradigm|范式转换]]

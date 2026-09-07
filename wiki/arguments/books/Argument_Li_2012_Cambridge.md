@@ -120,6 +120,7 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Literature Review]]"
   - "[[Cognitive Source]]"
+  - "[[Liberal Education]]"
   - "[[Grice's Conversational Maxims]]"
   - "[[Revoicing]]"
   - "[[Self-spectator]]"
@@ -155,7 +156,6 @@ related_methods:
 related_facts:
   - "[[PISA]]"
   - "[[Civil Service Examination]]"
-  - "[[Parliamentary Office of Science and Technology]]"
   - "[[Cram Schools]]"
   - "[[Three Excellences]]"
   - "[[Gaokao]]"
@@ -2108,7 +2108,7 @@ Li 的基本论证策略是：先建立一个通用的"学习前→学习中→�
 > **第二阶段：学习中（during learning）** — 正在学的时候，你在经历什么？
 > - 可能感到：沉浸、享受、被挑战（正面）← 或 → 挫败、无聊、想放弃（负面）
 >
-> **第三阶段：学习后（[[Parliamentary Office of Science and Technology|POST]]-learning）** — 学完了（或完成了一个任务），你有什么感受？
+> **第三阶段：学习后（POST-learning）** — 学完了（或完成了一个任务），你有什么感受？
 > - 可能感到：骄傲、满足、有成就感（正面）← 或 → 羞耻、沮丧、自我怀疑（负面）
 
 > [!example] 用一个具体例子理解这个框架
@@ -3145,7 +3145,7 @@ Li 列出了一条从古至今的演说家—领导者谱系(pp.81-83)：古希�
 - **Quintilian**更是设计了一套从出生到老年的完整演说家教育方案——"理想的演说家"需要通晓法律、政治、历史、文学、伦理、战争、医学和数学
 
 > [!tip]-
-> Quintilian 的演说家教育理想本质上就是西方**博雅教育（liberal arts education）**的核心。也就是说，西方教育体系的"基因"里就写着：教育的终极目标是培养能说善辩的人。
+> Quintilian 的演说家教育理想本质上就是西方**[[Liberal Education|博雅教育]]（liberal arts education）**的核心。也就是说，西方教育体系的"基因"里就写着：教育的终极目标是培养能说善辩的人。
 
 这四重传统层层叠加，使"说话"在西方不仅仅是一种沟通工具——它是**智力的标志、权利的行使、领导的要件、教育的顶峰**。理解了这一点，才能理解为什么西方课堂的设计如此依赖口头表达。
 
