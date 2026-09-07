@@ -159,7 +159,7 @@ updated: 2026-09-07
 > - **有限工作[[Hypothesis|假设]]与中程归纳（Limited Working Hypotheses）** 超越普遍永恒铁律与个殊不可比的虚假二元对立：学者能够从个殊、具体与经验的历史事实中归纳提炼中程假说，这些有限工作假设可投射至其他类似情境中接受检验与反哺阐释，在特殊与一般之间建立双向解释循环。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 56)]]
 > - **多元实在论与主观诠释双重取向（Pluralist Realism & Interpretive Affinity）** 后实证范式在实在观上分化出两大互补支流：一是坚持客观实在持续存在但承认其具有多重共存层面的多元实在论；二是与[[Phenomenology|现象学]]及诠释学有深厚亲缘性、主张主体多重诠释处于核心地位的主观诠释取向。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, pp. 733–734)]]
 > - **系统性误差控制与多重理据审视（Systematic Error-checking & Multiple Warrants）** 在量化与[[Mixed Methods Research|混合方法]]实践中，后实证主义承认测量与证据总是不完美的，因此强调严格审查方法偏差、设立[[Reliability|信度]]效度规范，并通过多重测量、准实验控制与[[Triangulation|三角互证]]建立多重理据。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, p. 7)]]
-> - **广义科学观与人文本体锚定（Wissenschaft & Anthropocentric Paideia）** 打破战后英美经验实证话语对“科学”（*Science*）概念的技术性窄化，恢复德语广义科学（*Wissenschaft*）与希腊语理性求知（*Episteme*）的博大学统，确立以人（*anthropos*）和全人[[Bildung|教化]]（*paideia*）为中心的终极价值关怀。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 56–57)]]
+> - **广义科学观与人文本体锚定（Wissenschaft & Anthropocentric [[Bildung|Paideia]]）** 打破战后英美经验实证话语对“科学”（*Science*）概念的技术性窄化，恢复德语广义科学（*Wissenschaft*）与希腊语理性求知（*Episteme*）的博大学统，确立以人（*anthropos*）和全人[[Bildung|教化]]（*paideia*）为中心的终极价值关怀。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 56–57)]]
 
 后实证主义展示了从批判实证霸权到开辟多元探究路径的认识论流变。
 

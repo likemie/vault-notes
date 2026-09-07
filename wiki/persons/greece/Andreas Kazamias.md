@@ -138,7 +138,7 @@ updated: 2026-09-07
 > - **理论路径** 作为比较教育求同存异传统的代表人物，以历史与情境作为核心代码，抵制庸俗的[[Positivism|实证主义]]与去语境化的量化指标崇拜。[[Argument_Cowen_2023_CE|(Cowen, 2023, p. 327)]]
 > - **方法路径** 强调严肃历史档案考掘与诠释学细读，为[[Historical-Comparative Method|历史比较法]]提供[[Epistemology|认识论]]正当性辩护，推动比较教育学者将宏观文明史、制度档案与微观行动者叙事紧密交织。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, pp. 9–10)]]
 > - **学科史编纂** 与考恩共同主编 2009 手册，开创了学科史批判反思板块，直接激发了对比较教育学自身传统发明与[[Geopolitics of Knowledge|知识地缘政治]]的反省。
-> - **人文主义传统** 坚守古典希腊灵魂教育（paideia）理想，在高度技术官僚化与经济[[Pragmatic Paradigm|实用主义]]的教育改革潮流中，为全球比较教育界维系了批判性人文关怀。
+> - **人文主义传统** 坚守古典希腊灵魂教育（[[Bildung|Paideia]]）理想，在高度技术官僚化与经济[[Pragmatic Paradigm|实用主义]]的教育改革潮流中，为全球比较教育界维系了批判性人文关怀。
 
 > [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Cowen_2009_HistoryCreation|Cowen (2009a)]] — 考恩分析卡扎米亚斯对每一代人必须重写其历史命题的提出，及其对学科比较史学传统的开创性贡献。

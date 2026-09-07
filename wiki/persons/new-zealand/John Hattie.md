@@ -27,6 +27,7 @@ related_concepts:
   - "[[Policy Network]]"
   - "[[Individualised Instruction]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Bildung]]"
   - "[[Heterogeneity]]"
   - "[[Research Question]]"
   - "[[Metacognition]]"
@@ -55,7 +56,6 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Didaktik]]"
-  - "[[Bildung]]"
   - "[[Sample Size Determination]]"
   - "[[Confidence Interval]]"
   - "[[Standard Error]]"
@@ -238,7 +238,7 @@ updated: '2026-06-08'
 
 > [!abstract] 扩展著作
 > - Hattie, J., & Yates, G. (2014). *Visible learning and the science of how we learn*. Routledge. — 与认知科学家合作，从脑科学角度阐述学习原则
-> - Hattie, J. (2015). Synlig læring i dag. *Paideia, 9*, 9–21. — 回顾形成过程并回应批评
+> - Hattie, J. (2015). Synlig læring i dag. *[[Bildung|Paideia]], 9*, 9–21. — 回顾形成过程并回应批评
 > - Hattie, J. (2015). The applicability of Visible Learning to higher education. *Scholarship of Teaching and Learning in Psychology*, 1*(1), 79–91. — 将框架应用于高等教育
 > - Fisher, D., Frey, N., & Hattie, J. (2016). *Visible learning for literacy*. Corwin Press. — 扩展至读写教学
 > - Hattie, J., Masters, D., & Birch, K. (2016). *Visible learning into action*. Routledge. — 汇编实施案例
