@@ -141,19 +141,25 @@ updated: 2026-09-07
 >
 > *Educational problems are rooted in cultural lag or asynchrony—the tension arising when rapid changes in socio-economic techniques clash with deeply entrenched, slow-moving normative mental states and institutions.*
 
+> [!citation-card] 规范法则与权变社会学法则的本体论二元分立
+> 霍姆斯指出，规范法则是人为设立的道德公约，构成学校运行所处的深层文化情境；而社会学法则则是假说性陈述，用以描述机构功能的实际运行。与物理学定律不同，社会学法则不具有超越时空的绝对普适性，而是具有严格的情境权变性（contingent），其有效性完全受制于适用的初始条件。(Holmes, 1981, pp. 78–80; 见 [[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 62–63)]])
+>
+> *Normative laws are man-made and can be accepted, rejected or changed by man... On the other hand, sociological laws... are hypothetical, and if they are to be scientific, should be refutable... sociological laws are not universally valid: they are contingent, in the sense that... they are dependent on the conditions under which they are to be applied.*
+
 ---
 
 ## 影响路径
 
 > [!influence-path] 影响路径
 > - **理论路径** 与[[George Bereday|贝雷迪]]（Bereday）、[[Harold Noah|诺亚]]（Noah）与[[Max Eckstein|埃克斯坦]]（Eckstein）共同确立战后比较教育社会科学化、[[Policy Science in Comparative Education|政策科学]]化的主流[[Paradigm|范式]]；
-> - **方法路径** 确立了“问题分析—模式建构—因果预测”的演绎问题法，使跨国比较摆脱了无反思的经验白描与静态因素列举；
+> - **方法路径** 确立了“问题分析—模式建构—因果预测”的演绎[[Problem Approach in Comparative Education|问题法]]，使跨国比较摆脱了无反思的经验白描与静态因素列举；
 > - **政策路径** 深度影响了英联邦、UNESCO 与 IBE 的教育规划专家培训，成为[[International Education|国际教育]]顾问制定政策可行性方案的标准分析工具；
 > - **史料评价** 破除实证派对早期发端的傲慢偏见，高度肯定[[Henry Barnard|亨利·巴纳德]]（Henry Barnard）编纂世界教育百科全书的历史贡献。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 32–33; Holmes, 1965)]]
 
 > [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Cowen_2023_CE|Cowen (2023)]] — 考察霍姆斯物理学式预测模型与政策科学定位在 1960 年代[[Ontology|本体论]]大论战中的关键地位。
 > - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009)]] — 梳理霍姆斯以科学预测为标尺对历史学派发起的实证围剿与范式冲击。
+> - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 评析霍姆斯运用批判二元论解构美国普遍因果律、以问题法综合历史文化与社会科学的认识论建构。
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] — 引用霍姆斯对巴纳德百科全书式比较调查的极高赞誉与思想史平反。
 
 ---
@@ -170,12 +176,18 @@ updated: 2026-09-07
 >
 > *Holmes's critique of historical comparative education challenged its retrospective orientation, posing the formidable demand that comparative study must demonstrate predictive power for future policy action.*
 
+> [!citation-card] 马修论霍姆斯对历史学派与实证社会科学的综合
+> 迪米特里斯·马修指出，霍姆斯在批判二元论框架下运用跨国规范模式（柏拉图、马克思、杜威）以及国家层面的心理状态模式（萨德勒所谓的活的精神与国民性格），既对美国实证派肤浅的变量操作化和去情境化提出了尖锐反思，也在很大程度上满足了卡扎米亚斯关于“综合历史与社会科学”的学术追求。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 66–67)]]
+>
+> *Reflecting perhaps the influence of the English (and European) humanistic tradition in comparative education, the problem-solving approach reserved a place for history... Thus, in a way, the Holmesian scientific approach came, in my judgement, closer to satisfying Kazamias appeal for a synthesis of history and social science.*
+
 ---
 
 ## 关系网络
 
 > [!person-network] 关系网络
 > - **师承／合作者** [[Joseph Lauwerys]]、[[Nicholas Hans]] — IOE 比较教育学系前辈与合著者，共同主编《世界教育年鉴》；
+> - **论辩同行（美国实证学派）** [[C. Arnold Anderson]]、[[Harold Noah]]、[[Max Eckstein]] — 围绕恒常普遍规律 vs 权变情境法则展开跨大西洋论辩；
 > - **论辩同行** [[George Bereday]] — 就演绎问题法 vs 归纳区域研究比较展开跨大西洋大论战；
 > - **论辩同行** [[Edmund King]] — 就[[Nomothetic|通则式]]预测[[Policy Science in Comparative Education|政策科学]] vs 地方生态学语境相对主义展开长达数十年辩鸣；
 > - **实证批评对象** [[Isaac Kandel]]、[[Michael Sadler]] — 历史学派代表，被霍姆斯批评缺乏政策预测力；

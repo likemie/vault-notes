@@ -117,6 +117,11 @@ updated: 2026-09-07
 >
 > *The ultimate goal of scientific comparative education is explanation, achieved through the systematic testing of [[Hypothesis|hypotheses]] using cross-national empirical and statistical data.*
 
+> [!citation-card] 变量函数共变与因果机制的审慎界定
+> 诺亚与埃克斯坦将跨国概括表述为自变量与因变量之间的函数共变关系（以数学形式表达为“随 $x$ 变化，$y$ 亦相应变化”）。然而他们审慎强调，阐明函数关系并不必然揭示因果联系，亦无法直接指明影响的方向性机制；基于此种方法论自省，他们并未直接赋予其概括性命题以自然科学意义上的“法则（laws）”地位。(Noah & Eckstein, 1969, pp. 93–96; 见 [[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, p. 62)]])
+>
+> *These generalisations were seen as 'functional relationship(s) between dependent and independent variables' expressed in propositions that preferably take the mathematical form of 'as x changes so y changes'... they were at pains to underline that 'a statement of a functional relationship... need not necessarily refer to causal relationships'... Finally, all these elucidations may explain why they did not give the status of 'laws' to their universal explanatory propositions.*
+
 ---
 
 ## 影响路径
@@ -130,6 +135,7 @@ updated: 2026-09-07
 > [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Cowen_2009_HistoryCreation|Cowen (2009a)]] — 考恩分析诺亚与[[Max Eckstein|埃克斯坦]]经典著作对年轻学者学科合法性的建构机制，并将其列为[[Comparative History of Comparative Education|比较教育学比较史]]顾问委员会首选资深学者。
 > - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009)]] — 卡扎米亚斯回顾诺亚与埃克斯坦在 1960 年代对历史比较学派的[[Positivism|实证主义]]批评，并对其狭隘科学观展开[[Epistemology|认识论]]辩护。
+> - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 评析诺亚与埃克斯坦在科学范式中建立的变量函数共变模型，及其审慎不称“法则”的方法论自省与战后政策规划取向。
 
 ---
 
@@ -145,6 +151,11 @@ updated: 2026-09-07
 >
 > *Noah and Eckstein, in their often-cited text Toward a Science of Comparative Education (1969), noted critically that 'their conclusions rely largely on the private insights of their authors, not only regarding which categories are valid and which data are relevant, but also on the matter of what quantity and quality of evidence constitute proof of a particular assertion'... What appeared in Kandel's work as persuasive conclusion are in fact important [[Hypothesis|hypotheses]] remaining open for testing... They were primarily intellectuals intent on explanation, rather than activists in the field of educational policy-making.*
 
+> [!citation-card] 马修论诺亚与埃克斯坦的变量共变模型与审慎法则观
+> 迪米特里斯·马修指出，诺亚与埃克斯坦在寻求跨国普遍解释的同时，清醒意识到了共变关系的内在陷阱，明确指出函数命题并不等同于因果机制，且无法直接阐明因果作用的具体链条。正是基于这种无休止完善命题的要求，他们明智地未将这些实证概括冠以绝对“法则”之名，展现了实证主义阵营内部严谨求实的方法论素养。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, p. 62)]]
+>
+> *Being aware however of the difficulties of such a project and of the pitfalls inherent in covariational relationships they were at pains to underline that 'a statement of a functional relationship... need not necessarily refer to causal relationships'... Finally, all these elucidations may explain why they did not give the status of 'laws' to their universal explanatory propositions.*
+
 ---
 
 ## 关系网络
@@ -152,7 +163,8 @@ updated: 2026-09-07
 > [!person-network] 关系网络
 > - **学术双子星与合作者** [[Max Eckstein|马克斯·埃克斯坦]] — 保持长达三十余年的紧密学术合作，合著《走向比较教育科学》等里程碑专著。
 > - **哥大同事与前辈** [[George Bereday|乔治·贝雷迪]] — 共同任教于哥大[[Normal School|师范学院]]，继承其比较方法并在经验归纳基础上推进假说检验；[[Isaac Kandel|艾萨克·坎德尔]] — 哥大师范学院历史-哲学传统奠基人，诺亚对其主观定性分析提出反思并主张实证科学化转向。
-> - **论辩与[[Dialogue in Education|对话]]者** [[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]] — 批评诺亚与埃克斯坦的实证科学[[Paradigm|范式]]将历史哲学遗产贬为非科学；伦敦学派文化主义者（排斥社会学与量化实证）。
+> - **实证科学化同盟** [[C. Arnold Anderson]]、[[Philip Foster]] — 芝加哥学派代表，共同奠定战后美国比较教育社会科学经验实证范式。
+> - **论辩与[[Dialogue in Education|对话]]者** [[Brian Holmes]] — 伦敦大学教育学院代表，围绕经验归纳变量共变 vs 批判二元论演绎问题法展开跨大西洋论战；[[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]] — 批评诺亚与埃克斯坦的实证科学[[Paradigm|范式]]将历史哲学遗产贬为非科学。
 > - **历史批判对象** [[Isaac Kandel|艾萨克·坎德尔]]、[[Nicholas Hans|尼古拉斯·汉斯]]、[[Michael Sadler|迈克尔·萨德勒]] — 将其归为前科学阶段。
 > - **后辈学者启迪** [[Robert Cowen|罗伯特·考恩]] — 考恩深情回忆诺亚在其初赴美任教时的热情接纳，其 1969 著作解答了考恩学生时代的学科历史困惑并赋予其职业合法性。
 > - **机构与组织** [[Comparative and International Education Society]]（CIES 前会长）、哥伦比亚大学师范学院（讲座教授、院长）。

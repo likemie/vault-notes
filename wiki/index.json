@@ -436,6 +436,18 @@
     ]
   },
   {
+    "title": "Critical Dualism in Comparative Education",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Critical Dualism in Comparative Education.md",
+    "aliases": [
+      "批判二元论",
+      "比较教育学批判二元论",
+      "规范法则与社会学法则",
+      "Critical Dualism",
+      "Normative Laws and Sociological Laws"
+    ]
+  },
+  {
     "title": "Cross-National Attraction",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Cross-National Attraction.md",
@@ -955,6 +967,16 @@
       "revolutionist tradition",
       "Kantian tradition",
       "康德传统"
+    ]
+  },
+  {
+    "title": "Scientific Paradigm in Comparative Education",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Scientific Paradigm in Comparative Education.md",
+    "aliases": [
+      "比较教育学科学范式",
+      "科学范式",
+      "Scientific Paradigm"
     ]
   },
   {
@@ -12805,6 +12827,18 @@
     ]
   },
   {
+    "title": "Problem Approach in Comparative Education",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Problem Approach in Comparative Education.md",
+    "aliases": [
+      "问题法",
+      "比较教育学问题法",
+      "问题解决法",
+      "Problem Approach",
+      "Holmes' Problem Approach"
+    ]
+  },
+  {
     "title": "Projection Technique",
     "type": "method",
     "path": "wiki/methods/qualitative/Projection Technique.md",
@@ -16631,6 +16665,17 @@
     "aliases": [
       "鲍勃·利奇",
       "Robert Leach"
+    ]
+  },
+  {
+    "title": "C. Arnold Anderson",
+    "type": "person",
+    "path": "wiki/persons/us/C. Arnold Anderson.md",
+    "aliases": [
+      "安德森",
+      "C. A. Anderson",
+      "Charles Arnold Anderson",
+      "Anderson, C. A."
     ]
   },
   {
@@ -21145,6 +21190,11 @@
     "title": "Argument_Kazamias_2009_ForgottenThemes",
     "type": "argument",
     "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kazamias_2009_ForgottenThemes.md"
+  },
+  {
+    "title": "Argument_Mattheou_2009_ScientificParadigm",
+    "type": "argument",
+    "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Mattheou_2009_ScientificParadigm.md"
   },
   {
     "title": "Argument_Creswell_2022_SAGE",
