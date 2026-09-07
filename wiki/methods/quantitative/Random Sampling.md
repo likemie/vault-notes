@@ -22,6 +22,7 @@ tags:
   - survey
 related_concepts:
   - "[[Sampling Frame]]"
+  - "[[Unit of Analysis]]"
   - "[[External Validity]]"
   - "[[Causality]]"
   - "[[Internal Validity]]"
@@ -53,7 +54,7 @@ updated: 2026-06-22
 > [!method-scope] 方法范围
 > - **研究对象** 有可识别[[Sampling Frame|抽样框]]的总体
 > - **问题类型** 需要统计推广到更广泛总体的研究
-> - **分析单位** 个体、组织或可从抽样框中识别的任何单位
+> - **[[Unit of Analysis|分析单位]]** 个体、组织或可从抽样框中识别的任何单位
 > - **输出形式** 概率样本，支持统计推论和误差范围报告
 
 ## 子类型总览

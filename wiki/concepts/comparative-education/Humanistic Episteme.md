@@ -32,6 +32,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Paradigm]]"
   - "[[Scientific Method]]"
+  - "[[Unit of Analysis]]"
   - "[[Variable]]"
   - "[[Postmodernism]]"
   - "[[Intangible Spiritual Forces]]"
@@ -97,7 +98,7 @@ updated: 2026-09-07
 > | **核心本体** | 完整的“人（*Anthropos*）”、[[Bildung\|全人教化]]与文化精神生活 | 学校体制[[Disciplina and Doctrina\|规训]]（*Schooling*）、人力资本投入与可度量技能产出 |
 > | **科学观基石** | 欧陆广义科学观（德语 *Wissenschaft* / 希腊语 *Episteme*） | 盎格鲁-撒克逊狭义经验实证科学（*[[Scientific Method\|empirical science]]*） |
 > | **学科使命** | 直面人类生存的伦理、政治与社会危机，滋养历史健全理性 | 提供因果预测、技术控制方案与标准化跨国政策干预工具 |
-> | **分析单位** | 嵌入民族历史传统与制度生成脉络的鲜活有机生命体 | 跨国可度量[[Variable\|变量]]、统计指标、测验分数与回归系数 |
+> | **[[Unit of Analysis\|分析单位]]** | 嵌入民族历史传统与制度生成脉络的鲜活有机生命体 | 跨国可度量[[Variable\|变量]]、统计指标、测验分数与回归系数 |
 > | **代表学者** | [[Michael Sadler\|Sadler]]; [[Isaac Kandel\|Kandel]]; [[Nicholas Hans\|Hans]]; [[Robert Ulich\|Ulich]]; [[Andreas Kazamias\|Kazamias]] | [[Harold Noah\|Noah]]; [[Max Eckstein\|Eckstein]]; [[Brian Holmes\|Holmes]]; [[Philip Foster\|Foster]] |
 
 ---

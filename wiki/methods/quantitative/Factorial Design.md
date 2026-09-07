@@ -22,6 +22,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Interaction Effect]]"
   - "[[Causality]]"
+  - "[[Unit of Analysis]]"
   - "[[Effect Size]]"
   - "[[Pre-test and Post-test]]"
   - "[[Confidence Interval]]"
@@ -54,7 +55,7 @@ updated: 2026-07-13
 > [!method-scope] 方法范围
 > - **研究对象** 被[[Random Assignment|随机分配]]至自变量各水平组合的参与者——每个组合构成一个独立的实验条件。
 > - **问题类型** 多个自变量的主效应各是什么？它们之间是否存在交互效应？
-> - **分析单位** 个体参与者，随机分配至各实验条件组合。
+> - **[[Unit of Analysis|分析单位]]** 个体参与者，随机分配至各实验条件组合。
 > - **输出形式** 各主效应的显著性检验 + 交互效应检验 + [[Effect Size|效应量]]估计。
 
 ## 方法定位

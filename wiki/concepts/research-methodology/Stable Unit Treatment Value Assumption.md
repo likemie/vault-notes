@@ -19,6 +19,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Causality]]"
   - "[[Confidence Interval]]"
+  - "[[Unit of Analysis]]"
   - "[[Ontology]]"
 related_theories:
   - "[[Potential Outcomes Framework]]"
@@ -62,7 +63,7 @@ updated: 2026-09-07
 
 
 > [!abstract] 目前没有有效的统计补救方法
-> [[Argument_Berk_2011_ER|Berk (2011, p.195)]] 明确指出："截至目前，对主体间干扰没有有效的统计补救方法。"但他同时指出，如果分析单位从个体学生改为教室（使用教室层面的聚合统计量，如均值），则问题消失——因为此时随机分配单位与分析单位一致（[[Argument_Berk_2011_ER|Berk, 2011]], footnote 2, p.200）。
+> [[Argument_Berk_2011_ER|Berk (2011, p.195)]] 明确指出："截至目前，对主体间干扰没有有效的统计补救方法。"但他同时指出，如果[[Unit of Analysis|分析单位]]从个体学生改为教室（使用教室层面的聚合统计量，如均值），则问题消失——因为此时随机分配单位与分析单位一致（[[Argument_Berk_2011_ER|Berk, 2011]], footnote 2, p.200）。
 
 ## 与相关概念的区别
 

@@ -27,6 +27,7 @@ tags:
 related_concepts:
   - "[[Construct]]"
   - "[[Scale of Measurement]]"
+  - "[[Unit of Analysis]]"
   - "[[Variable]]"
   - "[[Epistemology]]"
   - "[[Heterogeneity]]"
@@ -68,7 +69,7 @@ updated: 2026-08-30
 > [!method-scope] 方法范围
 > - **研究对象** 嵌套在不同人口学（如性别、种族、教龄）、文化背景（跨国测验如 [[PISA]]/TIMSS）或纵向追踪时点（Longitudinal Invariance）的多组观测协方差与均值向量结构。
 > - **问题类型** 检验测量工具是否存在跨群体测量偏倚（Measurement Bias）、项目功能差异（Differential Item Functioning, DIF）或文化特异性理解偏差；判定跨组均值与路径系数比较的合法性。
-> - **分析单位** 多组独立样本的观测[[Variable|变量]]、潜变量因子载荷、测量截距与测量残差方差。
+> - **[[Unit of Analysis|分析单位]]** 多组独立样本的观测[[Variable|变量]]、潜变量因子载荷、测量截距与测量残差方差。
 > - **输出形式** 形态、弱、强、严格四阶段嵌套模型的拟合指数矩阵（$\chi^2$、$df$、[[Model Fit Indices in SEM and CFA|RMSEA]]、SRMR、CFI）及其改变量（$\Delta\text{CFI}$、$\Delta\text{RMSEA}$）。
 
 > [!citation-card]- 关键定义

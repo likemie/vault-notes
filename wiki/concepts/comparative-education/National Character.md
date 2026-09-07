@@ -38,6 +38,7 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Epistemology]]"
   - "[[Historical-Philosophical-Cultural Motif]]"
+  - "[[Unit of Analysis]]"
   - "[[Educational Meliorism]]"
   - "[[Operationalization]]"
 related_theories: []
@@ -194,7 +195,7 @@ updated: 2026-09-07
 > [!dev-timeline] 概念演变
 > - **18 世纪末–19 世纪中叶 — 哲学思辨与民族精神发轫** 孟德斯鸠（Montesquieu）探讨法律与地理、气候和民族精神的关系，赫尔德（Herder）等浪漫主义思想家提出不可通约的独特民族精神（Volksgeist），为早期比较教育观察提供了思想土壤。
 > - **1900 — [[Michael Sadler|萨德勒]]确立教育制度反映与救治国民性格命题** 萨德勒在著名的吉尔福德演讲《我们在多大程度上能够从外国教育制度研究中学习实际有价值的经验？》中，提出国家教育制度是活体有机体，蕴含民族生活隐秘运作，既反映又试图救治国民性格缺陷，打破了机械移植办学经验的功利主义。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 40, 44)]]
-> - **1930s–1950s — 经典学派系统化为核心分析[[Construct|构念]]** [[Isaac Kandel|坎德尔]]《比较教育》（1933）、[[Nicholas Hans|汉斯]]《比较教育：教育的因素与传统研究》（1949）与[[Vernon Mallinson|马林森]]《比较教育研究导论》（1957）将国民性格作为跨国制度比较的基本[[Independent Variable|自变量]]与核心解释框架。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 40–42)]]
+> - **1930s–1950s — 经典学派系统化为核心分析[[Construct|构念]]** [[Isaac Kandel|坎德尔]]《比较教育》（1933）、汉斯《比较教育：教育的因素与传统研究》（1949）与[[Vernon Mallinson|马林森]]《比较教育研究导论》（1957）将国民性格作为跨国制度比较的基本[[Independent Variable|自变量]]与核心解释框架。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 40–42)]]
 > - **1960s — 实证转型期的全面反思与方法论清算** [[Positivism|实证主义]]者（如 Noah & Eckstein）指责国民性格属于前科学主观臆测；卡扎米亚斯与劳威斯指出其陷入同义反复、缺乏经验史料证据，并伴随混淆实然与应然的[[Whiggism|辉格史观]]。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 53–55)]]
 > - **1970s 至今 — 概念解构与跨学科[[Paradigm|范式]]转型** 国民性格构念在当代比较教育中基本被解构，其关注的宏观文化问题被政治文化、国家认同（National Identity）、[[Hegemony|文化霸权]]与制度[[Habitus|习性]]等更具[[Reflexivity|反思性]]与经验操作性的社会学概念所吸收。
 
@@ -231,7 +232,7 @@ updated: 2026-09-07
 > [!entry-map] 国民性格[[Construct|构念]]在学术网络中的关联结构
 > | 关联构件 | 链接条目 | 理论关联说明 |
 > |---|---|---|
-> | **[[Epistemology\|认识论]]母题** | [[Historical-Philosophical-Cultural Motif]] | 构成历史-哲学-文化母题赖以立论的七大基石之一（民族国家与国民性分析单元） |
+> | **[[Epistemology\|认识论]]母题** | [[Historical-Philosophical-Cultural Motif]] | 构成历史-哲学-文化母题赖以立论的七大基石之一（民族国家与国民性[[Unit of Analysis\|分析单元]]） |
 > | **核心方法** | [[Historical-Comparative Method]] | 早期历史比较法用于穿透学校外在表象、探究深层民族精神与社会动因的核心构念 |
 > | **价值旨趣** | [[Educational Meliorism]] | 经典学者借助阐明国民性格缺陷，旨在推动教育体系对民族弱点进行代偿性救治与民主改良 |
 > | **经典奠基者** | [[Michael Sadler]]；[[Isaac Kandel]]；[[Nicholas Hans]] | 萨德勒提出学校反映并救治国民性缺陷；坎德尔将国民性格定为体系灵魂；汉斯将其[[Operationalization\|操作化]]为历史因素合力 |
@@ -243,5 +244,5 @@ updated: 2026-09-07
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009)]] — 思想史考古梳理[[Michael Sadler|萨德勒]]、[[Isaac Kandel|坎德尔]]、[[Nicholas Hans|汉斯]]与[[Vernon Mallinson|马林森]]对国民性格[[Construct|构念]]的界定与操作，从经验证据、同义反复与[[Whiggism|辉格史观]]三个向度对该构念展开批判反思，并确立[[Historical-Comparative Method|历史比较法]]超越国民性格偏见的现代学术合法性。
+> - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009)]] — 思想史考古梳理[[Michael Sadler|萨德勒]]、[[Isaac Kandel|坎德尔]]、汉斯与[[Vernon Mallinson|马林森]]对国民性格[[Construct|构念]]的界定与操作，从经验证据、同义反复与[[Whiggism|辉格史观]]三个向度对该构念展开批判反思，并确立[[Historical-Comparative Method|历史比较法]]超越国民性格偏见的现代学术合法性。
 

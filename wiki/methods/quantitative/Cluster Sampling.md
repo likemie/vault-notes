@@ -14,7 +14,8 @@ method_related_color: "#dcfce7"
 tags:
   - method/sampling
   - quantitative-research
-related_concepts: []
+related_concepts:
+  - "[[Unit of Analysis]]"
 related_theories: []
 related_methods:
   - "[[Random Sampling]]"
@@ -37,7 +38,7 @@ updated: 2026-06-22
 > [!method-scope] 方法范围
 > - **研究对象** 地理或组织上自然聚集的群体
 > - **问题类型** 需要大规模覆盖但行政资源有限的研究
-> - **分析单位** 群（cluster），群内所有成员
+> - **[[Unit of Analysis|分析单位]]** 群（cluster），群内所有成员
 > - **输出形式** 以群为单位的概率样本
 
 ## 研究程序

@@ -16,6 +16,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Variable]]"
   - "[[Hypothesis]]"
+  - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Sample Size Determination]]"
   - "[[Research Question]]"
@@ -50,7 +51,7 @@ updated: 2026-08-15
 > [!method-scope] 方法范围
 > - **研究对象** 具备多维测量结构并[[Hypothesis|假设]]存在群体异质性分类的数据。
 > - **问题类型** 探索或验证异质样本中的亚群结构（如划分认知发展阶段类型）。
-> - **分析单位** 个体。
+> - **[[Unit of Analysis|分析单位]]** 个体。
 > - **输出形式** 潜在类别分配、类别的因子均值轮廓图。
 
 ---
@@ -79,7 +80,7 @@ updated: 2026-08-15
 
 > [!method-stack] 数据、[[Variable|变量]]与模型
 > - **数据结构** 常见为横截面量表数据（跨断面测量）或追踪数据（纵向混合模型）。
-> - **样本与单位** [[Sample Size Determination|样本量]]要求较高（受模型复杂度和待估参数限制，通常需几百至上千样本量，否则极易不收敛）。分析单位为个体。
+> - **样本与单位** [[Sample Size Determination|样本量]]要求较高（受模型复杂度和待估参数限制，通常需几百至上千样本量，否则极易不收敛）。[[Unit of Analysis|分析单位]]为个体。
 > - **变量或指标** 观测变量（如[[Questionnaire|问卷]]题项得分）、连续潜变量（因子分数）、类别潜变量（未知的异质性群组）。
 > - **模型或统计量** 因子混合模型（FMM），输出包含类别概率、各类别下的潜因子均值及方差-协方差矩阵。
 > - **诊断与检验** 信息准则（AIC、BIC、SABIC 越小越好）、似然比检验（LMR检验、bLRT检验考察 $K$ 类是否优于 $K-1$ 类）、模型收敛性检查、分类熵（Entropy，一般要求 > 0.8 以确保分类精度）。

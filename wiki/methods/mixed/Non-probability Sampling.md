@@ -19,6 +19,7 @@ tags:
   - quantitative-research
 related_concepts:
   - "[[Questionnaire]]"
+  - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Constructivist Paradigm]]"
   - "[[Pragmatic Paradigm]]"
@@ -67,7 +68,7 @@ updated: 2026-06-22
 > [!method-scope] 方法范围
 > - **研究对象** 特定群体、难以接触人群、关键信息提供者或典型案例
 > - **问题类型** 探索性问题、深度理解、理论生成、[[Case Study|案例研究]]和试点研究
-> - **分析单位** 个体、群体、组织、事件、文本或社会情境元素
+> - **[[Unit of Analysis|分析单位]]** 个体、群体、组织、事件、文本或社会情境元素
 > - **输出形式** 深度描述、理论建构、类型学、案例分析和局部解释
 
 > [!citation-card]- 关键定义

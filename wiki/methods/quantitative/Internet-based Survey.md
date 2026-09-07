@@ -24,6 +24,7 @@ tags:
   - data-collection
 related_concepts:
   - "[[Questionnaire]]"
+  - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Positivism]]"
   - "[[Variable]]"
@@ -61,7 +62,7 @@ updated: '2026-07-21'
 > [!method-scope] 方法范围
 > - **研究对象** 个体、群体的态度、意见、行为、偏好和经历。
 > - **问题类型** 描述、比较、相关分析，与传统的纸笔调查相同。
-> - **分析单位** 个体或群体（通常为封闭式总体，如组织员工）。
+> - **[[Unit of Analysis|分析单位]]** 个体或群体（通常为封闭式总体，如组织员工）。
 > - **输出形式** 频数、比例、均值、相关、因子结构等量化数据，现代平台可自动整理和呈现结果。
 
 在线调查平台（如 SurveyMonkey、Qualtrics、Google Forms 等）已极大简化了互联网调查的实施。写作时的许多技术性问题（下载速度、浏览器兼容性等）在今天已基本被平台解决，但核心方法论关切仍是重要议题（p.290）。

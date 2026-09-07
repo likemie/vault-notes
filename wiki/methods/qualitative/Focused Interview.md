@@ -18,6 +18,7 @@ tags:
   - data-collection
 related_concepts:
   - "[[Hypothesis]]"
+  - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
 related_methods:
   - "[[Non-directive Interview]]"
@@ -45,7 +46,7 @@ updated: 2026-07-22
 > [!method-scope] 方法范围
 > - **研究对象** 个体对已知特定情境的主观反应、意义建构和情感体验。
 > - **问题类型** 适合检验研究者事先形成的假设；同时发现未预期的回应以产生新假设。
-> - **分析单位** 经历过同一情境的个体受访者。
+> - **[[Unit of Analysis|分析单位]]** 经历过同一情境的个体受访者。
 > - **输出形式** 假设的验证或否定、未预期回应的主题分类、新假设。
 
 ---

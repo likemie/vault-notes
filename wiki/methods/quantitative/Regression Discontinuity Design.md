@@ -29,6 +29,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Dependent Variable]]"
   - "[[Academic Achievement]]"
+  - "[[Unit of Analysis]]"
   - "[[Internal Validity]]"
   - "[[Construct]]"
   - "[[Counterfactual]]"
@@ -82,7 +83,7 @@ updated: 2026-08-22
 > [!method-scope] 方法范围
 > - **研究对象** 依赖连续分数进行资源分配的教育与公共政策方案（如中[[Gaokao|高考]]择优录取、奖学金评定、学业辅导划线、贫困家庭资助线、按出生日期划定的小学入学年龄截点）。
 > - **问题类型** 评估门槛政策对边界处人群[[Academic Achievement|学业成就]]、出勤率、身心健康及长期收入的净因果增量。
-> - **分析单位** 处于驱动变量连续分布中的学生个体、班级或学校集群。
+> - **[[Unit of Analysis|分析单位]]** 处于驱动变量连续分布中的学生个体、班级或学校集群。
 > - **输出形式** 断点处因果跃升跳跃估计值 $\tau_{\text{RDD}}$、局部线性回归斜率、最优带宽（Optimal Bandwidth）及 McCrary 密度检验统计图。
 
 > [!citation-card]- 关键定义

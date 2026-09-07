@@ -19,6 +19,7 @@ tags:
   - source/textbook
   - paradigm/interpretivist
 related_concepts:
+  - "[[Unit of Analysis]]"
   - "[[Rich and Thick Description]]"
   - "[[Epistemology]]"
   - "[[Reliability]]"
@@ -61,7 +62,7 @@ updated: '2026-07-22'
 > [!method-scope] 方法范围
 > - **研究对象** 特定文化群体、社区、组织或社会现象。
 > - **问题类型** 适合回答"怎么样""为什么"之类需要解释性理解的问题，关注群体特点和具体事物的发展转变历程。
-> - **分析单位** 群体文化特征、个体行为意义、社会互动模式。
+> - **[[Unit of Analysis|分析单位]]** 群体文化特征、个体行为意义、社会互动模式。
 > - **输出形式**[[Rich and Thick Description|深描]]式的民族志文本，通过理论探讨与研究结果结合呈现。
 
 > [!citation-card]- 关键表述

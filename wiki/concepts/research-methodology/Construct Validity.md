@@ -35,6 +35,7 @@ related_concepts:
   - "[[Criterion-related Validity]]"
   - "[[Internal Validity]]"
   - "[[Variable]]"
+  - "[[Unit of Analysis]]"
   - "[[Questionnaire]]"
   - "[[Hawthorne Effect]]"
   - "[[Experimenter Bias]]"
@@ -120,7 +121,7 @@ updated: 2026-08-29
 > [!contrast-table] [[Construct|构念]]效度在不同研究情境中的形态对照
 > | 比较维度 | 心理测量与调查量表 | 实验干预操纵 | 质性经验范畴 | 宏观政策评价体系（清算中心） |
 > |:---|:---|:---|:---|:---|
-> | **分析单位** | [[Questionnaire\|问卷]]题项、测验总分与维度 | 实验处理程序、任务设置、[[Dependent Variable\|因变量]] | [[Coding in Qualitative Research\|编码]]节点、本土概念、生活经验 | 教育清算中心评级标签（如 Recommended） |
+> | **[[Unit of Analysis\|分析单位]]** | [[Questionnaire\|问卷]]题项、测验总分与维度 | 实验处理程序、任务设置、[[Dependent Variable\|因变量]] | [[Coding in Qualitative Research\|编码]]节点、本土概念、生活经验 | 教育清算中心评级标签（如 Recommended） |
 > | **核心检验问题** | 题目是否真正测出了心理特质 | 实验刺激是否纯净表征了因果[[Variable\|变量]] | 理论范畴是否反映参与者真实意义 | “基于证据”标签是否代表客观特质 |
 > | **主要威胁** | 题项表征不足、语言理解干扰 | [[Hawthorne Effect\|霍桑效应]]、[[Experimenter Bias\|实验者偏差]]、处理混杂 | 研究者理论强加、脱离情境脉络 | 综合门槛割裂、跨机构评级大面积对立 |
 > | **典型验证方式** | [[Confirmatory Factor Analysis\|验证性因子分析]]、[[Test-Retest Reliability\|重测信度]]、区分相关 | 操作性检查（[[Manipulation Check]]） | 成员核对（[[Member Checking]]）、[[Ethnography\|民族志]][[Rich and Thick Description\|深描]] | [[Multitrait-Multimethod Matrix\|MTMM]] 跨机构评级一致性与收敛性检验 |

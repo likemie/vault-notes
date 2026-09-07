@@ -27,6 +27,7 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Publication Bias]]"
   - "[[Document]]"
+  - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Funnel Plot]]"
   - "[[Heterogeneity]]"
@@ -67,7 +68,7 @@ updated: 2026-08-25
 > [!method-scope] 方法范围
 > - **研究对象** 元分析中纳入的 $k$ 项独立初级实证研究的标准正态统计量（$Z$ 值）、加权合并效应量（如 Hedges' $g$、Cohen's $d$）及其抽样方差。
 > - **问题类型** 评估元分析汇总发现对未发表阴性[[Document|文献]]潜在威胁的容忍限度与统计稳健性。
-> - **分析单位** 元分析数据集（一阶元分析效应量集合或[[Meta-meta-analysis|二阶元分析]]汇总集）。
+> - **[[Unit of Analysis|分析单位]]** 元分析数据集（一阶元分析效应量集合或[[Meta-meta-analysis|二阶元分析]]汇总集）。
 > - **输出形式** 理论所需的临界文献数量 $N_{\text{fs}}$（整数值）及经验安全门槛（如 Rosenthal $5k + 10$ 准则）。
 
 > [!citation-card]- 关键定义

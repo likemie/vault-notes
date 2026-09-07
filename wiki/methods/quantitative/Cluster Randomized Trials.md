@@ -28,6 +28,7 @@ related_concepts:
   - "[[Statistical Significance]]"
   - "[[Classroom Management]]"
   - "[[Academic Achievement]]"
+  - "[[Unit of Analysis]]"
   - "[[Effect Size]]"
   - "[[Type I and Type II Errors]]"
   - "[[Epistemology]]"
@@ -81,7 +82,7 @@ updated: 2026-08-22
 > [!method-scope] 方法范围
 > - **研究对象** 必须以全校或全班为单位推行的教育干预（如全校读写改革 [[Success for All]]、班级同伴辅导 [[Peer-Assisted Learning Strategies]]、全校综合支持 [[Communities in Schools]]、[[Classroom Management|课堂管理]]系统 PBIS）。
 > - **问题类型** 评估群体级教学策略、教育政策与组织变革对个体[[Academic Achievement|学业成就]]、心理发展及行为规范的因果净效应。
-> - **分析单位** 分配单位为第二层集群（Level-2，学校/班级），测量单位为第一层微观个体（Level-1，学生）。
+> - **[[Unit of Analysis|分析单位]]** 分配单位为第二层集群（Level-2，学校/班级），测量单位为第一层微观个体（Level-1，学生）。
 > - **输出形式** 多层线性模型（HLM）固定效应估计值、群组内相关系数（ICC / $\rho$）、设计效应（Design Effect）、校正后标准误与调整后[[Effect Size|效应量]]（Hedges' $g$）。
 
 > [!citation-card]- 关键定义
@@ -186,6 +187,6 @@ updated: 2026-08-22
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 研究索引
-> - [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] — 详析集群处理在 12 所清算中心审查中的系统性分化，揭示未校正 ICC 与分析单位错位是导致虚假显著性评级的核心技术根源(pp. 8–11)。
+> - [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] — 详析集群处理在 12 所清算中心审查中的系统性分化，揭示未校正 ICC 与[[Unit of Analysis|分析单位]]错位是导致虚假显著性评级的核心技术根源(pp. 8–11)。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al. (2011)]] — 阐释班级与学校层面的集群[[Random Assignment|随机分配]]操作逻辑、组织污染防范及与准实验的转化界限(Ch. 16, pp. 316–318)。
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 规范群组随机分配在教育现场实验中的研究设计程序与多层数据收集要求(Ch. 8, p. 1327)。

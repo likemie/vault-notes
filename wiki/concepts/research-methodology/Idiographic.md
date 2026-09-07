@@ -16,6 +16,7 @@ tags:
   - paradigm/interpretive
 related_concepts:
   - "[[Nomothetic]]"
+  - "[[Unit of Analysis]]"
   - "[[Interpretive Paradigm]]"
   - "[[Positivism]]"
   - "[[Hypothesis]]"
@@ -56,7 +57,7 @@ updated: 2026-08-16
 > |---|---|---|
 > | 目标 | 理解独特个体案例 | 发现普遍法则 |
 > | 方法 | 兼顾量化与质性，重语言与意义 | 以量化为主，抽象现实 |
-> | 分析单位 | 个体、事件、情境与意图 | 因素及其关系、规律性 |
+> | [[Unit of Analysis\|分析单位]] | 个体、事件、情境与意图 | 因素及其关系、规律性 |
 > | 方法论传统 | [[Interpretive Paradigm\|诠释范式]] | [[Positivism\|实证主义]] |
 
 > [!boundary]- 概念边界

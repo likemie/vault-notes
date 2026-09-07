@@ -18,6 +18,7 @@ tags:
 related_concepts:
   - "[[Independent Variable]]"
   - "[[Variable]]"
+  - "[[Unit of Analysis]]"
   - "[[Effect Size]]"
   - "[[Interaction Effect]]"
   - "[[Pre-test and Post-test]]"
@@ -45,7 +46,7 @@ updated: 2026-07-13
 > [!method-scope] 方法范围
 > - **研究对象** 被随机分配至不同自[[Variable|变量]]水平组别的参与者。
 > - **问题类型** 干预的效果是否因自变量的不同取值水平而异？哪个区间获益最大？
-> - **分析单位** 个体参与者，按自变量水平分组。
+> - **[[Unit of Analysis|分析单位]]** 个体参与者，按自变量水平分组。
 > - **输出形式** 各组差异效应曲线——不同水平组的[[Effect Size|效应量]]比较。
 
 ## 方法定位

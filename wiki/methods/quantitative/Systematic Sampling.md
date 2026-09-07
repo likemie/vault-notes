@@ -17,6 +17,7 @@ tags:
 related_concepts:
   - "[[Sample Size Determination]]"
   - "[[Sampling Frame]]"
+  - "[[Unit of Analysis]]"
 related_theories: []
 related_methods:
   - "[[Random Sampling]]"
@@ -39,7 +40,7 @@ updated: 2026-06-22
 > [!method-scope] 方法范围
 > - **研究对象** 有完整名单（[[Sampling Frame|抽样框]]）的总体
 > - **问题类型** 适合需要简化操作的大规模概率抽样
-> - **分析单位** 个体、组织或可从名单中识别的任何单位
+> - **[[Unit of Analysis|分析单位]]** 个体、组织或可从名单中识别的任何单位
 > - **输出形式** 概率样本，支持统计推广
 
 ## 研究程序

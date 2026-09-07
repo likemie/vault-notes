@@ -21,6 +21,7 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Epoché]]"
   - "[[Hypothesis]]"
+  - "[[Unit of Analysis]]"
   - "[[Rich and Thick Description]]"
   - "[[Epistemology]]"
   - "[[Constructivist Paradigm]]"
@@ -86,7 +87,7 @@ updated: 2026-07-22
 > [!method-scope] 方法范围
 > - **研究对象** 个体的主观经验、意义建构、行动逻辑和生活世界。
 > - **问题类型** 适合探究"为什么这样做"而非仅仅"做了什么"；在已有理论不足以解释现象时生成理论[[Hypothesis|假设]]。
-> - **分析单位** 个体受访者的完整叙述及其生活史脉络。
+> - **[[Unit of Analysis|分析单位]]** 个体受访者的完整叙述及其生活史脉络。
 > - **输出形式** [[Rich and Thick Description|深描]]文本、意义主题、行动逻辑链条、理论假设。
 
 > [!citation-card]- 关键定义

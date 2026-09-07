@@ -16,6 +16,7 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Variable]]"
   - "[[Independent Variable]]"
+  - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Hypothesis]]"
   - "[[Standard Error]]"
@@ -49,7 +50,7 @@ updated: 2026-08-15
 > [!method-scope] 方法范围
 > - **研究对象** 截面数据或调查数据。
 > - **问题类型** 预测个体归属于某一无序类别的概率，或检验特定[[Independent Variable|自变量]]对分类归属的显著影响。
-> - **分析单位** 个体。
+> - **[[Unit of Analysis|分析单位]]** 个体。
 > - **输出形式** 回归系数估计值 $b$、胜率比（Odds Ratio, OR 或 $e^b$）、分类预测概率。
 
 ---

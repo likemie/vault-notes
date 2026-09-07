@@ -16,6 +16,7 @@ tags:
   - theme/practice-improvement
 related_concepts:
   - "[[Paradigm]]"
+  - "[[Unit of Analysis]]"
   - "[[Research Question]]"
   - "[[Reflexivity]]"
   - "[[Problem Solving]]"
@@ -82,7 +83,7 @@ updated: 2026-08-23
 > [!method-scope] 方法范围
 > - **研究对象** 社会或教育情境中的实际问题，如教学改进、课程发展、管理评价、政策制定、行为干预等。
 > - **问题类型** 解决实践中的具体问题，回答如何改进之类的问题。
-> - **分析单位** 课堂、学校、社区等实践情境。
+> - **[[Unit of Analysis|分析单位]]** 课堂、学校、社区等实践情境。
 > - **输出形式** 量性研究报告或质性叙事报告。
 
 ### 定义谱系
@@ -95,7 +96,7 @@ updated: 2026-08-23
 >
 > - **哲学深度（Carr & Kemmis）**
 >
->   Carr & Kemmis（1986）从哈贝马斯立场出发，将行动研究定位为旨在最大化社会正义的自我[[Reflexivity|反思性]]探究，将行动研究从方法论工具提升为批判性社会科学的组成部分。
+>   Carr & Kemmis（1986）从[[Jürgen Habermas|哈贝马斯]]立场出发，将行动研究定位为旨在最大化社会正义的自我[[Reflexivity|反思性]]探究，将行动研究从方法论工具提升为批判性社会科学的组成部分。
 >
 > - **集体性（Kemmis & McTaggart 全纳定义）**
 >
@@ -212,7 +213,7 @@ updated: 2026-08-23
 ### 类型学：技术性、实践性与解放性
 
 > [!info] 三分类型学的理论基础
-> 利用哈贝马斯的知识构成性兴趣（1972, 1974），Grundy（1987）将行动研究按政治议程深度分为三个层次。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 272–273)]]
+> 利用[[Jürgen Habermas|哈贝马斯]]的知识构成性兴趣（1972, 1974），Grundy（1987）将行动研究按政治议程深度分为三个层次。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 272–273)]]
 
 > [!contrast-table] 行动研究的三种类型
 > | 维度 | 技术性（Technical） | 实践性（Practical） | 解放性（Emancipatory） |

@@ -19,6 +19,7 @@ tags:
 - case-study
 - research-design
 related_concepts:
+  - "[[Unit of Analysis]]"
   - "[[Causality]]"
   - "[[Analytic Generalization]]"
   - "[[Document]]"
@@ -72,7 +73,7 @@ Single-case design 在教育研究方法论中有两种截然不同的含义，�
 > |---|---|---|
 > | 方法论传统 | 量化实验，[[Campbellian Validity Framework]] | 质性/混合方法，[[Case Study\|个案研究]]方法论 |
 > | 典型设计 | ABAB、多基线、交替处理 | 关键案例、极端案例、独特案例、启示性案例、纵向案例 |
-> | 分析单位 | 个体作为自身控制，重复测量 | 一个案例（可包含多个子分析单位） |
+> | [[Unit of Analysis\|分析单位]] | 个体作为自身控制，重复测量 | 一个案例（可包含多个子分析单位） |
 > | [[Causality\|因果]]逻辑 | 通过撤除/引入干预排除替代解释 | 通过深度理解情境中的机制建立因果解释 |
 > | 推广方式 | 复制逻辑（跨被试、跨情境） | [[Analytic Generalization\|分析性推广]]，案例不是样本 |
 > | 代表[[Document\|文献]] | Kazdin (2011); [[Argument_Hitchcock_2015_JBE\|Hitchcock et al. (2015)]] | Yin (2009, pp. 46ff.); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14\|Cohen et al. (2011, Ch14)]] |

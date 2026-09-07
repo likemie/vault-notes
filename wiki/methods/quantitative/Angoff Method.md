@@ -21,6 +21,7 @@ tags:
   - method/standard-setting
 related_concepts:
   - "[[Criterion-Referenced Test]]"
+  - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Professional Judgment]]"
   - "[[Hypothesis]]"
@@ -47,7 +48,7 @@ updated: 2026-07-25
 > [!method-scope] 方法范围
 > - **研究对象** 标准参照测验中的切分点——即最低可接受水平者应当达到的分数
 > - **问题类型** 回答"多少分算通过"的标准设定问题
-> - **分析单位** 单个测验项目及其被最低可接受水平者答对的概率估计
+> - **[[Unit of Analysis|分析单位]]** 单个测验项目及其被最低可接受水平者答对的概率估计
 > - **输出形式** 一个切分分数，低于此分数视为未达标
 
 ---

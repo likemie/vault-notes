@@ -25,6 +25,7 @@ related_concepts:
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Research Utilization]]"
   - "[[Paradigm]]"
+  - "[[Unit of Analysis]]"
   - "[[Publication Bias]]"
 related_theories: []
 related_methods:
@@ -97,7 +98,7 @@ updated: '2026-05-18'
 
 > [!example] 与相关概念的区别
 > - **vs [[Randomised Controlled Trials]]** — 黑箱 RCT 是 RCT 的一种特定设计取向（或缺乏设计取向），而非 RCT 方法本身的必然特征。Peterson 的立场是保留 RCT 但改革其设计——从黑箱取向转向机制取向
-> - **vs [[Mechanism Experiments]]** — 直接对立：黑箱 RCT 不打开因果机制，机制实验以因果机制为分析单位
+> - **vs [[Mechanism Experiments]]** — 直接对立：黑箱 RCT 不打开因果机制，机制实验以因果机制为[[Unit of Analysis|分析单位]]
 > - **vs 理论驱动评估（Theory-Based Evaluation）** — 理论驱动评估（Chen, 1990; Weiss, 1995）长期倡导打开黑箱，但 Peterson 认为其仍过于紧密链接到特定项目的"项目理论"，而非真正聚焦于可被教师改编和采纳的原则([[Argument_Peterson_2016_IJRME|Peterson, 2016, pp. 302–303]])
 
 ## 理论基础

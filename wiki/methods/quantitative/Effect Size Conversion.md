@@ -26,6 +26,7 @@ related_concepts:
   - "[[Descriptive Analysis]]"
   - "[[Sample Size Determination]]"
   - "[[Scale of Measurement]]"
+  - "[[Unit of Analysis]]"
   - "[[Standard Error]]"
   - "[[Sampling Error]]"
   - "[[Dependent Variable]]"
@@ -56,7 +57,7 @@ updated: 2026-08-24
 > [!method-scope] 方法范围
 > - **研究对象** 原始实证研究所汇报的各类[[Descriptive Analysis|描述统计]]量与推断统计量（如均值、标准差、相关系数、[[Sample Size Determination|样本量]]、$t$ 值、$F$ 值、卡方值、比值比等）。
 > - **问题类型** 解决跨研究设计与跨[[Scale of Measurement|测量尺度]]间统计量不可比的问题，为多水平建模与[[Meta-regression|元回归]]提供统一的输入矩阵。
-> - **分析单位** 纳入元分析的主要实证研究（Primary Studies）或一阶效应量。
+> - **[[Unit of Analysis|分析单位]]** 纳入元分析的主要实证研究（Primary Studies）或一阶效应量。
 > - **输出形式** 统一的标准化效应量点估计值及其对应的抽样方差（Sampling Variance）与[[Standard Error|标准误]]。
 
 > [!citation-card]- 关键定义
@@ -105,7 +106,7 @@ updated: 2026-08-24
 > - 当总[[Sample Size Determination|样本量]]较大（$N > 50$）时，$J(df) \to 1$，$g \approx d$；
 > - 当总样本量极小（$N < 20$）时，$J(df) < 1$（如 $N = 10$ 时系数约为 $0.90$），$g$ 会比 $d$ 收缩约 10%，有效防止小样本研究在元分析中过度加权。
 >
-> **注意事项** 现代[[Meta-analysis|元分析]]（尤其 Cochrane 协作网与 Campbell 协作网）均以 Hedges' $g$ 作为组间比较的标准分析单位。
+> **注意事项** 现代[[Meta-analysis|元分析]]（尤其 Cochrane 协作网与 Campbell 协作网）均以 Hedges' $g$ 作为组间比较的标准[[Unit of Analysis|分析单位]]。
 
 ---
 

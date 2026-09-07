@@ -24,6 +24,7 @@ related_concepts:
   - "[[Evaluation Research]]"
   - "[[Construct]]"
   - "[[Interaction Effect]]"
+  - "[[Unit of Analysis]]"
   - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
   - "[[Forest Plot]]"
@@ -132,7 +133,7 @@ updated: 2026-09-05
 > [!method-scope] 方法范围
 > - **研究对象** 针对特定主题的定量实证研究（尤其是[[Randomised Controlled Trials|随机对照试验]]与高质准实验）的效应量矩阵与研究特征编码。
 > - **核心目标** ① 估计干预措施或相关关系的总体平均效应量；② [[Evaluation Research|评估研究]]间效果的一致性（异质性）；③ 检验[[Construct|理论构念]]、样本特征与实施情境的[[Interaction Effect|调节效应]]。
-> - **分析单位** 纳入研究报告的独立效应量或多水平效应量集群。
+> - **[[Unit of Analysis|分析单位]]** 纳入研究报告的独立效应量或多水平效应量集群。
 > - **输出形式** 加权合并效应量点估计值、95% [[Confidence Interval|置信区间]]（95% Confidence Interval, 95% CI）、95% [[Prediction Interval|预测区间]]（95% Prediction Interval, 95% PI）、[[Forest Plot|森林图]]、[[Funnel Plot|漏斗图]]及元回归调节系数。
 
 > [!citation-card]- 关键定位与层级区分

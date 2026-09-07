@@ -26,6 +26,7 @@ related_concepts:
   - "[[Interaction Effect]]"
   - "[[Document]]"
   - "[[Reliability]]"
+  - "[[Unit of Analysis]]"
   - "[[Standard Error]]"
   - "[[Confidence Interval]]"
   - "[[Epistemology]]"
@@ -89,7 +90,7 @@ updated: 2026-08-29
 > [!method-scope] 方法范围
 > - **研究对象** 跨原始研究的效应量矩阵及其对应的样本特征、测量工具信效度、干预参数、宏观社会经济背景及[[Document|文献]]发表年份等协变量。
 > - **问题类型** 机制解释、异质性来源探索与因果调节识别：哪些连续型特征（如干预时长、量表[[Reliability|信度]]、人均 GDP）或离散特征系统性预测效应量大小？
-> - **分析单位** 独立实证研究（Study）或独立样本（Sample），每条数据对应一项纳入元分析的效应量估计值。
+> - **[[Unit of Analysis|分析单位]]** 独立实证研究（Study）或独立样本（Sample），每条数据对应一项纳入元分析的效应量估计值。
 > - **输出形式** 回归截距 $\beta_0$、斜率系数 $\beta_j$、[[Standard Error|标准误]]、95% [[Confidence Interval|置信区间]]（CI）、模型整体检验量 $F$ 或 $Q_{\text{model}}$、残余异质性 $\tau^2_{\text{residual}}$ 及拟 $R^2$ 解释比例。
 
 ---
@@ -105,7 +106,7 @@ updated: 2026-08-29
 > [!contrast-table] 经典一阶元回归 vs [[Second-Order Meta-Regression|二阶元回归]] vs 分类亚组检验
 > | 比较维度 | 经典一阶元回归（[[Meta-regression]]） | 二阶元回归（[[Second-Order Meta-Regression]]） | 分类亚组检验与[[Pairwise Wald Tests\|成对 Wald 检验]] |
 > |---|---|---|---|
-> | **分析单位** | 原始实证研究（Primary Studies） | 一阶[[Meta-analysis\|元分析]]汇总效应量集群（Meta-Analysis Clusters） | 原始实证研究按属性划分的离散子群 |
+> | **[[Unit of Analysis\|分析单位]]** | 原始实证研究（Primary Studies） | 一阶[[Meta-analysis\|元分析]]汇总效应量集群（Meta-Analysis Clusters） | 原始实证研究按属性划分的离散子群 |
 > | **自变量形态** | 连续型变量（如信度、人均 GDP、年份）或哑变量 | 宏观[[Construct\|理论构念]]与跨领域特征指标 | 离散分类变量（如学段、干预形态、学科） |
 > | **依赖性处理** | 假定各研究抽样独立或采用简单多水平结构 | 采用 [[Correlated and Hierarchical Effects Model\|CHE]] 块对角协方差与 [[Robust Variance Estimation\|RVE]] 经验三明治估计 | 假定各亚组效应量独立或分层建模 |
 > | **统计推断核心** | 估计连续斜率 $\beta_1$ 与模型 $F / Q_M$ 检验 | 跨越数千项研究检验全领域理论边界 | 检验组间总异质性 $Q_{between}$ 与两两 Wald 级差 |

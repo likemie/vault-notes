@@ -20,6 +20,7 @@ tags:
   - intervention
   - theory-generation
 related_concepts:
+  - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Paradigm]]"
   - "[[Statistical Significance]]"
@@ -55,7 +56,7 @@ updated: 2026-07-13
 > [!method-scope] 方法范围
 > - **研究对象** 真实教育情境中的教学干预、学习环境或课程创新。
 > - **问题类型** 正在发生什么？是否存在系统性效应？为什么或如何发生？（Shavelson et al., 2003, p. 28）
-> - **分析单位** 干预本身——作为不断演化的设计产物，而非静态的输入-输出模块。
+> - **[[Unit of Analysis|分析单位]]** 干预本身——作为不断演化的设计产物，而非静态的输入-输出模块。
 > - **输出形式** 可操作的教育产品（课程、工具、环境）+ 情境化的教与学理论。
 
 ## 方法定位

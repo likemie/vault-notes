@@ -20,6 +20,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Hypothesis]]"
   - "[[Causality]]"
+  - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Counterfactual]]"
   - "[[Dependent Variable]]"
@@ -60,7 +61,7 @@ updated: 2026-07-13
 > [!method-scope] 方法范围
 > - **研究对象** 需要在关键变量上可比的两组或多组参与者——可以是实验设计中的实验组/控制组，也可以是观察性数据中的处理组/对照组。
 > - **问题类型** 在无法[[Random Assignment|随机分配]]时，如何使组间在关键特征上等价以支持[[Causality|因果推断]]？
-> - **分析单位** 个体参与者——通过配对使成员在匹配变量上相似。
+> - **[[Unit of Analysis|分析单位]]** 个体参与者——通过配对使成员在匹配变量上相似。
 > - **输出形式** 匹配后的平衡检验、匹配样本的比较分析。
 
 ## 方法定位

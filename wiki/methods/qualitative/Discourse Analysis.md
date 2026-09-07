@@ -13,6 +13,7 @@ tags: [method/qualitative, data-analysis, theme/language, paradigm/interpretive,
 related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Transcription in Qualitative Research]]"
+  - "[[Unit of Analysis]]"
   - "[[Variable]]"
   - "[[Epistemology]]"
   - "[[Reflexivity]]"
@@ -49,7 +50,7 @@ updated: 2026-07-23
 > [!method-scope] 方法范围
 > - **研究对象** 日常谈话、课堂[[Dialogue in Education|对话]]、文本材料、访谈[[Transcription in Qualitative Research|转录]]——即作为情境化的话语实践的语言（Edwards, 1991）。
 > - **问题类型** 语言如何执行社会行动；参与者如何通过话语建构共享的意义框架；话语中如何体现和再生产权力关系。
-> - **分析单位** 话语序列、对话回合、言语行为、文本段落。
+> - **[[Unit of Analysis|分析单位]]** 话语序列、对话回合、言语行为、文本段落。
 > - **输出形式** 对话语功能、意图和后果的分析性解释，附语言证据支持。
 
 > [!citation-card]- 关键定义
@@ -94,7 +95,7 @@ updated: 2026-07-23
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用** 研究课堂互动中的语言使用和权力关系；分析政策文本和教育话语的建构方式；理解儿童如何通过语言参与知识建构（Edwards & Mercer, 1987）；揭示话语中系统性扭曲沟通的压制性力量（[[Jürgen Habermas|Habermas]]）。
+> - **适合使用** 研究课堂互动中的语言使用和权力关系；分析政策文本和教育话语的建构方式；理解儿童如何通过语言参与知识建构（Edwards & Mercer, 1987）；揭示话语中系统性扭曲沟通的压制性力量（Habermas）。
 > - **谨慎使用** 当需要大样本统计概括时；当[[Research Question|研究问题]]更适合通过实验或调查回答时；当研究者的话语立场可能过度影响解释时。
 > - **不适合使用** 需要标准化测量和[[Causality|因果推断]]的研究；将语言仅视为信息传递工具的研究。
 
@@ -115,10 +116,10 @@ updated: 2026-07-23
 > | [[Accounts]] | 姐妹方法 | 陈述法同样以情境中的语言为焦点，但更关注参与者对行动的言语说明 |
 > | [[Ethogenic Approach]] | 方法论基础 | 两者共享对意义系统和参与者视角的关注 |
 > | [[Ethnomethodology]] | 理论基础 | 俗民方法学关注日常活动如何通过共享知识变得可理解和可说明 |
-> | [[Ideal Speech Situation]] | 理论关联 | 哈贝马斯的理想言说情境为话语分析的批判维度提供了规范标准 |
+> | [[Ideal Speech Situation]] | 理论关联 | [[Jürgen Habermas\|哈贝马斯]]的理想言说情境为话语分析的批判维度提供了规范标准 |
 
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22|Cohen et al. (2011, Ch. 22)]] — 系统介绍话语分析的定义、与哈贝马斯[[Critical Theory|批判理论]]的关联、Edwards的课堂话语分析案例，以及方法批评
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22|Cohen et al. (2011, Ch. 22)]] — 系统介绍话语分析的定义、与[[Jürgen Habermas|哈贝马斯]][[Critical Theory|批判理论]]的关联、Edwards的课堂话语分析案例，以及方法批评
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al. (2011, Ch. 23)]] — 将话语分析列为[[Structured Observation|结构化观察]]数据的分析方法之一，用于课堂[[Dialogue in Education|对话]]问答序列和互动模式分析（23.4 节）

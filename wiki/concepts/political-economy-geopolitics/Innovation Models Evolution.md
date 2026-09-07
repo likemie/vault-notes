@@ -22,6 +22,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Creativity]]"
   - "[[Epistemology]]"
+  - "[[Unit of Analysis]]"
   - "[[Clinical Trial]]"
   - "[[Emergence]]"
   - "[[Document]]"
@@ -86,7 +87,7 @@ Kline & Rosenberg（1986）提出了耦合模型（也称"链环模型"），其
 
 > 创新被明确地构想为一种**集体活动**——以学习过程为基础，涉及多个行动者通过网络和市场的互动，嵌套在特定的制度集合（法律框架、金融系统、文化规范等）之中（Lundvall et al., 2002）（详见 [[Systems of Innovation]]）。
 
-这是[[Epistemology|认识论]]上最大的一次飞跃：分析单位从"单个创新者"提升到"系统"层面——一个国家或地区的创新能力不仅取决于有多少科学家，还取决于制度设计、网络密度和文化取向。
+这是[[Epistemology|认识论]]上最大的一次飞跃：[[Unit of Analysis|分析单位]]从"单个创新者"提升到"系统"层面——一个国家或地区的创新能力不仅取决于有多少科学家，还取决于制度设计、网络密度和文化取向。
 
 ### 代际共存而非替代
 

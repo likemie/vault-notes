@@ -17,6 +17,7 @@ tags:
   - method/data-analysis
 related_concepts:
   - "[[Research Purpose]]"
+  - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Variable]]"
   - "[[Sampling Frame]]"
@@ -51,7 +52,7 @@ updated: 2026-07-09
 > [!method-scope] 方法范围
 > - **研究对象** 他人为其他[[Research Purpose|研究目的]]已收集并整理的数据集，包括人口普查数据、纵向追踪调查数据、行政记录和学术调查的公开数据。
 > - **问题类型** 适合回答描述、比较和解释性问题——尤其是原始研究者未提出的新问题，或对已有问题采用新的分析路径。
-> - **分析单位** 个体、家庭、学校、地区、年份或国家，取决于原始数据的抽样设计。
+> - **[[Unit of Analysis|分析单位]]** 个体、家庭、学校、地区、年份或国家，取决于原始数据的抽样设计。
 > - **输出形式** 描述性统计、组间比较、回归系数、效应估计、[[Trend Study|趋势分析]]或新的分类与解释框架。
 
 > [!citation-card]- 关键定义

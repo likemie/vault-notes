@@ -17,6 +17,7 @@ tags:
   - paradigm/critical
 related_concepts:
   - "[[Reflexivity]]"
+  - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Dialogue in Education]]"
   - "[[Variable]]"
@@ -50,7 +51,7 @@ updated: 2026-07-11
 > [!method-scope] 方法范围
 > - **研究对象** 被压迫、被剥夺权力、贫困和被剥削的社区和群体的生活境况。
 > - **问题类型** 回答"如何改变处境""如何赋权社区""如何通过知识促进行动和发展"等实践性问题。
-> - **分析单位** 社区、工作场所、群体集体而非个体。
+> - **[[Unit of Analysis|分析单位]]** 社区、工作场所、群体集体而非个体。
 > - **输出形式** 社区发展方案、赋权行动、变革实践、集体行动议程。
 
 > [!citation-card]- 关键定义

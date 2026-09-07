@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Criterion-Referenced Test]]"
   - "[[Item Analysis]]"
+  - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Hypothesis]]"
   - "[[Operationalization]]"
@@ -50,7 +51,7 @@ updated: 2026-07-25
 > [!method-scope] 方法范围
 > - **研究对象** 标准参照测验中的切分点——同时考虑[[Item Analysis|项目难度]]和项目与测验目的的相关性
 > - **问题类型** 回答"多少分算通过"的标准设定问题，比 Angoff 增加了相关性维度的考量
-> - **分析单位** 难度×相关度矩阵的每个单元格
+> - **[[Unit of Analysis|分析单位]]** 难度×相关度矩阵的每个单元格
 > - **输出形式** 一个切分分数，低于此分数视为未达标
 
 ---

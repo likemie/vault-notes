@@ -16,6 +16,7 @@ tags:
 related_concepts:
   - "[[Hypothesis]]"
   - "[[Causality]]"
+  - "[[Unit of Analysis]]"
   - "[[Definition of Terms]]"
   - "[[Questionnaire]]"
   - "[[Construct]]"
@@ -48,7 +49,7 @@ updated: 2026-07-08
 ## 定义
 
 > [!info]
-> 变量（variable）指个体或组织的某种特征或属性，它可以被研究者测量或观察，且在不同个体或组织之间存在差异([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.54]])。变量是[[Quantitative Research|量化研究]]构建理论、提出[[Hypothesis|假设]]和检验[[Causality|因果关系]]的基本分析单位。常见的变量包括性别、年龄、社会经济地位（SES），以及态度或行为如种族偏见、社会控制、政治权力和领导力。
+> 变量（variable）指个体或组织的某种特征或属性，它可以被研究者测量或观察，且在不同个体或组织之间存在差异([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.54]])。变量是[[Quantitative Research|量化研究]]构建理论、提出[[Hypothesis|假设]]和检验[[Causality|因果关系]]的基本[[Unit of Analysis|分析单位]]。常见的变量包括性别、年龄、社会经济地位（SES），以及态度或行为如种族偏见、社会控制、政治权力和领导力。
 
 > [!quote]
 > "A variable refers to a characteristic or attribute of an individual or an organization that researchers can measure or observe and varies among the individuals or organizations."([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.54]])

@@ -17,6 +17,7 @@ tags:
   - data-collection
   - survey
 related_concepts:
+  - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Interviewer Effects]]"
   - "[[Knowledge Production]]"
@@ -51,7 +52,7 @@ updated: 2026-07-22
 > [!method-scope] 方法范围
 > - **研究对象** 分散人群的态度、意见和行为数据；需要快速获取结构化回答的情境。
 > - **问题类型** 适合结构化程度较高的问题——简短、封闭、固定选项；不适合需要深度追问和长时间反思的复杂开放问题。
-> - **分析单位** 个体受访者。
+> - **[[Unit of Analysis|分析单位]]** 个体受访者。
 > - **输出形式** 以量化数据为主；可配合开放式问题产生简短质性数据。
 
 ---

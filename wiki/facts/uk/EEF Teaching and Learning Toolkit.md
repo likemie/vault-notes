@@ -38,6 +38,7 @@ related_concepts:
   - "[[Evidence-Based Reform]]"
   - "[[Evidence-Based Education]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
+  - "[[Unit of Analysis]]"
   - "[[Moral Sidestep]]"
 related_theories:
   - "[[Van Leeuwen's Legitimation Theory]]"
@@ -270,7 +271,7 @@ updated: '2026-06-08'
 > - [[Evidence-Based Education]] — Toolkit 是证据本位教育理念最广为人知的政策输出
 > - [[Local Knowledge in Evidence-Based Policy]] — 教师访谈反复表明，本地知识是正确解读 Toolkit 信息的必要前提
 > - [[What Works Network]] — Toolkit 是 What Works Network 教育领域的旗舰产品
-> - [[Effect Size]] — Toolkit 以效应量作为基本分析单位，其方法论批评的核心概念
+> - [[Effect Size]] — Toolkit 以效应量作为基本[[Unit of Analysis|分析单位]]，其方法论批评的核心概念
 > - [[Playing for Success]] — Toolkit 体育参与条目背后被聚合的极端案例，揭示[[Meta-meta-analysis|元-元分析]]如何掩盖底层研究的巨大[[Heterogeneity|异质性]]
 > - [[Moral Sidestep]] — Bainbridge et al. 发现政府在实际政策中回避 Toolkit 代表的学术证据，转而使用[[Ofsted]]评级进行建构型道德侧步
 > - [[Ofsted]] — 被政府混同为证据的非同行评议评级，取代了 Toolkit 等符合政府自身证据定义的来源

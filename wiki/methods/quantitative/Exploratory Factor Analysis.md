@@ -17,6 +17,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Questionnaire]]"
   - "[[Construct]]"
+  - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Sample Size Determination]]"
   - "[[Simplicity of Knowledge]]"
@@ -52,7 +53,7 @@ updated: 2026-08-29
 > [!method-scope] 方法范围
 > - **研究对象** 新开发的[[Questionnaire|问卷]]量表数据、尚未确立维度结构的指标体系。
 > - **问题类型** 回答这组题目背后隐藏着几个潜在特质（[[Construct|构念]]），以及每个题项分别归属于哪个特质。
-> - **分析单位** 个体。
+> - **[[Unit of Analysis|分析单位]]** 个体。
 > - **输出形式** 因子数量、特征值（Eigenvalues）、方差贡献率、因子载荷矩阵（Factor Loadings）、碎石图（Scree Plot）。
 
 ---

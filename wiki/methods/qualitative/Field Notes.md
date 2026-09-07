@@ -26,6 +26,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23]]"
 related_concepts:
   - "[[Dialogue in Education]]"
+  - "[[Unit of Analysis]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Covert Research]]"
   - "[[Questionnaire]]"
@@ -44,7 +45,7 @@ updated: 2026-07-11
 > [!method-scope] 方法范围
 > - **研究对象** 观察到的行为、互动、对话、环境细节、非语言线索、研究者当场反应
 > - **问题类型** 记录发生了什么、如何发生、在什么情境中发生
-> - **分析单位** 事件、互动回合、时间片段、场景
+> - **[[Unit of Analysis|分析单位]]** 事件、互动回合、时间片段、场景
 > - **输出形式** 文字笔记（手写或打字）、口述录音[[Transcription in Qualitative Research|转录]]、[[Coding in Qualitative Research|编码]]和分析用的原始材料
 
 > [!citation-card]- King（1979）的田野笔记规模
@@ -93,4 +94,4 @@ updated: 2026-07-11
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14|Cohen et al. (2011, Ch14)]] — 教材在[[Case Study|个案研究]]章节中专设 14.9 节讨论观察记录，引述 Lofland（1971）七条指南、King（1979）五百页笔记实践、Wolcott（1973）的实用提示，以及 Walker（1980）关于记录时机和方式的十二项选择问题（pp. 295–296）
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al. (2011, Ch. 23)]] — 教材专章系统介绍田野笔记的多层记录框架：描述层面（Spradley, 1980; Bogdan & Biklen, 1992; LeCompte & Preissle, 1993）、反思层面（Bogdan & Biklen, 1992）、Lincoln & Guba（1985）的三种日志类型、Spradley（1980）的九项内容清单、LeCompte & Preissle（1993）的观察指南、Lofland（1971）的六类信息分类和 Wilkinson（2000）的分子与摩尔分析单位（23.6–23.7 节）
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al. (2011, Ch. 23)]] — 教材专章系统介绍田野笔记的多层记录框架：描述层面（Spradley, 1980; Bogdan & Biklen, 1992; LeCompte & Preissle, 1993）、反思层面（Bogdan & Biklen, 1992）、Lincoln & Guba（1985）的三种日志类型、Spradley（1980）的九项内容清单、LeCompte & Preissle（1993）的观察指南、Lofland（1971）的六类信息分类和 Wilkinson（2000）的分子与摩尔[[Unit of Analysis|分析单位]]（23.6–23.7 节）

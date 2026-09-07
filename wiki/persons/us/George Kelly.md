@@ -20,6 +20,7 @@ related_concepts:
   - "[[Personal Constructs]]"
   - "[[Construct]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Unit of Analysis]]"
 related_theories:
   - "[[Personal Construct Theory]]"
 related_methods:
@@ -101,4 +102,4 @@ updated: 2026-07-28
 > |:-----|:-----|:-----|
 > | [[Personal Construct Theory]] | 理论 | 创立并形式化该理论，提出基本公设和十一条推论，奠定了[[Constructivist Paradigm\|建构主义]]心理学的一个重要分支。 |
 > | [[Repertory Grid Technique]] | 方法 | 发明"角色建构库测验"作为理论的技术实现，使个体建构系统可被系统收集和分析。 |
-> | [[Personal Constructs]] | 概念 | 提出该概念作为理论的基本分析单位，将其定义为个体用于概念化日常世界的双极维度。 |
+> | [[Personal Constructs]] | 概念 | 提出该概念作为理论的基本[[Unit of Analysis\|分析单位]]，将其定义为个体用于概念化日常世界的双极维度。 |

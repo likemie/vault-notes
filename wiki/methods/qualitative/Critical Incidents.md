@@ -27,6 +27,7 @@ related_methods:
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23]]"
 related_concepts:
+  - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Reliability]]"
   - "[[Causality]]"
@@ -50,7 +51,7 @@ updated: 2026-07-23
 > [!method-scope] 方法范围
 > - **研究对象** 非例行、不寻常但对理解个体或情境具有重要揭示力的特定事件和行为。
 > - **问题类型** 适合回答"什么事件或行为能最鲜明地揭示某个体的特征或某情境的本质？""在何种条件下会出现极端的或揭示性的行为？"等探索性问题。
-> - **分析单位** 单个关键事件或一组在分析上相互关联的关键事件。
+> - **[[Unit of Analysis|分析单位]]** 单个关键事件或一组在分析上相互关联的关键事件。
 > - **输出形式** 详细的事件描述和基于事件的解释性洞察。
 
 > [!citation-card]- Wragg 对关键事件的定义

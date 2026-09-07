@@ -35,9 +35,11 @@ related_concepts:
   - "[[Document]]"
   - "[[Analytic Framework]]"
   - "[[Sample Size Determination]]"
+  - "[[Unit of Analysis]]"
   - "[[Perpetual Peace]]"
   - "[[Value Neutrality]]"
   - "[[Technical Rationality]]"
+  - "[[Paideia]]"
   - "[[Bildung]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Rationalism in International Relations]]"
@@ -66,7 +68,6 @@ related_persons:
   - "[[Max Eckstein]]"
   - "[[Andreas Kazamias]]"
   - "[[Crane Brinton]]"
-  - "[[Brian Holmes]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Kazamias_2009_ForgottenThemes]]"
@@ -114,7 +115,7 @@ updated: 2026-09-07
 > | **代表学者** | [[Marc-Antoine Jullien\|Jullien]] | [[Victor Cousin\|Cousin]], [[Horace Mann\|Mann]], Arnold | [[Michael Sadler\|Sadler]], [[Isaac Kandel\|Kandel]], [[Nicholas Hans\|Hans]], [[Robert Ulich\|Ulich]] | [[Harold Noah\|Noah]], [[Max Eckstein\|Eckstein]], Holmes |
 > | **学科性质** | 准实证自然科学类比（比较解剖学） | 行政考察与政策咨询经验学 | 广义人文科学（Vergleichende Erziehungswissenschaft） | 经验主义社会科学与行为科学 |
 > | **核心方法** | 标准分类[[Questionnaire\|问卷调查]]与事实对比表 | 官方视察报告、机构考察评注 | 历史[[Document\|文献]]考证、观念史比较、因素[[Analytic Framework\|分析框架]] | 跨国大[[Sample Size Determination\|样本量]]化抽样、多元统计、[[Hypothesis\|假设]]演绎模型 |
-> | **分析单位** | 跨国办学经验事实与指标 | 机构制度与法律法令条文 | 民族国家、文化传统与[[National Character\|国民性格]] | [[Operationalization\|操作化]][[Variable\|变量]]、指标测度、体系产出 |
+> | **[[Unit of Analysis\|分析单位]]** | 跨国办学经验事实与指标 | 机构制度与法律法令条文 | 民族国家、文化传统与[[National Character\|国民性格]] | [[Operationalization\|操作化]][[Variable\|变量]]、指标测度、体系产出 |
 > | **核心关切** | 经验事实归纳与普遍公理推导 | 解决本国危机、立法辩护与直接借用 | 揭示历史动因、精神力量与内在生命 | 验证跨国规律、因果预测与技术控制 |
 > | **价值立场** | 启蒙世界主义与[[Perpetual Peace\|永久和平]]理想 | 维护主权国家秩序与体制改良 | 自由民主信念、文化人文主义与历史改良 | 标榜[[Value Neutrality\|价值中立]]与[[Technical Rationality\|技术理性]] |
 
@@ -128,9 +129,9 @@ updated: 2026-09-07
 > - **广义人文科学定位（Human Science / Wissenschaft）** 拒绝[[Positivism|实证主义]]狭隘科学定义，将比较教育建基为贯通科学与人文学术、探求文化演化渊源与价值规范的跨学科体系。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 39)]]
 > - **因果因素与历史解释学（Explanatory/Interpretive Episteme）** 将探究重点置于解释教育制度何以形成当前面貌，通过剖析政治、经济、宗教与文化“力量与因素”探寻制度生成的内在根由。
 > - **历史[[Educational Meliorism|改良主义]]旨趣（Historical-Meliorism）** 坚持研究旨在涵养健全的哲学态度与批判眼光，反对机械政策移植，坚信对历史的深刻理解能滋养本国民主改革。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 40)]]
-> - **民族国家与[[National Character|国民性]]分析单元（Nation-State & National Character）** 以主权国家及其教育体系为基本单位，将国民性格视为主导学校组织、课程取向与治理模式的深层无形动因。
+> - **民族国家与[[National Character|国民性]][[Unit of Analysis|分析单元]]（Nation-State & National Character）** 以主权国家及其教育体系为基本单位，将国民性格视为主导学校组织、课程取向与治理模式的深层无形动因。
 > - **质性诠释优位（Qualitative Priority）** 明确排斥以纯统计测验与心理智商度量界定教育本质，主张教育品质在于学校整体氛围、精神追求与文化品格。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 41)]]
-> - **自由民主人文主义理念（Liberal Democratic Humanism）** 深受西方古典人文教育（[[Bildung|Paideia]]）熏陶，坚信启蒙理智与公民自由，视教育为抵御极权专制与培养民主公民的核心防线。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 41–42)]]
+> - **自由民主人文主义理念（Liberal Democratic Humanism）** 深受西方古典人文教育（[[Paideia]]）熏陶，坚信启蒙理智与公民自由，视教育为抵御极权专制与培养民主公民的核心防线。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 41–42)]]
 > - **唯心主义思想观念比较（Idealism & Comparison of Ideas）** 在社会动因解释中赋予思想、理想、形式与精神追求高于物质经济维度的先验决定地位。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 42)]]
 
 > [!logic-map]- 认识论结构与因果阐释逻辑
@@ -202,7 +203,7 @@ updated: 2026-09-07
 > 该维度揭示历史学派对抗狭隘技术官僚[[Disciplina and Doctrina|规训]]、坚守以人为中心文明关切的崇高伦理旨趣。
 
 > [!claim] [[Robert Ulich|Ulich, R.]]
-> **西方两千年思想史长河中的全人教化沉思** 乌利希将比较教育置于西方文明思想史的宏阔纵深中，主张比较研究必须超越孤立主权国家的微观学校技术细节，探寻中世纪、文艺复兴、[[Rationalism in International Relations|理性主义]]与工业科技四大历史浪潮中人性观念的演进。比较教育学绝非单纯传授办学技巧的技术科学，而是一门以人为中心（Anthropocentric）的人文知识体系，其终极使命在于直面文明危机，涵养受过教育的人的古典全人[[Bildung|教化]]（*Paideia*）情怀。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 51–52, 56–57)]]
+> **西方两千年思想史长河中的全人教化沉思** 乌利希将比较教育置于西方文明思想史的宏阔纵深中，主张比较研究必须超越孤立主权国家的微观学校技术细节，探寻中世纪、文艺复兴、[[Rationalism in International Relations|理性主义]]与工业科技四大历史浪潮中人性观念的演进。比较教育学绝非单纯传授办学技巧的技术科学，而是一门以人为中心（Anthropocentric）的人文知识体系，其终极使命在于直面文明危机，涵养受过教育的人的古典全人[[Bildung|教化]]（*[[Paideia]]*）情怀。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 51–52, 56–57)]]
 
 > [!claim] Kazamias, A. M.
 > **抵御[[Technical Rationality|技术理性]]异化并坚守人本伦理防线** 卡扎米亚斯总结指出，萨德勒、坎德尔、汉斯与乌利希的核心洞见在于拒绝将教育窄化为去情境化、可测量的工具性学校教育（Schooling）。在当代[[Technical Rationality|技术理性]]与狭隘量化工具主义盛行的背景下，坚守历史-哲学-文化母题构成了捍卫比较教育人文品格、直面人类政治、社会与伦理大问题的坚固防线。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 56–57)]]
@@ -226,9 +227,9 @@ updated: 2026-09-07
 > [!dev-timeline] 概念演变
 > - **1900 — [[Michael Sadler|萨德勒]]吉尔福德演讲确立校外力量优位公理** 萨德勒发表《我们在多大程度上能够从外国教育制度研究中学习实际有价值的经验？》，提出学校是活体有机体，校外事情支配校内一切，终结了功利借用主义。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 42–45)]]
 > - **1930s — [[Isaac Kandel|坎德尔]]确立政治国家与因果探究三阶段[[Paradigm|范式]]** 坎德尔出版巨著《比较教育》（1933），将主权国家作为首要解释[[Variable|变量]]，确立探寻起因、比较差异与考察方案的三阶段程序，并创办《教育年鉴》。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 45–48)]]
-> - **1949 — [[Nicholas Hans|汉斯]]提出三维历史因素分析分类框架** 汉斯出版《比较教育：教育的因素与传统研究》，建立自然、宗教与世俗历史因素框架，为纷繁复杂的跨国历史史料提供了系统的分类过滤器。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 49–51)]]
+> - **1949 — 汉斯提出三维历史因素分析分类框架** 汉斯出版《比较教育：教育的因素与传统研究》，建立自然、宗教与世俗历史因素框架，为纷繁复杂的跨国历史史料提供了系统的分类过滤器。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 49–51)]]
 > - **1961 — [[Robert Ulich|乌利希]]《国家教育》奠定古典全人[[Bildung|教化]]文明史纵深** 乌利希将西方文明两千年思想史演进与全人教化引入比较研究，确立以人为中心的人文关怀底色。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 51–52)]]
-> - **1960s — 实证[[Scientism|科学主义]]围剿与前科学标签化** [[Harold Noah|诺亚]]、[[Max Eckstein|埃克斯坦]]与[[Brian Holmes|霍姆斯]]等实证学者借由狭隘科学观与[[Falsification|可证伪性]]准绳，指责历史学派依赖主观洞察力、缺乏因果预测力、陷入个殊不可比，并将萨德勒的无形力量贬斥为神秘主义。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 52–54)]]
+> - **1960s — 实证[[Scientism|科学主义]]围剿与前科学标签化** 诺亚、埃克斯坦与霍姆斯等实证学者借由狭隘科学观与[[Falsification|可证伪性]]准绳，指责历史学派依赖主观洞察力、缺乏因果预测力、陷入个殊不可比，并将萨德勒的无形力量贬斥为神秘主义。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 52–54)]]
 > - **1963/2009 — 卡扎米亚斯重建广义科学定位与比较史学合法性** 卡扎米亚斯批判反思历史学派[[Whiggism|辉格史观]]与[[National Character|国民性格]]偏误，同时恢复德语 *Wissenschaft* 广义科学传统，援引[[Crane Brinton|布林顿]]非普适探索性假说归纳法确立历史比较因果解释的现代合法性。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 54–57)]]
 
 ---
@@ -240,7 +241,7 @@ updated: 2026-09-07
 > > [!axis] 狭隘经验实证科学（Science）vs 德语广义科学（Wissenschaft / Episteme）
 > > 比较教育究竟应当狭义等同于可检验预测的量化经验社会科学，还是涵盖质性历史演进与价值沉思的广义人文科学体系。
 > >
-> > - **Noah & Eckstein（1969）** 将[[Michael Sadler|萨德勒]]、[[Isaac Kandel|坎德尔]]与[[Nicholas Hans|汉斯]]归为前科学力量与因素阶段，指责其结论依赖个人私人洞察力，缺乏判定各因素相对重要性的客观标准。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 53)]]
+> > - **Noah & Eckstein（1969）** 将[[Michael Sadler|萨德勒]]、[[Isaac Kandel|坎德尔]]与汉斯归为前科学力量与因素阶段，指责其结论依赖个人私人洞察力，缺乏判定各因素相对重要性的客观标准。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 53)]]
 > > - **Hans（1959）/ [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009)]]** 坚持比较教育学坐落于人文科学与自然科学的交界边缘，属于德语比较教育科学（*Vergleichende Erziehungswissenschaft*），探求事物演进根由的质性阐释天然具备科学合法性。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 39, 56)]]
 >
 > > [!axis] 历史个案不可重复性 vs 非普适探索性假说中程比较抽象
@@ -250,7 +251,7 @@ updated: 2026-09-07
 > > - **[[Crane Brinton]] / Kazamias（1963, 2009）** 论证历史学者完全能够从具体个案事实中提炼非普适探索性假说，并投射至同类教育情境中展开检验与阐释，实现特殊与一般的有机统一。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 56)]]
 
 > [!critique] 外部批评
-> - **缺乏因果预测力指控** [[Brian Holmes|霍姆斯]]（Holmes, 1965）断言历史比较无法替代科学比较教育，教育决策关切的是未来行动的后果，真正的理解来自于成功的因果预测而非回顾性历史溯源。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 53–54)]]
+> - **缺乏因果预测力指控** 霍姆斯（Holmes, 1965）断言历史比较无法替代科学比较教育，教育决策关切的是未来行动的后果，真正的理解来自于成功的因果预测而非回顾性历史溯源。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 53–54)]]
 > - **滑向神秘主义倾向指控** 埃普斯坦（Epstein, 1970）批评萨德勒对校外无形、不可捉摸精神力量的强调濒临神秘主义，有将严谨实证探究引向主观灵性启示的风险。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 54)]]
 > - **[[Whiggism|辉格史观]]与[[National Character|国民性格]]循环论证** 卡扎米亚斯（Kazamias, 1961, 2009）深刻指出老一代历史学者混淆现状实然描述与道德改良应然诉求，借由主观臆断的[[National Character|国民性格]]解释教育差异，陷入同义反复与辉格史观的理论陷阱。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 54–55)]]
 
@@ -279,5 +280,5 @@ updated: 2026-09-07
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009)]] — 思想史考古系统梳理[[Michael Sadler|萨德勒]]、[[Isaac Kandel|坎德尔]]、[[Nicholas Hans|汉斯]]与[[Robert Ulich|乌利希]]的思想谱系，反思[[Whiggism|辉格史观]]与[[National Character|国民性格]]，并借由[[Crane Brinton|布林顿]]比较史学确立[[Historical-Comparative Method|历史比较法]]在理论建构与因果阐释上的现代学术合法性。
+> - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009)]] — 思想史考古系统梳理[[Michael Sadler|萨德勒]]、[[Isaac Kandel|坎德尔]]、汉斯与[[Robert Ulich|乌利希]]的思想谱系，反思[[Whiggism|辉格史观]]与[[National Character|国民性格]]，并借由[[Crane Brinton|布林顿]]比较史学确立[[Historical-Comparative Method|历史比较法]]在理论建构与因果阐释上的现代学术合法性。
 

@@ -20,6 +20,7 @@ tags:
   - theme/critical-theory
 related_concepts:
   - "[[Epistemology]]"
+  - "[[Unit of Analysis]]"
   - "[[Reflexivity]]"
   - "[[Value Neutrality]]"
   - "[[Ideal Speech Situation]]"
@@ -65,7 +66,7 @@ updated: 2026-07-19
 > [!method-scope] 方法范围
 > - **研究对象** 阻碍参与者自主与自由的制度性和人际性约束——不合法的压制、支配和控制结构。
 > - **问题类型** 回答"哪些结构和权力关系正在压制参与者""如何揭露并改变这些约束"之类的问题。
-> - **分析单位** 制度结构、权力关系、社会情境中的个体与群体、参与者共同体。
+> - **[[Unit of Analysis|分析单位]]** 制度结构、权力关系、社会情境中的个体与群体、参与者共同体。
 > - **输出形式** 实践变革、意识提升和系统层面的政治行动；通常以合作撰写的研究报告呈现。
 
 > [!citation-card]- 祖伯-斯凯里特（Zuber-Skerritt）论解放性行动研究的系统变革目标
@@ -78,7 +79,7 @@ updated: 2026-07-19
 ## 方法定位
 
 > [!method-position] [[Epistemology|认识论]]与方法定位
-> - **知识观** 认识论基础植根于[[Critical Theory|批判理论]]，以哈贝马斯的知识构成性兴趣（knowledge-constitutive interests）中解放兴趣为核心——知识服务于自由、自主和社会正义，而非预测控制或诠释理解。
+> - **知识观** 认识论基础植根于[[Critical Theory|批判理论]]，以[[Jürgen Habermas|哈贝马斯]]的知识构成性兴趣（knowledge-constitutive interests）中解放兴趣为核心——知识服务于自由、自主和社会正义，而非预测控制或诠释理解。
 > - **研究者角色** 研究者是促进者、引导者、知识制定者和总结者、议题提出者（Weiskopf & Laske, 1996, pp. 132–133），但不享有特权地位——研究者的理论负载观点不优先于参与者观点（Hall, 1996, p. 29）。所有参与者是平等的"玩家"。
 > - **有效性标准** 参与者声音的真实性、民主关系的确立、数据的真实性反映所有参与者经验（Hall, 1996, p. 29）；通过[[Reflexivity|反身性]]和对称沟通来保证研究质量。
 > - **不声称回答的问题** 不声称[[Value Neutrality|价值中立]]——解放性[[Action Research|行动研究]]具有明确的政治和社会议程。不声称从单个案例中得出统计性推广。
@@ -93,7 +94,7 @@ updated: 2026-07-19
 
 ## 理论框架：三种行动研究的区分
 
-解放性[[Action Research|行动研究]]是格伦迪（Grundy, 1987）基于哈贝马斯（Habermas, 1972, 1974）知识构成性兴趣建构的[[Action Research|行动研究]]三分类型学中的第三类。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 272–273)]]
+解放性[[Action Research|行动研究]]是格伦迪（Grundy, 1987）基于[[Jürgen Habermas|哈贝马斯]]（Habermas, 1972, 1974）知识构成性兴趣建构的[[Action Research|行动研究]]三分类型学中的第三类。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 272–273)]]
 
 > [!contrast-table] 三种行动研究的对比
 > | 维度 | 技术性（Technical） | [[Praxis\|实践]]性（Practical） | 解放性（Emancipatory） |
@@ -166,7 +167,7 @@ updated: 2026-07-19
 
 ### 理想言说情境
 
-解放性行动研究的方法论前提建立在哈贝马斯（[[Jürgen Habermas|Habermas]]）后期"[[Ideal Speech Situation|理想言说情境]]"（ideal speech situation）构想之上。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 275–276)]]
+解放性行动研究的方法论前提建立在[[Jürgen Habermas|哈贝马斯]]（Habermas）后期"[[Ideal Speech Situation|理想言说情境]]"（ideal speech situation）构想之上。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 275–276)]]
 
 > [!axioms] 理想言说情境下的解放性行动研究前提
 > - **具有政治议程的[[Reflexivity|反思性]]实践** 行动研究不只是技术方法，而是承载政治意图的反思性实践

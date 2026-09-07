@@ -17,6 +17,7 @@ tags:
 related_concepts:
   - "[[Effect Size]]"
   - "[[Critique of Meta-analysis]]"
+  - "[[Unit of Analysis]]"
   - "[[Standard Error]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Research Utilization]]"
@@ -92,7 +93,7 @@ updated: 2026-07-15
 
 > [!boundary] 概念边界
 > - **不等于对效应量的全面否定** 效应量作为标准化差异的描述指标有其统计价值。批判指向的是将其作为跨研究比较尺度和教育有效性排名的做法。
-> - **不等于对[[Meta-analysis|元分析]]的否定** 元分析的方法论批判见 [[Critique of Meta-analysis]]。本条目的焦点是效应量作为分析单位的解释边界。
+> - **不等于对[[Meta-analysis|元分析]]的否定** 元分析的方法论批判见 [[Critique of Meta-analysis]]。本条目的焦点是效应量作为[[Unit of Analysis|分析单位]]的解释边界。
 > - **不替代技术计算讨论** 效应量的公式、计算方法和统计属性详见 [[Effect Size]]。
 
 ---

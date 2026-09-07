@@ -25,6 +25,7 @@ related_concepts:
   - "[[National Character]]"
   - "[[Reference Society]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Unit of Analysis]]"
   - "[[Hypothesis]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Going Native]]"
@@ -91,7 +92,7 @@ updated: 2026-09-07
 
 ## 概念辨析
 
-> [!contrast-table] 比较分析单位的演进与维度辨析
+> [!contrast-table] 比较[[Unit of Analysis|分析单位]]的演进与维度辨析
 > | 维度 | 民族国家单位（Nation-State Unit） | 多层级分析单位（Multilevel / Bray-Thomas Cube） | 全球跨国空间单位（Transnational / Spatial Unit） |
 > |---|---|---|---|
 > | **空间[[Hypothesis\|假设]]** | 领土边界封闭自足、主权单一明晰的容器空间 | 地理、人口与行政层级纵横嵌套的多维立体空间 | 流动、去地域化、非均质的全球政策拓扑空间 |
@@ -171,7 +172,7 @@ updated: 2026-09-07
 
 > [!dev-timeline] 概念演变
 > - **19 世纪中后期 — 现代民族国家公立教育创建与官方考察奠基** 维多利亚时代皇家学校督学[[Matthew Arnold|马修·阿诺德]]（Arnold, 1864）与法国哲学家[[Victor Cousin|库森]]将考察单位锚定于中央集权制的法国与普鲁士国家体系，论证唯有国家公共权威与主权干预才能奠定普遍国民[[Bildung|教化]]。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 38)]]
-> - **1900–1950 年代 — 历史-哲学母题与民族国家[[Epistemology|认识论]][[Paradigm|范式]]确立** [[Michael Sadler|萨德勒]]（1900）、[[Isaac Kandel|坎德尔]]（1933）与[[Nicholas Hans|汉斯]]（1949）将民族国家及其“国民教育体系”确立为跨国比较的公认首要认识论单位，以民族主义与[[National Character|民族性格]]作为核心因果机制。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 40, 47–50)]]
+> - **1900–1950 年代 — 历史-哲学母题与民族国家[[Epistemology|认识论]][[Paradigm|范式]]确立** [[Michael Sadler|萨德勒]]（1900）、[[Isaac Kandel|坎德尔]]（1933）与汉斯（1949）将民族国家及其“国民教育体系”确立为跨国比较的公认首要认识论单位，以民族主义与[[National Character|民族性格]]作为核心因果机制。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 40, 47–50)]]
 > - **1960–1970 年代 — 战后新兴国家冲击与批判性国家理论重塑** 亚非拉大批脱离殖民统治的新兴国家崛起；马丁·卡诺伊（Martin Carnoy）、萨莫夫与戴尔引入新马克思主义批判国家理论，将国家重构为调和资本积累、阶级利益与合法性危机的冲突竞技场。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 48, 52–53)]]
 > - **1990 年代至今 — 布雷-托马斯多层分析立方体与反思[[Methodological Nationalism|方法论民族主义]]** 马克·布雷与 R. 默里·托马斯（Bray & Thomas, 1995）提出打破单一国家容器的多层级比较分析立方体；罗杰·戴尔、考恩与诺沃亚等学者系统反思方法论民族主义，推动比较教育走向全球治理与超国家空间分析。
 

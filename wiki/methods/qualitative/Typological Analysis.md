@@ -17,6 +17,7 @@ tags:
   - research-methodology
   - data-analysis
 related_concepts:
+  - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Causality]]"
   - "[[Analytic Induction]]"
@@ -51,7 +52,7 @@ updated: 2026-08-17
 > [!method-scope] 方法范围
 > - **研究对象** 已编码的质性数据（访谈、观察、文档等）。
 > - **问题类型** 适合把数据按性质、行为、意义、参与方式、关系或情境分类，建立类型体系。
-> - **分析单位** 编码、类别、行为、行动、意义单元。
+> - **[[Unit of Analysis|分析单位]]** 编码、类别、行为、行动、意义单元。
 > - **输出形式** 类型体系、类型子集、有序且命名编号的分类呈现。
 
 ## 方法定位

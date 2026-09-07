@@ -12,6 +12,7 @@ method_related_color: "#dbeafe"
 tags: [method/qualitative, data-collection, theme/language]
 related_concepts:
   - "[[Social Episodes]]"
+  - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Internal Consistency]]"
   - "[[Transcription in Qualitative Research]]"
@@ -42,7 +43,7 @@ updated: 2026-07-23
 > [!method-scope] 方法范围
 > - **研究对象** 参与者对[[Social Episodes|社会片段]]中行动的言语说明（陈述）。
 > - **问题类型** 如何系统地引发、记录、验证和分析参与者对社会行为的言语说明。
-> - **分析单位** 个体信息提供者的录音陈述、经过转化的工作文件。
+> - **[[Unit of Analysis|分析单位]]** 个体信息提供者的录音陈述、经过转化的工作文件。
 > - **输出形式** 研究者对陈述的再陈述——摘要、概览和解释，附理论背景和研究操作说明。
 
 ## 方法定位

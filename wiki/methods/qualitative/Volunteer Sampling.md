@@ -15,6 +15,7 @@ tags:
   - method/sampling
   - qualitative-research
 related_concepts:
+  - "[[Unit of Analysis]]"
   - "[[Sampling Frame]]"
 related_theories: []
 related_methods:
@@ -38,7 +39,7 @@ updated: 2026-06-22
 > [!method-scope] 方法范围
 > - **研究对象** 自愿参与研究的个体
 > - **问题类型** 探索性研究、准入极度受限的研究
-> - **分析单位** 个体
+> - **[[Unit of Analysis|分析单位]]** 个体
 > - **输出形式** 由自愿者构成的非概率样本
 
 ## 研究程序

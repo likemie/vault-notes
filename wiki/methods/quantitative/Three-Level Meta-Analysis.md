@@ -28,6 +28,7 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Construct]]"
   - "[[Heterogeneity]]"
+  - "[[Unit of Analysis]]"
   - "[[Confidence Interval]]"
   - "[[Variable]]"
   - "[[Interaction Effect]]"
@@ -79,7 +80,7 @@ updated: 2026-09-02
 > [!method-scope] 方法范围
 > - **研究对象** 包含多个非独立效应量的实证研究[[Document|文献]]集（如同一研究报告多个[[Dependent Variable|结果变量]]、子样本、[[Construct|构念]]维度或测量时间点）。
 > - **问题类型** 适合回答跨研究综合效应估计、真实[[Heterogeneity|异质性]]分解、研究内与研究间特征对效应量的调节作用检验等问题。
-> - **分析单位** 包含三层嵌套结构：第一层为具体效应量（Effect Size），第二层为原始研究（Study），第三层为更高层级的聚类单位或跨研究总体。
+> - **[[Unit of Analysis|分析单位]]** 包含三层嵌套结构：第一层为具体效应量（Effect Size），第二层为原始研究（Study），第三层为更高层级的聚类单位或跨研究总体。
 > - **输出形式** 汇总加权效应量估计值、95% [[Confidence Interval|置信区间]]（Confidence Interval, CI）、各层方差分量（$\tau_{(2)}^2$ 与 $\tau_{(3)}^2$）、异质性比例指标（$I_{(1)}^2$、$I_{(2)}^2$、$I_{(3)}^2$）、多[[Variable|变量]][[Meta-regression|元回归]][[Interaction Effect|调节效应]]检验统计量（$F$ 或 $\chi^2$）。
 
 > [!citation-card]- 关键定义

@@ -17,6 +17,7 @@ tags:
 related_concepts:
   - "[[Positivism]]"
   - "[[Knowledge Production]]"
+  - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Value Neutrality]]"
   - "[[Consequential Validity]]"
@@ -59,7 +60,7 @@ updated: '2026-07-21'
 > [!method-scope] 方法范围
 > - **研究对象** 女性的生活经验、性别压迫机制、父权制[[Knowledge Production|知识生产]]、教育中的性别不平等。
 > - **问题类型** 回答"谁的""为谁""在谁的利益中"等权力问题，揭示被沉默的声音和被压制的经验。
-> - **分析单位** 性别作为经验类别、制度过程、话语实践。
+> - **[[Unit of Analysis|分析单位]]** 性别作为经验类别、制度过程、话语实践。
 > - **输出形式** 赋权行动、女性声音呈现、性别权力分析、变革实践。
 
 > [!citation-card]- 关键定义

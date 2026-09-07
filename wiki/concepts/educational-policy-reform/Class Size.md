@@ -29,6 +29,7 @@ related_concepts:
   - "[[Sample Size Determination]]"
   - "[[Academic Achievement]]"
   - "[[Research Utilization]]"
+  - "[[Unit of Analysis]]"
   - "[[Heterogeneity]]"
   - "[[Visible Learning]]"
   - "[[Material Fallacies]]"
@@ -214,7 +215,7 @@ updated: 2026-08-20
 
 ### 分析单元问题
 
-> [!critique-method] 分析单元与混淆因素
+> [!critique-method] [[Unit of Analysis|分析单元]]与混淆因素
 > 班级规模本身不能作为充分分析单元，必须结合学生能力、社会背景、班级[[Heterogeneity|异质性]]、教师能力和资源来理解。许多学生一天中在不同班级和小组之间流动，学校也可能策略性地把小班用于低龄或学业困难学生，因此"班级规模效应"很容易混合其他政策安排。Hattie 本人也承认大班教学可能需要更熟练的教师和更高度结构化的教学，若这些条件没有进入分析，单一班级规模[[Effect Size|效应量]]就必须被视为有问题（Nielsen & Klitmøller, 2021, pp.4-5）。
 
 ### 元分析与语境扭曲

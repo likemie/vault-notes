@@ -26,6 +26,7 @@ related_concepts:
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
   - "[[Interaction Effect]]"
+  - "[[Unit of Analysis]]"
   - "[[Effect Size]]"
   - "[[Type I and Type II Errors]]"
   - "[[Epistemology]]"
@@ -74,7 +75,7 @@ updated: 2026-08-29
 > [!method-scope] 方法范围
 > - **研究对象** 包含 1 个或多个分类自变量（如教学干预组别、年级、教师科研经历）以及 2 个或以上具有理论相关性的连续数值型因变量（如多维学习动机、多维度素养得分、不同认知层次成绩）。
 > - **问题类型** 组间多维差异检验、多因子主效应与[[Interaction Effect|交互效应]]识别、综合干预的多维效果评价。
-> - **分析单位** 个体被试（学生、教师、管理者）或聚合组织单元（班级、学校、学区）。
+> - **[[Unit of Analysis|分析单位]]** 个体被试（学生、教师、管理者）或聚合组织单元（班级、学校、学区）。
 > - **输出形式** 多元检验统计量（Wilks' $\Lambda$、Pillai's Trace、Hotelling-Lawley Trace、Roy's Largest Root）、$F$ 近似值与自由度、$p$ 显著性水平、多元偏[[Effect Size|效应量]]（Partial $\eta^2$）、各分维度单变量 ANOVA 后续检验及事后多重比较结果。
 
 > [!citation-card]- 关键定义

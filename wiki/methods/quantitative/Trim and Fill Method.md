@@ -28,6 +28,7 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Confidence Interval]]"
   - "[[Standard Error]]"
+  - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Sampling Error]]"
   - "[[Heterogeneity]]"
@@ -67,7 +68,7 @@ updated: 2026-08-24
 > [!method-scope] 方法范围
 > - **研究对象** 元分析中各纳入研究的效应量及其抽样[[Standard Error|标准误]]散点分布（漏斗图空间结构）。
 > - **问题类型** 检验是否存在因偏向显著阳性结果发表而缺失的阴性研究，并估计假设缺失研究被填补后的校正效应量。
-> - **分析单位** 包含 $k$ 个效应量的元分析或[[Meta-meta-analysis|二阶元分析]]数据集。
+> - **[[Unit of Analysis|分析单位]]** 包含 $k$ 个效应量的元分析或[[Meta-meta-analysis|二阶元分析]]数据集。
 > - **输出形式** 估计缺失研究的数量（$k_{\text{miss}}$）、对称填补后的漏斗图、偏倚校正后的合并效应量（Adjusted ES）及校正置信区间。
 
 > [!citation-card]- 关键定义

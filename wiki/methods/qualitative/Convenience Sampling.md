@@ -20,6 +20,7 @@ tags:
   - qualitative-research
 related_concepts:
   - "[[Sample Size Determination]]"
+  - "[[Unit of Analysis]]"
   - "[[Sampling Frame]]"
   - "[[Questionnaire]]"
   - "[[External Validity]]"
@@ -50,7 +51,7 @@ updated: 2026-07-11
 > [!method-scope] 方法范围
 > - **研究对象** 最容易接触的个体或群体
 > - **问题类型** 探索性研究、试点研究、[[Case Study|案例研究]]
-> - **分析单位** 个体
+> - **[[Unit of Analysis|分析单位]]** 个体
 > - **输出形式** 局部描述，无法推广
 
 ## 研究程序

@@ -18,6 +18,7 @@ tags:
   - method/observation
   - method/case-study
 related_concepts:
+  - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Reliability]]"
   - "[[Content Validity]]"
@@ -51,7 +52,7 @@ updated: 2026-07-23
 > [!method-scope] 方法范围
 > - **研究对象** 个体或群体的外显行为、互动模式、语言使用、空间布置和环境特征。
 > - **问题类型** 适合回答"发生了什么？""行为的频率和模式是什么？""互动如何展开？"等描述性和分类性问题。
-> - **分析单位** 行为事件、互动回合、时间片段、个体或群体。
+> - **[[Unit of Analysis|分析单位]]** 行为事件、互动回合、时间片段、个体或群体。
 > - **输出形式** 频数统计、行为编码表、时间序列数据、[[Structured Observation|结构化观察]]记录、分类描述。
 
 ## 方法定位

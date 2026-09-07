@@ -25,6 +25,7 @@ related_concepts:
   - "[[Independent Variable]]"
   - "[[Hypothesis]]"
   - "[[Evidence-Based Education]]"
+  - "[[Unit of Analysis]]"
   - "[[Effect Size]]"
   - "[[Variable]]"
   - "[[Pre-test and Post-test]]"
@@ -98,7 +99,7 @@ updated: 2026-08-21
 > [!method-scope] 方法范围
 > - **研究对象** 嵌入在自然班级、完整学校或行政行政区划中的具名教育干预方案、教学模式与政策改革。
 > - **问题类型** 因果效应估计（Causal Effect Estimation）、政策试点成效评估、比较有效性研究（Comparative Effectiveness）。
-> - **分析单位** 学生个体、自然班级、学校集群或时间观测点。
+> - **[[Unit of Analysis|分析单位]]** 学生个体、自然班级、学校集群或时间观测点。
 > - **输出形式** 调整后[[Effect Size|效应量]]（Adjusted Effect Size）、双重差分（DID）估计值、基线等值性检验参数、间断斜率变化统计量。
 
 > [!citation-card]- 关键定义

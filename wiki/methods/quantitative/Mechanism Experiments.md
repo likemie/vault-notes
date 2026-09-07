@@ -21,6 +21,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Counterfactual]]"
   - "[[Paradigm]]"
+  - "[[Unit of Analysis]]"
   - "[[Causality]]"
   - "[[Praxis]]"
   - "[[Transfer Translation Transformation]]"
@@ -69,7 +70,7 @@ updated: '2026-05-18'
 > | | 黑箱 RCT | 机制实验 |
 > |---|---|---|
 > | 核心问题 | 这个项目有效吗？ | 什么使这个项目有效？通过什么路径？ |
-> | 分析单位 | 整个项目/干预包 | 特定[[Causality\|因果]]机制/行为变化 |
+> | [[Unit of Analysis\|分析单位]] | 整个项目/干预包 | 特定[[Causality\|因果]]机制/行为变化 |
 > | 对教师[[Praxis\|实践]]的信息价值 | 低——仅告知是否采用预设项目 | 高——提供可[[Transfer Translation Transformation\|迁移]]的行为原则 |
 > | 适用决策类型 | 二选一（采用或不采用） | 持续小决策（如何调整、组合、适应） |
 > | 来源[[Paradigm\|范式]] | 医学药物试验 | 发展经济学现场实验 |
@@ -100,7 +101,7 @@ updated: '2026-05-18'
 ## 与相关概念的区别
 
 > [!example] 与相关概念的区别
-> - **vs [[Black Box RCTs]]** — 黑箱 [[Randomised Controlled Trials|RCT]] 评估整个项目而不打开因果机制；机制实验以机制为分析单位
+> - **vs [[Black Box RCTs]]** — 黑箱 [[Randomised Controlled Trials|RCT]] 评估整个项目而不打开因果机制；机制实验以机制为[[Unit of Analysis|分析单位]]
 > - **vs [[Randomised Controlled Trials]]** — 机制实验是 RCT 的一种特定设计取向，不是替代 RCT 而是改革其设计方式
 > - **vs 理论驱动评估（Theory-Based Evaluation）** — 理论驱动评估仍紧密链接到特定项目的"项目理论"；机制实验聚焦于可在多个项目中迁移的机制原则([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 303]])
 

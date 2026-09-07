@@ -16,6 +16,7 @@ tags:
   - paradigm/qualitative
   - method/ethnography
 related_concepts:
+  - "[[Unit of Analysis]]"
   - "[[Champ]]"
   - "[[Rich and Thick Description]]"
   - "[[Epistemology]]"
@@ -79,7 +80,7 @@ updated: 2026-07-23
 > [!method-scope] 方法范围
 > - **研究对象** 社群或群体的日常行为、互动模式、仪式、语言使用、权力关系和文化实践。
 > - **问题类型** 适合回答"该群体如何生活？""行为背后的意义是什么？""文化实践如何维持和再生产？"等描述性和解释性问题。
-> - **分析单位** 个体、群体、互动事件、仪式、组织[[Champ|场域]]。
+> - **[[Unit of Analysis|分析单位]]** 个体、群体、互动事件、仪式、组织[[Champ|场域]]。
 > - **输出形式** 民族志描述、[[Rich and Thick Description|厚描述]]、主题分析、理论建构（通常以[[Case Study|案例研究]]或民族志报告形式呈现）。
 
 ## 方法定位
@@ -110,7 +111,7 @@ Gold（1958）提出了观察者角色的经典四层连续体分类（[[Argumen
 
 > [!proc] 数据分析程序
 > 1. 书写详尽的田野笔记——既在现场书写也远离现场补充——记录观察到的行为、[[Dialogue in Education|对话]]、非语言线索和研究者自身的反应。
-> 2. 将田野笔记和[[Transcription in Qualitative Research|转录]]材料[[Coding in Qualitative Research|编码]]为分析单元；进行[[Domain Analysis|领域分析]]以归组相关主题；识别核心主题和"底层关联"。
+> 2. 将田野笔记和[[Transcription in Qualitative Research|转录]]材料[[Coding in Qualitative Research|编码]]为[[Unit of Analysis|分析单元]]；进行[[Domain Analysis|领域分析]]以归组相关主题；识别核心主题和"底层关联"。
 > 3. 撰写分析备忘录，记录[[Reflexivity|反身性]]观察、临时[[Hypothesis|假设]]和理论之间的关系发展。
 > 4. 使用[[Triangulation|三角验证]]（多数据源、多方法）、成员检查和同伴情况报告来增强可[[Reliability|信度]]；主动寻找负面案例和偏差案例。
 

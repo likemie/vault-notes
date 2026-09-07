@@ -25,6 +25,7 @@ related_concepts:
   - "[[Standard Error]]"
   - "[[Variable]]"
   - "[[Effect Size]]"
+  - "[[Unit of Analysis]]"
   - "[[Confidence Interval]]"
   - "[[Funnel Plot]]"
   - "[[Hypothesis]]"
@@ -61,7 +62,7 @@ updated: 2026-08-24
 > [!method-scope] 方法范围
 > - **研究对象** 存在多重效应量嵌套依赖的一阶元分析或二阶元分析证据库。
 > - **问题类型** 检验效应量大小是否与抽样精度系统性相关（发表偏倚诊断），并校正小样本膨胀效应。
-> - **分析单位** 包含抽样标准误 $\text{SE}_{ij}$ 与效应量 $z_{ij}$ 的多水平观测矩阵。
+> - **[[Unit of Analysis|分析单位]]** 包含抽样标准误 $\text{SE}_{ij}$ 与效应量 $z_{ij}$ 的多水平观测矩阵。
 > - **输出形式** 偏倚斜率检验统计量（$\beta_{\text{SE}}$ 与 $p$ 值）、偏倚校正后的二阶效应量点估计（$\beta_0$ / 转换后的 $r$ 或 $g$）及其 95% [[Confidence Interval|置信区间]]。
 
 > [!citation-card]- 关键定义

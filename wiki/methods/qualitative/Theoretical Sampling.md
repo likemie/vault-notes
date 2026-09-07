@@ -17,6 +17,7 @@ tags:
   - grounded-theory
 related_concepts:
   - "[[Saturation]]"
+  - "[[Unit of Analysis]]"
   - "[[Sample Size Determination]]"
   - "[[Hypothesis]]"
   - "[[Emergence]]"
@@ -46,7 +47,7 @@ updated: 2026-07-11
 > [!method-scope] 方法范围
 > - **研究对象** 能够推动理论发展的群体、个体或情境
 > - **问题类型** 理论生成
-> - **分析单位** 随理论发展而变化
+> - **[[Unit of Analysis|分析单位]]** 随理论发展而变化
 > - **输出形式** 扎根于数据的理论
 
 ## 研究程序

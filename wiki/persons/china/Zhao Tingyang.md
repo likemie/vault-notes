@@ -21,6 +21,7 @@ related_concepts:
   - "[[Necropolitics]]"
   - "[[Orientalism]]"
   - "[[Sinicisation]]"
+  - "[[Unit of Analysis]]"
   - "[[Knowledge Transfer]]"
 related_theories: []
 related_methods: []
@@ -91,7 +92,7 @@ updated: '2026-06-26'
 
 ### 天下体系
 
-- **无外部的世界政治** 相对于以民族国家主权为核心、将世界分裂为“我们”与“他们”的西方威斯特伐利亚体系，天下体系致力于构建一个“无外部” (no-outside) 的世界制度，将“世界”本身作为基本的政治与分析单位，以实现全球秩序的终极和谐。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 106]])
+- **无外部的世界政治** 相对于以民族国家主权为核心、将世界分裂为“我们”与“他们”的西方威斯特伐利亚体系，天下体系致力于构建一个“无外部” (no-outside) 的世界制度，将“世界”本身作为基本的政治与[[Unit of Analysis|分析单位]]，以实现全球秩序的终极和谐。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 106]])
 
 ### “配天”与神性中国
 

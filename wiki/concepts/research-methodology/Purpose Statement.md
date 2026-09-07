@@ -27,6 +27,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
+  - "[[Unit of Analysis]]"
   - "[[Interaction Effect]]"
   - "[[Questionnaire]]"
   - "[[Competitiveness]]"
@@ -144,7 +145,7 @@ updated: 2026-07-13
 > 4. 明确自变量（独立、中介、调节）和[[Dependent Variable|因变量]]。
 > 5. 使用连接变量的词语，如"关系"（relationship）、"比较"（comparison）、"决定因素"（determinants）、"相关性"（correlation）、"预测"（prediction）或"描述"（describe）。
 > 6. 按从左到右的顺序排列变量——自变量在前，因变量在后。中介变量置于两者之间，调节变量与自变量相关。
-> 7. 提及研究参与者（或分析单元）和研究场所。
+> 7. 提及研究参与者（或[[Unit of Analysis|分析单元]]）和研究场所。
 > 8. 使用文献中已接受的定义定义关键变量。
 
 量化目的陈述的写作脚本：

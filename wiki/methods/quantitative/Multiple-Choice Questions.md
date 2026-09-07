@@ -26,6 +26,7 @@ tags:
   - level/higher-education
 related_concepts:
   - "[[Criterion-Referenced Test]]"
+  - "[[Unit of Analysis]]"
   - "[[Item Analysis]]"
   - "[[Variable]]"
   - "[[Epistemology]]"
@@ -69,7 +70,7 @@ updated: 2026-08-28
 > [!method-scope] 方法范围
 > - **研究与测量对象** 学习者对学科事实、概念原理、程序规则以及特定封闭情境下推理结论的掌握程度。
 > - **问题类型** 适合大规模标准化常模参照或[[Criterion-Referenced Test|标准参照]]测评，回答“被试是否知晓某知识点”或“能否在封闭选项中识别正确推理”。
-> - **分析单位** 单个题项反应（Item Response）、试卷总分、[[Item Analysis|项目难度]]（$p$ 值）、区分度（$D$ 值）及[[Item Response Theory|项目反应理论]]（IRT）参数。
+> - **[[Unit of Analysis|分析单位]]** 单个题项反应（Item Response）、试卷总分、[[Item Analysis|项目难度]]（$p$ 值）、区分度（$D$ 值）及[[Item Response Theory|项目反应理论]]（IRT）参数。
 > - **输出形式** 客观正误二分[[Variable|变量]]（0/1 计分）、连续总分、标准化量表分与能力参数估计值（$	heta$）。
 
 ---

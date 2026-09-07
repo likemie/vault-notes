@@ -21,6 +21,7 @@ tags:
   - causal-inference
 related_concepts:
   - "[[Causality]]"
+  - "[[Unit of Analysis]]"
   - "[[Effect Size]]"
   - "[[Epistemology]]"
   - "[[Positivism]]"
@@ -83,7 +84,7 @@ updated: 2026-07-13
 > [!method-scope] 方法范围
 > - **研究对象** 被随机分派到不同实验处理条件（干预组与对照组）的受试者个体或单位。
 > - **问题类型**[[Causality|因果推断]]与干预净效应估计问题。
-> - **分析单位** 个体（如学生）、群体（如班级、学校）。
+> - **[[Unit of Analysis|分析单位]]** 个体（如学生）、群体（如班级、学校）。
 > - **输出形式** 组间基线平衡检验、干预后[[Effect Size|效应量]]（Effect Size, ES）的无偏估计。
 
 > [!citation-card]- 关键定义

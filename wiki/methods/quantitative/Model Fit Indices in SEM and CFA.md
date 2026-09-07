@@ -28,6 +28,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Construct Validity]]"
+  - "[[Unit of Analysis]]"
   - "[[Confidence Interval]]"
   - "[[Sample Size Determination]]"
   - "[[Research Literacy]]"
@@ -60,7 +61,7 @@ updated: 2026-08-29
 > [!method-scope] 方法范围
 > - **研究对象** 验证性因子分析模型（一阶、高阶或双因子结构）、路径分析模型及完全潜[[Variable|变量]]结构方程模型。
 > - **问题类型** 测量模型[[Construct Validity|构念效度]]确证、备择竞争模型优选、[[Measurement Invariance|多组测量等值性]]阶梯检验。
-> - **分析单位** 协方差矩阵残差与模型自由度。
+> - **[[Unit of Analysis|分析单位]]** 协方差矩阵残差与模型自由度。
 > - **输出指标族群**
 >   1. **绝对拟合指数（Absolute Fit）** 卡方自由度比（$\chi^2/df$）、渐进残差均方和平方根（$\text{RMSEA}$）、标准化残差均方根（$\text{SRMR}$）、拟合优度指数（$\text{GFI}$）；
 >   2. **增量/相对拟合指数（Incremental / Relative Fit）** 比较拟合指数（$\text{CFI}$）、Tucker-Lewis 指数（$\text{TLI}$，亦称非规范拟合指数 $\text{NNFI}$）、规范拟合指数（$\text{NFI}$）；

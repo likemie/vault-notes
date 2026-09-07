@@ -22,6 +22,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Hypothesis]]"
   - "[[Dependent Variable]]"
+  - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Causality]]"
   - "[[Heterogeneity]]"
@@ -50,7 +51,7 @@ updated: 2026-07-13
 > [!method-scope] 方法范围
 > - **研究对象** 当个体（行业、地区、国家）层面的某变量同时受总体趋势和个体策略选择影响时，用于分离外生变异。
 > - **问题类型** 因果识别——估计某处理变量对[[Dependent Variable|结果变量]]的因果效应，尤其在处理变量的分配本身可能是内生的情况下。
-> - **分析单位** 行业、地区、城市、国家等面板数据中的横截面单位。
+> - **[[Unit of Analysis|分析单位]]** 行业、地区、城市、国家等面板数据中的横截面单位。
 > - **输出形式** 工具变量回归的系数估计、一阶段 F 统计量、二阶段因果效应估计。
 
 ---

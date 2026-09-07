@@ -17,6 +17,7 @@ tags:
   - method/sampling
   - quantitative-research
 related_concepts:
+  - "[[Unit of Analysis]]"
   - "[[Sample Size Determination]]"
   - "[[Variable]]"
   - "[[Research Question]]"
@@ -43,7 +44,7 @@ updated: 2026-06-22
 > [!method-scope] 方法范围
 > - **研究对象** 已知关键特征（如性别、社会经济地位、族裔）的总体
 > - **问题类型** 需要对关键子组进行均衡比较或确保子组代表性的研究
-> - **分析单位** 个体，按预设特征分组
+> - **[[Unit of Analysis|分析单位]]** 个体，按预设特征分组
 > - **输出形式** 各层分别具有代表性的概率样本
 
 ## 研究程序

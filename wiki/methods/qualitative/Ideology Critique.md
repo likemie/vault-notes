@@ -15,6 +15,7 @@ tags:
   - theory/critical
   - paradigm/critical
 related_concepts:
+  - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Value Neutrality]]"
   - "[[Causality]]"
@@ -32,7 +33,8 @@ related_methods:
   - "[[Participant Observation]]"
   - "[[Participatory Research]]"
   - "[[Feminist Research]]"
-related_persons: []
+related_persons:
+  - "[[Jürgen Habermas]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02]]"
@@ -52,7 +54,7 @@ updated: 2026-07-11
 > [!method-scope] 方法范围
 > - **研究对象** 教育制度、课程政策、学校组织、知识选择过程中隐藏的利益运作和权力关系。
 > - **问题类型** 回答"谁的知识被合法化""谁的利益被服务""权力如何通过教育再生产"等批判性问题。
-> - **分析单位** 制度、政策文本、课程大纲、话语实践、组织过程。
+> - **[[Unit of Analysis|分析单位]]** 制度、政策文本、课程大纲、话语实践、组织过程。
 > - **输出形式** 利益分析、权力关系揭示、变革议程。
 
 > [!citation-card]- 关键定义
@@ -73,7 +75,7 @@ updated: 2026-07-11
 > [!method-stack] 方法层级
 > - **研究设计** 批判性[[Case Study|案例研究]]、政策分析、[[Action Research|行动研究]]。
 > - **数据收集** 政策文本、课程文件、制度记录、访谈、[[Participant Observation|参与观察]]。
-> - **分析方法** 哈贝马斯四阶段反思实践（描述→归因→议程→评估）。
+> - **分析方法** [[Jürgen Habermas|哈贝马斯]]四阶段反思实践（描述→归因→议程→评估）。
 > - **辅助技术** 利益分析、权力关系映射、[[Reflexivity|反思性]][[Dialogue in Education|对话]]。
 
 ---
@@ -82,7 +84,7 @@ updated: 2026-07-11
 
 ### 哈贝马斯的四阶段反思实践
 
-> [!proc] 哈贝马斯意识形态批判四阶段（Habermas, 1972, p. 230）
+> [!proc] [[Jürgen Habermas|哈贝马斯]]意识形态批判四阶段（Habermas, 1972, p. 230）
 > 1. **阶段一：描述与诠释（description and interpretation）**——对现有情境进行诠释学分析。识别并尝试理解当前情境，回应[[Interpretive Paradigm|诠释范式]]的"理解"（verstehen）取向。
 > 2. **阶段二：归因与利益分析（reasons, causes and purposes）**——揭示导致现有情境形成的原因和目的，评估其合法性。分析情境中运作的利益和意识形态、它们的权力和合法性（在微观和宏观社会学层面）。哈贝马斯将此比作精神分析：将患者被压抑、扭曲和压迫的经验带入意识——一旦暴露和审视，这些经验便具有解放性。
 > 3. **阶段三：变革议程（agenda for altering the situation）**——提出改变情境的方案，以推动走向平等主义社会。
@@ -144,4 +146,4 @@ updated: 2026-07-11
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al. (2011, pp. 117–149)]] — 以哈贝马斯三种认识兴趣为框架，对 Tyler 的课程原理和英国国家课程进行意识形态批判，揭示技术兴趣在课程中的支配地位和解放兴趣的缺失。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al. (2011, pp. 117–149)]] — 以[[Jürgen Habermas|哈贝马斯]]三种认识兴趣为框架，对 Tyler 的课程原理和英国国家课程进行意识形态批判，揭示技术兴趣在课程中的支配地位和解放兴趣的缺失。

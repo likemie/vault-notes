@@ -12,6 +12,7 @@ method_related_color: "#dbeafe"
 tags: [method/qualitative, data-collection, theme/language]
 related_concepts:
   - "[[Falsification]]"
+  - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Dialogue in Education]]"
   - "[[Hypothesis]]"
@@ -42,7 +43,7 @@ updated: 2026-07-23
 > [!method-scope] 方法范围
 > - **研究对象** 参与者在特定生活情境中的个人经历、感受、思想和行动，以及他们如何赋予这些经历以意义。
 > - **问题类型** 参与者如何体验和理解其生活中的重要时刻；不同个体如何以不同方式解释相似情境；参与者的价值关切和关注焦点是什么。
-> - **分析单位** 个体录音访谈、按情境分类的陈述集合、跨主题的陈述片段。
+> - **[[Unit of Analysis|分析单位]]** 个体录音访谈、按情境分类的陈述集合、跨主题的陈述片段。
 > - **输出形式** 尝试性解释图式，经过修改、确认或证伪后形成的分析性叙事。
 
 ## 方法定位

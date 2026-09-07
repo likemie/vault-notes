@@ -25,6 +25,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Variable]]"
   - "[[Internal Consistency]]"
+  - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Test-Retest Reliability]]"
   - "[[Inter-Rater Reliability]]"
@@ -58,7 +59,7 @@ updated: 2026-08-29
 > [!method-scope] 方法范围
 > - **研究对象** 潜变量与其测量题项之间的因子载荷（$\lambda_i$）与题项误差方差（$\theta_i$）。
 > - **问题类型** 评估不可直接观测潜变量的测量信度、检验多题项合成测度的内在稳定性。
-> - **分析单位** 潜变量（Latent Factor）构念层级。
+> - **[[Unit of Analysis|分析单位]]** 潜变量（Latent Factor）构念层级。
 > - **输出形式** 介于 0 到 1 之间的信度系数值（通常保留两位或三位小数，如 $\text{CR} = .87$）。
 
 > [!citation-card]- 关键定义

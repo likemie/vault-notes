@@ -24,6 +24,7 @@ related_concepts:
   - "[[Selective Affinity]]"
   - "[[Champ]]"
   - "[[Causality]]"
+  - "[[Unit of Analysis]]"
   - "[[Analytic Framework]]"
   - "[[Corporate Education]]"
   - "[[Habitus]]"
@@ -196,7 +197,7 @@ updated: 2026-07-10
 
 ### 诠释社会学与行动理论
 
-韦伯将社会学定义为"一门科学，其意图在于对社会行动进行诠释性的理解，并从而对社会行动的过程和影响予以[[Causality|因果性]]的解释"（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Weber, 2005[1956], p.3）。行动指行动者赋予其行为主观意义——无论外显或内隐、作为或容忍默认。社会学的基本分析单位不是集体概念，而是可理解的个体行动。
+韦伯将社会学定义为"一门科学，其意图在于对社会行动进行诠释性的理解，并从而对社会行动的过程和影响予以[[Causality|因果性]]的解释"（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Weber, 2005[1956], p.3）。行动指行动者赋予其行为主观意义——无论外显或内隐、作为或容忍默认。社会学的基本[[Unit of Analysis|分析单位]]不是集体概念，而是可理解的个体行动。
 
 ### 行动的理想类型
 

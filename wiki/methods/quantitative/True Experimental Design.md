@@ -20,6 +20,7 @@ related_concepts:
   - "[[Pre-test and Post-test]]"
   - "[[Dependent Variable]]"
   - "[[Independent Variable]]"
+  - "[[Unit of Analysis]]"
   - "[[Effect Size]]"
   - "[[Statistical Significance]]"
   - "[[Variable]]"
@@ -61,7 +62,7 @@ updated: 2026-07-13
 > [!method-scope] 方法范围
 > - **研究对象** 被随机分配至控制组和实验组的参与者。
 > - **问题类型** X 是否导致了 Y？干预的因果效应大小和方向如何？
-> - **分析单位** 个体参与者，随机分配至实验条件。
+> - **[[Unit of Analysis|分析单位]]** 个体参与者，随机分配至实验条件。
 > - **输出形式** 因果效应估计量、[[Effect Size|效应量]]、[[Statistical Significance|统计显著性]]检验。
 
 ## 方法定位

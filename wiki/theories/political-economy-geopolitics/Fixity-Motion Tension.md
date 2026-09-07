@@ -22,6 +22,7 @@ related_concepts:
   - "[[Innovation Park]]"
   - "[[Pride in Learning]]"
   - "[[Creativity]]"
+  - "[[Unit of Analysis]]"
   - "[[Innovation Ecosystem]]"
   - "[[Champ]]"
   - "[[Hub and Flow Imaginaries]]"
@@ -103,7 +104,7 @@ Harvey 的理论论证从资本主义生产方式的根本特征出发，可以�
 ## 概念辨析
 
 
-- vs [[Creativity|创造性]]破坏（Creative Destruction, Schumpeter）：Schumpeter 聚焦于*技术创新*对产业结构的颠覆，以企业和市场为核心分析单位；Harvey 的固着-流动张力聚焦于*空间*逻辑——资本积累如何在地理景观中同时需要固定性和流动性，以空间为分析单位。前者问"新技术如何淘汰旧产业"，后者问"资本为什么必然创造繁荣然后又抛弃它"
+- vs [[Creativity|创造性]]破坏（Creative Destruction, Schumpeter）：Schumpeter 聚焦于*技术创新*对产业结构的颠覆，以企业和市场为核心[[Unit of Analysis|分析单位]]；Harvey 的固着-流动张力聚焦于*空间*逻辑——资本积累如何在地理景观中同时需要固定性和流动性，以空间为分析单位。前者问"新技术如何淘汰旧产业"，后者问"资本为什么必然创造繁荣然后又抛弃它"
 
 - vs 空间修复（Spatial Fix, Harvey）：空间修复是 Harvey 的另一相关概念，指资本主义通过地理扩张来暂时解决过度积累危机——当资本在一个地方无法找到足够有利可图的投资机会时，它向新地区扩张。固着-流动张力是更基础的理论原理：它解释了为什么空间修复永远是暂时的——因为每一次空间修复（将资本固定在新地点）都会在新的地方产生固着-流动张力
 

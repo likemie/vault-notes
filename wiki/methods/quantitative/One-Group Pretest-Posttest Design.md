@@ -18,6 +18,7 @@ related_concepts:
   - "[[Pre-test and Post-test]]"
   - "[[Variable]]"
   - "[[Internal Validity]]"
+  - "[[Unit of Analysis]]"
   - "[[Causality]]"
   - "[[Hypothesis]]"
 related_methods:
@@ -42,7 +43,7 @@ updated: 2026-07-13
 > [!method-scope] 方法范围
 > - **研究对象** 单一组参与者——通常是已有班级或自然群体。
 > - **问题类型** 干预前后是否发生了变化？（不能严格回答"变化是否由干预导致"）
-> - **分析单位** 单组的前后测数据。
+> - **[[Unit of Analysis|分析单位]]** 单组的前后测数据。
 > - **输出形式** 前后测均值比较，通常以配对 t 检验报告。
 
 ## 方法定位

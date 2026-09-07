@@ -28,6 +28,7 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Governing at a Distance]]"
   - "[[Evidence-Based Education]]"
+  - "[[Unit of Analysis]]"
   - "[[Realism in International Relations]]"
 related_theories:
   - "[[Human Capital Theory]]"
@@ -162,7 +163,7 @@ updated: 2026-07-09
 
 > [!critique] 学术与方法论视角的外部批评
 > - **方法论的局部退化** 发展转向导致比较教育退回到单一国家的区域描述（Area Studies），忽视了国际权力的关系性网络，在方法论上呈现出局部退化。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 422]])
-> - **[[Methodological Statism|方法论国家主义]]的内化** 默认以领土主权国家为核心分析单位，遮蔽了跨国多行动者网络（如跨国公司、NGO、慈善资本）在第三世界教育流动中的实际支配作用。
+> - **[[Methodological Statism|方法论国家主义]]的内化** 默认以领土主权国家为核心[[Unit of Analysis|分析单位]]，遮蔽了跨国多行动者网络（如跨国公司、NGO、慈善资本）在第三世界教育流动中的实际支配作用。
 
 > [!warning] 适用局限
 > 发展转向主要适用于分析官方发展援助（ODA）、超国家组织（如世界银行、[[OECD]]）主导下的政策转移与学科制度化历史，难以直接解释去中心化的、非对称的民间教育交流和草根教育革新运动。

@@ -24,6 +24,7 @@ related_concepts:
   - "[[Flow]]"
   - "[[Literature Search]]"
   - "[[Chain of Evidence]]"
+  - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Falsification]]"
   - "[[Preregistration]]"
@@ -82,7 +83,7 @@ updated: 2026-08-31
 > [!method-scope] 方法范围
 > - **研究对象** 定量元分析、定性系统综述与混合证据综合的[[Literature Search|文献检索]]流、筛选漏斗与方法学质量报告。
 > - **问题类型** 透明度规范、筛选可重复性、偏倚控制与[[Chain of Evidence|证据链]]追踪。
-> - **分析单位** 检索到的候选文献记录、全文本报告及最终纳入的初级研究集群。
+> - **[[Unit of Analysis|分析单位]]** 检索到的候选文献记录、全文本报告及最终纳入的初级研究集群。
 > - **输出形式** 27 项自查清单（PRISMA Checklist）、四阶段文献流转图（PRISMA Flow Diagram）及透明的排除标准明细。
 
 > [!citation-card]- 关键定义

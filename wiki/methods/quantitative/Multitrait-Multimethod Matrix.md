@@ -28,6 +28,7 @@ related_concepts:
   - "[[Construct Validity]]"
   - "[[Convergent and Discriminant Validity]]"
   - "[[Scale of Measurement]]"
+  - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Postpositivism]]"
   - "[[Falsification]]"
@@ -68,7 +69,7 @@ updated: 2026-08-21
 > [!method-scope] 方法范围
 > - **研究对象** 心理[[Scale of Measurement|测量量表]]、行为观察系统、多源评价工具（如教师评定 vs 学生自评 vs 档案记录），以及宏观证据清算机构（Clearinghouses）对干预项目的等级评定数据。
 > - **问题类型** 测量学工具的构念效度验证、方法效应（Method Effects）诊断、跨评价者一致性检验及政策评价体系的元评估（Meta-Evaluation）。
-> - **分析单位** 受试者个体得分、题目维度指标、或被多个独立机构共同评估的具名干预项目。
+> - **[[Unit of Analysis|分析单位]]** 受试者个体得分、题目维度指标、或被多个独立机构共同评估的具名干预项目。
 > - **输出形式** 相关系数矩阵、效度对角线判定比值、结构方程模型（[[Confirmatory Factor Analysis|CFA]]）特质与方法因子载荷、以及收敛/对立冲突率统计。
 
 > [!citation-card]- 关键定义

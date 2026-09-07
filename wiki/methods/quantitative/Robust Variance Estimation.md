@@ -27,6 +27,7 @@ related_concepts:
   - "[[Confidence Interval]]"
   - "[[Hypothesis]]"
   - "[[Variable]]"
+  - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Publication Bias]]"
   - "[[Sampling Error]]"
@@ -63,7 +64,7 @@ updated: 2026-08-25
 > [!method-scope] 方法范围
 > - **研究对象** 包含依赖效应量（Dependent Effect Sizes）、多重结果测量或多层嵌套结构的一阶元分析与二阶元分析数据。
 > - **问题类型** 评估综合效应量、检验调节[[Variable|变量]]效应、纠正因主要研究重复纳入或工作模型误设导致的标准误人为压缩。
-> - **分析单位** 效应量层级（Level 1）、一阶研究层级（Level 2）及元分析集群层级（Level 3 / Cluster）。
+> - **[[Unit of Analysis|分析单位]]** 效应量层级（Level 1）、一阶研究层级（Level 2）及元分析集群层级（Level 3 / Cluster）。
 > - **输出形式** 稳健标准误、渐近置信区间、基于霍特林 $T^2$ 近似的小样本调整 $F$ 检验统计量与元回归系数。
 
 > [!citation-card]- 关键定义

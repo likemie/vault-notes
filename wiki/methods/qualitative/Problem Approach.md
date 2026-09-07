@@ -24,6 +24,7 @@ related_concepts:
   - "[[Critical Dualism]]"
   - "[[Falsification]]"
   - "[[Reflective Thinking]]"
+  - "[[Unit of Analysis]]"
   - "[[Hypothesis]]"
   - "[[Epistemology]]"
   - "[[Ontology]]"
@@ -77,7 +78,7 @@ updated: 2026-09-08
 > [!method-scope] 方法范围
 > - **研究对象** 民族国家或跨国区域中面临的特定教育改革危机、政策争端与体制失调问题。
 > - **问题类型** 因果解释与前瞻性政策预测；回答在特定社会与文化情境下，实施某项教育政策假说将引发何种合理预期的后果与非意图制度阻滞。
-> - **分析单位** 教育政策方案、国家制度情境（初始条件）与价值规范模式。
+> - **[[Unit of Analysis|分析单位]]** 教育政策方案、国家制度情境（初始条件）与价值规范模式。
 > - **输出形式** 经由情境逻辑检验的可[[Falsification|证伪]]政策假说、预期后果推演清单、文化滞后病理诊断与政策干预建议。
 
 > [!citation-card] 霍姆斯论问题法中的可反驳假说与情境预测

@@ -19,6 +19,7 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Ontology]]"
   - "[[Classical Geopolitics]]"
+  - "[[Unit of Analysis]]"
   - "[[International Education]]"
   - "[[Methodological Statism]]"
   - "[[Methodological Educationism]]"
@@ -81,7 +82,7 @@ updated: 2026-07-11
 > |------|--------|----------------|----------------|
 > | **性质定位** | 认识框架 / 分析预设（如何看待世界） | 价值立场 / 意识形态（如何评价世界） | 国际关系领域的特定分析流派 |
 > | **核心机制** | 将民族国家视为现代社会的自然单位，忽视全球系统 | 强调单一国家身份的合法性，主张国家利益优先 | 以国家为唯一行动者，以领土边界划定“内/外” |
-> | **分析单位** | 民族国家（作为默认和唯一的空间边界） | 民族国家（作为偏好与认同的核心） | 民族国家（作为权力博弈的实体单元） |
+> | **[[Unit of Analysis\|分析单位]]** | 民族国家（作为默认和唯一的空间边界） | 民族国家（作为偏好与认同的核心） | 民族国家（作为权力博弈的实体单元） |
 > | **教育表现** | 以国家教育系统为唯一比较单位，遮蔽跨国治理 | 强调通过课程构建爱国意识与特定国族认同 | 将[[International Education\|国际教育]]交流与大学合作视为国家间博弈的延伸 |
 
 ---
@@ -89,7 +90,7 @@ updated: 2026-07-11
 ## 核心要素
 
 > [!feature] 核心要素
-> - **国家作为唯一分析单位** 将教育系统理解为只能在各自国家范畴内被理解，跨境活动被视为边缘性或衍生性的。[[Argument_Marginson_2025_ROE|Marginson, 2025, p. 8]]; [[Argument_Beech_2009_CE|Beech, 2009, p. 348]]
+> - **国家作为唯一[[Unit of Analysis|分析单位]]** 将教育系统理解为只能在各自国家范畴内被理解，跨境活动被视为边缘性或衍生性的。[[Argument_Marginson_2025_ROE|Marginson, 2025, p. 8]]; [[Argument_Beech_2009_CE|Beech, 2009, p. 348]]
 > - **遮蔽全球性现象** 系统性阻挡了对科学（就其[[Epistemology|认识论]]自主性而言）、生态和跨国网络等无法还原为国家属性的全球性现象的观察。
 > - **语言概念的潜在偏见** 比较教育常用的“跨国”（transnational，跨越国家）与“国际”（international，国家之间）均预设了国家作为活动基础；即使是“超国家”（supranational，国家之上）也仍是以民族国家为基准定位该空间。[[Argument_Beech_2009_CE|Beech, 2009, pp. 348–349]]
 > - **三主义的叠加效应** 在全球化世界中仅关注国家教育系统不仅是方法论民族主义，还会与[[Methodological Statism|方法论国家中心主义]]（methodological statism，将国家视为唯一行动者）和[[Methodological Educationism|方法论教育主义]]（methodological educationism，将教育等同于学校教育）叠加。[[Argument_Klerides_2023_CE|Klerides, 2023, p. 423]]

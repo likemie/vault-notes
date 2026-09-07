@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Pre-test and Post-test]]"
   - "[[Pre-test Sensitisation]]"
+  - "[[Unit of Analysis]]"
   - "[[Research Purpose]]"
   - "[[Internal Validity]]"
   - "[[Variable]]"
@@ -47,7 +48,7 @@ updated: 2026-07-13
 > [!method-scope] 方法范围
 > - **研究对象** 被随机分配至实验组和控制组的参与者——不进行前测。
 > - **问题类型** 干预是否产生了因果效应？（排除[[Pre-test Sensitisation|前测敏感化]]后的纯净估计）
-> - **分析单位** 个体参与者。
+> - **[[Unit of Analysis|分析单位]]** 个体参与者。
 > - **输出形式** 两组后测均值的比较。
 
 ## 方法定位

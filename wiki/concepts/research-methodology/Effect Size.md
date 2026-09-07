@@ -16,6 +16,7 @@ tags:
 - methodology
 - statistics
 related_concepts:
+  - "[[Unit of Analysis]]"
   - "[[Visible Learning]]"
   - "[[Critique of Effect Size]]"
   - "[[Statistical Significance]]"
@@ -31,7 +32,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Homework]]"
   - "[[Whole Language]]"
-  - "[[Bildung]]"
+  - "[[Paideia]]"
   - "[[Professional Judgment]]"
   - "[[Surface and Deep Learning]]"
   - "[[Causality]]"
@@ -99,7 +100,7 @@ updated: 2026-08-24
 ## 定义
 
 > [!def] 核心定义
-> 效应量（Effect Size）是量化干预措施效果的标准化统计指标，计算方式为干预组与对照组结果差异除以标准差，旨在使不同研究的结果可跨测量工具比较。效应量是[[Meta-analysis|元分析]]的核心分析单位，[[Gene Glass]] 于 1976 年将其确立为跨研究比较的标准化工具，[[John Hattie]] 的 *[[Visible Learning]]*（2009）以效应量排名教学干预使其进入全球教育政策话语。在[[EEF Teaching and Learning Toolkit]]中，效应量被进一步转换为"额外学习月数"（[[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 118]]）。
+> 效应量（Effect Size）是量化干预措施效果的标准化统计指标，计算方式为干预组与对照组结果差异除以标准差，旨在使不同研究的结果可跨测量工具比较。效应量是[[Meta-analysis|元分析]]的核心[[Unit of Analysis|分析单位]]，[[Gene Glass]] 于 1976 年将其确立为跨研究比较的标准化工具，[[John Hattie]] 的 *[[Visible Learning]]*（2009）以效应量排名教学干预使其进入全球教育政策话语。在[[EEF Teaching and Learning Toolkit]]中，效应量被进一步转换为"额外学习月数"（[[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 118]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 效应量通过除以标准差消除测量单位，回答"干预产生了多大差异"，而非仅回答"差异是否显著"。[[Lars Qvortrup]]（2015）强调其"相对效果"功能——可比较不同研究之间干预组与控制组的相对变化（[[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015, p.27]]）。
@@ -211,7 +212,7 @@ updated: 2026-08-24
 > - **发展效应区（$d = 0.0$–$0.15$）** 不上学也会发生的发展效应，如教师学科知识 $d = 0.09$
 > - **负面效应区（$d < 0$）** 负面效果，如留级 $d = -0.16$、看电视 $d = -0.18$
 >
-> 约一半因素的效应量超过 0.4。Hattie 据此将[[Whole Language|全语言]]的 $d = 0.06$ 解释为零实际影响。[[Argument_Hattie_2010_NZJES|Hattie (2010, p.89)]]事后澄清该截断值基于 800 多项元分析的经验平均值，是”创造一个故事”的叙事工具而非绝对阈值。关于户外教育 $d = 0.17$ 的不一致，Hattie 澄清这是罕见的”附加效应”案例：该 0.17 叠加在项目立即效应 $d = 0.60$ 之上，总效应达 0.77。在 2015 年 [[Bildung|Paideia]] 文章中，他进一步将 $d = 0.40$ 定位为所有可见教育影响的平均值——小学约 $d = 0.55$，中学约 $d = 0.25$——同一 $d$ 值必须结合学段和同类研究背景解释。他用网络学习三项元分析的平均 $d = 0.18$ 说明低于 0.40 的效果不必然无价值（Hattie, 2015, pp.11, 17）。
+> 约一半因素的效应量超过 0.4。Hattie 据此将[[Whole Language|全语言]]的 $d = 0.06$ 解释为零实际影响。[[Argument_Hattie_2010_NZJES|Hattie (2010, p.89)]]事后澄清该截断值基于 800 多项元分析的经验平均值，是”创造一个故事”的叙事工具而非绝对阈值。关于户外教育 $d = 0.17$ 的不一致，Hattie 澄清这是罕见的”附加效应”案例：该 0.17 叠加在项目立即效应 $d = 0.60$ 之上，总效应达 0.77。在 2015 年 [[Paideia]] 文章中，他进一步将 $d = 0.40$ 定位为所有可见教育影响的平均值——小学约 $d = 0.55$，中学约 $d = 0.25$——同一 $d$ 值必须结合学段和同类研究背景解释。他用网络学习三项元分析的平均 $d = 0.18$ 说明低于 0.40 的效果不必然无价值（Hattie, 2015, pp.11, 17）。
 
 > [!tip] 如何理解关节点
 > $d = 0.40$ 更像体检报告里的参考范围，而不是红绿灯。它能提醒教师这里值得追问，但不能替代[[Professional Judgment|专业判断]]。若一个中学阶段干预达到 $d = 0.30$，它可能低于《[[Visible Learning|可见的学习]]》总平均，却高于某些中学同类干预的常见水平；反之，一个 $d = 0.45$ 的项目若只测量短期记忆，也不能自动说明它促进了[[Surface and Deep Learning|深层学习]]。该关节点的争议详见 [[Critique of Effect Size]]。

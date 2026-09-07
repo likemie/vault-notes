@@ -16,6 +16,7 @@ tags:
   - mixed-methods
 related_concepts:
   - "[[Research Question]]"
+  - "[[Unit of Analysis]]"
   - "[[Sample Size Determination]]"
 related_theories: []
 related_methods:
@@ -40,7 +41,7 @@ updated: 2026-06-22
 > [!method-scope] 方法范围
 > - **研究对象** 同时需要定量和定性数据的同一[[Research Question|研究问题]]
 > - **问题类型** 需要两种数据类型相互印证或互补的研究
-> - **分析单位** 个体或群体，同时从两个独立样本中获取
+> - **[[Unit of Analysis|分析单位]]** 个体或群体，同时从两个独立样本中获取
 > - **输出形式** 并行的定量和定性结果
 
 ## 研究程序

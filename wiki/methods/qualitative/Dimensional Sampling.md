@@ -15,6 +15,7 @@ tags:
   - method/sampling
   - qualitative-research
 related_concepts:
+  - "[[Unit of Analysis]]"
   - "[[Sample Size Determination]]"
 related_theories: []
 related_methods:
@@ -38,7 +39,7 @@ updated: 2026-06-22
 > [!method-scope] 方法范围
 > - **研究对象** 可按多个维度交叉分类的总体
 > - **问题类型** 需要确保所有因素组合均有代表的探索性研究
-> - **分析单位** 个体，按多维交叉分类
+> - **[[Unit of Analysis|分析单位]]** 个体，按多维交叉分类
 > - **输出形式** 覆盖所有维度组合的非概率样本
 
 ## 研究程序

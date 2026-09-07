@@ -16,6 +16,7 @@ tags:
   - paradigm/qualitative
 related_concepts:
   - "[[Reflexivity]]"
+  - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Dialogue in Education]]"
   - "[[Research Question]]"
@@ -49,7 +50,7 @@ updated: 2026-07-11
 > [!method-scope] 方法范围
 > - **研究对象** 研究者自身的经历、身份、情感和实践，及其与更广泛的文化、社会和政治结构的关联。
 > - **问题类型** 适合回答连接个人与社会结构的诠释性问题，如"我的个人经历如何反映更大的社会文化结构"。
-> - **分析单位** 个人的生活经历、情感叙事、反思性文本。
+> - **[[Unit of Analysis|分析单位]]** 个人的生活经历、情感叙事、反思性文本。
 > - **输出形式** 个人叙事、反思性写作、文学作品式的学术文本。
 
 ## 方法定位

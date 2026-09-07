@@ -18,6 +18,7 @@ related_persons: []
 related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Personal Constructs]]"
+  - "[[Unit of Analysis]]"
   - "[[Construct]]"
   - "[[Epistemology]]"
   - "[[Ontology]]"
@@ -61,7 +62,7 @@ updated: 2026-08-01
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
-> | [[Personal Constructs]] | 概念 | 理论的基本分析单位：个体用于概念化日常世界的双极维度。 |
+> | [[Personal Constructs]] | 概念 | 理论的基本[[Unit of Analysis\|分析单位]]：个体用于概念化日常世界的双极维度。 |
 > | 元素（Elements） | 概念 | 被建构或理解的对象，包括事件（如"教学"）和心理对象（如"理想自我"）。 |
 > | 基本公设（Fundamental Postulate） | 命题 | 理论的首要前提：心理过程由预期事件的方式所引导。 |
 > | 双极性推论（Dichotomy Corollary） | 机制 | 构念本质上是双极的，可用两极形容词或短语定义——这是 [[Repertory Grid Technique]] 的技术基础。 |

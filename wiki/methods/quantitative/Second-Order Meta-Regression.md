@@ -28,6 +28,7 @@ related_concepts:
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
   - "[[Small Study Effects]]"
+  - "[[Unit of Analysis]]"
   - "[[Sampling Error]]"
   - "[[Standard Error]]"
   - "[[Confidence Interval]]"
@@ -69,7 +70,7 @@ updated: 2026-08-25
 > [!method-scope] 方法范围
 > - **研究对象** 嵌套于多个一阶元分析集群中的效应量矩阵及其关联的宏观[[Coding in Qualitative Research|编码]]协变量。
 > - **问题类型** 检验理论构念差异（如变量角色：[[Independent Variable|自变量]] vs [[Dependent Variable|结果变量]]）、研究设计特征（横断面 vs 纵向 vs 实验）、方法学质量等级（系统评价方法学质量评估工具 [[AMSTAR|A MeaSurement Tool to Assess systematic Reviews]], AMSTAR 高 vs 低）及[[Small Study Effects|小研究效应]]。
-> - **分析单位** Level 1 [[Sampling Error|抽样误差]]、Level 2 一阶元分析内效应量构念、Level 3 一阶元分析集群。
+> - **[[Unit of Analysis|分析单位]]** Level 1 [[Sampling Error|抽样误差]]、Level 2 一阶元分析内效应量构念、Level 3 一阶元分析集群。
 > - **输出形式** 经 RVE 稳健调整后的回归系数点估计 $\hat{\beta}_p$、稳健[[Standard Error|标准误]]、95% [[Confidence Interval|置信区间]]及基于 Hotelling $T^2$ 近似的宏观[[Interaction Effect|调节效应]] Wald $F$ 检验统计量与 $p$ 值。
 
 > [!citation-card]- 关键定义

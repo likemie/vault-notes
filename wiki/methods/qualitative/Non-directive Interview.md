@@ -17,6 +17,7 @@ tags:
   - data-collection
   - therapeutic
 related_concepts:
+  - "[[Unit of Analysis]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Epistemology]]"
   - "[[Dialogue in Education]]"
@@ -50,7 +51,7 @@ updated: 2026-07-22
 > [!method-scope] 方法范围
 > - **研究对象** 个体的深层态度、情感、潜意识需求和个人意义建构。
 > - **问题类型** 适合探索个体内在世界的深度、个人意义和情感体验。
-> - **分析单位** 个体受访者的自由叙述。
+> - **[[Unit of Analysis|分析单位]]** 个体受访者的自由叙述。
 > - **输出形式** 主观叙述[[Transcription in Qualitative Research|转录]]、情感和态度主题分析。
 
 ---

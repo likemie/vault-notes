@@ -17,6 +17,7 @@ tags:
   - discipline/education
   - discipline/organizational-studies
 related_concepts:
+  - "[[Unit of Analysis]]"
   - "[[Test-Based Accountability]]"
   - "[[Hypothesis]]"
   - "[[Learner-Centred Education]]"
@@ -62,7 +63,7 @@ updated: 2026-07-11
 
 > [!abstract]
 
-- Engeström, Y. (1987). *Learning by Expanding: An Activity-Theoretical Approach to Developmental Research*. Orienta-Konsultit. — 提出第二代[[Third Generation Activity Theory|活动理论]]，在 Vygotsky 主体-中介工具-客体三角基础上增加共同体、规则和劳动分工维度，将分析单元从个体行为扩展为集体活动系统([[Argument_Wang_2025_CE|Wang & McLaughlin, 2025, p.590]])。
+- Engeström, Y. (1987). *Learning by Expanding: An Activity-Theoretical Approach to Developmental Research*. Orienta-Konsultit. — 提出第二代[[Third Generation Activity Theory|活动理论]]，在 Vygotsky 主体-中介工具-客体三角基础上增加共同体、规则和劳动分工维度，将[[Unit of Analysis|分析单元]]从个体行为扩展为集体活动系统([[Argument_Wang_2025_CE|Wang & McLaughlin, 2025, p.590]])。
 - Engeström, Y. (2001). Expansive learning at work: Toward an activity theoretical reconceptualization. *Journal of Education and Work*, 14(1), 133–156. — 提出第三代活动理论，聚焦多个活动系统之间的互动与边界跨越，引入扩展性学习（expansive learning）和扩展性改造（expansive transformation）概念([[Argument_Wang_2025_CE|Wang & McLaughlin, 2025, pp.590-591]])。
 
 ---
@@ -74,7 +75,7 @@ updated: 2026-07-11
 
 ### 从个体中介到集体活动系统
 
-Engeström（1987）认识到人类行为与所处社群之间的复杂交互关系，在 Vygotsky 的第一代中介三角模型（主体—中介工具—客体）基础上增加了三个社会维度，将分析单元扩展为集体活动系统([[Argument_Wang_2025_CE|Wang & McLaughlin, 2025, p.590]])：
+Engeström（1987）认识到人类行为与所处社群之间的复杂交互关系，在 Vygotsky 的第一代中介三角模型（主体—中介工具—客体）基础上增加了三个社会维度，将[[Unit of Analysis|分析单元]]扩展为集体活动系统([[Argument_Wang_2025_CE|Wang & McLaughlin, 2025, p.590]])：
 
 - **主体（Subject）** 参与活动的个体或群体
 - **客体（Object）** 活动的目标
@@ -108,7 +109,7 @@ Engeström（2001）的第三代活动理论聚焦于跨越不同活动系统边
 ### 1987 — 第二代活动理论：集体活动系统
 
 - 核心内容：在 Vygotsky 的第一代中介三角基础上增加共同体、规则和劳动分工，将活动概念化为集体性的、对象导向的文化形构([[Argument_Wang_2025_CE|Wang & McLaughlin, 2025, p.590]])。
-- 思想发展：从解释个体认知[[Development Turn in Comparative Education|发展转向]]分析集体活动系统，分析单元从个体行为变为活动系统。
+- 思想发展：从解释个体认知[[Development Turn in Comparative Education|发展转向]]分析集体活动系统，[[Unit of Analysis|分析单元]]从个体行为变为活动系统。
 - 相关概念／理论：[[Third Generation Activity Theory]]
 
 ### 2001 — 第三代活动理论：多系统互动与扩展性改造

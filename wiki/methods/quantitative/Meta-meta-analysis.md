@@ -29,6 +29,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Effect Size]]"
   - "[[Sampling Error]]"
+  - "[[Unit of Analysis]]"
   - "[[Construct]]"
   - "[[Heterogeneity]]"
   - "[[Interaction Effect]]"
@@ -130,7 +131,7 @@ updated: 2026-08-25
 ## 定义
 
 > [!def] 方法定义
-> [[Meta-meta-analysis|元-元分析]]（Meta-[[Meta-analysis]]，在现代统计学中亦称二阶元分析 Second-Order Meta-Analysis, SOMA，早期[[Document|文献]]称 Mega-analysis 或 Meta-synthesis）指在更高统计层级上对多个已发表[[Meta-analysis|元分析]]（Meta-analysis）结果进行系统检索、方法学质控与定量合成的方法体系。与一阶元分析综合原始主要研究不同，二阶元分析以一阶元分析提取的汇总[[Effect Size|效应量]]（及其背后的[[Sampling Error|抽样误差]]结构）为分析单位，旨在估计宏观领域效应量基准、比较不同[[Construct|理论构念]]与干预维度的相对有效性，并识别全领域效应[[Heterogeneity|异质性]]的深层来源。[[Argument_Terhart_2011_JCS|(Terhart, 2011, p. 436)]]; [[Argument_Runco_2026_CRJ|(Runco et al., 2026, p. 2)]]
+> [[Meta-meta-analysis|元-元分析]]（Meta-[[Meta-analysis]]，在现代统计学中亦称二阶元分析 Second-Order Meta-Analysis, SOMA，早期[[Document|文献]]称 Mega-analysis 或 Meta-synthesis）指在更高统计层级上对多个已发表[[Meta-analysis|元分析]]（Meta-analysis）结果进行系统检索、方法学质控与定量合成的方法体系。与一阶元分析综合原始主要研究不同，二阶元分析以一阶元分析提取的汇总[[Effect Size|效应量]]（及其背后的[[Sampling Error|抽样误差]]结构）为[[Unit of Analysis|分析单位]]，旨在估计宏观领域效应量基准、比较不同[[Construct|理论构念]]与干预维度的相对有效性，并识别全领域效应[[Heterogeneity|异质性]]的深层来源。[[Argument_Terhart_2011_JCS|(Terhart, 2011, p. 436)]]; [[Argument_Runco_2026_CRJ|(Runco et al., 2026, p. 2)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 已发表或灰色文献中关于特定主题的系统评价与一阶元分析汇总效应量矩阵。
@@ -159,7 +160,7 @@ updated: 2026-08-25
 
 > [!concept-lens] [[Argument_Higgins_2016_RE|Higgins (2016)]] 的两种用法区分
 > [[Argument_Higgins_2016_RE|Higgins (2016, p. 41)]] 区分了二阶综合的两种截然不同的[[Research Purpose|研究目的]]：
-> 1. **方法学过程研究** 将元分析作为分析单位来研究元分析过程本身的统计特征、[[Publication Bias|发表偏倚]]与报告质量（如 Ioannidis & Trikalinos, 2007; Lipsey & Wilson, 1993）；
+> 1. **方法学过程研究** 将元分析作为[[Unit of Analysis|分析单位]]来研究元分析过程本身的统计特征、[[Publication Bias|发表偏倚]]与报告质量（如 Ioannidis & Trikalinos, 2007; Lipsey & Wilson, 1993）；
 > 2. **实[[Thematic Synthesis|质性主题综合]]** 试图将不同元分析合并为关于更广泛教育或心理主题的单一信息结论（如 Hattie, 1992; Marzano, 1998; [[Argument_Runco_2026_CRJ|Runco et al., 2026]]）。后者必须解决深刻的[[Construct|构念]]可比性与[[Heterogeneity|异质性]]挑战。
 
 > [!contrast-table] 二阶元分析三代方法谱系多维对比

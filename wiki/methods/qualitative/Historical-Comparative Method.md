@@ -21,6 +21,7 @@ tags:
   - epistemology
 related_concepts:
   - "[[Hypothesis]]"
+  - "[[Unit of Analysis]]"
   - "[[Analytic Framework]]"
   - "[[Epistemology]]"
   - "[[Positivism]]"
@@ -50,7 +51,6 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Crane Brinton]]"
-  - "[[Nicholas Hans]]"
   - "[[Marc-Antoine Jullien]]"
 related_facts: []
 related_arguments:
@@ -77,7 +77,7 @@ updated: 2026-09-07
 > [!method-scope] 方法范围
 > - **研究对象** 民族国家教育体系的建制沿革、教育法令条款、课程与师资制度演化、教育哲学与思想争鸣、跨国制度变迁轨迹。
 > - **问题类型** 历史成因与机制解释（Why and How）、制度发展动力探寻、理念演变脉络、跨国制度类型学建构。
-> - **分析单位** 民族国家、国家教育体系、历史分期、重要教育法案、改革机构与核心理论家文本。
+> - **[[Unit of Analysis|分析单位]]** 民族国家、国家教育体系、历史分期、重要教育法案、改革机构与核心理论家文本。
 > - **输出形式** 历史因果脉络谱系、制度演进动力模型、跨国对照[[Analytic Framework|分析框架]]、中程工作假设（Working Hypotheses）。
 
 > [!citation-card] 历史比较法从个案归纳工作假设的[[Epistemology|认识论]]辩护
@@ -129,7 +129,7 @@ updated: 2026-09-07
 > [!proc] 质性史料分析与因果推导程序
 > 1. **外在考证（External Criticism）** 严密核定历史[[Document|文献]]的原始载体、署名作者、撰写时间、版本源流与真伪完整性，排除伪造与年代错置。
 > 2. **内在考证（Internal Criticism）** 深度考掘文本字里行间的真实语义、修辞策略与作者意图，结合时代背景辨析立法陈述背后的隐秘利益博弈与阶级诉求。
-> 3. **因素结构化分解（Factorial Analysis）** 依据[[Nicholas Hans|汉斯]]（Hans, 1949）三维框架，将纷繁史料归纳为自然因素（语言、地理、种族）、宗教因素（天主教、新教、东正教）与世俗动因（人文主义、民族主义、民主平等）。
+> 3. **因素结构化分解（Factorial Analysis）** 依据汉斯（Hans, 1949）三维框架，将纷繁史料归纳为自然因素（语言、地理、种族）、宗教因素（天主教、新教、东正教）与世俗动因（人文主义、民族主义、民主平等）。
 > 4. **跨国矩阵对照与类型学提炼** 建立国别-历史时段-制度维度的跨国对照矩阵，提炼理想类型（如双轨制精英教育 vs 单轨制大众教育）。
 > 5. **非普适探索性假说生成与检验** 从具体历史形态中归纳中程假说（Limited Working [[Hypothesis|hypotheses]]），并将其运用于新案例的阐释与双向修正。
 

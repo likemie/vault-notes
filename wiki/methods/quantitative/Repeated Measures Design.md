@@ -19,6 +19,7 @@ tags:
   - quantitative-research
   - design-type
 related_concepts:
+  - "[[Unit of Analysis]]"
   - "[[Effect Size]]"
   - "[[Variable]]"
   - "[[Order Effects]]"
@@ -49,7 +50,7 @@ updated: 2026-07-13
 > [!method-scope] 方法范围
 > - **研究对象** 同一组参与者，依次接受全部实验条件。
 > - **问题类型** 不同干预条件之间的效应是否存在差异？（以个体为自身控制）
-> - **分析单位** 个体在多种条件下的重复测量数据。
+> - **[[Unit of Analysis|分析单位]]** 个体在多种条件下的重复测量数据。
 > - **输出形式** 条件间比较（重复测量 [[Analysis of Variance|ANOVA]] 或配对 t 检验），[[Effect Size|效应量]]估计。
 
 ## 方法定位

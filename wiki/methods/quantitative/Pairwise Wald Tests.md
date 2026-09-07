@@ -26,6 +26,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Construct]]"
   - "[[Interaction Effect]]"
+  - "[[Unit of Analysis]]"
   - "[[Mind Mapping]]"
   - "[[Argument Mapping]]"
   - "[[Concept Mapping]]"
@@ -69,7 +70,7 @@ updated: 2026-08-25
 > [!method-scope] 方法范围
 > - **研究对象** 元分析中包含三个及以上水平的分类调节[[Variable|变量]]（如不同教学干预形态、学段划分、测量[[Construct|构念]]层级）的亚组效应量估计值与方差协方差矩阵。
 > - **问题类型** 事后比较与级差推断问题：在确定整体分类[[Interaction Effect|调节效应]]显著后，具体哪两组之间存在统计学显著的优势或劣势？
-> - **分析单位** 调节变量的亚组效应量估计量（Subgroup Pooled Estimates）。
+> - **[[Unit of Analysis|分析单位]]** 调节变量的亚组效应量估计量（Subgroup Pooled Estimates）。
 > - **输出形式** 两两比较的 Wald 统计量 $W$（或 $Z$ 值）、自由度 $df$、双尾 $p$ 值以及事后多重比较校正后的显著性判定。
 
 > [!citation-card]- 关键定义

@@ -25,6 +25,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Informed Consent]]"
   - "[[Research Question]]"
+  - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Reliability]]"
   - "[[Covert Research]]"
@@ -70,7 +71,7 @@ updated: 2026-08-11
 > [!method-scope] 方法范围
 > - **研究对象** 照片与静态图像、影片与动态图像、器物以及它们所处的社会与文化语境。
 > - **问题类型** 描述性、解释性与揭示性[[Research Question|研究问题]]，尤其适合捕捉即时情境、非言语行为、情绪氛围与物质环境的隐性信息。
-> - **分析单位** 单幅图像、图像序列、录像片段、器物组合、场景与互动。
+> - **[[Unit of Analysis|分析单位]]** 单幅图像、图像序列、录像片段、器物组合、场景与互动。
 > - **输出形式** [[Coding in Qualitative Research|编码]]与主题、[[Content Analysis|内容分析]]、扎根式范畴、图像的多重解读与叙事。
 
 > [!citation-card]- 方法定位的经典表述

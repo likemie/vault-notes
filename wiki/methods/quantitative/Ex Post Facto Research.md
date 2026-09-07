@@ -23,6 +23,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Causality]]"
   - "[[Dependent Variable]]"
+  - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Internal Validity]]"
   - "[[External Validity]]"
@@ -66,7 +67,7 @@ updated: 2026-07-13
 > [!method-scope] 方法范围
 > - **研究对象** 已发生的自然事件、条件或处理对后续结果的影响，如家庭暴力对学生成绩的影响、教师培训质量对教学效能的影响。
 > - **问题类型** 探索因果关系或关联关系，适合[[Dependent Variable|因变量]]已发生、自变量无法操纵的情境；回答"什么因素与某结果有关"以及"可能的原因是什么"。
-> - **分析单位** 个体、群体、组织；通常以组别（处理组/对照组，或按因变量高低分组）为比较单位。
+> - **[[Unit of Analysis|分析单位]]** 个体、群体、组织；通常以组别（处理组/对照组，或按因变量高低分组）为比较单位。
 > - **输出形式** 组间差异比较、相关关系、可能的因果推断（试探性而非确定性）。
 
 > [!citation-card]- Kerlinger（1970）的定义

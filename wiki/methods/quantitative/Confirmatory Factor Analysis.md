@@ -16,6 +16,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Construct Validity]]"
   - "[[Construct]]"
+  - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Epistemological Beliefs]]"
   - "[[Hypothesis]]"
@@ -57,7 +58,7 @@ updated: 2026-08-29
 > [!method-scope] 方法范围
 > - **研究对象** 多维度的量表测量数据、外显指标体系。
 > - **问题类型** 回答预设的测量模型是否具有良好的[[Construct Validity|结构效度]]（[[Construct]] Validity）。
-> - **分析单位** 个体。
+> - **[[Unit of Analysis|分析单位]]** 个体。
 > - **输出形式** 因子载荷估计值、模型整体拟合指数（如 $\chi^2$, [[Model Fit Indices in SEM and CFA|RMSEA]], CFI, SRMR 等）。
 
 ---

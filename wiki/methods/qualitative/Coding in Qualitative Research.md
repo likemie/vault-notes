@@ -19,8 +19,12 @@ related_concepts:
   - "[[Transcription in Qualitative Research]]"
   - "[[Document]]"
   - "[[Qualitative Codebook]]"
-  - "[[Visual Data]]"
+  - "[[Unit of Analysis]]"
   - "[[Variable]]"
+  - "[[Paradigm]]"
+  - "[[Story Line]]"
+  - "[[Working Memory]]"
+  - "[[Visual Data]]"
   - "[[Hypothesis]]"
   - "[[Chain of Evidence]]"
   - "[[Data Reduction and Data Display]]"
@@ -31,6 +35,7 @@ related_concepts:
   - "[[Emergence]]"
 related_theories: []
 related_methods:
+  - "[[Grounded Theory]]"
   - "[[Qualitative Research]]"
   - "[[Qualitative Computer Software]]"
   - "[[Template Analysis]]"
@@ -39,6 +44,7 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29]]"
   - "[[Argument_Wang_2025_CE]]"
@@ -95,12 +101,12 @@ updated: '2026-09-08'
 
 ### Strauss & Corbin 的四类编码程序
 
-> [!proc] 扎根理论取向的四类编码操作
+> [!proc] [[Grounded Theory|扎根理论]]取向的四类编码操作
 > 施特劳斯（Anselm Strauss）与科宾（Juliet Corbin）提出从初级描述向高阶理论抽象跃迁的四类编码流程，各类型并非严格按时间线性发生，而是处于动态迭代与循环往复之中（Strauss & Corbin, 1990；Flick, 2009；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al., 2011, pp. 560–562]]）：
 > 
-> 1. **开放编码（Open coding）** 研究者对文本逐行、逐句或逐段赋予描述性标签，打破数据形成微观分析单元。开放编码旨在生成范畴并界定其属性（properties，如范畴的特征与质地）与维度（dimensions，属性在连续统上的具体位置；例如“注视”范畴包含频率、范围、强度、持续时间等维度）。
-> 2. **分析编码（Analytic coding）** 超越单纯的描述性归纳，提炼具有推论性与解释力的分析标签。例如将“实验”“控制变量”“测试”等描述性活动编码综合提炼为“像科学家一样工作”，或将教师“忽略破坏”“不予回应”等行为提炼为“教师放弃/否认”。
-> 3. **主轴编码（Axial coding）** 在开放编码完成碎化后，将数据围绕核心轴心范畴重新组合，建立范畴内部子群以及不同范畴之间的联结。主轴编码依据经典的六要素范式模型展开：
+> 1. **开放编码（Open coding）** 研究者对文本逐行、逐句或逐段赋予描述性标签，打破数据形成微观[[Unit of Analysis|分析单元]]。开放编码旨在生成范畴并界定其属性（properties，如范畴的特征与质地）与维度（dimensions，属性在连续统上的具体位置；例如“注视”范畴包含频率、范围、强度、持续时间等维度）。
+> 2. **分析编码（Analytic coding）** 超越单纯的描述性归纳，提炼具有推论性与解释力的分析标签。例如将“实验”“控制[[Variable|变量]]”“测试”等描述性活动编码综合提炼为“像科学家一样工作”，或将教师“忽略破坏”“不予回应”等行为提炼为“教师放弃/否认”。
+> 3. **主轴编码（Axial coding）** 在开放编码完成碎化后，将数据围绕核心轴心范畴重新组合，建立范畴内部子群以及不同范畴之间的联结。主轴编码依据经典的六要素[[Paradigm|范式]]模型展开：
 >    - **因果条件（Causal conditions）** 导致该现象发生的事件、活动或行为。
 >    - **现象（Phenomenon）** 作为研究核心的主题事件、观念或行为。
 >    - **情境脉络（Context）** 该现象所处的具体属性与条件集合。
@@ -113,7 +119,7 @@ updated: '2026-09-08'
 
 > [!tip] 编码层级与认知管理
 > - **包容层级（Hierarchies of subsumption）** 描述性初级编码依附于分析编码与主轴编码，最终归入选择性核心范畴，构成树状层级。吉布斯（Graham Gibbs）建议编码层级应保持“浅层”（shallow）而非过度嵌套的“深层”（deep），以维持分析结构的清晰度（Gibbs, 2007；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al., 2011, p. 562]]）。
-> - **工作记忆容量** 迈尔斯与休伯曼指出，研究者在阅读数据时工作记忆最多可同时承载约 90 个编码（Miles & Huberman, 1994）。由于前期编码容易影响后期判断，编码并非一次性工作，须在多轮循环阅读中合并冗余编码、细化过于笼统的标签，确保编码的一致性与穷尽性（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al., 2011, p. 560]]）。
+> - **[[Working Memory|工作记忆]]容量** 迈尔斯与休伯曼指出，研究者在阅读数据时工作记忆最多可同时承载约 90 个编码（Miles & Huberman, 1994）。由于前期编码容易影响后期判断，编码并非一次性工作，须在多轮循环阅读中合并冗余编码、细化过于笼统的标签，确保编码的一致性与穷尽性（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al., 2011, p. 560]]）。
 > - **表格化跨案例比较** 将个体案例置于行、议题置于列进行数据表格化排列，能够直观对比同质性、差异性、模式与极端反常案例，促进持续比较的有效落实（Gibbs, 2007；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al., 2011, pp. 562–563]]）。
 
 ### 视觉图像作为编码

@@ -17,6 +17,7 @@ tags:
   - method/action-research
   - group-facilitation
 related_concepts:
+  - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
 related_methods:
   - "[[Action Research]]"
@@ -41,7 +42,7 @@ updated: 2026-07-19
 > [!method-scope] 方法范围
 > - **研究对象** 群体对特定问题、陈述或议题的观点、反思和优先级判断。
 > - **问题类型** 识别群体关切的重要议题、建立群体共识、确定优先级、组织多元意见。
-> - **分析单位** 群体层面（个体回应汇总为群体结构）。
+> - **[[Unit of Analysis|分析单位]]** 群体层面（个体回应汇总为群体结构）。
 > - **输出形式** 按优先级排列的议题聚类和群体共识。
 
 ---

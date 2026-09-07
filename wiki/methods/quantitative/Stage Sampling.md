@@ -16,6 +16,7 @@ tags:
   - method/sampling
   - quantitative-research
 related_concepts:
+  - "[[Unit of Analysis]]"
   - "[[Sampling Error]]"
   - "[[Standard Error]]"
 related_theories: []
@@ -40,7 +41,7 @@ updated: 2026-06-22
 > [!method-scope] 方法范围
 > - **研究对象** 嵌套在多层组织中的个体（如学生嵌套于班级、班级嵌套于学校）
 > - **问题类型** 需要从大规模、多层总体中抽取概率样本的研究
-> - **分析单位** 各阶段单位不同（学校、班级、个体）
+> - **[[Unit of Analysis|分析单位]]** 各阶段单位不同（学校、班级、个体）
 > - **输出形式** 多阶段概率样本
 
 ## 研究程序

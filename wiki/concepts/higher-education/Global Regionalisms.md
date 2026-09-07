@@ -17,6 +17,7 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Internationalization of Higher Education]]"
+  - "[[Unit of Analysis]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Epistemology]]"
   - "[[Regulatory Regionalism]]"
@@ -46,7 +47,7 @@ updated: '2026-05-18'
 
 > [!example] 概念辨析
 > - vs [[Internationalization of Higher Education|高等教育国际化]]：国际化侧重院校层面的跨境流动与合作；区域主义则关注作为政治经济项目的区域整合框架如何将高等教育纳入其战略议程
-> - vs 比较教育：比较教育以国别为分析单位；区域主义以超越民族国家的区域为分析单位，关注国家间相互依存和空间-地理关系
+> - vs 比较教育：比较教育以国别为[[Unit of Analysis|分析单位]]；区域主义以超越民族国家的区域为分析单位，关注国家间相互依存和空间-地理关系
 >
 
 ## 概念演变

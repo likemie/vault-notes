@@ -23,6 +23,7 @@ related_concepts:
   - "[[Convergent and Discriminant Validity]]"
   - "[[Scale of Measurement]]"
   - "[[Construct]]"
+  - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Questionnaire]]"
   - "[[Reliability]]"
@@ -56,7 +57,7 @@ updated: 2026-08-29
 > [!method-scope] 方法范围
 > - **研究对象** 验证性因子分析（CFA）模型中潜变量与其所属各观测题项之间的标准化因子载荷矩阵与残差方差。
 > - **问题类型** 评估多题项[[Scale of Measurement|测量量表]]的[[Construct|构念]]收敛效度强度、检验不同潜变量因子之间的区分有效性。
-> - **分析单位** 潜变量（Latent Factor）构念层级。
+> - **[[Unit of Analysis|分析单位]]** 潜变量（Latent Factor）构念层级。
 > - **输出形式** 介于 0 到 1 之间的变异抽取比例系数（通常以两位小数报告，如 $\text{AVE} = .54$）。
 
 > [!citation-card]- 关键定义

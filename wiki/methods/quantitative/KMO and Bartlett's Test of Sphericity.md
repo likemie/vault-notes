@@ -22,6 +22,7 @@ tags:
   - scale-development/validation
 related_concepts:
   - "[[Variable]]"
+  - "[[Unit of Analysis]]"
   - "[[Sample Size Determination]]"
   - "[[Null Hypothesis]]"
   - "[[Epistemological Beliefs]]"
@@ -57,7 +58,7 @@ updated: 2026-08-29
 > [!method-scope] 方法范围
 > - **研究对象** 包含 3 个及以上连续或有序分类题项的相关矩阵（Correlation Matrix $\mathbf{R}$）。
 > - **问题类型** 数据降维前置合法性检验、公因子提取前提诊断。
-> - **分析单位** 测验题项系统与变量相关矩阵。
+> - **[[Unit of Analysis|分析单位]]** 测验题项系统与变量相关矩阵。
 > - **输出形式** KMO 全局系数与单题 MSA 系数（Measure of Sampling Adequacy，取值 0 到 1）、Bartlett 检验近似卡方值 $\chi^2$、自由度 $df$ 与 $p$ 显著性水平。
 
 ---

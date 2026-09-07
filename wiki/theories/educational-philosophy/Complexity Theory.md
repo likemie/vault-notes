@@ -18,6 +18,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Positivism]]"
   - "[[Teacher-as-Researcher]]"
+  - "[[Unit of Analysis]]"
   - "[[Hypothesis]]"
   - "[[Value Neutrality]]"
   - "[[Feedback]]"
@@ -86,7 +87,7 @@ updated: 2026-07-19
 ### 方法论推论：研究设计必须适应复杂性
 
 > [!claim] 复杂性研究需要新方法论
-> 复杂性理论倡导[[Case Study|案例研究]]方法论、叙事、[[Action Research|行动研究]]和[[Participatory Research|参与式研究]]——通过尽可能多的参与者的眼睛来看待情境；需要追踪多元因果性、多元视角和多元效应；主张[[Teacher-as-Researcher|教师即研究者]]运动以及内外部研究者的共生关系（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, Ch. 1]]）。分析单位应从个体或机构转向**网络或生态系统（Capra, 1996, p. 301）**。
+> 复杂性理论倡导[[Case Study|案例研究]]方法论、叙事、[[Action Research|行动研究]]和[[Participatory Research|参与式研究]]——通过尽可能多的参与者的眼睛来看待情境；需要追踪多元因果性、多元视角和多元效应；主张[[Teacher-as-Researcher|教师即研究者]]运动以及内外部研究者的共生关系（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, Ch. 1]]）。[[Unit of Analysis|分析单位]]应从个体或机构转向**网络或生态系统（Capra, 1996, p. 301）**。
 
 > [!axioms] 复杂性研究的五条公理（Kuhn, 2007, pp. 172–173）
 > - **动态实在** 实在是动态的、[[Emergence|涌现]]的、自组织的，需要多重视角来把握。

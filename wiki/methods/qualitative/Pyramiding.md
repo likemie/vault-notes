@@ -22,6 +22,7 @@ related_methods:
   - "[[Repertory Grid Technique]]"
 related_concepts:
   - "[[Construct]]"
+  - "[[Unit of Analysis]]"
   - "[[Champ]]"
   - "[[Epistemology]]"
   - "[[Personal Constructs]]"
@@ -47,7 +48,7 @@ updated: 2026-08-01
 > [!method-scope] 方法范围
 > - **研究对象** 单一个人（元素）的特征描述及其构念极点的横向展开。
 > - **问题类型** 描述性、质性：丰富对一个人的特征刻画，而非揭示上属—从属层级。
-> - **分析单位** 个体；围绕单个元素的构念集合。
+> - **[[Unit of Analysis|分析单位]]** 个体；围绕单个元素的构念集合。
 > - **输出形式** 1→2→4→8 的构念极点金字塔；质性特征描述。
 
 > [!citation-card]- 关键定义

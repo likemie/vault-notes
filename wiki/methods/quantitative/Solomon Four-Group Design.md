@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Pre-test and Post-test]]"
   - "[[Interaction Effect]]"
+  - "[[Unit of Analysis]]"
   - "[[Research Purpose]]"
   - "[[Order Effects]]"
   - "[[Pre-test Sensitisation]]"
@@ -49,7 +50,7 @@ updated: 2026-07-13
 > [!method-scope] 方法范围
 > - **研究对象** 被随机分配至四个组的受试者——两组接受前测、两组不接受；两组接受处理、两组不接受。
 > - **问题类型** 前测是否改变了处理效应？前测本身是否改变后测表现？前测与处理之间是否存在[[Interaction Effect|交互效应]]？
-> - **分析单位** 个体参与者，随机分配至四个条件之一。
+> - **[[Unit of Analysis|分析单位]]** 个体参与者，随机分配至四个条件之一。
 > - **输出形式** 2 × 2 [[Analysis of Variance|方差分析]]结果：前测主效应、处理主效应、前测×处理交互效应。
 
 ## 方法定位

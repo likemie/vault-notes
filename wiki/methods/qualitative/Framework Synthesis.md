@@ -21,6 +21,7 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Emergence]]"
   - "[[Document]]"
+  - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Positivism]]"
   - "[[Research Utilization]]"
@@ -66,7 +67,7 @@ updated: 2026-08-26
 > [!method-scope] 方法范围
 > - **研究对象** 已发表的实证研究[[Document|文献]]，可涵盖定量、质性与[[Mixed Methods Research|混合方法]]设计；纳入研究的结果章节与部分讨论章节。
 > - **问题类型** 适合回答描述性、解释性与整合性问题，尤其是"现象如何被框定""什么条件促进或阻碍某个过程"这类需要理论透镜的问题。
-> - **分析单位** 单项研究（study-level）为基本分析单位，研究内的数据段为编码单位；不同层级的主题是综合输出单位。
+> - **[[Unit of Analysis|分析单位]]** 单项研究（study-level）为基本分析单位，研究内的数据段为编码单位；不同层级的主题是综合输出单位。
 > - **输出形式** 映射到先验框架的结构化主题、跨框架层级的横切机制，以及修订后的框架或理论模型。
 
 > [!citation-card]- 框架综合的定义

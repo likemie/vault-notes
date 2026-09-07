@@ -28,6 +28,7 @@ related_concepts:
   - "[[Content Validity]]"
   - "[[Construct Validity]]"
   - "[[Reliability]]"
+  - "[[Unit of Analysis]]"
   - "[[Document]]"
   - "[[Item Analysis]]"
   - "[[Convergent and Discriminant Validity]]"
@@ -94,7 +95,7 @@ updated: 2026-08-29
 > [!method-scope] 方法范围
 > - **研究对象** 无法直接物理测量的个体心理特质、专业素养、认知图式、情感态度、行为意向或组织环境感知。
 > - **问题类型** 理论构念的操作化测量、潜在因子维度结构探索与确证、跨群体测量不变性识别、心理测量学属性综合评定。
-> - **分析单位** 目标群体个体的逐题标准化作答数据。
+> - **[[Unit of Analysis|分析单位]]** 目标群体个体的逐题标准化作答数据。
 > - **输出形式** 标准化量表手册（包含题项清单、作答等级与计分指南）、探索性因子载荷矩阵、验证性结构方程模型拟合参数、[[Average Variance Extracted|平均方差抽取量]]（AVE）与[[Composite Reliability|组合信度]]（CR）效度矩阵、跨组测量等值性阶梯报告及常模参照基准。
 
 > [!citation-card]- 关键定义

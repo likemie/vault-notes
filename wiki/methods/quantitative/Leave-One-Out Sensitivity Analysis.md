@@ -24,6 +24,7 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Confidence Interval]]"
   - "[[Heterogeneity]]"
+  - "[[Unit of Analysis]]"
   - "[[Forest Plot]]"
   - "[[Epistemology]]"
   - "[[Statistical Significance]]"
@@ -65,7 +66,7 @@ updated: 2026-08-25
 > [!method-scope] 方法范围
 > - **研究对象** 元分析数据集中的 $k$ 项独立初级研究或效应量及其方差矩阵。
 > - **问题类型** 检验汇总统计推断的稳定性，诊断潜在的极端离群值（Outliers）与高影响力研究（Influential Studies）。
-> - **分析单位** 包含 $k$ 个效应量的初级研究集合。
+> - **[[Unit of Analysis|分析单位]]** 包含 $k$ 个效应量的初级研究集合。
 > - **输出形式** $k$ 次循环迭代的加权合并效应量序列、重估 95% 置信区间、重估异质性参数（$\tau_{(-i)}^2, I_{(-i)}^2$）及留一法[[Forest Plot|森林图]]。
 
 > [!citation-card]- 关键定义

@@ -26,6 +26,7 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Standard Error]]"
   - "[[Study Population and Sample]]"
+  - "[[Unit of Analysis]]"
   - "[[Hypothesis]]"
   - "[[Epistemology]]"
   - "[[Critical Thinking]]"
@@ -60,7 +61,7 @@ updated: 2026-08-24
 > [!method-scope] 方法范围
 > - **研究对象** 元分析中纳入的各独立研究效应量点估计值及其抽样方差/[[Standard Error|标准误]]。
 > - **问题类型** 检验效应量大小是否与[[Study Population and Sample|研究样本]]量/估计精度存在单调相关，以识别选择性发表偏倚。
-> - **分析单位** 包含 $k$ 个效应量的元分析或[[Meta-meta-analysis|二阶元分析]]数据集。
+> - **[[Unit of Analysis|分析单位]]** 包含 $k$ 个效应量的元分析或[[Meta-meta-analysis|二阶元分析]]数据集。
 > - **输出形式** Kendall's tau 秩相关系数值、检验统计量 $Z$ 值与双尾显著性 $p$ 值。
 
 > [!citation-card]- 关键定义

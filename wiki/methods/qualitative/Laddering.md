@@ -25,6 +25,7 @@ related_methods:
   - "[[Pyramiding]]"
 related_concepts:
   - "[[Construct]]"
+  - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Questionnaire]]"
   - "[[Research Translation]]"
@@ -51,7 +52,7 @@ updated: 2026-08-01
 > [!method-scope] 方法范围
 > - **研究对象** 个体建构系统中的上属—从属构念层级，以及构念背后的个人价值与意义。
 > - **问题类型** 描述、比较个体如何通过蕴含关系组织构念系统；解释"某构念为何重要"。
-> - **分析单位** 个体；构念之间的蕴含链条。
+> - **[[Unit of Analysis|分析单位]]** 个体；构念之间的蕴含链条。
 > - **输出形式** 逐级上属的构念链、层级图、消费者价值层级（means-end chains）。
 
 > [!citation-card]- 关键定义

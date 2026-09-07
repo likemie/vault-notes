@@ -29,6 +29,7 @@ related_concepts:
   - "[[Semantic Differential]]"
   - "[[Questionnaire]]"
   - "[[Variable]]"
+  - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Hypothesis]]"
   - "[[Item Analysis]]"
@@ -68,7 +69,7 @@ updated: 2026-08-29
 > [!method-scope] 方法范围
 > - **研究对象** 采用李克特多级计分（[[Likert Scale]]）、[[Semantic Differential|语义差异量表]]或连续评分的多题项[[Questionnaire|问卷]]与心理测验。
 > - **问题类型** 测量工具内部一致性检验、量表纯化过程中的题项筛选、潜[[Variable|变量]]测量误差估计。
-> - **分析单位** 测验题项（Items）与被试作答反应向量。
+> - **[[Unit of Analysis|分析单位]]** 测验题项（Items）与被试作答反应向量。
 > - **输出形式** $\alpha$ 信度系数值（介于 0 到 1 之间）、标准化 $\alpha$ 值、删除某题项后的 $\alpha$ 变化值（$\alpha$ if item deleted）及矫正题总相关（Corrected Item-Total Correlation, CITC）。
 
 > [!citation-card]- 关键定义

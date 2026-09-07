@@ -21,6 +21,7 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Document]]"
   - "[[Publication Bias]]"
+  - "[[Unit of Analysis]]"
   - "[[Statistical Significance]]"
   - "[[Epistemology]]"
   - "[[Positivism]]"
@@ -93,7 +94,7 @@ updated: '2026-08-31'
 > [!method-scope] 方法范围
 > - **研究对象** 已发表的实证研究[[Document|文献]]，包括[[Quantitative Research|定量研究]]、[[Qualitative Research|质性研究]]和[[Mixed Methods Research|混合方法研究]]；也可纳入灰色文献和未发表研究以减少[[Publication Bias|发表偏倚]]。
 > - **问题类型** 适合回答评价性问题——"什么有效？""对谁有效？""在什么条件下有效？"——也可处理描述性和比较性问题。
-> - **分析单位** 单项研究（study-level）为基本分析单位；也可按干预类型、人群特征或研究设计进行亚组分析。
+> - **[[Unit of Analysis|分析单位]]** 单项研究（study-level）为基本分析单位；也可按干预类型、人群特征或研究设计进行亚组分析。
 > - **输出形式** 系统综述报告——包含纳入研究清单、质量评估、综合结论和政策建议；定量综合时输出[[Effect Size|效应量]]汇总。
 
 > [!citation-card]- Evans & Benefield (2001) 的系统综述定义

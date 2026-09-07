@@ -13,6 +13,7 @@ tags: [method/qualitative, data-collection, paradigm/interpretive, theme/languag
 related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Social Episodes]]"
+  - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Reflexivity]]"
   - "[[Internal Consistency]]"
@@ -53,7 +54,7 @@ updated: 2026-07-23
 > [!method-scope] 方法范围
 > - **研究对象** 参与者在[[Social Episodes|社会片段]]中的言语说明，包括其意图、信念、对规则的认识，以及伴随行动的言语。
 > - **问题类型** 解释参与者如何理解其社会世界、如何赋予行动以意义、以及社会互动如何通过语言被建构和协商。
-> - **分析单位** 个体陈述、社会片段、对话序列、录音访谈。
+> - **[[Unit of Analysis|分析单位]]** 个体陈述、社会片段、对话序列、录音访谈。
 > - **输出形式** 对陈述的再陈述（accounts of accounts）——即研究者对参与者言语说明的分析性重构，包括主题、解释图式和意义系统。
 
 > [!citation-card]- 关键定义

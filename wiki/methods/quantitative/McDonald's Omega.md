@@ -26,6 +26,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Variable]]"
   - "[[Likert Scale]]"
+  - "[[Unit of Analysis]]"
   - "[[Construct]]"
   - "[[Epistemology]]"
   - "[[Paradigm]]"
@@ -61,7 +62,7 @@ updated: 2026-08-29
 > [!method-scope] 方法范围
 > - **研究对象** 包含连续、有序分类（[[Likert Scale|李克特量表]]）或多分题项的单维量表、多维量表及双因子模型（Bifactor Models）。
 > - **问题类型** 异质载荷条件下的精确信度估计、双因子模型中全局一般因子解释比例的提炼。
-> - **分析单位** 测验题项与潜在[[Construct|构念]]因子。
+> - **[[Unit of Analysis|分析单位]]** 测验题项与潜在[[Construct|构念]]因子。
 > - **输出形式** 
 >   - **总信度 $\omega_{\text{total}}$（或 $\omega_t$）** 所有公因子（含全局因子与特定因子）解释的总变异比例。
 >   - **分层信度 $\omega_{\text{hierarchical}}$（或 $\omega_h$）** 控制特定分维度因子后，全局一般因子（General Factor）单独解释的方差比例。

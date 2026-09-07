@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Hypothesis]]"
   - "[[Operationalization]]"
+  - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Inter-Rater Reliability]]"
   - "[[Rating Scale]]"
@@ -55,7 +56,7 @@ updated: 2026-07-23
 > [!method-scope] 方法范围
 > - **研究对象** 可被[[Operationalization|操作化]]定义且可直接观察的外显行为、事件和互动。
 > - **问题类型** 适合[[Hypothesis|假设]]验证性问题（"行为X在情境A中是否比情境B中更频繁？"）；频率、发生率、模式和趋势的描述。
-> - **分析单位** 个体的独立行为、互动回合、时间片段、事件。
+> - **[[Unit of Analysis|分析单位]]** 个体的独立行为、互动回合、时间片段、事件。
 > - **输出形式** 数值数据（频率、百分比、计数），可用于统计分析和跨情境比较。
 
 > [!citation-card]- Simpson & Tuson 的结构化观察要点

@@ -11,6 +11,7 @@ method_related_stars: "⭐"
 method_related_color: "#dbeafe"
 tags: [method/qualitative, data-collection, theme/narrative]
 related_concepts:
+  - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Reliability]]"
   - "[[Causality]]"
@@ -42,7 +43,7 @@ updated: 2026-07-23
 > [!method-scope] 方法范围
 > - **研究对象** 参与者讲述的个人故事、口述历史、传记性叙事。
 > - **问题类型** 实践者如何理解和叙述自身经验；叙事如何建构和传达意义。
-> - **分析单位** 个体故事、叙事文本、主题片段。
+> - **[[Unit of Analysis|分析单位]]** 个体故事、叙事文本、主题片段。
 > - **输出形式** 经过分类、[[Coding in Qualitative Research|编码]]和主题化后的[[Narrative Analysis|叙事分析]]。
 
 ---

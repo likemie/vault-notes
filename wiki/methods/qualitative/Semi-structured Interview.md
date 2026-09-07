@@ -17,6 +17,7 @@ tags:
   - data-collection
   - interview
 related_concepts:
+  - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Fitness for Purpose]]"
   - "[[Emergence]]"
@@ -57,7 +58,7 @@ updated: 2026-07-22
 > [!method-scope] 方法范围
 > - **研究对象** 个体对特定现象的经验、观点、态度和意义建构。
 > - **问题类型** 适合描述性和探索性问题——需要系统比较跨个案数据但又希望保留情境性追问的灵活性。
-> - **分析单位** 个体受访者或小组。
+> - **[[Unit of Analysis|分析单位]]** 个体受访者或小组。
 > - **输出形式** 主题分析、[[Coding in Qualitative Research|编码]]类别、比较矩阵。
 
 ---

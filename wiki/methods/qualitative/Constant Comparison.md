@@ -19,6 +19,7 @@ tags:
   - data-analysis
   - grounded-theory
 related_concepts:
+  - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Emergence]]"
   - "[[Analytic Induction]]"
@@ -54,7 +55,7 @@ updated: 2026-08-17
 > [!method-scope] 方法范围
 > - **研究对象** 正在分析的质性数据（访谈、观察、文档等）及其生成的类别与[[Coding in Qualitative Research|编码]]。
 > - **问题类型** 适合归纳生成类别、检验类别边界、修正理论框架的质性分析。
-> - **分析单位** 数据片段、编码、类别、负面案例。
+> - **[[Unit of Analysis|分析单位]]** 数据片段、编码、类别、负面案例。
 > - **输出形式** 修正后的类别体系、契合数据的理论。
 
 ## 方法定位

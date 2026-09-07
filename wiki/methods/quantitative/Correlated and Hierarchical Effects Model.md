@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Effect Size]]"
   - "[[Heterogeneity]]"
+  - "[[Unit of Analysis]]"
   - "[[Sampling Error]]"
   - "[[Presence]]"
   - "[[Hypothesis]]"
@@ -56,7 +57,7 @@ updated: 2026-08-24
 > [!method-scope] 方法范围
 > - **研究对象** 包含多重测量指标、多亚组比较、纵向追踪或跨元分析嵌套依赖的一阶与二阶元分析数据矩阵。
 > - **问题类型** 同时存在元分析内效应量相关与元分析间效应[[Heterogeneity|异质性]]时的多水平方差分解与加权最小二乘拟合。
-> - **分析单位** Level 1 [[Sampling Error|抽样误差]]、Level 2 研究内变异、Level 3 集群/元分析间真实效应变异。
+> - **[[Unit of Analysis|分析单位]]** Level 1 [[Sampling Error|抽样误差]]、Level 2 研究内变异、Level 3 集群/元分析间真实效应变异。
 > - **输出形式** 层级方差分量估计值（$\tau_3^2, \tau_2^2$）、异质性比率（$I_{(3)}^2, I_{(2)}^2$）及加权逆方差协方差工作矩阵 $\mathbf{V}$。
 
 > [!citation-card]- 关键定义

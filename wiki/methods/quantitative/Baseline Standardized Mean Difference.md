@@ -27,6 +27,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Counterfactual]]"
   - "[[Effective Teaching]]"
+  - "[[Unit of Analysis]]"
   - "[[Sample Size Determination]]"
   - "[[Heterogeneity]]"
   - "[[Epistemology]]"
@@ -83,7 +84,7 @@ updated: 2026-09-04
 > [!method-scope] 方法范围
 > - **研究对象** 实验与准实验初级研究中基线期（干预前）的客观学科测试成绩、标准化量表得分或关键人口学协变量。
 > - **问题类型** 因果识别前置假定检验、非[[Random Assignment|随机分配]]选择偏倚诊断与元分析初级证据筛选。
-> - **分析单位** 初级研究中处理组与对照组的前测[[Sample Size Determination|样本量]]（$n_T, n_C$）、前测均值（$\bar{X}_T, \bar{X}_C$）与前测标准差（$SD_T, SD_C$）。
+> - **[[Unit of Analysis|分析单位]]** 初级研究中处理组与对照组的前测[[Sample Size Determination|样本量]]（$n_T, n_C$）、前测均值（$\bar{X}_T, \bar{X}_C$）与前测标准差（$SD_T, SD_C$）。
 > - **输出形式** 标准化均数差点估计值 $d_{\text{baseline}}$（或小样本校正值 $g_{\text{baseline}}$）及对应的三级等效性评定结论（完全等效、需调整后采纳、不达标剔除）。
 
 > [!citation-card]- 关键定义与排除规程

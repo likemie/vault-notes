@@ -25,6 +25,7 @@ related_concepts:
   - "[[Questionnaire]]"
   - "[[Professional Judgment]]"
   - "[[Construct]]"
+  - "[[Unit of Analysis]]"
   - "[[Rating Scale]]"
   - "[[Item Analysis]]"
 related_theories: []
@@ -53,7 +54,7 @@ updated: 2026-08-28
 > [!method-scope] 方法范围
 > - **研究对象** 量表编制第一阶段生成的初始题池（Item Pool）及其对应的理论维度定义。
 > - **问题类型** 评估题项对目标[[Construct|构念]]内涵的代表性、相关性、表述准确性与语言适切度。
-> - **分析单位** 题项（Item）与全量表（Scale）层级。
+> - **[[Unit of Analysis|分析单位]]** 题项（Item）与全量表（Scale）层级。
 > - **输出形式** 介于 0 到 1 之间的指数系数（如 $\text{I-CVI} = .89$）或介于 -1 到 1 之间的 CVR 比率。
 
 > [!citation-card]- 关键定义

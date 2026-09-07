@@ -24,6 +24,7 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Heterogeneity]]"
   - "[[Standard Error]]"
+  - "[[Unit of Analysis]]"
   - "[[Confidence Interval]]"
   - "[[Between-Study Variance]]"
   - "[[Epistemology]]"
@@ -71,7 +72,7 @@ updated: 2026-08-24
 > [!method-scope] 方法范围
 > - **研究对象** 包含连续型或二分类效应量（如 Cohen's $d$、Hedges' $g$、Pearson $r$、比值比 Odds Ratio、相对危险度 Relative Risk）及其相应方差或[[Standard Error|标准误]]的数据集。
 > - **问题类型** 用于解答多个独立实证研究或一阶元分析效应量的定量聚合、精度加权合成与全领域平均效应估计问题。
-> - **分析单位** 独立的原始实证研究（在一阶元分析中）或独立的一阶元分析效应量（在[[Meta-meta-analysis|二阶元分析]]中）。
+> - **[[Unit of Analysis|分析单位]]** 独立的原始实证研究（在一阶元分析中）或独立的一阶元分析效应量（在[[Meta-meta-analysis|二阶元分析]]中）。
 > - **输出形式** 逆方差加权平均效应量点估计值、合成标准误、95% [[Confidence Interval|置信区间]]、总异质性统计量（$Q$ 值与 $I^2$）以及[[Between-Study Variance|研究间方差]] $\tau^2$。
 
 > [!citation-card]- 经典界定与方法学规范

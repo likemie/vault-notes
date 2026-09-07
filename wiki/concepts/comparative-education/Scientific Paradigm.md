@@ -34,6 +34,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Post-structuralism]]"
   - "[[Geopolitics of Knowledge]]"
+  - "[[Unit of Analysis]]"
   - "[[Intangible Spiritual Forces]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
@@ -109,7 +110,7 @@ updated: 2026-09-07
 > |---|---|---|---|
 > | **[[Epistemology\|认识论]]基础** | 欧陆人文学科、历史主义与道德改良论（p. 59） | 逻辑经验主义、结构功能主义、批判[[Rationalism in International Relations\|理性主义]]（pp. 61–63） | [[Post-structuralism\|后结构主义]]、后殖民主义、[[Critical Theory\|批判理论]]与解释学（p. 69） |
 > | **核心研究目标** | 阐释深层民族文化精神与教育历史动因 | 发现跨国制度共变规律或建立政策预测假说 | 解构权力宰制话语、绘制[[Geopolitics of Knowledge\|知识地缘政治]]地图 |
-> | **主要分析单位** | 民族国家、时代精神、[[Intangible Spiritual Forces\|不可捉摸的精神力量]] | 抽象[[Independent Variable\|自变量]]/[[Dependent Variable\|因变量]]、跨国指标、制度情境 | 话语、多尺度空间、边缘群体经验、转移[[Shape-Shifting\|形变]] |
+> | **主要[[Unit of Analysis\|分析单位]]** | 民族国家、时代精神、[[Intangible Spiritual Forces\|不可捉摸的精神力量]] | 抽象[[Independent Variable\|自变量]]/[[Dependent Variable\|因变量]]、跨国指标、制度情境 | 话语、多尺度空间、边缘群体经验、转移[[Shape-Shifting\|形变]] |
 > | **核心方法路径** | 历史[[Document\|文献]]考据、哲学阐释与直觉内省 | [[Variable\|变量]][[Operationalization\|操作化]]、统计共变检验、假说-演绎[[Problem Approach\|问题法]] | 谱系学考掘、批判性[[Discourse Analysis\|话语分析]]、多视角并置 |
 > | **代表性学者** | Sadler, Kandel, Hans, Ulich | Bereday, Anderson, Foster, Noah, Eckstein, Holmes | Cowen, Schriewer, Steiner-Khamsi, Arnove |
 > | **与权力的关系** | 人文主义改良与[[National Character\|国民性格]]培养 | 直接结盟：充当国家五年计划与技术援助的合法化工具（p. 68） | 保持批判反思距离，警惕技术官僚治理与霸权借用 |

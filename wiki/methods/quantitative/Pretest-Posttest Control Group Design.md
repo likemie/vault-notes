@@ -19,6 +19,7 @@ tags:
   - design-type
 related_concepts:
   - "[[Pre-test and Post-test]]"
+  - "[[Unit of Analysis]]"
   - "[[Effect Size]]"
   - "[[Threats to Internal Validity]]"
   - "[[Internal Validity]]"
@@ -53,7 +54,7 @@ updated: 2026-07-13
 > [!method-scope] 方法范围
 > - **研究对象** 被随机分配至实验组和控制组的参与者。
 > - **问题类型** 干预是否产生了因果效应？效应的大小和方向如何？
-> - **分析单位** 个体参与者，随机分配至两个条件之一。
+> - **[[Unit of Analysis|分析单位]]** 个体参与者，随机分配至两个条件之一。
 > - **输出形式** 实验组与控制组前后测差异的比较，通常以独立样本 t 检验或[[Effect Size|效应量]]报告。
 
 ## 方法定位

@@ -17,6 +17,7 @@ tags:
   - method/spatial-analysis
   - theme/systems-theory
 related_concepts:
+  - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Postpositivism]]"
   - "[[Content Validity]]"
@@ -51,7 +52,7 @@ updated: 2026-06-14
 > [!method-scope] 方法范围
 > - **研究对象** 由两个或多个相互关联子系统构成的复杂系统，例如教育、科技、人才三系统。
 > - **问题类型** 适合回答综合测度、时空比较、区域分异和协同状态评价问题。
-> - **分析单位** 地区、年份、城市、省份、国家、政策单元或其他可构建指标体系的空间/组织单元。
+> - **[[Unit of Analysis|分析单位]]** 地区、年份、城市、省份、国家、政策单元或其他可构建指标体系的空间/组织单元。
 > - **输出形式** 子系统发展水平 $e_j$、耦合度 $C$、综合发展指数 $T$、协调度 $D$、等级分类和时空格局。
 
 > [!citation-card]- 关键定义

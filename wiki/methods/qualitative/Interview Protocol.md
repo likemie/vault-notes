@@ -18,6 +18,7 @@ tags:
 related_concepts:
   - "[[Operationalization]]"
   - "[[Research Question]]"
+  - "[[Unit of Analysis]]"
   - "[[Probes]]"
   - "[[Variable]]"
   - "[[Epistemology]]"
@@ -70,7 +71,7 @@ updated: 2026-07-22
 > [!method-scope] 方法范围
 > - **研究对象** 访谈问题的措辞、顺序、格式和追问策略，以及它们如何共同构成一份完整的数据收集工具。
 > - **问题类型** 适合需要跨个案系统比较的[[Qualitative Research|质性研究]]；多位访谈者参与时确保一致性；需要将抽象[[Research Question|研究问题]]转化为具体操作问题。
-> - **分析单位** 单次访谈为基本单位；跨个案比较时以所有访谈的集合为单位。
+> - **[[Unit of Analysis|分析单位]]** 单次访谈为基本单位；跨个案比较时以所有访谈的集合为单位。
 > - **输出形式** 一份书面协议文档，包含引言、内容问题、[[Probes|追问提示]]和结束说明；[[Pilot Testing|预测试]]后可能包含修订版本。
 
 > [!citation-card]- 关键定义

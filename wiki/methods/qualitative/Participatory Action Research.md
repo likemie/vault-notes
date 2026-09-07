@@ -18,6 +18,7 @@ tags:
   - theme/critical-theory
   - paradigm/critical
 related_concepts:
+  - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Value Neutrality]]"
   - "[[Conscientization]]"
@@ -55,7 +56,7 @@ updated: 2026-07-19
 > [!method-scope] 方法范围
 > - **研究对象** 权力不平等、社会排斥、教育不平等、性别和种族歧视、决策中的无权状态、学生对社会再生产课程的不满、教育精英主义等基层关切的变革议题。
 > - **问题类型** 回答"如何改变不平等的权力结构""如何赋权边缘群体"之类的问题。
-> - **分析单位** 社区、群体、机构中被边缘化的参与者和权力关系。
+> - **[[Unit of Analysis|分析单位]]** 社区、群体、机构中被边缘化的参与者和权力关系。
 > - **输出形式** 实践变革、意识提升和政治行动；通常以合作撰写的报告或行动方案呈现。
 
 > [!quote] Grundy 论 PAR 的民主本质

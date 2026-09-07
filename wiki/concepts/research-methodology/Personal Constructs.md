@@ -16,6 +16,7 @@ tags:
   - concept/construct
   - theme/personality
 related_concepts:
+  - "[[Unit of Analysis]]"
   - "[[Construct]]"
   - "[[Operationalization]]"
   - "[[Governmentality]]"
@@ -42,7 +43,7 @@ updated: 2026-08-01
 ## 定义
 
 > [!def] 核心定义
-> 个人建构是个体用于概念化日常生活中各个方面的维度（dimensions）。它们是 [[Personal Construct Theory|个人建构理论]] 中的基本分析单位——个体通过建构系统来预测事件、预演情境，并在行为之前进行心理模拟。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25|(pp. 4–5)]]
+> 个人建构是个体用于概念化日常生活中各个方面的维度（dimensions）。它们是 [[Personal Construct Theory|个人建构理论]] 中的基本[[Unit of Analysis|分析单位]]——个体通过建构系统来预测事件、预演情境，并在行为之前进行心理模拟。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25|(pp. 4–5)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 个人建构是每个人独有的意义维度。它们不是客观存在于世界中的分类，而是个体用来理解、预测和组织其经验的主观工具。

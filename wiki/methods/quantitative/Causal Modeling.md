@@ -22,6 +22,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Variable]]"
   - "[[Hypothesis]]"
+  - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Evaluation Research]]"
   - "[[Statistical Significance]]"
@@ -69,7 +70,7 @@ updated: 2026-08-29
 > [!method-scope] 方法范围
 > - **研究对象**[[Variable|变量]]之间的因果路径和结构关系，通常基于理论[[Hypothesis|假设]]构建模型。
 > - **问题类型** 适合检验理论驱动的因果结构——"这些变量之间的因果方向、中介路径和效应强度是怎样的？"可用于分析直接效应、间接效应和总效应。
-> - **分析单位** 个体、群体或组织层面的观察数据。
+> - **[[Unit of Analysis|分析单位]]** 个体、群体或组织层面的观察数据。
 > - **输出形式** 路径系数、[[Model Fit Indices in SEM and CFA|模型拟合指数]]、直接效应与间接效应估计、总效应分解。
 
 > [!citation-card]- 关键定义
@@ -199,7 +200,7 @@ updated: 2026-08-29
 > |------|------|------|
 > | [[Causality]] | 核心对象 | 因果性是因果建模所[[Operationalization\|操作化]]的核心概念，时间顺序是构建因果模型的基本前提 |
 > | [[Exogenous and Endogenous Variables]] | 结构基础 | 外生和内生[[Variable\|变量]]的区分是因果模型结构的基础，递归与非递归模型的选择决定了因果方向的设定 |
-> | [[Variable]] | 分析单位 | 因果模型中的基本分析单位，包括[[Independent Variable\|自变量]]、[[Dependent Variable\|因变量]]、中介变量和调节变量 |
+> | [[Variable]] | [[Unit of Analysis\|分析单位]] | 因果模型中的基本分析单位，包括[[Independent Variable\|自变量]]、[[Dependent Variable\|因变量]]、中介变量和调节变量 |
 > | [[Screening Off]] | 辅助工具 | Pearl 的图形方法可用于识别因果模型中应被筛选掉的因素（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04]]） |
 
 > [!ref-table] 相关方法

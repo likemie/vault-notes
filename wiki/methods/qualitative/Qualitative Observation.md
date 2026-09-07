@@ -17,6 +17,7 @@ tags:
   - method/qualitative
   - research-methodology
 related_concepts:
+  - "[[Unit of Analysis]]"
   - "[[Reflexivity]]"
   - "[[Epistemology]]"
   - "[[Reliability]]"
@@ -65,7 +66,7 @@ updated: '2026-06-19'
 > [!method-scope] 方法范围
 > - **研究对象** 特定教育现场或社会场景中个体与群体的言语、行为、互动以及物理环境。
 > - **问题类型** 适合回答描述性、探索性或生成因果机制的质性问题。
-> - **分析单位** 个体（如校长、教师、学生）、课堂、现场活动或微观互动事件。
+> - **[[Unit of Analysis|分析单位]]** 个体（如校长、教师、学生）、课堂、现场活动或微观互动事件。
 > - **输出形式** 描述性笔记、[[Reflexivity|反思性]]笔记、田野日志、互动[[Coding in Qualitative Research|编码]]与深入的质性个案叙事。
 
 > [!citation-card]- 关键定义

@@ -19,6 +19,7 @@ tags:
   - consensus-building
 related_concepts:
   - "[[Questionnaire]]"
+  - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Attrition]]"
 related_methods:
@@ -42,7 +43,7 @@ updated: 2026-07-19
 > [!method-scope] 方法范围
 > - **研究对象** 群体对特定问题或陈述的观点、共识和分歧。
 > - **问题类型** 识别群体共识和异议区域、多轮迭代达成优先排序。
-> - **分析单位** 群体层面（个体回应经多轮迭代汇总为群体结构）。
+> - **[[Unit of Analysis|分析单位]]** 群体层面（个体回应经多轮迭代汇总为群体结构）。
 > - **输出形式** 明确的共识和异议区域；按优先级排列的议题。
 
 ---

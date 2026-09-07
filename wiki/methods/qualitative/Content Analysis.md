@@ -16,14 +16,22 @@ tags:
   - research-methodology
   - data-analysis
 related_concepts:
-  - "[[Hypothesis]]"
-  - "[[Research Purpose]]"
   - "[[Transcription in Qualitative Research]]"
+  - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
+  - "[[Professional Judgment]]"
   - "[[Reflexivity]]"
+  - "[[Rich and Thick Description]]"
+  - "[[Research Purpose]]"
   - "[[Questionnaire]]"
+  - "[[Domain Analysis]]"
   - "[[Memos]]"
   - "[[Research Question]]"
+  - "[[Dialogue in Education]]"
+  - "[[Document]]"
+  - "[[Reliability]]"
+  - "[[Construct]]"
+  - "[[Hypothesis]]"
   - "[[Presence]]"
   - "[[Incubation]]"
   - "[[Emergence]]"
@@ -32,11 +40,16 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Qualitative Research]]"
   - "[[Mixed Methods Research]]"
+  - "[[Qualitative Computer Software]]"
+  - "[[Non-probability Sampling]]"
+  - "[[Narrative Analysis]]"
   - "[[Constant Comparison]]"
   - "[[Typological Analysis]]"
 related_persons: []
 related_facts: []
 related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29]]"
 confidence: medium
 status: draft
@@ -59,37 +72,37 @@ updated: '2026-09-08'
 > [!method-scope] 方法范围
 > - **研究对象** 开放题回答、访谈[[Transcription in Qualitative Research|转录]]、政策文本、报纸、教材、网络内容等各类书面与传播材料。
 > - **核心特征** 具备非介入性（unobtrusive，观察而不受被观察者反作用干扰）与公开可验证性（数据以文本恒久形式存在）。
-> - **分析单位** 词、短语、句子、段落、主题、类别或整份文本（详见[[Unit of Analysis|分析单位]]）。
+> - **[[Unit of Analysis|分析单位]]** 词、短语、句子、段落、主题、类别或整份文本（详见[[Unit of Analysis|分析单位]]）。
 > - **语言事实四分类** 归因（attributions）、社会关系（social relationships）、公共行为（public behaviours）与制度现实（institutional realities）（Krippendorff, 2004；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al., 2011, p. 564]]）。
 
 ## 方法定位
 
 > [!method-position] [[Epistemology|认识论]]与方法定位
-> - **知识观** 文本没有脱离读者的客观自明属性，具有多重含义并承载多重解读；分析既依赖文本语言特征，也依赖研究者置于特定话语与情境中的专业判断。
+> - **知识观** 文本没有脱离读者的客观自明属性，具有多重含义并承载多重解读；分析既依赖文本语言特征，也依赖研究者置于特定话语与情境中的[[Professional Judgment|专业判断]]。
 > - **研究者角色** 研究者是内容分析的核心工具，其预设、兴趣与判断影响类别设定和[[Coding in Qualitative Research|编码]]；须以[[Reflexivity|反身性]]审视自身对数据的影响。
-> - **量质融合取向** 内容分析并非纯粹质性分析的替代物，最高质量的内容分析研究通常兼顾量化统计（频次、相关、矩阵）与质性深描（Weber, 1990；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al., 2011, p. 564]]）。
+> - **量质融合取向** 内容分析并非纯粹质性分析的替代物，最高质量的内容分析研究通常兼顾量化统计（频次、相关、矩阵）与质性[[Rich and Thick Description|深描]]（Weber, 1990；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al., 2011, p. 564]]）。
 > - **有效性标准** 类别设定是否忠实于[[Research Purpose|研究目的]]、是否穷尽且互斥；编码是否一致；解释是否经得起反例检验。
 
 > [!method-stack] 方法层级
 > - **研究设计** [[Qualitative Research|质性研究]]、[[Mixed Methods Research|混合方法]]中的文本分析环节。
 > - **数据收集** 开放题[[Questionnaire|问卷]]、访谈、文档、媒体内容等。
 > - **分析方法** [[Coding in Qualitative Research|编码]]、范畴化、[[Domain Analysis|领域分析]]、频次计数（enumeration）、交叉分析。
-> - **辅助技术** 备忘录（[[Memos]]）、反例检验、持续比较、统计软件与 CAQDAS 检索。
+> - **辅助技术** 备忘录（[[Memos]]）、反例检验、持续比较、统计软件与 [[Qualitative Computer Software|CAQDAS]] 检索。
 
 ## 研究程序
 
 > [!proc] [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]]的内容分析11步操作规程
-> 1. **明确研究问题（Define research questions）** 由待检验理论或探索主题引申出待分析的核心问题。
-> 2. **界定文本总体（Define population）** 确定文本分析域（如报纸、政策文件、访谈转录稿、教材、网络对话等）。
-> 3. **选取文本样本（Define sample）** 采用概率或非概率抽样；处理多层级材料时关注嵌套记录单位（nested recording units）。
-> 4. **辨识文献生成情境（Define generation context）** 考察材料来源、生成意图、记录真实性、作者是否愿意且能够道出真相。
-> 5. **界定[[Unit of Analysis|分析单位]]（Define units of analysis）** 划分抽样单位、记录/编码单位与语境单位，兼顾语义效度与信度权衡。
+> 1. **明确[[Research Question|研究问题]]（Define research questions）** 由待检验理论或探索主题引申出待分析的核心问题。
+> 2. **界定文本总体（Define population）** 确定文本分析域（如报纸、政策文件、访谈[[Transcription in Qualitative Research|转录]]稿、教材、网络[[Dialogue in Education|对话]]等）。
+> 3. **选取文本样本（Define sample）** 采用概率或[[Non-probability Sampling|非概率抽样]]；处理多层级材料时关注嵌套记录单位（nested recording units）。
+> 4. **辨识[[Document|文献]]生成情境（Define generation context）** 考察材料来源、生成意图、记录真实性、作者是否愿意且能够道出真相。
+> 5. **界定[[Unit of Analysis|分析单位]]（Define units of analysis）** 划分抽样单位、记录/[[Coding in Qualitative Research|编码]]单位与语境单位，兼顾语义效度与[[Reliability|信度]]权衡。
 > 6. **拟定分析编码（Decide codes）** 反复研读材料，制定描述性或推论性编码系统。
-> 7. **构建分析范畴（Construct categories）** 开展[[Domain Analysis|领域分析]]，确立穷尽且互斥的范畴框架（Spradley, 1979）。
+> 7. **构建分析范畴（[[Construct]] categories）** 开展[[Domain Analysis|领域分析]]，确立穷尽且互斥的范畴框架（Spradley, 1979）。
 > 8. **实施编码与范畴化（Conduct coding and categorizing）** 决定针对“存在”还是“频次”编码；结合 Mayring 的三类进路展开。
 > 9. **执行数据分析（Conduct data analysis）** 统计词频与范畴频次，运用交叉表、相关、回归、因子分析、树状图等统计工具或其质性等效物建立概念网络。
 > 10. **撰写阶段性总结（Summarizing）** 识别关键因素与核心范畴，实现初步的理论提炼（Patton, 1980）。
-> 11. **进行推论与理论建构（Speculative inferences）** 从描述迈向推论，提出工作假设并整合为理论。
+> 11. **进行推论与理论建构（Speculative inferences）** 从描述迈向推论，提出工作[[Hypothesis|假设]]并整合为理论。
 
 > [!taxonomy] Mayring 的三种内容分析进路
 > - **归纳性总结内容分析（Summarizing content analysis）** 在保留核心实质内容的前提下，通过抽象与删减把文本浓缩为易于管理的分析范畴，减少上下文细节。
@@ -118,17 +131,17 @@ updated: '2026-09-08'
 
 > [!method-fit] 适用判断
 > - **适合使用** 需要系统处理大量开放文本、识别主题与频次、检验预设[[Hypothesis|假设]]或由质性数据转化结构化推论的研究。
-> - **谨慎使用** 需要结合复杂文本语境与微妙修辞而非仅统计频次时，应辅以持续比较或叙事分析。
+> - **谨慎使用** 需要结合复杂文本语境与微妙修辞而非仅统计频次时，应辅以持续比较或[[Narrative Analysis|叙事分析]]。
 > - **不适合使用** 纯统计频次而忽视深层语义、或仅凭内容分析关联断言强因果的情形。
 
 ## 局限性
 
-> [!method-limits] 方法局限与信度威胁
-> - **有意与无意证据（Witting and unwitting evidence）** 文本通常为非研究目的而作，包含撰写者未觉察的偏好、偏向或特定意图，需推断撰写背景（Robson, 1993；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al., 2011, p. 573]]）。
+> [!method-limits] 方法局限与[[Reliability|信度]]威胁
+> - **有意与无意证据（Witting and unwitting evidence）** 文本通常为非[[Research Purpose|研究目的]]而作，包含撰写者未觉察的偏好、偏向或特定意图，需推断撰写背景（Robson, 1993；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al., 2011, p. 573]]）。
 > - **同形多义词与多价性（Homographs and polysemy）** 单词在不同语境下具有多重词义（例如 school 可指建筑、学派、流派、训育或鱼群），脱离上下文的自动化检索极易误读（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al., 2011, p. 574]]）。
-> - **聚合尺度与信度反比规律** 词、短语、单句与完整文档具有较高编码一致性，而不完整段落因主观推论介入过深，信度显著降低（Weber, 1990, p. 39）。
+> - **聚合尺度与信度反比规律** 词、短语、单句与完整文档具有较高[[Coding in Qualitative Research|编码]]一致性，而不完整段落因主观推论介入过深，信度显著降低（Weber, 1990, p. 39）。
 > - **频次不等同于重要性** 某些核心禁忌或敏感议题可能仅被提及一次甚至完全回避，单纯计数会低估未说出者的意义权重。
-> - **预设范畴与归纳涌现的论辩** 埃齐（Douglas Ezzy）批评预先设定的范畴使内容分析局限于检验已有理论；但迈林与科恩等人强调，初期演绎预设并不排斥后期的归纳涌现，分析者可在循环复核中依经验数据持续重构范畴（Ezzy, 2002；Mayring, 2004；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al., 2011, p. 575]]）。
+> - **预设范畴与归纳[[Emergence|涌现]]的论辩** 埃齐（Douglas Ezzy）批评预先设定的范畴使内容分析局限于检验已有理论；但迈林与科恩等人强调，初期演绎预设并不排斥后期的归纳涌现，分析者可在循环复核中依经验数据持续重构范畴（Ezzy, 2002；Mayring, 2004；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al., 2011, p. 575]]）。
 
 ## 相关理论与方法
 
@@ -146,4 +159,4 @@ updated: '2026-09-08'
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|Cohen et al. (2011, Ch. 29, pp. 544–555)]] — 系统整理 Brenner 等人的内容分析步骤与类别化要求。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al. (2011, Ch. 30, pp. 563–575)]] — 系统构建内容分析的11步标准操作规程与 Mayring 三分类型学，通过教师工作压力案例展示从质性提取、编码归类、频次统计到理论推论的完整分析过程。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al. (2011, Ch. 30, pp. 563–575)]] — 系统构建内容分析的11步标准操作规程与 Mayring 三分类型学，通过教师工作压力案例展示从质性提取、[[Coding in Qualitative Research|编码]]归类、频次统计到理论推论的完整分析过程。

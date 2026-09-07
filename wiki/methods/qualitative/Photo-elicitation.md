@@ -20,6 +20,7 @@ tags:
   - theme/interview
 related_concepts:
   - "[[Research Question]]"
+  - "[[Unit of Analysis]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Epistemology]]"
   - "[[Informed Consent]]"
@@ -57,7 +58,7 @@ updated: 2026-08-11
 > [!method-scope] 方法范围
 > - **研究对象** 受访者对照片的讲述、照片背后的故事及其引发的记忆与反思。
 > - **问题类型** 揭示性、描述性与解释性[[Research Question|研究问题]]，尤其适合与儿童等难以用语言直接沟通的[[Group Interview|群体访谈]]。
-> - **分析单位** 访谈文本、照片及其叙事、照片内容与受访者解释之间的对照。
+> - **[[Unit of Analysis|分析单位]]** 访谈文本、照片及其叙事、照片内容与受访者解释之间的对照。
 > - **输出形式** 访谈[[Transcription in Qualitative Research|转录]]文本、主题、[[Coding in Qualitative Research|编码]]与照片支撑的叙事。
 
 > [!citation-card]- Harper 的定义

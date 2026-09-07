@@ -11,6 +11,7 @@ related_color: "#e5e7eb"
 tags: [concept/sociological, paradigm/interpretive, theme/micro-sociology]
 related_concepts:
   - "[[Interpretive Paradigm]]"
+  - "[[Unit of Analysis]]"
 related_methods:
   - "[[Ethogenic Approach]]"
   - "[[Account Gathering]]"
@@ -55,7 +56,7 @@ updated: 2026-07-23
 
 ### 命题一　社会片段是研究社会行为的基本自然单位，不能还原为个体行为的简单加总
 
-> [!concept-lens] 分析单位的不可还原性
+> [!concept-lens] [[Unit of Analysis|分析单位]]的不可还原性
 > 这类命题围绕社会片段的整体性展开：片段作为分析单位具有自身特性，不能通过分解为孤立行为来理解。
 
 > [!claim] Harré（1978）
@@ -77,4 +78,4 @@ updated: 2026-07-23
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]] — 本章以社会片段为人因方法的基本分析单位，系统阐述[[Account Gathering|陈述收集]]与分析程序，并通过Heath（1982）的Trackton社区研究展示如何在社会片段层面分析课堂沟通。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]] — 本章以社会片段为人因方法的基本[[Unit of Analysis|分析单位]]，系统阐述[[Account Gathering|陈述收集]]与分析程序，并通过Heath（1982）的Trackton社区研究展示如何在社会片段层面分析课堂沟通。

@@ -17,6 +17,7 @@ tags:
 related_concepts:
   - "[[Progressive Focussing]]"
   - "[[Research Question]]"
+  - "[[Unit of Analysis]]"
   - "[[Research Purpose]]"
   - "[[Attrition]]"
   - "[[Sample Size Determination]]"
@@ -43,7 +44,7 @@ updated: 2026-07-13
 > [!method-scope] 方法范围
 > - **研究对象** 需要在不同分析维度上[[Progressive Focussing|逐步聚焦]]的目标群体
 > - **问题类型**[[Research Question|研究问题]]涉及多重筛选标准的复杂抽样需求
-> - **分析单位** 随阶段变化
+> - **[[Unit of Analysis|分析单位]]** 随阶段变化
 > - **输出形式** 经多重标准筛选后的最终样本
 
 ## 研究程序

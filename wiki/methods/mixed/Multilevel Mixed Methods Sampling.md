@@ -15,6 +15,7 @@ tags:
   - method/sampling
   - mixed-methods
 related_concepts:
+  - "[[Unit of Analysis]]"
   - "[[Research Question]]"
   - "[[Sample Size Determination]]"
   - "[[School Effectiveness]]"
@@ -39,7 +40,7 @@ updated: 2026-06-22
 ## 定义
 
 > [!def] 方法定义
-> 多层次[[Mixed Methods Research|混合方法]]抽样（Multilevel Mixed Methods Sampling）是[[Mixed Methods Research|混合方法研究]]中的一种抽样设计：在研究的**不同分析单位层次**上分别使用[[Random Sampling|概率抽样]]、[[Non-probability Sampling|非概率抽样]]或两者的组合，各层次根据自身的[[Research Question|研究问题]]和数据可得性独立选择最合适的抽样策略（Teddlie & Tashakkori, 2009, pp. 185–91）。Onwuegbuzie & Leech（2007, p. 240）指出，多层次设计支持跨层次子组比较（如个体学生与教师），但提醒不同层次的子[[Sample Size Determination|样本量]]通常不相等——如 30 名学生可能只有 1–2 名教师对应。
+> 多层次[[Mixed Methods Research|混合方法]]抽样（Multilevel Mixed Methods Sampling）是[[Mixed Methods Research|混合方法研究]]中的一种抽样设计：在研究的**不同[[Unit of Analysis|分析单位]]层次**上分别使用[[Random Sampling|概率抽样]]、[[Non-probability Sampling|非概率抽样]]或两者的组合，各层次根据自身的[[Research Question|研究问题]]和数据可得性独立选择最合适的抽样策略（Teddlie & Tashakkori, 2009, pp. 185–91）。Onwuegbuzie & Leech（2007, p. 240）指出，多层次设计支持跨层次子组比较（如个体学生与教师），但提醒不同层次的子[[Sample Size Determination|样本量]]通常不相等——如 30 名学生可能只有 1–2 名教师对应。
 
 > [!method-scope] 方法范围
 > - **研究对象** 嵌套在多层次组织中的研究对象（学生嵌套于班级、班级嵌套于学校、学校嵌套于学区）
@@ -51,7 +52,7 @@ updated: 2026-06-22
 
 > [!case] [[School Effectiveness|学校效能]]研究的五层次实例（Teddlie & Tashakkori, 2009, p. 191）
 >
-> | 层次 | 分析单位 | 抽样方式 |
+> | 层次 | [[Unit of Analysis\|分析单位]] | 抽样方式 |
 > |---|---|---|
 > | 层次一 | 学生 | [[Random Sampling\|概率抽样]]（随机）+ [[Purposeful Sampling\|目的性抽样]]（典型个案、完整收集） |
 > | 层次二 | 教师与课堂 | 概率抽样（随机、随机分层）+ 目的性抽样（强度、典型个案） |

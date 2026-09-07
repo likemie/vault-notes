@@ -29,6 +29,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Metacognition]]"
   - "[[Document]]"
+  - "[[Unit of Analysis]]"
   - "[[Whole Language]]"
   - "[[Heterogeneity]]"
 related_theories: []
@@ -136,7 +137,7 @@ updated: '2026-06-08'
 > - [[Evidence-Based Education]] — 对 EBE 方法论的核心分析工具（效应量和[[Meta-analysis|元分析]]）提供最详细的技术批判
 > - [[Meta-analysis]] — 论证元分析的两项核心[[Hypothesis|假设]]（可比较性、可合并性）被系统性地违背，且偏差随研究领域变化而非随机([[Argument_Simpson_2017_JEP|Simpson, 2017, pp.4–5]])
 > - [[Meta-meta-analysis]] — 论证效应量排名表是"对研究设计操纵开放程度的等级"而非教育有效性排名，以这些排名驱动公共政策是"误导"([[Argument_Simpson_2017_JEP|Simpson, 2017, p.15]])
-> - [[EEF Teaching and Learning Toolkit]] — 论证 Toolkit 以效应量为基本分析单位，而效应量本身已被证明不可靠
+> - [[EEF Teaching and Learning Toolkit]] — 论证 Toolkit 以效应量为基本[[Unit of Analysis|分析单位]]，而效应量本身已被证明不可靠
 > - [[Visible Learning]] — 论证 Hattie 的"影响气压计"排名反映的是各领域研究者设计敏感试验的难易程度([[Argument_Simpson_2017_JEP|Simpson, 2017, p.2]])
 
 ## 思想发展与影响
@@ -150,7 +151,7 @@ updated: '2026-06-08'
 > - [[Argument_Wiliam_2019_ERE|Wiliam (2019, p.11)]]明确引用 Simpson 的论证作为其"[[Meta-meta-analysis|元-元分析]]在教育政策中绝对没有任何角色"断言的方法论基础，同时肯定 Simpson 并非"把婴儿和洗澡水一起倒掉"——"Simpson is careful not to throw the baby out with the bathwater"——详见 Argument_Wiliam_2019_ERE
 > - [[Argument_OConnor_2020_AJLL|O'Connor (2020)]]在[[Whole Language|全语言]]案例的细读审查中运用 Simpson 效应量不可比性的论证，揭示 [[Visible Learning|VL]] 中分类错误和选择性排除的模式——详见 [[Argument_OConnor_2020_AJLL]]
 >
-> **对政策工具的直接影响** Simpson 的批判直接适用于 [[EEF Teaching and Learning Toolkit]] 和 [[Visible Learning]]——两者都以效应量为基本分析单位，而效应量本身已被论证为不可靠的测量指标。他的论证从技术层面支持了 Wrigley 的方法论批判和 Biesta 的哲学批判，使 EBE 批判形成了哲学-方法论-制度的完整框架。
+> **对政策工具的直接影响** Simpson 的批判直接适用于 [[EEF Teaching and Learning Toolkit]] 和 [[Visible Learning]]——两者都以效应量为基本[[Unit of Analysis|分析单位]]，而效应量本身已被论证为不可靠的测量指标。他的论证从技术层面支持了 Wrigley 的方法论批判和 Biesta 的哲学批判，使 EBE 批判形成了哲学-方法论-制度的完整框架。
 
 ## 争议与批评
 

@@ -24,6 +24,7 @@ tags:
   - experiment
 related_concepts:
   - "[[Hypothesis]]"
+  - "[[Unit of Analysis]]"
   - "[[Champ]]"
   - "[[Questionnaire]]"
   - "[[Research Question]]"
@@ -64,7 +65,7 @@ updated: 2026-08-29
 > |---|---|
 > | **研究对象** | 研究材料与程序（而非[[Hypothesis\|研究假设]]本身） |
 > | **问题类型** | 可行性问题：工具是否适用、措辞是否清晰、耗时是否合理 |
-> | **分析单位** | 少量受试者的反馈数据和初步量化结果 |
+> | **[[Unit of Analysis\|分析单位]]** | 少量受试者的反馈数据和初步量化结果 |
 > | **输出形式** | 修订后的工具、优化的程序、缩减后的题项列表 |
 
 > [!info]

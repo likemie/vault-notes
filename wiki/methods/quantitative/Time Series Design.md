@@ -24,6 +24,7 @@ related_concepts:
   - "[[Intelligent Tutoring Systems]]"
   - "[[Counterfactual]]"
   - "[[Theories of Policy Change]]"
+  - "[[Unit of Analysis]]"
   - "[[Standard Error]]"
   - "[[Pre-test and Post-test]]"
   - "[[Causality]]"
@@ -77,7 +78,7 @@ updated: 2026-08-21
 > [!method-scope] 方法范围
 > - **研究对象** 宏观教育[[Theories of Policy Change|政策变革]]、学区管理条例修订、全校性行为干预系统（PBIS）、考试评价制度改革、或连续追踪的课堂教学方案。
 > - **问题类型** 评估干预是否引起了时间序列趋势的根本性断裂；检验效应是即时爆发、渐进积累还是逐步衰减。
-> - **分析单位** 按等间隔时间点（周、月、季度、学期或学年）聚合的班级、学校或学区均值指标。
+> - **[[Unit of Analysis|分析单位]]** 按等间隔时间点（周、月、季度、学期或学年）聚合的班级、学校或学区均值指标。
 > - **输出形式** 分段回归方程参数估计值、截距变化量 $\beta_2$、斜率变化量 $\beta_3$、自相关校正后[[Standard Error|标准误]]及时间序列趋势折线图。
 
 > [!citation-card]- 关键定义

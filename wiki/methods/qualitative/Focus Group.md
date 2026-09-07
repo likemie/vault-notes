@@ -22,6 +22,7 @@ related_concepts:
   - "[[Questionnaire]]"
   - "[[Hypothesis]]"
   - "[[Causality]]"
+  - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Reliability]]"
@@ -55,7 +56,7 @@ updated: 2026-07-22
 > [!method-scope] 方法范围
 > - **研究对象** 群体对特定议题的态度、价值观、意见、经验以及群体内部的互动模式和共识/分歧的形成过程。
 > - **问题类型** 适合探索性研究——定向特定领域、开发后续访谈/[[Questionnaire|问卷]]的主题和提纲、生成[[Hypothesis|假设]]、收集对先前研究的反馈。不适合回答需要数值估计或[[Causality|因果关系]]的问题。
-> - **分析单位** 群体整体，而非个体成员。即使群体内部存在个体差异，也寻求集体性群体回应（p.457）。
+> - **[[Unit of Analysis|分析单位]]** 群体整体，而非个体成员。即使群体内部存在个体差异，也寻求集体性群体回应（p.457）。
 > - **输出形式** 质性主题、群体共识与分歧地图、态度和价值观的集体表述，以及用于[[Triangulation|三角互证]]和后续工具开发的主题框架。
 
 ---

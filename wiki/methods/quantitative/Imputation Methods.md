@@ -20,6 +20,7 @@ tags:
   - data-processing
 related_concepts:
   - "[[Questionnaire]]"
+  - "[[Unit of Analysis]]"
   - "[[Variable]]"
   - "[[Epistemology]]"
   - "[[Hypothesis]]"
@@ -49,7 +50,7 @@ updated: 2026-07-11
 > [!method-scope] 方法范围
 > - **研究对象** 调查或实验数据中的缺失值（整份[[Questionnaire|问卷]]缺失或特定题项缺失）。
 > - **问题类型** 减少因无回应导致的偏倚、呈现完整数据集、支持后续统计分析。
-> - **分析单位** [[Variable|变量]]或个案层面的缺失数据。
+> - **[[Unit of Analysis|分析单位]]** [[Variable|变量]]或个案层面的缺失数据。
 > - **输出形式** 替换缺失值后的完整数据集。
 
 插补方法的选择首先取决于无回应集中在一个变量还是多个变量、是否存在可识别的无回应模式：如果无回应在多个变量之间随机分布且无明显模式，问题可能较小；如果是对一个或多个变量的系统性无回应，则更严重（Durrant, 2009, p. 295）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13|Cohen et al. (2011d)]]

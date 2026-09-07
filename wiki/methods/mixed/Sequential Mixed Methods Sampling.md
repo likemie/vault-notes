@@ -15,6 +15,7 @@ tags:
   - method/sampling
   - mixed-methods
 related_concepts:
+  - "[[Unit of Analysis]]"
   - "[[Variable]]"
   - "[[Attrition]]"
 related_theories: []
@@ -44,7 +45,7 @@ updated: 2026-07-13
 > [!method-scope] 方法范围
 > - **研究对象** 需要分阶段推进的多阶段研究
 > - **问题类型** 前一阶段的结果需要指导后一[[Stage Sampling|阶段抽样]]决策的研究
-> - **分析单位** 随阶段变化
+> - **[[Unit of Analysis|分析单位]]** 随阶段变化
 > - **输出形式** 两阶段结果相互衔接的混合分析
 
 ## 研究程序

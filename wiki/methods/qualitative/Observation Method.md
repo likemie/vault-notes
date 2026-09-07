@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Causality]]"
   - "[[Dialogue in Education]]"
+  - "[[Unit of Analysis]]"
   - "[[Questionnaire]]"
   - "[[Ecological Validity]]"
   - "[[Epistemology]]"
@@ -82,7 +83,7 @@ updated: 2026-07-23
 > [!method-scope] 方法范围
 > - **研究对象** 研究对象的言语、行为等外显表现，以及事物的状况、运行过程、机制
 > - **问题类型** 适合回答描述性问题、过程性问题和[[Causality|因果关系]]探索。观察的对象可以是事实（如教室书籍数量）、正在发生的事件（如师生[[Dialogue in Education|对话]]量）或行为与品质（如教师友善程度）
-> - **分析单位** 个体行为、课堂互动、群体活动、组织过程等
+> - **[[Unit of Analysis|分析单位]]** 个体行为、课堂互动、群体活动、组织过程等
 > - **输出形式** 定性数据（文字、图形、录音录像）或定量数据（频数、百分比、等级分数）
 
 > [!strength] 观察法的独特优势

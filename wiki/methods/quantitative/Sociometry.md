@@ -11,6 +11,7 @@ method_related_stars: ""
 method_related_color: "#dcfce7"
 tags: [method/quantitative, data-collection, theme/social-relations]
 related_concepts:
+  - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Homework]]"
 related_methods:
@@ -34,7 +35,7 @@ updated: 2026-07-23
 > [!method-scope] 方法范围
 > - **研究对象** 群体成员之间的选择与被选择关系——友谊、合作、信息寻求、影响力等。
 > - **问题类型** 群体中谁是受欢迎的人、谁被孤立、哪些人形成了互惠关系、哪些人形成了关系链。
-> - **分析单位** 个体（在群体关系网络中的位置）、对偶（互选配对）、三人组（互选三人）、群体整体。
+> - **[[Unit of Analysis|分析单位]]** 个体（在群体关系网络中的位置）、对偶（互选配对）、三人组（互选三人）、群体整体。
 > - **输出形式** 社会图（sociogram）——图示化呈现群体关系结构。
 
 ## 方法定位

@@ -18,6 +18,7 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Independent Variable]]"
   - "[[Statistical Significance]]"
+  - "[[Unit of Analysis]]"
   - "[[Study Population and Sample]]"
   - "[[Standard Error]]"
   - "[[Epistemology]]"
@@ -58,7 +59,7 @@ updated: 2026-07-13
 > [!method-scope] 方法范围
 > - **研究对象** 二分类分类变量与一组连续或分类自变量之间的统计预测关系。
 > - **问题类型** 适合回答预测、影响因素筛选、发生比测度以及自变量对行为选择的预测力检验。
-> - **分析单位** 个体、家庭、学校、组织等微观或宏观[[Study Population and Sample|研究样本]]。
+> - **[[Unit of Analysis|分析单位]]** 个体、家庭、学校、组织等微观或宏观[[Study Population and Sample|研究样本]]。
 > - **输出形式** 回归系数（B）、[[Standard Error|标准误]]（SE）、华氏统计量（Wald）、显著性水平（p值）、优势比（Exp(B) / Odds Ratio）以及模型整体的拟合优度指标。
 
 ---
@@ -94,7 +95,7 @@ updated: 2026-07-13
 
 > [!method-stack] 数据、[[Variable|变量]]与模型
 > - **数据结构** 横截面数据（Cross-sectional Data）、时点统计数据或[[Longitudinal Study|纵向调查]]数据。
-> - **样本与单位** 通常要求较大的[[Sample Size Determination|样本量]]（每个[[Independent Variable|自变量]]对应的最少事件数一般推荐为 10–20 个），分析单位为个体、家庭或学校。
+> - **样本与单位** 通常要求较大的[[Sample Size Determination|样本量]]（每个[[Independent Variable|自变量]]对应的最少事件数一般推荐为 10–20 个），[[Unit of Analysis|分析单位]]为个体、家庭或学校。
 > - **变量或指标** [[Dependent Variable|因变量]]为二分类（0/1）变量；自变量可为连续变量或分类变量（引入虚拟变量）。
 > - **模型或统计量** 回归系数（B）、优势比（Exp(B)）、Wald $\chi^2$ 统计量、Pseudo $R^2$。
 > - **诊断与检验** Hosmer-Lemeshow 拟合优度检验、VIF 共线性诊断、异常值诊断（如 Cook's 距离）。

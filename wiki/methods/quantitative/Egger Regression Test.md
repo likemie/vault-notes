@@ -27,6 +27,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Standard Error]]"
   - "[[Funnel Plot]]"
+  - "[[Unit of Analysis]]"
   - "[[Variable]]"
   - "[[Sample Size Determination]]"
   - "[[Cooperative Learning]]"
@@ -69,7 +70,7 @@ updated: 2026-08-24
 > [!method-scope] 方法范围
 > - **研究对象** [[Hypothesis|假设]]抽样相互独立的单水平元分析数据集（包含各研究效应量 $y_i$ 及其[[Standard Error|标准误]] $\text{SE}_i$）。
 > - **问题类型** 检验是否存在小样本研究系统性高估效应量的[[Funnel Plot|漏斗图]]不对称与选择性发表偏倚。
-> - **分析单位** 包含 $k$ 个独立效应量的一阶元分析或去重后的[[Meta-meta-analysis|二阶元分析]]。
+> - **[[Unit of Analysis|分析单位]]** 包含 $k$ 个独立效应量的一阶元分析或去重后的[[Meta-meta-analysis|二阶元分析]]。
 > - **输出形式** 截距估计值（Intercept $a$）、$t$ 统计量、自由度 $df$ 与双尾显著性 $p$ 值。
 
 > [!citation-card]- 关键定义

@@ -19,6 +19,7 @@ tags:
   - validity
 related_concepts:
   - "[[Hypothesis]]"
+  - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Researcher as Key Instrument]]"
   - "[[Dialogue in Education]]"
@@ -65,7 +66,7 @@ updated: 2026-06-23
 > [!method-scope] 方法范围
 > - **研究对象** 研究者自身的数据分析、解释框架、工作假设和研究过程记录
 > - **问题类型** 质性研究中效度与可信性保障——研究者的解释是否经得起外部审视？是否存在研究者盲点？
-> - **分析单位** 研究者的分析备忘录、[[Coding in Qualitative Research|编码]]框架、主题建构和结论草案
+> - **[[Unit of Analysis|分析单位]]** 研究者的分析备忘录、[[Coding in Qualitative Research|编码]]框架、主题建构和结论草案
 > - **输出形式** 审议反馈记录、经过修正的解释框架、经过检验的工作假设与下一步行动计划
 
 > [!citation-card]- Lincoln & Guba 对同行汇报的定义

@@ -23,6 +23,7 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Constructivist Paradigm]]"
   - "[[Problem-Based Learning]]"
+  - "[[Unit of Analysis]]"
   - "[[Direct Instruction]]"
   - "[[Educative Conceptual Change]]"
   - "[[Constructive Alignment]]"
@@ -140,7 +141,7 @@ updated: 2026-08-20
 
 ### 命题一　学习取向是情境中可改变的活动方式，不代表学生的固定属性
 
-> [!concept-lens] 分析单位
+> [!concept-lens] [[Unit of Analysis|分析单位]]
 > 这一命题以学生在具体任务与教学情境中的活动为解释单位，因而允许教师通过课程设计改变学习取向。
 
 > [!claim] [[John Biggs|Biggs, J.]]

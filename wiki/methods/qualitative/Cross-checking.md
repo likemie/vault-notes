@@ -11,6 +11,7 @@ method_related_stars: "⭐"
 method_related_color: "#dbeafe"
 tags: [method/qualitative, validation, data-quality]
 related_concepts:
+  - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Inter-Rater Reliability]]"
   - "[[Transcription in Qualitative Research]]"
@@ -42,7 +43,7 @@ updated: 2026-08-20
 > [!method-scope] 方法范围
 > - **研究对象** 多位研究者对同一材料的独立分析和解释。
 > - **问题类型** 不同分析者是否对相同材料产生一致或分歧的解释；分歧的来源和性质是什么。
-> - **分析单位** 独立分析记录、协商过程、最终达成的确定解释。
+> - **[[Unit of Analysis|分析单位]]** 独立分析记录、协商过程、最终达成的确定解释。
 > - **输出形式** 经过协商一致的确定陈述，附分歧与协商过程的记录。
 
 ## 方法定位

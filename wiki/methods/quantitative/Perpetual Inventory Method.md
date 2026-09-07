@@ -19,6 +19,7 @@ tags:
   - national-accounting
 related_concepts:
   - "[[Total Factor Productivity]]"
+  - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Data Transformation]]"
   - "[[Heterogeneity]]"
@@ -49,7 +50,7 @@ updated: 2026-06-26
 > [!method-scope] 方法范围
 > - **研究对象** 国民经济核算或行业层面分析中的实物资本存量。
 > - **问题类型** 测量——估计不可直接观测的资本存量水平，为 [[Total Factor Productivity|TFP]] 测算和增长核算提供输入。
-> - **分析单位** 国家、行业、地区等宏观经济单位。
+> - **[[Unit of Analysis|分析单位]]** 国家、行业、地区等宏观经济单位。
 > - **输出形式** 资本存量时间序列、资本劳动比、人均资本等。
 
 ---

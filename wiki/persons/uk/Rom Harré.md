@@ -13,6 +13,7 @@ tags: [person/psychologist, person/philosopher, theory/social-psychology, paradi
 related_concepts:
   - "[[Paradigm]]"
   - "[[Social Episodes]]"
+  - "[[Unit of Analysis]]"
 related_methods:
   - "[[Ethogenic Approach]]"
   - "[[Accounts]]"
@@ -48,4 +49,4 @@ updated: 2026-07-23
 > |:-----|:-----|:-----|
 > | [[Ethogenic Approach]] | 方法 | 提出并系统阐述了人因取向的五原则，确立了研究社会行为的方法论框架 |
 > | [[Accounts]] | 方法 | 将陈述（伴随行动的言语说明）确立为理解社会行为的核心分析材料 |
-> | [[Social Episodes]] | 概念 | 以社会片段作为人因研究的基本分析单位 |
+> | [[Social Episodes]] | 概念 | 以社会片段作为人因研究的基本[[Unit of Analysis\|分析单位]] |

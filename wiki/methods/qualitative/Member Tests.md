@@ -12,6 +12,7 @@ method_related_color: "#dbeafe"
 tags: [method/qualitative, validation, data-quality]
 related_concepts:
   - "[[Hypothesis]]"
+  - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Research Question]]"
   - "[[Necessary and Sufficient Conditions]]"
@@ -37,7 +38,7 @@ updated: 2026-07-23
 > [!method-scope] 方法范围
 > - **研究对象** 参与者对研究者初步分析和解释的反馈和修正。
 > - **问题类型** 研究者的解释是否忠实于参与者的自身理解；参与者是否认同研究者的分析或提出替代解释。
-> - **分析单位** 参与者对研究者假设和解释的回应。
+> - **[[Unit of Analysis|分析单位]]** 参与者对研究者假设和解释的回应。
 > - **输出形式** 经过参与者验证、修改或否定的分析结论。
 
 ## 方法定位

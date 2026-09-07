@@ -22,6 +22,7 @@ tags:
   - quantitative-research
 related_concepts:
   - "[[Causality]]"
+  - "[[Unit of Analysis]]"
   - "[[Reliability]]"
   - "[[Statistical Significance]]"
   - "[[Research Question]]"
@@ -47,7 +48,7 @@ updated: 2026-07-13
 > [!method-scope] 方法范围
 > - **研究对象** 单个个体或小群体——在特殊教育、临床心理学、行为干预中最常用。
 > - **问题类型** 干预是否对该特定个体产生了因果效应？
-> - **分析单位** 个体行为在时间维度上的重复测量数据。
+> - **[[Unit of Analysis|分析单位]]** 个体行为在时间维度上的重复测量数据。
 > - **输出形式** 四阶段的行为变化折线图（视觉分析）。
 
 ## 方法定位

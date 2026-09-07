@@ -40,12 +40,14 @@ related_concepts:
   - "[[Learner-Centred Education]]"
   - "[[Decodification]]"
   - "[[Boundary Object]]"
+  - "[[Unit of Analysis]]"
   - "[[Boundary Spanner]]"
   - "[[Selective Affinity]]"
   - "[[Policy Borrowing]]"
   - "[[Test-Based Accountability]]"
   - "[[Hypothesis]]"
   - "[[Operationalization]]"
+  - "[[Scaffolding]]"
   - "[[AI Agent in Education]]"
   - "[[Champ]]"
   - "[[Epistemic Friction]]"
@@ -145,7 +147,7 @@ updated: 2026-09-04
 > - **推导** 矛盾并非需要消除的系统缺陷，而是系统发展与演进的内在辩证源泉；解决矛盾的诉求推动活动系统寻求动态演化与重组。
 
 > [!proposition-chain] 核心命题三｜多活动系统相遇、边界跨越与扩展性改造命题（Engeström, 2001）
-> - **前提一** 第三代活动理论将最小分析单元扩展为“至少两个相互作用的活动系统构成的网络”，聚焦系统相遇时的边界区域（Boundary Zone）。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 591)]]
+> - **前提一** 第三代活动理论将最小[[Unit of Analysis|分析单元]]扩展为“至少两个相互作用的活动系统构成的网络”，聚焦系统相遇时的边界区域（Boundary Zone）。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 591)]]
 > - **前提二** 当异质系统发生碰撞时，[[Boundary Spanner|边界跨越者]]（Boundary Crossers）面临多重制度逻辑冲突，系统间矛盾被激化。
 > - **推导** 通过多主体[[Dialogue in Education|对话]]协商，若能建构出容纳双方合理诉求的“共享客体（Shared Object）”，将触发全系统要素的连锁重组，实现从旧平衡向新实践生态跃迁的“扩展性改造（Expansive Transformation）”。
 
@@ -167,7 +169,7 @@ updated: 2026-09-04
 > [!feature] AT-MCSCL 活动系统六要素理论操作化架构
 > - **客体与产出（Object/Outcomes）** 区分外围语言表达、学业知识掌握与深层批判/创造思维等不同层级的心智发展目标，预见工具中介在不同认知深度上的非均衡渗透。
 > - **活动主体（Subject）** 关注学习者所处的发展过渡阶段、先验认知基础与学科领域特性对智能中介工具的敏感度与适应能力。
-> - **中介工具（Mediating Tools）** 关注工具在认知活动中充当脚手架、对话伙伴还是认知外包的本质功能，超越表面工具品牌与多模态形式的局限。
+> - **中介工具（Mediating Tools）** 关注工具在认知活动中充当[[Scaffolding|脚手架]]、对话伙伴还是认知外包的本质功能，超越表面工具品牌与多模态形式的局限。
 > - **劳动分工（Division of Labor）** 规范人机协作中的权能与角色分配，将[[AI Agent in Education|智能体]]定位为平等的对话同伴抑或单向讲授者，决定了交互[[Champ|场域]]的自主性与认知参与深度。
 > - **规则与规程（Rules/Design）** 确立干预的时间周期演进规律（技能内化期 vs 习惯性脱敏期），以及评价工具设计对真实学习成效与提分泡沫的甄别规制。
 > - **共同体与情境（Community/Context）** 考察教学嵌入的社会文化关系、数字基础设施与文化权力距离，揭示宏观生态环境对技术中介赋能的边界条件与平权潜能。
@@ -249,7 +251,7 @@ updated: 2026-09-04
 
 > [!dev-timeline] 发展脉络
 > - **1978 — 第一代：Vygotsky 心理中介三角** 提出主体—中介工具—客体模型，确立人类心理机能由文化符号中介的核心原理。
-> - **1987 — 第二代：Engeström 六要素集体活动系统** 引入共同体、规则与劳动分工，将分析单元拓展为集体的活动系统，出版奠基著作 *Learning by Expanding*。
+> - **1987 — 第二代：Engeström 六要素集体活动系统** 引入共同体、规则与劳动分工，将[[Unit of Analysis|分析单元]]拓展为集体的活动系统，出版奠基著作 *Learning by Expanding*。
 > - **2001 — 第三代：多活动系统互动与扩展性改造** Engeström 正式提出第三代活动理论，聚焦多个活动系统的相遇、边界跨越与扩展性学习网络。
 > - **2025 — 教育改革与跨文化[[Transfer Translation Transformation|转译]]实证应用** Wang & McLaughlin 运用第三代活动理论解构中国 4 所高中在跨国培训后，如何通过建立共享客体实现[[Test-Based Accountability|考试问责]]与 [[Learner-Centred Education|LCE]] 改革双系统的扩展性改造。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 586–605)]]
 > - **2025 — 活动理论移动协作学习框架（AT-MCSCL）的大样本[[Meta-analysis|元分析]][[Operationalization|操作化]]** [[Argument_Chen_Cheung_2025_ERR|Chen & Cheung (2025)]] 承袭 Jonassen & Rohrer-Murphy (1999) 与 Collis & Margaryan (2004) 的传统，构建 AT-MCSCL 六要素调节分析架构，对 57 项高等教育生成式 AI 实证实施多维全要素[[Coding in Qualitative Research|编码]]，确立了边际效益递增与权力壁垒破除的宏观生态机制。
