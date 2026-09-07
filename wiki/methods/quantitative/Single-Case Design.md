@@ -7,7 +7,7 @@ summary: "多义词：量化实验中个体作为自身控制的重复测量设�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 33
+method_related_count: 34
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dcfce7"

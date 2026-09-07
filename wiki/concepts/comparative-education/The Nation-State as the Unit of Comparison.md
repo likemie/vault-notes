@@ -10,7 +10,7 @@ aliases:
 summary: "比较教育学古典历史-哲学母题与实证科学化的基石性认识论假定，将主权清晰、制度与文化边界同质的民族国家及其国民教育体系视为首要比较分析基准，在战后历经批判国家理论、多层分析立方体与反思方法论民族主义的范式重构。"
 type: concept
 domain: "comparative-education"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"

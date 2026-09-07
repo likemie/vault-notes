@@ -12,7 +12,7 @@ summary: "在量表编制与测验开发初期用于量化专家对题项及全�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 10
+method_related_count: 11
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"

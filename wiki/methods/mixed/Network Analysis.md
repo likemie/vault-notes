@@ -5,7 +5,7 @@ summary: "通过识别行动者、关系、节点和连接来分析社会网络�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 13
+method_related_count: 14
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#fef3c7"

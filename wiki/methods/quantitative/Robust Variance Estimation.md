@@ -11,7 +11,7 @@ summary: "在元分析中处理复杂依赖与嵌套效应量的统计方法，�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 22
+method_related_count: 23
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"

@@ -11,7 +11,7 @@ summary: "Campbell & Fiske (1959) 提出的经典测量效度检验矩阵，通�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 20
+method_related_count: 21
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"

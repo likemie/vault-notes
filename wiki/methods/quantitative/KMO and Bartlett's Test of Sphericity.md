@@ -11,7 +11,7 @@ summary: "探索性因子分析与主成分分析前置诊断观测变量相关�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 12
+method_related_count: 13
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"

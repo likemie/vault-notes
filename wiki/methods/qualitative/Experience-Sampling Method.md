@@ -5,7 +5,7 @@ summary: "Kitwood发展的质性陈述收集与分析技术，通过15种生活�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 14
+method_related_count: 15
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"

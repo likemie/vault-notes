@@ -11,7 +11,7 @@ summary: "元分析与统计综合中最核心的最优加权方法，依据各�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 26
+method_related_count: 27
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"

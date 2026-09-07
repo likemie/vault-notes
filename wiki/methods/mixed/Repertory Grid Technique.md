@@ -9,9 +9,9 @@ summary: "基于个人建构理论的研究工具，通过元素与构念的交�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 15
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 16
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#fef3c7"
 tags:
   - method/repertory-grid

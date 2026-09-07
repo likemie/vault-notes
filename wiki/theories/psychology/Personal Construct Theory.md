@@ -6,7 +6,7 @@ aliases:
 summary: "George Kelly提出的完整人格理论，以个人建构为基本分析单位解释个体如何感知、解释和预测世界。"
 type: theory
 theory_field: "psychology"
-theory_related_count: 10
+theory_related_count: 11
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"

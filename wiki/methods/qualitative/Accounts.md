@@ -5,7 +5,7 @@ summary: "一种以情境中的语言为焦点的质性资料收集方法，通�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 22
+method_related_count: 23
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"

@@ -6,7 +6,7 @@ aliases:
 summary: "George Kelly的个人建构理论中的基本分析单位——个体用于概念化日常世界的双极维度。"
 type: concept
 domain: "research-methodology"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

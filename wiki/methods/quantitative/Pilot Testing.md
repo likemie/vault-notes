@@ -13,7 +13,7 @@ summary: "在正式数据收集前使用少量受试者测试研究材料和程�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 25
+method_related_count: 26
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"

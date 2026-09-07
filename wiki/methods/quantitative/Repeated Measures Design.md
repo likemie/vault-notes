@@ -10,7 +10,7 @@ summary: "真实验设计变体，同一组受试者在两种或多种实验条�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 14
+method_related_count: 15
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"

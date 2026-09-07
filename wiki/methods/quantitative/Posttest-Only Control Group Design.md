@@ -9,7 +9,7 @@ summary: "真实验设计的变体，随机分配后无前测、仅后测，通�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 13
+method_related_count: 14
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"

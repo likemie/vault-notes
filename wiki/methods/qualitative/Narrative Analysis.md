@@ -8,7 +8,7 @@ summary: "以故事为意义建构与表达的基本形式，通过时间序列�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 13
+method_related_count: 14
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"

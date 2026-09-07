@@ -9,7 +9,7 @@ summary: "利用初始份额分布与总体冲击的交互项构建工具变量�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 8
+method_related_count: 9
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"

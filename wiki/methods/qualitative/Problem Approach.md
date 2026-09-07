@@ -10,7 +10,7 @@ summary: "由布赖恩·霍姆斯开创的比较教育学方法论程序，结�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 33
+method_related_count: 34
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"

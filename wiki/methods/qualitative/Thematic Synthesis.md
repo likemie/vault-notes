@@ -9,7 +9,7 @@ summary: "一种专门用于系统综述中整合质性与混合方法研究证�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 32
+method_related_count: 33
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"

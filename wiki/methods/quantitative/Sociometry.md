@@ -5,7 +5,7 @@ summary: "Moreno发展的社会关系强度测量方法，通过社会图呈现�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 6
+method_related_count: 7
 method_related_level: 0
 method_related_stars: ""
 method_related_color: "#dcfce7"

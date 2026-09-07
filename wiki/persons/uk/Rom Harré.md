@@ -5,9 +5,9 @@ summary: "英国社会心理学家和哲学家，人因取向的创始人，将�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 4
+person_related_count: 5
 person_related_level: 0
-person_related_stars: "☆"
+person_related_stars: ""
 person_related_color: "#e5e7eb"
 tags: [person/psychologist, person/philosopher, theory/social-psychology, paradigm/interpretive]
 related_concepts:

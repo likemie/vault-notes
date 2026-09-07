@@ -6,10 +6,10 @@ aliases:
 summary: "指高等教育被整合进跨国区域政治经济项目并成为区域合作、竞争和身份建构关键支柱的现象。"
 type: concept
 domain: "higher-education"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
 - global-regionalisms
 - higher-education

@@ -9,7 +9,7 @@ summary: "一种高度系统化的观察方法，研究者预先设计观察类�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 17
+method_related_count: 18
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"

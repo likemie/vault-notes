@@ -8,7 +8,7 @@ summary: "美国临床心理学家，个人建构理论的创始人，repertory 
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 8
+person_related_count: 9
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"

@@ -8,7 +8,7 @@ summary: "研究者不参与群体活动而从外部系统观察和记录行为�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 16
+method_related_count: 17
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"

@@ -8,10 +8,10 @@ aliases:
 summary: "以发现普遍法则为目标的方法论取向：聚焦分析选定因素之间的关系与规律性，以量化为主，是量化研究的方法论根基，与个例式相对"
 type: concept
 domain: "research-methodology"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - research-methodology
   - paradigm/positivist

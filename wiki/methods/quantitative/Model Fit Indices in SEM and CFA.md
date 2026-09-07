@@ -15,7 +15,7 @@ summary: "验证性因子分析与结构方程模型中评估理论假设模型�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 11
+method_related_count: 12
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"

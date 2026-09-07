@@ -7,7 +7,7 @@ summary: "从给定构念的偏好极点出发反复追问为什么、逐级追�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 12
+method_related_count: 13
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"

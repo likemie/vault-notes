@@ -8,7 +8,7 @@ summary: "对已有数据集进行的进一步分析，以不同于原始调查�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 11
+method_related_count: 12
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"

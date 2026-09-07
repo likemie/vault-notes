@@ -13,9 +13,9 @@ summary: "以自然群体（学校、班级或社区）为随机分配单位、�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 31
-method_related_level: 3
-method_related_stars: "⭐⭐⭐"
+method_related_count: 32
+method_related_level: 4
+method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/cluster-rct

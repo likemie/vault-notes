@@ -12,9 +12,9 @@ summary: "现代心理测量学中基于因子分析模型评估潜变量内部�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 15
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 16
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/quantitative

@@ -6,10 +6,10 @@ aliases:
 summary: "质性数据分析的第二步：将编码条目和单元归入相关群组、主题和模式，一个领域（domain）是包含若干其他范畴的上位范畴。"
 type: concept
 domain: "research-methodology"
-related_count: 6
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - method/data-analysis
   - paradigm/qualitative

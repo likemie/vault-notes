@@ -9,7 +9,7 @@ summary: "一种观察技术，聚焦于非例行但极具揭示性的特定事�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 12
+method_related_count: 13
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"

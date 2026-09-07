@@ -8,7 +8,7 @@ summary: "按明确标准把质性数据分入组、子集或类别的分类过�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 8
+method_related_count: 9
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"

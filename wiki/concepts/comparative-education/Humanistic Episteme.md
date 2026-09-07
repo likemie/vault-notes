@@ -9,7 +9,7 @@ aliases:
 summary: "卡扎米亚斯概括历史-哲学-文化与自由人文主义学派的核心元理论范畴，主张比较教育学必须超越将教育降格为技术性学校教育规训（schooling）的工具主义，建构以人（Anthropos）与文化全人教化（Paideia / Bildung）为核心的人本认识论，直面人类生存的政治与伦理危机。"
 type: concept
 domain: "comparative-education"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"

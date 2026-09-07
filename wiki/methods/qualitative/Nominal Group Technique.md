@@ -7,7 +7,7 @@ summary: "一种在行动研究群体中聚焦议题的结构化数据收集方�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 6
+method_related_count: 7
 method_related_level: 0
 method_related_stars: ""
 method_related_color: "#dbeafe"

@@ -10,10 +10,10 @@ aliases:
 summary: "研究设计与内容分析中确定分析与数据归类基本边界的核心概念，涵盖抽样单位、记录单位与语境单位三层划分及其对信效度的影响"
 type: concept
 domain: "research-methodology"
-related_count: 2
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 11
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 related_concepts:
   - "[[Variable]]"
   - "[[Transcription in Qualitative Research]]"

@@ -12,7 +12,7 @@ summary: "经典测量理论下评估多题项量表内部一致性信度的基�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 22
+method_related_count: 23
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"

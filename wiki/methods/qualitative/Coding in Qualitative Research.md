@@ -8,9 +8,9 @@ summary: "质性研究中将文本或图像数据拆分为片段并赋予类别�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 21
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 27
+method_related_level: 3
+method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/qualitative

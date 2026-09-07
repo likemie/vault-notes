@@ -13,7 +13,7 @@ summary: "基于连续驱动变量在特定阈值处的刚性或概率性分配�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 32
+method_related_count: 33
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dcfce7"

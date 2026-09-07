@@ -7,7 +7,7 @@ summary: "各阶段目的不同的概率抽样方法，每个阶段基于不同�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 8
+method_related_count: 9
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"

@@ -7,7 +7,7 @@ aliases:
 summary: "质性数据分析中将主题相互连接为时间性叙事以呈现问题发展编年史的步骤，通常出现在期刊论文的讨论部分"
 type: concept
 domain: "research-methodology"
-related_count: 4
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

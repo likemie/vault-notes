@@ -4,7 +4,7 @@ aliases: [社会片段, social episode]
 summary: "社会生活的任何连贯片段，有可识别的起点和终点，其行动序列对参与者具有某种意义，是人因研究的基本分析单位。"
 type: concept
 domain: "research-methodology"
-related_count: 4
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

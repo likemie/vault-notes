@@ -12,7 +12,7 @@ summary: "用于评估元分析中发表偏倚与抽屉文件效应的敏感性�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 21
+method_related_count: 22
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"

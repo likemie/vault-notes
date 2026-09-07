@@ -9,7 +9,7 @@ summary: "质性数据分析中把新获取数据与既有数据、类别和理�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 9
+method_related_count: 10
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
