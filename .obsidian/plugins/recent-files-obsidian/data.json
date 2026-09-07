@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Isaac Kandel",
-      "path": "wiki/persons/us/Isaac Kandel.md"
+      "basename": "Robert Ulich",
+      "path": "wiki/persons/us/Robert Ulich.md"
     },
     {
       "basename": "Argument_Kazamias_2009_ForgottenThemes",
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kazamias_2009_ForgottenThemes.md"
+    },
+    {
+      "basename": "Nicholas Hans",
+      "path": "wiki/persons/uk/Nicholas Hans.md"
+    },
+    {
+      "basename": "Isaac Kandel",
+      "path": "wiki/persons/us/Isaac Kandel.md"
     },
     {
       "basename": "Michael Sadler",
@@ -191,14 +199,6 @@
     {
       "basename": "Joseph Lauwerys",
       "path": "wiki/persons/uk/Joseph Lauwerys.md"
-    },
-    {
-      "basename": "Academic Iconography",
-      "path": "wiki/concepts/comparative-education/Academic Iconography.md"
-    },
-    {
-      "basename": "Cowen(Ed.)_2009_Springer",
-      "path": "books/Cowen(Ed.)_2009_Springer/Cowen(Ed.)_2009_Springer.md"
     }
   ],
   "omittedPaths": [],
