@@ -180,23 +180,26 @@ updated: 2026-09-08
 > - **从类别的“分布偏态”捕捉深层社会事实** 审视宏观领域的频次分布偏态（如 CAUSE 占 23 项次，而 HANDLING 仅占 3 项次），可揭示话语能量聚焦与制度性支持网络缺位等深层症结，无需复杂推断统计即可锁定研究重点。
 > - **认知容量与浅层层级控制原则** 人类短期工作记忆一般仅能同时维持 4±1 或 7±2 个编码节点，单次阅读最多同时承载约 90 个编码（Miles & Huberman, 1994）。吉布斯（Graham Gibbs）建议编码树状层级应当保持“浅层”（shallow）而非过度嵌套的深层结构，以维持分析结构的清晰可控；同时依托[[Constant Comparison|持续比较]]检验机制，持续往复比对新旧文本片段以排除反例。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|(Gibbs, 2007; Cohen et al., 2011, p. 562)]]
 
-> [!feature] 质性数据生成意义的十二种策略
-> 迈尔斯与休伯曼（Matthew Miles & A. Michael Huberman）提出了从转录数据中系统生成意义并推进编码整合的十二种策略，沿抽象与推论阶梯分为三大分析层级：[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|(Miles & Huberman, 1994; Cohen et al., 2011, 29.4)]]
-> - **层级一　模式识别与初级集聚策略（4 项）**
->   - **计数（counting）** 统计想法、主题、数据片段与词的出现频次。
->   - **注意模式与主题（noting patterns and themes）** 识别源自重复主题、原因或解释的格式塔结构。
->   - **看到可信性（seeing plausibility）** 运用有依据的直觉，尝试为数据作出合理解释并得出结论。
->   - **聚类（clustering）** 把条目归入类别、类型、行为与分类体系。
-> - **层级二　概念深化与变量分化策略（4 项）**
->   - **制造隐喻（making metaphors）** 使用比喻性与内涵性语言，使数据生动、浓缩数据、形成模式并与理论连接。
->   - **拆分变量（splitting variables）** 细化、区分并拆解想法，摆脱模糊整合驱动。
->   - **把个别纳入一般（subsuming particulars into the general）** 类似持续比较，朝向澄清关键概念。
->   - **因子化（factoring）** 把大量经验变量归入较少且通常不可观测的假设变量。
-> - **层级三　因果联结与理论建构策略（4 项）**
->   - **识别变量间关系（identifying relations between variables）** 识别并记录范畴之间的相互关联。
->   - **寻找中介变量（finding intervening variables）** 寻找阻碍或调节变量关系的其他条件。
->   - **建立证据逻辑链（building a logical chain of evidence）** 梳理因果脉络并作出推断。
->   - **建构概念/理论连贯性（making conceptual/theoretical coherence）** 从隐喻到构念再到理论，系统解释经验现象。
+> [!proc] 质性数据生成意义的十二种策略（Miles & Huberman 阶梯模型）
+> 迈尔斯与休伯曼（Matthew Miles & A. Michael Huberman）提出了从转录数据中系统生成意义并推进编码整合的十二种策略，沿抽象与推论阶梯分为三大分析阶段：[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|(Miles & Huberman, 1994; Cohen et al., 2011, 29.4)]]
+>
+> > [!step] 阶段一：模式识别与初级集聚策略（探索阶段）
+> > 1. **计数（counting）** 统计想法、主题、数据片段与词的出现频次。
+> > 2. **注意模式与主题（noting patterns and themes）** 识别源自重复主题、原因或解释的格式塔结构。
+> > 3. **看到可信性（seeing plausibility）** 运用有依据的直觉，尝试为数据作出合理解释并得出结论。
+> > 4. **聚类（clustering）** 把条目归入类别、类型、行为与分类体系。
+>
+> > [!step] 阶段二：概念深化与变量分化策略（深化阶段）
+> > 5. **制造隐喻（making metaphors）** 使用比喻性与内涵性语言，使数据生动、浓缩数据、形成模式并与理论连接。
+> > 6. **拆分变量（splitting variables）** 细化、区分并拆解想法，摆脱模糊整合驱动。
+> > 7. **把个别纳入一般（subsuming particulars into the general）** 类似持续比较，朝向澄清关键概念。
+> > 8. **因子化（factoring）** 把大量经验变量归入较少且通常不可观测的假设变量。
+>
+> > [!step] 阶段三：因果联结与理论建构策略（解释阶段）
+> > 9. **识别变量间关系（identifying relations between variables）** 识别并记录范畴之间的相互关联。
+> > 10. **寻找中介变量（finding intervening variables）** 寻找阻碍或调节变量关系的其他条件。
+> > 11. **建立证据逻辑链（building a logical chain of evidence）** 梳理因果脉络并作出推断。
+> > 12. **建构概念/理论连贯性（making conceptual/theoretical coherence）** 从隐喻到构念再到理论，系统解释经验现象。
 
 > [!ref-table] 案例示范：课堂教学态度的矩阵表格化比较分析
 > 通过将个体案例置于行、将所考察议题置于列，二维矩阵表格是开展跨个案比较与支持编码分析的高效[[Data Display|数据展示]]形式。以三名学生对科学课与音乐课的态度为例：[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|(Gibbs, 2007; Cohen et al., 2011, pp. 562–563)]]
