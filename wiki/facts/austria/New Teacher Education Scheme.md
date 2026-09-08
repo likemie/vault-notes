@@ -49,7 +49,7 @@ updated: 2026-08-27
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2013 年通过立法、2015/2016 学年由奥地利联邦教育、科学与研究部（BMBWF）全面实施。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 13)]]
 > - **适用地区 / 对象** 奥地利全境所有综合性大学（Universities）与师范高等教育学院（University Colleges of Teacher Education, PH）。
-> - **问题背景** 奥地利传统师范教育存在大学（培养学术中学教师）与师范学院（培养小学与初中教师）分割的二元体制，且课程缺乏统一的高阶能力标准。
+> - **问题背景** 奥地利传统[[Normal School|师范教育]]存在大学（培养学术中学教师）与师范学院（培养小学与初中教师）分割的二元体制，且课程缺乏统一的高阶能力标准。
 > - **制度位置** 奥地利教师专业发展历史上最大规模的体制重组与资格框架改革。
 
 ---
@@ -57,7 +57,7 @@ updated: 2026-08-27
 ## 政策文本摘要
 
 > [!claim] 政策核心
-> 《新教师教育方案》（PädagogInnenbildung NEU）打破制度壁垒，建立大学与师范学院的区域联盟联合培养机制，将[[Reflective Thinking|反思性探究]]、批判性审视与教学评价能力确立为全学段教师的通用[[21st Century Skills and Competencies Discourse|核心素养]]。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 13)]]
+> 《新教师教育方案》（PädagogInnenbildung NEU）打破制度壁垒，建立大学与[[Normal School|师范学院]]的区域联盟联合培养机制，将[[Reflective Thinking|反思性探究]]、批判性审视与教学评价能力确立为全学段教师的通用[[21st Century Skills and Competencies Discourse|核心素养]]。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 13)]]
 
 > [!policy-design]- 政策设计
 > - **学制统一** 统一推行“4年学士 + 1–1.5年硕士”培养架构。

@@ -85,15 +85,15 @@ updated: 2026-09-06
 [[Victor Cousin|库森]]的报告不仅是一份详实的域外教育[[Ethnography|民族志]]，更是一部具有高度政治修辞与法哲学深度的制度改革纲领：
 
 > [!claim] 报告核心主张
-> 库森明确提出比较考察的根本出发点是“若我研究普鲁士，我所心系者永远是法国（*if it is Prussia I study, it is always of France that I think*）”。报告盛赞普鲁士国家通过 1819 年聚芬草案在组织公共初等教育机器、省立[[Normal School|师范学校]]建制与教师专业考核上取得的卓越成效，断言公共教育是神圣的国家公共职能；极力建言法国政府彻底摆脱狭隘民族偏见，将普鲁士初等法律规范直接[[Transfer Translation Transformation|转译]]为法国本土立法技术，自上而下建立世俗国家主导的国民初等教育体系。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 26–29; Brewer, 1971, p. 50)]]
+> 库森明确提出比较考察的根本出发点是“若我研究普鲁士，我所心系者永远是法国（*if it is Prussia I study, it is always of France that I think*）”。报告盛赞普鲁士国家通过 1819 年[[Johann Wilhelm Süvern|聚芬]]草案在组织公共初等教育机器、省立[[Normal School|师范学校]]建制与教师专业考核上取得的卓越成效，断言公共教育是神圣的国家公共职能；极力建言法国政府彻底摆脱狭隘民族偏见，将普鲁士初等法律规范直接[[Transfer Translation Transformation|转译]]为法国本土立法技术，自上而下建立世俗国家主导的国民初等教育体系。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 26–29; Brewer, 1971, p. 50)]]
 
 库森在报告中系统梳理并向法国政府重点推荐了三大制度模块：
 
 > [!policy-design]- 报告核心模块：普鲁士经验的制度化提炼
 > - **公共教育的治理机器与行政架构（The Government of Public Instruction）**
 >   详尽剖析普鲁士如何通过中央内政与宗教教育事务部统领各省督学公署，并下设地方市镇管理委员会（*Schulvorstand*）；力主法国借鉴其“中央顶层立法规制与基层市镇分权实施”相结合的科层化行政网络，强制各市镇自筹建校并保障贫困儿童免费就读。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias, 2009, p. 27]]; Cousin, 1930:130–155）
-> - **学制层级分流与普通文化通识课程（Hierarchical Gradation and General Culture）**
->   推崇普鲁士初等小学（*Elementarschulen*）与市民学校（*Bürgerschulen*）的垂直双轨设计：前者向大众传授基础读写算与爱国道德，后者向工商中产子弟传授外语与现代实用数理，上方衔接精英中学的古典普通文化（*[[General Education|culture générale]]*）。主张依据[[Faculty Psychology|官能心理学]]设计融通科学与人文学科的课程，全面陶冶青少年的灵魂、理智与体魄。（pp. 27–28; Cousin, 1930:155–164）
+> - **学制层级分流与[[Culture Générale|普通文化]]通识课程（Hierarchical Gradation and General Culture）**
+>   推崇普鲁士初等小学（*Elementarschulen*）与市民学校（*Bürgerschulen*）的垂直双轨设计：前者向大众传授基础读写算与爱国道德，后者向工商中产子弟传授外语与现代实用数理，上方衔接精英中学的古典普通文化（*culture générale*）。主张依据[[Faculty Psychology|官能心理学]]设计融通科学与人文学科的课程，全面陶冶青少年的灵魂、理智与体魄。（pp. 27–28; Cousin, 1930:155–164）
 > - **初等师资培训与专业地位保障（Training and Status of Primary Schoolmasters）**
 >   报告以极长篇幅密集引述普鲁士 1819年[[Prussian Draft Education Law of 1819|聚芬法案]] 关于初等[[Normal School|师范学校]]（*Lehrerseminare*）的条文，强调“学校之优劣完全取决于教师之素养”；坚决要求法国在各省强制设立正规师范学校，推行国家资格认证、终身任用阶梯与法定最低俸禄制度，彻底淘汰游方兼差者。（pp. 27–28; Cousin, 1930:167–188）
 
@@ -111,7 +111,7 @@ updated: 2026-09-06
 从 1831 年外交使团到欧美全境的立法波澜，[[Victor Cousin|库森]]报告经历了从法国官方咨询文本向全球经典的历史演变：
 
 > [!timeline] 报告时间线
-> - **1830** 法国爆发七月革命，基佐与库森等立宪自由派入阁掌舵公共教育政策。
+> - **1830** 法国爆发七月革命，[[François Guizot|基佐]]与库森等立宪自由派入阁掌舵公共教育政策。
 > - **1831.05** 库森接受政府正式委派，启程前往法兰克福、魏玛、柏林等地开展教育行政调查。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, p. 26)]]
 > - **1831.11** 库森完成第一阶段调查，向法国公共教育部递交初步考察报告，引起政界强烈震撼。
 > - **1832** 报告由法国皇家印刷局正式出版两卷本全书（*Rapport sur l'état de l'instruction publique*）。

@@ -46,11 +46,11 @@ updated: 2026-07-11
 ## 定义
 
 > [!def] 范式（Paradigm）
-> [[Deanna Kuhn|库恩]]（Thomas Kuhn, 1962, p. 23）将范式定义为"一种被接受的模型或模式"（an accepted model or pattern）。更具体地说，范式是一种看待或研究现象的方式，一种世界观，一种关于什么算作被接受或正确的科学知识或工作方式的观点，一种共享的信念体系或原则集合，一个研究共同体的身份标识，一种追求知识的方式，对研究什么问题以及如何研究这些问题的共识，典型的[[Problem Solving|问题解决]]方案，以及一种比其竞争对手更容易被接受的理解（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
+> 库恩（Thomas Kuhn, 1962, p. 23）将范式定义为"一种被接受的模型或模式"（an accepted model or pattern）。更具体地说，范式是一种看待或研究现象的方式，一种世界观，一种关于什么算作被接受或正确的科学知识或工作方式的观点，一种共享的信念体系或原则集合，一个研究共同体的身份标识，一种追求知识的方式，对研究什么问题以及如何研究这些问题的共识，典型的[[Problem Solving|问题解决]]方案，以及一种比其竞争对手更容易被接受的理解（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
 
 ## 科学发展循环
 
-[[Deanna Kuhn|库恩]]的范式理论提出科学进步并非通过知识的平稳累积，而是通过间断性的科学革命（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）：
+库恩的范式理论提出科学进步并非通过知识的平稳累积，而是通过间断性的科学革命（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）：
 
 > [!logic-map] 库恩的科学发展循环
 > ```mermaid

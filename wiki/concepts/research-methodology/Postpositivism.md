@@ -159,7 +159,7 @@ updated: 2026-09-07
 > - **非普适探索性假说与中程归纳（Limited Working [[Hypothesis|hypotheses]]）** 超越普遍永恒铁律与个殊不可比的虚假二元对立：学者能够从个殊、具体与经验的历史事实中归纳提炼中程假说，这些非普适探索性假说可投射至其他类似情境中接受检验与反哺阐释，在特殊与一般之间建立双向解释循环。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 56)]]
 > - **多元实在论与主观诠释双重取向（Pluralist Realism & Interpretive Affinity）** 后实证范式在实在观上分化出两大互补支流：一是坚持客观实在持续存在但承认其具有多重共存层面的多元实在论；二是与[[Phenomenology|现象学]]及诠释学有深厚亲缘性、主张主体多重诠释处于核心地位的主观诠释取向。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, pp. 733–734)]]
 > - **系统性误差控制与多重理据审视（Systematic Error-checking & Multiple Warrants）** 在量化与[[Mixed Methods Research|混合方法]]实践中，后实证主义承认测量与证据总是不完美的，因此强调严格审查方法偏差、设立[[Reliability|信度]]效度规范，并通过多重测量、准实验控制与[[Triangulation|三角互证]]建立多重理据。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, p. 7)]]
-> - **广义科学观与人文本体锚定（Wissenschaft & Anthropocentric [[Bildung|Paideia]]）** 打破战后英美经验实证话语对“科学”（*Science*）概念的技术性窄化，恢复德语广义科学（*Wissenschaft*）与希腊语理性求知（*Episteme*）的博大学统，确立以人（*anthropos*）和全人[[Bildung|教化]]（*paideia*）为中心的终极价值关怀。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 56–57)]]
+> - **广义科学观与人文本体锚定（Wissenschaft & Anthropocentric [[Paideia]]）** 打破战后英美经验实证话语对“科学”（*Science*）概念的技术性窄化，恢复德语广义科学（*Wissenschaft*）与希腊语理性求知（*Episteme*）的博大学统，确立以人（*anthropos*）和全人[[Bildung|教化]]（*paideia*）为中心的终极价值关怀。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 56–57)]]
 
 后实证主义展示了从批判实证霸权到开辟多元探究路径的认识论流变。
 
@@ -190,7 +190,7 @@ updated: 2026-09-07
 > [!concept-lens] 批判[[Rationalism in International Relations|理性主义]]与反基础主义[[Epistemology|认识论]]
 > 该维度聚焦波普尔批判理性主义及科学哲学对经典实证主义证实神话的根本颠覆，阐明知识推测性、可错论与事实价值不可分的认识论机理。
 
-> [!claim] [[Karl Popper|Popper]], K.
+> [!claim] Popper, K.
 > **猜测与反驳机制下的可错主义与[[Falsification|可证伪性]]划界** 科学理论的本质不是已被终极证实的绝对真理，而是大胆的推测（conjectures）；归纳证实无法跨越逻辑上的有限经验鸿沟，真正划定科学与非科学界限的标准是理论潜在的可证伪性（falsifiability）。安全的、一劳永逸的基础主义知识并不存在，一切科学主张都是可错的（fallible）和尝试性的；科学的[[Growth|成长]]依靠提出可证伪的假设并在严密经验批判中不断反驳与修正。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 731)]]
 
 > [!claim] Feyerabend, P. & Popper, K.
@@ -207,8 +207,8 @@ updated: 2026-09-07
 > [!claim] [[Andreas Kazamias|Kazamias, A.]] M.
 > **德语 Wissenschaft 与希腊语 Episteme 破除英语 Science 的实证霸权** 20 世纪 60 年代实证学派对历史与哲学比较传统的贬斥，根源于其将“科学”（Science）狭隘垄断为自然科学与数理统计实证主义的语义霸权。在欧洲大陆思想史中，德语词 *Wissenschaft* 与古希腊词 *Episteme* 始终指代统辖自然、社会、文化与人文学科的系统化、规范化理性知识体系。一旦突破英语 *Science* 的技术狭义化，关注制度历史演化根由与文化意涵的历史比较探究，完全符合规范科学的严密标准。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 56)]]
 
-> [!claim] [[Thomas Kuhn|Kuhn]], T. S. & Lakatos, I.
-> **科学范式更迭与研究纲领的可错性演化** 科学的发展史绝非经验数据的线性累积，而是经历常规科学、反常危机与范式革命（Paradigm Shifts）的非线性跃迁过程；科学理论是以“硬核”与“保护带”构成的研究纲领（Research Programmes）。这表明科学探究深深嵌入于科学共同体的历史社会情境之中，任何声称拥有唯一中立、非情境化实证真理的学派都是虚妄的。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 53, 56)]]
+> [!claim] Kuhn, T. S. & Lakatos, I.
+> **[[Scientific Paradigm|科学范式]]更迭与研究纲领的可错性演化** 科学的发展史绝非经验数据的线性累积，而是经历常规科学、反常危机与范式革命（Paradigm Shifts）的非线性跃迁过程；科学理论是以“硬核”与“保护带”构成的研究纲领（Research Programmes）。这表明科学探究深深嵌入于科学共同体的历史社会情境之中，任何声称拥有唯一中立、非情境化实证真理的学派都是虚妄的。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 53, 56)]]
 
 > [!claim] [[Nicholas Hans|Hans, N.]]
 > **比较教育坐落于科学与人文交界边缘的哲学品格** 比较教育学绝非单纯处理外在可测量指标的机械技术学科；作为一门学术学科，它恰恰坐落于人文科学与自然科学的交界边缘（border line between humanities and sciences），在本质上类似于哲学。因此，比较教育学必须同时容纳实证事实的收集与形而上观念、民族价值理念的深刻洞察。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 39–40; Hans, 1959, p. 299)]]
@@ -259,7 +259,7 @@ updated: 2026-09-07
 > - **1960 年代 — 科学哲学历史转向与学科反思** 托马斯·库恩（1962）发表《科学革命的结构》，揭示科学常态运行与范式转换的社会历史性；卡扎米亚斯（Kazamias, 1961, 1963）直面英美比较教育实证主义科学化运动，率先援引比较史学[[Crane Brinton|布林顿]]非普适探索性假说，捍卫历史比较传统广义科学合法性。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009)]]
 > - **1970–1980 年代 — [[Paradigm Wars|范式战争]]爆发与实证垄断解体** 拉卡托斯（Lakatos, 1970）提出科学研究纲领方法论，费耶阿本德（1975）反对教条方法论；社会科学界爆发激烈“范式战争”（Paradigm Wars），古巴与林肯（Guba & Lincoln, 1985）等学者系统确立后实证与[[Constructivist Paradigm|建构主义]]的独立范式地位。
 > - **2000 年代 — 经验量化后实证主义规范化** 菲利普斯与伯布尔斯（Phillips & Burbules, 2000）出版《教育研究中的后实证主义与教育实践》，克雷斯威尔（Creswell, 2003/2022）系统将后实证主义确立为现代严谨[[Quantitative Research|量化研究]]与混合方法的核心哲学基石。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022)]]
-> - **2010 年代至今 — 复杂系统、历史母题复兴与方法论多元主义** 复杂性理论（Complexity Theory）作为后实证动态实在论的前沿拓展蓬勃兴起；卡扎米亚斯（2009）与考恩（Cowen, 2009）系统呼吁重拾被实证派遗忘的“人与文化[[Bildung|教化]]（*anthropos* / *paideia*）”[[Historical-Philosophical-Cultural Motif|历史人文主义母题]]，后实证主义成为抵御技术官僚数据霸权的核心理论阵地。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, p. 804)]]; [[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 56–57)]]
+> - **2010 年代至今 — 复杂系统、历史母题复兴与方法论多元主义** 复杂性理论（Complexity Theory）作为后实证动态实在论的前沿拓展蓬勃兴起；卡扎米亚斯（2009）与考恩（Cowen, 2009）系统呼吁重拾被实证派遗忘的“人与文化[[Bildung|教化]]（*anthropos* / *[[Paideia]]*）”[[Historical-Philosophical-Cultural Motif|历史人文主义母题]]，后实证主义成为抵御技术官僚数据霸权的核心理论阵地。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, p. 804)]]; [[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 56–57)]]
 
 ---
 
@@ -296,7 +296,7 @@ updated: 2026-09-07
 
 > [!evidence-grid] 典型研究与应用案例
 > - **教育研究方法论中后实证、后现代与复杂性演化总图景** [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011)]] 系统复原了从经典实证主义危机走向后实证主义、[[Postmodernism|后现代主义]]与[[Complexity Theory|复杂性理论]]的完整[[Paradigm|范式]]谱系，深刻剖析了后实证主义关于知识推测性、理论与价值负荷、多元实在论以及与诠释/质性取向亲和性的认识论内涵。
-> - **历史-哲学比较传统对实证主义霸权的后实证超越与广义科学重建** [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009)]] 系统剖析 1960 年代实证主义对比较教育历史学派的学科围剿，通过认识论溯源恢复德语 *Wissenschaft* 与希腊语 *Episteme* 广义科学传统，并援引[[Crane Brinton|布林顿]]比较史学确立非普适探索性假说理论，为[[Historical-Comparative Method|历史比较法]]确立了现代科学合法性，构筑了以人（*anthropos*）与全人[[Bildung|教化]]（*paideia*）为中心的人文防线。
+> - **历史-哲学比较传统对实证主义霸权的后实证超越与广义科学重建** [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009)]] 系统剖析 1960 年代实证主义对比较教育历史学派的学科围剿，通过认识论溯源恢复德语 *Wissenschaft* 与希腊语 *Episteme* 广义科学传统，并援引[[Crane Brinton|布林顿]]比较史学确立非普适探索性假说理论，为[[Historical-Comparative Method|历史比较法]]确立了现代科学合法性，构筑了以人（*anthropos*）与全人[[Bildung|教化]]（*[[Paideia]]*）为中心的人文防线。
 > - **后实证主义作为当代严谨量化与[[Mixed Methods Research|混合方法研究]]世界观的体系化确立** [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] 在全书核心框架中将后实证主义确立为[[Quantitative Research|量化研究]]与部分混合方法研究的主导世界观，系统阐述其决定论与还原论取向、推测性知识检验以及对严密测量[[Reliability|信度]]效度和系统误差审查的方法论规范。
 
 > [!evidence-grid-a]- 相关研究索引

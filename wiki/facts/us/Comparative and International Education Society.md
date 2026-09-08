@@ -120,7 +120,7 @@ updated: 2026-09-06
 > [!citation-card] 元认识论预设与词汇骤变
 > 我们必须更充分地理解各国不同比较教育学派的元认识论[[Hypothesis|假设]]：例如二战后美国结构功能主义社会学对美国比较教育的深刻影响，以及法兰克福学派影响的相对匮乏；还有词汇上的骤然突变，它将国际作为比较的修饰语或并列语植入其中。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, p. 9)]]
 >
-> *I suspect it will also be necessary to make fuller sense of the meta-epistemic assumptions of a range of comparative educations in a range of countries: for example the effect of structural-functionalist sociology in the USA on American comparative education but the relative lack of effect by the Frankfurt School... the sudden lurch in vocabulary which inserts 'international' as a qualifier of, or as a juxtaposition to, 'comparative'.*
+> *I suspect it will also be necessary to make fuller sense of the meta-epistemic assumptions of a range of [[Comparative Educations]] in a range of countries: for example the effect of structural-functionalist sociology in the USA on American comparative education but the relative lack of effect by the Frankfurt School... the sudden lurch in vocabulary which inserts 'international' as a qualifier of, or as a juxtaposition to, 'comparative'.*
 
 ---
 

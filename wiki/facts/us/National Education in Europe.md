@@ -130,7 +130,7 @@ updated: 2026-09-07
 > - **1867** 出任美国历史上第一任联邦教育专员（U.S. Commissioner of Education），将《欧洲国民教育》所体现的全国性统计收集与跨国制度调研直接转化为联邦教育局的建制职能。（pp. 31–32）
 > - **1872** 出版扩充重编的两卷本巨著《国民教育：各国公共教育体制、制度与统计》（*National Education*, 2 vols.），成为 19 世纪最完整的世界教育史料库。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, p. 32)]]
 > - **1965** [[Brian Holmes|布赖恩·霍姆斯]]（Brian Holmes）高度评价巴纳德的百科全书式比较抱负，认为其历史描述工作几近完美。（Holmes, 1965:14; p. 32）
-> - **1969** [[Harold Noah|诺亚]]与[[Max Eckstein|埃克斯坦]]（Harold Noah & Max Eckstein）批评巴纳德缺乏方法学系统性，斥之为“不加甄别的记录”（Noah & Eckstein, 1969:25–26; p. 32）。
+> - **1969** 诺亚与埃克斯坦（[[Harold Noah]] & [[Max Eckstein]]）批评巴纳德缺乏方法学系统性，斥之为“不加甄别的记录”（Noah & Eckstein, 1969:25–26; p. 32）。
 > - **2009** 卡洛扬纳基与卡扎米亚斯（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias, 2009]]）发表重磅重估，正名巴纳德为近代卓越的“教育编年史家与教育[[Ethnography|民族志]]学者”。（pp. 32–33）
 
 ---
@@ -164,7 +164,7 @@ updated: 2026-09-07
 > > [!axis] 编年史与[[Ethnography|民族志]]正名：超越[[Positivism|实证主义]][[Whiggism|辉格史观]]
 > > 新世纪思想史学者力图突破狭隘的量化偏见，还原巴纳德在 19 世纪特定时空下的卓越贡献。
 > >
-> > - **[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]]** 明确反驳了[[Harold Noah|诺亚]]与[[Max Eckstein|埃克斯坦]]“缺乏条理”的指责；他们指出巴纳德固然缺乏现代历史因果解释（contextual explanation），但这并不妨碍他成为一名极其优秀的“教育编年史家（educational chronicler）”与“教育民族志学者（educational ethnographer）”。在 19 世纪的历史条件下，其所提供的高质量描述性历史至今仍具有不可低估的史料与[[Epistemic Value|认识论价值]]。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 32–33)]]
+> > - **[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]]** 明确反驳了诺亚与埃克斯坦“缺乏条理”的指责；他们指出巴纳德固然缺乏现代历史因果解释（contextual explanation），但这并不妨碍他成为一名极其优秀的“教育编年史家（educational chronicler）”与“教育民族志学者（educational ethnographer）”。在 19 世纪的历史条件下，其所提供的高质量描述性历史至今仍具有不可低估的史料与[[Epistemic Value|认识论价值]]。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 32–33)]]
 
 > [!citation-card]- 经典学术评论：卡洛扬纳基与卡扎米亚斯对巴纳德的重估
 > 将巴纳德的方法概括为描述性是恰当的，但依我们的诠释，将其定性为‘缺乏条理’或‘不加甄别的记录’是不恰当的。将巴纳德视为一名优秀的‘编年史家’、优秀的‘教育叙述者’或‘教育民族志学者’，而非一名优秀的‘教育历史学家’也是恰当的……然而，人们即使在今天也不应低估优秀的描述性编年史或叙述在研究外国教育中的价值；依我们的判断，尤其是考虑到它们所处的时代，巴纳德的‘教育历史’理应赢得高度赞誉。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, p. 33)]]

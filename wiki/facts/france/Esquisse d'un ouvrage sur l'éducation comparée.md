@@ -158,7 +158,7 @@ updated: 2026-09-06
 > > - **R. R. Palmer (1993)** 考证指出，朱利安在其 1819 年《人类知识分类总表》中明确将教育学列入涉及心灵与道德经验的“二级精神科学（second order sciences）”；其所谓的“科学”指称一切崇高的人类理性反思，绝非狭隘的统计指标计算。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias, 2009, pp. 17–18]]; Palmer, 1993:176–178）
 > > - **[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]]** 论证朱利安追求的是一种“复调的人道世界（polyphonic human world）”，其核心驱动力是启蒙世界主义、儿童自然权利与欧洲和平秩序维系，是具有深厚人文关怀的现代性起点。（pp. 18–20）
 
-> [!citation-card]- 代表性学术评论：[[Harold Noah|诺亚]]与[[Max Eckstein|埃克斯坦]] vs 卡洛扬纳基与卡扎米亚斯
+> [!citation-card]- 代表性学术评论：诺亚与埃克斯坦 vs 卡洛扬纳基与卡扎米亚斯
 > 诺亚与埃克斯坦认为朱利安最终关切的是传播教育革新知识：深受[[Jean-Jacques Rousseau|卢梭]]与裴斯泰洛齐思想影响，他期望促进一种实用的、以儿童为中心的教学法，强调感官教育与融入社会生活的预备，一切均带有鲜明的人道主义色彩。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, p. 18)]]
 >
 > *Influenced as he was by the ideas of Rousseau and Pestalozzi, he wished to encourage a practical, child-centered educational methodology that emphasized, among other things, education of the senses and preparation for life in society, all with a humanitarian emphasis.* (Noah & Eckstein, 1969:16)

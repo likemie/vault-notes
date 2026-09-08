@@ -40,7 +40,7 @@ updated: 2026-07-11
 
 ## 根源：不可通约性
 
-[[Paradigm|范式]]战争的深层根源在于[[Deanna Kuhn|库恩]]（Kuhn, 1962）的[[Incommensurability|不可通约性]]（incommensurability）概念——不同范式之间不存在共同的原则、标准或衡量尺度，因此一个人不能同时持有两个截然不同的范式（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。这解释了为何量化与质性之争如此难以调和：**这不仅仅是方法偏好之争，而是两套不可通约的世界观之间的冲突**。用[[Effect Size|效应量]]来评判一篇[[Ethnography|民族志研究]]的好坏，就像用尺子来测量水的温度——工具本身来自一个范式，无法合法地评判另一个范式的产出。
+[[Paradigm|范式]]战争的深层根源在于库恩（Kuhn, 1962）的[[Incommensurability|不可通约性]]（incommensurability）概念——不同范式之间不存在共同的原则、标准或衡量尺度，因此一个人不能同时持有两个截然不同的范式（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。这解释了为何量化与质性之争如此难以调和：**这不仅仅是方法偏好之争，而是两套不可通约的世界观之间的冲突**。用[[Effect Size|效应量]]来评判一篇[[Ethnography|民族志研究]]的好坏，就像用尺子来测量水的温度——工具本身来自一个范式，无法合法地评判另一个范式的产出。
 
 ## 终结：混合方法研究的兴起
 

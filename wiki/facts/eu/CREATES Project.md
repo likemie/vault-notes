@@ -75,6 +75,6 @@ updated: 2026-08-27
 ## 影响与后果
 
 > [!finding-cards] 影响与后果
-> - **政策影响** 成为欧盟委员会推广本科阶段博雅教育与[[Active Learning|主动学习]]创新的前沿示范项目。
+> - **政策影响** 成为欧盟委员会推广本科阶段[[Liberal Education|博雅教育]]与[[Active Learning|主动学习]]创新的前沿示范项目。
 > - **实践影响** 为欧洲高校提供了开箱即用的共创量规、自我反思日志与形成性同伴评价指南。
 > - **知识影响** 深刻深化了以学生为中心的[[Formative Assessment|形成性评价]]在培养[[Higher-Order Thinking Skills|高阶思维]]中的机制研究。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 8)]]

@@ -199,7 +199,7 @@ Hitchcock & Hughes (1995) 提出的八阶段模型展现了传统科学方法的
 > **方法论统一与产出同构双重[[Hypothesis|假设]]** 经典实证主义对科学方法的坚定信念根植于两大核心预设之上：其一是“方法论统一”（unity of method），即自然科学的方法程序完全可以直接且平整地应用于社会科学探究；其二是“产出同构”（isomorphism of outcome），即社会科学探究的最终成果必须如同自然科学一样表述为普遍法则或类法则概括（laws or law-like generalizations）。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, p. 179)]]
 
 > [!claim] Kaloyannaki, P. & [[Andreas Kazamias|Kazamias, A.]] M.
-> **启蒙现代性将科学方法投射至教育与社会治理** 19 世纪初现代主义先驱（如[[Auguste Comte|孔德]]与[[Marc-Antoine Jullien|朱利安]]）坚信科学方法能够应用于人类社会事务。朱利安借鉴解剖学与机械艺术的方法，主张通过严密的分析式问题表与系统化观察表采集经验数据，将比较教育学构筑为“准实证科学”，其目的不是发展[[Value Neutrality|价值中立]]的技术，而是通过客观经验事实诊断法国大革命后欧洲社会道德解体的病灶，进而实现全人[[Bildung|教化]]与和平改良。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 13–14)]]
+> **启蒙现代性将科学方法投射至教育与社会治理** 19 世纪初现代主义先驱（如孔德与[[Marc-Antoine Jullien|朱利安]]）坚信科学方法能够应用于人类社会事务。朱利安借鉴解剖学与机械艺术的方法，主张通过严密的分析式问题表与系统化观察表采集经验数据，将比较教育学构筑为“准实证科学”，其目的不是发展[[Value Neutrality|价值中立]]的技术，而是通过客观经验事实诊断法国大革命后欧洲社会道德解体的病灶，进而实现全人[[Bildung|教化]]与和平改良。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 13–14)]]
 
 ### 命题二　科学探究的实践本质依赖于情境化多元方法与社会性论证建构
 
@@ -209,7 +209,7 @@ Hitchcock & Hughes (1995) 提出的八阶段模型展现了传统科学方法的
 > [!claim] Sandoval, W. A.
 > **方法多元性与[[Formal Epistemology|形式认识论]]对实践认识论的遮蔽** 科学探索不存在唯一且线性的标准化规程，不同领域的科学家根据对象特质综合运用实验、观察、建模与历史推演。学校科学长期将科学方法教条化为“一步步执行的实验室步骤”，这导致学生在测验中表现出极度幼稚的[[Formal Epistemology|形式认识论]]（误以为做实验纯粹是为了证明既定答案，把理论视作无证据的猜测），而严重遮蔽了他们在真实探究实践中所运用的复杂[[Practical Epistemology|实践认识论]]决策与社会性论证能力。[[Argument_Sandoval_2005_SE|(Sandoval, 2005, pp. 634–642)]]
 
-> [!claim] [[Thomas Kuhn|Kuhn]], T. S. / Cohen et al.
+> [!claim] Kuhn, T. S. / Cohen et al.
 > **范式制约与科学探究的历史社会嵌入性** 科学方法的运用从来不是纯粹中立客观的技术推演，而是深受科学家共同体所共享的[[Paradigm|范式]]预设、信念网络与历史危机所制约；常规科学时期的谜题解答遵循既定规则，而新假说的确立、反常证据的判定以及范式转换的发生，本质上依赖共同体内部的修辞说服、同行论证与社会认同。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, pp. 125–130)]]
 
 ### 命题三　将科学方法窄化为去情境的技术操作会导致科学主义迷思与教育本体论遮蔽
@@ -234,10 +234,10 @@ Hitchcock & Hughes (1995) 提出的八阶段模型展现了传统科学方法的
 
 > [!timeline] 思想演进脉络
 > - **17 世纪 — 培根经验归纳法奠定近代科学基础** [[Francis Bacon|弗朗西斯·培根]]提出经验归纳法，主张通过排除假相、系统观察与实验事实积累发现自然规律，奠定了实验科学的方法论先导。
-> - **1810–1830 年代 — 启蒙现代性与跨国社会科学改良构想** [[Marc-Antoine Jullien|朱利安]]与[[Auguste Comte|孔德]]将科学方法外推至人类社会事务，主张通过分析式[[Questionnaire|问卷]]与系统观察表采集经验事实；此时的技术操作始终从属于全人[[Bildung|教化]]与教育改良的道德哲学。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009)]]
+> - **1810–1830 年代 — 启蒙现代性与跨国社会科学改良构想** [[Marc-Antoine Jullien|朱利安]]与孔德将科学方法外推至人类社会事务，主张通过分析式[[Questionnaire|问卷]]与系统观察表采集经验事实；此时的技术操作始终从属于全人[[Bildung|教化]]与教育改良的道德哲学。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009)]]
 > - **19 世纪中后期 — 实证主义法典化与社会学独立学科确立** 孔德与密尔系统确立实证[[Epistemology|认识论]]阶梯与经验因果归纳法则，推动社会研究摆脱神学与形而上学思辨，奠定了现代统计与[[Survey Research|调查研究]]的实证根基。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011)]]
 > - **20 世纪前半叶 — 逻辑实证主义鼎盛与波普尔[[Falsification|证伪主义]]确立** 维也纳学派追求完全经验证实与学科统一，波普尔（[[Karl Popper]]）提出证伪主义标准，将“是否可经验证伪”确立为区分科学与非科学的核心标尺。
-> - **20 世纪 60–80 年代 — [[Deanna Kuhn|库恩]][[Paradigm|范式]]革命与[[Interpretive Paradigm|反实证主义]]哲学高涨** 库恩揭示常规科学与范式转换的历史社会嵌入性，科学方法纯粹客观中立的神话被打破；诠释学派与[[Critical Theory|批判理论]]崛起，高扬人类主体能动性与价值批判维度。
+> - **20 世纪 60–80 年代 — 库恩[[Paradigm|范式]]革命与[[Interpretive Paradigm|反实证主义]]哲学高涨** 库恩揭示常规科学与范式转换的历史社会嵌入性，科学方法纯粹客观中立的神话被打破；诠释学派与[[Critical Theory|批判理论]]崛起，高扬人类主体能动性与价值批判维度。
 > - **21 世纪 — 科学本质[[Practical Epistemology|实践认识论]]转向与循证技术自满批判** 科学教育界从“程式化步骤”转向学生探究中的“实践认识论”（[[Argument_Sandoval_2005_SE|Sandoval, 2005]]）；教育学界深度批判[[Evidence-Based Education|循证教育]]将科学方法简化为[[Meta-analysis|元分析]]数据霸权的技术自满（[[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024]]; [[Argument_Wrigley_2018_BERJ|Wrigley, 2018]]）。
 
 ---
@@ -275,7 +275,7 @@ Hitchcock & Hughes (1995) 提出的八阶段模型展现了传统科学方法的
 > [!evidence-grid] 典型研究与应用案例
 > - **科学教育中[[Practical Epistemology|实践认识论]]与[[Formal Epistemology|形式认识论]]的断裂研究** [[Argument_Sandoval_2005_SE|Sandoval (2005)]] 在科学教育干预中发现，学生的探究活动是由[[Practical Epistemology|实践认识论]]指导的，这与他们对专业科学所表达出的[[Formal Epistemology|形式认识论]]信念存在严重脱节；简单的探究教学若不打破“单一线性科学方法”的教条神话，将无法有效提升学生的科学本质理解。
 > - **教育研究方法论中科学方法八阶段与[[Paradigm|范式]]批判** [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] 系统复原了传统[[Positivism|实证主义]]的科学方法八阶段模型（Hitchcock & Hughes, 1995）与 Mouly 五步经验进程，并从存在主义（克尔凯郭尔）、法兰克福学派（[[Jürgen Habermas|哈贝马斯]]）与社会学内部（[[Anthony Giddens|吉登斯]]）三个维度，系统清算了实证科学方法忽视人类主体能动性与交往理性的根本缺陷。
-> - **19 世纪启蒙现代性将科学方法投射至跨国比较与道德改良** [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] 剖析了 19 世纪初现代主义先驱（[[Auguste Comte|孔德]]与[[Marc-Antoine Jullien|朱利安]]）的科学信念：朱利安将科学方法视为一剂医治后革命时代欧陆道德沦丧的良药，借用自然科学的分类、制表与事实收集，试图构建为全人道德[[Bildung|教化]]与[[Perpetual Peace|世界和平治理]]服务的“准实证”比较教育学。
+> - **19 世纪启蒙现代性将科学方法投射至跨国比较与道德改良** [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] 剖析了 19 世纪初现代主义先驱（孔德与[[Marc-Antoine Jullien|朱利安]]）的科学信念：朱利安将科学方法视为一剂医治后革命时代欧陆道德沦丧的良药，借用自然科学的分类、制表与事实收集，试图构建为全人道德[[Bildung|教化]]与[[Perpetual Peace|世界和平治理]]服务的“准实证”比较教育学。
 > - **[[Evidence-Based Education|循证教育]]对科学方法的教条化窄化与教学[[Ontology|本体论]]抽空** [[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe (2024)]] 剖析了以“[[Visible Learning|可见的学习]]”（Visible Learning）为代表的循证教育改革，指出其将科学方法粗暴等同于[[Meta-analysis|元分析]]数据堆砌与[[Variable|变量]]控制，剥离了教学实践作为人际交往的生成性本体论。
 > - **[[International Baccalaureate|国际文凭]][[General Education|通识教育]]中科学方法[[Epistemology|认识论]]边界的明晰** [[Argument_Peterson_1987_OpenCourt|Peterson (1987)]] 在论述[[Theory of Knowledge|知识论]]（[[Theory of Knowledge]]）课程时强调，通识教育的核心衡量标准不是零散科学事实的[[Rote Learning|死记硬背]]，而是理解科学方法能够支持哪些结论，以及哪些伦理、宗教和价值判断根本落在其解释范围之外。
 

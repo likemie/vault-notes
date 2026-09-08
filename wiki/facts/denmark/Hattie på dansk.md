@@ -71,7 +71,7 @@ updated: 2026-07-11
 
 > [!success] 影响与后果
 > - 该书成为丹麦 Hattie 批评的核心文本，与更广泛的公众和政治辩论互动
-> - Qvortrup 将其中部分文章定性为不属于科学游戏——不符合 [[Karl Popper|Popper]] 的可反驳性理想([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.4]])
+> - Qvortrup 将其中部分文章定性为不属于科学游戏——不符合 Popper 的可反驳性理想([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.4]])
 
 ## 争议与评论
 
