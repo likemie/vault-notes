@@ -95,7 +95,7 @@ updated: 2026-07-13
 
 > [!timeline] 生平与职涯
 > - **1930** 出生于法国 Béarn 地区 Denguin 小镇，普通底层家庭传统出身使其始终对阶层流动、选拔制度和文化合法性问题保持敏感。
-> - **1951–1954** 就读巴黎高等师范学院，接受系统哲学训练。在存在主义与马克思主义占主导的学术环境中，转向历史与[[Epistemology|认识论]]研究。
+> - **1951–1954** 就读巴黎高等[[Normal School|师范学院]]，接受系统哲学训练。在存在主义与马克思主义占主导的学术环境中，转向历史与[[Epistemology|认识论]]研究。
 > - **1955–1960** 前往阿尔及利亚服兵役，随后在此开展[[Ethnography|民族志]]调查并任助教。这一经历成为其从纯哲学转向经验社会学与人类学的决定性起点。
 > - **1964** 与 Jean-Claude Passeron 合著出版《继承人》（Les Héritiers），揭示法国高等教育如何通过默认[[Cultural Capital|文化资本]]优势来隐性再生产阶级秩序。
 > - **1968** 与 Jean-Claude Passeron 等合著出版《社会学家行当》（Le Mé[[Top Institute for Evidence-Based Education Research|TIER]] de sociologue），系统阐述社会学认识论预备。

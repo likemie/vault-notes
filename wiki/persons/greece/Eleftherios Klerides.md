@@ -77,7 +77,7 @@ updated: 2026-07-09
 > [!citation-card]- 经典表述：三大传统与学科重组
 > 译文：对国际社会性质的不同理解使得不同的比较教育研究成为可能；比较教育的[[Agendas of Attention|注意力议程]]总是随着地缘政治与国际关系格局的变迁而转换。
 > 
-> 原文：*Different understandings of the nature of international society make different comparative educations possible... the agendas of attention in comparative education shift in response to the changing landscape of international relations.* ([[Argument_Klerides_2023_CE|Klerides, 2023, p. 416]])
+> 原文：*Different understandings of the nature of international society make different [[Comparative Educations]] possible... the agendas of attention in comparative education shift in response to the changing landscape of international relations.* ([[Argument_Klerides_2023_CE|Klerides, 2023, p. 416]])
 
 ---
 

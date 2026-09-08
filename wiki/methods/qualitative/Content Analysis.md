@@ -87,7 +87,7 @@ updated: '2026-09-08'
 > - **研究设计** [[Qualitative Research|质性研究]]、[[Mixed Methods Research|混合方法]]中的文本分析环节。
 > - **数据收集** 开放题[[Questionnaire|问卷]]、访谈、文档、媒体内容等。
 > - **分析方法** [[Coding in Qualitative Research|编码]]、范畴化、[[Domain Analysis|领域分析]]、频次计数（enumeration）、交叉分析。
-> - **辅助技术** 备忘录（[[Memos]]）、反例检验、持续比较、统计软件与计算机辅助质性数据分析软件（Computer-Assisted Qualitative Data Analysis Software，[[Qualitative Computer Software|CAQDAS]]）检索。
+> - **辅助技术** 备忘录（[[Memos]]）、反例检验、持续比较、统计软件与计算机辅助[[Qualitative Computer Software|质性数据分析软件]]（Computer-Assisted Qualitative Data Analysis Software，[[Qualitative Computer Software|CAQDAS]]）检索。
 
 ## 研究程序
 

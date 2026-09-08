@@ -55,7 +55,7 @@ updated: '2026-07-24'
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 中国现代著名教育家、民主主义者、平民教育与乡村教育运动倡导者，哥伦比亚大学师范学院毕业，师从[[John Dewey|杜威]]。（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, pp.619–621]]）
+> - **身份位置** 中国现代著名教育家、民主主义者、平民教育与乡村教育运动倡导者，哥伦比亚大学[[Normal School|师范学院]]毕业，师从[[John Dewey|杜威]]。（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, pp.619–621]]）
 > - **核心角色** [[John Dewey|杜威]]在华思想的批判性改造者与[[Going Native|本土化]][[Transfer Translation Transformation|转译]]者，主导《新教育评论》并推动民国教育从“激进民主”向“[[Scientific Attitude|科学态度]]”的[[Paradigm|范式转换]]。
 > - **代表贡献** 提出[[Scientific Attitude|科学态度]]三大要素（基于客观事实、实验渐进精神、精细研究）；创办晓庄试验乡村师范；提出“生活即教育、社会即学校、教学做合一”本土化教育理论。（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, pp.620–621]]）
 
@@ -68,7 +68,7 @@ updated: '2026-07-24'
 
 > [!timeline] 生平与职涯
 > - **1891** 出生于安徽歙县。
-> - **1914–1917** 留美学习，先后就读于伊利诺伊大学与哥伦比亚大学师范学院，受教于[[John Dewey|杜威]]。
+> - **1914–1917** 留美学习，先后就读于伊利诺伊大学与哥伦比亚大学[[Normal School|师范学院]]，受教于[[John Dewey|杜威]]。
 > - **1919** 参与《新教育》编辑工作及[[John Dewey|杜威]]访华接待，早期曾主张学校为“小共和国”。（[[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009, p.73]]）
 > - **1923** 转向平民教育，发起中华平民教育促进会，鼓励学生走出校园走向大众。
 > - **1925** 创办《新教育评论》（*Review of [[New Education Movement|The New Education]]*），确立[[Scientific Attitude|科学态度]]原则，取代激进民主政治路线。（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, p.620]]）

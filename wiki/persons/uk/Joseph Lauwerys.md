@@ -93,7 +93,7 @@ updated: 2026-09-07
 > 劳韦里斯将比较教育界定为服务于跨国理性和人类改善的合作事业。他倡导科学人道主义、民主理想与跨国理解的三位一体，主张跨国制度合作与[[Dialogue in Education|教育对话]]能够克服狭隘的民族主义与国家竞争焦虑；在[[Epistemology|认识论]]上，他拒绝文化主义学者对社会学的排斥立场，坚持以开放的社会科学视野与跨洲人际网络打破封闭的学术壁垒。
 
 > [!citation-card] 跨洲思想连接与学术肖像反思
-> [[George Bereday|贝雷迪]]与劳韦里斯在跨文化与跨大洲之间连接了人物与思想，并在各自机构、比较教育学会以及数代研究生中产生了深远影响，其卓越的讲课才能亦使他们在学科领域内享有盛誉。然而，这间接引出了一个更为广泛的历史学问题：我们并不真正理解自身的肖像学。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, p. 9)]]
+> 贝雷迪与劳韦里斯在跨文化与跨大洲之间连接了人物与思想，并在各自机构、比较教育学会以及数代研究生中产生了深远影响，其卓越的讲课才能亦使他们在学科领域内享有盛誉。然而，这间接引出了一个更为广泛的历史学问题：我们并不真正理解自身的肖像学。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, p. 9)]]
 >
 > *Both Bereday and Lauwerys linked persons and ideas across cultures and continents and for quite justifiable reasons... are well known in the [[Champ|field]] of study; but they indirectly [[RAiSE Programme|RAiSE]] a broader question. We do not understand our own iconographies.*
 
@@ -113,7 +113,7 @@ updated: 2026-09-07
 
 > [!person-network] 关系网络
 > - **合作者** 索尔·罗宾松 共同发起创立 [[Comparative Education Society in Europe|CESE]]，推动战后欧洲[[Dialogue in Education|教育对话]]与制度改革。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 425)]]
-> - **同事与继承者** [[Brian Holmes|布莱恩·霍姆斯]]（Brian Holmes） 共同任教于伦敦大学教育学院，继承并发展了问题法（Problem Approach）与制度化比较教育。
+> - **同事与继承者** [[Brian Holmes|布莱恩·霍姆斯]]（Brian Holmes） 共同任教于伦敦大学教育学院，继承并发展了[[Problem Approach|问题法]]（Problem Approach）与制度化比较教育。
 > - **国际学术盟友** [[Jean Piaget|让·皮亚杰]]、阿尼西奥·特谢拉、平冢益德 维系日内瓦 IBE、巴西与日本的高层跨洲学术纽带。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, p. 9)]]
 > - **学术镜像与对比** [[George Bereday|乔治·贝雷迪]]（George Bereday） 战后欧美两大跨洲网络核心枢纽与学术演讲巨匠；[[Michael Sadler|萨德勒]] 代表以国家防卫与竞争焦虑为驱动的[[Realism in International Relations|现实主义]]，劳韦里斯则代表以国际主义合作为驱动的[[Rationalism in International Relations|理性主义]]。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 420–425)]]
 > - **机构与组织** [[Comparative Education Society in Europe]]（CESE 创会主席）、联合国教科文组织（UNESCO 资深顾问）、伦敦大学教育学院（IOE 讲座教授）。

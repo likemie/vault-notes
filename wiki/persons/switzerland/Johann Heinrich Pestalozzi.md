@@ -120,7 +120,7 @@ updated: 2026-09-06
 裴斯泰洛齐的思想并非停留在瑞士山国，而是通过 19 世纪跨国考察者的引介，成为重构欧美公共教育的核心技术引擎：
 
 > [!influence-path] 影响路径
-> - **普鲁士国家教育机器的师范化** 普鲁士改革精英（聚芬、洪堡等）将裴斯泰洛齐直观教学法确立为全国[[Normal School|师范学校]]（*Lehrerseminare*）的核心大纲，使普鲁士初等课堂呈现出欧洲最先进的温和启发与人道秩序。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias, 2009, pp. 27–28]], 31）
+> - **普鲁士国家教育机器的师范化** 普鲁士改革精英（[[Johann Wilhelm Süvern|聚芬]]、洪堡等）将裴斯泰洛齐直观教学法确立为全国[[Normal School|师范学校]]（*Lehrerseminare*）的核心大纲，使普鲁士初等课堂呈现出欧洲最先进的温和启发与人道秩序。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias, 2009, pp. 27–28]], 31）
 > - **[[Marc-Antoine Jullien|朱利安]]实证[[Questionnaire|问卷]]的教学法取向** 朱利安在 1817 年 《计划》 的标准化问卷中，将“学校是否采纳裴斯泰洛齐先生成功运用的初等算术方法”作为衡量欧洲各国教学法优劣的直接正向指标。（pp. 16–18）
 > - **美洲[[Common School Movement|公学运动]]与波士顿大论战的理论武器** [[Horace Mann|霍勒斯·曼]]在 1844 年 《[[Seventh Annual Report of the Massachusetts Board of Education|第七次年度报告]]》 与随后的 [[Boston Schoolmasters Controversy|波士顿文法学校校长大论战]] 中，将普鲁士采纳的裴斯泰洛齐教学法作为降维打击本土加尔文传统体罚与[[Rote Learning|死记硬背]]的合法化武器；斯托在 1837 年 《[[Report on Elementary Public Instruction in Europe|斯托报告]]》 中亦极力向全美各州推崇这一人道教学法。（pp. 31–32）
 

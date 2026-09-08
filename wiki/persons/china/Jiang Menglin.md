@@ -52,7 +52,7 @@ updated: '2026-07-24'
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 中国民国时期著名教育家、出版家、行政官僚，哥伦比亚大学师范学院博士，先后任《新教育》杂志主编、北京大学校长及中华民国教育部部长。（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, pp.614–615]]）
+> - **身份位置** 中国民国时期著名教育家、出版家、行政官僚，哥伦比亚大学[[Normal School|师范学院]]博士，先后任《新教育》杂志主编、北京大学校长及中华民国教育部部长。（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, pp.614–615]]）
 > - **核心角色** [[John Dewey|杜威]]在华留美学生网络的核心节点，1919–1925年间[[New Education Movement|新教育运动]]激进民主派的领袖与理论旗手。
 > - **代表贡献** 主导创办并主编《新教育》（*The New Education*）杂志；提出“以教育创造新国家”与学校隔离改造论；深度参与[[1922 Educational System Reform|1922年学制改革]]七项标准的制定。（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, pp.614–618]]）
 
@@ -65,7 +65,7 @@ updated: '2026-07-24'
 
 > [!timeline] 生平与职涯
 > - **1886** 出生于浙江余姚。
-> - **1912–1917** 赴美留学，就读于哥伦比亚大学师范学院，师从[[John Dewey|杜威]]获得博士学位。
+> - **1912–1917** 赴美留学，就读于哥伦比亚大学[[Normal School|师范学院]]，师从[[John Dewey|杜威]]获得博士学位。
 > - **1919** 创办并主编《新教育》杂志（*[[New Education Movement|The New Education]]*），使之成为民国新教育运动的核心理论阵地。（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, p.614]]）
 > - **1919–1921** 与[[Hu Shi|胡适]]、[[Tao Xingzhi|陶行知]]等哥大校友共同筹划并全程接待[[John Dewey|杜威]]在华巡回讲演，构成了杜威思想在华[[Recontextualization|再脉络化]]的人际基础设施。（[[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009, p.73]]）
 > - **1919–1925** 主编《新教育》，以“养成健全人格、创造进步社会”为宗旨，大力推动激进的[[Democratic Education|民主教育]]改革。（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, pp.614–615]]）

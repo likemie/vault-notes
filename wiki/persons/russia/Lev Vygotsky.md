@@ -66,7 +66,7 @@ related_arguments:
 > [!person-profile] 人物档案
 > - **身份位置** 苏联心理学家、教育心理学家，文化-历史心理学（Cultural-Historical Psychology）奠基人，前帝俄与早期苏联心理学革新者。
 > - **核心角色** 20 世纪社会文化理论（Sociocultural Theory）与第一代文化-历史[[Third Generation Activity Theory|活动理论]]（CHAT）创始人；在心理学与教育学交汇处构建了中介符号、概念分化与社会认知发展的理论框架。
-> - **代表贡献** 提出心理中介三角（第一代活动理论）；提出科学概念与自发概念的[[Epistemology|认识论]]区分；提出[[Zone of Proximal Development|最近发展区]]（ZPD）与认知支架（Cognitive Scaffolding）理论。[[Argument_McPhail_2023_JCS|(McPhail et al., 2023, p. 4)]]; [[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 590, 596)]]
+> - **代表贡献** 提出心理中介三角（第一代活动理论）；提出科学概念与自发概念的[[Epistemology|认识论]]区分；提出[[Zone of Proximal Development|最近发展区]]（ZPD）与[[Scaffolding|认知支架]]（Cognitive Scaffolding）理论。[[Argument_McPhail_2023_JCS|(McPhail et al., 2023, p. 4)]]; [[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 590, 596)]]
 
 > [!citation-card]- 人物定位的关键来源
 > 提高学生的考试成绩与[[Learner-Centred Education|以学生为中心的教育]]（LCE）并不冲突。维果茨基关于社会互动促进认知发展的见解，恰好呼应了[[Confucius|孔子]]关于[[Dialogue in Education|对话]]式教学有助于深度思考的古老信念。（p.596）
@@ -106,7 +106,7 @@ related_arguments:
 > [!claim] 社会文化互动与传统[[Dialogue in Education|对话]]信念的亲和
 > 维果茨基断言社会互动是认知深化的核心中介。在东亚高压考试与教学改革语境中，这一论断被发现与[[Confucius|孔子]]关于“启发式对话教学有助于深度思考”的古老传统信念产生了深刻的[[Selective Affinity|选择性亲和]]（Selective Affinity），帮助本土教师消解了对外来以学生为中心教育（[[Learner-Centred Education|LCE]]）的异己感。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 596)]]
 
-> [!claim] 认知支架与社会化引导
+> [!claim] [[Scaffolding|认知支架]]与社会化引导
 > 维果茨基学派提出**认知支架（Cognitive Scaffolding）**与[[Zone of Proximal Development|最近发展区]]理论，强调儿童并非在真空中孤立建构技能，而是通过社交世界（如照料者与教师）的持续引导获得文化性认知工具。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 198)]]
 
 > [!citation-card]- 关键表述
@@ -120,7 +120,7 @@ related_arguments:
 
 > [!influence-path] 影响路径
 > - **理论路径** 提出的第一代心理中介三角（Subject–Tool–Object）被 [[Yrjö Engeström|Yrjö Engeström]]（1987, 2001）扩展为第二代与[[Third Generation Activity Theory|第三代活动理论]]；科学/自发概念区分被 [[Michael Young]] 与 Graham McPhail 吸收为[[Social Realism|社会实在论]]与[[Curriculum Design Coherence Model|课程设计连贯性模型]]（CDCM）的核心[[Epistemology|认识论]]工具。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 590)]]; [[Argument_McPhail_2023_JCS|(McPhail et al., 2023, p. 4)]]
-> - **方法路径** 认知支架理论成为家庭社会化与母子[[Dialogue in Education|对话]]研究（[[Mother-Child Conversation|MCC]]）中质性[[Discourse Analysis|话语分析]]（Discourse Analysis）的核心理论锚点。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 198)]]
+> - **方法路径** [[Scaffolding|认知支架]]理论成为家庭社会化与母子[[Dialogue in Education|对话]]研究（[[Mother-Child Conversation|MCC]]）中质性[[Discourse Analysis|话语分析]]（Discourse Analysis）的核心理论锚点。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 198)]]
 > - **政策与教学路径** 广泛影响了全局以学生为中心教育（[[Learner-Centred Education|LCE]]）、对话教学（Dialogic Teaching）与学科课程设计的编制。
 > - **批判路径** 在[[Educational Neuroscience|教育神经科学]]（[[Educational Neuroscience|Educational Neuroscience]]）兴起时，维果茨基社会文化理论被学者用于抵制将学习简化为大脑神经元生理机制的还原论，保护学习的社会性与关系维度。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 121)]]
 

@@ -64,10 +64,10 @@ updated: 2026-09-07
 
 > [!person-profile] 人物档案
 > - **身份位置** 奥地利裔英国哲学家、科学哲学家与社会哲学家，伦敦政治经济学院（LSE）逻辑与[[Scientific Method|科学方法]]正教授，20 世纪最具影响力的科学哲学家之一。
-> - **核心角色** 逻辑[[Positivism|实证主义]]经验证实原则与归纳主义的颠覆者，批判理性主义（Critical Rationalism）奠基人；以[[Falsification|可证伪性]]确立科学划界标准，提出[[Critical Dualism|批判二元论]]与情境分析逻辑，重塑了[[Postpositivism|后实证主义]]与教育政策分析的[[Epistemology|认识论]]基石。
+> - **核心角色** 逻辑[[Positivism|实证主义]]经验证实原则与归纳主义的颠覆者，批判[[Rationalism in International Relations|理性主义]]（Critical Rationalism）奠基人；以[[Falsification|可证伪性]]确立科学划界标准，提出[[Critical Dualism|批判二元论]]与情境分析逻辑，重塑了[[Postpositivism|后实证主义]]与教育政策分析的[[Epistemology|认识论]]基石。
 > - **代表贡献** 提出[[Falsification|证伪主义]]（Falsificationism）与严格检验判准；出版《开放社会及其敌人》（1945）奠定批判二元论与零星社会工程；建立猜想与反驳的知识增长模型，直接催生了[[Brian Holmes|布赖恩·霍姆斯]]的比较教育[[Problem Approach|问题法]]。
 
-> [!citation-card] 科恩等论推测性知识与科学推理的理性对话
+> [!citation-card] 科恩等论推测性知识与科学推理的理性[[Dialogue in Education|对话]]
 > 科学推理因此在所有层面都是两个思想片段之间的互动——在可能与实际之间的[[Dialogue in Education|对话]]，在推测与批评之间，在什么可能是真的与什么实际上是事实之间。安全而一劳永逸的基础知识必须让位于充满风险但不断接受证伪检验的尝试性推测。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1; Medawar, 1972, p. 22)]]
 >
 > *Scientific reasoning is an exploratory dialogue that can be resolved into two thought-processes: an imaginative and a critical, a dialogue between the possible and the actual... between what might be true and what is in fact the case.*
@@ -80,7 +80,7 @@ updated: 2026-09-07
 > - **1902** 出生于奥地利维也纳；早年在维也纳大学攻读数学、物理学、心理学与哲学，1928 年获哲学博士学位。
 > - **1934** 出版德文科学哲学里程碑巨著《科学发现的逻辑》（*Logik der Forschung*），针锋相对地批判维也纳学派逻辑[[Positivism|实证主义]]的归纳原则与经验证实标准，首创[[Falsification|可证伪性]]划界理论。
 > - **1937–1945** 为躲避纳粹迫害流亡新西兰，任教于坎特伯雷大学；在战火中撰写政治哲学巨著《开放社会及其敌人》（*The Open Society and Its Enemies*, 1945），系统阐释[[Critical Dualism|批判二元论]]，对[[Plato|柏拉图]]、[[Georg Wilhelm Friedrich Hegel|黑格尔]]与马克思的历史决定论发起毁灭性批判。
-> - **1946–1969** 迁居英国，任教于伦敦政治经济学院（LSE），1949 年晋升为逻辑与[[Scientific Method|科学方法]]讲座教授；在此期间[[Brian Holmes|霍姆斯]]赴 LSE 研修科学哲学，深受其反归纳主义与批判二元论的深刻洗礼。
+> - **1946–1969** 迁居英国，任教于伦敦政治经济学院（LSE），1949 年晋升为逻辑与[[Scientific Method|科学方法]]讲座教授；在此期间霍姆斯赴 LSE 研修科学哲学，深受其反归纳主义与批判二元论的深刻洗礼。
 > - **1963** 出版《猜想与反驳：科学知识的增长》（*Conjectures and Refutations*），系统确立科学知识通过提出大胆猜想、接受经验反驳而演进的试错模型。
 > - **1965** 在伦敦国际科学哲学研讨会上与[[Thomas Kuhn|托马斯·库恩]]展开著名的世纪大辩论（“证伪试错 vs 常规科学解谜”）。
 > - **1969** 从 LSE 荣休，受封为英国爵士（Sir Karl Popper）。
@@ -143,13 +143,13 @@ updated: 2026-09-07
 
 ## 历史评价
 
-> [!citation-card] [[Louis Cohen|科恩]]等论波普尔对[[Postpositivism|后实证主义]]教育研究的奠基
+> [!citation-card] 科恩等论波普尔对[[Postpositivism|后实证主义]]教育研究的奠基
 > 卡尔·波普尔以[[Falsification|可证伪性]]替代了[[Positivism|实证主义]]僵化的经验证实原则，深刻改变了现代科学哲学与研究方法论。他证明了人类所有关于世界的知识在本质上都是推测性的、可质疑的与持续修正的，为摆脱朴素实证主义的教条专断确立了理性反思空间。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1)]]
 >
 > *Karl Popper profoundly influenced scientific philosophy and research methodology... Establishing conjectural knowledge in place of absolute certainty, his critical rationalism forms the bedrock of post-positivism.*
 
 > [!citation-card] 马修论波普尔哲学在比较教育科学化运动中的桥梁功能
-> 迪米特里斯·马修（Dimitris Mattheou）指出，波普尔在《开放社会及其敌人》中阐述的[[Critical Dualism|批判二元论]]，构成了[[Brian Holmes|霍姆斯]]在 1960 年代抗衡美国实证主义普遍因果律的最强武器；这一哲学资源使比较教育学者得以在保持假说检验严密性的同时，坚守规范价值与历史文化的独立地位，避免了将教育政策沦为纯粹技术官僚数理计算的危险。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 62–63)]]
+> 迪米特里斯·马修（Dimitris Mattheou）指出，波普尔在《开放社会及其敌人》中阐述的[[Critical Dualism|批判二元论]]，构成了霍姆斯在 1960 年代抗衡美国实证主义普遍因果律的最强武器；这一哲学资源使比较教育学者得以在保持假说检验严密性的同时，坚守规范价值与历史文化的独立地位，避免了将教育政策沦为纯粹技术官僚数理计算的危险。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 62–63)]]
 >
 > *Holmes embraced Popper's critical dualism... distinguishing man-made normative laws representing human beliefs from sociological laws describing institutional functioning, reserving a vital space for history within a scientific framework.*
 
@@ -160,14 +160,14 @@ updated: 2026-09-07
 > [!person-network] 关系网络
 > - **科学哲学论辩对手** [[Thomas Kuhn|托马斯·库恩]] — 就“科学革命与[[Falsification|证伪]]批判 vs 常规[[Scientific Paradigm|科学范式]]与解谜共同体”展开 20 世纪下半叶最重要的科学哲学大论战；
 > - **学生与学派继承者** 伊姆雷·拉卡托斯（Imre Lakatos）、保罗·费耶阿本德（Paul Feyerabend）— 继承并激进化其反归纳与证伪思想；
-> - **比较教育学核心转化者** [[Brian Holmes|布赖恩·霍姆斯]] — 深受其批判理性主义与[[Critical Dualism|批判二元论]]熏陶，将其方法论化为比较教育[[Problem Approach|问题法]]；
+> - **比较教育学核心转化者** [[Brian Holmes|布赖恩·霍姆斯]] — 深受其批判[[Rationalism in International Relations|理性主义]]与[[Critical Dualism|批判二元论]]熏陶，将其方法论化为比较教育[[Problem Approach|问题法]]；
 > - **社会哲学批判对象** [[Plato|柏拉图]]、[[Georg Wilhelm Friedrich Hegel|黑格尔]]、卡尔·马克思 — 被其在《开放社会及其敌人》中定性为历史主义与极权乌托邦工程的思想源头。
 
 ---
 
 ## 争议与批评
 
-> [!debates] 围绕波普尔批判理性主义与证伪原则的学术争鸣
+> [!debates] 围绕波普尔批判[[Rationalism in International Relations|理性主义]]与[[Falsification|证伪]]原则的学术争鸣
 >
 > > [!axis] [[Falsification|证伪]]原则的非对称性 vs 整体论反驳（迪昂-奎因论题）
 > > 争论焦点在于单个经验证据是否真的能够在逻辑上断然证伪一个理论。
@@ -175,7 +175,7 @@ updated: 2026-09-07
 > > - **Karl Popper（1934, 1959）** 强调全称命题与单称命题之间的逻辑非对称性：一千只白天鹅不能证实所有天鹅皆白，但一只黑天鹅即可在逻辑上证伪该全称判断。
 > > - **Pierre Duhem & [[W. V. O. Quine]]** 提出迪昂-奎因论题反驳指出，理论总是作为整体网络共同面对经验法庭；当推导出的预测失败时，研究者完全可以通过修改辅助[[Hypothesis|假设]]来挽救核心理论，孤立的断然证伪在实际研究中极少发生。
 >
-> > [!axis] 持续革命的规范理想 vs 常规科学的历史实态（[[Thomas Kuhn|库恩]]之辩）
+> > [!axis] 持续革命的规范理想 vs 常规科学的历史实态（库恩之辩）
 > > 争论焦点在于科学家的真实实践究竟是持续追求自我反驳，还是维护既定权威[[Paradigm|范式]]。
 > >
 > > - **Karl Popper（1965）** 坚信真正的科学家应当具有不懈的[[Critical Thinking Disposition|批判精神]]，时刻准备放弃被经验证据反驳的假说。

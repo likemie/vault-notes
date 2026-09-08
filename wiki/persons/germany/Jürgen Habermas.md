@@ -93,18 +93,18 @@ updated: 2026-09-06
 
 > [!person-profile] 人物档案
 > - **身份位置** 德国哲学家、社会学理论家、法兰克福大学哲学与社会学荣休教授；当代法兰克福[[Critical Theory|批判理论]]的集大成者与战后欧洲公共知识分子的典范。
-> - **核心角色** 在哲学[[Epistemology|认识论]]与[[Critical Pedagogy|批判教育学]]网络中，哈贝马斯是连接[[Immanuel Kant|康德]][[Enlightenment|启蒙理性]]遗产、法兰克福批判社会理论与现代教育治理反思的关键枢纽；他开创了交往行动理论、公共领域学说与三种知识构成性兴趣[[Paradigm|范式]]，为诊断[[Positivism|实证主义]]霸权、工具理性异化以及现代教育制度的合法化危机提供了基础性的批判框架。
+> - **核心角色** 在哲学[[Epistemology|认识论]]与[[Critical Pedagogy|批判教育学]]网络中，哈贝马斯是连接[[Immanuel Kant|康德]]启蒙理性遗产、法兰克福批判社会理论与现代教育治理反思的关键枢纽；他开创了交往行动理论、公共领域学说与三种知识构成性兴趣[[Paradigm|范式]]，为诊断[[Positivism|实证主义]]霸权、工具理性异化以及现代教育制度的合法化危机提供了基础性的批判框架。
 > - **代表贡献**
 >   1. **知识构成性兴趣三分法** 提出技术、实践与解放三种根本认知兴趣，奠定批判社会科学与[[Emancipatory Action Research|解放性行动研究]]的认识论根基；
 >   2. **交往行动理论与[[Ideal Speech Situation|理想言说情境]]** 确立以无强制的交往理性抵御“系统对生活世界的殖民”，为民主审议与教育人道化提供规范标准；
 >   3. **现代性工程与合法化危机分析** 论证“现代性是一项未完成的工程”，指出国民公共教育是重构理性公共领域与现代民族国家的核心前提；提出国家资本主义下“合法化危机（Legitimation Crisis）”[[Analytic Framework|分析框架]]，深刻影响了当代教育评价与循证改革的社会学解构。
 
-哈贝马斯关于[[Enlightenment|启蒙现代性]]与理性公共领域的论断，构成了理解现代公共教育起源的经典理论基石：
+哈贝马斯关于启蒙现代性与理性公共领域的论断，构成了理解现代公共教育起源的经典理论基石：
 
 > [!citation-card]- 人物定位的关键来源
 > 哈贝马斯指出，西方文明向现代转型的核心在于以理性组织日常生活，并“重建理性得以彰显的公共领域（reconstruction of the public sphere in which reason might prevail）”，以及发展“客观科学”与普遍的“道德和法律”；而国民公共教育的理性组织，正是现代国家重建公共领域与塑造现代公民的根本前提。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 24–25; Habermas, 2007)]]
 >
-> *Central to the 'modernity project', to use Jürgen Habermas's much discussed characterisation of this transmutation ... was the Enlightenment ideas of reason and the 'reconstruction of the public sphere in which reason might prevail', as well as the 'rational organisation of everyday social life', of 'objective science', of universal 'morality and law'.*
+> *Central to the 'modernity project', to use Jürgen Habermas's much discussed characterisation of this transmutation ... was the [[Enlightenment]] ideas of reason and the 'reconstruction of the public sphere in which reason might prevail', as well as the 'rational organisation of everyday social life', of 'objective science', of universal 'morality and law'.*
 
 ---
 

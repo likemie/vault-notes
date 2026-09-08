@@ -49,7 +49,7 @@ updated: 2026-08-17
 
 > [!instrument-profile] [[Epistemological Understanding|认识论理解]]评估工具 (EUA)
 > - **工具类型** [[Questionnaire|问卷]]、测验
-> - **开发者与年份** [[Thomas Kuhn|Kuhn]], Cheney, & Weinstock (2000)。
+> - **开发者与年份** Kuhn, Cheney, & Weinstock (2000)。
 > - **测量目的** 用于诊断和描述个体在五个判断领域中的[[Epistemology|认识论]]发展阶段（[[Absolutist|绝对论者]]、[[Multiplist|多元论者]]、[[Evaluativist|评价论者]]）。
 > - **实施方式** 自陈纸笔测验（或访谈，如针对低龄儿童）。
 

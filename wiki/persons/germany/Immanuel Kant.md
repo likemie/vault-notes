@@ -74,14 +74,14 @@ updated: 2026-09-06
 伊曼努尔·康德（Immanuel Kant, 1724–1804）是德国哲学家，[[Enlightenment|启蒙运动]]的集大成者与德国古典哲学的奠基人。他终身执教于柯尼斯堡大学，以三大批判体系重塑了西方哲学的[[Epistemology|认识论]]、伦理学与美学版图，并在政治哲学、[[Wight's Three Traditions of International Theory|国际关系理论]]与现代教育思想中占据着枢纽性的源头地位。
 
 > [!person-profile] 人物档案
-> - **身份位置** 德国哲学家、[[Enlightenment|启蒙时代]]思想大师、柯尼斯堡大学逻辑与形而上学讲座教授；德国批判哲学与古典唯心论的奠基旗手。
+> - **身份位置** 德国哲学家、启蒙时代思想大师、柯尼斯堡大学逻辑与形而上学讲座教授；德国批判哲学与古典唯心论的奠基旗手。
 > - **核心角色** 在西方哲学史上发动认识论的“哥白尼式革命”，提出先天范畴论终结先天论与经验论的千年论争；确立理性自律的定言律令伦理学；在国际政治理论中开创以世界公民共同体与[[Perpetual Peace|永久和平]]为核心的“[[Revolutionism|革命主义]]（Revolutionism）”传统；在教育哲学中确立“启蒙即勇敢运用理性”与“人只有受教育才能成为人”的现代主体性命题。
-> - **代表贡献** 创立三大批判体系（《纯粹理性批判》《实践理性批判》《判断力批判》）；发表《答复这个问题：[[Enlightenment|什么是启蒙？]]》（1784）与《论永久和平》（1795）；其启蒙自主性哲学与永久和平蓝图深刻启迪了 19 世纪初现代比较教育始祖[[Marc-Antoine Jullien|马克-安托万·朱利安]]，促成了比较教育学从革命政治暴力向教育预防论与国际和平治理的[[Paradigm|范式]]转向。
+> - **代表贡献** 创立三大批判体系（《纯粹理性批判》《实践理性批判》《判断力批判》）；发表《答复这个问题：什么是启蒙？》（1784）与《论永久和平》（1795）；其启蒙自主性哲学与永久和平蓝图深刻启迪了 19 世纪初现代比较教育始祖[[Marc-Antoine Jullien|马克-安托万·朱利安]]，促成了比较教育学从革命政治暴力向教育预防论与国际和平治理的[[Paradigm|范式]]转向。
 
 在启蒙现代性的知识图谱中，康德确立了理性自由与公共启蒙之间不可分割的共生关系：
 
 > [!citation-card] 人物定位的关键来源：启蒙即公开运用理性的自由
-> 康德指出，[[Enlightenment|启蒙]]就是人从自我招致的未成熟状态中走出来。公众实现自我启蒙的可能性极高，只要赋予其自由——即在所有事务中公开运用自己理性的自由。在启蒙哲学中，教育学、政治学与国家建构自始至终紧密交织。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 20)]]；引自 Kant (1784)
+> 康德指出，启蒙就是人从自我招致的未成熟状态中走出来。公众实现自我启蒙的可能性极高，只要赋予其自由——即在所有事务中公开运用自己理性的自由。在启蒙哲学中，教育学、政治学与国家建构自始至终紧密交织。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 20)]]；引自 Kant (1784)
 >
 > *According to Kant, 'Enlightenment is man's [[Emergence]] from his self-incurred immaturity. There is more chance of an entire public enlightening itself ... if only the public concerned is left in freedom ... freedom to make public use of one's reason in all matters.' ... in the philosophy of the Enlightenment, education, pedagogy, 'politics' and 'nation-building' were closely related.*
 
@@ -89,7 +89,7 @@ updated: 2026-09-06
 
 ## 生平与职涯
 
-康德的学术生平与 18 世纪欧洲启蒙运动的高潮及大革命动荡同频共振：
+康德的学术生平与 18 世纪欧洲[[Enlightenment|启蒙运动]]的高潮及大革命动荡同频共振：
 
 > [!timeline] 生平与职涯
 > - **1724** 出生于东普鲁士柯尼斯堡的一个虔敬派（Pietist）工匠家庭。
@@ -97,7 +97,7 @@ updated: 2026-09-06
 > - **1755** 提交《自然通史与天体理论》，提出解释太阳系起源的“星云假说”；同年以《形而上学认识各首要原则的新解说》获得大学任教资格。
 > - **1770** 就任柯尼斯堡大学逻辑与形而上学讲座教授，发表就职论文《感性与知性世界的形式与原则》，开启长达十年的沉潜批判思考。
 > - **1781** 出版第一批判《纯粹理性批判》（*Kritik der reinen Vernunft*），宣告先验批判哲学的正式诞生，完成[[Epistemology|认识论]]的哥白尼式转向。
-> - **1784** 发表里程碑[[Enlightenment|启蒙]]论著《答复这个问题：“什么是启蒙？”》（*Beantwortung der Frage: Was ist Aufklärung?*），提出“Sapere aude!（敢于求知／勇于运用自己的理性！）”的时代口号。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 20)]]
+> - **1784** 发表里程碑启蒙论著《答复这个问题：“什么是启蒙？”》（*Beantwortung der Frage: Was ist Aufklärung?*），提出“Sapere aude!（敢于求知／勇于运用自己的理性！）”的时代口号。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 20)]]
 > - **1785–1788** 相继出版《道德形而上学奠基》（1785）与第二批判《实践理性批判》（1788），确立绝对命令与理性自律道德哲学。
 > - **1790** 出版第三批判《判断力批判》（*Kritik der Urteilskraft*），沟通自然必然性与道德自由，批判哲学体系正式合龙。
 > - **1795** 针对欧洲热月政变后的国际战争局势发表《论[[Perpetual Peace|永久和平]]》（*Zum ewigen Frieden*），构想主权共和国联盟与世界公民款待权法权框架。
@@ -121,7 +121,7 @@ updated: 2026-09-06
 >   - **阶段转向** 成功在纯粹理性经验边界（现象界）与实践理性道德要求（本体界）之间建立起严格划分，将人类心智确立为能动立法的主体。
 > - **1784–1803 — 历史哲学、政治世界主义与教育实践应用时期** 将批判哲学的理性自律原则外推至人类历史进程、国际政治秩序与代际教育培养之中。
 >   - **代表著作** 《答复这个问题：“什么是启蒙？”》（1784）、《世界公民观点下的普遍历史观念》（1784）、《论[[Perpetual Peace|永久和平]]》（1795）、《论教育学》（1803）。
->   - **关键概念／方法** 启蒙（*Aufklärung*）、公共理性运用、世界公民状态（*Weltbürgertum*）、[[Perpetual Peace|永久和平]]（*Zum ewigen Frieden*）、自然非社会的社会性、教育四阶段（照料、[[Disciplina and Doctrina|规训]]、[[Bildung|教化]]、道德化）。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 20)]]；[[Argument_Klerides_2023_CE|Klerides (2023, p. 418)]]
+>   - **关键概念／方法** 启蒙（*[[Enlightenment|Aufklärung]]*）、公共理性运用、世界公民状态（*Weltbürgertum*）、[[Perpetual Peace|永久和平]]（*Zum ewigen Frieden*）、自然非社会的社会性、教育四阶段（照料、[[Disciplina and Doctrina|规训]]、[[Bildung|教化]]、道德化）。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 20)]]；[[Argument_Klerides_2023_CE|Klerides (2023, p. 418)]]
 >   - **阶段转向** 明确提出历史的发展指向全人类由野蛮冲突走向世界主义法权与永久和平，而教育构成了实现这一历史目的的唯一本体通道。
 
 ---
@@ -158,7 +158,7 @@ updated: 2026-09-06
 > [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Li_2012_Cambridge|Li (2012)]] — 在西方知识确定性传统与心智奇迹探索中，系统剖析康德范畴论对调和唯理论与经验论、确立人类心智主动加工结构的奠基性贡献。
 > - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 阐释怀特国际理论框架中的康德革命主义传统，揭示其世界主义道德激情如何深刻塑造了 20 世纪批判、[[Dependency Theory|依附论]]与后殖民比较教育研究。
-> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] — 考证康德启蒙哲学如何与[[Jean-Jacques Rousseau|卢梭]]自由思想汇聚，直接催生了朱利安比较教育准科学实证设想背后的世界主义人道主义母题与永久和平蓝图。
+> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] — 考证康德[[Enlightenment|启蒙哲学]]如何与[[Jean-Jacques Rousseau|卢梭]]自由思想汇聚，直接催生了朱利安比较教育准科学实证设想背后的世界主义人道主义母题与永久和平蓝图。
 
 ---
 

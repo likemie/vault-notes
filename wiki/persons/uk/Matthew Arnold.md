@@ -70,7 +70,7 @@ updated: 2026-09-07
 ## 生平与职涯
 
 > [!timeline] 生平与职涯
-> - **1822** **拉格比公学校长之子与古典学养启蒙** 出生于英格兰[[George Herbert Mead|米德]]尔塞克斯郡莱尔姆（Laleham, Middlesex），其父为著名的历史学家、拉格比公学（Rugby School）校长托马斯·阿诺德（Thomas Arnold）。父亲大刀阔斧推行的公学改革将古典学术修养与基督教绅士人格相融合，确立了维多利亚精英教育的古典[[Bildung|教化]][[Paradigm|范式]]，使阿诺德自幼深沐欧洲古典人道教养（Classical humanistic paideia）。
+> - **1822** **拉格比公学校长之子与古典学养启蒙** 出生于英格兰[[George Herbert Mead|米德]]尔塞克斯郡莱尔姆（Laleham, Middlesex），其父为著名的历史学家、拉格比公学（Rugby School）校长托马斯·阿诺德（Thomas Arnold）。父亲大刀阔斧推行的公学改革将古典学术修养与基督教绅士人格相融合，确立了维多利亚精英教育的古典[[Bildung|教化]][[Paradigm|范式]]，使阿诺德自幼深沐欧洲古典人道教养（Classical humanistic [[Paideia]]）。
 > - **1836–1845** **温切斯特公学、拉格比公学与牛津深造** 先后在温切斯特公学与拉格比公学接受严格的希腊语、拉丁语人文学科训练；1841 年考入牛津大学巴利奥尔学院（Balliol College）；1843 年以长诗《克伦威尔》（*Cromwell*）荣获著名的纽迪盖特诗歌奖（Newdigate Prize）；1845 年当选牛津大学奥里尔学院（Oriel College）院士。
 > - **1847–1851** **出任兰斯当勋爵私人秘书步入教育治理中枢** 担任枢密院议长兰斯当第三代侯爵（Henry Petty-Fitzmaurice, 3rd Marquess of Lansdowne）私人秘书。这一从政阅历使他得以深入了解辉格党政府核心与国家公共教育决策机制；1851 年由兰斯当勋爵直接任命为英国皇家学校督学（Her Majesty's Inspector of Schools, HMI）。
 > - **1851–1886** **三十五载皇家学校督学与一线制度抗争** 在英国枢密院教育委员会任皇家学校督学长达 35 年，足迹遍及英格兰与威尔士基层学校与教师培训学院；他深切体认到基层教学的艰辛，亲历《1862 年修正法典》（Revised Code，按学生考试成绩划拨办学经费的“按结果付酬制”）对学校人文[[Conatus|生机]]的功利性摧残，在年度官方视学报告中持续抗争，力陈教育决不能退化为应试技巧训练。
@@ -104,7 +104,7 @@ updated: 2026-09-07
 >
 > *Culture is not possible without the State. The State is the nation in its collective and corporate character. The action of the State is the action of each of us, acting through the whole nation, to achieve what no single individual could achieve alone.*
 
-> [!citation-card] 批判自由放任市侩主义并确立古典教化的屏障功能
+> [!citation-card] 批判自由放任市侩主义并确立[[Paideia|古典教化]]的屏障功能
 > 面对维多利亚时代自由放任资本主义所滋生的缺乏甘美与光明的市侩庸人，阿诺德深刻指出，将自由窄化为不受政府管制的放任自由是一种危险的迷思。放任自流必然导致商业暴发户的精神贫瘠与下层民众的无政府骚乱；唯有依靠国家建立普及中等学校，向全民播撒整全的人文教化，才能构筑抵御野蛮化的文明防线。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 38–39)]]
 >
 > *Against the rampant Philistinism of the middle class and the threat of anarchy, Arnold argued that culture—the pursuit of our total perfection through sweetness and light—must be preserved and disseminated by the State through a truly national system of secondary schools.*
