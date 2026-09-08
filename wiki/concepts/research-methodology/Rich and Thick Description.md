@@ -163,7 +163,5 @@ Morrison（1993, p. 88）进一步指出，通过在一段时间内沉浸于特�
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 将厚描述定位为八种[[Qualitative Validity|质性效度]]策略之一，强调其在[[Ethnography|民族志]]和[[Case Study|案例研究]]中的核心作用以及与[[Naturalistic Generalization|自然主义概括]]的关系。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011, Ch. 11)]] — 将厚描述定位为自然主义[[Paradigm|范式]]的核心公理，系统阐述其[[Epistemology|认识论]]根基（Geertz, 1973）、在可[[Reliability|信度]]框架中的位置（Lincoln & Guba, 1985）、平衡功能（Dobbert & Kurth-Schai, 1992）、概括性支撑功能（Larsson, 2009）以及选择性纪律（Swain, 2006）。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al. (2011, Ch. 23)]] — 在观察方法章节中呈现 Carspecken（1996, p. 47）的厚描述六项构成要素、Morrison（1993, p. 88）关于沉浸产生厚描述和整体性视角的论述，以及在参与式观察中厚描述的"现实中强有力"特性（23.6 节）。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|Cohen et al. (2011, Ch. 28)]] — 在质性数据分析章节引用 Geertz（1973）的"铭写社会话语"与民族志描写的四个特征，指出厚描述增加而非减少数据的体积、密度与复杂性，并将厚描述与[[Double Hermeneutic|双重诠释]]、[[Reflexivity|反身性]]相连（28.2 节）。
+> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 将厚描述定位为核心质性效度策略之一，强调其在民族志与案例研究中的现场传达感以及对自然主义概括的支撑（Ch. 9）。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 全书多维度系统论述厚描述的认识论与实践根基：将其确立为自然主义范式公理与概括性基础（Ch. 11）、提炼参与式观察中言语与非言语等构成要素（Ch. 23），并阐释质性分析中铭写社会话语与增加数据密度的双重诠释机制（Ch. 28）。

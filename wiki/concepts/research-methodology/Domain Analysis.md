@@ -63,5 +63,4 @@ updated: '2026-09-08'
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011, pp. 439–442)]] — 将领域分析定位为质性数据分析七步骤框架的第二步，并与[[Progressive Focussing|逐步聚焦]]、[[Analytic Induction|分析归纳法]]和[[Grounded Theory|扎根理论]]共同构成质性分析的完整逻辑。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al. (2011, pp. 566–567)]] — 在[[Content Analysis|内容分析]]第7步（范畴构建）中重申领域分析是建立上位范畴、发现符号间关系的核心环节，系统介绍 Spradley 的领域分析四任务与六步骤。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 系统阐释领域分析在质性分析与内容分析中的双重核心定位：在质性分析七步框架中将其列为范畴聚合的关键第二步（Ch. 11），并在内容分析规程中结合 Spradley 理论详述四项分析任务与六大操作步骤（Ch. 30）。

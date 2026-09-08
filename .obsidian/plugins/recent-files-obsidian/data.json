@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Reflexivity",
+      "path": "wiki/concepts/research-methodology/Reflexivity.md"
+    },
+    {
       "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30",
       "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30.md"
+    },
+    {
+      "basename": "Audit Trail",
+      "path": "wiki/concepts/research-methodology/Audit Trail.md"
     },
     {
       "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28",
@@ -191,14 +199,6 @@
     {
       "basename": "Argument_Partaken_2022_Springer",
       "path": "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Partaken_2022_Springer.md"
-    },
-    {
-      "basename": "Karl Popper",
-      "path": "wiki/persons/austria/Karl Popper.md"
-    },
-    {
-      "basename": "Thomas Kuhn",
-      "path": "wiki/persons/us/Thomas Kuhn.md"
     }
   ],
   "omittedPaths": [],

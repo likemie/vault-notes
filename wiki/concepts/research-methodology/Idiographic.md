@@ -82,5 +82,4 @@ updated: 2026-08-16
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011, Ch. 1)]] — 将个例式置于 Burrell & Morgan 四组[[Hypothesis|假设]]推导链的终点，与[[Nomothetic|通则式]]相对。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|Cohen et al. (2011, Ch. 28)]] — 说明质性数据可分析其个例式属性（个体、独特事件、行为、情境与意图），以生命史、[[Case Study|案例研究]]与叙事为代表。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 系统阐释个例式取向的方法论位置：在哲学基础中将其作为 Burrell & Morgan 假设推导链的方法论终点（Ch. 1），并在质性分析中阐明针对个体意图、独特性情境与叙事生命的分析路径（Ch. 28）。

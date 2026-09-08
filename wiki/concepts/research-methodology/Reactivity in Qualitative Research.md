@@ -109,5 +109,4 @@ updated: 2026-08-20
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011, Ch. 11)]] — 将反应性列为 Maxwell [[Qualitative Validity|质性效度]]检查清单的两大威胁之一，并作为自然主义方法十大问题之一讨论（pp. 442–443, 452）
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al. (2011, Ch. 23)]] — 将反应性列为观察十类偏误来源之一，介绍需求特征（Shaughnessy et al., 2003, p. 113）以及[[Habituation|习惯化]]与隐蔽观察两种对策（23.9, 23.12 节）
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 系统剖析反应性对质性探究的多维挑战：在自然主义研究中将其列为质性效度的核心威胁与方法学难题之一（Ch. 11），并在实地观察中系统论述需求特征偏误以及习惯化与隐蔽观察的应对策略（Ch. 23）。

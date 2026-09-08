@@ -198,6 +198,5 @@ McCormick & James（1988, p. 191）进一步论述了操作含义：高度的反
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 将反身性定位为[[Qualitative Research|质性研究]]的核心特征之一，强调过去经验与研究之间的关联以及经验如何塑造解释。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 阐述反身性在全书多个语境中的面向：Ch1 的[[Phenomenology|现象学]]与[[Ethnomethodology|俗民方法学]]双重哲学根基、Ch11 自然主义[[Ethnography|民族志]]（[[Researcher as Key Instrument|研究者即工具]]与镜中自我）、Ch18 [[Action Research|行动研究]]（[[Emancipatory Action Research|解放性行动研究]]的[[Epistemology|认识论]]基础）、Ch27 [[Visual Research Methods|视觉研究]]中图像解读的反身性。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|Cohen et al. (2011, Ch. 28)]] — 在质性数据分析语境中呈现 Hammersley & Atkinson（1983）关于"写作不是纯技术事务"、分析本身成为文本须经受反身性检验的论述，并以反身性缓解质性数据分析"缺乏客观性"的批评（28.2 节）。
+> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 将反身性定位为质性研究的核心特征之一，强调研究者过往经验与背景如何塑造解释路径（Ch. 9）。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 全书多维度阐述反身性的面向：包括现象学与俗民方法学哲学根基（Ch. 1）、民族志中研究者即工具的自我审视（Ch. 11）、解放性行动研究的认识论基础（Ch. 18）、视觉研究图像解读（Ch. 27），以及质性分析中写作非纯技术性、分析文本自身须受反思检验的机制（Ch. 28）。
