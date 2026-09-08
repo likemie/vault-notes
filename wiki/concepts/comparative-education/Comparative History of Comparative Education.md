@@ -166,7 +166,7 @@ updated: 2026-09-06
 > 探讨如何通过细读 19 世纪原始文本，解构将比较教育学发端单向度归结为实证经验主义的辉格史叙事。
 
 > [!claim] Kaloyannaki, P. & Kazamias, A. M.
-> **准科学与行政改良的双重母题交织** 佩拉·卡洛扬纳基（Pella Kaloyannaki）与安德烈亚斯·卡扎米亚斯（Andreas Kazamias）指出，比较教育学的现代主义发端并非单一[[Positivism|实证主义]]科学的线性演进，而是由启蒙后现代性所催生的两种母题交织驱动：其一是[[Marc-Antoine Jullien|马克-安托万·朱利安]]（Marc-Antoine Jullien de Paris）开创的准科学人道主义母题，其二是[[Victor Cousin|维克多·库森]]（Victor Cousin）与[[Horace Mann|霍勒斯·曼]]（Horace Mann）等改革者推进的政策导向行政[[Educational Meliorism|改良主义]]母题。将早期文献置于历史语境中审视揭示出：朱利安的准实证构想本质上是启蒙人文科学（*sciences humaines*）与全人道德重生的世界主义和平工程，而非 20 世纪[[Value Neutrality|价值无涉]]的极端实证论；而英美法的行政考察则在欧陆表现为以国家为中心的选择性制度借鉴，在北美表现为将外部经验作为国内争议改革合法化依据的政治动员。这一辨析从根本上瓦解了早期线性起源神话的狭隘性，为建立多元批判的比较教育学比较史奠定了坚实的史料基础。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 11–13, 33–34)]]
+> **准科学与行政改良的双重母题交织** 佩拉·卡洛扬纳基（Pella Kaloyannaki）与安德烈亚斯·卡扎米亚斯（Andreas Kazamias）指出，比较教育学的现代主义发端并非单一[[Positivism|实证主义]]科学的线性演进，而是由启蒙后现代性所催生的两种母题交织驱动：其一是[[Marc-Antoine Jullien|马克-安托万·朱利安]]（Marc-Antoine Jullien de Paris）开创的准[[Proto-Scientific Motif|科学人道主义母题]]，其二是[[Victor Cousin|维克多·库森]]（Victor Cousin）与[[Horace Mann|霍勒斯·曼]]（Horace Mann）等改革者推进的政策导向行政[[Educational Meliorism|改良主义]]母题。将早期文献置于历史语境中审视揭示出：朱利安的准实证构想本质上是启蒙人文科学（*sciences humaines*）与全人道德重生的[[Perpetual Peace|世界主义和平]]工程，而非 20 世纪[[Value Neutrality|价值无涉]]的极端实证论；而英美法的行政考察则在欧陆表现为以国家为中心的选择性制度借鉴，在北美表现为将外部经验作为国内争议改革合法化依据的政治动员。这一辨析从根本上瓦解了早期线性起源神话的狭隘性，为建立多元批判的比较教育学比较史奠定了坚实的史料基础。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 11–13, 33–34)]]
 
 ---
 
@@ -185,7 +185,7 @@ updated: 2026-09-06
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1960年代 — 线性规范起源叙事的奠定** [[Harold Noah|诺亚]]与[[Max Eckstein|埃克斯坦]]在《迈向比较教育科学》（1969）以及贝雷迪（1964）的经典教材中，确立了将学科史划分为“旅行者见闻—[[Policy Borrowing|教育借用]]—历史文化背景研究—[[Scientific Method|经验科学]]社会学分析”的单向演进阶梯，实证[[Scientism|科学主义]]确立为学科合法性的基石。
+> - **1960年代 — 线性规范起源叙事的奠定** 诺亚与埃克斯坦在《迈向比较教育科学》（1969）以及贝雷迪（1964）的经典教材中，确立了将学科史划分为“旅行者见闻—[[Policy Borrowing|教育借用]]—历史文化背景研究—[[Scientific Method|经验科学]]社会学分析”的单向演进阶梯，实证[[Scientism|科学主义]]确立为学科合法性的基石。
 > - **1980–1990年代 — [[Epistemology|认识论]]危机与去中心化反思** 后现代、后殖民与[[Critical Theory|批判理论]]视角引入学科（如马丁·卡诺伊 [Martin Carnoy]、罗伯特·阿诺夫 [Robert Arnove]），学者开始反思西方现代化理论的霸权，呼吁打破单一欧美中心叙事并关注第三世界的依附与抵抗。
 > - **2000年代初 — 奠基神话与核心文本的个案重读** 卡扎米亚斯与考恩等人系统重审[[Michael Sadler|萨德勒]]爵士的吉尔福德演讲与[[Marc-Antoine Jullien|朱利安]]的《计划》，揭示学科教科书对经典[[Document|文献]]的去脉络化拔高，开启了对学科集体记忆与肖像学的学术反思。
 > - **2009年 — 比较教育学比较史的方法论确立** 考恩在施普林格《国际比较教育学手册》开篇导论中正式提出“比较教育学的历史应演变为比较教育学的比较史”，系统制定了深挖未见档案、纳入拉美等多元中心经验、剖析元认识论[[Hypothesis|假设]]以及由未来重塑提问逻辑的批判史学纲领。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, pp. 8–10)]]

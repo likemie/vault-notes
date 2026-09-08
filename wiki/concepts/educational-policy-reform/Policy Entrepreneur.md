@@ -125,7 +125,7 @@ updated: 2026-07-13
 > 探讨政策企业家如何将非营利信托或慈善话语与商业资本、多边开发援助项目结合，模糊公私界限以引导资本进入公共教育系统。
 
 > [!claim] O'Neill, J.
-> **混合创业与资本剥离** 指出政策企业家通过建立非营利性教育信托（如 [[Teach First New Zealand]] 或 [[Cognition Education|Cognition Education Trust]]），一方面获取政府合同和慈善免税资格，另一方面通过旗下的营利性子公司和国际商业合作商，将公共学校服务转化为可源源不断抽取商业利润的品牌产品。([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. viii–ix]])
+> **混合创业与资本剥离** 指出政策企业家通过建立非营利性教育信托（如 [[Teach First New Zealand]] 或 [[Cognition Education|Cognition Education Trust]]），一方面获取政府合同和慈善免税资格，另一方面通过旗下的营利性子公司和国际商业合作商，将[[Common School Movement|公共学校]]服务转化为可源源不断抽取商业利润的品牌产品。([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. viii–ix]])
 
 ---
 

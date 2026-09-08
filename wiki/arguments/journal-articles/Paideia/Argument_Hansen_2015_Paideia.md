@@ -70,7 +70,7 @@ citation_aliases:
 
 > [!info] 研究方法
 > - 方法：编辑导言与主题综述。
-> - 材料：本期 *[[Bildung|Paideia]]* 围绕[[Visible Learning|VL]]组织的主题文章、书评和一篇主题外文章(pp.4–8)。
+> - 材料：本期 *[[Paideia]]* 围绕[[Visible Learning|VL]]组织的主题文章、书评和一篇主题外文章(pp.4–8)。
 > - 路径：先概括 Hattie 对VL现状的自我界定，再逐篇介绍主题号中对知识概念、跨文化适用性、[[Effect Size|效应量]]解释、瑞典学校改革影响和系统改进策略的不同处理方式。
 
 ## 论证结构

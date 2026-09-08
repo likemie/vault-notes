@@ -37,7 +37,7 @@ updated: 2026-08-16
 ## 定义
 
 > [!def] 核心定义
-> 绝对论者（Absolutist）是 [[Thomas Kuhn|Kuhn]] 等人（1991, 2000）界定的基础[[Epistemology|认识论]]立场。该立场的个体尚未实现主客体的分化，他们将知识视为源于外部物理现实的、绝对客观的事实，认为在面对冲突观点时必然只有一个正确答案，并且相信专家或权威确切掌握着真理。[[Argument_Hofer_1997_RER|(Hofer & Pintrich, 1997, p. 104)]]
+> 绝对论者（Absolutist）是 Kuhn 等人（1991, 2000）界定的基础[[Epistemology|认识论]]立场。该立场的个体尚未实现主客体的分化，他们将知识视为源于外部物理现实的、绝对客观的事实，认为在面对冲突观点时必然只有一个正确答案，并且相信专家或权威确切掌握着真理。[[Argument_Hofer_1997_RER|(Hofer & Pintrich, 1997, p. 104)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 标志着个体在“[[Certainty of Knowledge|知识的确定性]]”与“[[Justification for Knowing|认知的辩护]]”上处于最低层级，完全被客观维度主导。

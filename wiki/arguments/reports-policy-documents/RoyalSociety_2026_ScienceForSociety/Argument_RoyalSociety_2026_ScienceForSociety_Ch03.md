@@ -382,7 +382,7 @@ updated: 2026-09-04
 > - **委员会成员（Committee Members）**
 >   - 阿里·贝利（Ali Bailey）：弗朗西斯·克里克研究所（The Francis Crick Institute）传播与公共参与总监；
 >   - 莫希特·巴卡亚（Mohit Bakaya）：英国广播公司第四台（BBC Radio 4）主监兼话语节目总监；
->   - 安德鲁·[[Louis Cohen|科恩]]（Andrew Cohen）：BBC 影业（BBC Studios）科学制作部主管；
+>   - 安德鲁·科恩（Andrew Cohen）：BBC 影业（BBC Studios）科学制作部主管；
 >   - 汤姆·克拉克（[[Theory of Mind|ToM]] Clarke）：天空新闻台（Sky News）科技主编；
 >   - 弗兰克·凯利教授（Professor Frank Kelly）：大英帝国司令勋章获得者（Commander of the Order of the British Empire, CBE）、英国皇家学会院士（Fellow of the Royal Society, FRS）、剑桥大学系统数学教授；
 >   - 阿比盖尔·莫布斯（Abigail Mobbs）：BBC 新闻部（BBC News）社交媒体主管；

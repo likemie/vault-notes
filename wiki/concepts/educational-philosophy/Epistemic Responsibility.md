@@ -117,7 +117,7 @@ updated: 2026-08-02
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1998 — 自由教育学提炼** [[Paulo Freire|弗莱雷]]在《自由教育学》中阐述教育者的[[Epistemology|认识论]]态度与伦理开放性。[[Argument_Darwish_2009_Queens|(Freire, 1998a, p. 49)]]
+> - **1998 — [[Liberal Education|自由教育]]学提炼** [[Paulo Freire|弗莱雷]]在《自由教育学》中阐述教育者的[[Epistemology|认识论]]态度与伦理开放性。[[Argument_Darwish_2009_Queens|(Freire, 1998a, p. 49)]]
 > - **2009 — 学位论文明确提出** 达维什在论文中明确将“认识论责任”作为解构[[Conscientization|批判意识觉醒]]的重要双重维度之一。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 54 注脚63)]]
 
 ---

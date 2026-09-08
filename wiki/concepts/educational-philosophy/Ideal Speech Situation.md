@@ -57,7 +57,7 @@ updated: 2026-07-19
 ## 定义
 
 > [!def] 核心定义
-> 理想言说情境是哈贝马斯（Habermas, 1979, 1982, 1984, 1987）提出的规范性沟通模型，描述了一种所有参与者能够在平等和自由条件下进行理性[[Dialogue in Education|对话]]的理想条件。其核心原则是：共识仅源于更好论证的力量，而非参与者的位置或政治权力，除合作寻求真理外所有动机都被排除。在[[Virtual World|虚拟世界]]研究中，通过虚拟世界探索议题的观点强烈回响着理想言说情境的原则（Morrison, 1995a, p. 102）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19|Cohen et al., 2011, Ch. 19, pp. 157–159]]）。
+> 理想言说情境是[[Jürgen Habermas|哈贝马斯]]（Habermas, 1979, 1982, 1984, 1987）提出的规范性沟通模型，描述了一种所有参与者能够在平等和自由条件下进行理性[[Dialogue in Education|对话]]的理想条件。其核心原则是：共识仅源于更好论证的力量，而非参与者的位置或政治权力，除合作寻求真理外所有动机都被排除。在[[Virtual World|虚拟世界]]研究中，通过虚拟世界探索议题的观点强烈回响着理想言说情境的原则（Morrison, 1995a, p. 102）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19|Cohen et al., 2011, Ch. 19, pp. 157–159]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 理想言说情境指向一种[[Counterfactual|反事实]]的规范性沟通条件，规定了理性共识得以可能的沟通伦理前提。它不是对现实沟通的描述，而是评判现实沟通是否自由和公正的批判标准。
@@ -113,7 +113,7 @@ updated: 2026-07-19
 > [!concept-lens] [[Virtual World|虚拟世界]]作为实现条件
 > 理想言说情境与虚拟世界沟通之间的结构相似性，是该模型在教育研究方法论中最直接的应用。
 
-> [!claim] [[Jürgen Habermas|Habermas]] (1979, 1984); Morrison (1995a)
+> [!claim] Habermas (1979, 1984); Morrison (1995a)
 > **虚拟世界创造近似理想言说的条件** 在虚拟世界中，沟通行动模型与理想言说情境的核心原则深度契合。在沟通自由维度上，参与者通过[[Avatar|化身]]匿名进入话语，享有检查主张、评估解释、修改框架和改变规范的自由。在平等与互惠维度上，化身的匿名性消除了面对面沟通中的传统权力游戏，使参与者成为自主和平等伙伴。在共识与真理维度上，虚拟世界中的讨论更可能接近共识仅源于更好论证的力量这一理想（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19|Cohen et al., 2011, Ch. 19, pp. 157–159]]）。
 
 ### 命题二　理想言说情境为敏感议题研究提供沟通伦理基础
@@ -140,7 +140,7 @@ updated: 2026-07-19
 >
 > - **理论起源：[[Critical Theory|批判理论]]的沟通转向**
 >
->   哈贝马斯在 1970–80 年代的著作中提出理想言说情境，作为其沟通行动理论的核心构件。这一概念植根于法兰克福学派的[[Critical Theory|批判理论]]传统，旨在为理性共识提供规范性基础（Habermas, 1979, 1984）。
+>   [[Jürgen Habermas|哈贝马斯]]在 1970–80 年代的著作中提出理想言说情境，作为其沟通行动理论的核心构件。这一概念植根于法兰克福学派的[[Critical Theory|批判理论]]传统，旨在为理性共识提供规范性基础（Habermas, 1979, 1984）。
 >
 > - **教育研究中的方法论转化**
 >
@@ -172,6 +172,6 @@ updated: 2026-07-19
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19|Cohen et al. (2011, Ch. 19)]] — 在[[Virtual World|虚拟世界]]研究的理论基础部分，将理想言说情境的十四项原则完整列出，论证虚拟世界中的[[Avatar|化身]]沟通深度契合理想言说情境的核心原则，使敏感议题的开放讨论成为可能。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al. (2011, Ch. 2)]] — 以哈贝马斯认识兴趣三分法为框架，系统介绍[[Critical Theory|批判理论]]及其在教育研究中的应用。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al. (2011, Ch. 2)]] — 以[[Jürgen Habermas|哈贝马斯]]认识兴趣三分法为框架，系统介绍[[Critical Theory|批判理论]]及其在教育研究中的应用。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|Cohen et al. (2011, Ch. 18)]] — 在[[Action Research|行动研究]]的解放性维度中，将理想言说情境作为对称沟通的前提条件，讨论其在[[Emancipatory Action Research|批判性行动研究]]中的角色（Zuber-Skerritt, 1996a）。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22|Cohen et al. (2011, Ch. 22)]] — 在[[Discourse Analysis|话语分析]]的理论基础部分，将理想言说情境作为批判方法论标准，指出话语分析需要揭示系统性扭曲沟通的压制性力量，并对研究本身所产生的话语保持双重[[Reflexivity|反身性]]。

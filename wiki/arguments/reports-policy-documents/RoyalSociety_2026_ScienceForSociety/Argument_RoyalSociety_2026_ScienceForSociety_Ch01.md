@@ -136,7 +136,7 @@ updated: 2026-09-04
 
 > [!case] [[Case Study|案例研究]]：PISA 国际测评中的科学素养转向与真实情境应用
 > - **案例背景与理论溯源** 20 世纪末，英国纳菲尔德基金会与惠康信托资助 Millar & Osborne 研制的《Beyond 2000: Science Education for the Future》里程碑报告，明确批判了传统过度偏重孤立概念灌输与公式记忆的精英式科学大纲。该报告提出的面向所有公民的科学教育（Science for All）构念，直接启发了经济合作与发展组织（Organisation for Economic Co-operation and Development, OECD）构建国际学生评估项目（Programme for International Student Assessment, PISA）的科学测评框架。（p. 31）
-> - **[[Epistemology|认识论]]转向与测评哲学** PISA 彻底打破了考查特定国家教学大纲细枝末节公式与事实记忆的传统测评范式，转向评估 15 岁青少年在完成义务教育阶段时，面对真实世界复杂情境（健康卫生、生态环境、资源危机、前沿科技）运用科学探究方法与实证证据解决现实问题的综合素养。
+> - **[[Epistemology|认识论]]转向与测评哲学** PISA 彻底打破了考查特定国家教学大纲细枝末节公式与事实记忆的传统测评范式，转向评估 15 岁青少年在完成义务教育阶段时，面对真实世界复杂情境（健康卫生、生态环境、资源危机、前沿科技）运用[[Scientific Method|科学探究方法]]与实证证据解决现实问题的综合素养。
 > - **三大核心科学胜任力构念**
 >   1. **科学地解释现象（Explaining phenomena scientifically）** 识别、提供并评估多学科自然与技术现象的科学解释模型；
 >   2. **评价与设计科学探究（Evaluating and designing scientific enquiry）** 描述并评估探究设计方案，识别可检验的[[Hypothesis|研究假设]]与控制[[Variable|变量]]，评估数据采集的有效性与严密性；

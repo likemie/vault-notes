@@ -58,7 +58,7 @@ updated: 2026-09-06
 
 > [!concept-lens] 概念透镜
 > - **含义** 指称现代国家将教育治理权从教会教义统治与私人商业买卖中彻底收归公权范畴，建立自上而下的国家公共教育管理行政机器的制度化过程。
-> - **用途** 揭示 19 世纪欧洲大陆改革派（如库森）与北美公学运动先驱（如曼）如何依托“国家公共资源论”消除制度正当性赤字，为强制征税设校、建立公立师范学校以及推行实定法直接移植提供法理辩护。
+> - **用途** 揭示 19 世纪欧洲大陆改革派（如[[Victor Cousin|库森]]）与北美[[Common School Movement|公学运动]]先驱（如曼）如何依托“国家公共资源论”消除制度正当性赤字，为强制征税设校、建立公立[[Normal School|师范学校]]以及推行实定法直接移植提供法理辩护。
 > - **边界** 严格区别于极权主义国家消灭一切社会自主性的思想绝对垄断；近代自由立宪国家所确立的国家教育权，在保障世俗国家最高视导权的同时，普遍法定承认“教学自由（*la liberté d’enseignement*）”与社会力量办学权利，确立的是国家在公共标准、国民道德与公民认同底线上的**最高监督主权（Supreme Right of Supervision）**。
 
 > [!citation-card]- 关键表述：教育权作为神圣的国家公共资源
@@ -67,7 +67,7 @@ updated: 2026-09-06
 > *He argued that the right to educate was neither the natural right of the individual, nor of a group of individuals sharing a special creed, nor was it a private industry; 'it is a public resource'. ... Organized society—the State—by providing a school has the right and the duty to insist that certain conditions obtain: this is the State's right of supervision.*
 
 > [!boundary]- 概念边界
-> - 不等于教会教义特权（Ecclesiastical Monopoly） — 传统教会将学校视作教区附属物与拯救灵魂的工具，排斥世俗法律干涉；国家教育权坚持学校首先是培养爱国国民与遵守世俗法律公民的公共场域。
+> - 不等于教会教义特权（Ecclesiastical Monopoly） — 传统教会将学校视作教区附属物与拯救灵魂的工具，排斥世俗法律干涉；国家教育权坚持学校首先是培养爱国国民与遵守世俗法律公民的公共[[Champ|场域]]。
 > - 不等于自由主义私人产业论（Laissez-faire Industry） — 纯粹市场观念将教育视为由家庭购买力决定的私人商品；国家教育权断定教育具有决定社会秩序存亡的强正外部性，国家必须实行公共供给与财政兜底。
 
 ---
@@ -92,7 +92,7 @@ updated: 2026-09-06
 
 > [!feature] 核心要素
 > - **教育作为国家公共资源的法哲学奠基（Education as a Public Resource）** 彻底否定教育权属于个人或教会私人所有，在法理上确立国家通过公共财政征税建设学校体系、推进强制义务入学的本体正当性。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 28)]]
-> - **世俗国家最高督导视察网络（Supreme State Inspection Network）** 普鲁士《1819 年聚芬草案》设立教育部最高督察司；法国[[Guizot Law of 1833|《1833 年基佐法案》]]设立专职皇家督学与省级特别委员会；美国马萨诸塞州设立州立教育委员会（Board of Education）与专职秘书，形成中央/州级世俗公权力直接视察每所学校的督导网络。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 26–28, 31)]]
+> - **世俗国家最高督导视察网络（Supreme State Inspection Network）** 普鲁士《1819 年[[Johann Wilhelm Süvern|聚芬]]草案》设立教育部最高督察司；法国《1833 年[[Guizot Law of 1833|基佐法案]]》设立专职皇家督学与省级特别委员会；美国马萨诸塞州设立州立教育委员会（Board of Education）与专职秘书，形成中央/州级世俗公权力直接视察每所学校的督导网络。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 26–28, 31)]]
 > - **市镇公学义务与贫困儿童免费托底（Statutory School Obligation and Social Protection）** 强制全境所有市镇（法国超三万市镇、普鲁士所有教区）必须依法设立初等公学，对赤贫家庭子女实行完全免收学费，将教育可及性作为国家对公民的不可剥夺承诺。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 26, 28)]]
 > - **垄断师资准入标准与国家最低薪资保障（Centralised Teacher Certification and Salary Guarantee）** 建立由国家财政兜底的公立[[Normal School|师范学校]]网络，实行国家统一执业考试，并以国家法律统一设定教师法定最低年薪标准，使公立教师摆脱地方绅士与教会神职的依附地位，升格为国家公务人员。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 27–29)]]
 
@@ -128,23 +128,23 @@ updated: 2026-09-06
 > [!concept-lens] 法律正当性赤字与实定法转置
 > 揭示 19 世纪欧陆行政决策者如何动用国家公共资源论破除宗派阻力，完成从外国成熟法案向本土法典的自上而下行政移植。
 
-> [!claim] Cousin, V. and Brewer, W.
-> **公共资源论为跨国法律移植消除正当性赤字** 维克多·库森在推动法国初等教育改革时清醒认识到，直接照搬普鲁士君主制法案条款必将引发国内教会势力与保守势力的剧烈抵抗；通过提出“教育权是国家神圣公共资源”的法哲学命题，库森在法理上赋予了中央世俗国家强制征税、开办学校与行使最高视察权的本体正当性，从而构建了将普鲁士 1819 年聚芬草案系统转置为法国 1833 年基佐法案的核心推论桥梁。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 26–29)]]；引自 Brewer (1971:16, 44)
+> [!claim] [[Victor Cousin|Cousin, V.]] and Brewer, W.
+> **公共资源论为跨国法律移植消除正当性赤字** 维克多·库森在推动法国初等教育改革时清醒认识到，直接照搬普鲁士君主制法案条款必将引发国内教会势力与保守势力的剧烈抵抗；通过提出“教育权是国家神圣公共资源”的法哲学命题，库森在法理上赋予了中央世俗国家强制征税、开办学校与行使最高视察权的本体正当性，从而构建了将普鲁士 1819 年[[Johann Wilhelm Süvern|聚芬]]草案系统转置为法国 1833 年[[Guizot Law of 1833|基佐法案]]的核心推论桥梁。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 26–29)]]；引自 Brewer (1971:16, 44)
 
 > [!claim] Suvern, J. W.
-> **世俗国家最高监督权是确立现代国民教育法典的制度总纲** 普鲁士枢密顾问官[[Johann Wilhelm Süvern|聚芬]]在起草《1819 年普鲁士综合教育法草案》时，将世俗国家的最高监督确立为国民教育体制的总纲；通过法律条文强制地方市镇自筹办学经费并由省立师范学校统一师资，确立了国家主权意志统摄全境公学的经典范式。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 26–28)]]
+> **世俗国家最高监督权是确立现代国民教育法典的制度总纲** 普鲁士枢密顾问官[[Johann Wilhelm Süvern|聚芬]]在起草《1819 年普鲁士综合教育法草案》时，将世俗国家的最高监督确立为国民教育体制的总纲；通过法律条文强制地方市镇自筹办学经费并由省立[[Normal School|师范学校]]统一师资，确立了国家主权意志统摄全境公学的经典[[Paradigm|范式]]。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 26–28)]]
 
 ---
 
 ### 命题二　国家教育权的确立是美利坚自由共和政体免于文盲与专制退化的本体生命线
 
 > [!concept-lens] 共和制度防卫与公共知识分配
-> 阐明北美公学运动改革者如何将国家公共教育权视为维系普选民主与自由政治的基石。
+> 阐明北美[[Common School Movement|公学运动]]改革者如何将国家公共教育权视为维系普选民主与自由政治的基石。
 
-> [!claim] Mann, H. and Cremin, L.
+> [!claim] [[Horace Mann|Mann, H.]] and Cremin, L.
 > **公学教育权是自由共和政体的立国基石** 霍勒斯·曼在领导马萨诸塞州公学运动时确立经典命题：在普选民主时代，若任由教育沦为私人宗派的附庸或富人的排他特权，普遍文盲与公民知识匮乏必将导致共和国退化为暴民专制或寡头政治；唯有由国家出面保障公立学校由全社会“共同管理、共同税收供养并贯彻超宗派世俗道德”，国家教育权才能履行其捍卫自由民主生命线的崇高天职。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 31–34)]]；引自 Cremin (1957:7)
 
-> [!claim] Stowe, C. and Barnard, H.
+> [!claim] [[Calvin Stowe|Stowe, C.]] and [[Henry Barnard|Barnard, H.]]
 > **公学国家立法培育爱国精神与国民凝聚力** 斯托与巴纳德通过考察欧洲公共教育向各州议会证明，国家立法对教育的主权保障绝非专制集权的压迫手段，而是现代社会唤醒青年对祖国及其制度依恋的唯一有效机制，有力推动了美国各州议会通过公立学校法案。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 31–33)]]；引自 Knight (1930:255)
 
 ---
@@ -154,7 +154,7 @@ updated: 2026-09-06
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **公共资源与法律移植推论命题** | 教育权作为国家公共资源的法哲学打破了教会垄断，为跨国政策借用与实定法直接转置奠定法理正当性 | 19 世纪欧陆（法、德）中央集权立宪政制下的教育法案起草与自上而下制度移植 | Cousin (Brewer, 1971); Suvern (1819); Guizot (1833) |
+> | **公共资源与法律移植推论命题** | 教育权作为国家公共资源的法哲学打破了教会垄断，为跨国[[Policy Borrowing\|政策借用]]与实定法直接转置奠定法理正当性 | 19 世纪欧陆（法、德）中央集权立宪政制下的教育法案起草与自上而下制度移植 | Cousin (Brewer, 1971); Suvern (1819); Guizot (1833) |
 > | **共和防卫与民主基石命题** | 国家教育权通过普及公共学校实现公民知识平权分配，是防止普选民主退化为寡头专制的本体屏障 | 19 世纪北美建国初期共和教育世纪、州立教育委员会设立与公共学校法案动员 | Mann (Cremin, 1957); Stowe (Knight, 1930); Barnard (1872) |
 
 ---
@@ -164,11 +164,11 @@ updated: 2026-09-06
 国家教育权经历了从早期启蒙大革命神权剥离、19 世纪法制化巩固到当代新自由主义分权争鸣的演进过程：
 
 > [!dev-timeline] 概念演变
-> - **18世纪末 — 启蒙运动与大革命的去神权化萌芽** 法国大革命国民公会力图剥离天主教教会对学校的垄断，宣告国民教育是国家的神圣义务，但由于战争动荡未能建立起常态化行政体系。
-> - **1810s–1830s — 普鲁士草案与法国基佐法案的制度化确立** 普鲁士《1819 年聚芬草案》与法国《1833 年基佐法案》出台，正式以国家法律确立世俗中央国家的最高视察权、各省公立师范学校建制与市镇办学责任，国家教育权实现法典化。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 26–29)]]
-> - **1830s–1860s — 北美公学运动与州级公权法制化** 霍勒斯·曼推动马萨诸塞州设立州立教育委员会，斯托与巴纳德推动俄亥俄与康涅狄格等州立法，确立以公税维持、面向全体平民的州级公学管理体制。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 31–33)]]
+> - **18世纪末 — [[Enlightenment|启蒙运动]]与大革命的去神权化萌芽** 法国大革命国民公会力图剥离天主教教会对学校的垄断，宣告国民教育是国家的神圣义务，但由于战争动荡未能建立起常态化行政体系。
+> - **1810s–1830s — 普鲁士草案与法国[[Guizot Law of 1833|基佐法案]]的制度化确立** 普鲁士《1819 年[[Johann Wilhelm Süvern|聚芬]]草案》与法国《1833 年基佐法案》出台，正式以国家法律确立世俗中央国家的最高视察权、各省公立[[Normal School|师范学校]]建制与市镇办学责任，国家教育权实现法典化。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 26–29)]]
+> - **1830s–1860s — 北美[[Common School Movement|公学运动]]与州级公权法制化** [[Horace Mann|霍勒斯·曼]]推动马萨诸塞州设立州立教育委员会，斯托与巴纳德推动俄亥俄与康涅狄格等州立法，确立以公税维持、面向全体平民的州级公学管理体制。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 31–33)]]
 > - **20世纪中叶 — 福利国家义务教育全面垄断与扩张** 二战后西方福利国家全面将义务教育年限延长至初中与高中阶段，国家教育权扩展至课程大纲统一、全国性学业评价与教育公平补偿。
-> - **20世纪末至今 — 新公共管理与准市场分权争鸣** 随着新公共管理（NPM）与择校运动兴起，特许学校、教育券与教育私有化浪潮兴起，学界围绕国家教育权的退缩还是重塑展开了激烈的公共性伦理论辩。
+> - **20世纪末至今 — [[New Public Management|新公共管理]]与准市场分权争鸣** 随着新公共管理（NPM）与[[School Choice|择校]]运动兴起，[[Partnership Schools Kura Hourua|特许学校]]、教育券与[[Endogenous and Exogenous Privatisation|教育私有化]]浪潮兴起，学界围绕国家教育权的退缩还是重塑展开了激烈的公共性伦理论辩。
 
 ---
 
@@ -180,13 +180,13 @@ updated: 2026-09-06
 >
 > > [!axis] 国家世俗最高视导权 vs 地方自治与家庭信仰自由
 > > - **国家集权派（Cousin; Mann）** 坚持唯有国家公共权力统一视察，才能打破地方宗派割据、保障最低教育质量底线并维系国家统一。
-> > - **地方自治与宗教自由派** 抨击国家教育权实质上是以世俗国家的官僚意志侵犯地方市镇自治传统与教会家庭的信仰自由，容易异化为自上而下的意识形态规训。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 28, 31)]]
+> > - **地方自治与宗教自由派** 抨击国家教育权实质上是以世俗国家的官僚意志侵犯地方市镇自治传统与教会家庭的信仰自由，容易异化为自上而下的意识形态[[Disciplina and Doctrina|规训]]。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 28, 31)]]
 >
 > > [!axis] 公共资源论 vs 阶级再生产工具论
 > > 批判社会学指出，19 世纪国家教育权的确立并未真正实现全体公民的实质平等，反而与[[Dual School System|双轨学制]]勾结，成为立宪大资产阶级利用国家法律工具巩固统治秩序、合法化阶级再生产的机器。
 
 > [!warning] 适用边界
-> 国家教育权在现代宪政框架下并非绝对不受约束的无限权力；其法理正当性完全建立在服务于国民普遍福祉、保护儿童受教育权与维系民主宪政的基础之上，受到宪法基本人权、学术自由与社会多元价值的严格制约。
+> 国家教育权在现代宪政框架下并非绝对不受约束的无限权力；其法理正当性完全建立在服务于国民普遍福祉、保护儿童受教育权与维系民主宪政的基础之上，受到宪法基本人权、[[Academic Freedom|学术自由]]与社会多元价值的严格制约。
 
 ---
 
@@ -203,8 +203,8 @@ updated: 2026-09-06
 > | [[Guizot Law of 1833]] | 政策事实 | 法国七月王朝以国家公共资源法哲学为推论桥梁确立国家教育权的经典法案。 |
 > | [[Johann Wilhelm Süvern]] | 人物 | 起草 1819 草案确立世俗国家最高监督权与省立师范，是欧陆国家教育权技术蓝本设计师。 |
 | [[François Guizot]] | 人物 | 主持颁布 1833 法案，将国家最高监督权与公立初等教育义务在法国法定确立。 |
-| [[Prussian Draft Education Law of 1819]] | 政策事实 | [[Johann Wilhelm Süvern|聚芬]]主持设计的普鲁士草案，确立国家最高监督与省立师范，成为欧陆国家教育权技术蓝本。 |
-> | [[Victor Cousin]] | 人物 | 提炼“教育属神圣国家公共资源”的法哲学命题，开创实定法直接转置范式。 |
+| [[Prussian Draft Education Law of 1819]] | 政策事实 | [[Johann Wilhelm Süvern\|聚芬]]主持设计的普鲁士草案，确立国家最高监督与省立师范，成为欧陆国家教育权技术蓝本。 |
+> | [[Victor Cousin]] | 人物 | 提炼“教育属神圣国家公共资源”的法哲学命题，开创实定法直接转置[[Paradigm\|范式]]。 |
 > | [[Horace Mann]] | 人物 | 开创美国州级公立学校教育管理体制，确立国家教育权捍卫自由共和政体的基石地位。 |
 
 ---
@@ -212,4 +212,4 @@ updated: 2026-09-06
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] — 系统解构 19 世纪法国库森与美国霍勒斯·曼如何分别动用“国家公共资源论”与“自由共和政治合法化依据”，推动世俗国家确立教育最高主权并开创两种跨国借用范式。
+> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] — 系统解构 19 世纪法国[[Victor Cousin|库森]]与美国[[Horace Mann|霍勒斯·曼]]如何分别动用“国家公共资源论”与“自由共和政治合法化依据”，推动世俗国家确立教育最高主权并开创两种跨国借用[[Paradigm|范式]]。

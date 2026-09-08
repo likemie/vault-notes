@@ -126,7 +126,7 @@ updated: 2026-08-19
 
 > [!dev-timeline] 概念演变
 > - **1986 — 提出阶段** Belenky et al. 在对135名女性的访谈研究中提出了五种[[Epistemology|认识论]]视角，建构知识作为最高阶段被正式命名，核心特征是主客观的整合与知识情境性的认识。
-> - **1997 — 理论整合与批评** Hofer & Pintrich 在对发展论模型的[[Systematic Review|系统综述]]中，将建构知识与 Perry、King & Kitchener、[[Thomas Kuhn|Kuhn]] 等模型的顶阶进行了跨模型对比，同时指出该模型的来源偏重和样本局限。[[Argument_Hofer_1997_RER|(Hofer & Pintrich, 1997)]]
+> - **1997 — 理论整合与批评** Hofer & Pintrich 在对发展论模型的[[Systematic Review|系统综述]]中，将建构知识与 Perry、King & Kitchener、Kuhn 等模型的顶阶进行了跨模型对比，同时指出该模型的来源偏重和样本局限。[[Argument_Hofer_1997_RER|(Hofer & Pintrich, 1997)]]
 > - **2018 — [[Meta-analysis|元分析]]视角下的重新审视** Greene et al. 在元分析综述中，将以发展论模型（包括建构[[Knowledge Framework|知识框架]]）为基础的测量工具作为调节[[Variable|变量]]之一，考察其对[[Academic Achievement|学业成就]]预测效力的影响。[[Argument_Greene_2018_JEP|(Greene et al., 2018)]]
 
 ---

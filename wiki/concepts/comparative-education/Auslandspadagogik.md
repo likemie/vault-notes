@@ -95,7 +95,7 @@ updated: 2026-09-07
 
 围绕 19 世纪外国教育学集大成之作《国民教育》，学界形成了极具代表性的学术争鸣：
 
-> [!citation-card]- 关键表述三：[[Brian Holmes|霍姆斯]]与[[Harold Noah|诺亚]]-[[Max Eckstein|埃克斯坦]]论巴纳德百科全书式文献的史学定位（1965, 1969）
+> [!citation-card]- 关键表述三：霍姆斯与诺亚-埃克斯坦论巴纳德百科全书式文献的史学定位（1965, 1969）
 > 霍姆斯指出，毫无疑问，巴纳德对待比较教育的方法主要是历史性与描述性的，其编纂一部宏大世界“教育百科全书”的目标几乎得到了完全兑现；而诺亚与埃克斯坦则严苛指责巴纳德“过于推崇对所有可得材料的不加鉴别、杂乱无章的盲目记录与再版”。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 32–33; Holmes, 1965, p. 14; Noah & Eckstein, 1969, pp. 25–26)]]
 >
 > *Holmes has observed that 'unquestionably' Barnard's 'approach to comparative education was largely historical and descriptive', and his aim to produce an 'encyclopaedia of education ... was virtually achieved'. Noah and Eckstein ... were more critical ... According to them, Barnard 'saw merit in the indiscriminate and even unsystematic recording and republication of all that was available'.*
@@ -168,7 +168,7 @@ updated: 2026-09-07
 > 该命题考察 19 世纪著名比较教育先驱[[Document|文献]]在方法论上的真实质态，破除战后学科史编纂中将早期实践过度现代化、科学化的时代倒错。
 
 > [!claim] Noah, H. & Eckstein, M.
-> **实证科学派对前科学编年史的严苛批判** [[Harold Noah|诺亚]]与[[Max Eckstein|埃克斯坦]]指出，19 世纪绝大多数所谓比较学者的著述在严格意义上并非科学比较研究。以巴纳德、曼等人为代表的调查充斥着对第一手材料不加鉴别的盲目搜集、叙述与再版，其文本缺乏科学[[Hypothesis|假设]]检验、概念控制与[[Variable|变量]]关联推导，本质上属于现代实证科学成型之前的“前科学编年史记录（pre-scientific chronicling）”。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 32–33; Noah & Eckstein, 1969, pp. 25–26)]]
+> **实证科学派对前科学编年史的严苛批判** 诺亚与埃克斯坦指出，19 世纪绝大多数所谓比较学者的著述在严格意义上并非科学比较研究。以巴纳德、曼等人为代表的调查充斥着对第一手材料不加鉴别的盲目搜集、叙述与再版，其文本缺乏科学[[Hypothesis|假设]]检验、概念控制与[[Variable|变量]]关联推导，本质上属于现代实证科学成型之前的“前科学编年史记录（pre-scientific chronicling）”。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 32–33; Noah & Eckstein, 1969, pp. 25–26)]]
 
 > [!claim] Kaloyannaki, P. & [[Andreas Kazamias|Kazamias, A.]] M.
 > **解构辉格史神话并确立外国教育学的编年叙事定位** 卡洛扬纳基与卡扎米亚斯深入论证指出，除[[Marc-Antoine Jullien|朱利安]]带有准实证科学构想外，19 世纪活跃于英法美官方决策层的话语（[[Victor Cousin|库森]]、[[Horace Mann|曼]]、斯托与巴纳德）在很大程度上只触及了比较教育学的边缘；它们在认识论形态上本质是德语区所谓的“外国教育学（Auslandspädagogik）”。这些文献展现出显著的描述性、报道性、非历史化与非分析性特征，缺乏现代历史科学所要求的深层情境归因与解释学诠释；学者们实质上充当了卓越的教育编年史官与[[Ethnography|民族志]]记录者。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 32–33)]]
@@ -222,7 +222,7 @@ updated: 2026-09-07
 > - **19 世纪前 — 异域记载零星贫瘠阶段** 仅存在散见于游记、外交书信或启蒙哲人随笔中的零散观察，缺乏系统组织，[[Document|文献]]极为稀缺。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, p. 24)]]
 > - **1830–1870 — 官方行政推动下的“文献洪流”阶段** [[Victor Cousin|库森]]《普鲁士公共教育现状报告》（1831）、斯托《欧洲初等教育报告》（1837）、[[Horace Mann|霍勒斯·曼]]《[[Seventh Annual Report of the Massachusetts Board of Education|第七次年度报告]]》（1844）以及巴纳德两卷本《国民教育》（1872）相继面世，官方考察、视导通报与法典译介汇聚成卷帙浩繁的“文献洪流”。（pp. 24–28, 31–33）
 > - **1900 — [[Michael Sadler|萨德勒]]历史文化情境转向批判** 迈克尔·萨德勒发表《我们能在多大程度上从外国教育研究中学习实际有价值的东西？》，猛烈抨击外国教育学孤立移植条文的[[Artefact|器物]]主义倾向，确立“校外事情比校内事情更重要”的[[Situative Perspective|情境主义]]传统。
-> - **1960年代 — 行为实证学派的“前科学借用期”贬斥** [[George Bereday|贝雷迪]]、[[Harold Noah|诺亚]]与[[Max Eckstein|埃克斯坦]]等战后学者出于学科专业化自满，将 19 世纪外国教育学贬为业余、幼稚且充斥价值偏见的“器物借用期”，试图以去语境化的数理统计全面替代事实编年史。（Noah & Eckstein, 1969; p. 33）
+> - **1960年代 — 行为实证学派的“前科学借用期”贬斥** 贝雷迪、诺亚与埃克斯坦等战后学者出于学科专业化自满，将 19 世纪外国教育学贬为业余、幼稚且充斥价值偏见的“器物借用期”，试图以去语境化的数理统计全面替代事实编年史。（Noah & Eckstein, 1969; p. 33）
 > - **2000年代至今 — 思想史平反与经验基石重估** 卡洛扬纳基与卡扎米亚斯等学者重构学科发端史，批驳[[Positivism|实证主义]]进化论的时代倒错，正名早期先驱为卓越的“教育编年史官与[[Ethnography|民族志]]学者”，恢复外国教育学作为学科史料母体的本体尊严。（pp. 32–34）
 
 ---

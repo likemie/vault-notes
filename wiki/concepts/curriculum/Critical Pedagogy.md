@@ -77,4 +77,4 @@ updated: 2026-07-11
 ## 应用案例
 
 > [!case] 应用案例索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al. (2011, pp. 145–149)]] — 批判教育学作为哈贝马斯解放兴趣在课程与教学中的直接表达，与 Tyler 的[[Positivism|实证主义]]课程原理形成对照。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al. (2011, pp. 145–149)]] — 批判教育学作为[[Jürgen Habermas|哈贝马斯]]解放兴趣在课程与教学中的直接表达，与 Tyler 的[[Positivism|实证主义]]课程原理形成对照。
