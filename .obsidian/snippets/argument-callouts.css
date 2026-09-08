@@ -9895,7 +9895,6 @@
 }
 
 .callout[data-callout="method-scope"] > .callout-title,
-.callout[data-callout="method-fit"] > .callout-title,
 .callout[data-callout="method-position"] > .callout-title,
 .callout[data-callout="method-stack"] > .callout-title {
   color: rgb(var(--callout-color));
@@ -9904,7 +9903,6 @@
 }
 
 .callout[data-callout="method-scope"] > .callout-title .callout-title-inner::before,
-.callout[data-callout="method-fit"] > .callout-title .callout-title-inner::before,
 .callout[data-callout="method-position"] > .callout-title .callout-title-inner::before,
 .callout[data-callout="method-stack"] > .callout-title .callout-title-inner::before {
   display: inline-block;
@@ -9952,7 +9950,6 @@
 .callout[data-callout="method-position"] > .callout-content > ul > li:nth-child(4) { grid-area: boundary; }
 
 .callout[data-callout="method-scope"] > .callout-content > ul > li > strong:first-of-type,
-.callout[data-callout="method-fit"] > .callout-content > ul > li > strong:first-of-type,
 .callout[data-callout="method-position"] > .callout-content > ul > li > strong:first-of-type,
 .callout[data-callout="method-stack"] > .callout-content > ul > li > strong:first-of-type {
   display: block;
@@ -10044,7 +10041,6 @@
 }
 
 .theme-dark .callout[data-callout="method-scope"] > .callout-content > ul > li,
-.theme-dark .callout[data-callout="method-fit"] > .callout-content > ul > li,
 .theme-dark .callout[data-callout="method-position"] > .callout-content > ul > li,
 .theme-dark .callout[data-callout="method-stack"] > .callout-content > ul > li {
   background:
@@ -11521,7 +11517,6 @@
    均为网格卡片，同 H 上浮方案 */
 .callout[data-callout="method-position"] > .callout-content > ul > li,
 .callout[data-callout="method-scope"]    > .callout-content > ul > li,
-.callout[data-callout="method-fit"]      > .callout-content > ul > li,
 .callout[data-callout="method-limits"]   > .callout-content > ul > li {
   transition:
     transform     0.17s ease,
@@ -11531,7 +11526,6 @@
 
 .callout[data-callout="method-position"] > .callout-content > ul > li:hover,
 .callout[data-callout="method-scope"]    > .callout-content > ul > li:hover,
-.callout[data-callout="method-fit"]      > .callout-content > ul > li:hover,
 .callout[data-callout="method-limits"]   > .callout-content > ul > li:hover {
   transform: translateY(-2px);
   box-shadow: 0 8px 22px rgba(var(--callout-color), 0.18);
@@ -12154,7 +12148,6 @@
   [data-callout="theory-use"],
   [data-callout="theory-boundary"],
   [data-callout="method-scope"],
-  [data-callout="method-fit"],
   [data-callout="method-position"],
   [data-callout="method-stack"],
   [data-callout="person-profile"],
