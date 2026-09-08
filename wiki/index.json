@@ -8519,7 +8519,8 @@
     "aliases": [
       "编码者间一致性",
       "编码者间信度",
-      "intercoder reliability"
+      "intercoder reliability",
+      "编码一致性"
     ]
   },
   {
@@ -12686,7 +12687,8 @@
     "aliases": [
       "扎根理论",
       "扎根理论方法",
-      "grounded theory approach"
+      "grounded theory approach",
+      "扎根理论设计"
     ]
   },
   {
@@ -12880,6 +12882,17 @@
     ]
   },
   {
+    "title": "Open Coding",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Open Coding.md",
+    "aliases": [
+      "开放编码",
+      "开放式编码",
+      "开明编码",
+      "初始编码"
+    ]
+  },
+  {
     "title": "Participant Observation",
     "type": "method",
     "path": "wiki/methods/qualitative/Participant Observation.md",
@@ -13055,6 +13068,16 @@
       "角色扮演法",
       "role-play",
       "role play"
+    ]
+  },
+  {
+    "title": "Selective Coding",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Selective Coding.md",
+    "aliases": [
+      "选择性编码",
+      "核心编码",
+      "选择式编码"
     ]
   },
   {

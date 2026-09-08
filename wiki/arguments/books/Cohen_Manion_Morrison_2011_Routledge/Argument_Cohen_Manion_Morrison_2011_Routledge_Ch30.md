@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30"
 argument_display_title: "Research Methods in Education · Ch30"
 argument_kind: "book-chapter"
-argument_related_count: 53
+argument_related_count: 57
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -63,6 +63,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Falsification]]"
   - "[[School Leadership]]"
+  - "[[Intercoder Agreement]]"
   - "[[Qualitative Codebook]]"
   - "[[Operationalization]]"
   - "[[Analytic Framework]]"
@@ -77,8 +78,11 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Qualitative Computer Software]]"
   - "[[Grounded Theory]]"
+  - "[[Open Coding]]"
   - "[[Axial Coding]]"
+  - "[[Selective Coding]]"
   - "[[Accounts]]"
+  - "[[Qualitative Content Analysis]]"
   - "[[Random Sampling]]"
   - "[[Non-probability Sampling]]"
   - "[[Multi-phase Sampling]]"
@@ -199,10 +203,10 @@ updated: 2026-09-08
 > [!spectrum] 质性编码的抽象进阶谱系（Strauss & Corbin, 1990）
 > **← 经验具象**　·　**理论整合 →**
 >
-> - **开放编码** 贴近原始文本，切碎意群并标注描述性标签
+> - **[[Open Coding|开放编码]]** 贴近原始文本，切碎意群并标注描述性标签
 > - **分析编码** 识别初级模式，提炼概念属性与维度
 > - **[[Axial Coding|主轴编码]]** 围绕核心轴心范畴，按六要素[[Paradigm|范式]]模型拼装联结
-> - **选择性编码** 围绕主导[[Story Line|故事线]]确立统摄性核心范畴，实现[[Saturation|理论饱和]]
+> - **[[Selective Coding|选择性编码]]** 围绕主导[[Story Line|故事线]]确立统摄性核心范畴，实现[[Saturation|理论饱和]]
 
 ---
 
@@ -213,7 +217,7 @@ updated: 2026-09-08
 > - **范畴属性（Properties）解构** 范畴内部蕴含多重特征属性。例如“颜色”范畴包含色相、阴影与强度等属性；“注视”范畴包含频率、范围、强度与持续时间等属性。
 > - **连续统维度化（Dimensionalization）** 各属性并非离散二元对立，而是分布在“从浅到深、从高到低”的维度连续统（dimensional continuum）上，使质性代码具备精细刻画经验变异的度量弹性。
 
-在开放编码建立离散范畴及其维度连续统后，分析进入[[Axial Coding|主轴编码]]阶段。研究者围绕轴心范畴重构碎化数据，建立范畴内部子群以及不同范畴之间的有机联结（Strauss & Corbin, 1990, pp. 96–106）：
+在[[Open Coding|开放编码]]建立离散范畴及其维度连续统后，分析进入[[Axial Coding|主轴编码]]阶段。研究者围绕轴心范畴重构碎化数据，建立范畴内部子群以及不同范畴之间的有机联结（Strauss & Corbin, 1990, pp. 96–106）：
 
 > [!layer] 主轴编码的六要素范式模型（Strauss & Corbin, 1990, pp. 100–106）
 >
@@ -231,7 +235,7 @@ updated: 2026-09-08
 
 ---
 
-在此之上，选择性编码识别并确立统摄所有已建范畴的单一核心范畴，将其余范畴系统关联至核心范畴，整合构建解释性理论（Strauss & Corbin, 1990, pp. 116–117, 141）：
+在此之上，[[Selective Coding|选择性编码]]识别并确立统摄所有已建范畴的单一核心范畴，将其余范畴系统关联至核心范畴，整合构建解释性理论（Strauss & Corbin, 1990, pp. 116–117, 141）：
 
 > [!proc] 选择性编码的五步循环迭代（Strauss & Corbin, 1990）
 > 1. **理解故事线** 深度把握围绕核心现象的主要[[Story Line|故事线]]（story line），即关于所研究现象及其显著特征的描述性总览。
@@ -629,7 +633,7 @@ updated: 2026-09-08
 **C. 编码操作与推论过程的偏差**
 
 > [!critique-method] 编码操作与因果推论中的主观干预
-> - **编码者内与编码者间不一致** 人为疲劳、规则含糊或主观偏见会导致编码分类产生漂移与差异（Weber, 1990, p. 17）。
+> - **编码者内与[[Intercoder Agreement|编码者间不一致]]** 人为疲劳、规则含糊或主观偏见会导致编码分类产生漂移与差异（Weber, 1990, p. 17）。
 > - **因果推论方向的混淆** 单凭静态文本很难准确判定记载的事件究竟是情境的原因还是其产生的结果。
 > - **研究者理论议程的过度强加** 编码范畴反映的是研究者的先验预设，而非受访者的真实经验意图。
 
