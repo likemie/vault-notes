@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Jürgen Habermas",
+      "path": "wiki/persons/germany/Jürgen Habermas.md"
+    },
+    {
       "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01",
       "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01.md"
+    },
+    {
+      "basename": "Anthony Giddens",
+      "path": "wiki/persons/uk/Anthony Giddens.md"
+    },
+    {
+      "basename": "Paradigm Wars",
+      "path": "wiki/concepts/research-methodology/Paradigm Wars.md"
+    },
+    {
+      "basename": "Positivism",
+      "path": "wiki/concepts/research-methodology/Positivism.md"
+    },
+    {
+      "basename": "Incommensurability",
+      "path": "wiki/concepts/research-methodology/Incommensurability.md"
     },
     {
       "basename": "Emergence",
@@ -179,26 +199,6 @@
     {
       "basename": "Data Reduction",
       "path": "wiki/concepts/research-methodology/Data Reduction.md"
-    },
-    {
-      "basename": "Cohen_Manion_Morrison_2011_Routledge",
-      "path": "books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge.md"
-    },
-    {
-      "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29",
-      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29.md"
-    },
-    {
-      "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18",
-      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18.md"
-    },
-    {
-      "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22",
-      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22.md"
-    },
-    {
-      "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27",
-      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27.md"
     }
   ],
   "omittedPaths": [],
