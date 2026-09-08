@@ -3,195 +3,257 @@ title: Coding in Qualitative Research
 aliases:
   - 编码
   - 质性编码
-  - qualitative coding
-summary: "质性研究中将文本或图像数据拆分为片段并赋予类别标签的分析过程，是数据分析和主题生成的核心步骤"
+  - 质性研究编码
+summary: "质性数据分析中将文本、图像及多模态数据拆解分段并赋予概念化标签的系统性规程，通过开放、分析、主轴与选择性编码实现经验材料的数据缩减与理论生成"
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 30
-method_related_level: 3
-method_related_stars: "⭐⭐⭐"
+method_related_count: 21
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/qualitative
   - research-methodology
+  - data-analysis
 related_concepts:
-  - "[[Transcription in Qualitative Research]]"
-  - "[[Document]]"
+  - "[[Data Reduction]]"
   - "[[Qualitative Codebook]]"
+  - "[[Intercoder Agreement]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Unit of Analysis]]"
-  - "[[Variable]]"
-  - "[[Paradigm]]"
   - "[[Story Line]]"
   - "[[Working Memory]]"
-  - "[[Visual Data]]"
-  - "[[Hypothesis]]"
-  - "[[Chain of Evidence]]"
-  - "[[Data Reduction]]"
   - "[[Data Display]]"
-  - "[[Descriptive Analysis]]"
-  - "[[Analytic Framework]]"
-  - "[[Reliability]]"
-  - "[[Intercoder Agreement]]"
-  - "[[Emergence]]"
+  - "[[Visual Data]]"
   - "[[Generative Artificial Intelligence]]"
+  - "[[Domain Analysis]]"
 related_theories: []
 related_methods:
   - "[[Grounded Theory]]"
-  - "[[Qualitative Research]]"
   - "[[Qualitative Computer Software]]"
+  - "[[Constant Comparison]]"
   - "[[Content Analysis]]"
-  - "[[Template Analysis]]"
-  - "[[Semi-structured Interview]]"
+related_instruments: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30]]"
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28]]"
+  - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28]]"
+  - "[[Argument_QiMei_2015_EducationalResearchMethods]]"
   - "[[Argument_Wang_2025_CE]]"
-confidence: medium
-status: draft
+confidence: high
+status: active
 created: 2026-06-01
-updated: '2026-09-08'
+updated: 2026-09-08
 ---
 
 # Coding in Qualitative Research
 
+---
+
 ## 定义
 
-> [!info]
-> 编码（Coding）是质性数据分析中将文本或图像数据组织起来的过程：将数据拆分为语块（chunks），用一个代表类别的词写在页边空白处（Rossman & Rallis, 2012）。编码涉及将文本数据或图片分段，将句子（或段落）或图像归入不同类别，并用一个术语——通常基于参与者本人的语言（称为 in vivo 编码）——标注这些类别（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9, p.207）。
+> [!def] 方法定义
+> 质性编码（Coding）是将经验数据（访谈录音逐字稿、田野观察笔记、历史档案、政策公文、视听影像等多模态资料）系统拆解切片，并为表达相同意涵、指涉同一现象或体现特定属性的文本片段赋予概念化标签或范畴代码的分析规程（Kerlinger, 1970；Strauss & Corbin, 1990；Miles & Huberman, 1994；Gibbs, 2007；Flick, 2009；Rossman & Rallis, 2012；Creswell & Creswell, 2022）。编码不仅充当类似书籍索引系统的高效数据检索机制，支持海量材料的经济化[[Data Reduction|数据缩减]]，更是构建概念数据网络、在经验事实与解释性理论之间架设桥梁的核心分析基石。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|(Cohen et al., 2011, pp. 559–560)]]
 
-> [!quote]
-> "Coding is the process of organizing the data by bracketing chunks (or text or image segments) and writing a word representing a category in the margins"（Rossman & Rallis, 2012; 引自 Creswell & Creswell, 2022, Ch9, p.207）
+> [!method-scope] 方法范围
+> - **研究对象** 访谈转录稿、参与观察记录、政策公文、历史档案、实物文献、日记、开放式问卷作答，以及照片、视频等多模态经验材料。
+> - **核心功能** 实现数据经济化缩减与检索，提炼关键主题，识别经验模式与因果机制，建构概念关系网络并发展扎根理论。
+> - **分析单位** 微观字词、短语、单句、语义意群、段落、完整事件，或多模态影像的构图元素。
+> - **典型输出** 编码清单、[[Qualitative Codebook|质性编码手册]]、范畴包容层级树、主轴编码六要素范式模型、核心故事线与交叉比较矩阵。
+
+> [!citation-card] 质性数据分析中的编码界定
+> 编码是通过将语块（或文本、图像片段）括号化，并在页边空白处写下代表类别的词来组织数据的过程。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, p. 207)]]
 >
-> 编码是通过将语块（或文本、图像片段）括号化，并在页边空白处写下代表类别的词来组织数据的过程。
+> *Coding is the process of organizing the data by bracketing chunks (or text or image segments) and writing a word representing a category in the margins.*
+
+---
+
+## 方法定位
+
+> [!method-position] 认识论与方法定位
+> - **知识观** 经验文本不具备脱离解释者的纯粹客观性；编码绝非单纯的机械标识，而是研究者理论前见与文本深层意蕴的主动互动对话，旨在通过概念化标签重构经验世界的社会现实（Seidel & Kelle, 1995；Gibbs, 2007）。
+> - **研究者角色** 研究者是编码过程的核心诠释工具，其理论敏感度、分类审慎性与反身性直接决定范畴提炼的深度，必须通过反身性备忘录（memos）与审核追踪（audit trail）监控前见与分类偏向。
+> - **有效性标准** 遵循类属反映研究目的、穷尽与互斥三大原则；在扎根理论取向中追求范畴的概念密度与理论饱和；在多编码者情境中依托编码手册达到高[[Intercoder Agreement|编码者间一致性]]（信度 ≥80%）。
+> - **不声称回答的问题** 编码本身不直接等同于因果规律或实质理论建构；离散代码的词频统计不能脱离上下文直接作为心理重要性或因果必然性的充分证据。
+
+> [!method-stack] 方法层级
+> - **研究设计** [[Grounded Theory|扎根理论]]、现象学研究、民族志、质性内容分析与混合方法设计。
+> - **数据收集** 半结构化访谈、参与观察笔记、文献档案收集、视觉影像采集。
+> - **分析方法** 粗编码、开放编码、分析编码、主轴编码、选择性编码、Tesch 八步法、持续比较法、领域分析。
+> - **辅助技术** 计算机辅助质性分析软件（[[Qualitative Computer Software|CAQDAS]]，如 NVivo、MAXQDA、ATLAS.ti）、编码手册、反身性备忘录、大语言模型人在回路（HITL）协同赋码。
 
 ---
 
 ## 研究程序
 
-### Tesch 的八步编码流程
+### 质性方法模块
 
-> [!abstract] 表9.4：Tesch 编码流程八步骤（Tesch's Eight Steps in the Coding Process）
+> [!sample-panel] 材料与进入现场
+> | 维度 | 信息 |
+> |---|---|
+> | 材料来源 | 访谈录音转录文本、田野观察记录、政策文件、历史档案、开放式问卷作答、照片及视听影像等。 |
+> | 抽样或选案 | 目的抽样（理论抽样、最大变异抽样、关键案例抽样、滚雪球抽样）。 |
+> | 研究者位置 | 积极解读者与诠释工具，通过反身性备忘录记录个人偏见、前见演变与理论敏感度轨迹。 |
+> | 资料边界 | 明确文本时间跨度、场域边界、纳入与排除标准，系统完成切片预处理与匿名化脱敏。 |
+
+> [!proc] Tesch 系统编码八步规程
+> 泰施（Renata Tesch）提出了形成质性编码和主题的八个标准步骤：[[Argument_Creswell_2022_SAGE|(Tesch, 1990; Creswell & Creswell, 2022, Ch. 9)]]
 >
-> Tesch（1990）提出形成编码和主题的八个标准步骤（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9）：
->
-> | 步骤 | 操作 | 说明 |
+> | 步骤 | 操作目标 | 具体实施说明 |
 > |---|---|---|
-> | 1 | **获得整体感（Get a sense of the whole）** | 仔细阅读所有[[Transcription in Qualitative Research\|转录]]稿，边读边在脑海中记下浮现的想法 |
-> | 2 | **挑选一份[[Document\|文件]]深入分析（Pick one document）** | 选一份最有趣或最短的访谈，逐行问自己"这段在说什么"，关注深层含义而非表面内容，在页边写下想法 |
-> | 3 | **形成话题清单（Make a list of topics）** | 对多个参与者的文件完成后，列出所有话题，将相似话题聚类，排列为主要话题、独特话题和剩余话题 |
-> | 4 | **回到数据检验编码（Go back to data, abbreviate topics as codes）** | 将话题缩写为编码写回文本对应段落，检验是否有新类别和编码出现 |
-> | 5 | **将话题转化为类别（Turn topics into categories）** | 为话题找到最具描述性的措辞，通过归并相关话题缩减类别总数，可在类别之间画线显示相互关系 |
-> | 6 | **确定最终编码缩写（Final decision on abbreviation for each category）** | 为每个类别确定最终缩写，按字母顺序排列 |
-> | 7 | **按类别汇集数据并做初步分析（Assemble data by category, conduct preliminary analysis）** | 将属于每个类别的数据汇集到一处 |
-> | 8 | **必要时重新编码（Recode if necessary）** | 如果现有编码方案不够理想，对已有数据重新编码 |
+> | 1 | **获得整体感（Get a sense of the whole）** | 仔细阅读所有[[Transcription in Qualitative Research\|转录]]稿，边读边在脑海中记下浮现的想法。 |
+> | 2 | **挑选一份文件深入分析（Pick one document）** | 选一份最有趣或最短的访谈，逐行问自己“这段在说什么”，关注深层含义而非表面内容，在页边写下想法。 |
+> | 3 | **形成话题清单（Make a list of topics）** | 对多个参与者的文件完成后，列出所有话题，将相似话题聚类，排列为主要话题、独特话题和剩余话题。 |
+> | 4 | **回到数据检验编码（Go back to data）** | 将话题缩写为编码写回文本对应段落，检验是否有新类别和编码涌现。 |
+> | 5 | **将话题转化为类别（Turn topics into categories）** | 为话题找到最具描述性的措辞，通过归并相关话题缩减类别总数，可在类别之间画线显示相互关系。 |
+> | 6 | **确定最终编码缩写（Final decision on abbreviation）** | 为每个类别确定最终缩写，按字母顺序排列以便查阅。 |
+> | 7 | **按类别汇集数据并做初步分析（Assemble data by category）** | 将属于每个类别的数据切片汇集到一处，开展初步模式分析。 |
+> | 8 | **必要时重新编码（Recode if necessary）** | 如果现有编码方案不够理想或存在交叉重叠，对已有数据重新编码。 |
 
-### 编码的四种类型
-
-> [!info] 编码类型
-> （[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9）
->
-> | 类型 | 特征 | 示例 |
-> |---|---|---|
-> | **预期编码（Expected）** | 基于文献和常识，读者预期会出现的编码 | 欺凌研究中编码"对自我的态度" |
-> | **意外编码（Surprising）** | 研究前无法预见、数据收集中意外发现 | 领导力研究中发现"地理变暖对办公室位置的影响" |
-> | **概念性兴趣编码（Unusual/Conceptual Interest）** | 具有概念意义的不寻常编码 | Asmussen & Creswell（1995）校园枪击案研究中的"再触发"（retriggering） |
-> | **预设编码（Predetermined）** | 基于理论框架预先设定，辅以 [[Qualitative Codebook\|编码手册]] 管理 | 健康科学领域尤常见 |
-
-### Strauss & Corbin 的四类编码程序
-
-> [!proc] [[Grounded Theory|扎根理论]]取向的四类编码操作
-> 施特劳斯（Anselm Strauss）与科宾（Juliet Corbin）提出从初级描述向高阶理论抽象逐层进阶的四类编码流程，各类型并非严格按时间线性发生，而是处于动态迭代与循环往复之中（Strauss & Corbin, 1990；Flick, 2009；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al., 2011, pp. 560–562]]）：
+> [!proc] 扎根理论编码进阶谱系
+> 施特劳斯（Anselm Strauss）与科宾（Juliet Corbin）在[[Grounded Theory|扎根理论]]传统中确立了从微观经验切片向理论抽象层级持续提升的四阶编码程序：[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|(Strauss & Corbin, 1990; Flick, 2009; Cohen et al., 2011, pp. 560–562)]]
 > 
-> 1. **开放编码（Open coding）** 研究者对文本逐行、逐句或逐段赋予描述性标签，打破数据形成微观[[Unit of Analysis|分析单元]]。开放编码旨在生成范畴并界定其属性（properties，如范畴的特征与质地）与维度（dimensions，属性在连续统上的具体位置；例如“注视”范畴包含频率、范围、强度、持续时间等维度）。
-> 2. **分析编码（Analytic coding）** 超越单纯的描述性归纳，提炼具有推论性与解释力的分析标签。例如将“实验”“控制[[Variable|变量]]”“测试”等描述性活动编码综合提炼为“像科学家一样工作”，或将教师“忽略破坏”“不予回应”等行为提炼为“教师放弃/否认”。
-> 3. **主轴编码（Axial coding）** 在开放编码完成碎化后，将数据围绕核心轴心范畴重新组合，建立范畴内部子群以及不同范畴之间的联结。主轴编码依据经典的六要素[[Paradigm|范式]]模型展开：
->    - **因果条件（Causal conditions）** 导致该现象发生的事件、活动或行为。
->    - **现象（Phenomenon）** 作为研究核心的主题事件、观念或行为。
->    - **情境脉络（Context）** 该现象所处的具体属性与条件集合。
->    - **中介条件（Intervening conditions）** 影响或制约行动与互动的广泛结构性条件。
->    - **行动与互动策略（Actions and interactions）** 应对该现象的有目的、目标导向的过程与行为策略。
->    - **结果（Consequences）** 行动与互动产生的直接或间接结果，并可能反转为新的因果条件。
-> 4. **选择性编码（Selective coding）** 识别并确立统摄所有已建范畴的单一核心范畴（core category），将其余范畴系统关联至核心范畴并接受经验数据验证。选择性编码以深度理解主要[[Story Line|故事线]]（story line）为起点，不断填补范畴空缺以实现“概念密度”（conceptual density）。
+> 1. **开放编码（Open coding）** 研究者对文本逐行、逐句或逐段赋予描述性标签，打破数据形成微观[[Unit of Analysis|分析单元]]。开放编码旨在生成范畴并界定其属性（properties，如范畴的特征与质地）与维度（dimensions，属性在连续统上的具体位置；例如“注视”范畴包含频率、范围、强度、持续时间等维度）。代码可直接采纳受访者原话（本土编码，in vivo code），亦可由研究者基于理论敏感度创生。
+> 2. **分析编码（Analytic coding）** 超越单纯的描述性归纳，提炼具有推论性与解释力的分析标签。例如将“实验”“控制变量”“测试”等描述性活动编码综合提炼为“像科学家一样工作”，或将教师“忽略破坏”“不予回应”等行为提炼为“教师放弃/否认”。
+> 3. **主轴编码（Axial coding）** 在开放编码完成碎化后，将数据围绕核心轴心范畴重新组合，建立范畴内部子群以及不同范畴之间的联结。主轴编码依据经典的六要素范式模型展开（Buckley & Waring, 2009）：
+>    - **因果条件（Causal conditions）** 诱发核心现象产生的一系列结构性事件、前提条件与前置诱因。
+>    - **核心现象（Phenomenon）** 被研究者识别为处于分析中心位置的核心事件、观念、行动模式或经验困境。
+>    - **情境脉络（Context）** 现象发生时所处的特定外部环境条件与行动场域。
+>    - **中介条件（Intervening conditions）** 促进或阻碍行动策略实施的广泛宏观与微观结构条件（如时间限制、文化规范、制度规约）。
+>    - **行动与互动策略（Actions and interactions）** 行动者在特定情境与中介条件下，为应对、处理或逃避核心现象所采取的针对性策略与互动过程。
+>    - **结果（Consequences）** 行动与互动策略所直接导致的预期或非预期产出、状态转变与实质后果。
+> 4. **选择性编码（Selective coding）** 识别并确立统摄所有已建范畴的单一核心范畴（core category），将其余范畴系统关联至核心范畴并接受经验数据验证。选择性编码遵循五步循环迭代：深度把握主要[[Story Line|故事线]]（story line）➔ 提炼核心范畴 ➔ 建立维度关联 ➔ 依据经验数据逐一验证 ➔ 填补范畴空缺以实现概念密度（conceptual density）与理论饱和。
 
-### 编码包容层级与工作记忆容量
+> [!taxonomy] 编码类型与分析维度
+> - **Creswell 四类编码类型** [[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch. 9)]]
+>   - **预期编码（Expected）** 基于文献和常识，读者预期会出现的常规编码（如校园欺凌研究中的“对自我的态度”）。
+>   - **意外编码（Surprising）** 研究前无法预见、在数据收集中意外发现的编码（如领导力研究中发现“地理变暖对办公室位置的影响”）。
+>   - **概念性兴趣编码（Unusual/Conceptual Interest）** 具有特殊概念意义的不寻常编码（如校园枪击案研究中的“再触发”）。
+>   - **预设编码（Predetermined）** 基于理论框架预先设定，辅以[[Qualitative Codebook|质性编码手册]]严格管理的演绎性编码。
+> - **Gibbs 经验材料三大分析维度** [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|(Gibbs, 2007; Cohen et al., 2011, pp. 560–561)]]
+>   - **微观行动与事件维度** 具体行动、常规活动、突发事件以及行动者采取的策略性应对举措。
+>   - **中观互动与结构维度** 行动者间的社会互动网络、角色关系、群体动力学以及组织与制度结构。
+>   - **深层意义与反思维度** 行动者对自身生活世界的常识性意义建构，以及研究者自身参与田野的反思性感知。
 
-> [!tip] 编码层级与认知管理
-> - **包容层级（Hierarchies of subsumption）** 描述性初级编码依附于分析编码与主轴编码，最终归入选择性核心范畴，构成树状层级。吉布斯（Graham Gibbs）建议编码层级应保持“浅层”（shallow）而非过度嵌套的“深层”（deep），以维持分析结构的清晰度（Gibbs, 2007；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al., 2011, p. 562]]）。
-> - **[[Working Memory|工作记忆]]容量** 迈尔斯与休伯曼指出，研究者在阅读数据时工作记忆最多可同时承载约 90 个编码（Miles & Huberman, 1994）。由于前期编码容易影响后期判断，编码并非一次性工作，须在多轮循环阅读中合并冗余编码、细化过于笼统的标签，确保编码的一致性与穷尽性（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al., 2011, p. 560]]）。
-> - **表格化跨案例比较** 将个体案例置于行、议题置于列进行数据表格化排列，能够直观对比同质性、差异性、模式与极端反常案例，促进持续比较的有效落实（Gibbs, 2007；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al., 2011, pp. 562–563]]）。
+> [!index-table] 常见描述性编码家族矩阵
+> 鲍格丹与比克连（Robert Bogdan & Sari Biklen）系统梳理了质性研究中最常见的九类描述性编码家族，为透视经验材料提供了分类工具箱：[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|(Bogdan & Biklen, 1992; Cohen et al., 2011, pp. 560–561)]]
+>
+> | 编码家族 | 核心关注面向与分析内涵 | 教育研究中的典型范例 |
+> |---|---|---|
+> | **1. 情境代码** | 描述研究开展的物理环境、组织背景、空间结构及特定场域氛围。 | 重点中学实验班教室空间布局、教师休息室非正式交流角、走廊警示标语 |
+> | **2. 受访者视角代码** | 记录当事人如何自主界定当前处境、理解自身角色以及对关键议题的主观立场。 | 青年教师对评职称政策的无力感、资深教师对“应试与素养平衡”的妥协心态 |
+> | **3. 思维方式代码** | 捕捉行动者对他人、特定群体或物质客体的评价性看法、定型观念与认知偏好。 | 教师将某些学生归类为“无可救药者”、家长对名校师资的盲目崇拜心理 |
+> | **4. 过程代码** | 记录随时间推移而展开的阶段演进、历史沿革、生命历程或心路轨迹。 | 特岗教师入职三年的职业认同转变历程、学校推行校本课改的演进周期 |
+> | **5. 活动代码** | 聚焦经常性开展、高度常规化且循环往复的日常教学与管理实践。 | 每日早自习纪律巡查、每周教研组集体备课研讨、期末综合素质评价评语撰写 |
+> | **6. 事件代码** | 捕捉特定时空下发生的一次性、突发性或具有转折意义的非常规事件。 | 督学突击随堂推门听课、家长到校公开争吵维权、公开课多媒体设备突发故障 |
+> | **7. 策略代码** | 记录行动者为化解冲突、应对压力或实现特定目的而采取的显隐性手段。 | 教师表面顺应行政考核但私下自主教学的游击策略、学生应对严苛校规的默契行为 |
+> | **8. 社会结构代码** | 刻画正式组织架构之外的人际网络、派系分歧、权力依附及圈子动态。 | 学科带头人与青年教师的师徒纽带、学校行政中层与一线骨干之间的博弈网络 |
+> | **9. 方法代码** | 记录研究过程本身的方法论决策、研究者反身性反思及田野偶发局限。 | 录音设备让受访者产生戒备心理、研究者作为局外人被排斥在核心教研会议之外 |
 
-### 视觉图像作为编码
+> [!framework-table] 开放编码核心追问矩阵
+> 弗里克（Uwe Flick）提炼了指引开放编码深入展开的 11 个关键设问维度：[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|(Flick, 2009; Cohen et al., 2011, p. 561)]]
+>
+> | 分析维度 | 追问方向 | 引导性核心设问 |
+> |---|---|---|
+> | **主体与动因** | 行动者与动因 | 谁参与其中？扮演何种角色？涉及哪些行动者？行动者出于何种动机与理由？ |
+> | **内容与方式** | 现象与过程 | 究竟发生了什么？具体采取了何种行动方式？通过何种策略推进？ |
+> | **时空坐标** | 时间与空间 | 现象何时发生？持续多久？处于何种具体场景与物理环境中？ |
+> | **规模与强度** | 广度与烈度 | 涉及范围多大？波及多少人？体验强度如何？影响多深？ |
+> | **目的与手段** | 目标与策略 | 行动者旨在达成何种目标？具体使用了哪些手段与工具？ |
 
-> [!note]-
-> [[Visual Data|视觉数据]]（照片、视频、电影、绘画）在[[Qualitative Research|质性研究]]中频繁使用。参与者可能被要求拍摄所见或画出所研究的现象。使用视觉图像面临的挑战：图像可能反映文化趋势而非个体视角；匿名性难以保证；使用视觉数据需获得许可以尊重提供者的隐私（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9, p.211）。
+> [!decisions] 新手操作决策：粗编码、双重赋码与认知容量控制
+> - **初筛阶段优先选用“粗编码”（Coarse Coding）** 初学者最容易犯的错误是一开始就拟定数十个细碎标签，导致短期[[Working Memory|工作记忆]]迅速超载。先采用 **原因（CAUSE）**、**性质（NATURE）**、**结果（OUTCOME）** 与 **应对（HANDLING）** 四个广谱大类实施粗赋码，能够像分流漏斗一样将数据迅速划分到可管理的独立主题池中，为后续细化奠定基础。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|(Cohen et al., 2011, pp. 570–571)]]
+> - **多维复合语句的“双重赋码”（Dual Coding）** 经验语句常兼具多重属性（如既表达压力诱因又揭示其破坏性质）。初筛阶段无需强行削足适履进行排他割裂；赋予双重编码能最大程度保留经验丰富度与真实性，后续二级分类归组时再系统消化复合属性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|(Cohen et al., 2011, p. 571)]]
+> - **从类别的“分布偏态”捕捉深层社会事实** 审视宏观领域的频次分布偏态（如 CAUSE 占 23 项次，而 HANDLING 仅占 3 项次），可揭示话语能量聚焦与制度性支持网络缺位等深层症结，无需复杂推断统计即可锁定研究重点。
+> - **认知容量与浅层层级控制原则** 人类短期工作记忆一般仅能同时维持 4±1 或 7±2 个编码节点，单次阅读最多同时承载约 90 个编码（Miles & Huberman, 1994）。吉布斯（Graham Gibbs）建议编码树状层级应当保持“浅层”（shallow）而非过度嵌套的深层结构，以维持分析结构的清晰可控；同时依托[[Constant Comparison|持续比较]]检验机制，持续往复比对新旧文本片段以排除反例。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|(Gibbs, 2007; Cohen et al., 2011, p. 562)]]
 
-### 计算机辅助质性数据分析软件（CAQDAS）中的编码
+> [!feature] 质性数据生成意义的十二种策略
+> 迈尔斯与休伯曼（Matthew Miles & A. Michael Huberman）提出了从转录数据中系统生成意义并推进编码整合的十二种策略：[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|(Miles & Huberman, 1994; Cohen et al., 2011, 29.4)]]
+> - **计数（counting）** 统计想法、主题、数据片段与词的出现频次。
+> - **注意模式与主题（noting patterns and themes）** 识别源自重复主题、原因或解释的格式塔结构。
+> - **看到可信性（seeing plausibility）** 运用有依据的直觉，尝试为数据作出合理解释并得出结论。
+> - **聚类（clustering）** 把条目归入类别、类型、行为与分类体系。
+> - **制造隐喻（making metaphors）** 使用比喻性与内涵性语言，使数据生动、浓缩数据、形成模式并与理论连接。
+> - **拆分变量（splitting variables）** 细化、区分并拆解想法，摆脱模糊整合驱动。
+> - **把个别纳入一般（subsuming particulars into the general）** 类似持续比较，朝向澄清关键概念。
+> - **因子化（factoring）** 把大量经验变量归入较少且通常不可观测的假设变量。
+> - **识别变量间关系（identifying relations between variables）** 识别并记录范畴之间的相互关联。
+> - **寻找中介变量（finding intervening variables）** 寻找阻碍或调节变量关系的其他条件。
+> - **建立证据逻辑链（building a logical chain of evidence）** 梳理因果脉络并作出推断。
+> - **建构概念/理论连贯性（making conceptual/theoretical coherence）** 从隐喻到构念再到理论，系统解释经验现象。
 
-> [!note]-
-> 在计算机辅助[[Qualitative Computer Software|质性数据分析软件]]（Computer-Assisted Qualitative Data Analysis Software，[[Qualitative Computer Software|CAQDAS]]）中，编码是描述所涉文本数据的词或短短语，供后续排序、组合或检索；软件把编码排列成层级（树）与节点（关键编码），并支持把编码备忘录纳入同一分类图式。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.4)]]
+> [!ref-table] 案例示范：课堂教学态度的矩阵表格化比较分析
+> 通过将个体案例置于行、将所考察议题置于列，二维矩阵表格是开展跨个案比较与支持编码分析的高效[[Data Display|数据展示]]形式。以三名学生对科学课与音乐课的态度为例：[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|(Gibbs, 2007; Cohen et al., 2011, pp. 562–563)]]
+>
+> | 学生 | 对科学课的态度 | 对音乐课的态度 |
+> |---|---|---|
+> | **简** | 觉得科学课难度大但很有趣；作业负担过重且课堂上从不讲评答疑；喜欢动手做实验，但觉得自己并不擅长。 | 喜欢听音乐，但课堂上要求的合唱唱歌过多，乐器演奏或动手实践活动不足；教师只把注意力集中在校合唱团成员身上。 |
+> | **约翰** | 无法集中注意力，因为觉得上课枯燥且过于依赖书本；更喜欢做实验，但从未获得过动手机会。 | 抱怨学生从不被允许自主挑选想听的音乐，教师播放的音乐陈旧乏味；质问为什么非要使用小儿科乐器。 |
+> | **斯蒂芬** | 非常享受动手实践活动，热衷于探索实验中究竟哪里出了问题以及背后的机理。 | 喜欢在小组里自主编创曲调，但课堂秩序过于嘈杂；不喜欢唱歌；希望教师教授如何规范识谱与写谱；反感很多孩子在课上胡乱打闹。 |
+>
+> **矩阵分析的三大核心发现**
+> 1. **实践渴望与现实供给的普遍落差** 所有学生均对动手实验与自主演奏怀有强烈兴趣，但这一需求均受到被动灌输、机械唱歌或繁重作业的压制。
+> 2. **学生顺应度维度的连续谱分布** 简呈现妥协适应性，斯蒂芬保持理性自我导向，而约翰则演变为激进的不顺应与公开对抗。
+> 3. **学科生态冲突焦点的结构性分异** 科学课矛盾集中于动手与书本脱节、作业负担过重；音乐课冲突源于选曲权利被剥夺、合唱团偏向与纪律失控。
 
-### Miles & Huberman 生成意义的十二种策略
+> [!software-impl] 计算机辅助质性分析（CAQDAS）与多模态扩展
+> - **CAQDAS 编码机制** 计算机辅助质性分析软件（如 NVivo、MAXQDA、ATLAS.ti、Dedoose）将编码定义为描述文本数据的词或短短语，把编码组织为层级树（hierarchical trees）与关键节点（nodes），支持挂载编码备忘录（analytic memos）并开展复杂的布尔逻辑检索。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.4)]]
+> - **视觉与多模态数据编码** [[Visual Data|视觉数据]]（照片、视频、电影、手绘图等）在质性研究中广泛应用。编码视觉数据面临多重挑战：图像更易反映宏观文化定型而非个体主观视角；面部与物理场景导致匿名性难以保证；必须严格落实知情同意与版权许可。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch. 9)]]
 
-> [!feature] Miles & Huberman（1994）从转录数据生成意义的十二种策略
-> - **计数（counting）** 统计想法、主题、数据片段、词的出现频次。
-> - **注意模式与主题（noting patterns and themes）** 识别源自重复主题、原因、解释或建构的格式塔（Gestalts）。
-> - **看到可信性（seeing plausibility）** 运用有依据的直觉，尝试为数据作出良好理解并得出结论。
-> - **聚类（clustering）** 把条目归入类别、类型、行为与分类。
-> - **制造隐喻（making metaphors）** 使用比喻性与内涵性语言而非字面性与外延性语言，使数据生动、缩减数据、形成模式、去中心化数据并与理论连接。
-> - **拆分[[Variable|变量]]（splitting variables）** 细化、区分并"拆解"想法，摆脱整合驱动与数据模糊化。
-> - **把个别纳入一般（subsuming particulars into the general）** 类似 Glaser 的"持续比较"，朝向澄清关键概念。
-> - **因子化（factoring）** 把大量变量归入较少（通常不可观测的）[[Hypothesis|假设]]变量。
-> - **识别变量间关系（identifying relations between variables）** 识别并记录变量间关系。
-> - **寻找中介变量（finding intervening variables）** 寻找"阻碍"本应强的变量关系的其他变量。
-> - **建立证据逻辑链（building a logical [[Chain of Evidence]]）** 记录因果并作出推断。
-> - **建构概念／理论连贯性（making conceptual/theoretical coherence）** 从隐喻到建构、到理论来解释现象。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|(Cohen et al., 2011, 29.4)]]
-
-> [!info] 编码在[[Data Reduction|数据缩减]]中的作用
-> 在 Miles & Huberman 的建议中贯穿始终的是编码的重要性——部分作为缩减质性数据过载的方式。分析通过编码可在场所内（within-site）与跨场所（cross-site）进行，使因果链、网络与矩阵得以建立，以应对通过仔细的[[Data Display|数据展示]]来缩减数据过载这一主要议题。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|(Cohen et al., 2011, 29.4)]]
+> [!method-panel] 大语言模型（LLM）辅助质性编码与人在回路（HITL）
+> 随着[[Generative Artificial Intelligence|生成式人工智能]]的发展，大语言模型正成为质性编码的新型辅助工具，但必须严格恪守**人在回路（Human-in-the-Loop，HITL）**原则：[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|(Cohen et al., 2011, 30.6)]]
+> - **演绎性规程赋码** 将[[Qualitative Codebook|质性编码手册]]、范畴界定、操作化规则与正反样例编制为系统化提示词。模型在明确的分析框架约束下实施规则匹配，提取目标片段并输出赋码依据，适合大样本内容分析。
+> - **归纳性概念探索** 引导模型扫描原始转录文本，提出初步候选标签与新兴主题，为研究者打破思维定势、捕捉意外编码提供启发。
+> - **防范算法幻觉与回溯核验** 要求模型输出编码时强制附带原始引文出处，由人工逐一回溯核验；所有核心范畴确认、理论整合与因果推论必须由研究者主导，严禁全权委托算法黑箱。
 
 ---
 
 ## 适用场景
 
-> [!success]
-> 编码适用于所有需要从文本、图像或多模态数据中系统提取主题和模式的[[Qualitative Research|质性研究]]。无论是[[Descriptive Analysis|描述性分析]]路径还是使用[[Analytic Framework|分析框架]]，编码都是核心操作步骤。编码可以手动完成，也可以借助 [[Qualitative Computer Software|质性计算机软件]] 辅助完成。
+> [!method-fit] 适用判断
+> - **适合使用** 需要系统梳理非结构化文本、归纳核心主题、比较不同主体经验模式、构建概念模型或发展扎根理论的质性与混合方法研究。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|(Cohen et al., 2011, p. 559)]]
+> - **谨慎使用** 材料高度依赖时间时序展开、深层隐喻或连续心理演变的情境（如纯粹叙事探究、生活史研究），需结合整体叙事记录与深描，防止机械切片。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|(Cohen et al., 2011, p. 562)]]
+> - **不适合使用** 企图脱离文本语境仅凭离散代码频次断言强因果决定机制，或完全无需任何概念抽象的纯原始档案留存场景。
 
 ---
 
 ## 局限性
 
-> [!warning]
-> - 手动编码极为耗时，即使只有少数参与者的数据也需要大量时间和精力（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9, p.206）。
-> - 编码的一致性（[[Reliability|信度]]）需要特别关注，不同编码者可能对同一段文本给出不同编码，应通过 [[Intercoder Agreement|编码者间一致性]] 检验来确保信度（Miles & Huberman, 1994 建议 ≥80%）。
-> - 预设编码虽有结构优势，但如果过于僵化，可能限制研究者对数据中新[[Emergence|涌现]]模式的发现。
-> - **去情境化风险（Decontextualization）** 编码将连续文本切碎并赋码，容易剥离事件发生的时序性、特定空间背景以及互动双方的微妙情境脉络（loss of temporality, context and sequence）；将相同的编码机械套用于不同时间点或情境的行为，可能掩盖其完全相异的质性意义（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al., 2011, p. 562]]）。
+> [!method-limits] 方法局限与信度风险
+> - **去情境化风险（Decontextualization）** 编码将连续文本切碎并存入离散节点，极易人为割裂时序因果链条、抹平动态情境脉络；同一行为在不同时空情境中意义相异，机械赋予相同代码会导致虚假同质化。研究者需以撰写情境化叙事记录（narrative accounts）并结合深描作为对冲互补。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|(Cohen et al., 2011, p. 562)]]
+> - **耗时负担与编码者信度漂移** 手工编码极度耗费认知精力，编码者疲劳或不同编码者间容易产生解释偏向漂移，须依托细致的编码手册与信度一致性检验（Miles & Huberman 建议 ≥80%）。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, p. 206)]]
+> - **预设范畴僵化与扼杀涌现** 过于僵化的演绎预设编码可能限制对意外编码与概念性兴趣编码的发现，丧失扎根经验的鲜活性。
+> - **伪实证主义量化陷阱** 过度追求代码计数与频次排名，容易滑向肤浅的“伪量化”，忽视质性分析在深层意义阐释与情境还原上的本质价值。
 
 ---
 
-## 大语言模型（LLM）辅助质性编码
+## 相关理论与方法
 
-随着[[Generative Artificial Intelligence|生成式人工智能]]的普及，大语言模型（Large Language Models，LLM）正成为质性编码的新型辅助工具，在处理大体量文本、辅助归纳初步概念和构建层级范畴方面具有显著潜力，详见[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al. (2011, Ch. 30, 30.6)]] 的扩展讨论。
-
-> [!note] 人在回路（HITL）原则
-> 大语言模型在编码辅助中应严格遵循人在回路（Human-in-the-Loop，HITL）原则：
-> - **演绎性规程赋码** 将[[Qualitative Codebook|质性编码手册]]与正反样例转化为结构化提示词，由模型对文本实施规则匹配，适合大样本标准化[[Content Analysis|内容分析]]。
-> - **归纳性概念探索** 引导模型扫描原始[[Transcription in Qualitative Research|转录]]文本，提出初步主题标签与候选概念，为研究者突破思维定势、发现意外编码提供启发。
-> - **防范算法幻觉** 要求模型输出编码时强制附带原始引文出处，并由人工逐一回溯核验；所有范畴确认与理论整合必须由研究者主导，而非全权委托模型。
+> [!entry-map] 相关理论与方法矩阵
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Grounded Theory\|扎根理论]] | 理论基石 | 提供开放、主轴、选择性编码的完整方法论指引与理论饱和标准。 |
+> | [[Content Analysis\|内容分析]] | 协同方法 | 依托严格范畴规则与分析单位对编码展开频次统计与语境推论。 |
+> | [[Data Reduction\|数据缩减]] | 上位概念 | 编码是实现经验资料碎片化、分类归并与保真浓缩的核心分析规程。 |
+> | [[Data Display\|数据展示]] | 协同工具 | 通过二维矩阵与网络图空间化呈现编码范畴及交叉对比结构。 |
+> | [[Unit of Analysis\|分析单位]] | 核心概念 | 界定切片与赋码的操作尺度（词、句、段、意群或事件）。 |
+> | [[Qualitative Codebook\|质性编码手册]] | 质量工具 | 规范编码定义、包容准则与正反样例以保障编码一致性。 |
+> | [[Intercoder Agreement\|编码者间一致性]] | 信度指标 | 评估不同研究者独立赋码的收敛程度（信度通常要求 ≥80%）。 |
+> | [[Constant Comparison\|持续比较]] | 核心检验 | 在编码全流程中反复比对新旧文本片段，检验范畴一致性与排除反例。 |
+> | [[Domain Analysis\|领域分析]] | 范畴建构 | 依据类属包含语义关系将离散编码聚拢为上位象征范畴。 |
+> | [[Qualitative Computer Software\|质性计算机软件]] | 辅助工具 | 提供编码节点管理、层级构建、反身备忘录与自动化布尔检索。 |
 
 ---
 
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, Ch.9)]] — 在校园枪击案反应研究中通过编码发现“再触发”非预期主题，展示[[Emergence|涌现]]式编码对个体经验维度的揭示。
-> - [[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]] — 在 NVivo 11 中结合开放编码与基于 3GAT 六构件的[[Template Analysis|模板分析]]，对 25 份[[Semi-structured Interview|半结构化访谈]]与文档展开质性编码。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|Cohen et al. (2011, Ch. 28, pp. 540–542)]] — 在质性数据分析与 [[Qualitative Computer Software|CAQDAS]] 语境中说明编码是用词或短短语描述文本数据、供排序组合与检索，并把编码排列为层级（树）与节点（关键编码）。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al. (2011, Ch. 30, pp. 559–563)]] — 系统阐述开放编码、分析编码、主轴编码（六要素模型）与选择性编码的进阶操作，提出编码包容层级与表格化比较分析方法，并警示编码剥离时序与情境的去情境化风险。
-
----
-
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al. (2011)]] — 系统阐释扎根理论四类编码谱系、鲍格丹与比克连九类描述性编码家族、初筛粗编码与复合双重赋码决策，以及课堂态度矩阵化比较与去情境化风险防范。
+> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 提出 Tesch 八步编码规程与四类编码类型（预期/意外/概念兴趣/预设），并在校园枪击案反应研究中通过涌现式编码揭示“再触发”深层主题。
+> - [[Argument_QiMei_2015_EducationalResearchMethods|齐梅 (2015)]] — 结合课堂观察与深度访谈，示范如何在教育质性研究中通过多级编码程序自下而上提炼本土概念与建构理论分析框架。
+> - [[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]] — 在 NVivo 11 中结合开放编码与基于 3GAT 六构件的模板分析，对 25 份半结构化访谈展开扎根编码与活动系统矛盾解析。
