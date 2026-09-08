@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28"
 argument_display_title: "Research Methods in Education · Ch28"
 argument_kind: "book-chapter"
-argument_related_count: 38
+argument_related_count: 39
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -49,7 +49,8 @@ related_concepts:
   - "[[Nomothetic]]"
   - "[[Causality]]"
   - "[[Progressive Focussing]]"
-  - "[[Data Reduction and Data Display]]"
+  - "[[Data Display]]"
+  - "[[Data Reduction]]"
   - "[[External Validity]]"
   - "[[Research Purpose]]"
   - "[[Hypothesis]]"
@@ -80,7 +81,7 @@ related_facts: []
 related_arguments: []
 status: draft
 created: 2026-08-14
-updated: '2026-08-27'
+updated: '2026-09-08'
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28
 

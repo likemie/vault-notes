@@ -7,7 +7,7 @@ summary: "丹麦教育哲学学者，Bildung 复兴与 Visible Learning 批判�
 type: person
 nationality: denmark
 person_region: "denmark"
-person_related_count: 26
+person_related_count: 25
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"

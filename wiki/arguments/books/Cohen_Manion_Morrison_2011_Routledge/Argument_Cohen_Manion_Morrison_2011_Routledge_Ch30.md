@@ -12,9 +12,9 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30"
 argument_display_title: "Research Methods in Education · Ch30"
 argument_kind: "book-chapter"
-argument_related_count: 28
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 56
+argument_related_level: 3
+argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
 book_title: "Research Methods in Education"
 publication_place: "London"
@@ -32,7 +32,7 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 related_concepts:
   - "[[Concept Mapping]]"
-  - "[[Data Reduction and Data Display]]"
+  - "[[Data Reduction]]"
   - "[[Reliability]]"
   - "[[Reflexivity]]"
   - "[[Working Memory]]"
@@ -50,6 +50,7 @@ related_concepts:
   - "[[Saturation]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Central Phenomenon]]"
+  - "[[Data Display]]"
   - "[[Homework]]"
   - "[[Rich and Thick Description]]"
   - "[[Dependent Variable]]"

@@ -8,7 +8,7 @@ aliases:
 summary: "在常规学科教学中引导学生深入探究学科问题，但不显性讲授通用批判性思维规则与元认知准则的隐性渗透式课程模式"
 type: concept
 domain: "curriculum"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

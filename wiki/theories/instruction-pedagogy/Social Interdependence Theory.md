@@ -7,10 +7,10 @@ aliases:
 summary: "由 Kurt Lewin 开创、Morton Deutsch 奠基、David & Roger Johnson 系统化发展的社会心理学与教学理论。该理论主张个体的目标实现结构决定了其互动模式：积极互赖激发促进性互动，消极互赖激发阻碍性互动，无互赖导致个体孤立，从而奠定了合作学习的根本机制基础。"
 type: theory
 theory_field: "instruction-pedagogy"
-theory_related_count: 15
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_count: 16
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 domain: "instruction-pedagogy"
 tags:
   - "theory/social-psychology"

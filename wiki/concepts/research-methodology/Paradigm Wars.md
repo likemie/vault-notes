@@ -4,10 +4,10 @@ aliases: [范式战争, paradigm war, 范式之争, quantitative-qualitative deb
 summary: "20世纪末量化与质性研究范式之间的方法论争论，双方各自坚守范式忠诚，后被混合方法研究的兴起所超越。"
 type: concept
 domain: "research-methodology"
-related_count: 10
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 9
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags: [theme/epistemology, theme/research-philosophy, paradigm/mixed-methods]
 related_concepts:
   - "[[Paradigm]]"

@@ -10,10 +10,10 @@ aliases:
 summary: "19世纪北美以霍勒斯·曼等人为主导的初等教育改革运动，主张由公共税收供养、公众共同治理并秉持无宗派世俗道德，将欧洲公立教育实绩转译为击败国内保守势力的合法化依据"
 type: concept
 domain: "comparative-education"
-related_count: 11
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - subject/comparative-education
   - region/us

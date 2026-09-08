@@ -9,7 +9,7 @@ title: "Argument_Hattie_2017_SLM"
 argument_key: "Argument_Hattie_2017_SLM"
 argument_display_title: "Educators are not uncritical believers of a cult figure"
 argument_kind: "journal-article"
-argument_related_count: 16
+argument_related_count: 15
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"

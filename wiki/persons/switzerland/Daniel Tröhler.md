@@ -8,7 +8,7 @@ summary: "瑞士教育历史与课程学学者，以课程历史的宗教与政�
 type: person
 nationality: switzerland
 person_region: "switzerland"
-person_related_count: 14
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"

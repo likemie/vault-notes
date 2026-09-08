@@ -25,7 +25,7 @@ related_concepts:
   - "[[Transformative Leadership]]"
   - "[[Instructional Leadership]]"
   - "[[Return on Investment]]"
-  - "[[Data Reduction and Data Display]]"
+  - "[[Data Display]]"
   - "[[Dialogue in Education]]"
   - "[[Unit of Analysis]]"
   - "[[Emergence]]"

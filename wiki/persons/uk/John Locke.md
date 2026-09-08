@@ -7,7 +7,7 @@ summary: "英国哲学家与医生，经验论奠基人与自由主义政治哲�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 11
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"

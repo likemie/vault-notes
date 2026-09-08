@@ -6,10 +6,10 @@ aliases:
 summary: "元分析中以图形方式全景展示各项初级研究效应量点估计、置信区间、权重占比及合并综合菱形效应的标准可视化方法"
 type: concept
 domain: "research-methodology"
-related_count: 18
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 23
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - statistics/meta-analysis
   - data-visualization

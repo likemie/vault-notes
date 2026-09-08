@@ -8,7 +8,7 @@ aliases:
 summary: "由Brown等提出的证据知情学校改进模型，将校内基于数据的决策（DBDM）与校外研究知情教学实践（RITP）整合为五阶段探究闭环，通过中层领导协作网络实现问题诊断、实证干预与课堂改进的有机统一。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

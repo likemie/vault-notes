@@ -18,7 +18,7 @@ related_concepts:
   - "[[Transcription in Qualitative Research]]"
   - "[[Reliability]]"
   - "[[Causality]]"
-  - "[[Data Reduction and Data Display]]"
+  - "[[Data Reduction]]"
 related_methods:
   - "[[Accounts]]"
   - "[[Coding in Qualitative Research]]"

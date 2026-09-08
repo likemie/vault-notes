@@ -9,7 +9,7 @@ aliases:
 summary: "具备物理具身或外显虚拟实体的人工智能交互系统，通过语音、表情、手势与多模态感知，在语言伴读、程序演练与跨学科探究中提供示范、协作与情感激励。"
 type: concept
 domain: "educational-technology"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

@@ -8,7 +8,7 @@ summary: "母子对话研究中的话语分析材料集，按认知社会化与�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 13
+method_related_count: 14
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"

@@ -7,7 +7,7 @@ summary: "加拿大教育理论家，知识建构理论代表人物，为教育�
 type: person
 nationality: canada
 person_region: "canada"
-person_related_count: 7
+person_related_count: 6
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"

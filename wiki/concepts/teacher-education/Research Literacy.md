@@ -6,7 +6,7 @@ aliases:
 summary: "指专业人员以维护专业实践完整性的方式理解、评估与整合研究的能力与德性，被视为教师在有效性与恰当性之间进行专业判断的中介素养"
 type: concept
 domain: "teacher-education"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

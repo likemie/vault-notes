@@ -6,7 +6,7 @@ aliases:
 summary: "认识论认知构念之一，指个体认识到知识是不断演化、可被修正的发展性产物，而非永恒不变的绝对真理集合。是预测学业成就效力最强的单一认识论构念。"
 type: concept
 domain: "educational-psychology"
-related_count: 21
+related_count: 20
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

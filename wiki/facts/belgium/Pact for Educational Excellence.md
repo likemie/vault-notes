@@ -9,7 +9,7 @@ subtype: policy
 region: belgium
 fact_region: "belgium"
 fact_kind: "policy"
-fact_related_count: 19
+fact_related_count: 20
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"

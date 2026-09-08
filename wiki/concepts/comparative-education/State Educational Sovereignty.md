@@ -10,10 +10,10 @@ aliases:
 summary: "近代世俗民族国家在打破宗教教会神权与家庭宗族私权垄断中确立的最高教育管辖权与视察责任，主张教育属神圣国家公共资源，由公共财政保障学校网络、推行强制义务教育并规范国民资格准入"
 type: concept
 domain: "comparative-education"
-related_count: 11
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 23
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/comparative-education
   - theme/educational-governance

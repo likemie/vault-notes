@@ -9,7 +9,7 @@ aliases:
 summary: "一种以连续提问、界定术语、检验假设与暴露内在矛盾为核心的引导式教学对话策略，通过认知脚手架促进学习者自主发现真理并发展批判性思维。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

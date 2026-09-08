@@ -5,7 +5,7 @@ aliases:
 summary: "女性认知方式模型中的最高阶段，个体认为知识是随语境变化的主动建构产物。"
 type: concept
 domain: "educational-psychology"
-related_count: 29
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

@@ -8,10 +8,10 @@ summary: "19世纪法国实证主义哲学家与社会学奠基人，提出知�
 type: person
 nationality: "france"
 person_region: "france"
-person_related_count: 20
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 32
+person_related_level: 4
+person_related_stars: "⭐⭐⭐⭐"
+person_related_color: "#fce7f3"
 tags:
   - person/philosopher
   - person/sociologist

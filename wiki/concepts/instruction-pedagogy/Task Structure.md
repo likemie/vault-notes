@@ -9,7 +9,7 @@ aliases:
 summary: "学习与学术任务在目标清晰度、解题算法、信息充分性及评价标准等维度的结构化程度。任务沿良构到劣构的连续谱分布，调节着学生的认识论信念激活、元认知监控与自我调节学习策略。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

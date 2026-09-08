@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29"
 argument_display_title: "Research Methods in Education · Ch29"
 argument_kind: "book-chapter"
-argument_related_count: 35
+argument_related_count: 37
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -34,7 +34,8 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 related_concepts:
   - "[[Concept Mapping]]"
-  - "[[Data Reduction and Data Display]]"
+  - "[[Data Reduction]]"
+  - "[[Data Display]]"
   - "[[Reflexivity]]"
   - "[[Research Question]]"
   - "[[Transcription in Qualitative Research]]"
@@ -77,7 +78,7 @@ related_facts: []
 related_arguments: []
 status: draft
 created: 2026-08-16
-updated: '2026-08-27'
+updated: '2026-09-08'
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29
 

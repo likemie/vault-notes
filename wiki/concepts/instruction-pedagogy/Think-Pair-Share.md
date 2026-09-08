@@ -7,7 +7,7 @@ aliases:
 summary: "由 Frank Lyman（1981）提出的一种低门槛、短周期的即时合作学习策略，通过独立思考（Think）、同伴配对研讨（Pair）与全班展示（Share）三阶段结构，保障全体学生的课堂等待时间、认知加工深度与口头参与度。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

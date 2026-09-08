@@ -7,7 +7,7 @@ aliases:
 summary: "后殖民与去殖民批判中指代美国与西方在新自由主义全球化下，通过输出所谓普世的学校教育模型、科学标准与评估技术（如 OECD 的 PISA 测评），重新巩固并延续西方在认识论、文化和政治控制主导权的空间机制。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

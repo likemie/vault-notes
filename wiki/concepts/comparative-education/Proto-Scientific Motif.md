@@ -9,10 +9,10 @@ aliases:
 summary: "源自朱利安《比较教育工作计划》的学科发端母题，主张将教育比拟于比较解剖学等自然科学，运用标准化问卷与比较观察表归纳普遍法则，并将经验事实探究深嵌于全人体智德启蒙与欧洲永久和平的人道世界主义关怀"
 type: concept
 domain: "comparative-education"
-related_count: 14
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 35
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - theme/comparative-education
   - theme/historiography

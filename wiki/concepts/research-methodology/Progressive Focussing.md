@@ -6,7 +6,7 @@ aliases:
 summary: "Parlett和Hamilton (1976) 提出的质性研究数据分析策略：从广角镜收集数据，通过筛选、归类与反思逐步收窄至情境的核心特征。"
 type: concept
 domain: "research-methodology"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -16,7 +16,8 @@ tags:
 related_concepts:
   - "[[Paradigm]]"
   - "[[Analytic Framework]]"
-  - "[[Data Reduction and Data Display]]"
+  - "[[Data Reduction]]"
+  - "[[Data Display]]"
   - "[[Analytic Induction]]"
 related_theories: []
 related_methods:

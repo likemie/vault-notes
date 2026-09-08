@@ -6,7 +6,7 @@ aliases:
 summary: "认识论模型中的最高层级，认为知识虽由主观建构，但可以通过论证与证据的客观标准进行优劣评估。"
 type: concept
 domain: "educational-psychology"
-related_count: 13
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

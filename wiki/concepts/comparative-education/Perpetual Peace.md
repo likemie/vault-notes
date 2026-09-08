@@ -9,10 +9,10 @@ aliases:
 summary: "源自康德哲学与[[Enlightenment|启蒙国际主义]]的规范性政治与教育构想，主张通过普遍理性觉醒、共和立宪法权与跨国制度协作消除野蛮战争状态，构建人类永久和平共同体，构成现代比较教育与国际教育的奠基性伦理动因"
 type: concept
 domain: "comparative-education"
-related_count: 12
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 29
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/comparative-education
   - theme/international-education

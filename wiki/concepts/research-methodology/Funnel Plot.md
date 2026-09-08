@@ -6,7 +6,7 @@ aliases:
 summary: "元分析中以效应量为横轴、研究精度（标准误或样本量）为纵轴的散点图，用于可视化诊断发表偏倚、小研究效应与研究间异质性"
 type: concept
 domain: "research-methodology"
-related_count: 22
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

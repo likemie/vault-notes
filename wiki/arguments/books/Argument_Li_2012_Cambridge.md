@@ -83,7 +83,7 @@ related_concepts:
   - "[[Take the World Upon Oneself]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Establishing One's Will]]"
-  - "[[Data Reduction and Data Display]]"
+  - "[[Data Display]]"
   - "[[Scientific Method]]"
   - "[[Homework]]"
   - "[[Examination Hell]]"

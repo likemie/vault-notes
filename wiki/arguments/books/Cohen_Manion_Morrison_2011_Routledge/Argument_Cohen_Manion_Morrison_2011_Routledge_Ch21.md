@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21"
 argument_display_title: "Research Methods in Education · Ch21"
 argument_kind: "book-chapter"
-argument_related_count: 53
+argument_related_count: 54
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -43,7 +43,7 @@ related_concepts:
   - "[[Research Purpose]]"
   - "[[Variable]]"
   - "[[Questionnaire]]"
-  - "[[Data Reduction and Data Display]]"
+  - "[[Data Reduction]]"
   - "[[Reliability]]"
   - "[[Document]]"
   - "[[Emergence]]"
@@ -91,7 +91,7 @@ related_methods:
   - "[[Accounts]]"
 status: draft
 created: 2026-07-22
-updated: '2026-08-27'
+updated: '2026-09-08'
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21
 

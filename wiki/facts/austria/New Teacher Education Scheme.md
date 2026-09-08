@@ -10,9 +10,9 @@ subtype: policy
 region: austria
 fact_region: "austria"
 fact_kind: "policy"
-fact_related_count: 7
-fact_related_level: 0
-fact_related_stars: ""
+fact_related_count: 8
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "奥地利联邦教育、科学与研究部（BMBWF）"
 tags:

@@ -36,7 +36,7 @@ related_concepts:
   - "[[Scientific Method]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Document]]"
-  - "[[Data Reduction and Data Display]]"
+  - "[[Data Display]]"
   - "[[Direct Instruction]]"
   - "[[Evidence-Based Education]]"
   - "[[Problem Solving]]"

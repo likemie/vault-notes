@@ -8,7 +8,7 @@ summary: "塞浦路斯比较教育与教育史学者，塞浦路斯大学副教�
 type: person
 nationality: cyprus
 person_region: "cyprus"
-person_related_count: 17
+person_related_count: 18
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"

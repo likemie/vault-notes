@@ -8,7 +8,7 @@ aliases:
 summary: "个体将外部教学支架内化为自主表征系统，能够自发在头脑中构建空间隐喻与逻辑结构以指导高级问题解决的发展认知机制"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

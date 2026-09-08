@@ -8,10 +8,10 @@ aliases:
 summary: "教学材料中添加有趣但与核心目标无关的视听装饰元素，导致学习者注意力分散并损害深层理解的认知负荷效应"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/cognition
   - construct/cognitive-process

@@ -7,10 +7,10 @@ aliases:
 summary: "更有经验者通过示范、辅导、支架与支持促进新手专业、认知和个人发展的过程，在科学精英传承与高阶思维教学干预中发挥核心催化作用"
 type: concept
 domain: "higher-education"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/higher-education
   - theme/medical-education

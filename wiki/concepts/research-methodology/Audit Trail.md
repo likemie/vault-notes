@@ -21,7 +21,7 @@ related_concepts:
   - "[[Qualitative Validity]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Primary and Secondary Documents]]"
-  - "[[Data Reduction and Data Display]]"
+  - "[[Data Reduction]]"
   - "[[External Auditor]]"
   - "[[Negative Case Analysis]]"
 related_methods:
