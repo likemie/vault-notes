@@ -6,7 +6,7 @@ aliases:
 summary: "质性数据分析的核心分析流，指在整个研究生命周期中对原始资料进行选择、聚焦、简化、抽象与转化的系统性过程，以在控制数据过载的同时提炼理论意义"
 type: concept
 domain: "research-methodology"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -28,7 +28,8 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28]]"
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21]]"
+  - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Argument_QiMei_2015_EducationalResearchMethods]]"
 confidence: medium
 status: draft
 created: 2026-09-08
@@ -162,7 +163,6 @@ updated: 2026-09-08
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|Cohen et al. (2011, pp. 537–558)]] — 以澳门学童英语学习的访谈资料为例，展示如何通过表格矩阵与分层评注实现系统性的质性数据缩减。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al. (2011, pp. 559–573)]] — 详述质性内容分析的11步规程与编码技术，论证如何借助单位化、层级归并与频数统计单实现高保真数据缩减。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|Cohen et al. (2011, pp. 533–536)]] — 论述质性分析的总体原则与渐进聚焦机制，探讨数据缩减如何在研究开展过程中逐步明晰研究重点。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|Cohen et al. (2011, pp. 377–411)]] — 在个人建构理论与网格技术中比较质性编码缩减与量化光栅化缩减的异同。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al. (2011, Ch. 30)]] — 将数据缩减确立为质性分析的核心支柱，系统阐述质性内容分析的 11 步规程与编码技术，论证如何借助单位化、层级归并与频数统计单实现高保真数据缩减。
+> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 阐释质性数据筛选（Winnowing）机制，论述在面对密集文本与图像时如何进行结构性过滤，将海量资料聚焦提炼为少数核心主题。
+> - [[Argument_QiMei_2015_EducationalResearchMethods|齐梅 (2015)]] — 详述质性资料从初始编码、轴心编码到聚焦与选择性编码的多阶段浓缩提炼过程，示范如何在教育研究中逐步收拢范畴并建立理论连贯性。

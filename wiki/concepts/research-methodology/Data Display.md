@@ -23,8 +23,8 @@ related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30]]"
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28]]"
   - "[[Argument_Li_2012_Cambridge]]"
+  - "[[Argument_Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-09-08
@@ -158,7 +158,6 @@ updated: 2026-09-08
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|Cohen et al. (2011, pp. 537–558)]] — 以澳门小学英语教学案例完整展示了表格矩阵与多层评注的协同运作方式。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al. (2011, pp. 559–573)]] — 在内容分析中示范了态度交叉矩阵、频数统计单与类属层级归并表的具体构建过程。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|Cohen et al. (2011, pp. 533–536)]] — 阐述渐进聚焦过程中数据展示如何协助研究者收敛研究范围。
-> - [[Argument_Li_2012_Cambridge|Li (2012)]] — 在中西方学习信念研究中，运用大量系统性数据展示呈现两种文化原型的核心差异。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|Cohen et al. (2011, Ch. 29)]] — 以澳门小学英语教学案例系统展示表格矩阵、双重评注系统（实质性与总体性评注）与跨场所分析矩阵的协同运作机制，论证数据展示如何支撑推论得出。
+> - [[Argument_Li_2012_Cambridge|Li (2012)]] — 在中西方学习信念研究中，运用大量系统性数据展示呈现两种文化原型的核心差异，为文化学习模型的实证建构提供直观证据支撑。
+> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 探讨如何通过空间化展示工具（如联合展示 Joint Display）并排呈现多元数据形态，以突破单一数据维度的认知局限并生成高阶元推论。

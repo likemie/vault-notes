@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Coding in Qualitative Research",
+      "path": "wiki/methods/qualitative/Coding in Qualitative Research.md"
+    },
+    {
       "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30",
       "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30.md"
+    },
+    {
+      "basename": "Content Analysis",
+      "path": "wiki/methods/qualitative/Content Analysis.md"
+    },
+    {
+      "basename": "Data Reduction",
+      "path": "wiki/concepts/research-methodology/Data Reduction.md"
     },
     {
       "basename": "Cohen_Manion_Morrison_2011_Routledge",
@@ -187,14 +199,6 @@
     {
       "basename": "Argument_Erfurth_2022_education-hubs",
       "path": "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Erfurth_2022_education-hubs.md"
-    },
-    {
-      "basename": "Argument_Delambre_2022_Springer",
-      "path": "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Delambre_2022_Springer.md"
-    },
-    {
-      "basename": "Argument_Li_2012_Cambridge",
-      "path": "wiki/arguments/books/Argument_Li_2012_Cambridge.md"
     }
   ],
   "omittedPaths": [],
