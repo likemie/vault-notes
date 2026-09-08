@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Hypothesis]]"
   - "[[Chain of Evidence]]"
+  - "[[Scaffolding]]"
   - "[[Mind Mapping]]"
   - "[[Concept Mapping]]"
   - "[[Critical Thinking]]"

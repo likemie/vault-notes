@@ -34,6 +34,7 @@ related_concepts:
   - "[[Class Size]]"
   - "[[Homework]]"
   - "[[Effect Size]]"
+  - "[[Unit of Analysis]]"
   - "[[Variable]]"
   - "[[Dialogue in Education]]"
   - "[[Problem Solving]]"
@@ -43,8 +44,7 @@ related_theories:
   - "[[Critical Theory]]"
 related_methods:
   - "[[Meta-analysis]]"
-related_persons:
-  - "[[Jürgen Habermas]]"
+related_persons: []
 related_facts:
   - "[[OECD]]"
 related_arguments:

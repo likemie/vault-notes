@@ -25,8 +25,7 @@ related_methods:
   - "[[Grounded Theory]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Quantitative Research]]"
-related_persons:
-  - "[[Karl Popper]]"
+related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11]]"

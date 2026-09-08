@@ -46,6 +46,7 @@ related_concepts:
   - "[[Examination-Oriented Education]]"
   - "[[Critical Pedagogy]]"
   - "[[Theory of Knowledge]]"
+  - "[[Normal School]]"
   - "[[Habituation]]"
   - "[[Praxis]]"
 related_theories: []
@@ -207,7 +208,7 @@ updated: 2026-07-25
 > - **学生／中国追随者与传播者** [[Hu Shi|胡适]]、[[Jiang Menglin|蒋梦麟]]、[[Tao Xingzhi|陶行知]]、赵乃传、查良钊 — 推动杜威思想在华翻译、讲演安排、制度落地与乡村教育实践。
 > - **跨国同行** [[Stanislav Shatskii]] — 苏联[[Progressive Education|进步教育]]代表人物，1928年与杜威在苏直接会面交流。
 > - **理论研究与解释者** [[Robert Cowen]] — 提出 [[Transfer Translation Transformation|3T 框架]]解释杜威等外来思想在跨国转移中的拆解与变质。
-> - **核心机构与项目** 芝加哥大学实验学校、哥伦比亚大学师范学院、[[New Education Movement|新教育运动]]、1922年新学制改革。
+> - **核心机构与项目** 芝加哥大学实验学校、哥伦比亚大学[[Normal School|师范学院]]、[[New Education Movement|新教育运动]]、1922年新学制改革。
 
 ---
 

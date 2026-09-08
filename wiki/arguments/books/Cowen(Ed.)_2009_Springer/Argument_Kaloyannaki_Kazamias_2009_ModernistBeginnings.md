@@ -64,6 +64,7 @@ related_concepts:
   - "[[Pride in Learning]]"
   - "[[Ontology]]"
   - "[[State Educational Sovereignty]]"
+  - "[[Culture Générale]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Common School Movement]]"
   - "[[Knowledge Mobilisation]]"

@@ -37,7 +37,8 @@ related_methods:
   - "[[Participatory Research]]"
   - "[[Feminist Research]]"
   - "[[Participatory Action Research]]"
-related_persons: []
+related_persons:
+  - "[[Jürgen Habermas]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02]]"
@@ -96,7 +97,7 @@ updated: 2026-07-19
 ## 关键概念与理论构件
 
 > [!theory-components] 理论构件
-> - **Knowledge-Constitutive Interests**（知识构成性兴趣）：哈贝马斯提出的三种认知兴趣——技术兴趣（预测与控制）、实践兴趣（理解与诠释）、解放兴趣（解放与自由）——构成了批判理论的核心[[Analytic Framework|分析框架]]，用于区分不同类型的研究[[Paradigm|范式]]和政治功能。
+> - **Knowledge-Constitutive Interests**（知识构成性兴趣）：[[Jürgen Habermas|哈贝马斯]]提出的三种认知兴趣——技术兴趣（预测与控制）、实践兴趣（理解与诠释）、解放兴趣（解放与自由）——构成了批判理论的核心[[Analytic Framework|分析框架]]，用于区分不同类型的研究[[Paradigm|范式]]和政治功能。
 > - **意识形态（Ideology）** 来自特定支配群体的价值观和实践，通过它们，权力群体以"普遍利益"为名推进和合法化其部门利益，压制被剥夺权力群体的利益。
 > - **可普遍化利益（Generalizable Interests）** 意识形态的判定标准——如果某一行为原则不能在所有人之间普遍化（即一个人的自由以压制另一个人的自由为代价），则该利益不具合法性。
 > - **[[Ideology Critique]]**（意识形态批判） 批判理论的核心方法论，通过反思实践揭示被压制的利益，暴露虚假意识的运作，并推动变革。
@@ -118,7 +119,7 @@ updated: 2026-07-19
 ## 分析框架与使用方式
 
 > [!theory-use] 如何用于研究
-> - **作为理论框架** 以哈贝马斯三种认识兴趣为分析维度，追问教育政策、课程或制度服务于哪一种兴趣——是寻求控制（技术兴趣）、寻求理解（实践兴趣），还是寻求解放（解放兴趣）。
+> - **作为理论框架** 以[[Jürgen Habermas|哈贝马斯]]三种认识兴趣为分析维度，追问教育政策、课程或制度服务于哪一种兴趣——是寻求控制（技术兴趣）、寻求理解（实践兴趣），还是寻求解放（解放兴趣）。
 > - **作为分析工具** 追问"谁的知识""服务于谁的利益""谁从现状中受益"——将课程文本、政策文件、学校制度视为意识形态文本进行解读。
 > - **作为批判视角** 揭示"[[Value Neutrality|价值中立]]"研究背后的政治预设，暴露研究资助和制度安排中隐藏的权力关系。
 > - **报告方式** 研究者应公开声明自身的价值立场和政治意图，承认研究的非中立性。
@@ -148,7 +149,7 @@ updated: 2026-07-19
 
 > [!dev-timeline] 发展脉络
 > - **1930s-1940s** — 法兰克福学派奠基：阿多诺、霍克海默、马尔库塞等从马克思主义传统出发，批判工具理性和文化工业。
-> - **1972** — 哈贝马斯出版《知识与人类兴趣》，提出三种知识构成性兴趣的框架，将批判理论系统化为[[Epistemology|认识论]]和方法论基础。
+> - **1972** — [[Jürgen Habermas|哈贝马斯]]出版《知识与人类兴趣》，提出三种知识构成性兴趣的框架，将批判理论系统化为[[Epistemology|认识论]]和方法论基础。
 > - **1980s-1990s** — 批判理论进入教育研究：Carr & Kemmis (1986)、Grundy (1987) 将[[Ideology Critique|意识形态批判]]和[[Action Research|行动研究]]引入课程和教育实践分析。
 > - **1980s-1990s** — 批判理论进入教育研究：Carr & Kemmis (1986)、Grundy (1987) 将[[Ideology Critique|意识形态批判]]和[[Action Research|行动研究]]引入课程和教育实践分析。Grundy 建构行动研究的三分类型学——技术性、实践性、解放性——直接对应哈贝马斯的三种认识兴趣。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 272–273)]]
 > - **2007** — Mertens 提出变革[[Paradigm|范式]]（[[Transformative Paradigm]]），将批判理论的解放兴趣整合进[[Mixed Methods Research|混合方法研究]]框架。
@@ -161,7 +162,7 @@ updated: 2026-07-19
 > - **三种兴趣的分离是人为的（Hesse, 1982; Bernstein, 1983）** 诠释知识和实证科学需要互相参照才能理解彼此——三大兴趣并非截然分离。
 > - **[[Ideology Critique|意识形态批判]]与解放之间的因果链不清晰（Morrison, 1995a）** 一个人或社会是否仅通过意识形态批判就能获得解放，是经验问题而非逻辑必然。
 > - **批判理论本身就是意识形态（Roderick, 1986）** 批判理论声称揭露别人的意识形态，但其自身的政治议程同样无法避免意识形态立场。
-> - **停留在思辨层面（Lakomski, 1999）** 哈贝马斯的著作对社会变革保持沉默，缺乏经验检验，其理论仅依靠概念模糊性而存活（Kolakowski, 1978）。
+> - **停留在思辨层面（Lakomski, 1999）** [[Jürgen Habermas|哈贝马斯]]的著作对社会变革保持沉默，缺乏经验检验，其理论仅依靠概念模糊性而存活（Kolakowski, 1978）。
 
 > [!critique] 批评索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al. (2011, pp. 107–116)]] — 第2.2节系统梳理了对批判理论的四重批评：三种兴趣的人为分离、意识形态批判与解放的不确定关系、政治议程与研究者客观性的张力、[[Action Research|行动研究]]的赋权效果缺乏证据。
@@ -184,6 +185,6 @@ updated: 2026-07-19
 > - [[Ideology Critique]] — 批判理论的核心方法论工具，通过四阶段反思实践揭示意识形态运作。
 > - [[Participatory Research]] — 批判理论的社区赋权实践，将研究控制权从精英归还给社区。
 > - [[Feminist Research]] — 批判理论在性别维度上的延伸，揭示父权制[[Knowledge Production|知识生产]]的压迫性。
-> - [[Action Research]] 三分类型学 — Grundy（1987）将哈贝马斯三种兴趣直接映射为技术性、实践性和[[Emancipatory Action Research|解放性行动研究]]，使批判理论获得了可操作的方法论形态。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 272–273)]]
+> - [[Action Research]] 三分类型学 — Grundy（1987）将[[Jürgen Habermas|哈贝马斯]]三种兴趣直接映射为技术性、实践性和[[Emancipatory Action Research|解放性行动研究]]，使批判理论获得了可操作的方法论形态。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 272–273)]]
 > - [[Participatory Action Research]] — 解放性行动研究的政治化版本，以[[Ideal Speech Situation|理想言说情境]]为沟通规范，以对称沟通和共识为组织原则。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 270–272)]]
 > - 课程研究 — 批判理论重读课程为权力文本和意识形态选择，而非中立的知识集合。

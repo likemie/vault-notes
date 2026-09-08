@@ -39,7 +39,6 @@ related_methods:
   - "[[Survey Research]]"
 related_persons:
   - "[[John Hattie]]"
-  - "[[Karl Popper]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Snook_2010_NZJES]]"

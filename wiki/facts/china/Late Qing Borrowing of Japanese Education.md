@@ -21,9 +21,9 @@ tags:
 - education-reform
 - late-qing
 related_concepts:
+  - "[[Normal School]]"
   - "[[Cross-National Attraction]]"
   - "[[Pre-Transfer Agency]]"
-  - "[[Normal School]]"
   - "[[Policy Borrowing]]"
   - "[[Externalization]]"
 related_theories: []

@@ -32,6 +32,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Surface and Deep Learning]]"
   - "[[Effect Size]]"
+  - "[[Paideia]]"
   - "[[Document]]"
   - "[[New Public Management]]"
   - "[[Analytical Stance]]"

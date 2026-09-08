@@ -28,7 +28,8 @@ related_theories:
 related_methods:
   - "[[Ethnography]]"
   - "[[Ideology Critique]]"
-related_persons: []
+related_persons:
+  - "[[Jürgen Habermas]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11]]"
@@ -46,7 +47,7 @@ updated: 2026-07-11
 > - **解释对象** 社会群体和文化情境中的权力关系、不平等、压迫结构，以及这些结构如何维持和再生产。
 > - **理论问题** 传统[[Ethnography|民族志]]关注"是什么"的客观描述是否足以揭示深层的社会不公？研究者的"中立"立场是否在事实上巩固了现状？
 > - **理论类型** 批判取向的方法论框架——既是民族志方法的一种，也是批判社会理论在民族志实践中的应用。
-> - **知识位置**[[Critical Theory|批判理论]]传统（法兰克福学派、哈贝马斯）、文化马克思主义、[[Post-colonial Theory|后殖民理论]]、女性主义理论；核心文本包括 Thomas (1993)、Carspecken (1996)、Madison (2005)。
+> - **知识位置**[[Critical Theory|批判理论]]传统（法兰克福学派、[[Jürgen Habermas|哈贝马斯]]）、文化马克思主义、[[Post-colonial Theory|后殖民理论]]、女性主义理论；核心文本包括 Thomas (1993)、Carspecken (1996)、Madison (2005)。
 
 > [!claim] 核心主张
 > 批判民族志将民族志方法从"发现和描述"推进到"质疑和改变"：研究不仅是对社会现实的记录，更是揭露压迫、赋权被研究群体、推动社会正义的政治行动和行动主义。研究者既非中立也非无辜——[[Reflexivity|反身性]]不只是自我审视，而是积极干预。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 446–451)]]

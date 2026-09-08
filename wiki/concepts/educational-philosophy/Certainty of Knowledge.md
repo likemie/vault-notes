@@ -65,7 +65,6 @@ related_persons:
   - "[[Socrates]]"
   - "[[Aristotle]]"
   - "[[Immanuel Kant]]"
-  - "[[Deanna Kuhn]]"
 related_facts:
   - "[[TOSCA]]"
 related_arguments:

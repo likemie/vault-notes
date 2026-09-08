@@ -25,6 +25,7 @@ related_concepts:
   - "[[Academic Freedom]]"
   - "[[Halo Effect]]"
   - "[[Refined Mastery]]"
+  - "[[Liberal Education]]"
   - "[[Grice's Conversational Maxims]]"
   - "[[Revoicing]]"
   - "[[Self-spectator]]"

@@ -39,6 +39,7 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
+  - "[[Scaffolding]]"
   - "[[Metacognition]]"
   - "[[Ways of Knowing]]"
   - "[[Statistical Significance]]"

@@ -47,7 +47,6 @@ related_methods:
 related_persons:
   - "[[George Herbert Mead]]"
   - "[[John Dewey]]"
-  - "[[Deanna Kuhn]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"

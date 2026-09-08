@@ -19,8 +19,10 @@ tags:
   - instruction/scaffolding
   - sociocultural-theory
 related_concepts:
+  - "[[Scaffolding]]"
   - "[[AI Agent in Education]]"
   - "[[Learned Helplessness]]"
+  - "[[Problem Solving]]"
   - "[[Constructivist Paradigm]]"
   - "[[Working Memory]]"
   - "[[Operationalization]]"

@@ -48,9 +48,7 @@ related_methods:
   - "[[Meta-analysis]]"
 related_persons:
   - "[[John Hattie]]"
-  - "[[Karl Popper]]"
   - "[[Socrates]]"
-  - "[[Jürgen Habermas]]"
 related_facts: []
 related_arguments: []
 sources:

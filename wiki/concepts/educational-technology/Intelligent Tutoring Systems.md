@@ -20,6 +20,7 @@ tags:
   - instruction/adaptive-learning
   - learning-science
 related_concepts:
+  - "[[Scaffolding]]"
   - "[[Procedural Skill]]"
   - "[[Zone of Proximal Development]]"
   - "[[Educational Robotics]]"

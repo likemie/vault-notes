@@ -24,6 +24,8 @@ related_concepts:
   - "[[Statistical Significance]]"
   - "[[Sample Size Determination]]"
   - "[[Prediction Interval]]"
+  - "[[Higher-Order Thinking Skills]]"
+  - "[[Interaction Effect]]"
   - "[[Evidence-Based Education]]"
   - "[[Critical Thinking]]"
 related_theories: []
@@ -32,6 +34,9 @@ related_methods:
   - "[[Systematic Review]]"
   - "[[Moderator Analysis]]"
   - "[[Leave-One-Out Sensitivity Analysis]]"
+  - "[[Experimental Research]]"
+  - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Inverse-Variance Weighting]]"
 related_instruments: []
 related_persons: []
 related_facts: []

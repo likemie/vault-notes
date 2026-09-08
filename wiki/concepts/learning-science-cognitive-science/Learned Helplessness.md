@@ -28,6 +28,7 @@ related_concepts:
   - "[[Self-Regulated Learning]]"
   - "[[Task Structure]]"
   - "[[Ecological Validity]]"
+  - "[[Scaffolding]]"
   - "[[Variable]]"
   - "[[Statistical Significance]]"
   - "[[Effect Size]]"

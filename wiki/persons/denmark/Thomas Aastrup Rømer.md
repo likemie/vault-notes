@@ -30,7 +30,6 @@ related_theories:
 related_methods: []
 related_persons:
   - "[[John Hattie]]"
-  - "[[Karl Popper]]"
   - "[[Lars Qvortrup]]"
 related_arguments:
   - "[[Argument_Rømer_2018_EPT]]"

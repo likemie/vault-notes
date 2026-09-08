@@ -26,6 +26,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Hypothesis]]"
   - "[[Reliability]]"
+  - "[[Scaffolding]]"
   - "[[Effect Size]]"
   - "[[Academic Achievement]]"
   - "[[Presence]]"
@@ -110,7 +111,7 @@ flowchart TD
 > [!proposition-chain] 命题推导
 > - **前提一** 沉浸模式与融入模式均在常规学科内部展开高强度的思维探究，两者的唯一[[Variable|变量]]差异在于**是否向学生显性揭示[[Critical Thinking|批判性思维]]原则与反思[[Metacognition|元认知]]**（Ennis, 1989）。
 > - **前提二** 大规模[[Meta-analysis|元分析]]实证显示，显性的[[Infusion Approach|学科融入模式]]干预效果达 $g+ = 0.29$（$k = 152$），而隐性的[[Immersion Approach|学科沉浸模式]]效果仅为 $g+ = 0.23$（$k = 61$），在所有四类模式中表现最弱（[[Argument_Abrami_2015_RER|Abrami et al., 2015]]）。
-> - **推导结论** 单纯增加学科内容的探究难度（沉浸）并不能自动转化为学生的批判性思维能力；只有当教师把“如何识别[[Hypothesis|假设]]、如何评估证据可[[Reliability|信度]]、如何避免逻辑谬误”等思维准则作为显性知识进行示范与脚手架搭建时，才能有效促进思维技能的发展。
+> - **推导结论** 单纯增加学科内容的探究难度（沉浸）并不能自动转化为学生的批判性思维能力；只有当教师把“如何识别[[Hypothesis|假设]]、如何评估证据可[[Reliability|信度]]、如何避免逻辑谬误”等思维准则作为显性知识进行示范与[[Scaffolding|脚手架]]搭建时，才能有效促进思维技能的发展。
 
 ---
 

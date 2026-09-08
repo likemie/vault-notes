@@ -33,6 +33,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Publication Bias]]"
   - "[[Hypothesis]]"
+  - "[[Normal School]]"
   - "[[Variable]]"
   - "[[School Leadership]]"
 related_theories:

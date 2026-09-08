@@ -25,6 +25,7 @@ related_concepts:
   - "[[Agendas of Attention]]"
   - "[[Paradigm]]"
   - "[[Knowledge Production]]"
+  - "[[Comparative Educations]]"
   - "[[Readings of the Global]]"
   - "[[Epistemology]]"
   - "[[Cross-National Attraction]]"

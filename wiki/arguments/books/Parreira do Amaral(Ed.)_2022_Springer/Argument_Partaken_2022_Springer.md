@@ -56,8 +56,6 @@ related_theories:
 related_methods: []
 related_persons:
   - "[[Chen Kuan-Hsing]]"
-  - "[[Francis Bacon]]"
-  - "[[Thomas Kuhn]]"
   - "[[Plato]]"
   - "[[Aristotle]]"
   - "[[Confucius]]"

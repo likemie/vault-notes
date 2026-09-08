@@ -80,7 +80,6 @@ related_methods:
 related_persons:
   - "[[John Hattie]]"
   - "[[Dietrich Benner]]"
-  - "[[Karl Popper]]"
   - "[[Jill Mehlbye]]"
 related_facts:
   - "[[Education Endowment Foundation]]"

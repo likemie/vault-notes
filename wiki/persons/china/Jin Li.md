@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Growth]]"
   - "[[Didaktik]]"
+  - "[[Liberal Education]]"
   - "[[Creativity Training]]"
   - "[[Heart and Mind for Wanting to Learn]]"
   - "[[Nerd]]"

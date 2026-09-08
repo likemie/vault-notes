@@ -41,11 +41,12 @@ related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
+  - "[[Johann Wilhelm Süvern]]"
   - "[[Victor Cousin]]"
+  - "[[François Guizot]]"
   - "[[Calvin Stowe]]"
   - "[[Horace Mann]]"
   - "[[Henry Barnard]]"
-  - "[[Johann Wilhelm Süvern]]"
 related_facts:
   - "[[Guizot Law of 1833]]"
   - "[[Top Institute for Evidence-Based Education Research]]"

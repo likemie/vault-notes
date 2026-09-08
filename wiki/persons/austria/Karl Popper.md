@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[Scientific Method]]"
   - "[[Positivism]]"
+  - "[[Rationalism in International Relations]]"
   - "[[Falsification]]"
   - "[[Critical Dualism]]"
   - "[[Postpositivism]]"
@@ -43,7 +44,6 @@ related_persons:
   - "[[Plato]]"
   - "[[Georg Wilhelm Friedrich Hegel]]"
   - "[[Thomas Kuhn]]"
-  - "[[Louis Cohen]]"
   - "[[W. V. O. Quine]]"
 related_facts: []
 related_arguments:

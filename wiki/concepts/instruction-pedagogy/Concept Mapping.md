@@ -39,6 +39,7 @@ related_concepts:
   - "[[Prediction Interval]]"
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
+  - "[[Scaffolding]]"
   - "[[Dependent Variable]]"
   - "[[Convergent Thinking]]"
 related_theories:

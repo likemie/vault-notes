@@ -21,6 +21,7 @@ tags:
   - theme/cooperative-learning
 related_concepts:
   - "[[Dialogue in Education]]"
+  - "[[Scaffolding]]"
   - "[[Critical Thinking]]"
   - "[[Hypothesis]]"
   - "[[Rote Learning]]"

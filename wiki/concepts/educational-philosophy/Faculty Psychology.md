@@ -19,15 +19,33 @@ tags:
   - theme/curriculum-theory
   - theme/epistemology
 related_concepts:
+  - "[[Epistemology]]"
   - "[[General Education]]"
+  - "[[Culture Générale]]"
+  - "[[Questionnaire]]"
+  - "[[Domain Specificity]]"
+  - "[[Metacognition]]"
+  - "[[Problem Solving]]"
+  - "[[Higher-Order Thinking Skills]]"
+  - "[[Concept Mapping]]"
   - "[[Bildung]]"
-related_theories: []
+  - "[[Operationalization]]"
+  - "[[Rote Learning]]"
+  - "[[Pragmatic Paradigm]]"
+  - "[[Paradigm]]"
+  - "[[Enlightenment]]"
+  - "[[Falsification]]"
+  - "[[Hypothesis]]"
+  - "[[Value Neutrality]]"
+related_theories:
+  - "[[Cognitive Constructivism]]"
 related_methods: []
 related_instruments: []
 related_persons:
-  - "[[Johann Heinrich Pestalozzi]]"
   - "[[Marc-Antoine Jullien]]"
   - "[[Victor Cousin]]"
+  - "[[Johann Heinrich Pestalozzi]]"
+  - "[[John Locke]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"

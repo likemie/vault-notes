@@ -20,6 +20,7 @@ related_concepts:
   - "[[Official Knowledge]]"
   - "[[Constructivist Paradigm]]"
   - "[[Paradigm]]"
+  - "[[Enlightenment]]"
   - "[[One Country, Two Systems]]"
 related_theories: []
 related_methods: []

@@ -23,6 +23,7 @@ related_concepts:
   - "[[Self-Directed Learning]]"
   - "[[Paradigm]]"
   - "[[Creativity]]"
+  - "[[Liberal Education]]"
   - "[[Active Learning]]"
   - "[[Formative Assessment]]"
   - "[[Higher-Order Thinking Skills]]"

@@ -141,7 +141,7 @@ updated: 2026-09-07
 
 ## 历史评价
 
-> [!citation-card] [[Brian Holmes|霍姆斯]]论巴纳德教育百科全书成就
+> [!citation-card] 霍姆斯论巴纳德教育百科全书成就
 > 巴纳德处理比较教育的方法在很大程度上是历史性与描述性的，其旨在编纂一部跨国教育百科全书的宏伟目标实质上已经圆满达成。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 33)]]；引自 Holmes (1965:14)
 >
 > *Unquestionably Barnard’s approach to comparative education was largely historical and descriptive, and his aim to produce an encyclopaedia of education ... was virtually achieved.*
@@ -183,7 +183,7 @@ updated: 2026-09-07
 > > - **Holmes (1965)** 肯定巴纳德的历史与描述性进路，赞誉其独立编纂出世界教育百科全书，为理解跨国制度演进提供了无可替代的客观画卷。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, p. 32)]]
 > > - **[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 33)]]** 批驳实证派的时代倒错：巴纳德虽缺乏深层的历史解释学阐释与语境因果模型，但将其斥为“杂乱盲目记录”完全失当；应当公正地将其定位为卓越的“教育编年史官（educational chronicler）”、“教育叙事家（educational narrator）”与“早期教育民族志学者（educational ethnographer）”。
 
-> [!citation-card] [[Harold Noah|诺亚]]与[[Max Eckstein|埃克斯坦]]对巴纳德汇纂方法的批判
+> [!citation-card] 诺亚与埃克斯坦对巴纳德汇纂方法的批判
 > “巴纳德在不加鉴别、甚至缺乏系统性地记录与再版所有可得材料中看到了价值。”实证派批评其汇纂进路缺乏严格的变量控制与因果假设检验。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 33)]]；引自 Noah & Eckstein (1969:25–26)
 >
 > *Barnard saw merit in the indiscriminate and even unsystematic recording and republication of all that was available.*

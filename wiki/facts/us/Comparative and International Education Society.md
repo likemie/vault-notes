@@ -36,6 +36,7 @@ related_concepts:
   - "[[Comparative History of Comparative Education]]"
   - "[[Blue Skies Research]]"
   - "[[Hypothesis]]"
+  - "[[Comparative Educations]]"
   - "[[Disciplina and Doctrina]]"
 related_theories:
   - "[[Critical Theory]]"

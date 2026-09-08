@@ -19,6 +19,7 @@ tags:
   - cognition/learning-science
 related_concepts:
   - "[[Higher-Order Thinking Skills]]"
+  - "[[Scaffolding]]"
   - "[[Graphic Organizer]]"
   - "[[Meta-Representational Competence]]"
   - "[[Working Memory]]"

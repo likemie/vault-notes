@@ -33,6 +33,7 @@ related_concepts:
   - "[[Construct Validity]]"
   - "[[Justificatory Standards]]"
   - "[[Domain Specificity]]"
+  - "[[Unit of Analysis]]"
   - "[[Epistemic Resources]]"
   - "[[Epistemic Climate]]"
   - "[[Epistemological Beliefs]]"
@@ -68,7 +69,6 @@ related_persons:
   - "[[W. V. O. Quine]]"
   - "[[Alvin Goldman]]"
   - "[[Jean Piaget]]"
-  - "[[Thomas Kuhn]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Hofer_1997_RER]]"

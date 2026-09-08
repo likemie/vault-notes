@@ -38,6 +38,7 @@ related_concepts:
   - "[[Constructed Knowledge]]"
   - "[[Disciplinary Socialization]]"
   - "[[Effect Size]]"
+  - "[[Liberal Education]]"
   - "[[Justificatory Standards]]"
   - "[[Academic Achievement]]"
   - "[[Construct]]"
@@ -54,8 +55,7 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Meta-analysis]]"
-related_persons:
-  - "[[Thomas Kuhn]]"
+related_persons: []
 status: active
 created: 2026-08-13
 updated: 2026-08-20
@@ -195,7 +195,7 @@ updated: 2026-08-20
 > - **1970 — 经典奠基** William Perry 出版 *Forms of Intellectual and Ethical Development in the College Years: A Scheme*，开创了[[Epistemology|认识论]]发展的阶段[[Paradigm|研究范式]]。
 > - **1986 — 性别批判与[[Women's Ways of Knowing|女性认知方式]]** Belenky et al. 指出佩里样本的男性精英偏差，提出女性[[Ways of Knowing|认知方式]]（Women's Ways of Knowing），将[[Constructed Knowledge|建构知识]]置于顶阶。
 > - **1990 — 多维信念系统转向** Schommer 提出认识论是由多维独立信念构成的系统，打破了单向单维的发展阶段[[Hypothesis|假设]]。
-> - **1997 — 理论系统整合** Hofer & Pintrich 在综述中系统对齐了佩里、Belenky、King & Kitchener、[[Thomas Kuhn|Kuhn]] 等各大发展模型，奠定了该领域的综合理论框架。[[Argument_Hofer_1997_RER|(Hofer & Pintrich, 1997)]]
+> - **1997 — 理论系统整合** Hofer & Pintrich 在综述中系统对齐了佩里、Belenky、King & Kitchener、Kuhn 等各大发展模型，奠定了该领域的综合理论框架。[[Argument_Hofer_1997_RER|(Hofer & Pintrich, 1997)]]
 > - **2007 — 纵向追踪检验** Trautwein & Lüdtke 运用纵向大样本检验佩里的大学涵化假设，证实[[Disciplinary Socialization|学科社会化]]与先验自我选择效应并存。[[Argument_Trautwein_2007_CEP|(Trautwein & Lüdtke, 2007)]]
 > - **2018 — [[Meta-analysis|元分析]]实证反思** Greene et al. 大规模元分析揭示中小学生认识论[[Effect Size|效应量]]高于大学生（学段倒挂），反驳了佩里传统发展模型对低龄儿童缺乏高级[[Epistemic Cognition|认识论认知]]的悲观假定。[[Argument_Greene_2018_JEP|(Greene et al., 2018)]]
 
@@ -209,7 +209,7 @@ updated: 2026-08-20
 > > 佩里模型的初始数据完全来自于 1950 年代哈佛大学的白人男性本科生，其普遍性受到严重质疑。
 > >
 > > - **Belenky et al.（1986）** 批评佩里模型建立在男性特有的“分离型认知”与自主权竞争之上，忽视了女性群体更普遍的“连结型认知”与同理心证成路径。
-> > - **[[Argument_Hofer_1997_RER|Hofer & Pintrich (1997)]]** 指出该模型可能更多反映了西方特权阶层自由教育（Liberal Education）的特定社会化产物，而非普遍人类心智规律。
+> > - **[[Argument_Hofer_1997_RER|Hofer & Pintrich (1997)]]** 指出该模型可能更多反映了西方特权阶层[[Liberal Education|自由教育]]（Liberal Education）的特定社会化产物，而非普遍人类心智规律。
 >
 > > [!axis] 发展终点偏离与伦理身份混淆
 > > 佩里图式的高阶阶段（Commitment）是否仍属于纯粹的“[[Epistemology|认识论]]”范畴？

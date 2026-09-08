@@ -24,6 +24,7 @@ tags:
   - theme/social-stratification
   - theme/educational-inequality
 related_concepts:
+  - "[[Common School Movement]]"
   - "[[School Choice]]"
   - "[[Cultural Capital]]"
 related_theories: []

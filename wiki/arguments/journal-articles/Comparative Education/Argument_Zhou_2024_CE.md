@@ -39,6 +39,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Going Native]]"
   - "[[Praxis]]"
+  - "[[Normal School]]"
   - "[[Growth]]"
 related_theories: []
 related_methods:

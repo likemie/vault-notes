@@ -21,6 +21,7 @@ tags:
   - cognition/learning-science
 related_concepts:
   - "[[Creativity]]"
+  - "[[Scaffolding]]"
   - "[[Divergent Thinking]]"
   - "[[Creativity Training]]"
   - "[[Brainstorming]]"

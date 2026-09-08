@@ -24,6 +24,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Critical Thinking]]"
   - "[[Higher-Order Thinking Skills]]"
+  - "[[Scaffolding]]"
 related_theories:
   - "[[Situative Perspective]]"
 related_methods:

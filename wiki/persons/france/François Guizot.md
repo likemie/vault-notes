@@ -20,10 +20,16 @@ tags:
   - nineteenth-century
 related_concepts:
   - "[[Normal School]]"
+  - "[[Bildung]]"
   - "[[State Educational Sovereignty]]"
+  - "[[Disciplina and Doctrina]]"
   - "[[Dual School System]]"
+  - "[[Policy Borrowing]]"
+  - "[[Paradigm]]"
   - "[[Common School Movement]]"
+  - "[[Going Native]]"
   - "[[Educational Meliorism]]"
+  - "[[Document]]"
 related_theories: []
 related_methods: []
 related_instruments: []

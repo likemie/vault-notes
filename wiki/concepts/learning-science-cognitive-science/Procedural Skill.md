@@ -23,6 +23,7 @@ related_concepts:
   - "[[Problem Solving]]"
   - "[[Rote Learning]]"
   - "[[AI Agent in Education]]"
+  - "[[Scaffolding]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Concept Mapping]]"
   - "[[Reflexivity]]"

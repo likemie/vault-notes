@@ -23,6 +23,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Construct]]"
   - "[[Interaction Effect]]"
+  - "[[Scaffolding]]"
   - "[[Graphic Organizer]]"
   - "[[Externalization]]"
   - "[[Effect Size]]"
@@ -106,7 +107,7 @@ updated: 2026-09-02
 > | **关联认知负荷（Germane Load）** | 负荷维度 | 学习者将释放出的工作记忆资源主动投入到图式建构、组织整合与深度反思等加工过程中所消耗的有效负荷。 |
 > | **元素交互性（Element Interactivity）** | 结构特征 | 衡量任务中各知识元素间相互依赖程度的指标；高交互性任务必须在工作记忆中同时激活多个元素，负荷极高。 |
 > | **生物初级与次级知识（Primary vs. Secondary Knowledge）** | 进化划分 | 初级知识（如母语口语、人脸识别）依托进化机制自发习得；次级知识（如阅读、代数、编程）必须依赖显性指导教学。（Sweller, 2021） |
-> | **专业反转效应（Expertise Reversal Effect）** | [[Interaction Effect\|交互效应]] | 对新手高效的详尽指导与步骤脚手架，在面对已有高水平图式的专家时反而会转化为冗余的外在负荷。 |
+> | **专业反转效应（Expertise Reversal Effect）** | [[Interaction Effect\|交互效应]] | 对新手高效的详尽指导与步骤[[Scaffolding\|脚手架]]，在面对已有高水平图式的专家时反而会转化为冗余的外在负荷。 |
 > | **[[Epistemology\|认识论]]摩擦（Epistemic Friction）** | 拓展机制 | 在生成式技术环境中，维持高阶认知图式重组所必需的生产性认知挣扎；若被 AI 流畅性切除则诱发认知退化。[[Argument_Li_2026_CEAI\|(Li et al., 2026, p. 10)]] |
 
 ---
@@ -136,7 +137,7 @@ updated: 2026-09-02
 > [!proposition-chain] 核心命题三｜生物次级知识获取的明确指导依赖与最小指导反思
 > - **前提一** 科学、数学、学术读写等属于文化创造的生物次级知识，缺乏进化预设的自发习得脑神经回路（Sweller, 2021）。
 > - **前提二** 缺乏先验知识的新手若置身于未加结构化指导的纯探究或发现学习情境中，工作记忆会瞬间被随机试错搜索塞满，导致图式建构失败。
-> - **推导** 针对初学者的教学必须依托[[Direct Instruction|直接教学]]（Direct Instruction）与强结构化脚手架；而在引入人工智能（AI）等自适应技术时，AI [[AI Agent in Education|智能体]]必须通过分步解题提示、即时纠错与动态支架衰减来分担外在负荷，释放心智资源以支持深层推理。
+> - **推导** 针对初学者的教学必须依托[[Direct Instruction|直接教学]]（Direct Instruction）与强结构化[[Scaffolding|脚手架]]；而在引入人工智能（AI）等自适应技术时，AI [[AI Agent in Education|智能体]]必须通过分步解题提示、即时纠错与动态支架衰减来分担外在负荷，释放心智资源以支持深层推理。
 > - **实证佐证**
 >   > [!evidence-grid]- 证据：AI 智能体分步脚手架对技能与思维的差异效应
 >   > - [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] — 元分析（24 项研究，$N = 2,525$）表明自适应 AI 智能体分担外在负荷显著促进[[Procedural Skill|程序技能]]（$g = 0.391, p = .003$），但对高阶思维的促进需要更显性的反思脚手架（$g = 0.540, p = .066$）。
@@ -201,7 +202,7 @@ updated: 2026-09-02
 > [!theory-use] 如何用于研究
 > - **作为微观教学设计与多媒体课件开发准则** 指导课件排版、多模态音画配置与样例分步呈现。
 > - **作为技术赋能实证研究的机制解释桥梁** 在评估[[Intelligent Tutoring Systems|智能导师系统]]（ITS）、[[Graphic Organizer|图形组织器]]或生成式 AI [[AI Agent in Education|智能体]]时，解释分步微提示如何降低程序性练习的外在负荷，释放工作记忆以赋能解题与技能自动化。[[Argument_Lei_Ding_Chiu_2026_ERR|(Lei et al., 2026)]]; [[Argument_Liu_2026_CHBR|(Liu et al., 2026)]]
-> - **作为生成式人机协同中防止[[Cognitive Offloading|认知卸载]]的调控指南** 评估智能技术是在有效消除外在负荷还是在有害切除关联认知负荷，指导设计[[Reflexivity|反思性]]脚手架以维持必要的[[Epistemic Friction|认识论摩擦]]。[[Argument_Li_2026_CEAI|(Li et al., 2026)]]
+> - **作为生成式人机协同中防止[[Cognitive Offloading|认知卸载]]的调控指南** 评估智能技术是在有效消除外在负荷还是在有害切除关联认知负荷，指导设计[[Reflexivity|反思性]][[Scaffolding|脚手架]]以维持必要的[[Epistemic Friction|认识论摩擦]]。[[Argument_Li_2026_CEAI|(Li et al., 2026)]]
 
 ---
 
@@ -211,7 +212,7 @@ updated: 2026-09-02
 > - **适合解释** 良构领域（如数学运算、物理定律、外语语法、计算机编程）的初学者概念习得与程序性解题技能训练，以及智能技术介入下的[[Working Memory|工作记忆]]负荷调控。
 > - **谨慎使用** 开放性[[Creativity Training|创造力培养]]、发散性艺术创作与复杂社会劣构[[Problem Solving|问题解决]]，其非线性探究特征难以完全用机械负荷加减法简化。
 > - **不适合解释** 具身沉浸式体验、师生情感共鸣、文[[Avatar|化身]]份认同及宏观教育不平等机制。
-> - **常见误用** 机械套用新手策略指导高水平专家（忽视专业反转效应）；将所有探究式学习一概斥为有害，忽视带结构化脚手架的高阶探究对深层反思的促进价值。[[Argument_Liu_2026_CHBR|(Liu et al., 2026, pp. 10–11)]]
+> - **常见误用** 机械套用新手策略指导高水平专家（忽视专业反转效应）；将所有探究式学习一概斥为有害，忽视带结构化[[Scaffolding|脚手架]]的高阶探究对深层反思的促进价值。[[Argument_Liu_2026_CHBR|(Liu et al., 2026, pp. 10–11)]]
 
 ---
 
@@ -235,7 +236,7 @@ updated: 2026-09-02
 > > 学界对初学者是否完全不适宜探究式学习存在长期对立。
 > >
 > > - **Sweller（2021）** 未加指导的探究是对初学者认知资源的浪费，必须坚持教师主导的明确教学。
-> > - **Hmelo-Silver et al.（2007）** 带有丰富脚手架与反思引导的探究式学习能够有效管理认知负荷，并促进深层[[Higher-Order Thinking Skills|高阶思维]]与知识迁移。
+> > - **Hmelo-Silver et al.（2007）** 带有丰富[[Scaffolding|脚手架]]与反思引导的探究式学习能够有效管理认知负荷，并促进深层[[Higher-Order Thinking Skills|高阶思维]]与知识迁移。
 >
 > > [!axis] [[Cognitive Offloading|认知卸载]]对关联负荷的剥离危机：工具是释放负荷还是切除思考？
 > > 争论智能生成工具究竟是优化了认知资源的有效分配，还是消解了深层图式构建所必需的心智挣扎。

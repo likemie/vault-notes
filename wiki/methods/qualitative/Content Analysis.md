@@ -30,7 +30,6 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Document]]"
   - "[[Reliability]]"
-  - "[[Construct]]"
   - "[[Hypothesis]]"
   - "[[Presence]]"
   - "[[Incubation]]"

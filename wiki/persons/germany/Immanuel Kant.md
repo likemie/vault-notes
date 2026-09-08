@@ -24,6 +24,7 @@ tags:
   - theme/ethics
   - theme/international-relations
 related_concepts:
+  - "[[Enlightenment]]"
   - "[[Epistemology]]"
   - "[[Perpetual Peace]]"
   - "[[Revolutionism]]"

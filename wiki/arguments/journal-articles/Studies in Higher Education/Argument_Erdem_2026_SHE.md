@@ -52,6 +52,7 @@ related_concepts:
   - "[[Transcription in Qualitative Research]]"
   - "[[Blue Skies Research]]"
   - "[[Flow]]"
+  - "[[Unit of Analysis]]"
   - "[[Standard Error]]"
   - "[[Funnel Plot]]"
   - "[[Surface and Deep Learning]]"

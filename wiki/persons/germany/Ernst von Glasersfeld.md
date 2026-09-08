@@ -29,7 +29,6 @@ related_persons:
   - "[[George Berkeley]]"
   - "[[John Hattie]]"
   - "[[Niklas Luhmann]]"
-  - "[[Karl Popper]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Rømer_2018_EPT]]"

@@ -26,15 +26,18 @@ related_concepts:
   - "[[Cross-National Attraction]]"
   - "[[Analytic Framework]]"
   - "[[Policy Borrowing]]"
+  - "[[National Character]]"
   - "[[Pre-Transfer Agency]]"
   - "[[Going Native]]"
   - "[[Policy Entrepreneur]]"
+  - "[[Unit of Analysis]]"
   - "[[Problem Finding]]"
   - "[[Causality]]"
   - "[[Externalization]]"
   - "[[Concept Mapping]]"
   - "[[Document]]"
   - "[[Hypothesis]]"
+  - "[[Normal School]]"
 related_theories: []
 related_methods:
   - "[[Exploratory Factor Analysis]]"

@@ -22,20 +22,32 @@ tags:
   - theme/secularization
   - theme/nineteenth-century
 related_concepts:
-  - "[[Normal School]]"
-  - "[[Dual School System]]"
   - "[[Common School Movement]]"
+  - "[[Normal School]]"
+  - "[[Champ]]"
+  - "[[Paradigm]]"
+  - "[[Policy Borrowing]]"
+  - "[[Enlightenment]]"
+  - "[[New Public Management]]"
+  - "[[School Choice]]"
+  - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Disciplina and Doctrina]]"
+  - "[[Dual School System]]"
+  - "[[Academic Freedom]]"
   - "[[Educational Meliorism]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
-  - "[[Johann Wilhelm Süvern]]"
-  - "[[François Guizot]]"
   - "[[Victor Cousin]]"
+  - "[[Johann Wilhelm Süvern]]"
   - "[[Horace Mann]]"
+  - "[[Calvin Stowe]]"
+  - "[[Henry Barnard]]"
+  - "[[François Guizot]]"
 related_facts:
   - "[[Guizot Law of 1833]]"
+  - "[[Partnership Schools Kura Hourua]]"
   - "[[Prussian Draft Education Law of 1819]]"
 related_arguments:
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"

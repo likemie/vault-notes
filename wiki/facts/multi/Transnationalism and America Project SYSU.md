@@ -18,6 +18,7 @@ tags:
 - region/us
 - level/higher-ed
 related_concepts:
+  - "[[Liberal Education]]"
   - "[[Chinese Learner]]"
   - "[[International Education]]"
   - "[[International Schools]]"

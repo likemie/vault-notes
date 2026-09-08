@@ -24,6 +24,7 @@ related_concepts:
   - "[[Socratic Elenchus]]"
   - "[[Socratic Tutoring Style]]"
   - "[[Banking Model of Education]]"
+  - "[[Scaffolding]]"
   - "[[Champ]]"
   - "[[Epistemology]]"
   - "[[Operationalization]]"

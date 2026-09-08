@@ -50,8 +50,6 @@ related_persons:
   - "[[Johann Heinrich Pestalozzi]]"
   - "[[Jean Piaget]]"
   - "[[Victor Cousin]]"
-  - "[[Harold Noah]]"
-  - "[[Max Eckstein]]"
   - "[[Jean-Jacques Rousseau]]"
 related_facts: []
 related_arguments:

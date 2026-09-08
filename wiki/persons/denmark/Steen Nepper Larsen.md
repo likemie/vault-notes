@@ -40,7 +40,6 @@ related_methods:
 related_persons:
   - "[[John Hattie]]"
   - "[[Niklas Luhmann]]"
-  - "[[Georg Wilhelm Friedrich Hegel]]"
   - "[[Gert Biesta]]"
 related_facts: []
 related_arguments:

@@ -33,7 +33,6 @@ related_theories:
 related_methods: []
 related_persons:
   - "[[David Watkins]]"
-  - "[[Karl Popper]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Biggs_1999_HERD]]"

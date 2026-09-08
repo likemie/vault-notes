@@ -28,7 +28,6 @@ related_persons:
   - "[[Steen Nepper Larsen]]"
   - "[[John Hattie]]"
   - "[[Thomas Aastrup Rømer]]"
-  - "[[Karl Popper]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Qvortrup_2019_NordSTEP]]"

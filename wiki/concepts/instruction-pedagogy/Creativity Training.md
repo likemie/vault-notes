@@ -45,6 +45,7 @@ related_concepts:
   - "[[Brainstorming]]"
   - "[[Structured Teaching]]"
   - "[[Incubation]]"
+  - "[[Scaffolding]]"
   - "[[Variable]]"
   - "[[Habituation]]"
   - "[[Task Structure]]"

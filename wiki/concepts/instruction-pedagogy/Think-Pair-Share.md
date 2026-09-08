@@ -21,6 +21,7 @@ related_concepts:
   - "[[Totally Pedagogised Society]]"
   - "[[Cooperative Learning]]"
   - "[[Active Learning]]"
+  - "[[Scaffolding]]"
   - "[[Group Investigation]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Dialogue in Education]]"

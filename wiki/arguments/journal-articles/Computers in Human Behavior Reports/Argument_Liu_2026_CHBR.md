@@ -45,6 +45,7 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Working Memory]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Scaffolding]]"
   - "[[Heterogeneity]]"
   - "[[Construct]]"
   - "[[Computational Thinking]]"

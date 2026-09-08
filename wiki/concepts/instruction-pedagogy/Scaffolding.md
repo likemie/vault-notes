@@ -24,18 +24,36 @@ tags:
   - theme/pedagogy
   - construct/cognitive-scaffold
 related_concepts:
+  - "[[Problem Solving]]"
   - "[[Zone of Proximal Development]]"
-  - "[[Self-Scaffolding]]"
   - "[[Direct Instruction]]"
+  - "[[Paradigm]]"
+  - "[[Self-Scaffolding]]"
+  - "[[AI Agent in Education]]"
   - "[[Cognitive Offloading]]"
   - "[[Working Memory]]"
-  - "[[Critical Thinking]]"
+  - "[[Concept Mapping]]"
+  - "[[Task Structure]]"
+  - "[[Structured Teaching]]"
+  - "[[Higher-Order Thinking Skills]]"
+  - "[[Technology Infusion]]"
+  - "[[Learner Autonomy]]"
+  - "[[Cognitive Apprenticeship]]"
+  - "[[Disciplina and Doctrina]]"
+  - "[[Fade-out Effect]]"
+  - "[[Graphic Organizer]]"
 related_arguments:
   - "[[Argument_Zhao_2025_JIntell]]"
   - "[[Argument_Lei_Ding_Chiu_2026_ERR]]"
   - "[[Argument_Liu_2026_CHBR]]"
   - "[[Argument_Lakhani_2012_AKUIED]]"
   - "[[Argument_Li_2026_CEAI]]"
+related_methods:
+  - "[[Meta-analysis]]"
+  - "[[Case Study]]"
+related_persons:
+  - "[[Lev Vygotsky]]"
+  - "[[Socrates]]"
 confidence: high
 status: active
 created: 2026-09-05

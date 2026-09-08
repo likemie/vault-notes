@@ -24,6 +24,7 @@ related_concepts:
   - "[[Criterion Problem]]"
   - "[[Problem Finding]]"
   - "[[Variable]]"
+  - "[[Problem Solving]]"
   - "[[Criterion-related Validity]]"
   - "[[Operationalization]]"
   - "[[Construct]]"
@@ -74,7 +75,7 @@ updated: 2026-08-26
 > [!citation-card]- 关键表述
 > 认为背景变量可能影响创造力的观点源于人类具有可被实现的创造潜能这一理论；关于创造力认知的观点源于指出发散思维、顿悟与问题发现的理论。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, p. 4)]]
 >
-> *...the idea that background variables may influence creativity follows from the theory that humans have creative potentials which may be fulfilled... The idea that there are cognitive correlates of creativity follows from numerous theories which point to divergent thinking, insight, problem solving, and so on.*
+> *...the idea that background variables may influence creativity follows from the theory that humans have creative potentials which may be fulfilled... The idea that there are cognitive correlates of creativity follows from numerous theories which point to divergent thinking, insight, [[Problem Solving]], and so on.*
 
 ---
 

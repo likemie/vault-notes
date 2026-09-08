@@ -30,6 +30,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Metacognition]]"
   - "[[AI Agent in Education]]"
+  - "[[Scaffolding]]"
   - "[[Effect Size]]"
   - "[[Generative AI Agent in Education]]"
   - "[[Generative Artificial Intelligence]]"

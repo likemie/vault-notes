@@ -20,11 +20,27 @@ tags:
   - educational-technology
   - construct/instructional-design
 related_concepts:
+  - "[[Dialogue in Education]]"
   - "[[Higher-Order Thinking Skills]]"
+  - "[[Homework]]"
+  - "[[Statistical Significance]]"
+  - "[[Champ]]"
+  - "[[Paradigm]]"
+  - "[[Attrition]]"
+  - "[[Scaffolding]]"
+  - "[[Constructive Alignment]]"
   - "[[Self-Regulated Learning]]"
+  - "[[Metacognition]]"
+  - "[[Problem Solving]]"
   - "[[Generative Artificial Intelligence]]"
+  - "[[AI Agent in Education]]"
+  - "[[Cultural Capital]]"
+  - "[[Variable]]"
 related_arguments:
   - "[[Argument_Zhao_2025_JIntell]]"
+related_methods:
+  - "[[Snowball Sampling]]"
+  - "[[Meta-analysis]]"
 confidence: high
 status: active
 created: 2026-09-05

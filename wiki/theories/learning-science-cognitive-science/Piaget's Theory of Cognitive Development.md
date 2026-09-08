@@ -38,6 +38,7 @@ related_concepts:
   - "[[Cognitive Flexibility]]"
   - "[[Reflexivity]]"
   - "[[Ontology]]"
+  - "[[Scaffolding]]"
   - "[[Heterogeneity]]"
   - "[[Rote Learning]]"
   - "[[Higher-Order Thinking Skills]]"
@@ -194,7 +195,7 @@ updated: 2026-08-25
 > - **[[Ontology|本体论]]** 认知结构并非客观存在的静态实体，而是主体在适应环境过程中动态组织化的动作图式网络。
 > - **[[Epistemology|认识论]]** 坚持发生认识论与[[Cognitive Constructivism|认知建构主义]]（Cognitive Constructivism）；知识是主客体交互中同化与顺应的产物。
 > - **方法含义** 倡导临床法（Clinical Method，[[In-depth Interview|深度访谈]]与实物操作任务相结合），现代扩展至[[Functional Magnetic Resonance Imaging|功能性磁共振成像]]（Functional Magnetic Resonance Imaging, fMRI）、[[Electroencephalography|脑电图]]（Electroencephalography, EEG）与神经行为对齐[[Paradigm|范式]]。
-> - **不能直接推出的东西** 不能从阶段性特征直接推导消极等待儿童自然成熟；亦不能忽视教学介入对跨阶段过渡的积极脚手架作用。
+> - **不能直接推出的东西** 不能从阶段性特征直接推导消极等待儿童自然成熟；亦不能忽视教学介入对跨阶段过渡的积极[[Scaffolding|脚手架]]作用。
 
 > [!theory-use] 如何用于研究与实践
 > - **指导发展适宜性教学实践（Developmentally Appropriate Practice, DAP）** 依据学生的认知发展阶段配置教学材料，在低学段强调动手实物操作，在高小学段把握抽象运算转型窗口设计支架。[[Argument_Liu_2026_CHBR|(Liu et al., 2026)]]

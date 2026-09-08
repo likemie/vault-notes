@@ -23,6 +23,7 @@ related_concepts:
   - "[[Educational Meliorism]]"
   - "[[Paradigm]]"
   - "[[State Educational Sovereignty]]"
+  - "[[Culture Générale]]"
   - "[[General Education]]"
   - "[[Normal School]]"
   - "[[Bildung]]"

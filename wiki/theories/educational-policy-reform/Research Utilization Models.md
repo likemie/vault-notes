@@ -37,6 +37,7 @@ related_concepts:
   - "[[Evaluation Research]]"
   - "[[Research Translation]]"
   - "[[Dialogue in Education]]"
+  - "[[Enlightenment]]"
   - "[[Research-Practice Partnership]]"
   - "[[Variable]]"
   - "[[Formative Assessment]]"
@@ -133,7 +134,7 @@ updated: 2026-08-29
 >   ③ **互动模型（Interactive Model）** 研究者、政策制定者、行政人员与一线教师处于非线性的多边[[Dialogue in Education|对话]]网络中，研究证据与实践者的经验智慧、政治判断相互激荡与调适；
 >   ④ **政治模型（Political Model）** 决策方案已由意识形态或既得利益预先确定，研究被选择性引用作为佐证论点、打击异见或增强合法性的“政治弹药”；
 >   ⑤ **战术模型（Tactical Model）** 政府或学校管理层以“正在委托专家开展深入研究”为由拖延决策、转移公众问责压力或展示虚假积极姿态；
->   ⑥ **启蒙模型（Enlightenment Model）** 研究不提供立竿见影的处方，而是像水滴石穿一样弥散扩散，逐渐改变实践者的概念框架与对常识的理解；
+>   ⑥ **启蒙模型（[[Enlightenment]] Model）** 研究不提供立竿见影的处方，而是像水滴石穿一样弥散扩散，逐渐改变实践者的概念框架与对常识的理解；
 >   ⑦ **社会智识事业模型（Intellectual Enterprise Model）** 学术研究作为社会整体文化反思与思想演进的有机组成部分，广泛塑造时代精神与教育价值观。
 >
 > > [!framework-table]- 表：Weiss 研究利用七大模型核心特征与机制对比

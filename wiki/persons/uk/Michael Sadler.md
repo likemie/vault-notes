@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Bildung]]"
   - "[[Normal School]]"
+  - "[[Liberal Education]]"
   - "[[Reference Society]]"
   - "[[Cross-National Attraction]]"
   - "[[Realism in International Relations]]"

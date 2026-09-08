@@ -22,6 +22,7 @@ related_concepts:
   - "[[Performativity]]"
   - "[[Global Policy Space]]"
   - "[[Narrative Knowledge]]"
+  - "[[Normal School]]"
   - "[[Positivism]]"
   - "[[Rationalism in International Relations]]"
   - "[[Incommensurability]]"

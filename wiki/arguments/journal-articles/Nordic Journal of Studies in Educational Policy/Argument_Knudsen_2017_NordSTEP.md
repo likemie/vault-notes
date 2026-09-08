@@ -39,7 +39,6 @@ related_methods:
   - "[[Meta-analysis]]"
 related_persons:
   - "[[John Hattie]]"
-  - "[[Karl Popper]]"
 related_facts:
   - "[[Cognition Education]]"
   - "[[Australian Institute for Teaching and School Leadership]]"

@@ -29,6 +29,7 @@ related_persons:
   - "[[Alec Peterson]]"
   - "[[Amelia Peterson]]"
   - "[[Jason Beech]]"
+  - "[[Nicholas Hans]]"
 related_facts:
   - "[[OECD]]"
   - "[[Brazilian Secondary Education Curriculum Reform 1998]]"

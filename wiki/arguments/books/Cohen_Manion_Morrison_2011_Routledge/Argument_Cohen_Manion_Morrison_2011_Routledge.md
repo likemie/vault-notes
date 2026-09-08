@@ -30,6 +30,8 @@ tags:
   - paradigm/mixed-methods
 related_concepts:
   - "[[Paradigm]]"
+  - "[[Unit of Analysis]]"
+  - "[[Domain Analysis]]"
   - "[[Statistical Significance]]"
   - "[[Effect Size]]"
   - "[[Descriptive Analysis]]"
@@ -38,9 +40,10 @@ related_theories:
 related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Repertory Grid Technique]]"
+  - "[[Coding in Qualitative Research]]"
+  - "[[Content Analysis]]"
   - "[[Grounded Theory]]"
 related_persons:
-  - "[[Louis Cohen]]"
   - "[[Lawrence Manion]]"
   - "[[Keith Morrison]]"
   - "[[George Kelly]]"
@@ -74,6 +77,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21]]"
 sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"

@@ -49,7 +49,6 @@ related_persons:
   - "[[Alec Peterson]]"
   - "[[Gerard Renaud]]"
   - "[[Deanna Kuhn]]"
-  - "[[Thomas Kuhn]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Kuhn_2000_CD]]"

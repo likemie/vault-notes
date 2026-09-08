@@ -71,8 +71,7 @@ related_methods:
   - "[[Fail-Safe N]]"
   - "[[Meta-regression]]"
 related_instruments: []
-related_persons:
-  - "[[Thomas Kuhn]]"
+related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Hofer_1997_RER]]"

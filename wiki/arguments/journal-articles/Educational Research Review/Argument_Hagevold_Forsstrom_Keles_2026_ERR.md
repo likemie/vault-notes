@@ -58,6 +58,7 @@ related_concepts:
   - "[[Teacher Professional Agency]]"
   - "[[Institutional Distrust]]"
   - "[[Epistemology]]"
+  - "[[Normal School]]"
   - "[[Research-Practice Partnership]]"
   - "[[Professional Judgment]]"
   - "[[Knowledge Transfer]]"

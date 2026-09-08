@@ -41,7 +41,6 @@ related_theories:
 related_methods:
   - "[[Systematic Review]]"
 related_persons:
-  - "[[Georg Wilhelm Friedrich Hegel]]"
   - "[[Gert Biesta]]"
 related_facts:
   - "[[PISA]]"

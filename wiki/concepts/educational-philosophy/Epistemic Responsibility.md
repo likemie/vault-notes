@@ -22,6 +22,7 @@ related_concepts:
   - "[[Conscientization]]"
   - "[[Empty Knower]]"
   - "[[Democratic Education]]"
+  - "[[Liberal Education]]"
   - "[[Problem-Posing Education]]"
 related_theories: []
 related_methods: []

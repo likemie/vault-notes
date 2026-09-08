@@ -43,8 +43,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Accounts]]"
-related_persons:
-  - "[[Jürgen Habermas]]"
+related_persons: []
 related_facts:
   - "[[PISA]]"
 related_arguments:

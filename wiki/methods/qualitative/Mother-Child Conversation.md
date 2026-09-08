@@ -32,6 +32,7 @@ related_concepts:
   - "[[Heart and Mind for Wanting to Learn]]"
   - "[[Causality]]"
   - "[[Parental Cognitive and Affective Socialization]]"
+  - "[[Scaffolding]]"
   - "[[Document]]"
   - "[[Cognitive Source]]"
   - "[[Benevolence]]"

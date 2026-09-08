@@ -22,8 +22,7 @@ related_concepts:
 related_theories:
   - "[[Dynamic Knowledge and Learning Model]]"
 related_methods: []
-related_persons:
-  - "[[Karl Popper]]"
+related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Rømer_2018_EPT]]"

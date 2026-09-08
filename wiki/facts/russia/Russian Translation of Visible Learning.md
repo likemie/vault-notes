@@ -22,6 +22,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Document]]"
   - "[[Critical Thinking]]"
+  - "[[Normal School]]"
   - "[[Attrition]]"
   - "[[Policy Borrowing]]"
   - "[[Evidence-Based Education]]"

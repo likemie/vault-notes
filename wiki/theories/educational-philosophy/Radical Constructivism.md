@@ -28,7 +28,6 @@ related_theories:
 related_methods: []
 related_persons:
   - "[[George Berkeley]]"
-  - "[[Karl Popper]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Rømer_2018_EPT]]"
@@ -83,7 +82,7 @@ updated: 2026-07-10
 ## 研究范式
 
 > [!info] 研究[[Paradigm|范式]]
-> - [[Epistemology|认识论]]立场：主观唯心论／唯我论，与 [[Karl Popper|Popper]] 的科学实在论完全对立
+> - [[Epistemology|认识论]]立场：主观唯心论／唯我论，与 Popper 的科学实在论完全对立
 > - 封闭系统：一切发生在学习者认知系统内部，无社会、政治、经济分析
 > - [[Argument_Rømer_2018_EPT|Rømer (2018)]] 指出 Hattie 的 [[Visible Learning|VL]] 因此可以与任何利益体系结合——在丹麦，激进[[Constructivist Paradigm|建构主义]]的大脑被[[Luhmann's Systems Theory|系统理论]]、"竞争国家理论"、[[Post-structuralism|后结构主义]]甚至[[Posthumanism|后人类主义]]同时捕获([[Argument_Rømer_2018_EPT|Rømer, 2018, p.8]])
 
@@ -94,7 +93,7 @@ updated: 2026-07-10
 
 
 > [!warning] 与[[Realism in International Relations|现实主义]]的根本对立
-> [[Karl Popper|Popper]] 的哲学代表科学实在论：World 3 的文化与科学对象是"客观地伟大的"（objectively great）。激进建构主义代表其对立面——主观建构论。Hattie 试图桥接两者但失败：他将 Popper 的 World 3 化简为主观认知（World 2），相当于用建构主义吞噬了实在论([[Argument_Rømer_2018_EPT|Rømer, 2018, p.10-11]])。
+> Popper 的哲学代表科学实在论：World 3 的文化与科学对象是"客观地伟大的"（objectively great）。激进建构主义代表其对立面——主观建构论。Hattie 试图桥接两者但失败：他将 Popper 的 World 3 化简为主观认知（World 2），相当于用建构主义吞噬了实在论([[Argument_Rømer_2018_EPT|Rømer, 2018, p.10-11]])。
 
 
 > [!warning] 外部世界的缺席

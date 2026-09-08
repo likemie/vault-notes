@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Critical Thinking]]"
   - "[[Cognitive Apprenticeship]]"
+  - "[[Scaffolding]]"
   - "[[Peer Mentoring]]"
   - "[[Document]]"
   - "[[Research Topic]]"

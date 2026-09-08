@@ -18,6 +18,7 @@ related_concepts:
   - "[[Academic Freedom]]"
   - "[[Attrition]]"
   - "[[Document]]"
+  - "[[Normal School]]"
   - "[[Industry Affiliate Program]]"
   - "[[University-Industry Co-location]]"
   - "[[Paradigm]]"

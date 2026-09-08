@@ -20,8 +20,7 @@ related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Ethnography]]"
-related_persons:
-  - "[[Deanna Kuhn]]"
+related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"

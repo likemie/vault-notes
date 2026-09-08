@@ -38,6 +38,7 @@ related_concepts:
   - "[[Twelfth-Grade Slump]]"
   - "[[General Education]]"
   - "[[International Education]]"
+  - "[[Liberal Education]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Achievement and Aptitude Tests]]"
   - "[[Hawthorne Effect]]"

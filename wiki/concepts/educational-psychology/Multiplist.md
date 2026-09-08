@@ -21,7 +21,6 @@ related_arguments:
   - "[[Argument_Kuhn_2000_CD]]"
   - "[[Argument_Hofer_1997_RER]]"
 related_persons:
-  - "[[Thomas Kuhn]]"
   - "[[Deanna Kuhn]]"
 status: active
 created: 2026-08-15

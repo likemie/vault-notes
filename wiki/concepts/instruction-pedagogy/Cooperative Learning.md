@@ -39,6 +39,7 @@ related_concepts:
   - "[[Interaction Effect]]"
   - "[[Ecological Validity]]"
   - "[[Blue Skies Research]]"
+  - "[[Scaffolding]]"
   - "[[Sampling Error]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Problem Solving]]"

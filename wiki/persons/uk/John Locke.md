@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Epistemology]]"
   - "[[Certainty of Knowledge]]"
+  - "[[Enlightenment]]"
   - "[[Humility in Learning]]"
   - "[[Mind and Its Wonders]]"
 related_theories: []

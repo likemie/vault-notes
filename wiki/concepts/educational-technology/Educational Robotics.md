@@ -28,6 +28,7 @@ related_concepts:
   - "[[Intelligent Tutoring Systems]]"
   - "[[Conversational AI in Education]]"
   - "[[Tracking]]"
+  - "[[Scaffolding]]"
   - "[[Constructivist Paradigm]]"
   - "[[Paradigm]]"
   - "[[Dependent Variable]]"

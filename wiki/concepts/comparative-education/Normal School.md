@@ -23,21 +23,37 @@ tags:
   - theme/educational-borrowing
   - level/k12
 related_concepts:
+  - "[[State Educational Sovereignty]]"
+  - "[[Common School Movement]]"
+  - "[[Rote Learning]]"
+  - "[[Culture Générale]]"
   - "[[Grammar of Schooling]]"
   - "[[Relational Space]]"
   - "[[Circular Transfer]]"
+  - "[[Disciplina and Doctrina]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Faculty Psychology]]"
-  - "[[Common School Movement]]"
+  - "[[Dialogue in Education]]"
+  - "[[Policy Borrowing]]"
+  - "[[Knowledge Production]]"
+  - "[[Reflexivity]]"
+  - "[[Critical Pedagogy]]"
+  - "[[Dual School System]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
+  - "[[Victor Cousin]]"
+  - "[[Johann Wilhelm Süvern]]"
   - "[[Johann Heinrich Pestalozzi]]"
+  - "[[François Guizot]]"
+  - "[[Marc-Antoine Jullien]]"
   - "[[Horace Mann]]"
   - "[[Calvin Stowe]]"
-  - "[[Victor Cousin]]"
-  - "[[Marc-Antoine Jullien]]"
+  - "[[Jason Beech]]"
+  - "[[Alejandro Artopoulos]]"
 related_facts:
+  - "[[National Education]]"
   - "[[Guizot Law of 1833]]"
   - "[[Prussian Draft Education Law of 1819]]"
   - "[[Report on Elementary Public Instruction in Europe]]"

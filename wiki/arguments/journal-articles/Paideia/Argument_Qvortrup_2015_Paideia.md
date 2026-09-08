@@ -40,7 +40,6 @@ related_theories:
 related_methods:
   - "[[Meta-analysis]]"
 related_persons:
-  - "[[Karl Popper]]"
   - "[[Gene Glass]]"
 related_facts:
   - "[[PISA]]"

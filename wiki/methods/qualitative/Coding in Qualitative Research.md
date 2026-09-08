@@ -34,12 +34,12 @@ related_concepts:
   - "[[Intercoder Agreement]]"
   - "[[Emergence]]"
   - "[[Generative Artificial Intelligence]]"
-  - "[[AI Hallucination]]"
 related_theories: []
 related_methods:
   - "[[Grounded Theory]]"
   - "[[Qualitative Research]]"
   - "[[Qualitative Computer Software]]"
+  - "[[Content Analysis]]"
   - "[[Template Analysis]]"
   - "[[Semi-structured Interview]]"
 related_persons: []
@@ -150,8 +150,8 @@ updated: '2026-09-08'
 > - **建立证据逻辑链（building a logical [[Chain of Evidence]]）** 记录因果并作出推断。
 > - **建构概念／理论连贯性（making conceptual/theoretical coherence）** 从隐喻到建构、到理论来解释现象。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|(Cohen et al., 2011, 29.4)]]
 
-> [!info] 编码在[[Data Reduction and Data Display|数据缩减]]中的作用
-> 在 Miles & Huberman 的建议中贯穿始终的是编码的重要性——部分作为缩减质性数据过载的方式。分析通过编码可在场所内（within-site）与跨场所（cross-site）进行，使因果链、网络与矩阵得以建立，以应对通过仔细的数据展示来缩减数据过载这一主要议题。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|(Cohen et al., 2011, 29.4)]]
+> [!info] 编码在[[Data Reduction|数据缩减]]中的作用
+> 在 Miles & Huberman 的建议中贯穿始终的是编码的重要性——部分作为缩减质性数据过载的方式。分析通过编码可在场所内（within-site）与跨场所（cross-site）进行，使因果链、网络与矩阵得以建立，以应对通过仔细的[[Data Display|数据展示]]来缩减数据过载这一主要议题。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|(Cohen et al., 2011, 29.4)]]
 
 ---
 

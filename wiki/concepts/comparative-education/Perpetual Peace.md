@@ -21,18 +21,35 @@ tags:
   - paradigm/humanism
   - school/kantianism
 related_concepts:
-  - "[[Revolutionism]]"
+  - "[[Enlightenment]]"
   - "[[Realism in International Relations]]"
+  - "[[Revolutionism]]"
   - "[[Rationalism in International Relations]]"
+  - "[[Ontology]]"
   - "[[Bildung]]"
+  - "[[Normal School]]"
+  - "[[Artefact]]"
   - "[[Educational Meliorism]]"
+  - "[[Epistemology]]"
+  - "[[Value Neutrality]]"
   - "[[International Education]]"
-related_theories: []
+  - "[[Conflict of Interest in Research]]"
+  - "[[Hegemony]]"
+  - "[[Document]]"
+  - "[[Paradigm]]"
+related_theories:
+  - "[[Wight's Three Traditions of International Theory]]"
+  - "[[Dependency Theory]]"
+  - "[[Critical Theory]]"
 related_methods: []
 related_instruments: []
 related_persons:
   - "[[Marc-Antoine Jullien]]"
   - "[[Immanuel Kant]]"
+  - "[[Eleftherios Klerides]]"
+  - "[[Robert Cowen]]"
+  - "[[Andreas Kazamias]]"
+  - "[[Jean-Jacques Rousseau]]"
 related_facts:
   - "[[Revue encyclopédique]]"
   - "[[Esquisse d'un ouvrage sur l'éducation comparée]]"

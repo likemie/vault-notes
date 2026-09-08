@@ -19,15 +19,26 @@ tags:
   - paradigm/positivism
 related_concepts:
   - "[[Positivism]]"
+  - "[[Epistemic Stances]]"
   - "[[Scientific Method]]"
-  - "[[Interpretive Paradigm]]"
-  - "[[Postpositivism]]"
   - "[[Epistemology]]"
   - "[[Ontology]]"
-  - "[[Methodological Statism]]"
-  - "[[Scientism]]"
+  - "[[Bildung]]"
+  - "[[Hypothesis]]"
+  - "[[Paradigm]]"
+  - "[[Objectivism]]"
+  - "[[Questionnaire]]"
   - "[[Educational Meliorism]]"
+  - "[[Document]]"
+  - "[[Dialogue in Education]]"
+  - "[[International Education]]"
+  - "[[Scientism]]"
+  - "[[Interpretive Paradigm]]"
+  - "[[Paradigm Wars]]"
+  - "[[Falsification]]"
+  - "[[Variable]]"
 related_theories:
+  - "[[Critical Realism]]"
   - "[[Critical Theory]]"
 related_methods:
   - "[[Quantitative Research]]"
@@ -35,11 +46,12 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Marc-Antoine Jullien]]"
-  - "[[Jürgen Habermas]]"
   - "[[Søren Kierkegaard]]"
+  - "[[Jürgen Habermas]]"
+  - "[[Anthony Giddens]]"
   - "[[Karl Popper]]"
-  - "[[Francis Bacon]]"
-related_facts: []
+related_facts:
+  - "[[ResearchED]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"

@@ -66,8 +66,7 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
 related_instruments:
   - "[[VALUE Rubrics]]"
-related_persons:
-  - "[[Louis Cohen]]"
+related_persons: []
 related_facts:
   - "[[Science Media Centre]]"
   - "[[Public Attitudes to Science]]"

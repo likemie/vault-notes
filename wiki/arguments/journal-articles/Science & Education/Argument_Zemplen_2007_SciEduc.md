@@ -48,6 +48,7 @@ related_concepts:
   - "[[Leading Questions]]"
   - "[[Dialogue in Education]]"
   - "[[Lifelong Learning]]"
+  - "[[Liberal Education]]"
   - "[[Metacognition]]"
   - "[[Phronesis]]"
   - "[[Reflexivity]]"

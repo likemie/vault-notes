@@ -22,6 +22,7 @@ tags:
   - theme/teacher-standards
   - theme/higher-order-thinking
 related_concepts:
+  - "[[Normal School]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Creativity]]"

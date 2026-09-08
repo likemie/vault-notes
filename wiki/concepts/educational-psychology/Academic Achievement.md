@@ -32,6 +32,7 @@ related_concepts:
   - "[[Procedural Knowledge]]"
   - "[[Rote Learning]]"
   - "[[Interaction Effect]]"
+  - "[[Scaffolding]]"
   - "[[Epistemology]]"
   - "[[Simplicity of Knowledge]]"
   - "[[Gender Differences in Academic Achievement]]"

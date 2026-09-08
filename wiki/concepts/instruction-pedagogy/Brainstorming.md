@@ -26,10 +26,12 @@ related_concepts:
   - "[[Working Memory]]"
   - "[[Variable]]"
   - "[[Effect Size]]"
+  - "[[Blended Learning]]"
   - "[[SCAMPER]]"
   - "[[Heterogeneity]]"
   - "[[Prediction Interval]]"
   - "[[Dependent Variable]]"
+  - "[[Scaffolding]]"
   - "[[Cognitive Flexibility]]"
   - "[[Mind Mapping]]"
 related_theories:

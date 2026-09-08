@@ -25,8 +25,7 @@ related_theories:
   - "[[Reflective Judgment Model]]"
 related_methods: []
 related_instruments: []
-related_persons:
-  - "[[Thomas Kuhn]]"
+related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Hofer_1997_RER]]"

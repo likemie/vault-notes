@@ -27,6 +27,7 @@ related_concepts:
   - "[[Literature Search]]"
   - "[[Research Utilization]]"
   - "[[Creativity]]"
+  - "[[Normal School]]"
   - "[[Questionnaire]]"
   - "[[Deficit Framing]]"
   - "[[Reflexivity]]"

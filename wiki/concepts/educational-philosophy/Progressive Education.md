@@ -27,6 +27,7 @@ related_concepts:
   - "[[Learner-Centred Education]]"
   - "[[Direct Instruction]]"
   - "[[Dialogue in Education]]"
+  - "[[Scaffolding]]"
   - "[[Learner Autonomy]]"
   - "[[Working Memory]]"
   - "[[Heterogeneity]]"

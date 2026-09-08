@@ -39,7 +39,6 @@ related_methods:
   - "[[Quantitative Research]]"
 related_persons:
   - "[[Aristotle]]"
-  - "[[Louis Cohen]]"
   - "[[Karl Popper]]"
   - "[[Brian Holmes]]"
   - "[[Andreas Kazamias]]"
@@ -140,7 +139,7 @@ updated: 2026-09-07
 
 ## 历史评价
 
-> [!citation-card] [[Louis Cohen|科恩]]等论库恩对教育研究方法论[[Paradigm|范式]]图谱的奠基
+> [!citation-card] 科恩等论库恩对教育研究方法论[[Paradigm|范式]]图谱的奠基
 > 托马斯·库恩以其开创性著作《科学革命的结构》深刻改变了人们对科学发展与研究方法的理解。自他提出范式概念以来，教育研究的方法论取向一直被理解为栖息于不同的范式与学者共同体之中，揭示了学术探究所具有的深层社会性与制度权力属性。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1)]]
 >
 > *Thomas Kuhn transformed our understanding of the development of science and research methodology... Since his pioneering work, methodological orientations in educational research have been understood as residing within distinct paradigms and communities of scholars.*

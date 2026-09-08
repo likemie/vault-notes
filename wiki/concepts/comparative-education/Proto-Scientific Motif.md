@@ -21,13 +21,29 @@ tags:
   - paradigm/positivism
   - nineteenth-century
 related_concepts:
+  - "[[Paradigm]]"
+  - "[[Epistemology]]"
+  - "[[Positivism]]"
   - "[[Questionnaire]]"
+  - "[[Value Neutrality]]"
+  - "[[Bildung]]"
   - "[[Perpetual Peace]]"
+  - "[[Scientific Method]]"
+  - "[[Hypothesis]]"
+  - "[[Operationalization]]"
+  - "[[Variable]]"
   - "[[Auslandspadagogik]]"
   - "[[Educational Meliorism]]"
-  - "[[Positivism]]"
+  - "[[Scale of Measurement]]"
+  - "[[Performance Indicators]]"
+  - "[[Scientism]]"
+  - "[[Leading Questions]]"
+  - "[[Enlightenment]]"
+  - "[[Policy Borrowing]]"
+  - "[[Document]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Multiple Regression]]"
 related_instruments: []
 related_persons:
   - "[[Marc-Antoine Jullien]]"
@@ -36,6 +52,11 @@ related_persons:
   - "[[Calvin Stowe]]"
   - "[[Harold Noah]]"
   - "[[Max Eckstein]]"
+  - "[[Johann Heinrich Pestalozzi]]"
+  - "[[Jean-Jacques Rousseau]]"
+  - "[[Immanuel Kant]]"
+  - "[[Robert Cowen]]"
+  - "[[Andreas Kazamias]]"
 related_facts:
   - "[[Revue encyclopédique]]"
   - "[[Esquisse d'un ouvrage sur l'éducation comparée]]"

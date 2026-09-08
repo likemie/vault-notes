@@ -27,7 +27,7 @@ related_concepts:
   - "[[Knowledge Mobilisation]]"
   - "[[New Public Management]]"
   - "[[Effect Size]]"
-  - "[[Bildung]]"
+  - "[[Paideia]]"
   - "[[Analytical Stance]]"
 related_theories: []
 related_methods: []

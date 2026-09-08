@@ -37,8 +37,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Meta-meta-analysis]]"
-related_persons:
-  - "[[Karl Popper]]"
+related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Eacott_2017_SLM]]"

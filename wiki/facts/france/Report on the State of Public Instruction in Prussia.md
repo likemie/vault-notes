@@ -36,7 +36,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Normal School]]"
   - "[[Transfer Translation Transformation]]"
-  - "[[General Education]]"
+  - "[[Culture Générale]]"
   - "[[Faculty Psychology]]"
   - "[[Common School Movement]]"
   - "[[Positivism]]"
@@ -50,6 +50,8 @@ related_instruments: []
 related_persons:
   - "[[Victor Cousin]]"
   - "[[Marc-Antoine Jullien]]"
+  - "[[Johann Wilhelm Süvern]]"
+  - "[[François Guizot]]"
   - "[[Calvin Stowe]]"
   - "[[Horace Mann]]"
   - "[[Henry Barnard]]"

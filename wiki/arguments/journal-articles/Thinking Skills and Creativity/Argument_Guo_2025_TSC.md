@@ -48,6 +48,7 @@ related_concepts:
   - "[[Funnel Plot]]"
   - "[[Externalization]]"
   - "[[Working Memory]]"
+  - "[[Scaffolding]]"
   - "[[Habituation]]"
   - "[[Creative Self-Efficacy]]"
   - "[[Self-Efficacy]]"

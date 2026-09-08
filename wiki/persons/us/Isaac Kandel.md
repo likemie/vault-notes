@@ -29,6 +29,7 @@ related_concepts:
   - "[[Cultural Nationalism vs. Political Nationalism]]"
   - "[[Academic Freedom]]"
   - "[[Technical Rationality]]"
+  - "[[Liberal Education]]"
   - "[[Independent Variable]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Epistemology]]"
@@ -79,7 +80,7 @@ updated: 2026-09-07
 
 > [!person-profile] 人物档案
 > - **身份位置** 美籍英裔比较教育学家、教育史学家与哲学家，哥伦比亚大学[[Normal School|师范学院]]（Teachers College, Columbia University）教育学教授（1923–1946），曼彻斯特大学首任美国研究教授，《教育年鉴》（*Educational Yearbook*, 1924–1944）创办主编。
-> - **核心角色** 20 世纪上半叶比较教育学公认的学术泰斗与精神领袖，将[[Michael Sadler|萨德勒]]的历史主义推进为以政治国家为核心解释[[Variable|变量]]的理论体系；作为欧洲犹太博雅学者，被[[George Bereday|贝雷迪]]（[[George Bereday]]）誉为博雅大学人文学者一代的参天灯塔，其犹太精神纯粹而坚定；在两次世界大战与冷战前夕以深刻的人文直觉捍卫[[Democratic Education|民主教育]]与国际主义。
+> - **核心角色** 20 世纪上半叶比较教育学公认的学术泰斗与精神领袖，将[[Michael Sadler|萨德勒]]的历史主义推进为以政治国家为核心解释[[Variable|变量]]的理论体系；作为欧洲犹太博雅学者，被贝雷迪（[[George Bereday]]）誉为博雅大学人文学者一代的参天灯塔，其犹太精神纯粹而坚定；在两次世界大战与冷战前夕以深刻的人文直觉捍卫[[Democratic Education|民主教育]]与国际主义。
 > - **代表贡献** 巨著《比较教育》（*Comparative Education*, 1933）确立以国家意志、民族主义与[[National Character|民族性格]]为轴心的分析体系；奠定教育制度因果探究三阶段程序；创办并独立主持《教育年鉴》21 卷；出版战后集大成续作《教育的新时代》（*The New Era in Education*, 1955）。
 
 > [!citation-card]- 人物定位的关键来源
@@ -103,7 +104,7 @@ updated: 2026-09-07
 > - **1934–1941** **直面极权主义扩张并构筑[[Democratic Education|民主教育]]防线** 相继出版《纳粹的塑造》（*The Making of Nazis*, 1934）、《相互冲突的教育理论》（*Conflicting Theories of Education*, 1938）与《一个时代的终结》（*The End of an Era*, 1941），率先揭露法西斯极权政权利用学校进行政治灌输与动员的危害，主张以尊重多元文化的[[Cultural Nationalism vs. Political Nationalism|文化民族主义]]抵御侵略性政治民族主义。[[Argument_Kazamias_2009_ForgottenThemes|(Herzog, 1960; Kazamias, 1963: 385; 2009: 48–49)]]
 > - **1937** **大洋洲巡回讲学与跨国民主教育咨询** 受[[Australian Council for Educational Research|澳大利亚教育研究委员会]]（ACER）与新西兰政府邀请赴大洋洲展开学术巡讲与教育考察，在墨尔本大学等地发表演讲，系统指导英联邦国家反思过度中央集权体制，探索兼顾地方自主与教育机会均等的现代公共教育方案。
 > - **1946** **哥大荣休与重返曼彻斯特大学创设美国研究** 从哥伦比亚大学荣休；1947 至 1950 年重返英国曼彻斯特大学出任首任美国研究教授，并长期受聘为联合国教科文组织核心咨询专家，积极投身战后国际理解与教育重建。
-> - **1946–1953** **执掌《学校与社会》主编捍卫博雅[[Academic Freedom|学术自由]]** 出任全美声誉卓著的教育权威周刊《学校与社会》（*School and Society*）主编。在战后麦卡锡主义政治阴影与极端[[Technical Rationality|技术理性]]泛滥的社会思潮中，坎德尔发表大量针砭时弊的社论，坚决捍卫博雅教育、大学学术自由与教师专业伦理，警示防止学校沦为意识形态动员或功利技术的附庸。
+> - **1946–1953** **执掌《学校与社会》主编捍卫博雅[[Academic Freedom|学术自由]]** 出任全美声誉卓著的教育权威周刊《学校与社会》（*School and Society*）主编。在战后麦卡锡主义政治阴影与极端[[Technical Rationality|技术理性]]泛滥的社会思潮中，坎德尔发表大量针砭时弊的社论，坚决捍卫[[Liberal Education|博雅教育]]、大学学术自由与教师专业伦理，警示防止学校沦为意识形态动员或功利技术的附庸。
 > - **1955** **出版战后集大成续作《教育的新时代》** 出版代表作《教育的新时代：比较研究》（*The New Era in Education: A Comparative Study*），系统反思战后西方福利国家民主化转型背景下个性自由与国家权力的动态平衡。
 > - **1965** **逝世于日内瓦与学派参天灯塔的历史评价** 逝世于瑞士日内瓦，享年 84 岁。乔治·贝雷迪（George Bereday）在悼词中高度礼赞坎德尔为“大学博雅人文学者一代的参天巨塔与指路明灯”，既非纯粹的技术科学家，亦非语义琐碎的学究，其坚毅的犹太精神与博雅学养将永远指引后人。(Bereday, 1965: 249; 1966: 147–150; Kazamias & Schwartz, 1977)
 
@@ -219,7 +220,7 @@ updated: 2026-09-07
 > [!debates] 学术争议
 >
 > > [!axis] 历史-哲学人文传统 vs 战后科学[[Positivism|实证主义]]
-> > 战后比较教育学科转型的核心争鸣。[[Harold Noah|诺亚]]与[[Max Eckstein|埃克斯坦]]等学者批评坎德尔的方法过于倚重研究者的个人哲学洞见、古典学学养与直觉，缺乏明确的[[Operationalization|操作化]][[Variable|变量]]和可复制的实证程序；其关于因素的断言在实证派眼中充其量只是未经检验的待测假说。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 53)]]
+> > 战后比较教育学科转型的核心争鸣。诺亚与埃克斯坦等学者批评坎德尔的方法过于倚重研究者的个人哲学洞见、古典学学养与直觉，缺乏明确的[[Operationalization|操作化]][[Variable|变量]]和可复制的实证程序；其关于因素的断言在实证派眼中充其量只是未经检验的待测假说。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 53)]]
 > >
 > > - **Harold Noah & Max Eckstein（1969）** 批评历史-哲学路径缺乏客观假说检验规程，处于学科演进的“前科学力量与因素阶段”。
 > > - **[[Brian Holmes|布赖恩·霍姆斯]]（Brian Holmes，1965）** 批评历史学派面向过去而非面向未来，认为科学比较教育的标志是预测而非回顾性解释。

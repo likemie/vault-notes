@@ -208,7 +208,6 @@ related_methods:
 related_persons:
   - "[[John W. Creswell]]"
   - "[[J. David Creswell]]"
-  - "[[Auguste Comte]]"
   - "[[George Herbert Mead]]"
   - "[[Paulo Freire]]"
   - "[[Herbert Blalock]]"

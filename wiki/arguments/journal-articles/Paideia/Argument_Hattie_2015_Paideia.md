@@ -41,8 +41,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
   - "[[Coding in Qualitative Research]]"
-related_persons:
-  - "[[Karl Popper]]"
+related_persons: []
 related_facts: []
 related_arguments: []
 sources:

@@ -21,6 +21,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Simplicity of Knowledge]]"
   - "[[Hypothesis]]"
+  - "[[Scaffolding]]"
   - "[[Academic Achievement]]"
   - "[[Problem Solving]]"
   - "[[Variable]]"

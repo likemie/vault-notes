@@ -30,6 +30,7 @@ related_concepts:
   - "[[Homework]]"
   - "[[Literature Search]]"
   - "[[Boundary Spanner]]"
+  - "[[Scaffolding]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Data Literacy]]"
   - "[[Research Literacy]]"

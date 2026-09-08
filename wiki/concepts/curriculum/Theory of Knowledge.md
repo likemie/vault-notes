@@ -72,7 +72,6 @@ related_persons:
   - "[[Baruch Spinoza]]"
   - "[[John Dewey]]"
   - "[[Paulo Freire]]"
-  - "[[Deanna Kuhn]]"
   - "[[Socrates]]"
 related_facts: []
 related_arguments:

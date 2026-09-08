@@ -48,6 +48,7 @@ related_concepts:
   - "[[Abstract]]"
   - "[[Hypothesis]]"
   - "[[Causality]]"
+  - "[[Unit of Analysis]]"
   - "[[Positivism]]"
   - "[[Reliability]]"
   - "[[Internal Consistency]]"
@@ -89,7 +90,7 @@ updated: '2026-08-27'
 
 ## 章节内容
 
-承接第28章，质性数据的组织与呈现（organizing and presenting qualitative data）专门处理数据如何被组织与呈现，这些方式本身构成分析的一部分。围绕[[Data Reduction and Data Display|数据缩减]]（data reduction）经由仔细的数据展示（data display）与评注这一主线，依次展开：数据表格化、组织与分析数据的七种方式、叙事与传记进路、系统化分析进路（含[[Reflexivity|反身性]]与偏误来源、备忘录、生成意义的策略、[[Content Analysis|内容分析]]、[[Phenomenology|现象学]]分析），以及分析归纳、持续比较、[[Typological Analysis|类型学分析]]、计数四种方法论工具。
+承接第28章，质性数据的组织与呈现（organizing and presenting qualitative data）专门处理数据如何被组织与呈现，这些方式本身构成分析的一部分。围绕[[Data Reduction|数据缩减]]（data reduction）经由仔细的[[Data Display|数据展示]]（data display）与评注这一主线，依次展开：数据表格化、组织与分析数据的七种方式、叙事与传记进路、系统化分析进路（含[[Reflexivity|反身性]]与偏误来源、备忘录、生成意义的策略、[[Content Analysis|内容分析]]、[[Phenomenology|现象学]]分析），以及分析归纳、持续比较、[[Typological Analysis|类型学分析]]、计数四种方法论工具。
 
 > [!abstract]- Box 29.1　议题清单
 > - **数据表格化（tabulating data）** 以表格形式呈现访谈等质性数据并配评注，实现数据缩减。
@@ -217,7 +218,7 @@ updated: '2026-08-27'
 > - **教学与学习的不足是成绩差的重要原因** 强调操练、死记与记忆；以被动而非[[Active Learning|主动学习]]为主，教学是传递事实而非促进学习与理解；使用传统讲授法；依赖非常有限的教学与学习风格；英语教师的学科与教学知识有限，加上缺乏足够的初始与职后教师教育；常常缺乏精心铺设的英语教与学基础；学生在英语课上使用大量中文，几乎没有用英语思考的机会，他们是在翻译，而不是用英语思考。（29.1）
 
 > [!claim] 表格化呈现的双重功能
-> 以表格形式摘要与呈现数据可以同时应对[[Qualitative Research|质性研究]]的两个议题，通过仔细的数据展示与评注实现[[Data Reduction and Data Display|数据缩减]]（data reduction）。表格能促使读者一眼看出两组受访者之间的相似与差异；每张表之后附希望读者注意的要点摘要，其中既包括实质性评注（关于议题本身），也包括总体性评注（关于各组受访者之间的异同）；所有表格与评注之后，又提供关键信息（key messages）的总体摘要。这是高度节选、选择性的例子，并未公正对待[[Primary and Secondary Documents|原始文献]]的全部数据，但清楚说明了一点：以表格形式摘要与呈现数据，可以同时实现质性研究的数据缩减与评注。（29.1）
+> 以表格形式摘要与呈现数据可以同时应对[[Qualitative Research|质性研究]]的两个议题，通过仔细的[[Data Display|数据展示]]与评注实现[[Data Reduction|数据缩减]]（data reduction）。表格能促使读者一眼看出两组受访者之间的相似与差异；每张表之后附希望读者注意的要点摘要，其中既包括实质性评注（关于议题本身），也包括总体性评注（关于各组受访者之间的异同）；所有表格与评注之后，又提供关键信息（key messages）的总体摘要。这是高度节选、选择性的例子，并未公正对待[[Primary and Secondary Documents|原始文献]]的全部数据，但清楚说明了一点：以表格形式摘要与呈现数据，可以同时实现质性研究的数据缩减与评注。（29.1）
 
 ---
 
@@ -432,7 +433,7 @@ updated: '2026-08-27'
 > 这一进展虽带实证主义语气，却是有用的从个别到一般的途径。（29.4）
 
 > [!info] 编码在数据缩减中的作用
-> Miles & Huberman 的建议中贯穿编码的重要性，部分作为缩减质性数据过载的方式。分析通过编码可在场所内（within-site）与跨场所（cross-site）进行，使因果链、网络与矩阵得以建立，以应对通过仔细的数据展示来缩减数据过载这一主要议题。（29.4）
+> Miles & Huberman 的建议中贯穿编码的重要性，部分作为缩减质性数据过载的方式。分析通过编码可在场所内（within-site）与跨场所（cross-site）进行，使因果链、网络与矩阵得以建立，以应对通过仔细的[[Data Display|数据展示]]来缩减数据过载这一主要议题。（29.4）
 
 > [!proc] Brenner et al.（1985）的内容分析步骤
 > [[Content Analysis|内容分析]]涉及阅读与判断（reading and judgement），其程序包含若干步骤：

@@ -49,8 +49,7 @@ related_methods:
   - "[[Multinomial Logistic Regression]]"
 related_instruments:
   - "[[Epistemic and Ontological Cognition Questionnaire]]"
-related_persons:
-  - "[[Thomas Kuhn]]"
+related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Kuhn_2000_CD]]"

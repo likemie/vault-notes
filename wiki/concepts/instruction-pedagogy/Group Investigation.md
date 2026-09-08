@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Cooperative Learning]]"
   - "[[Democratic Education]]"
+  - "[[Scientific Method]]"
   - "[[Problem Solving]]"
   - "[[Jigsaw]]"
   - "[[Brainstorming]]"

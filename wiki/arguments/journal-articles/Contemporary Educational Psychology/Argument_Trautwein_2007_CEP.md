@@ -50,6 +50,7 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Standard Error]]"
   - "[[Critical Thinking]]"
+  - "[[Scientific Paradigm]]"
   - "[[Tracking]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Likert Scale]]"

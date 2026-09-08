@@ -22,6 +22,7 @@ tags:
   - theme/creativity
   - cognition/learning-science
 related_concepts:
+  - "[[Scaffolding]]"
   - "[[Brainstorming]]"
   - "[[Divergent Thinking]]"
   - "[[Cognitive Flexibility]]"

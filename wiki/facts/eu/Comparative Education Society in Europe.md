@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[Rationalism in International Relations]]"
   - "[[International Mind]]"
+  - "[[Common School Movement]]"
   - "[[Soft Power]]"
   - "[[Lifelong Learning]]"
   - "[[Development Turn in Comparative Education]]"

@@ -28,8 +28,7 @@ related_methods:
   - "[[Triangulation]]"
   - "[[Member Checking]]"
   - "[[Ethnography]]"
-related_persons:
-  - "[[Karl Popper]]"
+related_persons: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
 status: draft

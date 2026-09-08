@@ -27,6 +27,7 @@ related_theories:
   - "[[World Society Theory]]"
 related_methods: []
 related_persons:
+  - "[[C. Arnold Anderson]]"
   - "[[Eleftherios Klerides]]"
 related_facts:
   - "[[PISA]]"

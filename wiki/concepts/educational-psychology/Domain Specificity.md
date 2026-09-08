@@ -27,6 +27,7 @@ related_concepts:
   - "[[Epistemic Resources]]"
   - "[[Epistemology]]"
   - "[[Heterogeneity]]"
+  - "[[Scaffolding]]"
   - "[[Critical Thinking]]"
   - "[[Presence]]"
   - "[[Evaluativist]]"

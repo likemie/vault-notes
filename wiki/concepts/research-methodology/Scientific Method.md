@@ -67,14 +67,11 @@ related_instruments: []
 related_persons:
   - "[[Anthony Giddens]]"
   - "[[Andreas Kazamias]]"
-  - "[[Auguste Comte]]"
   - "[[Marc-Antoine Jullien]]"
-  - "[[Thomas Kuhn]]"
   - "[[Jürgen Habermas]]"
   - "[[Alec Peterson]]"
   - "[[Francis Bacon]]"
   - "[[Karl Popper]]"
-  - "[[Deanna Kuhn]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"

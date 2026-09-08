@@ -26,6 +26,7 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Variable]]"
+  - "[[Scaffolding]]"
   - "[[Problem-Based Learning]]"
   - "[[Homework]]"
   - "[[Task Structure]]"

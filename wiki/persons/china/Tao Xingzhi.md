@@ -21,11 +21,11 @@ tags:
   - field/educational-philosophy
   - comparative-education
 related_concepts:
+  - "[[Normal School]]"
   - "[[Going Native]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Scientific Attitude]]"
   - "[[Paradigm]]"
-  - "[[Normal School]]"
   - "[[Quality Education]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Revoicing]]"

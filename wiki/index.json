@@ -7804,15 +7804,23 @@
     ]
   },
   {
-    "title": "Data Reduction and Data Display",
+    "title": "Data Display",
     "type": "concept",
-    "path": "wiki/concepts/research-methodology/Data Reduction and Data Display.md",
+    "path": "wiki/concepts/research-methodology/Data Display.md",
     "aliases": [
-      "数据缩减与数据展示",
+      "数据展示",
+      "data display",
+      "质性数据展示"
+    ]
+  },
+  {
+    "title": "Data Reduction",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Data Reduction.md",
+    "aliases": [
       "数据缩减",
       "data reduction",
-      "data display",
-      "数据展示"
+      "资料缩减"
     ]
   },
   {

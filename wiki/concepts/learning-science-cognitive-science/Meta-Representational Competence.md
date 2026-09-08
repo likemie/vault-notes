@@ -20,6 +20,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Concept Mapping]]"
   - "[[Metacognition]]"
+  - "[[Scaffolding]]"
   - "[[Graphic Organizer]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Higher-Order Thinking Skills]]"

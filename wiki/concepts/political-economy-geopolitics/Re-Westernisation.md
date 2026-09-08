@@ -22,6 +22,7 @@ tags:
   - paradigm/decolonial
   - subject/comparative-education
 related_concepts:
+  - "[[Enlightenment]]"
   - "[[Epistemology]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Governing at a Distance]]"

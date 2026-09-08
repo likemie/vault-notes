@@ -45,6 +45,7 @@ related_concepts:
   - "[[Working Memory]]"
   - "[[Self-Scaffolding]]"
   - "[[Conatus]]"
+  - "[[Scaffolding]]"
   - "[[Variable]]"
   - "[[Operationalization]]"
   - "[[Problem Solving]]"
@@ -81,6 +82,7 @@ related_methods:
   - "[[Egger Regression Test]]"
   - "[[Fail-Safe N]]"
 related_instruments:
+  - "[[California Critical Thinking Skills Test]]"
   - "[[Kmet Quality Assessment Checklist]]"
 related_persons:
   - "[[Jean Piaget]]"

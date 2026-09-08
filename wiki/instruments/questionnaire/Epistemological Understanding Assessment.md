@@ -30,7 +30,6 @@ related_methods: []
 related_instruments:
   - "[[VALUE Rubrics]]"
 related_persons:
-  - "[[Thomas Kuhn]]"
   - "[[Deanna Kuhn]]"
 related_facts: []
 related_arguments:

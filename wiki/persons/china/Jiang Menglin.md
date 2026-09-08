@@ -20,6 +20,7 @@ tags:
   - field/history-of-education
   - comparative-education
 related_concepts:
+  - "[[Normal School]]"
   - "[[Recontextualization]]"
   - "[[Democratic Education]]"
   - "[[Scientific Attitude]]"

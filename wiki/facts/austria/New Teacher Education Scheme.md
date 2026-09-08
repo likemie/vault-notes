@@ -21,6 +21,7 @@ tags:
   - theme/competence-framework
   - theme/higher-order-thinking
 related_concepts:
+  - "[[Normal School]]"
   - "[[Reflective Thinking]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Classroom Management]]"

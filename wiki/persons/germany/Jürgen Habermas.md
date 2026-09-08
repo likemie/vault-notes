@@ -35,6 +35,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Ideal Speech Situation]]"
   - "[[Analytic Framework]]"
+  - "[[Enlightenment]]"
   - "[[Postmodernism]]"
   - "[[Scientism]]"
   - "[[Linguistic Turn]]"

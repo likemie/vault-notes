@@ -24,6 +24,7 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Homework]]"
   - "[[Infusion Approach]]"
+  - "[[Scaffolding]]"
   - "[[Metacognition]]"
   - "[[Rote Learning]]"
   - "[[Working Memory]]"

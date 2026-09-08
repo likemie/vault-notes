@@ -24,6 +24,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Reflexivity]]"
   - "[[Academic Achievement]]"
+  - "[[Scaffolding]]"
   - "[[Concept Mapping]]"
   - "[[Questionnaire]]"
   - "[[Domain Specificity]]"

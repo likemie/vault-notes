@@ -21,7 +21,7 @@ tags:
 related_concepts:
   - "[[Technical Rationality]]"
   - "[[Visible Learning]]"
-  - "[[Bildung]]"
+  - "[[Paideia]]"
   - "[[Didaktik]]"
   - "[[Effect Size]]"
   - "[[Variable]]"
@@ -38,7 +38,6 @@ related_methods:
   - "[[Quantitative Research]]"
   - "[[Meta-analysis]]"
 related_persons:
-  - "[[Jürgen Habermas]]"
   - "[[John Hattie]]"
 related_arguments:
   - "[[Argument_Nielsen_2021_NordPsych]]"

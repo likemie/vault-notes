@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[Grade Retention]]"
   - "[[Evidence-Based Education]]"
+  - "[[Normal School]]"
   - "[[Inclusive Evidence Validation Typology]]"
   - "[[Evidence-Based Reform]]"
   - "[[Document]]"

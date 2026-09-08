@@ -42,6 +42,7 @@ related_persons:
   - "[[Victor Cousin]]"
   - "[[Horace Mann]]"
   - "[[Jean-Jacques Rousseau]]"
+  - "[[Johann Wilhelm Süvern]]"
   - "[[Calvin Stowe]]"
 related_facts:
   - "[[Seventh Annual Report of the Massachusetts Board of Education]]"

@@ -108,8 +108,6 @@ related_methods:
 related_persons:
   - "[[John Hattie]]"
   - "[[Gene Glass]]"
-  - "[[Karl Popper]]"
-  - "[[Jürgen Habermas]]"
   - "[[Jean-Jacques Rousseau]]"
   - "[[Gerald Grace]]"
   - "[[Basil Bernstein]]"

@@ -23,6 +23,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Decodification]]"
   - "[[Peer-Supported Learning]]"
+  - "[[Scaffolding]]"
   - "[[Direct Instruction]]"
   - "[[Effect Size]]"
   - "[[Classroom Management]]"

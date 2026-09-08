@@ -41,8 +41,7 @@ related_arguments:
 related_methods:
   - "[[Systematic Review]]"
   - "[[Meta-analysis]]"
-related_persons:
-  - "[[Thomas Kuhn]]"
+related_persons: []
 status: active
 created: 2026-08-15
 updated: 2026-08-19

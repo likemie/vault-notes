@@ -30,12 +30,13 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Philosophical Analysis in Education]]"
+  - "[[Problem Approach]]"
 related_persons:
   - "[[Jean Piaget]]"
   - "[[Nicholas Hans]]"
   - "[[Brian Holmes]]"
-  - "[[George Bereday]]"
   - "[[Michael Sadler]]"
+  - "[[George Bereday]]"
   - "[[Robert Cowen]]"
 related_facts:
   - "[[Comparative Education Society in Europe]]"

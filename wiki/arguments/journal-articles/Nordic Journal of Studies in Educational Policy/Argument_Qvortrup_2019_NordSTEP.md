@@ -40,7 +40,6 @@ related_theories:
 related_methods: []
 related_persons:
   - "[[Herbert A. Simon]]"
-  - "[[Karl Popper]]"
 related_facts: []
 related_arguments: []
 sources:

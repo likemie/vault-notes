@@ -40,16 +40,16 @@ related_methods:
   - "[[Accounts]]"
 related_instruments: []
 related_persons:
-  - "[[Brian Holmes]]"
-  - "[[Harold Noah]]"
-  - "[[Max Eckstein]]"
   - "[[Michael Sadler]]"
   - "[[Victor Cousin]]"
   - "[[Horace Mann]]"
+  - "[[Harold Noah]]"
+  - "[[Max Eckstein]]"
   - "[[George Bereday]]"
   - "[[Isaac Kandel]]"
   - "[[Andreas Kazamias]]"
   - "[[Marc-Antoine Jullien]]"
+  - "[[Brian Holmes]]"
   - "[[Henry Barnard]]"
 related_facts:
   - "[[Seventh Annual Report of the Massachusetts Board of Education]]"

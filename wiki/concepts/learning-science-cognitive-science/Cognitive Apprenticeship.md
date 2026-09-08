@@ -18,6 +18,7 @@ tags:
 related_concepts:
   - "[[Higher-Order Thinking Skills]]"
   - "[[Metacognition]]"
+  - "[[Scaffolding]]"
   - "[[Hypothesis]]"
   - "[[Critical Thinking]]"
   - "[[Direct Instruction]]"

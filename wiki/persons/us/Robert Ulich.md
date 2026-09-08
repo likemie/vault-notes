@@ -19,11 +19,13 @@ tags:
   - theme/history-of-education
 related_concepts:
   - "[[Bildung]]"
+  - "[[Paideia]]"
   - "[[Champ]]"
   - "[[Democratic Education]]"
   - "[[Academic Freedom]]"
   - "[[Rationalism in International Relations]]"
   - "[[Normal School]]"
+  - "[[Liberal Education]]"
   - "[[Enlightenment]]"
   - "[[Paradigm]]"
   - "[[Growth]]"
@@ -61,7 +63,7 @@ updated: 2026-09-07
 
 > [!person-profile] 人物档案
 > - **身份位置** 德裔美籍教育史学家、教育哲学家与比较教育学者，哈佛大学教育研究生院（Harvard Graduate School of Education）科南特讲座教授（James Bryant Conant Professor of Education），魏玛共和国时期萨克森州教育部高等教育司司长（Ministerialrat）与德累斯顿工业大学教育学教授。
-> - **核心角色** 比较教育历史-哲学传统中人本主义（Humanism）与古典[[Bildung|教化]]（Paideia）的集大成者。作为坚定的社会民主主义者，他在 44 岁时断然拒绝妥协纳粹暴政而流亡美国；在哈佛执教二十六载，以深厚的人文底蕴培育了包括[[George Bereday|乔治·贝雷迪]]（George Bereday）、[[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（Andreas Kazamias）、保罗·纳什（Paul Nash）与亨利·珀金森（Henry Perkinson）在内的整整一代战后史学派比较教育领军学者。
+> - **核心角色** 比较教育历史-哲学传统中人本主义（Humanism）与古典[[Bildung|教化]]（[[Paideia]]）的集大成者。作为坚定的社会民主主义者，他在 44 岁时断然拒绝妥协纳粹暴政而流亡美国；在哈佛执教二十六载，以深厚的人文底蕴培育了包括[[George Bereday|乔治·贝雷迪]]（George Bereday）、[[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（Andreas Kazamias）、保罗·纳什（Paul Nash）与亨利·珀金森（Henry Perkinson）在内的整整一代战后史学派比较教育领军学者。
 > - **代表贡献** 巨著《国家教育：历史视角下的比较》（*The Education of Nations: A Comparison in Historical Perspective*, 1961）；坚持以“人（anthropos）”为中心的比较哲学；将西方文明史演进与教师人文教育深度整合。
 
 > [!citation-card]- 人物定位的关键来源
@@ -78,7 +80,7 @@ updated: 2026-09-07
 > - **1920年代** **魏玛萨克森州高官与工业大学教席** 在魏玛共和国时期身居要职，出任萨克森州教育部高等教育司司长（Ministerialrat），并兼任德累斯顿工业大学（Technische Hochschule Dresden）教育学教授，深度主持公立大学治理改革与高等教育[[Democratic Education|民主教育]]实验，积累了深厚的公共政策治理经验。
 > - **1934** **坚守社会民主信念与反法西斯流亡哈佛** 阿道夫·希特勒夺取政权并推行极权一体化后，年届 44 岁的乌利希断然拒绝在政治与良知上向法西斯暴政妥协，毅然辞去全部教育部高级公职与大学教席，以社会民主派知识分子身份流亡美国受聘于哈佛大学。
 > - **1934–1960** **哈佛大学二十六载执教与科南特讲座** 任哈佛大学教育研究生院教授，后晋升为詹姆斯·布莱恩特·科南特讲座教授（James Bryant Conant Professor of Education），讲授教育史、哲学与比较教育学；与同代希腊古典学泰斗维尔纳·耶格尔（Werner Jaeger，《[[Bildung|教化]]》作者）交相辉映，共同代表了德意志古典人道主义学术传统在北美的移植，以欧洲文明史视野对抗战后美国教育界的技术至上主义与[[Academic Freedom|学术自由]]侵蚀。
-> - **1945–1954** **奠定超越哲学与古典教化思想体系** 相继出版《教育思想史》（*History of Educational Thought*, 1945）与《人类生涯：超越哲学》（*The Human Career: A Philosophy of Transcendence*, 1954），将西方两千年思想源流与超越性人道主义相融合。
+> - **1945–1954** **奠定超越哲学与[[Paideia|古典教化]]思想体系** 相继出版《教育思想史》（*History of Educational Thought*, 1945）与《人类生涯：超越哲学》（*The Human Career: A Philosophy of Transcendence*, 1954），将西方两千年思想源流与超越性人道主义相融合。
 > - **1961** **出版集大成巨著《国家教育》开创文明史比较** 出版划时代代表作《国家教育：历史视角下的比较》（*The Education of Nations: A Comparison in Historical Perspective*），以宏阔的西方思想史四阶段演进（中世纪主义、文艺复兴与宗教改革、[[Rationalism in International Relations|理性主义]]、工业科技）系统阐发英、法、德、俄四国教育制度的精神根基。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 51)]]
 > - **1965** **门生合编《受过教育的人》致敬一代宗师** 其哈佛门生保罗·纳什（Paul Nash）、[[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（Andreas Kazamias）与亨利·珀金森（Henry Perkinson）联合主编出版文集《受过教育的人》（*The Educated Man*），扉页题词一致敬献给恩师乌利希并冠以“一位真正受过教育的人”（An Educated Man）之崇高礼赞；卡扎米亚斯深情回忆乌利希以渊博的博雅风范激励了包括[[George Bereday|乔治·贝雷迪]]与自己在内的整整一代战后学者坚守历史意识。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 52)]]；引自 Nash et al. (1965)
 > - **1977** **逝世于斯图加特与欧洲人文厚礼的历史定评** 逝世于德国斯图加特，享年 87 岁。保罗·纳什在纪念悼文中将其学术与人格定性为“来自欧洲的人文主义厚礼”，高度概括了其人文学术的四大支柱：人处于绝对中心、不加妥协的历史语境主义、教师教育的人文关切、以及终身坚守的社会民主主义信念。[[Argument_Kazamias_2009_ForgottenThemes|(Nash, 1977: 147–149; Kazamias, 2009: 52)]]
@@ -95,7 +97,7 @@ updated: 2026-09-07
 >   - **阶段转向** 将西方教育思想源流与超越性人道主义哲学相融合，确立人的道德完善先于制度技术的人文立场。
 > - **1960年代初至晚期 — 文明思想史巨著大成与学脉传承阶段** 总结大半生跨大西洋文明求索，出版比较教育集大成之作，培育整整一代战后史学派领军学者。
 >   - **代表著作** 《国家教育：历史视角下的比较》（*The Education of Nations: A Comparison in Historical Perspective*, 1961）；门生致敬文集《受过教育的人》（*The Educated Man*, 1965）。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 51–52)]]
->   - **关键概念** 古典教化（*Paideia*）、西方四大文化思潮、受过教育的人。
+>   - **关键概念** [[Paideia|古典教化]]（*Paideia*）、西方四大文化思潮、受过教育的人。
 >   - **阶段转向** 建立以西方文明演进四大阶段为精神史坐标的宏观比较史学体系，为现代[[Normal School|师范教育]]与战后新兴国家提供文明镜鉴。
 
 在 1961 年代表作《国家教育》中，乌利希系统剖析了塑造西方文明与现代国民教育体系的四大文化思潮演进脉络。
@@ -104,7 +106,7 @@ updated: 2026-09-07
 > - **中世纪主义的超国家神学大一统（Medievalism）**
 >   以罗马天主教会为精神核心，将欧洲整合为超越世俗领土的基督宗教神学共同体，拉丁语成为跨国学术通用语。经院哲学通过托马斯·阿奎那等思想家实现了基督教信仰与[[Aristotle|亚里士多德]]理性的形而上调和；修道院学校、主教座堂学校与早期大学确立了以七艺（文法、修辞、辩证法及算术、几何、天文、音乐）为核心的课程架构。教育的最高使命在于服从神圣超越秩序与灵魂救赎，奠定了欧洲共同的人文知识遗产，但也压抑了世俗经验探究与地方民族文化。
 > - **文艺复兴的人文觉醒与宗教改革的教派分立（Renaissance and Reformation）**
->   文艺复兴打破经院哲学禁锢，重新发掘古希腊罗马古典文明，高扬人的尊严、世俗个性与审美自由，将教育从枯燥教义辩论转向古典人文主义博雅教养（*Studia humanitatis*），催生了以培养文雅绅士和公民领袖为宗旨的精英古典中学（如文理中学与[[Grammar School|文法学校]]）。宗教改革中路德与加尔文确立信徒皆祭司信条，为了使信徒能够直接研读母语圣经，首次赋予平民母语识字与初等教育以绝对的宗教义务性，强力推动世俗政权承担设立公共初等学校的法定责任。两者共同奠定了近代西方中等精英博雅教育与初等大众普及教育并行的双轨制雏形。
+>   文艺复兴打破经院哲学禁锢，重新发掘古希腊罗马古典文明，高扬人的尊严、世俗个性与审美自由，将教育从枯燥教义辩论转向古典人文主义博雅教养（*Studia humanitatis*），催生了以培养文雅绅士和公民领袖为宗旨的精英古典中学（如文理中学与[[Grammar School|文法学校]]）。宗教改革中路德与加尔文确立信徒皆祭司信条，为了使信徒能够直接研读母语圣经，首次赋予平民母语识字与初等教育以绝对的宗教义务性，强力推动世俗政权承担设立公共初等学校的法定责任。两者共同奠定了近代西方中等精英[[Liberal Education|博雅教育]]与初等大众普及教育并行的双轨制雏形。
 > - **[[Rationalism in International Relations|理性主义]]时代的启蒙科学与世俗国家塑造（Rationalism）**
 >   培根、[[René Descartes|笛卡尔]]、洛克、[[Jean-Jacques Rousseau|卢梭]]与[[Immanuel Kant|康德]]掀起科学革命与[[Enlightenment|启蒙运动]]，以人类自主理性、经验观察与自然法则驱逐了神学权威与经院残余。启蒙哲人坚信人性的可塑性与社会进步；卢梭开创遵循儿童天性的自然主义教育，[[Johann Heinrich Pestalozzi|裴斯泰洛齐]]推进现代要素教学法。民族主权国家崛起并将教育视为培育公民国家认同、传播科学知识与强化国家竞争力的战略杠杆，国家政权逐步从教会手中收回教育领导权（如普鲁士 1794 年《普通邦法》与法国拿破仑帝国大学），由此确立了由国家统一规划的现代公共教育系统。
 > - **工业科学技术时期的大众教育与人性异化危机（Science and Technology）**
@@ -115,7 +117,7 @@ updated: 2026-09-07
 ## 核心思想
 
 > [!claim] 核心主张
-> 乌利希坚决反对将比较教育降格为技术官僚的指标测量与纯粹制度抄借。他主张教育在最深层意义上是古希腊意义上的古典[[Bildung|教化]]（Paideia），教育的核心关切永远是活生生的人（anthropos）。比较教育探究必须深植于西方文明史与精神观念的演进脉络之中；唯有理解文化思潮如何塑造民族精神与学校形态，教育研究才能超越眼前的功利计较，为师资培育提供深邃的道德反省与历史智慧。
+> 乌利希坚决反对将比较教育降格为技术官僚的指标测量与纯粹制度抄借。他主张教育在最深层意义上是古希腊意义上的古典[[Bildung|教化]]（[[Paideia]]），教育的核心关切永远是活生生的人（anthropos）。比较教育探究必须深植于西方文明史与精神观念的演进脉络之中；唯有理解文化思潮如何塑造民族精神与学校形态，教育研究才能超越眼前的功利计较，为师资培育提供深邃的道德反省与历史智慧。
 
 保罗·纳什在纪念悼文中将乌利希对比较教育的贡献定性为来自欧洲的人文主义厚礼，并将其核心思想提炼为四大相互支撑的精神支柱。
 
@@ -141,7 +143,7 @@ updated: 2026-09-07
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 继承并弘扬了威廉·狄尔泰与维尔纳·耶格尔（Werner Jaeger）的德国精神科学与古典[[Bildung|教化]]（Paideia）传统，使美国战后比较教育学保留了深厚的历史文化底色。
+> - **理论路径** 继承并弘扬了威廉·狄尔泰与维尔纳·耶格尔（Werner Jaeger）的德国精神科学与古典[[Bildung|教化]]（[[Paideia]]）传统，使美国战后比较教育学保留了深厚的历史文化底色。
 > - **人才培养与师承网络** 在哈佛大学亲自培养了[[George Bereday|乔治·贝雷迪]]（哥伦比亚大学比较教育领袖）、[[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（威斯康星大学教授、[[Comparative Education Society in Europe|CESE]] 荣誉会员）以及保罗·纳什等杰出学者，构成战后比较教育思想史的核心主干。
 > - **教师教育改革** 极力倡导将教育史与比较文明哲学作为教师资格培养的必修核心，抵制行为主义技能训练对[[Normal School|师范教育]]的侵蚀。
 
@@ -164,14 +166,14 @@ updated: 2026-09-07
 > [!citation-card] Kazamias论乌利希的人格风范、耶格尔教化学脉与学术师承
 > 乌利希确实是一位德国最优秀传统意义上的古典人文主义学者，这一传统同样孕育了撰写三卷本名著《[[Bildung|教化]]：希腊文化的理想》的维尔纳·耶格尔。乌利希也是一位极具启发性的导师。严格说来，他并非狭义上的‘比较学家’，而是一位人文主义历史学家与哲学家；然而，他深邃的史学情怀与人格魅力，直接激励并启迪了他的学生——特别是[[George Bereday|乔治·贝雷迪]]与我自己——成为秉持历史自觉的比较学者。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 52)]]
 >
-> *Ulich was indeed a classical humanistic scholar in the best sense of the German tradition that also included, among others, Werner Jaeger, his contemporary, who wrote the three-volume classic Paideia... Strictly speaking, he was not a 'comparativist' but a humanistic historian and a philosopher, but he inspired some of his students, specifically George Bereday and myself, to become historically-minded comparativists.*
+> *Ulich was indeed a classical humanistic scholar in the best sense of the German tradition that also included, among others, Werner Jaeger, his contemporary, who wrote the three-volume classic [[Paideia]]... Strictly speaking, he was not a 'comparativist' but a humanistic historian and a philosopher, but he inspired some of his students, specifically George Bereday and myself, to become historically-minded comparativists.*
 
 ---
 
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **学术同行** 维尔纳·耶格尔（Werner Jaeger） — 共同弘扬古希腊古典[[Bildung|教化]]（Paideia）哲学传统。
+> - **学术同行** 维尔纳·耶格尔（Werner Jaeger） — 共同弘扬古希腊古典[[Bildung|教化]]（[[Paideia]]）哲学传统。
 > - **指导学生** [[Andreas Kazamias]]、[[George Bereday]]、保罗·纳什（Paul Nash）、亨利·珀金森（Henry Perkinson） — 乌利希门生共同构成战后大西洋两岸比较教育与教育史学的核心领军网络。
 
 ---

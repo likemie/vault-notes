@@ -22,21 +22,30 @@ tags:
   - theme/educational-borrowing
   - theme/modernity
 related_concepts:
+  - "[[Transfer Translation Transformation]]"
+  - "[[Rote Learning]]"
+  - "[[Bildung]]"
   - "[[Normal School]]"
+  - "[[Ontology]]"
+  - "[[Paradigm]]"
   - "[[Policy Borrowing]]"
   - "[[Educational Meliorism]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
+  - "[[Johann Heinrich Pestalozzi]]"
   - "[[Horace Mann]]"
+  - "[[Andreas Kazamias]]"
+  - "[[Victor Cousin]]"
   - "[[Calvin Stowe]]"
   - "[[Henry Barnard]]"
 related_facts:
+  - "[[Grammar School]]"
   - "[[Report on Elementary Public Instruction in Europe]]"
   - "[[Seventh Annual Report of the Massachusetts Board of Education]]"
-  - "[[National Education in Europe]]"
   - "[[Boston Schoolmasters Controversy]]"
+  - "[[National Education in Europe]]"
 related_arguments:
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
 confidence: high

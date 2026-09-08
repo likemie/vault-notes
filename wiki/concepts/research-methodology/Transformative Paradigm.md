@@ -33,8 +33,7 @@ related_theories:
   - "[[Critical Theory]]"
 related_methods:
   - "[[Action Research]]"
-related_persons:
-  - "[[Jürgen Habermas]]"
+related_persons: []
 related_facts: []
 related_arguments: []
 confidence: medium

@@ -21,6 +21,7 @@ tags:
   - theme/educational-reform
   - period/republican-china
 related_concepts:
+  - "[[Normal School]]"
   - "[[Scientific Attitude]]"
   - "[[Paradigm]]"
 related_theories: []

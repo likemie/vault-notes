@@ -18,6 +18,7 @@ tags:
   - level/k12
   - pedagogy
 related_concepts:
+  - "[[Scaffolding]]"
   - "[[Creativity]]"
   - "[[Structured Teaching]]"
   - "[[Knowledge Framework]]"

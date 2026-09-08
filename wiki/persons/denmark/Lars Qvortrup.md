@@ -19,7 +19,7 @@ tags:
 - stance/support
 related_concepts:
   - "[[Visible Learning]]"
-  - "[[Bildung]]"
+  - "[[Paideia]]"
   - "[[Epistemology]]"
   - "[[Structural Coupling]]"
   - "[[Didaktik]]"

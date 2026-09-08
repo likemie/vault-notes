@@ -21,7 +21,7 @@ related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge Production]]"
   - "[[Knowledge Exchange]]"
-  - "[[Bildung]]"
+  - "[[Paideia]]"
   - "[[Junzi]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Cultural Hierarchy]]"

@@ -25,7 +25,8 @@ related_concepts:
 related_theories:
   - "[[Critical Theory]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Jürgen Habermas]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02]]"

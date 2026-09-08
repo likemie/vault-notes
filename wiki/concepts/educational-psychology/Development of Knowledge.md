@@ -37,8 +37,7 @@ related_arguments:
   - "[[Argument_Hofer_1997_RER]]"
 related_methods:
   - "[[Meta-analysis]]"
-related_persons:
-  - "[[Thomas Kuhn]]"
+related_persons: []
 confidence: high
 status: active
 created: 2026-08-19

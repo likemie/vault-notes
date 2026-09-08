@@ -53,8 +53,7 @@ related_methods:
   - "[[Website Content Analysis]]"
   - "[[In-depth Interview]]"
   - "[[Focus Group]]"
-related_persons:
-  - "[[Deanna Kuhn]]"
+related_persons: []
 related_facts:
   - "[[Mixed Methods International Research Association]]"
   - "[[Peidu]]"

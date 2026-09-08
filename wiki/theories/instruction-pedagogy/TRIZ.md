@@ -27,6 +27,7 @@ related_concepts:
   - "[[SCAMPER]]"
   - "[[Champ]]"
   - "[[Growth]]"
+  - "[[Scaffolding]]"
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
@@ -100,7 +101,7 @@ updated: 2026-09-03
 > - **前提二** 系统演化的总方向是提高理想度（$\text{Ideality} = \frac{\sum \text{有用功能}}{\sum \text{有害效应} + \sum \text{引入成本}}$）。
 > - **推导** 创新者在面对问题时不应从当前手段出发顺向推演，而应先定义“理想最终解（IFR）”——即假定系统要素零开销、零副作用却完美实现目标，再以 IFR 为锚点倒推现实约束，从根本上破除“现实资源有限”的心智枷锁。
 
-> [!proposition-chain] 核心命题三｜外显发明原理与矛盾矩阵能够作为认知支架大幅降低盲目试错开销
+> [!proposition-chain] 核心命题三｜外显发明原理与矛盾矩阵能够作为[[Scaffolding|认知支架]]大幅降低盲目试错开销
 > - **前提一** 人类大脑在面对新颖问题时极易受“心理惯性（Psychological Inertia）”驱动，自动在熟悉的旧经验范畴内打转。[[Argument_Guo_2025_TSC|(Guo et al., 2025, p. 10)]]
 > - **前提二** [[Genrich Altshuller|阿奇舒勒]]从数百万专利中归纳的 40 个发明原理，覆盖了绝大多数跨学科冲突的解题可能，构成了外显化的高阶启发式图式。
 > - **推导** 借助矛盾矩阵将具体问题抽象化、标准化，并定向映射至 40 个通用算子，学习者跳过了无序的试错迷宫，能够迅速获得针对性极强的突破线索，使设计[[Problem Solving|问题解决]]质量显著提升。Morin et al. (2018); 同上
@@ -146,7 +147,7 @@ updated: 2026-09-03
 > [!theory-use] 如何用于教育研究与实践
 > - **作为课程教学内容** 在高等工程教育、职业教育与创新创业教育中开设专修课程，系统讲授 TRIZ 矩阵与 40 原理；
 > - **作为[[Creativity Training|创造力干预]]工具** 在准[[Experimental Research|实验研究]]中，作为“技术型训练（Technique-based training）”的核心实验处理[[Variable|变量]]，检验其对学生问题表征、灵活性与工程设计[[Creativity|创造力]]（如 [[Creative Engineering Design Assessment|CEDA]] 得分）的促进效应；
-> - **作为跨学科认知脚手架** 引导学生从自然科学向社会科学类比迁移，利用分离原理解决教育组织管理或课程改革中的制度矛盾。
+> - **作为跨学科[[Scaffolding|认知脚手架]]** 引导学生从自然科学向社会科学类比迁移，利用分离原理解决教育组织管理或课程改革中的制度矛盾。
 
 ---
 

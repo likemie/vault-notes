@@ -20,6 +20,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Construct Validity]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Scaffolding]]"
 related_theories: []
 related_methods:
   - "[[Discourse Analysis]]"

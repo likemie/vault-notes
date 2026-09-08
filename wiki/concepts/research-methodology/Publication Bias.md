@@ -27,6 +27,7 @@ related_concepts:
   - "[[Researcher Degrees of Freedom]]"
   - "[[Visible Learning]]"
   - "[[Preregistration]]"
+  - "[[Higher-Order Thinking Skills]]"
   - "[[Funnel Plot]]"
 related_theories: []
 related_methods:
@@ -34,6 +35,7 @@ related_methods:
   - "[[Systematic Review]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quantitative Research]]"
+  - "[[Experimental Research]]"
 related_persons: []
 related_facts:
   - "[[What Works Clearinghouse]]"

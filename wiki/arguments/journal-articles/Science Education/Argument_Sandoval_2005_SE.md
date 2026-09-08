@@ -25,6 +25,7 @@ related_concepts:
   - "[[Epistemological Beliefs]]"
   - "[[Paradigm]]"
   - "[[Variable]]"
+  - "[[Scaffolding]]"
   - "[[Rote Learning]]"
   - "[[Epistemic Resources]]"
 related_theories: []

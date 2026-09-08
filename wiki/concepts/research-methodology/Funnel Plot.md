@@ -27,6 +27,7 @@ related_concepts:
   - "[[Small Study Effects]]"
   - "[[Blinding]]"
   - "[[Artefact]]"
+  - "[[Higher-Order Thinking Skills]]"
   - "[[Sample Size Determination]]"
 related_theories: []
 related_methods:
@@ -37,6 +38,7 @@ related_methods:
   - "[[Begg and Mazumdar Rank Correlation]]"
   - "[[Multilevel Egger's Test]]"
   - "[[Meta-regression]]"
+  - "[[Experimental Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []

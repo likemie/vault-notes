@@ -45,6 +45,7 @@ related_concepts:
   - "[[International Baccalaureate]]"
   - "[[IB Diploma Programme]]"
   - "[[Creativity, Action, Service]]"
+  - "[[Liberal Education]]"
   - "[[Epistemology]]"
   - "[[Extended Essay]]"
   - "[[Self-Directed Learning]]"

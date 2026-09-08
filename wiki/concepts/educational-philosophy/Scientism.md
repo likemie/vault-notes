@@ -39,6 +39,7 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-analysis]]"
 related_persons:
+  - "[[Jürgen Habermas]]"
   - "[[Hu Shi]]"
   - "[[John Dewey]]"
 related_facts:

@@ -22,6 +22,7 @@ tags:
   - method/qualitative
 related_concepts:
   - "[[Dialogue in Education]]"
+  - "[[Scaffolding]]"
   - "[[Parental Cognitive and Affective Socialization]]"
   - "[[Causality]]"
   - "[[Homework]]"

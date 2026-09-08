@@ -21,6 +21,7 @@ related_concepts:
   - "[[Anchored Instruction]]"
   - "[[Critical Thinking]]"
   - "[[Problem Solving]]"
+  - "[[Scaffolding]]"
   - "[[Problem-Based Learning]]"
   - "[[Hypothesis]]"
   - "[[Variable]]"

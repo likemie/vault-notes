@@ -24,6 +24,7 @@ related_concepts:
   - "[[Banking Model of Education]]"
   - "[[Conscientization]]"
   - "[[Critical Thinking]]"
+  - "[[Scaffolding]]"
   - "[[Humility in Learning]]"
   - "[[Hypothesis]]"
   - "[[Socratic Dialogue]]"

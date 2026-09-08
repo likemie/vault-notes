@@ -50,6 +50,7 @@ related_concepts:
   - "[[Ways of Knowing]]"
   - "[[Areas of Knowledge]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Scaffolding]]"
   - "[[Leading Questions]]"
   - "[[Cooperative Learning]]"
   - "[[Necessary and Sufficient Conditions]]"

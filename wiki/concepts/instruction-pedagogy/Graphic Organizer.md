@@ -18,6 +18,7 @@ tags:
   - cognition/learning-science
   - construct/cognitive-scaffold
 related_concepts:
+  - "[[Scaffolding]]"
   - "[[Mind Mapping]]"
   - "[[Concept Mapping]]"
   - "[[Argument Mapping]]"

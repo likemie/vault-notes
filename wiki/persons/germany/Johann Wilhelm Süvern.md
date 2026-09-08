@@ -21,21 +21,29 @@ tags:
   - nineteenth-century
 related_concepts:
   - "[[Bildung]]"
-  - "[[State Educational Sovereignty]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Dual School System]]"
   - "[[Normal School]]"
+  - "[[State Educational Sovereignty]]"
+  - "[[Growth]]"
+  - "[[Common School Movement]]"
+  - "[[Document]]"
+  - "[[Primary and Secondary Documents]]"
+  - "[[Disciplina and Doctrina]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
   - "[[Victor Cousin]]"
+  - "[[Immanuel Kant]]"
   - "[[François Guizot]]"
-  - "[[Calvin Stowe]]"
   - "[[Horace Mann]]"
+  - "[[Calvin Stowe]]"
   - "[[Henry Barnard]]"
 related_facts:
-  - "[[Prussian Draft Education Law of 1819]]"
   - "[[Guizot Law of 1833]]"
+  - "[[Report on the State of Public Instruction in Prussia]]"
+  - "[[Prussian Draft Education Law of 1819]]"
 related_arguments:
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
 confidence: high

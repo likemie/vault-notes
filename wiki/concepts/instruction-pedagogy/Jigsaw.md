@@ -28,6 +28,7 @@ related_concepts:
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Epistemic Responsibility]]"
   - "[[Higher-Order Thinking Skills]]"
+  - "[[Scaffolding]]"
   - "[[Confidence Interval]]"
   - "[[Heterogeneity]]"
   - "[[Student Attitude]]"

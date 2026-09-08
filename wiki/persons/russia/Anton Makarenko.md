@@ -22,6 +22,7 @@ tags:
   - theme/collective-education
   - theme/labor-education
 related_concepts:
+  - "[[Normal School]]"
   - "[[International Education]]"
   - "[[Progressive Education]]"
   - "[[Experiential Learning]]"

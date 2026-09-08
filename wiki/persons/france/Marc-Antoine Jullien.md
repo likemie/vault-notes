@@ -22,32 +22,36 @@ tags:
   - paradigm/humanism
   - region/france
 related_concepts:
+  - "[[Perpetual Peace]]"
   - "[[Bildung]]"
   - "[[Paradigm]]"
   - "[[Questionnaire]]"
   - "[[International Education]]"
-  - "[[Enlightenment]]"
   - "[[Educational Meliorism]]"
-  - "[[Faculty Psychology]]"
   - "[[Epistemology]]"
   - "[[Policy Borrowing]]"
-  - "[[Perpetual Peace]]"
+  - "[[Normal School]]"
   - "[[Positivism]]"
   - "[[Scientism]]"
   - "[[Performance Indicators]]"
+  - "[[Proto-Scientific Motif]]"
+  - "[[Document]]"
+  - "[[Artefact]]"
+  - "[[Faculty Psychology]]"
   - "[[Scientific Method]]"
   - "[[Dialogue in Education]]"
   - "[[Hypothesis]]"
-  - "[[Document]]"
   - "[[Value Neutrality]]"
-  - "[[Artefact]]"
-  - "[[Proto-Scientific Motif]]"
+  - "[[Enlightenment]]"
   - "[[Comparative History of Comparative Education]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
   - "[[Johann Heinrich Pestalozzi]]"
+  - "[[Immanuel Kant]]"
+  - "[[Isaac Kandel]]"
+  - "[[Nicholas Hans]]"
   - "[[Jean-Jacques Rousseau]]"
   - "[[Auguste Comte]]"
   - "[[Harold Noah]]"

@@ -41,6 +41,7 @@ related_concepts:
   - "[[Construct Validity]]"
   - "[[Ecological Validity]]"
   - "[[Content Validity]]"
+  - "[[Scaffolding]]"
 related_theories: []
 related_methods:
   - "[[Accounts]]"

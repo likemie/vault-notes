@@ -30,6 +30,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Mentorship]]"
   - "[[Habitus]]"
+  - "[[Scaffolding]]"
   - "[[Variable]]"
 related_theories:
   - "[[Ennis's Curricular Typology]]"
@@ -135,7 +136,7 @@ flowchart TD
 > [!proposition-chain] 命题推导
 > - **前提一** 德尔菲专家达成压倒性共识（95% 赞成率）：脱离情意倾向的认知技能容易退化为巧言令色的诡辩术（Sophistry），而缺乏认知技能的情意倾向则沦为盲目的热情。
 > - **前提二** 实证干预显示，教学干预能够同时显著促进技能（$g+ = 0.30$）与倾向（$g+ = 0.23$），且当融入[[Mentorship|导师制]]时，倾向的获得达到最高峰值（$g+ = 0.38$）（[[Argument_Abrami_2015_RER|Abrami et al., 2015]]）。
-> - **推导结论** 理想的批判性思维教学必须坚持“技能训练 + [[Habitus|习性]]浸润”双轨并进，唯有将认知脚手架与导师榜样示范结合，才能实现德尔菲框架所倡导的理性全人发展。
+> - **推导结论** 理想的批判性思维教学必须坚持“技能训练 + [[Habitus|习性]]浸润”双轨并进，唯有将[[Scaffolding|认知脚手架]]与导师榜样示范结合，才能实现德尔菲框架所倡导的理性全人发展。
 
 ---
 

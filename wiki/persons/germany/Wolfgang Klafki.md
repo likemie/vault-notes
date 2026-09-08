@@ -23,6 +23,7 @@ related_concepts:
   - "[[Phenomenon-Based Learning]]"
   - "[[Epochal Key Problems]]"
   - "[[General Education]]"
+  - "[[Normal School]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Reflexivity]]"
   - "[[Constructivist Paradigm]]"

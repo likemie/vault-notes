@@ -73,6 +73,7 @@ related_concepts:
   - "[[Face Validity]]"
   - "[[Making the Familiar Strange]]"
   - "[[Progressive Focussing]]"
+  - "[[Unit of Analysis]]"
   - "[[Domain Analysis]]"
   - "[[Qualitative Validity]]"
   - "[[Causal Processes]]"
@@ -110,9 +111,7 @@ related_methods:
   - "[[Ideology Critique]]"
   - "[[Autoethnography]]"
   - "[[Longitudinal Study]]"
-related_persons:
-  - "[[Karl Popper]]"
-  - "[[Jürgen Habermas]]"
+related_persons: []
 related_facts: []
 related_arguments: []
 sources:

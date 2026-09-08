@@ -29,6 +29,7 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Dialogue in Education]]"
   - "[[Operationalization]]"
+  - "[[Scaffolding]]"
 related_theories: []
 related_methods:
   - "[[Meta-meta-analysis]]"
@@ -132,7 +133,7 @@ updated: 2026-08-25
 
 > [!debates] 理论边界与学术争鸣
 > - **过度强调动机，低估认知负荷** 批评者认为社会互赖理论偏重动机与社会心理维度，忽视了低年级或新手学生在复杂协作中面临的认知过载问题。
-> - **真实课堂情境中的互赖异化** 在缺乏充分教师脚手架的情况下，组内地位不平等会导致高成就学生单向主导，破坏理论预设的平等促进性互动。
+> - **真实课堂情境中的互赖异化** 在缺乏充分教师[[Scaffolding|脚手架]]的情况下，组内地位不平等会导致高成就学生单向主导，破坏理论预设的平等促进性互动。
 
 ---
 

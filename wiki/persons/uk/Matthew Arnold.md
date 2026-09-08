@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Bildung]]"
   - "[[Paradigm]]"
+  - "[[Paideia]]"
   - "[[Conatus]]"
   - "[[Growth]]"
   - "[[Creativity]]"

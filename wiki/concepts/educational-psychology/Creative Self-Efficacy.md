@@ -48,6 +48,7 @@ related_concepts:
   - "[[Creativity Assessment]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Effect Size]]"
+  - "[[Scaffolding]]"
   - "[[Formative Assessment]]"
   - "[[Interaction Effect]]"
   - "[[Scale of Measurement]]"

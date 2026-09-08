@@ -41,6 +41,7 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Literature Review]]"
   - "[[Divergent Thinking]]"
+  - "[[Scaffolding]]"
   - "[[Cognitive Flexibility]]"
 related_theories:
   - "[[Creative Problem Solving]]"

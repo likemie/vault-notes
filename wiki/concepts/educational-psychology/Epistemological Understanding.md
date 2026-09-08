@@ -26,7 +26,6 @@ related_methods:
   - "[[In-depth Interview]]"
 related_instruments: []
 related_persons:
-  - "[[Thomas Kuhn]]"
   - "[[Deanna Kuhn]]"
 related_facts: []
 related_arguments:

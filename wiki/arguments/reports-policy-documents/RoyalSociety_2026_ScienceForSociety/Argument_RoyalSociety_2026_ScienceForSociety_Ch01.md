@@ -37,6 +37,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Classroom Debate]]"
   - "[[Epistemology]]"
+  - "[[Scientific Method]]"
   - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Rote Learning]]"

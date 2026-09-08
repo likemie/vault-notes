@@ -37,6 +37,7 @@ related_concepts:
   - "[[Mind Mapping]]"
   - "[[Problem Solving]]"
   - "[[Brainstorming]]"
+  - "[[Scaffolding]]"
   - "[[Illusion of Competence]]"
   - "[[Structured Teaching]]"
   - "[[Higher-Order Thinking Skills]]"

@@ -41,30 +41,57 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Domain Analysis]]"
   - "[[Emergence]]"
+  - "[[Research Purpose]]"
+  - "[[Problem Solving]]"
+  - "[[Champ]]"
   - "[[Generative Artificial Intelligence]]"
+  - "[[Paradigm]]"
   - "[[Story Line]]"
+  - "[[Saturation]]"
+  - "[[Transcription in Qualitative Research]]"
+  - "[[Central Phenomenon]]"
   - "[[Homework]]"
   - "[[Rich and Thick Description]]"
+  - "[[Dependent Variable]]"
+  - "[[Hawthorne Effect]]"
+  - "[[Hypothesis]]"
   - "[[Positivism]]"
+  - "[[Epistemic Stances]]"
+  - "[[Fitness for Purpose]]"
+  - "[[Presence]]"
+  - "[[Dialogue in Education]]"
+  - "[[Epistemology]]"
+  - "[[Sample Size Determination]]"
+  - "[[Heterogeneity]]"
+  - "[[Falsification]]"
+  - "[[School Leadership]]"
   - "[[Qualitative Codebook]]"
-  - "[[AI Hallucination]]"
-  - "[[Central Phenomenon]]"
+  - "[[Operationalization]]"
+  - "[[Analytic Framework]]"
+  - "[[Going Native]]"
+  - "[[Audit Trail]]"
   - "[[Abstract]]"
 related_theories: []
 related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Content Analysis]]"
+  - "[[Qualitative Research]]"
   - "[[Qualitative Computer Software]]"
   - "[[Grounded Theory]]"
-  - "[[Constant Comparison]]"
+  - "[[Accounts]]"
+  - "[[Random Sampling]]"
   - "[[Non-probability Sampling]]"
+  - "[[Multi-phase Sampling]]"
   - "[[Triangulation]]"
   - "[[Causal Modeling]]"
-  - "[[Accounts]]"
+  - "[[Qualitative Interview]]"
+  - "[[Semi-structured Interview]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Max Weber]]"
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-09-08
 updated: 2026-09-08
@@ -80,7 +107,7 @@ updated: 2026-09-08
 
 ## 章节内容
 
-质性数据分析面临的持久难题之一，是如何在尊重质性数据独特性质的前提下，将海量书面材料缩减为可管理、可理解的规模。[[Data Reduction and Data Display|数据缩减]]构成了质性分析的核心支柱，而实现这一目标最普遍的分析程序即为[[Coding in Qualitative Research|编码]]与[[Content Analysis|内容分析]]。内容分析通过系统分类将庞杂的文本词汇精炼为较少的范畴类别（Weber, 1990, p. 15；Flick, 1998, p. 192）。本章系统阐明编码的层级进阶与操作方法、内容分析的严格定义与11步分析流程、课堂态度与教师工作压力的实证分析范例，以及内容分析在[[Reliability|信度]]、效度与理论生成方面的[[Reflexivity|反思性]]审视。
+质性数据分析面临的持久难题之一，是如何在尊重质性数据独特性质的前提下，将海量书面材料缩减为可管理、可理解的规模。[[Data Reduction|数据缩减]]构成了质性分析的核心支柱，而实现这一目标最普遍的分析程序即为[[Coding in Qualitative Research|编码]]与[[Content Analysis|内容分析]]。内容分析通过系统分类将庞杂的文本词汇精炼为较少的范畴类别（Weber, 1990, p. 15；Flick, 1998, p. 192）。本章系统阐明编码的层级进阶与操作方法、内容分析的严格定义与11步分析流程、课堂态度与教师工作压力的实证分析范例，以及内容分析在[[Reliability|信度]]、效度与理论生成方面的[[Reflexivity|反思性]]审视。
 
 > [!abstract]- Box 30.1　议题清单
 > - **编码** 编码的界定与检索功能、覆盖材料面向、描述性编码分类、编码迭代与[[Working Memory|工作记忆]]负荷限制、开放编码、分析编码、主轴编码、选择性编码、编码包容层级、表格化数据比较分析（表30.1）与去情境化风险。
@@ -227,7 +254,7 @@ updated: 2026-09-08
 
 #### 案例一：课堂教学态度的矩阵表格化比较分析
 
-这一持续比较机制在实证研究中通常依托矩阵表格展开。吉布斯指出，利用二维矩阵表格组织质性数据是开展持续比较的高效工具（Gibbs, 2007, pp. 78–83）。通过将个体案例置于行、将所考察的议题置于列，研究者能够同时实现横向个案分析与纵向议题对比。教材呈现了一所小学三名学生对科学课与音乐课态度的对比数据（pp. 562–563）：
+这一持续比较机制在实证研究中通常依托矩阵表格展开。吉布斯指出，利用二维矩阵表格组织质性数据是开展持续比较的高效[[Data Display|数据展示]]工具（Gibbs, 2007, pp. 78–83）。通过将个体案例置于行、将所考察的议题置于列，研究者能够同时实现横向个案分析与纵向议题对比。教材呈现了一所小学三名学生对科学课与音乐课态度的对比数据（pp. 562–563）：
 
 > [!ref-table] 表30.1　用于比较分析的数据表格化
 >

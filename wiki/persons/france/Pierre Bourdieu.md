@@ -22,6 +22,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Cultural Capital]]"
   - "[[Language Skills]]"
+  - "[[Normal School]]"
   - "[[Epistemology]]"
   - "[[Subjectivism]]"
   - "[[Objectivism]]"

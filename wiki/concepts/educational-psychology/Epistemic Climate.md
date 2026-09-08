@@ -17,6 +17,7 @@ related_concepts:
   - "[[Justificatory Standards]]"
   - "[[Epistemic Resources]]"
   - "[[Dialogue in Education]]"
+  - "[[Scaffolding]]"
   - "[[Constructivist Paradigm]]"
   - "[[Questionnaire]]"
 related_theories:

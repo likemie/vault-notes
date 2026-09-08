@@ -18,6 +18,7 @@ tags:
   - theme/instruction
   - cognition/learning-science
 related_concepts:
+  - "[[Scaffolding]]"
   - "[[Working Memory]]"
   - "[[Problem Solving]]"
   - "[[Metacognition]]"

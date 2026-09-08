@@ -44,7 +44,6 @@ related_persons:
   - "[[Plato]]"
   - "[[Aristotle]]"
   - "[[Confucius]]"
-  - "[[Francis Bacon]]"
   - "[[Chen Kuan-Hsing]]"
 related_facts:
   - "[[Kokutai no Hongi]]"

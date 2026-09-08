@@ -28,7 +28,8 @@ related_concepts:
 related_theories:
   - "[[Critical Geopolitics]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Jürgen Habermas]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Yu_Xie_2025_JHE]]"

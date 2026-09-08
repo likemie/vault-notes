@@ -23,9 +23,7 @@ tags:
   - policy-borrowing
   - nineteenth-century
 related_concepts:
-  - "[[State Educational Sovereignty]]"
   - "[[Normal School]]"
-  - "[[Dual School System]]"
   - "[[Document]]"
   - "[[Bildung]]"
   - "[[Policy Borrowing]]"
@@ -39,7 +37,6 @@ related_persons:
   - "[[Victor Cousin]]"
   - "[[Johann Wilhelm Süvern]]"
 related_facts:
-  - "[[Report on the State of Public Instruction in Prussia]]"
   - "[[Prussian Draft Education Law of 1819]]"
   - "[[Top Institute for Evidence-Based Education Research]]"
 related_arguments:

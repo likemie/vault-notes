@@ -25,6 +25,7 @@ tags:
 related_concepts:
   - "[[Epistemology]]"
   - "[[Zone of Proximal Development]]"
+  - "[[Scaffolding]]"
   - "[[Learner-Centred Education]]"
   - "[[Dialogue in Education]]"
   - "[[Growth]]"

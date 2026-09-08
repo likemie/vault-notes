@@ -19,6 +19,7 @@ tags:
   - theme/critical-thinking
 related_concepts:
   - "[[Mentorship]]"
+  - "[[Scaffolding]]"
   - "[[Critical Thinking]]"
   - "[[Peer-Supported Learning]]"
   - "[[Homework]]"

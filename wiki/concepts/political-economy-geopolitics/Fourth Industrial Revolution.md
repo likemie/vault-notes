@@ -29,8 +29,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Single-Case Design]]"
-related_persons:
-  - "[[Thomas Kuhn]]"
+related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Partaken_2022_Springer]]"

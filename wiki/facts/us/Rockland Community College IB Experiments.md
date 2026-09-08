@@ -22,6 +22,7 @@ related_concepts:
   - "[[General Education]]"
   - "[[International Baccalaureate]]"
   - "[[International Schools]]"
+  - "[[Liberal Education]]"
   - "[[Twelfth-Grade Slump]]"
 related_theories: []
 related_methods: []

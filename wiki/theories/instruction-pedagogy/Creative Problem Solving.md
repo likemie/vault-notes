@@ -24,6 +24,7 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Creativity Training]]"
   - "[[Divergent Thinking]]"
+  - "[[Scaffolding]]"
   - "[[Emergence]]"
   - "[[Brainstorming]]"
   - "[[Habituation]]"
@@ -95,7 +96,7 @@ updated: 2026-09-03
 
 > [!proposition-chain] 核心命题一｜结构化启发式训练显著打破思维定势并提升[[Problem Solving|复杂问题解决]]效能
 > - **前提一** 学习者在自然状态下容易受制于功能固着与思维惯性，倾向于提取近距离常规联想。
-> - **前提二** 显性讲授可操作的认知启发式策略（如属性重构、逆向设问）能为[[Divergent Thinking|发散思维]]与问题表征提供有效认知支架。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, p. 6)]]
+> - **前提二** 显性讲授可操作的认知启发式策略（如属性重构、逆向设问）能为[[Divergent Thinking|发散思维]]与问题表征提供有效[[Scaffolding|认知支架]]。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, p. 6)]]
 >   > [!evidence-grid]- 证据
 >   > - **证据一** Scott et al. (2004) [[Meta-analysis|元分析]]（$k = 70$）显示 CPS 对问题解决表现的促进效应达到 **$d = 0.84$**，对观念生成达到 **$d = 0.75$**。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, p. 7)]]
 >   > - **证据二** Ma (2006) 元分析证实基于 CPS 的复合干预程序平均[[Effect Size|效应量]]达 **$d = 0.77$**。

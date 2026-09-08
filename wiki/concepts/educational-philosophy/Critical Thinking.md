@@ -90,7 +90,6 @@ related_methods:
   - "[[Experimental Research]]"
 related_persons:
   - "[[Deanna Kuhn]]"
-  - "[[Thomas Kuhn]]"
   - "[[Plato]]"
   - "[[Aristotle]]"
 related_facts:
