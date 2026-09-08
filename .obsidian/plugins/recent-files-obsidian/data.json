@@ -5,6 +5,10 @@
       "path": "wiki/concepts/research-methodology/Reflexivity.md"
     },
     {
+      "basename": "Backyard Research",
+      "path": "wiki/concepts/research-methodology/Backyard Research.md"
+    },
+    {
       "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30",
       "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Argument_Jornitz_2022_Bildung_algorithmic",
       "path": "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Jornitz_2022_Bildung_algorithmic.md"
-    },
-    {
-      "basename": "Argument_Partaken_2022_Springer",
-      "path": "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Partaken_2022_Springer.md"
     }
   ],
   "omittedPaths": [],
