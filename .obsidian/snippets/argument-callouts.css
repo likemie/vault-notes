@@ -9661,38 +9661,188 @@
 
 
 /* ═══════════════════════════════════════════════════════════
-   METHOD-FIT — 方法适用判断三格
-   固定 3 列：适合 / 谨慎 / 不适合
+   METHOD-FIT — 方法适用判断
+   纵向分层卡片流：适合（绿）/ 谨慎（琥珀）/ 不适合（红）
    ═══════════════════════════════════════════════════════════ */
 
 .callout[data-callout="method-fit"] {
-  --callout-color: 126, 104, 42;
+  --callout-color: 180, 140, 60;
   --callout-icon: lucide-gauge;
-  border: 1px solid rgba(var(--callout-color), 0.20);
+  border: 1px solid rgba(var(--callout-color), 0.22);
   border-left: 6px solid rgb(var(--callout-color));
   border-radius: 8px;
   background:
-    linear-gradient(135deg, rgba(var(--callout-color), 0.11), transparent 42%),
+    linear-gradient(135deg, rgba(var(--callout-color), 0.09), transparent 45%),
     var(--background-primary);
-  box-shadow: 0 8px 20px rgba(var(--callout-color), 0.07);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.06);
 }
 
-.callout[data-callout="method-fit"] > .callout-title .callout-title-inner::before { content: "FIT"; }
+.theme-dark .callout[data-callout="method-fit"] {
+  --callout-color: 212, 174, 82;
+  border-color: rgba(var(--callout-color), 0.26);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.25);
+}
 
+.callout[data-callout="method-fit"] > .callout-title {
+  color: rgb(var(--callout-color));
+  font-weight: 760;
+  letter-spacing: 0.01em;
+}
+
+.callout[data-callout="method-fit"] > .callout-title .callout-title-inner::before {
+  content: "FIT";
+  display: inline-block;
+  margin-right: 0.55rem;
+  padding: 1px 7px;
+  border-radius: 999px;
+  background: rgba(var(--callout-color), 0.15);
+  color: rgb(var(--callout-color));
+  font-size: var(--fs-label);
+  font-weight: 820;
+  letter-spacing: 0.08em;
+  vertical-align: middle;
+}
+
+.callout[data-callout="method-fit"] > .callout-content {
+  padding: 0.75rem 1rem 0.95rem;
+}
+
+/* 纵向全宽卡片列表，彻底摒弃拥挤三列 */
 .callout[data-callout="method-fit"] > .callout-content > ul {
-  display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 0.7rem;
-  margin: 0;
-  padding: 0;
-  list-style: none;
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 0.65rem !important;
+  margin: 0.25rem 0 0 !important;
+  padding: 0 !important;
+  list-style: none !important;
 }
 
-.callout[data-callout="method-fit"] > .callout-content > ul > li { min-height: 6rem; }
+.callout[data-callout="method-fit"] > .callout-content > ul > li {
+  margin: 0 !important;
+  padding: 0.72rem 1rem !important;
+  border-radius: 8px !important;
+  border: 1px solid rgba(120, 130, 140, 0.18) !important;
+  border-left-width: 4px !important;
+  border-left-style: solid !important;
+  line-height: 1.62 !important;
+  min-height: auto !important;
+  transition: transform 0.16s ease, box-shadow 0.16s ease, border-color 0.16s ease !important;
+}
 
-.callout[data-callout="method-fit"] > .callout-content > ul > li:nth-child(n + 4) {
-  grid-column: 1 / -1;
-  min-height: auto;
+.callout[data-callout="method-fit"] > .callout-content > ul > li:hover {
+  transform: translateX(3px) !important;
+}
+
+/* 内部子列表样式恢复与优化 */
+.callout[data-callout="method-fit"] > .callout-content > ul > li > ul {
+  margin: 0.4rem 0 0.15rem !important;
+  padding-left: 1.3rem !important;
+  list-style: disc !important;
+}
+
+.callout[data-callout="method-fit"] > .callout-content > ul > li > ul > li {
+  margin: 0.25rem 0 !important;
+  padding: 0 !important;
+  border: none !important;
+  background: transparent !important;
+  line-height: 1.62 !important;
+  min-height: auto !important;
+}
+
+/* 标题徽章化设计 */
+.callout[data-callout="method-fit"] > .callout-content > ul > li > strong:first-of-type {
+  display: inline-flex !important;
+  align-items: center !important;
+  padding: 0.15rem 0.55rem !important;
+  border-radius: 5px !important;
+  font-size: 0.88rem !important;
+  font-weight: 780 !important;
+  letter-spacing: 0.03em !important;
+  margin-bottom: 0.35rem !important;
+}
+
+/* ── 三阶语义配色 ── */
+
+/* 1. 适合使用（翠绿） */
+.callout[data-callout="method-fit"] > .callout-content > ul > li:nth-child(1) {
+  border-left-color: rgb(34, 150, 80) !important;
+  background:
+    linear-gradient(180deg, rgba(34, 150, 80, 0.06), transparent),
+    color-mix(in srgb, var(--background-primary) 92%, rgb(34, 150, 80) 8%) !important;
+}
+.callout[data-callout="method-fit"] > .callout-content > ul > li:nth-child(1):hover {
+  box-shadow: 0 4px 14px rgba(34, 150, 80, 0.14) !important;
+  border-color: rgba(34, 150, 80, 0.35) !important;
+}
+.callout[data-callout="method-fit"] > .callout-content > ul > li:nth-child(1) > strong:first-of-type {
+  color: rgb(20, 120, 60) !important;
+  background: rgba(34, 150, 80, 0.14) !important;
+}
+
+/* 2. 谨慎使用（琥珀金） */
+.callout[data-callout="method-fit"] > .callout-content > ul > li:nth-child(2) {
+  border-left-color: rgb(215, 140, 20) !important;
+  background:
+    linear-gradient(180deg, rgba(215, 140, 20, 0.06), transparent),
+    color-mix(in srgb, var(--background-primary) 92%, rgb(215, 140, 20) 8%) !important;
+}
+.callout[data-callout="method-fit"] > .callout-content > ul > li:nth-child(2):hover {
+  box-shadow: 0 4px 14px rgba(215, 140, 20, 0.14) !important;
+  border-color: rgba(215, 140, 20, 0.35) !important;
+}
+.callout[data-callout="method-fit"] > .callout-content > ul > li:nth-child(2) > strong:first-of-type {
+  color: rgb(175, 105, 10) !important;
+  background: rgba(215, 140, 20, 0.14) !important;
+}
+
+/* 3. 不适合使用（玫瑰红） */
+.callout[data-callout="method-fit"] > .callout-content > ul > li:nth-child(3) {
+  border-left-color: rgb(215, 55, 65) !important;
+  background:
+    linear-gradient(180deg, rgba(215, 55, 65, 0.06), transparent),
+    color-mix(in srgb, var(--background-primary) 92%, rgb(215, 55, 65) 8%) !important;
+}
+.callout[data-callout="method-fit"] > .callout-content > ul > li:nth-child(3):hover {
+  box-shadow: 0 4px 14px rgba(215, 55, 65, 0.14) !important;
+  border-color: rgba(215, 55, 65, 0.35) !important;
+}
+.callout[data-callout="method-fit"] > .callout-content > ul > li:nth-child(3) > strong:first-of-type {
+  color: rgb(185, 35, 45) !important;
+  background: rgba(215, 55, 65, 0.14) !important;
+}
+
+/* ── 深色模式色彩微调 ── */
+.theme-dark .callout[data-callout="method-fit"] > .callout-content > ul > li:nth-child(1) {
+  border-left-color: rgb(52, 211, 153) !important;
+  background:
+    linear-gradient(180deg, rgba(52, 211, 153, 0.08), transparent),
+    color-mix(in srgb, var(--background-primary) 88%, rgb(52, 211, 153) 12%) !important;
+}
+.theme-dark .callout[data-callout="method-fit"] > .callout-content > ul > li:nth-child(1) > strong:first-of-type {
+  color: rgb(74, 222, 128) !important;
+  background: rgba(52, 211, 153, 0.18) !important;
+}
+
+.theme-dark .callout[data-callout="method-fit"] > .callout-content > ul > li:nth-child(2) {
+  border-left-color: rgb(251, 191, 36) !important;
+  background:
+    linear-gradient(180deg, rgba(251, 191, 36, 0.08), transparent),
+    color-mix(in srgb, var(--background-primary) 88%, rgb(251, 191, 36) 12%) !important;
+}
+.theme-dark .callout[data-callout="method-fit"] > .callout-content > ul > li:nth-child(2) > strong:first-of-type {
+  color: rgb(251, 191, 36) !important;
+  background: rgba(251, 191, 36, 0.18) !important;
+}
+
+.theme-dark .callout[data-callout="method-fit"] > .callout-content > ul > li:nth-child(3) {
+  border-left-color: rgb(248, 113, 113) !important;
+  background:
+    linear-gradient(180deg, rgba(248, 113, 113, 0.08), transparent),
+    color-mix(in srgb, var(--background-primary) 88%, rgb(248, 113, 113) 12%) !important;
+}
+.theme-dark .callout[data-callout="method-fit"] > .callout-content > ul > li:nth-child(3) > strong:first-of-type {
+  color: rgb(248, 113, 113) !important;
+  background: rgba(248, 113, 113, 0.18) !important;
 }
 
 @media (max-width: 700px) {
@@ -9704,30 +9854,18 @@
       "unit"
       "output";
   }
-
-  .callout[data-callout="method-fit"] > .callout-content > ul {
-    grid-template-columns: 1fr;
-  }
 }
 
 .theme-dark .callout[data-callout="method-scope"] {
   --callout-color: 88, 184, 172;
 }
 
-.theme-dark .callout[data-callout="method-fit"] {
-  --callout-color: 212, 174, 82;
-}
-
-
-
-/* scope+fit 共享：内容内边距 · li 基础 */
-.callout[data-callout="method-scope"] > .callout-content,
-.callout[data-callout="method-fit"] > .callout-content {
+/* scope 独享：内容内边距 · li 基础 */
+.callout[data-callout="method-scope"] > .callout-content {
   padding: 0.85rem 1rem 0.95rem;
 }
 
-.callout[data-callout="method-scope"] > .callout-content > ul > li,
-.callout[data-callout="method-fit"] > .callout-content > ul > li {
+.callout[data-callout="method-scope"] > .callout-content > ul > li {
   margin: 0;
   padding: 0.78rem 0.86rem;
   border: 1px solid rgba(var(--callout-color), 0.15);
