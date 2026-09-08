@@ -4175,10 +4175,10 @@
   align-items: start;
 }
 
-/* 导语 <p> 跨满整行 */
+/* 导语 <p> 跨满整行（仅限非 callout 导语，避免无导语时 col-l 误跨整行） */
 .callout:has(> .callout-content > .callout[data-callout="col-l"]
                     + .callout[data-callout="col-r"])
-  > .callout-content > :first-child {
+  > .callout-content > :not(.callout):first-child {
   grid-column: 1 / -1;
 }
 
@@ -4238,9 +4238,9 @@
   align-items: start;
 }
 
-/* li 内第一个子元素（导语段落）跨满两列 */
+/* li 内第一个子元素（导语段落）跨满两列（排除 callout 与包装 blockquote） */
 .callout li:has(.callout[data-callout="col-l"]
-              + .callout[data-callout="col-r"]) > :first-child {
+              + .callout[data-callout="col-r"]) > :not(.callout):not(blockquote):first-child {
   grid-column: 1 / -1;
 }
 

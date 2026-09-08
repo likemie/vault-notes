@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Story Line",
+      "path": "wiki/concepts/research-methodology/Story Line.md"
+    },
+    {
       "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30",
       "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30.md"
+    },
+    {
+      "basename": "Transcription in Qualitative Research",
+      "path": "wiki/concepts/research-methodology/Transcription in Qualitative Research.md"
     },
     {
       "basename": "Grounded Theory",
@@ -191,14 +199,6 @@
     {
       "basename": "Argument_Zelinka_2022_SCD_subjectivity",
       "path": "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Zelinka_2022_SCD_subjectivity.md"
-    },
-    {
-      "basename": "Argument_Boyadjieva_2022_Springer",
-      "path": "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Boyadjieva_2022_Springer.md"
-    },
-    {
-      "basename": "Argument_Amos_2022_Springer",
-      "path": "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Amos_2022_Springer.md"
     }
   ],
   "omittedPaths": [],
