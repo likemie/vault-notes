@@ -7394,7 +7394,9 @@
     "aliases": [
       "核心现象",
       "central concept",
-      "central idea"
+      "central idea",
+      "核心范畴",
+      "core category"
     ]
   },
   {
@@ -12986,6 +12988,17 @@
       "qualitative data analysis software",
       "QDAS",
       "CAQDAS"
+    ]
+  },
+  {
+    "title": "Qualitative Content Analysis",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Qualitative Content Analysis.md",
+    "aliases": [
+      "质性内容分析",
+      "QCA",
+      "qualitative text analysis",
+      "质性文本分析"
     ]
   },
   {
