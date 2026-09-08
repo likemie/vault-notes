@@ -90,7 +90,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-09-06
+updated: 2026-09-08
 ---
 
 # Policy Borrowing
@@ -340,19 +340,13 @@ updated: 2026-09-06
 
 ## 相关研究
 
-> [!evidence-grid] 典型研究与应用案例
-> - **19 世纪欧美跨国借用分流：法国[[Guizot Law of 1833|基佐法案]]实定法转置 vs 北美马萨诸塞[[Common School Movement|公学运动]]政治合法化反诘** [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] 系统剖析了 19 世纪欧美跨国借用的机制分野。在法国，[[Victor Cousin|维克多·库森]]作为哲学家兼行政决策者赴德考察，发表 1831 年《普鲁士公共教育现状报告》，并主笔将其条文系统法典化为奠定法国国民初等教育基石的 [[Guizot Law of 1833|1833年基佐法案]]，开创欧陆“实定法直接转置”模式；而在美洲，[[Horace Mann|霍勒斯·曼]]身处联邦分权与缺乏中央强制命令的博弈语境，面对波士顿 31 位[[Grammar School|文法学校]]校长与正统教会对公学改革的猛烈围攻，战略性剥离普鲁士君主专制外壳，抽取其公学师训与直观教学实绩，以“专制君主尚能办好公学、自由共和国任由公民愚昧岂非文明耻辱”发起降维政治反诘，开创了将外部成功实绩作为国内争议改革合法化依据（legitimating rationales）的经典比较借用[[Paradigm|范式]]。
-> - **[[Liberal Studies|香港通识教育科]]（LS）创立与废除** [[Argument_Yan_2025_JCS|Yan & Morris (2025)]] 追踪了 LS 从创立到废除的完整生命周期。在创立阶段（2009），港府以“[[Lifelong Learning|终身学习]]”“[[Knowledge-Based Economy|知识经济]]”和 [[IB Diploma Programme|IBDP]] 话语论证改革必要性，这些全球论述被高度工具性地用来解决本地政治问题（政府合法性下降、学制调整需求）。在废除阶段（2021），随着政治局势剧变，全球参照话语彻底消失，以“国家安全”和主权控制为唯一逻辑，展现了借用行为对本地政治合法性需求的依附。
-> - **香港与英格兰的双向借用及 LS and IBDP 比较** Forestier & Crossley (2015) 揭示了香港与英格兰之间“双向借用”的对流特征。而 Forestier et al. (2016) System 比较了香港通识科（LS）与[[International Baccalaureate|国际文凭]]课程（IBDP）的课程设计，证实了“选择性借用”的运作机制：港府参照了 IBDP 的跨学科整合和独立探究形式，但排除了其国际化知识观和批判性哲学内核，使之服务于本地政策议程。
-> - **[[Visible Learning|Visible Learning]] 在俄罗斯的政策借用与拒绝** Hattie 的 Visible Learning 于 2017 年在俄罗斯翻译出版后受到学界与官僚体系的热烈欢迎。然而，[[Argument_Golovchin_2019_ESC|Golovchin (2019)]] 展示了俄罗斯本土学者基于方法论缺陷（[[Heterogeneity|异质性]]过高）、文化不匹配（教师“去专业化”风险）以及官僚化威胁（报表工作量激增），最终向政策决策提出“拒绝采用”建议的过程。
-> - **英国对东亚模式与芬兰模式的“话语借用”** You & Morris (2016) 记录了英格兰等国大量借用芬兰模式或东亚 [[PISA]] 优胜模式的话语，来论证本国[[School Autonomy|学校自主权]]与教师专业化改革的必要性，但实际体制并未发生对应移植，凸显了“话语借用”与“实践落地”之间的巨大鸿沟。
-> - **PISA 与[[Reference Society|参考社会]]的制度化** [[Argument_Li_2025_HSSC|Li et al. (2025)]] 综述了 PISA 如何通过国际排名将芬兰、上海、日本、香港确立为全球“参考社会”，为各国提供借用模板。韩国的案例显示，其政策参考社会经历了从传统的日本模式（PISA 前）到芬兰模式（PISA 2009 后）的动态切换。
-> - **中国晚清对日本教育的借用** [[Argument_Rappleye_2006_RCIE|Rappleye (2006)]] 剖析了甲午战争后中国大规模向日本学习教育体系的动力：当时改革派视日本为现代化典范，保守派视日本为保存儒家秩序的盾牌。这种政见对立阵营的“不可能联盟”共同促成了对日本教育模式的实际借用。
-
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Yan_2025_JCS|Yan & Morris (2025)]] — 追踪香港通识科创立与废除的完整生命周期，展现了政策借用框架的高压政治语境失效边界条件。
-> - [[Argument_Rappleye_2006_RCIE|Rappleye (2006)]] — 提出[[Cross-National Attraction|跨国吸引力]]情境[[Concept Mapping|概念地图]]，剖析[[Pre-Transfer Agency|前转移能动性]]与吸引力动机。
-> - [[Argument_Cowen_2009_CE|Cowen (2009b)]] — 阐述教育转移、[[Transfer Translation Transformation|转译]]与形态变异（reforms morph as they move）的分析视角与变异阶段。
-> - [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] — 详细呈现了 [[Visible Learning]] 进入俄罗斯教育界后，遭遇方法论、文化和制度冲突并建议拒绝的完整分析过程。
-> - [[Argument_Amos_2022_Springer|Amos (2022)]] — 剖析[[Michael Sadler|迈克尔·萨德勒]]和迈克尔·考恩的学术遗产，说明政策借用如何随着现代性转型从偶发外交变成常规合法化手段。
-> - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 将国际关系三大思想传统作为透镜，系统剖析了政策借用与流动的地缘政治焦虑底色。
+> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] — 系统剖析 19 世纪欧美跨国借用的机制分野：维克多·库森在法国推行的普鲁士教育法案“实定法直接转置”模式，与霍勒斯·曼在北美将普鲁士公学实绩作为反击保守派的“政治合法化论证依据”模式。
+> - [[Argument_Rappleye_2006_RCIE|Rappleye (2006)]] — 构建跨国吸引力情境概念地图，剖析前转移能动性与吸引力四种修辞动机，并以甲午战争后中国晚清改革派与保守派基于不同政治动机共同借用日本教育体制为例展开实证分析。
+> - [[Argument_Cowen_2009_CE|Cowen (2009b)]] — 建立“转移—转译—形态变异”分析视角，论证教育政策元素在跨国流动中受微观权力与时空重构必然发生实质形态改变。
+> - [[Argument_Yan_2025_JCS|Yan & Morris (2025)]] — 追踪香港通识教育科从创立到废除的生命周期，揭示政策借用作为本土政治议程外化合法化工具的运作机制，并界定高压威权行政接管下政策借用分析框架的失效边界。
+> - [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] — 详细呈现可见的学习（Visible Learning）进入俄罗斯教育界后，因遭遇方法论异质性、教师去专业化风险与行政报表官僚化威胁，最终本土学者提出“拒绝采用”建议的过程。
+> - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — 综述 PISA 国际排名如何将东亚与芬兰等确立为全球“参考社会”，剖析韩国政策借用从日本模式向芬兰模式动态切换的制度化历程。
+> - [[Argument_Beech_2015_GSE|Beech & Artopoulos (2015)]] — 批判传统政策借用局限于国家官方书面文本的静态假设，从网络治理视角揭示去中心化非官方网络中话语权力的微观流转与转译机制。
+> - [[Argument_Amos_2022_Springer|Amos (2022)]] — 剖析迈克尔·萨德勒和迈克尔·考恩的学术遗产，说明政策借用如何随着现代性社会系统翻转从偶发外交变成常规合法化手段。
+> - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 将国际关系三大思想传统（现实主义、理性主义、革命主义）引入政策流动研究，系统解构政策借用背后的地缘政治与生存焦虑底色。

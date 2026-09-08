@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-14
-updated: '2026-08-27'
+updated: 2026-09-08
 ---
 
 # Phenomenology
@@ -198,5 +198,4 @@ updated: '2026-08-27'
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024]] — 系统梳理了现象学作为[[Phenomenon-Based Learning|现象本位学习]]（PhBL）核心哲学根源的脉络，并以此审视芬兰课程政策中的能动性与全球治理绩效主义的拉扯。
 > - [[Argument_Larsen_2019_EducSci|Larsen, 2019]] — 借助现象学传统中对身体、自由和人地关系的阐述，批判了 Hattie 的”可见学习”[[Paradigm|范式]]及其对测量的盲目崇拜。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|Cohen et al., 2011, Ch. 21]] — 详细介绍了 Hycner（1985）将现象学原理应用于访谈数据分析的 15 步操作程序，包括[[Epoché|悬置]]、意义单位划定、聚类、主题化和综合摘要，是现象学作为[[Qualitative Research|质性研究]]方法的具体操作指南；第29章在系统性数据[[Analytic Framework|分析框架]]内再次介绍该程序。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]] — 在教科书中将现象学作为[[Interpretive Paradigm|诠释范式]]的核心支柱进行系统介绍，阐明其在质性教育研究设计中的基本主张。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen, Manion & Morrison (2011)]] — 将现象学确立为[[Interpretive Paradigm|诠释范式]]的核心认识论支柱，并系统推导其质性研究规程：涵盖诠释论对生活世界主观建构的本体定位（Ch. 1），以及基于 Hycner（1985）将现象学原理转化为访谈分析 15 步操作程序（包括[[Epoché|悬置]]、意义单位划定、聚类主题化与综合摘要，Ch. 21, 29）。

@@ -51,7 +51,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-06'
-updated: 2026-07-09
+updated: 2026-09-08
 ---
 
 # Phenomenon-Based Learning
@@ -193,6 +193,4 @@ updated: 2026-07-09
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - **芬兰基础教育国家核心课程** 将跨学科与现象本位学习正式整合进国家课程体系。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 2]]
-> - **SveaSus 项目** 围绕可持续性，在世界遗产地开展具身、艺术与多语的 PhBL 高等教师教育探索。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 1]]
-> - **[[OECD|经济合作与发展组织]]** 其推动的 [[21st Century Skills and Competencies Discourse|21世纪技能]] 和 transversal competencies 政策构成芬兰 PhBL 课程化的全球治理背景。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 8–9]]
+> - [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff (2024)]] — 系统阐释现象本位学习（PhBL）的欧陆教育哲学根源与政策演变：剖析芬兰国家核心课程的跨学科整合机制、SveaSus 项目在世界遗产地的具身教师教育实验，以及 OECD 21 世纪技能绩效话语对整体教化理想的工具化侵蚀。

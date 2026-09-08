@@ -46,7 +46,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-16
-updated: 2026-07-19
+updated: 2026-09-08
 ---
 
 # Critical Theory
@@ -150,7 +150,6 @@ updated: 2026-07-19
 > [!dev-timeline] 发展脉络
 > - **1930s-1940s** — 法兰克福学派奠基：阿多诺、霍克海默、马尔库塞等从马克思主义传统出发，批判工具理性和文化工业。
 > - **1972** — [[Jürgen Habermas|哈贝马斯]]出版《知识与人类兴趣》，提出三种知识构成性兴趣的框架，将批判理论系统化为[[Epistemology|认识论]]和方法论基础。
-> - **1980s-1990s** — 批判理论进入教育研究：Carr & Kemmis (1986)、Grundy (1987) 将[[Ideology Critique|意识形态批判]]和[[Action Research|行动研究]]引入课程和教育实践分析。
 > - **1980s-1990s** — 批判理论进入教育研究：Carr & Kemmis (1986)、Grundy (1987) 将[[Ideology Critique|意识形态批判]]和[[Action Research|行动研究]]引入课程和教育实践分析。Grundy 建构行动研究的三分类型学——技术性、实践性、解放性——直接对应哈贝马斯的三种认识兴趣。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 272–273)]]
 > - **2007** — Mertens 提出变革[[Paradigm|范式]]（[[Transformative Paradigm]]），将批判理论的解放兴趣整合进[[Mixed Methods Research|混合方法研究]]框架。
 
@@ -173,9 +172,7 @@ updated: 2026-07-19
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al. (2011, pp. 117–149)]] — 第2.3节展示了批判理论在课程研究中的应用：Tyler原理的[[Positivism|实证主义]]预设被批判，课程被重读为意识形态选择。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al. (2011, pp. 151–203)]] — 第2.4节介绍了[[Participatory Research|参与式研究]]作为批判理论的实践表达。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al. (2011, pp. 205–408)]] — 第2.5节讨论了[[Feminist Research|女性主义研究]]对批判理论传统的延续与拓展。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen, Manion & Morrison (2011)]] — 系统阐释批判教育研究的理论框架与应用图景（Ch. 2）：解构 Tyler 课程原理的[[Positivism|实证主义]]预设并将课程重读为意识形态选择，阐明[[Participatory Research|参与式研究]]的社区赋权逻辑，并论述[[Feminist Research|女性主义研究]]对批判传统的认识论拓展。
 
 ---
 

@@ -65,7 +65,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-17
-updated: 2026-09-03
+updated: 2026-09-08
 ---
 
 # International Baccalaureate
@@ -220,9 +220,7 @@ updated: 2026-09-03
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Peterson_1987_OpenCourt_Ch04|Peterson (1987, Ch. 4)]] — 以六年试验说明 IB 只有把课程、考试、学校、资格承认、行政和收入连接为制度闭环，才能从教育改革方案转为常设国际资格。
-> - [[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5)]] — 沃特福德加入 [[United World Colleges|UWC]] 的课程需要推动十一月考试季提前实施，说明成员学校能够反向改变国际课程的全球时间基础设施。
-> - [[Argument_Peterson_1987_OpenCourt_Ch06|Peterson (1987, Ch. 6)]] — 说明地方课程自主、AP 制度先例、区域筹资和教师培训怎样把 IB 从[[International Schools|国际学校]]资格转化为北美公立高中改革工具。
+> - [[Argument_Peterson_1987_OpenCourt|Peterson (1987)]] — 系统记录 IB 的创生与制度化历程：涵盖六年试验期将课程、考试、行政与资格承认整合为常设国际资格的运行机制（Ch. 4）、沃特福德加入 [[United World Colleges|UWC]] 推动十一月考试季确立对全球考试周期的重构（Ch. 5），以及地方课程自主与教师培训怎样使 IB 转化为北美公立高中的改革工具（Ch. 6）。
 > - [[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010)]] — 分析了 IB 在[[International Education|国际教育]]中的扩张，并讨论了其质量保障机制及被引入非西方语境时的文化张力。
 > - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 提供了澳大利亚 IB 毕业生在[[Critical Thinking|批判性思维]]和学术成就上的大规模量化实证数据。
 > - [[Argument_Metli_2022_IJER|Metli & Akış (2022)]] — 聚焦 [[IB Diploma Programme|IBDP]] 的核心组件，从机制层面探讨了如何通过“[[Concurrency of Learning|并发学习]]（Concurrency of Learning）”来实现其标榜的整体学习理念。

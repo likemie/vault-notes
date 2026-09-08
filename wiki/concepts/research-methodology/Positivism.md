@@ -356,23 +356,14 @@ updated: 2026-09-08
 
 实证主义及其批评贯穿了教育哲学、比较教育与研究方法论的经典[[Document|文献]]。
 
-> [!evidence-grid] 典型研究与应用案例
-> - **教育研究方法论中实证[[Paradigm|范式]]与后实证转型的系统解构** [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] 系统复原了孔德实证主义的起源、四大科学[[Hypothesis|假设]]、[[Anthony Giddens|Giddens]] 识别的方法论统一与产出同构双重预设，并综合存在主义（克尔凯郭尔）、法兰克福学派（[[Jürgen Habermas|哈贝马斯]]）与社会学内部批评，展现了当代教育研究向后实证与批判范式演进的完整版图。
-> - **19 世纪比较教育现代主义发轫期的准实证科学与伦理统摄** [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] 剖析了比较教育学奠基人[[Marc-Antoine Jullien|朱利安]]构建的准实证科学体系，澄清其事实分析图表与跨国[[Questionnaire|问卷]]归属于欧陆二级精神科学，揭示其经验收集始终从属于全人[[Bildung|教化]]与社会改良，强力反驳了 20 世纪行为主义实证派以[[Value Neutrality|价值中立]]为由指责其带有主观偏见的辉格史错置。
-> - **20 世纪 60 年代比较教育实证主义围剿历史学派与科学话语反思** [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009)]] 系统梳理 1960 年代诺亚与埃克斯坦（Noah & Eckstein）、霍姆斯（Holmes）、安德森（Anderson）与埃普斯坦（Epstein）等实证主义学者对历史比较学派发起的范式围剿，揭示实证派如何从依赖私人洞察力、缺乏因果预测力、个殊事实无法抽象以及涉嫌神秘主义四个维度将历史传统贬为“前科学”，并反思实证科学对英语 *Science* 狭隘词义垄断的[[Epistemology|认识论]]局限。
-> - **科学教育中对程式化实证[[Scientific Method|科学方法]]的[[Practical Epistemology|实践认识论]]超越** [[Argument_Sandoval_2005_SE|Sandoval (2005)]] 揭示中小学科学教育深受教条实证主义影响，将科学探究扭曲为呆板的线性实验室规程，进而呼吁突破幼稚的[[Formal Epistemology|形式认识论]]，转向关注学生在真实探究情境中的[[Practical Epistemology|实践认识论]]。
-> - **[[Evidence-Based Education|循证教育]]中新实证主义[[Meta-analysis|元分析]]数据霸权与教学[[Ontology|本体论]]抽空批判** [[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe (2024)]] 剖析当代循证教育狂热标榜的实证主义科学话语，揭示将教学质量简化为元分析[[Effect Size|效应量]]与量化控制[[Variable|变量]]，本质上是对微观教学实践关系性本体论的粗暴抽空。
-> - **比较教育学实证[[Scientific Paradigm|科学范式]]的内部[[Epistemological Break|认识论断裂]]与规划合法化共谋** [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] 深入剖析 1960 年代比较教育实证科学范式内部围绕“法则性质”的深刻分野（芝加哥学派的恒常规律 vs 哥大学派的变量函数共变 vs 霍姆斯的权变社会学法则与预测划界），揭示实证主义之所以在实践中胜出，根源于其充当了战后国家五年计划与技术援助的政治[[Social Science as Legitimation Alibi|合法化借口]]（alibi），并追踪其在现实危机、量子不确定性转向与后现代思潮冲击下向多元范式演进的终结轨迹。
-> - **比较教育学中实证主义霸权的历史演化与形态变异** [[Argument_Cowen_2009_CE|Cowen (2009b)]] 回顾比较教育学科发展史，指出以美国 1960 年代科学实证派（如诺亚与埃克斯坦）为代表的实证主义霸权曾试图将跨国比较改造为脱离情境的假设检验与定律发现，最终在学科反思中被“转移-[[Transfer Translation Transformation|转译]]-变形”的后实证视角所解构。
-
-> [!evidence-grid-a]- 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 详尽剖析实证主义哲学原则与方法论范式演进。
-> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] — 剖析 19 世纪初现代主义准实证科学的伦理改良内核与二级精神科学定位。
-> - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009)]] — 剖析 20 世纪 60 年代比较教育实证主义范式对历史学派的系统围剿及其认识论预设。
-> - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 剖析比较教育实证科学范式的内部认识论分野、政治合法化共谋及其多元化解体。
-> - [[Argument_Sandoval_2005_SE|Sandoval (2005)]] — 批判实证主义对科学探究的程式化窄化。
-> - [[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe (2024)]] — 批判当代循证教育新实证主义的数据霸权。
-> - [[Argument_Cowen_2009_CE|Cowen (2009b)]] — 反思比较教育学中的实证主义范式与形态变异。
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 系统复原孔德实证主义的起源、四大科学[[Hypothesis|假设]]、[[Anthony Giddens|Giddens]] 识别的方法论统一与产出同构双重预设，并综合存在主义（克尔凯郭尔）、法兰克福学派（[[Jürgen Habermas|哈贝马斯]]）与社会学内部批评，展现当代教育研究向后实证与批判范式演进的完整版图。
+> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] — 剖析比较教育学奠基人[[Marc-Antoine Jullien|朱利安]]构建的准实证科学体系，澄清其事实分析图表与跨国[[Questionnaire|问卷]]归属于欧陆二级精神科学，揭示其经验收集始终从属于全人[[Bildung|教化]]与社会改良，强力反驳 20 世纪行为主义实证派以[[Value Neutrality|价值中立]]为由指责其带有主观偏见的辉格史错置。
+> - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009)]] — 系统梳理 20 世纪 60 年代诺亚与埃克斯坦（Noah & Eckstein）、霍姆斯（Holmes）、安德森（Anderson）与埃普斯坦（Epstein）等实证主义学者对历史比较学派发起的范式围剿，揭示实证派如何从依赖私人洞察力、缺乏因果预测力、个殊事实无法抽象以及涉嫌神秘主义四个维度将历史传统贬为“前科学”，并反思实证科学对英语 *Science* 狭隘词义垄断的[[Epistemology|认识论]]局限。
+> - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 深入剖析 20 世纪 60 年代比较教育实证科学范式内部围绕“法则性质”的深刻分野（芝加哥学派的恒常规律 vs 哥大学派的变量函数共变 vs 霍姆斯的权变社会学法则与预测划界），揭示实证主义之所以在实践中胜出，根源于其充当了战后国家五年计划与技术援助的政治[[Social Science as Legitimation Alibi|合法化借口]]（alibi），并追踪其在现实危机、量子不确定性转向与后现代思潮冲击下向多元范式演进的终结轨迹。
+> - [[Argument_Sandoval_2005_SE|Sandoval (2005)]] — 揭示中小学科学教育深受教条实证主义影响，将科学探究扭曲为呆板的线性实验室规程，进而呼吁突破幼稚的[[Formal Epistemology|形式认识论]]，转向关注学生在真实探究情境中的[[Practical Epistemology|实践认识论]]。
+> - [[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe (2024)]] — 剖析当代循证教育狂热标榜的实证主义科学话语，揭示将教学质量简化为元分析[[Effect Size|效应量]]与量化控制[[Variable|变量]]，本质上是对微观教学实践关系性本体论的粗暴抽空。
+> - [[Argument_Cowen_2009_CE|Cowen (2009b)]] — 回顾比较教育学科发展史，指出以美国 1960 年代科学实证派（如诺亚与埃克斯坦）为代表的实证主义霸权曾试图将跨国比较改造为脱离情境的假设检验与定律发现，最终在学科反思中被“转移-[[Transfer Translation Transformation|转译]]-变形”的后实证视角所解构。
 
 ---
 

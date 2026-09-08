@@ -90,7 +90,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 # Postpositivism
@@ -295,15 +295,10 @@ updated: 2026-09-07
 
 后[[Positivism|实证主义]]构成了解构实证霸权、连接质性与量化路径以及重塑学科历史哲学的核心[[Epistemology|认识论]]枢纽。
 
-> [!evidence-grid] 典型研究与应用案例
-> - **教育研究方法论中后实证、后现代与复杂性演化总图景** [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011)]] 系统复原了从经典实证主义危机走向后实证主义、[[Postmodernism|后现代主义]]与[[Complexity Theory|复杂性理论]]的完整[[Paradigm|范式]]谱系，深刻剖析了后实证主义关于知识推测性、理论与价值负荷、多元实在论以及与诠释/质性取向亲和性的认识论内涵。
-> - **历史-哲学比较传统对实证主义霸权的后实证超越与广义科学重建** [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009)]] 系统剖析 1960 年代实证主义对比较教育历史学派的学科围剿，通过认识论溯源恢复德语 *Wissenschaft* 与希腊语 *Episteme* 广义科学传统，并援引[[Crane Brinton|布林顿]]比较史学确立非普适探索性假说理论，为[[Historical-Comparative Method|历史比较法]]确立了现代科学合法性，构筑了以人（*anthropos*）与全人[[Bildung|教化]]（*[[Paideia]]*）为中心的人文防线。
-> - **后实证主义作为当代严谨量化与[[Mixed Methods Research|混合方法研究]]世界观的体系化确立** [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] 在全书核心框架中将后实证主义确立为[[Quantitative Research|量化研究]]与部分混合方法研究的主导世界观，系统阐述其决定论与还原论取向、推测性知识检验以及对严密测量[[Reliability|信度]]效度和系统误差审查的方法论规范。
-
-> [!evidence-grid-a]- 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011)]] — 详尽阐释后实证主义批判[[Rationalism in International Relations|理性主义]]源流、多元实在论及与复杂性理论的亲缘性。
-> - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009)]] — 借由德语 *Wissenschaft* 广义科学观与中程非普适探索性假说理论，实现对实证狭隘霸权的认识论超越。
-> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 系统界定后实证主义在当代量化实验、调查与混合方法设计中的核心指导地位。
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 系统复原从经典实证主义危机走向后实证主义、[[Postmodernism|后现代主义]]与[[Complexity Theory|复杂性理论]]的完整[[Paradigm|范式]]谱系，深刻剖析后实证主义关于知识推测性、理论与价值负荷、多元实在论以及与诠释/质性取向亲和性的认识论内涵（Ch. 1）。
+> - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009)]] — 系统剖析 1960 年代实证主义对比较教育历史学派的学科围剿，通过认识论溯源恢复德语 *Wissenschaft* 与希腊语 *Episteme* 广义科学传统，并援引[[Crane Brinton|布林顿]]比较史学确立非普适探索性假说理论，为[[Historical-Comparative Method|历史比较法]]确立现代科学合法性，构筑以人（*anthropos*）与全人[[Bildung|教化]]（*[[Paideia]]*）为中心的人文防线。
+> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 在全书核心框架中将后实证主义确立为[[Quantitative Research|量化研究]]与部分混合方法研究的主导世界观，系统阐述其决定论与还原论取向、推测性知识检验以及对严密测量[[Reliability|信度]]效度和系统误差审查的方法论规范。
 
 ---
 

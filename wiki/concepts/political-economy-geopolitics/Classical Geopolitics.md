@@ -55,7 +55,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-07-09
+updated: 2026-09-08
 ---
 
 ## 定义
@@ -154,19 +154,9 @@ updated: 2026-07-09
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Moisio_2022_Springer|Moisio (2022)]] — 界定古典地缘政治并分析其在当代科技竞争中的持续运作
-> - [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] — 以古典地缘政治为对照基线，论证其对当代[[Geopolitics of Higher Education|高等教育地缘政治]]的解释力不足
-> - [[Argument_Partaken_2022_Springer|Partaken (2022)]] — 追溯"geopolitics"的词源及其从神学属性到地缘政治教义的演变
-> - [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral (2022)]] — 论述古典领土权力逻辑在当代仍与[[Relational Space|关系性空间]]想象共构运作
-> - [[Argument_Marginson_2025_ROE|Marginson (2025)]] — 以 Massey 关系性空间理论重新定义地缘政治，超越古典框架
-> - [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]] — 将古典地缘政治定位为高等教育地缘政治研究发展脉络的逻辑起点，系统阐述其核心[[Hypothesis|假设]]链及对高等教育的分析盲区
-
-> [!example] 相关案例
-> - 国际关系与安全研究 — 古典地缘政治仍是理解军事冲突和领土争端的主导框架
-> - 比较教育 — Moisio and Thompson & Parreira do Amaral 将其作为理解高等教育从民族国家框架中"脱嵌"的对照基线
-> - [[Sino-American Trade War|中美贸易战]] — 古典领土权力逻辑在当代的典型体现[[Argument_Partaken_2022_Springer|(Partaken, 2022, pp. 67, 84)]]
-> - 科技政治 — 中美技术竞争（如美国限制华为在中国以外地区的运营）体现了古典地缘政治逻辑在数字时代的延伸[[Argument_Moisio_2022_Springer|(Moisio, 2022, p. 26)]]
-> - [[Fulbright Program|富布莱特计划]]与冷战高等教育 — 美苏通过学术流动输出意识形态，体现高等教育作为古典地缘政治附属工具的历史形态[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 4)]]
-
-> [!exegesis]- [[Argument_Rizvi_2022_Springer|Rizvi (2022)]]：古典地缘政治作为高等教育分析的对照基线
-> Rizvi 将古典地缘政治（以 Dalby 2013 的现实主义地缘政治为代表）作为其分析[[Geopolitics of Higher Education|高等教育地缘政治]]动态的对照基线。他的论点是：这一[[Realism in International Relations|现实主义]]理解不足以解释当代高等教育中的地缘政治动态——它只能看到国家间的权力斗争，看不到新兴的跨国社会想象、[[Snowball Sampling|网络化]]关系和全球教育市场中意识形态与文化的多重维度。用[[Critical Geopolitics|批判地缘政治学]]的视角替代古典地缘政治，是 Rizvi 整章论证的概念起点。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 90–91)]]
+> - [[Argument_Moisio_2022_Springer|Moisio (2022)]] — 界定古典地缘政治的核心逻辑，并通过中美技术竞争（如限制华为运营等科技政治案例）分析其在当代科技竞争与数字时代的延伸运作。
+> - [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] — 以 Dalby 现实主义古典地缘政治为对照基线，指出纯粹国家间权力斗争视角难以解释当代高等教育的跨国社会想象与网络化关系，主张转向批判地缘政治学视角。
+> - [[Argument_Partaken_2022_Springer|Partaken (2022)]] — 追溯“geopolitics”词源及其从神学属性到地缘政治教义的演变，并以中美贸易战为例剖析古典领土权力逻辑在当代的典型体现。
+> - [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral (2022)]] — 论述古典领土权力逻辑在当代仍与关系性空间想象共构运作，并作为理解高等教育从民族国家框架中“脱嵌”的对照基线。
+> - [[Argument_Marginson_2025_ROE|Marginson (2025)]] — 以 Massey 关系性空间理论重新定义地缘政治，超越古典国家中心与领土绝对主义框架。
+> - [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]] — 将古典地缘政治定位为高等教育地缘政治研究的逻辑起点，剖析美苏冷战富布莱特计划等学术流动工具化案例，阐释其对高等教育能动性分析的盲区。

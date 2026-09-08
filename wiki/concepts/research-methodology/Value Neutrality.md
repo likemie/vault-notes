@@ -281,22 +281,14 @@ updated: 2026-09-08
 
 价值中立概念的演进在西方教育学术[[Document|文献]]中积累了丰硕的论述。
 
-> [!evidence-grid] 典型研究与应用案例
-> - **战后比较教育实证清洗运动与价值中立的内在反思** [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] 剖析战后实证学派如何通过清除“价值负荷”确立科学身份，同时系统梳理霍姆斯对实证派指标[[Operationalization|操作化]]假中立的尖锐批判，揭示中立口号与战后理性规划技术官僚体制的共生关系。
-> - **[[Evidence-Based Education|循证教育]]中“中立统计均值”对教育目的与阶级平等的遮蔽** [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] 深入剖析英国 [[Education Endowment Foundation|EEF]] 工具包等循证实践，揭示技术官僚如何借助“价值中立证据”的科学修辞，回避关于工人阶层贫困与资本主义教育不平等的根本性政治辩论，消解教师的[[Professional Judgment|专业判断力]]。
-> - **19 世纪初现代主义教育科学对价值中立的拒绝与 20 世纪实证派的辉格史错置** [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] 系统剖析早期比较教育文献，指出[[Marc-Antoine Jullien|朱利安]][[Questionnaire|问卷]]对道德宗教与全人[[Bildung|教化]]的鲜明预设绝非研究“缺陷”，而是欧陆精神科学中经验事实服从于社会伦理改良的必然要求，强力清算了实证派的教条指责。
-> - **“为什么有效不等于好教育”：对循证教育价值盲视的哲学反思** [[Argument_Biesta_2010_SPE|Biesta (2010)]] 论述教育不仅关乎技能传授的效率，更关乎民主公民的培育与自主主体的生成；将教育决策托付给去价值的中立实证数据，是对教育民主本质的重大背叛。
-> - **澳大利亚脑科学国家课程中的伪价值中立与权力动员** [[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe (2024)]] 剖析了脑科学证据如何被包装为“不偏不倚的自然科学真理”，从而合法化国家对初等教育课程控制权的强行收紧。
-> - **全球教育绩效排名指标体系的意识形态内核与政治属性** [[Argument_Rambla_2022_Springer|Rambla (2022)]] 揭示 [[PISA]] 等国际大型测评所宣称的“客观中立比较”，实际上深度嵌入了全球资本主义竞争的政治经济学逻辑。
-
-> [!evidence-grid-a]- 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 系统梳理西方研究方法论中价值中立的缘起、实证前提及其遭受的批判。
-> - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 考掘战后实证清洗运动中的价值中立诉求及其遭遇的情境[[Epistemology|认识论]]反思。
-> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] — 阐释早期教育科学对价值中立的拒绝与全人伦理统摄。
-> - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 批判循证教育以价值中立修辞服务新自由主义审计治理。
-> - [[Argument_Biesta_2010_SPE|Biesta (2010)]] — 从教育哲学高度解构“什么有效”的价值虚无。
-> - [[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe (2024)]] — 揭露脑科学中立证据背后的政治动员本质。
-> - [[Argument_Rambla_2022_Springer|Rambla (2022)]] — 剖析国际量化评估指标的意识形态利益嵌入。
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 系统梳理西方研究方法论中价值中立的缘起、实证主义预设及其遭受的批判，剖析反身性与价值负荷对客观中立神话的解构。
+> - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 剖析战后实证学派如何通过清除“价值负荷”确立科学身份，同时系统梳理霍姆斯对实证派指标[[Operationalization|操作化]]假中立的尖锐批判，揭示中立口号与战后理性规划技术官僚体制的共生关系。
+> - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 深入剖析英国 [[Education Endowment Foundation|EEF]] 工具包等循证实践，揭示技术官僚如何借助“价值中立证据”的科学修辞，回避关于工人阶层贫困与资本主义教育不平等的根本性政治辩论，消解教师的[[Professional Judgment|专业判断力]]。
+> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] — 系统剖析早期比较教育文献，指出[[Marc-Antoine Jullien|朱利安]][[Questionnaire|问卷]]对道德宗教与全人[[Bildung|教化]]的鲜明预设绝非研究“缺陷”，而是欧陆精神科学中经验事实服从于社会伦理改良的必然要求，强力清算了实证派的教条指责。
+> - [[Argument_Biesta_2010_SPE|Biesta (2010)]] — 论述教育不仅关乎技能传授的效率，更关乎民主公民的培育与自主主体的生成；将教育决策托付给去价值的中立实证数据，是对教育民主本质的重大背叛。
+> - [[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe (2024)]] — 剖析脑科学证据如何被包装为“不偏不倚的自然科学真理”，从而合法化国家对初等教育课程控制权的强行收紧。
+> - [[Argument_Rambla_2022_Springer|Rambla (2022)]] — 揭示 [[PISA]] 等国际大型测评所宣称的“客观中立比较”，实际上深度嵌入了全球资本主义竞争的政治经济学逻辑。
 
 ---
 

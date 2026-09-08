@@ -2,7 +2,6 @@
 title: Capability Approach
 aliases:
   - 可行能力路径
-  - capability approach
   - Sen's capability approach
   - 可行能力理论
   - 能力路径
@@ -32,7 +31,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-11'
-updated: '2026-05-18'
+updated: 2026-09-08
 ---
 
 # Capability Approach in Education
@@ -72,14 +71,14 @@ updated: '2026-05-18'
 ### 在教育研究中的延伸应用
 
 - **2016 年** Boyadjieva & Ilieva-Trichkova 将可行能力路径与新制度主义视角结合，发展了高等教育的多维使命模型——将五种教育价值重构为个体/社会两个层面与工具性/内在性/转化-赋权性三个维度的 2×3 矩阵([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, pp.128–130]])。
-- **2022 年** Boyadjieva 将该模型应用于对 [[Global Universities Rankings|全球大学排名]] 的系统批判——论证排名仅覆盖了该矩阵中极小的一部分（个体-工具性和社会-工具性），系统性地忽略了高等教育的内在价值和转化/赋权价值([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, pp.132–136]])。详见 [[Argument_Boyadjieva_2022_Springer]]。
+- **2022 年** Boyadjieva 将该模型应用于对 [[Global Universities Rankings|全球大学排名]] 的系统批判——论证排名仅覆盖了该矩阵中极小的一部分（个体-工具性和社会-工具性），系统性地忽略了高等教育的内在价值和转化/赋权价值([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, pp.132–136]])。详见 [[Argument_Boyadjieva_2022_Springer|Boyadjieva (2022)]]。
 
 ---
 
 ## 相关研究
 
 > [!example]
-> - [[Argument_Boyadjieva_2022_Springer]] — [[Argument_Boyadjieva_2022_Springer|Boyadjieva (2022)]] 以五种教育价值为概念"零件"，构建 2×3 多维使命模型，系统批判全球排名对高等教育使命多样性的忽视
+> - [[Argument_Boyadjieva_2022_Springer|Boyadjieva (2022)]] — 以五种教育价值为基础构建 2×3 多维使命模型，系统批判全球大学排名对高等教育使命多样性的忽视。
 
 ---
 

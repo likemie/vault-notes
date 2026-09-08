@@ -101,4 +101,4 @@ updated: 2026-08-01
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25]] — 在 [[Repertory Grid Technique|repertory grid]] 分析中作为认知复杂性/简单性的汇总测量，用于判断个体[[Construct|构念]]结构的分化程度。（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 10]]）
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 在个人构念库（Repertory Grid）分析中作为认知复杂性/简单性的核心测量指标，用于判断个体构念结构的分化程度与世界理解的多维性（Ch. 25, p. 10）。

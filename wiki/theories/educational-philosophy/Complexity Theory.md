@@ -56,7 +56,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-13
-updated: 2026-07-19
+updated: 2026-09-08
 ---
 # Complexity Theory
 
@@ -211,15 +211,12 @@ Davis & Sumara（2005, p. 455）在自组织的语境中强化了这一观点：
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011, Ch. 1)]] — 将复杂性理论作为教育研究的五大[[Paradigm|范式]]之一，定位为对[[Positivism|实证主义]]和[[Interpretive Paradigm|诠释范式]]的替代性取向。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al. (2011, Ch. 16)]] — 从复杂性[[Theoretical Perspective|理论视角]]批判[[Experimental Research|实验研究]]和 [[Randomised Controlled Trials|RCT]] 的线性因果假定。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|Cohen et al. (2011, Ch. 18)]] — 阐述[[Action Research|行动研究]]与复杂性理论的九点深层共鸣（Phelps & Graham, 2010）。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19|Cohen et al. (2011, Ch. 19)]] — 阐明复杂性理论作为[[Computer Simulation|计算机模拟]]和[[Virtual World|虚拟世界]]理论基础的角色，包括从决定论到复杂性理论的世界观转变和基于主体建模的[[Emergence|涌现]]机制。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen, Manion & Morrison (2011)]] — 系统阐述复杂性理论在教育研究中的范式建构与方法论渗透：将其确立为超越实证与诠释的替代性范式（Ch. 1）、反思实验研究与 RCT 的线性因果假定（Ch. 16）、论证行动研究与自组织涌现的九重深层共鸣（Ch. 18），并以此作为计算机模拟与虚拟世界基于主体建模（ABM）的认识论基石（Ch. 19）。
 
 ## 关键引用
 
-> [!citation-card]-
+> [!citation-card]
 > 秩序是免费的，它取代了控制。秩序不是被强加的，而是[[Emergence|涌现]]的。（Kauffman, 1995; [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, Ch. 1]]）
 
-> [!citation-card]-
+> [!citation-card]
 > 即使我们可以进行实验，其在实际中适用于持续涌现、交互、关系性、变化、开放的情境的可能性可能是有限的。在动态、演化、流动、开放的情境中保持[[Variable|变量]]恒定是错误的。（Morrison, 2001; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16, p. 319]]）

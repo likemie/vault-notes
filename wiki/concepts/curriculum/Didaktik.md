@@ -33,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-06'
-updated: '2026-08-27'
+updated: 2026-09-08
 ---
 
 # Didaktik
@@ -147,5 +147,5 @@ updated: '2026-08-27'
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - **芬兰基础教育国家核心课程** 将跨学科与[[Phenomenon-Based Learning|现象本位学习]]作为教学取向写入框架，其选择现象的课程逻辑深植于教学论传统。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 7]]
-> - **SveaSus 项目** 围绕环境、时间、空间等[[Epochal Key Problems|时代关键问题]]，在芬兰堡世界遗产地展开具体的教学[[Champ|场域]]实验。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 1]]
+> - [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff (2024)]] — 考掘欧洲教学论（Didaktik）与教化传统的批判解放内涵，阐述芬兰国家核心课程中跨学科与[[Phenomenon-Based Learning|现象本位学习]]的理论根基，并分析 SveaSus 项目如何围绕[[Epochal Key Problems|时代关键问题]]在世界遗产地开展具身教学实验。
+> - [[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge (2022)]] — 探讨算法化与数字化时代教学论、教化与规范教育的整合星座，反思技术介入对教师教学判断的影响。

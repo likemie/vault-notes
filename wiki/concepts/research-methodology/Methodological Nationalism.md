@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-12
-updated: 2026-07-11
+updated: 2026-09-08
 ---
 
 # Methodological Nationalism
@@ -155,7 +155,7 @@ updated: 2026-07-11
 > - **2007 — 全球化理论扩展**
 >   Beck (2007) 将其扩展至全球化与世界主义理论，指出方法论民族主义与规范性民族主义的“共谋”，阻碍了对多重尺度的想象。[[Argument_Marginson_2025_ROE|Marginson, 2025, p. 8]]
 > - **2005–2009 — 比较教育与全球治理研究引入**
->   Dale (2005) 与 Beech (2009) 将该概念引入教育政策和比较教育研究。Dale 提出“超国家”尺度；Beech 进一步批判语言概念中的国家预设，并引入 Castells 的“[[Space of Flows and Space of Places|流动空间与地方空间]]”作为替代[[Analytic Framework|分析框架]]，为摆脱国家参照提供路径。[[Argument_Beech_2009_CE|Beech, 2009, pp. 348–349]]
+>   Dale (2005) 与 [[Argument_Beech_2009_CE|Beech (2009)]] 将该概念引入教育政策和比较教育研究。Dale 提出“超国家”尺度；Beech 进一步批判语言概念中的国家预设，并引入 Castells 的“[[Space of Flows and Space of Places|流动空间与地方空间]]”作为替代[[Analytic Framework|分析框架]]，为摆脱国家参照提供路径。[[Argument_Beech_2009_CE|Beech, 2009, pp. 348–349]]
 > - **2015 — 教育转移的关系性转向**
 > [[Argument_Beech_2015_GSE|Beech & Artopoulos (2015)]] 运用该概念批判传统教育转移的“静态领土[[Hypothesis|假设]]”，推动向关系性转移与流通研究的转向。
 > - **2023–2025 — 高等教育与[[Ontology|本体论]]深化**
@@ -188,7 +188,7 @@ updated: 2026-07-11
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - **[[Argument_Marginson_2025_ROE|Marginson (2025)]]** — 论证 Massey 的关系空间理论如何为超越高等教育研究中的方法论民族主义提供[[Ontology|本体论]]支撑。[[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 8–9]]
-> - **[[Argument_Beech_2009_CE|Beech (2009)]]** — 从术语层面剖析比较教育的国家偏见，并运用[[Space of Flows and Space of Places|流动空间与地方空间]]重构教育政策话语的三级[[Transfer Translation Transformation|转译]]。[[Argument_Beech_2009_CE|Beech, 2009, pp. 348–349]]
-> - **[[Argument_Beech_2015_GSE|Beech & Artopoulos (2015)]]** — 揭示传统比较教育中静态教育转移的国家领土[[Hypothesis|假设]]，提出关系性流通的阐释。
-> - **[[Argument_Klerides_2023_CE|Klerides (2023)]]** — 运用该概念批判历史和比较教育研究中的“方法论民族主义、国家主义、[[Methodological Educationism|教育主义]]叠加”现象，阐释其对跨国教育网络研究的遮蔽。[[Argument_Klerides_2023_CE|Klerides, 2023, p. 423]]
+> - [[Argument_Marginson_2025_ROE|Marginson (2025)]] — 论证 Massey 的关系空间理论如何为超越高等教育研究中的方法论民族主义提供[[Ontology|本体论]]支撑。
+> - [[Argument_Beech_2009_CE|Beech (2009)]] — 从术语层面剖析比较教育的国家偏见，并运用[[Space of Flows and Space of Places|流动空间与地方空间]]重构教育政策话语的三级[[Transfer Translation Transformation|转译]]。
+> - [[Argument_Beech_2015_GSE|Beech & Artopoulos (2015)]] — 揭示传统比较教育中静态教育转移的国家领土[[Hypothesis|假设]]，提出关系性流通的阐释。
+> - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 运用该概念批判历史和比较教育研究中的“方法论民族主义、国家主义、[[Methodological Educationism|教育主义]]叠加”现象，阐释其对跨国教育网络研究的遮蔽。

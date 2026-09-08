@@ -83,7 +83,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-09-06
+updated: 2026-09-08
 ---
 
 # Scientific Method
@@ -269,20 +269,13 @@ Hitchcock & Hughes (1995) 提出的八阶段模型展现了传统科学方法的
 
 科学方法在当代教育学术研究中既是探究工具，也是批判与反思的核心议题。
 
-> [!evidence-grid] 典型研究与应用案例
-> - **科学教育中[[Practical Epistemology|实践认识论]]与[[Formal Epistemology|形式认识论]]的断裂研究** [[Argument_Sandoval_2005_SE|Sandoval (2005)]] 在科学教育干预中发现，学生的探究活动是由[[Practical Epistemology|实践认识论]]指导的，这与他们对专业科学所表达出的[[Formal Epistemology|形式认识论]]信念存在严重脱节；简单的探究教学若不打破“单一线性科学方法”的教条神话，将无法有效提升学生的科学本质理解。
-> - **教育研究方法论中科学方法八阶段与[[Paradigm|范式]]批判** [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] 系统复原了传统[[Positivism|实证主义]]的科学方法八阶段模型（Hitchcock & Hughes, 1995）与 Mouly 五步经验进程，并从存在主义（克尔凯郭尔）、法兰克福学派（[[Jürgen Habermas|哈贝马斯]]）与社会学内部（[[Anthony Giddens|吉登斯]]）三个维度，系统清算了实证科学方法忽视人类主体能动性与交往理性的根本缺陷。
-> - **19 世纪启蒙现代性将科学方法投射至跨国比较与道德改良** [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] 剖析了 19 世纪初现代主义先驱（孔德与[[Marc-Antoine Jullien|朱利安]]）的科学信念：朱利安将科学方法视为一剂医治后革命时代欧陆道德沦丧的良药，借用自然科学的分类、制表与事实收集，试图构建为全人道德[[Bildung|教化]]与[[Perpetual Peace|世界和平治理]]服务的“准实证”比较教育学。
-> - **[[Evidence-Based Education|循证教育]]对科学方法的教条化窄化与教学[[Ontology|本体论]]抽空** [[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe (2024)]] 剖析了以“[[Visible Learning|可见的学习]]”（Visible Learning）为代表的循证教育改革，指出其将科学方法粗暴等同于[[Meta-analysis|元分析]]数据堆砌与[[Variable|变量]]控制，剥离了教学实践作为人际交往的生成性本体论。
-> - **[[International Baccalaureate|国际文凭]][[General Education|通识教育]]中科学方法[[Epistemology|认识论]]边界的明晰** [[Argument_Peterson_1987_OpenCourt|Peterson (1987)]] 在论述[[Theory of Knowledge|知识论]]（[[Theory of Knowledge]]）课程时强调，通识教育的核心衡量标准不是零散科学事实的[[Rote Learning|死记硬背]]，而是理解科学方法能够支持哪些结论，以及哪些伦理、宗教和价值判断根本落在其解释范围之外。
-
-> [!evidence-grid-a]- 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 系统梳理西方教育探究方法论从实证主义向后实证与批判范式的演化历程。
-> - [[Argument_Sandoval_2005_SE|Sandoval (2005)]] — 提出实践认识论与形式认识论的[[Analytic Framework|分析框架]]，批判学校科学对科学方法的程式化曲解。
-> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] — 阐明 19 世纪比较教育发轫期将科学方法运用于社会治理与道德改良的现代性源流。
-> - [[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe (2024)]] — 批判当代循证教育对科学方法的教条化应用与对微观教学情境的抽空。
-> - [[Argument_Peterson_1987_OpenCourt|Peterson (1987)]] — 从知识论视角界定科学方法的有效性限度与认识论边界。
-> - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 反思[[School Effectiveness|学校效能]]研究与量化评价中过度借用实证科学方法的认识论陷阱。
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Sandoval_2005_SE|Sandoval (2005)]] — 提出实践认识论与形式认识论的分析框架，揭示学生探究活动与所持形式认识论信念的脱节，批判中小学科学教育将科学方法教条化为单一线性规程的神话。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 系统梳理西方教育探究方法论从实证主义向后实证与批判范式的演化历程，复原传统科学方法八阶段与五步经验进程，并从存在主义、法兰克福学派与吉登斯社会学维度清算其忽视主体能动性的缺陷。
+> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] — 阐明 19 世纪比较教育发轫期将科学方法运用于社会治理与道德改良的现代性源流，剖析朱利安借用分类、制表与事实收集为全人教化与和平治理服务的准实证构想。
+> - [[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe (2024)]] — 批判当代循证教育对科学方法的教条化应用，揭示将教学质量简化为元分析效应量与变量控制，剥离了教学实践作为人际交往的生成性本体论。
+> - [[Argument_Peterson_1987_OpenCourt|Peterson (1987)]] — 从知识论视角界定科学方法的有效性限度与认识论边界，强调通识教育的核心在于理解科学方法能够支持哪些结论，以及哪些伦理与价值判断落在其解释范围之外。
+> - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 反思学校效能研究与量化评价中过度借用实证科学方法的认识论陷阱，揭示指标驱动的评价模式对微观教育复杂性的遮蔽。
 
 ---
 
