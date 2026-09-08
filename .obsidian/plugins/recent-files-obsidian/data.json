@@ -5,6 +5,34 @@
       "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01.md"
     },
     {
+      "basename": "Emergence",
+      "path": "wiki/concepts/research-methodology/Emergence.md"
+    },
+    {
+      "basename": "Qualitative Research",
+      "path": "wiki/methods/qualitative/Qualitative Research.md"
+    },
+    {
+      "basename": "Quantitative Research",
+      "path": "wiki/methods/quantitative/Quantitative Research.md"
+    },
+    {
+      "basename": "John W. Creswell",
+      "path": "wiki/persons/us/John W. Creswell.md"
+    },
+    {
+      "basename": "Interpretive Paradigm",
+      "path": "wiki/concepts/research-methodology/Interpretive Paradigm.md"
+    },
+    {
+      "basename": "Epistemology",
+      "path": "wiki/concepts/educational-philosophy/Epistemology.md"
+    },
+    {
+      "basename": "Teacher-as-Researcher",
+      "path": "wiki/concepts/research-methodology/Teacher-as-Researcher.md"
+    },
+    {
       "basename": "Phenomenology",
       "path": "wiki/theories/educational-philosophy/Phenomenology.md"
     },
@@ -63,10 +91,6 @@
     {
       "basename": "Ontology",
       "path": "wiki/concepts/educational-philosophy/Ontology.md"
-    },
-    {
-      "basename": "Epistemology",
-      "path": "wiki/concepts/educational-philosophy/Epistemology.md"
     },
     {
       "basename": "Axiology",
@@ -175,30 +199,6 @@
     {
       "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27",
       "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27.md"
-    },
-    {
-      "basename": "Argument_Mattheou_2009_ScientificParadigm",
-      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Mattheou_2009_ScientificParadigm.md"
-    },
-    {
-      "basename": "International Institute for Educational Planning",
-      "path": "wiki/facts/global/International Institute for Educational Planning.md"
-    },
-    {
-      "basename": "Problem Approach",
-      "path": "wiki/methods/qualitative/Problem Approach.md"
-    },
-    {
-      "basename": "Max Eckstein",
-      "path": "wiki/persons/us/Max Eckstein.md"
-    },
-    {
-      "basename": "Harold Noah",
-      "path": "wiki/persons/us/Harold Noah.md"
-    },
-    {
-      "basename": "George Bereday",
-      "path": "wiki/persons/us/George Bereday.md"
     }
   ],
   "omittedPaths": [],

@@ -113,7 +113,7 @@ related_arguments:
   - "[[Argument_Kraft_2023_ER]]"
   - "[[Argument_Wadhwa_2024_RER]]"
   - "[[Argument_Wiliam_2019_ERE]]"
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
   - "[[Argument_Møller_2017_EERJ]]"
   - "[[Argument_Biesta_2010_SPE]]"
   - "[[Argument_Berk_2011_ER]]"
@@ -123,7 +123,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-14
-updated: 2026-08-21
+updated: 2026-09-09
 ---
 
 # Randomised Controlled Trials
@@ -156,8 +156,8 @@ updated: 2026-08-21
 >    - 2023 — [[Argument_Kraft_2023_ER|Kraft (2023)]] 在 3,426 个教育干预 RCT 效应量的扩展样本中发现：若结果限定为标准化学业[[Achievement and Aptitude Tests|成就测验]]，36% 的效应量小于 0.05，整体中位数约为 0.10
    - 2024 — [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] 全景检验 12 所[[Educational Evidence Clearinghouses|教育证据清算中心]] 1,359 个项目，揭示 11 所中心均将 RCT 确立为证据金字塔顶端；但基于 RCT 支持的多中心评级一致率仅 30.5%，极端冲突率达 35.4%，证明微观 RCT [[Internal Validity|内部效度]]达标不能等同于宏观政策综合收敛
 
-> [!citation-card]- 关键定义
-> 实验技术，尤其是随机对照试验（RCT），在建立[[Causality|因果性]]方面具有强大效力。通过识别、隔离和控制自变量，操纵一个自变量看其是否对结果产生差异，同时保持其他变量不变。如果操纵该自变量导致结果变化，则变化可归因于该自变量——它成为原因。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|(Cohen et al., 2011, pp. 78, 81)]]
+> [!citation-card] 实验技术与变量控制的因果效力
+> 实验技术，尤其是随机对照试验（RCT），在建立[[Causality|因果性]]方面具有强大效力。通过识别、隔离和控制自变量，操纵一个自变量看其是否对结果产生差异，同时保持其他变量不变。如果操纵该自变量导致结果变化，则变化可归因于该自变量——它成为原因。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, Ch. 4, pp. 78, 81]]
 >
 > *Experimental techniques, particularly randomized controlled trials (RCT), have considerable potency in establishing causation, and it is here that the identification, isolation and control of independent variables is undertaken, manipulating one independent variable to see if it makes a difference to the outcome.*
 
@@ -198,17 +198,25 @@ updated: 2026-08-21
 
 ### 复杂性理论的挑战
 
-> [!tension] [[Complexity Theory|复杂性理论]]对 RCT 黄金标准的根本性质疑
-> 复杂性理论对 RCT 构成了根本性挑战（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）：
->
-> - **反线性因果** 混沌和复杂性理论反对线性的、决定论的、可普遍化的、原子化的、受控的封闭系统——这些系统可能在实验室中运作，但在教育的社会世界中并不运作（Gleick, 1987; Waldrop, 1992; Lewin, 1993）
-> - **反[[Variable|变量]]控制** 在一个动态、演化、流动、开放的情境中，保持变量恒常是误导性的——所测量到的已经是历史（What is measured is history, Morrison, 2001）
-> - **整体论** 现象必须被整体地看待——将现象原子化为有限数量的变量会错过多个部分的必要动态互动（Morrison, 2008）
-> - **[[Unit of Analysis|分析单位]]转向** 复杂性理论建议分析单位从个体/机构/制度转向网络或生态系统（Capra, 1996, p. 301）
-> - **测量之限** 人可以测量一个人的每一个可观察变量到无限微小的程度，但他的本质——是什么使他成为他——却逃逸了原子化和测量
+> [!tension] [[Complexity Theory|复杂性理论]]对受控实验与 RCT“黄金标准”的四大认识论解构
+> 复杂性理论对在教育研究中奉为圭臬的随机对照试验（RCT）——所谓的证据“黄金标准”——发起了根本性的认识论反思（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, Ch. 1, pp. 28–30]]）：
+> - **“控制变量恒常”的逻辑悖论** 受控实验假定能够隔离并操纵单一变量而保持其他条件不变（ceteris paribus）。但在一个持续涌现、动态演进、高度关系性的开放教育世界中，保持变量恒常不仅在实操中是不可能的，更是极度误导的——研究者在受控条件下所精确测量到的，仅仅是早已死去的历史（What is measured is history, Morrison, 2001；正如赫拉克利特所言：人不可能两次踏入同一条河流）。
+> - **机械原子化对整体共生性的屠戮** 复杂适应系统（CAS）具有不可还原的协同效应与全息连接性。试图将课堂原子化分解为少数几个孤立变量并实施线性回归检验，必然彻底扼杀要素间不可或缺的动态协同（Morrison, 2008）。
+> - **精密测量的认识论盲区** 人类可以用无限精密的仪器去测量一个人身上每一个可观察的物理与行为变量，但究竟是什么让他/她成为他/她自己——其最核心的主体本质——却注定在原子化测量的缝隙中彻底逃逸。
+> - **[[Unit of Analysis|分析单位]]的根本重构** 弗里乔夫·卡普拉（Fritjof Capra）指出，教育研究必须摆脱将孤立个体、单一班级或孤立制度作为基本分析单位的旧习，将分析单位全面转向围绕特定关注焦点（奇异吸引子，strange attractors）所织就的动态关系网络与生态系统（Capra, 1996, p. 301）。
 
-> [!quote] 赫拉克利特的名言
-> 古典实验方法遵循可复制性和可预测性的要求，但在复杂现象中，结果从来不是真正可复制或可预测的。正如赫拉克利特（Heraclitus）所言：**我们永远不会两次踏入同一条河流（we never jump into the same river twice）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）**。
+> [!axioms] Sarah Kuhn 复杂性研究五大公理对线性 RCT 的颠覆
+> 萨拉·库恩（Sarah Kuhn）为复杂性教育研究确立了五大核心公理，彻底动摇了线性实验逻辑（Kuhn, 2007, pp. 172–173；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, Ch. 1, p. 30]]）：
+> - **动态、涌现与自组织的实在** 社会实在处于永恒生成之中，必须通过多元立体视角方能捕捉，无法被静态后测完全表征。
+> - **知者与被知者的共生演化** 研究者绝非置身事外的超然看客，其实验介入本身即构成复杂适应系统演进的动力要素。
+> - **假说的时间与情境深度依赖** 任何因果假说与干预结论均具有不可抽离的时空边界与情境附着性，去情境化的普遍因果推论并不成立。
+> - **因果关系的不可分割性** 系统内各实体互为因果、共同演化（co-evolution），单向线性的自变量-因变量因果链在复杂系统中彻底失效。
+> - **探究必然的价值涉入** 任何研究设计均不可避免地携带特定价值倾向，不存在绝对纯粹的实验中立。
+
+> [!citation-card] Kauffman 论复杂适应系统的自组织与自发秩序
+> 在复杂适应系统中，秩序是自发生成的，它从根本上取代了外部强加的机械控制。秩序并非由先验的宏大设计或目的论预先决定，而是在有机体与其环境的动态交互中自组织涌现；所涌现的高阶系统具有自身独特性，绝无法还原为构成它的低阶离散部分。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, Ch. 1, p. 29; Kauffman, 1995]]
+>
+> *Systems possess the ability for self-organization, which is not according to an a priori grand design – a cosmological argument – nor a teleological argument; complexity is neither. Further, self-organization emerges, it is internally generated; it is the opposite of external control. As Kauffman (1995) suggests, order comes for free and replaces control.*
 
 ---
 
@@ -402,4 +410,5 @@ updated: 2026-08-21
 > - [[Argument_Brady_2023_EPR|Brady et al. (2023)]] — 将[[Random Assignment|随机分配]]实验作为[[Intervention Research|干预研究]]中的更强子类进行趋势比较，发现其在顶刊中的比例从 2010 年的 23% 降至 2020 年的 20%([[Argument_Brady_2023_EPR|Brady et al., 2023, pp. 6–7]])。
 > - [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] — 全景比较 12 个教育清算中心对 RCT 的因果审查规程，实证揭示各中心虽均推崇 RCT，但因跨研究综合门槛割裂导致 35.4% 的极端评级冲突([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 9–11, 18–20]])。
 > - [[Tennessee STAR Project 1985-1989]] — 田纳西星级[[Class Size|班级规模]]实验，[[Argument_Wiliam_2019_ERE|Wiliam (2019)]] 揭示了其家长施压转组与数据差异缺失对随机分配的破坏。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al. (2011)]] — 系统构建教育实验[[Causality|因果推断]]全景，详述概率因果、[[Counterfactual|反事实]]、[[Screening Off|筛选隔离]]与真实课堂复杂性对 RCT 的挑战(Ch. 4 / Ch. 16)。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, p. 28)]] — 阐明复杂性理论对受控实验与 RCT 黄金标准的四大认识论解构、Kuhn 复杂性五大公理以及分析单位向关系网络与生态系统的转向。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al. (2011, Ch. 4, p. 78)]] — 系统构建教育实验[[Causality|因果推断]]全景，详述概率因果、[[Counterfactual|反事实]]、[[Screening Off|筛选隔离]]与真实课堂复杂性对 RCT 的挑战（第 4 章、第 16 章）。

@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01"
 argument_display_title: "Research Methods in Education · Ch01"
 argument_kind: "book-chapter"
-argument_related_count: 105
+argument_related_count: 104
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -53,7 +53,6 @@ related_concepts:
   - "[[Postpositivism]]"
   - "[[Postmodernism]]"
   - "[[Post-structuralism]]"
-  - "[[Creativity, Action, Service]]"
   - "[[Emergence]]"
   - "[[Variable]]"
   - "[[Unit of Analysis]]"
@@ -221,7 +220,7 @@ updated: 2026-09-09
 >   - **[[Mixed Methods Research|混合方法研究]]：第三次方法论运动** 超越“非 0 即 1”二元对立，从范式战争走向方法论务实主义；[[Pragmatic Paradigm|实用主义]]哲学基础（实践驱动与“有效即真理”）；Johnson et al. 19 种定义谱系与九大合法化类型；Teddlie & Tashakkori 六大领域与七维度；Greene 四大领域；Caracelli & Greene 四大数据整合策略（[[Data Transformation|数据转换]]、类型学发展、极端案例分析、数据合并）；“学校像监狱”的 100 人[[Heterogeneity|异质性]]理由范例；六类设计类型学（平行、顺序、准混合、转换、多层、完全整合）；九大核心操作决策维度；关于混合方法是否构成“独立新范式”的论辩与审慎结论。
 > - **后现代转向与新兴前沿（第8–9节）**
 >   - **[[Postpositivism|后实证主义]]、[[Postmodernism|后现代主义]]与[[Post-structuralism|后结构主义]]** 现代主义“钟表宇宙观”的解体；后实证主义的可错论、理论负载与多元理据；Fredric Jameson 后现代主义 11 项核心特征全景解析；后结构主义 Foucault/Derrida 话语实践、去中心化主体与意义解构；三者的哲学亲缘谱系与方法论共振。
->   - **[[Complexity Theory|复杂性理论]]：新兴范式** 学校作为复杂适应系统（[[Creativity, Action, Service|CAS]]）；五大核心机制：正负反馈、连接性（雨林生态循环隐喻 vs 学校生态网络）、[[Emergence|涌现]]性、自组织（“秩序是免费的，它取代了控制”）、自组织临界性与转折点；彻底颠覆[[Randomised Controlled Trials|随机对照试验]]（RCT）“黄金标准”：开放情境中“保持[[Variable|变量]]恒常是误导性的，所测量的只是历史”；[[Unit of Analysis|分析单位]]革命：从孤立变量转向生态网络与奇异吸引子；复杂性方法论重构：[[Case Study|案例研究]]、生活叙事、[[Action Research|行动研究]]与[[Teacher-as-Researcher|教师即研究者]]运动；Sarah Kuhn 复杂性研究五大公理。
+>   - **[[Complexity Theory|复杂性理论]]：新兴范式** 学校作为复杂适应系统；五大核心机制：正负反馈、连接性（雨林生态循环隐喻 vs 学校生态网络）、[[Emergence|涌现]]性、自组织（“秩序是免费的，它取代了控制”）、自组织临界性与转折点；彻底颠覆[[Randomised Controlled Trials|随机对照试验]]（RCT）“黄金标准”：开放情境中“保持[[Variable|变量]]恒常是误导性的，所测量的只是历史”；[[Unit of Analysis|分析单位]]革命：从孤立变量转向生态网络与奇异吸引子；复杂性方法论重构：[[Case Study|案例研究]]、生活叙事、[[Action Research|行动研究]]与[[Teacher-as-Researcher|教师即研究者]]运动；Sarah Kuhn 复杂性研究五大公理。
 
 ---
 
