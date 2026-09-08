@@ -4,6 +4,7 @@ aliases:
   - 编码
   - 质性编码
   - 质性研究编码
+  - 贴标签
 summary: "质性数据分析中将文本、图像及多模态数据拆解分段并赋予概念化标签的系统性规程，通过开放、分析、主轴与选择性编码实现经验材料的数据缩减与理论生成"
 type: method
 method_type: qualitative
@@ -201,7 +202,7 @@ updated: 2026-09-08
 > > 11. **建立证据逻辑链（building a logical chain of evidence）** 梳理因果脉络并作出推断。
 > > 12. **建构概念/理论连贯性（making conceptual/theoretical coherence）** 从隐喻到构念再到理论，系统解释经验现象。
 
-> [!ref-table] 案例示范：课堂教学态度的矩阵表格化比较分析
+> [!case] 案例示范：课堂教学态度的矩阵表格化比较分析
 > 通过将个体案例置于行、将所考察议题置于列，二维矩阵表格是开展跨个案比较与支持编码分析的高效[[Data Display|数据展示]]形式。以三名学生对科学课与音乐课的态度为例：[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|(Gibbs, 2007; Cohen et al., 2011, pp. 562–563)]]
 >
 > | 学生 | 对科学课的态度 | 对音乐课的态度 |
