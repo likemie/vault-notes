@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Edmund Husserl",
+      "path": "wiki/persons/germany/Edmund Husserl.md"
+    },
+    {
       "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01",
       "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01.md"
+    },
+    {
+      "basename": "Scientism",
+      "path": "wiki/concepts/educational-philosophy/Scientism.md"
+    },
+    {
+      "basename": "Søren Kierkegaard",
+      "path": "wiki/persons/denmark/Søren Kierkegaard.md"
     },
     {
       "basename": "Auguste Comte",
@@ -187,18 +199,6 @@
     {
       "basename": "Brian Holmes",
       "path": "wiki/persons/uk/Brian Holmes.md"
-    },
-    {
-      "basename": "Positivism",
-      "path": "wiki/concepts/research-methodology/Positivism.md"
-    },
-    {
-      "basename": "Culture Générale",
-      "path": "wiki/concepts/educational-philosophy/Culture Générale.md"
-    },
-    {
-      "basename": "General Education",
-      "path": "wiki/concepts/educational-philosophy/General Education.md"
     }
   ],
   "omittedPaths": [],
