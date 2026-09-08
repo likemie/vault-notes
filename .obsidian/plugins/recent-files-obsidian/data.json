@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Qualitative Computer Software",
+      "path": "wiki/methods/qualitative/Qualitative Computer Software.md"
+    },
+    {
       "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30",
       "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Argument_Moisio_2022_Springer",
       "path": "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Moisio_2022_Springer.md"
-    },
-    {
-      "basename": "Argument_Erfurth_2022_education-hubs",
-      "path": "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Erfurth_2022_education-hubs.md"
     }
   ],
   "omittedPaths": [],
