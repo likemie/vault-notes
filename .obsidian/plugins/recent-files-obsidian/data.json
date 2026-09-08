@@ -5,6 +5,14 @@
       "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30.md"
     },
     {
+      "basename": "Qualitative Codebook",
+      "path": "wiki/concepts/research-methodology/Qualitative Codebook.md"
+    },
+    {
+      "basename": "Max Weber",
+      "path": "wiki/persons/germany/Max Weber.md"
+    },
+    {
       "basename": "Story Line",
       "path": "wiki/concepts/research-methodology/Story Line.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Critical Dualism",
       "path": "wiki/concepts/comparative-education/Critical Dualism.md"
-    },
-    {
-      "basename": "Argument_Zapp_2022_Springer",
-      "path": "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Zapp_2022_Springer.md"
-    },
-    {
-      "basename": "Argument_Zelinka_2022_SCD_subjectivity",
-      "path": "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Zelinka_2022_SCD_subjectivity.md"
     }
   ],
   "omittedPaths": [],
