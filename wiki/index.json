@@ -7982,7 +7982,8 @@
     "path": "wiki/concepts/research-methodology/Domain Analysis.md",
     "aliases": [
       "领域分析",
-      "domain-level analysis"
+      "domain-level analysis",
+      "象征范畴分析"
     ]
   },
   {
@@ -10076,7 +10077,10 @@
       "units of analysis",
       "recording unit",
       "context unit",
-      "sampling unit"
+      "sampling unit",
+      "记录单位",
+      "语境单位",
+      "抽样单位"
     ]
   },
   {
@@ -12372,6 +12376,17 @@
     "aliases": [
       "自我民族志",
       "auto-ethnography"
+    ]
+  },
+  {
+    "title": "Axial Coding",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Axial Coding.md",
+    "aliases": [
+      "主轴编码",
+      "轴心编码",
+      "枢轴编码",
+      "轴心式编码"
     ]
   },
   {

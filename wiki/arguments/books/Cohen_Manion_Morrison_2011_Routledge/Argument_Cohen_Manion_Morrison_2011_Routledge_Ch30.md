@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30"
 argument_display_title: "Research Methods in Education · Ch30"
 argument_kind: "book-chapter"
-argument_related_count: 55
+argument_related_count: 52
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -33,8 +33,6 @@ part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 related_concepts:
   - "[[Concept Mapping]]"
   - "[[Data Reduction]]"
-  - "[[Reliability]]"
-  - "[[Reflexivity]]"
   - "[[Working Memory]]"
   - "[[Research Question]]"
   - "[[Document]]"
@@ -62,13 +60,13 @@ related_concepts:
   - "[[Presence]]"
   - "[[Dialogue in Education]]"
   - "[[Epistemology]]"
-  - "[[Sample Size Determination]]"
   - "[[Heterogeneity]]"
   - "[[Falsification]]"
   - "[[School Leadership]]"
   - "[[Qualitative Codebook]]"
   - "[[Operationalization]]"
   - "[[Analytic Framework]]"
+  - "[[Reflexivity]]"
   - "[[Going Native]]"
   - "[[Audit Trail]]"
   - "[[Abstract]]"
@@ -85,7 +83,6 @@ related_methods:
   - "[[Multi-phase Sampling]]"
   - "[[Triangulation]]"
   - "[[Causal Modeling]]"
-  - "[[Qualitative Interview]]"
   - "[[Semi-structured Interview]]"
 related_instruments: []
 related_persons: []
@@ -203,7 +200,7 @@ updated: 2026-09-08
 >
 > - **开放编码** 贴近原始文本，切碎意群并标注描述性标签
 > - **分析编码** 识别初级模式，提炼概念属性与维度
-> - **主轴编码** 围绕核心轴心范畴，按六要素[[Paradigm|范式]]模型拼装联结
+> - **[[Axial Coding|主轴编码]]** 围绕核心轴心范畴，按六要素[[Paradigm|范式]]模型拼装联结
 > - **选择性编码** 围绕主导[[Story Line|故事线]]确立统摄性核心范畴，实现[[Saturation|理论饱和]]
 
 ---
@@ -215,7 +212,7 @@ updated: 2026-09-08
 > - **范畴属性（Properties）解构** 范畴内部蕴含多重特征属性。例如“颜色”范畴包含色相、阴影与强度等属性；“注视”范畴包含频率、范围、强度与持续时间等属性。
 > - **连续统维度化（Dimensionalization）** 各属性并非离散二元对立，而是分布在“从浅到深、从高到低”的维度连续统（dimensional continuum）上，使质性代码具备精细刻画经验变异的度量弹性。
 
-在开放编码建立离散范畴及其维度连续统后，分析进入主轴编码阶段。研究者围绕轴心范畴重构碎化数据，建立范畴内部子群以及不同范畴之间的有机联结（Strauss & Corbin, 1990, pp. 96–106）：
+在开放编码建立离散范畴及其维度连续统后，分析进入[[Axial Coding|主轴编码]]阶段。研究者围绕轴心范畴重构碎化数据，建立范畴内部子群以及不同范畴之间的有机联结（Strauss & Corbin, 1990, pp. 96–106）：
 
 > [!layer] 主轴编码的六要素范式模型（Strauss & Corbin, 1990, pp. 100–106）
 >
