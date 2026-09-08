@@ -80,4 +80,4 @@ updated: 2026-08-16
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 系统阐释通则式取向的方法论位置：在哲学基础中将其作为 Burrell & Morgan 假设推导链的方法论终点（Ch. 1），并在质性分析中阐明通过跨案例模式、主题共性与规律性提炼实现通则化分析的路径（Ch. 28）。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 系统阐释通则式取向的方法论位置：在哲学基础中将其作为 Burrell & Morgan [[Hypothesis|假设]]推导链的方法论终点（Ch. 1），并在质性分析中阐明通过跨案例模式、主题共性与规律性提炼实现通则化分析的路径（Ch. 28）。

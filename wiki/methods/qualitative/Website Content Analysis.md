@@ -8,7 +8,7 @@ summary: "系统收集和分析机构网站公开内容的研究方法，通过�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 16
+method_related_count: 17
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -34,6 +34,7 @@ related_methods:
   - "[[Content Analysis]]"
   - "[[Mixed Methods Research]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Qualitative Content Analysis]]"
 related_persons: []
 related_facts:
   - "[[University Industry Demonstration Partnership]]"
@@ -103,7 +104,7 @@ updated: 2026-05-27
 ## 方法变体与相近方法
 
 > [!tip]-
-- vs 质性[[Content Analysis|内容分析]]（Qualitative Content Analysis）— 质性内容分析通常处理的是文本资料（访谈[[Transcription in Qualitative Research|转录]]、政策文件等），强调主题的归纳性[[Emergence|涌现]]；网站内容分析专门处理网站的**结构化公开内容**（页面标题、部门描述、职能列表等），分析更侧重分类和对比而非深度主题生成
+- vs 质性[[Content Analysis|内容分析]]（[[Qualitative Content Analysis]]）— 质性内容分析通常处理的是文本资料（访谈[[Transcription in Qualitative Research|转录]]、政策文件等），强调主题的归纳性[[Emergence|涌现]]；网站内容分析专门处理网站的**结构化公开内容**（页面标题、部门描述、职能列表等），分析更侧重分类和对比而非深度主题生成
 - vs [[Questionnaire|问卷调查]] — 问卷调查收集的是受访者的**自我报告**（"我们办公室管什么"），网站分析收集的是组织的**公开声明**（"网站上说这个办公室管什么"）。两者的不一致本身可以成为重要的研究发现——如 Boccanfuso & Hall（2025）发现调查中"innovation"一词的使用率远高于网站，暗示受访者倾向于用更"时髦"的语言描述自己的工作（pp.63–65）
 
 ## 使用此方法的研究

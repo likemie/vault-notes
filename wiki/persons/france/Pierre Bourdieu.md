@@ -8,7 +8,7 @@ summary: "法国社会学家，场域-习性-资本理论创立者与区分作�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 47
+person_related_count: 46
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -57,7 +57,6 @@ related_methods:
   - "[[Ethnography]]"
   - "[[In-depth Interview]]"
 related_persons:
-  - "[[Max Weber]]"
   - "[[Bruno Latour]]"
   - "[[Yajun Zheng]]"
 related_arguments:
@@ -172,7 +171,7 @@ updated: 2026-07-13
 
 > [!dimension] 核心研究应用解析
 > - **国际社会理论传统的整合与推进**
->   布迪厄的关系性实践社会学，推进并重构了经典社会学的三个核心传统：[[Max Weber|韦伯]]的符号合法性（发展为**[[Champ|场域]]**）、马克思的**资本**一般化（扩展到[[Non-monetary Competition|非货币竞争]]活动），以及涂尔干的客观结构倾向（与结构主义融合为**[[Habitus|习性]]**）。这确立了学术界的跨国传播价值。
+>   布迪厄的关系性实践社会学，推进并重构了经典社会学的三个核心传统：韦伯的符号合法性（发展为**[[Champ|场域]]**）、马克思的**资本**一般化（扩展到[[Non-monetary Competition|非货币竞争]]活动），以及涂尔干的客观结构倾向（与结构主义融合为**[[Habitus|习性]]**）。这确立了学术界的跨国传播价值。
 > - **[[School Leadership|学校领导力]]与教育行政批判研究**
 >   教育行政领域借此解构管理主义话语。[[Argument_Eacott_2011_JEAH|Eacott (2011, p. 45)]] 将场域、习性和资本引入澳大利亚新南威尔士校长培训体制分析，指出绩效问责、最佳实践和效率语言组成的 Doxa 使得教育场域被政治和商业场域渗透，校长被去自主化为政策交付人。
 > - **中国精英大学的出路资本化与习性变现**

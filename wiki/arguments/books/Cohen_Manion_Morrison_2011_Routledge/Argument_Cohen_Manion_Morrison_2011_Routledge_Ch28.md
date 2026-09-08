@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28"
 argument_display_title: "Research Methods in Education · Ch28"
 argument_kind: "book-chapter"
-argument_related_count: 39
+argument_related_count: 41
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -56,6 +56,8 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Informed Consent]]"
   - "[[Emergence]]"
+  - "[[Central Phenomenon]]"
+  - "[[Intercoder Agreement]]"
   - "[[Construct]]"
 related_theories: []
 related_methods:
@@ -337,7 +339,7 @@ updated: '2026-09-08'
 > 3. **备忘录** 撰写备忘录（针对特定数据片段）。
 > 4. **一致性比较** 比较具有相同编码的文本片段以检验一致性。
 > 5. **整合与编码备忘录** 整合已生成的编码并撰写编码备忘录。
-> 6. **发展核心范畴** 发展核心范畴，这是[[Grounded Theory|扎根理论]]的特征（见第33章）。
+> 6. **发展[[Central Phenomenon|核心范畴]]** 发展核心范畴，这是[[Grounded Theory|扎根理论]]的特征（见第33章）。
 
 > [!info] 常用软件与搜索功能
 > 常用软件以 NVivo、MAXQDA and ATLAS.ti 为代表（Gibbs, 2007 即着重介绍这三者）；原书列举的其他软件包多数已停更或被后继版本取代。软件能执行质性意义上的统计分析，包括布尔搜索、邻近搜索、限制／树／交叉表、树状图、按序列呈现数据、查找相似段落与负面案例、语境中的词项（词汇检索）、按联合标准选择文本、分析文本异同、注释与备忘录，并发展出语境中的关键词（Key-Words-In-Context，KWIC）功能。（28.4）
@@ -349,7 +351,7 @@ updated: '2026-09-08'
 > 上述判断主要针对以编码与检索为核心的旧一代软件：计算机不消除人的参与，人仍需决定并生成编码与类别、验证并诠释数据。文本的算法式诠释存在严格限度（Kelle, 2004, p. 277）。CAQDAS 不执行分析，只支持研究者通过组织数据、记录编码与节点来分析；它更像文字处理器与整理器而非分析工具（Flick, 2009, p. 359）。García-Horta & Guerra-Ramos（2009, pp. 152–3）认为软件不能替代研究者赋予意义、识别异同、建立关系的能力，迄今没有软件能处理意义的生成与诠释。（28.4）
 
 > [!note] 当下的变化：LLM 辅助质性编码
-> 近年大语言模型（large language model，LLM）已能自动生成与建议编码、归类文本、抽取主题与摘要，部分承担了过去必须由研究者完成的机械分析环节。研究者仍须对 LLM 输出负责，校验编码一致性、保留[[Reflexivity|反身性]]并报告使用与局限（如幻觉、语境丢失、刻板偏误）。（28.4 附注）
+> 近年大语言模型（large language model，LLM）已能自动生成与建议编码、归类文本、抽取主题与摘要，部分承担了过去必须由研究者完成的机械分析环节。研究者仍须对 LLM 输出负责，校验[[Intercoder Agreement|编码一致性]]、保留[[Reflexivity|反身性]]并报告使用与局限（如幻觉、语境丢失、刻板偏误）。（28.4 附注）
 
 > [!critique] 软件可能驱动分析
 > - **软件驱动分析而非相反** Crowley et al.（2002）与 Fielding & Lee（1998）指出软件可能驱动分析而非相反。

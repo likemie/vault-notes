@@ -184,12 +184,12 @@ updated: '2026-09-08'
 > | 建立场所 | 场所的情境效应 |
 > | 记录陈述 | 记录的适当性和准确性 |
 > | 控制陈述的相关性 | 陈述议程 |
-> | 验证陈述 | 协商与[[Internal Consistency|内部一致性]] |
+> | 验证陈述 | 协商与[[Internal Consistency\|内部一致性]] |
 > | 确立访谈者和受访者角色 | 引导程度 |
 > | 陈述后验证 | 交叉佐证 |
 > | **3 陈述转化** | |
-> | 提供工作文件 | [[Transcription in Qualitative Research|转录]]信度；[[Coding in Qualitative Research|编码]]者信度 |
-> | [[Data Reduction|数据缩减]]技术 | 统计分析和[[Content Analysis|内容分析]]的适当性 |
+> | 提供工作文件 | [[Transcription in Qualitative Research\|转录]]信度；[[Coding in Qualitative Research\|编码]]者信度 |
+> | [[Data Reduction\|数据缩减]]技术 | 统计分析和[[Content Analysis\|内容分析]]的适当性 |
 > | **4 研究者陈述** | |
 > | 对陈述的再陈述：摘要、概览、解释 | 研究操作的描述 |
 > | | 解释方案和理论背景 |

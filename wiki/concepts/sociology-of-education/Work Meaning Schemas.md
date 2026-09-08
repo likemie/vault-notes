@@ -25,10 +25,10 @@ related_theories:
   - "[[Culture as Toolkit]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
+  - "[[Axial Coding]]"
 related_persons:
   - "[[Yajun Zheng]]"
   - "[[Ann Swidler]]"
-  - "[[Max Weber]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
@@ -41,7 +41,7 @@ updated: 2026-08-20
 ## 定义
 
 > [!info] 定义
-> 工作意义三角图式结构是[[Yajun Zheng|郑雅君]]（2023）通过对 70 名中国两所顶尖大学毕业生访谈材料的 216 处[[Coding in Qualitative Research|编码]]参考点进行轴心编码归纳出的理论模型，描述了名校大学生用于建构工作意义的三种主要文化图式（cultural schemas）及其竞争性关系。这三种图式分别源于不同的社会制度组织——家庭、大学和市场——平行地生产出不同的意义阐释逻辑，构成一个富有内在张力的三角结构([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
+> 工作意义三角图式结构是[[Yajun Zheng|郑雅君]]（2023）通过对 70 名中国两所顶尖大学毕业生访谈材料的 216 处[[Coding in Qualitative Research|编码]]参考点进行[[Axial Coding|轴心编码]]归纳出的理论模型，描述了名校大学生用于建构工作意义的三种主要文化图式（cultural schemas）及其竞争性关系。这三种图式分别源于不同的社会制度组织——家庭、大学和市场——平行地生产出不同的意义阐释逻辑，构成一个富有内在张力的三角结构([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
 >
 > > "上述三种观念图式形成了一个富有内在张力的三角结构。也就是说，对'90后'名校大学生群体来说，似乎并不存在某种单一的、对工作之意义的'主流'理解，而是呈现出多个意义系统并行的状态"
 >
@@ -131,6 +131,6 @@ updated: 2026-08-20
 
 > [!info] 理论基础
 > - [[Culture as Toolkit]] — [[Ann Swidler]]（1986）的工具箱理论是本章最核心的理论资源：三种图式即为名校大学生文化工具箱中可供调用的工作意义资源。"人们所知道的文化比他们所使用的要多"——大学生在适当情形下调用工具箱中的元素去建构行动路线和自身现实（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）
-> - [[Max Weber|韦伯]]著名的"扳道夫"[[Hypothesis|假设]]："直接支配人的行为并非理念，而是物质型利益和理念型利益。不过，由观念创造出来的'世界图景'，常常像扳道夫一样决定了行为沿着哪条利益驱动的轨道发生"（，引 Weber, 2005[1956]）
+> - 韦伯著名的"扳道夫"[[Hypothesis|假设]]："直接支配人的行为并非理念，而是物质型利益和理念型利益。不过，由观念创造出来的'世界图景'，常常像扳道夫一样决定了行为沿着哪条利益驱动的轨道发生"（，引 Weber, 2005[1956]）
 >
 

@@ -10,7 +10,7 @@ title: "Argument_Zheng_2023_ShanghaiSanlian"
 argument_key: "Argument_Zheng_2023_ShanghaiSanlian"
 argument_display_title: "金榜题名之后：大学生出路分化之谜"
 argument_kind: "book"
-argument_related_count: 104
+argument_related_count: 105
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -117,10 +117,11 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Interview Protocol]]"
   - "[[Matching]]"
+  - "[[Axial Coding]]"
 related_persons:
   - "[[Pierre Bourdieu]]"
-  - "[[Max Weber]]"
   - "[[Yajun Zheng]]"
+  - "[[Max Weber]]"
   - "[[Ann Swidler]]"
   - "[[Clifford Geertz]]"
   - "[[Marcia Baxter Magolda]]"
@@ -168,7 +169,7 @@ citation_aliases:
 
 - **高等教育过程理论（[[Academic and Social Integration|Tinto 融入理论]] + Kuh 投入理论）**— 框定学生在校期间的能动性空间，以"[[Academic Engagement|学业投入]]"和"[[Social Engagement|社会性投入]]"为双轴分析两种模式的行为差异。
 
-- **文化社会学两种[[Paradigm|范式]]（Swidler 工具箱 + [[Max Weber|韦伯]]价值理性）**— 以 [[Dual-Process Model of Culture in Action|Vaisey 双过程模型]]为桥梁，同时容纳"文化提供行动工具"和"价值观定义行动目的"两种机制，回应"想要什么"和"如何去做"的经典争论。
+- **文化社会学两种[[Paradigm|范式]]（Swidler 工具箱 + 韦伯价值理性）**— 以 [[Dual-Process Model of Culture in Action|Vaisey 双过程模型]]为桥梁，同时容纳"文化提供行动工具"和"价值观定义行动目的"两种机制，回应"想要什么"和"如何去做"的经典争论。
 
 三层嵌套的逻辑：最外层资本化过程是社会结构的入口约束 → 中间层投入过程是学生在既定约束下发挥能动性的空间 → 最内层价值选择过程是结构和投入最终凝结为抉择的环节。
 
@@ -176,7 +177,7 @@ citation_aliases:
 ## 研究方法
 
 > [!info]
-> - **方法论**[[Constructivist Grounded Theory|建构主义扎根理论]](Charmaz, 2006)，[[Max Weber|韦伯]]诠释学[[Epistemology|认识论]]——旨在"通过对行动主体的意义阐释，发现看似随机的个人选择背后所显现出的规律性机制"
+> - **方法论**[[Constructivist Grounded Theory|建构主义扎根理论]](Charmaz, 2006)，韦伯诠释学[[Epistemology|认识论]]——旨在"通过对行动主体的意义阐释，发现看似随机的个人选择背后所显现出的规律性机制"
 > - **田野点** 两所化名为"北方大学"和"南方大学"的顶尖研究型大学——同为百年名校，但学科结构、精神传统和所在地构成系统性对比（北京"又红又专" vs 上海"自由而无用"）
 > - **样本** 62 名毕业班学生的跟踪式[[In-depth Interview|深度访谈]]（每人均保持联系至确定毕业去向），外加 8 名增补受访者用于第五章分析
 > - **抽样** 两阶段目的抽样——第一阶段 38 名男生（控制性别和 [[Academic Achievement|GPA]]），第二阶段补充 24 名（增加女生和弱势学生）；兼顾学科、家境、价值观内化程度的差异性分布
@@ -228,7 +229,7 @@ citation_aliases:
 
 作者[[Epoché|悬置]]"经济人"[[Hypothesis|假设]]和再生产假设，转向从行动者层面理解：学生为何这样选择？其选择意图是如何在大学过程中形成的？
 
-前提假设：学生的毕业去向选择是基于某种目的的审慎选择（承袭[[Rational Action Theory|理性选择理论]]），但不一定仅基于经济利益计算——还可能受[[Max Weber|韦伯]]意义上的文化因素和价值理性引导。大学校园被视作一个"充斥着多元价值目标和行动逻辑的'意义竞技场'"。
+前提假设：学生的毕业去向选择是基于某种目的的审慎选择（承袭[[Rational Action Theory|理性选择理论]]），但不一定仅基于经济利益计算——还可能受韦伯意义上的文化因素和价值理性引导。大学校园被视作一个"充斥着多元价值目标和行动逻辑的'意义竞技场'"。
 
 **第四步：建构理论框架**
 
@@ -497,9 +498,9 @@ Walder et al.(2000)的**二元精英职业路径**理论（[[Dual Elite Career P
 **（a）认识论与方法论立场**
 
 - **认识论**[[Constructivist Paradigm|建构主义]]（Constructivism）而非[[Positivism|实证主义]]
-- **方法论**[[Max Weber|韦伯]]意义上的诠释学（Hermeneutics）
+- **方法论**韦伯意义上的诠释学（Hermeneutics）
 - **核心目的** 不在于变量关系判定，而在于"通过对行动主体的意义阐释，发现看似随机的个人选择背后所显现出的某种规律性机制"
-- **理论基础**[[Max Weber|韦伯]]和 [[Clifford Geertz|Geertz]] ——"人是悬挂在自己编织的意义之网上的动物"，社会学的基本任务是对"以意向为取向的行为作解释性的理解"（引周怡, 2004, Geertz, Weber）
+- **理论基础**韦伯和 [[Clifford Geertz|Geertz]] ——"人是悬挂在自己编织的意义之网上的动物"，社会学的基本任务是对"以意向为取向的行为作解释性的理解"（引周怡, 2004, Geertz, Weber）
 - **深度访谈的认识论原理** "深入事实内部"——访谈者首先"悬置"自己的知识体系和成见，在被访者的日常语境中理解其对自身行动意义的建构，然后再考虑研究者的意义情境和解释需要（引杨善华和孙飞宇, 2005, Arksey & Knight, 1999）
 - **跟踪式[[Case Study|个案研究]]** 研究者与被访者保持联系直至其最终确定毕业去向——目的有二：（1）观察实际行动以检视访谈内容的[[Reliability|可靠性]]；（2）跟进理解受访者最终选定去向的原因阐释
 - **对代表性质疑的回应** 深度访谈的目的在于获取意义，样本"少而典型"；来自生活史社会学的研究表明，宏观社会过程会以不同方式投射到个人身上影响其生命历程并反映在个人意义建构中——可以"以小见大"，在地方性知识的基础上建立社会意义的理论推论（引 Arksey & Knight, 1999, 杨善华和孙飞宇, 2005）
@@ -997,7 +998,7 @@ Walder et al.(2000)的**二元精英职业路径**理论（[[Dual Elite Career P
 
 *图2 名校大学生工作意义来源的三角图式结构*
 
-郑雅君通过对 70 份访谈资料的 216 处编码参考点进行轴心编码，归纳出名校大学生用以建构工作意义的三种文化图式：
+郑雅君通过对 70 份访谈资料的 216 处编码参考点进行[[Axial Coding|轴心编码]]，归纳出名校大学生用以建构工作意义的三种文化图式：
 
 **图式一：地位保障/家庭责任（101 参考点，54/70 激活）**
 
@@ -1230,7 +1231,7 @@ Walder et al.(2000)的**二元精英职业路径**理论（[[Dual Elite Career P
 > - **样本偏差** 第一阶段仅纳入男生且限制 [[Academic Achievement|GPA]] 前 50%，第二阶段虽补充了女生和本科生但仍无法完全消除选择性偏差；62 名被访者集中于两所顶尖大学，结论对普通院校的外推性有限
 > - **[[Epistemology|认识论]]定位** [[Constructivist Paradigm|建构主义]]诠释学取向优先解释性理解而非[[Causality|因果推断]]，无法估计[[Variable|变量]]间的[[Effect Size|效应量]]和[[Statistical Significance|统计显著性]]
 > - **研究者立场** 作者对南方大学为"局内人"（易获信任但可能将地方性常识视为理所当然），对北方大学为"局外人"（通过非正式[[Dialogue in Education|对话]]和校友网络弥补）
-> - **类型化方法的边界** 两种模式和四分类均为[[Max Weber|韦伯]]意义上的"理念型"，个体在现实中可能兼具多种类型的特征；类型化本身有简化现实的代价
+> - **类型化方法的边界** 两种模式和四分类均为韦伯意义上的"理念型"，个体在现实中可能兼具多种类型的特征；类型化本身有简化现实的代价
 > - **追踪时点** 访谈聚焦毕业前夕的出路选择，中长期职业发展轨迹尚未可知——[[Lost Mode|迷失无从者]]的长期后果是否如毕业时显现的那样不利，有待追踪验证
 
 > [!warning]

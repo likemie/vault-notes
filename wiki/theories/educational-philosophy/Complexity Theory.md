@@ -209,7 +209,7 @@ Davis & Sumara（2005, p. 455）在自组织的语境中强化了这一观点：
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen, Manion & Morrison (2011)]] — 系统阐述复杂性理论在教育研究中的范式建构与方法论渗透：将其确立为超越实证与诠释的替代性范式（Ch. 1）、反思实验研究与 RCT 的线性因果假定（Ch. 16）、论证行动研究与自组织涌现的九重深层共鸣（Ch. 18），并以此作为计算机模拟与虚拟世界基于主体建模（ABM）的认识论基石（Ch. 19）。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen, Manion & Morrison (2011)]] — 系统阐述复杂性理论在教育研究中的[[Paradigm|范式]]建构与方法论渗透：将其确立为超越实证与诠释的替代性范式（Ch. 1）、反思[[Experimental Research|实验研究]]与 [[Randomised Controlled Trials|RCT]] 的线性因果假定（Ch. 16）、论证[[Action Research|行动研究]]与自组织[[Emergence|涌现]]的九重深层共鸣（Ch. 18），并以此作为[[Computer Simulation|计算机模拟]]与[[Virtual World|虚拟世界]]基于主体建模（[[Agent-based Modelling|ABM]]）的[[Epistemology|认识论]]基石（Ch. 19）。
 
 ## 关键引用
 

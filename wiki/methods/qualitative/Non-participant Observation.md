@@ -8,7 +8,7 @@ summary: "研究者不参与群体活动而从外部系统观察和记录行为�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 17
+method_related_count: 18
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Content Validity]]"
   - "[[Qualitative Codebook]]"
   - "[[Operationalization]]"
+  - "[[Intercoder Agreement]]"
   - "[[Covert Research]]"
   - "[[Halo Effect]]"
 related_methods:
@@ -74,7 +75,7 @@ updated: 2026-07-23
 > [!proc] 通用程序
 > 1. 确定观察焦点、行为类别和[[Coding in Qualitative Research|编码]]系统，定义需要记录的具体行为及其[[Operationalization|操作化]]指标
 > 2. 设计[[Structured Observation|结构化观察]]表，明确时间抽样或事件抽样的规则
-> 3. 培训观察者，确保编码一致性和观察者间[[Reliability|信度]]
+> 3. 培训观察者，确保[[Intercoder Agreement|编码一致性]]和观察者间[[Reliability|信度]]
 > 4. 在自然或半自然情境中实施观察，保持非参与地位，避免干扰被观察者
 > 5. 系统记录行为，按预定时间间隔或事件触发进行编码
 > 6. 分析数据，统计频数、识别模式、比较不同时段或不同群体

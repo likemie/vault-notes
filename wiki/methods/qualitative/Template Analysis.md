@@ -7,7 +7,7 @@ summary: "一种结合归纳开放编码与演提先验理论模板的质性文�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 17
+method_related_count: 20
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -22,12 +22,15 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Positivism]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Intercoder Agreement]]"
   - "[[Hypothesis]]"
   - "[[Operationalization]]"
 related_theories:
   - "[[Third Generation Activity Theory]]"
 related_methods:
+  - "[[Qualitative Content Analysis]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Open Coding]]"
   - "[[Qualitative Interview]]"
   - "[[Field Notes]]"
   - "[[Triangulation]]"
@@ -51,7 +54,7 @@ updated: '2026-07-22'
 ## 定义
 
 > [!def] 方法定义
-> 模板分析（Template Analysis）是由 Nigel King 等人提出并完善的一种质性文本分析方法。其核心在于将归纳性的开放[[Coding in Qualitative Research|编码]]（Open Coding）与基于先验理论/[[Document|文献]]概念的演绎性编码模板（A Priori Coding Template）有机结合，用于系统整理和分析大样本[[Qualitative Interview|质性访谈]]或文档数据。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 593)]]
+> 模板分析（Template Analysis）是由 Nigel King 等人提出并完善的一种[[Qualitative Content Analysis|质性文本分析]]方法。其核心在于将归纳性的开放[[Coding in Qualitative Research|编码]]（[[Open Coding]]）与基于先验理论/[[Document|文献]]概念的演绎性编码模板（A Priori Coding Template）有机结合，用于系统整理和分析大样本[[Qualitative Interview|质性访谈]]或文档数据。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 593)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 质性访谈[[Transcription in Qualitative Research|转录]]稿、教研文档、观察[[Field Notes|田野笔记]]与政策文本。
@@ -66,12 +69,12 @@ updated: '2026-07-22'
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 兼具[[Positivism|实证主义]]的结构化严谨性与[[Constructivist Paradigm|建构主义]]的语境丰富性，允许在先验理论导向下开展归纳性探究。
 > - **分析者角色** 分析过程通过构建与迭代[[Coding in Qualitative Research|编码]]模板完成中介解释，利用质性分析软件（如 NVivo）确保编码透明度。
-> - **有效性标准** 强调编码一致性、理论契合度（Theoretical Fit）与跨案例[[Triangulation|三角互证]]。
+> - **有效性标准** 强调[[Intercoder Agreement|编码一致性]]、理论契合度（Theoretical Fit）与跨案例[[Triangulation|三角互证]]。
 
 > [!method-stack] 方法层级
 > - **研究设计** 质性多[[Case Study|案例研究]]或跨文化比较研究。
 > - **数据收集** 半结构化[[Qualitative Interview|质性访谈]]、文档收集与[[Qualitative Observation|田野观察]]。
-> - **分析方法** 开放编码归纳与先验理论模板（如 3GAT 六构件）演绎。
+> - **分析方法** [[Open Coding|开放编码]]归纳与先验理论模板（如 3GAT 六构件）演绎。
 > - **辅助技术** NVivo 11/12 质性分析软件。
 
 ---
@@ -80,7 +83,7 @@ updated: '2026-07-22'
 
 > [!proc] 质性分析程序
 > 1. **[[Transcription in Qualitative Research|转录]]与熟悉文本** 全文转录访谈录音，初读文本建立整体感知。
-> 2. **开放[[Coding in Qualitative Research|编码]]** 开展归纳性开放编码（Open Coding），对原始文本段落赋予描述性节点。
+> 2. **开放[[Coding in Qualitative Research|编码]]** 开展归纳性[[Open Coding|开放编码]]（Open Coding），对原始文本段落赋予描述性节点。
 > 3. **构建初始模板** 将描述性节点重组映射至先验理论框架（如[[Third Generation Activity Theory|第三代活动理论]]的主体、客体、中介工具、规则、共同体、劳动分工）。
 > 4. **模板迭代与修改** 在 NVivo 中应用模板分析全部数据，根据新出现的矛盾或机制调整节点结构。
 > 5. **生成解释性主题** 系统剖析双系统的要素情境化、内部矛盾与扩展性改造路径。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 593)]]

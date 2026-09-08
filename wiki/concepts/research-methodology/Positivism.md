@@ -9,7 +9,7 @@ aliases:
 summary: "一种主张真正知识唯独建立在感官经验、观察与实验基础之上的认识论立场，预设自然与社会遵循同质客观法则；在启蒙发轫期曾从属于全人道德教化与社会改良，而在20世纪演化为追求价值中立与法则概括的统治性实证范式。"
 type: concept
 domain: "research-methodology"
-related_count: 87
+related_count: 86
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -96,7 +96,6 @@ related_persons:
   - "[[C. Arnold Anderson]]"
   - "[[Philip Foster]]"
   - "[[Jürgen Habermas]]"
-  - "[[Søren Kierkegaard]]"
   - "[[Francis Bacon]]"
   - "[[Karl Popper]]"
   - "[[Thomas Kuhn]]"
@@ -267,7 +266,7 @@ updated: 2026-09-08
 > [!claim] [[Jürgen Habermas|Habermas, J.]] & Horkheimer, M.
 > **工具理性极权与生活世界意义放逐** 当实证主义将经验科学方法垄断为真理的唯一合法判准时，它便演变成为一种不容置疑的新宗教（[[Scientism|科学主义]]）；实证主义将一切人类知识等同于追求技术控制的工具理性，不仅从根本上放逐了交往理性、审美体验与[[Ideology Critique|意识形态批判]]维度，更是造就了一个抹杀伦理反思的“没有良知的社会”。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, pp. 437–440)]]
 
-> [!claim] [[Søren Kierkegaard|Kierkegaard]], S.
+> [!claim] Kierkegaard, S.
 > **客观性幻觉对个体主观生存体验的抹杀** 实证主义所标榜的“客观性”是人类认知最大的幻觉；强行将冷酷的因果法则强加于人，实际上是将活生生的个体贬低为旨在发现客观规律的冷漠旁观者，彻底剥夺了个体的“主观性能力”与不可替代的内在生存体验。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, pp. 423–428)]]
 
 > [!claim] Skourdoumbis, N. & Rowe, E.
@@ -356,12 +355,12 @@ updated: 2026-09-08
 实证主义及其批评贯穿了教育哲学、比较教育与研究方法论的经典[[Document|文献]]。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 系统复原孔德实证主义的起源、四大科学[[Hypothesis|假设]]、[[Anthony Giddens|Giddens]] 识别的方法论统一与产出同构双重预设，并综合存在主义（克尔凯郭尔）、法兰克福学派（[[Jürgen Habermas|哈贝马斯]]）与社会学内部批评，展现当代教育研究向后实证与批判范式演进的完整版图。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 系统复原孔德实证主义的起源、四大科学[[Hypothesis|假设]]、[[Anthony Giddens|Giddens]] 识别的方法论统一与产出同构双重预设，并综合存在主义（克尔凯郭尔）、法兰克福学派（[[Jürgen Habermas|哈贝马斯]]）与社会学内部批评，展现当代教育研究向后实证与批判[[Paradigm|范式]]演进的完整版图。
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] — 剖析比较教育学奠基人[[Marc-Antoine Jullien|朱利安]]构建的准实证科学体系，澄清其事实分析图表与跨国[[Questionnaire|问卷]]归属于欧陆二级精神科学，揭示其经验收集始终从属于全人[[Bildung|教化]]与社会改良，强力反驳 20 世纪行为主义实证派以[[Value Neutrality|价值中立]]为由指责其带有主观偏见的辉格史错置。
 > - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009)]] — 系统梳理 20 世纪 60 年代诺亚与埃克斯坦（Noah & Eckstein）、霍姆斯（Holmes）、安德森（Anderson）与埃普斯坦（Epstein）等实证主义学者对历史比较学派发起的范式围剿，揭示实证派如何从依赖私人洞察力、缺乏因果预测力、个殊事实无法抽象以及涉嫌神秘主义四个维度将历史传统贬为“前科学”，并反思实证科学对英语 *Science* 狭隘词义垄断的[[Epistemology|认识论]]局限。
-> - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 深入剖析 20 世纪 60 年代比较教育实证科学范式内部围绕“法则性质”的深刻分野（芝加哥学派的恒常规律 vs 哥大学派的变量函数共变 vs 霍姆斯的权变社会学法则与预测划界），揭示实证主义之所以在实践中胜出，根源于其充当了战后国家五年计划与技术援助的政治[[Social Science as Legitimation Alibi|合法化借口]]（alibi），并追踪其在现实危机、量子不确定性转向与后现代思潮冲击下向多元范式演进的终结轨迹。
+> - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 深入剖析 20 世纪 60 年代比较教育实证[[Scientific Paradigm|科学范式]]内部围绕“法则性质”的深刻分野（芝加哥学派的恒常规律 vs 哥大学派的[[Variable|变量]]函数共变 vs 霍姆斯的权变社会学法则与预测划界），揭示实证主义之所以在实践中胜出，根源于其充当了战后国家五年计划与技术援助的政治[[Social Science as Legitimation Alibi|合法化借口]]（alibi），并追踪其在现实危机、量子不确定性转向与后现代思潮冲击下向多元范式演进的终结轨迹。
 > - [[Argument_Sandoval_2005_SE|Sandoval (2005)]] — 揭示中小学科学教育深受教条实证主义影响，将科学探究扭曲为呆板的线性实验室规程，进而呼吁突破幼稚的[[Formal Epistemology|形式认识论]]，转向关注学生在真实探究情境中的[[Practical Epistemology|实践认识论]]。
-> - [[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe (2024)]] — 剖析当代循证教育狂热标榜的实证主义科学话语，揭示将教学质量简化为元分析[[Effect Size|效应量]]与量化控制[[Variable|变量]]，本质上是对微观教学实践关系性本体论的粗暴抽空。
+> - [[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe (2024)]] — 剖析当代[[Evidence-Based Education|循证教育]]狂热标榜的实证主义科学话语，揭示将教学质量简化为[[Meta-analysis|元分析]][[Effect Size|效应量]]与量化控制[[Variable|变量]]，本质上是对微观教学实践关系性[[Ontology|本体论]]的粗暴抽空。
 > - [[Argument_Cowen_2009_CE|Cowen (2009b)]] — 回顾比较教育学科发展史，指出以美国 1960 年代科学实证派（如诺亚与埃克斯坦）为代表的实证主义霸权曾试图将跨国比较改造为脱离情境的假设检验与定律发现，最终在学科反思中被“转移-[[Transfer Translation Transformation|转译]]-变形”的后实证视角所解构。
 
 ---

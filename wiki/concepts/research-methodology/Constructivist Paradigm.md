@@ -12,7 +12,7 @@ aliases:
 summary: "跨越研究哲学、学习理论与社会理论的概念家族，强调意义、知识和规范在主体活动及社会历史互动中形成，并用于质性研究、课程设计与观念权力分析"
 type: concept
 domain: "research-methodology"
-related_count: 57
+related_count: 56
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -72,7 +72,6 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
 related_persons:
   - "[[Confucius]]"
-  - "[[George Herbert Mead]]"
 related_facts:
   - "[[Gaokao]]"
 related_arguments:
@@ -229,7 +228,7 @@ Biggs 将建构主义与[[Phenomenography|现象图式学]]视为[[Student Learn
 > - **1967 年：现实的社会建构经典化**　Berger & Luckmann 出版 *The Social Construction of Reality*，系统讨论日常知识和制度现实如何经社会互动形成。
 > - **1976—1981 年：[[Student Learning Research|学生学习研究]]形成相邻路线**　Marton & Säljö (1976, as cited in Biggs, 1999) 对学生阅读方式的研究揭示表层与[[Surface and Deep Learning|深层学习]]取向；Marton (1981, as cited in Biggs, 1999) 随后提出[[Phenomenography|现象图式学]]。这一路线与建构主义共同把学生在情境中的活动放到教学分析中心。[[Argument_Biggs_1999_HERD|(Biggs, 1999, pp. 59–60)]]
 > - **1985 年：进入[[Qualitative Research|质性研究]][[Paradigm|范式]]论述**　Lincoln & Guba 的 *[[Interpretive Paradigm|naturalistic inquiry]]* 将自然主义和解释性研究系统化。后来的研究设计教材通常把社会建构主义视为质性研究的重要世界观。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch. 1)]]
-> - **1990 年代：教育与国际关系中的制度化扩展**　课程改革广泛采用建构主义学习语言；Wendt 等学者则把规范、身份和观念的建构作用带入国际关系分析。芬兰教育讨论也在这一时期把 Dewey 的反思与 [[George Herbert Mead|Mead]] 的社会互动结合为[[Pragmatic Constructivism|实用主义建构主义]]。[[Argument_Schaffar_2024_CogentEdu|(Schaffar & Wolff, 2024)]]
+> - **1990 年代：教育与国际关系中的制度化扩展**　课程改革广泛采用建构主义学习语言；Wendt 等学者则把规范、身份和观念的建构作用带入国际关系分析。芬兰教育讨论也在这一时期把 Dewey 的反思与 Mead 的社会互动结合为[[Pragmatic Constructivism|实用主义建构主义]]。[[Argument_Schaffar_2024_CogentEdu|(Schaffar & Wolff, 2024)]]
 > - **1999 年：从学习理论转化为课程设计**　Biggs 用[[Constructive Alignment|建构性对齐]]把意义建构、学生学习活动、课程目标和评估整合为可操作的教学系统。[[Argument_Biggs_1999_HERD|(Biggs, 1999, pp. 60–65)]]
 > - **2020 年代：[[Recontextualization|再脉络化]]与知识批评并进**　跨文化研究考察建构主义教学如何与本土传统形成[[Selective Affinity|选择性亲和]]；[[Social Realism|社会实在论]]则追问自主建构和通用技能话语是否削弱了学生接触系统学科知识的机会。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025)]]; [[Argument_McPhail_2023_JCS|(McPhail et al., 2023)]]
 

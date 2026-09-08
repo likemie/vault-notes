@@ -10,7 +10,7 @@ aliases:
 summary: "主张科学研究应排除研究者主观价值偏见并保持程序中立的认识论规范；在启蒙发轫期曾被道德改良统摄，在韦伯与20世纪实证学派中被法典化为科学基石，而在批判理论与当代循证反思中被解构为服务于数字审计治理的权力意识形态。"
 type: concept
 domain: "research-methodology"
-related_count: 60
+related_count: 61
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -48,6 +48,7 @@ related_concepts:
   - "[[Analytical Stance]]"
   - "[[Reliability]]"
   - "[[Document]]"
+  - "[[Reflexivity]]"
   - "[[What Works Movement]]"
   - "[[Evaluation Research]]"
 related_theories:
@@ -186,7 +187,7 @@ updated: 2026-09-08
 ### 命题二　现代社会学确立的价值中立界限在战后实证主义清洗中演变为去价值负荷的科学图腾并遭遇内在反思
 
 > [!concept-lens] 科学事实说明与战后去价值负荷运动的交锋
-> 该维度回溯[[Max Weber|韦伯]]社会学传统，并深入战后比较教育学科争鸣，揭示[[Positivism|实证主义]]如何将排除“价值负荷”绝对化为科学资格基石，以及情境分析学者对其发起的内在[[Epistemology|认识论]]反思。
+> 该维度回溯韦伯社会学传统，并深入战后比较教育学科争鸣，揭示[[Positivism|实证主义]]如何将排除“价值负荷”绝对化为科学资格基石，以及情境分析学者对其发起的内在[[Epistemology|认识论]]反思。
 
 > [!claim] [[Max Weber|Weber, M.]]
 > **学术作为志业中的价值自由界限** 韦伯确立的价值自由（Wertfreiheit）原则，旨在规约大学教授在学术讲台上不得滥用讲座特权兜售个人党派政见；[[Scientific Method|经验科学]]能够澄清手段的有效性与伴随代价，但绝无法代替行动者做出终极的价值决断。科学的职责是使人“头脑清醒”，而不是充当现代先知。[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011, p. 29)]]
@@ -236,7 +237,7 @@ updated: 2026-09-08
 
 > [!timeline] 思想演进脉络
 > - **1810–1830 年代 — 启蒙现代性发轫期的伦理统摄（前价值中立期）** 比较教育奠基人[[Marc-Antoine Jullien|朱利安]]构建跨国分析图表与[[Questionnaire|问卷调查]]，明确拒绝价值无涉，将经验数据严格统帅于全人道德重生（[[Bildung]]）与欧洲和平改良的崇高目的。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]]
-> - **1904–1917 — [[Max Weber|韦伯]]确立社会学价值自由（Wertfreiheit）规范** [[Max Weber|马克斯·韦伯]]系统阐明价值中立原则，界定经验事实解释与政策价值推崇的边界，倡导学者保持学术清醒。
+> - **1904–1917 — 韦伯确立社会学价值自由（Wertfreiheit）规范** [[Max Weber|马克斯·韦伯]]系统阐明价值中立原则，界定经验事实解释与政策价值推崇的边界，倡导学者保持学术清醒。
 > - **1958–1969 — 比较教育[[Positivism|实证主义]]运动发动清理“价值负荷”的[[Epistemology|认识论]]围剿** Templeton（1958）与诺亚、埃克斯坦（1969）以价值中立为标尺，批判传统历史哲学的“价值负荷”与“主观倾向”，推动学科向纯粹量化统计与客观假说检验转型。[[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009, pp. 61, 65)]]
 > - **1970–1980 年代 — [[Critical Theory|批判理论]]与多[[Paradigm|范式]]大解构** [[Critical Theory|批判理论]]、女性主义与[[Post-colonial Theory|后殖民理论]]彻底打破价值中立神话，揭示中立修辞掩盖西方男性霸权与阶级压迫的实质。[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]]
 > - **1981 — 霍姆斯批判实证[[Operationalization|操作化]]的假中立与价值渗透** 霍姆斯（Holmes, 1981）指出操作化指标无法脱离文化价值系统而存在，实证派的中立口号实质上服务于战后中央理性规划与国际援助机构的技术官僚治理。[[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009, pp. 64, 66)]]
@@ -282,7 +283,7 @@ updated: 2026-09-08
 价值中立概念的演进在西方教育学术[[Document|文献]]中积累了丰硕的论述。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 系统梳理西方研究方法论中价值中立的缘起、实证主义预设及其遭受的批判，剖析反身性与价值负荷对客观中立神话的解构。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 系统梳理西方研究方法论中价值中立的缘起、[[Positivism|实证主义]]预设及其遭受的批判，剖析[[Reflexivity|反身性]]与价值负荷对客观中立神话的解构。
 > - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 剖析战后实证学派如何通过清除“价值负荷”确立科学身份，同时系统梳理霍姆斯对实证派指标[[Operationalization|操作化]]假中立的尖锐批判，揭示中立口号与战后理性规划技术官僚体制的共生关系。
 > - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 深入剖析英国 [[Education Endowment Foundation|EEF]] 工具包等循证实践，揭示技术官僚如何借助“价值中立证据”的科学修辞，回避关于工人阶层贫困与资本主义教育不平等的根本性政治辩论，消解教师的[[Professional Judgment|专业判断力]]。
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] — 系统剖析早期比较教育文献，指出[[Marc-Antoine Jullien|朱利安]][[Questionnaire|问卷]]对道德宗教与全人[[Bildung|教化]]的鲜明预设绝非研究“缺陷”，而是欧陆精神科学中经验事实服从于社会伦理改良的必然要求，强力清算了实证派的教条指责。

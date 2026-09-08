@@ -41,11 +41,11 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Effect Size]]"
   - "[[Areas of Knowledge]]"
+  - "[[Epistemology]]"
   - "[[Causality]]"
   - "[[Attrition]]"
   - "[[Reliability]]"
   - "[[External Validity]]"
-  - "[[Epistemology]]"
 related_theories:
   - "[[Explicit Critical Thinking Instruction]]"
 related_methods:
@@ -358,7 +358,7 @@ journal: "Australian Journal of Education"
 > [!citation-card]- ToK 的官方定义
 > ToK 是"一门关于[[Critical Thinking|批判性思维]]和探究认识过程的课程，而非学习特定知识体系。它在 DP 中扮演特殊角色，为学生提供反思知识本质、在[[Areas of Knowledge|知识领域]]之间建立联系、并意识到自身视角以及他们共享知识的不同群体的视角的机会"。（IBO, 2014, p. 1, 转引自 p. 248）
 >
-> *"[A] course about critical thinking and inquiring into the process of knowing, rather than about learning a specific body of knowledge. It plays a special role in the DP by providing an opportunity for students to reflect on the nature of knowledge, to make connections between areas of knowledge and to become aware of their own perspectives and those of the various groups whose knowledge they share."*
+> *"[A] course about critical thinking and inquiring into the process of knowing, rather than about learning a specific body of knowledge. It plays a special role in the DP by providing an opportunity for students to reflect on the [[Epistemology|nature of knowledge]], to make connections between areas of knowledge and to become aware of their own perspectives and those of the various groups whose knowledge they share."*
 
 > [!citation-card]- 批判性思维的 Delphi 定义
 > 批判性思维是"基于严格的智力概念和原则进行有目的的、自我调节的判断的能力……被广泛认为是一项核心学术技能"。（Facione, 1990, p. 2, 转引自 p. 248）

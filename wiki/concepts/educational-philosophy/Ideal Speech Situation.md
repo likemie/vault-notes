@@ -170,4 +170,4 @@ updated: 2026-09-08
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen, Manion & Morrison (2011)]] — 将理想言说情境全面运用于教育研究方法论：在批判理论框架下阐明沟通行动规范（Ch. 2）、在行动研究中作为解放性对称沟通的前提（Ch. 18）、在虚拟世界研究中列出十四项原则并论证化身沟通对权力不对称的悬置可能（Ch. 19），以及在批判性话语分析中确立揭示意识形态扭曲的双重反身性标准（Ch. 22）。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen, Manion & Morrison (2011)]] — 将理想言说情境全面运用于教育研究方法论：在[[Critical Theory|批判理论]]框架下阐明沟通行动规范（Ch. 2）、在[[Action Research|行动研究]]中作为解放性对称沟通的前提（Ch. 18）、在[[Virtual World|虚拟世界]]研究中列出十四项原则并论证[[Avatar|化身]]沟通对权力不对称的[[Epoché|悬置]]可能（Ch. 19），以及在批判性[[Discourse Analysis|话语分析]]中确立揭示意识形态扭曲的[[Reflexivity|双重反身性]]标准（Ch. 22）。

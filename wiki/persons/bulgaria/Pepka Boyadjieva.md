@@ -58,7 +58,7 @@ updated: '2026-06-08'
 
 ### 2016 — *Rethinking Missions and Values of Higher Education*
 
-- APA：Boyadjieva, P., & Ilieva-Trichkova, P. (2016). Rethinking missions and values of higher education: Insights from the [[Capability Approach|capability approach]] and the institutional perspective. In R. Pritchard & J. Williams (Eds.), *Positioning higher education institutions: From here to there* (pp. 41–62). Sense Publishers.
+- APA：Boyadjieva, P., & Ilieva-Trichkova, P. (2016). Rethinking missions and values of higher education: Insights from the [[Capability Approach]] and the institutional perspective. In R. Pritchard & J. Williams (Eds.), *Positioning higher education institutions: From here to there* (pp. 41–62). Sense Publishers.
 - 核心内容：基于 Drèze & Sen 的可行能力路径和制度理论，发展了一个规范性的高等教育使命/角色多维模型([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, pp.128–129]])。
 - 思想位置：理论形成期——奠定了后续排名批判工作的概念基础。
 - 相关概念／理论：[[Capability Approach]]、[[Global Universities Rankings]]

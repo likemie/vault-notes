@@ -298,7 +298,7 @@ updated: 2026-09-08
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 系统复原从经典实证主义危机走向后实证主义、[[Postmodernism|后现代主义]]与[[Complexity Theory|复杂性理论]]的完整[[Paradigm|范式]]谱系，深刻剖析后实证主义关于知识推测性、理论与价值负荷、多元实在论以及与诠释/质性取向亲和性的认识论内涵（Ch. 1）。
 > - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009)]] — 系统剖析 1960 年代实证主义对比较教育历史学派的学科围剿，通过认识论溯源恢复德语 *Wissenschaft* 与希腊语 *Episteme* 广义科学传统，并援引[[Crane Brinton|布林顿]]比较史学确立非普适探索性假说理论，为[[Historical-Comparative Method|历史比较法]]确立现代科学合法性，构筑以人（*anthropos*）与全人[[Bildung|教化]]（*[[Paideia]]*）为中心的人文防线。
-> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 在全书核心框架中将后实证主义确立为[[Quantitative Research|量化研究]]与部分混合方法研究的主导世界观，系统阐述其决定论与还原论取向、推测性知识检验以及对严密测量[[Reliability|信度]]效度和系统误差审查的方法论规范。
+> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 在全书核心框架中将后实证主义确立为[[Quantitative Research|量化研究]]与部分[[Mixed Methods Research|混合方法研究]]的主导世界观，系统阐述其决定论与还原论取向、推测性知识检验以及对严密测量[[Reliability|信度]]效度和系统误差审查的方法论规范。
 
 ---
 

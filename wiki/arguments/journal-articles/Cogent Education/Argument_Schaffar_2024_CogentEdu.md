@@ -192,7 +192,7 @@ updated: 2026-06-22
 > - **19世纪末至20世纪初** Herbart 的心理学教育观在芬兰占据主导地位（由 Soininen and Lilius 推动），注重实证教育研究。同时，Meumann 在汉堡的实验教育学实验室成为芬兰学界效仿的典范。(p.7)
 > - **20世纪中叶** 战后芬兰教育心理学经历了两十余年的行为主义霸权统治，倾向于通过外部刺激控制和测量学习行为。
 > - **20世纪末的建构主义转向** 学界重新关注学生的自我调节（Self-regulation）与主动认知建构。
-> - **1990年代 PhBL 模型的诞生** 赫尔辛基大学的 Rauste-von Wright 将 Dewey 的反思理念与 [[George Herbert Mead|Mead]] 的社会互动理论融合为[[Pragmatic Constructivism|实用主义建构主义]]。她系统化了 PhBL 模型，并称其为课程的自我修正模型（Self-correcting model of curriculum），旨在打破理论与实践的传统隔阂。(pp.7–8)
+> - **1990年代 PhBL 模型的诞生** 赫尔辛基大学的 Rauste-von Wright 将 Dewey 的反思理念与 Mead 的社会互动理论融合为[[Pragmatic Constructivism|实用主义建构主义]]。她系统化了 PhBL 模型，并称其为课程的自我修正模型（Self-correcting model of curriculum），旨在打破理论与实践的传统隔阂。(pp.7–8)
 
 ---
 
@@ -239,7 +239,7 @@ updated: 2026-06-22
 > [!finding-cards] 核心发现
 > 1. **学科建制依然稳固** 芬兰基础教育改革并未用 [[Phenomenon-Based Learning|PhBL]] 全面取代传统学科，国际上关于芬兰学校取消学科分类的报道属媒体误读。(p.2)
 > 2. **课程文本的概念隐匿** 在芬兰语核心课程文本原版中并不存在现象本位学习（PhBL）这一专属复合术语，而是通过高频使用现象（ilmiö）概念及其与其他词汇的动态组合来渗透其教学精神。
-> 3. **[[Pragmatic Constructivism|实用主义建构主义]]的奠基** Rauste-von Wright 在1990年代将 Dewey 的反思理念与 [[George Herbert Mead|Mead]] 的社会互动理论结合，界定 PhBL 为课程自我修正模型，构成了芬兰 PhBL 政策的心理学基石。(pp.7–8)
+> 3. **[[Pragmatic Constructivism|实用主义建构主义]]的奠基** Rauste-von Wright 在1990年代将 Dewey 的反思理念与 Mead 的社会互动理论结合，界定 PhBL 为课程自我修正模型，构成了芬兰 PhBL 政策的心理学基石。(pp.7–8)
 > 4. **新自由主义治理悖论** PhBL 的课程化过程深度卷入了 [[OECD]] 及欧盟的全球教育治理框架，导致其整体性体验理想与绩效问责下的技能原子化倾向产生持续张力。(pp.8–10)
 
 ---

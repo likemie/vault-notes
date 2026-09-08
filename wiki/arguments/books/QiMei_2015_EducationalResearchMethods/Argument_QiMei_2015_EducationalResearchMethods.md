@@ -10,7 +10,7 @@ title: "Argument_QiMei_2015_EducationalResearchMethods"
 argument_key: "Argument_QiMei_2015_EducationalResearchMethods"
 argument_display_title: "教育研究方法"
 argument_kind: "book"
-argument_related_count: 125
+argument_related_count: 128
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -147,6 +147,9 @@ related_methods:
   - "[[Snowball Sampling]]"
   - "[[Convenience Sampling]]"
   - "[[Quota Sampling]]"
+  - "[[Open Coding]]"
+  - "[[Axial Coding]]"
+  - "[[Selective Coding]]"
   - "[[Mixed Methods Research]]"
   - "[[Constant Comparison]]"
   - "[[In-depth Interview]]"
@@ -721,7 +724,7 @@ Campbell & Stanley (1963) 识别了影响内在效度的九类因素：
 
 访谈实施七步：设计提纲确定类型 → 做好人物力准备（访谈员选拔培训） → 安排时间地点人员 → 初步接触争取配合 → 积极把握访谈过程 → 建立良好关系 → 不断反思调整。
 
-访谈数据的分析依赖数据性质：定量数据（封闭式问卷的结构式访谈）采用与问卷调查相同的统计分析，但需注意[[Sample Size Determination|样本量]]偏小和随机抽样条件；定性数据（半结构式和无结构式访谈）分为解释性框架下的分析和以建构理论为目的的分析（核心是编码，包括开放式编码、轴心式编码和选择式编码三种方式）。
+访谈数据的分析依赖数据性质：定量数据（封闭式问卷的结构式访谈）采用与问卷调查相同的统计分析，但需注意[[Sample Size Determination|样本量]]偏小和随机抽样条件；定性数据（半结构式和无结构式访谈）分为解释性框架下的分析和以建构理论为目的的分析（核心是编码，包括[[Open Coding|开放式编码]]、[[Axial Coding|轴心式编码]]和[[Selective Coding|选择式编码]]三种方式）。
 
 ##### 问卷调查与访谈调查的关系
 

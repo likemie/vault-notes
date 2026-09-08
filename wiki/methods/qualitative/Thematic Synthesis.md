@@ -9,7 +9,7 @@ summary: "一种专门用于系统综述中整合质性与混合方法研究证�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 33
+method_related_count: 34
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -53,6 +53,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[PRISMA]]"
   - "[[Theoretical Sampling]]"
+  - "[[Axial Coding]]"
 related_instruments:
   - "[[Mixed Methods Appraisal Tool]]"
 related_arguments:
@@ -155,7 +156,7 @@ updated: 2026-08-31
 > | [[Systematic Review]] | 总体框架 | 主题综合法是系统综述中处理质性与混合证据的核心数据分析技术。 |
 > | [[PRISMA]] | 报告规范 | 为主题综合法的[[Literature Search\|文献检索]]、筛选漏斗与透明化呈现提供全流程指南。 |
 > | [[Mixed Methods Appraisal Tool]] | 质量评估 | 为纳入主题综合的多元设计[[Document\|文献]]提供标准化的方法学质量筛选门槛。 |
-> | [[Coding in Qualitative Research]] | 基础技术 | 逐行编码与轴心编码构成主题综合法的底层操作基石。 |
+> | [[Coding in Qualitative Research]] | 基础技术 | 逐行编码与[[Axial Coding\|轴心编码]]构成主题综合法的底层操作基石。 |
 
 ---
 

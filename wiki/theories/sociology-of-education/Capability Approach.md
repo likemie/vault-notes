@@ -78,7 +78,7 @@ updated: 2026-09-08
 ## 相关研究
 
 > [!example]
-> - [[Argument_Boyadjieva_2022_Springer|Boyadjieva (2022)]] — 以五种教育价值为基础构建 2×3 多维使命模型，系统批判全球大学排名对高等教育使命多样性的忽视。
+> - [[Argument_Boyadjieva_2022_Springer|Boyadjieva (2022)]] — 以五种教育价值为基础构建 2×3 多维使命模型，系统批判[[Global Universities Rankings|全球大学排名]]对高等教育使命多样性的忽视。
 
 ---
 

@@ -62,4 +62,4 @@ updated: 2026-08-13
 > [!theory-boundary] 
 > - **适合** 解释女性的自我概念转变及其对知识看法的深层影响。
 > - **不适合** 用于断定某些[[Ways of Knowing|认知方式]]仅为女性独有，因为缺乏男性对照组。
-> - **局限** 将知识来源（[[Source of Knowledge]]）的重心置于知识的性质（nature of knowledge）之上。[[Argument_Hofer_1997_RER|(Hofer & Pintrich, 1997, p. 96)]]
+> - **局限** 将知识来源（[[Source of Knowledge]]）的重心置于知识的性质（[[Epistemology|nature of knowledge]]）之上。[[Argument_Hofer_1997_RER|(Hofer & Pintrich, 1997, p. 96)]]

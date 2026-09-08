@@ -11,7 +11,7 @@ summary: "通过访谈、观察和文本材料理解行动者经验、意义建�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 57
+method_related_count: 59
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -68,6 +68,8 @@ related_methods:
   - "[[Ethnography]]"
   - "[[Case Study]]"
   - "[[Descriptive Methods]]"
+  - "[[Axial Coding]]"
+  - "[[Selective Coding]]"
   - "[[Observational and Correlational Research]]"
   - "[[Qualitative Interview]]"
   - "[[Qualitative Observation]]"
@@ -174,7 +176,7 @@ Creswell & Creswell（2022, Ch9）提出了质性数据分析的七个步骤，�
 
 **[[Descriptive Methods|描述性方法]]（Descriptive Methods）**是基础性分析路径，研究者贴近数据本身，使用有限的框架和解释，将信息归类为主题。它基于参与者日常语言，追求抽样中的最大变异度。
 
-**[[Analytic Framework|分析框架]]（Analytic Framework）**在描述性方法的基础上叠加特定的解释传统。包括[[Narrative Research|叙事研究]]（重构参与者故事）、[[Phenomenology|现象学]]（分析意义单元和本质描述）、[[Grounded Theory|扎根理论]]（开放[[Coding in Qualitative Research|编码]]、轴心编码、选择性编码的系统步骤）、[[Ethnography|民族志]]和[[Case Study|案例研究]]（详细场所描述后分析主题）。
+**[[Analytic Framework|分析框架]]（Analytic Framework）**在描述性方法的基础上叠加特定的解释传统。包括[[Narrative Research|叙事研究]]（重构参与者故事）、[[Phenomenology|现象学]]（分析意义单元和本质描述）、[[Grounded Theory|扎根理论]]（开放[[Coding in Qualitative Research|编码]]、[[Axial Coding|轴心编码]]、[[Selective Coding|选择性编码]]的系统步骤）、[[Ethnography|民族志]]和[[Case Study|案例研究]]（详细场所描述后分析主题）。
 
 > [!example]- 图9.1：描述性方法与源于传统的分析方法
 > ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_9-1_Descriptive_Methods_Analytic_Frameworks.jpg)

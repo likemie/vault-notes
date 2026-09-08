@@ -8,7 +8,7 @@ summary: "系统比较不同地区或国家教科书的质性分析方法，以�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 19
+method_related_count: 20
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Reliability]]"
   - "[[Rich and Thick Description]]"
+  - "[[Intercoder Agreement]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Imagined Community]]"
 related_theories:
@@ -83,7 +84,7 @@ updated: '2026-07-22'
 > - **研究设计** 比较案例设计，包括横向跨地区（大陆 vs 香港中史教材）与纵向跨时期（通识科 vs [[Citizenship and Social Development|公社科]]改革教材）设计。
 > - **数据收集** 按时间、版本和科目范畴系统抽取并数字化教科书文本。
 > - **分析方法** 子句分割（clause-level unitising）、框架信息型归纳编码、定量描述比较与定性文本分析相结合。
-> - **辅助技术** 独立编码一致性三角验证、软件辅助归纳编码（如 NVivo）。
+> - **辅助技术** 独立[[Intercoder Agreement|编码一致性]]三角验证、软件辅助归纳编码（如 NVivo）。
 
 ---
 

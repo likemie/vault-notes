@@ -8,7 +8,7 @@ aliases:
 summary: "先完整论述古典哲学层面（杜威等的经验、探究与行动后果），再阐述延伸出的研究方法论层次（混合方法研究的问题驱动、适合目的与方法自由）。"
 type: concept
 domain: "research-methodology"
-related_count: 29
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -45,7 +45,6 @@ related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
 related_persons:
-  - "[[George Herbert Mead]]"
   - "[[John Dewey]]"
 related_facts: []
 related_arguments:
@@ -67,7 +66,7 @@ updated: '2026-07-24'
 
 > [!def] 核心定义（从哲学层面到方法论层次的演进）
 > 实用主义[[Paradigm|范式]]（Pragmatic Paradigm）包含逻辑与历史递进的两个层次：
-> 1. **哲学层面（古典哲学传统）** 首先起源于 Peirce、James、[[George Herbert Mead|Mead]] 与 [[John Dewey|杜威]]，是一门关于经验连续性、[[Reflexivity|反思性]]探究、行动后果与民主重组的古典哲学体系，拒绝绝对形而上学与脱离情境的确定性真理。
+> 1. **哲学层面（古典哲学传统）** 首先起源于 Peirce、James、Mead 与 [[John Dewey|杜威]]，是一门关于经验连续性、[[Reflexivity|反思性]]探究、行动后果与民主重组的古典哲学体系，拒绝绝对形而上学与脱离情境的确定性真理。
 > 2. **方法论层次（研究方法论范式）** 随后由 Cherryholmes (1992)、Morgan (2007)、Denscombe (2008)、[[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] 与 [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] 等学者拓展，专指[[Mixed Methods Research|混合方法研究]]的哲学基础，主张以[[Research Question|研究问题]]为中心、以[[Fitness for Purpose|适合目的]]与实践效用为取向，超越纯量化与纯质性的范式对立。
 
 > [!concept-lens] 概念透镜（双层演进脉络）
@@ -205,7 +204,7 @@ updated: '2026-07-24'
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **19世纪末–20世纪初 — 哲学起源（哲学层面）** Peirce, James, [[George Herbert Mead|Mead]] 与 [[John Dewey|杜威]] 建立实用主义哲学体系，重构经验、探究、民主与行动后果。
+> - **19世纪末–20世纪初 — 哲学起源（哲学层面）** Peirce, James, Mead 与 [[John Dewey|杜威]] 建立实用主义哲学体系，重构经验、探究、民主与行动后果。
 > - **1990s–2000s — 方法论[[Paradigm|范式]]奠基（方法论层次）** Cherryholmes (1992), Patton (1990), Tashakkori & Teddlie (2010), Johnson & Onwuegbuzie (2004), Denscombe (2008), Morgan (2007) 将实用主义确立为[[Mixed Methods Research|混合方法研究]]的官方哲学基础。
 > - **2010s至今 — 教育研究应用与跨国解构** 深入[[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]]与[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]]教材体系，同时在比较教育中被用来分析实用主义哲学在非西方社会的跨国转移与结构性拆解（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024]]）。
 

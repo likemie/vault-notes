@@ -9,7 +9,7 @@ summary: "质性研究中贴近数据本身、使用有限框架和解释、将�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 12
+method_related_count: 15
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -30,6 +30,9 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Field Notes]]"
   - "[[Grounded Theory]]"
+  - "[[Open Coding]]"
+  - "[[Axial Coding]]"
+  - "[[Selective Coding]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -73,7 +76,7 @@ updated: 2026-06-01
 
 > [!tip]-
 > - vs [[Analytic Framework|分析框架]] — 描述性方法是基础性方法，使用参与者日常语言；分析框架在此基础上叠加特定的解释传统（analytic tradition），超越日常语言进行解释（Braun & Clark, 2006, p.78）。描述性方法不因"基础性"而在价值或可[[Reliability|信度]]上低于分析框架
-> - vs [[Grounded Theory|扎根理论]] — 扎根理论的目标是生成抽象理论，有系统的多阶段[[Coding in Qualitative Research|编码]]程序（开放编码→轴心编码→选择性编码）；描述性方法的目标是分类和呈现主题本身
+> - vs [[Grounded Theory|扎根理论]] — 扎根理论的目标是生成抽象理论，有系统的多阶段[[Coding in Qualitative Research|编码]]程序（[[Open Coding|开放编码]]→[[Axial Coding|轴心编码]]→[[Selective Coding|选择性编码]]）；描述性方法的目标是分类和呈现主题本身
 > - vs [[Phenomenology|现象学]] — 现象学聚焦于体验的本质结构；描述性方法聚焦于内容的显性主题
 
 ---

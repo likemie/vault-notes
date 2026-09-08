@@ -173,7 +173,7 @@ updated: 2026-09-08
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen, Manion & Morrison (2011)]] — 系统阐释批判教育研究的理论框架与应用图景（Ch. 2）：解构 Tyler 课程原理的[[Positivism|实证主义]]预设并将课程重读为意识形态选择，阐明[[Participatory Research|参与式研究]]的社区赋权逻辑，并论述[[Feminist Research|女性主义研究]]对批判传统的认识论拓展。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen, Manion & Morrison (2011)]] — 系统阐释批判教育研究的理论框架与应用图景（Ch. 2）：解构 Tyler 课程原理的[[Positivism|实证主义]]预设并将课程重读为意识形态选择，阐明[[Participatory Research|参与式研究]]的社区赋权逻辑，并论述[[Feminist Research|女性主义研究]]对批判传统的[[Epistemology|认识论]]拓展。
 
 ---
 

@@ -10,7 +10,7 @@ summary: "用于辅助质性研究中文本、音频与图像数据组织、编�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 48
+method_related_count: 49
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -31,10 +31,10 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Qualitative Validity]]"
   - "[[Qualitative Reliability]]"
+  - "[[Central Phenomenon]]"
   - "[[Qualitative Codebook]]"
   - "[[Memos]]"
   - "[[Saturation]]"
-  - "[[Central Phenomenon]]"
   - "[[Story Line]]"
   - "[[Hypothesis]]"
   - "[[Paradigm]]"
@@ -60,6 +60,7 @@ related_methods:
   - "[[Narrative Research]]"
   - "[[Ethnography]]"
   - "[[Mixed Methods Research]]"
+  - "[[Open Coding]]"
   - "[[Template Analysis]]"
   - "[[Content Analysis]]"
   - "[[In-depth Interview]]"
@@ -117,7 +118,7 @@ updated: 2026-09-08
 > [!method-stack] 方法层级
 > - **研究设计** [[Grounded Theory|扎根理论]]、[[Phenomenology|现象学]]、[[Narrative Research|叙事研究]]、[[Ethnography|民族志]]、多案例比较研究或探索性[[Mixed Methods Research|混合方法]]设计。
 > - **数据接入** 导入纯文本、富文本（Word/PDF）、扫描档案、音频录音、视频切片及[[Questionnaire|问卷调查]]开放性回答。
-> - **分析方法** 归纳式开放编码、演绎式模板赋码（[[Template Analysis]]）、[[Content Analysis|内容分析]]矩阵统计、交叉共现比较与核心范畴理论整合。
+> - **分析方法** 归纳式[[Open Coding|开放编码]]、演绎式模板赋码（[[Template Analysis]]）、[[Content Analysis|内容分析]]矩阵统计、交叉共现比较与[[Central Phenomenon|核心范畴]]理论整合。
 > - **辅助技术**
 >   - 主流 CAQDAS 平台（NVivo、MAXQDA、ATLAS.ti、Dedoose、QDA Miner）
 >   - 大语言模型少样本提示工程与人在回路（HITL）校准接口
@@ -206,7 +207,7 @@ updated: 2026-09-08
 > | | [[Content Analysis\|内容分析]] | 核心应用 | 软件支持关键词提取、规则化范畴匹配与频次矩阵统计的典型分析方法。 |
 > | | [[Template Analysis\|模板分析]] | 协同方法 | 在软件中构建分层编码模板并随经验分析迭代调整的结构化分析技术。 |
 > | **分析操作与空间化呈现** | [[Coding in Qualitative Research\|质性编码]] | 核心操作 | 软件最核心的分析交互载体，将文本切片转化为结构化概念节点。 |
-> | | [[Data Reduction\|数据缩减]] | 分析目标 | 借助软件的筛选、编码聚并与主题收敛，将海量资料提炼为核心范畴。 |
+> | | [[Data Reduction\|数据缩减]] | 分析目标 | 借助软件的筛选、编码聚并与主题收敛，将海量资料提炼为[[Central Phenomenon\|核心范畴]]。 |
 > | | [[Data Display\|数据展示]] | 协同呈现 | 借助软件输出的树状图、共现矩阵与网络拓扑图空间化呈现分析发现。 |
 > | **质量控制与[[Epistemology\|认识论]]准则** | [[Audit Trail\|审计追踪]] | [[Reliability\|信度]]保障 | 记录编码演变、版本迭代、备忘录链条与人机交互日志以确保分析透明可审。 |
 > | | [[Qualitative Codebook\|质性编码手册]] | 质量工具 | 为软件内多编码者协同或大模型提示词提供统一的[[Operationalization\|操作化]]定义与样例约束。 |
@@ -219,4 +220,4 @@ updated: 2026-09-08
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|Cohen et al. (2011)]]（亦见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Ch. 30]]） — 系统总结 CAQDAS 的功能类型、Kelle 六步规程与[[Reliability|信度]]效度机制，并深入探讨大语言模型智能辅助[[Coding in Qualitative Research|编码]]的三大进路、[[Paradigm|范式]]对比与人在回路准则。
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, Ch. 9)]] — 阐明计算机软件辅助[[Winnowing|数据筛选]]与 5–7 个主题聚合的实操流程，强调软件不替代研究者分析责任，并梳理现代主流软件包。
-> - [[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]] — 在 NVivo 11 中结合开放编码与基于[[Third Generation Activity Theory|第三代活动理论]]（3GAT）六构件的[[Template Analysis|模板分析]]，对 25 份[[Semi-structured Interview|半结构化访谈]]展开扎根编码与矛盾解析。
+> - [[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]] — 在 NVivo 11 中结合[[Open Coding|开放编码]]与基于[[Third Generation Activity Theory|第三代活动理论]]（3GAT）六构件的[[Template Analysis|模板分析]]，对 25 份[[Semi-structured Interview|半结构化访谈]]展开扎根编码与矛盾解析。

@@ -7,7 +7,7 @@ aliases:
 summary: "教育改革选择性参照外部政策经验并在本地重新解释、合法化和变形的过程，是比较教育分析跨国改革流动的核心概念"
 type: concept
 domain: "comparative-education"
-related_count: 54
+related_count: 58
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -44,6 +44,9 @@ related_concepts:
   - "[[Government to Governance Shift]]"
   - "[[Methodological Statism]]"
   - "[[Methodological Nationalism]]"
+  - "[[Visible Learning]]"
+  - "[[Heterogeneity]]"
+  - "[[Network Governance]]"
 related_theories:
   - "[[World Society Theory]]"
   - "[[Autopoiesis]]"
@@ -68,6 +71,7 @@ related_facts:
   - "[[OECD]]"
   - "[[PISA]]"
   - "[[Prussian Draft Education Law of 1819]]"
+  - "[[Liberal Studies]]"
 related_arguments:
   - "[[Argument_Yan_2025_JCS]]"
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
@@ -332,12 +336,12 @@ updated: 2026-09-08
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] — 系统剖析 19 世纪欧美跨国借用的机制分野：维克多·库森在法国推行的普鲁士教育法案“实定法直接转置”模式，与霍勒斯·曼在北美将普鲁士公学实绩作为反击保守派的“政治合法化论证依据”模式。
-> - [[Argument_Rappleye_2006_RCIE|Rappleye (2006)]] — 构建跨国吸引力情境概念地图，剖析前转移能动性与吸引力四种修辞动机，并以甲午战争后中国晚清改革派与保守派基于不同政治动机共同借用日本教育体制为例展开实证分析。
-> - [[Argument_Cowen_2009_CE|Cowen (2009b)]] — 建立“转移—转译—形态变异”分析视角，论证教育政策元素在跨国流动中受微观权力与时空重构必然发生实质形态改变。
-> - [[Argument_Yan_2025_JCS|Yan & Morris (2025)]] — 追踪香港通识教育科从创立到废除的生命周期，揭示政策借用作为本土政治议程外化合法化工具的运作机制，并界定高压威权行政接管下政策借用分析框架的失效边界。
-> - [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] — 详细呈现可见的学习（Visible Learning）进入俄罗斯教育界后，因遭遇方法论异质性、教师去专业化风险与行政报表官僚化威胁，最终本土学者提出“拒绝采用”建议的过程。
-> - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — 综述 PISA 国际排名如何将东亚与芬兰等确立为全球“参考社会”，剖析韩国政策借用从日本模式向芬兰模式动态切换的制度化历程。
-> - [[Argument_Beech_2015_GSE|Beech & Artopoulos (2015)]] — 批判传统政策借用局限于国家官方书面文本的静态假设，从网络治理视角揭示去中心化非官方网络中话语权力的微观流转与转译机制。
-> - [[Argument_Amos_2022_Springer|Amos (2022)]] — 剖析迈克尔·萨德勒和迈克尔·考恩的学术遗产，说明政策借用如何随着现代性社会系统翻转从偶发外交变成常规合法化手段。
-> - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 将国际关系三大思想传统（现实主义、理性主义、革命主义）引入政策流动研究，系统解构政策借用背后的地缘政治与生存焦虑底色。
+> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] — 系统剖析 19 世纪欧美跨国借用的机制分野：[[Victor Cousin|维克多·库森]]在法国推行的普鲁士教育法案“实定法直接转置”模式，与[[Horace Mann|霍勒斯·曼]]在北美将普鲁士公学实绩作为反击保守派的“政治合法化论证依据”模式。
+> - [[Argument_Rappleye_2006_RCIE|Rappleye (2006)]] — 构建[[Cross-National Attraction|跨国吸引力]]情境[[Concept Mapping|概念地图]]，剖析[[Pre-Transfer Agency|前转移能动性]]与吸引力四种修辞动机，并以甲午战争后中国晚清改革派与保守派基于不同政治动机共同借用日本教育体制为例展开实证分析。
+> - [[Argument_Cowen_2009_CE|Cowen (2009b)]] — 建立“转移—[[Transfer Translation Transformation|转译]]—形态变异”分析视角，论证教育政策元素在跨国流动中受微观权力与时空重构必然发生实质形态改变。
+> - [[Argument_Yan_2025_JCS|Yan & Morris (2025)]] — 追踪[[Liberal Studies|香港通识教育科]]从创立到废除的生命周期，揭示政策借用作为本土政治议程[[Externalization|外化]]合法化工具的运作机制，并界定高压威权行政接管下政策借用[[Analytic Framework|分析框架]]的失效边界。
+> - [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] — 详细呈现[[Visible Learning|可见的学习]]（Visible Learning）进入俄罗斯教育界后，因遭遇方法论[[Heterogeneity|异质性]]、教师去专业化风险与行政报表官僚化威胁，最终本土学者提出“拒绝采用”建议的过程。
+> - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — 综述 [[PISA]] 国际排名如何将东亚与芬兰等确立为全球“[[Reference Society|参考社会]]”，剖析韩国政策借用从日本模式向芬兰模式动态切换的制度化历程。
+> - [[Argument_Beech_2015_GSE|Beech & Artopoulos (2015)]] — 批判传统政策借用局限于国家官方书面文本的静态[[Hypothesis|假设]]，从[[Network Governance|网络治理]]视角揭示去中心化非官方网络中话语权力的微观流转与转译机制。
+> - [[Argument_Amos_2022_Springer|Amos (2022)]] — 剖析[[Michael Sadler|迈克尔·萨德勒]]和迈克尔·考恩的学术遗产，说明政策借用如何随着现代性社会系统翻转从偶发外交变成常规合法化手段。
+> - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 将国际关系三大思想传统（[[Realism in International Relations|现实主义]]、[[Rationalism in International Relations|理性主义]]、[[Revolutionism|革命主义]]）引入政策流动研究，系统解构政策借用背后的地缘政治与生存焦虑底色。

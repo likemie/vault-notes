@@ -7,7 +7,7 @@ aliases:
 summary: "解释大学生毕业出路分化的 2×2 四分类模型，以目的手段行动力和价值信念驱动力为两轴，划分自主驱动者、机会主义者、迷失无从者和价值归顺者"
 type: concept
 domain: "sociology-of-education"
-related_count: 13
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -32,7 +32,6 @@ related_theories:
 related_methods: []
 related_persons:
   - "[[Yajun Zheng]]"
-  - "[[Max Weber]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
@@ -100,7 +99,7 @@ updated: 2026-05-18
 > [!info] 理论基础
 > 该模型整合了文化社会学中关于文化与行动关系的两种理论路径（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）：
 >
-> - **价值观驱动[[Paradigm|范式]]（[[Max Weber|韦伯]]-帕森斯传统）** 解释人的行动目的如何确立——对应横轴的价值信念驱动力维度
+> - **价值观驱动[[Paradigm|范式]]（韦伯-帕森斯传统）** 解释人的行动目的如何确立——对应横轴的价值信念驱动力维度
 > - **[[Culture as Toolkit|文化工具箱]]范式（Swidler, 1986）** 解释人如何像使用工具那样使用文化去达到预先确立的目的——对应纵轴的目的-手段行动力维度
 >
 > 两种路径"有论无争，甚至互相补充"——价值观驱动解释目的如何确立，工具箱解释人如何利用文化去达到目的。

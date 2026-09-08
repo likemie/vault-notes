@@ -9,7 +9,7 @@ aliases:
 summary: "Geertz (1973) 提出的质性研究质量标准，要求不仅提供详细的观察数据，还须包含意义、参与者诠释和不可观察因素的数据，使读者能够充分理解情境并对研究发现做出知情判断。"
 type: concept
 domain: "research-methodology"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -45,6 +45,7 @@ related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 confidence: medium
 status: draft
 created: 2026-06-01
@@ -163,5 +164,5 @@ Morrison（1993, p. 88）进一步指出，通过在一段时间内沉浸于特�
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 将厚描述定位为核心质性效度策略之一，强调其在民族志与案例研究中的现场传达感以及对自然主义概括的支撑（Ch. 9）。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 全书多维度系统论述厚描述的认识论与实践根基：将其确立为自然主义范式公理与概括性基础（Ch. 11）、提炼参与式观察中言语与非言语等构成要素（Ch. 23），并阐释质性分析中铭写社会话语与增加数据密度的双重诠释机制（Ch. 28）。
+> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 将厚描述定位为核心[[Qualitative Validity|质性效度]]策略之一，强调其在[[Ethnography|民族志]]与[[Case Study|案例研究]]中的现场传达感以及对[[Naturalistic Generalization|自然主义概括]]的支撑（Ch. 9）。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 全书多维度系统论述厚描述的[[Epistemology|认识论]]与实践根基：将其确立为自然主义[[Paradigm|范式]]公理与概括性基础（Ch. 11）、提炼参与式观察中言语与非言语等构成要素（Ch. 23），并阐释质性分析中铭写社会话语与增加数据密度的[[Double Hermeneutic|双重诠释]]机制（Ch. 28）。

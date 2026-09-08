@@ -9,7 +9,7 @@ title: "Argument_Boyadjieva_2022_Springer"
 argument_key: "Argument_Boyadjieva_2022_Springer"
 argument_display_title: "(Un)avoidable clash: Higher education at the altar of its missions and rankings"
 argument_kind: "book"
-argument_related_count: 23
+argument_related_count: 22
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -48,7 +48,6 @@ related_theories:
 related_methods: []
 related_persons:
   - "[[Pepka Boyadjieva]]"
-  - "[[Max Weber]]"
   - "[[Ellen Hazelkorn]]"
 related_facts:
   - "[[Academic Ranking of World Universities]]"
@@ -162,7 +161,7 @@ citation_aliases:
 > **社会-内在性** 大学作为机构持续向社会传递"科学理性是判断真伪的权威标准""宽容和多样性是值得追求的价值"——这些价值观的再生产不直接产生 GDP，但它们构成了现代社会运行的底层共识。
 > **社会-转化性** 大学扩招使原本上不了大学的农村孩子获得了进入城市中产阶层的通道——这改变了社会流动的模式，而不仅仅是增加了个人的收入。
 
-需要强调的是，这个模型是一个"[[Max Weber|韦伯]]意义上的理想类型"——现实中没有一所大学能在这六个格子上都做到满分。它的作用是作为分析工具：审视排名时，可以追问——排名覆盖了这六个格子中的哪几个？漏掉了哪几个？(p.130)
+需要强调的是，这个模型是一个"韦伯意义上的理想类型"——现实中没有一所大学能在这六个格子上都做到满分。它的作用是作为分析工具：审视排名时，可以追问——排名覆盖了这六个格子中的哪几个？漏掉了哪几个？(p.130)
 
 
 ### 第三步：理解排名为什么会出现——它不只是"有人搞出来的坏东西"
@@ -368,7 +367,7 @@ Boyadjieva 公平地承认，一些排名系统已经意识到了上述问题并
 
 > [!warning]
 > - **作者未陈述方法论局限** 该研究本身为规范性概念分析和[[Literature Review|文献综述]]，未包含独立的一手实证数据收集。其对排名系统的批判力度，部分取决于读者是否接受其理论框架的前提[[Hypothesis|假设]]。
-> - **理想类型的局限** 多维使命模型被作者明确定位为"[[Max Weber|韦伯]]意义上的理想类型——没有本体实在，仅作为认知工具"(p.130)。这意味着该模型是分析的起点而非终点——不同国家和制度脉络中的高等教育使命可能与该模型有显著偏差。
+> - **理想类型的局限** 多维使命模型被作者明确定位为"韦伯意义上的理想类型——没有本体实在，仅作为认知工具"(p.130)。这意味着该模型是分析的起点而非终点——不同国家和制度脉络中的高等教育使命可能与该模型有显著偏差。
 > - **结论的乐观倾向** Boyadjieva 最终建议"通过排名的多样化和与其他问责工具的互补来回应使命多样性"，但这个结论可能低估了排名逻辑本身的某些特性——比如排名所创造的市场式竞争是否在结构上就与高等教育的多元价值不相容？该研究没有充分处理这一矛盾。
 > - **忽略了一个经验性问题**Altbach & Hazelkorn(2017)的"专注于使命而非排名"的呼吁，和 Boyadjieva 的"在结构上不可能放弃排名"的回应之间，是否存在一个中间地带？该研究没有探讨那些在排名压力下仍然成功保持多元使命的高校案例——如果存在这样的案例，它们会是"如何做到的"的重要经验证据。
 

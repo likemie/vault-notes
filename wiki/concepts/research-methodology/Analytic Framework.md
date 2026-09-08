@@ -7,7 +7,7 @@ aliases:
 summary: "质性研究中超越参与者日常语言、使用文献中预设解释结构来分析数据的路径，与描述性方法构成基础—进阶的层次关系"
 type: concept
 domain: "research-methodology"
-related_count: 10
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,9 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Narrative Research]]"
   - "[[Grounded Theory]]"
+  - "[[Open Coding]]"
+  - "[[Axial Coding]]"
+  - "[[Selective Coding]]"
   - "[[Ethnography]]"
   - "[[Case Study]]"
 related_persons: []
@@ -49,7 +52,7 @@ updated: 2026-06-01
 |---|---|---|
 | [[Narrative Research\|叙事研究]] | 用情节、场景、活动、高潮和结局等结构装置重述参与者故事 | Clandinin & Connelly, 2000 |
 | [[Phenomenology\|现象学]] | 分析意义陈述→生成意义单元→发展"本质"描述 | Moustakas, 1994 |
-| [[Grounded Theory\|扎根理论]] | 开放编码生成信息类别→轴心编码将类别置于理论模型→选择性编码推进故事 | Corbin & Strauss, 2015; Strauss & Corbin, 1990, 1998 |
+| [[Grounded Theory\|扎根理论]] | [[Open Coding\|开放编码]]生成信息类别→[[Axial Coding\|轴心编码]]将类别置于理论模型→[[Selective Coding\|选择性编码]]推进故事 | Corbin & Strauss, 2015; Strauss & Corbin, 1990, 1998 |
 | [[Ethnography\|民族志]] | 详细描述场所或个体→分析主题或议题 | Wolcott, 1994 |
 | [[Case Study\|案例研究]] | 详细描述场所或个体→分析主题或议题 | Stake, 1995 |
 

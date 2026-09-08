@@ -8,7 +8,7 @@ summary: "质性访谈中最核心的变体，通过与受访者进行持续深�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 46
+method_related_count: 45
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -57,8 +57,7 @@ related_methods:
   - "[[Narrative Analysis]]"
   - "[[Member Checking]]"
   - "[[Focus Group]]"
-related_persons:
-  - "[[Max Weber]]"
+related_persons: []
 related_facts:
   - "[[Guangdong-Hong Kong-Macau Greater Bay Area]]"
   - "[[Peidu]]"
@@ -100,7 +99,7 @@ updated: 2026-07-22
 ## 方法定位
 
 > [!method-position] [[Epistemology|认识论]]与方法定位
-> - **知识观** 深度访谈植根于[[Max Weber|韦伯]]的解释性理解传统和[[Constructivist Paradigm|建构主义]]取向——知识在访谈[[Dialogue in Education|对话]]中共同生产，而非从受访者脑中提取。研究者的提问方式、回应策略和在场状态都参与了意义的建构。
+> - **知识观** 深度访谈植根于韦伯的解释性理解传统和[[Constructivist Paradigm|建构主义]]取向——知识在访谈[[Dialogue in Education|对话]]中共同生产，而非从受访者脑中提取。研究者的提问方式、回应策略和在场状态都参与了意义的建构。
 > - **研究者角色** 研究者是"同感的理解者"——站在受访者的立场理解其观念与策略。需要持续追问直至能够设身处地地理解受访者的选择策略。
 > - **有效性标准** 效度不依赖[[Sample Size Determination|样本量]]，而依赖资料收集和分析过程中的严谨性——人员校验、[[Triangulation|三角互证]]、跟踪式设计和[[Reflexivity|反身性]]记录。
 > - **不声称回答的问题** 不追求统计分布和总体推广；不能替代量化调查对大规模趋势的测量。

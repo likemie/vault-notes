@@ -9,7 +9,7 @@ aliases:
 summary: "企业为雇员组织和提供的教育培训形式，范围涵盖初始职业教育到高层管理培养，并常与企业文化塑造和战略协调相连"
 type: concept
 domain: "higher-education"
-related_count: 9
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -26,8 +26,7 @@ related_theories:
   - "[[Cultural Political Economy]]"
   - "[[Institutional Isomorphism]]"
 related_methods: []
-related_persons:
-  - "[[Max Weber]]"
+related_persons: []
 related_facts:
   - "[[German Dual Education System]]"
 related_arguments:
@@ -86,7 +85,7 @@ updated: 2026-05-18
 
 > [!tip]-
 > - [[Institutional Isomorphism]] — DiMaggio & Powell 的三种同构类型（强制型、模仿型、规范型）为企业教育的规范扩散提供了核心[[Analytic Framework|分析框架]]。详见 [[Argument_Hartmann_2022_CorporateEducation]] 理论框架部分([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, pp.183–184]])
-> - [[Max Weber|韦伯]]的权威理论 — 区分权力（Macht）与权威（Herrschaft），为企业教育如何从"公司在权威中"走向"培训是权威"提供了合法性分析基础([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, pp.182–183]])
+> - 韦伯的权威理论 — 区分权力（Macht）与权威（Herrschaft），为企业教育如何从"公司在权威中"走向"培训是权威"提供了合法性分析基础([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, pp.182–183]])
 
 ---
 

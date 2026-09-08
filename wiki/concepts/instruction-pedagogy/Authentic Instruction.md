@@ -8,7 +8,7 @@ aliases:
 summary: "以真实情境、劣构问题、角色扮演、情境模拟与宏观情境锚定为载体，引导学生在有意义的问题解决中建构知识与发展批判性思维的教学模式。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Learning by Doing]]"
+  - "[[Central Phenomenon]]"
   - "[[Heterogeneity]]"
   - "[[Prediction Interval]]"
   - "[[Critical Thinking Disposition]]"
@@ -159,7 +160,7 @@ updated: 2026-08-25
 > [!dev-timeline] 概念演变
 > - **20 世纪初 — [[John Dewey|杜威]][[Pragmatic Paradigm|实用主义]]教育哲学** 杜威提出“[[Learning by Doing|在做中学]]”与真实探究思想，批判脱离情境的符号灌输，强调学校应提供真实生活经验。
 > - **1990 年代 — [[Anchored Instruction|抛锚式教学]]与[[Situative Perspective|情境认知]]理论** 范德堡认知与技术小组（CTGV）提出[[Anchored Instruction|抛锚式教学]]，利用多媒体故事生成真实问题锚点，推动情境学习理论发展。
-> - **2010 年代至今 — [[Critical Thinking|批判性思维]]干预实证综合** Abrami 等人将真实性/抛锚式教学提炼为批判性思维教学的三大核心范畴之一，通过大规模[[Meta-analysis|元分析]]确立了其在实证干预中的关键地位。[[Argument_Abrami_2015_RER|(Abrami et al., 2015, pp. 286–287)]]
+> - **2010 年代至今 — [[Critical Thinking|批判性思维]]干预实证综合** Abrami 等人将真实性/抛锚式教学提炼为批判性思维教学的三大[[Central Phenomenon|核心范畴]]之一，通过大规模[[Meta-analysis|元分析]]确立了其在实证干预中的关键地位。[[Argument_Abrami_2015_RER|(Abrami et al., 2015, pp. 286–287)]]
 
 ---
 
