@@ -8,7 +8,7 @@ summary: "质性研究中将文本或图像数据拆分为片段并赋予类别�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 27
+method_related_count: 29
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -33,6 +33,8 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Intercoder Agreement]]"
   - "[[Emergence]]"
+  - "[[Generative Artificial Intelligence]]"
+  - "[[AI Hallucination]]"
 related_theories: []
 related_methods:
   - "[[Grounded Theory]]"
@@ -102,7 +104,7 @@ updated: '2026-09-08'
 ### Strauss & Corbin 的四类编码程序
 
 > [!proc] [[Grounded Theory|扎根理论]]取向的四类编码操作
-> 施特劳斯（Anselm Strauss）与科宾（Juliet Corbin）提出从初级描述向高阶理论抽象跃迁的四类编码流程，各类型并非严格按时间线性发生，而是处于动态迭代与循环往复之中（Strauss & Corbin, 1990；Flick, 2009；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al., 2011, pp. 560–562]]）：
+> 施特劳斯（Anselm Strauss）与科宾（Juliet Corbin）提出从初级描述向高阶理论抽象逐层进阶的四类编码流程，各类型并非严格按时间线性发生，而是处于动态迭代与循环往复之中（Strauss & Corbin, 1990；Flick, 2009；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al., 2011, pp. 560–562]]）：
 > 
 > 1. **开放编码（Open coding）** 研究者对文本逐行、逐句或逐段赋予描述性标签，打破数据形成微观[[Unit of Analysis|分析单元]]。开放编码旨在生成范畴并界定其属性（properties，如范畴的特征与质地）与维度（dimensions，属性在连续统上的具体位置；例如“注视”范畴包含频率、范围、强度、持续时间等维度）。
 > 2. **分析编码（Analytic coding）** 超越单纯的描述性归纳，提炼具有推论性与解释力的分析标签。例如将“实验”“控制[[Variable|变量]]”“测试”等描述性活动编码综合提炼为“像科学家一样工作”，或将教师“忽略破坏”“不予回应”等行为提炼为“教师放弃/否认”。
@@ -167,6 +169,18 @@ updated: '2026-09-08'
 > - 编码的一致性（[[Reliability|信度]]）需要特别关注，不同编码者可能对同一段文本给出不同编码，应通过 [[Intercoder Agreement|编码者间一致性]] 检验来确保信度（Miles & Huberman, 1994 建议 ≥80%）。
 > - 预设编码虽有结构优势，但如果过于僵化，可能限制研究者对数据中新[[Emergence|涌现]]模式的发现。
 > - **去情境化风险（Decontextualization）** 编码将连续文本切碎并赋码，容易剥离事件发生的时序性、特定空间背景以及互动双方的微妙情境脉络（loss of temporality, context and sequence）；将相同的编码机械套用于不同时间点或情境的行为，可能掩盖其完全相异的质性意义（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al., 2011, p. 562]]）。
+
+---
+
+## 大语言模型（LLM）辅助质性编码
+
+随着[[Generative Artificial Intelligence|生成式人工智能]]的普及，大语言模型（Large Language Models，LLM）正成为质性编码的新型辅助工具，在处理大体量文本、辅助归纳初步概念和构建层级范畴方面具有显著潜力，详见[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al. (2011, Ch. 30, 30.6)]] 的扩展讨论。
+
+> [!note] 人在回路（HITL）原则
+> 大语言模型在编码辅助中应严格遵循人在回路（Human-in-the-Loop，HITL）原则：
+> - **演绎性规程赋码** 将[[Qualitative Codebook|质性编码手册]]与正反样例转化为结构化提示词，由模型对文本实施规则匹配，适合大样本标准化内容分析。
+> - **归纳性概念探索** 引导模型扫描原始转录文本，提出初步主题标签与候选概念，为研究者突破思维定势、发现意外编码提供启发。
+> - **防范[[AI Hallucination|算法幻觉]]** 要求模型输出编码时强制附带原始引文出处，并由人工逐一回溯核验；所有范畴确认与理论整合必须由研究者主导，而非全权委托模型。
 
 ---
 
