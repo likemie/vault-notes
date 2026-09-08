@@ -5,6 +5,14 @@
       "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30.md"
     },
     {
+      "basename": "Cohen_Manion_Morrison_2011_Routledge",
+      "path": "books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge.md"
+    },
+    {
+      "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge",
+      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge.md"
+    },
+    {
       "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28",
       "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Argument_Bates_2017_CognitionEducationTrust",
       "path": "wiki/arguments/books/Argument_Bates_2017_CognitionEducationTrust.md"
-    },
-    {
-      "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge",
-      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge.md"
-    },
-    {
-      "basename": "Argument_Cowen_2009_HistoryCreation",
-      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Cowen_2009_HistoryCreation.md"
     }
   ],
   "omittedPaths": [],
