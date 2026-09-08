@@ -49,7 +49,7 @@ updated: 2026-08-25
 ## 定义
 
 > [!def] 核心定义
-> 同伴[[Mentorship|导师制]]（Peer Mentoring，或近同伴导师制 Near-Peer Mentoring）是一种由具备相关学术与生活经验的高年级或同辈学习者（Peer Mentor），向新手或低年级学生（Mentee）提供结构化一对一或小组指导的教育实践。通过经验分享、认知脚手架搭建与社会情感支持，同伴导师制帮助受训者克服学业转型障碍、深化复杂问题理解并培养[[Critical Thinking|批判性思维]]。[[Argument_Abrami_2015_RER|(Abrami et al., 2015, p. 287)]]
+> 同伴[[Mentorship|导师制]]（Peer Mentoring，或近同伴导师制 Near-Peer Mentoring）是一种由具备相关学术与生活经验的高年级或同辈学习者（Peer Mentor），向新手或低年级学生（Mentee）提供结构化一对一或小组指导的教育实践。通过经验分享、[[Scaffolding|认知脚手架]]搭建与社会情感支持，同伴导师制帮助受训者克服学业转型障碍、深化复杂问题理解并培养[[Critical Thinking|批判性思维]]。[[Argument_Abrami_2015_RER|(Abrami et al., 2015, p. 287)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 依托相近的发展阶段（Near-peer proximity），将导师关系从传统的垂直师生科层制转化为横向、对称且高心理安全感的同辈互助。

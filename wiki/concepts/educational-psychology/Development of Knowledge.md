@@ -116,7 +116,7 @@ updated: 2026-08-19
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1970–1990 — 阶段模型中的隐性演变** Perry 与 [[Thomas Kuhn|Kuhn]] 等学者将对知识演变性的理解包裹在宏大的[[Epistemology|认识论]]发展阶段（如评价主义）中，尚未将其分离为可量化测量的独立[[Construct|构念]]。
+> - **1970–1990 — 阶段模型中的隐性演变** Perry 与 Kuhn 等学者将对知识演变性的理解包裹在宏大的[[Epistemology|认识论]]发展阶段（如评价主义）中，尚未将其分离为可量化测量的独立[[Construct|构念]]。
 > - **1997 — 理论多维化确立** Hofer & Pintrich 在综述中正式将关于知识演化与确定性的信念确立为认识论系统的核心维度。[[Argument_Hofer_1997_RER|(Hofer & Pintrich, 1997)]]
 > - **2004 — 独立量表[[Operationalization|操作化]]** Conley et al. (2004) 开发针对科学领域的认识论[[Questionnaire|问卷]]，明确将“知识的发展（Development）”作为独立分量表进行测量，在中小学群体中广泛验证。
 > - **2018 — [[Meta-analysis|元分析]]实证巅峰** [[Argument_Greene_2018_JEP|Greene et al. (2018)]] 元分析证实知识发展构念以 $r = .274$ 稳居各构念[[Effect Size|效应量]]榜首，确立了其在教育干预与测评中的中心地位。

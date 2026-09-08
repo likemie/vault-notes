@@ -42,7 +42,7 @@ updated: 2026-08-16
 ## 定义
 
 > [!def] 核心定义
-> 分析归纳法是 Znaniecki（1934）提出的[[Qualitative Research|质性研究]]策略。研究者从数据中生成初步理论（或工作[[Hypothesis|假设]]），然后有意识地主动寻找偏差案例（discrepant cases）或否证案例（negative cases），通过对理论的反复修正，使其能够经受住严格的否证检验。这一策略融合了归纳（从数据生成理论）和演绎（用反例检验理论）的逻辑，与 [[Karl Popper|Popper]] 的[[Falsification|证伪主义]]原则一致——一个严格的科学理论必须经得起证伪检验。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, p. 423)]]
+> 分析归纳法是 Znaniecki（1934）提出的[[Qualitative Research|质性研究]]策略。研究者从数据中生成初步理论（或工作[[Hypothesis|假设]]），然后有意识地主动寻找偏差案例（discrepant cases）或否证案例（negative cases），通过对理论的反复修正，使其能够经受住严格的否证检验。这一策略融合了归纳（从数据生成理论）和演绎（用反例检验理论）的逻辑，与 Popper 的[[Falsification|证伪主义]]原则一致——一个严格的科学理论必须经得起证伪检验。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, p. 423)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 一种"生成理论→主动寻找反例→修正理论→再检验"的迭代研究策略，是[[Theoretical Sampling|理论抽样]]的延伸。
@@ -66,7 +66,7 @@ updated: 2026-08-16
 
 > [!chain-link] 分析归纳法的操作逻辑
 > - **链节一：从数据出发** 研究者通过初始数据分析形成初步理论或工作[[Hypothesis|假设]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, p. 423)]]
-> - **链节二：主动寻找否证** 不是等待反例偶然出现，而是主动设计寻找最可能推翻理论的案例——类似于 [[Karl Popper|Popper]] 的"严峻检验"（[[Falsification|severe test]]）。
+> - **链节二：主动寻找否证** 不是等待反例偶然出现，而是主动设计寻找最可能推翻理论的案例——类似于 Popper 的"严峻检验"（[[Falsification|severe test]]）。
 > - **链节三：修正而非抛弃** 发现偏差案例≠理论完全失败，而是揭示理论适用条件的边界——使理论更精确而非更无力。
 > - **链节四：终点是稳健的理论** 当没有更多反例出现时，理论经受了现有的最严格检验，具有良好的抗否证性。
 

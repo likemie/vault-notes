@@ -234,7 +234,7 @@ updated: 2026-09-03
 >
 > | 二阶元分析 | 当前概念角色与总体结果 | 证据规模 $M$ / $E$ / $k$ / $N$ | 效应指标与模型 | 二阶汇总效应与 95% CI | 异质性与 95% PI | 关键解释边界 |
 > |---|---|---|---|---|---|---|
-> | Hattie (2009) | **【干预变量】** 概念图（Concept Mapping）在[[Visible Learning\|可见的学习]]全域教学法二阶元分析中的基准[[Effect Size\|效应量]] | 基于 100+ 项一阶实证综合 | Cohen's $d$ / 随机效应综合 | **$d = 0.57$** | 跨学科学段高度稳健（理想成效区） | 确立概念图作为被广泛验证的强效结构化认知教学支架地位 |
+> | Hattie (2009) | **【干预变量】** 概念图（Concept Mapping）在[[Visible Learning\|可见的学习]]全域教学法二阶元分析中的基准[[Effect Size\|效应量]] | 基于 100+ 项一阶实证综合 | Cohen's $d$ / 随机效应综合 | **$d = 0.57$** | 跨学科学段高度稳健（理想成效区） | 确立概念图作为被广泛验证的强效结构化认知[[Scaffolding\|教学支架]]地位 |
 
 > [!ma-table]- 二阶元分析互补维度亚组
 > <span class="scrollable-table-marker concept-second-order-role-subgroup-marker" aria-hidden="true"></span>

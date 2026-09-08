@@ -55,7 +55,7 @@ updated: 2026-07-11
 ## 定义
 
 > [!def] 核心定义
-> 再西方化（Re-Westernisation）是后殖民和去殖民批判（尤其是 Mignolo 的权力殖民矩阵学说）中的核心地缘概念。它指的是在领土非殖民化之后，西方国家（以美国为代表）在新自由主义全球化条件下，利用超国家组织、大数据与绩效评估技术，重新巩固、维护并延续西方启蒙运动以来的知识、制度、意识形态与[[Epistemology|认识论]]主导权的空间[[Disciplina and Doctrina|规训]]过程。 (引自 [[Argument_Klerides_2023_CE|Klerides, 2023, pp. 428–430]])
+> 再西方化（Re-Westernisation）是后殖民和去殖民批判（尤其是 Mignolo 的权力殖民矩阵学说）中的核心地缘概念。它指的是在领土非殖民化之后，西方国家（以美国为代表）在新自由主义全球化条件下，利用超国家组织、大数据与绩效评估技术，重新巩固、维护并延续西方[[Enlightenment|启蒙运动]]以来的知识、制度、意识形态与[[Epistemology|认识论]]主导权的空间[[Disciplina and Doctrina|规训]]过程。 (引自 [[Argument_Klerides_2023_CE|Klerides, 2023, pp. 428–430]])
 
 > [!concept-lens] 概念透镜
 > - **含义** 一种全球化背景下殖民性（Coloniality）在科学理性与管理绩效包装下的隐性再现与延续形式。

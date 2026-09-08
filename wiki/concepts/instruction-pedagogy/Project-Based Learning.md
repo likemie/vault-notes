@@ -69,7 +69,7 @@ updated: 2026-09-05
 > [!concept-lens] 概念透镜
 > - **含义** 强调从被动的陈述性知识接受转向以“真实项目交付与作品创造”为载体的深层认知参与，使知识学习与问题解决、设计反思深度交融。
 > - **用途** 用于解释探究驱动型教学对[[Higher-Order Thinking Skills|高阶思维]]（[[Critical Thinking|批判性思维]]、[[Divergent Thinking|发散思维]]与综合[[Creativity|创造力]]）的激活机制，并作为检验教育技术（如[[Generative Artificial Intelligence|生成式人工智能]]）能否发挥认知杠杆潜能的教学情境调节[[Variable|变量]]。
-> - **边界** 区别于无指导的自由活动，也区别于仅以解决抽象问题为目的而无需交付制品的问题导向学习；在缺乏教师脚手架或学生自我调节能力偏低时，易诱发认知过载或无序交互。
+> - **边界** 区别于无指导的自由活动，也区别于仅以解决抽象问题为目的而无需交付制品的问题导向学习；在缺乏教师[[Scaffolding|脚手架]]或学生自我调节能力偏低时，易诱发认知过载或无序交互。
 
 > [!boundary]- 概念边界
 > - 不等于 **问题导向学习（[[Problem-Based Learning]]）** — 两者同属建构主义探究模式并常共享“PBL”简称，但终局产出不同：问题导向学习聚焦于对特定劣构临床/理论问题的合理解释与诊断模型，不强制要求产出物化制品；项目式学习则必须围绕驱动问题开发出具体、可公开展示的产品或解决方案原型（Product/Artifact）。
@@ -91,7 +91,7 @@ updated: 2026-09-05
 > | **核心驱动力** | 真实劣构的驱动性问题（Driving Question） | 复杂的专业劣构案例或情境问题 | 教师预设的显性教学目标与概念规则 |
 > | **终局成果** | 必须交付公开展示的真实制品（Artifact/Product） | 提出合理的因果解释、机制诊断或行动方案 | 达成对特定知识技能的掌握与熟练运用 |
 > | **学习周期** | 通常跨越数周或数月，具有长期性与迭代性 | 相对灵活，可为数个课时或一个教学单元 | 以课时为单位，节奏紧凑且结构分明 |
-> | **教师角色** | 项目顾问、认知支架设计者与反馈提供者 | 讨论促进者（Facilitator）与推理引导者 | 示范专家、主导讲授者与即时纠错者 |
+> | **教师角色** | 项目顾问、[[Scaffolding\|认知支架]]设计者与反馈提供者 | 讨论促进者（Facilitator）与推理引导者 | 示范专家、主导讲授者与即时纠错者 |
 > | **认知负荷风险** | 长周期项目规划失控、制品形式主义（Activity Mania） | 缺乏先备知识导致假说推导迷航 | 认知负荷低但易导致被动依赖与高阶迁移受阻 |
 
 ---
@@ -133,7 +133,7 @@ updated: 2026-09-05
 
 ### 命题二　智能认知伙伴的融入显著放大项目式学习的探究效能
 
-> [!concept-lens] 智能认知伙伴与探究脚手架协同
+> [!concept-lens] 智能认知伙伴与探究[[Scaffolding|脚手架]]协同
 > 探讨[[Generative Artificial Intelligence|生成式人工智能]]等前沿技术在复杂项目式任务中如何超越信息源角色，演化为多维认知脚手架与协作探究伙伴，实现[[Educational Affordances|技术可供性]]与教学法的高阶协同。
 
 > [!claim] Zhao et al.
@@ -156,7 +156,7 @@ updated: 2026-09-05
 > [!dev-timeline] 项目式学习的历史演进
 > - **1918 — 设计教学法奠基** 克伯屈（William H. Kilpatrick）发表经典论文《设计教学法》（*The Project Method*），将[[John Dewey|杜威]]（John Dewey）的[[Pragmatic Paradigm|实用主义]]教育哲学和“[[Learning by Doing|从做中学]]”（Learning by Doing）理念具象化为以学生有目的活动为核心的教学形态。
 > - **1990s–2000s — 认知科学与[[Constructivist Paradigm|建构主义]]重塑** 随着学习科学的发展，项目式学习被重新定义为强调核心知识建构、深层探究和[[Metacognition|元认知监控]]的高阶教学模式。巴克教育研究所（Buck Institute for Education / PBLWorks）系统确立了“黄金标准项目式学习”（Gold Standard PBL）框架。
-> - **2020s — 智能[[Technology Infusion|技术整合]]与认知协同拓展** [[Generative Artificial Intelligence|生成式人工智能]]与智能化脚手架深度融入项目式学习，智能工具转型为学习者的认知伙伴，大幅降低了原型迭代与信息综合的门槛，进一步释放了复杂探究的育人价值。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 11–12, 16)]]
+> - **2020s — 智能[[Technology Infusion|技术整合]]与认知协同拓展** [[Generative Artificial Intelligence|生成式人工智能]]与智能化[[Scaffolding|脚手架]]深度融入项目式学习，智能工具转型为学习者的认知伙伴，大幅降低了原型迭代与信息综合的门槛，进一步释放了复杂探究的育人价值。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 11–12, 16)]]
 
 ---
 
@@ -177,7 +177,7 @@ updated: 2026-09-05
 > > - **PBL 倡导者** 强调黄金标准要求严格对齐学科标准，制品必须作为深层理解的外显证明而非孤立的手工副产物。
 
 > [!warning] 实施局限与边界条件
-> 项目式学习的有效落地高度依赖学生的[[Self-Regulated Learning|自我调节学习]]（SRL）能力与教师的脚手架设计。如果缺乏清晰的阶段性反馈与认知引导，学生在复杂探究情境中极易出现迷航、认知超载或低质互动。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, p. 16)]]
+> 项目式学习的有效落地高度依赖学生的[[Self-Regulated Learning|自我调节学习]]（SRL）能力与教师的[[Scaffolding|脚手架]]设计。如果缺乏清晰的阶段性反馈与认知引导，学生在复杂探究情境中极易出现迷航、认知超载或低质互动。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, p. 16)]]
 
 ---
 

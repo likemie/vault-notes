@@ -74,7 +74,7 @@ updated: '2026-05-18'
 
 > [!note]-
 > 强制[[Knowledge Transfer|知识转移]]的思想在东西方教育传统中均有深层根基：
-> - **希腊 [[Bildung|Paideia]] 与儒家"[[Junzi|君子]]"** 从 [[Plato]] 的"agathos kai sophos"（善且智）和 [[Confucius]] 的"君子 junzi"以来，知识始终与智识和社会等级制相联系——善者与智者有资格向低等级者传授知识，这一预设奠定了强制转移的合法性基础([[Argument_Partaken_2022_Springer|Partaken, 2022, p.75]])
+> - **希腊 [[Paideia]] 与儒家"[[Junzi|君子]]"** 从 [[Plato]] 的"agathos kai sophos"（善且智）和 [[Confucius]] 的"君子 junzi"以来，知识始终与智识和社会等级制相联系——善者与智者有资格向低等级者传授知识，这一预设奠定了强制转移的合法性基础([[Argument_Partaken_2022_Springer|Partaken, 2022, p.75]])
 > - **殖民教育的制度化** 19–20 世纪殖民帝国将教育系统性地用作统治工具——Tharoor (2017) 展示英国在印度的殖民教育如何将"一切英国事物"的优越性刻入课程，"[[Knowledge Production|知识生产]]和通过教学的再生产是殖民化的工具"([[Argument_Partaken_2022_Springer|Partaken, 2022, p.72]])
 > - **Herbart 五段教学法的 [[Geopolitics of Knowledge|GPK]] 重读** Herbart 的五段教学法（准备→呈现→联想→概括→应用）在 19–20 世纪成为全球教学论的标准化模板；Partaken 在 GPK 视角下将其重新识别为强制知识转移的形式化程序——表面上描述普遍的教学步骤，实质上可以被征用为自上而下灌输的工具([[Argument_Partaken_2022_Springer|Partaken, 2022, p.76]])
 > - **Partaken 的 GPK 定位** 2022 年 Partaken 将强制知识转移列为知识转移六模态之首——它是最直接、最显性的知识转移形式，权力梯度最极端。其当代运作不仅限于殖民历史的暴力形式，更以审查（[[Great Firewall of China]]）和监视（[[China Social Credit System]]）等制度化形式延续([[Argument_Partaken_2022_Springer|Partaken, 2022, p.75–76, 82]])

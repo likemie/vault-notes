@@ -778,7 +778,7 @@ Nielsen & Klitmøller 的独特贡献在于：不同于 Wecker 等人（2016）�
 Hattie 声称其经验分析被置于"理论语境"中——一种[[Didaktik|教学理论]]、一种学生学习和教师工作的理论。[[Argument_Terhart_2011_JCS|Terhart (2011, pp. 430–431)]]详细审查了这一宣称后发现严重的内容缺失：
 
 > [!critique] 理论框架的三处内容缺失（[[Argument_Terhart_2011_JCS|Terhart, 2011, pp. 430–431]]）
-> - **[[Karl Popper|Popper]] 三个世界理论的误用** Hattie 通过 Bereiter（2002）连接 Popper 的三个世界区分学习层次。Terhart 指出 Bereiter 已"以联想的方式"使用 Popper，而"Hattie 再次以非传统的方式使用 Bereiter 的论证"——段落"以相当联想和顽固的方式穿越学习理论领域"
+> - **Popper 三个世界理论的误用** Hattie 通过 Bereiter（2002）连接 Popper 的三个世界区分学习层次。Terhart 指出 Bereiter 已"以联想的方式"使用 Popper，而"Hattie 再次以非传统的方式使用 Bereiter 的论证"——段落"以相当联想和顽固的方式穿越学习理论领域"
 > - **[[Bildung]] 实质面的系统缺席** Hattie 仅发展了 Bildung 的形式理解，实质面（教育的具体内容）被完全忽略。全书仅抛出一句话："教育不仅是教人思考——也是教人值得学的东西"（Hattie, 2009, p. 27），而后不再展开
 > - **课程章节的内容真空** 名为"课程"的章节读者"再次发现关于某些专门化教学方法及其[[Effect Size|效应量]]的报告"——内容问题、学科教学意义、课程决策的合法化依据，"被完全忽略"
 
@@ -836,7 +836,7 @@ Hattie 声称其经验分析被置于"理论语境"中——一种[[Didaktik|教
 > [!tension] "研究笼子"：高[[Reliability|信度]] vs 高效度（[[Argument_Rømer_2018_EPT|Rømer, 2018, p. 6]]）
 > Rømer 将此诊断为"研究笼子"（research cage）：系统具有高信度与高[[Internal Consistency|内部一致性]]，但因[[Variable|变量]]和[[Independent Variable|自变量]]相互循环定义，与研究对象本身没有任何接触。代价是**高效度牺牲换取了高信度**。
 
-丹麦 Hattie 倡导者 Qvortrup (2015) 也提出了类似批评，认为 Hattie 的数据过于侧重"表层学习"，并试图基于 Bateson（而非 [[Karl Popper|Popper]]）重建[[Dependent Variable|因变量]]([[Argument_Rømer_2018_EPT|Rømer, 2018, pp. 5–6]])。
+丹麦 Hattie 倡导者 Qvortrup (2015) 也提出了类似批评，认为 Hattie 的数据过于侧重"表层学习"，并试图基于 Bateson（而非 Popper）重建[[Dependent Variable|因变量]]([[Argument_Rømer_2018_EPT|Rømer, 2018, pp. 5–6]])。
 
 #### 批评三：激进建构主义消解教学概念——双重瓦解
 
@@ -945,7 +945,7 @@ Nielsen & Klitmøller（2021）开辟了一个此前 VL 批评文献中未被触
 
 #### 论证步骤三：现代学校教育面临合法化危机——这是理解 VL 流行的关键背景
 
-**合法化危机从何而来？** 作者运用 [[Jürgen Habermas|Habermas]]（1976, 1984）的框架（Nielsen & Klitmøller, 2021, pp. 83–86）：
+**合法化危机从何而来？** 作者运用 Habermas（1976, 1984）的框架（Nielsen & Klitmøller, 2021, pp. 83–86）：
 
 **第一步：传统学校的合法化基础——共识理性**
 
@@ -1140,7 +1140,7 @@ Eacott（2017a, 2019）从教育行政与领导力的社会[[Epistemology|认识
 > - **填补** — Hattie 提供了*"用行政语言说话"*的数据（[[Argument_Eacott_2017_SLM|Eacott, 2017, pp. 414–419]]）
 
 > [!critique] Hattie 回应的不充分性
-> [[Argument_Hattie_2017_SLM|Hattie (2017)]] 以 [[Karl Popper|Popper]] [[Falsification|证伪主义]]为旗帜否认*"大师崇拜"*的存在，但其回应在两天内被接收发表（Eacott 原论文经历数月多轮评审），Eacott 随即被编辑拒绝发表再回应。详见 [[Cult of the Guru#争议与批评]]。
+> [[Argument_Hattie_2017_SLM|Hattie (2017)]] 以 Popper [[Falsification|证伪主义]]为旗帜否认*"大师崇拜"*的存在，但其回应在两天内被接收发表（Eacott 原论文经历数月多轮评审），Eacott 随即被编辑拒绝发表再回应。详见 [[Cult of the Guru#争议与批评]]。
 
 > [!critique] 编辑决策的体制含义
 > Eacott 被 *School Leadership & Management* 编辑拒绝发表对 Hattie 回应的再回应。Eacott 认为这一决策本身*"说明了该领域学术工作的逻辑中对[[Dialogue in Education|对话]]和辩论的低优先级"*（[[Argument_Eacott_2019_IJLE|Eacott, 2019, p. 778]]）。
@@ -1176,7 +1176,7 @@ Eacott（2017a, 2019）从教育行政与领导力的社会[[Epistemology|认识
 > [!critique] 角度四：[[Cargo Cult Science]]——科学的误用
 > Johnson & Janzen 将 Feynman（1974）的 [[Cargo Cult Science]] 概念应用于 VL：
 > - VL 使用专有的、未经同行评议的方法论，直接商业出版而非学术发表（p. 35）
-> - Hattie 引用 [[Karl Popper|Popper]] 以增强科学可[[Reliability|信度]]，但 Popper 的可错论（fallibilism）旨在区分科学与伪科学——*"Popper 当然不是在暗示科学是由提出毫无根据的主张、留待他人反驳所构成的"*（*"Popper was certainly not implying that science consists of making completely unfounded claims for others to disprove"*）（p. 35）
+> - Hattie 引用 Popper 以增强科学可[[Reliability|信度]]，但 Popper 的可错论（fallibilism）旨在区分科学与伪科学——*"Popper 当然不是在暗示科学是由提出毫无根据的主张、留待他人反驳所构成的"*（*"Popper was certainly not implying that science consists of making completely unfounded claims for others to disprove"*）（p. 35）
 > - Hattie 十年后声称*"无人质疑这一解释"*（*"no one has contested the explanation"*）——但 VL 并未提出可被实验[[Falsification|证伪]]的理论（p. 35）
 > - Metax 数据库呈现为典型科学数据集，但未阐明数字来源、包含的偏差和被掩盖的细微差别（pp. 35–36）
 
@@ -1202,7 +1202,7 @@ Eacott（2017a, 2019）从教育行政与领导力的社会[[Epistemology|认识
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] 从[[Epistemology|认识论]]（稳定性/变异性双重困境）、[[Didaktik|教学理论]]（[[Bildung]] 缺失）和 Foucault 政治哲学（可见性作为精致的支配）三维度论证*“很明显 Hattie 事实上没有找到圣杯”*（[[Argument_Terhart_2011_JCS|Terhart, 2011, p. 436]]）
 > - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] 虽然承认 Hattie 的愿景“有远见”且“为他赢得了宝贵而持久的优点”，但方法*“在当前出版条件下以科学合理的方式是不可行的”*（p. 1, pp. 34–35）
 > - McKnight & Whitburn 提出学校中本应出现但缺席的论述：抗制企业品牌、重视教师专业知识、对教育研究持批判态度、选择性和策略性地使用 VL、情境比服从更重要、对学习的理解比 VL 更复杂（p. 42）
-> - Nielsen & Klitmøller（2021）从 [[Jürgen Habermas|Habermas]] 合法化危机理论出发，论证 VL 的全球流行不是科学质量的标志，而是其[[Technical Rationality|技术理性]]内核满足了现代教育系统的合法化需求——以消除学生和教师的意向性为代价
+> - Nielsen & Klitmøller（2021）从 Habermas 合法化危机理论出发，论证 VL 的全球流行不是科学质量的标志，而是其[[Technical Rationality|技术理性]]内核满足了现代教育系统的合法化需求——以消除学生和教师的意向性为代价
 
 
 ---
@@ -1212,7 +1212,7 @@ Eacott（2017a, 2019）从教育行政与领导力的社会[[Epistemology|认识
 [[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]] 以 [[Visible Learning|VL]] 丹麦引介者的身份，针对上述批评提出了三重辩护论证（详见 [[Argument_Qvortrup_2019_NordSTEP]]）：
 
 > [!tension] 论证一：批评者形成了意识形态驱动的解释社群
-> Qvortrup 以 Fish (1980) 的解释社群概念解释丹麦 Hattie 批评现象的起源：一个由研究者、政治家和工会代表组成的强解释社群在短期内形成，将 Hattie 从教育英雄转变为教育敌人（[[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p. 5]]）。Qvortrup 使用 Alexander (2011) 的四种批判性政策话语框架分析丹麦批评[[Document|文献]]，识别了其中至少两种话语——二分法话语（统计 vs 独特性）和嘲弄话语（歪曲、嘲笑、人身攻击）——论证这些批评将自己置于 [[Karl Popper|Popper]] 的"科学游戏"之外（[[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, pp. 3–4]]）。
+> Qvortrup 以 Fish (1980) 的解释社群概念解释丹麦 Hattie 批评现象的起源：一个由研究者、政治家和工会代表组成的强解释社群在短期内形成，将 Hattie 从教育英雄转变为教育敌人（[[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p. 5]]）。Qvortrup 使用 Alexander (2011) 的四种批判性政策话语框架分析丹麦批评[[Document|文献]]，识别了其中至少两种话语——二分法话语（统计 vs 独特性）和嘲弄话语（歪曲、嘲笑、人身攻击）——论证这些批评将自己置于 Popper 的"科学游戏"之外（[[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, pp. 3–4]]）。
 
 > [!logic-map] 论证二：定量与定性的对立源于混淆[[Epistemology|认识论]]与[[Ontology|本体论]]
 > Qvortrup 以 von Foerster (1984) 的"观察位置"和 Thyssen (2012) 的"哲学目光"为框架，论证[[Epistemology|认识论]]维度不是非此即彼的选择——通过[[Phenomenology|现象学]]镜片观察产生一种结果，通过统计镜片观察产生另一种结果。如果两种进路都遵循高效度标准，它们相互补充而非相互排斥（[[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p. 5]]）。此论证直接回应了批评者对 VL 定量方法论的根本质疑。

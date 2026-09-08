@@ -88,7 +88,7 @@ updated: 2026-08-25
 
 > [!feature] 教育机器人三大交互支柱
 > 1. **具身动作示范（Physical Embodied Gestures）** 通过机械臂、头部转动与拟人化视线追踪（Gaze [[Tracking]]），引导儿童视觉注意力并示范书写、抓取或发音口型。
-> 2. **多模态情感激励（Multimodal Affective Scaffolding）** 识别儿童语音语调与面部表情变化，提供即时语音表扬、动作舞蹈激励与微表情反馈，缓解解题焦虑。
+> 2. **多模态情感激励（Multimodal Affective [[Scaffolding]]）** 识别儿童语音语调与面部表情变化，提供即时语音表扬、动作舞蹈激励与微表情反馈，缓解解题焦虑。
 > 3. **[[Gamification|游戏化]]人机对战与协同探究（Gamified Human-Robot Collaboration）** 基于规则引擎开展算术卡牌对决、拼字闯关与迷宫导航，在游戏化机制（Gamification）中促进技能自动化。
 
 ---

@@ -199,7 +199,7 @@ updated: 2026-09-05
 > 大模型在[[Problem Solving|问题解决]]初期能极大降低构想门槛，但自由使用下极易诱发思维早熟收敛与主体性剥落。
 
 > [!claim] Urban et al.; Awal; Li et al.
-> **AI 发散赋能与早熟收敛张力** 在高等教育实证研究中，生成式 AI 被确认为发散思维与[[Brainstorming|头脑风暴]]的高效脚手架，能显著提升托兰斯测验（[[Torrance Tests of Creative Thinking|TTCT]]）及[[Alternate Uses Test|另类用途测验]]（AUT）的发散流畅性与精细性得分（Urban et al., 2024）；然而，在缺乏强制迭代修改任务的场景中，大量学生在获取首轮 AI 构想后立即停止进一步探索（Awal, 2024），产生严重的[[Illusion of Competence|能力错觉]]与构想惰性。只有在[[Structured Teaching|结构化教学]]（如二次解构与多重视角辩护）引导下，AI 的发散潜能才能转化为深层创造力。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 7–8, 11)]]
+> **AI 发散赋能与早熟收敛张力** 在高等教育实证研究中，生成式 AI 被确认为发散思维与[[Brainstorming|头脑风暴]]的高效[[Scaffolding|脚手架]]，能显著提升托兰斯测验（[[Torrance Tests of Creative Thinking|TTCT]]）及[[Alternate Uses Test|另类用途测验]]（AUT）的发散流畅性与精细性得分（Urban et al., 2024）；然而，在缺乏强制迭代修改任务的场景中，大量学生在获取首轮 AI 构想后立即停止进一步探索（Awal, 2024），产生严重的[[Illusion of Competence|能力错觉]]与构想惰性。只有在[[Structured Teaching|结构化教学]]（如二次解构与多重视角辩护）引导下，AI 的发散潜能才能转化为深层创造力。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 7–8, 11)]]
 
 > [!claim] Zhao et al.
 > **生成式 AI 助推构想发散但受限于内容千篇一律的瓶颈** 一阶[[Meta-analysis|元分析]]证实，生成式 AI 对创造力与发散思维（包含 TTCT 发散测验、多模态草图生成与开放方案构思）表现出显著的正向促进作用；然而，该促学效应在[[Higher-Order Thinking Skills|高阶思维]]三大认知维度中位列末位，显著低于良构问题解决与[[Critical Thinking|批判性思维]]。研究者阐明，大语言模型倾向于输出最常见、合乎常理的通用套路（即概率最高的大众平均答案）；学生若缺乏深入追问和多轮对抗迭代，极易陷入“捷径式学习”（Shortcut Learning），致使发散构想局限于表面平滑重组，难以突破常规获得真正独特的创新亮点。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 10–11, 13–14)]]
@@ -252,7 +252,7 @@ updated: 2026-09-05
 > [!ma-table]- 一阶[[Meta-analysis|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | 证据规模 $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | 异质性与检验统计量 | 关键解释边界 |
+> | 一阶元分析 | 当前概念角色与总体结果 | 证据规模 $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与检验统计量 | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | **[[Dependent Variable\|结果变量]]** 生成式 AI 对学生创造力与发散思维（Creativity & Divergent Thinking）的干预效应 | $k = 23$ / — | Hedges' $g$；随机效应模型 | $g = 0.444$, $95\%\text{ CI} = [0.259, 0.629]$ | $Z = 4.698, p < .001$；全集 $Q(58) = 255.208, I^2 = 77.273\%$ | 涵盖 TTCT、多模态草图生成与开放方案构思测验；效应在三大高阶思维中位列末位，揭示算法给出的常见套路对打破常规新颖性的制约 |
 > | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | **[[Dependent Variable\|结果变量]]** 检验[[Graphic Organizer\|图形组织器]]教学干预对发散思维（Divergent Thinking）的促进效应 | $k = 14$ / — | Hedges' $g$；随机效应模型 | $g = 1.167$, $95\%\text{ CI} = [0.841, 1.493]$ | $I^2 = 82.2\%$；$Q_b = 7.07, p < .01$（对比聚合思维） | 涵盖 14 项独立效应量，以思维导图为代表的空间分支工具促进效应最为突出 |

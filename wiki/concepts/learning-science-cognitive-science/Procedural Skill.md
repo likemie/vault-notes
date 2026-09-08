@@ -63,7 +63,7 @@ updated: 2026-08-25
 > [!citation-card]- 关键表述
 > 技能类认知结果反映了学习者执行标准化规则与程序性操作的熟练度。在 AI [[AI Agent in Education|智能体]]自适应干预下，程序技能获得了高度稳定且显著的促进效应（$g = 0.391, p < .001$），证实了结构化分步反馈在降低外在负荷并促进图式自动化方面的强大效能。（[[Argument_Liu_2026_CHBR|Liu et al., 2026, pp. 2]], 6, 10）
 >
-> *Skill-based outcomes capture learners' proficiency in applying procedural knowledge and operational rules, demonstrating consistent, robust gains under adaptive AI scaffolding through extraneous cognitive load reduction and schema automation.*
+> *Skill-based outcomes capture learners' proficiency in applying procedural knowledge and operational rules, demonstrating consistent, robust gains under adaptive AI [[Scaffolding]] through extraneous cognitive load reduction and schema automation.*
 
 ---
 
@@ -74,7 +74,7 @@ updated: 2026-08-25
 > |---|---|---|---|
 > | **布鲁姆对应层级** | 识记（Remember）与理解（Understand） | 应用（Apply）与程序性分析 | 分析（Analyze）、评价（Evaluate）与创造（Create） |
 > | **表征形式** | 事实[[Concept Mapping\|命题网络]]、概念定义与图式 | 条件-动作产生式规则序列（IF-THEN） | 劣构问题表征、[[Reflexivity\|反思性]][[Metacognition\|元认知]]与发散模型 |
-> | **智能技术干预特征** | 适度增益（主要依托教材与讲授） | **稳固显著促进（自适应即时反馈与刻意练习）** | 增益高度依赖显性教学支架与反思量规 |
+> | **智能技术干预特征** | 适度增益（主要依托教材与讲授） | **稳固显著促进（自适应即时反馈与刻意练习）** | 增益高度依赖显性[[Scaffolding\|教学支架]]与反思量规 |
 
 ---
 

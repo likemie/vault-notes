@@ -44,7 +44,7 @@ updated: 2026-08-16
 ## 定义
 
 > [!def] 核心定义
-> [[Epistemology|认识论]]理解（Epistemological Understanding）是指个体对知识本质的信念与理解，其核心发展任务是对认知的主观维度和客观维度进行协调。[[Thomas Kuhn|Kuhn]] 等人将其发展轨迹概括为从绝对论（[[Absolutist]]，客观主导）、多元论（[[Multiplist]]，主观主导）到评价论（[[Evaluativist]]，主客观协调）的转变。[[Argument_Kuhn_2000_CD|(Kuhn et al., 2000, p. 310)]]
+> [[Epistemology|认识论]]理解（Epistemological Understanding）是指个体对知识本质的信念与理解，其核心发展任务是对认知的主观维度和客观维度进行协调。Kuhn 等人将其发展轨迹概括为从绝对论（[[Absolutist]]，客观主导）、多元论（[[Multiplist]]，主观主导）到评价论（[[Evaluativist]]，主客观协调）的转变。[[Argument_Kuhn_2000_CD|(Kuhn et al., 2000, p. 310)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向个体对“知识从何而来”以及“如何证明其合理性”的底层假定。

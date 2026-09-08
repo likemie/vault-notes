@@ -52,7 +52,7 @@ updated: 2026-08-25
 ## 定义
 
 > [!def] 核心定义
-> 智能导师系统（Intelligent Tutoring Systems, ITS）是指利用人工智能（Artificial Intelligence, AI）技术模拟人类优秀教师一对一辅导行为的计算机教学系统。该系统能够对学习者的实时解题步骤与认知状态进行细粒度追踪，在无需人类教师即时干预的情况下，自适应地推演学习者的认知阻碍、动态调整教学策略并提供即时、逐级的矫正反馈与线索脚手架。[[Argument_Liu_2026_CHBR|(Liu et al., 2026, pp. 2, 6–7)]]
+> 智能导师系统（Intelligent Tutoring Systems, ITS）是指利用人工智能（Artificial Intelligence, AI）技术模拟人类优秀教师一对一辅导行为的计算机教学系统。该系统能够对学习者的实时解题步骤与认知状态进行细粒度追踪，在无需人类教师即时干预的情况下，自适应地推演学习者的认知阻碍、动态调整教学策略并提供即时、逐级的矫正反馈与线索[[Scaffolding|脚手架]]。[[Argument_Liu_2026_CHBR|(Liu et al., 2026, pp. 2, 6–7)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 区别于单向预设内容的静态课件，ITS 是基于动态推断学习者内在认知状态（心理表征与技能掌握度）的闭环人机教学中介。
@@ -87,7 +87,7 @@ updated: 2026-08-25
 > [!feature] 智能导师系统四大经典构件
 > 1. **领域模型（Domain / Expert Model）** 储存教学学科的事实、概念、规则与解题推演逻辑，代表领域专家的知识结构体系。
 > 2. **学生模型（Student / Learner Model）** 动态追踪学习者当前知识点掌握概率与错误认知偏差，常用贝叶斯知识追踪（Bayesian Knowledge Tracing, BKT）或深度知识追踪（Deep Knowledge Tracing, DKT）进行动态更新。
-> 3. **教学模型（Pedagogical / Tutor Model）** 依据学生模型与领域模型的差异，决定何时干预、提供何种层级的脚手架（微提示、中提示或完整解答）以及何时撤回支架（Fading）。
+> 3. **教学模型（Pedagogical / Tutor Model）** 依据学生模型与领域模型的差异，决定何时干预、提供何种层级的[[Scaffolding|脚手架]]（微提示、中提示或完整解答）以及何时撤回支架（Fading）。
 > 4. **用户界面（User Interface）** 提供直观的解题操作工作区、多模态图式表征与即时反馈展示面板。
 
 > [!logic-map]- 智能导师系统自适应教学闭环工作流

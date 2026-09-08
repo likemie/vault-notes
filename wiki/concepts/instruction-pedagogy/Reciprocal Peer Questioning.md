@@ -51,7 +51,7 @@ updated: 2026-08-25
 ## 定义
 
 > [!def] 核心定义
-> 互惠同伴提问法（Reciprocal Peer Questioning, RPQ）是由 Alison King 开发的一种结构化同伴[[Dialogue in Education|对话教学]]策略。教师向学生提供通用的高阶“提问句干”（Thought-Provoking Question Stems）作为认知脚手架，学生在自主阅读或讲授后，利用句干生成针对学习材料的深层问题，并在结对（Dyad）或小组中相互提问、阐明推理与辩护证据，从而实现知识的深层精细加工与[[Critical Thinking|批判性思维]]发展。[[Argument_Abrami_2015_RER|(Abrami et al., 2015, p. 285)]]
+> 互惠同伴提问法（Reciprocal Peer Questioning, RPQ）是由 Alison King 开发的一种结构化同伴[[Dialogue in Education|对话教学]]策略。教师向学生提供通用的高阶“提问句干”（Thought-Provoking Question Stems）作为[[Scaffolding|认知脚手架]]，学生在自主阅读或讲授后，利用句干生成针对学习材料的深层问题，并在结对（Dyad）或小组中相互提问、阐明推理与辩护证据，从而实现知识的深层精细加工与[[Critical Thinking|批判性思维]]发展。[[Argument_Abrami_2015_RER|(Abrami et al., 2015, p. 285)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 将提问的主动权从教师移交给学生，通过通用的问题句干脚手架引导学生从简单的“事实回忆”升级为“关系比较、[[Hypothesis|假设]]审查与证据评估”。
@@ -66,7 +66,7 @@ updated: 2026-08-25
 > | 维度 | 互惠同伴提问法（RPQ） | 常规同伴结对讨论（Dyad Talk） | 传统同伴辅导（[[Peer-Supported Learning\|peer tutoring]]） |
 > |---|---|---|---|
 > | **互动机制** | 双方基于句干支架对等互问与深层解释 | 自由交流彼此看法与[[Homework\|作业]]答案 | “能者”向“弱者”单向传授知识 |
-> | **认知支架** | 结构化高阶提问句干（通用思维导向） | 通常无支架或仅有任务目标 | 依赖辅导者的个人理解与表达 |
+> | **[[Scaffolding\|认知支架]]** | 结构化高阶提问句干（通用思维导向） | 通常无支架或仅有任务目标 | 依赖辅导者的个人理解与表达 |
 > | **角色动态** | 严格对等、角色互换的互惠伙伴 | 平等但缺乏角色约束 | 存在明显的辅导者-被辅导者层级 |
 > | **主要认知负荷** | 整合新旧知识、建构[[Reflexivity\|反思性]]解释 | 维持交流顺畅 | 知识检索与步骤讲解 |
 
