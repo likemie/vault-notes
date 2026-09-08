@@ -5,6 +5,10 @@
       "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01.md"
     },
     {
+      "basename": "Phenomenology",
+      "path": "wiki/theories/educational-philosophy/Phenomenology.md"
+    },
+    {
       "basename": "Idiographic",
       "path": "wiki/concepts/research-methodology/Idiographic.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "George Bereday",
       "path": "wiki/persons/us/George Bereday.md"
-    },
-    {
-      "basename": "C. Arnold Anderson",
-      "path": "wiki/persons/us/C. Arnold Anderson.md"
     }
   ],
   "omittedPaths": [],

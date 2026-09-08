@@ -7218,7 +7218,9 @@
       "人工制品",
       "artifacts",
       "material culture",
-      "物质文化"
+      "物质文化",
+      "物质人工制品",
+      "方法人为产物"
     ]
   },
   {
@@ -12082,6 +12084,7 @@
     "path": "wiki/theories/sociology-of-education/Symbolic Interactionism.md",
     "aliases": [
       "符号互动论",
+      "符号互动主义",
       "symbolic interaction"
     ]
   },
