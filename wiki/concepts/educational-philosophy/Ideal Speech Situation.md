@@ -6,7 +6,7 @@ aliases:
 summary: "哈贝马斯提出的规范性沟通模型，主张共识仅源于更好论证的力量而非参与者的权力；言语情境具有命题与施行双重结构，每个话语须满足五重有效性标准，是话语分析批判方法论和虚拟世界研究沟通伦理的理论基础"
 type: concept
 domain: "educational-philosophy"
-related_count: 22
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -42,8 +42,7 @@ related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]]"
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02]]"
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 confidence: medium
 status: draft
 created: 2026-07-19

@@ -9,7 +9,7 @@ aliases:
 summary: "一种主张真正知识唯独建立在感官经验、观察与实验基础之上的认识论立场，预设自然与社会遵循同质客观法则；在启蒙发轫期曾从属于全人道德教化与社会改良，而在20世纪演化为追求价值中立与法则概括的统治性实证范式。"
 type: concept
 domain: "research-methodology"
-related_count: 88
+related_count: 87
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -59,9 +59,8 @@ related_concepts:
   - "[[Rationalism in International Relations]]"
   - "[[Post-structuralism]]"
   - "[[Document]]"
-  - "[[Practical Epistemology]]"
   - "[[Formal Epistemology]]"
-  - "[[Epistemological Break]]"
+  - "[[Practical Epistemology]]"
   - "[[Transfer Translation Transformation]]"
 related_theories:
   - "[[Critical Realism]]"

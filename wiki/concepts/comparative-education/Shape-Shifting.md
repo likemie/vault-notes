@@ -7,7 +7,7 @@ aliases:
 summary: "教育制度、思想或实践在跨国移动过程中发生的形态变化，强调移动不是忠实复制而是一系列变形，由 Cowen (2009b) 作为比较教育的理论问题提出，并由 Beech (2009) 进一步发展为多层级转译分析"
 type: concept
 domain: "comparative-education"
-related_count: 16
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,12 +23,10 @@ related_concepts:
   - "[[Cross-National Attraction]]"
   - "[[Praxis]]"
   - "[[Growth]]"
-  - "[[Examination Hell]]"
 related_theories:
   - "[[Network Society]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
-  - "[[Case Study]]"
 related_persons:
   - "[[Robert Cowen]]"
   - "[[Jason Beech]]"

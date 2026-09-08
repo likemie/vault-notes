@@ -7,7 +7,7 @@ aliases:
 summary: "教育改革选择性参照外部政策经验并在本地重新解释、合法化和变形的过程，是比较教育分析跨国改革流动的核心概念"
 type: concept
 domain: "comparative-education"
-related_count: 63
+related_count: 54
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -44,13 +44,6 @@ related_concepts:
   - "[[Government to Governance Shift]]"
   - "[[Methodological Statism]]"
   - "[[Methodological Nationalism]]"
-  - "[[Lifelong Learning]]"
-  - "[[Knowledge-Based Economy]]"
-  - "[[IB Diploma Programme]]"
-  - "[[International Baccalaureate]]"
-  - "[[Visible Learning]]"
-  - "[[Heterogeneity]]"
-  - "[[School Autonomy]]"
 related_theories:
   - "[[World Society Theory]]"
   - "[[Autopoiesis]]"
@@ -75,8 +68,6 @@ related_facts:
   - "[[OECD]]"
   - "[[PISA]]"
   - "[[Prussian Draft Education Law of 1819]]"
-  - "[[Grammar School]]"
-  - "[[Liberal Studies]]"
 related_arguments:
   - "[[Argument_Yan_2025_JCS]]"
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
