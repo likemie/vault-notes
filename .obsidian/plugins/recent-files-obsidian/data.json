@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Mixed Methods Research",
-      "path": "wiki/methods/mixed/Mixed Methods Research.md"
-    },
-    {
       "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01",
       "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01.md"
+    },
+    {
+      "basename": "Idiographic",
+      "path": "wiki/concepts/research-methodology/Idiographic.md"
+    },
+    {
+      "basename": "Auguste Comte",
+      "path": "wiki/persons/france/Auguste Comte.md"
+    },
+    {
+      "basename": "Nobel Prize in Physiology or Medicine",
+      "path": "wiki/facts/global/Nobel Prize in Physiology or Medicine.md"
+    },
+    {
+      "basename": "Harold Garfinkel",
+      "path": "wiki/persons/us/Harold Garfinkel.md"
+    },
+    {
+      "basename": "Symbolic Interactionism",
+      "path": "wiki/theories/sociology-of-education/Symbolic Interactionism.md"
+    },
+    {
+      "basename": "Artefact",
+      "path": "wiki/concepts/research-methodology/Artefact.md"
+    },
+    {
+      "basename": "Mixed Methods Research",
+      "path": "wiki/methods/mixed/Mixed Methods Research.md"
     },
     {
       "basename": "Basil Bernstein",
@@ -15,10 +39,6 @@
     {
       "basename": "George Herbert Mead",
       "path": "wiki/persons/us/George Herbert Mead.md"
-    },
-    {
-      "basename": "Harold Garfinkel",
-      "path": "wiki/persons/us/Harold Garfinkel.md"
     },
     {
       "basename": "Alfred Schutz",
@@ -35,10 +55,6 @@
     {
       "basename": "Søren Kierkegaard",
       "path": "wiki/persons/denmark/Søren Kierkegaard.md"
-    },
-    {
-      "basename": "Auguste Comte",
-      "path": "wiki/persons/france/Auguste Comte.md"
     },
     {
       "basename": "Ontology",
@@ -183,22 +199,6 @@
     {
       "basename": "C. Arnold Anderson",
       "path": "wiki/persons/us/C. Arnold Anderson.md"
-    },
-    {
-      "basename": "Falsification",
-      "path": "wiki/concepts/research-methodology/Falsification.md"
-    },
-    {
-      "basename": "Value Neutrality",
-      "path": "wiki/concepts/research-methodology/Value Neutrality.md"
-    },
-    {
-      "basename": "Subjectivism",
-      "path": "wiki/concepts/research-methodology/Subjectivism.md"
-    },
-    {
-      "basename": "Research Scope",
-      "path": "wiki/concepts/research-methodology/Research Scope.md"
     }
   ],
   "omittedPaths": [],
