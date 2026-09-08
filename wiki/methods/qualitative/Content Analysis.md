@@ -87,22 +87,22 @@ updated: '2026-09-08'
 > - **研究设计** [[Qualitative Research|质性研究]]、[[Mixed Methods Research|混合方法]]中的文本分析环节。
 > - **数据收集** 开放题[[Questionnaire|问卷]]、访谈、文档、媒体内容等。
 > - **分析方法** [[Coding in Qualitative Research|编码]]、范畴化、[[Domain Analysis|领域分析]]、频次计数（enumeration）、交叉分析。
-> - **辅助技术** 备忘录（[[Memos]]）、反例检验、持续比较、统计软件与 [[Qualitative Computer Software|CAQDAS]] 检索。
+> - **辅助技术** 备忘录（[[Memos]]）、反例检验、持续比较、统计软件与计算机辅助质性数据分析软件（Computer-Assisted Qualitative Data Analysis Software，[[Qualitative Computer Software|CAQDAS]]）检索。
 
 ## 研究程序
 
 > [!proc] [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]]的内容分析11步操作规程
-> 1. **明确[[Research Question|研究问题]]（Define research questions）** 由待检验理论或探索主题引申出待分析的核心问题。
-> 2. **界定文本总体（Define population）** 确定文本分析域（如报纸、政策文件、访谈[[Transcription in Qualitative Research|转录]]稿、教材、网络[[Dialogue in Education|对话]]等）。
-> 3. **选取文本样本（Define sample）** 采用概率或[[Non-probability Sampling|非概率抽样]]；处理多层级材料时关注嵌套记录单位（nested recording units）。
-> 4. **辨识[[Document|文献]]生成情境（Define generation context）** 考察材料来源、生成意图、记录真实性、作者是否愿意且能够道出真相。
-> 5. **界定[[Unit of Analysis|分析单位]]（Define units of analysis）** 划分抽样单位、记录/[[Coding in Qualitative Research|编码]]单位与语境单位，兼顾语义效度与[[Reliability|信度]]权衡。
-> 6. **拟定分析编码（Decide codes）** 反复研读材料，制定描述性或推论性编码系统。
-> 7. **构建分析范畴（[[Construct]] categories）** 开展[[Domain Analysis|领域分析]]，确立穷尽且互斥的范畴框架（Spradley, 1979）。
-> 8. **实施编码与范畴化（Conduct coding and categorizing）** 决定针对“存在”还是“频次”编码；结合 Mayring 的三类进路展开。
-> 9. **执行数据分析（Conduct data analysis）** 统计词频与范畴频次，运用交叉表、相关、回归、因子分析、树状图等统计工具或其质性等效物建立概念网络。
-> 10. **撰写阶段性总结（Summarizing）** 识别关键因素与核心范畴，实现初步的理论提炼（Patton, 1980）。
-> 11. **进行推论与理论建构（Speculative inferences）** 从描述迈向推论，提出工作[[Hypothesis|假设]]并整合为理论。
+> 1. **明确[[Research Question|研究问题]]** 由待检验理论或探索主题引申出待分析的核心问题。
+> 2. **界定文本总体** 确定文本分析域（如报纸、政策文件、访谈[[Transcription in Qualitative Research|转录]]稿、教材、网络[[Dialogue in Education|对话]]等）。
+> 3. **选取文本样本** 采用概率或[[Non-probability Sampling|非概率抽样]]；处理多层级材料时关注嵌套记录单位（nested recording units）。
+> 4. **辨识[[Document|文献]]生成情境** 考察材料来源、生成意图、记录真实性、作者是否愿意且能够道出真相。
+> 5. **界定[[Unit of Analysis|分析单位]]** 划分抽样单位、记录/[[Coding in Qualitative Research|编码]]单位与语境单位，兼顾语义效度与[[Reliability|信度]]权衡。
+> 6. **拟定分析编码** 反复研读材料，制定描述性或推论性编码系统。
+> 7. **构建分析范畴** 开展[[Domain Analysis|领域分析]]，确立穷尽且互斥的范畴框架（Spradley, 1979）。
+> 8. **实施编码与范畴化** 决定针对存在还是频次编码；结合 Mayring 的三类进路展开。
+> 9. **执行数据分析** 统计词频与范畴频次，运用交叉表、相关、回归、因子分析、树状图等统计工具或其质性等效物建立概念网络。
+> 10. **撰写阶段性总结** 识别关键因素与核心范畴，实现初步的理论提炼（Patton, 1980）。
+> 11. **进行推论与理论建构** 从描述迈向推论，提出工作[[Hypothesis|假设]]并整合为理论。
 
 > [!taxonomy] Mayring 的三种内容分析进路
 > - **归纳性总结内容分析（Summarizing content analysis）** 在保留核心实质内容的前提下，通过抽象与删减把文本浓缩为易于管理的分析范畴，减少上下文细节。

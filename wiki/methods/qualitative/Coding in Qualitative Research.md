@@ -127,10 +127,10 @@ updated: '2026-09-08'
 > [!note]-
 > [[Visual Data|视觉数据]]（照片、视频、电影、绘画）在[[Qualitative Research|质性研究]]中频繁使用。参与者可能被要求拍摄所见或画出所研究的现象。使用视觉图像面临的挑战：图像可能反映文化趋势而非个体视角；匿名性难以保证；使用视觉数据需获得许可以尊重提供者的隐私（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9, p.211）。
 
-### CAQDAS 中的编码
+### 计算机辅助质性数据分析软件（CAQDAS）中的编码
 
 > [!note]-
-> 在[[Qualitative Computer Software|CAQDAS]]中，编码是描述所涉文本数据的词或短短语，供后续排序、组合或检索；软件把编码排列成层级（树）与节点（关键编码），并支持把编码备忘录纳入同一分类图式。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.4)]]
+> 在计算机辅助质性数据分析软件（Computer-Assisted Qualitative Data Analysis Software，[[Qualitative Computer Software|CAQDAS]]）中，编码是描述所涉文本数据的词或短短语，供后续排序、组合或检索；软件把编码排列成层级（树）与节点（关键编码），并支持把编码备忘录纳入同一分类图式。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.4)]]
 
 ### Miles & Huberman 生成意义的十二种策略
 
@@ -175,7 +175,7 @@ updated: '2026-09-08'
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, Ch.9)]] — 在校园枪击案反应研究中通过编码发现“再触发”非预期主题，展示[[Emergence|涌现]]式编码对个体经验维度的揭示。
 > - [[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]] — 在 NVivo 11 中结合开放编码与基于 3GAT 六构件的[[Template Analysis|模板分析]]，对 25 份[[Semi-structured Interview|半结构化访谈]]与文档展开质性编码。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|Cohen et al. (2011, Ch. 28, pp. 540–542)]] — 在质性数据分析与 [[Qualitative Computer Software|CAQDAS]] 语境中说明编码是用词或短短语描述文本数据、供排序组合与检索，并把编码排列为层级（树）与节点（关键编码）。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|Cohen et al. (2011, Ch. 28, pp. 540–542)]] — 在质性数据分析与 CAQDAS 语境中说明编码是用词或短短语描述文本数据、供排序组合与检索，并把编码排列为层级（树）与节点（关键编码）。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al. (2011, Ch. 30, pp. 559–563)]] — 系统阐述开放编码、分析编码、主轴编码（六要素模型）与选择性编码的进阶操作，提出编码包容层级与表格化比较分析方法，并警示编码剥离时序与情境的去情境化风险。
 
 ---
