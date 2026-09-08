@@ -2,23 +2,37 @@
 title: Content Analysis
 aliases:
   - 内容分析
-  - content analysis
   - 内容分析法
 summary: "系统分析开放文本与传播材料的推论性研究方法，通过严格的分析单位界定、范畴化编码、频次统计与语境解释，从书面材料向其使用语境作出可重复且有效的理论推论"
 type: method
 method_type: qualitative
-method_family: qualitative
+method_family: "qualitative"
+method_related_count: 11
+method_related_level: 1
+method_related_stars: "⭐"
+method_related_color: "#dbeafe"
 tags:
   - method/qualitative
   - research-methodology
   - data-analysis
-related_concepts: []
+related_concepts:
+  - "[[Domain Analysis]]"
+  - "[[Unit of Analysis]]"
+  - "[[Data Reduction]]"
+  - "[[Data Display]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Qualitative Computer Software]]"
+  - "[[Coding in Qualitative Research]]"
+  - "[[Constant Comparison]]"
+  - "[[Typological Analysis]]"
 related_instruments: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30]]"
+  - "[[Argument_QiMei_2015_EducationalResearchMethods]]"
+  - "[[Argument_Creswell_2022_SAGE]]"
 confidence: high
 status: active
 created: 2026-08-16
@@ -77,8 +91,8 @@ updated: 2026-09-08
 > | 研究者位置 | 非介入性观察者与文本解读者，通过反身性备忘录记录个人偏见与解释轨迹。 |
 > | 资料边界 | 设定明确的文本时间跨度、地域机构边界，以及前置性文献纳入与排除标准。 |
 
-> [!proc] Cohen et al. (2011) 标准化 11 步操作规程
-> 1. **明确研究问题** 从理论假设或探索性主题中提炼核心研究问题与分析边界。
+> [!proc] 内容分析标准化 11 步操作规程
+> 1. **明确研究问题** 从理论假设或探索性主题中提炼核心研究问题与分析边界。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|(Cohen et al., 2011, p. 564)]]
 > 2. **界定文本总体** 确定待分析材料的总体范围（如特定学段教材、指定时期政策公文）。
 > 3. **选取文本样本** 依据代表性或理论目的抽取文本样本，处理嵌套记录单位。
 > 4. **辨识文献生成情境** 审查文本生成背景、撰写者意图、权力关系以及作者道出真相的能力。
