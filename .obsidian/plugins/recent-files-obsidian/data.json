@@ -5,6 +5,18 @@
       "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01.md"
     },
     {
+      "basename": "Epistemology",
+      "path": "wiki/concepts/educational-philosophy/Epistemology.md"
+    },
+    {
+      "basename": "Ontology",
+      "path": "wiki/concepts/educational-philosophy/Ontology.md"
+    },
+    {
+      "basename": "Axiology",
+      "path": "wiki/concepts/educational-philosophy/Axiology.md"
+    },
+    {
       "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge",
       "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "General Education",
       "path": "wiki/concepts/educational-philosophy/General Education.md"
-    },
-    {
-      "basename": "Rationalism in International Relations",
-      "path": "wiki/concepts/comparative-education/Rationalism in International Relations.md"
-    },
-    {
-      "basename": "Bildung",
-      "path": "wiki/concepts/educational-philosophy/Bildung.md"
-    },
-    {
-      "basename": "René Descartes",
-      "path": "wiki/persons/france/René Descartes.md"
     }
   ],
   "omittedPaths": [],

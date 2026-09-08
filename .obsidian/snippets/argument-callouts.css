@@ -6006,6 +6006,7 @@
 
 /* ─── Dark ─── */
 .theme-dark .callout[data-callout="axioms"] {
+  --callout-color: 225, 175, 80;
   border-left-color: rgb(225, 175, 80);
   border-color: rgba(225, 175, 80, 0.28);
   background:
@@ -11915,7 +11916,9 @@
   .callout[data-callout="summary"],
   .callout[data-callout="conclusion"],
   .callout[data-callout="assumptions"],
+  .callout[data-callout="axioms"],
   .callout[data-callout="taxonomy"],
+  .callout[data-callout^="critique-"],
   .callout[data-callout="dev-timeline"]
 ) > .callout-content > :is(ul, ol) > li > strong:first-of-type,
 :is(
@@ -11937,7 +11940,9 @@
   .callout[data-callout="summary"],
   .callout[data-callout="conclusion"],
   .callout[data-callout="assumptions"],
+  .callout[data-callout="axioms"],
   .callout[data-callout="taxonomy"],
+  .callout[data-callout^="critique-"],
   .callout[data-callout="dev-timeline"]
 ) > .callout-content > :is(ul, ol) > li > p:first-child > strong:first-of-type {
   display: inline-block;
@@ -11983,7 +11988,9 @@
   .callout[data-callout="summary"],
   .callout[data-callout="conclusion"],
   .callout[data-callout="assumptions"],
+  .callout[data-callout="axioms"],
   .callout[data-callout="taxonomy"],
+  .callout[data-callout^="critique-"],
   .callout[data-callout="dev-timeline"]
 ) > .callout-content > :is(ul, ol) > li > strong:first-of-type:hover,
 :is(
@@ -12005,7 +12012,9 @@
   .callout[data-callout="summary"],
   .callout[data-callout="conclusion"],
   .callout[data-callout="assumptions"],
+  .callout[data-callout="axioms"],
   .callout[data-callout="taxonomy"],
+  .callout[data-callout^="critique-"],
   .callout[data-callout="dev-timeline"]
 ) > .callout-content > :is(ul, ol) > li > p:first-child > strong:first-of-type:hover {
   border-color: rgba(var(--callout-color), 0.82);
@@ -12033,7 +12042,9 @@
   .callout[data-callout="summary"],
   .callout[data-callout="conclusion"],
   .callout[data-callout="assumptions"],
+  .callout[data-callout="axioms"],
   .callout[data-callout="taxonomy"],
+  .callout[data-callout^="critique-"],
   .callout[data-callout="dev-timeline"]
 ) > .callout-content > :is(ul, ol) > li > strong:first-of-type,
 .theme-dark :is(
@@ -12055,7 +12066,9 @@
   .callout[data-callout="summary"],
   .callout[data-callout="conclusion"],
   .callout[data-callout="assumptions"],
+  .callout[data-callout="axioms"],
   .callout[data-callout="taxonomy"],
+  .callout[data-callout^="critique-"],
   .callout[data-callout="dev-timeline"]
 ) > .callout-content > :is(ul, ol) > li > p:first-child > strong:first-of-type {
   background:
