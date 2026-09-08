@@ -124,7 +124,7 @@ updated: '2026-08-27'
 > | **[[Dual Coding Theory\|双重编码理论（Dual Coding Theory）]]与 ITPC 模型**<br>Paivio / Mayer / Schnotz | 阐明视觉空间通道与言语听觉通道的协同表征机制，说明图形组织器如何通过图文协同构建双重认知通道，增强概念整合与深层理解。（pp.2–3） |
 
 > [!warrant]- 理论如何支撑论证
-> 理论框架通过空间表征卸载负荷、释放高阶工作记忆、驱动探究倾向与认知过程、沉淀为稳定思维技能的逻辑链条，将外在教学脚手架与内在认知机能紧密连接。认知负荷理论与空间隐喻解释了图形组织器何以能产生整体促进效应（$g = 0.778$）；高阶思维三元结构与表征复杂度理论则为解释导图类型级差（导图 > [[Argument Mapping|论证图]] > [[Concept Mapping|概念图]]）、思维维度级差（发散 > 聚合；倾向与过程 > 技能）以及学段发展倒U型特征提供了严密的机制推论桥梁。（pp.2–4, 11–12）
+> 理论框架通过空间表征卸载负荷、释放高阶工作记忆、驱动探究倾向与认知过程、沉淀为稳定思维技能的逻辑链条，将外在[[Scaffolding|教学脚手架]]与内在认知机能紧密连接。认知负荷理论与空间隐喻解释了图形组织器何以能产生整体促进效应（$g = 0.778$）；高阶思维三元结构与表征复杂度理论则为解释导图类型级差（导图 > [[Argument Mapping|论证图]] > [[Concept Mapping|概念图]]）、思维维度级差（发散 > 聚合；倾向与过程 > 技能）以及学段发展倒U型特征提供了严密的机制推论桥梁。（pp.2–4, 11–12）
 
 ### 核心变量与操作化编码表
 
@@ -133,7 +133,7 @@ updated: '2026-08-27'
 > |---|---|---|
 > | **结果变量：[[Higher-Order Thinking Skills\|高阶思维倾向]]**<br>（HOT Disposition） | 个体主动探究未知、寻求理由、保持开放心智与坚持探究的主观心向与态度习惯。 | 34 项研究采用 5 点李克特量表；代表题项如“我喜欢提出前人从未想象过的问题”（Chiu & Hwang, 2024）。 |
 > | **结果变量：[[Higher-Order Thinking Skills\|高阶认知过程]]**<br>（HOT Cognitive Process） | 面对劣构问题时执行分析、评估、推论、综合与批判性反驳的即时心智运作。 | 17 项研究采用开放式写作任务与评分量规（Lane, 1993），评估推理深度、反驳质量与证据运用（Khrais & Saleh, 2020）。 |
-> | **结果变量：[[Higher-Order Thinking Skills\|高阶思维技能]]**<br>（HOT Outcome Skill） | 在特定情境或标准化测验中表现出的分析、推理、批判与[[Problem Solving\|问题解决]]综合能力结果。 | 57 项研究采用标准化多选题，如加州批判性思维技能测验（California Critical Thinking Skills Test, CCTST, Facione, 1990）与健康教育系统公司护理专业统考（Health Education Systems, Inc., HESI, Morrison et al., 2004）。 |
+> | **结果变量：[[Higher-Order Thinking Skills\|高阶思维技能]]**<br>（HOT Outcome Skill） | 在特定情境或标准化测验中表现出的分析、推理、批判与[[Problem Solving\|问题解决]]综合能力结果。 | 57 项研究采用标准化多选题，如[[California Critical Thinking Skills Test\|加州批判性思维技能测验]]（California Critical Thinking Skills Test, CCTST, Facione, 1990）与健康教育系统公司护理专业统考（Health Education Systems, Inc., HESI, Morrison et al., 2004）。 |
 > | **结果变量：[[Divergent Thinking\|发散思维]]**<br>（Divergent Thinking） | 面对开放性问题生成新颖、多样且非常规构想与替代方案的[[Creativity\|创造性]]心智加工。 | 采用观念流畅性与独创性测验、[[Brainstorming\|头脑风暴]]方案多样性评分与创造性解题任务（Bin et al., 2022; Chen, 2020）。 |
 > | **结果变量：[[Convergent Thinking\|聚合思维]]**<br>（Convergent Thinking） | 基于严密逻辑规则对信息进行批判性审视、筛选、演绎与收敛至最优解的思维。 | 采用演绎推理测验、论据有效性识别与标准化单项选择推理题（Akinoglu, 2013; Bilik et al., 2020）。 |
 > | **干预变量：[[Mind Mapping\|思维导图]]**<br>（Mind Mapping） | 以单一中心概念为核心向外辐射多级分支，低结构复杂度，强调联想发散与速记。 | 教学采用教师导入规则、自主发散绘制与反馈迭代规程，应用于头脑风暴与创意写作（Chiu & Hwang, 2024; Chen, 2020）。 |
@@ -299,7 +299,7 @@ updated: '2026-08-27'
 > 注：\*\*$p < .05$；\*\*\*$p < .01$。（p.11）
 
 > [!warrant]- 推理桥梁
-> 小学生尚未完全发展成熟的[[Meta-Representational Competence|元表征能力]]，极易受到图示中无关视觉元素的干扰（[[Seductive Details Effect|诱人细节效应]]）；大学生已具备成熟的内部空间表征与[[Self-Scaffolding|自我脚手架]]能力（Self-Scaffolding），对外在图示的依赖性减弱；中学生正处于[[Jean Piaget|皮亚杰]]形式运算阶段的快速发展期，外部脚手架与内在认知发展需求完美契合，因而收益最大。此外，高收入国家与近年研究拥有更先进的可视化数字技术工具与更高水平的教师教学法培训，从而放大了工具的应用效能。（pp.4, 11–12）
+> 小学生尚未完全发展成熟的[[Meta-Representational Competence|元表征能力]]，极易受到图示中无关视觉元素的干扰（[[Seductive Details Effect|诱人细节效应]]）；大学生已具备成熟的内部空间表征与[[Self-Scaffolding|自我脚手架]]能力（Self-[[Scaffolding]]），对外在图示的依赖性减弱；中学生正处于[[Jean Piaget|皮亚杰]]形式运算阶段的快速发展期，外部脚手架与内在认知发展需求完美契合，因而收益最大。此外，高收入国家与近年研究拥有更先进的可视化数字技术工具与更高水平的教师教学法培训，从而放大了工具的应用效能。（pp.4, 11–12）
 
 ---
 

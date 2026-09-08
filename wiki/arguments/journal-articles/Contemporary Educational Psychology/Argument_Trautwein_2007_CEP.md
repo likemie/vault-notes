@@ -436,7 +436,7 @@ issuing_organization: ""
 >    - *设计范式*：借鉴 Schommer (1990) 与 Kardash & Scholes (1996) 的“双立场争议文本（Dual-Positional Texts）”实验设计；
 >    - *操作流程*：在课堂中针对气候变暖成因、转基因食品安全风险、人工智能伦理规制或流行病传播模型等前沿复杂议题，向学生同步提供由不同学术团队出具但均具备扎实经验数据支持的对立研究报告；
 >    - *认知机制*：强迫学生走出寻找“单一标准答案”的认知舒适区，激发认识论困惑与认知失调，引导学生学习如何权衡不同研究的方法学局限、样本代表性与论证逻辑，从而从二元论心智跃升至反思性判断（[[Reflective Judgment Model|Reflective Judgment]]）。
-> 2. **干预路径二：通过历史教科书与当代前沿对照展示科学范式更迭（Historical Textbook Comparison & Paradigm Shift [[Tracking]]）** 
+> 2. **干预路径二：通过历史教科书与当代前沿对照展示[[Scientific Paradigm|科学范式]]更迭（Historical Textbook Comparison & Paradigm Shift [[Tracking]]）** 
 >    - *设计范式*：对照展示不同历史时期的科学教科书（Historical Textbooks）与当代最新同行评审论文；
 >    - *操作流程*：选取胃溃疡病因、大陆漂移学说（从被视为伪科学到被板块构造论确立）、经典力学向相对论与量子力学的拓展等经典节点，向学生展示曾经在教科书中被加粗强调的“真理”如何被后续研究所修正或颠覆；
 >    - *认知机制*：直观打破学生对“教科书即真理”的盲从，帮助学生建立科学知识的可证伪性（Falsifiability）信念，认识到教科书所呈现的仅仅是人类当前认知边界下的“最佳暂定解释”。

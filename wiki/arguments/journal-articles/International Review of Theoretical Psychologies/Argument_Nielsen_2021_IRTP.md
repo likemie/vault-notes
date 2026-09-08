@@ -80,7 +80,7 @@ citation_aliases:
 
 > [!info] 研究方法
 > - 方法：理论分析（theoretical analysis）与概念批判
-> - 策略：运用 [[Jürgen Habermas|Habermas]] 的系统/生活世界（system/lifeworld）二元框架和合法化危机概念，解释 [[Visible Learning|VL]] 的流行现象；结合对 VL 方法论问题的已有[[Literature Review|文献综述]]
+> - 策略：运用 Habermas 的系统/生活世界（system/lifeworld）二元框架和合法化危机概念，解释 [[Visible Learning|VL]] 的流行现象；结合对 VL 方法论问题的已有[[Literature Review|文献综述]]
 
 ## 核心论证
 
@@ -117,7 +117,7 @@ citation_aliases:
 >
 > **背景**[[PISA]] 冲击后，各国教育系统面临严重的**合法化危机**——传统共识导向的理性（tradition- and consensus-bound rationality）无法为现代学校提供充[[Synectics|分合法]]性。丹麦前首相 Anders Fogh Rasmussen 2003 年宣布"圆桌教育学的时代已经结束"。
 >
-> **[[Jürgen Habermas|Habermas]] 的[[Analytic Framework|分析框架]]**(pp. 83-86)：
+> **Habermas 的[[Analytic Framework|分析框架]]**(pp. 83-86)：
 >
 > - **系统（system）vs. 生活世界（lifeworld）** 学校处于两者的"再生产十字路口"(Borman, 2011, p. 7)
 > - 传统现代社会中，学校课程与日常生活的价值观和权威体系紧密相连，参与者容易认同

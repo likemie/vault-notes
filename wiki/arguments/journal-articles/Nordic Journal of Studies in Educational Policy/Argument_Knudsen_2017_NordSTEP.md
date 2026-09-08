@@ -153,7 +153,7 @@ citation_aliases:
 > - 证据是"被争夺的"（contested），不同人根据自身视角做出不同解释
 > - 证据也可与经验相关——教师的广泛经验是合法的证据
 > - 声称 VL 模型迄今未被质疑——"没有人提出更好的数据解释"
-> - 持续更新[[Meta-analysis|元分析]]（已到 1400 项），目的是"第一个发现错误"——援引 [[Karl Popper|Popper]] 的[[Falsification|证伪主义]]
+> - 持续更新[[Meta-analysis|元分析]]（已到 1400 项），目的是"第一个发现错误"——援引 Popper 的[[Falsification|证伪主义]]
 >
 > ### 政策、研究与商业
 >

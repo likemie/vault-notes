@@ -148,7 +148,7 @@ issuing_organization: ""
 > [!chain-link] 证据到判断
 > 传统的阶段模型（见表1）本质上可以解构为对客观现实、知识来源和评价机制的不同量化态度。
 
-> [!contrast-table] 表1：[[Argument_Kuhn_2000_CD|Kuhn et al. (2000)]] 认识论思维模型（[[Thomas Kuhn|Kuhn]] et al.'s Model of Epistemological Thinking）
+> [!contrast-table] 表1：[[Argument_Kuhn_2000_CD|Kuhn et al. (2000)]] 认识论思维模型（Kuhn et al.'s Model of Epistemological Thinking）
 > | 阶段（Level） | 客观现实（Reality） | 知识（Knowledge） | [[Critical Thinking\|批判性思维]]（Critical thinking） | 知识主张（Assertions） |
 > | --- | --- | --- | --- | --- |
 > | [[Realism in International Relations\|现实主义]]者（Realist） | 可直接认知 | 确定，来自外部来源 | 不必要 | 对外部现实的复制 |

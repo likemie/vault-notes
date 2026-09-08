@@ -191,7 +191,7 @@ updated: 2026-09-03
 ---
 
 > [!case] 第二条路径并非凭空设想：IB 与社区学院 AA 学位一度具有结构互补性
-> 1970 年代中期，扩张者把目光转向美国东西海岸的两年制社区学院。准文学士（Associate in Arts，AA）本来就可以承载两年[[General Education|通识教育]]；欧洲也出现了近似层级的资格，如法国的普通大学学习文凭（Diplôme d'études universitaires générales，DEUG）和英国的高等教育文凭（Diploma of Higher Education，DipHE）。其共同判断是：随着高等教育参与率扩大，只有一部分学术能力和动机较强的学生愿意或适合立即完成四年自由教育，另一些学生需要一个较短、可继续衔接的阶段性资格（p. 132）。
+> 1970 年代中期，扩张者把目光转向美国东西海岸的两年制社区学院。准文学士（Associate in Arts，AA）本来就可以承载两年[[General Education|通识教育]]；欧洲也出现了近似层级的资格，如法国的普通大学学习文凭（Diplôme d'études universitaires générales，DEUG）和英国的高等教育文凭（Diploma of Higher Education，DipHE）。其共同判断是：随着高等教育参与率扩大，只有一部分学术能力和动机较强的学生愿意或适合立即完成四年[[Liberal Education|自由教育]]，另一些学生需要一个较短、可继续衔接的阶段性资格（p. 132）。
 
 > [!factors]- 社区学院方案最初具有吸引力的三项机制
 > 1. **自由教育课程。** IB 的完整学科结构可以提高 AA 的学术连贯性，使两年制教育不只是零散学分集合。1976 年 10 月的 IB 北美理事会讨论中，多数参与者最重视这一点。
