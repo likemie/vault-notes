@@ -8,6 +8,10 @@ aliases:
 summary: "由 Heller & Perleth (2000) 修订的德国标准化认知能力测验，包含图形类比与言语类比分测验，在大规模教育研究中通过项目反应理论（IRT）估计一般认知推理能力（g 因子）。"
 type: instrument
 instrument_type: test
+instrument_related_count: 6
+instrument_related_level: 1
+instrument_related_stars: "⭐"
+instrument_related_color: "#dbeafe"
 part_of: ""
 developers:
   - "Heller, K. A."

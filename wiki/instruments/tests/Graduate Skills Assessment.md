@@ -8,6 +8,10 @@ aliases:
 summary: "由澳大利亚教育研究委员会（ACER）研发的国家级大学毕业生通用技能测验，涵盖批判性思维、问题解决、书面沟通与人际理解四大能力领域。"
 type: instrument
 instrument_type: test
+instrument_related_count: 9
+instrument_related_level: 1
+instrument_related_stars: "⭐"
+instrument_related_color: "#dbeafe"
 part_of: ""
 developers:
   - "Australian Council for Educational Research"

@@ -7,6 +7,10 @@ aliases:
 summary: "由卡森等人于 2003 年开发的自陈式客观创造性成果评估工具，涵盖视觉艺术、音乐、文学、发明等 10 大领域的终身创造性成就与社会公认标志。"
 type: instrument
 instrument_type: questionnaire
+instrument_related_count: 9
+instrument_related_level: 1
+instrument_related_stars: "⭐"
+instrument_related_color: "#fef3c7"
 part_of: ""
 developers:
   - Carson, S. H.

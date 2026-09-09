@@ -6,6 +6,10 @@ aliases:
 summary: "由阿维里尔编制的30题自陈量表，从准备性、新颖性与有效性/真实性三个维度，系统测定个体在情绪体验、表达与调节中的独特非认知创造潜能。"
 type: instrument
 instrument_type: scale
+instrument_related_count: 7
+instrument_related_level: 1
+instrument_related_stars: "⭐"
+instrument_related_color: "#dcfce7"
 developers:
   - "Averill, J. R."
 original_year: 1999

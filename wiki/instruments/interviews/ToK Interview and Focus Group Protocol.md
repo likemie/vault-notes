@@ -6,6 +6,10 @@ aliases:
 summary: "Cole et al. (2015) 开发的半结构化访谈与焦点小组工具，用于收集教师、学生和行政人员对 ToK 课程和批判性思维教学的看法"
 type: instrument
 instrument_type: interview-tool
+instrument_related_count: 12
+instrument_related_level: 2
+instrument_related_stars: "⭐⭐"
+instrument_related_color: "#fce7f3"
 developers:
   - "Cole, D. R."
   - "Ullman, J."

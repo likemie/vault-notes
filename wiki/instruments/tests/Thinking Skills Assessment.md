@@ -8,6 +8,10 @@ aliases:
 summary: "由剑桥大学考评部研发的高利害大学本科入学能力测验，被牛津大学、剑桥大学及UCL广泛采用，包含50道问题解决与批判性思维客观题及1篇限时议论小论文。"
 type: instrument
 instrument_type: test
+instrument_related_count: 6
+instrument_related_level: 1
+instrument_related_stars: "⭐"
+instrument_related_color: "#dbeafe"
 part_of: ""
 developers:
   - "Cambridge Assessment Admissions Testing"

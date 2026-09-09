@@ -8,6 +8,10 @@ aliases:
 summary: "由罗伯特·恩尼斯等人开发的经典标准化多项选择批判性思维测验，包含初阶（Level X）与高阶（Level Z）两个版本，测量归纳推理、演绎推理、来源可信度、假设识别与实验预测能力。"
 type: instrument
 instrument_type: test
+instrument_related_count: 7
+instrument_related_level: 1
+instrument_related_stars: "⭐"
+instrument_related_color: "#dbeafe"
 part_of: ""
 developers:
   - "Ennis, R. H."

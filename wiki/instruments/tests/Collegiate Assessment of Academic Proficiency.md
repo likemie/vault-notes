@@ -8,6 +8,10 @@ aliases:
 summary: "由美国大学入学考试机构（ACT）研发的标准化通识能力测评工具，其批判性思维模块通过33道情境单选题测量大学生分析要素、评估论证与拓展论点的能力。"
 type: instrument
 instrument_type: test
+instrument_related_count: 9
+instrument_related_level: 1
+instrument_related_stars: "⭐"
+instrument_related_color: "#dbeafe"
 part_of: ""
 developers:
   - "American College Testing"

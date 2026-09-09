@@ -6,6 +6,10 @@ aliases:
 summary: "由查顿与美林开发的领域特定性工程创造力测验，通过受限的几何刺激与机械元件设计任务，系统评定工程与设计学生的流畅性、灵活性、独创性与工程实用性。"
 type: instrument
 instrument_type: test
+instrument_related_count: 6
+instrument_related_level: 1
+instrument_related_stars: "⭐"
+instrument_related_color: "#dbeafe"
 developers:
   - "Charyton, C."
   - "Merrill, J. A."

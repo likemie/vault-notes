@@ -8,6 +8,10 @@ aliases:
 summary: "采用开放论述题形式评估个体在复杂论证语境中逻辑推理与论据评估能力的经典测验，要求受测者对一封致市长的公开信逐段进行批判性评估并提出综合论证。"
 type: instrument
 instrument_type: test
+instrument_related_count: 6
+instrument_related_level: 1
+instrument_related_stars: "⭐"
+instrument_related_color: "#dbeafe"
 part_of: ""
 developers:
   - "Ennis, R. H."

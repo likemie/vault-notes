@@ -11,6 +11,10 @@ aliases:
 summary: "由 J. P. Guilford 于 1967 年开发的经典发散思维与创造力认知测评工具，要求被试在限定时间内为日常物品提出非常规、新颖且实用的用途，从流畅性、灵活性、原创性与精致性四个维度量化发散认知潜能。"
 type: instrument
 instrument_type: test
+instrument_related_count: 15
+instrument_related_level: 3
+instrument_related_stars: "⭐⭐⭐"
+instrument_related_color: "#dbeafe"
 part_of: ""
 developers:
   - "Guilford, J. P."

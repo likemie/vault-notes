@@ -17,6 +17,12 @@ properties:
     displayName: 摘要
   instrument_type:
     displayName: 类型
+  instrument_related_stars:
+    displayName: 亮度
+  instrument_related_count:
+    displayName: 连接
+  instrument_related_color:
+    displayName: 色带
   developers:
     displayName: 开发者
   original_year:
@@ -39,14 +45,33 @@ properties:
 views:
   - type: cards
     name: 工具总览
+    image: instrument_related_color
     order:
       - file.name
       - summary
       - instrument_type
       - developers
       - original_year
+      - instrument_related_stars
+      - instrument_related_count
     sort:
-      - property: updated
+      - property: instrument_related_count
+        direction: DESC
+
+  - type: cards
+    name: 工具枢纽
+    image: instrument_related_color
+    filters:
+      and:
+        - 'instrument_related_count >= 15'
+    order:
+      - file.name
+      - summary
+      - instrument_type
+      - instrument_related_stars
+      - instrument_related_count
+    sort:
+      - property: instrument_related_count
         direction: DESC
 
   - type: table
@@ -55,6 +80,8 @@ views:
       - file.name
       - summary
       - instrument_type
+      - instrument_related_stars
+      - instrument_related_count
       - developers
       - original_year
       - item_count
@@ -65,13 +92,14 @@ views:
       - tags
       - updated
     sort:
-      - property: instrument_type
-        direction: ASC
+      - property: instrument_related_count
+        direction: DESC
       - property: updated
         direction: DESC
 
   - type: cards
     name: 测验
+    image: instrument_related_color
     filters:
       and:
         - 'instrument_type == "test"'
@@ -81,12 +109,15 @@ views:
       - developers
       - original_year
       - item_count
+      - instrument_related_stars
+      - instrument_related_count
     sort:
-      - property: updated
+      - property: instrument_related_count
         direction: DESC
 
   - type: cards
     name: 量表、问卷与清单
+    image: instrument_related_color
     filters:
       or:
         - 'instrument_type == "scale"'
@@ -98,9 +129,11 @@ views:
       - instrument_type
       - developers
       - item_count
+      - instrument_related_stars
+      - instrument_related_count
     sort:
-      - property: instrument_type
-        direction: ASC
+      - property: instrument_related_count
+        direction: DESC
       - property: updated
         direction: DESC
 
@@ -115,13 +148,15 @@ views:
       - file.name
       - summary
       - instrument_type
+      - instrument_related_stars
+      - instrument_related_count
       - developers
       - administration_mode
       - status
       - updated
     sort:
-      - property: instrument_type
-        direction: ASC
+      - property: instrument_related_count
+        direction: DESC
       - property: updated
         direction: DESC
 
@@ -136,9 +171,11 @@ views:
       - developers
       - original_year
       - item_count
+      - instrument_related_stars
+      - instrument_related_count
       - status
       - updated
     sort:
-      - property: updated
+      - property: instrument_related_count
         direction: DESC
 ```

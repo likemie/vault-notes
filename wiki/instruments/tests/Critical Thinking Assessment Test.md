@@ -8,6 +8,10 @@ aliases:
 summary: "由美国国家科学基金会资助、田纳西理工大学研发的跨学科真实情境表现性测验，由高校教师团队评分，将创造性问题解决与新信息整合内嵌于批判性思维评估中。"
 type: instrument
 instrument_type: test
+instrument_related_count: 10
+instrument_related_level: 2
+instrument_related_stars: "⭐⭐"
+instrument_related_color: "#dbeafe"
 part_of: ""
 developers:
   - "Stein, B."

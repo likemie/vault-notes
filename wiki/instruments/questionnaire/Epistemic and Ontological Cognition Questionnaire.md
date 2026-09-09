@@ -6,6 +6,10 @@ aliases:
 summary: "用于测量学生认识论和本体论认知（EOC）的多维问卷，区分简单与确定知识、权威辩护、个人辩护三个维度，并针对数学和历史学科提供平行题目。"
 type: instrument
 instrument_type: questionnaire
+instrument_related_count: 7
+instrument_related_level: 1
+instrument_related_stars: "⭐"
+instrument_related_color: "#fef3c7"
 part_of: ""
 developers:
   - "[[Greene, J. A.]]"

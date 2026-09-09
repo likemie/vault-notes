@@ -8,6 +8,10 @@ aliases:
 summary: "由美国牙医协会主办的北美高利害牙医专业准入标准化选拔测验，其核心模块知觉能力测验（PAT）通过三维空间旋转、立体折纸与空间推理深入测评考生的非言语空间创造力与心理表征能力。"
 type: instrument
 instrument_type: test
+instrument_related_count: 3
+instrument_related_level: 0
+instrument_related_stars: "☆"
+instrument_related_color: "#dbeafe"
 part_of: ""
 developers:
   - "American Dental Association"

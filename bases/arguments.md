@@ -35,6 +35,7 @@ properties:
 views:
   - type: cards
     name: 论证雷达
+    image: argument_related_color
     order:
       - year
       - argument_related_stars
@@ -47,6 +48,7 @@ views:
 
   - type: cards
     name: 核心论证
+    image: argument_related_color
     filters:
       and:
         - 'argument_related_count >= 30'

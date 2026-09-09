@@ -6,6 +6,10 @@ aliases:
 summary: "用于收集国际文凭知识论课程教师对课程目的、挑战、努力程度和教学影响等看法的六题半结构化焦点小组协议"
 type: instrument
 instrument_type: interview-tool
+instrument_related_count: 12
+instrument_related_level: 2
+instrument_related_stars: "⭐⭐"
+instrument_related_color: "#fce7f3"
 developers:
   - "[[Liz Bergeron|Bergeron, L.]]"
   - "[[Leslie Rogers|Rogers, L.]]"

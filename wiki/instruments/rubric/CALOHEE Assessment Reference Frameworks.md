@@ -9,6 +9,10 @@ aliases:
 summary: "由欧盟委员会与Tuning学院研制的欧洲高等教育多维评价量规与参照框架体系，覆盖土木工程、教师教育、历史、护理和物理五大专业，将都柏林描述符解构为可测量的批判性思维与创造力学科化表现矩阵。"
 type: instrument
 instrument_type: rubric
+instrument_related_count: 20
+instrument_related_level: 4
+instrument_related_stars: "⭐⭐⭐⭐"
+instrument_related_color: "#ffedd5"
 part_of: "[[CALOHEE Project]]"
 developers:
   - "Wagenaar, R."

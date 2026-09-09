@@ -8,6 +8,10 @@ aliases:
 summary: "由乔治·库（George Kuh）领衔、印第安纳大学高等教育研究中心常态化运营的全美标志性大学生体验调查，涵盖高级学习、反思性与整合性学习等核心分量表，是全球数十个国家学生投入调查的直接蓝本。"
 type: instrument
 instrument_type: questionnaire
+instrument_related_count: 10
+instrument_related_level: 2
+instrument_related_stars: "⭐⭐"
+instrument_related_color: "#fef3c7"
 part_of: ""
 developers:
   - "Kuh, G."

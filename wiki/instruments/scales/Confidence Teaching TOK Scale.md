@@ -7,6 +7,10 @@ aliases:
 summary: "测量教师在知识论（TOK）课程中教学信心的 11 题项李克特量表，主要关注教师在探索各类知识问题（如伦理学、本土知识系统等）时的自我效能感。"
 type: instrument
 instrument_type: scale
+instrument_related_count: 10
+instrument_related_level: 2
+instrument_related_stars: "⭐⭐"
+instrument_related_color: "#dcfce7"
 part_of: "[[The TOK Survey]]"
 developers: ["Bergeron, L.", "Rogers, L."]
 original_year: "2019"

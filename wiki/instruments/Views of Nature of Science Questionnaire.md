@@ -4,6 +4,10 @@ aliases: [VNOS, 科学本质观问卷]
 summary: "由 Lederman 等人开发的用于评估学生对科学本质（NOS）七个核心维度理解水平的开放式问卷工具，通常结合访谈使用。"
 type: instrument
 instrument_type: questionnaire
+instrument_related_count: 9
+instrument_related_level: 1
+instrument_related_stars: "⭐"
+instrument_related_color: "#fef3c7"
 part_of: ""
 developers: ["Lederman, N. G.", "Abd-El-Khalick, F.", "Bell, R. L.", "Schwartz, R. S."]
 original_year: "2002"

@@ -9,6 +9,10 @@ aliases:
 summary: "由美国教育考试服务中心（ETS）开发的通识教育与核心素养标准化测评工具，综合测量大学生在批判性思维、阅读、写作与数学领域的学业增益。"
 type: instrument
 instrument_type: test
+instrument_related_count: 13
+instrument_related_level: 2
+instrument_related_stars: "⭐⭐"
+instrument_related_color: "#dbeafe"
 part_of: ""
 developers:
   - "Educational Testing Service"

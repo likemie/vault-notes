@@ -6,6 +6,10 @@ aliases:
 summary: "用于测量大学生一般学术自我概念并可作为学业成果代理指标的十题自陈量表"
 type: instrument
 instrument_type: scale
+instrument_related_count: 4
+instrument_related_level: 0
+instrument_related_stars: "☆"
+instrument_related_color: "#dcfce7"
 developers:
   - "Marsh, H. W."
 original_year: "1992"

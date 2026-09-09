@@ -9,6 +9,10 @@ aliases:
 summary: "用于测量个体批判性思维认知能力维度的经典标准化测试工具，包含推论、假设识别、演绎、解释与论点评价五个核心分测验。"
 type: instrument
 instrument_type: test
+instrument_related_count: 11
+instrument_related_level: 2
+instrument_related_stars: "⭐⭐"
+instrument_related_color: "#dbeafe"
 part_of: ""
 developers:
   - "Watson, G."

@@ -8,6 +8,10 @@ aliases:
 summary: "托兰斯创造性思维测验的成人标准化精简版本，包含1项言语活动与2项图形活动，用于在高等教育与组织情境中快速测定成人的发散思维潜能与多维创造力表现指标。"
 type: instrument
 instrument_type: test
+instrument_related_count: 10
+instrument_related_level: 2
+instrument_related_stars: "⭐⭐"
+instrument_related_color: "#dbeafe"
 part_of: "[[Torrance Tests of Creative Thinking]]"
 developers:
   - "Goff, K. K."

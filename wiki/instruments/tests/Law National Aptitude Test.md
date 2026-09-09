@@ -8,6 +8,10 @@ aliases:
 summary: "由英国牛津大学、剑桥大学等顶尖法学院财团联合研制的高利害法学本科入学选拔测验，包含42道阅读分析选择题与1篇限时议论小论文，专门评估批判性理解、逻辑推理与论据综合能力。"
 type: instrument
 instrument_type: test
+instrument_related_count: 7
+instrument_related_level: 1
+instrument_related_stars: "⭐"
+instrument_related_color: "#dbeafe"
 part_of: ""
 developers:
   - "LNAT Consortium Group"

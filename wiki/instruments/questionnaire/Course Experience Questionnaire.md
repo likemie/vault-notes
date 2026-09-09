@@ -8,6 +8,10 @@ aliases:
 summary: "由保罗·拉姆斯登（Paul Ramsden）开创、澳大利亚教育研究委员会（ACER）与澳大利亚政府标准化的全国性大学毕业生调查工具，包含优良教学、通用技能及适度工作量等核心分量表。"
 type: instrument
 instrument_type: questionnaire
+instrument_related_count: 9
+instrument_related_level: 1
+instrument_related_stars: "⭐"
+instrument_related_color: "#fef3c7"
 part_of: ""
 developers:
   - "Ramsden, P."

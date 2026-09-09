@@ -6,6 +6,10 @@ aliases:
 summary: "由卢巴特等开发的前沿多维创造力测验系统，通过言语与图形两大领域的发散探索任务与聚合整合任务，系统测查儿童、青少年与成人的创造潜能结构与领域特异性表现。"
 type: instrument
 instrument_type: test
+instrument_related_count: 7
+instrument_related_level: 1
+instrument_related_stars: "⭐"
+instrument_related_color: "#dbeafe"
 developers:
   - "Lubart, T."
   - "Besançon, M."

@@ -252,7 +252,7 @@ Argument 页引用当前对应文献时，只写页码，如（p.147）或（pp.
 
 ## 5. Script Rules and Sync Commands
 
-脚本用于维护索引、citation 索引、补链、关系字段、source 记录和 lint 检查。`vault_index.py` 是基础索引统一入口，内部维护书籍 overview 章节表格和研究地图统计，并依次运行 `wiki_index.py` 与 `citation_index.py`；用户确认后可用 `vault_index.py --standard-workflow` 运行补链、关系同步、索引刷新和 lint；研究地图统计可用 `vault_index.py --research-map-only` 单独同步；Concept 的 `domain`、`related_count`、`related_level`、`related_stars`、`related_color` 可用 `vault_index.py --concept-fields-only` 显式同步；`wiki_index.py` 只维护普通 wiki 索引；`citation_index.py` 只维护 Argument 的 `citation_aliases` 与 `citation/` JSON；`citation_linker.py` 只维护正文 APA 短引用到 Argument 的链接；`wiki_linker.py` 只维护普通知识链接，并可继续在 YAML `authors` / `editors` 中把 APA 人名补成 Person wikilink。日常使用增量模式，非必要不使用 `--full-workflow`。
+脚本用于维护索引、citation 索引、补链、关系字段、source 记录和 lint 检查。`vault_index.py` 是基础索引统一入口，内部维护书籍 overview 章节表格和研究地图统计，并依次运行 `wiki_index.py` 与 `citation_index.py`；用户确认后可用 `vault_index.py --standard-workflow` 运行补链、关系同步、索引刷新和 lint；研究地图统计可用 `vault_index.py --research-map-only` 单独同步；Concept 的 `domain`、`related_count`、`related_level`、`related_stars`、`related_color` 可用 `vault_index.py --concept-fields-only` 显式同步；Instrument 的 `instrument_related_count`、`instrument_related_level`、`instrument_related_stars`、`instrument_related_color` 可用 `vault_index.py --instrument-fields-only` 显式同步；`wiki_index.py` 只维护普通 wiki 索引；`citation_index.py` 只维护 Argument 的 `citation_aliases` 与 `citation/` JSON；`citation_linker.py` 只维护正文 APA 短引用到 Argument 的链接；`wiki_linker.py` 只维护普通知识链接，并可继续在 YAML `authors` / `editors` 中把 APA 人名补成 Person wikilink。日常使用增量模式，非必要不使用 `--full-workflow`。
 
 ### Python Environment
 

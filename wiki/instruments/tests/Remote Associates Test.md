@@ -6,6 +6,10 @@ aliases:
 summary: "由梅德尼克于 1962 年开发的联想思维测验，要求被试在三个看似无关的刺激词间建立远距离联想以找出共同关联，属于创造力研究中的思维型测量工具"
 type: instrument
 instrument_type: test
+instrument_related_count: 10
+instrument_related_level: 2
+instrument_related_stars: "⭐⭐"
+instrument_related_color: "#dbeafe"
 part_of: ""
 developers:
   - "Mednick, S. A."

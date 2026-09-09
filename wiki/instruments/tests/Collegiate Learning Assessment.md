@@ -9,6 +9,10 @@ aliases:
 summary: "由美国援助教育理事会开发的标准化表现性评价工具，采用真实情境表现任务与选答题评估大学生的批判性思维、分析推理、问题解决与书面沟通能力"
 type: instrument
 instrument_type: test
+instrument_related_count: 15
+instrument_related_level: 3
+instrument_related_stars: "⭐⭐⭐"
+instrument_related_color: "#dbeafe"
 part_of: ""
 developers:
   - "Council for Aid to Education"

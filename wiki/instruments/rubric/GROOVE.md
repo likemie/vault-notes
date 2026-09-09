@@ -8,6 +8,10 @@ aliases:
 summary: "用于伞状综述与二阶元分析中量化、探索与可视化初级研究重叠的图形表征工具，基于校正覆盖面积（CCA）矩阵生成结构化热力图与成对重叠诊断"
 type: instrument
 instrument_type: rubric
+instrument_related_count: 13
+instrument_related_level: 2
+instrument_related_stars: "⭐⭐"
+instrument_related_color: "#ffedd5"
 part_of: ""
 developers:
   - "Bracchiglione, J."

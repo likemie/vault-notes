@@ -8,6 +8,10 @@ aliases:
 summary: "由剑桥大学考评部研发的高利害医学与生物医学本科入学选拔考试，其第一模块思维技能通过32道情境题系统测度问题解决与批判性思维。"
 type: instrument
 instrument_type: test
+instrument_related_count: 8
+instrument_related_level: 1
+instrument_related_stars: "⭐"
+instrument_related_color: "#dbeafe"
 part_of: ""
 developers:
   - "Cambridge Assessment Admissions Testing"

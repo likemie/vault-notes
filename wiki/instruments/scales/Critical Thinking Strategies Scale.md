@@ -6,6 +6,10 @@ aliases:
 summary: "用于测量学生自报使用批判性思维策略可能性的十四题单维量表"
 type: instrument
 instrument_type: scale
+instrument_related_count: 4
+instrument_related_level: 0
+instrument_related_stars: "☆"
+instrument_related_color: "#dcfce7"
 developers:
   - "Cole, D. R."
   - "Ullman, J."

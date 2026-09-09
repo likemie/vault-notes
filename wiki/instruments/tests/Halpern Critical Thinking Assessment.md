@@ -8,6 +8,10 @@ aliases:
 summary: "采用生成式开放情境题与客观选择题双重作答格式的批判性思维测评工具，测量言语推理、论证分析、假设检验、概率不确定性分析以及问题解决与决策制定五大认知领域。"
 type: instrument
 instrument_type: test
+instrument_related_count: 13
+instrument_related_level: 2
+instrument_related_stars: "⭐⭐"
+instrument_related_color: "#dbeafe"
 part_of: ""
 developers:
   - "Halpern, D. F."

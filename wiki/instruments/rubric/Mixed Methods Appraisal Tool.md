@@ -7,6 +7,10 @@ aliases:
 summary: "用于系统综述中评估定性、定量与混合方法研究设计的方法学质量的标准化核查清单，每个设计类型各 5 条标准并配 2 条通用筛选问题"
 type: instrument
 instrument_type: checklist
+instrument_related_count: 11
+instrument_related_level: 2
+instrument_related_stars: "⭐⭐"
+instrument_related_color: "#e5e7eb"
 part_of: ""
 developers:
   - "Hong, Q. N."

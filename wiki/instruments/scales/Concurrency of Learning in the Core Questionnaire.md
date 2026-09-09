@@ -4,6 +4,10 @@ aliases: [Concurrency of Learning in the Core Questionnaire, CLCQ]
 summary: "测量国际文凭大学预科项目（IBDP）核心组件（TOK、CAS、EE）并发学习状态与跨组件连贯性的自陈式问卷，包含 17 道李克特量表题及 3 道简答题。"
 type: instrument
 instrument_type: questionnaire
+instrument_related_count: 16
+instrument_related_level: 3
+instrument_related_stars: "⭐⭐⭐"
+instrument_related_color: "#fef3c7"
 part_of: ""
 developers: ["Metli, A.", "Akış, D."]
 original_year: "2022"

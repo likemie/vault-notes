@@ -8,6 +8,10 @@ aliases:
 summary: "学习动机策略问卷中用于测量学生自报批判性思维策略使用的五题分量表"
 type: instrument
 instrument_type: scale
+instrument_related_count: 5
+instrument_related_level: 1
+instrument_related_stars: "⭐"
+instrument_related_color: "#dcfce7"
 part_of: "[[Motivated Strategies for Learning Questionnaire]]"
 developers:
   - "Pintrich, P. R."

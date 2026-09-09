@@ -7,6 +7,10 @@ aliases:
 summary: "用于系统评价和元分析中评估初级定量与质性实证研究内部效度与方法学质量的 14 项标准化核查清单"
 type: instrument
 instrument_type: rubric
+instrument_related_count: 16
+instrument_related_level: 3
+instrument_related_stars: "⭐⭐⭐"
+instrument_related_color: "#ffedd5"
 part_of: ""
 developers:
   - "Kmet, L. M."

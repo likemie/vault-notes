@@ -8,6 +8,10 @@ aliases:
 summary: "用于评估系统评价与元分析方法学质量的批判性评价规程，包含12项标准与高质量阈值判定"
 type: instrument
 instrument_type: rubric
+instrument_related_count: 27
+instrument_related_level: 6
+instrument_related_stars: "⭐⭐⭐⭐⭐⭐"
+instrument_related_color: "#fecdd3"
 part_of: ""
 developers:
   - "Shea, B. J."

@@ -8,6 +8,10 @@ aliases:
 summary: "由美国州立学校首席官员理事会（CCSSO/InTASC）与ETS合作开发的新型标准化教师专业素养测验，通过建构反应型表现任务评估教师在教学策略、教育理论与培养学生批判思维及创造力方面的核心胜任力。"
 type: instrument
 instrument_type: test
+instrument_related_count: 17
+instrument_related_level: 3
+instrument_related_stars: "⭐⭐⭐"
+instrument_related_color: "#dbeafe"
 part_of: "[[InTASC Standards]]"
 developers:
   - "Council of Chief State School Officers"

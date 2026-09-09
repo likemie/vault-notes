@@ -7,6 +7,10 @@ aliases:
 summary: "由安东涅蒂等开发的视觉创造力表现评定量表，通过要求被试对抽象概念绘制具象视觉隐喻插图，从新颖独创性、隐喻适切深度与图形表现力三个维度系统测定视觉创造力与顿悟表征能力。"
 type: instrument
 instrument_type: scale
+instrument_related_count: 7
+instrument_related_level: 1
+instrument_related_stars: "⭐"
+instrument_related_color: "#dcfce7"
 developers:
   - "Antonietti, A."
 original_year: 2000

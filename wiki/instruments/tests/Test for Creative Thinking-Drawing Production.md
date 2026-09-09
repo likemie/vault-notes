@@ -8,6 +8,10 @@ aliases:
 summary: "由乌尔班与耶伦开发的高信度非言语创造力测验，通过6个给定的不规则图形碎片诱发被试的整体性图画创作，从14个维度综合评估个体的图形创造力与构想突破能力。"
 type: instrument
 instrument_type: test
+instrument_related_count: 3
+instrument_related_level: 0
+instrument_related_stars: "☆"
+instrument_related_color: "#dbeafe"
 developers:
   - "Urban, K. K."
   - "Jellen, H. G."

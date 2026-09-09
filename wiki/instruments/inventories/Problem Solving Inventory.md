@@ -8,6 +8,10 @@ aliases:
 summary: "由赫普纳与彼得森编制的35题自陈量表，从问题解决信心、趋近-回避风格与个人控制感三个维度，系统测定个体在面对复杂问题时的自我评价与认知应对风格。"
 type: instrument
 instrument_type: inventory
+instrument_related_count: 9
+instrument_related_level: 1
+instrument_related_stars: "⭐"
+instrument_related_color: "#ede9fe"
 developers:
   - "Heppner, P. P."
   - "Petersen, C. H."

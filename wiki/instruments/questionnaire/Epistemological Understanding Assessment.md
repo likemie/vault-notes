@@ -4,6 +4,10 @@ aliases: [EUA, 认识论理解评估工具]
 summary: "由 Deanna Kuhn 及其团队（2000）开发的一套包含 15 个题项的评估工具，用于测量个体在五个不同判断领域（个人品味、审美、价值观、社会事实、物理事实）中的认识论发展阶段（绝对论、多元论、评价论）。"
 type: instrument
 instrument_type: questionnaire
+instrument_related_count: 10
+instrument_related_level: 2
+instrument_related_stars: "⭐⭐"
+instrument_related_color: "#fef3c7"
 part_of: ""
 developers:
   - "[[Deanna Kuhn|Kuhn, D.]]"

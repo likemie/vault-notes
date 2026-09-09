@@ -7,6 +7,10 @@ aliases:
 summary: "由托兰斯开发的经典标准化发散思维测验，包含言语和图形两套形式，从流畅性、灵活性、独创性与精致性四个核心维度评估个体创造潜能。"
 type: instrument
 instrument_type: scale
+instrument_related_count: 21
+instrument_related_level: 4
+instrument_related_stars: "⭐⭐⭐⭐"
+instrument_related_color: "#dcfce7"
 part_of: ""
 developers:
   - "[[E. Paul Torrance|Torrance, E. P.]]"

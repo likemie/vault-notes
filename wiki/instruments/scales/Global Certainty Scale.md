@@ -6,6 +6,10 @@ aliases:
 summary: "用于测量个体对科学知识确定性与绝对真理假设的七题自陈量表，涵盖可证伪性与绝对真理两大取向，广泛应用于中学到大学过渡期的认识论信念追踪"
 type: instrument
 instrument_type: scale
+instrument_related_count: 10
+instrument_related_level: 2
+instrument_related_stars: "⭐⭐"
+instrument_related_color: "#dcfce7"
 part_of: ""
 developers:
   - "Schiefele, U."

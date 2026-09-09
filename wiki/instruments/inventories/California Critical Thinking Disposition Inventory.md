@@ -6,6 +6,10 @@ aliases:
 summary: "通过七个维度测量个体将批判性思维作为自然思维习惯加以运用的倾向"
 type: instrument
 instrument_type: inventory
+instrument_related_count: 7
+instrument_related_level: 1
+instrument_related_stars: "⭐"
+instrument_related_color: "#ede9fe"
 developers:
   - Insight Assessment
 original_year: "2000"

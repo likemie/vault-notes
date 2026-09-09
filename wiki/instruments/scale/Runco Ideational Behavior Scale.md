@@ -7,6 +7,10 @@ aliases:
 summary: "由马克·伦科等于 2001 年开发并广泛应用的自陈式创造潜能量表，用于评估个体在日常生活中产生、探索与运用新颖想法的频次与行为倾向。"
 type: instrument
 instrument_type: scale
+instrument_related_count: 11
+instrument_related_level: 2
+instrument_related_stars: "⭐⭐"
+instrument_related_color: "#dcfce7"
 part_of: ""
 developers:
   - Runco, M. A.

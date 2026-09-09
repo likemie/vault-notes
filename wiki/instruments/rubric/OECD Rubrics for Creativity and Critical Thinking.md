@@ -9,6 +9,10 @@ aliases:
 summary: "由OECD教育研究与创新中心（CERI）研发的通用高阶思维评价量规，构建了贯穿探究、想象、实作与反思四大维度的2x4认知表现矩阵，为教师在跨学科课堂中培养与评估创造力与批判性思维提供操作化支架。"
 type: instrument
 instrument_type: rubric
+instrument_related_count: 16
+instrument_related_level: 3
+instrument_related_stars: "⭐⭐⭐"
+instrument_related_color: "#ffedd5"
 part_of: ""
 developers:
   - "Vincent-Lancrin, S."

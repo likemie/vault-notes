@@ -7,6 +7,10 @@ aliases:
 summary: "基于计划行为理论与研究利用模型开发的20题5级李克特自陈量表，涵盖研究意识、研究态度、研究技能与研究使用四个维度，具备良好的二阶因子结构与跨性别严格测量等值性。"
 type: instrument
 instrument_type: scale
+instrument_related_count: 10
+instrument_related_level: 2
+instrument_related_stars: "⭐⭐"
+instrument_related_color: "#dcfce7"
 part_of: ""
 developers:
   - "Kazancı Tınmaz, A."

@@ -7,6 +7,10 @@ aliases:
 summary: "由美国教育考试服务中心开发的机考情境化通识核心素养测评工具，通过分析技能与综合技能两大认知维度测度大学生在复杂材料中的论证重构与合逻辑推导能力。"
 type: instrument
 instrument_type: test
+instrument_related_count: 12
+instrument_related_level: 2
+instrument_related_stars: "⭐⭐"
+instrument_related_color: "#dbeafe"
 part_of: ""
 developers:
   - "Educational Testing Service"

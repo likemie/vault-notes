@@ -9,6 +9,10 @@ aliases:
 summary: "由美国医学院协会（AAMC）开发的高利害医学院准入选拔考试，其关键模块批判性分析与推理技能（CARS）通过53道情境题全面测查申请者的文本批判理解、论据推理与跨情境推论能力。"
 type: instrument
 instrument_type: test
+instrument_related_count: 6
+instrument_related_level: 1
+instrument_related_stars: "⭐"
+instrument_related_color: "#dbeafe"
 part_of: ""
 developers:
   - "Association of American Medical Colleges"

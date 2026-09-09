@@ -38,6 +38,7 @@ ARGUMENTS_DIR = ROOT / "wiki" / "arguments"
 CONCEPTS_DIR = ROOT / "wiki" / "concepts"
 METHODS_DIR = ROOT / "wiki" / "methods"
 THEORIES_DIR = ROOT / "wiki" / "theories"
+INSTRUMENTS_DIR = ROOT / "wiki" / "instruments"
 FACTS_DIR = ROOT / "wiki" / "facts"
 PERSONS_DIR = ROOT / "wiki" / "persons"
 RESEARCH_MAP_PATH = ROOT / "wiki" / "research-map.md"
@@ -79,6 +80,21 @@ THEORY_GENERATED_KEYS = {
     "theory_related_color",
 }
 THEORY_COLORS = ["#e5e7eb", "#dbeafe", "#e0e7ff", "#ede9fe", "#fce7f3", "#ffedd5", "#fef3c7"]
+INSTRUMENT_GENERATED_KEYS = {
+    "instrument_related_count",
+    "instrument_related_level",
+    "instrument_related_stars",
+    "instrument_related_color",
+}
+INSTRUMENT_COLORS = {
+    "test": "#dbeafe",
+    "scale": "#dcfce7",
+    "questionnaire": "#fef3c7",
+    "inventory": "#ede9fe",
+    "rubric": "#ffedd5",
+    "observation-tool": "#cffafe",
+    "interview-tool": "#fce7f3",
+}
 ARGUMENT_GENERATED_KEYS = {
     "title",
     "argument_key",
@@ -601,6 +617,108 @@ def maintain_concept_base_fields(dry_run: bool = False, check: bool = False) -> 
 
     summaries.sort(key=lambda item: item[0], reverse=True)
     print(f"✨ concept base fields checked: {len(summaries)}; changed: {changed_count}")
+    for related_count, related_stars, rel_path in summaries[:10]:
+        print(f"{related_count:>3} {related_stars:<6} {rel_path}")
+    if check:
+        return 1 if changed_count else 0
+    return 0
+
+
+def instrument_stars_for(count: int) -> tuple[int, str]:
+    if count <= 4:
+        return 0, "☆"
+    if count >= 25:
+        return 6, "⭐" * 6
+    level = min(5, count // 5)
+    return level, "⭐" * level
+
+
+def instrument_color_for(kind: str, level: int) -> str:
+    if level >= 5:
+        return "#fecdd3"
+    return INSTRUMENT_COLORS.get(kind, "#e5e7eb")
+
+
+def upsert_instrument_generated_fields(raw_frontmatter: str, fields: dict[str, Any]) -> str:
+    lines = raw_frontmatter.replace("\n", "\n").rstrip("\n").splitlines()
+    filtered: list[str] = []
+    i = 0
+    while i < len(lines):
+        line = lines[i]
+        m_key = KEY_RE.match(line)
+        if m_key and m_key.group(1) in INSTRUMENT_GENERATED_KEYS:
+            i += 1
+            while i < len(lines) and re.match(r"^(?:\s+|-\s)", lines[i]):
+                i += 1
+            continue
+        filtered.append(line)
+        i += 1
+
+    insert_at = 0
+    for idx, line in enumerate(filtered):
+        if re.match(r"^instrument_type:\s*", line):
+            insert_at = idx + 1
+            break
+        if re.match(r"^type:\s*", line) and insert_at == 0:
+            insert_at = idx + 1
+
+    generated = [
+        f"instrument_related_count: {int(fields['instrument_related_count'])}",
+        f"instrument_related_level: {int(fields['instrument_related_level'])}",
+        f"instrument_related_stars: {yaml_string(str(fields['instrument_related_stars']))}",
+        f"instrument_related_color: {yaml_string(str(fields['instrument_related_color']))}",
+    ]
+    filtered[insert_at:insert_at] = generated
+    return "\n".join(filtered).rstrip() + "\n"
+
+
+def iter_instrument_files() -> list[Path]:
+    if not INSTRUMENTS_DIR.exists():
+        return []
+    return sorted(path for path in INSTRUMENTS_DIR.rglob("*.md") if path.is_file())
+
+
+def update_instrument_base_fields(path: Path, dry_run: bool, check: bool) -> tuple[bool, tuple[int, str] | None]:
+    text = path.read_text(encoding="utf-8", errors="replace")
+    split = split_frontmatter(text)
+    if not split:
+        return False, None
+    raw_frontmatter, body = split
+    meta = parse_frontmatter(text)
+    if meta.get("type") != "instrument":
+        return False, None
+    kind = str(meta.get("instrument_type") or "unknown").strip() or "unknown"
+    related_count = count_related_fields(meta)
+    related_level, related_stars = instrument_stars_for(related_count)
+    next_frontmatter = upsert_instrument_generated_fields(raw_frontmatter, {
+        "instrument_related_count": related_count,
+        "instrument_related_level": related_level,
+        "instrument_related_stars": related_stars,
+        "instrument_related_color": instrument_color_for(kind, related_level),
+    })
+    next_text = f"---\n{next_frontmatter}---\n{body}"
+    changed = next_text != text
+    if changed and not dry_run and not check:
+        path.write_text(next_text, encoding="utf-8")
+    return changed, (related_count, related_stars)
+
+
+def maintain_instrument_base_fields(dry_run: bool = False, check: bool = False) -> int:
+    changed_count = 0
+    summaries: list[tuple[int, str, str]] = []
+    for path in iter_instrument_files():
+        changed, summary = update_instrument_base_fields(path, dry_run=dry_run, check=check)
+        if summary:
+            related_count, related_stars = summary
+            rel_path = path.relative_to(ROOT).as_posix()
+            summaries.append((related_count, related_stars, rel_path))
+        if changed:
+            changed_count += 1
+            prefix = "would update" if dry_run or check else "updated"
+            print(f"🧰 {prefix}: {path.relative_to(ROOT).as_posix()}")
+
+    summaries.sort(key=lambda item: item[0], reverse=True)
+    print(f"🧰 instrument base fields checked: {len(summaries)}; changed: {changed_count}")
     for related_count, related_stars, rel_path in summaries[:10]:
         print(f"{related_count:>3} {related_stars:<6} {rel_path}")
     if check:
@@ -1232,6 +1350,9 @@ def run_base_index(book_check: bool = False, book_dry_run: bool = False, citatio
     code = maintain_theory_base_fields()
     if code:
         return code
+    code = maintain_instrument_base_fields()
+    if code:
+        return code
     code = maintain_fact_base_fields()
     if code:
         return code
@@ -1288,6 +1409,9 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--theory-fields-only", action="store_true", help="Run only generated theory base-field maintenance.")
     parser.add_argument("--theory-fields-check", action="store_true", help="Fail if generated theory base fields are stale.")
     parser.add_argument("--theory-fields-dry-run", action="store_true", help="Preview generated theory base-field updates without writing.")
+    parser.add_argument("--instrument-fields-only", action="store_true", help="Run only generated instrument base-field maintenance.")
+    parser.add_argument("--instrument-fields-check", action="store_true", help="Fail if generated instrument base fields are stale.")
+    parser.add_argument("--instrument-fields-dry-run", action="store_true", help="Preview generated instrument base-field updates without writing.")
     parser.add_argument("--fact-fields-only", action="store_true", help="Run only generated fact base-field maintenance.")
     parser.add_argument("--fact-fields-check", action="store_true", help="Fail if generated fact base fields are stale.")
     parser.add_argument("--fact-fields-dry-run", action="store_true", help="Preview generated fact base-field updates without writing.")
@@ -1314,6 +1438,7 @@ def main(argv: list[str] | None = None) -> int:
         args.concept_fields_only,
         args.method_fields_only,
         args.theory_fields_only,
+        args.instrument_fields_only,
         args.fact_fields_only,
         args.person_fields_only,
         args.argument_fields_only,
@@ -1321,7 +1446,7 @@ def main(argv: list[str] | None = None) -> int:
         args.citation_only,
     ]
     if sum(1 for flag in only_flags if flag) > 1:
-        parser.error("--book-only, --research-map-only, --concept-fields-only, --method-fields-only, --theory-fields-only, --fact-fields-only, --person-fields-only, --argument-fields-only, --wiki-only, and --citation-only cannot be combined")
+        parser.error("--book-only, --research-map-only, --concept-fields-only, --method-fields-only, --theory-fields-only, --instrument-fields-only, --fact-fields-only, --person-fields-only, --argument-fields-only, --wiki-only, and --citation-only cannot be combined")
     if any(workflow_flags) and any(only_flags):
         parser.error("workflow options cannot be combined with --book-only, --concept-fields-only, --wiki-only, or --citation-only")
 
@@ -1352,6 +1477,9 @@ def main(argv: list[str] | None = None) -> int:
 
     if args.theory_fields_only:
         return maintain_theory_base_fields(dry_run=args.theory_fields_dry_run, check=args.theory_fields_check)
+
+    if args.instrument_fields_only:
+        return maintain_instrument_base_fields(dry_run=args.instrument_fields_dry_run, check=args.instrument_fields_check)
 
     if args.fact_fields_only:
         return maintain_fact_base_fields(dry_run=args.fact_fields_dry_run, check=args.fact_fields_check)
