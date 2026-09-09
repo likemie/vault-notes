@@ -78,7 +78,7 @@ citation_aliases:
 ## 理论框架
 
 > [!abstract] 理论框架
-> - [[Critical Realism]] — Bhaskar (1978, 1979) 的批判实在论是本文的核心哲学框架：实在（real）、实际（actual）和经验（phenomenal）三层[[Ontology|本体论]]；开放系统与封闭系统的区分；对经验主义的批判
+> - [[Critical Realism]] — Bhaskar (1978, 1979) 的批判实在论是本文的核心哲学框架：实在（real）、实际（actual）和经验（phenomenal）三层[[Ontology|本体论]]；开放系统与封闭系统的区分；对[[Empiricism|经验主义]]的批判
 > - [[Evidence-Based Education]] — 本文的直接批判对象，从科学哲学角度解构其方法论基础
 
 ## 研究方法
@@ -112,7 +112,7 @@ citation_aliases:
 >
 > Ginsburg & Smith (2016, p. ii) 识别了数学课程 RCT 的 12 种威胁，发现 27 项高评分 RCT 中有 26 项存在多重严重问题，"即使单一威胁产生的误差幅度也常常大于 RCT 处理的平均[[Effect Size|效应量]]"(p. 115)。
 >
-> ### 5. 经验主义[[Hypothesis|假设]]与[[Causality|因果性]]缺失
+> ### 5. [[Empiricism|经验主义]][[Hypothesis|假设]]与[[Causality|因果性]]缺失
 >
 > EBT 隐含的经验主义假设：规则性足以追求"什么有效"。但 Hume (1748/1975) 早已指出重复发生永远不能建立因果性。Gorard & See (2013, p. 22) 发现"研究报告中频繁使用强因果术语描述其发现，却没有任何明显的理由"(p. 116)。
 >

@@ -65,7 +65,7 @@ updated: 2026-09-07
 ## 定义
 
 > [!def] 核心定义
-> 批判二元论（Critical Dualism）是由英国比较教育学家[[Brian Holmes|布赖恩·霍姆斯]]（Brian Holmes）借鉴[[Karl Popper|卡尔·波普尔]]（Karl Popper）的社会哲学所确立的方法论原则。该原则主张严格区分人为确立的规范法则或公约（normative laws or conventions）与超出个体意志控制的客观社会或机构运行规律（sociological laws），为比较教育分析提供双重制度与文化解构视界。霍姆斯指出，规范法则是人造且可被人类自主接受、废除或修改的价值信念，构成了学校运行的深层文化情境；而社会学法则则是描述机构客观功能的假说性陈述，具有严格的情境权变性（contingency）并必须接受经验[[Falsification|证伪]]检验。通过二元切分，比较教育学得以在拒斥绝对超越时空的机械决定论的同时，摆脱纯粹主观经验主义与相对主义的泥潭。[[Argument_Mattheou_2009_ScientificParadigm|(Holmes, 1981; Mattheou, 2009, pp. 62–63)]]
+> 批判二元论（Critical Dualism）是由英国比较教育学家[[Brian Holmes|布赖恩·霍姆斯]]（Brian Holmes）借鉴[[Karl Popper|卡尔·波普尔]]（Karl Popper）的社会哲学所确立的方法论原则。该原则主张严格区分人为确立的规范法则或公约（normative laws or conventions）与超出个体意志控制的客观社会或机构运行规律（sociological laws），为比较教育分析提供双重制度与文化解构视界。霍姆斯指出，规范法则是人造且可被人类自主接受、废除或修改的价值信念，构成了学校运行的深层文化情境；而社会学法则则是描述机构客观功能的假说性陈述，具有严格的情境权变性（contingency）并必须接受经验[[Falsification|证伪]]检验。通过二元切分，比较教育学得以在拒斥绝对超越时空的机械[[Determinism|决定论]]的同时，摆脱纯粹主观[[Empiricism|经验主义]]与相对主义的泥潭。[[Argument_Mattheou_2009_ScientificParadigm|(Holmes, 1981; Mattheou, 2009, pp. 62–63)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指涉将社会与教育现象解构为两大[[Ontology|本体论]]维度的[[Epistemology|认识论]]框架：承载人类价值信仰、道德理想与政治哲学的规范公约，以及刻画社会机构客观功能关系且受初始情境约束的权变社会学法则。
@@ -102,7 +102,7 @@ updated: 2026-09-07
 ## 核心要素
 
 > [!feature] 批判二元论的四大分析构件（pp. 62–67）
-> - **规范模式的跨国理想类型化（Normative Patterns）** 霍姆斯主张将人类历史上沉淀的深层哲学传统提炼为跨国理想类型（如[[Plato|柏拉图]]主义精英[[Bildung|教化]]、马克思主义全面发展、[[John Dewey|杜威]][[Pragmatic Paradigm|实用主义]][[Democratic Education|民主教育]]），作为衡量特定国家教育目标与伦理追求的[[Criterion-Referenced Test|标准参照]]系。
+> - **规范模式的跨国[[Typification|理想类型化]]（Normative Patterns）** 霍姆斯主张将人类历史上沉淀的深层哲学传统提炼为跨国理想类型（如[[Plato|柏拉图]]主义精英[[Bildung|教化]]、马克思主义全面发展、[[John Dewey|杜威]][[Pragmatic Paradigm|实用主义]][[Democratic Education|民主教育]]），作为衡量特定国家教育目标与伦理追求的[[Criterion-Referenced Test|标准参照]]系。
 > - **心理状态模式与民族文化精神（Pattern of Mental States & Mores）** 深入考察沉淀于制度深处的心理状态模式与民俗伦理，系统吸纳[[Michael Sadler|迈克尔·萨德勒]]（Michael Sadler）所指的活的精神与[[Vernon Mallinson|弗农·马林森]]（Vernon Mallinson）的[[National Character|国民性格]]，为实证研究注入历史人文厚度。
 > - **社会学法则的情境权变性（Contingency of Sociological Laws）** 汲取爱因斯坦相对论物理学启示，断言社会学法则虽然以全称命题形式陈述，但其有效性严格依赖于适用的初始情境条件；由于社会语境的[[Heterogeneity|异质性]]，彻底击碎了超越时空的普适定律神话。
 > - **时代不同步与文化滞后诊断（Asynchrony / Cultural Lag）** 批判二元论提供了强大的教育危机病理诊断工具：规范法则的变迁往往滞后于社会经济结构的突变，或者激进的学制变革脱离了深层民族规范传统，造成制度运行与价值信仰脱节的时代不同步。
@@ -158,11 +158,11 @@ updated: 2026-09-07
 
 ### 命题三　社会学法则的权变性从认识论上击碎了大一统教育普遍通则的幻象
 
-> [!concept-lens] 相对论权变性对机械决定论的解构
+> [!concept-lens] 相对论权变性对机械[[Determinism|决定论]]的解构
 > 霍姆斯立足相对论物理学，对实证主义追求超越时空恒常法则的野心发起了深层批判。
 
 > [!claim] Holmes, B.
-> **社会学法则的有效性严格受限于初始情境条件** 汲取爱因斯坦关于引力受情境制约的相对论物理学启示，断言社会学法则不具有普适全称有效性；社会机构的运作逻辑深度镶嵌在具体的规范信仰与社会矩阵之中，初始条件的[[Heterogeneity|异质性]]决定了法则的严格权变性（contingency）；这一认识论界碑不仅彻底粉碎了构建大一统全包容教育宏大理论的学术幻象，甚至引发了对截然不同的教育情境之间是否真正具备跨国可比性的深刻反思。[[Argument_Mattheou_2009_ScientificParadigm|(Holmes, 1981: 78; Mattheou, 2009, p. 63)]]
+> **社会学法则的有效性严格受限于初始情境条件** 汲取爱因斯坦关于引力受情境制约的相对论物理学启示，断言社会学法则不具有普适全称有效性；社会机构的运作逻辑深度镶嵌在具体的规范信仰与社会矩阵之中，初始条件的[[Heterogeneity|异质性]]决定了法则的严格权变性（contingency）；这一认识论界碑不仅彻底粉碎了构建大一统全包容教育[[Grand Theory|宏大理论]]的学术幻象，甚至引发了对截然不同的教育情境之间是否真正具备跨国可比性的深刻反思。[[Argument_Mattheou_2009_ScientificParadigm|(Holmes, 1981: 78; Mattheou, 2009, p. 63)]]
 
 ---
 
@@ -180,7 +180,7 @@ updated: 2026-09-07
 ## 概念演变
 
 > [!dev-timeline] 批判二元论的知识谱系演进
-> - **1945 年 — 波普尔奠定批判[[Rationalism in International Relations|理性主义]]哲学基石** [[Karl Popper|卡尔·波普尔]]（Karl Popper）在《开放社会及其敌人》中系统阐述批判二元论，严格划清自然界客观规律与人类自设规范公约的界限，清算将道德价值还原为历史必然性的决定论历史主义。
+> - **1945 年 — 波普尔奠定批判[[Rationalism in International Relations|理性主义]]哲学基石** [[Karl Popper|卡尔·波普尔]]（Karl Popper）在《开放社会及其敌人》中系统阐述批判二元论，严格划清自然界客观规律与人类自设规范公约的界限，清算将道德价值还原为历史必然性的[[Determinism|决定论]]历史主义。
 > - **1965 年 — 霍姆斯开辟比较教育[[Problem Approach|问题法]]转化** 霍姆斯在《教育中的问题》（*Problems in Education*）中首次将批判二元论系统引入比较教育，建构由规范模式与机构背景组成的情境[[Analytic Framework|分析框架]]，将教育政策重塑为可检验假说。
 > - **1981 年 — 相对论物理学启示与权变法则理论成熟** 霍姆斯在《比较教育方法论思考》（*Comparative Education: Some Considerations on Method*）中全面深化二元分立，汲取爱因斯坦相对论启示确立社会学法则的权变性，并与[[Edmund King|埃德蒙·金]]就预测划界标准展开世纪大论战。
 > - **2000 年代至今 — 学科史重估与现代性反思** [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] 等学者系统复盘批判二元论，指出其在[[Positivism|实证主义]]狂飙突进的年代为历史人文传统守住了合法阵地，但在官方政策资助市场却因其哲学复杂性与揭示非意图后果的尖锐性而遭到技术官僚冷落。
@@ -195,7 +195,7 @@ updated: 2026-09-07
 > > 争论焦点在于比较教育能否建立超越历史时空的普遍因果通则。
 > >
 > > - **[[C. Arnold Anderson]] & [[Philip Foster]]（1960, 1961）** 坚信比较研究应揭示教育系统不带时态且超越时间的恒常不变关联，将情境特殊性视作应被控制排除的干扰[[Variable|变量]]。[[Argument_Mattheou_2009_ScientificParadigm|(Anderson, 1961; Foster, 1960; Mattheou, 2009, p. 62)]]
-> > - **[[Brian Holmes]]（1965, 1981）** 坚持批判二元论与相对论权变观，断言任何社会学法则离开特定规范与制度初始条件皆无法成立，普适铁律是不切实际的机械决定论幻想。[[Argument_Mattheou_2009_ScientificParadigm|(Holmes, 1981: 78; Mattheou, 2009, p. 63)]]
+> > - **[[Brian Holmes]]（1965, 1981）** 坚持批判二元论与相对论权变观，断言任何社会学法则离开特定规范与制度初始条件皆无法成立，普适铁律是不切实际的机械[[Determinism|决定论]]幻想。[[Argument_Mattheou_2009_ScientificParadigm|(Holmes, 1981: 78; Mattheou, 2009, p. 63)]]
 >
 > > [!axis] 社会预测可能性与划界标准之争
 > > 争论焦点在于预测能否作为比较教育学科合法性的根本试金石。

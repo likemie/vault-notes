@@ -183,7 +183,7 @@ updated: 2026-06-24
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1990 — 空间与地方的脱嵌 (Dislocation of Space from Place)** [[Anthony Giddens|Giddens]] 于 1990 年提出，现代性及其技术手段使得社会互动不再依赖于地理上的身体共存，社会实践开始从特定的地理“地方”中脱离出来，空间不再完全附着于地方。([[Argument_Beech_2009_CE|Beech, 2009, p. 349]])
+> - **1990 — 空间与地方的脱嵌 (Dislocation of Space from Place)** Giddens 于 1990 年提出，现代性及其技术手段使得社会互动不再依赖于地理上的身体共存，社会实践开始从特定的地理“地方”中脱离出来，空间不再完全附着于地方。([[Argument_Beech_2009_CE|Beech, 2009, p. 349]])
 > - **2000 — 空间二分法与[[Network Society|网络社会]]体系 (Network Society Formulation)** Castells (2000a, 2000b, 2000c) 进一步将脱嵌的空间形式化为“流动空间”与“地方空间”的二分法。他指出，流动空间是构成网络社会中同时性社会实践的物质和技术支撑；随着基础设施普及，流动空间也成为全球精英与草根力量（如工会、社会运动）激烈博弈的争议性空间。
 > - **2009 — 比较教育话语转移的分析工具 (Comparative Education Application)**[[Argument_Beech_2009_CE|Beech (2009)]] 将这一二分法引入比较教育学，用于打破该领域的“[[Methodological Nationalism|方法论民族主义]]”传统。他构建了一个“[[Global Policy Space|全球政策空间]]（流动空间）— 国家（交界）— 学校实践（地方空间）”的话语重语境化纵向流通模型，成为解释教育政策转移中“意义变异”的经典空间[[Analytic Framework|分析框架]]。
 

@@ -160,7 +160,7 @@ issuing_organization: ""
 > [!dimension] 当代认识论关于知识结构的三大探讨维度
 > - **普遍性 vs. 特殊性（universality vs. particularity）**
 >   传统认识论追求绝对普遍知识，以 Code (1991) 为代表的女性主义认识论（feminist epistemology）主张知识必然具备特殊性与情境敏感性（context-sensitivity），认知主体的社会位置与具体经验是构成真实知识结构的要素。
-> - **决定论 vs. 随机性（determinism vs. stochasticity）**
+> - **[[Determinism|决定论]] vs. 随机性（determinism vs. stochasticity）**
 >   Salmon (1989) 等指出，必须区分解释现象的理论架构是建立在决定论因果链条之上，还是建立在统计学与随机过程（stochastic processes）之上。对概率与确定性的区分比单纯衡量复杂程度更深刻。
 > - **[[Domain Specificity|学科特异性]]的认识形式（discipline-specific [[Epistemic Forms]]）**
 >   当代科学哲学深入具体专业分支探讨认识形式（epistemic forms）。Machamer et al. (2000)细致拆解了神经科学与分子生物学中的机制结构；Cartwright 阐明了物理学与经济学中高度情境化的因果模型（causal models）。

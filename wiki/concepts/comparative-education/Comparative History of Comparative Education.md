@@ -165,7 +165,7 @@ updated: 2026-09-06
 ### 命题四　学科发端的双重母题解构破除了单一实证主义线性起源神话
 
 > [!concept-lens] 现代主义发端与母题解构
-> 探讨如何通过细读 19 世纪原始文本，解构将比较教育学发端单向度归结为实证经验主义的辉格史叙事。
+> 探讨如何通过细读 19 世纪原始文本，解构将比较教育学发端单向度归结为实证[[Empiricism|经验主义]]的辉格史叙事。
 
 > [!claim] Kaloyannaki, P. & Kazamias, A. M.
 > **准科学与行政改良的双重母题交织** 佩拉·卡洛扬纳基（Pella Kaloyannaki）与安德烈亚斯·卡扎米亚斯（Andreas Kazamias）指出，比较教育学的现代主义发端并非单一[[Positivism|实证主义]]科学的线性演进，而是由启蒙后现代性所催生的两种母题交织驱动：其一是[[Marc-Antoine Jullien|马克-安托万·朱利安]]（Marc-Antoine Jullien de Paris）开创的准[[Proto-Scientific Motif|科学人道主义母题]]，其二是[[Victor Cousin|维克多·库森]]（Victor Cousin）与[[Horace Mann|霍勒斯·曼]]（Horace Mann）等改革者推进的政策导向行政[[Educational Meliorism|改良主义]]母题。将早期文献置于历史语境中审视揭示出：朱利安的准实证构想本质上是启蒙人文科学（*sciences humaines*）与全人道德重生的[[Perpetual Peace|世界主义和平]]工程，而非 20 世纪[[Value Neutrality|价值无涉]]的极端实证论；而英美法的行政考察则在欧陆表现为以国家为中心的选择性制度借鉴，在北美表现为将外部经验作为国内争议改革合法化依据的政治动员。这一辨析从根本上瓦解了早期线性起源神话的狭隘性，为建立多元批判的比较教育学比较史奠定了坚实的史料基础。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 11–13, 33–34)]]
@@ -205,7 +205,7 @@ updated: 2026-09-06
 > > - **Harold Noah & Max Eckstein（1969）** 认为规范、清晰的起源历史是新兴交叉学科确立自身专业边界、赢得大学系所教席与同行认可的制度化护照，有助于维系学科共同体的专业认同。
 > > - **Robert Cowen（2009a）** 指出学科早已跨越需要脆弱神话维持合法性的阶段，非反思的起源崇拜构成了[[Epistemology|认识论]]障碍，必须通过多元批判的比较史解构[[Academic Iconography|学科肖像学]]并直面历史复杂性。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, pp. 7–9)]]
 >
-> > [!axis] 档案[[Positivism|实证主义]] vs 诠释学当下与未来决定论
+> > [!axis] 档案[[Positivism|实证主义]] vs 诠释学当下与未来[[Determinism|决定论]]
 > > 围绕学科史事实的客观确定性与历史重写的正当性，实证史学与历史诠释学存在立场分歧。
 > >
 > > - **实证史学传统** 主张历史学家的首要任务是通过档案考据还原“历史究竟如何发生”，警惕以当下的价值倾向或未来焦虑剪裁历史事实，防止滑入辉格史或相对主义。
@@ -220,4 +220,4 @@ updated: 2026-09-06
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cowen_2009_HistoryCreation|Cowen (2009a)]] — 考恩系统阐述“比较教育学的历史应成为比较教育学的比较史”这一核心纲领，提出解构[[Academic Iconography|学术肖像学]]、开掘隐蔽历史与纳入多中心经验的史学编纂议程。
-> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] — 卡洛扬纳基与卡扎米亚斯通过精细考据 19 世纪英美法[[Primary and Secondary Documents|原始文献]]，解构了学科发端的单一实证经验主义神话，还原了准科学人道主义与行政[[Educational Meliorism|改良主义]]交织的双重现代主义母题，为比较教育学比较史的个案[[Rich and Thick Description|深描]]树立了典范。
+> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] — 卡洛扬纳基与卡扎米亚斯通过精细考据 19 世纪英美法[[Primary and Secondary Documents|原始文献]]，解构了学科发端的单一实证[[Empiricism|经验主义]]神话，还原了准科学人道主义与行政[[Educational Meliorism|改良主义]]交织的双重现代主义母题，为比较教育学比较史的个案[[Rich and Thick Description|深描]]树立了典范。

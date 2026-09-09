@@ -74,7 +74,7 @@ Eacott 强调，论文标题中的"Neo-Taylorism"一词本身是对 Gronn（1982
 > - **Callahan (1962)** 出版 *Education and the Cult of Efficiency*，论证 20 世纪上半叶美国公立学校改革更多受管理实践（尤其是泰勒主义）而非教育理念的影响——Eacott 以此作为分析当代 Hattie 崇拜的历史框架([[Argument_Eacott_2017_SLM|Eacott, 2017, p.413-414]])
 
 > [!note]- 1950s–1980s [[Theory Movement in Educational Administration|教育行政理论运动]]与术语诞生
-> - **1950s–1960s Theory Movement**以 Simon（1945）*Administrative Behavior* 和维也纳圈逻辑经验主义为基础，追求教育行政中的"类法则概括"（law-like generalisations）——目标从未实现，但为后来 Hattie 的"教学科学"提供了历史先例([[Argument_Eacott_2017_SLM|Eacott, 2017, p.419]])
+> - **1950s–1960s Theory Movement**以 Simon（1945）*Administrative Behavior* 和维也纳圈逻辑[[Empiricism|经验主义]]为基础，追求教育行政中的"类法则概括"（law-like generalisations）——目标从未实现，但为后来 Hattie 的"教学科学"提供了历史先例([[Argument_Eacott_2017_SLM|Eacott, 2017, p.419]])
 > - **Hodgkinson (1978)** 在 *Towards a Philosophy of Administration* 中讨论教育行政的[[Epistemology|认识论]]及其方法论意涵([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.775]])
 > - **Gronn (1982)** 在 *Educational Administration Quarterly* 发表"Neo-Taylorism in educational administration?"，首次将该术语引入教育行政领域
 

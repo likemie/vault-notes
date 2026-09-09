@@ -83,7 +83,7 @@ updated: 2026-09-07
 > *A national system of education is a living thing, the outcome of forgotten struggles and difficulties and of battles long ago. It has in it some of the secret workings of national life. It reflects, while seeking to remedy, the failings of national character. ... each national system of education is characteristic of the nation which created it and expresses something peculiar to the group which constitutes that nation; to put it another way, each nation has the educational system that it desires or that it deserves. ... National systems of education as well as national constitutions or national literatures are the outward expression of national character... education 'is a function of national character', which he defined as 'the totality of dispositions to thought, feeling and behavior peculiar to and widespread in a certain people...'*
 
 > [!boundary]- 概念边界
-> - 不等于 生物种族决定论（Biological Racial Determinism） — 经典比较学者所论国民性格是历史斗争、地理环境、宗教传统与政治制度共同塑造的文化产物，非先天的生物学遗传。
+> - 不等于 生物种族[[Determinism|决定论]]（Biological Racial Determinism） — 经典比较学者所论国民性格是历史斗争、地理环境、宗教传统与政治制度共同塑造的文化产物，非先天的生物学遗传。
 > - 不等于 现代心理学人格测验（Psychometric Personality Traits） — 该构念指涉宏观文明史层面的集体文化形态与社会气质，而非个体的量化心理指标。
 > - 不等于 现代政治文化（Political Culture） — 政治文化强调对政治权力与制度的具体态度取向及经验分布，而传统国民性格预设了不可分割、高度整合且具先验神秘色彩的民族精神整体。
 
@@ -136,7 +136,7 @@ updated: 2026-09-07
 
 ### 命题一　国民性格被经典学派预设为决定国家教育制度独特性与内在精神的自变量
 
-> [!concept-lens] 文化决定论因果机制
+> [!concept-lens] 文化[[Determinism|决定论]]因果机制
 > 探讨经典学派如何将深层民族文化心理设定为外在教育制度形式的根本决定源泉，确立解释跨国教育[[Heterogeneity|异质性]]的理论链条。
 
 > [!claim] [[Isaac Kandel|Kandel, I. L.]]

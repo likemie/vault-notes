@@ -100,7 +100,7 @@ updated: 2026-09-08
 > [!feature] 单一全包容[[Paradigm|范式]]衰落与复数化演进的三重机制
 > - **现实治理承诺的全面破灭** 实证科学规划与量化技术曾许诺带来社会公正、阶层流动、持续经济增长并消除不发达，但 1970 年代西方经济滞胀与第三世界危机的冷酷现实粉碎了这些保证，证明实证科学规划方案并非万无一失（Husén, 1982; [[Argument_Mattheou_2009_ScientificParadigm|Mattheou, 2009, p. 68]]）。
 > - **自然科学量子[[Epistemology|认识论]]转向** 自然科学内部的范式转换直接动摇了社会科学[[Positivism|实证主义]]的合法性基石；量子力学表明“上帝可能确实掷骰子”，自然界底层秩序充斥着不确定性与混沌而非机械铁律；既然物理学尚且如此，模仿物理学经验铁律的比较教育学便丧失了独尊霸权的认识论依据（[[Argument_Mattheou_2009_ScientificParadigm|Mattheou, 2009, p. 68]]）。
-> - **后现代学术气候与真理体制探索** 宏大理论（Grand Theories）被后现代思潮降解为宏大叙事（Grand Narratives），定性、参与式、主观性进路获得了同等的学术正当性，驱使学者打破实证主义垄断，转而探索多元真理体制（Regimes of Truth, Altbach, 1991; [[Argument_Mattheou_2009_ScientificParadigm|Mattheou, 2009, p. 68]]）。
+> - **后现代学术气候与真理体制探索** [[Grand Theory|宏大理论]]（Grand Theories）被后现代思潮降解为宏大叙事（Grand Narratives），定性、参与式、主观性进路获得了同等的学术正当性，驱使学者打破实证主义垄断，转而探索多元真理体制（Regimes of Truth, Altbach, 1991; [[Argument_Mattheou_2009_ScientificParadigm|Mattheou, 2009, p. 68]]）。
 
 > [!citation-card] 汉斯的大厦隐喻：比较教育学科演进的建筑学空间剖析
 > [[Nicholas Hans|尼古拉斯·汉斯]]（Nicholas Hans, 1958）曾指出每个国家的教育系统都对应一座包含不同历史时期建筑风格的复杂大厦……希腊学者迪米特里奥斯·马修（Dimitrios Mattheou）将该隐喻推广至比较教育学科本身：先驱在 19 世纪借用的泥沼中奠基，后继者用新的“科学技术”建造看似更坚固的庄园；此后不断林立不同风格的新建筑。大厦的部分居所从一开始就被政策制定者占据（充当[[Social Science as Legitimation Alibi|合法化借口]]），而其余部分则始终掌握在学术共同体手中，构成了批判、创新思维与[[Creativity|创造力]]的栖息地，是人类探索真理与学问（episteme）的殿堂。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 69–70)]]

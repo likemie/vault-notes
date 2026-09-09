@@ -113,7 +113,7 @@ updated: 2026-09-07
 > | 维度 | [[Proto-Scientific Motif\|准科学母题]]（Proto-Scientific） | 行政改良母题（Administrative-Meliorist） | 历史-哲学-文化母题（Historical-Humanist） | 实证科学范式（[[Positivism\|positivist paradigm]]） |
 > |---|---|---|---|---|
 > | **代表学者** | [[Marc-Antoine Jullien\|Jullien]] | [[Victor Cousin\|Cousin]], [[Horace Mann\|Mann]], Arnold | [[Michael Sadler\|Sadler]], [[Isaac Kandel\|Kandel]], [[Nicholas Hans\|Hans]], [[Robert Ulich\|Ulich]] | [[Harold Noah\|Noah]], [[Max Eckstein\|Eckstein]], Holmes |
-> | **学科性质** | 准实证自然科学类比（比较解剖学） | 行政考察与政策咨询经验学 | 广义人文科学（Vergleichende Erziehungswissenschaft） | 经验主义社会科学与行为科学 |
+> | **学科性质** | 准实证自然科学类比（比较解剖学） | 行政考察与政策咨询经验学 | 广义人文科学（Vergleichende Erziehungswissenschaft） | [[Empiricism\|经验主义]]社会科学与行为科学 |
 > | **核心方法** | 标准分类[[Questionnaire\|问卷调查]]与事实对比表 | 官方视察报告、机构考察评注 | 历史[[Document\|文献]]考证、观念史比较、因素[[Analytic Framework\|分析框架]] | 跨国大[[Sample Size Determination\|样本量]]化抽样、多元统计、[[Hypothesis\|假设]]演绎模型 |
 > | **[[Unit of Analysis\|分析单位]]** | 跨国办学经验事实与指标 | 机构制度与法律法令条文 | 民族国家、文化传统与[[National Character\|国民性格]] | [[Operationalization\|操作化]][[Variable\|变量]]、指标测度、体系产出 |
 > | **核心关切** | 经验事实归纳与普遍公理推导 | 解决本国危机、立法辩护与直接借用 | 揭示历史动因、精神力量与内在生命 | 验证跨国规律、因果预测与技术控制 |
@@ -160,7 +160,7 @@ updated: 2026-09-07
 
 ### 命题一　学校教育制度由校外不可捉摸的无形历史与文化力量所决定
 
-> [!concept-lens] 校外无形力量决定论
+> [!concept-lens] 校外无形力量[[Determinism|决定论]]
 > 该维度探讨学校制度与社会母体环境之间的有机共生关系，强调历史学派坚信学校只是深层民族精神与历史传统的外部投射。
 
 > [!claim] [[Michael Sadler|Sadler, M.]]

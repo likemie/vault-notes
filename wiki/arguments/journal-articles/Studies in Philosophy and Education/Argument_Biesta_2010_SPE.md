@@ -73,7 +73,7 @@ citation_aliases:
 
 > [!abstract] 理论框架
 > - **Dewey 的交易[[Epistemology|认识论]]（[[Transactional Epistemology]]）** — 替代表象认识论（representational epistemology），论证[[Experimental Research|实验研究]]无法产生未来确定性的知识
-> - **[[Luhmann's Systems Theory|系统理论]]（Systems Theory）** — 封闭/开放/递归/符号系统的区分，论证社会领域的非决定论特征
+> - **[[Luhmann's Systems Theory|系统理论]]（Systems Theory）** — 封闭/开放/递归/符号系统的区分，论证社会领域的非[[Determinism|决定论]]特征
 > - **Latour 的计量学（Metrology）** — 论证"科学成就"并非知识应用到世界，而是世界被改造为实验室条件
 > - **教育的 teleological 特征** — 教育是目的性（telos-driven）实践，价值先于效果
 >
@@ -105,7 +105,7 @@ citation_aliases:
 >
 > **第二重：效力缺陷（Efficacy Deficit）——存在论维度**
 >
-> - "什么有效"的讨论假设了**机械论存在论（mechanistic [[Ontology]]）** 在封闭的决定论系统中，[[Causality|因果关系]]是线性的、可预测的
+> - "什么有效"的讨论假设了**机械论存在论（mechanistic [[Ontology]]）** 在封闭的[[Determinism|决定论]]系统中，[[Causality|因果关系]]是线性的、可预测的
 > - 但教育是**开放的、递归的、符号的系统**
 >   - 开放：与外部环境互动
 >   - 递归：学生和教师基于自己的理解和解释行动（[[Reflexivity|反思性]]）
