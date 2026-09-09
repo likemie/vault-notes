@@ -68,7 +68,7 @@ updated: 2026-09-09
 > - **用途** 为研究者选定[[Paradigm|范式]]提供本体基石，从源头决定[[Epistemology|认识论]]进路与方法论规程；为教育者诊断学生的[[Epistemological Beliefs|认识论信念]]与概念改变障碍提供分析工具。
 > - **边界** 本体论界定“实在的存在方式”（what is），不等于认识论探讨的“有效知识获取标准”（how we know），亦不可等同于具体研究方法的经验操作。
 
-> [!citation-card] 实在论与唯名论的本体论根本设问
+> [!citation-card] 实在论与[[Nominalism|唯名论]]的本体论根本设问
 > 社会实在是外在于个体的客观存在——将其自身强加于人类意识之上——还是人类个体意识的建构产物？实在具有客观硬质属性，抑或仅是人类认知的结果？它是世界中现成给予的客观存在，还是由人类心灵自主创造？这些设问直接源于哲学上的唯名论与实在论之争[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, p. 115)]]。
 >
 > *Is social reality external to individuals – imposing itself on their consciousness from without – or is it the product of individual consciousness? Is reality of an objective nature, or the result of individual cognition? Is it a given ‘out there’ in the world, or is it created by one’s own mind? These questions spring directly from what philosophy terms the nominalist-realist debate.*
@@ -94,7 +94,7 @@ updated: 2026-09-09
 
 > [!feature] 核心要素
 > - **实在论极（Realism）** [[Objectivism|客观主义]]本体论基础，坚信外部世界独立于知觉者而存在，社会现象具有硬性客观规律，强加于个体意识之上（Burrell & Morgan, 1979）。
-> - **唯名论与观念论极（Nominalism & Idealism）** [[Subjectivism|主观主义]]本体论基础，主张概念仅是人类指称现象的语言标签，所谓的社会现实全赖个体意识在情境中的赋予与建构（Greenfield, 1975）。
+> - **[[Nominalism|唯名论]]与观念论极（Nominalism & Idealism）** [[Subjectivism|主观主义]]本体论基础，主张概念仅是人类指称现象的语言标签，所谓的社会现实全赖个体意识在情境中的赋予与建构（Greenfield, 1975）。
 > - **组织作为发明的实在（Invented Reality）** [[Thomas Barr Greenfield|托马斯·巴尔·格林菲尔德]]（Thomas Barr Greenfield）指出学校与组织绝非具有客观意志与生命周期的独立实体，而是人类行动者持续发明的社会实在[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, p. 185)]]。
 > - **动态[[Emergence|涌现]]的复杂实在（Emergent Reality）** [[Complexity Theory|复杂性理论]]确立社会实在处于永恒生成之中，呈现非线性、自组织与不可还原的系统共生属性（Kuhn, 2007）。
 > - **学习者的本体论认知（Ontological Cognition）** 心理认知结构中对知识属性的范畴分类，经历从“知识是绝对客观事实”向“知识是多重视角建构”的本体论转变[[Argument_Greene_2010_JEP|(Greene et al., 2010, p. 237)]]。
@@ -138,7 +138,7 @@ updated: 2026-09-09
 > 探讨社会现象的客观硬质性[[Hypothesis|假设]]与主观建构假设如何决定科学探究的方向。
 
 > [!claim] Cohen et al.
-> **本体论决定[[Epistemology|认识论]]推导** 吉布森·伯勒尔（Gibson Burrell）与加雷斯·摩根（Gareth Morgan）提炼的四组核心假设中，本体论居于基础先导地位。研究者关于现象本质的本体论设问直接分化为实在论与唯名论两极：若认定社会实在如同自然界一般具有客观独立性，必然推导采用[[Positivism|实证主义]]认识论，运用中立实验与通则法则进行[[Variable|变量]]测度；若认定社会实在仅存在于人类心灵与知觉赋予之中，则必然要求[[Interpretive Paradigm|反实证主义]]认识论，采用表意法与质性[[Rich and Thick Description|深描]]去理解个体独特的意义世界（Burrell & Morgan, 1979）[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, p. 115)]]。
+> **本体论决定[[Epistemology|认识论]]推导** 吉布森·伯勒尔（Gibson Burrell）与加雷斯·摩根（Gareth Morgan）提炼的四组核心假设中，本体论居于基础先导地位。研究者关于现象本质的本体论设问直接分化为实在论与[[Nominalism|唯名论]]两极：若认定社会实在如同自然界一般具有客观独立性，必然推导采用[[Positivism|实证主义]]认识论，运用中立实验与通则法则进行[[Variable|变量]]测度；若认定社会实在仅存在于人类心灵与知觉赋予之中，则必然要求[[Interpretive Paradigm|反实证主义]]认识论，采用表意法与质性[[Rich and Thick Description|深描]]去理解个体独特的意义世界（Burrell & Morgan, 1979）[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, p. 115)]]。
 
 ---
 
@@ -186,7 +186,7 @@ updated: 2026-09-09
 
 ## 争议与批评
 
-> [!tension] 核心张力：实在论（Realism）vs 唯名论（Nominalism）
+> [!tension] 核心张力：实在论（Realism）vs [[Nominalism|唯名论]]（Nominalism）
 > - **实在论阵营（蓝方）** 坚信客体具有独立于知觉者的客观硬质存在，不以人类意志为转移；社会结构与组织是实在的实体，研究应当运用自然科学法则发现其运行通则（p. 115）。
 > - **唯名论阵营（红方）** 坚信所谓概念与范畴仅仅是人类为了指称事物而发明的语言标签；外部世界不存在独立于知觉者的实体，社会现实完全是主体意义赋予与认知建构的产物（p. 115）。
 
@@ -206,6 +206,6 @@ updated: 2026-09-09
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011)]] — 详细阐述了本体论在五层研究框架中的基石地位，剖析了 Burrell & Morgan 的实在论–唯名论连续统与 Greenfield 组织替代架构。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011)]] — 详细阐述了本体论在五层研究框架中的基石地位，剖析了 Burrell & Morgan 的实在论–[[Nominalism|唯名论]]连续统与 Greenfield 组织替代架构。
 > - [[Argument_Greene_2010_JEP|Greene et al. (2010)]] — 将本体论从哲学[[Paradigm|范式]]引入个体认知发展测量，实证检验了学习者在不同学科领域中的本体论认知特征。
 

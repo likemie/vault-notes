@@ -102,7 +102,7 @@ updated: 2026-09-07
 > - **适用边界** 适用于具有高度确定性、良构（Well-Formed）且目标闭合的机械或技术系统；在充满价值冲突、动态[[Emergence|涌现]]与情境独特的教育“沼泽地”与文明历史长河中存在根本性认识论局限。
 
 > [!citation-card] 技术理性的实证主义遗产与技术官僚崇拜
-> [[Donald A. Schön|唐纳德·舍恩]]（Donald Schön）指出，技术理性是实证主义的遗产，这一 19 世纪兴起的强大哲学教条既是科学技术崛起的叙事，也是旨在将科技成就应用于人类福祉的社会运动。（Schön, 1983, p. 31）卡扎米亚斯进一步指出，1960 年代战后实证学派的新登场者将历史与人文教化弃若敝屣，转而将“科学”、“[[Scientific Method|科学方法]]”、“经验主义”、“工具主义”与“技术官僚理性”奉为主宰神祇，将教育窄化为单纯的学校技术规训。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 53, 56–57)]]
+> [[Donald A. Schön|唐纳德·舍恩]]（Donald Schön）指出，技术理性是实证主义的遗产，这一 19 世纪兴起的强大哲学教条既是科学技术崛起的叙事，也是旨在将科技成就应用于人类福祉的社会运动。（Schön, 1983, p. 31）卡扎米亚斯进一步指出，1960 年代战后实证学派的新登场者将历史与人文教化弃若敝屣，转而将“科学”、“[[Scientific Method|科学方法]]”、“[[Empiricism|经验主义]]”、“工具主义”与“技术官僚理性”奉为主宰神祇，将教育窄化为单纯的学校技术规训。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 53, 56–57)]]
 >
 > *Technical rationality is the heritage of Positivism, the powerful philosophical doctrine that grew up in the nineteenth century... If the inspirational deities of the old comparativists were history, philosophy and 'humanistic culture/paideia', those of some influential modernist 'scientific' parvenus were 'science' and the 'scientific method', 'empiricism', 'instrumentalism' and 'technocratic rationalism'.*
 
@@ -173,7 +173,7 @@ updated: 2026-09-07
 > **系统侵蚀生活世界与合法化悖论** 技术理性在晚期现代社会中被国家治理机器广泛采纳，作为以科学客观性掩盖价值冲突的合法化工具。在教育领域，这种逻辑促成了[[New Public Management|新公共管理]]（New Public Management, NPM）与机械问责制的盛行。将教学简化为可测量、可排名的技术指标（如部分循证改革对单一[[Randomised Controlled Trials|随机对照试验]]（RCT）指标的迷执），消除了教师和学生作为意义寻求者的意向性，剥夺了教师的[[Professional Judgment|专业判断]]权。这种做法表面上提升了系统审计效率，实则瓦解了学校日常教育实践的内在意义结构，最终导致教师职业倦怠、师生动力衰退以及深层的系统合法化危机。
 
 > [!claim] [[Andreas Kazamias|Kazamias, A.]] M.
-> **技术官僚理性对全人[[Bildung|教化]]与人文科学传统的侵蚀** 卡扎米亚斯深刻批判了 1960 年代以来支配比较教育与国际政策界的技术官僚理性（Technocratic Rationalism）。他指出，现代主义实证学者将[[Scientific Method|科学方法]]、经验主义、工具主义与技术官僚理性奉为主宰神祇，将教育研究窄化为对单纯“学校教育”（Schooling）的微观[[Disciplina and Doctrina|规训]]与经济人力产出测算，系统抹杀了以人为中心（Anthropocentric）的古典全人[[Bildung|教化]]（*[[Paideia]]*）传统与对人类政治、社会与伦理危机的哲学反思。这种去历史化、去文化深度的技术控制论，导致教育研究沦为服务于跨国官僚治理的去政治化工具。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 56–57)]]
+> **技术官僚理性对全人[[Bildung|教化]]与人文科学传统的侵蚀** 卡扎米亚斯深刻批判了 1960 年代以来支配比较教育与国际政策界的技术官僚理性（Technocratic Rationalism）。他指出，现代主义实证学者将[[Scientific Method|科学方法]]、[[Empiricism|经验主义]]、工具主义与技术官僚理性奉为主宰神祇，将教育研究窄化为对单纯“学校教育”（Schooling）的微观[[Disciplina and Doctrina|规训]]与经济人力产出测算，系统抹杀了以人为中心（Anthropocentric）的古典全人[[Bildung|教化]]（*[[Paideia]]*）传统与对人类政治、社会与伦理危机的哲学反思。这种去历史化、去文化深度的技术控制论，导致教育研究沦为服务于跨国官僚治理的去政治化工具。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 56–57)]]
 
 ---
 

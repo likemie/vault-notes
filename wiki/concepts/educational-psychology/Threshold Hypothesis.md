@@ -70,7 +70,7 @@ updated: 2026-08-24
 
 ## 概念辨析
 
-> [!contrast-table] 门槛假说 vs 线性决定论 vs [[Necessary and Sufficient Conditions|必要条件]]分析法
+> [!contrast-table] 门槛假说 vs 线性[[Determinism|决定论]] vs [[Necessary and Sufficient Conditions|必要条件]]分析法
 > | 比较维度 | 智力门槛假说（Threshold [[Hypothesis]]） | 线性相关决定论（Linear Model） | 必要条件分析法（Necessary Condition Analysis, NCA） |
 > |---|---|---|---|
 > | **数学关系假设** | 分段线性回归（Segmented Regression）或斜率断裂 | 全局单调线性回归（$r = \text{常数}$） | 散点图左上角天花板边界线（Ceiling Line） |
@@ -114,7 +114,7 @@ updated: 2026-08-24
 ### 命题二　二阶宏观综合证实认知能力对创造力的独立贡献有限且与外认知因素相当
 
 > [!concept-lens] 宏观[[Effect Size|效应量]]聚合与跨领域裁决
-> 探讨全领域大样本[[Meta-analysis|元分析]]汇总数据对智力决定论的实证检验。
+> 探讨全领域大样本[[Meta-analysis|元分析]]汇总数据对智力[[Determinism|决定论]]的实证检验。
 
 > [!claim] [[Argument_Runco_2026_CRJ|Runco et al. (2026)]]; Weiss & Steger (2021)
 > **宏观认知效应量约束** 跨 52 项一阶元分析的大规模[[Meta-meta-analysis|二阶元分析]]（Second-Order Meta-Analysis, SOMA）表明，认知相关因素（Cognitive Correlates，包含智力、[[Academic Achievement|学业成绩]]、工作记忆）与创造力的综合二阶[[Effect Size|效应量]]仅为 **$r = 0.12$**（95% [[Confidence Interval|置信区间]] $[0.04, 0.19]$），与非认知/外认知因素（Extracognitive Correlates，$r = 0.14$，包含动机、心境与自我信念）在统计上完全重叠。这一宏观证据强力印证了门槛假说推论：在未限制智力范围的全样本中，认知能力的全局解释力非常温和，创造力的实现高度依赖于动机、[[Self-Efficacy|自我效能]]与专门教学干预的共同协同。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 6–8)]]

@@ -108,7 +108,7 @@ updated: 2026-09-09
 > [!concept-lens] 概念透镜
 > - **含义** 指具有开放上下文理解与概率性合成表征能力的智能技术，重塑了知识检索、表征[[Externalization|外化]]与人机分工的边界。
 > - **用途** 在教育中充当[[Brainstorming|头脑风暴]]启发伙伴、二语写作脚手架、个性化形成性反馈提供者与跨学科概念连接中继。
-> - **边界** 区别于预设规则与决定论算法，其输出具有概率性非确定性与幻觉（Hallucination）特征；无法替代人类具身体验、伦理裁决与深层认识论判断。
+> - **边界** 区别于预设规则与[[Determinism|决定论]]算法，其输出具有概率性非确定性与幻觉（Hallucination）特征；无法替代人类具身体验、伦理裁决与深层认识论判断。
 
 > [!citation-card]- 关键表述：高等教育认知塑造视角
 > 这些研究发现表明，ChatGPT 对学生认知的影响并非该工具自身所固有，而是依存于教学框架、任务设计和教学脚手架。在缺乏教学支架的情境中，研究者观察到[[Creativity|创造力]]优于[[Critical Thinking|批判性思维]]的非对称模式以及双重认知侵蚀，二者往往都由认知卸载所引发。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 1, 10)]]
@@ -147,7 +147,7 @@ updated: 2026-09-09
 > - **提示词工程与[[Dialogue in Education|对话]]式[[Scaffolding|认知脚手架]]（Prompt Scaffolding）** 将自然语言提示作为人机交互与思维[[Externalization|外化]]的界面，通过角色设定、追问指令与量规对齐，动态调整技术对[[Zone of Proximal Development|最近发展区]]的支持力度。[[Argument_Liu_2026_CHBR|(Liu et al., 2026, pp. 2, 10)]]
 > - **认知放大与[[Cognitive Offloading|认知卸载]]的动态张力（Amplification vs. Offloading）** 既能剥离机械性外在负荷以释放[[Working Memory|工作记忆]]投入高阶推理（认知放大），又极易因表面语义流畅性诱发心智怠惰与深度思考外包（有害卸载）。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 10–11)]]
 > - **[[Epistemological Vigilance|认识论警觉]]与多源[[Triangulation|三角互证]]（Epistemic Vigilance）** 学习者必须建立对抗模型幻觉与偏见的批判性怀疑态度，将 AI 生成内容与[[Primary and Secondary Documents|一手文献]]、教师点拨及同伴评议进行多源三角核验。[[Argument_Li_2026_CEAI|(Li et al., 2026, p. 11)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, pp. 34–36)]]
-> - **人机协同活动系统全要素整合（[[Third Generation Activity Theory|AT-MCSCL]] Activity System）** 基于[[Third Generation Activity Theory|活动理论]]移动协作学习架构，将生成式 AI 介入解析为主体（学段与学科特质）、工具（模态与平台）、客体（多维产出）、分工（学习同伴 vs 授课导师）、规则（4–12 周干预周期与反思量规）与共同体情境（数字化水平与权力距离文化）六大要素的协同联动，摆脱单一的技术决定论。[[Argument_Chen_Cheung_2025_ERR|(Chen & Cheung, 2025, pp. 3–7)]]
+> - **人机协同活动系统全要素整合（[[Third Generation Activity Theory|AT-MCSCL]] Activity System）** 基于[[Third Generation Activity Theory|活动理论]]移动协作学习架构，将生成式 AI 介入解析为主体（学段与学科特质）、工具（模态与平台）、客体（多维产出）、分工（学习同伴 vs 授课导师）、规则（4–12 周干预周期与反思量规）与共同体情境（数字化水平与权力距离文化）六大要素的协同联动，摆脱单一的技术[[Determinism|决定论]]。[[Argument_Chen_Cheung_2025_ERR|(Chen & Cheung, 2025, pp. 3–7)]]
 > - **教学活动系统与评价规则重构（Activity System Reconfiguration）** 推动教学评价从“关注最终文字成品”转向“关注提示词迭代链、事实查错过程与反思日志”的全程伴随式评价。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 11–13)]]
 
 > [!logic-map]- 生成式 AI 介入教学活动系统的中介机制
@@ -179,8 +179,8 @@ updated: 2026-09-09
 > | [DeepSeek](https://www.deepseek.com) | 深度求索研发的基座大模型（V3 / R1 系列）；在长程逻辑推理、数学推导与代码生成上表现优异，全面开源 |
 > | [通义千问](https://chat.qwenlm.ai) | 阿里巴巴研发的大语言与多模态模型系列（Qwen）；开源生态完善，中文语义理解、长文档解析与多语言支持扎实 |
 > | [腾讯元宝](https://yuanbao.tencent.com) | 腾讯基于混元大模型推出的 AI 助手；深度打通微信公众号生态与搜狗搜索，擅长长文深度研读与信息精炼 |
-> | [Kimi](https://kimi.moonshot.cn) | 月之暗面（Moonshot AI）研发的长文本对话助手；原生支持数百万字超长无损上下文，擅长学术长文献速读与对比提取 |
-> | [豆包](https://www.doubao.com/) | 字节跳动基于云雀大模型研发的通用助手；响应迅速，语音交互自然，支持多功能智能体与日常学习辅助 |
+> | [Kimi](https://kimi.moonshot.cn) | 月之暗面（Moonshot AI）研发的长文本对话助手；原生支持数百万字超长无损上下文，擅长学术长[[Document\|文献]]速读与对比提取 |
+> | [豆包](https://www.doubao.com/) | 字节跳动基于云雀大模型研发的通用助手；响应迅速，语音交互自然，支持多功能[[AI Agent in Education\|智能体]]与日常学习辅助 |
 
 > [!tip] 学术与探究常用工具推荐
 > 在文献研读、证据核验与学术探究场景中，推荐优先使用 **Gemini**、**Claude**、**ChatGPT**、**Perplexity** 与 **DeepSeek**。此类工具在长上下文窗口、长程逻辑推理、代码执行或即时学术引文溯源方面具备更稳健的综合表现。
@@ -194,7 +194,7 @@ updated: 2026-09-09
 ### 命题一　生成式人工智能对高阶思维的塑造并非技术固有属性，而是依存于任务情境与教学脚手架的条件性效应
 
 > [!concept-lens] 认知负荷调配与[[Higher-Order Thinking Skills|高阶思维]]共现维度
-> 该命题批判了技术决定论的乐观或悲观立场，确立了教学法介入在生成式技术应用中的决定性分流作用。
+> 该命题批判了技术[[Determinism|决定论]]的乐观或悲观立场，确立了教学法介入在生成式技术应用中的决定性分流作用。
 
 > [!claim] Li, C.
 > **结构化探究驱动双向协同增益 vs 非结构化引发非对称侵蚀** 基于对高等教育实证研究的[[Systematic Review|系统综述]]，ChatGPT 等生成式技术对学生批判性与[[Creativity|创造性思维]]的影响具有鲜明的情境依赖性。在嵌入反思提示与[[Dialogue in Education|对话]]探究的[[Structured Teaching|结构化教学]]中，AI 作为认知放大器显著驱动了两类思维的协同跃升；反之，在缺乏[[Scaffolding|教学支架]]的自由使用情境中，工具的表面流畅性麻痹了反思本能，诱发严重的[[Cognitive Offloading|认知卸载]]，导致创造性发散繁荣伴随批判性审思崩塌的非对称发展，乃至双重认知侵蚀。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 1, 9–11)]]

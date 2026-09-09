@@ -181,7 +181,7 @@ updated: 2026-09-05
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1980 年代 — 社会认知起源** Bandura 与 Zimmerman 奠定社会认知取向的自我调节学习理论，提出人、行为与环境三元交互决定论。
+> - **1980 年代 — 社会认知起源** Bandura 与 Zimmerman 奠定社会认知取向的自我调节学习理论，提出人、行为与环境三元交互[[Determinism|决定论]]。
 > - **2000 年代 — 认知架构与信息加工模型** Winne & Hadwin 提出基于[[Metacognition|元认知]]监控与控制的信息加工四阶段模型（COPES）。
 > - **2010 年代 — 计算机中介与超媒体环境** Azevedo 等人深入探讨[[Intelligent Tutoring Systems|智能导师系统]]与超媒体探究中的实时自适应支架对自我调节的干预机制。
 > - **2020 年代 — [[Generative Artificial Intelligence|生成式人工智能]]时代的风险中和与分流中枢** [[Argument_Li_2026_CEAI|Li et al. (2026)]] 揭示了 SRL 阻断[[Cognitive Offloading|认知外包]]的核心枢纽价值；[[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] 进一步通过[[Meta-analysis|元分析]]确立了 SRL 作为中和算法认知风险与主导促学成效断层分流的关键调节中枢地位。

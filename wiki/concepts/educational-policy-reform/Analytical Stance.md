@@ -83,7 +83,7 @@ updated: 2026-09-02
 > | **核心态度** | 审慎探询、审验质量、情境评估 | 迷信权威名流与政策行政指令 | 迷信个人直觉，拒斥一切外部研究 | 机械套用[[Document\|文献]]指标，缺乏批判审议 |
 > | **面对教育时尚** | 穿透[[Persuasive Communication in Education\|说服性修辞]]，追问因果链条 | 迅速跟风并盲目在课堂推广 | 嘲讽一切改革倡议，坚决墨守成规 | 能解读图表但无法识别商业包装漏洞 |
 > | **证据利用方式** | 结合校情与[[Professional Judgment\|专业判断]]做适应性[[Transfer Translation Transformation\|转译]] | 照搬脚本执行（Cook book 模式） | 仅凭个别学生偶然经验做决策 | 仅看[[Effect Size\|效应量]]大小，忽视情境[[Heterogeneity\|异质性]] |
-> | **专业能动性** | 主动探究者与情境重构者 | 被动执行技术员 | 封闭的个体经验主义者 | 案头[[Documentary Analysis\|文献分析]]员 |
+> | **专业能动性** | 主动探究者与情境重构者 | 被动执行技术员 | 封闭的个体[[Empiricism\|经验主义]]者 | 案头[[Documentary Analysis\|文献分析]]员 |
 
 ---
 

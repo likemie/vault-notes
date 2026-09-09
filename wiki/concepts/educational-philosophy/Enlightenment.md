@@ -96,7 +96,7 @@ updated: 2026-09-07
 > [!contrast-table] 概念辨析
 > | 维度 | 启蒙现代性范式（Enlightenment Paradigm of Modernity） | 旧制度神权传统（Old Regime & Scholasticism） | 后现代反奠基主义（[[Postmodernism]]） |
 > |---|---|---|---|
-> | **[[Epistemology\|认识论]]基石** | **理性批判、经验观察与[[Scientific Method\|实证科学统一]]** | 启示真理、经院哲学与教会教条权威 | 话语建构、解构主义与拒绝宏大叙事 |
+> | **[[Epistemology\|认识论]]基石** | **理性批判、经验观察与[[Scientific Method\|实证科学统一]]** | 启示真理、经院哲学与教会教条权威 | 话语建构、解构主义与拒绝[[Grand Theory\|宏大叙事]] |
 > | **人性[[Hypothesis\|假设]]** | 人拥有自我启蒙与理性自主潜能，生而平等 | 人性本恶（原罪论），需神恩驯化救赎 | 主体是由权力网络历史性建构的虚构产物 |
 > | **教育终极目的** | **培育理性独立公民、增进普遍福祉与全人[[Bildung\|教化]]** | 灌输教区教理问答、涤荡异端与培育顺民 | 揭露知识/权力共谋、赋权多元异质主体 |
 > | **公共治理载体** | **世俗民族国家法制与统一[[Common School Movement\|公共学校]]网络** | 宗教修士会与教区私塾特许垄断 | 去中心化社区网络与多元微观抵抗空间 |
@@ -113,7 +113,7 @@ updated: 2026-09-07
 > - **自然自由与儿童中心身心潜能发展（Natural Freedom and Child-Centered Growth）** 承袭[[Jean-Jacques Rousseau|卢梭]]《爱弥儿》与[[Johann Heinrich Pestalozzi|裴斯泰洛齐]]的感官[[Bildung|教化]]法，主张教育必须尊重受教育者的天赋潜能与个性，使教师成为引导儿童自我发展的外部助力而非惩戒暴君。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 20, 24)]]
 > - **教育、政治学与民族国家构建的三位一体（Triad of Education, Politics, and State-Building）** 启蒙运动将国民公共教育定位为国家公共工程与政治科学的核心维度，将学校确立为塑造具有爱国认同与法律敬畏的现代公民的根本熔炉（Talleyrand, Condorcet, Bentham, Jullien）。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 19–20, 25)]]
 > - **公共领域的理性重构与现代性工程（Reconstruction of the Public Sphere）** 如[[Jürgen Habermas|哈贝马斯]]所论证，启蒙现代性工程的核心任务在于通过客观科学、普遍道德与法律理性重构公共领域，而各级[[Common School Movement|公共学校]]的理性化组织正是实现这一现代性工程的必要前提。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, p. 25)]]
-> - **经验实证归纳与超国家和平治理愿景（Transnational Empiricism and Peace Governance）** 催生了比较教育的[[Proto-Scientific Motif|准科学母题]]：将培根知识统一观、居维叶比较解剖学类比与标准化[[Questionnaire|问卷]]相结合，致力于通过跨国比较经验事实消除民族偏狭，构建人类[[Perpetual Peace|永久和平]]共同体。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 11–13, 21–24)]]
+> - **经验实证归纳与超国家和平治理愿景（Transnational [[Empiricism]] and Peace Governance）** 催生了比较教育的[[Proto-Scientific Motif|准科学母题]]：将培根知识统一观、居维叶比较解剖学类比与标准化[[Questionnaire|问卷]]相结合，致力于通过跨国比较经验事实消除民族偏狭，构建人类[[Perpetual Peace|永久和平]]共同体。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 11–13, 21–24)]]
 
 > [!logic-map]- 启蒙现代性[[Paradigm|范式]]与教育体系建构机制图
 > ```mermaid
@@ -219,7 +219,7 @@ updated: 2026-09-07
 > | [[State Educational Sovereignty]] | 概念 | 启蒙运动剥离教会神权垄断后建立世俗现代国家教育权的制度产物。 |
 > | [[Bildung]] | 概念 | 德意志启蒙新人文主义传统中关于个体理性觉醒与全人教化的核心理念。 |
 > | [[Scientific Method]] | 概念 | 启蒙运动确立的观察、实验与归纳推理准则，塑造了现代科学[[Epistemology\|认识论]]。 |
-> | [[Positivism]] | 概念 | 承袭启蒙经验主义发展而来的实证主义哲学，深刻影响 19–20 世纪教育研究。 |
+> | [[Positivism]] | 概念 | 承袭启蒙[[Empiricism\|经验主义]]发展而来的实证主义哲学，深刻影响 19–20 世纪教育研究。 |
 > | [[Educational Meliorism]] | 概念 | 启蒙进步论在教育政策领域的实践化体现，以理性改良增进普遍福祉。 |
 > | [[Immanuel Kant]] | 人物 | 确立“敢于求知（Sapere aude!）”启蒙定义与理性的公共运用原则。 |
 > | [[Jean-Jacques Rousseau]] | 人物 | 奠定自然主义教育哲学与自由个性发展的启蒙先驱。 |

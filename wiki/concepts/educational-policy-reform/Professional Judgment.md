@@ -95,7 +95,7 @@ updated: 2026-09-02
 
 > [!boundary]- 概念边界
 > - 区别于技术化执行（Technocratic Implementation）：技术化执行将研究结论视作刚性操作手册，排斥教师的能动调整；专业判断视情境调试（Adaptation）为教学成功的内在[[Necessary and Sufficient Conditions|必要条件]]。
-> - 区别于个人浪漫化直觉或封闭经验：缺乏客观证据约束的判断易退化为主观偏见或经验主义停滞；专业判断要求在多元证据与伦理标准的约束下展开反思性审议。
+> - 区别于个人浪漫化直觉或封闭经验：缺乏客观证据约束的判断易退化为主观偏见或[[Empiricism|经验主义]]停滞；专业判断要求在多元证据与伦理标准的约束下展开反思性审议。
 > - 区别于证据知情实践（EIP）：EIP 是多元证据进入决策的系统取向；专业判断则是实施该取向所依赖的主体认知与审议枢纽能力。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 129)]]
 
 ---
@@ -242,7 +242,7 @@ updated: 2026-09-02
 > > [!axis] 理论辩护与商业化认证的实践脱节
 > > Qvortrup 试图将专业判断作为缺失环节融入 Hattie 的 [[Visible Learning|VL]] 体系进行辩护；批判学者指出，VL 的商业化认证与培训极其强调指标合规性，在实际操作中反而压缩了教师的[[Reflexivity|反思性]]判断空间。[[Argument_Qvortrup_2019_NordSTEP|(Qvortrup, 2019, pp. 3–5)]]; [[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 15)]]
 >
-> > [!axis] 专业判断与经验主义的滑坡风险
+> > [!axis] 专业判断与[[Empiricism|经验主义]]的滑坡风险
 > > 强循证学者担忧，若过度拔高专业判断而缺乏严谨证据和方法论约束，判断极易沦为捍卫落后教学习惯的主观遮羞布；因此必须维持严谨证据与严谨判断的动态张力。[[Argument_Ross_Morrison_2021_ROE|(Ross & Morrison, 2021, p. 123)]]; [[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 132)]]
 
 > [!tension] 实验黄金标准（What Works） vs 专业价值审议（What Matters）

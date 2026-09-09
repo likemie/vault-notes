@@ -192,7 +192,7 @@ updated: 2026-08-27
 > > - **实证改善学习效果的证据依然薄弱（Lack of Empirical Efficacy）** 尽管 EdTech 产业极力标榜自适应算法的优越性，但独立严谨的大规模实证研究仍未能证实学习分析能显著降低辍学率或提升深层学业理解。[[Argument_Amos_2022_Springer|(Amos, 2022, p. 57)]]
 > > - **[[Construct|构念]]代表性不足与意义剥离（Construct Underrepresentation）** 将复杂的思维过程窄化为停留时间、点击频率等易量化代理[[Variable|变量]]，严重遗漏了沉思、困惑、灵感酝酿等难以数字化的深层认知维度。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 24–25)]]
 > > - **先发制人预判的伦理暴力（Ethical Violence of Preemption）** 在学生展示自身潜能之前，算法已依据历史模型为其贴上“高风险”或“缺乏前景”的标签，形成自证预言并加剧教育不平等。[[Argument_Thompson_2022_Promising_Student|(Thompson et al., 2022, pp. 224–225)]]
-> > - **对全人[[Bildung|教化]]（[[Bildung]]）开放性的封锁** 教育的本质是指向一个未知且不可预测的自由主体[[Growth|成长]]，而算法决定论则试图将未来锁死在历史数据的概率相关性中。[[Argument_Jornitz_2022_Bildung_algorithmic|(Jornitz & Klinge, 2022, p. 242)]]
+> > - **对全人[[Bildung|教化]]（[[Bildung]]）开放性的封锁** 教育的本质是指向一个未知且不可预测的自由主体[[Growth|成长]]，而算法[[Determinism|决定论]]则试图将未来锁死在历史数据的概率相关性中。[[Argument_Jornitz_2022_Bildung_algorithmic|(Jornitz & Klinge, 2022, p. 242)]]
 
 ---
 

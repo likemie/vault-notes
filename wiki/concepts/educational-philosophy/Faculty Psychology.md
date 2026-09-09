@@ -79,7 +79,7 @@ updated: 2026-09-06
 > *Cousin, like Jullien, adhered to the psychological theory known as 'faculty psychology' and the associated idea of 'mental discipline', Cousin’s conception of the content of the curriculum of the secondary collèges—a general education that combined humanistic with scientific studies—could be interpreted as foreshadowing the ideal of culture générale.*
 
 > [!boundary]- 概念边界
-> - 不等于极端感觉论经验主义（Radical Sensationalism） — 感觉论（如孔狄亚克早期极端口径）倾向于将全部心智还原为单纯感觉的被动复合；而官能心理学（如拉罗米吉埃）强调注意力、比较力与推理力是心灵主动介入的主体机能。
+> - 不等于极端感觉论[[Empiricism|经验主义]]（Radical Sensationalism） — 感觉论（如孔狄亚克早期极端口径）倾向于将全部心智还原为单纯感觉的被动复合；而官能心理学（如拉罗米吉埃）强调注意力、比较力与推理力是心灵主动介入的主体机能。
 > - 不等于现代认知科学的[[Domain Specificity|领域特殊性]]模块论（Domain-Specific Modularity） — 官能心理学预设官能是跨领域的“一般心智肌肉”，通过练习古典语磨练出的推理力能自由迁移至其他生活领域；而现代认知科学高度强调认知机制的领域特殊性与情境依赖性。
 
 ---
@@ -89,7 +89,7 @@ updated: 2026-09-06
 官能心理学在思想史上处于从近代经院哲学向现代科学心理学过渡的关键节点：
 
 > [!contrast-table] 概念辨析
-> | 维度 | 心灵官能心理学（Faculty Psychology） | 经验主义联想论（Associationism） | 现代[[Cognitive Constructivism\|认知建构主义]]（Cognitive Constructivism） |
+> | 维度 | 心灵官能心理学（Faculty Psychology） | [[Empiricism\|经验主义]]联想论（Associationism） | 现代[[Cognitive Constructivism\|认知建构主义]]（Cognitive Constructivism） |
 > |---|---|---|---|
 > | **心灵隐喻** | 由若干待锻炼官能构成的有机体（心智体操/肌肉） | 被动接收感觉印记并在规律下组合的白板或网络 | 主动在与环境互动中建构心理图式与概念模型的信息处理机 |
 > | **核心教学目标** | **心智训练（Mental Discipline）**，以特定学科锤炼一般思维官能 | 强化刺激与反应的联想通道，建立条件反射与记忆网络 | 发展领域深层理解、[[Metacognition\|元认知监控]]与[[Problem Solving\|问题解决]][[Higher-Order Thinking Skills\|高阶思维]]能力 |
