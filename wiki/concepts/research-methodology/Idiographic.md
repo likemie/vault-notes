@@ -75,7 +75,7 @@ updated: 2026-08-16
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1979 — 方法论维度区分** Burrell & Morgan 将个例式与[[Nomothetic|通则式]]列为社会研究方法论的两极之一，作为其四组[[Hypothesis|假设]]推导链的方法论终点：唯名论[[Ontology|本体论]]、[[Interpretive Paradigm|反实证主义]][[Epistemology|认识论]]、意志论人性假设通向个例式方法论。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1)]]
+> - **1979 — 方法论维度区分** Burrell & Morgan 将个例式与[[Nomothetic|通则式]]列为社会研究方法论的两极之一，作为其四组[[Hypothesis|假设]]推导链的方法论终点：[[Nominalism|唯名论]][[Ontology|本体论]]、[[Interpretive Paradigm|反实证主义]][[Epistemology|认识论]]、意志论人性假设通向个例式方法论。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1)]]
 > - **1986 — 方法论定位** Kirk & Miller（1986, p. 14）延续这一区分，强调个例式关注对独特情况的理解与解释。
 > - **2011 — 质性数据分析中的应用** 个例式数据分析以生命史、[[Case Study|案例研究]]、个体传记与叙事为代表。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.2)]]
 

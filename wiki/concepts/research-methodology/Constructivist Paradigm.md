@@ -217,7 +217,7 @@ Biggs 将建构主义与[[Phenomenography|现象图式学]]视为[[Student Learn
 > | **意义生成与研究设计** | 从参与者经验和情境中归纳意义，并说明研究者的解释位置 | [[Qualitative Interview\|质性访谈]]、[[Ethnography\|民族志]]、[[Constructivist Grounded Theory\|建构主义扎根理论]] | [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] |
 > | **学习活动与概念改变** | 通过学生实际开展的活动改变理解，并使目标、教学和评估对齐 | 课程设计、课堂教学与评估 | [[Argument_Biggs_1999_HERD\|Biggs (1999)]] |
 > | **跨文化结合与本土重构** | 西方建构主义与东亚儒家对话传统的选择性亲和 | 跨国[[Policy Borrowing\|政策借用]]、LCE 本土化 | [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]] |
-> | **观念与[[Epistemic Governance\|知识治理]]权力** | 解构物质决定论，强调规范与文化模型的建构性力量 | 全球教育治理、国际组织分析 | [[Argument_Zapp_2022_Springer\|Zapp (2022)]] |
+> | **观念与[[Epistemic Governance\|知识治理]]权力** | 解构物质[[Determinism\|决定论]]，强调规范与文化模型的建构性力量 | 全球教育治理、国际组织分析 | [[Argument_Zapp_2022_Springer\|Zapp (2022)]] |
 
 ---
 

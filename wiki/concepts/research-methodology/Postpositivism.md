@@ -99,7 +99,7 @@ updated: 2026-09-09
 
 ## 定义
 
-后[[Positivism|实证主义]]（Postpositivism）是 20 世纪中叶以来对经典实证主义（[[Positivism]]）绝对确定性、机械决定论与幼稚实在论展开全面反思而确立的研究哲学立场。
+后[[Positivism|实证主义]]（Postpositivism）是 20 世纪中叶以来对经典实证主义（[[Positivism]]）绝对确定性、机械[[Determinism|决定论]]与幼稚实在论展开全面反思而确立的研究哲学立场。
 
 > [!def] 核心定义
 > 后实证主义（Postpositivism）是一种批判并超越经典实证主义的哲学[[Epistemology|认识论]][[Paradigm|范式]]。它坚决挑战将世界描绘为有序、可控、可预测、标准化、机械、决定论且封闭之系统的现代主义实证世界观（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 729]]）。后实证主义遵循波普尔（[[Karl Popper]]）的批判[[Rationalism in International Relations|理性主义]]立场，主张人类关于世界的知识具有推测性（conjectural）、[[Falsification|可证伪性]]（falsifiable）与可错性（fallible）；一劳永逸的基础主义确定性被尝试性的推测与多重理据所取代。在当代经验研究中，后实证主义代表了严谨[[Quantitative Research|量化研究]]、准实验与[[Mixed Methods Research|混合方法]]的主导哲学底座，坚守概率[[Causality|因果推断]]与系统性误差审视（Phillips & Burbules, 2000; Creswell, 2022）；在广义社会与历史探究中，它通过恢复德语广义科学（*Wissenschaft*）传统与引入中程非普适探索性假说，为跨情境理论抽象与人文理解确立了现代科学合法性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, pp. 731–734)]]; [[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 56)]]
@@ -114,7 +114,7 @@ updated: 2026-09-09
 后实证主义的经典表述凸显了知识从绝对确定性走向尝试性推测的历史转向。
 
 > [!citation-card] 批判理性主义与推测性知识本质
-> 关于世界的知识是推测性的（conjectural）、可证伪的（falsifiable）、可挑战的（challengeable）、变化中的（changing）。安全的、一劳永逸的基础知识和关于单一客观实在的宏大叙事，被尝试性的推测（tentative speculation）所取代——研究者提出多重视角和多重理据（multiple perspectives and multiple warrants）；世界是多层次的（multilayered），能够容纳多重解释。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 27)]]
+> 关于世界的知识是推测性的（conjectural）、可证伪的（falsifiable）、可挑战的（challengeable）、变化中的（changing）。安全的、一劳永逸的基础知识和关于单一客观实在的[[Grand Theory|宏大叙事]]，被尝试性的推测（tentative speculation）所取代——研究者提出多重视角和多重理据（multiple perspectives and multiple warrants）；世界是多层次的（multilayered），能够容纳多重解释。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 27)]]
 >
 > *Knowledge about the world is conjectural, falsifiable, challengeable, changing. Safe, once-and-for-all foundational knowledge and grand narratives about a single objective reality are replaced by tentative speculation—researchers put forward multiple perspectives and multiple warrants; the world is multilayered, able to hold multiple interpretations.*
 
@@ -141,7 +141,7 @@ updated: 2026-09-09
 > [!contrast-table] 概念辨析
 > | 维度 | 经典实证主义（[[Positivism]]） | 后实证主义（Postpositivism） | 建构主义范式（[[Constructivist Paradigm]]） | 后现代主义（[[Postmodernism]]） |
 > |:---|:---|:---|:---|:---|
-> | **[[Ontology\|本体论假设]]** | 幼稚实在论：客观实在独立且遵循不可变的确定性规律 | [[Critical Realism\|批判实在论]]：客观实在存在，但受人类认知局限只能被不完美或概率性地把握 | 相对主义实在论：实在由社会历史互动中的个体与群体主观赋予意义而生成 | 反本质主义：否定独立实在与元叙事，实在呈现为多重碎片化的话语表征 |
+> | **[[Ontology\|本体论假设]]** | 幼稚实在论：客观实在独立且遵循不可变的确定性规律 | [[Critical Realism\|批判实在论]]：客观实在存在，但受人类认知局限只能被不完美或概率性地把握 | 相对主义实在论：实在由社会历史互动中的个体与群体主观赋予意义而生成 | 反本质主义：否定独立实在与[[Grand Theory\|元叙事]]，实在呈现为多重碎片化的话语表征 |
 > | **认识论关系** | 主客绝对二元分离，研究者如同冷峻客观的中立镜像 | 观察带有理论与价值负荷，研究者通过严格反思与误差控制逼近真理 | 主客交往共生，研究者与参与者共同建构理解 | 话语权力建构，知识是特定权力[[Champ\|场域]]中被生产和特权化的产物 |
 > | **真理与知识性质** | 普遍不变法则，知识具有累积性与终极证实性 | 知识具有推测性、[[Falsification\|可证伪性]]与可错性，经由猜测与反驳持续修正 | 地方性、语境化与多元阐释，关注经验复杂性而非普遍归约 | 相对主义与地方性视角，拒斥任何普遍真理宣称与宏大叙事 |
 > | **事实与价值关系** | 严格的事实与价值分离（[[Value Neutrality\|价值中立]]） | 事实与价值不可分离，研究由价值观与范式共同体驱动，需严格程序反思 | 价值是理解的内在构成部分，研究者主动公开自身前设与立场 | 价值与权力纠缠共生，不存在超然于权力话语之外的中立事实 |
@@ -198,12 +198,12 @@ updated: 2026-09-09
 > **观察渗透理论与事实价值不可分离** 经验观察绝非脱离主体意图的纯粹客观镜像；任何观察事实都不可避免地带有“理论负荷”（theory-laden）与“价值负荷”（VALUE-laden）。实证主义试图建立事实与价值绝对二分的教条在认识论上不可维持；研究者所属的[[Paradigm|范式]]承诺、先验理论与文化信念，从根本上决定了什么现象被纳入视野、何种证据被视作有效以及研究结论被如何解释。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, p. 732)]]
 
 > [!claim] [[David Phillips|Phillips, D.]] C. & Burbules, N. C.
-> **后实证经验研究的概率决定论与推测性检验** 后实证主义虽保留[[Quantitative Research|量化研究]]对[[Causality|因果关系]]的探索，但彻底告别了机械决定论与绝对真理诉求；在教育与社会探究中，原因仅仅在一定概率上决定结果。研究者从理论假设出发收集经验数据，研究结果只能提供支持或削弱假设的暂时性证据，永远无法提供一劳永逸的最终证明；因此，量化研究的核心姿态应当是严格审视方法论偏误并不断完善理论。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, p. 7)]]
+> **后实证经验研究的概率[[Determinism|决定论]]与推测性检验** 后实证主义虽保留[[Quantitative Research|量化研究]]对[[Causality|因果关系]]的探索，但彻底告别了机械决定论与绝对真理诉求；在教育与社会探究中，原因仅仅在一定概率上决定结果。研究者从理论假设出发收集经验数据，研究结果只能提供支持或削弱假设的暂时性证据，永远无法提供一劳永逸的最终证明；因此，量化研究的核心姿态应当是严格审视方法论偏误并不断完善理论。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, p. 7)]]
 
 ### 命题二　后实证认识论破除狭隘实证科学垄断并将广义科学范畴向人文探究开放
 
 > [!concept-lens] 科学概念溯源与跨文化认识论体系重建
-> 该维度关注卡扎米亚斯与当代科学哲学家如何打破战后英美经验主义对“科学”话语的技术性垄断，恢复欧陆博大人文科学传统的合法地位。
+> 该维度关注卡扎米亚斯与当代科学哲学家如何打破战后英美[[Empiricism|经验主义]]对“科学”话语的技术性垄断，恢复欧陆博大人文科学传统的合法地位。
 
 > [!claim] [[Andreas Kazamias|Kazamias, A.]] M.
 > **德语 Wissenschaft 与希腊语 Episteme 破除英语 Science 的实证霸权** 20 世纪 60 年代实证学派对历史与哲学比较传统的贬斥，根源于其将“科学”（Science）狭隘垄断为自然科学与数理统计实证主义的语义霸权。在欧洲大陆思想史中，德语词 *Wissenschaft* 与古希腊词 *Episteme* 始终指代统辖自然、社会、文化与人文学科的系统化、规范化理性知识体系。一旦突破英语 *Science* 的技术狭义化，关注制度历史演化根由与文化意涵的历史比较探究，完全符合规范科学的严密标准。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 56)]]
@@ -274,7 +274,7 @@ updated: 2026-09-09
 > > 争论焦点在于：放弃实证主义绝对确定性后，是否必须滑向“怎么都行”（Anything goes）的认识论相对主义？
 > > 
 > > - **后实证主义阵营（Popper, 1968; Phillips & Burbules, 2000）** 坚持客观实在独立存在，主张通过经验反驳、方法反思与跨情境有限检验逐步逼近真实，坚决抵制虚无主义。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, p. 732)]]
-> > - **激进后现代与后结构学派（Jameson, 1991; Derrida）** 认为后实证主义仍未彻底摆脱对宏大叙事与真理幽灵的依恋，任何自称“逼近真理”的努力本质上仍是在维系特定话语霸权。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, pp. 752–759)]]
+> > - **激进后现代与后结构学派（Jameson, 1991; Derrida）** 认为后实证主义仍未彻底摆脱对[[Grand Theory|宏大叙事]]与真理幽灵的依恋，任何自称“逼近真理”的努力本质上仍是在维系特定话语霸权。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, pp. 752–759)]]
 > 
 > > [!axis] 还原论离散[[Variable|变量]]检验 vs [[Complexity Theory|复杂适应系统]]整体[[Emergence|涌现]]
 > > 争论焦点在于：面对多变互联的教育世界，研究应聚焦于可操作变量的因果离析，还是系统整体关系的动态把握？
@@ -298,7 +298,7 @@ updated: 2026-09-09
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 系统复原从经典实证主义危机走向后实证主义、[[Postmodernism|后现代主义]]与[[Complexity Theory|复杂性理论]]的完整[[Paradigm|范式]]谱系，深刻剖析后实证主义关于知识推测性、理论与价值负荷、多元实在论以及与诠释/质性取向亲和性的认识论内涵（Ch. 1）。
 > - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009)]] — 系统剖析 1960 年代实证主义对比较教育历史学派的学科围剿，通过认识论溯源恢复德语 *Wissenschaft* 与希腊语 *Episteme* 广义科学传统，并援引[[Crane Brinton|布林顿]]比较史学确立非普适探索性假说理论，为[[Historical-Comparative Method|历史比较法]]确立现代科学合法性，构筑以人（*anthropos*）与全人[[Bildung|教化]]（*[[Paideia]]*）为中心的人文防线。
-> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 在全书核心框架中将后实证主义确立为[[Quantitative Research|量化研究]]与部分[[Mixed Methods Research|混合方法研究]]的主导世界观，系统阐述其决定论与还原论取向、推测性知识检验以及对严密测量[[Reliability|信度]]效度和系统误差审查的方法论规范。
+> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 在全书核心框架中将后实证主义确立为[[Quantitative Research|量化研究]]与部分[[Mixed Methods Research|混合方法研究]]的主导世界观，系统阐述其[[Determinism|决定论]]与还原论取向、推测性知识检验以及对严密测量[[Reliability|信度]]效度和系统误差审查的方法论规范。
 
 ---
 
@@ -310,7 +310,7 @@ updated: 2026-09-09
 > 
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Positivism]] | 概念 | 后实证主义批判与超越的基准靶子，后实证主义对其机械决定论与绝对客观性进行了根本改造。 |
+> | [[Positivism]] | 概念 | 后实证主义批判与超越的基准靶子，后实证主义对其机械[[Determinism\|决定论]]与绝对客观性进行了根本改造。 |
 > | [[Falsification]] | 概念 | 波普尔赋予后实证主义的核心划界原则，确立以猜测与经验反驳替代归纳证实的科学演进逻辑。 |
 > | [[Scientific Method]] | 概念 | 后实证主义对其进行了[[Reflexivity\|反思性]]重构，将呆板的线性实验室规程拓展为包含多重理据的系统反思探究。 |
 > | [[Scientific Uncertainty]] | 概念 | 后实证主义承认并积极处理的核心对象，将推测性与可错性置于科学知识的内在本质之中。 |

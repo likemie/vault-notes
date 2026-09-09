@@ -74,7 +74,7 @@ updated: 2026-08-16
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1979 — 方法论维度区分** Burrell & Morgan 将通则式与[[Idiographic|个例式]]列为社会研究方法论的两极之一，作为其四组[[Hypothesis|假设]]推导链的方法论终点：实在论[[Ontology|本体论]]、[[Positivism|实证主义]][[Epistemology|认识论]]、决定论人性假设通向通则式方法论。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1)]]
+> - **1979 — 方法论维度区分** Burrell & Morgan 将通则式与[[Idiographic|个例式]]列为社会研究方法论的两极之一，作为其四组[[Hypothesis|假设]]推导链的方法论终点：实在论[[Ontology|本体论]]、[[Positivism|实证主义]][[Epistemology|认识论]]、[[Determinism|决定论]]人性假设通向通则式方法论。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1)]]
 > - **1994 — 质性数据分析中的应用** Miles & Huberman（1994）以通则式数据分析为代表，处理模式、主题、趋势等跨案例的规律性。
 
 ## 相关研究

@@ -143,8 +143,8 @@ updated: 2026-09-08
 科学方法在现代性演进中逐步形成了横跨形而上[[Hypothesis|假设]]、经验操作程序以及社会论证机制的多层结构。
 
 > [!feature] 核心要素
-> - **决定论与经验性假设（Determinism & Empiricism）** 预设世界运转具有客观规律且由先行情境决定，一切有效知识的最终合法性均依赖于可检验的感官经验证据。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, p. 112)]]
-> - **简约法则与普遍性概括（Parsimony & Generality）** 追求以最经济的概念与因果链条解释最为广泛的现象（奥卡姆剃刀），致力于将个别观察提升为具有预测力的普遍理论。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, p. 113)]]
+> - **[[Determinism|决定论]]与经验性假设（Determinism & [[Empiricism]]）** 预设世界运转具有客观规律且由先行情境决定，一切有效知识的最终合法性均依赖于可检验的感官经验证据。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, p. 112)]]
+> - **简约法则与普遍性概括（Parsimony & Generality）** 追求以最经济的概念与因果链条解释最为广泛的现象（[[Principle of Parsimony|奥卡姆剃刀]]），致力于将个别观察提升为具有预测力的普遍理论。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, p. 113)]]
 > - **假说演义与[[Falsification|可证伪性]]检验（Hypothesis-Deduction & Falsifiability）** 科学家借助思辨想象提出推测性假设，并设定严格的反驳与检验条件，在受控观察中暴露于潜在证伪风险之中（Popper, 1968）。
 > - **方法多元主义与情境建模（Methodological Pluralism & Modeling）** 摒弃单一实验霸权，视具体学科对象灵活运用生态建模、天文观察、受控干预或历史推演。[[Argument_Sandoval_2005_SE|(Sandoval, 2005, p. 638)]]
 > - **社会性论证与共同体说服（Social Argumentation & Persuasion）** 科学事实并非客体世界的单向镜像投射，而是研究者在共同体内通过数据表征、修辞辩论与同行评议达成的暂定性共识。[[Argument_Sandoval_2005_SE|(Sandoval, 2005, p. 639)]]
@@ -188,7 +188,7 @@ Hitchcock & Hughes (1995) 提出的八阶段模型展现了传统科学方法的
 > [!claim] Comte, A.
 > **社会物理学与实证法则概括** 人类心灵必然从神学思辨走向经验实证阶段，社会现象与自然物理现象服从完全同质的不可逆客观因果法则；探究者应当放弃寻求宇宙起源或第一因的形而上学狂妄，通过系统性的受控观察、实验与比较概括建立不变的实证定律，从而实现“从观察中预见，从预见中控制”的社会治理目标。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1, p. 175)]]
 
-> [!claim] [[Anthony Giddens|Giddens]], A.
+> [!claim] [[Anthony Giddens|Giddens, A.]]
 > **方法论统一与产出同构双重[[Hypothesis|假设]]** 经典实证主义对科学方法的坚定信念根植于两大核心预设之上：其一是“方法论统一”（unity of method），即自然科学的方法程序完全可以直接且平整地应用于社会科学探究；其二是“产出同构”（isomorphism of outcome），即社会科学探究的最终成果必须如同自然科学一样表述为普遍法则或类法则概括（laws or law-like generalizations）。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, p. 179)]]
 
 > [!claim] Kaloyannaki, P. & [[Andreas Kazamias|Kazamias, A.]] M.

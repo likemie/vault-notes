@@ -148,7 +148,7 @@ updated: 2026-09-04
 > **暂定性与证据合成的共识基石** 科学发现从本质上讲都是暂定性的（Provisional）；单一单次实验成果绝不等于盖棺定论的科学真理，必须通过多团队独立重复实验（Replication）以及严密的方法学证据合成（Evidence Syntheses）才能逐步构建稳固的科学共识；公开承认不确定性正是驱动科学界保持[[Humility in Learning|谦逊]]、不断向未知探索的根本引擎。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, p. 62)]]
 
 > [!claim] [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03|Cohen et al. (2011)]]
-> **[[Postpositivism|后实证主义]]对绝对确定性的解构** 20 世纪下半叶科学哲学彻底破除了[[Positivism|实证主义]]的机械决定论假说，认识到所有实证观察都浸润着理论预设（Theory-laden），人类对自然与社会法则的把握只能达到概率性的逼近；[[Scientific Method|科学方法]]的优越性恰恰在于能够严密量化与透明陈述这种不确定性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03|(Cohen et al., 2011, pp. 47–50)]]
+> **[[Postpositivism|后实证主义]]对绝对确定性的解构** 20 世纪下半叶科学哲学彻底破除了[[Positivism|实证主义]]的机械[[Determinism|决定论]]假说，认识到所有实证观察都浸润着理论预设（Theory-laden），人类对自然与社会法则的把握只能达到概率性的逼近；[[Scientific Method|科学方法]]的优越性恰恰在于能够严密量化与透明陈述这种不确定性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03|(Cohen et al., 2011, pp. 47–50)]]
 
 ---
 
@@ -192,7 +192,7 @@ updated: 2026-09-04
 ## 概念演变
 
 > [!dev-timeline] 科学不确定性[[Epistemology|认识论]]与方法论百年演变
-> - **17–19 世纪 — 机械决定论与绝对确定性崇拜** 从牛顿力学到拉普拉斯决定论，经典科学界普遍信奉自然界遵循完全确定的因果法则，测量误差被视为工具粗糙带来的暂存杂质，坚信科学终将提供确定无疑的真理全貌。
+> - **17–19 世纪 — 机械[[Determinism|决定论]]与绝对确定性崇拜** 从牛顿力学到拉普拉斯决定论，经典科学界普遍信奉自然界遵循完全确定的因果法则，测量误差被视为工具粗糙带来的暂存杂质，坚信科学终将提供确定无疑的真理全貌。
 > - **20 世纪初–中叶 — 概率推论与统计不确定性奠基** 量子力学确立海森堡不确定性原理；现代数理统计学（Fisher, Neyman, Pearson）建立[[Hypothesis|假设]]检验、$p$ 值与[[Confidence Interval|置信区间]]体系，将“不确定性”从主观盲区正式升格为可精密数学化表达的经验概率度量。
 > - **20 世纪下半叶 — [[Falsification|证伪主义]]与[[Post-Normal Science|后常规科学]]（POST-Normal Science）兴起** 波普尔证伪理论与库恩[[Paradigm|范式]]理论彻底瓦解了[[Positivism|实证主义]]的绝对神话；面对核能、环境公害等高风险议题，Funtowicz 与 Ravetz 提出“后常规科学”，指出在事实不确定、价值有争议、赌注高昂且决策紧迫的情境下，科学界必须与公众共同参与不确定性的民主协商。
 > - **2020 年代至今 — 数字化信息疫情、透明沟通与信任治理合流** 面对气候变化争论、新冠大流行与生成式 AI 冲击，英国皇家学会等国家科学机构正式确立“透明不确定性沟通”为国家战略规范，彻底告别单向绝对断言的[[Deficit Model of Science Communication|赤字模型]]，以开放局限重筑社会信任。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, pp. 61–64)]]

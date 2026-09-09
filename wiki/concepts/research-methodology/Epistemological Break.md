@@ -106,5 +106,5 @@ updated: 2026-05-18
 > [!warning] 争议与批评
 > - **是否可能完全断裂** Bourdieu 自己也承认研究者永远无法完全逃脱社会世界——"the inexhaustible intellectual project of getting beyond the everyday is never finally won"([[Argument_Eacott_2015_EPT|Eacott, 2015, p.322]])。批评者质疑这是否意味着"断裂"是一个永远达不到的理想状态。
 > - **与"实践相关性"的张力** 教育行政作为"应用领域"，其体制合法性部分来自与实践的紧密关联。彻底的断裂是否会使研究对实践者不可理解或无关？([[Argument_Eacott_2015_EPT|Eacott, 2015, p.319-320,讨论 Bachelard & Bourdieu 拒绝简化复杂内容]])
-> - **Evers & Lakomski 立场** Evers & Lakomski（1991, 1996, 2000, 2012）认为问题不在科学，而在科学的模型——逻辑经验主义的狭隘[[Operationalization|操作化]]。若采用更丰富的科学模型（如自然主义的科学观），是否需要"断裂"本身也有待商榷([[Argument_Eacott_2015_EPT|Eacott, 2015, p.316]])。
+> - **Evers & Lakomski 立场** Evers & Lakomski（1991, 1996, 2000, 2012）认为问题不在科学，而在科学的模型——逻辑[[Empiricism|经验主义]]的狭隘[[Operationalization|操作化]]。若采用更丰富的科学模型（如自然主义的科学观），是否需要"断裂"本身也有待商榷([[Argument_Eacott_2015_EPT|Eacott, 2015, p.316]])。
 

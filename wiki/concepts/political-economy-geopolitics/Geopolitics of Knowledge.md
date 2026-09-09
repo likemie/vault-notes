@@ -131,7 +131,7 @@ updated: 2026-08-20
 > |------|---------------------|----------------------------------------|-----------|
 > | **分析对象** | 知识、创新、高等教育 | 领土、军事力量、自然资源 | 贸易、投资、市场结构 |
 > | **空间概念** | [[Relational Space\|关系性空间]]，通过社会关系网络构成 | 领土性，民族国家固定边界 | 市场空间，效率与比较优势驱动 |
-> | **核心机制** | [[Knowledge-Based Economization\|知识经济化]]、政治想象、认识论治理 | 权力平衡、地理决定论、势力范围 | 相对收益、贸易壁垒、产业政策 |
+> | **核心机制** | [[Knowledge-Based Economization\|知识经济化]]、政治想象、认识论治理 | 权力平衡、地理[[Determinism\|决定论]]、势力范围 | 相对收益、贸易壁垒、产业政策 |
 > | **代表学者** | Moisio, Thompson, Parreira do Amaral, Partaken | Mackinder, Ratzel, Kjellén | Luttwak, Blackwill & Harris |
 
 [[Argument_Partaken_2022_Springer|Partaken (2022)]] 从另一角度切入，将 GPK 的概念分析区分为"两面"（two faces）：[[Knowledge Production|知识生产]]（knowledge production）与[[Knowledge Transfer|知识转移]]（knowledge transfer / [[Knowledge Exchange]]）。他批评后殖民 GPK 传统过度关注知识生产——即谁生产知识、以何种视角、为谁的利益——而忽视了知识一旦被生产后进入的动态过程：知识在运动中的挪用、传授、窃取、审查、监视和破坏。Partaken 主张 GPK 的真正核心是知识转移而非知识生产（[[Argument_Partaken_2022_Springer|Partaken, 2022, pp.74–75, 84]]）。

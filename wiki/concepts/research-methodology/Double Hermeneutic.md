@@ -39,7 +39,7 @@ updated: 2026-08-15
 ## 定义
 
 > [!def] 核心定义
-> 双重诠释（Double Hermeneutic）是[[Anthony Giddens|吉登斯]]（[[Anthony Giddens|Giddens]], 1976）提出的社会科学[[Epistemology|认识论]]概念：由于[[Qualitative Research|质性研究]]所获得的数据都包裹在社会事件之中，研究者对这些数据的报告与诠释构成一个双重诠释过程，即研究者诠释的正是参与者已经诠释过的世界，再以自己的语言把这种诠释转述给受众。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.2)]]
+> 双重诠释（Double Hermeneutic）是[[Anthony Giddens|吉登斯]]（Giddens, 1976）提出的社会科学[[Epistemology|认识论]]概念：由于[[Qualitative Research|质性研究]]所获得的数据都包裹在社会事件之中，研究者对这些数据的报告与诠释构成一个双重诠释过程，即研究者诠释的正是参与者已经诠释过的世界，再以自己的语言把这种诠释转述给受众。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.2)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 社会科学的诠释对象不是原始事实，而是参与者已经赋予意义的生活世界；研究者的诠释因此叠加在参与者的诠释之上。

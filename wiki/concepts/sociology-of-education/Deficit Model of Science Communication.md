@@ -52,7 +52,7 @@ updated: 2026-08-22
 
 > [!feature] 核心要素
 > - **单向线性传递（One-way Transmission）** 专家作为知识拥有者向下传递，受众作为被动容器接受。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, p. 10)]]
-> - **知识决定论[[Hypothesis|假设]]（Knowledge-determines-attitude Assumption）** 假定“知晓更多便会认同更多”，忽视公众的价值取向与伦理诉求。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, p. 10)]]
+> - **知识[[Determinism|决定论]][[Hypothesis|假设]]（Knowledge-determines-attitude Assumption）** 假定“知晓更多便会认同更多”，忽视公众的价值取向与伦理诉求。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, p. 10)]]
 
 ---
 

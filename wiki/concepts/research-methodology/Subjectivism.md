@@ -111,9 +111,9 @@ updated: 2026-09-08
 > [!contrast-table] 主观主义、实证[[Objectivism|客观主义]]与批判[[Rationalism in International Relations|理性主义]]辨析
 > | 比较维度 | 主观主义（Subjectivism） | 实证客观主义（Objectivism / [[Positivism]]） | 批判理性主义情境进路（[[Critical Dualism]]） |
 > |---|---|---|---|
-> | **[[Ontology\|本体论]]假定** | **唯名论（Nominalism）** 社会实在是人类发明的概念与意义网络 | **实在论（Realism）** 社会世界是独立于知者的硬性客观实在 | **二元分立** 人为规范法则与客观机构社会学法则并存 |
+> | **[[Ontology\|本体论]]假定** | **[[Nominalism\|唯名论]]（Nominalism）** 社会实在是人类发明的概念与意义网络 | **实在论（Realism）** 社会世界是独立于知者的硬性客观实在 | **二元分立** 人为规范法则与客观机构社会学法则并存 |
 > | **[[Epistemic Stances\|认识论立场]]** | **[[Interpretive Paradigm\|反实证主义]]（Anti-positivism）** 知识是独特的、情境化的人类体验 | **实证主义（Positivism）** 知识遵循自然科学法则，追求普遍真理 | **假说-演绎[[Falsification\|可证伪性]]** 承认主观信念为初始情境，探求权变规律 |
-> | **人性[[Hypothesis\|假设]]** | **意志论（Voluntarism）** 人具有自由意志与[[Creativity\|创造力]]，主动创造环境 | **决定论（Determinism）** 人的行为完全由外部环境与制度矩阵所塑造 | **能动与约束并存** 人在特定制度机构约束下进行自主理性抉择 |
+> | **人性[[Hypothesis\|假设]]** | **意志论（Voluntarism）** 人具有自由意志与[[Creativity\|创造力]]，主动创造环境 | **[[Determinism\|决定论]]（Determinism）** 人的行为完全由外部环境与制度矩阵所塑造 | **能动与约束并存** 人在特定制度机构约束下进行自主理性抉择 |
 > | **研究方法** | **[[Idiographic\|个例式]]（Idiographic）** 深入个案内部、语言分析与主体阐释 | **[[Nomothetic\|律则式]]（Nomothetic）** 变量控制、大样本量化与假设统计检验 | **[[Problem Approach\|问题法]]（Problem Approach）** 情境分析、演绎推导与概率性预测 |
 > | **法则定位** | 否定超越时空的普遍规律，聚焦个案独特性与意义理解 | 探寻普遍恒常的制度规律或[[Variable\|变量]]间的函数共变关系 | 拒绝绝对律则，主张具有情境权变性（Contingency）的社会学法则 |
 
@@ -122,9 +122,9 @@ updated: 2026-09-08
 ## 核心要素
 
 > [!feature] 伯勒尔与摩根主观主义四维[[Hypothesis|假设]]构架
-> - **唯名论[[Ontology|本体论]]（Nominalism）** 坚持思想的对象仅仅是词语与概念，不存在独立于知者并构成词语意义的可及事物；组织与社会制度并非自然实体，而是由人类行动者共同发明的社会实在。[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011, Ch. 1)]]
+> - **[[Nominalism|唯名论]][[Ontology|本体论]]（Nominalism）** 坚持思想的对象仅仅是词语与概念，不存在独立于知者并构成词语意义的可及事物；组织与社会制度并非自然实体，而是由人类行动者共同发明的社会实在。[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011, Ch. 1)]]
 > - **[[Interpretive Paradigm|反实证主义]][[Epistemology|认识论]]（Anti-[[Positivism]]）** 断言社会知识具有鲜明的个人性、主观性与独特性，坚决拒绝将自然科学的客观观察方法直接套用于人类事务，要求研究者同情性地投入研究对象的生活世界之中。
-> - **意志论人性假设（Voluntarism）** 坚信人是自身行动的发起者，拥有自由意志和[[Creativity|创造力]]，能够在与环境的互动中能动地创造和重构自身的生活情境。
+> - **意志论人性假设（[[Voluntarism]]）** 坚信人是自身行动的发起者，拥有自由意志和[[Creativity|创造力]]，能够在与环境的互动中能动地创造和重构自身的生活情境。
 > - **[[Idiographic|个例式]]方法论（Idiographic Approach）** 聚焦对独特个别案例的深入剖析与理解，通过语言、叙事与符号意义的系统分析呈现社会现实，以此作为跨情境理解的基础。
 
 > [!taxonomy] 格林菲尔德组织主观主义十维度矩阵
@@ -159,7 +159,7 @@ updated: 2026-09-08
 
 ### 命题一　社会与组织实在是个体主观赋予意义与文化诠释的产物而非独立于知者的客观实体
 
-> [!concept-lens] 唯名论本体与[[Interpretive Paradigm|反实证主义]]建构
+> [!concept-lens] [[Nominalism|唯名论]]本体与[[Interpretive Paradigm|反实证主义]]建构
 > 主观主义学者从根本上颠覆了[[Positivism|实证主义]]的实在论假定，主张社会制度、组织规则乃至学校架构并非天然存在的物质对象，而是行动者在日常交往中不断赋予意义、解释并维持的观念构建物。
 
 > [!claim] Burrell, G. & Morgan, G.
@@ -192,7 +192,7 @@ updated: 2026-09-08
 > **规范法则对行动者主观精神与文化理想的情境化包容** [[Brian Holmes|布赖恩·霍姆斯]]（Brian Holmes）对美国经验派将民族文化特质与行动者主观偏好彻底放逐的机械[[Objectivism|客观主义]]发起了深刻清算。基于[[Karl Popper|卡尔·波普尔]]（Karl Popper）的[[Critical Dualism|批判二元论]]，霍姆斯将人类主观信念、道德理想与价值诉求定义为“规范法则”（由人类设立且可被人自主废除的准则），断言若要理解学校运行，就必须系统考掘这些构成制度深层背景的主观文化规范，从而在假说-演绎[[Problem Approach|问题法]]中实现了客观机构规律与主观文化意向的辩证统一。[[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009, pp. 62–63, 66–67)]]
 
 > [!claim] [[Robert Cowen|Cowen, R.]]
-> **宏大叙事解构与主观阐释进路学术合法性的确立** [[Robert Cowen|罗伯特·考恩]]（Robert Cowen）与菲利普·阿尔特巴赫（Philip Altbach）指出，1970 年代中叶西方经济滞胀戳破了实证规划神话，加之现代量子物理学揭示了微观世界的混沌与不确定性，彻底瓦解了实证客观主义追求普适铁律的霸权根基。[[Postmodernism|后现代主义]]思潮将宏大理论贬斥为宏大叙事，促使社会科学重新接纳更具质性、参与性与主观主义色彩的研究范式，赋予其与实证研究同等的学术地位，使学科最终告别单一客观主义垄断，走向多元真理体制并存的[[Comparative Educations|复数比较教育学]]。[[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009, pp. 68–69)]]
+> **[[Grand Theory|宏大叙事]]解构与主观阐释进路学术合法性的确立** [[Robert Cowen|罗伯特·考恩]]（Robert Cowen）与菲利普·阿尔特巴赫（Philip Altbach）指出，1970 年代中叶西方经济滞胀戳破了实证规划神话，加之现代量子物理学揭示了微观世界的混沌与不确定性，彻底瓦解了实证客观主义追求普适铁律的霸权根基。[[Postmodernism|后现代主义]]思潮将宏大理论贬斥为宏大叙事，促使社会科学重新接纳更具质性、参与性与主观主义色彩的研究范式，赋予其与实证研究同等的学术地位，使学科最终告别单一客观主义垄断，走向多元真理体制并存的[[Comparative Educations|复数比较教育学]]。[[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009, pp. 68–69)]]
 
 ---
 
@@ -213,8 +213,8 @@ updated: 2026-09-08
 > - **19 世纪末–20 世纪初 — 古典人文历史主义奠基** [[Michael Sadler|迈克尔·萨德勒]]（Michael Sadler）与[[Isaac Kandel|艾萨克·坎德尔]]（Isaac Kandel）将比较教育学建立在对[[Intangible Spiritual Forces|无形精神力量]]、民族历史与文化理想的主观同情性理解之上。[[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009, pp. 59–60)]]
 > - **1950 年代末–1960 年代 — 战[[Postpositivism|后实证主义]]对主观主义的系统清算** 比较教育学掀起争夺科学地位的运动，坦普尔顿、安德森与诺亚等人强烈要求废除主观主义、印象主义与哲学思辨，代之以大[[Sample Size Determination|样本量]]化与[[Variable|变量]]函数共变。[[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009, pp. 61–62, 65–66)]]
 > - **1965–1970 年代初 — 霍姆斯[[Critical Dualism|批判二元论]]的情境折衷** 霍姆斯运用波普尔批判二元论，将人类主观意志与文化信仰界定为“规范法则”，在批判实证派放逐主观精神的同时，实现了主观规范模式与客观社会学法则的综合。[[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009, pp. 62–63, 67)]]
-> - **1975–1979 年 — 组织与社会学主观主义理论化** 格林菲尔德（1975）系统提出组织主观主义十维度理论，伯勒尔与摩根（1979）正式在四组[[Hypothesis|假设]]构架中确立主观主义[[Paradigm|范式]]（唯名论、[[Interpretive Paradigm|反实证主义]]、意志论与[[Idiographic|个例式]]）。[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011, Ch. 1)]]
-> - **1980 年代至今 — 后现代转向与主观主义范式合法化** 实证规划神话破产与量子力学不确定性转向促使后现代思潮崛起，宏大理论被解构，主观、质性与参与性方法获得等同的学术合法性，学科走向复数真理体制。[[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009, pp. 68–69)]]
+> - **1975–1979 年 — 组织与社会学主观主义理论化** 格林菲尔德（1975）系统提出组织主观主义十维度理论，伯勒尔与摩根（1979）正式在四组[[Hypothesis|假设]]构架中确立主观主义[[Paradigm|范式]]（[[Nominalism|唯名论]]、[[Interpretive Paradigm|反实证主义]]、意志论与[[Idiographic|个例式]]）。[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011, Ch. 1)]]
+> - **1980 年代至今 — 后现代转向与主观主义范式合法化** 实证规划神话破产与量子力学不确定性转向促使后现代思潮崛起，[[Grand Theory|宏大理论]]被解构，主观、质性与参与性方法获得等同的学术合法性，学科走向复数真理体制。[[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009, pp. 68–69)]]
 
 ---
 

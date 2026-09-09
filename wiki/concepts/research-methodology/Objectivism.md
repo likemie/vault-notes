@@ -44,7 +44,7 @@ updated: 2026-08-16
 > [!assumptions] 客观主义的四组假设
 > - **[[Ontology|本体论]]：实在论（realism）**社会实在是外在于个体的客观存在，强加于意识之上（imposing itself on their consciousness from without）。组织是真实的实体，有自身的生命（Organizations are real entities with a life of their own）
 > - **[[Epistemology|认识论]]：[[Positivism|实证主义]]（positivist）**知识是硬性的、客观的、可触知的（hard, objective and tangible）。要求研究者扮演观察者角色（an observer role），效忠自然[[Scientific Method|科学方法]]
-> - **人性：决定论（determinism）**人机械地、决定性地对环境做出反应（responding mechanically and deterministically to their environment），像提线木偶一样被环境控制（controlled like puppets）
+> - **人性：[[Determinism|决定论]]（determinism）**人机械地、决定性地对环境做出反应（responding mechanically and deterministically to their environment），像提线木偶一样被环境控制（controlled like puppets）
 > - **方法论：[[Nomothetic|通则式]]（nomothetic）**以发现普遍法则为目标。通过数学建模和量化分析来抽象现实（Abstraction of reality, especially through mathematical models and quantitative analysis）
 
 ## Table 1.1 十维度特征

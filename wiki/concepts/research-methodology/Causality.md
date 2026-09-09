@@ -121,7 +121,7 @@ updated: 2026-08-21
 ## 概念辨析
 
 > [!contrast-table] 因果关系四重刻画取向对比
-> | 比较维度 | 决定论因果 (Deterministic) | 概率因果 (Probabilistic) | [[Counterfactual\|反事实]]潜在结果模型 (Counterfactual) | 机制生成论因果 (Generative) |
+> | 比较维度 | [[Determinism\|决定论]]因果 (Deterministic) | 概率因果 (Probabilistic) | [[Counterfactual\|反事实]]潜在结果模型 (Counterfactual) | 机制生成论因果 (Generative) |
 > |:---|:---|:---|:---|:---|
 > | **核心本体主张** | 若 $X$ 发生，则 $Y$ 必然发生（$100\%$ 必然性） | $X$ 的出现系统性提高 $Y$ 发生的概率 | 因果效应为个体接受处理与未接受处理的潜在结果之差 | 因果是行动者在特定情境脉络下通过能动性转化的动态过程 |
 > | **代表传统与学者** | 经典物理学、休谟恒常联结 | Suppes (1970), Mellor (1995) | Neyman (1923), Rubin (1974), Holland (1986) | Salmon (1998), Pawson & Tilley (1997), Morrison (2009) |

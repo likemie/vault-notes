@@ -254,7 +254,7 @@ Creswell 提出了一套系统的[[Document|文献]]检索流程（[[Argument_Cr
 > | [教育研究](https://navi.cnki.net/knavi/journals/JYYJ/detail) | 中国教育科学研究院主办，全国教育科学综合性权威学术期刊 |
 > | [教育研究与实验](https://navi.cnki.net/knavi/journals/YJSY/detail) | 华中师范大学主办，侧重教育实验探索与实证研究方法 |
 > | [教育与经济](https://navi.cnki.net/knavi/journals/JYJI/detail) | 华中师范大学、中国教育经济学研究会主办，教育经济学专业期刊 |
-> | [开放教育研究](https://navi.cnki.net/knavi/journals/KFJY/detail) | 上海开放大学主办，开放远程学习与终身教育理论研究 |
+> | [开放教育研究](https://navi.cnki.net/knavi/journals/KFJY/detail) | 上海开放大学主办，开放远程学习与[[Lifelong Learning\|终身教育]]理论研究 |
 > | [课程·教材·教法](https://navi.cnki.net/knavi/journals/KJJF/detail) | 人民教育出版社主办，中小学课程改革与教材教法理论研究 |
 > | [清华大学教育研究](https://navi.cnki.net/knavi/journals/QHDJ/detail) | 清华大学主办，高等教育理论与工程教育学科前沿 |
 > | [全球教育展望](https://navi.cnki.net/knavi/journals/WGJN/detail) | 华东师范大学主办，比较课程论与国际教育发展前沿 |
@@ -262,10 +262,10 @@ Creswell 提出了一套系统的[[Document|文献]]检索流程（[[Argument_Cr
 > | [特殊教育研究学刊](https://specedu.ntnu.edu.tw/) | 国立台湾师范大学特殊教育学系主办，特殊教育核心学术期刊（TSSCI / CSSCI 来源） |
 > | [外国教育研究](https://navi.cnki.net/knavi/journals/WGJY/detail) | 东北师范大学主办，各国教育制度变革与国际比较研究 |
 > | [现代大学教育](https://navi.cnki.net/knavi/journals/YSJG/detail) | 中南大学、湖南省高等教育学会主办，高等教育理论与文化研究 |
-> | [现代教育技术](https://navi.cnki.net/knavi/journals/XJJS/detail) | 清华大学主办，教育信息化、智能教学系统与多媒体学习研究 |
+> | [现代教育技术](https://navi.cnki.net/knavi/journals/XJJS/detail) | 清华大学主办，教育[[Informationalization\|信息化]]、[[Intelligent Tutoring Systems\|智能教学系统]]与多媒体学习研究 |
 > | [现代远程教育研究](https://navi.cnki.net/knavi/journals/XDYC/detail) | 四川开放大学主办，终身教育体系与远程数字化学习 |
 > | [现代远距离教育](https://navi.cnki.net/knavi/journals/YUAN/detail) | 黑龙江开放大学主办，远程开放教育与终身学习理论 |
-> | [学前教育研究](https://navi.cnki.net/knavi/journals/XQJY/detail) | 中国学前教育研究会、长沙师范学院主办，幼儿教育学术期刊 |
+> | [学前教育研究](https://navi.cnki.net/knavi/journals/XQJY/detail) | 中国学前教育研究会、长沙[[Normal School\|师范学院]]主办，幼儿教育学术期刊 |
 > | [学位与研究生教育](https://navi.cnki.net/knavi/journals/XWYY/detail) | 国务院学位委员会主办，研究生教育管理与学科建设研究 |
 > | [研究生教育研究](https://navi.cnki.net/knavi/journals/JIAO/detail) | 中国学位与研究生教育学会、中国科学技术大学主办，拔尖创新人才培养研究 |
 > | [远程教育杂志](https://navi.cnki.net/knavi/journals/YCJY/detail) | 浙江开放大学主办，开放教育技术与数字化教学前沿 |

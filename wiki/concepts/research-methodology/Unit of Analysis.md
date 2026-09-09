@@ -128,7 +128,7 @@ updated: 2026-09-09
 > - **句法单位（Syntactical units）** 依据语言学语法自然停顿界定（如独立单词、词组、完整句子、自然段落）。
 > - **范畴单位（Categorical units）** 依据具有某种共同先验特征的成员资格界定（如所有指涉“[[Teacher Professional Agency|教师专业自主权]]”的文本）。
 > - **命题单位（Propositional units）** 按照特定的命题结构或完整的因果/判断性陈述界定（包含主谓宾的独立判断）。
-> - **主题单位（Thematic units）** 围绕特定核心概念或经验论述展开的连贯文本组合，通常跨越句法边界但保持意义完整。
+> - **主题单位（Thematic units）** 围绕特定核心概念或[[Empiricism|经验论]]述展开的连贯文本组合，通常跨越句法边界但保持意义完整。
 
 > [!info] 意义单位与单位化（Unitizing）
 > 林肯（[[Yvonna S. Lincoln]]）与古巴（[[Egon G. Guba]]）指出，质性分析的首要任务是实施单位化（unitizing）过程：研究者将原始转录文本切分成各自具备独立完整意涵的“意义单位（meaning unit）”，要求每个单位在脱离上下文时仍可被独立理解，作为后续范畴归纳的基本构件（Lincoln & Guba, 1985；[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 565]]）。
@@ -179,11 +179,11 @@ updated: 2026-09-09
 
 ### 命题四　复杂性理论重构分析单位为围绕奇异吸引子的生态共生网络
 
-> [!concept-lens] 复杂适应系统对原子化分析单位的本体超越
+> [!concept-lens] [[Complexity Theory|复杂适应系统]]对原子化分析单位的本体超越
 > 本命题探讨复杂性理论如何打破个体与系统的机械割裂，将分析单位重塑为非线性交互的动态生态网络。
 
 > [!claim] Morrison, Capra & Lemke
-> **生态网络与奇异吸引子驱动的分析单位重构** 复杂性理论指出，将现象原子化为受限数量的孤立变量必然会错失各组分之间的动态交互。教育研究的常规分析单位必须摆脱个体、机构、社区与系统之间的机械区隔；这些传统边界应当相互融合，使分析单位转变为一个围绕特定中心议题或‘奇异吸引子’（strange attractor）展开并由其涌现出的动态生态网络（ecosystem or web）。个体、家庭、班级、学校与社会处于内在必然的共生演化之中，这为贯通宏观政策与微观教学变革提供了核心纽带。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 31)]]
+> **生态网络与奇异吸引子驱动的分析单位重构** 复杂性理论指出，将现象原子化为受限数量的孤立[[Variable|变量]]必然会错失各组分之间的动态交互。教育研究的常规分析单位必须摆脱个体、机构、社区与系统之间的机械区隔；这些传统边界应当相互融合，使分析单位转变为一个围绕特定中心议题或‘奇异吸引子’（strange attractor）展开并由其[[Emergence|涌现]]出的动态生态网络（ecosystem or web）。个体、家庭、班级、学校与社会处于内在必然的共生演化之中，这为贯通宏观政策与微观教学变革提供了核心纽带。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 31)]]
 
 > [!citation-card] 复杂系统视域下的分析单位生态重构
 > 复杂性理论主张必须从整体论视角审视现象；若将现象原子化为有限数量的变量并仅聚焦于某些孤立因素，就会错失多个部分之间必然的动态交互。更为根本的是，复杂性理论指出教育研究中的常规分析单位应当打破个体、机构、社区与系统之间的机械区隔。这些单元应当相互融合，从而使分析单位转变为一个聚焦于特定主题或兴趣中心（即‘奇异吸引子’）并从中涌现出来的网络或生态系统。个体、家庭、学生、班级、学校、社区与社会处于共生共变之中；复杂性理论揭示它们之间的关系是内在必然的而非偶然的。这构成了连接宏观与微观研究、理解与促进教育变革的核心枢纽。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 31)]]
@@ -211,7 +211,7 @@ updated: 2026-09-09
 > - **1980s — 传播[[Content Analysis|内容分析]]三级体系** 克里彭多夫（Krippendorff, 1980, 2004）系统提出抽样单位、记录单位与语境单位的三层划分，奠定内容分析单位化标准。
 > - **1985 — 质性自然主义单位化规程** 林肯与古巴（Lincoln & Guba, 1985）将单位化（Unitizing）引入[[Interpretive Paradigm|自然主义探究]]，确立具有独立语义完整性的“意义单位（Meaning units）”。
 > - **1990s — 聚合[[Reliability|信度]]律与多层比较模型** 罗伯特·韦伯（Weber, 1990）总结聚合尺度与信度的反比关系；布雷与托马斯（Bray & Thomas, 1995）构建比较教育多维分析单位立方体框架。
-> - **2000s–2010s — 复杂性理论的生态网络转向** 莫里森（Morrison, 2008）与卡普拉（Capra, 1996）推动分析单位从离散原子实体转向围绕奇异吸引子生成的共生生态系统，实现宏微观研究的方法论贯通。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 31)]]
+> - **2000s–2010s — [[Complexity Theory|复杂性理论]]的生态网络转向** [[Keith Morrison|莫里森]]（Morrison, 2008）与卡普拉（Capra, 1996）推动分析单位从离散原子实体转向围绕奇异吸引子生成的共生生态系统，实现宏微观研究的方法论贯通。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 31)]]
 > - **2020s — 计算文本分块与语境窗口重构** 随着自然语言处理与大语言模型（LLM）的兴起，文本分块（Chunking）、词元（Token）与上下文窗口（Context Window）重塑了分析单位的技术形态，人在回路（HITL）审校成为维护宏观语境与微观分块平衡的核心机制。
 
 ---
@@ -233,10 +233,10 @@ updated: 2026-09-09
 > > - **自然主义取向（Lincoln & Guba, 1985）** 认为意义单位无法先验固化，必须随着研究者对生活世界的浸润（[[Presence|immersion]]）动态重组与调整边界。
 >
 > > [!axis] 离散实体原子化 vs 生态系统共生网络
-> > 争论研究分析单位应聚焦于清晰界定的独立变量承载实体，还是聚焦于多层嵌套、动态共生的复杂关系网络。
+> > 争论研究分析单位应聚焦于清晰界定的独立[[Variable|变量]]承载实体，还是聚焦于多层嵌套、动态共生的复杂关系网络。
 > >
 > > - **传统经验实证取向** 坚持将分析单位限定为个体学生、教师或学校，强调变量边界清晰与测量独立性。
-> > - **复杂性理论取向（Morrison, 2008; Capra, 1996）** 认为孤立原子化切片割裂了内在必然共生联系，主张将整个互动网络与生态场域作为统一分析单位。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 31)]]
+> > - **[[Complexity Theory|复杂性理论]]取向（Morrison, 2008; Capra, 1996）** 认为孤立原子化切片割裂了内在必然共生联系，主张将整个互动网络与生态[[Champ|场域]]作为统一分析单位。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 31)]]
 
 > [!warning] 分析单位确定中的四大典型方法论陷阱
 > - **聚合层级错位（Level Mismatch）** 在理论[[Hypothesis|假设]]中关注个体教师心态，但在数据分析中直接以学校或教研组为单位实施合并，导致分析层级与[[Research Question|研究问题]]脱节。
@@ -275,7 +275,7 @@ updated: 2026-09-09
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, p. 31)]] — 提出复杂性理论重构分析单位的理论命题，论述从个体/机构原子切片走向围绕奇异吸引子的生态共生网络。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, p. 31)]] — 提出[[Complexity Theory|复杂性理论]]重构分析单位的理论命题，论述从个体/机构原子切片走向围绕奇异吸引子的生态共生网络。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen, Manion & Morrison (2011)]] — 系统阐释[[Content Analysis|内容分析]]中三级分析单位的划分原则、五类抽样与记录单位形态，以及聚合尺度与[[Reliability|信度]]的反比权衡规律（Ch. 30）。
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 规范[[Qualitative Research|质性研究]]与[[Mixed Methods Research|混合方法]]设计中分析单位的选择，强调避免在不同分析阶段混淆个体与群体聚合单位（Ch. 9, 10）。
 
