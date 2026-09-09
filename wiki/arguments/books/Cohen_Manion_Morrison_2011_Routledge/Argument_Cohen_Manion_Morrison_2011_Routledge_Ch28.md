@@ -106,11 +106,11 @@ updated: '2026-09-08'
 
 > [!question] 核心问题
 >
-> - **什么是质性数据分析？** 组织、说明与解释数据，以参与者的情境定义理解数据，识别其中的模式、主题、类别与规律
+> - **什么是质性数据分析？** 组织、说明与解释数据，以参与者的[[Thomas Theorem|情境定义]]理解数据，识别其中的模式、主题、类别与规律
 > - **为何没有单一正确方法？** 分析遵循[[Fitness for Purpose|目的适配性]]，目的决定分析种类；分析融合诠释，且常与数据收集迭代融合
 > - **需要注意什么？** 数据丰富带来选择与偏误风险；[[Double Hermeneutic|双重诠释]]（double hermeneutic）使事实与诠释不可分；需以厚描述、反身性与多来源数据保障效度
 > - **如何分析？** 尽早开始分析、渐进聚焦、生成厚描述；可借助 CAQDAS 编码、检索与理论建构，但软件不替代分析
-> - **证据是什么？** 内容为方法综述，引用 [[Clifford Geertz|Geertz]]、[[Anthony Giddens|Giddens]]、Miles & Huberman、LeCompte & Preissle、Kelle、Gibbs、Flick 等
+> - **证据是什么？** 内容为方法综述，引用 [[Clifford Geertz|Geertz]]、Giddens、Miles & Huberman、LeCompte & Preissle、Kelle、Gibbs、Flick 等
 
 > [!logic-map] 论证链
 > ```mermaid
@@ -246,7 +246,7 @@ updated: '2026-09-08'
 > - **链节一：质性数据天然带诠释**
 >   质性数据来自访谈、观察等研究工具，数据如此丰富，分析必然涉及大量选择与排序，因此不可避免地带入研究者的判断。
 > - **链节二：数据包裹在社会事件之中**
->   由于所获数据都包裹在社会事件之中，报告涉及双重诠释过程（安东尼·吉登斯（Anthony Giddens）, 1976）。研究者诠释参与者已经诠释过的世界，再以自己的语言转述给受众。
+>   由于所获数据都包裹在社会事件之中，报告涉及双重诠释过程（[[Anthony Giddens|安东尼·吉登斯]]（Anthony Giddens）, 1976）。研究者诠释参与者已经诠释过的世界，再以自己的语言转述给受众。
 > - **链节三：事实与诠释不可分离**
 >   事实与诠释不可分离，纳入哪些事件与数据部分处于研究者控制之下。参与者（包括研究者）依诠释而行动，诠释本身可能成为情境中的事实，一个诠释可以构成事实或数据（[[Clifford Geertz|Geertz]], 1973, p. 14）。
 > - **链节四：主观选择带来效度风险**
@@ -376,7 +376,7 @@ updated: '2026-09-08'
 >
 > *Doing ethnography is like trying to read (in the sense of "[[Construct]] a reading of") a manuscript – foreign, faded, full of ellipses, incoherencies, suspicious emendations, and tendentious commentaries, but written not in conventionalized graphs of sound but in transient examples of shaped behavior. (Geertz, 1973, p. 10)*
 
-> [!citation-card]- [[Anthony Giddens|Giddens]] 论[[Double Hermeneutic|双重诠释]]
+> [!citation-card]- Giddens 论[[Double Hermeneutic|双重诠释]]
 > 由于获得的数据都包裹在社会事件之中，报告涉及一个双重诠释过程。研究者诠释参与者已经诠释过的世界，再以自己的语言把这种诠释转述给受众。（28.2）
 >
 > *Since the data obtained are all couched in "social events", reporting involves a double hermeneutic process (Giddens, 1976) by which the researcher interprets the data from participants who have already interpreted their world, and then relates them to the audience in his/her own words.*

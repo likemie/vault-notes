@@ -33,7 +33,7 @@ updated: 2026-09-09
 ## 定义
 
 > [!def] 核心定义
-> **简约原则（Principle of Parsimony）**，亦称**奥卡姆剃刀（Occam's razor）**或**简便律**，是科学家群体日常工作所恪守的四大根本假设之一（Cohen et al., 2011, Ch. 1, p. 15）。该原则主张现象应当以尽可能经济、精炼的方式进行解释，其古典哲学表述源于 14 世纪哲学家奥卡姆的威廉（William of Occam）的名言“如无必要，勿增实体”（*entia non sunt multiplicanda praeter necessitatem*）；现代科学准则将其提炼为阿尔伯特·爱因斯坦的名言“事情应当尽可能做得简单，但绝不能过度简化”（*make matters as simple as possible, but no simpler*）。在研究设计与理论构建中，简约原则要求：当两个相互竞争的理论或假说拥有同等解释力时，研究者应当优先选择概念较少、假设较精简的方案。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 16)]]
+> **简约原则（Principle of Parsimony）**，亦称**奥卡姆剃刀（Occam's razor）**或**简便律**，是科学家群体日常工作所恪守的四大根本假设之一（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1, p. 15）。该原则主张现象应当以尽可能经济、精炼的方式进行解释，其古典哲学表述源于 14 世纪哲学家奥卡姆的威廉（William of Occam）的名言“如无必要，勿增实体”（*entia non sunt multiplicanda praeter necessitatem*）；现代科学准则将其提炼为阿尔伯特·爱因斯坦的名言“事情应当尽可能做得简单，但绝不能过度简化”（*make matters as simple as possible, but no simpler*）。在研究设计与理论构建中，简约原则要求：当两个相互竞争的理论或假说拥有同等解释力时，研究者应当优先选择概念较少、假设较精简的方案。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 16)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 作为认识论与启发式规则，指导理论假说、测量指标与统计模型的经济性选择，防范无意义的概念通胀。

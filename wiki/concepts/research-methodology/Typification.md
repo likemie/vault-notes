@@ -34,7 +34,7 @@ updated: 2026-09-09
 ## 定义
 
 > [!def] 核心定义
-> **类型化（Typification）**，是由现象学社会学家阿尔弗雷德·舒茨（[[Alfred Schutz]]）系统奠立的核心认知与社会互动机制（Cohen et al., 2011, Ch. 1, p. 19）。舒茨指出，人类理解他人行为并不是直接透视他人不可直接通达的意识流，而是依赖于一套类似于马克斯·韦伯“理想类型（ideal types）”的常识性概念图式。这些概念图式源自行动者的日常生活经验、传记情境（biographical locations）以及代代传承的社会手头知识库（stock of knowledge at hand）。行动者正是通过类型化来对纷繁复杂的日常生活世界进行分类、赋义与秩序化重组，从而能够在不同的“多重实在（multiple realities）”之间自如穿梭并遵循各领域的互动游戏规则。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 19)]]
+> **类型化（Typification）**，是由现象学社会学家阿尔弗雷德·舒茨（[[Alfred Schutz]]）系统奠立的核心认知与社会互动机制（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1, p. 19）。舒茨指出，人类理解他人行为并不是直接透视他人不可直接通达的意识流，而是依赖于一套类似于马克斯·韦伯“理想类型（ideal types）”的常识性概念图式。这些概念图式源自行动者的日常生活经验、传记情境（biographical locations）以及代代传承的社会手头知识库（stock of knowledge at hand）。行动者正是通过类型化来对纷繁复杂的日常生活世界进行分类、赋义与秩序化重组，从而能够在不同的“多重实在（multiple realities）”之间自如穿梭并遵循各领域的互动游戏规则。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 19)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向行动者在社会交往中将独特的个别经验归入匿名化、一般化的常识范畴的心智与符号过程。

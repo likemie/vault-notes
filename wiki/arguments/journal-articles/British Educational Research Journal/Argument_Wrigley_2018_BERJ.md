@@ -101,7 +101,7 @@ citation_aliases:
 > 3. [[Evidence-Based Education|证据本位教育]]（Evidence-Based Education, EBE）的统计修辞如何与新自由主义政策框架合谋，进而导致一线教师的去专业化？
 
 > [!claim] 核心主张
-> 教育中的“证据本位”运动在技术上通过统计聚合层层剥离情境，哲学上基于休谟粗糙的经验论抹杀因果机制与人类能动性（Agency），其本质是新自由主义审计文化的体现，旨在用 [[Value Neutrality|价值中立]]（VALUE Neutrality）的科学修辞将教育的价值与政治问题转化为纯粹的效率传递技术。
+> 教育中的“证据本位”运动在技术上通过统计聚合层层剥离情境，哲学上基于休谟粗糙的[[Empiricism|经验论]]抹杀因果机制与人类能动性（Agency），其本质是新自由主义审计文化的体现，旨在用 [[Value Neutrality|价值中立]]（VALUE Neutrality）的科学修辞将教育的价值与政治问题转化为纯粹的效率传递技术。
 
 > [!concept-lens]- 阅读透镜
 > - **对象** 证据本位教学（Evidence-Based Teaching）的方法论内核，尤其是作为其金标准的 [[Randomised Controlled Trials|RCT]]、[[Meta-analysis|元分析]]以及 [[Meta-meta-analysis|元-元分析]]。
@@ -255,7 +255,7 @@ citation_aliases:
 
 ### 论证步骤五：方法论多元主义与替代方案
 
-> [!claim] 必须跳出扁平经验主义，转向方法论多元主义与实在论综合
+> [!claim] 必须跳出扁平[[Empiricism|经验主义]]，转向方法论多元主义与实在论综合
 > 真正的教育改善不能依赖单调的均值表，而必须承认教育是包含多层分层（治理-学校文化-课堂-个体）的开放系统，通过多元方法探究复杂的因果机制与 [[Emergence|涌现]]结果。
 
 > [!pathways] 走向“实在论综合”与多元改进路径

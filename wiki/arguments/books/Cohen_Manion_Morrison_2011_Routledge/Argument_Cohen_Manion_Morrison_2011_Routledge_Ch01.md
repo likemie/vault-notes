@@ -230,14 +230,14 @@ updated: 2026-09-09
 >   - **范式理论与方法论统摄** 库恩范式概念的界定与科学共同体；科学发展的动态循环（常规科学、反常积累、危机、科学革命与范式转换）；天文学、物理学与社会科学的历史案例；[[Incommensurability|不可通约性]]论辩与教育研究“[[Paradigm Wars|范式战争]]”。
 >   - **社会实在的两种构想与哲学[[Hypothesis|假设]]** Burrell & Morgan 的四组核心假设沿主观–客观维度的展开（[[Nominalism|唯名论]] vs 实在论、反实证 vs 实证、[[Voluntarism|唯意志论]] vs [[Determinism|决定论]]、表意法 vs 通则法，复刻 Figure 1.1）；Barr Greenfield 诠释社会实在的替代基础（哲学基础、社会科学角色、社会实在单位、理解方式、理论、研究、方法论、社会、组织、组织病理学、变革处方，复刻 Table 1.1）。
 > - **实证范式及其系统清算（第4–5节）**
->   - **[[Positivism|实证主义]]的逻辑与[[Scientific Method|科学方法]]** 孔德实证主义源流；[[Anthony Giddens|吉登斯]]两大核心假定；科学的四大信仰假设（[[Determinism|决定论]]、[[Empiricism|经验主义]]、[[Principle of Parsimony|简约原则]]、普遍性）；Mouly 经验科学五步法；静态知识累积观 vs 动态启发发现观；[[Abraham Maslow|马斯洛]]科学九大功能（复刻 Box 1.1）；理论的本质、Morrison 三类理论谱系及对[[Grand Theory|宏大理论]]“拜占庭式建筑辉煌但科学贫瘠”的批判；有效经验理论九大准则；科学家的核心工具（概念系统性与 Kerlinger/[[Peter Medawar|Medawar]] 假说论，复刻 Box 1.2）；科学发展的六个阶段（复刻 Box 1.3）与 Hitchcock & Hughes 八阶段科学方法模型（复刻 Box 1.4）。
+>   - **[[Positivism|实证主义]]的逻辑与[[Scientific Method|科学方法]]** 孔德实证主义源流；[[Anthony Giddens|吉登斯]]两大核心假定；科学的四大信仰假设（[[Determinism|决定论]]、[[Empiricism|经验主义]]、[[Principle of Parsimony|简约原则]]、普遍性）；Mouly 经验科学五步法；静态知识累积观 vs 动态启发发现观；[[Abraham Maslow|马斯洛]]科学九大功能（复刻 Box 1.1）；理论的本质、Morrison 三类理论谱系及对[[Grand Theory|宏大理论]]“拜占庭式建筑辉煌但科学贫瘠”的批判；有效经验理论九大准则；科学家的核心工具（概念系统性与 Kerlinger/Medawar 假说论，复刻 Box 1.2）；科学发展的六个阶段（复刻 Box 1.3）与 Hitchcock & Hughes 八阶段科学方法模型（复刻 Box 1.4）。
 >   - **对实证主义与科学方法的系统批判** 机械还原论与生命经验的剥离；克尔凯郭尔存在主义批判：客观性幻觉与主观性能力的拯救；Ions 与 Horkheimer 反计算崇拜与数学化批判；Roszak 疏离论；Hampden-Turner 保守外在偏见批判；法兰克福学派与[[Jürgen Habermas|哈贝马斯]][[Scientism|科学主义]]批判、工具理性危机与维特根斯坦格言；社会科学内部的三重方法论反思：主体-主体前诠释世界、乔姆斯基行为主义批判与能动-结构张力、受控实验的实验室“合成木偶剧”琐碎化风险。
 > - **[[Interpretive Paradigm|诠释范式]]与第三次方法论运动（第6–7节）**
->   - **自然主义与诠释范式进路** 人本主义心理学（[[Carl Rogers|罗杰斯]]全人模式）与“人的科学”[[Anthropomorphic Model|拟人化模型]]（[[Rom Harré|Harré]] & Secord “把人当作人类来对待”）；行为分析的事件分析法（[[Ethogenic Approach|ethogenic]] method）；教室互动案例[[Rich and Thick Description|深描]]：“草莓事件”与 [[Flanders Interaction Analysis Categories|FIAC]] 机械分类 7-4-9-10 的破产（复刻 Box 1.5）；自然主义与质性探究的 11 项核心特征（含[[Thomas Theorem|托马斯定理]]情境定义）；[[Jack Douglas|Douglas]] [[Normative Paradigm|规范范式]]（行为/过去因果/宏大理性大厦）vs 诠释范式（行动/未来意向/[[Grounded Theory|扎根理论]]与多面图像）；三大质性传统（胡塞尔[[Epoché|悬置]]与舒茨意识流、[[Reflexivity|反思性]]、[[Typification|类型化]]及多重实在；加芬克尔日常推理质疑、[[Indexicality|索引性]]与反思性、语言 vs 情境两流派；米德/布卢默/[[Peter Woods|伍兹]]三大公理与五大互动焦点）；诠释范式的四重学术批判（[[John Rex|Rex]] 虚假意识与客观视角、[[Basil Bernstein|Bernstein]] 权力不对称与结构忽视、微观封闭与活动剧场局限、主观报告不可靠与自证预言）。
+>   - **自然主义与诠释范式进路** 人本主义心理学（[[Carl Rogers|罗杰斯]]全人模式）与“[[Anthropomorphic Model|人的科学]]”[[Anthropomorphic Model|拟人化模型]]（[[Rom Harré|Harré]] & Secord “把人当作人类来对待”）；行为分析的事件分析法（[[Ethogenic Approach|ethogenic]] method）；教室互动案例[[Rich and Thick Description|深描]]：“草莓事件”与 [[Flanders Interaction Analysis Categories|FIAC]] 机械分类 7-4-9-10 的破产（复刻 Box 1.5）；自然主义与质性探究的 11 项核心特征（含[[Thomas Theorem|托马斯定理]]情境定义）；Douglas [[Normative Paradigm|规范范式]]（行为/过去因果/宏大理性大厦）vs 诠释范式（行动/未来意向/[[Grounded Theory|扎根理论]]与多面图像）；三大质性传统（胡塞尔[[Epoché|悬置]]与舒茨意识流、[[Reflexivity|反思性]]、[[Typification|类型化]]及多重实在；加芬克尔日常推理质疑、[[Indexicality|索引性]]与反思性、语言 vs 情境两流派；米德/布卢默/[[Peter Woods|伍兹]]三大公理与五大互动焦点）；诠释范式的四重学术批判（Rex 虚假意识与客观视角、Bernstein 权力不对称与结构忽视、微观封闭与活动剧场局限、主观报告不可靠与自证预言）。
 >   - **[[Mixed Methods Research|混合方法研究]]：第三次方法论运动** 超越“非 0 即 1”二元对立，从范式战争走向方法论务实主义；[[Pragmatic Paradigm|实用主义]]哲学基础（实践驱动与“有效即真理”）；Johnson et al. 19 种定义谱系与九大合法化类型；Teddlie & Tashakkori 六大领域与七维度；Greene 四大领域；Caracelli & Greene 四大数据整合策略（[[Data Transformation|数据转换]]、类型学发展、极端案例分析、数据合并）；“学校像监狱”的 100 人[[Heterogeneity|异质性]]理由范例；六类设计类型学（平行、顺序、准混合、转换、多层、完全整合）；九大核心操作决策维度；关于混合方法是否构成“独立新范式”的论辩与审慎结论。
 > - **后现代转向与新兴前沿（第8–9节）**
 >   - **[[Postpositivism|后实证主义]]、[[Postmodernism|后现代主义]]与[[Post-structuralism|后结构主义]]** 现代主义“钟表宇宙观”的解体；后实证主义的可错论、理论负载与多元理据；Fredric Jameson 后现代主义 11 项核心特征全景解析；后结构主义 Foucault/Derrida 话语实践、去中心化主体与意义解构；三者的哲学亲缘谱系与方法论共振。
->   - **[[Complexity Theory|复杂性理论]]：新兴范式** 学校作为复杂适应系统；五大核心机制：正负反馈、连接性（雨林生态循环隐喻 vs 学校生态网络）、[[Emergence|涌现]]性、自组织（[[Stuart Kauffman|Kauffman]]“秩序是免费的，它取代了控制”）、自组织临界性与转折点；彻底颠覆[[Randomised Controlled Trials|随机对照试验]]（RCT）“黄金标准”：开放情境中“保持[[Variable|变量]]恒常是误导性的，所测量的只是历史”；[[Unit of Analysis|分析单位]]革命：从孤立变量转向生态网络与奇异吸引子；复杂性方法论重构：[[Case Study|案例研究]]、生活叙事、[[Action Research|行动研究]]与[[Teacher-as-Researcher|教师即研究者]]运动；Sarah Kuhn 复杂性研究五大公理。
+>   - **[[Complexity Theory|复杂性理论]]：新兴范式** 学校作为复杂适应系统；五大核心机制：正负反馈、连接性（雨林生态循环隐喻 vs 学校生态网络）、[[Emergence|涌现]]性、自组织（Kauffman“秩序是免费的，它取代了控制”）、自组织临界性与转折点；彻底颠覆[[Randomised Controlled Trials|随机对照试验]]（RCT）“黄金标准”：开放情境中“保持[[Variable|变量]]恒常是误导性的，所测量的只是历史”；[[Unit of Analysis|分析单位]]革命：从孤立变量转向生态网络与奇异吸引子；复杂性方法论重构：[[Case Study|案例研究]]、生活叙事、[[Action Research|行动研究]]与[[Teacher-as-Researcher|教师即研究者]]运动；Sarah Kuhn 复杂性研究五大公理。
 
 ---
 
@@ -371,9 +371,9 @@ updated: 2026-09-09
 >
 > | 哲学维度 | 客观主义进路 | 主观主义进路 |
 > |---|---|---|
-> | **[[Ontology\|本体论（Ontology）]]** | **实在论（Realism）** 社会实在是外在于个体的客观存在，具有客观硬质性，并不依赖于个体的认识而存在，强加于个体的意识之上。社会组织与制度是具有自主生命周期的实体。 | **[[Nominalism|唯名论（Nominalism）]]** 外部世界不存在独立于知觉者的客体实体；所谓的“概念”与“实在”仅仅是人类用以指称事物的语言标签与词汇符号，社会现实是人类主体思维与认知的建构物。 |
+> | **[[Ontology\|本体论（Ontology）]]** | **实在论（Realism）** 社会实在是外在于个体的客观存在，具有客观硬质性，并不依赖于个体的认识而存在，强加于个体的意识之上。社会组织与制度是具有自主生命周期的实体。 | **[[Nominalism\|唯名论（Nominalism）]]** 外部世界不存在独立于知觉者的客体实体；所谓的“概念”与“实在”仅仅是人类用以指称事物的语言标签与词汇符号，社会现实是人类主体思维与认知的建构物。 |
 > | **[[Epistemology\|认识论（Epistemology）]]** | **实证主义（Positivism）** 知识是硬性的、客观的、可累积与可度量的。研究者必须扮演中立、超然的旁观者角色，严格恪守自然科学的实验与经验验证规程。 | **反实证主义（Anti-positivism）** 知识是独特的、情境化的、主观体验的与个人化的。研究者必须深度介入被研究者的生活世界，分享其参照框架，拒绝套用自然科学的探究法则。 |
-> | **人性观** | **[[Determinism|决定论（Determinism）]]** 将人类行为视为对外部环境刺激或内在驱力的机械、决定性响应；人犹如受制于社会结构与环境变量的“提线木偶”。 | **[[Voluntarism|唯意志论（Voluntarism）]]** 人类是自身行动的自主发起者，具备自由意志、反思意识与[[Creativity\|创造力]]，能够在与环境的互动中积极塑造并改造其生活环境。 |
+> | **人性观** | **[[Determinism\|决定论（Determinism）]]** 将人类行为视为对外部环境刺激或内在驱力的机械、决定性响应；人犹如受制于社会结构与环境变量的“提线木偶”。 | **[[Voluntarism\|唯意志论（Voluntarism）]]** 人类是自身行动的自主发起者，具备自由意志、反思意识与[[Creativity\|创造力]]，能够在与环境的互动中积极塑造并改造其生活环境。 |
 > | **方法论** | **通则法（[[Nomothetic]]）** 旨在发现支配人类行为与社会运行的普遍法则与普遍规律；依赖量化测量、变量控制、数学建模与严密的统计假设检验。 | **表意法（[[Idiographic]]）** 聚焦于对具体个别案例、独特情境与个体生命叙事的深度理解与意义阐释；采用质性厚描述、语言意义解析与生活史分析。 |
 
 > [!logic-map]- Figure 1.1　主观–客观维度（The subjective-objective dimension）
@@ -450,9 +450,9 @@ updated: 2026-09-09
 自然科学与实证主义探究的合法性，依托于科学家群体在日常工作中恪守的四大本体论与认识论公理：
 
 > [!assumptions] 科学探索的四大基本假设
-> - **[[Determinism|决定论（Determinism）]]** 宇宙万物的发生必有其前因，现象受先行情境与客观规律所决定。宇宙并非反复无常或任性随机运作，因果链条在原则上完全能够被经验揭示与理性理解。科学家的终极抱负即在于确立因果法则，以此提供精准的预测与控制基础。
-> - **[[Empiricism|经验主义（Empiricism）]]** 一切可靠的知识终归来源于感官经验与可复核的客观证据。理论命题的稳固度完全取决于经验证据的支持力度（Barratt, 1971）。
-> - **[[Principle of Parsimony|简约原则（Principle of Parsimony / Occam's razor）]]** 面对同一现象，应当以最经济、简洁的逻辑概念进行解释。正如奥卡姆剃刀所言：“如无必要，勿增实体”；爱因斯坦亦强调：“事情应当尽可能做得简单，但绝不能过度简化”。
+> - **决定论（Determinism）** 宇宙万物的发生必有其前因，现象受先行情境与客观规律所决定。宇宙并非反复无常或任性随机运作，因果链条在原则上完全能够被经验揭示与理性理解。科学家的终极抱负即在于确立因果法则，以此提供精准的预测与控制基础。
+> - **经验主义（Empiricism）** 一切可靠的知识终归来源于感官经验与可复核的客观证据。理论命题的稳固度完全取决于经验证据的支持力度（Barratt, 1971）。
+> - **简约原则（Principle of Parsimony / Occam's razor）** 面对同一现象，应当以最经济、简洁的逻辑概念进行解释。正如奥卡姆剃刀所言：“如无必要，勿增实体”；爱因斯坦亦强调：“事情应当尽可能做得简单，但绝不能过度简化”。
 > - **普遍性** 从对具体孤立事实的个别观察出发，科学旨在提炼出具有广泛外推效度的抽象普适概括。
 
 穆利（Mouly, 1978）将实证科学的经验探究提炼为标准演进流程：
@@ -470,7 +470,7 @@ updated: 2026-09-09
 > - **静态知识累积观** 将科学视为向人类社会贡献系统化事实信息的活动，重心在于当前知识存量的扩充与既有事实的累积堆叠，视科学为终极知识的储藏库（Kerlinger, 1970, p. 8）。
 > - **动态启发发现观** 将科学视为科学家所从事的持续探究活动本身，重心在于科学的启发式发现功能，理论大厦永远处于拓展、问题生成与自我重构之中（Kerlinger, 1970, p. 9）。
 
-[[Abraham Maslow|亚伯拉罕·马斯洛（Abraham Maslow）]]在《科学心理学》中，系统总结了科学在人类文明中的多元功能（Maslow, 1954）：
+亚伯拉罕·马斯洛（Abraham Maslow）在《科学心理学》中，系统总结了科学在人类文明中的多元功能（Maslow, 1954）：
 
 > [!feature] Box 1.1　科学的功能（The functions of science, Maslow, 1954）
 > - **认知求索与理论建构**
@@ -494,7 +494,7 @@ updated: 2026-09-09
 
 > [!taxonomy] 科学理论的三大形态谱系（Morrison, 1995a）
 > - **经验理论** 深度根植于经验事实，直接接受实证检验、反驳与证伪，解释具体经验现象。
-> - **[[Grand Theory|宏大理论（Grand Theory）]]** 高度抽象的思辨性元叙事，如正统马克思主义、功能主义与共识理论。罗伯特·默顿（Robert K. Merton）与德里克·莱德（Derek Layder）批判指出，宏大理论虽然具备“拜占庭式的建筑辉煌和逻辑一致性”，却往往在科学上极度贫瘠，脱离真实世界的流动性、异质性与碎片化特征（Merton, 1949; Layder, 1994）。
+> - **宏大理论（Grand Theory）** 高度抽象的思辨性元叙事，如正统马克思主义、功能主义与共识理论。罗伯特·默顿（Robert K. Merton）与德里克·莱德（Derek Layder）批判指出，宏大理论虽然具备“拜占庭式的建筑辉煌和逻辑一致性”，却往往在科学上极度贫瘠，脱离真实世界的流动性、异质性与碎片化特征（Merton, 1949; Layder, 1994）。
 > - **[[Critical Theory|批判理论]]** 聚焦知识与权力的共生纽带，旨在揭示意识形态压迫、打破权力垄断并促进社会正义与解放。
 
 围绕何为优质的经验理论，[[Karl Popper|卡尔·波普尔]]（Karl Popper）、伊姆雷·拉卡托斯（Imre Lakatos）、拉里·劳丹（Larry Laudan）等科学哲学家提炼了有效经验理论的评估准则（Popper, 1968; Lakatos, 1970; Mouly, 1978; Laudan, 1990）：
@@ -523,7 +523,7 @@ updated: 2026-09-09
 > - **概念** 人类对具体经验的抽象概括，其本质是语言符号与心理观念之间的映射关系。概念构成了人类感知现实的认知网格；掌握的概念库越丰富，所能捕获的感官信息维度就越深刻。社会科学通过提炼专业概念（如社会阶层、[[Cultural Capital|文化资本]]），为剖析社会现实切片提供了理论透镜。
 > - **假说** 科学探究的前行向导与思维跳板，是待经验检验的假定性命题。假说指引研究者筛选观察现象并启发实验方案。一个优秀的假说必须具备逻辑即时性（logical immediacy），清晰陈述变量间关系，并明确蕴含可操作的经验检验路径。
 
-[[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]得主[[Peter Medawar|彼得·梅达沃（Peter Medawar）]]在《对科学的忠告》中对假说的启发与批判特质作出了精妙论断（Medawar, 1972, 1981）：
+[[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]得主[[Peter Medawar|彼得·梅达沃]]（Peter Medawar）在《对科学的忠告》中对假说的启发与批判特质作出了精妙论断（Medawar, 1972, 1981）：
 
 > [!theory-stance] Box 1.2　假说论（The hypothesis）
 > 一旦拥有了一个假说，科学家便获得了前进的航标：假说将指引研究者筛选某些观察并舍弃其他杂多现象，进而启发出针对性的实验方案。
@@ -614,7 +614,7 @@ updated: 2026-09-09
 
 > [!theory-components] “人的科学”与拟人化模型的核心构件
 > - **人本主义心理学**
->   [[Carl Rogers|卡尔·罗杰斯（Carl Rogers）]]倡导以“全人”视角审视个体经验，确立积极、主动、目的导向的人性假说，优先采用表意法探究独特生命历程（Rogers, 1969）。
+>   卡尔·罗杰斯（Carl Rogers）倡导以“全人”视角审视个体经验，确立积极、主动、目的导向的人性假说，优先采用表意法探究独特生命历程（Rogers, 1969）。
 > - **[[Anthropomorphic Model|拟人化模型]]与事件分析法（Anthropomorphic Model & Ethogenic Method）**
 >   罗姆·哈雷（Rom Harré）与保罗·塞考德（Paul Secord）在社会心理学中疾呼：“为了科学本身的目的，请把人当作真正的人类来对待！”（Harré & Secord, 1972）。他们创立了事件分析法，主张通过探究行动者对特定社会情境片段的自我陈述，[[Decodification|解码]]行动背后的社会规则系统。
 
@@ -668,11 +668,11 @@ updated: 2026-09-09
 
 #### 6.4 [[Normative Paradigm|规范范式]] vs [[Interpretive Paradigm|诠释范式]]
 
-[[Jack Douglas|杰克·道格拉斯（Jack D. Douglas）]]对社会学探究的两大基础范式作出了经典切分（Douglas, 1973）：
+[[Jack Douglas|杰克·道格拉斯]]（Jack D. Douglas）对社会学探究的两大基础范式作出了经典切分（Douglas, 1973）：
 
 > [!contrast-table] [[Normative Paradigm|规范范式]] vs [[Interpretive Paradigm|诠释范式]]
 >
-> | 比较维度 | [[Normative Paradigm|规范范式]] | [[Interpretive Paradigm|诠释范式]] |
+> | 比较维度 | [[Normative Paradigm\|规范范式]] | [[Interpretive Paradigm\|诠释范式]] |
 > |---|---|---|
 > | **核心概念** | **行为** 对外部环境刺激或内在生理/心理驱力的机械反应；其决定性因果要素深埋在**过去的因果链条**中。 | **行动** 注入了主观意图的赋意行动；是面向**未来意向与目标追求**的有目的作为。 |
 > | **理论建构形态** | 追求先验普遍理论，通过层层抽象构建远离日常经验的宏大“理性大厦”。 | 理论必须从特定实地情境中动态涌现，是深度扎根于经验数据的[[Grounded Theory\|扎根理论]]（Glaser & Strauss, 1967）。 |
@@ -693,7 +693,7 @@ updated: 2026-09-09
 > - **胡塞尔先验现象学**
 >   [[Edmund Husserl|埃德蒙德·胡塞尔]]（Edmund Husserl）发出“回到事物本身！”的哲学召唤，主张穿透文化符号屏障，通过**悬置（epoché）**方法将先入之见与自然态度放入括号，直接洞悉纯粹意识的意向性本质结构（Warnock, 1970）。
 > - **舒茨社会现象学**
->   [[Alfred Schutz|阿尔弗雷德·舒茨]]（Alfred Schutz）将现象学融入社会学。舒茨指出，个体的“意识流”本身是纯粹的体验历程，只有通过**反思性（reflexivity）**回溯审视，才能被赋予主观意义；人们在日常生活中依据其所处的社会传记位置，运用**[[Typification|类型化（typification）]]**概念储备库来理解他人，并在流动的**多重实在（multiple realities）**中自如穿梭（Burrell & Morgan, 1979）。
+>   [[Alfred Schutz|阿尔弗雷德·舒茨]]（Alfred Schutz）将现象学融入社会学。舒茨指出，个体的“意识流”本身是纯粹的体验历程，只有通过**反思性（reflexivity）**回溯审视，才能被赋予主观意义；人们在日常生活中依据其所处的社会传记位置，运用**类型化（typification）**概念储备库来理解他人，并在流动的**多重实在（multiple realities）**中自如穿梭（Burrell & Morgan, 1979）。
 
 ##### 6.5.2 常人方法学（Ethnomethodology）
 
@@ -709,7 +709,7 @@ updated: 2026-09-09
 
 ##### 6.5.3 符号互动论（Symbolic Interactionism）
 
-由[[George Herbert Mead|乔治·赫伯特·米德]]（George Herbert Mead）奠基，经赫伯特·布卢默（Herbert Blumer）与欧文·戈夫曼（Erving Goffman）深化的[[Symbolic Interactionism|符号互动论]]，聚焦人际交往中的意义协商与情境定义。[[Peter Woods|彼得·伍兹（Peter Woods）]]归纳了其三大基本公理（Woods, 1979）：
+由[[George Herbert Mead|乔治·赫伯特·米德]]（George Herbert Mead）奠基，经赫伯特·布卢默（Herbert Blumer）与欧文·戈夫曼（Erving Goffman）深化的[[Symbolic Interactionism|符号互动论]]，聚焦人际交往中的意义协商与情境定义。彼得·伍兹（Peter Woods）归纳了其三大基本公理（Woods, 1979）：
 
 > [!assumptions] 符号互动论的三大基本公理（Woods, 1979）
 > - **事物意义导引行动** 人类依据事物对其所具有的主观象征意义采取行动，意义是行动的中介与指南。
@@ -723,7 +723,7 @@ updated: 2026-09-09
 正如实证主义遭受激烈批判，诠释范式同样面临来自社会学界的深刻反思与学术质疑：
 
 > [!critique] 对诠释范式与微观互动论的四重学术批判
-> - **虚假意识与客观视角的缺失（Rex, 1974）** [[John Rex|约翰·雷克斯（John Rex）]]指出，参与者的情境定义固然重要，但行动者极有可能深陷虚假意识而不自知。社会科学家的天职在于超越参与者的主观感知局限，追寻更高的客观反思视角，绝不可无底线妥协于当事人自我报告的表象。
+> - **虚假意识与客观视角的缺失（Rex, 1974）** [[John Rex|约翰·雷克斯]]（John Rex）指出，参与者的情境定义固然重要，但行动者极有可能深陷虚假意识而不自知。社会科学家的天职在于超越参与者的主观感知局限，追寻更高的客观反思视角，绝不可无底线妥协于当事人自我报告的表象。
 > - **权力不对称与宏观制度结构的漠视（Bernstein, 1974）** [[Basil Bernstein|巴兹尔·伯恩斯坦]]（Basil Bernstein）严厉指出，微观互动论过度沉溺于情境意义协商，严重遮蔽了权力强制机制。在现实世界的医生诊室、法庭乃至中小学校长室中，权力上位者具有压倒性的力量将其自身的情境定义强加于弱势参与者。社会结构绝非仅仅是互动的副产品，其作为外在客观强力的事实不容抹杀。
 > - **微观封闭与“活动剧场”的认识论困境（Layder, 1994）** 德里克·莱德指出，质性探究容易作茧自缚于当事人狭隘的“活动剧场”之内，给研究筑起人为的微观边界，陷入狭隘微观社会学的盲区。
 > - **主观报告的失真与自证预言偏差（Morrison, 2009）** 当事人的主观知觉完全可能是错误的（如学生误以为教师厌恶自己，进而引发疏离行动并最终诱发负面后果）。若研究者将错误的主观认知直接奉为客观实在，将导致整个研究结论的系统性崩塌。
@@ -897,7 +897,7 @@ updated: 2026-09-09
 
 ### 九、复杂性理论：正在兴起的教育研究新范式（1.16节）
 
-在当代方法论前沿中，复杂性理论（complexity theory）被确立为正在重塑教育探究版图的全新范式（Morrison, 2002a, 2008; Radford, 2006, 2008; Kuhn, 2007）。该理论将学校与课堂视为典型的**复杂适应系统（Complex Adaptive Systems, CAS）**（Kauffman, 1995）。
+在当代方法论前沿中，复杂性理论（complexity theory）被确立为正在重塑教育探究版图的全新范式（Morrison, 2002a, 2008; Radford, 2006, 2008; Kuhn, 2007）。该理论将学校与课堂视为典型的**复杂适应系统（Complex Adaptive Systems, [[Creativity, Action, Service|CAS]]）**（Kauffman, 1995）。
 
 #### 9.1 复杂适应系统的五大核心机制
 
@@ -911,7 +911,7 @@ updated: 2026-09-09
 > - **涌现性（Emergence）**
 >   高阶的复杂组织结构与全局秩序，能够自发地从低阶各组成部分遵循简单局部规则的微观交互中自发涌现出来（Waldrop, 1992），呈现“整体大于部分之和”的质变，且绝无法还原为低阶要素的线性叠加（Davis & Sumara, 2005）。
 > - **自组织机制（Self-organization）**
->   系统具备强大的内部自愈与自我更新能力。[[Stuart Kauffman|斯图尔特·考夫曼（Stuart Kauffman）]]提出名言：“**秩序是免费的，它取代了控制**”（Order comes for free and replaces control; Kauffman, 1995）。秩序并非由外部自上而下行政强加，而是在有机体与环境的持续互惠互动中自主生成。
+>   系统具备强大的内部自愈与自我更新能力。[[Stuart Kauffman|斯图尔特·考夫曼]]（Stuart Kauffman）提出名言：“**秩序是免费的，它取代了控制**”（Order comes for free and replaces control; Kauffman, 1995）。秩序并非由外部自上而下行政强加，而是在有机体与环境的持续互惠互动中自主生成。
 > - **自组织临界性与转折点（Self-organized Criticality & Tipping Points）**
 >   培尔·巴克（Per Bak）指出，复杂系统演进会自发逼近临界态（Bak, 1996）。在转折点上，微不足道的单一微扰（压垮骆驼的最后一根稻草）足以引发整个系统的全局相变，彻底粉碎了“微因必有微果”的牛顿力学因果定律。
 

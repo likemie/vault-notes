@@ -143,7 +143,7 @@ updated: 2026-09-09
 
 ### 命题四　复杂性逻辑作为计算机模拟与虚拟世界知识建构的基石
 
-复杂性理论为教育领域的[[Computer Simulation|计算机模拟]]与[[Virtual World|虚拟世界]]提供了深厚的方法论正当性，有力回击了传统学者对其“过度简化真实世界”的指责（Cohen et al., 2011, Ch. 19）：
+复杂性理论为教育领域的[[Computer Simulation|计算机模拟]]与[[Virtual World|虚拟世界]]提供了深厚的方法论正当性，有力回击了传统学者对其“过度简化真实世界”的指责（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 19）：
 
 > [!feature] 基于主体建模（ABM）与虚拟世界的复杂性实现
 > - **简单规则驱动高阶涌现** 在[[Agent-based Modelling|基于主体的建模]]（ABM）中，雷诺兹（Craig Reynolds, 1987）仅通过分离、对齐、凝聚三条极其简单的微观局部规则，便逼真模拟出成千上万只飞鸟组成的复杂鸟群编队飞行；证明宏观有序模式源于微观主体交互，而非中央集权控制。

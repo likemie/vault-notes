@@ -180,7 +180,7 @@ updated: 2026-09-09
 > [!example]- 图10.2：三种核心设计
 > ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_10-2_Three_Core_Designs.jpg)
 
-> [!designs] 三种核心设计（Creswell & Creswell, 2022）
+> [!designs] 三种核心设计（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）
 > - **[[Convergent Design|聚敛式设计]]（Convergent Design）** 同步收集量化与质性数据，通过数据转换或联合展示合并两类分析结果，聚焦于证据的确认、互证或分歧发现。
 > - **[[Explanatory Sequential Design|解释性序列设计]]（Explanatory Sequential Design）** 先执行大样本量化调查，再针对统计结果中的异常值、组间差异或典型人群展开小样本质性追踪，用质性情境机制深入阐释量化规律。
 > - **[[Exploratory Sequential Design|探索性序列设计]]（Exploratory Sequential Design）** 先开展开放性质性田野探索以提炼核心构念与本土概念，再据此开发量化测量工具并开展大样本统计检验与推广性评估。

@@ -33,7 +33,7 @@ updated: 2026-09-09
 ## 定义
 
 > [!def] 核心定义
-> **决定论（Determinism）**是科学信仰四大基本假设之首（Cohen et al., 2011, p. 15），亦是社会科学主客观分析框架中关于“人性本质”的核心本体论维度之一（Burrell & Morgan, 1979, p. 8）。该假设主张自然与社会世界中的一切事件和人类行为皆有其前因，是由先行的环境、生理或社会条件所决定的（events have causes, determined by other circumstances）；因果链条在原则上能够被经验探索所揭示与理解。决定论假定宇宙运作具有高度规律性而非反复无常，确立普适因果法则是科学家实现对现象预测与控制（prediction and control）的终极基石。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 8, p. 15)]]
+> **决定论（Determinism）**是科学信仰四大基本假设之首（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 15]]），亦是社会科学主客观分析框架中关于“人性本质”的核心本体论维度之一（Burrell & Morgan, 1979, p. 8）。该假设主张自然与社会世界中的一切事件和人类行为皆有其前因，是由先行的环境、生理或社会条件所决定的（events have causes, determined by other circumstances）；因果链条在原则上能够被经验探索所揭示与理解。决定论假定宇宙运作具有高度规律性而非反复无常，确立普适因果法则是科学家实现对现象预测与控制（prediction and control）的终极基石。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 8, p. 15)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 假定自然界与人类行为遵循严格的法则性因果秩序，输入与输出存在客观确定的对应关系。

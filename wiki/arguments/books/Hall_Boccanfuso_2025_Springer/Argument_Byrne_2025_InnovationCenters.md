@@ -144,7 +144,7 @@ citation_aliases:
 ## 论证结构
 
 > [!abstract]
-> **整体逻辑链** 否定"物理设施决定论" → 四个信条划定[[Necessary and Sufficient Conditions|必要条件]] → 六项优先领域逐一展开操作逻辑 → 收束为五步行动框架。
+> **整体逻辑链** 否定"物理设施[[Determinism|决定论]]" → 四个信条划定[[Necessary and Sufficient Conditions|必要条件]] → 六项优先领域逐一展开操作逻辑 → 收束为五步行动框架。
 
 ---
 

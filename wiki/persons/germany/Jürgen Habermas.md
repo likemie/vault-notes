@@ -187,7 +187,7 @@ updated: 2026-09-06
 > - **现代性工程与公共教育的制度起源（比较教育史学路径）**
 >   卡洛扬纳基与卡扎米亚斯（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias, 2009]]）在分析 19 世纪比较教育发轫（[[Marc-Antoine Jullien|朱利安]]、[[Victor Cousin|库森]]、[[Horace Mann|曼]]、斯托、巴纳德）时，运用哈贝马斯的“现代性工程”作为总括性历史哲学框架：国民公共教育体系的建立，并非偶然的功利设计，而是启蒙现代性重构“理性公共领域”与形塑自主爱国公民的必要制度条件。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias, 2009, pp. 24–25]]）
 > - **合法化危机与现代教育评价的技术主义批判（政策社会学路径）**
->   [[Klaus Nielsen|克劳斯·尼尔森]]（Nielsen & Klitmøller, 2021b）等学者将哈贝马斯的“合法化危机（Legitimation Crisis）”与舍恩（Schön）的[[Technical Rationality|技术理性]]结合，深刻解构了[[John Hattie|约翰·哈蒂]]（John Hattie）的《[[Visible Learning|可见的学习]]》（[[Visible Learning]]）等量化循证模式在全球风靡的机制：此类模式的盛行绝非源于其卓越的实证科学质量，而在于其高度技术化的指标包裹精准满足了现代学校系统在面对公众问责与财政紧缩时的“制度合法化危机”替代需求。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b)]]
+>   [[Klaus Nielsen|克劳斯·尼尔森]]（[[Argument_Nielsen_2021_IRTP|Nielsen & Klitmøller, 2021b]]）等学者将哈贝马斯的“合法化危机（Legitimation Crisis）”与舍恩（Schön）的[[Technical Rationality|技术理性]]结合，深刻解构了[[John Hattie|约翰·哈蒂]]（John Hattie）的《[[Visible Learning|可见的学习]]》（[[Visible Learning]]）等量化循证模式在全球风靡的机制：此类模式的盛行绝非源于其卓越的实证科学质量，而在于其高度技术化的指标包裹精准满足了现代学校系统在面对公众问责与财政紧缩时的“制度合法化危机”替代需求。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b)]]
 > - **交往理性与[[Emancipatory Action Research|批判性行动研究]]（教学与课程实践路径）**
 >   [[Stephen Kemmis|斯蒂芬·凯米斯]]（[[Stephen Kemmis]]）将哈贝马斯的交往行动与[[Ideal Speech Situation|理想言说情境]]直接转化为[[Emancipatory Action Research|解放性行动研究]]的核心纲领：赋权教师与学生建立无等级的协商[[Dialogue in Education|对话]]空间，反抗外部官僚指标对教学生活世界的侵蚀，践行[[Paulo Freire|弗莱雷]]式的解放性教育实践（[[Praxis]]）。
 

@@ -125,7 +125,7 @@ updated: 2026-09-09
 > - **[[Case Study|案例研究（Case Study）]]** 在真实时空情境中对一个或多个受边界限定的案例进行全景深入的系统探究。
 
 > [!feature] 三大核心混合方法设计模型（Core Designs）
-> 在与普拉诺·克拉克（Plano Clark）合著的体系中，克雷斯维尔将繁复的混合方法设计精炼为三大核心拓扑结构（Creswell & Plano Clark, 2007; Cohen et al., 2011, Ch. 1, p. 28; Creswell & Creswell, 2022）：
+> 在与普拉诺·克拉克（Plano Clark）合著的体系中，克雷斯维尔将繁复的混合方法设计精炼为三大核心拓扑结构（Creswell & Plano Clark, 2007; [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1, p. 28; [[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）：
 > - **聚敛式设计（Convergent Design / QUAN + QUAL）** 并在同一时间段分别收集定量与定性资料，独立完成分析后通过联合展示实施侧向比对，评估两种结果是否相互证实、拓展或产生冲突。
 > - **解释性序列设计（Explanatory Sequential Design / QUAN → qual）** 首先执行大规模定量调查或实验；在识别出宏观统计趋势、离群值或异常亚组后，针对性设计质性深度访谈，专门解释“定量结果为何如此”。
 > - **探索性序列设计（Exploratory Sequential Design / QUAL → quan）** 面对缺乏现成量表或理论框架的全新议题，首先开展质性探索以把握核心构念与本土词汇；随后以此为基础开发量化测验工具并在更大样本中实施统计验证。
