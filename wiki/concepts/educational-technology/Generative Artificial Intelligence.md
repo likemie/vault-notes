@@ -93,7 +93,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-01
-updated: 2026-09-05
+updated: 2026-09-09
 ---
 
 # Generative Artificial Intelligence
@@ -162,6 +162,28 @@ updated: 2026-09-05
 >     C --> E["<b>高阶思维协同增益 (CT ↑, CrT ↑)</b><br>自适应专业特长与深层理解内化"]
 >     D --> F["<b>非对称发展或双重认知侵蚀</b><br>(CrT ↑/CT ↓ 或 CT ↓/CrT ↓)"]
 > ```
+
+---
+
+### 常用 AI 工具导航
+
+> [!index-table] 常用 AI 工具导航
+> | 工具 / 模型 | 说明与特征 |
+> |---|---|
+> | [ChatGPT](https://chatgpt.com) | OpenAI 研发的旗舰对话与多模态生成大模型；支持代码执行、高级数据分析、多模态交互与深度推理 |
+> | [Claude](https://claude.ai) | Anthropic 研发的通用大模型；擅长长文本深度分析（支持 200K+ 上下文）、学术写作、逻辑论证与代码生成 |
+> | [Gemini](https://gemini.google.com) | Google 研发的原生多模态模型；支持百万级 token 超长上下文与 Google 生态互联，学术事实检索与跨模态解析能力突出 |
+> | [Perplexity](https://www.perplexity.ai) | AI 驱动的交互式学术与网络搜索引擎；自动检索多源网络信息，并为生成回答标注明确的引文来源与跳转链接 |
+> | [Grok](https://grok.com) | xAI 研发的对话与推理模型；深度整合 X 实时数据流，具备即时资讯检索、多模态理解与开源基座支持 |
+> | [Bing Chat](https://www.bing.com/chat) | 微软基于 GPT 系列模型研发的对话检索工具（Microsoft Copilot）；深度集成必应搜索引擎与 Office 生产力生态 |
+> | [DeepSeek](https://www.deepseek.com) | 深度求索研发的基座大模型（V3 / R1 系列）；在长程逻辑推理、数学推导与代码生成上表现优异，全面开源 |
+> | [通义千问](https://chat.qwenlm.ai) | 阿里巴巴研发的大语言与多模态模型系列（Qwen）；开源生态完善，中文语义理解、长文档解析与多语言支持扎实 |
+> | [腾讯元宝](https://yuanbao.tencent.com) | 腾讯基于混元大模型推出的 AI 助手；深度打通微信公众号生态与搜狗搜索，擅长长文深度研读与信息精炼 |
+> | [Kimi](https://kimi.moonshot.cn) | 月之暗面（Moonshot AI）研发的长文本对话助手；原生支持数百万字超长无损上下文，擅长学术长文献速读与对比提取 |
+> | [豆包](https://www.doubao.com/) | 字节跳动基于云雀大模型研发的通用助手；响应迅速，语音交互自然，支持多功能智能体与日常学习辅助 |
+
+> [!tip] 学术与探究常用工具推荐
+> 在文献研读、证据核验与学术探究场景中，推荐优先使用 **Gemini**、**Claude**、**ChatGPT**、**Perplexity** 与 **DeepSeek**。此类工具在长上下文窗口、长程逻辑推理、代码执行或即时学术引文溯源方面具备更稳健的综合表现。
 
 ---
 

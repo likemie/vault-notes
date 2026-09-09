@@ -5,8 +5,32 @@
       "path": "wiki/concepts/educational-technology/Generative Artificial Intelligence.md"
     },
     {
+      "basename": "Affective Outcomes",
+      "path": "wiki/concepts/educational-psychology/Affective Outcomes.md"
+    },
+    {
       "basename": "Academic Achievement",
       "path": "wiki/concepts/educational-psychology/Academic Achievement.md"
+    },
+    {
+      "basename": "Anthony Giddens",
+      "path": "wiki/persons/uk/Anthony Giddens.md"
+    },
+    {
+      "basename": "Argument_Creswell_2022_SAGE",
+      "path": "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md"
+    },
+    {
+      "basename": "Literature Search",
+      "path": "wiki/concepts/research-methodology/Literature Search.md"
+    },
+    {
+      "basename": "Argument_Abrami_2015_RER",
+      "path": "wiki/arguments/journal-articles/Review of Educational Research/Argument_Abrami_2015_RER.md"
+    },
+    {
+      "basename": "Analytical Stance",
+      "path": "wiki/concepts/educational-policy-reform/Analytical Stance.md"
     },
     {
       "basename": "21st Century Skills and Competencies Discourse",
@@ -67,10 +91,6 @@
     {
       "basename": "Ethogenic Approach",
       "path": "wiki/methods/qualitative/Ethogenic Approach.md"
-    },
-    {
-      "basename": "Anthony Giddens",
-      "path": "wiki/persons/uk/Anthony Giddens.md"
     },
     {
       "basename": "Jürgen Habermas",
@@ -179,26 +199,6 @@
     {
       "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge",
       "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge.md"
-    },
-    {
-      "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30",
-      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30.md"
-    },
-    {
-      "basename": "Reflexivity",
-      "path": "wiki/concepts/research-methodology/Reflexivity.md"
-    },
-    {
-      "basename": "Backyard Research",
-      "path": "wiki/concepts/research-methodology/Backyard Research.md"
-    },
-    {
-      "basename": "Audit Trail",
-      "path": "wiki/concepts/research-methodology/Audit Trail.md"
-    },
-    {
-      "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28",
-      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28.md"
     }
   ],
   "omittedPaths": [],
