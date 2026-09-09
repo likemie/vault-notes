@@ -45,7 +45,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-21
-updated: 2026-07-12
+updated: 2026-09-09
 ---
 # Literature Search
 
@@ -229,6 +229,53 @@ Creswell 提出了一套系统的[[Document|文献]]检索流程（[[Argument_Cr
 > | [Sage](https://uk.sagepub.com) | 社会科学与教育学期刊，研究方法丛书 |
 > | [Taylor & Francis](https://taylorfrancis.com) | 教育、社科等人文领域期刊平台 |
 > | [Emerald](https://www.emeraldinsight.com) | 管理学、教育、图书馆学等期刊 |
+
+> [!index-table] CSSCI（2025–2026）来源期刊（教育学）
+> | 期刊名称 | 主办单位与定位 |
+> |---|---|
+> | [北京大学教育评论](https://navi.cnki.net/knavi/journals/BJPL/detail) | 北京大学主办，综合性高等教育学术评论 |
+> | [比较教育研究](https://navi.cnki.net/knavi/journals/BJJY/detail) | 北京师范大学主办，国际与比较教育研究核心期刊 |
+> | [大学教育科学](https://navi.cnki.net/knavi/journals/JXGJ/detail) | 湖南大学、中国机械工业教育协会主办，高等教育理论与实践研究 |
+> | [电化教育研究](https://navi.cnki.net/knavi/journals/DHJY/detail) | 西北师范大学、中国电化教育研究会主办，教育技术学核心期刊 |
+> | [复旦教育论坛](https://navi.cnki.net/knavi/journals/GWZX/detail) | 复旦大学主办，高等教育改革与大学治理学术论坛 |
+> | [高等工程教育研究](https://navi.cnki.net/knavi/journals/GDGJ/detail) | 华中科技大学主办，工程教育理论与工程创新研究 |
+> | [高等教育研究](https://navi.cnki.net/knavi/journals/HIGH/detail) | 华中科技大学、中国高等教育学会主办，高等教育学综合性期刊 |
+> | [高校教育管理](https://navi.cnki.net/knavi/journals/ZJSK/detail) | 江苏大学主办，高校内部治理与高等教育管理政策研究 |
+> | [国家教育行政学院学报](https://navi.cnki.net/knavi/journals/GJXZ/detail) | 国家教育行政学院主办，教育行政体制与教育治理现代化研究 |
+> | [湖南师范大学教育科学学报](https://navi.cnki.net/knavi/journals/FLJY/detail) | 湖南师范大学主办，教育基础理论与多学科交叉研究 |
+> | [华东师范大学学报（教育科学版）](https://navi.cnki.net/knavi/journals/HDXK/detail) | 华东师范大学主办，教育部名刊工程入选学术期刊 |
+> | [江苏高教](https://navi.cnki.net/knavi/journals/JSGJ/detail) | 江苏省高等教育学会主办，地方高校改革与高等教育区域发展研究 |
+> | [教师教育研究](https://navi.cnki.net/knavi/journals/GDSZ/detail) | 北京师范大学、华东师范大学主办，教师专业发展与教师教育理论 |
+> | [教育发展研究](https://navi.cnki.net/knavi/journals/SHGJ/detail) | 上海市教育科学研究院主办，宏观教育政策分析与教育战略规划 |
+> | [教育科学](https://navi.cnki.net/knavi/journals/JYKO/detail) | 辽宁师范大学主办，教育学基础理论与经验实证研究 |
+> | [教育科学研究](https://navi.cnki.net/knavi/journals/JYKY/detail) | 北京市教育科学研究院主办，侧重基础教育改革与教育实证探索 |
+> | [教育实践与研究](https://jepr.ntue.edu.tw/) | 国立台北教育大学主办，教育实务与课程教学研究（TSSCI / CSSCI 来源） |
+> | [教育学报](https://navi.cnki.net/knavi/journals/XKJY/detail) | 北京师范大学主办，教育学一级学科综合性学术期刊 |
+> | [教育研究](https://navi.cnki.net/knavi/journals/JYYJ/detail) | 中国教育科学研究院主办，全国教育科学综合性权威学术期刊 |
+> | [教育研究与实验](https://navi.cnki.net/knavi/journals/YJSY/detail) | 华中师范大学主办，侧重教育实验探索与实证研究方法 |
+> | [教育与经济](https://navi.cnki.net/knavi/journals/JYJI/detail) | 华中师范大学、中国教育经济学研究会主办，教育经济学专业期刊 |
+> | [开放教育研究](https://navi.cnki.net/knavi/journals/KFJY/detail) | 上海开放大学主办，开放远程学习与终身教育理论研究 |
+> | [课程·教材·教法](https://navi.cnki.net/knavi/journals/KJJF/detail) | 人民教育出版社主办，中小学课程改革与教材教法理论研究 |
+> | [清华大学教育研究](https://navi.cnki.net/knavi/journals/QHDJ/detail) | 清华大学主办，高等教育理论与工程教育学科前沿 |
+> | [全球教育展望](https://navi.cnki.net/knavi/journals/WGJN/detail) | 华东师范大学主办，比较课程论与国际教育发展前沿 |
+> | [苏州大学学报（教育科学版）](https://navi.cnki.net/knavi/journals/SZJK/detail) | 苏州大学主办，教育哲学、实证探索与交叉学科研究 |
+> | [特殊教育研究学刊](https://specedu.ntnu.edu.tw/) | 国立台湾师范大学特殊教育学系主办，特殊教育核心学术期刊（TSSCI / CSSCI 来源） |
+> | [外国教育研究](https://navi.cnki.net/knavi/journals/WGJY/detail) | 东北师范大学主办，各国教育制度变革与国际比较研究 |
+> | [现代大学教育](https://navi.cnki.net/knavi/journals/YSJG/detail) | 中南大学、湖南省高等教育学会主办，高等教育理论与文化研究 |
+> | [现代教育技术](https://navi.cnki.net/knavi/journals/XJJS/detail) | 清华大学主办，教育信息化、智能教学系统与多媒体学习研究 |
+> | [现代远程教育研究](https://navi.cnki.net/knavi/journals/XDYC/detail) | 四川开放大学主办，终身教育体系与远程数字化学习 |
+> | [现代远距离教育](https://navi.cnki.net/knavi/journals/YUAN/detail) | 黑龙江开放大学主办，远程开放教育与终身学习理论 |
+> | [学前教育研究](https://navi.cnki.net/knavi/journals/XQJY/detail) | 中国学前教育研究会、长沙师范学院主办，幼儿教育学术期刊 |
+> | [学位与研究生教育](https://navi.cnki.net/knavi/journals/XWYY/detail) | 国务院学位委员会主办，研究生教育管理与学科建设研究 |
+> | [研究生教育研究](https://navi.cnki.net/knavi/journals/JIAO/detail) | 中国学位与研究生教育学会、中国科学技术大学主办，拔尖创新人才培养研究 |
+> | [远程教育杂志](https://navi.cnki.net/knavi/journals/YCJY/detail) | 浙江开放大学主办，开放教育技术与数字化教学前沿 |
+> | [中国大学教学](https://navi.cnki.net/knavi/journals/JXCY/detail) | 高等教育出版社主办，高校本科教学改革与专业课程建设 |
+> | [中国电化教育](https://navi.cnki.net/knavi/journals/ZDJY/detail) | 中央电化教育馆主办，教育信息化推进与智能教学应用 |
+> | [中国高等教育](https://navi.cnki.net/knavi/journals/ZGDJ/detail) | 中华人民共和国教育部主管，高校办学方向与高教政策指导 |
+> | [中国高教研究](https://navi.cnki.net/knavi/journals/ZGGJ/detail) | 中国高等教育学会主办，高等教育宏观政策与学术研究 |
+> | [中国教育学刊](https://navi.cnki.net/knavi/journals/ZJYX/detail) | 中国教育学会主办，面向基础教育理论与教育实践创新 |
+> | [中国特殊教育](https://navi.cnki.net/knavi/journals/ZDTJ/detail) | 中国教育科学研究院主办，特殊儿童心理发展与融合教育理论 |
+> | [中国远程教育](https://navi.cnki.net/knavi/journals/DDJY/detail) | 国家开放大学主办，数字化终身教育与开放远程教育发展 |
 
 > [!index-table] 搜索引擎
 > | 引擎 | 说明 |
