@@ -3,14 +3,13 @@ title: Heterogeneity
 aliases:
   - 异质性
   - 研究间异质性
-  - heterogeneity
 summary: "跨研究或同一群体内部超出抽样误差的系统性变异；在量化元分析中表征效应量分布发散并提示探索调节变量，在混合方法与复杂性理论中揭示统计同质性遮蔽的质性动因多样性与世界的非线性开放特征。"
 type: concept
 domain: "research-methodology"
-related_count: 35
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 22
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - heterogeneity
   - meta-analysis
@@ -18,48 +17,33 @@ tags:
   - complexity-theory
   - research-methodology
 related_concepts:
-  - "[[Effect Size]]"
   - "[[Sampling Error]]"
-  - "[[Causality]]"
+  - "[[Effect Size]]"
+  - "[[Rich and Thick Description]]"
   - "[[Sample Size Determination]]"
   - "[[Forest Plot]]"
-  - "[[Hypothesis]]"
-  - "[[Variable]]"
-  - "[[Epistemology]]"
-  - "[[Student-Teacher Relationship]]"
-  - "[[Visible Learning]]"
-  - "[[Positivism]]"
-  - "[[Paradigm]]"
-  - "[[Tracking]]"
   - "[[Unit of Analysis]]"
-  - "[[Emergence]]"
 related_theories:
-  - "[[Critical Realism]]"
-  - "[[Realist Evaluation]]"
   - "[[Complexity Theory]]"
+  - "[[Critical Realism]]"
 related_methods:
   - "[[Meta-analysis]]"
-  - "[[Random Sampling]]"
-  - "[[Moderator Analysis]]"
-  - "[[Cochran's Q Test]]"
-  - "[[Fixed-Effect and Random-Effects Models]]"
-  - "[[Randomised Controlled Trials]]"
-  - "[[Meta-meta-analysis]]"
   - "[[Mixed Methods Research]]"
+  - "[[Moderator Analysis]]"
+  - "[[Random Sampling]]"
+  - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Cochran's Q Test]]"
 related_persons:
   - "[[Karl Pearson]]"
   - "[[Gene Glass]]"
-  - "[[John Hattie]]"
 related_arguments:
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
   - "[[Argument_Higgins_2016_RE]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
   - "[[Argument_Wrigley_2018_BERJ]]"
-  - "[[Argument_Wrigley_2019_ERE]]"
+  - "[[Argument_Wiliam_2019_ERE]]"
   - "[[Argument_Simpson_2017_JEP]]"
   - "[[Argument_Terhart_2011_JCS]]"
-  - "[[Argument_Wiliam_2019]]"
-related_facts:
-  - "[[Education Endowment Foundation]]"
+related_facts: []
 confidence: high
 status: draft
 created: 2026-06-08
@@ -104,7 +88,7 @@ updated: 2026-09-09
 > | **表现形式** | 各实证研究效应量之间的数学发散（Q 检验、$I^2$ 统计量） | 针对同一表层结果（如赞同“学校像监狱”），行动者主观归因与价值理由的深层分化 | 单一研究中样本统计量围绕总体真实参数的偶然随机偏离 |
 > | **处理原则** | 选用[[Fixed-Effect and Random-Effects Models\|随机效应模型]]并执行[[Moderator Analysis\|调节变量分析]] | 运用质性访谈与[[Rich and Thick Description\|深描]]透视微观机制，实施混合方法三角验证 | 增加[[Sample Size Determination\|样本容量]]以稀释并抵消随机涨落 |
 > | **方法论价值** | 警示合成研究是否面临“苹果与橙子”粗暴合并的风险 | 破解单一统计指标造成的均质化幻觉，揭示行动意图与机制多样性 | 充能量化假设检验与计算标准误的数理基底 |
-> | **代表文献** | Higgins (2016); Glass (1976) | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 23)]]; Feilzer (2010) | Robinson (1950); Coe (2002) |
+> | **代表文献** | [[Argument_Higgins_2016_RE\|Higgins (2016)]]; Glass (1976) | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 23)]]; Feilzer (2010) | Robinson (1950); Coe (2002) |
 
 ---
 
@@ -135,7 +119,7 @@ updated: 2026-09-09
 > **变异性探索优于单一平均效应量** 在高度情境化的教育实践中，单一平均效应量往往会抹平具有决定意义的实质差异；探索异质性的来源（干预在何种边界条件下有效、对谁有效）比计算虚假的普遍平均值具有更高的理论与实践价值。[[Argument_Higgins_2016_RE|(Higgins, 2016, p. 37)]]; [[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 14)]]
 
 > [!exegesis] 命题支撑案例：反馈研究中的正负双向撕裂
-> Kluger & DeNisi（1996）对课堂反馈研究的元分析表明，尽管总体平均效应量达到 $+0.40$ 标准差，但由于极高的异质性（效应量标准差超过 1.0），有超过三分之一（38%）的研究中反馈反而产生了显著负面效果。粗暴给出一个“反馈有效”的单一均值，完全无法指导一线教师如何避免引发反作用，唯有解构其异质性机制才能把握教学实质。[[Argument_Wiliam_2019|(Wiliam, 2019, p. 10)]]
+> Kluger & DeNisi（1996）对课堂反馈研究的元分析表明，尽管总体平均效应量达到 $+0.40$ 标准差，但由于极高的异质性（效应量标准差超过 1.0），有超过三分之一（38%）的研究中反馈反而产生了显著负面效果。粗暴给出一个“反馈有效”的单一均值，完全无法指导一线教师如何避免引发反作用，唯有解构其异质性机制才能把握教学实质。[[Argument_Wiliam_2019_ERE|(Wiliam, 2019, p. 10)]]
 
 ---
 
@@ -168,8 +152,8 @@ updated: 2026-09-09
 > [!contrast-table] 围绕异质性形成的理论命题总览
 > | 命题类型 | 核心主张 | 方法论机制 | 代表文献 |
 > |---|---|---|---|
-> | **因果机制信号命题** | 异质性非噪声，而是通向教育因果边界与干预机制的关键信号 | 调节变量分析、CMO 配置探寻 | Higgins (2016); Wrigley (2018) |
-> | **去情境化批判命题** | 多级统计合成强行抹除异质性，导致统计炼金术与政策失真 | 逐级清洗批判、测量偏误解构 | Feinstein (1995); Simpson (2017) |
+> | **因果机制信号命题** | 异质性非噪声，而是通向教育因果边界与干预机制的关键信号 | 调节变量分析、CMO 配置探寻 | [[Argument_Higgins_2016_RE\|Higgins (2016)]]; [[Argument_Wrigley_2018_BERJ\|Wrigley (2018)]] |
+> | **去情境化批判命题** | 多级统计合成强行抹除异质性，导致统计炼金术与政策失真 | 逐级清洗批判、测量偏误解构 | Feinstein (1995); [[Argument_Simpson_2017_JEP\|Simpson (2017)]] |
 > | **质性解释穿透命题** | 表层统计同质性遮蔽深层动因异质性，需以混合方法深入解构 | 质性动机深描、学校像监狱范例 | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 23)]] |
 > | **复杂系统公理命题** | 异质性是复杂社会系统基石，拒斥宏大封闭理论并呼唤多元视角 | 开放系统、涌现共生、异质声音倾听 | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 32)]]; Layder (1994) |
 
@@ -203,7 +187,7 @@ updated: 2026-09-09
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, pp. 11, 23, 32)]] — 提出“学校像监狱”100 人质性归因案例，论证单一统计指标对解释异质性的遮蔽，并阐明复杂性理论中异质性作为多重视角与多元范式倡导的核心公理。
 > - [[Argument_Higgins_2016_RE|Higgins (2016)]] — 系统阐述元分析中异质性检验的统计学机制（Q、I²、固定/随机效应模型）及调节变量分析的理论价值。
 > - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 对比分析英国 EEF 工具包中的反馈与教学助理项目，解构多级统计聚合抹杀教学情境异质性带来的政策风险。
-> - [[Argument_Wiliam_2019|Wiliam (2019)]] — 援引反馈研究中高达 38% 的负效应实证数据，论证去情境化平均效应量的误导性。
+> - [[Argument_Wiliam_2019_ERE|Wiliam (2019)]] — 援引反馈研究中高达 38% 的负效应实证数据，论证去情境化平均效应量的误导性。
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 揭示哈蒂《可见的学习》等元-元分析在多级累积聚合中造成原始经验变异与异质信息的不可逆遗失。
 > - [[Argument_Simpson_2017_JEP|Simpson (2017)]] — 实证揭示教育元分析中效应量异质性受制于测量工具有意/无意的人工设计偏差。
 

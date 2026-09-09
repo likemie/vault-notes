@@ -90,7 +90,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-09-08
+updated: 2026-09-09
 ---
 
 # Postpositivism
@@ -113,14 +113,14 @@ updated: 2026-09-08
 
 后实证主义的经典表述凸显了知识从绝对确定性走向尝试性推测的历史转向。
 
-> [!citation-card]- 关键表述一：批判理性主义与推测性知识本质
-> 关于世界的知识是推测性的（conjectural）、可证伪的（falsifiable）、可挑战的（challengeable）、变化中的（changing）。安全的、一劳永逸的基础知识和关于单一客观实在的宏大叙事，被尝试性的推测（tentative speculation）所取代——研究者提出多重视角和多重理据（multiple perspectives and multiple warrants）；世界是多层次的（multilayered），能够容纳多重解释。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, p. 732)]]
+> [!citation-card] 批判理性主义与推测性知识本质
+> 关于世界的知识是推测性的（conjectural）、可证伪的（falsifiable）、可挑战的（challengeable）、变化中的（changing）。安全的、一劳永逸的基础知识和关于单一客观实在的宏大叙事，被尝试性的推测（tentative speculation）所取代——研究者提出多重视角和多重理据（multiple perspectives and multiple warrants）；世界是多层次的（multilayered），能够容纳多重解释。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 27)]]
 >
 > *Knowledge about the world is conjectural, falsifiable, challengeable, changing. Safe, once-and-for-all foundational knowledge and grand narratives about a single objective reality are replaced by tentative speculation—researchers put forward multiple perspectives and multiple warrants; the world is multilayered, able to hold multiple interpretations.*
 
 面对战后英美实证学派对历史与质性探究的贬斥，后实证认识论进一步挖掘了欧洲大陆深厚的广义科学传统。
 
-> [!citation-card]- 关键表述二：打破狭隘实证垄断与德语广义科学体系
+> [!citation-card] 德语广义科学传统与学术合法性
 > 对历史比较教育‘非科学’的批评，本身建立在对英语‘科学’（Science）一词的狭隘解释之上——该词往往仅指自然科学或经验实证社会科学的认识论与方法论。然而，德语词 *Wissenschaft* 和希腊语词 *Episteme* 指称的是同时适用于人文艺术与科学的系统化智识体系。若在广义的 *Wissenschaft* 或 *Episteme* 意义上理解科学，历史比较传统便完全具备正当的科学合法性。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 56)]]
 >
 > *The criticism that historical comparative education was 'unscientific' was itself based on the restrictive interpretation of the English term 'science', which, more often than not, refers to the epistemology and methodology of the natural sciences or the empirical positivistic social sciences. But... the German term Wissenschaft and the Greek word episteme denote intellectual systems that apply to both the arts and the sciences. If 'science' is interpreted in the broader sense of episteme or Wissenschaft, then [the historical comparative tradition] could legitimately be called 'scientific'.*
