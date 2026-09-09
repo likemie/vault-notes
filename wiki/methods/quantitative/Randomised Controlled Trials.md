@@ -166,7 +166,7 @@ updated: 2026-09-09
 ## 方法定位
 
 > [!method-position] [[Epistemology|认识论]]与方法定位
-> - **知识观** RCT 隐含经验主义和[[Positivism|实证主义]]认识论：[[Hypothesis|假设]]通过人为创造封闭系统（稳定干预以外的所有[[Variable|变量]]），可以隔离单一干预的因果效应。这一假设在教育等开放系统中受到[[Critical Realism|批判实在论]]的挑战——多重因果力量在开放系统中同时作用（相互矛盾或加强），人造封闭条件无法忠实反映真实教育情境中的[[Causal Processes|因果过程]]（[[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp. 112–115]]）。
+> - **知识观** RCT 隐含[[Empiricism|经验主义]]和[[Positivism|实证主义]]认识论：[[Hypothesis|假设]]通过人为创造封闭系统（稳定干预以外的所有[[Variable|变量]]），可以隔离单一干预的因果效应。这一假设在教育等开放系统中受到[[Critical Realism|批判实在论]]的挑战——多重因果力量在开放系统中同时作用（相互矛盾或加强），人造封闭条件无法忠实反映真实教育情境中的[[Causal Processes|因果过程]]（[[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp. 112–115]]）。
 > - **研究者角色** [[Random Assignment|随机分配]]和变量控制旨在消除潜在混杂并追求客观中立，但其实验操作本身涉及对受试者的严格控制与变量操纵——“研究者是国王或女王，参与者是臣民”([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, p. 78]])。
 > - **有效性标准**[[Internal Validity|内部效度]]优先（通过随机分配消除混淆），但[[External Validity|外部效度]]常被牺牲。[[Argument_Wiliam_2019_ERE|Wiliam (2019, p.9)]] 从效度理论角度补充：继承 Cronbach (1971) 和 Messick (1989)，效度是推论的属性而非实验或测试的属性——即使是设计良好的 RCT，其推论的效度也取决于排除替代解释的能力，而这种能力随着新证据的[[Emergence|涌现]]而持续演变。
 > - **不声称回答的问题** RCT 只能告诉我们"在已被测试的条件下已测试过的干预的效果"（[[Argument_Wiliam_2019_ERE|Wiliam, 2019, p.7]]），不能直接回答干预为什么有效、如何在其他情境中起作用、或未来是否仍然有效。
@@ -198,10 +198,10 @@ updated: 2026-09-09
 
 ### 复杂性理论的挑战
 
-> [!tension] [[Complexity Theory|复杂性理论]]对受控实验与 RCT“黄金标准”的四大认识论解构
+> [!tension] [[Complexity Theory|复杂性理论]]对受控实验与 RCT“黄金标准”的四大[[Epistemology|认识论]]解构
 > 复杂性理论对在教育研究中奉为圭臬的随机对照试验（RCT）——所谓的证据“黄金标准”——发起了根本性的认识论反思（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, Ch. 1, pp. 28–30]]）：
-> - **“控制变量恒常”的逻辑悖论** 受控实验假定能够隔离并操纵单一变量而保持其他条件不变（ceteris paribus）。但在一个持续涌现、动态演进、高度关系性的开放教育世界中，保持变量恒常不仅在实操中是不可能的，更是极度误导的——研究者在受控条件下所精确测量到的，仅仅是早已死去的历史（What is measured is history, Morrison, 2001；正如赫拉克利特所言：人不可能两次踏入同一条河流）。
-> - **机械原子化对整体共生性的屠戮** 复杂适应系统（CAS）具有不可还原的协同效应与全息连接性。试图将课堂原子化分解为少数几个孤立变量并实施线性回归检验，必然彻底扼杀要素间不可或缺的动态协同（Morrison, 2008）。
+> - **“控制变量恒常”的逻辑悖论** 受控实验假定能够隔离并操纵单一变量而保持其他条件不变（ceteris paribus）。但在一个持续[[Emergence|涌现]]、动态演进、高度关系性的开放教育世界中，保持变量恒常不仅在实操中是不可能的，更是极度误导的——研究者在受控条件下所精确测量到的，仅仅是早已死去的历史（What is measured is history, Morrison, 2001；正如赫拉克利特所言：人不可能两次踏入同一条河流）。
+> - **机械原子化对整体共生性的屠戮** 复杂适应系统（[[Creativity, Action, Service|CAS]]）具有不可还原的协同效应与全息连接性。试图将课堂原子化分解为少数几个孤立变量并实施线性回归检验，必然彻底扼杀要素间不可或缺的动态协同（Morrison, 2008）。
 > - **精密测量的认识论盲区** 人类可以用无限精密的仪器去测量一个人身上每一个可观察的物理与行为变量，但究竟是什么让他/她成为他/她自己——其最核心的主体本质——却注定在原子化测量的缝隙中彻底逃逸。
 > - **[[Unit of Analysis|分析单位]]的根本重构** 弗里乔夫·卡普拉（Fritjof Capra）指出，教育研究必须摆脱将孤立个体、单一班级或孤立制度作为基本分析单位的旧习，将分析单位全面转向围绕特定关注焦点（奇异吸引子，strange attractors）所织就的动态关系网络与生态系统（Capra, 1996, p. 301）。
 
@@ -210,7 +210,7 @@ updated: 2026-09-09
 > - **动态、涌现与自组织的实在** 社会实在处于永恒生成之中，必须通过多元立体视角方能捕捉，无法被静态后测完全表征。
 > - **知者与被知者的共生演化** 研究者绝非置身事外的超然看客，其实验介入本身即构成复杂适应系统演进的动力要素。
 > - **假说的时间与情境深度依赖** 任何因果假说与干预结论均具有不可抽离的时空边界与情境附着性，去情境化的普遍因果推论并不成立。
-> - **因果关系的不可分割性** 系统内各实体互为因果、共同演化（co-evolution），单向线性的自变量-因变量因果链在复杂系统中彻底失效。
+> - **因果关系的不可分割性** 系统内各实体互为因果、共同演化（co-evolution），单向线性的[[Independent Variable|自变量]]-[[Dependent Variable|因变量]]因果链在复杂系统中彻底失效。
 > - **探究必然的价值涉入** 任何研究设计均不可避免地携带特定价值倾向，不存在绝对纯粹的实验中立。
 
 > [!citation-card] Kauffman 论复杂适应系统的自组织与自发秩序
@@ -410,5 +410,5 @@ updated: 2026-09-09
 > - [[Argument_Brady_2023_EPR|Brady et al. (2023)]] — 将[[Random Assignment|随机分配]]实验作为[[Intervention Research|干预研究]]中的更强子类进行趋势比较，发现其在顶刊中的比例从 2010 年的 23% 降至 2020 年的 20%([[Argument_Brady_2023_EPR|Brady et al., 2023, pp. 6–7]])。
 > - [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] — 全景比较 12 个教育清算中心对 RCT 的因果审查规程，实证揭示各中心虽均推崇 RCT，但因跨研究综合门槛割裂导致 35.4% 的极端评级冲突([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 9–11, 18–20]])。
 > - [[Tennessee STAR Project 1985-1989]] — 田纳西星级[[Class Size|班级规模]]实验，[[Argument_Wiliam_2019_ERE|Wiliam (2019)]] 揭示了其家长施压转组与数据差异缺失对随机分配的破坏。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, p. 28)]] — 阐明复杂性理论对受控实验与 RCT 黄金标准的四大认识论解构、Kuhn 复杂性五大公理以及分析单位向关系网络与生态系统的转向。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, p. 28)]] — 阐明[[Complexity Theory|复杂性理论]]对受控实验与 RCT 黄金标准的四大[[Epistemology|认识论]]解构、Kuhn 复杂性五大公理以及[[Unit of Analysis|分析单位]]向关系网络与生态系统的转向。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al. (2011, Ch. 4, p. 78)]] — 系统构建教育实验[[Causality|因果推断]]全景，详述概率因果、[[Counterfactual|反事实]]、[[Screening Off|筛选隔离]]与真实课堂复杂性对 RCT 的挑战（第 4 章、第 16 章）。

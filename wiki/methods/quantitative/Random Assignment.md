@@ -97,7 +97,7 @@ updated: 2026-07-13
 ## 方法定位
 
 > [!method-position] [[Epistemology|认识论]]与方法定位
-> - **知识观** 基于[[Positivism|实证主义]]与经验主义因果观。假定通过控制和消除混杂[[Variable|变量]]，可以直接从因果事件的恒常规则性（X 导致 Y）推导出[[Causality|因果关系]]。Cohen, Manion & Morrison (2011) 将样本随机化列为[[Quantitative Research|量化研究]]效度的九项实证主义前提之一——与可控性、可复制性、可预测性、[[External Validity|可推广性]]、去情境化、碎片化、中立性和可观测性并置。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 158–159)]]
+> - **知识观** 基于[[Positivism|实证主义]]与[[Empiricism|经验主义]]因果观。假定通过控制和消除混杂[[Variable|变量]]，可以直接从因果事件的恒常规则性（X 导致 Y）推导出[[Causality|因果关系]]。Cohen, Manion & Morrison (2011) 将样本随机化列为[[Quantitative Research|量化研究]]效度的九项实证主义前提之一——与可控性、可复制性、可预测性、[[External Validity|可推广性]]、去情境化、碎片化、中立性和可观测性并置。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 158–159)]]
 > - **在因果推断中的角色** 随机化是对 Holland (1986) 因果推断基本问题的统计解决方案——一个人不能同时处于实验组和控制组，但随机化使两组在期望上等价，从而用控制组平均结果替代实验组的[[Counterfactual|反事实]]结果（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16, p. 313]]）。
 > - **研究者角色** 作为客观的操控者和观察者，设计随机程序以隔离混杂变量，排除主观判断干扰。
 > - **有效性标准** 主要服务于[[Internal Validity|内部效度]]。高[[Reliability|信度]]的随机分配能最大限度排除选择偏误（Selection Bias）。

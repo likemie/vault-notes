@@ -142,7 +142,7 @@ updated: 2026-09-06
 > > [!axis] “前科学经验采集”批判 vs. “深层制度[[Ethnography|民族志]]”正名
 > > 二十世纪后半叶[[Positivism|实证主义]]比较学者与历史诠释派对[[Victor Cousin|库森]]报告的学科史地位展开激烈论战。
 > >
-> > - **实证主义[[Paradigm|范式]]代表（Noah & Eckstein, 1969）** 贬低 19 世纪库森与曼的报告为“前科学的直觉经验主义”，指责其充满主观价值偏好，缺乏客观统计测量与因果[[Hypothesis|假设]]检验。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 32–33)]]
+> > - **实证主义[[Paradigm|范式]]代表（Noah & Eckstein, 1969）** 贬低 19 世纪库森与曼的报告为“前科学的直觉[[Empiricism|经验主义]]”，指责其充满主观价值偏好，缺乏客观统计测量与因果[[Hypothesis|假设]]检验。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 32–33)]]
 > > - **历史学派学者（Holmes, 1965; [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias, 2009]]）** 驳斥实证派的辉格史偏见，正名库森报告为极具穿透力的“制度编年史与教育民族志”。库森不仅详尽考订法理条文，更敏锐揭示了学校机器与国家理性、[[Faculty Psychology|官能心理学]]之间的深层有机联系。（pp. 32–34）
 >
 > > [!axis] 民主借用专制制度的意识形态张力

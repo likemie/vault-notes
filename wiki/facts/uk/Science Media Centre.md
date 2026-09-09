@@ -52,7 +52,7 @@ updated: 2026-09-03
 
 > [!policy-context] 机构背景与成立渊源
 > - **成立时间 / 设立地点** 2002 年 4 月正式运营，独立实体常设于伦敦威康信托基金会（Wellcome Trust）总部。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026, p. 56)]]
-> - **历史诱因与制度起源** 诞生于 20 世纪末英国狂牛病（BSE）、转基因食品（GM Crops，被称为“科学怪人食品”Frankenfoods）与三联疫苗（MMR）引发的严重社会恐慌与媒介信任危机。英国上议院科学技术特别委员会（House of Lords Select Committee on Science and Technology）2000 年发布第三报告《科学与社会》（Science and Society），明确呼吁建立专业中介机构重构媒体与科技共同体之间的互信纽带。
+> - **历史诱因与制度起源** 诞生于 20 世纪末英国狂牛病（BSE）、转基因食品（GM Crops，被称为“科学怪人食品”Frankenfoods）与三联疫苗（[[Mixed Methods Research|MMR]]）引发的严重社会恐慌与媒介信任危机。英国上议院科学技术特别委员会（House of Lords Select Committee on Science and Technology）2000 年发布第三报告《科学与社会》（Science and Society），明确呼吁建立专业中介机构重构媒体与科技共同体之间的互信纽带。
 > - **机构定位与治理架构** 作为独立慈善机构运作，拥有专属受托人董事会与独立科学顾问委员会；为保障中立性与公信力，严控单一机构的资助上限（任何机构资助额不得超过年度总预算的 5%），资金来自高校、慈善基金会、媒体机构、科研学会及企业。
 
 ---

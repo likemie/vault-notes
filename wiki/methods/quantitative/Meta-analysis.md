@@ -290,7 +290,7 @@ flowchart LR
 
 > [!warning] 核心批判维度导览
 > 1. **研究可比性危机（“苹果与橙子”问题）** 将不同干预定义、测量工具与实施情境的研究强行平均，产生无意义的统计噪音（Eysenck, 1978; [[Argument_Higgins_2016_RE|Higgins, 2016]]）。
-> 2. **输入质量决定论（“垃圾进，垃圾出”）** 低质量、高偏倚的初级研究合并后不仅不能相互抵消，反而会产生虚假的“高精度错误估计”（Slavin, 1984; [[Argument_Berk_2011_ER|Berk, 2011]]）。
+> 2. **输入质量[[Determinism|决定论]]（“垃圾进，垃圾出”）** 低质量、高偏倚的初级研究合并后不仅不能相互抵消，反而会产生虚假的“高精度错误估计”（Slavin, 1984; [[Argument_Berk_2011_ER|Berk, 2011]]）。
 >    - *现代破局防线* 当代循证元分析（如 [[Argument_Chen_Cheung_2025_ERR|Chen & Cheung, 2025]]）通过确立严格的前端实验设计准入门槛（[[Sample Size Determination|样本量]]每组 $\ge 15$、设立对照组、[[Baseline Standardized Mean Difference|基线等效性]] $d_{\text{baseline}} < 0.25$），构建了抵御低质偏倚的方法学防火墙；实证研究证实该门槛能有效消除准实验与 RCT 之间的系统性效应差异（$Q_B$ 组间异质性检验不显著），实现证据池的源头净化。
 > 3. **统计独立性[[Hypothesis|假设]]违背** 同一研究提供多重结局测量造成数据嵌套依赖，人为虚窄[[Standard Error|标准误]]（Wolf, 1986; Cheung, 2014）。
 > 4. **平均效应掩盖[[Heterogeneity|异质性]]与因果机制** 平均[[Effect Size|效应量]]无法回答“干预对谁有效、在何种情境下有效”，可能掩盖高达 38% 的负向效应子群（Kluger & DeNisi, 1996; [[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019]]）。
@@ -324,7 +324,7 @@ flowchart LR
 > | [[Meta-meta-analysis]] | 上位方法 | 汇总多个一阶元分析的二阶统计综合方法 |
 > | [[Forest Plot]] | 可视化工具 | 展示研究效应量点估计与[[Confidence Interval\|置信区间]]的标准图表 |
 > | [[Funnel Plot]] | 可视化工具 | 诊断[[Publication Bias\|发表偏倚]]与[[Small Study Effects\|小研究效应]]的散点图 |
-> | [[Critical Realism]] | [[Epistemology\|认识论]]基础 | 批判实在论对元分析经验主义平均值假设的哲学批判 |
+> | [[Critical Realism]] | [[Epistemology\|认识论]]基础 | 批判实在论对元分析[[Empiricism\|经验主义]]平均值假设的哲学批判 |
 
 ---
 

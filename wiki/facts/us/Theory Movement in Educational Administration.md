@@ -72,7 +72,7 @@ updated: 2026-05-18
 >
 > **悖论**
 >
-> [[Argument_Eacott_2015_EPT|Eacott (2015)]]指出理论运动的内在矛盾：试图以"科学"取代实践者的无理论经验知识，但其"科学"模型（逻辑经验主义）仍然是一种探究技术而非理论——实际上是用方法论替代了理论。
+> [[Argument_Eacott_2015_EPT|Eacott (2015)]]指出理论运动的内在矛盾：试图以"科学"取代实践者的无理论经验知识，但其"科学"模型（逻辑[[Empiricism|经验主义]]）仍然是一种探究技术而非理论——实际上是用方法论替代了理论。
 
 ## 关键文件
 
@@ -92,7 +92,7 @@ updated: 2026-05-18
 >
 > **反叛：Greenfield 的挑战（1974）**
 >
-> 1974 年（或如 Bates 所论证的，实际上始于 1973 年 New Orleans 的 AERA 年会），在英国 Bristol 的国际互访项目（International Intervisitation Programme）上，**[[Thomas Barr Greenfield]]** 挑战了理论运动的美国实用经验主义和一个客观行政科学的[[Theory of Knowledge|知识论]][[Hypothesis|假设]]([[Argument_Eacott_2015_EPT|Eacott, 2015, p.316]])。
+> 1974 年（或如 Bates 所论证的，实际上始于 1973 年 New Orleans 的 AERA 年会），在英国 Bristol 的国际互访项目（International Intervisitation Programme）上，**[[Thomas Barr Greenfield]]** 挑战了理论运动的美国实用[[Empiricism|经验主义]]和一个客观行政科学的[[Theory of Knowledge|知识论]][[Hypothesis|假设]]([[Argument_Eacott_2015_EPT|Eacott, 2015, p.316]])。
 >
 > Greenfield 的核心知识论主张：我们所有关于实在——自然和社会——的知识都包含不可还原的主观成分；**客观性是一个神话**——在自然科学和社会科学中都是如此。他呼吁一种"人性科学"（humane science）（Greenfield & Ribbins, 1993，引自）。
 >
