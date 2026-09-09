@@ -16581,6 +16581,17 @@
     ]
   },
   {
+    "title": "John Rex",
+    "type": "person",
+    "path": "wiki/persons/uk/John Rex.md",
+    "aliases": [
+      "约翰·雷克斯",
+      "雷克斯",
+      "Rex, J.",
+      "John Arderne Rex"
+    ]
+  },
+  {
     "title": "Jonathan Sharples",
     "type": "person",
     "path": "wiki/persons/uk/Jonathan Sharples.md",
@@ -16810,6 +16821,16 @@
     ]
   },
   {
+    "title": "Peter Woods",
+    "type": "person",
+    "path": "wiki/persons/uk/Peter Woods.md",
+    "aliases": [
+      "彼得·伍兹",
+      "伍兹",
+      "Woods, P."
+    ]
+  },
+  {
     "title": "Ray Pawson",
     "type": "person",
     "path": "wiki/persons/uk/Ray Pawson.md",
@@ -16923,6 +16944,17 @@
     ]
   },
   {
+    "title": "Abraham Maslow",
+    "type": "person",
+    "path": "wiki/persons/us/Abraham Maslow.md",
+    "aliases": [
+      "亚伯拉罕·马斯洛",
+      "马斯洛",
+      "Maslow, A. H.",
+      "Abraham H. Maslow"
+    ]
+  },
+  {
     "title": "Alex Osborn",
     "type": "person",
     "path": "wiki/persons/us/Alex Osborn.md",
@@ -17002,6 +17034,17 @@
       "Stowe, C.",
       "Stowe (1837)",
       "Stowe, 1837"
+    ]
+  },
+  {
+    "title": "Carl Rogers",
+    "type": "person",
+    "path": "wiki/persons/us/Carl Rogers.md",
+    "aliases": [
+      "卡尔·罗杰斯",
+      "罗杰斯",
+      "Rogers, C. R.",
+      "Carl R. Rogers"
     ]
   },
   {
@@ -17239,6 +17282,17 @@
     ]
   },
   {
+    "title": "Jack Douglas",
+    "type": "person",
+    "path": "wiki/persons/us/Jack Douglas.md",
+    "aliases": [
+      "杰克·道格拉斯",
+      "道格拉斯",
+      "Jack D. Douglas",
+      "Douglas, J. D."
+    ]
+  },
+  {
     "title": "Jacob Cohen",
     "type": "person",
     "path": "wiki/persons/us/Jacob Cohen.md",
@@ -17459,6 +17513,17 @@
       "James Stigler",
       "The Learning Gap",
       "学习鸿沟"
+    ]
+  },
+  {
+    "title": "Stuart Kauffman",
+    "type": "person",
+    "path": "wiki/persons/us/Stuart Kauffman.md",
+    "aliases": [
+      "斯图尔特·考夫曼",
+      "考夫曼",
+      "Kauffman, S. A.",
+      "Stuart A. Kauffman"
     ]
   },
   {
