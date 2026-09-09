@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Generative Artificial Intelligence",
-      "path": "wiki/concepts/educational-technology/Generative Artificial Intelligence.md"
+      "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01",
+      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01.md"
     },
     {
-      "basename": "Affective Outcomes",
-      "path": "wiki/concepts/educational-psychology/Affective Outcomes.md"
+      "basename": "Jack Douglas",
+      "path": "wiki/persons/us/Jack Douglas.md"
     },
     {
-      "basename": "Academic Achievement",
-      "path": "wiki/concepts/educational-psychology/Academic Achievement.md"
+      "basename": "Thomas Kuhn",
+      "path": "wiki/persons/us/Thomas Kuhn.md"
+    },
+    {
+      "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge",
+      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge.md"
     },
     {
       "basename": "Anthony Giddens",
@@ -29,6 +33,18 @@
       "path": "wiki/arguments/journal-articles/Review of Educational Research/Argument_Abrami_2015_RER.md"
     },
     {
+      "basename": "Generative Artificial Intelligence",
+      "path": "wiki/concepts/educational-technology/Generative Artificial Intelligence.md"
+    },
+    {
+      "basename": "Affective Outcomes",
+      "path": "wiki/concepts/educational-psychology/Affective Outcomes.md"
+    },
+    {
+      "basename": "Academic Achievement",
+      "path": "wiki/concepts/educational-psychology/Academic Achievement.md"
+    },
+    {
       "basename": "Analytical Stance",
       "path": "wiki/concepts/educational-policy-reform/Analytical Stance.md"
     },
@@ -39,10 +55,6 @@
     {
       "basename": "template-instrument",
       "path": "wiki/templates/template-instrument.md"
-    },
-    {
-      "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01",
-      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01.md"
     },
     {
       "basename": "Axiology",
@@ -187,18 +199,6 @@
     {
       "basename": "Scientism",
       "path": "wiki/concepts/educational-philosophy/Scientism.md"
-    },
-    {
-      "basename": "Søren Kierkegaard",
-      "path": "wiki/persons/denmark/Søren Kierkegaard.md"
-    },
-    {
-      "basename": "Ontology",
-      "path": "wiki/concepts/educational-philosophy/Ontology.md"
-    },
-    {
-      "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge",
-      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge.md"
     }
   ],
   "omittedPaths": [],

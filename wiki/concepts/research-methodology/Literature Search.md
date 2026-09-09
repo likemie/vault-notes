@@ -277,6 +277,21 @@ Creswell 提出了一套系统的[[Document|文献]]检索流程（[[Argument_Cr
 > | [中国特殊教育](https://navi.cnki.net/knavi/journals/ZDTJ/detail) | 中国教育科学研究院主办，特殊儿童心理发展与融合教育理论 |
 > | [中国远程教育](https://navi.cnki.net/knavi/journals/DDJY/detail) | 国家开放大学主办，数字化终身教育与开放远程教育发展 |
 
+> [!index-table] 学科特色期刊：中文教学
+> | 期刊名称 | 主办单位与定位 |
+> |---|---|
+> | [华文教学与研究](https://navi.cnki.net/knavi/journals/JNHW/detail) | 暨南大学华文学院主办，国际中文教育与华语传承核心期刊（CSSCI 来源） |
+> | [世界汉语教学](https://navi.cnki.net/knavi/journals/SJHY/detail) | 北京语言大学主办，教育部名刊工程入选，汉语二语教学与汉语研究权威期刊（CSSCI / 北大核心） |
+> | [语文建设](https://navi.cnki.net/knavi/journals/YWJS/detail) | 教育部语言文字报刊社主办，全国中文核心期刊，聚焦语文课程改革与中小学语文教学 |
+
+> [!index-table] 学科特色期刊：地理教学
+> | 期刊名称 | 主办单位与定位 |
+> |---|---|
+> | [地理教学](https://navi.cnki.net/knavi/journals/DLJX/detail) | 华东师范大学主办，中国教育学会地理教学专业委员会会刊，全国中文核心期刊 |
+> | [地理教育](https://navi.cnki.net/knavi/journals/DLJY/detail) | 重庆师范大学主办，聚焦中学地理课堂教学、地理研学与复习备考 |
+> | [中学地理教学参考](https://navi.cnki.net/knavi/journals/ZDCK/detail) | 陕西师范大学主办，教育部主管，全国中文核心期刊，专注于中学地理教学实践 |
+> | [历史地理研究](https://navi.cnki.net/knavi/journals/LSDL/detail) | 复旦大学、中国地理学会主办，教育部主管，CSSCI 来源期刊，聚焦历史地理学与人地关系研究 |
+
 > [!index-table] 搜索引擎
 > | 引擎 | 说明 |
 > |---|---|
