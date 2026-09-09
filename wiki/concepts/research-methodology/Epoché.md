@@ -12,34 +12,22 @@ aliases:
 summary: "胡塞尔先验现象学的核心方法，主张中止对外部客观实在的自然态度并将世界放入括号，直面纯粹意识流与现象本身，深刻影响了质性研究中排除研究者先入之见的反思性质性态度。"
 type: concept
 domain: "research-methodology"
-related_count: 14
-related_level: 1
-related_stars: "⭐"
-related_color: "#e0e7ff"
+related_count: 3
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/phenomenology
   - paradigm/interpretive
   - theme/research-philosophy
   - qualitative-research
-related_concepts:
-  - "[[Epistemology]]"
-  - "[[Reflexivity]]"
-  - "[[Interpretive Paradigm]]"
-  - "[[Hypothesis]]"
-  - "[[Emic and Etic]]"
-  - "[[Double Hermeneutic]]"
-  - "[[Indexicality]]"
-  - "[[Rich and Thick Description]]"
+related_concepts: []
 related_theories:
   - "[[Phenomenology]]"
-  - "[[Symbolic Interactionism]]"
-related_methods:
-  - "[[Qualitative Research]]"
-  - "[[Ethnography]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Edmund Husserl]]"
-  - "[[Alfred Schutz]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"

@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Data Transformation",
-      "path": "wiki/concepts/research-methodology/Data Transformation.md"
+      "basename": "Unit of Analysis",
+      "path": "wiki/concepts/research-methodology/Unit of Analysis.md"
     },
     {
       "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01",
       "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01.md"
+    },
+    {
+      "basename": "Data Transformation",
+      "path": "wiki/concepts/research-methodology/Data Transformation.md"
     },
     {
       "basename": "Post-structuralism",
@@ -195,10 +199,6 @@
     {
       "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26",
       "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26.md"
-    },
-    {
-      "basename": "Qualitative Codebook",
-      "path": "wiki/concepts/research-methodology/Qualitative Codebook.md"
     }
   ],
   "omittedPaths": [],

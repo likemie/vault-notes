@@ -11,36 +11,21 @@ aliases:
 summary: "Geertz 提出的质性研究核心范畴，要求超越行为表面物理记录，将行动嵌入完整社会文化脉络，囊括意义、主观诠释与不可观察的情境要素，使读者获得现场共鸣并支持自然主义概括。"
 type: concept
 domain: "research-methodology"
-related_count: 24
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 12
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - research-methodology
   - qualitative-research
   - validity
   - paradigm/interpretive
 related_concepts:
-  - "[[Paradigm]]"
-  - "[[Epistemology]]"
-  - "[[Interpretive Paradigm]]"
-  - "[[Epistemic Commitments]]"
-  - "[[Trustworthiness]]"
-  - "[[Reliability]]"
-  - "[[Qualitative Validity]]"
-  - "[[Emic and Etic]]"
-  - "[[Naturalistic Generalization]]"
-  - "[[Creativity]]"
-  - "[[Dialogue in Education]]"
-  - "[[Reflexivity]]"
-  - "[[Double Hermeneutic]]"
   - "[[Indexicality]]"
-related_theories:
-  - "[[Ethnomethodology]]"
-  - "[[Symbolic Interactionism]]"
+  - "[[Naturalistic Generalization]]"
+related_theories: []
 related_methods:
   - "[[Coding in Qualitative Research]]"
-  - "[[Qualitative Research]]"
   - "[[Ethnography]]"
   - "[[Case Study]]"
 related_instruments:
@@ -49,11 +34,11 @@ related_persons:
   - "[[Clifford Geertz]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
+  - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28]]"
-  - "[[Argument_Creswell_2022_SAGE]]"
 confidence: high
 status: draft
 created: 2026-06-01

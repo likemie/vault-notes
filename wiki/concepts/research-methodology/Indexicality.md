@@ -9,10 +9,10 @@ aliases:
 summary: "加芬克尔常人方法学的核心概念，指言语陈述与社会行动的意义深嵌于产生它们的情境脉络与互动历史中，依赖参与者共享的默会理解而无法脱离语境独立存在。"
 type: concept
 domain: "research-methodology"
-related_count: 14
-related_level: 1
-related_stars: "⭐"
-related_color: "#e0e7ff"
+related_count: 4
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/micro-sociology
   - paradigm/interpretive
@@ -20,23 +20,12 @@ tags:
   - research-methodology
 related_concepts:
   - "[[Reflexivity]]"
-  - "[[Rich and Thick Description]]"
-  - "[[Social Episodes]]"
-  - "[[Epistemology]]"
-  - "[[Interpretive Paradigm]]"
-  - "[[Emic and Etic]]"
 related_theories:
   - "[[Ethnomethodology]]"
-  - "[[Symbolic Interactionism]]"
-related_methods:
-  - "[[Coding in Qualitative Research]]"
-  - "[[Qualitative Research]]"
-  - "[[Ethnography]]"
-related_instruments:
-  - "[[Flanders Interaction Analysis Categories]]"
+related_methods: []
+related_instruments: []
 related_persons:
   - "[[Harold Garfinkel]]"
-  - "[[Alfred Schutz]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
