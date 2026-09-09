@@ -7198,6 +7198,19 @@
     ]
   },
   {
+    "title": "Anthropomorphic Model",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Anthropomorphic Model.md",
+    "aliases": [
+      "拟人化模型",
+      "拟人模型",
+      "人的科学",
+      "Science of Persons",
+      "Anthropomorphic Approach",
+      "拟人化方法"
+    ]
+  },
+  {
     "title": "APA Style",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/APA Style.md",
@@ -8307,6 +8320,19 @@
     ]
   },
   {
+    "title": "Grand Theory",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Grand Theory.md",
+    "aliases": [
+      "宏大理论",
+      "宏大叙事",
+      "Grand Theories",
+      "Metanarrative",
+      "元叙述",
+      "元叙事"
+    ]
+  },
+  {
     "title": "Guilty Knowledge",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Guilty Knowledge.md",
@@ -8898,6 +8924,18 @@
       "负面案例分析",
       "deviant case analysis",
       "异常案例分析"
+    ]
+  },
+  {
+    "title": "Nominalism",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Nominalism.md",
+    "aliases": [
+      "唯名论",
+      "概念唯名论",
+      "哲学唯名论",
+      "社会唯名论",
+      "唯名主义"
     ]
   },
   {
@@ -12145,6 +12183,19 @@
       "符号互动论",
       "符号互动主义",
       "symbolic interaction"
+    ]
+  },
+  {
+    "title": "Thomas Theorem",
+    "type": "theory",
+    "path": "wiki/theories/sociology-of-education/Thomas Theorem.md",
+    "aliases": [
+      "托马斯定理",
+      "Thomas's Theorem",
+      "Definition of the Situation",
+      "情境定义",
+      "托马斯情境定理",
+      "托马斯公理"
     ]
   },
   {

@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01"
 argument_display_title: "Research Methods in Education · Ch01"
 argument_kind: "book-chapter"
-argument_related_count: 111
+argument_related_count: 115
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -38,14 +38,17 @@ related_concepts:
   - "[[Incommensurability]]"
   - "[[Paradigm Wars]]"
   - "[[Hypothesis]]"
+  - "[[Nominalism]]"
   - "[[Voluntarism]]"
   - "[[Determinism]]"
   - "[[Positivism]]"
   - "[[Scientific Method]]"
   - "[[Empiricism]]"
   - "[[Principle of Parsimony]]"
+  - "[[Grand Theory]]"
   - "[[Scientism]]"
   - "[[Interpretive Paradigm]]"
+  - "[[Anthropomorphic Model]]"
   - "[[Rich and Thick Description]]"
   - "[[Normative Paradigm]]"
   - "[[Epoché]]"
@@ -99,6 +102,7 @@ related_concepts:
   - "[[Growth]]"
   - "[[Metacognition]]"
 related_theories:
+  - "[[Thomas Theorem]]"
   - "[[Complexity Theory]]"
   - "[[Critical Realism]]"
   - "[[Critical Theory]]"
@@ -218,12 +222,12 @@ updated: 2026-09-09
 > - **哲学奠基与[[Paradigm|范式]]分野（第1–3节）**
 >   - **探究的本质与知识的求索** 研究的五层哲学推导框架（[[Axiology|价值论]]、[[Ontology|本体论]]、[[Epistemology|认识论]]、方法论、工具）；Mouly 认知世界的三种途径（经验、权威与常识的局限，推理的历史演进：[[Aristotle|亚里士多德]]三段论演绎、培根经验归纳革命、归纳-演绎循环结合）；Kerlinger 科学研究的三大本质属性（系统受控、经验检验、自我纠正）。
 >   - **范式理论与方法论统摄** 库恩范式概念的界定与科学共同体；科学发展的动态循环（常规科学、反常积累、危机、科学革命与范式转换）；天文学、物理学与社会科学的历史案例；[[Incommensurability|不可通约性]]论辩与教育研究“[[Paradigm Wars|范式战争]]”。
->   - **社会实在的两种构想与哲学[[Hypothesis|假设]]** Burrell & Morgan 的四组核心假设沿主观–客观维度的展开（唯名论 vs 实在论、反实证 vs 实证、[[Voluntarism|唯意志论]] vs [[Determinism|决定论]]、表意法 vs 通则法，复刻 Figure 1.1）；Barr Greenfield 诠释社会实在的替代基础（哲学基础、社会科学角色、社会实在单位、理解方式、理论、研究、方法论、社会、组织、组织病理学、变革处方，复刻 Table 1.1）。
+>   - **社会实在的两种构想与哲学[[Hypothesis|假设]]** Burrell & Morgan 的四组核心假设沿主观–客观维度的展开（[[Nominalism|唯名论]] vs 实在论、反实证 vs 实证、[[Voluntarism|唯意志论]] vs [[Determinism|决定论]]、表意法 vs 通则法，复刻 Figure 1.1）；Barr Greenfield 诠释社会实在的替代基础（哲学基础、社会科学角色、社会实在单位、理解方式、理论、研究、方法论、社会、组织、组织病理学、变革处方，复刻 Table 1.1）。
 > - **实证范式及其系统清算（第4–5节）**
->   - **[[Positivism|实证主义]]的逻辑与[[Scientific Method|科学方法]]** 孔德实证主义源流；[[Anthony Giddens|吉登斯]]两大核心假定；科学的四大信仰假设（[[Determinism|决定论]]、[[Empiricism|经验主义]]、[[Principle of Parsimony|简约原则]]、普遍性）；Mouly 经验科学五步法；静态知识累积观 vs 动态启发发现观；马斯洛科学九大功能（复刻 Box 1.1）；理论的本质、Morrison 三类理论谱系及对宏大理论“拜占庭式建筑辉煌但科学贫瘠”的批判；有效经验理论九大准则；科学家的核心工具（概念系统性与 Kerlinger/[[Peter Medawar|Medawar]] 假说论，复刻 Box 1.2）；科学发展的六个阶段（复刻 Box 1.3）与 Hitchcock & Hughes 八阶段科学方法模型（复刻 Box 1.4）。
+>   - **[[Positivism|实证主义]]的逻辑与[[Scientific Method|科学方法]]** 孔德实证主义源流；[[Anthony Giddens|吉登斯]]两大核心假定；科学的四大信仰假设（[[Determinism|决定论]]、[[Empiricism|经验主义]]、[[Principle of Parsimony|简约原则]]、普遍性）；Mouly 经验科学五步法；静态知识累积观 vs 动态启发发现观；马斯洛科学九大功能（复刻 Box 1.1）；理论的本质、Morrison 三类理论谱系及对[[Grand Theory|宏大理论]]“拜占庭式建筑辉煌但科学贫瘠”的批判；有效经验理论九大准则；科学家的核心工具（概念系统性与 Kerlinger/[[Peter Medawar|Medawar]] 假说论，复刻 Box 1.2）；科学发展的六个阶段（复刻 Box 1.3）与 Hitchcock & Hughes 八阶段科学方法模型（复刻 Box 1.4）。
 >   - **对实证主义与科学方法的系统批判** 机械还原论与生命经验的剥离；克尔凯郭尔存在主义批判：客观性幻觉与主观性能力的拯救；Ions 与 Horkheimer 反计算崇拜与数学化批判；Roszak 疏离论；Hampden-Turner 保守外在偏见批判；法兰克福学派与[[Jürgen Habermas|哈贝马斯]][[Scientism|科学主义]]批判、工具理性危机与维特根斯坦格言；社会科学内部的三重方法论反思：主体-主体前诠释世界、乔姆斯基行为主义批判与能动-结构张力、受控实验的实验室“合成木偶剧”琐碎化风险。
 > - **[[Interpretive Paradigm|诠释范式]]与第三次方法论运动（第6–7节）**
->   - **自然主义与诠释范式进路** 人本主义心理学（罗杰斯全人模式）与“人的科学”拟人化模型（[[Rom Harré|Harré]] & Secord “把人当作人类来对待”）；行为分析的事件分析法（[[Ethogenic Approach|ethogenic]] method）；教室互动案例[[Rich and Thick Description|深描]]：“草莓事件”与 [[Flanders Interaction Analysis Categories|FIAC]] 机械分类 7-4-9-10 的破产（复刻 Box 1.5）；自然主义与质性探究的 11 项核心特征；Douglas [[Normative Paradigm|规范范式]]（行为/过去因果/宏大理性大厦）vs 诠释范式（行动/未来意向/[[Grounded Theory|扎根理论]]与多面图像）；三大质性传统（胡塞尔[[Epoché|悬置]]与舒茨意识流、[[Reflexivity|反思性]]、[[Typification|类型化]]及多重实在；加芬克尔日常推理质疑、[[Indexicality|索引性]]与反思性、语言 vs 情境两流派；米德/布卢默/伍兹三大公理与五大互动焦点）；诠释范式的四重学术批判（Rex 虚假意识与客观视角、Bernstein 权力不对称与结构忽视、微观封闭与活动剧场局限、主观报告不可靠与自证预言）。
+>   - **自然主义与诠释范式进路** 人本主义心理学（罗杰斯全人模式）与“人的科学”[[Anthropomorphic Model|拟人化模型]]（[[Rom Harré|Harré]] & Secord “把人当作人类来对待”）；行为分析的事件分析法（[[Ethogenic Approach|ethogenic]] method）；教室互动案例[[Rich and Thick Description|深描]]：“草莓事件”与 [[Flanders Interaction Analysis Categories|FIAC]] 机械分类 7-4-9-10 的破产（复刻 Box 1.5）；自然主义与质性探究的 11 项核心特征（含[[Thomas Theorem|托马斯定理]]情境定义）；Douglas [[Normative Paradigm|规范范式]]（行为/过去因果/宏大理性大厦）vs 诠释范式（行动/未来意向/[[Grounded Theory|扎根理论]]与多面图像）；三大质性传统（胡塞尔[[Epoché|悬置]]与舒茨意识流、[[Reflexivity|反思性]]、[[Typification|类型化]]及多重实在；加芬克尔日常推理质疑、[[Indexicality|索引性]]与反思性、语言 vs 情境两流派；米德/布卢默/伍兹三大公理与五大互动焦点）；诠释范式的四重学术批判（Rex 虚假意识与客观视角、Bernstein 权力不对称与结构忽视、微观封闭与活动剧场局限、主观报告不可靠与自证预言）。
 >   - **[[Mixed Methods Research|混合方法研究]]：第三次方法论运动** 超越“非 0 即 1”二元对立，从范式战争走向方法论务实主义；[[Pragmatic Paradigm|实用主义]]哲学基础（实践驱动与“有效即真理”）；Johnson et al. 19 种定义谱系与九大合法化类型；Teddlie & Tashakkori 六大领域与七维度；Greene 四大领域；Caracelli & Greene 四大数据整合策略（[[Data Transformation|数据转换]]、类型学发展、极端案例分析、数据合并）；“学校像监狱”的 100 人[[Heterogeneity|异质性]]理由范例；六类设计类型学（平行、顺序、准混合、转换、多层、完全整合）；九大核心操作决策维度；关于混合方法是否构成“独立新范式”的论辩与审慎结论。
 > - **后现代转向与新兴前沿（第8–9节）**
 >   - **[[Postpositivism|后实证主义]]、[[Postmodernism|后现代主义]]与[[Post-structuralism|后结构主义]]** 现代主义“钟表宇宙观”的解体；后实证主义的可错论、理论负载与多元理据；Fredric Jameson 后现代主义 11 项核心特征全景解析；后结构主义 Foucault/Derrida 话语实践、去中心化主体与意义解构；三者的哲学亲缘谱系与方法论共振。
@@ -361,7 +365,7 @@ updated: 2026-09-09
 >
 > | 哲学维度 | 客观主义进路 | 主观主义进路 |
 > |---|---|---|
-> | **[[Ontology\|本体论（Ontology）]]** | **实在论（Realism）** 社会实在是外在于个体的客观存在，具有客观硬质性，并不依赖于个体的认识而存在，强加于个体的意识之上。社会组织与制度是具有自主生命周期的实体。 | **唯名论（Nominalism）** 外部世界不存在独立于知觉者的客体实体；所谓的“概念”与“实在”仅仅是人类用以指称事物的语言标签与词汇符号，社会现实是人类主体思维与认知的建构物。 |
+> | **[[Ontology\|本体论（Ontology）]]** | **实在论（Realism）** 社会实在是外在于个体的客观存在，具有客观硬质性，并不依赖于个体的认识而存在，强加于个体的意识之上。社会组织与制度是具有自主生命周期的实体。 | **[[Nominalism|唯名论（Nominalism）]]** 外部世界不存在独立于知觉者的客体实体；所谓的“概念”与“实在”仅仅是人类用以指称事物的语言标签与词汇符号，社会现实是人类主体思维与认知的建构物。 |
 > | **[[Epistemology\|认识论（Epistemology）]]** | **实证主义（Positivism）** 知识是硬性的、客观的、可累积与可度量的。研究者必须扮演中立、超然的旁观者角色，严格恪守自然科学的实验与经验验证规程。 | **反实证主义（Anti-positivism）** 知识是独特的、情境化的、主观体验的与个人化的。研究者必须深度介入被研究者的生活世界，分享其参照框架，拒绝套用自然科学的探究法则。 |
 > | **人性观** | **[[Determinism|决定论（Determinism）]]** 将人类行为视为对外部环境刺激或内在驱力的机械、决定性响应；人犹如受制于社会结构与环境变量的“提线木偶”。 | **[[Voluntarism|唯意志论（Voluntarism）]]** 人类是自身行动的自主发起者，具备自由意志、反思意识与[[Creativity\|创造力]]，能够在与环境的互动中积极塑造并改造其生活环境。 |
 > | **方法论** | **通则法（[[Nomothetic]]）** 旨在发现支配人类行为与社会运行的普遍法则与普遍规律；依赖量化测量、变量控制、数学建模与严密的统计假设检验。 | **表意法（[[Idiographic]]）** 聚焦于对具体个别案例、独特情境与个体生命叙事的深度理解与意义阐释；采用质性厚描述、语言意义解析与生活史分析。 |
@@ -484,7 +488,7 @@ updated: 2026-09-09
 
 > [!taxonomy] 科学理论的三大形态谱系（Morrison, 1995a）
 > - **经验理论** 深度根植于经验事实，直接接受实证检验、反驳与证伪，解释具体经验现象。
-> - **宏大理论** 高度抽象的思辨性元叙事，如正统马克思主义、功能主义与共识理论。罗伯特·默顿（Robert K. Merton）与德里克·莱德（Derek Layder）批判指出，宏大理论虽然具备“拜占庭式的建筑辉煌和逻辑一致性”，却往往在科学上极度贫瘠，脱离真实世界的流动性、异质性与碎片化特征（Merton, 1949; Layder, 1994）。
+> - **[[Grand Theory|宏大理论（Grand Theory）]]** 高度抽象的思辨性元叙事，如正统马克思主义、功能主义与共识理论。罗伯特·默顿（Robert K. Merton）与德里克·莱德（Derek Layder）批判指出，宏大理论虽然具备“拜占庭式的建筑辉煌和逻辑一致性”，却往往在科学上极度贫瘠，脱离真实世界的流动性、异质性与碎片化特征（Merton, 1949; Layder, 1994）。
 > - **[[Critical Theory|批判理论]]** 聚焦知识与权力的共生纽带，旨在揭示意识形态压迫、打破权力垄断并促进社会正义与解放。
 
 围绕何为优质的经验理论，[[Karl Popper|卡尔·波普尔]]（Karl Popper）、伊姆雷·拉卡托斯（Imre Lakatos）、拉里·劳丹（Larry Laudan）等科学哲学家提炼了有效经验理论的评估准则（Popper, 1968; Lakatos, 1970; Mouly, 1978; Laudan, 1990）：
@@ -605,7 +609,7 @@ updated: 2026-09-09
 > [!theory-components] “人的科学”与拟人化模型的核心构件
 > - **人本主义心理学**
 >   卡尔·罗杰斯（Carl Rogers）倡导以“全人”视角审视个体经验，确立积极、主动、目的导向的人性假说，优先采用表意法探究独特生命历程（Rogers, 1969）。
-> - **拟人化模型与事件分析法（Anthropomorphic Model & Ethogenic Method）**
+> - **[[Anthropomorphic Model|拟人化模型]]与事件分析法（Anthropomorphic Model & Ethogenic Method）**
 >   罗姆·哈雷（Rom Harré）与保罗·塞考德（Paul Secord）在社会心理学中疾呼：“为了科学本身的目的，请把人当作真正的人类来对待！”（Harré & Secord, 1972）。他们创立了事件分析法，主张通过探究行动者对特定社会情境片段的自我陈述，[[Decodification|解码]]行动背后的社会规则系统。
 
 #### 6.2 教室互动案例深描：“草莓事件”与 FIAC 机械分类的破产
@@ -644,7 +648,7 @@ updated: 2026-09-09
 > - **主体能动与意义建构**
 >     - **行动的审慎与创造性** 人类行动基于自主意图与意义赋予，绝非盲目生理本能（Blumer, 1969）。
 >     - **积极建构社会世界** 行动者绝非实证主义笔下的被动文化傀儡（cultural dopes, Garfinkel, 1967）。
->     - **行动受情境定义驱动** 恪守托马斯定理（Thomas's dictum）：“如果人们将某种情境定义为真实的，那么在后果上它就是真实的”（Thomas & Thomas, 1928；Morrison, 1998）。
+>     - **行动受情境定义驱动** 恪守[[Thomas Theorem|托马斯定理]]（Thomas's dictum）：“如果人们将某种情境定义为真实的，那么在后果上它就是真实的”（Thomas & Thomas, 1928；Morrison, 1998）。
 > - **社会实在的情境与多元性**
 >     - **情境的流动演进性** 事件深嵌于特定时空脉络中，展现为动态演进的处境化活动（situated activities）。
 >     - **事件与主体的独特性** 关注独特个案的丰富性，警惕脱离情境的粗暴普适化概括。
