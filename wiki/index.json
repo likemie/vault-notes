@@ -8097,14 +8097,16 @@
   {
     "title": "Epoché",
     "type": "concept",
-    "path": "wiki/concepts/research-methodology/Epoché.md",
+    "path": "wiki/concepts/research-methodology/Epoché.md",
     "aliases": [
       "悬置",
       "现象学悬置",
       "bracketing",
       "放入括号",
       "phenomenological reduction",
-      "现象学还原"
+      "现象学还原",
+      "括弧化",
+      "悬搁"
     ]
   },
   {
@@ -8220,18 +8222,6 @@
       "适合目的",
       "fitness-for-purpose",
       "methodological fit"
-    ]
-  },
-  {
-    "title": "Flanders Interaction Analysis Categories",
-    "type": "concept",
-    "path": "wiki/concepts/research-methodology/Flanders Interaction Analysis Categories.md",
-    "aliases": [
-      "FIAC",
-      "弗兰德斯互动分析",
-      "弗兰德斯语言互动分析分类体系",
-      "Flanders Interaction Analysis System",
-      "弗兰德斯互动分析系统"
     ]
   },
   {
@@ -8447,7 +8437,9 @@
     "aliases": [
       "索引性",
       "indexical expressions",
-      "索引表达式"
+      "索引表达式",
+      "语境依存性",
+      "索引性特征"
     ]
   },
   {
@@ -9631,7 +9623,9 @@
       "thick description",
       "rich description",
       "薄描述",
-      "深描"
+      "深描",
+      "丰富与厚密描述",
+      "浓描"
     ]
   },
   {
@@ -12614,7 +12608,12 @@
     "aliases": [
       "人因取向",
       "人因研究",
-      "ethogenic"
+      "ethogenic",
+      "民族发生法",
+      "民族发生学进路",
+      "行动生成进路",
+      "拟人化模型方法",
+      "ethogenic method"
     ]
   },
   {
@@ -14527,6 +14526,19 @@
       "问题解决测验",
       "PSI",
       "赫普纳问题解决量表"
+    ]
+  },
+  {
+    "title": "Flanders Interaction Analysis Categories",
+    "type": "instrument",
+    "path": "wiki/instruments/observations/Flanders Interaction Analysis Categories.md",
+    "aliases": [
+      "FIAC",
+      "弗兰德斯互动分析",
+      "弗兰德斯语言互动分析分类体系",
+      "Flanders Interaction Analysis System",
+      "弗兰德斯互动分析系统",
+      "FIAS"
     ]
   },
   {

@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Indexicality",
-      "path": "wiki/concepts/research-methodology/Indexicality.md"
+      "basename": "Data Transformation",
+      "path": "wiki/concepts/research-methodology/Data Transformation.md"
     },
     {
       "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01",
       "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01.md"
+    },
+    {
+      "basename": "Post-structuralism",
+      "path": "wiki/concepts/research-methodology/Post-structuralism.md"
+    },
+    {
+      "basename": "Postmodernism",
+      "path": "wiki/concepts/research-methodology/Postmodernism.md"
+    },
+    {
+      "basename": "Postpositivism",
+      "path": "wiki/concepts/research-methodology/Postpositivism.md"
+    },
+    {
+      "basename": "Heterogeneity",
+      "path": "wiki/concepts/research-methodology/Heterogeneity.md"
+    },
+    {
+      "basename": "Indexicality",
+      "path": "wiki/concepts/research-methodology/Indexicality.md"
     },
     {
       "basename": "Epoché",
@@ -15,10 +35,6 @@
     {
       "basename": "Rich and Thick Description",
       "path": "wiki/concepts/research-methodology/Rich and Thick Description.md"
-    },
-    {
-      "basename": "Flanders Interaction Analysis Categories",
-      "path": "wiki/concepts/research-methodology/Flanders Interaction Analysis Categories.md"
     },
     {
       "basename": "Ethogenic Approach",
@@ -183,22 +199,6 @@
     {
       "basename": "Qualitative Codebook",
       "path": "wiki/concepts/research-methodology/Qualitative Codebook.md"
-    },
-    {
-      "basename": "Max Weber",
-      "path": "wiki/persons/germany/Max Weber.md"
-    },
-    {
-      "basename": "Story Line",
-      "path": "wiki/concepts/research-methodology/Story Line.md"
-    },
-    {
-      "basename": "Transcription in Qualitative Research",
-      "path": "wiki/concepts/research-methodology/Transcription in Qualitative Research.md"
-    },
-    {
-      "basename": "Grounded Theory",
-      "path": "wiki/methods/qualitative/Grounded Theory.md"
     }
   ],
   "omittedPaths": [],

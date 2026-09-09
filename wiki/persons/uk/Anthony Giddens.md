@@ -15,7 +15,7 @@ summary: "英国当代社会学家与社会理论家，系统提出结构化理�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 14
+person_related_count: 17
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -32,19 +32,16 @@ tags:
   - research-methodology
 related_concepts:
   - "[[Double Hermeneutic]]"
-  - "[[Epistemology]]"
   - "[[Reflexivity]]"
+  - "[[Epistemology]]"
   - "[[Positivism]]"
-  - "[[Qualitative Research]]"
   - "[[Interpretive Paradigm]]"
   - "[[Emic and Etic]]"
   - "[[Rich and Thick Description]]"
 related_theories:
   - "[[Critical Theory]]"
-  - "[[Symbolic Interactionism]]"
 related_methods:
   - "[[Qualitative Research]]"
-  - "[[Discourse Analysis]]"
 related_instruments: []
 related_persons:
   - "[[Jürgen Habermas]]"
@@ -53,10 +50,10 @@ related_persons:
   - "[[Basil Bernstein]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02]]"
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02]]"
 confidence: high
 status: draft
 created: 2026-08-14
