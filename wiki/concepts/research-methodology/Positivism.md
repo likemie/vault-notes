@@ -9,7 +9,7 @@ aliases:
 summary: "一种主张真正知识唯独建立在感官经验、观察与实验基础之上的认识论立场，预设自然与社会遵循同质客观法则；在启蒙发轫期曾从属于全人道德教化与社会改良，而在20世纪演化为追求价值中立与法则概括的统治性实证范式。"
 type: concept
 domain: "research-methodology"
-related_count: 86
+related_count: 87
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -104,17 +104,18 @@ related_facts:
   - "[[IEA]]"
   - "[[OECD]]"
 related_arguments:
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
   - "[[Argument_Kazamias_2009_ForgottenThemes]]"
   - "[[Argument_Mattheou_2009_ScientificParadigm]]"
   - "[[Argument_Skourdoumbis_2024_AER]]"
+  - "[[Argument_Brady_2023_EPR]]"
   - "[[Argument_Sandoval_2005_SE]]"
   - "[[Argument_Cowen_2009_CE]]"
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-09-08
+updated: 2026-09-09
 ---
 
 # Positivism
@@ -126,7 +127,7 @@ updated: 2026-09-08
 实证主义（Positivism）是近代西方哲学与社会科学研究方法论中最具支配地位的[[Epistemology|认识论]][[Paradigm|范式]]之一，其核心主张在于将客观可证的感官经验视作一切有效知识的唯一基石。
 
 > [!def] 核心定义
-> 实证主义（Positivism）是一种主张人类所有真正的知识都必须基于感官经验、系统观察与受控实验的哲学[[Epistemic Stances|认识论立场]]。它坚决扬弃神学玄想与形而上学的第一因思辨，将自然科学的探究规范确立为人类知识的典范（Duncan, 1968）。实证主义不仅预设外部物理世界具有独立于观察者的客观规律，更坚信人类社会现象同样服从不可逆的因果决定论法则，因而可以通过客观测量与归纳推演建立普遍的实证定律。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1, p. 175)]]
+> 实证主义（Positivism）是一种主张人类所有真正的知识都必须基于感官经验、系统观察与受控实验的哲学[[Epistemic Stances|认识论立场]]。它坚决扬弃神学玄想与形而上学的第一因思辨，将自然科学的探究规范确立为人类知识的典范（Duncan, 1968）。实证主义不仅预设外部物理世界具有独立于观察者的客观规律，更坚信人类社会现象同样服从不可逆的因果决定论法则，因而可以通过客观测量与归纳推演建立普遍的实证定律。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 113)]]
 
 在教育探究与社会[[Scientific Method|科学方法]]论中，实证主义构成了连接微观测量与宏观政策设计的认知底座。
 
@@ -138,7 +139,7 @@ updated: 2026-09-08
 实证主义的经典表述强调了经验科学对传统思辨的彻底决裂。
 
 > [!citation-card] 孔德论实证主义哲学总纲
-> 所有真正的知识都基于感官经验，且只能通过观察和实验来推进；它追随经验主义传统，将探究和信念严格限制在可被经验牢固确立的界限之内，放弃通过纯粹理性获取终极真理的形而上学尝试。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1, p. 175)]]
+> 所有真正的知识都基于感官经验，且只能通过观察和实验来推进；它追随经验主义传统，将探究和信念严格限制在可被经验牢固确立的界限之内，放弃通过纯粹理性获取终极真理的形而上学尝试。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 113)]]
 >
 > *All genuine knowledge is based on sense experience and can only be advanced by means of observation and experiment... following the lead of the empiricists and lodging all inquiry and all belief within the framework of what can be solidly established by experience.*
 
@@ -178,10 +179,11 @@ updated: 2026-09-08
 实证主义历经两个世纪的演进，形成了内涵严密、自洽运作的理论构件体系。
 
 > [!feature] 核心要素
-> - **感官经验与反形而上学（Sense Experience & Anti-metaphysics）** 孔德确立的实证学说核心原则：真正知识唯以感官经验为源泉，严守观察与实验边界，坚决剔除不可证验的第一因与超验思辨。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, p. 175)]]
-> - **自然与社会的方法论统一（Methodological Unity）** 坚信自然科学的受控观察与因果分析程序完全可以直接平移至社会科学，社会科学家应当作为冷峻中立的外部实在观察者。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, p. 179)]]
-> - **法则概括的产出同构（Isomorphism of Outcome）** 预设社会研究的最终学术成果必须在形态上同构于自然科学，即表述为放之四海皆准的“普遍法则或类法则概括”（laws or law-like generalizations）。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, p. 180)]]
-> - **科学四大基本预设（Four Scientific Assumptions）** 实证研究的日常运作立足于决定论（因果必然性）、经验主义（[[Reliability|可靠性]]依凭经验证据）、简约原则（奥卡姆剃刀与最精简解释）以及普遍性（从局部样本外推至总体）。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, pp. 112–113)]]
+> - **感官经验与反形而上学（Sense Experience & Anti-metaphysics）** 孔德确立的实证学说核心原则：真正知识唯以感官经验为源泉，严守观察与实验边界，坚决剔除不可证验的第一因与超验思辨。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 113)]]
+> - **自然与社会的方法论统一（Methodological Unity）** 坚信自然科学的受控观察与因果分析程序完全可以直接平移至社会科学，社会科学家应当作为冷峻中立的外部实在观察者。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 115)]]
+> - **法则概括的产出同构（Isomorphism of Outcome）** 预设社会研究的最终学术成果必须在形态上同构于自然科学，即表述为放之四海皆准的“普遍法则或类法则概括”（laws or law-like generalizations）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 116)]]
+> - **科学四大基本预设（Four Scientific Assumptions）** 实证研究的日常运作立足于决定论（因果必然性）、经验主义（[[Reliability|可靠性]]依凭经验证据）、简约原则（奥卡姆剃刀与最精简解释）以及普遍性（从局部样本外推至总体）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, pp. 112–113)]]
+> - **科学探究的五阶段与假说演绎程序（Five Stages of Scientific Enquiry）** 实证经验科学遵循由莫利（Mouly, 1978）与克林格（Kerlinger, 1970）所界定的经典探究规程：由日常经验障碍激发的怀疑萌芽 $\rightarrow$ 明确界定问题与变量边界 $\rightarrow$ 提出可证伪的因果假说 $\rightarrow$ 严密演绎推导假说的经验蕴涵 $\rightarrow$ 通过受控实验或系统抽样开展假设检验与理论修正。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 114)]]
 > - **假说演义与可[[Operationalization|操作化]]测量（Operationalization & [[Hypothesis]]-testing）** 概念必须被转化为具体的测量指标与可量化[[Variable|变量]]，假说必须包含潜在反驳的具体经验条件（Popper, 1968; Kerlinger, 1970）。
 > - **古典道德统摄与社会改良取向（Melioristic Subordination）** 在 19 世纪现代主义发轫期，以[[Marc-Antoine Jullien|朱利安]]为代表的准实证主义坚守伦理优先性，经验事实分类系统服从于医治大革命后社会道德溃败、推进全人[[Bildung|教化]]与促进世界和平的崇高使命。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 13–14)]]
 > - **跨国量化验证与未来预测导向（Cross-national Quantification & Predictive Power）** 20 世纪中叶实证主义科学运动强调：比较研究必须超越历史回溯解释，以跨国可量化指标的操作化检验为手段，追求对未来改革后果的预测控制能力（predictive power），确立“科学比较教育”对“历史经验描述”的[[Paradigm|范式]]替代。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 53–54)]]
@@ -219,13 +221,13 @@ updated: 2026-09-08
 > 该维度关注实证主义如何将自然科学的技术模式外推为统辖人类社会事务的普适认识论准则，确立追求预测与控制的科学观。
 
 > [!claim] Comte, A.
-> **社会物理学与实证经验法则建构** 人类心灵从神学思辨走向实证阶段是不可抗拒的智识法则；社会现象与自然物理现象服从完全同质的不可逆因果律，探究者应当放弃寻求宇宙起源或第一因的形而上学狂妄，通过严谨的受控观察、实验与比较概括建立不变的客观定律，从而实现社会治理的科学化预测与理性调控。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1, p. 175)]]
+> **社会物理学与实证经验法则建构** 人类心灵从神学思辨走向实证阶段是不可抗拒的智识法则；社会现象与自然物理现象服从完全同质的不可逆因果律，探究者应当放弃寻求宇宙起源或第一因的形而上学狂妄，通过严谨的受控观察、实验与比较概括建立不变的客观定律，从而实现社会治理的科学化预测与理性调控。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 113)]]
 
 > [!claim] [[Anthony Giddens|Giddens]], A.
-> **方法论统一与产出同构双重[[Hypothesis|假设]]** 经典实证主义对社会探究的建构依赖于两大核心预设：其一是“方法论统一”（unity of method），即自然科学的方法程序可以直接平移应用于社会科学；其二是“产出同构”（isomorphism of outcome），即社会科学探究的最终成果必须在逻辑结构上同构于自然科学，必须以放之四海皆准的普遍法则或类法则概括（laws or law-like generalizations）来表达。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, p. 179)]]
+> **方法论统一与产出同构双重[[Hypothesis|假设]]** 经典实证主义对社会探究的建构依赖于两大核心预设：其一是“方法论统一”（unity of method），即自然科学的方法程序可以直接平移应用于社会科学；其二是“产出同构”（isomorphism of outcome），即社会科学探究的最终成果必须在逻辑结构上同构于自然科学，必须以放之四海皆准的普遍法则或类法则概括（laws or law-like generalizations）来表达。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 115)]]
 
 > [!claim] Oldroyd, D.
-> **社会现象的自然科学化类比** 在实证主义视阈下，社会现象可以像自然物理现象一样被研究——即产生出能够接受经验检验的法则与理论，这一进路将研究者确立为超然于客体之外的独立裁判者。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, p. 175)]]
+> **社会现象的自然科学化类比** 在实证主义视阈下，社会现象可以像自然物理现象一样被研究——即产生出能够接受经验检验的法则与理论，这一进路将研究者确立为超然于客体之外的独立裁判者。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 113)]]
 
 ### 命题二　19 世纪现代主义发轫期的准实证科学将经验事实分类从属于全人道德教化与社会改良
 
@@ -264,10 +266,10 @@ updated: 2026-09-08
 > 该维度聚焦[[Critical Theory|批判理论]]、存在主义以及当代教育学者对实证主义技术异化与认识论垄断的深刻解构。
 
 > [!claim] [[Jürgen Habermas|Habermas, J.]] & Horkheimer, M.
-> **工具理性极权与生活世界意义放逐** 当实证主义将经验科学方法垄断为真理的唯一合法判准时，它便演变成为一种不容置疑的新宗教（[[Scientism|科学主义]]）；实证主义将一切人类知识等同于追求技术控制的工具理性，不仅从根本上放逐了交往理性、审美体验与[[Ideology Critique|意识形态批判]]维度，更是造就了一个抹杀伦理反思的“没有良知的社会”。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, pp. 437–440)]]
+> **工具理性极权与生活世界意义放逐** 当实证主义将经验科学方法垄断为真理的唯一合法判准时，它便演变成为一种不容置疑的新宗教（[[Scientism|科学主义]]）；实证主义将一切人类知识等同于追求技术控制的工具理性，不仅从根本上放逐了交往理性、审美体验与[[Ideology Critique|意识形态批判]]维度，更是造就了一个抹杀伦理反思的“没有良知的社会”。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 115)]]
 
 > [!claim] Kierkegaard, S.
-> **客观性幻觉对个体主观生存体验的抹杀** 实证主义所标榜的“客观性”是人类认知最大的幻觉；强行将冷酷的因果法则强加于人，实际上是将活生生的个体贬低为旨在发现客观规律的冷漠旁观者，彻底剥夺了个体的“主观性能力”与不可替代的内在生存体验。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, pp. 423–428)]]
+> **客观性幻觉对个体主观生存体验的抹杀** 实证主义所标榜的“客观性”是人类认知最大的幻觉；强行将冷酷的因果法则强加于人，实际上是将活生生的个体贬低为旨在发现客观规律的冷漠旁观者，彻底剥夺了个体的“主观性能力”与不可替代的内在生存体验。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 115)]]
 
 > [!claim] Skourdoumbis, N. & Rowe, E.
 > **新实证主义在[[Evidence-Based Education|循证教育]]中的回潮与教学交往[[Ontology|本体论]]抽空** 当代[[Evidence-Based Education|循证教育]]（如[[Visible Learning|可见的学习]]）狂热推崇新实证主义范式，试图通过[[Meta-analysis|元分析]][[Effect Size|效应量]]、标准化实验与机械因果归因直接接管教育决策；这种技术统治思维将教师降格为执行标准处方的技术官僚，在本体论上彻底抽空了课堂作为[[Student-Teacher Relationship|师生关系]]性互动与文化创生的生成性本质。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, pp. 320–327)]]
@@ -303,7 +305,7 @@ updated: 2026-09-08
 > [!timeline] 思想演进脉络
 > - **17 世纪 — 培根经验归纳法奠定近代科学基础** [[Francis Bacon|弗朗西斯·培根]]提出唯有经验观察与渐进归纳才能排除心智偏见，为后世实证主义奠定了反经院形而上学的方法论胚胎。
 > - **1810–1830 年代 — 启蒙现代性准实证构想与道德改良统摄** [[Marc-Antoine Jullien|朱利安]]与孔德坚信[[Scientific Method|科学方法]]可推广至社会事务；朱利安创立比较教育分析图表与跨国[[Questionnaire|问卷]]，其实证操作始终归属于欧陆二级精神科学并服从于全人[[Bildung|教化]]与教育改良。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009)]]
-> - **1830–1850 年代 — 孔德确立实证哲学[[Epistemology|认识论]]总纲** 孔德出版六卷本《实证哲学教程》，系统确立神学—形而上学—实证三阶段法则，确立社会物理学/社会学的独立学科地位与跨领域方法论统一[[Hypothesis|假设]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011)]]
+> - **1830–1850 年代 — 孔德确立实证哲学[[Epistemology|认识论]]总纲** 孔德出版六卷本《实证哲学教程》，系统确立神学—形而上学—实证三阶段法则，确立社会物理学/社会学的独立学科地位与跨领域方法论统一[[Hypothesis|假设]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 113)]]
 > - **20 世纪前半叶 — 逻辑实证主义鼎盛与波普尔[[Falsification|证伪主义]]超越** 维也纳学派追求经验证实与物理主义统一语言；波普尔（[[Karl Popper]]）提出证伪原则打破归纳证实神话，推动实证主义由粗糙证实向批判[[Rationalism in International Relations|理性主义]]跃迁。
 > - **20 世纪 60 年代 — 比较教育实证[[Scientific Paradigm|科学范式]]确立与流派分野** 战后自然科学工程突破与行为主义革命共同推动科学化运动达到鼎盛；诺亚与埃克斯坦（Noah & Eckstein）、霍姆斯（[[Brian Holmes]]）与芝加哥学派（Anderson & Foster）确立可测量假设检验与预测标准，围绕法则性质展开认识论争鸣，并将历史传统贬斥为“前科学”。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009)]]；[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 53–56)]]
 > - **20 世纪 70 年代 — 规划承诺破灭、[[Interpretive Paradigm|反实证主义]]交锋与范式复数化** 经济滞胀戳破了实证规划神话，[[Thomas Kuhn|托马斯·库恩]]（Thomas Kuhn）范式理论打破[[Value Neutrality|价值中立]]信念，法兰克福学派[[Critical Theory|批判理论]]、诠释学与[[Post-structuralism|后结构主义]]共同涌入，学科走向复数的“[[Comparative Educations|多个比较教育学]]（Comparative Educations）”。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 68–69)]]
@@ -321,13 +323,13 @@ updated: 2026-09-08
 > > 争论焦点在于：人类社会是否存在与自然界相同的客观规律？研究者能否采取冷漠的外部客观测视？
 > > 
 > > - **实证主义传统** 坚守自然与社会的方法论统一，认为人类行为受因果法则制约，可通过量化与实验进行客观归纳与准确预测。
-> > - **诠释学与[[Interpretive Paradigm|反实证主义]]派（Giddens, 1976）** 强调社会世界处于“主体-主体”交往关系中，人具有独特的反思与自我解释能力；强行套用自然科学法则犯下了把人类客体化的机械决定论错误。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, p. 429)]]
+> > - **诠释学与[[Interpretive Paradigm|反实证主义]]派（Giddens, 1976）** 强调社会世界处于“主体-主体”交往关系中，人具有独特的反思与自我解释能力；强行套用自然科学法则犯下了把人类客体化的机械决定论错误。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 116)]]
 > 
 > > [!axis] [[Value Neutrality|价值无涉]]的技术中立 vs 权力支配的意识形态合谋
 > > 争论焦点在于：实证主义研究追求的“[[Value Neutrality|价值中立]]”是否可能？其在政治上扮演了何种角色？
 > > 
 > > - **实证主义阵营** 坚称通过标准化程序与双盲控制可以完全剔除主观偏见，确保知识的中立性与普遍有效性。
-> > - **[[Critical Theory|批判理论]]学派（Habermas, 1972）** 指出声称中立的实证研究因默认并服从现有社会制度的合理性，在客观实效上沦为了为既得利益者背书、维系现状（Status Quo）的隐蔽意识形态工具。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, p. 113)]]
+> > - **[[Critical Theory|批判理论]]学派（Habermas, 1972）** 指出声称中立的实证研究因默认并服从现有社会制度的合理性，在客观实效上沦为了为既得利益者背书、维系现状（Status Quo）的隐蔽意识形态工具。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 115)]]
 > 
 > > [!axis] 类法则跨国预测 vs 历史情境理解与精神动力诠释
 > > 争论焦点在于：比较教育学的根本目标是发现放之四海皆准的因果规律与预测模型，还是理解特定民族国家历史脉络中的文化精神与深层制度根由？
@@ -342,6 +344,11 @@ updated: 2026-09-08
 > > - **学科史批判学派（[[Argument_Mattheou_2009_ScientificParadigm|Mattheou, 2009]]）** 揭示实证主义之所以独揽大权，在于现代中央计划体制需要科学外衣为巨额教育投资与政策干预辩护；客观中立神话沦为国家权力租客的政治借口（alibi），最终在规划落空与范式多元化中被去神圣化。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 67–69)]]
 
 > [!critique] 对实证主义局限的多维批评
+> - **计算崇拜与去个性化危机（Ions, 1977）** 特里·扬斯痛陈社会科学对定量计算与统计学的过度迷信正在造成普遍的去个性化，使社会研究退化为冷漠的数学分支，剥离了对人类生存困境的温情关照。
+> - **概念数学化与科学主义意识形态（Horkheimer, 1972）** 马克斯·霍克海默批判实证主义将质性概念强行还原为数学公式，将实证经验方法神化为唯一合法的理性形态，形成了极具压迫性的科学主义意识形态。
+> - **客观意识与自我疏离（Roszak, 1970）** 西奥多·罗斯扎克指责实证科学对所谓客观意识的偏执追逐，切断了人与自身直觉、情感及自然深层联结，直接引发了深刻的存在疏离与心理异化。
+> - **外在行为偏见与零件拼凑整体（Hampden-Turner, 1970）** 查尔斯·汉普登-特纳指出，传统实证量化社会科学带有保守主义偏见，只关注人身上可重复、机械且容易预测的“可见外在行为”，试图用碎片化零件拼凑出虚假的整体人类形象。
+> - **复杂开放系统中的“变量恒常悖论”（Morrison, 2001）** 复杂性理论指出，教育世界处于动态生成之中，“保持变量恒定”在本体论上纯属虚妄，受控实验在人工环境中精确测量的仅仅是已死去的历史。
 > - **抹杀情境深度的去情境化偏向** 实证主义追求普适法则，往往通过统计控制强行剔除地方性文化、历史脉络与微观交往细节，导致研究成果高度贫瘠且脱离教育现场。
 > - **抹杀价值反思的技术自满** 将教育问题完全置换为“什么有效”（What Works）的工程学计算，直接剥夺了公众关于教育根本目的与社会公平正义的民主审议空间。
 
@@ -350,12 +357,24 @@ updated: 2026-09-08
 
 ---
 
+## 实证数据
+
+> [!ref-table]- 实证量化与方法学演进指标
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Brady_2023_EPR|Brady et al. (2023)]] | 2010 与 2020 年五大顶级教育心理学期刊发表文献 | 历时性方法学内容计量编码 | 量化干预研究 vs 质性研究占比 | 量化干预与相关研究仍占 78%，呈现强大制度惯性，质性升至 22% | $p < .05$ | 验证了实证量化模式在主流学科中持续的主导地位与多元范式松动 |
+> | [[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe (2024)]] | 跨国可见学习政策与课堂实证评估报告 | 话语与方法学批判分析 | 元分析效应量与循证处方指标 | 揭示将师生教学交往降解为单一效应量指标造成课堂本体论抽空 | — | 质性批判展现新实证主义在微观教学中面临的本体论边界 |
+
+---
+
 ## 相关研究
 
 实证主义及其批评贯穿了教育哲学、比较教育与研究方法论的经典[[Document|文献]]。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 系统复原孔德实证主义的起源、四大科学[[Hypothesis|假设]]、[[Anthony Giddens|Giddens]] 识别的方法论统一与产出同构双重预设，并综合存在主义（克尔凯郭尔）、法兰克福学派（[[Jürgen Habermas|哈贝马斯]]）与社会学内部批评，展现当代教育研究向后实证与批判[[Paradigm|范式]]演进的完整版图。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, p. 113)]] — 系统复原孔德实证主义的起源、四大科学[[Hypothesis|假设]]、[[Anthony Giddens|Giddens]] 识别的方法论统一与产出同构双重预设，并综合存在主义（克尔凯郭尔）、法兰克福学派（[[Jürgen Habermas|哈贝马斯]]）与社会学内部批评，展现当代教育研究向后实证与批判[[Paradigm|范式]]演进的完整版图。
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] — 剖析比较教育学奠基人[[Marc-Antoine Jullien|朱利安]]构建的准实证科学体系，澄清其事实分析图表与跨国[[Questionnaire|问卷]]归属于欧陆二级精神科学，揭示其经验收集始终从属于全人[[Bildung|教化]]与社会改良，强力反驳 20 世纪行为主义实证派以[[Value Neutrality|价值中立]]为由指责其带有主观偏见的辉格史错置。
 > - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009)]] — 系统梳理 20 世纪 60 年代诺亚与埃克斯坦（Noah & Eckstein）、霍姆斯（Holmes）、安德森（Anderson）与埃普斯坦（Epstein）等实证主义学者对历史比较学派发起的范式围剿，揭示实证派如何从依赖私人洞察力、缺乏因果预测力、个殊事实无法抽象以及涉嫌神秘主义四个维度将历史传统贬为“前科学”，并反思实证科学对英语 *Science* 狭隘词义垄断的[[Epistemology|认识论]]局限。
 > - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 深入剖析 20 世纪 60 年代比较教育实证[[Scientific Paradigm|科学范式]]内部围绕“法则性质”的深刻分野（芝加哥学派的恒常规律 vs 哥大学派的[[Variable|变量]]函数共变 vs 霍姆斯的权变社会学法则与预测划界），揭示实证主义之所以在实践中胜出，根源于其充当了战后国家五年计划与技术援助的政治[[Social Science as Legitimation Alibi|合法化借口]]（alibi），并追踪其在现实危机、量子不确定性转向与后现代思潮冲击下向多元范式演进的终结轨迹。

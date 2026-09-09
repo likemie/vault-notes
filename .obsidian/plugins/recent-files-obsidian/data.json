@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Jürgen Habermas",
-      "path": "wiki/persons/germany/Jürgen Habermas.md"
+      "basename": "Indexicality",
+      "path": "wiki/concepts/research-methodology/Indexicality.md"
     },
     {
       "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01",
       "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01.md"
     },
     {
+      "basename": "Epoché",
+      "path": "wiki/concepts/research-methodology/Epoché.md"
+    },
+    {
+      "basename": "Rich and Thick Description",
+      "path": "wiki/concepts/research-methodology/Rich and Thick Description.md"
+    },
+    {
+      "basename": "Flanders Interaction Analysis Categories",
+      "path": "wiki/concepts/research-methodology/Flanders Interaction Analysis Categories.md"
+    },
+    {
+      "basename": "Ethogenic Approach",
+      "path": "wiki/methods/qualitative/Ethogenic Approach.md"
+    },
+    {
       "basename": "Anthony Giddens",
       "path": "wiki/persons/uk/Anthony Giddens.md"
+    },
+    {
+      "basename": "Jürgen Habermas",
+      "path": "wiki/persons/germany/Jürgen Habermas.md"
     },
     {
       "basename": "Paradigm Wars",
@@ -179,26 +199,6 @@
     {
       "basename": "Grounded Theory",
       "path": "wiki/methods/qualitative/Grounded Theory.md"
-    },
-    {
-      "basename": "Qualitative Computer Software",
-      "path": "wiki/methods/qualitative/Qualitative Computer Software.md"
-    },
-    {
-      "basename": "Argument_Creswell_2022_SAGE",
-      "path": "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md"
-    },
-    {
-      "basename": "Coding in Qualitative Research",
-      "path": "wiki/methods/qualitative/Coding in Qualitative Research.md"
-    },
-    {
-      "basename": "Content Analysis",
-      "path": "wiki/methods/qualitative/Content Analysis.md"
-    },
-    {
-      "basename": "Data Reduction",
-      "path": "wiki/concepts/research-methodology/Data Reduction.md"
     }
   ],
   "omittedPaths": [],

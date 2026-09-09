@@ -15879,7 +15879,7 @@
   {
     "title": "Jürgen Habermas",
     "type": "person",
-    "path": "wiki/persons/germany/Jürgen Habermas.md",
+    "path": "wiki/persons/germany/Jürgen Habermas.md",
     "aliases": [
       "尤尔根·哈贝马斯",
       "哈贝马斯",
@@ -16211,16 +16211,6 @@
     ]
   },
   {
-    "title": "Anthony Giddens",
-    "type": "person",
-    "path": "wiki/persons/uk/Anthony Giddens.md",
-    "aliases": [
-      "安东尼·吉登斯",
-      "吉登斯",
-      "Giddens"
-    ]
-  },
-  {
     "title": "Adrian Simpson",
     "type": "person",
     "path": "wiki/persons/uk/Adrian Simpson.md",
@@ -16237,6 +16227,23 @@
       "亚历克·皮特森",
       "Peterson, A. D. C.",
       "Alexander Duncan Campbell Peterson"
+    ]
+  },
+  {
+    "title": "Anthony Giddens",
+    "type": "person",
+    "path": "wiki/persons/uk/Anthony Giddens.md",
+    "aliases": [
+      "安东尼·吉登斯",
+      "吉登斯",
+      "Giddens, A.",
+      "A. Giddens",
+      "Giddens (1975)",
+      "Giddens (1976)",
+      "Giddens (1979)",
+      "Giddens (1984)",
+      "Giddens (1990)",
+      "Giddens (1998)"
     ]
   },
   {
