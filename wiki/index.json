@@ -7943,6 +7943,17 @@
     ]
   },
   {
+    "title": "Determinism",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Determinism.md",
+    "aliases": [
+      "决定论",
+      "因果决定论",
+      "deterministic assumption",
+      "causal determinism"
+    ]
+  },
+  {
     "title": "Developer Effect",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Developer Effect.md",
@@ -8074,6 +8085,17 @@
       "etic perspective",
       "emic approach",
       "etic approach"
+    ]
+  },
+  {
+    "title": "Empiricism",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Empiricism.md",
+    "aliases": [
+      "经验主义",
+      "经验论",
+      "empirical assumption",
+      "empirical tradition"
     ]
   },
   {
@@ -8925,6 +8947,16 @@
     ]
   },
   {
+    "title": "Normative Paradigm",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Normative Paradigm.md",
+    "aliases": [
+      "规范范式",
+      "normative model",
+      "规则统治范式"
+    ]
+  },
+  {
     "title": "Null Hypothesis",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Null Hypothesis.md",
@@ -9246,6 +9278,16 @@
       "第一手资料",
       "第二手资料",
       "原始文献"
+    ]
+  },
+  {
+    "title": "Principle of Parsimony",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Principle of Parsimony.md",
+    "aliases": [
+      "简约原则",
+      "奥卡姆剃刀",
+      "Occam's razor, 简便律, law of parsimony"
     ]
   },
   {
@@ -10070,6 +10112,17 @@
     ]
   },
   {
+    "title": "Typification",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Typification.md",
+    "aliases": [
+      "类型化",
+      "典型化",
+      "理想类型化",
+      "typifications"
+    ]
+  },
+  {
     "title": "Unit of Analysis",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Unit of Analysis.md",
@@ -10147,6 +10200,17 @@
       "verb tense in APA",
       "trimming fat in writing",
       "学术写作语言规范"
+    ]
+  },
+  {
+    "title": "Voluntarism",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Voluntarism.md",
+    "aliases": [
+      "唯意志论",
+      "唯意志主义",
+      "voluntaristic assumption",
+      "voluntarist approach"
     ]
   },
   {
@@ -16681,6 +16745,17 @@
     "aliases": [
       "Morris, P.",
       "保罗·莫里斯"
+    ]
+  },
+  {
+    "title": "Peter Medawar",
+    "type": "person",
+    "path": "wiki/persons/uk/Peter Medawar.md",
+    "aliases": [
+      "Medawar, P. B.",
+      "Peter Brian Medawar",
+      "彼得·梅达沃",
+      "梅达沃"
     ]
   },
   {
