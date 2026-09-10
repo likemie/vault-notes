@@ -8,10 +8,10 @@ summary: "加拿大哲学家、非形式逻辑与论辩理论家，提出系统�
 type: person
 nationality: "加拿大"
 person_region: "加拿大"
-person_related_count: 2
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 13
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
   - theme/argumentation
   - theme/critical-thinking

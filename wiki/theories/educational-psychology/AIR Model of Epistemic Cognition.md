@@ -8,7 +8,7 @@ aliases:
 summary: "当代教育心理学与学习科学的核心认识论认知模型，将认识实践解构为认识目标、认识论理想与可靠认识论过程三大相互交织的构件。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 33
+theory_related_count: 35
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"

@@ -9,9 +9,9 @@ subtype: event
 region: "美国"
 fact_region: "美国"
 fact_kind: "event"
-fact_related_count: 6
-fact_related_level: 0
-fact_related_stars: ""
+fact_related_count: 17
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
 tags:
   - theme/science-education
