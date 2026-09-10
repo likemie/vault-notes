@@ -6,7 +6,7 @@ aliases:
 summary: "在认识论认知模型中，个体对特定认识成就（如深层机制理解、理论建构或实操技巧）所赋予的相对主观价值与意义评估，决定了探究资源与认知努力的分配。"
 type: concept
 domain: "educational-psychology"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -17,6 +17,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Epistemic Aims]]"
   - "[[Presence]]"
+  - "[[Epistemic Agency]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Axiology]]"
   - "[[Epistemic Cognition]]"
@@ -107,7 +108,7 @@ updated: 2026-09-10
 > 考察学术共同体的价值取向如何形塑具体学科的方法偏好与评价准则。
 
 > [!claim] Chinn, C. A. et al.
-> **共同体价值形塑学科规范** 认识论价值不仅存在于个体心智中，更体现为特定学科共同体的文化规范。不同的学科对何种认识产出具有高价值持有不同判据：某些领域珍视高度抽象的数学模型，另一些领域则赋予精湛的实验操作规程与野外标本鉴别以崇高价值。理解学科特定的认识论价值，是学习者融入学科探究文化与形成专业认识主体性的核心前提。[[Argument_Chinn_2011_EP|(Chinn et al., 2011, p. 146)]]
+> **共同体价值形塑学科规范** 认识论价值不仅存在于个体心智中，更体现为特定学科共同体的文化规范。不同的学科对何种认识产出具有高价值持有不同判据：某些领域珍视高度抽象的数学模型，另一些领域则赋予精湛的实验操作规程与野外标本鉴别以崇高价值。理解学科特定的认识论价值，是学习者融入学科探究文化与形成专业[[Epistemic Agency|认识主体性]]的核心前提。[[Argument_Chinn_2011_EP|(Chinn et al., 2011, p. 146)]]
 
 ---
 
@@ -126,7 +127,7 @@ updated: 2026-09-10
 > [!dev-timeline] 概念演变
 > - **1986–2003 — 哲学[[Axiology|价值论]]探讨** Goldman (1986) 与 Kvanvig (2003) 探讨重大真理与深层理解在[[Epistemology|认识论]]中的内在价值，确立了认识论价值作为认知哲学范畴的合法性。
 > - **2011 — 纳入扩展[[Epistemic Cognition|认识论认知]]构件** Chinn 等学者将认识论价值与[[Epistemic Aims|认识目标]]结合并列，作为解释学习策略选择与学科文化差异的关键心理与哲学[[Variable|变量]]。[[Argument_Chinn_2011_EP|(Chinn et al., 2011)]]
-> - **2014至今 — 与科学实践及认识主体性融合** 认识论价值逐渐与学科探究共同体协商、科学建模实践及培育边缘群体的认识主体性深度融合，成为科学文化育人的重要视角。
+> - **2014至今 — 与科学实践及[[Epistemic Agency|认识主体性]]融合** 认识论价值逐渐与学科探究共同体协商、科学建模实践及培育边缘群体的认识主体性深度融合，成为科学文化育人的重要视角。
 
 ---
 

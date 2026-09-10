@@ -5933,6 +5933,16 @@
     ]
   },
   {
+    "title": "Epistemic Agency",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Epistemic Agency.md",
+    "aliases": [
+      "认识主体性",
+      "认识能动性",
+      "认识能动权"
+    ]
+  },
+  {
     "title": "Epistemic Friction",
     "type": "concept",
     "path": "wiki/concepts/learning-science-cognitive-science/Epistemic Friction.md",
@@ -11030,6 +11040,15 @@
     ]
   },
   {
+    "title": "CER Framework",
+    "type": "theory",
+    "path": "wiki/theories/curriculum/CER Framework.md",
+    "aliases": [
+      "Claim-Evidence-Reasoning",
+      "主张-证据-推理框架"
+    ]
+  },
+  {
     "title": "Cuban's Curriculum Change Theory",
     "type": "theory",
     "path": "wiki/theories/curriculum/Cuban's Curriculum Change Theory.md",
@@ -11291,6 +11310,18 @@
     "path": "wiki/theories/educational-philosophy/Virtue Epistemology.md",
     "aliases": [
       "美德认识论"
+    ]
+  },
+  {
+    "title": "Walton's Argumentation Schemes",
+    "type": "theory",
+    "path": "wiki/theories/educational-philosophy/Walton's Argumentation Schemes.md",
+    "aliases": [
+      "沃尔顿论证型式",
+      "Walton Argumentation Schemes",
+      "沃尔顿论辩方案",
+      "论证型式理论",
+      "Argumentation Schemes"
     ]
   },
   {
@@ -14828,6 +14859,16 @@
     ]
   },
   {
+    "title": "Model-Evidence-Link Matrix",
+    "type": "instrument",
+    "path": "wiki/instruments/rubric/Model-Evidence-Link Matrix.md",
+    "aliases": [
+      "模型-证据关联矩阵",
+      "Model-Evidence-Link",
+      "MEL diagram"
+    ]
+  },
+  {
     "title": "OECD Rubrics for Creativity and Critical Thinking",
     "type": "instrument",
     "path": "wiki/instruments/rubric/OECD Rubrics for Creativity and Critical Thinking.md",
@@ -15503,6 +15544,16 @@
     "aliases": [
       "Greenfield, T. B.",
       "托马斯·巴尔·格林菲尔德"
+    ]
+  },
+  {
+    "title": "Douglas Walton",
+    "type": "person",
+    "path": "wiki/persons/canada/Douglas Walton.md",
+    "aliases": [
+      "道格拉斯·沃尔顿",
+      "沃尔顿",
+      "Douglas N. Walton"
     ]
   },
   {
@@ -20863,6 +20914,15 @@
       "同伴互助学习策略",
       "PALS",
       "Peer-Assisted Learning Strategies (PALS)"
+    ]
+  },
+  {
+    "title": "PRACCIS",
+    "type": "fact",
+    "path": "wiki/facts/us/PRACCIS.md",
+    "aliases": [
+      "促进科学推理与概念转变项目",
+      "Promoting Reasoning and Conceptual Change in Science"
     ]
   },
   {

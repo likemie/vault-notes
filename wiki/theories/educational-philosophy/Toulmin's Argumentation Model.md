@@ -9,10 +9,10 @@ aliases:
 summary: "Toulmin 提出的领域依赖论证结构模型，将论证拆解为主张、数据、保证、支撑、限定词与反驳六个部件；当代科学教育批判其纯句法结构无法甄别披着规范外衣的伪科学论证。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 15
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_count: 16
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - theme/argumentation
   - theme/critical-thinking
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Reliable Epistemic Processes]]"
   - "[[Paradigm]]"
 related_theories:
+  - "[[CER Framework]]"
   - "[[Pragma-Dialectics]]"
   - "[[AIR Model of Epistemic Cognition]]"
 related_arguments:
@@ -129,7 +130,7 @@ updated: 2026-09-10
 
 > [!dev-timeline] 发展脉络
 > - **1958 — 经典模型创立** Stephen Toulmin 出版 *The Uses of Argument*，系统提出突破三段论的六部件法理学论证框架。
-> - **1980s–2000s — 科学教育结构化迁移** 科学教育领域将图尔敏模型[[Operationalization|操作化]]为课堂论证模式（TAP），并衍生出主张-证据-推理（Claim-Evidence-Reasoning, CER）教学框架。
+> - **1980s–2000s — 科学教育结构化迁移** 科学教育领域将图尔敏模型[[Operationalization|操作化]]为课堂论证模式（TAP），并衍生出主张-证据-推理（[[CER Framework|Claim-Evidence-Reasoning]], CER）教学框架。
 > - **2007 — [[Pragma-Dialectics|语用辩证学派]]批判** Zemplén 指出图尔敏模型缺乏质量评价规范标准，无法处理双边对称争议，主张引入语用辩证学。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007)]]
 > - **2025 — 结构主义困境解构与[[Epistemology|认识论]]实质转向** Duncan & Chinn 揭示全球变暖否定论等典型伪科学文本在图尔敏结构评分中斩获高分的致命缺陷，提出必须由 [[AIR Model of Epistemic Cognition|AIR]] 认识论模型补充认识论实质。[[Argument_Duncan_2025_CI|(Duncan & Chinn, 2025)]]
 

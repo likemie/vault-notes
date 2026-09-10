@@ -8,10 +8,10 @@ aliases:
 summary: "当代教育心理学与学习科学的核心认识论认知模型，将认识实践解构为认识目标、认识论理想与可靠认识论过程三大相互交织的构件。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 31
-theory_related_level: 3
-theory_related_stars: "⭐⭐⭐"
-theory_related_color: "#ede9fe"
+theory_related_count: 33
+theory_related_level: 4
+theory_related_stars: "⭐⭐⭐⭐"
+theory_related_color: "#fce7f3"
 tags:
   - theme/epistemic-cognition
   - theme/science-education
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Epistemological Naturalism]]"
   - "[[Research Topic]]"
   - "[[Habitus]]"
+  - "[[Epistemic Agency]]"
   - "[[Variable]]"
   - "[[Theoretical Standpoint]]"
   - "[[Ontology]]"
@@ -44,15 +45,19 @@ related_theories:
   - "[[Reliabilism]]"
   - "[[Virtue Epistemology]]"
   - "[[Toulmin's Argumentation Model]]"
+  - "[[Walton's Argumentation Schemes]]"
 related_methods:
   - "[[Systematic Sampling]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Discourse Analysis]]"
 related_persons:
   - "[[Clark A. Chinn]]"
+  - "[[Douglas Walton]]"
 related_arguments:
   - "[[Argument_Chinn_2011_EP]]"
   - "[[Argument_Duncan_2025_CI]]"
+related_instruments:
+  - "[[Model-Evidence-Link Matrix]]"
 confidence: high
 status: draft
 created: 2026-09-10
@@ -107,7 +112,7 @@ updated: 2026-09-10
 > - **前提二** 方法的可靠性条件依赖于学科对象的物理与生物[[Habitus|习性]]。例如在生态调查中，观察野生动物的可靠性严格依赖于对其昼夜节律、隐蔽习性与季节迁徙的实体知识。[[Argument_Duncan_2025_CI|(Duncan & Chinn, 2025, pp. 218, 221)]]
 > - **推导** 认识论认知不是脱离内容的通用算法；缺乏学科实体知识将导致认识论理想被错误误用（例如因不了解物种演化同源性而盲目否定动物模型的证据收敛价值）。
 
-> [!proposition-chain] 核心命题三｜认识论素养的深化依赖共同体层面的元认识论论证与认识主体性赋予
+> [!proposition-chain] 核心命题三｜认识论素养的深化依赖共同体层面的元认识论论证与[[Epistemic Agency|认识主体性]]赋予
 > - **前提一** 认识标准在科学界是由社群经过长期实践辩护而形成的公认规范，而非孤立个体的私有直觉。[[Argument_Duncan_2025_CI|(Duncan & Chinn, 2025, p. 208)]]
 > - **前提二** 传统课堂往往由教师或教材直接强加既定规则（如“每次实验只变动一个[[Variable|变量]]”），学生缺乏理解这些规则因果防偏价值的元认识论机会，从而极易沦为机械服从。[[Argument_Duncan_2025_CI|(Duncan & Chinn, 2025, pp. 222–223)]]
 > - **推导** 教学应当创设富有认识复杂性（epistemically messy）的情境，引导学习者在班级学习共同体中协同协商、修订好模型与好证据的标准，通过元认识论论辩赋予学习者认识主体性（epistemic agency），促进教育公平与深度认知参与。
@@ -123,7 +128,7 @@ updated: 2026-09-10
 
 > [!theory-use] 如何用于研究与教学
 > - **作为分析与[[Coding in Qualitative Research|编码]]框架** 用于质性编码学生在书面科学论文、口头辩论或小组研讨中的话语，析出其对证据[[Sample Size Determination|样本量]]、[[Blinding|盲法]]条件、仪器局限、多源聚合性等认识要素的掌握程度。
-> - **作为[[Scaffolding|教学支架]]设计指引** 在探究教学中引入“模型-证据连接矩阵”（Model-Evidence-Link Matrices），引导学生依据班级自主共建的“好证据”与“好模型”公共准则开展评估。
+> - **作为[[Scaffolding|教学支架]]设计指引** 在探究教学中引入“模型-证据连接矩阵”（[[Model-Evidence-Link Matrix|Model-Evidence-Link]] Matrices），引导学生依据班级自主共建的“好证据”与“好模型”公共准则开展评估。
 > - **作为元认识论[[Dialogue in Education|对话]]触发器** 在课堂中组织元认识论审议（meta-epistemic discussions），促使学生跳出对具体结论的争论，转向辩护“为什么在当前情境下双盲/系统观察比个人直觉更可靠”。
 
 ---
@@ -141,7 +146,7 @@ updated: 2026-09-10
 
 > [!critique] 对传统论证结构模型的超越与理论交锋
 > - **对[[Toulmin's Argumentation Model|图尔敏论证模型]]（TAP）与 CER 框架的批判** [[Argument_Duncan_2025_CI|Duncan & Chinn (2025)]] 尖锐指出，当前科学教育主流框架将论证质量简化为部件数量与复杂性（如主张、证据、推理、反驳）。这种结构主义进路存在重大盲区：全球变暖否定论与反疫苗阴谋论的宣传文本往往具备极其完美的图尔敏结构与复杂反驳，却在[[Epistemic Ideals|认识论理想]]（采纳孤立个案、诉诸个人直觉）与过程[[Reliability|可靠性]]（依赖不可靠的非系统观察、选择性报告）上千疮百孔。结构分析无法区分科学论证与披着伪科学外衣的精致谎言。
-> - **对沃尔顿（Walton）批判性提问方案的深化** 沃尔顿论证型式所附带的批判性问题列表缺乏对其规范性来源的因果说明，且缺乏处理大规模证据集成的综合方案；AIR 模型通过将证据信度还原为生成该证据的可靠[[Causal Processes|因果过程]]，为批判性追问提供了坚实的哲学与实证辩护依据。
+> - **对[[Douglas Walton|沃尔顿]]（Walton）批判性提问方案的深化** [[Walton's Argumentation Schemes|沃尔顿论证型式]]所附带的批判性问题列表缺乏对其规范性来源的因果说明，且缺乏处理大规模证据集成的综合方案；AIR 模型通过将证据信度还原为生成该证据的可靠[[Causal Processes|因果过程]]，为批判性追问提供了坚实的哲学与实证辩护依据。
 
 ---
 

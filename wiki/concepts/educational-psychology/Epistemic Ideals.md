@@ -8,10 +8,10 @@ aliases:
 summary: "在认识论认知AIR模型中，用于评估科学模型、解释、论证与证据等认识产出质量的规范性标准与评价准则。"
 type: concept
 domain: "educational-psychology"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/epistemic-cognition
   - theme/argumentation
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Reliable Epistemic Processes]]"
   - "[[Reliability]]"
   - "[[Determinism]]"
+  - "[[Epistemic Agency]]"
   - "[[Formative Assessment]]"
   - "[[Epistemic Cognition]]"
   - "[[Justificatory Standards]]"
@@ -139,7 +140,7 @@ updated: 2026-09-10
 > 考察学习者如何从被动接受外在评价规则走向主动理解并践行高阶认识论标准。
 
 > [!claim] Duncan, R. G. & Chinn, C. A.
-> **元认识论辩护培育主体性** 优质认识论理想的内化无法依赖现成规则清单的灌输，而必须让学习者直面探究中的证据冲突与混淆噪音，开展元认识论审议（meta-epistemic discussions）。学生通过向共同体辩护为何某种理想（如多源收敛）在当下任务中优于个人孤立感知，逐步确立公共认识标准，从而成为知识与准则的共同建构者，培育平等的认识主体性（epistemic agency）。[[Argument_Duncan_2025_CI|(Duncan & Chinn, 2025, pp. 208, 222–223)]]
+> **元认识论辩护培育主体性** 优质认识论理想的内化无法依赖现成规则清单的灌输，而必须让学习者直面探究中的证据冲突与混淆噪音，开展元认识论审议（meta-epistemic discussions）。学生通过向共同体辩护为何某种理想（如多源收敛）在当下任务中优于个人孤立感知，逐步确立公共认识标准，从而成为知识与准则的共同建构者，培育平等的[[Epistemic Agency|认识主体性]]（epistemic agency）。[[Argument_Duncan_2025_CI|(Duncan & Chinn, 2025, pp. 208, 222–223)]]
 
 ---
 
