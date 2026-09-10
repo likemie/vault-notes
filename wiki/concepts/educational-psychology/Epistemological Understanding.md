@@ -9,10 +9,10 @@ aliases:
 summary: "个体对认知的主观维度与客观维度的协调能力，以及对认识论理想与可靠认识过程之规范合理性与边界条件的元认知理解。"
 type: concept
 domain: "educational-psychology"
-related_count: 21
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - theme/epistemology
   - theme/cognitive-development
