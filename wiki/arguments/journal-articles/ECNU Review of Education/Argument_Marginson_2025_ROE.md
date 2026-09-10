@@ -103,7 +103,7 @@ citation_aliases:
 
 ### 空间制造分析框架：Lefebvre + Marginson
 
-在 Massey 的本体论基础上，Lefebvre(1991)的[[Space Production|空间生产]]理论被进一步发展为高等教育的三维[[Space-Making|空间制造]][[Analytic Framework|分析框架]](pp. 3–5)：
+在 Massey 的本体论基础上，Lefebvre(1991)的[[Space Production|空间生产]]理论被进一步发展为高等教育的三维空间制造[[Analytic Framework|分析框架]](pp. 3–5)：
 
 | 维度 | 内容 | 高等教育案例 |
 |------|------|-------------|

@@ -131,7 +131,7 @@ citation_aliases:
 | 专业中心与学院参与 | 机构层面的深度合作 | 学院、跨学科研究中心 | 企业战略部门、CTO 办公室 |
 | 经济发展 | 区域创新与产业政策 | [[Technology Transfer\|技术转移]]办公室、政府关系 | 企业公共事务、战略部门 |
 
-当合作双方在五个领域都建立了深度关系时，就形成了报告中所谓的[[Multi-Faceted Relationships in University-Industry Collaboration|多面关系]]（Multi-Faceted Relationships）——这是[[University-Industry Collaboration|产学合作]]的最高形态，意味着双方的合作已经超越了任何单一维度的交易，成为一种制度化的、全方位的战略联盟(p.5)。
+当合作双方在五个领域都建立了深度关系时，就形成了报告中所谓的多面关系（Multi-Faceted Relationships）——这是[[University-Industry Collaboration|产学合作]]的最高形态，意味着双方的合作已经超越了任何单一维度的交易，成为一种制度化的、全方位的战略联盟(p.5)。
 
 > [!example]- 图2：大学与产业的多面关系
 > ![](https://img.mylikemie.icu/sources/UIDP_2012_PartnershipContinuum/figures/UIDP_2012_PartnershipContinuum_Fig2_Multi_Faceted_Relationships.jpg)

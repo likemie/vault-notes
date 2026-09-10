@@ -449,7 +449,7 @@ issuing_organization: ""
 ### 论证步骤六　发表偏倚综合诊断与证据审慎性：Egger 显著性与右偏漏斗图解读
 
 > [!claim] 步骤六主张
-> 四项发表偏倚检验呈现不一致结果：Egger 回归显著提示存在[[Small Study Effects|小研究效应]]与右偏倾向，但 [[Begg and Mazumdar Rank Correlation|Begg-Mazumdar 秩相关]]与[[Trim and Fill Method|剪补法]]未检测出实质性偏倚；因此必须对二阶效应量保持审慎乐观的解读态度（pp. 1375–1376）。
+> 四项发表偏倚检验呈现不一致结果：Egger 回归显著提示存在[[Small Study Effects|小研究效应]]与右偏倾向，但 Begg-Mazumdar 秩相关与[[Trim and Fill Method|剪补法]]未检测出实质性偏倚；因此必须对二阶效应量保持审慎乐观的解读态度（pp. 1375–1376）。
 
 > [!chain-link] 证据到判断
 > - **证据一：[[Funnel Plot|漏斗图]]目视检查与右侧聚集** 漏斗图点分布在标准误纵轴两侧呈现出显著的右偏不对称性，尤其是样本量较小（标准误较大）的研究主要聚集在总体平均效应量的右侧区域（$ES > 0.80$），提示小样本研究报告了不成比例的高效应量。
