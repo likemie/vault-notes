@@ -18,16 +18,16 @@ tags:
   - theme/psychometrics
 related_concepts:
   - "[[Construct]]"
-  - "[[Item Analysis]]"
   - "[[Hypothesis]]"
   - "[[Computerized Adaptive Testing]]"
-  - "[[Standard Error]]"
   - "[[Epistemology]]"
   - "[[Ontology]]"
 related_theories:
   - "[[Classical Test Theory]]"
 related_methods:
+  - "[[Item Analysis]]"
   - "[[Rasch Measurement]]"
+  - "[[Standard Error]]"
   - "[[Measurement Invariance]]"
 related_facts:
   - "[[PISA]]"

@@ -66,7 +66,6 @@ related_concepts:
   - "[[State Educational Sovereignty]]"
   - "[[Culture Générale]]"
   - "[[Transfer Translation Transformation]]"
-  - "[[Common School Movement]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Problem Solving]]"
   - "[[Whiggism]]"
@@ -104,6 +103,7 @@ related_facts:
   - "[[Report on Elementary Public Instruction in Europe]]"
   - "[[National Education in Europe]]"
   - "[[Revue encyclopédique]]"
+  - "[[Common School Movement]]"
   - "[[Boston Schoolmasters Controversy]]"
   - "[[Grammar School]]"
 related_arguments: []

@@ -28,7 +28,6 @@ related_concepts:
   - "[[Visual Data]]"
   - "[[Boundary Object]]"
   - "[[Rich and Thick Description]]"
-  - "[[Post-structuralism]]"
   - "[[Heterogeneity]]"
   - "[[Reliability]]"
   - "[[Causality]]"
@@ -40,6 +39,7 @@ related_concepts:
   - "[[Whiggism]]"
 related_theories:
   - "[[Organizational Culture]]"
+  - "[[Post-structuralism]]"
   - "[[Thomas Theorem]]"
 related_methods:
   - "[[Experimental Research]]"

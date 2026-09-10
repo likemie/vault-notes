@@ -25,7 +25,6 @@ related_concepts:
   - "[[Document]]"
   - "[[Auslandspadagogik]]"
   - "[[General Education]]"
-  - "[[Common School Movement]]"
   - "[[Didaktik]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Bildung]]"
@@ -53,6 +52,7 @@ related_persons:
 related_facts:
   - "[[National Education in Europe]]"
   - "[[National Education]]"
+  - "[[Common School Movement]]"
 related_arguments:
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
 confidence: high

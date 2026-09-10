@@ -22,12 +22,12 @@ tags:
   - level/higher-ed
 related_concepts:
   - "[[Non-monetary Competition]]"
-  - "[[Academic Capitalism]]"
   - "[[Matthew Effect in Academia]]"
   - "[[Research Impact]]"
   - "[[Knowledge Production]]"
   - "[[Performance Indicators]]"
 related_theories:
+  - "[[Academic Capitalism]]"
   - "[[Neo-feudalism in Higher Education]]"
 related_methods: []
 related_persons: []

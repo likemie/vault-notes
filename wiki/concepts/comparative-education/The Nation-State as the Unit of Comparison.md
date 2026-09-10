@@ -38,9 +38,9 @@ related_concepts:
   - "[[Bildung]]"
   - "[[Paradigm]]"
   - "[[Policy Network]]"
-  - "[[Transitology]]"
 related_theories:
   - "[[Institutional Isomorphism]]"
+  - "[[Transitology]]"
 related_methods: []
 related_instruments: []
 related_persons:

@@ -21,13 +21,13 @@ related_concepts:
   - "[[Cultural Capital]]"
   - "[[Epistemology]]"
   - "[[Value Neutrality]]"
-  - "[[Hegemony]]"
   - "[[Postpositivism]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Interpretive Paradigm]]"
   - "[[Epoché]]"
 related_theories:
   - "[[Phenomenology]]"
+  - "[[Hegemony]]"
   - "[[Critical Realism]]"
 related_persons:
   - "[[Alfred Schutz]]"

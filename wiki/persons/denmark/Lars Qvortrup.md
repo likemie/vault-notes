@@ -25,7 +25,6 @@ related_concepts:
   - "[[Didaktik]]"
   - "[[Hypothesis]]"
   - "[[Problem Solving]]"
-  - "[[Effect Size]]"
   - "[[Professional Judgment]]"
   - "[[Reflexivity]]"
   - "[[Causality]]"
@@ -33,7 +32,8 @@ related_concepts:
 related_theories:
   - "[[Dynamic Knowledge and Learning Model]]"
   - "[[Bounded Rationality]]"
-related_methods: []
+related_methods:
+  - "[[Effect Size]]"
 related_persons:
   - "[[John Hattie]]"
   - "[[Thomas Aastrup Rømer]]"

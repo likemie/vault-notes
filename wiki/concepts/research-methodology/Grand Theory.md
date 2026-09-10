@@ -33,7 +33,6 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Scientific Method]]"
-  - "[[Postmodernism]]"
   - "[[Paradigm]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Rich and Thick Description]]"
@@ -41,6 +40,7 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Normative Paradigm]]"
 related_theories:
+  - "[[Postmodernism]]"
   - "[[Complexity Theory]]"
 related_methods:
   - "[[Grounded Theory]]"

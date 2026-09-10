@@ -24,7 +24,6 @@ related_concepts:
   - "[[Ways of Knowing]]"
   - "[[Knowledge Framework]]"
   - "[[Knowledge Questions]]"
-  - "[[Domain Analysis]]"
   - "[[Document]]"
   - "[[Praxis]]"
   - "[[Paradigm]]"
@@ -43,6 +42,7 @@ related_concepts:
   - "[[Construct]]"
 related_theories: []
 related_methods:
+  - "[[Domain Analysis]]"
   - "[[Coding in Qualitative Research]]"
 related_instruments: []
 related_persons:

@@ -15,10 +15,8 @@ tags:
   - methodology-critique
   - evidence-based-education
 related_concepts:
-  - "[[Effect Size]]"
   - "[[Critique of Meta-analysis]]"
   - "[[Unit of Analysis]]"
-  - "[[Standard Error]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Research Utilization]]"
   - "[[Evidence-Based Education]]"
@@ -41,8 +39,10 @@ related_concepts:
 related_theories:
   - "[[Dynamic Knowledge and Learning Model]]"
 related_methods:
+  - "[[Effect Size]]"
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Standard Error]]"
   - "[[Random Assignment]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Fixed-Effect and Random-Effects Models]]"

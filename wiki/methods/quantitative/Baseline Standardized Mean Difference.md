@@ -40,7 +40,6 @@ related_concepts:
   - "[[Scale of Measurement]]"
   - "[[Hypothesis]]"
   - "[[Reliability]]"
-  - "[[Effect Size]]"
 related_theories:
   - "[[Campbellian Validity Framework]]"
 related_methods:
@@ -56,6 +55,7 @@ related_methods:
   - "[[Systematic Review]]"
   - "[[Intervention Research]]"
   - "[[One-Group Pretest-Posttest Design]]"
+  - "[[Effect Size]]"
 related_instruments: []
 related_persons:
   - "[[Robert Slavin]]"

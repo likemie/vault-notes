@@ -22,7 +22,6 @@ tags:
 related_concepts:
   - "[[Causality]]"
   - "[[Analytic Framework]]"
-  - "[[Effect Size]]"
   - "[[Evidence-Based Education]]"
   - "[[Hypothesis]]"
   - "[[Sage]]"
@@ -32,6 +31,7 @@ related_theories:
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
 related_persons:
   - "[[Roy Bhaskar]]"
   - "[[Terry Wrigley]]"

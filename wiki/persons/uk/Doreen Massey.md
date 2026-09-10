@@ -20,10 +20,8 @@ related_concepts:
   - "[[Multiplicity]]"
   - "[[Space-Making]]"
   - "[[Relational Space]]"
-  - "[[Post-structuralism]]"
   - "[[Methodological Nationalism]]"
   - "[[Sage]]"
-  - "[[Power-Geometries]]"
   - "[[Heterogeneity]]"
   - "[[Emergence]]"
   - "[[Creativity]]"
@@ -33,6 +31,8 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Geopolitics of Higher Education]]"
 related_theories:
+  - "[[Post-structuralism]]"
+  - "[[Power-Geometries]]"
   - "[[World-Systems Theory]]"
 related_methods: []
 related_persons: []

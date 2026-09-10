@@ -25,9 +25,9 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Heterogeneity]]"
   - "[[Variable]]"
-  - "[[Effect Size]]"
 related_theories: []
 related_methods:
+  - "[[Effect Size]]"
   - "[[Cohort Study]]"
 related_instruments: []
 related_persons:

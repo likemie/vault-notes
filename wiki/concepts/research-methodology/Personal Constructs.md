@@ -19,12 +19,12 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Construct]]"
   - "[[Operationalization]]"
-  - "[[Governmentality]]"
   - "[[Variable]]"
   - "[[Evaluation Research]]"
   - "[[Necessary and Sufficient Conditions]]"
 related_theories:
   - "[[Personal Construct Theory]]"
+  - "[[Governmentality]]"
 related_methods:
   - "[[Repertory Grid Technique]]"
   - "[[Laddering]]"

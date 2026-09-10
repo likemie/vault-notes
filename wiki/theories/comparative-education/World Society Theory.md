@@ -24,7 +24,6 @@ related_concepts:
   - "[[Organizational Actorhood]]"
   - "[[Praxis]]"
   - "[[Lifelong Learning]]"
-  - "[[Governing at a Distance]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Development Turn in Comparative Education]]"
   - "[[Critical Thinking]]"
@@ -36,6 +35,7 @@ related_concepts:
   - "[[Hypothesis]]"
 related_theories:
   - "[[Cultural Models]]"
+  - "[[Governing at a Distance]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
 related_persons:

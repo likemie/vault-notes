@@ -26,7 +26,6 @@ related_concepts:
   - "[[Questionnaire]]"
   - "[[Class Size]]"
   - "[[Reliability]]"
-  - "[[Internal Consistency]]"
   - "[[Devil's Advocate]]"
   - "[[Sensitive Questions]]"
   - "[[Metacognition]]"
@@ -48,6 +47,7 @@ related_methods:
   - "[[Focus Group]]"
   - "[[Group Interview]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Internal Consistency]]"
 related_instruments:
   - "[[Confidence Teaching TOK Scale]]"
 related_persons: []

@@ -24,7 +24,6 @@ related_concepts:
   - "[[Concurrency of Learning]]"
   - "[[Approaches to Teaching and Learning]]"
   - "[[Theory of Knowledge]]"
-  - "[[Theory of Mind]]"
   - "[[Language Skills]]"
   - "[[IB Diploma Programme]]"
   - "[[Extended Essay]]"
@@ -37,12 +36,13 @@ related_concepts:
   - "[[Chinese Learner]]"
   - "[[Epistemology]]"
   - "[[Dependent Variable]]"
-  - "[[Effect Size]]"
   - "[[Variable]]"
   - "[[International Education]]"
-related_theories: []
+related_theories:
+  - "[[Theory of Mind]]"
 related_methods:
   - "[[Random Sampling]]"
+  - "[[Effect Size]]"
 related_instruments:
   - "[[Critical Thinking Strategies Scale]]"
   - "[[California Critical Thinking Disposition Inventory]]"

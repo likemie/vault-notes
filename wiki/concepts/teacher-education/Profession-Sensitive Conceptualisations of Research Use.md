@@ -31,7 +31,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Phronesis]]"
   - "[[Research Literacy]]"
-  - "[[Effect Size]]"
   - "[[Document]]"
   - "[[Questionnaire]]"
   - "[[Rich and Thick Description]]"
@@ -39,6 +38,7 @@ related_concepts:
   - "[[Professional Judgment]]"
 related_methods:
   - "[[Critical Review]]"
+  - "[[Effect Size]]"
   - "[[Survey Research]]"
 related_arguments:
   - "[[Argument_Mausethagen_2025_ERR]]"

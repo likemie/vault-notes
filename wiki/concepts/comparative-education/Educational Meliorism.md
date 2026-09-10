@@ -23,7 +23,6 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Value Neutrality]]"
   - "[[Perpetual Peace]]"
-  - "[[Hegemony]]"
   - "[[Artefact]]"
   - "[[Policy Borrowing]]"
   - "[[Bildung]]"
@@ -48,6 +47,7 @@ related_concepts:
   - "[[Auslandspadagogik]]"
   - "[[Comparative History of Comparative Education]]"
 related_theories:
+  - "[[Hegemony]]"
   - "[[Human Capital Theory]]"
 related_methods: []
 related_instruments:

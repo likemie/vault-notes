@@ -19,7 +19,6 @@ related_concepts:
   - "[[Theory of Knowledge]]"
   - "[[Areas of Knowledge]]"
   - "[[Knowledge Production]]"
-  - "[[Domain Analysis]]"
   - "[[Research Scope]]"
   - "[[Critical Thinking]]"
   - "[[Ways of Knowing]]"
@@ -31,7 +30,8 @@ related_concepts:
   - "[[Construct Validity]]"
   - "[[Falsification]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Domain Analysis]]"
 related_instruments: []
 related_persons: []
 related_facts: []

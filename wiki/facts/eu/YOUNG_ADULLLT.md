@@ -25,9 +25,9 @@ related_concepts:
   - "[[Performance Indicators]]"
   - "[[Network Governance]]"
   - "[[Policy Network]]"
-  - "[[Neocorporatism]]"
   - "[[Selectivity]]"
-related_theories: []
+related_theories:
+  - "[[Neocorporatism]]"
 related_methods:
   - "[[Semi-structured Interview]]"
 related_persons: []

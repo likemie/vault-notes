@@ -24,7 +24,6 @@ tags:
   - peer-contagion
 related_concepts:
   - "[[Hypothesis]]"
-  - "[[Effect Size]]"
   - "[[Non-maleficence and Beneficence in Research]]"
   - "[[Learned Helplessness]]"
   - "[[Educational Evidence Clearinghouses]]"
@@ -33,6 +32,7 @@ related_concepts:
 related_theories:
   - "[[Campbellian Validity Framework]]"
 related_methods:
+  - "[[Effect Size]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-analysis]]"
   - "[[Cluster Randomized Trials]]"

@@ -24,9 +24,9 @@ related_concepts:
   - "[[Pre-test and Post-test]]"
   - "[[Paradigm]]"
   - "[[Visible Learning]]"
-  - "[[Effect Size]]"
 related_theories: []
 related_methods:
+  - "[[Effect Size]]"
   - "[[Meta-analysis]]"
 related_persons: []
 related_facts: []

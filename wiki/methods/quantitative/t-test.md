@@ -23,12 +23,12 @@ related_concepts:
   - "[[Variable]]"
   - "[[Dependent Variable]]"
   - "[[Hypothesis]]"
-  - "[[Effect Size]]"
   - "[[Confidence Interval]]"
   - "[[Pre-test and Post-test]]"
   - "[[Type I and Type II Errors]]"
 related_theories: []
 related_methods:
+  - "[[Effect Size]]"
   - "[[Analysis of Variance]]"
   - "[[Survey Research]]"
   - "[[Single-Subject Design]]"

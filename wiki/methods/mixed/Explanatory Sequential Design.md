@@ -23,7 +23,6 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Dependent Variable]]"
   - "[[Questionnaire]]"
-  - "[[Descriptive Analysis]]"
   - "[[Metainferences]]"
   - "[[Theory of Knowledge]]"
   - "[[Purpose Statement]]"
@@ -33,6 +32,7 @@ related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Quantitative Research]]"
+  - "[[Descriptive Analysis]]"
   - "[[Purposeful Sampling]]"
   - "[[Case Study]]"
   - "[[Joint Display]]"

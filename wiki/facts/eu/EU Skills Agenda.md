@@ -28,9 +28,9 @@ related_concepts:
   - "[[Network Governance]]"
   - "[[Lifelong Learning]]"
   - "[[Policy Network]]"
-  - "[[Neocorporatism]]"
   - "[[Selectivity]]"
-related_theories: []
+related_theories:
+  - "[[Neocorporatism]]"
 related_methods: []
 related_persons: []
 related_facts:

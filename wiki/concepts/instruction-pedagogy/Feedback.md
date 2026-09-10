@@ -21,13 +21,13 @@ related_concepts:
   - "[[Data Behaviorism]]"
   - "[[Homework]]"
   - "[[Visible Learning]]"
-  - "[[Effect Size]]"
   - "[[Metacognition]]"
   - "[[Classroom Management]]"
   - "[[Variable]]"
   - "[[Operationalization]]"
 related_theories: []
 related_methods:
+  - "[[Effect Size]]"
   - "[[Meta-analysis]]"
 related_persons: []
 related_facts: []

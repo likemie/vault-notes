@@ -24,12 +24,9 @@ tags:
   - causal-inference
   - multilevel-modeling
 related_concepts:
-  - "[[Standard Error]]"
-  - "[[Statistical Significance]]"
   - "[[Classroom Management]]"
   - "[[Academic Achievement]]"
   - "[[Unit of Analysis]]"
-  - "[[Effect Size]]"
   - "[[Type I and Type II Errors]]"
   - "[[Epistemology]]"
   - "[[Peer-Supported Learning]]"
@@ -43,6 +40,9 @@ related_theories:
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Random Assignment]]"
+  - "[[Standard Error]]"
+  - "[[Statistical Significance]]"
+  - "[[Effect Size]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Analysis of Variance]]"
   - "[[Quasi-Experimental Designs]]"

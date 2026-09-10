@@ -23,7 +23,6 @@ tags:
 - evidence-based-education
 - research-methodology
 related_concepts:
-  - "[[Effect Size]]"
   - "[[Heterogeneity]]"
   - "[[Publication Bias]]"
   - "[[Document]]"
@@ -54,6 +53,7 @@ related_theories:
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Effect Size]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Pearson Product-Moment Correlation]]"
   - "[[Chi-Squared Test]]"

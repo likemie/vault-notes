@@ -35,7 +35,6 @@ related_concepts:
   - "[[Document]]"
   - "[[Research Utilization]]"
   - "[[Emergence]]"
-  - "[[Effect Size]]"
   - "[[Causality]]"
   - "[[Avatar]]"
   - "[[Visible Learning]]"
@@ -50,6 +49,7 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Critical Review]]"
   - "[[Random Assignment]]"
+  - "[[Effect Size]]"
 related_persons:
   - "[[Gene Glass]]"
 related_facts:

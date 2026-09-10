@@ -24,11 +24,11 @@ related_concepts:
   - "[[Variable]]"
   - "[[Epistemology]]"
   - "[[Hypothesis]]"
-  - "[[Standard Error]]"
   - "[[Sample Size Determination]]"
   - "[[Heterogeneity]]"
   - "[[Response Bias]]"
 related_methods:
+  - "[[Standard Error]]"
   - "[[Survey Research]]"
   - "[[Multiple Regression]]"
   - "[[Meta-regression]]"

@@ -36,17 +36,17 @@ related_concepts:
   - "[[Meta-Representational Competence]]"
   - "[[Rote Learning]]"
   - "[[Heterogeneity]]"
-  - "[[Prediction Interval]]"
   - "[[Dependent Variable]]"
   - "[[Divergent Thinking]]"
   - "[[Convergent Thinking]]"
   - "[[Construct]]"
-  - "[[Effect Size]]"
 related_theories: []
 related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Meta-analysis]]"
+  - "[[Prediction Interval]]"
   - "[[Experimental Research]]"
+  - "[[Effect Size]]"
 related_instruments: []
 related_persons: []
 related_facts: []

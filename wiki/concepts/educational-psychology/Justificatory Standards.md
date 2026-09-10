@@ -23,7 +23,6 @@ related_concepts:
   - "[[Epistemic Ideals]]"
   - "[[Epistemology]]"
   - "[[Reliable Epistemic Processes]]"
-  - "[[Internal Consistency]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Questionnaire]]"
   - "[[Sample Size Determination]]"
@@ -37,6 +36,7 @@ related_theories:
   - "[[AIR Model of Epistemic Cognition]]"
   - "[[Toulmin's Argumentation Model]]"
 related_methods:
+  - "[[Internal Consistency]]"
   - "[[Discourse Analysis]]"
   - "[[Causal Modeling]]"
 related_persons:

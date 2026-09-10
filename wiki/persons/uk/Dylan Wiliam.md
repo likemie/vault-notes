@@ -24,7 +24,6 @@ related_concepts:
   - "[[Tracking]]"
   - "[[Emergence]]"
   - "[[Visible Learning]]"
-  - "[[Effect Size]]"
   - "[[Validity as Inferences]]"
   - "[[Epistemology]]"
   - "[[Epistemic Stances]]"
@@ -32,6 +31,7 @@ related_theories: []
 related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
 related_persons: []
 related_arguments:
   - "[[Argument_Wiliam_2019_ERE]]"

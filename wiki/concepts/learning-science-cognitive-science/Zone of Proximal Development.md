@@ -32,9 +32,7 @@ related_concepts:
   - "[[Intelligent Tutoring Systems]]"
   - "[[Peer-Supported Learning]]"
   - "[[Dependent Variable]]"
-  - "[[Effect Size]]"
   - "[[Heterogeneity]]"
-  - "[[Prediction Interval]]"
   - "[[Construct]]"
   - "[[Procedural Skill]]"
   - "[[Higher-Order Thinking Skills]]"
@@ -46,7 +44,9 @@ related_theories:
 related_methods:
   - "[[Time Series Design]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Effect Size]]"
   - "[[Meta-analysis]]"
+  - "[[Prediction Interval]]"
 related_persons:
   - "[[Jean Piaget]]"
   - "[[Lev Vygotsky]]"

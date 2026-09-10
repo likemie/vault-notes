@@ -19,13 +19,13 @@ tags:
   - quantitative-research
   - sample-size
 related_concepts:
-  - "[[Effect Size]]"
   - "[[Sample Size Determination]]"
   - "[[Variable]]"
   - "[[Hypothesis]]"
   - "[[Independent Variable]]"
 related_theories: []
 related_methods:
+  - "[[Effect Size]]"
   - "[[Survey Research]]"
   - "[[Experimental Research]]"
   - "[[Quantitative Research]]"

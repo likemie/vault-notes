@@ -19,8 +19,8 @@ related_concepts:
   - "[[Depoliticalization of Ethnic Policy]]"
   - "[[Revoicing]]"
   - "[[Retrotopia]]"
+related_theories:
   - "[[Necropolitics]]"
-related_theories: []
 related_methods: []
 related_persons:
   - "[[Ma Rong]]"

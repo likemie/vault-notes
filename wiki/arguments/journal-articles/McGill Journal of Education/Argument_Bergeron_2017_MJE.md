@@ -28,7 +28,6 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Visible Learning]]"
   - "[[Scientific Method]]"
-  - "[[Effect Size]]"
   - "[[Class Size]]"
   - "[[Creativity]]"
   - "[[Creativity Assessment]]"
@@ -36,6 +35,7 @@ related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Effect Size]]"
   - "[[Random Assignment]]"
 related_persons:
   - "[[John Hattie]]"

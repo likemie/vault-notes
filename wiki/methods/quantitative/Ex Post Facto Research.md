@@ -30,8 +30,6 @@ related_concepts:
   - "[[Post Hoc Ergo Propter Hoc Fallacy]]"
   - "[[Questionnaire]]"
   - "[[Alternative Hypothesis]]"
-  - "[[Co-relational Study]]"
-  - "[[Criterion Group Study]]"
   - "[[Effective Teaching]]"
   - "[[Document]]"
   - "[[Falsification]]"
@@ -44,6 +42,8 @@ related_methods:
   - "[[Experimental Research]]"
   - "[[t-test]]"
   - "[[Analysis of Variance]]"
+  - "[[Co-relational Study]]"
+  - "[[Criterion Group Study]]"
   - "[[Matching]]"
   - "[[Observational and Correlational Research]]"
 related_arguments:

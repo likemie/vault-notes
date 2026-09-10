@@ -24,7 +24,6 @@ tags:
 - stance/critique
 related_concepts:
   - "[[Research Question]]"
-  - "[[Effect Size]]"
   - "[[Visible Learning]]"
   - "[[Hypothesis]]"
   - "[[Sample Size Determination]]"
@@ -35,6 +34,7 @@ related_concepts:
   - "[[Feedback]]"
 related_theories: []
 related_methods:
+  - "[[Effect Size]]"
   - "[[Multiple-Choice Questions]]"
   - "[[Meta-meta-analysis]]"
 related_persons: []

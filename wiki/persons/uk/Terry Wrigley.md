@@ -24,7 +24,6 @@ related_concepts:
   - "[[Scientific Method]]"
   - "[[Evidence-Based Reform]]"
   - "[[Visible Learning]]"
-  - "[[Effect Size]]"
   - "[[Moral Sidestep]]"
   - "[[Epistemology]]"
   - "[[Pragmatism in China]]"
@@ -38,6 +37,7 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Effect Size]]"
 related_persons:
   - "[[Sean McCusker]]"
   - "[[Bob Lingard]]"

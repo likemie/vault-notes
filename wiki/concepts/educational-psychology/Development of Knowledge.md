@@ -28,7 +28,6 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Heterogeneity]]"
   - "[[Hypothesis]]"
-  - "[[Effect Size]]"
   - "[[Questionnaire]]"
   - "[[Certainty of Knowledge]]"
   - "[[Confidence Interval]]"
@@ -37,6 +36,7 @@ related_arguments:
   - "[[Argument_Hofer_1997_RER]]"
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
 related_persons: []
 confidence: high
 status: active

@@ -26,7 +26,6 @@ tags:
 related_concepts:
   - "[[Visible Learning]]"
   - "[[Whole Language]]"
-  - "[[Effect Size]]"
   - "[[Constructivist Paradigm]]"
   - "[[Technical Rationality]]"
   - "[[Theoretical Standpoint]]"
@@ -46,6 +45,7 @@ related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Effect Size]]"
 related_persons:
   - "[[John Hattie]]"
   - "[[Ken Goodman]]"

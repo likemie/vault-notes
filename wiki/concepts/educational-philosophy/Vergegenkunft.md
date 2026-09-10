@@ -15,9 +15,9 @@ tags:
 - past-present-future
 - literature
 related_concepts:
-  - "[[Transitology]]"
   - "[[Hypothesis]]"
-related_theories: []
+related_theories:
+  - "[[Transitology]]"
 related_methods: []
 related_persons: []
 related_facts:

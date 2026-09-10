@@ -22,13 +22,13 @@ related_concepts:
   - "[[Global Education Industry]]"
   - "[[Promising Student]]"
   - "[[Competitiveness]]"
-  - "[[Governmentality]]"
   - "[[Online Self-Assessment]]"
   - "[[Digital Self]]"
   - "[[Digital Optimum]]"
   - "[[Analytic Framework]]"
   - "[[Geopolitics of Knowledge]]"
-related_theories: []
+related_theories:
+  - "[[Governmentality]]"
 related_methods: []
 related_persons:
   - "[[Marcelo Parreira do Amaral]]"

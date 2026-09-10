@@ -29,7 +29,6 @@ tags:
 - preregistration
 related_concepts:
   - "[[Research Question]]"
-  - "[[Effect Size]]"
   - "[[Sample Size Determination]]"
   - "[[Researcher Degrees of Freedom]]"
   - "[[Publication Bias]]"
@@ -39,15 +38,16 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Heterogeneity]]"
-  - "[[Prediction Interval]]"
   - "[[Causality]]"
   - "[[Implementation Fidelity]]"
 related_theories: []
 related_methods:
+  - "[[Effect Size]]"
   - "[[Meta-analysis]]"
   - "[[Meta-regression]]"
   - "[[Robust Variance Estimation]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Prediction Interval]]"
   - "[[Quasi-Experimental Designs]]"
 related_persons: []
 related_facts:

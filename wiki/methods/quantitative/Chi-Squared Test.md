@@ -25,11 +25,11 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Questionnaire]]"
   - "[[Sample Size Determination]]"
-  - "[[Effect Size]]"
   - "[[Causality]]"
 related_theories: []
 related_methods:
   - "[[Survey Research]]"
+  - "[[Effect Size]]"
 related_persons: []
 related_facts: []
 related_arguments:

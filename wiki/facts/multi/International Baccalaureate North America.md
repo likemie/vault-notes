@@ -21,7 +21,6 @@ tags:
   - theme/educational-finance
 related_concepts:
   - "[[International Baccalaureate]]"
-  - "[[Theory of Mind]]"
   - "[[Theory of Knowledge]]"
   - "[[International Schools]]"
   - "[[Advanced Placement Program]]"
@@ -31,6 +30,8 @@ related_facts:
   - "[[A Nation at Risk 1983]]"
 related_arguments:
   - "[[Argument_Peterson_1987_OpenCourt_Ch06]]"
+related_theories:
+  - "[[Theory of Mind]]"
 confidence: high
 status: draft
 created: 2026-09-01

@@ -39,11 +39,11 @@ related_concepts:
   - "[[Project-Based Learning]]"
   - "[[Critical Thinking]]"
   - "[[Likert Scale]]"
-  - "[[Internal Consistency]]"
   - "[[Construct Validity]]"
   - "[[Higher-Order Thinking Skills]]"
 related_theories: []
 related_methods:
+  - "[[Internal Consistency]]"
   - "[[Confirmatory Factor Analysis]]"
 related_instruments: []
 related_persons: []

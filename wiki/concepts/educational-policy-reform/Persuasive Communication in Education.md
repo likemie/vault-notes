@@ -24,7 +24,6 @@ related_concepts:
   - "[[Knowledge Mobilisation]]"
   - "[[Technical Rationality]]"
   - "[[Chain of Evidence]]"
-  - "[[Effect Size]]"
   - "[[Teacher Professional Agency]]"
   - "[[Heterogeneity]]"
   - "[[Confidence Interval]]"
@@ -37,7 +36,8 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Neuroplasticity]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Effect Size]]"
 related_persons:
   - "[[Julie Nelson]]"
   - "[[Carol Campbell]]"

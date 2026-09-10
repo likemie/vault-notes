@@ -43,8 +43,6 @@ related_concepts:
   - "[[Seductive Details Effect]]"
   - "[[Homework]]"
   - "[[Heterogeneity]]"
-  - "[[Prediction Interval]]"
-  - "[[Effect Size]]"
   - "[[Cognitive Shifting]]"
   - "[[Dependent Variable]]"
   - "[[Creativity Training]]"
@@ -56,6 +54,8 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Experimental Research]]"
   - "[[Three-Level Meta-Analysis]]"
+  - "[[Prediction Interval]]"
+  - "[[Effect Size]]"
   - "[[Meta-meta-analysis]]"
 related_instruments:
   - "[[Torrance Tests of Creative Thinking]]"

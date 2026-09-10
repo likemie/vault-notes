@@ -27,11 +27,9 @@ tags:
 related_concepts:
   - "[[Criterion-Referenced Test]]"
   - "[[Unit of Analysis]]"
-  - "[[Item Analysis]]"
   - "[[Variable]]"
   - "[[Epistemology]]"
   - "[[Reliability]]"
-  - "[[Inter-Rater Reliability]]"
   - "[[Content Validity]]"
   - "[[Construct]]"
   - "[[Creativity]]"
@@ -46,7 +44,9 @@ related_concepts:
   - "[[Ecological Validity]]"
 related_theories:
   - "[[Item Response Theory]]"
-related_methods: []
+related_methods:
+  - "[[Item Analysis]]"
+  - "[[Inter-Rater Reliability]]"
 related_instruments: []
 related_persons: []
 related_facts: []

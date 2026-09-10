@@ -28,7 +28,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Positivism]]"
   - "[[Document]]"
-  - "[[Domain Analysis]]"
   - "[[Causality]]"
   - "[[Memos]]"
   - "[[Scaffolding]]"
@@ -48,6 +47,7 @@ related_methods:
   - "[[In-depth Interview]]"
   - "[[Participant Observation]]"
   - "[[Constant Comparison]]"
+  - "[[Domain Analysis]]"
   - "[[Qualitative Computer Software]]"
   - "[[Theoretical Sampling]]"
 related_instruments: []

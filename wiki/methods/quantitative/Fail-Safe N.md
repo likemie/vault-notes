@@ -24,7 +24,6 @@ tags:
 related_concepts:
   - "[[Counterfactual]]"
   - "[[Hypothesis]]"
-  - "[[Effect Size]]"
   - "[[Publication Bias]]"
   - "[[Document]]"
   - "[[Unit of Analysis]]"
@@ -39,6 +38,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
   - "[[Meta-meta-analysis]]"
   - "[[Trim and Fill Method]]"
   - "[[Leave-One-Out Sensitivity Analysis]]"

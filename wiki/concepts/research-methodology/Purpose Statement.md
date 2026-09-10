@@ -21,7 +21,6 @@ related_concepts:
   - "[[Central Phenomenon]]"
   - "[[Variable]]"
   - "[[Nondirectional Language]]"
-  - "[[Descriptive Analysis]]"
   - "[[Research Writing Script]]"
   - "[[Academic Achievement]]"
   - "[[Document]]"
@@ -36,6 +35,7 @@ related_theories:
 related_methods:
   - "[[Quantitative Research]]"
   - "[[Qualitative Research]]"
+  - "[[Descriptive Analysis]]"
   - "[[Ethnography]]"
   - "[[Grounded Theory]]"
   - "[[Case Study]]"

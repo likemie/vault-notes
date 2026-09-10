@@ -34,13 +34,13 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Reliability]]"
   - "[[Higher-Order Thinking Skills]]"
-  - "[[Internal Consistency]]"
   - "[[Pre-test and Post-test]]"
 related_theories:
   - "[[APA Delphi Consensus on Critical Thinking]]"
 related_methods:
   - "[[Intervention Research]]"
   - "[[Multiple-Choice Questions]]"
+  - "[[Internal Consistency]]"
 related_instruments: []
 related_persons:
   - "[[Peter Facione]]"

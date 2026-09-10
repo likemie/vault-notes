@@ -17,7 +17,6 @@ tags:
 - research-methodology
 related_concepts:
   - "[[Variable]]"
-  - "[[Multimethod Research]]"
   - "[[Independent Variable]]"
   - "[[Epistemology]]"
   - "[[Hypothesis]]"
@@ -31,6 +30,7 @@ related_methods:
   - "[[Intervention Research]]"
   - "[[Qualitative Research]]"
   - "[[Mixed Methods Research]]"
+  - "[[Multimethod Research]]"
   - "[[Experimental Research]]"
   - "[[Observational and Correlational Research]]"
   - "[[Randomised Controlled Trials]]"

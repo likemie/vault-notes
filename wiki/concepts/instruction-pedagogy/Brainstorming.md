@@ -25,11 +25,9 @@ related_concepts:
   - "[[Creativity Training]]"
   - "[[Working Memory]]"
   - "[[Variable]]"
-  - "[[Effect Size]]"
   - "[[Blended Learning]]"
   - "[[SCAMPER]]"
   - "[[Heterogeneity]]"
-  - "[[Prediction Interval]]"
   - "[[Dependent Variable]]"
   - "[[Scaffolding]]"
   - "[[Cognitive Flexibility]]"
@@ -43,6 +41,8 @@ related_methods:
   - "[[Nominal Group Technique]]"
   - "[[Experimental Research]]"
   - "[[Three-Level Meta-Analysis]]"
+  - "[[Effect Size]]"
+  - "[[Prediction Interval]]"
   - "[[Meta-meta-analysis]]"
 related_instruments: []
 related_arguments:

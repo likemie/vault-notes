@@ -24,7 +24,6 @@ tags:
   - quantitative-methods
   - psychometrics
 related_concepts:
-  - "[[Multimethod Research]]"
   - "[[Construct Validity]]"
   - "[[Convergent and Discriminant Validity]]"
   - "[[Scale of Measurement]]"
@@ -40,6 +39,7 @@ related_concepts:
 related_theories:
   - "[[Campbellian Validity Framework]]"
 related_methods:
+  - "[[Multimethod Research]]"
   - "[[Confirmatory Factor Analysis]]"
   - "[[Pearson Product-Moment Correlation]]"
   - "[[Causal Modeling]]"

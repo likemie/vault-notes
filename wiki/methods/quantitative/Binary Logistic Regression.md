@@ -14,13 +14,12 @@ tags:
   - method/regression
 related_concepts:
   - "[[Variable]]"
+  - "[[Peidu]]"
   - "[[Attrition]]"
   - "[[Dependent Variable]]"
   - "[[Independent Variable]]"
-  - "[[Statistical Significance]]"
   - "[[Unit of Analysis]]"
   - "[[Study Population and Sample]]"
-  - "[[Standard Error]]"
   - "[[Epistemology]]"
   - "[[Positivism]]"
   - "[[Hypothesis]]"
@@ -29,6 +28,8 @@ related_concepts:
   - "[[Sample Size Determination]]"
 related_theories: []
 related_methods:
+  - "[[Statistical Significance]]"
+  - "[[Standard Error]]"
   - "[[Quantitative Research]]"
   - "[[Mixed Methods Research]]"
   - "[[Coding in Qualitative Research]]"
@@ -37,8 +38,7 @@ related_methods:
   - "[[Qualitative Interview]]"
 related_instruments: []
 related_persons: []
-related_facts:
-  - "[[Peidu]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Teng_2025_CE]]"
 confidence: high

@@ -31,13 +31,13 @@ related_concepts:
   - "[[Effective Teaching]]"
   - "[[Feedback]]"
   - "[[Student-Teacher Relationship]]"
-  - "[[Effect Size]]"
   - "[[Variable]]"
   - "[[Classroom Management]]"
   - "[[Academic Achievement]]"
 related_theories: []
 related_methods:
   - "[[Comparative Meta-synthesis]]"
+  - "[[Effect Size]]"
 related_persons: []
 related_facts:
   - "[[PISA]]"

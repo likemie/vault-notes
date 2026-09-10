@@ -23,7 +23,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Causality]]"
   - "[[Growth]]"
-  - "[[Effect Size]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Visible Learning]]"
@@ -32,6 +31,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
 related_persons:
   - "[[Viviane Robinson]]"
   - "[[John Hattie]]"

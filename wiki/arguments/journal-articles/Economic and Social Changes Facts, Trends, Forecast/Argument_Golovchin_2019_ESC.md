@@ -27,7 +27,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Policy Borrowing]]"
   - "[[Document]]"
-  - "[[Effect Size]]"
   - "[[Class Size]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Causality]]"
@@ -40,6 +39,7 @@ related_theories:
   - "[[Societies of Control]]"
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
   - "[[Meta-meta-analysis]]"
   - "[[Systematic Review]]"
   - "[[Qualitative Research]]"

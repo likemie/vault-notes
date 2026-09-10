@@ -20,7 +20,6 @@ tags:
 related_concepts:
   - "[[Epistemology]]"
   - "[[Knowledge Production]]"
-  - "[[Post-colonial Theory]]"
   - "[[Paradigm]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Areas of Knowledge]]"
@@ -30,6 +29,7 @@ related_concepts:
   - "[[Epistemic Governance]]"
   - "[[Geopolitics of Knowledge]]"
 related_theories:
+  - "[[Post-colonial Theory]]"
   - "[[Decolonial Geopolitics of Knowledge]]"
 related_methods: []
 related_persons: []

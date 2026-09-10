@@ -21,8 +21,6 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Independent Variable]]"
   - "[[Unit of Analysis]]"
-  - "[[Effect Size]]"
-  - "[[Statistical Significance]]"
   - "[[Variable]]"
   - "[[Threats to Internal Validity]]"
   - "[[Ecological Validity]]"
@@ -35,6 +33,8 @@ related_concepts:
 related_methods:
   - "[[Experimental Research]]"
   - "[[Random Assignment]]"
+  - "[[Effect Size]]"
+  - "[[Statistical Significance]]"
   - "[[Pretest-Posttest Control Group Design]]"
   - "[[Analysis of Variance]]"
   - "[[Analysis of Covariance]]"

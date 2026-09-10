@@ -33,7 +33,6 @@ related_concepts:
   - "[[Questionnaire]]"
   - "[[Logic Model]]"
   - "[[Evidence-Based Reform]]"
-  - "[[Effect Size]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Professional Judgment]]"
   - "[[Classroom Management]]"
@@ -41,7 +40,6 @@ related_concepts:
   - "[[Class Size]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Educational Evidence Clearinghouses]]"
-  - "[[Statistical Significance]]"
   - "[[Operationalization]]"
 related_theories: []
 related_methods:
@@ -50,6 +48,8 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Experimental Research]]"
+  - "[[Effect Size]]"
+  - "[[Statistical Significance]]"
   - "[[Cronbach's Alpha]]"
 related_persons: []
 related_facts:

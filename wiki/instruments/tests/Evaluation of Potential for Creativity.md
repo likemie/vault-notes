@@ -29,11 +29,11 @@ tags:
 related_concepts:
   - "[[Creativity]]"
   - "[[Creativity Training]]"
-  - "[[Inter-Rater Reliability]]"
   - "[[Construct Validity]]"
   - "[[Domain Specificity]]"
 related_theories: []
 related_methods:
+  - "[[Inter-Rater Reliability]]"
   - "[[Measurement Invariance]]"
 related_instruments: []
 related_persons: []

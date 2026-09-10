@@ -35,7 +35,6 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Externalization]]"
   - "[[Problem Solving]]"
-  - "[[Test-Retest Reliability]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Going Native]]"
   - "[[Cultural Validity]]"
@@ -43,6 +42,7 @@ related_theories: []
 related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Test-Retest Reliability]]"
   - "[[Meta-analysis]]"
 related_arguments:
   - "[[Argument_Park_2026_TSC]]"

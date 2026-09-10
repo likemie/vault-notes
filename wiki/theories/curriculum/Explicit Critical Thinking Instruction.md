@@ -24,7 +24,6 @@ related_concepts:
   - "[[International Baccalaureate]]"
   - "[[Metacognition]]"
   - "[[Variable]]"
-  - "[[Effect Size]]"
   - "[[Authentic Instruction]]"
   - "[[Dialogue in Education]]"
   - "[[Mentorship]]"
@@ -41,17 +40,18 @@ related_concepts:
   - "[[Critical Pedagogy]]"
   - "[[Domain Specificity]]"
   - "[[Blended Learning]]"
-  - "[[Prediction Interval]]"
   - "[[Critical Thinking Disposition]]"
   - "[[Direct Instruction]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Experimental Research]]"
+  - "[[Effect Size]]"
   - "[[Case Study]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Prediction Interval]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Mixed Methods Research]]"
 related_persons: []

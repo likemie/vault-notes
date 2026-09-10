@@ -20,16 +20,16 @@ tags:
 related_concepts:
   - "[[Construct]]"
   - "[[Bildung]]"
-  - "[[Wuhu Ruhua]]"
   - "[[Zhonghua Minzu]]"
+  - "[[Boarding Schools]]"
+related_theories:
   - "[[Sacrifice Theory]]"
   - "[[Settler Colonialism]]"
-  - "[[Boarding Schools]]"
-related_theories: []
 related_methods: []
 related_persons:
   - "[[Pan Yue]]"
 related_facts:
+  - "[[Wuhu Ruhua]]"
   - "[[2020 Inner Mongolia Bilingual Education Reform]]"
 related_arguments:
   - "[[Argument_Yu_2024_CE]]"

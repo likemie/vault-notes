@@ -20,7 +20,6 @@ tags:
   - design-type
 related_concepts:
   - "[[Unit of Analysis]]"
-  - "[[Effect Size]]"
   - "[[Variable]]"
   - "[[Order Effects]]"
   - "[[Hypothesis]]"
@@ -31,6 +30,7 @@ related_methods:
   - "[[True Experimental Design]]"
   - "[[Matched Pairs Design]]"
   - "[[Analysis of Variance]]"
+  - "[[Effect Size]]"
   - "[[Random Assignment]]"
   - "[[Pilot Testing]]"
   - "[[ABAB Design]]"

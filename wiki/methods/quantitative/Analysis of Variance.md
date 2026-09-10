@@ -22,7 +22,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Dependent Variable]]"
   - "[[Hypothesis]]"
-  - "[[Effect Size]]"
   - "[[Confidence Interval]]"
   - "[[Independent Variable]]"
   - "[[Interaction Effect]]"
@@ -31,6 +30,7 @@ related_theories: []
 related_methods:
   - "[[Analysis of Covariance]]"
   - "[[Multivariate Analysis of Variance]]"
+  - "[[Effect Size]]"
   - "[[Factorial Design]]"
   - "[[t-test]]"
   - "[[Experimental Research]]"

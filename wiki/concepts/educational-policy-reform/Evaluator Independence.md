@@ -21,7 +21,6 @@ tags:
   - conflict-of-interest
   - program-evaluation
 related_concepts:
-  - "[[Effect Size]]"
   - "[[Epistemology]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Evidence-Based Education]]"
@@ -33,6 +32,7 @@ related_concepts:
 related_theories:
   - "[[Campbellian Validity Framework]]"
 related_methods:
+  - "[[Effect Size]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Meta-analysis]]"

@@ -26,13 +26,13 @@ related_concepts:
   - "[[Methodological Statism]]"
   - "[[Scientism]]"
   - "[[Disciplina and Doctrina]]"
-  - "[[Governing at a Distance]]"
   - "[[Evidence-Based Education]]"
   - "[[Unit of Analysis]]"
   - "[[Realism in International Relations]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Dependency Theory]]"
+  - "[[Governing at a Distance]]"
   - "[[Wight's Three Traditions of International Theory]]"
 related_methods: []
 related_persons: []

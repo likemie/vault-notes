@@ -29,10 +29,10 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Metacognition]]"
   - "[[Dependent Variable]]"
-  - "[[Effect Size]]"
 related_theories: []
 related_methods:
   - "[[Time Series Design]]"
+  - "[[Effect Size]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Meta-analysis]]"
 related_persons:

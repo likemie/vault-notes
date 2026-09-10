@@ -28,7 +28,6 @@ related_concepts:
   - "[[Sponsored Research Agreement]]"
   - "[[Evidence-Based Education]]"
   - "[[Evaluation Research]]"
-  - "[[Effect Size]]"
   - "[[Attrition]]"
   - "[[Scientific Uncertainty]]"
   - "[[Chain of Evidence]]"
@@ -38,6 +37,7 @@ related_concepts:
 related_theories:
   - "[[Campbellian Validity Framework]]"
 related_methods:
+  - "[[Effect Size]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Meta-analysis]]"

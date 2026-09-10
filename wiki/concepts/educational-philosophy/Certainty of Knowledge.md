@@ -41,19 +41,19 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Task Structure]]"
   - "[[Ontology]]"
-  - "[[Postmodernism]]"
   - "[[Sample Size Determination]]"
   - "[[Heterogeneity]]"
   - "[[Epistemological Beliefs]]"
   - "[[Questionnaire]]"
   - "[[Ecological Validity]]"
-  - "[[Effect Size]]"
 related_theories:
   - "[[Item Response Theory]]"
+  - "[[Postmodernism]]"
   - "[[Reflective Judgment Model]]"
 related_methods:
   - "[[Causal Modeling]]"
   - "[[Multiple Regression]]"
+  - "[[Effect Size]]"
   - "[[Cohort Study]]"
 related_instruments:
   - "[[Global Certainty Scale]]"

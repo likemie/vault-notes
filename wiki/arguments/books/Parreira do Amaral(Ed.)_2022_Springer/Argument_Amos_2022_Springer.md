@@ -30,7 +30,6 @@ related_concepts:
   - "[[Transhumanism]]"
   - "[[Posthumanism]]"
   - "[[Response-ability]]"
-  - "[[Transitology]]"
   - "[[Sympoiesis]]"
   - "[[Hypothesis]]"
   - "[[International Education]]"
@@ -54,6 +53,7 @@ related_concepts:
   - "[[Didaktik]]"
   - "[[Ontology]]"
 related_theories:
+  - "[[Transitology]]"
   - "[[World Society Theory]]"
   - "[[Autopoiesis]]"
   - "[[Luhmann's Systems Theory]]"

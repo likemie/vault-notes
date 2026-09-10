@@ -21,11 +21,11 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Independent Variable]]"
   - "[[Implementation Fidelity]]"
-  - "[[Effect Size]]"
   - "[[Publication Bias]]"
   - "[[Preregistration]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Effect Size]]"
 related_persons: []
 related_facts:
   - "[[What Works Clearinghouse]]"

@@ -38,8 +38,6 @@ related_concepts:
   - "[[Qualitative Validity]]"
   - "[[Working Memory]]"
   - "[[Falsification]]"
-  - "[[Negative Case Analysis]]"
-  - "[[Internal Consistency]]"
   - "[[Reliability]]"
   - "[[Rich and Thick Description]]"
   - "[[Heterogeneity]]"
@@ -58,6 +56,8 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Ethnography]]"
   - "[[Qualitative Computer Software]]"
+  - "[[Negative Case Analysis]]"
+  - "[[Internal Consistency]]"
   - "[[Field Notes]]"
   - "[[Visual Research Methods]]"
 related_persons:

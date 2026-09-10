@@ -20,11 +20,11 @@ tags:
 related_concepts:
   - "[[Variable]]"
   - "[[Epistemology]]"
-  - "[[Effect Size]]"
   - "[[Causality]]"
 related_theories:
   - "[[Societies of Control]]"
 related_methods:
+  - "[[Effect Size]]"
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
   - "[[Matching]]"

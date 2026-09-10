@@ -26,7 +26,6 @@ related_concepts:
   - "[[Multiplicity]]"
   - "[[Heterogeneity]]"
   - "[[Space Production]]"
-  - "[[Space-Making]]"
   - "[[Analytic Framework]]"
   - "[[Praxis]]"
   - "[[Methodological Globalism]]"

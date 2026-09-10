@@ -19,7 +19,6 @@ tags:
 - methodology
 - paradigm/positivist
 related_concepts:
-  - "[[Effect Size]]"
   - "[[Hypothesis]]"
   - "[[Clinical Trial]]"
   - "[[Necessary and Sufficient Conditions]]"
@@ -30,6 +29,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
+  - "[[Effect Size]]"
   - "[[Mechanism Experiments]]"
   - "[[Random Assignment]]"
 related_persons: []

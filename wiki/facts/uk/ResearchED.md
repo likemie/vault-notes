@@ -19,7 +19,6 @@ tags:
   - synthetic-phonics
   - region/uk
 related_concepts:
-  - "[[Theory of Mind]]"
   - "[[Evidence-Based Education]]"
   - "[[Research Utilization]]"
   - "[[Scientific Method]]"
@@ -29,7 +28,8 @@ related_concepts:
   - "[[Teacher Professional Agency]]"
   - "[[Ontology]]"
   - "[[Evidence-Informed Practice]]"
-related_theories: []
+related_theories:
+  - "[[Theory of Mind]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Experimental Research]]"

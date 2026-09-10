@@ -36,7 +36,6 @@ related_concepts:
   - "[[Evaluative Validity]]"
   - "[[Threats to Internal Validity]]"
   - "[[Reliability]]"
-  - "[[Effect Size]]"
   - "[[Hypothesis]]"
   - "[[Construct Validity]]"
   - "[[Paradigm Wars]]"
@@ -49,6 +48,7 @@ related_methods:
   - "[[Survey Research]]"
   - "[[Non-probability Sampling]]"
   - "[[Longitudinal Study]]"
+  - "[[Effect Size]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
   - "[[Argument_Creswell_2022_SAGE]]"

@@ -30,10 +30,10 @@ related_concepts:
   - "[[Construct]]"
   - "[[Creativity Training]]"
   - "[[Predictive Validity]]"
-  - "[[Effect Size]]"
 related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
   - "[[Robust Variance Estimation]]"
 related_arguments:
   - "[[Argument_Runco_2026_CRJ]]"

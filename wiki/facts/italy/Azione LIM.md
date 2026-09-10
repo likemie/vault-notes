@@ -23,11 +23,11 @@ tags:
   - policy/technology-integration
 related_concepts:
   - "[[Effective Teaching]]"
-  - "[[Effect Size]]"
   - "[[Technology Infusion]]"
 related_theories: []
 related_methods:
   - "[[Experimental Research]]"
+  - "[[Effect Size]]"
   - "[[Systematic Review]]"
 related_persons: []
 related_facts: []

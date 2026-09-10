@@ -24,12 +24,12 @@ related_concepts:
   - "[[National Character]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Democratic Education]]"
-  - "[[Hegemony]]"
   - "[[Academic Freedom]]"
   - "[[Dialogue in Education]]"
   - "[[Educational Meliorism]]"
   - "[[Going Native]]"
-related_theories: []
+related_theories:
+  - "[[Hegemony]]"
 related_methods:
   - "[[Meta-analysis]]"
 related_instruments: []

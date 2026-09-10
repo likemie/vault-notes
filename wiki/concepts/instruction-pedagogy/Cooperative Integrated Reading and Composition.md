@@ -25,7 +25,6 @@ related_concepts:
   - "[[Peer-Supported Learning]]"
   - "[[Scaffolding]]"
   - "[[Direct Instruction]]"
-  - "[[Effect Size]]"
   - "[[Classroom Management]]"
   - "[[Confidence Interval]]"
   - "[[Jigsaw]]"
@@ -33,6 +32,7 @@ related_theories: []
 related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
 related_instruments: []
 related_persons:
   - "[[Robert Slavin]]"

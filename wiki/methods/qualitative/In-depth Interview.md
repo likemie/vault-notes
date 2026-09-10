@@ -29,7 +29,6 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Emergence]]"
-  - "[[Progressive Focussing]]"
   - "[[Central Question]]"
   - "[[Growth]]"
   - "[[Research Topic]]"
@@ -40,6 +39,7 @@ related_concepts:
   - "[[Analytic Generalization]]"
   - "[[Causality]]"
   - "[[Space Production]]"
+  - "[[Peidu]]"
   - "[[School Choice]]"
   - "[[Learner-Centred Education]]"
   - "[[Going Native]]"
@@ -55,12 +55,12 @@ related_methods:
   - "[[Interview Protocol]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Narrative Analysis]]"
+  - "[[Progressive Focussing]]"
   - "[[Member Checking]]"
   - "[[Focus Group]]"
 related_persons: []
 related_facts:
   - "[[Guangdong-Hong Kong-Macau Greater Bay Area]]"
-  - "[[Peidu]]"
 related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
   - "[[Argument_Cole_2015_AJE]]"

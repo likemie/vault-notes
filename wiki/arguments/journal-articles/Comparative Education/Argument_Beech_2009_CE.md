@@ -38,7 +38,6 @@ related_concepts:
   - "[[Document]]"
   - "[[Policy Network]]"
   - "[[Global Citizenship]]"
-  - "[[Postmodernism]]"
   - "[[Symbolic Boundary]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Rote Learning]]"
@@ -50,6 +49,7 @@ related_concepts:
   - "[[Absorptive Capacity]]"
 related_theories:
   - "[[Network Society]]"
+  - "[[Postmodernism]]"
   - "[[Bloom's Taxonomy]]"
 related_methods:
   - "[[Qualitative Interview]]"

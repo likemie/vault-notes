@@ -20,7 +20,6 @@ tags:
 related_concepts:
   - "[[Paradigm]]"
   - "[[Internal Validity]]"
-  - "[[Effect Size]]"
   - "[[Causality]]"
   - "[[Hypothesis]]"
   - "[[Spirals of Inquiry]]"
@@ -31,6 +30,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
+  - "[[Effect Size]]"
   - "[[Mechanism Experiments]]"
   - "[[Snowball Sampling]]"
 related_persons: []

@@ -27,11 +27,11 @@ related_concepts:
   - "[[Digital Self]]"
   - "[[Digital Optimum]]"
   - "[[Theoretical Perspective]]"
-  - "[[Governmentality]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Bildung]]"
   - "[[Growth]]"
 related_theories:
+  - "[[Governmentality]]"
   - "[[Societies of Control]]"
 related_methods: []
 related_persons: []

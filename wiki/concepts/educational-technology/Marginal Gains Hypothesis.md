@@ -21,7 +21,6 @@ tags:
   - meta-analysis
 related_concepts:
   - "[[Hypothesis]]"
-  - "[[Effect Size]]"
   - "[[Academic Achievement]]"
   - "[[Scaffolding]]"
   - "[[Fade-out Effect]]"
@@ -31,12 +30,13 @@ related_concepts:
   - "[[Learning Gap]]"
   - "[[Pre-test and Post-test]]"
   - "[[Heterogeneity]]"
-  - "[[Prediction Interval]]"
 related_theories: []
 related_methods:
+  - "[[Effect Size]]"
   - "[[Experimental Research]]"
   - "[[Meta-analysis]]"
   - "[[Baseline Standardized Mean Difference]]"
+  - "[[Prediction Interval]]"
   - "[[Moderator Analysis]]"
 related_instruments: []
 related_persons: []

@@ -26,7 +26,6 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Geometries of Insertion]]"
   - "[[Social Cloning]]"
-  - "[[Transitology]]"
   - "[[Variable]]"
   - "[[Document]]"
   - "[[Policy Borrowing]]"
@@ -45,7 +44,6 @@ related_concepts:
   - "[[Enlightenment]]"
   - "[[Artefact]]"
   - "[[Pragmatic Paradigm]]"
-  - "[[Academic Capitalism]]"
   - "[[Research Question]]"
   - "[[Literature Review]]"
   - "[[New Professionalism]]"
@@ -57,7 +55,9 @@ related_concepts:
   - "[[Educational Immunology]]"
   - "[[Paradigm]]"
   - "[[External Auditor]]"
-related_theories: []
+related_theories:
+  - "[[Transitology]]"
+  - "[[Academic Capitalism]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
 related_persons:

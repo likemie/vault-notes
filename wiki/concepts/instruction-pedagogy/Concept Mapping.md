@@ -36,9 +36,7 @@ related_concepts:
   - "[[Graphic Organizer]]"
   - "[[Working Memory]]"
   - "[[Heterogeneity]]"
-  - "[[Prediction Interval]]"
   - "[[Visible Learning]]"
-  - "[[Effect Size]]"
   - "[[Scaffolding]]"
   - "[[Dependent Variable]]"
   - "[[Convergent Thinking]]"
@@ -47,7 +45,9 @@ related_theories:
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Multiple-Choice Questions]]"
+  - "[[Prediction Interval]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Effect Size]]"
 related_arguments:
   - "[[Argument_Lei_Ding_Chiu_2026_ERR]]"
 confidence: high

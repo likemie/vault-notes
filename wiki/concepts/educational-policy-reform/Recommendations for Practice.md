@@ -15,7 +15,6 @@ tags:
 - evidence-based-education
 - causal-inference
 related_concepts:
-  - "[[Multimethod Research]]"
   - "[[Study Population and Sample]]"
   - "[[Variable]]"
   - "[[Evidence-Based Education]]"
@@ -28,6 +27,7 @@ related_methods:
   - "[[Intervention Research]]"
   - "[[Qualitative Research]]"
   - "[[Mixed Methods Research]]"
+  - "[[Multimethod Research]]"
   - "[[Observational and Correlational Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Random Assignment]]"

@@ -22,12 +22,12 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Transformative Leadership]]"
   - "[[Academic Achievement]]"
-  - "[[Effect Size]]"
   - "[[Visible Learning]]"
   - "[[Return on Investment]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
   - "[[Meta-meta-analysis]]"
 related_persons:
   - "[[John Hattie]]"

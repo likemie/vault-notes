@@ -25,7 +25,6 @@ related_concepts:
   - "[[Semantic Differential]]"
   - "[[Reliability]]"
   - "[[Epistemology]]"
-  - "[[Internal Consistency]]"
   - "[[Sample Size Determination]]"
   - "[[Questionnaire]]"
 related_methods:
@@ -33,6 +32,7 @@ related_methods:
   - "[[Scale Development]]"
   - "[[Causal Modeling]]"
   - "[[Pilot Testing]]"
+  - "[[Internal Consistency]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"

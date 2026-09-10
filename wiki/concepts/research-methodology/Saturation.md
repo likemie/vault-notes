@@ -19,13 +19,13 @@ related_concepts:
   - "[[Sample Size Determination]]"
   - "[[Reliability]]"
   - "[[Emergence]]"
-  - "[[Effect Size]]"
 related_theories:
   - "[[Phenomenology]]"
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Grounded Theory]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Effect Size]]"
   - "[[Survey Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23]]"

@@ -26,7 +26,6 @@ related_concepts:
   - "[[Higher-Order Thinking Skills]]"
   - "[[Cooperative Integrated Reading and Composition]]"
   - "[[Group Investigation]]"
-  - "[[Effect Size]]"
   - "[[Dialogue in Education]]"
   - "[[Operationalization]]"
   - "[[Scaffolding]]"
@@ -34,6 +33,7 @@ related_theories: []
 related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
 related_instruments: []
 related_persons:
   - "[[Kurt Lewin]]"

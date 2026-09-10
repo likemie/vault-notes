@@ -30,7 +30,6 @@ related_concepts:
   - "[[Technical Rationality]]"
   - "[[Literature Review]]"
   - "[[Interaction Effect]]"
-  - "[[Effect Size]]"
   - "[[Didaktik]]"
   - "[[Positivism]]"
   - "[[Growth]]"
@@ -42,6 +41,7 @@ related_concepts:
   - "[[Doxa]]"
 related_theories: []
 related_methods:
+  - "[[Effect Size]]"
   - "[[Accounts]]"
 related_persons: []
 related_facts:

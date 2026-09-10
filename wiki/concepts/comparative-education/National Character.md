@@ -31,7 +31,6 @@ related_concepts:
   - "[[Causality]]"
   - "[[Positivism]]"
   - "[[Paradigm]]"
-  - "[[Hegemony]]"
   - "[[Habitus]]"
   - "[[Reflexivity]]"
   - "[[Variable]]"
@@ -42,7 +41,8 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Educational Meliorism]]"
   - "[[Operationalization]]"
-related_theories: []
+related_theories:
+  - "[[Hegemony]]"
 related_methods:
   - "[[Historical-Comparative Method]]"
 related_instruments: []

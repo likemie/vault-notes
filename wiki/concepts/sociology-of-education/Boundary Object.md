@@ -27,11 +27,11 @@ related_concepts:
   - "[[Problem Solving]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Critical Thinking]]"
-  - "[[Effect Size]]"
   - "[[Variable]]"
 related_theories:
   - "[[Third Generation Activity Theory]]"
 related_methods:
+  - "[[Effect Size]]"
   - "[[Systematic Review]]"
 related_arguments:
   - "[[Argument_Li_2026_CEAI]]"

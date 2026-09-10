@@ -29,6 +29,7 @@ related_concepts:
   - "[[Gatekeepers]]"
   - "[[Epistemology]]"
   - "[[Heterogeneity]]"
+  - "[[Peidu]]"
   - "[[Research Ethics]]"
   - "[[Cultural Capital]]"
   - "[[Rich and Thick Description]]"
@@ -60,8 +61,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08]]"
 related_theories:
   - "[[Critical Ethnography]]"
-related_facts:
-  - "[[Peidu]]"
+related_facts: []
 status: draft
 created: 2026-06-22
 updated: 2026-07-11

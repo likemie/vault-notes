@@ -36,7 +36,6 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[Paradigm]]"
   - "[[Critical Pedagogy]]"
-  - "[[Social Realism]]"
   - "[[Attrition]]"
   - "[[Epistemology]]"
   - "[[Interpretive Paradigm]]"
@@ -47,6 +46,7 @@ related_concepts:
 related_theories:
   - "[[Phenomenology]]"
   - "[[Thomas Theorem]]"
+  - "[[Social Realism]]"
   - "[[Curriculum Design Coherence Model]]"
   - "[[Symbolic Interactionism]]"
   - "[[Radical Constructivism]]"

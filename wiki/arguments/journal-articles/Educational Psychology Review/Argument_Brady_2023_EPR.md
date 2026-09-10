@@ -30,7 +30,6 @@ related_concepts:
   - "[[Recommendations for Practice]]"
   - "[[Hypothesis]]"
   - "[[Causality]]"
-  - "[[Multimethod Research]]"
   - "[[Variable]]"
   - "[[Independent Variable]]"
   - "[[Reliability]]"
@@ -44,6 +43,7 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Qualitative Research]]"
   - "[[Mixed Methods Research]]"
+  - "[[Multimethod Research]]"
   - "[[Random Assignment]]"
 related_persons: []
 related_facts: []

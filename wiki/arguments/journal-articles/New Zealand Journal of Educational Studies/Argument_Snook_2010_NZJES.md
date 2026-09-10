@@ -31,7 +31,6 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Problem Solving]]"
   - "[[Hypothesis]]"
-  - "[[Effect Size]]"
   - "[[Class Size]]"
   - "[[Academic Achievement]]"
   - "[[Variable]]"
@@ -45,6 +44,7 @@ related_concepts:
   - "[[Evaluation Research]]"
 related_theories: []
 related_methods:
+  - "[[Effect Size]]"
   - "[[Meta-analysis]]"
   - "[[Case Study]]"
 related_persons: []

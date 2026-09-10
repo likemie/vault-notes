@@ -23,11 +23,11 @@ related_concepts:
   - "[[Justification for Knowing]]"
   - "[[Domain Specificity]]"
   - "[[Document]]"
-  - "[[Theory of Mind]]"
   - "[[Ontology]]"
   - "[[Hypothesis]]"
   - "[[Metacognition]]"
-related_theories: []
+related_theories:
+  - "[[Theory of Mind]]"
 related_methods: []
 related_instruments: []
 related_persons: []

@@ -21,12 +21,12 @@ related_concepts:
   - "[[Sample Size Determination]]"
   - "[[Hypothesis]]"
   - "[[Emergence]]"
-  - "[[Analytic Induction]]"
 related_theories: []
 related_methods:
   - "[[Grounded Theory]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Qualitative Research]]"
+  - "[[Analytic Induction]]"
 related_persons: []
 related_facts: []
 related_arguments:

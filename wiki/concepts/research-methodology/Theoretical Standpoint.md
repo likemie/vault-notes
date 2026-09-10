@@ -21,12 +21,12 @@ related_concepts:
   - "[[Research Scope]]"
   - "[[Research Problem]]"
   - "[[Knowledge Production]]"
-  - "[[Queer Theory]]"
   - "[[Theoretical End Point]]"
   - "[[Analytic Framework]]"
   - "[[Transformative Paradigm]]"
 related_theories:
   - "[[Critical Theory]]"
+  - "[[Queer Theory]]"
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Ethnography]]"

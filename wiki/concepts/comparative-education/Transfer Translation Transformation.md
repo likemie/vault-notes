@@ -26,7 +26,6 @@ related_concepts:
   - "[[Going Native]]"
   - "[[Cross-National Attraction]]"
   - "[[Recontextualization]]"
-  - "[[Transitology]]"
   - "[[Praxis]]"
   - "[[Floating Signifier]]"
   - "[[Paradigm]]"
@@ -45,6 +44,7 @@ related_concepts:
   - "[[Democratic Education]]"
 related_theories:
   - "[[Wight's Three Traditions of International Theory]]"
+  - "[[Transitology]]"
   - "[[Network Society]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"

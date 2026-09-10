@@ -13,21 +13,20 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Zhonghua Minzu]]"
-  - "[[Necropolitics]]"
   - "[[Paradigm]]"
   - "[[Avatar]]"
   - "[[Retrotopia]]"
-  - "[[Sacrifice Theory]]"
-  - "[[Settler Colonialism]]"
   - "[[Dialogue in Education]]"
   - "[[Document]]"
-  - "[[Wuhu Ruhua]]"
   - "[[Second-generation Ethnic Policy]]"
   - "[[Grand Theory]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Operationalization]]"
   - "[[External Validity]]"
 related_theories:
+  - "[[Necropolitics]]"
+  - "[[Sacrifice Theory]]"
+  - "[[Settler Colonialism]]"
   - "[[Human Capital Theory]]"
 related_methods:
   - "[[Fieldwork]]"
@@ -38,6 +37,7 @@ related_persons:
   - "[[Ma Rong]]"
 related_facts:
   - "[[2020 Inner Mongolia Bilingual Education Reform]]"
+  - "[[Wuhu Ruhua]]"
 related_arguments: []
 sources:
   - "[[sources/Bulag_2024_CE|Bulag_2024_CE]]"

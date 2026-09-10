@@ -16,13 +16,13 @@ tags:
   - method/measurement
 related_concepts:
   - "[[Reliability]]"
-  - "[[Inter-Rater Reliability]]"
   - "[[Definition of Terms]]"
   - "[[Halo Effect]]"
   - "[[Qualitative Codebook]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Observation Method]]"
+  - "[[Inter-Rater Reliability]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23]]"
 status: draft

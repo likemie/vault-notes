@@ -33,7 +33,6 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Creativity]]"
   - "[[Heterogeneity]]"
-  - "[[Statistical Significance]]"
   - "[[Reflexivity]]"
   - "[[Working Memory]]"
   - "[[Computational Thinking]]"
@@ -42,10 +41,11 @@ related_concepts:
   - "[[Study Population and Sample]]"
   - "[[Fade-out Effect]]"
   - "[[Dependent Variable]]"
-  - "[[Effect Size]]"
-  - "[[Prediction Interval]]"
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Statistical Significance]]"
+  - "[[Effect Size]]"
+  - "[[Prediction Interval]]"
   - "[[Experimental Research]]"
 related_arguments:
   - "[[Argument_Liu_2026_CHBR]]"

@@ -23,7 +23,6 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Paideia]]"
   - "[[Didaktik]]"
-  - "[[Effect Size]]"
   - "[[Variable]]"
   - "[[Feedback]]"
   - "[[Evidence-Based Education]]"
@@ -37,6 +36,7 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Quantitative Research]]"
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
 related_persons:
   - "[[John Hattie]]"
 related_arguments:

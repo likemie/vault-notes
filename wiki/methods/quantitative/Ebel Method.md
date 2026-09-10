@@ -23,12 +23,12 @@ tags:
   - method/standard-setting
 related_concepts:
   - "[[Criterion-Referenced Test]]"
-  - "[[Item Analysis]]"
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Hypothesis]]"
   - "[[Operationalization]]"
 related_methods:
+  - "[[Item Analysis]]"
   - "[[Angoff Method]]"
   - "[[Multiple-Choice Questions]]"
 related_arguments:

@@ -22,7 +22,6 @@ related_concepts:
   - "[[Scaffolding]]"
   - "[[Causality]]"
   - "[[Analytic Framework]]"
-  - "[[Descriptive Analysis]]"
   - "[[Saturation]]"
   - "[[Memos]]"
   - "[[Generative Artificial Intelligence]]"
@@ -33,6 +32,7 @@ related_methods:
   - "[[Selective Coding]]"
   - "[[Axial Coding]]"
   - "[[Qualitative Research]]"
+  - "[[Descriptive Analysis]]"
   - "[[Qualitative Computer Software]]"
 related_instruments: []
 related_persons:

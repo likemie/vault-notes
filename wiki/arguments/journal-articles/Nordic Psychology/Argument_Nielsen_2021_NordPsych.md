@@ -33,7 +33,6 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Class Size]]"
   - "[[Homework]]"
-  - "[[Effect Size]]"
   - "[[Unit of Analysis]]"
   - "[[Variable]]"
   - "[[Dialogue in Education]]"
@@ -44,6 +43,7 @@ related_theories:
   - "[[Critical Theory]]"
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
 related_persons: []
 related_facts:
   - "[[OECD]]"

@@ -27,15 +27,15 @@ related_concepts:
   - "[[Social Engagement]]"
   - "[[Self-Entrepreneur]]"
   - "[[21st Century Skills and Competencies Discourse]]"
-  - "[[Governmentality]]"
-  - "[[Governing at a Distance]]"
   - "[[Academic Engagement]]"
   - "[[General Education]]"
   - "[[Critical Thinking]]"
   - "[[Causality]]"
   - "[[Academic Achievement]]"
   - "[[Goal-Controlled Mode]]"
-related_theories: []
+related_theories:
+  - "[[Governmentality]]"
+  - "[[Governing at a Distance]]"
 related_methods:
   - "[[Single-Case Design]]"
 related_persons:

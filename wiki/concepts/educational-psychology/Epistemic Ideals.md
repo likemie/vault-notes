@@ -27,13 +27,13 @@ related_concepts:
   - "[[Epistemic Cognition]]"
   - "[[Justificatory Standards]]"
   - "[[Causal Processes]]"
-  - "[[Effect Size]]"
   - "[[Variable]]"
   - "[[Epistemic Value]]"
 related_theories:
   - "[[AIR Model of Epistemic Cognition]]"
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
   - "[[Qualitative Content Analysis]]"
   - "[[Discourse Analysis]]"
 related_persons:

@@ -27,10 +27,8 @@ related_concepts:
   - "[[Construct]]"
   - "[[Content Validity]]"
   - "[[Pre-test and Post-test]]"
-  - "[[Effect Size]]"
   - "[[Achievement and Aptitude Tests]]"
   - "[[Reliability]]"
-  - "[[Internal Consistency]]"
   - "[[Variable]]"
   - "[[Dependent Variable]]"
   - "[[Confidence Interval]]"
@@ -41,10 +39,12 @@ related_concepts:
 related_theories:
   - "[[Classical Test Theory]]"
 related_methods:
+  - "[[Effect Size]]"
   - "[[Pearson Product-Moment Correlation]]"
   - "[[Confirmatory Factor Analysis]]"
   - "[[Multitrait-Multimethod Matrix]]"
   - "[[Scale Development]]"
+  - "[[Internal Consistency]]"
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
   - "[[Second-Order Meta-Regression]]"

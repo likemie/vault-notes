@@ -20,7 +20,6 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Reliability]]"
   - "[[International Education]]"
-  - "[[Descriptive Analysis]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
   - "[[Constructivist Paradigm]]"
@@ -29,6 +28,7 @@ related_concepts:
 related_theories:
   - "[[Sociology of Measurement]]"
 related_methods:
+  - "[[Descriptive Analysis]]"
   - "[[Documentary Analysis]]"
 related_persons: []
 related_facts:

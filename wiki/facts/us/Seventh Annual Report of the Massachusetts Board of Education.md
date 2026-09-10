@@ -34,7 +34,6 @@ related_concepts:
   - "[[Normal School]]"
   - "[[Growth]]"
   - "[[Policy Borrowing]]"
-  - "[[Common School Movement]]"
   - "[[Paradigm]]"
 related_theories: []
 related_methods: []
@@ -46,6 +45,7 @@ related_persons:
 related_facts:
   - "[[Grammar School]]"
   - "[[Boston Schoolmasters Controversy]]"
+  - "[[Common School Movement]]"
   - "[[Report on the State of Public Instruction in Prussia]]"
   - "[[Prussian Draft Education Law of 1819]]"
 related_arguments:

@@ -23,11 +23,11 @@ related_concepts:
   - "[[Conscientization]]"
   - "[[Dialogue in Education]]"
   - "[[Problem-Posing Education]]"
-  - "[[Hegemony]]"
   - "[[Democratic Education]]"
   - "[[Paradigm]]"
   - "[[Freedom of the Learner]]"
-related_theories: []
+related_theories:
+  - "[[Hegemony]]"
 related_methods: []
 related_instruments: []
 related_persons:

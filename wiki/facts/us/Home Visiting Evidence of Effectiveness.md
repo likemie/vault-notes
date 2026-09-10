@@ -27,7 +27,6 @@ related_concepts:
   - "[[Intelligent Tutoring Systems]]"
   - "[[Attrition]]"
   - "[[Variable]]"
-  - "[[Statistical Significance]]"
   - "[[Iatrogenic Effects in Education]]"
   - "[[Internal Validity]]"
 related_theories: []
@@ -36,6 +35,7 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Regression Discontinuity Design]]"
+  - "[[Statistical Significance]]"
 related_instruments: []
 related_persons: []
 related_facts:

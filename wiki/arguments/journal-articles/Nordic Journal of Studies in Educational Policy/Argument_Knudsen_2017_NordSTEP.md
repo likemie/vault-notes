@@ -30,12 +30,12 @@ related_concepts:
   - "[[Transcription in Qualitative Research]]"
   - "[[Document]]"
   - "[[Hypothesis]]"
-  - "[[Theory of Mind]]"
-  - "[[Effect Size]]"
   - "[[Surface and Deep Learning]]"
   - "[[Falsification]]"
-related_theories: []
+related_theories:
+  - "[[Theory of Mind]]"
 related_methods:
+  - "[[Effect Size]]"
   - "[[Meta-analysis]]"
 related_persons:
   - "[[John Hattie]]"

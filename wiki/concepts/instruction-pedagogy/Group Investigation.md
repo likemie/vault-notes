@@ -32,12 +32,12 @@ related_concepts:
   - "[[Problem Finding]]"
   - "[[Confidence Interval]]"
   - "[[Heterogeneity]]"
-  - "[[Effect Size]]"
 related_theories: []
 related_methods:
   - "[[Survey Research]]"
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
 related_instruments: []
 related_persons:
   - "[[John Dewey]]"

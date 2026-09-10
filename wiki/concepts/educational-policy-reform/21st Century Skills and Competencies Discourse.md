@@ -61,7 +61,6 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Variable]]"
   - "[[Cooperative Integrated Reading and Composition]]"
-  - "[[Effect Size]]"
   - "[[Science Capital]]"
   - "[[Operationalization]]"
 related_theories:
@@ -71,6 +70,7 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
   - "[[Multiple-Choice Questions]]"
+  - "[[Effect Size]]"
   - "[[Comparative Case Study]]"
   - "[[In-depth Interview]]"
   - "[[Coding in Qualitative Research]]"

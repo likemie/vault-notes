@@ -31,7 +31,6 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Reliability]]"
-  - "[[Internal Consistency]]"
   - "[[Reflexivity]]"
   - "[[Hypothesis]]"
   - "[[Transcription in Qualitative Research]]"
@@ -47,6 +46,7 @@ related_theories:
   - "[[Thomas Theorem]]"
 related_methods:
   - "[[Accounts]]"
+  - "[[Internal Consistency]]"
   - "[[Ethnography]]"
   - "[[Account Gathering]]"
   - "[[Cross-checking]]"

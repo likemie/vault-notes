@@ -27,11 +27,11 @@ related_concepts:
   - "[[Construct]]"
   - "[[Unit of Analysis]]"
   - "[[Rating Scale]]"
-  - "[[Item Analysis]]"
 related_theories: []
 related_methods:
   - "[[Scale Development]]"
   - "[[Delphi Technique]]"
+  - "[[Item Analysis]]"
 related_instruments:
   - "[[Research Literacy Scale for Teachers]]"
 related_arguments:

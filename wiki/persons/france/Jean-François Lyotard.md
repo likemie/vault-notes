@@ -18,7 +18,6 @@ tags:
   - philosophy
   - knowledge
 related_concepts:
-  - "[[Post-structuralism]]"
   - "[[Performativity]]"
   - "[[Global Policy Space]]"
   - "[[Grand Theory]]"
@@ -27,11 +26,9 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Rationalism in International Relations]]"
   - "[[Incommensurability]]"
-  - "[[Postmodernism]]"
   - "[[Growth]]"
   - "[[Critical Pedagogy]]"
   - "[[Geopolitics of Knowledge]]"
-  - "[[Academic Capitalism]]"
   - "[[International Spinozian Curriculum]]"
   - "[[Policy Network]]"
   - "[[Floating Signifier]]"
@@ -41,8 +38,11 @@ related_concepts:
   - "[[Research Translation]]"
   - "[[Praxis]]"
 related_theories:
+  - "[[Post-structuralism]]"
   - "[[Van Leeuwen's Legitimation Theory]]"
   - "[[Phenomenology]]"
+  - "[[Postmodernism]]"
+  - "[[Academic Capitalism]]"
   - "[[Critical Theory]]"
 related_methods: []
 related_persons:

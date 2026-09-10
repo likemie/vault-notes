@@ -37,7 +37,6 @@ related_concepts:
   - "[[Ways of Knowing]]"
   - "[[Constructed Knowledge]]"
   - "[[Disciplinary Socialization]]"
-  - "[[Effect Size]]"
   - "[[Liberal Education]]"
   - "[[Justificatory Standards]]"
   - "[[Academic Achievement]]"
@@ -55,6 +54,7 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
 related_persons: []
 status: active
 created: 2026-08-13

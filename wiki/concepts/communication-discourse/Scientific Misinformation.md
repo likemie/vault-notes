@@ -29,13 +29,13 @@ related_concepts:
   - "[[Deficit Model of Science Communication]]"
   - "[[Solutions Journalism]]"
   - "[[Paradigm]]"
-  - "[[Effect Size]]"
   - "[[Variable]]"
   - "[[Gatekeepers]]"
 related_theories: []
 related_methods:
   - "[[Observation Method]]"
   - "[[Mixed Methods Research]]"
+  - "[[Effect Size]]"
 related_instruments: []
 related_persons: []
 related_facts:

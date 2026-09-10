@@ -18,7 +18,6 @@ tags:
 - evidence-based-education
 related_concepts:
   - "[[Document]]"
-  - "[[Effect Size]]"
   - "[[Critique of Meta-analysis]]"
   - "[[Developer Effect]]"
   - "[[Hypothesis]]"
@@ -31,6 +30,7 @@ related_concepts:
   - "[[Funnel Plot]]"
 related_theories: []
 related_methods:
+  - "[[Effect Size]]"
   - "[[Meta-analysis]]"
   - "[[Systematic Review]]"
   - "[[Randomised Controlled Trials]]"

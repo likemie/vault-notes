@@ -26,12 +26,12 @@ related_concepts:
   - "[[Structural Coupling]]"
   - "[[Visible Learning]]"
   - "[[Paradigm]]"
-  - "[[Effect Size]]"
 related_theories:
   - "[[Luhmann's Systems Theory]]"
   - "[[Autopoiesis]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
+  - "[[Effect Size]]"
 related_persons: []
 related_facts: []
 related_arguments:

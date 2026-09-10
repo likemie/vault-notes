@@ -20,7 +20,6 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Surface and Deep Learning]]"
   - "[[Scientism]]"
-  - "[[Effect Size]]"
   - "[[Document]]"
   - "[[Evidence-Based Education]]"
   - "[[Cargo Cult Science]]"
@@ -31,6 +30,7 @@ related_methods:
   - "[[Quantitative Research]]"
   - "[[Intervention Research]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Effect Size]]"
   - "[[Meta-meta-analysis]]"
 related_persons:
   - "[[Lars Qvortrup]]"

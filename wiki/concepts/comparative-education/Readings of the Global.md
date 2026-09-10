@@ -20,7 +20,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Agendas of Attention]]"
   - "[[Four Forms of Understanding of Comparative Education]]"
-  - "[[Transitology]]"
   - "[[Document]]"
   - "[[International Education]]"
   - "[[Realism in International Relations]]"
@@ -33,6 +32,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Floating Signifier]]"
 related_theories:
+  - "[[Transitology]]"
   - "[[Wight's Three Traditions of International Theory]]"
 related_methods: []
 related_persons:

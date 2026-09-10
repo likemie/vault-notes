@@ -23,13 +23,13 @@ tags:
   - theme/educational-inequality
 related_concepts:
   - "[[School Choice]]"
+  - "[[Peidu]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
   - "[[Hukou System]]"
   - "[[Rural School Consolidation]]"
-  - "[[Peidu]]"
 related_arguments:
   - "[[Argument_Teng_2025_CE]]"
 confidence: medium

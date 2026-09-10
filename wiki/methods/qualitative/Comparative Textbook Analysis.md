@@ -30,9 +30,9 @@ related_concepts:
   - "[[Rich and Thick Description]]"
   - "[[Intercoder Agreement]]"
   - "[[Transfer Translation Transformation]]"
-  - "[[Imagined Community]]"
 related_theories:
   - "[[Critical Theory]]"
+  - "[[Imagined Community]]"
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Content Analysis]]"

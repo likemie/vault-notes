@@ -41,13 +41,13 @@ related_concepts:
   - "[[Technical Rationality]]"
   - "[[Teacher Professional Agency]]"
   - "[[Visible Learning]]"
-  - "[[Effect Size]]"
   - "[[Variable]]"
   - "[[Blue Skies Research]]"
   - "[[Necessary and Sufficient Conditions]]"
 related_theories: []
 related_methods:
   - "[[Systematic Review]]"
+  - "[[Effect Size]]"
   - "[[In-depth Interview]]"
   - "[[Case Study]]"
   - "[[Framework Synthesis]]"

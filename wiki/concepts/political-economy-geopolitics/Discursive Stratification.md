@@ -25,9 +25,9 @@ related_concepts:
   - "[[Elitism Dispositif]]"
   - "[[Field Images]]"
   - "[[Positioning Practice]]"
-  - "[[Academic Capitalism]]"
 related_theories:
   - "[[Cultural Political Economy]]"
+  - "[[Academic Capitalism]]"
 related_methods:
   - "[[Discourse Analysis]]"
 related_persons:

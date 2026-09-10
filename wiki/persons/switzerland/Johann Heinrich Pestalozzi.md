@@ -31,7 +31,6 @@ related_concepts:
   - "[[Growth]]"
   - "[[Establishing One's Will]]"
   - "[[Questionnaire]]"
-  - "[[Common School Movement]]"
   - "[[Educational Meliorism]]"
   - "[[Document]]"
 related_theories: []
@@ -45,6 +44,7 @@ related_persons:
   - "[[Johann Wilhelm Süvern]]"
   - "[[Calvin Stowe]]"
 related_facts:
+  - "[[Common School Movement]]"
   - "[[Seventh Annual Report of the Massachusetts Board of Education]]"
   - "[[Boston Schoolmasters Controversy]]"
   - "[[Report on Elementary Public Instruction in Europe]]"

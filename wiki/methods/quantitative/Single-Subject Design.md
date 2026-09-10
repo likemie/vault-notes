@@ -20,12 +20,12 @@ tags:
   - single-subject
   - behavior-analysis
 related_concepts:
-  - "[[Statistical Significance]]"
   - "[[Hypothesis]]"
   - "[[External Validity]]"
 related_theories: []
 related_methods:
   - "[[Experimental Research]]"
+  - "[[Statistical Significance]]"
   - "[[Intervention Research]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Random Assignment]]"

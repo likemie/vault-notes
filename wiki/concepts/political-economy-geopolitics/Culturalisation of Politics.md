@@ -20,10 +20,10 @@ related_concepts:
   - "[[Sinicisation]]"
   - "[[Filial Piety]]"
   - "[[Benevolence]]"
-  - "[[Governmentality]]"
   - "[[Avatar]]"
   - "[[Pride in Learning]]"
-related_theories: []
+related_theories:
+  - "[[Governmentality]]"
 related_methods: []
 related_persons: []
 related_facts:

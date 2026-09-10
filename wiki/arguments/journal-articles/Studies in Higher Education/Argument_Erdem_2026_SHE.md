@@ -29,7 +29,6 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Academic Achievement]]"
   - "[[Variable]]"
-  - "[[Effect Size]]"
   - "[[Confidence Interval]]"
   - "[[Clinical Skills]]"
   - "[[Student Satisfaction]]"
@@ -53,7 +52,6 @@ related_concepts:
   - "[[Blue Skies Research]]"
   - "[[Flow]]"
   - "[[Unit of Analysis]]"
-  - "[[Standard Error]]"
   - "[[Funnel Plot]]"
   - "[[Surface and Deep Learning]]"
   - "[[Problem Finding]]"
@@ -64,6 +62,7 @@ related_theories:
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Effect Size]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Egger Regression Test]]"
   - "[[Begg and Mazumdar Rank Correlation]]"
@@ -74,6 +73,7 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[PRISMA]]"
   - "[[Effect Size Conversion]]"
+  - "[[Standard Error]]"
   - "[[Intervention Research]]"
   - "[[Random Assignment]]"
 related_instruments:

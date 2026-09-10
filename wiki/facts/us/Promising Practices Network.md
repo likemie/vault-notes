@@ -27,8 +27,6 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Document]]"
   - "[[Intelligent Tutoring Systems]]"
-  - "[[Effect Size]]"
-  - "[[Statistical Significance]]"
   - "[[Sample Size Determination]]"
   - "[[Chain of Evidence]]"
 related_theories: []
@@ -37,6 +35,8 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Regression Discontinuity Design]]"
+  - "[[Effect Size]]"
+  - "[[Statistical Significance]]"
 related_instruments: []
 related_persons: []
 related_facts:

@@ -31,10 +31,6 @@ tags:
 related_concepts:
   - "[[Paradigm]]"
   - "[[Unit of Analysis]]"
-  - "[[Domain Analysis]]"
-  - "[[Statistical Significance]]"
-  - "[[Effect Size]]"
-  - "[[Descriptive Analysis]]"
 related_theories:
   - "[[Personal Construct Theory]]"
 related_methods:
@@ -42,7 +38,11 @@ related_methods:
   - "[[Repertory Grid Technique]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Content Analysis]]"
+  - "[[Domain Analysis]]"
   - "[[Grounded Theory]]"
+  - "[[Statistical Significance]]"
+  - "[[Effect Size]]"
+  - "[[Descriptive Analysis]]"
 related_persons:
   - "[[Lawrence Manion]]"
   - "[[Keith Morrison]]"

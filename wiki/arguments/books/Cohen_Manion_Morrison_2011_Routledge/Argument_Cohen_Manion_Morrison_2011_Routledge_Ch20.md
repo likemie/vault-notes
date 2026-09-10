@@ -63,7 +63,6 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Leading Questions]]"
   - "[[Homework]]"
-  - "[[Internal Consistency]]"
   - "[[Sample Size Determination]]"
   - "[[Interviewer Effects]]"
   - "[[Presence]]"
@@ -77,6 +76,7 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Telephone Interview]]"
   - "[[Cronbach's Alpha]]"
+  - "[[Internal Consistency]]"
   - "[[Cross-checking]]"
   - "[[Random Sampling]]"
 related_facts: []

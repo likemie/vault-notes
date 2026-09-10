@@ -22,14 +22,14 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[Powerful Knowledge]]"
   - "[[Discipline-Based Theory]]"
-  - "[[Social Realism]]"
   - "[[Selectivity]]"
   - "[[Knowledge Production]]"
-  - "[[Hegemony]]"
   - "[[One Country, Two Systems]]"
-  - "[[Varieties of Capitalism]]"
   - "[[Policy Borrowing]]"
-related_theories: []
+related_theories:
+  - "[[Social Realism]]"
+  - "[[Hegemony]]"
+  - "[[Varieties of Capitalism]]"
 related_methods: []
 related_persons:
   - "[[Michael Young]]"

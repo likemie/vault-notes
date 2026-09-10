@@ -22,12 +22,12 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Class Size]]"
   - "[[Material Fallacies]]"
-  - "[[Effect Size]]"
   - "[[Policy Entrepreneur]]"
   - "[[Neo-Taylorism]]"
   - "[[Cult of the Guru]]"
 related_theories: []
 related_methods:
+  - "[[Effect Size]]"
   - "[[Meta-analysis]]"
 related_persons:
   - "[[John Hattie]]"

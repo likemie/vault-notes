@@ -73,12 +73,12 @@ related_concepts:
   - "[[Problem Solving]]"
   - "[[Knowledge Production]]"
   - "[[Champ]]"
-  - "[[Postmodernism]]"
-  - "[[Post-structuralism]]"
   - "[[Policy Borrowing]]"
 related_theories:
   - "[[Human Capital Theory]]"
+  - "[[Postmodernism]]"
   - "[[Critical Theory]]"
+  - "[[Post-structuralism]]"
 related_methods:
   - "[[Problem Approach]]"
   - "[[Quantitative Research]]"

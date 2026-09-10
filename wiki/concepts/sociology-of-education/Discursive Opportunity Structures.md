@@ -15,9 +15,9 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Creativity]]"
   - "[[Self-Entrepreneur]]"
+related_theories:
   - "[[Governmentality]]"
   - "[[Governing at a Distance]]"
-related_theories: []
 related_methods:
   - "[[Single-Case Design]]"
 related_persons: []

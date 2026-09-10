@@ -34,10 +34,10 @@ related_concepts:
   - "[[Causality]]"
   - "[[Structural Coupling]]"
   - "[[Problem Solving]]"
-  - "[[Effect Size]]"
 related_theories:
   - "[[Bounded Rationality]]"
-related_methods: []
+related_methods:
+  - "[[Effect Size]]"
 related_persons:
   - "[[Herbert A. Simon]]"
 related_facts: []

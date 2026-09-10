@@ -31,7 +31,6 @@ related_concepts:
   - "[[Intelligent Tutoring Systems]]"
   - "[[Counterfactual]]"
   - "[[Causality]]"
-  - "[[Statistical Significance]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Praxis]]"
 related_theories: []
@@ -40,6 +39,7 @@ related_methods:
   - "[[Quasi-Experimental Designs]]"
   - "[[Experimental Research]]"
   - "[[Time Series Design]]"
+  - "[[Statistical Significance]]"
 related_instruments: []
 related_persons: []
 related_facts:

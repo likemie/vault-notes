@@ -39,7 +39,6 @@ related_concepts:
   - "[[AI Literacy]]"
   - "[[Determinism]]"
   - "[[Falsification]]"
-  - "[[Effect Size]]"
   - "[[Variable]]"
   - "[[Generative Artificial Intelligence]]"
 related_theories:
@@ -47,6 +46,7 @@ related_theories:
 related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Systematic Review]]"
+  - "[[Effect Size]]"
   - "[[Comparative Meta-synthesis]]"
 related_arguments:
   - "[[Argument_Håkansson_2015_TT]]"

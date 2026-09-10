@@ -42,10 +42,10 @@ related_concepts:
   - "[[Gamification]]"
   - "[[Revoicing]]"
   - "[[Dependent Variable]]"
-  - "[[Effect Size]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
 related_persons:
   - "[[Socrates]]"
 related_facts: []

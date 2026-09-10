@@ -27,7 +27,6 @@ related_concepts:
   - "[[Chinese Learner]]"
   - "[[Rote Learning]]"
   - "[[Dialogue in Education]]"
-  - "[[Orientalism]]"
   - "[[Analytic Framework]]"
   - "[[Stereotype Threat]]"
   - "[[Meta-Cultural Sensitivity]]"
@@ -44,6 +43,7 @@ related_concepts:
   - "[[Quality Education]]"
   - "[[Active Learning]]"
 related_theories:
+  - "[[Orientalism]]"
   - "[[Hofstede's Cultural Dimensions]]"
   - "[[Neo-Confucianism]]"
 related_methods:

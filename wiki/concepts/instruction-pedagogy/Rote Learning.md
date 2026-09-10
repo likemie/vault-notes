@@ -26,10 +26,10 @@ related_concepts:
   - "[[Refined Mastery]]"
   - "[[Outcomes-based Education]]"
   - "[[Constructivist Paradigm]]"
-  - "[[Social Realism]]"
   - "[[Recontextualization]]"
 related_theories:
   - "[[Phenomenology]]"
+  - "[[Social Realism]]"
 related_methods: []
 related_persons: []
 related_facts: []

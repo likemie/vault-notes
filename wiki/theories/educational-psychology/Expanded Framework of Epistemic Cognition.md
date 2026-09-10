@@ -18,6 +18,7 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Epistemological Naturalism]]"
   - "[[Epistemic Aims]]"
+  - "[[Reliable Epistemic Processes]]"
   - "[[Epistemic Value]]"
   - "[[Epistemic Stances]]"
   - "[[Epistemic Virtues and Vices]]"
@@ -28,12 +29,14 @@ related_concepts:
 related_theories:
   - "[[Virtue Epistemology]]"
   - "[[Reliabilism]]"
+  - "[[AIR Model of Epistemic Cognition]]"
 related_methods: []
 related_instruments: []
 related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Chinn_2011_EP]]"
+  - "[[Argument_Duncan_2025_CI]]"
 confidence: high
 status: draft
 created: 2026-08-17
@@ -53,7 +56,7 @@ updated: 2026-09-10
 > - **知识位置** 教育心理学与哲学[[Epistemology|认识论]]交叉领域，系统吸收了[[Virtue Epistemology|美德认识论]]、[[Reliabilism|可靠主义]]与[[Epistemological Naturalism|自然化认识论]]的理论资源。
 
 > [!claim] 核心主张
-> 认识论认知是由相互关联的认知构成的网络，取代了简单的维度叠加。该网络包含[[Epistemic Aims|认识目标]]与价值、知识的结构、来源与确证与立场、美德与恶习，以及达到目标的可靠过程五个组件。这些信念与评价标准高度依附于特定情境，需要在微观细粒度层面展开研究与预测。[[Argument_Chinn_2011_EP|(Chinn et al., 2011)]]
+> 认识论认知是由相互关联的认知构成的网络，取代了简单的维度叠加。该网络包含[[Epistemic Aims|认识目标]]与价值、知识的结构、来源与确证与立场、美德与恶习，以及达到目标的[[Reliable Epistemic Processes|可靠过程]]五个组件。这些信念与评价标准高度依附于特定情境，需要在微观细粒度层面展开研究与预测。[[Argument_Chinn_2011_EP|(Chinn et al., 2011)]]
 
 ---
 
@@ -68,7 +71,7 @@ updated: 2026-09-10
 > | [[Epistemic Stances]] | 概念 | 对知识主张采取的怀疑、暂且接受或绝对确信等伴随确定性的态度。 |
 > | [[Epistemic Virtues and Vices]] | 概念 | 决定有效达成认识目标的性格与性情基础。 |
 > | [[Virtue Epistemology]] | 理论 | 奠定框架第四组件即美德与恶习的伦理与认知哲学基础。 |
-> | [[Reliabilism]] | 理论 | 奠定框架第五组件即对个体判断可靠与不可靠过程的因果哲学基础。 |
+> | [[Reliabilism]] | 理论 | 奠定框架第五组件即对个体判断可靠与不[[Reliable Epistemic Processes\|可靠过程]]的因果哲学基础。 |
 
 ---
 
@@ -76,7 +79,7 @@ updated: 2026-09-10
 
 > [!proposition-chain] 核心命题一｜[[Epistemology|认识论]]认知是一个包含五个交互组件的多维网络
 > - **前提** 当代哲学[[Epistemology|认识论]]的[[Research Scope|研究范围]]远广于心理学以往关注的确定性、复杂性、来源、确证等维度。[[Epistemological Naturalism|自然化认识论]]促使研究转向具体的认知生成实践。[[Argument_Chinn_2011_EP|(Chinn et al., 2011, p. 145)]]
-> - **推导** 整合自然主义认识论、[[Virtue Epistemology|美德认识论]]与[[Reliabilism|可靠主义]]等哲学基础，[[Epistemic Cognition|认识论认知]]被扩展为涵盖目标与价值、结构、来源确证与立场、美德与恶习、可靠过程的五组件模型。
+> - **推导** 整合自然主义认识论、[[Virtue Epistemology|美德认识论]]与[[Reliabilism|可靠主义]]等哲学基础，[[Epistemic Cognition|认识论认知]]被扩展为涵盖目标与价值、结构、来源确证与立场、美德与恶习、[[Reliable Epistemic Processes|可靠过程]]的五组件模型。
 
 > [!proposition-chain] 核心命题二｜认识论认知具有高度的情境特异性和细粒度特征
 > - **前提** 认识要素的有效性依附于情境。对来源或确证的判断随情境改变，物理学中的因果模型与历史课中的事实论证遵循不同的[[Epistemic Forms|认识论形式]]。[[Argument_Chinn_2011_EP|(Chinn et al., 2011, p. 155)]]
@@ -88,4 +91,4 @@ updated: 2026-09-10
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Chinn_2011_EP|Chinn et al. (2011)]] — 奠定了该扩展的五组件框架。
-> - [[Argument_Duncan_2025_CI|Duncan & Chinn (2025)]] — 展现了该框架整合演化为 [[AIR Model of Epistemic Cognition|AIR 模型]] 后的最新应用，将目标、理想与可靠过程融入科学论证评价。
+> - [[Argument_Duncan_2025_CI|Duncan & Chinn (2025)]] — 展现了该框架整合演化为 [[AIR Model of Epistemic Cognition|AIR]] 模型 后的最新应用，将目标、理想与[[Reliable Epistemic Processes|可靠过程]]融入科学论证评价。

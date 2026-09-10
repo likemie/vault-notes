@@ -17,12 +17,12 @@ tags:
 - meta-analysis
 - subject/instruction
 - level/k12
-related_concepts:
-  - "[[Effect Size]]"
+related_concepts: []
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Effect Size]]"
 related_persons: []
 related_arguments:
   - "[[Argument_Higgins_2016_RE]]"

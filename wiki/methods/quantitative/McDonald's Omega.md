@@ -22,7 +22,6 @@ tags:
   - measurement/reliability
   - scale-development/validation
 related_concepts:
-  - "[[Internal Consistency]]"
   - "[[Reliability]]"
   - "[[Variable]]"
   - "[[Likert Scale]]"
@@ -33,6 +32,7 @@ related_concepts:
   - "[[Convergent and Discriminant Validity]]"
 related_theories: []
 related_methods:
+  - "[[Internal Consistency]]"
   - "[[Confirmatory Factor Analysis]]"
   - "[[Exploratory Factor Analysis]]"
   - "[[Average Variance Extracted]]"

@@ -38,7 +38,6 @@ related_concepts:
   - "[[Interpretive Validity]]"
   - "[[Evaluative Validity]]"
   - "[[Reliability]]"
-  - "[[Effect Size]]"
   - "[[Rich and Thick Description]]"
   - "[[Sampling Error]]"
   - "[[Confidence Interval]]"
@@ -48,6 +47,7 @@ related_methods:
   - "[[Quantitative Research]]"
   - "[[Qualitative Research]]"
   - "[[Purposeful Sampling]]"
+  - "[[Effect Size]]"
   - "[[Random Sampling]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"

@@ -24,15 +24,15 @@ tags:
   - theme/social-stratification
   - theme/educational-inequality
 related_concepts:
-  - "[[Common School Movement]]"
   - "[[School Choice]]"
+  - "[[Peidu]]"
   - "[[Cultural Capital]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
   - "[[2014 Hukou Reform]]"
-  - "[[Peidu]]"
+  - "[[Common School Movement]]"
   - "[[Rural School Consolidation]]"
 related_arguments:
   - "[[Argument_Teng_2025_CE]]"

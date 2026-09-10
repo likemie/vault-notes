@@ -19,7 +19,6 @@ tags:
 - methodology
 related_concepts:
   - "[[Variable]]"
-  - "[[Effect Size]]"
   - "[[Sampling Error]]"
   - "[[Heterogeneity]]"
   - "[[Interaction Effect]]"
@@ -28,6 +27,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
   - "[[Meta-regression]]"
   - "[[Meta-meta-analysis]]"
 related_persons: []

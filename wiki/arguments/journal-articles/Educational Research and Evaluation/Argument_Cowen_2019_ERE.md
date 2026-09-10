@@ -38,7 +38,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Champ]]"
   - "[[Hypothesis]]"
-  - "[[Effect Size]]"
   - "[[Research Utilization]]"
   - "[[Policy Borrowing]]"
 related_theories:
@@ -48,6 +47,7 @@ related_methods:
   - "[[Systematic Review]]"
   - "[[Meta-analysis]]"
   - "[[Random Sampling]]"
+  - "[[Effect Size]]"
   - "[[Random Assignment]]"
 related_persons: []
 related_facts:

@@ -25,7 +25,6 @@ tags:
   - theme/educational-reform
 related_concepts:
   - "[[Document]]"
-  - "[[Common School Movement]]"
   - "[[Normal School]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Auslandspadagogik]]"
@@ -42,6 +41,7 @@ related_persons:
   - "[[Henry Barnard]]"
   - "[[Victor Cousin]]"
 related_facts:
+  - "[[Common School Movement]]"
   - "[[Report on Elementary Public Instruction in Europe]]"
   - "[[Seventh Annual Report of the Massachusetts Board of Education]]"
 related_arguments:

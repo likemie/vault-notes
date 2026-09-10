@@ -26,13 +26,13 @@ related_concepts:
   - "[[Causality]]"
   - "[[Positivism]]"
   - "[[Variable]]"
-  - "[[Effect Size]]"
   - "[[Governing by Numbers]]"
   - "[[Evidence-Based Education]]"
 related_theories:
   - "[[Critical Realism]]"
   - "[[Realist Evaluation]]"
 related_methods:
+  - "[[Effect Size]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-analysis]]"
 related_persons:

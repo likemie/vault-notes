@@ -26,7 +26,6 @@ related_concepts:
   - "[[Generative Artificial Intelligence]]"
   - "[[Marginal Gains Hypothesis]]"
   - "[[Evidence-Based Reform]]"
-  - "[[Effect Size]]"
   - "[[Causality]]"
   - "[[Positivism]]"
   - "[[Clinical Trial]]"
@@ -46,6 +45,7 @@ related_theories:
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
   - "[[Meta-meta-analysis]]"
   - "[[Systematic Review]]"
   - "[[Baseline Standardized Mean Difference]]"

@@ -18,7 +18,6 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Performativity of Measurement]]"
   - "[[Knowledge Production]]"
-  - "[[Post-structuralism]]"
   - "[[Policy Science in Comparative Education]]"
   - "[[Praxis]]"
   - "[[Policy Network]]"
@@ -34,6 +33,7 @@ related_concepts:
   - "[[Soft Power]]"
 related_theories:
   - "[[Network Society]]"
+  - "[[Post-structuralism]]"
 related_methods: []
 related_persons:
   - "[[Jean-François Lyotard]]"

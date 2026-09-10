@@ -37,7 +37,6 @@ related_concepts:
   - "[[Homework]]"
   - "[[Artefact]]"
   - "[[Paradigm]]"
-  - "[[Effect Size]]"
   - "[[Variable]]"
   - "[[Structured Teaching]]"
   - "[[Higher-Order Thinking Skills]]"
@@ -46,6 +45,7 @@ related_theories: []
 related_methods:
   - "[[Triangulation]]"
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
   - "[[Systematic Review]]"
   - "[[Pilot Testing]]"
   - "[[PRISMA]]"

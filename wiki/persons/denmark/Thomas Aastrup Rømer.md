@@ -18,16 +18,16 @@ tags:
 related_concepts:
   - "[[Visible Learning]]"
   - "[[Pure Evaluation]]"
-  - "[[Postmodernism]]"
   - "[[Variable]]"
   - "[[Bildung]]"
-  - "[[Effect Size]]"
   - "[[Document]]"
   - "[[Surface and Deep Learning]]"
   - "[[Pragmatic Paradigm]]"
 related_theories:
+  - "[[Postmodernism]]"
   - "[[Radical Constructivism]]"
-related_methods: []
+related_methods:
+  - "[[Effect Size]]"
 related_persons:
   - "[[John Hattie]]"
   - "[[Lars Qvortrup]]"

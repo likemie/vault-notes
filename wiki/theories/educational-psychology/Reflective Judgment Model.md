@@ -25,11 +25,11 @@ related_concepts:
   - "[[Epistemological Beliefs]]"
   - "[[Simplicity of Knowledge]]"
   - "[[Variable]]"
-  - "[[Statistical Significance]]"
-  - "[[Effect Size]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Statistical Significance]]"
+  - "[[Effect Size]]"
 related_instruments: []
 related_persons:
   - "[[Jean Piaget]]"

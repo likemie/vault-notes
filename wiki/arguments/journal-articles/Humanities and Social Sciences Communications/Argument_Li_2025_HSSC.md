@@ -31,7 +31,6 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Causality]]"
   - "[[Theories of Policy Change]]"
-  - "[[Convergence Theory in Comparative Education]]"
   - "[[Policy Network]]"
   - "[[Analytic Framework]]"
   - "[[Document]]"
@@ -59,6 +58,7 @@ related_concepts:
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Actor-Network Theory]]"
+  - "[[Convergence Theory in Comparative Education]]"
 related_methods:
   - "[[Systematic Review]]"
   - "[[Mixed Methods Research]]"

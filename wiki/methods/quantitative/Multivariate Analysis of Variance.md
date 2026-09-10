@@ -27,7 +27,6 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Interaction Effect]]"
   - "[[Unit of Analysis]]"
-  - "[[Effect Size]]"
   - "[[Type I and Type II Errors]]"
   - "[[Epistemology]]"
   - "[[Epistemological Beliefs]]"
@@ -42,6 +41,7 @@ related_theories:
   - "[[Classical Test Theory]]"
 related_methods:
   - "[[Analysis of Variance]]"
+  - "[[Effect Size]]"
   - "[[Random Assignment]]"
   - "[[Observation Method]]"
   - "[[Causal Modeling]]"

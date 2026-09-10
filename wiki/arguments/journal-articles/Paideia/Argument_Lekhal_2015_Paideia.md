@@ -45,12 +45,12 @@ related_concepts:
   - "[[Classroom Learning Culture]]"
   - "[[Feedback]]"
   - "[[Academic Well-being and Interest in Learning]]"
-  - "[[Effect Size]]"
 related_theories: []
 related_methods:
   - "[[Observational and Correlational Research]]"
   - "[[Multiple Regression]]"
   - "[[Analysis of Variance]]"
+  - "[[Effect Size]]"
 related_persons: []
 related_facts: []
 related_arguments: []

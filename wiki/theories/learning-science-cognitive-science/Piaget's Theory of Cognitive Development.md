@@ -29,7 +29,6 @@ related_concepts:
   - "[[Cognitive Shifting]]"
   - "[[Working Memory]]"
   - "[[AI Agent in Education]]"
-  - "[[Effect Size]]"
   - "[[Synaptogenesis]]"
   - "[[Synaptic Pruning]]"
   - "[[Myelination]]"
@@ -49,6 +48,7 @@ related_theories:
   - "[[Cognitive Constructivism]]"
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
   - "[[In-depth Interview]]"
   - "[[Functional Magnetic Resonance Imaging]]"
   - "[[Electroencephalography]]"

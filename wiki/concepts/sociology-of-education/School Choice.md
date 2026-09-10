@@ -19,6 +19,7 @@ tags:
   - policy/neoliberalism
 related_concepts:
   - "[[Habitus]]"
+  - "[[Peidu]]"
   - "[[Cultural Capital]]"
   - "[[Champ]]"
   - "[[Attrition]]"
@@ -30,7 +31,6 @@ related_methods:
   - "[[Mixed Methods Research]]"
 related_persons: []
 related_facts:
-  - "[[Peidu]]"
   - "[[Partnership Schools Kura Hourua]]"
   - "[[Rural School Consolidation]]"
 related_arguments:

@@ -42,12 +42,10 @@ related_concepts:
   - "[[Convergent and Discriminant Validity]]"
   - "[[Null Hypothesis]]"
   - "[[Falsification]]"
-  - "[[Split-Half Reliability]]"
   - "[[Engagement in and with Research]]"
   - "[[Heterogeneity]]"
   - "[[Questionnaire]]"
   - "[[Causality]]"
-  - "[[Test-Retest Reliability]]"
   - "[[Predictive Validity]]"
 related_methods:
   - "[[Measurement Invariance]]"
@@ -64,7 +62,9 @@ related_methods:
   - "[[Model Fit Indices in SEM and CFA]]"
   - "[[Cronbach's Alpha]]"
   - "[[McDonald's Omega]]"
+  - "[[Split-Half Reliability]]"
   - "[[Pearson Product-Moment Correlation]]"
+  - "[[Test-Retest Reliability]]"
 related_instruments:
   - "[[Research Literacy Scale for Teachers]]"
 related_facts:

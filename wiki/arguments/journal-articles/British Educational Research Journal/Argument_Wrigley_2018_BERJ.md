@@ -29,7 +29,6 @@ tags:
   - region/uk
 related_concepts:
   - "[[Epistemology]]"
-  - "[[Effect Size]]"
   - "[[Visible Learning]]"
   - "[[Evidence-Based Education]]"
   - "[[Empiricism]]"
@@ -49,7 +48,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Hypothesis]]"
   - "[[Professional Judgment]]"
-  - "[[Theory of Mind]]"
   - "[[Paradigm]]"
   - "[[Governing by Numbers]]"
   - "[[Emergence]]"
@@ -58,8 +56,10 @@ related_concepts:
 related_theories:
   - "[[Critical Realism]]"
   - "[[Realist Evaluation]]"
+  - "[[Theory of Mind]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
+  - "[[Effect Size]]"
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
   - "[[Random Assignment]]"

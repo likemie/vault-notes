@@ -27,7 +27,6 @@ related_concepts:
   - "[[Conflict of Interest in Research]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Confidence Interval]]"
-  - "[[Effect Size]]"
   - "[[Attrition]]"
   - "[[Responsible Conduct of Research]]"
   - "[[Epistemology]]"
@@ -39,6 +38,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Participatory Research]]"
+  - "[[Effect Size]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Mixed Methods Research]]"
 related_instruments: []

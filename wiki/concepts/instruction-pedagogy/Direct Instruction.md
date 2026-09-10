@@ -33,7 +33,6 @@ related_concepts:
   - "[[Side Effects]]"
   - "[[Lost Mode]]"
   - "[[Academic Achievement]]"
-  - "[[Effect Size]]"
   - "[[Critical Thinking]]"
   - "[[Dialogue in Education]]"
   - "[[Creativity Training]]"
@@ -48,6 +47,7 @@ related_concepts:
 related_theories:
   - "[[Cognitive Load Theory]]"
 related_methods:
+  - "[[Effect Size]]"
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
 related_instruments: []

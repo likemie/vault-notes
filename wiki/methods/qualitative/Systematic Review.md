@@ -18,15 +18,12 @@ tags:
 - methodology
 - literature-review
 related_concepts:
-  - "[[Effect Size]]"
   - "[[Document]]"
   - "[[Publication Bias]]"
   - "[[Unit of Analysis]]"
-  - "[[Statistical Significance]]"
   - "[[Epistemology]]"
   - "[[Positivism]]"
   - "[[Intercoder Agreement]]"
-  - "[[Inter-Rater Reliability]]"
   - "[[Reliability]]"
   - "[[Causality]]"
   - "[[External Validity]]"
@@ -45,14 +42,17 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
   - "[[Quantitative Research]]"
   - "[[Qualitative Research]]"
   - "[[Mixed Methods Research]]"
+  - "[[Statistical Significance]]"
   - "[[Ethnography]]"
   - "[[Grounded Theory]]"
   - "[[Content Analysis]]"
   - "[[Case Study]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Inter-Rater Reliability]]"
   - "[[Randomised Controlled Trials]]"
   - "[[PRISMA]]"
   - "[[Meta-meta-analysis]]"

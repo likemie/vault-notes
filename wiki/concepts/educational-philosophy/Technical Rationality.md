@@ -37,7 +37,6 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Phronesis]]"
   - "[[Pragmatic Paradigm]]"
-  - "[[Effect Size]]"
   - "[[Epoché]]"
   - "[[Doxa]]"
   - "[[Problem Finding]]"
@@ -62,6 +61,7 @@ related_theories:
   - "[[Human Capital Theory]]"
   - "[[Critical Theory]]"
 related_methods:
+  - "[[Effect Size]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Experimental Research]]"
 related_instruments: []

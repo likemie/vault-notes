@@ -20,8 +20,6 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Document]]"
   - "[[Research Utilization]]"
-  - "[[Effect Size]]"
-  - "[[Statistical Significance]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Evidence-Based Education]]"
   - "[[Programme Fidelity vs Adaptation]]"
@@ -35,6 +33,8 @@ related_theories:
   - "[[Cartwright's Three-Stage Knowledge Framework]]"
 related_methods:
   - "[[Systematic Review]]"
+  - "[[Effect Size]]"
+  - "[[Statistical Significance]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Formative Program Evaluation]]"
 related_persons: []

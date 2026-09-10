@@ -30,8 +30,8 @@ related_concepts:
   - "[[Further Education]]"
   - "[[Lifelong Learning]]"
   - "[[Research Scope]]"
+related_theories:
   - "[[Varieties of Capitalism]]"
-related_theories: []
 related_methods:
   - "[[Case Study]]"
   - "[[Pilot Testing]]"

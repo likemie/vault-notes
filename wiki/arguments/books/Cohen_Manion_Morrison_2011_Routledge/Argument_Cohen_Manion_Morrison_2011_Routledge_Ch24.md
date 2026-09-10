@@ -48,7 +48,6 @@ related_concepts:
   - "[[Creativity Assessment]]"
   - "[[Questionnaire]]"
   - "[[Reliability]]"
-  - "[[Item Analysis]]"
   - "[[Norm-Referenced Test]]"
   - "[[Domain-Referenced Test]]"
   - "[[Fitness for Purpose]]"
@@ -67,10 +66,6 @@ related_concepts:
   - "[[Criterion-related Validity]]"
   - "[[Cultural Validity]]"
   - "[[Consequential Validity]]"
-  - "[[Test-Retest Reliability]]"
-  - "[[Parallel-Forms Reliability]]"
-  - "[[Split-Half Reliability]]"
-  - "[[Internal Consistency]]"
   - "[[Operationalization]]"
   - "[[Professional Judgment]]"
   - "[[Divergent Thinking]]"
@@ -82,7 +77,6 @@ related_concepts:
   - "[[Non-maleficence and Beneficence in Research]]"
   - "[[Informed Consent]]"
   - "[[Computerized Adaptive Testing]]"
-  - "[[Standard Error]]"
   - "[[Parametric and Non-parametric Tests]]"
 related_theories:
   - "[[Classical Test Theory]]"
@@ -90,10 +84,16 @@ related_theories:
 related_methods:
   - "[[Experimental Research]]"
   - "[[Pilot Testing]]"
+  - "[[Item Analysis]]"
   - "[[Rasch Measurement]]"
+  - "[[Test-Retest Reliability]]"
+  - "[[Parallel-Forms Reliability]]"
+  - "[[Split-Half Reliability]]"
+  - "[[Internal Consistency]]"
   - "[[Cronbach's Alpha]]"
   - "[[Multiple-Choice Questions]]"
   - "[[Role-playing]]"
+  - "[[Standard Error]]"
 related_instruments:
   - "[[Consensual Assessment Technique]]"
 status: draft

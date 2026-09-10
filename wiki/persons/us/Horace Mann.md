@@ -21,7 +21,6 @@ tags:
   - region/us
 related_concepts:
   - "[[Paradigm]]"
-  - "[[Common School Movement]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Normal School]]"
   - "[[Educational Meliorism]]"
@@ -41,6 +40,7 @@ related_persons:
   - "[[Calvin Stowe]]"
   - "[[Henry Barnard]]"
 related_facts:
+  - "[[Common School Movement]]"
   - "[[Seventh Annual Report of the Massachusetts Board of Education]]"
   - "[[Grammar School]]"
   - "[[Boston Schoolmasters Controversy]]"

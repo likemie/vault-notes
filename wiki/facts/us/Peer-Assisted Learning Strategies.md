@@ -35,11 +35,11 @@ related_concepts:
   - "[[Attrition]]"
   - "[[Learner Autonomy]]"
   - "[[Educational Evidence Clearinghouses]]"
-  - "[[Effect Size]]"
 related_theories: []
 related_methods:
   - "[[Intent-to-Treat Analysis]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Effect Size]]"
 related_instruments: []
 related_persons: []
 related_facts:

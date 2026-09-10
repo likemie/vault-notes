@@ -25,7 +25,6 @@ related_concepts:
   - "[[Champ]]"
   - "[[Official Knowledge]]"
   - "[[Symbolic Boundary]]"
-  - "[[Hegemony]]"
   - "[[Bildung]]"
   - "[[Zhonghua Minzu]]"
   - "[[Paradigm]]"
@@ -35,7 +34,8 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[Cultural Disembedding]]"
   - "[[Reflexivity]]"
-related_theories: []
+related_theories:
+  - "[[Hegemony]]"
 related_methods: []
 related_persons:
   - "[[Confucius]]"

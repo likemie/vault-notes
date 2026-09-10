@@ -17,14 +17,14 @@ tags:
   - theme/managerialism
 related_concepts:
   - "[[Disciplina and Doctrina]]"
-  - "[[Effect Size]]"
   - "[[Technical Rationality]]"
   - "[[Return on Investment]]"
   - "[[Variable]]"
   - "[[Cult of Efficiency]]"
   - "[[Visible Learning]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Effect Size]]"
 related_persons: []
 related_facts:
   - "[[PISA]]"

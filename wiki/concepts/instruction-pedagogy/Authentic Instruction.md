@@ -29,12 +29,10 @@ related_concepts:
   - "[[Document]]"
   - "[[Rote Learning]]"
   - "[[Dialogue in Education]]"
-  - "[[Effect Size]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Learning by Doing]]"
   - "[[Central Phenomenon]]"
   - "[[Heterogeneity]]"
-  - "[[Prediction Interval]]"
   - "[[Critical Thinking Disposition]]"
   - "[[Mentorship]]"
 related_theories:
@@ -43,6 +41,8 @@ related_methods:
   - "[[Role-playing]]"
   - "[[Meta-analysis]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Effect Size]]"
+  - "[[Prediction Interval]]"
   - "[[Experimental Research]]"
 related_instruments: []
 related_persons:

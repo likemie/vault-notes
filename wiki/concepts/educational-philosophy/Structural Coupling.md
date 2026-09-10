@@ -18,13 +18,13 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Professional Judgment]]"
   - "[[Ontology]]"
-  - "[[Effect Size]]"
   - "[[School Leadership]]"
   - "[[Visible Learning]]"
   - "[[Paradigm]]"
 related_theories:
   - "[[Luhmann's Systems Theory]]"
 related_methods:
+  - "[[Effect Size]]"
   - "[[Coding in Qualitative Research]]"
 related_persons:
   - "[[Niklas Luhmann]]"

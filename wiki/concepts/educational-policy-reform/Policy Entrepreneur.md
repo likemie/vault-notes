@@ -23,9 +23,7 @@ related_concepts:
   - "[[Pre-Transfer Agency]]"
   - "[[Policy Borrowing]]"
   - "[[Transfer Translation Transformation]]"
-  - "[[Governing at a Distance]]"
   - "[[Endogenous and Exogenous Privatisation]]"
-  - "[[Common School Movement]]"
   - "[[Policy Network]]"
   - "[[Visible Learning]]"
   - "[[Disciplina and Doctrina]]"
@@ -33,7 +31,8 @@ related_concepts:
   - "[[Educational Management Organisation]]"
   - "[[Variable]]"
   - "[[Rationalism in International Relations]]"
-related_theories: []
+related_theories:
+  - "[[Governing at a Distance]]"
 related_methods:
   - "[[Snowball Sampling]]"
   - "[[Meta-analysis]]"
@@ -44,6 +43,7 @@ related_persons:
 related_facts:
   - "[[Teach First New Zealand]]"
   - "[[Cognition Education]]"
+  - "[[Common School Movement]]"
   - "[[Australian Institute for Teaching and School Leadership]]"
 related_arguments:
   - "[[Argument_ONeill_2016_Report]]"

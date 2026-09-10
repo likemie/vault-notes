@@ -32,7 +32,6 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Rationalism in International Relations]]"
   - "[[Epistemology]]"
-  - "[[Post-structuralism]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Unit of Analysis]]"
   - "[[Intangible Spiritual Forces]]"
@@ -52,6 +51,7 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Heterogeneity]]"
 related_theories:
+  - "[[Post-structuralism]]"
   - "[[Critical Theory]]"
   - "[[Human Capital Theory]]"
 related_methods:

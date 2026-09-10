@@ -21,9 +21,7 @@ tags:
   - method/rve
   - statistics/variance-estimation
 related_concepts:
-  - "[[Effect Size]]"
   - "[[Document]]"
-  - "[[Standard Error]]"
   - "[[Confidence Interval]]"
   - "[[Hypothesis]]"
   - "[[Variable]]"
@@ -37,6 +35,8 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
   - "[[Meta-regression]]"
+  - "[[Effect Size]]"
+  - "[[Standard Error]]"
   - "[[Correlated and Hierarchical Effects Model]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Coding in Qualitative Research]]"

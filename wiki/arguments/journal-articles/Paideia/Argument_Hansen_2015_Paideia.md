@@ -31,14 +31,14 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Paradigm]]"
   - "[[Surface and Deep Learning]]"
-  - "[[Effect Size]]"
   - "[[Paideia]]"
   - "[[Document]]"
   - "[[New Public Management]]"
   - "[[Analytical Stance]]"
 related_theories:
   - "[[Dynamic Knowledge and Learning Model]]"
-related_methods: []
+related_methods:
+  - "[[Effect Size]]"
 related_persons:
   - "[[John Hattie]]"
 related_facts: []

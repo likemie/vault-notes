@@ -34,10 +34,10 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Educational Meliorism]]"
-  - "[[Governing at a Distance]]"
 related_theories:
   - "[[Situative Perspective]]"
   - "[[Wight's Three Traditions of International Theory]]"
+  - "[[Governing at a Distance]]"
 related_methods:
   - "[[Fieldwork]]"
   - "[[Historical-Comparative Method]]"

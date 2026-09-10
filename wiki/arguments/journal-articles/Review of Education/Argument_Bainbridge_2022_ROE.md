@@ -28,7 +28,6 @@ related_concepts:
   - "[[Justified Warrants]]"
   - "[[Hypothesis]]"
   - "[[Deficit Framing]]"
-  - "[[Descriptive Analysis]]"
   - "[[Literature Review]]"
   - "[[Document]]"
   - "[[Research Scope]]"
@@ -38,6 +37,7 @@ related_theories:
   - "[[Van Leeuwen's Legitimation Theory]]"
 related_methods:
   - "[[Mixed Methods Research]]"
+  - "[[Descriptive Analysis]]"
   - "[[Carnivalesque Analysis]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Accounts]]"

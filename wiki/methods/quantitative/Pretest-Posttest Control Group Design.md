@@ -20,7 +20,6 @@ tags:
 related_concepts:
   - "[[Pre-test and Post-test]]"
   - "[[Unit of Analysis]]"
-  - "[[Effect Size]]"
   - "[[Threats to Internal Validity]]"
   - "[[Internal Validity]]"
   - "[[Pre-test Sensitisation]]"
@@ -33,6 +32,7 @@ related_concepts:
 related_methods:
   - "[[True Experimental Design]]"
   - "[[Random Assignment]]"
+  - "[[Effect Size]]"
   - "[[Solomon Four-Group Design]]"
   - "[[Analysis of Covariance]]"
   - "[[Quasi-Experimental Designs]]"

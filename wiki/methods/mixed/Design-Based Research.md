@@ -23,7 +23,6 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Paradigm]]"
-  - "[[Statistical Significance]]"
   - "[[Hypothesis]]"
   - "[[Causality]]"
   - "[[Variable]]"
@@ -33,6 +32,7 @@ related_theories: []
 related_methods:
   - "[[Experimental Research]]"
   - "[[Mixed Methods Research]]"
+  - "[[Statistical Significance]]"
   - "[[Random Assignment]]"
   - "[[Narrative Analysis]]"
 related_persons: []

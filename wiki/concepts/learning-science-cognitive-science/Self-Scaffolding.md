@@ -24,10 +24,10 @@ related_concepts:
   - "[[Metacognition]]"
   - "[[Graphic Organizer]]"
   - "[[Higher-Order Thinking Skills]]"
-  - "[[Effect Size]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
 related_instruments: []
 related_persons: []
 related_facts: []

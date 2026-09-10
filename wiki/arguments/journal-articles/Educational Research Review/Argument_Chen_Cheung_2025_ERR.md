@@ -20,7 +20,6 @@ tags:
   - theme/learning-outcomes
 related_concepts:
   - "[[Generative Artificial Intelligence]]"
-  - "[[Effect Size]]"
   - "[[Pre-test and Post-test]]"
   - "[[Academic Achievement]]"
   - "[[Affective Outcomes]]"
@@ -70,7 +69,6 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Fade-out Effect]]"
   - "[[Interaction Effect]]"
-  - "[[Standard Error]]"
   - "[[Paradigm]]"
   - "[[Learner Autonomy]]"
 related_theories:
@@ -80,6 +78,7 @@ related_theories:
   - "[[Control-Value Theory]]"
   - "[[Cognitive Load Theory]]"
 related_methods:
+  - "[[Effect Size]]"
   - "[[Meta-analysis]]"
   - "[[Baseline Standardized Mean Difference]]"
   - "[[Trim and Fill Method]]"
@@ -97,6 +96,7 @@ related_methods:
   - "[[Analysis of Covariance]]"
   - "[[Analysis of Variance]]"
   - "[[Random Sampling]]"
+  - "[[Standard Error]]"
 related_instruments:
   - "[[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale]]"
   - "[[California Critical Thinking Disposition Inventory]]"

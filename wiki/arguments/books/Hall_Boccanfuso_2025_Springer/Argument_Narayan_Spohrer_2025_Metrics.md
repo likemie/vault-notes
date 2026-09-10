@@ -25,7 +25,6 @@ related_concepts:
   - "[[Technology Transfer]]"
   - "[[Valley of Death]]"
   - "[[Effective Teaching]]"
-  - "[[Effect Size]]"
   - "[[Variable]]"
   - "[[T-Shaped Skills]]"
   - "[[Problem Solving]]"
@@ -36,6 +35,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Cohort Study]]"
+  - "[[Effect Size]]"
 related_persons:
   - "[[Jim Spohrer]]"
 related_facts:

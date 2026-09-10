@@ -17,10 +17,10 @@ tags:
   - theme/sociology-of-education
   - theory/social-realism
 related_concepts:
-  - "[[Social Realism]]"
   - "[[Powerful Knowledge]]"
   - "[[Academic Achievement]]"
 related_theories:
+  - "[[Social Realism]]"
   - "[[Curriculum Design Coherence Model]]"
 related_methods: []
 related_persons: []

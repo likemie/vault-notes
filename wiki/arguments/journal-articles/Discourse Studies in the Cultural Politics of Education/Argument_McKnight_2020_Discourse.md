@@ -27,7 +27,6 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Visible Learning]]"
   - "[[Ontology]]"
-  - "[[Post-structuralism]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Document]]"
   - "[[Literature Review]]"
@@ -36,13 +35,14 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Epistemology]]"
   - "[[Knowledge Production]]"
-  - "[[Effect Size]]"
   - "[[Value Neutrality]]"
-related_theories: []
+related_theories:
+  - "[[Post-structuralism]]"
 related_methods:
   - "[[Discourse Analysis]]"
   - "[[Meta-analysis]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Effect Size]]"
 related_persons: []
 related_facts: []
 related_arguments:

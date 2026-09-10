@@ -37,7 +37,6 @@ related_concepts:
   - "[[Procedural Skill]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Variable]]"
-  - "[[Effect Size]]"
   - "[[Zone of Proximal Development]]"
   - "[[Epistemology]]"
   - "[[Dependent Variable]]"
@@ -80,6 +79,7 @@ related_theories:
   - "[[Cognitive Constructivism]]"
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Systematic Review]]"
   - "[[PRISMA]]"

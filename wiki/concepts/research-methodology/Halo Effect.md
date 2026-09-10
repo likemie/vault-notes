@@ -19,14 +19,14 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Hawthorne Effect]]"
   - "[[Experimenter Bias]]"
-  - "[[Inter-Rater Reliability]]"
-  - "[[Internal Consistency]]"
   - "[[Homework]]"
   - "[[Reliability]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11]]"
 related_methods:
+  - "[[Inter-Rater Reliability]]"
+  - "[[Internal Consistency]]"
   - "[[Ethnography]]"
   - "[[Triangulation]]"
 status: draft

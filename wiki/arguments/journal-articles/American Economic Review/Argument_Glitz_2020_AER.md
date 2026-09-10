@@ -24,7 +24,6 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Attrition]]"
-  - "[[Standard Error]]"
   - "[[Heterogeneity]]"
   - "[[Document]]"
   - "[[Interaction Effect]]"
@@ -38,6 +37,7 @@ related_methods:
   - "[[Perpetual Inventory Method]]"
   - "[[Shift-Share Instrument]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Standard Error]]"
 related_persons: []
 related_facts: []
 related_arguments: []

@@ -18,9 +18,6 @@ tags:
   - theme/meta-analysis
 related_concepts:
   - "[[Sample Size Determination]]"
-  - "[[Standard Error]]"
-  - "[[Statistical Significance]]"
-  - "[[Effect Size]]"
   - "[[Funnel Plot]]"
   - "[[Document]]"
   - "[[Publication Bias]]"
@@ -35,6 +32,9 @@ related_concepts:
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Standard Error]]"
+  - "[[Statistical Significance]]"
+  - "[[Effect Size]]"
   - "[[Multilevel Egger's Test]]"
   - "[[Robust Variance Estimation]]"
   - "[[Egger Regression Test]]"

@@ -26,12 +26,12 @@ related_concepts:
   - "[[Learning Analytics]]"
   - "[[Digital Self]]"
   - "[[Digital Optimum]]"
-  - "[[Governmentality]]"
   - "[[Competitiveness]]"
   - "[[Stakeholder University]]"
   - "[[Promising Student]]"
   - "[[Growth]]"
 related_theories:
+  - "[[Governmentality]]"
   - "[[Societies of Control]]"
 related_methods: []
 related_persons: []

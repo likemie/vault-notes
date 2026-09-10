@@ -32,14 +32,14 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Halo Effect]]"
   - "[[Heterogeneity]]"
-  - "[[Statistical Significance]]"
-  - "[[Effect Size]]"
   - "[[Questionnaire]]"
   - "[[Conatus]]"
   - "[[Simplicity of Knowledge]]"
 related_theories:
   - "[[Women's Ways of Knowing]]"
 related_methods:
+  - "[[Statistical Significance]]"
+  - "[[Effect Size]]"
   - "[[Multivariate Analysis of Variance]]"
 related_instruments: []
 related_persons: []

@@ -51,7 +51,6 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Questionnaire]]"
   - "[[Epoché]]"
-  - "[[Domain Analysis]]"
   - "[[Rich and Thick Description]]"
   - "[[Causal Processes]]"
   - "[[Concept Mapping]]"
@@ -76,6 +75,7 @@ related_methods:
   - "[[Ethnography]]"
   - "[[Quantitative Research]]"
   - "[[Content Analysis]]"
+  - "[[Domain Analysis]]"
 related_instruments: []
 related_persons: []
 related_facts: []

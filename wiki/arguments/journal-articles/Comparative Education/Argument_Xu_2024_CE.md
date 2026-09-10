@@ -32,11 +32,11 @@ related_concepts:
   - "[[Zhonghua Minzu]]"
   - "[[Sinicisation]]"
   - "[[One Country, Two Systems]]"
-  - "[[Imagined Community]]"
   - "[[Official Knowledge]]"
   - "[[Value Neutrality]]"
   - "[[Unit of Analysis]]"
-related_theories: []
+related_theories:
+  - "[[Imagined Community]]"
 related_methods:
   - "[[Comparative Textbook Analysis]]"
   - "[[Grounded Theory]]"

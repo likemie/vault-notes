@@ -27,6 +27,7 @@ tags:
   - method/survey
   - method/interview
 related_concepts:
+  - "[[Peidu]]"
   - "[[School Choice]]"
   - "[[Cultural Capital]]"
   - "[[Attrition]]"
@@ -38,7 +39,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
-  - "[[Statistical Significance]]"
   - "[[Reliability]]"
   - "[[Quality Education]]"
   - "[[Academic Achievement]]"
@@ -51,11 +51,11 @@ related_methods:
   - "[[Snowball Sampling]]"
   - "[[Binary Logistic Regression]]"
   - "[[Semi-structured Interview]]"
+  - "[[Statistical Significance]]"
   - "[[Multiple Regression]]"
 related_persons:
   - "[[Pierre Bourdieu]]"
 related_facts:
-  - "[[Peidu]]"
   - "[[Rural School Consolidation]]"
   - "[[Hukou System]]"
   - "[[Partnership Schools Kura Hourua]]"

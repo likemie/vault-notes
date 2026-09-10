@@ -22,7 +22,6 @@ tags:
 related_concepts:
   - "[[Causality]]"
   - "[[Unit of Analysis]]"
-  - "[[Effect Size]]"
   - "[[Epistemology]]"
   - "[[Positivism]]"
   - "[[Empiricism]]"
@@ -49,6 +48,7 @@ related_theories:
   - "[[Realist Evaluation]]"
 related_methods:
   - "[[Experimental Research]]"
+  - "[[Effect Size]]"
   - "[[Quantitative Research]]"
   - "[[True Experimental Design]]"
   - "[[Posttest-Only Control Group Design]]"

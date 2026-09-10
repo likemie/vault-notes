@@ -25,7 +25,6 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Evaluation Research]]"
-  - "[[Statistical Significance]]"
   - "[[Exogenous and Endogenous Variables]]"
   - "[[Dependent Variable]]"
   - "[[Independent Variable]]"
@@ -34,18 +33,19 @@ related_concepts:
   - "[[Screening Off]]"
   - "[[Causal Processes]]"
   - "[[Operationalization]]"
-  - "[[Effect Size]]"
-  - "[[Standard Error]]"
   - "[[Cultural Capital]]"
 related_theories:
   - "[[Potential Outcomes Framework]]"
 related_methods:
   - "[[Model Fit Indices in SEM and CFA]]"
+  - "[[Statistical Significance]]"
   - "[[Multiple Regression]]"
   - "[[Matching]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Observational and Correlational Research]]"
   - "[[Covariate Adjustment]]"
+  - "[[Effect Size]]"
+  - "[[Standard Error]]"
 related_persons:
   - "[[Herbert Blalock]]"
 related_arguments:

@@ -27,7 +27,6 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[International Education]]"
   - "[[Transfer Translation Transformation]]"
-  - "[[Common School Movement]]"
   - "[[Artefact]]"
   - "[[Policy Borrowing]]"
   - "[[Positivism]]"
@@ -52,6 +51,7 @@ related_persons:
   - "[[Brian Holmes]]"
   - "[[Henry Barnard]]"
 related_facts:
+  - "[[Common School Movement]]"
   - "[[Seventh Annual Report of the Massachusetts Board of Education]]"
 related_arguments:
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"

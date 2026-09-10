@@ -27,12 +27,12 @@ related_concepts:
   - "[[Threats to Internal Validity]]"
   - "[[Sample Size Determination]]"
   - "[[High-Stakes Testing]]"
-  - "[[Effect Size]]"
   - "[[Classroom Management]]"
   - "[[Confidence Interval]]"
   - "[[Causality]]"
 related_methods:
   - "[[Qualitative Research]]"
+  - "[[Effect Size]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
 status: draft

@@ -31,7 +31,6 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Problem Solving]]"
   - "[[Hypothesis]]"
-  - "[[Effect Size]]"
   - "[[Variable]]"
   - "[[Causality]]"
   - "[[Homework]]"
@@ -45,6 +44,7 @@ related_concepts:
   - "[[Critic and Conscience of Society]]"
 related_theories: []
 related_methods:
+  - "[[Effect Size]]"
   - "[[Meta-analysis]]"
   - "[[Quantitative Research]]"
   - "[[Systematic Review]]"

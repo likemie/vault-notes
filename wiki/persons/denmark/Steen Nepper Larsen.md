@@ -26,7 +26,6 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Epistemology]]"
   - "[[Creativity]]"
-  - "[[Effect Size]]"
   - "[[Incarnation-Extension Dialectics]]"
   - "[[Blind Spot in Observation]]"
   - "[[Structural Coupling]]"
@@ -36,6 +35,7 @@ related_theories:
   - "[[Luhmann's Systems Theory]]"
   - "[[Critical Theory]]"
 related_methods:
+  - "[[Effect Size]]"
   - "[[Systematic Review]]"
 related_persons:
   - "[[John Hattie]]"

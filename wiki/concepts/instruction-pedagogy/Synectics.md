@@ -32,10 +32,8 @@ related_concepts:
   - "[[Making the Familiar Strange]]"
   - "[[Causality]]"
   - "[[Avatar]]"
-  - "[[Effect Size]]"
   - "[[Variable]]"
   - "[[Heterogeneity]]"
-  - "[[Prediction Interval]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Corporate R&D Labs]]"
   - "[[Dependent Variable]]"
@@ -51,6 +49,8 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
   - "[[Intervention Research]]"
+  - "[[Effect Size]]"
+  - "[[Prediction Interval]]"
 related_instruments:
   - "[[Remote Associates Test]]"
 related_arguments:

@@ -25,10 +25,10 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Hub and Flow Imaginaries]]"
   - "[[Flow]]"
-  - "[[Hegemony]]"
   - "[[Transfer Translation Transformation]]"
 related_theories:
   - "[[Cultural Political Economy]]"
+  - "[[Hegemony]]"
 related_methods: []
 related_persons: []
 related_arguments:

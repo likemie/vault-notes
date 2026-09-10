@@ -22,7 +22,6 @@ related_concepts:
   - "[[Project-Based Learning]]"
   - "[[Hypothesis]]"
   - "[[Direct Instruction]]"
-  - "[[Effect Size]]"
   - "[[Experiential Learning]]"
   - "[[Cooperative Learning]]"
   - "[[Surface and Deep Learning]]"
@@ -45,6 +44,7 @@ related_concepts:
 related_theories:
   - "[[Phenomenology]]"
 related_methods:
+  - "[[Effect Size]]"
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
   - "[[Inverse-Variance Weighting]]"

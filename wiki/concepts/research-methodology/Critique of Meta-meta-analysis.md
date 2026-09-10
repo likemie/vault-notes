@@ -25,11 +25,9 @@ tags:
 related_concepts:
   - "[[Visible Learning]]"
   - "[[Epistemological Break]]"
-  - "[[Effect Size]]"
   - "[[Metacognition]]"
   - "[[Hypothesis]]"
   - "[[Confidence Interval]]"
-  - "[[Standard Error]]"
   - "[[Variable]]"
   - "[[Homework]]"
   - "[[Class Size]]"
@@ -53,7 +51,9 @@ related_theories:
 related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
   - "[[Intervention Research]]"
+  - "[[Standard Error]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Robust Variance Estimation]]"
   - "[[Multilevel Egger's Test]]"

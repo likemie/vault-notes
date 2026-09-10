@@ -22,7 +22,6 @@ tags:
   - measurement/reliability
   - scale-development/validation
 related_concepts:
-  - "[[Internal Consistency]]"
   - "[[Reliability]]"
   - "[[Construct]]"
   - "[[Likert Scale]]"
@@ -32,15 +31,16 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Hypothesis]]"
-  - "[[Item Analysis]]"
-  - "[[Split-Half Reliability]]"
   - "[[Sample Size Determination]]"
 related_theories:
   - "[[Classical Test Theory]]"
 related_methods:
+  - "[[Internal Consistency]]"
   - "[[Composite Reliability]]"
   - "[[Survey Research]]"
   - "[[Scale Development]]"
+  - "[[Item Analysis]]"
+  - "[[Split-Half Reliability]]"
   - "[[Pearson Product-Moment Correlation]]"
   - "[[Confirmatory Factor Analysis]]"
   - "[[McDonald's Omega]]"

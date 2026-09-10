@@ -21,7 +21,6 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Problem Solving]]"
   - "[[Problem Finding]]"
-  - "[[Effect Size]]"
   - "[[Creativity Training]]"
   - "[[Divergent Thinking]]"
   - "[[Scaffolding]]"
@@ -40,6 +39,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
   - "[[Three-Level Meta-Analysis]]"
   - "[[Meta-meta-analysis]]"
 related_instruments: []

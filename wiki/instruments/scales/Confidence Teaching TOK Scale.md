@@ -26,10 +26,10 @@ related_concepts:
   - "[[Knowledge Questions]]"
   - "[[International Baccalaureate]]"
   - "[[Class Size]]"
-  - "[[Internal Consistency]]"
 related_theories:
   - "[[Classical Test Theory]]"
-related_methods: []
+related_methods:
+  - "[[Internal Consistency]]"
 related_instruments: []
 related_persons: []
 related_facts: []

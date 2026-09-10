@@ -22,12 +22,12 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Creativity]]"
-  - "[[Effect Size]]"
 related_theories:
   - "[[Cartwright's Three-Stage Knowledge Framework]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Random Assignment]]"
+  - "[[Effect Size]]"
 related_persons: []
 related_facts:
   - "[[California Class Size Reduction 1996]]"

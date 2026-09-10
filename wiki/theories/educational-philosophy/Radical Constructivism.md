@@ -19,12 +19,12 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Paradigm]]"
   - "[[Constructive Alignment]]"
-  - "[[Post-structuralism]]"
   - "[[Posthumanism]]"
   - "[[Realism in International Relations]]"
   - "[[Evidence-Based Education]]"
 related_theories:
   - "[[Luhmann's Systems Theory]]"
+  - "[[Post-structuralism]]"
 related_methods: []
 related_persons:
   - "[[George Berkeley]]"

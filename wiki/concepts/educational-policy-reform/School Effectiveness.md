@@ -18,11 +18,11 @@ tags:
   - method/quantitative
 related_concepts:
   - "[[Professional Judgment]]"
-  - "[[Governmentality]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Document]]"
   - "[[School Leadership]]"
-related_theories: []
+related_theories:
+  - "[[Governmentality]]"
 related_methods: []
 related_persons:
   - "[[Michael Barber]]"

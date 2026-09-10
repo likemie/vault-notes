@@ -15,7 +15,6 @@ tags:
   - method/sampling
   - quantitative-research
 related_concepts:
-  - "[[Progressive Focussing]]"
   - "[[Research Question]]"
   - "[[Unit of Analysis]]"
   - "[[Research Purpose]]"
@@ -25,6 +24,7 @@ related_theories: []
 related_methods:
   - "[[Stage Sampling]]"
   - "[[Random Sampling]]"
+  - "[[Progressive Focussing]]"
 related_persons: []
 related_facts: []
 related_arguments:

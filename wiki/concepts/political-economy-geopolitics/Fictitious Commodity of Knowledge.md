@@ -21,11 +21,11 @@ tags:
   - level/higher-ed
 related_concepts:
   - "[[Knowledge Capitalism]]"
-  - "[[Academic Capitalism]]"
   - "[[Quasi-commodification of Knowledge]]"
   - "[[Champ]]"
   - "[[Knowledge Rents]]"
-related_theories: []
+related_theories:
+  - "[[Academic Capitalism]]"
 related_methods: []
 related_persons: []
 related_facts:

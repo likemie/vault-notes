@@ -24,7 +24,6 @@ related_concepts:
   - "[[Causality]]"
   - "[[Variable]]"
   - "[[Dependent Variable]]"
-  - "[[Effect Size]]"
   - "[[Empiricism]]"
   - "[[Emergence]]"
   - "[[Epistemology]]"
@@ -37,6 +36,7 @@ related_concepts:
 related_theories:
   - "[[Critical Realism]]"
 related_methods:
+  - "[[Effect Size]]"
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
   - "[[Qualitative Observation]]"

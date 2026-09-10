@@ -26,22 +26,22 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Visible Learning]]"
-  - "[[Effect Size]]"
   - "[[Epistemology]]"
   - "[[Reliability]]"
   - "[[Sampling Error]]"
   - "[[School Effectiveness]]"
   - "[[Confidence Interval]]"
   - "[[Sample Size Determination]]"
-  - "[[Standard Error]]"
   - "[[Variable]]"
   - "[[Hypothesis]]"
   - "[[Direct Instruction]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
   - "[[Meta-meta-analysis]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Standard Error]]"
   - "[[Inverse-Variance Weighting]]"
   - "[[Coding in Qualitative Research]]"
 related_persons:

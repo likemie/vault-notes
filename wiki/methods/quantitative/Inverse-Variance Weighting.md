@@ -21,12 +21,9 @@ tags:
   - theme/inverse-variance-weighting
   - field/research-methodology
 related_concepts:
-  - "[[Effect Size]]"
   - "[[Heterogeneity]]"
-  - "[[Standard Error]]"
   - "[[Unit of Analysis]]"
   - "[[Confidence Interval]]"
-  - "[[Between-Study Variance]]"
   - "[[Epistemology]]"
   - "[[Sample Size Determination]]"
   - "[[Publication Bias]]"
@@ -42,8 +39,11 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Standard Error]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Between-Study Variance]]"
   - "[[Umbrella Review]]"
   - "[[Robust Variance Estimation]]"
   - "[[Meta-regression]]"

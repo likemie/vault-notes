@@ -16,7 +16,6 @@ tags:
 - evidence-based-education
 - research-methodology
 related_concepts:
-  - "[[Effect Size]]"
   - "[[Variable]]"
   - "[[Sample Size Determination]]"
   - "[[Study Population and Sample]]"
@@ -26,13 +25,14 @@ related_concepts:
   - "[[Implementation Fidelity]]"
   - "[[Categorical Funding]]"
   - "[[Heterogeneity]]"
-  - "[[Prediction Interval]]"
   - "[[Evaluator Independence]]"
   - "[[Preregistration]]"
 related_theories: []
 related_methods:
+  - "[[Effect Size]]"
   - "[[Meta-analysis]]"
   - "[[Meta-regression]]"
+  - "[[Prediction Interval]]"
   - "[[Quasi-Experimental Designs]]"
 related_persons: []
 related_facts:

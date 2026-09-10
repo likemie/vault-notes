@@ -43,9 +43,9 @@ related_concepts:
   - "[[Cultural Disembedding]]"
   - "[[Cultural Disorientation]]"
   - "[[School Choice]]"
+  - "[[Peidu]]"
   - "[[Paradigm]]"
   - "[[Pragmatic Paradigm]]"
-  - "[[Post-structuralism]]"
   - "[[Determinism]]"
   - "[[Document]]"
   - "[[Positivism]]"
@@ -53,6 +53,7 @@ related_concepts:
 related_theories:
   - "[[Luhmann's Systems Theory]]"
   - "[[Neo-feudalism in Higher Education]]"
+  - "[[Post-structuralism]]"
   - "[[Phenomenology]]"
 related_methods:
   - "[[Ethnography]]"
@@ -69,7 +70,6 @@ related_arguments:
 related_facts:
   - "[[Top Institute for Evidence-Based Education Research]]"
   - "[[CNRS]]"
-  - "[[Peidu]]"
 confidence: high
 status: draft
 created: 2026-05-02

@@ -16,7 +16,6 @@ tags:
   - subject/instruction
   - level/k12
 related_concepts:
-  - "[[Effect Size]]"
   - "[[Evidence-Based Education]]"
   - "[[Praxis]]"
   - "[[Critiques of Visible Learning]]"
@@ -74,6 +73,7 @@ related_theories:
   - "[[Popper's Three Worlds Theory]]"
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
   - "[[Meta-meta-analysis]]"
   - "[[Observation Method]]"
   - "[[Coding in Qualitative Research]]"

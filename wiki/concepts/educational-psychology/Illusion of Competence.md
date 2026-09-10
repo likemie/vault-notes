@@ -30,11 +30,11 @@ related_concepts:
   - "[[Brainstorming]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Critical Thinking]]"
-  - "[[Effect Size]]"
   - "[[Variable]]"
 related_theories: []
 related_methods:
   - "[[Causal Modeling]]"
+  - "[[Effect Size]]"
   - "[[Systematic Review]]"
 related_arguments:
   - "[[Argument_Li_2026_CEAI]]"

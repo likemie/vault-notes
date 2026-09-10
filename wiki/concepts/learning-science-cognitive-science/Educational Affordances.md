@@ -41,7 +41,6 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Ontology]]"
   - "[[Document]]"
-  - "[[Effect Size]]"
   - "[[Variable]]"
   - "[[AI Agent in Education]]"
   - "[[Problem Solving]]"
@@ -49,6 +48,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Role-playing]]"
+  - "[[Effect Size]]"
   - "[[Systematic Review]]"
   - "[[Meta-analysis]]"
   - "[[Experimental Research]]"

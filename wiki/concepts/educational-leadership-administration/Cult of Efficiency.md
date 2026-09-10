@@ -18,12 +18,12 @@ tags:
   - theme/neo-taylorism
 related_concepts:
   - "[[Neo-Taylorism]]"
-  - "[[Effect Size]]"
   - "[[External Auditor]]"
   - "[[Cult of the Guru]]"
   - "[[Visible Learning]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Effect Size]]"
 related_persons:
   - "[[John Hattie]]"
 related_facts:

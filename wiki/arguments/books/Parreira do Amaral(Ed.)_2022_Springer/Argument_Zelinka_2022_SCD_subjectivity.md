@@ -10,19 +10,19 @@ tags: ["theme/geopolitics-of-knowledge", "theme/subjectivity", "theme/21st-centu
 related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[21st Century Skills and Competencies Discourse]]"
-  - "[[Governmentality]]"
   - "[[Discursive Opportunity Structures]]"
   - "[[Literature Review]]"
   - "[[Theory of Knowledge]]"
   - "[[Assemblage]]"
-  - "[[Governing at a Distance]]"
   - "[[Self-Entrepreneur]]"
   - "[[Employability]]"
   - "[[Lifelong Learning]]"
   - "[[VUCA]]"
   - "[[Knowledge Production]]"
   - "[[Paradigm]]"
-related_theories: []
+related_theories:
+  - "[[Governmentality]]"
+  - "[[Governing at a Distance]]"
 related_methods:
   - "[[Single-Case Design]]"
   - "[[Discourse Analysis]]"

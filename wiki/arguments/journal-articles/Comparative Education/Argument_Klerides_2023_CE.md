@@ -42,10 +42,8 @@ related_concepts:
   - "[[International Education]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Unit of Analysis]]"
-  - "[[Common School Movement]]"
   - "[[Reference Society]]"
   - "[[Hypothesis]]"
-  - "[[Governing at a Distance]]"
   - "[[International Mind]]"
   - "[[Policy Entrepreneur]]"
   - "[[Travelling Policy]]"
@@ -63,6 +61,7 @@ related_concepts:
 related_theories:
   - "[[Wight's Three Traditions of International Theory]]"
   - "[[Human Capital Theory]]"
+  - "[[Governing at a Distance]]"
   - "[[World Society Theory]]"
   - "[[Luhmann's Systems Theory]]"
   - "[[Autopoiesis]]"
@@ -80,6 +79,7 @@ related_facts:
   - "[[Comparative and International Education Society]]"
   - "[[OECD]]"
   - "[[International Institute for Educational Planning]]"
+  - "[[Common School Movement]]"
   - "[[Comparative Education Society in Europe]]"
   - "[[PISA]]"
 related_arguments:

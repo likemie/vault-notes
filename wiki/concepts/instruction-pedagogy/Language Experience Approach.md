@@ -17,12 +17,12 @@ tags:
 related_concepts:
   - "[[Whole Language]]"
   - "[[Transfer Translation Transformation]]"
-  - "[[Effect Size]]"
   - "[[Document]]"
   - "[[Visible Learning]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
   - "[[Experimental Research]]"
 related_persons:
   - "[[Steven Stahl]]"

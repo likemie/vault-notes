@@ -20,11 +20,11 @@ tags:
 related_concepts:
   - "[[Data Transformation]]"
   - "[[Confidence Interval]]"
-  - "[[Effect Size]]"
   - "[[Construct]]"
   - "[[Construct Validity]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Effect Size]]"
 related_persons: []
 related_arguments:
   - "[[Argument_Allerup_2015_Paideia]]"

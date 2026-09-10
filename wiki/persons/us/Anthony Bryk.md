@@ -27,7 +27,6 @@ related_concepts:
   - "[[Evidence-Informed Practice]]"
   - "[[Pragmatism in China]]"
   - "[[Paradigm Wars]]"
-  - "[[Effect Size]]"
   - "[[Internal Validity]]"
   - "[[Variable]]"
 related_theories: []
@@ -36,6 +35,7 @@ related_methods:
   - "[[Snowball Sampling]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Mechanism Experiments]]"
+  - "[[Effect Size]]"
 related_persons:
   - "[[Amelia Peterson]]"
 related_facts:

@@ -27,7 +27,6 @@ related_concepts:
   - "[[Innovation Ecosystem]]"
   - "[[Knowledge-Based Economy]]"
   - "[[National Competitive Advantage]]"
-  - "[[Hegemony]]"
   - "[[Economic Patriotism]]"
   - "[[Spatial Sortings]]"
   - "[[International Education Hubs]]"
@@ -36,6 +35,7 @@ related_concepts:
   - "[[Geopolitical Subject]]"
 related_theories:
   - "[[Fixity-Motion Tension]]"
+  - "[[Hegemony]]"
   - "[[Cultural Political Economy]]"
   - "[[Critical Geopolitics]]"
 related_methods: []

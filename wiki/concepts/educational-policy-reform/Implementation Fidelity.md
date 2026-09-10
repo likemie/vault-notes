@@ -19,18 +19,18 @@ tags:
 - program-evaluation
 - causal-inference
 related_concepts:
-  - "[[Effect Size]]"
   - "[[Counterfactual]]"
   - "[[Formative Assessment]]"
   - "[[Logic Model]]"
-  - "[[Statistical Significance]]"
   - "[[Achievement and Aptitude Tests]]"
   - "[[Internal Validity]]"
   - "[[Educational Evidence Clearinghouses]]"
 related_theories: []
 related_methods:
+  - "[[Effect Size]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Formative Program Evaluation]]"
+  - "[[Statistical Significance]]"
 related_persons: []
 related_facts:
   - "[[Students and Teachers Accessing Tomorrow]]"

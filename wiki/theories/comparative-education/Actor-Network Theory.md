@@ -31,10 +31,10 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Ontology]]"
   - "[[Policy Borrowing]]"
-  - "[[Governing at a Distance]]"
   - "[[Rationalism in International Relations]]"
   - "[[Rich and Thick Description]]"
-related_theories: []
+related_theories:
+  - "[[Governing at a Distance]]"
 related_methods:
   - "[[Ethnography]]"
   - "[[Coding in Qualitative Research]]"

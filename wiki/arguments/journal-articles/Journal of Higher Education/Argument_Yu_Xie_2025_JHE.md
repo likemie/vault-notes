@@ -28,7 +28,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Infrastructures of Immobility]]"
   - "[[Space Production]]"
-  - "[[Governmentality]]"
   - "[[Knowledge Production]]"
   - "[[Praxis]]"
   - "[[Epistemic Coloniality]]"
@@ -67,6 +66,7 @@ related_concepts:
   - "[[Literature Review]]"
   - "[[Operationalization]]"
 related_theories:
+  - "[[Governmentality]]"
   - "[[Critical Geopolitics]]"
   - "[[Dependency Theory]]"
   - "[[Human Capital Theory]]"

@@ -20,7 +20,6 @@ tags:
 related_concepts:
   - "[[Hypothesis]]"
   - "[[Nerd]]"
-  - "[[Entity vs Incremental Intelligence]]"
   - "[[Operationalization]]"
   - "[[Creativity]]"
   - "[[Tracking]]"
@@ -28,7 +27,8 @@ related_concepts:
   - "[[Intellectual-Social Divide]]"
   - "[[Codeswitcher]]"
   - "[[Doxa]]"
-related_theories: []
+related_theories:
+  - "[[Entity vs Incremental Intelligence]]"
 related_methods: []
 related_persons: []
 related_facts: []

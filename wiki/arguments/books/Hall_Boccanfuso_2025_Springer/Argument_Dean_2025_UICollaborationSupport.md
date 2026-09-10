@@ -22,7 +22,6 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Cooperative Education]]"
-  - "[[Declaration on Research Assessment]]"
   - "[[Document]]"
   - "[[Technology Transfer]]"
   - "[[Evaluation Research]]"
@@ -46,6 +45,7 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[University of Waterloo Inventor-Owned IP Policy]]"
+  - "[[Declaration on Research Assessment]]"
   - "[[Schlegel-UW Research Institute for Aging]]"
   - "[[University of Waterloo Global Futures Framework]]"
   - "[[European Standards and Guidelines]]"

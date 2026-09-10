@@ -23,7 +23,6 @@ related_concepts:
   - "[[International Schools]]"
   - "[[International Baccalaureate]]"
   - "[[Space of Flows and Space of Places]]"
-  - "[[Transitology]]"
   - "[[Theory of Knowledge]]"
   - "[[International Education]]"
   - "[[Boarding Schools]]"
@@ -33,6 +32,8 @@ related_arguments:
   - "[[Argument_Peterson_1987_OpenCourt_Ch05]]"
 related_facts:
   - "[[United World Colleges Associated Schools Policy 1977]]"
+related_theories:
+  - "[[Transitology]]"
 confidence: high
 status: draft
 created: 2026-08-24

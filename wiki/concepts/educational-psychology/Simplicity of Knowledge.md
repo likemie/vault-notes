@@ -30,12 +30,12 @@ related_concepts:
   - "[[Domain Specificity]]"
   - "[[Problem Solving]]"
   - "[[Variable]]"
-  - "[[Statistical Significance]]"
-  - "[[Effect Size]]"
   - "[[Rote Learning]]"
 related_theories:
   - "[[Reflective Judgment Model]]"
-related_methods: []
+related_methods:
+  - "[[Statistical Significance]]"
+  - "[[Effect Size]]"
 related_instruments: []
 related_persons: []
 related_facts: []

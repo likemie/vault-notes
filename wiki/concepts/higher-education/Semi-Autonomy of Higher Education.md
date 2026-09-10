@@ -18,7 +18,6 @@ tags:
 - level/higher-ed
 - region/global
 related_concepts:
-  - "[[Hegemony]]"
   - "[[Epistemology]]"
   - "[[Geopolitics of Higher Education]]"
   - "[[Methodological Globalism]]"
@@ -31,6 +30,7 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Hypothesis]]"
 related_theories:
+  - "[[Hegemony]]"
   - "[[World-Systems Theory]]"
 related_methods: []
 related_persons: []

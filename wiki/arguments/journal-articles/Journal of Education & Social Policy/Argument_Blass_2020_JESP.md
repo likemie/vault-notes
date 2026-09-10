@@ -24,7 +24,6 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Visible Learning]]"
   - "[[Hypothesis]]"
-  - "[[Effect Size]]"
   - "[[Critical Thinking]]"
   - "[[Literature Review]]"
   - "[[Surface and Deep Learning]]"
@@ -34,6 +33,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
   - "[[Meta-meta-analysis]]"
 related_persons:
   - "[[John Hattie]]"

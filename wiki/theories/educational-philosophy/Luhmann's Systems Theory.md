@@ -15,7 +15,6 @@ tags:
 - paradigm/systems-theory
 related_concepts:
   - "[[Visible Learning]]"
-  - "[[Effect Size]]"
   - "[[Structural Coupling]]"
   - "[[Causality]]"
   - "[[Epistemology]]"
@@ -30,6 +29,7 @@ related_theories:
   - "[[Autopoiesis]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
+  - "[[Effect Size]]"
 related_persons:
   - "[[Niklas Luhmann]]"
 related_facts: []

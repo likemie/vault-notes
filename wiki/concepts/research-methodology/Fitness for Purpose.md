@@ -18,8 +18,6 @@ tags:
   - theme/research-planning
 related_concepts:
   - "[[Research Purpose]]"
-  - "[[Effect Size]]"
-  - "[[Statistical Significance]]"
   - "[[Evaluation Research]]"
   - "[[Critique of Effect Size]]"
   - "[[Questionnaire]]"
@@ -33,6 +31,8 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
+  - "[[Effect Size]]"
+  - "[[Statistical Significance]]"
   - "[[Stratified Sampling]]"
   - "[[Action Research]]"
   - "[[Ethnography]]"

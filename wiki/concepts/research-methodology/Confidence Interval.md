@@ -19,16 +19,16 @@ tags:
   - research-methodology
 related_concepts:
   - "[[Sample Size Determination]]"
-  - "[[Prediction Interval]]"
-  - "[[Statistical Significance]]"
-  - "[[Effect Size]]"
   - "[[Sampling Error]]"
   - "[[Null Hypothesis]]"
-  - "[[Standard Error]]"
   - "[[Visible Learning]]"
   - "[[School Effectiveness]]"
 related_theories: []
 related_methods:
+  - "[[Prediction Interval]]"
+  - "[[Statistical Significance]]"
+  - "[[Effect Size]]"
+  - "[[Standard Error]]"
   - "[[Meta-analysis]]"
   - "[[Rasch Measurement]]"
   - "[[Meta-meta-analysis]]"

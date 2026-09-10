@@ -31,7 +31,6 @@ related_concepts:
   - "[[Effective Teaching]]"
   - "[[Dialogue in Education]]"
   - "[[Stereotype Threat]]"
-  - "[[Common School Movement]]"
   - "[[Value Neutrality]]"
   - "[[Avatar]]"
   - "[[Student-Teacher Relationship]]"
@@ -48,26 +47,27 @@ related_concepts:
   - "[[Questionnaire]]"
   - "[[Mind and Its Wonders]]"
   - "[[Generative Artificial Intelligence]]"
-  - "[[Effect Size]]"
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
   - "[[Positivism]]"
   - "[[Epistemology]]"
   - "[[International Education]]"
-  - "[[Orientalism]]"
   - "[[Document]]"
-related_theories: []
+related_theories:
+  - "[[Orientalism]]"
 related_methods:
   - "[[Moderator Analysis]]"
   - "[[Meta-analysis]]"
   - "[[Experimental Research]]"
+  - "[[Effect Size]]"
   - "[[Quantitative Research]]"
   - "[[Qualitative Research]]"
   - "[[Coding in Qualitative Research]]"
 related_instruments: []
 related_persons:
   - "[[Geert Hofstede]]"
-related_facts: []
+related_facts:
+  - "[[Common School Movement]]"
 related_arguments:
   - "[[Argument_Laursen_2015_Paideia]]"
   - "[[Argument_Ryan_2010_ChineseLearner]]"

@@ -22,7 +22,6 @@ tags:
 related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Examined Life]]"
-  - "[[Theory of Mind]]"
   - "[[Certainty of Knowledge]]"
   - "[[Western Learner]]"
   - "[[Theory of Knowledge]]"
@@ -31,7 +30,8 @@ related_concepts:
   - "[[Critical Pedagogy]]"
   - "[[Critical Thinking]]"
   - "[[Growth]]"
-related_theories: []
+related_theories:
+  - "[[Theory of Mind]]"
 related_methods: []
 related_persons:
   - "[[Socrates]]"

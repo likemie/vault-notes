@@ -38,7 +38,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Pre-test and Post-test]]"
   - "[[External Validity]]"
-  - "[[Standard Error]]"
   - "[[Falsification]]"
   - "[[Manipulation Check]]"
   - "[[Homework]]"
@@ -51,6 +50,7 @@ related_methods:
   - "[[Random Assignment]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
+  - "[[Standard Error]]"
   - "[[Time Series Design]]"
 related_instruments: []
 related_persons: []

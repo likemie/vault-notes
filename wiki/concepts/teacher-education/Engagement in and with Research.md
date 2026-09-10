@@ -27,13 +27,13 @@ related_concepts:
   - "[[Literature Search]]"
   - "[[Interaction Effect]]"
   - "[[Research Utilization]]"
-  - "[[Effect Size]]"
   - "[[Dependent Variable]]"
   - "[[Variable]]"
 related_theories: []
 related_methods:
   - "[[Action Research]]"
   - "[[Systematic Review]]"
+  - "[[Effect Size]]"
   - "[[Multivariate Analysis of Variance]]"
   - "[[Analysis of Variance]]"
 related_instruments: []

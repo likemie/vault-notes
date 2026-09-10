@@ -25,13 +25,13 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Visible Learning]]"
   - "[[Effective Teaching]]"
-  - "[[Effect Size]]"
   - "[[Dialogue in Education]]"
   - "[[Epistemology]]"
   - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[Meta-meta-analysis]]"
+  - "[[Effect Size]]"
 related_persons: []
 related_facts: []
 related_arguments: []

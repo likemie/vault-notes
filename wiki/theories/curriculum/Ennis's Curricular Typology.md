@@ -27,7 +27,6 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Reliability]]"
   - "[[Scaffolding]]"
-  - "[[Effect Size]]"
   - "[[Academic Achievement]]"
   - "[[Presence]]"
   - "[[Interaction Effect]]"
@@ -36,6 +35,7 @@ related_theories:
   - "[[Explicit Critical Thinking Instruction]]"
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
 related_instruments: []
 related_persons: []
 related_facts: []

@@ -21,7 +21,6 @@ related_concepts:
   - "[[Areas of Knowledge]]"
   - "[[Analytic Framework]]"
   - "[[Knowledge Framework]]"
-  - "[[Domain Analysis]]"
   - "[[Critical Thinking]]"
   - "[[Hypothesis]]"
   - "[[Problem Solving]]"
@@ -35,7 +34,8 @@ related_concepts:
   - "[[Construct Validity]]"
   - "[[Disciplina and Doctrina]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Domain Analysis]]"
 related_instruments: []
 related_persons:
   - "[[René Descartes]]"

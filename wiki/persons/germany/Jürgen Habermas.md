@@ -36,10 +36,8 @@ related_concepts:
   - "[[Ideal Speech Situation]]"
   - "[[Analytic Framework]]"
   - "[[Enlightenment]]"
-  - "[[Postmodernism]]"
   - "[[Scientism]]"
   - "[[Linguistic Turn]]"
-  - "[[Post-structuralism]]"
   - "[[Bildung]]"
   - "[[Creativity]]"
   - "[[Variable]]"
@@ -58,6 +56,8 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
 related_theories:
   - "[[Critical Theory]]"
+  - "[[Postmodernism]]"
+  - "[[Post-structuralism]]"
 related_methods:
   - "[[Emancipatory Action Research]]"
   - "[[Ideology Critique]]"

@@ -48,7 +48,6 @@ related_concepts:
   - "[[Null Hypothesis]]"
   - "[[Alternative Hypothesis]]"
   - "[[Informed Consent]]"
-  - "[[Standard Error]]"
   - "[[Heterogeneity]]"
   - "[[Sample Size Determination]]"
   - "[[Covering Letter]]"
@@ -68,7 +67,6 @@ related_concepts:
   - "[[Order Effects]]"
   - "[[Sensitive Questions]]"
   - "[[Sensitive Research]]"
-  - "[[Internal Consistency]]"
 related_methods:
   - "[[Survey Research]]"
   - "[[Longitudinal Study]]"
@@ -81,10 +79,12 @@ related_methods:
   - "[[Semi-structured Interview]]"
   - "[[Internet-based Survey]]"
   - "[[Imputation Methods]]"
+  - "[[Standard Error]]"
   - "[[Stratified Sampling]]"
   - "[[Multi-phase Sampling]]"
   - "[[Cohort Study]]"
   - "[[Ex Post Facto Research]]"
+  - "[[Internal Consistency]]"
   - "[[Cross-checking]]"
 related_facts:
   - "[[PISA]]"

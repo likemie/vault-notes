@@ -26,17 +26,13 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[Educational Meliorism]]"
   - "[[Transfer Translation Transformation]]"
-  - "[[Transitology]]"
   - "[[Praxis]]"
   - "[[Cross-National Attraction]]"
   - "[[Going Native]]"
   - "[[Pre-Transfer Agency]]"
   - "[[Reference Society]]"
-  - "[[Governing at a Distance]]"
   - "[[Rationalism in International Relations]]"
-  - "[[Common School Movement]]"
   - "[[Re-Westernisation]]"
-  - "[[Orientalism]]"
   - "[[Analytic Framework]]"
   - "[[Concept Mapping]]"
   - "[[Realism in International Relations]]"
@@ -49,7 +45,10 @@ related_concepts:
   - "[[Network Governance]]"
 related_theories:
   - "[[World Society Theory]]"
+  - "[[Transitology]]"
+  - "[[Governing at a Distance]]"
   - "[[Autopoiesis]]"
+  - "[[Orientalism]]"
   - "[[Wight's Three Traditions of International Theory]]"
 related_methods: []
 related_persons:
@@ -70,6 +69,7 @@ related_facts:
   - "[[Sputnik Shock 1957]]"
   - "[[OECD]]"
   - "[[PISA]]"
+  - "[[Common School Movement]]"
   - "[[Prussian Draft Education Law of 1819]]"
   - "[[Liberal Studies]]"
 related_arguments:

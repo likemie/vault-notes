@@ -31,12 +31,12 @@ related_concepts:
   - "[[Implementation Fidelity]]"
   - "[[Academic Achievement]]"
   - "[[Master Protocol]]"
-  - "[[Effect Size]]"
   - "[[Educational Evidence Clearinghouses]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
 related_instruments: []
 related_persons:
   - "[[Robert Slavin]]"

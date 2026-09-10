@@ -44,7 +44,6 @@ related_concepts:
   - "[[Regulatory Regionalism]]"
   - "[[Global Education Industry]]"
   - "[[Flow]]"
-  - "[[Transitology]]"
   - "[[Transhumanism]]"
   - "[[Posthumanism]]"
   - "[[Response-ability]]"
@@ -52,6 +51,7 @@ related_concepts:
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Critical Geopolitics]]"
+  - "[[Transitology]]"
 related_methods:
   - "[[Snowball Sampling]]"
 related_persons:

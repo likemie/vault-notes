@@ -24,7 +24,6 @@ related_concepts:
   - "[[Internal Validity]]"
   - "[[External Validity]]"
   - "[[Qualitative Validity]]"
-  - "[[Negative Case Analysis]]"
   - "[[Rich and Thick Description]]"
   - "[[Audit Trail]]"
   - "[[External Auditor]]"
@@ -32,6 +31,7 @@ related_concepts:
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Triangulation]]"
+  - "[[Negative Case Analysis]]"
   - "[[Member Checking]]"
   - "[[Mixed Methods Research]]"
 related_arguments:

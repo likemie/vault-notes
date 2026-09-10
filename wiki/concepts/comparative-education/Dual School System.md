@@ -26,7 +26,6 @@ tags:
 related_concepts:
   - "[[Culture Générale]]"
   - "[[Tracking]]"
-  - "[[Common School Movement]]"
   - "[[Conatus]]"
   - "[[Bildung]]"
   - "[[Normal School]]"
@@ -52,6 +51,7 @@ related_persons:
   - "[[Pierre Bourdieu]]"
   - "[[François Guizot]]"
 related_facts:
+  - "[[Common School Movement]]"
   - "[[Guizot Law of 1833]]"
   - "[[1904 Educational System]]"
   - "[[Prussian Draft Education Law of 1819]]"

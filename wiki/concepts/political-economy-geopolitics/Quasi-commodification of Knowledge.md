@@ -21,10 +21,10 @@ tags:
   - level/higher-ed
 related_concepts:
   - "[[Analytic Framework]]"
-  - "[[Academic Capitalism]]"
   - "[[Fictitious Commodity of Knowledge]]"
   - "[[Knowledge-Based Economy]]"
-related_theories: []
+related_theories:
+  - "[[Academic Capitalism]]"
 related_methods: []
 related_persons: []
 related_facts:

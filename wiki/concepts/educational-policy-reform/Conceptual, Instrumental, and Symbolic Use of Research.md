@@ -32,13 +32,13 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Questionnaire]]"
-  - "[[Effect Size]]"
   - "[[Variable]]"
 related_theories:
   - "[[Quality Use of Research Evidence Framework]]"
   - "[[Research Utilization Models]]"
 related_methods:
   - "[[Systematic Review]]"
+  - "[[Effect Size]]"
 related_instruments: []
 related_persons: []
 related_facts:

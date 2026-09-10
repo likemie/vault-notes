@@ -25,12 +25,12 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Reliability]]"
   - "[[Halo Effect]]"
-  - "[[Inter-Rater Reliability]]"
 related_methods:
   - "[[Survey Research]]"
   - "[[Causal Modeling]]"
   - "[[Pilot Testing]]"
   - "[[Structured Observation]]"
+  - "[[Inter-Rater Reliability]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23]]"

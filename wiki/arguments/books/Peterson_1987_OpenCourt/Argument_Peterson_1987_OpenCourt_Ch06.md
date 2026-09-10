@@ -44,7 +44,6 @@ related_concepts:
   - "[[Hawthorne Effect]]"
   - "[[Creativity, Action, Service]]"
   - "[[Reliability]]"
-  - "[[Theory of Mind]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Heterogeneity]]"
   - "[[Preregistration]]"
@@ -65,6 +64,8 @@ related_facts:
   - "[[Education International]]"
 sources:
   - "[[books/Peterson_1987_OpenCourt/Peterson_1987_OpenCourt|Peterson_1987_OpenCourt]]"
+related_theories:
+  - "[[Theory of Mind]]"
 status: draft
 created: 2026-09-01
 updated: 2026-09-03

@@ -22,7 +22,6 @@ related_concepts:
   - "[[Higher-Order Thinking Skills]]"
   - "[[Immersion Approach]]"
   - "[[Presence]]"
-  - "[[Effect Size]]"
   - "[[Metacognition]]"
   - "[[Domain Specificity]]"
 related_theories:
@@ -30,6 +29,7 @@ related_theories:
   - "[[Explicit Critical Thinking Instruction]]"
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
 related_instruments: []
 related_persons: []
 related_facts: []

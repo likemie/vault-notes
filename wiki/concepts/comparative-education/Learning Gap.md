@@ -28,10 +28,10 @@ related_concepts:
   - "[[Learning Virtues]]"
   - "[[Homework]]"
   - "[[Document]]"
-  - "[[Entity vs Incremental Intelligence]]"
 related_theories:
   - "[[Cultural Models]]"
   - "[[Confucian Learning Tradition]]"
+  - "[[Entity vs Incremental Intelligence]]"
 related_methods:
   - "[[Ethnography]]"
 related_persons:

@@ -48,7 +48,6 @@ related_concepts:
   - "[[Covert Research]]"
   - "[[Going Native]]"
   - "[[Reliability]]"
-  - "[[Inter-Rater Reliability]]"
   - "[[Operationalization]]"
   - "[[Fitness for Purpose]]"
   - "[[Rating Scale]]"
@@ -71,7 +70,6 @@ related_concepts:
   - "[[Hawthorne Effect]]"
   - "[[Construct Validity]]"
   - "[[Reflexivity]]"
-  - "[[Internal Consistency]]"
   - "[[Observer Drift]]"
   - "[[Habituation]]"
   - "[[Rich and Thick Description]]"
@@ -85,6 +83,7 @@ related_methods:
   - "[[Ethnography]]"
   - "[[Non-participant Observation]]"
   - "[[Qualitative Observation]]"
+  - "[[Inter-Rater Reliability]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Participant Observation]]"
   - "[[Triangulation]]"
@@ -97,6 +96,7 @@ related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Case Study]]"
   - "[[Experimental Research]]"
+  - "[[Internal Consistency]]"
 related_facts:
   - "[[Stanford Prison Experiment]]"
 status: draft

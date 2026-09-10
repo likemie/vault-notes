@@ -16,7 +16,6 @@ tags:
   - theory/social-realism
   - method/curriculum-design
 related_concepts:
-  - "[[Social Realism]]"
   - "[[Operationalization]]"
   - "[[Epistemology]]"
   - "[[Powerful Knowledge]]"
@@ -24,7 +23,8 @@ related_concepts:
   - "[[Knowledge-that and Know-how-to]]"
   - "[[Surface and Deep Learning]]"
   - "[[Big Ideas]]"
-related_theories: []
+related_theories:
+  - "[[Social Realism]]"
 related_methods: []
 related_persons:
   - "[[Basil Bernstein]]"

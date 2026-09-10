@@ -18,9 +18,9 @@ related_concepts:
   - "[[Chinese Learner]]"
   - "[[Hypothesis]]"
   - "[[Constructivist Paradigm]]"
-  - "[[Orientalism]]"
   - "[[Dialogue in Education]]"
-related_theories: []
+related_theories:
+  - "[[Orientalism]]"
 related_methods: []
 related_persons: []
 related_facts: []

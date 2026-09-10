@@ -35,7 +35,6 @@ related_concepts:
   - "[[Epistemic Cognition]]"
   - "[[Causal Processes]]"
   - "[[Scientific Method]]"
-  - "[[Effect Size]]"
   - "[[Sample Size Determination]]"
   - "[[Dialogue in Education]]"
 related_theories:
@@ -44,6 +43,7 @@ related_theories:
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Systematic Review]]"
+  - "[[Effect Size]]"
   - "[[Discourse Analysis]]"
 related_persons:
   - "[[Clark A. Chinn]]"

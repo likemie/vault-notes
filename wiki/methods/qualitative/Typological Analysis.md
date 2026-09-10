@@ -20,13 +20,13 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Causality]]"
-  - "[[Analytic Induction]]"
 related_theories: []
 related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Qualitative Research]]"
   - "[[Constant Comparison]]"
   - "[[Content Analysis]]"
+  - "[[Analytic Induction]]"
 related_persons: []
 related_facts: []
 related_arguments:

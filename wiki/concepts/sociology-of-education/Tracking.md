@@ -20,10 +20,10 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Hypothesis]]"
   - "[[Talent Assumption]]"
-  - "[[Entity vs Incremental Intelligence]]"
   - "[[Intellectual-Social Divide]]"
   - "[[Nerd]]"
-related_theories: []
+related_theories:
+  - "[[Entity vs Incremental Intelligence]]"
 related_methods: []
 related_persons: []
 related_facts: []

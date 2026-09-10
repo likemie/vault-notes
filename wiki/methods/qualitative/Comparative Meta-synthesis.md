@@ -19,7 +19,6 @@ tags:
   - evidence-based-education
   - subject/methodology
 related_concepts:
-  - "[[Effect Size]]"
   - "[[Variable]]"
   - "[[Individualised Instruction]]"
   - "[[Visible Learning]]"
@@ -34,6 +33,7 @@ related_theories:
 related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
   - "[[Moderator Analysis]]"
 related_persons: []
 related_arguments:

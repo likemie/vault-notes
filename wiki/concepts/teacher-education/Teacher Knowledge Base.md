@@ -33,12 +33,12 @@ related_concepts:
   - "[[Research Literacy]]"
   - "[[Paradigm]]"
   - "[[Document]]"
-  - "[[Effect Size]]"
   - "[[Variable]]"
   - "[[Questionnaire]]"
   - "[[Rich and Thick Description]]"
 related_methods:
   - "[[Accounts]]"
+  - "[[Effect Size]]"
   - "[[Critical Review]]"
   - "[[Quantitative Research]]"
 related_arguments:

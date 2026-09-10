@@ -17,7 +17,6 @@ tags:
 related_concepts:
   - "[[Reliability]]"
   - "[[Transcription in Qualitative Research]]"
-  - "[[Test-Retest Reliability]]"
   - "[[Intercoder Agreement]]"
 related_theories: []
 related_methods:
@@ -25,6 +24,7 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Case Study]]"
   - "[[Cronbach's Alpha]]"
+  - "[[Test-Retest Reliability]]"
 related_persons: []
 related_facts: []
 related_arguments:

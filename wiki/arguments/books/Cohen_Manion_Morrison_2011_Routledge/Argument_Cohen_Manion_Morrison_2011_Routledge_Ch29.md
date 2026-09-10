@@ -52,13 +52,11 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Positivism]]"
   - "[[Reliability]]"
-  - "[[Internal Consistency]]"
   - "[[Variable]]"
   - "[[Chain of Evidence]]"
   - "[[Presence]]"
   - "[[Incubation]]"
   - "[[Epoché]]"
-  - "[[Analytic Induction]]"
 related_theories:
   - "[[Phenomenology]]"
 related_methods:
@@ -71,6 +69,8 @@ related_methods:
   - "[[Field Notes]]"
   - "[[Accounts]]"
   - "[[Narrative Analysis]]"
+  - "[[Internal Consistency]]"
+  - "[[Analytic Induction]]"
   - "[[Constant Comparison]]"
 related_instruments: []
 related_persons: []

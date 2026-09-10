@@ -20,10 +20,10 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Professional Judgment]]"
   - "[[Visible Learning]]"
-  - "[[Effect Size]]"
 related_theories:
   - "[[Luhmann's Systems Theory]]"
-related_methods: []
+related_methods:
+  - "[[Effect Size]]"
 related_persons:
   - "[[Herbert A. Simon]]"
 related_facts: []

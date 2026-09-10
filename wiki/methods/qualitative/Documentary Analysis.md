@@ -29,7 +29,6 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Interpretive Paradigm]]"
   - "[[Critical Thinking]]"
-  - "[[Internal Consistency]]"
   - "[[Construct Validity]]"
   - "[[Creativity]]"
   - "[[Critical Thinking Assessment]]"
@@ -39,6 +38,7 @@ related_methods:
   - "[[Triangulation]]"
   - "[[Archival Correspondence Analysis]]"
   - "[[Historical Document Analysis of Curriculum]]"
+  - "[[Internal Consistency]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12]]"
   - "[[Argument_Hughes_2014_JRIE]]"

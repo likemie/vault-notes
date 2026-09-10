@@ -15,17 +15,17 @@ tags:
   - theme/utopia
 related_concepts:
   - "[[Zhonghua Minzu]]"
-  - "[[Necropolitics]]"
-  - "[[Wuhu Ruhua]]"
   - "[[Paradigm]]"
   - "[[Grand Theory]]"
-related_theories: []
+related_theories:
+  - "[[Necropolitics]]"
 related_methods: []
 related_persons:
   - "[[Fei Xiaotong]]"
   - "[[Zhao Tingyang]]"
   - "[[Pan Yue]]"
-related_facts: []
+related_facts:
+  - "[[Wuhu Ruhua]]"
 related_arguments:
   - "[[Argument_Bulag_2024_CE]]"
 confidence: medium

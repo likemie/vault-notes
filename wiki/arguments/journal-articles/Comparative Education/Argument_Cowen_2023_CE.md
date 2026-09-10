@@ -47,7 +47,6 @@ related_concepts:
   - "[[Posthumanism]]"
   - "[[Emergence]]"
   - "[[Dialogue in Education]]"
-  - "[[Convergence Theory in Comparative Education]]"
   - "[[Growth]]"
   - "[[Policy Science in Comparative Education]]"
   - "[[Research Question]]"
@@ -59,6 +58,7 @@ related_concepts:
   - "[[Academic Freedom]]"
 related_theories:
   - "[[Critical Theory]]"
+  - "[[Convergence Theory in Comparative Education]]"
   - "[[Human Capital Theory]]"
   - "[[Wight's Three Traditions of International Theory]]"
 related_methods:

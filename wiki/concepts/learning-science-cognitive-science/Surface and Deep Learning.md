@@ -33,7 +33,6 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Confidence Interval]]"
   - "[[Heterogeneity]]"
-  - "[[Effect Size]]"
   - "[[Epistemology]]"
   - "[[Chinese Learner]]"
 related_theories:
@@ -42,6 +41,7 @@ related_theories:
   - "[[Dynamic Knowledge and Learning Model]]"
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
 related_persons:
   - "[[John Biggs]]"
   - "[[John Hattie]]"

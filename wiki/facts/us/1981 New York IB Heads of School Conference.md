@@ -21,8 +21,8 @@ tags:
 related_concepts:
   - "[[International Schools]]"
   - "[[International Baccalaureate]]"
+related_theories:
   - "[[Theory of Mind]]"
-related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:

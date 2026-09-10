@@ -33,8 +33,8 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Evidence-Based Education]]"
   - "[[Paradigm]]"
-  - "[[Effect Size]]"
 related_methods:
+  - "[[Effect Size]]"
   - "[[Systematic Review]]"
   - "[[Critical Review]]"
 related_arguments:

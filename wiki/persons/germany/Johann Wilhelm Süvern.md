@@ -26,7 +26,6 @@ related_concepts:
   - "[[Normal School]]"
   - "[[State Educational Sovereignty]]"
   - "[[Growth]]"
-  - "[[Common School Movement]]"
   - "[[Document]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Disciplina and Doctrina]]"
@@ -42,6 +41,7 @@ related_persons:
   - "[[Henry Barnard]]"
 related_facts:
   - "[[Guizot Law of 1833]]"
+  - "[[Common School Movement]]"
   - "[[Report on the State of Public Instruction in Prussia]]"
   - "[[Prussian Draft Education Law of 1819]]"
 related_arguments:

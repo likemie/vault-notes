@@ -26,11 +26,11 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Knowledge Mobilisation]]"
   - "[[New Public Management]]"
-  - "[[Effect Size]]"
   - "[[Paideia]]"
   - "[[Analytical Stance]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Effect Size]]"
 related_persons:
   - "[[John Hattie]]"
 related_facts: []

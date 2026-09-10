@@ -28,7 +28,6 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Variable]]"
   - "[[Determinism]]"
-  - "[[Effect Size]]"
   - "[[External Validity]]"
   - "[[Heterogeneity]]"
   - "[[Knowledge Production]]"
@@ -47,6 +46,7 @@ related_theories:
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
 related_persons:
   - "[[Jürgen Habermas]]"
   - "[[John Hattie]]"

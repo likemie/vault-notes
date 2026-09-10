@@ -26,14 +26,14 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Scaffolding]]"
   - "[[Hawthorne Effect]]"
-  - "[[Effect Size]]"
   - "[[Gatekeepers]]"
   - "[[Bildung]]"
   - "[[Self-Efficacy]]"
   - "[[Peer-Supported Learning]]"
   - "[[Educational Evidence Clearinghouses]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Effect Size]]"
 related_instruments: []
 related_persons: []
 related_facts:

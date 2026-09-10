@@ -50,12 +50,12 @@ related_concepts:
   - "[[Scientism]]"
   - "[[Falsification]]"
   - "[[Whiggism]]"
-  - "[[Effect Size]]"
   - "[[Construct]]"
 related_theories: []
 related_methods:
   - "[[Typological Analysis]]"
   - "[[Case Study]]"
+  - "[[Effect Size]]"
   - "[[Historical-Comparative Method]]"
 related_instruments: []
 related_persons:

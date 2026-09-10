@@ -21,9 +21,9 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Internationalization of Higher Education]]"
-  - "[[Transitology]]"
   - "[[Blue Skies Research]]"
-related_theories: []
+related_theories:
+  - "[[Transitology]]"
 related_methods: []
 related_persons:
   - "[[Robert Cowen]]"

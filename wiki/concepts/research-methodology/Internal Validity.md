@@ -31,7 +31,6 @@ related_concepts:
   - "[[Catalytic Validity]]"
   - "[[Interpretive Paradigm]]"
   - "[[Hypothesis]]"
-  - "[[Negative Case Analysis]]"
 related_methods:
   - "[[Experimental Research]]"
   - "[[Quantitative Research]]"
@@ -40,6 +39,7 @@ related_methods:
   - "[[Triangulation]]"
   - "[[Member Checking]]"
   - "[[Random Sampling]]"
+  - "[[Negative Case Analysis]]"
   - "[[Ethnography]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"

@@ -19,7 +19,6 @@ tags:
   - methodology
   - region/us
 related_concepts:
-  - "[[Effect Size]]"
   - "[[Empiricism]]"
   - "[[Evidence-Based Education]]"
   - "[[Heterogeneity]]"
@@ -28,6 +27,7 @@ related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Quantitative Research]]"
+  - "[[Effect Size]]"
   - "[[Meta-meta-analysis]]"
 related_persons:
   - "[[John Hattie]]"

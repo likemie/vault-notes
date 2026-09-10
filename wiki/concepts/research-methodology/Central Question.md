@@ -20,7 +20,6 @@ related_concepts:
   - "[[Central Phenomenon]]"
   - "[[Emergence]]"
   - "[[Paradigm]]"
-  - "[[Descriptive Analysis]]"
   - "[[Document]]"
   - "[[Research Question]]"
   - "[[Research Writing Script]]"
@@ -36,6 +35,7 @@ related_methods:
   - "[[Grounded Theory]]"
   - "[[Case Study]]"
   - "[[Narrative Research]]"
+  - "[[Descriptive Analysis]]"
 related_persons: []
 related_facts: []
 related_arguments:

@@ -31,7 +31,6 @@ tags:
 related_concepts:
   - "[[Document]]"
   - "[[Normal School]]"
-  - "[[Common School Movement]]"
   - "[[Auslandspadagogik]]"
   - "[[Encyclopaedism]]"
   - "[[Educational Meliorism]]"
@@ -56,6 +55,7 @@ related_persons:
   - "[[Horace Mann]]"
   - "[[Victor Cousin]]"
 related_facts:
+  - "[[Common School Movement]]"
   - "[[National Education]]"
   - "[[Guizot Law of 1833]]"
   - "[[Seventh Annual Report of the Massachusetts Board of Education]]"

@@ -16,7 +16,6 @@ tags:
 - level/k12
 related_concepts:
   - "[[Variable]]"
-  - "[[Effect Size]]"
   - "[[Critique of Meta-analysis]]"
   - "[[Classroom Management]]"
   - "[[Programme Fidelity vs Adaptation]]"
@@ -35,6 +34,7 @@ related_concepts:
   - "[[Material Fallacies]]"
 related_theories: []
 related_methods:
+  - "[[Effect Size]]"
   - "[[Meta-analysis]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Random Assignment]]"

@@ -36,10 +36,10 @@ related_concepts:
   - "[[Normal School]]"
   - "[[International Education]]"
   - "[[Learning Analytics]]"
-  - "[[Theory of Mind]]"
   - "[[Research Question]]"
   - "[[Creativity]]"
-related_theories: []
+related_theories:
+  - "[[Theory of Mind]]"
 related_methods:
   - "[[Snowball Sampling]]"
 related_persons: []

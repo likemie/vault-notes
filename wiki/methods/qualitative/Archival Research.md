@@ -15,6 +15,7 @@ tags:
   - method/historical-research
   - method/documentary-research
 related_methods:
+  - "[[Internal Consistency]]"
   - "[[Case Study]]"
   - "[[Triangulation]]"
   - "[[Documentary Analysis]]"
@@ -27,7 +28,6 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Hypothesis]]"
-  - "[[Internal Consistency]]"
   - "[[Causality]]"
   - "[[Research Question]]"
 confidence: medium

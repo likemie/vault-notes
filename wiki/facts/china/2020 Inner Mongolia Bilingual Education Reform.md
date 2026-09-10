@@ -25,8 +25,8 @@ related_concepts:
   - "[[Zhonghua Minzu]]"
   - "[[Avatar]]"
   - "[[Retrotopia]]"
+related_theories:
   - "[[Necropolitics]]"
-related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []

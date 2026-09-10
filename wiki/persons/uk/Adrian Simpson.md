@@ -20,7 +20,6 @@ tags:
 - statistics
 - region/uk
 related_concepts:
-  - "[[Effect Size]]"
   - "[[Evidence-Based Education]]"
   - "[[Critique of Effect Size]]"
   - "[[Epistemology]]"
@@ -34,6 +33,7 @@ related_concepts:
   - "[[Heterogeneity]]"
 related_theories: []
 related_methods:
+  - "[[Effect Size]]"
   - "[[Meta-analysis]]"
   - "[[Multiple-Choice Questions]]"
   - "[[Meta-meta-analysis]]"

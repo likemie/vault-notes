@@ -22,11 +22,11 @@ tags:
 related_concepts:
   - "[[Whole Language]]"
   - "[[Visible Learning]]"
-  - "[[Effect Size]]"
   - "[[Language Experience Approach]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
   - "[[Quantitative Research]]"
   - "[[Intervention Research]]"
 related_persons:

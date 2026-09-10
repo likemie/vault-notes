@@ -16,7 +16,6 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Paradigm]]"
   - "[[Humility in Learning]]"
-  - "[[Effect Size]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
   - "[[Hypothesis]]"
@@ -26,6 +25,7 @@ related_theories:
   - "[[Luhmann's Systems Theory]]"
   - "[[Phenomenology]]"
 related_methods:
+  - "[[Effect Size]]"
   - "[[Coding in Qualitative Research]]"
 related_persons:
   - "[[Niklas Luhmann]]"

@@ -22,13 +22,13 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Visible Learning]]"
-  - "[[Effect Size]]"
   - "[[Surface and Deep Learning]]"
   - "[[Variable]]"
   - "[[Feedback]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
 related_persons: []
 related_facts: []
 related_arguments: []

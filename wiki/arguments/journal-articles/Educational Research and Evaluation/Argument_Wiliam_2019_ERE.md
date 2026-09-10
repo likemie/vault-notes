@@ -32,7 +32,6 @@ related_concepts:
   - "[[Document]]"
   - "[[Evidence-Based Education]]"
   - "[[Tracking]]"
-  - "[[Effect Size]]"
   - "[[Emergence]]"
 related_theories:
   - "[[Goldman's Discrimination Theory of Knowledge]]"
@@ -43,6 +42,7 @@ related_methods:
   - "[[Random Assignment]]"
   - "[[Quantitative Research]]"
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
   - "[[Meta-meta-analysis]]"
 related_persons: []
 related_facts: []

@@ -30,7 +30,6 @@ related_concepts:
   - "[[Learnification]]"
   - "[[Visible Learning]]"
   - "[[Academic Achievement]]"
-  - "[[Effect Size]]"
   - "[[Culture Générale]]"
   - "[[Liberal Education]]"
   - "[[Faculty Psychology]]"
@@ -58,7 +57,8 @@ related_concepts:
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Autopoiesis]]"
-related_methods: []
+related_methods:
+  - "[[Effect Size]]"
 related_instruments: []
 related_persons:
   - "[[Andreas Kazamias]]"

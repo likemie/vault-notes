@@ -22,7 +22,6 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Emergence]]"
-  - "[[Analytic Induction]]"
 related_theories: []
 related_methods:
   - "[[Coding in Qualitative Research]]"
@@ -30,6 +29,7 @@ related_methods:
   - "[[Grounded Theory]]"
   - "[[Theoretical Sampling]]"
   - "[[Content Analysis]]"
+  - "[[Analytic Induction]]"
 related_persons: []
 related_facts: []
 related_arguments:

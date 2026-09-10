@@ -26,7 +26,6 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Technology Infusion]]"
-  - "[[Effect Size]]"
   - "[[Sample Size Determination]]"
   - "[[Ecological Validity]]"
   - "[[Study Population and Sample]]"
@@ -37,6 +36,7 @@ related_theories: []
 related_methods:
   - "[[Systematic Review]]"
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
   - "[[Inverse-Variance Weighting]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"

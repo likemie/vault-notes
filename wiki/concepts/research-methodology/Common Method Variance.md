@@ -27,12 +27,12 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Interaction Effect]]"
   - "[[Document]]"
-  - "[[Effect Size]]"
   - "[[Variable]]"
 related_theories: []
 related_methods:
   - "[[Triangulation]]"
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
   - "[[Three-Level Meta-Analysis]]"
   - "[[Meta-regression]]"
 related_instruments: []

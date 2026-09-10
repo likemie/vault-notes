@@ -22,12 +22,12 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Individualised Instruction]]"
   - "[[International Education]]"
-  - "[[Effect Size]]"
   - "[[Visible Learning]]"
   - "[[Interaction Effect]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
   - "[[Meta-meta-analysis]]"
 related_persons: []
 related_arguments:

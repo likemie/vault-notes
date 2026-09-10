@@ -47,12 +47,12 @@ related_concepts:
   - "[[Technology Infusion]]"
   - "[[Illusion of Competence]]"
   - "[[Variable]]"
-  - "[[Effect Size]]"
   - "[[Concept Mapping]]"
 related_theories: []
 related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
   - "[[Systematic Review]]"
 related_arguments:
   - "[[Argument_Li_2026_CEAI]]"

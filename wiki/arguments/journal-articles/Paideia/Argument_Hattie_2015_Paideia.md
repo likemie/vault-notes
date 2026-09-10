@@ -28,7 +28,6 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Visible Learning]]"
   - "[[School Leadership]]"
-  - "[[Effect Size]]"
   - "[[Variable]]"
   - "[[Falsification]]"
   - "[[Document]]"
@@ -38,6 +37,7 @@ related_concepts:
   - "[[Surface and Deep Learning]]"
 related_theories: []
 related_methods:
+  - "[[Effect Size]]"
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
   - "[[Coding in Qualitative Research]]"

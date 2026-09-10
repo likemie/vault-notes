@@ -18,10 +18,10 @@ tags:
   - program-evaluation
   - region/us
 related_concepts:
-  - "[[Effect Size]]"
   - "[[Homework]]"
 related_theories: []
 related_methods:
+  - "[[Effect Size]]"
   - "[[Formative Program Evaluation]]"
 related_persons: []
 related_facts:

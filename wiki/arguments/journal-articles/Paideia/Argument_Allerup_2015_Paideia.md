@@ -25,21 +25,21 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Visible Learning]]"
-  - "[[Effect Size]]"
   - "[[Didaktik]]"
   - "[[Confidence Interval]]"
-  - "[[Statistical Significance]]"
   - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Sample Size Determination]]"
-  - "[[Standard Error]]"
   - "[[Feedback]]"
 related_theories: []
 related_methods:
+  - "[[Effect Size]]"
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
+  - "[[Statistical Significance]]"
   - "[[Covariate Adjustment]]"
   - "[[Rasch Measurement]]"
+  - "[[Standard Error]]"
 related_persons:
   - "[[John Hattie]]"
 related_facts:

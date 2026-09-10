@@ -23,7 +23,6 @@ related_concepts:
   - "[[Sample Size Determination]]"
   - "[[Questionnaire]]"
   - "[[Confidence Interval]]"
-  - "[[Standard Error]]"
   - "[[Convergent and Discriminant Validity]]"
 related_theories: []
 related_methods:
@@ -32,6 +31,7 @@ related_methods:
   - "[[Measurement Invariance]]"
   - "[[Causal Modeling]]"
   - "[[Chi-Squared Test]]"
+  - "[[Standard Error]]"
   - "[[Average Variance Extracted]]"
 related_instruments:
   - "[[Epistemic and Ontological Cognition Questionnaire]]"

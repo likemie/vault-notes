@@ -30,7 +30,6 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Analytic Framework]]"
   - "[[Variable]]"
-  - "[[Domain Analysis]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Cognitive Offloading]]"
@@ -67,6 +66,7 @@ related_concepts:
   - "[[Interaction Effect]]"
 related_theories: []
 related_methods:
+  - "[[Domain Analysis]]"
   - "[[Meta-analysis]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Experimental Research]]"

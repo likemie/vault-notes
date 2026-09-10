@@ -24,9 +24,9 @@ tags:
   - theme/ethnic-minorities
 related_concepts:
   - "[[Zhonghua Minzu]]"
-  - "[[Settler Colonialism]]"
   - "[[Sinicisation]]"
-related_theories: []
+related_theories:
+  - "[[Settler Colonialism]]"
 related_methods: []
 related_persons: []
 related_facts: []

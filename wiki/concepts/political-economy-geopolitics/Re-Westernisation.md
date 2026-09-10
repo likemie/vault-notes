@@ -25,14 +25,14 @@ related_concepts:
   - "[[Enlightenment]]"
   - "[[Epistemology]]"
   - "[[Disciplina and Doctrina]]"
-  - "[[Governing at a Distance]]"
   - "[[De-Westernisation]]"
   - "[[Paradigm]]"
   - "[[Banal Imperialism]]"
-  - "[[Orientalism]]"
   - "[[Global Citizenship]]"
   - "[[Rationalism in International Relations]]"
-related_theories: []
+related_theories:
+  - "[[Governing at a Distance]]"
+  - "[[Orientalism]]"
 related_methods: []
 related_persons:
   - "[[Eleftherios Klerides]]"

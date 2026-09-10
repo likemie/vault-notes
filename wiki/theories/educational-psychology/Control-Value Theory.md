@@ -23,7 +23,6 @@ related_concepts:
   - "[[Pride in Learning]]"
   - "[[Academic Engagement]]"
   - "[[International Education]]"
-  - "[[Domain Analysis]]"
   - "[[Paradigm]]"
   - "[[Academic Achievement]]"
   - "[[Affective Outcomes]]"
@@ -46,6 +45,7 @@ related_concepts:
 related_theories:
   - "[[Self-Determination Theory]]"
 related_methods:
+  - "[[Domain Analysis]]"
   - "[[Meta-analysis]]"
   - "[[Experimental Research]]"
   - "[[Causal Modeling]]"

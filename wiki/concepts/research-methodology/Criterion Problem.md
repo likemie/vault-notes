@@ -19,7 +19,6 @@ tags:
 related_concepts:
   - "[[Construct]]"
   - "[[Construct Validity]]"
-  - "[[Effect Size]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
   - "[[Creativity]]"
@@ -37,6 +36,7 @@ related_concepts:
   - "[[Cognitive Flexibility]]"
 related_theories: []
 related_methods:
+  - "[[Effect Size]]"
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
   - "[[Triangulation]]"

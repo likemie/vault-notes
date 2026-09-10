@@ -33,8 +33,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Concept Mapping]]"
   - "[[Heterogeneity]]"
-  - "[[Prediction Interval]]"
-  - "[[Effect Size]]"
   - "[[Homework]]"
   - "[[Mind Mapping]]"
 related_theories:
@@ -46,7 +44,9 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Experimental Research]]"
   - "[[Three-Level Meta-Analysis]]"
+  - "[[Prediction Interval]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Effect Size]]"
 related_instruments:
   - "[[Torrance Tests of Creative Thinking]]"
   - "[[Alternate Uses Test]]"

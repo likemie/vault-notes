@@ -21,16 +21,15 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Going Native]]"
   - "[[Educational Evidence Clearinghouses]]"
-  - "[[Effect Size]]"
   - "[[Research Utilization]]"
   - "[[Praxis]]"
   - "[[Paradigm]]"
-  - "[[Theory of Mind]]"
   - "[[Document]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Systematic Review]]"
   - "[[Intervention Research]]"
+  - "[[Effect Size]]"
   - "[[Meta-analysis]]"
 related_facts:
   - "[[Campbell Collaboration]]"
@@ -59,6 +58,8 @@ related_facts:
   - "[[Institute for Effective Education]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17]]"
+related_theories:
+  - "[[Theory of Mind]]"
 confidence: medium
 status: draft
 created: 2026-07-14

@@ -19,7 +19,6 @@ tags:
 related_concepts:
   - "[[Variable]]"
   - "[[Metainferences]]"
-  - "[[Multimethod Research]]"
 related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
@@ -27,6 +26,7 @@ related_methods:
   - "[[Explanatory Sequential Design]]"
   - "[[Exploratory Sequential Design]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Multimethod Research]]"
 related_persons: []
 related_facts: []
 related_arguments:

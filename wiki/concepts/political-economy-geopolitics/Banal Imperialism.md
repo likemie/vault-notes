@@ -25,9 +25,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Value Neutrality]]"
-  - "[[Orientalism]]"
   - "[[Rote Learning]]"
-  - "[[Governing at a Distance]]"
   - "[[Creativity]]"
   - "[[Bildung]]"
   - "[[Re-Westernisation]]"
@@ -36,6 +34,8 @@ related_concepts:
   - "[[Rationalism in International Relations]]"
 related_theories:
   - "[[Critical Geopolitics]]"
+  - "[[Orientalism]]"
+  - "[[Governing at a Distance]]"
 related_methods: []
 related_persons: []
 related_facts:

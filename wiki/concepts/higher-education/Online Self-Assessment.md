@@ -28,13 +28,13 @@ related_concepts:
   - "[[Digital Self]]"
   - "[[Learning Analytics]]"
   - "[[Digital Optimum]]"
-  - "[[Governmentality]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Integration in Mixed Methods]]"
   - "[[Creativity]]"
   - "[[Bildung]]"
   - "[[Constructed Knowledge]]"
 related_theories:
+  - "[[Governmentality]]"
   - "[[Societies of Control]]"
 related_methods: []
 related_persons: []

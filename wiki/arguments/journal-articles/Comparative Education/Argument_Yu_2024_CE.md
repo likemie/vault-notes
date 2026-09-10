@@ -32,7 +32,6 @@ related_concepts:
   - "[[Cultural Hierarchy]]"
   - "[[Cultural Disembedding]]"
   - "[[Value Neutrality]]"
-  - "[[Hegemony]]"
   - "[[Sinicisation]]"
   - "[[Reflexivity]]"
   - "[[Dialogue in Education]]"
@@ -49,7 +48,8 @@ related_concepts:
   - "[[Academic Freedom]]"
   - "[[Paradigm]]"
   - "[[Research Practicability]]"
-related_theories: []
+related_theories:
+  - "[[Hegemony]]"
 related_methods:
   - "[[In-depth Interview]]"
   - "[[Coding in Qualitative Research]]"

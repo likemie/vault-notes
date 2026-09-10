@@ -32,12 +32,12 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Paradigm]]"
   - "[[Dependent Variable]]"
-  - "[[Effect Size]]"
   - "[[AI Agent in Education]]"
 related_theories: []
 related_methods:
   - "[[Time Series Design]]"
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
 related_persons: []
 related_facts: []
 related_arguments:

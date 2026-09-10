@@ -21,6 +21,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Causality]]"
   - "[[Ideal Speech Situation]]"
+  - "[[Reliability]]"
 related_theories:
   - "[[Critical Theory]]"
   - "[[Ethnomethodology]]"
@@ -35,6 +36,7 @@ related_persons:
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23]]"
+  - "[[Argument_Duncan_2025_CI]]"
 confidence: medium
 status: draft
 created: 2026-07-22

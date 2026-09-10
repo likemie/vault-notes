@@ -21,12 +21,12 @@ tags:
 - region/uk
 - level/k12
 related_concepts:
-  - "[[Effect Size]]"
   - "[[Evidence-Based Education]]"
   - "[[Document]]"
   - "[[School Leadership]]"
 related_theories: []
 related_methods:
+  - "[[Effect Size]]"
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
   - "[[Randomised Controlled Trials]]"

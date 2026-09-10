@@ -19,7 +19,6 @@ related_concepts:
   - "[[Independent Variable]]"
   - "[[Variable]]"
   - "[[Unit of Analysis]]"
-  - "[[Effect Size]]"
   - "[[Interaction Effect]]"
   - "[[Pre-test and Post-test]]"
   - "[[Research Purpose]]"
@@ -27,6 +26,7 @@ related_concepts:
 related_methods:
   - "[[True Experimental Design]]"
   - "[[Random Assignment]]"
+  - "[[Effect Size]]"
   - "[[Factorial Design]]"
   - "[[Trend Study]]"
   - "[[Pilot Testing]]"

@@ -24,7 +24,6 @@ related_concepts:
   - "[[Research Literacy]]"
   - "[[Causality]]"
   - "[[Transfer Translation Transformation]]"
-  - "[[Effect Size]]"
   - "[[Heterogeneity]]"
   - "[[Empiricism]]"
   - "[[Study Population and Sample]]"
@@ -38,6 +37,7 @@ related_concepts:
   - "[[Evidence-Informed Practice]]"
 related_theories: []
 related_methods:
+  - "[[Effect Size]]"
   - "[[Documentary Analysis]]"
 related_persons:
   - "[[Carol Campbell]]"

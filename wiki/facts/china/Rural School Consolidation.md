@@ -23,12 +23,12 @@ tags:
   - policy/school-consolidation
 related_concepts:
   - "[[School Choice]]"
+  - "[[Peidu]]"
   - "[[Attrition]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
-  - "[[Peidu]]"
   - "[[Hukou System]]"
 related_arguments:
   - "[[Argument_Teng_2025_CE]]"

@@ -29,18 +29,15 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Bildung]]"
   - "[[Emergence]]"
-  - "[[Postmodernism]]"
   - "[[Epistemology]]"
   - "[[Scientific Method]]"
   - "[[Grand Theory]]"
-  - "[[Common School Movement]]"
   - "[[Growth]]"
   - "[[Empiricism]]"
   - "[[Proto-Scientific Motif]]"
   - "[[Questionnaire]]"
   - "[[Educational Meliorism]]"
   - "[[Policy Borrowing]]"
-  - "[[Hegemony]]"
   - "[[State Educational Sovereignty]]"
 related_persons:
   - "[[Marc-Antoine Jullien]]"
@@ -55,9 +52,13 @@ related_persons:
 related_arguments:
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
 related_theories:
+  - "[[Postmodernism]]"
   - "[[Critical Theory]]"
+  - "[[Hegemony]]"
 related_methods:
   - "[[Observation Method]]"
+related_facts:
+  - "[[Common School Movement]]"
 confidence: high
 status: draft
 created: 2026-09-06

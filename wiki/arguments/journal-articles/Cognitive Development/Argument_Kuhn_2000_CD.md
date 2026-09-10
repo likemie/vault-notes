@@ -25,7 +25,6 @@ related_concepts:
   - "[[Multiplist]]"
   - "[[Evaluativist]]"
   - "[[Critical Thinking]]"
-  - "[[Theory of Mind]]"
   - "[[Constructivist Paradigm]]"
   - "[[Areas of Knowledge]]"
   - "[[Pure Evaluation]]"
@@ -33,7 +32,8 @@ related_concepts:
   - "[[Growth]]"
   - "[[Multiplicity]]"
   - "[[Cognitive Inhibition]]"
-related_theories: []
+related_theories:
+  - "[[Theory of Mind]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[In-depth Interview]]"

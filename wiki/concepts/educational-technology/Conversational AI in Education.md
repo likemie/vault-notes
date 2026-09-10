@@ -30,10 +30,10 @@ related_concepts:
   - "[[Revoicing]]"
   - "[[Zone of Proximal Development]]"
   - "[[Dependent Variable]]"
-  - "[[Effect Size]]"
   - "[[Sample Size Determination]]"
 related_theories: []
 related_methods:
+  - "[[Effect Size]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Meta-analysis]]"
 related_persons:

@@ -31,7 +31,6 @@ tags:
 related_concepts:
   - "[[School Leadership]]"
   - "[[Visible Learning]]"
-  - "[[Effect Size]]"
   - "[[Cult of Efficiency]]"
   - "[[Neo-Taylorism]]"
   - "[[Cult of the Guru]]"
@@ -58,6 +57,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Meta-meta-analysis]]"
+  - "[[Effect Size]]"
   - "[[Meta-analysis]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Discourse Analysis]]"

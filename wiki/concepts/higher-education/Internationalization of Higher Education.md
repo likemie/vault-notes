@@ -21,12 +21,12 @@ related_concepts:
   - "[[Innovation Hub]]"
   - "[[Transnational Research Collaboration]]"
   - "[[International Education]]"
-  - "[[Hegemony]]"
   - "[[Multiplicity]]"
   - "[[Global Citizenship]]"
   - "[[Hypothesis]]"
   - "[[Geopolitics of Knowledge]]"
 related_theories:
+  - "[[Hegemony]]"
   - "[[Critical Geopolitics]]"
 related_methods: []
 related_persons: []

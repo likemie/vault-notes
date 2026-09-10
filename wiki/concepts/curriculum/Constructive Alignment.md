@@ -42,12 +42,12 @@ related_concepts:
   - "[[Learning Gain]]"
   - "[[Variable]]"
   - "[[Critical Thinking]]"
-  - "[[Effect Size]]"
   - "[[Feedback]]"
 related_theories: []
 related_methods:
   - "[[Multiple-Choice Questions]]"
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
   - "[[Intervention Research]]"
 related_instruments:
   - "[[Collegiate Learning Assessment]]"

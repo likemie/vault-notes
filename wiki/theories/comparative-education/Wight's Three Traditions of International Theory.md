@@ -30,7 +30,6 @@ related_concepts:
   - "[[Development Turn in Comparative Education]]"
   - "[[International Education]]"
   - "[[Reference Society]]"
-  - "[[Governing at a Distance]]"
   - "[[Policy Entrepreneur]]"
   - "[[Global Citizenship]]"
   - "[[Educated Identity]]"
@@ -42,6 +41,7 @@ related_concepts:
   - "[[Methodological Statism]]"
 related_theories:
   - "[[Human Capital Theory]]"
+  - "[[Governing at a Distance]]"
   - "[[Dependency Theory]]"
 related_methods:
   - "[[Discourse Analysis]]"

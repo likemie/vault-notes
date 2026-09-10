@@ -15,12 +15,12 @@ tags:
 - method/intent-to-treat-analysis
 - method/quantitative
 related_concepts:
-  - "[[Complier Average Causal Effect]]"
   - "[[Educational Evidence Clearinghouses]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Random Assignment]]"
+  - "[[Complier Average Causal Effect]]"
 related_persons: []
 related_facts:
   - "[[Blueprints for Healthy Youth Development]]"

@@ -38,7 +38,6 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Champ]]"
-  - "[[Post-colonial Theory]]"
   - "[[Comparative History of Comparative Education]]"
   - "[[Shape-Shifting]]"
   - "[[Geopolitics of Knowledge]]"
@@ -58,10 +57,11 @@ related_concepts:
   - "[[Theoretical Standpoint]]"
   - "[[Heterogeneity]]"
   - "[[Positivism]]"
-  - "[[Postmodernism]]"
 related_theories:
   - "[[Network Society]]"
+  - "[[Post-colonial Theory]]"
   - "[[Critical Theory]]"
+  - "[[Postmodernism]]"
 related_methods:
   - "[[Discourse Analysis]]"
   - "[[Historical-Comparative Method]]"

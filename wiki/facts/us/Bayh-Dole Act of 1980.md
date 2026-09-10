@@ -29,9 +29,9 @@ related_concepts:
   - "[[Knowledge Transfer]]"
   - "[[Knowledge Exchange]]"
   - "[[Academic Engagement]]"
-  - "[[Academic Capitalism]]"
 related_theories:
   - "[[Triple Helix]]"
+  - "[[Academic Capitalism]]"
 related_methods: []
 related_persons: []
 related_facts:

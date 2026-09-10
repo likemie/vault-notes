@@ -27,13 +27,13 @@ related_concepts:
   - "[[Direct Instruction]]"
   - "[[Constructivist Paradigm]]"
   - "[[Visible Learning]]"
-  - "[[Effect Size]]"
   - "[[Homework]]"
   - "[[Self-Efficacy]]"
   - "[[Variable]]"
   - "[[Global Education Reform Movement]]"
 related_theories: []
 related_methods:
+  - "[[Effect Size]]"
   - "[[Meta-analysis]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Cohort Study]]"

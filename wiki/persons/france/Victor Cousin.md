@@ -31,7 +31,6 @@ related_concepts:
   - "[[Faculty Psychology]]"
   - "[[Policy Borrowing]]"
   - "[[Epistemology]]"
-  - "[[Common School Movement]]"
   - "[[Artefact]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Document]]"
@@ -53,6 +52,7 @@ related_facts:
   - "[[Prussian Draft Education Law of 1819]]"
   - "[[Report on the State of Public Instruction in Prussia]]"
   - "[[National Education]]"
+  - "[[Common School Movement]]"
   - "[[Revue encyclopédique]]"
 related_arguments:
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"

@@ -28,8 +28,6 @@ related_concepts:
   - "[[Realism in International Relations]]"
   - "[[Classical Geopolitics]]"
   - "[[Hypothesis]]"
-  - "[[Post-colonial Theory]]"
-  - "[[Orientalism]]"
   - "[[Knowledge Production]]"
   - "[[International Education]]"
   - "[[Variable]]"
@@ -51,6 +49,8 @@ related_concepts:
   - "[[Attrition]]"
 related_theories:
   - "[[Critical Geopolitics]]"
+  - "[[Post-colonial Theory]]"
+  - "[[Orientalism]]"
   - "[[Network Society]]"
   - "[[Human Capital Theory]]"
 related_methods:

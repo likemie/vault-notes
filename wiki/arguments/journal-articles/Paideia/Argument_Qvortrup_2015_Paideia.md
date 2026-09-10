@@ -32,13 +32,13 @@ related_concepts:
   - "[[Student-Teacher Relationship]]"
   - "[[Problem Solving]]"
   - "[[Hypothesis]]"
-  - "[[Effect Size]]"
   - "[[Dependent Variable]]"
   - "[[Heterogeneity]]"
 related_theories:
   - "[[Dynamic Knowledge and Learning Model]]"
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
 related_persons:
   - "[[Gene Glass]]"
 related_facts:

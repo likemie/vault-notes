@@ -10,10 +10,10 @@ related_stars: "☆"
 related_color: "#e5e7eb"
 tags: ["theme/neoliberalism", "theme/subjectivity", "theme/employability"]
 related_concepts:
-  - "[[Governmentality]]"
   - "[[Employability]]"
   - "[[Lifelong Learning]]"
-related_theories: []
+related_theories:
+  - "[[Governmentality]]"
 related_methods: []
 related_persons: []
 related_facts: []

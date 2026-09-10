@@ -42,13 +42,13 @@ related_concepts:
   - "[[Intrinsic vs Extrinsic Motivation]]"
   - "[[Champ]]"
   - "[[Generative Artificial Intelligence]]"
-  - "[[Effect Size]]"
 related_theories:
   - "[[Control-Value Theory]]"
   - "[[Cognitive Load Theory]]"
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Qualitative Interview]]"
+  - "[[Effect Size]]"
 related_instruments: []
 related_persons: []
 related_facts: []

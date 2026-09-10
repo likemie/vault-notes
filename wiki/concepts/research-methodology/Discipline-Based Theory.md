@@ -20,11 +20,11 @@ related_concepts:
   - "[[Construct]]"
   - "[[Self-control]]"
   - "[[Research Purpose]]"
-  - "[[Social Justice Theory]]"
   - "[[Hypothesis]]"
 related_theories:
   - "[[Attribution Theory]]"
   - "[[Self-Determination Theory]]"
+  - "[[Social Justice Theory]]"
 related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Qualitative Interview]]"

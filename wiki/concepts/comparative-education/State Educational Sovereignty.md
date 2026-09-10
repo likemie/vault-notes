@@ -22,7 +22,6 @@ tags:
   - theme/secularization
   - theme/nineteenth-century
 related_concepts:
-  - "[[Common School Movement]]"
   - "[[Normal School]]"
   - "[[Champ]]"
   - "[[Paradigm]]"
@@ -46,6 +45,7 @@ related_persons:
   - "[[Henry Barnard]]"
   - "[[François Guizot]]"
 related_facts:
+  - "[[Common School Movement]]"
   - "[[Guizot Law of 1833]]"
   - "[[Partnership Schools Kura Hourua]]"
   - "[[Prussian Draft Education Law of 1819]]"

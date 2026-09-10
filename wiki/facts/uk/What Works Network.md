@@ -20,7 +20,6 @@ tags:
   - region/uk
 related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
-  - "[[Effect Size]]"
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Based Reform]]"
 related_theories:
@@ -28,6 +27,7 @@ related_theories:
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Systematic Review]]"
+  - "[[Effect Size]]"
 related_persons: []
 related_facts:
   - "[[Education Endowment Foundation]]"

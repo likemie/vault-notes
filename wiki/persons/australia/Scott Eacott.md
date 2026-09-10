@@ -20,7 +20,6 @@ tags:
 related_concepts:
   - "[[Epistemology]]"
   - "[[Knowledge Production]]"
-  - "[[Internal Consistency]]"
   - "[[Parallel Monologues]]"
   - "[[Cult of the Guru]]"
   - "[[Neo-Taylorism]]"
@@ -32,7 +31,8 @@ related_concepts:
   - "[[Doxa]]"
   - "[[Paradigm]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Internal Consistency]]"
 related_persons:
   - "[[John Hattie]]"
 related_facts: []

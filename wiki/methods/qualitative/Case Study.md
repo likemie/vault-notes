@@ -30,7 +30,6 @@ related_concepts:
   - "[[External Validity]]"
   - "[[Ecological Validity]]"
   - "[[Reliability]]"
-  - "[[Internal Consistency]]"
   - "[[Questionnaire]]"
   - "[[Reflexivity]]"
   - "[[Analytic Generalization]]"
@@ -50,6 +49,7 @@ related_theories:
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Triangulation]]"
+  - "[[Internal Consistency]]"
   - "[[Experimental Research]]"
   - "[[Grounded Theory]]"
   - "[[Coding in Qualitative Research]]"

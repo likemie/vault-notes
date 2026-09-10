@@ -32,7 +32,6 @@ related_concepts:
   - "[[Chain of Evidence]]"
   - "[[Paradigm]]"
   - "[[Dialogue in Education]]"
-  - "[[Effect Size]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Phronesis]]"
   - "[[Internal Validity]]"
@@ -42,6 +41,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Baseline Standardized Mean Difference]]"
+  - "[[Effect Size]]"
   - "[[Random Assignment]]"
   - "[[Meta-meta-analysis]]"
 related_instruments: []

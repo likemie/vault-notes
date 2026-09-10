@@ -34,12 +34,12 @@ related_concepts:
   - "[[Scientific Method]]"
   - "[[Unit of Analysis]]"
   - "[[Variable]]"
-  - "[[Postmodernism]]"
   - "[[Intangible Spiritual Forces]]"
   - "[[Governing by Numbers]]"
   - "[[National Character]]"
   - "[[Falsification]]"
-related_theories: []
+related_theories:
+  - "[[Postmodernism]]"
 related_methods: []
 related_instruments: []
 related_persons:

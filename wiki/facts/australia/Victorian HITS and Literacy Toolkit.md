@@ -24,7 +24,6 @@ tags:
 related_concepts:
   - "[[Global Education Reform Movement]]"
   - "[[Visible Learning]]"
-  - "[[Effect Size]]"
   - "[[Whole Language]]"
   - "[[Decodification]]"
   - "[[Chain of Evidence]]"
@@ -32,6 +31,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods:
+  - "[[Effect Size]]"
   - "[[Meta-analysis]]"
 related_persons:
   - "[[John Hattie]]"

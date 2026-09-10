@@ -23,7 +23,6 @@ related_concepts:
   - "[[Interpretive Paradigm]]"
   - "[[Positivism]]"
   - "[[Scientific Method]]"
-  - "[[Theory of Mind]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Phenomenon-Based Learning]]"
   - "[[Paradigm]]"
@@ -32,6 +31,7 @@ related_concepts:
   - "[[Objectivism]]"
 related_theories:
   - "[[Phenomenology]]"
+  - "[[Theory of Mind]]"
 related_methods:
   - "[[Qualitative Research]]"
 related_persons:

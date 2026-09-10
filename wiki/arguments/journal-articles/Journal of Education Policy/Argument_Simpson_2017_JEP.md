@@ -23,9 +23,7 @@ tags:
 - region/uk
 related_concepts:
   - "[[Research Question]]"
-  - "[[Effect Size]]"
   - "[[Visible Learning]]"
-  - "[[Statistical Significance]]"
   - "[[Document]]"
   - "[[Evaluation Research]]"
   - "[[Null Hypothesis]]"
@@ -37,8 +35,10 @@ related_concepts:
   - "[[Sample Size Determination]]"
 related_theories: []
 related_methods:
+  - "[[Effect Size]]"
   - "[[Intervention Research]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Statistical Significance]]"
   - "[[Meta-analysis]]"
   - "[[Moderator Analysis]]"
   - "[[Random Sampling]]"

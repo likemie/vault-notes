@@ -30,10 +30,10 @@ related_concepts:
   - "[[Rating Scale]]"
   - "[[Problem Solving]]"
   - "[[Paradigm]]"
-  - "[[Inter-Rater Reliability]]"
   - "[[Creativity Assessment]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Inter-Rater Reliability]]"
 related_instruments: []
 related_persons: []
 related_arguments:

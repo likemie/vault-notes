@@ -22,11 +22,11 @@ related_concepts:
   - "[[Feedback]]"
   - "[[Effective Teaching]]"
   - "[[Visible Learning]]"
-  - "[[Effect Size]]"
 related_theories: []
 related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
 related_persons: []
 related_facts: []
 related_arguments:

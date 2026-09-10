@@ -17,11 +17,11 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Paradigm]]"
   - "[[Language Skills]]"
-  - "[[Effect Size]]"
   - "[[Bildung]]"
 related_theories:
   - "[[Phenomenology]]"
-related_methods: []
+related_methods:
+  - "[[Effect Size]]"
 related_persons:
   - "[[Steen Nepper Larsen]]"
 related_facts: []

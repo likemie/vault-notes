@@ -35,7 +35,6 @@ related_concepts:
   - "[[Scale of Measurement]]"
   - "[[Rich and Thick Description]]"
   - "[[Dependent Variable]]"
-  - "[[Effect Size]]"
   - "[[Scientific Method]]"
   - "[[Document]]"
   - "[[Dialogue in Education]]"
@@ -56,6 +55,7 @@ related_methods:
   - "[[Exploratory Sequential Design]]"
   - "[[Qualitative Research]]"
   - "[[In-depth Interview]]"
+  - "[[Effect Size]]"
   - "[[Coding in Qualitative Research]]"
 related_persons:
   - "[[J. David Creswell]]"

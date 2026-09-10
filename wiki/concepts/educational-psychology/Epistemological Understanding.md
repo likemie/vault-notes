@@ -40,11 +40,11 @@ related_concepts:
   - "[[Epistemic Resources]]"
   - "[[Variable]]"
   - "[[Independent Variable]]"
-  - "[[Effect Size]]"
 related_theories:
   - "[[AIR Model of Epistemic Cognition]]"
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
 related_instruments:
   - "[[Epistemological Understanding Assessment]]"
 related_persons:

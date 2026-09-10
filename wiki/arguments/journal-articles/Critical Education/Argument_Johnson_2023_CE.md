@@ -34,13 +34,13 @@ related_concepts:
   - "[[Class Size]]"
   - "[[Epistemology]]"
   - "[[Falsification]]"
-  - "[[Effect Size]]"
   - "[[Bildung]]"
   - "[[Reflexivity]]"
 related_theories: []
 related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
 related_persons: []
 related_facts:
   - "[[Cognition Education]]"

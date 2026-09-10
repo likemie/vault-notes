@@ -18,7 +18,6 @@ tags:
   - theme/knowledge-transfer
   - theme/educational-reform
 related_concepts:
-  - "[[Transitology]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Analytic Framework]]"
   - "[[Four Sins of Comparative Education]]"
@@ -37,7 +36,8 @@ related_concepts:
   - "[[Policy Science in Comparative Education]]"
   - "[[Assemblage]]"
   - "[[Hierarchy of Future Issues in Comparative Education]]"
-related_theories: []
+related_theories:
+  - "[[Transitology]]"
 related_methods: []
 related_persons:
   - "[[Andreas Kazamias]]"

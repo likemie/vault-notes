@@ -24,7 +24,6 @@ tags:
   - critique/curriculum
 related_concepts:
   - "[[Surface and Deep Learning]]"
-  - "[[Social Realism]]"
   - "[[Epistemology]]"
   - "[[Recontextualization]]"
   - "[[Regulative and Instructional Discourse]]"
@@ -34,7 +33,6 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Postpositivism]]"
   - "[[Rationalism in International Relations]]"
-  - "[[Postmodernism]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Constructed Knowledge]]"
   - "[[Ways of Knowing]]"
@@ -50,7 +48,9 @@ related_concepts:
   - "[[Artefact]]"
   - "[[Epistemic Ascent]]"
 related_theories:
+  - "[[Social Realism]]"
   - "[[Curriculum Design Coherence Model]]"
+  - "[[Postmodernism]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
 related_persons:

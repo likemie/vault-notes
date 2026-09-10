@@ -29,12 +29,12 @@ tags:
   - irt
 related_concepts:
   - "[[Variable]]"
-  - "[[Parallel-Forms Reliability]]"
 related_theories:
   - "[[Item Response Theory]]"
 related_methods:
   - "[[Multiple-Choice Questions]]"
   - "[[Rasch Measurement]]"
+  - "[[Parallel-Forms Reliability]]"
 related_instruments: []
 related_persons: []
 related_facts: []

@@ -20,17 +20,17 @@ tags:
   - methodology
 related_concepts:
   - "[[Hypothesis]]"
-  - "[[Effect Size]]"
   - "[[Sampling Error]]"
   - "[[Heterogeneity]]"
   - "[[Alternative Hypothesis]]"
   - "[[Sample Size Determination]]"
   - "[[Metainferences]]"
-  - "[[Between-Study Variance]]"
-  - "[[I-squared Statistic]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
+  - "[[Between-Study Variance]]"
+  - "[[I-squared Statistic]]"
 related_instruments: []
 related_persons: []
 related_facts: []

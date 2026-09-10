@@ -43,7 +43,6 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Unit of Analysis]]"
   - "[[Classroom Management]]"
-  - "[[Domain Analysis]]"
   - "[[Central Phenomenon]]"
   - "[[Qualitative Codebook]]"
   - "[[Audit Trail]]"
@@ -60,6 +59,7 @@ related_methods:
   - "[[Qualitative Observation]]"
   - "[[Qualitative Research]]"
   - "[[Open Coding]]"
+  - "[[Domain Analysis]]"
   - "[[Typological Analysis]]"
 related_instruments: []
 related_persons:

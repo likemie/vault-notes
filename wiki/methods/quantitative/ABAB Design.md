@@ -24,9 +24,9 @@ related_concepts:
   - "[[Causality]]"
   - "[[Unit of Analysis]]"
   - "[[Reliability]]"
-  - "[[Statistical Significance]]"
   - "[[Research Question]]"
 related_methods:
+  - "[[Statistical Significance]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Single-Case Design]]"
   - "[[Repeated Measures Design]]"

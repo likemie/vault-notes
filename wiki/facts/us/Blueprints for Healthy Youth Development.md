@@ -37,7 +37,6 @@ related_concepts:
   - "[[Construct Validity]]"
   - "[[Publication Bias]]"
   - "[[Conflict of Interest in Research]]"
-  - "[[Effect Size]]"
 related_theories: []
 related_methods:
   - "[[Intervention Research]]"
@@ -46,6 +45,7 @@ related_methods:
   - "[[Quasi-Experimental Designs]]"
   - "[[Regression Discontinuity Design]]"
   - "[[Intent-to-Treat Analysis]]"
+  - "[[Effect Size]]"
 related_instruments: []
 related_persons: []
 related_facts:

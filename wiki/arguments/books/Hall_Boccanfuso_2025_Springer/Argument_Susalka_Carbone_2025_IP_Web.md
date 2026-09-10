@@ -20,7 +20,6 @@ related_concepts:
   - "[[Technology Transfer]]"
   - "[[Creativity]]"
   - "[[Blue Skies Research]]"
-  - "[[Joint Ownership of IP]]"
   - "[[Technology Transfer Office]]"
 related_theories: []
 related_methods: []

@@ -29,7 +29,6 @@ related_concepts:
   - "[[Intercoder Agreement]]"
   - "[[Research Question]]"
   - "[[Research Literacy]]"
-  - "[[Effect Size]]"
   - "[[Theoretical Perspective]]"
   - "[[External Validity]]"
 related_theories:
@@ -41,6 +40,7 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Mixed Methods Research]]"
   - "[[PRISMA]]"
+  - "[[Effect Size]]"
   - "[[Meta-analysis]]"
   - "[[Thematic Synthesis]]"
   - "[[Open Coding]]"

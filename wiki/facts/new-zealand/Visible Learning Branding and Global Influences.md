@@ -29,7 +29,6 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Class Size]]"
   - "[[Performance Pay]]"
-  - "[[Effect Size]]"
   - "[[Sage]]"
   - "[[Technical Rationality]]"
   - "[[Further Education]]"
@@ -53,6 +52,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
 related_persons:
   - "[[John Hattie]]"
   - "[[Viviane Robinson]]"

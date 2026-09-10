@@ -20,12 +20,12 @@ related_concepts:
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Visible Learning]]"
   - "[[Whole Language]]"
-  - "[[Effect Size]]"
   - "[[Epistemology]]"
   - "[[Working Memory]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
 related_persons:
   - "[[John Hattie]]"
 related_facts:

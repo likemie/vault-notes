@@ -27,7 +27,6 @@ tags:
   - theme/nineteenth-century
 related_concepts:
   - "[[Normal School]]"
-  - "[[Common School Movement]]"
   - "[[Rote Learning]]"
   - "[[Faculty Psychology]]"
   - "[[Policy Borrowing]]"
@@ -41,6 +40,7 @@ related_persons:
   - "[[Johann Heinrich Pestalozzi]]"
 related_facts:
   - "[[Grammar School]]"
+  - "[[Common School Movement]]"
   - "[[Seventh Annual Report of the Massachusetts Board of Education]]"
 related_arguments:
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"

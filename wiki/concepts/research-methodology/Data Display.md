@@ -22,7 +22,6 @@ related_concepts:
   - "[[Data Reduction]]"
   - "[[Rich and Thick Description]]"
   - "[[Variable]]"
-  - "[[Statistical Significance]]"
   - "[[Interaction Effect]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Paradigm]]"
@@ -33,6 +32,7 @@ related_theories:
 related_methods:
   - "[[Field Notes]]"
   - "[[Qualitative Research]]"
+  - "[[Statistical Significance]]"
   - "[[Qualitative Computer Software]]"
   - "[[Joint Display]]"
 related_instruments: []

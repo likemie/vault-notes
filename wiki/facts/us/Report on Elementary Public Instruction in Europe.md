@@ -26,7 +26,6 @@ tags:
   - theme/educational-borrowing
   - theme/nineteenth-century
 related_concepts:
-  - "[[Common School Movement]]"
   - "[[Document]]"
   - "[[Normal School]]"
   - "[[Auslandspadagogik]]"
@@ -46,6 +45,7 @@ related_persons:
   - "[[Horace Mann]]"
   - "[[Victor Cousin]]"
 related_facts:
+  - "[[Common School Movement]]"
   - "[[Seventh Annual Report of the Massachusetts Board of Education]]"
   - "[[Report on the State of Public Instruction in Prussia]]"
   - "[[Prussian Draft Education Law of 1819]]"

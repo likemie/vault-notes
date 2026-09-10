@@ -26,7 +26,6 @@ related_concepts:
   - "[[Scaffolding]]"
   - "[[Graphic Organizer]]"
   - "[[Externalization]]"
-  - "[[Effect Size]]"
   - "[[Direct Instruction]]"
   - "[[AI Agent in Education]]"
   - "[[Procedural Skill]]"
@@ -55,6 +54,7 @@ related_theories:
   - "[[Bounded Rationality]]"
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
   - "[[Systematic Review]]"
   - "[[Randomised Controlled Trials]]"
 related_persons:

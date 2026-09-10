@@ -28,12 +28,12 @@ related_concepts:
   - "[[Research Scope]]"
   - "[[Revoicing]]"
   - "[[Reference Society]]"
-  - "[[Governing at a Distance]]"
   - "[[Policy Borrowing]]"
   - "[[Global Citizenship]]"
   - "[[International Mind]]"
   - "[[Knowledge Exchange]]"
 related_theories:
+  - "[[Governing at a Distance]]"
   - "[[Dependency Theory]]"
   - "[[Wight's Three Traditions of International Theory]]"
   - "[[Human Capital Theory]]"

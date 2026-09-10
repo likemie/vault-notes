@@ -24,10 +24,10 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Spatial Sortings]]"
   - "[[Growth]]"
-  - "[[Neocorporatism]]"
   - "[[Policy Network]]"
   - "[[Scientization of Politics]]"
-related_theories: []
+related_theories:
+  - "[[Neocorporatism]]"
 related_methods: []
 related_persons: []
 related_facts:

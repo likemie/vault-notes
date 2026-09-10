@@ -29,7 +29,6 @@ related_concepts:
   - "[[Learner-Centred Education]]"
   - "[[Dialogue in Education]]"
   - "[[Growth]]"
-  - "[[Social Realism]]"
   - "[[Selective Affinity]]"
   - "[[Theoretical Knowledge]]"
   - "[[Educational Neuroscience]]"
@@ -40,6 +39,7 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
 related_theories:
   - "[[Third Generation Activity Theory]]"
+  - "[[Social Realism]]"
   - "[[Curriculum Design Coherence Model]]"
   - "[[Cognitive Load Theory]]"
 related_methods:

@@ -18,10 +18,10 @@ tags:
 related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Sampling Error]]"
-  - "[[Standard Error]]"
 related_theories: []
 related_methods:
   - "[[Cluster Sampling]]"
+  - "[[Standard Error]]"
 related_persons: []
 related_facts: []
 related_arguments:

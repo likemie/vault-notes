@@ -28,7 +28,6 @@ related_concepts:
   - "[[Interaction Effect]]"
   - "[[Empiricism]]"
   - "[[Student-Teacher Relationship]]"
-  - "[[Effect Size]]"
   - "[[Pre-test and Post-test]]"
   - "[[Epistemology]]"
   - "[[Realism in International Relations]]"
@@ -44,6 +43,7 @@ related_concepts:
   - "[[Falsification]]"
 related_theories: []
 related_methods:
+  - "[[Effect Size]]"
   - "[[Random Assignment]]"
   - "[[Qualitative Research]]"
   - "[[Qualitative Observation]]"

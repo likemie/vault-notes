@@ -21,11 +21,11 @@ related_concepts:
   - "[[Synaptic Pruning]]"
   - "[[Prefrontal Cortex]]"
   - "[[Myelination]]"
-  - "[[Effect Size]]"
 related_theories:
   - "[[Phenomenology]]"
   - "[[Luhmann's Systems Theory]]"
 related_methods:
+  - "[[Effect Size]]"
   - "[[Coding in Qualitative Research]]"
 related_persons: []
 related_facts: []

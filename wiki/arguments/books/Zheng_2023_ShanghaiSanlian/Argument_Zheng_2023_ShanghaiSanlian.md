@@ -71,7 +71,6 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Student Attitude]]"
   - "[[Heterogeneity]]"
-  - "[[Progressive Focussing]]"
   - "[[Growth]]"
   - "[[Artefact]]"
   - "[[Objectivism]]"
@@ -85,6 +84,7 @@ related_concepts:
   - "[[Structural Holes]]"
   - "[[Self-Authorship]]"
   - "[[Quality Education]]"
+  - "[[Peidu]]"
   - "[[The Shock of the Elite]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Conatus]]"
@@ -94,8 +94,6 @@ related_concepts:
   - "[[Sense of Shame]]"
   - "[[Avatar]]"
   - "[[Refined Mastery]]"
-  - "[[Effect Size]]"
-  - "[[Statistical Significance]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Dual-Process Model of Culture in Action]]"
@@ -114,12 +112,15 @@ related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Case Study]]"
   - "[[Theoretical Sampling]]"
+  - "[[Progressive Focussing]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Triangulation]]"
   - "[[Qualitative Research]]"
   - "[[Interview Protocol]]"
   - "[[Matching]]"
   - "[[Axial Coding]]"
+  - "[[Effect Size]]"
+  - "[[Statistical Significance]]"
 related_persons:
   - "[[Pierre Bourdieu]]"
   - "[[Yajun Zheng]]"
@@ -134,7 +135,6 @@ related_facts:
   - "[[Coleman Report 1966]]"
   - "[[Recommendation-Based Graduate Admission System]]"
   - "[[China College Graduate Employment Reform]]"
-  - "[[Peidu]]"
 related_arguments: []
 sources:
   - "[[books/Zheng_2023_ShanghaiSanlian/Zheng_2023_ShanghaiSanlian|Zheng_2023_ShanghaiSanlian]]"

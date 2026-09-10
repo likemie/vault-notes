@@ -17,7 +17,6 @@ tags:
 - theory/critical
 related_concepts:
   - "[[Analytic Framework]]"
-  - "[[Post-structuralism]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Hub and Flow Imaginaries]]"
@@ -27,6 +26,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Spatial Sortings]]"
 related_theories:
+  - "[[Post-structuralism]]"
   - "[[Critical Realism]]"
 related_methods:
   - "[[Discourse Analysis]]"

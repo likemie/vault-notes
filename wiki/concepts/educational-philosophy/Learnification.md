@@ -18,13 +18,13 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Lifelong Learning]]"
   - "[[Creativity]]"
-  - "[[Effect Size]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Visible Learning]]"
   - "[[Bildung]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Effect Size]]"
 related_persons:
   - "[[Gert Biesta]]"
   - "[[John Dewey]]"

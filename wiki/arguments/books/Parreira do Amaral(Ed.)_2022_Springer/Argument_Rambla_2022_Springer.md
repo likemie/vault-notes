@@ -42,7 +42,6 @@ related_concepts:
   - "[[Learner Autonomy]]"
   - "[[Doxa]]"
   - "[[Network Governance]]"
-  - "[[Neocorporatism]]"
   - "[[Policy Network]]"
   - "[[Innovation Park]]"
   - "[[Operationalization]]"
@@ -53,6 +52,7 @@ related_concepts:
   - "[[Unit of Analysis]]"
 related_theories:
   - "[[Realist Evaluation]]"
+  - "[[Neocorporatism]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Qualitative Research]]"

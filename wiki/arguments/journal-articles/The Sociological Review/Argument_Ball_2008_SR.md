@@ -16,7 +16,6 @@ related_concepts:
   - "[[Champ]]"
   - "[[Horizontal Knowledge Structure]]"
   - "[[Paradigm]]"
-  - "[[Governmentality]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Knowledge Production]]"
   - "[[Document]]"
@@ -24,9 +23,10 @@ related_concepts:
   - "[[New Sociology of Education]]"
   - "[[School Effectiveness]]"
   - "[[Educational Meliorism]]"
-  - "[[Postmodernism]]"
   - "[[Literature Review]]"
-related_theories: []
+related_theories:
+  - "[[Governmentality]]"
+  - "[[Postmodernism]]"
 related_methods: []
 related_persons: []
 related_facts:

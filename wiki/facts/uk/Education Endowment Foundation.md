@@ -23,7 +23,6 @@ related_concepts:
   - "[[What Works Movement]]"
   - "[[Learning Gap]]"
   - "[[Scientific Method]]"
-  - "[[Effect Size]]"
   - "[[School Leadership]]"
   - "[[Policy Network]]"
   - "[[Document]]"
@@ -39,6 +38,7 @@ related_theories:
   - "[[Critical Realism]]"
   - "[[Realist Evaluation]]"
 related_methods:
+  - "[[Effect Size]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Random Assignment]]"
 related_persons: []

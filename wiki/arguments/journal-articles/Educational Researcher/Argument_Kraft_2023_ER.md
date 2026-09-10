@@ -23,13 +23,13 @@ tags:
 - methodology
 related_concepts:
   - "[[Research Question]]"
-  - "[[Effect Size]]"
   - "[[Academic Achievement]]"
   - "[[Achievement and Aptitude Tests]]"
   - "[[Publication Bias]]"
   - "[[Learning Gain]]"
 related_theories: []
 related_methods:
+  - "[[Effect Size]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Power Analysis]]"
 related_persons: []

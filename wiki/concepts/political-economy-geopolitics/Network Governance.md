@@ -22,14 +22,14 @@ related_concepts:
   - "[[Instructional Leadership]]"
   - "[[Academic Self-Concept]]"
   - "[[Lifelong Learning]]"
-  - "[[Neocorporatism]]"
   - "[[Policy Network]]"
   - "[[Theories of Policy Change]]"
   - "[[Selectivity]]"
   - "[[School Leadership]]"
   - "[[Return on Investment]]"
   - "[[Venture Philanthropy]]"
-related_theories: []
+related_theories:
+  - "[[Neocorporatism]]"
 related_methods:
   - "[[Snowball Sampling]]"
 related_persons: []

@@ -32,7 +32,6 @@ tags:
   - theme/professional-agency
 related_concepts:
   - "[[Visible Learning]]"
-  - "[[Effect Size]]"
   - "[[Evaluation Research]]"
   - "[[Hypothesis]]"
   - "[[Transfer Translation Transformation]]"
@@ -72,6 +71,7 @@ related_theories:
   - "[[Organizational Culture]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
+  - "[[Effect Size]]"
   - "[[Systematic Review]]"
   - "[[Documentary Analysis]]"
   - "[[Framework Synthesis]]"

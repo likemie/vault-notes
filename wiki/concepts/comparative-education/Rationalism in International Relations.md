@@ -30,7 +30,6 @@ related_concepts:
   - "[[Revolutionism]]"
   - "[[Realism in International Relations]]"
   - "[[International Mind]]"
-  - "[[Governing at a Distance]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Network Governance]]"
   - "[[Relational Space]]"
@@ -43,6 +42,7 @@ related_concepts:
   - "[[Methodological Statism]]"
 related_theories:
   - "[[Wight's Three Traditions of International Theory]]"
+  - "[[Governing at a Distance]]"
   - "[[Actor-Network Theory]]"
   - "[[Human Capital Theory]]"
 related_methods: []

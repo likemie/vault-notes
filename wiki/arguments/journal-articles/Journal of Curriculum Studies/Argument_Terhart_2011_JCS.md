@@ -28,13 +28,13 @@ related_concepts:
   - "[[Didaktik]]"
   - "[[Evidence-Based Education]]"
   - "[[Epistemology]]"
-  - "[[Effect Size]]"
   - "[[Bildung]]"
   - "[[Effective Teaching]]"
 related_theories: []
 related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
   - "[[Experimental Research]]"
   - "[[Survey Research]]"
 related_persons:

@@ -24,17 +24,17 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Construct]]"
   - "[[Variable]]"
-  - "[[Internal Consistency]]"
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
-  - "[[Test-Retest Reliability]]"
-  - "[[Inter-Rater Reliability]]"
   - "[[Hypothesis]]"
   - "[[Research Utilization]]"
 related_theories: []
 related_methods:
   - "[[Confirmatory Factor Analysis]]"
+  - "[[Internal Consistency]]"
   - "[[Cronbach's Alpha]]"
+  - "[[Test-Retest Reliability]]"
+  - "[[Inter-Rater Reliability]]"
   - "[[Scale Development]]"
   - "[[Average Variance Extracted]]"
 related_instruments:

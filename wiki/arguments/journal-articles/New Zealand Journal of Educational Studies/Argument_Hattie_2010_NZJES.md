@@ -35,10 +35,10 @@ related_concepts:
   - "[[Research Scope]]"
   - "[[Academic Engagement]]"
   - "[[Value Neutrality]]"
-  - "[[Effect Size]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
 related_persons:
   - "[[Gerald Grace]]"
 related_facts:

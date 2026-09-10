@@ -34,9 +34,7 @@ related_concepts:
   - "[[Classroom Debate]]"
   - "[[Definition of Terms]]"
   - "[[Problem-Posing Education]]"
-  - "[[Effect Size]]"
   - "[[Heterogeneity]]"
-  - "[[Prediction Interval]]"
   - "[[Critical Pedagogy]]"
   - "[[Cognitive Source]]"
 related_theories:
@@ -44,6 +42,8 @@ related_theories:
 related_methods:
   - "[[Mother-Child Conversation]]"
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
+  - "[[Prediction Interval]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Experimental Research]]"
   - "[[Discourse Analysis]]"

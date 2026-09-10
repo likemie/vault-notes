@@ -18,13 +18,13 @@ tags:
   - theory/tianxia
 related_concepts:
   - "[[Zhonghua Minzu]]"
-  - "[[Necropolitics]]"
-  - "[[Orientalism]]"
   - "[[Sinicisation]]"
   - "[[Unit of Analysis]]"
   - "[[Grand Theory]]"
   - "[[Knowledge Transfer]]"
-related_theories: []
+related_theories:
+  - "[[Necropolitics]]"
+  - "[[Orientalism]]"
 related_methods: []
 related_persons: []
 related_facts: []

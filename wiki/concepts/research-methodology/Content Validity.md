@@ -24,10 +24,11 @@ related_concepts:
   - "[[Convergent and Discriminant Validity]]"
   - "[[Operationalization]]"
   - "[[Hypothesis]]"
-  - "[[Internal Consistency]]"
   - "[[Consequential Validity]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
+related_methods:
+  - "[[Internal Consistency]]"
 status: draft
 created: 2026-06-23
 updated: 2026-06-23

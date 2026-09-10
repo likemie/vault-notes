@@ -36,13 +36,11 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Self-Efficacy]]"
   - "[[Learned Helplessness]]"
-  - "[[Effect Size]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
   - "[[Scaffolding]]"
   - "[[Metacognition]]"
   - "[[Ways of Knowing]]"
-  - "[[Statistical Significance]]"
 related_theories:
   - "[[Reflective Judgment Model]]"
 related_methods:
@@ -52,7 +50,9 @@ related_methods:
   - "[[t-test]]"
   - "[[Multiple Regression]]"
   - "[[Analysis of Variance]]"
+  - "[[Effect Size]]"
   - "[[Meta-regression]]"
+  - "[[Statistical Significance]]"
 related_instruments:
   - "[[Schommer's Modified Epistemological Questionnaire]]"
 related_persons: []

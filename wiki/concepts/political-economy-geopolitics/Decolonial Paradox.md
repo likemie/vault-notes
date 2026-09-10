@@ -19,12 +19,12 @@ tags:
   - hegemony
   - comparative-education
 related_concepts:
-  - "[[Hegemony]]"
   - "[[Grand Theory]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Sinicisation]]"
   - "[[Pride in Learning]]"
-related_theories: []
+related_theories:
+  - "[[Hegemony]]"
 related_methods: []
 related_persons:
   - "[[Jiang Shigong]]"

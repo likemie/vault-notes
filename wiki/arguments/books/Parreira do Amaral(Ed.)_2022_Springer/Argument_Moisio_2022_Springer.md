@@ -28,7 +28,6 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Relational Space]]"
   - "[[Knowledge-Based Economization]]"
-  - "[[Hegemony]]"
   - "[[Transfer Translation Transformation]]"
   - "[[National Competitive Advantage]]"
   - "[[Theoretical Knowledge]]"
@@ -52,6 +51,7 @@ related_concepts:
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Cultural Political Economy]]"
+  - "[[Hegemony]]"
   - "[[Systems of Innovation]]"
   - "[[Fixity-Motion Tension]]"
 related_methods:

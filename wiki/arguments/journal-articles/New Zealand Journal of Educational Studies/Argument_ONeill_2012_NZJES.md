@@ -28,13 +28,13 @@ related_concepts:
   - "[[Policy Entrepreneur]]"
   - "[[Visible Learning]]"
   - "[[Analytic Framework]]"
-  - "[[Effect Size]]"
   - "[[Class Size]]"
   - "[[Familiarization]]"
 related_theories: []
 related_methods:
   - "[[Discourse Analysis]]"
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
 related_persons: []
 related_facts:
   - "[[OECD]]"

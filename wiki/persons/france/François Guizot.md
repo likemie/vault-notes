@@ -26,7 +26,6 @@ related_concepts:
   - "[[Dual School System]]"
   - "[[Policy Borrowing]]"
   - "[[Paradigm]]"
-  - "[[Common School Movement]]"
   - "[[Going Native]]"
   - "[[Educational Meliorism]]"
   - "[[Document]]"
@@ -40,6 +39,7 @@ related_persons:
   - "[[Henry Barnard]]"
 related_facts:
   - "[[Guizot Law of 1833]]"
+  - "[[Common School Movement]]"
   - "[[Report on the State of Public Instruction in Prussia]]"
 related_arguments:
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"

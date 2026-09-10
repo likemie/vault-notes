@@ -19,10 +19,10 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Hypothesis]]"
   - "[[Reliability]]"
-  - "[[Descriptive Analysis]]"
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
+  - "[[Descriptive Analysis]]"
 related_persons: []
 related_arguments:
   - "[[Argument_Bainbridge_2022_ROE]]"

@@ -68,7 +68,6 @@ related_concepts:
   - "[[Rote Learning]]"
   - "[[First and Second Order Emotion]]"
   - "[[Informed Consent]]"
-  - "[[Inter-Rater Reliability]]"
   - "[[Sample Size Determination]]"
   - "[[Deception in Research]]"
 related_theories:
@@ -83,6 +82,7 @@ related_methods:
   - "[[Random Sampling]]"
   - "[[Time Series Design]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Inter-Rater Reliability]]"
 related_instruments: []
 related_persons:
   - "[[William Foote Whyte]]"

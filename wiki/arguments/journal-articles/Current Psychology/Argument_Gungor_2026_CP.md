@@ -33,7 +33,6 @@ related_concepts:
   - "[[Sampling Error]]"
   - "[[Academic Achievement]]"
   - "[[Variable]]"
-  - "[[Effect Size]]"
   - "[[Confidence Interval]]"
   - "[[Cooperative Integrated Reading and Composition]]"
   - "[[Group Investigation]]"
@@ -61,7 +60,6 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Flow]]"
   - "[[Funnel Plot]]"
-  - "[[Standard Error]]"
   - "[[Interaction Effect]]"
   - "[[Deficiencies in Past Literature]]"
   - "[[Evidence-Based Education]]"
@@ -73,6 +71,7 @@ related_theories:
   - "[[Bloom's Taxonomy]]"
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
   - "[[Meta-meta-analysis]]"
   - "[[Survey Research]]"
   - "[[Random Assignment]]"
@@ -87,6 +86,7 @@ related_methods:
   - "[[Trim and Fill Method]]"
   - "[[Correlated and Hierarchical Effects Model]]"
   - "[[Robust Variance Estimation]]"
+  - "[[Standard Error]]"
   - "[[Trend Study]]"
   - "[[Experimental Research]]"
 related_instruments:

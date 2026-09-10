@@ -24,8 +24,8 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Innovation Park]]"
   - "[[Placemaking]]"
+related_theories:
   - "[[Theory of Mind]]"
-related_theories: []
 related_methods: []
 related_persons: []
 related_facts:

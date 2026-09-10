@@ -30,7 +30,6 @@ related_concepts:
   - "[[Theoretical Standpoint]]"
   - "[[Evidence-Based Education]]"
   - "[[Educational Evidence Clearinghouses]]"
-  - "[[Effect Size]]"
   - "[[External Validity]]"
   - "[[Sample Size Determination]]"
   - "[[Conflict of Interest in Research]]"
@@ -41,6 +40,7 @@ related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Systematic Review]]"
+  - "[[Effect Size]]"
   - "[[Random Assignment]]"
   - "[[Matching]]"
   - "[[Meta-analysis]]"

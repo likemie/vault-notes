@@ -19,7 +19,6 @@ tags:
 - research-synthesis
 - methodology
 related_concepts:
-  - "[[Effect Size]]"
   - "[[Heterogeneity]]"
   - "[[Recommendations for Practice]]"
 related_theories: []
@@ -27,6 +26,7 @@ related_methods:
   - "[[Systematic Review]]"
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Effect Size]]"
   - "[[Intervention Research]]"
 related_persons: []
 related_facts:

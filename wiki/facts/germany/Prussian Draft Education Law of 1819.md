@@ -30,7 +30,6 @@ tags:
 related_concepts:
   - "[[Bildung]]"
   - "[[Normal School]]"
-  - "[[Common School Movement]]"
   - "[[Faculty Psychology]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Paradigm]]"
@@ -49,6 +48,7 @@ related_persons:
   - "[[Henry Barnard]]"
 related_facts:
   - "[[Guizot Law of 1833]]"
+  - "[[Common School Movement]]"
   - "[[Top Institute for Evidence-Based Education Research]]"
   - "[[Report on the State of Public Instruction in Prussia]]"
 related_arguments:

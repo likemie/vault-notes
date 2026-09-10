@@ -22,13 +22,13 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Postpositivism]]"
   - "[[Rationalism in International Relations]]"
-  - "[[Postmodernism]]"
   - "[[Constructivist Paradigm]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Outcomes-based Education]]"
   - "[[Visible Learning]]"
   - "[[Evidence-Based Education]]"
-related_theories: []
+related_theories:
+  - "[[Postmodernism]]"
 related_methods: []
 related_persons: []
 related_facts:

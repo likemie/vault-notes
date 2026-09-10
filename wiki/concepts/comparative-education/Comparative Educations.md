@@ -24,7 +24,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Epistemology]]"
   - "[[Positivism]]"
-  - "[[Postmodernism]]"
   - "[[Hypothesis]]"
   - "[[Agendas of Attention]]"
   - "[[Policy Borrowing]]"
@@ -40,6 +39,7 @@ related_concepts:
   - "[[Document]]"
 related_theories:
   - "[[Critical Theory]]"
+  - "[[Postmodernism]]"
 related_methods:
   - "[[Quantitative Research]]"
 related_instruments: []

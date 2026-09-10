@@ -31,11 +31,11 @@ related_concepts:
   - "[[Promising Student]]"
   - "[[Online Self-Assessment]]"
   - "[[Digital Optimum]]"
-  - "[[Governmentality]]"
   - "[[Operationalization]]"
   - "[[Hub and Flow Imaginaries]]"
 related_theories:
   - "[[Human Capital Theory]]"
+  - "[[Governmentality]]"
   - "[[Fixity-Motion Tension]]"
 related_methods:
   - "[[Ethnography]]"

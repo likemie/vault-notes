@@ -23,7 +23,6 @@ related_concepts:
   - "[[Interaction Effect]]"
   - "[[Causality]]"
   - "[[Unit of Analysis]]"
-  - "[[Effect Size]]"
   - "[[Pre-test and Post-test]]"
   - "[[Confidence Interval]]"
   - "[[Dependent Variable]]"
@@ -32,6 +31,7 @@ related_concepts:
 related_methods:
   - "[[Experimental Research]]"
   - "[[Random Assignment]]"
+  - "[[Effect Size]]"
   - "[[Analysis of Variance]]"
   - "[[True Experimental Design]]"
   - "[[Solomon Four-Group Design]]"

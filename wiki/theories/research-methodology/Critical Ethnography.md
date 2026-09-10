@@ -15,7 +15,6 @@ tags:
   - paradigm/qualitative
   - method/ethnography
 related_concepts:
-  - "[[Post-colonial Theory]]"
   - "[[Reflexivity]]"
   - "[[Hypothesis]]"
   - "[[Emic and Etic]]"
@@ -25,6 +24,7 @@ related_concepts:
   - "[[Research Question]]"
 related_theories:
   - "[[Critical Theory]]"
+  - "[[Post-colonial Theory]]"
 related_methods:
   - "[[Ethnography]]"
   - "[[Ideology Critique]]"

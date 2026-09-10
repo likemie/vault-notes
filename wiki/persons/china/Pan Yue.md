@@ -16,7 +16,6 @@ tags:
   - discipline/history
   - field/ethnic-studies
 related_concepts:
-  - "[[Wuhu Ruhua]]"
   - "[[Zhonghua Minzu]]"
   - "[[Sinicisation]]"
 related_theories: []
@@ -24,7 +23,8 @@ related_methods: []
 related_persons:
   - "[[Zhao Tingyang]]"
   - "[[Fei Xiaotong]]"
-related_facts: []
+related_facts:
+  - "[[Wuhu Ruhua]]"
 related_arguments:
   - "[[Argument_Bulag_2024_CE]]"
 confidence: medium

@@ -33,12 +33,12 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Value Neutrality]]"
   - "[[Technical Rationality]]"
-  - "[[Governmentality]]"
   - "[[Political Arithmetic]]"
   - "[[New Sociology of Education]]"
   - "[[Professional Judgment]]"
+related_theories:
+  - "[[Governmentality]]"
   - "[[Post-structuralism]]"
-related_theories: []
 related_methods:
   - "[[Meta-meta-analysis]]"
 related_persons:

@@ -34,12 +34,12 @@ related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Dialogue in Education]]"
-  - "[[Postmodernism]]"
   - "[[Technical Rationality]]"
   - "[[Construct]]"
   - "[[Comparative History of Comparative Education]]"
   - "[[Four Forms of Understanding of Comparative Education]]"
-related_theories: []
+related_theories:
+  - "[[Postmodernism]]"
 related_methods:
   - "[[Historical-Comparative Method]]"
   - "[[Problem Approach]]"

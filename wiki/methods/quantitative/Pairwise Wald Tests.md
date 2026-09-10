@@ -20,9 +20,7 @@ tags:
   - moderator-analysis
   - hypothesis-testing
 related_concepts:
-  - "[[Effect Size]]"
   - "[[Heterogeneity]]"
-  - "[[Standard Error]]"
   - "[[Variable]]"
   - "[[Construct]]"
   - "[[Interaction Effect]]"
@@ -33,7 +31,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Hypothesis]]"
   - "[[Sample Size Determination]]"
-  - "[[Statistical Significance]]"
   - "[[Confidence Interval]]"
   - "[[Sampling Error]]"
   - "[[Graphic Organizer]]"
@@ -42,8 +39,11 @@ related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Moderator Analysis]]"
+  - "[[Effect Size]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Standard Error]]"
   - "[[Meta-regression]]"
+  - "[[Statistical Significance]]"
   - "[[Random Sampling]]"
   - "[[Cochran's Q Test]]"
 related_instruments: []

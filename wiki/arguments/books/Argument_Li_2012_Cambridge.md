@@ -105,7 +105,6 @@ related_concepts:
   - "[[Flow]]"
   - "[[Executive Function]]"
   - "[[Analytic Framework]]"
-  - "[[Entity vs Incremental Intelligence]]"
   - "[[Locus of Control]]"
   - "[[International Education]]"
   - "[[Academic Engagement]]"
@@ -139,6 +138,7 @@ related_theories:
   - "[[Neo-Confucianism]]"
   - "[[Self-Determination Theory]]"
   - "[[Phenomenology]]"
+  - "[[Entity vs Incremental Intelligence]]"
   - "[[Attribution Theory]]"
   - "[[Self-Worth Theory]]"
 related_methods:

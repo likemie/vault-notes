@@ -18,14 +18,14 @@ tags:
 - psychology
 - region/us
 related_concepts:
-  - "[[Effect Size]]"
   - "[[Visible Learning]]"
-  - "[[Statistical Significance]]"
   - "[[Hypothesis]]"
   - "[[Sample Size Determination]]"
 related_theories: []
 related_methods:
+  - "[[Effect Size]]"
   - "[[Meta-analysis]]"
+  - "[[Statistical Significance]]"
 related_persons: []
 related_facts: []
 related_arguments:

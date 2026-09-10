@@ -17,7 +17,6 @@ tags:
 - paradigm/critical
 related_concepts:
   - "[[Visible Learning]]"
-  - "[[Effect Size]]"
   - "[[Epistemology]]"
   - "[[Cult of Efficiency]]"
   - "[[Empiricism]]"
@@ -33,6 +32,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Meta-meta-analysis]]"
+  - "[[Effect Size]]"
   - "[[Meta-analysis]]"
 related_persons: []
 related_facts:

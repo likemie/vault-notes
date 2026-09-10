@@ -29,13 +29,13 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Metacognition]]"
   - "[[Working Memory]]"
-  - "[[Effect Size]]"
   - "[[Dialogue in Education]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Intelligent Tutoring Systems]]"
 related_theories:
   - "[[Bloom's Taxonomy]]"
 related_methods:
+  - "[[Effect Size]]"
   - "[[Meta-analysis]]"
 related_persons: []
 related_facts: []

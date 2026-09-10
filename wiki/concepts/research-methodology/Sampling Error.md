@@ -20,13 +20,13 @@ related_concepts:
   - "[[Confidence Interval]]"
   - "[[Response Bias]]"
   - "[[Sampling Frame]]"
-  - "[[Standard Error]]"
   - "[[Variable]]"
-  - "[[Effect Size]]"
 related_theories:
   - "[[Central Limit Theorem]]"
 related_methods:
+  - "[[Standard Error]]"
   - "[[Causal Modeling]]"
+  - "[[Effect Size]]"
 related_persons: []
 related_facts: []
 related_arguments:

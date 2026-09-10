@@ -21,16 +21,12 @@ tags:
   - fixed-effect-model
   - methodology
 related_concepts:
-  - "[[Effect Size]]"
   - "[[Paradigm]]"
   - "[[Hypothesis]]"
   - "[[Sampling Error]]"
   - "[[Heterogeneity]]"
-  - "[[Between-Study Variance]]"
   - "[[Construct]]"
   - "[[Confidence Interval]]"
-  - "[[Prediction Interval]]"
-  - "[[Standard Error]]"
   - "[[Publication Bias]]"
   - "[[Small Study Effects]]"
   - "[[Clinical Trial]]"
@@ -40,7 +36,11 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
   - "[[Random Sampling]]"
+  - "[[Between-Study Variance]]"
+  - "[[Prediction Interval]]"
+  - "[[Standard Error]]"
   - "[[Trim and Fill Method]]"
   - "[[Meta-meta-analysis]]"
   - "[[Intervention Research]]"

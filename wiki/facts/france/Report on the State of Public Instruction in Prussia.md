@@ -38,7 +38,6 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Culture Générale]]"
   - "[[Faculty Psychology]]"
-  - "[[Common School Movement]]"
   - "[[Positivism]]"
   - "[[Empiricism]]"
   - "[[Hypothesis]]"
@@ -59,6 +58,7 @@ related_persons:
 related_facts:
   - "[[Prussian Draft Education Law of 1819]]"
   - "[[Guizot Law of 1833]]"
+  - "[[Common School Movement]]"
 related_arguments:
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
 confidence: high

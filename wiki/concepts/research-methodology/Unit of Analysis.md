@@ -45,7 +45,6 @@ related_concepts:
   - "[[Champ]]"
   - "[[Hypothesis]]"
   - "[[Research Question]]"
-  - "[[Domain Analysis]]"
   - "[[Central Phenomenon]]"
 related_theories:
   - "[[Complexity Theory]]"
@@ -58,6 +57,7 @@ related_methods:
   - "[[Accounts]]"
   - "[[Qualitative Computer Software]]"
   - "[[Pilot Testing]]"
+  - "[[Domain Analysis]]"
   - "[[Mixed Methods Research]]"
 related_instruments: []
 related_persons:

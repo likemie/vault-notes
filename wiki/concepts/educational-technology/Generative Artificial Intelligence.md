@@ -60,12 +60,10 @@ related_concepts:
   - "[[Variable]]"
   - "[[Interaction Effect]]"
   - "[[Divergent Thinking]]"
-  - "[[Effect Size]]"
   - "[[Technology Infusion]]"
   - "[[Fade-out Effect]]"
   - "[[Publication Bias]]"
   - "[[Heterogeneity]]"
-  - "[[Prediction Interval]]"
   - "[[Reflexivity]]"
   - "[[Affective Outcomes]]"
 related_theories:
@@ -76,8 +74,10 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Baseline Standardized Mean Difference]]"
   - "[[Experimental Research]]"
+  - "[[Effect Size]]"
   - "[[Fieldwork]]"
   - "[[Trim and Fill Method]]"
+  - "[[Prediction Interval]]"
   - "[[PRISMA]]"
 related_instruments: []
 related_persons:

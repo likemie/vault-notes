@@ -24,7 +24,6 @@ related_concepts:
   - "[[Intelligent Tutoring Systems]]"
   - "[[Evaluation Research]]"
   - "[[Academic Achievement]]"
-  - "[[Statistical Significance]]"
   - "[[Attrition]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Evidence-Based Reform]]"
@@ -34,6 +33,7 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Regression Discontinuity Design]]"
+  - "[[Statistical Significance]]"
 related_instruments: []
 related_persons: []
 related_facts:

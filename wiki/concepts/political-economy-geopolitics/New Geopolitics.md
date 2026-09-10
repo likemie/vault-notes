@@ -20,13 +20,13 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Value Neutrality]]"
   - "[[Problem Finding]]"
-  - "[[Governmentality]]"
   - "[[Geopolitics of Higher Education]]"
   - "[[Praxis]]"
   - "[[Theoretical Standpoint]]"
   - "[[Realism in International Relations]]"
 related_theories:
   - "[[Critical Geopolitics]]"
+  - "[[Governmentality]]"
 related_methods: []
 related_persons:
   - "[[Jürgen Habermas]]"

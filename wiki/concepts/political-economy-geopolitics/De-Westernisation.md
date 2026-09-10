@@ -24,7 +24,6 @@ tags:
 related_concepts:
   - "[[Re-Westernisation]]"
   - "[[Epistemology]]"
-  - "[[Governing at a Distance]]"
   - "[[Innovation Hub]]"
   - "[[Going Native]]"
   - "[[Disciplina and Doctrina]]"
@@ -32,6 +31,7 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Geopolitics of Higher Education]]"
 related_theories:
+  - "[[Governing at a Distance]]"
   - "[[Human Capital Theory]]"
 related_methods: []
 related_persons:

@@ -34,13 +34,13 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[International Education]]"
   - "[[Conflict of Interest in Research]]"
-  - "[[Hegemony]]"
   - "[[Document]]"
   - "[[Paradigm]]"
 related_theories:
   - "[[Wight's Three Traditions of International Theory]]"
   - "[[Dependency Theory]]"
   - "[[Critical Theory]]"
+  - "[[Hegemony]]"
 related_methods: []
 related_instruments: []
 related_persons:

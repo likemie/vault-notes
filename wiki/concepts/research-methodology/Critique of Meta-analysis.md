@@ -16,7 +16,6 @@ tags:
   - research-synthesis
   - effect-size
 related_concepts:
-  - "[[Effect Size]]"
   - "[[Causality]]"
   - "[[Hypothesis]]"
   - "[[Variable]]"
@@ -53,6 +52,7 @@ related_concepts:
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Effect Size]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quantitative Research]]"
   - "[[Random Assignment]]"

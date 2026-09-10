@@ -17,10 +17,10 @@ related_concepts:
   - "[[Deficiencies Model for an Introduction]]"
   - "[[Deficit Model of Science Communication]]"
   - "[[Chinese Learner]]"
-  - "[[Orientalism]]"
   - "[[Document]]"
   - "[[Meta-Cultural Sensitivity]]"
-related_theories: []
+related_theories:
+  - "[[Orientalism]]"
 related_methods: []
 related_persons: []
 related_facts: []

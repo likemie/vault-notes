@@ -55,21 +55,22 @@ related_concepts:
   - "[[Causality]]"
   - "[[Trustworthiness]]"
   - "[[Sample Size Determination]]"
-  - "[[Effect Size]]"
   - "[[Attrition]]"
   - "[[Emergence]]"
-  - "[[Theory of Mind]]"
   - "[[Outcomes-based Education]]"
 related_methods:
   - "[[Survey Research]]"
   - "[[Observation Method]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Effect Size]]"
 related_instruments:
   - "[[VALUE Rubrics]]"
 related_persons: []
 related_facts:
   - "[[Science Media Centre]]"
   - "[[Public Attitudes to Science]]"
+related_theories:
+  - "[[Theory of Mind]]"
 status: draft
 created: 2026-09-03
 updated: 2026-09-04

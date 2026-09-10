@@ -16,7 +16,6 @@ tags:
   - paradigm/epistemology
 related_concepts:
   - "[[Epistemology]]"
-  - "[[Convergence Theory in Comparative Education]]"
   - "[[International Education]]"
   - "[[Variable]]"
   - "[[Growth]]"
@@ -25,7 +24,8 @@ related_concepts:
   - "[[Educated Identity]]"
   - "[[Screening Off]]"
   - "[[Paradigm]]"
-related_theories: []
+related_theories:
+  - "[[Convergence Theory in Comparative Education]]"
 related_methods: []
 related_persons:
   - "[[Robert Cowen]]"

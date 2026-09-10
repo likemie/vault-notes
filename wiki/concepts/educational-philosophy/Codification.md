@@ -22,8 +22,8 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Learned Helplessness]]"
   - "[[Problem-Posing Education]]"
+related_theories:
   - "[[Theory of Mind]]"
-related_theories: []
 related_methods:
   - "[[Coding in Qualitative Research]]"
 related_instruments: []

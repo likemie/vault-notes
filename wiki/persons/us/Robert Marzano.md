@@ -22,12 +22,12 @@ related_concepts:
   - "[[School Effectiveness]]"
   - "[[Evaluation Research]]"
   - "[[Metacognition]]"
-  - "[[Effect Size]]"
   - "[[Direct Instruction]]"
 related_theories: []
 related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
 related_persons: []
 related_facts: []
 related_arguments:

@@ -33,12 +33,12 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Student Attitude]]"
   - "[[Creativity]]"
-  - "[[Effect Size]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Effect Size]]"
 related_instruments: []
 related_persons: []
 related_facts: []

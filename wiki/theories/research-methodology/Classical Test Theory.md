@@ -19,13 +19,11 @@ tags:
   - theme/psychometrics
 related_concepts:
   - "[[Reliability]]"
-  - "[[Item Analysis]]"
   - "[[Construct]]"
   - "[[Cultural Capital]]"
   - "[[Hypothesis]]"
   - "[[Epistemology]]"
   - "[[Ontology]]"
-  - "[[Internal Consistency]]"
   - "[[Achievement and Aptitude Tests]]"
   - "[[Rating Scale]]"
   - "[[Computerized Adaptive Testing]]"
@@ -34,6 +32,8 @@ related_theories:
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]]"
 related_methods:
+  - "[[Item Analysis]]"
+  - "[[Internal Consistency]]"
   - "[[Cronbach's Alpha]]"
   - "[[Measurement Invariance]]"
 confidence: medium

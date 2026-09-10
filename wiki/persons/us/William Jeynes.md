@@ -22,10 +22,10 @@ tags:
 related_concepts:
   - "[[Visible Learning]]"
   - "[[Whole Language]]"
-  - "[[Effect Size]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
   - "[[Coding in Qualitative Research]]"
 related_persons:
   - "[[John Hattie]]"

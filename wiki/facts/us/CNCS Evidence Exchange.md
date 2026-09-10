@@ -23,7 +23,6 @@ tags:
   - region/us
 related_concepts:
   - "[[Intelligent Tutoring Systems]]"
-  - "[[Statistical Significance]]"
   - "[[Internal Validity]]"
   - "[[Pre-test and Post-test]]"
   - "[[Educational Evidence Clearinghouses]]"
@@ -35,6 +34,7 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Regression Discontinuity Design]]"
+  - "[[Statistical Significance]]"
   - "[[Experimental Research]]"
 related_instruments: []
 related_persons: []

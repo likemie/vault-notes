@@ -35,7 +35,6 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Operationalization]]"
   - "[[Reliability]]"
-  - "[[Internal Consistency]]"
   - "[[Independent Variable]]"
   - "[[Constructivist Paradigm]]"
   - "[[Didaktik]]"
@@ -46,6 +45,7 @@ related_theories:
 related_methods:
   - "[[Philosophical Analysis in Education]]"
   - "[[Meta-analysis]]"
+  - "[[Internal Consistency]]"
 related_persons:
   - "[[John Hattie]]"
   - "[[Socrates]]"

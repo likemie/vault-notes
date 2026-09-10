@@ -69,7 +69,6 @@ related_concepts:
   - "[[Predictive Validity]]"
   - "[[Divergent Thinking]]"
   - "[[Task Structure]]"
-  - "[[Internal Consistency]]"
   - "[[Rote Learning]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Problem Finding]]"
@@ -87,6 +86,7 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Cohort Study]]"
   - "[[Multiple-Choice Questions]]"
+  - "[[Internal Consistency]]"
 related_instruments:
   - "[[VALUE Rubrics]]"
   - "[[Collegiate Learning Assessment]]"

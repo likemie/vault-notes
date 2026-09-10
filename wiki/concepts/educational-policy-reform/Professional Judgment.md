@@ -27,7 +27,6 @@ related_concepts:
   - "[[Evaluation Research]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Governing by Numbers]]"
-  - "[[Effect Size]]"
   - "[[Formative Assessment]]"
   - "[[Dialogue in Education]]"
   - "[[Feedback]]"
@@ -47,6 +46,7 @@ related_theories:
   - "[[Bounded Rationality]]"
 related_methods:
   - "[[Triangulation]]"
+  - "[[Effect Size]]"
   - "[[Quantitative Research]]"
   - "[[Meta-analysis]]"
   - "[[Systematic Review]]"

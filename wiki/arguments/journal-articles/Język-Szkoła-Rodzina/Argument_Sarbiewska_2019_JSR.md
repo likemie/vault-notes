@@ -25,14 +25,14 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Visible Learning]]"
   - "[[Evidence-Based Education]]"
-  - "[[Effect Size]]"
   - "[[Literature Review]]"
   - "[[Document]]"
   - "[[Paradigm]]"
   - "[[Constructivist Paradigm]]"
 related_theories:
   - "[[Radical Constructivism]]"
-related_methods: []
+related_methods:
+  - "[[Effect Size]]"
 related_persons:
   - "[[Dietrich Benner]]"
 related_facts:

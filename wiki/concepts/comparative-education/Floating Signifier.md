@@ -18,10 +18,10 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Heterogeneity]]"
   - "[[Global Policy Space]]"
-  - "[[Postmodernism]]"
   - "[[Grand Theory]]"
 related_theories:
   - "[[Network Society]]"
+  - "[[Postmodernism]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
 related_persons: []

@@ -17,7 +17,6 @@ tags:
   - method/qualitative
   - research-methodology
 related_concepts:
-  - "[[Descriptive Analysis]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Story Line]]"
   - "[[Analytic Framework]]"
@@ -27,6 +26,7 @@ related_theories:
   - "[[Phenomenology]]"
 related_methods:
   - "[[Qualitative Research]]"
+  - "[[Descriptive Analysis]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Field Notes]]"
   - "[[Grounded Theory]]"

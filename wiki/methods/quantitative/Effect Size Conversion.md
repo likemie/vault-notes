@@ -21,20 +21,20 @@ tags:
   - theme/effect-size
   - field/research-methodology
 related_concepts:
-  - "[[Effect Size]]"
   - "[[Variable]]"
-  - "[[Descriptive Analysis]]"
   - "[[Sample Size Determination]]"
   - "[[Scale of Measurement]]"
   - "[[Unit of Analysis]]"
-  - "[[Standard Error]]"
   - "[[Sampling Error]]"
   - "[[Dependent Variable]]"
   - "[[Hypothesis]]"
 related_methods:
+  - "[[Effect Size]]"
   - "[[Meta-analysis]]"
   - "[[Pearson Product-Moment Correlation]]"
+  - "[[Descriptive Analysis]]"
   - "[[Meta-regression]]"
+  - "[[Standard Error]]"
   - "[[Inverse-Variance Weighting]]"
   - "[[Robust Variance Estimation]]"
 related_arguments:

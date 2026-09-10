@@ -27,7 +27,6 @@ related_concepts:
   - "[[Transcription in Qualitative Research]]"
   - "[[Rich and Thick Description]]"
   - "[[Hawthorne Effect]]"
-  - "[[Effect Size]]"
   - "[[Heterogeneity]]"
   - "[[Emergence]]"
 related_theories:
@@ -42,6 +41,7 @@ related_methods:
   - "[[Non-participant Observation]]"
   - "[[Observation Protocol]]"
   - "[[Non-probability Sampling]]"
+  - "[[Effect Size]]"
   - "[[Member Tests]]"
 related_persons: []
 related_facts: []

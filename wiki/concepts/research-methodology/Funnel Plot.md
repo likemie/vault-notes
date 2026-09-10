@@ -16,8 +16,6 @@ tags:
   - publication-bias
   - methodology
 related_concepts:
-  - "[[Effect Size]]"
-  - "[[Standard Error]]"
   - "[[Publication Bias]]"
   - "[[Sampling Error]]"
   - "[[Document]]"
@@ -32,6 +30,8 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
+  - "[[Standard Error]]"
   - "[[Trim and Fill Method]]"
   - "[[Random Assignment]]"
   - "[[Egger Regression Test]]"

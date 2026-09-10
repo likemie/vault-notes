@@ -20,7 +20,6 @@ tags:
   - level/higher-ed
 related_concepts:
   - "[[Knowledge Production]]"
-  - "[[Academic Capitalism]]"
   - "[[Fictitious Commodity of Knowledge]]"
   - "[[Ontology]]"
   - "[[Champ]]"
@@ -29,6 +28,7 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Academic Oligarchy]]"
 related_theories:
+  - "[[Academic Capitalism]]"
   - "[[Neo-feudalism in Higher Education]]"
 related_methods: []
 related_persons: []

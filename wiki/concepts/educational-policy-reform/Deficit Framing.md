@@ -36,12 +36,12 @@ related_concepts:
   - "[[Questionnaire]]"
   - "[[Paradigm]]"
   - "[[Evaluation Research]]"
-  - "[[Effect Size]]"
   - "[[Variable]]"
   - "[[Research Literacy]]"
 related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Critical Review]]"
+  - "[[Effect Size]]"
 related_arguments:
   - "[[Argument_Mausethagen_2025_ERR]]"
 confidence: high

@@ -29,7 +29,6 @@ related_concepts:
   - "[[Partnership Continuum]]"
   - "[[University-Industry Collaboration]]"
   - "[[Technology Transfer]]"
-  - "[[Multi-Faceted Relationships in University-Industry Collaboration]]"
   - "[[Employability]]"
   - "[[Cooperative Education]]"
   - "[[Sponsored Research Agreement]]"

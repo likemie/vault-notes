@@ -31,12 +31,12 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Analytic Framework]]"
   - "[[Ontology]]"
-  - "[[Effect Size]]"
   - "[[Ways of Knowing]]"
   - "[[Neo-Taylorism]]"
 related_theories:
   - "[[Sociology of Measurement]]"
-related_methods: []
+related_methods:
+  - "[[Effect Size]]"
 related_persons:
   - "[[John Hattie]]"
 related_facts:

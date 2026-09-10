@@ -29,7 +29,6 @@ related_concepts:
   - "[[Geopolitical Subject]]"
   - "[[Spatial Sortings]]"
   - "[[Knowledge-Based Economization]]"
-  - "[[Hegemony]]"
   - "[[Praxis]]"
   - "[[Economic Patriotism]]"
   - "[[Knowledge-Based Economy]]"
@@ -49,6 +48,7 @@ related_concepts:
 related_theories:
   - "[[Critical Theory]]"
   - "[[Fixity-Motion Tension]]"
+  - "[[Hegemony]]"
   - "[[Cultural Political Economy]]"
   - "[[Decolonial Geopolitics of Knowledge]]"
 related_methods:

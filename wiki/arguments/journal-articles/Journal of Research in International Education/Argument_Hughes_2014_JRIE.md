@@ -33,13 +33,13 @@ related_concepts:
   - "[[Ways of Knowing]]"
   - "[[Areas of Knowledge]]"
   - "[[Constructed Knowledge]]"
-  - "[[Domain Analysis]]"
   - "[[Knowledge Framework]]"
   - "[[Knowledge Production]]"
   - "[[Necessary and Sufficient Conditions]]"
 related_theories: []
 related_methods:
   - "[[Documentary Analysis]]"
+  - "[[Domain Analysis]]"
 related_instruments: []
 related_persons: []
 related_facts: []

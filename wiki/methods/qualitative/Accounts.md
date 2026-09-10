@@ -16,7 +16,6 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Reflexivity]]"
-  - "[[Internal Consistency]]"
   - "[[Interpretive Paradigm]]"
   - "[[Hypothesis]]"
   - "[[Transcription in Qualitative Research]]"
@@ -26,6 +25,7 @@ related_theories:
   - "[[Ethnomethodology]]"
 related_methods:
   - "[[Discourse Analysis]]"
+  - "[[Internal Consistency]]"
   - "[[Member Tests]]"
   - "[[Ethogenic Approach]]"
   - "[[Ethnography]]"

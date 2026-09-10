@@ -14,10 +14,10 @@ related_concepts:
   - "[[Literature Review]]"
   - "[[Epistemology]]"
   - "[[Discursive Opportunity Structures]]"
+  - "[[Self-Entrepreneur]]"
+related_theories:
   - "[[Post-structuralism]]"
   - "[[Governmentality]]"
-  - "[[Self-Entrepreneur]]"
-related_theories: []
 related_methods:
   - "[[Single-Case Design]]"
   - "[[Discourse Analysis]]"

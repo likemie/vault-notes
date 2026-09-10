@@ -32,22 +32,22 @@ related_concepts:
   - "[[Illusion of Competence]]"
   - "[[Dialogue in Education]]"
   - "[[Homework]]"
-  - "[[Effect Size]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Self-Regulated Learning]]"
   - "[[Cognitive Flexibility]]"
   - "[[Critical Thinking]]"
   - "[[Heterogeneity]]"
-  - "[[Prediction Interval]]"
   - "[[Dependent Variable]]"
   - "[[Variable]]"
   - "[[Language Skills]]"
   - "[[Affective Outcomes]]"
 related_theories: []
 related_methods:
+  - "[[Effect Size]]"
   - "[[Experimental Research]]"
   - "[[Baseline Standardized Mean Difference]]"
   - "[[Meta-analysis]]"
+  - "[[Prediction Interval]]"
 related_instruments: []
 related_persons: []
 related_facts: []

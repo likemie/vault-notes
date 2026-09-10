@@ -35,7 +35,6 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Dependent Variable]]"
   - "[[Independent Variable]]"
-  - "[[Effect Size]]"
   - "[[Heterogeneity]]"
   - "[[Operationalization]]"
   - "[[Divergent Thinking]]"
@@ -44,6 +43,7 @@ related_concepts:
   - "[[Confidence Interval]]"
 related_methods:
   - "[[Triangulation]]"
+  - "[[Effect Size]]"
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
 related_persons:

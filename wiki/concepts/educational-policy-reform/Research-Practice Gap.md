@@ -23,12 +23,12 @@ related_concepts:
   - "[[Research-Practice Partnership]]"
   - "[[Dialogue in Education]]"
   - "[[Transfer Translation Transformation]]"
-  - "[[Effect Size]]"
   - "[[Variable]]"
 related_theories:
   - "[[Governing Mechanisms of Research Use]]"
 related_methods:
   - "[[Systematic Review]]"
+  - "[[Effect Size]]"
   - "[[Framework Synthesis]]"
 related_instruments: []
 related_persons: []

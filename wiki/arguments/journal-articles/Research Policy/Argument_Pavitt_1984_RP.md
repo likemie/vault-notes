@@ -27,7 +27,6 @@ tags:
   - theme/taxonomy
   - source/journal-article
 related_concepts:
-  - "[[Descriptive Analysis]]"
   - "[[Epistemology]]"
   - "[[Source of Knowledge]]"
   - "[[Epistemic Stances]]"
@@ -37,7 +36,8 @@ related_concepts:
 related_theories:
   - "[[Pavitt Taxonomy]]"
   - "[[Technological Trajectories]]"
-related_methods: []
+related_methods:
+  - "[[Descriptive Analysis]]"
 related_persons: []
 related_facts: []
 related_arguments: []

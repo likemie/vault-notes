@@ -34,8 +34,6 @@ related_concepts:
   - "[[Measurement Alignment]]"
   - "[[Questionnaire]]"
   - "[[Reliability]]"
-  - "[[Internal Consistency]]"
-  - "[[Effect Size]]"
   - "[[Operationalization]]"
   - "[[Construct Validity]]"
   - "[[Dependent Variable]]"
@@ -53,6 +51,8 @@ related_theories:
   - "[[Situative Perspective]]"
   - "[[Integrative Pluralism]]"
 related_methods:
+  - "[[Internal Consistency]]"
+  - "[[Effect Size]]"
   - "[[Meta-regression]]"
   - "[[Ethnography]]"
   - "[[Discourse Analysis]]"
