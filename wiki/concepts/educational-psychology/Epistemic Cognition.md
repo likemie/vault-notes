@@ -5,7 +5,7 @@ aliases:
 summary: "涵盖个体关于知识和认知过程的所有显性或隐性信念与认知实践活动的总括性术语。是理解学习过程、批判性思维与情境适应的核心变量。"
 type: concept
 domain: "educational-psychology"
-related_count: 46
+related_count: 47
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -19,6 +19,9 @@ related_concepts:
   - "[[Source of Knowledge]]"
   - "[[Construct]]"
   - "[[Epistemic Aims]]"
+  - "[[Epistemic Ideals]]"
+  - "[[Reliable Epistemic Processes]]"
+  - "[[Epistemological Understanding]]"
   - "[[Epistemic Resources]]"
   - "[[Domain Specificity]]"
   - "[[Determinism]]"
@@ -32,6 +35,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Internal Consistency]]"
   - "[[Effect Size]]"
+  - "[[Operationalization]]"
   - "[[Construct Validity]]"
   - "[[Dependent Variable]]"
   - "[[Confidence Interval]]"
@@ -44,6 +48,7 @@ related_concepts:
   - "[[Interaction Effect]]"
 related_theories:
   - "[[Reflective Judgment Model]]"
+  - "[[AIR Model of Epistemic Cognition]]"
   - "[[Situative Perspective]]"
   - "[[Integrative Pluralism]]"
 related_methods:
@@ -55,18 +60,20 @@ related_methods:
   - "[[Egger Regression Test]]"
   - "[[Three-Level Meta-Analysis]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Clark A. Chinn]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Chinn_2011_EP]]"
   - "[[Argument_Greene_2018_JEP]]"
   - "[[Argument_Hofer_1997_RER]]"
+  - "[[Argument_Duncan_2025_CI]]"
   - "[[Argument_Sandoval_2016_RRE]]"
   - "[[Argument_Song_Choi_2026_FPSYG]]"
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-08-20
+updated: 2026-09-10
 ---
 # Epistemic Cognition
 （[[Epistemology|认识论]]认知）
@@ -95,11 +102,11 @@ updated: 2026-08-20
 > [[Argument_Greene_2018_JEP|Greene et al. (2018)]] 通过全面梳理，将半个多世纪以来的理论演进归纳为四种截然不同的架构：
 > - **发展模型（Developmental Models）** 发端于 Perry (1970)。该流派认为认识论认知遵循严格的宏观阶段性演进：从早期的绝对主义（Absolutism，知识由权威赋予且简单确定），经历多元主义（Multiplism，知识皆为主观意见），最终走向成熟的评价主义（Evaluatism，知识是情境建构的，需基于证据进行客观评估）。其代表模型还包括 Kuhn (1991) 的论证发展模型，以及 King & Kitchener (1994) 的[[Reflective Judgment Model|反思性判断模型]]。
 > - **多维模型（Multidimensional Models）** 以 Schommer (1990) 为开创者。该流派彻底打破了单向线性发展的[[Hypothesis|假设]]，认为认识论是由若干相对独立、不必同步发展的信念维度组成的系统。[[Argument_Hofer_1997_RER|Hofer & Pintrich (1997)]] 进一步将其经典化，划分为知识的性质（Nature of knowledge，如简单性、确定性）与认识的性质（Nature of knowing，如[[Source of Knowledge|知识的来源]]、知识的证成）两大核心[[Construct|构念]]簇。
-> - **哲学驱动模型（Philosophically Driven Models）** 旨在解决早期心理学模型缺乏分析认识论哲学根基的根本缺陷。以 Chinn et al. (2011) 提出的 AIR 框架为绝对代表，该流派将认识论认知拆解为微观网络：包含探究目标的[[Epistemic Aims|认识论目标]]（Epistemic aims）、评估证据的认识论理想（Epistemic ideals）以及实现这些目标的可靠过程（Reliable processes）。
+> - **哲学驱动模型（Philosophically Driven Models）** 旨在解决早期心理学模型缺乏分析认识论哲学根基的根本缺陷。以 [[Argument_Chinn_2011_EP|Chinn et al. (2011)]] 及 Chinn, Rinehart & Buckland (2014) 提出的 [[AIR Model of Epistemic Cognition|AIR]] 框架为代表，该流派将认识论认知拆解为微观网络：包含探究目标的[[Epistemic Aims|认识论目标]]（Epistemic aims）、评估证据与模型的[[Epistemic Ideals|认识论理想]]（Epistemic ideals）以及实现这些目标的[[Reliable Epistemic Processes|可靠认识论过程]]（Reliable processes）。[[Argument_Duncan_2025_CI|Duncan & Chinn (2025)]] 进一步将其拓展至科学论证与实践评估，指出认识论认知并非脱域的逻辑运算，而是与学科实体知识、元[[Epistemological Understanding|认识论理解]]及共同体认识主体性深度纠缠。
 > - **学科/领域驱动模型（Discipline-Driven Models）** 受[[Situative Perspective|情境认知]]（Situated cognition）理论深度启发，强调认识论并不是跨领域的稳定特质，而是高度依赖特定任务情境的。例如，Elby & Hammer (2001) 提出的[[Epistemic Resources|认识论资源]]模型明确指出，学生在分析历史史料与解决物理方程时，会瞬间动态激活完全不同的认识论预设；而 Muis et al. (2006) 则进一步系统化了这种[[Domain Specificity|领域特异性]]的理论框架。
 
 > [!feature] 认识论认知的微观构成
-> 根据 Chinn et al. (2011) 的整合框架，真正的认识论认知必须包含五个排他性微观组件：
+> 根据 [[Argument_Chinn_2011_EP|Chinn et al. (2011)]] 的整合框架，真正的认识论认知必须包含五个排他性微观组件：
 > - **认识目标与价值** 探究中追求真理或确证等目标。
 > - **知识结构** 包括普遍性与特殊性、[[Determinism|决定论]]与随机性。
 > - **来源与确证** 涵盖感知、推理、证词及不同情境下的[[Justificatory Standards|确证标准]]。
@@ -146,6 +153,16 @@ updated: 2026-08-20
 
 ---
 
+### 命题三　认识论认知在学科论证中展现为目标、理想与可靠过程三元架构的实质协调
+
+> [!concept-lens] 论证评价中认识论认知的实践具身与学科实质维度
+> 探究认识论认知在真实科学探究任务中如何外显化，论证科学论证评估何以必须超越外在句法结构而转向认识论实质。
+
+> [!claim] Duncan, R. G. & [[Clark A. Chinn|Chinn, C. A.]]
+> **[[AIR Model of Epistemic Cognition|AIR]]三元协调决定论证实质** 认识论认知在科学论证实践中具体具身为探究目标（[[Epistemic Aims]]）、评价准则（[[Epistemic Ideals]]）与生成程序（[[Reliable Epistemic Processes]]）三者的协同运作。传统基于 Toulmin 或 CER 的结构分析仅能评价主张、数据与推理等表面句法部件，无法甄别结构完备但缺乏认识论确证力的伪科学论证；唯有深入考察论证者在证据选择、模型裁决与方法质询中调动的认识论理想（如全证据契合、多源收敛）及对过程因果条件的审视，才能揭示认识论认知的真实运作水准，并以此作为培育学生认识主体性的核心杠杆。[[Argument_Duncan_2025_CI|(Duncan & Chinn, 2025, pp. 202–204, 209–211, 222–223)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
@@ -153,6 +170,7 @@ updated: 2026-08-20
 > |---|---|---|---|
 > | **微观资源与多层系统** | 认识论认知的内在结构是高度情境化的资源池，需从微观个体至宏观共同体多层分析 | 认知访谈、课堂[[Ethnography\|民族志]]、[[Discourse Analysis\|话语分析]] | Chinn; Sandoval |
 > | **对齐法则与信度决定论** | 只有确保测量颗粒度严格对齐并提高工具信度，才能捕捉到其对高阶[[Academic Achievement\|学业成就]]的真实影响 | 心理测量工具设计、量化回归、[[Meta-analysis\|元分析]] | Greene |
+> | **论证具身与认识论实质** | 认识论认知具身为AIR三元实质协调，超越单纯句法结构并深植于学科实体推理 | 科学论证教学与评价、元认识论审议与认识主体性培育 | Duncan & Chinn |
 
 ---
 
@@ -160,9 +178,10 @@ updated: 2026-08-20
 
 > [!dev-timeline] 概念演变
 > - **1970–1994 — 起源阶段：发展模型** Perry (1970) 和 Kuhn (1991) 确立了个体[[Epistemology|认识论]]从绝对主义到评价主义的宏大线性发展阶段。
-> - **1990–1997 — 扩展阶段：多维模型** Schommer (1990) 以及 Hofer & Pintrich (1997) 打破了单维发展观，提出知识确定性、来源等多维独立的信念系统。
+> - **1990–1997 — 扩展阶段：多维模型** Schommer (1990) 以及 [[Argument_Hofer_1997_RER|Hofer & Pintrich (1997)]] 打破了单维发展观，提出知识确定性、来源等多维独立的信念系统。
 > - **2001–2006 — 转向阶段：学科/领域驱动模型** Elby & Hammer (2001) 提出微观的[[Epistemic Resources|认识论资源]]，Muis et al. (2006) 确立了情境依赖性，摒弃了跨领域稳定特质的[[Hypothesis|假设]]。
-> - **2011至今 — 教育研究应用：哲学驱动与整合框架** [[Argument_Chinn_2011_EP|Chinn et al. (2011)]] 与 Sandoval et al. (2016) 提出了基于规范哲学与多层系统的整合框架；[[Argument_Greene_2018_JEP|Greene et al. (2018)]] 的[[Meta-analysis|元分析]]确立了该领域的实证基准。
+> - **2011–2018 — 教育研究应用：哲学驱动与整合框架** [[Argument_Chinn_2011_EP|Chinn et al. (2011)]] 与 [[Argument_Sandoval_2016_RRE|Sandoval et al. (2016)]] 提出了基于规范哲学与多层系统的整合框架；[[Argument_Greene_2018_JEP|Greene et al. (2018)]] 的[[Meta-analysis|元分析]]确立了该领域的实证基准。
+> - **2025 — 实践与论证转向：认识论实质与主体性** [[Argument_Duncan_2025_CI|Duncan & Chinn (2025)]] 将 [[AIR Model of Epistemic Cognition|AIR]] 框架[[Operationalization|操作化]]为科学论证评价的中位规范模板，推动认识论认知从静态信念测量全面走向探究实践中的学科认识论实质与共同体认识主体性建构。
 
 ---
 
@@ -221,3 +240,4 @@ updated: 2026-08-20
 > - [[Argument_Sandoval_2016_RRE|Sandoval et al. (2016)]] — 系统梳理了该领域的四大理论断层（[[Ontology|本体论]]、情境性、发展轨迹、方法论），并提出了打通个体、互动与系统层级的“[[Integrative Pluralism|整合多元主义]]”主张。
 > - [[Argument_Greene_2018_JEP|Greene et al. (2018)]] — 提供了一项大规模的[[Meta-analysis|元分析]]，评估了认识论认知对[[Academic Achievement|学业成就]]的预测效应，澄清了[[Reliability|信度]]与对齐规则的核心地位。
 > - [[Argument_Song_Choi_2026_FPSYG|Song & Choi (2026)]] — 采用[[Three-Level Meta-Analysis|三层元分析]]模型综合韩国中小学生 512 个[[Effect Size|效应量]]，证实认识论认知与学习成果呈小到中等正相关（r = 0.191），并揭示学段与[[Construct|构念]]维度的关键[[Interaction Effect|调节效应]]。
+> - [[Argument_Duncan_2025_CI|Duncan & Chinn (2025)]] — 将 [[AIR Model of Epistemic Cognition|AIR]] 认识论认知模型[[Operationalization|操作化]]为科学论证评价体系，构建观察与证据整合的规范模板，实证揭示[[Epistemic Ideals|认识论理想]]与[[Reliable Epistemic Processes|可靠过程]]对论证实质的决定机制。
