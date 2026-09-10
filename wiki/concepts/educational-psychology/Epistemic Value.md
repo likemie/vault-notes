@@ -6,10 +6,10 @@ aliases:
 summary: "在认识论认知模型中，个体对特定认识成就（如深层机制理解、理论建构或实操技巧）所赋予的相对主观价值与意义评估，决定了探究资源与认知努力的分配。"
 type: concept
 domain: "educational-psychology"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 11
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/epistemic-cognition
   - theme/science-education

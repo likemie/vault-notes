@@ -6,10 +6,10 @@ aliases:
 summary: "在认识论认知AIR模型中，指引探究、发现与信念形成过程的规范性意向与认知成就追求，是区分认识论认知与非认识论认知的根本标尺。"
 type: concept
 domain: "educational-psychology"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 16
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/epistemic-cognition
   - theme/argumentation

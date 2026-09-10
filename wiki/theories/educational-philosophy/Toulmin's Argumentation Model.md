@@ -9,10 +9,10 @@ aliases:
 summary: "Toulmin 提出的领域依赖论证结构模型，将论证拆解为主张、数据、保证、支撑、限定词与反驳六个部件；当代科学教育批判其纯句法结构无法甄别披着规范外衣的伪科学论证。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 0
-theory_related_level: 0
-theory_related_stars: "☆"
-theory_related_color: "#e5e7eb"
+theory_related_count: 15
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
   - theme/argumentation
   - theme/critical-thinking
