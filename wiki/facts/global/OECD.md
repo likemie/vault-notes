@@ -10,10 +10,10 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 23
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
-fact_related_color: "#dcfce7"
+fact_related_count: 45
+fact_related_level: 5
+fact_related_stars: "⭐⭐⭐⭐⭐"
+fact_related_color: "#fecdd3"
 org_type: intergovernmental
 headquarters: 巴黎（法国）
 established: 1961
