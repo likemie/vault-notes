@@ -488,7 +488,7 @@ def update_research_map_stats(dry_run: bool = False, check: bool = False) -> int
         count = count_typed_entries(ROOT / "wiki" / directory_name, entry_type)
         counts.append((label, count))
         pattern = re.compile(
-            rf'(<a href="/wiki/{re.escape(directory_name)}"><span>{re.escape(label)}</span><strong>)'
+            rf'(<a href="/bases/{re.escape(directory_name)}"><span>{re.escape(label)}</span><strong>)'
             r"\d+(</strong></a>)"
         )
         next_text, replacements = pattern.subn(rf"\g<1>{count}\g<2>", next_text, count=1)
