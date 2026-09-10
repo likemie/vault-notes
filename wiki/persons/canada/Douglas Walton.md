@@ -50,10 +50,10 @@ updated: 2026-09-10
 
 > [!person-profile] 人物档案
 > - **身份位置** 加拿大哲学家、逻辑学家（1942–2020），曾任温莎大学推理、论辩与修辞研究中心杰出研究员，非形式逻辑与辩证法领域的奠基性人物。
-> - **核心角色** 在当代论辩理论网络中，他突破了形式逻辑的形式有效性禁锢，系统建构了以“假定性推理”与“可撤销论式”为核心的论证分析学派。
+> - **核心角色** 在当代论辩理论网络中，他突破了形式逻辑的形式有效性禁锢，系统建构了以"假定性推理"与"可撤销论式"为核心的论证分析学派。
 > - **代表贡献** 创立[[Walton's Argumentation Schemes|沃尔顿论证型式]]理论（包含 60 余种论证型式与批判性提问体系），重构谬误理论（将传统谬误视作语用[[Dialogue in Education|对话]]中举证责任的转移失败），推动了人工智能论辩计算与科学教育论辩评估的发展。
 
-> [!citation-card] 人物定位的关键来源
+> [!citation-card]- 人物定位的关键来源
 > 沃尔顿将论证型式定义为日常话语中假定性推理的规范性结构，通过提出批判性提问清单来探测论证的漏洞并转移举证责任。[[Argument_Duncan_2025_CI|(Duncan & Chinn, 2025, pp. 223–225)]]
 >
 > *Walton defined argumentation schemes as forms of argument that represent structures of presumptive reasoning used in everyday discourse, accompanied by sets of critical questions that guide probing of the argument.*
@@ -98,15 +98,42 @@ updated: 2026-09-10
 > - **理论路径** 彻底重塑了非形式逻辑学界对传统逻辑谬误（如诉诸权威、诉诸无知、人身攻击）的理解，将其从绝对逻辑死穴转化为在特定语用条件下具有假定效力的论辩型式。
 > - **方法路径** 批判性提问清单成为人际[[Dialogue in Education|对话]][[Coding in Qualitative Research|编码]]、法律事实推论与法庭论辩质证的经典[[Operationalization|操作化]]分析工具。
 > - **教育传播** 自 2000 年代后期被引入科学教育（如 Richard Duschl 与 E. Michael Nussbaum 等人），用于设计[[Classroom Debate|课堂辩论]]评价量表与学生[[Critical Thinking|批判性思维]]支架。
-> - **[[Epistemology|认识论]]局限与批评** 拉维特·格兰·邓肯与[[Clark A. Chinn|克拉克·钦]]系统指出其理论在科学领域的边界：沃尔顿模型未提供提问标准的认识论与因果哲学依据、无法处理海量收敛证据群的统计合成，且在双方分歧时缺乏终审裁决机制。[[Argument_Duncan_2025_CI|(Duncan & Chinn, 2025, pp. 223–225)]]
 
 ---
 
-## 相关条目
+## 历史评价
+
+> [!citation-card] Duncan & Chinn 论沃尔顿理论在科学教育中的遗产
+> 沃尔顿的论证型式体系为科学教育中将论辩分析形式化提供了最系统的现有工具，但其批判性提问清单本身并不说明哪类问题在科学知识建构中具有认识论优先性，亦未提供在分歧时终审证据冲突的裁决依据。[[Argument_Duncan_2025_CI|(Duncan & Chinn, 2025, pp. 223–225)]]
+>
+> *While Walton's schemes provide the most systematic formalization of argument patterns currently available, the critical questions alone do not specify which epistemic standards govern scientific inquiry or how to adjudicate conflicting evidence.*
+
+---
+
+## 关系网络
+
+> [!person-network] 关系网络
+> - **合作者** Chris Reed、Fabrizio Macagno — 共同编著 2008 年版 *Argumentation Schemes*，将型式系统扩充至计算论辩学领域。
+> - **批评者** [[Clark A. Chinn|克拉克·钦]]、拉维特·格兰·邓肯 — 在科学论证评价框架建构中系统指出沃尔顿模型的三维局限：缺乏认识论规范来源、无法处理大规模证据统合、缺乏冲突裁决机制。[[Argument_Duncan_2025_CI|(Duncan & Chinn, 2025, pp. 223–225)]]
+> - **理论继承** 图尔敏（Stephen Toulmin）的非形式论证结构理论是沃尔顿论辩型式体系最直接的思想先驱。
+
+---
+
+## 争议与批评
+
+> [!critique]- 批评索引
+> - [[Argument_Duncan_2025_CI]] — 指出沃尔顿论证型式在科学论证评价中存在三重局限：① 批判性提问清单未提供认识论与因果哲学依据；② 无法处理海量收敛证据的统计合成；③ 在双方分歧时缺乏终审裁决机制。[[Argument_Duncan_2025_CI|(Duncan & Chinn, 2025, pp. 223–225)]]
+
+> [!warning] 未解问题与边界
+> 沃尔顿理论在科学教育的主要边界在于：论证型式描述推理结构，但不规定科学推理中何种证据层级具有认识论优先性。这一空缺促使后继研究者（如 Duncan & Chinn）转向将[[AIR Model of Epistemic Cognition|AIR 认识论模型]]与批判性提问清单系统整合的方向。
+
+---
+
+## 条目关联
 
 > [!entry-map]
 >
-> | 条目 | 类型 | 关系 |
+> | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Walton's Argumentation Schemes]] | 理论 | 沃尔顿创立的核心论辩型式理论与批判性提问体系。 |
-> | [[Argument_Duncan_2025_CI\|Duncan & Chinn (2025)]] | 论证 | 将沃尔顿论辩型式与 [[AIR Model of Epistemic Cognition\|AIR]] [[Epistemology\|认识论]]评价框架进行[[Luhmann's Systems Theory\|系统理论]]对质的关键[[Document\|文献]]。 |
+> | [[Argument_Duncan_2025_CI\|Duncan & Chinn (2025)]] | 论证 | 将沃尔顿论辩型式与[[AIR Model of Epistemic Cognition\|AIR]][[Epistemology\|认识论]]评价框架进行系统对质的关键[[Document\|文献]]。 |
