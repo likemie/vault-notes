@@ -8,10 +8,10 @@ aliases:
 summary: "在认识论认知AIR模型中，用于评估科学模型、解释、论证与证据等认识产出质量的规范性标准与评价准则。"
 type: concept
 domain: "educational-psychology"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 19
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/epistemic-cognition
   - theme/argumentation
@@ -185,7 +185,7 @@ updated: 2026-09-10
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Duncan_2025_CI\|Duncan & Chinn (2025)]] | $N = 332$ 名七年级学生，来自美国东部 24 个初中科学课堂 | [[Qualitative Content Analysis\|质性文本分析]]与课堂[[Discourse Analysis\|话语分析]]（基于 PRACCIS 课程干预） | 书面论证与口头话语中认识论理想（全证据契合、直接性、决定性、收敛性）的调用 | 质性展现：优秀学生自发调用全证据契合与多源收敛反驳弱证据；部分学生因缺乏同源性知识而机械排斥间接证据 | — | 质性概念验证；揭示了认识论理想与学科实体知识的纠缠，未建立大规模标准化评分常模 |
+> | [[Argument_Duncan_2025_CI\|Duncan & Chinn (2025)]] | $N = 332$ 名七年级学生，来自美国东部 24 个初中科学课堂 | [[Qualitative Content Analysis\|质性文本分析]]与课堂[[Discourse Analysis\|话语分析]]（基于 PRACCIS 课程干预） | 书面论证与口头话语中[[Epistemology\|认识论]]理想（全证据契合、直接性、决定性、收敛性）的调用 | 质性展现：优秀学生自发调用全证据契合与多源收敛反驳弱证据；部分学生因缺乏同源性知识而机械排斥间接证据 | — | 质性概念验证；揭示了认识论理想与学科实体知识的纠缠，未建立大规模标准化评分常模 |
 
 ---
 

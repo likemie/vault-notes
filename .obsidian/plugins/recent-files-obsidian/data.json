@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Toulmin's Argumentation Model",
+      "path": "wiki/theories/educational-philosophy/Toulmin's Argumentation Model.md"
+    },
+    {
       "basename": "Argument_Duncan_2025_CI",
       "path": "wiki/arguments/journal-articles/Cognition and Instruction/Argument_Duncan_2025_CI.md"
+    },
+    {
+      "basename": "Epistemic Value",
+      "path": "wiki/concepts/educational-psychology/Epistemic Value.md"
+    },
+    {
+      "basename": "Epistemic Ideals",
+      "path": "wiki/concepts/educational-psychology/Epistemic Ideals.md"
+    },
+    {
+      "basename": "Epistemic Aims",
+      "path": "wiki/concepts/educational-psychology/Epistemic Aims.md"
+    },
+    {
+      "basename": "AIR Model of Epistemic Cognition",
+      "path": "wiki/theories/educational-psychology/AIR Model of Epistemic Cognition.md"
+    },
+    {
+      "basename": "Discourse Analysis",
+      "path": "wiki/methods/qualitative/Discourse Analysis.md"
+    },
+    {
+      "basename": "Jack Douglas",
+      "path": "wiki/persons/us/Jack Douglas.md"
     },
     {
       "basename": "Epistemic Cognition",
@@ -11,18 +39,6 @@
     {
       "basename": "Reliable Epistemic Processes",
       "path": "wiki/concepts/educational-psychology/Reliable Epistemic Processes.md"
-    },
-    {
-      "basename": "AIR Model of Epistemic Cognition",
-      "path": "wiki/theories/educational-psychology/AIR Model of Epistemic Cognition.md"
-    },
-    {
-      "basename": "Epistemic Ideals",
-      "path": "wiki/concepts/educational-psychology/Epistemic Ideals.md"
-    },
-    {
-      "basename": "Toulmin's Argumentation Model",
-      "path": "wiki/theories/educational-philosophy/Toulmin's Argumentation Model.md"
     },
     {
       "basename": "21st Century Skills and Competencies Discourse",
@@ -109,10 +125,6 @@
       "path": "wiki/concepts/curriculum/Creativity, Action, Service.md"
     },
     {
-      "basename": "Jack Douglas",
-      "path": "wiki/persons/us/Jack Douglas.md"
-    },
-    {
       "basename": "Thomas Kuhn",
       "path": "wiki/persons/us/Thomas Kuhn.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Ethogenic Approach",
       "path": "wiki/methods/qualitative/Ethogenic Approach.md"
-    },
-    {
-      "basename": "Jürgen Habermas",
-      "path": "wiki/persons/germany/Jürgen Habermas.md"
-    },
-    {
-      "basename": "Paradigm Wars",
-      "path": "wiki/concepts/research-methodology/Paradigm Wars.md"
-    },
-    {
-      "basename": "Positivism",
-      "path": "wiki/concepts/research-methodology/Positivism.md"
     }
   ],
   "omittedPaths": [],

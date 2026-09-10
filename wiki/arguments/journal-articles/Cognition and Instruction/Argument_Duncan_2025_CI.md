@@ -47,8 +47,8 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Proof of Concept Programs]]"
 related_theories:
-  - "[[AIR Model of Epistemic Cognition]]"
   - "[[Toulmin's Argumentation Model]]"
+  - "[[AIR Model of Epistemic Cognition]]"
   - "[[Reliabilism]]"
 related_methods:
   - "[[Discourse Analysis]]"
@@ -91,7 +91,7 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> 过去二十年间，科学教育研究者与政策制定者普遍将论证能力确立为[[21st Century Skills and Competencies Discourse|核心素养]]目标。然而，学界长期占主导地位的评价方案高度依赖图尔敏论证型式（Toulmin's Argument Pattern, TAP）及其衍生的结构主义进路（如主张-证据-推理，Claim-Evidence-Reasoning, CER，框架），仅根据是否具备特定句法部件评判论证优劣。在当下错误信息与虚假信息泛滥的社会语境中，气候变暖否定论与反疫苗言论等充斥伪科学逻辑的文本，往往在结构复杂性上表现优异，而结构分析对此类[[Epistemology|认识论]]缺陷彻底失明。科学教育亟需建立一套怎样的理论评价框架，方能超越单纯的外部句法结构，系统捕捉科学论证背后的认识论实质与证据因果[[Reliability|信度]]？（pp. 201–204）
+> 过去二十年间，科学教育研究者与政策制定者普遍将论证能力确立为[[21st Century Skills and Competencies Discourse|核心素养]]目标。然而，学界长期占主导地位的评价方案高度依赖图尔敏论证型式（Toulmin's Argument Pattern, [[Toulmin's Argumentation Model|TAP]]）及其衍生的结构主义进路（如主张-证据-推理，Claim-Evidence-Reasoning, CER，框架），仅根据是否具备特定句法部件评判论证优劣。在当下错误信息与虚假信息泛滥的社会语境中，气候变暖否定论与反疫苗言论等充斥伪科学逻辑的文本，往往在结构复杂性上表现优异，而结构分析对此类[[Epistemology|认识论]]缺陷彻底失明。科学教育亟需建立一套怎样的理论评价框架，方能超越单纯的外部句法结构，系统捕捉科学论证背后的认识论实质与证据因果[[Reliability|信度]]？（pp. 201–204）
 
 > [!claim] 核心主张
 > 科学论证质量的评估必须实现从句法结构分析向认识论实质评估的[[Paradigm|范式]]转向。基于目标、理想与[[Reliable Epistemic Processes|可靠过程]]模型（Aims, Ideals, and Reliable Processes, [[AIR Model of Epistemic Cognition|AIR]]），优质科学论证不仅需要合理的结构形态，更本质地取决于论证者所调动的[[Epistemic Ideals|认识论理想]]（如全域证据契合、多源证据收敛、推论直接性与决定性），以及对证据生成中[[Reliable Epistemic Processes|可靠认识论过程]]及其因果约束条件的敏锐审查。（pp. 201–202, 210–211）

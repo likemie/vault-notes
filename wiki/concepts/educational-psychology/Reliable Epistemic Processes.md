@@ -8,10 +8,10 @@ aliases:
 summary: "在认识论认知AIR模型中，用于生成可信、有效认识产出的因果性认识过程及其适用与保障条件。"
 type: concept
 domain: "educational-psychology"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 29
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/epistemic-cognition
   - theme/argumentation
