@@ -40,16 +40,14 @@ related_concepts:
   - "[[Sample Size Determination]]"
   - "[[Independent Variable]]"
   - "[[Operationalization]]"
-  - "[[Variable]]"
   - "[[Construct Validity]]"
   - "[[Statistical Significance]]"
   - "[[Study Population and Sample]]"
   - "[[Reflexivity]]"
-  - "[[Scaffolding]]"
   - "[[Habitus]]"
+  - "[[Variable]]"
   - "[[Formative Assessment]]"
   - "[[Analytic Framework]]"
-  - "[[Proof of Concept Programs]]"
 related_theories:
   - "[[Toulmin's Argumentation Model]]"
   - "[[AIR Model of Epistemic Cognition]]"
@@ -293,10 +291,10 @@ AIR 模型由[[Clark A. Chinn|克拉克·钦]]（[[Clark A. Chinn]]）等学者�
 > *“However, the most convincing piece of evidence in my opinion is evidence four, the Paxton study. This is because it pertains not merely to a variant of HIV, but to HIV itself. 25 people were taken and tested for traces of HIV, ones who had had much exposure to HIV, and yet, 100% of people tested HIV negative, and it seems improbable to me that 100% of the people, who had been exposed so many times to the disease would be completely devoid of it unless there was some sort of a resistant factor... Also, there were 25 people in the study. This is a good amount of people considering all of them showed some resistance... even if they were exposed to high levels of HIV.”*
 
 > [!factors] 学生对 Paxton 研究可靠过程的具体审视维度（[[Argument_Duncan_2025_CI|Duncan & Chinn, 2025, p. 215]]）
-> - **[[Independent Variable|自变量]][[Operationalization|操作化]]的靶向性与直接性（[[Variable|variables]] Tested）** 肯定研究直接针对人类免疫缺陷病毒（HIV）本体进行因果测试，而非依赖猫科（FIV）或灵长类（SIV）等动物近缘变体，排除了跨物种机制类比带来的[[Construct Validity|构念效度]]折损与推论损耗。
-> - **观测结果的[[Statistical Significance|统计显著性]]与反常度（Significance of the Results）** 敏锐结合受试者“多次高危暴露”的前置背景条件，指出“100% 血液检测呈阴性”在概率上具有极高的反常度（在多次暴露下全员免于感染的随机概率趋近于零），从而强力确立了内在生理抗性因子的必然存在。
-> - **样本量与现象效应强度的适配性（Sample Size Adequacy）** 深刻洞察到[[Sample Size Determination|样本量]]规模诉求与底层现象效应强度的权衡关系：意识到在 25 例样本全员展现抗性表型的高均一性规律下，25 人的样本规模已具备充分的统计检验力与因果解释力，无需盲目迷信大样本。
-> - **应激实验程序的严谨性与耐受梯度（Rigor of Testing）** 关注到实验并非仅做单一低剂量接触，而是设计了递增的病毒载量梯度测试；受试细胞在面临极高浓度病毒载量的强应激攻击下依然表现出抗性，验证了因果机制在极端条件下的稳健性。
+> - **[[Independent Variable|自变量]][[Operationalization|操作化]]的靶向性与直接性** 肯定研究直接针对人类免疫缺陷病毒（HIV）本体进行因果测试，而非依赖猫科（FIV）或灵长类（SIV）等动物近缘变体，排除了跨物种机制类比带来的[[Construct Validity|构念效度]]折损与推论损耗。
+> - **观测结果的[[Statistical Significance|统计显著性]]与反常度** 敏锐结合受试者“多次高危暴露”的前置背景条件，指出“100% 血液检测呈阴性”在概率上具有极高的反常度（在多次暴露下全员免于感染的随机概率趋近于零），从而强力确立了内在生理抗性因子的必然存在。
+> - **样本量与现象效应强度的适配性** 深刻洞察到[[Sample Size Determination|样本量]]规模诉求与底层现象效应强度的权衡关系：意识到在 25 例样本全员展现抗性表型的高均一性规律下，25 人的样本规模已具备充分的统计检验力与因果解释力，无需盲目迷信大样本。
+> - **应激实验程序的严谨性与耐受梯度** 关注到实验并非仅做单一低剂量接触，而是设计了递增的病毒载量梯度测试；受试细胞在面临极高浓度病毒载量的强应激攻击下依然表现出抗性，验证了因果机制在极端条件下的稳健性。
 
 与此同时，学生在反驳证据 2（门诊化验助理访谈）时，自发给出了多维度的方法学因果解构（p. 215）：
 
@@ -312,7 +310,7 @@ AIR 模型由[[Clark A. Chinn|克拉克·钦]]（[[Clark A. Chinn]]）等学者�
 > [!factors] 学生解构弱证据可靠性的三大方法学洞察
 > - **空间与地域选择性偏差** 识别出单一门诊就诊人群在地理与生态分布上的狭隘性，推论不可外推。
 > - **时间窗口与事件罕见性的交互制约** 洞悉统计检出概率原理：对于低发生率的罕见基因变异，5 年的偶发观察窗口严重不足以捕捉到罕见突变个体。
-> - **[[Study Population and Sample|目标总体]]错位与情境选择机制** 直击最核心的方法学因果逻辑：具备抗性者因天然免于发病而根本不会前往诊所就医；以门诊患者为抽样池犯下了根本性的抽样偏差（Selection Bias）。
+> - **[[Study Population and Sample|目标总体]]错位与情境选择机制** 直击最核心的方法学因果逻辑：具备抗性者因天然免于发病而根本不会前往诊所就医；以门诊患者为抽样池犯下了根本性的抽样偏差。
 
 ---
 
@@ -337,7 +335,7 @@ AIR 模型由[[Clark A. Chinn|克拉克·钦]]（[[Clark A. Chinn]]）等学者�
 > 1. **初阶表面数据引述（Blair 与 James）**
 >    Blair 与 James 首先发言，直接将登记簿记录的目击数字减少等同于野外真实种群衰退。
 >    *James*：“因为去年3月只有11只狐狸被看到，但前年总共有16只被看到。”
-> 2. **教师的[[Reflexivity|反思性]]促学提问（Teacher [[Scaffolding]]）**
+> 2. **教师的[[Reflexivity|反思性]]促学提问**
 >    教师并未直接裁决正误，而是向全班抛出评价性问题，搭建认识论审议支架：
 >    *教师*：“大家对 Blair 刚才所说的有什么想法吗？”（*Did anyone have some thoughts about what she was saying?*）
 > 3. **物理环境可观测性与测量合理性质疑（Candace 与 Andy）**
@@ -385,13 +383,13 @@ AIR 模型由[[Clark A. Chinn|克拉克·钦]]（[[Clark A. Chinn]]）等学者�
 > [!coding-frame] 观察实践的认识论理想与可靠过程（Table 1, p. 219）
 > | 构件类别 | 核心标准与规程内容 |
 > |---|---|
-> | **[[Epistemic Ideals\|认识论理想]]** | **鉴别性（Discrimination）** 能将相关类别实例从相似背景中清晰区分。<br>**分类准确性（Classification）** 根据科学标准正确归档。<br>**定量精准性（Accuracy）** 真实反映实体或事件的发生频数与规模。 |
+> | **[[Epistemic Ideals\|认识论理想]]** | **鉴别性** 能将相关类别实例从相似背景中清晰区分。<br>**分类准确性** 根据科学标准正确归档。<br>**定量精准性** 真实反映实体或事件的发生频数与规模。 |
 > | **[[Reliable Epistemic Processes\|可靠认识论过程]]** | 1. 在清晰无遮挡且距离适宜的条件下进行观察。<br>2. 将观察方案与被观察对象的特征及栖息环境紧密对齐，确保观察机会。<br>3. 观察者必须具备充分的专业资质以鉴别和分类所见对象。<br>4. 在时间与空间跨度上系统进行并记录观察；保持充分的观察次数。<br>5. 使用适宜工具与技术拓展人类感官局限（如野外红外遥控相机、显微镜）。<br>6. 遵循公认方法处理待观察样本（如电子显微镜制样规程）。<br>7. 采取工具与程序防范主观偏差（如双盲设计、评分员一致性检验、比色卡）。 |
 
 > [!coding-frame] 证据整合实践的认识论理想与可靠过程（Table 2, p. 220）
 > | 构件类别 | 核心标准与规程内容 |
 > |---|---|
-> | **[[Epistemic Ideals\|认识论理想]]** | 1. **大规模高质量支持性证据（Large quantities of high-quality supportive evidence）**。<br>2. **缺乏高质量相反证据（Absence of high-quality contradictory evidence）**。<br>3. **证据类型的多样性（Variety of evidence, i.e., multiple lines or types of evidence）**。 |
+> | **[[Epistemic Ideals\|认识论理想]]** | 1. **大规模高质量支持性证据**。<br>2. **缺乏高质量相反证据**。<br>3. **证据类型的多样性**。 |
 > | **[[Reliable Epistemic Processes\|可靠认识论过程]]** | 1. 基于大规模证据合成（系统综述、元分析、共识报告）作出判断，纳入全部相关数据，严禁选择性报告。<br>2. 运用彻底的文献检索与识别程序全面定位特定主题的所有高质量证据。<br>3. 依托深谙领域全景证据的专家同行总体评估，而非孤立单篇报告。<br>4. 运用客观公正的程序按照研究质量与强度对证据赋予权重。<br>5. 优先采纳获得多元独立研究进路支持的主张，而非仅凭单一脉络支持。 |
 
 #### 2. 与既有代表性评价方案的深度理论对质
@@ -411,9 +409,9 @@ AIR 论证评价方案与非形式逻辑领域的著名框架存在深层差异�
 科学探究教学必须超越教师告知正确规则的被动模式，引导学生直面真实探究中的认识混乱（epistemic messiness），在元认识论层面反思评判准则的合理性（pp. 222–223）：
 
 > [!chain-link] 从规则遵循走向认识主体性的机制链条
-> - **前提：直面探究真实困境** 学生在探究中亲身遭遇混淆变量、样本偏差或相互冲突的证据。（pp. 222–223）
+> - **前提：直面探究真实困境** 学生在探究中亲身遭遇混淆[[Variable|变量]]、样本偏差或相互冲突的证据。（pp. 222–223）
 > - **机制：开展元认识论辩护** 组织课堂讨论，要求学生不仅回答选择何种结论，而且辩护为何在此情境下双盲法或多源证据比个人经验更可信。（p. 222）
-> - **结论：确立认识主体性与教育公平** 学生成为科学知识与标准的共同构建者（epistemic agency），特别是边缘群体学生的经验视角获得充分赋权，消除认识边缘化与认识不正义。（p. 223）
+> - **结论：确立认识主体性与教育公平** 学生成为科学知识与标准的共同构建者，特别是边缘群体学生的经验视角获得充分赋权，消除认识边缘化与认识不正义。（p. 223）
 
 ---
 
@@ -455,10 +453,10 @@ AIR 论证评价方案与非形式逻辑领域的著名框架存在深层差异�
 ## 自述局限
 
 > [!warning] 原文自述局限与边界条件
-> - **实证证据的探索性与概念验证性质** 本文呈现的书面与口头[[Discourse Analysis|话语分析]]旨在提供理论[[Analytic Framework|分析框架]]的概念验证（[[Proof of Concept Programs|proof of concept]]），样本来自特定教学干预项目（PRACCIS）的初中课堂，尚未在更广泛的学科学段或常态教学中建立大规模的统计标准化评分常模。（pp. 211–212）
-> - **未纳入[[Epistemic Aims|认识目标]]的独立[[Coding in Qualitative Research|编码]]** 鉴于本研究依托的课程任务由教材预设了明确的认识目标（即在备选模型间作出判别并撰写说服性论证），因此未对 [[AIR Model of Epistemic Cognition|AIR]] 模型中的认识目标（Aims）构件展开系统实证编码，未来研究需在目标开放的探究情境中考察三者的完整互动。（p. 208）
+> - **实证证据的探索性与概念验证性质** 本文呈现的书面与口头[[Discourse Analysis|话语分析]]旨在提供理论[[Analytic Framework|分析框架]]的概念验证，样本来自特定教学干预项目（PRACCIS）的初中课堂，尚未在更广泛的学科学段或常态教学中建立大规模的统计标准化评分常模。（pp. 211–212）
+> - **未纳入[[Epistemic Aims|认识目标]]的独立[[Coding in Qualitative Research|编码]]** 鉴于本研究依托的课程任务由教材预设了明确的认识目标（即在备选模型间作出判别并撰写说服性论证），因此未对 [[AIR Model of Epistemic Cognition|AIR]] 模型中的认识目标构件展开系统实证编码，未来研究需在目标开放的探究情境中考察三者的完整互动。（p. 208）
 > - **学科知识与[[Epistemology|认识论]]推理的分离难题** 在论证分析中，极难将学生的学科实体知识缺陷与不良认识论推理完全剥离，二者往往深度交织，这给标准化测评工具的开发带来了复杂的测量挑战。（pp. 221–222）
-> - **[[Reliable Epistemic Processes|可靠过程]]数量庞大带来的教学粒度挑战** 科学实践中具体的可靠认识过程极其繁复、领域依赖且随技术发展动态变化，如何在有限的课堂教学时间内确定最为核心的教学目标粒度（appropriate grain-size）与进阶序列，仍需长期的实证探索。（pp. 222, 224）
+> - **[[Reliable Epistemic Processes|可靠过程]]数量庞大带来的教学粒度挑战** 科学实践中具体的可靠认识过程极其繁复、领域依赖且随技术发展动态变化，如何在有限的课堂教学时间内确定最为核心的教学目标粒度与进阶序列，仍需长期的实证探索。（pp. 222, 224）
 
 ---
 
