@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Toulmin's Argumentation Model",
-      "path": "wiki/theories/educational-philosophy/Toulmin's Argumentation Model.md"
-    },
-    {
       "basename": "Argument_Duncan_2025_CI",
       "path": "wiki/arguments/journal-articles/Cognition and Instruction/Argument_Duncan_2025_CI.md"
+    },
+    {
+      "basename": "Justificatory Standards",
+      "path": "wiki/concepts/educational-psychology/Justificatory Standards.md"
+    },
+    {
+      "basename": "Toulmin's Argumentation Model",
+      "path": "wiki/theories/educational-philosophy/Toulmin's Argumentation Model.md"
     },
     {
       "basename": "Epistemic Value",
@@ -195,10 +199,6 @@
     {
       "basename": "Rich and Thick Description",
       "path": "wiki/concepts/research-methodology/Rich and Thick Description.md"
-    },
-    {
-      "basename": "Ethogenic Approach",
-      "path": "wiki/methods/qualitative/Ethogenic Approach.md"
     }
   ],
   "omittedPaths": [],
