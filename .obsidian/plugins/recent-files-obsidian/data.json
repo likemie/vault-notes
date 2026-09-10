@@ -1,6 +1,78 @@
 {
   "recentFiles": [
     {
+      "basename": "CALLOUTS",
+      "path": "wiki/templates/CALLOUTS.md"
+    },
+    {
+      "basename": "CALLOUTS-PREVIEW",
+      "path": "wiki/templates/CALLOUTS-PREVIEW.md"
+    },
+    {
+      "basename": "Generative Artificial Intelligence",
+      "path": "wiki/concepts/educational-technology/Generative Artificial Intelligence.md"
+    },
+    {
+      "basename": "Argument_Creswell_2022_SAGE",
+      "path": "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md"
+    },
+    {
+      "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30",
+      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30.md"
+    },
+    {
+      "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13",
+      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13.md"
+    },
+    {
+      "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12",
+      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12.md"
+    },
+    {
+      "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11",
+      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11.md"
+    },
+    {
+      "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10",
+      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10.md"
+    },
+    {
+      "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09",
+      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09.md"
+    },
+    {
+      "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08",
+      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08.md"
+    },
+    {
+      "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07",
+      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07.md"
+    },
+    {
+      "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06",
+      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06.md"
+    },
+    {
+      "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05",
+      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05.md"
+    },
+    {
+      "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04",
+      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04.md"
+    },
+    {
+      "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03",
+      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03.md"
+    },
+    {
+      "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02",
+      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02.md"
+    },
+    {
+      "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge",
+      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge.md"
+    },
+    {
       "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01",
       "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01.md"
     },
@@ -17,16 +89,8 @@
       "path": "wiki/persons/us/Thomas Kuhn.md"
     },
     {
-      "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge",
-      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge.md"
-    },
-    {
       "basename": "Anthony Giddens",
       "path": "wiki/persons/uk/Anthony Giddens.md"
-    },
-    {
-      "basename": "Argument_Creswell_2022_SAGE",
-      "path": "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md"
     },
     {
       "basename": "Literature Search",
@@ -35,10 +99,6 @@
     {
       "basename": "Argument_Abrami_2015_RER",
       "path": "wiki/arguments/journal-articles/Review of Educational Research/Argument_Abrami_2015_RER.md"
-    },
-    {
-      "basename": "Generative Artificial Intelligence",
-      "path": "wiki/concepts/educational-technology/Generative Artificial Intelligence.md"
     },
     {
       "basename": "Affective Outcomes",
@@ -63,10 +123,6 @@
     {
       "basename": "Axiology",
       "path": "wiki/concepts/educational-philosophy/Axiology.md"
-    },
-    {
-      "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02",
-      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02.md"
     },
     {
       "basename": "Unit of Analysis",
@@ -143,62 +199,6 @@
     {
       "basename": "Interpretive Paradigm",
       "path": "wiki/concepts/research-methodology/Interpretive Paradigm.md"
-    },
-    {
-      "basename": "Epistemology",
-      "path": "wiki/concepts/educational-philosophy/Epistemology.md"
-    },
-    {
-      "basename": "Teacher-as-Researcher",
-      "path": "wiki/concepts/research-methodology/Teacher-as-Researcher.md"
-    },
-    {
-      "basename": "Phenomenology",
-      "path": "wiki/theories/educational-philosophy/Phenomenology.md"
-    },
-    {
-      "basename": "Idiographic",
-      "path": "wiki/concepts/research-methodology/Idiographic.md"
-    },
-    {
-      "basename": "Auguste Comte",
-      "path": "wiki/persons/france/Auguste Comte.md"
-    },
-    {
-      "basename": "Nobel Prize in Physiology or Medicine",
-      "path": "wiki/facts/global/Nobel Prize in Physiology or Medicine.md"
-    },
-    {
-      "basename": "Harold Garfinkel",
-      "path": "wiki/persons/us/Harold Garfinkel.md"
-    },
-    {
-      "basename": "Symbolic Interactionism",
-      "path": "wiki/theories/sociology-of-education/Symbolic Interactionism.md"
-    },
-    {
-      "basename": "Artefact",
-      "path": "wiki/concepts/research-methodology/Artefact.md"
-    },
-    {
-      "basename": "Mixed Methods Research",
-      "path": "wiki/methods/mixed/Mixed Methods Research.md"
-    },
-    {
-      "basename": "Basil Bernstein",
-      "path": "wiki/persons/uk/Basil Bernstein.md"
-    },
-    {
-      "basename": "George Herbert Mead",
-      "path": "wiki/persons/us/George Herbert Mead.md"
-    },
-    {
-      "basename": "Alfred Schutz",
-      "path": "wiki/persons/austria/Alfred Schutz.md"
-    },
-    {
-      "basename": "Edmund Husserl",
-      "path": "wiki/persons/germany/Edmund Husserl.md"
     }
   ],
   "omittedPaths": [],
