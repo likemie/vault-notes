@@ -10,7 +10,7 @@ title: "Argument_Zheng_2023_ShanghaiSanlian"
 argument_key: "Argument_Zheng_2023_ShanghaiSanlian"
 argument_display_title: "金榜题名之后：大学生出路分化之谜"
 argument_kind: "book"
-argument_related_count: 105
+argument_related_count: 107
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Transcription in Qualitative Research]]"
   - "[[Questionnaire]]"
   - "[[Emergence]]"
+  - "[[Typification]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
   - "[[Self-Driven Mode]]"
@@ -89,6 +90,7 @@ related_concepts:
   - "[[Conatus]]"
   - "[[Work Meaning Schemas]]"
   - "[[Graduation Pathway Typology]]"
+  - "[[Determinism]]"
   - "[[Sense of Shame]]"
   - "[[Avatar]]"
   - "[[Refined Mastery]]"

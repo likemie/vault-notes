@@ -10,7 +10,7 @@ aliases:
 summary: "20世纪经典比较教育学中由汉斯集大成的核心分析范式，通过自然、宗教与世俗三维恒久力量解释民族国家教育制度的相貌生成与精神特质"
 type: concept
 domain: "comparative-education"
-related_count: 45
+related_count: 46
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Questionnaire]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
+  - "[[Determinism]]"
   - "[[Policy Borrowing]]"
   - "[[Problem Solving]]"
   - "[[Hypothesis]]"

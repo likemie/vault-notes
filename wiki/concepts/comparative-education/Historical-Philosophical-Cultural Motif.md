@@ -10,7 +10,7 @@ aliases:
 summary: "19世纪末至20世纪中叶主导比较教育学的核心认识论母题，将学科界定为探究历史因果与文化精神的广义人文科学，以民族国家与国民性为解释单元，服务于历史改良主义与自由民主价值"
 type: concept
 domain: "comparative-education"
-related_count: 44
+related_count: 46
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Operationalization]]"
   - "[[Variable]]"
+  - "[[Empiricism]]"
   - "[[Document]]"
   - "[[Analytic Framework]]"
   - "[[Sample Size Determination]]"
@@ -40,6 +41,7 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[Technical Rationality]]"
   - "[[Paideia]]"
+  - "[[Determinism]]"
   - "[[Bildung]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Rationalism in International Relations]]"

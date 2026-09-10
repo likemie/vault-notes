@@ -9,34 +9,60 @@ aliases:
 summary: "系统低阶组成部分遵循简单局部规则相互作用时自发产生高阶全局秩序与新结构的非线性动力学过程，整体大于部分之和且无法向下机械还原"
 type: concept
 domain: "research-methodology"
-related_count: 15
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 41
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - theme/complexity-theory
   - theme/systems-thinking
   - paradigm/complexity
   - qualitative-research
 related_concepts:
-  - "[[Virtual World]]"
-  - "[[Emergent Design]]"
   - "[[Interpretive Paradigm]]"
+  - "[[Epistemology]]"
+  - "[[Ontology]]"
+  - "[[Construct]]"
+  - "[[Variable]]"
+  - "[[Determinism]]"
+  - "[[Virtual World]]"
+  - "[[Unit of Analysis]]"
+  - "[[Positivism]]"
+  - "[[Paradigm]]"
+  - "[[Operationalization]]"
+  - "[[Hypothesis]]"
+  - "[[Progressive Focussing]]"
+  - "[[Reflexivity]]"
+  - "[[Causality]]"
+  - "[[Independent Variable]]"
+  - "[[Creativity, Action, Service]]"
+  - "[[Emergent Design]]"
+  - "[[Falsification]]"
+  - "[[Rich and Thick Description]]"
+  - "[[Effect Size]]"
+  - "[[Document]]"
+  - "[[Recommendations for Practice]]"
 related_theories:
   - "[[Complexity Theory]]"
+  - "[[Organizational Culture]]"
+  - "[[Phenomenology]]"
 related_methods:
-  - "[[Agent-based Modelling]]"
-  - "[[Grounded Theory]]"
   - "[[Qualitative Research]]"
+  - "[[Grounded Theory]]"
+  - "[[Agent-based Modelling]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Coding in Qualitative Research]]"
 related_instruments: []
 related_persons:
+  - "[[Stuart Kauffman]]"
   - "[[Yvonna S. Lincoln]]"
+  - "[[Keith Morrison]]"
   - "[[Egon G. Guba]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19]]"
   - "[[Argument_Brady_2023_EPR]]"
   - "[[Argument_Creswell_2022_SAGE]]"

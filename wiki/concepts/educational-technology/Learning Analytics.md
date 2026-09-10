@@ -8,7 +8,7 @@ aliases:
 summary: "通过收集、测量、分析和报告学习者及其环境的数字痕迹以理解和优化学习的技术与治理实践；既赋能个性化自适应与纵向学习增益测查，也在先发制人治理、算法主体性规训与构念简化上面临深刻伦理挑战。"
 type: concept
 domain: "educational-technology"
-related_count: 40
+related_count: 41
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -48,6 +48,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Variable]]"
   - "[[Growth]]"
+  - "[[Determinism]]"
   - "[[Educational Technology Industry]]"
   - "[[Transhumanism]]"
 related_theories:

@@ -8,7 +8,7 @@ aliases:
 summary: "指高等教育相对于国家和经济既受塑造又保有部分独立运作逻辑的状态，用于分析大学制度的相对自主性。"
 type: concept
 domain: "higher-education"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Scale in Higher Education]]"
   - "[[Multiplicity]]"
+  - "[[Determinism]]"
   - "[[Hypothesis]]"
 related_theories:
   - "[[World-Systems Theory]]"

@@ -7,7 +7,7 @@ summary: "荷兰教育哲学家，教育的美丽风险作者与教育目的论�
 type: person
 nationality: netherlands
 person_region: "netherlands"
-person_related_count: 25
+person_related_count: 26
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Phronesis]]"
   - "[[Learnification]]"
   - "[[Complexity Reduction]]"
+  - "[[Determinism]]"
   - "[[Ontology]]"
   - "[[Visible Learning]]"
   - "[[Dialogue in Education]]"
@@ -101,7 +102,7 @@ updated: '2026-06-08'
 > - [[Evidence-Based Education]] — 提出了证据本位教育在认识论、存在论和实践论维度的三重缺陷
 > - [[Value-Based Education]] — 提出价值而非证据应构成教育实践的基础
 > - [[Learnification]] — 提出概念描述学习被效果中心的结果逻辑所吞噬、教师被降格为"学习促进者"的现象([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.2 引用]])
-> - [[Complexity Reduction]] — 引入概念，解释为何在非决定论系统中事物仍能"运作"，将其定义为政治行为
+> - [[Complexity Reduction]] — 引入概念，解释为何在非[[Determinism|决定论]]系统中事物仍能"运作"，将其定义为政治行为
 > - **教育的目的三维框架（Qualification / Socialisation / Subjectification）**— 在 *Good Education in an Age of Measurement* (2010a) 中提出
 > - **教育作为开放、递归、符号系统的理论** — [[Argument_Wrigley_2019_ERE|Wrigley & McCusker (2019, p. 123)]] 援引 [[Argument_Biesta_2010_SPE|Biesta (2010, p. 496)]] 的关键区分：教育涉及"开放、递归、符号"系统，线性机械模型无法反映。这一[[Ontology|本体论]]分析被 Wrigley 用作批判 EBT 方法论的核心依据——"将开放系统视为封闭系统来对待是不科学的，将社会情境视为生物现象来对待也是不科学的"（p. 123）
 

@@ -10,7 +10,7 @@ aliases:
 summary: "18世纪欧洲以理性批判、经验科学、世俗化与普遍人权为核心的现代性奠基运动，主张摆脱未成熟状态，将公共教育确立为培育自主公民、重构公共领域、推进立宪法权与实现永久和平的本体机制"
 type: concept
 domain: "educational-philosophy"
-related_count: 30
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -32,8 +32,10 @@ related_concepts:
   - "[[Postmodernism]]"
   - "[[Epistemology]]"
   - "[[Scientific Method]]"
+  - "[[Grand Theory]]"
   - "[[Common School Movement]]"
   - "[[Growth]]"
+  - "[[Empiricism]]"
   - "[[Proto-Scientific Motif]]"
   - "[[Questionnaire]]"
   - "[[Educational Meliorism]]"

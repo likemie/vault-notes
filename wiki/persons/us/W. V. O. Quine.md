@@ -7,12 +7,13 @@ summary: "20世纪下半叶最重要的分析哲学家之一，提出了自然�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 3
+person_related_count: 4
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
 tags: []
 related_concepts:
+  - "[[Empiricism]]"
   - "[[Epistemology]]"
   - "[[Positivism]]"
   - "[[Epistemological Naturalism]]"
@@ -36,7 +37,7 @@ updated: 2026-08-18
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国分析哲学家、逻辑学家，哈佛大学教授，20世纪下半叶最有影响力的哲学家之一。
-> - **核心角色** 通过《经验论的两个教条》和《自然化的[[Epistemology|认识论]]》，摧毁了逻辑[[Positivism|实证主义]]的先验基础，开启了当代哲学的自然化转向。
+> - **核心角色** 通过《[[Empiricism|经验论]]的两个教条》和《自然化的[[Epistemology|认识论]]》，摧毁了逻辑[[Positivism|实证主义]]的先验基础，开启了当代哲学的自然化转向。
 > - **代表贡献** 提出[[Epistemological Naturalism|认识论自然主义]]，主张将认识论并入心理学和认知科学。
 
 ---
@@ -46,7 +47,7 @@ updated: 2026-08-18
 > [!timeline] 生平与职涯
 > - **1908** 出生于美国俄亥俄州。
 > - **1932** 获得哈佛大学哲学博士学位，后留校任教至退休。
-> - **1951** 发表《经验论的两个教条》（*Two Dogmas of Empiricism*），挑战了分析与综合的绝对二分法。
+> - **1951** 发表《[[Empiricism|经验论]]的两个教条》（*Two Dogmas of Empiricism*），挑战了分析与综合的绝对二分法。
 > - **1969** 发表《自然化的[[Epistemology|认识论]]》（*Epistemology Naturalized*），奠定了自然主义认识论的基础。
 > - **2000** 逝世于马萨诸塞州。
 

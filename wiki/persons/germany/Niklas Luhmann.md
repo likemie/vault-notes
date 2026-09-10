@@ -8,7 +8,7 @@ summary: "德国社会学家，社会系统理论创始人与教育系统分析�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 13
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[School Leadership]]"
   - "[[Incommensurability]]"
+  - "[[Grand Theory]]"
   - "[[Blind Spot in Observation]]"
   - "[[Epistemology]]"
   - "[[Scientific Method]]"
@@ -72,7 +73,7 @@ updated: '2026-06-08'
 ## 主要贡献
 
 > [!success] 主要贡献
-> - [[Luhmann's Systems Theory]] — 将社会视为[[Autopoiesis|自创生]]（autopoietic）沟通系统的宏大理论框架，彻底重构了社会学对"社会是什么"的理解
+> - [[Luhmann's Systems Theory]] — 将社会视为[[Autopoiesis|自创生]]（autopoietic）沟通系统的[[Grand Theory|宏大理论]]框架，彻底重构了社会学对"社会是什么"的理解
 > - [[Blind Spot in Observation]] — 观察的盲点概念，对[[Epistemology|认识论]]和社会[[Scientific Method|科学方法]]论有深远影响
 > - [[Structural Coupling]] — 结构耦合概念，描述封闭、自我指涉系统之间的非因果链接关系，被应用于描述教学与学习之间、教育系统与其他社会子系统之间的关系
 

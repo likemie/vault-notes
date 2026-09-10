@@ -8,7 +8,7 @@ aliases:
 summary: "1970 年代至 1980 年代初兴起于比较教育的新马克思主义理论路径，以中心与边缘分析框架取代国家比较单位，将西方剥削和资本主义世界秩序视为第三世界欠发展的真正原因。后于 1990 年代至 2010 年代初演化为对高等教育领域“学术依附”与“学术新殖民主义”的地缘政治非自觉批判。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 18
+theory_related_count: 19
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Methodological Statism]]"
   - "[[Methodological Nationalism]]"
   - "[[Value Neutrality]]"
+  - "[[Grand Theory]]"
   - "[[Paradigm]]"
 related_theories:
   - "[[Human Capital Theory]]"
@@ -156,7 +157,7 @@ updated: 2026-09-07
 > [!debates] 理论争议
 >
 > > [!axis] 社会主义普遍性替代 vs 后殖民认识论去殖民化
-> > 争论如何打破西方宗主国的脑力控制，是通过沿袭普遍主义的社会主义革命，还是与一切西方宏大叙事彻底脱钩。
+> > 争论如何打破西方宗主国的脑力控制，是通过沿袭普遍主义的社会主义革命，还是与一切西方[[Grand Theory|宏大叙事]]彻底脱钩。
 > > - **依附论派学者 (Carnoy / Altbach)** 主张沿袭经典马克思主义和世界体系过渡路线，通过社会主义制度重建与解放学校来实现社会转型。(引自 [[Argument_Klerides_2023_CE|Klerides, 2023, p. 427]])
 > > - **后/去殖民学者 (Silova / Mignolo)** 拒绝依附论的社会主义替代方案，指出社会主义依然是西方现代性的普遍主义宏大叙事产物，主张必须与西方认识型彻底脱钩以引入南方知识体系。(引自 [[Argument_Klerides_2023_CE|Klerides, 2023, p. 428]])
 

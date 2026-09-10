@@ -11,27 +11,58 @@ aliases:
 summary: "Geertz 提出的质性研究核心范畴，要求超越行为表面物理记录，将行动嵌入完整社会文化脉络，囊括意义、主观诠释与不可观察的情境要素，使读者获得现场共鸣并支持自然主义概括。"
 type: concept
 domain: "research-methodology"
-related_count: 12
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 43
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - research-methodology
   - qualitative-research
   - validity
   - paradigm/interpretive
 related_concepts:
-  - "[[Indexicality]]"
+  - "[[Central Phenomenon]]"
   - "[[Naturalistic Generalization]]"
-related_theories: []
+  - "[[Qualitative Validity]]"
+  - "[[Reflexivity]]"
+  - "[[Decodification]]"
+  - "[[Positivism]]"
+  - "[[Reliability]]"
+  - "[[Homework]]"
+  - "[[Indexicality]]"
+  - "[[Sample Size Determination]]"
+  - "[[Creativity]]"
+  - "[[Hypothesis]]"
+  - "[[Ontology]]"
+  - "[[Epistemology]]"
+  - "[[Trustworthiness]]"
+  - "[[Evaluation Research]]"
+  - "[[Double Hermeneutic]]"
+  - "[[Document]]"
+  - "[[Paradigm]]"
+  - "[[Interpretive Paradigm]]"
+  - "[[Operationalization]]"
+related_theories:
+  - "[[Critical Ethnography]]"
 related_methods:
+  - "[[Qualitative Research]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Accounts]]"
+  - "[[Field Notes]]"
   - "[[Ethnography]]"
   - "[[Case Study]]"
+  - "[[Fieldwork]]"
+  - "[[Mixed Methods Research]]"
+  - "[[Member Tests]]"
 related_instruments:
   - "[[Flanders Interaction Analysis Categories]]"
 related_persons:
+  - "[[Gilbert Ryle]]"
   - "[[Clifford Geertz]]"
+  - "[[Keith Morrison]]"
+  - "[[Yvonna S. Lincoln]]"
+  - "[[Egon G. Guba]]"
+  - "[[Robert E. Stake]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11]]"

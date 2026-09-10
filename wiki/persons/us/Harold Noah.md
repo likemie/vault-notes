@@ -10,7 +10,7 @@ summary: "哥伦比亚大学师范学院经济学与教育学讲座教授、院�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 40
+person_related_count: 41
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Dialogue in Education]]"
   - "[[Critical Dualism]]"
+  - "[[Empiricism]]"
   - "[[Falsification]]"
   - "[[Subjectivism]]"
   - "[[Historical-Philosophical-Cultural Motif]]"
@@ -203,7 +204,7 @@ updated: 2026-09-08
 > > 战后英美[[Scientific Paradigm|科学范式]]内部的方法论路线分歧。诺亚与埃克斯坦立足美国社会科学实证主义传统，主张通过经验归纳与多国跨系统统计，寻求[[Independent Variable|自变量]]与[[Dependent Variable|因变量]]之间的函数共变关系（以“随 $x$ 变化，$y$ 亦相应变化”为典型数学表述），并强调因果解释是比较教育研究的终极目标；[[Brian Holmes|布赖恩·霍姆斯]]则坚持波普尔[[Critical Dualism|批判二元论]]与假说-演绎法，批判纯粹经验归纳与共变关系的盲目性，主张通过问题分析、假说提出与情境逻辑理性重建来预测教育政策的制度阻滞与非预期后果。
 > >
 > > - **Noah & Eckstein（1969 变量共变论）** 主张通过统计技术控制外部变量，探寻变量间的函数共变关系，并清醒指出函数关系不等于因果机制、审慎不冠以“法则”之名。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, p. 62)]]
-> > - **Brian Holmes（1965）** 批判盲目归纳与唯经验主义，主张以理想型与情境逻辑预测特定政策行动的后果。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 60–61)]]
+> > - **Brian Holmes（1965）** 批判盲目归纳与唯[[Empiricism|经验主义]]，主张以理想型与情境逻辑预测特定政策行动的后果。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 60–61)]]
 >
 > > [!axis] 功能主义起源史与批判史学反思
 > > 考恩指出，诺亚与埃克斯坦的 1969 经典历史梳理主要承担了为年轻学者提供学科归属感与合法性的功能，但这套清晰的谱系在客观上掩盖了大量沉睡档案与非西方地区的丰富历史。

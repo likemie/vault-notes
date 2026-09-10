@@ -7,7 +7,7 @@ summary: "英国哲学家，批判实在论创始人，为教育研究在实证�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 18
+person_related_count: 19
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -20,6 +20,7 @@ tags:
   - region/uk
 related_concepts:
   - "[[Ontology]]"
+  - "[[Empiricism]]"
   - "[[Interpretive Paradigm]]"
   - "[[Emergence]]"
   - "[[Causality]]"
@@ -56,7 +57,7 @@ updated: '2026-06-19'
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国哲学家，[[Critical Realism|批判实在论]]（Critical Realism）运动的创始人。
-> - **核心角色** 批判实在论科学哲学的开创者，在人文与社会科学[[Ontology|本体论]]重构、反经验主义方法论论辩中承担核心哲学奠基者的节点角色。
+> - **核心角色** 批判实在论科学哲学的开创者，在人文与社会科学[[Ontology|本体论]]重构、反[[Empiricism|经验主义]]方法论论辩中承担核心哲学奠基者的节点角色。
 > - **代表贡献** 创立 [[Critical Realism|批判实在论]] 哲学体系、提出三层本体论、区分开放与封闭系统。
 
 ---

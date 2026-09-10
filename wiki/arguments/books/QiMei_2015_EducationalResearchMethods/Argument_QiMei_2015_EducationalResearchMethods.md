@@ -36,7 +36,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Definition of Terms]]"
   - "[[Hypothesis]]"
-  - "[[Flanders Interaction Analysis Categories]]"
   - "[[Internal Validity]]"
   - "[[External Validity]]"
   - "[[Reliability]]"
@@ -163,6 +162,8 @@ related_arguments: []
 sources:
   - "[[books/QiMei_2015_EducationalResearchMethods/QiMei_2015_EducationalResearchMethods|QiMei_2015_EducationalResearchMethods]]"
 part_of:
+related_instruments:
+  - "[[Flanders Interaction Analysis Categories]]"
 status: draft
 created: 2026-06-25
 updated: '2026-08-27'

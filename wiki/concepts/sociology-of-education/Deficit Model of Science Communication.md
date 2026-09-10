@@ -8,7 +8,7 @@ aliases:
 summary: "早期科学传播的核心范式，假定公众对科学的疑虑或反对源自科学知识的匮乏（赤字），因而认为只要单向灌输科学事实即可消除分歧并增进公众支持"
 type: concept
 domain: "sociology-of-education"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -18,6 +18,7 @@ tags:
   - theme/public-engagement
 related_concepts:
   - "[[Dialogue in Education]]"
+  - "[[Determinism]]"
   - "[[Hypothesis]]"
   - "[[Public Engagement with Science]]"
   - "[[Paradigm]]"

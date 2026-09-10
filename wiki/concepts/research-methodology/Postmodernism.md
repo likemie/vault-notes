@@ -7,27 +7,54 @@ aliases:
 summary: "反抗启蒙现代性与实证主义决定论的思想思潮；在教育研究中解构宏大元叙事，肯定断裂、差异与本土微观情境，揭示知识的社会建构性与权力纽带，并以变色龙般的亲和性连接诠释范式、复杂性理论与批判理论。"
 type: concept
 domain: "research-methodology"
-related_count: 10
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 37
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - paradigm/postmodern
   - theme/epistemology
   - theme/research-philosophy
   - research-methodology
 related_concepts:
-  - "[[Post-structuralism]]"
-  - "[[Interpretive Paradigm]]"
   - "[[Positivism]]"
-  - "[[Rich and Thick Description]]"
+  - "[[Determinism]]"
+  - "[[Grand Theory]]"
+  - "[[Knowledge Production]]"
+  - "[[Epistemology]]"
+  - "[[Interpretive Paradigm]]"
   - "[[Postpositivism]]"
+  - "[[Post-structuralism]]"
+  - "[[Paradigm]]"
+  - "[[Ontology]]"
+  - "[[Variable]]"
+  - "[[Questionnaire]]"
+  - "[[Rich and Thick Description]]"
+  - "[[Construct]]"
+  - "[[Disciplina and Doctrina]]"
+  - "[[Heterogeneity]]"
+  - "[[Emergence]]"
+  - "[[Scientism]]"
   - "[[Reflexivity]]"
+  - "[[Dialogue in Education]]"
+  - "[[Document]]"
+  - "[[Indexicality]]"
+  - "[[Analytical Stance]]"
 related_theories:
   - "[[Complexity Theory]]"
   - "[[Critical Theory]]"
-related_methods: []
-related_persons: []
+  - "[[Critical Realism]]"
+related_methods:
+  - "[[Narrative Research]]"
+  - "[[Discourse Analysis]]"
+  - "[[Case Study]]"
+  - "[[Ethnography]]"
+  - "[[Qualitative Research]]"
+  - "[[Qualitative Interview]]"
+related_persons:
+  - "[[Jean-François Lyotard]]"
+  - "[[Stephen Ball]]"
+  - "[[Jürgen Habermas]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"

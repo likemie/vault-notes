@@ -9,7 +9,7 @@ aliases:
 summary: "社会科学与教育研究的基本认识论与方法论取向，将社会世界视为主观意识、语言符号与人造意义的建构产物；在组织与方法论上持唯名论、反实证主义、意志论与个例式假定，在比较教育学史中历经战后实证范式的系统清洗、批判二元论的情境整合以及后现代思潮对多元真理体制的重新合法化。"
 type: concept
 domain: "research-methodology"
-related_count: 44
+related_count: 48
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -34,15 +34,19 @@ related_concepts:
   - "[[Objectivism]]"
   - "[[Critical Dualism]]"
   - "[[Ontology]]"
+  - "[[Nominalism]]"
   - "[[Epistemic Stances]]"
   - "[[Interpretive Paradigm]]"
   - "[[Creativity]]"
+  - "[[Determinism]]"
   - "[[Nomothetic]]"
   - "[[Variable]]"
+  - "[[Voluntarism]]"
   - "[[Research Purpose]]"
   - "[[Externalization]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
+  - "[[Grand Theory]]"
   - "[[Postmodernism]]"
   - "[[Comparative Educations]]"
   - "[[Operationalization]]"

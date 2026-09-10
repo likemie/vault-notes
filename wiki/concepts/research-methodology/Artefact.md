@@ -11,10 +11,10 @@ aliases:
 summary: "在社会与教育探究中兼具物质实体与方法学双重维度的核心概念：既指承载文化与制度话语的有形物质实体，又指因测量偏差与工具局限导致的方法学人为假象。"
 type: concept
 domain: "research-methodology"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 33
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - field/research-methodology
   - theme/visual-research
@@ -22,18 +22,43 @@ tags:
   - method/qualitative
   - paradigm/poststructuralism
 related_concepts:
+  - "[[Generative Artificial Intelligence]]"
+  - "[[Construct]]"
   - "[[Document]]"
   - "[[Visual Data]]"
-related_theories: []
+  - "[[Boundary Object]]"
+  - "[[Rich and Thick Description]]"
+  - "[[Post-structuralism]]"
+  - "[[Heterogeneity]]"
+  - "[[Reliability]]"
+  - "[[Causality]]"
+  - "[[Epistemology]]"
+  - "[[Hypothesis]]"
+  - "[[Determinism]]"
+  - "[[Interpretive Paradigm]]"
+  - "[[Blinding]]"
+  - "[[Whiggism]]"
+related_theories:
+  - "[[Organizational Culture]]"
+  - "[[Thomas Theorem]]"
 related_methods:
+  - "[[Experimental Research]]"
   - "[[Role-playing]]"
+  - "[[Qualitative Research]]"
+  - "[[Discourse Analysis]]"
+  - "[[Triangulation]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Li_2026_CEAI]]"
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
+related_persons:
+  - "[[Louis Cohen]]"
+  - "[[Lawrence Manion]]"
+  - "[[Keith Morrison]]"
 confidence: high
 status: stable
 created: 2026-08-05

@@ -23,6 +23,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Wuhu Ruhua]]"
   - "[[Second-generation Ethnic Policy]]"
+  - "[[Grand Theory]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Operationalization]]"
   - "[[External Validity]]"
@@ -50,7 +51,7 @@ title: "Argument_Bulag_2024_CE"
 argument_key: "Argument_Bulag_2024_CE"
 argument_display_title: "The wheel of history and minorities' 'self-sacrifice' for the Chinese nation"
 argument_kind: "journal-article"
-argument_related_count: 22
+argument_related_count: 23
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"

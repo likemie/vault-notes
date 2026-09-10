@@ -5,7 +5,7 @@ aliases:
 summary: "Bhaskar 的科学哲学，区分实在、实际、经验三层本体论并强调开放系统中的因果机制，为教育研究批判封闭实验逻辑提供框架"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 37
+theory_related_count: 38
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Ontology]]"
   - "[[Interaction Effect]]"
+  - "[[Empiricism]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Effect Size]]"
   - "[[Pre-test and Post-test]]"
@@ -98,7 +99,7 @@ updated: 2026-07-13
 > [!proposition-chain] 命题链
 > - **前提一：分层[[Ontology|本体论]]（Stratified Ontology）** 实在界（The Real，深层因果机制与结构）、实际界（The Actual，事件的发生）与经验界（The Empirical/Phenomenal，观察到的数据与体验）是分离的。因果力作为深层的潜在倾向（Tendency），并不等同于恒常规则性或被感知的现象。([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 117]])；另见 ([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 8]])
 >   > [!warrant]- 为什么这一前提重要
->   > 区分三层本体论使得研究者能够穿透表面的统计数字（经验界），探究是什么深层因果机制（实在界）在何种情境（实际界）下导致了事件的发生，从而避免陷入经验主义的盲目测量。
+>   > 区分三层本体论使得研究者能够穿透表面的统计数字（经验界），探究是什么深层因果机制（实在界）在何种情境（实际界）下导致了事件的发生，从而避免陷入[[Empiricism|经验主义]]的盲目测量。
 > - **前提二：社会结构的[[Emergence|涌现]]性（Emergence of Social Structures）** 社会结构拥有无法被个体行动者简单加总或还原的涌现权力（Emergent Powers）。虽然结构需要个体活动来维持和再生产，但它们独立并先于任何特定个体的存在。([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 113]])；另见 ([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 15]])
 > - **机制：开放系统中的因果实现（Causal Realisation in Open Systems）** 教育与社会场景是典型的“开放系统”，存在多重且可能相互冲突的因果力。因果机制的触发是非线性的涌现过程，取决于事物本身的属性（Nature）与具体背景（Context）的交互，而不是休谟式的经验重复。；另见
 > - **结果判断：对“什么有效”经验法则的解构** 由于因果机制可能被环境因素阻断，相同的教学法（机制）在不同的情境（学校 culture、[[Student-Teacher Relationship|师生关系]]、学生特征）下会产生完全不同的结果。仅凭去情境化的平均数排行榜无法指导具体的教育实践。；另见 ([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 12]])
@@ -148,7 +149,7 @@ updated: 2026-07-13
 
 > [!theory-stance] [[Epistemology|认识论]]立场
 > - **[[Ontology|本体论]]** 深度[[Realism in International Relations|现实主义]]。世界是客观存在且分层的；社会结构（独立于人的意愿但依赖人的实践）是真实的，且拥有无法还原为个体特性的[[Emergence|涌现]]因果力。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 15]])
-> - **认识论** 反经验主义、非绝对相对主义。知识是被概念中介的，观察并非中立，因此不能仅靠累加经验事实来获得因果解释；但通过批判性探究，人类能够获得对深层机制的合理且可靠的认识。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 8]])
+> - **认识论** 反[[Empiricism|经验主义]]、非绝对相对主义。知识是被概念中介的，观察并非中立，因此不能仅靠累加经验事实来获得因果解释；但通过批判性探究，人类能够获得对深层机制的合理且可靠的认识。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 8]])
 > - **方法含义** 主张“方法论多元主义”与“实在论综合”。研究应揭示机制如何在特定背景下发挥作用，强调[[Qualitative Research|质性研究]]（如[[Qualitative Observation|质性观察]]、历史分析、[[Action Research|行动研究]]）与量化工具的协同使用，尊重行动者（教师与学生）的推理过程。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 16]])
 > - **不能直接推出的东西** 无法自动推导出一个在任何情境下都产生恒定[[Effect Size|效应量]]（如 $+0.40$）的黄金教学法则，也不能直接推出能流水线式复制的去情境干预指南。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 11]])
 
@@ -177,7 +178,7 @@ updated: 2026-07-13
 > - **适合解释** 复杂的、层级交织的社会政策评估；解析宏观社会结构（如阶级不平等、新自由主义审计体制）对微观教育实践的制约与交互机制。
 > - **谨慎使用** 在进行局部、短期、局限于特定技术维度的测量（如单纯的班级出勤率统计）时，需防范由于[[Ontology|本体论]]的无限延伸而稀释了量化描述性指标的指示作用；必须配合中层理论（Middle-range Theory）进行实操。
 > - **不适合解释** 无法为教师提供即刻生效的“百宝箱式”教学动作指南；在极端不可控或剧烈变动的情境中，无法进行精确的线性行为预测。
-> - **常见误用** 将批判实在论对经验主义与[[Positivism|实证主义]]局限性的解构，误解为对统计、测量或 [[Randomised Controlled Trials|RCT]] 的全盘否定；或陷入形而上学话语，仅在哲学层面打转，而不去具体搜集经验和实际层面的运作证据。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 16]])
+> - **常见误用** 将批判实在论对[[Empiricism|经验主义]]与[[Positivism|实证主义]]局限性的解构，误解为对统计、测量或 [[Randomised Controlled Trials|RCT]] 的全盘否定；或陷入形而上学话语，仅在哲学层面打转，而不去具体搜集经验和实际层面的运作证据。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 16]])
 
 ---
 

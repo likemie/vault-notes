@@ -8,7 +8,7 @@ summary: "法国哲学家、七月王朝教育决策者与折衷主义自由派�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 29
+person_related_count: 30
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[General Education]]"
   - "[[Normal School]]"
   - "[[Bildung]]"
+  - "[[Empiricism]]"
   - "[[Faculty Psychology]]"
   - "[[Policy Borrowing]]"
   - "[[Epistemology]]"
@@ -104,7 +105,7 @@ updated: 2026-09-06
 库森的思想演进紧扣法国政治秩序重建的节律，经历了从唯心主义体系构建、国家立法直接转置到通识课程哲学确立的三大清晰阶段：
 
 > [!thought-timeline] 思想发展
-> - **1815–1830 — 索邦唯心主义哲学引进与资产阶级中庸折衷主义体系奠定** 在大学讲席系统译介德国唯心主义，试图在感觉主义经验论与神学唯实论之间开辟折衷路径。
+> - **1815–1830 — 索邦唯心主义哲学引进与资产阶级中庸折衷主义体系奠定** 在大学讲席系统译介德国唯心主义，试图在感觉主义[[Empiricism|经验论]]与神学唯实论之间开辟折衷路径。
 >   - **代表著作** 《哲学史教程》（*Cours de l'histoire de la philosophie*, 1828）。
 >   - **关键概念／方法** [[Georg Wilhelm Friedrich Hegel|黑格尔]]唯心主义、中庸之道（Middle-of-the-road）、折衷主义（Eclecticism）、大资产阶级统治辩护。
 >   - **阶段转向** 融汇革命自由原则与君主立宪秩序稳定，奠定服务于七月王朝大资产阶级政治统治的中庸意识形态。

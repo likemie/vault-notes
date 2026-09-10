@@ -9,10 +9,10 @@ aliases:
 summary: "立足教师专业实践特征与复杂知识库的研究使用新范式，强调将研究证据视为与经验、情境及专业规范动态整合的多元资源之一，确立教师的专业能动性"
 type: concept
 domain: "teaching-teacher-education"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - field/teacher-education
   - theme/research-use
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Teacher Knowledge Base]]"
   - "[[Educational Affordances]]"
   - "[[Technical Rationality]]"
+  - "[[Empiricism]]"
   - "[[Teacher Professional Agency]]"
   - "[[Variable]]"
   - "[[Phronesis]]"

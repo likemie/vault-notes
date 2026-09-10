@@ -7,7 +7,7 @@ aliases:
 summary: "在教学组织与认知支架中强调清晰目标、系统规划、过程监控与师生/人机动态互动平衡的教学范式。既包含基础教育中教师领导与自主学习的有机协调，亦指智能技术整合中防范认知卸载并激活高阶心智的递归探究支架体系。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Epistemological Vigilance]]"
   - "[[AI Literacy]]"
+  - "[[Determinism]]"
   - "[[Falsification]]"
   - "[[Effect Size]]"
   - "[[Variable]]"

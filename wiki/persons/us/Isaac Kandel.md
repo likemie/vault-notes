@@ -9,7 +9,7 @@ summary: "哥伦比亚大学师范学院比较教育学讲座教授，《教育�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 42
+person_related_count: 43
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Technical Rationality]]"
   - "[[Liberal Education]]"
   - "[[Independent Variable]]"
+  - "[[Determinism]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Epistemology]]"
   - "[[Historical-Philosophical-Cultural Motif]]"
@@ -134,7 +135,7 @@ updated: 2026-09-07
 坎德尔将比较教育视为政治学与政治哲学的分支，在学科史上首次将主权国家确立为统领全局的首要情境解释[[Independent Variable|自变量]]，深入阐发了古典政治哲学的政体与[[Bildung|教化]]传统。
 
 > [!axioms] 坎德尔论国家作为解释[[Variable|变量]]的四大核心公理与古典政治哲学渊源
-> - **国家意志决定论**
+> - **国家意志[[Determinism|决定论]]**
 >   每个国家都拥有其意志所决定的教育类型（Every state has the type of education that it wills），甚至拥有其意愿获得或理应配得的教育体系（Each nation has the educational system that it desires or that it deserves）。国家是具有鲜明政治意志的主权实体，教育的目的、内容与规模根本上取决于主权者对国家前途的意志决断。Kandel (1933: xix, xxiv)；引自 [[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 47)]]
 > - **国家即学校镜像论**
 >   国家如何，学校便如何（As is the state, so is the school）。学校是主权国家政体架构、宪制原则与权力分配的微缩映射；学校内部的课程[[Disciplina and Doctrina|规训与教学]]技术无法脱离其外部政治母体而获得自足解释，任何对学校形态的剖析必须首先穿透其所依托的政治国家样态。Kandel (1933: 274–275)；引自 [[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 47–48)]]

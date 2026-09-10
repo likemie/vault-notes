@@ -10,7 +10,7 @@ aliases:
 summary: "波普尔提出的科学划界与检验标准，主张科学理论的标志在于其承担被经验反驳的风险；在教育研究中既驱动了比较假说的实证化转型，又因方法论简化与不完全决定性引发广泛反思"
 type: concept
 domain: "research-methodology"
-related_count: 41
+related_count: 42
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[International Baccalaureate]]"
   - "[[Theory of Knowledge]]"
+  - "[[Empiricism]]"
   - "[[Problem Solving]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Causality]]"

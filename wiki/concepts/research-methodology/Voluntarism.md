@@ -4,24 +4,52 @@ aliases: [唯意志论, 唯意志主义, voluntaristic assumption, voluntarist a
 summary: "关于人类本质特性的本体论假设，主张个体是自身行动的自主发起者，具有自由意志、反思意识与创造力，能够在主观意向与社会互动中积极创造并改造其生存环境。"
 type: concept
 domain: "research-methodology"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 36
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags: [theme/ontology, theme/human-nature, theme/research-philosophy, paradigm/interpretivist]
 related_concepts:
-  - "[[Determinism]]"
-  - "[[Interpretive Paradigm]]"
+  - "[[Analytic Framework]]"
+  - "[[Ontology]]"
+  - "[[Hypothesis]]"
+  - "[[Creativity]]"
+  - "[[Anthropomorphic Model]]"
+  - "[[Epoché]]"
   - "[[Rich and Thick Description]]"
+  - "[[Determinism]]"
+  - "[[Reflexivity]]"
+  - "[[Independent Variable]]"
+  - "[[Positivism]]"
+  - "[[Normative Paradigm]]"
+  - "[[Epistemology]]"
+  - "[[Social Episodes]]"
+  - "[[Document]]"
+  - "[[Scientific Autarky]]"
+  - "[[Subjectivism]]"
+  - "[[Disciplina and Doctrina]]"
+  - "[[Interpretive Paradigm]]"
+  - "[[Decodification]]"
 related_methods:
+  - "[[Accounts]]"
+  - "[[Action Research]]"
   - "[[Ethogenic Approach]]"
+  - "[[Case Study]]"
 related_persons:
   - "[[Rom Harré]]"
-  - "[[Anthony Giddens]]"
   - "[[Thomas Barr Greenfield]]"
+  - "[[Carl Rogers]]"
+  - "[[Anthony Giddens]]"
+  - "[[Pierre Bourdieu]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
+related_theories:
+  - "[[Symbolic Interactionism]]"
+  - "[[Phenomenology]]"
+  - "[[Organizational Culture]]"
+  - "[[Critical Theory]]"
+  - "[[Critical Realism]]"
 confidence: high
 status: draft
 created: 2026-09-09

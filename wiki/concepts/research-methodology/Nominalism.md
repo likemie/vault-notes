@@ -9,10 +9,10 @@ aliases:
 summary: "伯勒尔与摩根社会科学性质分析框架中本体论维度的核心一极，主张外部实在不存在独立于认知者的客观实体，社会实在与组织概念本质上是人类心智发明的语言标签与符号建构物。"
 type: concept
 domain: "research-methodology"
-related_count: 8
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 21
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/ontology
   - paradigm/interpretive
@@ -20,13 +20,26 @@ tags:
   - theme/social-reality
   - theme/nominalism-realism
 related_concepts:
+  - "[[Hypothesis]]"
+  - "[[Ontology]]"
+  - "[[Objectivism]]"
+  - "[[Subjectivism]]"
+  - "[[Interpretive Paradigm]]"
+  - "[[Positivism]]"
+  - "[[Epistemology]]"
+  - "[[Rich and Thick Description]]"
   - "[[Idiographic]]"
   - "[[Nomothetic]]"
-  - "[[Ontology]]"
+  - "[[Scientific Method]]"
+  - "[[Scientific Paradigm]]"
+  - "[[Paradigm]]"
   - "[[Voluntarism]]"
   - "[[Construct]]"
-related_theories: []
-related_methods: []
+related_theories:
+  - "[[Phenomenology]]"
+  - "[[Critical Realism]]"
+related_methods:
+  - "[[Qualitative Research]]"
 related_instruments: []
 related_persons:
   - "[[Thomas Barr Greenfield]]"

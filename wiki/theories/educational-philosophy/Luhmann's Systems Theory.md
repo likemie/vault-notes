@@ -6,7 +6,7 @@ aliases:
 summary: "社会作为自创生沟通系统的宏大理论，严格区分社会系统与心理系统，并以盲点和结构耦合解释系统观察与互动"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 16
+theory_related_count: 17
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Paradigm]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Grand Theory]]"
   - "[[Operationalization]]"
   - "[[Professional Judgment]]"
   - "[[Incommensurability]]"
@@ -72,7 +73,7 @@ updated: '2026-05-18'
 
 > [!info] 研究[[Paradigm|范式]]
 > - [[Epistemology|认识论]]立场：[[Constructivist Paradigm|建构主义]]认识论——知识是系统内部的建构，不是对外部现实的直接反映
-> - 理论特征：宏大理论（grand theory），试图以统一概念框架解释一切社会现象
+> - 理论特征：[[Grand Theory|宏大理论]]（grand theory），试图以统一概念框架解释一切社会现象
 > - 方法特征：理论推导与概念分析，非经验实证研究
 
 ## 争议与批评

@@ -4,22 +4,45 @@ aliases: [简约原则, 奥卡姆剃刀, Occam's razor, 简便律, law of parsim
 summary: "科学探究四大基本假设之一，源于奥卡姆剃刀与爱因斯坦准则，主张在同等解释力的假说或模型中优先选择实体最少、概念最经济的理论，构成统计建模、模型拟合与理论建构的核心原则。"
 type: concept
 domain: "research-methodology"
-related_count: 8
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 29
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags: [theme/epistemology, theme/methodology, theme/research-philosophy, methodology/quantitative]
 related_concepts:
-  - "[[Scientific Method]]"
   - "[[Hypothesis]]"
+  - "[[Epistemology]]"
+  - "[[Variable]]"
+  - "[[Ontology]]"
+  - "[[Paradigm]]"
+  - "[[Positivism]]"
+  - "[[Independent Variable]]"
+  - "[[Indexicality]]"
+  - "[[Rich and Thick Description]]"
+  - "[[Emergence]]"
+  - "[[Construct]]"
+  - "[[Document]]"
+  - "[[Big Ideas]]"
+  - "[[Operationalization]]"
+  - "[[Falsification]]"
+  - "[[Interpretive Paradigm]]"
+  - "[[Scientific Method]]"
   - "[[Determinism]]"
   - "[[Empiricism]]"
-  - "[[Rich and Thick Description]]"
 related_theories:
   - "[[Complexity Theory]]"
+  - "[[Critical Realism]]"
 related_arguments:
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
+related_methods:
+  - "[[Quantitative Research]]"
+  - "[[Accounts]]"
+  - "[[Network Analysis]]"
+  - "[[Grounded Theory]]"
+related_persons:
+  - "[[Fred N. Kerlinger]]"
+  - "[[Keith Morrison]]"
 confidence: high
 status: draft
 created: 2026-09-09

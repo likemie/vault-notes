@@ -7,10 +7,10 @@ summary: "中国哲学家，以天下理论著称，提出以中国为中心的�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 7
-person_related_level: 0
-person_related_stars: ""
-person_related_color: "#e5e7eb"
+person_related_count: 8
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
   - region/china
   - discipline/philosophy
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Orientalism]]"
   - "[[Sinicisation]]"
   - "[[Unit of Analysis]]"
+  - "[[Grand Theory]]"
   - "[[Knowledge Transfer]]"
 related_theories: []
 related_methods: []
@@ -113,7 +114,7 @@ updated: '2026-06-26'
 
 > [!influence-path] 影响路径
 > - **学术与理论路径** 已渗透到全球知识关系和高等教育比较研究中。例如，西蒙·马金森 (Simon Marginson)、杨锐 (Yang Rui) 和 许心 (Xu Xin) (2022) 将赵汀阳的天下概念作为理解跨国高等教育知识合作与非西方模式的启发式分析工具。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 113]])
-> - **政策与元叙事路径** 与习近平时代官方提出的“构建人类命运共同体”及“中国无征服基因/中国拥有和平基因”的话语体系形成强烈的共振。这一体系被官方用于洗白历史上的同化政策，将其包装为少数民族的自愿融入。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 106]])
+> - **政策与[[Grand Theory|元叙事]]路径** 与习近平时代官方提出的“构建人类命运共同体”及“中国无征服基因/中国拥有和平基因”的话语体系形成强烈的共振。这一体系被官方用于洗白历史上的同化政策，将其包装为少数民族的自愿融入。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 106]])
 
 > [!evidence-grid]- 相关研究索引
 > - [[Argument_Bulag_2024_CE|Bulag, 2024]] — 系统批判了赵汀阳天下体系背后的同化政治，指出其如何通过“自愿牺牲”的修辞来合理化少数民族的历史性文化消亡。

@@ -8,7 +8,7 @@ aliases:
 summary: "基于大语言模型与多模态生成架构的认知中介技术，在教育中作为对话伙伴与边界对象驱动发散构想与认知重组，其认知效应高度取决于教学脚手架与认识论摩擦的维持。"
 type: concept
 domain: "educational-technology"
-related_count: 64
+related_count: 65
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Cognitive Offloading]]"
   - "[[Externalization]]"
   - "[[Brainstorming]]"
+  - "[[Determinism]]"
   - "[[Creativity]]"
   - "[[Critical Thinking]]"
   - "[[Scientific Literacy]]"
@@ -41,10 +42,10 @@ related_concepts:
   - "[[Epistemological Vigilance]]"
   - "[[Zone of Proximal Development]]"
   - "[[Primary and Secondary Documents]]"
+  - "[[AI Agent in Education]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Structured Teaching]]"
   - "[[Generative AI Agent in Education]]"
-  - "[[AI Agent in Education]]"
   - "[[Computational Thinking]]"
   - "[[Metacognition]]"
   - "[[Language Skills]]"

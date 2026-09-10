@@ -10,7 +10,7 @@ summary: "法国启蒙自由主义教育家与国际主义者，1817年发表比
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 33
+person_related_count: 34
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Questionnaire]]"
   - "[[International Education]]"
   - "[[Educational Meliorism]]"
+  - "[[Empiricism]]"
   - "[[Epistemology]]"
   - "[[Policy Borrowing]]"
   - "[[Normal School]]"
@@ -106,7 +107,7 @@ updated: 2026-09-06
 >   - **代表著作** 《关于教育的普遍论文》（*Essai général d'éducation*, 1808）、《[[Esquisse d'un ouvrage sur l'éducation comparée|关于比较教育的一项著作的计划与初步观点]]》（*Esquisse*, 1817）。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 11, 20)]]
 >   - **关键概念／方法** [[Educational Meliorism|教育改良主义]]、教育预防论、心灵官能自主展开。
 >   - **阶段转向** 彻底走出革命专政阴影，将教育从阶级暴力夺权的从属工具，升格为革命的替代品与防止暴乱重演的心灵防线。
-> - **1810–1817 — 准实证科学构想与比较观察指标体系的系统确立** 受到居维叶比较解剖学分类法与自然经验主义[[Epistemology|认识论]]启发，试图使教育学摆脱形而上学玄思与神学宗派束缚。
+> - **1810–1817 — 准实证科学构想与比较观察指标体系的系统确立** 受到居维叶比较解剖学分类法与自然[[Empiricism|经验主义]][[Epistemology|认识论]]启发，试图使教育学摆脱形而上学玄思与神学宗派束缚。
 >   - **代表著作** 《关于比较教育的一项著作的计划与初步观点》（*Esquisse et vues préliminaires sur un ouvrage sur l’éducation comparée*, 1817）。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 11–13)]]
 >   - **关键概念／方法** 比较解剖学类比、分析图表（Analytical Charts）、比较观察表（Comparative Observation Tables）、审慎[[Policy Borrowing|政策借用]]。
 >   - **阶段转向** 吸收解剖学经验分类与经验-演绎法，以客观事实分类诊断各国教育机体的患病断层，开创现代经验比较研究的设计原型。
@@ -165,7 +166,7 @@ updated: 2026-09-06
 > - **方法路径** 首创了涵盖初等大众至中等古典等六大领域的结构化多题项[[Questionnaire|问卷]]与横向比较观察表，为跨国[[Performance Indicators|教育指标]]体系与大规模统计调查奠定了方法原型。
 > - **政策与超国家制度原型** 提议设立由国际学者组成的常设特别教育委员会、培育良师的示范[[Normal School|师范学院]]以及多语种[[International Education|国际教育]]公报，这些构想在 20 世纪国际教育局（IBE）和联合国教科文组织（UNESCO）的组织架构与职能运作中得到了惊人的制度兑现。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 21–22)]]
 > - **世界和平与跨国治理** 突破 19 世纪民族国家的孤立竞争思维，开创了通过跨国教育经验互鉴消弭沙文主义偏见、以比较文明抗衡野蛮战争残余的国际和平教育与全球教育治理先驱传统。（pp. 22–24）
-> - **跨国改良与国家建制** 构想了以瑞士 22 个州为试点的教育经验互鉴机制，主张借用外部优良制度以培育国家意识与政治统合，开启了经验主义[[Policy Borrowing|教育借用]]传统。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, p. 14)]]
+> - **跨国改良与国家建制** 构想了以瑞士 22 个州为试点的教育经验互鉴机制，主张借用外部优良制度以培育国家意识与政治统合，开启了[[Empiricism|经验主义]][[Policy Borrowing|教育借用]]传统。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, p. 14)]]
 
 > [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] — 深入解构朱利安的准[[Proto-Scientific Motif|科学人道主义母题]]，澄清其欧陆二级精神科学属性，有力反驳 20 世纪行为实证派指责其问卷带有主观偏见的时代倒错。

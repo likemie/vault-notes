@@ -5,6 +5,10 @@
       "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01.md"
     },
     {
+      "basename": "Creativity, Action, Service",
+      "path": "wiki/concepts/curriculum/Creativity, Action, Service.md"
+    },
+    {
       "basename": "Jack Douglas",
       "path": "wiki/persons/us/Jack Douglas.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Edmund Husserl",
       "path": "wiki/persons/germany/Edmund Husserl.md"
-    },
-    {
-      "basename": "Scientism",
-      "path": "wiki/concepts/educational-philosophy/Scientism.md"
     }
   ],
   "omittedPaths": [],

@@ -7,10 +7,10 @@ summary: "奥地利哲学家、社会学家和经济学家，维也纳学派核�
 type: person
 nationality: austria
 person_region: "austria"
-person_related_count: 15
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 16
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 tags:
 - theme/philosophy-of-science
 - theme/epistemology
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Falsification]]"
   - "[[Rationalism in International Relations]]"
+  - "[[Empiricism]]"
   - "[[Value Neutrality]]"
   - "[[Postpositivism]]"
   - "[[Science and Technology Studies]]"
@@ -76,7 +77,7 @@ updated: 2026-09-07
 
 > [!work-line] 主要著作
 > - **1913 — *Die Verirrten des Cartesius und das Auxiliarmotiv*** 讨论[[René Descartes|笛卡尔]]的"迷路者"比喻——在森林中迷路的人无法从"绝对确定"的起点出发，只能在行进中不断修正方向。这一比喻成为纽拉特反基础主义的标志。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, p. 183)]]
-> - **1973 — *Empiricism and Sociology***（遗著集，Cohen 主编） 汇集纽拉特在社会学、经济学和科学统一性方面的主要论文。
+> - **1973 — *[[Empiricism]] and Sociology***（遗著集，Cohen 主编） 汇集纽拉特在社会学、经济学和科学统一性方面的主要论文。
 > - **1983 — *Philosophical Papers, 1913–1946***（遗著集） 收录纽拉特一生的重要哲学论文。
 
 ---
@@ -108,7 +109,7 @@ updated: 2026-09-07
 > [!person-network] 关系网络
 > - **师承／合作者** [[Karl Popper|卡尔·波普尔]] — 在维也纳时期有密切的智识互动，但两人在[[Falsification|证伪主义]]和[[Scientific Method|科学方法]]问题上存在根本分歧（见 Cat, 1995 对波普尔—纽拉特论辩的研究）。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, pp. 183–184)]]
 > - **思想前驱** Pierre Duhem（迪昂）— 纽拉特原则被视为迪昂整体论的延伸和激进化。
-> - **思想后继** [[W. V. O. Quine]]（蒯因）— 纽拉特的反基础主义整体论经由蒯因的"经验论的两个教条"（1951）进入分析哲学主流。
+> - **思想后继** [[W. V. O. Quine]]（蒯因）— 纽拉特的反基础主义整体论经由蒯因的"[[Empiricism|经验论]]的两个教条"（1951）进入分析哲学主流。
 > - **机构／运动** 维也纳学派（Vienna Circle / Wiener Kreis）— 纽拉特是该学派最政治化、最关注社会科学应用的核心成员。
 
 ---

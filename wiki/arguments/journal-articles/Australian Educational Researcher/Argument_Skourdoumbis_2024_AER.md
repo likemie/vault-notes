@@ -10,7 +10,7 @@ title: "Argument_Skourdoumbis_2024_AER"
 argument_key: "Argument_Skourdoumbis_2024_AER"
 argument_display_title: "A critique of 'Strong Beginnings' initial teacher education reforms: mandating neuroscience as core curriculum within the 'what works' movement"
 argument_kind: "journal-article"
-argument_related_count: 40
+argument_related_count: 41
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Analytic Framework]]"
   - "[[Epistemology]]"
+  - "[[Determinism]]"
   - "[[Learner Autonomy]]"
   - "[[Educational Neuroscience]]"
   - "[[Classroom Management]]"

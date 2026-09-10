@@ -10,7 +10,7 @@ summary: "奥地利裔英国科学哲学家与社会哲学家，提出可证伪�
 type: person
 nationality: austria
 person_region: "austria"
-person_related_count: 24
+person_related_count: 26
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -28,8 +28,10 @@ related_concepts:
   - "[[Postpositivism]]"
   - "[[Epistemology]]"
   - "[[Dialogue in Education]]"
+  - "[[Determinism]]"
   - "[[Critical Thinking Disposition]]"
   - "[[Problem Solving]]"
+  - "[[Empiricism]]"
   - "[[Reflexivity]]"
   - "[[Educational Meliorism]]"
   - "[[Paradigm]]"
@@ -79,7 +81,7 @@ updated: 2026-09-07
 > [!timeline] 生平与职涯
 > - **1902** 出生于奥地利维也纳；早年在维也纳大学攻读数学、物理学、心理学与哲学，1928 年获哲学博士学位。
 > - **1934** 出版德文科学哲学里程碑巨著《科学发现的逻辑》（*Logik der Forschung*），针锋相对地批判维也纳学派逻辑[[Positivism|实证主义]]的归纳原则与经验证实标准，首创[[Falsification|可证伪性]]划界理论。
-> - **1937–1945** 为躲避纳粹迫害流亡新西兰，任教于坎特伯雷大学；在战火中撰写政治哲学巨著《开放社会及其敌人》（*The Open Society and Its Enemies*, 1945），系统阐释[[Critical Dualism|批判二元论]]，对[[Plato|柏拉图]]、[[Georg Wilhelm Friedrich Hegel|黑格尔]]与马克思的历史决定论发起毁灭性批判。
+> - **1937–1945** 为躲避纳粹迫害流亡新西兰，任教于坎特伯雷大学；在战火中撰写政治哲学巨著《开放社会及其敌人》（*The Open Society and Its Enemies*, 1945），系统阐释[[Critical Dualism|批判二元论]]，对[[Plato|柏拉图]]、[[Georg Wilhelm Friedrich Hegel|黑格尔]]与马克思的历史[[Determinism|决定论]]发起毁灭性批判。
 > - **1946–1969** 迁居英国，任教于伦敦政治经济学院（LSE），1949 年晋升为逻辑与[[Scientific Method|科学方法]]讲座教授；在此期间霍姆斯赴 LSE 研修科学哲学，深受其反归纳主义与批判二元论的深刻洗礼。
 > - **1963** 出版《猜想与反驳：科学知识的增长》（*Conjectures and Refutations*），系统确立科学知识通过提出大胆猜想、接受经验反驳而演进的试错模型。
 > - **1965** 在伦敦国际科学哲学研讨会上与[[Thomas Kuhn|托马斯·库恩]]展开著名的世纪大辩论（“证伪试错 vs 常规科学解谜”）。
@@ -97,7 +99,7 @@ updated: 2026-09-07
 >   - **阶段转向** 清除归纳主义幻象，确立假说-演绎检验与经验反驳在科学划界中的核心地位。
 > - **1940s — 新西兰流亡与社会哲学批判工程** 直面二战极权主义浩劫，将科学[[Critical Thinking Disposition|批判精神]]延伸至历史与政治领域。
 >   - **代表著作** *The Open Society and Its Enemies* (1945), *The Poverty of Historicism* (1957)。
->   - **关键概念／方法** [[Critical Dualism|批判二元论]]、零星社会工程（Piecemeal Social Engineering）、反历史决定论。
+>   - **关键概念／方法** [[Critical Dualism|批判二元论]]、零星社会工程（Piecemeal Social Engineering）、反历史[[Determinism|决定论]]。
 >   - **阶段转向** 严格区分人为规范公约与机构社会学法则，拒斥大一统乌托邦社会工程。
 > - **1950s–1970s — 英国时期与演化[[Epistemology|认识论]]深化** 发展客观知识世界三理论与[[Problem Solving|问题解决]]演化图式。
 >   - **代表著作** *Conjectures and Refutations* (1963), *Objective Knowledge* (1972)。
@@ -109,7 +111,7 @@ updated: 2026-09-07
 ## 核心思想
 
 > [!claim] 核心主张
-> 人类知识在本质上不是无可置辩的客观真理，而是推测性的、可[[Falsification|证伪]]的猜想（conjectural knowledge）。归纳法在逻辑上无法证明全称命题的必然性，科学演进是通过大胆提出假说、严密演绎后果并接受经验证伪（试错法）实现的；在社会与制度领域，必须恪守[[Critical Dualism|批判二元论]]，将人为设立的规范法则与描述机构功能的权变社会学法则严格区分，坚决拒斥将道德价值还原为历史必然性的决定论，主张立足情境逻辑实施可经验纠错的零星社会工程。
+> 人类知识在本质上不是无可置辩的客观真理，而是推测性的、可[[Falsification|证伪]]的猜想（conjectural knowledge）。归纳法在逻辑上无法证明全称命题的必然性，科学演进是通过大胆提出假说、严密演绎后果并接受经验证伪（试错法）实现的；在社会与制度领域，必须恪守[[Critical Dualism|批判二元论]]，将人为设立的规范法则与描述机构功能的权变社会学法则严格区分，坚决拒斥将道德价值还原为历史必然性的[[Determinism|决定论]]，主张立足情境逻辑实施可经验纠错的零星社会工程。
 
 > [!citation-card] 可证伪性作为科学划界标准
 > 科学理论的标志绝非它能够被经验事实所证实，而在于它具有可证伪性（falsifiability）——理论必须明确指出何种潜在的经验观察将构成对它的致命反驳。科学进步的动力在于严格检验（severe test）：有效的经验理论应当在与产生它的情境截然不同的新语境中经受证伪考验。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1; Popper, 1968)]]
@@ -131,7 +133,7 @@ updated: 2026-09-07
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **[[Epistemology|认识论]]路径** 摧毁了逻辑经验主义的实证教条，确立了以猜想、反驳与[[Falsification|证伪]]为内核的[[Postpositivism|后实证主义]]科学哲学，深刻启发了拉卡托斯的科学研究纲领方法论与[[Reflexivity|反思性]]社会科学；
+> - **[[Epistemology|认识论]]路径** 摧毁了逻辑[[Empiricism|经验主义]]的实证教条，确立了以猜想、反驳与[[Falsification|证伪]]为内核的[[Postpositivism|后实证主义]]科学哲学，深刻启发了拉卡托斯的科学研究纲领方法论与[[Reflexivity|反思性]]社会科学；
 > - **社会政策路径** 奠定了开放社会与渐进[[Educational Meliorism|改良主义]]的哲学框架，其“零星社会工程（Piecemeal Social Engineering）”理念成为现代公共政策实验与事前评估的核心[[Paradigm|范式]]；
 > - **比较教育学转化** [[Brian Holmes|布赖恩·霍姆斯]]将波普尔的[[Critical Dualism|批判二元论]]与假说-演绎试错法全盘移植入比较教育学，创立了著名的[[Problem Approach|问题法]]：将教育政策表述为可证伪的权变假说，通过情境逻辑调查初始条件，以概率性预测作为科学划界标准，从而在战后英美[[Scientific Paradigm|科学范式]]大论战中开创了最具哲学深度的问题学派。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 62–63, 66–67)]]
 
@@ -195,6 +197,6 @@ updated: 2026-09-07
 > | [[Falsification]] | 概念 | 创立证伪主义，以可证伪性作为科学与非科学的划界标准，打破经验证实神话。 |
 > | [[Critical Dualism]] | 概念 | 在《开放社会及其敌人》中系统阐释批判二元论，严格划分人为规范公约与客观社会法则。 |
 > | [[Problem Approach]] | 方法 | 其假说-演绎试错法、情境逻辑与零星工程被[[Brian Holmes\|霍姆斯]][[Operationalization\|操作化]]为跨国比较政策分析工具。 |
-> | [[Scientific Paradigm]] | 概念 | 构成战后比较教育科学范式中反普遍决定论、主张权变法则的理论支柱。 |
+> | [[Scientific Paradigm]] | 概念 | 构成战后比较教育科学范式中反普遍[[Determinism\|决定论]]、主张权变法则的理论支柱。 |
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] | 论证 | 考据波普尔证伪主义、推测性知识对现代教育研究方法论[[Paradigm\|范式]]划分的奠基贡献。 |
 > | [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] | 论证 | 系统阐述波普尔批判二元论如何作为[[Epistemology\|认识论]]基石被霍姆斯用于重构比较教育学。 |

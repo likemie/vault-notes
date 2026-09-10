@@ -8,7 +8,7 @@ summary: "英国著名比较教育学家与科学哲学家，伦敦大学教育�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 47
+person_related_count: 49
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -34,11 +34,13 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
+  - "[[Empiricism]]"
   - "[[Scientific Method]]"
   - "[[Paradigm]]"
   - "[[National Character]]"
   - "[[Scientific Paradigm]]"
   - "[[Variable]]"
+  - "[[Determinism]]"
   - "[[Technical Rationality]]"
   - "[[Incommensurability]]"
   - "[[Four Forms of Understanding of Comparative Education]]"
@@ -117,7 +119,7 @@ updated: 2026-09-07
 ## 主要著作与思想发展
 
 > [!thought-timeline] 思想发展
-> - **1950s — 物理科学向比较[[Epistemology|认识论]]的跨界融合期** 结合物理学实证传统与波普尔反归纳主义哲学，探索如何克服经验主义旅行见闻与粗糙借用。
+> - **1950s — 物理科学向比较[[Epistemology|认识论]]的跨界融合期** 结合物理学实证传统与波普尔反归纳主义哲学，探索如何克服[[Empiricism|经验主义]]旅行见闻与粗糙借用。
 >   - **代表著作** 与劳威斯合编《世界教育年鉴》系列年度专著（1953–1970）。
 >   - **关键概念／方法** [[Scientific Method]]、[[Hypothesis]]、[[John Dewey|杜威]][[Reflective Thinking|反思性思维]]。
 >   - **阶段转向** 彻底摒弃单纯制度史白描，确立以“假说演绎模式”改造比较教育学的终身志业。
@@ -220,7 +222,7 @@ updated: 2026-09-07
 > > 争论焦点在于比较教育能否建立超越具体历史时空的普遍因果通则。
 > >
 > > - **[[C. Arnold Anderson]] & [[Philip Foster]]（1960, 1961）** 坚信比较研究应揭示教育系统不带时态且超越时间的恒常不变关联，将情境特殊性视作应被控制排除的干扰[[Variable|变量]]。[[Argument_Mattheou_2009_ScientificParadigm|(Anderson, 1961; Foster, 1960; Mattheou, 2009, p. 62)]]
-> > - **Brian Holmes（1981）** 坚持[[Critical Dualism|批判二元论]]与相对论权变观，断言任何社会学法则离开特定规范与制度初始条件皆无法成立，普适铁律是不切实际的机械决定论幻想。[[Argument_Mattheou_2009_ScientificParadigm|(Holmes, 1981: 78; Mattheou, 2009, p. 63)]]
+> > - **Brian Holmes（1981）** 坚持[[Critical Dualism|批判二元论]]与相对论权变观，断言任何社会学法则离开特定规范与制度初始条件皆无法成立，普适铁律是不切实际的机械[[Determinism|决定论]]幻想。[[Argument_Mattheou_2009_ScientificParadigm|(Holmes, 1981: 78; Mattheou, 2009, p. 63)]]
 >
 > > [!axis] [[Nomothetic|通则式]]预测科学 vs 历史情境解释学
 > > 争论焦点在于教育研究应否追求自然科学式的政策干预后果预测，还是应当聚焦于历史文化情境的诠释与价值反思。
@@ -244,7 +246,7 @@ updated: 2026-09-07
 > |:-----|:-----|:-----|
 > | [[Problem Approach]] | 方法 | 创立假说-演绎问题法，将波普尔批判[[Rationalism in International Relations\|理性主义]]与[[John Dewey\|杜威]]反思思维[[Operationalization\|操作化]]为五阶段比较检验程序。 |
 > | [[Critical Dualism]] | 概念 | 创立批判二元论，区分人为规范法则与权变社会学法则，为政策假说演绎与文化滞后诊断奠定[[Epistemology\|认识论]]基石。 |
-> | [[Scientific Paradigm]] | 概念 | 作为战后比较教育科学范式三大领袖之一，代表了反普遍决定论、主张情境权变与政策预测的问题学派高地。 |
+> | [[Scientific Paradigm]] | 概念 | 作为战后比较教育科学范式三大领袖之一，代表了反普遍[[Determinism\|决定论]]、主张情境权变与政策预测的问题学派高地。 |
 > | [[Problem Solving]] | 概念 | 将[[John Dewey\|杜威]]反思思维与波普尔[[Falsification\|证伪]]原则[[Operationalization\|操作化]]为跨国教育政策分析的问题解决法。 |
 > | [[Policy Science in Comparative Education]] | 概念 | 主张比较教育作为[[Nomothetic\|通则式]]预测与政策科学，服务于现实制度干预的后果评估。 |
 > | [[Four Forms of Understanding of Comparative Education]] | 概念 | 代表了 1960 年代[[Ontology\|本体论]]大论战中将比较教育理解为应用政策科学的经典形态。 |

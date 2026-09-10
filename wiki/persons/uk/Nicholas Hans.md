@@ -10,7 +10,7 @@ summary: "俄裔英国比较教育学家，伦敦大学国王学院读者，提�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 21
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Epistemic Stances]]"
   - "[[National Character]]"
   - "[[Ontology]]"
+  - "[[Determinism]]"
   - "[[Incommensurability]]"
   - "[[Analytical Stance]]"
   - "[[Analytic Framework]]"
@@ -119,7 +120,7 @@ updated: 2026-09-07
 
 > [!factors] 汉斯的阶梯式三维因素解释体系（[[Factorial Interpretive Framework]]）
 > 1. **自然因素的物质与生态制约（Natural Factors: Race, Language, Environment）**
->    涵盖种族、语言与地理环境三大天然物理先决条件。汉斯强调种族构成人类族群身体与历史分化的物质先决条件，但严厉抵制生物种族决定论，公开抨击利用智力测验推导“北欧日耳曼族裔优于斯拉夫或意大利族裔”的伪科学偏见；语言作为思维形式与文化认同的核心纽带，在多语言与多民族国家（如瑞士、比利时、加拿大）直接决定教育分权与国家整合同盟的稳定性；地理环境则对产业结构、人口聚集与教育行政集权或分权体制施加不可逆转的天然物质生态塑造。(Hans, 1949: 9–11)
+>    涵盖种族、语言与地理环境三大天然物理先决条件。汉斯强调种族构成人类族群身体与历史分化的物质先决条件，但严厉抵制生物种族[[Determinism|决定论]]，公开抨击利用智力测验推导“北欧日耳曼族裔优于斯拉夫或意大利族裔”的伪科学偏见；语言作为思维形式与文化认同的核心纽带，在多语言与多民族国家（如瑞士、比利时、加拿大）直接决定教育分权与国家整合同盟的稳定性；地理环境则对产业结构、人口聚集与教育行政集权或分权体制施加不可逆转的天然物质生态塑造。(Hans, 1949: 9–11)
 > 2. **宗教因素的超验权威与制度博弈（Religious Factors: Catholicism, Anglicanism, Puritanism）**
 >    系统考察三大西方基督宗教传统对学校制度的历史奠基作用。天主教依托普世神权权威、严密教阶秩序与修会办学传统，强调集中化教义传承，往往与近代民族国家的世俗化集权爆发激烈的学校控制权冲突；英国圣公会作为国家教会，体现王权与建制妥协特征，塑造了英国公立学校与教会自愿学校双轨并存的折衷传统；清教与加尔文派打破中介教阶，倡导信徒直面圣经与天职观念，从教义上强力催生了平民普及识字、基层会众自治与民选校董会机制，深刻奠定了苏格兰、荷兰以及北美早期地方分权公立教育的民主根基。(Hans, 1949: 16)
 > 3. **世俗因素的启蒙理性与意识形态重构（Secular Factors: Humanism, Socialism, Nationalism）**

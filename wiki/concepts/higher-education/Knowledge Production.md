@@ -5,7 +5,7 @@ aliases:
 summary: "围绕谁生产知识、以何种视角生产以及知识服务于谁的过程性概念，用于分析高等教育中的知识权力和利益分布。"
 type: concept
 domain: "higher-education"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Cultural Hierarchy]]"
   - "[[Ways of Knowing]]"
   - "[[Narrative Knowledge]]"
+  - "[[Grand Theory]]"
   - "[[Paradigm]]"
 related_theories:
   - "[[Decolonial Geopolitics of Knowledge]]"

@@ -9,10 +9,10 @@ summary: "伦敦大学国王学院比较教育学讲座教授，战后英国比�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 23
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 25
+person_related_level: 3
+person_related_stars: "⭐⭐⭐"
+person_related_color: "#ede9fe"
 tags:
   - subject/comparative-education
   - theme/policy-science
@@ -21,10 +21,12 @@ related_concepts:
   - "[[Policy Science in Comparative Education]]"
   - "[[Epistemology]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Typification]]"
   - "[[Positivism]]"
   - "[[Paradigm]]"
   - "[[Scientism]]"
   - "[[Scientific Paradigm]]"
+  - "[[Determinism]]"
   - "[[Rationalism in International Relations]]"
   - "[[Knowledge Production]]"
   - "[[Gatekeepers]]"
@@ -91,7 +93,7 @@ updated: 2026-09-08
 > [!thought-timeline] 思想发展
 > - **1950年代至1960年代初 — 跨国文化语境描摹与制度导论建构** 继承[[Michael Sadler|萨德勒]]的历史人文传统，强调学校教育必须置于具体社会的民族文化生态中加以动态体察。
 >   - **代表著作** *Other Schools and Ours: The World's Systems Today* (1958); *World Perspectives in Education* (1962).
->   - **核心关注** 跨国学制的文化类型化比较、现代工业化与技术革命对传统教育结构的剧烈冲击。
+>   - **核心关注** 跨国学制的文化[[Typification|类型化]]比较、现代工业化与技术革命对传统教育结构的剧烈冲击。
 > - **1960年代中后期 — 政策决策导向确立与反实证预测论战** 明确提出比较教育作为[[Policy Science in Comparative Education|政策科学]]的学科定位，同时猛烈反击将自然科学物理学机械因果律移植于教育学的方法论崇拜。
 >   - **代表著作** "Comparative Studies and Policy Decisions" (1967); *Comparative Studies and Educational Decision* (1968). [[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 63–64)]]
 >   - **核心关注** 阐明人类行动者的自由意志与社会情境复杂性，否定实证预测作为划界标准的合法性；确立“关键决策时刻”理论。
@@ -120,7 +122,7 @@ updated: 2026-09-08
 
 > [!influence-path] 影响路径
 > - **[[Policy Science in Comparative Education|政策科学]][[Paradigm|范式]]奠基** 推动英格兰比较教育从纯人文学科考据走向服务于现代公共治理的决策科学，为战后跨国教育咨询确立了操作框架。
-> - **反唯[[Scientism|科学主义]][[Epistemology|认识论]]屏障** 在战后英美[[Scientific Paradigm|科学范式]]高歌猛进之际，他对物理学因果决定论与机械预测的清醒反驳，为后续质性、生态与情境化比较研究维系了宝贵的理论空间。
+> - **反唯[[Scientism|科学主义]][[Epistemology|认识论]]屏障** 在战后英美[[Scientific Paradigm|科学范式]]高歌猛进之际，他对物理学[[Determinism|因果决定论]]与机械预测的清醒反驳，为后续质性、生态与情境化比较研究维系了宝贵的理论空间。
 > - **跨国学会建制化推动** 主持伦敦大学国王学院教研中心，作为[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE）与英国学会（BCIES）的核心奠基人，推动了西欧比较教育学术网络的制度化形成。
 > - **学科守门与方法论断裂的历史负资产** 在 1970 年代方法论分裂中对结构社会学的排斥与对阿彻的权威[[Disciplina and Doctrina|规训]]，被后代批判学者定性为英格兰老一代学人排他固步的历史教训。
 

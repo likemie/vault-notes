@@ -7,7 +7,7 @@ aliases:
 summary: "以相对风险规避为核心机制解释不同阶层教育选择差异的中层理论，主张教育决策是阶级条件下对成本、风险和收益的理性计算"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 18
+theory_related_count: 19
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -18,6 +18,7 @@ tags:
   - region/uk
   - level/higher-ed
 related_concepts:
+  - "[[Determinism]]"
   - "[[Paradigm]]"
   - "[[Dialogue in Education]]"
   - "[[Hypothesis]]"
@@ -56,7 +57,7 @@ updated: 2026-08-26
 > - **解释对象** 不同社会阶级在教育获得上的持续差异——为什么家庭背景在控制学业能力后仍然系统性地影响教育选择。
 > - **理论问题** 教育决策究竟是阶级文化的自动复制，还是阶级约束条件下的理性选择？如果教育扩张增加了所有人的机会，为什么阶级间教育获得的相对差距始终未能缩小？
 > - **理论类型** 中层理论——以相对风险规避为核心机制，连接微观的个体理性决策与宏观的阶级分层结构。Breen & Goldthorpe（1997）的模型最具影响力。
-> - **知识位置** 属于理性选择理论在社会分层研究中的应用传统，与马克思主义的结构决定论、自由主义的现代化预期和文化理论的价值内化构成四种竞争解释。在文化社会学[[Paradigm|范式]]争论中，[[Remote Associates Test|RAT]] 是"价值选择过程"理论讨论的[[Dialogue in Education|对话]]方之一（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）。
+> - **知识位置** 属于理性选择理论在社会分层研究中的应用传统，与马克思主义的结构[[Determinism|决定论]]、自由主义的现代化预期和文化理论的价值内化构成四种竞争解释。在文化社会学[[Paradigm|范式]]争论中，[[Remote Associates Test|RAT]] 是"价值选择过程"理论讨论的[[Dialogue in Education|对话]]方之一（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）。
 
 > [!claim] 核心主张
 > 不同社会阶级的成员在做出教育决策时，基于各自阶级位置的约束条件，对成本、风险和收益进行系统性不同的理性计算。决策的首要目标不是最大化回报，而是**避免向下社会流动**——优势阶级为了维持现有位置必须投入更多教育资源，弱势阶级则在有限资源下对风险更加敏感（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Breen & Goldthorpe, 1997；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 37, 85–87]]）。
@@ -99,7 +100,7 @@ updated: 2026-08-26
 > [!theory-components] 理论构件
 > - **相对风险规避（Relative Risk Aversion）** [[Remote Associates Test|RAT]] 的核心机制——不同阶级成员的首要关切是最小化向下阶级流动的风险和最大化向上流动或至少维持现有阶级位置的机会。
 > - **首属效应与次属效应** Boudon 的经典区分，界定了 RAT 的核心解释范围。首属效应指家庭背景通过影响学业能力间接影响教育获得；次属效应指控制学业能力后家庭背景仍直接影响教育选择。Breen & Goldthorpe（1997）的 RAT 模型集中解释次属效应——为什么成绩相同的孩子，阶级出身不同会做出系统性不同的教育选择（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Boudon, 2001；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 84–85]]）。
-> - **抱负的相对性** 抱负不是绝对的，而是相对于阶级位置而言——这是 RAT 区别于文化决定论的关键概念前提。
+> - **抱负的相对性** 抱负不是绝对的，而是相对于阶级位置而言——这是 RAT 区别于文化[[Determinism|决定论]]的关键概念前提。
 > - **分叉点（Branching Points）** 教育系统中的关键决策节点（小学到中学、中学到大学），次属效应的力量在分叉点进入并随学程推进而增强。
 > - **工具理性[[Hypothesis|假设]]** RAT 假设行动者基于手段-目的理性做决策，追求以最小成本达成目的。这一假设正是后续文化社会学批评的焦点。
 

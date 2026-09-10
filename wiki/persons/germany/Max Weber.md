@@ -7,7 +7,7 @@ summary: "德国社会学家，理解社会学奠基人与新教伦理与资本�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 24
+person_related_count: 25
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Rationalism in International Relations]]"
   - "[[Analytic Framework]]"
+  - "[[Determinism]]"
   - "[[Unit of Analysis]]"
   - "[[Corporate Education]]"
   - "[[Habitus]]"
@@ -122,7 +123,7 @@ updated: 2026-09-08
 > | 1892 | *Die Lage der Landarbeiter im ostelbischen Deutschland* | 为社会政策协会主持大规模经验调查，研究易北河以东农业工人的迁移流动、阶层结构与民族政治问题。 | 从法学家向国民经济学家转型，显现支配关系与资本主义精神线索 |
 > | 1895 | *Der Nationalstaat und die Volkswirtschaftspolitik* | 弗赖堡大学就职演讲，以民族国家利益、经济政策与边境劳工为中心表达民族自由主义政治立场。 | 体现早期市民阶级政治理想，成为后来民族主义与权力国家争鸣的焦点文本（Mommsen, 1974） |
 > | 1904 | *Die "Objektivität" sozialwissenschaftlicher und sozialpolitischer Erkenntnis* | 阐述文化科学的对象建构、价值关联、价值判断自由与[[Analytic Framework\|理想类型]]方法。 | 方法论突破标志，将客观性确立为对对象、价值关联与概念工具的反思控制 |
-> | 1904/05 | *Die protestantische Ethik und der Geist des Kapitalismus* | 论证加尔文宗及入世禁欲新教派别的职业伦理与现代资本主义精神之间存在[[Selective Affinity\|选择性亲和]]关系。 | 破除唯经济决定论，开启观念、生活方式与理性资本主义关联研究 |
+> | 1904/05 | *Die protestantische Ethik und der Geist des Kapitalismus* | 论证加尔文宗及入世禁欲新教派别的职业伦理与现代资本主义精神之间存在[[Selective Affinity\|选择性亲和]]关系。 | 破除唯经济[[Determinism\|决定论]]，开启观念、生活方式与理性资本主义关联研究 |
 > | 1915–20 | *Die Wirtschaftsethik der Weltreligionen* | 通过对儒教与道教、印度教与佛教、古代犹太教的比较，考察宗教伦理如何塑造经济行动与生活方式。 | 确立比较文明视野，以全球文明为参照检验西方理性主义独特性（Michaels, 2001） |
 > | 1917/19 | *Wissenschaft als Beruf* | 论述科学作为现代独立价值领域的意义，阐明学术天职要求的专业化、内在召唤与清醒自律。 | 将世界的祛魅转化为学术伦理问题，确立价值多神时代的思想清明原则 |
 > | 1919 | *Politik als Beruf* | 界定国家为拥有正当物理暴力垄断的政治共同体，区分信念伦理与责任伦理，提出政治家三项品质。 | 政治社会学与政治伦理代表作，奠定现代政治学国家定义与责任伦理基石（Anter, 2016） |

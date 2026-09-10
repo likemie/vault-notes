@@ -9,37 +9,81 @@ summary: "结合量化与质性数据并通过特定设计进行系统整合的�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 28
-method_related_level: 3
-method_related_stars: "⭐⭐⭐"
+method_related_count: 72
+method_related_level: 6
+method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#fef3c7"
 tags:
   - mixed-methods
   - research-methodology
   - paradigm/pragmatic
 related_concepts:
+  - "[[Paradigm]]"
+  - "[[Questionnaire]]"
+  - "[[Variable]]"
+  - "[[Effect Size]]"
+  - "[[Unit of Analysis]]"
+  - "[[Metainferences]]"
+  - "[[Data Transformation]]"
+  - "[[Operationalization]]"
+  - "[[Metacognition]]"
   - "[[Multimethod Research]]"
   - "[[Research Question]]"
-  - "[[Metainferences]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Paradigm Wars]]"
+  - "[[Knowledge Production]]"
+  - "[[Dialogue in Education]]"
+  - "[[Epistemology]]"
+  - "[[Ontology]]"
   - "[[Reflexivity]]"
-  - "[[Data Transformation]]"
+  - "[[Reliability]]"
+  - "[[Causality]]"
+  - "[[Heterogeneity]]"
+  - "[[Decodification]]"
+  - "[[Problem Finding]]"
+  - "[[Sample Size Determination]]"
+  - "[[Construct]]"
+  - "[[Transcription in Qualitative Research]]"
+  - "[[Rich and Thick Description]]"
+  - "[[Emergence]]"
   - "[[External Validity]]"
+  - "[[Hypothesis]]"
   - "[[Integration Statement]]"
-related_theories: []
+  - "[[Positivism]]"
+  - "[[Virtual World]]"
+  - "[[Recommendations for Practice]]"
+  - "[[University-Industry Collaboration]]"
+  - "[[International Baccalaureate]]"
+  - "[[Theory of Knowledge]]"
+  - "[[Critical Thinking]]"
+  - "[[Concurrency of Learning]]"
+related_theories:
+  - "[[Phenomenology]]"
 related_methods:
-  - "[[Joint Display]]"
-  - "[[Triangulation]]"
-  - "[[Convergent Design]]"
-  - "[[Explanatory Sequential Design]]"
-  - "[[Exploratory Sequential Design]]"
   - "[[Quantitative Research]]"
   - "[[Qualitative Research]]"
+  - "[[In-depth Interview]]"
+  - "[[Participant Observation]]"
+  - "[[Joint Display]]"
+  - "[[Focus Group]]"
+  - "[[Randomised Controlled Trials]]"
+  - "[[Triangulation]]"
+  - "[[Convergent Design]]"
+  - "[[Between-Subjects and Within-Subjects Designs]]"
+  - "[[Coding in Qualitative Research]]"
+  - "[[Explanatory Sequential Design]]"
+  - "[[Exploratory Sequential Design]]"
+  - "[[Pilot Testing]]"
+  - "[[Ethnography]]"
+  - "[[Qualitative Observation]]"
+  - "[[Website Content Analysis]]"
+  - "[[Group Interview]]"
 related_persons:
   - "[[John W. Creswell]]"
+  - "[[J. David Creswell]]"
 related_facts:
   - "[[Mixed Methods International Research Association]]"
+  - "[[Peidu]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
   - "[[Argument_Creswell_2022_SAGE]]"

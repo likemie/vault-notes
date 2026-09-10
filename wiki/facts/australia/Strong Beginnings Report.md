@@ -10,7 +10,7 @@ subtype: policy
 region: australia
 fact_region: "australia"
 fact_kind: "policy"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Classroom Management]]"
   - "[[Document]]"
   - "[[Policy Network]]"
+  - "[[Determinism]]"
   - "[[What Works Movement]]"
 related_theories:
   - "[[Cognitive Load Theory]]"

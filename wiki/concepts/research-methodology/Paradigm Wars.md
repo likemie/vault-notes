@@ -8,10 +8,10 @@ aliases:
 summary: "20世纪70至90年代社会科学与教育研究领域中量化实证范式与质性诠释范式之间的制度化方法论对立与论辩，后被混合方法研究的实用主义运动所超越与重构"
 type: concept
 domain: "research-methodology"
-related_count: 15
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 41
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - theme/epistemology
   - theme/research-philosophy
@@ -19,20 +19,46 @@ tags:
   - paradigm/positivism
   - paradigm/interpretivist
 related_concepts:
+  - "[[Paradigm]]"
+  - "[[Construct]]"
   - "[[Positivism]]"
   - "[[Interpretive Paradigm]]"
-  - "[[Statistical Significance]]"
-  - "[[Rich and Thick Description]]"
-  - "[[Incommensurability]]"
+  - "[[Ontology]]"
+  - "[[Epistemology]]"
+  - "[[Theory of Knowledge]]"
   - "[[Effect Size]]"
-  - "[[Paradigm]]"
+  - "[[Rich and Thick Description]]"
   - "[[Pragmatic Paradigm]]"
-related_theories: []
+  - "[[Dialogue in Education]]"
+  - "[[Knowledge Production]]"
+  - "[[Determinism]]"
+  - "[[Voluntarism]]"
+  - "[[Causality]]"
+  - "[[Problem Solving]]"
+  - "[[Statistical Significance]]"
+  - "[[Incommensurability]]"
+  - "[[Scale of Measurement]]"
+  - "[[Questionnaire]]"
+  - "[[Research Question]]"
+  - "[[Objectivism]]"
+  - "[[Subjectivism]]"
+  - "[[Evidence-Based Education]]"
+  - "[[Analytical Stance]]"
+  - "[[Reflexivity]]"
+  - "[[Document]]"
+  - "[[Variable]]"
+related_theories:
+  - "[[Phenomenology]]"
 related_methods:
   - "[[Quantitative Research]]"
   - "[[Qualitative Research]]"
   - "[[Mixed Methods Research]]"
+  - "[[Randomised Controlled Trials]]"
   - "[[Ethnography]]"
+  - "[[Triangulation]]"
+  - "[[Qualitative Interview]]"
+  - "[[Meta-analysis]]"
+  - "[[Coding in Qualitative Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []

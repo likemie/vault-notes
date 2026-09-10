@@ -6,10 +6,10 @@ aliases:
 summary: "跨研究或同一群体内部超出抽样误差的系统性变异；在量化元分析中表征效应量分布发散并提示探索调节变量，在混合方法与复杂性理论中揭示统计同质性遮蔽的质性动因多样性与世界的非线性开放特征。"
 type: concept
 domain: "research-methodology"
-related_count: 22
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 42
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - heterogeneity
   - meta-analysis
@@ -19,12 +19,28 @@ tags:
 related_concepts:
   - "[[Sampling Error]]"
   - "[[Effect Size]]"
+  - "[[Paradigm]]"
+  - "[[Research Question]]"
+  - "[[Ontology]]"
   - "[[Rich and Thick Description]]"
   - "[[Sample Size Determination]]"
+  - "[[Hypothesis]]"
+  - "[[Standard Error]]"
+  - "[[Document]]"
   - "[[Forest Plot]]"
+  - "[[Determinism]]"
+  - "[[Grand Theory]]"
+  - "[[Between-Study Variance]]"
+  - "[[Epistemology]]"
+  - "[[Questionnaire]]"
+  - "[[Emergence]]"
+  - "[[Positivism]]"
+  - "[[Visible Learning]]"
+  - "[[Variable]]"
   - "[[Unit of Analysis]]"
 related_theories:
   - "[[Complexity Theory]]"
+  - "[[Realist Evaluation]]"
   - "[[Critical Realism]]"
 related_methods:
   - "[[Meta-analysis]]"
@@ -33,9 +49,12 @@ related_methods:
   - "[[Random Sampling]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Cochran's Q Test]]"
+  - "[[Meta-regression]]"
+  - "[[Meta-meta-analysis]]"
 related_persons:
   - "[[Karl Pearson]]"
   - "[[Gene Glass]]"
+  - "[[John Hattie]]"
 related_arguments:
   - "[[Argument_Higgins_2016_RE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
@@ -43,7 +62,8 @@ related_arguments:
   - "[[Argument_Wiliam_2019_ERE]]"
   - "[[Argument_Simpson_2017_JEP]]"
   - "[[Argument_Terhart_2011_JCS]]"
-related_facts: []
+related_facts:
+  - "[[Education Endowment Foundation]]"
 confidence: high
 status: draft
 created: 2026-06-08

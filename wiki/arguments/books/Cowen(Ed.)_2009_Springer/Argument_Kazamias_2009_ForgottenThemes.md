@@ -7,7 +7,7 @@ title: "Argument_Kazamias_2009_ForgottenThemes"
 argument_key: "Argument_Kazamias_2009_ForgottenThemes"
 argument_display_title: "Forgotten Men, Forgotten Themes: The Historical-philosophical-cultural and Liberal Humanist Motif in Comparative Education"
 argument_kind: "book-chapter"
-argument_related_count: 75
+argument_related_count: 77
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -48,6 +48,8 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Historical-Philosophical-Cultural Motif]]"
   - "[[Hypothesis]]"
+  - "[[Empiricism]]"
+  - "[[Determinism]]"
   - "[[Questionnaire]]"
   - "[[Rationalism in International Relations]]"
   - "[[Educational Meliorism]]"

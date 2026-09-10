@@ -11,40 +11,78 @@ aliases:
 summary: "与实证主义相对的研究范式，强调从行动者内部视角理解主观意义、生活世界与情境独特性，以归纳、扎根与自然主义方式整体把握人类意向行动。"
 type: concept
 domain: "research-methodology"
-related_count: 18
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 56
+related_level: 5
+related_stars: "⭐⭐⭐⭐⭐"
+related_color: "#fecdd3"
 tags:
   - paradigm/interpretive
   - theme/epistemology
   - theme/research-philosophy
   - method/qualitative
 related_concepts:
-  - "[[Emic and Etic]]"
+  - "[[Paradigm]]"
+  - "[[Positivism]]"
+  - "[[Normative Paradigm]]"
+  - "[[Epistemology]]"
+  - "[[Reflexivity]]"
   - "[[Rich and Thick Description]]"
   - "[[Emergence]]"
-  - "[[Epistemology]]"
-  - "[[Positivism]]"
   - "[[Indexicality]]"
+  - "[[Reliability]]"
+  - "[[Student-Teacher Relationship]]"
+  - "[[Analytic Framework]]"
+  - "[[Objectivism]]"
+  - "[[Subjectivism]]"
+  - "[[Nominalism]]"
+  - "[[Hypothesis]]"
+  - "[[Determinism]]"
+  - "[[Voluntarism]]"
+  - "[[Creativity]]"
+  - "[[Nomothetic]]"
+  - "[[Questionnaire]]"
+  - "[[Idiographic]]"
+  - "[[Unit of Analysis]]"
+  - "[[Construct]]"
+  - "[[Epoché]]"
+  - "[[Dialogue in Education]]"
+  - "[[Paradigm Wars]]"
+  - "[[Champ]]"
+  - "[[Going Native]]"
+  - "[[Cultural Capital]]"
+  - "[[Causality]]"
+  - "[[Ontology]]"
+  - "[[Emic and Etic]]"
 related_theories:
+  - "[[Thomas Theorem]]"
   - "[[Phenomenology]]"
   - "[[Ethnomethodology]]"
   - "[[Symbolic Interactionism]]"
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Ethnography]]"
+  - "[[Case Study]]"
+  - "[[Participant Observation]]"
+  - "[[Coding in Qualitative Research]]"
   - "[[Grounded Theory]]"
+  - "[[Role-playing]]"
+  - "[[Open Coding]]"
+  - "[[Axial Coding]]"
 related_persons:
-  - "[[Edmund Husserl]]"
-  - "[[Alfred Schutz]]"
   - "[[Harold Garfinkel]]"
   - "[[George Herbert Mead]]"
+  - "[[Jack Douglas]]"
+  - "[[Peter Woods]]"
+  - "[[John Rex]]"
+  - "[[Basil Bernstein]]"
+  - "[[Keith Morrison]]"
 related_facts: []
 related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11]]"
-related_instruments: []
+related_instruments:
+  - "[[Flanders Interaction Analysis Categories]]"
 confidence: high
 status: active
 created: 2026-06-13

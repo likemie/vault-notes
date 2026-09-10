@@ -10,10 +10,10 @@ aliases:
 summary: "统摄学科全貌、追求先验普遍性与高度逻辑自洽的思辨性元叙述体系，因脱离经验事实与异质微观现实而遭遇默顿中层理论、扎根理论与后现代主义的深刻批判。"
 type: concept
 domain: "research-methodology"
-related_count: 8
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 27
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/methodology
   - theory-type/grand-theory
@@ -21,16 +21,35 @@ tags:
   - paradigm/critical-theory
   - theme/sociological-theory
 related_concepts:
-  - "[[Positivism]]"
-  - "[[Postmodernism]]"
-  - "[[Normative Paradigm]]"
+  - "[[Ontology]]"
+  - "[[Epistemology]]"
+  - "[[Falsification]]"
+  - "[[Big Ideas]]"
+  - "[[Operationalization]]"
+  - "[[Creativity]]"
   - "[[Heterogeneity]]"
+  - "[[Champ]]"
+  - "[[Emergence]]"
+  - "[[Hypothesis]]"
+  - "[[Variable]]"
+  - "[[Scientific Method]]"
+  - "[[Postmodernism]]"
+  - "[[Paradigm]]"
+  - "[[Disciplina and Doctrina]]"
+  - "[[Rich and Thick Description]]"
+  - "[[Positivism]]"
+  - "[[Determinism]]"
+  - "[[Normative Paradigm]]"
 related_theories:
   - "[[Complexity Theory]]"
 related_methods:
   - "[[Grounded Theory]]"
+  - "[[Coding in Qualitative Research]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Keith Morrison]]"
+  - "[[Georg Wilhelm Friedrich Hegel]]"
+  - "[[Jean-François Lyotard]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"

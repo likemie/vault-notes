@@ -13,10 +13,10 @@ aliases:
 summary: "研究设计、质性编码与内容分析中确定数据切片与分类基本边界的核心概念，涵盖抽样单位、记录单位与语境单位三层体系及其对分析信效度的制约机制"
 type: concept
 domain: "research-methodology"
-related_count: 39
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 42
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - research-methodology
   - qualitative-research
@@ -32,15 +32,17 @@ related_concepts:
   - "[[Transcription in Qualitative Research]]"
   - "[[Dialogue in Education]]"
   - "[[Teacher Professional Agency]]"
+  - "[[Empiricism]]"
   - "[[Reliability]]"
   - "[[Intercoder Agreement]]"
   - "[[Ecological Fallacy]]"
+  - "[[Emergence]]"
   - "[[Document]]"
   - "[[Positivism]]"
   - "[[Questionnaire]]"
   - "[[Interpretive Paradigm]]"
-  - "[[Emergence]]"
   - "[[Presence]]"
+  - "[[Champ]]"
   - "[[Hypothesis]]"
   - "[[Research Question]]"
   - "[[Domain Analysis]]"
@@ -61,6 +63,7 @@ related_instruments: []
 related_persons:
   - "[[Yvonna S. Lincoln]]"
   - "[[Egon G. Guba]]"
+  - "[[Keith Morrison]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"

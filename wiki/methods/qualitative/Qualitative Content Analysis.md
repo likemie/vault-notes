@@ -9,7 +9,7 @@ summary: "将规则主导的系统性程序与质性诠释深度融合的文本�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 42
+method_related_count: 43
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Construct]]"
   - "[[Content Validity]]"
+  - "[[Determinism]]"
   - "[[Document]]"
   - "[[Positivism]]"
   - "[[Constructivist Paradigm]]"

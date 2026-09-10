@@ -8,7 +8,7 @@ summary: "在元分析框架下，通过加权回归检验研究特征与连续�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 51
+method_related_count: 52
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Questionnaire]]"
   - "[[Internal Consistency]]"
+  - "[[Determinism]]"
   - "[[Sample Size Determination]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Preregistration]]"

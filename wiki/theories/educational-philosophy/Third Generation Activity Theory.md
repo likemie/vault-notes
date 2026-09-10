@@ -15,16 +15,17 @@ aliases:
 summary: "在 Vygotsky 中介三角与 Engeström 六要素模型基础上发展出的理论范式，聚焦多活动系统相遇时的矛盾、边界跨越、人机协同分工与扩展性改造机制，包含教育技术领域的 AT-MCSCL 分析框架。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 49
-theory_related_level: 5
-theory_related_stars: "⭐⭐⭐⭐⭐"
-theory_related_color: "#ffedd5"
+theory_related_count: 50
+theory_related_level: 6
+theory_related_stars: "⭐⭐⭐⭐⭐⭐"
+theory_related_color: "#fef3c7"
 tags:
   - theme/activity-theory
   - theme/educational-reform
   - theme/human-ai-collaboration
   - theme/higher-order-thinking
 related_concepts:
+  - "[[Determinism]]"
   - "[[Paradigm]]"
   - "[[Constructivist Paradigm]]"
   - "[[Analytic Framework]]"
@@ -92,7 +93,7 @@ updated: 2026-09-04
 
 > [!theory-position] 理论定位
 > - **解释对象** 集体活动系统（Activity System）、多系统相遇与互动、中介工具介入（如生成式 AI、跨国新教学法）、制度与系统内部矛盾（Contradictions）及扩展性组织改造机制（Expansive Transformation）。
-> - **理论问题** 如何超越个体主义认知还原论与机械技术决定论，从中观社会文化历史情境与系统结构性矛盾切入，解释制度变迁、教学改革、人机认知分工以及边界跨越（Boundary Crossing）现象？
+> - **理论问题** 如何超越个体主义认知还原论与机械技术[[Determinism|决定论]]，从中观社会文化历史情境与系统结构性矛盾切入，解释制度变迁、教学改革、人机认知分工以及边界跨越（Boundary Crossing）现象？
 > - **理论类型** 文化历史活动理论[[Paradigm|范式]]（Cultural-Historical Activity Theory, CHAT）、社会文化历史[[Constructivist Paradigm|建构主义]]中层机制模型与[[Analytic Framework|分析框架]]，涵盖专用于解构数字协同学习调节[[Variable|变量]]的 AT-MCSCL [[Domain Analysis|领域分析]]架构。
 > - **知识位置** 承袭 Vygotsky 中介三角与 Leont'ev 活动层级论，由 Engeström (1987, 2001) 形式化为六要素模型与多系统互动网络；近期在教育政策[[Transfer Translation Transformation|转译]]（[[Argument_Wang_2025_CE|Wang & McLaughlin, 2025]]）、高等教育生成式 AI 教学重构（[[Argument_Li_2026_CEAI|Li et al., 2026]]）与[[Meta-analysis|元分析]][[Coding in Qualitative Research|编码]]（[[Argument_Chen_Cheung_2025_ERR|Chen & Cheung, 2025]]）中获得前沿拓展。
 
@@ -208,7 +209,7 @@ updated: 2026-09-04
 > >   - **人机劳动分工** AI 定位为主体平等的“学习同伴”（$g^+=0.941$）显著优于单向灌输的“授课导师”（$g^+=0.649$），营建了低求助焦虑的共创对话[[Champ|场域]]；
 > >   - **规则与设计规程** 4–12 周干预为黄金周期（$g^+=1.014$），兼顾技能内化与防范脱敏；自编测验（$g^+=1.022$）因题目贴合练习而显著虚高于标准化测验（$g^+=0.614$）；
 > >   - **共同体与文化情境** 真实课堂（$g^+=0.891$）显著优于实验室（$g^+=0.261$）；低 ICT（$g^+=1.764$）与低 SES（$g^+=1.751$）高校展现边际效益递增规律，高权力距离文化中显现打破权威壁垒的平权赋能效应（$g^+=0.859$ vs $0.236$）。
-> > - **方法论效能** 展示了第三代活动理论与 AT-MCSCL 框架作为大[[Sample Size Determination|样本量]]化[[Meta-analysis|元分析]][[Coding in Qualitative Research|编码]]架构的强大解释力，实证推翻了技术全能决定论，确立了技术促学的人机生态观。
+> > - **方法论效能** 展示了第三代活动理论与 AT-MCSCL 框架作为大[[Sample Size Determination|样本量]]化[[Meta-analysis|元分析]][[Coding in Qualitative Research|编码]]架构的强大解释力，实证推翻了技术全能[[Determinism|决定论]]，确立了技术促学的人机生态观。
 
 ---
 
@@ -263,7 +264,7 @@ updated: 2026-09-04
 
 > [!debates] 理论争议
 >
-> > [!axis] 系统结构决定论 vs 微观主体主观能动性
+> > [!axis] 系统结构[[Determinism|决定论]] vs 微观主体主观能动性
 > > 批评者认为六要素系统结构过于严密，可能低估微观个体（如一线师生）在强系统压迫下的日常抵制与即兴能动性。
 > >
 > > - **Engeström（2001）** 强调系统矛盾正依赖主体的批判质疑与边界跨越来激发扩展性学习。

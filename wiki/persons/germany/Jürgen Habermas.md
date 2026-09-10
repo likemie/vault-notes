@@ -15,7 +15,7 @@ summary: "德国当代哲学家与社会理论家，法兰克福学派第二代�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 43
+person_related_count: 45
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -43,12 +43,14 @@ related_concepts:
   - "[[Bildung]]"
   - "[[Creativity]]"
   - "[[Variable]]"
+  - "[[Scientific Method]]"
   - "[[Double Hermeneutic]]"
   - "[[Praxis]]"
   - "[[Technical Rationality]]"
   - "[[Visible Learning]]"
   - "[[Dialogue in Education]]"
   - "[[Evidence-Based Education]]"
+  - "[[Grand Theory]]"
   - "[[Heterogeneity]]"
   - "[[Incommensurability]]"
   - "[[Realism in International Relations]]"
@@ -161,9 +163,9 @@ updated: 2026-09-06
 > - **人性的空洞化** 狭隘的因果解释沦为解释人类存在的唯一手段，严重剥夺并削弱了使人之为人的主体性特征。
 
 > [!citation-card] 实证主义批判、科学主义世俗宗教与“无良知社会”
-> 实证主义将全部人类知识窄化为实证经验科学，使科学心态被神化为近乎西方文明唯一的世俗宗教（科学主义），彻底忽视了诠释学、审美、批判、道德与创造性等多元知识形态，将人类行为降格为狭隘的技术主义（technicism）。实证主义对预测与控制的痴迷，暗合了行为主义操纵逻辑与工具理性，粗暴扼杀了关于社会价值、道德判断与善恶信念的公共理性辩论，使科学沦为服务于既得统治的技术工具，最终造就了一个丧失道德自省能力的“没有良知的社会”（Habermas, 1972, 1974; Horkheimer, 1972）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, pp. 18–19)]]
+> 实证主义将全部人类知识窄化为实证[[Scientific Method|经验科学]]，使科学心态被神化为近乎西方文明唯一的世俗宗教（科学主义），彻底忽视了诠释学、审美、批判、道德与创造性等多元知识形态，将人类行为降格为狭隘的技术主义（technicism）。实证主义对预测与控制的痴迷，暗合了行为主义操纵逻辑与工具理性，粗暴扼杀了关于社会价值、道德判断与善恶信念的公共理性辩论，使科学沦为服务于既得统治的技术工具，最终造就了一个丧失道德自省能力的“没有良知的社会”（Habermas, 1972, 1974; Horkheimer, 1972）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, pp. 18–19)]]
 >
-> *Habermas (1972), in keeping with the Frankfurt School of critical theory... provides a corrosive critique of positivism, arguing that the scientific mentality has been elevated to an almost unassailable position – almost to the level of a religion (scientism) – as being the only epistemology of the west... It reduces behaviour to technicism. Positivism's concern for control and, thereby, its appeal to the passivity of behaviourism and for instrumental reason is a serious danger to the more open-ended, creative, humanitarian aspects of social behaviour. Habermas (1972, 1974) and Horkheimer (1972) argue that scientism silences an important debate about values, informed opinion, moral judgements and beliefs... It makes for a society without conscience.*
+> *Habermas (1972), in keeping with the Frankfurt School of [[Critical Theory]]... provides a corrosive critique of positivism, arguing that the scientific mentality has been elevated to an almost unassailable position – almost to the level of a religion (scientism) – as being the only epistemology of the west... It reduces behaviour to technicism. Positivism's concern for control and, thereby, its appeal to the passivity of behaviourism and for instrumental reason is a serious danger to the more open-ended, creative, humanitarian aspects of social behaviour. Habermas (1972, 1974) and Horkheimer (1972) argue that scientism silences an important debate about values, informed opinion, moral judgements and beliefs... It makes for a society without conscience.*
 
 哈贝马斯在《认识与兴趣》中构建的知识构成性兴趣学说，为超越单一实证主义提供了完整的方法论阶梯：
 
@@ -216,7 +218,7 @@ updated: 2026-09-06
 
 > [!tension] 现代性工程 vs [[Post-structuralism|后结构主义]]与[[Postmodernism|后现代主义]]的交锋
 > - **哈贝马斯立场（1987, 《现代性的哲学话语》）** 坚决反对将[[Critical Theory|批判理论]]与[[Postmodernism|后现代主义]]或[[Post-structuralism|后结构主义]]混为一谈；斥责后现代思潮对理性、真理与普遍规范的全面解构是放弃批判锋芒的“新保守主义”投降，必将导致道德相对主义与虚无主义；坚信启蒙现代性中蕴含着自我纠偏、自我批判的交往理性机制，现代性依然是一项必须坚持推进的未完成工程。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 27)]]
-> - **后现代主义立场（[[Jean-François Lyotard|利奥塔]]等）** 指责哈贝马斯对普遍共识与“宏大叙事（Grand Narrative）”的追求本身就是一种隐蔽的总体性极权暴力，抹杀了多元[[Heterogeneity|异质性]]与语言游戏的[[Incommensurability|不可通约性]]。
+> - **后现代主义立场（[[Jean-François Lyotard|利奥塔]]等）** 指责哈贝马斯对普遍共识与“[[Grand Theory|宏大叙事]]（Grand Narrative）”的追求本身就是一种隐蔽的总体性极权暴力，抹杀了多元[[Heterogeneity|异质性]]与语言游戏的[[Incommensurability|不可通约性]]。
 
 > [!debates] 理论现实有效性的学术争议
 >

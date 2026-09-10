@@ -10,7 +10,7 @@ summary: "美国著名历史学家、哈佛大学讲席教授与美国历史学�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 9
+person_related_count: 10
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Growth]]"
   - "[[Falsification]]"
+  - "[[Empiricism]]"
 related_theories: []
 related_methods:
   - "[[Historical-Comparative Method]]"
@@ -119,6 +120,6 @@ updated: 2026-09-07
 
 > [!person-network] 学术谱系与思想网络
 > - **方法论引路人** 卡扎米亚斯（[[Andreas Kazamias]]）在 1963 年与 2009 年论著中将布林顿的方法论引为重构比较教育学历史方法现代合法性的核心基石；
-> - **[[Paradigm|范式]]共鸣** 与默顿（Robert K. Merton）的“中程理论”形成遥相呼应，共同超越了宏大普适法则与微观经验主义碎片的对立。
+> - **[[Paradigm|范式]]共鸣** 与默顿（Robert K. Merton）的“中程理论”形成遥相呼应，共同超越了宏大普适法则与微观[[Empiricism|经验主义]]碎片的对立。
 
 ---

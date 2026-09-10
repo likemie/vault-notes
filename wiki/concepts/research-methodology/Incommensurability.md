@@ -8,31 +8,51 @@ aliases:
 summary: "库恩范式理论的核心认识论构念，指不同科学范式之间缺乏中立公认的共同原则、标准或衡量尺度，因而无法在同一逻辑评价体系下直接比较优劣"
 type: concept
 domain: "research-methodology"
-related_count: 18
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 38
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - theme/philosophy-of-science
   - theme/epistemology
   - paradigm/postpositivist
 related_concepts:
   - "[[Paradigm]]"
-  - "[[Ontology]]"
   - "[[Epistemology]]"
+  - "[[Construct]]"
+  - "[[Scientific Paradigm]]"
+  - "[[Ontology]]"
+  - "[[Hypothesis]]"
   - "[[Paradigm Wars]]"
+  - "[[Dialogue in Education]]"
+  - "[[Epistemological Beliefs]]"
   - "[[Pragmatic Paradigm]]"
-  - "[[Effect Size]]"
-  - "[[Statistical Significance]]"
-  - "[[Rich and Thick Description]]"
   - "[[Positivism]]"
+  - "[[Effect Size]]"
+  - "[[Rich and Thick Description]]"
+  - "[[Falsification]]"
+  - "[[Cognitive Shifting]]"
+  - "[[Determinism]]"
   - "[[Interpretive Paradigm]]"
+  - "[[Statistical Significance]]"
+  - "[[Subjectivism]]"
+  - "[[Objectivism]]"
+  - "[[Nominalism]]"
+  - "[[Voluntarism]]"
+  - "[[Research Question]]"
+  - "[[Knowledge Production]]"
+  - "[[Document]]"
+  - "[[Variable]]"
+  - "[[Scientific Method]]"
 related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Ethnography]]"
   - "[[Quantitative Research]]"
   - "[[Qualitative Research]]"
+  - "[[Joint Display]]"
+  - "[[Content Analysis]]"
+  - "[[Coding in Qualitative Research]]"
 related_instruments: []
 related_persons:
   - "[[Thomas Kuhn]]"

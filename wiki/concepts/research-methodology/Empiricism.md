@@ -4,23 +4,49 @@ aliases: [经验主义, 经验论, empirical assumption, empirical tradition]
 summary: "科学探究四大基本假设之一，主张可靠知识源自感官观察与直接经验，理论必须依托经验证据支撑，奠定了实证科学方法与 Mouly 经验演化五步进程的认识论基石。"
 type: concept
 domain: "research-methodology"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 33
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags: [theme/epistemology, theme/methodology, theme/research-philosophy, paradigm/positivist]
 related_concepts:
+  - "[[Hypothesis]]"
+  - "[[Epistemology]]"
+  - "[[Paradigm]]"
+  - "[[Evidence-Based Education]]"
   - "[[Positivism]]"
+  - "[[Scientism]]"
+  - "[[Rationalism in International Relations]]"
+  - "[[Falsification]]"
   - "[[Scientific Method]]"
+  - "[[Variable]]"
+  - "[[Construct]]"
+  - "[[Document]]"
+  - "[[Objectivism]]"
+  - "[[Reflexivity]]"
+  - "[[Pragmatic Paradigm]]"
+  - "[[Subjectivism]]"
+  - "[[Questionnaire]]"
+  - "[[Operationalization]]"
   - "[[Determinism]]"
   - "[[Principle of Parsimony]]"
   - "[[Postpositivism]]"
 related_persons:
+  - "[[René Descartes]]"
   - "[[Francis Bacon]]"
+  - "[[John Locke]]"
+  - "[[George Berkeley]]"
   - "[[Karl Popper]]"
 related_arguments:
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
+related_theories:
+  - "[[Critical Realism]]"
+  - "[[Phenomenology]]"
+  - "[[Critical Theory]]"
+related_methods:
+  - "[[Observation Method]]"
+  - "[[Mixed Methods Research]]"
 confidence: high
 status: draft
 created: 2026-09-09

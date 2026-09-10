@@ -10,9 +10,9 @@ aliases:
 summary: "Flanders 开发的经典课堂言语互动系统化观察工具，采用 3 秒时间取样将课堂言语行为划分为 10 类，通过矩阵分析评估课堂结构与师生互动模式，亦成为反思实证量化编码忽视情境索引性的经典范例。"
 type: instrument
 instrument_type: observation-tool
-instrument_related_count: 3
-instrument_related_level: 0
-instrument_related_stars: "☆"
+instrument_related_count: 16
+instrument_related_level: 3
+instrument_related_stars: "⭐⭐⭐"
 instrument_related_color: "#cffafe"
 part_of: ""
 developers:
@@ -30,9 +30,22 @@ tags:
   - paradigm/positivist
   - research-methodology
 related_concepts:
+  - "[[Operationalization]]"
+  - "[[Assertiveness]]"
+  - "[[Direct Instruction]]"
+  - "[[Positivism]]"
+  - "[[Interpretive Paradigm]]"
+  - "[[Homework]]"
+  - "[[Conatus]]"
+  - "[[Rich and Thick Description]]"
+  - "[[Reliability]]"
+  - "[[Growth]]"
   - "[[Indexicality]]"
+  - "[[Ecological Validity]]"
+  - "[[Construct Validity]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Coding in Qualitative Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []

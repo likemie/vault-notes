@@ -9,7 +9,7 @@ aliases:
 summary: "由布赖恩·霍姆斯从卡尔·波普尔科学哲学引入比较教育学的方法论基石，将人类教育事务严格划分为人为设立且可变更的规范法则与具有情境权变性、用于描述机构功能运行并接受经验证伪的社会学法则"
 type: concept
 domain: "comparative-education"
-related_count: 30
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -20,8 +20,11 @@ tags:
   - theme/comparative-methodology
 related_concepts:
   - "[[Falsification]]"
+  - "[[Determinism]]"
+  - "[[Empiricism]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
+  - "[[Typification]]"
   - "[[Bildung]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Democratic Education]]"
@@ -32,6 +35,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Creativity]]"
   - "[[Scientific Paradigm]]"
+  - "[[Grand Theory]]"
   - "[[Rationalism in International Relations]]"
   - "[[Analytic Framework]]"
   - "[[Variable]]"

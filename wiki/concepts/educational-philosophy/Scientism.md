@@ -5,10 +5,10 @@ aliases:
 summary: "对科学方法和科学权威的过度美化与神化，将其排他性外推至原本不适用的人类精神与社会探究领域的认识论倾向。科学主义将实证科学视为唯一合法的求真法则，以工具理性和概念数学化扼杀价值伦理辩论，在当代教育治理中表现为量化霸权与对多元认知方式的系统规训。"
 type: concept
 domain: "educational-philosophy"
-related_count: 39
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - scientism
   - scientific-method
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Praxis]]"
   - "[[Professional Judgment]]"
   - "[[Variable]]"
+  - "[[Determinism]]"
   - "[[Effect Size]]"
   - "[[External Validity]]"
   - "[[Heterogeneity]]"

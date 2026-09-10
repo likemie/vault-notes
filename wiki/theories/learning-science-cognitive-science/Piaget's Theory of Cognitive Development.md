@@ -9,7 +9,7 @@ aliases:
 summary: "皮亚杰开创的发生认识论与认知发展四阶段建构主义理论体系，揭示感觉运动、前运算、具体运算与形式运算的层级质变机制，现代脑科学研究进一步确立了前额叶皮层发育及执行功能成熟与其高度平行的生物-认知机制。"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 37
+theory_related_count: 39
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -19,6 +19,7 @@ tags:
   - learning-science
   - developmental-psychology
 related_concepts:
+  - "[[Empiricism]]"
   - "[[Epistemology]]"
   - "[[Constructivist Paradigm]]"
   - "[[Executive Function]]"
@@ -40,6 +41,7 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Scaffolding]]"
   - "[[Heterogeneity]]"
+  - "[[Determinism]]"
   - "[[Rote Learning]]"
   - "[[Higher-Order Thinking Skills]]"
 related_theories:
@@ -75,7 +77,7 @@ updated: 2026-08-25
 
 > [!theory-position] 理论定位
 > - **解释对象** 儿童智力与认知图式的起源、质变跃迁与阶段演变规律，以及环境交互与大脑生理发育对心智结构的约束机制。
-> - **理论问题** 批判传统经验主义（将儿童视为被动白板）与唯理论（将认知结构视为先天预设），探索认识结构如何在主客体动态交互中主动建构。
+> - **理论问题** 批判传统[[Empiricism|经验主义]]（将儿童视为被动白板）与唯理论（将认知结构视为先天预设），探索认识结构如何在主客体动态交互中主动建构。
 > - **理论类型** 发生[[Epistemology|认识论]]（Genetic Epistemology）、认知发展阶段模型与[[Constructivist Paradigm|建构主义]]学习理论。
 > - **知识位置** 由瑞士心理学家 [[Jean Piaget]] 于 20 世纪中叶奠定，后经新皮亚杰主义（[[Neo-Piagetian Theories]]）的信息加工修正，并在 21 世纪与认知神经科学（前额叶发育与[[Executive Function|执行功能]]模型）实现深度机制对齐。
 
@@ -237,7 +239,7 @@ updated: 2026-08-25
 
 > [!critique]- 批评索引
 > - **任务[[Working Memory|工作记忆]]负荷混淆** Bryant & Trabasso（1971）指出，传统皮亚杰任务失败常由前提记忆负担过重引起，强化记忆训练后年幼儿童亦能完成逻辑运算。[[Argument_Bolton_2017_ArchPsych|(Bolton & Hattie, 2017, p. 3)]]
-> - **文化与生态背景忽略** 跨文化心理学研究（Dasen & Heron, 1981; Mishra, 1997）证实生态环境对守恒能力发展节点的深刻塑造，否定了纯生物决定论。
+> - **文化与生态背景忽略** 跨文化心理学研究（Dasen & Heron, 1981; Mishra, 1997）证实生态环境对守恒能力发展节点的深刻塑造，否定了纯生物[[Determinism|决定论]]。
 > - **学校教育导致形式运算推迟** 现代学校若过度偏向[[Rote Learning|死记硬背]]而缺乏[[Higher-Order Thinking Skills|高阶思维]]训练，会导致形式运算达成年龄推迟至 15 岁以后。[[Argument_Bolton_2017_ArchPsych|(Bolton & Hattie, 2017, p. 20)]]
 
 ---

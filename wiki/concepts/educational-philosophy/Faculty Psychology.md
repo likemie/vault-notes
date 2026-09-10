@@ -9,7 +9,7 @@ aliases:
 summary: "18至19世纪主导欧美教育哲学的心理学学说，主张心灵由注意力、比较力、推理力等先天官能构成，通过有秩序的心智训练实现全人智德协调发展与通识教养"
 type: concept
 domain: "educational-philosophy"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[General Education]]"
   - "[[Culture Générale]]"
   - "[[Questionnaire]]"
+  - "[[Empiricism]]"
   - "[[Domain Specificity]]"
   - "[[Metacognition]]"
   - "[[Problem Solving]]"

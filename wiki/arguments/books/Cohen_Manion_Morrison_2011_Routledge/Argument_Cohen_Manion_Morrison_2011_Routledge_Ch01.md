@@ -132,15 +132,10 @@ related_persons:
   - "[[Aristotle]]"
   - "[[Anthony Giddens]]"
   - "[[Abraham Maslow]]"
-  - "[[Peter Medawar]]"
   - "[[Jürgen Habermas]]"
   - "[[Carl Rogers]]"
   - "[[Rom Harré]]"
-  - "[[Jack Douglas]]"
   - "[[Peter Woods]]"
-  - "[[John Rex]]"
-  - "[[Basil Bernstein]]"
-  - "[[Stuart Kauffman]]"
   - "[[Francis Bacon]]"
   - "[[Fred N. Kerlinger]]"
   - "[[Thomas Kuhn]]"
@@ -148,13 +143,18 @@ related_persons:
   - "[[Auguste Comte]]"
   - "[[Keith Morrison]]"
   - "[[Karl Popper]]"
+  - "[[Peter Medawar]]"
   - "[[Søren Kierkegaard]]"
   - "[[Clifford Geertz]]"
+  - "[[Jack Douglas]]"
   - "[[Edmund Husserl]]"
   - "[[Alfred Schutz]]"
   - "[[Harold Garfinkel]]"
   - "[[George Herbert Mead]]"
+  - "[[John Rex]]"
+  - "[[Basil Bernstein]]"
   - "[[John W. Creswell]]"
+  - "[[Stuart Kauffman]]"
 related_facts:
   - "[[Nobel Prize in Physiology or Medicine]]"
 related_arguments: []
@@ -897,7 +897,7 @@ updated: 2026-09-09
 
 ### 九、复杂性理论：正在兴起的教育研究新范式（1.16节）
 
-在当代方法论前沿中，复杂性理论（complexity theory）被确立为正在重塑教育探究版图的全新范式（Morrison, 2002a, 2008; Radford, 2006, 2008; Kuhn, 2007）。该理论将学校与课堂视为典型的**复杂适应系统（Complex Adaptive Systems, [[Creativity, Action, Service|CAS]]）**（Kauffman, 1995）。
+在当代方法论前沿中，复杂性理论（complexity theory）被确立为正在重塑教育探究版图的全新范式（Morrison, 2002a, 2008; Radford, 2006, 2008; Kuhn, 2007）。该理论将学校与课堂视为典型的**复杂适应系统（Complex Adaptive Systems）**（Kauffman, 1995）。
 
 #### 9.1 复杂适应系统的五大核心机制
 

@@ -55,6 +55,7 @@ related_concepts:
   - "[[Epistemological Understanding]]"
   - "[[Justification for Knowing]]"
   - "[[Construct Validity]]"
+  - "[[Determinism]]"
   - "[[Causality]]"
 related_theories:
   - "[[Reflective Judgment Model]]"
@@ -87,7 +88,7 @@ title: "Argument_Greene_2018_JEP"
 argument_key: "Argument_Greene_2018_JEP"
 argument_display_title: "A meta-analytic review of the relationship between epistemic cognition and academic achievement"
 argument_kind: "journal-article"
-argument_related_count: 55
+argument_related_count: 56
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"

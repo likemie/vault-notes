@@ -13,9 +13,9 @@ summary: "Harré & Secord 提出的社会行为质性研究方法论，秉持“
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 20
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 34
+method_related_level: 4
+method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/qualitative
@@ -23,24 +23,38 @@ tags:
   - theory/social-psychology
   - research-methodology
 related_concepts:
+  - "[[Interpretive Paradigm]]"
+  - "[[Anthropomorphic Model]]"
   - "[[Social Episodes]]"
   - "[[Decodification]]"
   - "[[Habitus]]"
+  - "[[Unit of Analysis]]"
+  - "[[Epistemology]]"
   - "[[Reliability]]"
   - "[[Internal Consistency]]"
+  - "[[Reflexivity]]"
   - "[[Hypothesis]]"
+  - "[[Transcription in Qualitative Research]]"
+  - "[[Construct]]"
+  - "[[Dialogue in Education]]"
+  - "[[Growth]]"
   - "[[Operationalization]]"
-  - "[[Unit of Analysis]]"
+  - "[[Indexicality]]"
+  - "[[Rich and Thick Description]]"
 related_theories:
   - "[[Ethnomethodology]]"
   - "[[Symbolic Interactionism]]"
+  - "[[Thomas Theorem]]"
 related_methods:
   - "[[Accounts]]"
   - "[[Ethnography]]"
   - "[[Account Gathering]]"
   - "[[Cross-checking]]"
   - "[[Member Tests]]"
+  - "[[Experience Sampling Method]]"
   - "[[Experience-Sampling Method]]"
+  - "[[Coding in Qualitative Research]]"
+  - "[[Triangulation]]"
   - "[[Qualitative Research]]"
 related_instruments: []
 related_persons:

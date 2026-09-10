@@ -12,7 +12,7 @@ aliases:
 summary: "跨越研究哲学、学习理论与社会理论的概念家族，强调意义、知识和规范在主体活动及社会历史互动中形成，并用于质性研究、课程设计与观念权力分析"
 type: concept
 domain: "research-methodology"
-related_count: 56
+related_count: 57
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -48,6 +48,7 @@ related_concepts:
   - "[[Selective Affinity]]"
   - "[[Knowledge Production]]"
   - "[[Policy Borrowing]]"
+  - "[[Determinism]]"
   - "[[Surface and Deep Learning]]"
   - "[[Interpretive Paradigm]]"
   - "[[Social Realism]]"

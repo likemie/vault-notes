@@ -8,7 +8,7 @@ aliases:
 summary: "20 世纪 50 至 70 年代支配英美比较教育学的知识体系与研究纲领，摒弃古典历史学派主观印象与思辨归因，通过变量控制、量化共变检验与假说-演绎问题法探寻跨国规律与政策预测，并在实践中与战后国家理性规划形成合法化共谋"
 type: concept
 domain: "comparative-education"
-related_count: 47
+related_count: 49
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -45,9 +45,11 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Questionnaire]]"
   - "[[Social Science as Legitimation Alibi]]"
+  - "[[Grand Theory]]"
   - "[[Comparative Educations]]"
   - "[[Bildung]]"
   - "[[Critical Dualism]]"
+  - "[[Determinism]]"
   - "[[Heterogeneity]]"
 related_theories:
   - "[[Critical Theory]]"

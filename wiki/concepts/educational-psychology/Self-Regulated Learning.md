@@ -9,7 +9,7 @@ aliases:
 summary: "学习者为了达成学业目标，主动对自身的认知过程、动机体验和行为策略进行规划、监控、评价与反思性调整的循环性心理与行为系统"
 type: concept
 domain: "educational-psychology"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Problem Solving]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Learner Autonomy]]"
+  - "[[Determinism]]"
   - "[[Intelligent Tutoring Systems]]"
   - "[[Questionnaire]]"
   - "[[Learning Analytics]]"

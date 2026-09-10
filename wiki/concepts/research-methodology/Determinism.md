@@ -4,22 +4,46 @@ aliases: [决定论, 因果决定论, deterministic assumption, causal determini
 summary: "关于宇宙与人类行为根本特性的本体论假设，主张任何事件与行为均由先前条件与客观规律所决定，反对任性与偶然性，构成经典自然科学与实证主义探究的基石。"
 type: concept
 domain: "research-methodology"
-related_count: 8
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags: [theme/ontology, theme/epistemology, theme/research-philosophy, paradigm/positivist]
 related_concepts:
+  - "[[Hypothesis]]"
+  - "[[Analytic Framework]]"
+  - "[[Ontology]]"
+  - "[[Independent Variable]]"
+  - "[[Creativity]]"
   - "[[Causality]]"
   - "[[Positivism]]"
+  - "[[Epistemic Stances]]"
   - "[[Voluntarism]]"
+  - "[[Reflexivity]]"
+  - "[[Grand Theory]]"
+  - "[[Heterogeneity]]"
+  - "[[AI Agent in Education]]"
+  - "[[Emergence]]"
+  - "[[Document]]"
+  - "[[Variable]]"
+  - "[[Growth]]"
+  - "[[Post-structuralism]]"
+  - "[[Double Hermeneutic]]"
+  - "[[Learned Helplessness]]"
   - "[[Normative Paradigm]]"
   - "[[Scientific Method]]"
 related_theories:
   - "[[Complexity Theory]]"
+  - "[[Critical Realism]]"
 related_arguments:
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
+related_methods:
+  - "[[Experimental Research]]"
+  - "[[Accounts]]"
+  - "[[Causal Modeling]]"
+related_persons:
+  - "[[Keith Morrison]]"
 confidence: high
 status: draft
 created: 2026-09-09

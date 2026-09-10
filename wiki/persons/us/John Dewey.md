@@ -8,7 +8,7 @@ summary: "美国哲学家、心理学家与教育改革家，实用主义与进�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 46
+person_related_count: 47
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Progressive Education]]"
+  - "[[Empiricism]]"
   - "[[Growth]]"
   - "[[Paradigm]]"
   - "[[Active Learning]]"
@@ -84,7 +85,7 @@ updated: 2026-07-25
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国哲学家、心理学家、教育改革家与公共知识分子；[[Pragmatic Paradigm|实用主义]]、功能心理学与[[Progressive Education|进步教育]]核心代表人物；曾任芝加哥大学系主任、哥伦比亚大学哲学与教育学教授。
-> - **核心角色** 在教育哲学、经验论、探究理论与跨国教育转移网络中担任关键奠基节点；提出“[[Growth|教育即生长]]（Education is Growth）”、“学校即社会”与“民主作为联合生活方式”的解释框架，深刻重构了现代教育与公共生活关系。
+> - **核心角色** 在教育哲学、[[Empiricism|经验论]]、探究理论与跨国教育转移网络中担任关键奠基节点；提出“[[Growth|教育即生长]]（Education is Growth）”、“学校即社会”与“民主作为联合生活方式”的解释框架，深刻重构了现代教育与公共生活关系。
 > - **代表贡献** 奠定[[Progressive Education|进步教育]]与[[Pragmatic Paradigm|实用主义]]教育[[Paradigm|范式]]；提出基于“做”（doing）的探究与以[[Growth|生长]]为终极标准的[[Active Learning|主动学习]]论；推动1919–1921年中国[[New Education Movement|新教育运动]]及美苏跨国教育传播与[[Recontextualization|再脉络化]]（[[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009]]；[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024]]；[[Argument_Darwish_2009_Queens|Darwish, 2009]]）。
 
 > [!citation-card]- 杜威思想在跨国传播中的悖论与再重构
@@ -117,7 +118,7 @@ updated: 2026-07-25
 > - **1910s — [[Democratic Education|民主教育]]理论与哲学体系构建时期**
 >   - **代表著作** *How We Think* (1910), *Democracy and Education* (1916)。
 >   - **关键概念／方法** [[Active Learning|主动学习]]、[[Critical Thinking|批判性思维]]、在“做”（doing）中探究、[[Dialogue in Education|对话]]、[[Reflexivity|反思性]]探究。
->   - **阶段转向** 提出以“构建房屋模型”为代表的动手探究（doing），批判“听讲”的被动吸收状态（Dewey, 1902, p. 32），将经验论提升为公共民主生活与[[Freedom of the Learner|学习者的自由]]的哲学框架。
+>   - **阶段转向** 提出以“构建房屋模型”为代表的动手探究（doing），批判“听讲”的被动吸收状态（Dewey, 1902, p. 32），将[[Empiricism|经验论]]提升为公共民主生活与[[Freedom of the Learner|学习者的自由]]的哲学框架。
 > - **1920s–1930s — 公共性批判、确定性反思与跨国传播时期**
 >   - **代表著作** *The Public and Its Problems* (1927), *The Quest for Certainty* (1929), *Experience and Education* (1938)。
 >   - **关键概念／方法** [[Scientific Attitude|科学态度]]、[[Recontextualization|再脉络化]]、[[Cultural Diplomacy|文化外交]]、[[Transfer Translation Transformation|3T 框架]]。

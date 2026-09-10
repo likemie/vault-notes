@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_display_title: "Research Methods in Education · Ch10"
 argument_kind: "book-chapter"
-argument_related_count: 134
+argument_related_count: 135
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -129,6 +129,7 @@ related_concepts:
   - "[[Deception in Research]]"
 related_theories:
   - "[[Critical Theory]]"
+  - "[[Thomas Theorem]]"
   - "[[Item Response Theory]]"
 related_methods:
   - "[[Mixed Methods Research]]"

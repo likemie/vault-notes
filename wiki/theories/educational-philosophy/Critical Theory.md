@@ -5,7 +5,7 @@ aliases:
 summary: "以哈贝马斯认识兴趣三分法为核心的社会理论范式，旨在通过意识形态批判和变革实践解放被压迫群体，推动社会民主与平等。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 26
+theory_related_count: 27
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Classroom Management]]"
   - "[[Transformative Paradigm]]"
+  - "[[Typification]]"
 related_theories: []
 related_methods:
   - "[[Accounts]]"
@@ -166,7 +167,7 @@ updated: 2026-09-08
 
 > [!critique] 批评索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al. (2011, pp. 107–116)]] — 第2.2节系统梳理了对批判理论的四重批评：三种兴趣的人为分离、意识形态批判与解放的不确定关系、政治议程与研究者客观性的张力、[[Action Research|行动研究]]的赋权效果缺乏证据。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|Cohen et al. (2011, Ch18)]] — 第18.5节集中呈现了对[[Emancipatory Action Research|解放性行动研究]]（批判理论在方法层面的应用）的17项批评：乌托邦性、过于控制性、削弱个体教师、三分类型化站不住脚、低估权力问题、高估共识导向、非批判和自相矛盾、精英主义等。Melrose（1996, p. 52）特别指出批判性研究因自身价值负载而放弃中立。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|Cohen et al. (2011, Ch18)]] — 第18.5节集中呈现了对[[Emancipatory Action Research|解放性行动研究]]（批判理论在方法层面的应用）的17项批评：乌托邦性、过于控制性、削弱个体教师、三分[[Typification|类型化]]站不住脚、低估权力问题、高估共识导向、非批判和自相矛盾、精英主义等。Melrose（1996, p. 52）特别指出批判性研究因自身价值负载而放弃中立。
 
 ---
 

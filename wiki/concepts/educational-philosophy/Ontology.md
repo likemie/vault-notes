@@ -10,7 +10,7 @@ aliases:
 summary: "关于实在本质的哲学假设，决定研究者如何看待社会现象的存在方式；在教育心理学中，也指代个体对知识属性进行分类的心智认知系统。"
 type: concept
 domain: "educational-philosophy"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Epistemology]]"
   - "[[Epistemological Beliefs]]"
+  - "[[Nominalism]]"
   - "[[Emergence]]"
   - "[[Axiology]]"
   - "[[Objectivism]]"

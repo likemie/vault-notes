@@ -36,7 +36,6 @@ related_concepts:
   - "[[Informed Consent]]"
   - "[[Research Question]]"
   - "[[Growth]]"
-  - "[[Flanders Interaction Analysis Categories]]"
   - "[[Rating Scale]]"
   - "[[Construct Validity]]"
   - "[[Reflexivity]]"
@@ -66,6 +65,8 @@ related_arguments:
   - "[[Argument_QiMei_2015_EducationalResearchMethods]]"
 related_theories:
   - "[[Situative Perspective]]"
+related_instruments:
+  - "[[Flanders Interaction Analysis Categories]]"
 status: draft
 created: 2026-06-25
 updated: 2026-07-23

@@ -7,7 +7,7 @@ summary: "加拿大教育行政学者，主观主义教育行政研究代表人�
 type: person
 nationality: canada
 person_region: "canada"
-person_related_count: 11
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -17,6 +17,7 @@ tags:
   - paradigm/interpretivist
   - educational-administration
 related_concepts:
+  - "[[Empiricism]]"
   - "[[Epistemology]]"
   - "[[Hypothesis]]"
   - "[[Reliability]]"
@@ -41,7 +42,7 @@ updated: '2026-06-08'
 ## 简介
 
 > [!info] 简介
-> Thomas Barr Greenfield 是加拿大的教育行政学者，以对教育行政中**逻辑经验主义和理论运动**的[[Epistemology|认识论]]基础提出挑战而闻名。他的介入（通常以 1974 年在英国 Bristol 的国际互访项目为标志，但也有观点认为实际上始于 1973 年 New Orleans 的 AERA 年会）深刻改变了教育行政的认识论辩论格局([[Argument_Eacott_2015_EPT|Eacott, 2015, p.316]])。
+> Thomas Barr Greenfield 是加拿大的教育行政学者，以对教育行政中**逻辑[[Empiricism|经验主义]]和理论运动**的[[Epistemology|认识论]]基础提出挑战而闻名。他的介入（通常以 1974 年在英国 Bristol 的国际互访项目为标志，但也有观点认为实际上始于 1973 年 New Orleans 的 AERA 年会）深刻改变了教育行政的认识论辩论格局([[Argument_Eacott_2015_EPT|Eacott, 2015, p.316]])。
 
 ## 核心思想
 
@@ -62,14 +63,14 @@ updated: '2026-06-08'
 >
 > **历史背景**
 >
-> Greenfield 的挑战并非孤立事件。同一时期，Bates（1980, 1983）从批判[[Theoretical Standpoint|理论立场]]也对逻辑经验主义提出了批评。这些批判共同导致了教育行政学界许多人认为：追求教育行政的科学既不值得也不可行。
+> Greenfield 的挑战并非孤立事件。同一时期，Bates（1980, 1983）从批判[[Theoretical Standpoint|理论立场]]也对逻辑[[Empiricism|经验主义]]提出了批评。这些批判共同导致了教育行政学界许多人认为：追求教育行政的科学既不值得也不可行。
 >
 > > Evers & Lakomski（1991, 1996, 2000, 2012）后来一致论证：问题不在科学本身，而在科学的模型。他们接受 Greenfield 对逻辑经验主义的批评，但拒绝由此推论一切科学探究都不可能——主张需要一个更丰富的科学模型。
 
 ## 主要贡献
 
 > [!success] 主要贡献
-> - **挑战教育行政的逻辑经验主义[[Paradigm|范式]]** — 1974 Bristol 国际互访项目上的介入，打破了理论运动构建的客观科学共识
+> - **挑战教育行政的逻辑[[Empiricism|经验主义]][[Paradigm|范式]]** — 1974 Bristol 国际互访项目上的介入，打破了理论运动构建的客观科学共识
 > - **"人性科学"的愿景** — 主张以[[Subjectivism|主观主义]]和[[Phenomenology|现象学]]取代[[Positivism|实证主义]]作为教育行政研究的基础
 > - **Greenfield & Ribbins（1993）** — *Greenfield on Educational Administration*，汇集其主要论述
 
@@ -91,4 +92,4 @@ updated: '2026-06-08'
 > [!warning] 争议与批评
 > - **"怎么都行"的问题**[[Argument_Eacott_2015_EPT|Eacott (2015, p.316)]]指出，通过拒斥客观性并将论证交付给社会现象的主观性，"Greenfield 确实将自己留在了'怎么都行'的处境中——可以说这种处境同样成问题"。如果不存在任何客观标准，如何区分好的研究和差的研究？
 > - **消极后果** Greenfield 的批判（与 Bates 等人一起）在打破[[Positivism|实证主义]]垄断的同时，也导致许多人彻底放弃了"科学"探究的追求——Evers & Lakomski 认为这是一种矫枉过正
-> - **Eacott 的定位**[[Argument_Eacott_2015_EPT|Eacott (2015)]]在 Greenfield and Evers/Lakomski 之间寻找第三条路——接受对逻辑经验主义的批判，但不放弃"科学探究"的标签，而是通过 Bourdieu 的反思社会学重新定义什么是"科学"
+> - **Eacott 的定位**[[Argument_Eacott_2015_EPT|Eacott (2015)]]在 Greenfield and Evers/Lakomski 之间寻找第三条路——接受对逻辑[[Empiricism|经验主义]]的批判，但不放弃"科学探究"的标签，而是通过 Bourdieu 的反思社会学重新定义什么是"科学"

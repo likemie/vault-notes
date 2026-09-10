@@ -8,7 +8,7 @@ summary: "法国社会学家，场域-习性-资本理论创立者与区分作�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 46
+person_related_count: 47
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Post-structuralism]]"
+  - "[[Determinism]]"
   - "[[Document]]"
   - "[[Positivism]]"
   - "[[Praxis]]"
@@ -212,7 +213,7 @@ updated: 2026-07-13
 
 > [!debates] 学术争议
 >
-> > [!axis] 再生产的结构决定论与宿命论
+> > [!axis] 再生产的结构[[Determinism|决定论]]与宿命论
 > > 许多教育学者与行动者指责 Bourdieu 的理论构建过于悲观和闭塞，如果学校只是阶级结构的复制机器，那么微观的课程改革、教师赋能和能动性反抗将失去意义。这在西方和中国教育界都引发了广泛的质疑，认为其压低了微观主体能动性的发展空间。
 > >
 > > - **行动派教育学家** 批评其削弱了民主化学校教育改善社会公平的能动信念。

@@ -8,7 +8,7 @@ summary: "丹麦哲学家与神学家，存在主义哲学的先驱与奠基人�
 type: person
 nationality: denmark
 person_region: "denmark"
-person_related_count: 24
+person_related_count: 25
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Dehumanization]]"
   - "[[Interpretive Paradigm]]"
   - "[[Variable]]"
+  - "[[Anthropomorphic Model]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Critical Pedagogy]]"
   - "[[Paradigm]]"
@@ -125,7 +126,7 @@ updated: 2026-09-09
 
 > [!influence-path] 影响路径
 > - **理论路径** 开创了欧陆存在主义哲学传统，直接启迪了后世对在世生存、存在先于本质及生存自由的探索，构成了20世纪欧陆人本主义哲学的源头活水。
-> - **方法路径** 深刻动摇了[[Positivism|实证主义]]方法论一元论的合法性垄断，为社会科学与教育研究中的[[Interpretive Paradigm|诠释范式]]、[[Qualitative Research|质性研究]]与人本主义探究（如拟人化模型、[[Participatory Action Research|参与式行动研究]]）提供了不可动摇的[[Ontology|本体论]]与[[Epistemology|认识论]]论辩武器。
+> - **方法路径** 深刻动摇了[[Positivism|实证主义]]方法论一元论的合法性垄断，为社会科学与教育研究中的[[Interpretive Paradigm|诠释范式]]、[[Qualitative Research|质性研究]]与人本主义探究（如[[Anthropomorphic Model|拟人化模型]]、[[Participatory Action Research|参与式行动研究]]）提供了不可动摇的[[Ontology|本体论]]与[[Epistemology|认识论]]论辩武器。
 > - **政策与实践批判** 为反思当代教育治理中“数据主义”、“量化绩效问责”与[[Scientism|科学主义]]霸权提供了存在论批判资源，警示教育不能将鲜活的学生还原为冰冷的测验分数与行为指标。
 > - **跨领域传播** 经历20世纪初德语区学者的[[Transfer Translation Transformation|转译]]与推广，迅速渗透进教育哲学、存在主义心理学与[[Critical Pedagogy|批判教育学]]脉络。
 

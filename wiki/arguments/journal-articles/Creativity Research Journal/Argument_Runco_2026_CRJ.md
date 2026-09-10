@@ -77,6 +77,7 @@ related_concepts:
   - "[[Concept Mapping]]"
   - "[[Self-Efficacy]]"
   - "[[Necessary and Sufficient Conditions]]"
+  - "[[Determinism]]"
   - "[[Emergence]]"
 related_methods:
   - "[[Meta-analysis]]"
@@ -113,7 +114,7 @@ title: "Argument_Runco_2026_CRJ"
 argument_key: "Argument_Runco_2026_CRJ"
 argument_display_title: "Second-order meta-analysis of the creativity research"
 argument_kind: "journal-article"
-argument_related_count: 76
+argument_related_count: 77
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"

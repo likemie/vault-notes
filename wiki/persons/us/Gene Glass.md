@@ -7,7 +7,7 @@ summary: "美国教育心理学家，1976年创造元分析一词并发展其方
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 11
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -20,6 +20,7 @@ tags:
   - region/us
 related_concepts:
   - "[[Effect Size]]"
+  - "[[Empiricism]]"
   - "[[Evidence-Based Education]]"
   - "[[Heterogeneity]]"
   - "[[Positivism]]"
@@ -102,7 +103,7 @@ updated: '2026-06-19'
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 确立了经验主义效果整合的合法性，使学界接受了跨研究的[[Effect Size|效应量]]比较逻辑。
+> - **理论路径** 确立了[[Empiricism|经验主义]]效果整合的合法性，使学界接受了跨研究的[[Effect Size|效应量]]比较逻辑。
 > - **方法路径** 使[[Meta-analysis|元分析]]成为医学、心理学和教育学的标准综合方法，效应量（如 Glass's $\Delta$）至今是[[Quantitative Research|定量研究]]的标准报告指标。
 > - **政策路径** 深刻影响了后来的[[Evidence-Based Education|循证教育]]运动，成为[[John Hattie|约翰·哈蒂]]（John Hattie）的[[Meta-meta-analysis|元-元分析]]以及 [[Education Endowment Foundation|EEF]] 教学与学习工具包等政策决策参考工具的底层技术基础。
 

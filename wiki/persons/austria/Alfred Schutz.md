@@ -6,7 +6,7 @@ summary: "奥地利-美国社会学家与哲学家，现象学社会学奠基人
 type: person
 nationality: austria
 person_region: "austria"
-person_related_count: 22
+person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -19,6 +19,7 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Interpretive Paradigm]]"
   - "[[Reflexivity]]"
+  - "[[Typification]]"
   - "[[Epistemology]]"
   - "[[Construct]]"
   - "[[Positivism]]"
@@ -58,7 +59,7 @@ updated: 2026-09-09
 > [!person-profile] 人物档案
 > - **身份位置** 奥地利裔美国哲学家、社会学家，[[Phenomenology|现象学]]社会学（Phenomenological Sociology）与存在现象学（Existential Phenomenology）开山奠基人，曾执教于纽约新社会研究学院（New School for Social Research）。
 > - **核心角色** 将[[Edmund Husserl|埃德蒙德·胡塞尔]]（[[Edmund Husserl]]）的先验现象学[[Creativity|创造性]]地[[Transfer Translation Transformation|转译]]引入社会学领域，致力于对人类社会行动进行严格的科学探究。舒茨将日常生活世界的意义结构置于核心，确立了行动者在微观互动中如何建构现实的理论大厦，成为社会科学[[Interpretive Paradigm|诠释范式]]与[[Qualitative Research|质性研究]]最根本的理论支柱之一。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, Ch. 1]]
-> - **代表贡献** 提出日常生活世界现象学分析、意识流与回顾性[[Reflexivity|反思性]]概念、常识类型化（Typification）图式以及多重实在（Multiple Realities）理论。
+> - **代表贡献** 提出日常生活世界现象学分析、意识流与回顾性[[Reflexivity|反思性]]概念、常识[[Typification|类型化]]（Typification）图式以及多重实在（Multiple Realities）理论。
 
 > [!citation-card] Burrell 与 Morgan 论舒茨将现象学融入社会行为研究
 > 舒茨致力于将胡塞尔的思想与社会学问题以及社会行为的科学研究联系起来。对他而言，核心关切是理解日常生活世界的意义结构。（Burrell & Morgan, 1979；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, Ch. 1]]）
@@ -87,7 +88,7 @@ updated: 2026-09-09
 >   - **代表著作** 《社会世界的意义构成》（*The Phenomenology of the Social World*, 1932）。
 >   - **关键概念／方法** 意识流（Stream of Consciousness）、回顾性反思（Retrospective [[Reflexivity]]）、主观意义（Subjective Meaning）、第一序[[Construct|构念]]。
 >   - **阶段转向** 突破早期[[Positivism|实证主义]]对社会外在物理法则的机械设定，将社会行动的意义归结为主体在内在时间流中对生活经验的回顾性赋予。
-> - **1940s–1950s — 常识知识库、典型化与多重实在阶段（American Exile Phase）** 转向美国[[Pragmatic Paradigm|实用主义]]与微观日常互动，系统探索行动者在日常社会中如何建构与维系秩序。
+> - **1940s–1950s — 常识知识库、[[Typification|典型化]]与多重实在阶段（American Exile Phase）** 转向美国[[Pragmatic Paradigm|实用主义]]与微观日常互动，系统探索行动者在日常社会中如何建构与维系秩序。
 >   - **代表著作** 《日常生活世界的常识与科学诠释》（1953）、《论多重实在》（*On Multiple Realities*, 1945）、《生活世界结构》（*The Structures of the Life-World*, 1973/1982，生后出版）。
 >   - **关键概念／方法** 类型化（Typification）、常识知识库（Stock of Knowledge at Hand）、视角互惠性（Reciprocity of Perspectives）、多重实在（Multiple Realities）。
 >   - **阶段转向** 更加侧重社会日常经验中的主体间性互动，阐明行动者如何凭借类型化图式在多元现实（日常、科学、梦境）中自如切换并遵循特定情境规则。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, Ch. 1]]
@@ -97,7 +98,7 @@ updated: 2026-09-09
 ## 核心思想
 
 > [!claim] 核心主张
-> 舒茨主张，社会现实绝非独立于人类行动者意识之外的客观物化实体，而是主体在日常“生活世界”中共同创造与经验的产物。社会世界本质上是一个由主观意义所浸润的“主体间性世界”。行动者借由[[Reflexivity|反思性]]回溯赋予经验流以主观意义，依托传记位置所沉淀的“常识知识库”与“类型化”图式理解他人行为；人类穿梭于包含日常生活、科学探究与艺术梦境的“多重实在”之间，各实在均遵循其特定的认知风格与情境规则。社会科学的任务并非强行套用自然科学的因果规律，而是基于行动者“第一序[[Construct|构念]]”提炼出逻辑一致、主观充分的“第二序构念”。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, Ch. 1]]
+> 舒茨主张，社会现实绝非独立于人类行动者意识之外的客观物化实体，而是主体在日常“生活世界”中共同创造与经验的产物。社会世界本质上是一个由主观意义所浸润的“主体间性世界”。行动者借由[[Reflexivity|反思性]]回溯赋予经验流以主观意义，依托传记位置所沉淀的“常识知识库”与“[[Typification|类型化]]”图式理解他人行为；人类穿梭于包含日常生活、科学探究与艺术梦境的“多重实在”之间，各实在均遵循其特定的认知风格与情境规则。社会科学的任务并非强行套用自然科学的因果规律，而是基于行动者“第一序[[Construct|构念]]”提炼出逻辑一致、主观充分的“第二序构念”。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, Ch. 1]]
 
 > [!feature] 日常生活世界的意义建构机制
 > 舒茨从微观互动与[[Epistemology|认识论]]层面揭示了人类社会秩序得以生成的四大核心支柱（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）：
@@ -126,7 +127,7 @@ updated: 2026-09-09
 > - **教育研究应用** 为微观教育[[Ethnography|民族志]]、课堂互动[[Discourse Analysis|话语分析]]、教师实践知识（Practitioner Knowledge）与学生亚文化分类图式研究提供了直接的理论透镜。
 
 > [!evidence-grid-a]- 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, Ch. 1]] — 系统阐释了舒茨的意识流、[[Reflexivity|反思性]]、类型化与多重实在理论，如何确立了诠释范式在教育研究中考察社会行动与生活世界的合法性。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, Ch. 1]] — 系统阐释了舒茨的意识流、[[Reflexivity|反思性]]、[[Typification|类型化]]与多重实在理论，如何确立了诠释范式在教育研究中考察社会行动与生活世界的合法性。
 
 ---
 
@@ -151,7 +152,7 @@ updated: 2026-09-09
 >
 > > [!axis] 微观常识描述与宏观权力结构的脱节
 > > 舒茨[[Phenomenology|现象学]]社会学聚焦于行动者如何在微观情境中达成常识理解，长期受到宏观结构主义与批判社会学的审视。
-> > - **[[Critical Theory|批判理论]]与结构主义立场（Rex, 1974; Bernstein, 1974）** 批评舒茨过于迷恋行动者当下的主观意义与类型化图式，严重忽视了深层结构性的客观权力不对称、意识形态蒙蔽与虚假意识；将社会现实仅仅归结为协商一致的常识，可能抹平阶级冲突与制度压迫的客观实在性。
+> > - **[[Critical Theory|批判理论]]与结构主义立场（Rex, 1974; Bernstein, 1974）** 批评舒茨过于迷恋行动者当下的主观意义与[[Typification|类型化]]图式，严重忽视了深层结构性的客观权力不对称、意识形态蒙蔽与虚假意识；将社会现实仅仅归结为协商一致的常识，可能抹平阶级冲突与制度压迫的客观实在性。
 > > - **现象学社会学辩护立场** 指出任何宏观社会制度与权力结构，若脱离了个体行动者持续的常识理解、意义赋予与日常实践，都将沦为毫无生命力的抽象空壳；揭示常识构成机制恰恰是解构制度物化幻觉的首要前提。
 
 > [!critique]- 批评索引

@@ -4,7 +4,7 @@ title: "Argument_Darwish_2009_Queens"
 argument_key: "Argument_Darwish_2009_Queens"
 argument_display_title: "Argument_Darwish_2009_Queens"
 argument_kind: "books"
-argument_related_count: 61
+argument_related_count: 62
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#e5e7eb"
@@ -51,6 +51,7 @@ related_concepts:
   - "[[Reflective Thinking]]"
   - "[[Banking Model of Education]]"
   - "[[Socratic Elenchus]]"
+  - "[[Determinism]]"
   - "[[Learning by Doing]]"
   - "[[Conscientization]]"
   - "[[Praxis]]"

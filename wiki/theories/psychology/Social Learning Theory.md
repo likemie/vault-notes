@@ -7,7 +7,7 @@ aliases:
 summary: "Bandura (1977) 提出的统一理论框架，以认知、行为和环境因素之间的持续交互来解释人类行为，强调替代性学习、象征过程和自我调节在行为获得与改变中的作用"
 type: theory
 theory_field: "psychology"
-theory_related_count: 9
+theory_related_count: 10
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Construct]]"
   - "[[Locus of Control]]"
+  - "[[Determinism]]"
   - "[[Theoretical Perspective]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
@@ -78,7 +79,7 @@ updated: 2026-06-02
 > - **1954** — Rotter 出版 *Social Learning and Clinical Psychology*，提出四类[[Variable|变量]]（行为、期望、强化、心理情境）和社会学习公式
 > - **1966** — Rotter 发表[[Locus of Control|控制点]]（locus of control）[[Construct|构念]]
 > - **1971** — Bandura 出版 *Social Learning Theory*，强调替代性、象征性和自我调节过程
-> - **1977** — Bandura 出版 *Social Learning Theory*（更新版），提出认知、行为和环境三者交互决定论
+> - **1977** — Bandura 出版 *Social Learning Theory*（更新版），提出认知、行为和环境三者交互[[Determinism|决定论]]
 > - **1986** — Bandura 出版 *Social Foundations of Thought and Action: A Social Cognitive Theory*，理论从**社会学习理论**演化为**社会认知理论**
 
 ## 应用领域

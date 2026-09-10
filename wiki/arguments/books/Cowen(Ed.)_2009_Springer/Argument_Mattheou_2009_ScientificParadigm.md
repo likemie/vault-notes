@@ -7,7 +7,7 @@ title: "Argument_Mattheou_2009_ScientificParadigm"
 argument_key: "Argument_Mattheou_2009_ScientificParadigm"
 argument_display_title: "The Scientific Paradigm in Comparative Education"
 argument_kind: "book-chapter"
-argument_related_count: 70
+argument_related_count: 73
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -36,8 +36,10 @@ related_concepts:
   - "[[Scientific Paradigm]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
+  - "[[Empiricism]]"
   - "[[Variable]]"
   - "[[Critical Dualism]]"
+  - "[[Grand Theory]]"
   - "[[Comparative Educations]]"
   - "[[Operationalization]]"
   - "[[Rationalism in International Relations]]"
@@ -65,6 +67,7 @@ related_concepts:
   - "[[Sample Size Determination]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
+  - "[[Determinism]]"
   - "[[Heterogeneity]]"
   - "[[National Character]]"
   - "[[Problem Solving]]"

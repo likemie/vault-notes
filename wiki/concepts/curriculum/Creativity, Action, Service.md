@@ -1,7 +1,6 @@
 ---
 title: Creativity, Action, Service
 aliases:
-  - CAS
   - 创意、行动、服务
   - 创意行动服务
   - Creativity Action Service

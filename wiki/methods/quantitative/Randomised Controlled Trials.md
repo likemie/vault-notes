@@ -10,7 +10,7 @@ summary: "通过随机分配和变量控制建立因果关系的实验设计，�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 96
+method_related_count: 99
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Internal Validity]]"
   - "[[Causality]]"
   - "[[Epistemology]]"
+  - "[[Empiricism]]"
   - "[[Positivism]]"
   - "[[Hypothesis]]"
   - "[[Causal Processes]]"
@@ -41,6 +42,8 @@ related_concepts:
   - "[[Blinding]]"
   - "[[Fundamental Problem of Causal Inference]]"
   - "[[Counterfactual]]"
+  - "[[Creativity, Action, Service]]"
+  - "[[Dependent Variable]]"
   - "[[Sample Size Determination]]"
   - "[[Attrition]]"
   - "[[Confidence Interval]]"

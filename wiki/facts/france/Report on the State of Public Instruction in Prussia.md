@@ -15,7 +15,7 @@ subtype: policy
 region: france
 fact_region: "france"
 fact_kind: "policy"
-fact_related_count: 26
+fact_related_count: 27
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Faculty Psychology]]"
   - "[[Common School Movement]]"
   - "[[Positivism]]"
+  - "[[Empiricism]]"
   - "[[Hypothesis]]"
   - "[[Disciplina and Doctrina]]"
 related_theories: []

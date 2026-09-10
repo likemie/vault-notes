@@ -11,7 +11,7 @@ summary: "将受试者按概率均等原则分配到实验处理条件中，以�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 41
+method_related_count: 42
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Epistemology]]"
   - "[[Positivism]]"
+  - "[[Empiricism]]"
   - "[[Variable]]"
   - "[[External Validity]]"
   - "[[Counterfactual]]"

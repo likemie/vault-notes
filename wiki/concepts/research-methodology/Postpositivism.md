@@ -9,7 +9,7 @@ aliases:
 summary: "一种挑战经典实证主义绝对确定性与机械决定论的研究哲学立场，主张知识具有本质上的推测性、理论负荷性与可错性；在承认客观实在持续存在的同时包容多元实在与情境阐释，倡导以非普适探索性假说推进科学反思与广义人文探究。"
 type: concept
 domain: "research-methodology"
-related_count: 62
+related_count: 65
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -20,12 +20,14 @@ tags:
   - theme/research-methodology
 related_concepts:
   - "[[Positivism]]"
+  - "[[Determinism]]"
   - "[[Epistemology]]"
   - "[[Paradigm]]"
   - "[[Rationalism in International Relations]]"
   - "[[Falsification]]"
   - "[[Causality]]"
   - "[[Reliability]]"
+  - "[[Grand Theory]]"
   - "[[Value Neutrality]]"
   - "[[Postmodernism]]"
   - "[[Ontology]]"
@@ -38,6 +40,7 @@ related_concepts:
   - "[[Paideia]]"
   - "[[Bildung]]"
   - "[[Growth]]"
+  - "[[Empiricism]]"
   - "[[Scientific Paradigm]]"
   - "[[Emergence]]"
   - "[[Paradigm Wars]]"

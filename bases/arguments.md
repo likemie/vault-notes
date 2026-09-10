@@ -37,6 +37,8 @@ views:
     name: 论证雷达
     image: argument_related_color
     order:
+      - summary
+      - authors
       - year
       - argument_related_stars
       - argument_related_count
@@ -53,6 +55,8 @@ views:
       and:
         - 'argument_related_count >= 30'
     order:
+      - summary
+      - authors
       - year
       - argument_related_stars
       - argument_related_count

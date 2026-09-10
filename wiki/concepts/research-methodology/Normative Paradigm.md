@@ -4,23 +4,51 @@ aliases: [规范范式, normative model, 规则统治范式]
 summary: "道格拉斯提出的方法论上位范式，统摄实证主义与结构功能主义取向，主张人类行为本质上受规则统治，应采纳自然科学方法探究外在因果规律，追求构建普适的宏大理性大厦。"
 type: concept
 domain: "research-methodology"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 35
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags: [paradigm/normative, theme/epistemology, theme/research-philosophy, methodology/quantitative]
 related_concepts:
+  - "[[Paradigm]]"
   - "[[Positivism]]"
-  - "[[Scientific Method]]"
+  - "[[Variable]]"
+  - "[[Rich and Thick Description]]"
   - "[[Interpretive Paradigm]]"
+  - "[[Epistemology]]"
+  - "[[Scientific Method]]"
+  - "[[Ontology]]"
+  - "[[Grand Theory]]"
+  - "[[Emergence]]"
+  - "[[Dialogue in Education]]"
   - "[[Determinism]]"
+  - "[[Document]]"
+  - "[[International Education]]"
+  - "[[Creativity]]"
+  - "[[Technical Rationality]]"
   - "[[Nomothetic]]"
+  - "[[Hypothesis]]"
+  - "[[Subjectivism]]"
 related_persons:
-  - "[[Auguste Comte]]"
+  - "[[Jack Douglas]]"
   - "[[Thomas Barr Greenfield]]"
+  - "[[Auguste Comte]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
+related_theories:
+  - "[[Complexity Theory]]"
+  - "[[Phenomenology]]"
+related_methods:
+  - "[[Survey Research]]"
+  - "[[Accounts]]"
+  - "[[Grounded Theory]]"
+  - "[[Qualitative Interview]]"
+  - "[[Participant Observation]]"
+  - "[[Case Study]]"
+  - "[[Causal Modeling]]"
+  - "[[Mixed Methods Research]]"
+  - "[[Experimental Research]]"
 confidence: high
 status: draft
 created: 2026-09-09

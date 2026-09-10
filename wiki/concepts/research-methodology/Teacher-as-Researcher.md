@@ -7,35 +7,53 @@ aliases:
 summary: "由Stenhouse开创并经复杂性理论深化的教育研究范式，主张教师从知识消费者转向自身实践的知识生产者，在复杂自组织教育生态中与外部研究者形成共生探究网络。"
 type: concept
 domain: "research-methodology"
-related_count: 15
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 33
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - research-methodology
   - action-research
   - teacher-education
   - reflective-practice
 related_concepts:
-  - "[[Praxis]]"
-  - "[[Professional Judgment]]"
-  - "[[Knowledge Production]]"
   - "[[Reflexivity]]"
+  - "[[Knowledge Production]]"
+  - "[[Phronesis]]"
+  - "[[Praxis]]"
+  - "[[Didaktik]]"
+  - "[[Theoretical Perspective]]"
+  - "[[Heterogeneity]]"
+  - "[[Professional Judgment]]"
+  - "[[Teacher Professional Agency]]"
+  - "[[Champ]]"
+  - "[[Positivism]]"
+  - "[[Epistemology]]"
+  - "[[Chain of Evidence]]"
+  - "[[Creativity, Action, Service]]"
+  - "[[Emergence]]"
+  - "[[Paradigm]]"
+  - "[[Homework]]"
+  - "[[Formative Assessment]]"
+  - "[[Hypothesis]]"
+  - "[[Ontology]]"
 related_theories:
   - "[[Complexity Theory]]"
   - "[[Critical Theory]]"
 related_methods:
   - "[[Action Research]]"
-  - "[[Participatory Action Research]]"
   - "[[Emancipatory Action Research]]"
+  - "[[Participatory Action Research]]"
+  - "[[Qualitative Research]]"
 related_persons:
+  - "[[Jürgen Habermas]]"
   - "[[Donald A. Schön]]"
   - "[[Paulo Freire]]"
-  - "[[Jürgen Habermas]]"
   - "[[Stephen Kemmis]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 confidence: high
 status: active
 created: 2026-07-19

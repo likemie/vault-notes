@@ -8,7 +8,7 @@ summary: "德国古典哲学奠基人，以三大批判重塑认识论、伦理�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 30
+person_related_count: 31
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -26,6 +26,7 @@ tags:
 related_concepts:
   - "[[Enlightenment]]"
   - "[[Epistemology]]"
+  - "[[Empiricism]]"
   - "[[Perpetual Peace]]"
   - "[[Revolutionism]]"
   - "[[Paradigm]]"
@@ -76,7 +77,7 @@ updated: 2026-09-06
 
 > [!person-profile] 人物档案
 > - **身份位置** 德国哲学家、启蒙时代思想大师、柯尼斯堡大学逻辑与形而上学讲座教授；德国批判哲学与古典唯心论的奠基旗手。
-> - **核心角色** 在西方哲学史上发动认识论的“哥白尼式革命”，提出先天范畴论终结先天论与经验论的千年论争；确立理性自律的定言律令伦理学；在国际政治理论中开创以世界公民共同体与[[Perpetual Peace|永久和平]]为核心的“[[Revolutionism|革命主义]]（Revolutionism）”传统；在教育哲学中确立“启蒙即勇敢运用理性”与“人只有受教育才能成为人”的现代主体性命题。
+> - **核心角色** 在西方哲学史上发动认识论的“哥白尼式革命”，提出先天范畴论终结先天论与[[Empiricism|经验论]]的千年论争；确立理性自律的定言律令伦理学；在国际政治理论中开创以世界公民共同体与[[Perpetual Peace|永久和平]]为核心的“[[Revolutionism|革命主义]]（Revolutionism）”传统；在教育哲学中确立“启蒙即勇敢运用理性”与“人只有受教育才能成为人”的现代主体性命题。
 > - **代表贡献** 创立三大批判体系（《纯粹理性批判》《实践理性批判》《判断力批判》）；发表《答复这个问题：什么是启蒙？》（1784）与《论永久和平》（1795）；其启蒙自主性哲学与永久和平蓝图深刻启迪了 19 世纪初现代比较教育始祖[[Marc-Antoine Jullien|马克-安托万·朱利安]]，促成了比较教育学从革命政治暴力向教育预防论与国际和平治理的[[Paradigm|范式]]转向。
 
 在启蒙现代性的知识图谱中，康德确立了理性自由与公共启蒙之间不可分割的共生关系：
@@ -115,7 +116,7 @@ updated: 2026-09-06
 > - **1755–1770 — 前批判时期（自然科学假说与经验形而上学）** 致力于牛顿物理学哲学基础与宇宙天体演化机制探究，试图突破机械唯物论与旧经院神学的藩篱。
 >   - **代表著作** 《自然通史与天体理论》（1755）、《试将负数概念引入哲学》（1763）。
 >   - **关键概念／方法** 太阳系星云假说、万有引力与斥力平衡、经验形而上学。
->   - **阶段转向** 受到休谟将经验[[Causality|因果性]]还原为主观习惯联想的“独断迷梦”当头棒喝，深感经验论无法提供确定性知识基石，决心重构理性心智的合法权利界限。
+>   - **阶段转向** 受到休谟将经验[[Causality|因果性]]还原为主观习惯联想的“独断迷梦”当头棒喝，深感[[Empiricism|经验论]]无法提供确定性知识基石，决心重构理性心智的合法权利界限。
 > - **1781–1790 — 批判哲学确立时期（三大批判体系建构）** 集中回应“我能知道什么？”（[[Epistemology|认识论]]）、“我应当做什么？”（伦理学）与“我可以期望什么？”（美学与目的论）三大终极问题。
 >   - **代表著作** 《纯粹理性批判》（1781/1787）、《道德形而上学奠基》（1785）、《实践理性批判》（1788）、《判断力批判》（1790）。
 >   - **关键概念／方法** 哥白尼式革命、先天综合判断、时空先验感性形式、知性范畴（量、质、关系、模态）、物自体（*Ding an sich*）、定言律令（*Categorical Imperative*）、意志自律。[[Argument_Li_2012_Cambridge|Li (2012, pp. 25–26, 30)]]
@@ -151,7 +152,7 @@ updated: 2026-09-06
 康德哲学对现代[[Epistemology|认识论]]、全球政治思想、比较教育史与学习科学构成了深远的多维辐射：
 
 > [!influence-path] 影响路径
-> - **认识论与学习科学路径** 康德的“哥白尼式革命”彻底击碎了心灵被动接受印记的白板说，提出心智先天地配备加工经验框架的主动建构观；[[Jin Li|李瑾]]（[[Argument_Li_2012_Cambridge|Li, 2012]]）指出康德在西方 2500 年认识论之争中提供了融通经验论与唯理论的典范，其范畴加工模型（“佩戴玫瑰色眼镜看世界”）构成了现代[[Cognitive Constructivism|认知建构主义]]与儿童概念认知科学的重要思想先声。[[Argument_Li_2012_Cambridge|Li (2012, pp. 25–26, 30)]]
+> - **认识论与学习科学路径** 康德的“哥白尼式革命”彻底击碎了心灵被动接受印记的白板说，提出心智先天地配备加工经验框架的主动建构观；[[Jin Li|李瑾]]（[[Argument_Li_2012_Cambridge|Li, 2012]]）指出康德在西方 2500 年认识论之争中提供了融通[[Empiricism|经验论]]与唯理论的典范，其范畴加工模型（“佩戴玫瑰色眼镜看世界”）构成了现代[[Cognitive Constructivism|认知建构主义]]与儿童概念认知科学的重要思想先声。[[Argument_Li_2012_Cambridge|Li (2012, pp. 25–26, 30)]]
 > - **国际关系英国学派与[[Revolutionism|革命主义]]传统** 马丁·怀特（Martin Wight, 1992）在国际理论三大传统中将康德确立为“革命主义（Revolutionism）”传统的始祖，与马基雅维利的[[Realism in International Relations|现实主义]]、格老秀斯的[[Rationalism in International Relations|理性主义]]并立；康德主张国际关系的终极实体不是主权国家而是普遍的人类共同体（Universal Human Community），倡导消除苦难、追求世界大同与[[Perpetual Peace|永久和平]]的道德激情。[[Argument_Klerides_2023_CE|Klerides (2023, p. 418)]]
 > - **比较教育学发端期的启蒙精神纽带** 卡洛扬纳基与卡扎米亚斯（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias, 2009]]）考证，康德在 1784 年论著中阐明的“启蒙即勇敢运用理性、走出未成熟状态”的自主性命题，对学科始祖[[Marc-Antoine Jullien|朱利安]]（Marc-Antoine Jullien）产生了划时代的思想启蒙；促使朱利安从大革命雅各宾恐怖统治与拿破仑帝国战争的幻灭中抽离，将教育升华为预防政治暴力循环、促进世界和平与全人[[Bildung|教化]]的理性替代方案。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 20, 22–24)]]
 > - **[[Critical Thinking|批判性思维]]与现代教育哲学** 康德的“Sapere aude!”与定言律令将受教育者从被动服从权威教条中解放出来，奠定了现代[[Critical Thinking|批判性思维]]、道德自律与民主公民教育的法哲学基座。
@@ -170,7 +171,7 @@ updated: 2026-09-06
 > [!person-network] 关系网络
 > - **思想激荡与唤醒者** 大卫·休谟（David Hume） — 其经验怀疑论打破了康德的“独断论迷梦”，逼使康德转向批判哲学以重建因果律与科学知识的客观必然性。
 > - **道德与自然主义共鸣者** 让-雅克·[[Jean-Jacques Rousseau|卢梭]]（Jean-Jacques Rousseau） — 康德自承卢梭纠正了其智力精英傲慢，教会其尊重普通人的道德尊严；卢梭的公意与自由观直接启发了康德的意志自律学说。
-> - **唯理与经验论对话者** [[Plato|柏拉图]]、[[René Descartes|笛卡尔]]、[[George Berkeley|贝克莱]]、洛克 — 康德综合了笛卡尔先验理性与洛克经验归纳，在西方哲学长河中确立了批判综合[[Paradigm|范式]]。[[Argument_Li_2012_Cambridge|Li (2012, pp. 25, 30)]]
+> - **唯理与[[Empiricism|经验论]]对话者** [[Plato|柏拉图]]、[[René Descartes|笛卡尔]]、[[George Berkeley|贝克莱]]、洛克 — 康德综合了笛卡尔先验理性与洛克经验归纳，在西方哲学长河中确立了批判综合[[Paradigm|范式]]。[[Argument_Li_2012_Cambridge|Li (2012, pp. 25, 30)]]
 > - **辩证法继承与批判者** [[Georg Wilhelm Friedrich Hegel|黑格尔]]（Hegel） — 黑格尔继承康德的主体性原则，但批判康德将物自体与现象生硬割裂的“主观唯心论”，将其提升为主客观统一的历史唯心辩证法。
 > - **比较教育思想受惠者** [[Marc-Antoine Jullien|马克-安托万·朱利安]]（Marc-Antoine Jullien） — 朱利安深受康德启蒙理性与[[Perpetual Peace|永久和平]]思想触动，将比较教育观察表设计为消除民族偏狭、构建欧洲永久和平共同体的实践载体。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 20–22)]]
 
@@ -208,7 +209,7 @@ updated: 2026-09-06
 > |:-----|:-----|:-----|
 > | [[Epistemology]] | 概念 | 发动认识论“哥白尼式革命”，阐明人类心智先验范畴能动为主体经验立法。 |
 > | [[Certainty of Knowledge]] | 概念 | 在西方知识确定性追求中设立先验理性界限，标志绝对确定性向主体建构的转向。 |
-> | [[Mind and Its Wonders]] | 概念 | 提出心智范畴加工结构，为西方两千五百年先天论与经验论之争提供调和方案。 |
+> | [[Mind and Its Wonders]] | 概念 | 提出心智范畴加工结构，为西方两千五百年先天论与[[Empiricism\|经验论]]之争提供调和方案。 |
 > | [[Critical Thinking]] | 概念 | “Sapere aude! 敢于运用知性”的启蒙箴言，奠定现代独立审思与批判性思维的伦理基座。 |
 > | [[Enlightenment]] | 概念 | 确立“敢于求知”的启蒙定义与理性的公共运用原则，为现代教育奠定自主性纲领。 |
 > | [[Perpetual Peace]] | 概念 | 1795 年论著奠定以共和立宪、自由联邦与世界公民法权为核心的和平治理总纲。 |

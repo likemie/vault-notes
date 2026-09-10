@@ -8,7 +8,7 @@ summary: "美国哲学家、社会心理学家与社会学家，实用主义哲�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 27
+person_related_count: 28
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Phenomenon-Based Learning]]"
 related_theories:
   - "[[Symbolic Interactionism]]"
+  - "[[Thomas Theorem]]"
   - "[[Pragmatic Constructivism]]"
 related_methods:
   - "[[Qualitative Research]]"
@@ -117,7 +118,7 @@ updated: 2026-09-09
 > 符号互动论在教育与社会探究中确立了三大不可动摇的[[Ontology|本体论]]与[[Epistemology|认识论]]前提（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）：
 > - **基于主观意义的能动行动（Action Based on Meanings）** 人类生活在自然世界与社会世界的交汇处；符号（特别是语言）赋予客观事物以意义，赋予意义使人类具备了鲜明的社会性。研究者绝不应对制度运作预设先验标签，而必须优先倾听参与者自身的真实叙述（例如[[Rich and Thick Description|深描]]学生在课堂中表现出的“无聊”、“胡闹”或“哄笑”背后的深层主观体验）。
 > - **符号意义赋予的持续流动性（Continuous Meaning Attribution）** 行动既非心理驱力、性格或人格特质的单向后果，亦非由外部宏观社会结构或既定制度角色机械注定；相反，行动产生于行动者持续不断的意义赋予、权衡、修补与协商过程，时刻处于生成与变动之中。
-> - **社会情境中“扮演他人角色”的行动协调（Role-Taking in Social Context）** 个体在具体社会情境中通过“扮演他人的角色”，向自身做出关于他人潜在反应的内在指示（Self-indications），预判他人在特定情境下的期望，进而协调自身行动并实施情境定义（Definition of the Situation）与印象管理（Impression Management）。
+> - **社会情境中“扮演他人角色”的行动协调（Role-Taking in Social Context）** 个体在具体社会情境中通过“扮演他人的角色”，向自身做出关于他人潜在反应的内在指示（Self-indications），预判他人在特定情境下的期望，进而协调自身行动并实施[[Thomas Theorem|情境定义]]（Definition of the Situation）与印象管理（Impression Management）。
 
 > [!feature] 社会自我的发[[Conatus|生机]]制与内部[[Dialogue in Education|对话]]
 > 米德从社会行为主义进路阐明了个体自我是如何逐步发育并运转的：

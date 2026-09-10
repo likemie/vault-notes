@@ -4,25 +4,45 @@ aliases: [后结构主义, post-structuralist, poststructuralism]
 summary: "对结构功能主义决定论的反驳，强调个体能动性与内在矛盾主体，将数据与人工制品视为表演性话语与文本，主张通过解构揭示多重意义层次与意义特权化机制。"
 type: concept
 domain: "research-methodology"
-related_count: 10
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 29
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags: [paradigm/poststructural, theme/epistemology, theme/research-philosophy]
 related_concepts:
-  - "[[Postmodernism]]"
-  - "[[Artefact]]"
+  - "[[Determinism]]"
   - "[[Dialogue in Education]]"
-  - "[[Interpretive Paradigm]]"
+  - "[[Artefact]]"
+  - "[[Reflective Thinking]]"
+  - "[[Postmodernism]]"
+  - "[[Grand Theory]]"
+  - "[[Ontology]]"
+  - "[[Disciplina and Doctrina]]"
+  - "[[Knowledge Production]]"
+  - "[[Nomothetic]]"
+  - "[[Epistemology]]"
+  - "[[Empiricism]]"
   - "[[Reflexivity]]"
+  - "[[Document]]"
+  - "[[Heterogeneity]]"
+  - "[[Paradigm]]"
+  - "[[Interpretive Paradigm]]"
+  - "[[Emergence]]"
 related_theories:
   - "[[Critical Theory]]"
   - "[[Complexity Theory]]"
+  - "[[Critical Realism]]"
 related_persons:
   - "[[Jürgen Habermas]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
+related_methods:
+  - "[[Coding in Qualitative Research]]"
+  - "[[Qualitative Interview]]"
+  - "[[Qualitative Observation]]"
+  - "[[Discourse Analysis]]"
+  - "[[Qualitative Research]]"
 confidence: high
 status: draft
 created: 2026-06-14

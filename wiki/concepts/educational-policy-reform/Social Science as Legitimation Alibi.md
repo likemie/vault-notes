@@ -13,7 +13,7 @@ aliases:
 summary: "在教育政策制定与跨国治理中，实证社会科学被政治决策者和技术官僚工具化为推卸行政责任、免受道德反思与公众问责、为既定政治决策提供客观性背书的政治借口机制"
 type: concept
 domain: "educational-policy-reform"
-related_count: 23
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -36,7 +36,9 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Doxa]]"
   - "[[Comparative Educations]]"
+  - "[[Grand Theory]]"
   - "[[Scientific Paradigm]]"
+  - "[[Determinism]]"
   - "[[Policy Science in Comparative Education]]"
 related_theories:
   - "[[Human Capital Theory]]"

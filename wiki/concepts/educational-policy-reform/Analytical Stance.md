@@ -7,7 +7,7 @@ aliases:
 summary: "教育实践者在面对各类教学改革倡议、商业教育产品与研究证据宣称时，所秉持的主动探询研究质量、审验因果逻辑与评估情境适切性的专业认知立场，是教师抵御说服性修辞诱惑、行使审慎专业判断的核心素养。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Effect Size]]"
   - "[[Heterogeneity]]"
+  - "[[Empiricism]]"
   - "[[Study Population and Sample]]"
   - "[[Reflexivity]]"
   - "[[Technical Rationality]]"

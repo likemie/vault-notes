@@ -4,23 +4,45 @@ aliases: [类型化, 典型化, 理想类型化, typifications]
 summary: "阿尔弗雷德·舒茨现象学社会学的核心认知与互动机制，指行动者与研究者运用源自社会既有知识库的“理想类型”心智图式来理解他人行为、组织日常生活世界并在多重实在间穿梭的过程。"
 type: concept
 domain: "research-methodology"
-related_count: 8
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 29
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags: [theme/epistemology, theme/social-phenomenology, theme/research-philosophy, paradigm/interpretivist]
 related_concepts:
+  - "[[Concept Mapping]]"
+  - "[[Construct]]"
+  - "[[Rich and Thick Description]]"
+  - "[[Phronesis]]"
   - "[[Indexicality]]"
-  - "[[Interpretive Paradigm]]"
   - "[[Reflexivity]]"
+  - "[[Document]]"
+  - "[[Decodification]]"
+  - "[[Cultural Capital]]"
+  - "[[Epistemology]]"
+  - "[[Value Neutrality]]"
+  - "[[Hegemony]]"
+  - "[[Postpositivism]]"
+  - "[[Conflict of Interest in Research]]"
+  - "[[Interpretive Paradigm]]"
   - "[[Epoché]]"
 related_theories:
   - "[[Phenomenology]]"
+  - "[[Critical Realism]]"
 related_persons:
   - "[[Alfred Schutz]]"
+  - "[[Max Weber]]"
+  - "[[Basil Bernstein]]"
+  - "[[Pierre Bourdieu]]"
 related_arguments:
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
+related_methods:
+  - "[[Qualitative Research]]"
+  - "[[Grounded Theory]]"
+  - "[[Qualitative Interview]]"
+  - "[[Coding in Qualitative Research]]"
+  - "[[Ethnography]]"
 confidence: high
 status: draft
 created: 2026-09-09

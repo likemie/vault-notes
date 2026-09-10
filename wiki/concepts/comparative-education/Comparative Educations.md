@@ -8,7 +8,7 @@ aliases:
 summary: "指 1970 年代中叶以降，由于战后实证主义单一全包容科学范式在治理现实、物理学量子转向与后现代思潮中全面破裂，比较教育学演进为多个理论学派、研究取向与多元真理体制并存竞争的复数化学科格局。"
 type: concept
 domain: "comparative-education"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Agendas of Attention]]"
   - "[[Policy Borrowing]]"
+  - "[[Grand Theory]]"
   - "[[Social Science as Legitimation Alibi]]"
   - "[[Creativity]]"
   - "[[Falsification]]"
