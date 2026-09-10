@@ -18688,3 +18688,189 @@ table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nt
   background: rgba(70, 125, 195, 0.12);
 }
 
+/* ═══════════════════════════════════════════════════════════
+   FRAMEWORK-CONTRAST — 理论框架对质专用四列表格
+   紧凑型 100% 容器自适应布局，防止横向拉伸过度与滚动断层
+   列宽黄金配比：比较维度(16%) | AIR框架(28%) | Walton型式(28%) | Sampson协议(28%)
+   ═══════════════════════════════════════════════════════════ */
+
+.callout[data-callout="framework-contrast"] {
+  --callout-color: 130, 90, 160;
+  --callout-icon: lucide-git-compare;
+  background: var(--background-primary);
+  border: 1px solid rgba(var(--callout-color), 0.18);
+  border-left: 5px solid rgb(var(--callout-color));
+  border-radius: 8px;
+  padding: 0;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(var(--callout-color), 0.06), 0 6px 20px rgba(0, 0, 0, 0.04);
+}
+
+.callout[data-callout="framework-contrast"] > .callout-title {
+  color: rgb(var(--callout-color));
+  font-weight: 650;
+  letter-spacing: 0.01em;
+  padding: 0.65rem 1.1rem;
+  border-bottom: 1px solid rgba(var(--callout-color), 0.14);
+  background: linear-gradient(90deg, rgba(var(--callout-color), 0.08) 0%, rgba(var(--callout-color), 0.02) 100%);
+}
+
+.callout[data-callout="framework-contrast"] > .callout-title .callout-title-inner::before {
+  content: "CONTRAST";
+  display: inline-block;
+  margin-right: 0.5rem;
+  padding: 2px 7px;
+  border-radius: 4px;
+  background: rgba(var(--callout-color), 0.12);
+  color: rgb(var(--callout-color));
+  font-size: var(--fs-label, 0.72rem);
+  font-weight: 750;
+  letter-spacing: 0.08em;
+  vertical-align: middle;
+}
+
+.callout[data-callout="framework-contrast"] > .callout-content {
+  padding: 0;
+  overflow-x: auto;
+}
+
+.callout[data-callout="framework-contrast"] table {
+  width: 100% !important;
+  max-width: 100% !important;
+  table-layout: fixed !important;
+  border-collapse: collapse;
+  margin: 0;
+  font-size: var(--fs-table, 0.85rem);
+}
+
+.callout[data-callout="framework-contrast"] th,
+.callout[data-callout="framework-contrast"] td {
+  padding: 0.52rem 0.75rem;
+  line-height: 1.55;
+  vertical-align: top;
+  word-break: break-word;
+  overflow-wrap: break-word;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+}
+
+/* 4列紧凑分配：维度 16%，三大框架各 28% */
+.callout[data-callout="framework-contrast"] th:nth-child(1),
+.callout[data-callout="framework-contrast"] td:nth-child(1) {
+  width: 16%;
+  text-align: center;
+  font-weight: 650;
+  color: rgb(120, 130, 145);
+  background: rgba(120, 130, 145, 0.04);
+  border-right: 1px solid rgba(0, 0, 0, 0.07);
+}
+
+.callout[data-callout="framework-contrast"] th:nth-child(2),
+.callout[data-callout="framework-contrast"] td:nth-child(2) {
+  width: 28%;
+  background: rgba(181, 139, 69, 0.06);
+  border-right: 1px solid rgba(0, 0, 0, 0.06);
+}
+
+.callout[data-callout="framework-contrast"] th:nth-child(3),
+.callout[data-callout="framework-contrast"] td:nth-child(3) {
+  width: 28%;
+  background: rgba(159, 100, 117, 0.06);
+  border-right: 1px solid rgba(0, 0, 0, 0.06);
+}
+
+.callout[data-callout="framework-contrast"] th:nth-child(4),
+.callout[data-callout="framework-contrast"] td:nth-child(4) {
+  width: 28%;
+  background: rgba(45, 130, 120, 0.05);
+}
+
+/* 表头色调区隔（复用对比表金/粉/青三色） */
+.callout[data-callout="framework-contrast"] thead th {
+  font-weight: 650;
+  letter-spacing: 0.02em;
+  border-bottom: 2px solid rgba(var(--callout-color), 0.22);
+  padding: 0.6rem 0.75rem;
+}
+
+.callout[data-callout="framework-contrast"] th:nth-child(2) {
+  color: #b08235;
+  background: rgba(181, 139, 69, 0.12);
+}
+
+.callout[data-callout="framework-contrast"] th:nth-child(3) {
+  color: #ab6276;
+  background: rgba(159, 100, 117, 0.12);
+}
+
+.callout[data-callout="framework-contrast"] th:nth-child(4) {
+  color: #24887d;
+  background: rgba(45, 130, 120, 0.10);
+}
+
+.callout[data-callout="framework-contrast"] tbody tr:hover td {
+  background: rgba(var(--callout-color), 0.06);
+}
+
+/* 深色模式适配 */
+.theme-dark .callout[data-callout="framework-contrast"] {
+  background: #18191e;
+  border-color: rgba(180, 140, 220, 0.22);
+  border-left-color: rgb(180, 140, 220);
+}
+
+.theme-dark .callout[data-callout="framework-contrast"] > .callout-title {
+  color: rgb(200, 170, 235);
+  background: linear-gradient(90deg, rgba(180, 140, 220, 0.14) 0%, rgba(180, 140, 220, 0.03) 100%);
+  border-bottom-color: rgba(180, 140, 220, 0.18);
+}
+
+.theme-dark .callout[data-callout="framework-contrast"] > .callout-title .callout-title-inner::before {
+  background: rgba(180, 140, 220, 0.18);
+  color: rgb(215, 185, 245);
+}
+
+.theme-dark .callout[data-callout="framework-contrast"] thead th {
+  border-bottom-color: rgba(180, 140, 220, 0.28);
+}
+
+.theme-dark .callout[data-callout="framework-contrast"] tbody td {
+  border-bottom-color: rgba(255, 255, 255, 0.06);
+}
+
+.theme-dark .callout[data-callout="framework-contrast"] th:nth-child(1),
+.theme-dark .callout[data-callout="framework-contrast"] td:nth-child(1) {
+  color: rgb(170, 180, 195);
+  background: rgba(255, 255, 255, 0.03);
+  border-right-color: rgba(255, 255, 255, 0.08);
+}
+
+.theme-dark .callout[data-callout="framework-contrast"] th:nth-child(2) {
+  color: #e6b865;
+  background: rgba(181, 139, 69, 0.18);
+}
+.theme-dark .callout[data-callout="framework-contrast"] td:nth-child(2) {
+  background: rgba(181, 139, 69, 0.08);
+  border-right-color: rgba(255, 255, 255, 0.08);
+}
+
+.theme-dark .callout[data-callout="framework-contrast"] th:nth-child(3) {
+  color: #df95a2;
+  background: rgba(159, 100, 117, 0.18);
+}
+.theme-dark .callout[data-callout="framework-contrast"] td:nth-child(3) {
+  background: rgba(159, 100, 117, 0.08);
+  border-right-color: rgba(255, 255, 255, 0.08);
+}
+
+.theme-dark .callout[data-callout="framework-contrast"] th:nth-child(4) {
+  color: #4dc5b8;
+  background: rgba(45, 130, 120, 0.16);
+}
+.theme-dark .callout[data-callout="framework-contrast"] td:nth-child(4) {
+  background: rgba(45, 130, 120, 0.07);
+}
+
+.theme-dark .callout[data-callout="framework-contrast"] tbody tr:hover td {
+  background: rgba(180, 140, 220, 0.12);
+}
+
