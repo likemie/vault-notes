@@ -27,7 +27,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-08-18
+updated: 2026-09-10
 ---
 
 # Epistemic Aims
@@ -72,3 +72,4 @@ updated: 2026-08-18
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Chinn_2011_EP|Chinn et al. (2011)]] — 将认识目标作为扩展[[Epistemology|认识论]]认知框架的首要组件，强调其核心性和情境特异性。
+> - [[Argument_Duncan_2025_CI|Duncan & Chinn (2025)]] — 在 [[AIR Model of Epistemic Cognition|AIR 模型]] 视域下阐述认识目标对科学探究和论证任务的导向作用，与[[Epistemic Ideals|认识论理想]]及[[Reliable Epistemic Processes|可靠认识论过程]]共同构成论证评价基石。

@@ -34,7 +34,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-18
-updated: 2026-08-19
+updated: 2026-09-10
 ---
 
 # Justificatory Standards
@@ -87,3 +87,4 @@ updated: 2026-08-19
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Chinn_2011_EP|Chinn et al. (2011)]] — 提出必须在微观层面测量学生的确证标准。粗放地询问学生“是否相信权威”无法预测行为，必须考察其信任权威背后的底层确证标准（是因为权威看起来聪明，还是因为权威的方法学质量高）。
 > - [[Argument_Sandoval_2016_RRE|Sandoval et al. (2016)]] — 将确证标准从个体认知资源扩展为群体协商的社会实践属性，并尖锐指出特定领域的职业确证标准在日常公民生活中面临迁移的断层危机。
+> - [[Argument_Duncan_2025_CI|Duncan & Chinn (2025)]] — 将确证标准在科学论证评价中进一步操作化为 [[Epistemic Ideals|认识论理想]] 与 [[Reliable Epistemic Processes|可靠认识论过程]]，阐明学生如何调动具体确证标准审查证据与模型。

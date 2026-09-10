@@ -3217,6 +3217,17 @@
     ]
   },
   {
+    "title": "Epistemic Ideals",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Epistemic Ideals.md",
+    "aliases": [
+      "认识论理想",
+      "认识理想",
+      "epistemic criteria",
+      "认识论标准"
+    ]
+  },
+  {
     "title": "Epistemic Resources",
     "type": "concept",
     "path": "wiki/concepts/educational-psychology/Epistemic Resources.md",
@@ -3413,6 +3424,17 @@
     "aliases": [
       "接收知识",
       "received knowledge"
+    ]
+  },
+  {
+    "title": "Reliable Epistemic Processes",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Reliable Epistemic Processes.md",
+    "aliases": [
+      "可靠认识论过程",
+      "可靠认知过程",
+      "reliable processes",
+      "可靠过程"
     ]
   },
   {
@@ -11320,6 +11342,17 @@
     ]
   },
   {
+    "title": "AIR Model of Epistemic Cognition",
+    "type": "theory",
+    "path": "wiki/theories/educational-psychology/AIR Model of Epistemic Cognition.md",
+    "aliases": [
+      "AIR",
+      "AIR Model",
+      "AIR framework",
+      "目标-理想-可靠过程模型"
+    ]
+  },
+  {
     "title": "Argumentative Reasoning",
     "type": "theory",
     "path": "wiki/theories/educational-psychology/Argumentative Reasoning.md",
@@ -17056,6 +17089,16 @@
     ]
   },
   {
+    "title": "Clark A. Chinn",
+    "type": "person",
+    "path": "wiki/persons/us/Clark A. Chinn.md",
+    "aliases": [
+      "克拉克·钦",
+      "Chinn, C. A.",
+      "Clark Chinn"
+    ]
+  },
+  {
     "title": "Clifford Geertz",
     "type": "person",
     "path": "wiki/persons/us/Clifford Geertz.md",
@@ -21865,6 +21908,11 @@
     "title": "Argument_Schaffar_2024_CogentEdu",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Cogent Education/Argument_Schaffar_2024_CogentEdu.md"
+  },
+  {
+    "title": "Argument_Duncan_2025_CI",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Cognition and Instruction/Argument_Duncan_2025_CI.md"
   },
   {
     "title": "Argument_Kuhn_2000_CD",

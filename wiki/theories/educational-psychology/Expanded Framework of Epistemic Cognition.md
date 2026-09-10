@@ -37,7 +37,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-08-18
+updated: 2026-09-10
 ---
 
 # Expanded Framework of Epistemic Cognition
@@ -88,3 +88,4 @@ updated: 2026-08-18
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Chinn_2011_EP|Chinn et al. (2011)]] — 奠定了该扩展的五组件框架。
+> - [[Argument_Duncan_2025_CI|Duncan & Chinn (2025)]] — 展现了该框架整合演化为 [[AIR Model of Epistemic Cognition|AIR 模型]] 后的最新应用，将目标、理想与可靠过程融入科学论证评价。

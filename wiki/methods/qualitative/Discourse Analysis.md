@@ -38,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-07-23
+updated: 2026-09-10
 ---
 # Discourse Analysis
 
@@ -123,3 +123,4 @@ updated: 2026-07-23
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22|Cohen et al. (2011, Ch. 22)]] — 系统介绍话语分析的定义、与[[Jürgen Habermas|哈贝马斯]][[Critical Theory|批判理论]]的关联、Edwards的课堂话语分析案例，以及方法批评
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al. (2011, Ch. 23)]] — 将话语分析列为[[Structured Observation|结构化观察]]数据的分析方法之一，用于课堂[[Dialogue in Education|对话]]问答序列和互动模式分析（23.4 节）
+> - [[Argument_Duncan_2025_CI|Duncan & Chinn (2025)]] — 运用话语分析法深入解析七年级科学课堂上围绕北极狐与三文鱼种群观察证据的口头论辩对话序列，揭示学生如何通过多轮师生与生生互动敏锐反思观察过程的可靠性条件。
