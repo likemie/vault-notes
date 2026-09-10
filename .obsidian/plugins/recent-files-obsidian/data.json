@@ -5,6 +5,10 @@
       "path": "wiki/arguments/journal-articles/Cognition and Instruction/Argument_Duncan_2025_CI.md"
     },
     {
+      "basename": "Toulmin's Argumentation Model",
+      "path": "wiki/theories/educational-philosophy/Toulmin's Argumentation Model.md"
+    },
+    {
       "basename": "Reliable Epistemic Processes",
       "path": "wiki/concepts/educational-psychology/Reliable Epistemic Processes.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Emergence",
       "path": "wiki/concepts/research-methodology/Emergence.md"
-    },
-    {
-      "basename": "Qualitative Research",
-      "path": "wiki/methods/qualitative/Qualitative Research.md"
     }
   ],
   "omittedPaths": [],
