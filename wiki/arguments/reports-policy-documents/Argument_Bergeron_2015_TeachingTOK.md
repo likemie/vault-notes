@@ -35,7 +35,6 @@ related_concepts:
   - "[[Global Citizenship]]"
   - "[[Questionnaire]]"
   - "[[Extended Essay]]"
-  - "[[Creativity, Action, Service]]"
   - "[[Reflexivity]]"
   - "[[Ways of Knowing]]"
   - "[[Areas of Knowledge]]"
@@ -77,7 +76,7 @@ title: "Argument_Bergeron_2015_TeachingTOK"
 argument_key: "Argument_Bergeron_2015_TeachingTOK"
 argument_display_title: "Teaching the Theory of Knowledge course in IB World Schools"
 argument_kind: "report"
-argument_related_count: 40
+argument_related_count: 39
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dcfce7"
@@ -164,7 +163,7 @@ issuing_organization: "International Baccalaureate Organization"
 ### 背景：知识论（TOK）的独特架构与定位
 
 > [!def] [[Theory of Knowledge|知识论]]（Theory of Knowledge）
-> [[International Baccalaureate|国际文凭]]大学预科项目（[[IB Diploma Programme|IBDP]]）的“三大核心要求”之一（与[[Extended Essay|拓展论文]] EE、创造行动与服务 [[Creativity, Action, Service|CAS]] 并列）。旨在引导学生探讨“什么是认知”、“我们如何认知”以及“追求真理与说服的过程”，通过审视知识构建背后的心理与社会文化机制，培养符合 IB 学习者特质（如探究者、思考者、胸襟开阔等）的[[Reflexivity|反思性]]知识构建意识。
+> [[International Baccalaureate|国际文凭]]大学预科项目（[[IB Diploma Programme|IBDP]]）的“三大核心要求”之一（与[[Extended Essay|拓展论文]] EE、创造行动与服务 CAS 并列）。旨在引导学生探讨“什么是认知”、“我们如何认知”以及“追求真理与说服的过程”，通过审视知识构建背后的心理与社会文化机制，培养符合 IB 学习者特质（如探究者、思考者、胸襟开阔等）的[[Reflexivity|反思性]]知识构建意识。
 
 > [!contrast-table] 知识论与传统哲学的区别
 > | 维度 | 知识论（TOK） | 传统哲学课程 |

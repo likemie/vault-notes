@@ -6,14 +6,14 @@ aliases:
   - 国家公众参与协调中心
 summary: "2008 年由英格兰高等教育资助委员会（HEFCE）、英国研究理事会（RCUK）与惠康信托基金会（Wellcome Trust）联合设立的英国高等教育公众参与专门协调机构，通过开发 EDGE 机构文化评估工具、Watermark 水印认证基准以及深度介入科研卓越框架（REF）影响力案例评估，系统引领英国大学公众参与的制度化转型与专业能力建设。"
 type: fact
-subtype: institutional
+subtype: organization
 region: uk
 fact_region: "uk"
-fact_kind: "institutional"
+fact_kind: "organization"
 fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
-fact_related_color: "#e5e7eb"
+fact_related_color: "#dcfce7"
 issuing_organization: Higher Education Funding Council for England, Research Councils UK, Wellcome Trust, University of Bristol, University of the West of England
 tags:
   - region/uk

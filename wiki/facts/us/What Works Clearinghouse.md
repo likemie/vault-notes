@@ -6,10 +6,10 @@ aliases:
   - WWC
 summary: "美国教育部教育科学研究院（IES）2002年依据ESRA设立的联邦旗舰教育证据清算中心，累计资助超1亿美元，确立了以RCT/QED/RDD和Handbook为核心的因果推断规程与ESSA证据认定基准。"
 type: fact
-subtype: event
+subtype: organization
 region: us
 fact_region: "us"
-fact_kind: "event"
+fact_kind: "organization"
 fact_related_count: 46
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
@@ -30,12 +30,9 @@ related_concepts:
   - "[[Attrition]]"
   - "[[Document]]"
   - "[[Intelligent Tutoring Systems]]"
-  - "[[Standard Error]]"
   - "[[Variable]]"
-  - "[[Complier Average Causal Effect]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Pre-test and Post-test]]"
-  - "[[Effect Size]]"
   - "[[Evaluator Independence]]"
   - "[[Fade-out Effect]]"
   - "[[School Leadership]]"
@@ -55,9 +52,12 @@ related_methods:
   - "[[Quasi-Experimental Designs]]"
   - "[[Cluster Randomized Trials]]"
   - "[[Random Assignment]]"
+  - "[[Standard Error]]"
+  - "[[Complier Average Causal Effect]]"
   - "[[Baseline Standardized Mean Difference]]"
   - "[[Covariate Adjustment]]"
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
 related_instruments: []
 related_persons: []
 related_facts:

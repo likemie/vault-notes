@@ -4,14 +4,14 @@ aliases:
   - 英国循证政策中心
 summary: "英国经济与社会研究理事会（ESRC）下设的循证政策推动机构，ESRC 并入 UKRI 后原有职能已整合至国家科研与创新署体系"
 type: fact
-subtype: event
+subtype: organization
 region: uk
 fact_region: "uk"
-fact_kind: "event"
+fact_kind: "organization"
 fact_related_count: 4
 fact_related_level: 0
 fact_related_stars: "☆"
-fact_related_color: "#fef3c7"
+fact_related_color: "#dcfce7"
 tags:
   - region/uk
   - theme/evidence-based-education

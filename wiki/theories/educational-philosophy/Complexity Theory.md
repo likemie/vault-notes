@@ -8,7 +8,7 @@ aliases:
 summary: "一种将教育系统视为复杂适应系统的新兴研究范式，以非线性和整体论取代简单的线性因果模型，强调反馈、涌现、连接性和自组织等核心概念"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 45
+theory_related_count: 44
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Paradigm]]"
   - "[[Analytic Framework]]"
-  - "[[Creativity, Action, Service]]"
   - "[[Positivism]]"
   - "[[Feedback]]"
   - "[[Growth]]"
@@ -83,7 +82,7 @@ updated: 2026-09-09
 > - **解释对象** 教育生态系统中多元主体的非线性交互、高阶全局模式的自发[[Emergence|涌现]]、网络连接性、自组织适应以及系统相变与临界转折。
 > - **理论问题** 彻底扬弃机械牛顿力学的线性[[Determinism|因果决定论]]、受控实验的孤立[[Variable|变量]]还原论以及实验室封闭系统推广[[Hypothesis|假设]]，确立开放教育世界中不确定性、生成性与整体关系的[[Epistemology|认识论]]正当性。
 > - **理论类型** 元理论（Meta-theory）、[[Paradigm|范式]]级[[Analytic Framework|分析框架]]、跨学科复杂适应[[Luhmann's Systems Theory|系统理论]]。
-> - **知识位置** 发轫于 20 世纪下半叶混沌理论（Lorenz, Gleick）与自组织临界性（Bak），经[[Stuart Kauffman|考夫曼]]（Stuart Kauffman）与圣塔菲研究所（SFI）提炼为复杂适应系统（[[Creativity, Action, Service|CAS]]）理论；在教育研究领域由[[Keith Morrison|莫里森]]（Keith Morrison）、拉德福德（Luis Radford）与萨拉·库恩（Sarah Kuhn）系统引入，成为超越传统[[Positivism|实证主义]]与微观诠释主义的新兴研究[[Paradigm|范式]]。
+> - **知识位置** 发轫于 20 世纪下半叶混沌理论（Lorenz, Gleick）与自组织临界性（Bak），经[[Stuart Kauffman|考夫曼]]（Stuart Kauffman）与圣塔菲研究所（SFI）提炼为复杂适应系统（CAS）理论；在教育研究领域由[[Keith Morrison|莫里森]]（Keith Morrison）、拉德福德（Luis Radford）与萨拉·库恩（Sarah Kuhn）系统引入，成为超越传统[[Positivism|实证主义]]与微观诠释主义的新兴研究[[Paradigm|范式]]。
 
 > [!claim] 核心主张
 > 学校与教育系统不是由少数可分离[[Variable|变量]]机械拼接而成的封闭钟表装置，而是由深度纠缠的多元主体构成的开放**复杂适应系统（Complex Adaptive Systems, CAS）**。系统内部充满递归反馈回路与非线性作用机制，微小扰动可诱发全局跃迁，高阶秩序在局部简单规则的微观互动中自组织涌现；试图通过隔离与控制变量来寻求确定性因果定律的做法，在根本上误解了复杂教育实在的动态生成本质。
@@ -104,7 +103,7 @@ updated: 2026-09-09
 
 复杂性理论将系统理解为具有生命力的适应性有机整体，其动力学行为由五大核心机制驱动：
 
-> [!theory-components] 复杂适应系统（[[Creativity, Action, Service|CAS]]）的五大核心运作机制
+> [!theory-components] 复杂适应系统（CAS）的五大核心运作机制
 > - **反馈机制（[[Feedback]] Loops）**
 >   系统内部元素交互呈现复杂的递归反馈回路。**负反馈**发挥稳态调节与阻尼效应（如学生得知考核未达标后主动调整作息）；**正反馈**则产生持续放大微小初始变化的乘数效应（Stacey, 1992; Wheatley, 1999），带来指数级的爆发[[Growth|成长]]——例如一名原本厌学的儿童偶然体验到深度阅读乐趣后，激发起强烈的探究动机，其认知结构在正反馈循环中以指数速率发生跨越式演进。
 > - **全息连接性（Connectedness）**
@@ -202,7 +201,7 @@ updated: 2026-09-09
 > [!phase] 复杂性理论的发展脉络
 > - **1960s–1980s — 混沌理论与[[Determinism|决定论]]破产**
 >   气象学家洛伦兹（Edward Lorenz）发现“蝴蝶效应”，确立系统对初始条件的敏感依赖性；格莱克（James Gleick, 1987）推动混沌学说普及，数学家证明极简非线性方程可生成无限复杂的行为图景（Stewart, 1990），彻底打破拉普拉斯机械决定论神话。
-> - **1990s — 复杂适应系统（[[Creativity, Action, Service|CAS]]）与秩序[[Emergence|涌现]]**
+> - **1990s — 复杂适应系统（CAS）与秩序[[Emergence|涌现]]**
 >   学术重心从纯粹不可预测性转向自组织与高阶涌现（Waldrop, 1992; Lewin, 1993）。[[Stuart Kauffman|考夫曼]]（Stuart Kauffman, 1995）提出复杂适应系统与“秩序免费”概念；巴克（Per Bak, 1996）创立自组织临界性学说，奠定现代复杂系统动力学基石。
 > - **2000s — 教育[[Paradigm|研究范式]]建构与方法论深化**
 >   [[Keith Morrison|莫里森]]（Keith Morrison, 2002a, 2008）等学者系统将复杂性理论引入教育学，将其建制化为抗衡[[Positivism|实证主义]]量化霸权的新兴范式。库恩（Sarah Kuhn, 2007）提出复杂性研究五大公理；菲尔普斯与格雷厄姆（Phelps & Graham, 2010）论证其与[[Action Research|行动研究]]的九重互补，激发教师作为研究者的实践转向。
@@ -255,7 +254,7 @@ updated: 2026-09-09
 > | [[Autopoiesis]] | 理论 | 强调生命系统与开放社会组织自我维持、自创生与自我演进的组织封闭性。 |
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, p. 28)]] — 确立复杂性理论作为超越实证与诠释的新兴[[Paradigm|范式]]，阐述 [[Creativity, Action, Service|CAS]] 五大机制、受控实验四大解构与 Kuhn 五大公理。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, p. 28)]] — 确立复杂性理论作为超越实证与诠释的新兴[[Paradigm|范式]]，阐述 CAS 五大机制、受控实验四大解构与 Kuhn 五大公理。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al. (2011, Ch. 16, p. 319)]] — 深入反思[[Experimental Research|实验研究]]在开放教育情境中的因果局限与[[Variable|变量]]控制悖论。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|Cohen et al. (2011, Ch. 18, p. 278)]] — 系统论证行动研究与复杂性理论的九重深层学理共鸣。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19|Cohen et al. (2011, Ch. 19, p. 335)]] — 详析基于主体建模（ABM）与[[Virtual World|虚拟世界]]对复杂性自组织涌现原理的实践化检验。

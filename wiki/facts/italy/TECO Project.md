@@ -7,14 +7,14 @@ aliases:
   - Test sulle Competenze
 summary: "由意大利国家大学与科研评估署（ANVUR）与美国援助教育理事会（CAE）合作开展的国家级本科生素养测试项目，将大学学习评估（CLA+）真实表现任务跨国本土化并在23所高校全真验证。"
 type: fact
-subtype: event
+subtype: program
 region: italy
 fact_region: "italy"
-fact_kind: "event"
+fact_kind: "program"
 fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
-fact_related_color: "#fef3c7"
+fact_related_color: "#ede9fe"
 tags:
   - policy/higher-education
   - region/italy

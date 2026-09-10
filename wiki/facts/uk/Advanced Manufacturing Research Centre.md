@@ -8,14 +8,14 @@ aliases:
   - "University of Sheffield Advanced Manufacturing Research Centre"
 summary: "1999年由谢菲尔德大学和波音公司共同发起的产学联合体，截至2024年拥有600多名员工和120多家产业成员，年研究经费4,000万英镑，是大学主导研究联合体的标杆案例"
 type: fact
-subtype: event
+subtype: organization
 region: uk
 fact_region: "uk"
-fact_kind: "event"
+fact_kind: "organization"
 fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
-fact_related_color: "#fef3c7"
+fact_related_color: "#dcfce7"
 tags:
   - "theme/university-industry-collaboration"
   - "theme/innovation"

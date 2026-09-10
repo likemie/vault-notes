@@ -5,14 +5,14 @@ aliases:
   - 临床试验转型倡议
 summary: "2007 年由美国 FDA 和杜克大学共同发起的多利益相关方公私合作伙伴关系，已发布超过 30 套基于证据的建议、框架和工具，旨在提高临床试验的质量和效率"
 type: fact
-subtype: event
+subtype: program
 region: us
 fact_region: "us"
-fact_kind: "event"
+fact_kind: "program"
 fact_related_count: 4
 fact_related_level: 0
 fact_related_stars: "☆"
-fact_related_color: "#fef3c7"
+fact_related_color: "#ede9fe"
 tags:
   - region/us
   - level/higher-education

@@ -5,14 +5,14 @@ aliases:
   - OECD改进学校领导力项目
 summary: "OECD 启动的 18+4 国参与项目，五项政策建议（吸引人才、界定职责、赋权自主、分布式领导、发展连续性），将学校领导力确立为全球教育政策优先议程"
 type: fact
-subtype: policy
+subtype: program
 region: global
 fact_region: "global"
-fact_kind: "policy"
+fact_kind: "program"
 fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
-fact_related_color: "#dbeafe"
+fact_related_color: "#ede9fe"
 issuing_organization: ''
 tags:
 - school-leadership

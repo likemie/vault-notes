@@ -5,14 +5,14 @@ aliases:
   - PNRC
 summary: "美国国家药物滥用研究所（NIDA）资助建立的多领域公共证据平台，基于培育环境理论为脆弱社区提供教育、行为与健康综合干预清单；2012年结项后归档。"
 type: fact
-subtype: event
+subtype: organization
 region: us
 fact_region: "us"
-fact_kind: "event"
+fact_kind: "organization"
 fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
-fact_related_color: "#fef3c7"
+fact_related_color: "#dcfce7"
 tags:
   - pnrc
   - promise-neighborhoods

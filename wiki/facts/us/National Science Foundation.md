@@ -7,14 +7,14 @@ aliases:
   - NSF TIP Directorate
 summary: "1950 年根据 Vannevar Bush 报告建议创建的美国独立联邦机构，是联邦政府资助大学基础研究的核心渠道，2022 年后通过 TIP 理事会大幅扩展区域创新中心建设资助"
 type: fact
-subtype: event
+subtype: organization
 region: us
 fact_region: "us"
-fact_kind: "event"
+fact_kind: "organization"
 fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
-fact_related_color: "#fef3c7"
+fact_related_color: "#dcfce7"
 tags:
   - region/us
   - level/higher-education

@@ -5,14 +5,14 @@ aliases:
   - "本地创新系统项目"
 summary: "MIT 工业绩效中心 Richard Lester 领导的多年期多案例比较研究项目（2002-2005），覆盖 6 个国家 22 个地区的产业转型案例，提出大学对本地经济的四种差异化贡献模式"
 type: fact
-subtype: event
+subtype: program
 region: us
 fact_region: "us"
-fact_kind: "event"
+fact_kind: "program"
 fact_related_count: 5
 fact_related_level: 0
 fact_related_stars: ""
-fact_related_color: "#fef3c7"
+fact_related_color: "#ede9fe"
 tags:
   - region/us
   - theme/university-industry-collaboration

@@ -7,14 +7,14 @@ aliases:
   - Learning Gain Project
 summary: "英格兰高等教育拨款委员会（HEFCE）于2014–2018年注资400万英镑设立的全国性试点项目，联合70余所高校开展13个子课题，探索标准化测试、纵向队列追踪与学习分析大数据测量大学生学习增益的多元路径。"
 type: fact
-subtype: policy
+subtype: program
 region: uk
 fact_region: "uk"
-fact_kind: "policy"
+fact_kind: "program"
 fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
-fact_related_color: "#dbeafe"
+fact_related_color: "#ede9fe"
 issuing_organization: "英格兰高等教育拨款委员会（HEFCE）"
 tags:
   - policy/higher-education

@@ -5,14 +5,14 @@ aliases:
   - 英国工程学会
 summary: "英国推动青少年工程与科技教育的核心非营利全国性机构，联合产业界、学校与政府主办大爆炸科技博览会，并与英国皇家学会联合开展全国青少年科学教育追踪调查（SET），致力于消除工程领域的性别与社会阶层机会鸿沟"
 type: fact
-subtype: institution
+subtype: organization
 region: uk
 fact_region: "uk"
-fact_kind: "institution"
+fact_kind: "organization"
 fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
-fact_related_color: "#e5e7eb"
+fact_related_color: "#dcfce7"
 issuing_organization: EngineeringUK
 tags:
   - region/uk

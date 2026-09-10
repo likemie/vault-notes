@@ -20,6 +20,7 @@ related_concepts:
   - "[[Technology Transfer]]"
   - "[[Creativity]]"
   - "[[Blue Skies Research]]"
+  - "[[Joint Ownership of IP]]"
   - "[[Technology Transfer Office]]"
 related_theories: []
 related_methods: []
@@ -41,7 +42,7 @@ title: "Argument_Susalka_Carbone_2025_IP_Web"
 argument_key: "Argument_Susalka_Carbone_2025_IP_Web"
 argument_display_title: "Untangling the IP web: Ownership, rights, and strategies in university–industry collaboration"
 argument_kind: "book"
-argument_related_count: 11
+argument_related_count: 12
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#ede9fe"
@@ -303,7 +304,7 @@ IP 权利的转让条款取决于合作类型。不同类型的产学安排构�
 
 IP 条款还需规范三个重要的操作层面(pp.283–284)。
 
-**共同所有 IP 的处理**。在美国专利法下，一项共同所有专利的每个共同所有人拥有实质上等同于商业 NERF 许可的权利：每个共同所有人都可以独立制造、使用和销售受专利保护的发明，无需其他共同所有人的同意，也无需向其他共同所有人分享收益。因此，产学协议中的选择权和许可条款通常不仅涵盖大学单独拥有的 FIP，还涵盖大学在共同所有 FIP 中的权利(p.283)。如果协议未覆盖共同所有 IP，大学可能发现产业方利用其共同所有人地位自由商业化合作成果而无需向大学支付任何费用。
+**[[Joint Ownership of IP|共同所有 IP]] 的处理**。在美国专利法下，一项共同所有专利的每个共同所有人拥有实质上等同于商业 NERF 许可的权利：每个共同所有人都可以独立制造、使用和销售受专利保护的发明，无需其他共同所有人的同意，也无需向其他共同所有人分享收益。因此，产学协议中的选择权和许可条款通常不仅涵盖大学单独拥有的 FIP，还涵盖大学在共同所有 FIP 中的权利(p.283)。如果协议未覆盖共同所有 IP，大学可能发现产业方利用其共同所有人地位自由商业化合作成果而无需向大学支付任何费用。
 
 **专利申请的协调**。协议应明确 FIP 的披露程序：PI 如何、何时向谁报告发明；哪一方（通常是大学）负责决定是否提交专利申请；专利申请、审查和维护的费用如何分配。产业方通常有权对大学决定不提交申请的发明自行申请专利，费用自担。这一安排对产业方至关重要：如果大学认为某项 FIP 不值得申请专利，但企业从其市场角度判断该技术具有战略价值，企业应能自行保护。
 

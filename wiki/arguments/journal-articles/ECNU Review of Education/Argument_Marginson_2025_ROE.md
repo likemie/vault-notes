@@ -9,7 +9,7 @@ title: "Argument_Marginson_2025_ROE"
 argument_key: "Argument_Marginson_2025_ROE"
 argument_display_title: "Space, power, and globalization: On the geopolitics of higher education"
 argument_kind: "journal-article"
-argument_related_count: 35
+argument_related_count: 36
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -25,12 +25,11 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Multiplicity]]"
   - "[[Heterogeneity]]"
-  - "[[Power-Geometries]]"
   - "[[Space Production]]"
+  - "[[Space-Making]]"
   - "[[Analytic Framework]]"
   - "[[Praxis]]"
   - "[[Methodological Globalism]]"
-  - "[[Hegemony]]"
   - "[[Semi-Autonomy of Higher Education]]"
   - "[[Sovereign Internationalism]]"
   - "[[Radical Liberal Internationalism]]"
@@ -52,7 +51,9 @@ related_concepts:
   - "[[Zero-Sum Competition]]"
   - "[[Internationalization of Higher Education]]"
 related_theories:
+  - "[[Power-Geometries]]"
   - "[[World-Systems Theory]]"
+  - "[[Hegemony]]"
 related_methods:
   - "[[Case Study]]"
 related_persons:
@@ -102,7 +103,7 @@ citation_aliases:
 
 ### 空间制造分析框架：Lefebvre + Marginson
 
-在 Massey 的本体论基础上，Lefebvre(1991)的[[Space Production|空间生产]]理论被进一步发展为高等教育的三维 空间制造 [[Analytic Framework|分析框架]](pp. 3–5)：
+在 Massey 的本体论基础上，Lefebvre(1991)的[[Space Production|空间生产]]理论被进一步发展为高等教育的三维[[Space-Making|空间制造]][[Analytic Framework|分析框架]](pp. 3–5)：
 
 | 维度 | 内容 | 高等教育案例 |
 |------|------|-------------|

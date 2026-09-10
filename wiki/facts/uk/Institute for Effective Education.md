@@ -5,14 +5,14 @@ aliases:
   - 有效教育研究所
 summary: "英国约克大学相关独立慈善机构，通过学校支持、严格评价、Evidence in Brief和Evidence 4 Impact推动教育政策与实践中的证据使用。"
 type: fact
-subtype: policy
+subtype: organization
 region: uk
 fact_region: "uk"
-fact_kind: "policy"
+fact_kind: "organization"
 fact_related_count: 5
 fact_related_level: 0
 fact_related_stars: ""
-fact_related_color: "#dbeafe"
+fact_related_color: "#dcfce7"
 issuing_organization: University of York
 tags:
   - region/uk

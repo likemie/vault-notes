@@ -4,14 +4,14 @@ aliases:
   - 坎贝尔协作组织
 summary: "2000年成立的社会科学系统综述组织，2007年将国际总部迁至挪威，通过综述社会、经济和教育干预研究支持证据本位政策与实践。"
 type: fact
-subtype: policy
+subtype: organization
 region: global
 fact_region: "global"
-fact_kind: "policy"
+fact_kind: "organization"
 fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
-fact_related_color: "#dbeafe"
+fact_related_color: "#dcfce7"
 issuing_organization: Campbell Collaboration
 tags:
   - region/global

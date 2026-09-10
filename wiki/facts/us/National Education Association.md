@@ -6,14 +6,14 @@ aliases:
   - NEA
 summary: "美国最大的公立学校教师专业组织与工会，1857 年成立；其 2012 年《为全球社会培养 21 世纪学生》指南提出 4C 技能框架，把批判性思维与创造力列为 21 世纪核心技能"
 type: fact
-subtype: event
+subtype: organization
 region: us
 fact_region: "us"
-fact_kind: "event"
+fact_kind: "organization"
 fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
-fact_related_color: "#fef3c7"
+fact_related_color: "#dcfce7"
 tags:
   - region/us
   - level/k-12

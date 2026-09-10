@@ -8,7 +8,6 @@ aliases:
   - "艾格检验"
 summary: "由 Matthias Egger 等人（1997）提出的参数化发表偏倚与漏斗图不对称性检验方法。通过对标准化效应量与其精度（标准误的倒数）建立线性回归方程，根据截距项是否显著偏离零来诊断小研究效应与发表偏倚。"
 type: method
-domain: "research-methodology"
 method_type: quantitative
 method_family: "quantitative"
 method_related_count: 25
@@ -23,9 +22,7 @@ tags:
 related_concepts:
   - "[[Publication Bias]]"
   - "[[Small Study Effects]]"
-  - "[[Effect Size]]"
   - "[[Hypothesis]]"
-  - "[[Standard Error]]"
   - "[[Funnel Plot]]"
   - "[[Unit of Analysis]]"
   - "[[Variable]]"
@@ -37,6 +34,8 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
+  - "[[Standard Error]]"
   - "[[Meta-meta-analysis]]"
   - "[[Multilevel Egger's Test]]"
   - "[[Umbrella Review]]"
@@ -55,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-09-11
 ---
 
 # Egger Regression Test

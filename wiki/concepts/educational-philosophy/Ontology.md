@@ -10,7 +10,7 @@ aliases:
 summary: "关于实在本质的哲学假设，决定研究者如何看待社会现象的存在方式；在教育心理学中，也指代个体对知识属性进行分类的心智认知系统。"
 type: concept
 domain: "educational-philosophy"
-related_count: 24
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -35,7 +35,6 @@ related_concepts:
   - "[[Rich and Thick Description]]"
   - "[[Domain Specificity]]"
   - "[[Externalization]]"
-  - "[[Creativity, Action, Service]]"
   - "[[Questionnaire]]"
 related_theories:
   - "[[Complexity Theory]]"
@@ -181,7 +180,7 @@ updated: 2026-09-09
 > - **20世纪中叶 — 组织与方法论[[Paradigm|范式]]确立** 进入社会科学研究方法论领域，成为划分[[Positivism|实证主义]]、[[Interpretive Paradigm|诠释范式]]与[[Critical Theory|批判理论]]的底层分水岭，建构起从[[Axiology|价值论]]到本体论、再到[[Epistemology|认识论]]与方法论的衍生链条（Hitchcock & Hughes, 1995; Burrell & Morgan, 1979）。
 > - **1970年代 — 组织实在观念论革命** Greenfield（1975）以观念论颠覆组织实在论，确立教育组织为行动者主观发明的社会实在。
 > - **2010年代 — 认知心理学转向** 被引入教育心理学与学习科学，剥离出独立的“本体论认知”（Ontological Cognition）维度，揭示学习者关于知识属性分类的[[Domain Specificity|领域特殊性]]心智演进（[[Argument_Greene_2010_JEP|Greene et al., 2010]]）。
-> - **当代前沿 — [[Complexity Theory|复杂性理论]]动态[[Emergence|涌现]]** 复杂适应系统（[[Creativity, Action, Service|CAS]]）彻底解构机械静态实在观，确立实在具有动态生成、自组织临界与非线性共生属性（Kuhn, 2007）。
+> - **当代前沿 — [[Complexity Theory|复杂性理论]]动态[[Emergence|涌现]]** 复杂适应系统（CAS）彻底解构机械静态实在观，确立实在具有动态生成、自组织临界与非线性共生属性（Kuhn, 2007）。
 
 ---
 

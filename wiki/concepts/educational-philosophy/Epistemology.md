@@ -8,7 +8,7 @@ aliases:
 summary: "关于知识本质、形式与获取方式的哲学假设，在研究哲学中决定不同范式的有效知识判准；在教育心理学与学习科学中，表现为个体心智协调主观与客观维度的认识论理解演进。"
 type: concept
 domain: "educational-philosophy"
-related_count: 52
+related_count: 53
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Interpretive Paradigm]]"
   - "[[Postpositivism]]"
+  - "[[Epistemic Ideals]]"
   - "[[Emergence]]"
   - "[[Axiology]]"
   - "[[Pragmatic Paradigm]]"
@@ -104,7 +105,7 @@ updated: 2026-09-09
 
 > [!boundary] 概念边界
 > - 不等于 本体论（Ontology） 本体论探讨客体实在的存在本质（在的方式）；认识论关注主体认识实在并确立真理的依据与证据法则（知的方式）。
-> - 不等于 方法论（Methodology） 认识论确立有效知识的理论标准；方法论是落实该认识论标准的系统研究策略与操作程序。
+> - 不等于 方法论（Methodology） 认识论确立有效知识的理论标准；方法论是落实该[[Epistemic Ideals|认识论标准]]的系统研究策略与操作程序。
 > - 不等于 实质性知识（Substantive Knowledge） 认识论聚焦于关于知识的元认知与元理论结构（来源、确定性与辩护），而非特定学科领域的具体事实与定理内容。
 
 ---

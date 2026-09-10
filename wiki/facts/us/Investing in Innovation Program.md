@@ -5,14 +5,14 @@ aliases:
   - i3
 summary: "2009–2016 年美国教育部 USD 1.4B 分层拨款项目，以开发→验证→规模化结构推动教育 RCT 证据生产"
 type: fact
-subtype: event
+subtype: program
 region: us
 fact_region: "us"
-fact_kind: "event"
+fact_kind: "program"
 fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
-fact_related_color: "#fef3c7"
+fact_related_color: "#ede9fe"
 tags:
 - i3
 - investing-in-innovation

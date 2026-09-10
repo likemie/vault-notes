@@ -6,14 +6,14 @@ aliases:
   - 奥地利新教师教育改革
 summary: "由奥地利联邦教育与科研部于2015/2016年全面实施的全国性教师教育体系重大改革，统一大学与师范学院培养路径，强化教师反思性实践、诊断评价与批判性探究能力。"
 type: fact
-subtype: policy
+subtype: program
 region: austria
 fact_region: "austria"
-fact_kind: "policy"
+fact_kind: "program"
 fact_related_count: 8
 fact_related_level: 1
 fact_related_stars: "⭐"
-fact_related_color: "#dbeafe"
+fact_related_color: "#ede9fe"
 issuing_organization: "奥地利联邦教育、科学与研究部（BMBWF）"
 tags:
   - policy/teacher-education

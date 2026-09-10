@@ -6,14 +6,14 @@ aliases:
   - CESE
 summary: "1961年在战后欧洲多边主义合作和教育民主化浪潮下成立的专业学术学会。首任主席为英国首位比较教育教授 Joseph Lauwerys，学会的成立标志着比较教育在欧洲的专业化与大学建制化，是理性主义国际合作传统重塑比较教育的经典制度产物。"
 type: fact
-subtype: event
+subtype: organization
 region: eu
 fact_region: "eu"
-fact_kind: "event"
+fact_kind: "organization"
 fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
-fact_related_color: "#fef3c7"
+fact_related_color: "#dcfce7"
 tags:
   - subject/comparative-education
   - theme/international-cooperation
@@ -22,7 +22,6 @@ tags:
 related_concepts:
   - "[[Rationalism in International Relations]]"
   - "[[International Mind]]"
-  - "[[Common School Movement]]"
   - "[[Soft Power]]"
   - "[[Lifelong Learning]]"
   - "[[Development Turn in Comparative Education]]"
@@ -32,6 +31,7 @@ related_methods: []
 related_persons:
   - "[[Joseph Lauwerys]]"
 related_facts:
+  - "[[Common School Movement]]"
   - "[[Comparative and International Education Society]]"
   - "[[OECD]]"
 related_arguments:

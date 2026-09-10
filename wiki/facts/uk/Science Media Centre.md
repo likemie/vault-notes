@@ -7,14 +7,14 @@ aliases:
   - 英国科学媒体中心
 summary: "2002年设立于英国伦敦的独立科学新闻媒体中介机构，旨在突发争议科技事件中快速汇集权威同行评议专家实证点评，连接一线学者与大众传媒，促进客观准确的科学新闻报道并抵御虚假信息。"
 type: fact
-subtype: policy
+subtype: organization
 region: uk
 fact_region: "uk"
-fact_kind: "policy"
+fact_kind: "organization"
 fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
-fact_related_color: "#dbeafe"
+fact_related_color: "#dcfce7"
 issuing_organization: Science Media Centre
 tags:
   - region/uk

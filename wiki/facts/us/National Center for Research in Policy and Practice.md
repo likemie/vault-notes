@@ -5,14 +5,14 @@ aliases:
   - 全美政策与实践研究中心
 summary: "美国教育部教育科学研究院（IES）资助成立的国家级研究中心，专注于研究学区领导者与教师如何获取、解读与使用研究证据，开发了测量研究实践伙伴关系（RPP）对证据使用影响的评估框架与量表。"
 type: fact
-subtype: policy
+subtype: organization
 region: us
 fact_region: "us"
-fact_kind: "policy"
+fact_kind: "organization"
 fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
-fact_related_color: "#dbeafe"
+fact_related_color: "#dcfce7"
 issuing_organization: Institute of Education Sciences (IES)
 tags:
   - region/us

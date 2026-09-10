@@ -119,7 +119,7 @@ updated: 2026-08-22
 ### 命题三　EE 可以连接认识论反思、学科研究与现实行动
 
 > [!concept-lens] 跨组件[[Concurrency of Learning|并发学习]]
-> TOK 提供审查知识主张的语言，EE 把这些原则用于具体研究，[[Creativity, Action, Service|CAS]] 则提供现实经验和行动[[Champ|场域]]。连贯性来自问题、证据与行动在三项核心之间迁移。
+> TOK 提供审查知识主张的语言，EE 把这些原则用于具体研究，CAS 则提供现实经验和行动[[Champ|场域]]。连贯性来自问题、证据与行动在三项核心之间迁移。
 
 > [!claim] Metli, A. & Akış, D.
 > **[[Epistemology|认识论]]工具在研究中获得具体对象** TOK 的[[Knowledge Framework|知识框架]]可以帮助学生界定 EE 的问题，并在[[Literature Review|文献综述]]中检查信源[[Reliability|可靠性]]、证据效力与方法限制。CAS 经验可以提供[[Research Question|研究问题]]，EE 结论也可以转化为社区项目。EE 由此位于反思、探究和行动之间，而非只承担长篇写作训练。这样的连接需要图书馆员研讨、共同词汇和教师协作来显性推动。[[Argument_Metli_2022_IJER|Metli & Akış (2022, pp. 226–229)]]
@@ -153,7 +153,7 @@ updated: 2026-08-22
 > - **早期实施　形成四至六个月、约 4,000 字、导师指导和外部评价的基本形态** 研究通常安排在两年课程中段，由学生主要使用自己的时间完成，教师给予指导，外部考官负责评价。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, p. 45)]]
 > - **早期调整　提交期限因学生过度投入而提前** 一些学生沉浸于自选题目，开始忽视其他课程并危及文凭考试。[[International Baccalaureate|国际文凭]]办公室（International Baccalaureate Office，IBO）把截止日期提前到课程结束前数月，为六学科恢复学习时间。
 > - **2009 年所记录的制度　EE 与 [[Theory of Knowledge|TOK]] 共同进入核心奖励分矩阵** 两项外部评价等级交叉换算零至三分奖励分，EE 的最低等级还与文凭资格直接相连。[[Argument_Darwish_2009_Queens|Darwish (2009, pp. 18–19)]]
-> - **2022 年　EE 被进一步理解为核心组件之间的连接点** TOK 的知识审查可以进入 EE 的研究设计和[[Document|文献]]评价，[[Creativity, Action, Service|CAS]] 的经验可以生成[[Research Question|研究问题]]，EE 的发现也可以转化为 CAS 行动。学校实践中的连接仍经常停留在表层。[[Argument_Metli_2022_IJER|Metli & Akış (2022, pp. 226–230)]]
+> - **2022 年　EE 被进一步理解为核心组件之间的连接点** TOK 的知识审查可以进入 EE 的研究设计和[[Document|文献]]评价，CAS 的经验可以生成[[Research Question|研究问题]]，EE 的发现也可以转化为 CAS 行动。学校实践中的连接仍经常停留在表层。[[Argument_Metli_2022_IJER|Metli & Akış (2022, pp. 226–230)]]
 
 ---
 
@@ -174,7 +174,7 @@ updated: 2026-08-22
 > 早期学生反馈同时显示价值与风险。许多学生认为 EE 最有助于适应大学学习；一些学生则深度投入自选题目，忽视其余课程并可能影响文凭考试。学校投诉促使 IBO 把提交日期提前到全部课程结束前数月。调整没有削弱自主选题，而是用制度时间边界重新平衡个人研究和[[Concurrency of Learning|并发学习]]。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, p. 45)]]
 
 > [!case] 涂鸦主题连接经验、知识判断与学科研究
-> 学生可以先在 [[Creativity, Action, Service|CAS]] 中参与涂鸦相关的创作或社区项目，再在 [[Theory of Knowledge|TOK]] 中讨论艺术定义、艺术家的伦理权利及艺术与法律的关系，最后把问题收束为视觉艺术 EE，研究涂鸦如何影响社会视觉文化。同一主题经过经验、[[Epistemology|认识论]]反思和独立研究三次转化，避免三项核心成为相互隔离的任务。[[Argument_Metli_2022_IJER|Metli & Akış (2022, pp. 228–229)]]
+> 学生可以先在 CAS 中参与涂鸦相关的创作或社区项目，再在 [[Theory of Knowledge|TOK]] 中讨论艺术定义、艺术家的伦理权利及艺术与法律的关系，最后把问题收束为视觉艺术 EE，研究涂鸦如何影响社会视觉文化。同一主题经过经验、[[Epistemology|认识论]]反思和独立研究三次转化，避免三项核心成为相互隔离的任务。[[Argument_Metli_2022_IJER|Metli & Akış (2022, pp. 228–229)]]
 
 > [!case] 生态研究由论文返回社区行动
 > 一项关于城市化如何影响安纳托利亚黄鼠种群的 EE，可以继续转化为 CAS 全球问题倡导。学生整理科学报告，向地方机构展示研究发现，并设计社区保护活动。研究提供行动所需的证据，行动又使论文问题进入具体环境。[[Argument_Metli_2022_IJER|Metli & Akış (2022, p. 229)]]
@@ -186,7 +186,7 @@ updated: 2026-08-22
 > [!warning] 适用局限
 > - **投入程度差异** 早期成果既包括高度投入的研究，也包括只为满足要求而提交的平淡论文。正式要求能够创造机会，不能保证每名学生都形成个人热情。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, p. 45)]]
 > - **整体课业失衡** 长期研究可能挤压六学科时间；截止日期、导师进度管理和学校协调是维持整体课程平衡的[[Necessary and Sufficient Conditions|必要条件]]。
-> - **跨组件联系不足** 时间限制、缺少协同备课、官方操作指引不足及教师对[[Concurrency of Learning|并发学习]]认识有限，会使 EE、[[Theory of Knowledge|TOK]] 和 [[Creativity, Action, Service|CAS]] 各自运行。[[Argument_Metli_2022_IJER|Metli & Akış (2022, pp. 226–230)]]
+> - **跨组件联系不足** 时间限制、缺少协同备课、官方操作指引不足及教师对[[Concurrency of Learning|并发学习]]认识有限，会使 EE、[[Theory of Knowledge|TOK]] 和 CAS 各自运行。[[Argument_Metli_2022_IJER|Metli & Akış (2022, pp. 226–230)]]
 > - **大学准备证据的范围** EE 与大学学习结果的关联支持其准备价值，不能单独证明 EE 导致更高成绩；学生选择、学校环境和既有能力仍可能共同影响结果。
 
 ---
@@ -196,4 +196,4 @@ updated: 2026-08-22
 > [!evidence-grid] 相关研究索引
 > - [[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987)]] 记录 EE 从六学科课程缺口中产生的原因、早期四至六个月研究形态、外部评价、学生反馈及期限调整。
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] 说明 [[IB Diploma Programme|IBDP]] 核心结构以及 EE 与 [[Theory of Knowledge|TOK]] 的奖励分转换矩阵。
-> - [[Argument_Metli_2022_IJER|Metli & Akış (2022)]] 分析 EE 如何通过[[Concurrency of Learning|并发学习]]与 TOK 和 [[Creativity, Action, Service|CAS]] 形成证据审查、[[Research Question|研究问题]]与现实行动的双向联系，并记录学校实施障碍。
+> - [[Argument_Metli_2022_IJER|Metli & Akış (2022)]] 分析 EE 如何通过[[Concurrency of Learning|并发学习]]与 TOK 和 CAS 形成证据审查、[[Research Question|研究问题]]与现实行动的双向联系，并记录学校实施障碍。

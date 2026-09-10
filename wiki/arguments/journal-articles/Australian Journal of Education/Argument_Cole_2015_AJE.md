@@ -37,9 +37,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Knowledge Questions]]"
   - "[[Creativity, Action, Service]]"
-  - "[[Domain Analysis]]"
   - "[[School Leadership]]"
-  - "[[Effect Size]]"
   - "[[Areas of Knowledge]]"
   - "[[Epistemology]]"
   - "[[Causality]]"
@@ -55,10 +53,11 @@ related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Triangulation]]"
   - "[[Convenience Sampling]]"
-  - "[[Semi-structured Interview]]"
   - "[[Focus Group]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Longitudinal Study]]"
+  - "[[Domain Analysis]]"
+  - "[[Effect Size]]"
 related_persons:
   - "[[Socrates]]"
 related_facts: []
@@ -69,17 +68,19 @@ related_instruments:
   - "[[Critical Thinking Strategies Scale]]"
   - "[[California Critical Thinking Disposition Inventory]]"
   - "[[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale]]"
+  - "[[ToK Interview and Focus Group Protocol]]"
+  - "[[ToK Classroom Observation Protocol]]"
   - "[[Academic Self-Concept General Scale]]"
 status: draft
 created: 2026-06-30
-updated: 2026-08-03
+updated: 2026-09-11
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Cole_2015_AJE"
 argument_key: "Argument_Cole_2015_AJE"
 argument_display_title: "Critical thinking skills in the International Baccalaureate's 'Theory of Knowledge' subject: Findings from an Australian study"
 argument_kind: "journal-article"
-argument_related_count: 43
+argument_related_count: 44
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -152,8 +153,8 @@ journal: "Australian Journal of Education"
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
 > | **抽样策略** | [[Convenience Sampling\|便利抽样]]，即选择四所 NSW 提供 IB DP 的学校作为深度[[Case Study\|案例研究]]地点 |
-> | **材料一：[[Semi-structured Interview\|半结构化访谈]]** | 22 次教师访谈（每次约 40 分钟）、8 组学生[[Focus Group\|焦点小组]]（每次约 30 分钟，每组 4–7 名学生）、5 次行政人员访谈。访谈问题围绕受访者如何看待 ToK 课程、ToK 在课程体系中的位置及其价值（完整问题清单见附录 A） |
-> | **材料二：课堂观察** | 10 次 ToK 课堂观察，记录教师如何教授 ToK、学生如何回应教学法、课堂中应用了哪些批判性思维要素、教学法的有效性受哪些因素影响（观察重点见附录 A） |
+> | **材料一：[[ToK Interview and Focus Group Protocol|半结构化访谈与焦点小组]]** | 22 次教师访谈（每次约 40 分钟）、8 组学生[[Focus Group|焦点小组]]（每次约 30 分钟，每组 4–7 名学生）、5 次行政人员访谈，使用 [[ToK Interview and Focus Group Protocol]]。访谈问题围绕受访者如何看待 ToK 课程、ToK 在课程体系中的位置及其价值（完整问题清单见附录 A） |
+> | **材料二：[[ToK Classroom Observation Protocol|课堂观察]]** | 使用 [[ToK Classroom Observation Protocol]] 进行 10 次 ToK 课堂观察，记录教师如何教授 ToK、学生如何回应教学法、课堂中应用了哪些批判性思维要素、教学法的有效性受哪些因素影响（观察重点见附录 A） |
 > | **材料三：文件分析** | 学校与 ToK 相关的[[Document\|文件]]，包括学校报告、课程文件、学生帮助指南 |
 > | **分析策略** | 质性数据由研究团队经过严格讨论后就质性主题达成一致，试图框架和发展 ToK 在四所学校中的运作方式。研究者在四个月内定期返回学校（最多 4 次/校），进行后续访谈、额外观察和澄清，特别是关于 ToK 是否以及如何为批判性思维技能发展提供了平台 |
 
@@ -380,7 +381,7 @@ journal: "Australian Journal of Education"
 ## 自述局限
 
 > [!warning] 研究设计局限
-> - **无法分离 ToK 与整个 DP 的效果** DP 毕业生完成的是整个 [[IB Diploma Programme|IB DP]] 课程（六门学科 + EE + [[Creativity, Action, Service|CAS]] + ToK），横断研究设计无法将 ToK 的独立贡献从 DP 的整体效果中分离。这是该研究最根本的推断限制（pp. 256–257）
+> - **无法分离 ToK 与整个 DP 的效果** DP 毕业生完成的是整个 [[IB Diploma Programme|IB DP]] 课程（六门学科 + EE + CAS + ToK），横断研究设计无法将 ToK 的独立贡献从 DP 的整体效果中分离。这是该研究最根本的推断限制（pp. 256–257）
 > - **横断设计限制[[Causality|因果推断]]** 11 年级与 12 年级的比较是横断快照而非纵向追踪。即使两组之间存在系统性差异，也无法排除队列效应（cohort effect）或选择性[[Attrition|流失]]的替代解释（p. 256）
 > - **选课效应无法排除** 选择 [[IB Diploma Programme|IB DP]] 的学生可能在入学前就具有更高的学术能力、更强的学习动机或更支持性的家庭背景。ATAR 差异（$+4.84$分）可能部分或全部反映的是选课效应而非 DP 的培养效应（p. 258）
 

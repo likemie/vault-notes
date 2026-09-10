@@ -8,14 +8,14 @@ aliases:
   - Project 5-top 100
 summary: "俄罗斯于2013至2020年间实施的学术卓越计划，旨在提升俄罗斯大学在世界大学排名中的竞争力，将至少5所大学送入全球前100名。"
 type: fact
-subtype: policy
+subtype: program
 region: russia
 fact_region: "russia"
-fact_kind: "policy"
+fact_kind: "program"
 fact_related_count: 5
 fact_related_level: 0
 fact_related_stars: ""
-fact_related_color: "#dbeafe"
+fact_related_color: "#ede9fe"
 issuing_organization: "Ministry of Education and Science of the Russian Federation"
 tags:
   - policy/academic-excellence

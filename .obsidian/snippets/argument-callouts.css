@@ -18874,3 +18874,256 @@ table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nt
   background: rgba(180, 140, 220, 0.12);
 }
 
+
+/* ═══════════════════════════════════════════════════════════
+   ORG-CONTEXT (机构基础信息卡片网格)
+   用于机构性质、成立时间、总部地点、核心宗旨
+   ═══════════════════════════════════════════════════════════ */
+
+.callout[data-callout="org-context"] {
+  --callout-color: 46, 125, 50;
+  --callout-icon: lucide-building-2;
+  position: relative;
+  overflow: hidden;
+  border: 1px solid rgba(var(--callout-color), 0.20);
+  border-left: 6px solid rgb(var(--callout-color));
+  border-radius: 8px;
+  background:
+    linear-gradient(120deg, rgba(var(--callout-color), 0.13), transparent 45%),
+    repeating-linear-gradient(90deg, rgba(var(--callout-color), 0.045) 0, rgba(var(--callout-color), 0.045) 1px, transparent 1px, transparent 18px),
+    var(--background-primary);
+  box-shadow:
+    0 3px 10px rgba(var(--callout-color), 0.07),
+    0 10px 24px rgba(0, 0, 0, 0.045);
+}
+
+.callout[data-callout="org-context"]::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 38%;
+  height: 100%;
+  pointer-events: none;
+  background:
+    linear-gradient(135deg, transparent 0 34%, rgba(var(--callout-color), 0.08) 34% 36%, transparent 36% 100%),
+    linear-gradient(45deg, transparent 0 44%, rgba(var(--callout-color), 0.07) 44% 46%, transparent 46% 100%);
+  opacity: 0.8;
+}
+
+.callout[data-callout="org-context"] > .callout-title {
+  position: relative;
+  padding: 0.68rem 1rem 0.55rem;
+  color: rgb(var(--callout-color));
+  font-weight: 760;
+  letter-spacing: 0.01em;
+  border-bottom: 1px solid rgba(var(--callout-color), 0.13);
+}
+
+.callout[data-callout="org-context"] > .callout-title .callout-title-inner::before {
+  content: "ORGANIZATION";
+  display: inline-block;
+  margin-right: 0.55rem;
+  padding: 1px 7px;
+  border-radius: 999px;
+  background: rgba(var(--callout-color), 0.13);
+  color: rgb(var(--callout-color));
+  font-size: var(--fs-label);
+  font-weight: 820;
+  letter-spacing: 0.08em;
+  vertical-align: middle;
+}
+
+.callout[data-callout="org-context"] > .callout-content {
+  position: relative;
+  padding: 0.85rem 1rem 0.95rem;
+}
+
+.callout[data-callout="org-context"] > .callout-content > p:first-child {
+  margin-top: 0;
+  margin-bottom: 0.78rem;
+  color: var(--text-normal);
+  font-weight: 520;
+  line-height: 1.7;
+}
+
+.callout[data-callout="org-context"] > .callout-content > ul {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.62rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.callout[data-callout="org-context"] > .callout-content > ul > li {
+  margin: 0;
+  padding: 0.68rem 0.74rem;
+  border: 1px solid rgba(var(--callout-color), 0.15);
+  border-radius: 7px;
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.38), transparent),
+    color-mix(in srgb, var(--background-primary) 90%, rgb(var(--callout-color)) 10%);
+  line-height: 1.58;
+}
+
+.callout[data-callout="org-context"] > .callout-content > ul > li > strong:first-of-type {
+  display: block;
+  margin-bottom: 0.2rem;
+  color: rgb(var(--callout-color));
+  font-size: var(--fs-body);
+  letter-spacing: 0.02em;
+}
+
+@media (max-width: 700px) {
+  .callout[data-callout="org-context"] > .callout-content > ul {
+    grid-template-columns: 1fr;
+  }
+}
+
+.theme-dark .callout[data-callout="org-context"] {
+  --callout-color: 102, 187, 106;
+  border-color: rgba(var(--callout-color), 0.22);
+  box-shadow:
+    0 3px 10px rgba(var(--callout-color), 0.07),
+    0 10px 24px rgba(0, 0, 0, 0.22);
+}
+
+.theme-dark .callout[data-callout="org-context"] > .callout-content > ul > li {
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.035), transparent),
+    color-mix(in srgb, var(--background-primary) 88%, rgb(var(--callout-color)) 12%);
+}
+
+.callout[data-callout="org-context"] > .callout-content > ul:has(> li:nth-child(odd):last-child) > li:last-child {
+  grid-column: 1 / -1;
+  max-width: 50%;
+  margin-inline: auto;
+}
+
+/* ═══════════════════════════════════════════════════════════
+   PROGRAM-CONTEXT (项目基础信息卡片网格)
+   用于立项时间、资助机制、覆盖范围、问题导向
+   ═══════════════════════════════════════════════════════════ */
+
+.callout[data-callout="program-context"] {
+  --callout-color: 109, 40, 217;
+  --callout-icon: lucide-folder-kanban;
+  position: relative;
+  overflow: hidden;
+  border: 1px solid rgba(var(--callout-color), 0.20);
+  border-left: 6px solid rgb(var(--callout-color));
+  border-radius: 8px;
+  background:
+    linear-gradient(120deg, rgba(var(--callout-color), 0.13), transparent 45%),
+    repeating-linear-gradient(90deg, rgba(var(--callout-color), 0.045) 0, rgba(var(--callout-color), 0.045) 1px, transparent 1px, transparent 18px),
+    var(--background-primary);
+  box-shadow:
+    0 3px 10px rgba(var(--callout-color), 0.07),
+    0 10px 24px rgba(0, 0, 0, 0.045);
+}
+
+.callout[data-callout="program-context"]::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 38%;
+  height: 100%;
+  pointer-events: none;
+  background:
+    linear-gradient(135deg, transparent 0 34%, rgba(var(--callout-color), 0.08) 34% 36%, transparent 36% 100%),
+    linear-gradient(45deg, transparent 0 44%, rgba(var(--callout-color), 0.07) 44% 46%, transparent 46% 100%);
+  opacity: 0.8;
+}
+
+.callout[data-callout="program-context"] > .callout-title {
+  position: relative;
+  padding: 0.68rem 1rem 0.55rem;
+  color: rgb(var(--callout-color));
+  font-weight: 760;
+  letter-spacing: 0.01em;
+  border-bottom: 1px solid rgba(var(--callout-color), 0.13);
+}
+
+.callout[data-callout="program-context"] > .callout-title .callout-title-inner::before {
+  content: "PROGRAM";
+  display: inline-block;
+  margin-right: 0.55rem;
+  padding: 1px 7px;
+  border-radius: 999px;
+  background: rgba(var(--callout-color), 0.13);
+  color: rgb(var(--callout-color));
+  font-size: var(--fs-label);
+  font-weight: 820;
+  letter-spacing: 0.08em;
+  vertical-align: middle;
+}
+
+.callout[data-callout="program-context"] > .callout-content {
+  position: relative;
+  padding: 0.85rem 1rem 0.95rem;
+}
+
+.callout[data-callout="program-context"] > .callout-content > p:first-child {
+  margin-top: 0;
+  margin-bottom: 0.78rem;
+  color: var(--text-normal);
+  font-weight: 520;
+  line-height: 1.7;
+}
+
+.callout[data-callout="program-context"] > .callout-content > ul {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.62rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.callout[data-callout="program-context"] > .callout-content > ul > li {
+  margin: 0;
+  padding: 0.68rem 0.74rem;
+  border: 1px solid rgba(var(--callout-color), 0.15);
+  border-radius: 7px;
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.38), transparent),
+    color-mix(in srgb, var(--background-primary) 90%, rgb(var(--callout-color)) 10%);
+  line-height: 1.58;
+}
+
+.callout[data-callout="program-context"] > .callout-content > ul > li > strong:first-of-type {
+  display: block;
+  margin-bottom: 0.2rem;
+  color: rgb(var(--callout-color));
+  font-size: var(--fs-body);
+  letter-spacing: 0.02em;
+}
+
+@media (max-width: 700px) {
+  .callout[data-callout="program-context"] > .callout-content > ul {
+    grid-template-columns: 1fr;
+  }
+}
+
+.theme-dark .callout[data-callout="program-context"] {
+  --callout-color: 167, 139, 250;
+  border-color: rgba(var(--callout-color), 0.22);
+  box-shadow:
+    0 3px 10px rgba(var(--callout-color), 0.07),
+    0 10px 24px rgba(0, 0, 0, 0.22);
+}
+
+.theme-dark .callout[data-callout="program-context"] > .callout-content > ul > li {
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.035), transparent),
+    color-mix(in srgb, var(--background-primary) 88%, rgb(var(--callout-color)) 12%);
+}
+
+.callout[data-callout="program-context"] > .callout-content > ul:has(> li:nth-child(odd):last-child) > li:last-child {
+  grid-column: 1 / -1;
+  max-width: 50%;
+  margin-inline: auto;
+}
+

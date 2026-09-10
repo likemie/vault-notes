@@ -6,10 +6,10 @@ aliases:
   - 国际学生评价项目
 summary: "OECD 于 2000 年启动的跨国学生评估项目，通过周期性比较 15 岁学生阅读、数学与科学素养，确立真实情境应用与科学本质理解的国际基准，持续塑造全球教育治理、危机叙事与政策优先事项"
 type: fact
-subtype: event
+subtype: program
 region: global
 fact_region: "global"
-fact_kind: "event"
+fact_kind: "program"
 fact_related_count: 46
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"

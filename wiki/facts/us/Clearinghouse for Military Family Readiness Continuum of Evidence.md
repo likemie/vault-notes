@@ -5,14 +5,14 @@ aliases:
   - CMFR
 summary: "美国国防部（DoD）、农业部（USDA）与宾夕法尼亚州立大学联合建立的公共证据清算中心，针对军人家庭及子女教育与身心发展，为RCT与QED均制定了详尽标准。"
 type: fact
-subtype: event
+subtype: organization
 region: us
 fact_region: "us"
-fact_kind: "event"
+fact_kind: "organization"
 fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
-fact_related_color: "#fef3c7"
+fact_related_color: "#dcfce7"
 tags:
   - cmfr
   - military-families

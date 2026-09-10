@@ -5,14 +5,14 @@ aliases:
   - 美中经济与安全审查委员会
 summary: "美国国会设立的委员会，系统监控中美贸易关系的国家安全影响，Partaken 定位为中美 GPK 中美国方面的核心制度行动者"
 type: fact
-subtype: event
+subtype: organization
 region: us
 fact_region: "us"
-fact_kind: "event"
+fact_kind: "organization"
 fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
-fact_related_color: "#fef3c7"
+fact_related_color: "#dcfce7"
 tags:
 - region/us
 - region/china

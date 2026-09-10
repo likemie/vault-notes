@@ -363,7 +363,22 @@ Instrument 页记录可以被明确识别、获取和实施的命名量表、问
 
 规则：
 
-- `instrument_type` 使用 `scale`、`questionnaire`、`test`、`inventory`、`rubric`、`checklist`、`observation-tool`、`interview-tool` 或 `other`。
+- `instrument_type` 与对应存放子目录严格执行一一对应映射：
+  - `test` $\rightarrow$ `wiki/instruments/tests/`：最高表现测验（Maximal Performance），测定认知推理、智力、思维技能或学业成就，有标准答案、客观对错或规范分级评分（如 TTCT、CCTST、WGCTA、TSA、CLA）。
+  - `scale` $\rightarrow$ `wiki/instruments/scales/`：典型表现量表（Typical Performance），多点李克特等距量表，测查态度、信念、自我概念、动机等连续心理构念，无标准对错。
+  - `questionnaire` $\rightarrow$ `wiki/instruments/questionnaires/`：调查问卷（Survey），测查学习经历、投入频次、事实背景或多维综合状态（如 NSSE、CEQ、CAQ、VNOS）。
+  - `inventory` $\rightarrow$ `wiki/instruments/inventories/`：行为倾向/风格存表（Inventory），系统罗列个体特定行为特征、应对风格或心智倾向的自陈清单（如 CCTDI、PSI、ECI）。
+  - `rubric` $\rightarrow$ `wiki/instruments/rubrics/`：表现性评价量规（Performance Rubric），多维评价指标与阶梯式表现水平描述符构成的质性评分矩阵（如 VALUE Rubrics、OECD Rubrics、CAT）。
+  - `checklist` $\rightarrow$ `wiki/instruments/checklists/`：方法学质评核查清单（Checklist），二元/三元客观准则核对表，专用于文献综述与实证研究设计质量评价（AMSTAR、MMAT、Kmet）。
+  - `observation-tool` $\rightarrow$ `wiki/instruments/observation-tools/`：观察规程与编码系统（Observation Protocol），课堂或情境中按时间/事件进行外部系统编码的观察工具（FIAC、ToK观察表）。
+  - `interview-tool` $\rightarrow$ `wiki/instruments/interview-tools/`：访谈与焦点小组指南（Interview Protocol），半结构化访谈核心问题、追问框架与焦点小组指引。
+- **子类型界限与判定准则（尤其是 Scale 与 Inventory 的区别）**：
+  - **Scale（量表）**：词源为标尺（Ladder / Ruler）。核心在于测量单一潜在心理构念的连续“强度或水平”（回答：*How much?*）。题项被假定为潜变量的反映指标（Reflective Indicators），通常采用李克特等距量表，产出代表构念强弱的标量总分或均分（如学术自我概念量表、教师研究素养量表）。
+  - **Inventory（清单 / 存表）**：词源为财产盘点清册（Catalog / Inventarium）。核心在于系统性编目与清点个体在某一领域内的典型行为特征、习惯倾向或应对风格（回答：*What profile / style?*）。维度强调对异质行为谱系的多维覆盖，核心价值在于生成多维心理剖面图（Profile）或风格分类，而非单一标量总分（如 CCTDI 批判性思维倾向清单盘点 7 项心智倾向、PSI 问题解决存表盘点 3 类应对风格、ECI 情绪创造力清单盘点 3 项非认知特征）。
+  - **Questionnaire（问卷）**：核心在于调查事实、经历、行为频次或综合状态（如 NSSE 大学生投入调查、CEQ 课程体验问卷、VNOS 科学本质观问卷）。
+  - **Test（测验）**：最高表现（Maximal Performance），有客观答案或对错、优劣标准（如认知推理、学业成就、思维技能测验）。
+  - **Rubric（量规）**：质性表现评价矩阵，配有阶梯式水平描述符（如 Benchmark、Milestone、Capstone）。
+  - **Checklist（核查表）**：二元（符合/不符合）或三元（是/部分/否）合规性核对表，专用于文献与方法学质评（如 AMSTAR、MMAT、Kmet）。
 - 完整工具中的分量表或子工具使用可选字段 `part_of` 记录所属工具，并使用带引号的 wikilink；所属工具尚未建立 Instrument 时也保留该 wikilink，作为待建条目。
 - `## 工具定位` 使用 `[!instrument-profile]` 四格卡片，固定填写工具类型、开发者与年份、测量目的和实施方式。
 - `开发者与年份` 直接使用工具原始开发来源的 APA 引用。原始来源已有 Argument 时链接该 Argument；尚未处理时保留纯文本 APA。不得用后来使用该工具的文献代替原始开发来源，也不写转引说明。
@@ -392,24 +407,30 @@ Instrument 页记录可以被明确识别、获取和实施的命名量表、问
 
 ### Fact
 
-Fact 页写事件、政策、项目、组织、制度安排或可核查事实。
+Fact 页写政策、事件、组织、项目、制度安排或可核查事实。`subtype` 严格固定为四大类别：`policy`、`event`、`organization`、`program`。
 
 推荐结构按 subtype 调整：
 
-- Event：背景、经过、关键文件或声明、影响、争议、相关条目。
-- Policy：背景、政策文本、实施机制、效果、争议、相关条目。
+- **Policy（政策）**：背景、政策文本摘要、实施机制与路径、效果与评价、争议与反思、相关条目。
+- **Event（事件）**：背景、经过与阶段、关键文件或声明、影响与后果、争议与评论、相关条目。
+- **Organization（机构）**：机构定位与宗旨、成立背景与发展历程、治理与组织架构、核心职能与旗舰产出、影响与评价、相关条目。
+- **Program（项目）**：项目背景与目标、方案设计与资助机制、实施历程与关键产出、成效评估与影响、反思与经验教训、相关条目。
 
 规则：
 
-- `region` 必须尽量具体；全球性事实用 `global`，多国比较用 `multi`。
-- Event 必须有明确时间、地点和主体；Policy 必须说明出台时间、发布主体、适用地区和制度对象。
-- Event 的 `## 背景` 优先使用 `[!event-context]`，交代时间地点、关键主体、制度背景和触发条件。
-- Policy 的 `## 背景` 优先使用 `[!policy-context]`，交代发布时间、发布主体、适用对象、政策问题和制度位置。
-- Policy 的 `## 政策文本摘要` 应用 `[!policy-design]` 区分政策目标、对象、工具和约束方式，并保持 2×2 四格；`## 实施情况` 应区分实施主体、实施路径和反馈调整；`## 效果与评价` 应说明评价指标。
-- 经过、实施和演变类内容按时间顺序排列；简单时间线用 `[!timeline]`，复杂事件用 `[!phase]` 或 `[!dev-timeline]` 分阶段呈现。
-- 影响、效果和评价优先使用 `[!finding-cards]`、`[!stat-cards]` 或 `[!lessons]`。
-- Event 的 `## 争议与评论` 按评论视角和争议焦点组织；不同人或机构的评论可先用 `[!actor-grid]` 区分视角，再用 `[!tension]`、`[!citation-card]-` 或 `[!critique-*]` 展开。
-- 相关概念、政策和理论默认使用 `[!ref-table]` 做一句话关系索引。
+- `region` 必须尽量具体（如 `us`、`china`、`uk`）；全球性事实用 `global`，多国比较用 `multi`。
+- `subtype` 严格限定为 `policy`、`event`、`organization`、`program`，不得使用其他随意标签。
+- Event 必须有明确时间、地点和主体；Policy 必须说明出台时间、发布主体、适用地区和制度对象；Organization 必须说明成立时间、总部地点、组织性质和宗旨；Program 必须说明立项时间、主办/资助机构、实施周期和目标对象。
+- Event 的 `## 背景` 优先使用 `[!event-context]`，交代时间地点、关键主体、制度背景和触发条件，渲染为 2 列卡片网格。
+- Policy 的 `## 背景` 优先使用 `[!policy-context]`；Organization 优先使用 `[!org-context]`；Program 优先使用 `[!program-context]`；Event 优先使用 `[!event-context]`，交代成立/出台时间、发布/发起主体、适用/覆盖对象、问题导向与制度位置，均渲染为 2 列卡片网格。
+- Policy 与 Program 的 `## 方案/文本设计` 应用 `[!policy-design]` 组织四格卡片：Policy 区分 `**政策目标**`、`**适用对象**`、`**政策工具**`、`**约束机制**`；Program 区分 `**项目目标**`、`**覆盖对象**`、`**干预措施**`、`**实施控制**`，严格保持 2×2 网格布局。
+- 无论条目体量大小，“发展历程/推进历程”与“成效评估/影响”均须作为独立章节保持分立，严禁合并，以维护维基库统一的语义分节结构。
+- Organization 的 `## 核心职能` 应列出其代表性产品或产出（如标准规程、数据库平台、旗舰项目、出版物）；`## 治理架构` 应说明决策层、执行层与学术咨询委员会。
+- 经过、实施和演变类内容按时间顺序排列；简单时间线用 `[!timeline]`，复杂事件或阶段用 `[!phase]` 或 `[!dev-timeline]` 分阶段呈现。
+- 影响、成效与评价优先使用 `[!finding-cards]`、`[!stat-cards]` 或 `[!lessons]`。
+- 引用卡片统一采用不折叠语法（`[!citation-card]`），卡片标题直接采用实质性主题或文献全称，杜绝自我说明性标签。
+- 分级弹性规范：大型条目完整呈现治理架构/实施协同、业务矩阵与多维轴向争议；中小型轻量条目可根据材料精简或省略独立的治理协同架构与深度争议轴，但必须完整保留核心定位/背景、方案/文本设计、推进历程、成效评估与相关条目网络五大基石章节。
+- 相关概念、政策和理论默认使用 `[!entry-map]` 做一句话关系索引。
 - 不把理论解释写成事实本身；解释放到对应 Concept / Theory 或 Argument 中。
 
 ### Person

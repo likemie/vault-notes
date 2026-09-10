@@ -9,9 +9,9 @@ title: "Argument_Fredens_2015_Paideia"
 argument_key: "Argument_Fredens_2015_Paideia"
 argument_display_title: "Synlig læring og læringens anatomi [Anmeldelse af bogen af John Hattie og Gregory Yates]"
 argument_kind: "journal-article"
-argument_related_count: 9
+argument_related_count: 10
 argument_related_level: 0
-argument_related_stars: "☆"
+argument_related_stars: ""
 argument_related_color: "#dbeafe"
 journal: Paideia
 citation: "Fredens, K. (2015). Synlig læring og læringens anatomi [Anmeldelse af bogen af John Hattie og Gregory Yates]. Paideia, (9), 70–75."
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Working Memory]]"
 related_theories: []
 related_methods:
+  - "[[Cognitive Task Analysis]]"
   - "[[Meta-analysis]]"
 related_persons:
   - "[[John Hattie]]"
@@ -95,7 +96,7 @@ citation_aliases:
 > - 书评总体正面评价该书，称其"videnskabeligt funderet"（科学根基扎实），并以从实验室到课堂的可及性为最大优势(p.74–75)
 > - 指出书中九个原则被组织为三部分 31 章：课堂中的学习、学习的基础、认识你自己(p.71)
 > - 批评 recitationsmetoden（传统问答法）：学生学会说教师想听的话而非思考，发展出"说老师想听的，让聪明人解决其余"的生存策略
-> - 区分教师激活（aktivere）与促进（facilitere）：促进者在场边观察，激活者则论证、指导和示范(p.73)
+> - 区分教师激活（aktivere）与促进（facilitere）：在[[Cognitive Task Analysis|认知任务分析]]中，促进者在场边观察，激活者则论证、指导和示范(p.73)
 > - 指出该书以认知视角为主，但横跨阅读可发现文化视角——学校是"tilværelsesoplysning"（存在启蒙，引 Løgstrup）(p.74)
 > - 对 Hattie & Yates 声称好教师不能以特定人格类型定义的立场提出质疑，引用 Lambert & Barley (2001) 发现治疗师人格是治疗关系中最重要的因素——比所用方法更重要
 >

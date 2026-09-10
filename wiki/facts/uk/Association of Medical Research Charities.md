@@ -6,14 +6,14 @@ aliases:
   - 医学研究慈善协会
 summary: "英国医学研究与健康慈善机构的国家级行业联合组织，凝聚全英 148 家成员慈善机构，每年在英投入逾 16 亿英镑研发经费并资助逾 25000 名科研人员，深度引领以患者为中心与患者公众全生命周期参与的研究范式"
 type: fact
-subtype: institution
+subtype: organization
 region: uk
 fact_region: "uk"
-fact_kind: "institution"
+fact_kind: "organization"
 fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
-fact_related_color: "#e5e7eb"
+fact_related_color: "#dcfce7"
 issuing_organization: Association of Medical Research Charities
 tags:
   - region/uk

@@ -6,14 +6,14 @@ aliases:
   - Mixed Methods International Research Association (MMIRA)
 summary: "2014 年成立的混合方法研究国际学术组织，随后在多个国家扩展分会、附属团体和区域会议，标志着混合方法研究作为独立方法论在国际层面的制度化"
 type: fact
-subtype: event
+subtype: organization
 region: global
 fact_region: "global"
-fact_kind: "event"
+fact_kind: "organization"
 fact_related_count: 3
 fact_related_level: 0
 fact_related_stars: "☆"
-fact_related_color: "#fef3c7"
+fact_related_color: "#dcfce7"
 tags:
   - mixed-methods
   - research-methodology

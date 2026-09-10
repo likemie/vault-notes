@@ -7,14 +7,14 @@ aliases:
   - 联合国教科文组织国际教育规划研究所
 summary: "UNESCO 于 1963 年在巴黎创立的国际教育规划研究所，首任主任为 Philip Coombs，世界银行和福特基金会为主要捐助方；作为战后国家规划理性与技术官僚体制的核心枢纽，深度卷入冷战地缘软实力博弈与人力资本投资扩张，在 1970 年代规划神话破灭后走向危机反思。"
 type: fact
-subtype: event
+subtype: organization
 region: global
 fact_region: "global"
-fact_kind: "event"
+fact_kind: "organization"
 fact_related_count: 27
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
-fact_related_color: "#fef3c7"
+fact_related_color: "#dcfce7"
 tags:
   - subject/comparative-education
   - theme/development

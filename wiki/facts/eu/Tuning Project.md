@@ -7,14 +7,14 @@ aliases:
   - Tuning Educational Structures in Europe
 summary: "由欧盟委员会支持、欧洲多所顶尖大学自2000年联合发起的博洛尼亚进程关键支撑项目，通过跨国同行协作界定了欧洲高等教育31项通用核心能力以及各学科领域具体能力参考框架。"
 type: fact
-subtype: event
+subtype: program
 region: eu
 fact_region: "eu"
-fact_kind: "event"
+fact_kind: "program"
 fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
-fact_related_color: "#fef3c7"
+fact_related_color: "#ede9fe"
 tags:
   - policy/higher-education
   - region/europe

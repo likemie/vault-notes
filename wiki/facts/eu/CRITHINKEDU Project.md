@@ -6,14 +6,14 @@ aliases:
   - Critical Thinking in Higher Education Curricula
 summary: "欧盟委员会Erasmus+资助的跨国高等教育战略合作项目（2016–2019），联合9个欧洲国家的11所大学，研制出欧洲高等教育批判性思维技能与倾向框架、课程开发指南与教师培训方案。"
 type: fact
-subtype: event
+subtype: program
 region: eu
 fact_region: "eu"
-fact_kind: "event"
+fact_kind: "program"
 fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
-fact_related_color: "#fef3c7"
+fact_related_color: "#ede9fe"
 tags:
   - policy/higher-education
   - region/europe

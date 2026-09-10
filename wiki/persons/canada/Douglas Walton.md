@@ -23,11 +23,11 @@ related_concepts:
   - "[[Classroom Debate]]"
   - "[[Critical Thinking]]"
   - "[[Epistemology]]"
+  - "[[Justificatory Standards]]"
   - "[[Document]]"
 related_theories:
   - "[[Walton's Argumentation Schemes]]"
   - "[[AIR Model of Epistemic Cognition]]"
-  - "[[Luhmann's Systems Theory]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
 related_instruments: []
@@ -104,17 +104,17 @@ updated: 2026-09-10
 ## 历史评价
 
 > [!citation-card] Duncan & Chinn 论沃尔顿理论在科学教育中的遗产
-> 沃尔顿的论证型式体系为科学教育中将论辩分析形式化提供了最系统的现有工具，但其批判性提问清单本身并不说明哪类问题在科学知识建构中具有认识论优先性，亦未提供在分歧时终审证据冲突的裁决依据。[[Argument_Duncan_2025_CI|(Duncan & Chinn, 2025, pp. 223–225)]]
+> 沃尔顿的论证型式体系为科学教育中将论辩分析形式化提供了最系统的现有工具，但其批判性提问清单本身并不说明哪类问题在科学知识建构中具有[[Epistemology|认识论]]优先性，亦未提供在分歧时终审证据冲突的裁决依据。[[Argument_Duncan_2025_CI|(Duncan & Chinn, 2025, pp. 223–225)]]
 >
-> *While Walton's schemes provide the most systematic formalization of argument patterns currently available, the critical questions alone do not specify which epistemic standards govern scientific inquiry or how to adjudicate conflicting evidence.*
+> *While Walton's schemes provide the most systematic formalization of argument patterns currently available, the critical questions alone do not specify which [[Justificatory Standards|epistemic standards]] govern scientific inquiry or how to adjudicate conflicting evidence.*
 
 ---
 
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **合作者** Chris Reed、Fabrizio Macagno — 共同编著 2008 年版 *Argumentation Schemes*，将型式系统扩充至计算论辩学领域。
-> - **批评者** [[Clark A. Chinn|克拉克·钦]]、拉维特·格兰·邓肯 — 在科学论证评价框架建构中系统指出沃尔顿模型的三维局限：缺乏认识论规范来源、无法处理大规模证据统合、缺乏冲突裁决机制。[[Argument_Duncan_2025_CI|(Duncan & Chinn, 2025, pp. 223–225)]]
+> - **合作者** Chris Reed、Fabrizio Macagno — 共同编著 2008 年版 *[[Walton's Argumentation Schemes|Argumentation Schemes]]*，将型式系统扩充至计算论辩学领域。
+> - **批评者** [[Clark A. Chinn|克拉克·钦]]、拉维特·格兰·邓肯 — 在科学论证评价框架建构中系统指出沃尔顿模型的三维局限：缺乏[[Epistemology|认识论]]规范来源、无法处理大规模证据统合、缺乏冲突裁决机制。[[Argument_Duncan_2025_CI|(Duncan & Chinn, 2025, pp. 223–225)]]
 > - **理论继承** 图尔敏（Stephen Toulmin）的非形式论证结构理论是沃尔顿论辩型式体系最直接的思想先驱。
 
 ---
@@ -122,10 +122,10 @@ updated: 2026-09-10
 ## 争议与批评
 
 > [!critique]- 批评索引
-> - [[Argument_Duncan_2025_CI]] — 指出沃尔顿论证型式在科学论证评价中存在三重局限：① 批判性提问清单未提供认识论与因果哲学依据；② 无法处理海量收敛证据的统计合成；③ 在双方分歧时缺乏终审裁决机制。[[Argument_Duncan_2025_CI|(Duncan & Chinn, 2025, pp. 223–225)]]
+> - [[Argument_Duncan_2025_CI]] — 指出[[Walton's Argumentation Schemes|沃尔顿论证型式]]在科学论证评价中存在三重局限：① 批判性提问清单未提供[[Epistemology|认识论]]与因果哲学依据；② 无法处理海量收敛证据的统计合成；③ 在双方分歧时缺乏终审裁决机制。[[Argument_Duncan_2025_CI|(Duncan & Chinn, 2025, pp. 223–225)]]
 
 > [!warning] 未解问题与边界
-> 沃尔顿理论在科学教育的主要边界在于：论证型式描述推理结构，但不规定科学推理中何种证据层级具有认识论优先性。这一空缺促使后继研究者（如 Duncan & Chinn）转向将[[AIR Model of Epistemic Cognition|AIR 认识论模型]]与批判性提问清单系统整合的方向。
+> 沃尔顿理论在科学教育的主要边界在于：论证型式描述推理结构，但不规定科学推理中何种证据层级具有认识论优先性。这一空缺促使后继研究者（如 Duncan & Chinn）转向将[[AIR Model of Epistemic Cognition|AIR]] 认识论模型与批判性提问清单系统整合的方向。
 
 ---
 

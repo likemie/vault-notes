@@ -19,6 +19,7 @@ related_concepts:
   - "[[Epistemic Cognition]]"
   - "[[Predictive Validity]]"
   - "[[Epistemic Aims]]"
+  - "[[Reliable Epistemic Processes]]"
   - "[[Epistemological Naturalism]]"
   - "[[Causal Processes]]"
   - "[[Reliability]]"
@@ -62,7 +63,7 @@ title: "Argument_Chinn_2011_EP"
 argument_key: "Argument_Chinn_2011_EP"
 argument_display_title: "Expanding the Dimensions of Epistemic Cognition: Arguments From Philosophy and Psychology"
 argument_kind: "journal-article"
-argument_related_count: 30
+argument_related_count: 31
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -82,7 +83,7 @@ issuing_organization: ""
 > 心理学中现有的[[Epistemology|认识论]]认知（[[Epistemic Cognition]]）模型在预测学习过程和结果时，常表现出较低的[[Predictive Validity|预测效度]]（predictive validity）。如何基于当代哲学[[Epistemology|认识论]]（epistemology）视角，系统证明现有模型遗漏的关键维度，并论证引入细粒度（fine-grained）和情境敏感（context-specific）的新维度能显著提高理论的解释力与预测力？
 
 > [!claim] 核心主张
-> 现有的多维认识论认知模型过于宽泛且存在遗漏。基于当代哲学的合法性辩护以及教育心理学的效用辩护，确立一个包含五个组件的扩展网络：[[Epistemic Aims|认识目标]]（epistemic aims）与价值、知识结构、来源与确证与立场、美德与恶习、可靠过程。
+> 现有的多维认识论认知模型过于宽泛且存在遗漏。基于当代哲学的合法性辩护以及教育心理学的效用辩护，确立一个包含五个组件的扩展网络：[[Epistemic Aims|认识目标]]（epistemic aims）与价值、知识结构、来源与确证与立场、美德与恶习、[[Reliable Epistemic Processes|可靠过程]]。
 
 > [!concept-lens] 阅读透镜
 > - **论证策略** 每项新组件的引入均遵循双重辩护逻辑。第一步为哲学辩护（philosophical warrant），证明该主题在当代哲学认识论中不可或缺；第二步为心理学效用辩护（psychological utility），通过具体教育场景证明引入该组件能解释以往模型无法解释的学习行为差异。
@@ -256,7 +257,7 @@ issuing_organization: ""
 > - **从主观理由到客观因果（from reasons to causal processes）**
 >   Goldman (1986) 提出，信念是否得到确证完全取决于产生该信念的客观因果过程本身是否具有高可靠性。
 > - **因果过程的多样性（diversity of processes）**
->   Dretske (2000) 阐明可靠过程涵盖从底层的知觉过程到群体层面的互动机制再到科学共同体的实验程序。
+>   Dretske (2000) 阐明[[Reliable Epistemic Processes|可靠过程]]涵盖从底层的知觉过程到群体层面的互动机制再到科学共同体的实验程序。
 > - **过程生效的严苛条件（conditions for reliability）**
 >   可靠主义要求评估认知实践时精准识别该过程在何种具体前提下生效。群体讨论只有在充分展示异见的前提下才构成产生知识的可靠过程。
 

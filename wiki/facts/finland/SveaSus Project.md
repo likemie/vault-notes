@@ -4,14 +4,14 @@ aliases:
   - SveaSus项目
 summary: "赫尔辛基大学 2018–2023 年现象本位学习项目，以 Suomenlinna 世界遗产地为学习环境探索可持续性、具身、艺术本位和多语学习"
 type: fact
-subtype: event
+subtype: program
 region: finland
 fact_region: "finland"
-fact_kind: "event"
+fact_kind: "program"
 fact_related_count: 16
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
-fact_related_color: "#fef3c7"
+fact_related_color: "#ede9fe"
 tags:
   - phenomenon-based-learning
   - sustainability

@@ -6,14 +6,14 @@ aliases:
   - 大西洋学院学院课程
 summary: "大西洋学院1962年形成的高中课程方案，以三门英国A-level保障大学申请，并用跨语言、社会研究、科学与艺术的辅助学院课程及共同服务维持国际教育广度，成为IB课程结构的直接前史。"
 type: fact
-subtype: programme
+subtype: program
 region: uk
 fact_region: "uk"
-fact_kind: "programme"
+fact_kind: "program"
 fact_related_count: 9
 fact_related_level: 1
 fact_related_stars: "⭐"
-fact_related_color: "#e5e7eb"
+fact_related_color: "#ede9fe"
 tags:
   - region/uk
   - theme/curriculum

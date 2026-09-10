@@ -8,7 +8,6 @@ aliases:
   - "剪补技术"
 summary: "由 Sue Duval 与 Richard Tweedie（2000）开发的一种用于检测和校正元分析中因发表偏倚导致漏斗图不对称的非参数统计方法。通过迭代剪除极端小样本研究以估计对称中心，随后对称填补虚拟研究并重新估计真实效应量与置信区间。"
 type: method
-domain: "research-methodology"
 method_type: quantitative
 method_family: "quantitative"
 method_related_count: 23
@@ -25,9 +24,7 @@ related_concepts:
   - "[[Small Study Effects]]"
   - "[[Hypothesis]]"
   - "[[Funnel Plot]]"
-  - "[[Effect Size]]"
   - "[[Confidence Interval]]"
-  - "[[Standard Error]]"
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Sampling Error]]"
@@ -39,6 +36,8 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
+  - "[[Standard Error]]"
   - "[[Meta-meta-analysis]]"
   - "[[Fail-Safe N]]"
   - "[[Multilevel Egger's Test]]"
@@ -53,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-09-11
 ---
 
 # Trim and Fill Method

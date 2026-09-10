@@ -6,14 +6,14 @@ aliases:
   - Measuring and Comparing Achievements of Learning Outcomes in European Higher Education
 summary: "由欧盟委员会资助、Tuning协会协调的跨国高等教育评价工程，在土木工程、教师教育、历史、护理和物理五大专业研制出评价参照框架，开创性地将批判性思维与创造力转化为学科化预期成果与真实性表现任务。"
 type: fact
-subtype: event
+subtype: program
 region: eu
 fact_region: "eu"
-fact_kind: "event"
+fact_kind: "program"
 fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
-fact_related_color: "#fef3c7"
+fact_related_color: "#ede9fe"
 tags:
   - policy/higher-education
   - region/europe

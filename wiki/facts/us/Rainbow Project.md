@@ -6,14 +6,14 @@ aliases:
   - Sternberg Rainbow Project
 summary: "由斯腾伯格主导、大学理事会资助的高校招生选拔创新试验项目（2006），在传统SAT考试基础上增加创造力与实践能力情境测验，将大学学业预测效度提升一倍并显著减少族裔录取偏误。"
 type: fact
-subtype: event
+subtype: program
 region: us
 fact_region: "us"
-fact_kind: "event"
+fact_kind: "program"
 fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
-fact_related_color: "#fef3c7"
+fact_related_color: "#ede9fe"
 tags:
   - policy/admission-assessment
   - region/us

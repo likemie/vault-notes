@@ -26,12 +26,12 @@ related_concepts:
   - "[[Construct]]"
   - "[[Domain Specificity]]"
   - "[[Measurement Alignment]]"
-  - "[[Effect Size]]"
   - "[[Examination-Oriented Education]]"
   - "[[Document]]"
   - "[[Sampling Error]]"
   - "[[Epistemological Beliefs]]"
   - "[[Epistemic Aims]]"
+  - "[[Reliable Epistemic Processes]]"
   - "[[Constructivist Paradigm]]"
   - "[[Surface and Deep Learning]]"
   - "[[Academic Achievement]]"
@@ -47,12 +47,9 @@ related_concepts:
   - "[[Sample Size Determination]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
-  - "[[Standard Error]]"
   - "[[Type I and Type II Errors]]"
   - "[[Heterogeneity]]"
   - "[[Flow]]"
-  - "[[Statistical Significance]]"
-  - "[[Between-Study Variance]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Academic Engagement]]"
   - "[[Interaction Effect]]"
@@ -74,9 +71,13 @@ related_theories:
   - "[[Situative Perspective]]"
 related_methods:
   - "[[PRISMA]]"
+  - "[[Effect Size]]"
   - "[[Three-Level Meta-Analysis]]"
   - "[[Meta-analysis]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Standard Error]]"
+  - "[[Statistical Significance]]"
+  - "[[Between-Study Variance]]"
   - "[[Moderator Analysis]]"
   - "[[Experimental Research]]"
 related_instruments: []
@@ -100,7 +101,7 @@ title: "Argument_Song_Choi_2026_FPSYG"
 argument_key: "Argument_Song_Choi_2026_FPSYG"
 argument_display_title: "A three-level meta-analysis of the association between students’ epistemic cognition and learning outcomes in South Korea"
 argument_kind: "journal-article"
-argument_related_count: 62
+argument_related_count: 63
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -135,7 +136,7 @@ issuing_organization: ""
 > - **多维[[Epistemological Beliefs|认识论信念]]模型 (Multidimensional Models)**
 >   发端于 Schommer (1990)。打破单向线性发展阶段论，提出[[Epistemology|认识论]]是由确定性、简单性、来源、学习速度与学习能力五个相对独立的信念维度构成的系统，允许不同[[Construct|构念]]异步演进。
 > - **知识与认识性质重构框架 (Nature of Knowledge & Knowing)**
->   发端于 Hofer & Pintrich (1997)。将核心认识论认知划分为**知识本质**（确定性、简单性）与**认识本质**（来源、确证），并将学习本质（速度、能力）划为外围构念；[[Argument_Chinn_2011_EP|Chinn et al. (2011)]] 进一步扩展至[[Epistemic Aims|认识目标]]、理想与可靠过程。
+>   发端于 Hofer & Pintrich (1997)。将核心认识论认知划分为**知识本质**（确定性、简单性）与**认识本质**（来源、确证），并将学习本质（速度、能力）划为外围构念；[[Argument_Chinn_2011_EP|Chinn et al. (2011)]] 进一步扩展至[[Epistemic Aims|认识目标]]、理想与[[Reliable Epistemic Processes|可靠过程]]。
 > - **文化情境与[[Constructivist Paradigm|建构主义]]学习观 (Situative & Cultural Perspectives)**
 >   受[[Situative Perspective|情境认知]]启发（Bang & Medin, 2010）。主张认识论认知并非脱域特质，而是社会文化与课堂生态互动的产物；建构主义教学情境激活成熟认知，而机械应试情境则会压制其效能转化。
 > - **认知与动机行为中介模型 (Cognitive-Motivational Models)**

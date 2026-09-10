@@ -5,14 +5,14 @@ aliases:
   - 教师教育认证委员会
 summary: "1984年英国保守党政府设立的教师教育认证机制，将教师教育从学科基础转向课堂技能和能力导向的教师训练。"
 type: fact
-subtype: policy
+subtype: organization
 region: uk
 fact_region: "uk"
-fact_kind: "policy"
+fact_kind: "organization"
 fact_related_count: 3
 fact_related_level: 0
 fact_related_stars: "☆"
-fact_related_color: "#dbeafe"
+fact_related_color: "#dcfce7"
 issuing_organization: Conservative government
 tags:
   - region/uk

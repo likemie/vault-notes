@@ -7,13 +7,13 @@ aliases:
   - 国际早期学习和儿童福祉研究
 summary: "OECD 发起的国际早期学习和儿童福祉研究，旨在以 PISA 评估 15 岁学生的方式评估 5 岁儿童，是 PISA 企业向学前教育扩张的标志"
 type: fact
-subtype: event
+subtype: program
 fact_region: "global"
-fact_kind: "event"
+fact_kind: "program"
 fact_related_count: 3
 fact_related_level: 0
 fact_related_stars: "☆"
-fact_related_color: "#fef3c7"
+fact_related_color: "#ede9fe"
 tags:
   - region/global
   - level/preschool

@@ -5,14 +5,14 @@ aliases:
   - "爱尔兰合成与固态制药中心"
 summary: "爱尔兰政府资助的制药产学合作网络，由一位学术关键行动者发起，从 5 所大学和产业伙伴扩展至 8 所学术机构和 10 家跨国企业，经历胚胎期、启动期、参与期和确立期四个演化阶段，已成为全球制药研发卓越中心"
 type: fact
-subtype: event
+subtype: organization
 region: ireland
 fact_region: "ireland"
-fact_kind: "event"
+fact_kind: "organization"
 fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
-fact_related_color: "#fef3c7"
+fact_related_color: "#dcfce7"
 tags:
   - region/ireland
   - theme/university-industry-collaboration

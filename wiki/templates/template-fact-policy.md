@@ -40,12 +40,12 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > 用一两句话说明政策目标、适用对象、约束方式和制度工具，附 Argument citation。
 
 > [!policy-design]- 政策设计
-> - **目标** 政策试图改变什么问题或行为。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-> - **对象** 谁被要求行动、谁被服务、谁被评价。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-> - **工具** 经费、评价、问责、课程、准入、培训、数据系统或其他工具。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-> - **约束方式** 强制、激励、指导、试点、标准化或市场化机制。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **政策目标** 政策试图改变什么问题、规范什么行为或达成何种预期成效。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **适用对象** 谁被要求行动、谁被规范、谁被服务或谁被评价。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **政策工具** 专项经费、准入资质、课程标准、人员编制、培训平台或其他治理工具。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **约束机制** 强制法定义务、绩效问责、激励规约、试点竞争或督导评估机制。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
-> [!citation-card]- 关键条文
+> [!citation-card] 关键条文
 > 中文译文或中文原文。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 >
 > *Original text or English translation.*
@@ -150,7 +150,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > >
 > > - **<学者/机构名>（Year）** 一句话立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
-> [!citation-card]- 代表性评论
+> [!citation-card] 代表性评论
 > 中文译文或中文原文。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 >
 > *Original text or English translation.*

@@ -7,14 +7,14 @@ aliases:
   - CES
 summary: "1956 年在美国创立的专业学术组织，原名比较教育学会（CES），1969 年正式更名为比较与国际教育学会（CIES）。学会的建制与更名进程折射了二战后结构功能主义社会学对美国比较教育认识型的塑造，以及向第三世界技术援助和多边规训整合的发展转向，是全球规模最大、最具建制影响力的比较教育学术共同体。"
 type: fact
-subtype: event
+subtype: organization
 region: us
 fact_region: "us"
-fact_kind: "event"
+fact_kind: "organization"
 fact_related_count: 29
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
-fact_related_color: "#fef3c7"
+fact_related_color: "#dcfce7"
 tags:
   - subject/comparative-education
   - theme/development
@@ -31,7 +31,6 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Development Turn in Comparative Education]]"
   - "[[Scientism]]"
-  - "[[Governing at a Distance]]"
   - "[[Document]]"
   - "[[Comparative History of Comparative Education]]"
   - "[[Blue Skies Research]]"
@@ -41,6 +40,7 @@ related_concepts:
 related_theories:
   - "[[Critical Theory]]"
   - "[[Dependency Theory]]"
+  - "[[Governing at a Distance]]"
 related_methods: []
 related_persons:
   - "[[George Bereday]]"

@@ -6,14 +6,14 @@ aliases:
   - Creating Responsive, Engaging and Active Tertiary Education with Students
 summary: "欧盟委员会Erasmus+战略合作伙伴关系资助的跨国教改项目（2017–2020），由6所欧洲顶尖文理学院联合研制成套工具包，通过自主学习、共创式考核量规与同伴互评培养学生的批判性与创造性思维。"
 type: fact
-subtype: event
+subtype: program
 region: eu
 fact_region: "eu"
-fact_kind: "event"
+fact_kind: "program"
 fact_related_count: 9
 fact_related_level: 1
 fact_related_stars: "⭐"
-fact_related_color: "#fef3c7"
+fact_related_color: "#ede9fe"
 tags:
   - policy/higher-education
   - region/europe

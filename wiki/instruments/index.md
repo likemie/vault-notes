@@ -4,54 +4,54 @@
 
 Total entries: **58**
 
-> [!index-list]- Interviews (2)
+> [!index-list]- Checklists (3)
+> - [[AMSTAR]] — 用于评估系统评价与元分析方法学质量的批判性评价规程，包含12项标准与高质量阈值判定
+> - [[Kmet Quality Assessment Checklist]] — 用于系统评价和元分析中评估初级定量与质性实证研究内部效度与方法学质量的 14 项标准化核查清单
+> - [[Mixed Methods Appraisal Tool]] — 用于系统综述中评估定性、定量与混合方法研究设计的方法学质量的标准化核查清单，每个设计类型各 5 条标准并配 2 条通用筛选问题
+
+> [!index-list]- Interview Tools (2)
 > - [[6-Item TOK Focus Group Protocol]] — 用于收集国际文凭知识论课程教师对课程目的、挑战、努力程度和教学影响等看法的六题半结构化焦点小组协议
 > - [[ToK Interview and Focus Group Protocol]] — Cole et al. (2015) 开发的半结构化访谈与焦点小组工具，用于收集教师、学生和行政人员对 ToK 课程和批判性思维教学的看法
 
-> [!index-list]- Inventories (2)
+> [!index-list]- Inventories (3)
 > - [[California Critical Thinking Disposition Inventory]] — 通过七个维度测量个体将批判性思维作为自然思维习惯加以运用的倾向
+> - [[Emotional Creativity Inventory]] — 由阿维里尔编制的30题自陈量表，从准备性、新颖性与有效性/真实性三个维度，系统测定个体在情绪体验、表达与调节中的独特非认知创造潜能。
 > - [[Problem Solving Inventory]] — 由赫普纳与彼得森编制的35题自陈量表，从问题解决信心、趋近-回避风格与个人控制感三个维度，系统测定个体在面对复杂问题时的自我评价与认知应对风格。
 
-> [!index-list]- Observations (2)
+> [!index-list]- Observation Tools (2)
 > - [[Flanders Interaction Analysis Categories]] — Flanders 开发的经典课堂言语互动系统化观察工具，采用 3 秒时间取样将课堂言语行为划分为 10 类，通过矩阵分析评估课堂结构与师生互动模式，亦成为反思实证量化编码忽视情境索引性的经典范例。
 > - [[ToK Classroom Observation Protocol]] — Cole et al. (2015) 开发的半结构化课堂观察工具，用于记录 ToK 课堂中的批判性思维教学实践
 
-> [!index-list]- Questionnaire (6)
+> [!index-list]- Questionnaires (8)
+> - [[Concurrency of Learning in the Core Questionnaire]] — 测量国际文凭大学预科项目（IBDP）核心组件（TOK、CAS、EE）并发学习状态与跨组件连贯性的自陈式问卷，包含 17 道李克特量表题及 3 道简答题。
 > - [[Course Experience Questionnaire]] — 由保罗·拉姆斯登（Paul Ramsden）开创、澳大利亚教育研究委员会（ACER）与澳大利亚政府标准化的全国性大学毕业生调查工具，包含优良教学、通用技能及适度工作量等核心分量表。
 > - [[Creative Achievement Questionnaire]] — 由卡森等人于 2003 年开发的自陈式客观创造性成果评估工具，涵盖视觉艺术、音乐、文学、发明等 10 大领域的终身创造性成就与社会公认标志。
 > - [[Epistemic and Ontological Cognition Questionnaire]] — 用于测量学生认识论和本体论认知（EOC）的多维问卷，区分简单与确定知识、权威辩护、个人辩护三个维度，并针对数学和历史学科提供平行题目。
 > - [[Epistemological Understanding Assessment]] — 由 Deanna Kuhn 及其团队（2000）开发的一套包含 15 个题项的评估工具，用于测量个体在五个不同判断领域（个人品味、审美、价值观、社会事实、物理事实）中的认识论发展阶段（绝对论、多元论、评价论）。
 > - [[National Survey of Student Engagement]] — 由乔治·库（George Kuh）领衔、印第安纳大学高等教育研究中心常态化运营的全美标志性大学生体验调查，涵盖高级学习、反思性与整合性学习等核心分量表，是全球数十个国家学生投入调查的直接蓝本。
 > - [[Schommer's Modified Epistemological Questionnaire]] — 由 Schommer 针对中学生群体修订的认识论信念自陈问卷，用于评估个体在能力本质、学习速度、知识结构与知识确定性等维度的认识论信念特征。
+> - [[Views of Nature of Science Questionnaire]] — 由 Lederman 等人开发的用于评估学生对科学本质（NOS）七个核心维度理解水平的开放式问卷工具，通常结合访谈使用。
 
-> [!index-list]- Rubric (9)
-> - [[AMSTAR]] — 用于评估系统评价与元分析方法学质量的批判性评价规程，包含12项标准与高质量阈值判定
+> [!index-list]- Rubrics (6)
 > - [[CALOHEE Assessment Reference Frameworks]] — 由欧盟委员会与Tuning学院研制的欧洲高等教育多维评价量规与参照框架体系，覆盖土木工程、教师教育、历史、护理和物理五大专业，将都柏林描述符解构为可测量的批判性思维与创造力学科化表现矩阵。
 > - [[Consensual Assessment Technique]] — 由阿马比尔提出的创造性产品评估黄金标准，要求多位领域专家基于各自内隐经验独立对真实创造产物的新颖性与适切性进行相对评定
 > - [[GROOVE]] — 用于伞状综述与二阶元分析中量化、探索与可视化初级研究重叠的图形表征工具，基于校正覆盖面积（CCA）矩阵生成结构化热力图与成对重叠诊断
-> - [[Kmet Quality Assessment Checklist]] — 用于系统评价和元分析中评估初级定量与质性实证研究内部效度与方法学质量的 14 项标准化核查清单
-> - [[Mixed Methods Appraisal Tool]] — 用于系统综述中评估定性、定量与混合方法研究设计的方法学质量的标准化核查清单，每个设计类型各 5 条标准并配 2 条通用筛选问题
 > - [[Model-Evidence-Link Matrix]] — 一种用于科学教育中支持学生协调相互竞争的科学模型与经验证据的认知脚手架工具，引导学生评估证据对模型的支持、矛盾或无关关联。
 > - [[OECD Rubrics for Creativity and Critical Thinking]] — 由OECD教育研究与创新中心（CERI）研发的通用高阶思维评价量规，构建了贯穿探究、想象、实作与反思四大维度的2x4认知表现矩阵，为教师在跨学科课堂中培养与评估创造力与批判性思维提供操作化支架。
 > - [[VALUE Rubrics]] — 由美国大学与学院协会组织数百名学者研发的16套通识学习成果评价量规，涵盖批判性思维与创造性思维等高阶认知素养的阶梯式表现标准
 
-> [!index-list]- Scale (2)
-> - [[Runco Ideational Behavior Scale]] — 由马克·伦科等于 2001 年开发并广泛应用的自陈式创造潜能量表，用于评估个体在日常生活中产生、探索与运用新颖想法的频次与行为倾向。
-> - [[Torrance Tests of Creative Thinking]] — 由托兰斯开发的经典标准化发散思维测验，包含言语和图形两套形式，从流畅性、灵活性、独创性与精致性四个核心维度评估个体创造潜能。
-
-> [!index-list]- Scales (10)
+> [!index-list]- Scales (9)
 > - [[Academic Self-Concept General Scale]] — 用于测量大学生一般学术自我概念并可作为学业成果代理指标的十题自陈量表
 > - [[Computational Thinking Scale]] — 用于量化评估学生计算思维能力的 29 题自陈量表，涵盖创造力、算法思维、协作性、批判性思维与问题解决五大认知维度
-> - [[Concurrency of Learning in the Core Questionnaire]] — 测量国际文凭大学预科项目（IBDP）核心组件（TOK、CAS、EE）并发学习状态与跨组件连贯性的自陈式问卷，包含 17 道李克特量表题及 3 道简答题。
 > - [[Confidence Teaching TOK Scale]] — 测量教师在知识论（TOK）课程中教学信心的 11 题项李克特量表，主要关注教师在探索各类知识问题（如伦理学、本土知识系统等）时的自我效能感。
 > - [[Critical Thinking Strategies Scale]] — 用于测量学生自报使用批判性思维策略可能性的十四题单维量表
-> - [[Emotional Creativity Inventory]] — 由阿维里尔编制的30题自陈量表，从准备性、新颖性与有效性/真实性三个维度，系统测定个体在情绪体验、表达与调节中的独特非认知创造潜能。
 > - [[Global Certainty Scale]] — 用于测量个体对科学知识确定性与绝对真理假设的七题自陈量表，涵盖可证伪性与绝对真理两大取向，广泛应用于中学到大学过渡期的认识论信念追踪
 > - [[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale]] — 学习动机策略问卷中用于测量学生自报批判性思维策略使用的五题分量表
 > - [[Originality Scale of Visual Metaphors]] — 由安东涅蒂等开发的视觉创造力表现评定量表，通过要求被试对抽象概念绘制具象视觉隐喻插图，从新颖独创性、隐喻适切深度与图形表现力三个维度系统测定视觉创造力与顿悟表征能力。
 > - [[Research Literacy Scale for Teachers]] — 基于计划行为理论与研究利用模型开发的20题5级李克特自陈量表，涵盖研究意识、研究态度、研究技能与研究使用四个维度，具备良好的二阶因子结构与跨性别严格测量等值性。
+> - [[Runco Ideational Behavior Scale]] — 由马克·伦科等于 2001 年开发并广泛应用的自陈式创造潜能量表，用于评估个体在日常生活中产生、探索与运用新颖想法的频次与行为倾向。
 
-> [!index-list]- Tests (24)
+> [!index-list]- Tests (25)
 > - [[Abbreviated Torrance Test for Adults]] — 托兰斯创造性思维测验的成人标准化精简版本，包含1项言语活动与2项图形活动，用于在高等教育与组织情境中快速测定成人的发散思维潜能与多维创造力表现指标。
 > - [[Alternate Uses Test]] — 由 J. P. Guilford 于 1967 年开发的经典发散思维与创造力认知测评工具，要求被试在限定时间内为日常物品提出非常规、新颖且实用的用途，从流畅性、灵活性、原创性与精致性四个维度量化发散认知潜能。
 > - [[BioMedical Admissions Test]] — 由剑桥大学考评部研发的高利害医学与生物医学本科入学选拔考试，其第一模块思维技能通过32道情境题系统测度问题解决与批判性思维。
@@ -75,7 +75,5 @@ Total entries: **58**
 > - [[Test for Creative Thinking-Drawing Production]] — 由乌尔班与耶伦开发的高信度非言语创造力测验，通过6个给定的不规则图形碎片诱发被试的整体性图画创作，从14个维度综合评估个体的图形创造力与构想突破能力。
 > - [[Test of Teaching Knowledge]] — 由美国州立学校首席官员理事会（CCSSO/InTASC）与ETS合作开发的新型标准化教师专业素养测验，通过建构反应型表现任务评估教师在教学策略、教育理论与培养学生批判思维及创造力方面的核心胜任力。
 > - [[Thinking Skills Assessment]] — 由剑桥大学考评部研发的高利害大学本科入学能力测验，被牛津大学、剑桥大学及UCL广泛采用，包含50道问题解决与批判性思维客观题及1篇限时议论小论文。
+> - [[Torrance Tests of Creative Thinking]] — 由托兰斯开发的经典标准化发散思维测验，包含言语和图形两套形式，从流畅性、灵活性、独创性与精致性四个核心维度评估个体创造潜能。
 > - [[Watson-Glaser Critical Thinking Appraisal]] — 用于测量个体批判性思维认知能力维度的经典标准化测试工具，包含推论、假设识别、演绎、解释与论点评价五个核心分测验。
-
-> [!index-list]- Views of nature of science questionnaire.md (1)
-> - [[Views of Nature of Science Questionnaire]] — 由 Lederman 等人开发的用于评估学生对科学本质（NOS）七个核心维度理解水平的开放式问卷工具，通常结合访谈使用。

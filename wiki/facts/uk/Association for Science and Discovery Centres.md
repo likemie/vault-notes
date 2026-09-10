@@ -6,14 +6,14 @@ aliases:
   - Association for Science and Discovery Centres (ASDC)
 summary: "英国国家级科学中心、探索馆与科技博物馆行业组织，代表全英60多所主要科技场馆与科学旅游景点，每年服务公众逾2500万人次（含1000万青少年），是推动非正式科学参与、包容性改革、财税平权与国家政策倡导的核心中枢。"
 type: fact
-subtype: policy
+subtype: organization
 region: uk
 fact_region: "uk"
-fact_kind: "policy"
+fact_kind: "organization"
 fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
-fact_related_color: "#dbeafe"
+fact_related_color: "#dcfce7"
 issuing_organization: Association for Science and Discovery Centres
 tags:
   - region/uk

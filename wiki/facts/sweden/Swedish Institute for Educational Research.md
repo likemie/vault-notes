@@ -5,14 +5,14 @@ aliases:
   - Skolforskningsinstitutet
 summary: "2015年建立的瑞典教育研究机构，通过教育研究系统综述、结果传播和研究资助连接学校实践需求与证据生产。"
 type: fact
-subtype: policy
+subtype: organization
 region: sweden
 fact_region: "sweden"
-fact_kind: "policy"
+fact_kind: "organization"
 fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: ""
-fact_related_color: "#dbeafe"
+fact_related_color: "#dcfce7"
 issuing_organization: Swedish Institute for Educational Research
 tags:
   - region/sweden

@@ -5,14 +5,14 @@ aliases:
   - "费城大学城科学中心"
 summary: "费城的非营利产学合作组织，通过项目设计激励创业者关系发展并提供培训和资源，聚焦费城本地相对优势，后建立实体空间进一步集聚创业者、学者和产业伙伴"
 type: fact
-subtype: event
+subtype: organization
 region: us
 fact_region: "us"
-fact_kind: "event"
+fact_kind: "organization"
 fact_related_count: 4
 fact_related_level: 0
 fact_related_stars: "☆"
-fact_related_color: "#fef3c7"
+fact_related_color: "#dcfce7"
 tags:
   - "region/us"
   - "level/higher-education"

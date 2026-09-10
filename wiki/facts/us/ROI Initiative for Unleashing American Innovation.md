@@ -3,14 +3,14 @@ title: ROI Initiative for Unleashing American Innovation
 aliases: ["ROI Initiative", "美国释放创新倡议"]
 summary: "美国国家标准与技术研究所（NIST）代表商务部主导的联邦技术转移优化倡议，属 Lab-to-Market CAP 目标，致力于最大化联邦科技投资的价值转化，涵盖五大核心改进领域"
 type: fact
-subtype: policy
+subtype: program
 region: us
 fact_region: "us"
-fact_kind: "policy"
+fact_kind: "program"
 fact_related_count: 4
 fact_related_level: 0
 fact_related_stars: "☆"
-fact_related_color: "#dbeafe"
+fact_related_color: "#ede9fe"
 issuing_organization: "National Institute of Standards and Technology (NIST), U.S. Department of Commerce"
 tags:
   - region/us

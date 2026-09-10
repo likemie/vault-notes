@@ -5,14 +5,14 @@ aliases:
   - International Association for the Evaluation of Educational Achievement
 summary: "1958 年筹划、1960 年代正式成立的国际学术非政府组织，开创了跨国大规模量化学业成就比较研究（TIMSS、PIRLS 等），在冷战时期与战后教育治理中充当实证量化范式与政策合法化借口的核心制度依托"
 type: fact
-subtype: event
+subtype: organization
 region: global
 fact_region: "global"
-fact_kind: "event"
+fact_kind: "organization"
 fact_related_count: 28
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
-fact_related_color: "#fef3c7"
+fact_related_color: "#dcfce7"
 tags:
   - theme/international-organizations
   - theme/comparative-methodology
@@ -32,12 +32,12 @@ related_concepts:
   - "[[Sampling Frame]]"
   - "[[Empiricism]]"
   - "[[Knowledge-Based Economy]]"
-  - "[[Governing at a Distance]]"
   - "[[Positivism]]"
   - "[[Variable]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Item Response Theory]]"
+  - "[[Governing at a Distance]]"
 related_methods:
   - "[[Trend Study]]"
 related_instruments: []

@@ -4,14 +4,14 @@ aliases:
   - ISSPP项目
 summary: "Christopher Day 领导、自 2002 年起 20+ 国参与的国际成功学校校长项目，最全面的跨国学校领导力案例研究，Møller 以亲历者立场提出方法论反思"
 type: fact
-subtype: event
+subtype: program
 region: global
 fact_region: "global"
-fact_kind: "event"
+fact_kind: "program"
 fact_related_count: 8
 fact_related_level: 1
 fact_related_stars: "⭐"
-fact_related_color: "#fef3c7"
+fact_related_color: "#ede9fe"
 tags:
 - school-leadership
 - region/global

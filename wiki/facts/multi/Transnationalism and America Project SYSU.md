@@ -5,14 +5,14 @@ aliases:
   - SYSU Transnationalism and America
 summary: "岭南基金会资助、中山大学实施的三年跨学科团队教学项目，以美方+中方教师团队教授全球化时代的美国文化，英语为主，产生三类障碍"
 type: fact
-subtype: event
+subtype: program
 region: multi
 fact_region: "multi"
-fact_kind: "event"
+fact_kind: "program"
 fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
-fact_related_color: "#fef3c7"
+fact_related_color: "#ede9fe"
 tags:
 - region/china
 - region/us

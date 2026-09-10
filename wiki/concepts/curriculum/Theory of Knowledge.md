@@ -8,7 +8,7 @@ aliases:
 summary: "IB 文凭项目的跨学科核心必修课程，通过比较知识形成方式、证据标准与认识边界，连接学科学习、个人经验和批判性反思。"
 type: concept
 domain: "curriculum"
-related_count: 70
+related_count: 69
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -51,7 +51,6 @@ related_concepts:
   - "[[Active Learning]]"
   - "[[Banking Model of Education]]"
   - "[[Variable]]"
-  - "[[Effect Size]]"
   - "[[Attrition]]"
   - "[[Falsification]]"
   - "[[Paradigm]]"
@@ -59,10 +58,10 @@ related_concepts:
   - "[[Teacher Professional Agency]]"
   - "[[Praxis]]"
   - "[[Concurrency of Learning]]"
-  - "[[Creativity, Action, Service]]"
 related_theories:
   - "[[Pragma-Dialectics]]"
 related_methods:
+  - "[[Effect Size]]"
   - "[[Convenience Sampling]]"
   - "[[Case Study]]"
   - "[[Mixed Methods Research]]"
@@ -97,7 +96,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-06-30
-updated: 2026-09-03
+updated: 2026-09-10
 ---
 
 # Theory of Knowledge
@@ -510,4 +509,4 @@ updated: 2026-09-03
 > - **学校实施与批判性思维表现** 以[[Mixed Methods Research|混合方法]]检验澳大利亚学校的 TOK 实施与批判性思维表现。[[Argument_Cole_2015_AJE|Cole et al. (2015)]]
 > - **评估与科学教育议程** 分析 TOK 评估、教科书和科学教育议程之间的结构性冲突。[[Argument_Zemplen_2007_SciEduc|Zemplén (2007)]]
 > - **[[Teacher Beliefs|教师信念]]与实施挑战** 以混合方法考察 TOK 课程如何重塑教师信念，以及在评估与时间管理上面临的系统性阻力。[[Argument_Bergeron_2019_JRIE|Bergeron & Rogers (2019)]]
-> - **核心课程的[[Concurrency of Learning|并发学习]]策略** 以混合方法探讨 TOK 与 [[Creativity, Action, Service|CAS]]、EE 之间的跨组件连贯性及实践挑战。[[Argument_Metli_2022_IJER|Metli & Akış (2022)]]
+> - **核心课程的[[Concurrency of Learning|并发学习]]策略** 以混合方法探讨 TOK 与 CAS、EE 之间的跨组件连贯性及实践挑战。[[Argument_Metli_2022_IJER|Metli & Akış (2022)]]

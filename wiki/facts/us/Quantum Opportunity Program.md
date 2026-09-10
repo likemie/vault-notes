@@ -8,14 +8,14 @@ aliases:
   - EQOP
 summary: "福特基金会与OICA创立的高中四年贯穿式防辍学与青年发展综合干预模式，在Wadhwa et al. (2024)中作为版本世代迭代（原始QOP vs EQOP）、文献可得性（同行评审vs灰色报告）及规模化效应衰减引发清算中心评级分歧的经典案例。"
 type: fact
-subtype: event
+subtype: program
 region: us
 fact_region: "us"
-fact_kind: "event"
+fact_kind: "program"
 fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
-fact_related_color: "#fef3c7"
+fact_related_color: "#ede9fe"
 tags:
   - quantum-opportunity-program
   - qop
@@ -32,11 +32,11 @@ related_concepts:
   - "[[Self-Efficacy]]"
   - "[[Fade-out Effect]]"
   - "[[Academic Achievement]]"
-  - "[[Effect Size]]"
   - "[[Educational Evidence Clearinghouses]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
+  - "[[Effect Size]]"
 related_instruments: []
 related_persons: []
 related_facts:

@@ -6,14 +6,17 @@ aliases:
   - 经合组织
 summary: "1961年由前身欧洲经济合作组织（OEEC）正式改组演变而来的超国家政府间经济组织。OEEC最初由美国于1948年为管理马歇尔计划而创建。在冷战前沿地缘博弈和美国教育经济学运动的影响下，OECD系统地将教育规划重构为服务于经济增长的投资手段，后通过PISA等国际基准测评开展远处治理，成为主导全球教育改革与新自由主义资本秩序扩散的关键知识帝国。"
 type: fact
-subtype: event
+subtype: organization
 region: global
 fact_region: "global"
-fact_kind: "event"
-fact_related_count: 26
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
-fact_related_color: "#fef3c7"
+fact_kind: "organization"
+fact_related_count: 23
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
+fact_related_color: "#dcfce7"
+org_type: intergovernmental
+headquarters: 巴黎（法国）
+established: 1961
 tags:
   - theme/international-organizations
   - theme/global-governance
@@ -22,31 +25,28 @@ tags:
   - region/global
 related_concepts:
   - "[[Development Turn in Comparative Education]]"
-  - "[[International Education]]"
-  - "[[Governing at a Distance]]"
-  - "[[Paradigm]]"
   - "[[Growth]]"
-  - "[[Soft Power]]"
-  - "[[Reference Society]]"
   - "[[Evidence-Based Education]]"
-  - "[[Methodological Statism]]"
-  - "[[Methodological Educationism]]"
-  - "[[Realism in International Relations]]"
+  - "[[PISA Shock]]"
+  - "[[Reference Society]]"
   - "[[Policy Borrowing]]"
+  - "[[Governing by Numbers]]"
+  - "[[Realism in International Relations]]"
   - "[[Rationalism in International Relations]]"
   - "[[Revolutionism]]"
   - "[[Banal Imperialism]]"
   - "[[Avatar]]"
-  - "[[PISA Shock]]"
-  - "[[Governing by Numbers]]"
+  - "[[Methodological Statism]]"
+  - "[[Methodological Educationism]]"
 related_theories:
   - "[[Human Capital Theory]]"
+  - "[[Governing at a Distance]]"
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[Sputnik Shock 1957]]"
   - "[[Comparative Education Center at Chicago 1958]]"
   - "[[Economics of Education Movement]]"
-  - "[[Sputnik Shock 1957]]"
   - "[[International Institute for Educational Planning]]"
   - "[[PISA]]"
 related_arguments:
@@ -55,36 +55,73 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-08
-updated: 2026-07-11
+updated: 2026-09-11
 ---
 
 # OECD
 
 ---
 
-## 背景
+## 机构定位与宗旨
 
-> [!event-context] 经合组织改组背景
-> - **时间 / 地点** 1948年（OEEC成立）至1961年（OECD改组成立）/ 全球（美欧为主导的资本主义阵营）。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 422]])
-> - **关键主体** 美国政府与学术界（主导援助与理论扩散）、欧洲经济合作组织（OEEC，前身机构）、西欧成员国、[[Comparative Education Center at Chicago 1958|芝加哥大学比较教育中心]]。
-> - **制度背景** 二战后西欧废墟的重建，美国管理马歇尔计划的需求；冷战前沿两大阵营在第三世界的地缘拉拢；1950年代末美国“[[Economics of Education Movement|教育经济学运动]]”的兴起。
-> - **触发条件** 1948年美国为管理西欧复兴计划创建OEEC；1957年苏联人造卫星（[[Sputnik Shock 1957|Sputnik]]）发射成功在美国触发了地缘危机，直接推动了教育被视为科技竞争力与国家安全的战略投资，催生了教育经济学与比较教育的跨学科融合。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 420]])
+> [!claim] 核心定位
+> 经济合作与发展组织（OECD）是由市场经济发达国家组成的跨政府间国际经济组织，后冷战时代演进为全球教育治理领域事实上的核心协调者与国际基准制定者。OECD 通过研发以 PISA 为代表的跨国标准化大型学生学业与技能测评体系，开创了以量化指标、公开排行与同行审议为基础的远处治理（Governing at a Distance）模式，系统地将各成员国教育系统重塑为服务于人力资本积累与全球经济增长的战略工具。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 422–425)]]
 
----
+作为二战后西方资本主义阵营构建的重要多边协调中枢，该机构不仅承担宏观经济与贸易政策对话，更在数十年的组织演进中成为全球教育政策话语的生产垄断者。
 
-## 发展历程
-
-> [!dev-timeline] 经合组织教育治理角色的历史演进
-> - **1948 — 欧洲经济合作组织（OEEC）的奠基** 美国政府创建OEEC以负责管理二战后的马歇尔计划。这一技术援助框架从一开始就孕育了教育规划与西欧经济复兴的关联。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 422]])
-> - **1961 — 经合组织（OECD）的正式改组** OECD正式取代OEEC，系统地将教育规划纳入其经济增长议程。在冷战动员和美国[[Economics of Education Movement|教育经济学运动]]的影响下，教育在技术官僚话语中从传统的文化陶冶重构为能带来高收益回报的“资本投资”。
-> - **1960s–1970s — 冷战时期的[[Development Turn in Comparative Education|发展转向]]与[[Human Capital Theory|人力资本]]扩张** OECD与联合国教科文组织[[International Education|国际教育]]规划研究所（[[International Institute for Educational Planning|IIEP]]）形成双翼，成为比较教育“发展转向”的关键载体。通过将教育投资因果链作为援助的科学条件，将人力资本理论从美国学术界成功扩散到西欧、南欧和拉丁美洲地区。
-> - **1990s 至今 — 新自由主义全球化与大数据[[Governing at a Distance|远处治理]]** 苏联解体后，冷战发展[[Paradigm|范式]]平稳过渡为新自由主义的“最佳实践”输出话语。OECD于2000年推出[[PISA]]项目，通过软治理和基准数据比较协调全球教育政策，转型为实质性全球教育治理的核心协调者([[Argument_Klerides_2023_CE|Klerides, 2023, pp. 424–425]])。
+> [!org-context] 机构背景
+> - **成立时间 / 创设背景** 1961年正式改组成立（其前身为 1948 年为管理马歇尔计划而设立的欧洲经济合作组织 OEEC）；深层背景为冷战前沿地缘政治对抗与美国教育经济学运动的兴起。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 420)]]
+> - **总部地点 / 业务辐射** 总部位于法国巴黎；业务直接覆盖 38 个正式成员国及全球数十个伙伴国家和经济体，对世界教育政策议程具有全局性辐射力。
+> - **法人属性与经费基础** 超国家政府间国际组织（Intergovernmental Organization）；由各成员国按国民经济规模按比例分摊的核心法定预算、自愿性专项捐款及各国出资的测评项目联合经费维持运作。
+> - **核心宗旨与法定职责** 致力于促进实现成员国最高水平的可持续经济增长、充分就业及民众生活水平提升；在教育领域旨在提供客观且高度跨国可比的循证证据，引导公共教育投资的合理化配置。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 422)]]
 
 ---
 
-## 关键文件／声明
+## 历史沿革与组织演变
 
-> [!citation-card]- 《经济合作与发展组织公约》第一条（1960年）
+经合组织的教育治理职能并非自创设起就天然具备，而是伴随冷战地缘博弈、比较教育学科范式转换与新自由主义全球治理技术的发展经历了深刻转型。
+
+> [!dev-timeline]- 组织发展历程
+> - **1948–1960 — 欧洲经济合作组织（OEEC）的奠基** 美国政府为管理二战后欧洲复兴的马歇尔计划而主导创立 OEEC。该援助框架从一开始就将科技人力供给与西欧工业复兴紧密绑定，为后来的教育规划奠定了技术官僚雏形。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 422)]]
+>   - 1957 苏联人造卫星（[[Sputnik Shock 1957|Sputnik]]）升空引发西方世界的科技危机与教育动员浪潮。
+>   - 1958 [[Comparative Education Center at Chicago 1958|芝加哥大学比较教育中心]]建立，推动教育经济学与比较教育深度融合。
+> - **1961–1970s — OECD 改组与冷战“发展转向”** 1961 年 OECD 正式取代 OEEC，美欧国家共同将其打造成抗衡苏联意识形态竞争的制度堡垒。在[[Economics of Education Movement|教育经济学运动]]影响下，OECD 系统确立将教育视为经济增长“生产性投资”的新范式，与联合国教科文组织国际教育规划研究所（[[International Institute for Educational Planning|IIEP]]）形成双翼，推动了比较教育的[[Development Turn in Comparative Education|发展转向]]。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 420–423)]]
+>   - 1962 启动著名的地中海区域项目（Mediterranean Regional Project, MRP），将人力资本理论系统转化为南欧各国的国家教育发展规划。
+> - **1980s–1990s — 指标体系建构与管理主义转向** 冷战末期至冷战结束，新公共管理运动席卷西方，OECD 逐渐从传统的教育投入端和粗放人力核算，转向关注教育系统的产出效能与质量问责，建立起国际教育指标网络（INES），并推出旗舰年度报告《教育概览》（Education at a Glance）。
+> - **2000–至今 — 大数据时代与远处治理的全球扩散** 2000 年推出首轮国际学生评估项目（[[PISA]]），随后扩展至教师教学国际调查（TALIS）与成人技能评估（PIAAC）。OECD 借由跨国量化排名的数字治理（Governing by Numbers）与同行压力，超越传统主权边界，成为全球教育改革议程的实际统筹者。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 424–425)]]
+
+---
+
+## 治理架构与运行机制
+
+经合组织形成了由成员国常驻代表决议、专业司局日常执行、外部顶尖学术网络技术支撑的多层次治理体制。
+
+> [!actor-grid] 组织治理架构
+> - **最高决策中枢（理事会 Council）** 由全体成员国常驻大使代表及欧盟代表组成的高级别权力机构，负责审议工作规划、战略重点与财政预算，采取全体协商一致（Consensus）决策原则。
+> - **专业领导机构（教育政策委员会 EDPC）** 由各成员国教育部高级官员与政策代表组成的常设专门委员会，统筹制定教育领域的跨国战略优先项与大型项目启动决议。
+> - **常设执行部门（教育与技能司）** 位于巴黎总部的常设专业研究与行政管理团队，由司长统筹各处室开展跨国测评组织、数据清洗、多语言报告编制与国别政策咨询。
+> - **外部方法论与统计顾问网络** 汇聚全球顶尖心理测量学家、统计学家与比较教育学者的独立专家委员会，负责量化测评框架研发、项目反应理论建模与跨国等值性质控。
+
+在日常业务层面，OECD 通过精密的技术程序将复杂的各国内部教育实践转化为标准化的国际指标。
+
+> [!pathways]- 业务运行机制
+> - **议程设置** 研判全球宏观经济转型与劳动力技能演进趋势，在教育政策委员会引导下确定跨国比较研究选题与新型素养维度（如创新思维、全球素养）。
+> - **研究开发与跨国标准化施测** 研制标准化测评框架与背景问卷，指导各参与国设立的国家项目中心（National Project Centers）进行严密的本土化双向翻译、抽样与计算机化施测。
+> - **质量控制与同行审查** 采用项目反应理论（IRT）与潜变量模型消除跨文化题项偏差，通过发布国别政策同行审议报告（Peer Review）形成具有广泛舆论反响的国际比较结论。
+
+---
+
+## 核心业务与旗舰产出
+
+经合组织的业务网络覆盖了从学前教育、基础教育到高等教育与成年人终身学习的完整生命周期。
+
+> [!finding-cards] 核心产品与业务矩阵
+> - **跨国大规模学业与技能测评体系** 主导实施 [[PISA]]（15岁学生阅读、数学、科学素养测验）、TALIS（初中教师教学实践与学校领导力调查）及 PIAAC（成年人核心认知技能调查），构建起全球最庞大的教育实证数据基准。
+> - **指标体系与旗舰出版物** 每年持续出版权威报告《教育概览》（Education at a Glance），维护国际教育指标体系（INES），提供涵盖教育财政投入、入学机会、教师待遇与毕业生劳动力市场回报的跨国宏观数据。
+> - **国别教育政策审查（National Reviews）** 应受测国政府官方邀请，派出高级别国际专家组对特定国家的教育体系展开全景式实地诊断，其评估结论往往直接成为该国立法与拨款机制改革的政策依据。
+> - **前沿技能与课程框架研制** 研制并推广“学习罗盘2030”（Learning Compass 2030）与社会情感能力测评（SSES），持续引导全球基础教育课程改革的价值走向。
+
+> [!citation-card] 《经济合作与发展组织公约》第一条（1960年）
 > 经合组织（OECD）的宗旨应为促进旨在实现以下目标的政策：
 > 1. 在维持金融稳定的同时，实现成员国最高水平的可持续经济增长与就业，以及不断提高的生活水平，从而为世界经济的发展做出贡献；
 > 2. 在经济发展过程中，促进成员国以及非成员国的健康经济扩张；
@@ -92,50 +129,72 @@ updated: 2026-07-11
 >
 > *The aims of the Organisation for Economic Co-operation and Development shall be to promote policies designed: (a) to achieve the highest sustainable economic [[Growth]] and employment and a rising standard of living in Member countries... (b) to contribute to sound economic expansion in Member as well as non-member countries... and (c) to contribute to the expansion of world trade on a multilateral, non-discriminatory basis...*
 
-> [!citation-card]- 《地中海区域项目报告》（1962年）
+> [!citation-card] 《地中海区域项目报告》（1962年）
 > 地中海区域项目（Mediterranean Regional Project）是经合组织在教育领域的第一个重大制度实践。它将成员国（如意大利、西班牙、葡萄牙、希腊、土耳其和南斯拉夫）的教育规划与未来十五年经济发展的预期[[Human Capital Theory|人力资本]]需求挂钩，系统地将教育投入重构为经济“投资”，成为冷战“[[Development Turn in Comparative Education|发展转向]]”期间将人力资本理论转化为国家政策模板的关键蓝本。
 >
 > *The Mediterranean Regional Project (MRP) represents the first major attempt by the OECD to relate educational planning to economic growth, setting a template for translating human capital theory into national educational plans.*
 
-> [!citation-card]- 《[[PISA]] 2000：测量学生知识与技能》前言（2000年）
+---
+
+## 影响与体系成效
+
+经合组织通过其强大的量化技术与跨国声誉网络，深刻重构了当代全球教育治理的基本图景。
+
+> [!indicators]- 影响力维度与指标
+> - **成员覆盖与全球代表性** 从成立初期的 20 个欧美成员国扩张至当前 38 个成员国，PISA 测评覆盖逾 80 个国家和经济体，参与国经济总量占全球 80% 以上。
+> - **知识生产与学术渗透度** 发布的各类年度报告与实证微观数据库成为全球比较教育、教育经济学及公共政策学者最重要的实证来源，单年度成果引用量稳居跨国教育智库之首。
+> - **制度问责与国家治理重塑** 推动挪威、瑞士、德国及中国等数十个国家建立与国际标准对接的全国教育质量监测系统与循证督导评估体制。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]
+
+> [!finding-cards] 关键成效与辐射影响
+> - **学术范式迁移** 强力助推了“[[Evidence-Based Education|循证教育]]政策”在全球的合法性确立，引导教育决策从传统的政治协商或意识形态偏好转向高度依赖量化测量的实证主义逻辑。
+> - **政策震慑与标杆树立** 借助公开排名触发跨国“[[PISA Shock|PISA 冲击]]”，迫使德国、日本等传统教育强国展开自上而下的全国性标准改革与课程洗牌，树立以高表现国家为原型的“[[Reference Society|参考社会]]”，引发广泛的[[Policy Borrowing|政策借用]]。
+> - **治理形态创新** 成功探索出无须依托强制性国际公约约束、仅凭借数据披露、公开排队与同行声誉压力调控主权国家政策的[[Governing at a Distance|远处治理]]（Governing at a Distance）与[[Governing by Numbers|数字治理]]典型模式。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 424–425)]]
+
+> [!stat-cards]- 核心规模数据
+> 38 个正式成员国，逾 80 个 PISA 测评参与经济体，单轮受测学生样本约 60 万人，汇聚 3,000 余名专业雇员及数亿欧元年度综合运作预算。
+
+---
+
+## 争议、批评与反思
+
+经合组织在享有巨大治理威权的同时，其政治合法性、认识论假设与测量方法在学术界引发了持续激烈的批判交锋。
+
+> [!debates] 核心争议交锋
+>
+> > [!axis] 国际政治理论透镜下的治理性质交锋
+> > 批判学者从不同国际关系理论视角对 OECD 的角色性质与权力运作展开了深刻剖析。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 420–425)]]
+> >
+> > - **[[Realism in International Relations|现实主义透镜]]** 将 OECD 判定为主权国家地缘政治与经济竞争的战略工具。冷战时期作为西方阵营防范社会主义扩张的智库阵地；后冷战时代则成为各国监控自身科技竞争力、缓解落后焦虑并开展防御性人力资本竞赛的竞技场。
+> > - **[[Rationalism in International Relations|理性主义透镜]]** 将 OECD 视为多边理性协调与功能主义治理的典范。它构建起跨国“认知共同体”，在不侵犯国家主权的前提下通过技术标准磋商、数据互通与最佳实践扩散有效化解了集体行动困境。
+> > - **[[Revolutionism|革命主义与去殖民透镜]]** 将 OECD 判定为“知识新帝国”与“[[Banal Imperialism|平庸帝国主义]]”的当代[[Avatar|化身]]。学者批评其通过输出单一同质化的新自由主义效率标准，将教育完全工具化为资本积累的附庸，并在无形中再生产了对非西方教育文明传统的边缘化与认知压制。
+>
+> > [!axis] 方法论垄断与远处治理的合法性危机
+> > 围绕 OECD 将纷繁复杂的教育情境简化为单一量化指标与跨国排名所引发的方法论与伦理批判。
+> >
+> > - **科学客观论（机构立场）** OECD 坚称其测评框架基于严密的心理计量学技术，具有跨文化等值性与客观中立性，为各国超越体制利益保护、精准识别教育短板和促进社会流动提供了不可或缺的循证依据。
+> > - **去情境化实证主义霸权（批评视角）** 比较教育学者指出，OECD 陷入了深刻的[[Methodological Statism|方法论国家主义]]与[[Methodological Educationism|教育主义]]陷阱。去情境化的数据测试强行抹杀了各民族国家的历史传统、本土文化生态与教育固有的育人本质，诱发了急功近利的“为测验而教”与全球教育政策的病态同质化。
+
+> [!citation-card] 《PISA 2000：测量学生知识与技能》前言（2000年）
 > 随着经济全球化和技术变革对劳动者技能提出更高要求，PISA 测验旨在评估学生在义务教育结束时是否具备了完全参与社会和经济生活所需的关键知识和技能。经合组织通过提供跨国可比的实证基础，支持各国政府优化其教育政策。
 >
 > *As economic globalisation and technological change demand higher skills from the workforce, PISA assesses the extent to which pupils near the end of compulsory education have acquired the knowledge and skills essential for full participation in society and economic life.*
 
---- 
-
-## 影响与后果
-
-> [!finding-cards] 经合组织对教育治理的深远影响
-> - **政策影响** OECD通过[[PISA]]评估，将冷战地缘博弈中确立的“教育质量—科技实力—国家竞争力”政策链条全球制度化，促使各国在中观层面建立起与PISA测验标准对接的全国性教育质量监测与考问责机制，例如挪威、瑞士和中国的国家教育监测体系([[Argument_Li_2025_HSSC|Li et al., 2025]])。
-> - **实践影响** 确立了“超国家—国家—内部行动者网络”的三层政策传导路径。在超国家层面实施以量化指标为基础的[[Soft Power|软实力]]协调；在国家层面建立“[[Reference Society|参考社会]]”模范，导致德国、日本等国爆发“PISA冲击”，倒逼落后国家借用高表现者的“最佳实践”模式。
-> - **知识影响** 推动了比较教育领域向“[[Evidence-Based Education|循证教育]]政策”的科学化与实证化转向。但也通过标准和去情境化的数据排名，固化了[[Methodological Statism|方法论国家主义]]、statism（国家主义）及[[Methodological Educationism|教育主义]]的认识型，用技术主义效率掩盖了新自由主义资本积累的逻辑([[Argument_Klerides_2023_CE|Klerides, 2023, p. 422]])。
-
 ---
 
-## 争议与评论
-
-> [!spectrum] 国际政治理论透镜下的经合组织
->
-> - **[[Realism in International Relations|现实主义]]** OECD与比较教育被解构为服务于主权国家地缘竞争的工具。在冷战时期，OECD作为西方阵营的制度工具以应对美苏霸权竞争、拉拢第三世界；在后冷战时期，[[PISA]]等国际测评则成为国家评估自身实力、应对外部竞争焦虑并实施[[Policy Borrowing|政策借用]]的工具。
-> - **[[Rationalism in International Relations|理性主义]]** OECD是多边协调和中立治理的成功样板。其构建的“国际认知共同体”以无约束力的数据排名引发同行压力，在不侵犯国家主权的前提下实现了全球政策协调；但也被批评用去政治化的技术指标遮蔽了地缘统治的权力不对称。
-> - **[[Revolutionism|革命主义]]** OECD被判定为“知识新帝国”与“[[Banal Imperialism|平庸帝国主义]]”的最新[[Avatar|化身]]。去殖民学者指出，OECD通过输出结果导向的 neoliberal 效率标准，强制将教育与资本主义积累绑定，以大数据的日常循环再生产对非西方的他者化。
-
-> [!tension] [[Governing at a Distance|远处治理]]的合法性争议
-> - **去情境化科学中立（蓝方）** OECD声称其测试和数据库是科学客观、跨国可比的，旨在提供诊断教育短板的有效证据，引导全球教育改革迈向公平和质量的提升。
-> - **标准化资本运作逻辑（红方）** 批评者指出，OECD将教育窄化为[[Human Capital Theory|人力资本]]投资，通过数据垄断剥夺了非西方教育传统的多元价值，实质上在不经意间将西方的教育现代化形式施加于非西方国家。
-
----
-
-## 相关概念／政策
+## 相关条目网络
 
 > [!entry-map]
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[PISA]] | 事实 | OECD主导的全球最大规模基础教育标准化评估项目，其核心治理工具。 |
-> | [[Development Turn in Comparative Education]] | 概念 | OECD在冷战时期与[[International Institute for Educational Planning\|IIEP]]共同推动了比较教育向发展中国家的研究焦点转移。 |
-> | [[PISA Shock]] | 概念 | OECD公布的排名表现低于国家自我认知时所引发的全国性教育治理危机。 |
-> | [[Governing by Numbers]] | 概念 | OECD通过量化指标、评估和排行等数字手段实施软治理的主要机制。 |
-> | [[Reference Society]] | 概念 | PISA排名自动塑造的、供其他国家[[Policy Borrowing\|政策借用]]的教育模范社会。 |
-> | [[Economics of Education Movement]] | 事实 | [[Sputnik Shock 1957\|Sputnik]]冲击后在美国兴起的运动，为OECD将教育视为资本投资奠定了理论基石。 |
+> | [[PISA]] | Fact (Program) | OECD 主导的全球最大规模基础教育学业成就评估项目，其核心远处治理工具。 |
+> | [[Economics of Education Movement]] | Fact (Event) | 战后在美国兴起、为 OECD 将教育重构为生产性资本投资奠定理论基石的历史运动。 |
+> | [[Sputnik Shock 1957]] | Fact (Event) | 触发美欧科技教育恐慌的里程碑事件，直接催化了 OECD 的教育治理干预职能。 |
+> | [[Comparative Education Center at Chicago 1958]] | Fact (Organization) | 配合美国冷战战略与 OECD 早期人力资本教育政策研究的重要学术智库中心。 |
+> | [[International Institute for Educational Planning]] | Fact (Organization) | 联合国教科文组织下属机构，冷战期与 OECD 共同作为教育规划发展转向的关键载体。 |
+> | [[Governing at a Distance]] | Theory | OECD 运用量化基准与同行软实力压力调控主权国家教育政策的核心治理机制。 |
+> | [[Governing by Numbers]] | Concept | OECD 治理实践的本质机制，通过指标建构、跨国排行与统计技术实现行政合法性。 |
+> | [[Development Turn in Comparative Education]] | Concept | OECD 早期推动的将比较教育研究重心从西方传统转向发展中国家人力规划的范式演进。 |
+> | [[PISA Shock]] | Concept | OECD 测验数据公布后在各受测国内部因学业表现不及预期而激发的全国性教育危机。 |
+> | [[Reference Society]] | Concept | PISA 排名在跨国空间内自动塑就的教育改革样板社会，成为各国政策借用竞相模仿的对象。 |
+> | [[Human Capital Theory]] | Theory | OECD 将教育规划与经济增长全面挂钩的经济哲学基础与核心合法性渊源。 |

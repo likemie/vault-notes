@@ -4,14 +4,14 @@ aliases:
   - 密涅瓦大学
 summary: "2012/2014 年由 Ben Nelson 创立的全球性营利大学，无校园、在线教学、全球城市沉浸，以颠覆传统大学和构建可扩展商业模式为目标"
 type: fact
-subtype: event
+subtype: organization
 region: global
 fact_region: "global"
-fact_kind: "event"
+fact_kind: "organization"
 fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
-fact_related_color: "#fef3c7"
+fact_related_color: "#dcfce7"
 tags:
 - minerva-university
 - higher-education

@@ -7,14 +7,14 @@ aliases:
   - Kompetenzmodellierung und Kompetenzerfassung im Hochschulsektor
 summary: "由德国联邦教育与研究部资助的跨校国家级科研计划（2011–2020），汇聚全德50余所高校与220余名学者，研制出41套高等教育能力理论模型与116套测评工具，是全球规模最大的高教能力建模与测量工程。"
 type: fact
-subtype: policy
+subtype: program
 region: germany
 fact_region: "germany"
-fact_kind: "policy"
+fact_kind: "program"
 fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
-fact_related_color: "#dbeafe"
+fact_related_color: "#ede9fe"
 issuing_organization: "德国联邦教育与研究部（BMBF）"
 tags:
   - policy/higher-education

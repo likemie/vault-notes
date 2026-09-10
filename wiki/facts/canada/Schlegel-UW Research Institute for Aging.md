@@ -7,14 +7,14 @@ aliases:
   - 滑铁卢大学老龄化研究所
 summary: "2005 年由滑铁卢大学与 Schlegel Villages 合作建立的大型跨学科产学合作研究机构，以共同选址、知识动员和临床即时反馈为核心运作模式，聚焦老龄化研究与技术创新"
 type: fact
-subtype: event
+subtype: organization
 region: canada
 fact_region: "canada"
-fact_kind: "event"
+fact_kind: "organization"
 fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: ""
-fact_related_color: "#fef3c7"
+fact_related_color: "#dcfce7"
 tags: ["region/canada", "theme/university-industry-collaboration", "theme/aging", "theme/co-location"]
 related_concepts:
   - "[[University-Industry Collaboration]]"

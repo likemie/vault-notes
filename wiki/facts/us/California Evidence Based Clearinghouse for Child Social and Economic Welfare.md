@@ -6,14 +6,14 @@ aliases:
   - CEBC
 summary: "加利福尼亚州社会服务部（CDSS）资助建立的多领域公共证据清算中心，专注于儿童福利与教育干预，最高评级（Well-Supported）强制要求至少2项高质量RCT及干预后12个月持续效果。"
 type: fact
-subtype: event
+subtype: organization
 region: us
 fact_region: "us"
-fact_kind: "event"
+fact_kind: "organization"
 fact_related_count: 18
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
-fact_related_color: "#fef3c7"
+fact_related_color: "#dcfce7"
 tags:
   - cebc
   - educational-evidence-clearinghouse

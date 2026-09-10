@@ -4,14 +4,14 @@ aliases:
   - 综合学校改革项目
 summary: "1998 年 Obey-Porter 立法首次将联邦教育拨款与有效性证据挂钩（USD 150M→USD 310M/年），但仅 20.8% 拨款流向强证据项目"
 type: fact
-subtype: policy
+subtype: program
 region: us
 fact_region: "us"
-fact_kind: "policy"
+fact_kind: "program"
 fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: ""
-fact_related_color: "#dbeafe"
+fact_related_color: "#ede9fe"
 issuing_organization: ""
 tags:
   - evidence-based-education

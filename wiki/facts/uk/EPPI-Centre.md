@@ -5,14 +5,14 @@ aliases:
   - 政策与实践证据信息协调中心
 summary: "1995年伦敦大学学院教育学院创建的证据中心，发展系统综述方法并支持政策、实践和日常生活中的研究证据使用。"
 type: fact
-subtype: policy
+subtype: organization
 region: uk
 fact_region: "uk"
-fact_kind: "policy"
+fact_kind: "organization"
 fact_related_count: 9
 fact_related_level: 1
 fact_related_stars: "⭐"
-fact_related_color: "#dbeafe"
+fact_related_color: "#dcfce7"
 issuing_organization: University College London Institute of Education
 tags:
   - region/uk

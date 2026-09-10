@@ -7,7 +7,7 @@ aliases:
 summary: "由Stenhouse开创并经复杂性理论深化的教育研究范式，主张教师从知识消费者转向自身实践的知识生产者，在复杂自组织教育生态中与外部研究者形成共生探究网络。"
 type: concept
 domain: "research-methodology"
-related_count: 33
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Epistemology]]"
   - "[[Chain of Evidence]]"
-  - "[[Creativity, Action, Service]]"
   - "[[Emergence]]"
   - "[[Paradigm]]"
   - "[[Homework]]"
@@ -120,7 +119,7 @@ updated: 2026-09-09
 [[Complexity Theory|复杂性理论]]为教师即研究者运动提供了全新的元理论支持（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1, p. 30）：
 
 > [!feature] 复杂性视阈下的共生研究网络
-> - **自组织秩序的内在要求** 学校是高度非线性的开放复杂适应系统（[[Creativity, Action, Service|CAS]]），其整体秩序在基层交互中自发[[Emergence|涌现]]，绝非外部行政命令或自上而下的蓝图研究所能控制。
+> - **自组织秩序的内在要求** 学校是高度非线性的开放复杂适应系统（CAS），其整体秩序在基层交互中自发[[Emergence|涌现]]，绝非外部行政命令或自上而下的蓝图研究所能控制。
 > - **摆脱外部干预的局限** 外部研究者以“客观旁观者”身份开展的控制实验，往往忽视了学校生态的全息连接与正负反馈，测量到的往往是去情境化的历史数据。
 > - **构建共生伙伴网络** 复杂性[[Paradigm|范式]]要求大学专业研究人员走出象牙塔，与一线教师结成平等的共生合作关系；大学学者提供方法论反思工具与系统化梳理视角，一线教师提供真实情境动力学洞见，共同培育应对不确定教育世界的适应性探究文化。
 

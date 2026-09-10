@@ -6,7 +6,7 @@ aliases:
 summary: "一种外部主义认识论理论，主张信念的确证依赖于产生该信念的因果过程是否可靠，促成了哲学向实证科学的自然主义转向，扩展了认识论认知的研究范畴。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 17
+theory_related_count: 18
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Paradigm]]"
   - "[[Metacognition]]"
+  - "[[Reliable Epistemic Processes]]"
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
   - "[[Rote Learning]]"
@@ -97,7 +98,7 @@ updated: '2026-08-27'
 > ```
 
 > [!exegesis]- 教育研究例子
-> **科学课堂中的可靠过程判断** 在 [[Argument_Chinn_2011_EP|Chinn et al. (2011)]] 的扩展框架中，一个学生在评估科学证据时，不仅仅是看证据本身是否符合逻辑，而是会评估产生该证据的过程。例如，学生会判断“维基百科”或“专家同行评审的期刊”哪种机制产生真理的概率更高。这种判断——即评价某种社会机构或因果过程的[[Reliability|可靠性]]——正是可靠主义理论在教育实践中的生动体现。
+> **科学课堂中的[[Reliable Epistemic Processes|可靠过程]]判断** 在 [[Argument_Chinn_2011_EP|Chinn et al. (2011)]] 的扩展框架中，一个学生在评估科学证据时，不仅仅是看证据本身是否符合逻辑，而是会评估产生该证据的过程。例如，学生会判断“维基百科”或“专家同行评审的期刊”哪种机制产生真理的概率更高。这种判断——即评价某种社会机构或因果过程的[[Reliability|可靠性]]——正是可靠主义理论在教育实践中的生动体现。
 
 ---
 
@@ -119,7 +120,7 @@ updated: '2026-08-27'
 
 > [!theory-boundary] 适用边界
 > - **适合解释** 为什么即使是小孩子也能展现出强大的[[Epistemology|认识论]]评估能力（比如他们能通过观察“谁更像是个可靠的提供者”来选择性信任），以及科学共同体如何通过制度保障知识产出。
-> - **常见误用** 极易被简化为一种“无须思考的机械主义”。事实上，可靠过程也包括需要深度参与的高级[[Metacognition|元认知]]调控与严谨逻辑推理过程，并非仅指底层的知觉机制。
+> - **常见误用** 极易被简化为一种“无须思考的机械主义”。事实上，[[Reliable Epistemic Processes|可靠过程]]也包括需要深度参与的高级[[Metacognition|元认知]]调控与严谨逻辑推理过程，并非仅指底层的知觉机制。
 
 ---
 

@@ -5,14 +5,14 @@ aliases:
   - Thousand Talents Plan
 summary: "中国海外高层次人才引进计划，被美方视为制度化知识盗窃机制，中美技术紧张焦点"
 type: fact
-subtype: event
+subtype: program
 region: china
 fact_region: "china"
-fact_kind: "event"
+fact_kind: "program"
 fact_related_count: 8
 fact_related_level: 1
 fact_related_stars: "⭐"
-fact_related_color: "#fef3c7"
+fact_related_color: "#ede9fe"
 tags:
 - region/china
 - geopolitics-of-knowledge

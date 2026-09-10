@@ -22,7 +22,6 @@ related_concepts:
   - "[[Epistemological Naturalism]]"
   - "[[Causal Processes]]"
   - "[[Praxis]]"
-  - "[[Theory of Mind]]"
   - "[[Questionnaire]]"
   - "[[Hypothesis]]"
   - "[[Multiplist]]"
@@ -47,6 +46,7 @@ related_concepts:
   - "[[Epistemic Commitments]]"
   - "[[Paradigm]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Epistemic Ideals]]"
   - "[[Scaffolding]]"
   - "[[Epistemological Theories]]"
   - "[[Paradigm Wars]]"
@@ -54,6 +54,7 @@ related_concepts:
 related_theories:
   - "[[Integrative Pluralism]]"
   - "[[Cognitive Constructivism]]"
+  - "[[Theory of Mind]]"
   - "[[Reliabilism]]"
   - "[[Situative Perspective]]"
 related_methods:
@@ -77,14 +78,14 @@ sources:
 part_of: 
 status: draft
 created: 2026-08-18
-updated: 2026-08-19
+updated: 2026-09-10
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Sandoval_2016_RRE"
 argument_key: "Argument_Sandoval_2016_RRE"
 argument_display_title: "Understanding and Promoting Thinking About Knowledge: Origins, Issues, and Future Directions of Research on Epistemic Cognition"
 argument_kind: "journal-article"
-argument_related_count: 51
+argument_related_count: 52
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -267,7 +268,7 @@ issuing_organization: ""
 > - **链节一 承认“多层级聚合”的解释合法性**
 >   作者指出，个体[[Constructivist Paradigm|建构主义]]和情境主义的本体论之争，本质上是因为它们关注的是不同的“聚合层级（levels of aggregation）”。要实现理论和解，必须停止跨层级的盲目攻击，承认各范式在其特有层级上的合法性：
 >   1. **个体层级（Individual）** 聚焦学生头脑内部（如认知心理学），探讨个体如何调配内部的“认识论资源”。
->   2. **人际交互层级（Individual-in-interaction）** 聚焦微观的社会互动，探讨学生在小组合作中如何与他人动态协商、确立共同的认识论标准（epistemic aims）。
+>   2. **人际交互层级（Individual-in-interaction）** 聚焦微观的社会互动，探讨学生在小组合作中如何与他人动态协商、确立共同的[[Epistemic Ideals|认识论标准]]（epistemic aims）。
 >   3. **活动系统层级（Activity System）** 聚焦宏观的社会文化环境，探讨课堂、学校或科学共同体层面的制度规范与集体性的“认识论氛围（epistemic climate）”。
 > - **链节二 跨层级理论缝合与方法论匹配**
 >   整合并非简单的折中拼凑，而是要建立层级间的因果解释链条——探究宏观的课堂认识论氛围（层级三）如何影响学生的小组对话机制（层级二），进而重塑个体的认知资源（层级一）。在方法论上，严格遵循“测量工具与分析层级相匹配”的原则：对于个体层级的显性[[Metacognition|元认知]]目标，可以优化访谈等自我报告；而对于系统层级的缄默实践，则必须深入真实活动进行多模态的[[Discourse Analysis|话语分析]]。

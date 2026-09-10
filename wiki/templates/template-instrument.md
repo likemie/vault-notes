@@ -31,7 +31,16 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ## 工具定位
 
-%% 单一工具的整体说明使用 callout，不做键值表。 %%
+%% 单一工具的整体说明使用 callout，不做键值表。
+   子类型选择准则（八选一，严格与子目录对应）：
+   - test (tests/): 最高表现测验，有对错/优劣标准（认知推理、学业成就、思维技能测验）。
+   - scale (scales/): 典型表现量表，李克特连续标尺，测态度、信念、动机等单一构念强度（How much）。
+   - inventory (inventories/): 行为倾向/风格存表，系统盘点行为特征、应对风格或心智倾向，生成多维心理剖面图（What profile/style，如 CCTDI、PSI、ECI）。
+   - questionnaire (questionnaires/): 事实、经历与状态调查问卷（如学生投入、课程体验、科学本质观调查）。
+   - rubric (rubrics/): 表现性评价量规矩阵，配有阶梯式水平描述符（如 VALUE Rubrics、OECD Rubrics）。
+   - checklist (checklists/): 二元/三元方法学质评与合规性核查清单（如 AMSTAR、MMAT、Kmet）。
+   - observation-tool (observation-tools/): 课堂或情境外部编码观察规程。
+   - interview-tool (interview-tools/): 半结构化访谈与焦点小组提纲。 %%
 
 > [!instrument-profile] <工具>
 > - **工具类型** 量表、问卷、测验、清单、评分规程、观察工具、访谈工具或其他测量工具。

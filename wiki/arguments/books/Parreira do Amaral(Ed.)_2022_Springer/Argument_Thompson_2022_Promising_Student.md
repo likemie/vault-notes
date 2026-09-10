@@ -11,7 +11,7 @@ title: "Argument_Thompson_2022_Promising_Student"
 argument_key: "Argument_Thompson_2022_Promising_Student"
 argument_display_title: "Fostering the 'Promising Student' at the Outset: The Digitization and Management of Student Success in the Competitive University"
 argument_kind: "book"
-argument_related_count: 21
+argument_related_count: 22
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -32,8 +32,8 @@ related_concepts:
   - "[[Online Self-Assessment]]"
   - "[[Theoretical Perspective]]"
   - "[[Analytic Framework]]"
-  - "[[Governmentality]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Stakeholder University]]"
   - "[[Document]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Performativity of Measurement]]"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[Constructed Knowledge]]"
   - "[[Paradigm]]"
 related_theories:
+  - "[[Governmentality]]"
   - "[[Societies of Control]]"
 related_methods:
   - "[[Discourse Analysis]]"
@@ -80,7 +81,7 @@ citation_aliases:
 
 - **Foucault [[Governmentality|治理术]]（governmentality）** 借鉴 Foucault（1993, 2004）对治理术的分析——即"行为的引导"（conduct of conduct），关注权力如何通过塑造主体的自我理解而非直接强制来运作。[[Online Self-Assessment|OSA]] 被视为一种"自我技术"（technology of the self），通过让潜在学生对自身进行自我评估和自我优化，引导他们"自由地"做出符合治理目标的选择(pp.220–221)。
 
-- **Deleuze [[Societies of Control|控制社会]]（societies of control）** 借鉴 Deleuze(1992)关于从[[Disciplina and Doctrina|规训]]社会向控制社会转型的分析。在规训社会中，个体经历一系列封闭机构（家庭→学校→工厂→军营），每次"毕业"意味着从一个机构中被释放。在控制社会中，调制（modulation）取代了模具（mold）——权力不再通过封闭空间运作，而是通过持续的数字追踪和调制，使"解雇"不再存在(pp.221–222)。OSA 作为一种持续的调制机制在入学前就开始运作，将学生纳入一种"永无止境"的优化过程。
+- **Deleuze [[Societies of Control|控制社会]]（societies of control）** 借鉴 Deleuze(1992)关于从[[Disciplina and Doctrina|规训]]社会向控制社会转型的分析。在规训社会中，个体经历一系列封闭机构（家庭→学校→工厂→军营），每次"毕业"意味着从一个机构中被释放。在控制社会中，调制（modulation）取代了模具（mold）——权力不再通过封闭空间运作，而是通过持续的数字追踪和调制，使"解雇"不再存在(pp.221–222)。现代大学随之转型为[[Stakeholder University|利益相关者大学]]（stakeholder university），通过多方主体的网络连接性转化为地缘政治机会节点(Wæraas & Solbakk, 2009; pp.221–222)。OSA 作为一种持续的调制机制在入学前就开始运作，将学生纳入一种"永无止境"的优化过程。
 
 二者的结合提供了一种分析高等教育的竞争性治理技术的综合视角。
 

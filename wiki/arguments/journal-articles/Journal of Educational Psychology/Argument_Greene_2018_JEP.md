@@ -21,11 +21,12 @@ related_concepts:
   - "[[Construct]]"
   - "[[Reliability]]"
   - "[[Development of Knowledge]]"
-  - "[[Effect Size]]"
   - "[[Questionnaire]]"
   - "[[Constructivist Paradigm]]"
   - "[[Source of Knowledge]]"
   - "[[Epistemic Aims]]"
+  - "[[Epistemic Ideals]]"
+  - "[[Reliable Epistemic Processes]]"
   - "[[Epistemic Resources]]"
   - "[[Domain Specificity]]"
   - "[[Variable]]"
@@ -33,7 +34,6 @@ related_concepts:
   - "[[Document]]"
   - "[[Publication Bias]]"
   - "[[Funnel Plot]]"
-  - "[[Standard Error]]"
   - "[[Confidence Interval]]"
   - "[[Heterogeneity]]"
   - "[[Epistemological Beliefs]]"
@@ -51,7 +51,6 @@ related_concepts:
   - "[[Surface and Deep Learning]]"
   - "[[Theoretical Validity]]"
   - "[[Sample Size Determination]]"
-  - "[[Internal Consistency]]"
   - "[[Epistemological Understanding]]"
   - "[[Justification for Knowing]]"
   - "[[Construct Validity]]"
@@ -59,9 +58,11 @@ related_concepts:
   - "[[Causality]]"
 related_theories:
   - "[[Reflective Judgment Model]]"
+  - "[[AIR Model of Epistemic Cognition]]"
   - "[[Situative Perspective]]"
 related_methods:
   - "[[Quantitative Research]]"
+  - "[[Effect Size]]"
   - "[[Meta-analysis]]"
   - "[[Intervention Research]]"
   - "[[Qualitative Research]]"
@@ -69,8 +70,10 @@ related_methods:
   - "[[Moderator Analysis]]"
   - "[[Experimental Research]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Standard Error]]"
   - "[[Fail-Safe N]]"
   - "[[Meta-regression]]"
+  - "[[Internal Consistency]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -88,7 +91,7 @@ title: "Argument_Greene_2018_JEP"
 argument_key: "Argument_Greene_2018_JEP"
 argument_display_title: "A meta-analytic review of the relationship between epistemic cognition and academic achievement"
 argument_kind: "journal-article"
-argument_related_count: 56
+argument_related_count: 59
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -125,7 +128,7 @@ issuing_organization: ""
 > - **多维模型 (Multidimensional Models)**
 >   发端于 Schommer (1990)。认为[[Epistemology|认识论]]是由若干相对独立的“信念维度”组成，而非整体式的阶段。[[Argument_Hofer_1997_RER|Hofer & Pintrich (1997)]] 将其经典化，划分为**知识的性质**（简单性、确定性）与**认识的性质（[[Source of Knowledge|知识的来源]]、知识的证成）**两大核心簇。
 > - **哲学驱动模型 (Philosophically Driven Models)**
->   旨在解决早期心理学模型缺乏“分析认识论”根基的问题。以 Chinn, Buckland, & Samarapungavan (2011) 的 AIR 模型为首，将其拆解为：**[[Epistemic Aims|认识论目标]]（Epistemic aims，如追求理解或真理）**、**认识论理想（Ideals，评价真理的标准）**以及**可靠过程（Reliable processes，实现目标的程序）**。
+>   旨在解决早期心理学模型缺乏“分析认识论”根基的问题。以 Chinn, Buckland, & Samarapungavan (2011) 的 [[AIR Model of Epistemic Cognition|AIR]] 模型为首，将其拆解为：**[[Epistemic Aims|认识论目标]]（Epistemic aims，如追求理解或真理）**、**[[Epistemic Ideals|认识论理想]]（Ideals，评价真理的标准）**以及**[[Reliable Epistemic Processes|可靠过程]]（Reliable processes，实现目标的程序）**。
 > - **学科/领域驱动模型 (Discipline-Driven Models)**
 >   受[[Situative Perspective|情境认知]]（situated cognition）启发，强调认识论高度依赖特定任务情境。如 Elby & Hammer (2001) 的“[[Epistemic Resources|认识论资源]]”模型指出，学生会在分析史料时动态激活不同的认识论预设；而 Muis, Bendixen, & Haerle (2006) 则进一步系统化了[[Domain Specificity|领域特异性]]的理论框架。
 
@@ -464,7 +467,7 @@ issuing_organization: ""
 ## 关键引用
 
 > [!citation-card]- 对齐与高阶认知的教育启示
-> 此外，当[[Academic Achievement|学业成就]]衡量的是概念性知识或论证，而不是陈述性或程序性知识时，[[Effect Size|效应量]]的估计值更高。概念知识和论证成就测量捕捉到了被认为需要[[Epistemic Cognition|认识论认知]]的高阶认知处理类型。这些发现可以被预期，但也至关重要。它们支持了这样一种观点：研究人员应认真对待论证、概念理解和认识论认知中的领域差异，并考虑针对特定领域的规范性认识实践、认识理想和可靠过程来定制其测量工具。 (p. 1102)
+> 此外，当[[Academic Achievement|学业成就]]衡量的是概念性知识或论证，而不是陈述性或程序性知识时，[[Effect Size|效应量]]的估计值更高。概念知识和论证成就测量捕捉到了被认为需要[[Epistemic Cognition|认识论认知]]的高阶认知处理类型。这些发现可以被预期，但也至关重要。它们支持了这样一种观点：研究人员应认真对待论证、概念理解和认识论认知中的领域差异，并考虑针对特定领域的规范性认识实践、[[Epistemic Ideals|认识理想]]和[[Reliable Epistemic Processes|可靠过程]]来定制其测量工具。 (p. 1102)
 >
 > *Furthermore, effect size estimates were higher when the academic achievement measure captured conceptual knowledge or argumentation, as opposed to declarative or [[Procedural Knowledge]]. Conceptual knowledge and argumentation achievement measures capture the kinds of higher order processing posited to require epistemic cognition. These findings may be expected, but they are important. They bolster arguments that researchers should take domain differences in argumentation, conceptual understanding, and epistemic cognition seriously, and consider tailoring their instruments to the kinds of epistemic practices, epistemic ideals, and reliable processes considered normative in particular domains.*
 

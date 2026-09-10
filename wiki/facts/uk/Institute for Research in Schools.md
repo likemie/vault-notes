@@ -6,14 +6,14 @@ aliases:
   - Institute for Research in Schools (IRIS)
 summary: "英国全国性科学教育慈善机构，搭建中学与顶尖高校及国际大科学工程的合作桥梁，使中学生直接使用真实科研数据和前沿课题开展长周期科学探究"
 type: fact
-subtype: policy
+subtype: organization
 region: uk
 fact_region: "uk"
-fact_kind: "policy"
+fact_kind: "organization"
 fact_related_count: 5
 fact_related_level: 0
 fact_related_stars: ""
-fact_related_color: "#dbeafe"
+fact_related_color: "#dcfce7"
 issuing_organization: Institute for Research in Schools
 tags:
   - region/uk

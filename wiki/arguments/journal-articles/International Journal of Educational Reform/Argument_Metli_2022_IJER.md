@@ -27,7 +27,6 @@ related_concepts:
   - "[[Questionnaire]]"
   - "[[Likert Scale]]"
   - "[[Praxis]]"
-  - "[[Descriptive Analysis]]"
   - "[[Conatus]]"
   - "[[IB Learner Profile]]"
   - "[[Epistemology]]"
@@ -46,6 +45,7 @@ related_methods:
   - "[[Focus Group]]"
   - "[[Semi-structured Interview]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Descriptive Analysis]]"
 related_instruments:
   - "[[Concurrency of Learning in the Core Questionnaire]]"
 related_persons: []
@@ -136,7 +136,7 @@ issuing_organization: ""
 
 ### 2. 促进核心连贯性的跨组件互证与转化（以 TOK 为枢纽）
 
-> [!case] [[Creativity, Action, Service|CAS]] 与 [[Theory of Knowledge|TOK]] 的互证：从经验走向[[Epistemology|认识论]]反思
+> [!case] CAS 与 [[Theory of Knowledge|TOK]] 的互证：从经验走向[[Epistemology|认识论]]反思
 > **方向一：用 TOK [[Knowledge Questions|知识问题]]（Knowledge Question，KQ）引导 CAS 反思**
 > 教师可以利用核心知识问题“你的个人经验如何创造了知识？”来深化 CAS 反思。Elnegar & Darwazeh (2018) 提出了四个递进的辅助知识问题：
 > 1. 这项活动中的个人经验如何为你创造了意义？

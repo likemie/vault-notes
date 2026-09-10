@@ -5,14 +5,14 @@ aliases:
   - NDPC
 summary: "专注高危学生辍学预防的非营利教育清算中心，以宽容的准入门槛（单项QED即可认证）和强制现场实际运行满3年要求为特征。"
 type: fact
-subtype: event
+subtype: organization
 region: us
 fact_region: "us"
-fact_kind: "event"
+fact_kind: "organization"
 fact_related_count: 17
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
-fact_related_color: "#fef3c7"
+fact_related_color: "#dcfce7"
 tags:
   - ndpc
   - national-dropout-prevention-center

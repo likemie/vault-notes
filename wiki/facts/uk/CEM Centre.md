@@ -6,14 +6,14 @@ aliases:
   - Cambridge CEM
 summary: "1983 年成立的杜伦大学教育评估与监测研究中心，开发 PIPS、MidYIS、ALIS 等学校监测系统，2019 年被剑桥大学出版与评估院收购"
 type: fact
-subtype: event
+subtype: organization
 region: uk
 fact_region: "uk"
-fact_kind: "event"
+fact_kind: "organization"
 fact_related_count: 5
 fact_related_level: 0
 fact_related_stars: ""
-fact_related_color: "#fef3c7"
+fact_related_color: "#dcfce7"
 tags:
   - region/uk
   - theme/evidence-based-education

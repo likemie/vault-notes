@@ -5,10 +5,9 @@ aliases:
   - Begg's Test
   - Begg-Mazumdar Test
   - 秩相关检验
-  - Begg-Mazumdar 秩相关
+  - 贝格-马祖姆达尔秩相关
 summary: "由 Colin Begg 与 Madhuchhanda Mazumdar（1994）提出的一种用于检验元分析中发表偏倚的非参数统计方法。通过计算调整后的标准化效应量与各研究方差估计值之间的等级相关系数，判断是否存在小样本研究系统性报告更高效应量的漏斗图不对称现象。"
 type: method
-domain: research-methodology
 method_type: quantitative
 method_family: "quantitative"
 method_related_count: 16
@@ -23,8 +22,6 @@ tags:
 related_concepts:
   - "[[Publication Bias]]"
   - "[[Small Study Effects]]"
-  - "[[Effect Size]]"
-  - "[[Standard Error]]"
   - "[[Study Population and Sample]]"
   - "[[Unit of Analysis]]"
   - "[[Hypothesis]]"
@@ -34,6 +31,8 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
+  - "[[Standard Error]]"
   - "[[Meta-meta-analysis]]"
   - "[[Trim and Fill Method]]"
   - "[[Fail-Safe N]]"
@@ -46,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-09-11
 ---
 
 # Begg and Mazumdar Rank Correlation

@@ -120,7 +120,14 @@ wiki/
   methods/qualitative/
   methods/quantitative/
   methods/mixed/
-  instruments/<instrument-type>/
+  instruments/tests/
+  instruments/scales/
+  instruments/questionnaires/
+  instruments/inventories/
+  instruments/rubrics/
+  instruments/checklists/
+  instruments/observation-tools/
+  instruments/interview-tools/
   persons/<nationality-or-region>/
   facts/<region>/
   arguments/journal-articles/<journal-name>/
@@ -133,9 +140,9 @@ wiki/
 | Concept | `wiki/concepts/<field>/` | 按领域，如 `comparative-education`、`curriculum`、`educational-philosophy`、`educational-leadership-administration` |
 | Theory | `wiki/theories/<field>/` | 只放可作为理论框架、解释机制或分析视角的理论／框架／模型 |
 | Method | `wiki/methods/qualitative/`、`quantitative/`、`mixed/` | 只放研究方法、研究设计、资料收集／分析方法、项目评价方法；课堂教学法放 Concept |
-| Instrument | `wiki/instruments/<instrument-type>/` | 放命名量表、问卷、测验、清单、评分规程、观察工具和访谈工具；构念放 Concept，通用程序放 Method |
+| Instrument | `wiki/instruments/<instrument-type>/` | 放命名量表、问卷、测验、清单、评分规程、观察工具和访谈工具。标准子目录为 `tests/`（最高表现测验）、`scales/`（典型表现量表）、`questionnaires/`（事实与经历问卷）、`inventories/`（倾向清单/存表）、`rubrics/`（表现评价量规）、`checklists/`（方法学质评核查表）、`observation-tools/`（观察编码规程）、`interview-tools/`（访谈与焦点小组指南）；构念放 Concept，通用程序放 Method |
 | Person | `wiki/persons/<nationality-or-region>/` | 按国籍／地区；不明或跨国身份放 `global` |
-| Fact | `wiki/facts/<region>/` | 按地区；全球性放 `global`；多国比较放 `multi` |
+| Fact | `wiki/facts/<region>/` | 按地区；全球性放 `global`；多国比较放 `multi`；`subtype` 固定为 `policy`（政策法案）、`event`（历史事件）、`organization`（组织机构）、`program`（重大项目）四大标准类别 |
 | Argument | `wiki/arguments/journal-articles/<journal-name>/`、`wiki/arguments/books/<book-folder>/`、`wiki/arguments/reports-policy-documents/` | 按文献类型；期刊论文 Argument 按 `journal` 字段对应的期刊名称分组；书籍 Argument 再按具体书籍文件夹分组 |
 
 文件名、文件夹名、`title`、`tags` 使用英文；正文使用简体中文。
@@ -461,7 +468,13 @@ Argument 引用规则：
 
 ### Fact
 
-有明确时间 + 地点 + 主体的政策、事件、制度安排，应建 Fact 条目。包括政策、法案、课程纲要、白皮书、历史事件、课程改革节点、教育制度、考试制度、督学制度、分流制度。不要把具体政策或事件只当作概念例子一笔带过。
+有明确时间 + 地点 + 主体的政策、事件、组织机构、重大项目或制度安排，应建 Fact 条目。`subtype` 固定分为四类：
+1. `policy`：法律法案、政策文本、国家战略、课程纲要、官方白皮书、行政规程；
+2. `event`：重大历史事件、危机、教育运动、历史性访问、国际论战；
+3. `organization`：政府机构、国际组织、学术学会、大学、科研清算中心、智库、基金会；
+4. `program`：重大国家/国际科研工程、评价项目（如 PISA）、实验试点项目、卓越资助计划。
+
+不要把具体政策、事件、机构或项目只当作概念例子一笔带过。
 
 ### Theory
 

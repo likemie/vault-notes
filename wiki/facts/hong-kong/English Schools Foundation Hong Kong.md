@@ -6,14 +6,14 @@ aliases:
   - ESF Hong Kong
 summary: "香港最大英语学校体系，从英国国民学校（限 10% 本地华人）转型为 40%–50% 本地华人学生，改变了学生认同与语言课程"
 type: fact
-subtype: event
+subtype: organization
 region: hong-kong
 fact_region: "hong-kong"
-fact_kind: "event"
+fact_kind: "organization"
 fact_related_count: 9
 fact_related_level: 1
 fact_related_stars: "⭐"
-fact_related_color: "#fef3c7"
+fact_related_color: "#dcfce7"
 tags:
 - region/hong-kong
 - level/k12

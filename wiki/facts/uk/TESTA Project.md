@@ -7,14 +7,14 @@ aliases:
   - Transforming the Experience of Students Through Assessment
 summary: "英国全国教学奖学金计划资助的研究与变革项目，通过全课程视角的评价审计揭示了学分模块化导致的“过度考核”与形成性反馈缺失危机，倡导整合性大作业与全程式促学评价。"
 type: fact
-subtype: event
+subtype: program
 region: uk
 fact_region: "uk"
-fact_kind: "event"
+fact_kind: "program"
 fact_related_count: 8
 fact_related_level: 1
 fact_related_stars: "⭐"
-fact_related_color: "#fef3c7"
+fact_related_color: "#ede9fe"
 tags:
   - policy/higher-education
   - region/uk

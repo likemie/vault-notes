@@ -5,14 +5,14 @@ aliases:
   - OCESCE
 summary: "牛津大学教育系与欧洲委员会合作开展的高中课程与考试比较项目，通过成员国制度资料、出版研究系列和学科专家网络，为国际文凭的课程选择、考试设计与早期考官队伍提供知识基础。"
 type: fact
-subtype: project
+subtype: program
 region: europe
 fact_region: "europe"
-fact_kind: "project"
+fact_kind: "program"
 fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
-fact_related_color: "#e5e7eb"
+fact_related_color: "#ede9fe"
 tags:
   - region/europe
   - theme/comparative-education

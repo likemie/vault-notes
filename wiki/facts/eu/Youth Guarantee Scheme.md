@@ -5,14 +5,14 @@ aliases:
   - EU Youth Guarantee
 summary: "EU 2013 年理事会建议书，确保青年在离校或失业后 4 个月内获得就业、教育、培训或学徒机会"
 type: fact
-subtype: policy
+subtype: program
 region: eu
 fact_region: "eu"
-fact_kind: "policy"
+fact_kind: "program"
 fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
-fact_related_color: "#dbeafe"
+fact_related_color: "#ede9fe"
 issuing_organization: ''
 tags:
 - region/eu

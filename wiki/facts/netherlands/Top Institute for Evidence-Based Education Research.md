@@ -5,14 +5,14 @@ aliases:
   - 荷兰证据本位教育研究顶尖研究所
 summary: "2008年荷兰多校合作建立的跨大学研究所，通过实验评价、元分析、知识传播和教师学院连接教育研究、政策与学校实践。"
 type: fact
-subtype: policy
+subtype: organization
 region: netherlands
 fact_region: "netherlands"
-fact_kind: "policy"
+fact_kind: "organization"
 fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: ""
-fact_related_color: "#dbeafe"
+fact_related_color: "#dcfce7"
 issuing_organization: Maastricht University, University of Amsterdam, University of Groningen
 tags:
   - region/netherlands
