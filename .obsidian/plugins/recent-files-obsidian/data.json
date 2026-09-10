@@ -5,6 +5,14 @@
       "path": "wiki/arguments/journal-articles/Cognition and Instruction/Argument_Duncan_2025_CI.md"
     },
     {
+      "basename": "Epistemic Ideals",
+      "path": "wiki/concepts/educational-psychology/Epistemic Ideals.md"
+    },
+    {
+      "basename": "Clark A. Chinn",
+      "path": "wiki/persons/us/Clark A. Chinn.md"
+    },
+    {
       "basename": "Justificatory Standards",
       "path": "wiki/concepts/educational-psychology/Justificatory Standards.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "Epistemic Value",
       "path": "wiki/concepts/educational-psychology/Epistemic Value.md"
-    },
-    {
-      "basename": "Epistemic Ideals",
-      "path": "wiki/concepts/educational-psychology/Epistemic Ideals.md"
     },
     {
       "basename": "Epistemic Aims",
@@ -195,10 +199,6 @@
     {
       "basename": "Epoché",
       "path": "wiki/concepts/research-methodology/Epoché.md"
-    },
-    {
-      "basename": "Rich and Thick Description",
-      "path": "wiki/concepts/research-methodology/Rich and Thick Description.md"
     }
   ],
   "omittedPaths": [],

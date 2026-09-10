@@ -7,10 +7,10 @@ aliases:
 summary: "在认识论认知模型中，个体或共同体在评价知识主张、证据可信度与理论解释时所依据的细粒度准则，涵盖个体认知试探法与共同体社会协商的实践规范。"
 type: concept
 domain: "educational-psychology"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 26
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/epistemic-cognition
   - theme/argumentation
@@ -83,7 +83,7 @@ updated: 2026-09-10
 > [!contrast-table] 确证标准与相关[[Epistemology|认识论]]构件辨析
 > | 维度 | [[Justificatory Standards]]（确证标准） | [[Epistemological Beliefs]]（认识论信念） | [[Reliable Epistemic Processes]]（可靠认识论过程） |
 > |---|---|---|---|
-> | 颗粒度 | 微观具体，高度[[Operationalization\|操作化]] | 宏观抽象，跨领域概括 | 具体的因果操作流程与方法规程 |
+> | 分析层次与特异性 | 微观具体，高度[[Operationalization\|操作化]] | 宏观抽象，跨领域概括 | 具体的因果操作流程与方法规程 |
 > | 考察核心 | 判定知识是否成立的质性准则 | 对知识性质与来源的总体主观信念 | 生成与采集可靠数据的实践动作 |
 > | 典型表征 | 要求双盲对照、多源证据收敛、机制直接性 | 认为知识是复杂的、认为真理是相对的 | 实施随机双盲实验、规范抽样、系统观察 |
 
@@ -164,7 +164,7 @@ updated: 2026-09-10
 > - **1990–1997 — 宏观多维信念归并** Schommer (1990) 与 [[Argument_Hofer_1997_RER|Hofer & Pintrich (1997)]] 将“知识的证成（Justification of knowledge）”列为[[Epistemological Beliefs|认识论信念]]的核心维度之一，但测量多停留在脱域的抽象[[Questionnaire|问卷]]题项。
 > - **2011 — 扩展[[Epistemic Cognition|认识论认知]]与细粒度转向** Chinn 等学者解构了粗放的证成信念，提出实证、非实证与证词三大类细粒度确证标准，确立了其微观黑盒地位。[[Argument_Chinn_2011_EP|(Chinn et al., 2011)]]
 > - **2016 — 社会情境转向与多层整合** Sandoval 等学者强调确证标准的[[Domain Specificity|学科特异性]]、情境动态切换性以及在群体互动流中的社会协商本质。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016)]]
-> - **2025 — 论证评价具象化与[[Epistemology|认识论]]实质确立** Duncan & Chinn 将确证标准进一步[[Operationalization|操作化]]为观察与证据整合实践中的规范[[Epistemic Ideals|认识论理想]]模板，完成了从信念描述到学科探究实践质性评价的理论跨越。[[Argument_Duncan_2025_CI|(Duncan & Chinn, 2025)]]
+> - **2025 — 论证评价具象化与[[Epistemology|认识论]]实质确立** Duncan & Chinn 将确证标准进一步[[Operationalization|操作化]]为观察与证据整合实践中的规范[[Epistemic Ideals|认识论理想]]模板，完成了从脱域信念描述到学科探究实践质性评价的理论深化与操作化拓展。[[Argument_Duncan_2025_CI|(Duncan & Chinn, 2025)]]
 
 ---
 
