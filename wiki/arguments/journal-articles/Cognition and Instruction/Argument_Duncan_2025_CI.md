@@ -128,7 +128,7 @@ issuing_organization: ""
 > |---|---|
 > | **书面论证文本分析**<br>Written Argumentation Analysis | 采用质性质证法深入分析七年级学生在人类是否存在人类免疫缺陷病毒（Human Immunodeficiency Virus, HIV）遗传抗性议题中撰写的论辩短文，系统识别文本中隐含或明示的[[Epistemic Ideals\|认识论理想]]及对证据生成规程的评判。（pp. 212–216） |
 > | **口头话语分析**<br>[[Discourse Analysis]] | 运用质性话语分析，对格陵兰生态系统食物网探究课堂中围绕弱证据展开的师生及生生[[Dialogue in Education\|对话]]进行逐轮[[Transcription in Qualitative Research\|转录]]分析，考察口头辩论中[[Emergence\|涌现]]的过程[[Reliability\|可靠性]]审视。（pp. 216–218） |
-> | **理论对质与比较分析**<br>Comparative Theoretical Analysis | 系统剖析气候变暖否定论与反疫苗宣传文本在图尔敏结构与[[Epistemology\|认识论]]实质上的背离，并与[[Jack Douglas\|道格拉斯]]·沃尔顿（Douglas Walton）的论证型式及维克多·桑普森（Victor Sampson）等人的课堂评价方案进行理论对质。（pp. 203–206, 223–225） |
+> | **理论对质与比较分析**<br>Comparative Theoretical Analysis | 系统剖析气候变暖否定论与反疫苗宣传文本在图尔敏结构与[[Epistemology\|认识论]]实质上的背离，并与道格拉斯·沃尔顿（Douglas Walton）的论证型式及维克多·桑普森（Victor Sampson）等人的课堂评价方案进行理论对质。（pp. 203–206, 223–225） |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
