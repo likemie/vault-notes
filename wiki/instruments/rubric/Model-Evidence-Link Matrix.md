@@ -7,9 +7,9 @@ aliases:
 summary: "一种用于科学教育中支持学生协调相互竞争的科学模型与经验证据的认知脚手架工具，引导学生评估证据对模型的支持、矛盾或无关关联。"
 type: instrument
 instrument_type: rubric
-instrument_related_count: 10
-instrument_related_level: 2
-instrument_related_stars: "⭐⭐"
+instrument_related_count: 8
+instrument_related_level: 1
+instrument_related_stars: "⭐"
 instrument_related_color: "#ffedd5"
 part_of: ""
 developers:
