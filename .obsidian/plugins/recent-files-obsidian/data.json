@@ -5,6 +5,18 @@
       "path": "wiki/arguments/journal-articles/Cognition and Instruction/Argument_Duncan_2025_CI.md"
     },
     {
+      "basename": "Reliable Epistemic Processes",
+      "path": "wiki/concepts/educational-psychology/Reliable Epistemic Processes.md"
+    },
+    {
+      "basename": "21st Century Skills and Competencies Discourse",
+      "path": "wiki/concepts/educational-policy-reform/21st Century Skills and Competencies Discourse.md"
+    },
+    {
+      "basename": "Epistemic Ideals",
+      "path": "wiki/concepts/educational-psychology/Epistemic Ideals.md"
+    },
+    {
       "basename": "CALLOUTS",
       "path": "wiki/templates/CALLOUTS.md"
     },
@@ -117,10 +129,6 @@
       "path": "wiki/concepts/educational-policy-reform/Analytical Stance.md"
     },
     {
-      "basename": "21st Century Skills and Competencies Discourse",
-      "path": "wiki/concepts/educational-policy-reform/21st Century Skills and Competencies Discourse.md"
-    },
-    {
       "basename": "template-instrument",
       "path": "wiki/templates/template-instrument.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Qualitative Research",
       "path": "wiki/methods/qualitative/Qualitative Research.md"
-    },
-    {
-      "basename": "Quantitative Research",
-      "path": "wiki/methods/quantitative/Quantitative Research.md"
-    },
-    {
-      "basename": "John W. Creswell",
-      "path": "wiki/persons/us/John W. Creswell.md"
     }
   ],
   "omittedPaths": [],
