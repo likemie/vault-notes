@@ -6,7 +6,7 @@ aliases:
   - active learning model
 summary: "由批判教育学与实用主义提出的三环节课程模型，主张主动学习必须由批判性思维、对话与指向变革不公的实践成长（Praxis）共同构成"
 type: concept
-domain: "educational-philosophy"
+domain: "instruction-pedagogy"
 related_count: 13
 related_level: 1
 related_stars: "⭐"

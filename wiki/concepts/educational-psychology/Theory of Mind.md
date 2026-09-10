@@ -5,7 +5,7 @@ aliases:
   - ToM
 summary: "个体理解自己和他人具有不同心理状态（如信念、欲望、意图），且这些状态可能与客观现实不符的认知能力，被视为认识论认知发展的重要前置基础。"
 type: concept
-domain: "developmental-psychology"
+domain: "educational-psychology"
 related_count: 5
 related_level: 0
 related_stars: "☆"

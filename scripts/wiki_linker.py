@@ -22,6 +22,7 @@ EXCLUDE_FILENAMES = {
     "index.json",
     "manifest.md",
     "manifest.json",
+    "research-map.md",
 }
 
 # A conservative skip list for generated/source-like areas. This is structural,

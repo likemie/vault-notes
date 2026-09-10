@@ -8,7 +8,7 @@ aliases:
   - 专业敏感取向
 summary: "立足教师专业实践特征与复杂知识库的研究使用新范式，强调将研究证据视为与经验、情境及专业规范动态整合的多元资源之一，确立教师的专业能动性"
 type: concept
-domain: "teaching-teacher-education"
+domain: "teacher-education"
 related_count: 20
 related_level: 2
 related_stars: "⭐⭐"

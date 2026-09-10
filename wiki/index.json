@@ -1541,46 +1541,6 @@
     ]
   },
   {
-    "title": "Theory of Mind",
-    "type": "concept",
-    "path": "wiki/concepts/developmental-psychology/Theory of Mind.md",
-    "aliases": [
-      "心智理论",
-      "ToM"
-    ]
-  },
-  {
-    "title": "EST Integrated Development",
-    "type": "concept",
-    "path": "wiki/concepts/education-economics/EST Integrated Development.md",
-    "aliases": [
-      "教育科技人才一体化发展",
-      "Education-Science-Technology-Talent Integration",
-      "EST一体化"
-    ]
-  },
-  {
-    "title": "New Quality Productive Forces",
-    "type": "concept",
-    "path": "wiki/concepts/education-economics/New Quality Productive Forces.md",
-    "aliases": [
-      "新质生产力",
-      "new quality productive forces",
-      "xin zhi sheng chan li"
-    ]
-  },
-  {
-    "title": "Total Factor Productivity",
-    "type": "concept",
-    "path": "wiki/concepts/education-economics/Total Factor Productivity.md",
-    "aliases": [
-      "全要素生产率",
-      "TFP",
-      "multi-factor productivity",
-      "Solow residual"
-    ]
-  },
-  {
     "title": "Absorptive Capacity",
     "type": "concept",
     "path": "wiki/concepts/educational-leadership-administration/Absorptive Capacity.md",
@@ -1660,16 +1620,6 @@
     "path": "wiki/concepts/educational-leadership-administration/Transformative Leadership.md",
     "aliases": [
       "变革型领导力"
-    ]
-  },
-  {
-    "title": "Active Learning",
-    "type": "concept",
-    "path": "wiki/concepts/educational-philosophy/Active Learning.md",
-    "aliases": [
-      "主动学习",
-      "active learning",
-      "active learning model"
     ]
   },
   {
@@ -1883,20 +1833,6 @@
       "disciplina",
       "doctrina",
       "规训"
-    ]
-  },
-  {
-    "title": "Educational Neuroscience",
-    "type": "concept",
-    "path": "wiki/concepts/educational-philosophy/Educational Neuroscience.md",
-    "aliases": [
-      "教育神经科学",
-      "brain-based education",
-      "脑科学教育",
-      "brain-based approaches",
-      "基于脑的教育",
-      "neuroscience in education",
-      "brain science"
     ]
   },
   {
@@ -3506,6 +3442,15 @@
     "aliases": [
       "理论性知识",
       "理论知识"
+    ]
+  },
+  {
+    "title": "Theory of Mind",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Theory of Mind.md",
+    "aliases": [
+      "心智理论",
+      "ToM"
     ]
   },
   {
@@ -5144,6 +5089,16 @@
     ]
   },
   {
+    "title": "Active Learning",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Active Learning.md",
+    "aliases": [
+      "主动学习",
+      "active learning",
+      "active learning model"
+    ]
+  },
+  {
     "title": "Anchored Instruction",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Anchored Instruction.md",
@@ -5910,6 +5865,20 @@
     ]
   },
   {
+    "title": "Educational Neuroscience",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Educational Neuroscience.md",
+    "aliases": [
+      "教育神经科学",
+      "brain-based education",
+      "脑科学教育",
+      "brain-based approaches",
+      "基于脑的教育",
+      "neuroscience in education",
+      "brain science"
+    ]
+  },
+  {
     "title": "Educative Conceptual Change",
     "type": "concept",
     "path": "wiki/concepts/learning-science-cognitive-science/Educative Conceptual Change.md",
@@ -6475,6 +6444,16 @@
     ]
   },
   {
+    "title": "EST Integrated Development",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/EST Integrated Development.md",
+    "aliases": [
+      "教育科技人才一体化发展",
+      "Education-Science-Technology-Talent Integration",
+      "EST一体化"
+    ]
+  },
+  {
     "title": "Fictitious Commodity of Knowledge",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Fictitious Commodity of Knowledge.md",
@@ -6809,6 +6788,16 @@
     ]
   },
   {
+    "title": "New Quality Productive Forces",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/New Quality Productive Forces.md",
+    "aliases": [
+      "新质生产力",
+      "new quality productive forces",
+      "xin zhi sheng chan li"
+    ]
+  },
+  {
     "title": "One Country, Two Systems",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/One Country, Two Systems.md",
@@ -7053,6 +7042,17 @@
       "vertical structures",
       "state vertical",
       "垂直行政结构"
+    ]
+  },
+  {
+    "title": "Total Factor Productivity",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Total Factor Productivity.md",
+    "aliases": [
+      "全要素生产率",
+      "TFP",
+      "multi-factor productivity",
+      "Solow residual"
     ]
   },
   {
@@ -10846,6 +10846,18 @@
     ]
   },
   {
+    "title": "Profession-Sensitive Conceptualisations of Research Use",
+    "type": "concept",
+    "path": "wiki/concepts/teacher-education/Profession-Sensitive Conceptualisations of Research Use.md",
+    "aliases": [
+      "专业敏感型研究使用概念化",
+      "专业敏感型研究使用",
+      "profession-sensitive conceptualisations",
+      "profession-sensitive research use",
+      "专业敏感取向"
+    ]
+  },
+  {
     "title": "Research Literacy",
     "type": "concept",
     "path": "wiki/concepts/teacher-education/Research Literacy.md",
@@ -10864,6 +10876,17 @@
     ]
   },
   {
+    "title": "Teacher Knowledge Base",
+    "type": "concept",
+    "path": "wiki/concepts/teacher-education/Teacher Knowledge Base.md",
+    "aliases": [
+      "教师知识库",
+      "教师知识基础",
+      "teachers’ knowledge base",
+      "教师专业知识库"
+    ]
+  },
+  {
     "title": "Teacher Professional Agency",
     "type": "concept",
     "path": "wiki/concepts/teacher-education/Teacher Professional Agency.md",
@@ -10873,29 +10896,6 @@
       "教师专业能动性",
       "professional agency",
       "teacher agency"
-    ]
-  },
-  {
-    "title": "Profession-Sensitive Conceptualisations of Research Use",
-    "type": "concept",
-    "path": "wiki/concepts/teaching-teacher-education/Profession-Sensitive Conceptualisations of Research Use.md",
-    "aliases": [
-      "专业敏感型研究使用概念化",
-      "专业敏感型研究使用",
-      "profession-sensitive conceptualisations",
-      "profession-sensitive research use",
-      "专业敏感取向"
-    ]
-  },
-  {
-    "title": "Teacher Knowledge Base",
-    "type": "concept",
-    "path": "wiki/concepts/teaching-teacher-education/Teacher Knowledge Base.md",
-    "aliases": [
-      "教师知识库",
-      "教师知识基础",
-      "teachers’ knowledge base",
-      "教师专业知识库"
     ]
   },
   {

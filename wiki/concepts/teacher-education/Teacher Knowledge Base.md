@@ -7,7 +7,7 @@ aliases:
   - 教师专业知识库
 summary: "教师在教育教学实践中所依托的多元复合知识体系，涵盖学科知识、学科教学知识、实践智慧、学情认知与育人伦理，强调在情境中对多源知识进行动态整合与审慎裁决"
 type: concept
-domain: "teaching-teacher-education"
+domain: "teacher-education"
 related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
