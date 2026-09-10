@@ -5,6 +5,14 @@
       "path": "wiki/arguments/journal-articles/Cognition and Instruction/Argument_Duncan_2025_CI.md"
     },
     {
+      "basename": "Blinding",
+      "path": "wiki/concepts/research-methodology/Blinding.md"
+    },
+    {
+      "basename": "Epistemological Understanding",
+      "path": "wiki/concepts/educational-psychology/Epistemological Understanding.md"
+    },
+    {
       "basename": "Epistemic Ideals",
       "path": "wiki/concepts/educational-psychology/Epistemic Ideals.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Heterogeneity",
       "path": "wiki/concepts/research-methodology/Heterogeneity.md"
-    },
-    {
-      "basename": "Indexicality",
-      "path": "wiki/concepts/research-methodology/Indexicality.md"
-    },
-    {
-      "basename": "Epoché",
-      "path": "wiki/concepts/research-methodology/Epoché.md"
     }
   ],
   "omittedPaths": [],
