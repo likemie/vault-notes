@@ -65,7 +65,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1908–1988
 > - **身份位置** 英国教育家（1908–1988），牛津大学教育系主任、教授；[[International Baccalaureate|国际文凭]]组织（IBO）首任总干事（1968–1977）。
 > - **核心角色** 参与[[Founding of Atlantic College|大西洋学院创办]]及其学术课程设计，随后成为国际文凭预科项目（[[IB Diploma Programme]]）与[[Theory of Knowledge|知识论]]（TOK）课程的核心奠基人与总建筑师。
 > - **代表贡献** 把跨国共同教育面临的课程与大学资格承认问题转化为国际文凭制度，并提出“教育在于思维过程而非知识内容”的[[General Education|通识教育]]观。

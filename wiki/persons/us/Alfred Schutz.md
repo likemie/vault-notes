@@ -62,7 +62,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1899–1959
 > - **身份位置** 奥地利裔美国哲学家、社会学家，[[Phenomenology|现象学]]社会学（Phenomenological Sociology）与存在现象学（Existential Phenomenology）开山奠基人，曾执教于纽约新社会研究学院（New School for Social Research）。
 > - **核心角色** 将[[Edmund Husserl|埃德蒙德·胡塞尔]]（[[Edmund Husserl]]）的先验现象学[[Creativity|创造性]]地[[Transfer Translation Transformation|转译]]引入社会学领域，致力于对人类社会行动进行严格的科学探究。舒茨将日常生活世界的意义结构置于核心，确立了行动者在微观互动中如何建构现实的理论大厦，成为社会科学[[Interpretive Paradigm|诠释范式]]与[[Qualitative Research|质性研究]]最根本的理论支柱之一。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, Ch. 1]]
 > - **代表贡献** 提出日常生活世界现象学分析、意识流与回顾性[[Reflexivity|反思性]]概念、常识[[Typification|类型化]]（Typification）图式以及多重实在（Multiple Realities）理论。

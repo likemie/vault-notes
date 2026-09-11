@@ -55,7 +55,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** c. 1961–至今
 > - **身份位置** 美国教育心理学家，罗格斯大学（Rutgers University）教育研究生院教授，国际学习科学学会（ISLS）重要成员，教育心理学与学习科学交叉领域的领军学者。
 > - **核心角色** [[Epistemic Cognition|认识论认知]]理论当代重构的奠基者与领航者。他系统打破了将个人[[Epistemology|认识论]]局限于抽象信念维度的传统传统，将当代哲学认识论中的自然主义、[[Reliabilism|可靠主义]]与[[Virtue Epistemology|美德认识论]]全面引入教育研究，创立了著名的 [[AIR Model of Epistemic Cognition|AIR]] 认识论认知模型。
 > - **代表贡献** 创立 [[AIR Model of Epistemic Cognition]]；主导研发促进科学推理与概念转变的 [[PRACCIS]] 探究课程项目；开拓基于[[Epistemic Ideals|认识论理想]]与[[Reliable Epistemic Processes|可靠过程]]的科学论证评价体系。

@@ -48,7 +48,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1934–至今
 > - **身份位置** Norberto Bottani 是[[International Education|国际教育]]指标开发史上的关键人物。拥有瑞士弗里堡大学（University of Fribourg）哲学系教育硕士学位，自 1976 年起在 [[OECD]] 以多种职务任职([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.5]])。
 
 ## 核心思想

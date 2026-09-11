@@ -27,6 +27,7 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Mediatised Governance]]"
   - "[[Rashomon Effect]]"
+  - "[[Media Logic]]"
   - "[[Rationalism in International Relations]]"
   - "[[International Schools]]"
   - "[[IB Diploma Programme]]"
@@ -52,7 +53,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1951–至今
 > - **身份位置** Paul Morris 是伦敦大学学院（UCL）教育与社会学院（Institute of Education, Department of Education, Practice and Society）的教授。他长期从事比较教育和课程研究，特别专注于香港教育政策、课程变革和公民教育的政治分析。他是以批判视角分析香港后殖民教育政治的最多产学者之一。
 
 ## 核心思想
@@ -64,7 +64,7 @@ updated: 2026-09-11
 >
 > 2. **威权国家主义与教育的国安化** 在后 2019 香港语境下，教育从社会流动的工具转变为国家安全和民族建构的手段。Morris and Vickers 合作，分析了《国安法》如何加速了香港教育的"大陆化"。（Vickers & Morris, 2022）
 >
-> 3. **[[Mediatised Governance|媒介化治理]]与 PISA 的多重真实** 揭示跨国大规模评估数据进入国内公共领域后所触发的“[[Rashomon Effect|罗生门效应]]”；本土政客运用“遗漏话语”与危机修辞扭曲国际报告，而大众媒体依循自身的媒介逻辑建构“水平下降”叙事并规避具体政策审查，共同催生了媒介化治理形态。（[[Argument_Grey_2018_CE|Grey & Morris, 2018]]）
+> 3. **[[Mediatised Governance|媒介化治理]]与 PISA 的[[Rashomon Effect|多重真实]]** 揭示跨国大规模评估数据进入国内公共领域后所触发的“[[Rashomon Effect|罗生门效应]]”；本土政客运用“遗漏话语”与危机修辞扭曲国际报告，而大众媒体依循自身的[[Media Logic|媒介逻辑]]建构“水平下降”叙事并规避具体政策审查，共同催生了媒介化治理形态。（[[Argument_Grey_2018_CE|Grey & Morris, 2018]]）
 >
 > > "The strain of holding together a society shot through with profound divisions of class, residency, culture and ethnicity falls largely upon schooling and propaganda, backed up by repressive violence." (Vickers & Morris, 2022, p. 47，引自 [[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 483]])
 
@@ -74,7 +74,7 @@ updated: 2026-09-11
 > - [[Policy Borrowing]] — 与 Steiner-Khamsi 的政策借用框架保持一致，以香港为案例深化了对"借用"政治性的理解
 > - [[Liberal Studies]] — 与 Yan 合作的 2025 年论文是 LS 兴衰的权威分析
 > - **[[PISA]] 的政治解读** — Auld & Morris (2016) 揭示了 PISA 如何通过"翻译和说服"将复杂的教育条件转化为跨国"最佳实践"
-> - **[[Mediatised Governance|媒介化治理]]与评估数据的[[Rashomon Effect|罗生门效应]]** — [[Argument_Grey_2018_CE|Grey & Morris (2018)]] 论证了跨国教育治理在英格兰如何被媒体逻辑与政治修辞重构为危机治理，揭示媒体在规避政策细则的同时消解了第四权力审查职能
+> - **[[Mediatised Governance|媒介化治理]]与评估数据的[[Rashomon Effect|罗生门效应]]** — [[Argument_Grey_2018_CE|Grey & Morris (2018)]] 论证了跨国教育治理在英格兰如何被[[Media Logic|媒体逻辑]]与政治修辞重构为危机治理，揭示媒体在规避政策细则的同时消解了第四权力审查职能
 > - **香港教育的批判性历史** — Morris & Adamson (2010) 系统梳理了香港从殖民地到回归后的课程政治
 > - **国家安全的课程后果** — Vickers & Morris (2022) 最早将《国安法》与课程变革直接联系起来
 > - [[Transnationalism and America Project SYSU]] — Morris 的教育四象限（学术[[Rationalism in International Relations|理性主义]]、社会经济效率、儿童中心、社会重建）被 Schmidt (2010) 在 [[Argument_Ryan_2010_HKUP|Ryan & Slethaug (2010)]] 中用于论证香港[[International Schools|国际学校]]价值观为本课程的理论定位

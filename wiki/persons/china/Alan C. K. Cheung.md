@@ -83,7 +83,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** c. 1970–至今
 > - **身份位置** 香港中文大学（The Chinese University of Hong Kong）教育学院教授、教育行政与政策学系系主任，前美国约翰霍普金斯大学（Johns Hopkins University）[[Evidence-Based Education|证据本位教育]]改革中心（CRRE）资深研究员。
 > - **核心角色** 华语世界与国际循证教育（Evidence-Based Education）[[Dialogue in Education|对话]]的核心学术桥梁，[[Robert Slavin]] 的长期核心学术合作者；早期致力于大规模教育[[Randomised Controlled Trials|随机对照试验]]（RCT）与循证改革的跨国引介，近年来成为引领新兴[[Generative Artificial Intelligence|生成式人工智能]]（Gen-AI）教育干预[[Meta-analysis|元分析]]标准与教育技术公平评价的前沿学者。
 > - **代表贡献** 推动[[Best Evidence Encyclopedia|最佳证据百科全书]]（[[Best Evidence Encyclopedia|BEE]]）与 [[Best Evidence in Brief|BEiB]] 华语网络建设；与 Slavin 合作系统总结大规模实验证据标准（Slavin & Cheung, 2017）；在高等教育生成式 AI 评价中确立基线等效控制标准并提出[[Marginal Gains Hypothesis|边际效益假说]]（[[Argument_Chen_Cheung_2025_ERR|Chen & Cheung, 2025]]）。

@@ -77,7 +77,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1920–1983
 > - **身份位置** 美籍波兰裔比较教育学家、法学家，哥伦比亚大学[[Normal School|师范学院]]（Teachers College, Columbia University）比较教育学讲座教授，[[Comparative and International Education Society|比较与国际教育学会]]（CIES）前身美国比较教育学会早期会长（1961–1962），学科旗舰期刊《比较教育评论》（*Comparative Education Review*, CER）创刊主编（1957–1968）。
 > - **核心角色** 20 世纪 50 至 60 年代比较教育学从历史主义学派向[[Scientific Paradigm|科学范式]]过渡的关键桥梁学者；率先提出探讨方法论是比较教育教学与研究最紧迫的使命；创立经典的归纳式四步比较法；通过绘制全球院系版图与主编核心期刊，为战后现代比较教育学奠定了专业存在感与职业合法性。
 > - **代表贡献** 著作《教育中的比较方法》（*Comparative Method in Education*, 1964）确立“描述-解释-并列-比较”四步归纳分析程序，将学科目标推向探寻“所有教育体制据以构建的内在普遍力量”；创办并主持 CER 奠定学科公认同行评审阵地；与[[Joseph Lauwerys|约瑟夫·劳韦里斯]]（Joseph Lauwerys）联合主持《世界教育年鉴》（*World Year Book of Education*），构筑战后跨国思想立交桥。

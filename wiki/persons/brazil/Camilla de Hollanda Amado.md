@@ -44,7 +44,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1938–2021
 > - **身份位置** Camilla de Hollanda Amado（1941–2021）是巴西著名女演员和剧场导演。她与 [[Dell Delambre]] 共同创立了 Bora Bora em Bando 项目——一个旨在为里约热内卢 Rocinha 贫民窟的剧场团体 Bando Cultural Favelados da Rocinha 争取社会可见度和文化认可的文化行动项目。她的梦想是看到贫民窟知识被用于国家发展([[Argument_Delambre_2022_Springer|Delambre, 2022, p.110]])。
 
 > Amado 代表了一种从巴西文化体制内部推动变革的力量——作为体制认可的著名演员和剧场导演，她运用自身的[[Cultural Capital|文化资本]]和制度资源，为贫民窟的 [[Epistemology of Resistance|抵抗认识论]] 实践争取被更广泛社会看见的机会。这种体制内外的张力连接，被 [[Dell Delambre]] 在 [[Creative Tension of Sense]] 和 [[Ganz-Methode]] 中分析为局部与全球的来回审视在文化领域的具体呈现([[Argument_Delambre_2022_Springer|Delambre, 2022, p.110, 117]])。

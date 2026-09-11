@@ -82,7 +82,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1925–2019
 > - **身份位置** 美籍英裔比较教育学家、教育经济学家，哥伦比亚大学[[Normal School|师范学院]]（Teachers College, Columbia University）经济学与教育学讲座教授、前院长，美国[[Comparative and International Education Society|比较与国际教育学会]]（Comparative and [[International Education]] Society, CIES）前会长（1976–1977）。
 > - **核心角色** 20 世纪下半叶比较教育学[[Positivism|实证主义]]与科学化[[Paradigm|范式]]（[[Scientific Paradigm]]）的核心旗手；与[[Max Eckstein|马克斯·埃克斯坦]]（Max Eckstein）组[[Growth|成长]]期合作的学术双子星，系统推动学科从历史-哲学定性描述向跨国定量测量与假说检验转型。
 > - **代表贡献** 与 Eckstein 合著《走向比较教育科学》（*Toward a Science of Comparative Education*, 1969），以清晰严密的逻辑勾勒学科源流，确立跨国实证科学规范；推动教育经济学与量化评价融入比较教育核心议程。

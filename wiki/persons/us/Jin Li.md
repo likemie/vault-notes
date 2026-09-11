@@ -77,7 +77,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1957–至今
 > - **身份位置** 李瑾（Jin Li），华人教育研究者，布朗大学（Brown University）教授。其研究聚焦于东亚与西方文化中学习模型的比较，通过追踪各自的知识传统与文化信念，揭示不同文化如何塑造儿童的学习信念与学习过程。代表作《Cultural Foundations of Learning: East and West》（2012）由剑桥大学出版社出版。
 
 ---

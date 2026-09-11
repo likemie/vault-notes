@@ -74,7 +74,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1927–1998
 > - **身份位置** 德国社会学家，比勒费尔德大学社会学终身教授，社会[[Luhmann's Systems Theory|系统理论]]与[[Radical Constructivism|激进建构主义]]理论家，20 世纪后半叶最具原创性与体系性的宏大社会理论大师之一。
 > - **核心角色** 在现代社会学、教育哲学、比较教育学与政策社会学中，为解构社会功能系统的自指性运作（Self-referential operations）、教学与学习的根本[[Incommensurability|不可通约性]]、教育的技术赤字以及跨国[[Policy Borrowing|政策借用]]中的[[Externalization|外化]]合法化机制提供了深厚而严密的理论底座。
 > - **代表贡献** 创立 卢曼社会系统理论、提出 [[Autopoiesis|自创生]] 沟通系统与 [[Structural Coupling|结构耦合]]、阐发 观察的盲点、提出“教育的技术赤字”（Technologiedefizit）与“外化命题与准外部参照点”（Externalisation thesis）。

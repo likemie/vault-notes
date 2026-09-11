@@ -73,7 +73,6 @@ updated: 2026-09-11
 亨利·巴纳德（Henry Barnard, 1811–1900）是 19 世纪美利坚合众国最具国际声誉的教育家、[[Document|文献]]学家、行政管理者，以及美国历史上首任联邦教育专员（United States Commissioner of Education）。他与[[Horace Mann|霍勒斯·曼]]（Horace Mann）并称为 19 世纪美国公学复兴运动的两大支柱。
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1811–1900
 > - **身份位置** 美国首任联邦教育专员、康涅狄格州与罗得岛州公共教育督办首脑、《美国教育杂志》创办人与主编；19 世纪外国教育调查与文献汇纂的集大成者。
 > - **核心角色** 在比较教育学科史上，巴纳德是将早期“[[Auslandspadagogik|外国教育学]]”从零星的旅行见闻推向系统化、百科全书式历史描述与教育[[Ethnography|民族志]]记录的枢纽人物。
 > - **代表贡献** 编纂出版两卷本跨国教育宏篇巨著《国民教育》（《[[National Education in Europe|欧洲国民教育]]》（*[[National Education]] in Europe*）），并独立创办主持长达 31 卷的《美国教育杂志》（*American Journal of Education*），筑就了近代西方教育史料最完备的客观档案库。

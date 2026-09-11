@@ -42,7 +42,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1925–2021
 > - **身份位置** Albert Bandura（1925–2021），加拿大裔美国心理学家，斯坦福大学教授，[[Social Learning Theory|社会学习理论]]（后演化为社会认知理论）的创立者。他提出认知、行为和环境三者之间的交互[[Determinism|决定论]]（reciprocal determinism），并发展了[[Self-Efficacy|自我效能]]（self-efficacy）概念。Bandura 是社会认知理论的奠基人，在 20 世纪最具影响力的心理学家中排名前列。
 
 ## 主要著作

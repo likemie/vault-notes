@@ -41,7 +41,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1944–至今
 > - **身份位置** Ann Swidler（安·斯威德勒），美国文化社会学家，以 1986 年在《美国社会学评论》（*American Sociological Review*）上发表的论文 *Culture in Action: Symbols and Strategies* 提出[[Culture as Toolkit|文化工具箱]]理论（Culture as Toolkit）而著称。该理论成为文化社会学领域与 Weber-Parsons 价值观驱动[[Paradigm|范式]]并立的经典范式。[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]以该理论作为"大学过程"[[Analytic Framework|分析框架]]的核心理论支柱之一。
 
 ## 生平与职涯

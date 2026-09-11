@@ -80,7 +80,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1950–2021
 > - **身份位置** 美国约翰霍普金斯大学（Johns Hopkins University）教育研究与改革中心（CRRE）主任，教育心理学家，2018 年美国心理学会（[[APA Style|APA]]）第 15 分会 **E. L. Thorndike 终身成就奖** 获得者。
 > - **核心角色** 当代**[[Evidence-Based Education|证据本位教育]]改革（EBR）运动的最核心倡导者与奠基人**，[[Success for All]] 整体学校改革联合创始人；推动教育实证研究摆脱“主观时尚钟摆”，确立以医学[[Clinical Trial|临床试验]]为蓝本的[[Causality|因果推断]]、实验评估与[[Meta-analysis|元分析]]标准体系。
 > - **代表贡献** 创立全美实施规模最大的循证阅读项目之一 [[Success for All]]；创办[[Best Evidence Encyclopedia|最佳证据百科全书]]（[[Best Evidence Encyclopedia|BEE]]）与 Evidence for ESSA 平台；确立元分析方法学准入标准（[[Sample Size Determination|样本量]] $\ge 15$、基线等效 $d < 0.25$、严禁自利性测验）（Slavin & Smith, 2009; Cheung & Slavin, 2013, 2016）；深远影响了包括 [[Argument_Chen_Cheung_2025_ERR|Chen & Cheung (2025)]] 在内的新一代智能教育循证评价。

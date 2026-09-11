@@ -41,7 +41,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1947–至今
 > - **身份位置** Michael E. Porter，美国经济学家和竞争战略理论家，哈佛商学院教授。以竞争战略、[[National Competitive Advantage|国家竞争优势]]和产业集群理论著称。[[Argument_Moisio_2022_Springer|Moisio (2022)]]在分析[[Knowledge-Based Economization|知识经济化]]的地缘政治维度时，将其 *The Competitive Advantage of Nations*（1990）定位为塑造 Hub and [[Flow]] 想象的关键地缘政治想象来源([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.26–27]])。
 
 ---

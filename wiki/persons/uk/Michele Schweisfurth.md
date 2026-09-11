@@ -45,7 +45,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1965–至今
 > - **身份位置** 英国格拉斯哥大学（University of Glasgow）比较与[[International Education|国际教育]]学教授，曾任英国国际与比较教育学会（BAICE）主席。
 > - **核心角色** 全球以学生为中心教育（[[Learner-Centred Education|LCE]]）与跨国[[Policy Borrowing|政策借用]]研究的关键权威学者。
 > - **代表贡献** 出版奠基专著 *Learner-centred Education in International Perspective*（2013），提出了 LCE 的 7 项最低实施标准（minimum standards）与全球框架。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 588, 601)]]

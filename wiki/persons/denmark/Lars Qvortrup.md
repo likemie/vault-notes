@@ -53,7 +53,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1950–至今
 > - **身份位置** Lars Qvortrup，丹麦奥胡斯大学（Aarhus University）丹麦教育学院（Danish School of Education）国家学校研究中心（National Centre for School Research）教授。他是 [[John Hattie]] 的 [[Visible Learning]] 在丹麦的主要引介者之一——与 Niels Egelund 共同撰写 VL 丹麦语译本导言。
 
 ## 生平与职涯

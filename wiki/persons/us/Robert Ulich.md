@@ -65,7 +65,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1890–1977
 > - **身份位置** 德裔美籍教育史学家、教育哲学家与比较教育学者，哈佛大学教育研究生院（Harvard Graduate School of Education）科南特讲座教授（James Bryant Conant Professor of Education），魏玛共和国时期萨克森州教育部高等教育司司长（Ministerialrat）与德累斯顿工业大学教育学教授。
 > - **核心角色** 比较教育历史-哲学传统中人本主义（Humanism）与古典[[Bildung|教化]]（[[Paideia]]）的集大成者。作为坚定的社会民主主义者，他在 44 岁时断然拒绝妥协纳粹暴政而流亡美国；在哈佛执教二十六载，以深厚的人文底蕴培育了包括[[George Bereday|乔治·贝雷迪]]（George Bereday）、[[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（Andreas Kazamias）、保罗·纳什（Paul Nash）与亨利·珀金森（Henry Perkinson）在内的整整一代战后史学派比较教育领军学者。
 > - **代表贡献** 巨著《国家教育：历史视角下的比较》（*The Education of Nations: A Comparison in Historical Perspective*, 1961）；坚持以“人（anthropos）”为中心的比较哲学；将西方文明史演进与教师人文教育深度整合。

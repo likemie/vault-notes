@@ -43,7 +43,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1944–至今
 > - **身份位置** Grover "Russ" Whitehurst 是 Bush 政府时期（2001–2009）美国教育部教育研究与改进办公室（OERI, Office of Educational Research and Improvement）主任，后任教育科学研究所（IES, Institute of Education Sciences）首任所长。他是将**[[Randomised Controlled Trials|随机对照试验]]（RCT）**确立为联邦教育研究黄金标准的**关键政策执行者**。
 
 ## 核心思想

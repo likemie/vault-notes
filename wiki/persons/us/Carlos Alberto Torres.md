@@ -45,7 +45,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1950–至今
 > - **身份位置** 阿根廷裔[[Critical Pedagogy|批判教育学]]者，加州大学洛杉矶分校（UCLA）教育与社会转型教授，[[Paulo Freire|弗莱雷]]研究所（Paulo Freire Institute）创始主任。
 > - **核心角色** 将[[Paulo Freire|弗莱雷]]的批判教育学传统与[[Participatory Action Research|参与式行动研究]]相结合，为 PAR 提供拉美语境下的政治与[[Epistemology|认识论]]框架。
 > - **代表贡献** 提出参与式行动研究的五项原则（1992），将知识视为社会转型的动因，强调大众参与和意识提升。

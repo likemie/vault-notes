@@ -50,7 +50,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1934–至今
 > - **身份位置** 约翰·比格斯（John Biggs），澳大利亚教育心理学家，以[[Constructive Alignment|建构性对齐]]（Constructive Alignment）和[[SOLO Taxonomy|学习结果结构分类法]]（Structure of the Observed Learning Outcome，SOLO）闻名。其高等教育教学观把质量判断的焦点从学生属性和教师行为转向学生实际从事的学习活动。[[Argument_Biggs_1999_HERD|Biggs (1999, pp. 57–65)]]；[[Argument_Rømer_2018_EPT|Rømer (2018)]] 将其定位为 1990 年代[[Radical Constructivism|激进建构主义]]运动的一部分。
 
 ## 生平与职涯

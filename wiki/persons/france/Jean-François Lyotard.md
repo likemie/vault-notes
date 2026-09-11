@@ -72,7 +72,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1924–1998
 > - **身份位置** 法国[[Post-structuralism|后结构主义]]哲学家、社会学家和文学理论家。
 > - **核心角色** 后现代知识[[Van Leeuwen's Legitimation Theory|合法化理论]]与[[Performativity|绩效性]]（[[Performativity]]）概念的奠基人。在教育研究中，其绩效性概念被广泛用于解释[[Global Policy Space|全球政策空间]]中超国家机构的影响力竞争、评估（如 [[PISA]]）机制与量化绩效管理。
 > - **代表贡献** 提出了后现代的定义（对[[Grand Theory|元叙事]]的怀疑）、绩效性（[[Performativity]]）与[[Narrative Knowledge|叙事知识]]的区分。

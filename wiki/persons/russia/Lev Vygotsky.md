@@ -68,7 +68,6 @@ related_arguments:
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1896–1934
 > - **身份位置** 苏联心理学家、教育心理学家，文化-历史心理学（Cultural-Historical Psychology）奠基人，前帝俄与早期苏联心理学革新者。
 > - **核心角色** 20 世纪社会文化理论（Sociocultural Theory）与第一代文化-历史[[Third Generation Activity Theory|活动理论]]（CHAT）创始人；在心理学与教育学交汇处构建了中介符号、概念分化与社会认知发展的理论框架。
 > - **代表贡献** 提出心理中介三角（第一代活动理论）；提出科学概念与自发概念的[[Epistemology|认识论]]区分；提出[[Zone of Proximal Development|最近发展区]]（ZPD）与[[Scaffolding|认知支架]]（Cognitive Scaffolding）理论。[[Argument_McPhail_2023_JCS|(McPhail et al., 2023, p. 4)]]; [[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 590, 596)]]

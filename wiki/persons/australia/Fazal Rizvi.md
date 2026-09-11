@@ -52,7 +52,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1950–至今
 > - **身份位置** Fazal Rizvi 是[[Internationalization of Higher Education|高等教育国际化]]与全球化研究领域的学者，以将[[Critical Geopolitics|批判地缘政治学]]视角应用于高等教育分析而著称。其研究聚焦于亚洲经济和政治崛起对全球高等教育架构的重塑，尤其关注国际学生流动、[[Transnational Research Collaboration|跨国研究合作]]以及高等教育治理的市场化转型([[Argument_Rizvi_2022_Springer|Rizvi, 2022]])。
 
 ## 生平与职涯

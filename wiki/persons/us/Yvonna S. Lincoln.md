@@ -46,7 +46,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1944–至今
 > - **身份位置** Yvonna S. Lincoln（1944–），美国教育研究方法论学者，德州农工大学荣休教授。Lincoln 与 [[Egon G. Guba]] 合著的 *[[Interpretive Paradigm|naturalistic inquiry]]*（1985）是[[Qualitative Research|质性研究]][[Paradigm|范式]]发展史上的里程碑作品，系统阐述了自然主义探究的[[Epistemology|认识论]]基础和操作程序。她还与 Norman K. Denzin 共同主编了多版 *Handbook of Qualitative Research*（[[Sage]]），该手册已成为质性研究方法领域的标准参考书。在 Creswell & Creswell (2022) 的教材中，二人提出的模式理论被引为质性研究中理论作为研究终点的重要形式。
 
 ## 主要著作

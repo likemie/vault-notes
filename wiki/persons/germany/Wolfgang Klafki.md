@@ -57,7 +57,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1927–2016
 > - **身份位置** 德国教育学家，马尔堡大学（University of Marburg）教授，德国批判建设性教学论（Critical-constructive [[Didaktik]]）和范畴教育学（Categorical [[Bildung]]）的领军人物。
 > - **核心角色** 重新阐释经典教化（Bildung）理论的社会政治意义，将教学论（[[Didaktik]]）与不确定的开放未来及公共责任相连，为芬兰[[Phenomenon-Based Learning|现象本位学习]]（PhBL）等跨学科课程改革奠定了核心的哲学和课程组织框架。
 > - **代表贡献**[[Epochal Key Problems|时代关键问题]]（Epochal Key Problems）、批判建设性教学论（Critical-constructive Didaktik）、[[General Education|通识教育]]（Allgemeinbildung）重构。

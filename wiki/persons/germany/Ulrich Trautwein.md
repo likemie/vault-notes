@@ -49,7 +49,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1972–至今
 > - **身份位置** 德国当代教育心理学家、图宾根大学 Hector 教育科学与心理学研究所（Hector Research Institute of Education Sciences and Psychology）所长、原柏林马克斯·普朗克人类发展研究所（MPIB）核心研究员。
 > - **核心角色** 德国实证教育研究（Empirical Educational Research）学派代表人物，主导多项大型国家与州级教育追踪项目（如 [[TOSCA]]）。
 > - **代表贡献** 推动将[[Epistemological Beliefs|认识论信念]]与非认知心理特质纳入大规模[[Academic Achievement|学业成就]]因果模型；确立大学专业分流中的[[Disciplinary Socialization|学科社会化]]与自我选择机制。

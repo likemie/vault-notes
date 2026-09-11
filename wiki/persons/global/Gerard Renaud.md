@@ -49,7 +49,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1920–2020
 > - **身份位置** 日内瓦[[International Schools|国际学校]]哲学教师，曾在法国海外学校任教。
 > - **核心角色** [[International Baccalaureate|国际文凭]]（International Baccalaureate，IB）早期课程的主要架构者，把不同国家课程的冲突转化为“共同结构 + 学科选择 + [[Reflexivity|反思性]]核心”的设计；六年试验期间又兼管日内瓦办公室和财务。
 > - **历史定位** 若[[Bob Leach|鲍勃·利奇]]代表草根发动，彼得森认为雷诺可以主张自己是 IB 的“课程建筑师”（architect）；这里的“建筑师”特指课程结构，而非全部组织的唯一创立者。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, pp. 28–30)]]

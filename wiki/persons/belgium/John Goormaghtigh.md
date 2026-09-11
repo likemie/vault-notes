@@ -46,7 +46,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1919–2006
 > - **身份位置** 比利时国际事务工作者，时任卡内基国际和平基金会欧洲中心主任。
 > - **核心角色** 早期[[International Schools Examination Syndicate|国际学校考试辛迪加]]（ISES）及[[International Baccalaureate|国际文凭]]办公室（IBO）的治理领导者，主持理事会至 1980 年。
 > - **历史定位** 他不是主要课程作者，却为教师项目提供法律身份、国际网络和十五年左右的领导连续性；彼得森称项目对他的亏欠“无法估量”。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, pp. 18–20)]]

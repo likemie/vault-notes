@@ -51,7 +51,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1910–2006
 > - **身份位置** 英国比较教育学家、比较文学家，英国雷丁大学（University of Reading）比较教育学讲师、教授，战后英国比较教育学会（[[Comparative Education Society in Europe|CESE]] 英国分会）骨干成员。
 > - **核心角色** 战后英国[[Michael Sadler|萨德勒]]与汉斯历史-文化比较传统的集大成与教科书化代表人物；以系统形式确立“教育是[[National Character|国民性格]]的函数”命题，在 1960 年代方法论大论战中成为实证学派与批判学者反思“国民性格[[Determinism|决定论]]”的主要焦点。
 > - **代表贡献** 著有传世教科书《比较教育学导论》（*An Introduction to the Study of Comparative Education*, 1957），为“国民性格”（[[National Character]]）提供了流传最广的经典定义，并深入开展了比利时等西欧国家的教育制度与政治权力演进研究。

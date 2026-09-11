@@ -62,7 +62,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1775–1829
 > - **身份位置** 普鲁士枢密顾问官（Geheimer Oberregierungsrat）、宗教与教育事务部学校司司长，德国新人文主义教育改革家与法制规划者。
 > - **核心角色** 普鲁士后耶拿时期（1806 年战败后）国家现代化重组与国民教育体系的制度总建筑师；将威廉·冯·洪堡（Wilhelm von Humboldt）的新人文主义全人[[Bildung|教化]]理念[[Transfer Translation Transformation|转译]]为国家法律规程与行政制度架构。
 > - **代表贡献** 主持起草著名的《1819 年普鲁士综合教育法草案》（*Entwurf eines allgemeinen Gesetzes über die Verfassung des Schulwesens im preußischen Staate*），确立世俗国家对教育的最高监督主权、市镇法定办学义务、初等小学与市民学校[[Dual School System|双轨学制]]架构，以及各省公立[[Normal School|师范学校]]网络，成为[[Victor Cousin|维克多·库森]]（Victor Cousin）赴德考察并推行法国国家教育改革的核心技术母本。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 26–29)]]

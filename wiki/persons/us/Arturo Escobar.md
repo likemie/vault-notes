@@ -45,7 +45,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1951–至今
 > - **身份位置** Arturo Escobar，哥伦比亚裔美国人类学家和设计理论家，以 pluriverse（多元世界）和 [[Transition Design]]（转型设计）概念著称，其 2018 年著作 *Designs for the Pluriverse* 被 Amos 援引为晚期现代性替代教育愿景的关键理论资源。
 
 ---

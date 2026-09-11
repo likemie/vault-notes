@@ -47,7 +47,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1946–至今
 > - **身份位置** 澳大利亚教育研究者，与 Carr、McTaggart 并列为[[Emancipatory Action Research|批判性行动研究]]的核心理论家。
 > - **核心角色** 将[[Jürgen Habermas|哈贝马斯]][[Critical Theory|批判理论]]系统引入[[Action Research|行动研究]]的方法论奠基人之一；行动研究螺旋模型的关键发展者；行动研究多元学派格局的识别者。
 > - **代表贡献** 与 Carr 合著 *Becoming Critical*（1986）；与 McTaggart 提出行动研究的全纳定义（1988）和 17 条核心原则（1992）；识别行动研究中的反思性实践与批判理论两大阵营（1997）。

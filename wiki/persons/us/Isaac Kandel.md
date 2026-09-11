@@ -83,7 +83,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1881–1965
 > - **身份位置** 美籍英裔比较教育学家、教育史学家与哲学家，哥伦比亚大学[[Normal School|师范学院]]（Teachers College, Columbia University）教育学教授（1923–1946），曼彻斯特大学首任美国研究教授，《教育年鉴》（*Educational Yearbook*, 1924–1944）创办主编。
 > - **核心角色** 20 世纪上半叶比较教育学公认的学术泰斗与精神领袖，将[[Michael Sadler|萨德勒]]的历史主义推进为以政治国家为核心解释[[Variable|变量]]的理论体系；作为欧洲犹太博雅学者，被贝雷迪（[[George Bereday]]）誉为博雅大学人文学者一代的参天灯塔，其犹太精神纯粹而坚定；在两次世界大战与冷战前夕以深刻的人文直觉捍卫[[Democratic Education|民主教育]]与国际主义。
 > - **代表贡献** 巨著《比较教育》（*Comparative Education*, 1933）确立以国家意志、民族主义与[[National Character|民族性格]]为轴心的分析体系；奠定教育制度因果探究三阶段程序；创办并独立主持《教育年鉴》21 卷；出版战后集大成续作《教育的新时代》（*The New Era in Education*, 1955）。

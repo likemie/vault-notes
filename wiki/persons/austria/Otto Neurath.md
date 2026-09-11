@@ -54,7 +54,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1882–1945
 > - **身份位置** 奥地利哲学家、社会学家和经济学家（1882–1945），维也纳学派（Vienna Circle）核心成员，活跃于两次世界大战之间的欧洲学术和政治舞台。
 > - **核心角色** 迪昂（Pierre Duhem）与蒯因（[[W. V. O. Quine]]）之间的桥梁人物——纽拉特原则（Neurath-principle）被视为迪昂整体论（Duhemian holism）的延伸和蒯因[[Epistemology|认识论]]整体论的先驱。他持一种反基础主义的（anti-foundationalist）和政治上介入的[[Positivism|实证主义]]立场，与波普尔的[[Falsification|证伪主义]]形成鲜明对比。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, p. 183)]]
 > - **代表贡献** [[Duhem-Quine Thesis|不完全决定性论题]]发展史中的关键链接；反基础主义的实证主义科学哲学；ISOTYPE（国际图画语言）视觉教育系统的发明。

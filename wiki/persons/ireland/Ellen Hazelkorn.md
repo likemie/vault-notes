@@ -43,7 +43,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1953–至今
 > - **身份位置** Ellen Hazelkorn 是[[Global Universities Rankings|全球大学排名]]研究领域的领军学者，以其对排名如何重塑高等教育的系统分析著称。她的研究揭示了排名不仅是评估工具，更已成为驱动全球高等教育系统转型的核心力量，并在知识密集型社会中演变为"[[Geopolitics of Higher Education|高等教育地缘政治]]的隐喻"([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, pp.125–126]])。
 
 ---

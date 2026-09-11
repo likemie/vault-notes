@@ -47,7 +47,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1967–至今
 > - **身份位置** 中国宪法学者，北京大学法学院教授，曾借调至中央人民政府驻香港特别行政区联络办公室（中联办）担任研究人员（[[Argument_Vickers_2024_CE|Vickers, 2024, p.139]]）。
 > - **核心角色** 后《国安法》时代中央重塑香港政治及教育秩序法理依据的代表性建构者，将卡尔·施米特（Carl Schmitt）的决断论和国家安全[[Schmittian Sovereignty|例外状态]]引入对“[[One Country, Two Systems|一国两制]]”及基本法解释的核心学者（p.155）。
 > - **代表贡献** 提出一国两制是单一制国家主权单向授权而非宪政契约的法理叙事，为取消通识科、强推[[Citizenship and Social Development|公社科]]以及课外情感[[Disciplina and Doctrina|规训]]项目提供了“思想改造”（thought reform）逻辑（[[Argument_Vickers_2024_CE|Vickers, 2024, pp.139, 155]]）。

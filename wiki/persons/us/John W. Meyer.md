@@ -52,7 +52,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1935–至今
 > - **身份位置** John W. Meyer，美国社会学家，斯坦福大学社会学系教授（荣休）。[[World Society Theory|世界社会理论]]（world society theory，亦称世界政体理论或斯坦福学派）的创始人，新制度主义组织社会学的重要代表人物。其学术工作从根本上重塑了对全球化、组织行为和教育扩张的理解——论证民族国家的制度形式、组织的结构特征以及个体的身份认同，在很大程度上是全球[[Cultural Models|文化模型]]扩散的产物，而非纯粹的地方功能性结果。Meyer 提出或共同提出了 world society（世界社会）、[[Organizational Actorhood]]（[[Organizational Actorhood|组织能动者身份]]）和 [[Otherhood]]（[[Otherhood|为他者行动]]）等核心概念，其理论框架是 [[Argument_Zapp_2022_Springer|Zapp (2022)]] 分析大学在全球治理中角色的主要理论资源([[Argument_Zapp_2022_Springer|Zapp, 2022, pp.145, 148–149]])。
 
 ---

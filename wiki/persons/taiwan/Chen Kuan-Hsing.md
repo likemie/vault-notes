@@ -41,7 +41,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1957–至今
 > - **身份位置** Chen Kuan-Hsing（陈光兴），台湾文化研究学者，国立交通大学社会与文化研究所教授，*Inter-Asia Cultural Studies* 期刊和运动的创始人和核心推动者。他将文化研究从英美中心的学术传统转向亚洲内部的[[Dialogue in Education|对话]]和比较，提出"亚洲作为方法"（Asia as Method）这一跨学科方法论框架，旨在将亚洲从被分析的对象转变为[[Knowledge Production|知识生产]]的主体。其代表作 *Asia as Method: Toward Deimperialization*（2010）是当代后殖民和去帝国化研究的里程碑著作。
 
 Chen 在台湾大学取得学士学位，后赴美国爱荷华大学攻读传播学博士。学术轨迹从 1980 年代的传播政治经济学逐步转向文化研究，1990 年代起致力于建立亚洲内部的知识对话网络，创办 *Inter-Asia Cultural Studies* 期刊（2000 年创刊）。

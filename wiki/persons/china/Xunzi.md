@@ -43,7 +43,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** c. 310 BCE – 238 BCE
 > - **身份位置** 荀子（约325-235 BCE），名况，战国末期儒家思想家。他与[[Confucius|孔子]]、[[Mencius|孟子]]并列为早期儒家的三位代表人物([[Argument_Li_2012_Cambridge|Li, 2012, p.17]])。荀子以"性恶论"著称，与孟子的"性善论"形成鲜明对比，为[[Confucian Learning Tradition|儒家学习传统]]提供了另一种人性论基础。
 
 ## 核心思想

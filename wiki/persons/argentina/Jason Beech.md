@@ -53,7 +53,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** c. 1972–至今
 > - **身份位置** Jason Beech 是阿根廷圣安德烈斯大学（Universidad de San Andrés）教育学者，研究教育话语的跨空间流通、[[Policy Borrowing|政策借用]]与比较教育方法论。他与 Artopoulos (2015) 合著的论文批评了比较教育中转移、全球化、政策借用等既有词汇的局限，提出使用[[Relational Space|关系性空间]]概念和[[Actor-Network Theory|行动者网络理论]]来分析教育话语的跨空间流通。
 
 ---

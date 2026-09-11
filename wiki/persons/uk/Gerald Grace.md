@@ -38,7 +38,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1934–2024
 > - **身份位置** Gerald Grace 是英国教育学者，现任（2010 年）伦敦大学（University of London）教授。他曾任新西兰惠灵顿维多利亚大学（Victoria University of Wellington）教育学系主任（Department of Education Chairperson）([[Argument_Grace_2010_NZJES|Grace, 2010, p.89]])。 Grace 最知名的贡献是提出了"[[Critic and Conscience of Society]]"（[[Critic and Conscience of Society|社会的批评者与良知]]）这一概念——他于 1988 年在回应文学院院长 Gary Hawke 询问大学本质特征时，将其列入大学定义清单。这一短语随后被纳入 Hawke 的《Learning for Life》报告（1989 年 2 月，p.24），并最终写入新西兰法律，成为大学的法定特征([[Argument_Grace_2010_NZJES|Grace, 2010, p.89–90]])。
 
 ## 核心贡献

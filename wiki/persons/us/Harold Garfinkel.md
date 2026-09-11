@@ -59,7 +59,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1917–2011
 > - **身份位置** 美国社会学家，常人方法学（[[Ethnomethodology]]，亦译俗民方法学）创始人，曾长期担任加利福尼亚大学洛杉矶分校（UCLA）社会学系教授。
 > - **核心角色** 20世纪微观社会学革命的领军人物。加芬克尔从[[Alfred Schutz|阿尔弗雷德·舒茨]]（[[Alfred Schutz]]）的生活世界[[Phenomenology|现象学]]汲取养分，对主流结构功能主义关于社会秩序由外在客观法则决定的[[Hypothesis|假设]]发起激进挑战；他拒绝将行动者视作被动遵从规范的“文化笨蛋”（Cultural Dopes），主张社会秩序是由行动者在日常实践推理中动态创造与维持的成就，为社会科学[[Interpretive Paradigm|诠释范式]]与微观互动研究开辟了全新的经验调查方向。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, Ch. 1]]
 > - **代表贡献** 创立常人方法学，提出[[Indexicality|索引性]]（Indexicality）与[[Reflexivity|反思性]]（Reflexivity）核心分析范畴，发明破坏性实验（Breaching Experiments）并催生了会话分析（Conversation Analysis）。

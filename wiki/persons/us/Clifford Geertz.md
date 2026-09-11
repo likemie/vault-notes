@@ -49,7 +49,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1926–2006
 > - **身份位置** 美国人类学家（1926–2006），诠释人类学（interpretive anthropology）学派的代表人物。
 > - **核心角色** 为[[Qualitative Research|质性研究]]与[[Ethnography|民族志]]方法论提供文化作为文本的解读视角；其[[Rich and Thick Description|厚描述]]概念成为质性数据分析与写作的核心质量标准。
 > - **代表贡献** [[Rich and Thick Description|厚描述]]（thick description）；民族志学者铭写社会话语的论述；人类学写作是解释的论断。

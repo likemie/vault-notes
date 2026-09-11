@@ -87,7 +87,6 @@ updated: 2026-09-11
 约翰·W·克雷斯维尔（John W. Creswell，1945–）是当代全球最具影响力的研究方法论学者之一，现任密歇根大学家庭医学系教授、密歇根[[Mixed Methods Research|混合方法]]项目（Michigan Mixed Methods Program, MMMP）联合主任。他是[[Mixed Methods Research|混合方法研究]]领域的核心开拓者与建制化奠基人，被公认为推动混合方法确立为继量化与质性之后的“第三次方法论运动”（The Third Methodological Movement）的关键领袖。
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1945–至今
 > - **身份位置** 美国著名应用社会科学与医学方法论学者、密歇根大学家庭医学系教授、密歇根混合方法项目联合主任，曾任内布拉斯加大学林肯分校 Clifton 讲座教授。
 > - **核心角色** 混合方法研究国际建制化的核心领袖；创办《混合方法研究期刊》（*Journal of Mixed Methods Research*, JMMR）并担任创刊主编；创立[[Mixed Methods International Research Association|混合方法国际研究协会]]（MMIRA）并出任首任主席；主持制定美国国立卫生研究院（NIH）与美国心理学会（[[APA Style|APA]]）质性与混合方法研究审查标准。
 > - **代表贡献** 确立混合方法研究三大核心设计模型（聚敛式、解释性序列、探索性序列）；系统提出质性探究五路径比较框架（[[Narrative Research|叙事研究]]、[[Phenomenology|现象学]]、[[Grounded Theory|扎根理论]]、[[Ethnography|民族志]]、[[Case Study|案例研究]]）；创立以[[Joint Display|联合展示]]（Joint Display）为核心的数据整合与[[Metainferences|元推论]]提炼规程。

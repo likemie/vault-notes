@@ -41,7 +41,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1949–至今
 > - **身份位置** Jorunn Møller，挪威奥斯陆大学（University of Oslo）教师教育与学校研究系教授。研究兴趣涵盖教育领导力与治理、改革政策和学校问责制([[Argument_Møller_2017_EERJ|Møller, 2017, p.385]])。
 
 ## 核心思想

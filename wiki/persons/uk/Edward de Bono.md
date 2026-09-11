@@ -63,7 +63,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1933–2021
 > - **身份位置** 英国/马耳他医学博士、认知心理学家、哲学家、发明家、全球思维教学运动先驱，曾任教于牛津大学、剑桥大学与哈佛大学。
 > - **核心角色** 现代非线性思维与[[Creativity|创造性]]心智训练的奠基人，创造了著名的词汇“[[Lateral Thinking|侧向思维]]（Lateral Thinking）”并被《牛津英语词典》正式收录。
 > - **代表贡献** 创立[[Lateral Thinking|侧向思维]]理论体系、六顶思考帽（Six Thinking Hats）决策模型、CoRT（Cognitive Research Trust）全球思维教学课程体系、自组织神经心智模型。

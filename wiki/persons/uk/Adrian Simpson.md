@@ -60,7 +60,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** c. 1968–至今
 > - **身份位置** Adrian Simpson 是英国杜伦大学（Durham University）数学教育教授、Josephine Butler College 院长。他的研究兴趣横跨数学教育（推理与证明、中学到大学的过渡）和教育研究方法论（人们如何使用证据），但以对[[Effect Size|效应量]]概念在[[Evidence-Based Education|证据本位教育]]中应用的**系统技术批判**而获得最广泛的学术影响([[Argument_Simpson_2017_JEP|Simpson, 2017, p.15]]; [[Argument_Simpson_2019_ERE|Simpson, 2019, p.109]])。 > "Adrian Simpson is Professor of Mathematics Education and the Principal of Josephine Butler College, one of the constituent colleges of Durham University. His research interests include reasoning and proof, the transition from school to university and how people make use of evidence."
 
 ## 生平与职涯

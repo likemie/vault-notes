@@ -84,7 +84,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1924–2000
 > - **身份位置** 英国（1924–2000），伦敦大学教育学院（IOE）社会学荣休讲座教授（Karl Mannheim Chair），20 世纪下半叶[[International Education|国际教育]]社会学界的核心理论家与社会语言学先驱。
 > - **核心角色** 在涂尔干宏观[[Positivism|实证主义]]、结构主义与微观互动论之间构建符号控制理论桥梁；既是教育知识社会学的开创宗师，又是微观诠释主义“去权力化”情境协商与[[Empiricism|经验主义]]贫乏倾向的深刻批判者。
 > - **代表贡献** 提出限制代码与精致代码理论；奠定教育知识的分类与框架理论；确立[[Regulative and Instructional Discourse|规约性话语与教学性话语]]的[[Recontextualization|再脉络化]]（[[Recontextualization]]）机制；提出学科领域的[[Horizontal Knowledge Structure|横向知识结构]]并预见[[Totally Pedagogised Society|全盘教育化社会]]趋势。

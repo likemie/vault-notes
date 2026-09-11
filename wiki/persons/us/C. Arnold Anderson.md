@@ -62,7 +62,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1907–1990
 > - **身份位置** 美国著名教育社会学家、比较教育学家，芝加哥大学教育系与社会学系教授，芝加哥大学比较教育研究中心（[[Comparative Education Center at Chicago 1958|Comparative Education Center]]）创任主任（1958–1972 年），美国[[Comparative and International Education Society|比较与国际教育学会]]（Comparative and [[International Education]] Society, CIES）前会长（1963–1964 年）。
 > - **核心角色** 战后美国比较教育“科学化与社会学转向”的领军人物；将结构功能主义社会学理论系统引入跨国比较，强力倡导摆脱历史个殊性描述，确立探寻教育制度与社会矩阵之间恒常规律的经验实证[[Paradigm|范式]]。
 > - **代表贡献** 创立享誉全球的芝加哥大学比较教育研究中心并培养了包括[[Philip Foster|菲利普·福斯特]]（Philip Foster）在内的整整一代实证社会学学者；发表纲领性论文《比较教育学的方法论》（1961 年）；与玛丽·让·鲍曼（Mary Jean Bowman）合作奠定比较教育与经济发展、[[Human Capital Theory|人力资本]]跨国测量的基础。

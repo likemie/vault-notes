@@ -48,7 +48,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** c. 1974–至今
 > - **身份位置** 英国教育学者、[[Knowledge Mobilisation|知识动员]]专家，伦敦大学学院教育学院（UCL Institute of Education）教授，英国[[Education Endowment Foundation|教育捐赠基金会]]（[[Education Endowment Foundation|EEF]]）资深顾问。
 > - **核心角色** 英国证据知情教育与知识[[Transfer Translation Transformation|转译]]运动的核心理论家与实践推动者，主张超越生硬的医学证据本位模式，推动研究证据与教师[[Professional Judgment|专业判断]]的深度融合。
 > - **代表贡献** 提出被国际学界广泛引用的[[Evidence-Informed Practice|证据知情实践]]经典定义（Sharples, 2013）；主持设计 EEF 教学工具包的学校转译与实践落地指南。

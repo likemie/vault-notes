@@ -51,7 +51,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1472–1529
 > - **身份位置** 王阳明（Wang Yangming, 1472–1529），明代思想家，心学代表人物。在对[[Neo-Confucianism|程朱理学]]主导地位提出挑战的同时，仍坚守儒家学习的根本目的——"学以[[Self-Cultivation|修身]]"([[Argument_Li_2012_Cambridge|Li, 2012, p.44]])。
 
 其学说的独特之处在于：将学习的动力从外在的天理转向内在的良知，将[[Self-Cultivation|修身]]的途径从学术积累转向实践中的知行合一，从而将原本高远的[[Sage|圣人]]目标向普通人——包括底层百姓——开放([[Argument_Li_2012_Cambridge|Li, 2012, p.44]])。

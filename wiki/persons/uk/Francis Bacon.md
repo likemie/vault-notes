@@ -34,7 +34,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1561–1626
 > - **身份位置** 弗朗西斯·培根（Francis Bacon）是17世纪英国哲学家，被视为现代[[Scientific Method|经验科学]]方法论的奠基人之一（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
 
 ## 核心贡献

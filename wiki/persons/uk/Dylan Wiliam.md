@@ -48,7 +48,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1955–至今
 > - **身份位置** Dylan Wiliam，英国教育评估和[[Formative Assessment|形成性评价]]领域的重要研究者，UCL 教育研究院（Institute of Education, University College London）教授。其研究涵盖课堂评估、教师质量和[[Evidence-Based Education|证据本位教育]]的方法论批判。
 
 ## 核心思想

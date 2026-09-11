@@ -44,7 +44,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1952–至今
 > - **身份位置** 英国教育学者，教育研究方法领域的重要作者。
 > - **核心角色** 与 [[Louis Cohen]]、[[Lawrence Manion]] 合著《Research Methods in Education》（第七版，Routledge, 2011），该书系统覆盖[[Paradigm|研究范式]]、研究设计、资料收集与分析方法。
 > - **代表贡献** 《Research Methods in Education》作为教育研究方法的综合性教材，长期被用作研究生与教师培训的标准参考书。

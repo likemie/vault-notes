@@ -52,7 +52,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1898–1968
 > - **身份位置** 美国著名历史学家、比较史学与思想史先驱，哈佛大学麦克莱恩古今史讲席教授（McLean Professor of Ancient and Modern History），曾任美国历史学会（American Historical Association）主席（1958 年）。
 > - **核心角色** 在比较教育学方法论大论战中，布林顿被[[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（Andreas Kazamias）引为最具决定性的[[Epistemology|认识论]]支柱，其比较史学[[Paradigm|范式]]成功击碎了[[Positivism|实证主义]]所谓“个殊历史事实不可比较、无法构建科学理论”的狭隘教条。
 > - **代表贡献** 著有比较史学传世经典《革命的解剖》（*The Anatomy of Revolution*, 1938）；系统论证历史学者完全能够对特定时空的具体现象进行分类归纳，提炼出中程的**非普适探索性假说（working [[Hypothesis|hypotheses]] of a limited nature）**，为质性[[Historical-Comparative Method|历史比较法]]在理论建构与因果阐释上确立了现代学术合法性。

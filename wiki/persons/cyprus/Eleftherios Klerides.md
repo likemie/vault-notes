@@ -59,7 +59,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** c. 1975–至今
 > - **身份位置** 塞浦路斯比较教育与教育史学者，塞浦路斯大学（University of Cyprus）副教授。曾任[[Comparative Education Society in Europe|欧洲比较教育学会]]（[[Comparative and International Education Society|Comparative Education Society]] in Europe，CESE）秘书长。
 > - **核心角色** 比较教育与国际关系交叉研究的开创性学者。他通过引入[[Wight's Three Traditions of International Theory|国际关系理论]]（特别是马丁·怀特物国际理论三大传统），打破了比较教育长期存在的“去政治化”技术官僚叙事，系统揭示了跨国教育知识流动的地缘政治本质。
 > - **代表贡献** 将怀特国际理论三大传统（[[Realism in International Relations|现实主义]]、[[Rationalism in International Relations|理性主义]]、[[Revolutionism|革命主义]]）引入比较教育；提出“[[Agendas of Attention|注意力议程]]”（Agendas of Attention）概念分析学科随地缘变迁的[[Paradigm|范式]]转移。

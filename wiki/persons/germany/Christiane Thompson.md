@@ -47,7 +47,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** c. 1974–至今
 > - **身份位置** Christiane Thompson 是德国法兰克福歌德大学（Goethe University Frankfurt/Main）教育科学系教授。她的研究聚焦于高等教育中的主体化（subjectification）过程、数字化与学习文化、以及高等教育的治理技术。
 
 ## 生平与职涯

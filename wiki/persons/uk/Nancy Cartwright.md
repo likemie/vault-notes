@@ -44,7 +44,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1944–至今
 > - **身份位置** Nancy Cartwright，科学哲学家，杜伦大学哲学系教授（Durham University）和加州大学圣地亚哥分校（UC San Diego）荣休教授。她是 CHESS（Centre for Humanities Engaging Science and Society）的核心成员，专注于[[Causality|因果推断]]、证据本位政策和科学哲学的实践应用。Cartwright 将科学哲学的分析工具应用于证据本位政策领域，特别是教育和社会政策，与 [[Nick Cowen]] 等人合作发表了一系列工作论文和专著。 > 例：Cartwright 的分析不是抽象的哲学讨论，而是直接针对 [[Randomised Controlled Trials|RCT]] 证据如何从研究情境推论到特定学校课堂这一实践问题([[Argument_Cowen_2015_CHESS|Cowen et al., 2015]])
 
 ## 核心思想

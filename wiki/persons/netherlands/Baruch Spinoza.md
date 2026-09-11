@@ -46,7 +46,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1632–1677
 > - **身份位置** 17世纪荷兰哲学家，[[Rationalism in International Relations|理性主义]]的早期代表之一，但其独特的泛神论和一元论思想在后现代哲学中迎来了复兴。
 > - **核心角色** 在当代教育研究（尤其是受 Deleuze 等人影响的课程理论中），斯宾诺莎代表了一种“纯粹肯定”与“纯粹内在”的[[Ontology|本体论]]。他的思想被用于对抗[[Georg Wilhelm Friedrich Hegel|黑格尔]]式的压制性教育，为主张情感合法化、释放想象力的激进教学法提供理论基石。
 > - **代表贡献** 物质一元论（Monism）、内在性平面（Immanence）、[[Conatus|欲力]]（Conatus）、群体力量（potentia multitudine）。

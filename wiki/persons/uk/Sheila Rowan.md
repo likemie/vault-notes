@@ -43,7 +43,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1969–至今
 > - **身份位置** 英国实验物理学家、格拉斯哥大学引力研究所教授、皇家学会会士（FRS）、爱丁堡皇家学会会士（FRSE）、大英帝国司令勋章获得者（CBE）。
 > - **核心角色** 引力波探测光学材料领域国际领军学者；2016–2021 年出任苏格兰政府首席科学顾问（Chief Scientific Adviser for Scotland）；2026 年与[[Carlos Frenk|卡洛斯·弗伦克]]（Carlos Frenk）共同出任英国皇家学会《科学为社会》（*Science for society*）报告指导委员会联席主席。
 > - **代表贡献** 推动科学证据融入政府决策，领导制定支持学术界、产业界与非正式教育部门深化[[Public Engagement with Science|公众科学参与]]的系统性政策建议。

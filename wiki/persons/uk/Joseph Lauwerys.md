@@ -61,7 +61,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1902–1981
 > - **身份位置** 英国比较教育学家，伦敦大学教育学院（Institute of Education, University of London, IOE）首任比较教育教授（1947 年就职），[[Comparative Education Society in Europe|欧洲比较教育学会]]（[[Comparative and International Education Society|Comparative Education Society]] in Europe, CESE）首任主席（1961–1967），联合国教科文组织（United Nations Educational, Scientific and Cultural Organization, UNESCO）早期核心顾问。
 > - **核心角色** 将比较教育学科体制化全面嵌入二战后的跨国多边合作网络，是[[Rationalism in International Relations|理性主义]]国际关系传统在比较教育中的核心代表人物。
 > - **代表贡献** 确立英国比较教育大学独立教席与系所体制；联合创立 CESE 并构筑战后欧洲学术网络；确立以国际理解、民主理想与科学人道主义为核心的价值体系。

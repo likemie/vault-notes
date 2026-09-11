@@ -54,7 +54,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1944–至今
 > - **身份位置** 美国教育哲学家、认知测评专家，芝加哥洛约拉大学（Loyola University Chicago）前教务长、圣塔克拉拉大学（Santa Clara University）荣休教授，Insight Assessment 创始人。
 > - **核心角色** 当代[[Critical Thinking|批判性思维]][[Operationalization|操作化]]界定与标准化测评体系的头号领军人物，被誉为“将批判性思维从哲学思辨转化为现代心理测量科学的关键桥梁”。
 > - **代表贡献**

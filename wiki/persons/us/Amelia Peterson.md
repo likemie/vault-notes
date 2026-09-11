@@ -44,7 +44,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** c. 1986–至今
 > - **身份位置** Amelia Peterson，哈佛大学教育研究生院（Harvard Graduate School of Education）研究者。以提出"什么有效 2.0"（What Works 2.0）整合框架著称——将实验科学的[[Mechanism Experiments|机制实验]]与[[Improvement Science|改进科学]]的[[Snowball Sampling|网络化]]方法结合，旨在避免教育研究中的"[[Paradigm|范式]]战争"，加速关于系统性教育研究基础设施和资金的国际讨论([[Argument_Peterson_2016_IJRME|Peterson, 2016]])。
 
 ## 核心思想

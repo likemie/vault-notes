@@ -45,7 +45,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1930–1992
 > - **身份位置** Thomas Barr Greenfield 是加拿大的教育行政学者，以对教育行政中**逻辑[[Empiricism|经验主义]]和理论运动**的[[Epistemology|认识论]]基础提出挑战而闻名。他的介入（通常以 1974 年在英国 Bristol 的国际互访项目为标志，但也有观点认为实际上始于 1973 年 New Orleans 的 AERA 年会）深刻改变了教育行政的认识论辩论格局([[Argument_Eacott_2015_EPT|Eacott, 2015, p.316]])。
 
 ## 核心思想

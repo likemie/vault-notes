@@ -43,7 +43,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1922–2007
 > - **身份位置** 北美高等教育规划、大学行政与非营利教育组织管理者；1977 年 8 月起担任[[International Baccalaureate North America|国际文凭北美公司]]（[[International Baccalaureate]] North America，IBNA）执行主任。
 > - **核心角色** 把区域法人从筹资框架转化为能够持续接触学校、培训教师和协调大学关系的执行组织。
 > - **代表贡献** 建立介绍会和教师培训工作坊两类扩张机制，使[[International Baccalaureate|国际文凭]]（International Baccalaureate，IB）从少数[[International Schools|国际学校]]进入美国和加拿大公立高中。[[Argument_Peterson_1987_OpenCourt_Ch06|Peterson (1987, Ch. 6, pp. 143–152)]]

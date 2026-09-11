@@ -40,7 +40,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1902–1967
 > - **身份位置** 爱沙尼亚裔美国教育家、课程理论家（1902–1967），旧金山州立大学教授。
 > - **核心角色** 现代课程开发理论与概念教学法（Conceptual Teaching）的核心先驱。
 > - **代表著作** *Curriculum Development: Theory and Practice* (1962)。

@@ -35,7 +35,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** c. 1974–至今
 > - **身份位置** 利兹大学（University of Leeds）教育研究者，研究方向为教育研究方法论、[[Quantitative Research|定量研究]]方法、"什么有效"议程的批判性评估。
 
 ## 核心思想

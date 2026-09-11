@@ -49,7 +49,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1888–1939
 > - **身份位置** 安东·马卡连柯（Anton Semyonovich Makarenko, 1888-1939）是苏联教育家、社会工作者和作家，主要以战后孤儿、流浪儿童和少年违法者的教育实践闻名。他在高尔基工学团（Gorky Colony）和捷尔任斯基劳动公社（Dzerzhinsky labour commune）中发展出以**儿童集体、自我管理、劳动生产和严格要求中的尊重**为核心的教育方法（Filonov, 1994; Halvorsen, 2014）。
 
 > [!abstract] 阅读抓手

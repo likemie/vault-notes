@@ -48,7 +48,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1914–2000
 > - **身份位置** 美国社会学家（1914–2000），以经典[[Ethnography|民族志]]《街角社会》（*Street Corner Society*, 1943）闻名，是参与式[[Observation Method|观察研究]]的先驱。
 > - **核心角色** 其[[Fieldwork|田野工作]]与晚年反思为[[Reflexivity|反身性]]在[[Qualitative Research|质性研究]]中的地位提供经典论述，并推动[[Participatory Action Research|参与式行动研究]]（PAR）。
 > - **代表贡献** 《街角社会》的参与式观察传统；关于田野工作者个人经验与反身性的反思（1993 年附录 A）；参与式[[Action Research|行动研究]]。

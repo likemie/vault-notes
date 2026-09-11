@@ -42,7 +42,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** c. 1978–至今
 > - **身份位置** Jeremy Rappleye 是英国比较教育学者，牛津大学（University of Oxford）博士候选人，后任东京大学（University of Tokyo）副教授。他的研究聚焦教育转移（educational transfer）理论，尤其关注[[Cross-National Attraction|跨国吸引力]]（[[Cross-National Attraction]]）阶段的情境分析。他在 2006 年发表的跨国吸引力情境[[Concept Mapping|概念地图]]（Conceptual Map of the Context of Cross-National Attraction），通过将"情境"拆解为结构层与人的层面的双层互动，重新框定了比较教育领域长期存在的"情境很重要但无法系统分析"的困境。他曾在中国和日本的学校任教，日语流利([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 240]])。
 
 ---

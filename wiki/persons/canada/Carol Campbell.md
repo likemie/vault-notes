@@ -43,7 +43,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** c. 1970–至今
 > - **身份位置** Carol Campbell 是加拿大教育领导力学者，多伦多大学安大略教育研究院教授。当前 vault 中最重要的不是她的完整传记，而是她在 [[Evidence-Informed Practice]]、[[Knowledge Mobilisation]] 与安大略系统改革之间所起的桥接作用([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, pp.130–132]])。
 
 ## 核心思想

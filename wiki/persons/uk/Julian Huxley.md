@@ -38,7 +38,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1887–1975
 > - **身份位置** Julian Huxley（1887–1975），英国生物学家和科学管理者，UNESCO 第一任总干事（1946–1948），科学人文主义（scientific humanism）和优生学（eugenics）的倡导者，同时是人权的推动者。1957 年在其文集 *New Bottles for New Wine* 中首次提出 **[[Transhumanism]]**（超人类主义）一词([[Argument_Amos_2022_Springer|Amos, 2022, p.59]])。
 
 ---

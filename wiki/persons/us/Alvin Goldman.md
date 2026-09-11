@@ -39,7 +39,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1938–2024
 > - **身份位置** 美国哲学家，罗格斯大学名誉教授，当代[[Epistemology|认识论]]（尤其是[[Epistemological Naturalism|自然化认识论]]与社会认识论）的领军人物。
 > - **核心角色** 在 Quine 的强自然主义基础上，发展出保留规范性评价的温和自然主义，引入认知科学来评判知识生成的[[Reliability|可靠性]]。
 > - **代表贡献** 创立[[Reliabilism|可靠主义]]，并系统性地开拓了社会认识论（Social Epistemology）领域。

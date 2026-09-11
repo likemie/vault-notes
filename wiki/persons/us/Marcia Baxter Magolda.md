@@ -42,7 +42,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1951–至今
 > - **身份位置** Marcia Baxter Magolda 是美国教育心理学家，迈阿密大学（Miami University）教育领导力系教授。她以[[Self-Authorship|自我主导性]]（self-authorship）理论闻名，该理论已成为当代大学生发展研究的重要框架之一（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Baxter Magolda & King, 2012）。
 
 ## 核心思想

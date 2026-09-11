@@ -57,7 +57,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** c. 1973–至今
 > - **身份位置** Sami Moisio，芬兰政治地理学者，赫尔辛基大学地球科学与地理系（Department of Geosciences and Geography）教授。以对知识密集型资本主义的地缘政治分析著称，提出[[Knowledge-Based Economization|知识经济化]]（Knowledge-Based Economization）和[[Geopolitics of Knowledge|知识地缘政治]]等概念，将[[Critical Geopolitics|批判地缘政治学]]传统延伸至教育、创新和城市治理领域([[Argument_Moisio_2022_Springer|Moisio, 2022, p.21]])。
 
 ---

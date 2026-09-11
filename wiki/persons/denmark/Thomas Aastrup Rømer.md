@@ -47,7 +47,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1963–至今
 > - **身份位置** Thomas Aastrup Rømer，丹麦奥胡斯大学（Aarhus University）教育哲学副教授、博士，研究方向为教育理论。他以对 [[John Hattie]] 的 [[Visible Learning]] 的系统性哲学批判著称，提出了五线批评框架([[Argument_Rømer_2018_EPT|Rømer, 2018]])。
 
 ## 生平与职涯

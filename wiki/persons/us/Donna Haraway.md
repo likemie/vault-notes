@@ -42,7 +42,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1944–至今
 > - **身份位置** Donna Haraway，美国女性主义科学与技术研究学者，以 [[Posthumanism]]（后人类主义）、[[Sympoiesis]]（共同制造）和 [[Haraway's SF|SF (Haraway)]] 叙事方法论著称，其 2016 年著作 *Staying with the Trouble* 被 Amos 援引为晚期现代性替代教育愿景的核心思想资源。
 
 ---

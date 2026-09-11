@@ -45,7 +45,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** c. 1968–至今
 > - **身份位置** Alejandro Artopoulos 是阿根廷圣安德烈斯大学（Universidad de San Andrés）教育学者，与 Beech 合著了关于教育话语跨空间流通的论文。他参与了阿根廷「[[Conectar Igualdad|平等连接]]」项目（Conectar Igualdad）的三年期[[Ethnography|民族志研究]]，使用[[Actor-Network Theory|行动者网络理论]]分析课堂中的社会-物质[[Assemblage|组装]]([[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]])。
 
 ---

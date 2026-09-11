@@ -64,7 +64,6 @@ updated: 2026-09-11
 卡尔文·斯托（Calvin Ellis Stowe, 1802–1886）是 19 世纪美利坚合众国著名教育思想家、古典学者与圣经[[Document|文献]]学家。作为北美[[Common School Movement|公学运动]]的关键推手之一，他与[[Horace Mann|霍勒斯·曼]]（Horace Mann）和[[Henry Barnard|亨利·巴纳德]]（Henry Barnard）并称为 19 世纪前期美国外国教育考察的三大代表人物。
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1802–1886
 > - **身份位置** 美国教育思想家、圣经文学教授、俄亥俄州教育考察专员；19 世纪前期美国公学运动在俄亥俄与中西部边疆各州的代表人物。
 > - **核心角色** 在 19 世纪大西洋两岸跨国教育流动中，斯托是北美将欧洲大陆（尤其是普鲁士与德意志各邦）国家主导的初等公学经验转化为美国州立立法动员力量的核心纽带。
 > - **代表贡献** 1837 年向俄亥俄州议会提交著名的《[[Report on Elementary Public Instruction in Europe|欧洲初等公共教育报告]]》（*Report on Elementary Public Instruction in Europe*），极力倡导建立由州政府保障的世俗初等公学网络与专业化[[Normal School|师范学校]]，在全美掀起跨州重印与立法借鉴浪潮。

@@ -19,6 +19,7 @@ tags:
 - knowledge-building
 - region/canada
 related_concepts:
+  - "[[Knowledge Production]]"
   - "[[Epistemology]]"
   - "[[Visible Learning]]"
   - "[[SOLO Taxonomy]]"
@@ -38,8 +39,7 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1934–至今
-> - **身份位置** Carl Bereiter，加拿大教育理论家，以"知识建构"（knowledge building）理论和"知识社会中的心智"研究著称。他在 Popper 和 Hattie 之间扮演了关键的中介角色——Bereiter 将 Popper 的三个世界理论引入教育研究，但其自身的化简为 Hattie 进一步的误读铺平了道路。
+> - **身份位置** Carl Bereiter，加拿大教育理论家，以"[[Knowledge Production|知识建构]]"（knowledge building）理论和"知识社会中的心智"研究著称。他在 Popper 和 Hattie 之间扮演了关键的中介角色——Bereiter 将 Popper 的三个世界理论引入教育研究，但其自身的化简为 Hattie 进一步的误读铺平了道路。
 
 ## 生平与职涯
 
@@ -53,7 +53,7 @@ updated: 2026-09-11
 
 ## 核心思想
 
-> [!info] 知识建构（Knowledge Building）
+> [!info] [[Knowledge Production|知识建构]]（Knowledge Building）
 > Bereiter 区分学习（World 2 概念）和知识建构（World 3 概念）：学习是主观认知过程，而知识建构涉及"心灵之外的知识"（knowledge outside the mind），这是对唯我论的明确反对([[Argument_Rømer_2018_EPT|Rømer, 2018, p.10]])。
 
 
@@ -71,7 +71,7 @@ updated: 2026-09-11
 ## 主要贡献
 
 > [!success] 主要贡献
-> - 知识建构理论的创始人
+> - [[Knowledge Production|知识建构]]理论的创始人
 > - 将 Popper 的[[Epistemology|认识论]]引入教育研究
 > - 为 Hattie 的 [[Visible Learning|VL]] 提供了连接 Popper 的哲学通道（尽管 Hattie 进一步扭曲了这一通道）
 

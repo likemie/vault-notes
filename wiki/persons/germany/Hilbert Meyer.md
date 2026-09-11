@@ -34,7 +34,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1941–2025
 > - **身份位置** Hilbert Meyer 是德语[[Effective Teaching|有效教学]]研究综合的重要作者，代表作 *Hvad er god undervisning?* 提出了一套"好教学"的十项质量标准。他的研究综合常与 Hattie、Helmke 的工作并列讨论，用来概括教师领导、照顾个别学生、清晰目标和学习导向课堂气氛等有效教学质量([[Argument_Laursen_2015_Paideia|Laursen, 2015, pp.34–35]])。
 
 ## 核心思想

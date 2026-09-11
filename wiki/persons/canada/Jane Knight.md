@@ -49,7 +49,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1949–至今
 > - **身份位置** Jane Knight，加拿大多伦多大学安大略教育研究院（OISE/University of Toronto）[[International Education|国际教育]]与跨境高等教育学者。在跨境高等教育研究领域具有先驱性贡献，提出并系统发展了[[International Education Hubs|国际教育枢纽]]（international education Hubs, IEHs）的概念框架和三级分类体系（学生枢纽、人才枢纽、知识/[[Innovation Hub|创新枢纽]]）。其研究跨越[[Internationalization of Higher Education|高等教育国际化]]、跨境教育、[[GATS and Trade in Education Services|教育服务贸易]]和教育枢纽等多个相互关联的领域。
 
 ---

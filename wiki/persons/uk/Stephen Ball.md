@@ -65,7 +65,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1950–至今
 > - **身份位置** 英国教育社会学家，伦敦大学学院教育学院（UCL Institute of Education）政策社会学教授。
 > - **核心角色** 批判性教育政策社会学的开拓者，在全球教育 marketization、私有化以及新自由主义审计治理研究中承担核心话语构建者的节点角色。
 > - **代表贡献** 提出教育政策制定的五重语境、区分教育的 [[Endogenous and Exogenous Privatisation|内生与外生私有化]]、发展[[Network Governance|网络治理]]与政策创业的社会学批判。

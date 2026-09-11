@@ -41,7 +41,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** c. 1950–至今
 > - **身份位置** Gary Thomas 是英国伯明翰大学（University of Birmingham）教育与社会包容教授，以其对实验方法和 [[Randomised Controlled Trials|RCT]] 在教育研究中的"黄金标准"地位的批判而知名。
 
 ## 核心思想

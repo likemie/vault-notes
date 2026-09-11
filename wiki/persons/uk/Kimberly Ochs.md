@@ -42,7 +42,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** c. 1975–至今
 > - **身份位置** Kimberly Ochs 是比较教育学者，与 [[David Phillips]] 合作开发了[[Policy Borrowing|政策借用]]四阶段模型和[[Cross-National Attraction|跨国吸引]]力结构性类型学——教育政策转移研究领域的基础性[[Analytic Framework|分析框架]]。她的博士论文（牛津大学，2005）进一步深化了对政策借用与教育改革和创新之间关系的理论化。
 
 ## 生平与职涯

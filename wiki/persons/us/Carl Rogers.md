@@ -58,7 +58,6 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **生卒年份** 1902–1987
 > - **身份位置** 美国心理学家，人本主义心理学泰斗，来访者中心治疗（Client-Centered Therapy）与以学生为中心教育（Person-Centered Education）创始人，曾任美国心理学会（[[APA Style|APA]]）主席。
 > - **核心角色** 作为人本主义抵御[[Positivism|实证主义]]与行为主义“去人化”危机的重要代言人，倡导“全人”（whole person）与行动者内部参照框架（internal frame of reference），为[[Qualitative Research|质性研究]]与[[Interpretive Paradigm|诠释范式]]提供了坚实的人格存在论与[[Epistemology|认识论]]基石。
 > - **代表贡献** 创立以人为中心治疗与自由学习理论（《学习的自由》*Freedom to Learn*, 1969）；确立研究者介入当事人“内部参照框架”的探究原则；为自然主义探究、表意法（[[Idiographic|idiographic approach]]）与[[Voluntarism|唯意志论]]（Voluntarism）奠定人本主义哲学基础。
