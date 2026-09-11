@@ -84,6 +84,7 @@ updated: 2026-09-11
 > - **2004** 在德国教育研究协会苏黎世会议上发表论文，创新性结合社会[[Network Analysis|网络分析]]与创新扩散理论，提出跨国教育政策中的马里斯·奥罗克效应（Maris O'Rourke Effect）。
 > - **2009** 在 Cowen 与 Kazamias 主编的《比较教育学国际手册》中，不仅系统概念化了比较教育的历史演进，还率先推动运用口述史方法抢救被遮蔽的学科个人与学会记忆。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, pp. 7–8)]]
 > - **2012** 与弗洛里安·瓦尔多（Florian Waldow）共同主编《世界教育年鉴 2012：教育中的政策借用》（*World Yearbook of Education 2012*），进一步将政策借用理论扩展至实证比较。
+> - **2024** 与 Kerstin Martens 及 Christian Ydesen 在 *Comparative Education* 合作发表重要论文，正式提出“数字治理 2.0”与[[Policy Brokerage|政策中介]]跨学科比较研究议程。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024)]]
 
 ---
 
@@ -95,13 +96,14 @@ updated: 2026-09-11
 > - **2004b — *[[Network Analysis|social network analysis]] and Diffusion of Innovation Revisited: The Maris O'Rourke Effect in [[International Education]]*** 引入社会网络分析方法，揭示关键政策能动者在跨国政策扩散网络中的[[Structural Holes|结构洞]]与杠杆作用。
 > - **2009 — *Comparison and Conceptualisation in Comparative Education*** 系统概念化比较教育学科的发展脉络，为构建全景式的[[Comparative History of Comparative Education|比较教育学比较史]]提供分析[[Paradigm|范式]]。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, p. 8)]]
 > - **2012 — *Understanding policy borrowing and lending*** 与 Florian Waldow 合作，提炼跨国政策借用的多阶段分析工具，深度整合外在化、情境化与本土杂糅机制。
+> - **2024 — *Governance by numbers 2.0: policy brokerage as an instrument of global governance in the era of information overload*** 与 Martens 和 Ydesen 合作，提出数字治理 2.0 研究纲领，系统论证信息过量时代国际组织以硬事实施展软权力的政策中介与工具打包机制。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024)]]
 
 ---
 
 ## 核心思想
 
 > [!claim] 核心主张
-> 施泰纳-卡姆西的核心洞见是：跨国教育[[Policy Borrowing|政策借用]]在本质上是高度政治化的本土合法化过程，而非中立的最佳实践技术传递。学者必须将注意力从被借用的政策内容转向借用行动者、制度利益与流通机制，探究谁在借用、为何借用以及借用服务于何种国内政治冲突；在研究方法上，她倡导结合社会[[Network Analysis|网络分析]]与口述史，不仅捕捉跨国行动者的流动轨迹，更抢救被官方档案遗忘的活态学科历史。
+> 施泰纳-卡姆西的核心洞见是：跨国教育[[Policy Borrowing|政策借用]]在本质上是高度政治化的本土合法化过程，而非中立的最佳实践技术传递。学者必须将注意力从被借用的政策内容转向借用行动者、制度利益与流通机制，探究谁在借用、为何借用以及借用服务于何种国内政治冲突；在研究方法上，她倡导结合社会[[Network Analysis|网络分析]]与口述史，不仅捕捉跨国行动者的流动轨迹，更抢救被官方档案遗忘的活态学科历史。面对数字化时代的信息过载，她进一步提出数字治理 2.0，揭示国际组织如何将政策中介作为全球治理工具，以硬事实施展软权力。
 
 > [!citation-card] 本土情境焦点与能动者转向
 > 如果研究者仅仅聚焦于转移的内容，毫无疑问他们会找到一个最大公约数；然而，如果我们选择将本土情境推向前台，将注意力引向借出与借用的能动者，并追问某种观念或话语为何被转移，我们就会对教育转移获得一种截然不同的理解。[[Argument_Rappleye_2006_RCIE|(Rappleye, 2006, p. 224)]]
@@ -113,15 +115,20 @@ updated: 2026-09-11
 >
 > *Unless we recognize that educational transfer can involve discourses rather than practices, we are unlikely to detect these international movements (Steiner-Khamsi, 2000, p. 181).*
 
+> [!citation-card] 证据过剩与政策中介兴起
+> 更多知识并未减少歧义性并促进循证政策制定，反之亦然。当今的信息过载为那些能够选择性吸纳研究、将研究发现转化为证据并为政策所用的机构与个人提供了繁茂生长的土壤。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 540)]]
+>
+> *It would be wrong to assume that more knowledge reduces ambiguity and facilitates evidence-informed policymaking. The opposite applies. Today's information overload constitutes fertile ground for the flourishing of individuals and institutions that selectively draw on research, transform research findings into evidence, and then translate that evidence for policy use.*
+
 ---
 
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 颠覆了传统比较教育中视借用为理性方案移植的[[Hypothesis|假设]]，与[[Niklas Luhmann|卢曼]]的[[Luhmann's Systems Theory|系统理论]]及外在化概念相结合，构建起以本土政治需要为驱动的借用理论。
-> - **方法路径** 倡导两项关键方法创新：一是应用社会[[Network Analysis|网络分析]]识别政策经纪人（Policy Brokers）的节点权力；二是率先推行口述史（Oral History）方法以抢救学者个案与制度记忆。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, p. 7)]]
+> - **理论路径** 颠覆了传统比较教育中视借用为理性方案移植的[[Hypothesis|假设]]，与[[Niklas Luhmann|卢曼]]的[[Luhmann's Systems Theory|系统理论]]及外在化概念相结合，构建起以本土政治需要为驱动的借用理论；进而开辟数字治理 2.0 与[[Policy Brokerage|政策中介]]理论。
+> - **方法路径** 倡导两项关键方法创新：一是应用社会[[Network Analysis|网络分析]]识别政策经纪人（Policy Brokers）的节点权力；二是率先推行口述史（Oral History）方法以抢救学者个案与制度记忆；三是践行[[Methodological Transnationalism|方法论跨国主义]]解构全球/国家联结。
 > - **[[Concept Mapping|概念地图]]建构** 其关于借用动机与行动者的论述，被 Jeremy Rappleye (2006) 采纳为比较教育概念地图中[[Pre-Transfer Agency|前转移能动性]]的核心基石。[[Argument_Rappleye_2006_RCIE|(Rappleye, 2006, pp. 224–227)]]
-> - **经验政策研究** 深刻启发了对东欧、中亚转型国家以及东亚地区[[Policy Borrowing|政策借用]]与[[Going Native|本土化]]抵制的经验实证分析。
+> - **经验政策研究** 深刻启发了对东欧、中亚转型国家、北欧国家以及东亚地区[[Policy Borrowing|政策借用]]与[[Going Native|本土化]]抵制的经验实证分析。
 
 ---
 
@@ -131,6 +138,7 @@ updated: 2026-09-11
 > - **学术[[Dialogue in Education|对话]]者** Jürgen Schriewer 共同推进基于系统论的[[Policy Borrowing|教育借用]]外在化（Externalisation）理论对话。
 > - **理论延伸者** [[Jeremy Rappleye]] 在 2006 年[[Concept Mapping|概念地图]]中将施泰纳-卡姆西的能动者分析整合为[[Pre-Transfer Agency|前转移能动性]]模型。[[Argument_Rappleye_2006_RCIE|(Rappleye, 2006, p. 224)]]
 > - **合作主编** Florian Waldow 共同主编《世界教育年鉴 2012》，推进比较政策借用分析工具标准化。
+> - **跨国治理合作者** Kerstin Martens 与 Christian Ydesen 共同开拓数字治理 2.0 与全球教育治理复合体研究。
 > - **史学对话者** [[Robert Cowen]] 高度评价其口述史开创性工作与学科演进概念化，呼吁欧洲学会全面跟进口述史方法。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, pp. 7–8)]]
 > - **学术机构** 哥伦比亚大学教师学院、日内瓦高等国际关系与发展研究院、[[Comparative Education Society in Europe]]（CESE）。
 
@@ -158,6 +166,10 @@ updated: 2026-09-11
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Policy Borrowing]] | 概念 | 系统化政策借用与借出的全球政治[[Analytic Framework\|分析框架]]，确立能动者与利益焦点。 |
+> | [[Policy Brokerage]] | 概念 | 提出数字治理 2.0 框架，阐明信息过量时代国际组织以硬事实施展软权力的中介机制。 |
+> | [[Global Education Governing Complex]] | 概念 | 深化五大国际组织与资本网络将量化知识武器化以问责主权国家的复合治理图景。 |
+> | [[Methodological Transnationalism]] | 概念 | 倡导关系性空间与全球/国家联结视角，超越方法论民族主义与线性霸权模型。 |
+> | [[Governing by Numbers]] | 概念 | 推进数字治理从 1.0 的测验排名向 2.0 的政策中介与政策周期博弈演进。 |
 > | [[Pre-Transfer Agency]] | 概念 | 为政策转移发生前的本土合法性需求与动机提供核心解释要素。 |
 > | [[Comparative History of Comparative Education]] | 概念 | 倡导口述史方法并提出学科发展概念化，为抢救未见历史提供关键路径。 |
 > | [[Luhmann's Systems Theory]] | 理论 | 将社会系统论中的[[Autopoiesis\|自创生]]与外在化反思融入跨国政策借用分析。 |

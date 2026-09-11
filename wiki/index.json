@@ -706,6 +706,15 @@
     ]
   },
   {
+    "title": "Global Education Governing Complex",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Global Education Governing Complex.md",
+    "aliases": [
+      "全球教育治理复合体",
+      "全球教育治理复合网络"
+    ]
+  },
+  {
     "title": "Global Policy Space",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Global Policy Space.md",
@@ -880,6 +889,14 @@
     ]
   },
   {
+    "title": "Methodological Transnationalism",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Methodological Transnationalism.md",
+    "aliases": [
+      "方法论跨国主义"
+    ]
+  },
+  {
     "title": "National Character",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/National Character.md",
@@ -959,6 +976,17 @@
       "政策借用",
       "Educational Borrowing",
       "教育借用"
+    ]
+  },
+  {
+    "title": "Policy Brokerage",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Policy Brokerage.md",
+    "aliases": [
+      "政策中介",
+      "政策经纪",
+      "policy broker",
+      "政策经纪人"
     ]
   },
   {
@@ -22082,6 +22110,11 @@
     "title": "Argument_Klerides_2023_CE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Klerides_2023_CE.md"
+  },
+  {
+    "title": "Argument_Steiner-Khamsi_2024_CE",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Steiner-Khamsi_2024_CE.md"
   },
   {
     "title": "Argument_Teng_2025_CE",
