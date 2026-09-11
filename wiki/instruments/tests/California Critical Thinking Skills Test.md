@@ -63,7 +63,7 @@ updated: 2026-08-27
 > [!instrument-profile] California [[Critical Thinking|critical thinking skills]] Test（CCTST）
 > - **工具类型** 标准化能力测验（Standardized Cognitive Ability Test）。
 > - **开发者与年份** [[Peter Facione|Peter A. Facione]] & Noreen C. Facione (1990, 2000 修订版)。
-> - **测量目的** 依据美国哲学学会（APA）[[APA Delphi Consensus on Critical Thinking|德尔菲专家共识]]报告界定的批判性思维核心认知技能，测量个体在日常与专业情境中的分析、推论、评价与逻辑推导能力，广泛应用于高等教育学业增益评估与课程[[Intervention Research|干预研究]]。
+> - **测量目的** 依据美国哲学学会（[[APA Style|APA]]）[[APA Delphi Consensus on Critical Thinking|德尔菲专家共识]]报告界定的批判性思维核心认知技能，测量个体在日常与专业情境中的分析、推论、评价与逻辑推导能力，广泛应用于高等教育学业增益评估与课程[[Intervention Research|干预研究]]。
 > - **实施方式** 纸笔测试或计算机机考（限时 45–50 分钟），题项以文本、图表或短情境呈现。
 
 ---

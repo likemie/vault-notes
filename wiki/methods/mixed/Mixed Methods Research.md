@@ -170,7 +170,7 @@ updated: 2026-09-09
 > - **2003** 经典巨著 *Handbook of Mixed Methods in the Social and Behavior Sciences* 正式出版，标志着该领域专业化沉淀。
 > - **2007** 专业国际权威学术期刊 *Journal of Mixed Methods Research*（JMMR）创刊。
 > - **2014** [[Mixed Methods International Research Association|混合方法国际研究协会]]（[[Mixed Methods International Research Association|MMIRA]]）正式成立，建立全球学术共同体网络。
-> - **2020** 美国心理学会（APA）《出版手册》第七版首次正式确立混合方法研究报告标准（JARS-Mixed）。
+> - **2020** 美国心理学会（[[APA Style|APA]]）《出版手册》第七版首次正式确立混合方法研究报告标准（JARS-Mixed）。
 > - **至今** 在教育学、公共卫生、组织管理等领域成为复杂实证探究的主流[[Paradigm|研究范式]]之一（Molina-Azorin & Fetters, 2022）。
 
 ---

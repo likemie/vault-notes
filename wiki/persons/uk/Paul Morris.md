@@ -60,6 +60,8 @@ updated: 2026-09-11
 >
 > 2. **威权国家主义与教育的国安化** 在后 2019 香港语境下，教育从社会流动的工具转变为国家安全和民族建构的手段。Morris and Vickers 合作，分析了《国安法》如何加速了香港教育的"大陆化"。（Vickers & Morris, 2022）
 >
+> 3. **[[Mediatised Governance|媒介化治理]]与 PISA 的多重真实** 揭示跨国大规模评估数据进入国内公共领域后所触发的“罗生门效应”；本土政客运用“遗漏话语”与危机修辞扭曲国际报告，而大众媒体依循自身的媒介逻辑建构“水平下降”叙事并规避具体政策审查，共同催生了媒介化治理形态。（[[Argument_Grey_2018_CE|Grey & Morris, 2018]]）
+>
 > > "The strain of holding together a society shot through with profound divisions of class, residency, culture and ethnicity falls largely upon schooling and propaganda, backed up by repressive violence." (Vickers & Morris, 2022, p. 47，引自 [[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 483]])
 
 ## 主要贡献
@@ -68,6 +70,7 @@ updated: 2026-09-11
 > - [[Policy Borrowing]] — 与 Steiner-Khamsi 的政策借用框架保持一致，以香港为案例深化了对"借用"政治性的理解
 > - [[Liberal Studies]] — 与 Yan 合作的 2025 年论文是 LS 兴衰的权威分析
 > - **[[PISA]] 的政治解读** — Auld & Morris (2016) 揭示了 PISA 如何通过"翻译和说服"将复杂的教育条件转化为跨国"最佳实践"
+> - **[[Mediatised Governance|媒介化治理]]与评估数据的罗生门效应** — [[Argument_Grey_2018_CE|Grey & Morris (2018)]] 论证了跨国教育治理在英格兰如何被媒体逻辑与政治修辞重构为危机治理，揭示媒体在规避政策细则的同时消解了第四权力审查职能
 > - **香港教育的批判性历史** — Morris & Adamson (2010) 系统梳理了香港从殖民地到回归后的课程政治
 > - **国家安全的课程后果** — Vickers & Morris (2022) 最早将《国安法》与课程变革直接联系起来
 > - [[Transnationalism and America Project SYSU]] — Morris 的教育四象限（学术[[Rationalism in International Relations|理性主义]]、社会经济效率、儿童中心、社会重建）被 Schmidt (2010) 在 [[Argument_Ryan_2010_HKUP|Ryan & Slethaug (2010)]] 中用于论证香港[[International Schools|国际学校]]价值观为本课程的理论定位
@@ -77,6 +80,7 @@ updated: 2026-09-11
 > [!abstract] 主要著作
 > - Morris, P., & Adamson, B. (2010). *Curriculum, schooling and society in Hong Kong*. Hong Kong University Press. — 香港课程政治的历史分析
 > - Auld, E., & Morris, P. (2016). [[PISA]], policy and persuasion: Translating complex conditions into education 'best practice'. *Comparative Education*, 52(2), 202-229. — 批判性分析 PISA 如何在政策制定中被使用
+> - Grey, S., & Morris, P. (2018). [[PISA]]: multiple 'truths' and [[Mediatised Governance|mediatised global governance]]. *Comparative Education*, 54(2), 109–131. — 揭示英格兰 PISA 2012 结果在 OECD、政客与媒体之间的罗生门式解读与媒介化治理机制
 > - Vickers, E., & Morris, P. (2022). Accelerating Hong Kong's reeducation: 'mainlandisation', securitisation and the 2020 [[National Security Law]]. *Comparative Education*, 58(2), 187-205. — 国安法如何改变了香港教育的性质
 > - Forestier, K., Adamson, B., Han, C., & Morris, P. (2016). Referencing and borrowing from other systems: The Hong Kong education reforms. *Educational Research*, 58(2), 149-165. — LS 的 [[IB Diploma Programme|IBDP]] 参照分析
 > - Yan, K. C. A., & Morris, P. (2025). The life and death of [[Liberal Studies]]: explaining curriculum change in POST-handover Hong Kong. *Journal of Curriculum Studies*, 57(4), 480-494. — LS 兴衰的两阶段对比分析

@@ -6362,6 +6362,17 @@
     ]
   },
   {
+    "title": "Mediatised Governance",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Mediatised Governance.md",
+    "aliases": [
+      "媒介化治理",
+      "媒介化教育治理",
+      "mediatized governance",
+      "mediatised global governance"
+    ]
+  },
+  {
     "title": "Megascience Installations",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Megascience Installations.md",
@@ -21998,6 +22009,11 @@
     "title": "Argument_Cowen_2023_CE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Cowen_2023_CE.md"
+  },
+  {
+    "title": "Argument_Grey_2018_CE",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Grey_2018_CE.md"
   },
   {
     "title": "Argument_Klerides_2023_CE",

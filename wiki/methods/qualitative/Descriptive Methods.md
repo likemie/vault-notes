@@ -48,7 +48,7 @@ updated: 2026-06-01
 ## 定义
 
 > [!info]
-> 描述性方法（Descriptive Methods）是[[Qualitative Research|质性研究]]中的一种基础性分析路径：研究者贴近数据本身，使用有限的框架和解释来解释数据，并将信息归类为主题。它也被称为"主题分析"（thematic analysis）或"[[Descriptive Analysis|描述性分析]]"（descriptive analysis）（Braun & Clark, 2006; Sandelowski, 2000, 2010）。美国心理学会（APA）的最新标准将其认定为一种独立的质性方法类型（Levitt et al., 2018）（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9, p.196）。
+> 描述性方法（Descriptive Methods）是[[Qualitative Research|质性研究]]中的一种基础性分析路径：研究者贴近数据本身，使用有限的框架和解释来解释数据，并将信息归类为主题。它也被称为"主题分析"（thematic analysis）或"[[Descriptive Analysis|描述性分析]]"（descriptive analysis）（Braun & Clark, 2006; Sandelowski, 2000, 2010）。美国心理学会（[[APA Style|APA]]）的最新标准将其认定为一种独立的质性方法类型（Levitt et al., 2018）（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9, p.196）。
 
 > [!abstract] 三大维度
 > - 基于参与者的日常语言

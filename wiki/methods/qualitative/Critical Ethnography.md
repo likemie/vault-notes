@@ -45,7 +45,7 @@ updated: 2026-09-11
 ## 定义
 
 > [!def] 方法定义
-> 批判[[Ethnography|民族志]]（Critical Ethnography）是将权力、不平等和解放作为核心关切的批判质性研究方法，以改变而非仅仅描述社会现实为目标。该方法将民族志探究从"发现和描述"推进到"质疑和改变"，使研究成为揭露压迫并赋权被研究群体的行动主义实践。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 446–451)]]
+> 批判[[Ethnography|民族志]]（Critical Ethnography）是将权力、不平等和解放作为核心关切的批判[[Qualitative Research|质性研究]]方法，以改变而非仅仅描述社会现实为目标。该方法将民族志探究从"发现和描述"推进到"质疑和改变"，使研究成为揭露压迫并赋权被研究群体的行动主义实践。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 446–451)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 社会群体和文化情境中的权力关系、不平等、压迫结构，以及这些结构如何维持和再生产。
