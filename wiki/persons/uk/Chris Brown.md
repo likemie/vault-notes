@@ -12,7 +12,7 @@ person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
 tags:
-  - nationality/uk
+  - region/uk
   - theme/evidence-informed-practice
   - theme/school-improvement
   - theme/data-use

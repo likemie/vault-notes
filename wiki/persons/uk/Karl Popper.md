@@ -8,8 +8,8 @@ aliases:
   - Sir Karl Popper
 summary: "奥地利裔英国科学哲学家与社会哲学家，提出可证伪性划界标准与批判理性主义，其推测与反驳认识论、批判二元论与情境逻辑深刻重塑了战后社会科学、后实证主义及比较教育问题法范式。"
 type: person
-nationality: austria
-person_region: "austria"
+nationality: uk
+person_region: "uk"
 person_related_count: 26
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
@@ -19,6 +19,8 @@ tags:
   - person/philosopher-of-science
   - theme/epistemology
   - theme/critical-rationalism
+  - region/uk
+  - region/austria
 related_concepts:
   - "[[Scientific Method]]"
   - "[[Positivism]]"
@@ -55,7 +57,7 @@ related_instruments: []
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-09-07
+updated: 2026-09-11
 ---
 
 # Karl Popper

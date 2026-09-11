@@ -5,8 +5,8 @@ aliases:
   - U. Trautwein
 summary: "德国图宾根大学 Hector 教育科学与心理学研究所所长、原马克斯·普朗克人类发展研究所研究员，德国教育心理学领军学者，在认识论信念、家庭作业机制、学业自我概念与大规模教育评估领域贡献卓越。"
 type: person
-nationality: "de"
-person_region: "de"
+nationality: germany
+person_region: "germany"
 person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
@@ -36,7 +36,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-19
-updated: 2026-08-19
+updated: 2026-09-11
 ---
 
 # Ulrich Trautwein

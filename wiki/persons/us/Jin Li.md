@@ -5,8 +5,8 @@ aliases:
   - 李瑾
 summary: "华人教育研究者，布朗大学教授，以中西文化学习模型比较研究著称，提出好學心等中国本土学习概念"
 type: person
-nationality: china
-person_region: "china"
+nationality: us
+person_region: "us"
 person_related_count: 41
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
@@ -67,7 +67,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-21'
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 # Jin Li
 
@@ -133,7 +133,7 @@ Li 在第 2 章中系统追溯了西方与东亚两种学习文化的知识根�
 4. [[Action Better Than Words|行勝於言]]（Action Better Than Words）——沉默和行动优先于言语表达
 5. 由此导出**[[Chinese Learner|中国学习者]]**模型：以八个同心圆展开的学习层次（格物→致知→诚意→正心→[[Self-Cultivation|修身]]→齐家→治国→平天下），最终指向[[Junzi|君子]]和[[Sage|圣人]]的理想人格([[Argument_Li_2012_Cambridge|Li, 2012, pp.55-56]])
 
-两种模型的完整论证拆解见 [[Argument_Li_2012_Cambridge#第 2 章 两种文化学习模型]]。
+两种模型的完整论证拆解见 [[Argument_Li_2012_Cambridge#第 2 章 两种文化学习模型|Li (2012, 第 2 章)]]。
 
 ### 第 3 章：文化学习模型的实证研究
 

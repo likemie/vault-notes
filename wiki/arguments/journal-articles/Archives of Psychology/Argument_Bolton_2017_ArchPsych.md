@@ -10,7 +10,7 @@ title: "Argument_Bolton_2017_ArchPsych"
 argument_key: "Argument_Bolton_2017_ArchPsych"
 argument_display_title: "Cognitive and brain development: Executive function, Piaget, and the prefrontal cortex"
 argument_kind: "journal-article"
-argument_related_count: 26
+argument_related_count: 27
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -53,6 +53,7 @@ related_persons:
   - "[[Juan Pascual-Leone]]"
   - "[[Robbie Case]]"
   - "[[Kurt Fischer]]"
+  - "[[Akira Miyake]]"
 related_facts: []
 related_arguments: []
 sources:
@@ -60,7 +61,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-04'
-updated: '2026-06-10'
+updated: 2026-09-11
 year: 2017
 doi: ""
 citation_aliases:
@@ -93,7 +94,7 @@ citation_aliases:
 > |----------|----------|
 > | **[[Piaget's Theory of Cognitive Development\|皮亚杰认知发展理论 (Piaget's Theory of Cognitive Development)]]** | 感觉运动、前运算、具体运算和形式运算阶段，作为评估儿童认知成熟度的基线心理学框架（pp.2–3）。 |
 > | **[[Neo-Piagetian Theories\|新皮亚杰理论 (Neo-Piagetian Theories)]]** | [[Juan Pascual-Leone\|帕斯卡尔-莱昂 (Juan Pascual-Leone)]] (1970) 的心理能量 (M-power) 与干扰算子 (I-operator)；[[Robbie Case\|凯斯 (Robbie Case)]] (1985, 1992) 的领域子阶段和平衡木测试 (Balancing Beam Test)；[[Kurt Fischer\|菲舍尔 (Kurt Fischer)]] (1980) 的代表性映射 (Representational Mapping) 与环境经验可塑性 (Experience-Dependent Plasticity) 框架，用作修正经典阶段论、引入信息加工视角的中介工具（pp.3–4）。 |
-> | **[[Miyake's Unity and Diversity Framework of Executive Function\|Miyake执行功能统一性与多样性框架 (Miyake's Unity and Diversity Framework of Executive Function)]]** | 区分并定义了执行功能的三个核心成分：抑制优势反应 [[Cognitive Inhibition\|抑制控制 (Inhibition)]]、任务/精神集转换 [[Cognitive Shifting\|认知转换 (Shifting)]]、以及工作内存信息更新与监控 [[Updating and Monitoring\|工作记忆更新 (Updating)]]，作为解构认知控制能力的操作化量尺（p.4）。 |
+> | **[[Miyake's Unity and Diversity Framework of Executive Function\|Miyake执行功能统一性与多样性框架 (Miyake's Unity and Diversity Framework of Executive Function)]]** | [[Akira Miyake\|三宅（Akira Miyake）]]等人（2000）区分并定义了执行功能的三个核心成分：抑制优势反应 [[Cognitive Inhibition\|抑制控制 (Inhibition)]]、任务/精神集转换 [[Cognitive Shifting\|认知转换 (Shifting)]]、以及工作内存信息更新与监控 [[Updating and Monitoring\|工作记忆更新 (Updating)]]，作为解构认知控制能力的操作化量尺（p.4）。 |
 
 ---
 

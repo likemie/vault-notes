@@ -6,13 +6,14 @@ aliases:
   - Nicol, G.
 summary: "国际文凭北美公司长期执行主任，以教育规划和筹资经验建立介绍会、教师培训工作坊与学校支持网络，是国际文凭进入北美公立高中的关键组织者。"
 type: person
-nationality: ""
-person_region: "global"
+nationality: us
+person_region: "us"
 person_related_count: 7
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
 tags:
+  - region/us
   - region/north-america
   - field/educational-administration
   - theme/international-education
@@ -29,7 +30,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-01
-updated: 2026-09-03
+updated: 2026-09-11
 ---
 
 # Gilbert Nicol

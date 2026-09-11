@@ -6,8 +6,8 @@ aliases:
   - Torres, C. A.
 summary: "拉美批判教育学者，将弗莱雷传统与参与式行动研究结合，提出PAR五项原则，关注教育与社会转型中的权力、知识与意识提升"
 type: person
-nationality: argentina
-person_region: "argentina"
+nationality: us
+person_region: "us"
 person_related_count: 7
 person_related_level: 0
 person_related_stars: ""
@@ -17,6 +17,8 @@ tags:
   - participatory-action-research
   - critical-pedagogy
   - latin-america
+  - region/us
+  - region/argentina
 related_concepts:
   - "[[Critical Pedagogy]]"
   - "[[Epistemology]]"
@@ -31,7 +33,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18]]"
 status: draft
 created: 2026-07-19
-updated: 2026-07-19
+updated: 2026-09-11
 ---
 # Carlos Alberto Torres
 
@@ -45,7 +47,7 @@ updated: 2026-07-19
 > - **代表贡献** 提出参与式行动研究的五项原则（1992），将知识视为社会转型的动因，强调大众参与和意识提升。
 
 > [!citation-card]- 人物定位的关键来源
-> Torres（1992, p. 56）在拉美语境中提出参与式[[Action Research|行动研究]]的五项原则，其认识论基础植根于[[Critical Theory|批判理论]]及其对研究中主客体关系的批判。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, p. 271)]]
+> 托雷斯在拉美语境中提出参与式[[Action Research|行动研究]]的五项原则，其认识论基础植根于[[Critical Theory|批判理论]]及其对研究中主客体关系的批判。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, p. 271)]]
 >
 > *Torres (1992, p. 56) in Latin America, setting out several principles of participatory action research: its epistemological base is rooted in critical theory and its critique of the subject/object relations in research.*
 

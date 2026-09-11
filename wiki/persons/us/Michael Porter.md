@@ -15,7 +15,7 @@ tags:
 - michael-porter
 - competitive-strategy
 - national-competitive-advantage
-- region/united-states
+- region/us
 - level/higher-ed
 related_concepts:
   - "[[National Competitive Advantage]]"
@@ -33,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 ## 简介
 
@@ -80,7 +80,7 @@ Porter 的核心理论主张是：国家在全球市场中的竞争优势并非�
 
 - [[National Competitive Advantage]] — 提出国家竞争优势理论（1990），揭示竞争优势如何通过本地化过程被创造
 - 产业集群理论 — 论证地理集聚对创新的核心推动作用，为 Hub and [[Flow]] 想象提供学术基础
-- 被 Moisio（2022）分析为 [[Hub and Flow Imaginaries]] 的关键理论来源：Porter 的"全球化反而使国家更重要"悖论深刻影响了[[Knowledge-Based Economization|知识经济化]]中的空间政策逻辑
+- 被 [[Argument_Moisio_2022_Springer|Moisio (2022)]] 分析为 [[Hub and Flow Imaginaries]] 的关键理论来源：Porter 的"全球化反而使国家更重要"悖论深刻影响了[[Knowledge-Based Economization|知识经济化]]中的空间政策逻辑
 
 ---
 

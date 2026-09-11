@@ -5,8 +5,8 @@ aliases:
   - W. F. Whyte
 summary: "美国社会学家，《街角社会》（Street Corner Society）作者，以参与式观察研究著称，晚年反思田野工作者的个人经验与反身性，并推动参与式行动研究"
 type: person
-nationality: US
-person_region: "US"
+nationality: us
+person_region: "us"
 person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
@@ -14,6 +14,7 @@ person_related_color: "#dbeafe"
 tags:
   - person/sociology
   - person/qualitative-methods
+  - region/us
   - region/global
 related_concepts:
   - "[[Reflexivity]]"
@@ -36,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-16
-updated: 2026-08-16
+updated: 2026-09-11
 ---
 
 # William Foote Whyte

@@ -6,8 +6,8 @@ aliases:
   - 法乔恩
 summary: "美国著名教育哲学家、心理学家与高阶思维测评先驱，美国哲学学会德尔菲批判性思维共识报告首席研究员，加州批判性思维技能测验与倾向问卷编制者"
 type: person
-nationality: "美国"
-person_region: "美国"
+nationality: us
+person_region: "us"
 person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
@@ -17,6 +17,7 @@ tags:
   - critical-thinking
   - educational-philosophy
   - assessment
+  - region/us
 related_concepts:
   - "[[Critical Thinking]]"
   - "[[Operationalization]]"
@@ -39,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: '2026-08-27'
+updated: 2026-09-11
 ---
 
 # Peter Facione

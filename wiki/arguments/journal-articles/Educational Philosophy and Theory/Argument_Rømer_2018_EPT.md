@@ -9,7 +9,7 @@ title: "Argument_Rømer_2018_EPT"
 argument_key: "Argument_Rømer_2018_EPT"
 argument_display_title: "A critique of John Hattie's theory of Visible Learning"
 argument_kind: "journal-article"
-argument_related_count: 23
+argument_related_count: 24
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -48,6 +48,7 @@ related_methods:
   - "[[Internal Consistency]]"
 related_persons:
   - "[[John Hattie]]"
+  - "[[Ernst von Glasersfeld]]"
   - "[[Socrates]]"
 related_facts: []
 related_arguments: []
@@ -56,7 +57,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-03'
-updated: '2026-06-08'
+updated: 2026-09-11
 year: 2018
 doi: ""
 citation_aliases:
@@ -81,7 +82,7 @@ citation_aliases:
 > [!info] 研究方法
 > - 方法：[[Philosophical Analysis in Education]]
 > - 路径：概念分析和哲学论证，通过对 Hattie (2009) *[[Visible Learning]]* 第三章的深度阅读，追踪每条概念链的哲学前提和逻辑后果
-> - [[Dialogue in Education|对话]]对象：Popper 的科学哲学、Dewey/Biesta/Arendt/Kant 的教育哲学传统、von Glasersfeld 的[[Radical Constructivism|激进建构主义]]
+> - [[Dialogue in Education|对话]]对象：Popper 的科学哲学、Dewey/Biesta/Arendt/Kant 的教育哲学传统、[[Ernst von Glasersfeld|冯·格拉泽斯费尔德（Ernst von Glasersfeld）]]的[[Radical Constructivism|激进建构主义]]
 
 ## 核心论证
 

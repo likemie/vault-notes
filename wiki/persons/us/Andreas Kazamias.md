@@ -5,8 +5,8 @@ aliases:
   - 安德烈亚斯·卡扎米亚斯
 summary: "希腊裔比较教育学者，倡导历史和人文主义视角与普罗米修斯式比较教育，在历史诠释学上确立每一代人必须重写其历史的治学命题，CESE 荣誉会员。"
 type: person
-nationality: greece
-person_region: "greece"
+nationality: us
+person_region: "us"
 person_related_count: 43
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
@@ -15,6 +15,7 @@ tags:
   - subject/comparative-education
   - theme/history-of-education
   - theme/humanism
+  - region/us
   - region/greece
 related_concepts:
   - "[[Educational Meliorism]]"
@@ -68,7 +69,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: 2026-09-08
+updated: 2026-09-11
 ---
 
 # Andreas Kazamias

@@ -16,7 +16,7 @@ tags:
 - cultural-political-economy
 - knowledge-based-economy
 - meta-governance
-- region/united-kingdom
+- region/uk
 - level/higher-ed
 related_concepts:
   - "[[Knowledge-Based Economy]]"
@@ -39,7 +39,7 @@ related_facts:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 ## 简介
 

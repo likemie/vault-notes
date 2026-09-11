@@ -6,8 +6,8 @@ aliases:
   - Douglas N. Walton
 summary: "加拿大哲学家、非形式逻辑与论辩理论家，提出系统的论证型式理论及配套批判性提问清单，深刻影响了人工智能、法律逻辑与科学论证教育。"
 type: person
-nationality: "加拿大"
-person_region: "加拿大"
+nationality: canada
+person_region: "canada"
 person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
@@ -16,6 +16,7 @@ tags:
   - theme/argumentation
   - theme/critical-thinking
   - theme/epistemic-cognition
+  - region/canada
 related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Criterion-Referenced Test]]"
@@ -39,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-10
-updated: 2026-09-10
+updated: 2026-09-11
 ---
 
 # Douglas Walton
@@ -122,7 +123,7 @@ updated: 2026-09-10
 ## 争议与批评
 
 > [!critique]- 批评索引
-> - [[Argument_Duncan_2025_CI]] — 指出[[Walton's Argumentation Schemes|沃尔顿论证型式]]在科学论证评价中存在三重局限：① 批判性提问清单未提供[[Epistemology|认识论]]与因果哲学依据；② 无法处理海量收敛证据的统计合成；③ 在双方分歧时缺乏终审裁决机制。[[Argument_Duncan_2025_CI|(Duncan & Chinn, 2025, pp. 223–225)]]
+> - [[Argument_Duncan_2025_CI|Duncan & Chinn (2025)]] — 指出[[Walton's Argumentation Schemes|沃尔顿论证型式]]在科学论证评价中存在三重局限：① 批判性提问清单未提供[[Epistemology|认识论]]与因果哲学依据；② 无法处理海量收敛证据的统计合成；③ 在双方分歧时缺乏终审裁决机制。[[Argument_Duncan_2025_CI|(Duncan & Chinn, 2025, pp. 223–225)]]
 
 > [!warning] 未解问题与边界
 > 沃尔顿理论在科学教育的主要边界在于：论证型式描述推理结构，但不规定科学推理中何种证据层级具有认识论优先性。这一空缺促使后继研究者（如 Duncan & Chinn）转向将[[AIR Model of Epistemic Cognition|AIR]] 认识论模型与批判性提问清单系统整合的方向。

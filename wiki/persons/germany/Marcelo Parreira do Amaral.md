@@ -5,8 +5,8 @@ aliases:
   - 马塞洛·帕雷拉·多·阿马拉尔
 summary: "巴西裔德国比较教育学者，全球教育产业与知识地缘政治研究者，为教育研究分析高教国际化、市场化与地缘政治转型提供框架。"
 type: person
-nationality: brazil
-person_region: "brazil"
+nationality: germany
+person_region: "germany"
 person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
@@ -16,6 +16,7 @@ tags:
 - comparative-education
 - geopolitics-of-knowledge
 - region/germany
+- region/brazil
 - region/global
 - level/higher-ed
 related_concepts:
@@ -25,12 +26,12 @@ related_concepts:
   - "[[Global Regionalisms]]"
   - "[[Champ]]"
   - "[[New Geopolitics]]"
-  - "[[Analytic Framework]]"
   - "[[International Education Hubs]]"
   - "[[Knowledge-Based Economization]]"
 related_theories:
   - "[[Critical Geopolitics]]"
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons:
   - "[[Christiane Thompson]]"
   - "[[Gita Steiner-Khamsi]]"
@@ -39,7 +40,7 @@ related_arguments: []
 confidence: low
 status: draft
 created: '2026-05-07'
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 ## 简介
 

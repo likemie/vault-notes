@@ -6,8 +6,8 @@ aliases:
   - 班杜拉
 summary: "加拿大裔美国心理学家，社会学习理论（后演化为社会认知理论）的创立者，提出交互决定论和自我效能概念，对教育心理学和行为科学研究产生深远影响"
 type: person
-nationality: canada-usa
-person_region: "canada-usa"
+nationality: us
+person_region: "us"
 person_related_count: 4
 person_related_level: 0
 person_related_stars: "☆"
@@ -17,6 +17,8 @@ tags:
   - field/social-psychology
   - field/educational-psychology
   - theory/social-learning
+  - region/us
+  - region/canada
 related_concepts:
   - "[[Determinism]]"
   - "[[Self-Efficacy]]"
@@ -30,7 +32,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 # Albert Bandura
 

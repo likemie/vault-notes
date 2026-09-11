@@ -4,8 +4,8 @@ aliases:
   - 阿尔弗雷德·舒茨
 summary: "奥地利-美国社会学家与哲学家，现象学社会学奠基人，将胡塞尔现象学融入社会学，提出意识流反思性、常识类型化与多重实在理论，为社会科学诠释范式奠定本体论基石。"
 type: person
-nationality: austria
-person_region: "austria"
+nationality: us
+person_region: "us"
 person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"
@@ -14,6 +14,8 @@ tags:
   - person/sociologist
   - person/phenomenologist
   - theme/phenomenology
+  - region/us
+  - region/austria
 related_concepts:
   - "[[Creativity]]"
   - "[[Transfer Translation Transformation]]"
@@ -47,7 +49,7 @@ related_instruments: []
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-09-09
+updated: 2026-09-11
 ---
 
 # Alfred Schutz

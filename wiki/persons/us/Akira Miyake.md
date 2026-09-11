@@ -5,8 +5,8 @@ aliases:
   - 阿基拉·三宅
 summary: "日裔认知心理学家，执行功能统一性与多样性框架提出者，为教育研究测量学习中的执行功能与认知控制提供基础模型。"
 type: person
-nationality: japan
-person_region: "japan"
+nationality: us
+person_region: "us"
 person_related_count: 6
 person_related_level: 0
 person_related_stars: ""
@@ -15,6 +15,8 @@ tags:
 - miyake
 - executive-function
 - cognitive-science
+- region/us
+- region/japan
 related_concepts:
   - "[[Executive Function]]"
   - "[[Working Memory]]"
@@ -30,7 +32,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-04'
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 ## 简介
 
@@ -52,7 +54,7 @@ updated: '2026-06-08'
 
 > [!success] 主要贡献
 > - [[Miyake's Unity and Diversity Framework of Executive Function|miyake-unity-diversity-framework]] — EF 的三成分统一性与多样性模型，成为[[Executive Function|执行功能]]研究的基础框架
-> - 该框架被 Bolton & Hattie (2017) 用作将 EF 发展轨迹与[[Jean Piaget|皮亚杰]]阶段对齐的核心理论工具([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.4, 8–9]])
+> - 该框架被 [[Argument_Bolton_2017_ArchPsych|Bolton & Hattie (2017, pp. 4, 8–9)]] 用作将 EF 发展轨迹与[[Jean Piaget|皮亚杰]]阶段对齐的核心理论工具。
 
 ## 思想发展与影响
 

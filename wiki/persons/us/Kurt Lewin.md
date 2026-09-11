@@ -6,8 +6,8 @@ aliases:
   - Lewin, K.
 summary: "社会心理学创始人之一、行动研究的奠基人，提出群体动力学、力场分析、变革三步模型（解冻—移动—再冻结）和行动研究螺旋模型"
 type: person
-nationality: germany
-person_region: "germany"
+nationality: us
+person_region: "us"
 person_related_count: 10
 person_related_level: 1
 person_related_stars: "⭐"
@@ -18,6 +18,8 @@ tags:
   - action-research
   - group-dynamics
   - organizational-change
+  - region/us
+  - region/germany
 related_concepts:
   - "[[Champ]]"
   - "[[Gatekeepers]]"
@@ -34,7 +36,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18]]"
 status: draft
 created: 2026-07-18
-updated: 2026-07-18
+updated: 2026-09-11
 ---
 # Kurt Lewin
 

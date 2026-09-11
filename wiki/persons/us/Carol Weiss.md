@@ -5,8 +5,8 @@ aliases:
   - Weiss, C. H.
 summary: "美国政策与社会研究学者，研究利用（research utilization）研究的开创者，提出研究利用的七种模型与知识渗透（knowledge creep）概念，奠定概念性、工具性与象征性使用类型学的基础"
 type: person
-nationality: "American"
-person_region: "American"
+nationality: us
+person_region: "us"
 person_related_count: 8
 person_related_level: 1
 person_related_stars: "⭐"
@@ -15,6 +15,7 @@ tags:
   - field/policy-research
   - topic/research-use
   - theme/evidence-informed-practice
+  - region/us
 related_concepts:
   - "[[Research Utilization]]"
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
@@ -33,7 +34,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-08-26
+updated: 2026-09-11
 ---
 
 # Carol Weiss
@@ -48,7 +49,7 @@ updated: 2026-08-26
 > - **代表贡献** 提出[[Research Utilization Models|研究利用模型]]（1979）；提出"知识渗透"（knowledge creep）概念（1980）；为概念性、工具性与[[Conceptual, Instrumental, and Symbolic Use of Research|象征性使用]]类型学奠定基础。
 
 > [!citation-card]- 人物定位的关键来源
-> Weiss（1979）提出研究利用的七种模型（知识驱动、[[Problem Solving|问题解决]]、互动、政治、战术、启蒙、以及研究作为社会智识事业的一部分），成为后来概念性、工具性与象征性使用类型学的基础（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al., 2026, p.3]]）。
+> 卡罗尔·韦斯于 1979 年提出研究利用的七种模型（知识驱动、[[Problem Solving|问题解决]]、互动、政治、战术、启蒙、以及研究作为社会智识事业的一部分），成为后来概念性、工具性与象征性使用类型学的基础（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al., 2026, p.3]]）。
 >
 > *Weiss (1979) who introduced seven models of research use... This served as the basis of the later typologies of research use as conceptual, instrumental or symbolic.*
 
@@ -65,7 +66,7 @@ updated: 2026-08-26
 ## 主要著作与思想发展
 
 > [!work-line] 主要著作
-> - **1979 — *The Many Meanings of [[Research Utilization]]*** 提出研究利用的七种模型，区分知识如何以不同方式进入政策与实践（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al., 2026, p.3]]）。
+> - **1979 — *The Many Meanings of [[Research Utilization]]*** 提出研究利用的七种模型，区分知识如何以不同方式进入政策与实践。
 > - **1980 — *Knowledge Creep and Decision Accretion*** 提出"知识渗透"（knowledge creep），说明研究常以缓慢、累积、间接的方式改变决策者思维，而非直接应用（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al., 2026, p.3]]）。
 > - **1991** 归纳研究利用的四种过程模型（研发、[[Problem Solving|问题解决]]、互动、战术），见 [[Research Utilization|研究利用]]。
 

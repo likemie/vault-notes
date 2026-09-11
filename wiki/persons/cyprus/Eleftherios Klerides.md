@@ -17,6 +17,7 @@ tags:
   - field/history-of-education
   - theory/international-relations
   - theme/geopolitics
+  - region/cyprus
   - region/greece
 related_concepts:
   - "[[Realism in International Relations]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-04
-updated: 2026-07-09
+updated: 2026-09-11
 ---
 
 # Eleftherios Klerides

@@ -15294,31 +15294,12 @@
     ]
   },
   {
-    "title": "Carlos Alberto Torres",
-    "type": "person",
-    "path": "wiki/persons/argentina/Carlos Alberto Torres.md",
-    "aliases": [
-      "卡洛斯·阿尔贝托·托雷斯",
-      "托雷斯",
-      "Torres, C. A."
-    ]
-  },
-  {
     "title": "Jason Beech",
     "type": "person",
     "path": "wiki/persons/argentina/Jason Beech.md",
     "aliases": [
       "Beech, J.",
       "贾森·比奇"
-    ]
-  },
-  {
-    "title": "Walter Mignolo",
-    "type": "person",
-    "path": "wiki/persons/argentina/Walter Mignolo.md",
-    "aliases": [
-      "Mignolo, W.",
-      "沃尔特·米尼奥罗"
     ]
   },
   {
@@ -15386,26 +15367,6 @@
     ]
   },
   {
-    "title": "Alfred Schutz",
-    "type": "person",
-    "path": "wiki/persons/austria/Alfred Schutz.md",
-    "aliases": [
-      "阿尔弗雷德·舒茨"
-    ]
-  },
-  {
-    "title": "Karl Popper",
-    "type": "person",
-    "path": "wiki/persons/austria/Karl Popper.md",
-    "aliases": [
-      "卡尔·波普尔",
-      "Karl R. Popper",
-      "K. R. Popper",
-      "K. Popper",
-      "Sir Karl Popper"
-    ]
-  },
-  {
     "title": "Otto Neurath",
     "type": "person",
     "path": "wiki/persons/austria/Otto Neurath.md",
@@ -15438,15 +15399,6 @@
     "aliases": [
       "Delambre, D.",
       "戴尔·德朗布尔"
-    ]
-  },
-  {
-    "title": "Marcelo Parreira do Amaral",
-    "type": "person",
-    "path": "wiki/persons/brazil/Marcelo Parreira do Amaral.md",
-    "aliases": [
-      "Amaral, M. P. D.",
-      "马塞洛·帕雷拉·多·阿马拉尔"
     ]
   },
   {
@@ -15514,6 +15466,16 @@
     ]
   },
   {
+    "title": "Douglas Walton",
+    "type": "person",
+    "path": "wiki/persons/canada/Douglas Walton.md",
+    "aliases": [
+      "道格拉斯·沃尔顿",
+      "沃尔顿",
+      "Douglas N. Walton"
+    ]
+  },
+  {
     "title": "Jane Knight",
     "type": "person",
     "path": "wiki/persons/canada/Jane Knight.md",
@@ -15547,16 +15509,6 @@
     "aliases": [
       "Greenfield, T. B.",
       "托马斯·巴尔·格林菲尔德"
-    ]
-  },
-  {
-    "title": "Douglas Walton",
-    "type": "person",
-    "path": "wiki/persons/canada/Douglas Walton.md",
-    "aliases": [
-      "道格拉斯·沃尔顿",
-      "沃尔顿",
-      "Douglas N. Walton"
     ]
   },
   {
@@ -15629,15 +15581,6 @@
     ]
   },
   {
-    "title": "Hsu Cho-Yun",
-    "type": "person",
-    "path": "wiki/persons/china/Hsu Cho-Yun.md",
-    "aliases": [
-      "许倬云",
-      "Hsu, C.-Y."
-    ]
-  },
-  {
     "title": "Hu Shi",
     "type": "person",
     "path": "wiki/persons/china/Hu Shi.md",
@@ -15664,15 +15607,6 @@
     "path": "wiki/persons/china/Jiang Shigong.md",
     "aliases": [
       "强世功"
-    ]
-  },
-  {
-    "title": "Jin Li",
-    "type": "person",
-    "path": "wiki/persons/china/Jin Li.md",
-    "aliases": [
-      "Li, J.",
-      "李瑾"
     ]
   },
   {
@@ -15764,15 +15698,6 @@
     ]
   },
   {
-    "title": "Yong Zhao",
-    "type": "person",
-    "path": "wiki/persons/china/Yong Zhao.md",
-    "aliases": [
-      "Zhao, Y.",
-      "赵勇"
-    ]
-  },
-  {
     "title": "Zhao Tingyang",
     "type": "person",
     "path": "wiki/persons/china/Zhao Tingyang.md",
@@ -15802,12 +15727,13 @@
     ]
   },
   {
-    "title": "Arturo Escobar",
+    "title": "Eleftherios Klerides",
     "type": "person",
-    "path": "wiki/persons/colombia/Arturo Escobar.md",
+    "path": "wiki/persons/cyprus/Eleftherios Klerides.md",
     "aliases": [
-      "Escobar, A.",
-      "阿图罗·埃斯科瓦尔"
+      "Klerides, E.",
+      "埃莱夫塞里奥斯·克莱里德斯",
+      "克莱里德斯"
     ]
   },
   {
@@ -15992,15 +15918,6 @@
     ]
   },
   {
-    "title": "Ulrich Trautwein",
-    "type": "person",
-    "path": "wiki/persons/germany/Ulrich Trautwein.md",
-    "aliases": [
-      "乌尔里希·特劳特温",
-      "U. Trautwein"
-    ]
-  },
-  {
     "title": "Andreas Helmke",
     "type": "person",
     "path": "wiki/persons/germany/Andreas Helmke.md",
@@ -16035,15 +15952,6 @@
       "埃德蒙德·胡塞尔",
       "Edmund G. A. Husserl",
       "Edmund Gustav Albrecht Husserl"
-    ]
-  },
-  {
-    "title": "Ernst von Glasersfeld",
-    "type": "person",
-    "path": "wiki/persons/germany/Ernst von Glasersfeld.md",
-    "aliases": [
-      "Glasersfeld, E. V.",
-      "恩斯特·冯·格拉泽斯费尔德"
     ]
   },
   {
@@ -16112,13 +16020,12 @@
     ]
   },
   {
-    "title": "Kurt Lewin",
+    "title": "Marcelo Parreira do Amaral",
     "type": "person",
-    "path": "wiki/persons/germany/Kurt Lewin.md",
+    "path": "wiki/persons/germany/Marcelo Parreira do Amaral.md",
     "aliases": [
-      "库尔特·勒温",
-      "勒温",
-      "Lewin, K."
+      "Amaral, M. P. D.",
+      "马塞洛·帕雷拉·多·阿马拉尔"
     ]
   },
   {
@@ -16141,6 +16048,15 @@
     ]
   },
   {
+    "title": "Ulrich Trautwein",
+    "type": "person",
+    "path": "wiki/persons/germany/Ulrich Trautwein.md",
+    "aliases": [
+      "乌尔里希·特劳特温",
+      "U. Trautwein"
+    ]
+  },
+  {
     "title": "Wolfgang Klafki",
     "type": "person",
     "path": "wiki/persons/germany/Wolfgang Klafki.md",
@@ -16156,35 +16072,6 @@
     "aliases": [
       "杰拉德·雷诺",
       "Gérard Renaud"
-    ]
-  },
-  {
-    "title": "Gilbert Nicol",
-    "type": "person",
-    "path": "wiki/persons/global/Gilbert Nicol.md",
-    "aliases": [
-      "吉尔伯特·尼科尔",
-      "Gil Nicol",
-      "Nicol, G."
-    ]
-  },
-  {
-    "title": "Eleftherios Klerides",
-    "type": "person",
-    "path": "wiki/persons/greece/Eleftherios Klerides.md",
-    "aliases": [
-      "Klerides, E.",
-      "埃莱夫塞里奥斯·克莱里德斯",
-      "克莱里德斯"
-    ]
-  },
-  {
-    "title": "Andreas Kazamias",
-    "type": "person",
-    "path": "wiki/persons/greece/Andreas Kazamias.md",
-    "aliases": [
-      "Kazamias, A.",
-      "安德烈亚斯·卡扎米亚斯"
     ]
   },
   {
@@ -16218,15 +16105,6 @@
     "aliases": [
       "Hazelkorn, E.",
       "埃伦·黑兹尔科恩"
-    ]
-  },
-  {
-    "title": "Akira Miyake",
-    "type": "person",
-    "path": "wiki/persons/japan/Akira Miyake.md",
-    "aliases": [
-      "Miyake, A.",
-      "阿基拉·三宅"
     ]
   },
   {
@@ -16737,6 +16615,18 @@
     ]
   },
   {
+    "title": "Karl Popper",
+    "type": "person",
+    "path": "wiki/persons/uk/Karl Popper.md",
+    "aliases": [
+      "卡尔·波普尔",
+      "Karl R. Popper",
+      "K. R. Popper",
+      "K. Popper",
+      "Sir Karl Popper"
+    ]
+  },
+  {
     "title": "Keith Morrison",
     "type": "person",
     "path": "wiki/persons/uk/Keith Morrison.md",
@@ -17016,12 +16906,23 @@
     ]
   },
   {
-    "title": "Carol Weiss",
+    "title": "Abraham Maslow",
     "type": "person",
-    "path": "wiki/persons/us/Carol Weiss.md",
+    "path": "wiki/persons/us/Abraham Maslow.md",
     "aliases": [
-      "卡罗尔·韦斯",
-      "Weiss, C. H."
+      "亚伯拉罕·马斯洛",
+      "马斯洛",
+      "Maslow, A. H.",
+      "Abraham H. Maslow"
+    ]
+  },
+  {
+    "title": "Akira Miyake",
+    "type": "person",
+    "path": "wiki/persons/us/Akira Miyake.md",
+    "aliases": [
+      "Miyake, A.",
+      "阿基拉·三宅"
     ]
   },
   {
@@ -17035,17 +16936,6 @@
     ]
   },
   {
-    "title": "Abraham Maslow",
-    "type": "person",
-    "path": "wiki/persons/us/Abraham Maslow.md",
-    "aliases": [
-      "亚伯拉罕·马斯洛",
-      "马斯洛",
-      "Maslow, A. H.",
-      "Abraham H. Maslow"
-    ]
-  },
-  {
     "title": "Alex Osborn",
     "type": "person",
     "path": "wiki/persons/us/Alex Osborn.md",
@@ -17054,6 +16944,14 @@
       "亚历克斯·F·奥斯本",
       "Alex F. Osborn",
       "亚历克斯·法克尼·奥斯本"
+    ]
+  },
+  {
+    "title": "Alfred Schutz",
+    "type": "person",
+    "path": "wiki/persons/us/Alfred Schutz.md",
+    "aliases": [
+      "阿尔弗雷德·舒茨"
     ]
   },
   {
@@ -17075,6 +16973,15 @@
     ]
   },
   {
+    "title": "Andreas Kazamias",
+    "type": "person",
+    "path": "wiki/persons/us/Andreas Kazamias.md",
+    "aliases": [
+      "Kazamias, A.",
+      "安德烈亚斯·卡扎米亚斯"
+    ]
+  },
+  {
     "title": "Ann Swidler",
     "type": "person",
     "path": "wiki/persons/us/Ann Swidler.md",
@@ -17090,6 +16997,15 @@
     "aliases": [
       "Bryk, A.",
       "安东尼·布赖克"
+    ]
+  },
+  {
+    "title": "Arturo Escobar",
+    "type": "person",
+    "path": "wiki/persons/us/Arturo Escobar.md",
+    "aliases": [
+      "Escobar, A.",
+      "阿图罗·埃斯科瓦尔"
     ]
   },
   {
@@ -17139,6 +17055,25 @@
     ]
   },
   {
+    "title": "Carlos Alberto Torres",
+    "type": "person",
+    "path": "wiki/persons/us/Carlos Alberto Torres.md",
+    "aliases": [
+      "卡洛斯·阿尔贝托·托雷斯",
+      "托雷斯",
+      "Torres, C. A."
+    ]
+  },
+  {
+    "title": "Carol Weiss",
+    "type": "person",
+    "path": "wiki/persons/us/Carol Weiss.md",
+    "aliases": [
+      "卡罗尔·韦斯",
+      "Weiss, C. H."
+    ]
+  },
+  {
     "title": "Catherine Lewis",
     "type": "person",
     "path": "wiki/persons/us/Catherine Lewis.md",
@@ -17163,8 +17098,7 @@
     "path": "wiki/persons/us/Clifford Geertz.md",
     "aliases": [
       "克利福德·格尔茨",
-      "Clifford James Geertz",
-      "Geertz"
+      "Clifford James Geertz"
     ]
   },
   {
@@ -17219,6 +17153,15 @@
     ]
   },
   {
+    "title": "Ernst von Glasersfeld",
+    "type": "person",
+    "path": "wiki/persons/us/Ernst von Glasersfeld.md",
+    "aliases": [
+      "Glasersfeld, E. V.",
+      "恩斯特·冯·格拉泽斯费尔德"
+    ]
+  },
+  {
     "title": "Fred N. Kerlinger",
     "type": "person",
     "path": "wiki/persons/us/Fred N. Kerlinger.md",
@@ -17269,6 +17212,16 @@
       "凯利，G.",
       "Kelly, G. A.",
       "George A. Kelly"
+    ]
+  },
+  {
+    "title": "Gilbert Nicol",
+    "type": "person",
+    "path": "wiki/persons/us/Gilbert Nicol.md",
+    "aliases": [
+      "吉尔伯特·尼科尔",
+      "Gil Nicol",
+      "Nicol, G."
     ]
   },
   {
@@ -17362,6 +17315,15 @@
     ]
   },
   {
+    "title": "Hsu Cho-Yun",
+    "type": "person",
+    "path": "wiki/persons/us/Hsu Cho-Yun.md",
+    "aliases": [
+      "许倬云",
+      "Hsu, C.-Y."
+    ]
+  },
+  {
     "title": "Isaac Kandel",
     "type": "person",
     "path": "wiki/persons/us/Isaac Kandel.md",
@@ -17411,6 +17373,15 @@
       "James Spohrer",
       "Jim C. Spohrer",
       "J. C. Spohrer"
+    ]
+  },
+  {
+    "title": "Jin Li",
+    "type": "person",
+    "path": "wiki/persons/us/Jin Li.md",
+    "aliases": [
+      "Li, J.",
+      "李瑾"
     ]
   },
   {
@@ -17473,6 +17444,16 @@
     ]
   },
   {
+    "title": "Kurt Lewin",
+    "type": "person",
+    "path": "wiki/persons/us/Kurt Lewin.md",
+    "aliases": [
+      "库尔特·勒温",
+      "勒温",
+      "Lewin, K."
+    ]
+  },
+  {
     "title": "Larry Cuban",
     "type": "person",
     "path": "wiki/persons/us/Larry Cuban.md",
@@ -17532,6 +17513,16 @@
     ]
   },
   {
+    "title": "Peter Facione",
+    "type": "person",
+    "path": "wiki/persons/us/Peter Facione.md",
+    "aliases": [
+      "Peter A. Facione",
+      "彼得·法乔恩",
+      "法乔恩"
+    ]
+  },
+  {
     "title": "Philip Foster",
     "type": "person",
     "path": "wiki/persons/us/Philip Foster.md",
@@ -17549,6 +17540,16 @@
       "Stake, R. E.",
       "Robert Stake",
       "罗伯特·斯塔克"
+    ]
+  },
+  {
+    "title": "Robert Ennis",
+    "type": "person",
+    "path": "wiki/persons/us/Robert Ennis.md",
+    "aliases": [
+      "Robert H. Ennis",
+      "罗伯特·恩尼斯",
+      "恩尼斯"
     ]
   },
   {
@@ -17648,6 +17649,15 @@
     ]
   },
   {
+    "title": "Walter Mignolo",
+    "type": "person",
+    "path": "wiki/persons/us/Walter Mignolo.md",
+    "aliases": [
+      "Mignolo, W.",
+      "沃尔特·米尼奥罗"
+    ]
+  },
+  {
     "title": "William Foote Whyte",
     "type": "person",
     "path": "wiki/persons/us/William Foote Whyte.md",
@@ -17670,6 +17680,15 @@
     ]
   },
   {
+    "title": "Yong Zhao",
+    "type": "person",
+    "path": "wiki/persons/us/Yong Zhao.md",
+    "aliases": [
+      "Zhao, Y.",
+      "赵勇"
+    ]
+  },
+  {
     "title": "Yvonna S. Lincoln",
     "type": "person",
     "path": "wiki/persons/us/Yvonna S. Lincoln.md",
@@ -17677,26 +17696,6 @@
       "Lincoln, Y. S.",
       "Yvonna Lincoln",
       "伊冯娜·林肯"
-    ]
-  },
-  {
-    "title": "Peter Facione",
-    "type": "person",
-    "path": "wiki/persons/us/Peter Facione.md",
-    "aliases": [
-      "Peter A. Facione",
-      "彼得·法乔恩",
-      "法乔恩"
-    ]
-  },
-  {
-    "title": "Robert Ennis",
-    "type": "person",
-    "path": "wiki/persons/us/Robert Ennis.md",
-    "aliases": [
-      "Robert H. Ennis",
-      "罗伯特·恩尼斯",
-      "恩尼斯"
     ]
   },
   {

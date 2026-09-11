@@ -7,7 +7,7 @@ title: "Argument_Li_2012_Cambridge"
 argument_key: "Argument_Li_2012_Cambridge"
 argument_display_title: "Cultural Foundations of Learning: East and West"
 argument_kind: "book"
-argument_related_count: 149
+argument_related_count: 150
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Document]]"
   - "[[Concept Mapping]]"
   - "[[Ideal Learner]]"
-  - "[[Questionnaire]]"
   - "[[Scaffolding]]"
   - "[[Parental Cognitive and Affective Socialization]]"
   - "[[Problem Solving]]"
@@ -84,7 +83,6 @@ related_concepts:
   - "[[Take the World Upon Oneself]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Establishing One's Will]]"
-  - "[[Data Display]]"
   - "[[Scientific Method]]"
   - "[[Homework]]"
   - "[[Examination Hell]]"
@@ -104,7 +102,6 @@ related_concepts:
   - "[[Chain of Evidence]]"
   - "[[Flow]]"
   - "[[Executive Function]]"
-  - "[[Analytic Framework]]"
   - "[[Locus of Control]]"
   - "[[International Education]]"
   - "[[Academic Engagement]]"
@@ -145,11 +142,14 @@ related_methods:
   - "[[Prototype Methods]]"
   - "[[Content Analysis]]"
   - "[[Survey Research]]"
+  - "[[Questionnaire]]"
   - "[[Triangulation]]"
   - "[[Mother-Child Conversation]]"
   - "[[Discourse Analysis]]"
+  - "[[Data Display]]"
   - "[[Ethnography]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Analytic Framework]]"
   - "[[Experience Sampling Method]]"
   - "[[Longitudinal Study]]"
   - "[[Qualitative Research]]"
@@ -161,6 +161,7 @@ related_facts:
   - "[[Three Excellences]]"
   - "[[Gaokao]]"
 related_persons:
+  - "[[Jin Li]]"
   - "[[Confucius]]"
   - "[[Mencius]]"
   - "[[Xunzi]]"
@@ -183,7 +184,7 @@ sources:
 part_of: []
 status: draft
 created: 2026-05-21
-updated: '2026-08-27'
+updated: 2026-09-11
 year: 2012
 doi: ""
 citation_aliases:
@@ -202,7 +203,7 @@ citation_aliases:
 ## 理论框架
 
 > [!abstract]
-> 全书采用描述性与解释性（descriptive and interpretive）取向，而非规范性（prescriptive）取向。研究路径是通过追溯东亚与西方各自的知识传统，展示文化学习模型如何像"渗透性的光"一样影响成人对儿童的引导和儿童自身的发展。
+> 全书采用描述性与解释性（descriptive and interpretive）取向，而非规范性（prescriptive）取向。[[Jin Li|李瑾（Jin Li）]]通过追溯东亚与西方各自的知识传统，展示文化学习模型如何像"渗透性的光"一样影响成人对儿童的引导和儿童自身的发展。
 
 研究聚焦于一般文化取向（general cultural orientations），而非文化内部的个体差异或反例——作者坦承这一选择不是要概括所有个体，而是因为其关注的是文化的"运作方式"（workings），而非"异常或失败"（anomalies or failures）。
 

@@ -5,8 +5,8 @@ aliases:
   - 赵勇
 summary: "华裔比较教育学者，堪萨斯大学教育学院教授，以教育副作用框架和 PISA 系统性批评著称，为反思标准化改革和国际评估提供批判性视角"
 type: person
-nationality: china
-person_region: "china"
+nationality: us
+person_region: "us"
 person_related_count: 16
 person_related_level: 2
 person_related_stars: "⭐⭐"
@@ -42,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-04
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 # Yong Zhao
 
@@ -66,8 +66,8 @@ updated: '2026-06-08'
 ## 主要著作
 
 > [!abstract]
-> - Zhao, Y. (2017). What works may hurt: [[Side Effects]] in education. *Journal of Educational Change*. — 从医学引入副作用概念，以[[Direct Instruction|直接教学]]、东亚教育体系、[[No Child Left Behind Act 2001|NCLB]] 三个案例论证教育干预的效果与副作用是不可分离的双重结果（详见 [[Argument_Zhao_2017_JEC]]）。
-> - Zhao, Y. (2020). Two decades of havoc: A synthesis of criticism against [[PISA]]. *Journal of Educational Change*. — 系统梳理近二十年对 [[PISA]] 的批评，从教育观、实施和解释三个维度揭示 PISA 的根本缺陷（详见 [[Argument_Zhao_2020_JEC]]）。
+> - Zhao, Y. (2017). What works may hurt: [[Side Effects]] in education. *Journal of Educational Change*. — 从医学引入副作用概念，以[[Direct Instruction|直接教学]]、东亚教育体系、[[No Child Left Behind Act 2001|NCLB]] 三个案例论证教育干预的效果与副作用是不可分离的双重结果（详见 [[Argument_Zhao_2017_JEC|Zhao, 2017]]）。
+> - Zhao, Y. (2020). Two decades of havoc: A synthesis of criticism against [[PISA]]. *Journal of Educational Change*. — 系统梳理近二十年对 [[PISA]] 的批评，从教育观、实施和解释三个维度揭示 PISA 的根本缺陷（详见 [[Argument_Zhao_2020_JEC|Zhao, 2020]]）。
 
 ---
 

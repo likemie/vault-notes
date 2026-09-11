@@ -5,8 +5,8 @@ aliases:
   - 恩斯特·冯·格拉泽斯费尔德
 summary: "德裔美籍哲学家和认知心理学家，激进建构主义创始人，为教育研究理解知识建构、学习主体与反表征认识论提供重要参照。"
 type: person
-nationality: germany
-person_region: "germany"
+nationality: us
+person_region: "us"
 person_related_count: 10
 person_related_level: 1
 person_related_stars: "⭐"
@@ -35,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-03'
-updated: 2026-08-20
+updated: 2026-09-11
 ---
 ## 简介
 

@@ -5,13 +5,14 @@ aliases:
   - Hsu, C.-Y.
 summary: "中国著名历史学家，海外文化保守主义史学代表人物，提出族裔文化型中国观，强调中国由中原汉族与汉文化界定，其史学著作深刻影响了海峡两岸及香港的传统文化认同构建"
 type: person
-nationality: china
-person_region: "china"
+nationality: us
+person_region: "us"
 person_related_count: 6
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
 tags:
+  - region/us
   - region/china
   - region/hong-kong
   - discipline/history
@@ -32,7 +33,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-26'
-updated: '2026-07-22'
+updated: 2026-09-11
 ---
 
 # Hsu Cho-Yun
@@ -107,7 +108,7 @@ updated: '2026-07-22'
 > > [!axis] 族裔文化构成论 vs 物理领土构成论
 > > 围绕“中国”这一国家概念的构成性基石究竟是中原汉族文化，还是当代多民族共同生活的物理领土展开。
 > >
-> > - **许倬云代表的族裔文化观（[[Argument_Xu_2024_CE|Xu, 2024]]）** — 以汉族与汉文化为构成性要素，领土为随文化接受度变化的表达性要素[[Argument_Xu_2024_CE|(Xu, 2024, p. 576)]]。
+> > - **许倬云代表的族裔文化观** — 以汉族与汉文化为构成性要素，领土为随文化接受度变化的表达性要素[[Argument_Xu_2024_CE|(Xu, 2024, p. 576)]]。
 > > - **[[Fei Xiaotong|费孝通]]代表的领土国家观（Lu, 2017; [[Argument_Xu_2024_CE|Xu, 2024]]）** — 以当代领土为构成性要素，将各民族平等包容于[[Zhonghua Minzu|中华民族]]大家庭内。
 
 > [!critique]- 批评索引

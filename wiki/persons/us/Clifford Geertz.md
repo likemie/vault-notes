@@ -3,11 +3,10 @@ title: Clifford Geertz
 aliases:
   - 克利福德·格尔茨
   - Clifford James Geertz
-  - Geertz
 summary: "美国人类学家，诠释人类学（interpretive anthropology）的代表人物，以厚描述（thick description）概念深刻影响质性研究与民族志方法论"
 type: person
-nationality: US
-person_region: "US"
+nationality: us
+person_region: "us"
 person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
@@ -15,6 +14,7 @@ person_related_color: "#dbeafe"
 tags:
   - person/anthropology
   - person/interpretive-anthropology
+  - region/us
   - region/global
 related_concepts:
   - "[[Rich and Thick Description]]"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Naturalistic Generalization]]"
   - "[[Reflexivity]]"
-  - "[[Analytic Framework]]"
   - "[[Double Hermeneutic]]"
   - "[[Emic and Etic]]"
 related_theories: []
@@ -31,6 +30,7 @@ related_methods:
   - "[[Ethnography]]"
   - "[[Accounts]]"
   - "[[Field Notes]]"
+  - "[[Analytic Framework]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -38,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-14
-updated: 2026-08-15
+updated: 2026-09-11
 ---
 
 # Clifford Geertz

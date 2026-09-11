@@ -5,8 +5,8 @@ aliases:
   - 沃尔特·米尼奥罗
 summary: "阿根廷裔文学与文化理论家，殖民性、边界思维与认识论不服从理论代表人物，为教育研究提供去殖民知识政治的核心概念。"
 type: person
-nationality: argentina
-person_region: "argentina"
+nationality: us
+person_region: "us"
 person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
@@ -29,14 +29,14 @@ related_concepts:
   - "[[Corporate University]]"
   - "[[Ways of Knowing]]"
   - "[[Life Power]]"
-  - "[[Analytic Framework]]"
   - "[[Social Museology]]"
   - "[[Champ]]"
 related_theories:
   - "[[Creative Tension of Sense]]"
   - "[[Decolonial Geopolitics of Knowledge]]"
   - "[[Critical Geopolitics]]"
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons:
   - "[[Dell Delambre]]"
   - "[[Arturo Escobar]]"
@@ -48,7 +48,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-07
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 # Walter Mignolo
 
@@ -121,7 +121,7 @@ updated: '2026-06-08'
 
 去殖民的认识论策略不是在西方框架内寻求"包容"或"开放"（这只会强化其合法性），而是在被殖民者的认识论边界地带进行"边界思维"——同时使用西方的认识论工具和被压抑的替代性知识传统，从两者的裂隙中产生新的[[Ways of Knowing|认知方式]]。这要求"认识论不服从"：主动拒绝西方认识论作为唯一有效知识形式的宣称([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.38–39]])。
 
-> 在 Delambre (2022) 的 [[Creative Tension of Sense]] 理论中，Mignolo 的[[Decolonial Geopolitics of Knowledge|去殖民知识地缘政治]]扮演了关键角色：Delambre 接受了 Mignolo 对西方认识论霸权的诊断，但认为该传统在"批判"与"建构"之间存在巨大鸿沟——它充分揭示了问题，却未能将批判转化为具体的实践方法。Delambre 的 [[Ganz-Methode]] 和"[[Life Power|生命力量]]"概念正是试图填补这一空白，将 Mignolo 式的去殖民批判从认识论宣言转化为社区层面的可操作程序([[Argument_Delambre_2022_Springer|Delambre, 2022, p.105–107, 109–110]])。
+> 在 [[Argument_Delambre_2022_Springer|Delambre (2022, pp. 105–107, 109–110)]] 的 [[Creative Tension of Sense]] 理论中，Mignolo 的[[Decolonial Geopolitics of Knowledge|去殖民知识地缘政治]]扮演了关键角色：Delambre 接受了 Mignolo 对西方认识论霸权的诊断，但认为该传统在"批判"与"建构"之间存在巨大鸿沟——它充分揭示了问题，却未能将批判转化为具体的实践方法。Delambre 的 [[Ganz-Methode]] 和"[[Life Power|生命力量]]"概念正是试图填补这一空白，将 Mignolo 式的去殖民批判从认识论宣言转化为社区层面的可操作程序。
 
 > > "The geopolitics of knowledge was organized around the diversification, through history, of the colonial and the imperial differences." (Mignolo, 2002, p.59)
 

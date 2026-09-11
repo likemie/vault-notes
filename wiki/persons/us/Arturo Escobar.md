@@ -5,8 +5,8 @@ aliases:
   - 阿图罗·埃斯科瓦尔
 summary: "哥伦比亚裔美国人类学家和设计理论家，Designs for the Pluriverse作者，为教育研究思考去殖民知识与替代性未来提供视角。"
 type: person
-nationality: colombia
-person_region: "colombia"
+nationality: us
+person_region: "us"
 person_related_count: 9
 person_related_level: 1
 person_related_stars: "⭐"
@@ -17,6 +17,8 @@ tags:
 - pluriverse
 - decolonial
 - transition-design
+- region/us
+- region/colombia
 related_concepts:
   - "[[Mondialisation]]"
   - "[[Emergence]]"
@@ -35,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 ## 简介
 

@@ -1,8 +1,56 @@
 {
   "recentFiles": [
     {
+      "basename": "Writing Habit",
+      "path": "wiki/concepts/academic-writing/Writing Habit.md"
+    },
+    {
+      "basename": "Voice, Tense, and Concision in Academic Writing",
+      "path": "wiki/concepts/academic-writing/Voice, Tense, and Concision in Academic Writing.md"
+    },
+    {
+      "basename": "Research Writing Script",
+      "path": "wiki/concepts/academic-writing/Research Writing Script.md"
+    },
+    {
+      "basename": "Research Introduction",
+      "path": "wiki/concepts/academic-writing/Research Introduction.md"
+    },
+    {
+      "basename": "Narrative Thought Types",
+      "path": "wiki/concepts/academic-writing/Narrative Thought Types.md"
+    },
+    {
+      "basename": "Hook and Eye Technique",
+      "path": "wiki/concepts/academic-writing/Hook and Eye Technique.md"
+    },
+    {
+      "basename": "Definition of Terms",
+      "path": "wiki/concepts/academic-writing/Definition of Terms.md"
+    },
+    {
+      "basename": "Deficiencies in Past Literature",
+      "path": "wiki/concepts/academic-writing/Deficiencies in Past Literature.md"
+    },
+    {
+      "basename": "APA Style",
+      "path": "wiki/concepts/academic-writing/APA Style.md"
+    },
+    {
+      "basename": "Coherence in Writing",
+      "path": "wiki/concepts/academic-writing/Coherence in Writing.md"
+    },
+    {
+      "basename": "Deficiencies Model for an Introduction",
+      "path": "wiki/concepts/academic-writing/Deficiencies Model for an Introduction.md"
+    },
+    {
       "basename": "index",
       "path": "wiki/persons/index.md"
+    },
+    {
+      "basename": "Sami Moisio",
+      "path": "wiki/persons/finland/Sami Moisio.md"
     },
     {
       "basename": "Jill Mehlbye",
@@ -151,54 +199,6 @@
     {
       "basename": "Central Phenomenon",
       "path": "wiki/concepts/research-methodology/Central Phenomenon.md"
-    },
-    {
-      "basename": "Backyard Research",
-      "path": "wiki/concepts/research-methodology/Backyard Research.md"
-    },
-    {
-      "basename": "Attrition",
-      "path": "wiki/concepts/research-methodology/Attrition.md"
-    },
-    {
-      "basename": "Phenomenography",
-      "path": "wiki/theories/learning-science-cognitive-science/Phenomenography.md"
-    },
-    {
-      "basename": "Piaget's Theory of Cognitive Development",
-      "path": "wiki/theories/learning-science-cognitive-science/Piaget's Theory of Cognitive Development.md"
-    },
-    {
-      "basename": "Self-Worth Theory",
-      "path": "wiki/theories/learning-science-cognitive-science/Self-Worth Theory.md"
-    },
-    {
-      "basename": "Neo-Piagetian Theories",
-      "path": "wiki/theories/learning-science-cognitive-science/Neo-Piagetian Theories.md"
-    },
-    {
-      "basename": "Item Response Theory",
-      "path": "wiki/theories/research-methodology/Item Response Theory.md"
-    },
-    {
-      "basename": "Hart's Ladder of Participation",
-      "path": "wiki/theories/research-methodology/Hart's Ladder of Participation.md"
-    },
-    {
-      "basename": "Critical Ethnography",
-      "path": "wiki/theories/research-methodology/Critical Ethnography.md"
-    },
-    {
-      "basename": "Classical Test Theory",
-      "path": "wiki/theories/research-methodology/Classical Test Theory.md"
-    },
-    {
-      "basename": "Central Limit Theorem",
-      "path": "wiki/theories/research-methodology/Central Limit Theorem.md"
-    },
-    {
-      "basename": "Cartwright's Three-Stage Knowledge Framework",
-      "path": "wiki/theories/research-methodology/Cartwright's Three-Stage Knowledge Framework.md"
     }
   ],
   "omittedPaths": [],
