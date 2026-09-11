@@ -6680,24 +6680,6 @@
     ]
   },
   {
-    "title": "Action Narratives",
-    "type": "concept",
-    "path": "wiki/concepts/research-methodology/Action Narratives.md",
-    "aliases": [
-      "行动叙事",
-      "action narratives"
-    ]
-  },
-  {
-    "title": "Active Listening",
-    "type": "concept",
-    "path": "wiki/concepts/research-methodology/Active Listening.md",
-    "aliases": [
-      "积极倾听",
-      "active listening in interviews"
-    ]
-  },
-  {
     "title": "Alternative Hypothesis",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Alternative Hypothesis.md",
@@ -6709,16 +6691,6 @@
       "directional alternative hypothesis",
       "定向假设",
       "H₁"
-    ]
-  },
-  {
-    "title": "Analytic Framework",
-    "type": "concept",
-    "path": "wiki/concepts/research-methodology/Analytic Framework.md",
-    "aliases": [
-      "分析框架",
-      "analytic tradition",
-      "analytic frameworks in qualitative research"
     ]
   },
   {
@@ -6774,48 +6746,12 @@
     ]
   },
   {
-    "title": "Audit Trail",
-    "type": "concept",
-    "path": "wiki/concepts/research-methodology/Audit Trail.md",
-    "aliases": [
-      "审计追踪",
-      "审计轨迹",
-      "audit trails",
-      "审查追踪",
-      "审核追踪",
-      "审计跟踪"
-    ]
-  },
-  {
     "title": "Backyard Research",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Backyard Research.md",
     "aliases": [
       "后院研究",
       "backyard research"
-    ]
-  },
-  {
-    "title": "Blinding",
-    "type": "concept",
-    "path": "wiki/concepts/research-methodology/Blinding.md",
-    "aliases": [
-      "盲法",
-      "盲态",
-      "single-blind",
-      "double-blind",
-      "masked design"
-    ]
-  },
-  {
-    "title": "Campbell and Stanley Notation System",
-    "type": "concept",
-    "path": "wiki/concepts/research-methodology/Campbell and Stanley Notation System.md",
-    "aliases": [
-      "Campbell和Stanley符号系统",
-      "Campbell-Stanley notation",
-      "experimental design notation",
-      "实验设计符号系统"
     ]
   },
   {
@@ -6885,16 +6821,6 @@
     ]
   },
   {
-    "title": "Confidence Interval",
-    "type": "concept",
-    "path": "wiki/concepts/research-methodology/Confidence Interval.md",
-    "aliases": [
-      "置信区间",
-      "confidence level",
-      "置信水平"
-    ]
-  },
-  {
     "title": "Confidentiality",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Confidentiality.md",
@@ -6947,20 +6873,6 @@
     ]
   },
   {
-    "title": "Contingency Questions",
-    "type": "concept",
-    "path": "wiki/concepts/research-methodology/Contingency Questions.md",
-    "aliases": [
-      "条件题",
-      "过滤题",
-      "分支题",
-      "filter question",
-      "branching question",
-      "skip logic",
-      "contingency question"
-    ]
-  },
-  {
     "title": "Convergent and Discriminant Validity",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Convergent and Discriminant Validity.md",
@@ -6992,28 +6904,6 @@
       "反事实推理",
       "counterfactuals",
       "counterfactual reasoning"
-    ]
-  },
-  {
-    "title": "Cover Story",
-    "type": "concept",
-    "path": "wiki/concepts/research-methodology/Cover Story.md",
-    "aliases": [
-      "封面故事",
-      "实验封面故事"
-    ]
-  },
-  {
-    "title": "Covering Letter",
-    "type": "concept",
-    "path": "wiki/concepts/research-methodology/Covering Letter.md",
-    "aliases": [
-      "封面信",
-      "cover letter",
-      "covering sheet",
-      "封面页",
-      "follow-up letter",
-      "跟进信"
     ]
   },
   {
@@ -7109,37 +6999,6 @@
     "aliases": [
       "文化效度",
       "文化适切性"
-    ]
-  },
-  {
-    "title": "Data Display",
-    "type": "concept",
-    "path": "wiki/concepts/research-methodology/Data Display.md",
-    "aliases": [
-      "数据展示",
-      "质性数据展示"
-    ]
-  },
-  {
-    "title": "Data Reduction",
-    "type": "concept",
-    "path": "wiki/concepts/research-methodology/Data Reduction.md",
-    "aliases": [
-      "数据缩减",
-      "资料缩减"
-    ]
-  },
-  {
-    "title": "Data Transformation",
-    "type": "concept",
-    "path": "wiki/concepts/research-methodology/Data Transformation.md",
-    "aliases": [
-      "数据转换",
-      "data conversion",
-      "quantitizing",
-      "qualitizing",
-      "量化转换",
-      "质化转换"
     ]
   },
   {
@@ -7305,16 +7164,6 @@
       "实验者效应",
       "experimenter expectancy effect",
       "Rosenthal effect"
-    ]
-  },
-  {
-    "title": "External Auditor",
-    "type": "concept",
-    "path": "wiki/concepts/research-methodology/External Auditor.md",
-    "aliases": [
-      "外部审计",
-      "外部审计者",
-      "external audit in qualitative research"
     ]
   },
   {
@@ -7508,17 +7357,6 @@
     ]
   },
   {
-    "title": "Intercoder Agreement",
-    "type": "concept",
-    "path": "wiki/concepts/research-methodology/Intercoder Agreement.md",
-    "aliases": [
-      "编码者间一致性",
-      "编码者间信度",
-      "intercoder reliability",
-      "编码一致性"
-    ]
-  },
-  {
     "title": "Internal and External Generalizability",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Internal and External Generalizability.md",
@@ -7599,17 +7437,6 @@
     ]
   },
   {
-    "title": "Likert Scale",
-    "type": "concept",
-    "path": "wiki/concepts/research-methodology/Likert Scale.md",
-    "aliases": [
-      "李克特量表",
-      "Likert-type scale",
-      "Likert scaling",
-      "李克特式量表"
-    ]
-  },
-  {
     "title": "Literature Review",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Literature Review.md",
@@ -7631,26 +7458,6 @@
     ]
   },
   {
-    "title": "Making the Familiar Strange",
-    "type": "concept",
-    "path": "wiki/concepts/research-methodology/Making the Familiar Strange.md",
-    "aliases": [
-      "使熟悉变陌生",
-      "让熟悉变得陌生",
-      "defamiliarization in research"
-    ]
-  },
-  {
-    "title": "Manipulation Check",
-    "type": "concept",
-    "path": "wiki/concepts/research-methodology/Manipulation Check.md",
-    "aliases": [
-      "操纵检查",
-      "操纵检验",
-      "manipulation check measure"
-    ]
-  },
-  {
     "title": "Measurement Alignment",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Measurement Alignment.md",
@@ -7659,19 +7466,6 @@
       "对齐法则",
       "颗粒度对齐",
       "领域对齐"
-    ]
-  },
-  {
-    "title": "Memos",
-    "type": "concept",
-    "path": "wiki/concepts/research-methodology/Memos.md",
-    "aliases": [
-      "研究备忘录",
-      "research memos",
-      "analytic memos",
-      "札记",
-      "研究札记",
-      "memo"
     ]
   },
   {
@@ -7797,20 +7591,6 @@
     ]
   },
   {
-    "title": "Pre-test and Post-test",
-    "type": "concept",
-    "path": "wiki/concepts/research-methodology/Pre-test and Post-test.md",
-    "aliases": [
-      "前测与后测",
-      "pretest and posttest",
-      "pre-test and post-test",
-      "前测",
-      "后测",
-      "pretest",
-      "posttest"
-    ]
-  },
-  {
     "title": "Pre-test Sensitisation",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Pre-test Sensitisation.md",
@@ -7871,16 +7651,6 @@
     ]
   },
   {
-    "title": "Probes",
-    "type": "concept",
-    "path": "wiki/concepts/research-methodology/Probes.md",
-    "aliases": [
-      "追问提示",
-      "interview probes",
-      "probing questions"
-    ]
-  },
-  {
     "title": "Publication Bias",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Publication Bias.md",
@@ -7897,16 +7667,6 @@
       "目的陈述",
       "study aim",
       "purpose of the study"
-    ]
-  },
-  {
-    "title": "Qualitative Codebook",
-    "type": "concept",
-    "path": "wiki/concepts/research-methodology/Qualitative Codebook.md",
-    "aliases": [
-      "质性编码手册",
-      "编码手册",
-      "codebook"
     ]
   },
   {
@@ -7940,56 +7700,12 @@
     ]
   },
   {
-    "title": "Questionnaire",
-    "type": "concept",
-    "path": "wiki/concepts/research-methodology/Questionnaire.md",
-    "aliases": [
-      "问卷",
-      "问卷调查",
-      "survey questionnaire",
-      "self-completion questionnaire"
-    ]
-  },
-  {
-    "title": "Questionnaire Wording",
-    "type": "concept",
-    "path": "wiki/concepts/research-methodology/Questionnaire Wording.md",
-    "aliases": [
-      "问卷措辞",
-      "question wording",
-      "wording pitfalls",
-      "措辞陷阱"
-    ]
-  },
-  {
-    "title": "Ranking Questions",
-    "type": "concept",
-    "path": "wiki/concepts/research-methodology/Ranking Questions.md",
-    "aliases": [
-      "排序题",
-      "rank ordering",
-      "rank-order question",
-      "ranking item"
-    ]
-  },
-  {
     "title": "Rapport in Qualitative Research",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Rapport in Qualitative Research.md",
     "aliases": [
       "质性研究中的融洽关系",
       "信任与融洽"
-    ]
-  },
-  {
-    "title": "Rating Scale",
-    "type": "concept",
-    "path": "wiki/concepts/research-methodology/Rating Scale.md",
-    "aliases": [
-      "评定量表",
-      "rating scales",
-      "attitude scale",
-      "态度量表"
     ]
   },
   {
@@ -8190,18 +7906,6 @@
     ]
   },
   {
-    "title": "Sample Size Determination",
-    "type": "concept",
-    "path": "wiki/concepts/research-methodology/Sample Size Determination.md",
-    "aliases": [
-      "样本量确定",
-      "sample size",
-      "样本量",
-      "determining sample size",
-      "sample size calculation"
-    ]
-  },
-  {
     "title": "Sampling Error",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Sampling Error.md",
@@ -8209,16 +7913,6 @@
       "抽样误差",
       "sampling distribution",
       "抽样分布"
-    ]
-  },
-  {
-    "title": "Sampling Frame",
-    "type": "concept",
-    "path": "wiki/concepts/research-methodology/Sampling Frame.md",
-    "aliases": [
-      "抽样框",
-      "sampling frame",
-      "抽样框架"
     ]
   },
   {
@@ -8254,29 +7948,6 @@
     ]
   },
   {
-    "title": "Semantic Differential",
-    "type": "concept",
-    "path": "wiki/concepts/research-methodology/Semantic Differential.md",
-    "aliases": [
-      "语义差异量表",
-      "语义微分",
-      "semantic differential scale",
-      "Osgood semantic differential"
-    ]
-  },
-  {
-    "title": "Sensitive Questions",
-    "type": "concept",
-    "path": "wiki/concepts/research-methodology/Sensitive Questions.md",
-    "aliases": [
-      "敏感问题",
-      "threatening questions",
-      "威胁性问题",
-      "sensitive topics",
-      "敏感题项"
-    ]
-  },
-  {
     "title": "Sensitive Research",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Sensitive Research.md",
@@ -8298,17 +7969,6 @@
     ]
   },
   {
-    "title": "Small Study Effects",
-    "type": "concept",
-    "path": "wiki/concepts/research-methodology/Small Study Effects.md",
-    "aliases": [
-      "小研究效应",
-      "small-study effects",
-      "小样本研究效应",
-      "small sample bias"
-    ]
-  },
-  {
     "title": "Sponsor in Research",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Sponsor in Research.md",
@@ -8326,16 +7986,6 @@
     "aliases": [
       "稳定单元处理值假定",
       "SUTVA"
-    ]
-  },
-  {
-    "title": "Story Line",
-    "type": "concept",
-    "path": "wiki/concepts/research-methodology/Story Line.md",
-    "aliases": [
-      "故事线",
-      "storyline",
-      "story line interpretation"
     ]
   },
   {
@@ -8407,16 +8057,6 @@
     "aliases": [
       "内部效度威胁",
       "internal validity threats"
-    ]
-  },
-  {
-    "title": "Transcription in Qualitative Research",
-    "type": "concept",
-    "path": "wiki/concepts/research-methodology/Transcription in Qualitative Research.md",
-    "aliases": [
-      "转录",
-      "质性研究转录",
-      "interview transcription"
     ]
   },
   {
@@ -8496,16 +8136,6 @@
       "visual media",
       "visual images",
       "视觉影像"
-    ]
-  },
-  {
-    "title": "Winnowing",
-    "type": "concept",
-    "path": "wiki/concepts/research-methodology/Winnowing.md",
-    "aliases": [
-      "数据筛选",
-      "data reduction qualitative",
-      "winnow the data"
     ]
   },
   {
@@ -12010,6 +11640,19 @@
     ]
   },
   {
+    "title": "Data Transformation",
+    "type": "method",
+    "path": "wiki/methods/mixed/Data Transformation.md",
+    "aliases": [
+      "数据转换",
+      "data conversion",
+      "quantitizing",
+      "qualitizing",
+      "量化转换",
+      "质化转换"
+    ]
+  },
+  {
     "title": "Design-Based Research",
     "type": "method",
     "path": "wiki/methods/mixed/Design-Based Research.md",
@@ -12251,6 +11894,33 @@
     ]
   },
   {
+    "title": "Action Narratives",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Action Narratives.md",
+    "aliases": [
+      "行动叙事"
+    ]
+  },
+  {
+    "title": "Active Listening",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Active Listening.md",
+    "aliases": [
+      "积极倾听",
+      "active listening in interviews"
+    ]
+  },
+  {
+    "title": "Analytic Framework",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Analytic Framework.md",
+    "aliases": [
+      "分析框架",
+      "analytic tradition",
+      "analytic frameworks in qualitative research"
+    ]
+  },
+  {
     "title": "Analytic Induction",
     "type": "method",
     "path": "wiki/methods/qualitative/Analytic Induction.md",
@@ -12287,6 +11957,19 @@
       "audiovisual materials",
       "digital materials in qualitative research",
       "质性视听数据"
+    ]
+  },
+  {
+    "title": "Audit Trail",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Audit Trail.md",
+    "aliases": [
+      "审计追踪",
+      "审计轨迹",
+      "audit trails",
+      "审查追踪",
+      "审核追踪",
+      "审计跟踪"
     ]
   },
   {
@@ -12468,6 +12151,24 @@
     ]
   },
   {
+    "title": "Data Display",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Data Display.md",
+    "aliases": [
+      "数据展示",
+      "质性数据展示"
+    ]
+  },
+  {
+    "title": "Data Reduction",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Data Reduction.md",
+    "aliases": [
+      "数据缩减",
+      "资料缩减"
+    ]
+  },
+  {
     "title": "Delphi Technique",
     "type": "method",
     "path": "wiki/methods/qualitative/Delphi Technique.md",
@@ -12569,6 +12270,16 @@
     "aliases": [
       "质性经验取样法",
       "qualitative experience sampling"
+    ]
+  },
+  {
+    "title": "External Auditor",
+    "type": "method",
+    "path": "wiki/methods/qualitative/External Auditor.md",
+    "aliases": [
+      "外部审计",
+      "外部审计者",
+      "external audit in qualitative research"
     ]
   },
   {
@@ -12694,6 +12405,17 @@
     ]
   },
   {
+    "title": "Intercoder Agreement",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Intercoder Agreement.md",
+    "aliases": [
+      "编码者间一致性",
+      "编码者间信度",
+      "intercoder reliability",
+      "编码一致性"
+    ]
+  },
+  {
     "title": "Interview Protocol",
     "type": "method",
     "path": "wiki/methods/qualitative/Interview Protocol.md",
@@ -12723,6 +12445,16 @@
     ]
   },
   {
+    "title": "Making the Familiar Strange",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Making the Familiar Strange.md",
+    "aliases": [
+      "使熟悉变陌生",
+      "让熟悉变得陌生",
+      "defamiliarization in research"
+    ]
+  },
+  {
     "title": "MCC Discourse Analysis Examples",
     "type": "method",
     "path": "wiki/methods/qualitative/MCC Discourse Analysis Examples.md",
@@ -12749,6 +12481,19 @@
     "path": "wiki/methods/qualitative/Member Tests.md",
     "aliases": [
       "成员核验"
+    ]
+  },
+  {
+    "title": "Memos",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Memos.md",
+    "aliases": [
+      "研究备忘录",
+      "research memos",
+      "analytic memos",
+      "札记",
+      "研究札记",
+      "memo"
     ]
   },
   {
@@ -12913,6 +12658,16 @@
     ]
   },
   {
+    "title": "Probes",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Probes.md",
+    "aliases": [
+      "追问提示",
+      "interview probes",
+      "probing questions"
+    ]
+  },
+  {
     "title": "Problem Approach",
     "type": "method",
     "path": "wiki/methods/qualitative/Problem Approach.md",
@@ -12960,6 +12715,16 @@
     "path": "wiki/methods/qualitative/Pyramiding.md",
     "aliases": [
       "金字塔法"
+    ]
+  },
+  {
+    "title": "Qualitative Codebook",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Qualitative Codebook.md",
+    "aliases": [
+      "质性编码手册",
+      "编码手册",
+      "codebook"
     ]
   },
   {
@@ -13087,6 +12852,16 @@
     ]
   },
   {
+    "title": "Story Line",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Story Line.md",
+    "aliases": [
+      "故事线",
+      "storyline",
+      "story line interpretation"
+    ]
+  },
+  {
     "title": "Structured Observation",
     "type": "method",
     "path": "wiki/methods/qualitative/Structured Observation.md",
@@ -13143,6 +12918,16 @@
     "aliases": [
       "理论抽样",
       "theoretical sample"
+    ]
+  },
+  {
+    "title": "Transcription in Qualitative Research",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Transcription in Qualitative Research.md",
+    "aliases": [
+      "转录",
+      "质性研究转录",
+      "interview transcription"
     ]
   },
   {
@@ -13227,6 +13012,16 @@
       "网站内容分析",
       "website analysis",
       "网页内容分析"
+    ]
+  },
+  {
+    "title": "Winnowing",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Winnowing.md",
+    "aliases": [
+      "数据筛选",
+      "data reduction qualitative",
+      "winnow the data"
     ]
   },
   {
@@ -13352,6 +13147,29 @@
     ]
   },
   {
+    "title": "Blinding",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Blinding.md",
+    "aliases": [
+      "盲法",
+      "盲态",
+      "single-blind",
+      "double-blind",
+      "masked design"
+    ]
+  },
+  {
+    "title": "Campbell and Stanley Notation System",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Campbell and Stanley Notation System.md",
+    "aliases": [
+      "坎贝尔与斯坦利记号系统",
+      "Campbell-Stanley notation",
+      "experimental design notation",
+      "实验设计符号系统"
+    ]
+  },
+  {
     "title": "Causal Modeling",
     "type": "method",
     "path": "wiki/methods/quantitative/Causal Modeling.md",
@@ -13468,6 +13286,16 @@
     ]
   },
   {
+    "title": "Confidence Interval",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Confidence Interval.md",
+    "aliases": [
+      "置信区间",
+      "confidence level",
+      "置信水平"
+    ]
+  },
+  {
     "title": "Confirmatory Factor Analysis",
     "type": "method",
     "path": "wiki/methods/quantitative/Confirmatory Factor Analysis.md",
@@ -13488,6 +13316,20 @@
       "Content Validity Ratio",
       "CVR",
       "专家内容效度评估"
+    ]
+  },
+  {
+    "title": "Contingency Questions",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Contingency Questions.md",
+    "aliases": [
+      "条件题",
+      "过滤题",
+      "分支题",
+      "filter question",
+      "branching question",
+      "skip logic",
+      "contingency question"
     ]
   },
   {
@@ -13531,6 +13373,28 @@
     "aliases": [
       "协变量控制",
       "协变量调整"
+    ]
+  },
+  {
+    "title": "Cover Story",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Cover Story.md",
+    "aliases": [
+      "封面故事",
+      "实验封面故事"
+    ]
+  },
+  {
+    "title": "Covering Letter",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Covering Letter.md",
+    "aliases": [
+      "封面信",
+      "cover letter",
+      "covering sheet",
+      "封面页",
+      "follow-up letter",
+      "跟进信"
     ]
   },
   {
@@ -13898,6 +13762,17 @@
     ]
   },
   {
+    "title": "Likert Scale",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Likert Scale.md",
+    "aliases": [
+      "李克特量表",
+      "Likert-type scale",
+      "Likert scaling",
+      "李克特式量表"
+    ]
+  },
+  {
     "title": "LISA Spatiotemporal Transition",
     "type": "method",
     "path": "wiki/methods/quantitative/LISA Spatiotemporal Transition.md",
@@ -13927,6 +13802,16 @@
       "纵向调查",
       "longitudinal research",
       "longitudinal survey"
+    ]
+  },
+  {
+    "title": "Manipulation Check",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Manipulation Check.md",
+    "aliases": [
+      "操纵检查",
+      "操纵检验",
+      "manipulation check measure"
     ]
   },
   {
@@ -14282,6 +14167,19 @@
     ]
   },
   {
+    "title": "Pre-test and Post-test",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Pre-test and Post-test.md",
+    "aliases": [
+      "前测与后测",
+      "pretest and posttest",
+      "前测",
+      "后测",
+      "pretest",
+      "posttest"
+    ]
+  },
+  {
     "title": "Prediction Interval",
     "type": "method",
     "path": "wiki/methods/quantitative/Prediction Interval.md",
@@ -14340,6 +14238,28 @@
     ]
   },
   {
+    "title": "Questionnaire",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Questionnaire.md",
+    "aliases": [
+      "问卷",
+      "问卷调查",
+      "survey questionnaire",
+      "self-completion questionnaire"
+    ]
+  },
+  {
+    "title": "Questionnaire Wording",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Questionnaire Wording.md",
+    "aliases": [
+      "问卷措辞",
+      "question wording",
+      "wording pitfalls",
+      "措辞陷阱"
+    ]
+  },
+  {
     "title": "Random Assignment",
     "type": "method",
     "path": "wiki/methods/quantitative/Random Assignment.md",
@@ -14379,12 +14299,34 @@
     ]
   },
   {
+    "title": "Ranking Questions",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Ranking Questions.md",
+    "aliases": [
+      "排序题",
+      "rank ordering",
+      "rank-order question",
+      "ranking item"
+    ]
+  },
+  {
     "title": "Rasch Measurement",
     "type": "method",
     "path": "wiki/methods/quantitative/Rasch Measurement.md",
     "aliases": [
       "Rasch模型",
       "Rasch 模型"
+    ]
+  },
+  {
+    "title": "Rating Scale",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Rating Scale.md",
+    "aliases": [
+      "评定量表",
+      "rating scales",
+      "attitude scale",
+      "态度量表"
     ]
   },
   {
@@ -14425,6 +14367,27 @@
       "CRVE",
       "三明治估计量",
       "sandwich estimator"
+    ]
+  },
+  {
+    "title": "Sample Size Determination",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Sample Size Determination.md",
+    "aliases": [
+      "样本量确定",
+      "sample size",
+      "样本量",
+      "determining sample size",
+      "sample size calculation"
+    ]
+  },
+  {
+    "title": "Sampling Frame",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Sampling Frame.md",
+    "aliases": [
+      "抽样框",
+      "抽样框架"
     ]
   },
   {
@@ -14474,6 +14437,29 @@
     ]
   },
   {
+    "title": "Semantic Differential",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Semantic Differential.md",
+    "aliases": [
+      "语义差异量表",
+      "语义微分",
+      "semantic differential scale",
+      "Osgood semantic differential"
+    ]
+  },
+  {
+    "title": "Sensitive Questions",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Sensitive Questions.md",
+    "aliases": [
+      "敏感问题",
+      "threatening questions",
+      "威胁性问题",
+      "sensitive topics",
+      "敏感题项"
+    ]
+  },
+  {
     "title": "Shift-Share Instrument",
     "type": "method",
     "path": "wiki/methods/quantitative/Shift-Share Instrument.md",
@@ -14503,6 +14489,17 @@
       "单一个案实验设计",
       "applied behavioral analysis",
       "single-subject experimental design"
+    ]
+  },
+  {
+    "title": "Small Study Effects",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Small Study Effects.md",
+    "aliases": [
+      "小研究效应",
+      "small-study effects",
+      "小样本研究效应",
+      "small sample bias"
     ]
   },
   {
