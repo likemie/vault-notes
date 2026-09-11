@@ -4,7 +4,7 @@ authors:
   - "[[Lawrence Manion|Manion, L.]]"
   - "[[Keith Morrison|Morrison, K.]]"
 source_language: en
-summary: "系统拆解个案研究的定义与核心特征、Hitchcock-Hughes七项标志与界定方式、Nisbet-Watt五项应避免问题与Simons六悖论、Yin/Merriam/Stake/Sturman/Robson五套分类体系、Yin四种设计类型与五项设计要素、Box 14.1六项优势与Box 14.2七优势三弱点、分析性推广与统计推广的根本区别及Verschuren的低变异性论证、六项效度信度准则与Yin证据链、研究者八项技能与五维伦理、Figure 14.1六种观察研究连续体、Bailey参与式观察四项优势、规划三阶段七项考虑与Table 14.1 Sturman连续体、Yin六类证据来源与Miles-Huberman十三种分析产出、Lofland七条田野笔记原则与Walker十二项选择问题、Box 14.3选择问题、六种写作结构与Yin九类竞争性解释以及Macpherson-Yin四项典范原则"
+summary: "系统阐释个案研究的界定、认识论立场与设计实施框架：辨析其有界系统、深描与情境化特征，对比Yin、Stake与Merriam等学者的分类谱系与多元设计，剖析分析性推广与统计推广的本质差异，详述多元证据三角互证、证据链建构准则以及个案研究中的伦理反思与撰写范式。"
 type: argument
 subtype: textbook
 publication_type: book-chapter

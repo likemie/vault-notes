@@ -4,7 +4,7 @@ authors:
   - "[[Lawrence Manion|Manion, L.]]"
   - "[[Keith Morrison|Morrison, K.]]"
 source_language: en
-summary: "系统介绍George Kelly的个人建构理论及其核心研究工具——角色建构库测验(repertory grid)，涵盖理论的基本公设与十一条推论、Kelly感知—诠释—行为三重关注、repertory grid的两大优势、完整操作流程(元素选择与角色头衔、三元比较法与构念引发、引发vs提供的经典争论、评分形式与偏斜性、阶梯法与金字塔法、交换网格与社会网格)、网格分析方法(构念对齐、认知复杂性指数、主成分分析、聚类分析、聚焦法与自认同图)、十项教育研究应用详案(八项repertory grid与两项阶梯法)、六项使用困难与在线资源"
+summary: "系统阐释George Kelly个人建构理论及其核心研究工具角色建构库测验（repertory grid）：梳理理论基本公设与推论，解析元素确定、三元比较法构念引发、评分与网格构建的完整实施流程，详述聚类分析、主成分分析等网格量化解析方法及其在教育情境中的应用。"
 type: argument
 subtype: textbook
 publication_type: book-chapter
