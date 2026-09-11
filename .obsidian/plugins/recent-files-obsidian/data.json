@@ -5,6 +5,42 @@
       "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Grey_2018_CE.md"
     },
     {
+      "basename": "Academic Achievement",
+      "path": "wiki/concepts/competency-and-assessment/Academic Achievement.md"
+    },
+    {
+      "basename": "Chain of Evidence",
+      "path": "wiki/concepts/research-methodology/Chain of Evidence.md"
+    },
+    {
+      "basename": "Policy Borrowing",
+      "path": "wiki/concepts/comparative-education/Policy Borrowing.md"
+    },
+    {
+      "basename": "Rashomon Effect",
+      "path": "wiki/concepts/sociology-of-education/Rashomon Effect.md"
+    },
+    {
+      "basename": "Performance Pay",
+      "path": "wiki/concepts/educational-policy-reform/Performance Pay.md"
+    },
+    {
+      "basename": "Mediatised Governance",
+      "path": "wiki/concepts/political-economy-geopolitics/Mediatised Governance.md"
+    },
+    {
+      "basename": "Transfer Translation Transformation",
+      "path": "wiki/concepts/comparative-education/Transfer Translation Transformation.md"
+    },
+    {
+      "basename": "PISA",
+      "path": "wiki/facts/global/PISA.md"
+    },
+    {
+      "basename": "OECD",
+      "path": "wiki/facts/global/OECD.md"
+    },
+    {
       "basename": "Grey_2018_CE",
       "path": "sources/Grey_2018_CE/Grey_2018_CE.md"
     },
@@ -125,10 +161,6 @@
       "path": "wiki/concepts/sociology-of-education/Betrayal in Research.md"
     },
     {
-      "basename": "Academic Achievement",
-      "path": "wiki/concepts/competency-and-assessment/Academic Achievement.md"
-    },
-    {
       "basename": "Writing Habit",
       "path": "wiki/concepts/academic-writing/Writing Habit.md"
     },
@@ -167,38 +199,6 @@
     {
       "basename": "Coherence in Writing",
       "path": "wiki/concepts/academic-writing/Coherence in Writing.md"
-    },
-    {
-      "basename": "Deficiencies Model for an Introduction",
-      "path": "wiki/concepts/academic-writing/Deficiencies Model for an Introduction.md"
-    },
-    {
-      "basename": "index",
-      "path": "wiki/persons/index.md"
-    },
-    {
-      "basename": "Sami Moisio",
-      "path": "wiki/persons/finland/Sami Moisio.md"
-    },
-    {
-      "basename": "Jill Mehlbye",
-      "path": "wiki/persons/denmark/Jill Mehlbye.md"
-    },
-    {
-      "basename": "Action Research",
-      "path": "wiki/methods/mixed/Action Research.md"
-    },
-    {
-      "basename": "Account Gathering",
-      "path": "wiki/methods/qualitative/Account Gathering.md"
-    },
-    {
-      "basename": "Artefact",
-      "path": "wiki/concepts/research-methodology/Artefact.md"
-    },
-    {
-      "basename": "Anonymity in Research",
-      "path": "wiki/concepts/research-methodology/Anonymity in Research.md"
     }
   ],
   "omittedPaths": [],

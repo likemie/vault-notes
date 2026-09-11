@@ -64,6 +64,7 @@ updated: 2026-09-11
 > [!concept-lens] 概念透镜
 > - **含义** 指向全球治理数据在主权国家落地过程中，政策制定与新闻生产高度融合、彼此[[Disciplina and Doctrina|规训]]的互动机制。
 > - **用途** 纠正将全球教育治理简单设想为国际组织自上而下施加政策趋同的[[Determinism|决定论]]偏颇，揭示媒体逻辑如何作为一种能动性的政治制度深度介入教育政策过程。
+> - **性质** 这是一个批判性与实然描述性的分析概念（critical/empirical concept），旨在揭示政客与媒体协同制造危机、架空民主问责的制度异化现实，绝非规范性（normative）或倡导性的政策理想。
 > - **边界** 媒介化治理不等于中性的信息大众传播（mediation），亦不意味着全球机构的权威被完全消解，而是强调政策讨论的公共框架受到媒体规则与政治修辞的双重框定。
 
 > [!citation-card] 媒介化治理的生成机制
@@ -180,7 +181,7 @@ updated: 2026-09-11
 > - **1979 年 — 媒介逻辑的提出** Altheide & Snow 出版《Media Logic》，首次系统阐述大众媒介并非透明容器，而是具有自身特定的组织机制、修辞语法与感知偏好，任何社会机构欲进入大众视野均须适应其生产逻辑。
 > - **1999–2014 年 — 政治媒介化理论体系化** Mazzoleni & Schulz (1999) 提出政治媒介化概念；Strömback & Esser (2014) 将其发展为现代民主国家转型的元进程理论框架，确立了媒介化区别于传统中介传播（mediation）的理论自主性。
 > - **2010–2016 年 — 媒介化向教育政策研究的迁移** Lingard & Rawolle (2004) 与 Rawolle (2010) 率先探讨澳大利亚教育政策的媒介化现象；Baroutsis & Lingard (2016) 运用框架理论分析媒体如何通过计数与比较建构澳大利亚学校问责话语。
-> - **2018 年 — 媒介化全球教育治理分析[[Paradigm|范式]]确立** [[Paul Morris|Paul Morris]] 与 Sue Grey 发表《[[PISA]]: multiple ‘truths’ and mediatised global governance》，正式将媒介化概念与全球教育软治理（Global Governance）及跨国比较教育深度融合，揭示了跨国数据、政治修辞与本土媒体合谋的治理机制，开拓了超越超国家[[Convergence Theory in Comparative Education|趋同论]]的新批判研究路径。[[Argument_Grey_2018_CE|(Grey & Morris, 2018)]]
+> - **2018 年 — 媒介化全球教育治理批判性分析视角的提出** [[Paul Morris|Paul Morris]] 与 Sue Grey 发表《[[PISA]]: multiple ‘truths’ and mediatised global governance》，正式将媒介化概念与全球教育治理及跨国比较教育深度融合，揭示了跨国数据、政治修辞与本土媒体合谋的治理机制，开拓了超越超国家[[Convergence Theory in Comparative Education|趋同论]]的新批判研究路径。[[Argument_Grey_2018_CE|(Grey & Morris, 2018)]]
 
 ---
 
