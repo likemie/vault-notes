@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Education at a Glance",
-      "path": "wiki/facts/global/Education at a Glance.md"
+      "basename": "John Hattie",
+      "path": "wiki/persons/new-zealand/John Hattie.md"
     },
     {
       "basename": "Argument_Steiner-Khamsi_2024_CE",
       "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Steiner-Khamsi_2024_CE.md"
+    },
+    {
+      "basename": "Randomised Controlled Trials",
+      "path": "wiki/methods/quantitative/Randomised Controlled Trials.md"
+    },
+    {
+      "basename": "International Institute for Educational Planning",
+      "path": "wiki/facts/global/International Institute for Educational Planning.md"
+    },
+    {
+      "basename": "Return on Investment",
+      "path": "wiki/concepts/university-industry-collaboration/Return on Investment.md"
+    },
+    {
+      "basename": "Exploratory Factor Analysis",
+      "path": "wiki/methods/quantitative/Exploratory Factor Analysis.md"
+    },
+    {
+      "basename": "Knowledge Production",
+      "path": "wiki/concepts/university-industry-collaboration/Knowledge Production.md"
+    },
+    {
+      "basename": "Education at a Glance",
+      "path": "wiki/facts/global/Education at a Glance.md"
     },
     {
       "basename": "International Indicators of Education Systems",
@@ -51,10 +75,6 @@
     {
       "basename": "Global Education Governing Complex",
       "path": "wiki/concepts/comparative-education/Global Education Governing Complex.md"
-    },
-    {
-      "basename": "Knowledge Production",
-      "path": "wiki/concepts/university-industry-collaboration/Knowledge Production.md"
     },
     {
       "basename": "Governing by Numbers",
@@ -179,26 +199,6 @@
     {
       "basename": "Argument_Bates_2017_CognitionEducationTrust",
       "path": "wiki/arguments/books/Argument_Bates_2017_CognitionEducationTrust.md"
-    },
-    {
-      "basename": "Argument_Creswell_2022_SAGE",
-      "path": "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md"
-    },
-    {
-      "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01",
-      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01.md"
-    },
-    {
-      "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge",
-      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge.md"
-    },
-    {
-      "basename": "Argument_QiMei_2015_EducationalResearchMethods",
-      "path": "wiki/arguments/books/QiMei_2015_EducationalResearchMethods/Argument_QiMei_2015_EducationalResearchMethods.md"
-    },
-    {
-      "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30",
-      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30.md"
     }
   ],
   "omittedPaths": [],

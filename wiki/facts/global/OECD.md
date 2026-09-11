@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 55
+fact_related_count: 56
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -29,7 +29,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Development Turn in Comparative Education]]"
   - "[[Innovation Hub]]"
-  - "[[International Education]]"
+  - "[[Performance Indicators]]"
   - "[[Governing by Numbers]]"
   - "[[Research Topic]]"
   - "[[Going Native]]"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Lifelong Learning]]"
   - "[[Scientific Literacy]]"
   - "[[School Leadership]]"
+  - "[[International Education]]"
   - "[[Growth]]"
   - "[[Knowledge Production]]"
   - "[[Evidence-Based Education]]"
@@ -117,7 +118,7 @@ updated: 2026-09-11
 >   - 1958 [[Comparative Education Center at Chicago 1958|芝加哥大学比较教育中心]]建立，推动教育经济学与比较教育深度融合。
 > - **1961–1970s — OECD 改组与冷战“[[Development Turn in Comparative Education|发展转向]]”** 1961 年 OECD 正式取代 OEEC，美欧国家共同将其打造成抗衡苏联意识形态竞争的制度堡垒。在[[Economics of Education Movement|教育经济学运动]]影响下，OECD 系统确立将教育视为经济增长“生产性投资”的新范式，与[[International Institute for Educational Planning|联合国教科文组织国际教育规划研究所]]（[[International Institute for Educational Planning|IIEP]]）形成双翼，推动了比较教育的[[Development Turn in Comparative Education|发展转向]]。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 420–423)]]
 >   - 1962 启动著名的地中海区域项目（Mediterranean Regional Project, MRP），将[[Human Capital Theory|人力资本理论]]系统转化为南欧各国的国家教育发展规划。
-> - **1980s–1990s — 指标体系建构与管理主义转向** 1983 年美国《国家处在危险之中》（*[[A Nation at Risk 1983|A Nation at Risk]]*）报告发布后引发教育危机恐慌，时任美国教育部助理部长 Chester Finn Jr. 转向 OECD 下设的教育研究与[[Innovation Hub|创新中心]]（CERI），委托并资助 CERI 主任 Jarl Bengtsson 团队研发[[International Education|国际教育]]指标体系。这一关键转向促成了 1988 年[[International Indicators of Education Systems|国际教育系统指标]]网络（[[International Indicators of Education Systems|INES]]）的正式启动，标志着 OECD 彻底从传统的投入端与粗放人力核算转向关注教育系统的产出效能与质量问责，随后于 1992 年推出旗舰年度报告《[[Education at a Glance|教育概览]]》（Education at a Glance），为后来的跨国测试奠定了方法论与组织基础。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 540–542)]]
+> - **1980s–1990s — 指标体系建构与管理主义转向** 1983 年美国《国家处在危险之中》（*[[A Nation at Risk 1983|A Nation at Risk]]*）报告发布后引发教育危机恐慌，时任美国教育部助理部长 Chester Finn Jr. 转向 OECD 下设的教育研究与[[Innovation Hub|创新中心]]（Centre for Educational Research and Innovation，CERI），委托并资助 CERI 主任 Jarl Bengtsson 团队研发跨国[[Performance Indicators|教育指标]]体系。这一关键转向促成了 1988 年[[International Indicators of Education Systems|国际教育系统指标]]（International Indicators of Education Systems，INES）网络的正式启动，标志着 OECD 彻底从传统的投入端与粗放人力核算转向关注教育系统的产出效能与质量问责，随后于 1992 年推出旗舰年度报告《[[Education at a Glance|教育概览]]》（Education at a Glance），为后来的跨国测试奠定了方法论与组织基础。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 540–542)]]
 > - **2000–至今 — 大数据时代、[[Governing at a Distance|远处治理]]与[[Policy Brokerage|政策中介]]深化** 2000 年推出首轮[[PISA|国际学生评估项目]]（[[PISA]]），随后扩展至教师教学国际调查（TALIS）、成人技能评估（PIAAC）及面向全球南方的 PISA-D。经合组织不仅开创了跨国量化排名的[[Governing by Numbers|数字治理]]（Governing by Numbers）模式，更通过深度工具打包，将其跨国测评与外向型国别横向借鉴相结合，演进为全球教育政策知识的重要中介者与规范制定者。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 424–425)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 543–545)]]
 
 ---

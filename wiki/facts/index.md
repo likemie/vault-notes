@@ -34,9 +34,9 @@ Total entries: **382**
 | Type | Entries |
 |---|---:|
 | Policy | 148 |
-| Event | 129 |
+| Event | 127 |
 | Organization | 66 |
-| Program | 39 |
+| Program | 41 |
 
 ## Topic Signals
 
@@ -325,15 +325,13 @@ Total entries: **382**
 
 ## Global
 
-> [!index-list]- Event (11)
+> [!index-list]- Event (9)
 > - [[1976 Hague Intergovernmental Conference on the International Baccalaureate]] — 1976年2月在海牙召开的国际文凭政府间会议，把实验期后的课程合作、考试经费和治理代表权转化为政府共同议题，并为国际文凭办公室保持独立法律身份的混合治理结构奠定基础。
 > - [[2014 Open Letter on PISA]] — 2014年5月由全球83位顶尖国际教育学者联合签署并致信OECD教育总监施莱歇尔的公开信，严厉批判PISA缺乏民主授权、导致课程窄化、引发短期应试修补并推动公学商业化
-> - [[Education at a Glance]] — OECD 年度旗舰出版物，以 30 项国际教育指标描述各国教育系统，涵盖产出、投入、参与、环境四大维度
 > - [[Education City Doha]] — 卡塔尔首都多哈的多大学海外分校集中园区：康奈尔医学院、乔治城、卡内基梅隆等，标志大学全球化的新阶段
 > - [[Evidence-Based Education Institutions]] — 全球循证教育运动的制度基础设施汇总，涵盖证据清算中心、研究综合中心、政策推动机构和教师草根网络，按类型分类
 > - [[INES Lugano General Assembly 1991]] — INES 第二届全体大会，科学家-政策制定者权力关系的分水岭：政策制定者强行将学生成绩数据纳入 EAG
 > - [[International Baccalaureate Six-Year Experiment]] — 1967年至1976年间以真实学校、考试和大学承认检验国际文凭可行性的跨国制度实验，通过扩展学校网络、建立考试行政、争取资格承认和重组财务治理，使IB从改革项目转为常设组织。
-> - [[International Indicators of Education Systems]] — 1988 年 OECD 启动的国际教育指标开发项目，EAG 的前身和生产者
 > - [[Nobel Prize in Physiology or Medicine]] — 由诺贝尔大会在卡罗林斯卡学院颁发的年度奖项，最多可授予三人，是世界上最令人向往的科学奖项之一
 > - [[Regional University Alliances]] — 跨国或区域性大学联盟，通过科研合作、师生流动和联合学位等机制构成多层级高等教育空间中的制度行动者
 > - [[Stanford Prison Experiment]] — 1971年由Philip Zimbardo在斯坦福大学进行的模拟监狱实验，因参与者迅速出现极端行为和严重情绪紊乱而在第六天被提前终止，成为研究伦理和角色扮演方法论的经典争议案例。
@@ -362,8 +360,10 @@ Total entries: **382**
 > - [[UN Sustainable Development Goals]] — 2015年193个UN成员国通过的17项全球发展目标；在高等教育领域成为大学参与全球治理的关键催化剂，被视为大学的新型第三使命
 > - [[United World Colleges Associated Schools Policy 1977]] — 联合世界书院国际董事会于1977年确立既有学校关联程序，以非正式校际联系检验使命、合作能力和共同成本，并维持关联资格与正式成员身份的层级。
 
-> [!index-list]- Program (5)
+> [!index-list]- Program (7)
 > - [[Baby PISA]] — OECD发起的国际早期学习和儿童福祉研究，旨在以标准化测验评估5岁儿童发展，标志着PISA商业与治理帝国向学前教育及生命历程早期的全面扩张
+> - [[Education at a Glance]] — 经合组织（OECD）自 1992 年起发布的年度旗舰教育指标报告。由 INES 网络生产，涵盖产出、投入、参与、环境四大维度，标志着全球北方“数字治理”模式的正式确立；它将量化指标塑造为国家间通约的主要语言代码，为后来的 PISA 测评帝国奠定了制度与方法论基石。
+> - [[International Indicators of Education Systems]] — 经合组织（OECD）于 1988 年启动的旗舰教育指标研发项目。在美国《国家处在危险之中》报告的危机刺激下，由教育研究与创新中心（CERI）孵化并独立运作，由 Norberto Bottani 领导，开创了跨国教育指标体系与《教育概览》，完成了从投入规划向产出绩效与“数字治理”的历史性转向。
 > - [[ISSPP Project]] — Christopher Day 领导、自 2002 年起 20+ 国参与的国际成功学校校长项目，最全面的跨国学校领导力案例研究，Møller 以亲历者立场提出方法论反思
 > - [[OECD AHELO Project]] — OECD 启动的高等教育学习成果评估可行性研究，试图以类似 PISA 的方式测量 HE 学习成果，因课程跨国不可比性和顶尖大学抵制被广泛定义为失败
 > - [[OECD Improving School Leadership Project]] — OECD 启动的 18+4 国参与项目，五项政策建议（吸引人才、界定职责、赋权自主、分布式领导、发展连续性），将学校领导力确立为全球教育政策优先议程
@@ -657,7 +657,7 @@ Total entries: **382**
 > - [[Smith Lever Act of 1914]] — 1914 年美国联邦立法，在赠地大学建立农业推广服务体系，以联邦资金直接支持农业产业的应用研究、教育和培训，是产学合作中连接研究与实际应用的早期制度模型
 > - [[Social Programs That Work]] — 阿诺德基金会（Arnold Ventures）维护的多领域非营利证据平台，以极高门槛著称，仅收录在真实世界中经严谨多中心RCT验证且低流失（<20%）的顶级项目。
 > - [[Social Science One]] — 哈佛大学量化社会科学研究所（IQSS）孵化的组织实施 [[King-Persily Model]]，通过独立学术委员会机制使学术研究者能够分析企业掌握的敏感数据以解决社会问题
-> - [[Sputnik Shock 1957]] — 1957 年苏联发射人类首颗人造卫星触发的美国科技信心危机，强化了教育质量、科技能力和国家竞争力之间的政策连接
+> - [[Sputnik Shock 1957]] — 1957 年苏联发射人类首颗人造地球卫星引发的西方世界科技与教育危机。该事件促成美国出台《国防教育法》并推动课程结构改革，更刺激欧洲经济合作组织（OEEC/OECD）重新定位为“经济北约”与世界一流教育先锋，开创了将人力资本理论、控制论规划与跨国教育统计相结合的技术官僚治理范式。
 > - [[Success for All]] — Robert Slavin与Nancy Madden创立的全校性读写综合改革方案（CSR），在Wadhwa et al. (2024)中作为五大清算中心均无负面评级、但因结果域细分、文献池规模与变体效应量产生多层评价分化的经典案例。
 > - [[Sunshine Act]] — 美国《平价医疗法案》2010 年组成部分，要求制药和医疗器械公司公开报告向医生和教学医院的所有支付，通过 Open Payments 数据库向公众披露，旨在增加产学临床试验中的财务透明度和防止利益冲突
 > - [[Tech Square at Georgia Tech]] — Georgia Tech 于 1990 年代末开发的产学合作创新园区，由校长 Wayne Clough 推动，以管理学院为锚点，经 TUFF 运营支持，是美国最成功的大学创新中心之一

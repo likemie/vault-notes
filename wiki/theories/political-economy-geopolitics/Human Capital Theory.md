@@ -4,10 +4,10 @@ aliases:
   - 人力资本理论
   - 人力资本
   - human capital
-summary: "将教育与培训视为提升劳动生产率与驱动内生经济增长的核心生产性投资之经济学理论。在二战后成为推动教育财政大扩张、国家五年规划、第三世界技术援助以及比较教育政策借口的核心理论支柱。"
+summary: "将教育与培训视为提升劳动生产率与驱动内生经济增长的核心生产性投资之经济学理论。二战后在冷战地缘博弈中成为经合组织（OECD）推行技术官僚式人力规划与世界银行构建跨国放贷指标帝国的核心理论支柱。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 24
+theory_related_count: 29
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -35,7 +35,8 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Technical Rationality]]"
   - "[[Scientific Paradigm]]"
-related_theories: []
+related_theories:
+  - "[[Governing at a Distance]]"
 related_methods:
   - "[[Pre-test and Post-test]]"
   - "[[Analytic Framework]]"
@@ -43,15 +44,19 @@ related_instruments: []
 related_persons:
   - "[[Torsten Husén]]"
 related_facts:
+  - "[[Sputnik Shock 1957]]"
   - "[[OECD]]"
+  - "[[International Indicators of Education Systems]]"
+  - "[[Education at a Glance]]"
   - "[[PISA]]"
 related_arguments:
   - "[[Argument_Mattheou_2009_ScientificParadigm]]"
+  - "[[Argument_Steiner-Khamsi_2024_CE]]"
   - "[[Argument_Li_2025_HSSC]]"
 confidence: high
 status: draft
 created: 2026-09-08
-updated: 2026-09-08
+updated: 2026-09-11
 ---
 
 # Human Capital Theory
@@ -64,7 +69,7 @@ updated: 2026-09-08
 > - **解释对象** 教育与技能投资转化为个人终身收益、劳动生产率提升与国家宏观经济增长的内生因果机制。
 > - **理论问题** 破解新古典生产函数中物质资本与非技能劳动力无法完全解释的“余值增长”（索洛余值），将人类后天习得的知识与能力资本化；在战后政策中为国家追加教育公共预算、推行中央教育规划与实施跨国技术援助提供理论正当性。
 > - **理论类型** 宏观与中层经济学理论、机制模型、教育规划[[Paradigm|范式]]。
-> - **知识位置** 芝加哥学派新古典经济学（Theodore W. Schultz, Gary S. Becker, Jacob Mincer）与战后教育经济学；在比较教育与发展教育领域的核心代表包括 William G. Bowen（1964）、Frederick Harbison 与 Charles A. Myers（1964）、Herbert S. Parnes（1962）、Don Adams 与 Robert Bjork（1971）。
+> - **知识位置** 芝加哥学派新古典经济学（Theodore W. Schultz, Gary S. Becker, Jacob Mincer）与战后教育经济学；在比较教育与发展教育领域的核心代表包括 William G. Bowen（1964）、Frederick Harbison 与 Charles A. Myers（1964）、Herbert S. Parnes（1962）、Don Adams 与 Robert Bjork（1971）、George Psacharopoulos（1981）。
 
 > [!claim] 核心主张
 > 人力资本理论主张，教育与技能培训是对蕴含于劳动者体内生产性知识与能力的资本投资，而非单纯的消费性福利开支；这种投资通过提升劳动者的边际生产率内生驱动宏观经济持续增长，并为国家通过科学的人力需求预测发掘社会潜在人才库、推动社会流动与经济起飞提供了必然性与合法性背书。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 64, 67–68)]]
@@ -87,6 +92,8 @@ updated: 2026-09-08
 > | 人力需求预测法（Manpower Forecasting Approach） | 方法 | 基于宏观经济产业目标测算未来劳动力受教育结构需求的规划技术，指导国家五年计划中的教育规模与分流（Parnes, 1962）。 |
 > | 潜在人才库（Latent Pool of Talents） | 概念 | 指社会大众（尤其是工农阶层）中未被传统精英教育发现和转化的智力资源，构成教育扩张的社会学论据（Halsey et al., 1961）。 |
 > | [[Social Science as Legitimation Alibi]] | 机制 | 政治决策者利用人力资本的量化预测与[[Return on Investment\|投资回报]]模型作为推卸行政责任与掩盖价值决断的科学借口。 |
+> | 教育收益率数据库与放贷门槛（Rates of Return Databank & Lending Conditionalities） | 机制 | 世界银行（George Psacharopoulos）建立的涵盖 139 国、1,120 项教育投资收益率估算的大规模数据库，将人力资本理论转化为跨国结构性调整与政策放贷的量化门槛与自指性治理帝国。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–542)]] |
+> | 控制论人力规划（Cybernetic Manpower Planning） | 方法 | 冷战时期经合组织（OECD）为抗衡苏联计划经济竞争，将人力资本理论与控制论相结合的技术官僚规划范式，专注于劳动力市场中长期工程师与技术人员需求的宏观预测。[[Argument_Steiner-Khamsi_2024_CE\|(Popkewitz, 2022; Steiner-Khamsi et al., 2024, p. 541)]] |
 
 ---
 
@@ -107,7 +114,12 @@ updated: 2026-09-08
 > - **前提二** 人力资本理论及其衍生的人力预测模型能够提供貌似精准的大样本回归数据与确定性收益预测，将高度争议的利益分配包装为客观规律（Adams & Bjork, 1971; Wiener, 1966）。
 > - **推导** ① 决策者借助人力资本理论的科学权威，为既定意识形态与财政扩张构筑不可质疑的正当性；② 一旦规划失误或失业上升，技术官僚可将责任归咎为“客观[[Independent Variable|预测变量]]的滞后性”而非政策本身的伦理与政治缺陷；③ 实证社会科学由此在制度上被吸纳为政治统治的“合法化借口”（Alibi）。
 
-> [!mechanism-map]- 人力资本理论双重运作机制图
+> [!proposition-chain] 核心命题四｜冷战竞争促成国际组织将人力资本构造成技术官僚控制论规划与跨国放贷指标帝国
+> - **前提一** 1957 年[[Sputnik Shock 1957|斯普特尼克冲击]]（[[Sputnik Shock 1957|Sputnik Shock]]）使西方阵营深陷落后恐慌，欧洲经济合作组织（改组后的[[OECD|经合组织]] [[OECD]]）被重新构想为“经济北约”，必须寻找抗衡苏联计划经济的技术化治理工具（[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024, pp. 540–541]]）。
+> - **前提二** 世界银行在后殖民时期急于争夺不结盟国家影响力，脱离了联合国教科文组织的人文主义路线，转向以管理科学效率与放贷权力为核心的自营[[Paradigm|研究范式]]（Elfert & Ydesen, 2023; Psacharopoulos, 1981）。
+> - **推导** ① 经合组织将人力资本理论与控制论规划深度缝合，推行专注于预测劳动力市场需求的技术官僚人力规划（Popkewitz, 2022）；② 世界银行依托高级顾问 George Psacharopoulos 建立起覆盖 139 国、1,120 项估算的回报率数据库，将人力资本收益率测算固化为结构性调整与政策放贷的前置门槛；③ 人力资本逻辑由此从纯粹的学术假说演进为跨国组织规制民族国家教育政策、行使“[[Governing at a Distance|远处治理]]”的自指性指标帝国。
+
+> [!mechanism-map]- 人力资本理论的多重运作机制演化图
 > ```mermaid
 > flowchart TD
 >   subgraph 经济学内生生产力逻辑
@@ -115,17 +127,26 @@ updated: 2026-09-08
 >     B --> C["劳动边际生产率提高"]
 >     C --> D["个人收入增长与宏观经济繁荣"]
 >   end
->   subgraph 政治政策规划与合法化逻辑
+>   subgraph 国家政策规划与合法化逻辑
 >     E["潜在人才库发掘诉求 (Halsey et al.)"] --> F["人力需求预测模型 (Parnes, OECD MRP)"]
 >     F --> G["国家五年教育扩张规划与公共预算追加"]
 >     G --> H["实证科学作为统治正统借口 (Legitimation Alibi)"]
 >   end
+>   subgraph 跨国组织冷战地缘与指标治理逻辑
+>     J["冷战斯普特尼克冲击 (1957)"] --> K["经合组织控制论人力规划 (经济北约)"]
+>     L["世界银行放贷权力扩张 (1980)"] --> M["Psacharopoulos 1120项收益率数据库"]
+>     K --> N["跨国指标帝国与自指性政策规制"]
+>     M --> N
+>   end
 >   A -.-> E
 >   D -.1970年代经济滞胀检验.-x I["规划承诺破灭与实证神话危机 (Husén, 1982)"]
+>   H -.-> N
 > ```
 
 > [!exegesis]- 教育规划与综合中学运动的实证案例
 > 在 1960 年代 [[OECD]] 推动的地中海区域项目（Mediterranean Regional Project, MRP）以及英美等国的综合学校（Comprehensive School）运动中，政策制定者深度动用了人力资本理论。一方面，技术官僚依据帕恩斯（Herbert Parnes, 1962）的人力需求模型，测算未来二十年工业升级所需的工程师与技术人员配额，以此作为中央财政向中等与高等教育大幅追加拨款的铁证；另一方面，当经济陷入周期性失业或文凭贬值时，行政部门便以“劳动力市场结构调整与滞[[Pre-test and Post-test|后测]]算”为技术由头规避问责，充分展现了该理论作为政策护甲与合法化借口的双重功能。
+> 
+> 在跨国治理维度上，世界银行自 1980 年代起依托 Psacharopoulos 主导的教育收益率大样本跨国数据库，持续将初等教育的高回报率作为强加给第三世界借款国的政策处方，将原本具有高度不确定性的教育过程简化为确定性的金融贴现资产，构成了冷战后国际组织以数据统治教育的经典案例。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
 
 ---
 
@@ -157,10 +178,12 @@ updated: 2026-09-08
 ## 发展脉络
 
 > [!dev-timeline] 发展脉络
-> - **1960–1963 — 理论奠基阶段** 西奥多·舒尔茨（Theodore W. Schultz）发表《人力资本投资》（1961）与《教育的经济价值》（1963），加里·贝克尔（Gary S. Becker）出版《人力资本》（1964），奠定现代人力资本理论体系。
+> - **1957–1961 — 冷战冲击与国际政策正统确立** 1957 年苏联人造卫星升空引发[[Sputnik Shock 1957|斯普特尼克冲击]]，迫使西方世界将学校教育界定为科技专才的供给母体；欧洲经济合作组织（OEEC/[[OECD]]）将自身重新定位为“经济北约”和世界一流教育先锋，引入控制论与人力资本理论开展大规模劳动力市场需求预测；1960 年贝拉吉奥会议、1961 年华盛顿经合组织“经济增长与教育投资”政策会议全面确立人力资本政策正统。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 540–541)]]
+> - **1960–1964 — 理论经典奠基** 西奥多·舒尔茨（Theodore W. Schultz）发表《人力资本投资》（1961）与《教育的经济价值》（1963），加里·贝克尔（Gary S. Becker）出版《人力资本》（1964），系统确立以个人与社会收益率为核心的新古典微观与宏观[[Analytic Framework|分析框架]]。
 > - **1962–1970 — 教育规划与比较教育应用** 赫伯特·帕恩斯（Herbert Parnes, 1962）主持 [[OECD]] 地中海区域项目（MRP），弗雷德里克·哈比森（Frederick Harbison）与查尔斯·迈尔斯（Charles Myers, 1964）建立跨国人力指数，人力资本理论成为比较教育“[[Development Turn in Comparative Education|发展转向]]”与战后国家规划的核心支柱。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 64, 67–68)]]
 > - **1970 年代中叶 — [[Paradigm|范式]]危机与反思** 经济滞胀爆发，[[Credential Inflation|文凭通胀]]与青年失业打破了教育投资必然带动经济繁荣的神话，[[Torsten Husén|托斯滕·胡森]]（Torsten Husén, 1982）指出实证规划承诺全面破灭。
-> - **1980 年代至今 — 内生增长与全球治理再融合** 罗伯特·卢卡斯（Robert Lucas, 1988）将人力资本作为内生经济增长模型的核心；进入 21 世纪，人力资本逻辑在世界银行与 OECD [[PISA]] 跨国技能测试中被深度重构为“全球[[Knowledge-Based Economy|知识经济]]竞争力”治理框架。
+> - **1980–1990 年代 — 世界银行放贷帝国与内生增长** 1980 年世界银行发布首份《教育部门政策文件》（World Bank, 1980），George Psacharopoulos 建立起涵盖 139 国、1,120 项估算的回报率数据库，使人力资本收益率成为跨国政策放贷与治理干预的硬性规制指标；罗伯特·卢卡斯（Robert Lucas, 1988）将人力资本作为内生经济增长模型的核心。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
+> - **2000 年代至今 — 全球指标治理与测评帝国再融合** 进入 21 世纪，人力资本逻辑在经合组织 [[International Indicators of Education Systems|INES]] 网络、《[[Education at a Glance|教育概览]]》与 [[PISA]] 跨国技能测试中被深度重构为“全球[[Knowledge-Based Economy|知识经济]]竞争力”治理框架，从粗放投入预测转向基于测评数据的产出绩效规制。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–543)]]
 
 ---
 
@@ -173,7 +196,7 @@ updated: 2026-09-08
 > >
 > > - **人力资本学派** 坚信正规教育直接增强了个体的认知资本与生产技能，从而创造了真实经济价值。
 > > - **信号与筛选理论** 肯尼斯·阿罗（Kenneth Arrow, 1973）与迈克尔·斯宾塞（Michael Spence, 1973）指出，教育主要发挥“筛选装置”（Screening Device）和“能力信号”功能，文凭溢价源于先天能力偏好而非教育带来的生产力提升。
->
+> >
 > > [!axis] 科学[[Technical Rationality|技术理性]]规划 vs 统治正统免责借口
 > > 围绕人力资本预测与量化模型是纯粹的科学规划工具还是服务于官僚政治的伪装工具展开争论。
 > >
@@ -190,3 +213,4 @@ updated: 2026-09-08
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 深度剖析人力资本理论如何作为实证[[Scientific Paradigm|科学范式]]的理论支柱，为战后西方国家教育预算大扩张与第三世界技术援助提供合法化免责借口。
 > - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — 揭示当代全球治理中人力资本话语如何与 [[PISA]] 测评机制紧密咬合，驱动教育系统按照资本回报逻辑重组。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 梳理[[OECD|经合组织]]与世界银行七十五年历时制度演变，揭示冷战[[Sputnik Shock 1957|斯普特尼克冲击]]后国际组织如何将人力资本理论、控制论规划与教育收益率数据库工具化，打造出跨国放贷与指标治理帝国的历史轨迹。

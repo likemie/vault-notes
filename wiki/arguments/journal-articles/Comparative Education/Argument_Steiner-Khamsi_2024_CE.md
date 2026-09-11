@@ -38,7 +38,6 @@ related_concepts:
   - "[[Scaffolding]]"
   - "[[Champ]]"
   - "[[Innovation Hub]]"
-  - "[[International Education]]"
   - "[[Return on Investment]]"
   - "[[Attrition]]"
   - "[[Hypothesis]]"
@@ -59,6 +58,7 @@ related_persons:
 related_facts:
   - "[[OECD]]"
   - "[[Sputnik Shock 1957]]"
+  - "[[A Nation at Risk 1983]]"
   - "[[International Indicators of Education Systems]]"
   - "[[Education at a Glance]]"
   - "[[PISA]]"
@@ -95,7 +95,7 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> 在数字经济催生研究证据严重过剩与信息孤岛林立的时代，更多知识不仅未能消除政策制定的盲区，反而加剧了政策复杂性。在这一生态背景下，作为依托知识开展规制的两大先行机构——[[OECD|经合组织]]（Organisation for Economic Co-operation and Development, OECD）与世界银行（World Bank），是如何以及何时将[[Policy Brokerage|政策中介]]（Policy Brokerage）建构为教育领域全球治理的核心工具？由五大国际组织、跨国教育资本与私人慈善基金会构成的[[Global Education Governing Complex|全球教育治理复合体]]如何以硬事实施展软权力？作为主要政策对象的各国政府又如何在政策周期的不同阶段策略性动员或严苛过滤这些中介证据？（pp.537–539）
+> 在数字经济催生研究证据严重过剩与信息孤岛林立的时代，更多知识不仅未能消除政策制定的盲区，反而加剧了政策复杂性。在这一生态背景下，作为依托知识开展规制的两大先行机构——[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD，简称经合组织）与世界银行（World Bank），是如何以及何时将[[Policy Brokerage|政策中介]]（Policy Brokerage）建构为教育领域全球治理的核心工具？由五大国际组织、跨国教育资本与私人慈善基金会构成的[[Global Education Governing Complex|全球教育治理复合体]]如何以硬事实施展软权力？作为主要政策对象的各国政府又如何在政策周期的不同阶段策略性动员或严苛过滤这些中介证据？（pp.537–539）
 
 > [!claim] 核心主张
 > 信息过载与知识过剩为中介机构选择性提取并包装政策证据滋生了空间；国际组织通过将核心评测工具与差异化知识产品打包，以硬事实施展软权力，借此巩固自身的组织利基；必须确立基于多学科视角的[[Governing by Numbers|数字治理]] 2.0比较研究纲领，依托[[Methodological Transnationalism|方法论跨国主义]]将全球与国家视作相互依存的[[Relational Space|关系性空间]]，揭示国家行动者在政策议程设置阶段对外在权威的工具性动员与在法定决策出台阶段的深度政治过滤。（pp.538–540, 547–549）
@@ -113,10 +113,10 @@ issuing_organization: ""
 > | 理论工具 | 解释功能 |
 > |----------|----------|
 > | **[[Policy Brokerage\|政策中介理论（Policy Brokerage）]]** | 发轫于两个群体理论（Caplan, 1979）与边界跨越研究（Mackillop et al., 2019）；阐明当国际组织将[[Knowledge Production\|知识生产]]、方案推介与项目资助融为一体时，中立的知识中介便转变为服务于特定政治议程的政策中介，并在充满歧义、争议与不确定性的决策环境中，通过量化指标确立权威。（pp.538–540） |
-> | **[[Global Education Governing Complex\|全球教育治理复合体（Global Education Governing Complex）]]** | Christian Ydesen (2019) 提出、结合 Niemann & Martens (2018) 以硬事实施展软权力的论断，指涉由全球教育伙伴关系（Global Partnership for Education, GPE）、[[OECD\|经合组织]]、联合国教科文组织（United Nations Educational, Scientific and Cultural Organization, UNESCO）、联合国儿童基金会（United Nations Children's Fund, UNICEF）与世界银行五大组织，连同私人基金会与商业资本共同构成的跨国规制网络，揭示非教育专门机构跨界掌控教育治理的结构根源。（pp.539, 544） |
+> | **[[Global Education Governing Complex\|全球教育治理复合体（Global Education Governing Complex）]]** | Christian Ydesen (2019) 提出、结合 Niemann & Martens (2018) 以硬事实施展软权力的论断，指涉由全球教育伙伴关系（Global Partnership for Education，GPE）、[[OECD\|经合组织]]（OECD）、联合国教育、科学及文化组织（United Nations Educational, Scientific and Cultural Organization，UNESCO，简称联合国教科文组织）、联合国儿童基金会（United Nations Children's Fund，UNICEF）与世界银行五大组织，连同私人基金会与商业资本共同构成的跨国规制网络，揭示非教育专门机构跨界掌控教育治理的结构根源。（pp.539, 544） |
 > | **[[Methodological Transnationalism\|方法论跨国主义（Methodological Transnationalism）]]** | Diane Stone (2020) 范式，打破将国家视为孤立容器的[[Methodological Nationalism\|方法论民族主义]]与线性等级霸权模型，将全球与国家界定为相互依存的关系性空间。（p.540） |
 > | **系统论外在化假说（Externalisation Thesis）** | [[Niklas Luhmann\|卢曼]]（Niklas Luhmann）与施里弗（Jürgen Schriewer）的社会学系统理论概念，解释本土教育系统如何在内部构建准外部参考点，以化解国内政治冲突并维系系统自身的运作合法性与自我再生产。（p.546） |
-> | **知识-行动联结三代模型（Knowledge-to-Action, KTA）** | Best & Holmes (2010) 模型，区分单向传播推送、关系共建与系统程序生态三代视角，为考察政策周期不同阶段的[[Research Utilization\|证据使用]]提供[[Analytic Framework\|分析框架]]。（p.547） |
+> | **知识向行动转化三代模型（Knowledge-to-Action，KTA）** | Best & Holmes (2010) 模型，区分单向传播推送、关系共建与系统程序生态三代视角，为考察政策周期不同阶段的[[Research Utilization\|证据使用]]提供[[Analytic Framework\|分析框架]]。（p.547） |
 
 > [!warrant]- 理论如何支撑论证
 > 上述理论工具共同搭建起多学科融合的阐释支架：政策中介理论与全球教育治理复合体[[Construct|构念]]从政治学和国际关系维度，揭示了国际组织以硬事实施展软权力的供给侧逻辑；方法论跨国主义从[[Epistemology|认识论]]层面确立了全球与国家相互交织的关系性分析基底；系统论外在化假说与政策周期程序模型则从比较政策研究维度，精准解释了主权国家在需求侧如何策略性动员并过滤外部证据。（pp.539–541, 546–548）
@@ -129,13 +129,13 @@ issuing_organization: ""
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
 > | **历史比较分析法**<br>[[Historical-Comparative Method\|Historical-Comparative Analysis]] | 梳理[[OECD\|经合组织]]与世界银行五十年发展档案，结合关键历史[[Document\|文献]]与亲历者访谈史料（如 Jarl Bengtsson 回忆录、George Psacharopoulos 政策评估文本），重构冷战与后殖民时期国际组织向教育统计与指标规制转型的制度轨迹。（pp.540–542） |
-> | **跨国组织比较与网络分析**<br>Transnational & Relational Policy Network Analysis | 运用世界教育改革数据库（World Education Reform Database, WERD）等跨国数据，横向对比 OECD、世界银行、联合国教科文组织等在[[Policy Brokerage\|政策中介]]工具打包、经验汲取模式（外向国别经验 vs 自指性实践库）及排他性联盟策略上的异同。（pp.543–546） |
+> | **跨国组织比较与网络分析**<br>Transnational & Relational Policy Network Analysis | 运用世界教育改革数据库（World Education Reform Database，WERD）等跨国数据，横向对比 OECD、世界银行、联合国教科文组织等在[[Policy Brokerage\|政策中介]]工具打包、经验汲取模式（外向国别经验 vs 自指性实践库）及排他性联盟策略上的异同。（pp.543–546） |
 > | **政策周期引文追踪法**<br>Procedural Citation Tracing in Policy Cycle | 依托北欧五国政策咨询网络实证研究材料，系统追踪专家咨询委员会报告与教育部正式法令之间的参考文献承继关系，精确量化跨国中介证据在行政规制出台阶段的损耗与过滤。（pp.547–548） |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |----------|------|
-> | **机构样本** | 全球涉足教育领域的 30 个政府间组织（Intergovernmental Organisations, IOs）总体历时数据，核心聚焦五大组织（OECD、World Bank、UNESCO、UNICEF、GPE）。（pp.539, 544） |
+> | **机构样本** | 全球涉足教育领域的 30 个政府间国际组织（Intergovernmental Organisations，IOs）总体历时数据，核心聚焦五大组织（OECD、World Bank、UNESCO、UNICEF、GPE）。（pp.539, 544） |
 > | **实证数据库** | 世界教育改革数据库（WERD, 涵盖 1960–2017 年 147 国 6,700 份政策文件）；世界银行教育回报率数据库（139 国、1,120 项估算指标）；世界银行[[Performance Indicators\|教育指标]]库（1989 年 116 项扩展至 2018 年 1,600 项）。（pp.542, 544, 548） |
 > | **政策文献样本** | 挪威教育与科学部能力课程改革相关的 5 个专家委员会咨询报告（共列入 464 篇参考文献）及最终颁布的官方行政法令（仅引用 22 篇）。（pp.547–548） |
 
@@ -207,7 +207,7 @@ issuing_organization: ""
 >
 > - **1980年代 — 教育标准确立与跨国指标项目起步**
 >
->   在教育研究与[[Innovation Hub|创新中心]]资深主管 Jarl Bengtsson 推动下，经合组织重心全面转向教育标准与跨国指标开发；在美国《国家处在危险之中》报告的危机刺激下，经合组织受托启动[[International Education|国际教育]]指标项目（[[International Indicators of Education Systems|INES]]）。（pp.541–542）
+>   在经合组织教育研究与[[Innovation Hub|创新中心]]（Centre for Educational Research and Innovation，CERI）资深主管 Jarl Bengtsson 推动下，经合组织重心全面转向教育标准与跨国指标开发；在美国《国家处在危险之中》（*[[A Nation at Risk 1983|A Nation at Risk]]*）报告的危机刺激下，经合组织受托启动[[International Indicators of Education Systems|国际教育系统指标]]（International Indicators of Education Systems，INES）项目。（pp.541–542）
 >
 > - **1990年代至今 — 《[[Education at a Glance|教育概览]]》出版与 [[PISA]] 评价帝国形成**
 >

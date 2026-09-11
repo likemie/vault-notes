@@ -18943,15 +18943,6 @@
     ]
   },
   {
-    "title": "Education at a Glance",
-    "type": "fact",
-    "path": "wiki/facts/global/Education at a Glance.md",
-    "aliases": [
-      "教育概览",
-      "EAG"
-    ]
-  },
-  {
     "title": "Education City Doha",
     "type": "fact",
     "path": "wiki/facts/global/Education City Doha.md",
@@ -18984,15 +18975,6 @@
     "aliases": [
       "国际文凭六年试验",
       "IB six-year experiment"
-    ]
-  },
-  {
-    "title": "International Indicators of Education Systems",
-    "type": "fact",
-    "path": "wiki/facts/global/International Indicators of Education Systems.md",
-    "aliases": [
-      "国际教育系统指标",
-      "INES"
     ]
   },
   {
@@ -19233,6 +19215,29 @@
       "国际早期学习和儿童福祉研究",
       "国际早期学习与儿童福祉研究",
       "幼儿版国际学生评估项目"
+    ]
+  },
+  {
+    "title": "Education at a Glance",
+    "type": "fact",
+    "path": "wiki/facts/global/Education at a Glance.md",
+    "aliases": [
+      "教育概览",
+      "EAG"
+    ]
+  },
+  {
+    "title": "International Indicators of Education Systems",
+    "type": "fact",
+    "path": "wiki/facts/global/International Indicators of Education Systems.md",
+    "aliases": [
+      "国际教育系统指标",
+      "INES",
+      "国际教育指标项目",
+      "国际教育指标体系",
+      "国际教育系统指标项目",
+      "国际教育系统指标网络",
+      "Project for International Indicators of Education Systems"
     ]
   },
   {
@@ -21049,7 +21054,8 @@
       "Sputnik Shock",
       "斯普特尼克冲击",
       "Sputnik",
-      "人造卫星冲击"
+      "人造卫星冲击",
+      "苏联卫星危机"
     ]
   },
   {
