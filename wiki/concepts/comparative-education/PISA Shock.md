@@ -18,6 +18,7 @@ tags:
   - region/global
 related_concepts:
   - "[[Paradigm]]"
+  - "[[Academic Achievement]]"
 related_theories: []
 related_methods:
   - "[[Systematic Review]]"
@@ -26,6 +27,7 @@ related_persons: []
 related_facts:
   - "[[PISA]]"
   - "[[Sputnik Shock 1957]]"
+  - "[[OECD]]"
 related_arguments:
   - "[[Argument_Grey_2018_CE]]"
   - "[[Argument_Li_2025_HSSC]]"

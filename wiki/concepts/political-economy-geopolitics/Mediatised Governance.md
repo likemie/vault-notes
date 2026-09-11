@@ -18,7 +18,24 @@ tags:
   - theme/policy-discourse
   - paradigm/critical
 related_concepts:
+  - "[[Problem Finding]]"
+  - "[[Champ]]"
+  - "[[Disciplina and Doctrina]]"
+  - "[[Determinism]]"
+  - "[[Construct]]"
   - "[[Governance by Spin]]"
+  - "[[Hypothesis]]"
+  - "[[Soft Power]]"
+  - "[[Dramatic Tension]]"
+  - "[[Performance Pay]]"
+  - "[[Rote Learning]]"
+  - "[[Screening Off]]"
+  - "[[Paradigm]]"
+  - "[[Dialogue in Education]]"
+  - "[[Governing by Numbers]]"
+  - "[[Going Native]]"
+  - "[[Data Literacy]]"
+  - "[[Analytical Stance]]"
 related_persons:
   - "[[Paul Morris]]"
 related_facts:
@@ -27,6 +44,8 @@ related_facts:
 related_arguments:
   - "[[Argument_Grey_2018_CE]]"
   - "[[Argument_Beech_2009_CE]]"
+related_theories:
+  - "[[Convergence Theory in Comparative Education]]"
 confidence: high
 status: draft
 created: 2026-09-11
