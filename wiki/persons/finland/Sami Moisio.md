@@ -11,6 +11,9 @@ person_related_count: 25
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
+born: "c. 1973"
+died: ""
+lifespan: "c. 1973–至今"
 tags:
 - region/finland
 - level/higher-ed
@@ -19,7 +22,6 @@ related_concepts:
   - "[[Knowledge-Based Economization]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge-Based Economy]]"
-  - "[[Analytic Framework]]"
   - "[[Growth]]"
   - "[[Flow]]"
   - "[[Spatial Sortings]]"
@@ -38,7 +40,8 @@ related_theories:
   - "[[Human Capital Theory]]"
   - "[[Fixity-Motion Tension]]"
   - "[[Cultural Political Economy]]"
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons: []
 related_arguments:
   - "[[Argument_Moisio_2022_Springer]]"
@@ -49,13 +52,13 @@ related_facts:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 ## 简介
 
-> [!info]
-
-Sami Moisio，芬兰政治地理学者，赫尔辛基大学地球科学与地理系（Department of Geosciences and Geography）教授。以对知识密集型资本主义的地缘政治分析著称，提出[[Knowledge-Based Economization|知识经济化]]（Knowledge-Based Economization）和[[Geopolitics of Knowledge|知识地缘政治]]等概念，将[[Critical Geopolitics|批判地缘政治学]]传统延伸至教育、创新和城市治理领域([[Argument_Moisio_2022_Springer|Moisio, 2022, p.21]])。
+> [!person-profile] 人物档案
+> - **生卒年份** c. 1973–至今
+> - **身份位置** Sami Moisio，芬兰政治地理学者，赫尔辛基大学地球科学与地理系（Department of Geosciences and Geography）教授。以对知识密集型资本主义的地缘政治分析著称，提出[[Knowledge-Based Economization|知识经济化]]（Knowledge-Based Economization）和[[Geopolitics of Knowledge|知识地缘政治]]等概念，将[[Critical Geopolitics|批判地缘政治学]]传统延伸至教育、创新和城市治理领域([[Argument_Moisio_2022_Springer|Moisio, 2022, p.21]])。
 
 ---
 

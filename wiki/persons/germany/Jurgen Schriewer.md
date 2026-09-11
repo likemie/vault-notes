@@ -11,6 +11,9 @@ person_related_count: 8
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
+born: "1942"
+died: ""
+lifespan: "1942–至今"
 tags:
 - jurgen-schriewer
 - comparative-education
@@ -34,12 +37,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-06'
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 ## 简介
 
-> [!info] 简介
-> Jurgen Schriewer 是德国比较教育学者和[[Luhmann's Systems Theory|系统理论]]家，以将 [[Niklas Luhmann]] 的社会系统理论引入比较教育研究而著称。他提出的"[[Externalization|外化]]"（externalization）概念已成为比较教育和政策转移研究的核心分析工具。
+> [!person-profile] 人物档案
+> - **生卒年份** 1942–至今
+> - **身份位置** Jurgen Schriewer 是德国比较教育学者和[[Luhmann's Systems Theory|系统理论]]家，以将 [[Niklas Luhmann]] 的社会系统理论引入比较教育研究而著称。他提出的"[[Externalization|外化]]"（externalization）概念已成为比较教育和政策转移研究的核心分析工具。
 
 ## 生平与职涯
 

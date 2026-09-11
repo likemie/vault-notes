@@ -11,6 +11,9 @@ person_related_count: 6
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
+born: "1954"
+died: ""
+lifespan: "1954–至今"
 tags:
 - person
 - higher-education
@@ -32,14 +35,15 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-11'
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 # Pepka Boyadjieva
 
 ## 简介
 
-> [!info]
-> Pepka Boyadjieva 是保加利亚科学院（Bulgarian Academy of Sciences）哲学与社会学研究所（Institute of Philosophy and Sociology）的研究者。她的研究聚焦于高等教育社会学、高等教育不平等和社会正义，以将[[Capability Approach|可行能力路径]]（capability approach）与新制度主义视角结合发展高等教育的多维使命模型而著称([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, pp.125, 140]])。
+> [!person-profile] 人物档案
+> - **生卒年份** 1954–至今
+> - **身份位置** Pepka Boyadjieva 是保加利亚科学院（Bulgarian Academy of Sciences）哲学与社会学研究所（Institute of Philosophy and Sociology）的研究者。她的研究聚焦于高等教育社会学、高等教育不平等和社会正义，以将[[Capability Approach|可行能力路径]]（capability approach）与新制度主义视角结合发展高等教育的多维使命模型而著称([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, pp.125, 140]])。
 
 ---
 

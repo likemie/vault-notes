@@ -11,6 +11,9 @@ person_related_count: 6
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
+born: "c. 1966"
+died: ""
+lifespan: "c. 1966–至今"
 tags:
 - miyake
 - executive-function
@@ -36,8 +39,9 @@ updated: 2026-09-11
 ---
 ## 简介
 
-> [!info] 简介
-> 认知心理学家，[[Executive Function|执行功能]]（EF）统一性与多样性框架（Unity and Diversity Framework）的提出者。是最早开发出综合性执行功能多维模型的研究者之一([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.4]])。
+> [!person-profile] 人物档案
+> - **生卒年份** c. 1966–至今
+> - **身份位置** 认知心理学家，[[Executive Function|执行功能]]（EF）统一性与多样性框架（Unity and Diversity Framework）的提出者。是最早开发出综合性执行功能多维模型的研究者之一([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.4]])。
 
 ## 核心思想
 

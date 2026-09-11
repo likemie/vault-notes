@@ -12,6 +12,9 @@ person_related_count: 31
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
+born: "1724"
+died: "1804"
+lifespan: "1724–1804"
 tags:
   - region/germany
   - region/western
@@ -64,7 +67,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-22
-updated: 2026-09-06
+updated: 2026-09-11
 ---
 
 # Immanuel Kant
@@ -76,6 +79,7 @@ updated: 2026-09-06
 伊曼努尔·康德（Immanuel Kant, 1724–1804）是德国哲学家，[[Enlightenment|启蒙运动]]的集大成者与德国古典哲学的奠基人。他终身执教于柯尼斯堡大学，以三大批判体系重塑了西方哲学的[[Epistemology|认识论]]、伦理学与美学版图，并在政治哲学、[[Wight's Three Traditions of International Theory|国际关系理论]]与现代教育思想中占据着枢纽性的源头地位。
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1724–1804
 > - **身份位置** 德国哲学家、启蒙时代思想大师、柯尼斯堡大学逻辑与形而上学讲座教授；德国批判哲学与古典唯心论的奠基旗手。
 > - **核心角色** 在西方哲学史上发动认识论的“哥白尼式革命”，提出先天范畴论终结先天论与[[Empiricism|经验论]]的千年论争；确立理性自律的定言律令伦理学；在国际政治理论中开创以世界公民共同体与[[Perpetual Peace|永久和平]]为核心的“[[Revolutionism|革命主义]]（Revolutionism）”传统；在教育哲学中确立“启蒙即勇敢运用理性”与“人只有受教育才能成为人”的现代主体性命题。
 > - **代表贡献** 创立三大批判体系（《纯粹理性批判》《实践理性批判》《判断力批判》）；发表《答复这个问题：什么是启蒙？》（1784）与《论永久和平》（1795）；其启蒙自主性哲学与永久和平蓝图深刻启迪了 19 世纪初现代比较教育始祖[[Marc-Antoine Jullien|马克-安托万·朱利安]]，促成了比较教育学从革命政治暴力向教育预防论与国际和平治理的[[Paradigm|范式]]转向。

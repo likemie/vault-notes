@@ -12,6 +12,9 @@ person_related_count: 37
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
+born: "551 BCE"
+died: "479 BCE"
+lifespan: "551 BCE – 479 BCE"
 tags:
   - region/china
   - field/chinese-philosophy
@@ -65,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-08-25
+updated: 2026-09-11
 ---
 
 # Confucius
@@ -75,6 +78,7 @@ updated: 2026-08-25
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 551 BCE – 479 BCE
 > - **身份位置** 中国春秋时期思想家、教育家，儒家学派创始人，被尊为“万世师表”。
 > - **核心角色** 2,500 年东亚教育传统与社会伦理的奠基节点；在当代国家课程中被党国建构为[[Official Knowledge|官方知识]]的核心代表与[[Soft Power|软实力]]符号，同时作为跨文化[[Policy Borrowing|政策借用]]与边缘反思的符号参照系。
 > - **代表贡献** 创办私学并宣告“有教无类”；建立以[[Self-Cultivation|修身]]、成仁与[[Junzi|君子]]理想为核心的[[Confucian Learning Tradition|儒家学习传统]]；确立以[[Heart and Mind for Wanting to Learn|好學心]]与[[Action Better Than Words|行勝於言]]为驱动的学习[[Paradigm|范式]]。

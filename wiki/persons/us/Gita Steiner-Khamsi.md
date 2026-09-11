@@ -12,6 +12,9 @@ person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
+born: "1956"
+died: ""
+lifespan: "1956–至今"
 tags:
   - subject/comparative-education
   - theme/educational-transfer
@@ -22,7 +25,6 @@ related_concepts:
   - "[[International Education]]"
   - "[[Policy Borrowing]]"
   - "[[Paradigm]]"
-  - "[[Analytic Framework]]"
   - "[[Going Native]]"
   - "[[Structural Holes]]"
   - "[[Comparative History of Comparative Education]]"
@@ -36,6 +38,7 @@ related_theories:
   - "[[World Society Theory]]"
   - "[[Autopoiesis]]"
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Network Analysis]]"
 related_persons:
   - "[[Niklas Luhmann]]"
@@ -50,7 +53,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-06
-updated: 2026-09-05
+updated: 2026-09-11
 ---
 
 # Gita Steiner-Khamsi
@@ -60,6 +63,7 @@ updated: 2026-09-05
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1956–至今
 > - **身份位置** 比较教育与[[International Education|国际教育]]政策研究领军学者，哥伦比亚大学教师学院（Teachers College, Columbia University）教授、日内瓦高等国际关系与发展研究院（Geneva Graduate Institute）教授，[[Comparative Education Society in Europe|欧洲比较教育学会]]（[[Comparative and International Education Society|Comparative Education Society]] in Europe, CESE）资深学者。
 > - **核心角色** 开创[[Policy Borrowing|政策借用]]与借出的政治学分析[[Paradigm|范式]]，将教育转移实证焦点从政策内容转向借用行动者、权力利益与本土合法化机制；同时率先倡导在比较教育史中采用口述史方法抢救未见历史。
 > - **代表贡献** 提出政策借用与借出政治学[[Analytic Framework|分析框架]]；引入[[Niklas Luhmann|卢曼]]系统论外在化理论与社会[[Network Analysis|网络分析]]；在比较教育史学中开创并倡导口述史（Oral History）方法与学科演进概念化。

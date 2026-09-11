@@ -11,6 +11,9 @@ person_related_count: 27
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
+born: "1946"
+died: ""
+lifespan: "1946–至今"
 tags:
 - terry-wrigley
 - evidence-based-education
@@ -54,12 +57,13 @@ related_facts:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 ## 简介
 
-> [!info] 简介
-> Terry Wrigley 是英国诺桑比亚大学（Northumbria University）健康、社区与教育研究学院（School of Health, Community and Education Studies）教育研究者，曾任教于利兹大学和爱丁堡大学。他是**证据本位教学最系统的方法论批判者之一**，以运用[[Critical Realism|批判实在论]]（critical realism）分析 [[Evidence-Based Education|EBE]] 三层方法论缺陷（[[Randomised Controlled Trials|RCT]] → [[Meta-analysis|元分析]] → [[Meta-meta-analysis|元-元分析]]）著称。
+> [!person-profile] 人物档案
+> - **生卒年份** 1946–至今
+> - **身份位置** Terry Wrigley 是英国诺桑比亚大学（Northumbria University）健康、社区与教育研究学院（School of Health, Community and Education Studies）教育研究者，曾任教于利兹大学和爱丁堡大学。他是**证据本位教学最系统的方法论批判者之一**，以运用[[Critical Realism|批判实在论]]（critical realism）分析 [[Evidence-Based Education|EBE]] 三层方法论缺陷（[[Randomised Controlled Trials|RCT]] → [[Meta-analysis|元分析]] → [[Meta-meta-analysis|元-元分析]]）著称。
 
 ## 生平与职涯
 

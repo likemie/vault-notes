@@ -11,6 +11,9 @@ person_related_count: 10
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
+born: "1917"
+died: "2010"
+lifespan: "1917–2010"
 tags:
 - von-glasersfeld
 - paradigm/constructivist
@@ -39,8 +42,9 @@ updated: 2026-09-11
 ---
 ## 简介
 
-> [!info] 简介
-> Ernst von Glasersfeld（1917–2010），德裔美籍哲学家和认知心理学家，[[Radical Constructivism|激进建构主义]]（Radical Constructivism）创始人。他将[[Constructivist Paradigm|建构主义]][[Epistemology|认识论]]从 Piaget 的认知发展理论推向哲学极端，以唯我论（solipsism）为出发点，主张所有知识都是个体主观建构。
+> [!person-profile] 人物档案
+> - **生卒年份** 1917–2010
+> - **身份位置** Ernst von Glasersfeld（1917–2010），德裔美籍哲学家和认知心理学家，[[Radical Constructivism|激进建构主义]]（Radical Constructivism）创始人。他将[[Constructivist Paradigm|建构主义]][[Epistemology|认识论]]从 Piaget 的认知发展理论推向哲学极端，以唯我论（solipsism）为出发点，主张所有知识都是个体主观建构。
 
 ## 生平与职涯
 

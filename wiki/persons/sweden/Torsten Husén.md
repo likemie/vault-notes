@@ -12,6 +12,9 @@ person_related_count: 24
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
+born: "1916"
+died: "2009"
+lifespan: "1916–2009"
 tags:
   - comparative-education
   - educational-research
@@ -30,13 +33,13 @@ related_concepts:
   - "[[Document]]"
   - "[[Lifelong Learning]]"
   - "[[Postpositivism]]"
-  - "[[Analytic Framework]]"
   - "[[Scientism]]"
   - "[[Cultural Disembedding]]"
   - "[[Variable]]"
   - "[[Social Science as Legitimation Alibi]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_instruments: []
 related_persons:
   - "[[C. Arnold Anderson]]"
@@ -51,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-08
-updated: 2026-09-08
+updated: 2026-09-11
 ---
 
 # Torsten Husén
@@ -61,6 +64,7 @@ updated: 2026-09-08
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1916–2009
 > - **身份位置** 瑞典教育学家、心理学家、比较教育学者；斯德哥尔摩大学[[International Education|国际教育]]研究所（IIE）荣誉教授；[[IEA|国际教育成就评价协会]]（IEA）首任主席（1962–1978），国际教育科学院（IAE）首任院长（1986–1998）；《国际教育百科全书》（*The International Encyclopedia of Education*）联合主编。
 > - **核心角色** 在 1960 年代作为实证[[Scientific Paradigm|科学范式]]、跨国心理测量与大规模[[Academic Achievement|学业成就]]测试的核心开拓者与制度奠基人；在 1970–1980 年代因应现实危机，成为揭示战后实证规划承诺破灭、反思学校教育功能与促进[[Comparative Educations|复数比较教育学]]演进的批判性学者。
 > - **代表贡献** 奠基发起 [[IEA]] 并领导首个跨国数学成就比较研究（FIMS）；出版《面临质疑的学校》（*The School in Question*）对战后实证规划与学校制度危机进行历史反思；联合主编《国际教育百科全书》奠定现代教育研究工具体系。

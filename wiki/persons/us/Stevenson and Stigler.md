@@ -15,6 +15,9 @@ person_related_count: 4
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
+born: "1924 / 1954"
+died: "2005 / "
+lifespan: "Harold Stevenson 1924–2005；James Stigler 1954–至今"
 tags: ["region/us", "field/comparative-education", "field/developmental-psychology"]
 related_concepts:
   - "[[Learning Gap]]"
@@ -29,14 +32,15 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-08-20
+updated: 2026-09-11
 ---
 # Stevenson and Stigler
 
 ## 简介
 
-> [!info]
-> Harold Stevenson and James Stigler 是美国比较教育心理学家和发展心理学家。他们在 1980 至 1990 年代开展了跨国比较研究，系统比较了美国、日本、台湾和中国大陆小学生的学习成就及其背后的文化因素，是西方学界最早实证验证东亚学生学习优势的研究者之一([[Argument_Li_2012_Cambridge|Li, 2012, p.69-70]])。
+> [!person-profile] 人物档案
+> - **生卒年份** Harold Stevenson 1924–2005；James Stigler 1954–至今
+> - **身份位置** Harold Stevenson and James Stigler 是美国比较教育心理学家和发展心理学家。他们在 1980 至 1990 年代开展了跨国比较研究，系统比较了美国、日本、台湾和中国大陆小学生的学习成就及其背后的文化因素，是西方学界最早实证验证东亚学生学习优势的研究者之一([[Argument_Li_2012_Cambridge|Li, 2012, p.69-70]])。
 
 ## 主要著作
 

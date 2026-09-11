@@ -11,6 +11,9 @@ person_related_count: 7
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
+born: "1916"
+died: "2004"
+lifespan: "1916–2004"
 tags:
   - region/us
   - field/international-education
@@ -32,7 +35,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-08-17
+updated: 2026-09-11
 ---
 
 # Bob Leach
@@ -42,6 +45,7 @@ updated: 2026-08-17
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1916–2004
 > - **身份位置** 美国贵格会背景的教育者，20 世纪 60 年代初任日内瓦[[International Schools|国际学校]]社会研究部门负责人。
 > - **核心角色** 把校内课程困境组织为跨校教师项目，是 IB 草根发动阶段最明确的倡议者之一。
 > - **历史定位** 可称“早期推动者”，但不宜称为唯一创始人；彼得森在记录其自称“original promoter”时，明确指出项目同时依赖许多人的贡献。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, pp. 17–18)]]

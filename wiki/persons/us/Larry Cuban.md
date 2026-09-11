@@ -11,6 +11,9 @@ person_related_count: 5
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
+born: "1934"
+died: ""
+lifespan: "1934–至今"
 tags:
 - larry-cuban
 - curriculum-change
@@ -31,12 +34,13 @@ related_facts: []
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-07-13
+updated: 2026-09-11
 ---
 ## 简介
 
-> [!info] 简介
-> Larry Cuban 是美国教育史学家和课程理论家，斯坦福大学教育学院荣休教授。他的研究专注于美国教育改革的**历史分析**，特别是学校变革的持久与失败原因。他最著名的理论贡献是识别了课程变革中的三类外部驱动力，以及他对教育技术变革的批判。
+> [!person-profile] 人物档案
+> - **生卒年份** 1934–至今
+> - **身份位置** Larry Cuban 是美国教育史学家和课程理论家，斯坦福大学教育学院荣休教授。他的研究专注于美国教育改革的**历史分析**，特别是学校变革的持久与失败原因。他最著名的理论贡献是识别了课程变革中的三类外部驱动力，以及他对教育技术变革的批判。
 
 ## 核心思想
 

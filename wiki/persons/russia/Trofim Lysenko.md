@@ -9,6 +9,9 @@ person_related_count: 6
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
+born: "1898"
+died: "1976"
+lifespan: "1898–1976"
 tags:
   - field/agricultural-science
   - theme/ideology-and-science
@@ -29,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-12
-updated: 2026-06-12
+updated: 2026-09-11
 ---
 
 # Trofim Lysenko
@@ -37,8 +40,9 @@ updated: 2026-06-12
 ---
 ## 简介
 
-> [!info]
-> Trofim Lysenko（特罗菲姆·李森科，1898–1976）是苏联农学家，以创立和推广以其名字命名的[[Lysenkoism|李森科主义]]（[[Lysenkoism]]）而闻名。他在斯大林的支持下崛起，以马克思主义意识形态正统的名义公开否定孟德尔遗传学，主导苏联生物学和农业科学研究长达数十年。他的学说缺乏科学依据，却因其政治正统性而成为苏联农业科学的官方教条，导致苏联生物科学长期与全球前沿脱节[[Argument_Chan_2015_Intersect|Chi Ling Chan, 2015]]。
+> [!person-profile] 人物档案
+> - **生卒年份** 1898–1976
+> - **身份位置** Trofim Lysenko（特罗菲姆·李森科，1898–1976）是苏联农学家，以创立和推广以其名字命名的[[Lysenkoism|李森科主义]]（[[Lysenkoism]]）而闻名。他在斯大林的支持下崛起，以马克思主义意识形态正统的名义公开否定孟德尔遗传学，主导苏联生物学和农业科学研究长达数十年。他的学说缺乏科学依据，却因其政治正统性而成为苏联农业科学的官方教条，导致苏联生物科学长期与全球前沿脱节[[Argument_Chan_2015_Intersect|Chi Ling Chan, 2015]]。
 
 ---
 ## 生平与职涯

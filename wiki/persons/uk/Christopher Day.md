@@ -11,6 +11,9 @@ person_related_count: 8
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
+born: "1944"
+died: ""
+lifespan: "1944–至今"
 tags:
 - christopher-day
 - region/uk
@@ -18,11 +21,11 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Academic Achievement]]"
   - "[[Paradigm]]"
-  - "[[Analytic Framework]]"
   - "[[Champ]]"
 related_theories: []
 related_methods:
   - "[[Case Study]]"
+  - "[[Analytic Framework]]"
 related_persons: []
 related_arguments:
   - "[[Argument_Møller_2017_EERJ]]"
@@ -31,12 +34,13 @@ related_facts:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 ## 简介
 
-> [!info] 简介
-> Christopher Day，英国教育研究者，ISSPP（International Successful School Principalship Project）项目的创始人和领导者。该项目被 Møller（2017, p.379）称为"可能是迄今为止在西方国家进行的最全面的[[School Leadership|学校领导力]]研究"，涵盖超过 20 个国家。
+> [!person-profile] 人物档案
+> - **生卒年份** 1944–至今
+> - **身份位置** Christopher Day，英国教育研究者，ISSPP（International Successful School Principalship Project）项目的创始人和领导者。该项目被 Møller（2017, p.379）称为"可能是迄今为止在西方国家进行的最全面的[[School Leadership|学校领导力]]研究"，涵盖超过 20 个国家。
 
 ## 核心思想
 

@@ -12,6 +12,9 @@ person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
+born: "1944"
+died: ""
+lifespan: "1944–至今"
 tags:
   - theme/epistemology
   - theme/cognitive-development
@@ -36,7 +39,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-16
-updated: 2026-08-16
+updated: 2026-09-11
 ---
 
 # Deanna Kuhn
@@ -46,6 +49,7 @@ updated: 2026-08-16
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1944–至今
 > - **身份位置** 美国发展心理学家，哥伦比亚大学教育学院（Teachers College, Columbia University）心理学系教授。
 > - **核心角色** 在儿童与成人认知发展、科学推理、[[Critical Thinking|批判性思维]]、论辩（argumentation）以及[[Epistemological Understanding|认识论理解]]（epistemological understanding）领域是核心领军人物。
 > - **代表贡献** 提出了认识论理解发展的三阶段模型（[[Absolutist]]、[[Multiplist]]、[[Evaluativist]]），揭示了[[Epistemological Beliefs|认识论信念]]的[[Domain Specificity|领域特殊性]]及其对批判性思维的基石作用。

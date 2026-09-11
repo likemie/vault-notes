@@ -16,6 +16,9 @@ related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#bfdbfe"
+born: "1944"
+died: ""
+lifespan: "1944–至今"
 tags:
   - person/us
   - theme/creativity
@@ -44,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-11
 ---
 
 # Paul B. Paulus
@@ -54,6 +57,7 @@ updated: 2026-09-03
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1944–至今
 > - **身份位置** 美国实验社会心理学家、得克萨斯大学阿灵顿分校（UT Arlington）心理学系杰出教授、前理学院院长、顶级期刊《Group Dynamics》主要撰稿人。
 > - **核心角色** 全球研究“群体[[Creativity|创造力]]（Group Creativity）”与“[[Brainstorming|头脑风暴]]过程损失及认知增益”的学术泰斗与最高被引学者。
 > - **代表贡献** 阐明口头头脑风暴三大过程损失机制（生产阻塞、评价顾虑、社会惰化）；创立书面脑力激荡（Brainwriting）与电子头脑风暴（EBS）协同刺激[[Paradigm|范式]]；实证确立独立练习先行（$g = 0.682$）的教学干预优势。

@@ -12,6 +12,9 @@ person_related_count: 28
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
+born: "1863"
+died: "1931"
+lifespan: "1863–1931"
 tags:
   - george-herbert-mead
   - symbolic-interactionism
@@ -56,7 +59,7 @@ related_instruments: []
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-09-09
+updated: 2026-09-11
 ---
 
 # George Herbert Mead
@@ -66,6 +69,7 @@ updated: 2026-09-09
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1863–1931
 > - **身份位置** 美国[[Pragmatic Paradigm|实用主义]]哲学家、社会心理学家、社会学家，芝加哥大学教授，美国古典实用主义哲学与社会学芝加哥学派（Chicago School of Sociology）的核心理论支柱。
 > - **核心角色** [[Symbolic Interactionism|符号互动论]]（Symbolic Interactionism）的奠基宗师。米德将古典实用主义哲学与社会行为主义（Social Behaviorism）[[Creativity|创造性]]融合，将微观人际“互动本身”确立为独立的研究单位，系统阐明了心灵、自我与社会在象征符号沟通中浮现的辩证机制，为社会科学[[Interpretive Paradigm|诠释范式]]与现代[[Qualitative Research|质性研究]]传统提供了根本的微观理论支点。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, Ch. 1]]
 > - **代表贡献** 奠定符号互动论理论基础，提出“扮演他人角色”（Taking the Role of the Other）、“主我”（I）与“客我”（Me）辩证结构，以及基于重要符号与姿态[[Dialogue in Education|对话]]的社会自我发生理论。

@@ -11,6 +11,9 @@ person_related_count: 7
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
+born: "c. 1988"
+died: ""
+lifespan: "c. 1988–至今"
 tags:
 - chen-xie
 - xie-chen
@@ -33,12 +36,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 ## 简介
 
-> [!info] 简介
-> 谢晨（Chen Xie），华东师范大学国际与比较教育研究所（Institute of International and Comparative Education, East China Normal University）研究员。研究方向为[[Evidence-Based Education|证据本位教育]]改革、教育技术与数学[[Academic Achievement|学业成就]]的比较研究([[Argument_Cheung_2021_ROE|Cheung & Xie, 2021, p.1]])。
+> [!person-profile] 人物档案
+> - **生卒年份** c. 1988–至今
+> - **身份位置** 谢晨（Chen Xie），华东师范大学国际与比较教育研究所（Institute of International and Comparative Education, East China Normal University）研究员。研究方向为[[Evidence-Based Education|证据本位教育]]改革、教育技术与数学[[Academic Achievement|学业成就]]的比较研究([[Argument_Cheung_2021_ROE|Cheung & Xie, 2021, p.1]])。
 
 ## 核心思想
 

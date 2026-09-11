@@ -11,6 +11,9 @@ person_related_count: 7
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
+born: "1895"
+died: "1990"
+lifespan: "1895–1990"
 tags:
   - region/china
   - region/hong-kong
@@ -33,7 +36,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-26'
-updated: '2026-07-22'
+updated: 2026-09-11
 ---
 
 # Qian Mu
@@ -43,6 +46,7 @@ updated: '2026-07-22'
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1895–1990
 > - **身份位置** 中国现代历史学家、思想家、新亚书院创办人，海外文化保守主义史学代表人物。
 > - **核心角色** 1940 年代末移居香港后，通过学术著作与教育出版，奠定了香港殖民时期及回归后中国历史课程的族裔文化型国家叙事基调，是连接前现代中国史学与港台文化认同建构的核心节点。
 > - **代表贡献** 创办新亚书院传承传统国学；著作《国史大纲》建立以汉族与儒家伦理为核心的中国文化观；其学术门生网络深度主导了香港中史课程编写[[Argument_Xu_2024_CE|(Xu, 2024, pp. 577–578)]]。

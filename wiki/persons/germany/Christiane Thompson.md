@@ -11,6 +11,9 @@ person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
+born: "c. 1974"
+died: ""
+lifespan: "c. 1974–至今"
 tags:
 - christiane-thompson
 - subjectification
@@ -25,11 +28,11 @@ related_concepts:
   - "[[Online Self-Assessment]]"
   - "[[Digital Self]]"
   - "[[Digital Optimum]]"
-  - "[[Analytic Framework]]"
   - "[[Geopolitics of Knowledge]]"
 related_theories:
   - "[[Governmentality]]"
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons:
   - "[[Marcelo Parreira do Amaral]]"
   - "[[Gita Steiner-Khamsi]]"
@@ -39,13 +42,13 @@ related_facts: []
 confidence: low
 status: draft
 created: '2026-05-07'
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 ## 简介
 
-> [!info]
-
-Christiane Thompson 是德国法兰克福歌德大学（Goethe University Frankfurt/Main）教育科学系教授。她的研究聚焦于高等教育中的主体化（subjectification）过程、数字化与学习文化、以及高等教育的治理技术。
+> [!person-profile] 人物档案
+> - **生卒年份** c. 1974–至今
+> - **身份位置** Christiane Thompson 是德国法兰克福歌德大学（Goethe University Frankfurt/Main）教育科学系教授。她的研究聚焦于高等教育中的主体化（subjectification）过程、数字化与学习文化、以及高等教育的治理技术。
 
 ## 生平与职涯
 

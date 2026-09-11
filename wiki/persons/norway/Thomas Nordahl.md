@@ -12,6 +12,9 @@ person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
+born: "1958"
+died: ""
+lifespan: "1958–至今"
 tags:
 - thomas-nordahl
 - visible-learning
@@ -40,12 +43,13 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-21'
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 ## 简介
 
-> [!info] 简介
-> Thomas Nordahl 是挪威教育学者，任 SePU、Høgskolen i Hedmark 教授([[Argument_Nordahl_2015_Paideia|Nordahl, 2015, p.61]])。在当前 vault 已处理到的 `Paideia` [[Visible Learning|可见的学习]]（Visible Learning，VL）主题号中，他代表一条清晰的 [[Visible Learning]] 支持路径：不把VL理解成干预排行榜，而把它[[Transfer Translation Transformation|转译]]成围绕学习结果、研究证据、教师判断和学校改进能力展开的系统性论述（[[Argument_Nordahl_2015_Paideia]]；[[Argument_Hansen_2015_Paideia]]）。
+> [!person-profile] 人物档案
+> - **生卒年份** 1958–至今
+> - **身份位置** Thomas Nordahl 是挪威教育学者，任 SePU、Høgskolen i Hedmark 教授([[Argument_Nordahl_2015_Paideia|Nordahl, 2015, p.61]])。在当前 vault 已处理到的 `Paideia` [[Visible Learning|可见的学习]]（Visible Learning，VL）主题号中，他代表一条清晰的 [[Visible Learning]] 支持路径：不把VL理解成干预排行榜，而把它[[Transfer Translation Transformation|转译]]成围绕学习结果、研究证据、教师判断和学校改进能力展开的系统性论述（[[Argument_Nordahl_2015_Paideia]]；[[Argument_Hansen_2015_Paideia]]）。
 
 ## 核心思想
 

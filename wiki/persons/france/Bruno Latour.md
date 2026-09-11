@@ -11,6 +11,9 @@ person_related_count: 4
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
+born: "1947"
+died: "2022"
+lifespan: "1947–2022"
 tags:
   - region/france
   - theory/social-theory
@@ -28,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-07
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 # Bruno Latour
 
@@ -36,8 +39,9 @@ updated: '2026-06-08'
 
 ## 简介
 
-> [!info] 简介
-> Bruno Latour (1947–2022) 是法国社会学家和哲学家，[[Actor-Network Theory|行动者网络理论]]的创始人之一。他与 Woolgar (1979) 合著的《实验室生活》（Laboratory Life）奠定了 ANT 的基础。Latour 的工作旨在克服社会理论的二元论，提出了一种[[Posthumanism|后人类主义]]的社会观([[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]])。
+> [!person-profile] 人物档案
+> - **生卒年份** 1947–2022
+> - **身份位置** Bruno Latour (1947–2022) 是法国社会学家和哲学家，[[Actor-Network Theory|行动者网络理论]]的创始人之一。他与 Woolgar (1979) 合著的《实验室生活》（Laboratory Life）奠定了 ANT 的基础。Latour 的工作旨在克服社会理论的二元论，提出了一种[[Posthumanism|后人类主义]]的社会观([[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]])。
 
 ---
 

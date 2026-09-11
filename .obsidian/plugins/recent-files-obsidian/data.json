@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Chen Kuan-Hsing",
+      "path": "wiki/persons/taiwan/Chen Kuan-Hsing.md"
+    },
+    {
       "basename": "Curriculum Design Coherence Model",
       "path": "wiki/theories/curriculum/Curriculum Design Coherence Model.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Literature Review",
       "path": "wiki/concepts/research-methodology/Literature Review.md"
-    },
-    {
-      "basename": "Integration in Mixed Methods",
-      "path": "wiki/concepts/research-methodology/Integration in Mixed Methods.md"
     }
   ],
   "omittedPaths": [],

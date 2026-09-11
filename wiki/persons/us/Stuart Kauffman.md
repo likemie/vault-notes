@@ -13,6 +13,9 @@ person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
+born: "1939"
+died: ""
+lifespan: "1939–至今"
 tags:
   - person/theorist
   - field/complexity-theory
@@ -42,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-09-09
+updated: 2026-09-11
 ---
 
 # Stuart Kauffman
@@ -52,6 +55,7 @@ updated: 2026-09-09
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1939–至今
 > - **身份位置** 美国理论生物学家、复杂[[Luhmann's Systems Theory|系统理论]]先驱、圣塔菲研究所（Santa Fe Institute）常驻学者与外聘教授、麦克阿瑟天才奖得主。
 > - **核心角色** 在理论生物学与复杂科学交叉领域创立自组织与[[Emergence|涌现]]的核心数学与概念模型，为[[Complexity Theory|复杂性理论]]（Complexity Theory）打破还原论与线性因果控制提供了科学哲学基石。
 > - **代表贡献** 提出复杂适应系统核心公理“秩序是免费的，它取代了控制”（order comes for free and replaces control; Kauffman, 1995）；开创 NK 适应度景观模型（NK fitness landscape）与“相邻可能”（adjacent possible）理论；为教育复杂性与组织自组织变革奠定[[Ontology|本体论]]基础。

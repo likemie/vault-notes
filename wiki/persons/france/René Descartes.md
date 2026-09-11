@@ -11,6 +11,9 @@ person_related_count: 17
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
+born: "1596"
+died: "1650"
+lifespan: "1596–1650"
 tags:
   - region/france
   - region/western
@@ -47,7 +50,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-07-11
+updated: 2026-09-11
 ---
 
 # René Descartes
@@ -57,6 +60,7 @@ updated: 2026-07-11
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1596–1650
 > - **身份位置** 法国哲学家、数学家和自然科学家（1596–1650），常被称为近代哲学之父，[[Rationalism in International Relations|理性主义]]传统的奠基人
 > - **核心角色** 以彻底的怀疑为起点，以我思故我在（*Cogito, ergo sum*）为第一确定性，构建了心物二元论的[[Epistemology|认识论]]和形而上学体系，标志着西方哲学从经院传统向现代主体性哲学的决定性转向。在数学上发明了解析几何（笛卡尔坐标系），直接影响了微积分的创立
 > - **代表贡献** [[Epistemology|认识论]]的重新奠基（cogito）、心物二元论、解析几何、先天观念论在[[Socrates|苏格拉底]]—[[Plato|柏拉图]]传统中的顶峰式复兴

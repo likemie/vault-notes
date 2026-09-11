@@ -11,6 +11,9 @@ person_related_count: 29
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
+born: "1990"
+died: ""
+lifespan: "1990–至今"
 tags:
   - yajun-zheng
   - higher-education
@@ -23,7 +26,6 @@ related_concepts:
   - "[[Academic and Social Integration]]"
   - "[[Cultural Capital]]"
   - "[[Habitus]]"
-  - "[[Analytic Framework]]"
   - "[[Champ]]"
   - "[[Academic Engagement]]"
   - "[[Social Engagement]]"
@@ -42,6 +44,7 @@ related_theories:
 related_methods:
   - "[[Qualitative Research]]"
   - "[[In-depth Interview]]"
+  - "[[Analytic Framework]]"
   - "[[Constructivist Grounded Theory]]"
   - "[[Theoretical Sampling]]"
 related_persons:
@@ -54,7 +57,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-08
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 # Yajun Zheng
 
@@ -62,8 +65,9 @@ updated: '2026-06-08'
 
 ## 简介
 
-> [!info]
-> 郑雅君，中国高等教育研究者，研究方向为高等教育社会学、教育公平与大学生发展。毕业于复旦大学高等教育研究所，师从熊庆年教授。其主要学术贡献在于对中国精英大学中大学生毕业出路分化的阶层机制进行了系统的[[Qualitative Research|质性研究]]，原创性地提出了"[[Goal-Controlled Mode|目标掌控模式]]"与"[[Intuition-Dependent Mode|直觉依赖模式]]"两种大学生活组织图式的类型学框架([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
+> [!person-profile] 人物档案
+> - **生卒年份** 1990–至今
+> - **身份位置** 郑雅君，中国高等教育研究者，研究方向为高等教育社会学、教育公平与大学生发展。毕业于复旦大学高等教育研究所，师从熊庆年教授。其主要学术贡献在于对中国精英大学中大学生毕业出路分化的阶层机制进行了系统的[[Qualitative Research|质性研究]]，原创性地提出了"[[Goal-Controlled Mode|目标掌控模式]]"与"[[Intuition-Dependent Mode|直觉依赖模式]]"两种大学生活组织图式的类型学框架([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
 
 ---
 

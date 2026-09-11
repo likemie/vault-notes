@@ -11,6 +11,9 @@ person_related_count: 10
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
+born: "1960"
+died: ""
+lifespan: "1960–至今"
 tags:
   - helen-gunter
   - region/uk
@@ -33,12 +36,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-02
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 ## 简介
 
-> [!info] 简介
-> Helen Gunter，英国教育研究者，以对教育领导力的批判性政策分析和知识政治研究著称。她主张教育领导力研究需要认识到"教育领导力是一个政治议题，其中关于成功学校的竞争性版本正在展开争夺"([[Argument_Møller_2017_EERJ|Møller, 2017, p.379]])，以及"教育领域是多元人群和利益的集合体，社会科学学科知识是资源机会而非既定方法论的集合"([[Argument_Møller_2017_EERJ|Møller, 2017, p.382]])。
+> [!person-profile] 人物档案
+> - **生卒年份** 1960–至今
+> - **身份位置** Helen Gunter，英国教育研究者，以对教育领导力的批判性政策分析和知识政治研究著称。她主张教育领导力研究需要认识到"教育领导力是一个政治议题，其中关于成功学校的竞争性版本正在展开争夺"([[Argument_Møller_2017_EERJ|Møller, 2017, p.379]])，以及"教育领域是多元人群和利益的集合体，社会科学学科知识是资源机会而非既定方法论的集合"([[Argument_Møller_2017_EERJ|Møller, 2017, p.382]])。
 
 ## 核心思想
 

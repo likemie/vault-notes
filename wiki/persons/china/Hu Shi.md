@@ -13,6 +13,9 @@ person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
+born: "1891"
+died: "1962"
+lifespan: "1891–1962"
 tags:
   - region/china
   - theme/progressive-education
@@ -43,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-08-20
+updated: 2026-09-11
 ---
 
 # Hu Shi
@@ -53,6 +56,7 @@ updated: 2026-08-20
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1891–1962
 > - **身份位置** 中国现代著名哲学家、文学家、学者、外交官，[[New Culture Movement|新文化运动]]与[[May Fourth Movement|五四运动]]的领袖之一，哥伦比亚大学毕业，师从[[John Dewey|杜威]]。（[[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009, pp.72–73]]）
 > - **核心角色** [[John Dewey|杜威]]思想在中国的主要中介人与首席翻译者，将西方[[Pragmatic Paradigm|实用主义]][[Transfer Translation Transformation|转译]]为“[[Pragmatism in China|实验主义]]”并作为打倒传统迷信的思想武器。
 > - **代表贡献** 发起白话文运动与“整理国故”；提出“大胆[[Hypothesis|假设]]，小心求证”的方法论原则；将[[Scientific Method|科学方法]]与中国古典考据学相连结。（[[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009, p.72]]）

@@ -11,6 +11,9 @@ person_related_count: 8
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
+born: "1950"
+died: ""
+lifespan: "1950–至今"
 tags:
   - region/china
   - discipline/sociology
@@ -19,11 +22,11 @@ related_concepts:
   - "[[Depoliticalization of Ethnic Policy]]"
   - "[[Second-generation Ethnic Policy]]"
   - "[[Zhonghua Minzu]]"
-  - "[[Analytic Framework]]"
   - "[[Paradigm]]"
 related_theories: []
 related_methods:
   - "[[Ethnography]]"
+  - "[[Analytic Framework]]"
 related_persons:
   - "[[Fei Xiaotong]]"
 related_facts: []
@@ -32,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-26
-updated: 2026-06-26
+updated: 2026-09-11
 ---
 
 # Ma Rong
@@ -42,6 +45,7 @@ updated: 2026-06-26
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1950–至今
 > - **身份位置** 中国社会学家，北京大学社会学系教授、博士生导师，曾任北京大学社会学[[Ethnography|人类学研究]]所所长。
 > - **核心角色** 中国当代民族关系社会学研究的重镇。他于 2004 年提出“[[Depoliticalization of Ethnic Policy|民族政策去政治化]]”的学术主张，成为推动国家民族区域自治制度转型、转向单一国族一体化的关键学术代言人。([[Argument_Bulag_2024_CE|Bulag, 2024, pp. 101–103]])
 > - **代表贡献** 提出“[[Depoliticalization of Ethnic Policy|民族政策去政治化]]”与“族群化”概念。

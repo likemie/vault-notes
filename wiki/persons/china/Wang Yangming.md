@@ -14,6 +14,9 @@ person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
+born: "1472"
+died: "1529"
+lifespan: "1472–1529"
 tags:
 - region/china
 - field/chinese-philosophy
@@ -41,14 +44,15 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-08-20
+updated: 2026-09-11
 ---
 # Wang Yangming
 
 ## 简介
 
-> [!info]
-> 王阳明（Wang Yangming, 1472–1529），明代思想家，心学代表人物。在对[[Neo-Confucianism|程朱理学]]主导地位提出挑战的同时，仍坚守儒家学习的根本目的——"学以[[Self-Cultivation|修身]]"([[Argument_Li_2012_Cambridge|Li, 2012, p.44]])。
+> [!person-profile] 人物档案
+> - **生卒年份** 1472–1529
+> - **身份位置** 王阳明（Wang Yangming, 1472–1529），明代思想家，心学代表人物。在对[[Neo-Confucianism|程朱理学]]主导地位提出挑战的同时，仍坚守儒家学习的根本目的——"学以[[Self-Cultivation|修身]]"([[Argument_Li_2012_Cambridge|Li, 2012, p.44]])。
 
 其学说的独特之处在于：将学习的动力从外在的天理转向内在的良知，将[[Self-Cultivation|修身]]的途径从学术积累转向实践中的知行合一，从而将原本高远的[[Sage|圣人]]目标向普通人——包括底层百姓——开放([[Argument_Li_2012_Cambridge|Li, 2012, p.44]])。
 

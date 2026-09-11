@@ -11,6 +11,9 @@ person_related_count: 5
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
+born: "1933"
+died: ""
+lifespan: "1933–至今"
 tags:
 - pascual-leone
 - paradigm/constructivist
@@ -29,12 +32,13 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-04'
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 ## 简介
 
-> [!info] 简介
-> 首位将信息加工理论与[[Piaget's Theory of Cognitive Development|皮亚杰认知发展理论]]整合的[[Neo-Piagetian Theories|新皮亚杰理论]]家（1970 年），提出心智能力（Mental Power / M-power）概念([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.3]])。
+> [!person-profile] 人物档案
+> - **生卒年份** 1933–至今
+> - **身份位置** 首位将信息加工理论与[[Piaget's Theory of Cognitive Development|皮亚杰认知发展理论]]整合的[[Neo-Piagetian Theories|新皮亚杰理论]]家（1970 年），提出心智能力（Mental Power / M-power）概念([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.3]])。
 
 ## 核心思想
 

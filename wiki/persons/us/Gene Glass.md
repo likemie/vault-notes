@@ -11,6 +11,9 @@ person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
+born: "1940"
+died: ""
+lifespan: "1940–至今"
 tags:
   - gene-glass
   - meta-analysis
@@ -39,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-06-08'
-updated: '2026-06-19'
+updated: 2026-09-11
 ---
 
 # Gene Glass
@@ -49,6 +52,7 @@ updated: '2026-06-19'
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1940–至今
 > - **身份位置** 美国教育心理学家与统计学家，曾任科罗拉多大学博尔德分校（University of Colorado Boulder）教育学院教授。
 > - **核心角色**[[Meta-analysis|元分析]]（Meta-analysis）方法的奠基人，在社会科学与医学[[Quantitative Research|定量研究]]综合网络中承担核心方法论建构者的节点角色。
 > - **代表贡献** 创造 [[Meta-analysis|元分析]] 术语、将 [[Effect Size|效应量]] 作为跨研究比较的通用尺度、推动 [[Meta-meta-analysis|元-元分析]] 与循证工具包的发展。

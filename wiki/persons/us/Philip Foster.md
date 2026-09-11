@@ -12,6 +12,9 @@ person_related_count: 16
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
+born: "1927"
+died: "2008"
+lifespan: "1927–2008"
 tags:
   - scholar/comparative-education
   - theme/comparative-methodology
@@ -20,12 +23,12 @@ tags:
   - region/us
 related_concepts:
   - "[[Positivism]]"
-  - "[[Questionnaire]]"
   - "[[Paradigm]]"
   - "[[Scientific Paradigm]]"
   - "[[Variable]]"
 related_theories: []
 related_methods:
+  - "[[Questionnaire]]"
   - "[[Stratified Sampling]]"
   - "[[Historical-Comparative Method]]"
 related_instruments: []
@@ -44,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-07
-updated: 2026-09-08
+updated: 2026-09-11
 ---
 
 # Philip Foster
@@ -54,6 +57,7 @@ updated: 2026-09-08
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1927–2008
 > - **身份位置** 英裔美籍比较教育学家、教育社会学家，芝加哥大学教育与社会学系教授兼比较教育研究中心（[[Comparative Education Center at Chicago 1958|Comparative Education Center]]）副主任，后任纽约州立大学奥尔巴尼分校杰出教授；曾任美国[[Comparative and International Education Society|比较与国际教育学会]]（CIES）主席（1979–1980 年）。
 > - **核心角色** 战后美国比较教育“科学化与社会学转向”的先锋领袖，以经验社会学与[[Positivism|实证主义]]方法论对战前欧洲“历史-文化学派”发起猛烈清算；同时是国际发展教育学界“职业学校谬误”理论的提出者。
 > - **代表贡献** 在 1960 年经典论文中指责历史学只处理特定时空不可重复的个殊现象（*unique phenomena*），断言比较教育必须转型为探求重复模式与通则规律的经验社会科学；1965 年发表《发展规划中的职业学校谬误》，重塑了全球对发展中国家技术与职业教育规划的经济理性认知。

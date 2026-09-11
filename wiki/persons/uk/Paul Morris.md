@@ -11,6 +11,9 @@ person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
+born: "1951"
+died: ""
+lifespan: "1951–至今"
 tags:
 - paul-morris
 - curriculum-change
@@ -25,9 +28,9 @@ related_concepts:
   - "[[Rationalism in International Relations]]"
   - "[[International Schools]]"
   - "[[IB Diploma Programme]]"
-  - "[[Analytic Framework]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons: []
 related_arguments:
   - "[[Argument_Yan_2025_JCS]]"
@@ -40,12 +43,13 @@ related_facts:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-07-13
+updated: 2026-09-11
 ---
 ## 简介
 
-> [!info] 简介
-> Paul Morris 是伦敦大学学院（UCL）教育与社会学院（Institute of Education, Department of Education, Practice and Society）的教授。他长期从事比较教育和课程研究，特别专注于香港教育政策、课程变革和公民教育的政治分析。他是以批判视角分析香港后殖民教育政治的最多产学者之一。
+> [!person-profile] 人物档案
+> - **生卒年份** 1951–至今
+> - **身份位置** Paul Morris 是伦敦大学学院（UCL）教育与社会学院（Institute of Education, Department of Education, Practice and Society）的教授。他长期从事比较教育和课程研究，特别专注于香港教育政策、课程变革和公民教育的政治分析。他是以批判视角分析香港后殖民教育政治的最多产学者之一。
 
 ## 核心思想
 

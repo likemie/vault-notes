@@ -12,6 +12,9 @@ person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
+born: "1927"
+died: ""
+lifespan: "1927–至今"
 tags:
   - person/academic
   - critical-thinking
@@ -49,12 +52,13 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1927–至今
 > - **身份位置** 美国教育哲学家、逻辑学家，伊利诺伊大学厄巴纳-香槟分校（UIUC）教育政策与组织领导系荣休教授，美国[[Critical Thinking|批判性思维]]运动的核心奠基人之一。
 > - **核心角色** 在当代教育哲学与批判性思维领域承担了“概念规范化、测量工具开发与课程架构设计”的枢纽角色。
-> - **代表贡献** 
->   1. 确立了被学界最广泛采纳的经典定义：“[[Critical Thinking|批判性思维]]是专注于决定相信什么或做什么的合理的、[[Reflective Thinking|反思性思维]]”（Ennis, 1987）；
->   2. 编制了全球通行的标准化评估工具（[[Cornell Critical Thinking Test|康奈尔批判性思维测验]] Cornell Critical Thinking Tests 与 [[Ennis-Weir Critical Thinking Essay Test|Ennis-Weir]] 论证论文测验）；
->   3. 提出了 Ennis 批判性思维课程模式四分法（通用、融入、沉浸、混合）。
+> - **代表贡献**
+> 1. 确立了被学界最广泛采纳的经典定义：“[[Critical Thinking|批判性思维]]是专注于决定相信什么或做什么的合理的、[[Reflective Thinking|反思性思维]]”（Ennis, 1987）；
+> 2. 编制了全球通行的标准化评估工具（[[Cornell Critical Thinking Test|康奈尔批判性思维测验]] Cornell Critical Thinking Tests 与 [[Ennis-Weir Critical Thinking Essay Test|Ennis-Weir]] 论证论文测验）；
+> 3. 提出了 Ennis 批判性思维课程模式四分法（通用、融入、沉浸、混合）。
 
 > [!citation-card]- 批判性思维经典定义
 > 批判性思维是合理的、[[Reflexivity|反思性]]的思维，其核心聚焦于决定我们应当相信什么或做什么。[[Argument_Abrami_2015_RER|(Abrami et al., 2015, p. 278)]]

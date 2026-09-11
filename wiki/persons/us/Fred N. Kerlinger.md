@@ -13,6 +13,9 @@ person_related_count: 5
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
+born: "1910"
+died: "1991"
+lifespan: "1910–1991"
 tags:
   - discipline/psychology
   - discipline/education
@@ -32,14 +35,15 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 # Fred N. Kerlinger
 
 ## 简介
 
-> [!info]
-> Fred N. Kerlinger（1910–1991），美国教育心理学家和[[Quantitative Research|量化研究]]方法论学者。他以研究方法的教科书和学术贡献著称，尤其以其对量化研究中理论一词的经典定义影响深远。[[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, p.53)]] 认为 Kerlinger (1979) 的定义至今仍然有效。
+> [!person-profile] 人物档案
+> - **生卒年份** 1910–1991
+> - **身份位置** Fred N. Kerlinger（1910–1991），美国教育心理学家和[[Quantitative Research|量化研究]]方法论学者。他以研究方法的教科书和学术贡献著称，尤其以其对量化研究中理论一词的经典定义影响深远。[[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, p.53)]] 认为 Kerlinger (1979) 的定义至今仍然有效。
 
 ## 主要著作
 

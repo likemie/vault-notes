@@ -12,6 +12,9 @@ person_related_count: 8
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
+born: "1888"
+died: "1939"
+lifespan: "1888–1939"
 tags:
   - field/progressive-education
   - field/correctional-education
@@ -38,14 +41,15 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 # Anton Makarenko
 
 ## 简介
 
-> [!info]
-> 安东·马卡连柯（Anton Semyonovich Makarenko, 1888-1939）是苏联教育家、社会工作者和作家，主要以战后孤儿、流浪儿童和少年违法者的教育实践闻名。他在高尔基工学团（Gorky Colony）和捷尔任斯基劳动公社（Dzerzhinsky labour commune）中发展出以**儿童集体、自我管理、劳动生产和严格要求中的尊重**为核心的教育方法（Filonov, 1994; Halvorsen, 2014）。
+> [!person-profile] 人物档案
+> - **生卒年份** 1888–1939
+> - **身份位置** 安东·马卡连柯（Anton Semyonovich Makarenko, 1888-1939）是苏联教育家、社会工作者和作家，主要以战后孤儿、流浪儿童和少年违法者的教育实践闻名。他在高尔基工学团（Gorky Colony）和捷尔任斯基劳动公社（Dzerzhinsky labour commune）中发展出以**儿童集体、自我管理、劳动生产和严格要求中的尊重**为核心的教育方法（Filonov, 1994; Halvorsen, 2014）。
 
 > [!abstract] 阅读抓手
 > 马卡连柯的教育思想不能只读作"纪律教育"或"劳动教育"。更准确地说，他把处境不利儿童的再社会化理解为一种集体生活的重建：儿童不是被动接受改造，而是在有组织的共同劳动、共同责任和集体荣誉中重新获得社会身份。

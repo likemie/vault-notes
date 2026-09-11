@@ -11,6 +11,9 @@ person_related_count: 10
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
+born: "1770"
+died: "1831"
+lifespan: "1770–1831"
 tags:
   - person/philosopher
 related_concepts:
@@ -33,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-12
-updated: 2026-08-12
+updated: 2026-09-11
 ---
 
 # Georg Wilhelm Friedrich Hegel
@@ -43,6 +46,7 @@ updated: 2026-08-12
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1770–1831
 > - **身份位置** 18–19世纪德国哲学家，德国古典唯心主义的集大成者。
 > - **核心角色** 在当代批判性教育学和比较课程研究中，黑格尔的思想（尤其是其关于“[[Bildung|教化]]”和“国家”的理论）经常被确立为被批判的“主流传统[[Paradigm|范式]]”。他代表了一种目的论的、以“理性”剥夺个体情感、强调服从普遍秩序的教育模式。
 > - **代表贡献** 黑格尔式教化（Hegelian Bildung）、辩证否定（Aufheben）。

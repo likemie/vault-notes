@@ -11,6 +11,9 @@ person_related_count: 6
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
+born: "1945"
+died: ""
+lifespan: "1945–至今"
 tags:
   - region/uk
   - region/south-africa
@@ -31,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-07
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 # Johan Muller
 
@@ -39,8 +42,9 @@ updated: '2026-06-08'
 
 ## 简介
 
-> [!info] 简介
-> Johan Muller 是南非裔英国教育社会学家，[[Social Realism|社会实在论]]的核心学者之一。他的工作源自涂尔干传统，由 Moore (2007, 2013)、Muller (2009, 2022) 和 Young (2008) 等学者发展([[Argument_McPhail_2023_JCS|McPhail et al., 2023]])。Muller and Young 共同提出了[[Powerful Knowledge|有力知识]]概念，并将[[Curriculum Design Coherence Model|课程设计连贯性模型]]描述为「从社会实在论首要原则推导出的演绎模型」（Muller, 2022, p.11, 引自）。
+> [!person-profile] 人物档案
+> - **生卒年份** 1945–至今
+> - **身份位置** Johan Muller 是南非裔英国教育社会学家，[[Social Realism|社会实在论]]的核心学者之一。他的工作源自涂尔干传统，由 Moore (2007, 2013)、Muller (2009, 2022) 和 Young (2008) 等学者发展([[Argument_McPhail_2023_JCS|McPhail et al., 2023]])。Muller and Young 共同提出了[[Powerful Knowledge|有力知识]]概念，并将[[Curriculum Design Coherence Model|课程设计连贯性模型]]描述为「从社会实在论首要原则推导出的演绎模型」（Muller, 2022, p.11, 引自）。
 
 ---
 

@@ -11,6 +11,9 @@ person_related_count: 3
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
+born: "1943"
+died: "2020"
+lifespan: "1943–2020"
 tags:
 - fischer
 - paradigm/constructivist
@@ -27,12 +30,13 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-04'
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 ## 简介
 
-> [!info] 简介
-> [[Neo-Piagetian Theories|新皮亚杰理论]]家，提出技能理论（Skill Theory），考察学习发生的环境如何影响认知发展的实际水平和最优技能水平([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.3]])。
+> [!person-profile] 人物档案
+> - **生卒年份** 1943–2020
+> - **身份位置** [[Neo-Piagetian Theories|新皮亚杰理论]]家，提出技能理论（Skill Theory），考察学习发生的环境如何影响认知发展的实际水平和最优技能水平([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.3]])。
 
 ## 核心思想
 

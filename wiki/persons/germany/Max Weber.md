@@ -11,6 +11,9 @@ person_related_count: 25
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
+born: "1864"
+died: "1920"
+lifespan: "1864–1920"
 tags:
   - max-weber
   - classical-sociology
@@ -24,7 +27,6 @@ related_concepts:
   - "[[Causality]]"
   - "[[Document]]"
   - "[[Rationalism in International Relations]]"
-  - "[[Analytic Framework]]"
   - "[[Determinism]]"
   - "[[Unit of Analysis]]"
   - "[[Corporate Education]]"
@@ -37,7 +39,8 @@ related_theories:
   - "[[Institutional Isomorphism]]"
   - "[[Culture as Toolkit]]"
   - "[[Tullock's Bureaucracy Theory]]"
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_instruments: []
 related_persons:
   - "[[Pierre Bourdieu]]"
@@ -51,7 +54,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-08
-updated: 2026-09-08
+updated: 2026-09-11
 ---
 # Max Weber
 
@@ -60,6 +63,7 @@ updated: 2026-09-08
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1864–1920
 > - **身份位置** 马克斯·韦伯（Max Weber，1864–1920），德国社会学家、国民经济学家与法学家，古典社会学三大奠基人之一（与卡尔·马克思、埃米尔·涂尔干并列），理解社会学（Verstehende Soziologie）与现代社会行动理论开创者。
 > - **核心角色** 在现代社会科学[[Epistemology|认识论]]中确立价值关联、[[Value Neutrality|价值中立]]与理想类型方法，提出理性化、官僚制与世界祛魅命题；为教育研究中的行动意涵、组织同构合法性与生涯价值信念分析提供核心理论[[Paradigm|范式]]。
 > - **代表贡献** 奠定诠释社会学认识论、创立社会行动与合法支配的理想类型、提出宗教伦理与资本主义精神的[[Selective Affinity|选择性亲和]]机制。

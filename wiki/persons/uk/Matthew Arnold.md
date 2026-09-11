@@ -11,6 +11,9 @@ person_related_count: 19
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
+born: "1822"
+died: "1888"
+lifespan: "1822–1888"
 tags:
   - person/uk
   - comparative-education
@@ -46,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-07
-updated: 2026-09-07
+updated: 2026-09-11
 ---
 
 # Matthew Arnold
@@ -56,6 +59,7 @@ updated: 2026-09-07
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1822–1888
 > - **身份位置** 英国维多利亚时代皇家学校督学（HMI, 1851–1886）、牛津大学诗歌教授（1857–1867）、文化批评家与教育思想家。
 > - **核心角色** 比较教育学“历史-哲学-文化与自由人文主义母题”的关键先驱，[[Michael Sadler|萨德勒]]（Michael Sadler）思想的直接引路人；推动跨国教育研究从浅层行政借用转向深层文化与政治制度解释。
 > - **代表贡献** 提出国家作为“全民族代表性行动力量”承担公民文化[[Bildung|教化]]的政治哲学原理，奠定公立中等教育合法性；开启以法国图卢兹公学和普鲁士文理中学为实证案例的跨国中等教育制度比较研究；奠基西方现代人文主义全人培育理论（[[Bildung]] / *Culture*）以抵御自由放任市侩主义。

@@ -12,6 +12,9 @@ person_related_count: 47
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
+born: "1859"
+died: "1952"
+lifespan: "1859–1952"
 tags:
   - field/educational-philosophy
   - field/progressive-education
@@ -74,7 +77,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-07-25
+updated: 2026-09-11
 ---
 
 # John Dewey
@@ -84,6 +87,7 @@ updated: 2026-07-25
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1859–1952
 > - **身份位置** 美国哲学家、心理学家、教育改革家与公共知识分子；[[Pragmatic Paradigm|实用主义]]、功能心理学与[[Progressive Education|进步教育]]核心代表人物；曾任芝加哥大学系主任、哥伦比亚大学哲学与教育学教授。
 > - **核心角色** 在教育哲学、[[Empiricism|经验论]]、探究理论与跨国教育转移网络中担任关键奠基节点；提出“[[Growth|教育即生长]]（Education is Growth）”、“学校即社会”与“民主作为联合生活方式”的解释框架，深刻重构了现代教育与公共生活关系。
 > - **代表贡献** 奠定[[Progressive Education|进步教育]]与[[Pragmatic Paradigm|实用主义]]教育[[Paradigm|范式]]；提出基于“做”（doing）的探究与以[[Growth|生长]]为终极标准的[[Active Learning|主动学习]]论；推动1919–1921年中国[[New Education Movement|新教育运动]]及美苏跨国教育传播与[[Recontextualization|再脉络化]]（[[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009]]；[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024]]；[[Argument_Darwish_2009_Queens|Darwish, 2009]]）。

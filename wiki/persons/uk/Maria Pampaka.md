@@ -11,6 +11,9 @@ person_related_count: 5
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
+born: "c. 1978"
+died: ""
+lifespan: "c. 1978–至今"
 tags:
 - maria-pampaka
 - region/uk
@@ -28,12 +31,13 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-02'
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 ## 简介
 
-> [!info] 简介
-> 曼彻斯特大学（University of Manchester）教育研究者，研究方向为教育研究方法论、学习结果测量（包括态度、倾向和抱负等非成就性指标）、"什么有效"议程的批判性评估。
+> [!person-profile] 人物档案
+> - **生卒年份** c. 1978–至今
+> - **身份位置** 曼彻斯特大学（University of Manchester）教育研究者，研究方向为教育研究方法论、学习结果测量（包括态度、倾向和抱负等非成就性指标）、"什么有效"议程的批判性评估。
 
 ## 核心思想
 

@@ -12,6 +12,9 @@ person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
+born: "1859"
+died: "1938"
+lifespan: "1859–1938"
 tags:
   - person/philosopher
   - person/phenomenologist
@@ -47,7 +50,7 @@ related_instruments: []
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-09-09
+updated: 2026-09-11
 ---
 
 # Edmund Husserl
@@ -57,6 +60,7 @@ updated: 2026-09-09
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1859–1938
 > - **身份位置** 奥地利-德国哲学家、数学家，先验[[Phenomenology|现象学]]（Transcendental Phenomenology）奠基人，先后执教于哈勒大学、哥廷根大学和弗莱堡大学。
 > - **核心角色** 作为欧陆现象学传统的开山鼻祖，胡塞尔探究科学认识基础的源头，质疑日常生活中未经审视与理所当然的常识假定，将“体验着的主体”（Experiencing Subject）和“日常生活世界”（Lifeworld）置于[[Epistemology|认识论]]与[[Ontology|本体论]]的核心。其开创的[[Epoché|悬置]]（epoché）与现象学还原方法深刻重塑了20世纪哲学体系，不仅开启了存在主义、解释学与现象学社会学传统，还为教育研究中的[[Interpretive Paradigm|诠释范式]]与跨学科课程设计提供了根本的认识论反思资源。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, Ch. 1]]; [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 2–3]]
 > - **代表贡献** 确立“回到事物本身”的现象学原则，提出[[Epoché|悬置]]方法与还原后的先验意识三要素，开创以生活世界为源头的主体间性哲学。

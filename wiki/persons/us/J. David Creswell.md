@@ -12,6 +12,9 @@ person_related_count: 4
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
+born: "1977"
+died: ""
+lifespan: "1977–至今"
 tags:
   - psychology
   - stress-resilience
@@ -31,14 +34,15 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-05-30
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 # J. David Creswell
 
 ## 简介
 
-> [!info]
-> J. David Creswell，美国心理学家，卡内基梅隆大学 William S. Dietrich II 心理学教授，健康与人类表现实验室（Health and Human Performance Laboratory）主任。研究方向以量化方法为主，聚焦于理解压力下人类心理韧性的机制。已发表 75 篇以上同行评审论文，与父亲 [[John W. Creswell]] 合著 Research Design 教材第六版。
+> [!person-profile] 人物档案
+> - **生卒年份** 1977–至今
+> - **身份位置** J. David Creswell，美国心理学家，卡内基梅隆大学 William S. Dietrich II 心理学教授，健康与人类表现实验室（Health and Human Performance Laboratory）主任。研究方向以量化方法为主，聚焦于理解压力下人类心理韧性的机制。已发表 75 篇以上同行评审论文，与父亲 [[John W. Creswell]] 合著 Research Design 教材第六版。
 
 ## 生平与职涯
 

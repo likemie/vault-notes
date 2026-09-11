@@ -12,6 +12,9 @@ person_related_count: 109
 person_related_level: 6
 person_related_stars: "⭐⭐⭐⭐⭐⭐"
 person_related_color: "#fef3c7"
+born: "1950"
+died: ""
+lifespan: "1950–至今"
 tags:
 - john-hattie
 - evidence-based-education
@@ -56,9 +59,6 @@ related_concepts:
   - "[[Conflict of Interest in Research]]"
   - "[[Didaktik]]"
   - "[[Bildung]]"
-  - "[[Sample Size Determination]]"
-  - "[[Confidence Interval]]"
-  - "[[Analytic Framework]]"
   - "[[Language Experience Approach]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Cargo Cult Science]]"
@@ -85,7 +85,10 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Comparative Meta-synthesis]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Sample Size Determination]]"
+  - "[[Confidence Interval]]"
   - "[[Standard Error]]"
+  - "[[Analytic Framework]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Systematic Review]]"
 related_persons:
@@ -136,17 +139,13 @@ related_facts:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 ## 简介
 
-> [!info] 简介
-> John Hattie 是新西兰教育统计学家，现任墨尔本大学教育研究所（Melbourne Graduate School of Education）教授。他以 2009 年出版的 *[[Visible Learning]]: A synthesis of over 800 meta-analyses relating to achievement* 闻名全球，该书将 800 余项[[Meta-analysis|元分析]]综合为一份教学干预[[Effect Size|效应量]]排名，成为全球教育畅销书。Hattie 自我定位为"我是测量人员，我是统计学家，我不是理论家"([[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017, p.254, 259]])。英国教育部在 Coldwell et al.（2017）报告中将 Hattie 的 Visible Learning 列为官方认可的"approved"证据来源之一（与 [[Education Endowment Foundation|EEF]] 和 Sutton Trust 并列）([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.4]])。
->
-> Visible Learning 已在至少 23 个国家被采用([[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017]])，Hattie 本人也因此成为教育界的国际名人，被澳大利亚广播公司电视系列片 *Revolution School*（2017）描绘为公共教育的拯救者([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.32]])。Hattie 同时担任澳大利亚教学与[[School Leadership|学校领导力]]研究院（[[Australian Institute for Teaching and School Leadership|AITSL]]）主席，其工作已深度嵌入澳大利亚教师和校长的国家专业标准、年度绩效评估和持续认证体系([[Argument_Eacott_2017_SLM|Eacott, 2017, p.421]])。
->
-> Hattie 的职业生涯横跨多个领域：多年从事教学和教师的实证研究、诊断、评估和反馈([[Argument_Terhart_2011_JCS|Terhart, 2011, p.426]])。他与 Timperley（2007）合作发表了关于反馈效应的高影响力元分析。Visible Learning 实验室（奥克兰大学）提供付费的教师[[Further Education|继续教育]]和培训项目，包括对学生的持续测试和结果反馈。他是新西兰政府的重要顾问，但"作为科学家和政治顾问，他在新西兰相当有争议"。
->
+> [!person-profile] 人物档案
+> - **生卒年份** 1950–至今
+> - **身份位置** John Hattie 是新西兰教育统计学家，现任墨尔本大学教育研究所（Melbourne Graduate School of Education）教授。他以 2009 年出版的 *[[Visible Learning]]: A synthesis of over 800 meta-analyses relating to achievement* 闻名全球，该书将 800 余项[[Meta-analysis|元分析]]综合为一份教学干预[[Effect Size|效应量]]排名，成为全球教育畅销书。Hattie 自我定位为"我是测量人员，我是统计学家，我不是理论家"([[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017, p.254, 259]])。英国教育部在 Coldwell et al.（2017）报告中将 Hattie 的 Visible Learning 列为官方认可的"approved"证据来源之一（与 [[Education Endowment Foundation|EEF]] 和 Sutton Trust 并列）([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.4]])。 Visible Learning 已在至少 23 个国家被采用([[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017]])，Hattie 本人也因此成为教育界的国际名人，被澳大利亚广播公司电视系列片 *Revolution School*（2017）描绘为公共教育的拯救者([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.32]])。Hattie 同时担任澳大利亚教学与[[School Leadership|学校领导力]]研究院（[[Australian Institute for Teaching and School Leadership|AITSL]]）主席，其工作已深度嵌入澳大利亚教师和校长的国家专业标准、年度绩效评估和持续认证体系([[Argument_Eacott_2017_SLM|Eacott, 2017, p.421]])。 Hattie 的职业生涯横跨多个领域：多年从事教学和教师的实证研究、诊断、评估和反馈([[Argument_Terhart_2011_JCS|Terhart, 2011, p.426]])。他与 Timperley（2007）合作发表了关于反馈效应的高影响力元分析。Visible Learning 实验室（奥克兰大学）提供付费的教师[[Further Education|继续教育]]和培训项目，包括对学生的持续测试和结果反馈。他是新西兰政府的重要顾问，但"作为科学家和政治顾问，他在新西兰相当有争议"。
 
 ---
 

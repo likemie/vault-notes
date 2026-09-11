@@ -12,6 +12,9 @@ person_related_count: 26
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
+born: "1934"
+died: "2021"
+lifespan: "1934–2021"
 tags:
   - person/researcher
   - field/sociology-of-education
@@ -53,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-09-09
+updated: 2026-09-11
 ---
 
 # Peter Woods
@@ -63,6 +66,7 @@ updated: 2026-09-09
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1934–2021
 > - **身份位置** 英国教育社会学家，英国开放大学（The Open University）教育学院荣休教授，英国微观教育[[Ethnography|民族志]]与教育[[Symbolic Interactionism|符号互动论]]的开拓者与领军学者。
 > - **核心角色** 在当代教育社会学中确立微观符号互动论分析[[Paradigm|范式]]，打破宏观结构功能主义对学校生活的黑箱化遮蔽，将民族志[[Rich and Thick Description|深描]]引入师生日常互动、生存策略与亚文化协商的研究。
 > - **代表贡献** 提炼教育研究中符号互动论的三大核心公设（Woods, 1979）；开创学校师生微观生存策略经典民族志深描（《分化的学校》*The Divided School*, 1979；《学校社会学》*Sociology and the School*, 1983）；确立以“互动本身作为基本研究单位”的质性方法论纲领。

@@ -12,6 +12,9 @@ person_related_count: 25
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
+born: "1813"
+died: "1855"
+lifespan: "1813–1855"
 tags:
   - person/philosopher
   - person/existentialist
@@ -53,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-09-09
+updated: 2026-09-11
 ---
 
 # Søren Kierkegaard
@@ -63,6 +66,7 @@ updated: 2026-09-09
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1813–1855
 > - **身份位置** 丹麦哲学家、神学家、思想家，19世纪欧陆反[[Georg Wilhelm Friedrich Hegel|黑格尔]][[Rationalism in International Relations|理性主义]]体系的核心代表，被公认为存在主义（Existentialism）哲学的先驱与奠基人。
 > - **核心角色** 在探究哲学与方法论批判网络中，承担着从生存论维度解构[[Positivism|实证主义]]“客观性神话”的关键节点功能；提出“主观性即真理”，为反思[[Scientism|科学主义]]与量化霸权提供了坚实的[[Ontology|本体论]]与[[Epistemology|认识论]]防线。
 > - **代表贡献** 提出个体生存的不可概念化命题；反思客观性幻觉并倡导恢复“主观性的能力”；揭示大众群众心态与[[Technical Rationality|技术理性]]导致的个体去人化危机。

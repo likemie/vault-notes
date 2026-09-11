@@ -11,6 +11,9 @@ person_related_count: 9
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
+born: "1927"
+died: "2020"
+lifespan: "1927–2020"
 tags:
 - ken-goodman
 - whole-language
@@ -21,11 +24,11 @@ related_concepts:
   - "[[Whole Language]]"
   - "[[Decodification]]"
   - "[[Hypothesis]]"
-  - "[[Pre-test and Post-test]]"
   - "[[Paradigm]]"
   - "[[Visible Learning]]"
 related_theories: []
 related_methods:
+  - "[[Pre-test and Post-test]]"
   - "[[Effect Size]]"
   - "[[Meta-analysis]]"
 related_persons: []
@@ -35,12 +38,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-03'
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 ## 简介
 
-> [!info] 简介
-> Ken Goodman 是美国教育研究者，[[Whole Language|全语言]]（Whole Language）运动的最具影响力的创始人。他的 1967 年里程碑文章 *Reading: A Psycholinguistic Guessing Game*（阅读：一个心理语言学的猜测游戏）发表于 *Journal of the Reading Specialist*，为 1970 年代全语言运动的兴起奠定了理论基础([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.143]])。
+> [!person-profile] 人物档案
+> - **生卒年份** 1927–2020
+> - **身份位置** Ken Goodman 是美国教育研究者，[[Whole Language|全语言]]（Whole Language）运动的最具影响力的创始人。他的 1967 年里程碑文章 *Reading: A Psycholinguistic Guessing Game*（阅读：一个心理语言学的猜测游戏）发表于 *Journal of the Reading Specialist*，为 1970 年代全语言运动的兴起奠定了理论基础([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.143]])。
 
 ## 核心思想
 

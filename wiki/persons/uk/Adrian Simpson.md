@@ -11,6 +11,9 @@ person_related_count: 24
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
+born: "c. 1968"
+died: ""
+lifespan: "c. 1968–至今"
 tags:
 - adrian-simpson
 - effect-size
@@ -24,7 +27,6 @@ related_concepts:
   - "[[Critique of Effect Size]]"
   - "[[Epistemology]]"
   - "[[Visible Learning]]"
-  - "[[Sample Size Determination]]"
   - "[[Hypothesis]]"
   - "[[Metacognition]]"
   - "[[Document]]"
@@ -35,6 +37,7 @@ related_theories: []
 related_methods:
   - "[[Effect Size]]"
   - "[[Meta-analysis]]"
+  - "[[Sample Size Determination]]"
   - "[[Multiple-Choice Questions]]"
   - "[[Meta-meta-analysis]]"
 related_persons: []
@@ -52,14 +55,13 @@ related_facts:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 ## 简介
 
-> [!info] 简介
-> Adrian Simpson 是英国杜伦大学（Durham University）数学教育教授、Josephine Butler College 院长。他的研究兴趣横跨数学教育（推理与证明、中学到大学的过渡）和教育研究方法论（人们如何使用证据），但以对[[Effect Size|效应量]]概念在[[Evidence-Based Education|证据本位教育]]中应用的**系统技术批判**而获得最广泛的学术影响([[Argument_Simpson_2017_JEP|Simpson, 2017, p.15]]; [[Argument_Simpson_2019_ERE|Simpson, 2019, p.109]])。
->
-> > "Adrian Simpson is Professor of Mathematics Education and the Principal of Josephine Butler College, one of the constituent colleges of Durham University. His research interests include reasoning and proof, the transition from school to university and how people make use of evidence."
+> [!person-profile] 人物档案
+> - **生卒年份** c. 1968–至今
+> - **身份位置** Adrian Simpson 是英国杜伦大学（Durham University）数学教育教授、Josephine Butler College 院长。他的研究兴趣横跨数学教育（推理与证明、中学到大学的过渡）和教育研究方法论（人们如何使用证据），但以对[[Effect Size|效应量]]概念在[[Evidence-Based Education|证据本位教育]]中应用的**系统技术批判**而获得最广泛的学术影响([[Argument_Simpson_2017_JEP|Simpson, 2017, p.15]]; [[Argument_Simpson_2019_ERE|Simpson, 2019, p.109]])。 > "Adrian Simpson is Professor of Mathematics Education and the Principal of Josephine Butler College, one of the constituent colleges of Durham University. His research interests include reasoning and proof, the transition from school to university and how people make use of evidence."
 
 ## 生平与职涯
 

@@ -11,6 +11,9 @@ person_related_count: 7
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
+born: "1926"
+died: "1991"
+lifespan: "1926–1991"
 tags:
   - discipline/sociology
   - field/methodology
@@ -32,14 +35,15 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 # Herbert Blalock
 
 ## 简介
 
-> [!info]
-> Herbert Blalock（1926–1991），美国社会学家和计量方法论学者，华盛顿大学教授，曾任美国社会学协会主席。Blalock 是社会科学中[[Causal Modeling|因果建模]]和量化方法论发展的关键人物，以倡导将口头理论转化为形式化的因果模型而著称，对量化社会研究中的理论陈述方式产生了深远影响。
+> [!person-profile] 人物档案
+> - **生卒年份** 1926–1991
+> - **身份位置** Herbert Blalock（1926–1991），美国社会学家和计量方法论学者，华盛顿大学教授，曾任美国社会学协会主席。Blalock 是社会科学中[[Causal Modeling|因果建模]]和量化方法论发展的关键人物，以倡导将口头理论转化为形式化的因果模型而著称，对量化社会研究中的理论陈述方式产生了深远影响。
 
 ## 主要著作
 

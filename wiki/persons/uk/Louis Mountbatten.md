@@ -12,6 +12,9 @@ person_related_count: 8
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
+born: "1900"
+died: "1979"
+lifespan: "1900–1979"
 tags:
   - region/uk
   - theme/international-education
@@ -32,7 +35,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-09-01
+updated: 2026-09-11
 ---
 
 # Louis Mountbatten
@@ -42,6 +45,7 @@ updated: 2026-09-01
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1900–1979
 > - **身份位置** 英国海军将领和公共人物，第二次世界大战后参与大西洋学院与[[United World Colleges|联合世界书院]]（United World Colleges，UWC）的发展。
 > - **核心角色** 1968 年接掌扩展工作，以个人政治网络、国际理事会、国际公司、国际办公室和国家委员会，把一所书院周围的松散支持转化为国际运动。
 > - **代表贡献** 推动 UWC 国际化；形成扩展治理结构；在新加坡和沃特福德案例中扩大成员定义，使运动不再只接受大西洋学院的完整复制。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 104–125)]]

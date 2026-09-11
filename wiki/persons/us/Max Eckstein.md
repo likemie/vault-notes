@@ -13,6 +13,9 @@ person_related_count: 43
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
+born: "1926"
+died: "2022"
+lifespan: "1926–2022"
 tags:
   - subject/comparative-education
   - theme/scientific-paradigm
@@ -70,7 +73,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-05
-updated: 2026-09-08
+updated: 2026-09-11
 ---
 
 # Max Eckstein
@@ -80,6 +83,7 @@ updated: 2026-09-08
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1926–2022
 > - **身份位置** 美籍德裔/英裔比较教育学家，纽约城市大学皇后学院（Queens College, City University of New York, CUNY）教育学教授，[[Comparative and International Education Society|比较与国际教育学会]]（CIES）前会长（1988–1989）。
 > - **核心角色** 20 世纪下半叶推动比较教育[[Positivism|实证主义]]与社会科学化运动的核心奠基人之一；与[[Harold Noah|哈罗德·诺亚]]（Harold Noah）保持长达三十余年的紧密学术合作，构建了实证科学[[Paradigm|范式]]的操作框架。
 > - **代表贡献** 共同开创假说检验型跨国比较研究路径；合著《走向比较教育科学》（1969）为学科提供了高水准的起源叙事与实证规程；领衔[[International Education|国际教育]]成就评价协会（[[IEA]]）项目研究与中等教育评价比较。

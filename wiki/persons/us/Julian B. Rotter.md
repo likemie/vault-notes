@@ -12,6 +12,9 @@ person_related_count: 7
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
+born: "1916"
+died: "2014"
+lifespan: "1916–2014"
 tags:
   - discipline/psychology
   - field/clinical-psychology
@@ -33,14 +36,15 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 # Julian B. Rotter
 
 ## 简介
 
-> [!info]
-> Julian B. Rotter（1916–2014），美国心理学家，康涅狄格大学荣休教授。Rotter 是[[Social Learning Theory|社会学习理论]]的主要奠基人之一，以提出[[Locus of Control|控制点]]（locus of control）[[Construct|构念]]和一般行为期望公式而闻名。他的工作构成了 Bandura 社会认知理论和 Weiner [[Attribution Theory|归因理论]]的重要前置基础。
+> [!person-profile] 人物档案
+> - **生卒年份** 1916–2014
+> - **身份位置** Julian B. Rotter（1916–2014），美国心理学家，康涅狄格大学荣休教授。Rotter 是[[Social Learning Theory|社会学习理论]]的主要奠基人之一，以提出[[Locus of Control|控制点]]（locus of control）[[Construct|构念]]和一般行为期望公式而闻名。他的工作构成了 Bandura 社会认知理论和 Weiner [[Attribution Theory|归因理论]]的重要前置基础。
 
 ## 主要著作
 

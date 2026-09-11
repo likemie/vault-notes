@@ -11,6 +11,9 @@ person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
+born: "c. 1975"
+died: ""
+lifespan: "c. 1975–至今"
 tags:
 - region/canada
 - field/educational-philosophy
@@ -37,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-25
-updated: 2026-07-25
+updated: 2026-09-11
 ---
 
 # Bob Darwish
@@ -47,6 +50,7 @@ updated: 2026-07-25
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** c. 1975–至今
 > - **身份位置** 加拿大教育学者，皇后大学（Queen's University）教育学硕士（2009）。
 > - **核心角色** 提出将[[Active Learning|主动学习]]界定为由[[Critical Thinking|批判性思维]]、[[Dialogue in Education|对话]]与以实践为衡量的[[Growth|成长]]构成的三环节模型，并以此系统审查 IB [[Theory of Knowledge|TOK]] 课程体系。
 > - **代表贡献** 硕士学位论文 *Education as a Political Act: Dewey, Freire and the ([[International Baccalaureate]]) Theory of Knowledge Curriculum* (2009)。

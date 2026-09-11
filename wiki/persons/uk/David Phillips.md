@@ -11,6 +11,9 @@ person_related_count: 9
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
+born: "1945"
+died: ""
+lifespan: "1945–至今"
 tags:
 - david-phillips
 - comparative-education
@@ -19,12 +22,12 @@ tags:
 related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Cross-National Attraction]]"
-  - "[[Analytic Framework]]"
   - "[[Abstract]]"
   - "[[Going Native]]"
   - "[[Concept Mapping]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons:
   - "[[Kimberly Ochs]]"
 related_facts:
@@ -34,12 +37,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-06'
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 ## 简介
 
-> [!info] 简介
-> David Phillips 是牛津大学比较教育学教授，教育政策转移（educational policy transfer）研究领域的核心人物。他与 [[Kimberly Ochs]] 合作开发的[[Policy Borrowing|政策借用]]四阶段模型（Four Stages of Policy Borrowing）和[[Cross-National Attraction|跨国吸引]]力结构性类型学（Structural Typology of Cross-National Attraction）是该领域最具影响力的[[Analytic Framework|分析框架]]之一。
+> [!person-profile] 人物档案
+> - **生卒年份** 1945–至今
+> - **身份位置** David Phillips 是牛津大学比较教育学教授，教育政策转移（educational policy transfer）研究领域的核心人物。他与 [[Kimberly Ochs]] 合作开发的[[Policy Borrowing|政策借用]]四阶段模型（Four Stages of Policy Borrowing）和[[Cross-National Attraction|跨国吸引]]力结构性类型学（Structural Typology of Cross-National Attraction）是该领域最具影响力的[[Analytic Framework|分析框架]]之一。
 
 ## 生平与职涯
 

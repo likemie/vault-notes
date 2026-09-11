@@ -12,6 +12,9 @@ person_related_count: 5
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
+born: "c. 369 BCE"
+died: "286 BCE"
+lifespan: "c. 369 BCE – 286 BCE"
 tags: ["region/china", "theory/taoism", "field/chinese-philosophy"]
 related_concepts:
   - "[[Refined Mastery]]"
@@ -27,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 # Zhuangzi
 
@@ -35,8 +38,9 @@ updated: '2026-06-08'
 
 ## 简介
 
-> [!info]
-> 庄子（约369-286 BCE），名周，战国时期道家思想家，与[[Mencius|孟子]]同时代。其著作《庄子》以丰富的寓言和生动的故事阐发道家哲学思想，对后世东亚文化中的学习观和技艺观产生了深远影响([[Argument_Li_2012_Cambridge|Li, 2012, p.134]])。
+> [!person-profile] 人物档案
+> - **生卒年份** c. 369 BCE – 286 BCE
+> - **身份位置** 庄子（约369-286 BCE），名周，战国时期道家思想家，与[[Mencius|孟子]]同时代。其著作《庄子》以丰富的寓言和生动的故事阐发道家哲学思想，对后世东亚文化中的学习观和技艺观产生了深远影响([[Argument_Li_2012_Cambridge|Li, 2012, p.134]])。
 
 ## 核心思想
 

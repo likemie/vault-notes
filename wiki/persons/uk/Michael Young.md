@@ -13,6 +13,9 @@ person_related_count: 6
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
+born: "1937"
+died: ""
+lifespan: "1937–至今"
 tags:
   - region/uk
   - theme/sociology-of-education
@@ -32,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-07
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 # Michael Young
 
@@ -40,8 +43,9 @@ updated: '2026-06-08'
 
 ## 简介
 
-> [!info] 简介
-> Michael Young 是英国教育社会学家，[[Social Realism|社会实在论]]的核心学者之一。他的工作源自涂尔干传统，由 Moore (2007, 2013)、Muller (2009, 2022) 和 Young (2008) 等学者发展([[Argument_McPhail_2023_JCS|McPhail et al., 2023]])。Young and Muller 共同提出了[[Powerful Knowledge|有力知识]]概念，强调学科知识对年轻人认知和社会发展的独特价值。
+> [!person-profile] 人物档案
+> - **生卒年份** 1937–至今
+> - **身份位置** Michael Young 是英国教育社会学家，[[Social Realism|社会实在论]]的核心学者之一。他的工作源自涂尔干传统，由 Moore (2007, 2013)、Muller (2009, 2022) 和 Young (2008) 等学者发展([[Argument_McPhail_2023_JCS|McPhail et al., 2023]])。Young and Muller 共同提出了[[Powerful Knowledge|有力知识]]概念，强调学科知识对年轻人认知和社会发展的独特价值。
 
 ---
 

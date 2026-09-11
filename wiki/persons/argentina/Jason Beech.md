@@ -11,6 +11,9 @@ person_related_count: 17
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
+born: "c. 1972"
+died: ""
+lifespan: "c. 1972–至今"
 tags:
   - region/argentina
   - theme/comparative-education
@@ -22,14 +25,14 @@ related_concepts:
   - "[[Global Policy Space]]"
   - "[[Space of Flows and Space of Places]]"
   - "[[Floating Signifier]]"
-  - "[[Analytic Framework]]"
   - "[[Recontextualization]]"
   - "[[Educated Identity]]"
   - "[[International Education]]"
 related_theories:
   - "[[Actor-Network Theory]]"
   - "[[Network Society]]"
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons:
   - "[[Marc-Antoine Jullien]]"
   - "[[Alejandro Artopoulos]]"
@@ -41,7 +44,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-07
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 # Jason Beech
 
@@ -49,8 +52,9 @@ updated: '2026-06-08'
 
 ## 简介
 
-> [!info] 简介
-> Jason Beech 是阿根廷圣安德烈斯大学（Universidad de San Andrés）教育学者，研究教育话语的跨空间流通、[[Policy Borrowing|政策借用]]与比较教育方法论。他与 Artopoulos (2015) 合著的论文批评了比较教育中转移、全球化、政策借用等既有词汇的局限，提出使用[[Relational Space|关系性空间]]概念和[[Actor-Network Theory|行动者网络理论]]来分析教育话语的跨空间流通。
+> [!person-profile] 人物档案
+> - **生卒年份** c. 1972–至今
+> - **身份位置** Jason Beech 是阿根廷圣安德烈斯大学（Universidad de San Andrés）教育学者，研究教育话语的跨空间流通、[[Policy Borrowing|政策借用]]与比较教育方法论。他与 Artopoulos (2015) 合著的论文批评了比较教育中转移、全球化、政策借用等既有词汇的局限，提出使用[[Relational Space|关系性空间]]概念和[[Actor-Network Theory|行动者网络理论]]来分析教育话语的跨空间流通。
 
 ---
 

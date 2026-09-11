@@ -11,6 +11,9 @@ person_related_count: 43
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
+born: "1927"
+died: "2020"
+lifespan: "1927–2020"
 tags:
   - subject/comparative-education
   - theme/history-of-education
@@ -79,6 +82,7 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1927–2020
 > - **身份位置** 希腊裔比较教育历史学家，威斯康星大学麦迪逊分校教授，[[Comparative Education Society in Europe|欧洲比较教育学会]]（[[Comparative and International Education Society|Comparative Education Society]] in Europe, CESE）荣誉会员，古典希腊人文主义教育哲学代表学者。
 > - **核心角色** 坚守历史与人文主义取向，倡导渐进主义-现代主义-[[Educational Meliorism|改良主义]]-普罗米修斯式比较教育，是比较教育求同存异传统的核心代表学者。
 > - **代表贡献** 与 [[Robert Cowen|罗伯特·考恩]]（Robert Cowen）联合主编《比较教育学国际手册》（*International Handbook of Comparative Education*, 2009）；在历史诠释学中确立每一代人必须重写其历史的经典治学原则；奠定比较教育学科创建与再造板块的历史学基石。

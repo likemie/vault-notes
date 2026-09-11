@@ -11,6 +11,9 @@ person_related_count: 4
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
+born: "1953"
+died: ""
+lifespan: "1953–至今"
 tags:
 - didier-eribon
 - sociology
@@ -29,13 +32,13 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-09'
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 ## 简介
 
-> [!info] 简介
-> Didier Eribon（迪迪埃·埃里蓬），法国社会学家和哲学家，以其自传体社会学著作《回归故里》（*Retour à Reims*, 2009；中译本 2020，王献译，上海文化出版社）著称。[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]在第六章的建议部分援引其思想，用以说明寒门学子在实现阶层跨越后与原生文化和解的重要性。
->
+> [!person-profile] 人物档案
+> - **生卒年份** 1953–至今
+> - **身份位置** Didier Eribon（迪迪埃·埃里蓬），法国社会学家和哲学家，以其自传体社会学著作《回归故里》（*Retour à Reims*, 2009；中译本 2020，王献译，上海文化出版社）著称。[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]在第六章的建议部分援引其思想，用以说明寒门学子在实现阶层跨越后与原生文化和解的重要性。
 
 ## 核心思想
 

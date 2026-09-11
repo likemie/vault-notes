@@ -12,6 +12,9 @@ person_related_count: 6
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
+born: "1916"
+died: "2001"
+lifespan: "1916–2001"
 tags:
 - simon
 - bounded-rationality
@@ -33,12 +36,13 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-03'
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 ## 简介
 
-> [!info] 简介
-> Herbert A. Simon（1916–2001）是美国政治科学家、经济学家和认知心理学家，卡内基梅隆大学教授，1978 年诺贝尔经济学奖获得者。他以[[Bounded Rationality|有限理性]]（Bounded Rationality）理论和《人工科学》（*The Sciences of the Artificial*）著称。
+> [!person-profile] 人物档案
+> - **生卒年份** 1916–2001
+> - **身份位置** Herbert A. Simon（1916–2001）是美国政治科学家、经济学家和认知心理学家，卡内基梅隆大学教授，1978 年诺贝尔经济学奖获得者。他以[[Bounded Rationality|有限理性]]（Bounded Rationality）理论和《人工科学》（*The Sciences of the Artificial*）著称。
 
 ## 生平与职涯
 

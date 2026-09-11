@@ -12,6 +12,9 @@ person_related_count: 47
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
+born: "1930"
+died: "2002"
+lifespan: "1930–2002"
 tags:
   - pierre-bourdieu
   - sociology
@@ -73,7 +76,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-05-02
-updated: 2026-07-13
+updated: 2026-09-11
 ---
 
 # Pierre Bourdieu
@@ -83,6 +86,7 @@ updated: 2026-07-13
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1930–2002
 > - **身份位置** 法国社会学家、人类学家、法兰西学院教授。20 世纪后半叶最具影响力的社会理论家之一。
 > - **核心角色** 创立了以[[Habitus|习性]]、[[Champ|场域]]和资本为支点的关系性实践社会学，将教育系统去神圣化，深刻揭示了学校在阶级再生产、符号暴力和阶层分化中的核心中介作用。
 > - **代表贡献** 创立了习性（Habitus）、场域（Field）以及[[Cultural Capital|文化资本]]（Cultural Capital）等概念工具。

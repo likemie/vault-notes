@@ -12,6 +12,9 @@ person_related_count: 9
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
+born: "c. 310 BCE"
+died: "238 BCE"
+lifespan: "c. 310 BCE – 238 BCE"
 tags: ["region/china", "theory/confucianism", "field/chinese-philosophy"]
 related_concepts:
   - "[[Four Sprouts]]"
@@ -31,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 # Xunzi
 
@@ -39,8 +42,9 @@ updated: '2026-06-08'
 
 ## 简介
 
-> [!info]
-> 荀子（约325-235 BCE），名况，战国末期儒家思想家。他与[[Confucius|孔子]]、[[Mencius|孟子]]并列为早期儒家的三位代表人物([[Argument_Li_2012_Cambridge|Li, 2012, p.17]])。荀子以"性恶论"著称，与孟子的"性善论"形成鲜明对比，为[[Confucian Learning Tradition|儒家学习传统]]提供了另一种人性论基础。
+> [!person-profile] 人物档案
+> - **生卒年份** c. 310 BCE – 238 BCE
+> - **身份位置** 荀子（约325-235 BCE），名况，战国末期儒家思想家。他与[[Confucius|孔子]]、[[Mencius|孟子]]并列为早期儒家的三位代表人物([[Argument_Li_2012_Cambridge|Li, 2012, p.17]])。荀子以"性恶论"著称，与孟子的"性善论"形成鲜明对比，为[[Confucian Learning Tradition|儒家学习传统]]提供了另一种人性论基础。
 
 ## 核心思想
 

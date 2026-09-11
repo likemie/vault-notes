@@ -12,6 +12,9 @@ person_related_count: 2
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
+born: "1871"
+died: "1963"
+lifespan: "1871–1963"
 tags:
   - field/religious-education
   - theme/us-soviet-relations
@@ -28,15 +31,16 @@ related_arguments:
 confidence: low
 status: draft
 created: 2026-05-26
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 # Sherwood Eddy
 
 
 ## 简介
 
-> [!info]
-> 宣夏德（Sherwood Eddy），美国著名新教传教士（prominent Protestant missionary）和教育者，活跃于 20 世纪早期。1931 年出版 The Challenge of Russia（Farrar & Rinehart），系统论证美国应正式承认苏联。他在该书的教育与文化章节中大量依赖 [[John Dewey]] 1928 年访苏的观察来描述苏联教育状况，将苏联教育称为当今地球上最有趣的实验([[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, pp.107–108]])。
+> [!person-profile] 人物档案
+> - **生卒年份** 1871–1963
+> - **身份位置** 宣夏德（Sherwood Eddy），美国著名新教传教士（prominent Protestant missionary）和教育者，活跃于 20 世纪早期。1931 年出版 The Challenge of Russia（Farrar & Rinehart），系统论证美国应正式承认苏联。他在该书的教育与文化章节中大量依赖 [[John Dewey]] 1928 年访苏的观察来描述苏联教育状况，将苏联教育称为当今地球上最有趣的实验([[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, pp.107–108]])。
 
 ## 生平与职涯
 

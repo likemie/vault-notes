@@ -12,6 +12,9 @@ person_related_count: 10
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
+born: "1890"
+died: "1947"
+lifespan: "1890–1947"
 tags:
   - person/founder
   - social-psychology
@@ -45,6 +48,7 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1890–1947
 > - **身份位置** 德裔美国社会心理学家（1890–1947），先后任教于柏林大学、康奈尔大学、艾奥瓦大学和麻省理工学院，在 MIT 创立群体动力学研究中心（Research Center for Group Dynamics）。
 > - **核心角色** [[Action Research|行动研究]]的两位奠基人之一（与 Corey 并列）；社会心理学创始人之一；群体动力学、力场分析和变革管理理论的创立者。
 > - **代表贡献** 提出行动研究的"计划—行动—观察—反思"螺旋模型；创立力场分析和变革三步模型（unfreezing → moving → refreezing）；开创群体决策和参与式管理研究。

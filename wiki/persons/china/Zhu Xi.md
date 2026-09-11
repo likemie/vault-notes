@@ -12,6 +12,9 @@ person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
+born: "1130"
+died: "1200"
+lifespan: "1130–1200"
 tags:
   - region/china
   - field/chinese-philosophy
@@ -43,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-08-20
+updated: 2026-09-11
 ---
 
 # Zhu Xi
@@ -53,6 +56,7 @@ updated: 2026-08-20
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1130–1200
 > - **身份位置** 南宋理学家（Neo-Confucianist），[[Neo-Confucianism|程朱理学]]集大成者，被尊为“朱子”。
 > - **核心角色** [[Confucius|孔子]]与[[Mencius|孟子]]之后最重要的儒家思想家；整合宋代理学碎片，将儒家[[Self-Cultivation|修身]]路径标准化为完整的[[The Great Learning|八条目]]链条；编纂《四书》主导中国教育近千年。
 > - **代表贡献** 编纂《四书集注》并确立其正统地位；提出“格物致知”作为认知的起点；系统化“格物→致知→诚意→正心→修身→齐家→治国→平天下”的[[Self-Cultivation|修身]]链条；主张“人人皆可为圣”。

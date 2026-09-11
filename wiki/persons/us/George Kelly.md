@@ -12,6 +12,9 @@ person_related_count: 9
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
+born: "1905"
+died: "1967"
+lifespan: "1905–1967"
 tags:
   - person/psychologist
   - theory/personal-construct
@@ -32,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-09-11
 ---
 # George Kelly
 
@@ -41,6 +44,7 @@ updated: 2026-07-28
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1905–1967
 > - **身份位置** 美国临床心理学家，20世纪中叶活跃；[[Personal Constructs|个人建构]]心理学学派创始人。
 > - **核心角色** [[Personal Construct Theory]] 的创立者，提出"人即科学家"的核心隐喻，将人格理论形式化为一个基本公设和十一条推论。
 > - **代表贡献** 创立 [[Personal Construct Theory]]（1955）；发明 [[Repertory Grid Technique|角色建构库测验]]作为该理论的技术实现；提出基本公设（人的心理过程由预期事件的方式所引导）。

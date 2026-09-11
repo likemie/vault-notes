@@ -11,6 +11,9 @@ person_related_count: 6
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
+born: "1928"
+died: "2021"
+lifespan: "1928–2021"
 tags:
 - humberto-maturana
 - autopoiesis
@@ -31,13 +34,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 ## 简介
 
-> [!info]
-
-Humberto Maturana（1928–2021），智利生物学家和哲学家，与 [[Francisco Varela]] 共同创立 [[Autopoiesis]]（自创生）理论，彻底改变了关于生命作为宏大系统的思考方式，被 Escobar 援引为[[Transition Design|转型设计]]的理论基础([[Argument_Amos_2022_Springer|Amos, 2022, p.61]])。
+> [!person-profile] 人物档案
+> - **生卒年份** 1928–2021
+> - **身份位置** Humberto Maturana（1928–2021），智利生物学家和哲学家，与 [[Francisco Varela]] 共同创立 [[Autopoiesis]]（自创生）理论，彻底改变了关于生命作为宏大系统的思考方式，被 Escobar 援引为[[Transition Design|转型设计]]的理论基础([[Argument_Amos_2022_Springer|Amos, 2022, p.61]])。
 
 ---
 

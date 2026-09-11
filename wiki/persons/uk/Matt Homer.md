@@ -11,6 +11,9 @@ person_related_count: 4
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
+born: "c. 1974"
+died: ""
+lifespan: "c. 1974–至今"
 tags:
 - matt-homer
 - region/uk
@@ -27,12 +30,13 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-02'
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 ## 简介
 
-> [!info] 简介
-> 利兹大学（University of Leeds）教育研究者，研究方向为教育研究方法论、[[Quantitative Research|定量研究]]方法、"什么有效"议程的批判性评估。
+> [!person-profile] 人物档案
+> - **生卒年份** c. 1974–至今
+> - **身份位置** 利兹大学（University of Leeds）教育研究者，研究方向为教育研究方法论、[[Quantitative Research|定量研究]]方法、"什么有效"议程的批判性评估。
 
 ## 核心思想
 

@@ -11,6 +11,9 @@ person_related_count: 6
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
+born: "1960"
+died: ""
+lifespan: "1960–至今"
 tags:
   - region/china
   - discipline/history
@@ -30,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-26
-updated: 2026-06-26
+updated: 2026-09-11
 ---
 
 # Pan Yue
@@ -40,6 +43,7 @@ updated: 2026-06-26
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1960–至今
 > - **身份位置** 中国政治人物、历史学者。现任中央统战部副部长、国家民委主任、党组书记。
 > - **核心角色** 当代中国民族融合意识形态与历史叙事的核心设计者。他通过撰写《[[Wuhu Ruhua|五胡入华]]》等史论，重塑了中国历史大一统叙事，为“铸牢[[Zhonghua Minzu|中华民族]]共同体意识”和强力推行国家通用语言提供了理论基石。([[Argument_Bulag_2024_CE|Bulag, 2024, pp. 107–108]])
 > - **代表贡献** 提出“[[Wuhu Ruhua|五胡入华]]”历史叙事概念，重塑大一统中国史观。

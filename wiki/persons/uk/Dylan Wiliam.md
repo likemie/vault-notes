@@ -11,6 +11,9 @@ person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
+born: "1955"
+died: ""
+lifespan: "1955–至今"
 tags:
 - dylan-wiliam
 - educational-assessment
@@ -40,12 +43,13 @@ related_facts:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 ## 简介
 
-> [!info] 简介
-> Dylan Wiliam，英国教育评估和[[Formative Assessment|形成性评价]]领域的重要研究者，UCL 教育研究院（Institute of Education, University College London）教授。其研究涵盖课堂评估、教师质量和[[Evidence-Based Education|证据本位教育]]的方法论批判。
+> [!person-profile] 人物档案
+> - **生卒年份** 1955–至今
+> - **身份位置** Dylan Wiliam，英国教育评估和[[Formative Assessment|形成性评价]]领域的重要研究者，UCL 教育研究院（Institute of Education, University College London）教授。其研究涵盖课堂评估、教师质量和[[Evidence-Based Education|证据本位教育]]的方法论批判。
 
 ## 核心思想
 

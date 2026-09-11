@@ -17,6 +17,9 @@ related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#bfdbfe"
+born: "1926"
+died: "1998"
+lifespan: "1926–1998"
 tags:
   - person/russia
   - framework/problem-solving
@@ -44,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-11
 ---
 
 # Genrich Altshuller
@@ -54,6 +57,7 @@ updated: 2026-09-03
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1926–1998
 > - **身份位置** 苏联发明家、工程师、科普科幻作家（笔名亨利希·阿尔托夫）、阿奇舒勒发明学派创始人、苏联海军专利审查专家。
 > - **核心角色** 现代发明工程学与算法化[[Problem Solving|问题解决]]理论的奠基人，被誉为“[[TRIZ]] 之父”；彻底终结了发明创新纯属神秘直觉的唯心论，开创了创新作为精确科学的方法论传统。
 > - **代表贡献** 创立[[TRIZ|发明问题解决理论]]（TRIZ）、发现技术系统演化法则与理想最终解（IFR）、构建阿奇舒勒 39×39 矛盾矩阵与 40 个发明原理、开发 ARIZ 发明解题算法。

@@ -15,6 +15,9 @@ person_related_count: 9
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
+born: "1956"
+died: ""
+lifespan: "1956–至今"
 tags:
   - person
   - meta-analyst
@@ -37,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-17
-updated: 2026-06-17
+updated: 2026-09-11
 ---
 
 # William Jeynes
@@ -47,6 +50,7 @@ updated: 2026-06-17
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1956–至今
 > - **身份位置** 美国保守派教育学者、[[Meta-analysis|元分析]]专家，同时为福音派传教士与“上帝之爱事工”（God's Love Ministries）创始人。曾任教于美国多所大学，并在共和党内拥有深厚的政策影响力，曾位列唐纳德·特朗普（Donald Trump）政府教育部长候选人名单中。
 > - **为什么值得建条目** 他是《[[Visible Learning|VL]]》（Visible Learning）中被引用率最高的元分析作者之一（共有 8 项元分析被[[John Hattie|约翰·哈蒂]]（John Hattie）采纳）。其关于[[Whole Language|全语言]]（Whole Language）的元分析结论（d = -0.65）引发了学术界的激烈交锋，并成为“阅读战争”（Reading Wars）与保守派教育政策制定的核心实证支柱之一。
 > - **代表贡献** 主持了针对低社会经济地位（Socioeconomic Status, SES）学童的全语言元分析（Jeynes & Littell, 2000，见 [[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.145-146]]），并对“纯粹全语言”（Pure Whole Language）提出了极具争议的划界与统计。

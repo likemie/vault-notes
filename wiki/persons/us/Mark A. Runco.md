@@ -13,6 +13,9 @@ person_related_count: 18
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
+born: "1955"
+died: ""
+lifespan: "1955–至今"
 tags:
   - person/scholar
   - theme/creativity
@@ -42,7 +45,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-08-23
-updated: 2026-08-26
+updated: 2026-09-11
 ---
 
 # Mark A. Runco
@@ -52,6 +55,7 @@ updated: 2026-08-26
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1955–至今
 > - **身份位置** 美国心理学家、[[Creativity|创造力]]研究学者，曾任阿尔托大学（Aalto University）卓越教授、佐治亚大学（University of Georgia）等机构教授，《创造力研究期刊》（*Creativity Research Journal*）创刊主编。
 > - **核心角色** 创造力心理学与教育评估领域的关键奠基人之一，在[[Divergent Thinking|发散思维]]测量效度、[[Runco Ideational Behavior Scale|观念行为量表]]（RIBS）开发及创造潜能理论构建中承担核心节点角色。
 > - **代表贡献** 提出创造潜能与表现双层模型，系统阐述[[Creativity Assessment|创造力评估]]心理测量学规范，主持创造力领域的[[Meta-meta-analysis|二阶元分析]]。

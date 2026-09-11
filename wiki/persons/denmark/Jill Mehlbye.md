@@ -11,6 +11,9 @@ person_related_count: 5
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
+born: "c. 1953"
+died: ""
+lifespan: "c. 1953–至今"
 tags:
 - jill-mehlbye
 - effective-teaching
@@ -29,12 +32,13 @@ related_facts:
 confidence: low
 status: draft
 created: '2026-05-05'
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 ## 简介
 
-> [!info] 简介
-> Jill Mehlbye 是丹麦教育研究者，研究重点包括高绩效学校、弱社会背景学生的学校提升，以及丹麦学校中高要求、[[Academic Achievement|学业表现]]取向和[[Classroom Management|课堂管理]]等教学质量。她的 2004 年"好例子"研究和 2010 年高绩效学校研究，是丹麦[[Effective Teaching|有效教学]]本土证据的重要来源([[Argument_Laursen_2015_Paideia|Laursen, 2015, pp.37–38, p.40]])。
+> [!person-profile] 人物档案
+> - **生卒年份** c. 1953–至今
+> - **身份位置** Jill Mehlbye 是丹麦教育研究者，研究重点包括高绩效学校、弱社会背景学生的学校提升，以及丹麦学校中高要求、[[Academic Achievement|学业表现]]取向和[[Classroom Management|课堂管理]]等教学质量。她的 2004 年"好例子"研究和 2010 年高绩效学校研究，是丹麦[[Effective Teaching|有效教学]]本土证据的重要来源([[Argument_Laursen_2015_Paideia|Laursen, 2015, pp.37–38, p.40]])。
 
 ## 核心思想
 

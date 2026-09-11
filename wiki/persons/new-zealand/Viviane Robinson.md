@@ -12,6 +12,9 @@ person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
+born: "c. 1948"
+died: ""
+lifespan: "c. 1948–至今"
 tags:
   - region/new-zealand
   - field/educational-leadership-administration
@@ -37,15 +40,16 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-09-11
 ---
 
 # Viviane Robinson
 
 ## 简介
 
-> [!info] 
-> 维维安·罗宾逊（Viviane Robinson）是新西兰著名的教育行政与领导力学者，奥克兰大学名誉教授。她是[[Instructional Leadership|教学领导力]]（[[Instructional Leadership]]）与学生中心领导力（Student-Centred Leadership）研究[[Paradigm|范式]]的代表人物。她曾受新西兰教育部委托主持了“[[School Leadership|学校领导力]]与学生结果：识别什么有效及为什么（最佳证据合成，BES）”项目，并多次受邀在国际重要教育行政与学术会议上做主旨报告。 ([[Argument_Eacott_2017_SLM|Eacott, 2017, pp. 416–417]])
+> [!person-profile] 人物档案
+> - **生卒年份** c. 1948–至今
+> - **身份位置** 维维安·罗宾逊（Viviane Robinson）是新西兰著名的教育行政与领导力学者，奥克兰大学名誉教授。她是[[Instructional Leadership|教学领导力]]（[[Instructional Leadership]]）与学生中心领导力（Student-Centred Leadership）研究[[Paradigm|范式]]的代表人物。她曾受新西兰教育部委托主持了“[[School Leadership|学校领导力]]与学生结果：识别什么有效及为什么（最佳证据合成，BES）”项目，并多次受邀在国际重要教育行政与学术会议上做主旨报告。 ([[Argument_Eacott_2017_SLM|Eacott, 2017, pp. 416–417]])
 
 ---
 

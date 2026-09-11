@@ -11,6 +11,9 @@ person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
+born: "c. 1978"
+died: ""
+lifespan: "c. 1978–至今"
 tags:
 - marcelo-parreira-do-amaral
 - comparative-education
@@ -44,9 +47,9 @@ updated: 2026-09-11
 ---
 ## 简介
 
-> [!info]
-
-Marcelo Parreira do Amaral 是德国明斯特大学（University of Münster）教育学院教授，比较教育与高等教育研究者。他的研究聚焦于[[Global Education Industry|全球教育产业]]（GEI）、[[Geopolitics of Knowledge|知识地缘政治]]以及教育研究在欧洲经济想象中的嵌入方式。
+> [!person-profile] 人物档案
+> - **生卒年份** c. 1978–至今
+> - **身份位置** Marcelo Parreira do Amaral 是德国明斯特大学（University of Münster）教育学院教授，比较教育与高等教育研究者。他的研究聚焦于[[Global Education Industry|全球教育产业]]（GEI）、[[Geopolitics of Knowledge|知识地缘政治]]以及教育研究在欧洲经济想象中的嵌入方式。
 
 ## 生平与职涯
 

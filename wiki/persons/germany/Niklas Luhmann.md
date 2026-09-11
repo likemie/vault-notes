@@ -12,6 +12,9 @@ person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
+born: "1927"
+died: "1998"
+lifespan: "1927–1998"
 tags:
 - luhmann
 - paradigm/systems-theory
@@ -39,12 +42,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 ## 简介
 
-> [!info] 简介
-> Niklas Luhmann (1927–1998) 是德国社会学家，社会[[Luhmann's Systems Theory|系统理论]]（Social Systems Theory）的创始人，20 世纪最具影响力的社会理论家之一。其理论核心是区分社会系统与心理系统，论证这两个系统不共享[[Coding in Qualitative Research|编码]]、彼此不可透明观察([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.4]])。
+> [!person-profile] 人物档案
+> - **生卒年份** 1927–1998
+> - **身份位置** Niklas Luhmann (1927–1998) 是德国社会学家，社会[[Luhmann's Systems Theory|系统理论]]（Social Systems Theory）的创始人，20 世纪最具影响力的社会理论家之一。其理论核心是区分社会系统与心理系统，论证这两个系统不共享[[Coding in Qualitative Research|编码]]、彼此不可透明观察([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.4]])。
 
 ## 生平与职涯
 

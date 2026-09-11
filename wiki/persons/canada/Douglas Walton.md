@@ -12,6 +12,9 @@ person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
+born: "1942"
+died: "2020"
+lifespan: "1942–2020"
 tags:
   - theme/argumentation
   - theme/critical-thinking
@@ -50,6 +53,7 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1942–2020
 > - **身份位置** 加拿大哲学家、逻辑学家（1942–2020），曾任温莎大学推理、论辩与修辞研究中心杰出研究员，非形式逻辑与辩证法领域的奠基性人物。
 > - **核心角色** 在当代论辩理论网络中，他突破了形式逻辑的形式有效性禁锢，系统建构了以"假定性推理"与"可撤销论式"为核心的论证分析学派。
 > - **代表贡献** 创立[[Walton's Argumentation Schemes|沃尔顿论证型式]]理论（包含 60 余种论证型式与批判性提问体系），重构谬误理论（将传统谬误视作语用[[Dialogue in Education|对话]]中举证责任的转移失败），推动了人工智能论辩计算与科学教育论辩评估的发展。

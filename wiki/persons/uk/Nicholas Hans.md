@@ -14,6 +14,9 @@ person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
+born: "1888"
+died: "1969"
+lifespan: "1888–1969"
 tags:
   - subject/comparative-education
   - theme/historical-philosophical
@@ -28,13 +31,13 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Incommensurability]]"
   - "[[Analytical Stance]]"
-  - "[[Analytic Framework]]"
   - "[[Construct]]"
   - "[[Historical-Philosophical-Cultural Motif]]"
   - "[[Operationalization]]"
   - "[[Democratic Education]]"
 related_methods:
   - "[[Historical-Comparative Method]]"
+  - "[[Analytic Framework]]"
 related_instruments: []
 related_persons:
   - "[[Joseph Lauwerys]]"
@@ -48,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-07
+updated: 2026-09-11
 ---
 
 # Nicholas Hans
@@ -58,6 +61,7 @@ updated: 2026-09-07
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1888–1969
 > - **身份位置** 俄裔英国比较教育学家、教育史学家，伦敦大学国王学院（King's College London）比较教育学读者（Reader），与约瑟夫·劳威斯（[[Joseph Lauwerys]]）长期共同主编《世界教育年鉴》（*World Year Book of Education*）。
 > - **核心角色** 20 世纪历史-哲学学派中最具方法论系统性的奠基学者，开创了闻名学界的“[[Factorial Interpretive Framework|因素解释框架]]”（Factorial Interpretive Framework）。特雷瑟韦（A. R. Tretheway）指出，他的独特贡献并非提供[[Isaac Kandel|坎德尔]]方法的跨大西洋翻版，而在于构建了一套由自然、宗教与世俗恒久力量组成的因素过滤器，把原本可能难以驾驭的海量历史数据收拢于严谨的分类学秩序之中。
 > - **代表贡献** 确立包含自然、宗教与世俗三大维度的因素分析法；将比较教育定位为具有动态改良使命、处于人文与科学边缘的广义人文科学（Vergleichende Erziehungswissenschaft）；深刻辨析英美政治自由与苏联社会平等两种民主[[Paradigm|范式]]的教育局限。

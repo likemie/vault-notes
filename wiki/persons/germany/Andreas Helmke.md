@@ -11,6 +11,9 @@ person_related_count: 7
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
+born: "1945"
+died: ""
+lifespan: "1945–至今"
 tags:
 - andreas-helmke
 - effective-teaching
@@ -31,12 +34,13 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-05'
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 ## 简介
 
-> [!info] 简介
-> Andreas Helmke 是德语[[Effective Teaching|有效教学]]研究综合的重要作者，代表作 *Unterrichtsqualität und Lehrerprofessionalität* 系统讨论教学质量与教师专业性。他的研究综合常与 Hattie、Meyer 的工作并列讨论，并特别强调学生前提条件、巩固、动机和文化语境对教学效果解释的重要性([[Argument_Laursen_2015_Paideia|Laursen, 2015, pp.34–36]])。
+> [!person-profile] 人物档案
+> - **生卒年份** 1945–至今
+> - **身份位置** Andreas Helmke 是德语[[Effective Teaching|有效教学]]研究综合的重要作者，代表作 *Unterrichtsqualität und Lehrerprofessionalität* 系统讨论教学质量与教师专业性。他的研究综合常与 Hattie、Meyer 的工作并列讨论，并特别强调学生前提条件、巩固、动机和文化语境对教学效果解释的重要性([[Argument_Laursen_2015_Paideia|Laursen, 2015, pp.34–36]])。
 
 ## 核心思想
 

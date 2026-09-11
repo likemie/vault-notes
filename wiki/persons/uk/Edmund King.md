@@ -13,6 +13,9 @@ person_related_count: 25
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
+born: "1914"
+died: "2002"
+lifespan: "1914–2002"
 tags:
   - subject/comparative-education
   - theme/policy-science
@@ -52,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-06
-updated: 2026-09-08
+updated: 2026-09-11
 ---
 
 # Edmund King
@@ -62,6 +65,7 @@ updated: 2026-09-08
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1914–2002
 > - **身份位置** 英国著名比较教育学家，伦敦大学国王学院（King's College London, KCL）比较教育学讲座教授与比较教育研究中心主任，英国与欧洲比较教育学术建制的重要奠基人。
 > - **核心角色** 战后英国比较教育[[Policy Science in Comparative Education|政策科学]]（Policy Science）理解形式的领航人物；与伦敦大学教育学院（IOE）的[[Brian Holmes|布赖恩·霍姆斯]]（Brian Holmes）并称为 1960–1970 年代英格兰比较教育学界影响力最大的学术双子星与论辩对手。
 > - **代表贡献** 提出关键决策时刻（critical points of decision）理论；代表作《其他学校与我们》（*Other Schools and Ours*, 1958）风行英语世界数十年；在 1967 年论战中对物理学式实证预测发起[[Epistemology|认识论]]批判；在 1970 年代英格兰方法论大分裂中以学科元老姿态[[Disciplina and Doctrina|规训]]新兴社会学视角。

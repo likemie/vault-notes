@@ -12,6 +12,9 @@ person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
+born: "c. 372 BCE"
+died: "289 BCE"
+lifespan: "c. 372 BCE – 289 BCE"
 tags:
   - region/china
   - field/chinese-philosophy
@@ -50,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-08-20
+updated: 2026-09-11
 ---
 
 # Mencius
@@ -60,6 +63,7 @@ updated: 2026-08-20
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** c. 372 BCE – 289 BCE
 > - **身份位置** 战国时期儒家思想家，[[Confucius|孔子]]学说的直接继承者，被后世尊为“亚圣”。
 > - **核心角色** 为[[Confucian Learning Tradition|儒家学习传统]]建立人性论哲学基础的节点；其著作《孟子》被宋代[[Zhu Xi|朱熹]]列入“四书”，在当代国家课程中作为正统[[Official Knowledge|官方知识]]被广泛选编。
 > - **代表贡献** 提出“性善论”与“[[Four Sprouts|四端]]说”；主张“人人皆可为尧舜”，将道德修养开放给所有人；确立“自得之”的[[Self-Cultivation|修身]]责任与“[[Take the World Upon Oneself|以天下为己任]]”的独立[[Critical Thinking Disposition|批判精神]]。

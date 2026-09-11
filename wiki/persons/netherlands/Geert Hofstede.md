@@ -11,6 +11,9 @@ person_related_count: 5
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
+born: "1928"
+died: "2020"
+lifespan: "1928–2020"
 tags:
 - geert-hofstede
 - culture
@@ -29,12 +32,13 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-05'
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 ## 简介
 
-> [!info] 简介
-> Geert Hofstede 是国家文化研究中被 Laursen 称为"最有影响力"的学者。Laursen 引用 Hofstede、Hofstede and Minkov (2010) 的表述，将文化定义为"software of the mind"，并指出 Hofstede 把价值观视为国家文化核心([[Argument_Laursen_2015_Paideia|Laursen, 2015, p.36]])。
+> [!person-profile] 人物档案
+> - **生卒年份** 1928–2020
+> - **身份位置** Geert Hofstede 是国家文化研究中被 Laursen 称为"最有影响力"的学者。Laursen 引用 Hofstede、Hofstede and Minkov (2010) 的表述，将文化定义为"software of the mind"，并指出 Hofstede 把价值观视为国家文化核心([[Argument_Laursen_2015_Paideia|Laursen, 2015, p.36]])。
 
 ## 核心思想
 

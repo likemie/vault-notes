@@ -12,6 +12,9 @@ person_related_count: 7
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
+born: "1951"
+died: ""
+lifespan: "1951–至今"
 tags:
   - region/uk
   - field/astrophysics
@@ -31,7 +34,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-08-22
+updated: 2026-09-11
 ---
 
 # Carlos Frenk
@@ -41,6 +44,7 @@ updated: 2026-08-22
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1951–至今
 > - **身份位置** 英国天体物理学家、杜伦大学计算宇宙学研究所所长、奥格登基础物理学教授、皇家学会会士（FRS）、大英帝国司令勋章获得者（CBE）。
 > - **核心角色** 冷暗物质宇宙学模拟先驱；2026 年与[[Sheila Rowan|希拉·罗文]]（Sheila Rowan）共同担任英国皇家学会《科学为社会：社会与科学如何相互塑造》（*Science for society: How society and science shape each other*）报告指导委员会联席主席。
 > - **代表贡献** 领导评估 1985 年[[Bodmer Report 1985|博德默尔报告]]以来 40 年间英国科学与社会关系的深刻演变，主持提出适应数字时代与人工智能挑战的全国性科学参与倡议。

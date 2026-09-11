@@ -11,6 +11,9 @@ person_related_count: 32
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
+born: "1938"
+died: ""
+lifespan: "1938–至今"
 tags:
   - region/uk
   - field/comparative-education
@@ -19,7 +22,6 @@ tags:
   - theme/educational-reform
 related_concepts:
   - "[[Transfer Translation Transformation]]"
-  - "[[Analytic Framework]]"
   - "[[Four Sins of Comparative Education]]"
   - "[[Heroic, Strange, and Barbaric]]"
   - "[[Comparative History of Comparative Education]]"
@@ -38,7 +40,8 @@ related_concepts:
   - "[[Hierarchy of Future Issues in Comparative Education]]"
 related_theories:
   - "[[Transitology]]"
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons:
   - "[[Andreas Kazamias]]"
   - "[[Michael Sadler]]"
@@ -58,7 +61,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-08
-updated: 2026-09-05
+updated: 2026-09-11
 ---
 
 # Robert Cowen
@@ -68,6 +71,7 @@ updated: 2026-09-05
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1938–至今
 > - **身份位置** 英国比较教育学者，伦敦大学学院教育与社会学院（UCL Institute of Education，UCL IOE）荣休教授，曾任[[Comparative Education Society in Europe|欧洲比较教育学会]]（[[Comparative and International Education Society|Comparative Education Society]] in Europe，CESE）会长。
 > - **核心角色** 比较教育理论化与批判研究的代表人物。他通过对教育变迁、知识跨国移动的形态学透视，以及对学科自我合法化神话的解构，为 21 世纪比较教育重建了批判性与伦理性的智识议程。
 > - **代表贡献** 创立 [[Transitology|转型学]]（Transitology） 与 “转移—[[Transfer Translation Transformation|转译]]—转化”（Transfer, Translation, Transformation，3T）跨国转移[[Analytic Framework|分析框架]]；提出 [[Four Sins of Comparative Education|比较教育的四种罪过]] 与 [[Heroic, Strange, and Barbaric|英雄、陌生与野蛮]] 的批判震荡词汇。

@@ -12,6 +12,9 @@ person_related_count: 36
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
+born: "1798"
+died: "1857"
+lifespan: "1798–1857"
 tags:
   - person/philosopher
   - person/sociologist
@@ -31,7 +34,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Paradigm]]"
   - "[[Objectivism]]"
-  - "[[Questionnaire]]"
   - "[[Educational Meliorism]]"
   - "[[Document]]"
   - "[[Dialogue in Education]]"
@@ -46,6 +48,7 @@ related_theories:
   - "[[Critical Theory]]"
 related_methods:
   - "[[Quantitative Research]]"
+  - "[[Questionnaire]]"
   - "[[Survey Research]]"
 related_instruments: []
 related_persons:
@@ -63,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-09-09
+updated: 2026-09-11
 ---
 
 # Auguste Comte
@@ -75,6 +78,7 @@ updated: 2026-09-09
 奥古斯特·孔德（Auguste Comte，1798–1857）是 19 世纪法国著名哲学家、社会学奠基人与[[Positivism|实证主义]]哲学运动的核心领袖，被公认为将实证主义确立为现代[[Epistemic Stances|认识论立场]]的关键先驱。
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1798–1857
 > - **身份位置** 19 世纪法国哲学家、数学家、社会学家，西方现代实证主义运动与实证社会学学派的创立者。
 > - **核心角色** 在西方思想史上首次将“实证主义”升格为系统性的哲学纲领，断然确立了自然科学的[[Scientific Method|科学方法]]对人类精神、社会组织与制度变革的完全普适性，打破形而上学思辨对人类事务的垄断，为后世实证社会学、实证[[Quantitative Research|量化研究]]以及现代教育科学化探索搭建了根本方法论基石。
 > - **代表贡献** 创立[[Positivism|实证主义]][[Epistemology|认识论]]体系；提出人类智识演进的三阶段法则（神学—形而上学—实证）；开创以经验观察与法则发现为核心的“社会物理学”（后正式定名为社会学）。

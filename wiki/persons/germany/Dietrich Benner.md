@@ -11,6 +11,9 @@ person_related_count: 7
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
+born: "1941"
+died: ""
+lifespan: "1941–至今"
 tags:
 - dietrich-benner
 - paradigm/bildung
@@ -31,12 +34,13 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-05'
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 ## 简介
 
-> [!info] 简介
-> 德国教育学家（Pedagogue），以对 [[Bildung]]（品格陶成）与 Erziehung（教育）的区分以及修正版教学三角模型著称。其工作根植于德国精神科学教育学传统。
+> [!person-profile] 人物档案
+> - **生卒年份** 1941–至今
+> - **身份位置** 德国教育学家（Pedagogue），以对 [[Bildung]]（品格陶成）与 Erziehung（教育）的区分以及修正版教学三角模型著称。其工作根植于德国精神科学教育学传统。
 
 ## 生平与职涯
 

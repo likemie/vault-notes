@@ -13,6 +13,9 @@ person_related_count: 24
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
+born: "1922"
+died: "1996"
+lifespan: "1922–1996"
 tags:
   - person/philosopher
   - person/historian-of-science
@@ -50,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-09-07
+updated: 2026-09-11
 ---
 
 # Thomas Kuhn
@@ -60,6 +63,7 @@ updated: 2026-09-07
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1922–1996
 > - **身份位置** 美国科学史家、科学哲学家，先后任教于哈佛大学、加州大学伯克利分校、普林斯顿大学与麻省理工学院（MIT），20 世纪下半叶最重要的科学哲学家之一。
 > - **核心角色** 颠覆逻辑[[Positivism|实证主义]]与线性积累主义科学观的“[[Paradigm|范式]]理论”奠基人；将科学发展阐释为常规科学、异常积累、危机爆发与科学革命的历史演进周期，确立了学术共同体与[[Incommensurability|不可通约性]]在[[Knowledge Production|知识生产]]中的核心地位。
 > - **代表贡献** 提出[[Paradigm|范式]]（Paradigm）与范式转换（Paradigm Shift）概念；系统论证[[Incommensurability|不可通约性]]；提出由目标、理论、规则与工具构成的范式四维框架，深刻启发了包括[[Scientific Paradigm|科学范式]]在内的比较教育学方法论反思。

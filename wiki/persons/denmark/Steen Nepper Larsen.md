@@ -11,6 +11,9 @@ person_related_count: 25
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
+born: "1958"
+died: ""
+lifespan: "1958–至今"
 tags:
 - larsen
 - paradigm/critical
@@ -49,12 +52,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 ## 简介
 
-> [!info] 简介
-> Steen Nepper Larsen 是丹麦奥胡斯大学（Aarhus University）丹麦教育学院（Danish School of Education）的教育哲学学者，以对 [[John Hattie]] 的 [[Visible Learning]] [[Paradigm|范式]]的哲学批判著称。其研究横跨哲学、社会学、教育学、概念史和神经科学批判，代表当代欧洲教育哲学中对[[Evidence-Based Education|证据本位教育]]运动的批判性声音([[Argument_Larsen_2019_EducSci|Larsen, 2019]])。
+> [!person-profile] 人物档案
+> - **生卒年份** 1958–至今
+> - **身份位置** Steen Nepper Larsen 是丹麦奥胡斯大学（Aarhus University）丹麦教育学院（Danish School of Education）的教育哲学学者，以对 [[John Hattie]] 的 [[Visible Learning]] [[Paradigm|范式]]的哲学批判著称。其研究横跨哲学、社会学、教育学、概念史和神经科学批判，代表当代欧洲教育哲学中对[[Evidence-Based Education|证据本位教育]]运动的批判性声音([[Argument_Larsen_2019_EducSci|Larsen, 2019]])。
 
 ## 生平与职涯
 

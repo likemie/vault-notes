@@ -11,6 +11,9 @@ person_related_count: 9
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
+born: "c. 1975"
+died: ""
+lifespan: "c. 1975–至今"
 tags:
 - kimberly-ochs
 - comparative-education
@@ -19,13 +22,13 @@ tags:
 related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Cross-National Attraction]]"
-  - "[[Analytic Framework]]"
   - "[[Concept Mapping]]"
   - "[[Document]]"
   - "[[Global Universities Rankings]]"
   - "[[Going Native]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons:
   - "[[David Phillips]]"
 related_facts: []
@@ -34,12 +37,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-06'
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 ## 简介
 
-> [!info] 简介
-> Kimberly Ochs 是比较教育学者，与 [[David Phillips]] 合作开发了[[Policy Borrowing|政策借用]]四阶段模型和[[Cross-National Attraction|跨国吸引]]力结构性类型学——教育政策转移研究领域的基础性[[Analytic Framework|分析框架]]。她的博士论文（牛津大学，2005）进一步深化了对政策借用与教育改革和创新之间关系的理论化。
+> [!person-profile] 人物档案
+> - **生卒年份** c. 1975–至今
+> - **身份位置** Kimberly Ochs 是比较教育学者，与 [[David Phillips]] 合作开发了[[Policy Borrowing|政策借用]]四阶段模型和[[Cross-National Attraction|跨国吸引]]力结构性类型学——教育政策转移研究领域的基础性[[Analytic Framework|分析框架]]。她的博士论文（牛津大学，2005）进一步深化了对政策借用与教育改革和创新之间关系的理论化。
 
 ## 生平与职涯
 

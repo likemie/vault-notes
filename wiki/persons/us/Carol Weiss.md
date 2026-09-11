@@ -11,6 +11,9 @@ person_related_count: 8
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
+born: "1927"
+died: "2013"
+lifespan: "1927–2013"
 tags:
   - field/policy-research
   - topic/research-use
@@ -44,6 +47,7 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1927–2013
 > - **身份位置** 美国政策与社会研究学者，活跃于 20 世纪后半叶的公共政策研究领域。
 > - **核心角色** [[Research Utilization|研究利用]]（research utilization）研究的开创者，为"研究如何进入政策与实践"提供概念工具箱。
 > - **代表贡献** 提出[[Research Utilization Models|研究利用模型]]（1979）；提出"知识渗透"（knowledge creep）概念（1980）；为概念性、工具性与[[Conceptual, Instrumental, and Symbolic Use of Research|象征性使用]]类型学奠定基础。

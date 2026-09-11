@@ -12,6 +12,9 @@ person_related_count: 18
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
+born: "1787"
+died: "1874"
+lifespan: "1787–1874"
 tags:
   - person/politician
   - person/historian
@@ -46,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-06
+updated: 2026-09-11
 ---
 
 # François Guizot
@@ -56,6 +59,7 @@ updated: 2026-09-06
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1787–1874
 > - **身份位置** 法国七月王朝（1830–1848）公共教育部部长（1832–1837）、外交大臣、首相（1847–1848），著名立宪自由派历史学家与政治思想家。
 > - **核心角色** 法国现代国民公共教育体系与法制框架的奠基人，折衷自由主义政策精英；在政治上致力于将法国大革命的人道成果与立宪君主制的政治秩序相融合。
 > - **代表贡献** 主持颁布具有划时代意义的《1833 年[[Guizot Law of 1833|基佐法案]]》（*Loi Guizot*），宣告教育旨趣在于“获取国民教育的最高福祉（the greatest good to be derived from educating the people）”；强制全境三万余市镇设立公立初小、各省设立公立[[Normal School|师范学校]]、确立专职皇家视学制度并法定承认教学自由（*la liberté d'enseignement*），亲手缔造了法国现代国民公学体制。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 27–29)]]

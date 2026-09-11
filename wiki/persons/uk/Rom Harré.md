@@ -9,6 +9,9 @@ person_related_count: 5
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
+born: "1927"
+died: "2019"
+lifespan: "1927–2019"
 tags: [person/psychologist, person/philosopher, theory/social-psychology, paradigm/interpretive]
 related_concepts:
   - "[[Paradigm]]"
@@ -20,13 +23,14 @@ related_methods:
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-07-23
+updated: 2026-09-11
 ---
 # Rom Harré
 
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1927–2019
 > - **身份位置** 英国社会心理学家和科学哲学家，曾任牛津大学研究员、乔治城大学教授。
 > - **核心角色** [[Ethogenic Approach|人因取向]]的主要创立者和代言人，将人类重新定义为制定计划、自我监控的行动者（person），对将自然科学[[Paradigm|研究范式]]简单移植到社会行为研究的做法提出了系统批判。
 > - **代表贡献** 人因取向的五项原则；将陈述（[[Accounts]]）确立为理解社会行为的核心分析材料。

@@ -11,19 +11,22 @@ person_related_count: 9
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
+born: "c. 1968"
+died: ""
+lifespan: "c. 1968–至今"
 tags:
   - region/argentina
   - theme/comparative-education
   - theme/educational-transfer
 related_concepts:
   - "[[Assemblage]]"
-  - "[[Analytic Framework]]"
   - "[[Relational Space]]"
   - "[[Global-Local Binary]]"
 related_theories:
   - "[[Actor-Network Theory]]"
 related_methods:
   - "[[Ethnography]]"
+  - "[[Analytic Framework]]"
   - "[[Network Analysis]]"
 related_persons: []
 related_facts:
@@ -33,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-07
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 # Alejandro Artopoulos
 
@@ -41,8 +44,9 @@ updated: '2026-06-08'
 
 ## 简介
 
-> [!info] 简介
-> Alejandro Artopoulos 是阿根廷圣安德烈斯大学（Universidad de San Andrés）教育学者，与 Beech 合著了关于教育话语跨空间流通的论文。他参与了阿根廷「[[Conectar Igualdad|平等连接]]」项目（Conectar Igualdad）的三年期[[Ethnography|民族志研究]]，使用[[Actor-Network Theory|行动者网络理论]]分析课堂中的社会-物质[[Assemblage|组装]]([[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]])。
+> [!person-profile] 人物档案
+> - **生卒年份** c. 1968–至今
+> - **身份位置** Alejandro Artopoulos 是阿根廷圣安德烈斯大学（Universidad de San Andrés）教育学者，与 Beech 合著了关于教育话语跨空间流通的论文。他参与了阿根廷「[[Conectar Igualdad|平等连接]]」项目（Conectar Igualdad）的三年期[[Ethnography|民族志研究]]，使用[[Actor-Network Theory|行动者网络理论]]分析课堂中的社会-物质[[Assemblage|组装]]([[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]])。
 
 ---
 

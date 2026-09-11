@@ -12,6 +12,9 @@ person_related_count: 9
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
+born: "1925"
+died: "1961"
+lifespan: "1925–1961"
 tags:
 - region/france
 - region/africa
@@ -36,14 +39,15 @@ related_arguments: []
 confidence: medium
 status: draft
 created: '2026-05-10'
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 # Frantz Fanon
 
 ## 简介
 
-> [!info]
-> Frantz Fanon（1925–1961），出生于法属马提尼克（Martinique）的精神病学家、哲学家和革命理论家，去殖民化运动的核心思想人物。他在短暂的一生中完成了从殖民地知识分子到阿尔及利亚革命者的转变，其著作深刻影响了全球去殖民化运动、后殖民研究和批判种族理论。
+> [!person-profile] 人物档案
+> - **生卒年份** 1925–1961
+> - **身份位置** Frantz Fanon（1925–1961），出生于法属马提尼克（Martinique）的精神病学家、哲学家和革命理论家，去殖民化运动的核心思想人物。他在短暂的一生中完成了从殖民地知识分子到阿尔及利亚革命者的转变，其著作深刻影响了全球去殖民化运动、后殖民研究和批判种族理论。
 
 Fanon 在法国里昂大学学习精神病学，期间受到 Négritude 运动（Aimé Césaire、Léopold Senghor）和存在主义[[Phenomenology|现象学]]（Merleau-Ponty、Sartre）的双重影响。1953 年出任阿尔及利亚 Blida-Joinville 精神病院院长，在临床实践中亲眼见证了殖民暴力对阿尔及利亚人心理的系统性摧毁。1956 年辞去公职加入阿尔及利亚民族解放阵线（FLN），成为革命政府的外交发言人，直至 1961 年因白血病在美国去世，年仅 36 岁。
 

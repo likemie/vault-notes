@@ -11,6 +11,9 @@ person_related_count: 19
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
+born: "1944"
+died: "2014"
+lifespan: "1944–2014"
 tags:
   - roy-bhaskar
   - critical-realism
@@ -46,7 +49,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: '2026-06-19'
+updated: 2026-09-11
 ---
 
 # Roy Bhaskar
@@ -56,6 +59,7 @@ updated: '2026-06-19'
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1944–2014
 > - **身份位置** 英国哲学家，[[Critical Realism|批判实在论]]（Critical Realism）运动的创始人。
 > - **核心角色** 批判实在论科学哲学的开创者，在人文与社会科学[[Ontology|本体论]]重构、反[[Empiricism|经验主义]]方法论论辩中承担核心哲学奠基者的节点角色。
 > - **代表贡献** 创立 [[Critical Realism|批判实在论]] 哲学体系、提出三层本体论、区分开放与封闭系统。

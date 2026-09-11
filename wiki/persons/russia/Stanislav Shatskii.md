@@ -13,6 +13,9 @@ person_related_count: 4
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
+born: "1878"
+died: "1934"
+lifespan: "1878–1934"
 tags:
   - field/progressive-education
   - field/rural-education
@@ -31,15 +34,16 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 # Stanislav Shatskii
 
 
 ## 简介
 
-> [!info]
-> 斯坦尼斯拉夫·沙茨基（Stanislav Shatskii／Shatsky, 1878–1934），苏俄[[Progressive Education|进步主义教育]]改革家。十月革命前已开始使用进步教育（progressive education）方法在俄国进行教育改革实验，革命后其创办的农村学校体系被认为是世界上最大的进步教育实验之一（Partlett 2011，引自 Ryabyy, 2024, p.103）。深受 [[John Dewey]] 教育思想影响，在 Dewey 1928 年访问苏联时与之会面并通信。
+> [!person-profile] 人物档案
+> - **生卒年份** 1878–1934
+> - **身份位置** 斯坦尼斯拉夫·沙茨基（Stanislav Shatskii／Shatsky, 1878–1934），苏俄[[Progressive Education|进步主义教育]]改革家。十月革命前已开始使用进步教育（progressive education）方法在俄国进行教育改革实验，革命后其创办的农村学校体系被认为是世界上最大的进步教育实验之一（Partlett 2011，引自 Ryabyy, 2024, p.103）。深受 [[John Dewey]] 教育思想影响，在 Dewey 1928 年访问苏联时与之会面并通信。
 
 ---
 

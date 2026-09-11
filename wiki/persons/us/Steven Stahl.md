@@ -15,6 +15,9 @@ person_related_count: 9
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
+born: "1951"
+died: "2005"
+lifespan: "1951–2005"
 tags:
   - person
   - meta-analyst
@@ -37,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-17
-updated: 2026-06-17
+updated: 2026-09-11
 ---
 
 # Steven Stahl
@@ -47,6 +50,7 @@ updated: 2026-06-17
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1951–2005
 > - **身份位置** 美国阅读教学研究者、教育心理学家，曾担任多所大学的阅读教育教授。他是 1980 至 1990 年代美国“阅读战争”（Reading Wars）中拼读教学与科学阅读研究阵营的关键学者之一。
 > - **为什么值得建条目** 他主持了两项对[[Whole Language|全语言]]教学具有决定性历史影响的[[Meta-analysis|元分析]]（Stahl & Miller, 1989; Stahl et al., 1994）。这两项研究为《[[Visible Learning|可见的学习]]》（Visible Learning，VL）（Visible Learning）中评估全语言低[[Effect Size|效应量]]提供了核心数据源。
 > - **代表贡献** 首次尝试对全语言与[[Language Experience Approach|语言经验法]]（Language Experience Approach, LEA）进行大规模量化合成（Stahl & Miller, 1989，见 [[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.144]]），并在后续研究中对两者的概念混淆进行了自我修正。

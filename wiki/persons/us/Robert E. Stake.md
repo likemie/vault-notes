@@ -12,6 +12,9 @@ person_related_count: 7
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
+born: "1927"
+died: ""
+lifespan: "1927–至今"
 tags:
   - discipline/education
   - field/qualitative-methods
@@ -33,14 +36,15 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 # Robert E. Stake
 
 ## 简介
 
-> [!info]
-> Robert E. Stake（1927–），美国教育评价与[[Qualitative Research|质性研究]]方法论学者，伊利诺伊大学厄巴纳-香槟分校荣休教授。Stake 以[[Case Study|案例研究]]方法论和教育项目评价领域的开创性工作著称，提出了回应性评价（responsive evaluation）和[[Naturalistic Generalization|自然主义概括]]（naturalistic generalization）等重要概念。在 Creswell & Creswell (2022) 的教材中，Stake and Yin 被并列为案例研究设计的两大权威来源（Stake, 1995; Yin, 2009），二者分别在第一章和第三章被频繁引用为案例研究方法的奠基性[[Document|文献]]。
+> [!person-profile] 人物档案
+> - **生卒年份** 1927–至今
+> - **身份位置** Robert E. Stake（1927–），美国教育评价与[[Qualitative Research|质性研究]]方法论学者，伊利诺伊大学厄巴纳-香槟分校荣休教授。Stake 以[[Case Study|案例研究]]方法论和教育项目评价领域的开创性工作著称，提出了回应性评价（responsive evaluation）和[[Naturalistic Generalization|自然主义概括]]（naturalistic generalization）等重要概念。在 Creswell & Creswell (2022) 的教材中，Stake and Yin 被并列为案例研究设计的两大权威来源（Stake, 1995; Yin, 2009），二者分别在第一章和第三章被频繁引用为案例研究方法的奠基性[[Document|文献]]。
 
 ## 主要著作
 

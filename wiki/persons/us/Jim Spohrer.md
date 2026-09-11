@@ -13,6 +13,9 @@ person_related_count: 5
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
+born: "1956"
+died: ""
+lifespan: "1956–至今"
 tags: ["field/service-science", "field/university-industry-collaboration", "discipline/computer-science"]
 related_concepts:
   - "[[Six Rs of University-Industry Relations]]"
@@ -28,12 +31,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-28
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 ## 简介
 
-> [!info]
-> Jim Spohrer 是美国计算机科学家和服务科学研究者。他在 IBM 工作期间担任全球大学项目（Global University Program）总监，提出了用于组织产学投资的六 R 框架（[[Six Rs of University-Industry Relations]]）。退休后担任 International Society of Service Innovation Professionals（ISSIP）董事会成员和 [[University Industry Demonstration Partnership]]（UIDP）高级研究员。
+> [!person-profile] 人物档案
+> - **生卒年份** 1956–至今
+> - **身份位置** Jim Spohrer 是美国计算机科学家和服务科学研究者。他在 IBM 工作期间担任全球大学项目（Global University Program）总监，提出了用于组织产学投资的六 R 框架（[[Six Rs of University-Industry Relations]]）。退休后担任 International Society of Service Innovation Professionals（ISSIP）董事会成员和 [[University Industry Demonstration Partnership]]（UIDP）高级研究员。
 
 ---
 

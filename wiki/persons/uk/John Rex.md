@@ -13,6 +13,9 @@ person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
+born: "1925"
+died: "2011"
+lifespan: "1925–2011"
 tags:
   - person/theorist
   - field/sociology
@@ -40,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-09-09
+updated: 2026-09-11
 ---
 
 # John Rex
@@ -50,6 +53,7 @@ updated: 2026-09-09
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1925–2011
 > - **身份位置** 英国著名社会学家，华威大学（University of Warwick）与阿斯顿大学（Aston University）社会学讲座教授与荣休教授，欧洲种族与族群关系研究先驱，英国社会学理论重要奠基人之一。
 > - **核心角色** 作为英国冲突理论（Conflict Theory）学派与韦伯主义社会学代表人物，在社会探究方法论中，对微观[[Phenomenology|现象学]]、常人方法学与[[Symbolic Interactionism|符号互动论]]提出著名的“虚假意识与客观视角缺失”批判，构筑了微观诠释主义不可回避的反思防线。
 > - **代表贡献** 编著英国社会学理论经典《社会学研究进路》（*Approaches to Sociology: An Introduction to Major Trends in British Sociology*, 1974）；提出社会行动者可能陷入“虚假意识”（false consciousness），警示研究者绝不可将社会科学目的狭隘缩减为复述当事人的主观报告，强调社会科学家寻求客观反思视角的独立使命；创立阶级、种族与殖民冲突理论（《种族、社区与冲突》*Race, Community and Conflict*, 1967）。

@@ -11,6 +11,9 @@ person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
+born: "1632"
+died: "1704"
+lifespan: "1632–1704"
 tags:
   - region/uk
   - region/western
@@ -43,14 +46,15 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 # John Locke
 
 ## 简介
 
-> [!info]
-> 约翰·洛克（1632–1704）是英国哲学家与医生，西方[[Empiricism|经验论]]传统和古典自由主义的奠基人。在[[Epistemology|认识论]]上，他的《人类理解论》（1690）以"白板说"（tabula rasa）彻底挑战了[[Plato|柏拉图]]—[[René Descartes|笛卡尔]]的先天论——主张一切知识来自感官经验和心智对经验的反思，不存在先天观念。在政治哲学上，他的《政府论两篇》（1689）提出了自然权利（生命、自由、财产）和有限政府理论，深刻影响了美国独立宣言和现代宪政民主。在教育学上，他的《教育漫话》（1693）是近代教育哲学的开创性著作。在 Li 对西方心智传统的追溯中，洛克代表了与[[Socrates|苏格拉底]]—柏拉图—笛卡尔先天论形成"激进"反题的经验论路线([[Argument_Li_2012_Cambridge|Li, 2012, pp.29-30]])。
+> [!person-profile] 人物档案
+> - **生卒年份** 1632–1704
+> - **身份位置** 约翰·洛克（1632–1704）是英国哲学家与医生，西方[[Empiricism|经验论]]传统和古典自由主义的奠基人。在[[Epistemology|认识论]]上，他的《人类理解论》（1690）以"白板说"（tabula rasa）彻底挑战了[[Plato|柏拉图]]—[[René Descartes|笛卡尔]]的先天论——主张一切知识来自感官经验和心智对经验的反思，不存在先天观念。在政治哲学上，他的《政府论两篇》（1689）提出了自然权利（生命、自由、财产）和有限政府理论，深刻影响了美国独立宣言和现代宪政民主。在教育学上，他的《教育漫话》（1693）是近代教育哲学的开创性著作。在 Li 对西方心智传统的追溯中，洛克代表了与[[Socrates|苏格拉底]]—柏拉图—笛卡尔先天论形成"激进"反题的经验论路线([[Argument_Li_2012_Cambridge|Li, 2012, pp.29-30]])。
 
 ---
 

@@ -15,6 +15,9 @@ person_related_count: 10
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
+born: "1032 / 1033"
+died: "1085 / 1107"
+lifespan: "程颢 1032–1085；程颐 1033–1107"
 tags: ["region/china", "theory/confucianism", "field/chinese-philosophy"]
 related_concepts:
   - "[[Sage]]"
@@ -35,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 # Cheng Brothers
 
@@ -43,8 +46,9 @@ updated: '2026-06-08'
 
 ## 简介
 
-> [!info]
-> 程颢（1032-1085）与程颐（1033-1107）是北宋时期的儒家思想家，[[Neo-Confucianism|宋明理学]]（[[Neo-Confucianism]]）的开创者。二程在[[Confucian Learning Tradition|儒家学习传统]]经历了近千年的边缘化之后，重新开启了孔孟的学习传统，将其推进到一个新的理论高度([[Argument_Li_2012_Cambridge|Li, 2012, p.43]])。
+> [!person-profile] 人物档案
+> - **生卒年份** 程颢 1032–1085；程颐 1033–1107
+> - **身份位置** 程颢（1032-1085）与程颐（1033-1107）是北宋时期的儒家思想家，[[Neo-Confucianism|宋明理学]]（[[Neo-Confucianism]]）的开创者。二程在[[Confucian Learning Tradition|儒家学习传统]]经历了近千年的边缘化之后，重新开启了孔孟的学习传统，将其推进到一个新的理论高度([[Argument_Li_2012_Cambridge|Li, 2012, p.43]])。
 
 ## 核心思想
 

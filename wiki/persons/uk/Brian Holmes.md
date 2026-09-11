@@ -12,6 +12,9 @@ person_related_count: 49
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
+born: "1920"
+died: "1993"
+lifespan: "1920–1993"
 tags:
   - person/uk
   - comparative-education
@@ -31,7 +34,6 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Reflective Thinking]]"
   - "[[International Education]]"
-  - "[[Analytic Framework]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
   - "[[Empiricism]]"
@@ -48,6 +50,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Problem Approach]]"
+  - "[[Analytic Framework]]"
   - "[[Typological Analysis]]"
 related_instruments: []
 related_persons:
@@ -77,7 +80,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-07
-updated: 2026-09-07
+updated: 2026-09-11
 ---
 
 # Brian Holmes
@@ -87,6 +90,7 @@ updated: 2026-09-07
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1920–1993
 > - **身份位置** 英国比较教育学家、科学哲学家，伦敦大学教育学院（Institute of Education, IOE）比较教育学教授兼系主任（1975–1985），世界比较教育学会联合会（World Council of Comparative Education Societies, WCCES）前主席。
 > - **核心角色** 战后比较教育“科学化运动”三大奠基流派之一（问题学派）的领袖；将[[Karl Popper|卡尔·波普尔]]批判[[Rationalism in International Relations|理性主义]]与[[John Dewey|杜威]]反思思维方法论化，将学科重塑为面向未来决策的[[Nomothetic|通则式]]预测与[[Policy Science in Comparative Education|政策科学]]。
 > - **代表贡献** 创立比较教育“[[Problem Solving|问题解决]]法（[[Problem Approach]]）”分析程序；提出“批判的二元论（[[Critical Dualism]]）”与教育“文化滞后/时代不同步（Asynchrony）”理论；系统批判老派历史学派的回溯性归因与贝雷迪的经验归纳进路。

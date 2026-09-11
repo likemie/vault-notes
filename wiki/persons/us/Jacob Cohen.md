@@ -11,6 +11,9 @@ person_related_count: 8
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
+born: "1923"
+died: "1998"
+lifespan: "1923–1998"
 tags:
 - jacob-cohen
 - effect-size
@@ -20,12 +23,12 @@ tags:
 related_concepts:
   - "[[Visible Learning]]"
   - "[[Hypothesis]]"
-  - "[[Sample Size Determination]]"
 related_theories: []
 related_methods:
   - "[[Effect Size]]"
   - "[[Meta-analysis]]"
   - "[[Statistical Significance]]"
+  - "[[Sample Size Determination]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -34,12 +37,13 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-05'
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 ## 简介
 
-> [!info] 简介
-> Jacob Cohen 是美国统计学家，是 [[Effect Size]]（[[Effect Size|效应量]]）和 Cohen's d 解释框架的关键人物。在 [[Effect Size]] 的教育研究传播史中，Cohen 的贡献主要体现在两个方面：提供标准化均值差的计算语言，并提出 small/medium/large 的经验性解释框架([[Argument_Allerup_2015_Paideia|Allerup, 2015, p.43]])。
+> [!person-profile] 人物档案
+> - **生卒年份** 1923–1998
+> - **身份位置** Jacob Cohen 是美国统计学家，是 [[Effect Size]]（[[Effect Size|效应量]]）和 Cohen's d 解释框架的关键人物。在 [[Effect Size]] 的教育研究传播史中，Cohen 的贡献主要体现在两个方面：提供标准化均值差的计算语言，并提出 small/medium/large 的经验性解释框架([[Argument_Allerup_2015_Paideia|Allerup, 2015, p.43]])。
 
 ## 生平与职涯
 

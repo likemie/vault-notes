@@ -12,16 +12,19 @@ person_related_count: 8
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
+born: "c. 1944"
+died: ""
+lifespan: "c. 1944–至今"
 tags: ["region/australia", "field/comparative-education", "field/educational-psychology"]
 related_concepts:
   - "[[Paradox of the Chinese Learner]]"
   - "[[Chinese Learner]]"
   - "[[Confucian Heritage Cultures]]"
-  - "[[Analytic Framework]]"
   - "[[Student Attitude]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons:
   - "[[John Biggs]]"
 related_facts: []
@@ -30,14 +33,15 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-08-20
+updated: 2026-09-11
 ---
 # David Watkins
 
 ## 简介
 
-> [!info]
-> David Watkins 是澳大利亚教育心理学家，长期在香港从事跨文化学习研究。他是[[Paradox of the Chinese Learner]]这一核心问题的提出者和主要研究者之一，与 [[John Biggs]] 合作整合了关于中国／东亚学习者的实证研究，是跨文化教育心理学领域的重要人物([[Argument_Li_2012_Cambridge|Li, 2012, p.73-74]])。
+> [!person-profile] 人物档案
+> - **生卒年份** c. 1944–至今
+> - **身份位置** David Watkins 是澳大利亚教育心理学家，长期在香港从事跨文化学习研究。他是[[Paradox of the Chinese Learner]]这一核心问题的提出者和主要研究者之一，与 [[John Biggs]] 合作整合了关于中国／东亚学习者的实证研究，是跨文化教育心理学领域的重要人物([[Argument_Li_2012_Cambridge|Li, 2012, p.73-74]])。
 
 ## 主要著作
 

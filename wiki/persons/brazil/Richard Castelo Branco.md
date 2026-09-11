@@ -11,6 +11,9 @@ person_related_count: 10
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
+born: "c. 1975"
+died: ""
+lifespan: "c. 1975–至今"
 tags:
 - region/brazil
 - field/theater
@@ -35,14 +38,15 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-11'
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 # Richard Castelo Branco
 
 ## 简介
 
-> [!info]
-> Richard Castelo Branco 是巴西剧场导演，里约热内卢 Rocinha 贫民窟剧场团体"Bando Cultural Favelados da Rocinha"的导演。他开发了一种名为 **EspectAtor** 的自创剧场方法——该方法由一种 [[Epistemology of Resistance|抵抗认识论]] 所告知，使贫民窟居民通过讲述自身的暴力创伤故事来实践[[Knowledge Production|知识生产]]，其剧场实践与城市的[[Official Knowledge|官方知识]]模型处于根本张力之中([[Argument_Delambre_2022_Springer|Delambre, 2022, p.110, 援引 Branco, 2020]])。
+> [!person-profile] 人物档案
+> - **生卒年份** c. 1975–至今
+> - **身份位置** Richard Castelo Branco 是巴西剧场导演，里约热内卢 Rocinha 贫民窟剧场团体"Bando Cultural Favelados da Rocinha"的导演。他开发了一种名为 **EspectAtor** 的自创剧场方法——该方法由一种 [[Epistemology of Resistance|抵抗认识论]] 所告知，使贫民窟居民通过讲述自身的暴力创伤故事来实践[[Knowledge Production|知识生产]]，其剧场实践与城市的[[Official Knowledge|官方知识]]模型处于根本张力之中([[Argument_Delambre_2022_Springer|Delambre, 2022, p.110, 援引 Branco, 2020]])。
 
 > EspectAtor 方法不以学术论著来"论证"替代[[Epistemology|认识论]]的必要性，而是以剧场表演直接**制造**官方知识体系无法消化的替代知识——这一实践逻辑被 [[Dell Delambre]] 在 [[Creative Tension of Sense]] 和 [[Ganz-Methode]] 中分析为"承载新旧张力"和"发现[[Life Power|生命力量]]"的典型案例([[Argument_Delambre_2022_Springer|Delambre, 2022, p.109–110, 112–113]])。
 

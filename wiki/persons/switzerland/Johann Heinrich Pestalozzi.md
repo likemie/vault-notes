@@ -13,6 +13,9 @@ person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
+born: "1746"
+died: "1827"
+lifespan: "1746–1827"
 tags:
   - person/educator
   - person/pedagogue
@@ -30,11 +33,11 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Growth]]"
   - "[[Establishing One's Will]]"
-  - "[[Questionnaire]]"
   - "[[Educational Meliorism]]"
   - "[[Document]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Questionnaire]]"
 related_instruments: []
 related_persons:
   - "[[Marc-Antoine Jullien]]"
@@ -54,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-06
+updated: 2026-09-11
 ---
 
 # Johann Heinrich Pestalozzi
@@ -66,12 +69,13 @@ updated: 2026-09-06
 约翰·海因里希·裴斯泰洛齐（Johann Heinrich Pestalozzi, 1746–1827）是瑞士近代著名民主主义教育家、平民学校与孤儿院改革家，被后世尊称为“现代小学教学法之父”：
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1746–1827
 > - **身份位置** 瑞士教育思想家、初等学校实验家、近代平民教育运动先驱；西方现代教育学由思辨与残酷[[Disciplina and Doctrina|规训]]走向心理学化与人道主义的奠基者。
 > - **核心角色** 在 19 世纪欧美公共教育转型与比较借用网络中，裴斯泰洛齐是连接启蒙人性向善哲学与基层学校教学革新的核心枢纽；其首创的直观教学法不仅被普鲁士采纳为国家公学与[[Normal School|师范学院]]的标准典范，更成为法美比较先驱（[[Marc-Antoine Jullien|朱利安]]、[[Victor Cousin|库森]]、[[Horace Mann|曼]]、斯托）打破本土机械背诵与体罚传统的共同思想武器。
 > - **代表贡献**
->   1. **教育心理学化原则** 首倡顺应儿童身心发展规律，创立以感官直观（*Anschauung*）为基础的实物教学与要素教学法（数、形、词）；
->   2. **头、心、手和谐展开的全人[[Bildung|教化]]论** 依据[[Faculty Psychology|官能心理学]]，主张全面发展儿童智力、道德情感与劳动实践能力，彻底终结[[Rote Learning|死记硬背]]（[[Rote Learning]]）与残酷体罚；
->   3. **伊弗东（Yverdon）实验学院** 创办闻名全欧的师范实验机构，成为普鲁士公立师范学校（*Lehrerseminare*）的师资摇篮与 19 世纪大西洋跨国考察者的朝圣圣地。
+> 1. **教育心理学化原则** 首倡顺应儿童身心发展规律，创立以感官直观（*Anschauung*）为基础的实物教学与要素教学法（数、形、词）；
+> 2. **头、心、手和谐展开的全人[[Bildung|教化]]论** 依据[[Faculty Psychology|官能心理学]]，主张全面发展儿童智力、道德情感与劳动实践能力，彻底终结[[Rote Learning|死记硬背]]（[[Rote Learning]]）与残酷体罚；
+> 3. **伊弗东（Yverdon）实验学院** 创办闻名全欧的师范实验机构，成为普鲁士公立师范学校（*Lehrerseminare*）的师资摇篮与 19 世纪大西洋跨国考察者的朝圣圣地。
 
 比较教育史学者在追溯学科思想源流时，将裴斯泰洛齐视为人道儿童中心[[Paradigm|范式]]的重要源泉：
 

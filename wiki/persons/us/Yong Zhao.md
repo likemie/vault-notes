@@ -11,6 +11,9 @@ person_related_count: 16
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
+born: "1965"
+died: ""
+lifespan: "1965–至今"
 tags:
   - region/us
   - region/china
@@ -50,8 +53,9 @@ updated: 2026-09-11
 
 ## 简介
 
-> [!info]
-> Yong Zhao（赵勇），华裔比较教育学者，堪萨斯大学教育学院 Foundation Distinguished Professor。研究领域涵盖教育政策、比较教育、教育创新和[[Side Effects|教育中的副作用]]。其学术贡献集中于两个相互关联的方向：从医学引入副作用概念至教育研究，以及对 [[PISA]] 的系统性批评。两者共享一个底层关切，即标准化改革和国际评估可能以窄化教育目的和忽视负面后果为代价。
+> [!person-profile] 人物档案
+> - **生卒年份** 1965–至今
+> - **身份位置** Yong Zhao（赵勇），华裔比较教育学者，堪萨斯大学教育学院 Foundation Distinguished Professor。研究领域涵盖教育政策、比较教育、教育创新和[[Side Effects|教育中的副作用]]。其学术贡献集中于两个相互关联的方向：从医学引入副作用概念至教育研究，以及对 [[PISA]] 的系统性批评。两者共享一个底层关切，即标准化改革和国际评估可能以窄化教育目的和忽视负面后果为代价。
 
 ---
 

@@ -12,6 +12,9 @@ person_related_count: 18
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
+born: "1921"
+died: "1997"
+lifespan: "1921–1997"
 tags:
 - region/brazil
 - critical-pedagogy
@@ -45,14 +48,15 @@ related_facts:
 confidence: medium
 status: draft
 created: '2026-05-10'
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 # Paulo Freire
 
 ## 简介
 
-> [!info]
-> Paulo Freire（1921–1997），巴西教育家、哲学家，[[Critical Pedagogy|批判教育学]]（critical pedagogy）的奠基人，以《被压迫者教育学》（*Pedagogy of the Oppressed*, 1968/1972）闻名全球。[[Argument_Partaken_2022_Springer|Partaken (2022)]] 在[[Geopolitics of Knowledge|知识地缘政治]]（GPK）语境中援引 Freire 的银行概念（banking concept）作为[[Forced Knowledge Transfer|强制知识转移]]的理论锚点——揭示教学关系中不可化约的权力梯度([[Argument_Partaken_2022_Springer|Partaken, 2022, p.75–76]])。
+> [!person-profile] 人物档案
+> - **生卒年份** 1921–1997
+> - **身份位置** Paulo Freire（1921–1997），巴西教育家、哲学家，[[Critical Pedagogy|批判教育学]]（critical pedagogy）的奠基人，以《被压迫者教育学》（*Pedagogy of the Oppressed*, 1968/1972）闻名全球。[[Argument_Partaken_2022_Springer|Partaken (2022)]] 在[[Geopolitics of Knowledge|知识地缘政治]]（GPK）语境中援引 Freire 的银行概念（banking concept）作为[[Forced Knowledge Transfer|强制知识转移]]的理论锚点——揭示教学关系中不可化约的权力梯度([[Argument_Partaken_2022_Springer|Partaken, 2022, p.75–76]])。
 
 ---
 

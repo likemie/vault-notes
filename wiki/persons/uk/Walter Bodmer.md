@@ -13,6 +13,9 @@ person_related_count: 10
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
+born: "1936"
+died: ""
+lifespan: "1936–至今"
 tags:
   - region/uk
   - field/human-genetics
@@ -35,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-08-23
+updated: 2026-09-11
 ---
 
 # Walter Bodmer
@@ -45,6 +48,7 @@ updated: 2026-08-23
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1936–至今
 > - **身份位置** 英国人类遗传学家、牛津大学分子医学研究所教授、皇家学会会士（FRS）、医学科学院院士（FMedSci）。
 > - **核心角色** 英国现代[[Public Engagement with Science|公众科学参与]]与科学传播政策的奠基者；1985 年主持撰写皇家学会《公众理解科学》报告（[[Bodmer Report 1985|The Bodmer Report]]），推动科学界将面向公众的传播与[[Dialogue in Education|对话]]确立为科学家的核心职责。
 > - **代表贡献** 主持发布《公众理解科学》报告（1985）、推动英国建立全国科学周（National Science Week）与法拉第讲座（Faraday Lecture）、倡导 16 岁前全员必修科学教育及 16–18 岁跨学科[[General Education|通识教育]]。

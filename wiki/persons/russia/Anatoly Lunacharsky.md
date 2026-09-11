@@ -12,6 +12,9 @@ person_related_count: 2
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
+born: "1875"
+died: "1933"
+lifespan: "1875–1933"
 tags:
   - field/educational-policy
   - field/history-of-education
@@ -28,15 +31,16 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 # Anatoly Lunacharsky
 
 
 ## 简介
 
-> [!info]
-> 阿纳托利·瓦西里耶维奇·卢那察尔斯基（Anatoly Vasilyevich Lunacharsky, 1875–1933），苏俄首任教育人民委员（People's Commissar for Education），任职期为 1917 年 10 月至 1929 年 9 月。主持了早期苏联教育体系的建立，Dewey 认为 Lunacharsky 创办的学校将学生与工业生产连接起来，同时避免给予学生"单一技术"训练，而是教授可跨行业应用的技能与理念([[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, p.105]])。Dewey 1928 年访苏的亲邀者。
+> [!person-profile] 人物档案
+> - **生卒年份** 1875–1933
+> - **身份位置** 阿纳托利·瓦西里耶维奇·卢那察尔斯基（Anatoly Vasilyevich Lunacharsky, 1875–1933），苏俄首任教育人民委员（People's Commissar for Education），任职期为 1917 年 10 月至 1929 年 9 月。主持了早期苏联教育体系的建立，Dewey 认为 Lunacharsky 创办的学校将学生与工业生产连接起来，同时避免给予学生"单一技术"训练，而是教授可跨行业应用的技能与理念([[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, p.105]])。Dewey 1928 年访苏的亲邀者。
 
 ---
 

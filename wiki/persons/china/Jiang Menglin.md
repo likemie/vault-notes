@@ -12,6 +12,9 @@ person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
+born: "1886"
+died: "1964"
+lifespan: "1886–1964"
 tags:
   - region/china
   - theme/progressive-education
@@ -43,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: '2026-07-24'
+updated: 2026-09-11
 ---
 
 # Jiang Menglin
@@ -53,6 +56,7 @@ updated: '2026-07-24'
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1886–1964
 > - **身份位置** 中国民国时期著名教育家、出版家、行政官僚，哥伦比亚大学[[Normal School|师范学院]]博士，先后任《新教育》杂志主编、北京大学校长及中华民国教育部部长。（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, pp.614–615]]）
 > - **核心角色** [[John Dewey|杜威]]在华留美学生网络的核心节点，1919–1925年间[[New Education Movement|新教育运动]]激进民主派的领袖与理论旗手。
 > - **代表贡献** 主导创办并主编《新教育》（*The New Education*）杂志；提出“以教育创造新国家”与学校隔离改造论；深度参与[[1922 Educational System Reform|1922年学制改革]]七项标准的制定。（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, pp.614–618]]）

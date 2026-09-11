@@ -11,6 +11,9 @@ person_related_count: 6
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
+born: "1988"
+died: ""
+lifespan: "1988–至今"
 tags:
 - tengteng-zhuang
 - region/china
@@ -29,12 +32,13 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-02'
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 ## 简介
 
-> [!info] 简介
-> 庄腾腾，北京师范大学（Beijing Normal University）教育研究者，研究方向为中国教育实证研究的[[Document|文献]]计量分析和制度化发展。
+> [!person-profile] 人物档案
+> - **生卒年份** 1988–至今
+> - **身份位置** 庄腾腾，北京师范大学（Beijing Normal University）教育研究者，研究方向为中国教育实证研究的[[Document|文献]]计量分析和制度化发展。
 
 ## 核心思想
 

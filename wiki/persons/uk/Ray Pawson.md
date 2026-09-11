@@ -11,6 +11,9 @@ person_related_count: 16
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
+born: "1948"
+died: ""
+lifespan: "1948–至今"
 tags:
   - ray-pawson
   - evidence-based-policy
@@ -21,7 +24,6 @@ tags:
   - region/uk
 related_concepts:
   - "[[Causality]]"
-  - "[[Analytic Framework]]"
   - "[[Evidence-Based Education]]"
   - "[[Hypothesis]]"
   - "[[Sage]]"
@@ -31,6 +33,7 @@ related_theories:
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-analysis]]"
+  - "[[Analytic Framework]]"
   - "[[Effect Size]]"
 related_persons:
   - "[[Roy Bhaskar]]"
@@ -44,7 +47,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: '2026-06-19'
+updated: 2026-09-11
 ---
 
 # Ray Pawson
@@ -54,6 +57,7 @@ updated: '2026-06-19'
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1948–至今
 > - **身份位置** 英国利兹大学（University of Leeds）社会研究方法论教授。
 > - **核心角色**[[Realist Evaluation|实在论评估]]（Realist Evaluation）与实在论综合（Realist Synthesis）的创立者，在社会与教育干预项目评估学派中承担核心方法论引领者的节点角色。
 > - **代表贡献** 创立 [[Realist Evaluation|实在论评估]] 与实在论综合的方法论体系，系统剖析 [[Randomised Controlled Trials|RCT]] 与[[Meta-analysis|元分析]]的去情境化偏误。

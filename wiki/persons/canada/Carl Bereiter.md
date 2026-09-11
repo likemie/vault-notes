@@ -11,6 +11,9 @@ person_related_count: 6
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
+born: "1934"
+died: ""
+lifespan: "1934–至今"
 tags:
 - bereiter
 - knowledge-building
@@ -30,12 +33,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-03'
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 ## 简介
 
-> [!info] 简介
-> Carl Bereiter，加拿大教育理论家，以"知识建构"（knowledge building）理论和"知识社会中的心智"研究著称。他在 Popper 和 Hattie 之间扮演了关键的中介角色——Bereiter 将 Popper 的三个世界理论引入教育研究，但其自身的化简为 Hattie 进一步的误读铺平了道路。
+> [!person-profile] 人物档案
+> - **生卒年份** 1934–至今
+> - **身份位置** Carl Bereiter，加拿大教育理论家，以"知识建构"（knowledge building）理论和"知识社会中的心智"研究著称。他在 Popper 和 Hattie 之间扮演了关键的中介角色——Bereiter 将 Popper 的三个世界理论引入教育研究，但其自身的化简为 Hattie 进一步的误读铺平了道路。
 
 ## 生平与职涯
 

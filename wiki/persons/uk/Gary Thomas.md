@@ -11,6 +11,9 @@ person_related_count: 6
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
+born: "c. 1950"
+died: ""
+lifespan: "c. 1950–至今"
 tags:
 - gary-thomas
 - educational-research-methodology
@@ -33,12 +36,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 ## 简介
 
-> [!info] 简介
-> Gary Thomas 是英国伯明翰大学（University of Birmingham）教育与社会包容教授，以其对实验方法和 [[Randomised Controlled Trials|RCT]] 在教育研究中的"黄金标准"地位的批判而知名。
+> [!person-profile] 人物档案
+> - **生卒年份** c. 1950–至今
+> - **身份位置** Gary Thomas 是英国伯明翰大学（University of Birmingham）教育与社会包容教授，以其对实验方法和 [[Randomised Controlled Trials|RCT]] 在教育研究中的"黄金标准"地位的批判而知名。
 
 ## 核心思想
 

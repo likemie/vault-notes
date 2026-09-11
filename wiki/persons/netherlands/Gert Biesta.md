@@ -11,6 +11,9 @@ person_related_count: 26
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
+born: "1957"
+died: ""
+lifespan: "1957–至今"
 tags:
 - gert-biesta
 - educational-philosophy
@@ -54,12 +57,13 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 ## 简介
 
-> [!info] 简介
-> Gert J. J. Biesta（荷兰籍）是当代最具影响力的教育哲学家之一。他先后任职于英国斯特灵大学（The Stirling Institute of Education）、卢森堡大学，现任爱丁堡大学（University of Edinburgh）教育和体育学院教授，同时是荷兰人文研究大学（University of Humanistic Studies）教育学教授。他的研究横跨教育哲学、教育政策、教师教育和艺术教育，以对[[Evidence-Based Education|证据本位教育]]的系统性批判和对教育目的论的重新阐述著称。
+> [!person-profile] 人物档案
+> - **生卒年份** 1957–至今
+> - **身份位置** Gert J. J. Biesta（荷兰籍）是当代最具影响力的教育哲学家之一。他先后任职于英国斯特灵大学（The Stirling Institute of Education）、卢森堡大学，现任爱丁堡大学（University of Edinburgh）教育和体育学院教授，同时是荷兰人文研究大学（University of Humanistic Studies）教育学教授。他的研究横跨教育哲学、教育政策、教师教育和艺术教育，以对[[Evidence-Based Education|证据本位教育]]的系统性批判和对教育目的论的重新阐述著称。
 
 ## 生平与职涯
 

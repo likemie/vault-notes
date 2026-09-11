@@ -12,6 +12,9 @@ person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
+born: "1944"
+died: ""
+lifespan: "1944–至今"
 tags:
   - person/academic
   - critical-thinking
@@ -50,12 +53,13 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1944–至今
 > - **身份位置** 美国教育哲学家、认知测评专家，芝加哥洛约拉大学（Loyola University Chicago）前教务长、圣塔克拉拉大学（Santa Clara University）荣休教授，Insight Assessment 创始人。
 > - **核心角色** 当代[[Critical Thinking|批判性思维]][[Operationalization|操作化]]界定与标准化测评体系的头号领军人物，被誉为“将批判性思维从哲学思辨转化为现代心理测量科学的关键桥梁”。
 > - **代表贡献**
->   1. 主持并撰写了划时代的 美国哲学学会（APA）德尔菲批判性思维专家共识报告（Facione, 1990）；
->   2. 编制了全球应用最广的[[California Critical Thinking Skills Test|加州批判性思维技能测验]]（CCTST）与[[California Critical Thinking Disposition Inventory|加州批判性思维倾向问卷]]（[[California Critical Thinking Disposition Inventory|CCTDI]]）；
->   3. 提出了整合认知技能与情意倾向的批判性思维决策理论。
+> 1. 主持并撰写了划时代的 美国哲学学会（APA）德尔菲批判性思维专家共识报告（Facione, 1990）；
+> 2. 编制了全球应用最广的[[California Critical Thinking Skills Test|加州批判性思维技能测验]]（CCTST）与[[California Critical Thinking Disposition Inventory|加州批判性思维倾向问卷]]（[[California Critical Thinking Disposition Inventory|CCTDI]]）；
+> 3. 提出了整合认知技能与情意倾向的批判性思维决策理论。
 
 > [!citation-card]- 德尔菲报告对批判性思维的奠基性界定
 > 我们将批判性思维理解为有目的的、自我调节的判断；这种判断表现为对证据、概念、方法、标准或情境考量的解释、分析、评价和推论，以及对该判断所依据的理由之阐明。[[Argument_Abrami_2015_RER|(Abrami et al., 2015, p. 277)]]

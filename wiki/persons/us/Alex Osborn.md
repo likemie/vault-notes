@@ -17,6 +17,9 @@ related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#bfdbfe"
+born: "1888"
+died: "1966"
+lifespan: "1888–1966"
 tags:
   - person/us
   - theme/creativity
@@ -47,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-11
 ---
 
 # Alex Osborn
@@ -57,6 +60,7 @@ updated: 2026-09-03
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1888–1966
 > - **身份位置** 美国广告家、应用创造学奠基人、BBDO 广告公司联合创始人、纽约州立大学布法罗分校[[Creativity|创造力]]研究先驱。
 > - **核心角色** 20 世纪应用创造力运动（Applied Creativity Movement）的奠基人，打破了创造力仅属少数艺术天才的唯心神话，将[[Divergent Thinking|发散思维]]与创新构想转化为大众可学、可练、可操作的标准化规程。
 > - **代表贡献** 创立[[Brainstorming|头脑风暴]]法、联合开创[[Creative Problem Solving|创造性问题解决]]（Osborn-Parnes CPS）模型雏形、提出包含 73 问的创造力设问检核表（[[SCAMPER]] 雏形）。

@@ -11,6 +11,9 @@ person_related_count: 18
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
+born: "1944"
+died: "2016"
+lifespan: "1944–2016"
 tags:
 - region/uk
 - field/human-geography
@@ -42,14 +45,15 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-12'
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 # Doreen Massey
 
 ## 简介
 
-> [!info]
-> Doreen Massey（1944–2016），英国人文地理学家，以对空间、地方和权力的关系性理论著称。她的开放[[Ontology|本体论]]和[[Multiplicity|多重性]]概念对高等教育研究中的空间分析和地缘政治理论产生了重要影响。[[Argument_Marginson_2025_ROE|Marginson (2025)]]以 Massey 的 *For Space*（2005）作为理解[[Space-Making|高等教育空间制造]]和地缘政治的核心理论基础([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 3–11]])。
+> [!person-profile] 人物档案
+> - **生卒年份** 1944–2016
+> - **身份位置** Doreen Massey（1944–2016），英国人文地理学家，以对空间、地方和权力的关系性理论著称。她的开放[[Ontology|本体论]]和[[Multiplicity|多重性]]概念对高等教育研究中的空间分析和地缘政治理论产生了重要影响。[[Argument_Marginson_2025_ROE|Marginson (2025)]]以 Massey 的 *For Space*（2005）作为理解[[Space-Making|高等教育空间制造]]和地缘政治的核心理论基础([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 3–11]])。
 
 ---
 

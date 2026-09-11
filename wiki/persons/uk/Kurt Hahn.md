@@ -11,6 +11,9 @@ person_related_count: 6
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
+born: "1886"
+died: "1974"
+lifespan: "1886–1974"
 tags:
   - region/uk
   - field/educational-philosophy
@@ -32,7 +35,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-08-17
+updated: 2026-09-11
 ---
 
 # Kurt Hahn
@@ -42,6 +45,7 @@ updated: 2026-08-17
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1886–1974
 > - **身份位置** 德国犹太裔教育家，后归化英国；曾任萨勒姆学校校长，并在英国推动多项青年教育项目。
 > - **核心角色** 把国际和解、行动教育与共同服务结合，为大西洋学院及[[United World Colleges|联合世界书院]]提供教育愿景。
 > - **代表贡献** 强调教育必须改变青年人的态度与行动，并以跨文化共同生活、挑战性服务、团队领导和个人热情实现这一目标。[[Argument_Peterson_1987_OpenCourt_Ch01|Peterson (1987, Ch. 1, pp. 2–3)]]

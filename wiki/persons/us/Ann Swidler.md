@@ -11,20 +11,23 @@ person_related_count: 9
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
+born: "1944"
+died: ""
+lifespan: "1944–至今"
 tags:
   - ann-swidler
   - cultural-sociology
   - region/us
 related_concepts:
   - "[[Paradigm]]"
-  - "[[Analytic Framework]]"
   - "[[Symbolic Boundary]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
 related_theories:
   - "[[Culture as Toolkit]]"
   - "[[Dual-Process Model of Culture in Action]]"
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons:
   - "[[Yajun Zheng]]"
 related_facts: []
@@ -33,13 +36,13 @@ related_arguments:
 confidence: low
 status: draft
 created: 2026-05-08
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 ## 简介
 
-> [!info] 简介
-> Ann Swidler（安·斯威德勒），美国文化社会学家，以 1986 年在《美国社会学评论》（*American Sociological Review*）上发表的论文 *Culture in Action: Symbols and Strategies* 提出[[Culture as Toolkit|文化工具箱]]理论（Culture as Toolkit）而著称。该理论成为文化社会学领域与 Weber-Parsons 价值观驱动[[Paradigm|范式]]并立的经典范式。[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]以该理论作为"大学过程"[[Analytic Framework|分析框架]]的核心理论支柱之一。
->
+> [!person-profile] 人物档案
+> - **生卒年份** 1944–至今
+> - **身份位置** Ann Swidler（安·斯威德勒），美国文化社会学家，以 1986 年在《美国社会学评论》（*American Sociological Review*）上发表的论文 *Culture in Action: Symbols and Strategies* 提出[[Culture as Toolkit|文化工具箱]]理论（Culture as Toolkit）而著称。该理论成为文化社会学领域与 Weber-Parsons 价值观驱动[[Paradigm|范式]]并立的经典范式。[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]以该理论作为"大学过程"[[Analytic Framework|分析框架]]的核心理论支柱之一。
 
 ## 生平与职涯
 

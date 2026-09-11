@@ -12,6 +12,9 @@ person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
+born: "1959"
+died: ""
+lifespan: "1959–至今"
 tags:
   - field/history-of-education
   - field/curriculum-studies
@@ -41,7 +44,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-04
-updated: 2026-07-11
+updated: 2026-09-11
 ---
 
 # Daniel Tröhler
@@ -51,6 +54,7 @@ updated: 2026-07-11
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1959–至今
 > - **身份位置** 瑞士教育历史与课程理论学者。曾任卢森堡大学教授，现为维也纳大学（University of Vienna）教育学教授。
 > - **核心角色** 课程历史与地缘教育政治批判的代表人物。他解构了新自由主义数据治理与国际测试（如 [[PISA]]）背后的技术官僚神话，并挑战了新制度主义[[World Society Theory|世界文化理论]]的去政治化倾向，强调课程与比较教育的本质是国家利益竞争与地缘政治权力游戏。
 > - **代表贡献** 提出课程变革的“国家利益驱动论”；解构比较教育作为地缘[[Epistemology|认识论]]权力游戏的历史本质。

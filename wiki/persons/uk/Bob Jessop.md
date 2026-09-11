@@ -11,6 +11,9 @@ person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
+born: "1944"
+died: "2024"
+lifespan: "1944–2024"
 tags:
 - bob-jessop
 - cultural-political-economy
@@ -43,9 +46,9 @@ updated: 2026-09-11
 ---
 ## 简介
 
-> [!info]
-
-Bob Jessop，英国社会学家和政治经济学家，兰卡斯特大学社会学系教授。以[[Cultural Political Economy|文化政治经济学]]（Cultural Political Economy, CPE）框架的创立和发展著称，是将[[Knowledge-Based Economy|知识经济]]理论化为资本积累体制的关键学者。[[Argument_Moisio_2022_Springer|Moisio (2022)]]在分析[[Knowledge-Based Economization|知识经济化]]的地缘政治维度时，广泛借用了 Jessop 的概念工具——特别是"想象"（imaginaries）的构成性和履行性角色、以及 KBE 作为"霸权的元治理对象"的定位([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.23, 26–27]])。
+> [!person-profile] 人物档案
+> - **生卒年份** 1944–2024
+> - **身份位置** Bob Jessop，英国社会学家和政治经济学家，兰卡斯特大学社会学系教授。以[[Cultural Political Economy|文化政治经济学]]（Cultural Political Economy, CPE）框架的创立和发展著称，是将[[Knowledge-Based Economy|知识经济]]理论化为资本积累体制的关键学者。[[Argument_Moisio_2022_Springer|Moisio (2022)]]在分析[[Knowledge-Based Economization|知识经济化]]的地缘政治维度时，广泛借用了 Jessop 的概念工具——特别是"想象"（imaginaries）的构成性和履行性角色、以及 KBE 作为"霸权的元治理对象"的定位([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.23, 26–27]])。
 
 ---
 

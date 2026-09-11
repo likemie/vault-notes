@@ -12,6 +12,9 @@ person_related_count: 7
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
+born: "1930"
+died: "1997"
+lifespan: "1930–1997"
 tags:
 - schon
 - professional-practice
@@ -34,12 +37,13 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-03'
-updated: 2026-07-11
+updated: 2026-09-11
 ---
 ## 简介
 
-> [!info] 简介
-> Donald A. Schön（1930–1997）是美国哲学家和组织学习理论家，MIT 城市研究与规划教授，以对专业实践和[[Reflexivity|反思性]]实践（reflective practice）的开创性研究著称。他提出了"反思性实践者"（The Reflective Practitioner）概念和对[[Technical Rationality|技术理性]]（Technical Rationality）的系统批判。
+> [!person-profile] 人物档案
+> - **生卒年份** 1930–1997
+> - **身份位置** Donald A. Schön（1930–1997）是美国哲学家和组织学习理论家，MIT 城市研究与规划教授，以对专业实践和[[Reflexivity|反思性]]实践（reflective practice）的开创性研究著称。他提出了"反思性实践者"（The Reflective Practitioner）概念和对[[Technical Rationality|技术理性]]（Technical Rationality）的系统批判。
 
 ## 生平与职涯
 

@@ -11,6 +11,9 @@ person_related_count: 7
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
+born: "c. 1970"
+died: ""
+lifespan: "c. 1970–至今"
 tags:
 - sean-mccusker
 - evidence-based-education
@@ -32,12 +35,13 @@ related_facts:
 confidence: low
 status: draft
 created: '2026-05-01'
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 ## 简介
 
-> [!info] 简介
-> Sean McCusker 任职于英国诺桑比亚大学（Northumbria University）社会科学系（Department of Social Sciences）。他与 [[Terry Wrigley]] 合作发表了关于证据本位教学科学观的批判性研究。
+> [!person-profile] 人物档案
+> - **生卒年份** c. 1970–至今
+> - **身份位置** Sean McCusker 任职于英国诺桑比亚大学（Northumbria University）社会科学系（Department of Social Sciences）。他与 [[Terry Wrigley]] 合作发表了关于证据本位教学科学观的批判性研究。
 
 ## 核心思想
 

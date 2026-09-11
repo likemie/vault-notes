@@ -10,6 +10,9 @@ person_related_count: 10
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
+born: "384 BCE"
+died: "322 BCE"
+lifespan: "384 BCE – 322 BCE"
 tags:
 - region/greece
 - region/western
@@ -38,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-25
-updated: 2026-07-25
+updated: 2026-09-11
 ---
 
 # Aristotle
@@ -48,6 +51,7 @@ updated: 2026-07-25
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 384 BCE – 322 BCE
 > - **身份位置** 古希腊哲学家（384–322 BCE），出生于斯塔吉拉，古希腊哲学三大奠基人之一。
 > - **核心角色** 创立吕克昂学园（Lyceum），提出目的论（Telos）、[[Phronesis|实践智慧]]（[[Phronesis]]）、德性伦理与[[Habituation|习惯化]]教育论，在西方教育哲学中代表了强调理性功能与秩序培育的经典传统。
 > - **代表贡献** 《尼各马可伦理学》《政治学》。

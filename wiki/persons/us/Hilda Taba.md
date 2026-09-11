@@ -11,6 +11,9 @@ person_related_count: 2
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
+born: "1902"
+died: "1967"
+lifespan: "1902–1967"
 tags:
   - region/us
   - field/curriculum-theory
@@ -27,7 +30,7 @@ related_arguments: []
 confidence: high
 status: active
 created: 2026-07-26
-updated: 2026-07-26
+updated: 2026-09-11
 ---
 
 # Hilda Taba
@@ -37,6 +40,7 @@ updated: 2026-07-26
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1902–1967
 > - **身份位置** 爱沙尼亚裔美国教育家、课程理论家（1902–1967），旧金山州立大学教授。
 > - **核心角色** 现代课程开发理论与概念教学法（Conceptual Teaching）的核心先驱。
 > - **代表著作** *Curriculum Development: Theory and Practice* (1962)。

@@ -11,6 +11,9 @@ person_related_count: 4
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
+born: "1908"
+died: "2000"
+lifespan: "1908–2000"
 tags: []
 related_concepts:
   - "[[Empiricism]]"
@@ -26,7 +29,7 @@ related_arguments: []
 confidence: high
 status: draft
 created: 2026-08-18
-updated: 2026-08-18
+updated: 2026-09-11
 ---
 
 # W. V. O. Quine
@@ -36,6 +39,7 @@ updated: 2026-08-18
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1908–2000
 > - **身份位置** 美国分析哲学家、逻辑学家，哈佛大学教授，20世纪下半叶最有影响力的哲学家之一。
 > - **核心角色** 通过《[[Empiricism|经验论]]的两个教条》和《自然化的[[Epistemology|认识论]]》，摧毁了逻辑[[Positivism|实证主义]]的先验基础，开启了当代哲学的自然化转向。
 > - **代表贡献** 提出[[Epistemological Naturalism|认识论自然主义]]，主张将认识论并入心理学和认知科学。

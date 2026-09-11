@@ -11,6 +11,9 @@ person_related_count: 20
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
+born: "1947"
+died: ""
+lifespan: "1947–至今"
 tags:
   - anthony-bryk
   - improvement-science
@@ -47,7 +50,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: '2026-06-19'
+updated: 2026-09-11
 ---
 
 # Anthony Bryk
@@ -57,6 +60,7 @@ updated: '2026-06-19'
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1947–至今
 > - **身份位置** 美国教育研究者与组织改进学者，卡内基教学促进基金会（Carnegie Foundation for the Advancement of Teaching）前主席。
 > - **核心角色** 将[[Improvement Science|改进科学]]与[[Snowball Sampling|网络化]]改进共同体（Networked Improvement Communities, NICs）模型系统性引入教育研究领域的先驱与领军人物。
 > - **代表贡献** 系统构建教育[[Improvement Science|改进科学]]方法论体系、协同倡导 “网络化改进共同体”（Networked Improvement Communities, NICs）组织模型、提出 “[[Practice-Based Evidence|基于实践的证据]]”（practice-based evidence）概念。

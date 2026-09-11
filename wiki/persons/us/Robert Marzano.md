@@ -11,6 +11,9 @@ person_related_count: 8
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
+born: "1946"
+died: ""
+lifespan: "1946–至今"
 tags:
 - robert-marzano
 - meta-analysis
@@ -35,12 +38,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-06-08'
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 ## 简介
 
-> [!info]
-> Robert J. Marzano（1940s–）是美国教育研究者，以教学策略的综合研究闻名。1998年，他为美国中大陆地区教育实验室（McREL）发表了一项理论驱动的[[Meta-meta-analysis|元综合]]（meta-synthesis），综合了100多项[[Meta-analysis|元分析]]和4000多个实验-控制组比较。与 Hattie 的排名表方式不同，Marzano 强调按教学功能对策略进行理论分类，追求课堂实践的可操作性([[Argument_Higgins_2016_RE|Higgins, 2016, p.43]])。
+> [!person-profile] 人物档案
+> - **生卒年份** 1946–至今
+> - **身份位置** Robert J. Marzano（1940s–）是美国教育研究者，以教学策略的综合研究闻名。1998年，他为美国中大陆地区教育实验室（McREL）发表了一项理论驱动的[[Meta-meta-analysis|元综合]]（meta-synthesis），综合了100多项[[Meta-analysis|元分析]]和4000多个实验-控制组比较。与 Hattie 的排名表方式不同，Marzano 强调按教学功能对策略进行理论分类，追求课堂实践的可操作性([[Argument_Higgins_2016_RE|Higgins, 2016, p.43]])。
 
 ---
 

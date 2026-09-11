@@ -10,6 +10,9 @@ person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
+born: "c. 470 BCE"
+died: "399 BCE"
+lifespan: "c. 470 BCE – 399 BCE"
 tags:
 - region/greece
 - region/western
@@ -38,14 +41,15 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 # Socrates
 
 ## 简介
 
-> [!info]
-> 苏格拉底（469–399 BCE）是古希腊哲学家，未留下任何著作——其思想通过学生[[Plato|柏拉图]]的[[Dialogue in Education|对话]]录为人所知([[Argument_Li_2012_Cambridge|Li, 2012, p.27 脚注 1]])。Li 将苏格拉底视为西方学习传统中"[[Examined Life|省察的生活]]"和"心智及其奇迹"两个主题的最重要人格化体现——他不仅是"叮咬富人和权贵的牛虻"，也是"执行审慎判断与明智评估的[[Sage|圣人]]"，是西方[[Critical Thinking|批判性思维]]的[[Avatar|化身]]([[Argument_Li_2012_Cambridge|Li, 2012, p.33]])。
+> [!person-profile] 人物档案
+> - **生卒年份** c. 470 BCE – 399 BCE
+> - **身份位置** 苏格拉底（469–399 BCE）是古希腊哲学家，未留下任何著作——其思想通过学生[[Plato|柏拉图]]的[[Dialogue in Education|对话]]录为人所知([[Argument_Li_2012_Cambridge|Li, 2012, p.27 脚注 1]])。Li 将苏格拉底视为西方学习传统中"[[Examined Life|省察的生活]]"和"心智及其奇迹"两个主题的最重要人格化体现——他不仅是"叮咬富人和权贵的牛虻"，也是"执行审慎判断与明智评估的[[Sage|圣人]]"，是西方[[Critical Thinking|批判性思维]]的[[Avatar|化身]]([[Argument_Li_2012_Cambridge|Li, 2012, p.33]])。
 
 ---
 

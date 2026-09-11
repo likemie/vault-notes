@@ -12,6 +12,9 @@ person_related_count: 19
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
+born: "1942"
+died: ""
+lifespan: "1942–至今"
 tags:
   - field/sociology
   - theory/informationalism
@@ -27,12 +30,12 @@ related_concepts:
   - "[[Ideological Capture of Science]]"
   - "[[Champ]]"
   - "[[Methodological Nationalism]]"
-  - "[[Analytic Framework]]"
 related_theories:
   - "[[Network Society]]"
   - "[[Informationalism]]"
 related_methods:
   - "[[Snowball Sampling]]"
+  - "[[Analytic Framework]]"
 related_persons: []
 related_facts:
   - "[[Lysenkoism]]"
@@ -44,7 +47,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-12
-updated: 2026-06-24
+updated: 2026-09-11
 ---
 
 # Manuel Castells
@@ -54,6 +57,7 @@ updated: 2026-06-24
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1942–至今
 > - **身份位置** 西班牙社会学家，南加州大学传播学讲座教授。
 > - **核心角色** 信息时代和[[Network Society|网络社会]]理论的主要奠基人。在教育研究中，其网络国家、[[Space of Flows and Space of Places|流动空间与地方空间]]及媒体政治等概念被广泛用于解释跨国教育政策话语的流通、翻译与本土[[Shape-Shifting|形变]]机制。
 > - **代表贡献** 提出了 [[Network Society|网络社会]]、[[Space of Flows and Space of Places|流动空间与地方空间]]、网络国家（Network State）与媒体政治（Media Politics）理论。

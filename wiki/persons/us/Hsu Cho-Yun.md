@@ -11,6 +11,9 @@ person_related_count: 6
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
+born: "1930"
+died: ""
+lifespan: "1930–至今"
 tags:
   - region/us
   - region/china
@@ -43,6 +46,7 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1930–至今
 > - **身份位置** 中国历史学家、中央研究院院士、匹兹堡大学荣休教授，海外文化保守主义史学代表人物。
 > - **核心角色** 在中国史学界与比较教育研究中，其著作 *China: A New Cultural History* (2012) 被学术界提炼为“族裔文化型中国观”的理论表述，与[[Fei Xiaotong|费孝通]]的“领土型中国观”形成经典镜像。[[Argument_Xu_2024_CE|(Xu, 2024, pp. 575–576)]]
 > - **代表贡献** 提出以汉族文化演化与互动为主轴的中华文明史框架；其著作自 1980 年代起被广泛引入大陆与港台教育界，塑造了关于传统文化认同与国家历史演进的公共知识。[[Argument_Xu_2024_CE|(Xu, 2024, p. 587)]]

@@ -12,6 +12,9 @@ person_related_count: 8
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
+born: "1896"
+died: "1980"
+lifespan: "1896–1980"
 tags:
 - piaget
 - paradigm/constructivist
@@ -33,12 +36,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: '2026-08-25'
+updated: 2026-09-11
 ---
 ## 简介
 
-> [!info] 简介
-> 瑞士心理学家，[[Constructivist Paradigm|建构主义]]与认知发展阶段论的创始人。他是第一位系统研究认知发展的心理学家，开创了考察学习的新方法([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.1]])。
+> [!person-profile] 人物档案
+> - **生卒年份** 1896–1980
+> - **身份位置** 瑞士心理学家，[[Constructivist Paradigm|建构主义]]与认知发展阶段论的创始人。他是第一位系统研究认知发展的心理学家，开创了考察学习的新方法([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.1]])。
 
 ## 核心思想
 

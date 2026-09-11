@@ -12,6 +12,9 @@ person_related_count: 40
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
+born: "1861"
+died: "1943"
+lifespan: "1861–1943"
 tags:
   - subject/comparative-education
   - theme/educational-transfer
@@ -66,7 +69,7 @@ related_instruments: []
 confidence: high
 status: draft
 created: '2026-06-08'
-updated: 2026-09-07
+updated: 2026-09-11
 ---
 
 # Michael Sadler
@@ -76,6 +79,7 @@ updated: 2026-09-07
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1861–1943
 > - **身份位置** 英国比较教育先驱、教育官员与思想家。曾任英国教育部特别调查与报告办公室（[[Office of Special Inquiries and Reports|OSIR]]）首任主任、曼彻斯特大学教授、利兹大学校长（Vice-Chancellor）、牛津大学大学学院院长，是比较教育历史主义与情境分析路径的奠基人。
 > - **核心角色** 传记学者希金森（J. H. Higginson）将其概括为兼具深邃学术造诣与宏阔公共眼界的“教育政治家”（Educational Statesman），视比较教育为推动国家制度重塑的“改革能动杠杆”（Agency of reform）。在比较教育知识网络中，他既是国家地缘竞争力情报调查的开创者，又是防范机械政策移植、奠立[[Situative Perspective|情境主义]]防线的方法论宗师。
 > - **代表贡献** 创立特别调查与报告办公室、主持编纂 11 卷跨国教育调查报告、发表 1900 年吉尔福德演讲并提出教育系统的“不可移植性”假说、奠定比较教育的[[Situative Perspective|情境主义]]分析方法。

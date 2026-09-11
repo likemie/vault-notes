@@ -11,6 +11,9 @@ person_related_count: 10
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
+born: "1949"
+died: ""
+lifespan: "1949–至今"
 tags:
 - jorunn-mller
 - region/norway
@@ -33,12 +36,13 @@ related_facts:
 confidence: high
 status: draft
 created: '2026-05-02'
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 ## 简介
 
-> [!info] 简介
-> Jorunn Møller，挪威奥斯陆大学（University of Oslo）教师教育与学校研究系教授。研究兴趣涵盖教育领导力与治理、改革政策和学校问责制([[Argument_Møller_2017_EERJ|Møller, 2017, p.385]])。
+> [!person-profile] 人物档案
+> - **生卒年份** 1949–至今
+> - **身份位置** Jorunn Møller，挪威奥斯陆大学（University of Oslo）教师教育与学校研究系教授。研究兴趣涵盖教育领导力与治理、改革政策和学校问责制([[Argument_Møller_2017_EERJ|Møller, 2017, p.385]])。
 
 ## 核心思想
 

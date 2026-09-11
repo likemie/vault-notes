@@ -11,6 +11,9 @@ person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
+born: "1910"
+died: "2005"
+lifespan: "1910–2005"
 tags:
   - region/china
   - discipline/anthropology
@@ -37,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-25'
-updated: '2026-07-22'
+updated: 2026-09-11
 ---
 
 # Fei Xiaotong
@@ -47,6 +50,7 @@ updated: '2026-07-22'
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1910–2005
 > - **身份位置** 中国社会学家、人类学家，曾任中国社会科学院社会学研究所所长、民盟中央主席。
 > - **核心角色** 中国现代社会学与人类学的奠基人之一。其 1988 年对“[[Zhonghua Minzu|中华民族多元一体]]格局”的系统阐发，重塑了当代的国族叙事，为国家民族政策转型及历史教育中的领土型中国观奠定了核心理论基础。[[Argument_Bulag_2024_CE|(Bulag, 2024, pp. 101–102)]]; [[Argument_Xu_2024_CE|(Xu, 2024, p. 576)]]
 > - **代表贡献** 提出“[[Zhonghua Minzu|中华民族多元一体]]”格局与“差序格局”理论，开创中国乡村社会学与微观社区[[Fieldwork|实地调查]]研究方法。

@@ -11,6 +11,9 @@ person_related_count: 17
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
+born: "c. 1965"
+died: ""
+lifespan: "c. 1965–至今"
 tags:
 - region/brazil
 - field/epistemology
@@ -42,16 +45,15 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-11'
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 # Dell Delambre
 
 ## 简介
 
-> [!info]
-> Dell Delambre 是巴西学者和实践者，任职于 WTS Sustainable Business & Coaching（位于里约热内卢）。其工作跨越商业教练、可持续发展、社区发展和[[Epistemology|认识论]]研究，提出 [[Creative Tension of Sense]] 理论和 [[Ganz-Methode]] 方法论。他的研究根植于巴西里约热内卢的基层实践——包括贫民窟 (favela) 社区剧场、[[Social Museology|社会博物馆学]] (social museology) 和 [[Ecomuseology|生态博物馆学]]——试图在西方现代性认识论霸权之外构建替代性知识[[Paradigm|范式]]([[Argument_Delambre_2022_Springer|Delambre, 2022, p.105, 107, 109–110]])。
->
-> 其思想[[Dialogue in Education|对话]]对象涵盖 [[Walter Mignolo]]（[[Decolonial Geopolitics of Knowledge|去殖民知识地缘政治]]）、Enrique Dussel（超现代性）、Boaventura de Sousa Santos（南方认识论）、Enrique Leff（环境理性）和 Aníbal Quijano（殖民性权力）等拉丁美洲批判思想家。他将这些高度抽象的去殖民理论转化为具体的社区实践方法，是少数试图在批判和建构之间架桥的当代认识论学者之一。
+> [!person-profile] 人物档案
+> - **生卒年份** c. 1965–至今
+> - **身份位置** Dell Delambre 是巴西学者和实践者，任职于 WTS Sustainable Business & Coaching（位于里约热内卢）。其工作跨越商业教练、可持续发展、社区发展和[[Epistemology|认识论]]研究，提出 [[Creative Tension of Sense]] 理论和 [[Ganz-Methode]] 方法论。他的研究根植于巴西里约热内卢的基层实践——包括贫民窟 (favela) 社区剧场、[[Social Museology|社会博物馆学]] (social museology) 和 [[Ecomuseology|生态博物馆学]]——试图在西方现代性认识论霸权之外构建替代性知识[[Paradigm|范式]]([[Argument_Delambre_2022_Springer|Delambre, 2022, p.105, 107, 109–110]])。 其思想[[Dialogue in Education|对话]]对象涵盖 [[Walter Mignolo]]（[[Decolonial Geopolitics of Knowledge|去殖民知识地缘政治]]）、Enrique Dussel（超现代性）、Boaventura de Sousa Santos（南方认识论）、Enrique Leff（环境理性）和 Aníbal Quijano（殖民性权力）等拉丁美洲批判思想家。他将这些高度抽象的去殖民理论转化为具体的社区实践方法，是少数试图在批判和建构之间架桥的当代认识论学者之一。
 
 ## 生平与职涯
 

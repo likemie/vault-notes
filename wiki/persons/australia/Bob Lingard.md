@@ -11,6 +11,9 @@ person_related_count: 3
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
+born: "1949"
+died: ""
+lifespan: "1949–至今"
 tags:
   - region/australia
   - theme/education-policy
@@ -27,7 +30,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-06-07
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 # Bob Lingard
 
@@ -35,8 +38,9 @@ updated: '2026-06-08'
 
 ## 简介
 
-> [!info] 简介
-> Bob Lingard 是澳大利亚教育政策学者，与 Rizvi 合著了《全球化教育政策》（Globalizing Education Policy, 2010）。他们的工作关注全球化背景下教育政策的[[Network Governance|网络治理]]和跨国力量，主张需要新的理论和方法论工具来理解日益[[Snowball Sampling|网络化]]的世界（引自 Beech & Artopoulos, 2015）。
+> [!person-profile] 人物档案
+> - **生卒年份** 1949–至今
+> - **身份位置** Bob Lingard 是澳大利亚教育政策学者，与 Rizvi 合著了《全球化教育政策》（Globalizing Education Policy, 2010）。他们的工作关注全球化背景下教育政策的[[Network Governance|网络治理]]和跨国力量，主张需要新的理论和方法论工具来理解日益[[Snowball Sampling|网络化]]的世界（引自 Beech & Artopoulos, 2015）。
 
 ---
 

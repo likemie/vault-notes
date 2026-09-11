@@ -11,6 +11,9 @@ person_related_count: 7
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
+born: "c. 1972"
+died: ""
+lifespan: "c. 1972–至今"
 tags:
 - julie-nelson
 - evidence-informed-practice
@@ -34,12 +37,13 @@ related_facts:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 ## 简介
 
-> [!info] 简介
-> Julie Nelson 是英国 NFER 研究者。当前 vault 中最值得记录的，不是她的机构头衔本身，而是她在 [[Evidence-Informed Practice]] 的概念整合、测量工具开发和[[Research Utilization|研究使用]]经验化方面的作用([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, pp.127–133]])。
+> [!person-profile] 人物档案
+> - **生卒年份** c. 1972–至今
+> - **身份位置** Julie Nelson 是英国 NFER 研究者。当前 vault 中最值得记录的，不是她的机构头衔本身，而是她在 [[Evidence-Informed Practice]] 的概念整合、测量工具开发和[[Research Utilization|研究使用]]经验化方面的作用([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, pp.127–133]])。
 
 ## 核心思想
 

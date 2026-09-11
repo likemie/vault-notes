@@ -11,6 +11,9 @@ person_related_count: 4
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
+born: "1910"
+died: "1988"
+lifespan: "1910–1988"
 tags:
   - region/uk
   - field/international-education
@@ -30,7 +33,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-08-17
+updated: 2026-09-11
 ---
 
 # Desmond Hoare
@@ -40,6 +43,7 @@ updated: 2026-08-17
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 1910–1988
 > - **身份位置** 英国皇家海军工程少将，1958 年受邀担任大西洋学院创校校长。
 > - **经验基础** 海军工作包含学徒训练，志愿服务长期参与男孩俱乐部；虽未担任过中学校长，却具有技术训练、青年工作与工程实施经验。
 > - **核心角色** 把[[Kurt Hahn|库尔特·哈恩]]的共同任务、服务、技能和跨文化理解原则转化为校址规划、人员组织、活动课程与共同生活制度。[[Argument_Peterson_1987_OpenCourt_Ch01|Peterson (1987, Ch. 1, pp. 3–7)]]

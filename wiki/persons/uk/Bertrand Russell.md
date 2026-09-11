@@ -11,6 +11,9 @@ person_related_count: 6
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
+born: "1872"
+died: "1970"
+lifespan: "1872–1970"
 tags:
 - region/uk
 - region/western
@@ -22,10 +25,10 @@ tags:
 related_concepts:
   - "[[Epistemology]]"
   - "[[Theory of Knowledge]]"
-  - "[[Analytic Framework]]"
   - "[[Reliability]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons:
   - "[[Jean-Jacques Rousseau]]"
 related_facts: []
@@ -34,14 +37,15 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-08-20
+updated: 2026-09-11
 ---
 # Bertrand Russell
 
 ## 简介
 
-> [!info]
-> 伯特兰·罗素（1872–1970）是英国哲学家、逻辑学家、数学家和公共知识分子，分析哲学的奠基人之一。他与怀特海（Alfred North Whitehead）合著的《数学原理》（*Principia Mathematica*，1910–1913）试图将全部数学还原为逻辑，是 20 世纪哲学最具雄心的智识工程之一。他写作面向大众的《哲学问题》（1912）和《西方哲学史》（1945）使哲学走出学院高墙，后者为他赢得了 1950 年诺贝尔文学奖。他终其一生是一位积极的社会活动家——反战、反核、批评宗教和威权。在 Li 第 2 章中，罗素扮演双重角色：他的 *A History of Western Philosophy* 是 Li 梳理西方智识传统的主要参考([[Argument_Li_2012_Cambridge|Li, 2012, p.57 脚注 3]])；他对数学知识特征的描述——"确定、精确、仅通过思维即可获得"——被 Li 直接引用来阐明西方以数学为模型的 知识确定性理想([[Argument_Li_2012_Cambridge|Li, 2012, p.24]])。
+> [!person-profile] 人物档案
+> - **生卒年份** 1872–1970
+> - **身份位置** 伯特兰·罗素（1872–1970）是英国哲学家、逻辑学家、数学家和公共知识分子，分析哲学的奠基人之一。他与怀特海（Alfred North Whitehead）合著的《数学原理》（*Principia Mathematica*，1910–1913）试图将全部数学还原为逻辑，是 20 世纪哲学最具雄心的智识工程之一。他写作面向大众的《哲学问题》（1912）和《西方哲学史》（1945）使哲学走出学院高墙，后者为他赢得了 1950 年诺贝尔文学奖。他终其一生是一位积极的社会活动家——反战、反核、批评宗教和威权。在 Li 第 2 章中，罗素扮演双重角色：他的 *A History of Western Philosophy* 是 Li 梳理西方智识传统的主要参考([[Argument_Li_2012_Cambridge|Li, 2012, p.57 脚注 3]])；他对数学知识特征的描述——"确定、精确、仅通过思维即可获得"——被 Li 直接引用来阐明西方以数学为模型的 知识确定性理想([[Argument_Li_2012_Cambridge|Li, 2012, p.24]])。
 
 > [!warning]
 > 第 2 章对罗素本人的思想未做分析——他主要作为来源和引用对象出现。本条目目前以 Li 的引用为基础，罗素在逻辑哲学、语言哲学、[[Epistemology|认识论]]等领域的完整贡献需从其他来源补充。

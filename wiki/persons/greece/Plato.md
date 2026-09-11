@@ -10,6 +10,9 @@ person_related_count: 19
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
+born: "c. 428 BCE"
+died: "348 BCE"
+lifespan: "c. 428 BCE – 348 BCE"
 tags:
 - region/greece
 - region/western
@@ -47,14 +50,15 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 # Plato
 
 ## 简介
 
-> [!info]
-> 柏拉图（427–347 BCE）是古希腊哲学家，与[[Socrates|苏格拉底]]、[[Aristotle|亚里士多德]]并列为西方哲学的三大奠基人。他出身雅典贵族，年轻时师从 [[Socrates|苏格拉底]]，苏格拉底被处死后他离开雅典游历十余年，返回后创立雅典学院（Academy）——西方历史上第一所高等学府，延续近九百年直至 529 年被查士丁尼关闭。他的全部著作以[[Dialogue in Education|对话]]录（Dialogues）形式写成，绝大多数以苏格拉底为主角展开哲学讨论。由于苏格拉底本人不立文字，柏拉图对话录也是后人了解苏格拉底思想的最主要来源——Li 注：此处的"苏格拉底"实为"柏拉图的苏格拉底"([[Argument_Li_2012_Cambridge|Li, 2012, p.27 脚注 1]])。
+> [!person-profile] 人物档案
+> - **生卒年份** c. 428 BCE – 348 BCE
+> - **身份位置** 柏拉图（427–347 BCE）是古希腊哲学家，与[[Socrates|苏格拉底]]、[[Aristotle|亚里士多德]]并列为西方哲学的三大奠基人。他出身雅典贵族，年轻时师从 [[Socrates|苏格拉底]]，苏格拉底被处死后他离开雅典游历十余年，返回后创立雅典学院（Academy）——西方历史上第一所高等学府，延续近九百年直至 529 年被查士丁尼关闭。他的全部著作以[[Dialogue in Education|对话]]录（Dialogues）形式写成，绝大多数以苏格拉底为主角展开哲学讨论。由于苏格拉底本人不立文字，柏拉图对话录也是后人了解苏格拉底思想的最主要来源——Li 注：此处的"苏格拉底"实为"柏拉图的苏格拉底"([[Argument_Li_2012_Cambridge|Li, 2012, p.27 脚注 1]])。
 
 ---
 

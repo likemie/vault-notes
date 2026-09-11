@@ -11,6 +11,9 @@ person_related_count: 8
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
+born: "c. 1977"
+died: ""
+lifespan: "c. 1977–至今"
 tags:
   - region/uk
   - theme/evidence-informed-practice
@@ -34,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-02
-updated: 2026-09-02
+updated: 2026-09-11
 ---
 
 # Chris Brown
@@ -44,6 +47,7 @@ updated: 2026-09-02
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** c. 1977–至今
 > - **身份位置** 英国杜伦大学（Durham University）教育学教授，曾任华威大学（Warwick）与伦敦大学学院教育学院（UCL IoE）教授。
 > - **核心角色** 国际“证据知情学校改进（Evidence-Informed School Improvement）”与教师专业学习网络（Professional Learning Networks, PLNs）的领军学者。
 > - **代表贡献** 提出并实证检验了整合 [[Data-Based Decision Making|DBDM]] 与 [[Research-Informed Teaching Practice|RITP]] 的[[School Enquiry Cycle|学校探究循环]]（School Enquiry Cycle）模型；出版多部关于[[School Leadership|学校领导]]如何利用研究证据的权威著作。

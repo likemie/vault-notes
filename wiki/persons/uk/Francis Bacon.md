@@ -9,6 +9,9 @@ person_related_count: 4
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
+born: "1561"
+died: "1626"
+lifespan: "1561–1626"
 tags: [person/philosopher, person/philosopher-of-science, theme/research-methodology]
 related_concepts:
   - "[[Scientific Method]]"
@@ -23,14 +26,16 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-07-11
+updated: 2026-09-11
 ---
 
 # Francis Bacon
 
-## 基本信息
+## 简介
 
-弗朗西斯·培根（Francis Bacon）是17世纪英国哲学家，被视为现代[[Scientific Method|经验科学]]方法论的奠基人之一（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
+> [!person-profile] 人物档案
+> - **生卒年份** 1561–1626
+> - **身份位置** 弗朗西斯·培根（Francis Bacon）是17世纪英国哲学家，被视为现代[[Scientific Method|经验科学]]方法论的奠基人之一（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
 
 ## 核心贡献
 

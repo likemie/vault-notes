@@ -11,6 +11,9 @@ person_related_count: 6
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
+born: "1944"
+died: "2000"
+lifespan: "1944–2000"
 tags:
 - case
 - paradigm/constructivist
@@ -30,12 +33,13 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-04'
-updated: '2026-06-08'
+updated: 2026-09-11
 ---
 ## 简介
 
-> [!info] 简介
-> [[Neo-Piagetian Theories|新皮亚杰理论]]家，进一步发展了 Pascual-Leone 的双因素认知发展模型，提出四子域发展模型([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.3]])。
+> [!person-profile] 人物档案
+> - **生卒年份** 1944–2000
+> - **身份位置** [[Neo-Piagetian Theories|新皮亚杰理论]]家，进一步发展了 Pascual-Leone 的双因素认知发展模型，提出四子域发展模型([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.3]])。
 
 ## 核心思想
 
