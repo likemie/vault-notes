@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Curriculum Design Coherence Model",
+      "path": "wiki/theories/curriculum/Curriculum Design Coherence Model.md"
+    },
+    {
+      "basename": "Bob Lingard",
+      "path": "wiki/persons/australia/Bob Lingard.md"
+    },
+    {
       "basename": "Alejandro Artopoulos",
       "path": "wiki/persons/argentina/Alejandro Artopoulos.md"
+    },
+    {
+      "basename": "Jason Beech",
+      "path": "wiki/persons/argentina/Jason Beech.md"
     },
     {
       "basename": "Champ",
@@ -187,18 +199,6 @@
     {
       "basename": "Integration in Mixed Methods",
       "path": "wiki/concepts/research-methodology/Integration in Mixed Methods.md"
-    },
-    {
-      "basename": "External Validity",
-      "path": "wiki/concepts/research-methodology/External Validity.md"
-    },
-    {
-      "basename": "Ecological Validity",
-      "path": "wiki/concepts/research-methodology/Ecological Validity.md"
-    },
-    {
-      "basename": "Document",
-      "path": "wiki/concepts/research-methodology/Document.md"
     }
   ],
   "omittedPaths": [],
