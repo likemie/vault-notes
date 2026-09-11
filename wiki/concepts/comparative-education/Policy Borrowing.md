@@ -7,7 +7,7 @@ aliases:
 summary: "教育改革选择性参照外部政策经验并在本地重新解释、合法化和变形的过程，是比较教育分析跨国改革流动的核心概念"
 type: concept
 domain: "comparative-education"
-related_count: 58
+related_count: 61
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -32,8 +32,10 @@ related_concepts:
   - "[[Pre-Transfer Agency]]"
   - "[[Reference Society]]"
   - "[[Rationalism in International Relations]]"
+  - "[[Performance Pay]]"
   - "[[Re-Westernisation]]"
   - "[[Concept Mapping]]"
+  - "[[Rashomon Effect]]"
   - "[[Realism in International Relations]]"
   - "[[Revolutionism]]"
   - "[[Government to Governance Shift]]"
@@ -79,13 +81,14 @@ related_arguments:
   - "[[Argument_Cowen_2009_CE]]"
   - "[[Argument_Amos_2022_Springer]]"
   - "[[Argument_Klerides_2023_CE]]"
+  - "[[Argument_Grey_2018_CE]]"
   - "[[Argument_Beech_2015_GSE]]"
   - "[[Argument_Golovchin_2019_ESC]]"
   - "[[Argument_Li_2025_HSSC]]"
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-09-08
+updated: 2026-09-11
 ---
 
 # Policy Borrowing
@@ -255,6 +258,9 @@ updated: 2026-09-08
 > [!claim] Kaloyannaki, P. & [[Andreas Kazamias|Kazamias, A.]] M.
 > **权力结构分流与作为合法化依据的政策借用** 政策借用的政治合法化功能早在 19 世纪比较教育学发端阶段便已成熟运作。政权体制的权力结构直接决定了跨国知识的处理方式：法国中央集权官僚体制允许行政决策者（如[[Victor Cousin|维克多·库森]]）将普鲁士经验直接写入国家实定法（1833 年基佐法案）；而在美国联邦分权与民主协商语境下，以[[Horace Mann|霍勒斯·曼]]、[[Calvin Stowe|卡尔文·斯托]]与[[Henry Barnard|亨利·巴纳德]]为代表的改革者缺乏行政强制权力，被迫将外部探究从“制度技术移植”根本转向“政治正当性辩护”。改革者战略性剥离欧洲专制外壳，抽取其公学实绩作为强有力的政治合法化依据（legitimating rationales），以此反击波士顿保守学监联盟与正统教会对体罚废除与公税办学的围攻，为合众国建立普及、免费且由公税支持的[[Common School Movement|公共学校]]（Common School）确立无可撼动的正当性基石。([[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias, 2009, pp. 26–34]])
 
+> [!claim] [[Argument_Grey_2018_CE|Grey & Morris (2018, pp. 116–122)]]
+> **媒介化治理与跨国借用的“遗漏话语”操作** 当代跨国政策借用不仅依赖官方文本，更演化为政治精英操纵个人与体制媒介资本的公关战。在英格兰 2013 年教师绩效工资制（[[Performance Pay|PRP]]）改革中，教育大臣动用新闻首发特权，高调借用 [[PISA]] 评估中的上海高分样板与 [[OECD]] 专家言论，声称重奖优秀教师是全球前沿趋势。然而，这一借用过程在认识论上严重依赖“遗漏话语（discourse of omission）”：系统性剔除经合组织全样本数据中“绩效工资与成绩无相关性”的核心事实，并掩盖上海依托教研组开展专业合作的制度真貌。大众媒介出于时效与流量压力集体陷入“政策规避（policy avoidance）”，未对借用主张的真实证据链展开实质审查，从而使缺乏本土民意授权与科学依据的激进私有化议程成功披上了“国际循证”的合法化外衣。
+
 ---
 
 ### 命题类型三　教育政策在跨国转移中必然因微观政治介入而发生形态变异与本土转译
@@ -289,7 +295,7 @@ updated: 2026-09-08
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **工具性借用与情境冲突** | 地缘竞争焦虑驱动工具性借鉴，常因本土历史文化防护引发体制排异 | 地缘危机恐慌期或赶超式改革语境 | Sadler; Klerides |
-> | **外部化合法化与政治修辞** | 操纵国际高声望话语进行“外化”论证，以合法化既有的本土政治议程 | 内部争议性大、需要寻求外部共识背书的决策 | Steiner-Khamsi; Klerides; Kaloyannaki & Kazamias |
+> | **外部化合法化与政治修辞** | 操纵国际高声望话语进行“外化”论证，以合法化既有的本土政治议程 | 内部争议性大、需要寻求外部共识背书的决策 | Steiner-Khamsi; Klerides; Kaloyannaki & Kazamias; Grey & Morris |
 > | **流动转译与形态变异** | 政策元素在转移中必然经历本地转译，在微观权力作用下产生[[Praxis\|实践]]变形 | 跨国政策移植的落地与实施阶段 | Cowen; Schriewer; Klerides |
 > | **合法化功能与行政强力边界** | 借用话语作为合法化策略，在政府拥有绝对命令权力的语境下面临失效 | 政治环境剧变、强制性行政权力接管时期 | Yan & Morris |
 
@@ -307,6 +313,7 @@ updated: 2026-09-08
 > - **2006 — 跨国吸引力情境地图** Rappleye 提出推拉力情境[[Concept Mapping|概念地图]]，理清了[[Pre-Transfer Agency|前转移能动性]]与多层次结构因素的作用机制。([[Argument_Rappleye_2006_RCIE|Rappleye, 2006]])
 > - **2009 — 形态变异理论主张** Cowen 建立“转移—[[Transfer Translation Transformation|转译]]—变形”链条，论证政策元素在跨国流动中由于微观权力的介入必然发生形态变异。([[Argument_Cowen_2009_CE|Cowen, 2009b]])
 > - **2012 — 政治借用与实质学习的系统区隔** Steiner-Khamsi 系统界定“政治借用”（选择性、仪式性）与“实质学习”（开放、交流性）的分野。
+> - **2018 — 媒介化全球治理与罗生门借用模型 (Mediatised Borrowing & Rashomon Dynamic)** [[Argument_Grey_2018_CE|Grey & Morris (2018)]] 揭示以 [[PISA]] 为代表的大规模跨国测评时代政策借用的新特征：政策借用从传统的官方行政调研升级为高度依赖大众媒介公关的“媒介化借用”；决策者通过“遗漏话语”剪裁外部卓越样板（如上海），而新闻媒体的“政策规避”使得未经检验的合法化借用得以逃避民主问责，使政策借用与[[Rashomon Effect|罗生门效应]]深度咬合。
 > - **2023 — 怀特三大传统地缘解构** Klerides 将[[Wight's Three Traditions of International Theory|国际关系三大传统]]（[[Realism in International Relations|现实主义]]、[[Rationalism in International Relations|理性主义]]和[[Revolutionism|革命主义]]）引入政策借用研究，将政策借用与地缘政治焦虑深度绑定，完成了概念的批判性地缘政治学转向。([[Argument_Klerides_2023_CE|Klerides, 2023]])
 > - **2025 — 威权/高压政治语境下的分析失效边界** 政策借用作为合法化工具的理论适用性被明确界定在“半开放协商政治”的权力边界内，高压威权与行政命令直接接管的现象为该框架确立了失效边界。([[Argument_Yan_2025_JCS|Yan & Morris, 2025]])
 
@@ -345,3 +352,5 @@ updated: 2026-09-08
 > - [[Argument_Beech_2015_GSE|Beech & Artopoulos (2015)]] — 批判传统政策借用局限于国家官方书面文本的静态[[Hypothesis|假设]]，从[[Network Governance|网络治理]]视角揭示去中心化非官方网络中话语权力的微观流转与转译机制。
 > - [[Argument_Amos_2022_Springer|Amos (2022)]] — 剖析[[Michael Sadler|迈克尔·萨德勒]]和迈克尔·考恩的学术遗产，说明政策借用如何随着现代性社会系统翻转从偶发外交变成常规合法化手段。
 > - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 将国际关系三大思想传统（[[Realism in International Relations|现实主义]]、[[Rationalism in International Relations|理性主义]]、[[Revolutionism|革命主义]]）引入政策流动研究，系统解构政策借用背后的地缘政治与生存焦虑底色。
+> - [[Argument_Grey_2018_CE|Grey & Morris (2018)]] — 剖析英格兰在 PISA 2012 发布后借用东亚（上海）与 OECD 话语推行教师绩效工资等五大争议政策的过程，揭示“遗漏话语”与媒体“政策规避”构成的媒介化政策借用合法化新机制。
+

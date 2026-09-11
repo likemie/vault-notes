@@ -25,7 +25,6 @@ related_concepts:
   - "[[Rashomon Effect]]"
   - "[[Performance Pay]]"
   - "[[Policy Borrowing]]"
-  - "[[Paradigm]]"
   - "[[Axiology]]"
   - "[[Chain of Evidence]]"
   - "[[Academic Achievement]]"
@@ -33,8 +32,6 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Tracking]]"
   - "[[Growth]]"
-  - "[[Falsification]]"
-  - "[[Hypothesis]]"
   - "[[Construct]]"
 related_theories:
   - "[[Human Capital Theory]]"
@@ -64,7 +61,7 @@ title: "Argument_Grey_2018_CE"
 argument_key: "Argument_Grey_2018_CE"
 argument_display_title: "PISA: multiple ‘truths’ and mediatised global governance"
 argument_kind: "journal-article"
-argument_related_count: 27
+argument_related_count: 24
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -188,12 +185,7 @@ issuing_organization: ""
 > | **核心功能与受众定位** | 供专业记者与研究人员速查英国在各个学科的分数与相对排位 | 面向大众媒体，提炼出易被引用的简短警句与改革分类 |
 > | **对政策倡导的态度** | 明确声明数据本身不直接推导出特定政策处方（p. 114） | 明确区分旧官僚系统与现代支持型系统，展开强烈政策倡导（pp. 114–116） |
 
-为了更直观地向媒体与公众推销其改革愿景，OECD 教育总监 Andreas Schleicher 在伦敦发布会上展示了对比教育体系改革路径的核心框架。
-
-> [!example]- 图1：OECD 教育改革路径对比（旧官僚系统与现代支持型系统）
-> ![](https://img.mylikemie.icu/sources/Grey_2018_CE/figures/Grey_2018_CE_Fig1_Education_Reform_Trajectories.jpg)
-
-图 1 展现了 OECD 官方在发布会上向全球媒体与政策受众极力倡导的改革愿景。原文通过红—黄—绿的色彩进阶，系统呈现了从旧官僚系统迈向现代支持型系统（The modern enabling systems）在五个关键运营维度（学生包容、课程教学、教师质量、工作组织、问责机制）上的改革轨迹连续体。
+为了更直观地向媒体与公众推销其改革愿景，OECD 教育总监 Andreas Schleicher 在伦敦发布会上展示了对比教育体系改革路径的核心框架，向全球媒体与政策受众极力倡导的改革愿景，系统呈现了从旧官僚系统迈向现代支持型系统（The modern enabling systems）在五个关键运营维度（学生包容、课程教学、教师质量、工作组织、问责机制）上的改革轨迹连续体。
 
 > [!continuum] 图1复刻：OECD 教育改革轨迹连续体（Education Reform Trajectories）
 > **旧官僚系统（过去）** **现代支持型系统（未来）**

@@ -3707,7 +3707,10 @@
     "path": "wiki/concepts/educational-policy-reform/Performance Pay.md",
     "aliases": [
       "绩效工资",
-      "merit pay"
+      "merit pay",
+      "payment by results",
+      "performance-related pay",
+      "PRP"
     ]
   },
   {
@@ -8670,7 +8673,10 @@
     "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Rashomon Effect.md",
     "aliases": [
-      "罗生门效应"
+      "罗生门效应",
+      "多重真实",
+      "叙事分歧",
+      "multiple truths"
     ]
   },
   {
@@ -19137,9 +19143,11 @@
     "path": "wiki/facts/global/Baby PISA.md",
     "aliases": [
       "IELS",
+      "International Early Learning and Child Well-being Study",
       "International Early Learning and Child Wellbeing Study",
       "国际早期学习和儿童福祉研究",
-      "国际早期学习与儿童福祉研究"
+      "国际早期学习与儿童福祉研究",
+      "幼儿版国际学生评估项目"
     ]
   },
   {
@@ -20089,6 +20097,15 @@
     ]
   },
   {
+    "title": "Ofsted",
+    "type": "fact",
+    "path": "wiki/facts/uk/Ofsted.md",
+    "aliases": [
+      "英国教育标准办公室",
+      "Office for Standards in Education, Children's Services and Skills"
+    ]
+  },
+  {
     "title": "Science Media Centre",
     "type": "fact",
     "path": "wiki/facts/uk/Science Media Centre.md",
@@ -20275,14 +20292,6 @@
     "aliases": [
       "ISCF",
       "英国产业战略挑战基金"
-    ]
-  },
-  {
-    "title": "Ofsted",
-    "type": "fact",
-    "path": "wiki/facts/uk/Ofsted.md",
-    "aliases": [
-      "英国教育标准办公室"
     ]
   },
   {
