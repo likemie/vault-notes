@@ -4,6 +4,9 @@ aliases: []
 summary: ""
 type: person
 nationality: ""
+born: ""
+died: ""
+lifespan: ""
 tags: []
 related_concepts: []
 related_theories: []
@@ -25,6 +28,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 ## 简介
 
 > [!person-profile] 人物档案
+> - **生卒年份** 出生年份–逝世年份（在世学者写为“YYYY–至今”；古代学者如“c. 551 BCE – 479 BCE”）。
 > - **身份位置** 国籍、时代、学科、机构、学派或公共角色。
 > - **核心角色** 此人在概念、理论、方法、政策或争议网络中承担什么节点功能；独立贡献是什么。
 > - **代表贡献** 1–3 个最重要的贡献，wikilink 到 Concept / Theory / Method / Fact。

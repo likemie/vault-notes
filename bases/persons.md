@@ -13,6 +13,8 @@ filters:
 properties:
   file.name:
     displayName: 人物
+  lifespan:
+    displayName: 生卒年份
   summary:
     displayName: 摘要
   person_region:
@@ -34,6 +36,7 @@ views:
     image: person_related_color
     order:
       - file.name
+      - lifespan
       - summary
       - person_region
       - person_related_stars
@@ -52,6 +55,7 @@ views:
         - 'person_related_count >= 20'
     order:
       - file.name
+      - lifespan
       - summary
       - person_region
       - person_related_stars
@@ -64,6 +68,7 @@ views:
     name: 完整清单
     order:
       - file.name
+      - lifespan
       - summary
       - person_region
       - person_related_stars
@@ -83,6 +88,7 @@ views:
       direction: ASC
     order:
       - file.name
+      - lifespan
       - summary
       - person_related_stars
       - person_related_count
@@ -99,6 +105,7 @@ views:
         - 'person_region == "uk" || person_region == "UK"'
     order:
       - file.name
+      - lifespan
       - summary
       - person_related_stars
       - person_related_count
@@ -115,6 +122,7 @@ views:
         - 'person_region == "us" || person_region == "US" || person_region == "usa" || person_region == "USA" || person_region == "united-states"'
     order:
       - file.name
+      - lifespan
       - summary
       - person_related_stars
       - person_related_count
@@ -131,6 +139,7 @@ views:
         - 'person_region == "china" || person_region == "China"'
     order:
       - file.name
+      - lifespan
       - summary
       - person_related_stars
       - person_related_count
