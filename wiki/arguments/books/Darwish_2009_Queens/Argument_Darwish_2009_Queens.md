@@ -8,6 +8,7 @@ argument_related_count: 62
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#e5e7eb"
+summary: "通过行动研究探讨主动学习教学法在国际文凭大学预科项目（IBDP）中的实施机制、认识论基础与学生批判性思维发展。"
 related_facts: []
 related_methods:
   - "[[Coding in Qualitative Research]]"

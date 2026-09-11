@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Pragma-Dialectics",
+      "path": "wiki/theories/argumentation-and-logic/Pragma-Dialectics.md"
+    },
+    {
       "basename": "Argument_Glitz_2020_AER",
       "path": "wiki/arguments/journal-articles/American Economic Review/Argument_Glitz_2020_AER.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Validity as Inferences",
       "path": "wiki/concepts/research-methodology/Validity as Inferences.md"
-    },
-    {
-      "basename": "Type I and Type II Errors",
-      "path": "wiki/concepts/research-methodology/Type I and Type II Errors.md"
     }
   ],
   "omittedPaths": [],

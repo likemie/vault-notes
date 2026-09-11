@@ -203,7 +203,7 @@ citation_aliases:
 ## 理论框架
 
 > [!abstract]
-> 全书采用描述性与解释性（descriptive and interpretive）取向，而非规范性（prescriptive）取向。[[Jin Li|李瑾（Jin Li）]]通过追溯东亚与西方各自的知识传统，展示文化学习模型如何像"渗透性的光"一样影响成人对儿童的引导和儿童自身的发展。
+> 全书采用描述性与解释性（descriptive and interpretive）取向，而非规范性（prescriptive）取向。[[Jin Li|李瑾]]（Jin Li）通过追溯东亚与西方各自的知识传统，展示文化学习模型如何像"渗透性的光"一样影响成人对儿童的引导和儿童自身的发展。
 
 研究聚焦于一般文化取向（general cultural orientations），而非文化内部的个体差异或反例——作者坦承这一选择不是要概括所有个体，而是因为其关注的是文化的"运作方式"（workings），而非"异常或失败"（anomalies or failures）。
 

@@ -942,14 +942,14 @@ def load_index(issues: List[Issue]) -> Tuple[Dict[str, Dict[str, Any]], Dict[str
             issues.append(Issue(
                 "ERROR", rel(INDEX_JSON),
                 f"alias {owners[0][1]!r} is used by multiple entries: {', '.join(titles)}",
-                code="ALIAS_DUPLICATE",
+                code="ALIAS_DUPLICATE_CROSS_ENTRY",
             ))
         shadowed = norm_title_owner.get(key)
         if shadowed and all(t != shadowed for t in titles):
             issues.append(Issue(
                 "ERROR", rel(INDEX_JSON),
                 f"alias {owners[0][1]!r} of {titles[0]!r} duplicates the title of another entry: {shadowed!r}",
-                code="ALIAS_DUPLICATE",
+                code="ALIAS_DUPLICATE_CROSS_ENTRY",
             ))
 
     return by_title, path_to_title
@@ -1022,6 +1022,28 @@ def check_quartz_safety(path: Path, text: str, issues: List[Issue]) -> None:
         issues.append(Issue("WARN", rel(path), f"absolute local path found: {val}", line=line_of_pos(text, m.start()), code="LOCAL_PATH"))
 
 
+def get_global_alias_and_title_maps(by_title: Dict[str, Dict[str, Any]]) -> Tuple[Dict[str, str], Dict[str, Set[str]]]:
+    cached = getattr(by_title, "_cached_alias_title_maps", None)
+    if cached is None:
+        title_map: Dict[str, str] = {}
+        alias_map: Dict[str, Set[str]] = {}
+        for t, item in by_title.items():
+            t_norm = unicodedata.normalize("NFC", str(t)).lower().strip()
+            if t_norm:
+                title_map[t_norm] = t
+            if isinstance(item, dict):
+                for al in item.get("aliases") or []:
+                    a_norm = unicodedata.normalize("NFC", str(al)).lower().strip()
+                    if a_norm:
+                        alias_map.setdefault(a_norm, set()).add(t)
+        cached = (title_map, alias_map)
+        try:
+            setattr(by_title, "_cached_alias_title_maps", cached)
+        except Exception:
+            pass
+    return cached
+
+
 def check_frontmatter(path: Path, text: str, by_title: Dict[str, Dict[str, Any]], issues: List[Issue]) -> Optional[Dict[str, Any]]:
     fm, body, _ = split_frontmatter(text)
     if fm is None:
@@ -1041,7 +1063,7 @@ def check_frontmatter(path: Path, text: str, by_title: Dict[str, Dict[str, Any]]
 
     # title checks
     if is_wiki_entry_path(path):
-        if not title:
+        if not title or (isinstance(title, str) and not title.strip()):
             issues.append(Issue("ERROR", rel(path), "missing frontmatter title", line=frontmatter_line_number(fm, "title"), code="TITLE_MISSING"))
         elif isinstance(title, str):
             stem = path.stem
@@ -1057,7 +1079,7 @@ def check_frontmatter(path: Path, text: str, by_title: Dict[str, Dict[str, Any]]
 
     # type checks
     if is_wiki_entry_path(path):
-        if not typ:
+        if not typ or (isinstance(typ, str) and not typ.strip()):
             issues.append(Issue("ERROR", rel(path), "missing frontmatter type", line=frontmatter_line_number(fm, "type"), code="TYPE_MISSING"))
         elif typ not in VALID_TYPES:
             issues.append(Issue("ERROR", rel(path), f"unknown type: {typ}", line=frontmatter_line_number(fm, "type"), code="TYPE_INVALID"))
@@ -1081,6 +1103,7 @@ def check_frontmatter(path: Path, text: str, by_title: Dict[str, Dict[str, Any]]
             alias_line = frontmatter_line_number(fm, "aliases")
             seen_alias_keys = set()
             title_key = unicodedata.normalize("NFC", str(title)).lower().strip() if isinstance(title, str) else ""
+            title_map, alias_map = get_global_alias_and_title_maps(by_title) if by_title else ({}, {})
             for alias in aliases_val:
                 if not isinstance(alias, str) or not alias.strip():
                     continue
@@ -1091,6 +1114,15 @@ def check_frontmatter(path: Path, text: str, by_title: Dict[str, Dict[str, Any]]
                 seen_alias_keys.add(key)
                 if title_key and key == title_key:
                     issues.append(Issue("WARN", rel(path), f"alias duplicates the entry title and is redundant: {alias!r}", line=alias_line, code="ALIAS_QUALITY"))
+
+                # Check cross-entry duplicate alias or alias duplicating another entry's title
+                other_title = title_map.get(key)
+                if other_title and other_title != title:
+                    issues.append(Issue("ERROR", rel(path), f"alias {alias!r} duplicates the title of another entry: {other_title!r}", line=alias_line, code="ALIAS_DUPLICATE_CROSS_ENTRY"))
+                other_owners = sorted({o for o in alias_map.get(key, set()) if o != title})
+                if other_owners:
+                    issues.append(Issue("ERROR", rel(path), f"alias {alias!r} is already used by another entry: {', '.join(other_owners)}", line=alias_line, code="ALIAS_DUPLICATE_CROSS_ENTRY"))
+
                 alias_has_cjk = any("㐀" <= ch <= "鿿" for ch in a)
                 has_latin_word = re.search(r"[A-Za-z]{2,}", a) is not None
                 if alias_has_cjk and has_latin_word:
@@ -1152,11 +1184,12 @@ def check_frontmatter(path: Path, text: str, by_title: Dict[str, Dict[str, Any]]
                     code="INSTRUMENT_TYPE_INVALID",
                 )
             )
-        if "developers" not in data:
+        if "developers" not in data or data.get("developers") in (None, "", []):
             issues.append(Issue(
                 "ERROR",
                 rel(path),
                 "instrument entries must include developers",
+                line=frontmatter_line_number(fm, "developers"),
                 code="DEVELOPERS_MISSING",
             ))
         else:
@@ -1184,7 +1217,7 @@ def check_frontmatter(path: Path, text: str, by_title: Dict[str, Dict[str, Any]]
     if "summary" in data:
         check_summary(path, fm, data.get("summary"), issues)
     elif is_wiki_entry_path(path) and typ != "source":
-        issues.append(Issue("WARN", rel(path), "missing summary field", code="SUMMARY_MISSING"))
+        issues.append(Issue("ERROR", rel(path), "missing required summary field", code="SUMMARY_MISSING"))
 
     # tags
     tags = data.get("tags")
@@ -1343,6 +1376,8 @@ def check_summary(path: Path, fm: str, summary: Any, issues: List[Issue]) -> Non
     line = frontmatter_line_number(fm, "summary")
 
     if summary is None:
+        if is_wiki_entry_path(path):
+            issues.append(Issue("ERROR", rel(path), "summary must not be empty", line=line, code="SUMMARY_EMPTY"))
         return
     if not isinstance(summary, str):
         issues.append(Issue("ERROR", rel(path), "summary must be a string", line=line, code="SUMMARY_TYPE"))
@@ -1359,10 +1394,13 @@ def check_summary(path: Path, fm: str, summary: Any, issues: List[Issue]) -> Non
         if not (after.startswith('"') and after.endswith('"')):
             issues.append(Issue("ERROR", rel(path), 'summary must be wrapped in double quotes: summary: "..."', line=line, code="SUMMARY_QUOTES"))
 
-    if summary == "":
-        if is_wiki_entry_path(path) and not path.name.startswith("Argument_"):
+    if not summary.strip():
+        if is_wiki_entry_path(path):
             issues.append(Issue("ERROR", rel(path), "summary must not be empty", line=line, code="SUMMARY_EMPTY"))
         return
+
+    if len(summary) > 250:
+        issues.append(Issue("ERROR", rel(path), f"summary must not exceed 250 characters (currently {len(summary)}): {summary[:50]}...", line=line, code="SUMMARY_TOO_LONG"))
 
     if is_wiki_entry_path(path):
         if "<%" in summary or re.search(r"\b(?:todo|tbd|暂无)\b", summary, re.IGNORECASE):

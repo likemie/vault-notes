@@ -2597,7 +2597,7 @@ Total entries: **2328**
 > - [[Argument_Creswell_2022_SAGE]] — Creswell & Creswell 研究方法教材第六版，系统讲解量化、质性和混合方法三种研究路径的设计框架、关键组成部分和写作方法，涵盖从哲学假设、文献综述、理论使用到具体方法程序的完整研究设计流程
 
 > [!index-list]- Darwish_2009_Queens (1)
-> - [[Argument_Darwish_2009_Queens]]
+> - [[Argument_Darwish_2009_Queens]] — 通过行动研究探讨主动学习教学法在国际文凭大学预科项目（IBDP）中的实施机制、认识论基础与学生批判性思维发展。
 
 > [!index-list]- Hall_Boccanfuso_2025_Springer (18)
 > - [[Argument_Bang_2025_ClinicalTrials]] — 以临床试验各阶段为框架，分析产学在生物制药临床试验中的合作模式、预算与启动效率瓶颈及主方案等创新解决方案
