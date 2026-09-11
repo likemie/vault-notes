@@ -8,6 +8,7 @@ theory_field: "higher-education"
 theory_related_count: 15
 theory_related_level: 1
 theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
   - academic-capitalism
   - political-economy
