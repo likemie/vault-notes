@@ -71,7 +71,7 @@ part_of:
   - "[[Comparative Education]]"
 status: draft
 created: 2026-09-11
-updated: 2026-09-11
+updated: 2026-09-12
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Steiner-Khamsi_2024_CE"
@@ -277,12 +277,14 @@ issuing_organization: ""
 
 为了在日益拥挤的知识市场中维持不可替代性，各大国际组织将核心评测工具与专属知识产品打包，形成了截然不同的组织利基与经验汲取路径。（pp.544–545）
 
-> [!row-contrast] 主要国际组织的政策中介工具打包组合与经验汲取取向
-> - **经合组织（OECD）** 以 [[PISA]] 及系列衍生测验为核心，配套国别同行评议与政策展望；在经验汲取上呈现外向型国别横向对照风格，世界教育改革数据库实证表明其报告高度依赖对其他成员国具体改革经验的交叉引证。（pp.544–545）
-> - **世界银行（World Bank）** 以教育系统良好成果系统性方法（Systems Approach for Better Education Results，SABER）与[[Randomised Controlled Trials|随机对照试验]]为核心，配套最佳实践政策库；在经验汲取上呈现高度自指性闭合风格，习惯性反复引用自身以往的评估报告与内部工具箱。
-> - **全球教育伙伴关系（GPE）** 依托知识与创新交流（Knowledge and Innovation Exchange，KIX）机制设立四大区域枢纽，配套区域层面的同侪交流与赠款支持，实质上是由核心捐助国主导的多方协调平台。（p.545）
-> - **联合国教科文组织（UNESCO）** 以《全球教育监测报告》为主轴，配套国际公约制定与规范性政策倡导，坚守人文主义价值底色。
-> - **联合国儿童基金会（UNICEF）** 率先开创社会情感学习倡议，随后引发经合组织与教科文组织对该新兴领域的激烈争夺。
+> [!row-contrast] 主要国际组织的政策中介工具打包组合与经验汲取取向（pp.544–546）
+> | 国际组织（IO） | 核心政策中介工具（Primary Instrument） | 打包知识产品与服务（Bundled Knowledge Products） | 经验汲取模式与实证特征（Lesson-Drawing Orientation） | 治理机制与战略同盟（Governance & Alliances） |
+> |---|---|---|---|---|
+> | **[[OECD\|经合组织（OECD）]]** | **[[PISA]]**（国际学生评估项目）及其衍生产品矩阵（TALIS、PIAAC、PISA-D） | 国别同行评议（Peer Reviews）、《教育概览》（Education at a Glance，EAG）、教育政策展望（Education Policy Outlook）、教育 GPS 数字平台 | **外向型国别横向对照（Outward-looking cross-national referencing）**<br>世界教育改革数据库（World Education Reform Database，WERD）实证表明，其报告高度依赖对其他成员国具体改革经验的交叉引证，将跨国横向比较作为提升教育质量的核心引擎。（Seitzer et al., 2023; pp.544–545） | 以软法（Soft Law）、指标排序与“命名与羞辱”实施远程规制；依托非成员国测验扩张与盖茨等私人基金会资助，构建全球比较帝国。 |
+> | **世界银行（World Bank）** | **贷款与赠款附加条件**、教育成果系统评估法（Systems Approach for Better Education Results，SABER）、[[Randomised Controlled Trials\|随机对照试验]]（RCTs） | 集中化最佳实践政策仓库（Warehousing of Good Practices）、世界发展指标库（WDI）教育指标集、减贫战略文件（PRSPs） | **自指性内部实践闭环（Self-referential lesson-drawing）**<br>WERD 实证显示其报告呈现高度自指特征，反复重复自身 SABER 评估指标库与既往内部项目组合，依靠教育回报率经济学测算推销统一定制处方。（pp.544–545） | 依托雄厚资金实力与管理主义科学效率实施结构调整规制；联合英国外交、联邦及发展事务部（FCDO）与美国国际开发署（USAID）成立排他性的“构建教育证据联盟”（BE2）。 |
+> | **全球教育伙伴关系（GPE）** | **多方资金配置与联合部门审查（Joint Sector Reviews）**、国家教育计划（ESP）赠款协同 | 知识与创新交流机制（Knowledge and Innovation Exchange，KIX），在发展中国家设立 4 大区域知识中介枢纽（Regional Hubs） | **区域化同侪经验交流（Regional peer exchange）**<br>促进全球南方国家在区域内部进行横向同侪互学与适应性经验转移，但在议程设定与资金分配上深度受制于核心出资国的战略偏好。 | 名义上为多利益相关者治理，实质由西方核心捐助国主导；通过 KIX 区域枢纽将中介触角直接嵌入发展中国家教育部行政体系。 |
+> | **联合国教科文组织（UNESCO）** | **国际公约与规范性框架制定**、《全球教育监测报告》（Global Education Monitoring Report，GEMR）、统计研究所（UIS）监测 | 联合国[[UN Sustainable Development Goals\|可持续发展目标]]（SDGs）中第四项教育目标（SDG 4）全球监测架构、国际教育规划研究所（IIEP）技术援助 | **规范性人权与受教育权倡导（Normative rights-based lesson-drawing）**<br>坚守人文主义教育哲学与受教育权基石，强调包容性、终身学习与社会公正，抵制将教育过度还原为人力资本与经济回报率的技术官僚倾向。（pp.541–545） | 依托联合国多边合法性与道德威权；与联合国儿童基金会联合设立“学习数据协定”（Learning Data Compact），在跨国监测主导权上与世行体系形成制衡。 |
+> | **联合国儿童基金会（UNICEF）** | **多指标聚类调查（Multiple Indicator Cluster Surveys，MICS）**、新兴前沿政策议题开拓（如社会情感学习 SEL、儿童早期发展 ECD） | 女童教育与危机情境教育干预方案、儿童心理社会支持工具箱、实地人道主义救援与发展合作衔接网络 | **实地情境化儿童权利保护（Field-based child-centric lesson-drawing）**<br>聚焦最边缘化与弱势儿童群体，以实地第一手调查为证据底色，率先将社会情感学习（SEL）推向全球政策议程。 | 深入战乱与贫困第一线的实地执行网络；其开辟的 SEL 等新兴蓝海议题迅速引发经合组织与教科文组织跨界跟进与规制话语权争夺。 |
 
 尽管各大组织在公开修辞中普遍倡导多边协作，并在数字平台上提供免费数据与研讨资源，但在争夺私人基金会资助与核心规制话语权时，却表现出深刻的排他性结盟倾向。（pp.545–546）
 

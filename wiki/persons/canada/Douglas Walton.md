@@ -8,7 +8,7 @@ summary: "加拿大哲学家、非形式逻辑与论辩理论家，提出系统�
 type: person
 nationality: canada
 person_region: "canada"
-person_related_count: 13
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-10
-updated: 2026-09-11
+updated: 2026-09-12
 ---
 
 # Douglas Walton
