@@ -1,16 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "template-person",
+      "path": "wiki/templates/template-person.md"
+    },
+    {
+      "basename": "template-concept",
+      "path": "wiki/templates/template-concept.md"
+    },
+    {
+      "basename": "template-fact-event",
+      "path": "wiki/templates/template-fact-event.md"
+    },
+    {
+      "basename": "Gert Biesta",
+      "path": "wiki/persons/netherlands/Gert Biesta.md"
+    },
+    {
+      "basename": "Geert Hofstede",
+      "path": "wiki/persons/netherlands/Geert Hofstede.md"
+    },
+    {
+      "basename": "John Sweller",
+      "path": "wiki/persons/australia/John Sweller.md"
+    },
+    {
+      "basename": "David Watkins",
+      "path": "wiki/persons/australia/David Watkins.md"
+    },
+    {
+      "basename": "Jason Beech",
+      "path": "wiki/persons/argentina/Jason Beech.md"
+    },
+    {
+      "basename": "John Hattie",
+      "path": "wiki/persons/new-zealand/John Hattie.md"
+    },
+    {
       "basename": "Argument_Steiner-Khamsi_2024_CE",
       "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Steiner-Khamsi_2024_CE.md"
     },
     {
       "basename": "UN Sustainable Development Goals",
       "path": "wiki/facts/global/UN Sustainable Development Goals.md"
-    },
-    {
-      "basename": "John Hattie",
-      "path": "wiki/persons/new-zealand/John Hattie.md"
     },
     {
       "basename": "A Nation at Risk 1983",
@@ -167,38 +199,6 @@
     {
       "basename": "Baby PISA",
       "path": "wiki/facts/global/Baby PISA.md"
-    },
-    {
-      "basename": "Ofsted",
-      "path": "wiki/facts/uk/Ofsted.md"
-    },
-    {
-      "basename": "Argument_Bainbridge_2022_ROE",
-      "path": "wiki/arguments/journal-articles/Review of Education/Argument_Bainbridge_2022_ROE.md"
-    },
-    {
-      "basename": "Academic Achievement",
-      "path": "wiki/concepts/competency-and-assessment/Academic Achievement.md"
-    },
-    {
-      "basename": "Chain of Evidence",
-      "path": "wiki/concepts/research-methodology/Chain of Evidence.md"
-    },
-    {
-      "basename": "Policy Borrowing",
-      "path": "wiki/concepts/comparative-education/Policy Borrowing.md"
-    },
-    {
-      "basename": "Rashomon Effect",
-      "path": "wiki/concepts/sociology-of-education/Rashomon Effect.md"
-    },
-    {
-      "basename": "Mediatised Governance",
-      "path": "wiki/concepts/political-economy-geopolitics/Mediatised Governance.md"
-    },
-    {
-      "basename": "PISA",
-      "path": "wiki/facts/global/PISA.md"
     }
   ],
   "omittedPaths": [],
