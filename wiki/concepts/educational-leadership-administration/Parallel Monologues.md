@@ -5,7 +5,7 @@ aliases:
 summary: "Eacott 提出的概念，描述教育行政研究中学者各自在子领域内发表和引用但很少实质性交锋的结构性现象，用于批评缺乏论证与反驳的学术交流模式。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 12
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,7 +24,6 @@ related_theories: []
 related_methods: []
 related_persons:
   - "[[Scott Eacott]]"
-  - "[[Clifford Geertz]]"
   - "[[Georg Wilhelm Friedrich Hegel]]"
   - "[[Pierre Bourdieu]]"
 related_facts: []
@@ -34,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-03
-updated: 2026-05-18
+updated: 2026-09-11
 ---
 
 ## 定义

@@ -19,7 +19,6 @@ tags:
 related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Metainferences]]"
-  - "[[Data Transformation]]"
   - "[[Variable]]"
 related_theories: []
 related_methods:
@@ -29,6 +28,7 @@ related_methods:
   - "[[Explanatory Sequential Design]]"
   - "[[Exploratory Sequential Design]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Data Transformation]]"
 related_persons: []
 related_facts: []
 related_arguments:

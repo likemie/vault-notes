@@ -23,9 +23,9 @@ related_concepts:
   - "[[Null Hypothesis]]"
   - "[[Alternative Hypothesis]]"
   - "[[Operationalization]]"
-  - "[[Sample Size Determination]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Sample Size Determination]]"
 related_persons: []
 related_facts: []
 related_arguments:

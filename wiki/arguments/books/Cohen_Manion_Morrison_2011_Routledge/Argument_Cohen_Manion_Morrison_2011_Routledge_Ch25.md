@@ -42,13 +42,10 @@ related_concepts:
   - "[[Cognitive Complexity Index]]"
   - "[[Research Question]]"
   - "[[Necessary and Sufficient Conditions]]"
-  - "[[Questionnaire]]"
   - "[[Hypothesis]]"
   - "[[Dialogue in Education]]"
-  - "[[Transcription in Qualitative Research]]"
   - "[[Problem Solving]]"
   - "[[Self-Efficacy]]"
-  - "[[Pre-test and Post-test]]"
   - "[[Epistemology]]"
   - "[[Research Purpose]]"
   - "[[Scale in Higher Education]]"
@@ -61,10 +58,13 @@ related_theories:
 related_methods:
   - "[[Repertory Grid Technique]]"
   - "[[Laddering]]"
+  - "[[Questionnaire]]"
   - "[[Role-playing]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Network Analysis]]"
   - "[[Pyramiding]]"
   - "[[Participant Observation]]"
+  - "[[Pre-test and Post-test]]"
 related_persons:
   - "[[George Kelly]]"
 status: draft

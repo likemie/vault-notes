@@ -34,15 +34,15 @@ related_concepts:
   - "[[Computational Thinking]]"
   - "[[Scale of Measurement]]"
   - "[[Problem Solving]]"
-  - "[[Questionnaire]]"
   - "[[Creativity]]"
   - "[[Project-Based Learning]]"
   - "[[Critical Thinking]]"
-  - "[[Likert Scale]]"
   - "[[Construct Validity]]"
   - "[[Higher-Order Thinking Skills]]"
 related_theories: []
 related_methods:
+  - "[[Questionnaire]]"
+  - "[[Likert Scale]]"
   - "[[Internal Consistency]]"
   - "[[Confirmatory Factor Analysis]]"
 related_instruments: []

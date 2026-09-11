@@ -31,10 +31,10 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Cult of the Guru]]"
   - "[[Neo-Taylorism]]"
-  - "[[Analytic Framework]]"
 related_theories: []
 related_methods:
   - "[[Case Study]]"
+  - "[[Analytic Framework]]"
 related_persons:
   - "[[Pierre Bourdieu]]"
 related_facts: []

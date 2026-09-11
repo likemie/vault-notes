@@ -26,13 +26,13 @@ related_concepts:
   - "[[Blue Skies Research]]"
   - "[[Absorptive Capacity]]"
   - "[[Reflexivity]]"
-  - "[[Probes]]"
   - "[[Emergence]]"
   - "[[Dialogue in Education]]"
 related_theories:
   - "[[Systems of Innovation]]"
   - "[[Luhmann's Systems Theory]]"
-related_methods: []
+related_methods:
+  - "[[Probes]]"
 related_persons: []
 related_facts: []
 related_arguments:

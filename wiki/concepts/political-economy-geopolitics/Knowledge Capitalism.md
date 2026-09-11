@@ -20,13 +20,13 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Variable]]"
-  - "[[Analytic Framework]]"
   - "[[Theoretical Knowledge]]"
   - "[[Performance Indicators]]"
   - "[[Matthew Effect in Academia]]"
 related_theories:
   - "[[Human Capital Theory]]"
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons: []
 related_facts:
   - "[[OECD]]"

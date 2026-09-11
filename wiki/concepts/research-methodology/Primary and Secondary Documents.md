@@ -24,12 +24,13 @@ tags:
   - method/documentary-research
 related_concepts:
   - "[[Document]]"
-  - "[[Analytic Framework]]"
   - "[[Dialogue in Education]]"
   - "[[Reliability]]"
   - "[[Virtual Documents]]"
   - "[[Research Question]]"
   - "[[Hypothesis]]"
+related_methods:
+  - "[[Analytic Framework]]"
 confidence: medium
 status: draft
 created: 2026-06-24

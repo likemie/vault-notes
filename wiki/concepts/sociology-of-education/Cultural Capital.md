@@ -39,7 +39,6 @@ related_concepts:
   - "[[Going Native]]"
   - "[[School Leadership]]"
   - "[[Epoché]]"
-  - "[[Questionnaire]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Social Capital Theory]]"
@@ -47,6 +46,7 @@ related_methods:
   - "[[Causal Modeling]]"
   - "[[Qualitative Research]]"
   - "[[Mixed Methods Research]]"
+  - "[[Questionnaire]]"
   - "[[Cohort Study]]"
 related_instruments: []
 related_persons:

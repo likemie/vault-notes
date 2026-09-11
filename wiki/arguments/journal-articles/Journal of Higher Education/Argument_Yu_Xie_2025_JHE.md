@@ -24,7 +24,6 @@ related_concepts:
   - "[[Classical Geopolitics]]"
   - "[[New Geopolitics]]"
   - "[[Constructivist Paradigm]]"
-  - "[[Analytic Framework]]"
   - "[[Epistemology]]"
   - "[[Infrastructures of Immobility]]"
   - "[[Space Production]]"
@@ -70,7 +69,8 @@ related_theories:
   - "[[Critical Geopolitics]]"
   - "[[Dependency Theory]]"
   - "[[Human Capital Theory]]"
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons:
   - "[[Jürgen Habermas]]"
 related_facts:

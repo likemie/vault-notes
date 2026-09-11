@@ -16,7 +16,6 @@ tags:
   - neoliberalism
   - region/global
 related_concepts:
-  - "[[Analytic Framework]]"
   - "[[New Public Management]]"
   - "[[Test-Based Accountability]]"
   - "[[Paradigm]]"
@@ -32,6 +31,7 @@ related_concepts:
   - "[[Academic Achievement]]"
 related_theories: []
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Meta-analysis]]"
   - "[[Systematic Review]]"
   - "[[Effect Size]]"

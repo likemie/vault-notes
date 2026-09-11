@@ -20,7 +20,6 @@ tags:
   - theme/professional-agency
 related_concepts:
   - "[[Paradigm]]"
-  - "[[Analytic Framework]]"
   - "[[Research Utilization]]"
   - "[[Profession-Sensitive Conceptualisations of Research Use]]"
   - "[[Educational Affordances]]"
@@ -36,13 +35,14 @@ related_concepts:
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
-  - "[[Questionnaire]]"
   - "[[Hypothesis]]"
   - "[[Evidence-Based Education]]"
   - "[[Knowledge Production]]"
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Critical Review]]"
   - "[[Accounts]]"
+  - "[[Questionnaire]]"
   - "[[Action Research]]"
 related_arguments:
   - "[[Argument_Mausethagen_2025_ERR]]"

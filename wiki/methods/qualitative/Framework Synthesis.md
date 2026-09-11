@@ -18,7 +18,6 @@ tags:
   - theme/research-use
   - methodology
 related_concepts:
-  - "[[Analytic Framework]]"
   - "[[Emergence]]"
   - "[[Document]]"
   - "[[Unit of Analysis]]"
@@ -26,7 +25,6 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Research Utilization]]"
   - "[[Operationalization]]"
-  - "[[Intercoder Agreement]]"
   - "[[Research Question]]"
   - "[[Research Literacy]]"
   - "[[Theoretical Perspective]]"
@@ -37,8 +35,10 @@ related_theories:
   - "[[Ecosystem for Research-Engaged Schools]]"
 related_methods:
   - "[[Systematic Review]]"
+  - "[[Analytic Framework]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Mixed Methods Research]]"
+  - "[[Intercoder Agreement]]"
   - "[[PRISMA]]"
   - "[[Effect Size]]"
   - "[[Meta-analysis]]"

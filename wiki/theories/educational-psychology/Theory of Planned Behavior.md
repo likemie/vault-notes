@@ -28,7 +28,6 @@ related_concepts:
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
-  - "[[Questionnaire]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
 related_theories:
@@ -40,6 +39,7 @@ related_methods:
   - "[[Causal Modeling]]"
   - "[[Analysis of Variance]]"
   - "[[Multivariate Analysis of Variance]]"
+  - "[[Questionnaire]]"
 related_instruments:
   - "[[Research Literacy Scale for Teachers]]"
 related_persons: []

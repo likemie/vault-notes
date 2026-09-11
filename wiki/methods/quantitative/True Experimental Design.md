@@ -17,14 +17,12 @@ tags:
   - design-type
 related_concepts:
   - "[[Internal Validity]]"
-  - "[[Pre-test and Post-test]]"
   - "[[Dependent Variable]]"
   - "[[Independent Variable]]"
   - "[[Unit of Analysis]]"
   - "[[Variable]]"
   - "[[Threats to Internal Validity]]"
   - "[[Ecological Validity]]"
-  - "[[Blinding]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Pre-test Sensitisation]]"
   - "[[Interaction Effect]]"
@@ -33,11 +31,13 @@ related_concepts:
 related_methods:
   - "[[Experimental Research]]"
   - "[[Random Assignment]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Effect Size]]"
   - "[[Statistical Significance]]"
   - "[[Pretest-Posttest Control Group Design]]"
   - "[[Analysis of Variance]]"
   - "[[Analysis of Covariance]]"
+  - "[[Blinding]]"
   - "[[Posttest-Only Control Group Design]]"
   - "[[Solomon Four-Group Design]]"
   - "[[Factorial Design]]"

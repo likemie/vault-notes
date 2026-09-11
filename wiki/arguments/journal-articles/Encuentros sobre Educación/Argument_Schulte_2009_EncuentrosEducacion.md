@@ -42,12 +42,12 @@ related_concepts:
   - "[[Scientific Attitude]]"
   - "[[Quality Education]]"
   - "[[Creativity Training]]"
-  - "[[Analytic Framework]]"
   - "[[Abstract]]"
   - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[Discourse Analysis]]"
+  - "[[Analytic Framework]]"
 related_persons:
   - "[[John Dewey]]"
   - "[[Hu Shi]]"

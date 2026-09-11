@@ -24,10 +24,10 @@ tags:
 related_concepts:
   - "[[Active Learning]]"
   - "[[Formative Assessment]]"
-  - "[[Questionnaire]]"
   - "[[Higher-Order Thinking Skills]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Questionnaire]]"
 related_instruments: []
 related_persons: []
 related_facts:

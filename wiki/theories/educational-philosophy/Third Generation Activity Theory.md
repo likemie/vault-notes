@@ -28,7 +28,6 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Paradigm]]"
   - "[[Constructivist Paradigm]]"
-  - "[[Analytic Framework]]"
   - "[[Variable]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Generative Artificial Intelligence]]"
@@ -53,7 +52,6 @@ related_concepts:
   - "[[Epistemic Friction]]"
   - "[[Quality Education]]"
   - "[[Homework]]"
-  - "[[Sample Size Determination]]"
   - "[[Language Skills]]"
   - "[[Academic Achievement]]"
   - "[[Metacognition]]"
@@ -66,9 +64,11 @@ related_concepts:
   - "[[Interaction Effect]]"
 related_theories: []
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Domain Analysis]]"
   - "[[Meta-analysis]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Sample Size Determination]]"
   - "[[Experimental Research]]"
   - "[[Case Study]]"
   - "[[Ethnography]]"

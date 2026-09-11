@@ -21,14 +21,10 @@ tags:
   - statistics/sensitivity-analysis
   - field/research-methodology
 related_concepts:
-  - "[[Confidence Interval]]"
   - "[[Heterogeneity]]"
   - "[[Unit of Analysis]]"
-  - "[[Forest Plot]]"
   - "[[Epistemology]]"
   - "[[Primary and Secondary Documents]]"
-  - "[[Funnel Plot]]"
-  - "[[Sample Size Determination]]"
   - "[[Variable]]"
   - "[[Document]]"
   - "[[Publication Bias]]"
@@ -38,11 +34,15 @@ related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
+  - "[[Confidence Interval]]"
+  - "[[Forest Plot]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Statistical Significance]]"
+  - "[[Funnel Plot]]"
   - "[[Trim and Fill Method]]"
   - "[[Fail-Safe N]]"
   - "[[Between-Study Variance]]"
+  - "[[Sample Size Determination]]"
 related_instruments: []
 related_persons: []
 related_facts: []

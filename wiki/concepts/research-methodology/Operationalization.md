@@ -13,7 +13,6 @@ related_concepts:
   - "[[Research Purpose]]"
   - "[[Abstract]]"
   - "[[Research Question]]"
-  - "[[Questionnaire]]"
   - "[[Hypothesis]]"
   - "[[Directional and Non-directional Hypotheses]]"
   - "[[Variable]]"
@@ -25,6 +24,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Semi-structured Interview]]"
+  - "[[Questionnaire]]"
   - "[[Documentary Analysis]]"
   - "[[Design-Based Research]]"
 related_persons: []

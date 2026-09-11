@@ -22,13 +22,13 @@ related_concepts:
   - "[[Variable]]"
   - "[[Threats to Internal Validity]]"
   - "[[Causality]]"
-  - "[[Pre-test and Post-test]]"
   - "[[Internal Validity]]"
 related_theories: []
 related_methods:
   - "[[Quasi-Experimental Designs]]"
   - "[[Random Assignment]]"
   - "[[Matching]]"
+  - "[[Pre-test and Post-test]]"
 related_persons: []
 related_facts: []
 related_arguments:

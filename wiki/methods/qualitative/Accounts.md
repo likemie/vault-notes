@@ -18,7 +18,6 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Interpretive Paradigm]]"
   - "[[Hypothesis]]"
-  - "[[Transcription in Qualitative Research]]"
   - "[[Falsification]]"
   - "[[Causality]]"
 related_theories:
@@ -32,6 +31,7 @@ related_methods:
   - "[[Experience Sampling Method]]"
   - "[[Account Gathering]]"
   - "[[Network Analysis]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Cross-checking]]"
   - "[[Triangulation]]"
   - "[[Experience-Sampling Method]]"

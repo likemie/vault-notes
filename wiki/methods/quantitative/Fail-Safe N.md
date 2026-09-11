@@ -28,10 +28,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
-  - "[[Funnel Plot]]"
   - "[[Heterogeneity]]"
-  - "[[Confidence Interval]]"
-  - "[[Sample Size Determination]]"
   - "[[AI Agent in Education]]"
   - "[[Cooperative Learning]]"
   - "[[Construct]]"
@@ -40,9 +37,12 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Funnel Plot]]"
   - "[[Trim and Fill Method]]"
   - "[[Leave-One-Out Sensitivity Analysis]]"
+  - "[[Confidence Interval]]"
   - "[[PRISMA]]"
+  - "[[Sample Size Determination]]"
   - "[[Multilevel Egger's Test]]"
 related_instruments: []
 related_persons: []

@@ -62,9 +62,7 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Value Neutrality]]"
   - "[[Falsification]]"
-  - "[[Questionnaire]]"
   - "[[Normal School]]"
-  - "[[Sample Size Determination]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
   - "[[Determinism]]"
@@ -80,6 +78,8 @@ related_theories:
   - "[[Critical Theory]]"
   - "[[Post-structuralism]]"
 related_methods:
+  - "[[Questionnaire]]"
+  - "[[Sample Size Determination]]"
   - "[[Problem Approach]]"
   - "[[Quantitative Research]]"
 related_persons:

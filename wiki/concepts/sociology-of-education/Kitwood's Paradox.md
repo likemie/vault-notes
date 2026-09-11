@@ -21,11 +21,12 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Dialogue in Education]]"
   - "[[Necessary and Sufficient Conditions]]"
-  - "[[Questionnaire]]"
   - "[[Internal Validity]]"
   - "[[Research Purpose]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
+related_methods:
+  - "[[Questionnaire]]"
 status: draft
 created: 2026-06-24
 updated: 2026-09-11

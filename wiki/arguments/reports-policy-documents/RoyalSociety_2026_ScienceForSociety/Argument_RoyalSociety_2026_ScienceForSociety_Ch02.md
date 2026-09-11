@@ -50,7 +50,6 @@ related_concepts:
   - "[[Rich and Thick Description]]"
   - "[[Public Engagement with Science]]"
   - "[[Praxis]]"
-  - "[[Questionnaire]]"
 related_theories:
   - "[[Human Capital Theory]]"
 related_methods:
@@ -59,6 +58,7 @@ related_methods:
   - "[[Ethnography]]"
   - "[[Focus Group]]"
   - "[[Cohort Study]]"
+  - "[[Questionnaire]]"
   - "[[Stratified Sampling]]"
 related_instruments: []
 related_persons: []

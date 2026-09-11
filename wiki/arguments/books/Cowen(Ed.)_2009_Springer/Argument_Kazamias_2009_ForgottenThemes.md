@@ -50,7 +50,6 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Empiricism]]"
   - "[[Determinism]]"
-  - "[[Questionnaire]]"
   - "[[Rationalism in International Relations]]"
   - "[[Educational Meliorism]]"
   - "[[Policy Borrowing]]"
@@ -67,7 +66,6 @@ related_concepts:
   - "[[Independent Variable]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Cultural Nationalism vs. Political Nationalism]]"
-  - "[[Analytic Framework]]"
   - "[[Factorial Interpretive Framework]]"
   - "[[Incommensurability]]"
   - "[[Analytical Stance]]"
@@ -81,6 +79,8 @@ related_concepts:
   - "[[Research Scope]]"
 related_methods:
   - "[[Historical-Comparative Method]]"
+  - "[[Questionnaire]]"
+  - "[[Analytic Framework]]"
   - "[[Coding in Qualitative Research]]"
 related_persons:
   - "[[Michael Sadler]]"

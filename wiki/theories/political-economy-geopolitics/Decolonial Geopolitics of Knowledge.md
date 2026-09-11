@@ -18,7 +18,6 @@ tags:
 - region/global
 related_concepts:
   - "[[Geopolitics of Knowledge]]"
-  - "[[Analytic Framework]]"
   - "[[Epistemology]]"
   - "[[Ways of Knowing]]"
   - "[[Knowledge Production]]"
@@ -37,6 +36,7 @@ related_theories:
   - "[[Critical Geopolitics]]"
   - "[[Critical Theory]]"
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Discourse Analysis]]"
   - "[[Archival Research]]"
   - "[[Action Research]]"

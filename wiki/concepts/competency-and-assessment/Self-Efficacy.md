@@ -22,10 +22,10 @@ related_concepts:
   - "[[Epistemological Beliefs]]"
   - "[[Dependent Variable]]"
   - "[[Theory of Knowledge]]"
-  - "[[Sample Size Determination]]"
 related_theories: []
 related_methods:
   - "[[Effect Size]]"
+  - "[[Sample Size Determination]]"
 related_persons: []
 related_facts: []
 related_arguments:

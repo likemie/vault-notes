@@ -25,7 +25,6 @@ related_concepts:
   - "[[Construct]]"
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
-  - "[[Questionnaire]]"
   - "[[Reliability]]"
   - "[[Research Utilization]]"
   - "[[Construct Validity]]"
@@ -34,6 +33,7 @@ related_methods:
   - "[[Confirmatory Factor Analysis]]"
   - "[[Causal Modeling]]"
   - "[[Scale Development]]"
+  - "[[Questionnaire]]"
   - "[[Composite Reliability]]"
 related_instruments:
   - "[[Research Literacy Scale for Teachers]]"

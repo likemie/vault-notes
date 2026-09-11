@@ -20,13 +20,13 @@ tags:
   - reliability
 related_concepts:
   - "[[Reliability]]"
-  - "[[Questionnaire]]"
   - "[[Operationalization]]"
   - "[[Order Effects]]"
-  - "[[Pre-test and Post-test]]"
   - "[[Construct]]"
 related_theories: []
 related_methods:
+  - "[[Questionnaire]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Test-Retest Reliability]]"
   - "[[Pearson Product-Moment Correlation]]"
   - "[[Internal Consistency]]"

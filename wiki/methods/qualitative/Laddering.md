@@ -20,6 +20,7 @@ related_theories:
   - "[[Personal Construct Theory]]"
 related_methods:
   - "[[Qualitative Interview]]"
+  - "[[Questionnaire]]"
   - "[[Network Analysis]]"
   - "[[Repertory Grid Technique]]"
   - "[[Pyramiding]]"
@@ -27,7 +28,6 @@ related_concepts:
   - "[[Construct]]"
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
-  - "[[Questionnaire]]"
   - "[[Research Translation]]"
   - "[[Personal Constructs]]"
 related_persons: []

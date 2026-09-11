@@ -29,10 +29,8 @@ related_concepts:
   - "[[Null Hypothesis]]"
   - "[[Hypothesis]]"
   - "[[Homework]]"
-  - "[[Pre-test and Post-test]]"
   - "[[Metacognition]]"
   - "[[Critical Thinking]]"
-  - "[[Sample Size Determination]]"
 related_theories: []
 related_methods:
   - "[[Effect Size]]"
@@ -42,7 +40,9 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Moderator Analysis]]"
   - "[[Random Sampling]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Cronbach's Alpha]]"
+  - "[[Sample Size Determination]]"
 related_persons: []
 related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"

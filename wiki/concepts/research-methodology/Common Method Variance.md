@@ -19,7 +19,6 @@ tags:
   - theme/psychometrics
 related_concepts:
   - "[[Construct]]"
-  - "[[Questionnaire]]"
   - "[[Construct Validity]]"
   - "[[Self-report Bias]]"
   - "[[Response Bias]]"
@@ -30,6 +29,7 @@ related_concepts:
   - "[[Variable]]"
 related_theories: []
 related_methods:
+  - "[[Questionnaire]]"
   - "[[Triangulation]]"
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"

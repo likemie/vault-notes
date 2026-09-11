@@ -18,17 +18,17 @@ tags:
   - theme/new-public-management
 related_concepts:
   - "[[New Public Management]]"
-  - "[[External Auditor]]"
   - "[[Mentorship]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Blue Skies Research]]"
   - "[[Shape-Shifting]]"
-  - "[[Memos]]"
   - "[[Academic Freedom]]"
   - "[[Performance Indicators]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[External Auditor]]"
+  - "[[Memos]]"
 related_persons: []
 related_facts:
   - "[[Research Excellence Framework]]"

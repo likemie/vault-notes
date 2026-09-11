@@ -23,7 +23,6 @@ related_concepts:
   - "[[Rich and Thick Description]]"
   - "[[Reflexivity]]"
   - "[[Champ]]"
-  - "[[External Auditor]]"
   - "[[Internal Validity]]"
   - "[[Causality]]"
   - "[[Qualitative Reliability]]"
@@ -35,6 +34,7 @@ related_methods:
   - "[[Triangulation]]"
   - "[[Member Checking]]"
   - "[[Peer Debriefing]]"
+  - "[[External Auditor]]"
 related_persons: []
 related_facts: []
 related_arguments:

@@ -24,7 +24,6 @@ tags:
 related_concepts:
   - "[[Reliability]]"
   - "[[Variable]]"
-  - "[[Likert Scale]]"
   - "[[Unit of Analysis]]"
   - "[[Construct]]"
   - "[[Epistemology]]"
@@ -33,6 +32,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Internal Consistency]]"
+  - "[[Likert Scale]]"
   - "[[Confirmatory Factor Analysis]]"
   - "[[Exploratory Factor Analysis]]"
   - "[[Average Variance Extracted]]"

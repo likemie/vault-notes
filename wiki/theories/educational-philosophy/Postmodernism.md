@@ -32,7 +32,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Ontology]]"
   - "[[Variable]]"
-  - "[[Questionnaire]]"
   - "[[Rich and Thick Description]]"
   - "[[Construct]]"
   - "[[Disciplina and Doctrina]]"
@@ -51,6 +50,7 @@ related_theories:
   - "[[Critical Realism]]"
 related_methods:
   - "[[Narrative Research]]"
+  - "[[Questionnaire]]"
   - "[[Discourse Analysis]]"
   - "[[Case Study]]"
   - "[[Ethnography]]"

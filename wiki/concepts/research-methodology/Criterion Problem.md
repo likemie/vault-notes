@@ -26,7 +26,6 @@ related_concepts:
   - "[[Criterion-related Validity]]"
   - "[[Predictive Validity]]"
   - "[[Operationalization]]"
-  - "[[Questionnaire]]"
   - "[[Divergent Thinking]]"
   - "[[Problem Finding]]"
   - "[[Academic Achievement]]"
@@ -38,6 +37,7 @@ related_theories: []
 related_methods:
   - "[[Effect Size]]"
   - "[[Meta-analysis]]"
+  - "[[Questionnaire]]"
   - "[[Meta-meta-analysis]]"
   - "[[Triangulation]]"
   - "[[Multitrait-Multimethod Matrix]]"

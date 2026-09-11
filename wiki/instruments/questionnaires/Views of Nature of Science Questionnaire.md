@@ -17,7 +17,6 @@ administration_mode: self-report
 response_format: "open-ended"
 tags: [theme/nature-of-science, theme/epistemology]
 related_concepts:
-  - "[[Questionnaire]]"
   - "[[Epistemology]]"
   - "[[Construct]]"
   - "[[Formal Epistemology]]"
@@ -25,6 +24,7 @@ related_concepts:
   - "[[Document]]"
 related_theories: []
 related_methods:
+  - "[[Questionnaire]]"
   - "[[Semi-structured Interview]]"
   - "[[Coding in Qualitative Research]]"
 related_instruments: []

@@ -20,7 +20,6 @@ tags:
   - comparative-education
 related_concepts:
   - "[[Epistemology]]"
-  - "[[Analytic Framework]]"
   - "[[Idiographic]]"
   - "[[Positivism]]"
   - "[[Rationalism in International Relations]]"
@@ -49,7 +48,6 @@ related_concepts:
   - "[[Grand Theory]]"
   - "[[Comparative Educations]]"
   - "[[Operationalization]]"
-  - "[[Sample Size Determination]]"
   - "[[Intangible Spiritual Forces]]"
   - "[[Value Neutrality]]"
   - "[[Incommensurability]]"
@@ -57,7 +55,9 @@ related_theories:
   - "[[Postmodernism]]"
   - "[[Burrell and Morgan Four Assumptions Framework]]"
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Problem Approach]]"
+  - "[[Sample Size Determination]]"
 related_instruments: []
 related_persons:
   - "[[Thomas Barr Greenfield]]"

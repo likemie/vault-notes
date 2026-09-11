@@ -19,12 +19,12 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Research Purpose]]"
   - "[[Attrition]]"
-  - "[[Sample Size Determination]]"
 related_theories: []
 related_methods:
   - "[[Stage Sampling]]"
   - "[[Random Sampling]]"
   - "[[Progressive Focussing]]"
+  - "[[Sample Size Determination]]"
 related_persons: []
 related_facts: []
 related_arguments:

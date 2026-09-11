@@ -19,12 +19,12 @@ tags:
   - sampling
 related_concepts:
   - "[[Sampling Error]]"
-  - "[[Confidence Interval]]"
-  - "[[Sample Size Determination]]"
   - "[[Variable]]"
 related_theories:
   - "[[Central Limit Theorem]]"
 related_methods:
+  - "[[Confidence Interval]]"
+  - "[[Sample Size Determination]]"
   - "[[Causal Modeling]]"
   - "[[Random Sampling]]"
   - "[[Effect Size]]"

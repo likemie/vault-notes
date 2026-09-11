@@ -19,7 +19,6 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Hypothesis]]"
-  - "[[Sample Size Determination]]"
   - "[[Academic Achievement]]"
   - "[[Educational Level]]"
 related_theories: []
@@ -27,6 +26,7 @@ related_methods:
   - "[[Binary Logistic Regression]]"
   - "[[Chi-Squared Test]]"
   - "[[Standard Error]]"
+  - "[[Sample Size Determination]]"
 related_instruments: []
 related_persons: []
 related_facts: []

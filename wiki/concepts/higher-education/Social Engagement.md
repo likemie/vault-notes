@@ -16,12 +16,10 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Student Engagement]]"
-  - "[[Analytic Framework]]"
   - "[[Academic Engagement]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Employability]]"
   - "[[Economy of Experience]]"
-  - "[[Questionnaire]]"
   - "[[Operationalization]]"
   - "[[Habitus]]"
   - "[[Student-Teacher Relationship]]"
@@ -35,6 +33,8 @@ related_concepts:
   - "[[Growth]]"
 related_theories: []
 related_methods:
+  - "[[Analytic Framework]]"
+  - "[[Questionnaire]]"
   - "[[Triangulation]]"
 related_persons:
   - "[[Yajun Zheng]]"

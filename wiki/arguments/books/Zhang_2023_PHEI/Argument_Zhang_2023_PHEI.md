@@ -43,7 +43,6 @@ related_concepts:
   - "[[New York Bay Area]]"
   - "[[Tokyo Bay Area]]"
   - "[[Research Question]]"
-  - "[[Analytic Framework]]"
   - "[[Blue Skies Research]]"
   - "[[Technology Transfer]]"
   - "[[Emergence]]"
@@ -63,6 +62,8 @@ related_facts:
   - "[[Sino-American Trade War]]"
   - "[[Tsukuba Science City]]"
   - "[[Open Competition Mechanism]]"
+related_methods:
+  - "[[Analytic Framework]]"
 status: draft
 created: 2026-06-11
 updated: 2026-08-20

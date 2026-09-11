@@ -43,11 +43,9 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Data Literacy]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
-  - "[[Sample Size Determination]]"
   - "[[Variable]]"
   - "[[Teacher Professional Agency]]"
   - "[[Analytical Stance]]"
-  - "[[Questionnaire]]"
 related_theories:
   - "[[Critical Realism]]"
 related_methods:
@@ -61,9 +59,11 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Action Research]]"
   - "[[Mechanism Experiments]]"
+  - "[[Sample Size Determination]]"
   - "[[In-depth Interview]]"
   - "[[Mixed Methods Research]]"
   - "[[Systematic Review]]"
+  - "[[Questionnaire]]"
 related_persons:
   - "[[Donald A. Schön]]"
   - "[[Anthony Bryk]]"

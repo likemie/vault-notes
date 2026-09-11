@@ -22,7 +22,6 @@ tags:
   - statistics/variance-estimation
 related_concepts:
   - "[[Document]]"
-  - "[[Confidence Interval]]"
   - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Unit of Analysis]]"
@@ -37,6 +36,7 @@ related_methods:
   - "[[Meta-regression]]"
   - "[[Effect Size]]"
   - "[[Standard Error]]"
+  - "[[Confidence Interval]]"
   - "[[Correlated and Hierarchical Effects Model]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Coding in Qualitative Research]]"

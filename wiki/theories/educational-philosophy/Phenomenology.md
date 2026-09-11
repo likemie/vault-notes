@@ -27,7 +27,6 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Peer-Supported Learning]]"
   - "[[Heterogeneity]]"
-  - "[[Transcription in Qualitative Research]]"
   - "[[Hypothesis]]"
   - "[[Research Question]]"
   - "[[Central Question]]"
@@ -46,17 +45,18 @@ related_concepts:
   - "[[Discipline-Based Theory]]"
   - "[[Powerful Knowledge]]"
   - "[[Visible Learning]]"
-  - "[[Analytic Framework]]"
 related_theories:
   - "[[Symbolic Interactionism]]"
   - "[[Critical Realism]]"
 related_methods:
+  - "[[Transcription in Qualitative Research]]"
   - "[[Qualitative Research]]"
   - "[[Member Checking]]"
   - "[[Participant Observation]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Qualitative Interview]]"
   - "[[Narrative Research]]"
+  - "[[Analytic Framework]]"
 related_persons:
   - "[[Edmund Husserl]]"
   - "[[Alfred Schutz]]"

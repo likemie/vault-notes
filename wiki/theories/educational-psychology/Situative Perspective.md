@@ -22,7 +22,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Constructivist Paradigm]]"
   - "[[Praxis]]"
-  - "[[Questionnaire]]"
   - "[[Epistemology]]"
   - "[[Epistemic Climate]]"
   - "[[Epistemic Cognition]]"
@@ -36,6 +35,7 @@ related_theories:
   - "[[Cognitive Constructivism]]"
   - "[[Integrative Pluralism]]"
 related_methods:
+  - "[[Questionnaire]]"
   - "[[Ethnography]]"
   - "[[Discourse Analysis]]"
   - "[[Coding in Qualitative Research]]"

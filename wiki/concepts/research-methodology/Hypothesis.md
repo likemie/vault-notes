@@ -22,7 +22,6 @@ related_concepts:
   - "[[Causality]]"
   - "[[Null Hypothesis]]"
   - "[[Alternative Hypothesis]]"
-  - "[[Pre-test and Post-test]]"
   - "[[Research Purpose]]"
   - "[[Operationalization]]"
   - "[[Dependent Variable]]"
@@ -33,6 +32,7 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Mixed Methods Research]]"
   - "[[Observation Method]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Causal Modeling]]"
 related_persons: []
 related_facts: []

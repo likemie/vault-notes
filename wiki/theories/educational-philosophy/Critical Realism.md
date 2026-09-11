@@ -28,7 +28,6 @@ related_concepts:
   - "[[Interaction Effect]]"
   - "[[Empiricism]]"
   - "[[Student-Teacher Relationship]]"
-  - "[[Pre-test and Post-test]]"
   - "[[Epistemology]]"
   - "[[Realism in International Relations]]"
   - "[[Paradigm]]"
@@ -38,18 +37,19 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Interpretive Paradigm]]"
   - "[[Heterogeneity]]"
-  - "[[Analytic Framework]]"
   - "[[Hypothesis]]"
   - "[[Falsification]]"
 related_theories: []
 related_methods:
   - "[[Effect Size]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Random Assignment]]"
   - "[[Qualitative Research]]"
   - "[[Qualitative Observation]]"
   - "[[Action Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-analysis]]"
+  - "[[Analytic Framework]]"
   - "[[Meta-meta-analysis]]"
 related_persons:
   - "[[Roy Bhaskar]]"

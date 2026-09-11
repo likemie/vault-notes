@@ -16,7 +16,6 @@ tags:
 related_concepts:
   - "[[Otherhood]]"
   - "[[Entrepreneurial University]]"
-  - "[[Analytic Framework]]"
   - "[[New Public Management]]"
   - "[[Research Impact]]"
   - "[[Research Problem]]"
@@ -26,7 +25,8 @@ related_concepts:
 related_theories:
   - "[[World Society Theory]]"
   - "[[Cultural Models]]"
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons: []
 related_facts:
   - "[[Bologna Process]]"

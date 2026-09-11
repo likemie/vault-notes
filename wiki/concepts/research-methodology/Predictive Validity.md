@@ -8,7 +8,7 @@ aliases:
 summary: "效标关联效度的一种核心形式，衡量测量工具在当前时间点的得分对受试者未来认知表现、学业成就或实际成果的预测能力，核心特征是具有时滞性与预测效度不对称性"
 type: concept
 domain: "research-methodology"
-related_count: 37
+related_count: 38
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -26,12 +26,11 @@ related_concepts:
   - "[[Construct Validity]]"
   - "[[Construct]]"
   - "[[Content Validity]]"
-  - "[[Pre-test and Post-test]]"
   - "[[Achievement and Aptitude Tests]]"
   - "[[Reliability]]"
   - "[[Variable]]"
   - "[[Dependent Variable]]"
-  - "[[Confidence Interval]]"
+  - "[[APA Style]]"
   - "[[Criterion Problem]]"
   - "[[Chain of Evidence]]"
   - "[[Consequential Validity]]"
@@ -39,6 +38,7 @@ related_concepts:
 related_theories:
   - "[[Classical Test Theory]]"
 related_methods:
+  - "[[Pre-test and Post-test]]"
   - "[[Effect Size]]"
   - "[[Pearson Product-Moment Correlation]]"
   - "[[Confirmatory Factor Analysis]]"
@@ -47,6 +47,7 @@ related_methods:
   - "[[Internal Consistency]]"
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Confidence Interval]]"
   - "[[Second-Order Meta-Regression]]"
   - "[[Cohort Study]]"
   - "[[Multiple Regression]]"
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-23
-updated: 2026-08-24
+updated: 2026-09-11
 ---
 
 # Predictive Validity

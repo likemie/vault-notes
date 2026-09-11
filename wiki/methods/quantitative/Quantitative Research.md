@@ -10,7 +10,7 @@ summary: "通过操作化变量、标准化测量、受控实验或抽样调查�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 77
+method_related_count: 78
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -37,8 +37,6 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Hypothesis]]"
   - "[[Value Neutrality]]"
-  - "[[Blinding]]"
-  - "[[Questionnaire]]"
   - "[[Internal Validity]]"
   - "[[Reliability]]"
   - "[[Construct Validity]]"
@@ -47,8 +45,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Independent Variable]]"
   - "[[Study Population and Sample]]"
-  - "[[Sample Size Determination]]"
-  - "[[Confidence Interval]]"
+  - "[[APA Style]]"
   - "[[Champ]]"
   - "[[Scientism]]"
   - "[[Emergence]]"
@@ -66,6 +63,8 @@ related_methods:
   - "[[Descriptive Analysis]]"
   - "[[Effect Size]]"
   - "[[Model Fit Indices in SEM and CFA]]"
+  - "[[Blinding]]"
+  - "[[Questionnaire]]"
   - "[[Internal Consistency]]"
   - "[[Test-Retest Reliability]]"
   - "[[Parallel-Forms Reliability]]"
@@ -83,8 +82,10 @@ related_methods:
   - "[[Power Analysis]]"
   - "[[Standard Error]]"
   - "[[Pilot Testing]]"
+  - "[[Sample Size Determination]]"
   - "[[Random Assignment]]"
   - "[[Imputation Methods]]"
+  - "[[Confidence Interval]]"
   - "[[Measurement Invariance]]"
   - "[[Confirmatory Factor Analysis]]"
   - "[[Exploratory Factor Analysis]]"

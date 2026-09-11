@@ -26,7 +26,6 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Subjectivism]]"
-  - "[[Questionnaire]]"
   - "[[Operationalization]]"
   - "[[Determinism]]"
   - "[[Principle of Parsimony]]"
@@ -47,6 +46,7 @@ related_theories:
 related_methods:
   - "[[Observation Method]]"
   - "[[Mixed Methods Research]]"
+  - "[[Questionnaire]]"
 confidence: high
 status: draft
 created: 2026-09-09

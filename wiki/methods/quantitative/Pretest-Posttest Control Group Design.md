@@ -18,7 +18,6 @@ tags:
   - quantitative-research
   - design-type
 related_concepts:
-  - "[[Pre-test and Post-test]]"
   - "[[Unit of Analysis]]"
   - "[[Threats to Internal Validity]]"
   - "[[Internal Validity]]"
@@ -27,15 +26,16 @@ related_concepts:
   - "[[Counterfactual]]"
   - "[[Causality]]"
   - "[[Interaction Effect]]"
-  - "[[Sample Size Determination]]"
   - "[[Ecological Validity]]"
 related_methods:
+  - "[[Pre-test and Post-test]]"
   - "[[True Experimental Design]]"
   - "[[Random Assignment]]"
   - "[[Effect Size]]"
   - "[[Solomon Four-Group Design]]"
   - "[[Analysis of Covariance]]"
   - "[[Quasi-Experimental Designs]]"
+  - "[[Sample Size Determination]]"
   - "[[Experimental Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"

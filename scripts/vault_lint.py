@@ -1184,16 +1184,17 @@ def check_frontmatter(path: Path, text: str, by_title: Dict[str, Dict[str, Any]]
                     code="INSTRUMENT_TYPE_INVALID",
                 )
             )
-        if "developers" not in data or data.get("developers") in (None, "", []):
-            issues.append(Issue(
-                "ERROR",
-                rel(path),
-                "instrument entries must include developers",
-                line=frontmatter_line_number(fm, "developers"),
-                code="DEVELOPERS_MISSING",
-            ))
-        else:
-            check_instrument_developers(path, fm, data.get("developers"), issues)
+        if is_wiki_entry_path(path):
+            if "developers" not in data or data.get("developers") in (None, "", []):
+                issues.append(Issue(
+                    "ERROR",
+                    rel(path),
+                    "instrument entries must include developers",
+                    line=frontmatter_line_number(fm, "developers"),
+                    code="DEVELOPERS_MISSING",
+                ))
+            else:
+                check_instrument_developers(path, fm, data.get("developers"), issues)
 
     if is_citation_eligible_argument(data):
         for field in ["year", "citation_aliases"]:

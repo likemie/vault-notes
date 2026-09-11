@@ -20,8 +20,6 @@ tags:
   - data-analysis
 related_concepts:
   - "[[Unit of Analysis]]"
-  - "[[Transcription in Qualitative Research]]"
-  - "[[Questionnaire]]"
   - "[[Reflexivity]]"
   - "[[Epistemology]]"
   - "[[Emergence]]"
@@ -43,7 +41,9 @@ related_methods:
   - "[[Field Notes]]"
   - "[[Axial Coding]]"
   - "[[Selective Coding]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Participant Observation]]"
+  - "[[Questionnaire]]"
   - "[[Qualitative Content Analysis]]"
   - "[[Case Study]]"
   - "[[Semi-structured Interview]]"

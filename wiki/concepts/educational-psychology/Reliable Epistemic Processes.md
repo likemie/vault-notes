@@ -24,7 +24,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Reliability]]"
   - "[[Epistemic Ideals]]"
-  - "[[Blinding]]"
   - "[[Clinical Trial]]"
   - "[[Habitus]]"
   - "[[Document]]"
@@ -35,16 +34,17 @@ related_concepts:
   - "[[Epistemic Cognition]]"
   - "[[Causal Processes]]"
   - "[[Scientific Method]]"
-  - "[[Sample Size Determination]]"
   - "[[Dialogue in Education]]"
 related_theories:
   - "[[Reliabilism]]"
   - "[[AIR Model of Epistemic Cognition]]"
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Blinding]]"
   - "[[Systematic Review]]"
   - "[[Effect Size]]"
   - "[[Discourse Analysis]]"
+  - "[[Sample Size Determination]]"
 related_persons:
   - "[[Clark A. Chinn]]"
 related_arguments:

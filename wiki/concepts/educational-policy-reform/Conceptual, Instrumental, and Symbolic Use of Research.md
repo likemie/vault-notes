@@ -31,13 +31,13 @@ related_concepts:
   - "[[Fitness for Purpose]]"
   - "[[Dialogue in Education]]"
   - "[[Evidence-Informed Practice]]"
-  - "[[Questionnaire]]"
   - "[[Variable]]"
 related_theories:
   - "[[Quality Use of Research Evidence Framework]]"
   - "[[Research Utilization Models]]"
 related_methods:
   - "[[Systematic Review]]"
+  - "[[Questionnaire]]"
   - "[[Effect Size]]"
 related_instruments: []
 related_persons: []

@@ -20,11 +20,11 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Independent Variable]]"
   - "[[Research Question]]"
-  - "[[Pre-test and Post-test]]"
   - "[[Hypothesis]]"
 related_theories: []
 related_methods:
   - "[[Analysis of Variance]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Multiple Regression]]"
   - "[[Meta-regression]]"
   - "[[Experimental Research]]"

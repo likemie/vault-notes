@@ -11,7 +11,7 @@ aliases:
 summary: "通过显性认知策略、启发式重构工具、建构主义探究环境与情境指导语，系统识别、激发与提升个体与群体创造潜能的教育教学干预方案。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 52
+related_count: 53
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -23,7 +23,6 @@ tags:
 related_concepts:
   - "[[Creativity]]"
   - "[[Problem Solving]]"
-  - "[[Confidence Interval]]"
   - "[[Direct Instruction]]"
   - "[[Critical Thinking]]"
   - "[[Paradigm]]"
@@ -48,6 +47,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Habituation]]"
   - "[[Task Structure]]"
+  - "[[APA Style]]"
   - "[[Determinism]]"
   - "[[Domain Specificity]]"
   - "[[Independent Knowing]]"
@@ -61,6 +61,7 @@ related_theories:
   - "[[Creative Problem Solving]]"
 related_methods:
   - "[[Effect Size]]"
+  - "[[Confidence Interval]]"
   - "[[Role-playing]]"
   - "[[Meta-analysis]]"
   - "[[Experimental Research]]"
@@ -81,7 +82,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-09-03
+updated: 2026-09-11
 ---
 
 # Creativity Training

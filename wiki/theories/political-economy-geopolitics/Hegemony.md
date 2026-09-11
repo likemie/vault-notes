@@ -23,7 +23,6 @@ tags:
   - theme/power
   - region/global
 related_concepts:
-  - "[[Memos]]"
   - "[[Official Knowledge]]"
   - "[[Determinism]]"
   - "[[Global Universities Rankings]]"
@@ -46,6 +45,7 @@ related_theories:
   - "[[World-Systems Theory]]"
   - "[[Post-colonial Theory]]"
 related_methods:
+  - "[[Memos]]"
   - "[[Discourse Analysis]]"
   - "[[In-depth Interview]]"
 related_instruments: []

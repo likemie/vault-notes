@@ -31,7 +31,6 @@ related_concepts:
   - "[[Paradox of the Chinese Learner]]"
   - "[[Student Learning Research]]"
   - "[[Dependent Variable]]"
-  - "[[Confidence Interval]]"
   - "[[Heterogeneity]]"
   - "[[Epistemology]]"
   - "[[Chinese Learner]]"
@@ -41,6 +40,7 @@ related_theories:
   - "[[Dynamic Knowledge and Learning Model]]"
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Confidence Interval]]"
   - "[[Effect Size]]"
 related_persons:
   - "[[John Biggs]]"

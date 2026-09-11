@@ -36,12 +36,9 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Postpositivism]]"
   - "[[Paradigm]]"
-  - "[[Pre-test and Post-test]]"
   - "[[External Validity]]"
   - "[[Falsification]]"
-  - "[[Manipulation Check]]"
   - "[[Homework]]"
-  - "[[Sample Size Determination]]"
   - "[[Intelligent Tutoring Systems]]"
 related_theories:
   - "[[Campbellian Validity Framework]]"
@@ -50,7 +47,10 @@ related_methods:
   - "[[Random Assignment]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Standard Error]]"
+  - "[[Manipulation Check]]"
+  - "[[Sample Size Determination]]"
   - "[[Time Series Design]]"
 related_instruments: []
 related_persons: []

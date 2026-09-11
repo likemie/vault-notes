@@ -20,13 +20,13 @@ related_concepts:
   - "[[Informed Consent]]"
   - "[[Hypothesis]]"
   - "[[Research Scope]]"
-  - "[[Questionnaire]]"
-  - "[[Transcription in Qualitative Research]]"
   - "[[Research Purpose]]"
   - "[[Gatekeepers]]"
 related_theories: []
 related_methods:
   - "[[Ethnography]]"
+  - "[[Questionnaire]]"
+  - "[[Transcription in Qualitative Research]]"
 related_persons: []
 related_facts: []
 related_arguments:

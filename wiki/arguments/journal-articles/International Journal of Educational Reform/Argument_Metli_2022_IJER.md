@@ -24,8 +24,6 @@ related_concepts:
   - "[[Extended Essay]]"
   - "[[Concurrency of Learning]]"
   - "[[Experiential Learning]]"
-  - "[[Questionnaire]]"
-  - "[[Likert Scale]]"
   - "[[Praxis]]"
   - "[[Conatus]]"
   - "[[IB Learner Profile]]"
@@ -42,6 +40,8 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
+  - "[[Questionnaire]]"
+  - "[[Likert Scale]]"
   - "[[Focus Group]]"
   - "[[Semi-structured Interview]]"
   - "[[Coding in Qualitative Research]]"

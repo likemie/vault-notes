@@ -16,14 +16,14 @@ tags:
   - theme/comparative-education
   - critique/concept
 related_concepts:
-  - "[[Analytic Framework]]"
   - "[[Hypothesis]]"
   - "[[Relational Space]]"
   - "[[Methodological Nationalism]]"
   - "[[Unit of Analysis]]"
 related_theories:
   - "[[Actor-Network Theory]]"
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons: []
 related_facts:
   - "[[OECD]]"

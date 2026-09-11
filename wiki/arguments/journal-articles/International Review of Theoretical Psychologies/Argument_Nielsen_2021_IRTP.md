@@ -26,7 +26,6 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Visible Learning]]"
-  - "[[Analytic Framework]]"
   - "[[Technical Rationality]]"
   - "[[Literature Review]]"
   - "[[Interaction Effect]]"
@@ -41,6 +40,7 @@ related_concepts:
   - "[[Doxa]]"
 related_theories: []
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Effect Size]]"
   - "[[Accounts]]"
 related_persons: []

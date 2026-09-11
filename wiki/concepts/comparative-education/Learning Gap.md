@@ -22,7 +22,6 @@ tags:
 related_concepts:
   - "[[Academic Achievement]]"
   - "[[International Education]]"
-  - "[[Questionnaire]]"
   - "[[Western Learner]]"
   - "[[Chinese Learner]]"
   - "[[Learning Virtues]]"
@@ -33,6 +32,7 @@ related_theories:
   - "[[Confucian Learning Tradition]]"
   - "[[Entity vs Incremental Intelligence]]"
 related_methods:
+  - "[[Questionnaire]]"
   - "[[Ethnography]]"
 related_persons:
   - "[[Stevenson and Stigler]]"

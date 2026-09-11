@@ -17,13 +17,13 @@ tags:
   - "theme/university-industry-collaboration"
 related_concepts:
   - "[[University-Industry Collaboration]]"
-  - "[[Analytic Framework]]"
   - "[[Attrition]]"
   - "[[Technology Transfer]]"
   - "[[Innovation Ecosystem]]"
 related_theories:
   - "[[Triple Helix]]"
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons: []
 related_facts:
   - "[[National Science Foundation]]"

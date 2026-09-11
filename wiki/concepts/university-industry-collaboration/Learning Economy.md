@@ -16,13 +16,13 @@ tags:
 related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Multi-channel Interactive Learning Model]]"
-  - "[[Analytic Framework]]"
   - "[[Linear Model of Innovation]]"
   - "[[Necessary and Sufficient Conditions]]"
 related_theories:
   - "[[Systems of Innovation]]"
   - "[[Luhmann's Systems Theory]]"
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons: []
 related_facts: []
 related_arguments:

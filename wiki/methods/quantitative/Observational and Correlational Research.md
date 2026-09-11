@@ -21,7 +21,6 @@ related_concepts:
   - "[[Independent Variable]]"
   - "[[Epistemology]]"
   - "[[Hypothesis]]"
-  - "[[Questionnaire]]"
   - "[[Research Utilization]]"
   - "[[Causality]]"
   - "[[Recommendations for Practice]]"
@@ -34,6 +33,7 @@ related_theories: []
 related_methods:
   - "[[Non-intervention Research]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Questionnaire]]"
   - "[[Experimental Research]]"
   - "[[Intervention Research]]"
   - "[[Qualitative Research]]"

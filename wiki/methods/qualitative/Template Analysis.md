@@ -17,12 +17,10 @@ tags:
   - method/coding
 related_concepts:
   - "[[Document]]"
-  - "[[Transcription in Qualitative Research]]"
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Positivism]]"
   - "[[Constructivist Paradigm]]"
-  - "[[Intercoder Agreement]]"
   - "[[Hypothesis]]"
   - "[[Operationalization]]"
 related_theories:
@@ -32,7 +30,9 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Open Coding]]"
   - "[[Qualitative Interview]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Field Notes]]"
+  - "[[Intercoder Agreement]]"
   - "[[Triangulation]]"
   - "[[Case Study]]"
   - "[[Qualitative Observation]]"

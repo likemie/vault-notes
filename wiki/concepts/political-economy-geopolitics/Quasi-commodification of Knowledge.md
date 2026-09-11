@@ -20,12 +20,12 @@ tags:
   - paradigm/critical
   - level/higher-ed
 related_concepts:
-  - "[[Analytic Framework]]"
   - "[[Fictitious Commodity of Knowledge]]"
   - "[[Knowledge-Based Economy]]"
 related_theories:
   - "[[Academic Capitalism]]"
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons: []
 related_facts:
   - "[[Research Excellence Framework]]"

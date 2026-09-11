@@ -23,6 +23,7 @@ related_methods:
   - "[[Observation Method]]"
   - "[[Structured Observation]]"
   - "[[Field Notes]]"
+  - "[[Questionnaire]]"
   - "[[Quantitative Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23]]"
@@ -33,7 +34,6 @@ related_concepts:
   - "[[Causality]]"
   - "[[Homework]]"
   - "[[Classroom Management]]"
-  - "[[Questionnaire]]"
 status: draft
 created: 2026-07-23
 updated: 2026-07-23

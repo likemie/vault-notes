@@ -33,10 +33,10 @@ related_concepts:
   - "[[Policy Network]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Governance by Spin]]"
-  - "[[Analytic Framework]]"
 related_theories:
   - "[[Network Society]]"
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons:
   - "[[Manuel Castells]]"
 related_facts:

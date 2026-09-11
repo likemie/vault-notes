@@ -27,12 +27,12 @@ tags:
   - method/measurement
 related_concepts:
   - "[[Creativity]]"
-  - "[[Rating Scale]]"
   - "[[Problem Solving]]"
   - "[[Paradigm]]"
   - "[[Creativity Assessment]]"
 related_theories: []
 related_methods:
+  - "[[Rating Scale]]"
   - "[[Inter-Rater Reliability]]"
 related_instruments: []
 related_persons: []

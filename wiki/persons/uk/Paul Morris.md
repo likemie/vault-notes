@@ -7,10 +7,10 @@ summary: "英国比较教育与课程研究学者，香港课程政治与政策�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 13
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 16
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1951"
 died: ""
 lifespan: "1951–至今"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Lifelong Learning]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Rashomon Effect]]"
   - "[[Rationalism in International Relations]]"
   - "[[International Schools]]"
   - "[[IB Diploma Programme]]"
@@ -33,12 +34,14 @@ related_methods:
   - "[[Analytic Framework]]"
 related_persons: []
 related_arguments:
+  - "[[Argument_Grey_2018_CE]]"
   - "[[Argument_Yan_2025_JCS]]"
   - "[[Argument_Ryan_2010_HKUP]]"
 related_facts:
   - "[[PISA]]"
   - "[[Liberal Studies]]"
   - "[[Transnationalism and America Project SYSU]]"
+  - "[[OECD]]"
   - "[[National Security Law]]"
 confidence: high
 status: draft

@@ -28,7 +28,6 @@ related_concepts:
   - "[[Cultural Capital]]"
   - "[[Individualised Instruction]]"
   - "[[Learning Gap]]"
-  - "[[Pre-test and Post-test]]"
   - "[[Heterogeneity]]"
 related_theories: []
 related_methods:
@@ -36,6 +35,7 @@ related_methods:
   - "[[Experimental Research]]"
   - "[[Meta-analysis]]"
   - "[[Baseline Standardized Mean Difference]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Prediction Interval]]"
   - "[[Moderator Analysis]]"
 related_instruments: []

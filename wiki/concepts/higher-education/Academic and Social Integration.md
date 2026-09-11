@@ -18,7 +18,6 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Hypothesis]]"
-  - "[[Analytic Framework]]"
   - "[[Student Engagement]]"
   - "[[Operationalization]]"
   - "[[Student Involvement]]"
@@ -31,6 +30,7 @@ related_concepts:
   - "[[Intuition-Dependent Mode]]"
 related_theories: []
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Triangulation]]"
 related_persons:
   - "[[Yajun Zheng]]"

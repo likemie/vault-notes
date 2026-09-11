@@ -20,11 +20,11 @@ tags:
 related_concepts:
   - "[[Knowledge Production]]"
   - "[[Research Question]]"
-  - "[[Analytic Framework]]"
   - "[[Research Translation]]"
 related_theories: []
 related_methods:
   - "[[Design-Based Research]]"
+  - "[[Analytic Framework]]"
 related_persons: []
 related_facts: []
 related_arguments:

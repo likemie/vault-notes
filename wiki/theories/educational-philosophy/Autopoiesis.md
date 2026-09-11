@@ -14,7 +14,6 @@ tags:
   - theory/systems-theory
   - theme/self-referentiality
 related_concepts:
-  - "[[Analytic Framework]]"
   - "[[Epistemology]]"
   - "[[Emergence]]"
   - "[[Multiplicity]]"
@@ -38,6 +37,7 @@ related_theories:
   - "[[Transition Design]]"
   - "[[Cultural Models]]"
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Snowball Sampling]]"
 related_persons:
   - "[[Niklas Luhmann]]"

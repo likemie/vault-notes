@@ -30,10 +30,10 @@ related_concepts:
   - "[[Post-Normal Science]]"
   - "[[Scientific Uncertainty]]"
   - "[[Public Engagement with Science]]"
-  - "[[Confidence Interval]]"
   - "[[Hypothesis]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Confidence Interval]]"
 related_instruments: []
 related_persons: []
 related_facts:

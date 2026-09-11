@@ -16,15 +16,15 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Dialogue in Education]]"
   - "[[Hypothesis]]"
-  - "[[Transcription in Qualitative Research]]"
   - "[[Growth]]"
-  - "[[Questionnaire]]"
 related_methods:
   - "[[Experience Sampling Method]]"
   - "[[Account Gathering]]"
   - "[[Cross-checking]]"
   - "[[Member Tests]]"
   - "[[Ethogenic Approach]]"
+  - "[[Transcription in Qualitative Research]]"
+  - "[[Questionnaire]]"
   - "[[Accounts]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]]"

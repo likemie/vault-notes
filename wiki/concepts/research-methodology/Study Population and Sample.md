@@ -19,10 +19,8 @@ tags:
   - quantitative-research
   - survey
 related_concepts:
-  - "[[Sample Size Determination]]"
   - "[[Research Purpose]]"
   - "[[Variable]]"
-  - "[[Sampling Frame]]"
   - "[[Gatekeepers]]"
   - "[[External Validity]]"
   - "[[Response Bias]]"
@@ -31,6 +29,8 @@ related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
   - "[[Survey Research]]"
+  - "[[Sample Size Determination]]"
+  - "[[Sampling Frame]]"
   - "[[Random Sampling]]"
   - "[[Non-probability Sampling]]"
   - "[[Mixed Methods Research]]"

@@ -14,7 +14,6 @@ theory_related_color: "#e0e7ff"
 tags: []
 related_concepts:
   - "[[Epistemology]]"
-  - "[[Analytic Framework]]"
   - "[[Ontology]]"
   - "[[Epistemic Cognition]]"
   - "[[Realism in International Relations]]"
@@ -25,11 +24,12 @@ related_concepts:
   - "[[Scale of Measurement]]"
   - "[[Educational Level]]"
   - "[[Academic Achievement]]"
-  - "[[Questionnaire]]"
   - "[[Hypothesis]]"
 related_theories: []
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Factor Mixture Modeling]]"
+  - "[[Questionnaire]]"
 related_instruments:
   - "[[Epistemic and Ontological Cognition Questionnaire]]"
 related_persons: []

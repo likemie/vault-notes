@@ -20,9 +20,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Epistemological Beliefs]]"
   - "[[Hypothesis]]"
-  - "[[Sample Size Determination]]"
-  - "[[Questionnaire]]"
-  - "[[Confidence Interval]]"
   - "[[Convergent and Discriminant Validity]]"
 related_theories: []
 related_methods:
@@ -30,7 +27,10 @@ related_methods:
   - "[[Model Fit Indices in SEM and CFA]]"
   - "[[Measurement Invariance]]"
   - "[[Causal Modeling]]"
+  - "[[Sample Size Determination]]"
   - "[[Chi-Squared Test]]"
+  - "[[Questionnaire]]"
+  - "[[Confidence Interval]]"
   - "[[Standard Error]]"
   - "[[Average Variance Extracted]]"
 related_instruments:

@@ -17,7 +17,6 @@ tags:
 - research-methodology
 related_concepts:
   - "[[Variable]]"
-  - "[[Sample Size Determination]]"
   - "[[Study Population and Sample]]"
   - "[[Causality]]"
   - "[[Publication Bias]]"
@@ -32,6 +31,7 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Meta-analysis]]"
   - "[[Meta-regression]]"
+  - "[[Sample Size Determination]]"
   - "[[Prediction Interval]]"
   - "[[Quasi-Experimental Designs]]"
 related_persons: []

@@ -21,13 +21,13 @@ related_concepts:
   - "[[Total Factor Productivity]]"
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
-  - "[[Data Transformation]]"
   - "[[Heterogeneity]]"
   - "[[Hypothesis]]"
   - "[[Causality]]"
   - "[[Variable]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Data Transformation]]"
 related_persons: []
 related_facts: []
 related_arguments:

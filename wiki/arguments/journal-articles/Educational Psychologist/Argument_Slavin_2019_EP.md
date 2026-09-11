@@ -31,7 +31,6 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[External Validity]]"
-  - "[[Sample Size Determination]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Document]]"
   - "[[Dialogue in Education]]"
@@ -42,6 +41,7 @@ related_methods:
   - "[[Systematic Review]]"
   - "[[Effect Size]]"
   - "[[Random Assignment]]"
+  - "[[Sample Size Determination]]"
   - "[[Matching]]"
   - "[[Meta-analysis]]"
 related_persons: []

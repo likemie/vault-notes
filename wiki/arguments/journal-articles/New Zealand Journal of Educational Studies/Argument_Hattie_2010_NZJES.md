@@ -25,7 +25,6 @@ related_concepts:
   - "[[Critic and Conscience of Society]]"
   - "[[Reflexivity]]"
   - "[[Visible Learning]]"
-  - "[[Analytic Framework]]"
   - "[[Hypothesis]]"
   - "[[Class Size]]"
   - "[[Performance Pay]]"
@@ -37,6 +36,7 @@ related_concepts:
   - "[[Value Neutrality]]"
 related_theories: []
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
 related_persons:

@@ -16,14 +16,14 @@ tags:
   - quantitative-research
   - statistics
 related_concepts:
-  - "[[Sample Size Determination]]"
-  - "[[Confidence Interval]]"
   - "[[Response Bias]]"
-  - "[[Sampling Frame]]"
   - "[[Variable]]"
 related_theories:
   - "[[Central Limit Theorem]]"
 related_methods:
+  - "[[Sample Size Determination]]"
+  - "[[Confidence Interval]]"
+  - "[[Sampling Frame]]"
   - "[[Standard Error]]"
   - "[[Causal Modeling]]"
   - "[[Effect Size]]"

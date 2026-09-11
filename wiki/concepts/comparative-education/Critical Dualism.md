@@ -37,11 +37,11 @@ related_concepts:
   - "[[Scientific Paradigm]]"
   - "[[Grand Theory]]"
   - "[[Rationalism in International Relations]]"
-  - "[[Analytic Framework]]"
   - "[[Variable]]"
   - "[[Document]]"
 related_methods:
   - "[[Problem Approach]]"
+  - "[[Analytic Framework]]"
 related_persons:
   - "[[Brian Holmes]]"
   - "[[Karl Popper]]"

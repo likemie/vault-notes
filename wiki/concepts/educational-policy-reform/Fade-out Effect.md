@@ -22,7 +22,6 @@ tags:
   - intervention-sustainability
   - longitudinal-study
 related_concepts:
-  - "[[Pre-test and Post-test]]"
   - "[[Evidence-Based Education]]"
   - "[[Scaffolding]]"
   - "[[Hawthorne Effect]]"
@@ -33,6 +32,7 @@ related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
 related_theories: []
 related_methods:
+  - "[[Pre-test and Post-test]]"
   - "[[Effect Size]]"
 related_instruments: []
 related_persons: []

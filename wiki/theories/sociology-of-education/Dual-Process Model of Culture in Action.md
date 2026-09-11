@@ -18,7 +18,6 @@ tags:
   - paradigm/interpretivist
 related_concepts:
   - "[[Paradigm]]"
-  - "[[Analytic Framework]]"
   - "[[Habitus]]"
   - "[[Hypothesis]]"
   - "[[Praxis]]"
@@ -31,6 +30,7 @@ related_concepts:
 related_theories:
   - "[[Culture as Toolkit]]"
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Discourse Analysis]]"
 related_persons:
   - "[[Max Weber]]"

@@ -22,7 +22,6 @@ related_concepts:
   - "[[Purpose Statement]]"
   - "[[Central Question]]"
   - "[[Variable]]"
-  - "[[Story Line]]"
   - "[[Research Writing Script]]"
   - "[[Paradigm]]"
   - "[[Operationalization]]"
@@ -48,7 +47,6 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Research Question]]"
   - "[[Hypothesis]]"
-  - "[[Qualitative Codebook]]"
   - "[[Construct]]"
 related_theories:
   - "[[Phenomenology]]"
@@ -58,6 +56,7 @@ related_methods:
   - "[[Quantitative Research]]"
   - "[[Axial Coding]]"
   - "[[Selective Coding]]"
+  - "[[Story Line]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Content Analysis]]"
   - "[[Domain Analysis]]"
@@ -67,6 +66,7 @@ related_methods:
   - "[[Ethnography]]"
   - "[[Case Study]]"
   - "[[Qualitative Content Analysis]]"
+  - "[[Qualitative Codebook]]"
 related_persons:
   - "[[Louis Cohen]]"
 related_facts: []

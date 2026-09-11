@@ -33,9 +33,9 @@ related_concepts:
   - "[[Variable]]"
   - "[[Falsification]]"
   - "[[Reliable Epistemic Processes]]"
-  - "[[Blinding]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Blinding]]"
 related_instruments: []
 related_persons: []
 related_facts: []

@@ -29,7 +29,6 @@ related_concepts:
   - "[[Educated Identity]]"
   - "[[Construct]]"
   - "[[Test Specifications and Test Blueprint]]"
-  - "[[Sampling Frame]]"
   - "[[Empiricism]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Positivism]]"
@@ -40,6 +39,7 @@ related_theories:
   - "[[Governing at a Distance]]"
 related_methods:
   - "[[Trend Study]]"
+  - "[[Sampling Frame]]"
 related_instruments: []
 related_persons:
   - "[[Torsten Husén]]"

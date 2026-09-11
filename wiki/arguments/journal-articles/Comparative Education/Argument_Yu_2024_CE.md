@@ -35,7 +35,6 @@ related_concepts:
   - "[[Sinicisation]]"
   - "[[Reflexivity]]"
   - "[[Dialogue in Education]]"
-  - "[[Transcription in Qualitative Research]]"
   - "[[Soft Power]]"
   - "[[Bildung]]"
   - "[[Zhonghua Minzu]]"
@@ -53,6 +52,7 @@ related_theories:
 related_methods:
   - "[[In-depth Interview]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Discourse Analysis]]"
   - "[[Fieldwork]]"
 related_persons:

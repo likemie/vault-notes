@@ -57,9 +57,7 @@ related_concepts:
   - "[[Intelligent Tutoring Systems]]"
   - "[[Unit of Analysis]]"
   - "[[Variable]]"
-  - "[[Manipulation Check]]"
   - "[[Abstract]]"
-  - "[[Sample Size Determination]]"
   - "[[Evaluator Independence]]"
   - "[[Publication Bias]]"
   - "[[Dependent Variable]]"
@@ -86,7 +84,9 @@ related_methods:
   - "[[Random Assignment]]"
   - "[[Standard Error]]"
   - "[[t-test]]"
+  - "[[Manipulation Check]]"
   - "[[Statistical Significance]]"
+  - "[[Sample Size Determination]]"
 related_instruments: []
 related_persons: []
 related_facts:

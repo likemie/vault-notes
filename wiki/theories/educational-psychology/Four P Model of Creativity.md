@@ -20,7 +20,6 @@ tags:
 related_concepts:
   - "[[Creativity]]"
   - "[[Divergent Thinking]]"
-  - "[[Analytic Framework]]"
   - "[[Construct Validity]]"
   - "[[Variable]]"
   - "[[Operationalization]]"
@@ -42,6 +41,7 @@ related_concepts:
   - "[[Creativity Assessment]]"
   - "[[Gatekeepers]]"
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
   - "[[Correlated and Hierarchical Effects Model]]"

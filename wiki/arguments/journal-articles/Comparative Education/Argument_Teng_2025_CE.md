@@ -34,8 +34,6 @@ related_concepts:
   - "[[Document]]"
   - "[[Causality]]"
   - "[[Value Neutrality]]"
-  - "[[Questionnaire]]"
-  - "[[Sample Size Determination]]"
   - "[[Variable]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
@@ -48,9 +46,11 @@ related_theories:
 related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Qualitative Interview]]"
+  - "[[Questionnaire]]"
   - "[[Snowball Sampling]]"
   - "[[Binary Logistic Regression]]"
   - "[[Semi-structured Interview]]"
+  - "[[Sample Size Determination]]"
   - "[[Statistical Significance]]"
   - "[[Multiple Regression]]"
 related_persons:

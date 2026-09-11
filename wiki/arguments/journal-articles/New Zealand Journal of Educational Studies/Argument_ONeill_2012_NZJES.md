@@ -27,12 +27,12 @@ related_concepts:
   - "[[Material Fallacies]]"
   - "[[Policy Entrepreneur]]"
   - "[[Visible Learning]]"
-  - "[[Analytic Framework]]"
   - "[[Class Size]]"
   - "[[Familiarization]]"
 related_theories: []
 related_methods:
   - "[[Discourse Analysis]]"
+  - "[[Analytic Framework]]"
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
 related_persons: []

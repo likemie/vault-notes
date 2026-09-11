@@ -34,12 +34,12 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Document]]"
   - "[[Variable]]"
-  - "[[Questionnaire]]"
   - "[[Rich and Thick Description]]"
 related_methods:
   - "[[Accounts]]"
   - "[[Effect Size]]"
   - "[[Critical Review]]"
+  - "[[Questionnaire]]"
   - "[[Quantitative Research]]"
 related_arguments:
   - "[[Argument_Mausethagen_2025_ERR]]"

@@ -19,7 +19,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Research Utilization]]"
   - "[[Hypothesis]]"
-  - "[[Questionnaire]]"
   - "[[Deficit Framing]]"
   - "[[Paradigm]]"
   - "[[School Leadership]]"
@@ -37,6 +36,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Habitus]]"
 related_methods:
+  - "[[Questionnaire]]"
   - "[[Critical Review]]"
   - "[[Effect Size]]"
 related_arguments:

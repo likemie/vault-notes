@@ -26,7 +26,6 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Corporate Education]]"
   - "[[21st Century Skills and Competencies Discourse]]"
-  - "[[External Auditor]]"
   - "[[Phenomenon-Based Learning]]"
   - "[[Hypothesis]]"
   - "[[Learning Analytics]]"
@@ -43,6 +42,7 @@ related_concepts:
 related_theories:
   - "[[Phenomenology]]"
 related_methods:
+  - "[[External Auditor]]"
   - "[[Coding in Qualitative Research]]"
 related_persons: []
 related_facts:

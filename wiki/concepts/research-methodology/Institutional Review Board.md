@@ -8,7 +8,7 @@ aliases:
 summary: "设立于高校和研究机构内部的伦理审查委员会，依据美国联邦法规在数据收集前审查涉及人类受试者的研究方案，在临床试验中同时也是影响启动效率的关键运营节点"
 type: concept
 domain: "research-methodology"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Gatekeepers]]"
   - "[[Informed Consent]]"
   - "[[Research Purpose]]"
+  - "[[APA Style]]"
   - "[[Sponsored Research Agreement]]"
   - "[[Covert Research]]"
   - "[[Research Ethics]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-07-11
+updated: 2026-09-11
 ---
 
 # Institutional Review Board

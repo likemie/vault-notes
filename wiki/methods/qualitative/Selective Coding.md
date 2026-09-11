@@ -19,13 +19,11 @@ tags:
   - data-analysis
 related_concepts:
   - "[[Paradigm]]"
-  - "[[Story Line]]"
   - "[[Central Phenomenon]]"
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Saturation]]"
   - "[[Document]]"
-  - "[[Memos]]"
   - "[[Assemblage]]"
   - "[[Heterogeneity]]"
   - "[[Emergence]]"
@@ -39,11 +37,13 @@ related_methods:
   - "[[Grounded Theory]]"
   - "[[Open Coding]]"
   - "[[Axial Coding]]"
+  - "[[Story Line]]"
   - "[[Theoretical Sampling]]"
   - "[[In-depth Interview]]"
   - "[[Participant Observation]]"
   - "[[Constant Comparison]]"
   - "[[Qualitative Computer Software]]"
+  - "[[Memos]]"
   - "[[Fieldwork]]"
   - "[[Quantitative Research]]"
 related_instruments: []

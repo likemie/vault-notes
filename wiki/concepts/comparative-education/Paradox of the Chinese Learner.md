@@ -20,7 +20,6 @@ related_concepts:
   - "[[Chinese Learner]]"
   - "[[Rote Learning]]"
   - "[[Confucian Heritage Cultures]]"
-  - "[[Analytic Framework]]"
   - "[[Examination Hell]]"
   - "[[Growth]]"
   - "[[Surface and Deep Learning]]"
@@ -31,6 +30,7 @@ related_theories:
   - "[[Confucian Learning Tradition]]"
   - "[[Cultural Models]]"
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Ethnography]]"
 related_persons:
   - "[[David Watkins]]"

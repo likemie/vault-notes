@@ -7,10 +7,10 @@ summary: "澳大利亚高等教育与全球化研究学者，国际化与地缘�
 type: person
 nationality: australia
 person_region: "australia"
-person_related_count: 15
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 16
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1950"
 died: ""
 lifespan: "1950–至今"
@@ -25,6 +25,7 @@ tags:
 related_concepts:
   - "[[Internationalization of Higher Education]]"
   - "[[Transnational Research Collaboration]]"
+  - "[[APA Style]]"
   - "[[Knowledge Capitalism]]"
   - "[[Paradigm]]"
   - "[[Realism in International Relations]]"

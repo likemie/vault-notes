@@ -18,13 +18,13 @@ tags:
 related_concepts:
   - "[[Response Bias]]"
   - "[[Interviewer Effects]]"
-  - "[[Questionnaire]]"
-  - "[[Sensitive Questions]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13]]"
 related_methods:
   - "[[Telephone Interview]]"
   - "[[Internet-based Survey]]"
+  - "[[Questionnaire]]"
+  - "[[Sensitive Questions]]"
   - "[[Triangulation]]"
 confidence: medium
 status: draft

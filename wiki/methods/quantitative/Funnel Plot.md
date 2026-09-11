@@ -25,12 +25,8 @@ related_concepts:
   - "[[Sampling Error]]"
   - "[[Document]]"
   - "[[Heterogeneity]]"
-  - "[[Confidence Interval]]"
-  - "[[Small Study Effects]]"
-  - "[[Blinding]]"
   - "[[Artefact]]"
   - "[[Higher-Order Thinking Skills]]"
-  - "[[Sample Size Determination]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
@@ -38,12 +34,16 @@ related_methods:
   - "[[Standard Error]]"
   - "[[Trim and Fill Method]]"
   - "[[Forest Plot]]"
+  - "[[Confidence Interval]]"
+  - "[[Small Study Effects]]"
   - "[[Random Assignment]]"
+  - "[[Blinding]]"
   - "[[Egger Regression Test]]"
   - "[[Begg and Mazumdar Rank Correlation]]"
   - "[[Multilevel Egger's Test]]"
   - "[[Meta-regression]]"
   - "[[Experimental Research]]"
+  - "[[Sample Size Determination]]"
 related_instruments: []
 related_persons: []
 related_facts: []

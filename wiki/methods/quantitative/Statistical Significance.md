@@ -20,8 +20,6 @@ related_concepts:
   - "[[Null Hypothesis]]"
   - "[[Hypothesis]]"
   - "[[Threats to Internal Validity]]"
-  - "[[Sample Size Determination]]"
-  - "[[Confidence Interval]]"
   - "[[Evaluation Research]]"
   - "[[Internal Validity]]"
   - "[[Educational Evidence Clearinghouses]]"
@@ -29,7 +27,9 @@ related_concepts:
   - "[[Visible Learning]]"
 related_theories: []
 related_methods:
+  - "[[Sample Size Determination]]"
   - "[[Effect Size]]"
+  - "[[Confidence Interval]]"
   - "[[Standard Error]]"
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"

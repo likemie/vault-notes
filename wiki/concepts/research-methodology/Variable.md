@@ -18,7 +18,6 @@ related_concepts:
   - "[[Causality]]"
   - "[[Unit of Analysis]]"
   - "[[Definition of Terms]]"
-  - "[[Questionnaire]]"
   - "[[Construct]]"
   - "[[Operationalization]]"
   - "[[Independent Variable]]"
@@ -28,6 +27,7 @@ related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
   - "[[Qualitative Research]]"
+  - "[[Questionnaire]]"
   - "[[Observational and Correlational Research]]"
   - "[[Survey Research]]"
   - "[[Experimental Research]]"

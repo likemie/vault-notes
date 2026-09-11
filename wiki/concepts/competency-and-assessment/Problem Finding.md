@@ -28,7 +28,6 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Paradigm]]"
   - "[[Construct Validity]]"
-  - "[[Confidence Interval]]"
   - "[[Domain Specificity]]"
   - "[[Cognitive Flexibility]]"
   - "[[Construct]]"
@@ -39,6 +38,7 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Cohort Study]]"
   - "[[Meta-analysis]]"
+  - "[[Confidence Interval]]"
   - "[[Second-Order Meta-Regression]]"
   - "[[Prediction Interval]]"
 related_instruments: []

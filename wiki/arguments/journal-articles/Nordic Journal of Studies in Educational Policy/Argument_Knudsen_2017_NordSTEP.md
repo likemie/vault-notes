@@ -27,7 +27,6 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Champ]]"
   - "[[Science and Technology Studies]]"
-  - "[[Transcription in Qualitative Research]]"
   - "[[Document]]"
   - "[[Hypothesis]]"
   - "[[Surface and Deep Learning]]"
@@ -35,6 +34,7 @@ related_concepts:
 related_theories:
   - "[[Theory of Mind]]"
 related_methods:
+  - "[[Transcription in Qualitative Research]]"
   - "[[Effect Size]]"
   - "[[Meta-analysis]]"
 related_persons:

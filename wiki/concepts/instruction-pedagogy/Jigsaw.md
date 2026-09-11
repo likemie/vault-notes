@@ -29,7 +29,6 @@ related_concepts:
   - "[[Epistemic Responsibility]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Scaffolding]]"
-  - "[[Confidence Interval]]"
   - "[[Heterogeneity]]"
   - "[[Student Attitude]]"
   - "[[Creativity]]"
@@ -38,6 +37,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Confidence Interval]]"
   - "[[Effect Size]]"
 related_instruments: []
 related_persons: []

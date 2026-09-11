@@ -23,14 +23,12 @@ related_concepts:
   - "[[Return on Investment]]"
   - "[[Total Factor Productivity]]"
   - "[[Independent Variable]]"
-  - "[[Pre-test and Post-test]]"
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
   - "[[Variable]]"
   - "[[Epistemology]]"
   - "[[Positivism]]"
   - "[[Causality]]"
-  - "[[Analytic Framework]]"
   - "[[Educational Level]]"
   - "[[Credential Inflation]]"
   - "[[Development Turn in Comparative Education]]"
@@ -38,7 +36,9 @@ related_concepts:
   - "[[Technical Rationality]]"
   - "[[Scientific Paradigm]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Pre-test and Post-test]]"
+  - "[[Analytic Framework]]"
 related_instruments: []
 related_persons:
   - "[[Torsten Husén]]"

@@ -21,10 +21,8 @@ tags:
   - effect-size
   - methodology
 related_concepts:
-  - "[[Confidence Interval]]"
   - "[[Heterogeneity]]"
   - "[[Publication Bias]]"
-  - "[[Sample Size Determination]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Interaction Effect]]"
   - "[[Evidence-Based Education]]"
@@ -34,8 +32,10 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Systematic Review]]"
   - "[[Effect Size]]"
+  - "[[Confidence Interval]]"
   - "[[Funnel Plot]]"
   - "[[Statistical Significance]]"
+  - "[[Sample Size Determination]]"
   - "[[Prediction Interval]]"
   - "[[Moderator Analysis]]"
   - "[[Leave-One-Out Sensitivity Analysis]]"

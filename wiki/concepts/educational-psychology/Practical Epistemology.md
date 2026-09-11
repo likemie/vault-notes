@@ -16,9 +16,9 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Epistemic Resources]]"
   - "[[Ontology]]"
-  - "[[Questionnaire]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Questionnaire]]"
 related_instruments:
   - "[[Views of Nature of Science Questionnaire]]"
 related_persons: []

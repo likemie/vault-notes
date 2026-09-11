@@ -26,11 +26,11 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Effective Teaching]]"
-  - "[[Questionnaire]]"
   - "[[Critical Thinking]]"
   - "[[Growth]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Questionnaire]]"
 related_instruments:
   - "[[National Survey of Student Engagement]]"
 related_persons: []

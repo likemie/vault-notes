@@ -53,7 +53,6 @@ related_concepts:
   - "[[Critical Dualism]]"
   - "[[Comparative Educations]]"
   - "[[Dialogue in Education]]"
-  - "[[Analytic Framework]]"
   - "[[Theoretical Standpoint]]"
   - "[[Heterogeneity]]"
   - "[[Positivism]]"
@@ -65,6 +64,7 @@ related_theories:
 related_methods:
   - "[[Discourse Analysis]]"
   - "[[Historical-Comparative Method]]"
+  - "[[Analytic Framework]]"
 related_instruments: []
 related_persons:
   - "[[Marc-Antoine Jullien]]"

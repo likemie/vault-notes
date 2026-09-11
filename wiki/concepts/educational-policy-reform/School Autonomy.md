@@ -16,14 +16,14 @@ tags:
 - level/k12
 - paradigm/neoliberal
 related_concepts:
-  - "[[Analytic Framework]]"
   - "[[Rationalism in International Relations]]"
   - "[[Hypothesis]]"
   - "[[New Public Management]]"
   - "[[School Leadership]]"
   - "[[Variable]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons: []
 related_facts:
   - "[[My School Website]]"

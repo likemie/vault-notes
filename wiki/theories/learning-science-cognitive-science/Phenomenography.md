@@ -13,7 +13,6 @@ theory_related_color: "#dbeafe"
 tags: [phenomenography, student-learning, approaches-to-learning, level/higher-ed]
 related_concepts:
   - "[[Student Learning Research]]"
-  - "[[Analytic Framework]]"
   - "[[Surface and Deep Learning]]"
   - "[[Conatus]]"
   - "[[Problem-Based Learning]]"
@@ -25,6 +24,7 @@ related_concepts:
 related_arguments:
   - "[[Argument_Biggs_1999_HERD]]"
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Quantitative Research]]"
 confidence: medium
 status: draft

@@ -29,11 +29,11 @@ tags:
   - method/quantitative
 related_concepts:
   - "[[Research Literacy]]"
-  - "[[Questionnaire]]"
   - "[[Literature Search]]"
   - "[[Research Utilization]]"
-  - "[[Likert Scale]]"
 related_methods:
+  - "[[Questionnaire]]"
+  - "[[Likert Scale]]"
   - "[[Cronbach's Alpha]]"
   - "[[McDonald's Omega]]"
   - "[[Exploratory Factor Analysis]]"

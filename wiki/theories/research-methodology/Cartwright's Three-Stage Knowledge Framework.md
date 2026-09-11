@@ -22,7 +22,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Epistemology]]"
   - "[[Positivism]]"
-  - "[[Sample Size Determination]]"
   - "[[Professional Judgment]]"
   - "[[Programme Fidelity vs Adaptation]]"
 related_theories:
@@ -32,6 +31,7 @@ related_methods:
   - "[[Random Assignment]]"
   - "[[Case Study]]"
   - "[[Philosophical Analysis in Education]]"
+  - "[[Sample Size Determination]]"
 related_persons: []
 related_facts: []
 related_arguments:

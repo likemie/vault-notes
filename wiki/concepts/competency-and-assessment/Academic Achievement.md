@@ -53,10 +53,8 @@ related_concepts:
   - "[[Cooperative Learning]]"
   - "[[Problem-Based Learning]]"
   - "[[Affective Outcomes]]"
-  - "[[Questionnaire]]"
   - "[[Ontology]]"
   - "[[Measurement Alignment]]"
-  - "[[Pre-test and Post-test]]"
 related_theories:
   - "[[Reflective Judgment Model]]"
   - "[[Epistemic and Ontological Cognition]]"
@@ -71,9 +69,11 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Survey Research]]"
   - "[[Multivariate Analysis of Variance]]"
+  - "[[Questionnaire]]"
   - "[[Multinomial Logistic Regression]]"
   - "[[Systematic Review]]"
   - "[[Matching]]"
+  - "[[Pre-test and Post-test]]"
 related_instruments: []
 related_persons: []
 related_facts:

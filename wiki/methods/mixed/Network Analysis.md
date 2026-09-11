@@ -19,13 +19,13 @@ related_concepts:
   - "[[Habitus]]"
   - "[[Causality]]"
   - "[[Research Question]]"
-  - "[[Sample Size Determination]]"
-  - "[[Analytic Framework]]"
 related_theories:
   - "[[Complexity Theory]]"
 related_methods:
   - "[[Sociometry]]"
+  - "[[Sample Size Determination]]"
   - "[[Accounts]]"
+  - "[[Analytic Framework]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]]"
 confidence: medium

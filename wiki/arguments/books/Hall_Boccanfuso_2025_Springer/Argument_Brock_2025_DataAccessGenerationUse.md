@@ -14,17 +14,17 @@ tags:
 related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Document]]"
-  - "[[Questionnaire]]"
   - "[[Sponsored Research Agreement]]"
   - "[[Clinical Trial]]"
   - "[[Variable]]"
   - "[[Hypothesis]]"
-  - "[[Analytic Framework]]"
   - "[[Academic Freedom]]"
   - "[[Blue Skies Research]]"
   - "[[FAIR Principles]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Questionnaire]]"
+  - "[[Analytic Framework]]"
 related_persons: []
 related_facts:
   - "[[University Industry Demonstration Partnership]]"

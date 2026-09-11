@@ -25,13 +25,13 @@ related_concepts:
   - "[[Champ]]"
   - "[[International Education]]"
   - "[[Concept Mapping]]"
-  - "[[Analytic Framework]]"
   - "[[Cross-National Attraction]]"
   - "[[Policy Borrowing]]"
   - "[[Pre-Transfer Agency]]"
   - "[[Externalization]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons: []
 related_facts:
   - "[[IEA]]"

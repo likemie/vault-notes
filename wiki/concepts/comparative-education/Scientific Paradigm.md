@@ -42,7 +42,6 @@ related_concepts:
   - "[[National Character]]"
   - "[[Value Neutrality]]"
   - "[[Falsification]]"
-  - "[[Questionnaire]]"
   - "[[Social Science as Legitimation Alibi]]"
   - "[[Grand Theory]]"
   - "[[Comparative Educations]]"
@@ -57,6 +56,7 @@ related_theories:
 related_methods:
   - "[[Problem Approach]]"
   - "[[Discourse Analysis]]"
+  - "[[Questionnaire]]"
   - "[[Quantitative Research]]"
 related_persons:
   - "[[Thomas Kuhn]]"

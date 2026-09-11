@@ -8,9 +8,9 @@ summary: "美国心理学家，卡内基梅隆大学心理学教授，研究方�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 4
+person_related_count: 5
 person_related_level: 0
-person_related_stars: "☆"
+person_related_stars: ""
 person_related_color: "#e5e7eb"
 born: "1977"
 died: ""
@@ -22,6 +22,7 @@ tags:
   - quantitative-research
   - research-methodology
 related_concepts:
+  - "[[APA Style]]"
   - "[[Sage]]"
 related_theories: []
 related_methods:

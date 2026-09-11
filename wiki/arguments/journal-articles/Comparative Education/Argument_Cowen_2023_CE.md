@@ -32,7 +32,6 @@ related_concepts:
   - "[[Deductive Rationality]]"
   - "[[Heroic, Strange, and Barbaric]]"
   - "[[Conatus]]"
-  - "[[Analytic Framework]]"
   - "[[Ontology]]"
   - "[[Document]]"
   - "[[Paideia]]"
@@ -63,6 +62,7 @@ related_theories:
   - "[[Wight's Three Traditions of International Theory]]"
 related_methods:
   - "[[Snowball Sampling]]"
+  - "[[Analytic Framework]]"
   - "[[Ideology Critique]]"
   - "[[Philosophical Analysis in Education]]"
   - "[[Documentary Analysis]]"

@@ -23,7 +23,6 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Construct]]"
   - "[[Document]]"
-  - "[[Questionnaire]]"
   - "[[Variable]]"
   - "[[Ontology]]"
   - "[[Reliability]]"
@@ -38,10 +37,11 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Justificatory Standards]]"
   - "[[Reliable Epistemic Processes]]"
-  - "[[Confidence Interval]]"
 related_methods:
   - "[[Effect Size]]"
+  - "[[Questionnaire]]"
   - "[[Meta-analysis]]"
+  - "[[Confidence Interval]]"
 related_arguments:
   - "[[Argument_Greene_2018_JEP]]"
 related_theories:

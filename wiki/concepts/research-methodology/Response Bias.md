@@ -20,8 +20,6 @@ tags:
 related_concepts:
   - "[[Construct]]"
   - "[[Variable]]"
-  - "[[Questionnaire]]"
-  - "[[Rating Scale]]"
   - "[[Hypothesis]]"
   - "[[Language Skills]]"
   - "[[Leading Questions]]"
@@ -29,6 +27,8 @@ related_concepts:
   - "[[Hawthorne Effect]]"
 related_methods:
   - "[[Survey Research]]"
+  - "[[Questionnaire]]"
+  - "[[Rating Scale]]"
   - "[[Multiple-Choice Questions]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"

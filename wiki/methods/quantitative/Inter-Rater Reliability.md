@@ -20,9 +20,7 @@ tags:
   - theme/measurement
 related_concepts:
   - "[[Reliability]]"
-  - "[[Intercoder Agreement]]"
   - "[[Heterogeneity]]"
-  - "[[Pre-test and Post-test]]"
   - "[[Observer Drift]]"
   - "[[Hypothesis]]"
   - "[[Reflexivity]]"
@@ -35,10 +33,12 @@ related_concepts:
   - "[[Epistemology]]"
 related_methods:
   - "[[Quantitative Research]]"
+  - "[[Intercoder Agreement]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Internal Consistency]]"
   - "[[Test-Retest Reliability]]"
   - "[[Cronbach's Alpha]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Observational and Correlational Research]]"
   - "[[Scale Development]]"
   - "[[Longitudinal Study]]"

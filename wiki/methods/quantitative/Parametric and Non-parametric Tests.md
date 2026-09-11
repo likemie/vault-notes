@@ -25,8 +25,8 @@ tags:
 related_concepts:
   - "[[Hypothesis]]"
   - "[[Reliability]]"
-  - "[[Questionnaire]]"
 related_methods:
+  - "[[Questionnaire]]"
   - "[[Pilot Testing]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]]"

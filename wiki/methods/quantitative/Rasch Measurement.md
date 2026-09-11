@@ -18,12 +18,12 @@ tags:
   - quantitative-methods
   - international-assessment
 related_concepts:
-  - "[[Data Transformation]]"
-  - "[[Confidence Interval]]"
   - "[[Construct]]"
   - "[[Construct Validity]]"
 related_theories: []
 related_methods:
+  - "[[Data Transformation]]"
+  - "[[Confidence Interval]]"
   - "[[Effect Size]]"
 related_persons: []
 related_arguments:

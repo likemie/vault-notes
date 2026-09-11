@@ -32,7 +32,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Halo Effect]]"
   - "[[Heterogeneity]]"
-  - "[[Questionnaire]]"
   - "[[Conatus]]"
   - "[[Simplicity of Knowledge]]"
 related_theories:
@@ -40,6 +39,7 @@ related_theories:
 related_methods:
   - "[[Statistical Significance]]"
   - "[[Effect Size]]"
+  - "[[Questionnaire]]"
   - "[[Multivariate Analysis of Variance]]"
 related_instruments: []
 related_persons: []

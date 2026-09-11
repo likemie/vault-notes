@@ -26,7 +26,6 @@ related_concepts:
   - "[[Multiplicity]]"
   - "[[Heterogeneity]]"
   - "[[Space Production]]"
-  - "[[Analytic Framework]]"
   - "[[Praxis]]"
   - "[[Methodological Globalism]]"
   - "[[Semi-Autonomy of Higher Education]]"
@@ -54,6 +53,7 @@ related_theories:
   - "[[World-Systems Theory]]"
   - "[[Hegemony]]"
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Case Study]]"
 related_persons:
   - "[[Doreen Massey]]"

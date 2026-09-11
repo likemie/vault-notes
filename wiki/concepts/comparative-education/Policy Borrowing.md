@@ -33,7 +33,6 @@ related_concepts:
   - "[[Reference Society]]"
   - "[[Rationalism in International Relations]]"
   - "[[Re-Westernisation]]"
-  - "[[Analytic Framework]]"
   - "[[Concept Mapping]]"
   - "[[Realism in International Relations]]"
   - "[[Revolutionism]]"
@@ -50,7 +49,8 @@ related_theories:
   - "[[Autopoiesis]]"
   - "[[Orientalism]]"
   - "[[Wight's Three Traditions of International Theory]]"
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons:
   - "[[Horace Mann]]"
   - "[[Marc-Antoine Jullien]]"

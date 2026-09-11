@@ -24,13 +24,13 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Professional Judgment]]"
   - "[[Synectics]]"
-  - "[[Analytic Framework]]"
   - "[[Document]]"
 related_theories:
   - "[[Complexity Theory]]"
   - "[[Luhmann's Systems Theory]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
+  - "[[Analytic Framework]]"
 related_persons: []
 related_facts: []
 related_arguments:

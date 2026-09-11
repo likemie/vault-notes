@@ -40,7 +40,6 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Scientific Attitude]]"
   - "[[Quality Education]]"
-  - "[[Analytic Framework]]"
   - "[[Democratic Education]]"
 related_theories:
   - "[[Wight's Three Traditions of International Theory]]"
@@ -48,6 +47,7 @@ related_theories:
   - "[[Network Society]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
+  - "[[Analytic Framework]]"
 related_persons:
   - "[[Robert Cowen]]"
   - "[[John Dewey]]"

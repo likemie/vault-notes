@@ -33,7 +33,6 @@ related_concepts:
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
-  - "[[Questionnaire]]"
   - "[[Metacognition]]"
   - "[[Intelligent Tutoring Systems]]"
   - "[[Independent Variable]]"
@@ -47,6 +46,7 @@ related_theories:
   - "[[Cognitive Load Theory]]"
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Questionnaire]]"
   - "[[Qualitative Interview]]"
   - "[[Effect Size]]"
 related_instruments: []

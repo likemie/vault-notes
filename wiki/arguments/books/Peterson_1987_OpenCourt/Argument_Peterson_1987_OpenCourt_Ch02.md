@@ -31,7 +31,6 @@ tags:
 related_concepts:
   - "[[International Baccalaureate]]"
   - "[[International Schools]]"
-  - "[[Questionnaire]]"
   - "[[Theory of Knowledge]]"
   - "[[Praxis]]"
   - "[[General Education]]"
@@ -50,6 +49,7 @@ related_concepts:
   - "[[Champ]]"
 related_theories: []
 related_methods:
+  - "[[Questionnaire]]"
   - "[[Action Research]]"
   - "[[Fieldwork]]"
 related_instruments: []

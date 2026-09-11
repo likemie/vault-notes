@@ -31,13 +31,13 @@ related_concepts:
   - "[[Variable]]"
   - "[[School Effectiveness]]"
   - "[[Academic Self-Concept]]"
-  - "[[Sample Size Determination]]"
   - "[[Scientism]]"
   - "[[Ways of Knowing]]"
   - "[[Areas of Knowledge]]"
 related_theories: []
 related_methods:
   - "[[Multiple-Choice Questions]]"
+  - "[[Sample Size Determination]]"
   - "[[Mixed Methods Research]]"
 related_persons:
   - "[[Bruno Latour]]"

@@ -24,10 +24,10 @@ related_concepts:
   - "[[Champ]]"
   - "[[Attrition]]"
   - "[[Variable]]"
-  - "[[Questionnaire]]"
   - "[[Counterfactual]]"
 related_theories: []
 related_methods:
+  - "[[Questionnaire]]"
   - "[[Mixed Methods Research]]"
 related_persons: []
 related_facts:

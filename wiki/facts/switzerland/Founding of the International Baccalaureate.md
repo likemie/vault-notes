@@ -22,12 +22,12 @@ related_concepts:
   - "[[International Schools]]"
   - "[[International Baccalaureate]]"
   - "[[Theory of Knowledge]]"
-  - "[[Questionnaire]]"
   - "[[Reflexivity]]"
   - "[[General Education]]"
 related_theories: []
 related_methods:
   - "[[Action Research]]"
+  - "[[Questionnaire]]"
 related_instruments: []
 related_persons:
   - "[[Bob Leach]]"

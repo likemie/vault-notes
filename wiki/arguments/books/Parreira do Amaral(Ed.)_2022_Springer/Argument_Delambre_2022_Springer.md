@@ -25,13 +25,11 @@ related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Epistemology]]"
   - "[[Ganz-Methode]]"
-  - "[[Analytic Framework]]"
   - "[[Creativity]]"
   - "[[Knowledge Production]]"
   - "[[Knowledge Transfer]]"
   - "[[Ecomuseology]]"
   - "[[Epistemology of Resistance]]"
-  - "[[Transcription in Qualitative Research]]"
   - "[[Ways of Knowing]]"
   - "[[Tense Society]]"
   - "[[Paradigm]]"
@@ -43,12 +41,14 @@ related_concepts:
   - "[[Life Power]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Social Museology]]"
-  - "[[Sample Size Determination]]"
   - "[[Dialogue in Education]]"
 related_theories:
   - "[[Creative Tension of Sense]]"
   - "[[Transition Design]]"
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
+  - "[[Transcription in Qualitative Research]]"
+  - "[[Sample Size Determination]]"
 related_persons:
   - "[[Walter Mignolo]]"
   - "[[Richard Castelo Branco]]"

@@ -25,11 +25,11 @@ tags:
   - level/higher-ed
 related_concepts:
   - "[[Knowledge-Based Economy]]"
-  - "[[Analytic Framework]]"
   - "[[Vergegenkunft]]"
 related_theories:
   - "[[Human Capital Theory]]"
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons:
   - "[[C. Arnold Anderson]]"
 related_facts:

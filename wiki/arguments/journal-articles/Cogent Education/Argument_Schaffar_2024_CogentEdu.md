@@ -34,7 +34,6 @@ related_concepts:
   - "[[Didaktik]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Constructivist Paradigm]]"
-  - "[[Analytic Framework]]"
   - "[[Dialogue in Education]]"
   - "[[Epochal Key Problems]]"
   - "[[Ontology]]"
@@ -53,6 +52,7 @@ related_theories:
   - "[[Phenomenology]]"
   - "[[Pragmatic Constructivism]]"
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Philosophical Analysis in Education]]"
 related_persons:
   - "[[Wolfgang Klafki]]"

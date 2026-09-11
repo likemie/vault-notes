@@ -25,7 +25,6 @@ tags:
 related_concepts:
   - "[[Scale of Measurement]]"
   - "[[Technology Transfer]]"
-  - "[[Analytic Framework]]"
   - "[[University-Industry Collaboration]]"
   - "[[Mode 2 Knowledge Production]]"
   - "[[Knowledge Production]]"
@@ -42,7 +41,6 @@ related_concepts:
   - "[[Counterfactual]]"
   - "[[Knowledge Exchange]]"
   - "[[Hypothesis]]"
-  - "[[Questionnaire]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Variable]]"
   - "[[Causality]]"
@@ -50,12 +48,14 @@ related_concepts:
 related_theories:
   - "[[Organizational Culture]]"
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Longitudinal Study]]"
   - "[[Case Study]]"
   - "[[In-depth Interview]]"
   - "[[Narrative Analysis]]"
   - "[[Focus Group]]"
+  - "[[Questionnaire]]"
   - "[[Cohort Study]]"
   - "[[Matching]]"
   - "[[Systematic Review]]"

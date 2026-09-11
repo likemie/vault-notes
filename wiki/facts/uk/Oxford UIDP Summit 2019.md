@@ -25,7 +25,6 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Innovation Ecosystem]]"
   - "[[Research and Technology Organisation]]"
-  - "[[Analytic Framework]]"
 related_theories:
   - "[[King-Persily Model]]"
   - "[[Lester's Typology of University Contributions to Local Industry]]"
@@ -34,6 +33,8 @@ related_facts:
   - "[[University Industry Demonstration Partnership]]"
 related_arguments:
   - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
+related_methods:
+  - "[[Analytic Framework]]"
 confidence: medium
 status: draft
 created: 2026-06-10

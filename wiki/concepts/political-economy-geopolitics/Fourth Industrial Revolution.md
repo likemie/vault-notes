@@ -22,12 +22,12 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
-  - "[[Analytic Framework]]"
   - "[[Theory of Knowledge]]"
   - "[[VUCA]]"
   - "[[Causality]]"
 related_theories: []
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Single-Case Design]]"
 related_persons: []
 related_facts: []

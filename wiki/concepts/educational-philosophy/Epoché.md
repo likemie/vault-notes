@@ -27,7 +27,6 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Reliability]]"
   - "[[Theory of Knowledge]]"
-  - "[[Questionnaire]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Construct]]"
   - "[[Typification]]"
@@ -39,6 +38,7 @@ related_theories:
   - "[[Phenomenology]]"
 related_methods:
   - "[[Qualitative Research]]"
+  - "[[Questionnaire]]"
   - "[[Ethnography]]"
   - "[[Qualitative Interview]]"
   - "[[Case Study]]"

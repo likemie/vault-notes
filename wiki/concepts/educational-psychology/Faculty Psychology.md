@@ -22,7 +22,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[General Education]]"
   - "[[Culture Générale]]"
-  - "[[Questionnaire]]"
   - "[[Empiricism]]"
   - "[[Domain Specificity]]"
   - "[[Metacognition]]"
@@ -40,7 +39,8 @@ related_concepts:
   - "[[Value Neutrality]]"
 related_theories:
   - "[[Cognitive Constructivism]]"
-related_methods: []
+related_methods:
+  - "[[Questionnaire]]"
 related_instruments: []
 related_persons:
   - "[[Marc-Antoine Jullien]]"

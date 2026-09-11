@@ -20,15 +20,15 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Variable]]"
-  - "[[Sampling Frame]]"
   - "[[Operationalization]]"
   - "[[External Validity]]"
   - "[[Causality]]"
   - "[[Research Question]]"
-  - "[[Qualitative Codebook]]"
 related_theories: []
 related_methods:
   - "[[Trend Study]]"
+  - "[[Sampling Frame]]"
+  - "[[Qualitative Codebook]]"
 related_instruments: []
 related_persons: []
 related_facts: []

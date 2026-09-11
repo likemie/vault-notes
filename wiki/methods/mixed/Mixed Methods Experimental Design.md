@@ -19,13 +19,13 @@ tags:
   - method/experimental
   - method/complex-design
 related_concepts:
-  - "[[Pre-test and Post-test]]"
   - "[[Literature Review]]"
 related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Exploratory Sequential Design]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Convergent Design]]"
   - "[[Explanatory Sequential Design]]"
   - "[[Intervention Research]]"

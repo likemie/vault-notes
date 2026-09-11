@@ -28,9 +28,9 @@ related_concepts:
   - "[[Knowledge Capitalism]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Operationalization]]"
-  - "[[Analytic Framework]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons:
   - "[[Pierre Bourdieu]]"
 related_facts: []

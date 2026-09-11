@@ -23,7 +23,6 @@ tags:
   - theme/educated-identity
   - theme/higher-education-internationalization
 related_concepts:
-  - "[[Analytic Framework]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Methodological Statism]]"
   - "[[Methodological Nationalism]]"
@@ -40,14 +39,15 @@ related_concepts:
   - "[[Revolutionism]]"
   - "[[Rationalism in International Relations]]"
   - "[[Variable]]"
-  - "[[Questionnaire]]"
   - "[[Operationalization]]"
   - "[[Revoicing]]"
 related_theories: []
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Ideology Critique]]"
   - "[[Discourse Analysis]]"
   - "[[Mixed Methods Research]]"
+  - "[[Questionnaire]]"
   - "[[Content Analysis]]"
 related_persons:
   - "[[Eleftherios Klerides]]"

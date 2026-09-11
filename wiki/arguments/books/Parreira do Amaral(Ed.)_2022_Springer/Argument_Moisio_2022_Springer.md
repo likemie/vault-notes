@@ -34,7 +34,6 @@ related_concepts:
   - "[[Presence]]"
   - "[[Definition of Terms]]"
   - "[[Knowledge Production]]"
-  - "[[Analytic Framework]]"
   - "[[Classical Geopolitics]]"
   - "[[Flow]]"
   - "[[Hub and Flow Imaginaries]]"
@@ -56,6 +55,7 @@ related_theories:
   - "[[Fixity-Motion Tension]]"
 related_methods:
   - "[[Typological Analysis]]"
+  - "[[Analytic Framework]]"
   - "[[Ethnography]]"
 related_persons: []
 related_facts:

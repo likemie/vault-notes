@@ -18,16 +18,16 @@ tags:
   - therapeutic
 related_concepts:
   - "[[Unit of Analysis]]"
-  - "[[Transcription in Qualitative Research]]"
   - "[[Epistemology]]"
   - "[[Dialogue in Education]]"
-  - "[[Active Listening]]"
   - "[[Emergence]]"
 related_theories:
   - "[[Phenomenology]]"
 related_methods:
+  - "[[Transcription in Qualitative Research]]"
   - "[[Case Study]]"
   - "[[Narrative Analysis]]"
+  - "[[Active Listening]]"
   - "[[Focused Interview]]"
   - "[[Qualitative Interview]]"
   - "[[In-depth Interview]]"

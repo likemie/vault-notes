@@ -30,7 +30,6 @@ related_concepts:
   - "[[Literature Review]]"
   - "[[Research Utilization]]"
   - "[[Technology Infusion]]"
-  - "[[Questionnaire]]"
   - "[[Logic Model]]"
   - "[[Evidence-Based Reform]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
@@ -43,6 +42,7 @@ related_concepts:
   - "[[Operationalization]]"
 related_theories: []
 related_methods:
+  - "[[Questionnaire]]"
   - "[[Focus Group]]"
   - "[[Formative Program Evaluation]]"
   - "[[Randomised Controlled Trials]]"

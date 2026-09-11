@@ -37,13 +37,13 @@ related_concepts:
   - "[[Construct Validity]]"
   - "[[General Education]]"
   - "[[Variable]]"
-  - "[[Confidence Interval]]"
-  - "[[Sample Size Determination]]"
   - "[[Construct]]"
 related_theories: []
 related_methods:
   - "[[Domain Analysis]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Confidence Interval]]"
+  - "[[Sample Size Determination]]"
 related_instruments: []
 related_persons:
   - "[[Alec Peterson]]"

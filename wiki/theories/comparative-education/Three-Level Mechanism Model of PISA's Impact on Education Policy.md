@@ -27,7 +27,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Ontology]]"
   - "[[Emergence]]"
-  - "[[Analytic Framework]]"
   - "[[Hypothesis]]"
   - "[[Central Question]]"
   - "[[Document]]"
@@ -39,6 +38,7 @@ related_methods:
   - "[[Discourse Analysis]]"
   - "[[Case Study]]"
   - "[[Network Analysis]]"
+  - "[[Analytic Framework]]"
 related_instruments: []
 related_persons: []
 related_facts:

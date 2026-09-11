@@ -21,11 +21,11 @@ related_concepts:
   - "[[Graduation Pathway Typology]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Self-Driven Mode]]"
-  - "[[Probes]]"
   - "[[Paradigm]]"
 related_theories:
   - "[[Culture as Toolkit]]"
-related_methods: []
+related_methods:
+  - "[[Probes]]"
 related_persons:
   - "[[Yajun Zheng]]"
 related_facts: []

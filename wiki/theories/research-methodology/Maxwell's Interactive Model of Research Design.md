@@ -17,7 +17,6 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Paradigm]]"
   - "[[Reliability]]"
-  - "[[Questionnaire]]"
   - "[[Construct]]"
   - "[[Epistemology]]"
   - "[[Ontology]]"
@@ -27,6 +26,7 @@ related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Ethnography]]"
+  - "[[Questionnaire]]"
   - "[[Semi-structured Interview]]"
   - "[[Quantitative Research]]"
   - "[[Experimental Research]]"

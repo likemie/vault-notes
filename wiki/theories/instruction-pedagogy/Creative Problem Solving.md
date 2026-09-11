@@ -31,7 +31,6 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Epistemology]]"
   - "[[Metacognition]]"
-  - "[[Pre-test and Post-test]]"
   - "[[Paradigm]]"
   - "[[Construct]]"
   - "[[Critical Thinking]]"
@@ -41,6 +40,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
   - "[[Three-Level Meta-Analysis]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Meta-meta-analysis]]"
 related_instruments: []
 related_persons:

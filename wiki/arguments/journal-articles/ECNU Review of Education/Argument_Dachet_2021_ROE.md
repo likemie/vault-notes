@@ -29,7 +29,6 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Based Reform]]"
   - "[[Epistemology]]"
-  - "[[Analytic Framework]]"
   - "[[Grade Retention]]"
   - "[[Inclusive Evidence Validation Typology]]"
   - "[[Document]]"
@@ -37,6 +36,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
+  - "[[Analytic Framework]]"
   - "[[Longitudinal Study]]"
   - "[[Case Study]]"
   - "[[Experimental Research]]"

@@ -26,10 +26,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Construct]]"
   - "[[Causality]]"
-  - "[[Pre-test and Post-test]]"
-  - "[[Questionnaire]]"
   - "[[Deficiencies Model for an Introduction]]"
-  - "[[Transcription in Qualitative Research]]"
   - "[[Variable]]"
   - "[[Reliability]]"
   - "[[Internal Validity]]"
@@ -40,6 +37,9 @@ related_methods:
   - "[[Triangulation]]"
   - "[[Case Study]]"
   - "[[Mixed Methods Research]]"
+  - "[[Pre-test and Post-test]]"
+  - "[[Questionnaire]]"
+  - "[[Transcription in Qualitative Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []

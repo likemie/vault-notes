@@ -21,11 +21,11 @@ related_concepts:
   - "[[Evidence-Informed Practice]]"
   - "[[Professional Judgment]]"
   - "[[Logic Model]]"
-  - "[[Questionnaire]]"
   - "[[Technology Infusion]]"
   - "[[Absorptive Capacity]]"
 related_theories: []
 related_methods:
+  - "[[Questionnaire]]"
   - "[[Focus Group]]"
   - "[[Cronbach's Alpha]]"
 related_persons: []

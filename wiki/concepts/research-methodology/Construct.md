@@ -18,7 +18,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Operationalization]]"
   - "[[Abstract]]"
-  - "[[Questionnaire]]"
   - "[[Hypothesis]]"
   - "[[Self-Efficacy]]"
   - "[[Construct Validity]]"
@@ -28,6 +27,7 @@ related_theories:
   - "[[Social Learning Theory]]"
 related_methods:
   - "[[Quantitative Research]]"
+  - "[[Questionnaire]]"
 related_persons: []
 related_facts:
   - "[[PISA]]"

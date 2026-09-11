@@ -19,11 +19,11 @@ tags:
   - method/spatiotemporal
 related_concepts:
   - "[[Hypothesis]]"
-  - "[[Analytic Framework]]"
 related_theories: []
 related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[LISA Time Path]]"
+  - "[[Analytic Framework]]"
 related_persons: []
 related_facts: []
 related_arguments:

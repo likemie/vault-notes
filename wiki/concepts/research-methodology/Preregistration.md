@@ -19,7 +19,6 @@ tags:
 related_concepts:
   - "[[Publication Bias]]"
   - "[[Researcher Degrees of Freedom]]"
-  - "[[Sample Size Determination]]"
   - "[[Variable]]"
   - "[[Counterfactual]]"
   - "[[Implementation Fidelity]]"
@@ -27,6 +26,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Random Assignment]]"
+  - "[[Sample Size Determination]]"
   - "[[Randomised Controlled Trials]]"
 related_persons: []
 related_facts:

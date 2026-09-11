@@ -23,7 +23,6 @@ tags:
 related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Shape-Shifting]]"
-  - "[[Analytic Framework]]"
   - "[[Geometries of Insertion]]"
   - "[[Social Cloning]]"
   - "[[Variable]]"
@@ -54,12 +53,13 @@ related_concepts:
   - "[[Examination Hell]]"
   - "[[Educational Immunology]]"
   - "[[Paradigm]]"
-  - "[[External Auditor]]"
 related_theories:
   - "[[Transitology]]"
   - "[[Academic Capitalism]]"
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[External Auditor]]"
 related_persons:
   - "[[Michael Sadler]]"
   - "[[Auguste Comte]]"

@@ -19,9 +19,10 @@ tags:
 related_concepts:
   - "[[Hypothesis]]"
   - "[[Reliability]]"
-  - "[[Sensitive Questions]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
+related_methods:
+  - "[[Sensitive Questions]]"
 status: draft
 created: 2026-06-24
 updated: 2026-06-24

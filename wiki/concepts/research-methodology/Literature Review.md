@@ -17,7 +17,6 @@ related_concepts:
   - "[[Abstract]]"
   - "[[Literature Search]]"
   - "[[Research Question]]"
-  - "[[Memos]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
@@ -29,6 +28,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Literature Map]]"
+  - "[[Memos]]"
   - "[[Quantitative Research]]"
   - "[[Qualitative Research]]"
   - "[[Mixed Methods Research]]"

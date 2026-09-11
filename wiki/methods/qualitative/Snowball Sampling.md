@@ -23,8 +23,6 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Unit of Analysis]]"
-  - "[[Transcription in Qualitative Research]]"
-  - "[[Questionnaire]]"
   - "[[Sensitive Research]]"
   - "[[Gatekeepers]]"
   - "[[Epistemology]]"
@@ -35,7 +33,6 @@ related_concepts:
   - "[[Rich and Thick Description]]"
   - "[[Transfer Translation Transformation]]"
   - "[[School Choice]]"
-  - "[[Sampling Frame]]"
   - "[[Champ]]"
   - "[[Screening Off]]"
   - "[[Pragmatic Paradigm]]"
@@ -45,12 +42,16 @@ related_concepts:
 related_methods:
   - "[[Non-probability Sampling]]"
   - "[[Qualitative Interview]]"
+  - "[[Transcription in Qualitative Research]]"
+  - "[[Questionnaire]]"
   - "[[Case Study]]"
+  - "[[Critical Ethnography]]"
   - "[[Mixed Methods Research]]"
   - "[[In-depth Interview]]"
   - "[[Grounded Theory]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Triangulation]]"
+  - "[[Sampling Frame]]"
   - "[[Convenience Sampling]]"
   - "[[Random Sampling]]"
   - "[[Purposeful Sampling]]"
@@ -59,8 +60,7 @@ related_arguments:
   - "[[Argument_Teng_2025_CE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08]]"
-related_theories:
-  - "[[Critical Ethnography]]"
+related_theories: []
 related_facts: []
 status: draft
 created: 2026-06-22

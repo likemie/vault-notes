@@ -18,12 +18,12 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Innovation Hub]]"
   - "[[Dialogue in Education]]"
-  - "[[Questionnaire]]"
   - "[[Innovation Park]]"
   - "[[Placemaking]]"
   - "[[Technology Transfer]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Questionnaire]]"
 related_persons: []
 related_facts:
   - "[[TUFF]]"

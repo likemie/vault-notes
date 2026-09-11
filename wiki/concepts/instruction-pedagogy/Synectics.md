@@ -29,7 +29,6 @@ related_concepts:
   - "[[Problem Solving]]"
   - "[[Brainstorming]]"
   - "[[SCAMPER]]"
-  - "[[Making the Familiar Strange]]"
   - "[[Causality]]"
   - "[[Avatar]]"
   - "[[Variable]]"
@@ -46,6 +45,7 @@ related_theories:
   - "[[TRIZ]]"
   - "[[Luhmann's Systems Theory]]"
 related_methods:
+  - "[[Making the Familiar Strange]]"
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
   - "[[Intervention Research]]"

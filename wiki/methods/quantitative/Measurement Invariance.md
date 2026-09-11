@@ -31,7 +31,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Epistemology]]"
   - "[[Heterogeneity]]"
-  - "[[Sample Size Determination]]"
   - "[[Research Literacy]]"
   - "[[External Validity]]"
   - "[[Construct Validity]]"
@@ -43,6 +42,7 @@ related_methods:
   - "[[Analysis of Variance]]"
   - "[[Multivariate Analysis of Variance]]"
   - "[[Causal Modeling]]"
+  - "[[Sample Size Determination]]"
   - "[[Scale Development]]"
 related_instruments:
   - "[[Research Literacy Scale for Teachers]]"

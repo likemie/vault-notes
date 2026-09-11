@@ -27,15 +27,15 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Construct]]"
   - "[[Definition of Terms]]"
-  - "[[Analytic Framework]]"
   - "[[Interaction Effect]]"
-  - "[[Pre-test and Post-test]]"
   - "[[School Effectiveness]]"
 related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
   - "[[Ex Post Facto Research]]"
+  - "[[Analytic Framework]]"
   - "[[Factorial Design]]"
+  - "[[Pre-test and Post-test]]"
 related_persons: []
 related_facts: []
 related_arguments:

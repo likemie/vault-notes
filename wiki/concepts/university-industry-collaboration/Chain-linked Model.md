@@ -17,10 +17,10 @@ tags:
 related_concepts:
   - "[[Linear Model of Innovation]]"
   - "[[Multi-channel Interactive Learning Model]]"
-  - "[[Analytic Framework]]"
   - "[[Learning Economy]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons: []
 related_facts: []
 related_arguments:

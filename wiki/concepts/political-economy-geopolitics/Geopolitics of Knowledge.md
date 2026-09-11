@@ -27,7 +27,6 @@ related_concepts:
   - "[[Knowledge Transfer]]"
   - "[[Knowledge Exchange]]"
   - "[[National Competitive Advantage]]"
-  - "[[Analytic Framework]]"
   - "[[Soft Power]]"
   - "[[Multiplicity]]"
   - "[[Flow]]"
@@ -74,6 +73,7 @@ related_theories:
   - "[[Decolonial Geopolitics of Knowledge]]"
 related_methods:
   - "[[Snowball Sampling]]"
+  - "[[Analytic Framework]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Single-Case Design]]"
   - "[[Discourse Analysis]]"

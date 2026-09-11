@@ -18,7 +18,6 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Asset Mapping]]"
   - "[[Placemaking]]"
-  - "[[Analytic Framework]]"
   - "[[Document]]"
   - "[[Technology Transfer]]"
   - "[[Theoretical Validity]]"
@@ -29,7 +28,6 @@ related_concepts:
   - "[[Blue Skies Research]]"
   - "[[Research Translation]]"
   - "[[Clinical Trial]]"
-  - "[[Questionnaire]]"
   - "[[Informationalization]]"
   - "[[University-Industry Co-location]]"
   - "[[Further Education]]"
@@ -41,6 +39,8 @@ related_concepts:
 related_theories:
   - "[[Theory of Mind]]"
 related_methods:
+  - "[[Analytic Framework]]"
+  - "[[Questionnaire]]"
   - "[[Snowball Sampling]]"
 related_persons: []
 related_facts:

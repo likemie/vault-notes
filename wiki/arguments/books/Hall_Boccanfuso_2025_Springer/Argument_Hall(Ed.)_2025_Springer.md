@@ -27,7 +27,6 @@ tags:
   - "theme/innovation"
   - "source/edited-volume"
 related_concepts:
-  - "[[Analytic Framework]]"
   - "[[Blue Skies Research]]"
   - "[[University-Industry Collaboration]]"
   - "[[Research Impact]]"
@@ -49,7 +48,6 @@ related_concepts:
   - "[[Innovation Policy Paradigms]]"
   - "[[Transformative Change]]"
   - "[[Corporate R&D Labs]]"
-  - "[[Questionnaire]]"
   - "[[Concierge Service]]"
   - "[[Boundary Spanner]]"
   - "[[Strategic Partnership]]"
@@ -85,7 +83,9 @@ related_theories:
   - "[[Triple Helix]]"
   - "[[Systems of Innovation]]"
   - "[[Values Alignment Model]]"
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
+  - "[[Questionnaire]]"
 related_persons: []
 related_facts:
   - "[[National Science Foundation]]"

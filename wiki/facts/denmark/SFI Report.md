@@ -24,11 +24,11 @@ related_concepts:
   - "[[Classroom Management]]"
   - "[[Individualised Instruction]]"
   - "[[Effective Teaching]]"
-  - "[[Questionnaire]]"
   - "[[Visible Learning]]"
   - "[[Feedback]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Questionnaire]]"
 related_persons: []
 related_facts: []
 related_arguments:

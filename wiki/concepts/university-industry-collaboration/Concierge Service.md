@@ -21,9 +21,9 @@ related_concepts:
   - "[[Boundary Spanner]]"
   - "[[Language Skills]]"
   - "[[Technology Transfer]]"
-  - "[[Questionnaire]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Questionnaire]]"
 related_persons: []
 related_facts:
   - "[[University Industry Demonstration Partnership]]"

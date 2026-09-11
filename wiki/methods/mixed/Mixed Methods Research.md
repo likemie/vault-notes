@@ -9,7 +9,7 @@ summary: "结合量化与质性数据并通过特定设计进行系统整合的�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 72
+method_related_count: 73
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#fef3c7"
@@ -19,11 +19,9 @@ tags:
   - paradigm/pragmatic
 related_concepts:
   - "[[Paradigm]]"
-  - "[[Questionnaire]]"
   - "[[Variable]]"
   - "[[Unit of Analysis]]"
   - "[[Metainferences]]"
-  - "[[Data Transformation]]"
   - "[[Operationalization]]"
   - "[[Metacognition]]"
   - "[[Research Question]]"
@@ -31,6 +29,7 @@ related_concepts:
   - "[[Paradigm Wars]]"
   - "[[Knowledge Production]]"
   - "[[Dialogue in Education]]"
+  - "[[APA Style]]"
   - "[[Epistemology]]"
   - "[[Ontology]]"
   - "[[Reflexivity]]"
@@ -39,9 +38,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Decodification]]"
   - "[[Problem Finding]]"
-  - "[[Sample Size Determination]]"
   - "[[Construct]]"
-  - "[[Transcription in Qualitative Research]]"
   - "[[Rich and Thick Description]]"
   - "[[Emergence]]"
   - "[[External Validity]]"
@@ -61,10 +58,12 @@ related_theories:
 related_methods:
   - "[[Quantitative Research]]"
   - "[[Qualitative Research]]"
+  - "[[Questionnaire]]"
   - "[[In-depth Interview]]"
   - "[[Participant Observation]]"
   - "[[Effect Size]]"
   - "[[Joint Display]]"
+  - "[[Data Transformation]]"
   - "[[Multimethod Research]]"
   - "[[Focus Group]]"
   - "[[Randomised Controlled Trials]]"
@@ -73,8 +72,10 @@ related_methods:
   - "[[Between-Subjects and Within-Subjects Designs]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Explanatory Sequential Design]]"
+  - "[[Sample Size Determination]]"
   - "[[Exploratory Sequential Design]]"
   - "[[Pilot Testing]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Ethnography]]"
   - "[[Qualitative Observation]]"
   - "[[Website Content Analysis]]"
@@ -99,7 +100,7 @@ related_instruments: []
 confidence: high
 status: stable
 created: 2026-06-14
-updated: 2026-09-09
+updated: 2026-09-11
 ---
 
 # Mixed Methods Research

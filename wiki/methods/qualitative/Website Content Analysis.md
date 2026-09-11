@@ -18,7 +18,6 @@ tags:
   - "method/document-analysis"
   - "paradigm/interpretivist"
 related_concepts:
-  - "[[Questionnaire]]"
   - "[[Paradigm]]"
   - "[[Hypothesis]]"
   - "[[University-Industry Collaboration]]"
@@ -27,14 +26,15 @@ related_concepts:
   - "[[Technology Transfer]]"
   - "[[Concierge Service]]"
   - "[[Reliability]]"
-  - "[[Transcription in Qualitative Research]]"
   - "[[Emergence]]"
 related_theories: []
 related_methods:
   - "[[Content Analysis]]"
+  - "[[Questionnaire]]"
   - "[[Mixed Methods Research]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Qualitative Content Analysis]]"
+  - "[[Transcription in Qualitative Research]]"
 related_persons: []
 related_facts:
   - "[[University Industry Demonstration Partnership]]"

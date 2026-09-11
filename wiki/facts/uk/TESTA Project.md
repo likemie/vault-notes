@@ -21,7 +21,6 @@ tags:
   - theme/assessment-reform
   - theme/formative-assessment
 related_concepts:
-  - "[[Questionnaire]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Growth]]"
   - "[[Feedback]]"
@@ -29,6 +28,7 @@ related_concepts:
   - "[[Surface and Deep Learning]]"
 related_theories: []
 related_methods:
+  - "[[Questionnaire]]"
   - "[[Focus Group]]"
 related_instruments: []
 related_persons: []

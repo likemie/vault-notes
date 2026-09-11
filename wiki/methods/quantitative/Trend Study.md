@@ -27,9 +27,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Positivism]]"
   - "[[Causality]]"
-  - "[[Questionnaire]]"
   - "[[Pre-test Sensitisation]]"
-  - "[[Sensitive Questions]]"
   - "[[Study Population and Sample]]"
   - "[[Attrition]]"
   - "[[Sampling Error]]"
@@ -37,7 +35,9 @@ related_concepts:
   - "[[Hypothesis]]"
 related_methods:
   - "[[Cross-sectional Study]]"
+  - "[[Questionnaire]]"
   - "[[Longitudinal Study]]"
+  - "[[Sensitive Questions]]"
   - "[[Cohort Study]]"
   - "[[Survey Research]]"
 related_arguments:

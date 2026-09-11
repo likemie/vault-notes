@@ -29,11 +29,11 @@ related_concepts:
   - "[[Return on Investment]]"
   - "[[Engagement in and with Research]]"
   - "[[Joint Faculty Appointments]]"
-  - "[[Questionnaire]]"
   - "[[Trade Mission]]"
 related_theories: []
 related_methods:
   - "[[Website Content Analysis]]"
+  - "[[Questionnaire]]"
 related_persons: []
 related_facts:
   - "[[Network of Academic Corporate Relations Officers]]"

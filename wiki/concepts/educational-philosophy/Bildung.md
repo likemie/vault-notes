@@ -36,7 +36,6 @@ related_concepts:
   - "[[Academic Freedom]]"
   - "[[Cultural Capital]]"
   - "[[Epistemology]]"
-  - "[[Analytic Framework]]"
   - "[[Epochal Key Problems]]"
   - "[[Buen Vivir]]"
   - "[[Learning Analytics]]"
@@ -59,6 +58,7 @@ related_theories:
   - "[[Autopoiesis]]"
 related_methods:
   - "[[Effect Size]]"
+  - "[[Analytic Framework]]"
 related_instruments: []
 related_persons:
   - "[[Andreas Kazamias]]"

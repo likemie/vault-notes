@@ -16,7 +16,6 @@ related_concepts:
   - "[[Academic Medical Center]]"
   - "[[Fair Market Value]]"
   - "[[Master Protocol]]"
-  - "[[Analytic Framework]]"
   - "[[Translational Research]]"
   - "[[Institutional Review Board]]"
   - "[[Performance Indicators]]"
@@ -36,6 +35,7 @@ related_concepts:
   - "[[Literature Review]]"
 related_theories: []
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Typological Analysis]]"
 related_persons: []
 related_facts:

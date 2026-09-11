@@ -18,11 +18,11 @@ tags:
   - theme/geopolitics
 related_concepts:
   - "[[Cultural Diplomacy]]"
-  - "[[Analytic Framework]]"
   - "[[International Education]]"
   - "[[Knowledge Diplomacy]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons: []
 related_facts:
   - "[[PISA]]"

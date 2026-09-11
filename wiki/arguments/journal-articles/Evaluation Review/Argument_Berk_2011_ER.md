@@ -30,7 +30,6 @@ related_concepts:
   - "[[Causality]]"
   - "[[Document]]"
   - "[[Internal Validity]]"
-  - "[[Sample Size Determination]]"
   - "[[Stable Unit Treatment Value Assumption]]"
   - "[[External Validity]]"
   - "[[Type I and Type II Errors]]"
@@ -43,6 +42,7 @@ related_theories:
   - "[[Potential Outcomes Framework]]"
 related_methods:
   - "[[Random Assignment]]"
+  - "[[Sample Size Determination]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Causal Modeling]]"
   - "[[Meta-analysis]]"

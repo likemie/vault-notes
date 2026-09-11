@@ -23,7 +23,6 @@ related_concepts:
   - "[[Causality]]"
   - "[[Hypothesis]]"
   - "[[Recommendations for Practice]]"
-  - "[[Pre-test and Post-test]]"
   - "[[Homework]]"
   - "[[Academic Achievement]]"
   - "[[Experiential Learning]]"
@@ -38,6 +37,7 @@ related_methods:
   - "[[Observational and Correlational Research]]"
   - "[[Non-intervention Research]]"
   - "[[Meta-analysis]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Randomised Controlled Trials]]"
 related_persons: []
 related_arguments:

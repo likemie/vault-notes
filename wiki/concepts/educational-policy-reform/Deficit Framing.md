@@ -33,12 +33,12 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Professional Judgment]]"
   - "[[Methodological Individualism]]"
-  - "[[Questionnaire]]"
   - "[[Paradigm]]"
   - "[[Evaluation Research]]"
   - "[[Variable]]"
   - "[[Research Literacy]]"
 related_methods:
+  - "[[Questionnaire]]"
   - "[[Mixed Methods Research]]"
   - "[[Critical Review]]"
   - "[[Effect Size]]"

@@ -24,10 +24,10 @@ tags:
 related_concepts:
   - "[[Active Learning]]"
   - "[[Critical Thinking]]"
-  - "[[Questionnaire]]"
 related_theories: []
 related_methods:
   - "[[Internet-based Survey]]"
+  - "[[Questionnaire]]"
 related_instruments: []
 related_persons: []
 related_facts:

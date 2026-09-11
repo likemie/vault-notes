@@ -20,7 +20,6 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Creativity]]"
   - "[[Necessary and Sufficient Conditions]]"
-  - "[[Confidence Interval]]"
   - "[[Determinism]]"
   - "[[Divergent Thinking]]"
   - "[[Working Memory]]"
@@ -30,6 +29,7 @@ related_concepts:
   - "[[Heterogeneity]]"
 related_theories: []
 related_methods:
+  - "[[Confidence Interval]]"
   - "[[Accounts]]"
   - "[[Effect Size]]"
   - "[[Meta-analysis]]"

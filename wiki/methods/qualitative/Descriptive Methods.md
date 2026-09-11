@@ -9,17 +9,15 @@ summary: "质性研究中贴近数据本身、使用有限框架和解释、将�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 15
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 16
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/qualitative
   - research-methodology
 related_concepts:
-  - "[[Transcription in Qualitative Research]]"
-  - "[[Story Line]]"
-  - "[[Analytic Framework]]"
+  - "[[APA Style]]"
   - "[[Reliability]]"
   - "[[Research Purpose]]"
 related_theories:
@@ -28,7 +26,10 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Descriptive Analysis]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Field Notes]]"
+  - "[[Story Line]]"
+  - "[[Analytic Framework]]"
   - "[[Grounded Theory]]"
   - "[[Open Coding]]"
   - "[[Axial Coding]]"
@@ -40,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-09-11
 ---
 
 # Descriptive Methods

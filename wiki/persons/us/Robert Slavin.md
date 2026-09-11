@@ -8,7 +8,7 @@ summary: "美国著名教育心理学家、证据本位教育改革（EBR）奠�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 34
+person_related_count: 35
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -25,6 +25,7 @@ tags:
   - meta-analysis
   - region/us
 related_concepts:
+  - "[[APA Style]]"
   - "[[Evidence-Based Education]]"
   - "[[Clinical Trial]]"
   - "[[Causality]]"
@@ -80,7 +81,7 @@ updated: 2026-09-11
 
 > [!person-profile] 人物档案
 > - **生卒年份** 1950–2021
-> - **身份位置** 美国约翰霍普金斯大学（Johns Hopkins University）教育研究与改革中心（CRRE）主任，教育心理学家，2018 年美国心理学会（APA）第 15 分会 **E. L. Thorndike 终身成就奖** 获得者。
+> - **身份位置** 美国约翰霍普金斯大学（Johns Hopkins University）教育研究与改革中心（CRRE）主任，教育心理学家，2018 年美国心理学会（[[APA Style|APA]]）第 15 分会 **E. L. Thorndike 终身成就奖** 获得者。
 > - **核心角色** 当代**[[Evidence-Based Education|证据本位教育]]改革（EBR）运动的最核心倡导者与奠基人**，[[Success for All]] 整体学校改革联合创始人；推动教育实证研究摆脱“主观时尚钟摆”，确立以医学[[Clinical Trial|临床试验]]为蓝本的[[Causality|因果推断]]、实验评估与[[Meta-analysis|元分析]]标准体系。
 > - **代表贡献** 创立全美实施规模最大的循证阅读项目之一 [[Success for All]]；创办[[Best Evidence Encyclopedia|最佳证据百科全书]]（[[Best Evidence Encyclopedia|BEE]]）与 Evidence for ESSA 平台；确立元分析方法学准入标准（[[Sample Size Determination|样本量]] $\ge 15$、基线等效 $d < 0.25$、严禁自利性测验）（Slavin & Smith, 2009; Cheung & Slavin, 2013, 2016）；深远影响了包括 [[Argument_Chen_Cheung_2025_ERR|Chen & Cheung (2025)]] 在内的新一代智能教育循证评价。
 
@@ -97,7 +98,7 @@ updated: 2026-09-11
 > - **1970–1980 年代 — [[Cooperative Learning|合作学习]]与 [[Success for All]] 创立** 获得约翰霍普金斯大学博士学位并任教；与妻子 Nancy Madden 共同创立 [[Success for All]]（SFA）整体学校改革模式，在全美推广合作学习与弱势儿童早期阅读干预。
 > - **2002 — 提出“[[Evidence-Based Education|证据本位教育]]改革”纲领** 在 AERA 发表 Dewitt Wallace-Reader's Digest 杰出讲座（[[Argument_Slavin_2002_ER|Slavin, 2002]]），正式提出“[[Evidence-Based Reform|证据本位改革]]”（EBR）概念，呼应美国《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》（[[No Child Left Behind Act 2001|NCLB]]）与教育科学研究院（IES）建立的因果评估标准。
 > - **2007–2015 — 创立 [[Best Evidence Encyclopedia|BEE]] 与深化方法学标准** 创办最佳证据百科全书（[[Best Evidence Encyclopedia|BEE]]）；系统发布[[Meta-analysis|元分析]]方法学规范（Slavin, 2008; Slavin & Smith, 2009），与长期合作者 [[Alan C. K. Cheung]] 联手发表一系列关于教育技术与中小学阅读/数学干预的大规模元分析。
-> - **2015–2018 — ESSA 证据法治化与荣膺 Thorndike 终身成就奖** 深度参与《每个学生都成功法案》（ESSA）四级证据标准的政策制定，创立 Evidence for ESSA 平台；2018 年荣获 APA 桑代克终身成就奖并发表总结性演讲（[[Argument_Slavin_2019_EP|Slavin, 2019]]）。
+> - **2015–2018 — ESSA 证据法治化与荣膺 Thorndike 终身成就奖** 深度参与《每个学生都成功法案》（ESSA）四级证据标准的政策制定，创立 Evidence for ESSA 平台；2018 年荣获 [[APA Style|APA]] 桑代克终身成就奖并发表总结性演讲（[[Argument_Slavin_2019_EP|Slavin, 2019]]）。
 > - **2021 — 逝世与学术遗产的延续** 2021 年 4 月逝世。逝世前与张志强、[[Tengteng Zhuang|庄腾腾]]联合在 *ECNU Review of Education* 发表特刊论文（[[Argument_Slavin_2021_ROE|Slavin et al., 2021]]），系统回应华语学界对[[Positivism|实证主义]]的质疑；其确立的严格基线等效与元分析准入规程，持续作为后续学者（如 [[Argument_Chen_Cheung_2025_ERR|Chen & Cheung, 2025]]）评估前沿 AI 教育干预的核心方法基准。
 
 ---

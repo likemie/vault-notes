@@ -31,7 +31,6 @@ related_concepts:
   - "[[Promising Student]]"
   - "[[Online Self-Assessment]]"
   - "[[Theoretical Perspective]]"
-  - "[[Analytic Framework]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Stakeholder University]]"
   - "[[Document]]"
@@ -48,6 +47,7 @@ related_theories:
   - "[[Governmentality]]"
   - "[[Societies of Control]]"
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Discourse Analysis]]"
 related_persons:
   - "[[Immanuel Kant]]"

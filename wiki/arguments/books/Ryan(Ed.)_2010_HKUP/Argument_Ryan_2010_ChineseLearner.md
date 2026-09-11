@@ -27,7 +27,6 @@ related_concepts:
   - "[[Chinese Learner]]"
   - "[[Rote Learning]]"
   - "[[Dialogue in Education]]"
-  - "[[Analytic Framework]]"
   - "[[Stereotype Threat]]"
   - "[[Meta-Cultural Sensitivity]]"
   - "[[Confucian Heritage Cultures]]"
@@ -47,6 +46,7 @@ related_theories:
   - "[[Hofstede's Cultural Dimensions]]"
   - "[[Neo-Confucianism]]"
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Discourse Analysis]]"
 related_persons:
   - "[[Confucius]]"

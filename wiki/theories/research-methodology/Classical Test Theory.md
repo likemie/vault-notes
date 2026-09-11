@@ -25,7 +25,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Ontology]]"
   - "[[Achievement and Aptitude Tests]]"
-  - "[[Rating Scale]]"
   - "[[Computerized Adaptive Testing]]"
 related_theories:
   - "[[Item Response Theory]]"
@@ -35,6 +34,7 @@ related_methods:
   - "[[Item Analysis]]"
   - "[[Internal Consistency]]"
   - "[[Cronbach's Alpha]]"
+  - "[[Rating Scale]]"
   - "[[Measurement Invariance]]"
 confidence: medium
 status: draft

@@ -11,7 +11,6 @@ related_color: "#fde68a"
 tags: [theme/ontology, theme/epistemology, theme/research-philosophy, paradigm/positivist]
 related_concepts:
   - "[[Hypothesis]]"
-  - "[[Analytic Framework]]"
   - "[[Ontology]]"
   - "[[Independent Variable]]"
   - "[[Creativity]]"
@@ -39,6 +38,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Experimental Research]]"
   - "[[Accounts]]"
   - "[[Causal Modeling]]"

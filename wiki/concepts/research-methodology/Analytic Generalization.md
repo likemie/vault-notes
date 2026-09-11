@@ -17,7 +17,6 @@ tags:
   - generalization
   - methodology
 related_concepts:
-  - "[[Sample Size Determination]]"
   - "[[Sampling Error]]"
   - "[[External Validity]]"
   - "[[Variable]]"
@@ -25,6 +24,7 @@ related_methods:
   - "[[Case Study]]"
   - "[[Statistical Significance]]"
   - "[[Effect Size]]"
+  - "[[Sample Size Determination]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14]]"
 confidence: medium

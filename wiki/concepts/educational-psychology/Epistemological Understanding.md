@@ -29,7 +29,6 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Reliability]]"
   - "[[Epistemological Beliefs]]"
-  - "[[Questionnaire]]"
   - "[[Domain Specificity]]"
   - "[[Areas of Knowledge]]"
   - "[[Critical Thinking]]"
@@ -43,6 +42,7 @@ related_concepts:
 related_theories:
   - "[[AIR Model of Epistemic Cognition]]"
 related_methods:
+  - "[[Questionnaire]]"
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
 related_instruments:

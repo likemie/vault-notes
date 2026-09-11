@@ -28,12 +28,12 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Creativity]]"
   - "[[Normal School]]"
-  - "[[Questionnaire]]"
   - "[[Deficit Framing]]"
   - "[[Reflexivity]]"
   - "[[Evidence-Based Education]]"
   - "[[Paradigm]]"
 related_methods:
+  - "[[Questionnaire]]"
   - "[[Effect Size]]"
   - "[[Systematic Review]]"
   - "[[Critical Review]]"

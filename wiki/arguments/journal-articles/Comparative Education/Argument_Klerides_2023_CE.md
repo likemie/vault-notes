@@ -29,7 +29,6 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Paradigm]]"
   - "[[Agendas of Attention]]"
-  - "[[Analytic Framework]]"
   - "[[Readings of the Global]]"
   - "[[Realism in International Relations]]"
   - "[[Rationalism in International Relations]]"
@@ -67,7 +66,8 @@ related_theories:
   - "[[Autopoiesis]]"
   - "[[Actor-Network Theory]]"
   - "[[Dependency Theory]]"
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons:
   - "[[William Foote Whyte]]"
   - "[[Robert Cowen]]"

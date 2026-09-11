@@ -26,19 +26,19 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Visible Learning]]"
   - "[[Didaktik]]"
-  - "[[Confidence Interval]]"
   - "[[Hypothesis]]"
   - "[[Variable]]"
-  - "[[Sample Size Determination]]"
   - "[[Feedback]]"
 related_theories: []
 related_methods:
   - "[[Effect Size]]"
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
+  - "[[Confidence Interval]]"
   - "[[Statistical Significance]]"
   - "[[Covariate Adjustment]]"
   - "[[Rasch Measurement]]"
+  - "[[Sample Size Determination]]"
   - "[[Standard Error]]"
 related_persons:
   - "[[John Hattie]]"

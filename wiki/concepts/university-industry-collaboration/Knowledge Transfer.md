@@ -27,7 +27,6 @@ related_concepts:
   - "[[Forced Knowledge Transfer]]"
   - "[[Economic and Industrial Espionage]]"
   - "[[Knowledge Sabotage]]"
-  - "[[Analytic Framework]]"
   - "[[Value Neutrality]]"
   - "[[Technology Transfer]]"
   - "[[Document]]"
@@ -39,7 +38,8 @@ related_concepts:
 related_theories:
   - "[[Critical Geopolitics]]"
   - "[[Systems of Innovation]]"
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons:
   - "[[Plato]]"
   - "[[Aristotle]]"

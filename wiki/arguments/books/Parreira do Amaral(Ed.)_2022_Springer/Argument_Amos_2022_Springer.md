@@ -26,7 +26,6 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Variable]]"
-  - "[[Analytic Framework]]"
   - "[[Transhumanism]]"
   - "[[Posthumanism]]"
   - "[[Response-ability]]"
@@ -59,6 +58,7 @@ related_theories:
   - "[[Luhmann's Systems Theory]]"
   - "[[Transition Design]]"
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Coding in Qualitative Research]]"
 related_persons:
   - "[[Robert Cowen]]"

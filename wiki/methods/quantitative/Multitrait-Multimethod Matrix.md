@@ -33,7 +33,6 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Construct]]"
   - "[[Variable]]"
-  - "[[Questionnaire]]"
   - "[[Reliability]]"
   - "[[Hypothesis]]"
 related_theories:
@@ -41,6 +40,7 @@ related_theories:
 related_methods:
   - "[[Multimethod Research]]"
   - "[[Confirmatory Factor Analysis]]"
+  - "[[Questionnaire]]"
   - "[[Pearson Product-Moment Correlation]]"
   - "[[Causal Modeling]]"
   - "[[Chi-Squared Test]]"

@@ -29,7 +29,6 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Surface and Deep Learning]]"
   - "[[Direct Instruction]]"
-  - "[[Transcription in Qualitative Research]]"
   - "[[Epistemology]]"
   - "[[Feedback]]"
   - "[[Dialogue in Education]]"
@@ -76,6 +75,7 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Meta-meta-analysis]]"
   - "[[Observation Method]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Coding in Qualitative Research]]"
 related_persons:
   - "[[John Hattie]]"

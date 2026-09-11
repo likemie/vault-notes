@@ -20,12 +20,12 @@ tags:
 related_concepts:
   - "[[Variable]]"
   - "[[Dependent Variable]]"
-  - "[[Confidence Interval]]"
   - "[[Hypothesis]]"
 related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
   - "[[Statistical Significance]]"
+  - "[[Confidence Interval]]"
   - "[[Effect Size]]"
   - "[[Standard Error]]"
 related_persons: []

@@ -21,10 +21,10 @@ related_concepts:
   - "[[Internal Validity]]"
   - "[[External Validity]]"
   - "[[Ecological Validity]]"
-  - "[[Pre-test and Post-test]]"
   - "[[Variable]]"
   - "[[Going Native]]"
 related_methods:
+  - "[[Pre-test and Post-test]]"
   - "[[Random Assignment]]"
   - "[[True Experimental Design]]"
   - "[[Experimental Research]]"

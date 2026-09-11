@@ -20,16 +20,16 @@ related_concepts:
   - "[[Variable]]"
   - "[[Unit of Analysis]]"
   - "[[Interaction Effect]]"
-  - "[[Pre-test and Post-test]]"
   - "[[Research Purpose]]"
-  - "[[Sample Size Determination]]"
 related_methods:
   - "[[True Experimental Design]]"
   - "[[Random Assignment]]"
   - "[[Effect Size]]"
   - "[[Factorial Design]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Trend Study]]"
   - "[[Pilot Testing]]"
+  - "[[Sample Size Determination]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
 status: draft

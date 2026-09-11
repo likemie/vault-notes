@@ -16,15 +16,15 @@ tags:
   - qualitative-research
 related_concepts:
   - "[[Reliability]]"
-  - "[[Transcription in Qualitative Research]]"
-  - "[[Intercoder Agreement]]"
 related_theories: []
 related_methods:
   - "[[Coding in Qualitative Research]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Qualitative Research]]"
   - "[[Case Study]]"
   - "[[Cronbach's Alpha]]"
   - "[[Test-Retest Reliability]]"
+  - "[[Intercoder Agreement]]"
 related_persons: []
 related_facts: []
 related_arguments:

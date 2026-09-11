@@ -27,17 +27,13 @@ tags:
   - source/textbook
   - theme/research-planning
 related_concepts:
-  - "[[Sample Size Determination]]"
-  - "[[Sampling Frame]]"
   - "[[Research Purpose]]"
   - "[[Variable]]"
   - "[[Reliability]]"
   - "[[Homework]]"
   - "[[Heterogeneity]]"
   - "[[Dependent Variable]]"
-  - "[[Confidence Interval]]"
   - "[[Independent Variable]]"
-  - "[[Questionnaire]]"
   - "[[Attrition]]"
   - "[[Sampling Error]]"
   - "[[Computer Simulation]]"
@@ -57,6 +53,8 @@ related_theories:
   - "[[Central Limit Theorem]]"
 related_methods:
   - "[[Semi-structured Interview]]"
+  - "[[Sample Size Determination]]"
+  - "[[Sampling Frame]]"
   - "[[Random Sampling]]"
   - "[[Non-probability Sampling]]"
   - "[[Mixed Methods Research]]"
@@ -65,6 +63,8 @@ related_methods:
   - "[[Multiple Regression]]"
   - "[[Experimental Research]]"
   - "[[Survey Research]]"
+  - "[[Confidence Interval]]"
+  - "[[Questionnaire]]"
   - "[[Standard Error]]"
   - "[[Causal Modeling]]"
   - "[[Effect Size]]"

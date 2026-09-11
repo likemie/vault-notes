@@ -23,11 +23,12 @@ related_concepts:
   - "[[Epistemic Cognition]]"
   - "[[Variable]]"
   - "[[Pragmatic Paradigm]]"
-  - "[[Questionnaire]]"
 related_persons:
   - "[[Clark A. Chinn]]"
 related_arguments:
   - "[[Argument_Chinn_2011_EP]]"
+related_methods:
+  - "[[Questionnaire]]"
 confidence: high
 status: draft
 created: 2026-08-17

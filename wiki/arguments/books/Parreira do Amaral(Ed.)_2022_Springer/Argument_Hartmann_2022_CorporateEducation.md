@@ -23,7 +23,6 @@ tags:
   - subject/comparative-education
 related_concepts:
   - "[[Corporate Education]]"
-  - "[[Analytic Framework]]"
   - "[[Corporate University]]"
   - "[[Document]]"
   - "[[Dialogue in Education]]"
@@ -33,6 +32,7 @@ related_concepts:
 related_theories:
   - "[[Varieties of Capitalism]]"
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Case Study]]"
   - "[[Pilot Testing]]"
   - "[[Semi-structured Interview]]"

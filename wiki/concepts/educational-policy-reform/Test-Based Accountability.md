@@ -33,13 +33,13 @@ related_concepts:
   - "[[Performativity]]"
   - "[[Rote Learning]]"
   - "[[Variable]]"
-  - "[[Transcription in Qualitative Research]]"
   - "[[Quality Education]]"
   - "[[Learner-Centred Education]]"
 related_theories:
   - "[[Third Generation Activity Theory]]"
 related_methods:
   - "[[Accounts]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Case Study]]"
   - "[[Systematic Review]]"
   - "[[Documentary Analysis]]"

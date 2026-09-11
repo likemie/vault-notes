@@ -18,20 +18,20 @@ tags:
   - quantitative-research
   - design-type
 related_concepts:
-  - "[[Pre-test and Post-test]]"
   - "[[Interaction Effect]]"
   - "[[Unit of Analysis]]"
   - "[[Research Purpose]]"
   - "[[Order Effects]]"
   - "[[Pre-test Sensitisation]]"
-  - "[[Sample Size Determination]]"
   - "[[Research Question]]"
 related_methods:
   - "[[True Experimental Design]]"
   - "[[Factorial Design]]"
   - "[[Random Assignment]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Analysis of Variance]]"
   - "[[Pretest-Posttest Control Group Design]]"
+  - "[[Sample Size Determination]]"
   - "[[Posttest-Only Control Group Design]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"

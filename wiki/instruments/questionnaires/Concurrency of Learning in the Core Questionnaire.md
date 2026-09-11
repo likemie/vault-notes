@@ -20,10 +20,8 @@ response_format: "同意程度李克特量表与开放式简答题"
 tags: [scale, questionnaire, curriculum-evaluation, ibdp]
 related_concepts:
   - "[[Concurrency of Learning]]"
-  - "[[Questionnaire]]"
   - "[[Theory of Knowledge]]"
   - "[[International Education]]"
-  - "[[Likert Scale]]"
   - "[[Praxis]]"
   - "[[Creativity, Action, Service]]"
   - "[[Extended Essay]]"
@@ -34,6 +32,8 @@ related_concepts:
   - "[[IB Diploma Programme]]"
 related_theories: []
 related_methods:
+  - "[[Questionnaire]]"
+  - "[[Likert Scale]]"
   - "[[Descriptive Analysis]]"
 related_instruments: []
 related_persons: []

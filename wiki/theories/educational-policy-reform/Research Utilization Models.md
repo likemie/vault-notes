@@ -54,7 +54,6 @@ related_concepts:
   - "[[Knowledge-that and Know-how-to]]"
   - "[[Academic Achievement]]"
   - "[[Research Question]]"
-  - "[[Questionnaire]]"
   - "[[Operationalization]]"
   - "[[Professional Judgment]]"
   - "[[Knowledge Production]]"
@@ -69,6 +68,7 @@ related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Qualitative Interview]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Questionnaire]]"
 related_instruments:
   - "[[Research Literacy Scale for Teachers]]"
 related_persons:

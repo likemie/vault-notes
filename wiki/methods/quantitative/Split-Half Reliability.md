@@ -18,13 +18,13 @@ tags:
   - reliability
 related_concepts:
   - "[[Reliability]]"
-  - "[[Questionnaire]]"
   - "[[Construct]]"
 related_theories: []
 related_methods:
   - "[[Internal Consistency]]"
   - "[[Test-Retest Reliability]]"
   - "[[Parallel-Forms Reliability]]"
+  - "[[Questionnaire]]"
 related_persons: []
 related_facts: []
 related_arguments:

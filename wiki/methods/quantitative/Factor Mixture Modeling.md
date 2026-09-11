@@ -18,15 +18,15 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
-  - "[[Sample Size Determination]]"
   - "[[Research Question]]"
-  - "[[Questionnaire]]"
   - "[[Reliability]]"
   - "[[Null Hypothesis]]"
   - "[[Alternative Hypothesis]]"
 related_theories: []
 related_methods:
+  - "[[Sample Size Determination]]"
   - "[[Confirmatory Factor Analysis]]"
+  - "[[Questionnaire]]"
   - "[[Chi-Squared Test]]"
 related_instruments: []
 related_persons: []

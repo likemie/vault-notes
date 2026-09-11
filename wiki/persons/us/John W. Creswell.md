@@ -9,7 +9,7 @@ summary: "美国当代著名混合方法与质性研究方法论学者，系统�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 44
+person_related_count: 45
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -22,6 +22,7 @@ tags:
   - theme/research-design
   - paradigm/pragmatism
 related_concepts:
+  - "[[APA Style]]"
   - "[[Metainferences]]"
   - "[[Hypothesis]]"
   - "[[Research Question]]"

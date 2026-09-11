@@ -20,6 +20,7 @@ tags:
   - theme/sensitive-research
 related_methods:
   - "[[Participatory Research]]"
+  - "[[Analytic Framework]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09]]"
 related_concepts:
@@ -30,7 +31,6 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Research Purpose]]"
   - "[[Evaluation Research]]"
-  - "[[Analytic Framework]]"
 status: draft
 created: 2026-06-22
 updated: 2026-06-22

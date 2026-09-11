@@ -17,8 +17,6 @@ tags:
 - methodology
 related_concepts:
   - "[[Unit of Analysis]]"
-  - "[[Analytic Framework]]"
-  - "[[Sample Size Determination]]"
   - "[[Research Question]]"
   - "[[Variable]]"
   - "[[Chain of Evidence]]"
@@ -30,7 +28,6 @@ related_concepts:
   - "[[External Validity]]"
   - "[[Ecological Validity]]"
   - "[[Reliability]]"
-  - "[[Questionnaire]]"
   - "[[Reflexivity]]"
   - "[[Analytic Generalization]]"
   - "[[Falsification]]"
@@ -48,9 +45,12 @@ related_theories:
   - "[[Phenomenology]]"
 related_methods:
   - "[[Qualitative Research]]"
+  - "[[Analytic Framework]]"
+  - "[[Sample Size Determination]]"
   - "[[Triangulation]]"
   - "[[Internal Consistency]]"
   - "[[Experimental Research]]"
+  - "[[Questionnaire]]"
   - "[[Grounded Theory]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Audiovisual, Social Media, and Digital Materials]]"

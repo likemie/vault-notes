@@ -10,7 +10,7 @@ title: "Argument_Zheng_2023_ShanghaiSanlian"
 argument_key: "Argument_Zheng_2023_ShanghaiSanlian"
 argument_display_title: "金榜题名之后：大学生出路分化之谜"
 argument_kind: "book"
-argument_related_count: 107
+argument_related_count: 106
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Epoché]]"
   - "[[Hypothesis]]"
   - "[[Cultural Capital]]"
-  - "[[Analytic Framework]]"
   - "[[Habitus]]"
   - "[[Champ]]"
   - "[[Academic and Social Integration]]"
@@ -37,8 +36,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Epistemology]]"
   - "[[Academic Achievement]]"
-  - "[[Transcription in Qualitative Research]]"
-  - "[[Questionnaire]]"
   - "[[Emergence]]"
   - "[[Typification]]"
   - "[[Goal-Controlled Mode]]"
@@ -103,9 +100,12 @@ related_theories:
   - "[[Social Capital Theory]]"
 related_methods:
   - "[[Quantitative Research]]"
+  - "[[Analytic Framework]]"
   - "[[Constructivist Grounded Theory]]"
   - "[[In-depth Interview]]"
   - "[[Focused Interview]]"
+  - "[[Transcription in Qualitative Research]]"
+  - "[[Questionnaire]]"
   - "[[Cohort Study]]"
   - "[[Grounded Theory]]"
   - "[[Multiple Regression]]"
@@ -126,7 +126,6 @@ related_persons:
   - "[[Yajun Zheng]]"
   - "[[Max Weber]]"
   - "[[Ann Swidler]]"
-  - "[[Clifford Geertz]]"
   - "[[Marcia Baxter Magolda]]"
   - "[[Didier Eribon]]"
 related_facts:

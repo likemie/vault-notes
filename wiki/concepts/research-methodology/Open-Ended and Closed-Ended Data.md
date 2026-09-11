@@ -21,7 +21,6 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Variable]]"
-  - "[[Questionnaire]]"
   - "[[Research Purpose]]"
 related_theories: []
 related_methods:
@@ -30,6 +29,7 @@ related_methods:
   - "[[Multiple-Choice Questions]]"
   - "[[Qualitative Research]]"
   - "[[Mixed Methods Research]]"
+  - "[[Questionnaire]]"
   - "[[Case Study]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Pilot Testing]]"

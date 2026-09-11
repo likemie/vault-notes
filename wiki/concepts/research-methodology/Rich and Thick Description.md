@@ -30,7 +30,6 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Homework]]"
   - "[[Indexicality]]"
-  - "[[Sample Size Determination]]"
   - "[[Creativity]]"
   - "[[Hypothesis]]"
   - "[[Ontology]]"
@@ -42,16 +41,17 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Interpretive Paradigm]]"
   - "[[Operationalization]]"
-related_theories:
-  - "[[Critical Ethnography]]"
+related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Accounts]]"
   - "[[Field Notes]]"
+  - "[[Sample Size Determination]]"
   - "[[Ethnography]]"
   - "[[Case Study]]"
   - "[[Fieldwork]]"
+  - "[[Critical Ethnography]]"
   - "[[Mixed Methods Research]]"
   - "[[Member Tests]]"
 related_instruments:

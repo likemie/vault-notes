@@ -28,12 +28,12 @@ related_concepts:
   - "[[Realism in International Relations]]"
   - "[[Travelling Policy]]"
   - "[[Disciplina and Doctrina]]"
-  - "[[Analytic Framework]]"
   - "[[Epistemology]]"
   - "[[Rationalism in International Relations]]"
 related_theories:
   - "[[Governing at a Distance]]"
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Network Analysis]]"
 related_persons: []
 related_facts:

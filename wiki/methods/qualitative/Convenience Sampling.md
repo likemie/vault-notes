@@ -19,16 +19,16 @@ tags:
   - method/sampling
   - qualitative-research
 related_concepts:
-  - "[[Sample Size Determination]]"
   - "[[Unit of Analysis]]"
-  - "[[Sampling Frame]]"
-  - "[[Questionnaire]]"
   - "[[External Validity]]"
   - "[[IB Diploma Programme]]"
 related_theories: []
 related_methods:
   - "[[Non-probability Sampling]]"
+  - "[[Sample Size Determination]]"
   - "[[Case Study]]"
+  - "[[Sampling Frame]]"
+  - "[[Questionnaire]]"
   - "[[Random Sampling]]"
 related_persons: []
 related_facts: []

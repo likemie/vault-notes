@@ -16,10 +16,10 @@ tags:
   - qualitative-research
 related_concepts:
   - "[[Unit of Analysis]]"
-  - "[[Sampling Frame]]"
 related_theories: []
 related_methods:
   - "[[Non-probability Sampling]]"
+  - "[[Sampling Frame]]"
 related_persons: []
 related_facts: []
 related_arguments:

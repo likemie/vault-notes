@@ -13,11 +13,11 @@ related_color: "#e5e7eb"
 tags: []
 related_concepts:
   - "[[Epistemology]]"
-  - "[[Questionnaire]]"
   - "[[Epistemic Cognition]]"
   - "[[Justificatory Standards]]"
 related_theories: []
 related_methods:
+  - "[[Questionnaire]]"
   - "[[Mixed Methods Research]]"
 related_instruments: []
 related_persons: []

@@ -16,12 +16,12 @@ tags:
   - theory/research-ethics
   - theory/framework
 related_concepts:
-  - "[[Analytic Framework]]"
   - "[[Research Ethics]]"
   - "[[Evaluation Research]]"
   - "[[Institutional Review Board]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons: []
 related_facts: []
 related_arguments:

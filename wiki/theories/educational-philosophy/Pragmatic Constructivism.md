@@ -18,7 +18,6 @@ tags:
   - curriculum-theory
   - region/finland
 related_concepts:
-  - "[[Analytic Framework]]"
   - "[[Constructivist Paradigm]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Paradigm]]"
@@ -30,6 +29,7 @@ related_concepts:
   - "[[Reflexivity]]"
 related_theories: []
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Action Research]]"
 related_persons:
   - "[[John Dewey]]"

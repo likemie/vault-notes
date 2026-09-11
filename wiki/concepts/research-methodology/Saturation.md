@@ -16,13 +16,13 @@ tags:
   - research-methodology
   - qualitative-research
 related_concepts:
-  - "[[Sample Size Determination]]"
   - "[[Reliability]]"
   - "[[Emergence]]"
 related_theories:
   - "[[Phenomenology]]"
 related_methods:
   - "[[Qualitative Research]]"
+  - "[[Sample Size Determination]]"
   - "[[Grounded Theory]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Effect Size]]"

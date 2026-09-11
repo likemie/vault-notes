@@ -31,11 +31,9 @@ related_concepts:
   - "[[Absolutist]]"
   - "[[Multiplist]]"
   - "[[Evaluativist]]"
-  - "[[Questionnaire]]"
   - "[[Construct Validity]]"
   - "[[Variable]]"
   - "[[Heterogeneity]]"
-  - "[[Sample Size Determination]]"
   - "[[Epistemological Beliefs]]"
   - "[[Predictive Validity]]"
   - "[[External Validity]]"
@@ -47,6 +45,8 @@ related_methods:
   - "[[Factor Mixture Modeling]]"
   - "[[Confirmatory Factor Analysis]]"
   - "[[Multinomial Logistic Regression]]"
+  - "[[Questionnaire]]"
+  - "[[Sample Size Determination]]"
 related_instruments:
   - "[[Epistemic and Ontological Cognition Questionnaire]]"
 related_persons: []

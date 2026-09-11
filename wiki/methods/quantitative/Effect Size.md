@@ -20,8 +20,6 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Visible Learning]]"
   - "[[Critique of Effect Size]]"
-  - "[[Sample Size Determination]]"
-  - "[[Confidence Interval]]"
   - "[[Academic Achievement]]"
   - "[[Developer Effect]]"
   - "[[Evaluation Research]]"
@@ -48,6 +46,8 @@ related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Statistical Significance]]"
+  - "[[Sample Size Determination]]"
+  - "[[Confidence Interval]]"
   - "[[Standard Error]]"
   - "[[Random Assignment]]"
   - "[[Power Analysis]]"

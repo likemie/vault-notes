@@ -19,7 +19,6 @@ tags:
 related_concepts:
   - "[[Entrepreneurial University]]"
   - "[[University-Industry Collaboration]]"
-  - "[[Analytic Framework]]"
   - "[[Corporate University]]"
   - "[[Quasi-markets in Higher Education]]"
   - "[[Knowledge Capitalism]]"
@@ -31,7 +30,8 @@ related_concepts:
   - "[[Academic Oligarchy]]"
 related_theories:
   - "[[Varieties of Capitalism]]"
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons:
   - "[[Pierre Bourdieu]]"
 related_facts: []

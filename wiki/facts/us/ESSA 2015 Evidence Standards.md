@@ -23,8 +23,6 @@ tags:
 related_concepts:
   - "[[Logic Model]]"
   - "[[Operationalization]]"
-  - "[[Sample Size Determination]]"
-  - "[[Pre-test and Post-test]]"
   - "[[Variable]]"
   - "[[Preregistration]]"
 related_theories: []
@@ -34,6 +32,8 @@ related_methods:
   - "[[Quasi-Experimental Designs]]"
   - "[[Observational and Correlational Research]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Sample Size Determination]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Random Assignment]]"
 related_persons: []
 related_facts:

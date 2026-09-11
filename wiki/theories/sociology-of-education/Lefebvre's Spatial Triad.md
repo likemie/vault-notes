@@ -17,10 +17,10 @@ tags:
   - theme/higher-education
   - theme/regional-development
 related_concepts:
-  - "[[Analytic Framework]]"
   - "[[Structural Holes]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons: []
 related_facts:
   - "[[Guangdong-Hong Kong-Macau Greater Bay Area]]"

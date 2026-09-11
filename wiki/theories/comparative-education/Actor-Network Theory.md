@@ -18,7 +18,6 @@ tags:
 related_concepts:
   - "[[Heterogeneity]]"
   - "[[Assemblage]]"
-  - "[[Analytic Framework]]"
   - "[[Science and Technology Studies]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Methodological Nationalism]]"
@@ -36,6 +35,7 @@ related_concepts:
 related_theories:
   - "[[Governing at a Distance]]"
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Ethnography]]"
   - "[[Coding in Qualitative Research]]"
 related_persons: []

@@ -22,7 +22,6 @@ related_concepts:
   - "[[Construct]]"
   - "[[Paradigm]]"
   - "[[Hypothesis]]"
-  - "[[Questionnaire]]"
   - "[[Reliability]]"
   - "[[Document]]"
   - "[[Positivism]]"
@@ -33,6 +32,7 @@ related_methods:
   - "[[Analysis of Variance]]"
   - "[[Mixed Methods Research]]"
   - "[[Qualitative Interview]]"
+  - "[[Questionnaire]]"
   - "[[Triangulation]]"
   - "[[Qualitative Research]]"
 related_arguments:

@@ -27,13 +27,13 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Constructivist Paradigm]]"
   - "[[Structured Teaching]]"
-  - "[[Confidence Interval]]"
   - "[[Heterogeneity]]"
   - "[[Academic Achievement]]"
 related_theories: []
 related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
+  - "[[Confidence Interval]]"
 related_instruments: []
 related_persons: []
 related_facts: []

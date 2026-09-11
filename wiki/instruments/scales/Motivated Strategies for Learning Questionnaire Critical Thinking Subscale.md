@@ -29,10 +29,10 @@ tags:
   - instrument/self-report
 related_concepts:
   - "[[Critical Thinking]]"
-  - "[[Questionnaire]]"
   - "[[Reliability]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Questionnaire]]"
 related_instruments:
   - "[[Critical Thinking Strategies Scale]]"
 related_persons: []

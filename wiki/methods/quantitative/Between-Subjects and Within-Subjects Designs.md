@@ -18,14 +18,14 @@ tags:
   - design-type
 related_concepts:
   - "[[Variable]]"
-  - "[[Pre-test and Post-test]]"
-  - "[[Sample Size Determination]]"
   - "[[Order Effects]]"
 related_theories: []
 related_methods:
   - "[[Repeated Measures Design]]"
   - "[[Experimental Research]]"
   - "[[Random Assignment]]"
+  - "[[Pre-test and Post-test]]"
+  - "[[Sample Size Determination]]"
   - "[[Factorial Design]]"
 related_persons: []
 related_facts: []

@@ -18,7 +18,6 @@ tags:
   - research-methodology
 related_concepts:
   - "[[Research Question]]"
-  - "[[Sample Size Determination]]"
   - "[[Reliability]]"
   - "[[Saturation]]"
   - "[[Naturalistic Generalization]]"
@@ -28,6 +27,7 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Quantitative Research]]"
   - "[[Random Sampling]]"
+  - "[[Sample Size Determination]]"
   - "[[Narrative Research]]"
   - "[[Grounded Theory]]"
   - "[[Ethnography]]"

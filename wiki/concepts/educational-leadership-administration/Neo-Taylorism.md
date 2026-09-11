@@ -24,7 +24,6 @@ related_concepts:
   - "[[New Public Management]]"
   - "[[School Leadership]]"
   - "[[Cult of the Guru]]"
-  - "[[Analytic Framework]]"
   - "[[Technical Rationality]]"
   - "[[Positivism]]"
   - "[[Value Neutrality]]"
@@ -34,6 +33,7 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Effect Size]]"
   - "[[Meta-analysis]]"
+  - "[[Analytic Framework]]"
 related_persons: []
 related_facts:
   - "[[Theory Movement in Educational Administration]]"

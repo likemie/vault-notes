@@ -26,8 +26,6 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Research Question]]"
   - "[[Document]]"
-  - "[[Transcription in Qualitative Research]]"
-  - "[[Questionnaire]]"
   - "[[Variable]]"
 related_theories:
   - "[[Phenomenology]]"
@@ -36,7 +34,9 @@ related_methods:
   - "[[Grounded Theory]]"
   - "[[Case Study]]"
   - "[[Participant Observation]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Questionnaire]]"
   - "[[Experimental Research]]"
   - "[[Field Notes]]"
 related_persons: []

@@ -44,7 +44,6 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Engagement in and with Research]]"
   - "[[Heterogeneity]]"
-  - "[[Questionnaire]]"
   - "[[Causality]]"
   - "[[Predictive Validity]]"
 related_methods:
@@ -64,6 +63,7 @@ related_methods:
   - "[[McDonald's Omega]]"
   - "[[Split-Half Reliability]]"
   - "[[Pearson Product-Moment Correlation]]"
+  - "[[Questionnaire]]"
   - "[[Test-Retest Reliability]]"
 related_instruments:
   - "[[Research Literacy Scale for Teachers]]"

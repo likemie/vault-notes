@@ -21,7 +21,6 @@ tags:
   - field/research-methodology
 related_concepts:
   - "[[Publication Bias]]"
-  - "[[Small Study Effects]]"
   - "[[Study Population and Sample]]"
   - "[[Unit of Analysis]]"
   - "[[Hypothesis]]"
@@ -31,6 +30,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Small Study Effects]]"
   - "[[Effect Size]]"
   - "[[Standard Error]]"
   - "[[Meta-meta-analysis]]"

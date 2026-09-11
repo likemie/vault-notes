@@ -30,12 +30,12 @@ related_concepts:
   - "[[Revoicing]]"
   - "[[Zone of Proximal Development]]"
   - "[[Dependent Variable]]"
-  - "[[Sample Size Determination]]"
 related_theories: []
 related_methods:
   - "[[Effect Size]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Meta-analysis]]"
+  - "[[Sample Size Determination]]"
 related_persons:
   - "[[Socrates]]"
 related_facts: []

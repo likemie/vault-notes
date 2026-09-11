@@ -26,7 +26,6 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Scaffolding]]"
   - "[[Concept Mapping]]"
-  - "[[Questionnaire]]"
   - "[[Domain Specificity]]"
   - "[[Problem Solving]]"
   - "[[Variable]]"
@@ -34,6 +33,7 @@ related_concepts:
 related_theories:
   - "[[Reflective Judgment Model]]"
 related_methods:
+  - "[[Questionnaire]]"
   - "[[Statistical Significance]]"
   - "[[Effect Size]]"
 related_instruments: []

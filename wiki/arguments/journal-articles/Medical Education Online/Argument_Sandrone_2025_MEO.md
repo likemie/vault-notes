@@ -23,11 +23,11 @@ tags:
 related_concepts:
   - "[[Mentorship]]"
   - "[[Mentorship Recognition]]"
-  - "[[Transcription in Qualitative Research]]"
   - "[[Research Topic]]"
 related_theories: []
 related_methods:
   - "[[Content Analysis]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Network Analysis]]"
 related_persons: []
 related_facts:

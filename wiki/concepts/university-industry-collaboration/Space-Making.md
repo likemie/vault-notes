@@ -15,7 +15,6 @@ tags:
 - level/higher-ed
 - region/global
 related_concepts:
-  - "[[Analytic Framework]]"
   - "[[Relational Space]]"
   - "[[Ontology]]"
   - "[[Reflexivity]]"
@@ -27,7 +26,8 @@ related_concepts:
   - "[[Internationalization of Higher Education]]"
 related_theories:
   - "[[Lefebvre's Spatial Triad]]"
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons:
   - "[[Doreen Massey]]"
 related_facts:

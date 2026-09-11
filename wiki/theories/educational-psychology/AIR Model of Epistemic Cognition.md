@@ -21,7 +21,6 @@ related_concepts:
   - "[[Epistemic Cognition]]"
   - "[[Epistemology]]"
   - "[[Causal Processes]]"
-  - "[[Analytic Framework]]"
   - "[[Reliable Epistemic Processes]]"
   - "[[Metacognition]]"
   - "[[Epistemic Aims]]"
@@ -36,8 +35,6 @@ related_concepts:
   - "[[Theoretical Standpoint]]"
   - "[[Ontology]]"
   - "[[Epistemic Stances]]"
-  - "[[Sample Size Determination]]"
-  - "[[Blinding]]"
   - "[[Scaffolding]]"
   - "[[Dialogue in Education]]"
   - "[[Document]]"
@@ -47,8 +44,11 @@ related_theories:
   - "[[Toulmin's Argumentation Model]]"
   - "[[Walton's Argumentation Schemes]]"
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Systematic Sampling]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Sample Size Determination]]"
+  - "[[Blinding]]"
   - "[[Discourse Analysis]]"
 related_persons:
   - "[[Clark A. Chinn]]"

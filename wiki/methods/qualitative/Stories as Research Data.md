@@ -15,12 +15,12 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Reliability]]"
   - "[[Causality]]"
-  - "[[Transcription in Qualitative Research]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Narrative Analysis]]"
   - "[[Narrative Research]]"
   - "[[Triangulation]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Ex Post Facto Research]]"
   - "[[Action Research]]"
   - "[[Accounts]]"

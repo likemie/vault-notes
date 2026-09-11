@@ -8,7 +8,7 @@ summary: "美国著名教育哲学家、心理学家与高阶思维测评先驱�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 12
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Critical Thinking]]"
   - "[[Operationalization]]"
+  - "[[APA Style]]"
   - "[[Epistemology]]"
   - "[[Critical Thinking Disposition]]"
   - "[[Habitus]]"
@@ -57,7 +58,7 @@ updated: 2026-09-11
 > - **身份位置** 美国教育哲学家、认知测评专家，芝加哥洛约拉大学（Loyola University Chicago）前教务长、圣塔克拉拉大学（Santa Clara University）荣休教授，Insight Assessment 创始人。
 > - **核心角色** 当代[[Critical Thinking|批判性思维]][[Operationalization|操作化]]界定与标准化测评体系的头号领军人物，被誉为“将批判性思维从哲学思辨转化为现代心理测量科学的关键桥梁”。
 > - **代表贡献**
-> 1. 主持并撰写了划时代的 美国哲学学会（APA）德尔菲批判性思维专家共识报告（Facione, 1990）；
+> 1. 主持并撰写了划时代的 美国哲学学会（[[APA Style|APA]]）德尔菲批判性思维专家共识报告（Facione, 1990）；
 > 2. 编制了全球应用最广的[[California Critical Thinking Skills Test|加州批判性思维技能测验]]（CCTST）与[[California Critical Thinking Disposition Inventory|加州批判性思维倾向问卷]]（[[California Critical Thinking Disposition Inventory|CCTDI]]）；
 > 3. 提出了整合认知技能与情意倾向的批判性思维决策理论。
 
@@ -73,7 +74,7 @@ updated: 2026-09-11
 > [!timeline] 生平与职涯
 > - **1944** 出生于美国。
 > - **1971** 获得密歇根州立大学哲学博士学位，早期聚焦于逻辑学、[[Epistemology|认识论]]与决策伦理学。
-> - **1988–1990** 受美国哲学学会（APA）委托，担任[[Critical Thinking|批判性思维]]共识项目首席研究员（Principal Investigator），主持全球 46 位专家联合攻关，发布里程碑式的《Delphi Report》（德尔菲报告）。
+> - **1988–1990** 受美国哲学学会（[[APA Style|APA]]）委托，担任[[Critical Thinking|批判性思维]]共识项目首席研究员（Principal Investigator），主持全球 46 位专家联合攻关，发布里程碑式的《Delphi Report》（德尔菲报告）。
 > - **1990s** 创立 Insight Assessment（加州学术出版社），相继研发并标准化发布 [[California Critical Thinking Skills Test|CCTST]]、[[California Critical Thinking Disposition Inventory|CCTDI]]、健康科学推理测验（HSRT）等多语种测量工具。
 > - **2000s–至今** 先后出任圣塔克拉拉大学文理学院院长、芝加哥洛约拉大学教务长，持续推动批判性思维在医学、军事、商业与基础教育课程中的制度化落地。
 

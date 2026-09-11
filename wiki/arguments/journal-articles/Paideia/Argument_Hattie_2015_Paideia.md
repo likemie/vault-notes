@@ -32,7 +32,6 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Document]]"
   - "[[Direct Instruction]]"
-  - "[[Questionnaire]]"
   - "[[Feedback]]"
   - "[[Surface and Deep Learning]]"
 related_theories: []
@@ -40,6 +39,7 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Questionnaire]]"
   - "[[Coding in Qualitative Research]]"
 related_persons: []
 related_facts: []

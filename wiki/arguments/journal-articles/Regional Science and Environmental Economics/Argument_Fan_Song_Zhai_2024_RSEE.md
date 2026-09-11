@@ -32,7 +32,6 @@ related_concepts:
   - "[[EST Integrated Development]]"
   - "[[Total Factor Productivity]]"
   - "[[Hypothesis]]"
-  - "[[Analytic Framework]]"
   - "[[Spatial Sortings]]"
   - "[[Causality]]"
   - "[[Cooperative Integrated Reading and Composition]]"
@@ -44,6 +43,7 @@ related_methods:
   - "[[LISA Time Path]]"
   - "[[LISA Spatiotemporal Transition]]"
   - "[[Combined Weighting AHP-EWM]]"
+  - "[[Analytic Framework]]"
 related_persons: []
 related_facts: []
 related_arguments: []

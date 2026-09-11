@@ -26,9 +26,7 @@ related_concepts:
   - "[[Artefact]]"
   - "[[Operationalization]]"
   - "[[Variable]]"
-  - "[[Analytic Framework]]"
   - "[[Intangible Spiritual Forces]]"
-  - "[[Questionnaire]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
   - "[[Determinism]]"
@@ -54,6 +52,8 @@ related_concepts:
   - "[[Value Neutrality]]"
 related_theories: []
 related_methods:
+  - "[[Analytic Framework]]"
+  - "[[Questionnaire]]"
   - "[[Multiple Regression]]"
   - "[[Historical-Comparative Method]]"
 related_instruments: []

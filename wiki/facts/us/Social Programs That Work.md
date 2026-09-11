@@ -26,7 +26,6 @@ related_concepts:
   - "[[Causality]]"
   - "[[Intelligent Tutoring Systems]]"
   - "[[Attrition]]"
-  - "[[Sample Size Determination]]"
   - "[[Paradigm]]"
 related_theories: []
 related_methods:
@@ -36,6 +35,7 @@ related_methods:
   - "[[Regression Discontinuity Design]]"
   - "[[Intent-to-Treat Analysis]]"
   - "[[Random Assignment]]"
+  - "[[Sample Size Determination]]"
 related_instruments: []
 related_persons: []
 related_facts:

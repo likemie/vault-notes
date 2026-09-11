@@ -32,7 +32,6 @@ related_concepts:
   - "[[Intelligent Tutoring Systems]]"
   - "[[Variable]]"
   - "[[Generative Artificial Intelligence]]"
-  - "[[Pre-test and Post-test]]"
   - "[[Evaluator Independence]]"
   - "[[Fade-out Effect]]"
   - "[[School Leadership]]"
@@ -57,6 +56,7 @@ related_methods:
   - "[[Baseline Standardized Mean Difference]]"
   - "[[Covariate Adjustment]]"
   - "[[Meta-analysis]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Effect Size]]"
 related_instruments: []
 related_persons: []

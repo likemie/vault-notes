@@ -15,7 +15,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Epistemic Cognition]]"
   - "[[Consequential Validity]]"
-  - "[[Analytic Framework]]"
   - "[[Epistemological Naturalism]]"
   - "[[Epistemic Aims]]"
   - "[[Reliable Epistemic Processes]]"
@@ -24,13 +23,14 @@ related_concepts:
   - "[[Epistemic Virtues and Vices]]"
   - "[[Research Scope]]"
   - "[[Epistemic Forms]]"
-  - "[[Questionnaire]]"
   - "[[Predictive Validity]]"
 related_theories:
   - "[[Virtue Epistemology]]"
   - "[[Reliabilism]]"
   - "[[AIR Model of Epistemic Cognition]]"
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
+  - "[[Questionnaire]]"
 related_instruments: []
 related_persons: []
 related_facts: []

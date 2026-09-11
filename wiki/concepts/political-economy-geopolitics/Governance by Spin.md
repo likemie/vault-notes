@@ -19,7 +19,6 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Space of Flows and Space of Places]]"
   - "[[Shape-Shifting]]"
-  - "[[Analytic Framework]]"
   - "[[Floating Signifier]]"
   - "[[Epistemology]]"
   - "[[Theoretical Perspective]]"
@@ -28,6 +27,7 @@ related_theories: []
 related_methods:
   - "[[Participatory Research]]"
   - "[[Snowball Sampling]]"
+  - "[[Analytic Framework]]"
 related_persons:
   - "[[Jason Beech]]"
 related_facts:

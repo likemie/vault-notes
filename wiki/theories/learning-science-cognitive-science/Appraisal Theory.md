@@ -17,7 +17,6 @@ tags:
   - theme/cognition
   - theory/appraisal
 related_concepts:
-  - "[[Analytic Framework]]"
   - "[[Heterogeneity]]"
   - "[[Parental Cognitive and Affective Socialization]]"
   - "[[Pride in Learning]]"
@@ -28,6 +27,7 @@ related_concepts:
 related_theories:
   - "[[Cultural Models]]"
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Discourse Analysis]]"
   - "[[Mother-Child Conversation]]"

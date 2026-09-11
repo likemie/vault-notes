@@ -65,7 +65,6 @@ related_concepts:
   - "[[Academic Engagement]]"
   - "[[Research Translation]]"
   - "[[Public-Private Partnership in Research]]"
-  - "[[Questionnaire]]"
   - "[[Absorptive Capacity]]"
   - "[[Praxis]]"
   - "[[Multi-University]]"
@@ -85,6 +84,7 @@ related_theories:
   - "[[King-Persily Model]]"
 related_methods:
   - "[[Case Study]]"
+  - "[[Questionnaire]]"
 related_persons: []
 related_facts:
   - "[[Morrill Land-Grant Act of 1862]]"

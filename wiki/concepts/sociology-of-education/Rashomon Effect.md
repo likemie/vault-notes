@@ -5,7 +5,7 @@ aliases:
 summary: "由黑泽明电影《罗生门》引申的社会科学概念，指同一事件被不同行动者以矛盾且不可兼容的因果叙事加以报告和解释的现象"
 type: concept
 domain: "sociology-of-education"
-related_count: 7
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,13 +19,15 @@ related_concepts:
   - "[[Causality]]"
   - "[[Grand Theory]]"
   - "[[Multiplicity]]"
-  - "[[Action Narratives]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Action Narratives]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[PISA]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04]]"
+  - "[[Argument_Grey_2018_CE]]"
 confidence: medium
 status: draft
 created: 2026-06-17

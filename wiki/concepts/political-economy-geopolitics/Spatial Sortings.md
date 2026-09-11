@@ -27,13 +27,13 @@ related_concepts:
   - "[[Flow]]"
   - "[[International Education Hubs]]"
   - "[[EST Integrated Development]]"
-  - "[[Analytic Framework]]"
 related_theories:
   - "[[Fixity-Motion Tension]]"
 related_methods:
   - "[[Case Study]]"
   - "[[LISA Spatiotemporal Transition]]"
   - "[[Coupling Coordination Model]]"
+  - "[[Analytic Framework]]"
 related_persons:
   - "[[Sami Moisio]]"
 related_facts: []

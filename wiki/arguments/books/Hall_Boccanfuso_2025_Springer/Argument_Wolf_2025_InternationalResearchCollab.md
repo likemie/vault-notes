@@ -14,7 +14,6 @@ tags:
   - region/global
 related_concepts:
   - "[[University-Industry Collaboration]]"
-  - "[[Analytic Framework]]"
   - "[[Chain of Evidence]]"
   - "[[University-Industry Co-location]]"
   - "[[Use-Inspired Basic Research]]"
@@ -38,6 +37,7 @@ related_theories:
   - "[[Dollinger et al. Framework for UI Collaboration]]"
   - "[[Triple Helix]]"
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Case Study]]"
 related_persons: []
 related_facts:

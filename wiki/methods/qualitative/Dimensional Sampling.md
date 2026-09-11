@@ -16,10 +16,10 @@ tags:
   - qualitative-research
 related_concepts:
   - "[[Unit of Analysis]]"
-  - "[[Sample Size Determination]]"
 related_theories: []
 related_methods:
   - "[[Quota Sampling]]"
+  - "[[Sample Size Determination]]"
 related_persons: []
 related_facts: []
 related_arguments:

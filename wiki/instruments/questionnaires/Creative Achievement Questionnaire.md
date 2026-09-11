@@ -30,14 +30,14 @@ tags:
   - construct/creative-achievement
 related_concepts:
   - "[[Creativity]]"
-  - "[[Questionnaire]]"
   - "[[Divergent Thinking]]"
   - "[[Document]]"
   - "[[Construct Validity]]"
   - "[[Variable]]"
   - "[[Critical Thinking]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Questionnaire]]"
 related_instruments: []
 related_persons: []
 related_arguments:

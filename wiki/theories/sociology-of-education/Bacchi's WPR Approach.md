@@ -28,11 +28,11 @@ related_concepts:
   - "[[Postpositivism]]"
   - "[[Policy Science in Comparative Education]]"
   - "[[Analytical Stance]]"
-  - "[[Analytic Framework]]"
   - "[[Policy Network]]"
   - "[[Value Neutrality]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons: []
 related_facts: []
 related_arguments:

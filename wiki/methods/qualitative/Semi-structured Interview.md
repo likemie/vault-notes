@@ -22,10 +22,6 @@ related_concepts:
   - "[[Fitness for Purpose]]"
   - "[[Emergence]]"
   - "[[Dialogue in Education]]"
-  - "[[Probes]]"
-  - "[[Sensitive Questions]]"
-  - "[[Transcription in Qualitative Research]]"
-  - "[[Questionnaire]]"
 related_methods:
   - "[[Qualitative Interview]]"
   - "[[Interview Protocol]]"
@@ -36,7 +32,11 @@ related_methods:
   - "[[Grounded Theory]]"
   - "[[Focus Group]]"
   - "[[Content Analysis]]"
+  - "[[Probes]]"
+  - "[[Sensitive Questions]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[In-depth Interview]]"
+  - "[[Questionnaire]]"
   - "[[Ethnography]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21]]"

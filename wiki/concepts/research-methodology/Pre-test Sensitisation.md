@@ -21,11 +21,11 @@ tags:
 related_methods:
   - "[[Longitudinal Study]]"
   - "[[Trend Study]]"
+  - "[[Sensitive Questions]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13]]"
 related_concepts:
   - "[[Growth]]"
-  - "[[Sensitive Questions]]"
 confidence: medium
 status: draft
 created: 2026-07-11

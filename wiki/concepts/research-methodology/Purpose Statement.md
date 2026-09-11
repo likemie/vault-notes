@@ -28,7 +28,6 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Unit of Analysis]]"
   - "[[Interaction Effect]]"
-  - "[[Questionnaire]]"
   - "[[Competitiveness]]"
 related_theories:
   - "[[Phenomenology]]"
@@ -42,6 +41,7 @@ related_methods:
   - "[[Narrative Research]]"
   - "[[Survey Research]]"
   - "[[Experimental Research]]"
+  - "[[Questionnaire]]"
   - "[[Mixed Methods Research]]"
   - "[[Convergent Design]]"
   - "[[Explanatory Sequential Design]]"

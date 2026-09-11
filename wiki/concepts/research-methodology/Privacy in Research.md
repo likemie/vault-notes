@@ -20,10 +20,10 @@ related_concepts:
   - "[[Informed Consent]]"
   - "[[Rich and Thick Description]]"
   - "[[Bildung]]"
-  - "[[Questionnaire]]"
   - "[[Sensitive Research]]"
 related_theories: []
 related_methods:
+  - "[[Questionnaire]]"
   - "[[Observation Method]]"
 related_persons: []
 related_facts: []

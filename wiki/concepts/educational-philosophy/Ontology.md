@@ -35,11 +35,11 @@ related_concepts:
   - "[[Rich and Thick Description]]"
   - "[[Domain Specificity]]"
   - "[[Externalization]]"
-  - "[[Questionnaire]]"
 related_theories:
   - "[[Complexity Theory]]"
   - "[[Critical Theory]]"
-related_methods: []
+related_methods:
+  - "[[Questionnaire]]"
 related_persons:
   - "[[Thomas Barr Greenfield]]"
   - "[[Aristotle]]"

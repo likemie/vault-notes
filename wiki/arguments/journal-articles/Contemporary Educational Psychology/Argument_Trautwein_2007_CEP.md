@@ -27,7 +27,6 @@ related_concepts:
   - "[[Epistemological Beliefs]]"
   - "[[Disciplinary Socialization]]"
   - "[[Epistemology]]"
-  - "[[Sample Size Determination]]"
   - "[[Variable]]"
   - "[[Enculturation]]"
   - "[[Certainty of Knowledge]]"
@@ -35,7 +34,6 @@ related_concepts:
   - "[[Metacognition]]"
   - "[[Paradigm]]"
   - "[[Multiplicity]]"
-  - "[[Questionnaire]]"
   - "[[Simplicity of Knowledge]]"
   - "[[Construct]]"
   - "[[Epistemological Theories]]"
@@ -51,7 +49,6 @@ related_concepts:
   - "[[Scientific Paradigm]]"
   - "[[Tracking]]"
   - "[[Higher-Order Thinking Skills]]"
-  - "[[Likert Scale]]"
   - "[[Domain Specificity]]"
   - "[[Ecological Validity]]"
 related_theories:
@@ -59,7 +56,9 @@ related_theories:
   - "[[Biglan's Disciplinary Classification Scheme]]"
   - "[[Reflective Judgment Model]]"
 related_methods:
+  - "[[Sample Size Determination]]"
   - "[[Causal Modeling]]"
+  - "[[Questionnaire]]"
   - "[[Cohort Study]]"
   - "[[Trend Study]]"
   - "[[Effect Size]]"
@@ -68,6 +67,7 @@ related_methods:
   - "[[Multiple Regression]]"
   - "[[Cross-sectional Study]]"
   - "[[Standard Error]]"
+  - "[[Likert Scale]]"
 related_instruments:
   - "[[Global Certainty Scale]]"
   - "[[Cognitive Ability Test KFT]]"

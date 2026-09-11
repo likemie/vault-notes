@@ -21,13 +21,10 @@ tags:
   - online-research
 related_concepts:
   - "[[Unit of Analysis]]"
-  - "[[Questionnaire]]"
   - "[[Epistemology]]"
-  - "[[Sample Size Determination]]"
   - "[[Internal Validity]]"
   - "[[External Validity]]"
   - "[[Ecological Validity]]"
-  - "[[Pre-test and Post-test]]"
   - "[[Dependent Variable]]"
   - "[[Independent Variable]]"
   - "[[Variable]]"
@@ -37,7 +34,10 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Experimental Research]]"
+  - "[[Questionnaire]]"
+  - "[[Sample Size Determination]]"
   - "[[Random Assignment]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Internet-based Survey]]"
 related_persons: []
 related_facts: []

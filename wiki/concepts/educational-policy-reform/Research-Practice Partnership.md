@@ -22,9 +22,9 @@ related_concepts:
   - "[[Knowledge Mobilisation]]"
   - "[[Research Utilization]]"
   - "[[Document]]"
-  - "[[Questionnaire]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Questionnaire]]"
 related_instruments: []
 related_persons: []
 related_facts:

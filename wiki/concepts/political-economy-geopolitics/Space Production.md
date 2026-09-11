@@ -15,7 +15,6 @@ tags:
   - theory/spatial-theory
   - theme/higher-education
 related_concepts:
-  - "[[Analytic Framework]]"
   - "[[Knowledge Production]]"
   - "[[Operationalization]]"
   - "[[New Geopolitics]]"
@@ -25,7 +24,8 @@ related_concepts:
   - "[[Document]]"
   - "[[Geopolitics of Higher Education]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons: []
 related_facts:
   - "[[Academic Ranking of World Universities]]"

@@ -23,7 +23,6 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Epistemology]]"
   - "[[Paradigm]]"
-  - "[[Analytic Framework]]"
   - "[[Positivism]]"
   - "[[Feedback]]"
   - "[[Growth]]"
@@ -48,6 +47,7 @@ related_theories:
   - "[[Luhmann's Systems Theory]]"
   - "[[Autopoiesis]]"
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Case Study]]"
   - "[[Action Research]]"

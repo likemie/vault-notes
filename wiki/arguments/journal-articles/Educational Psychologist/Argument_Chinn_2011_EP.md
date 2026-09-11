@@ -24,7 +24,6 @@ related_concepts:
   - "[[Causal Processes]]"
   - "[[Reliability]]"
   - "[[Epistemic Value]]"
-  - "[[Questionnaire]]"
   - "[[Establishing One's Will]]"
   - "[[Hypothesis]]"
   - "[[Rote Learning]]"
@@ -35,7 +34,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Justificatory Standards]]"
   - "[[Evaluation Research]]"
-  - "[[Sample Size Determination]]"
   - "[[Critical Thinking]]"
   - "[[Epistemic Virtues and Vices]]"
   - "[[Epoché]]"
@@ -47,7 +45,9 @@ related_theories:
   - "[[Virtue Epistemology]]"
   - "[[Reliabilism]]"
   - "[[Expanded Framework of Epistemic Cognition]]"
-related_methods: []
+related_methods:
+  - "[[Questionnaire]]"
+  - "[[Sample Size Determination]]"
 related_instruments: []
 related_persons: []
 related_facts: []

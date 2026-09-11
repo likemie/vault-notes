@@ -21,10 +21,7 @@ tags:
   - "field/research-methodology"
 related_concepts:
   - "[[Publication Bias]]"
-  - "[[Small Study Effects]]"
   - "[[Hypothesis]]"
-  - "[[Funnel Plot]]"
-  - "[[Confidence Interval]]"
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Sampling Error]]"
@@ -36,7 +33,10 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Small Study Effects]]"
+  - "[[Funnel Plot]]"
   - "[[Effect Size]]"
+  - "[[Confidence Interval]]"
   - "[[Standard Error]]"
   - "[[Meta-meta-analysis]]"
   - "[[Fail-Safe N]]"

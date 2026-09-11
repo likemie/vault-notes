@@ -24,7 +24,6 @@ related_concepts:
   - "[[Causality]]"
   - "[[Homework]]"
   - "[[Evaluation Research]]"
-  - "[[Questionnaire]]"
   - "[[Covert Research]]"
   - "[[Purpose Statement]]"
   - "[[Fitness for Purpose]]"
@@ -37,6 +36,7 @@ related_methods:
   - "[[Multiple Regression]]"
   - "[[Ideology Critique]]"
   - "[[Grounded Theory]]"
+  - "[[Questionnaire]]"
   - "[[Case Study]]"
 related_persons: []
 related_facts: []

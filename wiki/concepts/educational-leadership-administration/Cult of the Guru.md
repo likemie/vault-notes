@@ -17,14 +17,12 @@ tags:
   - region/australia
 related_concepts:
   - "[[Cult of Efficiency]]"
-  - "[[Analytic Framework]]"
   - "[[Visible Learning]]"
   - "[[School Leadership]]"
   - "[[Document]]"
   - "[[Transformative Leadership]]"
   - "[[Instructional Leadership]]"
   - "[[Return on Investment]]"
-  - "[[Data Display]]"
   - "[[Dialogue in Education]]"
   - "[[Unit of Analysis]]"
   - "[[Emergence]]"
@@ -37,9 +35,11 @@ related_concepts:
   - "[[Epistemology]]"
 related_theories: []
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Data Display]]"
 related_persons:
   - "[[Scott Eacott]]"
   - "[[John Hattie]]"

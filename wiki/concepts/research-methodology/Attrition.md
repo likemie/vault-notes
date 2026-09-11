@@ -26,14 +26,11 @@ tags:
   - causal-inference
 related_concepts:
   - "[[Internal Validity]]"
-  - "[[Sample Size Determination]]"
   - "[[External Validity]]"
   - "[[Causality]]"
-  - "[[Pre-test and Post-test]]"
   - "[[Variable]]"
   - "[[Paradigm]]"
   - "[[Sampling Error]]"
-  - "[[Questionnaire]]"
   - "[[Response Bias]]"
   - "[[Hypothesis]]"
   - "[[Threats to Internal Validity]]"
@@ -44,7 +41,9 @@ related_methods:
   - "[[Random Assignment]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
+  - "[[Sample Size Determination]]"
   - "[[Effect Size]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Baseline Standardized Mean Difference]]"
   - "[[Intent-to-Treat Analysis]]"
   - "[[Imputation Methods]]"
@@ -52,6 +51,7 @@ related_methods:
   - "[[Covariate Adjustment]]"
   - "[[Cross-sectional Study]]"
   - "[[Pilot Testing]]"
+  - "[[Questionnaire]]"
 related_instruments: []
 related_persons: []
 related_facts:

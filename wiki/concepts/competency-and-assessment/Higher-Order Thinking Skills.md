@@ -56,14 +56,11 @@ related_concepts:
   - "[[Project-Based Learning]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Constructivist Paradigm]]"
-  - "[[Confidence Interval]]"
   - "[[Dependent Variable]]"
-  - "[[Sample Size Determination]]"
   - "[[Task Structure]]"
   - "[[Convergent Thinking]]"
   - "[[Cooperative Integrated Reading and Composition]]"
   - "[[AI Agent in Education]]"
-  - "[[Analytic Framework]]"
 related_theories:
   - "[[Bloom's Taxonomy]]"
 related_methods:
@@ -71,8 +68,11 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
   - "[[Systematic Review]]"
+  - "[[Confidence Interval]]"
+  - "[[Sample Size Determination]]"
   - "[[Experimental Research]]"
   - "[[Baseline Standardized Mean Difference]]"
+  - "[[Analytic Framework]]"
 related_instruments:
   - "[[Computational Thinking Scale]]"
   - "[[California Critical Thinking Disposition Inventory]]"

@@ -30,10 +30,10 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[IB Diploma Programme]]"
   - "[[Dependent Variable]]"
-  - "[[Questionnaire]]"
 related_theories: []
 related_methods:
   - "[[Effect Size]]"
+  - "[[Questionnaire]]"
 related_instruments: []
 related_persons: []
 related_facts: []

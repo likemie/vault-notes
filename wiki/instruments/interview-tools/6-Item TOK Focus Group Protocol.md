@@ -25,17 +25,17 @@ tags:
 related_concepts:
   - "[[Theory of Knowledge]]"
   - "[[Dialogue in Education]]"
-  - "[[Transcription in Qualitative Research]]"
   - "[[Conatus]]"
   - "[[IB Learner Profile]]"
   - "[[Teacher Beliefs]]"
   - "[[Self-Efficacy]]"
   - "[[International Baccalaureate]]"
-  - "[[Questionnaire]]"
 related_theories: []
 related_methods:
   - "[[Focus Group]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Questionnaire]]"
 related_instruments: []
 related_persons: []
 related_facts: []

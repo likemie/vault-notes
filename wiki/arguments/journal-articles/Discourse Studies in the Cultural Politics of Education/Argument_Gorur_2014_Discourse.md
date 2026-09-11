@@ -27,7 +27,6 @@ related_concepts:
   - "[[International Education]]"
   - "[[Science and Technology Studies]]"
   - "[[Performativity]]"
-  - "[[Analytic Framework]]"
   - "[[Document]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Causality]]"
@@ -36,7 +35,8 @@ related_concepts:
 related_theories:
   - "[[Sociology of Measurement]]"
   - "[[Luhmann's Systems Theory]]"
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons:
   - "[[Norberto Bottani]]"
 related_facts:

@@ -19,7 +19,6 @@ tags:
   - region/global
 related_concepts:
   - "[[Paradigm]]"
-  - "[[Analytic Framework]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Relational Space]]"
   - "[[Knowledge-Based Economization]]"
@@ -39,6 +38,7 @@ related_concepts:
 related_theories:
   - "[[Critical Geopolitics]]"
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Snowball Sampling]]"
 related_persons:
   - "[[Francis Bacon]]"

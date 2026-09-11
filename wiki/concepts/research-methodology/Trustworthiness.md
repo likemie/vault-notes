@@ -25,14 +25,14 @@ related_concepts:
   - "[[External Validity]]"
   - "[[Qualitative Validity]]"
   - "[[Rich and Thick Description]]"
-  - "[[Audit Trail]]"
-  - "[[External Auditor]]"
   - "[[Pragmatic Paradigm]]"
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Triangulation]]"
   - "[[Negative Case Analysis]]"
   - "[[Member Checking]]"
+  - "[[Audit Trail]]"
+  - "[[External Auditor]]"
   - "[[Mixed Methods Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"

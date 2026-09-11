@@ -35,7 +35,6 @@ related_concepts:
   - "[[Learner Autonomy]]"
   - "[[Determinism]]"
   - "[[Intelligent Tutoring Systems]]"
-  - "[[Questionnaire]]"
   - "[[Learning Analytics]]"
   - "[[Common Method Variance]]"
   - "[[Academic Achievement]]"
@@ -44,6 +43,7 @@ related_concepts:
 related_methods:
   - "[[Triangulation]]"
   - "[[Meta-analysis]]"
+  - "[[Questionnaire]]"
   - "[[Effect Size]]"
   - "[[Systematic Review]]"
 related_instruments:

@@ -41,11 +41,11 @@ related_concepts:
   - "[[Praxis]]"
   - "[[Document]]"
   - "[[Variable]]"
-  - "[[Questionnaire]]"
 related_theories:
   - "[[Human Capital Theory]]"
 related_methods:
   - "[[Cohort Study]]"
+  - "[[Questionnaire]]"
 related_persons: []
 related_facts:
   - "[[EU Key Competences for Lifelong Learning]]"

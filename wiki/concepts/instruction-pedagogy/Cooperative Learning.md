@@ -43,8 +43,6 @@ related_concepts:
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Problem Solving]]"
   - "[[Document]]"
-  - "[[Confidence Interval]]"
-  - "[[Sample Size Determination]]"
   - "[[Critical Thinking]]"
   - "[[Creativity]]"
 related_theories: []
@@ -58,6 +56,8 @@ related_methods:
   - "[[Quasi-Experimental Designs]]"
   - "[[Random Assignment]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Confidence Interval]]"
+  - "[[Sample Size Determination]]"
 related_instruments: []
 related_persons: []
 related_facts: []

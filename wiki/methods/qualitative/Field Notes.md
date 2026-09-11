@@ -20,16 +20,16 @@ related_methods:
   - "[[Non-participant Observation]]"
   - "[[Case Study]]"
   - "[[Ethnography]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Questionnaire]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23]]"
 related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Unit of Analysis]]"
-  - "[[Transcription in Qualitative Research]]"
   - "[[Covert Research]]"
-  - "[[Questionnaire]]"
 confidence: medium
 status: draft
 created: 2026-07-11

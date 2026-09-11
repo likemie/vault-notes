@@ -31,10 +31,10 @@ related_concepts:
   - "[[Logic Model]]"
   - "[[Operationalization]]"
   - "[[Formative Assessment]]"
-  - "[[Analytic Framework]]"
 related_theories: []
 related_methods:
   - "[[Formative Program Evaluation]]"
+  - "[[Analytic Framework]]"
 related_persons: []
 related_facts:
   - "[[Students and Teachers Accessing Tomorrow]]"

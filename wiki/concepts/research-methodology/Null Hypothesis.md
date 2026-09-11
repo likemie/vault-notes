@@ -20,11 +20,11 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Alternative Hypothesis]]"
-  - "[[Pre-test and Post-test]]"
   - "[[Operationalization]]"
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Analysis of Variance]]"
   - "[[Quantitative Research]]"
 related_persons: []

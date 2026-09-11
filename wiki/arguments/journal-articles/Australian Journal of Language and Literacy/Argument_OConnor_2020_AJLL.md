@@ -39,13 +39,13 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Class Size]]"
   - "[[Direct Instruction]]"
-  - "[[Winnowing]]"
   - "[[Growth]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
   - "[[Effect Size]]"
+  - "[[Winnowing]]"
 related_persons:
   - "[[John Hattie]]"
   - "[[Ken Goodman]]"

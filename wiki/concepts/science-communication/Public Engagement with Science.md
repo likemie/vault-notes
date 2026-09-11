@@ -25,9 +25,9 @@ related_concepts:
   - "[[Deficit Model of Science Communication]]"
   - "[[Patient and Public Involvement]]"
   - "[[Paradigm]]"
-  - "[[Questionnaire]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Questionnaire]]"
 related_instruments: []
 related_persons: []
 related_facts:

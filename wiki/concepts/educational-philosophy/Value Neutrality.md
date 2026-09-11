@@ -23,7 +23,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Knowledge Production]]"
   - "[[Positivism]]"
-  - "[[Questionnaire]]"
   - "[[Hypothesis]]"
   - "[[Operationalization]]"
   - "[[Variable]]"
@@ -55,6 +54,7 @@ related_theories:
   - "[[Critical Realism]]"
 related_methods:
   - "[[Quantitative Research]]"
+  - "[[Questionnaire]]"
   - "[[Feminist Research]]"
   - "[[Random Assignment]]"
   - "[[Randomised Controlled Trials]]"

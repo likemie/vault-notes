@@ -23,17 +23,17 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Positivism]]"
   - "[[Hypothesis]]"
-  - "[[Questionnaire]]"
-  - "[[Confidence Interval]]"
-  - "[[Sample Size Determination]]"
 related_theories: []
 related_methods:
   - "[[Statistical Significance]]"
   - "[[Standard Error]]"
   - "[[Quantitative Research]]"
   - "[[Mixed Methods Research]]"
+  - "[[Questionnaire]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Confidence Interval]]"
   - "[[Longitudinal Study]]"
+  - "[[Sample Size Determination]]"
   - "[[Multiple Regression]]"
   - "[[Qualitative Interview]]"
 related_instruments: []

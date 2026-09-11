@@ -24,14 +24,14 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Academic Engagement]]"
   - "[[Social Engagement]]"
-  - "[[Questionnaire]]"
   - "[[Cultural Capital]]"
-  - "[[Analytic Framework]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
 related_theories: []
 related_methods:
   - "[[Triangulation]]"
+  - "[[Questionnaire]]"
+  - "[[Analytic Framework]]"
 related_persons:
   - "[[Yajun Zheng]]"
 related_facts: []

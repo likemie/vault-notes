@@ -15,7 +15,6 @@ tags:
   - cultural-sociology
   - paradigm/interpretivist
 related_concepts:
-  - "[[Analytic Framework]]"
   - "[[Axiology]]"
   - "[[Habitus]]"
   - "[[Creativity]]"
@@ -35,7 +34,8 @@ related_concepts:
   - "[[Graduation Pathway Typology]]"
 related_theories:
   - "[[Dual-Process Model of Culture in Action]]"
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons:
   - "[[Ann Swidler]]"
   - "[[Yajun Zheng]]"

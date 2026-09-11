@@ -30,9 +30,9 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Hypothesis]]"
   - "[[Problem Solving]]"
-  - "[[Data Transformation]]"
 related_theories: []
 related_methods:
+  - "[[Data Transformation]]"
   - "[[Rasch Measurement]]"
   - "[[Multiple-Choice Questions]]"
 related_instruments: []

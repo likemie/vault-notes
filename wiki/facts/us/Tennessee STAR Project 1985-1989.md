@@ -29,7 +29,6 @@ related_concepts:
   - "[[Causality]]"
   - "[[Academic Achievement]]"
   - "[[Hypothesis]]"
-  - "[[Blinding]]"
   - "[[Variable]]"
   - "[[Attrition]]"
   - "[[Achievement and Aptitude Tests]]"
@@ -45,6 +44,7 @@ related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Random Assignment]]"
+  - "[[Blinding]]"
   - "[[Cohort Study]]"
   - "[[Effect Size]]"
   - "[[Observation Method]]"

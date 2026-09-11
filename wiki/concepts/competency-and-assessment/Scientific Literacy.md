@@ -36,10 +36,8 @@ related_concepts:
   - "[[AI Hallucination]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Evaluation Research]]"
-  - "[[Sample Size Determination]]"
   - "[[Causality]]"
   - "[[Scientific Uncertainty]]"
-  - "[[Confidence Interval]]"
   - "[[Citizen Science]]"
   - "[[Paradigm]]"
   - "[[Examination-Oriented Education]]"
@@ -49,7 +47,6 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Variable]]"
-  - "[[Questionnaire]]"
 related_facts:
   - "[[PISA]]"
   - "[[Beyond 2000 Report]]"
@@ -63,8 +60,11 @@ related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05]]"
 related_methods:
   - "[[Effect Size]]"
+  - "[[Sample Size Determination]]"
+  - "[[Confidence Interval]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Longitudinal Study]]"
+  - "[[Questionnaire]]"
 confidence: high
 status: draft
 created: 2026-08-22

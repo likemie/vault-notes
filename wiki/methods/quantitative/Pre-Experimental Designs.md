@@ -20,13 +20,13 @@ tags:
   - design-type
 related_concepts:
   - "[[Internal Validity]]"
-  - "[[Pre-test and Post-test]]"
   - "[[Causality]]"
   - "[[Variable]]"
 related_theories: []
 related_methods:
   - "[[Experimental Research]]"
   - "[[Design-Based Research]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Random Assignment]]"
   - "[[Quasi-Experimental Designs]]"
 related_persons: []

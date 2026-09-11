@@ -18,12 +18,12 @@ tags:
   - theme/visual-research
 related_concepts:
   - "[[Artefact]]"
-  - "[[Analytic Framework]]"
   - "[[Hypothesis]]"
   - "[[Epistemology]]"
   - "[[Ontology]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_instruments: []
 related_persons: []
 related_facts: []

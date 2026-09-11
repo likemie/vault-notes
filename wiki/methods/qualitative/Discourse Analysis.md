@@ -5,14 +5,13 @@ summary: "以日常谈话和文本中的语言使用为研究对象的方法，�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 22
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 25
+method_related_level: 3
+method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
 tags: [method/qualitative, data-analysis, theme/language, paradigm/interpretive, paradigm/critical]
 related_concepts:
   - "[[Dialogue in Education]]"
-  - "[[Transcription in Qualitative Research]]"
   - "[[Unit of Analysis]]"
   - "[[Variable]]"
   - "[[Epistemology]]"
@@ -26,17 +25,22 @@ related_theories:
   - "[[Critical Theory]]"
   - "[[Ethnomethodology]]"
 related_methods:
+  - "[[Transcription in Qualitative Research]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Ideology Critique]]"
   - "[[Accounts]]"
   - "[[Ethogenic Approach]]"
   - "[[Structured Observation]]"
+  - "[[Narrative Analysis]]"
 related_persons:
   - "[[Jürgen Habermas]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23]]"
   - "[[Argument_Duncan_2025_CI]]"
+  - "[[Argument_Grey_2018_CE]]"
+related_facts:
+  - "[[OECD]]"
 confidence: medium
 status: draft
 created: 2026-07-22

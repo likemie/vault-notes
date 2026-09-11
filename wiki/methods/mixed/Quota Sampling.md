@@ -17,12 +17,12 @@ tags:
   - qualitative-research
 related_concepts:
   - "[[Unit of Analysis]]"
-  - "[[Sample Size Determination]]"
   - "[[Sampling Error]]"
 related_theories: []
 related_methods:
   - "[[Non-probability Sampling]]"
   - "[[Stratified Sampling]]"
+  - "[[Sample Size Determination]]"
   - "[[Random Sampling]]"
 related_persons: []
 related_facts: []

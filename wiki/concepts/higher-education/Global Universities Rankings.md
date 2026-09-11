@@ -31,14 +31,14 @@ related_concepts:
   - "[[Online Self-Assessment]]"
   - "[[Preemptive Governance]]"
   - "[[Space-Making]]"
-  - "[[Analytic Framework]]"
   - "[[Non-monetary Competition]]"
   - "[[Champ]]"
   - "[[Matthew Effect in Academia]]"
   - "[[Value Neutrality]]"
   - "[[Reliability]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons: []
 related_facts:
   - "[[Academic Ranking of World Universities]]"

@@ -41,10 +41,8 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Task Structure]]"
   - "[[Ontology]]"
-  - "[[Sample Size Determination]]"
   - "[[Heterogeneity]]"
   - "[[Epistemological Beliefs]]"
-  - "[[Questionnaire]]"
   - "[[Ecological Validity]]"
 related_theories:
   - "[[Item Response Theory]]"
@@ -53,6 +51,8 @@ related_theories:
 related_methods:
   - "[[Causal Modeling]]"
   - "[[Multiple Regression]]"
+  - "[[Sample Size Determination]]"
+  - "[[Questionnaire]]"
   - "[[Effect Size]]"
   - "[[Cohort Study]]"
 related_instruments:

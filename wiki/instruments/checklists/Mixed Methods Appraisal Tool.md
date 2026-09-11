@@ -40,7 +40,6 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Reliability]]"
-  - "[[Blinding]]"
   - "[[Ganz-Methode]]"
 related_theories: []
 related_methods:
@@ -49,6 +48,7 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Random Assignment]]"
+  - "[[Blinding]]"
 related_instruments: []
 related_persons: []
 related_facts: []

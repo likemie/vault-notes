@@ -23,11 +23,11 @@ tags:
   - instrument/self-report
 related_concepts:
   - "[[Critical Thinking]]"
-  - "[[Questionnaire]]"
   - "[[Reliability]]"
   - "[[Higher-Order Thinking Skills]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Questionnaire]]"
 related_instruments: []
 related_persons: []
 related_facts: []

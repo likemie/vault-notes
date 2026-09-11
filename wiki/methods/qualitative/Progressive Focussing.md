@@ -16,15 +16,15 @@ tags:
   - paradigm/qualitative
 related_concepts:
   - "[[Paradigm]]"
-  - "[[Analytic Framework]]"
-  - "[[Data Reduction]]"
-  - "[[Data Display]]"
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Grounded Theory]]"
   - "[[Theoretical Sampling]]"
   - "[[Field Notes]]"
+  - "[[Analytic Framework]]"
+  - "[[Data Reduction]]"
+  - "[[Data Display]]"
   - "[[Longitudinal Study]]"
   - "[[Narrative Analysis]]"
   - "[[Analytic Induction]]"

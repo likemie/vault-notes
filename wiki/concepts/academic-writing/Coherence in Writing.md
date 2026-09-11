@@ -16,7 +16,6 @@ tags:
 related_concepts:
   - "[[Flow]]"
   - "[[Hook and Eye Technique]]"
-  - "[[Questionnaire]]"
   - "[[Literature Review]]"
   - "[[Purpose Statement]]"
   - "[[Research Question]]"
@@ -28,6 +27,7 @@ related_concepts:
   - "[[Central Phenomenon]]"
 related_theories: []
 related_methods:
+  - "[[Questionnaire]]"
   - "[[Survey Research]]"
   - "[[Quantitative Research]]"
   - "[[Qualitative Research]]"

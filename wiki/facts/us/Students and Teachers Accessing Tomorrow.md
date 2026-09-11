@@ -23,12 +23,12 @@ tags:
 related_concepts:
   - "[[Technology Infusion]]"
   - "[[Logic Model]]"
-  - "[[Questionnaire]]"
   - "[[Class Size]]"
   - "[[Classroom Management]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods:
+  - "[[Questionnaire]]"
   - "[[Focus Group]]"
   - "[[Cronbach's Alpha]]"
   - "[[Formative Program Evaluation]]"

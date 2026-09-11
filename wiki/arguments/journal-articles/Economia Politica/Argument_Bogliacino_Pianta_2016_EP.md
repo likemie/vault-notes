@@ -31,7 +31,6 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Hypothesis]]"
   - "[[Total Factor Productivity]]"
-  - "[[Analytic Framework]]"
   - "[[Blue Skies Research]]"
   - "[[Research Utilization]]"
   - "[[Variable]]"
@@ -44,7 +43,8 @@ related_theories:
   - "[[Evolutionary Economics]]"
   - "[[Technological Trajectories]]"
   - "[[Systems of Innovation]]"
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons: []
 related_facts:
   - "[[Community Innovation Survey]]"

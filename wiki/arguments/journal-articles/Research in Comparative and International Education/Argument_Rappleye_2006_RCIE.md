@@ -24,7 +24,6 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Cross-National Attraction]]"
-  - "[[Analytic Framework]]"
   - "[[Policy Borrowing]]"
   - "[[National Character]]"
   - "[[Pre-Transfer Agency]]"
@@ -40,6 +39,7 @@ related_concepts:
   - "[[Normal School]]"
 related_theories: []
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Exploratory Factor Analysis]]"
   - "[[Case Study]]"
 related_persons: []

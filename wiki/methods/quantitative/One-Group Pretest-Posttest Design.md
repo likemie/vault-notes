@@ -15,13 +15,13 @@ tags:
   - quantitative-research
   - design-type
 related_concepts:
-  - "[[Pre-test and Post-test]]"
   - "[[Variable]]"
   - "[[Internal Validity]]"
   - "[[Unit of Analysis]]"
   - "[[Causality]]"
   - "[[Hypothesis]]"
 related_methods:
+  - "[[Pre-test and Post-test]]"
   - "[[Pre-Experimental Designs]]"
   - "[[Random Assignment]]"
   - "[[Pretest-Posttest Control Group Design]]"

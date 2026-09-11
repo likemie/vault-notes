@@ -26,7 +26,6 @@ related_concepts:
   - "[[Construct]]"
 related_theories:
   - "[[Phenomenology]]"
-  - "[[Critical Ethnography]]"
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Quantitative Research]]"
@@ -36,6 +35,7 @@ related_methods:
   - "[[Case Study]]"
   - "[[Narrative Research]]"
   - "[[Descriptive Analysis]]"
+  - "[[Critical Ethnography]]"
 related_persons: []
 related_facts: []
 related_arguments:

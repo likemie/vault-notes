@@ -18,23 +18,23 @@ related_concepts:
   - "[[Homework]]"
   - "[[Hypothesis]]"
   - "[[Variable]]"
-  - "[[Analytic Framework]]"
   - "[[Student Involvement]]"
   - "[[Operationalization]]"
   - "[[Academic and Social Integration]]"
   - "[[Academic Achievement]]"
   - "[[Paradigm]]"
   - "[[Cultural Capital]]"
-  - "[[Questionnaire]]"
   - "[[Academic Engagement]]"
   - "[[Social Engagement]]"
-  - "[[Probes]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
   - "[[Habitus]]"
 related_theories: []
 related_methods:
+  - "[[Analytic Framework]]"
+  - "[[Questionnaire]]"
   - "[[Triangulation]]"
+  - "[[Probes]]"
 related_persons:
   - "[[Yajun Zheng]]"
 related_facts: []

@@ -23,12 +23,12 @@ administration_mode: self-report
 response_format: "6点Likert量表"
 tags: []
 related_concepts:
-  - "[[Questionnaire]]"
   - "[[Epistemology]]"
   - "[[Ontology]]"
 related_theories:
   - "[[Epistemic and Ontological Cognition]]"
 related_methods:
+  - "[[Questionnaire]]"
   - "[[Confirmatory Factor Analysis]]"
   - "[[Factor Mixture Modeling]]"
 related_instruments: []

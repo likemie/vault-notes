@@ -32,10 +32,10 @@ related_concepts:
   - "[[Research Question]]"
   - "[[School Autonomy]]"
   - "[[Rationalism in International Relations]]"
-  - "[[Analytic Framework]]"
 related_theories: []
 related_methods:
   - "[[Coding in Qualitative Research]]"
+  - "[[Analytic Framework]]"
 related_persons: []
 related_facts: []
 related_arguments:

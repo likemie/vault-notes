@@ -31,7 +31,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Evaluation Research]]"
   - "[[Independent Variable]]"
-  - "[[Sample Size Determination]]"
   - "[[Dependent Variable]]"
   - "[[Definition of Terms]]"
   - "[[Heterogeneity]]"
@@ -46,6 +45,7 @@ related_methods:
   - "[[Repeated Measures Design]]"
   - "[[Randomised Controlled Trials]]"
   - "[[ABAB Design]]"
+  - "[[Sample Size Determination]]"
   - "[[Intervention Research]]"
   - "[[Gating Procedure]]"
 related_persons: []

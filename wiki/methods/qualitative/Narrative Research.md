@@ -19,13 +19,13 @@ tags:
   - life-history
 related_concepts:
   - "[[External Validity]]"
-  - "[[Analytic Framework]]"
 related_theories:
   - "[[Phenomenology]]"
 related_methods:
   - "[[Qualitative Research]]"
   - "[[In-depth Interview]]"
   - "[[Case Study]]"
+  - "[[Analytic Framework]]"
   - "[[Narrative Analysis]]"
 related_persons: []
 related_facts: []

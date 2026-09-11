@@ -8,7 +8,7 @@ aliases:
 summary: "一种由政治迫切性与媒介逻辑共同驱动的治理形态，指出政策行动者与大众媒体通过选择性建构危机叙事并规避具体方案审视，使全球评估数据转化为推动本土激进改革的合法化工具"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 0
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -17,6 +17,16 @@ tags:
   - theme/media-and-education
   - theme/policy-discourse
   - paradigm/critical
+related_concepts:
+  - "[[Governance by Spin]]"
+related_persons:
+  - "[[Paul Morris]]"
+related_facts:
+  - "[[OECD]]"
+  - "[[PISA]]"
+related_arguments:
+  - "[[Argument_Grey_2018_CE]]"
+  - "[[Argument_Beech_2009_CE]]"
 confidence: high
 status: draft
 created: 2026-09-11
@@ -163,7 +173,7 @@ updated: 2026-09-11
 > > 超国家教育治理究竟是导致了各国政策的同质化收敛，还是仅仅提供了可被本土语境随意剪裁的象征性修辞。
 > >
 > > - **Sellar & Lingard (2013b)** 强调 OECD 通过数字治理与比较技术正在建立一个主导性的全球教育治理机制，促成各国向新自由主义政策趋同。
-> > - **Grey & Morris** 认为超国家趋同假说高估了全球机构的直接影响力；跨国数据在落地时完全被本土政治与媒介逻辑重塑，治理在实质上是高度本土化且由媒介驱动的。[[Argument_Grey_2018_CE|(Grey & Morris, 2018, pp. 125–127)]]
+> > - **[[Argument_Grey_2018_CE|Grey & Morris (2018)]]** 认为超国家趋同假说高估了全球机构的直接影响力；跨国数据在落地时完全被本土政治与媒介逻辑重塑，治理在实质上是高度本土化且由媒介驱动的。[[Argument_Grey_2018_CE|(Grey & Morris, 2018, pp. 125–127)]]
 >
 > > [!axis] 媒体功能异化是系统性共谋还是结构性能力不足
 > > 新闻界在跨国评估报道中展现出的政策规避，究竟是因意识形态与执政党暗合，还是源于媒体行业缺乏专业数据素养与深度调查资源。

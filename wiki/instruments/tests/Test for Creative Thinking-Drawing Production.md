@@ -29,9 +29,9 @@ tags:
   - method/measurement
 related_concepts:
   - "[[Creativity]]"
-  - "[[Pre-test and Post-test]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Pre-test and Post-test]]"
 related_instruments: []
 related_arguments:
   - "[[Argument_Guo_2025_TSC]]"

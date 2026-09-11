@@ -16,12 +16,12 @@ tags:
   - paradigm/interpretive
 related_concepts:
   - "[[Informed Consent]]"
-  - "[[Analytic Framework]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
   - "[[Emergence]]"
 related_theories: []
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Qualitative Research]]"
   - "[[Experimental Research]]"
   - "[[Ethnography]]"

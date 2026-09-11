@@ -18,7 +18,6 @@ tags:
   - theme/cross-cultural
   - theme/validity
 related_concepts:
-  - "[[Questionnaire]]"
   - "[[Construct]]"
   - "[[Cross-cultural Validity]]"
   - "[[Concurrent Validity]]"
@@ -26,6 +25,7 @@ related_concepts:
   - "[[Construct Validity]]"
   - "[[Hypothesis]]"
 related_methods:
+  - "[[Questionnaire]]"
   - "[[Pilot Testing]]"
   - "[[Internal Consistency]]"
 related_arguments:

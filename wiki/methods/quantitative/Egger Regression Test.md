@@ -21,12 +21,9 @@ tags:
   - "field/research-methodology"
 related_concepts:
   - "[[Publication Bias]]"
-  - "[[Small Study Effects]]"
   - "[[Hypothesis]]"
-  - "[[Funnel Plot]]"
   - "[[Unit of Analysis]]"
   - "[[Variable]]"
-  - "[[Sample Size Determination]]"
   - "[[Cooperative Learning]]"
   - "[[Problem-Based Learning]]"
   - "[[Critical Thinking]]"
@@ -34,12 +31,15 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Small Study Effects]]"
   - "[[Effect Size]]"
   - "[[Standard Error]]"
+  - "[[Funnel Plot]]"
   - "[[Meta-meta-analysis]]"
   - "[[Multilevel Egger's Test]]"
   - "[[Umbrella Review]]"
   - "[[Robust Variance Estimation]]"
+  - "[[Sample Size Determination]]"
   - "[[Fail-Safe N]]"
   - "[[Trim and Fill Method]]"
   - "[[Experimental Research]]"

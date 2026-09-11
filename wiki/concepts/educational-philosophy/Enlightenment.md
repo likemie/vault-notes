@@ -35,7 +35,6 @@ related_concepts:
   - "[[Growth]]"
   - "[[Empiricism]]"
   - "[[Proto-Scientific Motif]]"
-  - "[[Questionnaire]]"
   - "[[Educational Meliorism]]"
   - "[[Policy Borrowing]]"
   - "[[State Educational Sovereignty]]"
@@ -56,6 +55,7 @@ related_theories:
   - "[[Critical Theory]]"
   - "[[Hegemony]]"
 related_methods:
+  - "[[Questionnaire]]"
   - "[[Observation Method]]"
 related_facts:
   - "[[Common School Movement]]"

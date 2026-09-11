@@ -9,7 +9,7 @@ summary: "英国/马耳他认知学者、心理学家与思维技术先驱，侧
 type: person
 nationality: "uk"
 person_region: "uk"
-person_related_count: 16
+person_related_count: 17
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Divergent Thinking]]"
   - "[[Positivism]]"
+  - "[[APA Style]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"

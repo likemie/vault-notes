@@ -31,7 +31,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Operationalization]]"
   - "[[National Character]]"
-  - "[[Analytic Framework]]"
   - "[[Problem Solving]]"
   - "[[Document]]"
   - "[[Policy Borrowing]]"
@@ -45,6 +44,7 @@ related_concepts:
   - "[[Creativity]]"
 related_theories: []
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Quantitative Research]]"
   - "[[Historical-Comparative Method]]"
 related_instruments: []

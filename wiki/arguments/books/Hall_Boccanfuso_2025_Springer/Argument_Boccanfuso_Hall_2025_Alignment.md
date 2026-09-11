@@ -17,7 +17,6 @@ related_concepts:
   - "[[Innovation Ecosystem]]"
   - "[[Multi-University]]"
   - "[[Document]]"
-  - "[[Analytic Framework]]"
   - "[[Academic Freedom]]"
   - "[[Blue Skies Research]]"
   - "[[Hypothesis]]"
@@ -39,6 +38,7 @@ related_concepts:
 related_theories:
   - "[[Triple Helix]]"
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Case Study]]"
 related_persons: []
 related_facts:

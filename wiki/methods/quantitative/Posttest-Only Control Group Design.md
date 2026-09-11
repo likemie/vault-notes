@@ -18,17 +18,17 @@ tags:
   - quantitative-research
   - design-type
 related_concepts:
-  - "[[Pre-test and Post-test]]"
   - "[[Pre-test Sensitisation]]"
   - "[[Unit of Analysis]]"
   - "[[Research Purpose]]"
   - "[[Internal Validity]]"
   - "[[Variable]]"
-  - "[[Sample Size Determination]]"
   - "[[Hypothesis]]"
 related_methods:
+  - "[[Pre-test and Post-test]]"
   - "[[True Experimental Design]]"
   - "[[Random Assignment]]"
+  - "[[Sample Size Determination]]"
   - "[[Pretest-Posttest Control Group Design]]"
   - "[[Solomon Four-Group Design]]"
 related_arguments:

@@ -27,11 +27,11 @@ related_concepts:
   - "[[Learning Gain]]"
   - "[[Critical Thinking]]"
   - "[[Problem Solving]]"
-  - "[[Analytic Framework]]"
   - "[[Attrition]]"
   - "[[Growth]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_instruments:
   - "[[Collegiate Learning Assessment]]"
 related_persons: []

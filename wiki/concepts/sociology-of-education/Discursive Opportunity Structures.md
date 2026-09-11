@@ -11,7 +11,6 @@ related_color: "#e5e7eb"
 tags: ["theme/discourse", "theme/global-governance", "theme/opportunity", "theme/subjectification", "region/europe"]
 related_concepts:
   - "[[Geopolitics of Knowledge]]"
-  - "[[Analytic Framework]]"
   - "[[Critical Thinking]]"
   - "[[Creativity]]"
   - "[[Self-Entrepreneur]]"
@@ -19,6 +18,7 @@ related_theories:
   - "[[Governmentality]]"
   - "[[Governing at a Distance]]"
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Single-Case Design]]"
 related_persons: []
 related_facts: []

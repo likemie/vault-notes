@@ -24,7 +24,6 @@ related_concepts:
   - "[[Homework]]"
   - "[[Growth]]"
   - "[[Reflexivity]]"
-  - "[[Transcription in Qualitative Research]]"
   - "[[Ontology]]"
   - "[[Typification]]"
   - "[[Positivism]]"
@@ -34,14 +33,15 @@ related_concepts:
   - "[[Interpretive Paradigm]]"
   - "[[Cultural Capital]]"
   - "[[Scientism]]"
-  - "[[Questionnaire]]"
   - "[[Variable]]"
 related_theories:
   - "[[Ethnomethodology]]"
   - "[[Phenomenology]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Ethnography]]"
+  - "[[Questionnaire]]"
 related_instruments:
   - "[[Flanders Interaction Analysis Categories]]"
 related_persons:

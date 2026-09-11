@@ -29,7 +29,6 @@ related_concepts:
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Employability]]"
   - "[[Outcomes-based Education]]"
-  - "[[Questionnaire]]"
   - "[[Conatus]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Disciplinary Socialization]]"
@@ -41,15 +40,16 @@ related_concepts:
   - "[[Lifelong Learning]]"
   - "[[Document]]"
   - "[[Creativity]]"
-  - "[[Sample Size Determination]]"
 related_theories: []
 related_methods:
   - "[[Comparative Case Study]]"
   - "[[Mixed Methods Research]]"
+  - "[[Questionnaire]]"
   - "[[Chi-Squared Test]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Semi-structured Interview]]"
   - "[[Quantitative Research]]"
+  - "[[Sample Size Determination]]"
 related_persons: []
 related_facts: []
 related_arguments: []

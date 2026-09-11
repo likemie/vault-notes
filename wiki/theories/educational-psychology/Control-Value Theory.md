@@ -27,7 +27,6 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Affective Outcomes]]"
   - "[[Self-Efficacy]]"
-  - "[[Questionnaire]]"
   - "[[Self-Regulated Learning]]"
   - "[[Working Memory]]"
   - "[[Problem Solving]]"
@@ -46,6 +45,7 @@ related_theories:
   - "[[Self-Determination Theory]]"
 related_methods:
   - "[[Domain Analysis]]"
+  - "[[Questionnaire]]"
   - "[[Meta-analysis]]"
   - "[[Experimental Research]]"
   - "[[Causal Modeling]]"

@@ -23,7 +23,6 @@ tags:
   - region/us
 related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
-  - "[[Rating Scale]]"
   - "[[Document]]"
   - "[[Intelligent Tutoring Systems]]"
   - "[[Dependent Variable]]"
@@ -34,6 +33,7 @@ related_concepts:
 related_theories:
   - "[[Campbellian Validity Framework]]"
 related_methods:
+  - "[[Rating Scale]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"

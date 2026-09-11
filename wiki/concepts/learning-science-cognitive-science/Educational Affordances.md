@@ -24,7 +24,6 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Metacognition]]"
   - "[[Construct]]"
-  - "[[Analytic Framework]]"
   - "[[Creativity]]"
   - "[[Brainstorming]]"
   - "[[Divergent Thinking]]"
@@ -47,6 +46,7 @@ related_concepts:
   - "[[Procedural Skill]]"
 related_theories: []
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Role-playing]]"
   - "[[Effect Size]]"
   - "[[Systematic Review]]"

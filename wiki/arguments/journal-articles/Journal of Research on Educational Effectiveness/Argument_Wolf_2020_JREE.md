@@ -29,7 +29,6 @@ tags:
 - preregistration
 related_concepts:
   - "[[Research Question]]"
-  - "[[Sample Size Determination]]"
   - "[[Researcher Degrees of Freedom]]"
   - "[[Publication Bias]]"
   - "[[Developer Effect]]"
@@ -43,6 +42,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Effect Size]]"
+  - "[[Sample Size Determination]]"
   - "[[Meta-analysis]]"
   - "[[Meta-regression]]"
   - "[[Robust Variance Estimation]]"

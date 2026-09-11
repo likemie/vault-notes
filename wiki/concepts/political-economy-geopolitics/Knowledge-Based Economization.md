@@ -23,7 +23,6 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Growth]]"
   - "[[Economic Patriotism]]"
-  - "[[Analytic Framework]]"
   - "[[Praxis]]"
   - "[[Innovation Ecosystem]]"
   - "[[Doxa]]"
@@ -50,7 +49,8 @@ related_theories:
   - "[[Critical Geopolitics]]"
   - "[[Fixity-Motion Tension]]"
   - "[[Systems of Innovation]]"
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons:
   - "[[Sami Moisio]]"
 related_facts:

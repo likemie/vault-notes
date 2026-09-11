@@ -24,12 +24,12 @@ related_concepts:
   - "[[Corporate University]]"
   - "[[School Leadership]]"
   - "[[Research-Practice Partnership]]"
-  - "[[Analytic Framework]]"
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
   - "[[Scale of Measurement]]"
   - "[[Evidence-Informed Practice]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons: []
 related_facts:
   - "[[No Child Left Behind Act 2001]]"

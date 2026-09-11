@@ -29,7 +29,6 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[International Baccalaureate]]"
   - "[[Praxis]]"
-  - "[[Transcription in Qualitative Research]]"
   - "[[Problem Solving]]"
   - "[[Operationalization]]"
 related_theories: []
@@ -37,6 +36,7 @@ related_methods:
   - "[[Focus Group]]"
   - "[[Semi-structured Interview]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Triangulation]]"
 related_instruments: []
 related_persons: []

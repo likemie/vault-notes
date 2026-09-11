@@ -16,13 +16,11 @@ tags:
 related_concepts:
   - "[[Hawthorne Effect]]"
   - "[[Reflexivity]]"
-  - "[[Analytic Framework]]"
   - "[[Presence]]"
   - "[[Champ]]"
   - "[[Educational Immunology]]"
   - "[[Research Purpose]]"
   - "[[Hypothesis]]"
-  - "[[Blinding]]"
   - "[[Research Ethics]]"
   - "[[Habituation]]"
   - "[[Informed Consent]]"
@@ -31,8 +29,10 @@ related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Quantitative Research]]"
+  - "[[Analytic Framework]]"
   - "[[Fieldwork]]"
   - "[[Triangulation]]"
+  - "[[Blinding]]"
   - "[[Observation Method]]"
 related_persons: []
 related_facts: []

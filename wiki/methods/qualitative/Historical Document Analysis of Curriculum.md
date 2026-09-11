@@ -26,7 +26,6 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Causality]]"
   - "[[Externalization]]"
-  - "[[Analytic Framework]]"
 related_theories:
   - "[[Critical Theory]]"
   - "[[Cuban's Curriculum Change Theory]]"
@@ -35,6 +34,7 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Triangulation]]"
   - "[[Narrative Analysis]]"
+  - "[[Analytic Framework]]"
 related_persons: []
 related_arguments:
   - "[[Argument_Yan_2025_JCS]]"

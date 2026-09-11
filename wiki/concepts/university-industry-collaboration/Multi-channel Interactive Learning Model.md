@@ -16,7 +16,6 @@ tags:
   - theme/science-policy
   - theme/university-industry-relations
 related_concepts:
-  - "[[Analytic Framework]]"
   - "[[Chain-linked Model]]"
   - "[[Learning Economy]]"
   - "[[Absorptive Capacity]]"
@@ -27,7 +26,8 @@ related_concepts:
   - "[[Knowledge Exchange]]"
   - "[[Global Policy Space]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons: []
 related_facts: []
 related_arguments:

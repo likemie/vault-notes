@@ -58,7 +58,6 @@ related_concepts:
   - "[[Science Journalism]]"
   - "[[Causality]]"
   - "[[Research Scope]]"
-  - "[[Questionnaire]]"
   - "[[Scale of Measurement]]"
 related_theories:
   - "[[Organizational Culture]]"
@@ -66,6 +65,7 @@ related_methods:
   - "[[Random Sampling]]"
   - "[[Longitudinal Study]]"
   - "[[Cohort Study]]"
+  - "[[Questionnaire]]"
   - "[[Case Study]]"
 related_instruments: []
 related_persons:

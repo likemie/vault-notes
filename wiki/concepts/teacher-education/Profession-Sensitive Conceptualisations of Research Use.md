@@ -32,13 +32,13 @@ related_concepts:
   - "[[Phronesis]]"
   - "[[Research Literacy]]"
   - "[[Document]]"
-  - "[[Questionnaire]]"
   - "[[Rich and Thick Description]]"
   - "[[Implementation Fidelity]]"
   - "[[Professional Judgment]]"
 related_methods:
   - "[[Critical Review]]"
   - "[[Effect Size]]"
+  - "[[Questionnaire]]"
   - "[[Survey Research]]"
 related_arguments:
   - "[[Argument_Mausethagen_2025_ERR]]"

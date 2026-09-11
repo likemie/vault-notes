@@ -27,13 +27,13 @@ tags:
   - method/measurement
 related_concepts:
   - "[[Creativity]]"
-  - "[[Questionnaire]]"
   - "[[Growth]]"
   - "[[Construct]]"
-  - "[[Pre-test and Post-test]]"
   - "[[Construct Validity]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Questionnaire]]"
+  - "[[Pre-test and Post-test]]"
 related_instruments: []
 related_persons: []
 related_arguments:

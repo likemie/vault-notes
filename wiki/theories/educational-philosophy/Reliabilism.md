@@ -14,7 +14,6 @@ tags: []
 related_concepts:
   - "[[Epistemology]]"
   - "[[Causal Processes]]"
-  - "[[Analytic Framework]]"
   - "[[Epistemological Naturalism]]"
   - "[[Epistemic Cognition]]"
   - "[[Reliability]]"
@@ -28,6 +27,7 @@ related_concepts:
 related_theories:
   - "[[Expanded Framework of Epistemic Cognition]]"
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Network Analysis]]"
   - "[[Discourse Analysis]]"
 related_instruments: []

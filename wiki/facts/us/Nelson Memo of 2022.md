@@ -23,10 +23,10 @@ tags:
   - "theme/research-governance"
 related_concepts:
   - "[[University-Industry Collaboration]]"
-  - "[[Memos]]"
   - "[[Academic Freedom]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Memos]]"
 related_persons: []
 related_facts:
   - "[[Bayh-Dole Act of 1980]]"

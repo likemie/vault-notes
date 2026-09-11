@@ -21,7 +21,6 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Unit of Analysis]]"
-  - "[[Transcription in Qualitative Research]]"
   - "[[Epistemology]]"
   - "[[Informed Consent]]"
   - "[[Visual Data]]"
@@ -30,6 +29,7 @@ related_theories: []
 related_methods:
   - "[[Visual Research Methods]]"
   - "[[Group Interview]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Content Analysis]]"
   - "[[Grounded Theory]]"

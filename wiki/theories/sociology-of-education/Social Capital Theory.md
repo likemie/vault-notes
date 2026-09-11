@@ -16,10 +16,10 @@ tags:
   - theme/university-industry-collaboration
 related_concepts:
   - "[[University-Industry Collaboration]]"
-  - "[[Analytic Framework]]"
   - "[[Research Utilization]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons: []
 related_facts:
   - "[[Synthesis and Solid State Pharmaceutical Centre]]"

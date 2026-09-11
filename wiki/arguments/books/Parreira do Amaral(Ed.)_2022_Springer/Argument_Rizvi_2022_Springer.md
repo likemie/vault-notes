@@ -33,7 +33,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Transnational Research Collaboration]]"
   - "[[Growth]]"
-  - "[[Analytic Framework]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Conatus]]"
   - "[[International Schools]]"
@@ -56,6 +55,7 @@ related_theories:
 related_methods:
   - "[[Snowball Sampling]]"
   - "[[Discourse Analysis]]"
+  - "[[Analytic Framework]]"
   - "[[Coding in Qualitative Research]]"
 related_persons: []
 related_facts:

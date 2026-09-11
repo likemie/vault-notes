@@ -22,13 +22,13 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Heterogeneity]]"
   - "[[Paradigm]]"
-  - "[[Analytic Framework]]"
   - "[[University-Industry Collaboration]]"
 related_theories:
   - "[[Evolutionary Economics]]"
   - "[[Technological Trajectories]]"
   - "[[Systems of Innovation]]"
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons: []
 related_facts:
   - "[[Community Innovation Survey]]"

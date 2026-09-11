@@ -19,7 +19,6 @@ tags:
 related_concepts:
   - "[[Research Utilization]]"
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
-  - "[[Analytic Framework]]"
   - "[[Research Literacy]]"
   - "[[Epistemic Stances]]"
   - "[[Epistemology]]"
@@ -42,6 +41,7 @@ related_theories:
   - "[[Critical Realism]]"
   - "[[Ecosystem for Research-Engaged Schools]]"
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Framework Synthesis]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Systematic Review]]"

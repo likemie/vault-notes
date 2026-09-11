@@ -17,7 +17,6 @@ tags:
   - theme/school-improvement
   - theme/evidence-informed-practice
 related_concepts:
-  - "[[Analytic Framework]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Research-Practice Gap]]"
   - "[[Epistemic Stances]]"
@@ -29,6 +28,7 @@ related_theories:
   - "[[Quality Use of Research Evidence Framework]]"
   - "[[Governing Mechanisms of Research Use]]"
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Framework Synthesis]]"
   - "[[Coding in Qualitative Research]]"
 related_instruments: []

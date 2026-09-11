@@ -8,7 +8,7 @@ aliases:
 summary: "基于美国哲学学会APA德尔菲共识报告开发的经典标准化批判性思维认知能力测验，包含分析、推论、评价、演绎与归纳五个核心分测验。"
 type: instrument
 instrument_type: test
-instrument_related_count: 12
+instrument_related_count: 13
 instrument_related_level: 2
 instrument_related_stars: "⭐⭐"
 instrument_related_color: "#dbeafe"
@@ -31,16 +31,17 @@ tags:
   - cognitive-assessment
 related_concepts:
   - "[[Critical Thinking]]"
+  - "[[APA Style]]"
   - "[[Hypothesis]]"
   - "[[Reliability]]"
   - "[[Higher-Order Thinking Skills]]"
-  - "[[Pre-test and Post-test]]"
 related_theories:
   - "[[APA Delphi Consensus on Critical Thinking]]"
 related_methods:
   - "[[Intervention Research]]"
   - "[[Multiple-Choice Questions]]"
   - "[[Internal Consistency]]"
+  - "[[Pre-test and Post-test]]"
 related_instruments: []
 related_persons:
   - "[[Peter Facione]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-08-27
+updated: 2026-09-11
 ---
 
 # California Critical Thinking Skills Test

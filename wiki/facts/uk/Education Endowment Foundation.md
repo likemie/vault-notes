@@ -28,7 +28,6 @@ related_concepts:
   - "[[Document]]"
   - "[[Governing by Numbers]]"
   - "[[Knowledge Production]]"
-  - "[[Pre-test and Post-test]]"
   - "[[Variable]]"
   - "[[Professional Judgment]]"
   - "[[Paradigm]]"
@@ -41,6 +40,7 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Random Assignment]]"
+  - "[[Pre-test and Post-test]]"
 related_persons: []
 related_facts:
   - "[[Australian Education Research Organisation]]"

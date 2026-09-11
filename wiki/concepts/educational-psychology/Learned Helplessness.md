@@ -29,7 +29,6 @@ related_concepts:
   - "[[Ecological Validity]]"
   - "[[Scaffolding]]"
   - "[[Variable]]"
-  - "[[Questionnaire]]"
   - "[[Homework]]"
 related_theories:
   - "[[Entity vs Incremental Intelligence]]"
@@ -37,6 +36,7 @@ related_theories:
 related_methods:
   - "[[Statistical Significance]]"
   - "[[Effect Size]]"
+  - "[[Questionnaire]]"
   - "[[Multiple Regression]]"
   - "[[Quasi-Experimental Designs]]"
 related_instruments: []

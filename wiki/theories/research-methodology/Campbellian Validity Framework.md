@@ -27,7 +27,6 @@ related_concepts:
   - "[[Reliability]]"
   - "[[External Validity]]"
   - "[[Construct]]"
-  - "[[Analytic Framework]]"
   - "[[Postpositivism]]"
   - "[[Internal Validity]]"
   - "[[Construct Validity]]"
@@ -54,6 +53,7 @@ related_theories:
   - "[[Phenomenology]]"
 related_methods:
   - "[[Quasi-Experimental Designs]]"
+  - "[[Analytic Framework]]"
   - "[[Experimental Research]]"
   - "[[Statistical Significance]]"
   - "[[Gating Procedure]]"

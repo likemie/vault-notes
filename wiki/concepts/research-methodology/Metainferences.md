@@ -23,7 +23,6 @@ related_concepts:
   - "[[Document]]"
   - "[[Construct Validity]]"
   - "[[Order Effects]]"
-  - "[[Data Transformation]]"
   - "[[Reliability]]"
 related_methods:
   - "[[Mixed Methods Research]]"
@@ -31,6 +30,7 @@ related_methods:
   - "[[Convergent Design]]"
   - "[[Explanatory Sequential Design]]"
   - "[[Exploratory Sequential Design]]"
+  - "[[Data Transformation]]"
   - "[[Random Sampling]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"

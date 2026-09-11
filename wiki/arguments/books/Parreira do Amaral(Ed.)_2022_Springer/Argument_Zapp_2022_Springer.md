@@ -22,7 +22,6 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Epistemic Governance]]"
-  - "[[Analytic Framework]]"
   - "[[Otherhood]]"
   - "[[Avatar]]"
   - "[[Organizational Actorhood]]"
@@ -50,7 +49,8 @@ related_theories:
   - "[[Human Capital Theory]]"
   - "[[Cultural Models]]"
   - "[[Systems of Innovation]]"
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons: []
 related_facts:
   - "[[UN Sustainable Development Goals]]"

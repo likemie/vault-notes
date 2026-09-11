@@ -26,18 +26,18 @@ related_concepts:
   - "[[Chain of Evidence]]"
   - "[[Teacher Professional Agency]]"
   - "[[Heterogeneity]]"
-  - "[[Confidence Interval]]"
   - "[[Refined Mastery]]"
   - "[[School Leadership]]"
   - "[[Document]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Whole Language]]"
   - "[[Evidence-Based Education]]"
-  - "[[Analytic Framework]]"
   - "[[Neuroplasticity]]"
 related_theories: []
 related_methods:
   - "[[Effect Size]]"
+  - "[[Confidence Interval]]"
+  - "[[Analytic Framework]]"
 related_persons:
   - "[[Julie Nelson]]"
   - "[[Carol Campbell]]"

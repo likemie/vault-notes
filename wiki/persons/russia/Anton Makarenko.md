@@ -8,7 +8,7 @@ summary: "苏联教育改革家，因其教育思想与实践被西方学界称�
 type: person
 nationality: russia
 person_region: "russia"
-person_related_count: 8
+person_related_count: 9
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ tags:
   - theme/labor-education
 related_concepts:
   - "[[Normal School]]"
+  - "[[APA Style]]"
   - "[[International Education]]"
   - "[[Progressive Education]]"
   - "[[Experiential Learning]]"

@@ -6,7 +6,7 @@ aliases:
 summary: "2001 年德国首次 PISA 结果公布后引发的全国性教育政策危机反应，被视为德国教育政策制定的决定性分水岭，导致全面的教育改革议程"
 type: concept
 domain: "comparative-education"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -27,6 +27,7 @@ related_facts:
   - "[[PISA]]"
   - "[[Sputnik Shock 1957]]"
 related_arguments:
+  - "[[Argument_Grey_2018_CE]]"
   - "[[Argument_Li_2025_HSSC]]"
 confidence: medium
 status: draft

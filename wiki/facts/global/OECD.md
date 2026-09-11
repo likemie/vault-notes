@@ -31,7 +31,6 @@ related_concepts:
   - "[[International Education]]"
   - "[[Governing by Numbers]]"
   - "[[Research Topic]]"
-  - "[[Questionnaire]]"
   - "[[Going Native]]"
   - "[[Variable]]"
   - "[[Lifelong Learning]]"
@@ -62,6 +61,7 @@ related_theories:
   - "[[Wight's Three Traditions of International Theory]]"
 related_methods:
   - "[[Peer Debriefing]]"
+  - "[[Questionnaire]]"
 related_persons: []
 related_facts:
   - "[[PISA]]"

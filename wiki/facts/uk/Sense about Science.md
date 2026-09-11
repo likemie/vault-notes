@@ -26,13 +26,13 @@ related_concepts:
   - "[[Chain of Evidence]]"
   - "[[Critical Thinking]]"
   - "[[Document]]"
-  - "[[External Auditor]]"
   - "[[Scientific Uncertainty]]"
   - "[[Dialogue in Education]]"
   - "[[Scientific Literacy]]"
   - "[[Public Engagement with Science]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[External Auditor]]"
 related_instruments: []
 related_persons: []
 related_facts:

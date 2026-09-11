@@ -26,7 +26,6 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Visible Learning]]"
   - "[[Hypothesis]]"
-  - "[[Sample Size Determination]]"
   - "[[Heterogeneity]]"
   - "[[Direct Instruction]]"
   - "[[Evidence-Based Education]]"
@@ -36,6 +35,7 @@ related_theories: []
 related_methods:
   - "[[Effect Size]]"
   - "[[Multiple-Choice Questions]]"
+  - "[[Sample Size Determination]]"
   - "[[Meta-meta-analysis]]"
 related_persons: []
 related_facts:

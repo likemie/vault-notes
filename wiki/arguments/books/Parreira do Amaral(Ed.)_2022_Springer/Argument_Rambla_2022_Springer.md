@@ -27,7 +27,6 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Performance Indicators]]"
-  - "[[Analytic Framework]]"
   - "[[Creativity]]"
   - "[[Theories of Policy Change]]"
   - "[[Selectivity]]"
@@ -54,6 +53,7 @@ related_theories:
   - "[[Realist Evaluation]]"
   - "[[Neocorporatism]]"
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Qualitative Research]]"
   - "[[Comparative Case Study]]"

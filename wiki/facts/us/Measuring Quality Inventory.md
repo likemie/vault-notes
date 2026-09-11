@@ -24,7 +24,6 @@ tags:
   - region/us
 related_concepts:
   - "[[Evaluation Research]]"
-  - "[[Questionnaire]]"
   - "[[Creativity]]"
   - "[[Critical Thinking]]"
   - "[[Student Engagement]]"
@@ -33,6 +32,7 @@ related_concepts:
 related_theories:
   - "[[AIR Model of Epistemic Cognition]]"
 related_methods:
+  - "[[Questionnaire]]"
   - "[[Multiple-Choice Questions]]"
 related_instruments:
   - "[[Collegiate Learning Assessment]]"

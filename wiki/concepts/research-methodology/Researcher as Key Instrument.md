@@ -15,7 +15,6 @@ tags:
   - research-methodology
   - qualitative-research
 related_concepts:
-  - "[[Questionnaire]]"
   - "[[Hypothesis]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
@@ -26,6 +25,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
+  - "[[Questionnaire]]"
   - "[[Quantitative Research]]"
 related_persons: []
 related_facts: []

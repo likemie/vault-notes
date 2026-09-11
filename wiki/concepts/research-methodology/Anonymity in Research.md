@@ -16,10 +16,10 @@ tags:
   - method/research-ethics
   - theme/research-governance
 related_concepts:
-  - "[[Questionnaire]]"
   - "[[External Validity]]"
 related_theories: []
 related_methods:
+  - "[[Questionnaire]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Survey Research]]"
   - "[[Experimental Research]]"

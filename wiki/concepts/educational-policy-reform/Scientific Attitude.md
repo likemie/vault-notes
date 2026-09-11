@@ -37,7 +37,6 @@ related_concepts:
   - "[[Learned Helplessness]]"
   - "[[Reflexivity]]"
   - "[[Humility in Learning]]"
-  - "[[Confidence Interval]]"
   - "[[Responsible Conduct of Research]]"
   - "[[Champ]]"
   - "[[Falsification]]"
@@ -56,6 +55,7 @@ related_concepts:
   - "[[Pragmatism in China]]"
 related_theories: []
 related_methods:
+  - "[[Confidence Interval]]"
   - "[[Longitudinal Study]]"
 related_instruments: []
 related_persons:

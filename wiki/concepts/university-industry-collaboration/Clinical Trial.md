@@ -20,7 +20,6 @@ tags:
   - level/higher-education
 related_concepts:
   - "[[Evaluation Research]]"
-  - "[[Blinding]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Independent Variable]]"
   - "[[University-Industry Collaboration]]"
@@ -29,7 +28,8 @@ related_concepts:
   - "[[Return on Investment]]"
   - "[[Contract Research Organization]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Blinding]]"
 related_persons: []
 related_facts:
   - "[[Clinical Trials Transformation Initiative]]"

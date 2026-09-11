@@ -19,12 +19,10 @@ tags:
 related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Unit of Analysis]]"
-  - "[[Transcription in Qualitative Research]]"
   - "[[Hypothesis]]"
   - "[[Epistemology]]"
   - "[[Fitness for Purpose]]"
   - "[[Reflexivity]]"
-  - "[[Sample Size Determination]]"
   - "[[Causality]]"
   - "[[Emergence]]"
   - "[[Research Purpose]]"
@@ -32,7 +30,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Interviewer Effects]]"
   - "[[Operationalization]]"
-  - "[[Probes]]"
   - "[[University-Industry Collaboration]]"
 related_theories:
   - "[[Phenomenology]]"
@@ -41,6 +38,8 @@ related_methods:
   - "[[Telephone Interview]]"
   - "[[Focus Group]]"
   - "[[In-depth Interview]]"
+  - "[[Transcription in Qualitative Research]]"
+  - "[[Sample Size Determination]]"
   - "[[Case Study]]"
   - "[[Ethnography]]"
   - "[[Grounded Theory]]"
@@ -52,6 +51,7 @@ related_methods:
   - "[[Pilot Testing]]"
   - "[[Triangulation]]"
   - "[[Field Notes]]"
+  - "[[Probes]]"
   - "[[Semi-structured Interview]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"

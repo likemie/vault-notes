@@ -27,12 +27,12 @@ related_concepts:
   - "[[Otherhood]]"
   - "[[Hypothesis]]"
   - "[[Value Neutrality]]"
-  - "[[Analytic Framework]]"
   - "[[New Public Management]]"
 related_theories:
   - "[[World Society Theory]]"
   - "[[Cultural Models]]"
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons:
   - "[[John W. Meyer]]"
 related_facts: []

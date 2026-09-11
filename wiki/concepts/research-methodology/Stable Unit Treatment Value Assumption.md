@@ -18,7 +18,6 @@ tags:
 related_concepts:
   - "[[Hypothesis]]"
   - "[[Causality]]"
-  - "[[Confidence Interval]]"
   - "[[Unit of Analysis]]"
   - "[[Ontology]]"
 related_theories:
@@ -26,6 +25,7 @@ related_theories:
 related_methods:
   - "[[Random Assignment]]"
   - "[[Cluster Randomized Trials]]"
+  - "[[Confidence Interval]]"
   - "[[Randomised Controlled Trials]]"
 related_persons: []
 related_facts: []

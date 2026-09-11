@@ -31,9 +31,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Peer-Supported Learning]]"
   - "[[Internal Validity]]"
-  - "[[Sample Size Determination]]"
   - "[[Implementation Fidelity]]"
-  - "[[Pre-test and Post-test]]"
   - "[[Attrition]]"
 related_theories:
   - "[[Campbellian Validity Framework]]"
@@ -43,7 +41,9 @@ related_methods:
   - "[[Standard Error]]"
   - "[[Statistical Significance]]"
   - "[[Effect Size]]"
+  - "[[Sample Size Determination]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Analysis of Variance]]"
   - "[[Quasi-Experimental Designs]]"
 related_instruments: []

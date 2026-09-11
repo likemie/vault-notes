@@ -7,7 +7,7 @@ summary: "批判理论在行动中的民族志：将权力、不平等和解放�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 13
+method_related_count: 14
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ related_theories:
   - "[[Post-colonial Theory]]"
 related_methods:
   - "[[Ethnography]]"
+  - "[[Qualitative Research]]"
   - "[[Ideology Critique]]"
 related_persons:
   - "[[Jürgen Habermas]]"

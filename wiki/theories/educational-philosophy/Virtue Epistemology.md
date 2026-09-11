@@ -12,12 +12,12 @@ theory_related_color: "#dbeafe"
 tags: []
 related_concepts:
   - "[[Epistemology]]"
-  - "[[Analytic Framework]]"
   - "[[Epistemic Aims]]"
   - "[[Development of Knowledge]]"
 related_theories:
   - "[[Expanded Framework of Epistemic Cognition]]"
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_instruments: []
 related_persons:
   - "[[Aristotle]]"

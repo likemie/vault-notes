@@ -19,18 +19,18 @@ tags:
   - group-interview
 related_concepts:
   - "[[Emergence]]"
-  - "[[Questionnaire]]"
   - "[[Hypothesis]]"
   - "[[Causality]]"
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
-  - "[[Transcription in Qualitative Research]]"
   - "[[Reliability]]"
 related_methods:
   - "[[Group Interview]]"
+  - "[[Questionnaire]]"
   - "[[Triangulation]]"
   - "[[Qualitative Research]]"
   - "[[Content Analysis]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Qualitative Interview]]"
   - "[[Interview Protocol]]"

@@ -23,14 +23,14 @@ tags:
   - theme/cognitive-development
 related_concepts:
   - "[[Epistemological Understanding]]"
-  - "[[Questionnaire]]"
   - "[[Epistemology]]"
   - "[[Absolutist]]"
   - "[[Multiplist]]"
   - "[[Evaluativist]]"
   - "[[Rightness]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Questionnaire]]"
 related_instruments:
   - "[[VALUE Rubrics]]"
 related_persons:

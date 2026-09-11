@@ -20,7 +20,6 @@ related_concepts:
   - "[[Praxis]]"
   - "[[Causal Processes]]"
   - "[[Hawthorne Effect]]"
-  - "[[Pre-test and Post-test]]"
   - "[[Reliability]]"
   - "[[Independent Variable]]"
 related_theories: []
@@ -29,6 +28,7 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Experimental Research]]"
   - "[[Ex Post Facto Research]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Mixed Methods Research]]"
   - "[[Ethnography]]"

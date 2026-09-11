@@ -20,7 +20,6 @@ tags:
 related_concepts:
   - "[[Epistemology]]"
   - "[[Hypothesis]]"
-  - "[[Confidence Interval]]"
   - "[[Scientific Literacy]]"
   - "[[Sampling Error]]"
   - "[[Falsification]]"
@@ -44,6 +43,7 @@ related_concepts:
 related_theories:
   - "[[Organizational Culture]]"
 related_methods:
+  - "[[Confidence Interval]]"
   - "[[Standard Error]]"
   - "[[Qualitative Research]]"
   - "[[Randomised Controlled Trials]]"

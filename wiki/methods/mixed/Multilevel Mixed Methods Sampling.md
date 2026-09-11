@@ -17,13 +17,13 @@ tags:
 related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Research Question]]"
-  - "[[Sample Size Determination]]"
   - "[[School Effectiveness]]"
 related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Random Sampling]]"
   - "[[Non-probability Sampling]]"
+  - "[[Sample Size Determination]]"
   - "[[Purposeful Sampling]]"
   - "[[Convenience Sampling]]"
 related_persons: []

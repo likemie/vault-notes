@@ -27,7 +27,6 @@ tags:
   - level/k12
 related_concepts:
   - "[[General Education]]"
-  - "[[Analytic Framework]]"
   - "[[Policy Borrowing]]"
   - "[[Progressive Education]]"
   - "[[Hypothesis]]"
@@ -58,6 +57,7 @@ related_concepts:
 related_theories:
   - "[[World Society Theory]]"
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Historical Document Analysis of Curriculum]]"
   - "[[Multiple-Choice Questions]]"
 related_persons: []

@@ -23,7 +23,6 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
-  - "[[Rating Scale]]"
   - "[[Construct]]"
   - "[[Definition of Terms]]"
   - "[[Variable]]"
@@ -36,6 +35,7 @@ related_concepts:
 related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Inter-Rater Reliability]]"
+  - "[[Rating Scale]]"
   - "[[Triangulation]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23]]"

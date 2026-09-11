@@ -26,7 +26,6 @@ related_concepts:
   - "[[Homework]]"
   - "[[Constructive Alignment]]"
   - "[[International Baccalaureate]]"
-  - "[[Confidence Interval]]"
 related_persons:
   - "[[John Biggs]]"
   - "[[Louis Cohen]]"
@@ -40,6 +39,7 @@ related_arguments:
 related_methods:
   - "[[Multiple-Choice Questions]]"
   - "[[Random Sampling]]"
+  - "[[Confidence Interval]]"
   - "[[Item Analysis]]"
 confidence: medium
 status: draft

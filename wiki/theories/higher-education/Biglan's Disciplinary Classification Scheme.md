@@ -21,7 +21,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Hypothesis]]"
   - "[[Epistemology]]"
-  - "[[Analytic Framework]]"
   - "[[Epistemological Beliefs]]"
   - "[[Champ]]"
   - "[[Disciplinary Socialization]]"
@@ -32,6 +31,7 @@ related_concepts:
   - "[[Variable]]"
 related_theories: []
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Multiple Regression]]"
 related_instruments: []
 related_persons: []

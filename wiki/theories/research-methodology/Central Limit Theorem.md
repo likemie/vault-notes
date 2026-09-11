@@ -14,8 +14,6 @@ tags:
   - quantitative-research
   - sampling
 related_concepts:
-  - "[[Confidence Interval]]"
-  - "[[Sample Size Determination]]"
   - "[[Sampling Error]]"
   - "[[Computer Simulation]]"
   - "[[Epistemology]]"
@@ -27,6 +25,8 @@ related_theories: []
 related_methods:
   - "[[Random Sampling]]"
   - "[[Standard Error]]"
+  - "[[Confidence Interval]]"
+  - "[[Sample Size Determination]]"
   - "[[Quantitative Research]]"
 related_persons: []
 related_facts: []

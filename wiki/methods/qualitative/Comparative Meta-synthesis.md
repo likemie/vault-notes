@@ -24,7 +24,6 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Epistemology]]"
   - "[[Creativity]]"
-  - "[[Transcription in Qualitative Research]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Structured Teaching]]"
   - "[[Classroom Management]]"
@@ -35,6 +34,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
   - "[[Moderator Analysis]]"
+  - "[[Transcription in Qualitative Research]]"
 related_persons: []
 related_arguments:
   - "[[Argument_Higgins_2016_RE]]"

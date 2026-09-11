@@ -19,16 +19,16 @@ tags:
   - design-type
 related_concepts:
   - "[[Independent Variable]]"
-  - "[[Sample Size Determination]]"
   - "[[Variable]]"
   - "[[Unit of Analysis]]"
-  - "[[Pre-test and Post-test]]"
   - "[[Attrition]]"
   - "[[Dependent Variable]]"
 related_methods:
   - "[[True Experimental Design]]"
   - "[[Random Assignment]]"
+  - "[[Sample Size Determination]]"
   - "[[Effect Size]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Matching]]"
   - "[[Experimental Research]]"
   - "[[Repeated Measures Design]]"

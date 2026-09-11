@@ -42,9 +42,7 @@ related_concepts:
   - "[[Self-Efficacy]]"
   - "[[Scientific Attitude]]"
   - "[[Metacognition]]"
-  - "[[Qualitative Codebook]]"
   - "[[Rote Learning]]"
-  - "[[Sample Size Determination]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
   - "[[Type I and Type II Errors]]"
@@ -54,7 +52,6 @@ related_concepts:
   - "[[Academic Engagement]]"
   - "[[Interaction Effect]]"
   - "[[Hypothesis]]"
-  - "[[Confidence Interval]]"
   - "[[Formative Assessment]]"
   - "[[Learner Autonomy]]"
   - "[[Champ]]"
@@ -62,11 +59,9 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Reliability]]"
   - "[[Self-Regulated Learning]]"
-  - "[[Funnel Plot]]"
   - "[[Publication Bias]]"
   - "[[Causality]]"
   - "[[External Validity]]"
-  - "[[Questionnaire]]"
 related_theories:
   - "[[Situative Perspective]]"
 related_methods:
@@ -75,11 +70,16 @@ related_methods:
   - "[[Three-Level Meta-Analysis]]"
   - "[[Meta-analysis]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Qualitative Codebook]]"
+  - "[[Sample Size Determination]]"
   - "[[Standard Error]]"
   - "[[Statistical Significance]]"
   - "[[Between-Study Variance]]"
   - "[[Moderator Analysis]]"
+  - "[[Confidence Interval]]"
+  - "[[Funnel Plot]]"
   - "[[Experimental Research]]"
+  - "[[Questionnaire]]"
 related_instruments: []
 related_persons: []
 related_facts:

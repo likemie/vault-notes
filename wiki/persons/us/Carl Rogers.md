@@ -9,7 +9,7 @@ summary: "美国人本主义心理学泰斗，来访者中心疗法与以人为�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 16
+person_related_count: 17
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -22,6 +22,7 @@ tags:
   - paradigm/interpretive
   - methodology/qualitative
 related_concepts:
+  - "[[APA Style]]"
   - "[[Positivism]]"
   - "[[Interpretive Paradigm]]"
   - "[[Epistemology]]"

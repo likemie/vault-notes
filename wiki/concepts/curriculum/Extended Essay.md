@@ -35,12 +35,12 @@ related_concepts:
   - "[[Advanced Placement Program]]"
   - "[[Academic Achievement]]"
   - "[[Document]]"
-  - "[[Questionnaire]]"
   - "[[Necessary and Sufficient Conditions]]"
 related_theories: []
 related_methods:
   - "[[Observation Method]]"
   - "[[Multiple-Choice Questions]]"
+  - "[[Questionnaire]]"
   - "[[Focus Group]]"
   - "[[Mixed Methods Research]]"
 related_instruments: []

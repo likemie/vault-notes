@@ -25,9 +25,7 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Responsible Conduct of Research]]"
   - "[[Reliability]]"
-  - "[[External Auditor]]"
   - "[[Qualitative Validity]]"
-  - "[[Analytic Framework]]"
   - "[[Emergence]]"
   - "[[Document]]"
   - "[[Interpretive Paradigm]]"
@@ -44,6 +42,8 @@ related_methods:
   - "[[Grounded Theory]]"
   - "[[Case Study]]"
   - "[[Narrative Research]]"
+  - "[[External Auditor]]"
+  - "[[Analytic Framework]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
   - "[[Argument_Creswell_2022_SAGE]]"

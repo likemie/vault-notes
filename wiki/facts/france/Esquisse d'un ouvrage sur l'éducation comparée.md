@@ -30,7 +30,6 @@ tags:
 related_concepts:
   - "[[International Education]]"
   - "[[Document]]"
-  - "[[Questionnaire]]"
   - "[[Scientific Method]]"
   - "[[Faculty Psychology]]"
   - "[[Boarding Schools]]"
@@ -43,7 +42,8 @@ related_concepts:
   - "[[Growth]]"
   - "[[Proto-Scientific Motif]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Questionnaire]]"
 related_instruments: []
 related_persons:
   - "[[Marc-Antoine Jullien]]"

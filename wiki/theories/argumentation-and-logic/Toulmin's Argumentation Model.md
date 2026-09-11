@@ -18,7 +18,6 @@ tags:
   - theme/critical-thinking
   - theme/science-education
 related_concepts:
-  - "[[Analytic Framework]]"
   - "[[Epistemology]]"
   - "[[Reliability]]"
   - "[[Epistemic Stances]]"
@@ -36,6 +35,8 @@ related_theories:
 related_arguments:
   - "[[Argument_Zemplen_2007_SciEduc]]"
   - "[[Argument_Duncan_2025_CI]]"
+related_methods:
+  - "[[Analytic Framework]]"
 confidence: high
 status: draft
 created: 2026-07-05

@@ -50,8 +50,6 @@ related_concepts:
   - "[[Document]]"
   - "[[Soft Power]]"
   - "[[Conatus]]"
-  - "[[Questionnaire]]"
-  - "[[External Auditor]]"
   - "[[Research Impact]]"
   - "[[Research Proposal]]"
   - "[[Governance by Spin]]"
@@ -67,7 +65,9 @@ related_methods:
   - "[[Longitudinal Study]]"
   - "[[Trend Study]]"
   - "[[In-depth Interview]]"
+  - "[[Questionnaire]]"
   - "[[Participatory Action Research]]"
+  - "[[External Auditor]]"
   - "[[Participatory Research]]"
 related_instruments: []
 related_persons: []

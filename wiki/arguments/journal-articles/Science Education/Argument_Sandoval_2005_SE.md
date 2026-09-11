@@ -16,7 +16,6 @@ related_concepts:
   - "[[Formal Epistemology]]"
   - "[[Epistemology]]"
   - "[[Evaluation Research]]"
-  - "[[Questionnaire]]"
   - "[[Praxis]]"
   - "[[Epistemological Break]]"
   - "[[Creativity]]"
@@ -30,6 +29,7 @@ related_concepts:
   - "[[Epistemic Resources]]"
 related_theories: []
 related_methods:
+  - "[[Questionnaire]]"
   - "[[Intervention Research]]"
 related_instruments:
   - "[[Views of Nature of Science Questionnaire]]"

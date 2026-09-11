@@ -22,7 +22,6 @@ tags:
   - theme/academic-culture
   - theme/evaluation
 related_concepts:
-  - "[[External Auditor]]"
   - "[[Social License to Operate]]"
   - "[[Public Engagement with Science]]"
 related_facts:
@@ -30,6 +29,8 @@ related_facts:
   - "[[Research Excellence Framework]]"
 related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06]]"
+related_methods:
+  - "[[External Auditor]]"
 confidence: high
 status: draft
 created: 2026-09-04

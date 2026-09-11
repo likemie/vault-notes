@@ -19,11 +19,11 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Scaffolding]]"
   - "[[Constructivist Paradigm]]"
-  - "[[Questionnaire]]"
 related_theories:
   - "[[Integrative Pluralism]]"
 related_methods:
   - "[[Ethnography]]"
+  - "[[Questionnaire]]"
 related_instruments: []
 related_persons: []
 related_facts: []

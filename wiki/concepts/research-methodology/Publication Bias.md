@@ -27,7 +27,6 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Preregistration]]"
   - "[[Higher-Order Thinking Skills]]"
-  - "[[Funnel Plot]]"
 related_theories: []
 related_methods:
   - "[[Effect Size]]"
@@ -36,6 +35,7 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Quantitative Research]]"
   - "[[Experimental Research]]"
+  - "[[Funnel Plot]]"
 related_persons: []
 related_facts:
   - "[[What Works Clearinghouse]]"

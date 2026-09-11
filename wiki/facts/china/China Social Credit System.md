@@ -22,12 +22,12 @@ tags:
 related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Disciplina and Doctrina]]"
-  - "[[Analytic Framework]]"
   - "[[Virtue-Oriented Learning Process]]"
   - "[[Axiology]]"
   - "[[Knowledge Transfer]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons: []
 related_facts:
   - "[[Great Firewall of China]]"

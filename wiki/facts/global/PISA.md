@@ -33,7 +33,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Procedural Skill]]"
   - "[[Creativity]]"
-  - "[[Questionnaire]]"
   - "[[Employability]]"
   - "[[Lifelong Learning]]"
   - "[[Policy Borrowing]]"
@@ -51,6 +50,7 @@ related_concepts:
   - "[[Global Education Reform Movement]]"
   - "[[Science Capital]]"
 related_methods:
+  - "[[Questionnaire]]"
   - "[[Systematic Review]]"
   - "[[Rasch Measurement]]"
   - "[[Pilot Testing]]"

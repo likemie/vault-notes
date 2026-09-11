@@ -22,7 +22,6 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Research Question]]"
   - "[[Dependent Variable]]"
-  - "[[Questionnaire]]"
   - "[[Metainferences]]"
   - "[[Theory of Knowledge]]"
   - "[[Purpose Statement]]"
@@ -32,6 +31,7 @@ related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Quantitative Research]]"
+  - "[[Questionnaire]]"
   - "[[Descriptive Analysis]]"
   - "[[Purposeful Sampling]]"
   - "[[Case Study]]"

@@ -22,12 +22,12 @@ tags:
   - region/us
 related_concepts:
   - "[[Return on Investment]]"
-  - "[[Analytic Framework]]"
   - "[[Paradigm]]"
   - "[[Realism in International Relations]]"
 related_theories:
   - "[[Human Capital Theory]]"
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons:
   - "[[C. Arnold Anderson]]"
 related_facts:

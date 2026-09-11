@@ -19,7 +19,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Metacognition]]"
   - "[[Academic Achievement]]"
-  - "[[Questionnaire]]"
   - "[[Construct]]"
   - "[[Epistemological Theories]]"
   - "[[Disciplinary Socialization]]"
@@ -37,6 +36,7 @@ related_theories:
   - "[[Epistemic and Ontological Cognition]]"
   - "[[Item Response Theory]]"
 related_methods:
+  - "[[Questionnaire]]"
   - "[[Quantitative Research]]"
   - "[[Factor Mixture Modeling]]"
 related_instruments:

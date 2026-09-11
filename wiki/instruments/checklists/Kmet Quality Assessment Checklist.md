@@ -30,18 +30,18 @@ tags:
 related_concepts:
   - "[[Internal Validity]]"
   - "[[Document]]"
-  - "[[Intercoder Agreement]]"
   - "[[Reliability]]"
   - "[[Research Question]]"
-  - "[[Blinding]]"
-  - "[[Sample Size Determination]]"
   - "[[Graphic Organizer]]"
   - "[[Ganz-Methode]]"
 related_theories: []
 related_methods:
   - "[[Systematic Review]]"
   - "[[Meta-analysis]]"
+  - "[[Intercoder Agreement]]"
   - "[[Quantitative Research]]"
+  - "[[Blinding]]"
+  - "[[Sample Size Determination]]"
   - "[[Effect Size]]"
   - "[[Qualitative Research]]"
   - "[[Experimental Research]]"

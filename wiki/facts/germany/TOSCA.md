@@ -22,7 +22,6 @@ tags:
   - large-scale-assessment
 related_concepts:
   - "[[Academic Achievement]]"
-  - "[[Questionnaire]]"
   - "[[Disciplinary Socialization]]"
   - "[[Variable]]"
   - "[[Certainty of Knowledge]]"
@@ -31,6 +30,7 @@ related_concepts:
 related_theories:
   - "[[Item Response Theory]]"
 related_methods:
+  - "[[Questionnaire]]"
   - "[[Causal Modeling]]"
 related_instruments:
   - "[[Cognitive Ability Test KFT]]"

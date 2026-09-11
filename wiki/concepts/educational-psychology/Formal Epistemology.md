@@ -15,11 +15,11 @@ related_concepts:
   - "[[Epistemological Beliefs]]"
   - "[[Practical Epistemology]]"
   - "[[Creativity]]"
-  - "[[Questionnaire]]"
   - "[[Evaluation Research]]"
   - "[[Ontology]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Questionnaire]]"
 related_instruments: []
 related_persons: []
 related_facts: []

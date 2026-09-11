@@ -16,7 +16,6 @@ tags:
 related_concepts:
   - "[[Rich and Thick Description]]"
   - "[[Hypothesis]]"
-  - "[[Sample Size Determination]]"
   - "[[Theoretical End Point]]"
   - "[[Praxis]]"
 related_theories: []
@@ -24,6 +23,7 @@ related_methods:
   - "[[Case Study]]"
   - "[[Qualitative Research]]"
   - "[[Theoretical Sampling]]"
+  - "[[Sample Size Determination]]"
   - "[[Ethnography]]"
   - "[[Random Sampling]]"
   - "[[Quantitative Research]]"

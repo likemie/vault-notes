@@ -23,12 +23,12 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Research Question]]"
   - "[[Dependent Variable]]"
-  - "[[Questionnaire]]"
-  - "[[Sample Size Determination]]"
   - "[[Causality]]"
 related_theories: []
 related_methods:
   - "[[Survey Research]]"
+  - "[[Questionnaire]]"
+  - "[[Sample Size Determination]]"
   - "[[Effect Size]]"
 related_persons: []
 related_facts: []

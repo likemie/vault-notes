@@ -23,7 +23,6 @@ tags:
 - theme/subjectification
 - theme/competitiveness
 related_concepts:
-  - "[[Questionnaire]]"
   - "[[Student Satisfaction]]"
   - "[[Digital Self]]"
   - "[[Learning Analytics]]"
@@ -36,7 +35,8 @@ related_concepts:
 related_theories:
   - "[[Governmentality]]"
   - "[[Societies of Control]]"
-related_methods: []
+related_methods:
+  - "[[Questionnaire]]"
 related_persons: []
 related_facts: []
 related_arguments:

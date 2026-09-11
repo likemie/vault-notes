@@ -26,13 +26,13 @@ related_concepts:
   - "[[Scaffolding]]"
   - "[[Direct Instruction]]"
   - "[[Classroom Management]]"
-  - "[[Confidence Interval]]"
   - "[[Jigsaw]]"
 related_theories: []
 related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
+  - "[[Confidence Interval]]"
 related_instruments: []
 related_persons:
   - "[[Robert Slavin]]"

@@ -20,11 +20,9 @@ tags:
   - methodology
 related_concepts:
   - "[[Sampling Error]]"
-  - "[[Sample Size Determination]]"
   - "[[Heterogeneity]]"
   - "[[Study Population and Sample]]"
   - "[[Hypothesis]]"
-  - "[[Confidence Interval]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
@@ -32,10 +30,12 @@ related_methods:
   - "[[Inverse-Variance Weighting]]"
   - "[[I-squared Statistic]]"
   - "[[Prediction Interval]]"
+  - "[[Sample Size Determination]]"
   - "[[Cochran's Q Test]]"
   - "[[Random Sampling]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Standard Error]]"
+  - "[[Confidence Interval]]"
 related_instruments: []
 related_persons: []
 related_facts: []

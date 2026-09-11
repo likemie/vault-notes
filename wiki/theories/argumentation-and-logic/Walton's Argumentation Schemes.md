@@ -19,12 +19,10 @@ tags:
   - theme/epistemic-cognition
 related_concepts:
   - "[[Dialogue in Education]]"
-  - "[[Analytic Framework]]"
   - "[[Epistemology]]"
   - "[[Reliability]]"
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
-  - "[[Transcription in Qualitative Research]]"
   - "[[Classroom Debate]]"
 related_theories:
   - "[[Pragma-Dialectics]]"
@@ -32,7 +30,9 @@ related_theories:
   - "[[Reliabilism]]"
   - "[[AIR Model of Epistemic Cognition]]"
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Accounts]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Meta-analysis]]"
   - "[[Systematic Review]]"

@@ -23,7 +23,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Null Hypothesis]]"
   - "[[Independent Variable]]"
-  - "[[Pre-test and Post-test]]"
   - "[[Directional and Non-directional Hypotheses]]"
   - "[[Dependent Variable]]"
   - "[[Research Writing Script]]"
@@ -31,6 +30,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Quantitative Research]]"
 related_persons: []
 related_facts: []

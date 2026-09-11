@@ -26,11 +26,11 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Response Bias]]"
   - "[[Research Utilization]]"
-  - "[[Questionnaire]]"
   - "[[Concurrent Validity]]"
   - "[[Reliability]]"
 related_methods:
   - "[[Back Translation]]"
+  - "[[Questionnaire]]"
   - "[[Pilot Testing]]"
   - "[[Cronbach's Alpha]]"
 related_facts:

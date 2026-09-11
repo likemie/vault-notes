@@ -15,12 +15,12 @@ tags:
   - method/sampling
   - quantitative-research
 related_concepts:
-  - "[[Sample Size Determination]]"
-  - "[[Sampling Frame]]"
   - "[[Unit of Analysis]]"
 related_theories: []
 related_methods:
   - "[[Random Sampling]]"
+  - "[[Sample Size Determination]]"
+  - "[[Sampling Frame]]"
 related_persons: []
 related_facts: []
 related_arguments:

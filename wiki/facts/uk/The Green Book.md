@@ -23,12 +23,12 @@ tags:
   - level/national-policy
 related_concepts:
   - "[[Scientific Uncertainty]]"
-  - "[[Analytic Framework]]"
   - "[[Post-Normal Science]]"
   - "[[Evaluation Research]]"
 related_theories: []
 related_methods:
   - "[[Accounts]]"
+  - "[[Analytic Framework]]"
 related_instruments: []
 related_persons: []
 related_facts:

@@ -21,12 +21,12 @@ tags:
   - theory/taoism
 related_concepts:
   - "[[Familiarization]]"
-  - "[[Analytic Framework]]"
   - "[[Creativity]]"
   - "[[Learning Virtues]]"
   - "[[Self-Cultivation]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons:
   - "[[Zhuangzi]]"
   - "[[Confucius]]"

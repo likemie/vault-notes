@@ -29,7 +29,6 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge-Based Economy]]"
-  - "[[Analytic Framework]]"
   - "[[Hypothesis]]"
   - "[[Classical Geopolitics]]"
   - "[[Epistemology]]"
@@ -56,6 +55,7 @@ related_theories:
   - "[[Critical Geopolitics]]"
   - "[[Decolonial Geopolitics of Knowledge]]"
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Snowball Sampling]]"
 related_persons:
   - "[[Walter Mignolo]]"

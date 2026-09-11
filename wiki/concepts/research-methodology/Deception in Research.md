@@ -17,11 +17,11 @@ tags:
   - theme/research-governance
 related_concepts:
   - "[[Covert Research]]"
-  - "[[Rating Scale]]"
   - "[[Non-maleficence and Beneficence in Research]]"
   - "[[Hypothesis]]"
 related_theories: []
 related_methods:
+  - "[[Rating Scale]]"
   - "[[Role-playing]]"
 related_persons: []
 related_facts:

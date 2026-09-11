@@ -22,7 +22,6 @@ tags:
 related_concepts:
   - "[[Hypothesis]]"
   - "[[Unit of Analysis]]"
-  - "[[Analytic Framework]]"
   - "[[Epistemology]]"
   - "[[Positivism]]"
   - "[[Epistemic Stances]]"
@@ -44,6 +43,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
+  - "[[Analytic Framework]]"
   - "[[Theoretical Sampling]]"
   - "[[Mixed Methods Research]]"
   - "[[Triangulation]]"

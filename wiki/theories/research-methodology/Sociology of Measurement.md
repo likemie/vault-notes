@@ -16,7 +16,6 @@ tags:
 - performativity
 - educational-sociology
 related_concepts:
-  - "[[Analytic Framework]]"
   - "[[Performativity]]"
   - "[[International Education]]"
   - "[[Performativity of Measurement]]"
@@ -24,7 +23,8 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Epistemology]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons: []
 related_facts:
   - "[[OECD]]"

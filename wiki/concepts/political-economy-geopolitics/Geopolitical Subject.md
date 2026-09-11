@@ -21,7 +21,6 @@ related_concepts:
   - "[[Innovation Ecosystem]]"
   - "[[Global Citizenship]]"
   - "[[Knowledge-Based Economization]]"
-  - "[[Analytic Framework]]"
   - "[[Graduate Attributes]]"
   - "[[Innovation Hub]]"
   - "[[Creativity]]"
@@ -38,6 +37,7 @@ related_theories:
   - "[[Governmentality]]"
   - "[[Fixity-Motion Tension]]"
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Ethnography]]"
 related_persons:
   - "[[Sami Moisio]]"

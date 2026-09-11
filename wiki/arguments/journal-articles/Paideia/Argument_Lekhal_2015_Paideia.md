@@ -30,7 +30,6 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Variable]]"
   - "[[Determinism]]"
-  - "[[Questionnaire]]"
   - "[[Reliability]]"
   - "[[Operationalization]]"
   - "[[Student-Teacher Relationship]]"
@@ -49,6 +48,7 @@ related_theories: []
 related_methods:
   - "[[Observational and Correlational Research]]"
   - "[[Multiple Regression]]"
+  - "[[Questionnaire]]"
   - "[[Analysis of Variance]]"
   - "[[Effect Size]]"
 related_persons: []

@@ -20,7 +20,6 @@ tags:
 related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Unit of Analysis]]"
-  - "[[Analytic Framework]]"
   - "[[Epistemology]]"
   - "[[Ontology]]"
   - "[[Dialogue in Education]]"
@@ -28,7 +27,8 @@ related_concepts:
   - "[[Critical Thinking]]"
 related_theories:
   - "[[Luhmann's Systems Theory]]"
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_instruments: []
 related_persons:
   - "[[Aristotle]]"

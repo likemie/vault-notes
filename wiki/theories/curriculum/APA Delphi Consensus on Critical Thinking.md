@@ -9,7 +9,7 @@ aliases:
 summary: "由美国哲学学会主持、Peter Facione 领衔 46 位国际学者达成的里程碑式共识报告，系统确立了批判性思维的六大核心认知技能与七大情意倾向双元框架"
 type: theory
 theory_field: "curriculum"
-theory_related_count: 24
+theory_related_count: 25
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Construct Validity]]"
   - "[[Higher-Order Thinking Skills]]"
+  - "[[APA Style]]"
   - "[[Lifelong Learning]]"
   - "[[Critical Thinking Disposition]]"
   - "[[Metacognition]]"
@@ -65,7 +66,7 @@ updated: 2026-09-11
 > - **解释对象** [[Critical Thinking|批判性思维]]（Critical Thinking）的本质内涵、核心构成要素、[[Operationalization|操作化]]定义及其在教育评估中的通用标准。
 > - **理论问题** 回应 20 世纪 80 年代批判性思维领域派系林立、定义模糊、测量工具缺乏统一[[Construct Validity|构念效度]]基准的学界困境。
 > - **理论类型** 规范性与操作化共识理论框架（Normative & Operational Consensus Framework）。
-> - **知识位置** 当代教育哲学、认知心理学与[[Higher-Order Thinking Skills|高阶思维]]教学的奠基石。由美国哲学学会（APA）于 1988–1989 年发起，Peter A. Facione (1990) 担任首席研究员，联合 46 位国际顶尖学者（涵盖哲学、教育学、心理学与物理学领域的代表人物，如 [[Robert Ennis]]、Matthew Lipman、Richard Paul、Harvey Siegel、John McPeck 等）通过多轮[[Delphi Technique|德尔菲法]]历时两年完成，成为后续所有重大实证综述（如 [[Argument_Abrami_2015_RER|Abrami et al., 2008, 2015]]）的金标准。
+> - **知识位置** 当代教育哲学、认知心理学与[[Higher-Order Thinking Skills|高阶思维]]教学的奠基石。由美国哲学学会（[[APA Style|APA]]）于 1988–1989 年发起，Peter A. Facione (1990) 担任首席研究员，联合 46 位国际顶尖学者（涵盖哲学、教育学、心理学与物理学领域的代表人物，如 [[Robert Ennis]]、Matthew Lipman、Richard Paul、Harvey Siegel、John McPeck 等）通过多轮[[Delphi Technique|德尔菲法]]历时两年完成，成为后续所有重大实证综述（如 [[Argument_Abrami_2015_RER|Abrami et al., 2008, 2015]]）的金标准。
 
 > [!claim] 核心主张
 > 批判性思维是一种有目的的、自我调节的判断过程；它展现为**解释、分析、评价、推论、说明和自我调节**六大核心认知技能，并由**追求真理、思想开放、审慎分析、系统条理、思维自信、探究好奇与认知成熟**七大情意倾向所驱动；认知技能与情意倾向共同构成了理性公民与[[Lifelong Learning|终身学习]]者的双元支柱。[[Argument_Abrami_2015_RER|(Abrami et al., 2015, pp. 277–278)]]
@@ -154,7 +155,7 @@ flowchart TD
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] — 全文以 APA 德尔菲专家共识为理论基底与[[Variable|变量]][[Coding in Qualitative Research|编码]]标准，量化检验了德尔菲技能与倾向的教学成效。
+> - [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] — 全文以 [[APA Style|APA]] 德尔菲专家共识为理论基底与[[Variable|变量]][[Coding in Qualitative Research|编码]]标准，量化检验了德尔菲技能与倾向的教学成效。
 > - [[Critical Thinking Disposition]] — 深入阐述德尔菲情意倾向维度的理论机制与[[Meta-analysis|元分析]]数据。
 > - [[California Critical Thinking Disposition Inventory]] — 基于德尔菲七维度开发的经典测量工具。
 > - [[Peter Facione]] — 德尔菲报告首席专家的人物档案。

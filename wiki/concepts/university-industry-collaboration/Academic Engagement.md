@@ -23,7 +23,6 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Student Engagement]]"
   - "[[Homework]]"
-  - "[[Analytic Framework]]"
   - "[[Social Engagement]]"
   - "[[Academic Achievement]]"
   - "[[Operationalization]]"
@@ -44,6 +43,7 @@ related_concepts:
   - "[[Innovation Park]]"
 related_theories: []
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Triangulation]]"
   - "[[Systematic Review]]"
 related_persons:

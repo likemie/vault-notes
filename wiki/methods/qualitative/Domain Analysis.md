@@ -29,9 +29,6 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Reliability]]"
   - "[[Attrition]]"
-  - "[[Transcription in Qualitative Research]]"
-  - "[[Qualitative Codebook]]"
-  - "[[Audit Trail]]"
 related_theories:
   - "[[Ethnomethodology]]"
 related_methods:
@@ -48,9 +45,12 @@ related_methods:
   - "[[Case Study]]"
   - "[[Qualitative Computer Software]]"
   - "[[Narrative Analysis]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Field Notes]]"
   - "[[Accounts]]"
   - "[[Grounded Theory]]"
+  - "[[Qualitative Codebook]]"
+  - "[[Audit Trail]]"
 related_persons:
   - "[[Louis Cohen]]"
 related_facts: []

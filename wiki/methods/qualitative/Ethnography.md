@@ -41,7 +41,6 @@ related_concepts:
   - "[[Informed Consent]]"
   - "[[Covert Research]]"
   - "[[Document]]"
-  - "[[Analytic Framework]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Reactivity in Qualitative Research]]"
   - "[[Hawthorne Effect]]"
@@ -51,7 +50,6 @@ related_concepts:
   - "[[Paradigm]]"
 related_theories:
   - "[[Phenomenology]]"
-  - "[[Critical Ethnography]]"
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Qualitative Interview]]"
@@ -60,6 +58,7 @@ related_methods:
   - "[[Triangulation]]"
   - "[[Effect Size]]"
   - "[[Case Study]]"
+  - "[[Critical Ethnography]]"
   - "[[Autoethnography]]"
   - "[[Non-participant Observation]]"
   - "[[Field Notes]]"
@@ -72,6 +71,7 @@ related_methods:
   - "[[Snowball Sampling]]"
   - "[[In-depth Interview]]"
   - "[[Fieldwork]]"
+  - "[[Analytic Framework]]"
   - "[[Experimental Research]]"
   - "[[Member Checking]]"
   - "[[Grounded Theory]]"

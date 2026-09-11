@@ -19,13 +19,13 @@ tags:
   - method/survey
   - theme/innovation-measurement
 related_concepts:
-  - "[[Questionnaire]]"
   - "[[Assemblage]]"
   - "[[Hypothesis]]"
   - "[[Variable]]"
 related_theories:
   - "[[Pavitt Taxonomy]]"
 related_methods:
+  - "[[Questionnaire]]"
   - "[[Stratified Sampling]]"
 related_persons: []
 related_facts:

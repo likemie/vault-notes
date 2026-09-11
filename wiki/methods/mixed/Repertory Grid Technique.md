@@ -28,16 +28,16 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Hypothesis]]"
   - "[[Causality]]"
-  - "[[Pre-test and Post-test]]"
-  - "[[Questionnaire]]"
-  - "[[Analytic Framework]]"
   - "[[Research Purpose]]"
   - "[[Halo Effect]]"
 related_methods:
   - "[[Case Study]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Mixed Methods Research]]"
+  - "[[Questionnaire]]"
   - "[[Laddering]]"
   - "[[Pyramiding]]"
+  - "[[Analytic Framework]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25]]"
 confidence: medium

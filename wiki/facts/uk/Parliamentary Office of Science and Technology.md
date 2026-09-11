@@ -25,10 +25,10 @@ related_concepts:
   - "[[Scientific Literacy]]"
   - "[[Reliability]]"
   - "[[Scientific Uncertainty]]"
-  - "[[Questionnaire]]"
 related_theories: []
 related_methods:
   - "[[Survey Research]]"
+  - "[[Questionnaire]]"
 related_instruments: []
 related_persons: []
 related_facts:

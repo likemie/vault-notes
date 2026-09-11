@@ -17,10 +17,10 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Unit of Analysis]]"
-  - "[[Sample Size Determination]]"
 related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
+  - "[[Sample Size Determination]]"
   - "[[Sequential Mixed Methods Sampling]]"
 related_persons: []
 related_facts: []

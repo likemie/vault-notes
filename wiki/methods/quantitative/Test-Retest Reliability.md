@@ -25,12 +25,12 @@ related_concepts:
   - "[[Order Effects]]"
   - "[[Variable]]"
   - "[[Hypothesis]]"
-  - "[[Questionnaire]]"
 related_theories: []
 related_methods:
   - "[[Internal Consistency]]"
   - "[[Inter-Rater Reliability]]"
   - "[[Pearson Product-Moment Correlation]]"
+  - "[[Questionnaire]]"
 related_persons: []
 related_facts: []
 related_arguments:

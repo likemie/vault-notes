@@ -31,19 +31,19 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Ecological Validity]]"
   - "[[Creativity Assessment]]"
-  - "[[Blinding]]"
   - "[[Divergent Thinking]]"
   - "[[Domain Specificity]]"
   - "[[Construct]]"
   - "[[Reliability]]"
-  - "[[Confidence Interval]]"
   - "[[Critical Thinking]]"
 related_theories: []
 related_methods:
   - "[[Inter-Rater Reliability]]"
+  - "[[Blinding]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Effect Size]]"
   - "[[Meta-analysis]]"
+  - "[[Confidence Interval]]"
 related_instruments:
   - "[[Torrance Tests of Creative Thinking]]"
   - "[[Remote Associates Test]]"

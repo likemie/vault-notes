@@ -19,7 +19,6 @@ tags:
 related_concepts:
   - "[[Theory of Knowledge]]"
   - "[[Areas of Knowledge]]"
-  - "[[Analytic Framework]]"
   - "[[Knowledge Framework]]"
   - "[[Critical Thinking]]"
   - "[[Hypothesis]]"
@@ -35,6 +34,7 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
 related_theories: []
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Domain Analysis]]"
 related_instruments: []
 related_persons:

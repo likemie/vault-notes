@@ -30,7 +30,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Source of Knowledge]]"
   - "[[Epistemic Stances]]"
-  - "[[Analytic Framework]]"
   - "[[Hypothesis]]"
   - "[[Interaction Effect]]"
 related_theories:
@@ -38,6 +37,7 @@ related_theories:
   - "[[Technological Trajectories]]"
 related_methods:
   - "[[Descriptive Analysis]]"
+  - "[[Analytic Framework]]"
 related_persons: []
 related_facts: []
 related_arguments: []

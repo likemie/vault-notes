@@ -15,14 +15,14 @@ tags: []
 related_concepts:
   - "[[Variable]]"
   - "[[Hypothesis]]"
-  - "[[Questionnaire]]"
   - "[[Construct]]"
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
-  - "[[Sample Size Determination]]"
   - "[[Simplicity of Knowledge]]"
 related_theories: []
 related_methods:
+  - "[[Questionnaire]]"
+  - "[[Sample Size Determination]]"
   - "[[Scale Development]]"
   - "[[Confirmatory Factor Analysis]]"
   - "[[KMO and Bartlett's Test of Sphericity]]"

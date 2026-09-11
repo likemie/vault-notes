@@ -37,7 +37,6 @@ related_concepts:
   - "[[Auslandspadagogik]]"
   - "[[Educational Meliorism]]"
   - "[[Paradigm]]"
-  - "[[Questionnaire]]"
   - "[[Positivism]]"
   - "[[Document]]"
   - "[[Faculty Psychology]]"
@@ -74,6 +73,7 @@ related_concepts:
   - "[[Proto-Scientific Motif]]"
 related_theories: []
 related_methods:
+  - "[[Questionnaire]]"
   - "[[Survey Research]]"
   - "[[Ethnography]]"
 related_instruments: []

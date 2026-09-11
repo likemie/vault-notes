@@ -25,10 +25,8 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Constructivist Paradigm]]"
   - "[[Paradigm]]"
-  - "[[Analytic Framework]]"
   - "[[Reliability]]"
   - "[[Rich and Thick Description]]"
-  - "[[Intercoder Agreement]]"
   - "[[Transfer Translation Transformation]]"
 related_theories:
   - "[[Critical Theory]]"
@@ -37,7 +35,9 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Content Analysis]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Analytic Framework]]"
   - "[[Triangulation]]"
+  - "[[Intercoder Agreement]]"
   - "[[Website Content Analysis]]"
 related_arguments:
   - "[[Argument_Xu_2024_CE]]"

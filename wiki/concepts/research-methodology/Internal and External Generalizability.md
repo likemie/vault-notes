@@ -19,13 +19,13 @@ tags:
 related_concepts:
   - "[[External Validity]]"
   - "[[Naturalistic Generalization]]"
-  - "[[Sample Size Determination]]"
   - "[[Rich and Thick Description]]"
   - "[[Saturation]]"
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Quantitative Research]]"
+  - "[[Sample Size Determination]]"
 related_persons: []
 related_facts: []
 related_arguments:

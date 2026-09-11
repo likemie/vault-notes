@@ -17,7 +17,6 @@ tags:
 related_concepts:
   - "[[Rote Learning]]"
   - "[[Scaffolding]]"
-  - "[[Analytic Framework]]"
   - "[[Epistemology]]"
   - "[[Research Question]]"
   - "[[Metacognition]]"
@@ -32,6 +31,7 @@ related_theories:
   - "[[Toulmin's Argumentation Model]]"
   - "[[AIR Model of Epistemic Cognition]]"
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Qualitative Observation]]"
   - "[[Coding in Qualitative Research]]"
 related_instruments: []

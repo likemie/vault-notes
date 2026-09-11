@@ -26,7 +26,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Hypothesis]]"
   - "[[Second-generation Ethnic Policy]]"
-  - "[[Analytic Framework]]"
   - "[[Sinicisation]]"
   - "[[Symbolic Boundary]]"
   - "[[Cultural Disembedding]]"
@@ -36,6 +35,7 @@ related_concepts:
   - "[[Retrotopia]]"
 related_theories: []
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Discourse Analysis]]"
 related_persons:
   - "[[Fei Xiaotong]]"

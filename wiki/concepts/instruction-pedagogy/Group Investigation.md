@@ -30,13 +30,13 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Rote Learning]]"
   - "[[Problem Finding]]"
-  - "[[Confidence Interval]]"
   - "[[Heterogeneity]]"
 related_theories: []
 related_methods:
   - "[[Survey Research]]"
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
+  - "[[Confidence Interval]]"
   - "[[Effect Size]]"
 related_instruments: []
 related_persons:

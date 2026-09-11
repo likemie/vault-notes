@@ -20,12 +20,12 @@ tags:
 related_concepts:
   - "[[Further Education]]"
   - "[[Corporate University]]"
-  - "[[Analytic Framework]]"
 related_theories:
   - "[[Cultural Political Economy]]"
   - "[[Varieties of Capitalism]]"
   - "[[Institutional Isomorphism]]"
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons: []
 related_facts:
   - "[[German Dual Education System]]"

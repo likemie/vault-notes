@@ -30,7 +30,6 @@ related_concepts:
   - "[[Space of Flows and Space of Places]]"
   - "[[Governance by Spin]]"
   - "[[Performativity]]"
-  - "[[Analytic Framework]]"
   - "[[Hypothesis]]"
   - "[[Praxis]]"
   - "[[Pragmatism in China]]"
@@ -52,6 +51,7 @@ related_theories:
   - "[[Postmodernism]]"
   - "[[Bloom's Taxonomy]]"
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Qualitative Interview]]"
 related_persons:
   - "[[Manuel Castells]]"

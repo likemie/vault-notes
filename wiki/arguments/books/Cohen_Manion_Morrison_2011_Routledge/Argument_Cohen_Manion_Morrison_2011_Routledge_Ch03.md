@@ -53,12 +53,12 @@ related_concepts:
   - "[[Research Problem]]"
   - "[[Dialogue in Education]]"
   - "[[Growth]]"
-  - "[[Confidence Interval]]"
   - "[[Positivism]]"
 related_theories: []
 related_methods:
   - "[[Action Research]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Confidence Interval]]"
 related_persons: []
 related_facts: []
 related_arguments: []

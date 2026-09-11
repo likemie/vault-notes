@@ -38,7 +38,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Document]]"
   - "[[Deficit Framing]]"
-  - "[[Questionnaire]]"
   - "[[Teacher Knowledge Base]]"
   - "[[Professional Judgment]]"
   - "[[Problem Finding]]"
@@ -62,6 +61,7 @@ related_concepts:
 related_theories:
   - "[[Four Generations of Research Use]]"
 related_methods:
+  - "[[Questionnaire]]"
   - "[[Systematic Review]]"
   - "[[PRISMA]]"
   - "[[Critical Review]]"

@@ -41,7 +41,6 @@ related_concepts:
   - "[[Junzi]]"
   - "[[Empiricism]]"
   - "[[Axiology]]"
-  - "[[Analytic Framework]]"
   - "[[Technology Transfer]]"
   - "[[Chain of Evidence]]"
   - "[[Economic and Industrial Espionage]]"
@@ -56,7 +55,8 @@ related_theories:
   - "[[Decolonial Geopolitics of Knowledge]]"
   - "[[Network Society]]"
   - "[[Van Leeuwen's Legitimation Theory]]"
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons:
   - "[[Chen Kuan-Hsing]]"
   - "[[Plato]]"

@@ -23,23 +23,23 @@ tags:
   - online
   - data-collection
 related_concepts:
-  - "[[Questionnaire]]"
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Positivism]]"
   - "[[Variable]]"
   - "[[Sensitive Research]]"
   - "[[Informed Consent]]"
-  - "[[Sensitive Questions]]"
   - "[[Study Population and Sample]]"
   - "[[Causality]]"
-  - "[[Sampling Frame]]"
 related_methods:
+  - "[[Questionnaire]]"
   - "[[Trend Study]]"
   - "[[Internal Consistency]]"
   - "[[Cross-checking]]"
+  - "[[Sensitive Questions]]"
   - "[[Random Sampling]]"
   - "[[Experimental Research]]"
+  - "[[Sampling Frame]]"
   - "[[Quota Sampling]]"
   - "[[Stratified Sampling]]"
   - "[[Survey Research]]"

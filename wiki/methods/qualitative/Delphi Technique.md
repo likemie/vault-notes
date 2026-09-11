@@ -18,12 +18,12 @@ tags:
   - method/action-research
   - consensus-building
 related_concepts:
-  - "[[Questionnaire]]"
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Attrition]]"
 related_methods:
   - "[[Nominal Group Technique]]"
+  - "[[Questionnaire]]"
   - "[[Action Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18]]"

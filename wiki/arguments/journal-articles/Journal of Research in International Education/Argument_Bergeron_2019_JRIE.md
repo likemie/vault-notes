@@ -23,11 +23,9 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Reflexivity]]"
   - "[[Variable]]"
-  - "[[Questionnaire]]"
   - "[[Class Size]]"
   - "[[Reliability]]"
   - "[[Devil's Advocate]]"
-  - "[[Sensitive Questions]]"
   - "[[Metacognition]]"
   - "[[Areas of Knowledge]]"
   - "[[Ways of Knowing]]"
@@ -42,12 +40,14 @@ related_theories:
 related_methods:
   - "[[Explanatory Sequential Design]]"
   - "[[Mixed Methods Research]]"
+  - "[[Questionnaire]]"
   - "[[Analysis of Variance]]"
   - "[[Trend Study]]"
   - "[[Focus Group]]"
   - "[[Group Interview]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Internal Consistency]]"
+  - "[[Sensitive Questions]]"
 related_instruments:
   - "[[Confidence Teaching TOK Scale]]"
 related_persons: []

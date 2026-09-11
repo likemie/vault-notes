@@ -24,9 +24,9 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Total Factor Productivity]]"
   - "[[Absorptive Capacity]]"
-  - "[[Analytic Framework]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons: []
 related_facts:
   - "[[US-China Economic and Security Review Commission]]"

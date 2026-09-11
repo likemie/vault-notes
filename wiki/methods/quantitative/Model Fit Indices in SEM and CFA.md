@@ -29,14 +29,14 @@ related_concepts:
   - "[[Variable]]"
   - "[[Construct Validity]]"
   - "[[Unit of Analysis]]"
-  - "[[Confidence Interval]]"
-  - "[[Sample Size Determination]]"
   - "[[Research Literacy]]"
 related_theories: []
 related_methods:
   - "[[Confirmatory Factor Analysis]]"
   - "[[Causal Modeling]]"
   - "[[Measurement Invariance]]"
+  - "[[Confidence Interval]]"
+  - "[[Sample Size Determination]]"
   - "[[Scale Development]]"
 related_instruments: []
 related_persons: []

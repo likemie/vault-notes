@@ -22,7 +22,6 @@ tags:
   - field/research-methodology
 related_concepts:
   - "[[Variable]]"
-  - "[[Sample Size Determination]]"
   - "[[Scale of Measurement]]"
   - "[[Unit of Analysis]]"
   - "[[Sampling Error]]"
@@ -33,6 +32,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Pearson Product-Moment Correlation]]"
   - "[[Descriptive Analysis]]"
+  - "[[Sample Size Determination]]"
   - "[[Meta-regression]]"
   - "[[Standard Error]]"
   - "[[Inverse-Variance Weighting]]"

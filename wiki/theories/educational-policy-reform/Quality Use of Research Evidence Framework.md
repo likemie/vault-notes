@@ -19,7 +19,6 @@ tags:
 related_concepts:
   - "[[Research Utilization]]"
   - "[[Document]]"
-  - "[[Analytic Framework]]"
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
   - "[[Reliability]]"
   - "[[Research Literacy]]"
@@ -33,6 +32,7 @@ related_concepts:
   - "[[Operationalization]]"
 related_theories: []
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Systematic Review]]"
   - "[[Framework Synthesis]]"
   - "[[Coding in Qualitative Research]]"

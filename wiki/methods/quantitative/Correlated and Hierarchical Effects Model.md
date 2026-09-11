@@ -26,7 +26,6 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Creativity]]"
   - "[[Construct]]"
-  - "[[Sample Size Determination]]"
   - "[[Primary and Secondary Documents]]"
 related_methods:
   - "[[Meta-analysis]]"
@@ -34,6 +33,7 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Accounts]]"
   - "[[Robust Variance Estimation]]"
+  - "[[Sample Size Determination]]"
   - "[[Random Sampling]]"
   - "[[Standard Error]]"
   - "[[Multilevel Egger's Test]]"

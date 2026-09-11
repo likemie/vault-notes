@@ -16,7 +16,6 @@ tags:
   - source/edited-volume
 related_concepts:
   - "[[Research Question]]"
-  - "[[Analytic Framework]]"
   - "[[Cultural Diplomacy]]"
   - "[[Soft Power]]"
   - "[[Internationalization of Higher Education]]"
@@ -26,6 +25,7 @@ related_concepts:
 related_theories:
   - "[[Cultural Political Economy]]"
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Comparative Case Study]]"
   - "[[Case Study]]"
   - "[[Discourse Analysis]]"

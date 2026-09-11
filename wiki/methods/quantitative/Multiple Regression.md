@@ -23,7 +23,6 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Research Question]]"
   - "[[Heterogeneity]]"
-  - "[[Sample Size Determination]]"
   - "[[Simplicity of Knowledge]]"
   - "[[Academic Achievement]]"
   - "[[Task Structure]]"
@@ -34,6 +33,7 @@ related_methods:
   - "[[Analysis of Variance]]"
   - "[[Analysis of Covariance]]"
   - "[[Survey Research]]"
+  - "[[Sample Size Determination]]"
 related_persons: []
 related_facts: []
 related_arguments:

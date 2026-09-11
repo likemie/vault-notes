@@ -23,7 +23,6 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Variable]]"
-  - "[[Questionnaire]]"
   - "[[Content Validity]]"
   - "[[Reliability]]"
   - "[[Construct]]"
@@ -33,6 +32,7 @@ related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
   - "[[In-depth Interview]]"
+  - "[[Questionnaire]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Explanatory Sequential Design]]"
   - "[[Joint Display]]"

@@ -20,12 +20,12 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[External Validity]]"
   - "[[Deductive Disclosure]]"
-  - "[[Questionnaire]]"
-  - "[[Pre-test and Post-test]]"
   - "[[Research Topic]]"
   - "[[Reliability]]"
   - "[[Sensitive Research]]"
 related_methods:
+  - "[[Questionnaire]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Qualitative Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"

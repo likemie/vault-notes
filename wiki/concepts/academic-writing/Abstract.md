@@ -4,7 +4,7 @@ aliases: ["文献摘要", "研究摘要", "abstracting studies", "literature abs
 summary: "学术写作中两种功能不同的文本类型：文献综述中加工研究文献的短段落（文献摘要），以及置于研究方案或论文开篇的全文概述（研究摘要），后者包含研究问题、数据来源、方法、发现和结论五个核心组成部分"
 type: concept
 domain: "academic-writing"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -17,14 +17,15 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Research Purpose]]"
   - "[[Champ]]"
+  - "[[APA Style]]"
   - "[[Research Scope]]"
-  - "[[Sample Size Determination]]"
-  - "[[Confidence Interval]]"
   - "[[Self-Efficacy]]"
 related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
+  - "[[Sample Size Determination]]"
   - "[[Effect Size]]"
+  - "[[Confidence Interval]]"
   - "[[Statistical Significance]]"
   - "[[Qualitative Research]]"
   - "[[Literature Map]]"

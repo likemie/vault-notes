@@ -15,7 +15,6 @@ tags:
   - theme/validity
   - paradigm/qualitative
 related_concepts:
-  - "[[Questionnaire]]"
   - "[[Hypothesis]]"
   - "[[External Validity]]"
   - "[[Internal Validity]]"
@@ -28,6 +27,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23]]"
 related_methods:
+  - "[[Questionnaire]]"
   - "[[Random Sampling]]"
   - "[[Random Assignment]]"
   - "[[Internet-Based Experiments]]"

@@ -33,7 +33,6 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Operationalization]]"
   - "[[Democratic Education]]"
-  - "[[Analytic Framework]]"
   - "[[National Character]]"
   - "[[Educational Meliorism]]"
   - "[[Falsification]]"
@@ -42,6 +41,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Ethnography]]"
+  - "[[Analytic Framework]]"
   - "[[Historical-Comparative Method]]"
 related_instruments: []
 related_persons:

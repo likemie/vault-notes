@@ -18,11 +18,11 @@ tags:
   - mixed-methods
 related_concepts:
   - "[[Integration in Mixed Methods]]"
-  - "[[Questionnaire]]"
   - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
+  - "[[Questionnaire]]"
   - "[[In-depth Interview]]"
 related_persons: []
 related_facts: []

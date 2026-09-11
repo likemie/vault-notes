@@ -8,7 +8,7 @@ summary: "美国著名教育哲学家与批判性思维研究先驱，伊利诺�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 11
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Reflective Thinking]]"
   - "[[Reflexivity]]"
   - "[[Paradigm]]"
+  - "[[APA Style]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Domain Specificity]]"
 related_theories:
@@ -73,7 +74,7 @@ updated: 2026-09-11
 > - **1927** 出生于美国。
 > - **1958** 获得密歇根大学哲学博士学位，随后任教于康奈尔大学（Cornell University），主持[[Critical Thinking|批判性思维]]项目与测试开发。
 > - **1970–2000s** 长期任教于伊利诺伊大学厄巴纳-香槟分校（UIUC），创立哲学与教育跨学科[[Paradigm|研究范式]]。
-> - **1980s** 深度参与美国哲学学会（APA）Delphi 批判性思维专家共识委员会，与 [[Peter Facione]] 等共同制定划时代报告。
+> - **1980s** 深度参与美国哲学学会（[[APA Style|APA]]）Delphi 批判性思维专家共识委员会，与 [[Peter Facione]] 等共同制定划时代报告。
 > - **1989** 发表《Critical Thinking and Subject Specificity》，系统提出批判性思维课程分类四分法框架。
 > - **2021** 逝世，留下深远影响当代国际[[Higher-Order Thinking Skills|高阶思维]]教学的学术遗产。
 

@@ -18,13 +18,13 @@ tags:
   - quantitative-research
 related_concepts:
   - "[[Unit of Analysis]]"
-  - "[[Sample Size Determination]]"
   - "[[Variable]]"
   - "[[Research Question]]"
 related_theories: []
 related_methods:
   - "[[Random Sampling]]"
   - "[[Random Assignment]]"
+  - "[[Sample Size Determination]]"
 related_persons: []
 related_facts: []
 related_arguments:

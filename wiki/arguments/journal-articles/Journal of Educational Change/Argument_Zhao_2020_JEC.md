@@ -28,12 +28,12 @@ related_concepts:
   - "[[Construct]]"
   - "[[Hypothesis]]"
   - "[[Problem Solving]]"
-  - "[[Sampling Frame]]"
   - "[[Humility in Learning]]"
   - "[[Creativity]]"
 related_theories: []
 related_methods:
   - "[[Pilot Testing]]"
+  - "[[Sampling Frame]]"
   - "[[Rasch Measurement]]"
 related_persons:
   - "[[Yong Zhao]]"

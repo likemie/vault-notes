@@ -25,13 +25,13 @@ tags:
   - "instrument/questionnaire"
   - "theme/epistemological-beliefs"
 related_concepts:
-  - "[[Questionnaire]]"
   - "[[Epistemological Beliefs]]"
   - "[[Simplicity of Knowledge]]"
   - "[[Academic Achievement]]"
   - "[[Document]]"
   - "[[Epistemology]]"
 related_methods:
+  - "[[Questionnaire]]"
   - "[[Exploratory Factor Analysis]]"
   - "[[Descriptive Analysis]]"
 related_arguments:

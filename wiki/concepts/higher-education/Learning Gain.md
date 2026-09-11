@@ -25,7 +25,6 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Creativity]]"
   - "[[Problem Solving]]"
-  - "[[Pre-test and Post-test]]"
   - "[[Growth]]"
   - "[[Incommensurability]]"
   - "[[Going Native]]"
@@ -36,6 +35,7 @@ related_concepts:
   - "[[Attrition]]"
 related_theories: []
 related_methods:
+  - "[[Pre-test and Post-test]]"
   - "[[Triangulation]]"
 related_instruments:
   - "[[Collegiate Learning Assessment]]"

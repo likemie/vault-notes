@@ -25,7 +25,6 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Research Question]]"
   - "[[Internal Validity]]"
-  - "[[Questionnaire]]"
   - "[[Typification]]"
 related_theories: []
 related_methods:
@@ -33,6 +32,7 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Triangulation]]"
+  - "[[Questionnaire]]"
   - "[[In-depth Interview]]"
 related_persons: []
 related_arguments:

@@ -9,7 +9,7 @@ aliases:
 summary: "将测量工具的结果与公认有效的外部标准进行统计关联以确立测量有效性的方法学体系，涵盖预测效度与共时效度两大支柱，核心挑战在于效标问题与效标污染控制"
 type: concept
 domain: "research-methodology"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -38,14 +38,15 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Operationalization]]"
   - "[[Divergent Thinking]]"
+  - "[[APA Style]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Chain of Evidence]]"
-  - "[[Confidence Interval]]"
 related_methods:
   - "[[Triangulation]]"
   - "[[Effect Size]]"
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
+  - "[[Confidence Interval]]"
 related_persons:
   - "[[Mark A. Runco]]"
 related_arguments:
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-23
-updated: 2026-08-24
+updated: 2026-09-11
 ---
 
 # Criterion-related Validity

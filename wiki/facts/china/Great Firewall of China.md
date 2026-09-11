@@ -22,9 +22,9 @@ tags:
 related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge Transfer]]"
-  - "[[Analytic Framework]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons: []
 related_facts:
   - "[[China Social Credit System]]"

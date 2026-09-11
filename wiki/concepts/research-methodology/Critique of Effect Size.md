@@ -22,7 +22,6 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Document]]"
   - "[[Hypothesis]]"
-  - "[[Pre-test and Post-test]]"
   - "[[Visible Learning]]"
   - "[[Creativity]]"
   - "[[Creativity Assessment]]"
@@ -34,7 +33,6 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Critique of Evidence-Based Education]]"
   - "[[Material Fallacies]]"
-  - "[[Sample Size Determination]]"
   - "[[Publication Bias]]"
 related_theories:
   - "[[Dynamic Knowledge and Learning Model]]"
@@ -45,9 +43,11 @@ related_methods:
   - "[[Standard Error]]"
   - "[[Random Assignment]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Intervention Research]]"
   - "[[Effect Size Conversion]]"
+  - "[[Sample Size Determination]]"
 related_persons:
   - "[[Lars Qvortrup]]"
   - "[[Gene Glass]]"

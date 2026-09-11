@@ -21,16 +21,16 @@ tags:
 related_concepts:
   - "[[Internal Validity]]"
   - "[[Variable]]"
-  - "[[Questionnaire]]"
   - "[[Champ]]"
-  - "[[Rating Scale]]"
   - "[[Reliability]]"
-  - "[[Contingency Questions]]"
 related_methods:
   - "[[Repeated Measures Design]]"
+  - "[[Questionnaire]]"
   - "[[Random Assignment]]"
   - "[[Pilot Testing]]"
+  - "[[Rating Scale]]"
   - "[[Telephone Interview]]"
+  - "[[Contingency Questions]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"

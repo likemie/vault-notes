@@ -16,7 +16,6 @@ tags:
 - geopolitics
 - theory/critical
 related_concepts:
-  - "[[Analytic Framework]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Hub and Flow Imaginaries]]"
@@ -29,6 +28,7 @@ related_theories:
   - "[[Post-structuralism]]"
   - "[[Critical Realism]]"
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Discourse Analysis]]"
   - "[[Comparative Case Study]]"
 related_persons: []

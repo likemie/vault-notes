@@ -45,7 +45,6 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[External Validity]]"
   - "[[Research Scope]]"
-  - "[[Sample Size Determination]]"
   - "[[International Education]]"
   - "[[Professional Judgment]]"
   - "[[Language Skills]]"
@@ -63,6 +62,7 @@ related_theories: []
 related_methods:
   - "[[Action Research]]"
   - "[[Statistical Significance]]"
+  - "[[Sample Size Determination]]"
   - "[[Random Sampling]]"
 related_instruments: []
 related_persons:

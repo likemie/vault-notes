@@ -18,7 +18,6 @@ tags:
 related_concepts:
   - "[[Hypothesis]]"
   - "[[Scientific Uncertainty]]"
-  - "[[Confidence Interval]]"
   - "[[Scientific Literacy]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Generative Artificial Intelligence]]"
@@ -33,6 +32,7 @@ related_concepts:
   - "[[Gatekeepers]]"
 related_theories: []
 related_methods:
+  - "[[Confidence Interval]]"
   - "[[Observation Method]]"
   - "[[Mixed Methods Research]]"
   - "[[Effect Size]]"

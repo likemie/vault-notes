@@ -20,27 +20,27 @@ tags:
   - method/publication-bias
   - statistics/multilevel-modeling
 related_concepts:
-  - "[[Small Study Effects]]"
   - "[[Publication Bias]]"
   - "[[Variable]]"
   - "[[Unit of Analysis]]"
-  - "[[Confidence Interval]]"
-  - "[[Funnel Plot]]"
   - "[[Hypothesis]]"
   - "[[Research Contribution]]"
-  - "[[Sample Size Determination]]"
   - "[[Sampling Error]]"
   - "[[Heterogeneity]]"
 related_methods:
   - "[[Egger Regression Test]]"
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
+  - "[[Small Study Effects]]"
   - "[[Standard Error]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Effect Size]]"
+  - "[[Confidence Interval]]"
+  - "[[Funnel Plot]]"
   - "[[Trim and Fill Method]]"
   - "[[Robust Variance Estimation]]"
   - "[[Meta-regression]]"
+  - "[[Sample Size Determination]]"
   - "[[Correlated and Hierarchical Effects Model]]"
 related_arguments:
   - "[[Argument_Runco_2026_CRJ]]"

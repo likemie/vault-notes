@@ -25,7 +25,6 @@ related_concepts:
   - "[[Counterfactual]]"
   - "[[Theories of Policy Change]]"
   - "[[Unit of Analysis]]"
-  - "[[Pre-test and Post-test]]"
   - "[[Causality]]"
   - "[[Epistemology]]"
   - "[[Postpositivism]]"
@@ -39,6 +38,7 @@ related_theories:
 related_methods:
   - "[[Quasi-Experimental Designs]]"
   - "[[Standard Error]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Random Assignment]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Single-Case Design]]"

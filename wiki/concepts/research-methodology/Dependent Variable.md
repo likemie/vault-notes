@@ -23,13 +23,11 @@ tags:
 related_concepts:
   - "[[Variable]]"
   - "[[Independent Variable]]"
-  - "[[Pre-test and Post-test]]"
   - "[[Causality]]"
   - "[[Construct]]"
   - "[[Operationalization]]"
   - "[[Definition of Terms]]"
   - "[[Hypothesis]]"
-  - "[[Analytic Framework]]"
   - "[[Internal Validity]]"
   - "[[Reliability]]"
   - "[[External Validity]]"
@@ -37,7 +35,9 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Ex Post Facto Research]]"
+  - "[[Analytic Framework]]"
   - "[[Pretest-Posttest Control Group Design]]"
   - "[[Factorial Design]]"
 related_persons: []

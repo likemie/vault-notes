@@ -16,13 +16,9 @@ tags:
   - research-methodology
   - data-analysis
 related_concepts:
-  - "[[Transcription in Qualitative Research]]"
-  - "[[Questionnaire]]"
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Reflexivity]]"
-  - "[[Memos]]"
-  - "[[Audit Trail]]"
   - "[[Rich and Thick Description]]"
   - "[[Research Purpose]]"
   - "[[Reliability]]"
@@ -34,14 +30,14 @@ related_concepts:
   - "[[Presence]]"
   - "[[Incubation]]"
   - "[[Emergence]]"
-  - "[[Intercoder Agreement]]"
-  - "[[Data Reduction]]"
-  - "[[Data Display]]"
-  - "[[Winnowing]]"
 related_theories: []
 related_methods:
+  - "[[Transcription in Qualitative Research]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Questionnaire]]"
   - "[[Grounded Theory]]"
+  - "[[Memos]]"
+  - "[[Audit Trail]]"
   - "[[Mixed Methods Research]]"
   - "[[Open Coding]]"
   - "[[Axial Coding]]"
@@ -55,9 +51,13 @@ related_methods:
   - "[[Narrative Analysis]]"
   - "[[Discourse Analysis]]"
   - "[[Ethnography]]"
+  - "[[Intercoder Agreement]]"
+  - "[[Data Reduction]]"
+  - "[[Data Display]]"
   - "[[Constant Comparison]]"
   - "[[Typological Analysis]]"
   - "[[Observation Method]]"
+  - "[[Winnowing]]"
 related_instruments: []
 related_persons: []
 related_facts: []

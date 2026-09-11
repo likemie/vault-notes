@@ -32,7 +32,6 @@ related_concepts:
   - "[[Document]]"
   - "[[What Works Movement]]"
   - "[[Knowledge Production]]"
-  - "[[Analytic Framework]]"
   - "[[Epistemology]]"
   - "[[Determinism]]"
   - "[[Learner Autonomy]]"
@@ -49,6 +48,7 @@ related_theories:
   - "[[Bacchi's WPR Approach]]"
   - "[[Cognitive Load Theory]]"
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Quantitative Research]]"
 related_persons:
   - "[[Lev Vygotsky]]"

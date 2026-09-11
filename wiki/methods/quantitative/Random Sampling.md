@@ -21,7 +21,6 @@ tags:
   - quantitative-research
   - survey
 related_concepts:
-  - "[[Sampling Frame]]"
   - "[[Unit of Analysis]]"
   - "[[External Validity]]"
   - "[[Causality]]"
@@ -29,6 +28,7 @@ related_concepts:
   - "[[Response Bias]]"
 related_theories: []
 related_methods:
+  - "[[Sampling Frame]]"
   - "[[Systematic Sampling]]"
   - "[[Stratified Sampling]]"
   - "[[Cluster Sampling]]"

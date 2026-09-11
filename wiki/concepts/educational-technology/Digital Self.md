@@ -25,7 +25,6 @@ related_concepts:
   - "[[Online Self-Assessment]]"
   - "[[Artefact]]"
   - "[[Hypothesis]]"
-  - "[[Questionnaire]]"
   - "[[Language Skills]]"
   - "[[Document]]"
   - "[[Digital Optimum]]"
@@ -33,7 +32,8 @@ related_concepts:
   - "[[Learning Analytics]]"
 related_theories:
   - "[[Societies of Control]]"
-related_methods: []
+related_methods:
+  - "[[Questionnaire]]"
 related_persons: []
 related_facts: []
 related_arguments:

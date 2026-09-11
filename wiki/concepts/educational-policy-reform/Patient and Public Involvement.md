@@ -19,7 +19,6 @@ tags:
   - theme/health-research
   - theme/research-ethics
 related_concepts:
-  - "[[Questionnaire]]"
   - "[[Clinical Trial]]"
   - "[[Informed Consent]]"
   - "[[Dialogue in Education]]"
@@ -31,6 +30,7 @@ related_concepts:
   - "[[Going Native]]"
 related_theories: []
 related_methods:
+  - "[[Questionnaire]]"
   - "[[Participatory Research]]"
   - "[[Statistical Significance]]"
 related_instruments: []

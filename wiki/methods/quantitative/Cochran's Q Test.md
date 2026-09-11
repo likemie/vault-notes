@@ -23,12 +23,12 @@ related_concepts:
   - "[[Sampling Error]]"
   - "[[Heterogeneity]]"
   - "[[Alternative Hypothesis]]"
-  - "[[Sample Size Determination]]"
   - "[[Metainferences]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
+  - "[[Sample Size Determination]]"
   - "[[Between-Study Variance]]"
   - "[[I-squared Statistic]]"
 related_instruments: []

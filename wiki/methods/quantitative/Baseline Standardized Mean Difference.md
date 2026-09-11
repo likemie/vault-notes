@@ -22,13 +22,11 @@ tags:
   - meta-analysis
   - evidence-based-education
 related_concepts:
-  - "[[Pre-test and Post-test]]"
   - "[[Variable]]"
   - "[[Causality]]"
   - "[[Counterfactual]]"
   - "[[Effective Teaching]]"
   - "[[Unit of Analysis]]"
-  - "[[Sample Size Determination]]"
   - "[[Heterogeneity]]"
   - "[[Epistemology]]"
   - "[[Document]]"
@@ -45,7 +43,9 @@ related_theories:
 related_methods:
   - "[[Quasi-Experimental Designs]]"
   - "[[Meta-analysis]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Random Assignment]]"
+  - "[[Sample Size Determination]]"
   - "[[Analysis of Covariance]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Inverse-Variance Weighting]]"

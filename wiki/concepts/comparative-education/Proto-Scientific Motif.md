@@ -24,7 +24,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Epistemology]]"
   - "[[Positivism]]"
-  - "[[Questionnaire]]"
   - "[[Value Neutrality]]"
   - "[[Bildung]]"
   - "[[Perpetual Peace]]"
@@ -43,6 +42,7 @@ related_concepts:
   - "[[Document]]"
 related_theories: []
 related_methods:
+  - "[[Questionnaire]]"
   - "[[Multiple Regression]]"
 related_instruments: []
 related_persons:

@@ -5,7 +5,7 @@ summary: "Creswell 提出的文献组织工具，以层级结构、流程图或�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 9
+method_related_count: 10
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#fef3c7"
@@ -14,6 +14,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Literature Review]]"
   - "[[Research Topic]]"
+  - "[[APA Style]]"
   - "[[Variable]]"
   - "[[Recommendations for Practice]]"
 related_theories: []
@@ -28,7 +29,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-30
-updated: 2026-05-30
+updated: 2026-09-11
 ---
 
 # Literature Map

@@ -23,16 +23,16 @@ tags:
 related_concepts:
   - "[[Variable]]"
   - "[[Unit of Analysis]]"
-  - "[[Sample Size Determination]]"
   - "[[Null Hypothesis]]"
   - "[[Epistemological Beliefs]]"
-  - "[[Questionnaire]]"
   - "[[Epistemology]]"
 related_theories: []
 related_methods:
   - "[[Exploratory Factor Analysis]]"
   - "[[Pearson Product-Moment Correlation]]"
+  - "[[Sample Size Determination]]"
   - "[[Scale Development]]"
+  - "[[Questionnaire]]"
 related_instruments:
   - "[[Schommer's Modified Epistemological Questionnaire]]"
 related_persons: []

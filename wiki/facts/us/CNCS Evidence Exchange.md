@@ -24,7 +24,6 @@ tags:
 related_concepts:
   - "[[Intelligent Tutoring Systems]]"
   - "[[Internal Validity]]"
-  - "[[Pre-test and Post-test]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Paradigm]]"
   - "[[Evidence-Based Reform]]"
@@ -36,6 +35,7 @@ related_methods:
   - "[[Regression Discontinuity Design]]"
   - "[[Statistical Significance]]"
   - "[[Experimental Research]]"
+  - "[[Pre-test and Post-test]]"
 related_instruments: []
 related_persons: []
 related_facts:

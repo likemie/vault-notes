@@ -24,7 +24,6 @@ tags:
 related_concepts:
   - "[[Authentic Instruction]]"
   - "[[Critical Thinking]]"
-  - "[[Questionnaire]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Self-spectator]]"
   - "[[Classroom Debate]]"
@@ -36,6 +35,7 @@ related_concepts:
   - "[[Conflict of Interest in Research]]"
 related_theories: []
 related_methods:
+  - "[[Questionnaire]]"
   - "[[Qualitative Research]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Meta-analysis]]"

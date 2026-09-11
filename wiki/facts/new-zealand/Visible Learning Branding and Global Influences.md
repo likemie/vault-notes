@@ -35,7 +35,6 @@ related_concepts:
   - "[[Scientific Method]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Document]]"
-  - "[[Data Display]]"
   - "[[Direct Instruction]]"
   - "[[Evidence-Based Education]]"
   - "[[Problem Solving]]"
@@ -53,6 +52,7 @@ related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
+  - "[[Data Display]]"
 related_persons:
   - "[[John Hattie]]"
   - "[[Viviane Robinson]]"

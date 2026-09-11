@@ -25,7 +25,6 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Gatekeepers]]"
   - "[[Reflexivity]]"
-  - "[[Transcription in Qualitative Research]]"
   - "[[Hypothesis]]"
   - "[[Reliability]]"
   - "[[Educational Immunology]]"
@@ -34,8 +33,7 @@ related_concepts:
   - "[[Conflict of Interest in Research]]"
   - "[[Causality]]"
   - "[[Emic and Etic]]"
-related_theories:
-  - "[[Critical Ethnography]]"
+related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Ethnography]]"
@@ -43,6 +41,7 @@ related_methods:
   - "[[Case Study]]"
   - "[[Triangulation]]"
   - "[[Effect Size]]"
+  - "[[Critical Ethnography]]"
   - "[[Grounded Theory]]"
   - "[[Autoethnography]]"
   - "[[Non-participant Observation]]"
@@ -56,6 +55,7 @@ related_methods:
   - "[[Theoretical Sampling]]"
   - "[[Purposeful Sampling]]"
   - "[[Snowball Sampling]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Experimental Research]]"
   - "[[Observation Method]]"
 related_persons: []

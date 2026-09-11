@@ -21,7 +21,6 @@ related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Research Question]]"
   - "[[Variable]]"
-  - "[[Pre-test and Post-test]]"
   - "[[Evidence-Based Reform]]"
 related_theories: []
 related_methods:
@@ -29,6 +28,7 @@ related_methods:
   - "[[Longitudinal Study]]"
   - "[[Experimental Research]]"
   - "[[Content Analysis]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Random Assignment]]"

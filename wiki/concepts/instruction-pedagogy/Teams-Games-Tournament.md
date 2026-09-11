@@ -26,13 +26,13 @@ related_concepts:
   - "[[Growth]]"
   - "[[Self-Efficacy]]"
   - "[[Student Attitude]]"
-  - "[[Confidence Interval]]"
   - "[[Peer-Supported Learning]]"
   - "[[Academic Achievement]]"
 related_theories: []
 related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
+  - "[[Confidence Interval]]"
 related_instruments: []
 related_persons:
   - "[[Robert Slavin]]"

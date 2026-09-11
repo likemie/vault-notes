@@ -20,10 +20,10 @@ publication_place: "Auckland"
 tags: [region/new-zealand, source/book, theme/organisational-history, theme/education-marketisation]
 related_concepts:
   - "[[Growth]]"
-  - "[[Story Line]]"
   - "[[Chain of Evidence]]"
 related_theories: []
 related_methods:
+  - "[[Story Line]]"
   - "[[Coding in Qualitative Research]]"
 related_persons: []
 related_facts:

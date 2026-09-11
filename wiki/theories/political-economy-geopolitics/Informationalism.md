@@ -12,7 +12,6 @@ tags:
   - theory/informationalism
   - paradigm/information-society
 related_concepts:
-  - "[[Analytic Framework]]"
   - "[[Informationalization]]"
   - "[[Military-Industrial Black Hole]]"
   - "[[Ideological Capture of Science]]"
@@ -21,7 +20,8 @@ related_concepts:
   - "[[Operationalization]]"
 related_theories:
   - "[[Network Society]]"
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons:
   - "[[Manuel Castells]]"
 related_facts: []

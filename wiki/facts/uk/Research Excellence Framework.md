@@ -27,7 +27,6 @@ tags:
   - theme/evaluation
   - theme/competition
 related_concepts:
-  - "[[External Auditor]]"
   - "[[Evaluation Research]]"
   - "[[Research Impact]]"
   - "[[Quasi-markets in Higher Education]]"
@@ -40,7 +39,8 @@ related_concepts:
   - "[[Blue Skies Research]]"
   - "[[Pragmatic Paradigm]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[External Auditor]]"
 related_persons:
   - "[[Bertrand Russell]]"
 related_facts: []

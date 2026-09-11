@@ -14,13 +14,13 @@ tags: []
 related_concepts:
   - "[[Epistemological Beliefs]]"
   - "[[Variable]]"
-  - "[[Questionnaire]]"
   - "[[Realism in International Relations]]"
   - "[[Epistemology]]"
   - "[[Predictive Validity]]"
 related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
+  - "[[Questionnaire]]"
   - "[[Multinomial Logistic Regression]]"
 related_instruments: []
 related_persons: []

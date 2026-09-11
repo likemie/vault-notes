@@ -22,7 +22,6 @@ tags:
   - level/secondary-education
   - method/longitudinal-study
 related_concepts:
-  - "[[Sample Size Determination]]"
   - "[[Science Capital]]"
   - "[[Attrition]]"
   - "[[Practical Inquiry in Science Education]]"
@@ -30,6 +29,8 @@ related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
 related_facts:
   - "[[EngineeringUK]]"
+related_methods:
+  - "[[Sample Size Determination]]"
 confidence: high
 status: draft
 created: 2026-08-22

@@ -35,12 +35,12 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Fourth Culture]]"
   - "[[International Schools]]"
-  - "[[Analytic Framework]]"
   - "[[Champ]]"
-  - "[[Questionnaire]]"
   - "[[Democratic Education]]"
 related_theories: []
 related_methods:
+  - "[[Analytic Framework]]"
+  - "[[Questionnaire]]"
   - "[[Case Study]]"
 related_persons:
   - "[[Paul Morris]]"

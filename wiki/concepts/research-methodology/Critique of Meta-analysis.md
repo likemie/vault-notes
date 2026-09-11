@@ -33,9 +33,7 @@ related_concepts:
   - "[[Publication Bias]]"
   - "[[External Validity]]"
   - "[[Interaction Effect]]"
-  - "[[Intercoder Agreement]]"
   - "[[Sampling Error]]"
-  - "[[Sample Size Determination]]"
   - "[[Sociology of Valuation and Evaluation]]"
   - "[[Literature Review]]"
   - "[[Research Utilization]]"
@@ -48,15 +46,17 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Scientific Method]]"
   - "[[Document]]"
-  - "[[Funnel Plot]]"
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Effect Size]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quantitative Research]]"
+  - "[[Intercoder Agreement]]"
+  - "[[Sample Size Determination]]"
   - "[[Random Assignment]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Funnel Plot]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
 related_arguments:

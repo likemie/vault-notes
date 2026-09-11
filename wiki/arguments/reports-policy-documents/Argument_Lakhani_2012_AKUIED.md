@@ -55,12 +55,12 @@ related_concepts:
   - "[[Cooperative Learning]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[IB Learner Profile]]"
-  - "[[Sample Size Determination]]"
 related_methods:
   - "[[Case Study]]"
   - "[[Semi-structured Interview]]"
   - "[[Triangulation]]"
   - "[[Purposeful Sampling]]"
+  - "[[Sample Size Determination]]"
   - "[[Member Checking]]"
 related_facts:
   - "[[National Education Policy 2009 Pakistan]]"

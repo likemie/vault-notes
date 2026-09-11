@@ -27,7 +27,6 @@ tags:
   - level/higher-ed
 related_concepts:
   - "[[Global Universities Rankings]]"
-  - "[[Analytic Framework]]"
   - "[[Social Charter]]"
   - "[[Champ]]"
   - "[[Document]]"
@@ -40,12 +39,13 @@ related_concepts:
   - "[[Halo Effect]]"
   - "[[Reliability]]"
   - "[[Performance Indicators]]"
-  - "[[Questionnaire]]"
   - "[[Value Neutrality]]"
   - "[[Literature Review]]"
 related_theories:
   - "[[Capability Approach]]"
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
+  - "[[Questionnaire]]"
 related_persons:
   - "[[Pepka Boyadjieva]]"
   - "[[Ellen Hazelkorn]]"

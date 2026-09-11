@@ -23,9 +23,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Simplicity of Knowledge]]"
   - "[[Epistemology]]"
-  - "[[Questionnaire]]"
   - "[[Growth]]"
-  - "[[Analytic Framework]]"
   - "[[Self-Regulated Learning]]"
   - "[[Hypothesis]]"
   - "[[Order Effects]]"
@@ -44,6 +42,8 @@ related_concepts:
 related_theories:
   - "[[Reflective Judgment Model]]"
 related_methods:
+  - "[[Questionnaire]]"
+  - "[[Analytic Framework]]"
   - "[[Survey Research]]"
   - "[[Exploratory Factor Analysis]]"
   - "[[Multivariate Analysis of Variance]]"

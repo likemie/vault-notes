@@ -22,7 +22,6 @@ related_concepts:
   - "[[Research Problem]]"
   - "[[Knowledge Production]]"
   - "[[Theoretical End Point]]"
-  - "[[Analytic Framework]]"
   - "[[Transformative Paradigm]]"
 related_theories:
   - "[[Critical Theory]]"
@@ -31,6 +30,7 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Ethnography]]"
   - "[[Quantitative Research]]"
+  - "[[Analytic Framework]]"
 related_persons: []
 related_facts: []
 related_arguments:

@@ -29,13 +29,13 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[New Public Management]]"
   - "[[Visible Learning]]"
-  - "[[Analytic Framework]]"
   - "[[Ontology]]"
   - "[[Ways of Knowing]]"
   - "[[Neo-Taylorism]]"
 related_theories:
   - "[[Sociology of Measurement]]"
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Effect Size]]"
 related_persons:
   - "[[John Hattie]]"

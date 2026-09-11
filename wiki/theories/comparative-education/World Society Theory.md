@@ -19,7 +19,6 @@ tags:
   - paradigm/globalization
   - subject/comparative-education
 related_concepts:
-  - "[[Analytic Framework]]"
   - "[[Otherhood]]"
   - "[[Organizational Actorhood]]"
   - "[[Praxis]]"
@@ -37,6 +36,7 @@ related_theories:
   - "[[Cultural Models]]"
   - "[[Governing at a Distance]]"
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Coding in Qualitative Research]]"
 related_persons:
   - "[[John W. Meyer]]"

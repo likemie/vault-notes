@@ -14,10 +14,8 @@ tags:
   - method/historical-research
   - method/documentary-research
 related_concepts:
-  - "[[Questionnaire]]"
   - "[[Visual Data]]"
   - "[[Artefact]]"
-  - "[[Transcription in Qualitative Research]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Reliability]]"
   - "[[Analytical Stance]]"
@@ -25,6 +23,8 @@ related_concepts:
   - "[[Reflexivity]]"
 related_methods:
   - "[[Documentary Analysis]]"
+  - "[[Questionnaire]]"
+  - "[[Transcription in Qualitative Research]]"
 confidence: medium
 status: draft
 created: 2026-06-24

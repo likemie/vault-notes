@@ -29,15 +29,15 @@ tags:
   - instrument/scale
   - field/educational-psychology
 related_concepts:
-  - "[[Likert Scale]]"
   - "[[Epistemological Beliefs]]"
   - "[[Falsification]]"
-  - "[[Questionnaire]]"
   - "[[Certainty of Knowledge]]"
   - "[[Variable]]"
   - "[[Epistemology]]"
 related_theories: []
 related_methods:
+  - "[[Likert Scale]]"
+  - "[[Questionnaire]]"
   - "[[Coding in Qualitative Research]]"
 related_instruments: []
 related_persons: []

@@ -15,7 +15,6 @@ tags:
   - theme/cultural-persistence
   - theme/globalization
 related_concepts:
-  - "[[Analytic Framework]]"
   - "[[Incommensurability]]"
   - "[[Learning Virtues]]"
   - "[[Enculturation]]"
@@ -23,7 +22,8 @@ related_concepts:
   - "[[Growth]]"
 related_theories:
   - "[[Cultural Models]]"
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons: []
 related_facts: []
 related_arguments:

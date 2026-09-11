@@ -31,14 +31,14 @@ tags:
 related_concepts:
   - "[[Student Engagement]]"
   - "[[Surface and Deep Learning]]"
-  - "[[Questionnaire]]"
   - "[[Problem Solving]]"
   - "[[Reflexivity]]"
   - "[[Homework]]"
   - "[[Paradigm]]"
   - "[[Higher-Order Thinking Skills]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Questionnaire]]"
 related_instruments: []
 related_persons: []
 related_facts:

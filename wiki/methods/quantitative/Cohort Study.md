@@ -32,13 +32,13 @@ related_concepts:
   - "[[Variable]]"
   - "[[Areas of Knowledge]]"
   - "[[Reliability]]"
-  - "[[Sample Size Determination]]"
   - "[[Interaction Effect]]"
   - "[[Internal Validity]]"
   - "[[Pre-test Sensitisation]]"
 related_methods:
   - "[[Longitudinal Study]]"
   - "[[Cross-sectional Study]]"
+  - "[[Sample Size Determination]]"
   - "[[Trend Study]]"
   - "[[Survey Research]]"
 related_arguments:

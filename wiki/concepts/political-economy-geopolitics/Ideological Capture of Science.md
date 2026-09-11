@@ -17,10 +17,10 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Knowledge Production]]"
   - "[[Informationalization]]"
-  - "[[Analytic Framework]]"
   - "[[Soviet Statism]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons:
   - "[[Trofim Lysenko]]"
 related_facts:

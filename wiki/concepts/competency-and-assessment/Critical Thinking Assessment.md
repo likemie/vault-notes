@@ -8,7 +8,7 @@ aliases:
 summary: "批判性思维测评是对个体在论证分析、证据评价、推论构建与反思判断等高阶认知技能及求真探究倾向的操作化测量与促学评价；在教育与心理研究中用于量化学业增益、诊断思维短板并检验课程对齐与构念效度。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 67
+related_count: 68
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Reflective Thinking]]"
   - "[[Constructive Alignment]]"
   - "[[Formative Assessment]]"
-  - "[[Questionnaire]]"
   - "[[Common Method Variance]]"
   - "[[Paradigm]]"
   - "[[Creativity]]"
@@ -49,17 +48,19 @@ related_concepts:
   - "[[Problem Solving]]"
   - "[[Evaluative Validity]]"
   - "[[Knowledge Questions]]"
+  - "[[APA Style]]"
   - "[[Task Structure]]"
-  - "[[Rating Scale]]"
   - "[[Variable]]"
-  - "[[Analytic Framework]]"
   - "[[Domain Specificity]]"
 related_theories: []
 related_methods:
   - "[[Multiple-Choice Questions]]"
+  - "[[Questionnaire]]"
   - "[[Internal Consistency]]"
   - "[[Three-Level Meta-Analysis]]"
   - "[[Meta-regression]]"
+  - "[[Rating Scale]]"
+  - "[[Analytic Framework]]"
   - "[[Systematic Review]]"
   - "[[Meta-analysis]]"
   - "[[Experimental Research]]"
@@ -94,7 +95,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-09-07
+updated: 2026-09-11
 ---
 
 # Critical Thinking Assessment

@@ -21,11 +21,9 @@ related_concepts:
   - "[[Programme Fidelity vs Adaptation]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Dependent Variable]]"
-  - "[[Pre-test and Post-test]]"
   - "[[Interaction Effect]]"
   - "[[Hypothesis]]"
   - "[[Emergence]]"
-  - "[[Sample Size Determination]]"
   - "[[Academic Achievement]]"
   - "[[Research Utilization]]"
   - "[[Unit of Analysis]]"
@@ -37,7 +35,9 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Meta-analysis]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Random Assignment]]"
+  - "[[Sample Size Determination]]"
 related_persons: []
 related_facts:
   - "[[French Class Size Reduction]]"

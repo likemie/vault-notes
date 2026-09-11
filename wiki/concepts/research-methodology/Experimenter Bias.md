@@ -18,11 +18,11 @@ tags:
   - bias
 related_concepts:
   - "[[Conatus]]"
-  - "[[Blinding]]"
   - "[[Research Purpose]]"
 related_theories: []
 related_methods:
   - "[[Experimental Research]]"
+  - "[[Blinding]]"
 related_persons: []
 related_facts: []
 related_arguments:

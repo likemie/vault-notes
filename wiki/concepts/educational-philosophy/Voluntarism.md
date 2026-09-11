@@ -10,7 +10,6 @@ related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
 tags: [theme/ontology, theme/human-nature, theme/research-philosophy, paradigm/interpretivist]
 related_concepts:
-  - "[[Analytic Framework]]"
   - "[[Ontology]]"
   - "[[Hypothesis]]"
   - "[[Creativity]]"
@@ -31,6 +30,7 @@ related_concepts:
   - "[[Interpretive Paradigm]]"
   - "[[Decodification]]"
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Accounts]]"
   - "[[Action Research]]"
   - "[[Ethogenic Approach]]"

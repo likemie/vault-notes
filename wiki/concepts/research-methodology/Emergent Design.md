@@ -20,13 +20,13 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Research Question]]"
   - "[[Reflexivity]]"
-  - "[[Analytic Framework]]"
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Grounded Theory]]"
   - "[[Theoretical Sampling]]"
   - "[[Quantitative Research]]"
+  - "[[Analytic Framework]]"
 related_persons: []
 related_facts: []
 related_arguments:

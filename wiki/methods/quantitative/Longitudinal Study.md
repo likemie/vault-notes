@@ -27,7 +27,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Attrition]]"
   - "[[Internal Validity]]"
-  - "[[Questionnaire]]"
   - "[[Research Purpose]]"
   - "[[Pre-test Sensitisation]]"
   - "[[Document]]"
@@ -40,6 +39,7 @@ related_methods:
   - "[[Survey Research]]"
   - "[[Cohort Study]]"
   - "[[Trend Study]]"
+  - "[[Questionnaire]]"
   - "[[Case Study]]"
   - "[[Cross-sectional Study]]"
 related_arguments:

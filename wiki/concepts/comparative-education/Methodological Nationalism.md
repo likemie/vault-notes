@@ -16,7 +16,6 @@ tags:
 related_concepts:
   - "[[Epistemology]]"
   - "[[Space of Flows and Space of Places]]"
-  - "[[Analytic Framework]]"
   - "[[Ontology]]"
   - "[[Classical Geopolitics]]"
   - "[[Unit of Analysis]]"
@@ -31,6 +30,7 @@ related_concepts:
   - "[[Creativity]]"
 related_theories: []
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Network Analysis]]"
 related_persons:
   - "[[Jason Beech]]"

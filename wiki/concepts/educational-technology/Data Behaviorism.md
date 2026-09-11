@@ -17,7 +17,6 @@ tags:
   - theme/digitalization
   - paradigm/critical
 related_concepts:
-  - "[[Transcription in Qualitative Research]]"
   - "[[Knowledge Production]]"
   - "[[Learning Analytics]]"
   - "[[Bildung]]"
@@ -25,7 +24,8 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Gamification]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Transcription in Qualitative Research]]"
 related_persons: []
 related_facts: []
 related_arguments:

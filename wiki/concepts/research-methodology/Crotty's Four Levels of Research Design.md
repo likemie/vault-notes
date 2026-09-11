@@ -22,11 +22,11 @@ related_concepts:
   - "[[Transformative Paradigm]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Document]]"
-  - "[[Questionnaire]]"
 related_theories: []
 related_methods:
   - "[[Ethnography]]"
   - "[[Mixed Methods Research]]"
+  - "[[Questionnaire]]"
   - "[[Convergent Design]]"
   - "[[Semi-structured Interview]]"
 related_persons: []

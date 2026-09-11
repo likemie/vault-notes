@@ -24,11 +24,11 @@ related_concepts:
   - "[[Causality]]"
   - "[[Learning Gain]]"
   - "[[Hypothesis]]"
-  - "[[Analytic Framework]]"
 related_theories: []
 related_methods:
   - "[[Seasonal Comparison]]"
   - "[[Longitudinal Study]]"
+  - "[[Analytic Framework]]"
 related_persons:
   - "[[Pierre Bourdieu]]"
 related_facts:

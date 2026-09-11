@@ -28,13 +28,13 @@ tags:
   - theme/higher-order-thinking
   - higher-education
 related_concepts:
-  - "[[Questionnaire]]"
   - "[[Problem Solving]]"
   - "[[Surface and Deep Learning]]"
   - "[[Rote Learning]]"
   - "[[Paradigm]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Questionnaire]]"
 related_instruments: []
 related_persons: []
 related_facts:

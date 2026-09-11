@@ -25,7 +25,6 @@ tags:
   - theme/industrial-innovation
   - region/china
 related_concepts:
-  - "[[Analytic Framework]]"
   - "[[Blue Skies Research]]"
   - "[[Technology Transfer]]"
   - "[[New Quality Productive Forces]]"
@@ -48,6 +47,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Case Study]]"
+  - "[[Analytic Framework]]"
 related_persons: []
 related_facts:
   - "[[German Dual Education System]]"

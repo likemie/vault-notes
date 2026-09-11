@@ -19,18 +19,18 @@ tags:
 related_concepts:
   - "[[Reliability]]"
   - "[[Construct]]"
-  - "[[Rating Scale]]"
   - "[[Heterogeneity]]"
-  - "[[Pre-test and Post-test]]"
   - "[[Document]]"
   - "[[Study Population and Sample]]"
   - "[[Research Purpose]]"
 related_methods:
   - "[[Test-Retest Reliability]]"
   - "[[Inter-Rater Reliability]]"
+  - "[[Rating Scale]]"
   - "[[Survey Research]]"
   - "[[Scale Development]]"
   - "[[Cronbach's Alpha]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Split-Half Reliability]]"
   - "[[Item Analysis]]"
 related_arguments:

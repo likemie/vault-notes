@@ -27,9 +27,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Scientific Literacy]]"
   - "[[Self-Efficacy]]"
-  - "[[Questionnaire]]"
   - "[[Knowledge Production]]"
-  - "[[Transcription in Qualitative Research]]"
 related_facts:
   - "[[Big Butterfly Count]]"
   - "[[The Perception Census]]"
@@ -39,8 +37,10 @@ related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety]]"
 related_methods:
   - "[[Design-Based Research]]"
+  - "[[Questionnaire]]"
   - "[[Stratified Sampling]]"
   - "[[Participatory Research]]"
+  - "[[Transcription in Qualitative Research]]"
 confidence: high
 status: draft
 created: 2026-08-23

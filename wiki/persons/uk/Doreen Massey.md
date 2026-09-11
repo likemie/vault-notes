@@ -7,7 +7,7 @@ summary: "英国人文地理学家，关系性空间与权力几何理论代表�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 18
+person_related_count: 19
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Space-Making]]"
   - "[[Relational Space]]"
   - "[[Methodological Nationalism]]"
+  - "[[APA Style]]"
   - "[[Sage]]"
   - "[[Heterogeneity]]"
   - "[[Emergence]]"

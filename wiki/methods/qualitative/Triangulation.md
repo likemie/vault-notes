@@ -34,11 +34,9 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Reflexivity]]"
   - "[[Qualitative Validity]]"
-  - "[[Questionnaire]]"
   - "[[Academic Self-Concept]]"
   - "[[Critical Thinking]]"
   - "[[Virtual World]]"
-  - "[[Transcription in Qualitative Research]]"
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Mixed Methods Research]]"
@@ -51,6 +49,8 @@ related_methods:
   - "[[Trend Study]]"
   - "[[Audiovisual, Social Media, and Digital Materials]]"
   - "[[Case Study]]"
+  - "[[Questionnaire]]"
+  - "[[Transcription in Qualitative Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
   - "[[Argument_Creswell_2022_SAGE]]"

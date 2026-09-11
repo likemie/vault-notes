@@ -24,7 +24,6 @@ tags:
   - "level/higher-education"
   - "source/book-chapter"
 related_concepts:
-  - "[[Analytic Framework]]"
   - "[[Innovation Models Evolution]]"
   - "[[Innovation Policy Paradigms]]"
   - "[[Transformative Change]]"
@@ -57,6 +56,7 @@ related_theories:
   - "[[Triple Helix]]"
   - "[[Organizational Culture]]"
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Snowball Sampling]]"
 related_persons: []
 related_facts:

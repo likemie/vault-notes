@@ -18,7 +18,6 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[University-Industry Collaboration]]"
   - "[[Knowledge Transfer]]"
-  - "[[Questionnaire]]"
   - "[[Entrepreneurial University]]"
   - "[[Academic Engagement]]"
   - "[[Technology Transfer]]"
@@ -47,6 +46,7 @@ related_theories:
   - "[[Triple Helix]]"
   - "[[Organizational Culture]]"
 related_methods:
+  - "[[Questionnaire]]"
   - "[[Mixed Methods Research]]"
   - "[[Website Content Analysis]]"
   - "[[Content Analysis]]"

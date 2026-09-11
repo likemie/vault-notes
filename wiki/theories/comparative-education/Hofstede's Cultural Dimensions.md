@@ -19,7 +19,6 @@ tags:
 related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Interaction Effect]]"
-  - "[[Analytic Framework]]"
   - "[[Cultural Validity]]"
   - "[[Hypothesis]]"
   - "[[Chinese Learner]]"
@@ -44,7 +43,6 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Confucian Heritage Cultures]]"
   - "[[Rote Learning]]"
-  - "[[Questionnaire]]"
   - "[[Mind and Its Wonders]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Epistemic Stances]]"
@@ -56,8 +54,10 @@ related_concepts:
 related_theories:
   - "[[Orientalism]]"
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Moderator Analysis]]"
   - "[[Meta-analysis]]"
+  - "[[Questionnaire]]"
   - "[[Experimental Research]]"
   - "[[Effect Size]]"
   - "[[Quantitative Research]]"

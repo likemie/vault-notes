@@ -18,7 +18,6 @@ tags:
   - qualitative-research
   - quantitative-research
 related_concepts:
-  - "[[Questionnaire]]"
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Constructivist Paradigm]]"
@@ -31,6 +30,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Random Sampling]]"
+  - "[[Questionnaire]]"
   - "[[Case Study]]"
   - "[[Ethnography]]"
   - "[[Action Research]]"

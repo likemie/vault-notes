@@ -17,10 +17,10 @@ tags:
   - research-methodology
 related_concepts:
   - "[[Document]]"
-  - "[[Transcription in Qualitative Research]]"
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
+  - "[[Transcription in Qualitative Research]]"
 related_persons: []
 related_facts: []
 related_arguments:

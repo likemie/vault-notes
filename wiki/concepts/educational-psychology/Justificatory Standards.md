@@ -24,8 +24,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Reliable Epistemic Processes]]"
   - "[[Conflict of Interest in Research]]"
-  - "[[Questionnaire]]"
-  - "[[Sample Size Determination]]"
   - "[[Dialogue in Education]]"
   - "[[Domain Specificity]]"
   - "[[Construct Validity]]"
@@ -37,6 +35,8 @@ related_theories:
   - "[[Toulmin's Argumentation Model]]"
 related_methods:
   - "[[Internal Consistency]]"
+  - "[[Questionnaire]]"
+  - "[[Sample Size Determination]]"
   - "[[Discourse Analysis]]"
   - "[[Causal Modeling]]"
 related_persons:

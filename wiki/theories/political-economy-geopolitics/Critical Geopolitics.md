@@ -20,7 +20,6 @@ tags:
 related_concepts:
   - "[[Classical Geopolitics]]"
   - "[[Constructivist Paradigm]]"
-  - "[[Analytic Framework]]"
   - "[[Ontology]]"
   - "[[New Geopolitics]]"
   - "[[Paradigm]]"
@@ -52,6 +51,7 @@ related_theories:
   - "[[Cultural Political Economy]]"
   - "[[Decolonial Geopolitics of Knowledge]]"
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Discourse Analysis]]"
   - "[[Snowball Sampling]]"
 related_persons: []

@@ -39,7 +39,6 @@ related_concepts:
   - "[[Knowledge Mobilisation]]"
   - "[[Professional Judgment]]"
   - "[[Practice-Based Evidence]]"
-  - "[[Analytic Framework]]"
   - "[[Research Utilization]]"
   - "[[Construct]]"
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
@@ -50,7 +49,6 @@ related_concepts:
   - "[[School Enquiry Cycle]]"
   - "[[Persuasive Communication in Education]]"
   - "[[Research-Practice Partnership]]"
-  - "[[Questionnaire]]"
   - "[[Technical Rationality]]"
   - "[[Growth]]"
   - "[[Formative Assessment]]"
@@ -68,9 +66,11 @@ related_concepts:
   - "[[Definition of Terms]]"
 related_theories: []
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Triangulation]]"
   - "[[Discourse Analysis]]"
   - "[[Case Study]]"
+  - "[[Questionnaire]]"
   - "[[Experimental Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Action Research]]"

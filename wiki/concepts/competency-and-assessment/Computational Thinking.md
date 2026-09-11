@@ -35,13 +35,13 @@ related_concepts:
   - "[[Generative Artificial Intelligence]]"
   - "[[Self-Efficacy]]"
   - "[[Variable]]"
-  - "[[Questionnaire]]"
   - "[[Creativity]]"
   - "[[Construct Validity]]"
 related_theories: []
 related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Effect Size]]"
+  - "[[Questionnaire]]"
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
 related_instruments:

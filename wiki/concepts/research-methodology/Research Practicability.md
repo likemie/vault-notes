@@ -24,7 +24,6 @@ related_concepts:
   - "[[Informed Consent]]"
   - "[[Research Topic]]"
   - "[[Literature Review]]"
-  - "[[Questionnaire]]"
   - "[[Variable]]"
   - "[[Independent Variable]]"
   - "[[Creativity]]"
@@ -33,6 +32,7 @@ related_methods:
   - "[[Longitudinal Study]]"
   - "[[Focus Group]]"
   - "[[Internet-based Survey]]"
+  - "[[Questionnaire]]"
   - "[[Archival Research]]"
   - "[[In-depth Interview]]"
 related_persons: []

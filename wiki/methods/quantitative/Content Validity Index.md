@@ -22,14 +22,14 @@ tags:
   - theme/scale-development
 related_concepts:
   - "[[Content Validity]]"
-  - "[[Questionnaire]]"
   - "[[Professional Judgment]]"
   - "[[Construct]]"
   - "[[Unit of Analysis]]"
-  - "[[Rating Scale]]"
 related_theories: []
 related_methods:
   - "[[Scale Development]]"
+  - "[[Questionnaire]]"
+  - "[[Rating Scale]]"
   - "[[Delphi Technique]]"
   - "[[Item Analysis]]"
 related_instruments:

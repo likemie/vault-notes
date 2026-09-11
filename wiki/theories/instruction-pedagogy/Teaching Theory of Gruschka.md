@@ -22,9 +22,9 @@ related_concepts:
   - "[[Bildung]]"
   - "[[Didaktik]]"
   - "[[Emergence]]"
-  - "[[Analytic Framework]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons: []
 related_facts: []
 related_arguments:

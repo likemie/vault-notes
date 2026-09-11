@@ -34,7 +34,6 @@ related_concepts:
   - "[[Examination-Oriented Education]]"
   - "[[Cultural Validity]]"
   - "[[Variable]]"
-  - "[[Sample Size Determination]]"
   - "[[Document]]"
   - "[[Praxis]]"
 related_theories:
@@ -43,6 +42,7 @@ related_methods:
   - "[[Field Notes]]"
   - "[[Case Study]]"
   - "[[Qualitative Observation]]"
+  - "[[Sample Size Determination]]"
 related_persons:
   - "[[Lev Vygotsky]]"
   - "[[Confucius]]"

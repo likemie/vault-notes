@@ -29,11 +29,11 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge Production]]"
-  - "[[Analytic Framework]]"
 related_theories:
   - "[[Dependency Theory]]"
   - "[[World-Systems Theory]]"
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons:
   - "[[Doreen Massey]]"
 related_facts:

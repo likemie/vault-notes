@@ -22,9 +22,9 @@ tags:
 related_concepts:
   - "[[International Schools]]"
   - "[[International Baccalaureate]]"
-  - "[[Questionnaire]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Questionnaire]]"
 related_instruments: []
 related_persons:
   - "[[Alec Peterson]]"

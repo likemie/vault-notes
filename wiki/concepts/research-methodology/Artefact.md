@@ -35,7 +35,6 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Determinism]]"
   - "[[Interpretive Paradigm]]"
-  - "[[Blinding]]"
   - "[[Whiggism]]"
 related_theories:
   - "[[Organizational Culture]]"
@@ -47,6 +46,7 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Discourse Analysis]]"
   - "[[Triangulation]]"
+  - "[[Blinding]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"

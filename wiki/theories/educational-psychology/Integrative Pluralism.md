@@ -30,7 +30,6 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Epistemic Stances]]"
   - "[[Variable]]"
-  - "[[Questionnaire]]"
   - "[[Knowledge Production]]"
   - "[[Incommensurability]]"
   - "[[Hypothesis]]"
@@ -40,6 +39,7 @@ related_methods:
   - "[[Accounts]]"
   - "[[Mixed Methods Research]]"
   - "[[Triangulation]]"
+  - "[[Questionnaire]]"
   - "[[Discourse Analysis]]"
   - "[[Ethnography]]"
 related_instruments: []

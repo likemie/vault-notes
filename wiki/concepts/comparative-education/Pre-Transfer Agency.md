@@ -24,9 +24,9 @@ related_concepts:
   - "[[Externalization]]"
   - "[[Policy Entrepreneur]]"
   - "[[Concept Mapping]]"
-  - "[[Analytic Framework]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons: []
 related_facts:
   - "[[A Nation at Risk 1983]]"

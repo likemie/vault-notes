@@ -23,7 +23,6 @@ related_concepts:
   - "[[IB Diploma Programme]]"
   - "[[Falsification]]"
   - "[[Disciplina and Doctrina]]"
-  - "[[Analytic Framework]]"
   - "[[Ways of Knowing]]"
   - "[[Areas of Knowledge]]"
   - "[[Scientism]]"
@@ -33,7 +32,6 @@ related_concepts:
   - "[[Conflict of Interest in Research]]"
   - "[[Operationalization]]"
   - "[[Reliability]]"
-  - "[[Questionnaire]]"
   - "[[Document]]"
   - "[[Paradigm]]"
   - "[[Scientific Method]]"
@@ -58,6 +56,8 @@ related_theories:
   - "[[Reflective Judgment Model]]"
   - "[[Toulmin's Argumentation Model]]"
 related_methods:
+  - "[[Analytic Framework]]"
+  - "[[Questionnaire]]"
   - "[[Case Study]]"
   - "[[Critical Incidents]]"
 related_instruments: []

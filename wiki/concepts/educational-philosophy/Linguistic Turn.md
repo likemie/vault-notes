@@ -16,12 +16,12 @@ tags:
 related_concepts:
   - "[[Document]]"
   - "[[Creativity]]"
-  - "[[Analytic Framework]]"
   - "[[Knowledge Framework]]"
   - "[[Champ]]"
 related_theories: []
 related_methods:
   - "[[Documentary Analysis]]"
+  - "[[Analytic Framework]]"
 related_instruments: []
 related_persons: []
 related_facts: []

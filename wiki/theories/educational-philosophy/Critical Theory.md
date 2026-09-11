@@ -19,7 +19,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Value Neutrality]]"
   - "[[Theoretical Perspective]]"
-  - "[[Analytic Framework]]"
   - "[[Ideal Speech Situation]]"
   - "[[Praxis]]"
   - "[[Epistemology]]"
@@ -32,6 +31,7 @@ related_theories: []
 related_methods:
   - "[[Accounts]]"
   - "[[Ideology Critique]]"
+  - "[[Analytic Framework]]"
   - "[[Action Research]]"
   - "[[Mixed Methods Research]]"
   - "[[Emancipatory Action Research]]"

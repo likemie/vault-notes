@@ -8,7 +8,7 @@ summary: "巴西教育家，批判教育学奠基人和 被压迫者教育学 �
 type: person
 nationality: brazil
 person_region: "brazil"
-person_related_count: 18
+person_related_count: 19
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Critical Pedagogy]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Forced Knowledge Transfer]]"
+  - "[[APA Style]]"
   - "[[Received Knowledge]]"
   - "[[Problem-Posing Education]]"
   - "[[Dialogue in Education]]"

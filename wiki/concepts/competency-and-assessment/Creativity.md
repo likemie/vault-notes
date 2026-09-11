@@ -11,7 +11,7 @@ aliases:
 summary: "个体或群体在特定情境中综合调动认知、情绪与环境资源生成新颖且适切成果的心理能力与综合表现，在教育研究中兼具预测变量与发展结果的双重属性"
 type: concept
 domain: "competency-and-assessment"
-related_count: 54
+related_count: 55
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -39,11 +39,11 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Self-Regulated Learning]]"
   - "[[Predictive Validity]]"
+  - "[[APA Style]]"
   - "[[Champ]]"
   - "[[Criterion Problem]]"
   - "[[Heterogeneity]]"
   - "[[Domain Specificity]]"
-  - "[[Confidence Interval]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Jigsaw]]"
   - "[[Common Method Variance]]"
@@ -61,6 +61,7 @@ related_methods:
   - "[[Three-Level Meta-Analysis]]"
   - "[[Systematic Review]]"
   - "[[Meta-analysis]]"
+  - "[[Confidence Interval]]"
 related_instruments:
   - "[[Alternate Uses Test]]"
   - "[[Torrance Tests of Creative Thinking]]"
@@ -83,7 +84,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-08-23
-updated: 2026-09-07
+updated: 2026-09-11
 ---
 
 # Creativity

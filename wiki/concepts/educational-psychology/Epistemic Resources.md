@@ -13,13 +13,13 @@ tags: []
 related_concepts:
   - "[[Epistemology]]"
   - "[[Epistemological Beliefs]]"
-  - "[[Questionnaire]]"
   - "[[Rote Learning]]"
   - "[[Practical Epistemology]]"
   - "[[Domain Specificity]]"
 related_theories:
   - "[[Integrative Pluralism]]"
 related_methods:
+  - "[[Questionnaire]]"
   - "[[Discourse Analysis]]"
 related_instruments: []
 related_persons: []

@@ -17,13 +17,13 @@ tags:
 related_concepts:
   - "[[Anonymity in Research]]"
   - "[[Privacy in Research]]"
-  - "[[Questionnaire]]"
   - "[[Sensitive Research]]"
   - "[[Deductive Disclosure]]"
   - "[[Informed Consent]]"
   - "[[Reliability]]"
 related_methods:
   - "[[Cohort Study]]"
+  - "[[Questionnaire]]"
   - "[[Linked File System]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"

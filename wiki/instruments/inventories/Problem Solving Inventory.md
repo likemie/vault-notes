@@ -29,13 +29,13 @@ tags:
   - method/measurement
 related_concepts:
   - "[[Problem Solving]]"
-  - "[[Questionnaire]]"
   - "[[Self-Efficacy]]"
   - "[[Creativity Training]]"
   - "[[Cognitive Flexibility]]"
   - "[[Going Native]]"
 related_theories: []
 related_methods:
+  - "[[Questionnaire]]"
   - "[[Meta-analysis]]"
   - "[[Measurement Invariance]]"
 related_instruments: []

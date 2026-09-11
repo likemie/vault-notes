@@ -22,9 +22,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Reliability]]"
   - "[[Content Validity]]"
-  - "[[Qualitative Codebook]]"
   - "[[Operationalization]]"
-  - "[[Intercoder Agreement]]"
   - "[[Covert Research]]"
   - "[[Halo Effect]]"
 related_methods:
@@ -34,6 +32,8 @@ related_methods:
   - "[[Structured Observation]]"
   - "[[Observation Method]]"
   - "[[Field Notes]]"
+  - "[[Qualitative Codebook]]"
+  - "[[Intercoder Agreement]]"
   - "[[Ethnography]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23]]"

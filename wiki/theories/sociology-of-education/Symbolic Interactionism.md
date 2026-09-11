@@ -20,7 +20,6 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Dialogue in Education]]"
   - "[[Interpretive Paradigm]]"
-  - "[[Analytic Framework]]"
   - "[[Reflexivity]]"
   - "[[Emergence]]"
   - "[[Unit of Analysis]]"
@@ -32,7 +31,6 @@ related_concepts:
   - "[[Nominalism]]"
   - "[[Constructivist Paradigm]]"
   - "[[Epistemology]]"
-  - "[[Transcription in Qualitative Research]]"
   - "[[Voluntarism]]"
   - "[[Paradigm]]"
   - "[[International Education]]"
@@ -40,9 +38,11 @@ related_theories:
   - "[[Thomas Theorem]]"
   - "[[Ethnomethodology]]"
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Ethnography]]"
   - "[[Participant Observation]]"
   - "[[In-depth Interview]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Coding in Qualitative Research]]"
 related_persons:
   - "[[George Herbert Mead]]"

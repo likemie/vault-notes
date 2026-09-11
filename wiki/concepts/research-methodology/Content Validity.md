@@ -15,7 +15,6 @@ tags:
   - method/research-methods
   - theme/validity
 related_concepts:
-  - "[[Questionnaire]]"
   - "[[Construct Validity]]"
   - "[[Criterion-related Validity]]"
   - "[[Professional Judgment]]"
@@ -28,6 +27,7 @@ related_concepts:
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
 related_methods:
+  - "[[Questionnaire]]"
   - "[[Internal Consistency]]"
 status: draft
 created: 2026-06-23

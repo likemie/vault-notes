@@ -13,15 +13,15 @@ tags: [method/qualitative, validation, data-quality]
 related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
-  - "[[Transcription in Qualitative Research]]"
-  - "[[Analytic Framework]]"
   - "[[Reliability]]"
   - "[[Research Topic]]"
   - "[[Reflexivity]]"
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Inter-Rater Reliability]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Analytic Framework]]"
   - "[[Content Analysis]]"
   - "[[Member Tests]]"
   - "[[Accounts]]"

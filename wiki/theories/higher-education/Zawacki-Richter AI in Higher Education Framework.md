@@ -17,7 +17,6 @@ tags:
   - theme/ai-in-education
   - level/higher-education
 related_concepts:
-  - "[[Analytic Framework]]"
   - "[[Learning Analytics]]"
   - "[[IB Learner Profile]]"
   - "[[Dialogue in Education]]"
@@ -25,6 +24,7 @@ related_concepts:
   - "[[Operationalization]]"
 related_theories: []
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Time Series Design]]"
   - "[[Meta-analysis]]"
   - "[[Coding in Qualitative Research]]"

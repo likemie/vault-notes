@@ -23,9 +23,9 @@ related_concepts:
   - "[[Knowledge Transfer]]"
   - "[[Economic and Industrial Espionage]]"
   - "[[Technology Transfer]]"
-  - "[[Analytic Framework]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons: []
 related_facts:
   - "[[US-China Economic and Security Review Commission]]"

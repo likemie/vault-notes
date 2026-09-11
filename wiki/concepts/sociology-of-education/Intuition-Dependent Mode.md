@@ -22,7 +22,6 @@ related_concepts:
   - "[[Symbolic Boundary]]"
   - "[[Cultural Barrier]]"
   - "[[Hypothesis]]"
-  - "[[Analytic Framework]]"
   - "[[Lost Mode]]"
   - "[[Value Conformist Mode]]"
   - "[[Graduation Pathway Typology]]"
@@ -39,6 +38,7 @@ related_theories:
   - "[[Dual-Process Model of Culture in Action]]"
   - "[[Rational Action Theory]]"
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Quantitative Research]]"
   - "[[Cohort Study]]"
 related_persons:

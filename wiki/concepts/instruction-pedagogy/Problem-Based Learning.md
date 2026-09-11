@@ -25,7 +25,6 @@ related_concepts:
   - "[[Experiential Learning]]"
   - "[[Cooperative Learning]]"
   - "[[Surface and Deep Learning]]"
-  - "[[Sample Size Determination]]"
   - "[[Dependent Variable]]"
   - "[[Heterogeneity]]"
   - "[[External Validity]]"
@@ -36,7 +35,6 @@ related_concepts:
   - "[[Constructive Alignment]]"
   - "[[Document]]"
   - "[[Variable]]"
-  - "[[Confidence Interval]]"
   - "[[Student Attitude]]"
   - "[[Student Satisfaction]]"
   - "[[Problem Finding]]"
@@ -45,8 +43,10 @@ related_theories:
   - "[[Phenomenology]]"
 related_methods:
   - "[[Effect Size]]"
+  - "[[Sample Size Determination]]"
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Confidence Interval]]"
   - "[[Inverse-Variance Weighting]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
 related_persons:

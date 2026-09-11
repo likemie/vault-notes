@@ -23,11 +23,8 @@ tags:
 related_concepts:
   - "[[Heterogeneity]]"
   - "[[Unit of Analysis]]"
-  - "[[Confidence Interval]]"
   - "[[Epistemology]]"
-  - "[[Sample Size Determination]]"
   - "[[Publication Bias]]"
-  - "[[Funnel Plot]]"
   - "[[Variable]]"
   - "[[Hypothesis]]"
   - "[[Sampling Error]]"
@@ -43,8 +40,11 @@ related_methods:
   - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Standard Error]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Confidence Interval]]"
   - "[[Between-Study Variance]]"
+  - "[[Sample Size Determination]]"
   - "[[Umbrella Review]]"
+  - "[[Funnel Plot]]"
   - "[[Robust Variance Estimation]]"
   - "[[Meta-regression]]"
 related_instruments: []

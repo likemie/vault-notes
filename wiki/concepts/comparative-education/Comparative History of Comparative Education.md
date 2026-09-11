@@ -16,7 +16,6 @@ tags:
   - theme/historiography
   - paradigm/historical-comparative
 related_concepts:
-  - "[[Analytic Framework]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
   - "[[Knowledge Production]]"
@@ -41,6 +40,7 @@ related_concepts:
 related_theories:
   - "[[Critical Theory]]"
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Archival Research]]"
 related_instruments: []
 related_persons:

@@ -24,7 +24,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Internal Validity]]"
   - "[[Research Ethics]]"
-  - "[[Transcription in Qualitative Research]]"
   - "[[Rich and Thick Description]]"
   - "[[Hawthorne Effect]]"
   - "[[Heterogeneity]]"
@@ -41,6 +40,7 @@ related_methods:
   - "[[Non-participant Observation]]"
   - "[[Observation Protocol]]"
   - "[[Non-probability Sampling]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Effect Size]]"
   - "[[Member Tests]]"
 related_persons: []

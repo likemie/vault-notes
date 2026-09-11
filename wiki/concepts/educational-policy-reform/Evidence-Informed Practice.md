@@ -48,7 +48,6 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Variable]]"
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
-  - "[[Questionnaire]]"
 related_theories:
   - "[[Quality Use of Research Evidence Framework]]"
 related_methods:
@@ -62,6 +61,7 @@ related_methods:
   - "[[In-depth Interview]]"
   - "[[Mixed Methods Research]]"
   - "[[Framework Synthesis]]"
+  - "[[Questionnaire]]"
 related_persons: []
 related_facts:
   - "[[No Child Left Behind Act 2001]]"

@@ -25,7 +25,6 @@ related_concepts:
   - "[[Non-dilutive Funding]]"
   - "[[Technology Transfer]]"
   - "[[Technology Transfer Office]]"
-  - "[[Transcription in Qualitative Research]]"
   - "[[Corporate Venture Capital]]"
   - "[[Technology Readiness Level]]"
   - "[[Dialogue in Education]]"
@@ -42,6 +41,7 @@ related_theories:
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Discourse Analysis]]"
+  - "[[Transcription in Qualitative Research]]"
 related_persons: []
 related_facts:
   - "[[Alliance for Southern California Innovation]]"

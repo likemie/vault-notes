@@ -51,7 +51,6 @@ related_concepts:
   - "[[Champ]]"
   - "[[Field Images]]"
   - "[[Positioning Practice]]"
-  - "[[Analytic Framework]]"
   - "[[Dialogue in Education]]"
   - "[[Sociology of Valuation and Evaluation]]"
 related_theories:
@@ -61,6 +60,7 @@ related_theories:
 related_methods:
   - "[[Discourse Analysis]]"
   - "[[Qualitative Interview]]"
+  - "[[Analytic Framework]]"
 related_persons: []
 related_facts:
   - "[[Bayh-Dole Act of 1980]]"

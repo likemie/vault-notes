@@ -16,11 +16,11 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Epistemic Aims]]"
   - "[[Critical Thinking]]"
-  - "[[Questionnaire]]"
 related_theories:
   - "[[Virtue Epistemology]]"
   - "[[Expanded Framework of Epistemic Cognition]]"
-related_methods: []
+related_methods:
+  - "[[Questionnaire]]"
 related_instruments: []
 related_persons: []
 related_facts: []
