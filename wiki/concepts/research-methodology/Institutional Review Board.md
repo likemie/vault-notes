@@ -109,7 +109,7 @@ IRB 特别关注**弱势群体（vulnerable populations）**的保护，包括�
 
 1. **立法层面** 如英国的 Data Protection Acts (1984, 1998)、美国的 [[Common Rule 2018|Common Rule]]
 2. **机构伦理审查委员会** 大学和研究机构内部的 IRB
-3. **专业协会伦理守则** BERA、APA、ASA、BPS、BSA、[[Sponsored Research Agreement|SRA]]、AERA、ESRC 等
+3. **专业协会伦理守则** BERA、[[APA Style|APA]]、ASA、BPS、BSA、[[Sponsored Research Agreement|SRA]]、AERA、ESRC 等
 4. **研究者个人伦理** 研究者自身的诚信、良心和情境判断
 
 ### 主要专业协会伦理守则

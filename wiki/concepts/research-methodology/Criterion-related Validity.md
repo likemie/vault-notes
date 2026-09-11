@@ -160,7 +160,7 @@ updated: 2026-08-24
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1950s — 经典效度三元论确立** APA 早期标准将效标关联效度与[[Content Validity|内容效度]]、[[Construct Validity|构念效度]]并列，作为心理测量三大独立支柱。
+> - **1950s — 经典效度三元论确立** [[APA Style|APA]] 早期标准将效标关联效度与[[Content Validity|内容效度]]、[[Construct Validity|构念效度]]并列，作为心理测量三大独立支柱。
 > - **1970s — [[Criterion Problem|效标问题]]（Criterion Problem）显性化** Shapiro (1970) 深刻揭示在复杂[[Higher-Order Thinking Skills|高阶思维]]领域缺乏统一客观效标对心理测量的根本制约。
 > - **1980s–1990s — 效度统一观演进** Messick 提出统一效度框架，效标关联被重塑为支持构念效度的外部经验[[Chain of Evidence|证据链]]条。
 > - **2020s — [[Meta-meta-analysis|二阶元分析]]系统解构效标定位** [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] 运用二阶[[Meta-analysis|元分析]]实证量化了[[Variable|变量]]在作为预测源（$r = 0.29$）与作为效标（$r = 0.12$）时的系统不对称性。

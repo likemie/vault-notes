@@ -159,7 +159,7 @@ updated: 2026-09-09
 > [!concept-lens] [[Ontology|本体论]]与[[Epistemology|认识论]]维度
 > 本命题确立深描区别于传统行为主义观察的根本认识论分水岭：人类行动并非纯粹的生理痉挛或物理位移，而是由主观意图与符号价值浸润的社会实践。
 
-> [!claim] [[Clifford Geertz|Geertz]], C.
+> [!claim] Geertz, C.
 > **文化之网与意义阐释** 格尔茨认为人是悬挂在自身编织的意义之网中的动物，文化的分析不是寻找规律的实验科学，而是一门探究意义的解释科学。深描的本质任务就在于解析社会话语的流动，把不可观察的参与者诠释、制度传统与细微意图编织进文本之中，将稍纵即逝的事件转化为可供反复查阅与批判反思的智力记述。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, Ch. 11, pp. 403–404)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, Ch. 28, p. 538)]]
 
 > [!claim] [[Keith Morrison|Morrison, K.]]
@@ -215,7 +215,7 @@ updated: 2026-09-09
 
 > [!dev-timeline] 深描概念的学术演变脉络
 > - **1968 — 哲学萌芽：Ryle 的眨眼与挤眼之辨** 英国哲学家赖尔提出生理性的不自主眨眼（twitch）与承载社会密谋信号的挤眼（wink）在物理表现上完全相同，唯有深描其所指意图与社交默契方能实现二者的实质区分。
-> - **1973 — 经典奠基：[[Clifford Geertz|Geertz]] 的解释人类学革命** 格尔茨出版《文化的解释》，将深描确立为人类学[[Ethnography|民族志]]的核心[[Paradigm|范式]]，提出通过微观场景的精湛深描“铭写社会话语之流”。
+> - **1973 — 经典奠基：Geertz 的解释人类学革命** 格尔茨出版《文化的解释》，将深描确立为人类学[[Ethnography|民族志]]的核心[[Paradigm|范式]]，提出通过微观场景的精湛深描“铭写社会话语之流”。
 > - **1985 — 质性规范化：Lincoln & Guba 的[[Interpretive Paradigm|自然主义探究]]** 林肯与古巴在《自然主义探究》中系统确立了[[Qualitative Research|质性研究]]的四大可[[Reliability|信度]]标准，将深描正式提升为保障质性研究迁移性（transferability）的核心方法论规范。
 > - **1990s — 批判性重构与微观[[Operationalization|操作化]]** Carspecken（1996）提出[[Critical Ethnography|批判民族志]]中的低推断深描六构件；教育研究者广泛将深描用于解构课堂微观权力、教师反思实践与学生亚文化。
 > - **2000s 至今 — [[Mixed Methods Research|混合方法]]中的[[Qualitative Validity|质性效度]]共识** Creswell（2022）等学者将深描固化为质性探究与混合方法研究中公认的八大效度检验支柱之一。
