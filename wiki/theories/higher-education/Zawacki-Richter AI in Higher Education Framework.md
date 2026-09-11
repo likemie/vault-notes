@@ -7,7 +7,7 @@ aliases:
   - 高等教育人工智能应用框架
 summary: "系统整合高等教育全生命周期人工智能应用的四维分类理论框架，将 AI 划分为画像与预测、评估与评定、自适应系统与个性化、智能导学系统四大核心教学与管理领域"
 type: theory
-theory_field: "educational-technology"
+theory_field: "higher-education"
 theory_related_count: 11
 theory_related_level: 1
 theory_related_stars: "⭐"
@@ -37,7 +37,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-09-11
 ---
 
 # Zawacki-Richter AI in Higher Education Framework

@@ -7,7 +7,7 @@ aliases:
   - 创造性意义张力理论
 summary: "Dell Delambre 的认识论：新世界永远在旧世界内部诞生，新旧之间的意义张力是意义创造的根本条件，主张承载而非消解张力，与 Mignolo、Dussel、Santos 等去殖民思想对话"
 type: theory
-theory_field: "university-industry-collaboration"
+theory_field: "educational-philosophy"
 theory_related_count: 20
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
@@ -45,7 +45,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-11'
-updated: '2026-05-18'
+updated: 2026-09-11
 ---
 
 # Creative Tension of Sense

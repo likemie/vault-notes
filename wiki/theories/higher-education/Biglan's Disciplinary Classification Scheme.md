@@ -8,7 +8,7 @@ aliases:
   - Biglan's disciplinary taxonomy
 summary: "Anthony Biglan 提出的经典三维学科分类理论，依据范式共识程度（硬学科 vs 软学科）、应用实践取向（纯科学 vs 应用科学）及研究对象生命属性（生命 vs 非生命）划分学术门类，是研究高等教育学科文化与认识论信念的基础框架。"
 type: theory
-theory_field: "university-industry-collaboration"
+theory_field: "higher-education"
 theory_related_count: 14
 theory_related_level: 1
 theory_related_stars: "⭐"
@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-19
-updated: 2026-08-19
+updated: 2026-09-11
 ---
 
 # Biglan's Disciplinary Classification Scheme

@@ -4,12 +4,13 @@ aliases:
   - 批判民族志
   - critical ethnographic research
 summary: "批判理论在行动中的民族志：将权力、不平等和解放作为民族志研究的核心关切，以改变而非仅仅描述社会现实为目标。"
-type: theory
-theory_field: "research-methodology"
-theory_related_count: 13
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+type: method
+method_type: qualitative
+method_family: "qualitative"
+method_related_count: 13
+method_related_level: 1
+method_related_stars: "⭐"
+method_related_color: "#dbeafe"
 tags:
   - theory/critical
   - paradigm/qualitative
@@ -36,18 +37,21 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-07-11
+updated: 2026-09-11
 ---
 
 # Critical Ethnography
 
-## 理论定位
+## 定义
 
-> [!theory-position] 理论定位
-> - **解释对象** 社会群体和文化情境中的权力关系、不平等、压迫结构，以及这些结构如何维持和再生产。
-> - **理论问题** 传统[[Ethnography|民族志]]关注"是什么"的客观描述是否足以揭示深层的社会不公？研究者的"中立"立场是否在事实上巩固了现状？
-> - **理论类型** 批判取向的方法论框架——既是民族志方法的一种，也是批判社会理论在民族志实践中的应用。
-> - **知识位置**[[Critical Theory|批判理论]]传统（法兰克福学派、[[Jürgen Habermas|哈贝马斯]]）、文化马克思主义、[[Post-colonial Theory|后殖民理论]]、女性主义理论；核心文本包括 Thomas (1993)、Carspecken (1996)、Madison (2005)。
+> [!def] 方法定义
+> 批判[[Ethnography|民族志]]（Critical Ethnography）是将权力、不平等和解放作为核心关切的批判质性研究方法，以改变而非仅仅描述社会现实为目标。该方法将民族志探究从"发现和描述"推进到"质疑和改变"，使研究成为揭露压迫并赋权被研究群体的行动主义实践。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 446–451)]]
+
+> [!method-scope] 方法范围
+> - **研究对象** 社会群体和文化情境中的权力关系、不平等、压迫结构，以及这些结构如何维持和再生产。
+> - **问题类型** 传统[[Ethnography|民族志]]关注"是什么"的客观描述是否足以揭示深层的社会不公？研究者的"中立"立场是否在事实上巩固了现状？
+> - **理论传统** [[Critical Theory|批判理论]]传统（法兰克福学派、[[Jürgen Habermas|哈贝马斯]]）、文化马克思主义、[[Post-colonial Theory|后殖民理论]]、女性主义理论；核心文本包括 Thomas (1993)、Carspecken (1996)、Madison (2005)。
+> - **方法属性** 批判取向的方法论框架——既是民族志方法的一种，也是批判社会理论在民族志实践中的应用。
 
 > [!claim] 核心主张
 > 批判民族志将民族志方法从"发现和描述"推进到"质疑和改变"：研究不仅是对社会现实的记录，更是揭露压迫、赋权被研究群体、推动社会正义的政治行动和行动主义。研究者既非中立也非无辜——[[Reflexivity|反身性]]不只是自我审视，而是积极干预。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 446–451)]]
@@ -57,11 +61,11 @@ updated: 2026-07-11
 >
 > *Whereas conventional ethnography is concerned with what is, critical ethnography concerns itself with what could be.*
 
-## 关键概念与理论构件
+## 关键构件与分析工具
 
 > [!entry-map]
 >
-> | 构件 | 类型 | 在理论中的功能 |
+> | 构件 | 类型 | 在方法中的功能 |
 > |:-----|:-----|:--------------|
 > | [[Critical Theory]] | 理论 | 提供批判[[Ethnography\|民族志]]的宏观社会学理论基础：揭露意识形态、压迫和不平等。 |
 > | [[Ideology Critique]] | 方法 | 批判民族志的核心分析程序：揭示想当然的[[Hypothesis\|假设]]和意义如何服务于权力。 |
@@ -79,15 +83,15 @@ updated: 2026-07-11
 > [!exegesis]- 教育研究例子
 > 一位批判民族志研究者进入一所低收入社区学校，不仅观察和记录课堂互动，还注意到：(1) 学校如何通过隐形课程训练学生接受低期望和服从纪律，为低薪劳动力市场做准备；(2) 教师如何无意识地接受这一逻辑，视学生行为问题为个体缺陷而非结构不公的产物。在第3阶段（[[Dialogue in Education|对话]]式数据生成），研究者邀请师生共同反思：谁决定了课程内容？为什么资源分配如此不均衡？在第4阶段，研究者将学校实践与地方政府的税收政策、住房隔离政策相关联。研究最终不仅揭示隐性压迫机制，还推动社区组织学校改革运动。
 
-## 理论立场与使用方式
+## 方法定位
 
-> [!theory-stance] [[Epistemology|认识论]]立场
+> [!method-position] [[Epistemology|认识论]]与方法定位
 > - **[[Ontology|本体论]]** 社会现实由权力关系建构；不平等和压迫是结构性的，内在于资本主义生产与消费关系中；意识形态支配被压迫群体将其处境视为"自然的"或"不可避免的"时最强大。
 > - **认识论** 知识不可避免地是政治的；客观性和中立性本身也需要因其政治立场和效应而被审视。
 > - **方法含义**采用 Carspecken (1996) 的五阶段模型——独白式数据收集→初步重构分析→[[Dialogue in Education|对话]]式数据生成→发现系统关系→运用系统关系解释发现，确保参与者的发声权和研究的民主化。
 > - **不能直接推出的东西** 不能声称发现了"普适"的压迫机制（研究情境嵌入具体历史和空间）；不能以研究名义强加研究者的解放议程于被研究群体；不能以单一压迫维度（如阶级）替代对多重交织压迫的分析。
 
-> [!theory-use] 如何用于研究
+> [!method-stack] 研究取向与操作程序
 > - **作为理论框架** 将[[Research Question|研究问题]]定位在权力、不平等和解放的坐标中，追问"谁受益、谁受害、为什么"。
 > - **作为分析工具** 使用[[Ideology Critique|意识形态批判]]程序分析田野数据——揭示想当然的[[Hypothesis|假设]]、追踪系统关系、将微观行为与宏观结构关联。
 > - **作为批判视角** 拒绝接受参与者对现状的定义为"事实"，将之视为权力关系中的位置性表达；暴露"中立"研究中的政治预设。
@@ -95,7 +99,7 @@ updated: 2026-07-11
 
 ## 适用边界
 
-> [!theory-boundary] 适用边界
+> [!method-boundary] 适用边界
 > - **适合解释** 教育中的结构性不平等、权力与资源分配、隐性课程的政治功能、制度性歧视、教育政策的阶级/种族/性别效应。
 > - **谨慎使用** 当研究者的政治议程可能压倒参与者的真实声音时；当意识形态承诺可能预先决定研究发现时；在权力关系极不对称的环境中（如监狱、精神病院），研究者的"干预"可能带来参与者无法承受的代价。
 > - **不适合解释** 纯粹技术性的教学法效能问题；不以社会正义为目标的认知或心理过程研究。

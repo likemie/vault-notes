@@ -8,7 +8,7 @@ aliases:
   - TAP
 summary: "Toulmin 提出的领域依赖论证结构模型，将论证拆解为主张、数据、保证、支撑、限定词与反驳六个部件；当代科学教育批判其纯句法结构无法甄别披着规范外衣的伪科学论证。"
 type: theory
-theory_field: "educational-philosophy"
+theory_field: "argumentation-and-logic"
 theory_related_count: 16
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-07-05
-updated: 2026-09-10
+updated: 2026-09-11
 ---
 
 # Toulmin's Argumentation Model

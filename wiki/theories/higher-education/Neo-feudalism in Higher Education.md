@@ -2,12 +2,11 @@
 title: Neo-feudalism in Higher Education
 aliases:
   - 高等教育新封建主义
-  - neo-feudalism in higher education
   - academic neo-feudalism
   - 学术新封建主义
 summary: "Schulze-Cleven et al. (2017) 引入的分析范式，主张当代学术等级通过忠诚联盟、群体特权和声望展示等封建式机制维持，市场化和竞争非但未消解等级反而将其固化为新封建秩序"
 type: theory
-theory_field: "political-economy-geopolitics"
+theory_field: "higher-education"
 theory_related_count: 11
 theory_related_level: 1
 theory_related_stars: "⭐"
@@ -40,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-09-11
 ---
 
 # Neo-feudalism in Higher Education

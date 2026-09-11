@@ -1007,6 +1007,11 @@ Total entries: **2328**
 
 ## Theories
 
+> [!index-list]- Argumentation And Logic (3)
+> - [[Pragma-Dialectics]] — van Eemeren and Grootendorst 发展的论证理论，将论证分析为旨在解决意见分歧的言语行为序列，整合形式逻辑、非形式逻辑与修辞学洞察，提供评价论证质量的规范性程序标准
+> - [[Toulmin's Argumentation Model]] — Toulmin 提出的领域依赖论证结构模型，将论证拆解为主张、数据、保证、支撑、限定词与反驳六个部件；当代科学教育批判其纯句法结构无法甄别披着规范外衣的伪科学论证。
+> - [[Walton's Argumentation Schemes]] — Douglas Walton 提出的非形式逻辑论证分析理论，将日常与专业论辩归纳为数十种基于似真推理的论证型式，并配套批判性提问清单以检验论证的辩护效力。
+
 > [!index-list]- Chinese Philosophy (2)
 > - [[Confucian Learning Tradition]] — 东亚文化学习模型，以修身为核心目标，包含完善自我、以天下为己任、学习美德和行胜于言四个文化主题
 > - [[Neo-Confucianism]] — 宋明时期儒学复兴运动，以程朱理学与陆王心学为代表，将天理与修身关联，重建儒家学习传统的理论根基
@@ -1023,7 +1028,8 @@ Total entries: **2328**
 > - [[World Society Theory]] — 将全球制度趋同阐释为世界文化模型（world culture models）扩散与模仿产物的新制度主义社会学理论。它主张全球化不是简单的功能主义或国家强权统治产物，而是以普世进步和正义规范为基础的去中心化“世界社会”在观念层面的建构，用于解释教育系统和组织形式在跨国范围内呈现的趋同趋势。
 > - [[World-Systems Theory]] — 把全球资本主义组织为中心、半边缘和边缘三层结构的历史社会理论，用于分析国家与地区在世界体系中的不平等位置和依附关系
 
-> [!index-list]- Curriculum (6)
+> [!index-list]- Curriculum (7)
+> - [[APA Delphi Consensus on Critical Thinking]] — 由美国哲学学会主持、Peter Facione 领衔 46 位国际学者达成的里程碑式共识报告，系统确立了批判性思维的六大核心认知技能与七大情意倾向双元框架
 > - [[Bloom's Taxonomy]] — 将教育目标与学习产出按认知、情感与动作技能三领域分层解构的经典课程与评价理论框架，认知领域以六级思维阶梯（识记、理解、应用、分析、评价、创造）与二维知识-认知过程矩阵为核心，支撑教学设计、目标对齐与实证测量。
 > - [[CER Framework]] — Katherine McNeill 与 Joseph Krajcik 提出的科学论证教学与评估框架，将科学解释解构为主张、证据与推理三个核心部件，是基础教育中广泛应用的学习进阶支架。
 > - [[Cuban's Curriculum Change Theory]] — 课程变革由三因素驱动：进步教育运动、冷战/国防、立法法律决定，在香港 LS 案例中因国家安全而权重重组
@@ -1031,11 +1037,11 @@ Total entries: **2328**
 > - [[Ennis's Curricular Typology]] — Robert Ennis (1989) 提出的批判性思维课程设计四分法理论，依据思维原则的显性程度与学科知识的结合架构划分为独立通用、学科融入、学科沉浸与显性混合四种模式
 > - [[Explicit Critical Thinking Instruction]] — 主张批判性思维应通过独立的专门课程显性教授而非作为学科学习副产品隐性培养的教学理论，以元分析证据为支撑，强调教师培训和专门课程设计的关键作用。
 
-> [!index-list]- Educational Philosophy (28)
-> - [[APA Delphi Consensus on Critical Thinking]] — 由美国哲学学会主持、Peter Facione 领衔 46 位国际学者达成的里程碑式共识报告，系统确立了批判性思维的六大核心认知技能与七大情意倾向双元框架
+> [!index-list]- Educational Philosophy (25)
 > - [[Autopoiesis]] — 把生命系统理解为通过自我生产和自我指涉维持边界与连续性的理论，常用于分析系统如何在与环境互动中保持自身组织。在理性主义比较教育中，该理论解释了教育系统在世界社会同质化压力下的自我参照与本国折射机制；在后人类主义教育学中，它与共同制造（Sympoiesis）相对，作为分析系统自组织涌现、去中心化转型与防范知识殖民的重要理论资源。
 > - [[Cognitive Constructivism]] — 一种将知识视为存在于个体头脑中的内部结构，将学习视为个体同化与顺应外部信息的内部心理过程的理论范式。它是个体认识论研究早期的主导范式。
 > - [[Complexity Theory]] — 一种将教育系统视为复杂适应系统的新兴研究范式，以非线性和整体论取代简单的线性因果模型，强调反馈、涌现、连接性和自组织等核心概念
+> - [[Creative Tension of Sense]] — Dell Delambre 的认识论：新世界永远在旧世界内部诞生，新旧之间的意义张力是意义创造的根本条件，主张承载而非消解张力，与 Mignolo、Dussel、Santos 等去殖民思想对话
 > - [[Critical Realism]] — Bhaskar 的科学哲学，区分实在、实际、经验三层本体论并强调开放系统中的因果机制，为教育研究批判封闭实验逻辑提供框架
 > - [[Critical Theory]] — 以哈贝马斯认识兴趣三分法为核心的社会理论范式，旨在通过意识形态批判和变革实践解放被压迫群体，推动社会民主与平等。
 > - [[Duhem-Quine Thesis]] — 科学哲学中关于经验证据无法唯一决定理论选择的核心论题，迪昂版本强调整体论，蒯因版本将其扩展为认识论整体论
@@ -1046,7 +1052,6 @@ Total entries: **2328**
 > - [[Post-colonial Theory]] — 一种处理殖民主义文化遗产的批判理论，审视帝国主义意识形态如何通过知识生产、价值支配和身份建构延续对非西方群体的压制与边缘化。
 > - [[Post-structuralism]] — 对结构功能主义决定论的反驳，强调个体能动性与内在矛盾主体，将数据与人工制品视为表演性话语与文本，主张通过解构揭示多重意义层次与意义特权化机制。
 > - [[Postmodernism]] — 反抗启蒙现代性与实证主义决定论的思想思潮；在教育研究中解构宏大元叙事，肯定断裂、差异与本土微观情境，揭示知识的社会建构性与权力纽带，并以变色龙般的亲和性连接诠释范式、复杂性理论与批判理论。
-> - [[Pragma-Dialectics]] — van Eemeren and Grootendorst 发展的论证理论，将论证分析为旨在解决意见分歧的言语行为序列，整合形式逻辑、非形式逻辑与修辞学洞察，提供评价论证质量的规范性程序标准
 > - [[Pragmatic Constructivism]] — 由 Rauste-von Wright 提出，将杜威的反思概念与米德的社会互动论相融合，主张学习是身心与环境具身交互的情境化过程
 > - [[Queer Theory]] — 一种建立在但超越女性主义理论的批判视角，探讨性别身份的社会建构、规范对越轨的压制，拒绝将个人简单归类并主张尊重其个体性。
 > - [[Radical Constructivism]] — 把学习与知识理解为主体主动建构而非被动再现现实的学习理论，强调认知适切性胜于客观真理的直接把握
@@ -1055,22 +1060,22 @@ Total entries: **2328**
 > - [[Social Realism]] — 教育研究中的认识论框架，强调学科知识的重要性，认为知识独立于知者存在且是社会建构的，同时承认知识会变化
 > - [[Societies of Control]] — Deleuze 的社会理论，指后规训时代以持续调制取代封闭式规训的权力形态，教育机构也被纳入企业化网络逻辑
 > - [[Third Generation Activity Theory]] — 在 Vygotsky 中介三角与 Engeström 六要素模型基础上发展出的理论范式，聚焦多活动系统相遇时的矛盾、边界跨越、人机协同分工与扩展性改造机制，包含教育技术领域的 AT-MCSCL 分析框架。
-> - [[Toulmin's Argumentation Model]] — Toulmin 提出的领域依赖论证结构模型，将论证拆解为主张、数据、保证、支撑、限定词与反驳六个部件；当代科学教育批判其纯句法结构无法甄别披着规范外衣的伪科学论证。
 > - [[Transactional Epistemology]] — Dewey 的知识观：实验产生的知识是关于过去行动与后果关系的记录，提供可能性而非确定性
 > - [[Transition Design]] — 把社会转型视为在复杂生命系统中逐步涌现而非一次性设计完成的变革框架，强调基于地方生活世界的长期设计与协作放大
 > - [[Virtue Epistemology]] — 哲学理论附加将认识论的重心从信念转移到认识主体及其智力美德。为研究认知过程提供性格视角的框架。
-> - [[Walton's Argumentation Schemes]] — Douglas Walton 提出的非形式逻辑论证分析理论，将日常与专业论辩归纳为数十种基于似真推理的论证型式，并配套批判性提问清单以检验论证的辩护效力。
 
-> [!index-list]- Educational Policy Reform (5)
+> [!index-list]- Educational Policy Reform (6)
 > - [[Ecosystem for Research-Engaged Schools]] — 由 Godfrey 和 Brown（2019）提出的框架，用微观、中观、外、宏观与时间五层生态绘制研究参与如何嵌入更大的教育生态，是分析研究参与学校多层级条件的理论透镜
 > - [[Four Generations of Research Use]] — 梳理公共部门与教育领域证据使用思维演进的分析框架，从理性-线性（第一代）、关系网络（第二代）、系统全局（第三代）递进至以教师多源知识整合与专业规范为核心的专业敏感型（第四代）模型
 > - [[Governing Mechanisms of Research Use]] — 由 Hagevold 等人（2026）依据框架综合提出的研究使用分析框架，主张信任、技能发展、可持续结构与关系四类机制跨越并贯通个体、组织与系统层级，共同塑造学校中的研究使用
 > - [[Quality Use of Research Evidence Framework]] — 由澳大利亚 Monash Q 项目提出的研究使用框架，把质量使用定义为对恰当研究证据的深思熟虑参与与实施，并受个体、组织与系统多层促成因素支持，是理解学校如何用对研究的中层分析框架
 > - [[Research Utilization Models]] — 由卡罗尔·韦斯开创并经公共政策与教育研究发展的理论模型谱系，系统阐明学术研究进入政策与实践的非线性多元机制（知识驱动、问题解决、互动、政治、战术、启蒙及社会智识事业），奠定工具性、概念性与象征性使用三元分类的基础。
+> - [[Van Leeuwen's Legitimation Theory]] — 分析公共论述如何取得正当性的四层次框架，包括权威与传统、道德价值、理性与真理、奖励叙事，可用于解释教育政策如何包装证据立场
 
-> [!index-list]- Educational Psychology (17)
+> [!index-list]- Educational Psychology (19)
 > - [[AIR Model of Epistemic Cognition]] — 当代教育心理学与学习科学的核心认识论认知模型，将认识实践解构为认识目标、认识论理想与可靠认识论过程三大相互交织的构件。
 > - [[Argumentative Reasoning]] — Deanna Kuhn提出的考察个体在日常推理中如何评估专家确定性并为自己的观点进行辩护的三层次认识论模型。
+> - [[Attribution Theory]] — Weiner (1976) 提出的动机理论，以因果归因解释人们对成就结果的情感和行为反应，包括 locus、stability、control 三个维度
 > - [[Control-Value Theory]] — 当代学业情绪与学习动机的核心认知-评价理论，主张个体对学习活动及其结果的控制感评价与价值感评价是激发和调节成就情绪（如享受、希望、焦虑、无聊等）的决定性认知中介，进而深远影响认知策略、自我调节与学业产出。
 > - [[Epistemic and Ontological Cognition]] — 一种整合了个人认识论发展阶段论与多维信念系统论的概念模型。该模型将关于知识本质的信念界定为本体论认知，将关于认知本质的信念界定为认识论认知，并主张通过这三类维度的强弱轮廓来识别个体的发展阶段。
 > - [[Epistemological Reflection Model]] — Baxter Magolda提出的一项考察男女学生在四种认知方式中性别相关推理模式的纵向发展模型。
@@ -1081,17 +1086,20 @@ Total entries: **2328**
 > - [[Personal Construct Theory]] — George Kelly提出的完整人格理论，以个人建构为基本分析单位解释个体如何感知、解释和预测世界。
 > - [[Reflective Judgment Model]] — 由 King 和 Kitchener 提出的认知发展与信念辩护模型，描述个体面对劣构问题时从前反思阶段（阶段1-3）、准反思阶段（阶段4-5）向反思阶段（阶段6-7）演进的认识论认知路径。
 > - [[Self-Determination Theory]] — 当代人类动机与人格的核心宏观理论，主张个体具有追求自主性、胜任感与归属感三大基本心理需求的内在成长倾向，构筑了从无动机、外在动机到内在动机的自决连续体，广泛应用于教育环境设计与人机协同学习赋能。
+> - [[Self-Worth Theory]] — Covington (1976) 提出的成就动机理论，认为人类将能力感知为自我价值，会采取各种策略保护自我价值免受失败威胁
 > - [[Situative Perspective]] — 一种将学习和认知视为特定社会、文化与物理环境中持续进行的参与实践（participation in social practices），而非个体头脑内部脱域知识存储的理论范式。
 > - [[Social Learning Theory]] — Bandura (1977) 提出的统一理论框架，以认知、行为和环境因素之间的持续交互来解释人类行为，强调替代性学习、象征过程和自我调节在行为获得与改变中的作用
 > - [[Theory of Mind]] — 个体理解自己和他人具有不同心理状态（如信念、欲望、意图），且这些状态可能与客观现实不符的认知能力，被视为认识论认知发展的重要前置基础。
 > - [[Theory of Planned Behavior]] — 由 Icek Ajzen 提出的社会心理学经典行为决策理论，主张个体的行为意向由行为态度、主观规范与知觉行为控制共同决定，且知觉行为控制与意向共同直接预测外显行为。
 > - [[Women's Ways of Knowing]] — Belenky等人提出的关注女性作为认知者如何看待真理、知识与权威的五个认识论视角模型。
 
-> [!index-list]- Educational Technology (1)
+> [!index-list]- Higher Education (4)
+> - [[Academic Capitalism]] — Slaughter & Leslie (1997) 提出的概念，描述大学日益卷入专利商业化、产学合作和竞争性拨款等市场导向活动，学术生产与资本积累逻辑深度绑定的制度转型过程
+> - [[Biglan's Disciplinary Classification Scheme]] — Anthony Biglan 提出的经典三维学科分类理论，依据范式共识程度（硬学科 vs 软学科）、应用实践取向（纯科学 vs 应用科学）及研究对象生命属性（生命 vs 非生命）划分学术门类，是研究高等教育学科文化与认识论信念的基础框架。
+> - [[Neo-feudalism in Higher Education]] — Schulze-Cleven et al. (2017) 引入的分析范式，主张当代学术等级通过忠诚联盟、群体特权和声望展示等封建式机制维持，市场化和竞争非但未消解等级反而将其固化为新封建秩序
 > - [[Zawacki-Richter AI in Higher Education Framework]] — 系统整合高等教育全生命周期人工智能应用的四维分类理论框架，将 AI 划分为画像与预测、评估与评定、自适应系统与个性化、智能导学系统四大核心教学与管理领域
 
-> [!index-list]- Instruction Pedagogy (7)
-> - [[Bounded Rationality]] — 解释人在信息、时间和计算能力受限条件下如何决策的理论，可用于说明教师和专业人员为何依赖简化判断、经验规则与情境推理
+> [!index-list]- Instruction Pedagogy (6)
 > - [[Creative Problem Solving]] — 由奥斯本与帕内斯创立的经典结构化认知干预模型，通过理解挑战、生成观念与准备行动三大阶段六大循环，交替实施发散与收敛思维以系统解决不良结构问题。
 > - [[Dynamic Knowledge and Learning Model]] — 用于澄清学习结果概念的四阶知识模型，强调不同知识形式之间的动态反身作用，并把学习理解为持续生成而非静态积累。
 > - [[Social Interdependence Theory]] — 由 Kurt Lewin 开创、Morton Deutsch 奠基、David & Roger Johnson 系统化发展的社会心理学与教学理论。该理论主张个体的目标实现结构决定了其互动模式：积极互赖激发促进性互动，消极互赖激发阻碍性互动，无互赖导致个体孤立，从而奠定了合作学习的根本机制基础。
@@ -1099,9 +1107,9 @@ Total entries: **2328**
 > - [[Three Levels of Teaching]] — 一种教学理论框架，依据教师把学习结果归因于学生特征、教师行为还是完整教学系统，区分三个递进的教学观层次。
 > - [[TRIZ]] — 由阿奇舒勒创立的算法化发明问题解决理论体系，主张技术与心智系统的演化遵循客观规律，通过识别并消除系统内在矛盾（技术与物理矛盾）、应用 40 条通用发明原理与理想最终解（IFR）启发式，系统克服思维定势并实现高阶创新。
 
-> [!index-list]- Learning Science Cognitive Science (13)
+> [!index-list]- Learning Science Cognitive Science (12)
 > - [[Appraisal Theory]] — Frijda 提出的情绪理论，强调认知评估在情绪生成中的核心作用，将情绪过程分解为七个阶段，并认为文化参与每个阶段的调节
-> - [[Attribution Theory]] — Weiner (1976) 提出的动机理论，以因果归因解释人们对成就结果的情感和行为反应，包括 locus、stability、control 三个维度
+> - [[Bounded Rationality]] — 解释人在信息、时间和计算能力受限条件下如何决策的理论，可用于说明教师和专业人员为何依赖简化判断、经验规则与情境推理
 > - [[Cognitive Load Theory]] — 由 John Sweller 于 1988 年创立的经典学习与教学设计理论，以人类工作记忆容量有限与长时记忆图式无限为核心架构，解构内在负荷、外在负荷与相关负荷，主张通过减少外在负荷、优化内在负荷以促进图式建构和自动化。
 > - [[Connectivism]] — 由 George Siemens 与 Stephen Downes 提出的数字时代学习理论，认为学习是连接专业节点或信息源的网络构建过程，知识分布于人际与非人类技术网络的动态连接之中
 > - [[Dual Coding Theory]] — 人类认知由独立的非言语视觉表象与言语符号双通道构成，图文协同表征能显著降低工作记忆负荷并强化长时记忆整合的认知学习理论
@@ -1111,11 +1119,9 @@ Total entries: **2328**
 > - [[Neo-Piagetian Theories]] — 修正皮亚杰模型的新皮亚杰理论群：Pascual-Leone 的双层/M-power 模型、Case 的四子域模型、Fischer 的技能理论
 > - [[Phenomenography]] — 以人们经验和理解现象的质性差异为对象的学习理论传统，通过分析特定任务中的学习方式与理解结果解释学生学习。
 > - [[Piaget's Theory of Cognitive Development]] — 皮亚杰开创的发生认识论与认知发展四阶段建构主义理论体系，揭示感觉运动、前运算、具体运算与形式运算的层级质变机制，现代脑科学研究进一步确立了前额叶皮层发育及执行功能成熟与其高度平行的生物-认知机制。
-> - [[Self-Worth Theory]] — Covington (1976) 提出的成就动机理论，认为人类将能力感知为自我价值，会采取各种策略保护自我价值免受失败威胁
 > - [[Walberg's Educational Productivity Model]] — Herbert Walberg 提出的九因素教育生产力理论，试图通过量化合成识别影响学生学业成就和态度的关键因素，是教育研究中最早被大规模元综合检验的理论框架
 
-> [!index-list]- Political Economy Geopolitics (26)
-> - [[Academic Capitalism]] — Slaughter & Leslie (1997) 提出的概念，描述大学日益卷入专利商业化、产学合作和竞争性拨款等市场导向活动，学术生产与资本积累逻辑深度绑定的制度转型过程
+> [!index-list]- Political Economy Geopolitics (24)
 > - [[Concealment-Exposure Framework]] — 用于分析隐藏与暴露边界如何被控制的框架，强调知识流动中可见性、遮蔽和暴露之间的权力关系。
 > - [[Coupling Coordination Theory]] — 源于系统论的多系统协同发展理论，认为若干子系统之间通过相互作用形成耦合关系，系统整体发展水平取决于耦合强度和各自发展水平的协调程度
 > - [[Critical Geopolitics]] — 把地缘政治理解为由政治想象、话语和空间表述持续建构出来的批判理论，反对把领土秩序视为自然和既定事实
@@ -1130,7 +1136,6 @@ Total entries: **2328**
 > - [[Imagined Community]] — Anderson 提出的民族理论核心概念，主张民族是被想象的有边界和主权的政治共同体，成员虽互不相识却共享同属一个共同体的心理图像，依赖印刷资本主义与现代教育机器予以维持
 > - [[Informationalism]] — 由 Manuel Castells 提出的信息时代发展模式理论，认为信息化社会的主要生产力来源是基于知识和信息优化生产要素组合的质化能力，与依赖重工业物质投入的工业化形成对比，并论证了国家主义体制与信息化之间的深层不相容
 > - [[Necropolitics]] — 姆本贝提出的理论概念，指主权权力在很大程度上体现为决定谁可以活、谁必须死的能力，近年被用于分析中国的语言政策和民族教育政策
-> - [[Neo-feudalism in Higher Education]] — Schulze-Cleven et al. (2017) 引入的分析范式，主张当代学术等级通过忠诚联盟、群体特权和声望展示等封建式机制维持，市场化和竞争非但未消解等级反而将其固化为新封建秩序
 > - [[Neocorporatism]] — 政府、雇主和工会三方之间制度化合作与协商的治理模式，用于协调政策、利益分配和社会调节。
 > - [[Orientalism]] — 通过知识生产把东方建构为被观看、被解释和被支配对象的批判概念，用于揭示文化优越感和殖民想象的再生产
 > - [[Pavitt Taxonomy]] — Keith Pavitt 于 1984 年提出的产业创新模式分类框架，将制造业分为科学基础型、专业供应商型、规模密集型、供应商主导型四类，2016 年由 Bogliacino and Pianta 修订扩展至服务业和信息通信技术行业
@@ -1142,13 +1147,12 @@ Total entries: **2328**
 > - [[Tullock's Bureaucracy Theory]] — 官僚制作为信息处理金字塔，主权者面临的核心挑战是知识问题与委托困境，Cowen 将其应用于解释 EBE 的制度韧性
 > - [[Varieties of Capitalism]] — 区分不同资本主义制度协调方式的比较政治经济框架，常用来解释教育培训体系、企业行为和技能形成路径的跨国差异
 
-> [!index-list]- Research Methodology (14)
+> [!index-list]- Research Methodology (13)
 > - [[Absolutist and Relativist Ethics]] — 研究伦理中两种对立的元立场：绝对主义坚持清晰固定的原则应无一例外地指导研究者行为；相对主义认为伦理考量应源于具体研究情境，不存在可普遍适用的绝对准则
 > - [[Campbellian Validity Framework]] — Donald Campbell等创立的因果推断与效度评估系统理论，确立了内部效度、外部效度、构念效度与统计结论效度四分体系，主张以系统排除替代解释为因果建立前提，并为多质多法（MTMM）收敛效度检验奠定基础。
 > - [[Cartwright's Three-Stage Knowledge Framework]] — RCT 证据外推的三阶段模型：it-works-somewhere → capacity claims → it-will-work-for-us，揭示因果机制知识在证据外推中的关键作用
 > - [[Central Limit Theorem]] — 概率论核心定理，指从任何总体中反复抽取等大随机样本时样本均值趋近正态分布，且样本均值的均值逼近总体均值，是抽样误差理论和统计推论的数学基础
 > - [[Classical Test Theory]] — 将测验分数分解为真实分数与误差之和的测量理论，假设真实分数是无限次独立施测的期望值，是题目分析和信度计算的基础框架
-> - [[Critical Ethnography]] — 批判理论在行动中的民族志：将权力、不平等和解放作为民族志研究的核心关切，以改变而非仅仅描述社会现实为目标。
 > - [[Hart's Ladder of Participation]] — Hart(1992)提出的评估儿童在研究和社会行动中参与程度的八级阶梯模型，从底层的操纵和装饰到顶层的儿童自主发起与主导，为包容性研究设计提供渐进标准
 > - [[Item Response Theory]] — 基于潜在特质假设的现代测量理论，认为题目难度和区分度可以独立于施测样本被描述，受试者能力也可以独立于具体测验题目被估计，是计算机自适应测验的理论基础
 > - [[Maxwell's Interactive Model of Research Design]] — Maxwell(2005)提出的质性研究互动设计模型，以研究问题为核心，强调目标、概念框架、方法、效度五个领域之间的相互通知和迭代涌现关系，反对线性规划。
@@ -1158,10 +1162,7 @@ Total entries: **2328**
 > - [[Situated Ethics]] — 一种研究伦理立场，主张伦理原则在不同的研究实践中被中介而具有不同意义，伦理决定不可诉诸单义普适原则或守则，必须权衡具体情境中的特殊冲突和困境
 > - [[Sociology of Measurement]] — 将测量视为社会技术来分析的框架，关注测量如何被组织、运作并在实践中塑造对象、关系和世界。
 
-> [!index-list]- Science Communication (1)
-> - [[Van Leeuwen's Legitimation Theory]] — 分析公共论述如何取得正当性的四层次框架，包括权威与传统、道德价值、理性与真理、奖励叙事，可用于解释教育政策如何包装证据立场
-
-> [!index-list]- Sociology of Education (15)
+> [!index-list]- Sociology of Education (16)
 > - [[Bacchi's WPR Approach]] — Carol Bacchi (2009) 提出的政策分析框架，通过六个递进问题审视政策文本中问题如何被表征和建构，揭示权力、假设和沉默，属于批判政策社会学传统。
 > - [[Burrell and Morgan Four Assumptions Framework]] — Burrell and Morgan (1979) 提出的分析社会研究范式差异的理论框架，以本体论、认识论、人性和方法论四组假设沿主观–客观维度排列，揭示一切方法论的差异根植于更深层的哲学假设差异。
 > - [[Capability Approach]] — Drèze & Sen (2002) 的可行能力路径在教育中的应用：区分教育对个人自由的五种价值（内在重要性、工具性个人/社会/过程角色、赋权与分配），Boyadjieva (2022) 以此为基础构建高等教育多维使命模型
@@ -1171,6 +1172,7 @@ Total entries: **2328**
 > - [[Dual-Process Model of Culture in Action]] — 解释行动为何同时受反思性策略与深层价值倾向驱动的文化社会学理论，强调两种过程在不同意识层次上并存
 > - [[Ethnomethodology]] — 加芬克尔创立的社会学研究取向，将日常生活中最普通的活动作为经验研究对象，关注人们如何运用共享的隐性知识使社会互动变得可理解和可说明。
 > - [[Lefebvre's Spatial Triad]] — Henri Lefebvre（1991）提出的空间分析框架，将空间分为感知空间（空间实践）、构想空间（空间表征）和活生生空间（表征性空间）三个辩证互动的维度，为理解大学教师如何在区域空间中桥接产学政网络提供了分析工具
+> - [[Network Society]] — 把现代社会理解为由流动网络而非稳定等级结构主导的理论，用于解释信息、资本与知识如何在跨边界连接中重新组织
 > - [[Organizational Culture]] — Schein（1992）提出的组织文化三层次框架：器物、价值观与深层规范；器物是可观察的表层显现，但只能提示组织在做什么，不能说明其缘由
 > - [[Rational Action Theory]] — 以相对风险规避为核心机制解释不同阶层教育选择差异的中层理论，主张教育决策是阶级条件下对成本、风险和收益的理性计算
 > - [[Refraction Framework]] — Downey & Condron (2016) 的学校与不平等折射理论：学校可沿不同维度以补偿性、加剧性或中性方式塑造不平等，强调差距在学校入学前已形成
@@ -1178,13 +1180,10 @@ Total entries: **2328**
 > - [[Symbolic Interactionism]] — 源自微观社会学与社会心理学的核心理论范式，主张行动者基于事物对自身的主观意义采取行动，意义在符号互动与角色扮演中持续涌现、协商与修正，互动本身构成探究的基本分析单位。
 > - [[Thomas Theorem]] — 符号互动论与微观教育社会学的奠基性定理，指出行动者对情境的主观定义决定其行动取向并产生真实客观后果，揭示了微观意义协商、制度性权力强制与自证预言的辩证张力。
 
-> [!index-list]- University Industry Collaboration (12)
-> - [[Biglan's Disciplinary Classification Scheme]] — Anthony Biglan 提出的经典三维学科分类理论，依据范式共识程度（硬学科 vs 软学科）、应用实践取向（纯科学 vs 应用科学）及研究对象生命属性（生命 vs 非生命）划分学术门类，是研究高等教育学科文化与认识论信念的基础框架。
-> - [[Creative Tension of Sense]] — Dell Delambre 的认识论：新世界永远在旧世界内部诞生，新旧之间的意义张力是意义创造的根本条件，主张承载而非消解张力，与 Mignolo、Dussel、Santos 等去殖民思想对话
+> [!index-list]- University Industry Collaboration (9)
 > - [[Dollinger et al. Framework for UI Collaboration]] — Dollinger et al. (2018) 提出的国际产学合作分析框架，从环境因素、技术因素和管理因素三个维度评估合作，可用于国际合作关系的基准比较和进展评估
 > - [[King-Persily Model]] — King and Persily（2019）提出的产学合作数据治理模型，通过引入第三方委员会来解耦研究者对产业数据和专有信息的完全访问，最初针对社会科学与社交媒体大数据场景，Swick and Jones（2025）讨论了其在生物医学创新中的适用性
 > - [[Lester's Typology of University Contributions to Local Industry]] — Richard Lester（MIT, 2005）提出的分类框架，根据本地产业类型和所处产业生命周期阶段，将大学对本地经济的贡献划分为四种类型——新兴产业培育、产业引进/移植、现有产业多样化、现有产业升级
-> - [[Network Society]] — 把现代社会理解为由流动网络而非稳定等级结构主导的理论，用于解释信息、资本与知识如何在跨边界连接中重新组织
 > - [[RIA Model for Innovation]] — Schlegel-UW 老龄化研究所提出的四阶段创新模型，包括知识生成、孵化、加速和动员，描述研究型产学合作从基础研究到社会影响的完整链条
 > - [[Stokes' Quadrant Model of Scientific Research]] — Stokes (1997) 提出的二维研究分类框架，以对基础理解的追求程度和对应用的考虑程度为两个独立维度，将科学研究分为玻尔象限、巴斯德象限、爱迪生象限和第四象限，取代传统的基础-应用一维谱系
 > - [[Systems of Innovation]] — Lundvall 等人发展的理论框架，将创新理解为多行动者在特定制度环境下通过网络和市场互动进行的集体学习活动，强调制度、网络和吸收能力对创新绩效的关键作用，1980–90年代后成为多国创新政策的主导范式
@@ -1224,7 +1223,7 @@ Total entries: **2328**
 > - [[Repertory Grid Technique]] — 基于个人建构理论的研究工具，通过元素与构念的交叉评分矩阵同时收集质性（构念标签）和量化（网格评分）数据，实现个体化测量与跨个体比较的平衡。
 > - [[Sequential Mixed Methods Sampling]] — 一种样本先于另一种并影响后续样本的混合方法抽样设计，定量数据可为深度访谈设置场景，或定性数据可为量化调查识别议题
 
-> [!index-list]- Qualitative (113)
+> [!index-list]- Qualitative (114)
 > - [[Account Gathering]] — Brown和Sime发展的陈述收集操作框架，包含信息提供者、陈述收集情境、陈述转化和研究者陈述四个要素及每项对应的控制程序。
 > - [[Accounts]] — 一种以情境中的语言为焦点的质性资料收集方法，通过引发和分析参与者对其行动的言语说明来解释社会行为，植根于人因取向和诠释范式。
 > - [[Action Narratives]] — 研究因果性的质性路径，通过行动者自身对动机、理由和情境的叙事来揭示因果过程如何运作，与罗生门效应和多重因果路径密切相关
@@ -1250,6 +1249,7 @@ Total entries: **2328**
 > - [[Content Analysis]] — 系统分析开放文本与传播材料的推论性研究方法，通过严格的分析单位界定、范畴化编码、频次统计与语境解释，从书面材料向其使用语境作出可重复且有效的理论推论
 > - [[Convenience Sampling]] — 选择最近便或最容易接触的个体作为样本的非概率抽样方法，不追求总体代表性，常见于小规模研究、案例研究和问卷试点
 > - [[Critical Companion]] — 一种质性话语分析方法，通过批判性陪伴而非传统系统综述检视政策话语框架，识别其核心特征、共同模式和盲点
+> - [[Critical Ethnography]] — 批判理论在行动中的民族志：将权力、不平等和解放作为民族志研究的核心关切，以改变而非仅仅描述社会现实为目标。
 > - [[Critical Incidents]] — 一种观察技术，聚焦于非例行但极具揭示性的特定事件或发生，这些事件可能典型地或鲜明地阐明情境、行为或教学风格的重要特征
 > - [[Critical Review]] — 超越描述性文献汇总的定性研究综述方法，通过批判性分析和综合既有文献的概念框架与理论假设，挑战既有思想流派并为新概念发展提供发射平台
 > - [[Cross-checking]] — 质性研究中多位研究者独立分析相同材料后协商一致以预防系统性偏见的验证技术。

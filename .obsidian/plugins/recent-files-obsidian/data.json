@@ -1,16 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Glitz_2020_AER",
+      "path": "wiki/arguments/journal-articles/American Economic Review/Argument_Glitz_2020_AER.md"
+    },
+    {
+      "basename": "Autopoiesis",
+      "path": "wiki/theories/educational-philosophy/Autopoiesis.md"
+    },
+    {
+      "basename": "Walton's Argumentation Schemes",
+      "path": "wiki/theories/argumentation-and-logic/Walton's Argumentation Schemes.md"
+    },
+    {
+      "basename": "David Watkins",
+      "path": "wiki/persons/australia/David Watkins.md"
+    },
+    {
+      "basename": "Fazal Rizvi",
+      "path": "wiki/persons/australia/Fazal Rizvi.md"
+    },
+    {
+      "basename": "Bob Lingard",
+      "path": "wiki/persons/australia/Bob Lingard.md"
+    },
+    {
+      "basename": "John Biggs",
+      "path": "wiki/persons/australia/John Biggs.md"
+    },
+    {
+      "basename": "Stephen Kemmis",
+      "path": "wiki/persons/australia/Stephen Kemmis.md"
+    },
+    {
+      "basename": "Scott Eacott",
+      "path": "wiki/persons/australia/Scott Eacott.md"
+    },
+    {
       "basename": "Chen Kuan-Hsing",
       "path": "wiki/persons/taiwan/Chen Kuan-Hsing.md"
     },
     {
       "basename": "Curriculum Design Coherence Model",
       "path": "wiki/theories/curriculum/Curriculum Design Coherence Model.md"
-    },
-    {
-      "basename": "Bob Lingard",
-      "path": "wiki/persons/australia/Bob Lingard.md"
     },
     {
       "basename": "Alejandro Artopoulos",
@@ -167,38 +199,6 @@
     {
       "basename": "Type I and Type II Errors",
       "path": "wiki/concepts/research-methodology/Type I and Type II Errors.md"
-    },
-    {
-      "basename": "Threats to External Validity",
-      "path": "wiki/concepts/research-methodology/Threats to External Validity.md"
-    },
-    {
-      "basename": "Theoretical Standpoint",
-      "path": "wiki/concepts/research-methodology/Theoretical Standpoint.md"
-    },
-    {
-      "basename": "Theoretical Perspective",
-      "path": "wiki/concepts/research-methodology/Theoretical Perspective.md"
-    },
-    {
-      "basename": "Theoretical Validity",
-      "path": "wiki/concepts/research-methodology/Theoretical Validity.md"
-    },
-    {
-      "basename": "Response Bias",
-      "path": "wiki/concepts/research-methodology/Response Bias.md"
-    },
-    {
-      "basename": "Research Topic",
-      "path": "wiki/concepts/research-methodology/Research Topic.md"
-    },
-    {
-      "basename": "Research Scope",
-      "path": "wiki/concepts/research-methodology/Research Scope.md"
-    },
-    {
-      "basename": "Literature Review",
-      "path": "wiki/concepts/research-methodology/Literature Review.md"
     }
   ],
   "omittedPaths": [],

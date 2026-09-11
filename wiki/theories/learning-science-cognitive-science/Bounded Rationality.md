@@ -4,7 +4,7 @@ aliases:
   - 有限理性
 summary: "解释人在信息、时间和计算能力受限条件下如何决策的理论，可用于说明教师和专业人员为何依赖简化判断、经验规则与情境推理"
 type: theory
-theory_field: "instruction-pedagogy"
+theory_field: "learning-science-cognitive-science"
 theory_related_count: 10
 theory_related_level: 1
 theory_related_stars: "⭐"
@@ -17,12 +17,12 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
-  - "[[Analytic Framework]]"
   - "[[Professional Judgment]]"
   - "[[Visible Learning]]"
 related_theories:
   - "[[Luhmann's Systems Theory]]"
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Effect Size]]"
 related_persons:
   - "[[Herbert A. Simon]]"
@@ -32,7 +32,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-03'
-updated: '2026-05-18'
+updated: 2026-09-11
 ---
 
 ## 核心主张

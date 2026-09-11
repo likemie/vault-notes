@@ -6,7 +6,7 @@ aliases:
   - 卡温顿自我价值理论
 summary: "Covington (1976) 提出的成就动机理论，认为人类将能力感知为自我价值，会采取各种策略保护自我价值免受失败威胁"
 type: theory
-theory_field: "learning-science-cognitive-science"
+theory_field: "educational-psychology"
 theory_related_count: 2
 theory_related_level: 0
 theory_related_stars: "☆"
@@ -26,7 +26,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-08-20
+updated: 2026-09-11
 ---
 
 # Self-Worth Theory

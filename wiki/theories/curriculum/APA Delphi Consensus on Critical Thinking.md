@@ -8,7 +8,7 @@ aliases:
   - Delphi Consensus on Critical Thinking
 summary: "由美国哲学学会主持、Peter Facione 领衔 46 位国际学者达成的里程碑式共识报告，系统确立了批判性思维的六大核心认知技能与七大情意倾向双元框架"
 type: theory
-theory_field: "educational-philosophy"
+theory_field: "curriculum"
 theory_related_count: 24
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: '2026-08-27'
+updated: 2026-09-11
 ---
 
 # APA Delphi Consensus on Critical Thinking

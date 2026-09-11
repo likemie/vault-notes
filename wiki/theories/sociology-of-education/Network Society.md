@@ -4,7 +4,7 @@ aliases:
   - 网络社会
 summary: "把现代社会理解为由流动网络而非稳定等级结构主导的理论，用于解释信息、资本与知识如何在跨边界连接中重新组织"
 type: theory
-theory_field: "university-industry-collaboration"
+theory_field: "sociology-of-education"
 theory_related_count: 18
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
@@ -43,7 +43,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-11'
-updated: '2026-05-18'
+updated: 2026-09-11
 ---
 
 ## 核心主张

@@ -2,19 +2,12 @@
 title: Academic Capitalism
 aliases:
   - 学术资本主义
-  - academic capitalism
 summary: "Slaughter & Leslie (1997) 提出的概念，描述大学日益卷入专利商业化、产学合作和竞争性拨款等市场导向活动，学术生产与资本积累逻辑深度绑定的制度转型过程"
 type: theory
-theory_field: "political-economy-geopolitics"
+theory_field: "higher-education"
 theory_related_count: 15
 theory_related_level: 1
 theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
-domain: "political-economy-geopolitics"
-related_count: 15
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
 tags:
   - academic-capitalism
   - political-economy
@@ -46,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-09-11
 ---
 
 # Academic Capitalism

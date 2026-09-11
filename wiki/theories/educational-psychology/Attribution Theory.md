@@ -6,7 +6,7 @@ aliases:
   - 维纳归因理论
 summary: "Weiner (1976) 提出的动机理论，以因果归因解释人们对成就结果的情感和行为反应，包括 locus、stability、control 三个维度"
 type: theory
-theory_field: "learning-science-cognitive-science"
+theory_field: "educational-psychology"
 theory_related_count: 4
 theory_related_level: 0
 theory_related_stars: "☆"
@@ -28,7 +28,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-08-20
+updated: 2026-09-11
 ---
 
 # Attribution Theory

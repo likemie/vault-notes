@@ -10023,6 +10023,42 @@
     ]
   },
   {
+    "title": "Pragma-Dialectics",
+    "type": "theory",
+    "path": "wiki/theories/argumentation-and-logic/Pragma-Dialectics.md",
+    "aliases": [
+      "语用辩证学派",
+      "语用辩证法",
+      "pragma-dialectical approach",
+      "pragma-dialectical theory",
+      "语用辩证论证理论"
+    ]
+  },
+  {
+    "title": "Toulmin's Argumentation Model",
+    "type": "theory",
+    "path": "wiki/theories/argumentation-and-logic/Toulmin's Argumentation Model.md",
+    "aliases": [
+      "图尔敏论证模型",
+      "Toulmin Model",
+      "图尔敏模型",
+      "Toulmin's model of argumentation",
+      "TAP"
+    ]
+  },
+  {
+    "title": "Walton's Argumentation Schemes",
+    "type": "theory",
+    "path": "wiki/theories/argumentation-and-logic/Walton's Argumentation Schemes.md",
+    "aliases": [
+      "沃尔顿论证型式",
+      "Walton Argumentation Schemes",
+      "沃尔顿论辩方案",
+      "论证型式理论",
+      "Argumentation Schemes"
+    ]
+  },
+  {
     "title": "Confucian Learning Tradition",
     "type": "theory",
     "path": "wiki/theories/chinese-philosophy/Confucian Learning Tradition.md",
@@ -10150,6 +10186,18 @@
     ]
   },
   {
+    "title": "APA Delphi Consensus on Critical Thinking",
+    "type": "theory",
+    "path": "wiki/theories/curriculum/APA Delphi Consensus on Critical Thinking.md",
+    "aliases": [
+      "德尔菲专家共识",
+      "德尔菲批判性思维共识",
+      "德尔菲批判性思维共识框架",
+      "Delphi Report on Critical Thinking",
+      "Delphi Consensus on Critical Thinking"
+    ]
+  },
+  {
     "title": "Bloom's Taxonomy",
     "type": "theory",
     "path": "wiki/theories/curriculum/Bloom's Taxonomy.md",
@@ -10213,18 +10261,6 @@
     ]
   },
   {
-    "title": "APA Delphi Consensus on Critical Thinking",
-    "type": "theory",
-    "path": "wiki/theories/educational-philosophy/APA Delphi Consensus on Critical Thinking.md",
-    "aliases": [
-      "德尔菲专家共识",
-      "德尔菲批判性思维共识",
-      "德尔菲批判性思维共识框架",
-      "Delphi Report on Critical Thinking",
-      "Delphi Consensus on Critical Thinking"
-    ]
-  },
-  {
     "title": "Autopoiesis",
     "type": "theory",
     "path": "wiki/theories/educational-philosophy/Autopoiesis.md",
@@ -10251,6 +10287,17 @@
       "complexity science",
       "complex adaptive systems",
       "复杂适应系统"
+    ]
+  },
+  {
+    "title": "Creative Tension of Sense",
+    "type": "theory",
+    "path": "wiki/theories/educational-philosophy/Creative Tension of Sense.md",
+    "aliases": [
+      "意义创造性张力",
+      "tension theory",
+      "creative tension of sense theory",
+      "创造性意义张力理论"
     ]
   },
   {
@@ -10344,18 +10391,6 @@
     ]
   },
   {
-    "title": "Pragma-Dialectics",
-    "type": "theory",
-    "path": "wiki/theories/educational-philosophy/Pragma-Dialectics.md",
-    "aliases": [
-      "语用辩证学派",
-      "语用辩证法",
-      "pragma-dialectical approach",
-      "pragma-dialectical theory",
-      "语用辩证论证理论"
-    ]
-  },
-  {
     "title": "Pragmatic Constructivism",
     "type": "theory",
     "path": "wiki/theories/educational-philosophy/Pragmatic Constructivism.md",
@@ -10438,18 +10473,6 @@
     ]
   },
   {
-    "title": "Toulmin's Argumentation Model",
-    "type": "theory",
-    "path": "wiki/theories/educational-philosophy/Toulmin's Argumentation Model.md",
-    "aliases": [
-      "图尔敏论证模型",
-      "Toulmin Model",
-      "图尔敏模型",
-      "Toulmin's model of argumentation",
-      "TAP"
-    ]
-  },
-  {
     "title": "Transactional Epistemology",
     "type": "theory",
     "path": "wiki/theories/educational-philosophy/Transactional Epistemology.md",
@@ -10471,18 +10494,6 @@
     "path": "wiki/theories/educational-philosophy/Virtue Epistemology.md",
     "aliases": [
       "美德认识论"
-    ]
-  },
-  {
-    "title": "Walton's Argumentation Schemes",
-    "type": "theory",
-    "path": "wiki/theories/educational-philosophy/Walton's Argumentation Schemes.md",
-    "aliases": [
-      "沃尔顿论证型式",
-      "Walton Argumentation Schemes",
-      "沃尔顿论辩方案",
-      "论证型式理论",
-      "Argumentation Schemes"
     ]
   },
   {
@@ -10539,6 +10550,16 @@
     ]
   },
   {
+    "title": "Van Leeuwen's Legitimation Theory",
+    "type": "theory",
+    "path": "wiki/theories/educational-policy-reform/Van Leeuwen's Legitimation Theory.md",
+    "aliases": [
+      "Legitimation Theory Van Leeuwen",
+      "范李文的合法化理论",
+      "合法化理论"
+    ]
+  },
+  {
     "title": "AIR Model of Epistemic Cognition",
     "type": "theory",
     "path": "wiki/theories/educational-psychology/AIR Model of Epistemic Cognition.md",
@@ -10555,6 +10576,16 @@
     "path": "wiki/theories/educational-psychology/Argumentative Reasoning.md",
     "aliases": [
       "论辩推理"
+    ]
+  },
+  {
+    "title": "Attribution Theory",
+    "type": "theory",
+    "path": "wiki/theories/educational-psychology/Attribution Theory.md",
+    "aliases": [
+      "归因理论",
+      "Weiner's attribution theory",
+      "维纳归因理论"
     ]
   },
   {
@@ -10660,6 +10691,16 @@
     ]
   },
   {
+    "title": "Self-Worth Theory",
+    "type": "theory",
+    "path": "wiki/theories/educational-psychology/Self-Worth Theory.md",
+    "aliases": [
+      "自我价值理论",
+      "Covington's self-worth theory",
+      "卡温顿自我价值理论"
+    ]
+  },
+  {
     "title": "Situative Perspective",
     "type": "theory",
     "path": "wiki/theories/educational-psychology/Situative Perspective.md",
@@ -10709,22 +10750,44 @@
     ]
   },
   {
+    "title": "Academic Capitalism",
+    "type": "theory",
+    "path": "wiki/theories/higher-education/Academic Capitalism.md",
+    "aliases": [
+      "学术资本主义"
+    ]
+  },
+  {
+    "title": "Biglan's Disciplinary Classification Scheme",
+    "type": "theory",
+    "path": "wiki/theories/higher-education/Biglan's Disciplinary Classification Scheme.md",
+    "aliases": [
+      "比格兰学科分类模型",
+      "比格兰学科分类理论",
+      "Biglan's classification of academic disciplines",
+      "Biglan's model of academic disciplines",
+      "Biglan's disciplinary taxonomy"
+    ]
+  },
+  {
+    "title": "Neo-feudalism in Higher Education",
+    "type": "theory",
+    "path": "wiki/theories/higher-education/Neo-feudalism in Higher Education.md",
+    "aliases": [
+      "高等教育新封建主义",
+      "academic neo-feudalism",
+      "学术新封建主义"
+    ]
+  },
+  {
     "title": "Zawacki-Richter AI in Higher Education Framework",
     "type": "theory",
-    "path": "wiki/theories/educational-technology/Zawacki-Richter AI in Higher Education Framework.md",
+    "path": "wiki/theories/higher-education/Zawacki-Richter AI in Higher Education Framework.md",
     "aliases": [
       "高等教育人工智能四维分类框架",
       "人工智能教育应用四维分类框架",
       "Zawacki-Richter AIEd Framework",
       "高等教育人工智能应用框架"
-    ]
-  },
-  {
-    "title": "Bounded Rationality",
-    "type": "theory",
-    "path": "wiki/theories/instruction-pedagogy/Bounded Rationality.md",
-    "aliases": [
-      "有限理性"
     ]
   },
   {
@@ -10799,13 +10862,11 @@
     ]
   },
   {
-    "title": "Attribution Theory",
+    "title": "Bounded Rationality",
     "type": "theory",
-    "path": "wiki/theories/learning-science-cognitive-science/Attribution Theory.md",
+    "path": "wiki/theories/learning-science-cognitive-science/Bounded Rationality.md",
     "aliases": [
-      "归因理论",
-      "Weiner's attribution theory",
-      "维纳归因理论"
+      "有限理性"
     ]
   },
   {
@@ -10903,31 +10964,12 @@
     ]
   },
   {
-    "title": "Self-Worth Theory",
-    "type": "theory",
-    "path": "wiki/theories/learning-science-cognitive-science/Self-Worth Theory.md",
-    "aliases": [
-      "自我价值理论",
-      "Covington's self-worth theory",
-      "卡温顿自我价值理论"
-    ]
-  },
-  {
     "title": "Walberg's Educational Productivity Model",
     "type": "theory",
     "path": "wiki/theories/learning-science-cognitive-science/Walberg's Educational Productivity Model.md",
     "aliases": [
       "教育生产力模型",
       "Walberg九因素模型"
-    ]
-  },
-  {
-    "title": "Academic Capitalism",
-    "type": "theory",
-    "path": "wiki/theories/political-economy-geopolitics/Academic Capitalism.md",
-    "aliases": [
-      "学术资本主义",
-      "academic capitalism"
     ]
   },
   {
@@ -11066,17 +11108,6 @@
     "aliases": [
       "死亡政治",
       "死亡政治学"
-    ]
-  },
-  {
-    "title": "Neo-feudalism in Higher Education",
-    "type": "theory",
-    "path": "wiki/theories/political-economy-geopolitics/Neo-feudalism in Higher Education.md",
-    "aliases": [
-      "高等教育新封建主义",
-      "neo-feudalism in higher education",
-      "academic neo-feudalism",
-      "学术新封建主义"
     ]
   },
   {
@@ -11228,15 +11259,6 @@
     ]
   },
   {
-    "title": "Critical Ethnography",
-    "type": "theory",
-    "path": "wiki/theories/research-methodology/Critical Ethnography.md",
-    "aliases": [
-      "批判民族志",
-      "critical ethnographic research"
-    ]
-  },
-  {
     "title": "Hart's Ladder of Participation",
     "type": "theory",
     "path": "wiki/theories/research-methodology/Hart's Ladder of Participation.md",
@@ -11317,16 +11339,6 @@
     "path": "wiki/theories/research-methodology/Sociology of Measurement.md",
     "aliases": [
       "测量社会学"
-    ]
-  },
-  {
-    "title": "Van Leeuwen's Legitimation Theory",
-    "type": "theory",
-    "path": "wiki/theories/science-communication/Van Leeuwen's Legitimation Theory.md",
-    "aliases": [
-      "Legitimation Theory Van Leeuwen",
-      "范李文的合法化理论",
-      "合法化理论"
     ]
   },
   {
@@ -11423,6 +11435,14 @@
     ]
   },
   {
+    "title": "Network Society",
+    "type": "theory",
+    "path": "wiki/theories/sociology-of-education/Network Society.md",
+    "aliases": [
+      "网络社会"
+    ]
+  },
+  {
     "title": "Organizational Culture",
     "type": "theory",
     "path": "wiki/theories/sociology-of-education/Organizational Culture.md",
@@ -11484,29 +11504,6 @@
     ]
   },
   {
-    "title": "Biglan's Disciplinary Classification Scheme",
-    "type": "theory",
-    "path": "wiki/theories/university-industry-collaboration/Biglan's Disciplinary Classification Scheme.md",
-    "aliases": [
-      "比格兰学科分类模型",
-      "比格兰学科分类理论",
-      "Biglan's classification of academic disciplines",
-      "Biglan's model of academic disciplines",
-      "Biglan's disciplinary taxonomy"
-    ]
-  },
-  {
-    "title": "Creative Tension of Sense",
-    "type": "theory",
-    "path": "wiki/theories/university-industry-collaboration/Creative Tension of Sense.md",
-    "aliases": [
-      "意义创造性张力",
-      "tension theory",
-      "creative tension of sense theory",
-      "创造性意义张力理论"
-    ]
-  },
-  {
     "title": "Dollinger et al. Framework for UI Collaboration",
     "type": "theory",
     "path": "wiki/theories/university-industry-collaboration/Dollinger et al. Framework for UI Collaboration.md",
@@ -11536,14 +11533,6 @@
       "Lester's typology",
       "大学对本地产业的贡献类型",
       "Lester local innovation typology"
-    ]
-  },
-  {
-    "title": "Network Society",
-    "type": "theory",
-    "path": "wiki/theories/university-industry-collaboration/Network Society.md",
-    "aliases": [
-      "网络社会"
     ]
   },
   {
@@ -12118,6 +12107,15 @@
       "批判性伴随",
       "critical companion approach",
       "批判性伴随方法"
+    ]
+  },
+  {
+    "title": "Critical Ethnography",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Critical Ethnography.md",
+    "aliases": [
+      "批判民族志",
+      "critical ethnographic research"
     ]
   },
   {

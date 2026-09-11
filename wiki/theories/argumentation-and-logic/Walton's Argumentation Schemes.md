@@ -8,7 +8,7 @@ aliases:
   - Argumentation Schemes
 summary: "Douglas Walton 提出的非形式逻辑论证分析理论，将日常与专业论辩归纳为数十种基于似真推理的论证型式，并配套批判性提问清单以检验论证的辩护效力。"
 type: theory
-theory_field: "educational-philosophy"
+theory_field: "argumentation-and-logic"
 theory_related_count: 20
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-10
-updated: 2026-09-10
+updated: 2026-09-11
 ---
 
 # Walton's Argumentation Schemes

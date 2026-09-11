@@ -8,7 +8,7 @@ aliases:
   - 语用辩证论证理论
 summary: "van Eemeren and Grootendorst 发展的论证理论，将论证分析为旨在解决意见分歧的言语行为序列，整合形式逻辑、非形式逻辑与修辞学洞察，提供评价论证质量的规范性程序标准"
 type: theory
-theory_field: "educational-philosophy"
+theory_field: "argumentation-and-logic"
 theory_related_count: 11
 theory_related_level: 1
 theory_related_stars: "⭐"
@@ -38,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-04
-updated: 2026-07-04
+updated: 2026-09-11
 ---
 
 # Pragma-Dialectics
