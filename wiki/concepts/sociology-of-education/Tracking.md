@@ -8,7 +8,11 @@ aliases:
   - streaming
 summary: "根据学术能力、测试成绩或职业取向将学生分配至不同课程轨道、教学班组或学校类型的制度化分流实践，在宏观上加剧社会阶层隔离并削弱公平与动机，在微观上强化能力固化信念与自我实现预言"
 type: concept
-domain: sociology-of-education
+domain: "sociology-of-education"
+related_count: 15
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/inequality
   - theme/stratification
@@ -90,7 +94,7 @@ updated: 2026-09-11
 ## 核心要素
 
 > [!feature] 核心要素
-> - **能力固化假设（Fixed Ability Assumption）** 分轨制的核心哲学前提是默认学生的智力前景与学术潜力在进入初高中时已不可逆地定型（Oakes & Guiton, 1995; 转引自 [[Argument_Li_2012_Cambridge|Li, 2012, pp. 98–99]]）。教学设计的目的从“促成学生潜能转化”蜕化为“被动适应已有的能力分类”，使轨道成为预先锁定的终点分配。
+> - **能力固化假设（Fixed Ability Assumption）** 分轨制的核心哲学前提是默认学生的智力前景与学术潜力在进入初高中时已不可逆地定型（Oakes & Guiton, 1995）。教学设计的目的从“促成学生潜能转化”蜕化为“被动适应已有的能力分类”，使轨道成为预先锁定的终点分配。
 > - **双重隔离机制（Double Segregation）** 跨国评估实证揭示，学力分轨绝非单纯的技术分类，它在统计分布上与家庭社会经济地位（SES）及少数族裔背景高度重合，将原本隐蔽的阶层不平等固化为显性的制度隔离（OECD, 2013b; [[Argument_Grey_2018_CE|Grey & Morris, 2018, p. 114]]）。
 > - **课程暴露与机会鸿沟（Opportunity Gap in Exposure）** 低轨学生遭遇教学节奏放缓与正规核心课程（如高级形式数学）暴露频次的系统性剥夺；缺乏挑战性思维训练使原本微小的学业差距在制度化规训中被成倍拉大。
 > - **个人降级与自我实现的失败预言（Personal Downgrading & Self-Fulfilling Prophecy）** 低轨学生吸收了“自己能力有限、努力无用”的实体论信念，体验深刻的自我贬低并降低努力水平；教师亦对低轨班级持有低期望与防卫性教学，最终“印证”了初始预设（[[Argument_Li_2012_Cambridge|Li, 2012, pp. 98–99]]）。
@@ -205,5 +209,5 @@ updated: 2026-09-11
 > | [[Mediatised Governance]] | Concept | 导致跨国评估中关于分轨的严谨实证建议被本土政治与媒介逻辑联合绑架的宏观治理形态。 |
 > | [[Jin Li]] | Person | 从文化心理学与固定自我观视角深度解构美中分轨差异的核心学者。 |
 > | [[Paul Morris]] | Person | 揭示英格兰执政精英在应对 PISA 时选择性遗漏分轨负面实证结论的比较教育学者。 |
-> | [[Argument_Li_2012_Cambridge]] | Argument | 剖析分轨制的天赋假设、适应逻辑、个人降级与美中跨文化差异的奠基专著。 |
-> | [[Argument_Grey_2018_CE]] | Argument | 记录经合组织对分轨破坏公平的实证发现及英国政客“遗漏话语”的关键期刊文献。 |
+> | [[Argument_Li_2012_Cambridge\|Li (2012)]] | Argument | 剖析分轨制的天赋假设、适应逻辑、个人降级与美中跨文化差异的奠基专著。 |
+> | [[Argument_Grey_2018_CE\|Grey & Morris (2018)]] | Argument | 记录经合组织对分轨破坏公平的实证发现及英国政客“遗漏话语”的关键期刊文献。 |

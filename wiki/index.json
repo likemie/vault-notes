@@ -3962,6 +3962,18 @@
     ]
   },
   {
+    "title": "School Inspection",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/School Inspection.md",
+    "aliases": [
+      "学校督导",
+      "教育督导",
+      "教学督导",
+      "外部学校督导",
+      "educational inspection"
+    ]
+  },
+  {
     "title": "Scientific Attitude",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Scientific Attitude.md",

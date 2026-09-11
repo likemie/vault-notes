@@ -9,7 +9,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -23,6 +23,7 @@ tags:
   - accountability
   - region/uk
 related_concepts:
+  - "[[School Inspection]]"
   - "[[Moral Sidestep]]"
   - "[[Justified Warrants]]"
   - "[[Evidence-Based Education]]"
@@ -60,7 +61,7 @@ updated: 2026-09-11
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 英国教育、儿童服务和技能标准办公室（Office for Standards in Education, Children's Services and Skills, Ofsted）是一个直接向英国议会报告的非内阁政府部门（Non-ministerial department），法定职能是对英格兰地区的公立学校、独立学校、教师培训机构及儿童看护服务进行独立监督与质量评级。在教育政策治理中，Ofsted 构成了国家强力督导问责体制的行政枢纽；但学术实证研究表明，其行政检查结论在政策辩论中常被系统性混同为严谨的实证研究证据（[[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022]]），并在执政精英的危机叙事中被工具化为压制专业自治、推动激进市场化重组的高压惩罚杠杆（[[Argument_Grey_2018_CE|Grey & Morris, 2018]]）。
+> 英国教育、儿童服务和技能标准办公室（Office for Standards in Education, Children's Services and Skills, Ofsted）是一个直接向英国议会报告的非内阁政府部门（Non-ministerial department），法定职能是对英格兰地区的公立学校、独立学校、教师培训机构及儿童看护服务进行独立监督与质量评级。在教育政策治理中，Ofsted 构成了国家强力[[School Inspection|学校督导]]问责体制的行政枢纽；但学术实证研究表明，其行政检查结论在政策辩论中常被系统性混同为严谨的实证研究证据（[[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022]]），并在执政精英的危机叙事中被工具化为压制专业自治、推动激进市场化重组的高压惩罚杠杆（[[Argument_Grey_2018_CE|Grey & Morris, 2018]]）。
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1992 年依据英国《教育（学校）法》（Education (Schools) Act 1992）正式创立。其前身为拥有百年历史的女王督学团（Her Majesty's Inspectorate, HMI）。创设初衷是通过建立独立于地方教育局（LEAs）的国家统一督导体系，打破传统专业同行间的温和协商机制，强化中央政府对学校教育质量的直接规制与公众透明度。

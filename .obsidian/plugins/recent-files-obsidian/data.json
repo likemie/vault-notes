@@ -5,6 +5,18 @@
       "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Grey_2018_CE.md"
     },
     {
+      "basename": "Absorptive Capacity",
+      "path": "wiki/concepts/educational-leadership-administration/Absorptive Capacity.md"
+    },
+    {
+      "basename": "Unit of Analysis",
+      "path": "wiki/concepts/research-methodology/Unit of Analysis.md"
+    },
+    {
+      "basename": "Argument_Peterson_1987_OpenCourt_Ch06",
+      "path": "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch06.md"
+    },
+    {
       "basename": "Tracking",
       "path": "wiki/concepts/sociology-of-education/Tracking.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Research Writing Script",
       "path": "wiki/concepts/academic-writing/Research Writing Script.md"
-    },
-    {
-      "basename": "Research Introduction",
-      "path": "wiki/concepts/academic-writing/Research Introduction.md"
-    },
-    {
-      "basename": "Narrative Thought Types",
-      "path": "wiki/concepts/academic-writing/Narrative Thought Types.md"
-    },
-    {
-      "basename": "Hook and Eye Technique",
-      "path": "wiki/concepts/academic-writing/Hook and Eye Technique.md"
     }
   ],
   "omittedPaths": [],
