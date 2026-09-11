@@ -1,0 +1,305 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900" width="100%" height="100%" style="background-color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
+  <defs>
+    <filter id="card-shadow" x="-10%" y="-10%" width="125%" height="125%">
+      <feDropShadow dx="1" dy="2" stdDeviation="2" flood-color="#000000" flood-opacity="0.08"/>
+    </filter>
+  </defs>
+
+  <!-- Title -->
+  <text x="700" y="45" text-anchor="middle" font-size="28" font-weight="700" text-decoration="underline" fill="#1e293b">World of Education IOs</text>
+  <text x="700" y="72" text-anchor="middle" font-size="13" fill="#64748b">Thematic and Geographic Distribution of 30 Intergovernmental Organisations in Education (Martens, Niemann, &amp; Krogmann, 2024, p. 485)</text>
+
+  <!-- Minimalist World Map Background Silhouettes (stylized clean paths) -->
+  <g fill="#e2e8f0" stroke="#cbd5e1" stroke-width="1.2" opacity="0.95">
+    <!-- North America -->
+    <path d="M 180,140 Q 240,110 320,120 Q 380,100 440,130 Q 420,200 370,220 Q 350,280 320,330 Q 280,360 250,330 Q 210,310 180,240 Q 150,180 180,140 Z" />
+    <path d="M 380,80 Q 430,70 460,90 Q 440,120 410,130 Q 380,110 380,80 Z" /> <!-- Greenland -->
+    <!-- Central America & Caribbean -->
+    <path d="M 250,340 Q 280,360 300,410 Q 280,430 260,390 Z" />
+    <!-- South America -->
+    <path d="M 310,430 Q 380,420 420,470 Q 450,540 430,620 Q 390,720 360,780 Q 340,770 330,710 Q 310,610 290,520 Q 280,460 310,430 Z" />
+    <!-- Europe -->
+    <path d="M 630,150 Q 710,120 770,160 Q 780,230 730,270 Q 670,280 640,240 Q 610,200 630,150 Z" />
+    <path d="M 600,160 Q 620,130 630,170 Q 610,210 590,190 Z" /> <!-- UK/Ireland -->
+    <path d="M 680,80 Q 730,70 750,130 Q 710,160 680,140 Z" /> <!-- Scandinavia -->
+    <!-- Africa -->
+    <path d="M 620,310 Q 730,290 780,340 Q 820,420 780,520 Q 750,620 710,690 Q 680,680 660,610 Q 630,510 590,430 Q 580,360 620,310 Z" />
+    <path d="M 790,540 Q 820,530 830,590 Q 800,620 790,570 Z" /> <!-- Madagascar -->
+    <!-- Asia -->
+    <path d="M 770,140 Q 920,110 1120,140 Q 1230,180 1260,280 Q 1200,380 1140,430 Q 1040,410 980,480 Q 920,440 880,350 Q 830,310 780,250 Q 750,180 770,140 Z" />
+    <path d="M 900,340 Q 960,350 970,440 Q 920,490 890,440 Q 870,390 900,340 Z" /> <!-- India -->
+    <path d="M 1040,410 Q 1120,420 1150,510 Q 1090,560 1050,490 Z" /> <!-- SE Asia -->
+    <path d="M 1220,240 Q 1260,230 1270,310 Q 1230,340 1210,290 Z" /> <!-- Japan -->
+    <!-- Australia & New Zealand -->
+    <path d="M 1120,620 Q 1240,600 1280,660 Q 1270,750 1210,790 Q 1130,770 1100,700 Q 1090,650 1120,620 Z" />
+  </g>
+
+  <!-- ==================== BADGE STYLES & DEFINITIONS ==================== -->
+  <style>
+    .badge { filter: url(#card-shadow); cursor: pointer; transition: transform 0.2s; }
+    .badge:hover { transform: scale(1.05); }
+    .label { font-size: 13px; font-weight: 700; text-anchor: middle; dominant-baseline: central; }
+    .sublabel { font-size: 9.5px; fill: #475569; text-anchor: middle; }
+    
+    /* Thematic Colors */
+    /* Economy (Red/Pink): fill #fecaca, stroke #ef4444, text #991b1b */
+    .eco-bg { fill: #fecaca; stroke: #ef4444; stroke-width: 1.5; }
+    .eco-txt { fill: #991b1b; }
+    
+    /* Education (Green): fill #bbf7d0, stroke #22c55e, stroke-width: 1.5; text #166534 */
+    .edu-bg { fill: #bbf7d0; stroke: #22c55e; stroke-width: 1.5; }
+    .edu-txt { fill: #166534; }
+    
+    /* Multi-Purpose (Purple): fill #e9d5ff, stroke #a855f7, stroke-width: 1.5; text #6b21a8 */
+    .multi-bg { fill: #e9d5ff; stroke: #a855f7; stroke-width: 1.5; }
+    .multi-txt { fill: #6b21a8; }
+    
+    /* Single-Purpose (Blue): fill #bfdbfe, stroke #3b82f6, stroke-width: 1.5; text #1e40af */
+    .single-bg { fill: #bfdbfe, stroke: #3b82f6; stroke-width: 1.5; }
+    .single-txt { fill: #1e40af; }
+  </style>
+
+  <!-- ==================== 1. GLOBAL (Left Column: Hexagons) ==================== -->
+  <!-- Shape: Hexagon with right-pointing tip -->
+  <!-- UNESCO (Education, Green) -->
+  <g class="badge" transform="translate(30, 240)">
+    <polygon points="0,0 90,0 110,20 90,40 0,40 15,20" class="edu-bg" />
+    <text x="52" y="20" class="label edu-txt">UNESCO</text>
+  </g>
+
+  <!-- UNHCR (Single-Purpose, Blue) -->
+  <g class="badge" transform="translate(30, 290)">
+    <polygon points="0,0 90,0 110,20 90,40 0,40 15,20" class="single-bg" />
+    <text x="52" y="20" class="label single-txt">UNHCR</text>
+  </g>
+
+  <!-- ILO (Single-Purpose, Blue) -->
+  <g class="badge" transform="translate(30, 340)">
+    <polygon points="0,0 90,0 110,20 90,40 0,40 15,20" class="single-bg" />
+    <text x="52" y="20" class="label single-txt">ILO</text>
+  </g>
+
+  <!-- UNICEF (Single-Purpose, Blue) -->
+  <g class="badge" transform="translate(30, 390)">
+    <polygon points="0,0 90,0 110,20 90,40 0,40 15,20" class="single-bg" />
+    <text x="52" y="20" class="label single-txt">UNICEF</text>
+  </g>
+
+  <!-- WB (Economy, Red) -->
+  <g class="badge" transform="translate(30, 440)">
+    <polygon points="0,0 90,0 110,20 90,40 0,40 15,20" class="eco-bg" />
+    <text x="52" y="20" class="label eco-txt">WB</text>
+  </g>
+
+  <!-- OECD (Economy, Red) -->
+  <g class="badge" transform="translate(30, 490)">
+    <polygon points="0,0 90,0 110,20 90,40 0,40 15,20" class="eco-bg" />
+    <text x="52" y="20" class="label eco-txt">OECD</text>
+  </g>
+
+  <!-- ==================== 2. TRANSREGIONAL (Ovals) ==================== -->
+  <!-- Commonwealth (Multi-Purpose, Purple) - North Atlantic / near UK -->
+  <g class="badge" transform="translate(450, 250)">
+    <ellipse cx="60" cy="20" rx="65" ry="20" class="multi-bg" />
+    <text x="60" y="20" class="label multi-txt">Commonw.</text>
+  </g>
+
+  <!-- OEI (Education, Green) - Mid-Atlantic / Ibero-America -->
+  <g class="badge" transform="translate(470, 320)">
+    <ellipse cx="50" cy="18" rx="50" ry="18" class="edu-bg" />
+    <text x="50" y="18" class="label edu-txt">OEI</text>
+  </g>
+
+  <!-- ICESCO (Education, Green) - North Indian Ocean / Islamic World -->
+  <g class="badge" transform="translate(850, 450)">
+    <ellipse cx="55" cy="19" rx="55" ry="19" class="edu-bg" />
+    <text x="55" y="19" class="label edu-txt">ICESCO</text>
+  </g>
+
+  <!-- ASEF (Multi-Purpose, Purple) - Eurasia / Siberia -->
+  <g class="badge" transform="translate(1080, 90)">
+    <ellipse cx="55" cy="20" rx="55" ry="20" class="multi-bg" />
+    <text x="55" y="20" class="label multi-txt">ASEF</text>
+  </g>
+
+  <!-- ==================== 3. REGIONAL (Rectangles) ==================== -->
+
+  <!-- Region: AMERICAS -->
+  <!-- OECS (Multi-Purpose, Purple) -->
+  <g class="badge" transform="translate(240, 370)">
+    <rect width="80" height="32" rx="6" class="multi-bg" />
+    <text x="40" y="16" class="label multi-txt">OECS</text>
+  </g>
+
+  <!-- CARICOM (Multi-Purpose, Purple) -->
+  <g class="badge" transform="translate(240, 410)">
+    <rect width="90" height="32" rx="6" class="multi-bg" />
+    <text x="45" y="16" class="label multi-txt">CARICOM</text>
+  </g>
+
+  <!-- OAS (Multi-Purpose, Purple) -->
+  <g class="badge" transform="translate(290, 455)">
+    <rect width="85" height="32" rx="6" class="multi-bg" />
+    <text x="42" y="16" class="label multi-txt">OAS</text>
+  </g>
+
+  <!-- UNASUR (Multi-Purpose, Purple) -->
+  <g class="badge" transform="translate(295, 495)">
+    <rect width="95" height="32" rx="6" class="multi-bg" />
+    <text x="47" y="16" class="label multi-txt">UNASUR</text>
+  </g>
+
+  <!-- Mercosur (Economy, Red) -->
+  <g class="badge" transform="translate(295, 535)">
+    <rect width="95" height="32" rx="6" class="eco-bg" />
+    <text x="47" y="16" class="label eco-txt">Mercosur</text>
+  </g>
+
+  <!-- IADB (Economy, Red) -->
+  <g class="badge" transform="translate(295, 575)">
+    <rect width="85" height="32" rx="6" class="eco-bg" />
+    <text x="42" y="16" class="label eco-txt">IADB</text>
+  </g>
+
+  <!-- Region: EUROPE & NORTH EURASIA -->
+  <!-- CBSS (Multi-Purpose, Purple) - Baltic -->
+  <g class="badge" transform="translate(670, 145)">
+    <rect width="85" height="32" rx="6" class="multi-bg" />
+    <text x="42" y="16" class="label multi-txt">CBSS</text>
+  </g>
+
+  <!-- EU (Multi-Purpose, Purple) -->
+  <g class="badge" transform="translate(640, 190)">
+    <rect width="80" height="32" rx="6" class="multi-bg" />
+    <text x="40" y="16" class="label multi-txt">EU</text>
+  </g>
+
+  <!-- EFTA (Economy, Red) -->
+  <g class="badge" transform="translate(630, 230)">
+    <rect width="85" height="32" rx="6" class="eco-bg" />
+    <text x="42" y="16" class="label eco-txt">EFTA</text>
+  </g>
+
+  <!-- IFESCCO (Education, Green) - Post-Soviet / CIS -->
+  <g class="badge" transform="translate(830, 185)">
+    <rect width="95" height="32" rx="6" class="edu-bg" />
+    <text x="47" y="16" class="label edu-txt">IFESCCO</text>
+  </g>
+
+  <!-- Region: MIDDLE EAST & GULF -->
+  <!-- ALECSO (Education, Green) -->
+  <g class="badge" transform="translate(740, 270)">
+    <rect width="90" height="32" rx="6" class="edu-bg" />
+    <text x="45" y="16" class="label edu-txt">ALECSO</text>
+  </g>
+
+  <!-- ABECS (Education, Green) -->
+  <g class="badge" transform="translate(745, 310)">
+    <rect width="90" height="32" rx="6" class="edu-bg" />
+    <text x="45" y="16" class="label edu-txt">ABECS</text>
+  </g>
+
+  <!-- Region: AFRICA -->
+  <!-- AU (Multi-Purpose, Purple) -->
+  <g class="badge" transform="translate(635, 350)">
+    <rect width="80" height="32" rx="6" class="multi-bg" />
+    <text x="40" y="16" class="label multi-txt">AU</text>
+  </g>
+
+  <!-- ECCAS (Economy, Red) -->
+  <g class="badge" transform="translate(660, 400)">
+    <rect width="85" height="32" rx="6" class="eco-bg" />
+    <text x="42" y="16" class="label eco-txt">ECCAS</text>
+  </g>
+
+  <!-- AfDB (Economy, Red) -->
+  <g class="badge" transform="translate(665, 455)">
+    <rect width="85" height="32" rx="6" class="eco-bg" />
+    <text x="42" y="16" class="label eco-txt">AfDB</text>
+  </g>
+
+  <!-- Region: ASIA & PACIFIC -->
+  <!-- ADB (Economy, Red) -->
+  <g class="badge" transform="translate(890, 290)">
+    <rect width="85" height="32" rx="6" class="eco-bg" />
+    <text x="42" y="16" class="label eco-txt">ADB</text>
+  </g>
+
+  <!-- ASEAN (Multi-Purpose, Purple) -->
+  <g class="badge" transform="translate(920, 360)">
+    <rect width="85" height="32" rx="6" class="multi-bg" />
+    <text x="42" y="16" class="label multi-txt">ASEAN</text>
+  </g>
+
+  <!-- SAARC (Multi-Purpose, Purple) -->
+  <g class="badge" transform="translate(970, 410)">
+    <rect width="85" height="32" rx="6" class="multi-bg" />
+    <text x="42" y="16" class="label multi-txt">SAARC</text>
+  </g>
+
+  <!-- SEAMEO (Education, Green) -->
+  <g class="badge" transform="translate(1030, 360)">
+    <rect width="90" height="32" rx="6" class="edu-bg" />
+    <text x="45" y="16" class="label edu-txt">SEAMEO</text>
+  </g>
+
+  <!-- APEC (Economy, Red) -->
+  <g class="badge" transform="translate(1020, 460)">
+    <rect width="90" height="32" rx="6" class="eco-bg" />
+    <text x="45" y="16" class="label eco-txt">APEC</text>
+  </g>
+
+  <!-- ==================== 4. INFOGRAPHIC LEGEND ==================== -->
+  <g transform="translate(50, 770)">
+    <!-- Outer Legend Box -->
+    <rect width="1300" height="105" rx="10" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1.5" />
+
+    <!-- Line 1: Geographic Reach (Shape) -->
+    <text x="30" y="38" font-size="14" font-weight="700" font-style="italic" fill="#0f172a">Geographic Reach (Shape):</text>
+    
+    <!-- Global -->
+    <g transform="translate(250, 18)">
+      <polygon points="0,0 80,0 96,15 80,30 0,30 12,15" fill="#ffffff" stroke="#0f172a" stroke-width="2" />
+      <text x="48" y="16" font-size="12" font-weight="600" font-style="italic" text-anchor="middle" dominant-baseline="central" fill="#0f172a">global</text>
+    </g>
+
+    <!-- Transregional -->
+    <g transform="translate(430, 18)">
+      <ellipse cx="70" cy="15" rx="68" ry="16" fill="#ffffff" stroke="#0f172a" stroke-width="2" />
+      <text x="70" y="16" font-size="12" font-weight="600" font-style="italic" text-anchor="middle" dominant-baseline="central" fill="#0f172a">transregional</text>
+    </g>
+
+    <!-- Regional -->
+    <g transform="translate(650, 18)">
+      <rect width="95" height="30" rx="3" fill="#ffffff" stroke="#0f172a" stroke-width="2" />
+      <text x="47" y="16" font-size="12" font-weight="600" font-style="italic" text-anchor="middle" dominant-baseline="central" fill="#0f172a">regional</text>
+    </g>
+
+    <!-- Line 2: Thematic Scope (Colour) -->
+    <text x="30" y="82" font-size="14" font-weight="700" font-style="italic" fill="#0f172a">Thematic Scope (Colour):</text>
+
+    <!-- Multi-Purpose -->
+    <g transform="translate(250, 64)">
+      <rect width="135" height="30" rx="5" class="multi-bg" />
+      <text x="67" y="15" font-size="12" font-weight="600" font-style="italic" text-anchor="middle" dominant-baseline="central" class="multi-txt">Multi-Purpose</text>
+    </g>
+
+    <!-- Single-Purpose -->
+    <g transform="translate(415, 64)">
+      <rect width="135" height="30" rx="5" class="single-bg" />
+      <text x="67" y="15" font-size="12" font-weight="600" font-style="italic" text-anchor="middle" dominant-baseline="central" class="single-txt">Single-Purpose</text>
+    </g>
+
+    <!-- Education -->
+    <g transform="translate(580, 64)">
+      <rect width="120" height="30" rx="5" class="edu-bg" />
+      <text x="60" y="15" font-size="12" font-weight="600" font-style="italic" text-anchor="middle" dominant-baseline="central" class="edu-txt">Education</text>
+    </g>
+
+    <!-- Economy -->
+    <g transform="translate(730, 64)">
+      <rect width="120" height="30" rx="5" class="eco-bg" />
+      <text x="60" y="15" font-size="12" font-weight="600" font-style="italic" text-anchor="middle" dominant-baseline="central" class="eco-txt">Economy</text>
+    </g>
+  </g>
+</svg>

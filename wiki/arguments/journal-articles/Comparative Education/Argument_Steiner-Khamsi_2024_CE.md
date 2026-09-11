@@ -34,6 +34,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Performance Indicators]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Scientific Uncertainty]]"
   - "[[Scaffolding]]"
   - "[[Champ]]"
   - "[[Innovation Hub]]"
@@ -77,9 +78,9 @@ title: "Argument_Steiner-Khamsi_2024_CE"
 argument_key: "Argument_Steiner-Khamsi_2024_CE"
 argument_display_title: "Governance by numbers 2.0: policy brokerage as an instrument of global governance in the era of information overload"
 argument_kind: "journal-article"
-argument_related_count: 0
-argument_related_level: 0
-argument_related_stars: "☆"
+argument_related_count: 38
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: Comparative Education
 book_title: ""
@@ -163,9 +164,13 @@ issuing_organization: ""
 
 在数字化时代，科研成果呈现爆炸式增长，然而知识的充盈并未自发带来理性的决策秩序，反而导致了严重的认知超载与信息孤岛。（p.538）
 
-> [!policy-context] 数字化时代知识市场的供需失衡与政策中介界定
-> - **知识市场的结构性过剩** 研究证据的严重过剩打破了科学与政治之间的线性沟通，政策制定者面对海量且相互冲突的研究结论无所适从，催生出对中间[[Transfer Translation Transformation|转译]]者的迫切依赖。（p.538）
-> - **政策中介的政治化定性** 当特定机构在内部自行生产知识、以科学理性包装知识，甚至同时为推介的改革方案提供资助时，传统的知识中介便转变为服务于自身制度利益与特定改革方向的政策中介。（pp.538–539）
+> [!contrast-table] 传统知识中介与现代政策中介的[[Paradigm|范式]]对比
+> | 比较维度 | 传统知识中介（Knowledge Brokerage） | 现代政策中介（Policy Brokerage） |
+> |---|---|---|
+> | **[[Knowledge Production\|知识生产]]来源** | 外部独立学术成果，充当研究与政策的中立桥梁 | 机构内部自行生产知识，闭环研发与成果转化（pp.538–539） |
+> | **组织价值取向** | 强调科学客观性、多元证据呈现与学术中立 | 带有特定制度利益，依循预设立场推介特定改革方案 |
+> | **核心运作职能** | 纯粹的证据筛选、综合与通俗化[[Transfer Translation Transformation\|转译]] | 集知识生产、政策公关推销与改革项目资助于一体 |
+> | **信息过载应对** | 试图以更多证据消除[[Scientific Uncertainty\|认知不确定性]] | 借助量化硬事实构筑确定性表象，服务政治裁量需求 |
 
 政策中介之所以能够顺利崛起，根本原因在于其运作机制高度契合了教育决策环境固有的多重生态特征。（p.539）
 
@@ -243,8 +248,11 @@ issuing_organization: ""
 
 从 1945 年仅有国际劳工组织（ILO）与联合国教科文组织涉足教育，到 2020 年已有 30 个政府间组织介入教育事务，教育在全球治理版图中经历了四十年的持续扩张并在世纪之交达到饱和状态。（pp.543–544）
 
-> [!example]- 图1：政府间组织的世界分布格局（The World of Intergovernmental Organisations）
+> [!example]- 图1：涉足教育事务的政府间组织世界分布格局（The World of Intergovernmental Organisations in Education）
 > ![](https://img.mylikemie.icu/sources/Steiner-Khamsi_2024_CE/figures/Steiner-Khamsi_2024_CE_Fig1_World_of_IOs.jpg)
+> 
+> *高清重构拓扑分布图（Martens, Niemann, & Krogmann, 2024, p. 485; [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024, p. 544]]）：*
+> ![](https://img.mylikemie.icu/sources/Steiner-Khamsi_2024_CE/figures/Figure1_World_of_IOs_replicated.png)
 
 图 1 直观呈现了全球涉足教育事务的 30 个政府间组织在空间辐射范围与核心职能主题上的拓扑分布。（p.544）
 
