@@ -76,7 +76,7 @@ updated: 2026-09-11
 
 ### 2005 — *For Space*
 
-- APA：Massey, D. (2005). *For Space*. [[Sage]].
+- [[APA Style|APA]]：Massey, D. (2005). *For Space*. [[Sage]].
 - 核心内容：系统阐述[[Relational Space|关系性空间]]理论，提出空间作为[[Multiplicity|多重性]]、开放[[Ontology|本体论]]、[[Power-Geometries|权力几何学]]（power-geometries）和轨迹交汇等核心概念。
 - 思想位置：Massey 空间理论的成熟综合，代表其最系统的理论表达。
 

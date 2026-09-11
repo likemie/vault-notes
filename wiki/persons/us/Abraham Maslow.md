@@ -60,7 +60,7 @@ updated: 2026-09-11
 
 > [!person-profile] 人物档案
 > - **生卒年份** 1908–1970
-> - **身份位置** 美国心理学家，人本主义心理学（Humanistic Psychology）核心奠基人与领军人物，曾任美国心理学会（APA）主席，第三势力心理学（Third Force Psychology）旗手。
+> - **身份位置** 美国心理学家，人本主义心理学（Humanistic Psychology）核心奠基人与领军人物，曾任美国心理学会（[[APA Style|APA]]）主席，第三势力心理学（Third Force Psychology）旗手。
 > - **核心角色** 在抗衡行为主义与精神分析的去人性化偏见中，系统开创以人的潜能、价值与自我实现为核心的探究[[Paradigm|范式]]；在科学哲学领域深刻揭示[[Positivism|实证主义]]对科学内涵的技术主义窄化，确立科学探究的完整人文功能图景。
 > - **代表贡献** 提出人类需求层次理论与自我实现（Self-Actualization）；在《科学心理学》（*The Psychology of Science*, 1954/1966）中系统提炼“科学的九大功能”（Box 1.1），全面超越实证主义狭隘验证技术观；倡导以“全人”与内在价值为中心的[[Epistemology|认识论]]。
 
@@ -73,7 +73,7 @@ updated: 2026-09-11
 > - **1937–1951** 任教于布鲁克林学院，深受格式塔心理学与文化人类学启发，转向对人类潜能与健康人格的积极心理探究。
 > - **1951–1969** 担任布兰代斯大学（Brandeis University）心理学系主任与讲座教授，成为人本主义心理学运动的核心理论家。
 > - **1954** 出版《动机与人格》（*Motivation and Personality*），系统阐发科学的多元功能（Box 1.1）与需求层次理论。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 16)]]
-> - **1966–1968** 出版《科学心理学》（*The Psychology of Science*），获选担任美国心理学会（APA）主席，推动人本主义与科学哲学深度[[Dialogue in Education|对话]]。
+> - **1966–1968** 出版《科学心理学》（*The Psychology of Science*），获选担任美国心理学会（[[APA Style|APA]]）主席，推动人本主义与科学哲学深度[[Dialogue in Education|对话]]。
 > - **1970** 因心脏病突发在加州门洛帕克逝世。
 
 ---

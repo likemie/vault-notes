@@ -79,7 +79,7 @@ updated: 2026-09-11
 
 ### 1933-1935 — *The Pedagogical Poem* / *The Road to Life*
 
-- APA：Makarenko, A. S. (1933-1935). *Pedagogicheskaya poema* [The pedagogical poem].
+- [[APA Style|APA]]：Makarenko, A. S. (1933-1935). *Pedagogicheskaya poema* [The pedagogical poem].
 - 核心内容：以高尔基工学团为基础，将少年违法者、孤儿和流浪儿童的共同生活写成教育叙事。
 - 思想位置：这是理解马卡连柯最重要的入口。它不是单纯的教育论文，而是把教育方法、组织实践、集体生活和文学叙述交织在一起的"教育实验报告"。
 - 相关概念／理论：儿童集体、集体自治、共同劳动、社会再融入。

@@ -106,7 +106,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-30
-updated: 2026-09-09
+updated: 2026-09-11
 ---
 
 # Quantitative Research
@@ -177,7 +177,7 @@ updated: 2026-09-09
 > - **推荐软件** R、Python、Stata、SPSS、Mplus、JASP、Jamovi。
 > - **核心包或命令** R 语言中运用 `lavaan` 开展结构方程建模，运用 `lme4` 进行多层线性分析，运用 `fixest` 进行高维面板固定效应估计；Python 运用 `statsmodels` 与 `scikit-learn`；Stata 运用 `regress`、`xtreg` 与 `sem`。
 > - **实现流程** 原始数据校验 $\rightarrow$ 探索性与[[Confirmatory Factor Analysis|验证性因子分析]]（[[Exploratory Factor Analysis|EFA]]/CFA） $\rightarrow$ 假设检验主模型拟合 $\rightarrow$ 敏感性与稳健性检验 $\rightarrow$ 规范制表与可视化导出。
-> - **报告标准** 严格遵循 APA 第 7 版量化研究报告标准（JARS-Quant），透明报告效应量大小、95% 置信区间、自由度、精确 p 值与代码可复现环境。
+> - **报告标准** 严格遵循 [[APA Style|APA]] 第 7 版量化研究报告标准（JARS-Quant），透明报告效应量大小、95% 置信区间、自由度、精确 p 值与代码可复现环境。
 
 ---
 

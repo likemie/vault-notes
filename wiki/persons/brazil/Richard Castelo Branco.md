@@ -64,7 +64,7 @@ updated: 2026-09-11
 
 ### 2020 — *Favelaflix*（YouTube 频道 / 剧场作品）
 
-- APA：Branco, R. (2020, October 30). Favelaflix. Bando Cultural Favelados da Rocinha. Online at: https://www.youtube.com/channel/UCtucpO8f7EMXYHqrPKZYVCg
+- [[APA Style|APA]]：Branco, R. (2020, October 30). Favelaflix. Bando Cultural Favelados da Rocinha. Online at: https://www.youtube.com/channel/UCtucpO8f7EMXYHqrPKZYVCg
 - 核心内容：通过 YouTube 平台发布 Rocinha 贫民窟剧场团体的作品，以 EspectAtor 方法呈现贫民窟居民的暴力创伤叙事。
 - 思想位置：代表剧场实践的数字传播阶段——将贫民窟的[[Epistemology of Resistance|抵抗认识论]]从面对面的剧场空间扩展至数字公共领域。
 - 相关概念／理论：[[Epistemology of Resistance]]

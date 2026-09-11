@@ -2,7 +2,7 @@
 title: PISA Shock
 aliases:
   - 国际学生评估项目冲击
-  - PISA震动
+  - 国际学生评估项目震动
 summary: "2001 年德国首次 PISA 结果公布后引发的全国性教育政策危机反应，被视为德国教育政策制定的决定性分水岭，导致全面的教育改革议程"
 type: concept
 domain: "comparative-education"

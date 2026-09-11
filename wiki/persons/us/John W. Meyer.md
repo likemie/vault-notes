@@ -68,7 +68,7 @@ updated: 2026-09-11
 
 ### 1977 — "Institutionalized Organizations: Formal Structure as Myth and Ceremony"（与 Brian Rowan 合著）
 
-- APA：Meyer, J. W., & Rowan, B. (1977). Institutionalized organizations: Formal structure as myth and ceremony. *American Journal of Sociology*, 83(2), 340–363.
+- [[APA Style|APA]]：Meyer, J. W., & Rowan, B. (1977). Institutionalized organizations: Formal structure as myth and ceremony. *American Journal of Sociology*, 83(2), 340–363.
 - 核心内容：提出新制度主义组织理论的核心命题——组织的正式结构往往反映制度环境中的**理性神话**而非技术效率需求。
 - 思想位置：新制度主义组织社会学的奠基之作，为后续[[World Society Theory|世界社会理论]]提供了微观-组织层面的理论基础（Zapp, 2022 未直接引用，但这是 Meyer 思想的根基）。
 - 相关概念／理论：[[World Society Theory]]、[[Organizational Actorhood]]

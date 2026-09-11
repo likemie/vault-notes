@@ -88,7 +88,7 @@ updated: 2026-09-11
 > [!person-profile] 人物档案
 > - **生卒年份** 1945–至今
 > - **身份位置** 美国著名应用社会科学与医学方法论学者、密歇根大学家庭医学系教授、密歇根混合方法项目联合主任，曾任内布拉斯加大学林肯分校 Clifton 讲座教授。
-> - **核心角色** 混合方法研究国际建制化的核心领袖；创办《混合方法研究期刊》（*Journal of Mixed Methods Research*, JMMR）并担任创刊主编；创立[[Mixed Methods International Research Association|混合方法国际研究协会]]（MMIRA）并出任首任主席；主持制定美国国立卫生研究院（NIH）与美国心理学会（APA）质性与混合方法研究审查标准。
+> - **核心角色** 混合方法研究国际建制化的核心领袖；创办《混合方法研究期刊》（*Journal of Mixed Methods Research*, JMMR）并担任创刊主编；创立[[Mixed Methods International Research Association|混合方法国际研究协会]]（MMIRA）并出任首任主席；主持制定美国国立卫生研究院（NIH）与美国心理学会（[[APA Style|APA]]）质性与混合方法研究审查标准。
 > - **代表贡献** 确立混合方法研究三大核心设计模型（聚敛式、解释性序列、探索性序列）；系统提出质性探究五路径比较框架（[[Narrative Research|叙事研究]]、[[Phenomenology|现象学]]、[[Grounded Theory|扎根理论]]、[[Ethnography|民族志]]、[[Case Study|案例研究]]）；创立以[[Joint Display|联合展示]]（Joint Display）为核心的数据整合与[[Metainferences|元推论]]提炼规程。
 
 克雷斯维尔在现代研究方法论普及与规范化中的奠基性地位，得到了全球人文社会科学与临床医学界的广泛推崇。
@@ -117,7 +117,7 @@ updated: 2026-09-11
 > - **2007** 与塔沙克里（Abbas Tashakkori）共同创立 SAGE 旗下专业顶级学术刊物《混合方法研究期刊》（*Journal of Mixed Methods Research*, JMMR）并担任创刊主编，推动混合方法成为公认的独立学科领域。
 > - **2011** 受美国国立卫生研究院（NIH）行为与社会科学研究办公室（OBSSR）委托，共同主持跨学科专家工作组，执笔发布《健康科学中混合方法研究最佳实践指南》。
 > - **2014** 创立[[Mixed Methods International Research Association|混合方法国际研究协会]]（MMIRA）并当选为创会主席；同年受聘为哈佛大学公共卫生学院客座教授。
-> - **2015 至今** 加盟密歇根大学医学院家庭医学系，联合领导密歇根混合方法项目（MMMP），大力推广混合方法在[[Clinical Trial|临床试验]]、健康公平与实施科学中的落地应用；2017 年参与撰写美国心理学会（APA）混合方法与[[Qualitative Research|质性研究]]报告标准。
+> - **2015 至今** 加盟密歇根大学医学院家庭医学系，联合领导密歇根混合方法项目（MMMP），大力推广混合方法在[[Clinical Trial|临床试验]]、健康公平与实施科学中的落地应用；2017 年参与撰写美国心理学会（[[APA Style|APA]]）混合方法与[[Qualitative Research|质性研究]]报告标准。
 
 ---
 
@@ -136,7 +136,7 @@ updated: 2026-09-11
 >   - **阶段转向** 正式将混合方法确立为第三范式，以实用主义哲学确立其合法性，完成经典设计拓扑学构建。
 > - **2010s 至今 — 深度数据整合、[[Joint Display|联合展示]]与跨学科实践成熟期** 意识到单纯分类不足以解决“油水不融”的方法假象，转向微观界面的深度实质整合。
 >   - **代表著作** 《研究设计》第 5/6 版（与儿子 [[J. David Creswell]] 合著，2018/2022）；《混合方法在健康科学中的应用》（*Mixed Methods in Health Sciences*, 2018）。
->   - **关键概念** [[Joint Display|联合展示]]（Joint Display）、[[Metainferences|元推论]]（Meta-inference）、整合支柱分析（Integration Pillar）、APA/NIH 报告标准。
+>   - **关键概念** [[Joint Display|联合展示]]（Joint Display）、[[Metainferences|元推论]]（Meta-inference）、整合支柱分析（Integration Pillar）、[[APA Style|APA]]/NIH 报告标准。
 >   - **阶段转向** 将分析重心下沉至数据合并技术与视觉化矩阵展示，深度介入公共卫生与健康评估实践。
 
 ---
@@ -179,7 +179,7 @@ updated: 2026-09-11
 
 > [!influence-path] 影响路径
 > - **学科建制化路径** 创办顶级期刊 JMMR 与国际协会 [[Mixed Methods International Research Association|MMIRA]]，将原本零散、附庸于各学科的混合研究实践凝聚为具有专门哲学[[Paradigm|范式]]、设计术语与评审规范的独立学术共同体。
-> - **研究标准制定路径** 执笔美国心理学会（APA）与美国国立卫生研究院（NIH）的最佳实践指南，从国家科研资助与顶刊同行评审层面对研究严密性确立了制度化评价标尺。
+> - **研究标准制定路径** 执笔美国心理学会（[[APA Style|APA]]）与美国国立卫生研究院（NIH）的最佳实践指南，从国家科研资助与顶刊同行评审层面对研究严密性确立了制度化评价标尺。
 > - **教科书与教学普适化路径** 其编写的《研究设计》等经典教材以极致清晰的操作架构与跨学科通识范式被全球高校广泛采用，形塑了数十万跨学科研究生的学术起步训练。
 > - **跨学科医学与健康转化路径** 在密歇根大学建立 MMMP 基地，成功将[[Mixed Methods Research|混合方法]]与[[Joint Display|联合展示]]引入实施科学（Implementation Science）、癌症护理与公共卫生干预，克服了纯量化[[Clinical Trial|临床试验]]忽视患者微观体验的弊端。
 
