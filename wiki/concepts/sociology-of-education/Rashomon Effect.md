@@ -5,10 +5,10 @@ aliases:
 summary: "由黑泽明电影《罗生门》引申的社会科学概念，指同一事件被不同行动者以矛盾且不可兼容的因果叙事加以报告和解释的现象"
 type: concept
 domain: "sociology-of-education"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - subject/research-methodology
   - topic/causation
