@@ -10,7 +10,7 @@ summary: "通过随机分配和变量控制建立因果关系的实验设计，�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 99
+method_related_count: 103
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Achievement and Aptitude Tests]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Internal Validity]]"
+  - "[[Policy Brokerage]]"
   - "[[Causality]]"
   - "[[Epistemology]]"
   - "[[Empiricism]]"
@@ -55,12 +56,13 @@ related_concepts:
   - "[[Fade-out Effect]]"
   - "[[Document]]"
   - "[[Necessary and Sufficient Conditions]]"
+  - "[[Screening Off]]"
+  - "[[Social Science as Legitimation Alibi]]"
   - "[[Ontology]]"
   - "[[Validity as Inferences]]"
   - "[[Praxis]]"
   - "[[Recommendations for Practice]]"
   - "[[Class Size]]"
-  - "[[Screening Off]]"
 related_theories:
   - "[[Critical Realism]]"
   - "[[Complexity Theory]]"
@@ -94,6 +96,8 @@ related_facts:
   - "[[Tennessee STAR Project 1985-1989]]"
   - "[[What Works Clearinghouse]]"
   - "[[Education Endowment Foundation]]"
+  - "[[OECD]]"
+  - "[[PISA]]"
   - "[[Stanford Prison Experiment]]"
   - "[[Home Visiting Evidence of Effectiveness]]"
   - "[[Blueprints for Healthy Youth Development]]"
@@ -114,6 +118,7 @@ related_arguments:
   - "[[Argument_Brady_2023_EPR]]"
   - "[[Argument_Kraft_2023_ER]]"
   - "[[Argument_Wadhwa_2024_RER]]"
+  - "[[Argument_Steiner-Khamsi_2024_CE]]"
   - "[[Argument_Wiliam_2019_ERE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
   - "[[Argument_Møller_2017_EERJ]]"
@@ -122,7 +127,6 @@ related_arguments:
   - "[[Argument_Zhao_2017_JEC]]"
   - "[[Argument_Pampaka_2016_IJRME]]"
   - "[[Argument_Peterson_2016_IJRME]]"
-  - "[[Argument_Steiner-Khamsi_2024_CE]]"
 confidence: high
 status: active
 created: 2026-06-14
@@ -151,15 +155,15 @@ updated: 2026-09-11
 >    - 1983 — 教育心理学期刊中近一半经验文章使用随机分配实验（[[Argument_Brady_2023_EPR|Brady et al., 2023, pp.6-7]]）
 >    - 1985–1989 — [[Tennessee STAR Project 1985-1989]] 实施，被 Mosteller 称为"有史以来最重要的教育调查之一"
 >    - 2000 — 教育心理学期刊中[[Intervention Research|干预研究]]比例约 40%，其中随机实验仍占显著份额
->    - 2002 — 美国教育部成立有效教育清算所（What Works Clearinghouse，WWC），将 RCT 确立为教育证据金字塔的顶端
+>    - 2002 — 美国教育部成立有效教育清算所（[[What Works Clearinghouse]]，WWC），将 RCT 确立为教育证据金字塔的顶端
 > 3. **扩张与反思期（2010–2023）**
 >    - 2010 — 干预研究比例降至 25%，随机实验占比降至 23%
 >    - 2011 — 英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation，EEF）成立，此后资助了 100 项涉及 50 万以上学生的 RCT（[[Argument_Higgins_2016_RE|Higgins, 2016, p.49]]）
 >    - 2020 — 干预研究比例维持在 25%，随机实验进一步降至 20%，只有五分之一经验文章使用随机分配
 >    - 2023 — [[Argument_Kraft_2023_ER|Kraft (2023)]] 在 3,426 个教育干预 RCT 效应量的扩展样本中发现：若结果限定为标准化学业[[Achievement and Aptitude Tests|成就测验]]，36% 的效应量小于 0.05，整体中位数约为 0.10
 >    - 2024 — [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] 全景检验 12 所[[Educational Evidence Clearinghouses|教育证据清算中心]] 1,359 个项目，揭示 11 所中心均将 RCT 确立为证据金字塔顶端；但基于 RCT 支持的多中心评级一致率仅 30.5%，极端冲突率达 35.4%，证明微观 RCT [[Internal Validity|内部效度]]达标不能等同于宏观政策综合收敛
-> 4. **跨国发展治理与全球政策中介中的黄金标准建制（2010s–至今）**
->    - 2024 — [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024, pp. 544–545, 548)]] 比较了全球教育治理核心机构的政策中介（Policy Brokerage）风格：与[[OECD|经合组织]]（OECD）依托跨国学生评估（PISA）与外向型国别横向借鉴截然不同，世界银行（World Bank）依托发展影响评估（Development Impact Evaluation，DIME）等机制，将其“最佳政策与改革组合库”完全建立在随机对照试验（RCT）之上；世界银行联合美英援助机构（如 USAID、FCDO 等 BE2 证据联盟），将微观 RCT 打造为推行循证放贷门槛的核心技术工具，展示了因果识别技术如何被制度化为全球治理的自指性政策帝国。
+> 4. **跨国发展治理与全球[[Policy Brokerage|政策中介]]中的黄金标准建制（2010s–至今）**
+>    - 2024 — [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024, pp. 544–545, 548)]] 比较了全球教育治理核心机构的政策中介（Policy Brokerage）风格：与[[OECD|经合组织]]（Organisation for Economic Co-operation and Development，OECD，简称经合组织）依托[[PISA|国际学生评估项目]]（Programme for International Student Assessment，PISA）与外向型国别横向借鉴截然不同，世界银行（World Bank）依托发展影响评估（Development Impact Evaluation，DIME）等机制，将其“最佳政策与改革组合库”完全建立在随机对照试验（RCT）之上；世界银行联合美英援助机构（如美国国际开发署（United States Agency for International Development，USAID）、英国外交、联邦和发展事务部（Foreign, Commonwealth & Development Office，FCDO）等打造教育成效证据联盟（Building Evidence in Education，BE2）），将微观 RCT 打造为推行循证放贷门槛的核心技术工具，展示了因果识别技术如何被制度化为全球治理的自指性政策帝国。
 
 > [!citation-card] 实验技术与变量控制的因果效力
 > 实验技术，尤其是随机对照试验（RCT），在建立[[Causality|因果性]]方面具有强大效力。通过识别、隔离和控制自变量，操纵一个自变量看其是否对结果产生差异，同时保持其他变量不变。如果操纵该自变量导致结果变化，则变化可归因于该自变量——它成为原因。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, Ch. 4, pp. 78, 81]]
@@ -206,7 +210,7 @@ updated: 2026-09-11
 > [!tension] [[Complexity Theory|复杂性理论]]对受控实验与 RCT“黄金标准”的四大[[Epistemology|认识论]]解构
 > 复杂性理论对在教育研究中奉为圭臬的随机对照试验（RCT）——所谓的证据“黄金标准”——发起了根本性的认识论反思（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, Ch. 1, pp. 28–30]]）：
 > - **“控制变量恒常”的逻辑悖论** 受控实验假定能够隔离并操纵单一变量而保持其他条件不变（ceteris paribus）。但在一个持续[[Emergence|涌现]]、动态演进、高度关系性的开放教育世界中，保持变量恒常不仅在实操中是不可能的，更是极度误导的——研究者在受控条件下所精确测量到的，仅仅是早已死去的历史（What is measured is history, Morrison, 2001；正如赫拉克利特所言：人不可能两次踏入同一条河流）。
-> - **机械原子化对整体共生性的屠戮** 复杂适应系统（CAS）具有不可还原的协同效应与全息连接性。试图将课堂原子化分解为少数几个孤立变量并实施线性回归检验，必然彻底扼杀要素间不可或缺的动态协同（Morrison, 2008）。
+> - **机械原子化对整体共生性的屠戮** 复杂适应系统（Complex Adaptive System，CAS）具有不可还原的协同效应与全息连接性。试图将课堂原子化分解为少数几个孤立变量并实施线性回归检验，必然彻底扼杀要素间不可或缺的动态协同（Morrison, 2008）。
 > - **精密测量的认识论盲区** 人类可以用无限精密的仪器去测量一个人身上每一个可观察的物理与行为变量，但究竟是什么让他/她成为他/她自己——其最核心的主体本质——却注定在原子化测量的缝隙中彻底逃逸。
 > - **[[Unit of Analysis|分析单位]]的根本重构** 弗里乔夫·卡普拉（Fritjof Capra）指出，教育研究必须摆脱将孤立个体、单一班级或孤立制度作为基本分析单位的旧习，将分析单位全面转向围绕特定关注焦点（奇异吸引子，strange attractors）所织就的动态关系网络与生态系统（Capra, 1996, p. 301）。
 
@@ -231,8 +235,8 @@ updated: 2026-09-11
 > - **资料类型** 标准化测验成绩、[[Questionnaire|问卷]]量表、行为观察记录、行政数据（出勤率、升学率等）。
 > - **资料质量** 取决于[[Random Assignment|随机分配]]的成功程度、[[Sample Size Determination|样本量]]、[[Attrition|流失]]率（attrition）、测量工具的信效度。缺失数据在大班中比小班中更常见会破坏随机化[[Hypothesis|假设]]（[[Argument_Wiliam_2019_ERE|Wiliam, 2019, pp.6–7]]）。
 > - **分析策略** 均值比较、[[Effect Size|效应量]]估计、t 检验或[[Analysis of Variance|方差分析]]、多水平模型（处理集群随机化的嵌套结构）。
-> - **质量控制**[[Intent-to-Treat Analysis|意向治疗分析]]（ITT）处理非合规问题；流失分析；基线等值检验。
-> - **输出形式** 标准化均值差（Cohen's d, Hedges' g）、[[Confidence Interval|置信区间]]、p 值、最小可检测效应量（MDES）。
+> - **质量控制**[[Intent-to-Treat Analysis|意向治疗分析]]（Intent-to-Treat Analysis，ITT）处理非合规问题；流失分析；基线等值检验。
+> - **输出形式** 标准化均值差（Cohen's d, Hedges' g）、[[Confidence Interval|置信区间]]、p 值、最小可检测效应量（Minimum Detectable Effect Size，MDES）。
 
 ---
 
@@ -311,7 +315,7 @@ updated: 2026-09-11
 > [[Argument_Wiliam_2019_ERE|Wiliam (2019, pp.6–7)]] 记录了 Tennessee STAR 项目中随机分配被破坏的两个机制：（1）**家长干预** 家长发现孩子被分配到大班后施压转至小班，更富裕学生在小班中过度代表（Sohn, 2015）；（2）**数据缺失的差异分布** 缺失数据在大班中比在小班中更常见，进一步破坏随机化假设。
 
 > [!critique-method] 教师质量：被系统性忽视的混淆因素
-> [[Argument_Wiliam_2019_ERE|Wiliam (2019, pp.7–9)]] 识别了教师质量的未测量变异作为教育 RCT 中的结构性混淆因素：教师间一 SD 差异 ≈ 0.15 SD 学生成就差异（Hanushek & Rivkin, 2010）；在 50 名教师的群体中，最有效教师的学生 6 个月学习 = 平均教师 1 年 = 最无效教师 2 年；更有效的教师对低成就学生不成比例地更有效（Slater, Davies, & Burgess, 2012）。这意味着在[[Tracking|能力分组]] RCT 中，如果最有效教师被分配给高成就学生，观察到的"能力分组效应"可能完全是"教师分配效应"（[[Argument_Wiliam_2019_ERE|Wiliam, 2019, p.9]]）。[[Education Endowment Foundation|EEF]] 当前关于能力分组的 RCT（EEF, 2019）印证了这些问题：由于无法获得学校同意而未使用随机分配，且没有教师质量的直接测量（[[Argument_Wiliam_2019_ERE|Wiliam, 2019, pp.8–9]]）。
+> [[Argument_Wiliam_2019_ERE|Wiliam (2019, pp.7–9)]] 识别了教师质量的未测量变异作为教育 RCT 中的结构性混淆因素：教师间一个标准差（Standard Deviation，SD）差异 ≈ 0.15 SD 学生成就差异（Hanushek & Rivkin, 2010）；在 50 名教师的群体中，最有效教师的学生 6 个月学习 = 平均教师 1 年 = 最无效教师 2 年；更有效的教师对低成就学生不成比例地更有效（Slater, Davies, & Burgess, 2012）。这意味着在[[Tracking|能力分组]] RCT 中，如果最有效教师被分配给高成就学生，观察到的"能力分组效应"可能完全是"教师分配效应"（[[Argument_Wiliam_2019_ERE|Wiliam, 2019, p.9]]）。[[Education Endowment Foundation|EEF]] 当前关于能力分组的 RCT（EEF, 2019）印证了这些问题：由于无法获得学校同意而未使用随机分配，且没有教师质量的直接测量（[[Argument_Wiliam_2019_ERE|Wiliam, 2019, pp.8–9]]）。
 
 > [!stat-cards] 成功率基准：教育干预 RCT 的效应量现实
 > [[Argument_Kraft_2023_ER|Kraft (2023)]] 在 3,426 个教育干预 RCT 效应量的扩展样本中发现，若结果限定为标准化学业[[Achievement and Aptitude Tests|成就测验]]，36% 的效应量小于 0.05，整体中位数约为 0.10。多数现代教育 RCT 并非两个对称处理组的任意比较，而是将"新做法"与"照常实践"对比——94% 的处理-对照比较属于干预组做了新事情、控制组维持原有实践的设计（[[Argument_Kraft_2023_ER|Kraft, 2023, pp.183, 185]]）。
@@ -324,7 +328,7 @@ updated: 2026-09-11
 ### 效度、推断与外部批判
 
 > [!critique] [[Argument_Berk_2011_ER|Berk (2011)]]：集群随机化与 [[Stable Unit Treatment Value Assumption|SUTVA]] 违反
-> [[Argument_Berk_2011_ER|Berk (2011, pp.194–195)]] 基于 35 年担任 *Evaluation Review* 创始编辑的经验，识别了教育 RCT 中最常见但"太少被认识到"的严重问题：当随机化单位为教室而政策兴趣单位为个体学生时，学生之间的互动导致"主体间干扰"——[[Stable Unit Treatment Value Assumption|SUTVA]] 的违反。每个可能的随机分配实现都产生不同的因果效应，"单一的因果效应不再存在"。截至 Berk 写作时，"对主体间干扰没有有效的统计补救方法"。此外，随机化的单位数量"往往太少，无法有意义地确保所有混杂因素的平衡"。
+> [[Argument_Berk_2011_ER|Berk (2011, pp.194–195)]] 基于 35 年担任 *Evaluation Review* 创始编辑的经验，识别了教育 RCT 中最常见但"太少被认识到"的严重问题：当随机化单位为教室而政策兴趣单位为个体学生时，学生之间的互动导致"主体间干扰"——稳定单元处理值假设（Stable Unit Treatment Value Assumption，SUTVA）的违反。每个可能的随机分配实现都产生不同的因果效应，"单一的因果效应不再存在"。截至 Berk 写作时，"对主体间干扰没有有效的统计补救方法"。此外，随机化的单位数量"往往太少，无法有意义地确保所有混杂因素的平衡"。
 
 > [!critique] [[Argument_Berk_2011_ER|Berk (2011)]]：[[External Validity|外部效度]]与机制理解的优先性
 > Berk 援引多位经济学家（Heckman & Smith, 1995; Heckman, 2000; Deaton, 2008）的核心观点：因果效应估计"几乎是没用的，除非人们也了解因果效应产生的机制"。他反对非随机研究被断然否定的做法："这是一个严重错误，尤其当[[Internal Validity|内部效度]]仅仅是多种重要效度之一时"（[[Argument_Berk_2011_ER|Berk, 2011, p.195]]）。
@@ -349,7 +353,7 @@ updated: 2026-09-11
 > [!framework-table] [[Educational Evidence Clearinghouses|教育证据清算中心]]对 RCT 的方法学审查分层（基于 Wadhwa et al., 2024）
 > | 因果审查规程层级 | 代表清算中心 | 对 RCT 内部效度与计量控制的具体规程 |
 > |:---|:---|:---|
-> | **3 级规程（深度计量规范）** | [[What Works Clearinghouse\|WWC]]、[[Home Visiting Evidence of Effectiveness\|HomVEE]]、[[Blueprints for Healthy Youth Development\|Blueprints]]、[[Social Programs That Work\|SPTW]] | 深入规范集群随机化（强制多层线性模型 HLM 或 ICC 校正）；建立 0.05 SD 容许偏倚流失模型；严格核查基线等值性；允许 [[Complier Average Causal Effect\|CACE]] 顺从者估计。 |
+> | **3 级规程（深度计量规范）** | [[What Works Clearinghouse\|WWC]]、[[Home Visiting Evidence of Effectiveness\|HomVEE]]、[[Blueprints for Healthy Youth Development\|Blueprints]]、[[Social Programs That Work\|SPTW]] | 深入规范集群随机化（强制分层线性模型（Hierarchical Linear Modeling，HLM）或组内相关系数（Intraclass Correlation Coefficient，ICC）校正）；建立 0.05 SD 容许偏倚流失模型；严格核查基线等值性；允许[[Complier Average Causal Effect\|顺从者平均因果效应]]（Complier Average Causal Effect，CACE）估计。 |
 > | **2 级规程（中度因果规范）** | [[California Evidence Based Clearinghouse for Child Social and Economic Welfare\|CEBC]]、[[Promising Practices Network\|PPN]]、[[Clearinghouse for Military Family Readiness Continuum of Evidence\|CMFR]] | 明确要求随机分配至对照组并监控样本流失率，但未制定形式化计量纠偏方程。 |
 > | **1 级规程（基础分类要求）** | [[Best Evidence Encyclopedia\|BEE]]、[[National Dropout Prevention Center\|NDPC]]、[[Promise Neighborhoods Research Consortium\|PNRC]]、[[CNCS Evidence Exchange\|AmeriCorps EE]] | 将 RCT 作为高等级证据标签，但在单项研究审查中未设专门技术操作手册。 |
 > | **0 级规程（无独立门槛）** | [[Collaborative for Academic Social and Emotional Learning Guide\|CASEL]] | 仅评估方案整体教学设计，未针对 RCT 建立独立因果方法学门槛。 |
@@ -359,10 +363,10 @@ updated: 2026-09-11
 >
 > 核心根源在于：跨机构分歧并非源于单项因果识别偏好（各中心均推崇 RCT），而是根源于**跨研究证据综合标准（是否要求[[Evaluator Independence|独立评估者]]外部复制、跨地点复制、6–12 个月[[Fade-out Effect|持续效果]]）**以及纳入[[Document|文献]]集的悬殊差异。单项 RCT 内部效度达标只是[[Causality|因果推断]]的[[Necessary and Sufficient Conditions|必要条件]]，绝非宏观政策认证的充分条件。
 
-> [!critique] [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]]：跨国政策中介中 RCT 的政治经济学与认识论屏蔽
+> [!critique] [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]]：跨国[[Policy Brokerage|政策中介]]中 RCT 的政治经济学与[[Epistemology|认识论]][[Screening Off|屏蔽]]
 > 在全球教育治理视野中，世界银行（World Bank）等跨国金融机构将 RCT 确立为自身政策中介（Policy Brokerage）的专属证据利基与“最佳政策与改革组合库”的科学基石，以此作为向全球南方借贷国推行结构调整与循证贷款的硬性规制工具。
 >
-> 批判政治经济学指出，微观 RCT 对单一技术变量（如学生驱虫药片、教师考勤指纹机、小额绩效奖金、条件性现金转移）的人为隔离，系统性地“[[Screening Off|屏蔽]]”（Screening Off）了宏观财政紧缩、教师编制削减、殖民历史欠账与依附性政治经济结构。技术上的“黄金标准”在实践中沦为推卸系统性治理责任、将公共教育危机降维为微观行为矫正的自指性科学借口。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 545, 548)]]
+> 批判政治经济学指出，微观 RCT 对单一技术变量（如学生驱虫药片、教师考勤指纹机、小额绩效奖金、条件性现金转移）的人为隔离，系统性地“[[Screening Off|屏蔽]]”（Screening Off）了宏观财政紧缩、教师编制削减、殖民历史欠账与依附性政治经济结构。技术上的“黄金标准”在实践中沦为推卸系统性治理责任、将公共教育危机降维为微观行为矫正的自指性[[Social Science as Legitimation Alibi|科学借口]]。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 545, 548)]]
 
 ### 设计变体与替代方案
 
@@ -422,4 +426,4 @@ updated: 2026-09-11
 > - [[Tennessee STAR Project 1985-1989]] — 田纳西星级[[Class Size|班级规模]]实验，[[Argument_Wiliam_2019_ERE|Wiliam (2019)]] 揭示了其家长施压转组与数据差异缺失对随机分配的破坏。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, p. 28)]] — 阐明[[Complexity Theory|复杂性理论]]对受控实验与 RCT 黄金标准的四大[[Epistemology|认识论]]解构、Kuhn 复杂性五大公理以及[[Unit of Analysis|分析单位]]向关系网络与生态系统的转向。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al. (2011, Ch. 4, p. 78)]] — 系统构建教育实验[[Causality|因果推断]]全景，详述概率因果、[[Counterfactual|反事实]]、[[Screening Off|筛选隔离]]与真实课堂复杂性对 RCT 的挑战（第 4 章、第 16 章）。
-> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 阐明世界银行（World Bank）如何将其专属政策中介（Policy Brokerage）工具库（最佳实践组合）建立在随机对照试验（RCTs）的证据基石之上，并剖析微观实验技术在跨国循证放贷与结构调整治理中发挥的自指性合法化功能。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 阐明世界银行（World Bank）如何将其专属[[Policy Brokerage|政策中介]]（Policy Brokerage）工具库（最佳实践组合）建立在随机对照试验（RCTs）的证据基石之上，并剖析微观实验技术在跨国循证放贷与结构调整治理中发挥的自指性合法化功能。

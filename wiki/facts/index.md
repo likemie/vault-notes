@@ -42,10 +42,10 @@ Total entries: **383**
 
 | Signal | Entries |
 |---|---:|
-| Higher Education `#level` | 58 |
+| Higher Education `#level` | 59 |
 | K12 `#level` | 52 |
 | University Industry Collaboration `#theme` | 50 |
-| Higher Ed `#level` | 26 |
+| Higher Ed `#level` | 25 |
 | Innovation `#theme` | 25 |
 | International Education `#theme` | 21 |
 | Higher Education `#policy` | 18 |
@@ -358,7 +358,7 @@ Total entries: **383**
 > - [[ICMJE Data Sharing Requirements 2018]] — 2018 年国际医学期刊编辑委员会生效的两项发表前置要求，临床试验须在首例受试者入组时或之前完成公共注册、稿件须包含数据共享声明，是产学合作中临床研究数据条款的重要制度约束
 > - [[Nagoya Protocol]] — 2014 年生效的国际条约，旨在促进遗传资源利用所产生的惠益与资源来源国之间的公平公正分享，对跨国生物研究合作中的样本采集和知识产权安排构成直接约束
 > - [[THE Impact Ranking]] — 2019年THE推出的首个基于SDGs的全球大学影响力排名，覆盖85国近800所大学；SDG 17（促进目标实现的伙伴关系）为唯一强制报告指标
-> - [[UN Sustainable Development Goals]] — 2015年193个UN成员国通过的17项全球发展目标；在高等教育领域成为大学参与全球治理的关键催化剂，被视为大学的新型第三使命
+> - [[UN Sustainable Development Goals]] — 2015年联合国193个成员国一致通过的17项全球发展倡议与行动议程。在基础教育与跨国治理领域，它经由教科文组织与世界银行被建构为规制全球南方的量化指标体系与基准监测帝国；在高等教育领域，它催化了大学以世界社会影响为导向的新型第三使命，亦引发科学工具化与地缘政治再领土化的深刻张力。
 > - [[United World Colleges Associated Schools Policy 1977]] — 联合世界书院国际董事会于1977年确立既有学校关联程序，以非正式校际联系检验使命、合作能力和共同成本，并维持关联资格与正式成员身份的层级。
 
 > [!index-list]- Program (7)
