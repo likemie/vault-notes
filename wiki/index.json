@@ -3783,6 +3783,15 @@
     ]
   },
   {
+    "title": "Policy Avoidance",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Policy Avoidance.md",
+    "aliases": [
+      "政策规避",
+      "媒体政策规避"
+    ]
+  },
+  {
     "title": "Policy Entrepreneur",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Policy Entrepreneur.md",
@@ -6365,6 +6374,16 @@
     ]
   },
   {
+    "title": "Media Logic",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Media Logic.md",
+    "aliases": [
+      "媒介逻辑",
+      "媒体逻辑",
+      "新闻媒介逻辑"
+    ]
+  },
+  {
     "title": "Mediatised Governance",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Mediatised Governance.md",
@@ -8420,6 +8439,16 @@
       "考试地狱",
       "exam hell",
       "examination-driven system"
+    ]
+  },
+  {
+    "title": "Falling Standards Template",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Falling Standards Template.md",
+    "aliases": [
+      "水平下降模板",
+      "标准下滑模板",
+      "教育衰退叙事模板"
     ]
   },
   {
@@ -18855,6 +18884,19 @@
     "aliases": [
       "1976年国际文凭海牙政府间会议",
       "1976 Hague Conference on the International Baccalaureate"
+    ]
+  },
+  {
+    "title": "2014 Open Letter on PISA",
+    "type": "fact",
+    "path": "wiki/facts/global/2014 Open Letter on PISA.md",
+    "aliases": [
+      "2014年致施莱歇尔抵制国际学生评估项目学者公开信",
+      "83位国际顶尖教育学者公开信",
+      "83名国际顶尖教育学者公开信",
+      "Open Letter to Andreas Schleicher on PISA",
+      "PISA Open Letter 2014",
+      "2014 Open Letter to Andreas Schleicher"
     ]
   },
   {
