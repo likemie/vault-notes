@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Champ",
+      "path": "wiki/concepts/sociology-of-education/Champ.md"
+    },
+    {
+      "basename": "Boundary Object",
+      "path": "wiki/concepts/sociology-of-education/Boundary Object.md"
+    },
+    {
+      "basename": "Betrayal in Research",
+      "path": "wiki/concepts/sociology-of-education/Betrayal in Research.md"
+    },
+    {
+      "basename": "Academic Achievement",
+      "path": "wiki/concepts/competency-and-assessment/Academic Achievement.md"
+    },
+    {
       "basename": "Writing Habit",
       "path": "wiki/concepts/academic-writing/Writing Habit.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Document",
       "path": "wiki/concepts/research-methodology/Document.md"
-    },
-    {
-      "basename": "Deductive Disclosure",
-      "path": "wiki/concepts/research-methodology/Deductive Disclosure.md"
-    },
-    {
-      "basename": "Counterfactual",
-      "path": "wiki/concepts/research-methodology/Counterfactual.md"
-    },
-    {
-      "basename": "Costs Benefits Ratio in Research Ethics",
-      "path": "wiki/concepts/research-methodology/Costs Benefits Ratio in Research Ethics.md"
-    },
-    {
-      "basename": "Central Phenomenon",
-      "path": "wiki/concepts/research-methodology/Central Phenomenon.md"
     }
   ],
   "omittedPaths": [],
