@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "index",
+      "path": "wiki/persons/index.md"
+    },
+    {
+      "basename": "Jill Mehlbye",
+      "path": "wiki/persons/denmark/Jill Mehlbye.md"
+    },
+    {
+      "basename": "Alejandro Artopoulos",
+      "path": "wiki/persons/argentina/Alejandro Artopoulos.md"
+    },
+    {
+      "basename": "Action Research",
+      "path": "wiki/methods/mixed/Action Research.md"
+    },
+    {
+      "basename": "Account Gathering",
+      "path": "wiki/methods/qualitative/Account Gathering.md"
+    },
+    {
+      "basename": "Artefact",
+      "path": "wiki/concepts/research-methodology/Artefact.md"
+    },
+    {
+      "basename": "Anonymity in Research",
+      "path": "wiki/concepts/research-methodology/Anonymity in Research.md"
+    },
+    {
+      "basename": "Analytic Generalization",
+      "path": "wiki/concepts/research-methodology/Analytic Generalization.md"
+    },
+    {
+      "basename": "Alternative Hypothesis",
+      "path": "wiki/concepts/research-methodology/Alternative Hypothesis.md"
+    },
+    {
       "basename": "Comparative Educations",
       "path": "wiki/concepts/comparative-education/Comparative Educations.md"
     },
@@ -121,14 +157,6 @@
       "path": "wiki/concepts/research-methodology/Backyard Research.md"
     },
     {
-      "basename": "Anonymity in Research",
-      "path": "wiki/concepts/research-methodology/Anonymity in Research.md"
-    },
-    {
-      "basename": "Artefact",
-      "path": "wiki/concepts/research-methodology/Artefact.md"
-    },
-    {
       "basename": "Attrition",
       "path": "wiki/concepts/research-methodology/Attrition.md"
     },
@@ -171,30 +199,6 @@
     {
       "basename": "Cartwright's Three-Stage Knowledge Framework",
       "path": "wiki/theories/research-methodology/Cartwright's Three-Stage Knowledge Framework.md"
-    },
-    {
-      "basename": "Campbellian Validity Framework",
-      "path": "wiki/theories/research-methodology/Campbellian Validity Framework.md"
-    },
-    {
-      "basename": "Absolutist and Relativist Ethics",
-      "path": "wiki/theories/research-methodology/Absolutist and Relativist Ethics.md"
-    },
-    {
-      "basename": "Realist Evaluation",
-      "path": "wiki/theories/research-methodology/Realist Evaluation.md"
-    },
-    {
-      "basename": "Seedhouse's Ethical Pyramid",
-      "path": "wiki/theories/research-methodology/Seedhouse's Ethical Pyramid.md"
-    },
-    {
-      "basename": "Situated Ethics",
-      "path": "wiki/theories/research-methodology/Situated Ethics.md"
-    },
-    {
-      "basename": "Sociology of Measurement",
-      "path": "wiki/theories/research-methodology/Sociology of Measurement.md"
     }
   ],
   "omittedPaths": [],
