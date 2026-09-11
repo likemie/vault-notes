@@ -145,7 +145,7 @@ issuing_organization: ""
 
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
-> flowchart TD
+> flowchart LR
 >     A["信息过载生态与证据过剩"] --> B["教育决策环境：<br>歧义性、公共争议性、未来不确定性"]
 >     B --> C["政策中介确立：<br>生产、推销与资助一体化运作"]
 >     C --> D["历史发生学：<br>冷战与后殖民对抗驱动 OECD 与世行向硬事实规制转型"]

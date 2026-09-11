@@ -484,7 +484,7 @@ LeCompte & Preissle（1993, pp. 82–83）指出民族志方法排除统计抽�
 > [!seq-table] 基于网络与推荐的抽样
 > | 抽样类型 | 核心逻辑 | 来源 |
 > |----------|------|----------|
-> | [[Snowball Sampling\| Bogdan & Biklen; LeCompte & Preissle; Patton |滚雪球抽样]] | 由第一位受访者推荐下一位，逐步扩大样本网络。 |
+> | [[Snowball Sampling\|滚雪球抽样]] | 由第一位受访者推荐下一位，逐步扩大样本网络。 | Bogdan & Biklen; LeCompte & Preissle; Patton |
 > | 声誉案例抽样 | 根据该领域专家的推荐选取样本。 | Bogdan & Biklen; LeCompte & Preissle |
 > | 机会抽样 | 利用意外事件、线索、想法和议题。 | Miles & Huberman |
 
@@ -493,8 +493,8 @@ LeCompte & Preissle（1993, pp. 82–83）指出民族志方法排除统计抽�
 > [!seq-table] 基于理论的抽样
 > | 抽样类型 | 核心逻辑 | 来源 |
 > |----------|------|----------|
-> | [[Theoretical Sampling\| Miles & Huberman |理论抽样]] | 根据对发展中的理论的贡献潜力来选取参与者，抽样随理论涌现而调整。 |
-> | 关键案例抽样 | 选取集中展现[[Research Problem\| Bogdan & Biklen; LeCompte & Preissle; Patton |研究议题]]全部特征的案例，如果此处成立则其他处也可能成立。 |
+> | [[Theoretical Sampling\|理论抽样]] | 根据对发展中的理论的贡献潜力来选取参与者，抽样随理论涌现而调整。 | Miles & Huberman |
+> | 关键案例抽样 | 选取集中展现[[Research Problem\|研究议题]]全部特征的案例，如果此处成立则其他处也可能成立。 | Bogdan & Biklen; LeCompte & Preissle; Patton |
 > | 验证/否证案例抽样 | 寻找规则的例外以修改规则，或寻找极端/偏差案例来检验理论。 | Miles & Huberman |
 
 **基于可及性的抽样**
@@ -502,7 +502,7 @@ LeCompte & Preissle（1993, pp. 82–83）指出民族志方法排除统计抽�
 > [!seq-table] 基于可及性的抽样
 > | 抽样类型 | 核心逻辑 | 来源 |
 > |----------|------|----------|
-> | [[Convenience Sampling\| Bogdan & Biklen; LeCompte & Preissle; Patton |便利抽样]] | 从可接触到的人中选取，省时省力但代表性最弱。 |
+> | [[Convenience Sampling\|便利抽样]] | 从可接触到的人中选取，省时省力但代表性最弱。 | Bogdan & Biklen; LeCompte & Preissle; Patton |
 > | 政治重要/敏感案例抽样 | 选取具有政治重要性或敏感性的案例以引起关注。 | Patton |
 
 Maxwell（2005, pp. 89–90）归纳了目的性选择的四种可能目的：

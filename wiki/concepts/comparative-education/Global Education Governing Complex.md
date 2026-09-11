@@ -99,7 +99,7 @@ updated: 2026-09-11
 
 > [!logic-map]- 全球教育治理复合体拓扑架构
 > ```mermaid
-> flowchart TD
+> flowchart LR
 >     subgraph Core["核心中介层：五大国际组织 (Big Five)"]
 >         OECD["OECD：PISA 与政策展望"]
 >         WB["世界银行：SABER 与实证数据库"]
