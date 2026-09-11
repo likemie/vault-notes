@@ -6,7 +6,7 @@ aliases:
 summary: "将“教育”等同于“学校教育”（schooling）的还原论认识论倾向。在比较教育研究中，它被用于批判将复杂的教育社会化过程狭隘地等同于正式学校制度和国家课程的局限性；它常与方法论国家主义和方法论国家中心主义叠加，构成传统国民教育研究的限制性视角。"
 type: concept
 domain: "comparative-education"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Rationalism in International Relations]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Global Citizenship]]"
+  - "[[Relational Space]]"
 related_theories:
   - "[[Governing at a Distance]]"
 related_methods: []
@@ -111,7 +112,7 @@ updated: 2026-09-11
 > [!dev-timeline] 概念演变
 > - **2005 — 提出三位一体还原论** Roger Dale 系统梳理了支配全球化教育研究的三重方法论陷阱，明确界定了“方法论教育主义”将教育等同于学校教育的性质。(Dale, 2005, 引自 [[Argument_Klerides_2023_CE|Klerides, 2023, p. 423]])
 > - **2009 — [[Knowledge-Based Economy|知识经济]]批判拓展** Dale & Robertson 进一步分析在知识经济浪潮中，方法论教育主义如何配合新自由主义国家，将学生的“全球竞争力”转化为可以通过学校课程直接生产的商品特质。(Dale & Robertson, 2009)
-> - **2023 — 比较教育学科演进检视** Klerides 追溯比较教育史，指出[[Global Citizenship|全球公民]]、人权与生态身份挑战了基于“方法论教育主义”定义的传统国民学校身份，倡导引入关系空间以打破三者叠加对研究的禁锢。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 425]])
+> - **2023 — 比较教育学科演进检视** Klerides 追溯比较教育史，指出[[Global Citizenship|全球公民]]、人权与生态身份挑战了基于“方法论教育主义”定义的传统国民学校身份，倡导引入[[Relational Space|关系空间]]以打破三者叠加对研究的禁锢。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 425]])
 
 ---
 

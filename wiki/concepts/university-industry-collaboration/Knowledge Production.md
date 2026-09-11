@@ -2,85 +2,173 @@
 title: Knowledge Production
 aliases:
   - 知识生产
-summary: "围绕谁生产知识、以何种视角生产以及知识服务于谁的过程性概念，用于分析高等教育中的知识权力和利益分布。"
+  - 知识建构
+summary: "知识的创造、建构与合法化过程；在高等教育与地缘政治中关注资本与权力的利益分配，在跨国治理中指向国际组织通过自指性研究帝国对可量化证据的垄断生产。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 11
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
-- geopolitics-of-knowledge
-- knowledge-economy
-- postcolonial-studies
-- region/global
-related_concepts:
-  - "[[Geopolitics of Knowledge]]"
-  - "[[Knowledge Transfer]]"
-  - "[[Epistemology]]"
-  - "[[Cultural Hierarchy]]"
-  - "[[Ways of Knowing]]"
-  - "[[Narrative Knowledge]]"
-  - "[[Grand Theory]]"
-  - "[[Paradigm]]"
-related_theories:
-  - "[[Decolonial Geopolitics of Knowledge]]"
-related_methods: []
-related_persons:
-  - "[[Chen Kuan-Hsing]]"
-related_facts: []
-related_arguments:
-  - "[[Argument_Partaken_2022_Springer]]"
-confidence: medium
+  - subject/comparative-education
+  - field/university-industry-collaboration
+  - theme/geopolitics-of-knowledge
+  - theme/knowledge-economy
+  - epistemology
+  - theme/global-governance
+confidence: high
 status: draft
-created: '2026-05-10'
-updated: '2026-05-18'
+created: 2026-05-10
+updated: 2026-09-11
 ---
 
 # Knowledge Production
 
+---
+
 ## 定义
 
-> [!info]
-> 知识生产（knowledge production）在[[Geopolitics of Knowledge|知识地缘政治]]（GPK）中指知识的创造、建构和合法化过程。[[Argument_Partaken_2022_Springer|Partaken (2022)]] 将其界定为 GPK 的"两面"（two faces）之一（另一面为[[Knowledge Transfer|知识转移]]）：知识生产关注谁生产知识、以何种视角、为谁的利益。它是后殖民 GPK 传统——从 Fanon 到 Mignolo 到 [[Chen Kuan-Hsing]]——的核心分析维度([[Argument_Partaken_2022_Springer|Partaken, 2022, p.72–75]])。
+> [!def] 核心定义
+> 知识生产（Knowledge Production）是指在特定的认识论范式与制度框架下，行动者通过调查、实验、统计建模或理论阐发对经验世界进行分类、符号化表征并确立其真理性与合法性的社会实践过程。该概念在知识地缘政治中揭示了“谁在生产知识、以何种视角生产以及为谁的利益生产”的权力结构（[[Argument_Partaken_2022_Springer|Partaken, 2022]]；Chen, 2010）；在当代全球教育治理中，知识生产进一步拓展为超国家组织与智库构建“以硬事实施展软权力”的制度基石：国际组织通过在内部建立庞大的自指性研究帝国，将纷繁复杂的社会实践简化为可量化、可比较与可标准化的政策数据，集知识生产、政策中介推销与项目资助为一体，重塑国家与全球治理议程。[[Argument_Partaken_2022_Springer|(Partaken, 2022, pp. 72–75)]]；[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
 
-知识生产概念涵盖的不仅是[[Epistemology|认识论]]问题（何种知识被认定为知识），更是政治经济问题：何种知识被视为"有价值的"生产，已经由国家和市场共同决定。例如，硬科学"绝对主导"全球可专利知识的生产，而软科学（社科人文）对专利数据的贡献"非常罕见"([[Argument_Partaken_2022_Springer|Partaken, 2022, p.71]])。
+> [!concept-lens] 概念透镜
+> - **含义** 知识并非自然存在的客观事实发现，而是受物质资本、赞助机制与地缘权力结构深度塑造的制度化建构产物。
+> - **用途** 帮助研究者透视高等教育中科研资助对学科价值的倾斜，以及跨国组织如何通过垄断指标定义权将自身偏好转化为普遍的政策公理。
+> - **边界** 不等于纯粹的哲学认识论沉思，亦不等于中立的科技发明，始终聚焦知识生产背后的机构利益、所有权归属与权力配置。
+
+> [!citation-card] 知识生产的权力政治与跨国自指性运作
+> 知识生产问题不仅是认识论的（什么是知识），更是政治经济的：何种知识被国家和市场认定为有价值的生产，早已被产业资本和资助框架所决定。后殖民传统必须正视知识从生产向转移的权力流动。[[Argument_Partaken_2022_Springer|(Partaken, 2022, pp. 71–75)]]
+>
+> 当同一组织对其在内部生产的知识进行中介，甚至更明显地以科学理性为依据自主生产、中介推销并资助其项目时，知识中介与政策中介之间的界限便具有了流动性。跨国机构生产出可量化、可比较且可标准化的知识，并将其武器化以维系自身的治理利基。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–539)]]
+>
+> *The differentiation between knowledge brokerage and policy brokerage is fluid when the same organisation brokers knowledge it previously produced in-house or, even more blatantly, produces, brokers, and funds its projects with recourse to scientific rationality... weaponises a particular kind of knowledge – quantifiable, comparable, and standardizable.*
+
+> [!boundary]- 概念边界
+> - 不等于 [[Knowledge Transfer|知识转移（Knowledge Transfer）]] — 知识生产关注知识“由谁生产、为何生产及如何被合法化”；知识转移关注知识生产完成后的流通、挪用、重构与商业化吸收。两者在实践中交织但在分析维度上指向不同环节。[[Argument_Partaken_2022_Springer|(Partaken, 2022, pp. 74–75)]]
+> - 不等于 知识创新（Knowledge Innovation） — 知识创新侧重于知识的新颖性、突破性与市场商业转化潜力；知识生产是更宽泛的社会学范畴，涵盖了体制化的常规研究、指标编制与政策包装。
 
 ---
 
 ## 概念辨析
 
-> [!example]
-> - vs [[Knowledge Transfer]] — Partaken 的核心区分：知识生产关注知识"是什么"和"谁在生产"；知识转移关注知识"在被做什么"——知识一旦被生产即进入挪用、传授、窃取、审查、破坏的动态过程。Partaken 批评后殖民 [[Geopolitics of Knowledge|GPK]] 传统过度关注前者而忽视后者，主张 GPK 的真正核心是知识转移而非知识生产([[Argument_Partaken_2022_Springer|Partaken, 2022, p.74–75, 84]])
-> - vs 知识创新（Knowledge Innovation） — 知识创新强调知识的新颖性和商业化潜力，是知识生产的一种特定价值取向；知识生产则是更广泛的概念，涵盖一切有组织的知识创造活动
-
----
-
-## 概念演变
-
-> [!note]-
-> - **殖民知识生产的批判传统** Fanon（1952/1963）最早揭示了殖民暴力如何通过语言和[[Cultural Hierarchy|文化等级]]结构"制造"殖民地主体——殖民教育系统生产了一套将西方知识优越化、本地知识贬低化的知识体系。[[Decolonial Geopolitics of Knowledge|去殖民知识地缘政治]]传统（Mignolo, Dussel）进一步论证：西方[[Epistemology|认识论]]通过殖民差异系统性地压制替代性[[Ways of Knowing|认知方式]]，知识生产本身就是殖民性的核心运作场所([[Argument_Partaken_2022_Springer|Partaken, 2022, p.72]])
-> - **"知识生产"术语的商业化同步** Partaken 指出"knowledge production"这一英文术语本身直到 1960 年代之后才出现在书籍中，1980 年代才流行——与国际专利法律体系（1970 年 Patent Cooperation Treaty、2000 年 Patent Law Treaty）的建立几乎同步。这一时间上的重合暗示：该概念的兴起与知识产权的商业化紧密交织([[Argument_Partaken_2022_Springer|Partaken, 2022, p.70]])
-> - **[[Chen Kuan-Hsing]] 的"亚洲作为方法"** [[Chen Kuan-Hsing]]（2010）将知识生产批判推进到当代亚洲——论证知识本身是"帝国主义运作和行使权力的主要场所之一"，呼吁将亚洲从分析对象转变为知识生产的主体，推进"去帝国化、去殖民化和去冷战"([[Argument_Partaken_2022_Springer|Partaken, 2022, p.73–74]])
-> - **[[Argument_Partaken_2022_Springer|Partaken (2022)]] 的转向批评** Partaken 对"知识生产"中心地位的批评建立在一个经验观察之上——[[Narrative Knowledge|叙事知识]]（社科人文知识）在全球范围内急剧衰退，这不是因为后现代对[[Grand Theory|元叙事]]的怀疑（Lyotard 的原初诊断），而是因为具有商业价值的科学知识得到了国家和产业的有力赞助。后殖民传统关注的知识生产（尤其是谁生产、为谁生产的批判）属于叙事知识范畴，其自身也在这场衰退中被边缘化([[Argument_Partaken_2022_Springer|Partaken, 2022, p.74–75]])
+> [!contrast-table] 概念辨析
+> | 维度 | 传统学术知识生产（Mode 1） | 产学合作应用知识生产（Mode 2） | 跨国政策量化知识生产 |
+> |------|--------------------------|------------------------------|--------------------|
+> | **生产主体** | 大学学者、基础学科实验室与学术共同体 | 大学与工业企业、民营研发部门联合体 | 跨国政府间组织（OECD、世界银行）、智库与评估机构 |
+> | **合法性来源** | 同行匿名评审、学术共同体范式与纯学术声誉 | 市场交换价值、技术专利转化与应用解决效率 | 科学理性修辞、跨国基准指标、标准化测验与去情境化数据 |
+> | **核心目的** | 探索科学真理与扩展人类学科认知边界 | 满足商业经济需求、技术专利变现与生产力提升 | 施展硬事实软权力、设置全球改革议程与维系组织治理利基 |
+> | **权力形态** | 学术权威与学科自主性范畴 | 产业资本逻辑对学术议程的渗透 | 跨国治理复合体的知识武器化与远处绩效问责 |
 
 ---
 
 ## 核心要素
 
-> [!abstract]
-> Partaken 对知识生产作为 [[Geopolitics of Knowledge|GPK]] 分析维度进行了系统梳理([[Argument_Partaken_2022_Springer|Partaken, 2022, p.70–75]])：
-> - **所有权 ≠ 生产权** 欧洲学术专利的 60%–81% 为工业公司所有（视国家而定），而美国大学拥有 68.7%——"学术专利"这一标签不能揭示知识的实际所有权。知识由大学学者生产但由企业拥有，是 GPK 中的常态而非例外（Lissoni, 2012; 引自 Partaken, 2022, p.71）
-> - **知识类型的不对称** Lyotard 的[[Narrative Knowledge|叙事知识]] vs 科学知识区分在 GPK 中至关重要——硬科学"绝对主导"全球可专利知识的生产，软科学对专利数据的贡献"非常罕见"([[Argument_Partaken_2022_Springer|Partaken, 2022, p.71]])
-> - **[[Epistemology|认识论]]的政治性** 知识生产问题因而不仅是认识论的（什么是知识），更是政治经济的（何种知识被国家和市场认定为"有价值"的生产）。研究资助框架（如 Horizon 2020 将 SSH 从独立渠道改为横向嵌入）通过制度设计将特定认识论[[Paradigm|范式]]固化为唯一合理的选择
+> [!feature] 核心要素
+> - **知识所有权与生产权的结构性分离** 科学知识由大学学者生产，但在法理和经济所有权上往往属于资助的企业与国家实体；欧洲学术专利中高达 60%–81% 归工业公司所有，知识生产从根本上面临资本的控制与异化。[[Argument_Partaken_2022_Springer|(Partaken, 2022, p. 71)]]
+> - **知识类型的不对称性繁荣与衰退** 具备直接商业化与量化潜力的硬科学及专利知识受到国家和产业的强力支持；而以定性批判为特色的叙事知识（社会科学与人文学科）在研究资助框架中被急剧边缘化。[[Argument_Partaken_2022_Springer|(Partaken, 2022, pp. 71, 74)]]
+> - **国际组织的自指性内部研究帝国** 跨国组织（如世界银行）建立高度封闭的内部知识生产体系，自主设立课题、在内部开展审查，并通过建立自指性实践仓库与量化基准数据库（如 SABER）将内部知识合法化为全球通用模板。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 544–545)]]
+> - **量化、可比与标准化知识的武器化** 现代跨国知识生产专门聚焦于能够跨越国别情境的量化指标，将教育复杂性折算为标准化分值，以此为跨国远处调控提供无须主权法律强制的政治杠杆。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 539)]]
+
+> [!logic-map]- 知识生产的双重权力运作路径
+> ```mermaid
+> flowchart TD
+>     subgraph Academic["高等教育与产学合作场域"]
+>         Fund["国家与产业资本资助"] --> Hard["硬科学可专利知识 (绝对优先)"]
+>         Fund -.-> Soft["叙事知识与人文社科 (边缘化)"]
+>         Hard --> Own["所有权流向企业垄断 (60%-81%)"]
+>     end
+>     subgraph Transnational["全球治理与跨国组织场域"]
+>         IO["跨国国际组织 (OECD / 世界银行)"] --> Inhouse["自建内部研究帝国与基准体系 (SABER)"]
+>         Inhouse --> Bundle["工具打包：生产 + 中介推销 + 项目资助"]
+>         Bundle --> Power["硬事实软权力：量化知识武器化与国家问责"]
+>     end
+> ```
+
+---
+
+## 围绕概念形成的命题
+
+---
+
+### 命题一　知识生产深受国家资助与市场资本偏好的结构性塑造
+
+> [!concept-lens] 资本偏向与学科分化
+> 探讨高等教育中知识生产如何由中立探索异化为服务于特定经济与专利利益的非对称体系。
+
+> [!claim] [[Argument_Partaken_2022_Springer|Partaken (2022)]]
+> **叙事知识衰退与专利资本对生产权的吞噬** 知识生产并非纯粹的学者自由探索，而是被国家研发资助框架与产业资本深刻绑架。欧洲和美国的学术专利数据显示，大学学者生产的知识绝大部分在法律所有权上被商业实体捕获；在资助机制驱动下，硬科学可专利知识绝对主导全球知识生产，而人文社会学科的叙事知识由于无法直接创造经济剩余价值而面临系统性萎缩与边缘化。[[Argument_Partaken_2022_Springer|(Partaken, 2022, pp. 71–75)]]
+
+---
+
+### 命题二　跨国治理组织通过自指性研究闭环构筑知识生产的排他性垄断
+
+> [!concept-lens] 自指性闭环与组织利基
+> 剖析超国家组织如何脱离独立学术共同体，凭借自主生产与内部中介确立全球政策知识霸权。
+
+> [!claim] [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]]
+> **自产自销自资助的一体化知识帝国** 跨国组织在教育领域的知识生产表现出强烈的自指性（Self-referential）特征。以世界银行和经合组织为代表的治理巨头不仅研发测试指标，更在组织内部自行开展研究、撰写专题评估、建立最佳实践仓库，并在推销其知识方案时配套项目贷款或技术资助。这种集“生产—中介—资助”于一体的封闭运作，借助科学理性的客观外衣遮蔽了深层制度利益，将量化政策知识深度武器化为排他性的治理特权。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–540, 544–545)]]
+
+---
+
+### 命题总览
+
+> [!contrast-table] 所有命题归纳
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
+> |---|---|---|---|
+> | **资本偏向与学科分化** | 揭示国家与产业资本对学术知识生产所有权与学科权重的扭曲 | 大学产学合作、科研资助政策与知识地缘政治 | [[Argument_Partaken_2022_Springer\|Partaken (2022)]] |
+> | **自指闭环与知识垄断** | 阐明国际组织自产、自销、自资助的封闭知识生产与武器化机制 | 跨国教育治理、政策中介与基准评测 | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] |
+
+---
+
+## 概念演变
+
+> [!dev-timeline] 概念演变
+> - **1950s–1970s — 殖民知识生产批判** Fanon 揭示殖民教育如何通过语言和文化等级制造附庸性知识体系；后殖民学者（Mignolo, Dussel）系统批判西方认识论霸权。
+> - **1990s — Mode 2 知识生产理论确立** Gibbons 等人提出 Mode 2 概念，强调知识生产从传统大学象牙塔向多主体、跨学科、应用导向与反射性情境转移。
+> - **2010 — 亚洲作为方法与知识去帝国化** [[Chen Kuan-Hsing]] 呼吁打破以西方为唯一样板的知识流动格局，将亚洲从分析客体转变为能动的知识生产主体。
+> - **2022 — 知识地缘政治两面观与叙事知识衰落** [[Argument_Partaken_2022_Springer|Partaken (2022)]] 梳理知识生产与知识转移的张力，揭示学术专利商业化背景下知识生产所有权的资本剥离。
+> - **2024 — 数字治理 2.0 与跨国中介自指性知识生产** [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] 将知识生产推至超国家治理层面，揭示国际组织如何将自产知识与政策中介捆绑，构建自给自足的全球政策知识帝国。
 
 ---
 
 ## 争议与批评
 
-> [!warning]
-> - **"生产 vs 转移"是否构成虚假对立** Partaken 将知识生产与[[Knowledge Transfer|知识转移]]呈现为 [[Geopolitics of Knowledge|GPK]] 的"两面"，但两者在实际中是否可清晰分离存疑——知识在生产过程中已包含转移（合作研究、学术出版），而知识在转移过程中也发生着生产（教学中的知识重构）。Partaken 承认后殖民传统关注知识生产有其历史合法性，但他将两者作为分析范畴对立起来的做法，可能低估了二者的交织程度([[Argument_Partaken_2022_Springer|Partaken, 2022, pp.72–75]])
-> - **"知识生产"概念的商业化前提** Partaken 正确指出"knowledge production"术语的流行与专利法律体系建立同步，但这一观察本身不足以证明"知识生产"作为分析范畴无效——只能说它的含义已经被商业力量重塑
+> [!debates] 学术争议
+>
+> > [!axis] 知识生产与知识转移是否构成非此即彼的对立
+> > 争论研究视线应聚焦于源头的知识创造与生产权，还是流通环节中的挪用与重塑。
+> >
+> > - **生产中心派** 坚称谁在生产、以何种认知框架生产从源头上锁定了知识的阶级与地缘属性。
+> > - **转移中心派** 认为知识一经生产便在转移中被反复改写，转移中的转译与政治规制才是决定其社会效果的关键。[[Argument_Partaken_2022_Springer|(Partaken, 2022, pp. 74–75)]]
+>
+> > [!axis] 国际组织内部知识生产是循证专业化还是新自由主义自我复制
+> > 评价跨国智库建立大型自指性数据库和分析模型的性质。
+> >
+> > - **技术赋能论** 认为跨国机构能够动员全球顶尖量化工具与多国样本，其生产的知识具有单一民族国家无法比拟的跨文化可比价值。
+> > - **意识形态复制论** 批评跨国自指性生产构成了学术回音室，通过预设人力资本理论指标排除其他社会正义视角。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
+
+> [!warning] 适用局限
+> 知识生产概念侧重于有组织的、制度化的现代知识工业体系；对于前现代口头传统、默会知识（Tacit Knowledge）或无固定资助渠道的自发民间知识创造，其资本与制度分析框架需要审慎调适。
 
 ---
+
+## 实证数据
+
+> [!ref-table]- 其他实证结果（无效应量）
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Partaken_2022_Springer\|Partaken (2022)]] | 欧洲与美国大学学术专利数据（引自 Lissoni, 2012） | 知识产权与专利所有权统计普查 | 工业公司拥有的学术专利比例 vs 大学拥有比例 | 欧洲学术专利的 60%–81% 法律所有权归工业公司所有；美国大学拥有其 68.7% | — | 实证证实学术知识生产与经济所有权之间的严重割裂，大学学者生产知识但由产业控制资本权益 |
+> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] | 世界银行教育知识资产普查（SABER 指标库及内部研究报告）；全球 30 个涉教育国际组织 | 跨国政策工具计量普查；治理机构数据库追踪 | 内部基准指标数量；自指性方案库规模；经济组织涉足教育比例 | 世界银行 SABER 涵盖 1,600 余项系统性指标；政策仓库收录 1,120 项教育回报率自指性研究；33.3% 涉教育国际组织属于经济协调类机构 | — | 实证展现超国家组织自指性知识生产帝国的巨大规模，及其集知识生产、指标制定与项目贷款于一体的垄断特征 |
+
+---
+
+## 相关研究
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Partaken_2022_Springer|Partaken (2022)]] — 知识地缘政治专著，系统辨析学术知识生产的资本化、专利所有权剥离及叙事知识的全球萎缩。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 数字治理 2.0 框架下解析经合组织与世界银行的内部自指性知识生产、工具打包与政策中介机制。
+
 

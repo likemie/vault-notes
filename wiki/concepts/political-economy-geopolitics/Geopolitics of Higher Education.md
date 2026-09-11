@@ -6,7 +6,7 @@ aliases:
 summary: "将高等教育理解为一类地缘政治行动者或地缘政治场域的分析视角，考察其如何被动或主动地参与全球地缘政治空间和秩序的生产与再生产"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -17,6 +17,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Soft Power]]"
+  - "[[Relational Space]]"
   - "[[Classical Geopolitics]]"
   - "[[Space Production]]"
   - "[[Knowledge Production]]"
@@ -33,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-26
-updated: 2026-06-26
+updated: 2026-09-11
 ---
 # Geopolitics of Higher Education
 
@@ -57,7 +58,7 @@ updated: 2026-06-26
 ## 核心要素
 
 > [!feature] 核心要素
-> - **空间分析维度** 以空间—权力关系为分析核心，关注高等教育如何在物质空间（校园布局、海外分校选址）、象征空间（排名、知识等级）和关系空间（流动网络、合作联盟）三个层面参与空间秩序的生产与再生产。
+> - **空间分析维度** 以空间—权力关系为分析核心，关注高等教育如何在物质空间（校园布局、海外分校选址）、象征空间（排名、知识等级）和[[Relational Space|关系空间]]（流动网络、合作联盟）三个层面参与空间秩序的生产与再生产。
 > - **地缘政治行动者** 将高等教育机构视为具有能动性的地缘政治行动者（geopolitical actor），而非仅仅是国家战略的被动执行者或附属工具。高校在知识伦理、国际声誉和学术价值方面有相对自主性。
 > - **多层级行动者网络** 分析对象不限于民族国家，还包括国际组织、区域联盟、高等教育机构、中介组织和"普通行动者"等多层级主体之间的动态博弈。
 > - **历史演变意识** 关注高等教育地缘政治研究从"相对不可见"到"非自觉"再到"自觉"的演变过程，理解不同阶段中理论工具和政治语境如何影响研究焦点的转移。

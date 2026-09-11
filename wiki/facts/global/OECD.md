@@ -10,9 +10,9 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 48
-fact_related_level: 5
-fact_related_stars: "⭐⭐⭐⭐⭐"
+fact_related_count: 55
+fact_related_level: 6
+fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
 org_type: intergovernmental
 headquarters: 巴黎（法国）
@@ -24,10 +24,11 @@ tags:
   - subject/comparative-education
   - region/global
 related_concepts:
-  - "[[Dialogue in Education]]"
+  - "[[Global Education Governing Complex]]"
+  - "[[Policy Brokerage]]"
   - "[[Paradigm]]"
   - "[[Development Turn in Comparative Education]]"
-  - "[[New Public Management]]"
+  - "[[Innovation Hub]]"
   - "[[International Education]]"
   - "[[Governing by Numbers]]"
   - "[[Research Topic]]"
@@ -42,6 +43,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Reference Society]]"
   - "[[Policy Borrowing]]"
+  - "[[Document]]"
   - "[[Epistemology]]"
   - "[[Realism in International Relations]]"
   - "[[Rationalism in International Relations]]"
@@ -50,10 +52,12 @@ related_concepts:
   - "[[Avatar]]"
   - "[[Methodological Statism]]"
   - "[[Methodological Educationism]]"
+  - "[[Performance Pay]]"
   - "[[Academic Achievement]]"
   - "[[Soft Power]]"
   - "[[PISA Shock]]"
   - "[[Mediatised Governance]]"
+  - "[[Media Logic]]"
   - "[[Rashomon Effect]]"
 related_theories:
   - "[[Governing at a Distance]]"
@@ -71,12 +75,15 @@ related_facts:
   - "[[Sputnik Shock 1957]]"
   - "[[Comparative Education Center at Chicago 1958]]"
   - "[[International Institute for Educational Planning]]"
+  - "[[A Nation at Risk 1983]]"
   - "[[International Indicators of Education Systems]]"
   - "[[Education at a Glance]]"
+  - "[[Baby PISA]]"
 related_arguments:
   - "[[Argument_Klerides_2023_CE]]"
-  - "[[Argument_Li_2025_HSSC]]"
+  - "[[Argument_Steiner-Khamsi_2024_CE]]"
   - "[[Argument_Grey_2018_CE]]"
+  - "[[Argument_Li_2025_HSSC]]"
 confidence: medium
 status: draft
 created: 2026-06-08
@@ -110,8 +117,8 @@ updated: 2026-09-11
 >   - 1958 [[Comparative Education Center at Chicago 1958|芝加哥大学比较教育中心]]建立，推动教育经济学与比较教育深度融合。
 > - **1961–1970s — OECD 改组与冷战“[[Development Turn in Comparative Education|发展转向]]”** 1961 年 OECD 正式取代 OEEC，美欧国家共同将其打造成抗衡苏联意识形态竞争的制度堡垒。在[[Economics of Education Movement|教育经济学运动]]影响下，OECD 系统确立将教育视为经济增长“生产性投资”的新范式，与[[International Institute for Educational Planning|联合国教科文组织国际教育规划研究所]]（[[International Institute for Educational Planning|IIEP]]）形成双翼，推动了比较教育的[[Development Turn in Comparative Education|发展转向]]。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 420–423)]]
 >   - 1962 启动著名的地中海区域项目（Mediterranean Regional Project, MRP），将[[Human Capital Theory|人力资本理论]]系统转化为南欧各国的国家教育发展规划。
-> - **1980s–1990s — 指标体系建构与管理主义转向** 1983 年美国《国家处在危险之中》（*A Nation at Risk*）报告发布后引发教育危机恐慌，时任美国教育部助理部长 Chester Finn Jr. 转向 OECD 下设的教育研究与创新中心（CERI），委托并资助 CERI 主任 Jarl Bengtsson 团队研发国际教育指标体系。这一关键转向促成了 1988 年国际教育系统指标网络（[[International Indicators of Education Systems|INES]]）的正式启动，标志着 OECD 彻底从传统的投入端与粗放人力核算转向关注教育系统的产出效能与质量问责，随后于 1992 年推出旗舰年度报告《[[Education at a Glance|教育概览]]》（Education at a Glance），为后来的跨国测试奠定了方法论与组织基础。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 540–542)]]
-> - **2000–至今 — 大数据时代、[[Governing at a Distance|远处治理]]与政策中介深化** 2000 年推出首轮[[PISA|国际学生评估项目]]（[[PISA]]），随后扩展至教师教学国际调查（TALIS）、成人技能评估（PIAAC）及面向全球南方的 PISA-D。经合组织不仅开创了跨国量化排名的[[Governing by Numbers|数字治理]]（Governing by Numbers）模式，更通过深度工具打包，将其跨国测评与外向型国别横向借鉴相结合，演进为全球教育政策知识的重要中介者与规范制定者。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 424–425)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 543–545)]]
+> - **1980s–1990s — 指标体系建构与管理主义转向** 1983 年美国《国家处在危险之中》（*[[A Nation at Risk 1983|A Nation at Risk]]*）报告发布后引发教育危机恐慌，时任美国教育部助理部长 Chester Finn Jr. 转向 OECD 下设的教育研究与[[Innovation Hub|创新中心]]（CERI），委托并资助 CERI 主任 Jarl Bengtsson 团队研发[[International Education|国际教育]]指标体系。这一关键转向促成了 1988 年[[International Indicators of Education Systems|国际教育系统指标]]网络（[[International Indicators of Education Systems|INES]]）的正式启动，标志着 OECD 彻底从传统的投入端与粗放人力核算转向关注教育系统的产出效能与质量问责，随后于 1992 年推出旗舰年度报告《[[Education at a Glance|教育概览]]》（Education at a Glance），为后来的跨国测试奠定了方法论与组织基础。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 540–542)]]
+> - **2000–至今 — 大数据时代、[[Governing at a Distance|远处治理]]与[[Policy Brokerage|政策中介]]深化** 2000 年推出首轮[[PISA|国际学生评估项目]]（[[PISA]]），随后扩展至教师教学国际调查（TALIS）、成人技能评估（PIAAC）及面向全球南方的 PISA-D。经合组织不仅开创了跨国量化排名的[[Governing by Numbers|数字治理]]（Governing by Numbers）模式，更通过深度工具打包，将其跨国测评与外向型国别横向借鉴相结合，演进为全球教育政策知识的重要中介者与规范制定者。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 424–425)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 543–545)]]
 
 ---
 
@@ -131,7 +138,7 @@ updated: 2026-09-11
 > - **议程设置** 研判全球宏观经济转型与劳动力技能演进趋势，在教育政策委员会引导下确定跨国比较[[Research Topic|研究选题]]与新型素养维度（如创新思维、全球素养）。
 > - **研究开发与跨国标准化施测** 研制标准化测评框架与背景[[Questionnaire|问卷]]，指导各参与国设立的国家项目中心（National Project Centers）进行严密的[[Going Native|本土化]]双向翻译、抽样与计算机化施测。
 > - **质量控制与同行审查** 采用项目反应理论（IRT）与潜[[Variable|变量]]模型消除跨文化题项偏差，通过发布国别政策[[Peer Debriefing|同行审议]]报告（Peer Review）形成具有广泛舆论反响的国际比较结论。
-> - **双轨发布与媒介定制策略** 数据发布采取技术中立的国别简报（Country Notes）与高度倡导性的全球概览（PISA in Focus 及演示幻灯片）双轨分流：前者呈现统计指标，声明数据不直接推导具体政策处方；后者面向大众媒体定制口号化警句与图表分类，为国内行动者选择性剪裁留出缝隙。[[Argument_Grey_2018_CE|(Grey & Morris, 2018, pp. 114–116)]]
+> - **双轨发布与媒介定制策略** 数据发布采取技术中立的国别简报（Country Notes）与高度倡导性的全球概览（[[PISA]] in Focus 及演示幻灯片）双轨分流：前者呈现统计指标，声明数据不直接推导具体政策处方；后者面向大众媒体定制口号化警句与图表分类，为国内行动者选择性剪裁留出缝隙。[[Argument_Grey_2018_CE|(Grey & Morris, 2018, pp. 114–116)]]
 
 ---
 
@@ -174,7 +181,7 @@ updated: 2026-09-11
 > - **学术[[Paradigm|范式]]迁移** 强力助推了“[[Evidence-Based Education|循证教育]]政策”在全球的合法性确立，引导教育决策从传统的政治协商或意识形态偏好转向高度依赖量化测量的[[Positivism|实证主义]]逻辑。
 > - **政策震慑与标杆树立** 借助公开排名触发跨国“PISA 冲击”，迫使德国、日本等传统教育强国展开自上而下的全国性标准改革与课程洗牌，树立以高表现国家为原型的“[[Reference Society|参考社会]]”，引发广泛的[[Policy Borrowing|政策借用]]。
 > - **治理形态创新** 成功探索出无须依托强制性国际公约约束、仅凭借数据披露、公开排队与同行声誉压力调控主权国家政策的[[Governing at a Distance|远处治理]]（Governing at a Distance）与[[Governing by Numbers|数字治理]]典型模式。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 424–425)]]
-> - **主权国家法定行政转化中的中介垄断** 在国家教育改革从议程设置迈向官方行政立法或颁行阶段时，OECD 的政策中介工具与指标表现出极强的排他性垄断力。实证研究显示，在挪威能力课程改革中，尽管前期咨询吸纳了 464 篇多元文献，但教育部最终颁布的官方行政法规中仅保留 22 篇参考文献，其中高达 20 篇被经合组织审查组垄断（涵盖 DeSeCo 能力框架及 OECD 挪威教育政策审查报告），印证了经合组织在主权国家行政决策出台阶段无与伦比的话语权威。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 547–548)]]
+> - **主权国家法定行政转化中的中介垄断** 在国家教育改革从议程设置迈向官方行政立法或颁行阶段时，OECD 的[[Policy Brokerage|政策中介]]工具与指标表现出极强的排他性垄断力。实证研究显示，在挪威能力课程改革中，尽管前期咨询吸纳了 464 篇多元[[Document|文献]]，但教育部最终颁布的官方行政法规中仅保留 22 篇参考文献，其中高达 20 篇被经合组织审查组垄断（涵盖 DeSeCo 能力框架及 OECD 挪威教育政策审查报告），印证了经合组织在主权国家行政决策出台阶段无与伦比的话语权威。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 547–548)]]
 
 > [!stat-cards]- 核心规模数据
 > 38 个正式成员国，逾 80 个 PISA 测评参与经济体，单轮受测学生样本约 60 万人，汇聚 3,000 余名专业雇员及数亿欧元年度综合运作预算。
@@ -200,11 +207,16 @@ updated: 2026-09-11
 > > - **科学客观论（机构立场）** OECD 坚称其测评框架基于严密的心理计量学技术，具有跨文化等值性与客观中立性，为各国超越体制利益保护、精准识别教育短板和促进社会流动提供了不可或缺的循证依据。
 > > - **去情境化[[Positivism|实证主义]]霸权（批评视角）** 比较教育学者指出，OECD 陷入了深刻的[[Methodological Statism|方法论国家主义]]与[[Methodological Educationism|教育主义]]陷阱。去情境化的数据测试强行抹杀了各民族国家的历史传统、本土文化生态与教育固有的育人本质，诱发了急功近利的“为测验而教”与全球教育政策的病态同质化。
 > >
-> > > [!axis] 测试品牌霸权与对本土政治曲解的象征性共谋
+> > [!axis] 测试品牌霸权与对本土政治曲解的象征性共谋
 > > 探讨 OECD 面对主权国家政客公然扭曲其报告实证结论时的默许立场与民主授权争议。
 > >
-> > - **品牌扩张与象征性共谋（批判视角）** 学者指出，面对本土政客（如英国 Michael Gove）利用“遗漏话语”将平稳数据曲解为衰退危机、借机推销违背 OECD 建议的激进私有化与绩效工资政策，OECD 几乎从不公开发声纠偏；因为对 OECD 而言，最核心利益在于确保全球教育话语被牢牢锁定在由其定义的量化评估框架内，政客制造危机反向巩固了 PISA 作为卓越质量金标准的品牌霸权，为其衍生测试工具（[[Baby PISA]]、PIAAC、PISA for Schools）开辟市场，展现出跨国机构与国内政客的象征性共谋。[[Argument_Grey_2018_CE|(Grey & Morris, 2018, pp. 125–126)]]
+> > - **品牌扩张与象征性共谋（批判视角）** 学者指出，面对本土政客（如英国 Michael Gove）利用“遗漏话语”将平稳数据曲解为衰退危机、借机推销违背 OECD 建议的激进私有化与[[Performance Pay|绩效工资]]政策，OECD 几乎从不公开发声纠偏；因为对 OECD 而言，最核心利益在于确保全球教育话语被牢牢锁定在由其定义的量化评估框架内，政客制造危机反向巩固了 [[PISA]] 作为卓越质量金标准的品牌霸权，为其衍生测试工具（[[Baby PISA]]、PIAAC、PISA for Schools）开辟市场，展现出跨国机构与国内政客的象征性共谋。[[Argument_Grey_2018_CE|(Grey & Morris, 2018, pp. 125–126)]]
 > > - **民主授权缺失与短期应试修补（学术界公开信）** 2014 年 5 月全球 83 位著名教育学者在《卫报》发表联名公开信，直接致信 OECD 教育总监，严厉谴责 OECD 作为未经民主选举的经济机构缺乏主导各国公共教育政策的宪制授权，批评其过度依赖单一量化指标引发急功近利的短期应试修补（short-term fixes），严重牺牲了教育的人文与公民价值。[[Argument_Grey_2018_CE|(Grey & Morris, 2018, p. 123)]]
+>
+> > [!axis] 跨国治理复合体中的排他性同盟与利基割据
+> > 批判学者剖析 OECD 与其他跨国巨头在多边协调修辞掩护下的权力同盟与自利性制度壁垒。
+> >
+> > - **复合体知识武器化与排他壁垒（批判政治经济学）** 批判研究指出，经合组织与世界银行、联合国教科文组织等构成了“[[Global Education Governing Complex|全球教育治理复合体]]”，将可量化、可比较且可标准化的知识武器化，用以向主权政府施加远处问责。尽管各机构高调宣称多边协同（如参与设立 BE2 智库联盟），但实践中极力防范自身专属利基被侵蚀；例如当联合国教科文组织与世界银行共同倡议“学习数据协定”（Learning Data Compact）试图统合格局时，经合组织拒绝签署加入，转而独立与德国开发署合作推广 PISA-D（PISA for Development），在多边合作修辞下深层延续了排他性利益争夺与地盘割据。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 539, 549–550)]]
 
 > [!citation-card] 《[[PISA]] 2000：测量学生知识与技能》前言（2000年）
 > 随着经济全球化和技术变革对劳动者技能提出更高要求，PISA 测验旨在评估学生在义务教育结束时是否具备了完全参与社会和经济生活所需的关键知识和技能。经合组织通过提供跨国可比的实证基础，支持各国政府优化其教育政策。
@@ -226,9 +238,12 @@ updated: 2026-09-11
 > | [[International Institute for Educational Planning]] | Fact (Organization) | 联合国教科文组织下属机构，冷战期与 OECD 共同作为教育规划[[Development Turn in Comparative Education\|发展转向]]的关键载体。 |
 > | [[Governing at a Distance]] | Theory | OECD 运用量化基准与同行[[Soft Power\|软实力]]压力调控主权国家教育政策的核心治理机制。 |
 > | [[Governing by Numbers]] | Concept | OECD 治理实践的本质机制，通过指标建构、跨国排行与统计技术实现行政合法性。 |
+> | [[Policy Brokerage]] | Concept | OECD 开展全球治理的核心机制，通过打包 PISA、同行评议与国别政策审查实现外向型政策中介。 |
+> | [[Global Education Governing Complex]] | Concept | OECD 作为五大核心支柱之一所嵌入的全球多边与私营资本混合治理网络。 |
 > | [[Development Turn in Comparative Education]] | Concept | OECD 早期推动的将比较教育研究重心从西方传统转向发展中国家人力规划的[[Paradigm\|范式]]演进。 |
 > | [[PISA Shock]] | Concept | OECD 测验数据公布后在各受测国内部因学业表现不及预期而激发的全国性教育危机。 |
 > | [[Reference Society]] | Concept | PISA 排名在跨国空间内自动塑就的教育改革样板社会，成为各国[[Policy Borrowing\|政策借用]]竞相模仿的对象。 |
 > | [[Human Capital Theory]] | Theory | OECD 将教育规划与经济增长全面挂钩的经济哲学基础与核心合法性渊源。 |
-> | [[Mediatised Governance]] | Concept | OECD 测评数据进入主权国家后，与本土政治修辞及媒体逻辑深度交织形成的治理异化形态。 |
-> | [[Rashomon Effect]] | Concept | 解释同一批 OECD 评估数据被国际组织、本土政客与大众媒体赋予多重冲突真实的认识论效应。 |
+> | [[Mediatised Governance]] | Concept | OECD 测评数据进入主权国家后，与本土政治修辞及[[Media Logic\|媒体逻辑]]深度交织形成的治理异化形态。 |
+> | [[Rashomon Effect]] | Concept | 解释同一批 OECD 评估数据被国际组织、本土政客与大众媒体赋予多重冲突真实的[[Epistemology\|认识论]]效应。 |
+> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] | Argument | 剖析数字治理 2.0 时代 OECD 如何通过政策中介工具打包与经验横向借鉴实现远处治理。 |

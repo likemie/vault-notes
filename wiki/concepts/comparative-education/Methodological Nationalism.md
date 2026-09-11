@@ -5,7 +5,7 @@ aliases:
 summary: "把民族国家视为现代社会自然单位的方法论立场，容易遮蔽全球联系、跨尺度过程和空间关系的复杂性"
 type: concept
 domain: "comparative-education"
-related_count: 23
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -26,7 +26,9 @@ related_concepts:
   - "[[Recontextualization]]"
   - "[[Relational Space]]"
   - "[[Multiplicity]]"
+  - "[[Methodological Transnationalism]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Policy Brokerage]]"
   - "[[Creativity]]"
 related_theories: []
 related_methods:
@@ -42,6 +44,7 @@ related_arguments:
   - "[[Argument_Marginson_2025_ROE]]"
   - "[[Argument_Klerides_2023_CE]]"
   - "[[Argument_Beech_2015_GSE]]"
+  - "[[Argument_Steiner-Khamsi_2024_CE]]"
 confidence: high
 status: draft
 created: 2026-05-12
@@ -133,7 +136,7 @@ updated: 2026-09-11
 > [!claim] Dale, R. & Robertson, S.
 > 全球化背景下的教育研究不仅受限于方法论民族主义，还会与[[Methodological Statism|方法论国家中心主义]]和[[Methodological Educationism|方法论教育主义]]叠加，系统性地遮蔽跨国治理网络、非国家行动者 and 学校以外的教育实践。[[Argument_Klerides_2023_CE|Klerides, 2023, p. 423]]
 
-> [!claim] Steiner-Khamsi et al. (2024)
+> [!claim] Steiner-Khamsi et al.
 > **超越方法论民族主义与线性霸权假定** 政策研究极易落入将民族国家预设为自足容器的方法论民族主义陷阱，或将国家与全球关系简化为单向、线性且等级化的霸权传导；应对之道是坚持[[Methodological Transnationalism|方法论跨国主义]]，将全球与国家视作相互依赖的关系性空间，聚焦行动者在转移空间中对跨国中介力量的工具性动员与全球/国家联结。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 540)]]
 
 ---
@@ -147,7 +150,7 @@ updated: 2026-09-11
 > | **超越高等教育空间性** | 论证双重空间性共存，基于关系性空间超越单一国家框架 | 高等教育全球化与科学[[Network Analysis\|网络分析]] | [[Argument_Marginson_2025_ROE\|Marginson (2025)]] |
 > | **批判静态转移解释** | 摒弃固定国家领土[[Hypothesis\|假设]]，转向关系性流通与再脉络化 | 教育思想、实践的跨国流动与转移 | [[Argument_Beech_2015_GSE\|Beech & Artopoulos (2015)]] |
 > | **三主义叠加效应** | 揭示方法论民族主义、国家中心主义和教育主义的叠加遮蔽作用 | 全球教育治理与多元行动者分析 | Dale & Robertson (2009); [[Argument_Klerides_2023_CE\|Klerides (2023)]] |
-> | **方法论跨国主义替代方案** | 超越国家容器与线性霸权模型，确立全球/国家相互依存关系性空间 | 跨国政策转移与全球治理中的政策中介分析 | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] |
+> | **方法论跨国主义替代方案** | 超越国家容器与线性霸权模型，确立全球/国家相互依存关系性空间 | 跨国政策转移与全球治理中的[[Policy Brokerage\|政策中介]]分析 | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] |
 
 ---
 
@@ -164,7 +167,7 @@ updated: 2026-09-11
 >   [[Argument_Beech_2015_GSE|Beech & Artopoulos (2015)]] 运用该概念批判传统教育转移的“静态领土[[Hypothesis|假设]]”，推动向关系性转移与流通研究的转向。
 > - **2023–2025 — 高等教育与[[Ontology|本体论]]深化**
 >   [[Argument_Klerides_2023_CE|Klerides (2023)]] 整合 Dale & Robertson 框架探讨三主义叠加效应；[[Argument_Marginson_2025_ROE|Marginson (2025)]] 将 [[Doreen Massey]] 的“[[Relational Space|关系性空间]]”与“[[Multiplicity|多重性]]”理论作为超越方法论民族主义的深层本体论基础，论证高等教育多重尺度的共存。[[Argument_Klerides_2023_CE|Klerides, 2023, p. 423]]; [[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 8–9]]
-> - **2024 — 方法论跨国主义的系统应对**
+> - **2024 — [[Methodological Transnationalism|方法论跨国主义]]的系统应对**
 >   [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] 提出不仅要警惕方法论民族主义，亦需防范将全球/国家关系扁平化为线性霸权统治的误区，倡导基于[[Methodological Transnationalism|方法论跨国主义]]解构国家政府尺度与职能。
 
 ---
@@ -187,7 +190,7 @@ updated: 2026-09-11
 > - **全球尺度的不可化约性** 在高等教育中，仅引入“国家+全球”双层分析仍不足以捕捉空间的多重性。全球科学（没有规范中心，由期刊、计量网络构成）与国家教育（规范中心为国家）等不同尺度是共存且无法相互化约的。[[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 8–9]]
 
 > [!warning] 适用局限
-> - **避开彻底去国家化的乌托邦** 对于如高等教育、大众基础教育等强国家属性的研究，完全放弃国家视角可能导致对地缘政治权力、国家预算投入等关键现实制约的忽视。研究者需根据研究对象的空间属性，客观组合关系空间与领土空间框架，而非一味排斥国家层级。[[Argument_Marginson_2025_ROE|Marginson, 2025, p. 8]]
+> - **避开彻底去国家化的乌托邦** 对于如高等教育、大众基础教育等强国家属性的研究，完全放弃国家视角可能导致对地缘政治权力、国家预算投入等关键现实制约的忽视。研究者需根据研究对象的空间属性，客观组合[[Relational Space|关系空间]]与领土空间框架，而非一味排斥国家层级。[[Argument_Marginson_2025_ROE|Marginson, 2025, p. 8]]
 
 ---
 
@@ -195,7 +198,7 @@ updated: 2026-09-11
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 提出[[Methodological Transnationalism|方法论跨国主义]]路径，超越将国家视为孤立容器或被动霸权受体的研究取向。
-> - [[Argument_Marginson_2025_ROE|Marginson (2025)]] — 论证 Massey 的关系空间理论如何为超越高等教育研究中的方法论民族主义提供[[Ontology|本体论]]支撑。
+> - [[Argument_Marginson_2025_ROE|Marginson (2025)]] — 论证 Massey 的[[Relational Space|关系空间]]理论如何为超越高等教育研究中的方法论民族主义提供[[Ontology|本体论]]支撑。
 > - [[Argument_Beech_2009_CE|Beech (2009)]] — 从术语层面剖析比较教育的国家偏见，并运用[[Space of Flows and Space of Places|流动空间与地方空间]]重构教育政策话语的三级[[Transfer Translation Transformation|转译]]。
 > - [[Argument_Beech_2015_GSE|Beech & Artopoulos (2015)]] — 揭示传统比较教育中静态教育转移的国家领土[[Hypothesis|假设]]，提出关系性流通的阐释。
 > - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 运用该概念批判历史和比较教育研究中的“方法论民族主义、国家主义、[[Methodological Educationism|教育主义]]叠加”现象，阐释其对跨国教育网络研究的遮蔽。

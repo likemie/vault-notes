@@ -20,10 +20,10 @@ related_concepts:
   - "[[Assemblage]]"
   - "[[Science and Technology Studies]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Relational Space]]"
   - "[[Methodological Nationalism]]"
   - "[[Posthumanism]]"
   - "[[Hypothesis]]"
-  - "[[Relational Space]]"
   - "[[Champ]]"
   - "[[Policy Network]]"
   - "[[Going Native]]"
@@ -50,7 +50,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-06-07
-updated: 2026-07-09
+updated: 2026-09-11
 ---
 
 # Actor-Network Theory
@@ -66,7 +66,7 @@ updated: 2026-07-09
 > - **知识位置** 实用社会学与 [[Science and Technology Studies|STS]] 传统（Latour, Callon, Law）。
 
 > [!claim] 核心主张
-> 行动者网络理论（ANT）主张将所有人类和非人类实体（Actants）视为对称且平等的网络节点，否认本质化的宏观结构或中心控制力。它认为社会并非固定实体，而是由异质行动者通过“[[Transfer Translation Transformation|转译]]”（Translation）过程不断组装（Assemblage）和重新组装的关系空间效果。在教育政策和比较教育研究中，它用于穿透“[[Methodological Nationalism|方法论民族主义]]”和国家中心视角，追踪跨越全球-国家-地方的各种非人类行动者（如电脑、网线、测评数据、软件协议）在定义和塑造课堂教与学时的能动地位和权力轨迹。
+> 行动者网络理论（ANT）主张将所有人类和非人类实体（Actants）视为对称且平等的网络节点，否认本质化的宏观结构或中心控制力。它认为社会并非固定实体，而是由异质行动者通过“[[Transfer Translation Transformation|转译]]”（Translation）过程不断组装（Assemblage）和重新组装的[[Relational Space|关系空间]]效果。在教育政策和比较教育研究中，它用于穿透“[[Methodological Nationalism|方法论民族主义]]”和国家中心视角，追踪跨越全球-国家-地方的各种非人类行动者（如电脑、网线、测评数据、软件协议）在定义和塑造课堂教与学时的能动地位和权力轨迹。
 
 > [!citation-card]- 关键表述
 > 社会科学必须揭示创新作为一个永久的、偶然的建构与重构过程，或者用 ANT 的语言来说，组装与重新组装的过程。([[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015, p. 8]])
@@ -96,7 +96,7 @@ updated: 2026-07-09
 > - **推导** 所有知识和权力关系的稳定性只能通过持续的物质与行动整合来维系。一旦某一个非人类行动者节点（如课堂断电或软件崩溃）失效，整个看似庞大的社会-物质组装体会迅速解组，暴露出其实际的脆弱性和建构本质。
 
 > [!proposition-chain] 核心命题二｜政策和知识流通不是被动的领土借用，而是非线性的[[Transfer Translation Transformation|转译]]过程
-> - **前提一** 政策和话语的跨空间流通不应被视为在一个地方生产并在另一个地方原样接收的“静态转移”，而是在各种关系空间中流动的流动话语与政策图景。(引自 [[Argument_Klerides_2023_CE|Klerides, 2023, p. 425]])
+> - **前提一** 政策和话语的跨空间流通不应被视为在一个地方生产并在另一个地方原样接收的“静态转移”，而是在各种[[Relational Space|关系空间]]中流动的流动话语与政策图景。(引自 [[Argument_Klerides_2023_CE|Klerides, 2023, p. 425]])
 > - **前提二** 在多行动者网络的流通中，输入的信息必须通过本地行动者网络（政策制定者、媒体、软件安装者、教师、物理电路等）的博弈和本地物质条件的“翻译”，才能变成起作用的局部关系。(引自 [[Argument_Li_2025_HSSC|Li et al., 2025, p. 6]])
 > - **推导** 全球教育改革倡议（如 [[PISA]] 或数字教育项目）的最终效果，是非线性转译过程中本地内部行动者网络利益博弈、重组和文化制度折射的结果，而不是全球中心力量的直接投射。
 
@@ -157,7 +157,7 @@ updated: 2026-07-09
 > - **1979 — 实验室科学网络起点** Latour & Woolgar 发表《实验室生活》，首次通过科学技术学（[[Science and Technology Studies|STS]]）[[Ethnography|民族志]]解构科学事实的物质网络建构过程。
 > - **1986 — [[Transfer Translation Transformation|转译]]四阶段模式建立** Callon 提出转译四阶段分析模式，使 ANT 具备系统化[[Analytic Framework|分析框架]]。(Callon, 1986, 引自 [[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015, p. 8]])
 > - **1990s — 教育研究物质建构应用** McGregor (2004)、Fenwick (1998) 和 Nespor (1994) 等学者将 ANT 引入课堂物质环境、时空组织及教师日常权力的微观建构分析。(引自 [[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015, p. 9]])
-> - **2000s–2010s — 比较教育政策流转分析** Resnik 整合 ANT 构建教育改革多尺度视野；Beech & Artopoulos 使用 ANT 分析阿根廷数字教育项目，提出超越领土国家的“关系空间”政策流通论。(引自 [[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015, pp. 8–11]])
+> - **2000s–2010s — 比较教育政策流转分析** Resnik 整合 ANT 构建教育改革多尺度视野；Beech & Artopoulos 使用 ANT 分析阿根廷数字教育项目，提出超越领土国家的“[[Relational Space|关系空间]]”政策流通论。(引自 [[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015, pp. 8–11]])
 > - **2020s 至今 — 全球多行动者网络与[[Governing at a Distance|远处治理]]** [[PISA]] 影响的超国家—国家—内部行动者网络三层政策转译机制模型确立；Klerides 追溯[[Rationalism in International Relations|理性主义]]比较教育中引入 ANT 以分析全球治理流动话语与基准测评远处治理的黑箱。(引自 [[Argument_Li_2025_HSSC|Li et al., 2025, p. 6]] 与 [[Argument_Klerides_2023_CE|Klerides, 2023, p. 425]])
 
 ---
@@ -179,6 +179,6 @@ updated: 2026-07-09
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]] — 使用 ANT 框架分析阿根廷 [[Conectar Igualdad|PCI]] 数字教育项目的微观课堂[[Assemblage|组装]]，揭示了跨国企业商业权力绕过国家政策控制直接作用于教学空间的轨迹，为政策流通的关系空间转向提供论据。
+> - [[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]] — 使用 ANT 框架分析阿根廷 [[Conectar Igualdad|PCI]] 数字教育项目的微观课堂[[Assemblage|组装]]，揭示了跨国企业商业权力绕过国家政策控制直接作用于教学空间的轨迹，为政策流通的[[Relational Space|关系空间]]转向提供论据。
 > - [[Argument_Li_2025_HSSC|Li et al., 2025]] — 将 ANT 置于内部行动者网络机制层面，解释国家内部多元[[Policy Network|政策网络]]如何以多行动者博弈和[[Transfer Translation Transformation|转译]]传递全球 [[PISA]] 信息。
 > - [[Argument_Klerides_2023_CE|Klerides, 2023]] — 追溯[[Rationalism in International Relations|理性主义]]比较教育传统中引入 ANT，以分析全球教育治理中流动话语、政策图景与数据[[Governing at a Distance|远处治理]]的作用。

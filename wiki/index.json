@@ -1091,6 +1091,7 @@
     "path": "wiki/concepts/comparative-education/Relational Space.md",
     "aliases": [
       "关系性空间",
+      "关系空间",
       "relational notions of space"
     ]
   },
@@ -9506,7 +9507,8 @@
     "type": "concept",
     "path": "wiki/concepts/university-industry-collaboration/Knowledge Production.md",
     "aliases": [
-      "知识生产"
+      "知识生产",
+      "知识建构"
     ]
   },
   {

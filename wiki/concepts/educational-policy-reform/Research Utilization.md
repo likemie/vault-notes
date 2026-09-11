@@ -8,7 +8,7 @@ aliases:
   - knowledge utilization
   - 证据使用
   - Use of Research Evidence
-summary: "研究知识进入政策与实践过程的多种路径与机制，涵盖研发、问题解决、互动、启蒙与战术模型；在微观上作为知觉控制驱动的专业教学整合行为，在中观上受跨层治理机制制约，在宏观上面临政治议程与合法性筛选。"
+summary: "研究知识进入政策与实践过程的多种路径与机制，涵盖研发、问题解决、互动、启蒙与战术模型；经历三代知识到行动（KTA）演进；在宏观政策全生命周期中面临严苛的政治与可行性阶段过滤，在中观上受跨层治理机制制约，在微观上作为知觉控制驱动的专业教学整合行为。"
 type: concept
 domain: "educational-policy-reform"
 related_count: 46
@@ -73,10 +73,11 @@ related_arguments:
   - "[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO]]"
   - "[[Argument_Mausethagen_2025_ERR]]"
   - "[[Argument_Nelson_2017_ER]]"
+  - "[[Argument_Steiner-Khamsi_2024_CE]]"
 confidence: high
 status: draft
 created: 2026-06-17
-updated: 2026-08-30
+updated: 2026-09-11
 ---
 
 # Research Utilization
@@ -122,6 +123,8 @@ updated: 2026-08-30
 > [!feature] 核心要素
 > - **四种经典过程模型（Weiss, 1991b）** 研发模型（线性流水线转化）、[[Problem Solving|问题解决]]模型（按需调用工具箱）、互动模型（研究者与决策者多边[[Dialogue in Education|对话]]）与战术模型（政治推诿与辩护）。
 > - **三种基本使用形态（Weiss, 1979）** [[Conceptual, Instrumental, and Symbolic Use of Research|概念性使用]]（启发思维与更新观念）、[[Conceptual, Instrumental, and Symbolic Use of Research|工具性使用]]（直接指导具体决策）与象征性使用（为既定立场背书）。
+> - **三代知识到行动演进模型（Best & Holmes, 2010）** 第一代关注线性单向的“知识推送”（Push model）；第二代强调生产者与使用者的关系型“协同生产”（Co-production）；第三代迈向“系统与程序路径”（Systems and procedural approach），拆解政策各阶段的证据利用能力与支持生态。
+> - **两阶段政策周期的证据过滤机制（[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024]]）** 证据利用在宏观政策周期中呈现高度的阶段断层与政治漏斗效应：专家咨询委员会在议程设置阶段广泛汇聚海量研究证据，但行政决策首脑机关在起草法定政令时实施严苛的政治与可行性过滤，仅选择性吸纳极少数符合自身施政意志并能提供外部合法化背书的特定证据。
 > - **四类跨层治理机制（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al., 2026]]）** 信任（Trust）、技能发展（Skills Development）、可持续结构（Sustainable Structures）与关系（Relationships）贯穿个体、组织与系统层级共同治理学校证据使用。
 > - **七维教师教学使用场景** 在微观教学中具体[[Operationalization|操作化]]为：① 规划日常专业活动；② 备课设计课程内容；③ 更新教学法知识；④ 解决课堂具体教学问题；⑤ 开展教学实践自我反思；⑥ 参与专业教研交流；⑦ 向同行推荐学术成果。
 > - **双轨行为赋能路径** 追踪教育学术期刊（[[Document|文献]]输入）是直接驱动研究使用行为的最强效引擎（$\eta^2 = .046$），而亲身开展科研（探究输出）则作为技能控制基础间接支撑使用。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|(Kazancı Tınmaz & Sezgin, 2023, p. 6, p. 13)]]
@@ -130,7 +133,8 @@ updated: 2026-08-30
 > ```mermaid
 > flowchart TD
 >     subgraph Macro["宏观政策层（Macro Policy）"]
->       P1["政治议程与施政目标"] <--> P2["政策研究利用（研发/问题解决/战术背书）"]
+>       P0["专家委员会咨询报告<br>(海量研究与跨国证据储备)"] -->|政治与可行性严苛过滤| P1["政府教育部法定政令<br>(极少被吸纳, 高度倾斜权威中介)"]
+>       P1 <--> P2["政策研究利用（研发/问题解决/战术背书/合法化借用）"]
 >     end
 > 
 >     subgraph Meso["中观组织层（Meso School System）"]
@@ -161,6 +165,9 @@ updated: 2026-08-30
 
 > [!claim] Thomas (1991); Cook (1991); James (1993)
 > **政治生存与选择性背书** 政策制定者的首要考量是政治生存与施政纲领的推行；一项研究成果能否被政策采纳，关键取决于其结论是否与执政者的政治议程相符合。当研究支持既定政策时，会被用作科学背书；当研究与政治利益相冲突时，往往被决策者选择性忽视、束之高阁甚至斥为脱离实际。
+
+> [!claim] [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]]
+> **政策全生命周期的两阶段证据断层与选择性吸纳** 实证研究表明，政策过程不同阶段的证据使用存在极大的程序性断层：政府任命的独立专家咨询委员会在问题界定阶段广泛动员跨国与本土研究证据，但教育部行政首脑机关在出台法定政令时，往往跳过专家报告中的海量文献，仅高度选择性地引用极少数契合既定改革导向、且能提供“准外部合法化权威”的国际组织证据。证据利用绝非贯穿政策周期的理性积累，而是呈现从海量专家备选到高度政治过滤的剧烈漏斗效应。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 546–547)]]
 
 ---
 
@@ -212,7 +219,7 @@ updated: 2026-08-30
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **政治约束与议程筛选** | 研究利用受政治可行性与权力议程的直接决定 | 宏观教育政策制定、立法与重大改革 | Thomas (1991); Cook (1991); James (1993) |
+> | **政治约束与阶段过滤** | 研究利用受政治可行性与权力议程决定，在政策各阶段呈现剧烈政治过滤 | 宏观教育政策制定、立法与重大改革 | Thomas (1991); Cook (1991); [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] |
 > | **知识渗透与传播悖论** | 异质知识类型的间接渗透与传播生态平衡 | 知识转化、智库传播、政策咨询 | Caplan (1991); Knott & Wildavsky (1991) |
 > | **跨层生态治理** | 信任、技能、结构与关系四机制共同治理学校研究使用 | 学校改进、学区改革、教研制度建设 | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] |
 > | **专业敏感与知识整合** | 教师立足育人伦理对多源知识进行主动整合与裁决 | 课堂教学决策、教师专业发展、校本教研 | [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]]; Eriksen (2022) |
@@ -225,7 +232,8 @@ updated: 2026-08-30
 > [!dev-timeline] 概念演变
 > - **1970s–1990s — 宏观政策[[Research Utilization Models|研究利用模型]]与三分类确立** Weiss（1979, 1991b）与 Caplan（1979, 1991）等提出研发、[[Problem Solving|问题解决]]、互动与战术模型，Pelz (1978) 与 Beyer & Trice (1982) 奠定工具性、概念性与[[Conceptual, Instrumental, and Symbolic Use of Research|象征性使用]]三元分类。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 132)]]
 > - **2000s–2010s — [[Evidence-Based Education|循证教育]]运动与实证调查浪潮** 伴随循证教育兴起，大量实证研究聚焦教师与校长对研究的接触、态度与技能障碍（Williams & Coles, 2007; Dagenais et al., 2012）。
-> - **2020s — 跨层治理机制与心理行为模型融合** Hagevold 等人（2026）提炼出跨越个体、组织与系统的四类治理机制；Kazancı Tınmaz & Sezgin (2023) 将[[Theory of Planned Behavior|计划行为理论]]（TPB）融入研究利用量化测评，开发出包含研究使用子维度的 20 题 [[Research Literacy Scale for Teachers|RLS]] 工具。
+> - **2010s — 知识到行动三代模型演进** Best & Holmes (2010) 系统梳理知识到行动（KTA）的三代模型演进（线性推送 $\rightarrow$ 关系型协同生产 $\rightarrow$ 系统程序性生态），为理解复杂政策环境下的证据利用提供了全景透镜。
+> - **2020s — 跨层治理机制、行为模型融合与程序性过滤** Hagevold 等人（2026）提炼出跨越个体、组织与系统的四类治理机制；Kazancı Tınmaz & Sezgin (2023) 将[[Theory of Planned Behavior|计划行为理论]]（TPB）融入研究利用量化测评，开发出包含研究使用子维度的 20 题 [[Research Literacy Scale for Teachers|RLS]] 工具；[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] 开启程序性证据利用（Procedural research use）研究，实证揭示北欧五国政策制定中专家咨询与行政决策两阶段的剧烈证据过滤机制。
 > - **2025 — 迈向第四代专业敏感型概念化** [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]] 批判 30 年[[Document|文献]]的赤字话语，正式确立以教师多源知识整合与专业规范为支柱的第四代研究使用理论。
 
 ---
@@ -273,6 +281,7 @@ updated: 2026-08-30
 > | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] | 109 项学校研究使用实证研究，来自 28 个国家，57% 出自英语国家（英国 27、美国 15、加拿大 13、澳大利亚 5） | [[Systematic Review\|系统综述]]＋框架综合 | 研究使用被报告的层级分布 | 个体层面 $k = 91$（83% 研究），组织层面 $k = 56$，系统层面 $k = 46$，核心构件 $k = 94$ | — | 聚合分析显示研究使用研究呈个体偏向，组织与系统层面因素被较少报告 |
 > | 同上 | 同上 | 同上 | 纳入研究设计分布 | 35% 定量（38 项，多采用调查）、45% 质性（48 项，多采用访谈）、20% [[Mixed Methods Research\|混合方法]]（23 项）；约 80% 为横断面研究 | — | 证据形态以横断面调查与访谈为主，纵向追踪数据稀缺 |
 > | [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] | 34 项同行评议英文学术[[Document\|文献]]（跨度 1996–2024 年，涵盖英国 9、美国 4、加拿大 3 及其他 8 国） | [[Critical Review\|批判性综述]]＋PRISMA 流程 | 30 年文献[[Problem Finding\|问题界定]]与结论特征 | 100% 纳入实证文献均报告教师实际研究使用有限；且问题界定普遍采用[[Deficit Framing\|赤字框架]] | — | 揭示文献在方法多样性下同质化重复“使用不足”结论，陷入推论循环 |
+> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] | 挪威教育改革政策制定（5 个政府专家委员会报告 vs 教育部法定法令，北欧五国政策系统） | 跨文本两阶段引用追踪与文献计量对比（绿色咨询报告与白皮书政令对比） | 专家委员会与教育部政令的证据继承率及来源分布 | 5 个专家委员会共引用 464 篇文献，教育部政令仅引用 22 篇（转化率仅 4.7%）；其中 20 篇（90.9%）仅源于审议 OECD DeSeCo 项目的单一委员会，OECD 引用频次碾压其他一切机构及知名学者 | $p$ 未报告（全样本追踪） | 证实宏观政策层面的证据利用存在严重的阶段性政治过滤断层，行政首脑机关仅高度倾向于吸纳能够赋权其施政意志的特定超国家中介证据 |
 
 ---
 
@@ -283,6 +292,7 @@ updated: 2026-08-30
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] — 综合 109 项学校研究使用实证研究，识别出[[Document|文献]]的个体偏向，并提出信任、技能发展、可持续结构与关系四类跨层治理机制。
 > - [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]] — 批判性解构 34 篇文献，揭示 30 年来[[Deficit Framing|赤字框架]]对研究使用文献的统治，正式确立以教师多源知识整合与专业规范为支柱的第四代专业敏感型理论。
 > - [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] — 系统梳理[[Evidence-Informed Practice|证据知情实践]]（EIP）思想史，将 Weiss (1979) 的研究利用谱系确立为知证教育理论的基石。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 探讨全球治理 2.0 时代的政策中介与证据利用，实证揭示北欧教育政策制定在专家咨询与行政政令阶段之间的证据过滤与选择性吸纳机制。
 
 ---
 
