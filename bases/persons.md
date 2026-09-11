@@ -14,7 +14,7 @@ properties:
   file.name:
     displayName: 人物
   lifespan:
-    displayName: 生卒年份
+    displayName: 生卒
   summary:
     displayName: 摘要
   person_region:

@@ -111,7 +111,7 @@ updated: '2026-09-08'
 > - **为何没有单一正确方法？** 分析遵循[[Fitness for Purpose|目的适配性]]，目的决定分析种类；分析融合诠释，且常与数据收集迭代融合
 > - **需要注意什么？** 数据丰富带来选择与偏误风险；[[Double Hermeneutic|双重诠释]]（double hermeneutic）使事实与诠释不可分；需以厚描述、反身性与多来源数据保障效度
 > - **如何分析？** 尽早开始分析、渐进聚焦、生成厚描述；可借助 CAQDAS 编码、检索与理论建构，但软件不替代分析
-> - **证据是什么？** 内容为方法综述，引用 [[Clifford Geertz|Geertz]]、Giddens、Miles & Huberman、LeCompte & Preissle、Kelle、Gibbs、Flick 等
+> - **证据是什么？** 内容为方法综述，引用 Geertz、Giddens、Miles & Huberman、LeCompte & Preissle、Kelle、Gibbs、Flick 等
 
 > [!logic-map] 论证链
 > ```mermaid
@@ -227,7 +227,7 @@ updated: '2026-09-08'
 > 依据 Parlett & Hamilton（1976），渐进聚焦始于研究者以广角镜头收集数据，再通过筛选、归类、审视与反思，情境的显著特征浮现出来，被用作后续聚焦的议程，如同从宽到窄的漏斗。Miles & Huberman（1984）认为仔细的[[Data Display|数据展示]]是[[Data Reduction|数据缩减]]与选择的重要成分。（28.2）
 
 > [!claim] 厚描述增加而非减少数据
-> Gibbs（2007, p. 4）论证，质性数据分析非但未减少数据，反而增加其体积、密度与复杂性，因为它创造出更多文本，包括笔记、反思、备忘录、摘要、反身性洞见与进一步笔记，正是为了生成厚描述，不仅记述情境中的事件，还记述参与者的意图、策略与能动性。克利福德·格尔茨（Clifford Geertz）（1973）认为厚描述包含对情境与现象被赋予的意义的反思。（28.2）
+> Gibbs（2007, p. 4）论证，质性数据分析非但未减少数据，反而增加其体积、密度与复杂性，因为它创造出更多文本，包括笔记、反思、备忘录、摘要、反身性洞见与进一步笔记，正是为了生成厚描述，不仅记述情境中的事件，还记述参与者的意图、策略与能动性。[[Clifford Geertz|克利福德·格尔茨]]（Clifford Geertz）（1973）认为厚描述包含对情境与现象被赋予的意义的反思。（28.2）
 
 > [!quote] Geertz：铭写社会话语
 > 民族志学者铭写社会话语，他把它写下来。这样一来，他就把一件只存在于其发生瞬间的转瞬事件，转化为一种存在于其铭写之中、可以被再次查阅的记述。（Geertz, 1973, p. 19）做民族志，就像尝试阅读一部手稿，陌生、褪色、充满省略、不连贯、可疑的订正与倾向性的评论，写在转瞬即逝的行为范例中。（Geertz, 1973, p. 10）（28.2）
@@ -249,7 +249,7 @@ updated: '2026-09-08'
 > - **链节二：数据包裹在社会事件之中**
 >   由于所获数据都包裹在社会事件之中，报告涉及双重诠释过程（[[Anthony Giddens|安东尼·吉登斯]]（Anthony Giddens）, 1976）。研究者诠释参与者已经诠释过的世界，再以自己的语言转述给受众。
 > - **链节三：事实与诠释不可分离**
->   事实与诠释不可分离，纳入哪些事件与数据部分处于研究者控制之下。参与者（包括研究者）依诠释而行动，诠释本身可能成为情境中的事实，一个诠释可以构成事实或数据（[[Clifford Geertz|Geertz]], 1973, p. 14）。
+>   事实与诠释不可分离，纳入哪些事件与数据部分处于研究者控制之下。参与者（包括研究者）依诠释而行动，诠释本身可能成为情境中的事实，一个诠释可以构成事实或数据（Geertz, 1973, p. 14）。
 > - **链节四：主观选择带来效度风险**
 >   由于数据与诠释不可避免结合，研究者主观观点可能导致过度选择、不具代表性、对情境不公正；而除受访者验证外，可诉诸的[[External Validity|外部效度]]检验点往往有限。
 > - **链节五：厚描述与反身性提供约束**
@@ -367,7 +367,7 @@ updated: '2026-09-08'
 
 ## 关键引用
 
-> [!citation-card]- [[Clifford Geertz|Geertz]] 论[[Ethnography|民族志]]学者的铭写
+> [!citation-card]- Geertz 论[[Ethnography|民族志]]学者的铭写
 > 民族志学者铭写社会话语，他把它写下来。这样一来，他就把一件只存在于其发生瞬间的转瞬事件，转化为一种存在于其铭写之中、可以被再次查阅的记述。（28.2）
 >
 > *The ethnographer "inscribes" social discourse; he writes it down. In so doing, he turns it from a passing event, which exists only in its own moment of occurrence, into an [[Accounts|account]], which exists in its inscriptions and can be reconsulted. (Geertz, 1973, p. 19)*
