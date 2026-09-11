@@ -10,7 +10,7 @@ summary: "通过随机分配和变量控制建立因果关系的实验设计，�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 98
+method_related_count: 99
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -122,10 +122,11 @@ related_arguments:
   - "[[Argument_Zhao_2017_JEC]]"
   - "[[Argument_Pampaka_2016_IJRME]]"
   - "[[Argument_Peterson_2016_IJRME]]"
+  - "[[Argument_Steiner-Khamsi_2024_CE]]"
 confidence: high
 status: active
 created: 2026-06-14
-updated: 2026-09-10
+updated: 2026-09-11
 ---
 
 # Randomised Controlled Trials
@@ -133,7 +134,7 @@ updated: 2026-09-10
 ## 定义
 
 > [!def] 方法定义
-> 随机对照试验（RCT）是一种实验设计方法，通过将参与者[[Random Assignment|随机分配]]到干预组和对照组，隔离和控制自[[Variable|变量]]，操纵一个[[Independent Variable|自变量]]观察其是否对结果产生差异，同时保持其他变量不变。如果操纵该自变量导致结果变化，则该变化可归因于该自变量——它成为原因（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 78, 81]]）。在[[Evidence-Based Education|证据本位教育]]中，RCT 被倡导为教育研究的黄金标准。该方法是从药物试验和医学其他领域直接借鉴至教育领域的（[[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp. 110, 114]]）。
+> 随机对照试验（Randomised Controlled Trials，RCT）是一种实验设计方法，通过将参与者[[Random Assignment|随机分配]]到干预组和对照组，隔离和控制自[[Variable|变量]]，操纵一个[[Independent Variable|自变量]]观察其是否对结果产生差异，同时保持其他变量不变。如果操纵该自变量导致结果变化，则该变化可归因于该自变量——它成为原因（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 78, 81]]）。在[[Evidence-Based Education|证据本位教育]]中，RCT 被倡导为教育研究的黄金标准。该方法是从药物试验和医学其他领域直接借鉴至教育领域的（[[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp. 110, 114]]）。
 
 > [!method-scope] 方法范围
 > - **研究对象** 可被离散定义的教育干预及其效果，通常涉及学生成就、行为或态度等可测量结果。
@@ -150,13 +151,15 @@ updated: 2026-09-10
 >    - 1983 — 教育心理学期刊中近一半经验文章使用随机分配实验（[[Argument_Brady_2023_EPR|Brady et al., 2023, pp.6-7]]）
 >    - 1985–1989 — [[Tennessee STAR Project 1985-1989]] 实施，被 Mosteller 称为"有史以来最重要的教育调查之一"
 >    - 2000 — 教育心理学期刊中[[Intervention Research|干预研究]]比例约 40%，其中随机实验仍占显著份额
->    - 2002 — 美国教育部成立[[What Works Clearinghouse]]，将 RCT 确立为教育证据金字塔的顶端
+>    - 2002 — 美国教育部成立有效教育清算所（What Works Clearinghouse，WWC），将 RCT 确立为教育证据金字塔的顶端
 > 3. **扩张与反思期（2010–2023）**
 >    - 2010 — 干预研究比例降至 25%，随机实验占比降至 23%
->    - 2011 — [[Education Endowment Foundation|EEF]] 成立，此后资助了 100 项涉及 50 万以上学生的 RCT（[[Argument_Higgins_2016_RE|Higgins, 2016, p.49]]）
-> - 2020 — 干预研究比例维持在 25%，随机实验进一步降至 20%，只有五分之一经验文章使用随机分配
+>    - 2011 — 英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation，EEF）成立，此后资助了 100 项涉及 50 万以上学生的 RCT（[[Argument_Higgins_2016_RE|Higgins, 2016, p.49]]）
+>    - 2020 — 干预研究比例维持在 25%，随机实验进一步降至 20%，只有五分之一经验文章使用随机分配
 >    - 2023 — [[Argument_Kraft_2023_ER|Kraft (2023)]] 在 3,426 个教育干预 RCT 效应量的扩展样本中发现：若结果限定为标准化学业[[Achievement and Aptitude Tests|成就测验]]，36% 的效应量小于 0.05，整体中位数约为 0.10
-   - 2024 — [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] 全景检验 12 所[[Educational Evidence Clearinghouses|教育证据清算中心]] 1,359 个项目，揭示 11 所中心均将 RCT 确立为证据金字塔顶端；但基于 RCT 支持的多中心评级一致率仅 30.5%，极端冲突率达 35.4%，证明微观 RCT [[Internal Validity|内部效度]]达标不能等同于宏观政策综合收敛
+>    - 2024 — [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] 全景检验 12 所[[Educational Evidence Clearinghouses|教育证据清算中心]] 1,359 个项目，揭示 11 所中心均将 RCT 确立为证据金字塔顶端；但基于 RCT 支持的多中心评级一致率仅 30.5%，极端冲突率达 35.4%，证明微观 RCT [[Internal Validity|内部效度]]达标不能等同于宏观政策综合收敛
+> 4. **跨国发展治理与全球政策中介中的黄金标准建制（2010s–至今）**
+>    - 2024 — [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024, pp. 544–545, 548)]] 比较了全球教育治理核心机构的政策中介（Policy Brokerage）风格：与[[OECD|经合组织]]（OECD）依托跨国学生评估（PISA）与外向型国别横向借鉴截然不同，世界银行（World Bank）依托发展影响评估（Development Impact Evaluation，DIME）等机制，将其“最佳政策与改革组合库”完全建立在随机对照试验（RCT）之上；世界银行联合美英援助机构（如 USAID、FCDO 等 BE2 证据联盟），将微观 RCT 打造为推行循证放贷门槛的核心技术工具，展示了因果识别技术如何被制度化为全球治理的自指性政策帝国。
 
 > [!citation-card] 实验技术与变量控制的因果效力
 > 实验技术，尤其是随机对照试验（RCT），在建立[[Causality|因果性]]方面具有强大效力。通过识别、隔离和控制自变量，操纵一个自变量看其是否对结果产生差异，同时保持其他变量不变。如果操纵该自变量导致结果变化，则变化可归因于该自变量——它成为原因。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, Ch. 4, pp. 78, 81]]
@@ -330,7 +333,7 @@ updated: 2026-09-10
 > 尽管提出批评，Berk 也提供了独特的实用主义辩护：随机分配的最强理由也许是它比其它设计更能防止研究者犯严重的[[Type I and Type II Errors|统计错误]]。他将此立场概括为"铜标准"（bronze standard, Berk 2005）。核心原则："任何评估的基准是当前知识，而非完美。内部效度低于随机实验的设计有时也可以提供证据"（[[Argument_Berk_2011_ER|Berk, 2011, pp.195–196]]）。
 
 > [!critique] [[Argument_Zhao_2017_JEC|Zhao (2017)]]：副作用盲点
-> 教育从医学借鉴了 RCT 这一方法论工具，但**系统性忽略了副作用的系统性研究与报告**。FDA 要求[[Clinical Trial|临床试验]]必须同时报告有效性和不良事件，并建立上市后监测制度。相比之下，教育 RCT 仅报告干预对预设结果的 [[Effect Size|效应量]]，不系统收集或报告非预期影响。Zhao 建议在教育 RCT 中建立类似 FDA 的不良事件报告和上市后监测机制。详见 [[Side Effects]]。
+> 教育从医学借鉴了 RCT 这一方法论工具，但**系统性忽略了副作用的系统性研究与报告**。美国食品药品监督管理局（Food and Drug Administration，FDA）要求[[Clinical Trial|临床试验]]必须同时报告有效性和不良事件，并建立上市后监测制度。相比之下，教育 RCT 仅报告干预对预设结果的 [[Effect Size|效应量]]，不系统收集或报告非预期影响。Zhao 建议在教育 RCT 中建立类似 FDA 的不良事件报告和上市后监测机制。详见 [[Side Effects]]。
 
 > [!quote] [[Argument_Wiliam_2019_ERE|Wiliam (2019)]]：教育研究只告诉我们曾经是什么
 > 教育 RCT 只能告诉我们"在已被测试的条件下已测试过的干预的效果"，而系统的未测试可能性（如班级缩减 + 教师在职培训的组合）可能产生完全不同的结果。
@@ -356,10 +359,15 @@ updated: 2026-09-10
 >
 > 核心根源在于：跨机构分歧并非源于单项因果识别偏好（各中心均推崇 RCT），而是根源于**跨研究证据综合标准（是否要求[[Evaluator Independence|独立评估者]]外部复制、跨地点复制、6–12 个月[[Fade-out Effect|持续效果]]）**以及纳入[[Document|文献]]集的悬殊差异。单项 RCT 内部效度达标只是[[Causality|因果推断]]的[[Necessary and Sufficient Conditions|必要条件]]，绝非宏观政策认证的充分条件。
 
+> [!critique] [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]]：跨国政策中介中 RCT 的政治经济学与认识论屏蔽
+> 在全球教育治理视野中，世界银行（World Bank）等跨国金融机构将 RCT 确立为自身政策中介（Policy Brokerage）的专属证据利基与“最佳政策与改革组合库”的科学基石，以此作为向全球南方借贷国推行结构调整与循证贷款的硬性规制工具。
+>
+> 批判政治经济学指出，微观 RCT 对单一技术变量（如学生驱虫药片、教师考勤指纹机、小额绩效奖金、条件性现金转移）的人为隔离，系统性地“[[Screening Off|屏蔽]]”（Screening Off）了宏观财政紧缩、教师编制削减、殖民历史欠账与依附性政治经济结构。技术上的“黄金标准”在实践中沦为推卸系统性治理责任、将公共教育危机降维为微观行为矫正的自指性科学借口。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 545, 548)]]
+
 ### 设计变体与替代方案
 
 > [!designs] [[Cluster Randomized Trials|集群随机试验]]（CRT）与精度改进
-> CRT 已成为教育 RCT 的标准实践，因为干预通常在班级或学校层面实施。Spybrook, Shi & Kelcey (2016) 比较了 NCER 资助的早期 CRT 与近期 CRT，发现精度有所提高的证据（[[Argument_Pampaka_2016_IJRME|Pampaka et al., 2016, p.233]]）。精度通过**最小可检测效应量（MDES）**衡量——指在给定统计功效下可检测的最小效应量。论文同时提供了两级和三级 CRT 的 MDES 计算公式，填补了方法论[[Document|文献]]的空白。
+> CRT 已成为教育 RCT 的标准实践，因为干预通常在班级或学校层面实施。Spybrook, Shi & Kelcey (2016) 比较了美国国家教育研究中心（National Center for Education Research，NCER）资助的早期 CRT 与近期 CRT，发现精度有所提高的证据（[[Argument_Pampaka_2016_IJRME|Pampaka et al., 2016, p.233]]）。精度通过最小可检测效应量（Minimum Detectable Effect Size，MDES）衡量——指在给定统计功效下可检测的最小效应量。论文同时提供了两级和三级 CRT 的 MDES 计算公式，填补了方法论[[Document|文献]]的空白。
 
 > [!designs] 部分嵌套 RCT 与[[Intent-to-Treat Analysis|意向治疗分析]]（ITT）
 > Schweig & Pane (2016) 关注部分嵌套 RCT——一个实验臂为集群、另一实验臂为非集群的设计。核心问题是**非合规（non-compliance）** 当存在非合规时，传统多水平模型不再估计处理效应，而是提供 ITT 估计——反映干预可获得性而非实际接受的效果。这对政策有重要意义，因为政策制定者通常只控制干预的可获得性而非其接受（[[Argument_Pampaka_2016_IJRME|Pampaka et al., 2016, p.233]]）。
@@ -414,3 +422,4 @@ updated: 2026-09-10
 > - [[Tennessee STAR Project 1985-1989]] — 田纳西星级[[Class Size|班级规模]]实验，[[Argument_Wiliam_2019_ERE|Wiliam (2019)]] 揭示了其家长施压转组与数据差异缺失对随机分配的破坏。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, p. 28)]] — 阐明[[Complexity Theory|复杂性理论]]对受控实验与 RCT 黄金标准的四大[[Epistemology|认识论]]解构、Kuhn 复杂性五大公理以及[[Unit of Analysis|分析单位]]向关系网络与生态系统的转向。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al. (2011, Ch. 4, p. 78)]] — 系统构建教育实验[[Causality|因果推断]]全景，详述概率因果、[[Counterfactual|反事实]]、[[Screening Off|筛选隔离]]与真实课堂复杂性对 RCT 的挑战（第 4 章、第 16 章）。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 阐明世界银行（World Bank）如何将其专属政策中介（Policy Brokerage）工具库（最佳实践组合）建立在随机对照试验（RCTs）的证据基石之上，并剖析微观实验技术在跨国循证放贷与结构调整治理中发挥的自指性合法化功能。

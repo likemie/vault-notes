@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Human Capital Theory",
-      "path": "wiki/theories/political-economy-geopolitics/Human Capital Theory.md"
+      "basename": "John Hattie",
+      "path": "wiki/persons/new-zealand/John Hattie.md"
     },
     {
       "basename": "Argument_Steiner-Khamsi_2024_CE",
       "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Steiner-Khamsi_2024_CE.md"
+    },
+    {
+      "basename": "UN Sustainable Development Goals",
+      "path": "wiki/facts/global/UN Sustainable Development Goals.md"
+    },
+    {
+      "basename": "Human Capital Theory",
+      "path": "wiki/theories/political-economy-geopolitics/Human Capital Theory.md"
     },
     {
       "basename": "Centre for Educational Research and Innovation",
@@ -27,10 +35,6 @@
     {
       "basename": "Education at a Glance",
       "path": "wiki/facts/global/Education at a Glance.md"
-    },
-    {
-      "basename": "John Hattie",
-      "path": "wiki/persons/new-zealand/John Hattie.md"
     },
     {
       "basename": "Randomised Controlled Trials",
@@ -195,10 +199,6 @@
     {
       "basename": "PISA",
       "path": "wiki/facts/global/PISA.md"
-    },
-    {
-      "basename": "Grey_2018_CE",
-      "path": "sources/Grey_2018_CE/Grey_2018_CE.md"
     }
   ],
   "omittedPaths": [],
