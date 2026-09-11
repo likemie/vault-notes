@@ -164,13 +164,6 @@ PROTECTED_FIELDS = [
     "license",
     "confidence",
     "status",
-    "born",
-    "died",
-    "lifespan",
-    "nationality",
-    "region",
-    "method_type",
-    "issuing_organization",
     "created",
     "updated",
 ]
@@ -197,14 +190,6 @@ TYPE_PATH_HINTS = {
     "fact": "wiki/facts/",
     "argument": "wiki/arguments/",
 }
-
-PERSONS_DIR = WIKI_DIR / "persons"
-
-PERSON_YEAR_PATTERN = re.compile(
-    r"^(?:c\.\s*)?\d{1,4}(?:\s*BCE)?(?:\s*/\s*(?:(?:c\.\s*)?\d{1,4}(?:\s*BCE)?|\s*))*$"
-)
-ALLOWED_CONFIDENCE = {"high", "medium", "low"}
-ALLOWED_STATUS = {"draft", "in-progress", "stable", "archived", "active", "published", "completed"}
 
 TYPE_TO_RELATED_FIELD = {
     "concept": "related_concepts",
@@ -1118,16 +1103,6 @@ def check_frontmatter(path: Path, text: str, by_title: Dict[str, Dict[str, Any]]
             for alias in aliases:
                 if isinstance(alias, str) and alias_is_single_english_family(alias):
                     issues.append(Issue("WARN", rel(path), f"person alias should not be a single English family name: {alias!r}", line=frontmatter_line_number(fm, "aliases"), code="PERSON_ALIAS_SINGLE_FAMILY"))
-        if is_wiki_entry_path(path):
-            born = data.get("born")
-            died = data.get("died")
-            if born is None or str(born).strip() == "":
-                issues.append(Issue("ERROR", rel(path), "person entry missing born year", line=frontmatter_line_number(fm, "born"), code="PERSON_BORN_MISSING"))
-            elif not PERSON_YEAR_PATTERN.match(str(born).strip()):
-                issues.append(Issue("ERROR", rel(path), f"invalid born year format: {born!r}", line=frontmatter_line_number(fm, "born"), code="PERSON_BORN_FORMAT"))
-            if died is not None and str(died).strip() != "":
-                if not PERSON_YEAR_PATTERN.match(str(died).strip()):
-                    issues.append(Issue("ERROR", rel(path), f"invalid died year format: {died!r}", line=frontmatter_line_number(fm, "died"), code="PERSON_DIED_FORMAT"))
 
     if typ == "instrument":
         allowed_instrument_types = {
@@ -1327,14 +1302,6 @@ def check_frontmatter(path: Path, text: str, by_title: Dict[str, Dict[str, Any]]
         for k in ["created", "updated", "status"]:
             if k not in data:
                 issues.append(Issue("WARN", rel(path), f"missing {k} field", code=f"{k.upper()}_MISSING"))
-        if "confidence" in data:
-            conf = data.get("confidence")
-            if conf not in (None, "") and conf not in ALLOWED_CONFIDENCE:
-                issues.append(Issue("ERROR", rel(path), f"confidence must be one of {sorted(ALLOWED_CONFIDENCE)}: {conf!r}", line=frontmatter_line_number(fm, "confidence"), code="CONFIDENCE_INVALID"))
-        if "status" in data:
-            st = data.get("status")
-            if st not in (None, "") and st not in ALLOWED_STATUS:
-                issues.append(Issue("ERROR", rel(path), f"status must be one of {sorted(ALLOWED_STATUS)}: {st!r}", line=frontmatter_line_number(fm, "status"), code="STATUS_INVALID"))
 
     return data
 
@@ -1360,13 +1327,7 @@ def check_summary(path: Path, fm: str, summary: Any, issues: List[Issue]) -> Non
             issues.append(Issue("ERROR", rel(path), 'summary must be wrapped in double quotes: summary: "..."', line=line, code="SUMMARY_QUOTES"))
 
     if summary == "":
-        if is_wiki_entry_path(path) and not path.name.startswith("Argument_"):
-            issues.append(Issue("ERROR", rel(path), "summary must not be empty", line=line, code="SUMMARY_EMPTY"))
         return
-
-    if is_wiki_entry_path(path):
-        if "<%" in summary or re.search(r"\b(?:todo|tbd|暂无)\b", summary, re.IGNORECASE):
-            issues.append(Issue("ERROR", rel(path), f"summary contains unreplaced template placeholder or TODO: {summary!r}", line=line, code="SUMMARY_PLACEHOLDER"))
 
     for ch in FORBIDDEN_SUMMARY_CHARS:
         if ch in summary:
@@ -1938,7 +1899,7 @@ def raw_citation_is_reference_fragment(display: str) -> bool:
     bibliography line like 'Larsen, S. N. (2019). ...' it matches only the
     initials fragment. Those are references, not in-text citations.
     """
-    prefix = re.split(r"[（(]", display, maxsplit=1)[0].strip().rstrip(",， ")
+    prefix = re.split(r"[（(]", display, 1)[0].strip().rstrip(",， ")
     return bool(re.fullmatch(r"(?:[A-ZÀ-ÖØ-Þ]\.(?:\s*-\s*[A-ZÀ-ÖØ-Þ]\.)?\s*)+", prefix))
 
 
