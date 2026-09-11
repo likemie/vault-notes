@@ -122,7 +122,7 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> [[Creativity|创造力]]与[[Critical Thinking|批判性思维]]都被视为学生在 21 世纪立足的关键技能：[[National Education Association|全美教育协会]]（[[National Education]] Association, NEA）将两者列为教育者应帮助学生发展的核心技能，美国心理学会（American Psychological Association, APA）与世界经济论坛亦强调其个体与经济价值；2000–2021 年间批判性思维研究发表稳步增长（Dong et al., 2023），近期综述把两者定位为 21 世纪技能的核心成分（Thornhill-Miller et al., 2023）。然而，两者关系的直接实证证据长期稀缺（Runco, 2003; Runco & Chand, 1994），这种关系上的不明朗既削弱了对它们在教育与学习中[[Interaction Effect|交互作用]]的理解，也阻碍了联合训练与联合评估机会的开发。随着人工智能对人工创造与人工思考能否侵蚀或替代人类心智能力的争论升温（Partnership for 21st Century Skills, 2009; Runco, 2023; Spector & Ma, 2019），厘清这两个[[Construct|构念]]究竟相互关联、相互独立还是彼此对立，成为教育心理学与课程设计都必须回应的核心问题。（pp. 1–2）
+> [[Creativity|创造力]]与[[Critical Thinking|批判性思维]]都被视为学生在 21 世纪立足的关键技能：[[National Education Association|全美教育协会]]（[[National Education]] Association, NEA）将两者列为教育者应帮助学生发展的核心技能，美国心理学会（American Psychological Association, [[APA Style|APA]]）与世界经济论坛亦强调其个体与经济价值；2000–2021 年间批判性思维研究发表稳步增长（Dong et al., 2023），近期综述把两者定位为 21 世纪技能的核心成分（Thornhill-Miller et al., 2023）。然而，两者关系的直接实证证据长期稀缺（Runco, 2003; Runco & Chand, 1994），这种关系上的不明朗既削弱了对它们在教育与学习中[[Interaction Effect|交互作用]]的理解，也阻碍了联合训练与联合评估机会的开发。随着人工智能对人工创造与人工思考能否侵蚀或替代人类心智能力的争论升温（Partnership for 21st Century Skills, 2009; Runco, 2023; Spector & Ma, 2019），厘清这两个[[Construct|构念]]究竟相互关联、相互独立还是彼此对立，成为教育心理学与课程设计都必须回应的核心问题。（pp. 1–2）
 
 > [!claim] 核心主张
 > 在[[Meta-analysis|元分析]]综合的学生样本中，创造力与批判性思维呈显著的中等正相关（$r = 0.386$，95% [[Confidence Interval|置信区间]]（Confidence Interval, CI）$[0.296, 0.470]$），该相关随测量类型显著变化：两者都用自陈（主观）测量时相关最高（$r = 0.509$），两者都用任务表现（客观）测量时次之（$r = 0.317$），混合测量组合相关最低，这既表明两个构念共享部分认知基础，也提示自陈测量中的[[Common Method Variance|共同方法变异]]放大了观察相关。（pp. 2–3, 9）
@@ -318,7 +318,7 @@ issuing_organization: ""
 > 创造力共识定义强调新颖且有用，批判性思维强调以理由为基础的反思判断与自我调节；两者被描述为非预期与非传统对理性、有目的、基于标准的思维风格，这种对立构成理解它们如何共存的概念障碍。（pp. 1–2）
 
 > [!chain-link] 证据到判断
-> - **创造力定义** 自 Guilford 1950 年 APA 主席演讲后，学界共识为特定领域中既新颖又有用的观念或产品（Amabile, 2019; Kaufman & Beghetto, 2009; Stein, 1953; Sternberg & Lubart, 1998）。（p. 2）
+> - **创造力定义** 自 Guilford 1950 年 [[APA Style|APA]] 主席演讲后，学界共识为特定领域中既新颖又有用的观念或产品（Amabile, 2019; Kaufman & Beghetto, 2009; Stein, 1953; Sternberg & Lubart, 1998）。（p. 2）
 > - **批判性思维定义** 从哲学、教育扩展到心理学的科学构念，涵盖态度、知识、技能与倾向及质疑、分析、解释、评价、判断与辨识能力，并以自我调节为本质（Dwyer, 2017; Glaser, 1941）。（p. 2）
 > - **[[Domain Specificity|领域特殊性]]与表面对立** 两个构念均具[[Domain Specificity|领域特殊性]]，心理与护理各有特定界定（Lawson, 1999, 2015; Alfaro-LeFevre, 1999），发散生成对收敛评价的对立构成两者共存的挑战（Ennis, 1987; Sternberg & Halpern, 2020）。（pp. 1–2）
 

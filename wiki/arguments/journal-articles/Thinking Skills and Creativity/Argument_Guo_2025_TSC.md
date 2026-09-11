@@ -176,7 +176,7 @@ issuing_organization: ""
 > | **测量工具多样性** | 涵盖[[Divergent Thinking\|发散思维]]（TTCT、AUT、GAU）、联想重组（RAT、OTT）、真实性设计与作品评价（CEDA、WRT、OSVM）及情绪[[Creativity\|创造力]]量表（ECI）等多模态测量体系。（pp.10–11） |
 
 > [!ref-table]- 纳入实证研究特征与干预方案清单（Table 4）
-> | 纳入研究（APA 格式） | 国别与样本构成 | 测量工具与实验设计 | 干预特征（训练方式 / 周期 / 组织形式） |
+> | 纳入研究（[[APA Style\|APA]] 格式） | 国别与样本构成 | 测量工具与实验设计 | 干预特征（训练方式 / 周期 / 组织形式） |
 > |---|---|---|---|
 > | Baruah & Paulus (2008) | 美国（ = 48 / CG = 48$） | 发散思维产出量；前后测设计（b: 替代训练） | 书面[[Brainstorming\|头脑风暴]]训练；< 1 周；小组协作 |
 > | Campion & Levita (2014) | 英国（$EG = 56 / CG = 56$） | SEES, [[Torrance Tests of Creative Thinking\|TTCT]]；实验组/对照组（b: 替代训练） | 言语训练；< 2 个月；独立练习 |
