@@ -5,10 +5,10 @@ aliases:
 summary: "把民族国家视为现代社会自然单位的方法论立场，容易遮蔽全球联系、跨尺度过程和空间关系的复杂性"
 type: concept
 domain: "comparative-education"
-related_count: 26
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 34
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - region/global
   - theme/geopolitics
@@ -26,19 +26,27 @@ related_concepts:
   - "[[Recontextualization]]"
   - "[[Relational Space]]"
   - "[[Multiplicity]]"
-  - "[[Methodological Transnationalism]]"
+  - "[[Policy Borrowing]]"
+  - "[[Policy Network]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Methodological Transnationalism]]"
+  - "[[Global Education Governing Complex]]"
   - "[[Policy Brokerage]]"
   - "[[Creativity]]"
+  - "[[Variable]]"
+  - "[[Falsification]]"
+  - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Network Analysis]]"
+  - "[[Effect Size]]"
 related_persons:
   - "[[Jason Beech]]"
-  - "[[Alejandro Artopoulos]]"
   - "[[Doreen Massey]]"
-related_facts: []
+  - "[[Alejandro Artopoulos]]"
+related_facts:
+  - "[[OECD]]"
 related_arguments:
   - "[[Argument_Beech_2009_CE]]"
   - "[[Argument_Marginson_2025_ROE]]"
@@ -99,7 +107,7 @@ updated: 2026-09-11
 > - **三主义的叠加效应** 在全球化世界中仅关注国家教育系统不仅是方法论民族主义，还会与[[Methodological Statism|方法论国家中心主义]]（methodological statism，将国家视为唯一行动者）和[[Methodological Educationism|方法论教育主义]]（methodological educationism，将教育等同于学校教育）叠加。[[Argument_Klerides_2023_CE|Klerides, 2023, p. 423]]
 > - **与规范性民族主义共谋** 认为“国家是唯一分析单位”的预设会强化“本国优先”的价值立场，Massey（2005）称之为“对连贯国族性的浪漫幻想”和净化国家空间的徒劳尝试。
 > - **高等教育中的具体表现** 表现为大学排名将“国家表现”作为关键指标；研究将大学的国际合作与流动视为国家政策的附属物。[[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 8–9]]
-> - **比较教育中的具体表现** 主流传统寻找“在一个语境中有效”的制度、思想或实践，试图将其转移到新语境，这一传统隐含着以国家为边界的[[Hypothesis|假设]]。即使文化主义视角强调本地适应 and [[Recontextualization|再脉络化]]，仍然基于地缘政治和领土性的空间定义。[[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]]
+> - **比较教育中的具体表现** 主流传统寻找“在一个语境中有效”的制度、思想或实践，试图将其转移到新语境，这一传统隐含着以国家为边界的[[Hypothesis|假设]]。即使文化主义视角强调本地适应与[[Recontextualization|再脉络化]]，仍然基于地缘政治和领土性的空间定义。[[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]]
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -119,25 +127,41 @@ updated: 2026-09-11
 
 ## 围绕概念形成的命题
 
-### 命题一：空间尺度遮蔽与超越路径
+---
+
+### 命题一　民族国家容器预设在语言与分析框架上系统性遮蔽全球流动空间
 
 > [!concept-lens] 空间偏见与尺度超越
-> 探讨学者如何分析方法论民族主义在语言和理论层面对空间维度的遮蔽，以及如何引入超越国家地理边界的空间概念对其进行重构。
+> 探讨学者如何剖析方法论民族主义在概念术语与认识框架层面对空间维度的遮蔽，以及引入多重空间理论实现[[Epistemology|认识论]]超越。
 
 > [!claim] [[Jason Beech|Beech, J.]]
-> 比较教育常用的“跨国”、“国际”甚至“超国家”术语均在语言层面内嵌了民族国家预设。为彻底摆脱国家作为默认空间参照，应引入 Castells 的[[Space of Flows and Space of Places|流动空间与地方空间]]区隔，将全球教育政策空间（流动空间）与学校实践（地方空间）作为纵向不对称的尺度进行分析。[[Argument_Beech_2009_CE|Beech, 2009, pp. 348–349]]
+> **比较教育概念的内生国家偏见与[[Space of Flows and Space of Places|流动空间]]区隔** 比较教育常用的“跨国”（Transnational）、“国际”（International）甚至“超国家”（Supranational）术语，均在语言与认识底层预设了民族国家作为一切社会活动的前提基准。为摆脱将国家视为默认空间参照的局限，必须引入 Castells 的[[Space of Flows and Space of Places|流动空间与地方空间]][[Analytic Framework|分析框架]]，将全球教育政策空间（流动空间）与学校实践（地方空间）作为纵向不对称的多维尺度进行解构。[[Argument_Beech_2009_CE|Beech, 2009, pp. 348–349]]
 
 > [!claim] Marginson, S.
-> 高等教育具有“双重空间性”（国家空间性与全球空间性共存）。批判方法论民族主义不等于主张国家不重要，而是强调国家不是唯一的[[Analytic Framework|分析框架]]。应引入 Massey 的[[Relational Space|关系性空间]]与[[Multiplicity|多重性]]理论作为[[Ontology|本体论]]基础，以捕捉高等教育在地方、国家和全球多重尺度共存且不可相互化约的特征。[[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 8–9]]
+> **高等教育双重空间性与[[Relational Space|关系性空间]][[Ontology|本体论]]** 高等教育实践同时兼具“国家空间性”与“全球空间性”。批判方法论民族主义绝非宣称“国家消亡”或“国家不重要”，而是打破将国家领土设为唯一[[Analytic Framework|分析框架]]的封闭预设。依托 [[Doreen Massey]] 的[[Relational Space|关系性空间]]与[[Multiplicity|多重性]]本体论，研究者能够准确把握高等教育在地方、国家与全球多重尺度之间共存、交织且不可相互化约的复杂生态。[[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 8–9]]
+
+---
+
+### 命题二　教育转移的静态领土假设遮蔽了关系性空间中的多维流通与再脉络化
+
+> [!concept-lens] 领土静态预设与流通重构
+> 批判传统[[Policy Borrowing|政策借用]]研究将输出国与输入国视为固定物理领土的机械模型，转向关系性流通与情境重塑。
 
 > [!claim] Beech, J. & [[Alejandro Artopoulos|Artopoulos, A.]]
-> 传统比较教育在探讨教育转移时，倾向于将生产地和接收地视为固定的国家领土，形成一种“静态的转移解释”。应将教育转移理解为关系性维度的流通与[[Recontextualization|再脉络化]]。[[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]]
+> **摒弃静态领土转移观走向关系性流通** 主流比较教育在考察教育转移时，往往预设政策是在两个边界清晰的固定国家容器之间“平移”，形成静态的转移解释。实质上，教育思想与政策实践的流动是高度动态、多维且去中心化的关系性流通，其核心机制在于[[Policy Network|政策网络]]内部的[[Transfer Translation Transformation|转译]]与本地行动者的[[Recontextualization|再脉络化]]。[[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]]
+
+---
+
+### 命题三　三主义叠加遮蔽跨国治理网络而方法论跨国主义解构国家容器假设
+
+> [!concept-lens] 治理网络解构与跨国主义替代
+> 揭示国家中心预设与[[Methodological Educationism|教育主义]]、国家主义的共谋，确立超越国家自足容器与单向霸权假定的[[Methodological Transnationalism|方法论跨国主义]]进路。
 
 > [!claim] Dale, R. & Robertson, S.
-> 全球化背景下的教育研究不仅受限于方法论民族主义，还会与[[Methodological Statism|方法论国家中心主义]]和[[Methodological Educationism|方法论教育主义]]叠加，系统性地遮蔽跨国治理网络、非国家行动者 and 学校以外的教育实践。[[Argument_Klerides_2023_CE|Klerides, 2023, p. 423]]
+> **三主义叠加对跨国治理网络的系统性遮蔽** 全球化时代的教育研究不仅受限于方法论民族主义，更与[[Methodological Statism|方法论国家中心主义]]（将国家视为唯一法定治理行动者）和[[Methodological Educationism|方法论教育主义]]（将教育等同于制度化学校教育）相互纠缠、层叠强化，导致分析视角严重遮蔽跨国治理网络、非国家中介组织以及学校围墙之外的全球教育实践。[[Argument_Klerides_2023_CE|Klerides, 2023, p. 423]]
 
-> [!claim] Steiner-Khamsi et al.
-> **超越方法论民族主义与线性霸权假定** 政策研究极易落入将民族国家预设为自足容器的方法论民族主义陷阱，或将国家与全球关系简化为单向、线性且等级化的霸权传导；应对之道是坚持[[Methodological Transnationalism|方法论跨国主义]]，将全球与国家视作相互依赖的关系性空间，聚焦行动者在转移空间中对跨国中介力量的工具性动员与全球/国家联结。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 540)]]
+> [!claim] [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]]
+> **超越国家自足容器与单向霸权传导假定** 政策实证研究极易落入将国家预设为封闭自足容器的方法论民族主义误区，或走向另一极端——将全球与国家关系简单化为自上而下的线性霸权受体；应对之道是确立[[Methodological Transnationalism|方法论跨国主义]]，将全球治理网络与主权国家视为相互依存、互构借用的关系性空间，聚焦行动者在跨国转移空间中如何能动地动员外部智库与国际组织作为中介工具，重构国家内部的改革合法性。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 539–540)]]
 
 ---
 
@@ -146,11 +170,9 @@ updated: 2026-09-11
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **批判语言偏见与超越路径** | 揭示“跨国/国际/超国家”术语的国家偏见，提出 Castells 流动空间作为替代方案 | 跨国教育政策话语流通与[[Transfer Translation Transformation\|转译]]研究 | [[Argument_Beech_2009_CE\|Beech (2009)]] |
-> | **超越高等教育空间性** | 论证双重空间性共存，基于关系性空间超越单一国家框架 | 高等教育全球化与科学[[Network Analysis\|网络分析]] | [[Argument_Marginson_2025_ROE\|Marginson (2025)]] |
-> | **批判静态转移解释** | 摒弃固定国家领土[[Hypothesis\|假设]]，转向关系性流通与再脉络化 | 教育思想、实践的跨国流动与转移 | [[Argument_Beech_2015_GSE\|Beech & Artopoulos (2015)]] |
-> | **三主义叠加效应** | 揭示方法论民族主义、国家中心主义和教育主义的叠加遮蔽作用 | 全球教育治理与多元行动者分析 | Dale & Robertson (2009); [[Argument_Klerides_2023_CE\|Klerides (2023)]] |
-> | **方法论跨国主义替代方案** | 超越国家容器与线性霸权模型，确立全球/国家相互依存关系性空间 | 跨国政策转移与全球治理中的[[Policy Brokerage\|政策中介]]分析 | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] |
+> | **语言偏见与尺度超越** | 揭示“跨国/国际/超国家”术语的内生偏见，基于流动空间与关系性空间超越单一国家框架 | 比较教育认识论、高等教育全球化与科学[[Network Analysis\|网络分析]] | [[Argument_Beech_2009_CE\|Beech (2009)]]; [[Argument_Marginson_2025_ROE\|Marginson (2025)]] |
+> | **静态转移批判与流通** | 摒弃物理领土固化转移[[Hypothesis\|假设]]，确立政策思想的关系性多维流通与再脉络化 | 教育政策跨国借用、教育思想转移与本土重构 | [[Argument_Beech_2015_GSE\|Beech & Artopoulos (2015)]] |
+> | **治理网络解构与跨国进路** | 破除三主义叠加与单向霸权模型，依托方法论跨国主义透视全球与国家互构 | [[Global Education Governing Complex\|全球教育治理复合体]]、跨国[[Policy Brokerage\|政策中介]]与国内改革合法化动员 | Dale & Robertson (2009); [[Argument_Klerides_2023_CE\|Klerides (2023)]]; [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] |
 
 ---
 
@@ -191,6 +213,18 @@ updated: 2026-09-11
 
 > [!warning] 适用局限
 > - **避开彻底去国家化的乌托邦** 对于如高等教育、大众基础教育等强国家属性的研究，完全放弃国家视角可能导致对地缘政治权力、国家预算投入等关键现实制约的忽视。研究者需根据研究对象的空间属性，客观组合[[Relational Space|关系空间]]与领土空间框架，而非一味排斥国家层级。[[Argument_Marginson_2025_ROE|Marginson, 2025, p. 8]]
+
+---
+
+## 实证数据
+
+> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] | 全球 30 个涉足教育的跨国政府间组织（1945–2020 年跨越 75 年历史演变） | 全球治理机构历史数据库计量统计与职能演进分析 | 跨国教育治理主体的职能属性分布 | 30 个国际组织中，高达 33.3%（10 个，如 [[OECD]]、世界银行、WTO、APEC）为纯粹的经济与贸易类组织，非教育组织深度主导全球教育标准制定与[[Policy Brokerage\|政策中介]] | 历史全样本归纳（$N=30$） | 证实国家教育系统的治理权早已被非教育、超国家经济组织深度渗透，有力[[Falsification\|证伪]]“教育纯属国家主权内部事务”的方法论民族主义容器预设 |
+> | 同上 | 挪威国家教育改革两阶段政策制定过程（5 个政府专家委员会绿色报告 vs 教育部法定白皮书法令） | 政策转移全生命周期[[Document\|文献]]追踪与引用[[Network Analysis\|网络分析]] | 国家政策决策对跨国政策中介的依赖度与阶段过滤 | 5 个专家委员会引用的 464 篇文献中仅 22 篇进入政府最终法令（过滤率 95.3%）；而采纳的 22 篇中 20 篇（90.9%）直接源于审议 OECD DeSeCo 项目的委员会，OECD 成为主导国内改革的最核心知识源 | 全文本追踪分析 | 揭示民族国家政府的教育改革高度依赖超国家中介提供的“准外部权威”来克服国内争议，国家内部决策空间与全球跨国空间深度互嵌 |
 
 ---
 

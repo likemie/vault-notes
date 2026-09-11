@@ -1,12 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Methodological Nationalism",
-      "path": "wiki/concepts/comparative-education/Methodological Nationalism.md"
+      "basename": "Education at a Glance",
+      "path": "wiki/facts/global/Education at a Glance.md"
     },
     {
       "basename": "Argument_Steiner-Khamsi_2024_CE",
       "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Steiner-Khamsi_2024_CE.md"
+    },
+    {
+      "basename": "International Indicators of Education Systems",
+      "path": "wiki/facts/global/International Indicators of Education Systems.md"
+    },
+    {
+      "basename": "Sputnik Shock 1957",
+      "path": "wiki/facts/us/Sputnik Shock 1957.md"
+    },
+    {
+      "basename": "Human Capital Theory",
+      "path": "wiki/theories/political-economy-geopolitics/Human Capital Theory.md"
+    },
+    {
+      "basename": "Scientific Uncertainty",
+      "path": "wiki/concepts/educational-philosophy/Scientific Uncertainty.md"
+    },
+    {
+      "basename": "Transfer Translation Transformation",
+      "path": "wiki/concepts/comparative-education/Transfer Translation Transformation.md"
+    },
+    {
+      "basename": "Historical-Comparative Method",
+      "path": "wiki/methods/qualitative/Historical-Comparative Method.md"
+    },
+    {
+      "basename": "Niklas Luhmann",
+      "path": "wiki/persons/germany/Niklas Luhmann.md"
+    },
+    {
+      "basename": "Methodological Nationalism",
+      "path": "wiki/concepts/comparative-education/Methodological Nationalism.md"
     },
     {
       "basename": "Methodological Transnationalism",
@@ -129,10 +161,6 @@
       "path": "wiki/concepts/political-economy-geopolitics/Mediatised Governance.md"
     },
     {
-      "basename": "Transfer Translation Transformation",
-      "path": "wiki/concepts/comparative-education/Transfer Translation Transformation.md"
-    },
-    {
       "basename": "PISA",
       "path": "wiki/facts/global/PISA.md"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30",
       "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30.md"
-    },
-    {
-      "basename": "page-1",
-      "path": "tmp/font-test-cjk2/page-1.png"
-    },
-    {
-      "basename": "page-1",
-      "path": "tmp/font-test/page-1.png"
-    },
-    {
-      "basename": "Bergeron_2015_TeachingTOK",
-      "path": "sources/Bergeron_2015_TeachingTOK/Bergeron_2015_TeachingTOK.pdf"
-    },
-    {
-      "basename": "Bergeron_2015_TeachingTOK",
-      "path": "sources/Bergeron_2015_TeachingTOK/Bergeron_2015_TeachingTOK.md"
-    },
-    {
-      "basename": "Pragma-Dialectics",
-      "path": "wiki/theories/argumentation-and-logic/Pragma-Dialectics.md"
-    },
-    {
-      "basename": "Argument_Glitz_2020_AER",
-      "path": "wiki/arguments/journal-articles/American Economic Review/Argument_Glitz_2020_AER.md"
-    },
-    {
-      "basename": "Autopoiesis",
-      "path": "wiki/theories/educational-philosophy/Autopoiesis.md"
     }
   ],
   "omittedPaths": [],
