@@ -5,6 +5,10 @@
       "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Grey_2018_CE.md"
     },
     {
+      "basename": "Grey_2018_CE",
+      "path": "sources/Grey_2018_CE/Grey_2018_CE.md"
+    },
+    {
       "basename": "Comparative Educations",
       "path": "wiki/concepts/comparative-education/Comparative Educations.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Anonymity in Research",
       "path": "wiki/concepts/research-methodology/Anonymity in Research.md"
-    },
-    {
-      "basename": "Analytic Generalization",
-      "path": "wiki/concepts/research-methodology/Analytic Generalization.md"
     }
   ],
   "omittedPaths": [],
