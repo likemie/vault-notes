@@ -90,9 +90,7 @@ updated: 2026-09-11
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 经济合作与发展组织（OECD）是由市场经济发达国家组成的跨政府间国际经济组织，后冷战时代演进为全球教育治理领域事实上的核心协调者与国际基准制定者。OECD 通过研发以 [[PISA]] 为代表的跨国标准化大型学生学业与技能测评体系，开创了以量化指标、公开排行与[[Peer Debriefing|同行审议]]为基础的[[Governing at a Distance|远处治理]]（Governing at a Distance）模式，系统地将各成员国教育系统重塑为服务于[[Human Capital Theory|人力资本]]积累与全球经济增长的战略工具。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 422–425)]]
-
-作为二战后西方资本主义阵营构建的重要多边协调中枢，该机构不仅承担宏观经济与贸易政策[[Dialogue in Education|对话]]，更在数十年的组织演进中成为全球教育政策话语的生产垄断者。
+> 经济合作与发展组织（OECD）是由市场经济发达国家组成的跨政府间国际经济组织。作为二战后西方阵营构建的重要多边协调中枢，该机构在后冷战时代演进为[[Global Education Governing Complex|全球教育治理复合体]]事实上的核心协调者与国际基准制定者。OECD 通过研发以 [[PISA]] 为代表的跨国标准化大型学生学业与技能测评体系，开创了以量化指标、公开排行、[[Policy Brokerage|政策中介]]与[[Peer Debriefing|同行审议]]为基础的[[Governing at a Distance|远处治理]]（Governing at a Distance）模式，系统地将各成员国教育体系重塑为服务于[[Human Capital Theory|人力资本]]积累与经济增长的战略工具。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 422–425)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1961年正式改组成立（其前身为 1948 年为管理马歇尔计划而设立的欧洲经济合作组织 OEEC）；深层背景为冷战前沿地缘政治对抗与美国[[Economics of Education Movement|教育经济学运动]]的兴起。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 420)]]
@@ -112,8 +110,8 @@ updated: 2026-09-11
 >   - 1958 [[Comparative Education Center at Chicago 1958|芝加哥大学比较教育中心]]建立，推动教育经济学与比较教育深度融合。
 > - **1961–1970s — OECD 改组与冷战“[[Development Turn in Comparative Education|发展转向]]”** 1961 年 OECD 正式取代 OEEC，美欧国家共同将其打造成抗衡苏联意识形态竞争的制度堡垒。在[[Economics of Education Movement|教育经济学运动]]影响下，OECD 系统确立将教育视为经济增长“生产性投资”的新范式，与[[International Institute for Educational Planning|联合国教科文组织国际教育规划研究所]]（[[International Institute for Educational Planning|IIEP]]）形成双翼，推动了比较教育的[[Development Turn in Comparative Education|发展转向]]。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 420–423)]]
 >   - 1962 启动著名的地中海区域项目（Mediterranean Regional Project, MRP），将[[Human Capital Theory|人力资本理论]]系统转化为南欧各国的国家教育发展规划。
-> - **1980s–1990s — 指标体系建构与管理主义转向** 冷战末期至冷战结束，[[New Public Management|新公共管理]]运动席卷西方，OECD 逐渐从传统的教育投入端和粗放人力核算，转向关注教育系统的产出效能与质量问责，建立起[[International Education|国际教育]]指标网络（[[International Indicators of Education Systems|INES]]），并推出旗舰年度报告《[[Education at a Glance|教育概览]]》（Education at a Glance）。
-> - **2000–至今 — 大数据时代与[[Governing at a Distance|远处治理]]的全球扩散** 2000 年推出首轮[[PISA|国际学生评估项目]]（[[PISA]]），随后扩展至教师教学国际调查（TALIS）与成人技能评估（PIAAC）。OECD 借由跨国量化排名的[[Governing by Numbers|数字治理]]（Governing by Numbers）与同行压力，超越传统主权边界，成为全球教育改革议程的实际统筹者。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 424–425)]]
+> - **1980s–1990s — 指标体系建构与管理主义转向** 1983 年美国《国家处在危险之中》（*A Nation at Risk*）报告发布后引发教育危机恐慌，时任美国教育部助理部长 Chester Finn Jr. 转向 OECD 下设的教育研究与创新中心（CERI），委托并资助 CERI 主任 Jarl Bengtsson 团队研发国际教育指标体系。这一关键转向促成了 1988 年国际教育系统指标网络（[[International Indicators of Education Systems|INES]]）的正式启动，标志着 OECD 彻底从传统的投入端与粗放人力核算转向关注教育系统的产出效能与质量问责，随后于 1992 年推出旗舰年度报告《[[Education at a Glance|教育概览]]》（Education at a Glance），为后来的跨国测试奠定了方法论与组织基础。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 540–542)]]
+> - **2000–至今 — 大数据时代、[[Governing at a Distance|远处治理]]与政策中介深化** 2000 年推出首轮[[PISA|国际学生评估项目]]（[[PISA]]），随后扩展至教师教学国际调查（TALIS）、成人技能评估（PIAAC）及面向全球南方的 PISA-D。经合组织不仅开创了跨国量化排名的[[Governing by Numbers|数字治理]]（Governing by Numbers）模式，更通过深度工具打包，将其跨国测评与外向型国别横向借鉴相结合，演进为全球教育政策知识的重要中介者与规范制定者。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 424–425)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 543–545)]]
 
 ---
 
@@ -146,6 +144,7 @@ updated: 2026-09-11
 > - **指标体系与旗舰出版物** 每年持续出版权威报告《[[Education at a Glance|教育概览]]》（Education at a Glance），维护[[International Education|国际教育]]指标体系（[[International Indicators of Education Systems|INES]]），提供涵盖教育财政投入、入学机会、教师待遇与毕业生劳动力市场回报的跨国宏观数据。
 > - **国别教育政策审查（National Reviews）** 应受测国政府官方邀请，派出高级别国际专家组对特定国家的教育体系展开全景式实地诊断，其评估结论往往直接成为该国立法与拨款机制改革的政策依据。
 > - **前沿技能与课程框架研制** 研制并推广“学习罗盘2030”（Learning Compass 2030）与社会情感能力测评（SSES），持续引导全球基础教育课程改革的价值走向。
+> - **[[Policy Brokerage|政策中介]]工具打包与外向型横向经验借鉴** 以 PISA 基准测验为中枢，打包国别同行评议、教育政策审查与 Education GPS 数据平台；与世界银行依赖内部自指性实践库的风格截然不同，经合组织的中介风格高度依赖“外向型横向经验借鉴”（outward-looking cross-national referencing），系统提炼并推介其他高表现成员国的成功政策经验与改革教训，在知识过剩环境中为受测国精准供给具有确定性表象的政策处方。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 543–545)]]
 
 > [!citation-card] 《经济合作与发展组织公约》第一条（1960年）
 > 经合组织（OECD）的宗旨应为促进旨在实现以下目标的政策：
@@ -175,6 +174,7 @@ updated: 2026-09-11
 > - **学术[[Paradigm|范式]]迁移** 强力助推了“[[Evidence-Based Education|循证教育]]政策”在全球的合法性确立，引导教育决策从传统的政治协商或意识形态偏好转向高度依赖量化测量的[[Positivism|实证主义]]逻辑。
 > - **政策震慑与标杆树立** 借助公开排名触发跨国“PISA 冲击”，迫使德国、日本等传统教育强国展开自上而下的全国性标准改革与课程洗牌，树立以高表现国家为原型的“[[Reference Society|参考社会]]”，引发广泛的[[Policy Borrowing|政策借用]]。
 > - **治理形态创新** 成功探索出无须依托强制性国际公约约束、仅凭借数据披露、公开排队与同行声誉压力调控主权国家政策的[[Governing at a Distance|远处治理]]（Governing at a Distance）与[[Governing by Numbers|数字治理]]典型模式。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 424–425)]]
+> - **主权国家法定行政转化中的中介垄断** 在国家教育改革从议程设置迈向官方行政立法或颁行阶段时，OECD 的政策中介工具与指标表现出极强的排他性垄断力。实证研究显示，在挪威能力课程改革中，尽管前期咨询吸纳了 464 篇多元文献，但教育部最终颁布的官方行政法规中仅保留 22 篇参考文献，其中高达 20 篇被经合组织审查组垄断（涵盖 DeSeCo 能力框架及 OECD 挪威教育政策审查报告），印证了经合组织在主权国家行政决策出台阶段无与伦比的话语权威。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 547–548)]]
 
 > [!stat-cards]- 核心规模数据
 > 38 个正式成员国，逾 80 个 PISA 测评参与经济体，单轮受测学生样本约 60 万人，汇聚 3,000 余名专业雇员及数亿欧元年度综合运作预算。

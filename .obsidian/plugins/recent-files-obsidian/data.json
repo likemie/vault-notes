@@ -1,8 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "Governing by Numbers",
+      "path": "wiki/concepts/political-economy-geopolitics/Governing by Numbers.md"
+    },
+    {
       "basename": "Argument_Steiner-Khamsi_2024_CE",
       "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Steiner-Khamsi_2024_CE.md"
+    },
+    {
+      "basename": "Relational Space",
+      "path": "wiki/concepts/comparative-education/Relational Space.md"
+    },
+    {
+      "basename": "Methodological Transnationalism",
+      "path": "wiki/concepts/comparative-education/Methodological Transnationalism.md"
+    },
+    {
+      "basename": "Absorptive Capacity",
+      "path": "wiki/concepts/educational-leadership-administration/Absorptive Capacity.md"
+    },
+    {
+      "basename": "Argument_Peterson_1987_OpenCourt_Ch06",
+      "path": "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch06.md"
+    },
+    {
+      "basename": "Steiner-Khamsi_2024_CE_Fig1_World_of_IOs",
+      "path": "sources/Steiner-Khamsi_2024_CE/figures/Steiner-Khamsi_2024_CE_Fig1_World_of_IOs.jpg"
+    },
+    {
+      "basename": "Global Education Governing Complex",
+      "path": "wiki/concepts/comparative-education/Global Education Governing Complex.md"
+    },
+    {
+      "basename": "Policy Brokerage",
+      "path": "wiki/concepts/comparative-education/Policy Brokerage.md"
+    },
+    {
+      "basename": "OECD",
+      "path": "wiki/facts/global/OECD.md"
     },
     {
       "basename": "Steiner-Khamsi_2024_CE",
@@ -37,16 +73,8 @@
       "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Grey_2018_CE.md"
     },
     {
-      "basename": "Absorptive Capacity",
-      "path": "wiki/concepts/educational-leadership-administration/Absorptive Capacity.md"
-    },
-    {
       "basename": "Unit of Analysis",
       "path": "wiki/concepts/research-methodology/Unit of Analysis.md"
-    },
-    {
-      "basename": "Argument_Peterson_1987_OpenCourt_Ch06",
-      "path": "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch06.md"
     },
     {
       "basename": "Tracking",
@@ -95,10 +123,6 @@
     {
       "basename": "PISA",
       "path": "wiki/facts/global/PISA.md"
-    },
-    {
-      "basename": "OECD",
-      "path": "wiki/facts/global/OECD.md"
     },
     {
       "basename": "Grey_2018_CE",
@@ -175,30 +199,6 @@
     {
       "basename": "Fazal Rizvi",
       "path": "wiki/persons/australia/Fazal Rizvi.md"
-    },
-    {
-      "basename": "Bob Lingard",
-      "path": "wiki/persons/australia/Bob Lingard.md"
-    },
-    {
-      "basename": "John Biggs",
-      "path": "wiki/persons/australia/John Biggs.md"
-    },
-    {
-      "basename": "Stephen Kemmis",
-      "path": "wiki/persons/australia/Stephen Kemmis.md"
-    },
-    {
-      "basename": "Scott Eacott",
-      "path": "wiki/persons/australia/Scott Eacott.md"
-    },
-    {
-      "basename": "Chen Kuan-Hsing",
-      "path": "wiki/persons/taiwan/Chen Kuan-Hsing.md"
-    },
-    {
-      "basename": "Curriculum Design Coherence Model",
-      "path": "wiki/theories/curriculum/Curriculum Design Coherence Model.md"
     }
   ],
   "omittedPaths": [],

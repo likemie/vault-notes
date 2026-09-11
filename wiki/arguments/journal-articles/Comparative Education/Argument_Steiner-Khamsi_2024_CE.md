@@ -78,7 +78,7 @@ title: "Argument_Steiner-Khamsi_2024_CE"
 argument_key: "Argument_Steiner-Khamsi_2024_CE"
 argument_display_title: "Governance by numbers 2.0: policy brokerage as an instrument of global governance in the era of information overload"
 argument_kind: "journal-article"
-argument_related_count: 38
+argument_related_count: 39
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -248,11 +248,8 @@ issuing_organization: ""
 
 从 1945 年仅有国际劳工组织（ILO）与联合国教科文组织涉足教育，到 2020 年已有 30 个政府间组织介入教育事务，教育在全球治理版图中经历了四十年的持续扩张并在世纪之交达到饱和状态。（pp.543–544）
 
-> [!example]- 图1：涉足教育事务的政府间组织世界分布格局（The World of Intergovernmental Organisations in Education）
+> [!example]- 图1：政府间组织的世界分布格局
 > ![](https://img.mylikemie.icu/sources/Steiner-Khamsi_2024_CE/figures/Steiner-Khamsi_2024_CE_Fig1_World_of_IOs.jpg)
-> 
-> *高清重构拓扑分布图（Martens, Niemann, & Krogmann, 2024, p. 485; [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024, p. 544]]）：*
-> ![](https://img.mylikemie.icu/sources/Steiner-Khamsi_2024_CE/figures/Figure1_World_of_IOs_replicated.png)
 
 图 1 直观呈现了全球涉足教育事务的 30 个政府间组织在空间辐射范围与核心职能主题上的拓扑分布。（p.544）
 
