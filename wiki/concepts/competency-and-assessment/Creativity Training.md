@@ -326,7 +326,7 @@ updated: 2026-09-03
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1950s — 天赋论打破与可塑性倡导** Guilford 在 APA 主席演讲中提出[[Creativity|创造力]]可测量且可培养，打破高智商[[Determinism|决定论]]，呼吁开展创造性思维教育。
+> - **1950s — 天赋论打破与可塑性倡导** Guilford 在 [[APA Style|APA]] 主席演讲中提出[[Creativity|创造力]]可测量且可培养，打破高智商[[Determinism|决定论]]，呼吁开展创造性思维教育。
 > - **1960s–1970s — 经典模型奠基** Osborn 与 Parnes 开发[[Creative Problem Solving|创造性问题解决]]（CPS）模型；Torrance 开发[[Torrance Tests of Creative Thinking|托兰斯创造性思维测验]]（TTCT）及配套教学材料；Feldhusen 开发普渡创造性思维计划（PCTP）。
 > - **1980s–1990s — [[Meta-analysis|元分析]]检验与领域整合** Rose & Lin (1984) 完成首项 PCTP 元分析；Amabile 强调内在动机与环境支持对创造力培养的关键调制作用。
 > - **2000s–2010s — 循证标准确立与探究[[Paradigm|范式]]拓展** Scott et al. (2004) 与 Ma (2006) 建立严格的干预元分析基准；[[Constructivist Paradigm|建构主义]] PBL 教学与跨学科 STEAM 整合项目成为主流教学载体。

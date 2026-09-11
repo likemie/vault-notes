@@ -61,7 +61,7 @@ updated: 2026-08-25
 > [!def] 核心定义
 > [[Critical Thinking|批判性思维]]倾向（Critical Thinking Disposition，亦称批判性思维意向或批判精神）是指个体在面对日常情境、学术探究与决策判断时，主动、自觉且持续运用批判性思维技能的内在动机、态度倾向与心智[[Habitus|习性]]（Habits of Mind）。它解答了个体“不仅能够思考（Can do），而且愿意并主动去思考（Will do）”的情意动力学机制。[[Argument_Abrami_2015_RER|(Abrami et al., 2015, pp. 277–278)]]
 >
-> 根据美国哲学学会（APA）[[APA Delphi Consensus on Critical Thinking|德尔菲专家共识]]，批判性思维包含“认知技能（Cognitive Skills）”与“情意倾向（Affective Dispositions）”两大不可分割的维度。一个具有良好批判性思维倾向的人被界定为：习惯性地追求真理、心智开放、勇于质疑、尊重理性、具备探究好奇心并对自身认知偏误保持警觉。[[Argument_Abrami_2015_RER|(Abrami et al., 2015, p. 278)]]
+> 根据美国哲学学会（[[APA Style|APA]]）[[APA Delphi Consensus on Critical Thinking|德尔菲专家共识]]，批判性思维包含“认知技能（Cognitive Skills）”与“情意倾向（Affective Dispositions）”两大不可分割的维度。一个具有良好批判性思维倾向的人被界定为：习惯性地追求真理、心智开放、勇于质疑、尊重理性、具备探究好奇心并对自身认知偏误保持警觉。[[Argument_Abrami_2015_RER|(Abrami et al., 2015, p. 278)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向认知背后的情意动力系统，强调思维技能的现实转化与自发激活意愿。
@@ -104,7 +104,7 @@ flowchart TD
 ```
 
 > [!feature] [[Critical Thinking|批判性思维]]倾向的三大理论模型
-> - **APA 德尔菲七因素模型（Facione, 1990）** 将理想批判性思考者的情意特征[[Operationalization|操作化]]为 7 个可测维度：求真、开放、分析、系统、自信、求知与认知成熟。
+> - **[[APA Style|APA]] 德尔菲七因素模型（Facione, 1990）** 将理想批判性思考者的情意特征[[Operationalization|操作化]]为 7 个可测维度：求真、开放、分析、系统、自信、求知与认知成熟。
 > - **批判精神模型（Critical Spirit, Siegel, 1988）** 强调批判性思考者必须拥有对“良好理由（Good Reasons）”的情感承诺，愿意根据证据改变自身行为与信念。
 > - **心智美德模型（Epistemic Virtues, Paul, 1993）** 包含智识[[Humility in Learning|谦逊]]（Intellectual Humility）、智识勇气、智识同理心与智识正直。
 
