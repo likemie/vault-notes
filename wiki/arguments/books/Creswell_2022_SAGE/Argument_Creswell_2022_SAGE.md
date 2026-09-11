@@ -7,7 +7,7 @@ title: "Argument_Creswell_2022_SAGE"
 argument_key: "Argument_Creswell_2022_SAGE"
 argument_display_title: "Research Design: Qualitative, Quantitative, and Mixed Methods Approaches"
 argument_kind: "book"
-argument_related_count: 189
+argument_related_count: 192
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -80,6 +80,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Dependent Variable]]"
   - "[[Epistemic Stances]]"
+  - "[[APA Style]]"
   - "[[Operationalization]]"
   - "[[Multiplicity]]"
   - "[[Construct]]"
@@ -88,6 +89,7 @@ related_concepts:
   - "[[Self-control]]"
   - "[[Research Purpose]]"
   - "[[Narrative Thought Types]]"
+  - "[[Voice, Tense, and Concision in Academic Writing]]"
   - "[[Self-Efficacy]]"
   - "[[Descriptive Research Question]]"
   - "[[Paradigm]]"
@@ -97,6 +99,7 @@ related_concepts:
   - "[[Ecological Validity]]"
   - "[[Big Ideas]]"
   - "[[Sample Size Determination]]"
+  - "[[Construct Validity]]"
   - "[[Response Bias]]"
   - "[[Preregistration]]"
   - "[[Confidence Interval]]"
@@ -175,12 +178,12 @@ related_methods:
   - "[[Interview Protocol]]"
   - "[[Random Sampling]]"
   - "[[Pilot Testing]]"
+  - "[[Internal Consistency]]"
   - "[[Test-Retest Reliability]]"
   - "[[Inter-Rater Reliability]]"
   - "[[Descriptive Analysis]]"
   - "[[Statistical Significance]]"
   - "[[Effect Size]]"
-  - "[[Internal Consistency]]"
   - "[[Cronbach's Alpha]]"
   - "[[t-test]]"
   - "[[Analysis of Variance]]"
@@ -219,7 +222,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-30
-updated: 2026-08-29
+updated: 2026-09-11
 year: 2022
 doi: ""
 citation_aliases:
@@ -524,7 +527,7 @@ citation_aliases:
 
 ---
 
-**第七步：呈现规范。** APA 格式提供统一的学术写作规范，其目的是让读者"专注于内容而非格式"。[[Definition of Terms|术语定义]]的核心原则是[[Operationalization|操作化]]。量化研究倾向于在开头"锁定"术语意义，质性研究则允许意义在研究过程中"涌现"。
+**第七步：呈现规范。** [[APA Style|APA 格式]]提供统一的学术写作规范，其目的是让读者"专注于内容而非格式"。[[Definition of Terms|术语定义]]的核心原则是[[Operationalization|操作化]]。量化研究倾向于在开头"锁定"术语意义，质性研究则允许意义在研究过程中"涌现"。
 
 > [!quote]
 > “日常语言中的词汇具有丰富的多重含义。就像其他符号一样，它们的力量来自于特定情境中意义的组合……科学语言表面上出于精确性的考虑，剥离了词汇的这种[[Multiplicity|多重性]]意义。”
@@ -768,7 +771,7 @@ Rossman & Rallis (2012) 将批判和后现代视角概括为四个相互关联�
 > “在你白天或晚上精神最饱满的时候写作。避免狂饮式写作（突击写作）。要进行少量且规律的写作。”
 > ("Write while you are fresh during the day or night. Avoid writing in binges. Write in small, regular amounts.")(Boice, 1990, pp.77–78; 引自第4章)
 
-**清晰简洁的写作**涉及三个层面。术语一致性是连贯性的前提，量化研究中为变量使用一致名称，质性研究中为现象使用一致名称，同义词替换会打断阅读流。[[Narrative Thought Types|叙事思想类型]](Tarshis, 1982)将文本思想按功能分为伞式思想、大思想、小思想和注意力思想四种，初学者最常见的两个问题是伞式思想过多（缺乏支撑细节）和注意力思想缺失（缺乏路标）。连贯性要求每句话是前一句的逻辑延续(Zinsser, 1983)，[[Hook and Eye Technique|钩眼技术]](Wilkinson, 1991)将这一检查操作化为逐句连接关键词的具象过程。语态、时态和简洁是打磨层面的三项规范：主动语态优于被动(Ross-Larson, 1982)、动词时态遵循 APA (2020) 分位置指南、多余词语需通过多轮编辑修剪。好的写作标准是读者的眼睛不会停顿、思维不会磕绊。
+**清晰简洁的写作**涉及三个层面。术语一致性是连贯性的前提，量化研究中为变量使用一致名称，质性研究中为现象使用一致名称，同义词替换会打断阅读流。[[Narrative Thought Types|叙事思想类型]](Tarshis, 1982)将文本思想按功能分为伞式思想、大思想、小思想和注意力思想四种，初学者最常见的两个问题是伞式思想过多（缺乏支撑细节）和注意力思想缺失（缺乏路标）。连贯性要求每句话是前一句的逻辑延续(Zinsser, 1983)，[[Hook and Eye Technique|钩眼技术]](Wilkinson, 1991)将这一检查操作化为逐句连接关键词的具象过程。[[Voice, Tense, and Concision in Academic Writing|语态、时态和简洁]]是打磨层面的三项规范：主动语态优于被动(Ross-Larson, 1982)、动词时态遵循 APA (2020) 分位置指南、多余词语需通过多轮编辑修剪。好的写作标准是读者的眼睛不会停顿、思维不会磕绊。
 
 > [!quote]
 > “在好的写作中，眼睛不会停顿，思维也不会磕绊。文字会流畅快速地推进。”
@@ -1178,7 +1181,7 @@ Creswell & Creswell 建议，理想格式是将三类问题分别写入不同章
 > |---|---|---|---|
 > | 调查设计 | 目的声明 → 选择理由 → 横截面/纵向 → 数据收集形式 | 设计类型选择、不可行性辩护 | [[Survey Research]] |
 > | 总体与样本 | 总体识别 → 抽样设计（单阶段/整群）→ 抽样类型（随机/系统/便利）→ 分层 → [[Sample Size Determination\|样本量确定]] | [[Study Population and Sample\|总体 vs 样本]]、[[Random Sampling\|抽样层级]]、[[Power Analysis\|功效分析]] | [[Survey Research]]、[[Power Analysis]] |
-> | 工具 | 选择已有/修改/自编工具 → 报告分数效度 → 报告分数信度 → [[Pilot Testing\|试点测试]] → 施测流程 | [[Construct Validity in Quantitative Measurement\|构念效度]]与效标效度、[[Internal Consistency and Cronbach's Alpha\|内部一致性]]（Cronbach's α, .7–.9）、[[Test-Retest Reliability\|重测信度]]、[[Inter-Rater Reliability\|评分者间信度]] | [[Survey Research]]、[[Pilot Testing]] |
+> | 工具 | 选择已有/修改/自编工具 → 报告分数效度 → 报告分数信度 → [[Pilot Testing\|试点测试]] → 施测流程 | [[Construct Validity\|构念效度]]与效标效度、[[Internal Consistency\|内部一致性]]（Cronbach's α, .7–.9）、[[Test-Retest Reliability\|重测信度]]、[[Inter-Rater Reliability\|评分者间信度]] | [[Survey Research]]、[[Pilot Testing]] |
 > | 变量 | 变量名称 → 操作性定义 → 测量工具 → 变量对照表 | Table 8.2 变量—定义—工具三列对照 | [[Variable]] |
 > | 数据分析 | 回应率 → [[Response Bias\|回应偏差]] → [[Descriptive Analysis\|描述性分析]] → 信度检查 → 推断统计 → 结果呈现 | Table 8.3 六因素统计选择矩阵 | [[Survey Research]]、[[Descriptive Analysis]] |
 > | [[Preregistration\|预注册]]与解释 | 探索性 vs 确认性 → 预注册 → 四层结果报告 → 讨论写作 | [[Preregistration\|预注册]]、[[Statistical Significance\|显著性]]（p 值）、[[Confidence Interval\|置信区间]]、[[Effect Size\|效应量]] | [[Preregistration]]、[[Statistical Significance]] |

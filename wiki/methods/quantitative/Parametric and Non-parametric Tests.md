@@ -1,0 +1,101 @@
+---
+title: Parametric and Non-parametric Tests
+aliases:
+  - 参数测验与非参数测验
+  - 参数检验与非参数检验
+  - parametric tests
+  - non-parametric tests
+  - 标准化测验与非标准化测验
+summary: "测验按是否假设总体分布正态的两类：参数测验假设总体符合正态曲线、分数连续等距，可推广到更广泛人群；非参数测验不假设总体分布，针对特定小群体设计，使用名目或顺序数据的统计方法"
+type: method
+method_type: quantitative
+method_family: "quantitative"
+method_related_count: 5
+method_related_level: 0
+method_related_stars: ""
+method_related_color: "#dcfce7"
+related_count: 5
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
+tags:
+  - theme/measurement
+  - theme/assessment
+  - method/quantitative
+related_concepts:
+  - "[[Hypothesis]]"
+  - "[[Reliability]]"
+  - "[[Questionnaire]]"
+related_methods:
+  - "[[Pilot Testing]]"
+related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]]"
+confidence: medium
+status: draft
+created: 2026-07-24
+updated: 2026-09-11
+---
+
+# Parametric and Non-parametric Tests
+
+---
+
+## 定义
+
+> [!def] 核心定义
+> 参数测验（parametric tests）是经过大规模代表性样本标准化、[[Hypothesis|假设]]分数在总体中呈正态分布的测验，通常为商业出版测验，支持将子群体结果与全国总体比较。非参数测验（non-parametric tests）对总体分布不做或少做假设，针对特定具体人群（如一个班级、一个年级组）设计，通常由教师或研究者自编，是课堂教师的常规工具。
+
+> [!concept-lens] 概念透镜
+> - **含义** 这对概念区分的是测验背后的测量假设和统计推断基础，而非测验的题型或内容本身。参数和非参数描述的是分数分布假设和统计方法选择，不是测验内容好坏的标准。
+> - **用途** 帮助研究者选择与数据类型和样本特征匹配的统计分析方法：参数测验对应等距或比率数据，非参数测验对应名目或顺序数据。
+> - **边界** 非参数测验的计算简洁性不意味着结果的[[Reliability|可靠性]]更低。非参数测验正是课堂教师的常规工具（stock-in-trade）——拼写测验、数学测验、年终考试、模拟考试都属此类，教师每天都在使用，尽管可能没有意识到这个术语。
+
+---
+
+## 核心要素
+
+> [!assumptions] 参数测验的三项核心[[Hypothesis|假设]]（Morrison, 1993）
+> - **正态分布** 分数在总体中呈正态分布曲线——高斯曲线的钟形对称性。典型例子包括智商（Intelligence Quotient, IQ）标准化分数、身高的全国分布测量，或阅读测验成绩在全体人口中的分布
+> - **连续等距** 测验分数之间为连续且等距的间隔
+> - **真正零点与比率数据** 具有真正零点的测验允许比率比较，例如 80% 的分数可以是 40% 的两倍。这与[[Questionnaire|问卷]]设计中的顺序量表不同，后者不能假设每两个分数之间的等间隔
+
+> [!contrast-table] 参数测验与非参数测验对比
+> | 维度 | 参数测验 | 非参数测验 |
+> |------|---------|-----------|
+> | **总体假设** | 假设正态曲线分布 | 不做或很少做假设 |
+> | **分数尺度** | 连续等距间隔；有真正零点时可用比率数据 | 名目和顺序数据 |
+> | **样本要求** | 在代表性大样本上[[Pilot Testing\|预测试]]和标准化 | 适用于小样本 |
+> | **统计方法** | 参数统计，效力更强，支持推断 | 非参数统计，计算更简单 |
+> | **测验来源** | 商业出版，附[[Reliability\|信度]]和效度数据 | 教师或研究者自编 |
+> | **推广范围** | 可推广到全国总体，比较子群体与全国均值 | 仅适用于施测的具体群体 |
+> | **典型例子** | IQ 测验、全国标准化阅读测验 | 课堂拼写测验、数学测验、年终考试 |
+
+---
+
+## 围绕概念形成的命题
+
+### 命题一　参数测验的统计效力优势取决于其全国标准化基础
+
+> [!concept-lens] 标准化与推断力的关系
+> 参数测验之所以能使用更复杂的统计方法和进行总体推断，不是因为题目本身更精确，而是因为其标准化过程提供了全国常模作为比较基准。
+
+> [!claim] Morrison（1993）
+> **三项[[Hypothesis|假设]]是参数统计的前提** 参数测验的三项假设——正态分布、连续等距间隔和真正零点——共同构成了使用参数统计方法的数学基础。如果这些假设不成立（如使用顺序量表数据），参数统计的结果就不可靠。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24|(Ch24, 24.2 节)]]
+
+> [!claim] Cohen, Manion & Morrison（2011）
+> **非参数测验的统计局限** 由于研究者自编测验大多是非参数的，可应用于数据的统计范围比参数测验更有限。参数测验不仅源于标准化分数，还能将子群体与全国总体比较（如将一所学校或一个地方教育当局的结果与全国平均分比较），而非参数测验对更广泛总体不做假设，只有一套不同的统计方法可用，这些方法适用于非常具体的情境。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24|(Ch24, 24.2 节)]]
+
+---
+
+## 争议与批评
+
+> [!tension] 非参数测验是非科学的还是情境适切的？
+> - **非参数测验缺乏科学严密性（蓝方）** 非参数测验缺乏标准化和全国常模，其结果不能推广到更广泛总体，在小样本上计算的指数不宜过分信任
+> - **非参数测验具有情境效度（红方）** 非参数测验正因为不[[Hypothesis|假设]]全国总体的正态分布而更贴近具体教育情境；对学生具体问题的诊断比全国比较更有教学价值。非参数测验是教师的常规工具：拼写测验、数学测验、年终考试都属此类
+
+---
+
+## 相关研究
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]] — 教材 24.2 节系统区分参数与非参数测验的定义、[[Hypothesis|假设]]、统计适用性和使用场景，并引用 Morrison（1993）对参数测验三项假设的归纳

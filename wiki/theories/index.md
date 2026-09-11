@@ -8,9 +8,6 @@ Total entries: **157**
 > - [[Confucian Learning Tradition]] — 东亚文化学习模型，以修身为核心目标，包含完善自我、以天下为己任、学习美德和行胜于言四个文化主题
 > - [[Neo-Confucianism]] — 宋明时期儒学复兴运动，以程朱理学与陆王心学为代表，将天理与修身关联，重建儒家学习传统的理论根基
 
-> [!index-list]- Communication Discourse (1)
-> - [[Van Leeuwen's Legitimation Theory]] — 分析公共论述如何取得正当性的四层次框架，包括权威与传统、道德价值、理性与真理、奖励叙事，可用于解释教育政策如何包装证据立场
-
 > [!index-list]- Comparative Education (10)
 > - [[Actor-Network Theory]] — 将社会理解为人类与非人类行动者（异质性物质-符号实体）在持续关联中组装而成的异质网络理论。在比较教育研究中，它被用于解构国家层面的政策借用假说，通过追踪多尺度行动者网络、对称性关注非人类中介（如测评技术、协议、软件、物理硬件），揭示隐藏在教育转移与全球远处治理背后的非线性转译、变异、多行动者博弈及关系空间网络生产机制。
 > - [[Convergence Theory in Comparative Education]] — 比较教育的四种理解形式之一，认为不同社会的教育系统正在趋向相似，经历了从 UNESCO 科学理想到新制度主义的多个阶段
@@ -31,7 +28,7 @@ Total entries: **157**
 > - [[Ennis's Curricular Typology]] — Robert Ennis (1989) 提出的批判性思维课程设计四分法理论，依据思维原则的显性程度与学科知识的结合架构划分为独立通用、学科融入、学科沉浸与显性混合四种模式
 > - [[Explicit Critical Thinking Instruction]] — 主张批判性思维应通过独立的专门课程显性教授而非作为学科学习副产品隐性培养的教学理论，以元分析证据为支撑，强调教师培训和专门课程设计的关键作用。
 
-> [!index-list]- Educational Philosophy (26)
+> [!index-list]- Educational Philosophy (28)
 > - [[APA Delphi Consensus on Critical Thinking]] — 由美国哲学学会主持、Peter Facione 领衔 46 位国际学者达成的里程碑式共识报告，系统确立了批判性思维的六大核心认知技能与七大情意倾向双元框架
 > - [[Autopoiesis]] — 把生命系统理解为通过自我生产和自我指涉维持边界与连续性的理论，常用于分析系统如何在与环境互动中保持自身组织。在理性主义比较教育中，该理论解释了教育系统在世界社会同质化压力下的自我参照与本国折射机制；在后人类主义教育学中，它与共同制造（Sympoiesis）相对，作为分析系统自组织涌现、去中心化转型与防范知识殖民的重要理论资源。
 > - [[Cognitive Constructivism]] — 一种将知识视为存在于个体头脑中的内部结构，将学习视为个体同化与顺应外部信息的内部心理过程的理论范式。它是个体认识论研究早期的主导范式。
@@ -44,6 +41,8 @@ Total entries: **157**
 > - [[Phenomenology]] — 以主观意识和直接经验为核心的哲学传统，关注意识如何主动赋予世界意义，是诠释范式的三大研究传统之一。
 > - [[Popper's Three Worlds Theory]] — 将现实区分为物理世界、主观经验世界和客观知识世界的本体论框架，用于解释知识对象如何独立于个体意识而存在并被社会继承
 > - [[Post-colonial Theory]] — 一种处理殖民主义文化遗产的批判理论，审视帝国主义意识形态如何通过知识生产、价值支配和身份建构延续对非西方群体的压制与边缘化。
+> - [[Post-structuralism]] — 对结构功能主义决定论的反驳，强调个体能动性与内在矛盾主体，将数据与人工制品视为表演性话语与文本，主张通过解构揭示多重意义层次与意义特权化机制。
+> - [[Postmodernism]] — 反抗启蒙现代性与实证主义决定论的思想思潮；在教育研究中解构宏大元叙事，肯定断裂、差异与本土微观情境，揭示知识的社会建构性与权力纽带，并以变色龙般的亲和性连接诠释范式、复杂性理论与批判理论。
 > - [[Pragma-Dialectics]] — van Eemeren and Grootendorst 发展的论证理论，将论证分析为旨在解决意见分歧的言语行为序列，整合形式逻辑、非形式逻辑与修辞学洞察，提供评价论证质量的规范性程序标准
 > - [[Pragmatic Constructivism]] — 由 Rauste-von Wright 提出，将杜威的反思概念与米德的社会互动论相融合，主张学习是身心与环境具身交互的情境化过程
 > - [[Queer Theory]] — 一种建立在但超越女性主义理论的批判视角，探讨性别身份的社会建构、规范对越轨的压制，拒绝将个人简单归类并主张尊重其个体性。
@@ -140,7 +139,7 @@ Total entries: **157**
 > - [[Tullock's Bureaucracy Theory]] — 官僚制作为信息处理金字塔，主权者面临的核心挑战是知识问题与委托困境，Cowen 将其应用于解释 EBE 的制度韧性
 > - [[Varieties of Capitalism]] — 区分不同资本主义制度协调方式的比较政治经济框架，常用来解释教育培训体系、企业行为和技能形成路径的跨国差异
 
-> [!index-list]- Research Methodology (16)
+> [!index-list]- Research Methodology (14)
 > - [[Absolutist and Relativist Ethics]] — 研究伦理中两种对立的元立场：绝对主义坚持清晰固定的原则应无一例外地指导研究者行为；相对主义认为伦理考量应源于具体研究情境，不存在可普遍适用的绝对准则
 > - [[Campbellian Validity Framework]] — Donald Campbell等创立的因果推断与效度评估系统理论，确立了内部效度、外部效度、构念效度与统计结论效度四分体系，主张以系统排除替代解释为因果建立前提，并为多质多法（MTMM）收敛效度检验奠定基础。
 > - [[Cartwright's Three-Stage Knowledge Framework]] — RCT 证据外推的三阶段模型：it-works-somewhere → capacity claims → it-will-work-for-us，揭示因果机制知识在证据外推中的关键作用
@@ -150,13 +149,14 @@ Total entries: **157**
 > - [[Hart's Ladder of Participation]] — Hart(1992)提出的评估儿童在研究和社会行动中参与程度的八级阶梯模型，从底层的操纵和装饰到顶层的儿童自主发起与主导，为包容性研究设计提供渐进标准
 > - [[Item Response Theory]] — 基于潜在特质假设的现代测量理论，认为题目难度和区分度可以独立于施测样本被描述，受试者能力也可以独立于具体测验题目被估计，是计算机自适应测验的理论基础
 > - [[Maxwell's Interactive Model of Research Design]] — Maxwell(2005)提出的质性研究互动设计模型，以研究问题为核心，强调目标、概念框架、方法、效度五个领域之间的相互通知和迭代涌现关系，反对线性规划。
-> - [[Post-structuralism]] — 对结构功能主义决定论的反驳，强调个体能动性与内在矛盾主体，将数据与人工制品视为表演性话语与文本，主张通过解构揭示多重意义层次与意义特权化机制。
-> - [[Postmodernism]] — 反抗启蒙现代性与实证主义决定论的思想思潮；在教育研究中解构宏大元叙事，肯定断裂、差异与本土微观情境，揭示知识的社会建构性与权力纽带，并以变色龙般的亲和性连接诠释范式、复杂性理论与批判理论。
 > - [[Potential Outcomes Framework]] — 因果推断的核心框架，通过比较同一主体在不同处理条件下的潜在结果来定义因果效应，并区分因果效应的定义与估计。
 > - [[Realist Evaluation]] — 由 Ray Pawson and Nick Tilley 提出的科学实在论评估方法与理论，主张项目干预非机械因果，而是通过在特定背景下为受试者提供资源并激活其推理来产生结果。
 > - [[Seedhouse's Ethical Pyramid]] — Seedhouse提出的四层伦理决策模型，将伦理考量分为外部层、后果层、道义层和个体层，构成思考研究伦理问题的认识论装置
 > - [[Situated Ethics]] — 一种研究伦理立场，主张伦理原则在不同的研究实践中被中介而具有不同意义，伦理决定不可诉诸单义普适原则或守则，必须权衡具体情境中的特殊冲突和困境
 > - [[Sociology of Measurement]] — 将测量视为社会技术来分析的框架，关注测量如何被组织、运作并在实践中塑造对象、关系和世界。
+
+> [!index-list]- Science Communication (1)
+> - [[Van Leeuwen's Legitimation Theory]] — 分析公共论述如何取得正当性的四层次框架，包括权威与传统、道德价值、理性与真理、奖励叙事，可用于解释教育政策如何包装证据立场
 
 > [!index-list]- Sociology of Education (15)
 > - [[Bacchi's WPR Approach]] — Carol Bacchi (2009) 提出的政策分析框架，通过六个递进问题审视政策文本中问题如何被表征和建构，揭示权力、假设和沉默，属于批判政策社会学传统。

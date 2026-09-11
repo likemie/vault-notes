@@ -1026,7 +1026,7 @@ Kimmel (1988) 声称很少有研究者觉得可以完全不做欺骗，因为过
 > | 协会 | 结构 | 关键立场 |
 > |---|---|---|
 > | **BPS** (British Psychological Society, 2005) | 11个章节，涵盖胜任、同意、保密、个人行为 | 不强制要求知情同意（尽可能告知）；不禁绝欺骗，但需严格证成 |
-> | **APA** (American Psychological Association, 2002) | 五项总原则 → 十节伦理标准 | 行善与不伤害、忠诚与责任、诚信、正义、尊重人的权利和尊严 |
+> | **[[APA Style\|APA]]** (American Psychological Association, 2002) | 五项总原则 → 十节伦理标准 | 行善与不伤害、忠诚与责任、诚信、正义、尊重人的权利和尊严 |
 > | **ASA** (American Sociological Association, 1999) | 五项总原则 → 20条伦理标准 | 涵盖不剥削、保密、知情同意、欺骗、提供诱导等 |
 > | **BSA** (British Sociological Association, 2002) | 多章节，含隐蔽研究、资助方责任 | 对参与者和资助方的双重义务；匿名、隐私、保密章节 |
 > | **[[Sponsored Research Agreement\|SRA]]** (Social Research Association, 2003) | 四个层级义务：社会 → 资助方 → 同事 → 参与者 | 借鉴欧洲法律框架（www.respect-project.org） |
