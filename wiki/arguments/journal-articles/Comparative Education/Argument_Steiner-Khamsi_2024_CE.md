@@ -37,7 +37,6 @@ related_concepts:
   - "[[Scientific Uncertainty]]"
   - "[[Scaffolding]]"
   - "[[Champ]]"
-  - "[[Innovation Hub]]"
   - "[[Return on Investment]]"
   - "[[Attrition]]"
   - "[[Hypothesis]]"
@@ -49,7 +48,6 @@ related_theories:
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Historical-Comparative Method]]"
-  - "[[Exploratory Factor Analysis]]"
   - "[[Randomised Controlled Trials]]"
 related_instruments: []
 related_persons:
@@ -58,6 +56,7 @@ related_persons:
 related_facts:
   - "[[OECD]]"
   - "[[Sputnik Shock 1957]]"
+  - "[[Centre for Educational Research and Innovation]]"
   - "[[A Nation at Risk 1983]]"
   - "[[International Indicators of Education Systems]]"
   - "[[Education at a Glance]]"
@@ -78,7 +77,7 @@ title: "Argument_Steiner-Khamsi_2024_CE"
 argument_key: "Argument_Steiner-Khamsi_2024_CE"
 argument_display_title: "Governance by numbers 2.0: policy brokerage as an instrument of global governance in the era of information overload"
 argument_kind: "journal-article"
-argument_related_count: 39
+argument_related_count: 38
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -193,7 +192,7 @@ issuing_organization: ""
 
 #### 1. 经合组织从冷战技术官僚预测转向由外部危机感驱动的跨国比较指标帝国
 
-二战后西方阵营急需建立具有规范协调功能的国际机制以抵御苏联阵营的意识形态渗透，欧洲经济合作组织（Organisation for European Economic Co-operation, OEEC）应运而生并在 1961 年改组为经合组织，被史学界定性为与北约并行的经济北约。（pp.540–541）
+二战后西方阵营急需建立具有规范协调功能的国际机制以抵御苏联阵营的意识形态渗透，欧洲经济合作组织（Organisation for European Economic Co-operation，OEEC）应运而生并在 1961 年改组为经合组织，被史学界定性为与北约并行的经济北约。（pp.540–541）
 
 > [!phase] 经合组织从经济北约到全球教育测验帝国的演化历程
 >
@@ -207,11 +206,11 @@ issuing_organization: ""
 >
 > - **1980年代 — 教育标准确立与跨国指标项目起步**
 >
->   在经合组织教育研究与[[Innovation Hub|创新中心]]（Centre for Educational Research and Innovation，CERI）资深主管 Jarl Bengtsson 推动下，经合组织重心全面转向教育标准与跨国指标开发；在美国《国家处在危险之中》（*[[A Nation at Risk 1983|A Nation at Risk]]*）报告的危机刺激下，经合组织受托启动[[International Indicators of Education Systems|国际教育系统指标]]（International Indicators of Education Systems，INES）项目。（pp.541–542）
+>   在[[Centre for Educational Research and Innovation|经合组织教育研究与创新中心]]（Centre for Educational Research and Innovation，CERI）资深主管 Jarl Bengtsson 推动下，经合组织重心全面转向教育标准与跨国指标开发；在美国《国家处在危险之中》（*[[A Nation at Risk 1983|A Nation at Risk]]*）报告的危机刺激下，经合组织受托启动[[International Indicators of Education Systems|国际教育系统指标]]（International Indicators of Education Systems，INES）项目。（pp.541–542）
 >
 > - **1990年代至今 — 《[[Education at a Glance|教育概览]]》出版与 [[PISA]] 评价帝国形成**
 >
->   1992 年首度出版《教育概览》，并在 2000 年正式推出国际学生评估项目（PISA）；此后相继衍生出成人能力评估、教师教学调查、教育政策展望等知识平台，确立了不可逆转的跨国比较规制体系。（pp.541–543）
+>   1992 年首度出版《[[Education at a Glance|教育概览]]》（Education at a Glance，EAG），并在 2000 年正式推出国际学生评估项目（Programme for International Student Assessment，PISA）；此后相继衍生出成人能力评估、教师教学调查、教育政策展望等知识平台，确立了不可逆转的跨国比较规制体系。（pp.541–543）
 
 #### 2. 世界银行脱离教科文组织人文路线，以放贷权力和回报率指标构建自指性政策帝国
 
@@ -221,8 +220,8 @@ issuing_organization: ""
 > | 比较维度 | 世界银行（World Bank） | 联合国教科文组织（UNESCO） |
 > |---|---|---|
 > | **教育哲学** | 强调人力资本投入回报、管理主义效率与经济增长导向 | 秉持人文主义关怀、国际理解与受教育基本人权导向 |
-> | **治理手段** | 庞大的项目放贷权力、高度官僚化的放贷周期与减贫战略文件（PRSPs） | 道德劝诫、国际公约制定与规范性政策倡议 |
-> | **量化规模** | 指标库从 1989 年 116 项扩展至 2018 年 1,600 项；坐拥涵盖 139 国、1,120 项估算的回报率数据库 | 协调全民教育（[[Exploratory Factor Analysis\|EFA]]）等国际基准，但缺乏强制性财政问责机制 |
+> | **治理手段** | 庞大的项目放贷权力、高度官僚化的放贷周期与减贫战略文件（Poverty Reduction Strategy Papers，PRSPs） | 道德劝诫、国际公约制定与规范性政策倡议 |
+> | **量化规模** | 指标库从 1989 年 116 项扩展至 2018 年 1,600 项；坐拥涵盖 139 国、1,120 项估算的回报率数据库 | 协调全民教育（Education for All）等国际基准，但缺乏强制性财政问责机制 |
 > | **脱钩节点** | 1964 年签署合作协定借道入场，1980 年发布首份独立政策文件彻底决裂 | 失去对全球南方教育援助的主导权，退居话语倡导 |
 
 世界银行通过系统资助教育[[Return on Investment|投资回报]]率测算，建立起庞大的应用政策研究体系，为其直接干预借贷国的教育体制奠定了技术合法性。（pp.542, 548）
@@ -246,7 +245,7 @@ issuing_organization: ""
 
 #### 1. 经济协调类组织大举跨界主导教育事务，以教育服务于使命的话语确立干预正当性
 
-从 1945 年仅有国际劳工组织（ILO）与联合国教科文组织涉足教育，到 2020 年已有 30 个政府间组织介入教育事务，教育在全球治理版图中经历了四十年的持续扩张并在世纪之交达到饱和状态。（pp.543–544）
+从 1945 年仅有国际劳工组织（International Labour Organization，ILO）与联合国教科文组织涉足教育，到 2020 年已有 30 个政府间组织介入教育事务，教育在全球治理版图中经历了四十年的持续扩张并在世纪之交达到饱和状态。（pp.543–544）
 
 > [!example]- 图1：政府间组织的世界分布格局
 > ![](https://img.mylikemie.icu/sources/Steiner-Khamsi_2024_CE/figures/Steiner-Khamsi_2024_CE_Fig1_World_of_IOs.jpg)
@@ -256,9 +255,9 @@ issuing_organization: ""
 > [!dual-header] 全球涉足教育事务的 30 个政府间组织空间分布与职能主题交叉矩阵
 > | 地理覆盖 \ 职能类型 | 经济协调类 | 专门教育类 | 综合多元类 | 单一专门类 |
 > |---|---|---|---|---|
-> | **全球层级** | 世界银行（WB）<br>[[OECD\|经合组织（OECD）]] | 联合国教科文组织（UNESCO） | — | 联合国难民署（UNHCR）<br>国际劳工组织（ILO）<br>联合国儿童基金会（UNICEF） |
-> | **跨区域层级** | — | 伊比利亚美洲国家组织（OEI）<br>伊斯兰世界教科文组织（ICESCO） | 英联邦（Commonwealth）<br>亚欧基金会（ASEF） | — |
-> | **区域层级** | 欧洲自由贸易联盟（EFTA）<br>中非经济共同体（ECCAS）<br>非洲开发银行（AfDB）<br>南方共同市场（Mercosur）<br>美洲开发银行（IADB）<br>亚洲开发银行（ADB）<br>亚太经合组织（APEC） | 独联体人文合作基金会（IFESCCO）<br>阿拉伯国家教科文组织（ALECSO）<br>海湾国家教育局（ABECS）<br>东南亚教育部长组织（SEAMEO） | 波罗的海国家理事会（CBSS）<br>欧盟（EU）<br>非盟（AU）<br>东加勒比国家组织（OECS）<br>加勒比共同体（CARICOM）<br>美洲国家组织（OAS）<br>南美洲国家联盟（UNASUR）<br>东盟（ASEAN）<br>南亚区域合作联盟（SAARC） | — |
+> | **全球层级** | 世界银行（World Bank，WB）<br>[[OECD\|经合组织（OECD）]] | 联合国教科文组织（UNESCO） | — | 联合国难民署（United Nations High Commissioner for Refugees，UNHCR）<br>国际劳工组织（ILO）<br>联合国儿童基金会（UNICEF） |
+> | **跨区域层级** | — | 伊比利亚美洲国家组织（Organization of Ibero-American States，OEI）<br>伊斯兰世界教育、科学及文化组织（Islamic World Educational, Scientific and Cultural Organization，ICESCO） | 英联邦（Commonwealth）<br>亚欧基金会（Asia-Europe Foundation，ASEF） | — |
+> | **区域层级** | 欧洲自由贸易联盟（European Free Trade Association，EFTA）<br>中非国家经济共同体（Economic Community of Central African States，ECCAS）<br>非洲开发银行（African Development Bank，AfDB）<br>南方共同市场（Southern Common Market，Mercosur）<br>美洲开发银行（Inter-American Development Bank，IADB）<br>亚洲开发银行（Asian Development Bank，ADB）<br>亚太经济合作组织（Asia-Pacific Economic Cooperation，APEC） | 独联体成员国人文合作跨国基金会（Intergovernmental Foundation for Educational, Scientific and Cultural Cooperation of the CIS，IFESCCO）<br>阿拉伯国家教育、文化和科学组织（Arab League Educational, Cultural and Scientific Organization，ALECSO）<br>海湾阿拉伯国家教育局（Arab Bureau of Education for the Gulf States，ABECS）<br>东南亚教育部长组织（Southeast Asian Ministers of Education Organization，SEAMEO） | 波罗的海国家理事会（Council of the Baltic Sea States，CBSS）<br>欧洲联盟（European Union，EU）<br>非洲联盟（African Union，AU）<br>东加勒比国家组织（Organisation of Eastern Caribbean States，OECS）<br>加勒比共同体（Caribbean Community，CARICOM）<br>美洲国家组织（Organization of American States，OAS）<br>南美洲国家联盟（Union of South American Nations，UNASUR）<br>东南亚国家联盟（Association of Southeast Asian Nations，ASEAN）<br>南亚区域合作联盟（South Asian Association for Regional Cooperation，SAARC） | — |
 
 截至 2023 年，在参与全球教育治理的 30 个国际组织中，原本旨在协调经济合作的非专门组织已占据整整三分之一，说明各类机构通过将教育与自身使命相挂钩，成功实现了对教育领域的跨界规制。（p.544）
 
@@ -268,16 +267,16 @@ issuing_organization: ""
 
 > [!row-contrast] 主要国际组织的政策中介工具打包组合与经验汲取取向
 > - **经合组织（OECD）** 以 [[PISA]] 及系列衍生测验为核心，配套国别同行评议与政策展望；在经验汲取上呈现外向型国别横向对照风格，世界教育改革数据库实证表明其报告高度依赖对其他成员国具体改革经验的交叉引证。（pp.544–545）
-> - **世界银行（World Bank）** 以优质教育成果系统方法（SABER）与[[Randomised Controlled Trials|随机对照试验]]为核心，配套最佳实践政策库；在经验汲取上呈现高度自指性闭合风格，习惯性反复引用自身以往的评估报告与内部工具箱。
-> - **全球教育伙伴关系（GPE）** 依托知识与创新交流机制（KIX）设立四大区域枢纽，配套区域层面的同侪交流与赠款支持，实质上是由核心捐助国主导的多方协调平台。（p.545）
+> - **世界银行（World Bank）** 以教育系统良好成果系统性方法（Systems Approach for Better Education Results，SABER）与[[Randomised Controlled Trials|随机对照试验]]为核心，配套最佳实践政策库；在经验汲取上呈现高度自指性闭合风格，习惯性反复引用自身以往的评估报告与内部工具箱。
+> - **全球教育伙伴关系（GPE）** 依托知识与创新交流（Knowledge and Innovation Exchange，KIX）机制设立四大区域枢纽，配套区域层面的同侪交流与赠款支持，实质上是由核心捐助国主导的多方协调平台。（p.545）
 > - **联合国教科文组织（UNESCO）** 以《全球教育监测报告》为主轴，配套国际公约制定与规范性政策倡导，坚守人文主义价值底色。
 > - **联合国儿童基金会（UNICEF）** 率先开创社会情感学习倡议，随后引发经合组织与教科文组织对该新兴领域的激烈争夺。
 
 尽管各大组织在公开修辞中普遍倡导多边协作，并在数字平台上提供免费数据与研讨资源，但在争夺私人基金会资助与核心规制话语权时，却表现出深刻的排他性结盟倾向。（pp.545–546）
 
 > [!tension] 数字化时代国际组织的平台协作修辞与排他性权力同盟
-> - **协作修辞（蓝方）** 共同承诺推进[[UN Sustainable Development Goals|可持续发展目标]]4（SDG 4），在公开报告中统一采用三大要点、六项洞见、研究表明等标准化中介修辞，维持多边协同的制度表象。（p.545）
-> - **排他同盟（红方）** 围绕关键数据与研究话语权组建排他性同盟：世界银行联合英国外交联邦及发展事务部（FCDO）与美国国际开发署（USAID）成立教育证据构建联盟（BE2），而联合国教科文组织与儿童基金会则另立学习数据协定，彼此形成严密割据。（pp.545–546）
+> - **协作修辞（蓝方）** 共同承诺推进联合国[[UN Sustainable Development Goals|可持续发展目标]]（Sustainable Development Goals，SDGs）中的第四项优质教育目标（SDG 4），在公开报告中统一采用三大要点、六项洞见、研究表明等标准化中介修辞，维持多边协同的制度表象。（p.545）
+> - **排他同盟（红方）** 围绕关键数据与研究话语权组建排他性同盟：世界银行联合英国外交、联邦及发展事务部（Foreign, Commonwealth & Development Office，FCDO）与美国国际开发署（United States Agency for International Development，USAID）成立构建教育证据联盟（Building Evidence in Education，BE2），而联合国教科文组织与儿童基金会则另立学习数据协定，彼此形成严密割据。（pp.545–546）
 
 ---
 
@@ -312,7 +311,7 @@ issuing_organization: ""
 > [!case] 挪威教育部能力改革政策周期中的引文过滤实证
 > - **专家咨询阶段的知识繁荣** 挪威拥有制度化的政策咨询机制；教育部为推行能力导向课程改革专门设立了 5 个专家委员会；这 5 个委员会在其咨询报告中累计列出 **464 篇参考[[Document|文献]]**，营造出全面吸收国际循证研究的学术姿态。（pp.547–548）
 > - **行政法令起草阶段的断崖式过滤** 然而，当政策进程推进到教育部起草并颁布正式行政法令（Ministerial Decrees）时，法定文件仅引用了 **22 篇参考文献**，引文损耗率超过 95%。
-> - **经合组织审查组的绝对主导地位** 在这仅存的 22 篇引文中，有整整 **20 篇**全部来自同一个专家委员会——即专门负责审查经合组织能力界定与选择项目（DeSeCo）的专家委员会。（p.548）
+> - **经合组织审查组的绝对主导地位** 在这仅存的 22 篇引文中，有整整 **20 篇**全部来自同一个专家委员会——即专门负责审查经合组织能力界定与选择（Definition and Selection of Competencies，DeSeCo）项目的专家委员会。（p.548）
 > - **实践启示** 这一结果证明各专家委员会的政策分量极不对等；经合组织在北欧政策体系中享有的权威地位远超包括[[John Hattie|约翰·哈蒂]]（John Hattie）在内的个体学术明星；国家在议程设置阶段热衷借力外部权威，但在法定规制出台阶段实施了极其严格的政治筛选与自我决断。
 
 这一实证过程完整揭示了外部知识在政策周期各阶段所经历的层层筛选与政治转化机制。（pp.547–548）

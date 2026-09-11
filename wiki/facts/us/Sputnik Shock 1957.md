@@ -30,7 +30,6 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Progressive Education]]"
   - "[[Normal School]]"
-  - "[[Innovation Hub]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Development Turn in Comparative Education]]"
   - "[[Scientism]]"
@@ -48,6 +47,7 @@ related_facts:
   - "[[Comparative Education Center at Chicago 1958]]"
   - "[[International Institute for Educational Planning]]"
   - "[[National Science Foundation]]"
+  - "[[Centre for Educational Research and Innovation]]"
   - "[[International Indicators of Education Systems]]"
   - "[[Education at a Glance]]"
   - "[[PISA]]"
@@ -71,8 +71,8 @@ updated: 2026-09-11
 > 1957 年苏联成功发射人类首颗人造卫星引发了美国乃至整个西方阵营深层的科技与教育信心危机（Sputnik Shock）。该事件将学校教育直接绑定于冷战地缘博弈与国家生存，不仅推动了美国国家安全导向的联邦教育立法，更成为跨国组织将教育视作“经济北约”军备母体、引入[[Human Capital Theory|人力资本理论]]与技术官僚规划的历史发端。[[Argument_Amos_2022_Springer|(Amos, 2022, p. 56)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 540–541)]]
 
 > [!event-context] 事件背景
-> - **时间跨度 / 空间地理** 1957 年 10 月 4 日（苏联斯普特尼克 1 号卫星发射升空）；影响迅速席卷美国华盛顿、西欧诸国及巴黎欧洲经济合作组织（OEEC）总部。[[Argument_Amos_2022_Springer|(Amos, 2022, p. 56)]]
-> - **核心当事主体** 美国联邦政府（艾森豪威尔政府、国会）；苏联航天与科技部门；欧洲经济合作组织（后改组为 [[OECD]]）；全美科学家与教育学者共同体。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 540)]]
+> - **时间跨度 / 空间地理** 1957 年 10 月 4 日（苏联斯普特尼克 1 号卫星发射升空）；影响迅速席卷美国华盛顿、西欧诸国及巴黎欧洲经济合作组织（Organisation for European Economic Co-operation，OEEC）总部。[[Argument_Amos_2022_Springer|(Amos, 2022, p. 56)]]
+> - **核心当事主体** 美国联邦政府（艾森豪威尔政府、国会）；苏联航天与科技部门；欧洲经济合作组织（后改组为[[OECD|经合组织]]（Organisation for Economic Co-operation and Development，OECD，简称经合组织））；全美科学家与教育学者共同体。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 540)]]
 > - **深层制度与社会背景** 美苏两极冷战进入太空与洲际导弹军备竞赛阶段。西方社会普遍认为苏联在空间技术上的领先并非单纯的工程突破，而是反映了其教育体制在培养工程师与科研专才上的压倒性效率，暴露出美国战后渐进主义与生活适应教育（Life Adjustment Education）的严重软弱。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 421)]]
 > - **直接导火索 / 触发事件** 1957 年 10 月 4 日苏联发射 83.6 公斤的人造地球卫星 Sputnik 1 并成功绕地飞行，无线电蜂鸣信号被全球接收，彻底击碎了二战后美国的技术垄断优越感。
 
@@ -81,9 +81,9 @@ updated: 2026-09-11
 ## 发展经过与演变阶段
 
 > [!dev-timeline]- 事件推进历程
-> - **1957–1958 — 危机爆发与国家安全动员期** 苏联人造卫星升空引发全美舆论海啸，媒体与政界齐声谴责公立学校忽视学术严格性；1958 年美国国会闪电通过《国防教育法》（National Defense Education Act, NDEA），联邦财政首次对数学、科学与外语教育进行大规模定向注资；同年芝加哥大学在卡耐基基金会资助下成立[[Comparative Education Center at Chicago 1958|芝加哥大学比较教育中心]]，将比较研究推向跨学科与量化轨道。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 421–423)]]
-> - **1959–1961 — 跨国扩散与“经济北约”重塑期** 斯普特尼克危机促使大西洋两岸将教育置于地缘竞争前沿；欧洲经济合作组织（OEEC）顺势自我重塑为“世界一流教育的先驱”，于 1961 年正式改组为[[OECD|经济合作与发展组织]]（[[OECD]]），被史学界定性为旨在抗衡华约经济阵营的“经济北约”；经合组织投入巨额资源开展跨国教育统计，将[[Human Capital Theory|人力资本理论]]与控制论规划缝合，以应对苏联五年计划模式。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 540–541)]]
-> - **1961–1970 年代 — 全球教育规划与比较[[Paradigm|范式]]转型** 1960 年贝拉吉奥会议与 1961 年华盛顿经合组织政策会议推动各国确立“教育投资驱动增长”正统；经合组织启动地中海区域项目（MRP），联合国教科文组织设立[[International Institute for Educational Planning|国际教育规划研究所]]（IIEP），现代教育经济学与宏观人力预测模型在第三世界技术援助与全球政策中全面扎根。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
+> - **1957–1958 — 危机爆发与国家安全动员期** 苏联人造卫星升空引发全美舆论海啸，媒体与政界齐声谴责公立学校忽视学术严格性；1958 年美国国会闪电通过《国防教育法》（National Defense Education Act，NDEA），联邦财政首次对数学、科学与外语教育进行大规模定向注资；同年芝加哥大学在卡耐基基金会资助下成立[[Comparative Education Center at Chicago 1958|芝加哥大学比较教育中心]]，将比较研究推向跨学科与量化轨道。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 421–423)]]
+> - **1959–1961 — 跨国扩散与“经济北约”重塑期** 斯普特尼克危机促使大西洋两岸将教育置于地缘竞争前沿；欧洲经济合作组织（OEEC）顺势自我重塑为“世界一流教育的先驱”，于 1961 年正式改组为[[OECD|经合组织]]（OECD），被史学界定性为旨在抗衡华约经济阵营的“经济北约”；经合组织投入巨额资源开展跨国教育统计，将[[Human Capital Theory|人力资本理论]]与控制论规划缝合，以应对苏联五年计划模式。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 540–541)]]
+> - **1961–1970 年代 — 全球教育规划与比较[[Paradigm|范式]]转型** 1960 年贝拉吉奥会议与 1961 年华盛顿经合组织政策会议推动各国确立“教育投资驱动增长”正统；经合组织启动地中海地区项目（Mediterranean Regional Project，MRP），联合国教科文组织设立[[International Institute for Educational Planning|国际教育规划研究所]]（International Institute for Educational Planning，IIEP），现代教育经济学与宏观人力预测模型在第三世界技术援助与全球政策中全面扎根。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
 
 ---
 
@@ -99,8 +99,8 @@ updated: 2026-09-11
 ## 行动者阵营与社会力量博弈
 
 > [!actor-grid] 权力—立场矩阵
-> - **国家安全与科学建制派** 联邦国防部、国家科学基金会（[[National Science Foundation|NSF]]）、杰罗姆·布鲁纳（Jerome Bruner）与物理科学课程委员会（PSSC）— 主张彻底废弃庸俗的生活适应教育，强推以学科结构与学术严谨性为导向的探究式课程改革。[[Argument_Amos_2022_Springer|(Amos, 2022, p. 56)]]
-> - **跨国技术官僚阵营** 欧洲经济合作组织（OEEC/[[OECD]]）与教育规划学者 — 将教育定义为培养工程师与技术工人的生产性供给线，倡导跨国统计比较与国家中长期规划。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 540–541)]]
+> - **国家安全与科学建制派** 联邦国防部、国家科学基金会（[[National Science Foundation]]，NSF）、杰罗姆·布鲁纳（Jerome Bruner）与物理科学研究委员会（Physical Science Study Committee，PSSC）— 主张彻底废弃庸俗的生活适应教育，强推以学科结构与学术严谨性为导向的探究式课程改革。[[Argument_Amos_2022_Springer|(Amos, 2022, p. 56)]]
+> - **跨国技术官僚阵营** 欧洲经济合作组织与[[OECD|经合组织]]（OECD）教育规划学者 — 将教育定义为培养工程师与技术工人的生产性供给线，倡导跨国统计比较与国家中长期规划。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 540–541)]]
 > - **学术比较研究转型派** [[C. Arnold Anderson]] 与芝加哥比较教育中心学者 — 融合比较教育学与教育经济学，推动[[Positivism|实证主义]]与[[Human Capital Theory|人力资本]][[Paradigm|范式]]在全球南方扩散。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 422–423)]]
 > - **传统[[Progressive Education|进步主义教育]]阵营** 哥伦比亚大学[[Normal School|师范学院]]与公立学校初等教育工作者 — 受到社会舆论严厉问责，被斥为“导致美国落后于苏联”的罪魁祸首，其儿童中心与全面发展理念在中学阶段遭到严重压制。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 421)]]
 
@@ -108,7 +108,7 @@ updated: 2026-09-11
 >
 > | 维度 | 科学精英与国家安全派 | 进步主义与地方公立传统派 |
 > |:---|:---|:---|
-> | **核心诉求** | 强化 STEM、严苛分流、培养高精尖科技专才 | 促进儿童个性发展、社会融合、民主公民教育 |
+> | **核心诉求** | 强化科学、技术、工程与数学（Science, Technology, Engineering, and Mathematics，STEM）教育、严苛分流、培养高精尖科技专才 | 促进儿童个性发展、社会融合、民主公民教育 |
 > | **治理工具** | 联邦定向专项拨款（NDEA）、全国标准化统考、结构化课程 | 地方学区自治、生活技能综合课程、无竞争评价 |
 > | **合法化话语** | 冷战生存、地缘威慑与经济竞争能力 | 教育机会平等、民主生活方式与人格完整 |
 >
@@ -121,7 +121,7 @@ updated: 2026-09-11
 > [!indicators]- 历史影响维度
 > - **联邦集权与国家安全化** 彻底打破了美国联邦政府不干预地方教育事务的建制传统，将教育支出合法化为国家安全的不可或缺组成部分。[[Argument_Amos_2022_Springer|(Amos, 2022, p. 56)]]
 > - **课程现代化运动（Curriculum Modernization）** 催生了由大学科学家亲自领衔的“新数学”（New Math）与现代物理化学教材改革，直接催化了布鲁纳《教育过程》（1960）的诞生。
-> - **跨国规制组织与经济北约的诞生** 赋予[[OECD|经合组织]]介入教育政策的制度动力，促成了 1968 年教育研究与[[Innovation Hub|创新中心]]（CERI）、1988 年[[International Indicators of Education Systems|国际教育系统指标]]（INES）网络及后续 《[[Education at a Glance|教育概览]]》与 [[PISA]] 的诞生。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–543)]]
+> - **跨国规制组织与经济北约的诞生** 赋予[[OECD|经合组织]]（OECD）介入教育政策的制度动力，促成了 1968 年[[Centre for Educational Research and Innovation|经合组织教育研究与创新中心]]（Centre for Educational Research and Innovation，CERI）、1988 年[[International Indicators of Education Systems|国际教育系统指标]]（International Indicators of Education Systems，INES）项目及后续《[[Education at a Glance|教育概览]]》（Education at a Glance，EAG）与[[PISA|国际学生评估项目]]（Programme for International Student Assessment，PISA）的诞生。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–543)]]
 
 > [!finding-cards] 关键历史后果
 > - **知识与国家竞争力的刚性链条** 斯普特尼克冲击首次将“教育质量 $\rightarrow$ 科技人力 $\rightarrow$ 国家地缘竞争力”锻造为不可动摇的政策公理，成为现代[[Knowledge-Based Economy|知识经济]]与全球测评危机的历史原型。[[Argument_Amos_2022_Springer|(Amos, 2022, p. 56)]]

@@ -19024,6 +19024,17 @@
     ]
   },
   {
+    "title": "Centre for Educational Research and Innovation",
+    "type": "fact",
+    "path": "wiki/facts/global/Centre for Educational Research and Innovation.md",
+    "aliases": [
+      "CERI",
+      "教育研究与创新中心",
+      "经合组织教育研究与创新中心",
+      "OECD CERI"
+    ]
+  },
+  {
     "title": "Education International",
     "type": "fact",
     "path": "wiki/facts/global/Education International.md",
@@ -19232,6 +19243,8 @@
     "path": "wiki/facts/global/International Indicators of Education Systems.md",
     "aliases": [
       "国际教育系统指标",
+      "教育系统国际指标",
+      "教育系统国际指标项目",
       "INES",
       "国际教育指标项目",
       "国际教育指标体系",

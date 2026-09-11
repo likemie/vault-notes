@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "John Hattie",
-      "path": "wiki/persons/new-zealand/John Hattie.md"
+      "basename": "Human Capital Theory",
+      "path": "wiki/theories/political-economy-geopolitics/Human Capital Theory.md"
     },
     {
       "basename": "Argument_Steiner-Khamsi_2024_CE",
       "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Steiner-Khamsi_2024_CE.md"
+    },
+    {
+      "basename": "Centre for Educational Research and Innovation",
+      "path": "wiki/facts/global/Centre for Educational Research and Innovation.md"
+    },
+    {
+      "basename": "A Nation at Risk 1983",
+      "path": "wiki/facts/us/A Nation at Risk 1983.md"
+    },
+    {
+      "basename": "Critical Thinking Strategies Scale",
+      "path": "wiki/instruments/scales/Critical Thinking Strategies Scale.md"
+    },
+    {
+      "basename": "Exploratory Factor Analysis",
+      "path": "wiki/methods/quantitative/Exploratory Factor Analysis.md"
+    },
+    {
+      "basename": "Education at a Glance",
+      "path": "wiki/facts/global/Education at a Glance.md"
+    },
+    {
+      "basename": "John Hattie",
+      "path": "wiki/persons/new-zealand/John Hattie.md"
     },
     {
       "basename": "Randomised Controlled Trials",
@@ -21,16 +45,8 @@
       "path": "wiki/concepts/university-industry-collaboration/Return on Investment.md"
     },
     {
-      "basename": "Exploratory Factor Analysis",
-      "path": "wiki/methods/quantitative/Exploratory Factor Analysis.md"
-    },
-    {
       "basename": "Knowledge Production",
       "path": "wiki/concepts/university-industry-collaboration/Knowledge Production.md"
-    },
-    {
-      "basename": "Education at a Glance",
-      "path": "wiki/facts/global/Education at a Glance.md"
     },
     {
       "basename": "International Indicators of Education Systems",
@@ -39,10 +55,6 @@
     {
       "basename": "Sputnik Shock 1957",
       "path": "wiki/facts/us/Sputnik Shock 1957.md"
-    },
-    {
-      "basename": "Human Capital Theory",
-      "path": "wiki/theories/political-economy-geopolitics/Human Capital Theory.md"
     },
     {
       "basename": "Scientific Uncertainty",
@@ -187,18 +199,6 @@
     {
       "basename": "Grey_2018_CE",
       "path": "sources/Grey_2018_CE/Grey_2018_CE.md"
-    },
-    {
-      "basename": "Comparative Educations",
-      "path": "wiki/concepts/comparative-education/Comparative Educations.md"
-    },
-    {
-      "basename": "Argument_Zhang_2023_PHEI",
-      "path": "wiki/arguments/books/Zhang_2023_PHEI/Argument_Zhang_2023_PHEI.md"
-    },
-    {
-      "basename": "Argument_Bates_2017_CognitionEducationTrust",
-      "path": "wiki/arguments/books/Argument_Bates_2017_CognitionEducationTrust.md"
     }
   ],
   "omittedPaths": [],
