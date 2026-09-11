@@ -16,7 +16,6 @@ already have mature boundaries still live in their own scripts.
 """
 
 import argparse
-import datetime
 import os
 import re
 import subprocess
@@ -535,75 +534,6 @@ def yaml_string(value: str) -> str:
     return '"' + value.replace("\\", "\\\\").replace('"', '\\"') + '"'
 
 
-def set_frontmatter_value(raw_frontmatter: str, key: str, value: str, insert_after_patterns: list[str] | None = None) -> str:
-    lines = raw_frontmatter.rstrip("\n").splitlines()
-    found = False
-    new_lines = []
-    for line in lines:
-        if re.match(rf"^{re.escape(key)}:\s*", line):
-            new_lines.append(f"{key}: {value}")
-            found = True
-        else:
-            new_lines.append(line)
-    if not found:
-        insert_idx = None
-        if insert_after_patterns:
-            for pat in insert_after_patterns:
-                for idx, line in enumerate(new_lines):
-                    if re.match(pat, line):
-                        insert_idx = idx + 1
-                        break
-                if insert_idx is not None:
-                    break
-        if insert_idx is None:
-            insert_idx = len(new_lines)
-        new_lines.insert(insert_idx, f"{key}: {value}")
-    return "\n".join(new_lines).rstrip() + "\n"
-
-
-def format_person_lifespan(born: str, died: str, existing_lifespan: str) -> str:
-    born = str(born or "").strip()
-    died = str(died or "").strip()
-    existing_lifespan = str(existing_lifespan or "").strip()
-    if ";" in existing_lifespan or "；" in existing_lifespan:
-        return existing_lifespan
-    if not born:
-        return existing_lifespan
-    if "BCE" in born or "BCE" in died:
-        if died:
-            return f"{born} – {died}".strip(" –")
-        return born
-    if not died:
-        return f"{born}–至今"
-    return f"{born}–{died}"
-
-
-def infer_fact_subtype(body: str, current_subtype: str) -> str:
-    if current_subtype in {"policy", "organization", "event", "program"}:
-        return current_subtype
-    if "[!policy-context]" in body or "[!policy-impact]" in body:
-        return "policy"
-    if "[!org-profile]" in body or "[!org-structure]" in body:
-        return "organization"
-    if "[!program-profile]" in body or "[!program-design]" in body:
-        return "program"
-    if "[!timeline]" in body or "[!event-profile]" in body or "[!fact-timeline]" in body:
-        return "event"
-    return current_subtype or "unknown"
-
-
-FOLDER_TO_INSTRUMENT_TYPE = {
-    "checklists": "checklist",
-    "interview-tools": "interview-tool",
-    "inventories": "inventory",
-    "observation-tools": "observation-tool",
-    "questionnaires": "questionnaire",
-    "rubrics": "rubric",
-    "scales": "scale",
-    "tests": "test",
-}
-
-
 def upsert_concept_generated_fields(raw_frontmatter: str, fields: dict[str, Any]) -> str:
     lines = raw_frontmatter.replace("\n", "\n").rstrip("\n").splitlines()
     filtered: list[str] = []
@@ -667,9 +597,6 @@ def update_concept_base_fields(path: Path, dry_run: bool, check: bool) -> tuple[
     next_text = f"---\n{next_frontmatter}---\n{body}"
     changed = next_text != text
     if changed and not dry_run and not check:
-        today_str = datetime.date.today().isoformat()
-        next_frontmatter = set_frontmatter_value(next_frontmatter, "updated", today_str, [r"^created:\s*"])
-        next_text = f"---\n{next_frontmatter}---\n{body}"
         path.write_text(next_text, encoding="utf-8")
     return changed, (related_count, related_stars)
 
@@ -760,16 +687,7 @@ def update_instrument_base_fields(path: Path, dry_run: bool, check: bool) -> tup
     meta = parse_frontmatter(text)
     if meta.get("type") != "instrument":
         return False, None
-    try:
-        folder_type = path.relative_to(INSTRUMENTS_DIR).parts[0]
-    except (IndexError, ValueError):
-        folder_type = ""
-    expected_inst_type = FOLDER_TO_INSTRUMENT_TYPE.get(folder_type)
-    if expected_inst_type and str(meta.get("instrument_type") or "").strip() != expected_inst_type:
-        raw_frontmatter = set_frontmatter_value(raw_frontmatter, "instrument_type", expected_inst_type, [r"^type:\s*"])
-        kind = expected_inst_type
-    else:
-        kind = str(meta.get("instrument_type") or "unknown").strip() or "unknown"
+    kind = str(meta.get("instrument_type") or "unknown").strip() or "unknown"
     related_count = count_related_fields(meta)
     related_level, related_stars = instrument_stars_for(related_count)
     next_frontmatter = upsert_instrument_generated_fields(raw_frontmatter, {
@@ -781,9 +699,6 @@ def update_instrument_base_fields(path: Path, dry_run: bool, check: bool) -> tup
     next_text = f"---\n{next_frontmatter}---\n{body}"
     changed = next_text != text
     if changed and not dry_run and not check:
-        today_str = datetime.date.today().isoformat()
-        next_frontmatter = set_frontmatter_value(next_frontmatter, "updated", today_str, [r"^created:\s*"])
-        next_text = f"---\n{next_frontmatter}---\n{body}"
         path.write_text(next_text, encoding="utf-8")
     return changed, (related_count, related_stars)
 
@@ -879,15 +794,7 @@ def update_method_base_fields(path: Path, dry_run: bool, check: bool) -> tuple[b
     meta = parse_frontmatter(text)
     if meta.get("type") != "method":
         return False, None
-    try:
-        folder_type = path.relative_to(METHODS_DIR).parts[0]
-    except (IndexError, ValueError):
-        folder_type = ""
-    if folder_type in ("qualitative", "quantitative", "mixed") and str(meta.get("method_type") or "").strip() != folder_type:
-        raw_frontmatter = set_frontmatter_value(raw_frontmatter, "method_type", folder_type, [r"^type:\s*"])
-        family = folder_type
-    else:
-        family = method_family_for(path, meta)
+    family = method_family_for(path, meta)
     related_count = count_related_fields(meta)
     related_level, related_stars = method_stars_for(related_count)
     next_frontmatter = upsert_method_generated_fields(raw_frontmatter, {
@@ -900,9 +807,6 @@ def update_method_base_fields(path: Path, dry_run: bool, check: bool) -> tuple[b
     next_text = f"---\n{next_frontmatter}---\n{body}"
     changed = next_text != text
     if changed and not dry_run and not check:
-        today_str = datetime.date.today().isoformat()
-        next_frontmatter = set_frontmatter_value(next_frontmatter, "updated", today_str, [r"^created:\s*"])
-        next_text = f"---\n{next_frontmatter}---\n{body}"
         path.write_text(next_text, encoding="utf-8")
     return changed, (related_count, related_stars)
 
@@ -1006,9 +910,6 @@ def update_theory_base_fields(path: Path, dry_run: bool, check: bool) -> tuple[b
     next_text = f"---\n{next_frontmatter}---\n{body}"
     changed = next_text != text
     if changed and not dry_run and not check:
-        today_str = datetime.date.today().isoformat()
-        next_frontmatter = set_frontmatter_value(next_frontmatter, "updated", today_str, [r"^created:\s*"])
-        next_text = f"---\n{next_frontmatter}---\n{body}"
         path.write_text(next_text, encoding="utf-8")
     return changed, (related_count, related_stars)
 
@@ -1117,26 +1018,8 @@ def update_fact_base_fields(path: Path, dry_run: bool, check: bool) -> tuple[boo
     meta = parse_frontmatter(text)
     if meta.get("type") != "fact":
         return False, None
-    try:
-        folder_region = path.relative_to(FACTS_DIR).parts[0]
-    except (IndexError, ValueError):
-        folder_region = ""
-
-    current_region = str(meta.get("region") or "").strip()
-    if folder_region and current_region != folder_region:
-        raw_frontmatter = set_frontmatter_value(raw_frontmatter, "region", folder_region, [r"^subtype:\s*", r"^type:\s*"])
-        region = folder_region
-    else:
-        region = fact_region_for(path, meta)
-
-    current_subtype = str(meta.get("subtype") or "").strip()
-    inferred_subtype = infer_fact_subtype(body, current_subtype)
-    if inferred_subtype in {"policy", "organization", "event", "program"} and current_subtype != inferred_subtype:
-        raw_frontmatter = set_frontmatter_value(raw_frontmatter, "subtype", inferred_subtype, [r"^type:\s*"])
-        kind = inferred_subtype
-    else:
-        kind = fact_kind_for(meta)
-
+    region = fact_region_for(path, meta)
+    kind = fact_kind_for(meta)
     related_count = count_related_fields(meta)
     related_level, related_stars = fact_stars_for(related_count)
     next_frontmatter = upsert_fact_generated_fields(raw_frontmatter, {
@@ -1150,9 +1033,6 @@ def update_fact_base_fields(path: Path, dry_run: bool, check: bool) -> tuple[boo
     next_text = f"---\n{next_frontmatter}---\n{body}"
     changed = next_text != text
     if changed and not dry_run and not check:
-        today_str = datetime.date.today().isoformat()
-        next_frontmatter = set_frontmatter_value(next_frontmatter, "updated", today_str, [r"^created:\s*"])
-        next_text = f"---\n{next_frontmatter}---\n{body}"
         path.write_text(next_text, encoding="utf-8")
     return changed, (related_count, related_stars)
 
@@ -1248,32 +1128,7 @@ def update_person_base_fields(path: Path, dry_run: bool, check: bool) -> tuple[b
     meta = parse_frontmatter(text)
     if meta.get("type") != "person":
         return False, None
-    try:
-        folder_nat = path.relative_to(PERSONS_DIR).parts[0]
-    except (IndexError, ValueError):
-        folder_nat = ""
-
-    current_nat = str(meta.get("nationality") or "").strip()
-    if folder_nat and current_nat != folder_nat:
-        raw_frontmatter = set_frontmatter_value(raw_frontmatter, "nationality", folder_nat, [r"^type:\s*"])
-        region = folder_nat
-    else:
-        region = person_region_for(path, meta)
-
-    born = meta.get("born")
-    died = meta.get("died")
-    existing_lifespan = meta.get("lifespan")
-    expected_lifespan = format_person_lifespan(str(born or ""), str(died or ""), str(existing_lifespan or ""))
-    if expected_lifespan and str(existing_lifespan or "").strip() != expected_lifespan:
-        lifespan_val = yaml_string(expected_lifespan) if (" " in expected_lifespan or "–" in expected_lifespan) else expected_lifespan
-        raw_frontmatter = set_frontmatter_value(raw_frontmatter, "lifespan", lifespan_val, [r"^died:\s*", r"^born:\s*", r"^nationality:\s*"])
-
-    if expected_lifespan:
-        def _replace_body_lifespan(match: re.Match[str]) -> str:
-            prefix = match.group(1).rstrip()
-            return f"{prefix} {expected_lifespan}"
-        body = re.sub(r"(>\s*-\s*\*\*生卒年份\*\*)(?:[^\n]*)", _replace_body_lifespan, body, count=1)
-
+    region = person_region_for(path, meta)
     related_count = count_related_fields(meta)
     related_level, related_stars = person_stars_for(related_count)
     next_frontmatter = upsert_person_generated_fields(raw_frontmatter, {
@@ -1286,9 +1141,6 @@ def update_person_base_fields(path: Path, dry_run: bool, check: bool) -> tuple[b
     next_text = f"---\n{next_frontmatter}---\n{body}"
     changed = next_text != text
     if changed and not dry_run and not check:
-        today_str = datetime.date.today().isoformat()
-        next_frontmatter = set_frontmatter_value(next_frontmatter, "updated", today_str, [r"^created:\s*"])
-        next_text = f"---\n{next_frontmatter}---\n{body}"
         path.write_text(next_text, encoding="utf-8")
     return changed, (related_count, related_stars)
 

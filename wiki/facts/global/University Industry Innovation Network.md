@@ -6,6 +6,7 @@ aliases:
 summary: "致力于推动产学创新合作的国际网络组织，出版 University Industry Innovation Magazine，2021 年战略伙伴关系特刊总结了产学战略联盟的核心特征"
 type: fact
 subtype: organization
+region: global
 fact_region: "global"
 fact_kind: "organization"
 fact_related_count: 8
@@ -33,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-28
-updated: 2026-05-28
+updated: 2026-09-11
 ---
 
 # University Industry Innovation Network

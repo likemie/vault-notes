@@ -7,6 +7,7 @@ aliases:
 summary: "由诺贝尔大会在卡罗林斯卡学院颁发的年度奖项，最多可授予三人，是世界上最令人向往的科学奖项之一"
 type: fact
 subtype: event
+region: global
 fact_region: "global"
 fact_kind: "event"
 fact_related_count: 3
@@ -29,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-07
-updated: 2026-06-07
+updated: 2026-09-11
 ---
 
 # Nobel Prize in Physiology or Medicine

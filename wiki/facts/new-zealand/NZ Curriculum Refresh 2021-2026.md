@@ -8,6 +8,7 @@ aliases:
 summary: "新西兰 2021 年启动的课程改革，从结果导向课程转向进步导向课程，使用理解-知道-做（UKD）框架，计划 2026 年完成"
 type: fact
 subtype: policy
+region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "policy"
 fact_related_count: 12
@@ -40,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: 2026-06-06
+updated: 2026-09-11
 ---
 
 # NZ Curriculum Refresh 2021-2026

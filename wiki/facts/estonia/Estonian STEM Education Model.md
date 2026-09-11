@@ -8,8 +8,8 @@ aliases:
 summary: "爱沙尼亚在国际教育测评（PISA）中表现卓越的科学教育体系，其核心在于依托宽广的国家课程框架，赋予学校与教师高度的教学专业自主权与课程创新空间。"
 type: fact
 subtype: program
-region: multi
-fact_region: "multi"
+region: estonia
+fact_region: "estonia"
 fact_kind: "program"
 fact_related_count: 6
 fact_related_level: 0
@@ -38,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-08-23
+updated: 2026-09-11
 ---
 
 # Estonian STEM Education Model

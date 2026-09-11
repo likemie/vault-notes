@@ -6,6 +6,7 @@ aliases:
 summary: "由大学企业关系专业人员组成的行业组织，通过发布白皮书和立场文件推动产学合作最佳实践，2011 年提出二十世纪大学企业关系项目的五项基本要素"
 type: fact
 subtype: organization
+region: global
 fact_region: "global"
 fact_kind: "organization"
 fact_related_count: 5
@@ -30,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-28
-updated: 2026-05-28
+updated: 2026-09-11
 ---
 
 # Network of Academic Corporate Relations Officers

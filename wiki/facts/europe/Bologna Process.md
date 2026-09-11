@@ -7,6 +7,7 @@ aliases:
 summary: "1999年由29个欧洲国家发起的高等教育改革进程，旨在建立可比较的学位体系、学分转换制度和统一质量保障框架，是欧洲区域高等教育治理的标志性事件。"
 type: fact
 subtype: event
+region: europe
 fact_region: "europe"
 fact_kind: "event"
 fact_related_count: 2
@@ -31,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-29
-updated: 2026-06-29
+updated: 2026-09-11
 ---
 
 # Bologna Process

@@ -6,8 +6,8 @@ aliases:
 summary: "由 Clark Chinn 与 Ravit Duncan 等人主持的美国国家科学基金会资助项目，旨在开发以模型为中心的初中科学探究课程与认知脚手架，促进学生的认识论认知与概念转变。"
 type: fact
 subtype: event
-region: "美国"
-fact_region: "美国"
+region: us
+fact_region: "us"
 fact_kind: "event"
 fact_related_count: 17
 fact_related_level: 2
@@ -20,7 +20,6 @@ tags:
 related_concepts:
   - "[[Epistemology]]"
   - "[[Epistemic Cognition]]"
-  - "[[Transcription in Qualitative Research]]"
   - "[[Epistemic Ideals]]"
   - "[[Reliable Epistemic Processes]]"
   - "[[Paradigm]]"
@@ -33,6 +32,7 @@ related_theories:
   - "[[AIR Model of Epistemic Cognition]]"
 related_methods:
   - "[[Intervention Research]]"
+  - "[[Transcription in Qualitative Research]]"
 related_instruments:
   - "[[Model-Evidence-Link Matrix]]"
 related_persons:
@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-10
-updated: 2026-09-10
+updated: 2026-09-11
 ---
 
 # PRACCIS

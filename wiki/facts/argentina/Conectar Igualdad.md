@@ -7,6 +7,7 @@ aliases:
 summary: "阿根廷 2010 年启动的每童一电脑项目，到 2014 年部署 380 万台电脑，是行动者网络理论分析教育权力关系的典型案例"
 type: fact
 subtype: program
+region: argentina
 fact_region: "argentina"
 fact_kind: "program"
 fact_related_count: 3
@@ -18,11 +19,11 @@ tags:
   - level/k12
   - policy/technology
   - theme/educational-technology
-related_concepts:
-  - "[[Analytic Framework]]"
+related_concepts: []
 related_theories:
   - "[[Actor-Network Theory]]"
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -30,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-07
-updated: 2026-06-07
+updated: 2026-09-11
 ---
 
 # Conectar Igualdad

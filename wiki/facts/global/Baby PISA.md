@@ -1,13 +1,14 @@
 ---
 title: Baby PISA
 aliases:
-  - 婴儿 PISA
-  - Baby PISA
+  - IELS
   - International Early Learning and Child Wellbeing Study
   - 国际早期学习和儿童福祉研究
+  - 国际早期学习与儿童福祉研究
 summary: "OECD 发起的国际早期学习和儿童福祉研究，旨在以 PISA 评估 15 岁学生的方式评估 5 岁儿童，是 PISA 企业向学前教育扩张的标志"
 type: fact
 subtype: program
+region: global
 fact_region: "global"
 fact_kind: "program"
 fact_related_count: 3
@@ -30,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: 2026-06-06
+updated: 2026-09-11
 ---
 
 # Baby PISA
