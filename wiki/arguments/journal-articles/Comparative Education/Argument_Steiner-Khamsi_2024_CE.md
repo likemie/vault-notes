@@ -22,12 +22,14 @@ tags:
 related_concepts:
   - "[[Policy Brokerage]]"
   - "[[Global Education Governing Complex]]"
+  - "[[Soft Power by Hard Facts]]"
   - "[[Governing by Numbers]]"
   - "[[Methodological Transnationalism]]"
   - "[[Relational Space]]"
   - "[[Paradigm]]"
   - "[[Knowledge Production]]"
   - "[[Methodological Nationalism]]"
+  - "[[Externalization]]"
   - "[[Research Utilization]]"
   - "[[Construct]]"
   - "[[Epistemology]]"
@@ -41,15 +43,14 @@ related_concepts:
   - "[[Technology Deficit of Education]]"
   - "[[Return on Investment]]"
   - "[[Transfer Space]]"
-  - "[[Externalization]]"
   - "[[Attrition]]"
   - "[[Hypothesis]]"
-  - "[[Soft Power]]"
   - "[[Research Question]]"
   - "[[Unit of Analysis]]"
 related_theories:
-  - "[[Human Capital Theory]]"
+  - "[[Two-Communities Theory]]"
   - "[[Knowledge-to-Action Models]]"
+  - "[[Human Capital Theory]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Historical-Comparative Method]]"
@@ -61,16 +62,19 @@ related_persons:
   - "[[John Hattie]]"
 related_facts:
   - "[[OECD]]"
+  - "[[Global Partnership for Education]]"
   - "[[Sputnik Shock 1957]]"
   - "[[Centre for Educational Research and Innovation]]"
   - "[[A Nation at Risk 1983]]"
   - "[[International Indicators of Education Systems]]"
   - "[[Education at a Glance]]"
   - "[[PISA]]"
+  - "[[Global Development Network]]"
   - "[[International Institute for Educational Planning]]"
   - "[[Common School Movement]]"
   - "[[UN Sustainable Development Goals]]"
   - "[[World Education Reform Database]]"
+  - "[[Definition and Selection of Competencies]]"
 related_arguments: []
 sources:
   - "[[sources/Steiner-Khamsi_2024_CE/Steiner-Khamsi_2024_CE|Steiner-Khamsi_2024_CE]]"
@@ -85,7 +89,7 @@ title: "Argument_Steiner-Khamsi_2024_CE"
 argument_key: "Argument_Steiner-Khamsi_2024_CE"
 argument_display_title: "Governance by numbers 2.0: policy brokerage as an instrument of global governance in the era of information overload"
 argument_kind: "journal-article"
-argument_related_count: 46
+argument_related_count: 50
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -102,10 +106,10 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> 在数字经济催生研究证据严重过剩与信息孤岛林立的时代，更多知识不仅未能消除政策制定的盲区，反而加剧了政策复杂性。在这一生态背景下，作为依托知识开展规制的两大先行机构——[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD，简称经合组织）与世界银行（World Bank），是如何以及何时将[[Policy Brokerage|政策中介]]（Policy Brokerage）建构为教育领域全球治理的核心工具？由五大国际组织、跨国教育资本与私人慈善基金会构成的[[Global Education Governing Complex|全球教育治理复合体]]如何以硬事实施展软权力？作为主要政策对象的各国政府又如何在政策周期的不同阶段策略性动员或严苛过滤这些中介证据？（pp.537–539）
+> 在数字经济催生研究证据严重过剩与信息孤岛林立的时代，更多知识不仅未能消除政策制定的盲区，反而加剧了政策复杂性。在这一生态背景下，作为依托知识开展规制的两大先行机构——[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD，简称经合组织）与世界银行（World Bank），是如何以及何时将[[Policy Brokerage|政策中介]]（Policy Brokerage）建构为教育领域全球治理的核心工具？由五大国际组织、跨国教育资本与私人慈善基金会构成的[[Global Education Governing Complex|全球教育治理复合体]]如何[[Soft Power by Hard Facts|以硬事实施展软权力]]？作为主要政策对象的各国政府又如何在政策周期的不同阶段策略性动员或严苛过滤这些中介证据？（pp.537–539）
 
 > [!claim] 核心主张
-> 信息过载与知识过剩为中介机构选择性提取并包装政策证据滋生了空间；国际组织通过将核心评测工具与差异化知识产品打包，以硬事实施展软权力，借此巩固自身的组织利基；必须确立基于多学科视角的[[Governing by Numbers|数字治理]] 2.0比较研究纲领，依托[[Methodological Transnationalism|方法论跨国主义]]将全球与国家视作相互依存的[[Relational Space|关系性空间]]，揭示国家行动者在政策议程设置阶段对外在权威的工具性动员与在法定决策出台阶段的深度政治过滤。（pp.538–540, 547–549）
+> 信息过载与知识过剩为中介机构选择性提取并包装政策证据滋生了空间；国际组织通过将核心评测工具与差异化知识产品打包，[[Soft Power by Hard Facts|以硬事实施展软权力]]，借此巩固自身的组织利基；必须确立基于多学科视角的[[Governing by Numbers|数字治理]] 2.0比较研究纲领，依托[[Methodological Transnationalism|方法论跨国主义]]将全球与国家视作相互依存的[[Relational Space|关系性空间]]，揭示国家行动者在政策议程设置阶段对外在权威的工具性动员与在法定决策出台阶段的深度政治过滤。（pp.538–540, 547–549）
 
 > [!concept-lens] 阅读透镜
 > - **对象** 过去五十年间经合组织、世界银行等国际组织在全球教育治理中的工具演化，以及北欧等国中央政府在政策周期中对跨国证据的使用机制。
@@ -119,14 +123,14 @@ issuing_organization: ""
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **[[Policy Brokerage\|政策中介理论（Policy Brokerage）]]** | 发轫于两个群体理论（Caplan, 1979）与边界跨越研究（Mackillop et al., 2019）；阐明当国际组织将[[Knowledge Production\|知识生产]]、方案推介与项目资助融为一体时，中立的知识中介便转变为服务于特定政治议程的政策中介，并在充满歧义、争议与不确定性的决策环境中，通过量化指标确立权威。（pp.538–540） |
-> | **[[Global Education Governing Complex\|全球教育治理复合体（Global Education Governing Complex）]]** | Christian Ydesen (2019) 提出、结合 Niemann & Martens (2018) 以硬事实施展软权力的论断，指涉由全球教育伙伴关系（Global Partnership for Education，GPE）、[[OECD\|经合组织]]（OECD）、联合国教育、科学及文化组织（United Nations Educational, Scientific and Cultural Organization，UNESCO，简称联合国教科文组织）、联合国儿童基金会（United Nations Children's Fund，UNICEF）与世界银行五大组织，连同私人基金会与商业资本共同构成的跨国规制网络，揭示非教育专门机构跨界掌控教育治理的结构根源。（pp.539, 544） |
+> | **[[Policy Brokerage\|政策中介理论（Policy Brokerage）]]** | 发轫于[[Two-Communities Theory\|两社区理论]]（Caplan, 1979）与边界跨越研究（Mackillop et al., 2019）；阐明当国际组织将[[Knowledge Production\|知识生产]]、方案推介与项目资助融为一体时，中立的知识中介便转变为服务于特定政治议程的政策中介，并在充满歧义、争议与不确定性的决策环境中，通过量化指标确立权威。（pp.538–540） |
+> | **[[Global Education Governing Complex\|全球教育治理复合体（Global Education Governing Complex）]]** | Christian Ydesen (2019) 提出、结合 Niemann & Martens (2018) [[Soft Power by Hard Facts\|以硬事实施展软权力]]的论断，指涉由[[Global Partnership for Education\|全球教育伙伴关系]]（Global Partnership for Education，GPE）、[[OECD\|经合组织]]（OECD）、联合国教育、科学及文化组织（United Nations Educational, Scientific and Cultural Organization，UNESCO，简称联合国教科文组织）、联合国儿童基金会（United Nations Children's Fund，UNICEF）与世界银行五大组织，连同私人基金会与商业资本共同构成的跨国规制网络，揭示非教育专门机构跨界掌控教育治理的结构根源。（pp.539, 544） |
 > | **[[Methodological Transnationalism\|方法论跨国主义（Methodological Transnationalism）]]** | Diane Stone (2020) 范式，打破将国家视为孤立容器的[[Methodological Nationalism\|方法论民族主义]]与线性等级霸权模型，将全球与国家界定为相互依存的关系性空间。（p.540） |
-> | **系统论外在化假说（Externalisation Thesis）** | [[Niklas Luhmann\|卢曼]]（Niklas Luhmann）与施里弗（Jürgen Schriewer）的社会学系统理论概念，解释本土教育系统如何在内部构建准外部参考点，以化解国内政治冲突并维系系统自身的运作合法性与自我再生产。（p.546） |
-> | **知识向行动转化三代模型（Knowledge-to-Action，KTA）** | Best & Holmes (2010) 模型，区分单向传播推送、关系共建与系统程序生态三代视角，为考察政策周期不同阶段的[[Research Utilization\|证据使用]]提供[[Analytic Framework\|分析框架]]。（p.547） |
+> | **[[Externalization\|系统论外化假说（Externalisation Thesis）]]** | [[Niklas Luhmann\|卢曼]]（Niklas Luhmann）与施里弗（Jürgen Schriewer）的社会学系统理论概念，解释本土教育系统如何在内部构建准外部参考点，以化解国内政治冲突并维系系统自身的运作合法性与自我再生产。（p.546） |
+> | **[[Knowledge-to-Action Models\|知识-行动转化三代模型（Knowledge-to-Action，KTA）]]** | Best & Holmes (2010) 模型，区分单向传播推送、关系共建与系统程序生态三代视角，为考察政策周期不同阶段的[[Research Utilization\|证据使用]]提供[[Analytic Framework\|分析框架]]。（p.547） |
 
 > [!warrant]- 理论如何支撑论证
-> 上述理论工具共同搭建起多学科融合的阐释支架：政策中介理论与全球教育治理复合体[[Construct|构念]]从政治学和国际关系维度，揭示了国际组织以硬事实施展软权力的供给侧逻辑；方法论跨国主义从[[Epistemology|认识论]]层面确立了全球与国家相互交织的关系性分析基底；系统论外在化假说与政策周期程序模型则从比较政策研究维度，精准解释了主权国家在需求侧如何策略性动员并过滤外部证据。（pp.539–541, 546–548）
+> 上述理论工具共同搭建起多学科融合的阐释支架：政策中介理论与全球教育治理复合体[[Construct|构念]]从政治学和国际关系维度，揭示了国际组织[[Soft Power by Hard Facts|以硬事实施展软权力]]的供给侧逻辑；方法论跨国主义从[[Epistemology|认识论]]层面确立了全球与国家相互交织的关系性分析基底；系统论外化假说与政策周期程序模型则从比较政策研究维度，精准解释了主权国家在需求侧如何策略性动员并过滤外部证据。（pp.539–541, 546–548）
 
 ---
 
@@ -234,8 +238,8 @@ issuing_organization: ""
 
 世界银行通过系统资助教育[[Return on Investment|投资回报]]率测算，建立起庞大的应用政策研究体系，为其直接干预借贷国的教育体制奠定了技术合法性。（pp.542, 548）
 
-> [!case] 世界银行全球发展网络（GDN）从本土去中心化转向总部集权的演变案例
-> - **转型为“知识银行”的制度承诺** 1990 年代世界银行加速拓展教育研究职能，于 1999 年发起设立全球发展网络（Global Development Network，GDN），承诺支持借贷国本土层面的知识生产与循证决策，改变华盛顿总部对政策知识的单向垄断。（Stone, 2000; p.543）
+> [!case] 世界银行[[Global Development Network|全球发展网络（GDN）]]从本土去中心化转向总部集权的演变案例
+> - **转型为“知识银行”的制度承诺** 1990 年代世界银行加速拓展教育研究职能，于 1999 年发起设立[[Global Development Network|全球发展网络]]（Global Development Network，GDN），承诺支持借贷国本土层面的知识生产与循证决策，改变华盛顿总部对政策知识的单向垄断。（Stone, 2000; p.543）
 > - **去中心化构想的迅速流产** 这一旨在激活国别本土智库与学术机构的去中心化倡议很快丧失势头，被世界银行随后推行的大量总部集中管理项目（如教育成果系统评估法 SABER）彻底边缘化并取代。
 > - **本土专家的工具化降格** 跨国大型数据库的设计与维护权牢牢保留在华盛顿总部手中，借贷国的本土学者与国家专家并未获得实质性研究主导权，沦为仅负责为总部数据库搜集、填报指标并提供语篇翻译的基层信息员。
 > - **60 年回报率实证帝国的规制底色** 伴随这一集权过程，世界银行系统构建起庞大的应用政策研究体系；Psacharopoulos 与 Patrinos（2018）对 60 年教育投资回报率研究的系统综述显示，该数据库累计涵盖 139 个国家的 1,120 项估算，为世行脱离联合国教科文组织、以贷款附加条件深度干预借贷国教育体制提供了自给自足的数据霸权。（p.548）
@@ -295,14 +299,14 @@ issuing_organization: ""
 > |---|---|---|---|---|
 > | **[[OECD\|经合组织（OECD）]]** | **[[PISA]]**（国际学生评估项目）及其衍生产品矩阵（TALIS、PIAAC、PISA-D） | 国别同行评议（Peer Reviews）、《教育概览》（Education at a Glance，EAG）、教育政策展望（Education Policy Outlook）、教育 GPS 数字平台 | **外向型国别横向对照（Outward-looking cross-national referencing）**<br>[[World Education Reform Database|世界教育改革数据库]]（World Education Reform Database，WERD）实证表明，其报告高度依赖对其他成员国具体改革经验的交叉引证，将跨国横向比较作为提升教育质量的核心引擎。（Seitzer et al., 2023; pp.544–545） | 以软法（Soft Law）、指标排序与“命名与羞辱”实施远程规制；依托非成员国测验扩张与盖茨等私人基金会资助，构建全球比较帝国。 |
 > | **世界银行（World Bank）** | **贷款与赠款附加条件**、教育成果系统评估法（Systems Approach for Better Education Results，SABER）、[[Randomised Controlled Trials\|随机对照试验]]（RCTs） | 集中化最佳实践政策仓库（Warehousing of Good Practices）、世界发展指标库（WDI）教育指标集、减贫战略文件（PRSPs） | **自指性内部实践闭环（Self-referential lesson-drawing）**<br>[[World Education Reform Database|WERD]] 实证显示其报告呈现高度自指特征，反复重复自身 SABER 评估指标库与既往内部项目组合，依靠教育回报率经济学测算推销统一定制处方。（pp.544–545） | 依托雄厚资金实力与管理主义科学效率实施结构调整规制；联合英国外交、联邦及发展事务部（FCDO）与美国国际开发署（USAID）成立排他性的“构建教育证据联盟”（BE2）。 |
-> | **全球教育伙伴关系（GPE）** | **多方资金配置与联合部门审查（Joint Sector Reviews）**、国家教育计划（ESP）赠款协同 | 知识与创新交流机制（Knowledge and Innovation Exchange，KIX），在发展中国家设立 4 大区域知识中介枢纽（Regional Hubs） | **区域化同侪经验交流（Regional peer exchange）**<br>促进全球南方国家在区域内部进行横向同侪互学与适应性经验转移，但在议程设定与资金分配上深度受制于核心出资国的战略偏好。 | 名义上为多利益相关者治理，实质由西方核心捐助国主导；通过 KIX 区域枢纽将中介触角直接嵌入发展中国家教育部行政体系。 |
+> | **[[Global Partnership for Education\|全球教育伙伴关系（GPE）]]** | **多方资金配置与联合部门审查（Joint Sector Reviews）**、国家教育计划（ESP）赠款协同 | 知识与创新交流机制（Knowledge and Innovation Exchange，KIX），在发展中国家设立 4 大区域知识中介枢纽（Regional Hubs） | **区域化同侪经验交流（Regional peer exchange）**<br>促进全球南方国家在区域内部进行横向同侪互学与适应性经验转移，但在议程设定与资金分配上深度受制于核心出资国的战略偏好。 | 名义上为多利益相关者治理，实质由西方核心捐助国主导；通过 KIX 区域枢纽将中介触角直接嵌入发展中国家教育部行政体系。 |
 > | **联合国教科文组织（UNESCO）** | **国际公约与规范性框架制定**、《全球教育监测报告》（Global Education Monitoring Report，GEMR）、统计研究所（UIS）监测 | 联合国[[UN Sustainable Development Goals\|可持续发展目标]]（SDGs）中第四项教育目标（SDG 4）全球监测架构、国际教育规划研究所（IIEP）技术援助 | **规范性人权与受教育权倡导（Normative rights-based lesson-drawing）**<br>坚守人文主义教育哲学与受教育权基石，强调包容性、终身学习与社会公正，抵制将教育过度还原为人力资本与经济回报率的技术官僚倾向。（pp.541–545） | 依托联合国多边合法性与道德威权；与联合国儿童基金会联合设立“学习数据协定”（Learning Data Compact），在跨国监测主导权上与世行体系形成制衡。 |
 > | **联合国儿童基金会（UNICEF）** | **多指标聚类调查（Multiple Indicator Cluster Surveys，MICS）**、新兴前沿政策议题开拓（如社会情感学习 SEL、儿童早期发展 ECD） | 女童教育与危机情境教育干预方案、儿童心理社会支持工具箱、实地人道主义救援与发展合作衔接网络 | **实地情境化儿童权利保护（Field-based child-centric lesson-drawing）**<br>聚焦最边缘化与弱势儿童群体，以实地第一手调查为证据底色，率先将社会情感学习（SEL）推向全球政策议程。 | 深入战乱与贫困第一线的实地执行网络；其开辟的 SEL 等新兴蓝海议题迅速引发经合组织与教科文组织跨界跟进与规制话语权争夺。 |
 
 > [!case] 联合国儿童基金会开辟社会情感学习（SEL）引发的组织利基争夺案例
 > - **开辟未受关注的新兴政策优先事项** 在全球教育规制市场高度拥挤的背景下，国际组织竞相寻找未被开发的全新政策领域以确立比较优势；联合国儿童基金会率先将社会情感学习（Social-Emotional Learning，SEL）推向全球政策议程，开辟出自身专属的政策中介蓝海。
 > - **两大巨头的跨界跟进与空间挤压** 一旦 SEL 的政策号召力与规制潜力得到验证，经合组织与联合国教科文组织迅速跨界介入该领域，相继推出各自的社会情感能力测验与监测框架，直接挤压儿童基金会的先发利基。
-> - **对私人慈善基金会有限资源的零和争夺** 这一利基争夺的背后是多边机构对非传统资金的依赖加深；五大多边机构（世行、经合组织、教科文组织、儿童基金会、全球教育伙伴关系）不仅在地理空间上因经合组织 PISA 扩展至非成员国而高度重叠，更在比尔及梅琳达·盖茨基金会（Bill & Melinda Gates Foundation）、惠普基金会、乐高基金会等私人慈善资本的赠款竞争中短兵相接。（p.545）
+> - **对私人慈善基金会有限资源的零和争夺** 这一利基争夺的背后是多边机构对非传统资金的依赖加深；五大多边机构（世行、经合组织、教科文组织、儿童基金会、[[Global Partnership for Education|全球教育伙伴关系]]）不仅在地理空间上因经合组织 PISA 扩展至非成员国而高度重叠，更在比尔及梅琳达·盖茨基金会（Bill & Melinda Gates Foundation）、惠普基金会、乐高基金会等私人慈善资本的赠款竞争中短兵相接。（p.545）
 > - **制度启示** 表面上的跨国数据共享与多边协作网络并未消除竞争，各大组织在规范设定权与外部资金的双重压力下，始终处于动态的领地防守与利基抢占博弈之中。
 
 尽管各大组织在公开修辞中普遍倡导多边协作，并在数字平台上提供免费数据与研讨资源，但在争夺私人基金会资助与核心规制话语权时，却表现出深刻的排他性结盟倾向。（pp.545–546）
@@ -355,7 +359,7 @@ issuing_organization: ""
 > - **北欧五国跨国比较设计与制度背景** 一项涵盖丹麦、芬兰、冰岛、挪威与瑞典的五国实证研究，系统追踪了政府任命的专家委员会所使用的研究证据与教育部在最终行政法令中所引文献的对应关系；挪威与瑞典均拥有高度制度化的法定政策咨询体系，由政府正式任命专家专门委员会为政策草案提供学理依据。（Steiner-Khamsi et al., 2022; p.547）
 > - **令人意外的行政引文脱节** 实证发现，两国教育部在颁布正式行政法令时，极少直接采纳各自专家委员会咨询报告中详列的学术文献，而是另起炉灶、引用另一套完全不同的研究证据为既定决策提供合法性辩护。（Steiner-Khamsi et al., 2022; pp.547–548）
 > - **挪威能力改革中的极端损耗率** 以挪威能力导向课程改革为例，5 个专家委员会在咨询报告中累计罗列了 **464 篇参考[[Document|文献]]**，营造出充分吸纳循证研究的科学姿态；然而教育部最终出台的行政法令仅引用了 **22 篇参考文献**，文献损耗率高达 95.3%。（pp.547–548）
-> - **经合组织的压倒性权重与学术明星的边缘化** 在这仅存的 22 篇法令引文中，整整 **20 篇**全部出自专门负责审查经合组织能力界定与选择（DeSeCo）项目的同一个委员会；这不仅证明各专家委员会在政治天平上的分量极不均等，更证实经合组织作为政策中介的穿透力压倒了包括[[John Hattie|约翰·哈蒂]]（John Hattie）在内的个体学术明星。（p.548）
+> - **经合组织的压倒性权重与学术明星的边缘化** 在这仅存的 22 篇法令引文中，整整 **20 篇**全部出自专门负责审查经合组织[[Definition and Selection of Competencies|能力界定与选择（DeSeCo）项目]]的同一个委员会；这不仅证明各专家委员会在政治天平上的分量极不均等，更证实经合组织作为政策中介的穿透力压倒了包括[[John Hattie|约翰·哈蒂]]（John Hattie）在内的个体学术明星。（p.548）
 > - **行政官僚对证据的终极政治主权** 挪威与瑞典的实证共同确证，即便在循证咨询传统最为成熟的北欧国家，行政决策中枢依然牢牢掌握着证据准入与否的终审权；外部政策中介所生产的知识，必须经受本土政治逻辑与执政偏好的严酷筛选。
 
 这一实证过程完整揭示了外部知识在政策周期各阶段所经历的层层筛选与政治转化机制。（pp.547–548）
@@ -380,7 +384,7 @@ issuing_organization: ""
 > - **33.3%** 截至 2023 年，在参与全球教育事务的 30 个政府间组织中，原本旨在协调国际经济合作的经济组织占比达到三分之一。（p.544）
 > - **1,600 项** 世界银行[[Performance Indicators|教育指标]]库规模从 1989 年 4 月的 116 项激增至 2018 年 10 月的 1,600 项。（p.542）
 > - **1,120 项** Psacharopoulos 与 Patrinos（2018）在 60 年教育回报率回顾中调用的世界银行数据库涵盖了 139 个国家的 1,120 项回报率估算。（p.548）
-> - **464 篇 vs 22 篇** 挪威教育部 5 个能力改革专家委员会报告列出 464 篇参考[[Document|文献]]，而官方行政法令最终仅引用 22 篇，且其中 20 篇全部来自审查经合组织 DeSeCo 项目的同一委员会。（pp.547–548）
+> - **464 篇 vs 22 篇** 挪威教育部 5 个能力改革专家委员会报告列出 464 篇参考[[Document|文献]]，而官方行政法令最终仅引用 22 篇，且其中 20 篇全部来自审查经合组织 [[Definition and Selection of Competencies|DeSeCo 项目]]的同一委员会。（pp.547–548）
 
 ---
 
@@ -392,9 +396,9 @@ issuing_organization: ""
 > *Of course, the differentiation between knowledge brokerage and policy brokerage is fluid when the same organisation brokers knowledge it previously produced in-house or, even more blatantly, produces, brokers, and funds its projects with recourse to scientific rationality. Therefore, we propose to use the term 'policy brokerage' rather than the more neutral term 'knowledge brokerage' throughout this article.*
 
 > [!citation-card] [[Global Education Governing Complex|全球教育治理复合体]]的武器化知识
-> 目前，教育领域的五大巨头（全球教育伙伴关系、[[OECD|经合组织]]、联合国教科文组织、联合国儿童基金会、世界银行）都在以硬事实施展软权力。五大组织连同其资助者（成员国、跨国企业、私人基金会）共同构成了全球教育治理复合体；该复合体将特定类型的知识——即可量化、可比较且可标准化的知识——武器化，用以迫使各国政府为达成各项国际目标与指标承担问责责任。（p.539）
+> 目前，教育领域的五大巨头（[[Global Partnership for Education|全球教育伙伴关系]]、[[OECD|经合组织]]、联合国教科文组织、联合国儿童基金会、世界银行）都在[[Soft Power by Hard Facts|以硬事实施展软权力]]。五大组织连同其资助者（成员国、跨国企业、私人基金会）共同构成了全球教育治理复合体；该复合体将特定类型的知识——即可量化、可比较且可标准化的知识——武器化，用以迫使各国政府为达成各项国际目标与指标承担问责责任。（p.539）
 >
-> *By now, all Big Five in the education sector (Global Partnership for Education, OECD, UNESCO, UNICEF, World Bank) exert '[[Soft Power]] by hard facts' (Niemann and Martens 2018). Combined, the Big Five and their funders (member states, businesses, private foundations) constitute a 'global education governing complex' (Ydesen 2019) that weaponises a particular kind of knowledge – quantifiable, comparable, and standardizable – in order to hold governments accountable for the achievement of international goals and targets.*
+> *By now, all Big Five in the education sector (Global Partnership for Education, OECD, UNESCO, UNICEF, World Bank) exert '[[Soft Power by Hard Facts|soft power by hard facts]]' (Niemann and Martens 2018). Combined, the Big Five and their funders (member states, businesses, private foundations) constitute a 'global education governing complex' (Ydesen 2019) that weaponises a particular kind of knowledge – quantifiable, comparable, and standardizable – in order to hold governments accountable for the achievement of international goals and targets.*
 
 > [!citation-card] 信息过载与理性决策假象的破灭
 > 认为更多知识能够消除歧义并促进循证决策是一种误解，事实恰恰相反。当今的信息过载，恰恰为那些能够选择性吸纳研究成果、将科研发现精炼转化为政策证据并进行定向[[Transfer Translation Transformation|转译]]的机构与个人提供了滋生的土壤。在充满歧义的决策情境中，核心问题演变为：政策中介机构如何让决策者确信，自己已经穷尽了得出结论与政策建议的各种思考方式？（pp.539–540）

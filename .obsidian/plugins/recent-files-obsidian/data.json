@@ -1,16 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "Definition and Selection of Competencies",
+      "path": "wiki/facts/global/Definition and Selection of Competencies.md"
+    },
+    {
       "basename": "Argument_Steiner-Khamsi_2024_CE",
       "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Steiner-Khamsi_2024_CE.md"
     },
     {
-      "basename": "Knowledge-to-Action Models",
-      "path": "wiki/theories/educational-policy-reform/Knowledge-to-Action Models.md"
+      "basename": "Global Development Network",
+      "path": "wiki/facts/global/Global Development Network.md"
+    },
+    {
+      "basename": "Technology Deficit of Education",
+      "path": "wiki/concepts/comparative-education/Technology Deficit of Education.md"
+    },
+    {
+      "basename": "Global Partnership for Education",
+      "path": "wiki/facts/global/Global Partnership for Education.md"
+    },
+    {
+      "basename": "Soft Power by Hard Facts",
+      "path": "wiki/concepts/comparative-education/Soft Power by Hard Facts.md"
+    },
+    {
+      "basename": "Philip H. Coombs",
+      "path": "wiki/persons/us/Philip H. Coombs.md"
     },
     {
       "basename": "John Hattie",
       "path": "wiki/persons/new-zealand/John Hattie.md"
+    },
+    {
+      "basename": "Governing by Numbers",
+      "path": "wiki/concepts/political-economy-geopolitics/Governing by Numbers.md"
+    },
+    {
+      "basename": "Knowledge-to-Action Models",
+      "path": "wiki/theories/educational-policy-reform/Knowledge-to-Action Models.md"
     },
     {
       "basename": "Jason Beech",
@@ -129,10 +157,6 @@
       "path": "wiki/concepts/comparative-education/Global Education Governing Complex.md"
     },
     {
-      "basename": "Governing by Numbers",
-      "path": "wiki/concepts/political-economy-geopolitics/Governing by Numbers.md"
-    },
-    {
       "basename": "Relational Space",
       "path": "wiki/concepts/comparative-education/Relational Space.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "Argument_Marginson_2025_ROE",
       "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Marginson_2025_ROE.md"
-    },
-    {
-      "basename": "Argument_Dachet_2021_ROE",
-      "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Dachet_2021_ROE.md"
-    },
-    {
-      "basename": "Argument_Cheung_2021_ROE",
-      "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Cheung_2021_ROE.md"
-    },
-    {
-      "basename": "Argument_Grey_2018_CE",
-      "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Grey_2018_CE.md"
-    },
-    {
-      "basename": "Unit of Analysis",
-      "path": "wiki/concepts/research-methodology/Unit of Analysis.md"
-    },
-    {
-      "basename": "Tracking",
-      "path": "wiki/concepts/sociology-of-education/Tracking.md"
-    },
-    {
-      "basename": "Performance Pay",
-      "path": "wiki/concepts/educational-policy-reform/Performance Pay.md"
     }
   ],
   "omittedPaths": [],

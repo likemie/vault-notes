@@ -1161,6 +1161,17 @@
     ]
   },
   {
+    "title": "Soft Power by Hard Facts",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Soft Power by Hard Facts.md",
+    "aliases": [
+      "以硬事实施展软权力",
+      "硬事实软权力",
+      "事实软实力",
+      "Soft Governance by Hard Facts"
+    ]
+  },
+  {
     "title": "Space of Flows and Space of Places",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Space of Flows and Space of Places.md",
@@ -10688,6 +10699,17 @@
     ]
   },
   {
+    "title": "Two-Communities Theory",
+    "type": "theory",
+    "path": "wiki/theories/educational-policy-reform/Two-Communities Theory.md",
+    "aliases": [
+      "两社区理论",
+      "双社群理论",
+      "两个群体理论",
+      "Two-Communities Metaphor"
+    ]
+  },
+  {
     "title": "Van Leeuwen's Legitimation Theory",
     "type": "theory",
     "path": "wiki/theories/educational-policy-reform/Van Leeuwen's Legitimation Theory.md",
@@ -19104,6 +19126,26 @@
     ]
   },
   {
+    "title": "Global Development Network",
+    "type": "fact",
+    "path": "wiki/facts/global/Global Development Network.md",
+    "aliases": [
+      "全球发展网络",
+      "GDN"
+    ]
+  },
+  {
+    "title": "Global Partnership for Education",
+    "type": "fact",
+    "path": "wiki/facts/global/Global Partnership for Education.md",
+    "aliases": [
+      "全球教育伙伴关系",
+      "GPE",
+      "全民教育快车道倡议",
+      "EFA-FTI"
+    ]
+  },
+  {
     "title": "IEA",
     "type": "fact",
     "path": "wiki/facts/global/IEA.md",
@@ -19290,6 +19332,17 @@
       "国际早期学习和儿童福祉研究",
       "国际早期学习与儿童福祉研究",
       "幼儿版国际学生评估项目"
+    ]
+  },
+  {
+    "title": "Definition and Selection of Competencies",
+    "type": "fact",
+    "path": "wiki/facts/global/Definition and Selection of Competencies.md",
+    "aliases": [
+      "能力界定与选择项目",
+      "能力界定与选择",
+      "DeSeCo",
+      "DeSeCo Project"
     ]
   },
   {
