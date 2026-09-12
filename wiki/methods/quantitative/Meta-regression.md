@@ -8,7 +8,7 @@ summary: "在元分析框架下，通过加权回归检验研究特征与连续�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 52
+method_related_count: 53
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -74,9 +74,11 @@ related_methods:
   - "[[Analysis of Variance]]"
   - "[[Three-Level Meta-Analysis]]"
 status: active
+related_facts:
+  - "[[World Bank]]"
 confidence: high
 created: 2026-08-19
-updated: 2026-08-29
+updated: 2026-09-12
 ---
 
 # Meta-regression
@@ -162,7 +164,7 @@ updated: 2026-08-29
 >
 > **符号说明**
 > - $\hat{g}_i$ 第 $i$ 项研究报告的图形组织器对[[Higher-Order Thinking Skills|高阶思维]]干预效应量 Hedges' $g$
-> - $\text{GDP\_Z}_i$ 该研究所在国家世界银行人均国内生产总值的标准化 Z 分数
+> - $\text{GDP\_Z}_i$ 该研究所在国家[[World Bank|世界银行]]人均国内生产总值的标准化 Z 分数
 > - $\text{PublishYear}_i$ 该文献的发表年份
 > - $\beta_1, \beta_2$ 对应的元回归斜率系数（Lei et al. 报告人均 GDP 斜率 $\beta_1 = 0.197, p < .01$；发表年份斜率 $\beta_1 = 0.032, p < .05$）
 >

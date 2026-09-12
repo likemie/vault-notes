@@ -5,7 +5,7 @@ aliases:
 summary: "把民族国家视为现代社会自然单位的方法论立场，容易遮蔽全球联系、跨尺度过程和空间关系的复杂性"
 type: concept
 domain: "comparative-education"
-related_count: 34
+related_count: 36
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Policy Network]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Methodological Transnationalism]]"
+  - "[[Transfer Space]]"
   - "[[Global Education Governing Complex]]"
   - "[[Policy Brokerage]]"
   - "[[Creativity]]"
@@ -47,6 +48,7 @@ related_persons:
   - "[[Alejandro Artopoulos]]"
 related_facts:
   - "[[OECD]]"
+  - "[[Definition and Selection of Competencies]]"
 related_arguments:
   - "[[Argument_Beech_2009_CE]]"
   - "[[Argument_Marginson_2025_ROE]]"
@@ -56,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-12
-updated: 2026-09-11
+updated: 2026-09-12
 ---
 
 # Methodological Nationalism
@@ -161,7 +163,7 @@ updated: 2026-09-11
 > **三主义叠加对跨国治理网络的系统性遮蔽** 全球化时代的教育研究不仅受限于方法论民族主义，更与[[Methodological Statism|方法论国家中心主义]]（将国家视为唯一法定治理行动者）和[[Methodological Educationism|方法论教育主义]]（将教育等同于制度化学校教育）相互纠缠、层叠强化，导致分析视角严重遮蔽跨国治理网络、非国家中介组织以及学校围墙之外的全球教育实践。[[Argument_Klerides_2023_CE|Klerides, 2023, p. 423]]
 
 > [!claim] [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]]
-> **超越国家自足容器与单向霸权传导假定** 政策实证研究极易落入将国家预设为封闭自足容器的方法论民族主义误区，或走向另一极端——将全球与国家关系简单化为自上而下的线性霸权受体；应对之道是确立[[Methodological Transnationalism|方法论跨国主义]]，将全球治理网络与主权国家视为相互依存、互构借用的关系性空间，聚焦行动者在跨国转移空间中如何能动地动员外部智库与国际组织作为中介工具，重构国家内部的改革合法性。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 539–540)]]
+> **超越国家自足容器与单向霸权传导假定** 政策实证研究极易落入将国家预设为封闭自足容器的方法论民族主义误区，或走向另一极端——将全球与国家关系简单化为自上而下的线性霸权受体；应对之道是确立[[Methodological Transnationalism|方法论跨国主义]]，将全球治理网络与主权国家视为相互依存、互构借用的关系性空间，聚焦行动者在跨国[[Transfer Space|转移空间]]中如何能动地动员外部智库与国际组织作为中介工具，重构国家内部的改革合法性。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 539–540)]]
 
 ---
 
@@ -224,7 +226,7 @@ updated: 2026-09-11
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] | 全球 30 个涉足教育的跨国政府间组织（1945–2020 年跨越 75 年历史演变） | 全球治理机构历史数据库计量统计与职能演进分析 | 跨国教育治理主体的职能属性分布 | 30 个国际组织中，高达 33.3%（10 个，如 [[OECD]]、世界银行、WTO、APEC）为纯粹的经济与贸易类组织，非教育组织深度主导全球教育标准制定与[[Policy Brokerage\|政策中介]] | 历史全样本归纳（$N=30$） | 证实国家教育系统的治理权早已被非教育、超国家经济组织深度渗透，有力[[Falsification\|证伪]]“教育纯属国家主权内部事务”的方法论民族主义容器预设 |
-> | 同上 | 挪威国家教育改革两阶段政策制定过程（5 个政府专家委员会绿色报告 vs 教育部法定白皮书法令） | 政策转移全生命周期[[Document\|文献]]追踪与引用[[Network Analysis\|网络分析]] | 国家政策决策对跨国政策中介的依赖度与阶段过滤 | 5 个专家委员会引用的 464 篇文献中仅 22 篇进入政府最终法令（过滤率 95.3%）；而采纳的 22 篇中 20 篇（90.9%）直接源于审议 OECD DeSeCo 项目的委员会，OECD 成为主导国内改革的最核心知识源 | 全文本追踪分析 | 揭示民族国家政府的教育改革高度依赖超国家中介提供的“准外部权威”来克服国内争议，国家内部决策空间与全球跨国空间深度互嵌 |
+> | 同上 | 挪威国家教育改革两阶段政策制定过程（5 个政府专家委员会绿色报告 vs 教育部法定白皮书法令） | 政策转移全生命周期[[Document\|文献]]追踪与引用[[Network Analysis\|网络分析]] | 国家政策决策对跨国政策中介的依赖度与阶段过滤 | 5 个专家委员会引用的 464 篇文献中仅 22 篇进入政府最终法令（过滤率 95.3%）；而采纳的 22 篇中 20 篇（90.9%）直接源于审议 OECD [[Definition and Selection of Competencies\|DeSeCo]] 项目的委员会，OECD 成为主导国内改革的最核心知识源 | 全文本追踪分析 | 揭示民族国家政府的教育改革高度依赖超国家中介提供的“准外部权威”来克服国内争议，国家内部决策空间与全球跨国空间深度互嵌 |
 
 ---
 

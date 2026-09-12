@@ -12,9 +12,9 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 15
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 16
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
 tags:
   - fact/event
@@ -42,6 +42,7 @@ related_facts:
   - "[[Mediterranean Regional Project]]"
   - "[[International Indicators of Education Systems]]"
   - "[[PISA]]"
+  - "[[UNESCO]]"
   - "[[1967 Williamsburg Conference on the World Crisis in Education]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
@@ -131,7 +132,7 @@ updated: 2026-09-12
 > > 主流制度主义教育史家肯定其打破教育阶级壁垒、推动公共教育经费翻倍扩张的积极意义；批判史学派则批判其代表了西方冷战地缘战略对第三世界的智识[[Disciplina and Doctrina|规训]]。
 > >
 > > - **自由主义现代化史学视角** 认为会议将教育政策从陈旧的精英人文主义中解放出来，提供了基于科学实证与经济理性的现代公共管理工具。
-> > - **修正主义／批判史学视角（Elfert & Ydesen, 2023）** 揭示华盛顿会议本质是美国主导的大西洋霸权网络，通过将教育还原为资本生产要素，架空了联合国教科文组织（UNESCO）所倡导的人权与文化解放议程。转引自 [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 542)]]
+> > - **修正主义／批判史学视角（Elfert & Ydesen, 2023）** 揭示华盛顿会议本质是美国主导的大西洋霸权网络，通过将教育还原为资本生产要素，架空了[[UNESCO|联合国教科文组织]]（UNESCO）所倡导的人权与文化解放议程。转引自 [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 542)]]
 >
 > > [!axis] 长期[[Paradigm|范式]]遗产：繁荣繁衍还是狭隘经济功利主义滥觞
 > > 当代比较教育学家评估华盛顿会议奠定的经济主义框架对当今全球量化治理的深层后果。

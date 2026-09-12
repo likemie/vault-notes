@@ -12,7 +12,7 @@ subtype: event
 region: "global"
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 13
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -36,6 +36,8 @@ related_persons:
   - "[[Philip H. Coombs]]"
 related_facts:
   - "[[International Institute for Educational Planning]]"
+  - "[[World Bank]]"
+  - "[[UNESCO]]"
   - "[[OECD]]"
   - "[[International Indicators of Education Systems]]"
   - "[[A Nation at Risk 1983]]"
@@ -59,7 +61,7 @@ updated: 2026-09-12
 
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 1967 年 10 月 5 日至 9 日，在美国弗吉尼亚州历史名镇威廉斯堡（Williamsburg, Virginia）举行。
-> - **核心当事主体** 由美国总统林登·约翰逊（Lyndon B. Johnson）正式倡议发起，[[International Institute for Educational Planning|联合国教科文组织国际教育规划研究所]]（IIEP）创始所长[[Philip H. Coombs|菲利普·H·库姆斯]]（Philip H. Coombs）主持议题架构与工作底稿起草，来自全球 52 个国家的教育部长、大学校长、高级经济学家及世界银行、联合国教科文组织等跨国机构领导人出席。
+> - **核心当事主体** 由美国总统林登·约翰逊（Lyndon B. Johnson）正式倡议发起，[[International Institute for Educational Planning|联合国教科文组织国际教育规划研究所]]（IIEP）创始所长[[Philip H. Coombs|菲利普·H·库姆斯]]（Philip H. Coombs）主持议题架构与工作底稿起草，来自全球 52 个国家的教育部长、大学校长、高级经济学家及[[World Bank|世界银行]]、[[UNESCO|联合国教科文组织]]等跨国机构领导人出席。
 > - **深层制度与社会背景** 20 世纪 60 年代伴随二战后婴儿潮与第三世界去殖民化浪潮，各国适龄入学人口激增，传统教育财政面临严峻赤字；同时美苏冷战争夺全球南方阵营，西方大国急需一套技术官僚话语来重塑[[International Education|国际教育]]援助的合法性。
 > - **直接导火索 / 触发事件** 1966 年林登·约翰逊在夏威夷东西方中心发表演讲呼吁召开全球教育首脑峰会，力图通过输出美国的[[Human Capital Theory|人力资本]]与系统规划模式抗衡苏联的意识形态输出。
 
@@ -70,7 +72,7 @@ updated: 2026-09-12
 > [!dev-timeline] 事件推进历程
 > - **1966–1967 — 动议与方案筹备** 美国国务院与福特基金会资助[[Philip H. Coombs|菲利普·库姆斯]]牵头组织跨国专家团队，历时一年起草长篇基础诊断报告，将世界各地的教育问题统摄在“投入—产出失调”的系统论框架下。
 > - **1967-10 — 威廉斯堡会议召开** 52 国代表齐聚威廉斯堡，美国总统约翰逊亲临会场发表演说；会议围绕教育供给爆炸、财政成本攀升、传统课程滞后与管理体制低效等议题展开闭门研讨与全体辩论。
-> - **1967–1968 — 成果出版与[[Paradigm|范式]]扩散** 库姆斯将会议讨论与基础报告深化为专著《世界教育危机：系统分析》（*The World Education Crisis: A Systems Analysis*），于 1968 年由联合国教科文组织 [[International Institute for Educational Planning|IIEP]] 和牛津大学出版社联合出版，迅速成为全球多边援助机构与规划部门的权威圣经。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 542)]]
+> - **1967–1968 — 成果出版与[[Paradigm|范式]]扩散** 库姆斯将会议讨论与基础报告深化为专著《世界教育危机：系统分析》（*The World Education Crisis: A Systems Analysis*），于 1968 年由[[UNESCO|联合国教科文组织]] [[International Institute for Educational Planning|IIEP]] 和牛津大学出版社联合出版，迅速成为全球多边援助机构与规划部门的权威圣经。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 542)]]
 
 ---
 
@@ -85,7 +87,7 @@ updated: 2026-09-12
 
 > [!actor-grid] 权力—立场矩阵
 > - **会议发起与主导者** [[Philip H. Coombs|菲利普·H·库姆斯]]与美国行政当局 — 运用[[Human Capital Theory|人力资本]]与系统动力学工具，极力宣扬危机的“超意识形态”普世性，确立多边规划机构的合法干预地位。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 542)]]
-> - **西方技术官僚与出资方** [[OECD|经合组织]]（OECD）、世界银行及福特基金会 — 倡导将教育援助与严格的量化指标、劳动力市场需求预测及宏观经济规划相挂钩。
+> - **西方技术官僚与出资方** [[OECD|经合组织]]（OECD）、[[World Bank|世界银行]]及福特基金会 — 倡导将教育援助与严格的量化指标、劳动力市场需求预测及宏观经济规划相挂钩。
 > - **铁幕另一侧的批判者** 苏联与东欧社会主义阵营学者 — 强烈抨击威廉斯堡会议所炮制的“普世危机论”，指出所谓教育危机本质是资本主义制度性剥削与社会矛盾的产物，指责该会议试图将资产阶级危机转嫁为全人类共同命运。(Steiner-Khamsi, 2006)
 > - **全球南方与非结盟国家代表** 一方面渴求多边财政与技术援助，另一方面担忧统一的外部规划规程削弱新独立国家的教育主权。
 
@@ -104,8 +106,8 @@ updated: 2026-09-12
 
 > [!indicators] 历史影响维度
 > - **危机动员治理机制的确立** 确立了以“危机宣布—指标测量—专家介入—外部贷款”为核心的多边[[Policy Brokerage|政策中介]]模式，成为日后国际组织推动国内教育改革的经典操作流程。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 542)]]
-> - **[[International Education|国际教育]]规划的专业制度化** 直接巩固了联合国教科文组织 [[International Institute for Educational Planning|IIEP]] 作为全球教育规划师摇篮的学术与培训垄断地位，促使各发展中国家纷纷设立国家级教育规划局。
-> - **催生跨国量化指标浪潮** 会议对教育投入、流程与产出进行系统分析的呼吁，直接孕育了 20 世纪 70 至 80 年代[[OECD|经合组织]]跨国[[Performance Indicators|教育指标]]体系（[[International Indicators of Education Systems|INES]]）与世界银行教育指标数据库的诞生。
+> - **[[International Education|国际教育]]规划的专业制度化** 直接巩固了[[UNESCO|联合国教科文组织]] [[International Institute for Educational Planning|IIEP]] 作为全球教育规划师摇篮的学术与培训垄断地位，促使各发展中国家纷纷设立国家级教育规划局。
+> - **催生跨国量化指标浪潮** 会议对教育投入、流程与产出进行系统分析的呼吁，直接孕育了 20 世纪 70 至 80 年代[[OECD|经合组织]]跨国[[Performance Indicators|教育指标]]体系（[[International Indicators of Education Systems|INES]]）与[[World Bank|世界银行]]教育指标数据库的诞生。
 
 > [!finding-cards] 关键历史后果
 > - **话语[[Paradigm|范式]]重塑** 彻底终结了战后初期纯粹基于人道主义与文化修养的教育话语，将教育牢固锚定为宏观经济增长、技术创新与国家竞争力的战略工具。
@@ -124,9 +126,9 @@ updated: 2026-09-12
 > > - **[[Critical Geopolitics|批判地缘政治]]史学** 指出会议将西方特定的工业资本主义病灶普遍化为全人类危机，为国际金融机构推行结构调整与政策干预铺平了道路。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 542)]]
 
 > [!citation-card] 危机叙事与[[Policy Brokerage|政策中介]]的起源
-> [[OECD|经合组织]]与世界银行向政策中介演进的轨迹，深植于教育危机在全球蔓延的周期性危机叙事之中。鉴于其普世性的覆盖范围，各国际组织积极响应了这一召唤。……[[Philip H. Coombs|菲利普·H·库姆斯]]身兼肯尼迪总统任命的首任主管教育与文化事务的助理国务卿、[[International Institute for Educational Planning|联合国教科文组织国际教育规划研究所]]首任所长，同时也是极具影响力的《世界教育危机》一书的作者，他比任何人都更具象地人格化了这种危机的普世主义宣称。在冷战分裂的世界中出版，库姆斯的著作在铁幕的另一侧遭到了猛烈抨击。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 542)]]
+> [[OECD|经合组织]]与[[World Bank|世界银行]]向政策中介演进的轨迹，深植于教育危机在全球蔓延的周期性危机叙事之中。鉴于其普世性的覆盖范围，各国际组织积极响应了这一召唤。……[[Philip H. Coombs|菲利普·H·库姆斯]]身兼肯尼迪总统任命的首任主管教育与文化事务的助理国务卿、[[International Institute for Educational Planning|联合国教科文组织国际教育规划研究所]]首任所长，同时也是极具影响力的《世界教育危机》一书的作者，他比任何人都更具象地人格化了这种危机的普世主义宣称。在冷战分裂的世界中出版，库姆斯的著作在铁幕的另一侧遭到了猛烈抨击。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 542)]]
 >
-> *Arguably, the policy broker trajectories of the OECD and the World Bank were steeped in recurrent crisis narratives about the worldwide spread of the education crisis. Given their universal reach, the IOs heard the calling. ... Philip H. Coombs, the first Assistant Secretary of State for Education and Culture (appointed by President John F. Kennedy), the first Director of the UNESCO International Institute for Educational Planning, and author of the influential book The World Education Crisis (Coombs 1968), personified more than anyone else the universalist claim. Published in a divided world during the Cold War, Coombs’ book was harshly criticised on the other side of the Iron Curtain (see Steiner-Khamsi 2006).*
+> *Arguably, the policy broker trajectories of the OECD and the World Bank were steeped in recurrent crisis narratives about the worldwide spread of the education crisis. Given their universal reach, the IOs heard the calling. ... Philip H. Coombs, the first Assistant Secretary of State for Education and Culture (appointed by President John F. Kennedy), the first Director of the [[UNESCO]] International Institute for Educational Planning, and author of the influential book The World Education Crisis (Coombs 1968), personified more than anyone else the universalist claim. Published in a divided world during the Cold War, Coombs’ book was harshly criticised on the other side of the Iron Curtain (see Steiner-Khamsi 2006).*
 
 ---
 

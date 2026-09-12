@@ -7,7 +7,7 @@ aliases:
 summary: "以知识、创新、高等教育、研发与高阶思维技能作为价值创造与全球竞争核心要素的经济形态；在技术自动化与AI浪潮下，其战略重心从静态专业知识转向高阶认知能力，但面临宏观政策宣示与微观学业评价滞后的深层制度悖论。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 42
+related_count: 43
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -56,6 +56,7 @@ related_instruments:
 related_persons: []
 related_facts:
   - "[[OECD]]"
+  - "[[World Bank]]"
   - "[[European Qualifications Framework]]"
   - "[[Melbourne Declaration]]"
   - "[[UAE Education Hub Projects]]"
@@ -70,7 +71,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-07
-updated: 2026-08-27
+updated: 2026-09-12
 ---
 
 # Knowledge-Based Economy
@@ -84,7 +85,7 @@ updated: 2026-08-27
 
 > [!concept-lens] 概念透镜
 > - **含义** 经济财富的创造重心从自然资源与有形物质资产，系统性转移至无形知识资产、前沿研发与非程序化高阶认知能力的生产、管理、分配与[[Reflexivity|反身性]]应用。
-> - **用途** 揭示国家与超国家组织（如 [[OECD]]、世界银行）为何将高等教育重塑为核心经济基础设施，解释[[Lifelong Learning|终身学习]]扩张与 21 世纪技能话语的宏观政治经济学根源，并诊断高教宏观政策与微观考核实践之间的制度断裂。
+> - **用途** 揭示国家与超国家组织（如 [[OECD]]、[[World Bank|世界银行]]）为何将高等教育重塑为核心经济基础设施，解释[[Lifelong Learning|终身学习]]扩张与 21 世纪技能话语的宏观政治经济学根源，并诊断高教宏观政策与微观考核实践之间的制度断裂。
 > - **边界** 区别于单纯的“高科技产业部门”，KBE 是一种跨越私营、公共与第三部门的全社会经济形态；若脱离额外经济系统（法律、教育、科研质保）的制度支撑，单纯的资本投入无法自发形成良性知识生态。
 
 > [!citation-card]- 经典界定

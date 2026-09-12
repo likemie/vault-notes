@@ -7,7 +7,7 @@ summary: "英国首任比较教育教授（1947），欧洲比较教育学会首
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 24
+person_related_count: 25
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -44,6 +44,7 @@ related_persons:
 related_facts:
   - "[[Comparative Education Society in Europe]]"
   - "[[Comparative and International Education Society]]"
+  - "[[UNESCO]]"
   - "[[RAiSE Programme]]"
 related_arguments:
   - "[[Argument_Klerides_2023_CE]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-08
-updated: 2026-09-11
+updated: 2026-09-12
 ---
 
 # Joseph Lauwerys
@@ -61,7 +62,7 @@ updated: 2026-09-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 英国比较教育学家，伦敦大学教育学院（Institute of Education, University of London, IOE）首任比较教育教授（1947 年就职），[[Comparative Education Society in Europe|欧洲比较教育学会]]（[[Comparative and International Education Society|Comparative Education Society]] in Europe, CESE）首任主席（1961–1967），联合国教科文组织（United Nations Educational, Scientific and Cultural Organization, UNESCO）早期核心顾问。
+> - **身份位置** 英国比较教育学家，伦敦大学教育学院（Institute of Education, University of London, IOE）首任比较教育教授（1947 年就职），[[Comparative Education Society in Europe|欧洲比较教育学会]]（[[Comparative and International Education Society|Comparative Education Society]] in Europe, CESE）首任主席（1961–1967），[[UNESCO|联合国教科文组织]]（United Nations Educational, Scientific and Cultural Organization, UNESCO）早期核心顾问。
 > - **核心角色** 将比较教育学科体制化全面嵌入二战后的跨国多边合作网络，是[[Rationalism in International Relations|理性主义]]国际关系传统在比较教育中的核心代表人物。
 > - **代表贡献** 确立英国比较教育大学独立教席与系所体制；联合创立 CESE 并构筑战后欧洲学术网络；确立以国际理解、民主理想与科学人道主义为核心的价值体系。
 
@@ -76,7 +77,7 @@ updated: 2026-09-11
 
 > [!timeline] 生平与职涯
 > - **1947** 获任伦敦大学教育学院比较教育教授，成为英国首位比较教育教授，开创英国比较教育大学独立教席地位与体制化进程。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 425)]]
-> - **1940年代末–1950年代** 担任联合国教科文组织核心顾问，深入参与教科文组织教育调查专家会议与战后重建使命，推动比较教育学者直接参与战后国际多边政策实践。
+> - **1940年代末–1950年代** 担任[[UNESCO|联合国教科文组织]]核心顾问，深入参与教科文组织教育调查专家会议与战后重建使命，推动比较教育学者直接参与战后国际多边政策实践。
 > - **1950年代末–1960年代初** 在伦敦大学教育学院与国王学院的学术环境中，不同于当时文化主义学派对实证社会学的防范与恐惧，始终保持对跨学科社会[[Scientific Method|科学方法]]的开放包容态度。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, p. 9)]]
 > - **1961–1967** 携手 UNESCO 汉堡教育研究所所长索尔·罗宾松（Saul Robinsohn）发起成立[[Comparative Education Society in Europe|欧洲比较教育学会]]并当选首任主席，奠定战后跨欧洲的比较教育专业网络。
 > - **1960年代–1970年代** 展开跨洲学术穿梭，深度连接日内瓦的[[Jean Piaget|让·皮亚杰]]（Jean Piaget）与[[International Education|国际教育]]局（International Bureau of Education, IBE）、巴西的阿尼西奥·特谢拉（Anísio Teixeira）以及日本的平冢益德（Masunori Hiratsuka），成为跨文化知识流通的枢纽节点。
@@ -108,7 +109,7 @@ updated: 2026-09-11
 > [!influence-path] 影响路径
 > - **理论路径** 确立了比较教育中的[[Rationalism in International Relations|理性主义]]传统，与[[Michael Sadler|迈克尔·萨德勒]]（Michael Sadler）代表的[[Realism in International Relations|现实主义]]国家竞争[[Paradigm|范式]]形成鲜明对照，为后来的[[International Education|国际教育]]合作研究奠定理论基石。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 420–425)]]
 > - **方法路径** 打破战后英国部分学者对定量与实证社会学的抵触，主张将严谨的社会科学调查与哲学诠释相结合，拓展了比较教育的方法论包容度。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, p. 9)]]
-> - **政策路径** 深度参与联合国教科文组织早期教育议程的制定，协助将比较分析工具制度化地引入跨国技术援助与战后教育重建政策。
+> - **政策路径** 深度参与[[UNESCO|联合国教科文组织]]早期教育议程的制定，协助将比较分析工具制度化地引入跨国技术援助与战后教育重建政策。
 > - **跨国传播** 作为国际学术外交家，跨越大西洋、欧洲与亚洲，直接将比较教育的机构网络扩展至拉丁美洲与东亚，推动了日本比较教育学会等区域性学术团体的萌芽与联结。
 
 ---
@@ -120,7 +121,7 @@ updated: 2026-09-11
 > - **同事与继承者** [[Brian Holmes|布莱恩·霍姆斯]]（Brian Holmes） 共同任教于伦敦大学教育学院，继承并发展了[[Problem Approach|问题法]]（Problem Approach）与制度化比较教育。
 > - **国际学术盟友** [[Jean Piaget|让·皮亚杰]]、阿尼西奥·特谢拉、平冢益德 维系日内瓦 IBE、巴西与日本的高层跨洲学术纽带。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, p. 9)]]
 > - **学术镜像与对比** [[George Bereday|乔治·贝雷迪]]（George Bereday） 战后欧美两大跨洲网络核心枢纽与学术演讲巨匠；[[Michael Sadler|萨德勒]] 代表以国家防卫与竞争焦虑为驱动的[[Realism in International Relations|现实主义]]，劳韦里斯则代表以国际主义合作为驱动的[[Rationalism in International Relations|理性主义]]。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 420–425)]]
-> - **机构与组织** [[Comparative Education Society in Europe]]（CESE 创会主席）、联合国教科文组织（UNESCO 资深顾问）、伦敦大学教育学院（IOE 讲座教授）。
+> - **机构与组织** [[Comparative Education Society in Europe]]（CESE 创会主席）、[[UNESCO|联合国教科文组织]]（UNESCO 资深顾问）、伦敦大学教育学院（IOE 讲座教授）。
 
 ---
 
@@ -147,6 +148,6 @@ updated: 2026-09-11
 > |:-----|:-----|:-----|
 > | [[Rationalism in International Relations]] | 理论 | 奠定比较教育理性主义传统，主张通过国际理解与制度[[Dialogue in Education\|对话]]克服竞争焦虑。 |
 > | [[Comparative History of Comparative Education]] | 概念 | 展现战后[[Academic Iconography\|学科肖像学]]建构、学会网络创立与跨洲思想流动的重要历史案例。 |
-> | [[International Education]] | 概念 | 将国际教育局与教科文组织的战后实务深度嵌入大学比较教育课程与研究。 |
+> | [[International Education]] | 概念 | 将国际教育局与[[UNESCO\|教科文组织]]的战后实务深度嵌入大学比较教育课程与研究。 |
 > | [[Dialogue in Education]] | 概念 | 倡导跨国学术与制度对话，以科学人道主义作为国际教育合作的伦理基石。 |
 > | [[Comparative Education Society in Europe]] | 事实 | 1961 年联合发起创立并担任首任主席，奠定欧洲比较教育区域学术共同体。 |

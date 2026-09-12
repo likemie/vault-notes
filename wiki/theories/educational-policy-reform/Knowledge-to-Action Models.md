@@ -9,7 +9,7 @@ aliases:
 summary: "Allan Best 与 Bob J. Holmes (2010) 提出的知识利用理论分析框架，将研究与政策行动的联结划分为线性推动模型（第一代）、关系型协同生产模型（第二代）与系统生态学模型（第三代），解释了国际组织与国家从单向证据推销转向区域枢纽与制度吸收容量建设的演进逻辑。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 26
+theory_related_count: 28
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -48,6 +48,8 @@ related_facts:
   - "[[Global Partnership for Education]]"
   - "[[OECD]]"
   - "[[PISA]]"
+  - "[[World Bank]]"
+  - "[[UNESCO]]"
   - "[[Knowledge and Innovation Exchange]]"
   - "[[Systems Approach for Better Education Results]]"
 related_arguments:
@@ -132,8 +134,8 @@ updated: 2026-09-12
 
 > [!exegesis]- 教育研究例子
 > 以国际组织在发展中国家推动教育改革为例：
-> 1. **第一代应用** 世界银行直接向借贷国寄送标准化教育经济学政策报告，要求该国教育部门照单全收，结果往往遭遇官僚抵制与方案搁置。
-> 2. **第二代应用** 联合国教科文组织派遣技术官员进驻成员国，与当地教育部官员联合起草国家教育部门审查草案，实现方案的情境化调试。
+> 1. **第一代应用** [[World Bank|世界银行]]直接向借贷国寄送标准化教育经济学政策报告，要求该国教育部门照单全收，结果往往遭遇官僚抵制与方案搁置。
+> 2. **第二代应用** [[UNESCO|联合国教科文组织]]派遣技术官员进驻成员国，与当地教育部官员联合起草国家教育部门审查草案，实现方案的情境化调试。
 > 3. **第三代应用** [[Global Education Governing Complex|全球教育治理复合体]]中的全球教育伙伴关系（Global Partnership for Education，GPE）建立四大知识与创新交流（[[Knowledge and Innovation Exchange]]，KIX）区域中介枢纽，常态化开展区域同侪互学、数字平台数据共享，深度嵌入成员国长期的政策规划制度生态之中。
 
 ---
@@ -175,7 +177,7 @@ updated: 2026-09-12
 > [!dev-timeline] 发展脉络
 > - **2010 — 理论创立** Allan Best 与 Bob J. Holmes 于 *Evidence & Policy* 发表奠基性论文，正式确立知识-行动联结的三代演化[[Analytic Framework|分析框架]]。
 > - **2010–2020年代 — 公共卫生向公共政策与教育迁移** 框架被广泛应用于加拿大、英国等地的公共政策评估与循证社会服务研究。
-> - **2024 — 全球教育治理与[[Policy Brokerage|政策中介]]分析** [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, & Ydesen (2024)]] 将该理论深度融入对 [[OECD]]、世界银行、[[Global Partnership for Education|GPE]] 等国际组织政策中介演进的批判性审视。
+> - **2024 — 全球教育治理与[[Policy Brokerage|政策中介]]分析** [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, & Ydesen (2024)]] 将该理论深度融入对 [[OECD]]、[[World Bank|世界银行]]、[[Global Partnership for Education|GPE]] 等国际组织政策中介演进的批判性审视。
 
 ---
 
@@ -190,7 +192,7 @@ updated: 2026-09-12
 > > - **系统复杂性学者** 坚称将知识转化还原为简单的双向沟通严重低估了官僚体系的阻力，唯有系统论视角才能抓住政策运行的本质。
 
 > [!critique]- 批评索引
-> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 指出即便国际组织演进至第三代系统生态模型，由于国际机构内在的自指性偏好（如世行反复援引自建 [[Systems Approach for Better Education Results|SABER]] 库）与国家官僚在行政立法阶段的剧烈过滤，系统生态仍难以根本解决证据闲置与权力不对称问题。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 指出即便国际组织演进至第三代系统生态模型，由于国际机构内在的自指性偏好（如[[World Bank|世行]]反复援引自建 [[Systems Approach for Better Education Results|SABER]] 库）与国家官僚在行政立法阶段的剧烈过滤，系统生态仍难以根本解决证据闲置与权力不对称问题。
 
 ---
 

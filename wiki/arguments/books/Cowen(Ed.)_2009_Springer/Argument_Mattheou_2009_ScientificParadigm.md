@@ -7,10 +7,10 @@ title: "Argument_Mattheou_2009_ScientificParadigm"
 argument_key: "Argument_Mattheou_2009_ScientificParadigm"
 argument_display_title: "The Scientific Paradigm in Comparative Education"
 argument_kind: "book-chapter"
-argument_related_count: 73
-argument_related_level: 4
-argument_related_stars: "⭐⭐⭐⭐"
-argument_related_color: "#fef3c7"
+argument_related_count: 75
+argument_related_level: 5
+argument_related_stars: "⭐⭐⭐⭐⭐"
+argument_related_color: "#fecdd3"
 authors:
   - Mattheou, D.
 source_language: en
@@ -110,6 +110,8 @@ related_facts:
   - "[[International Institute for Educational Planning]]"
   - "[[IEA]]"
   - "[[PISA]]"
+  - "[[UNESCO]]"
+  - "[[World Bank]]"
 status: draft
 created: 2026-09-07
 updated: 2026-09-08
@@ -242,7 +244,7 @@ updated: 2026-09-08
 > [!factors] 推动战后比较教育转向科学范式的三大驱动要素
 > - **自然科学工程成就树立了权威典范** 二战期间及战后原子核裂变与聚变、晶体管技术发明等辉煌成就，确立了自然科学的至高威信，向整个人文社会科学界提供了不可抗拒的实证方法论典范，激发了跨学科效仿精密观察与实验控制的强烈冲动。（Kuhn, 1970; Davies, 1997）
 > - **社会科学行为主义革命催生了规律数学化的乐观信念** 社会学与经济学通过测量技术的革新与高级统计处理的普及，极大地激发了人们对于社会现象能够达到如自然现象一般的客观性、且支配其演进的规律能够以数学形式表达的强烈乐观信念。（Kerlinger, 1965; Cohen & Nagel, 1934）
-> - **战后国家规划理性与技术官僚体制的建立** 坚信依托[[Scientific Method|科学方法]]的严谨观察、实证假设检验、变量控制与精确测量是确保政策成效的唯一可靠途径；联合国教科文组织[[International Institute for Educational Planning|国际教育规划研究所]]（IIEP）等机构建立，大批学者与技术官僚全面投身中央五年计划，共同渴求一种具备解释力与预测力的全新科学范式。（Anderson, 1961; Holmes, 1965; Noah & Eckstein, 1969）
+> - **战后国家规划理性与技术官僚体制的建立** 坚信依托[[Scientific Method|科学方法]]的严谨观察、实证假设检验、变量控制与精确测量是确保政策成效的唯一可靠途径；[[UNESCO|联合国教科文组织]][[International Institute for Educational Planning|国际教育规划研究所]]（IIEP）等机构建立，大批学者与技术官僚全面投身中央五年计划，共同渴求一种具备解释力与预测力的全新科学范式。（Anderson, 1961; Holmes, 1965; Noah & Eckstein, 1969）
 
 ---
 
@@ -366,7 +368,7 @@ updated: 2026-09-08
 
 #### 1. 实用政策导向与实证社会科学作为统治正统的合法化借口（Alibi）
 
-无论在法则性质上存在何种认识论分野，1960 年代科学化运动的所有主要流派在实用政策导向上表现出了惊人的一致：霍姆斯强调学者应兼具纯科学家的政策方案设计与应用科学家的政策实施协助角色（Holmes, 1981, p. 54）；诺亚与埃克斯坦宣称其解释目标最终旨在服务规划者改善教育系统效能（Noah & Eckstein, 1969, p. 187）；大批学者深度参与世界银行（World Bank）与美国国际开发署（Agency for International Development, AID）对第三世界的援助项目，皆体现了将比较教育重塑为政策咨询科学的强烈野心（pp. 63–64）。
+无论在法则性质上存在何种认识论分野，1960 年代科学化运动的所有主要流派在实用政策导向上表现出了惊人的一致：霍姆斯强调学者应兼具纯科学家的政策方案设计与应用科学家的政策实施协助角色（Holmes, 1981, p. 54）；诺亚与埃克斯坦宣称其解释目标最终旨在服务规划者改善教育系统效能（Noah & Eckstein, 1969, p. 187）；大批学者深度参与[[World Bank|世界银行]]（World Bank）与美国国际开发署（Agency for International Development, AID）对第三世界的援助项目，皆体现了将比较教育重塑为政策咨询科学的强烈野心（pp. 63–64）。
 
 > [!contrast-table] 霍姆斯问题法与美国实证学派在官方资助市场的遭遇对比
 > | 考量维度 | 霍姆斯问题解决法（Problem Approach） | 美国经验实证与量化学派（Empirical-Quantitative School） |

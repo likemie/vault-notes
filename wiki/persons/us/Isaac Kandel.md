@@ -9,7 +9,7 @@ summary: "哥伦比亚大学师范学院比较教育学讲座教授，《教育�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 43
+person_related_count: 44
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -67,13 +67,14 @@ related_persons:
   - "[[Brian Holmes]]"
 related_facts:
   - "[[Australian Council for Educational Research]]"
+  - "[[UNESCO]]"
 related_arguments:
   - "[[Argument_Cowen_2009_HistoryCreation]]"
   - "[[Argument_Kazamias_2009_ForgottenThemes]]"
 confidence: medium
 status: draft
 created: 2026-09-05
-updated: 2026-09-11
+updated: 2026-09-12
 ---
 
 # Isaac Kandel
@@ -107,7 +108,7 @@ updated: 2026-09-11
 > - **1933** **划时代巨著《比较教育》确立国家解释[[Variable|变量]]** 出版划时代代表作《比较教育》（*Comparative Education*），系统奠定历史-[[Philosophical Analysis in Education|哲学分析]][[Paradigm|范式]]，在学科史上首次将国家（The State）确立为统领全局的核心情境解释变量，并提出规范的因果探究三阶段流程。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 45–48)]]
 > - **1934–1941** **直面极权主义扩张并构筑[[Democratic Education|民主教育]]防线** 相继出版《纳粹的塑造》（*The Making of Nazis*, 1934）、《相互冲突的教育理论》（*Conflicting Theories of Education*, 1938）与《一个时代的终结》（*The End of an Era*, 1941），率先揭露法西斯极权政权利用学校进行政治灌输与动员的危害，主张以尊重多元文化的[[Cultural Nationalism vs. Political Nationalism|文化民族主义]]抵御侵略性政治民族主义。[[Argument_Kazamias_2009_ForgottenThemes|(Herzog, 1960; Kazamias, 1963: 385; 2009: 48–49)]]
 > - **1937** **大洋洲巡回讲学与跨国民主教育咨询** 受[[Australian Council for Educational Research|澳大利亚教育研究委员会]]（ACER）与新西兰政府邀请赴大洋洲展开学术巡讲与教育考察，在墨尔本大学等地发表演讲，系统指导英联邦国家反思过度中央集权体制，探索兼顾地方自主与教育机会均等的现代公共教育方案。
-> - **1946** **哥大荣休与重返曼彻斯特大学创设美国研究** 从哥伦比亚大学荣休；1947 至 1950 年重返英国曼彻斯特大学出任首任美国研究教授，并长期受聘为联合国教科文组织核心咨询专家，积极投身战后国际理解与教育重建。
+> - **1946** **哥大荣休与重返曼彻斯特大学创设美国研究** 从哥伦比亚大学荣休；1947 至 1950 年重返英国曼彻斯特大学出任首任美国研究教授，并长期受聘为[[UNESCO|联合国教科文组织]]核心咨询专家，积极投身战后国际理解与教育重建。
 > - **1946–1953** **执掌《学校与社会》主编捍卫博雅[[Academic Freedom|学术自由]]** 出任全美声誉卓著的教育权威周刊《学校与社会》（*School and Society*）主编。在战后麦卡锡主义政治阴影与极端[[Technical Rationality|技术理性]]泛滥的社会思潮中，坎德尔发表大量针砭时弊的社论，坚决捍卫[[Liberal Education|博雅教育]]、大学学术自由与教师专业伦理，警示防止学校沦为意识形态动员或功利技术的附庸。
 > - **1955** **出版战后集大成续作《教育的新时代》** 出版代表作《教育的新时代：比较研究》（*The New Era in Education: A Comparative Study*），系统反思战后西方福利国家民主化转型背景下个性自由与国家权力的动态平衡。
 > - **1965** **逝世于日内瓦与学派参天灯塔的历史评价** 逝世于瑞士日内瓦，享年 84 岁。乔治·贝雷迪（George Bereday）在悼词中高度礼赞坎德尔为“大学博雅人文学者一代的参天巨塔与指路明灯”，既非纯粹的技术科学家，亦非语义琐碎的学究，其坚毅的犹太精神与博雅学养将永远指引后人。(Bereday, 1965: 249; 1966: 147–150; Kazamias & Schwartz, 1977)
@@ -215,7 +216,7 @@ updated: 2026-09-11
 > - **同道与后继** [[Nicholas Hans|尼古拉斯·汉斯]]、[[Robert Ulich|罗伯特·乌利希]]（同为历史-哲学学派巨擘）；[[George Bereday|乔治·贝雷迪]]（哥大后继讲座教授，撰文深情继承并总结其学术遗产）；[[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（历史-哲学遗产的辩护者与[[Reflexivity|反思性]]批评者）。
 > - **学术论敌与论战者** 早期[[Positivism|实证主义]][[Policy Borrowing|教育借用]]论者；战后实证科学化派（[[Harold Noah|哈罗德·诺亚]]（Harold Noah）与[[Max Eckstein|马克斯·埃克斯坦]]（Max Eckstein）等人批评历史哲学方法缺乏[[Variable|变量]]控制与可检验性）。
 > - **史学追索与研究者** 米格尔·佩雷拉（Miguel Pereyra，西班牙比较教育学家，长期开展坎德尔跨国档案攻坚）。
-> - **机构与组织** 哥伦比亚大学[[Normal School|师范学院]]国际研究所（核心教授）、《教育年鉴》（创办主编）、联合国教科文组织（资深顾问）。
+> - **机构与组织** 哥伦比亚大学[[Normal School|师范学院]]国际研究所（核心教授）、《教育年鉴》（创办主编）、[[UNESCO|联合国教科文组织]]（资深顾问）。
 
 ---
 

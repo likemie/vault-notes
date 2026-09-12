@@ -5,7 +5,7 @@ aliases:
 summary: "以技术手段超越人类生物局限并追求持续优化和增强的思想取向，常用于讨论教育中的能力提升、技术改造和高度现代性的进步想象。"
 type: concept
 domain: "educational-philosophy"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -24,13 +24,14 @@ related_theories: []
 related_methods: []
 related_persons:
   - "[[Julian Huxley]]"
-related_facts: []
+related_facts:
+  - "[[UNESCO]]"
 related_arguments:
   - "[[Argument_Amos_2022_Springer]]"
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: '2026-08-27'
+updated: 2026-09-12
 ---
 
 ## 定义
@@ -50,7 +51,7 @@ updated: '2026-08-27'
 ## 概念演变
 
 > [!note-] 概念演变
-> [[Julian Huxley]]——UNESCO 首任总干事、科学人文主义与优生学的倡导者——在 1957 年文集 *New Bottles for New Wine* 中首次提出 transhumanism 一词([[Argument_Amos_2022_Springer|Amos, 2022, p.59]])。Amos 将其定位为高度现代性（high modernity）的激进版本——承载着不朽、理性、自主、"做自己命运的主人、设计自己的模样"的现代性梦想。
+> [[Julian Huxley]]——[[UNESCO]] 首任总干事、科学人文主义与优生学的倡导者——在 1957 年文集 *New Bottles for New Wine* 中首次提出 transhumanism 一词([[Argument_Amos_2022_Springer|Amos, 2022, p.59]])。Amos 将其定位为高度现代性（high modernity）的激进版本——承载着不朽、理性、自主、"做自己命运的主人、设计自己的模样"的现代性梦想。
 >
 
 ## 核心要素

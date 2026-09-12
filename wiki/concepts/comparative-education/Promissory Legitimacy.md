@@ -7,23 +7,41 @@ aliases:
 summary: "指国际组织在面临教育技术赤字与未来不确定性时，将其治理权威建立在对教育未来的期许与危机规避允诺之上的正当化机制。国际组织将未来危机描绘为当下脆弱现实的逻辑延伸，并向各国政府推销即可采取行动的循证方案以生产确定性。"
 type: concept
 domain: "comparative-education"
-related_count: 3
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 21
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/comparative-education
   - theme/global-governance
   - theme/policy-brokerage
   - theme/future-studies
 related_concepts:
-  - "[[Performance Indicators]]"
+  - "[[Policy Brokerage]]"
+  - "[[Technology Deficit of Education]]"
   - "[[Façade of Rationality]]"
-related_theories: []
-related_methods: []
+  - "[[Champ]]"
+  - "[[Knowledge-Based Economy]]"
+  - "[[Epistemology]]"
+  - "[[Governing by Numbers]]"
+  - "[[Policy Ambiguity]]"
+  - "[[Variable]]"
+related_theories:
+  - "[[Human Capital Theory]]"
+related_methods:
+  - "[[Qualitative Research]]"
+  - "[[Exploratory Factor Analysis]]"
+  - "[[Effect Size]]"
 related_instruments: []
-related_persons: []
-related_facts: []
+related_persons:
+  - "[[Gita Steiner-Khamsi]]"
+  - "[[Jason Beech]]"
+related_facts:
+  - "[[OECD]]"
+  - "[[World Bank]]"
+  - "[[PISA]]"
+  - "[[UN Sustainable Development Goals]]"
+  - "[[Education for All]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
 confidence: high
@@ -43,7 +61,7 @@ updated: 2026-09-12
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向全球治理行动者在面临技术不确定性时，依靠对教育未来的话语建构、危机设想与政策承诺来换取当下政治权威与决策服从的合法化机制。
-> - **用途** 帮助研究者看清国际组织（如 [[OECD]]、世界银行）为何高度热衷于发布面向 2030 年乃至 2050 年的“未来学校”、“未来技能”与危机预警报告，揭示前瞻性循证政策倡导背后的权力再生产逻辑。
+> - **用途** 帮助研究者看清国际组织（如 [[OECD]]、[[World Bank|世界银行]]）为何高度热衷于发布面向 2030 年乃至 2050 年的“未来学校”、“未来技能”与危机预警报告，揭示前瞻性循证政策倡导背后的权力再生产逻辑。
 > - **边界** 不适合解释基于历史刚性法律授权（如宪法管辖权）或立竿见影的短期技术干预；容易与基于实际经济产出的“绩效合法性”（Performance Legitimacy）混淆。
 
 > [!citation-card] 国际组织面对技术赤字与未来不确定性的期许合法性构建

@@ -9,7 +9,7 @@ aliases:
 summary: "由约翰·金登（John Kingdon）创立并由尼古拉斯·扎哈利亚迪斯（Nikolaos Zahariadis）深化的公共政策分析框架；将政策制定过程解构为相对独立的问题流、政策流与政治流，阐明在决策歧义性与信息过载情境下，政策企业家如何抓住政策之窗实现三流耦合以促成改革议程设定。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 21
+theory_related_count: 22
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -44,6 +44,7 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[OECD]]"
+  - "[[World Bank]]"
   - "[[PISA]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
@@ -105,7 +106,7 @@ updated: 2026-09-12
 > - **推导** 政策变迁的实质不是全面理性的科学决策，而是在政策之窗开启的有限窗口期内，政策中介凭借话语和符号技术促成问题流、政策流与政治流的策略性耦合。
 
 > [!proposition-chain]- 延伸命题
-> - **推论一（源自核心命题二 · 国际政策中介化）** 在全球教育治理中，跨国组织（如 [[OECD]]、世界银行）通过三年一度的 [[PISA]] 放榜或政策基准评估，人为制造跨国排名的“命名与羞辱”焦点事件，从而主动为成员国开启政策之窗，兜售自身在政策流中预先打包的最佳实践方案组合。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 544–547)]]
+> - **推论一（源自核心命题二 · 国际政策中介化）** 在全球教育治理中，跨国组织（如 [[OECD]]、[[World Bank|世界银行]]）通过三年一度的 [[PISA]] 放榜或政策基准评估，人为制造跨国排名的“命名与羞辱”焦点事件，从而主动为成员国开启政策之窗，兜售自身在政策流中预先打包的最佳实践方案组合。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 544–547)]]
 > - **推论二（源自核心命题二 · 数字[[Scaffolding|脚手架]]功能）** 决策者之所以热衷于量化指标，是因为数字既提供了不可辩驳的科学理性外观，又具有极高的话语弹性，便于各政治派别依凭自身意识形态将数字[[Transfer Translation Transformation|转译]]为契合自身议程的故事。
 
 > [!mechanism-map]- 机制图
@@ -191,7 +192,7 @@ updated: 2026-09-12
 > > 批判学者争论议程设定究竟是机遇性偶发还是阶级与地缘权力的必然产物。
 > >
 > > - **多源流学者** 强调窗口开启与耦合成功的高度不可预测性，展现了政治行动者的能动性与偶然性空间。
-> > - **新马克思主义学者** 批判该模型过度聚焦偶发微观过程，掩盖了国际资本、世界银行与[[OECD|经合组织]]对全球南方议程的长期结构性霸权锁定。
+> > - **新马克思主义学者** 批判该模型过度聚焦偶发微观过程，掩盖了国际资本、[[World Bank|世界银行]]与[[OECD|经合组织]]对全球南方议程的长期结构性霸权锁定。
 
 > [!critique]- 批评索引
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 既肯定该框架在分析歧义性与[[Policy Brokerage|政策中介]]时的强大解释力，又指出该模型偏重议程设置阶段，较难单独解释外部证据在进入具体行政法定法令出台阶段时所遭遇的严酷政治清洗与断崖式损耗。

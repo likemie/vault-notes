@@ -7,10 +7,10 @@ summary: "日内瓦国际学校社会研究教师与早期 IB 草根倡议者，
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 7
-person_related_level: 0
-person_related_stars: ""
-person_related_color: "#e5e7eb"
+person_related_count: 8
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1916"
 died: "2004"
 lifespan: "1916–2004"
@@ -29,13 +29,14 @@ related_persons:
   - "[[Gerard Renaud]]"
   - "[[Alec Peterson]]"
 related_facts:
+  - "[[UNESCO]]"
   - "[[Founding of the International Baccalaureate]]"
 related_arguments:
   - "[[Argument_Peterson_1987_OpenCourt]]"
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-09-11
+updated: 2026-09-12
 ---
 
 # Bob Leach
@@ -52,7 +53,7 @@ updated: 2026-09-11
 ## 生平与职涯
 
 > [!timeline] 与 IB 创立有关的活动
-> - **1962** 组织日内瓦小型会议，会议议程明确使用“[[International Baccalaureate]]”名称，并从联合国教科文组织取得 2,500 美元资助，讨论适用于国际文凭的社会研究课程。
+> - **1962** 组织日内瓦小型会议，会议议程明确使用“[[International Baccalaureate]]”名称，并从[[UNESCO|联合国教科文组织]]取得 2,500 美元资助，讨论适用于国际文凭的社会研究课程。
 > - **1962 年后** 以社会研究为起点维系教师合作。UNESCO 后续四笔小额资助合计 10,000 美元，为早期会议提供有限但关键的生存条件。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, pp. 17–18)]]
 
 ---

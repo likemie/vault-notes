@@ -6,7 +6,7 @@ aliases:
 summary: "知识的创造、建构与合法化过程；在高等教育与地缘政治中关注资本与权力的利益分配，在跨国治理中指向国际组织通过自指性研究帝国对可量化证据的垄断生产。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -40,6 +40,7 @@ related_persons:
   - "[[Chen Kuan-Hsing]]"
 related_facts:
   - "[[OECD]]"
+  - "[[World Bank]]"
   - "[[Systems Approach for Better Education Results]]"
 related_arguments:
   - "[[Argument_Partaken_2022_Springer]]"
@@ -94,7 +95,7 @@ updated: 2026-09-12
 > [!feature] 核心要素
 > - **知识所有权与生产权的结构性分离** 科学知识由大学学者生产，但在法理和经济所有权上往往属于资助的企业与国家实体；欧洲学术专利中高达 60%–81% 归工业公司所有，知识生产从根本上面临资本的控制与异化。[[Argument_Partaken_2022_Springer|(Partaken, 2022, p. 71)]]
 > - **知识类型的不对称性繁荣与衰退** 具备直接商业化与量化潜力的硬科学及专利知识受到国家和产业的强力支持；而以定性批判为特色的[[Narrative Knowledge|叙事知识]]（社会科学与人文学科）在研究资助框架中被急剧边缘化。[[Argument_Partaken_2022_Springer|(Partaken, 2022, pp. 71, 74)]]
-> - **国际组织的自指性内部研究帝国** 跨国组织（如世界银行）建立高度封闭的内部知识生产体系，自主设立课题、在内部开展审查，并通过建立自指性实践仓库与量化基准数据库（如 [[Systems Approach for Better Education Results|SABER]]）将内部知识合法化为全球通用模板。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 544–545)]]
+> - **国际组织的自指性内部研究帝国** 跨国组织（如[[World Bank|世界银行]]）建立高度封闭的内部知识生产体系，自主设立课题、在内部开展审查，并通过建立自指性实践仓库与量化基准数据库（如 [[Systems Approach for Better Education Results|SABER]]）将内部知识合法化为全球通用模板。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 544–545)]]
 > - **量化、可比与标准化知识的武器化** 现代跨国知识生产专门聚焦于能够跨越国别情境的量化指标，将教育复杂性折算为标准化分值，以此为跨国远处调控提供无须主权法律强制的政治杠杆。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 539)]]
 
 > [!logic-map]- 知识生产的双重权力运作路径
@@ -134,7 +135,7 @@ updated: 2026-09-12
 > 剖析超国家组织如何脱离独立学术共同体，凭借自主生产与内部中介确立全球政策知识霸权。
 
 > [!claim] [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]]
-> **自产自销自资助的一体化知识帝国** 跨国组织在教育领域的知识生产表现出强烈的自指性（Self-referential）特征。以世界银行和[[OECD|经合组织]]为代表的治理巨头不仅研发测试指标，更在组织内部自行开展研究、撰写专题评估、建立最佳实践仓库，并在推销其知识方案时配套项目贷款或技术资助。这种集“生产—中介—资助”于一体的封闭运作，借助科学理性的客观外衣遮蔽了深层制度利益，将量化政策知识深度武器化为排他性的治理特权。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–540, 544–545)]]
+> **自产自销自资助的一体化知识帝国** 跨国组织在教育领域的知识生产表现出强烈的自指性（Self-referential）特征。以[[World Bank|世界银行]]和[[OECD|经合组织]]为代表的治理巨头不仅研发测试指标，更在组织内部自行开展研究、撰写专题评估、建立最佳实践仓库，并在推销其知识方案时配套项目贷款或技术资助。这种集“生产—中介—资助”于一体的封闭运作，借助科学理性的客观外衣遮蔽了深层制度利益，将量化政策知识深度武器化为排他性的治理特权。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–540, 544–545)]]
 
 ---
 
@@ -188,7 +189,7 @@ updated: 2026-09-12
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Partaken_2022_Springer\|Partaken (2022)]] | 欧洲与美国大学学术专利数据（引自 Lissoni, 2012） | 知识产权与专利所有权统计普查 | 工业公司拥有的学术专利比例 vs 大学拥有比例 | 欧洲学术专利的 60%–81% 法律所有权归工业公司所有；美国大学拥有其 68.7% | — | 实证证实学术知识生产与经济所有权之间的严重割裂，大学学者生产知识但由产业控制资本权益 |
-> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] | 世界银行教育知识资产普查（[[Systems Approach for Better Education Results\|SABER]] 指标库及内部研究报告）；全球 30 个涉教育国际组织 | 跨国政策工具计量普查；治理机构数据库追踪 | 内部基准指标数量；自指性方案库规模；经济组织涉足教育比例 | 世界银行 SABER 涵盖 1,600 余项系统性指标；政策仓库收录 1,120 项教育回报率自指性研究；33.3% 涉教育国际组织属于经济协调类机构 | — | 实证展现超国家组织自指性知识生产帝国的巨大规模，及其集知识生产、指标制定与项目贷款于一体的垄断特征 |
+> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] | 世界银行教育知识资产普查（[[Systems Approach for Better Education Results\|SABER]] 指标库及内部研究报告）；全球 30 个涉教育国际组织 | 跨国政策工具计量普查；治理机构数据库追踪 | 内部基准指标数量；自指性方案库规模；经济组织涉足教育比例 | [[World Bank\|世界银行]] SABER 涵盖 1,600 余项系统性指标；政策仓库收录 1,120 项教育回报率自指性研究；33.3% 涉教育国际组织属于经济协调类机构 | — | 实证展现超国家组织自指性知识生产帝国的巨大规模，及其集知识生产、指标制定与项目贷款于一体的垄断特征 |
 
 ---
 
@@ -196,6 +197,6 @@ updated: 2026-09-12
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Partaken_2022_Springer|Partaken (2022)]] — [[Geopolitics of Knowledge|知识地缘政治]]专著，系统辨析学术知识生产的资本化、专利所有权剥离及[[Narrative Knowledge|叙事知识]]的全球萎缩。
-> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — [[Governing by Numbers|数字治理]] 2.0 框架下解析[[OECD|经合组织]]与世界银行的内部自指性知识生产、工具打包与[[Policy Brokerage|政策中介]]机制。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — [[Governing by Numbers|数字治理]] 2.0 框架下解析[[OECD|经合组织]]与[[World Bank|世界银行]]的内部自指性知识生产、工具打包与[[Policy Brokerage|政策中介]]机制。
 
 

@@ -9,7 +9,7 @@ title: "Argument_Cowen_2023_CE"
 argument_key: "Argument_Cowen_2023_CE"
 argument_display_title: "Comparative education: and now? Comparative Education, 59(3), 326-340"
 argument_kind: "journal-article"
-argument_related_count: 65
+argument_related_count: 66
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -88,6 +88,7 @@ related_facts:
   - "[[National Security Law]]"
   - "[[IEA]]"
   - "[[Comparative Education Center at Chicago 1958]]"
+  - "[[UNESCO]]"
   - "[[OECD]]"
 related_arguments:
   - "[[Argument_Klerides_2023_CE]]"
@@ -312,7 +313,7 @@ citation_aliases:
 > - **Will Brehm (2023)**
 >   **美国比较教育政治史**<br>讲述[[Comparative Education Center at Chicago 1958|芝加哥大学比较教育中心]]（[[C. Arnold Anderson]] 创立）的历史演变。 Anderson 在1950年代将教育经济学与比较教育融合，推动了[[Human Capital Theory|人力资本理论]]的全球扩张。Brehm 论证这其实是冷战时期美国遏制共产主义、推广全球霸权的技术官僚规划，进而发出关于世界政治变迁对学科冲击的预警。(Brehm, 2023)
 > - **Maren Elfert (2023)**
->   **国际组织的知识政治**<br>分析联合国教科文组织（United Nations Educational, Scientific and Cultural Organization，UNESCO）和[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD）之间从早期的人文主义承诺向现代数据化绩效治理的转变。Elfert 揭示了国际组织如何通过知识政治（politics of knowledge）将教育政策简化为可测量的技术性指标，脱离了传统的[[Democratic Education|民主教育]]关切。(Elfert, 2023)
+>   **国际组织的知识政治**<br>分析[[UNESCO|联合国教科文组织]]（United Nations Educational, Scientific and Cultural Organization，UNESCO）和[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD）之间从早期的人文主义承诺向现代数据化绩效治理的转变。Elfert 揭示了国际组织如何通过知识政治（politics of knowledge）将教育政策简化为可测量的技术性指标，脱离了传统的[[Democratic Education|民主教育]]关切。(Elfert, 2023)
 > - **[[Eleftherios Klerides]] (2023)**
 >   **[[Wight's Three Traditions of International Theory|国际关系理论]]的重新引入**<br>引入 Martin Wight 的经典国际关系理论三大传统（[[Realism in International Relations|现实主义]]、[[Rationalism in International Relations|理性主义]]、[[Revolutionism|革命主义]]），论证不同时代比较教育的重心和话语体系实际上受地缘政治秩序演变的支配，为[[Discipline-Based Theory|学科理论]]工作提供跨学科的新解释框架。([[Argument_Klerides_2023_CE|Klerides, 2023]])
 > - **Terri Seddon (2023)**

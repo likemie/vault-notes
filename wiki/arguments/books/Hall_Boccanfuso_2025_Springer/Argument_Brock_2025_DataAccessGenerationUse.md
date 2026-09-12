@@ -28,6 +28,7 @@ related_methods:
 related_persons: []
 related_facts:
   - "[[University Industry Demonstration Partnership]]"
+  - "[[World Bank]]"
   - "[[National Science Foundation]]"
   - "[[ICMJE Data Sharing Requirements 2018]]"
 related_arguments: []
@@ -44,9 +45,9 @@ title: "Argument_Brock_2025_DataAccessGenerationUse"
 argument_key: "Argument_Brock_2025_DataAccessGenerationUse"
 argument_display_title: "Data: Access, generation, use"
 argument_kind: "book"
-argument_related_count: 14
-argument_related_level: 0
-argument_related_stars: ""
+argument_related_count: 15
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
 book_title: "University-Industry Collaboration: Innovation at the Interface"
 year: 2025
@@ -204,7 +205,7 @@ citation_aliases:
 
 **学科特定联合体：** NIH 资助的罕见病临床研究网络（Rare Disease Clinical Research Network）在成员之间协调研究招募和数据共享。跨大学政治与社会研究联合体（Inter-university Consortium for Political and Social Research, ICPSR）是社会与行为科学领域历史最悠久的学术数据联盟。NCI 流行病学与基因组学研究计划（Epidemiology and Genomics Research Program）则突出四个联合体并描述数据共享的期望标准。
 
-**通用数据存储库：** Harvard Dataverse 是一个免费、跨学科的数据存储库，向所有研究者开放，支持数据共享、存档、引用和探索。Data.gov 托管超过 30 万个美国政府开放数据集。World Bank Open Data 提供全球发展数据的免费开放获取，包括开放数据目录和微数据图书馆。
+**通用数据存储库：** Harvard Dataverse 是一个免费、跨学科的数据存储库，向所有研究者开放，支持数据共享、存档、引用和探索。Data.gov 托管超过 30 万个美国政府开放数据集。[[World Bank]] Open Data 提供全球发展数据的免费开放获取，包括开放数据目录和微数据图书馆。
 
 **数据管理与发现工具：** DataCite 致力于确保研究成果和资源的开放连接，支持创建和管理持久标识符（Persistent Identifiers, PIDs）。Re3data 是由德国研究基金会资助的全球研究数据存储库注册系统。Data Curation Network 是由机构和数据存储库组成的会员组织，目标是通过使数据更加符合伦理、可重用和可理解来推进开放研究。
 

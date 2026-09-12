@@ -7,7 +7,7 @@ aliases:
 summary: "经过目的性选择和加工的派生统计量，具备“技术理性”与“权力规制”双重属性（Le Galès, 2016）。通过将异质、复杂的教育系统还原为跨国可比的数值与排名，绩效指标在提供决策信息的同时重塑行动者行为与治理关系。在数字治理 2.0 时代，绩效指标成为中介机构为充满歧义性的政策决策构筑“理性表象”的核心脚手架（Steiner-Khamsi et al., 2024）。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 38
+related_count: 39
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -57,6 +57,7 @@ related_facts:
   - "[[Education at a Glance]]"
   - "[[PISA]]"
   - "[[A Nation at Risk 1983]]"
+  - "[[World Bank]]"
   - "[[Systems Approach for Better Education Results]]"
   - "[[YOUNG_ADULLLT]]"
 related_arguments:
@@ -172,7 +173,7 @@ updated: 2026-09-12
 > - **1988 — [[International Indicators of Education Systems|INES]] 项目启动与指标工业化奠基** OECD 正式设立“[[International Education|国际教育]]指标开发项目”（INES），系统研制涵盖产出、投入与过程的三维指标体系，博塔尼（Bottani）推动确立了“不完美的数据好过没有数据”的务实政策工具主义原则。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 8)]]
 > - **1992 — 《[[Education at a Glance|教育概览]]》（EAG）首版与指标制度化** OECD 正式出版首部《教育概览》，标志着教育绩效指标实现年度常规化出版，确立了全球通用的比较指标标准体系。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 11)]]
 > - **2000年代 — [[PISA]] 与心理测量跨国排名的绝对统治** 博塔尼称之为“绩效指标痴迷与心理测量比较的全面胜利”，指标体系不再仅仅提供系统概况，而是演变为以标准分数排序决定国家教育优劣的全球问责机制。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 13)]]
-> - **2010年代 — 区域记分牌与多边排他性同盟分化** 欧盟通过 EUROSTAT 推广区域创新记分牌（RIS）；世界银行则在华盛顿总部开发“[[Systems Approach for Better Education Results|改善教育成果系统分析法]]”（SABER），各多边巨头发展出自成体系的指标数据库并借此结成排他性政策同盟。[[Argument_Rambla_2022_Springer|(Rambla, 2022, pp. 169–170)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 545–546)]]
+> - **2010年代 — 区域记分牌与多边排他性同盟分化** 欧盟通过 EUROSTAT 推广区域创新记分牌（RIS）；[[World Bank|世界银行]]则在华盛顿总部开发“[[Systems Approach for Better Education Results|改善教育成果系统分析法]]”（SABER），各多边巨头发展出自成体系的指标数据库并借此结成排他性政策同盟。[[Argument_Rambla_2022_Springer|(Rambla, 2022, pp. 169–170)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 545–546)]]
 
 ### 实证运作中的组织行为学发现（Gorur, 2014; Rambla, 2022）
 

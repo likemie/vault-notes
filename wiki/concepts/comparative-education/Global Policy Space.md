@@ -6,7 +6,7 @@ aliases:
 summary: "Beech 基于 Castells 网络社会理论提出的概念，指全球教育场场域中多元行动者通过跨国网络协作与竞争、生产并倡导教育政策方案的空间，其话语兼具稳定性与可塑性且抽离于地方历史经验"
 type: concept
 domain: "comparative-education"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -34,6 +34,7 @@ related_methods:
 related_persons: []
 related_facts:
   - "[[OECD]]"
+  - "[[World Bank]]"
   - "[[PISA]]"
 related_arguments:
   - "[[Argument_Beech_2009_CE]]"
@@ -41,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-08
-updated: 2026-06-23
+updated: 2026-09-12
 ---
 
 # Global Policy Space
@@ -83,7 +84,7 @@ updated: 2026-06-23
 ## 核心要素
 
 > [!feature] 核心要素
-> - **非领土承载的[[Space of Flows and Space of Places|流动空间]]（Space of Flows）** 其物质基础是信息技术与高度流动的组织节点（如 [[OECD]] 总部、世界银行），允许社会实践在非领土毗连的情况下同时发生。([[Argument_Beech_2009_CE|Beech, 2009, p. 349]])
+> - **非领土承载的[[Space of Flows and Space of Places|流动空间]]（Space of Flows）** 其物质基础是信息技术与高度流动的组织节点（如 [[OECD]] 总部、[[World Bank|世界银行]]），允许社会实践在非领土毗连的情况下同时发生。([[Argument_Beech_2009_CE|Beech, 2009, p. 349]])
 > - **[[Network Society|网络社会]]运作逻辑（Network Logic）** 以自动机运作、纳入/排除的二元选择、无中心但节点不平等的非对称性，以及项目驱动的临时互通性进行灵活重组。([[Argument_Beech_2009_CE|Beech, 2009, pp. 350–351]])
 > - **[[Performativity|操演性]]评估压倒一切（Performativity）** 行动者的声誉和在网络中的主导节点地位由“影响范围”（如测试采纳度、政策引用率）界定，这使得追求可见绩效的[[Pragmatic Paradigm|实用主义]]压倒了意识形态的一致性。([[Argument_Beech_2009_CE|Beech, 2009, pp. 352–353]])
 > - **跨界[[Snowball Sampling|网络化]]延伸（Scale-jumping Extension）** 全球机构和商业教育服务企业通过网络直接绕过民族国家主权层级，将方案销售给次国家、区域甚至学校，实现全球与地方空间的非层级穿透。([[Argument_Beech_2009_CE|Beech, 2009, p. 351]])

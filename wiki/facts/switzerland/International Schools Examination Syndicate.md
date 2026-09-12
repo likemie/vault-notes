@@ -9,9 +9,9 @@ subtype: organization
 region: switzerland
 fact_region: "switzerland"
 fact_kind: "organization"
-fact_related_count: 15
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 16
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 tags:
   - region/switzerland
@@ -36,6 +36,7 @@ related_persons:
 related_facts:
   - "[[International School of Geneva]]"
   - "[[International Schools Association]]"
+  - "[[UNESCO]]"
   - "[[Founding of the International Baccalaureate]]"
   - "[[1967 Sevres International Conference on the IB]]"
 related_arguments:
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-17
-updated: 2026-08-17
+updated: 2026-09-12
 ---
 
 # International Schools Examination Syndicate
@@ -61,7 +62,7 @@ updated: 2026-08-17
 
 > [!chain-link] 独立组织成为[[Necessary and Sufficient Conditions|必要条件]]
 > - **教师倡议已经形成** 1962 年起，日内瓦教师能够召集会议并提出国际毕业会考课程问题，却主要依靠个人时间工作。
-> - **短期合同只能维持讨论** 联合国教育、科学及文化组织（United Nations Educational, Scientific and Cultural Organization，UNESCO）的四笔小额资助合计 10,000 美元，能够支付短会，无法维持办公室、秘书、会议文件和会后执行。
+> - **短期合同只能维持讨论** 联合国教育、科学及文化组织（[[UNESCO|United Nations Educational, Scientific and Cultural Organization]]，UNESCO）的四笔小额资助合计 10,000 美元，能够支付短会，无法维持办公室、秘书、会议文件和会后执行。
 > - **原有机构各有能力上限** Ecolint 正处于财政困境，英语部与法语部合并又告失败；ISA 多数成员关注小学和初中，也缺少承担大型高中课程与考试项目的资源。
 > - **资格项目需要跨年度责任主体** 国际考试必须持续收款、雇员、协调专家、保存规则并对学校和家庭兑现承诺。1964 年 ISA 年会因此决定另设具有瑞士法律地位的组织，让 IB 项目从学校和一般性协会中分离出来。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 17–20)]]
 
@@ -73,7 +74,7 @@ updated: 2026-08-17
 >
 > - **1962–1964 年　教师合作形成项目母体**
 >
->   [[Bob Leach|鲍勃·利奇]]（Bob Leach）组织社会研究教师讨论国际历史课程，德斯蒙德·科尔-贝克（Desmond Cole-Baker）在 [[International School of Geneva|Ecolint]] 内建立支持者网络。工作组首次持续使用[[International Baccalaureate|国际文凭]]名称，并通过 UNESCO and [[International Schools Association|ISA]] 合同把教师问题带入跨校会议。资金和行政仍以单次会议为单位，项目没有独立执行能力。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 17–19)]]
+>   [[Bob Leach|鲍勃·利奇]]（Bob Leach）组织社会研究教师讨论国际历史课程，德斯蒙德·科尔-贝克（Desmond Cole-Baker）在 [[International School of Geneva|Ecolint]] 内建立支持者网络。工作组首次持续使用[[International Baccalaureate|国际文凭]]名称，并通过 [[UNESCO]] and [[International Schools Association|ISA]] 合同把教师问题带入跨校会议。资金和行政仍以单次会议为单位，项目没有独立执行能力。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 17–19)]]
 >
 > - **1964–1965 年　独立法律身份与研究资金形成**
 >
@@ -92,7 +93,7 @@ updated: 2026-08-17
 ## 组织能力如何形成
 
 > [!stat-cards] 三轮资助对应三个不同组织阶段
-> - **10,000 美元** UNESCO 四笔小额合同的总额，主要支持教师会议和课程讨论。
+> - **10,000 美元** [[UNESCO]] 四笔小额合同的总额，主要支持教师会议和课程讨论。
 > - **75,000 美元** 二十世纪基金的可行性研究资助，使 ISES 可以建立办公室、聘任执行秘书、调查学校并形成外部报告。
 > - **300,000 美元** 福特基金的扩大资助，为全职执行、课程和考试定稿、学校试验及大学承认谈判提供较长时间保障。三笔数字代表从讨论、研究到实际试验的能力升级。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 18, 20–24)]]
 

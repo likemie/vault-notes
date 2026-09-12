@@ -12,7 +12,7 @@ aliases:
 summary: "由全球教育治理中的多边组织、国家政府和跨国智库共同推动的政策修辞与规范框架，旨在界定未来劳动力市场所需关键能力并塑造教育政策与自我企业家主体性；实证研究揭示其存在技能空心化、实践转译断裂以及高教宏观倡导与微观评价滞后的制度脱节，二阶元分析证实合作学习对21世纪综合高阶技能具有显著赋能效应（ES = 0.76/0.84）。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 60
+related_count: 61
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -79,6 +79,7 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[OECD]]"
+  - "[[UNESCO]]"
   - "[[European Qualifications Framework]]"
   - "[[Melbourne Declaration]]"
   - "[[PISA]]"
@@ -95,7 +96,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-20
-updated: 2026-09-07
+updated: 2026-09-12
 ---
 
 # 21st Century Skills and Competencies Discourse
@@ -105,7 +106,7 @@ updated: 2026-09-07
 ## 定义
 
 > [!def] 核心定义
-> 21 世纪技能与素养话语（21st Century Skills and Competencies Discourse，[[Single-Case Design|SCD]]）是一套在全球教育治理中广泛运作的政策修辞与规范框架。该话语由[[OECD|经合组织]]（[[OECD]]）、世界经济论坛（WEF）、联合国教科文组织（UNESCO）、欧盟委员会及跨国商业智库共同塑造，旨在应对工业 4.0、数字化转型与[[Knowledge-Based Economy|知识经济]]的不确定性，界定未来劳动力参与劳动市场与社会生活所必须具备的关键通用能力（Key Competencies），进而通过国际评估、资格框架和课程重组规约各国的教育改革方向与个体的自我发展责任。[[Argument_Zelinka_2022_SCD_subjectivity|(Zelinka, 2022, p. 254)]]; [[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 4–5)]]
+> 21 世纪技能与素养话语（21st Century Skills and Competencies Discourse，[[Single-Case Design|SCD]]）是一套在全球教育治理中广泛运作的政策修辞与规范框架。该话语由[[OECD|经合组织]]（[[OECD]]）、世界经济论坛（WEF）、[[UNESCO|联合国教科文组织]]（UNESCO）、欧盟委员会及跨国商业智库共同塑造，旨在应对工业 4.0、数字化转型与[[Knowledge-Based Economy|知识经济]]的不确定性，界定未来劳动力参与劳动市场与社会生活所必须具备的关键通用能力（Key Competencies），进而通过国际评估、资格框架和课程重组规约各国的教育改革方向与个体的自我发展责任。[[Argument_Zelinka_2022_SCD_subjectivity|(Zelinka, 2022, p. 254)]]; [[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 4–5)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 话语将关注焦点从宏观社会结构的再分配改革，转向个体技能与素养的终身积累，将青年与劳动者塑造为必须对自身[[Employability|就业能力]]负全责的“[[Self-Entrepreneur|自我企业家]]”。

@@ -9,7 +9,7 @@ summary: "芝加哥大学教育与社会学教授、比较教育研究中心主�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 21
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -47,12 +47,13 @@ related_facts:
   - "[[Comparative Education Center at Chicago 1958]]"
   - "[[Comparative and International Education Society]]"
   - "[[IEA]]"
+  - "[[World Bank]]"
 related_arguments:
   - "[[Argument_Mattheou_2009_ScientificParadigm]]"
 confidence: high
 status: draft
 created: 2026-09-07
-updated: 2026-09-11
+updated: 2026-09-12
 ---
 
 # C. Arnold Anderson
@@ -132,7 +133,7 @@ updated: 2026-09-11
 > [!influence-path] 学术与政策影响
 > - **理论路径** 将结构功能主义与实证社会学[[Paradigm|范式]]深度植入英美比较教育学，彻底瓦解了古典历史学派长达半个世纪的学术垄断。
 > - **方法路径** 倡导大规模跨国抽样、定量统计检验与跨国指标构建，直接启发了后来的[[IEA|国际教育成就评价协会]]（International Association for the Evaluation of Educational Achievement, IEA）等大规模跨国实证调查项目。
-> - **政策路径** 与玛丽·让·鲍曼等人开创的发展教育研究，深度参与战后世界银行（World Bank）与美国国际开发署（United States Agency for International Development, USAID）对第三世界国家的教育扩张与[[Human Capital Theory|人力资本]]规划。
+> - **政策路径** 与玛丽·让·鲍曼等人开创的发展教育研究，深度参与战后[[World Bank|世界银行]]（World Bank）与美国国际开发署（United States Agency for International Development, USAID）对第三世界国家的教育扩张与[[Human Capital Theory|人力资本]]规划。
 
 > [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 详细评析安德森所代表的芝加哥结构功能主义学派对恒常超越时空规律的追求及其方法论特征。

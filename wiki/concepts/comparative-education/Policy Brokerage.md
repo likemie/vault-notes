@@ -8,7 +8,7 @@ aliases:
 summary: "在信息过载与教育决策多重不确定性背景下，跨国组织或中介机构通过筛选、转译和打包研究证据以施展软治理的政治化机制。"
 type: concept
 domain: "comparative-education"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -50,6 +50,7 @@ related_methods:
 related_facts:
   - "[[OECD]]"
   - "[[PISA]]"
+  - "[[World Bank]]"
 confidence: high
 status: draft
 created: 2026-09-11
@@ -98,7 +99,7 @@ updated: 2026-09-12
 > [!feature] 核心要素
 > - **决策环境的三重生态特质** 政策中介在教育系统繁荣的根源在于教育决策固有的三重环境约束：信息过量下的歧义性（Ambiguity）、缺乏排他性专业壁垒导致的公共争议性（Contestation），以及面向未来不可预测性所引发的深层不确定性（Uncertainty）。中介机构通过提供确定性话语回应这三重挑战。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
 > - **[[Soft Power by Hard Facts|以硬事实施展软权力]]（[[Soft Power]] by Hard Facts）** 政策中介依靠数字而非叙事构筑理性、精确与普适的制度表象，通过可测量、可比较、标准化的测评指标形成软性比较压力与治理杠杆。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–539)]]
-> - **差异化中介工具打包（Instrument Bundling）** 各国际组织将核心评测工具与不同辅助产品打包，形成组织利基：[[OECD|经合组织]]以 [[PISA]] 为核心绑定同行评议与国别经验横向对照；世界银行则依靠系统性基准工具搭配自指性最佳实践仓库。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 543–545)]]
+> - **差异化中介工具打包（Instrument Bundling）** 各国际组织将核心评测工具与不同辅助产品打包，形成组织利基：[[OECD|经合组织]]以 [[PISA]] 为核心绑定同行评议与国别经验横向对照；[[World Bank|世界银行]]则依靠系统性基准工具搭配自指性最佳实践仓库。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 543–545)]]
 > - **政策周期的多阶段介入** 政策中介在政策周期的不同阶段承担异质功能：在议程设置阶段通过国际比较制造危机感并动员资源；在法案起草与决策阶段则面临主权国家行政官僚体系的高度筛选与策略性过滤。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 546–547)]]
 
 > [!logic-map]- 政策中介运行机制逻辑图
@@ -142,7 +143,7 @@ updated: 2026-09-12
 > 分析主要政府间组织在政策中介风格、经验依据与自指性引用模式上的结构性差异。
 
 > [!claim] [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]]
-> **外向型国别借鉴与自指性实践仓库的分流** 尽管不同国际组织在政策中介的宣介修辞上高度趋同，但其论证政策建议的证据基础存在本质分野：[[OECD|经合组织]]倾向于引用其他成员国的实践经验进行横向教训汲取；世界银行则高度依赖其自身建立的政策实践仓库与内部研究帝国，在论证中呈现出强烈的自指性闭合特征。各机构通过深耕专属工具建立组织利基以维系自身在全球治理中的排他性优势。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 544–545)]]
+> **外向型国别借鉴与自指性实践仓库的分流** 尽管不同国际组织在政策中介的宣介修辞上高度趋同，但其论证政策建议的证据基础存在本质分野：[[OECD|经合组织]]倾向于引用其他成员国的实践经验进行横向教训汲取；[[World Bank|世界银行]]则高度依赖其自身建立的政策实践仓库与内部研究帝国，在论证中呈现出强烈的自指性闭合特征。各机构通过深耕专属工具建立组织利基以维系自身在全球治理中的排他性优势。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 544–545)]]
 
 ---
 
@@ -210,4 +211,4 @@ updated: 2026-09-12
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 提出[[Governing by Numbers|数字治理]] 2.0 框架，系统解构[[OECD|经合组织]]与世界银行将政策中介作为全球治理工具的演进逻辑与国家回应机制。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 提出[[Governing by Numbers|数字治理]] 2.0 框架，系统解构[[OECD|经合组织]]与[[World Bank|世界银行]]将政策中介作为全球治理工具的演进逻辑与国家回应机制。

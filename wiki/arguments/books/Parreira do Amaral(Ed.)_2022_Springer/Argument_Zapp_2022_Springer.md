@@ -9,7 +9,7 @@ title: "Argument_Zapp_2022_Springer"
 argument_key: "Argument_Zapp_2022_Springer"
 argument_display_title: "Universities, Sustainable Development and the 'Knowledge Turn' in Global Governance – Causes, Mechanisms and Risks"
 argument_kind: "book"
-argument_related_count: 36
+argument_related_count: 38
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -56,6 +56,8 @@ related_facts:
   - "[[UN Sustainable Development Goals]]"
   - "[[OECD]]"
   - "[[Education at a Glance]]"
+  - "[[World Bank]]"
+  - "[[UNESCO]]"
   - "[[European Standards and Guidelines]]"
   - "[[Higher Education Authority]]"
   - "[[GATS and Trade in Education Services]]"
@@ -109,7 +111,7 @@ citation_aliases:
 
 Zapp 的论证起点是一个"缺席的在场"：自 1990 年代末以来，"全球[[Knowledge-Based Economy|知识经济]]"（global knowledge economy）话语无处不在——媒体、政策制定者、国际组织都在说：知识是二十一世纪经济的核心驱动力，而大学是生产知识的"超级工厂"(p.143)。但 Zapp 指出，**这个经济叙事有一个盲区：它只看到大学为经济服务（培养[[Human Capital Theory|人力资本]]、产生专利、驱动创新），却没有看到大学同时也在经历一场政治性的身份转型**——大学正在悄悄地变成全球治理的行动者。
 
-> 例：想象一个典型的政策讨论场景：政府投资建设"大学科技园"、[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）发布"[[Education at a Glance|教育概览]]"比较各国高教投入、世界银行说"知识投资比物理投资更重要"。在这些讨论里，大学被框定为"经济引擎"。但 Zapp 追问：大学除了帮国家赚钱，还在帮谁做事？他的答案是——大学正在帮"全世界"解决没有国界的问题：气候变化、传染病、贫困、不平等。
+> 例：想象一个典型的政策讨论场景：政府投资建设"大学科技园"、[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）发布"[[Education at a Glance|教育概览]]"比较各国高教投入、[[World Bank|世界银行]]说"知识投资比物理投资更重要"。在这些讨论里，大学被框定为"经济引擎"。但 Zapp 追问：大学除了帮国家赚钱，还在帮谁做事？他的答案是——大学正在帮"全世界"解决没有国界的问题：气候变化、传染病、贫困、不平等。
 
 ### 第二步：全球治理研究的知识转向
 
@@ -149,7 +151,7 @@ Zapp 论证大学经历了两个层次的身份变化(pp.147–149)：
 
 同时，大学和国际组织（International Organizations, IOs）在研究上深度合作。Zapp (2017b) 发现，公立大学是所有 IOs 最频繁的研究合作者——平均 40,000 篇出版物由大学和 IOs 研究者共同署名。而且这种关系是双向的：大学知识渗透进 IOs 的运作(Zapp, 2020a 发现所有 IOs 全球报告从 1980 年代末起均包含科学引用)，同时 IOs（如经济合作与发展组织 OECD）也塑造了大学的研究议程(pp.151)。
 
-> 例：想象一个循环——联合国教科文组织（UNESCO）发布一份关于"全球教育不平等"的报告，引用了 3000 篇学术论文，然后各国教育部长根据这份报告制定政策，大学的经费因此流向"教育不平等"研究，更多论文被产出，再被下一份 UNESCO 报告引用……知识就在这个循环中同时充当了治理的工具和治理的对象。
+> 例：想象一个循环——[[UNESCO|联合国教科文组织]]（UNESCO）发布一份关于"全球教育不平等"的报告，引用了 3000 篇学术论文，然后各国教育部长根据这份报告制定政策，大学的经费因此流向"教育不平等"研究，更多论文被产出，再被下一份 UNESCO 报告引用……知识就在这个循环中同时充当了治理的工具和治理的对象。
 
 **机制二：教学对齐（Aligning Teaching）**。大学用课程和学位项目培养全球治理的专业人才。Zapp 列举了丰富的案例：Oxford 开设 MSc in Global Governance and Diplomacy，Copenhagen 开设 MSc in Climate Change，KTH 开设 MA in Sustainable Technology，Manchester 提供关于发展中国家水供应与卫生政策的大规模开放在线课程（Massive Open Online Courses, MOOCs）和 Global Health and Humanitarianism 课程，Bologna 大学报告 1174 个与 SDGs 相关的课程单元，McMaster 开设全球卫生博士项目，Gothenburg 开设"从研究到政策促进可持续发展"跨学科博士项目(pp.151–152)。
 

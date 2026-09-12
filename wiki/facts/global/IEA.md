@@ -9,7 +9,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 28
+fact_related_count: 29
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -46,6 +46,7 @@ related_persons:
   - "[[Max Eckstein]]"
   - "[[Yong Zhao]]"
 related_facts:
+  - "[[UNESCO]]"
   - "[[A Nation at Risk 1983]]"
   - "[[PISA]]"
   - "[[OECD]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-08
-updated: 2026-09-08
+updated: 2026-09-12
 ---
 
 # IEA
@@ -67,7 +68,7 @@ updated: 2026-09-08
 ## 背景
 
 > [!event-context] 机构与历史背景
-> - **时间 / 地点** 1958 年在联合国教科文组织汉堡教育研究所（UNESCO Institute for Education, Hamburg）会议上发起筹划，1967 年在比利时正式注册为独立国际学术非政府组织；现秘书处设在荷兰阿姆斯特丹与德国汉堡。
+> - **时间 / 地点** 1958 年在[[UNESCO|联合国教科文组织]]汉堡教育研究所（UNESCO Institute for Education, Hamburg）会议上发起筹划，1967 年在比利时正式注册为独立国际学术非政府组织；现秘书处设在荷兰阿姆斯特丹与德国汉堡。
 > - **关键主体** [[Torsten Husén|托斯滕·胡森]]（Torsten Husén）、阿瑟·福谢（Arthur W. Foshay）等跨国教育学者，各成员国国家研究中心（National Research Centers），以及深度参与的北美实证学者（如[[Max Eckstein|马克斯·埃克斯坦]]）。
 > - **制度背景** 二战后西方国家经历教育大扩张，中央计划体制与[[Human Capital Theory|人力资本]]投资兴起，跨国学者急切希望将全世界视作一个天然的“教育实验室”，通过客观实证数据检验不同课程与教学制度的实际效能。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, p. 68)]]
 > - **触发条件** 冷战时期东西方阵营在科技与教育效能上的“军备竞赛”，以及实证社会科学家摆脱战前主观哲学描述、确立可量化与可检验[[Scientific Paradigm|科学范式]]的学科自立诉求。[[Argument_Cowen_2023_CE|(Cowen, 2023, pp. 330–331)]]

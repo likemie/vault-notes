@@ -5,7 +5,7 @@ aliases:
 summary: "一种以广泛覆盖既定学科知识和准确复现事实为通识教育标准的课程范式，可解释多科目课程的浅层学习、考试反拨以及能力改革中旧有分科结构的延续。"
 type: concept
 domain: "comparative-education"
-related_count: 16
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -32,6 +32,8 @@ related_persons:
   - "[[Nicholas Hans]]"
 related_facts:
   - "[[OECD]]"
+  - "[[World Bank]]"
+  - "[[UNESCO]]"
   - "[[Brazilian Secondary Education Curriculum Reform 1998]]"
 related_arguments:
   - "[[Argument_Beech_2009_CE]]"
@@ -39,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-09
-updated: 2026-08-22
+updated: 2026-09-12
 ---
 
 # Encyclopaedism
@@ -135,7 +137,7 @@ updated: 2026-08-22
 > - **1960 年　牛津课程改革把通识从一般知识转向学科方法** 牛津大学教育系提出横跨文理的四门专门科目和一个统整区块，用于宗教、体育、创意艺术以及学科方法与限度。通识程度开始由事实储量转向能否区分审美、道德、历史与科学判断。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 41–43)]]
 > - **1966 至 1968 年　英、美、法改革路线在约六门深度学科上汇合** 丹尼尔·贝尔（Daniel Bell）提出通过专门化实现通识教育；让·卡佩勒（Jean Capelle）批评法国考试把学生变成按题目交付知识样本的储存者，主张从十余个浅学领域缩减到约六门多样学科。英国试图扩大过窄的专门化，法国试图压缩百科全书课程，两条路线都把深度和多样性结合起来。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 39–43)]]
 > - **1960 年代后期　IB 用六学科和[[Paradigmatic Learning|范例学习]]形成制度回应** 赫尔穆特·贝克尔（Hellmut Becker）的范例学习主张主动留下知识空白，以共同核心提供背景，再用少数选项深入研究学科方法。IB 据此用六学科维持跨领域分布，用科内深究防止六门课再次变成压缩的百科全书课程，并以[[Theory of Knowledge|知识论]]（Theory of Knowledge，TOK）比较各学科的证据、方法与限度。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 43–48)]]
-> - **1990 年代　全球能力话语将百科全书主义塑造成改革对象** [[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD）、世界银行（World Bank，WB）和联合国教育、科学及文化组织（United Nations Educational, Scientific and Cultural Organization，UNESCO）推广能力发展与尊重多样性。阿根廷、巴西和智利的课程政策相继批评记忆、去语境化和割裂的分科传统。[[Argument_Beech_2009_CE|Beech (2009, pp. 353–356)]]
+> - **1990 年代　全球能力话语将百科全书主义塑造成改革对象** [[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD）、[[World Bank|世界银行]]（World Bank，WB）和联合国教育、科学及文化组织（[[UNESCO|United Nations Educational, Scientific and Cultural Organization]]，UNESCO）推广能力发展与尊重多样性。阿根廷、巴西和智利的课程政策相继批评记忆、去语境化和割裂的分科传统。[[Argument_Beech_2009_CE|Beech (2009, pp. 353–356)]]
 > - **1990 年代以后　能力语言与百科全书结构形成混合课程** 巴西政策用三大跨学科领域重组课程表述，却在领域内部保留十四门传统科目。百科全书主义由公开的教育理想转变为可以隐藏在改革框架中的制度结构。[[Argument_Beech_2009_CE|Beech (2009, pp. 356–357)]]
 
 ---

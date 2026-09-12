@@ -8,7 +8,7 @@ aliases:
 summary: "马丁·怀特将国际关系思想归纳为现实主义（马基雅维利）、理性主义（格劳秀斯）和革命主义（康德）三大传统，分别以权力、权威和武力为核心概念，克莱里德斯将其引入比较教育以解构学科的注意力议程与知识生产"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 36
+theory_related_count: 38
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -53,15 +53,17 @@ related_persons:
   - "[[Marc-Antoine Jullien]]"
 related_facts:
   - "[[Sputnik Shock 1957]]"
+  - "[[World Bank]]"
   - "[[OECD]]"
   - "[[Comparative Education Society in Europe]]"
   - "[[PISA]]"
+  - "[[UNESCO]]"
 related_arguments:
   - "[[Argument_Klerides_2023_CE]]"
 confidence: high
 status: draft
 created: '2026-06-08'
-updated: 2026-07-11
+updated: 2026-09-12
 ---
 
 # Wight's Three Traditions of International Theory
@@ -118,7 +120,7 @@ updated: 2026-07-11
 >   > [!evidence-grid]- 证据
 >   > - **殖民地部门设立** 门罗与[[Isaac Kandel|坎德尔]]在哥伦比亚大学参与美国对菲律宾和波多黎各的殖民教育规划；伦敦大学教育学院设立殖民地系以培训殖民地教育官僚 (p. 421)。
 >   > - **冷战后的“[[Development Turn in Comparative Education|发展转向]]”** 美苏争夺独立国家忠诚期间，比较教育通过证明发展中国家教育“滞后”来为地缘援助与现代化干预开辟合法性，比较与[[International Education|国际教育]]学会增添相应词汇反映了该转向 (p. 421)。
->   > - **建制合流与新自由主义延续** 世界银行和[[OECD|经合组织]]等多边组织将教育视作[[Human Capital Theory|人力资本]]投资，制造代表后福特主义效率的“最佳实践”话语，延续了全球支配关系 (p. 422)。
+>   > - **建制合流与新自由主义延续** [[World Bank|世界银行]]和[[OECD|经合组织]]等多边组织将教育视作[[Human Capital Theory|人力资本]]投资，制造代表后福特主义效率的“最佳实践”话语，延续了全球支配关系 (p. 422)。
 > - **推导** 比较教育在现实主义下演变为一种现代主义的工具，驱使国家出于地缘竞争和工业焦虑疯狂观摩“[[Reference Society|参考社会]]”，同时也使比较教育沦为列强推行殖民同化和地缘干预的“文明化工程”。([[Argument_Klerides_2023_CE|Klerides, 2023, pp. 419–422]])
 
 > [!proposition-chain] 核心命题三｜理性主义的制度正当性假设将比较教育重塑为多行动者网络[[Governing at a Distance|远处治理]]的技术中介与促进和平的[[International Mind|国际心智]]平台
@@ -196,6 +198,6 @@ updated: 2026-07-11
 ## 适用边界
 
 > [!theory-boundary] 适用边界
-> - **适合解释** 跨国教育政策流动与借用动机、国际组织（[[OECD|经合组织]]/世界银行/联合国教科文组织）的教育治理网络、比较教育学科史与学术建制变迁。
+> - **适合解释** 跨国教育政策流动与借用动机、国际组织（[[OECD|经合组织]]/[[World Bank|世界银行]]/[[UNESCO|联合国教科文组织]]）的教育治理网络、比较教育学科史与学术建制变迁。
 > - **谨慎使用** 双边或地区性教育技术合作，需注意排除纯技术性操作层面的噪音，精准提炼其宏观政治张力。
 > - **不适合解释** 微观维度的课堂教学法效果、个体层面的认知与学习机制，以及不涉及国际流动的纯本土日常学校运营。

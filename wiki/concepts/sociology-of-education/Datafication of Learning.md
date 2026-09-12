@@ -6,21 +6,54 @@ aliases:
 summary: "指在全球量化治理与新自由主义基于结果的规制驱动下，教育系统将关注焦点从教学转移到学习，并将复杂的育人过程与认知成长还原为可追踪、可量化、跨国可比的数字流、能力指标与数据库资产的认识论与社会技术过程。"
 type: concept
 domain: "sociology-of-education"
-related_count: 1
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 34
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - concept/sociology-of-education
   - theme/governance-by-numbers
   - theme/educational-technology
   - theme/comparative-education
-related_concepts: []
-related_theories: []
-related_methods: []
+related_concepts:
+  - "[[New Public Management]]"
+  - "[[Transfer Translation Transformation]]"
+  - "[[Academic Achievement]]"
+  - "[[Policy Borrowing]]"
+  - "[[Growth]]"
+  - "[[Epistemology]]"
+  - "[[Informationalization]]"
+  - "[[Learning Analytics]]"
+  - "[[Bildung]]"
+  - "[[Paradigm]]"
+  - "[[Unit of Analysis]]"
+  - "[[Governing by Numbers]]"
+  - "[[Cultural Capital]]"
+  - "[[Visible Learning]]"
+  - "[[Positivism]]"
+  - "[[Variable]]"
+  - "[[Performance Indicators]]"
+  - "[[Policy Brokerage]]"
+related_theories:
+  - "[[Governing at a Distance]]"
+  - "[[Item Response Theory]]"
+related_methods:
+  - "[[Coding in Qualitative Research]]"
+  - "[[Rasch Measurement]]"
+  - "[[Effect Size]]"
 related_instruments: []
-related_persons: []
-related_facts: []
+related_persons:
+  - "[[Gita Steiner-Khamsi]]"
+related_facts:
+  - "[[PISA]]"
+  - "[[UN Sustainable Development Goals]]"
+  - "[[UNESCO]]"
+  - "[[OECD]]"
+  - "[[World Bank]]"
+  - "[[UNICEF]]"
+  - "[[Learning Data Compact]]"
+  - "[[Building Evidence in Education]]"
+  - "[[World Education Reform Database]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
 confidence: high
@@ -73,7 +106,7 @@ updated: 2026-09-12
 > [!feature] 核心要素
 > - **从“教”向“学”的话语位移** 新自由主义公共行政通过贬低传统的投入规制（如教师编制、办学历史、师训课程），将注意力压倒性地引向产出端的“学生学到了什么”，为数据化铺平意识形态道路。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 546)]]
 > - **微观认知经验的通约化与离散化** 复杂的思维过程、情绪韧性与道德体验被转化为离散的代码与连续性量表，原本不具有可比性的不同文化背景学生被纳入同一标尺。
-> - **[[Governing at a Distance|远处治理]]与算法化审计** 学习数据化打破了学校围墙的物理边界，使联合国教科文组织、[[OECD|经合组织]]等超国家机构能够直接透过数据流对成员国课堂实施远程规制。
+> - **[[Governing at a Distance|远处治理]]与算法化审计** 学习数据化打破了学校围墙的物理边界，使[[UNESCO|联合国教科文组织]]、[[OECD|经合组织]]等超国家机构能够直接透过数据流对成员国课堂实施远程规制。
 > - **教育数据的资产化与市场提炼** 学习生成的数据流被国际商业资本（如 Pearson、McKinsey）与慈善基金会捕获，转化为可变现的算法模型、培训软件与咨询服务合同。
 
 > [!logic-map]- 要素关系
@@ -136,7 +169,7 @@ updated: 2026-09-12
 > - **2000–2010 — 跨国测评帝国与算法基准确立** [[PISA]]、TIMSS 等大规模学生评估普及，[[Item Response Theory|IRT]] 与 [[Rasch Measurement|Rasch 模型]]将复杂的跨国学生[[Academic Achievement|学业表现]]压缩为单一数字标尺。
 > - **2014 — 《治理知识》专著确立批判议程** 芬威克、芒热与奥斯加（Fenwick, Mangez, & Ozga, 2014）系统剖析基于比较与知识技术的教育规制机制。
 > - **2018 — 学习数据化概念正式界定** 陶滕霍夫德（Ernst D. Thoutenhoofd, 2018）在《Studies in Philosophy and Education》发表奠基论文，系统阐发学习数据化的哲学反思。
-> - **2021–2024 — 多边数据协定与[[Governing by Numbers|数字治理]] 2.0 时代** 教科文组织、世行与儿童基金会设立“[[Learning Data Compact|学习数据协定]]”（Learning Data Compact），施泰纳-哈姆西等（2024）揭示学习数据化已成为全球五大治理巨头构建排他性权力同盟的核心技术基础。
+> - **2021–2024 — 多边数据协定与[[Governing by Numbers|数字治理]] 2.0 时代** [[UNESCO|教科文组织]]、[[World Bank|世行]]与[[UNICEF|儿童基金会]]设立“[[Learning Data Compact|学习数据协定]]”（Learning Data Compact），施泰纳-哈姆西等（2024）揭示学习数据化已成为全球五大治理巨头构建排他性权力同盟的核心技术基础。
 
 ---
 
@@ -157,7 +190,7 @@ updated: 2026-09-12
 > > - **欧陆[[Bildung|教化]]（Bildung）传统学者** 抨击数据化是将生命还原为数字的“测验还原论”，导致学校彻底沦为应试与指标跑分工厂，瓦解了师生之间深沉的伦理与情感联结。
 
 > [!critique] 外部批评
-> - **数据主权侵蚀与数字新殖民主义** 全球南方的基础学习数据被世行、[[Building Evidence in Education|BE2]] 联盟与西方商业平台免费吸纳、分析与垄断，而受援国却丧失了对自己国民认知数据的解释权与治理自主性。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 545–546)]]
+> - **数据主权侵蚀与数字新殖民主义** 全球南方的基础学习数据被[[World Bank|世行]]、[[Building Evidence in Education|BE2]] 联盟与西方商业平台免费吸纳、分析与垄断，而受援国却丧失了对自己国民认知数据的解释权与治理自主性。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 545–546)]]
 
 > [!warning] 适用局限
 > 该概念聚焦于批判性制度与文化宏观社会学透视，不适合用于微观课堂环境下具体的心理测量模型参数校准或技术排障。
@@ -171,7 +204,7 @@ updated: 2026-09-12
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] | 全球 147 国教育政策（[[World Education Reform Database\|WERD]] 数据库，6,700 份政策文本）及跨国 IGO 指标库 | 跨国文本计量与多边治理比较分析 | 世界银行[[Performance Indicators\|教育指标]]规模、[[Learning Data Compact\|学习数据协定]]覆盖范围 | 世行教育指标由 1989 年 116 项激增至 2018 年 1,600 项；三大机构联合推展学习数据协定建立全球指标流水线 | — | 宏观全景实证，有力佐证学习数据化在跨国层面的指数级扩张与治理制度化 |
+> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] | 全球 147 国教育政策（[[World Education Reform Database\|WERD]] 数据库，6,700 份政策文本）及跨国 IGO 指标库 | 跨国文本计量与多边治理比较分析 | 世界银行[[Performance Indicators\|教育指标]]规模、[[Learning Data Compact\|学习数据协定]]覆盖范围 | [[World Bank\|世行]]教育指标由 1989 年 116 项激增至 2018 年 1,600 项；三大机构联合推展学习数据协定建立全球指标流水线 | — | 宏观全景实证，有力佐证学习数据化在跨国层面的指数级扩张与治理制度化 |
 
 ---
 

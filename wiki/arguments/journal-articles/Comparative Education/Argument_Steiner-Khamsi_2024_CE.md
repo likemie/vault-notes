@@ -83,6 +83,7 @@ related_persons:
   - "[[John Hattie]]"
 related_facts:
   - "[[OECD]]"
+  - "[[World Bank]]"
   - "[[Global Partnership for Education]]"
   - "[[Sputnik Shock 1957]]"
   - "[[Mediterranean Regional Project]]"
@@ -92,6 +93,7 @@ related_facts:
   - "[[Education at a Glance]]"
   - "[[PISA]]"
   - "[[Education for All]]"
+  - "[[UNESCO]]"
   - "[[Poverty Reduction Strategy Papers]]"
   - "[[1964 UNESCO-World Bank Cooperative Agreement]]"
   - "[[Global Development Network]]"
@@ -106,6 +108,7 @@ related_facts:
   - "[[Building Evidence in Education]]"
   - "[[Knowledge and Innovation Exchange]]"
   - "[[Learning Data Compact]]"
+  - "[[UNICEF]]"
   - "[[Definition and Selection of Competencies]]"
 related_arguments: []
 sources:
@@ -121,7 +124,7 @@ title: "Argument_Steiner-Khamsi_2024_CE"
 argument_key: "Argument_Steiner-Khamsi_2024_CE"
 argument_display_title: "Governance by numbers 2.0: policy brokerage as an instrument of global governance in the era of information overload"
 argument_kind: "journal-article"
-argument_related_count: 82
+argument_related_count: 85
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -138,7 +141,7 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> 在数字经济催生研究证据严重过剩与信息孤岛林立的时代，更多知识不仅未能消除政策制定的盲区，反而加剧了政策复杂性。在这一生态背景下，作为依托知识开展规制的两大先行机构——[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD，简称经合组织）与世界银行（World Bank），是如何以及何时将[[Policy Brokerage|政策中介]]（Policy Brokerage）建构为教育领域全球治理的核心工具？由五大国际组织、跨国教育资本与私人慈善基金会构成的[[Global Education Governing Complex|全球教育治理复合体]]如何[[Soft Power by Hard Facts|以硬事实施展软权力]]？作为主要政策对象的各国政府又如何在政策周期的不同阶段策略性动员或严苛过滤这些中介证据？（pp.537–539）
+> 在数字经济催生研究证据严重过剩与信息孤岛林立的时代，更多知识不仅未能消除政策制定的盲区，反而加剧了政策复杂性。在这一生态背景下，作为依托知识开展规制的两大先行机构——[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD，简称经合组织）与[[World Bank|世界银行]]（World Bank），是如何以及何时将[[Policy Brokerage|政策中介]]（Policy Brokerage）建构为教育领域全球治理的核心工具？由五大国际组织、跨国教育资本与私人慈善基金会构成的[[Global Education Governing Complex|全球教育治理复合体]]如何[[Soft Power by Hard Facts|以硬事实施展软权力]]？作为主要政策对象的各国政府又如何在政策周期的不同阶段策略性动员或严苛过滤这些中介证据？（pp.537–539）
 
 > [!claim] 核心主张
 > 信息过载与知识过剩为中介机构选择性提取并包装政策证据滋生了空间；国际组织通过将核心评测工具与差异化知识产品打包，[[Soft Power by Hard Facts|以硬事实施展软权力]]，借此巩固自身的组织利基；必须确立基于多学科视角的[[Governing by Numbers|数字治理]] 2.0比较研究纲领，依托[[Methodological Transnationalism|方法论跨国主义]]将全球与国家视作相互依存的[[Relational Space|关系性空间]]，揭示国家行动者在政策议程设置阶段对外在权威的工具性动员与在法定决策出台阶段的深度政治过滤。（pp.538–540, 547–549）
@@ -232,7 +235,7 @@ issuing_organization: ""
 ### 论证步骤二　经合组织与世界银行借地缘对抗与全球危机叙事将教育与经济增长捆绑，奠定硬事实规制霸权
 
 > [!claim] 步骤二核心主张
-> [[OECD|经合组织]]与世界银行作为政策中介的先行者，其制度轨迹发轫于冷战与后殖民时期的地缘对抗；两大机构通过将教育与经济增长紧密绑定，借助全球教育危机叙事与技术官僚规划，完成了从战后协调向不可逆转的量化指标帝国的历史跨越。（pp.540–543）
+> [[OECD|经合组织]]与[[World Bank|世界银行]]作为政策中介的先行者，其制度轨迹发轫于冷战与后殖民时期的地缘对抗；两大机构通过将教育与经济增长紧密绑定，借助全球教育危机叙事与技术官僚规划，完成了从战后协调向不可逆转的量化指标帝国的历史跨越。（pp.540–543）
 
 #### 1. 经合组织从冷战技术官僚预测转向由外部危机感驱动的跨国比较指标帝国
 
@@ -260,7 +263,7 @@ issuing_organization: ""
 
 在后殖民时期的全球南方，世界银行成为西方大国与苏联争夺不结盟国家影响力的关键金融与制度杠杆；[[Development Turn in Comparative Education|发展转向]]对全球南方国家的作用，正如量化转向对非共产主义全球北方国家的作用一样——自 1990 年确立首项国际协议《[[Education for All|全民教育]]》（Education for All，[[Exploratory Factor Analysis|EFA]]）开始，全球南方国家才被系统性置于国际组织的量化规制体系之下。（p.541）
 
-> [!tension-table] 世界银行与联合国教科文组织的治理理念与制度[[Paradigm|范式]]分野
+> [!tension-table] 世界银行与[[UNESCO|联合国教科文组织]]的治理理念与制度[[Paradigm|范式]]分野
 > | 比较维度 | 世界银行（World Bank） | 联合国教科文组织（UNESCO） |
 > |---|---|---|
 > | **教育哲学** | 强调人力资本投入回报、管理主义效率与经济增长导向 | 秉持人文主义关怀、国际理解与受教育基本人权导向 |
@@ -333,7 +336,7 @@ issuing_organization: ""
 > | **世界银行（World Bank）** | **贷款与赠款附加条件**、[[Systems Approach for Better Education Results\|改善教育成果系统分析法（SABER）]]、[[Randomised Controlled Trials\|随机对照试验]]（RCTs） | 集中化最佳实践政策仓库（Warehousing of Good Practices）、世界发展指标库（WDI）教育指标集、减贫战略文件（PRSPs） | **自指性内部实践循环（Self-referential lesson-drawing）**<br>[[World Education Reform Database\|WERD]] 实证显示其报告呈现高度自指特征，反复重复自身 SABER 评估指标库与既往内部项目组合，依靠教育回报率经济学测算推销统一定制处方。（pp.544–545） | 依托雄厚资金实力与管理主义科学效率实施结构调整规制；联合英国外交、联邦及发展事务部（FCDO）与美国国际开发署（USAID）成立排他性的[[Building Evidence in Education\|构建教育证据联盟（BE2）]]。 |
 > | **[[Global Partnership for Education\|全球教育伙伴关系（GPE）]]** | **多方资金配置与联合部门审查（Joint Sector Reviews）**、国家教育计划（ESP）赠款协同 | [[Knowledge and Innovation Exchange\|知识与创新交流机制（Knowledge and Innovation Exchange，KIX）]]，在发展中国家设立 4 大区域知识中介枢纽（Regional Hubs） | **区域化同侪经验交流（Regional peer exchange）**<br>促进全球南方国家在区域内部进行横向同侪互学与适应性经验转移，但在议程设定与资金分配上深度受制于核心出资国的战略偏好。 | 名义上为多利益相关者治理，实质由西方核心捐助国主导；通过 KIX 区域枢纽将中介触角直接嵌入发展中国家教育部行政体系。 |
 > | **联合国教科文组织（UNESCO）** | **国际公约与规范性框架制定**、《全球教育监测报告》（Global Education Monitoring Report，GEMR）、统计研究所（UIS）监测 | 联合国[[UN Sustainable Development Goals\|可持续发展目标]]（SDGs）中第四项教育目标（SDG 4）全球监测架构、国际教育规划研究所（IIEP）技术援助 | **规范性人权与受教育权倡导（Normative rights-based lesson-drawing）**<br>坚守人文主义教育哲学与受教育权基石，强调包容性、终身学习与社会公正，抵制将教育过度还原为人力资本与经济回报率的技术官僚倾向。（pp.541–545） | 依托联合国多边合法性与道德威权；与联合国儿童基金会联合设立[[Learning Data Compact\|“学习数据协定”（Learning Data Compact）]]，在跨国监测主导权上与世行体系形成制衡。 |
-> | **联合国儿童基金会（UNICEF）** | **多指标聚类调查（Multiple Indicator Cluster Surveys，MICS）**、新兴前沿政策议题开拓（如社会情感学习 SEL、儿童早期发展 ECD） | 女童教育与危机情境教育干预方案、儿童心理社会支持工具箱、实地人道主义救援与发展合作衔接网络 | **实地情境化儿童权利保护（Field-based child-centric lesson-drawing）**<br>聚焦最边缘化与弱势儿童群体，以实地第一手调查为证据底色，率先将社会情感学习（SEL）推向全球政策议程。 | 深入战乱与贫困第一线的实地执行网络；其开辟的 SEL 等新兴蓝海议题迅速引发经合组织与教科文组织跨界跟进与规制话语权争夺。 |
+> | **[[UNICEF\|联合国儿童基金会]]（UNICEF）** | **多指标聚类调查（Multiple Indicator Cluster Surveys，MICS）**、新兴前沿政策议题开拓（如社会情感学习 SEL、儿童早期发展 ECD） | 女童教育与危机情境教育干预方案、儿童心理社会支持工具箱、实地人道主义救援与发展合作衔接网络 | **实地情境化儿童权利保护（Field-based child-centric lesson-drawing）**<br>聚焦最边缘化与弱势儿童群体，以实地第一手调查为证据底色，率先将社会情感学习（SEL）推向全球政策议程。 | 深入战乱与贫困第一线的实地执行网络；其开辟的 SEL 等新兴蓝海议题迅速引发经合组织与教科文组织跨界跟进与规制话语权争夺。 |
 
 > [!case] 联合国儿童基金会开辟社会情感学习（SEL）引发的组织利基争夺案例
 > - **开辟未受关注的新兴政策优先事项** 在全球教育规制市场高度拥挤的背景下，国际组织竞相寻找未被开发的全新政策领域以确立比较优势；联合国儿童基金会率先将社会情感学习（Social-Emotional Learning，SEL）推向全球政策议程，开辟出自身专属的政策中介蓝海。
@@ -410,7 +413,7 @@ issuing_organization: ""
 
 > [!finding-cards] 核心发现
 > 1. **[[Governing by Numbers|数字治理]] 2.0 确立了信息过载时代的[[Policy Brokerage|政策中介]]分析[[Paradigm|范式]]** 阐明在研究证据严重过剩与信息孤岛环境下，知识激增并未消除决策歧义，反而促使兼具[[Knowledge Production|知识生产]]、方案推销与项目资助功能的政策中介机构崛起。（pp.538–540）
-> 2. **历史溯源揭示了国际组织由地缘对抗走向硬事实规制的制度轨迹** 证实[[OECD|经合组织]]与世界银行从冷战时期的人力规划与开发放贷出发，最终通过建构庞大的可量化指标体系与研究帝国，奠定了当代全球规制基石。（pp.540–543）
+> 2. **历史溯源揭示了国际组织由地缘对抗走向硬事实规制的制度轨迹** 证实[[OECD|经合组织]]与[[World Bank|世界银行]]从冷战时期的人力规划与开发放贷出发，最终通过建构庞大的可量化指标体系与研究帝国，奠定了当代全球规制基石。（pp.540–543）
 > 3. **复合体内部存在高度分化的工具打包与组织利基** 揭示经合组织倾向于外向型国别经验对照，世界银行呈现高度自指性的最佳实践仓库运作模式，且各机构表面协同而实质组建排他性同盟争夺主导权。（pp.544–546）
 > 4. **实证检验揭示了主权国家在政策周期不同阶段对外部证据的戏剧性过滤** 证实在[[Transfer Space|转移空间]]中国家行动者策略性动员外部权威以化解国内政治僵局，但在法定行政法令出台阶段实施了严酷的政治筛选，打破了全球霸权直推的简单[[Hypothesis|假设]]。（pp.547–548）
 
@@ -430,7 +433,7 @@ issuing_organization: ""
 > *Of course, the differentiation between knowledge brokerage and policy brokerage is fluid when the same organisation brokers knowledge it previously produced in-house or, even more blatantly, produces, brokers, and funds its projects with recourse to scientific rationality. Therefore, we propose to use the term 'policy brokerage' rather than the more neutral term 'knowledge brokerage' throughout this article.*
 
 > [!citation-card] [[Global Education Governing Complex|全球教育治理复合体]]的武器化知识
-> 目前，教育领域的五大巨头（[[Global Partnership for Education|全球教育伙伴关系]]、[[OECD|经合组织]]、联合国教科文组织、联合国儿童基金会、世界银行）都在[[Soft Power by Hard Facts|以硬事实施展软权力]]。五大组织连同其资助者（成员国、跨国企业、私人基金会）共同构成了全球教育治理复合体；该复合体将特定类型的知识——即可量化、可比较且可标准化的知识——武器化，用以迫使各国政府为达成各项国际目标与指标承担问责责任。（p.539）
+> 目前，教育领域的五大巨头（[[Global Partnership for Education|全球教育伙伴关系]]、[[OECD|经合组织]]、[[UNESCO|联合国教科文组织]]、[[UNICEF|联合国儿童基金会]]、[[World Bank|世界银行]]）都在[[Soft Power by Hard Facts|以硬事实施展软权力]]。五大组织连同其资助者（成员国、跨国企业、私人基金会）共同构成了全球教育治理复合体；该复合体将特定类型的知识——即可量化、可比较且可标准化的知识——武器化，用以迫使各国政府为达成各项国际目标与指标承担问责责任。（p.539）
 >
 > *By now, all Big Five in the education sector (Global Partnership for Education, OECD, UNESCO, UNICEF, World Bank) exert '[[Soft Power]] by hard facts' (Niemann and Martens 2018). Combined, the Big Five and their funders (member states, businesses, private foundations) constitute a 'global education governing complex' (Ydesen 2019) that weaponises a particular kind of knowledge – quantifiable, comparable, and standardizable – in order to hold governments accountable for the achievement of international goals and targets.*
 
@@ -449,7 +452,7 @@ issuing_organization: ""
 ## 自述局限
 
 > [!warning]
-> 原文指出的研究局限与未来议程包括：当前关于全球[[Policy Brokerage|政策中介]]的研究仍过度聚焦于先行者[[OECD|经合组织]]（特别是 [[PISA]]）与世界银行，未能充分展开对其他涉足教育的国际组织、区域枢纽及新兴公私伙伴的全面比较历史追踪；各国际组织在政策中介互动中的相互依赖机制（究竟是制度模仿、分而治之还是正面竞争）仍处于经验探索初期；面对公众对政治操弄的持续疑虑，政策中介如何在海量竞争者中持久维系科学公信力，仍是一个充满理论与实证张力的未决难题。（pp.544–545, 549–550）
+> 原文指出的研究局限与未来议程包括：当前关于全球[[Policy Brokerage|政策中介]]的研究仍过度聚焦于先行者[[OECD|经合组织]]（特别是 [[PISA]]）与[[World Bank|世界银行]]，未能充分展开对其他涉足教育的国际组织、区域枢纽及新兴公私伙伴的全面比较历史追踪；各国际组织在政策中介互动中的相互依赖机制（究竟是制度模仿、分而治之还是正面竞争）仍处于经验探索初期；面对公众对政治操弄的持续疑虑，政策中介如何在海量竞争者中持久维系科学公信力，仍是一个充满理论与实证张力的未决难题。（pp.544–545, 549–550）
 
 ---
 

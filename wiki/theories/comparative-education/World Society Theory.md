@@ -10,7 +10,7 @@ aliases:
 summary: "将全球制度趋同阐释为世界文化模型（world culture models）扩散与模仿产物的新制度主义社会学理论。它主张全球化不是简单的功能主义或国家强权统治产物，而是以普世进步和正义规范为基础的去中心化“世界社会”在观念层面的建构，用于解释教育系统和组织形式在跨国范围内呈现的趋同趋势。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 27
+theory_related_count: 28
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -44,6 +44,7 @@ related_facts:
   - "[[PISA]]"
   - "[[Liberal Studies]]"
   - "[[Citizenship and Social Development]]"
+  - "[[World Bank]]"
   - "[[OECD]]"
   - "[[UN Sustainable Development Goals]]"
 related_arguments:
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-11
-updated: 2026-07-13
+updated: 2026-09-12
 ---
 
 # World Society Theory
@@ -143,7 +144,7 @@ updated: 2026-07-13
 > [!theory-use] 如何用于研究
 > - **作为理论框架** 解释为何许多发展中国家会建立起与本地生产力完全脱节的、高度现代化的大学组织或复杂的环境法案，证明其并非基于本土功能需求，而是仪式性合规。
 > - **作为分析工具** 将全球教育规划流转编码为“世界政体”理论中的理性神话，开发针对课程标准、学会建制更名、国际组织倡议扩散的话语追踪指标。
-> - **作为批判视角** 揭示世界银行或[[OECD|经合组织]]所推行的“最佳实践”在实质上并不具备普世的技术客观性，而是一种去情境化的世界文化模板，在客观上起到了消解非西方地方性认识论主权的效果。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 428]])
+> - **作为批判视角** 揭示[[World Bank|世界银行]]或[[OECD|经合组织]]所推行的“最佳实践”在实质上并不具备普世的技术客观性，而是一种去情境化的世界文化模板，在客观上起到了消解非西方地方性认识论主权的效果。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 428]])
 
 ---
 

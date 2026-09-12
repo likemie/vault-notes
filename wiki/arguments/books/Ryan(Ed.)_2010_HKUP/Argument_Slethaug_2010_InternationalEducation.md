@@ -9,7 +9,7 @@ title: "Argument_Slethaug_2010_InternationalEducation"
 argument_key: "Argument_Slethaug_2010_InternationalEducation"
 argument_display_title: "Something Happened While Nobody Was Looking: The Growth of International Education and the Chinese Learner"
 argument_kind: "book"
-argument_related_count: 15
+argument_related_count: 16
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -39,6 +39,7 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[OECD]]"
+  - "[[UNESCO]]"
   - "[[PISA]]"
   - "[[Academic Ranking of World Universities]]"
   - "[[English Schools Foundation Hong Kong]]"
@@ -76,7 +77,7 @@ citation_aliases:
 ## 研究方法
 
 > [!info]
-> 汇集来自 [[OECD]]、IIE（[[International Education|国际教育]]协会）、UNESCO、各国政府统计和主流媒体的二手数据，再结合已有学术[[Document|文献]]的分析，拼接出一幅国际教育发展的全景图。
+> 汇集来自 [[OECD]]、IIE（[[International Education|国际教育]]协会）、[[UNESCO]]、各国政府统计和主流媒体的二手数据，再结合已有学术[[Document|文献]]的分析，拼接出一幅国际教育发展的全景图。
 >
 > 值得注意的方法论局限：不同来源对同一现象的统计经常大相径庭（如中国出国留学生人数），Slethaug 指出了这些差异但未系统评估各数据来源的[[Reliability|可靠性]]。
 

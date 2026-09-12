@@ -9,7 +9,7 @@ title: "Argument_Rizvi_2022_Springer"
 argument_key: "Argument_Rizvi_2022_Springer"
 argument_display_title: "Rise of Asia, geopolitical shifts and higher education"
 argument_kind: "book"
-argument_related_count: 34
+argument_related_count: 35
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -61,6 +61,7 @@ related_persons: []
 related_facts:
   - "[[GATS and Trade in Education Services]]"
   - "[[Australia in the Asian Century White Paper]]"
+  - "[[World Bank]]"
   - "[[OECD]]"
 related_arguments: []
 sources:
@@ -181,7 +182,7 @@ Rizvi 从高等教育过去三十年的深刻变化说起。他列出一系列�
 - **殖民时期** 殖民势力塑造了被殖民地的现代高等教育体系——"这些高等教育机构在殖民者的地缘政治想象框架内运作"(p.91)。举例：英国在印度建立的大学，其课程和教育方法是为帝国服务的，生产的是忠于帝国利益的臣民。
 - **二战后去殖民化** 政治独立了，但"大多数殖民安排仍然持续存在"(p.91)。为什么？因为新独立国家缺乏资源和想象力去创造替代性的知识体系，只能转向前殖民者寻求援助——而援助从来不是中立的，"外国援助始终是扩展政治影响力和商业利益的手段"。
 - **冷战时期** 美国和苏联都通过奖学金项目争夺发展中国家学生——表面上是为了帮助这些国家培养经济发展所需人才，实际上是将高等教育与地缘政治利益绑定。这就是 Escobar (1995) 所批判的"发展主义"意识形态——把西方的发展道路包装成普世的、中立的"进步"。
-- **后冷战新自由主义** 市场意识形态成为霸权——"这种新自由主义全球化理解鼓励了一种新的政治想象"(p.92)。关键转折：国际合作和发展援助的框架没有消失，但被嵌套进了商业化的逻辑里。WTO、世界银行、全球企业、基金会和智库成为新自由主义情感全球流通的载体。
+- **后冷战新自由主义** 市场意识形态成为霸权——"这种新自由主义全球化理解鼓励了一种新的政治想象"(p.92)。关键转折：国际合作和发展援助的框架没有消失，但被嵌套进了商业化的逻辑里。WTO、[[World Bank|世界银行]]、全球企业、基金会和智库成为新自由主义情感全球流通的载体。
 
 > 高等教育从来不是地缘政治中立的——它始终是地缘政治力量运作的场所。
 

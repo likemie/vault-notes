@@ -7,7 +7,7 @@ aliases:
 summary: "Grek (2009) 提出的概念，指通过量化指标、国际排名和数据比较实现跨国教育治理的软性机制，PISA 是这一治理模式的典型工具"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 27
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -46,7 +46,9 @@ related_persons:
 related_facts:
   - "[[PISA]]"
   - "[[OECD]]"
+  - "[[World Bank]]"
   - "[[Building Evidence in Education]]"
+  - "[[UNESCO]]"
   - "[[Learning Data Compact]]"
   - "[[Systems Approach for Better Education Results]]"
 related_arguments:
@@ -69,7 +71,7 @@ updated: 2026-09-12
 
 > [!concept-lens] 概念透镜
 > - **含义** 教育治理的权力运作不再主要依赖强制或立法，而是通过数据生产、排名比较、指标标准化以及政策中介的证据包装来引导各国教育政策向特定方向靠拢。
-> - **用途** 用于分析国际组织（尤其是 [[OECD]] 与世界银行）如何通过评估工具以“软治理”方式重塑各国教育政策议程，以及量化数据如何在政治决策中获得合法性。
+> - **用途** 用于分析国际组织（尤其是 [[OECD]] 与[[World Bank|世界银行]]）如何通过评估工具以“软治理”方式重塑各国教育政策议程，以及量化数据如何在政治决策中获得合法性。
 > - **边界** 不等于传统自上而下的科层治理或法律强制——数字治理依赖的是信息的权威性和比较压力，而非直接命令；亦非中立的科学传播，数据生产与中介转译本身包含政治性的分类、标准化与排他性网络逻辑。
 
 > [!citation-card] 数字治理 2.0 的研究议程
@@ -101,7 +103,7 @@ updated: 2026-09-12
 > - **量化数据的政治权威** [[PISA]] 等数据被分析和解读后为教育政策制定和改革所用。国际组织通过发布测评结果和全球排名，为各国政策制定者提供远距离指导（Remote Guidance），用以验证既有改革的合法性或驱动后续政策（Gillis et al., 2016）。
 > - **去情境化与普遍性外观** 跨国测验受益于其去情境化和普遍性特征，使不同政治、文化和历史背景的教育体系可以在同一标尺上被排列和比较，为循证政策制定披上[[Façade of Rationality|理性外衣]]。
 > - **信息过量下的[[Policy Brokerage|政策中介]]化（2.0 阶段特征）** 在数字化时代的研究证据过剩与信息孤岛环境下，更多知识并未减少政策歧义；数字治理演进为依托[[Policy Brokerage|政策中介]]机构选择性筛选科研发现并将其[[Transfer Translation Transformation|转译]]为定向政策证据。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
-> - **[[Soft Power by Hard Facts|以硬事实施展软权力]]（[[Soft Power]] by Hard Facts）** 国际组织将核心中介工具与差异化知识产品打包（如[[OECD|经合组织]]的 PISA 绑定国别经验对照，世界银行的基准数据库绑定自指性实践仓库），通过指标问责施展软权力。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 539, 544)]]
+> - **[[Soft Power by Hard Facts|以硬事实施展软权力]]（[[Soft Power]] by Hard Facts）** 国际组织将核心中介工具与差异化知识产品打包（如[[OECD|经合组织]]的 PISA 绑定国别经验对照，[[World Bank|世界银行]]的基准数据库绑定自指性实践仓库），通过指标问责施展软权力。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 539, 544)]]
 
 > [!logic-map]- 数字治理 1.0 向 2.0 演进逻辑图
 > ```mermaid
@@ -133,7 +135,7 @@ updated: 2026-09-12
 ### 命题一　跨国量化评估构筑起无需强制法律的远距离软治理机制
 
 > [!concept-lens] 软治理与排名问责
-> 探讨国际组织如何将教育系统表现转化为跨国数据，从而行使软性权力。
+> 探讨国际组织如何将教育系统表现转化为跨国数据，从而行使[[Soft Power|软性权力]]。
 
 > [!claim] Grek (2009)
 > **信息生产与软性权力机制** [[PISA]] 代表的数字治理机制通过将教育系统表现量化为跨国可比的排名和数据，使 [[OECD]] 能够在不对各国施加法律强制的情况下引导全球教育改革方向。
@@ -159,7 +161,7 @@ updated: 2026-09-12
 > 分析各大国际组织如何将指标与测评工具转化为维系自身排他性权力同盟与资助地盘的武器。
 
 > [!claim] [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]]
-> **量化知识的排他性武器化与多边利基割据** 在数字治理 2.0 阶段，量化指标与测评工具不仅被用于向受测主权国家施加问责压力，更在跨国机构之间被深度“武器化”（weaponised），演变为各大国际组织维系专属治理领地、防范职能被蚕食的防御性制度武器。尽管跨国组织在修辞上高调宣称多边协同（如发起 [[Building Evidence in Education|BE2]] 智库联盟），但在实践中极力捍卫自身不可替代的测量品牌与项目资助利基。例如当联合国教科文组织与世界银行共同发起“[[Learning Data Compact|学习数据协定]]”（Learning Data Compact）意图统合格局时，经合组织明确拒绝加入，转而独立与德国开发署合作推广 PISA-D，揭示出数字治理表面量化中立性掩盖下的跨国地盘割据与制度权力同盟。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 539, 549–550)]]
+> **量化知识的排他性武器化与多边利基割据** 在数字治理 2.0 阶段，量化指标与测评工具不仅被用于向受测主权国家施加问责压力，更在跨国机构之间被深度“武器化”（weaponised），演变为各大国际组织维系专属治理领地、防范职能被蚕食的防御性制度武器。尽管跨国组织在修辞上高调宣称多边协同（如发起 [[Building Evidence in Education|BE2]] 智库联盟），但在实践中极力捍卫自身不可替代的测量品牌与项目资助利基。例如当[[UNESCO|联合国教科文组织]]与[[World Bank|世界银行]]共同发起“[[Learning Data Compact|学习数据协定]]”（Learning Data Compact）意图统合格局时，经合组织明确拒绝加入，转而独立与德国开发署合作推广 PISA-D，揭示出数字治理表面量化中立性掩盖下的跨国地盘割据与制度权力同盟。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 539, 549–550)]]
 
 ---
 
@@ -212,12 +214,12 @@ updated: 2026-09-12
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024, p. 547)]] | 挪威能力课程改革（5 个专家委员会[[Document\|文献]] vs 最终颁布的部长令） | 跨国政策咨询文献引用网络追踪分析 | 专家委员会参考文献总数 vs 最终进入部长令的文献数 | 专家委员会总计列入 464 篇文献，最终仅有 22 篇被部长令引用；且被引的 22 篇中有 20 篇全部来自专门审查[[OECD\|经合组织]] DeSeCo 项目的同一专家委员会 | — | 强有力证明国家行政当局在法定决策阶段对数字治理中介知识的极端选择性吸收与政治过滤 |
-> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024, pp. 544, 549)]] | 全球 30 个涉教育政府间组织（IOs）；世界银行 [[Systems Approach for Better Education Results\|SABER]] 与教育回报率数据库 | 跨国治理机构职能数据库追踪；多边政策工具计量普查 | 经济类国际组织占比；指标与基准工具规模 | 涉教育国际组织中 33.3% 为非专门的经济合作协调组织；世界银行 SABER 涵盖 1,600 余项系统性指标，政策仓库汇聚 1,120 项教育回报率自指性研究 | — | 实证揭示跨界经济组织在数字治理中的主导地位，以及跨国中介依赖自指性量化证据建构组织利基的规模 |
+> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024, pp. 544, 549)]] | 全球 30 个涉教育政府间组织（IOs）；世界银行 [[Systems Approach for Better Education Results\|SABER]] 与教育回报率数据库 | 跨国治理机构职能数据库追踪；多边政策工具计量普查 | 经济类国际组织占比；指标与基准工具规模 | 涉教育国际组织中 33.3% 为非专门的经济合作协调组织；[[World Bank\|世界银行]] SABER 涵盖 1,600 余项系统性指标，政策仓库汇聚 1,120 项教育回报率自指性研究 | — | 实证揭示跨界经济组织在数字治理中的主导地位，以及跨国中介依赖自指性量化证据建构组织利基的规模 |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 提出数字治理 2.0 理论框架，系统探讨[[OECD|经合组织]]与世界银行的[[Policy Brokerage|政策中介]]机制及其在国家政策周期中的多阶段效应。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 提出数字治理 2.0 理论框架，系统探讨[[OECD|经合组织]]与[[World Bank|世界银行]]的[[Policy Brokerage|政策中介]]机制及其在国家政策周期中的多阶段效应。
 > - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — [[Systematic Review|系统综述]]了 [[PISA]] 如何通过数字治理机制影响全球基础教育改革，提出三层机制模型。

@@ -9,7 +9,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 11
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Policy Brokerage]]"
   - "[[Soft Power by Hard Facts]]"
+  - "[[Soft Power]]"
 related_theories:
   - "[[Two-Communities Theory]]"
 related_methods:
@@ -36,6 +37,7 @@ related_methods:
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[World Bank]]"
   - "[[Systems Approach for Better Education Results]]"
   - "[[World Education Reform Database]]"
 related_arguments:
@@ -53,7 +55,7 @@ updated: 2026-09-12
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 全球发展网络（Global Development Network，GDN）是由世界银行于 1999 年发起创设的国际公共政策与社会科学研究网络组织；其立项初衷旨在通过直接资助全球南方发展中国家本土学者与智库开展高水平应用政策研究，推动世界银行从传统的资本借贷实体向“知识银行”（Knowledge Bank）转型，是跨国多边机构探索去中心化[[Knowledge Production|知识生产]]的代表性制度试验。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 543)]]
+> 全球发展网络（Global Development Network，GDN）是由[[World Bank|世界银行]]于 1999 年发起创设的国际公共政策与社会科学研究网络组织；其立项初衷旨在通过直接资助全球南方发展中国家本土学者与智库开展高水平应用政策研究，推动世界银行从传统的资本借贷实体向“知识银行”（Knowledge Bank）转型，是跨国多边机构探索去中心化[[Knowledge Production|知识生产]]的代表性制度试验。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 543)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1999 年 12 月在德国波恩召开的首届全球发展会议上由世界银行时任行长詹姆斯·沃尔芬森（James Wolfensohn）倡导成立，直接回应国际社会对世界银行政策知识过度由华盛顿总部官僚垄断的普遍批评。（Stone, 2000; p.543）
@@ -66,7 +68,7 @@ updated: 2026-09-12
 ## 历史沿革与组织演变
 
 > [!dev-timeline] 组织发展历程
-> - **1999–2001 — 世行内部孵化与“知识银行”转型里程碑** 1990 年代世界银行全面加速拓展教育与社会部门的研究职能；1999 年发起成立 GDN，被政治学家黛安·斯通（Diane Stone, 2000）定性为世行脱胎换骨走向知识中介的关键里程碑，高调许诺将研究预算与选题自主权下沉至国别本土层面。
+> - **1999–2001 — [[World Bank|世行]]内部孵化与“知识银行”转型里程碑** 1990 年代世界银行全面加速拓展教育与社会部门的研究职能；1999 年发起成立 GDN，被政治学家黛安·斯通（Diane Stone, 2000）定性为世行脱胎换骨走向知识中介的关键里程碑，高调许诺将研究预算与选题自主权下沉至国别本土层面。
 > - **2001–2005 — 法律独立重组与秘书处南迁新德里** 为摆脱世行直接附属机构的政治烙印，GDN 于 2001 年在瑞士日内瓦注册为独立国际组织，并于 2005 年正式将总部迁往印度新德里，确立了全球南方区域研究网络（Regional Network Partners）协作机制。
 > - **2006–至今 — 倡议受挫与被总部集权项目边缘化** 随着世界银行重心全面转向由华盛顿总部集中研制的大型指标体系（如教育领域的 [[Systems Approach for Better Education Results|SABER]] 项目、[[Randomised Controlled Trials|随机对照试验]] RCTs 与量化数据仓库），GDN 原初承诺的“本土去中心化政策[[Knowledge Production|知识生产]]”逐渐丧失世行高层政治与财务支持，退居边缘化地位。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 543)]]
 
@@ -104,7 +106,7 @@ updated: 2026-09-12
 > [!indicators]- 影响力维度与指标
 > - **资源与资助规模** 累计支持 130 多个转型与发展中国家，资助超过 4,000 名跨学科政策青年研究者与本土智库。
 > - **学术知识网络** 联合拉美经济学会（LACEA）、非洲经济研究联盟（AERC）等区域智库网络，建立南南[[Dialogue in Education|对话]]桥梁。
-> - **政策制度渗透受挫** 原初设想的国别本土研究直接影响内阁决策机制未能落地，反被世行总部集中研发的 [[Systems Approach for Better Education Results|SABER]] 等指标全面边缘化。
+> - **政策制度渗透受挫** 原初设想的国别本土研究直接影响内阁决策机制未能落地，反被[[World Bank|世行]]总部集中研发的 [[Systems Approach for Better Education Results|SABER]] 等指标全面边缘化。
 
 > [!finding-cards] 关键成效与制度反思
 > - **揭示去中心化知识承诺的脆弱性** GDN 的兴衰历程成为比较教育学与国际关系学中审视国际组织知识政治的经典教材，生动揭示了多边银行在修辞上宣扬“本土自主”与在实践中厉行“总部集权”的深刻结构性矛盾。
@@ -123,7 +125,7 @@ updated: 2026-09-12
 > [!debates] 制度争议与批判
 >
 > > [!axis] 本土赋权修辞与总部技术霸权的张力
-> > 批评学者指出，世界银行创建 GDN 从一开始就带有掩饰自身霸权的合法化意图；当本土学者产出的研究结论与世行推行的新自由主义结构调整、私有化方案发生冲突时，世行便会毫不犹豫地弃用本土研究，转而动用总部集中研发的 [[Systems Approach for Better Education Results|SABER]] 指标予以强行压制。（Stone, 2000; Steiner-Khamsi et al., 2024, p. 543）
+> > 批评学者指出，[[World Bank|世界银行]]创建 GDN 从一开始就带有掩饰自身霸权的合法化意图；当本土学者产出的研究结论与世行推行的新自由主义结构调整、私有化方案发生冲突时，世行便会毫不犹豫地弃用本土研究，转而动用总部集中研发的 [[Systems Approach for Better Education Results|SABER]] 指标予以强行压制。（Stone, 2000; Steiner-Khamsi et al., 2024, p. 543）
 >
 > > [!axis] 知识中介中立性与依附性研究生产的张力
 > > 国际政治经济学派审视指出，依靠外部资助生存的南方智库极易陷入对北方发展机构议题偏好的依附，GDN 虽然试图培育本土研究，却在无形中将西方主流[[Positivism|实证主义]]与计量模型强加为衡量发展研究质量的唯一准则。
@@ -144,7 +146,7 @@ updated: 2026-09-12
 > | [[Two-Communities Theory]] | Theory | GDN 旨在跨越全球南方发展中国家科学研究社群与政治决策社群之间的结构鸿沟。 |
 > | [[Policy Brokerage]] | Concept | GDN 是跨国多边机构探索去中心化政策知识中介的制度试验。 |
 > | [[Knowledge Production]] | Concept | GDN 核心宗旨是支持全球南方借贷国本土的自主知识生产。 |
-> | [[Soft Power by Hard Facts]] | Concept | 世行最终放弃 GDN 去中心化路线，转向以总部硬事实施展软权力的集权指标体系。 |
+> | [[Soft Power by Hard Facts]] | Concept | [[World Bank\|世行]]最终放弃 GDN 去中心化路线，转向以总部硬事实施展[[Soft Power\|软权力]]的集权指标体系。 |
 > | [[World Education Reform Database]] | Fact (Program) | 记录世行自指性内部实践闭环与集中化指标政策仓库的实证数据库。 |
 
 ---
@@ -152,7 +154,7 @@ updated: 2026-09-12
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 详析世界银行 GDN 从 1999 年去中心化承诺走向被总部集权项目（如 [[Systems Approach for Better Education Results|SABER]]）边缘化的演变历程，揭示本土专家被降格为填报工具的实证事实。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 详析[[World Bank|世界银行]] GDN 从 1999 年去中心化承诺走向被总部集权项目（如 [[Systems Approach for Better Education Results|SABER]]）边缘化的演变历程，揭示本土专家被降格为填报工具的实证事实。
 
 ---
 

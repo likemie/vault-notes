@@ -8,7 +8,7 @@ aliases:
 summary: "两社区理论由 Nathan Caplan（1979）提出，指涉科学研究社群与政治决策社群在文化价值、认识论取向、奖酬结构与时间跨度上的结构性分野，是政策中介、边界跨越者与研究利用理论的奠基性元模型。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 33
+theory_related_count: 34
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -53,6 +53,7 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[OECD]]"
+  - "[[World Bank]]"
   - "[[Definition and Selection of Competencies]]"
   - "[[PISA]]"
 related_arguments:
@@ -112,7 +113,7 @@ updated: 2026-09-12
 
 > [!proposition-chain] 核心命题三｜单纯将科学与政治二元对立的隐喻掩盖了[[Knowledge Production|知识生产]]与权力利益的互构共谋
 > - **前提一** 传统两社区模型隐含了一种规范性预设，即将科学社区设定为中立、纯粹的“真理生产者”，将政策社区设定为务实但短视的“行动执行者”。（Mackillop et al., 2019）
-> - **前提二** 现代全球治理实践表明，诸如[[OECD|经合组织]]、世界银行等政策中介机构，本身兼具研究资助者、知识生产者、方案推介者与项目放贷者的多重角色。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538, 545)]]
+> - **前提二** 现代全球治理实践表明，诸如[[OECD|经合组织]]、[[World Bank|世界银行]]等政策中介机构，本身兼具研究资助者、知识生产者、方案推介者与项目放贷者的多重角色。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538, 545)]]
 > - **推导** 科学与政治并非彼此隔绝的“孤岛”，而是处于高度融合的共谋网络中；政策中介并非仅仅在两个中立社区之间摆渡信息，而是主动按照统治权力的需求生产量化证据，使“政策中介”超越了中立的“知识中介”。
 
 > [!proposition-chain]- 延伸命题

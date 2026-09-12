@@ -7,7 +7,7 @@ aliases:
 summary: "Martens, Niemann, & Krogmann (2024) 与 Steiner-Khamsi 等提出的比较教育与全球治理分析概念，指原本缺乏专门教育法定职能的国际组织（如经合组织、世界银行、区域开发银行及贸易联盟），通过将教育重新编码为服务于经济增长、和平、可持续发展或知识经济等核心法定使命的工具性手段，从而合法化自身对教育政策领域的跨界介入与资源动员。"
 type: concept
 domain: "comparative-education"
-related_count: 24
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -42,7 +42,10 @@ related_persons:
   - "[[Kerstin Martens]]"
   - "[[Gita Steiner-Khamsi]]"
 related_facts:
+  - "[[UNESCO]]"
   - "[[OECD]]"
+  - "[[World Bank]]"
+  - "[[UNICEF]]"
   - "[[PISA]]"
   - "[[International Indicators of Education Systems]]"
 related_arguments:
@@ -64,7 +67,7 @@ updated: 2026-09-12
 
 > [!concept-lens] 概念透镜
 > - **含义** 揭示非教育专业机构如何依靠“借壳包装”与“外延使命修辞”，突破主权国家与联合国专门机构的传统管辖壁垒。
-> - **用途** 解释为何当前主导全球教育评价与[[Policy Brokerage|政策中介]]的不是联合国教科文组织，而是[[OECD|经合组织]]与世界银行等经济合作机构。
+> - **用途** 解释为何当前主导全球教育评价与[[Policy Brokerage|政策中介]]的不是[[UNESCO|联合国教科文组织]]，而是[[OECD|经合组织]]与[[World Bank|世界银行]]等经济合作机构。
 > - **边界** 指涉的是国际组织治理层面的使命扩张与议题嵌入策略，不包含国内微观学校将企业赞助融入校本课程的商业赞助行为。
 
 > [!citation-card] 非专门国际组织的使命驱动型教育介入
@@ -83,7 +86,7 @@ updated: 2026-09-12
 > [!contrast-table] 概念辨析
 > | 维度 | 使命性教育嵌入（Education-for-Mandates） | 专门教育多边治理 | [[Global Education Industry\|全球教育产业]]外包 |
 > |---|---|---|---|
-> | **行动主体** | 经济协调组织（[[OECD]]、世行）、区域贸易组织（ASEAN、Caricom） | 联合国教科文组织（UNESCO）、联合国儿童基金会（UNICEF） | 跨国出版集团（Pearson）、咨询巨头（McKinsey） |
+> | **行动主体** | 经济协调组织（[[OECD]]、世行）、区域贸易组织（ASEAN、Caricom） | [[UNESCO\|联合国教科文组织]]（UNESCO）、[[UNICEF\|联合国儿童基金会]]（UNICEF） | 跨国出版集团（Pearson）、咨询巨头（McKinsey） |
 > | **法定根基** | 无直接教育法定管辖权，依附于核心经济/安全使命 | 具有明文规定的[[International Education\|国际教育]]专门法定管辖权 | 商业合同、服务外包协议与政府采购招标 |
 > | **主导修辞** | “教育服务于经济增长/[[Human Capital Theory\|人力资本]]/[[Knowledge-Based Economy\|知识经济]]/和平稳定” | “受教育权为人本基本人权”、“包容与公平的优质教育” | “交付成效（Deliverology）”、“教育技术[[Return on Investment\|投资回报]]” |
 > | **治理工具** | 大型国际测验（[[PISA]]）、政策系统基准（SABER）、同行评审 | 国际公约、国家政策建议书、全球监测报告（GEMR） | 数字化教学软件、自适应评测系统、私立学校加盟协议 |
@@ -130,7 +133,7 @@ updated: 2026-09-12
 > 分析为何在多元的外延性使命中，经济增长与[[Human Capital Theory|人力资本]]成为主导全球教育治理的最强力范式。
 
 > [!claim] [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]]; Martens et al. (2024)
-> **经济理性对公共教育价值的结构性重构** 尽管和平、人权与可持续发展同属常见的使命延伸话语，但在全球涉教育国际组织中，以经济合作为导向的机构占据了 33.3% 的绝对统治地位；这类组织依托贷款附带条件（World Bank）与跨国经济指标排名的[[Soft Power|软权力]]（[[OECD]]），强力将人力资本[[Return on Investment|投资回报]]率与劳动力市场适应性确立为全球教育改革的最高评价基准，导致人文主义与受教育权传统被边陲化。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541, 544)]]
+> **经济理性对公共教育价值的结构性重构** 尽管和平、人权与可持续发展同属常见的使命延伸话语，但在全球涉教育国际组织中，以经济合作为导向的机构占据了 33.3% 的绝对统治地位；这类组织依托贷款附带条件（[[World Bank]]）与跨国经济指标排名的[[Soft Power|软权力]]（[[OECD]]），强力将人力资本[[Return on Investment|投资回报]]率与劳动力市场适应性确立为全球教育改革的最高评价基准，导致人文主义与受教育权传统被边陲化。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541, 544)]]
 
 ---
 
@@ -147,7 +150,7 @@ updated: 2026-09-12
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1945–1960 — 专门机构双寡头格局** 战后初期仅有国际劳工组织（ILO）与联合国教科文组织（UNESCO）两家涉足教育，严格遵循法定管辖权分工。
+> - **1945–1960 — 专门机构双寡头格局** 战后初期仅有国际劳工组织（ILO）与[[UNESCO|联合国教科文组织]]（UNESCO）两家涉足教育，严格遵循法定管辖权分工。
 > - **1961–1970s — 冷战地缘催化与跨界嵌入肇始** 经合组织（1961）借斯普特尼克危机将教育锚定为经济防务工具；世界银行（1964）借道教科文组织入场，开启以教育促进经济增长的使命嵌入。
 > - **1990s–2005 — 区域化跨界浪潮与总量饱和** 东南亚国家联盟（ASEAN）、加勒比共同体（Caricom）等区域组织普遍将教育列入政策组合，涉教育国际组织达到 30 家饱和峰值。
 > - **2024 — [[Governing by Numbers|数字治理]] 2.0 与理论确立** Martens, Niemann, & Krogmann (2024) 与 [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] 正式确立“使命性教育嵌入”概念，系统剖析非专门机构在数字治理时代依靠硬事实[[Policy Brokerage|政策中介]]维持治理特权的生态。

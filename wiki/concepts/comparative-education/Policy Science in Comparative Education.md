@@ -7,7 +7,7 @@ aliases:
 summary: "比较教育的四种理解形式之一，认为比较教育可以且应该是政策科学，代表人物包括 Holmes and King，政治上是与自由民主国家权力的联盟"
 type: concept
 domain: "comparative-education"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -28,14 +28,15 @@ related_methods:
 related_persons:
   - "[[Robert Cowen]]"
   - "[[Brian Holmes]]"
-related_facts: []
+related_facts:
+  - "[[World Bank]]"
 related_arguments:
   - "[[Argument_Cowen_2023_CE]]"
   - "[[Argument_Mattheou_2009_ScientificParadigm]]"
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: 2026-09-07
+updated: 2026-09-12
 ---
 
 # Policy Science in Comparative Education
@@ -60,7 +61,7 @@ updated: 2026-09-07
 ## 概念演变
 
 > [!note]-
-> **1960 年代的经典[[Ontology|本体论]]争论与规划结盟**。政策科学这一理解形式在 1960 年代科学化大论战中达到顶峰。不仅包括 [[Brian Holmes]] 与 c 对政策科学与预测功能的理论倡导([[Argument_Cowen_2023_CE|Cowen, 2023, p.333]])，更体现为美国经验实证学派与战后国家规划体制（如中央五年计划、[[Human Capital Theory|人力资本]]扩张、世界银行与发展教育援助）的深度结盟([[Argument_Mattheou_2009_ScientificParadigm|Mattheou, 2009, pp. 64, 67–68]])。
+> **1960 年代的经典[[Ontology|本体论]]争论与规划结盟**。政策科学这一理解形式在 1960 年代科学化大论战中达到顶峰。不仅包括 [[Brian Holmes]] 与 c 对政策科学与预测功能的理论倡导([[Argument_Cowen_2023_CE|Cowen, 2023, p.333]])，更体现为美国经验实证学派与战后国家规划体制（如中央五年计划、[[Human Capital Theory|人力资本]]扩张、[[World Bank|世界银行]]与发展教育援助）的深度结盟([[Argument_Mattheou_2009_ScientificParadigm|Mattheou, 2009, pp. 64, 67–68]])。
 >
 > **1970 年代中期的承诺破产与反思**。随着实证政策规划在消除不平等与促进持续增长上的许诺破产，政策科学的独尊地位急剧衰落，促使学科走向多元批判与去中心化反思([[Argument_Mattheou_2009_ScientificParadigm|Mattheou, 2009, p. 68]])。
 >

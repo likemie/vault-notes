@@ -12,7 +12,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 11
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -38,13 +38,15 @@ related_persons:
   - "[[Isaac Kandel]]"
 related_facts:
   - "[[National Education]]"
+  - "[[UNESCO]]"
   - "[[OECD]]"
+  - "[[Centre for Educational Research and Innovation]]"
 related_arguments:
   - "[[Argument_Kazamias_2009_ForgottenThemes]]"
 confidence: high
 status: draft
 created: 2026-09-07
-updated: 2026-09-07
+updated: 2026-09-12
 ---
 
 # Office of Special Inquiries and Reports
@@ -93,7 +95,7 @@ updated: 2026-09-07
 ## 影响与历史遗产
 
 > [!finding-cards] 历史影响与遗产
-> - **国家级教育智库的开山鼻祖** OSIR 彻底改变了 19 世纪以往个人业余游记式的[[Policy Borrowing|政策借用]]模式，确立了由政府赞助、系统收集与分析跨国数据经验的现代智库标准，是联合国教科文组织[[International Education|国际教育]]局（UNESCO-IBE）、[[OECD]] 教育研究与[[Innovation Hub|创新中心]]（CERI）及各国国家教育发展研究机构的历史先驱。
+> - **国家级教育智库的开山鼻祖** OSIR 彻底改变了 19 世纪以往个人业余游记式的[[Policy Borrowing|政策借用]]模式，确立了由政府赞助、系统收集与分析跨国数据经验的现代智库标准，是[[UNESCO|联合国教科文组织]][[International Education|国际教育]]局（UNESCO-IBE）、[[OECD]] 教育研究与[[Innovation Hub|创新中心]]（[[Centre for Educational Research and Innovation|CERI]]）及各国国家教育发展研究机构的历史先驱。
 > - **培育历史-文化比较教育奠基者** [[Michael Sadler|萨德勒]]在 OSIR 的研究实践深刻塑造了他的学生[[Isaac Kandel|艾萨克·坎德尔]]（Isaac Kandel），使后者在美国哥伦比亚大学将这一传统发扬光大，成为 20 世纪前五十年国际比较教育学的主流[[Paradigm|范式]]。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 45–46)]]
 
 ---

@@ -8,7 +8,7 @@ summary: "美国著名教育经济学家、高级外交官与国际教育规划�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 12
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -36,6 +36,8 @@ related_facts:
   - "[[International Institute for Educational Planning]]"
   - "[[1967 Williamsburg Conference on the World Crisis in Education]]"
   - "[[OECD]]"
+  - "[[World Bank]]"
+  - "[[UNESCO]]"
   - "[[A Nation at Risk 1983]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
@@ -57,7 +59,7 @@ updated: 2026-09-12
 > - **代表贡献** 创立[[International Institute for Educational Planning|国际教育规划研究所]]（International Institute for Educational Planning，IIEP）并任首任所长；组织 1967 年[[1967 Williamsburg Conference on the World Crisis in Education|威廉斯堡世界教育危机大会]]；出版里程碑著作《世界教育危机：系统分析》（*The World Education Crisis: A Systems Analysis*）。
 
 > [!citation-card] 危机叙事普遍化与冷战地缘博弈中的库姆斯
-> [[OECD|经合组织]]与世界银行向[[Policy Brokerage|政策中介]]演进的轨迹，深植于教育危机在全球蔓延的周期性危机叙事之中。鉴于其普世性的覆盖范围，各国际组织积极响应了这一召唤。……菲利普·H·库姆斯（Philip H. Coombs）身兼由约翰·肯尼迪总统任命的首任主管教育与文化事务的助理国务卿、联合国教科文组织国际教育规划研究所首任所长，同时也是极具影响力的《世界教育危机》（Coombs 1968）一书的作者，他比任何人都更具象地人格化了这种危机的普世主义宣称。在冷战分裂的世界中出版，库姆斯的著作在铁幕的另一侧遭到了猛烈抨击。尽管如此，危机情境在 20 世纪 80 年代伴随里根政府《国家处在危险之中》报告的发布获得了又一次重大推力。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 542)]]
+> [[OECD|经合组织]]与[[World Bank|世界银行]]向[[Policy Brokerage|政策中介]]演进的轨迹，深植于教育危机在全球蔓延的周期性危机叙事之中。鉴于其普世性的覆盖范围，各国际组织积极响应了这一召唤。……菲利普·H·库姆斯（Philip H. Coombs）身兼由约翰·肯尼迪总统任命的首任主管教育与文化事务的助理国务卿、联合国[[UNESCO|教科文组织]]国际教育规划研究所首任所长，同时也是极具影响力的《世界教育危机》（Coombs 1968）一书的作者，他比任何人都更具象地人格化了这种危机的普世主义宣称。在冷战分裂的世界中出版，库姆斯的著作在铁幕的另一侧遭到了猛烈抨击。尽管如此，危机情境在 20 世纪 80 年代伴随里根政府《国家处在危险之中》报告的发布获得了又一次重大推力。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 542)]]
 >
 > *Philip H. Coombs, the first Assistant Secretary of State for Education and Culture (appointed by President John F. Kennedy), the first Director of the UNESCO International Institute for Educational Planning, and author of the influential book The World Education Crisis (Coombs 1968), personified more than anyone else the universalist claim. Published in a divided world during the Cold War, Coombs' book was harshly criticised on the other side of the Iron Curtain (see Steiner-Khamsi 2006).*
 
@@ -69,7 +71,7 @@ updated: 2026-09-12
 > - **1915** 出生于美国马萨诸塞州圣十字学院，先后在阿默斯特学院与芝加哥大学接受正规经济学训练。
 > - **1940–1950年代** 二战期间在美国战略情报局（OSS）及战时物价管制局任职，战后出任福特基金会教育发展基金研究总监，深入介入战后美国教育资源统筹。
 > - **1961–1962** 获约翰·肯尼迪总统任命，出任美国历史上首任主管教育与文化事务的助理国务卿，全力推动将跨国教育与文化交流纳入冷战时期美国大战略。
-> - **1963–1968** 赴巴黎参与创建联合国教科文组织[[International Institute for Educational Planning|国际教育规划研究所]]（IIEP）并担任创始所长，奠定现代跨国教育规划学的方法论与专业培训规程。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 542)]]
+> - **1963–1968** 赴巴黎参与创建[[UNESCO|联合国教科文组织]][[International Institute for Educational Planning|国际教育规划研究所]]（IIEP）并担任创始所长，奠定现代跨国教育规划学的方法论与专业培训规程。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 542)]]
 > - **1967–1968** 主持召开弗吉尼亚威廉斯堡“世界教育危机国际会议”，并在 1968 年正式出版专著《世界教育危机：系统分析》，将教育危机推向全球公共舆论中枢。
 > - **1970–1990年代** 担任[[International Education|国际教育]]发展理事会（International Council for Educational Development，ICED）主席，开创性地开辟了面向第三世界农村贫困群体的“非正规教育（Non-formal Education）”研究前沿。
 > - **2006** 逝世于美国康涅狄格州，享年 90 岁。

@@ -7,7 +7,7 @@ aliases:
 summary: "起源于国际学校共同课程与跨国升学需求的国际课程体系，通过学科组、核心组件和统一评估平衡通识教育、专业准备与国际理解。"
 type: concept
 domain: "curriculum"
-related_count: 41
+related_count: 43
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[IB Diploma Programme]]"
   - "[[Extended Essay]]"
   - "[[Academic Achievement]]"
+  - "[[Knowledge Production]]"
   - "[[Creativity, Action, Service]]"
   - "[[Creativity]]"
   - "[[Academic Self-Concept]]"
@@ -49,6 +50,7 @@ related_instruments:
 related_persons: []
 related_facts:
   - "[[International School of Geneva]]"
+  - "[[UNESCO]]"
   - "[[International Schools Examination Syndicate]]"
   - "[[International Baccalaureate North America]]"
   - "[[Founding of the International Baccalaureate]]"
@@ -65,7 +67,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-17
-updated: 2026-09-08
+updated: 2026-09-12
 ---
 
 # International Baccalaureate
@@ -106,7 +108,7 @@ updated: 2026-09-08
 
 > [!feature] 从[[International Schools|国际学校]]难题形成的设计原则
 > - **实践需求而非抽象口号** 战后国际学校高中阶段不断扩大，同一所学校不得不按瑞士、英国、法国和美国考试分班。资源浪费、国家分组和少数国籍学生无课程可循，使国际毕业考试从和平主义设想变成办学必需。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, pp. 16–17)]]
-> - **教师草根创制** 1960 年代的推进力量主要来自[[International School of Geneva|日内瓦国际学校]]教师，而非政府、联合国教科文组织或既有国际机构。有限的小额资助先支持跨校讨论，教师再逐步建立独立组织、课程小组和试验网络。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, pp. 17–20)]]
+> - **教师草根创制** 1960 年代的推进力量主要来自[[International School of Geneva|日内瓦国际学校]]教师，而非政府、[[UNESCO|联合国教科文组织]]或既有国际机构。有限的小额资助先支持跨校讨论，教师再逐步建立独立组织、课程小组和试验网络。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, pp. 17–20)]]
 > - **课程改革试验** 课程设计没有只提取欧美既有考试的最低共同部分，而是吸收各国改革者尚未能在本国推行的方案，把国际学校作为课程改革的实地试验场。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, pp. 24–26)]]
 > - **通识与专门化平衡** 六学科组结构试图在德国、瑞士式广泛通识和英国式三科高度专门化之间建立折中。学生保留选择，但必须跨规定学科组学习，两门语言和数学构成共同要求。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, pp. 28–29)]]
 > - **双语与知识反思** 早期方案允许全部试卷使用英语或法语，并以双语发布文件。法国要求保留哲学教育，最终转化为全体学生必修的[[Theory of Knowledge|知识论]]短课程，而哲学本身成为学科选项。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, pp. 29–30)]]
@@ -135,7 +137,7 @@ updated: 2026-09-08
 
 > [!claim] Metli, A. & Akış, D.
 > **核心组件的多维效益** 
-> 国际文凭大学预科项目（[[IB Diploma Programme|International Baccalaureate Diploma Programme]]，IBDP）的三大核心组件在实证层面展现了显著效益：[[Extended Essay|拓展论文]]（Extended Essay，EE）与更强的独立思考、探究学习及更高的大学平均绩点（Grade Point Average，[[Academic Achievement|GPA]]）相关；[[Theory of Knowledge|知识论]]（Theory of Knowledge，TOK）不仅促进[[Critical Thinking|批判性思维]]，还帮助学生反思知识建构；而[[Creativity, Action, Service|创意、行动、服务]]（[[Creativity]], Activity, Service，CAS）经验则塑造了学生的服务伦理、自信心及公民责任感（civic-mindedness）。[[Argument_Metli_2022_IJER|(Metli & Akış, 2022, pp. 220-221)]]
+> 国际文凭大学预科项目（[[IB Diploma Programme|International Baccalaureate Diploma Programme]]，IBDP）的三大核心组件在实证层面展现了显著效益：[[Extended Essay|拓展论文]]（Extended Essay，EE）与更强的独立思考、探究学习及更高的大学平均绩点（Grade Point Average，[[Academic Achievement|GPA]]）相关；[[Theory of Knowledge|知识论]]（Theory of Knowledge，TOK）不仅促进[[Critical Thinking|批判性思维]]，还帮助学生反思[[Knowledge Production|知识建构]]；而[[Creativity, Action, Service|创意、行动、服务]]（[[Creativity]], Activity, Service，CAS）经验则塑造了学生的服务伦理、自信心及公民责任感（civic-mindedness）。[[Argument_Metli_2022_IJER|(Metli & Akış, 2022, pp. 220-221)]]
 
 > [!claim] Cole, D. R. et al.
 > **批判性思维的显著增长**

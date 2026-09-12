@@ -5,7 +5,7 @@ aliases:
 summary: "把知识生产、流通和应用置于资本积累核心位置的全球经济秩序概念，用于解释大学、创新体系和地缘竞争的深度重组"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,6 +30,7 @@ related_methods:
 related_persons: []
 related_facts:
   - "[[OECD]]"
+  - "[[World Bank]]"
 related_arguments:
   - "[[Argument_Rizvi_2022_Springer]]"
   - "[[Argument_Moisio_2022_Springer]]"
@@ -38,7 +39,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-11'
-updated: '2026-05-18'
+updated: 2026-09-12
 ---
 
 ## 定义
@@ -87,7 +88,7 @@ updated: '2026-05-18'
 >
 > - **1950s–1960s**Drucker (1959) 提出"知识工作者"概念，Bell (1973) 在 *The Coming of POST-Industrial Society* 中强调[[Theoretical Knowledge|理论知识]]在后工业社会中的相对重要性——这些为知识资本主义提供了概念先驱([[Argument_Moisio_2022_Springer|Moisio, 2022, p.22]])。详见 [[Knowledge-Based Economy|知识经济]] > 学术脉络
 > - **1986** Romer 的内生增长理论为知识作为资本提供了经济学基础——知识和[[Human Capital Theory|人力资本]]投资被视为不受有限限制的增长关键资产([[Argument_Moisio_2022_Springer|Moisio, 2022, p.23]])
-> - **1990s–2000s**[[OECD]]、世界银行等国际组织将 KBE 话语系统性地嵌入全球政策框架，知识资本主义从学术概念转化为政策实践
+> - **1990s–2000s**[[OECD]]、[[World Bank|世界银行]]等国际组织将 KBE 话语系统性地嵌入全球政策框架，知识资本主义从学术概念转化为政策实践
 > - **2013** Peters 系统阐述知识资本主义作为理解高等教育全球转型的分析框架
 >
 

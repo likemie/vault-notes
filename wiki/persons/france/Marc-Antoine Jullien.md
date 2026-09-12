@@ -10,7 +10,7 @@ summary: "法国启蒙自由主义教育家与国际主义者，1817年发表比
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 34
+person_related_count: 35
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -62,13 +62,14 @@ related_persons:
   - "[[Max Eckstein]]"
 related_facts:
   - "[[Esquisse d'un ouvrage sur l'éducation comparée]]"
+  - "[[UNESCO]]"
   - "[[Revue encyclopédique]]"
 related_arguments:
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-11
+updated: 2026-09-12
 ---
 
 # Marc-Antoine Jullien
@@ -80,7 +81,7 @@ updated: 2026-09-11
 > [!person-profile] 人物档案
 > - **身份位置** 法国启蒙自由主义教育理论家、外交官、国民公会战地记者、百科全书编纂者与跨国社会活动家，跨越法国大革命恐怖统治至 1848 年二月革命的重要自由派知识分子。
 > - **核心角色** 现代比较教育学的学科奠基人与公认先驱，跨国教育与[[Perpetual Peace|世界和平治理]]运动的早期开拓者；确立了以跨国经验观察、实证事实分类诊断社会病理，并服务于全人道德[[Bildung|教化]]、消除战争野蛮与维系世界和平的学术[[Paradigm|范式]]。
-> - **代表贡献** 1817 年出版奠基性专论《[[Esquisse d'un ouvrage sur l'éducation comparée|关于比较教育的一项著作的计划与初步观点]]》（*Esquisse*），首创比较教育准实证科学（*science positive*）构想与标准化[[Questionnaire|问卷调查]]法；编制覆盖六大领域的比较观察表（Comparative Observation Tables）；系统构想包含常设特别教育委员会、示范师训学院与多语种通报网络的跨国教育共同体与世界和平治理蓝图，为 20 世纪[[International Education|国际教育]]局（IBE）与联合国教科文组织（UNESCO）提供了早期组织原型。
+> - **代表贡献** 1817 年出版奠基性专论《[[Esquisse d'un ouvrage sur l'éducation comparée|关于比较教育的一项著作的计划与初步观点]]》（*Esquisse*），首创比较教育准实证科学（*science positive*）构想与标准化[[Questionnaire|问卷调查]]法；编制覆盖六大领域的比较观察表（Comparative Observation Tables）；系统构想包含常设特别教育委员会、示范师训学院与多语种通报网络的跨国教育共同体与世界和平治理蓝图，为 20 世纪[[International Education|国际教育]]局（IBE）与[[UNESCO|联合国教科文组织]]（UNESCO）提供了早期组织原型。
 
 > [!citation-card] 人物定位的关键来源
 > 自 1940 年代朱利安的《计划》被重新发掘至今，比较教育学者普遍认定他是比较教育学发展的先驱，甚至尊称他为这门现代科学之父。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, p. 20)]]
@@ -167,7 +168,7 @@ updated: 2026-09-11
 > [!influence-path] 影响路径
 > - **理论路径** 开启了比较教育学[[Positivism|实证主义]]与[[Scientism|科学主义]]传统先河；同时奠定了经验事实研究与全人伦理规范、国际和平关怀深度交织的欧陆人文科学传统。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 17–18)]]
 > - **方法路径** 首创了涵盖初等大众至中等古典等六大领域的结构化多题项[[Questionnaire|问卷]]与横向比较观察表，为跨国[[Performance Indicators|教育指标]]体系与大规模统计调查奠定了方法原型。
-> - **政策与超国家制度原型** 提议设立由国际学者组成的常设特别教育委员会、培育良师的示范[[Normal School|师范学院]]以及多语种[[International Education|国际教育]]公报，这些构想在 20 世纪国际教育局（IBE）和联合国教科文组织（UNESCO）的组织架构与职能运作中得到了惊人的制度兑现。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 21–22)]]
+> - **政策与超国家制度原型** 提议设立由国际学者组成的常设特别教育委员会、培育良师的示范[[Normal School|师范学院]]以及多语种[[International Education|国际教育]]公报，这些构想在 20 世纪国际教育局（IBE）和[[UNESCO|联合国教科文组织]]（UNESCO）的组织架构与职能运作中得到了惊人的制度兑现。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 21–22)]]
 > - **世界和平与跨国治理** 突破 19 世纪民族国家的孤立竞争思维，开创了通过跨国教育经验互鉴消弭沙文主义偏见、以比较文明抗衡野蛮战争残余的国际和平教育与全球教育治理先驱传统。（pp. 22–24）
 > - **跨国改良与国家建制** 构想了以瑞士 22 个州为试点的教育经验互鉴机制，主张借用外部优良制度以培育国家意识与政治统合，开启了[[Empiricism|经验主义]][[Policy Borrowing|教育借用]]传统。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, p. 14)]]
 

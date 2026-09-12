@@ -8,7 +8,7 @@ summary: "西班牙社会学家，信息时代和网络社会理论的主要奠�
 type: person
 nationality: spain
 person_region: "spain"
-person_related_count: 19
+person_related_count: 20
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -40,6 +40,7 @@ related_persons: []
 related_facts:
   - "[[Lysenkoism]]"
   - "[[Education International]]"
+  - "[[World Bank]]"
   - "[[OECD]]"
 related_arguments:
   - "[[Argument_Chan_2015_Intersect]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-12
-updated: 2026-09-11
+updated: 2026-09-12
 ---
 
 # Manuel Castells
@@ -76,7 +77,7 @@ updated: 2026-09-11
 > | 概念 | [[Ideological Capture of Science]] | 指出科学研究的真理标准被政治意识形态忠诚所压制和取代（如[[Lysenkoism\|李森科主义]]），是国家主义阻碍信息时代转型的核心机制。 |
 > | 理论 | [[Network Society]] | 奠定信息时代社会网络化组织形态的四项运作逻辑（自动机运作、二元逻辑、非等值性、临时互通性）。 |
 > | 理论 | [[Informationalism]] | 提出信息主义作为一种新的发展模式，生产力主要来自知识与信息的优化使用。 |
-> | 政策 | [[Education International]] | 其与 IMF 和世界银行的项目合作，验证了网络社会中不同意识形态组织在临时互通性驱动下的项目联盟。 |
+> | 政策 | [[Education International]] | 其与 IMF 和[[World Bank\|世界银行]]的项目合作，验证了网络社会中不同意识形态组织在临时互通性驱动下的项目联盟。 |
 
 
 ---
@@ -133,7 +134,7 @@ updated: 2026-09-11
 > [!influence-path] 影响路径
 > - **理论路径** 其空间理论（[[Space of Flows and Space of Places|流动空间]] vs 地方空间）和[[Network Society|网络社会]]学重塑了批判地理学和比较教育学，为打破传统的“[[Methodological Nationalism|方法论民族主义]]”提供了核心分析工具。
 > - **政策路径** 网络国家和媒体政治理论揭示了当代国家采纳“能力导向课程”等高度抽象、可塑的全球话语的政治动机，即利用媒体友好型口号进行[[Governance by Spin|舆论操控]]（Spin）来调和多元利益关系。
-> - **实证应用** 其理论被广泛应用于研究跨国教育治理机构（如 [[OECD]]、世界银行）的影响力，以及拉美（巴西、阿根廷）与中国的高等教育和基础教育改革实践。
+> - **实证应用** 其理论被广泛应用于研究跨国教育治理机构（如 [[OECD]]、[[World Bank|世界银行]]）的影响力，以及拉美（巴西、阿根廷）与中国的高等教育和基础教育改革实践。
 
 > [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Beech_2009_CE|Beech, 2009]] — 引入 Castells 的空间二分法、网络国家和媒体政治概念，建立解释全球教育话语在流动—地方空间多层流转中发生变异的[[Analytic Framework|分析框架]]。

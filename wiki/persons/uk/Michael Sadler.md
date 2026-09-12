@@ -8,7 +8,7 @@ summary: "英国比较教育先驱与历史主义学派代表人物，主持教�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 40
+person_related_count: 41
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -57,6 +57,7 @@ related_persons:
 related_facts:
   - "[[Office of Special Inquiries and Reports]]"
   - "[[OECD]]"
+  - "[[World Bank]]"
 related_arguments:
   - "[[Argument_Klerides_2023_CE]]"
   - "[[Argument_Kazamias_2009_ForgottenThemes]]"
@@ -69,7 +70,7 @@ related_instruments: []
 confidence: high
 status: draft
 created: '2026-06-08'
-updated: 2026-09-11
+updated: 2026-09-12
 ---
 
 # Michael Sadler
@@ -231,7 +232,7 @@ updated: 2026-09-11
 > - [[Argument_Rappleye_2006_RCIE|Rappleye, 2006]] — 指出萨德勒的“情境很重要”警告被后世简化为了学术口号，缺乏对“何种情境要素以何种方式发生阻碍”的机制化论证。
 
 > [!warning] 未解问题与边界
-> 萨德勒的理论警告在实践中面临巨大的悖论：虽然其“不可移植”在学术界已成定论，但以[[OECD|经合组织]]和世界银行等为核心的全球教育基准评估正以前所未有的规模和硬度，通过去情境化的数据强推统一政策移植，学术的情境警告在强硬的治理技术面前显示出无奈的边界。
+> 萨德勒的理论警告在实践中面临巨大的悖论：虽然其“不可移植”在学术界已成定论，但以[[OECD|经合组织]]和[[World Bank|世界银行]]等为核心的全球教育基准评估正以前所未有的规模和硬度，通过去情境化的数据强推统一政策移植，学术的情境警告在强硬的治理技术面前显示出无奈的边界。
 
 ---
 

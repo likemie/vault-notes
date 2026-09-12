@@ -12,7 +12,7 @@ subtype: event
 region: france
 fact_region: "france"
 fact_kind: "event"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -40,13 +40,14 @@ related_persons:
   - "[[Francis Bacon]]"
   - "[[Johann Heinrich Pestalozzi]]"
 related_facts:
+  - "[[UNESCO]]"
   - "[[Esquisse d'un ouvrage sur l'éducation comparée]]"
 related_arguments:
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-06
+updated: 2026-09-12
 ---
 
 # Revue encyclopédique
@@ -103,7 +104,7 @@ updated: 2026-09-06
 ## 影响与历史地位
 
 > [!finding-cards] 历史影响与地位
-> - **[[International Education|国际教育]]与常设智库机制的原型** 《百科评论》将[[Marc-Antoine Jullien|朱利安]]在 1817 年 《计划》 中提出的“多语种教育通报网络”设想落到了实处，为 20 世纪国际教育局（IBE）与 UNESCO 的教育通报平台提供了最早的刊物[[Paradigm|范式]]。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias, 2009, pp. 21–22]]）
+> - **[[International Education|国际教育]]与常设智库机制的原型** 《百科评论》将[[Marc-Antoine Jullien|朱利安]]在 1817 年 《计划》 中提出的“多语种教育通报网络”设想落到了实处，为 20 世纪国际教育局（IBE）与 [[UNESCO]] 的教育通报平台提供了最早的刊物[[Paradigm|范式]]。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias, 2009, pp. 21–22]]）
 > - **对朱利安“实证量化”片面形象的有力正名** 帕尔默（Palmer, 1993）与卡洛扬纳基、卡扎米亚斯（2009）考证指出，《百科评论》证明朱利安绝非 20 世纪实证量化派所想象的冰冷统计工匠，而是一位深受启蒙理性滋养、以教育为媒介促进世界[[Perpetual Peace|永久和平]]的崇高人文主义思想家。（pp. 20–22）
 
 ---

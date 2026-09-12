@@ -7,7 +7,7 @@ summary: "芬兰政治地理学者，知识经济化与知识经济地缘政治�
 type: person
 nationality: finland
 person_region: "finland"
-person_related_count: 25
+person_related_count: 26
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -49,10 +49,11 @@ related_arguments:
   - "[[Argument_Zapp_2022_Springer]]"
 related_facts:
   - "[[OECD]]"
+  - "[[World Bank]]"
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-09-11
+updated: 2026-09-12
 ---
 ## 简介
 
@@ -104,7 +105,7 @@ Moisio 的核心理论主张是：当代知识密集型资本主义并非纯粹�
 
 ### 知识经济与地缘政治分析
 
-- [[Knowledge-Based Economy]] — 系统梳理知识经济的概念谱系，从 Friedrich List（1841）经 Drucker（1959）、Bell（1973）、Romer（1986）到 [[OECD]]/World Bank 的政策化，并将 KBE 定位为"实际存在的经济形态"([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.22–24]])
+- [[Knowledge-Based Economy]] — 系统梳理知识经济的概念谱系，从 Friedrich List（1841）经 Drucker（1959）、Bell（1973）、Romer（1986）到 [[OECD]]/[[World Bank]] 的政策化，并将 KBE 定位为"实际存在的经济形态"([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.22–24]])
 - [[Knowledge-Based Economization]] — 提出这一核心概念，将注意力从知识经济的话语层面转向经济化的物质过程和实践，以 Polanyi（1982）和 Çalişkan & Callon（2009）为分析资源([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.24–25]])
 - [[Geopolitics of Knowledge]] — 系统论证知识密集型资本主义的地缘政治维度，将其定位为"历史偶然的地缘政治星座"。在 [[Argument_Zapp_2022_Springer|Zapp (2022)]] 的分析中，Moisio (2018) 关于教育枢纽和知识村的论述被援引以论证大学的地缘政治再领土化悖论([[Argument_Zapp_2022_Springer|Zapp, 2022, pp.155–156]])
 

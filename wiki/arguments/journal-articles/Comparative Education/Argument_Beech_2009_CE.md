@@ -58,8 +58,11 @@ related_persons:
   - "[[Jean-François Lyotard]]"
 related_facts:
   - "[[OECD]]"
+  - "[[World Bank]]"
+  - "[[UNESCO]]"
   - "[[PISA]]"
   - "[[Bolivian Education Reform 1994]]"
+  - "[[UNICEF]]"
   - "[[Education International]]"
 related_arguments: []
 sources:
@@ -74,7 +77,7 @@ title: "Argument_Beech_2009_CE"
 argument_key: "Argument_Beech_2009_CE"
 argument_display_title: "Policy spaces, mobile discourses, and the definition of educated identities"
 argument_kind: "journal-article"
-argument_related_count: 39
+argument_related_count: 42
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -93,7 +96,7 @@ issuing_organization: ""
 
 比较教育长期关注一个核心问题：当教育思想从一个地方传播到另一个地方时，它发生了什么变化？传统的回答诉诸文化、政治制度、经济环境等语境因素来解释这种变化。例如法国[[Encyclopaedism|百科全书主义]]在阿根廷和巴西被作出了不同的解读，形成了各自特定的[[Educated Identity|受教育身份]]定义(Hans, 1958, 引自 pp.347–348)。
 
-这个传统的问题在于它把语境等同于民族国家的地理边界，把变化理解为从一个国家到另一个国家的横向差异。但今天的教育政策话语早已不再局限于国家之间的传播。OECD、世界银行（The World Bank，WB）、联合国教科文组织（United Nations Educational, Scientific and Cultural Organization，UNESCO）等机构在全球层面生产和推广教育理念；这些理念被各国政府采纳并写入政策文件；最终，教师和校长需要把这些政策转化为课堂实践。话语在每一层都经历了转化，而转化的逻辑每一层都不同。
+这个传统的问题在于它把语境等同于民族国家的地理边界，把变化理解为从一个国家到另一个国家的横向差异。但今天的教育政策话语早已不再局限于国家之间的传播。OECD、[[World Bank|世界银行]]（The World Bank，WB）、[[UNESCO|联合国教科文组织]]（United Nations Educational, Scientific and Cultural Organization，UNESCO）等机构在全球层面生产和推广教育理念；这些理念被各国政府采纳并写入政策文件；最终，教师和校长需要把这些政策转化为课堂实践。话语在每一层都经历了转化，而转化的逻辑每一层都不同。
 
 本文的核心问题是：**全球、国家和学校实践这三个空间层面各自的结构属性和政治逻辑，如何系统性地影响了在其中流通的教育话语的转化机制？**
 
@@ -161,7 +164,7 @@ Castells 据此区分了两种空间逻辑：
 > | **运行特征** | 空间从地方中脱嵌，社会实践不依赖领土毗连；虽然具有位于特定领土的物理中心，但运行超越传统地缘边界。 | 总体附着于特定领土，社会实践必须高度契合地方日常物理环境与特定历史传统。 |
 
 > [!theory-use] 空间理论对教育分析的价值
-> 教育中的大部分议程设定（即界定受教育意味着什么）发生在流动空间中（如 [[OECD]] 巴黎总部、世界银行华盛顿办公室等）。但这些议程的目标是影响以地方为基础的教育政策和学校实践。因此，理解流动空间与地方空间逻辑的关系，是剖析当代教育治理的前提(p.349)。
+> 教育中的大部分议程设定（即界定受教育意味着什么）发生在流动空间中（如 [[OECD]] 巴黎总部、[[World Bank|世界银行]]华盛顿办公室等）。但这些议程的目标是影响以地方为基础的教育政策和学校实践。因此，理解流动空间与地方空间逻辑的关系，是剖析当代教育治理的前提(p.349)。
 
 > [!boundary] 流动空间也有领土中心
 > 流动空间并不是完全虚拟的。它的节点是真实的机构和个人：金融网络中的华尔街和伦敦，国际机构网络中的巴黎和华盛顿。比较教育面临的核心挑战在于理解构成全球教育空间的这些网络的政治和结构属性如何塑造其中被生产和再生产的话语类型，不在于信息技术本身(pp.349–350)。
@@ -219,7 +222,7 @@ Castells 据此区分了两种空间逻辑：
 > 主张学校知识的价值应以学生能够用知识做什么来衡量，而非以记住了多少事实知识来定义。该概念源自企业管理和职业培训，与后福特主义劳动组织对高素养工人的新需求相关(De Ketele, 2008, 引自 pp.353–354)。
 
 > [!line-b] 追踪线索二：尊重多样性（Respect for Diversity）
-> 被世界银行、[[OECD]]、UNESCO、联合国儿童基金会（United Nations Children's Fund，UNICEF）和[[Education International|国际教育协会]]（Education International，[[Education International]]）等意识形态立场各异的机构共同倡导。许多历史上以文化同质性为核心目标的教育系统，也在官方修辞层面接受了该口号(Gvirtz & Beech, 2008, 引自 p.354)。
+> 被[[World Bank|世界银行]]、[[OECD]]、[[UNESCO]]、[[UNICEF|联合国儿童基金会]]（United Nations Children's Fund，UNICEF）和[[Education International|国际教育协会]]（Education International，[[Education International]]）等意识形态立场各异的机构共同倡导。许多历史上以文化同质性为核心目标的教育系统，也在官方修辞层面接受了该口号(Gvirtz & Beech, 2008, 引自 p.354)。
 
 选择这两个线索的理由很清晰：它们都起源于特定的历史语境和社会需求，但在全球教育话语中已被高度抽象化，因此是观察意义在空间移动中如何变化的理想样本。
 
@@ -259,7 +262,7 @@ Castells 据此区分了两种空间逻辑：
 #### 1.1 谁在参与：多元行动者与流动的网络
 
 > [!actor-grid] 全球教育政策空间中的四类主要行动者
-> - **国际多边机构**[[OECD]]、世界银行、UNESCO、国际货币基金组织（International Monetary Fund，IMF）等。它们之间有悠久的协作历史，但竞争和势力范围的划分同样显著(Jones & Coleman, 2005, 引自 p.351)。
+> - **国际多边机构**[[OECD]]、[[World Bank|世界银行]]、[[UNESCO]]、国际货币基金组织（International Monetary Fund，IMF）等。它们之间有悠久的协作历史，但竞争和势力范围的划分同样显著(Jones & Coleman, 2005, 引自 p.351)。
 > - **[[Global Citizenship|全球公民]]社会与非政府组织（Non-Governmental Organization，NGO）** 多边组织越来越多地与被视作新兴"全球公民社会"代表的 NGO 协作，形成跨国倡导联盟(Mundy & Murphy, 2001, p.86, 引自 p.351)。
 > - **跨国教育服务企业** 以 剑桥教育（Cambridge Education） 为代表的私营公司，向泰国、中国省级政府、美国各州及孟加拉国、柬埔寨等地直接出售“教育政策方案”(Ball, 2009)。
 > - **智库与亲市场基金会** 如 弗雷泽研究所（Fraser Institute）、邓普顿基金会（John Templeton Foundation，Templeton Foundation）、卡托研究所（Cato Institute）和 弗里德曼基金会（Friedman Foundation），为跨国企业在各地的政策咨询和公共服务角色提供理论与合法性支持(Ball, 2007, 2009)。

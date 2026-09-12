@@ -8,7 +8,7 @@ summary: "美国比较教育学者，政策借用与借出政治分析代表人�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 34
+person_related_count: 35
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -57,6 +57,7 @@ related_persons:
 related_facts:
   - "[[Comparative Education Society in Europe]]"
   - "[[Comparative and International Education Society]]"
+  - "[[World Bank]]"
 related_arguments:
   - "[[Argument_Cowen_2009_HistoryCreation]]"
   - "[[Argument_Rappleye_2006_RCIE]]"
@@ -102,7 +103,7 @@ updated: 2026-09-12
 
 > [!work-line] 主要著作
 > - **2000 — *Transferring education, displacing reforms*** 系统论证教育转移并非技术性复制，而是国内行动者用以解决本土政治合法性危机的冲突移位策略，提出必须关注抵制、颠倒或[[Going Native|本土化]]教育进口的能动者。[[Argument_Rappleye_2006_RCIE|(Rappleye, 2006, p. 227)]]
-> - **2004a — *The Global Politics of [[Policy Borrowing|Educational Borrowing]] and Lending*** 确立跨国教育政策转移政治分析的理论纲领，系统探讨世界银行等国际组织与受援国之间的非对称权力博弈。
+> - **2004a — *The Global Politics of [[Policy Borrowing|Educational Borrowing]] and Lending*** 确立跨国教育政策转移政治分析的理论纲领，系统探讨[[World Bank|世界银行]]等国际组织与受援国之间的非对称权力博弈。
 > - **2004b — *[[Network Analysis|social network analysis]] and Diffusion of Innovation Revisited: The Maris O'Rourke Effect in [[International Education]]*** 引入社会网络分析方法，揭示关键政策能动者在跨国政策扩散网络中的[[Structural Holes|结构洞]]与杠杆作用。
 > - **2009 — *Comparison and Conceptualisation in Comparative Education*** 系统概念化比较教育学科的发展脉络，为构建全景式的[[Comparative History of Comparative Education|比较教育学比较史]]提供分析[[Paradigm|范式]]。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, p. 8)]]
 > - **2012 — *Understanding policy borrowing and lending*** 与 Florian Waldow 合作，提炼跨国政策借用的多阶段分析工具，深度整合外在化、情境化与本土杂糅机制。

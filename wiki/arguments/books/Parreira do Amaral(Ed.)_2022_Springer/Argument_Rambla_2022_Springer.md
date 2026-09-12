@@ -9,7 +9,7 @@ title: "Argument_Rambla_2022_Springer"
 argument_key: "Argument_Rambla_2022_Springer"
 argument_display_title: "Imaginaries of Education and Innovation in the European Union"
 argument_kind: "book"
-argument_related_count: 39
+argument_related_count: 40
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -62,6 +62,7 @@ related_facts:
   - "[[Innovation Union]]"
   - "[[EU Skills Agenda]]"
   - "[[OECD]]"
+  - "[[World Bank]]"
   - "[[UN Sustainable Development Goals]]"
   - "[[Europe 2020 Strategy]]"
   - "[[YOUNG_ADULLLT]]"
@@ -102,7 +103,7 @@ Rambla 的[[Analytic Framework|分析框架]]由三个核心概念和一个宏�
 > - **嵌入政治关系并实施选择性(Jessop, 2007)** 指标间接重塑了政府、企业、非营利组织与公民之间的关系——通过发布排名和最佳实践，政府试图说服多元利益相关方同时展开竞争与协作来提升排名，而非通过具有约束力的立法来固定各方角色。与此同时，指标的选择性机制决定了什么被算作"进步"、什么被忽略(p.166, 174)。详见 [[Selectivity]]。
 
 > [!abstract]- 变革理论(Pawson, 2006)
-> "变革理论"（theory of change）源自 Pawson(2006)的实在论评估（realist evaluation）框架，指政策所承载的关于因果机制的叙事——即关于特定政策干预在何种情境中激活何种机制、从而产生何种效果的信念体系。在政策实践中，变革理论常以简化的因果叙事形式出现：世界银行在 1980 年代基于各级教育[[Return on Investment|投资回报]]率的比较数据，要求负债国家将教育支出集中于初等教育；OECD 传播了投资研发→培养创造力→高学历劳动力→经济增长的"良性循环"叙事；联合国《全球教育报告》则提出了[[UN Sustainable Development Goals|可持续发展目标]]之间相互关联的[[Hypothesis|假设]]。Rambla 的分析揭示，欧盟的 [[Innovation Union]] 和 [[EU Skills Agenda|Skills Agenda]] 同样讲述了一个"[[Innovation Ecosystem|创新生态]]体系 + 教育培训体系 = 协同演化 = 智能增长"的因果故事，这一故事被嵌入绩效指标中，使某些政策选择看起来"理所当然"(p.165–166, 170–172)。详见 [[Theories of Policy Change]]。
+> "变革理论"（theory of change）源自 Pawson(2006)的实在论评估（realist evaluation）框架，指政策所承载的关于因果机制的叙事——即关于特定政策干预在何种情境中激活何种机制、从而产生何种效果的信念体系。在政策实践中，变革理论常以简化的因果叙事形式出现：[[World Bank|世界银行]]在 1980 年代基于各级教育[[Return on Investment|投资回报]]率的比较数据，要求负债国家将教育支出集中于初等教育；OECD 传播了投资研发→培养创造力→高学历劳动力→经济增长的"良性循环"叙事；联合国《全球教育报告》则提出了[[UN Sustainable Development Goals|可持续发展目标]]之间相互关联的[[Hypothesis|假设]]。Rambla 的分析揭示，欧盟的 [[Innovation Union]] 和 [[EU Skills Agenda|Skills Agenda]] 同样讲述了一个"[[Innovation Ecosystem|创新生态]]体系 + 教育培训体系 = 协同演化 = 智能增长"的因果故事，这一故事被嵌入绩效指标中，使某些政策选择看起来"理所当然"(p.165–166, 170–172)。详见 [[Theories of Policy Change]]。
 
 > [!abstract]- 选择性(Jessop, 2007)
 > "选择性"（selectivity）在 Jessop(2007)的策略关系国家理论（strategic-relational approach）中指政策工具和制度安排并非中立的筛选器——它们在结构设计上就倾向于使某些政策替代方案比另一些更容易被识别、被认真对待、被采纳。Jessop 的关键洞见是：这不是决策者有意的偏见或偏袒，而是工具本身的结构性特征。在自由主义经济秩序的框架下，欧盟的就业和经济政策"不可避免地使决策者聚焦于某些议题而忽略其他"(p.166, 174)。Rambla 将这一概念应用于欧盟绩效指标体系的分析，揭示其在创新领域（优先研发密集型创新、排斥社会创新）和[[Lifelong Learning|终身学习]]领域（优先就业匹配、排斥人的全面发展）的选择性效应。详见 [[Selectivity]]。

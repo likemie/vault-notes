@@ -13,7 +13,7 @@ aliases:
 summary: "在教育政策制定与跨国治理中，实证社会科学被政治决策者和技术官僚工具化为推卸行政责任、免受道德反思与公众问责、为既定政治决策提供客观性背书的政治借口机制"
 type: concept
 domain: "educational-policy-reform"
-related_count: 25
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -52,13 +52,15 @@ related_facts:
   - "[[IEA]]"
   - "[[OECD]]"
   - "[[PISA]]"
+  - "[[World Bank]]"
+  - "[[UNESCO]]"
 related_arguments:
   - "[[Argument_Mattheou_2009_ScientificParadigm]]"
   - "[[Argument_Cowen_2023_CE]]"
 confidence: high
 status: draft
 created: 2026-09-08
-updated: 2026-09-08
+updated: 2026-09-12
 ---
 
 # Social Science as Legitimation Alibi
@@ -167,7 +169,7 @@ updated: 2026-09-08
 
 > [!dev-timeline] 概念演变
 > - **1950s–1960s — 战后中央计划体制的科学联姻** 随着民族国家推行中央五年计划，政府急需科学证明追加教育投资的正当性；[[Human Capital Theory|人力资本理论]]与人才库测算应运而生，实证量化模型与国家官僚机器确立深层共谋。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, p. 64)]]
-> - **1960s–1970s 初 — 全球技术援助与国内结构重组的合法化顶峰** 英美综合中学运动援引社会学流动数据打破阶级双轨制；世界银行与联合国教科文组织等技术援助项目将现代化理论作为向第三世界输出方案的科学护照。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, p. 68)]]
+> - **1960s–1970s 初 — 全球技术援助与国内结构重组的合法化顶峰** 英美综合中学运动援引社会学流动数据打破阶级双轨制；[[World Bank|世界银行]]与[[UNESCO|联合国教科文组织]]等技术援助项目将现代化理论作为向第三世界输出方案的科学护照。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, p. 68)]]
 > - **1970s 中叶 — 现实危机下的神话破灭与合法化反噬** 经济滞胀与毕业生失业戳破了实证预测神话；加上量子力学不确定性转向与后现代思潮对[[Grand Theory|宏大叙事]]的解构，单一[[Scientific Paradigm|科学范式]]解体为多元学派。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 68–69)]]
 > - **1980s 至今 — 跨国测评排位治理中的制度惯性延续** 尽管实证[[Determinism|决定论]]在哲学上破产，但政治家依然执着于依靠 [[IEA]] 研究与 [[OECD]] [[PISA]] 等大规模量化测试，将其作为向国内推行紧缩政策、问责改革与教师绩效考评的外在合法化免责借口。[[Argument_Cowen_2023_CE|(Cowen, 2023, pp. 333–334)]]; [[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, p. 69)]]
 

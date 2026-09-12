@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 30
+fact_related_count: 31
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -49,6 +49,7 @@ related_persons:
   - "[[Gita Steiner-Khamsi]]"
   - "[[Robert Cowen]]"
 related_facts:
+  - "[[World Bank]]"
   - "[[Economics of Education Movement]]"
   - "[[Mediterranean Regional Project]]"
   - "[[OECD]]"
@@ -71,7 +72,7 @@ updated: 2026-09-12
 
 > [!event-context] 学会创立与更名背景
 > - **时间与地点** 1956 年创立（原名比较教育学会，Comparative Education Society, CES），1969 年更名为比较与[[International Education|国际教育]]学会（Comparative and International Education Society, CIES）；美国纽约（早期活动中心）与各大研究型大学。
-> - **关键主体** 美国比较教育学者（如罗伯特·金·霍尔，Robert King Hall 等创会者）、学会理事会、美国福特基金会、世界银行与跨国技术援助机构。
+> - **关键主体** 美国比较教育学者（如罗伯特·金·霍尔，Robert King Hall 等创会者）、学会理事会、美国福特基金会、[[World Bank|世界银行]]与跨国技术援助机构。
 > - **制度背景** 二战后旧领土殖民帝国瓦解，美苏冷战超级大国对第三世界地缘政治庇护权展开激烈争夺；美国联邦政府与慈善资本向区域研究和发展中国家现代化战略大规模倾斜；在学术认识型上，战后美国结构功能主义社会学全面塑造了美国比较教育学界，而法兰克福学派[[Critical Theory|批判理论]]在此时期几乎未产生影响。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, p. 9)]]
 > - **触发条件** 伴随冷战发展议程的渗透，大批美国比较教育学者走出早期以欧洲哲学和制度对比为主的人文传统，转型为世界银行及发展中国家教育改制的技术顾问；原有以比较为核心的学会名称已无法涵盖日益占据主导的应用型国际教育实务，促成了词汇层面的制度化突变。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 422)]]
 
@@ -100,7 +101,7 @@ updated: 2026-09-12
 ## 影响与后果
 
 > [!finding-cards] CIES 对比较教育建制化的深远影响
-> - **政策与实践影响** CIES 的建制化重组使美国比较教育学界成功将自身与冷战地缘博弈及美国对外政策机器绑定。大批学会成员受聘于世界银行、[[OECD|经合组织]]（OECD）和美国国际开发署，直接为第三世界国家的教育改制输出政策模型。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 422)]]
+> - **政策与实践影响** CIES 的建制化重组使美国比较教育学界成功将自身与冷战地缘博弈及美国对外政策机器绑定。大批学会成员受聘于[[World Bank|世界银行]]、[[OECD|经合组织]]（OECD）和美国国际开发署，直接为第三世界国家的教育改制输出政策模型。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 422)]]
 > - **知识与学科影响** 实现了以历史哲学为基底的比较教育与以实务应用为基底的[[International Education|国际教育]]的正式建制化融合，奠定了[[Development Turn in Comparative Education|发展转向]]在二战后的主导地位，并推动了以定量、实证和循证政策为导向的[[Scientism|科学主义]]认识型扩张。
 > - **元[[Epistemology|认识论]]后果** 结构功能主义社会学的深刻塑造使得学会研究长期聚焦于社会稳定与现代化系统平衡，遮蔽了法兰克福学派的[[Critical Theory|批判理论]]反思；1969 年词汇的突变固化了对多边援助话语的依赖，在[[Governing at a Distance|远处治理]]中客观再生产着西方中心主义的现代化论述。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, p. 9)]]; [[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 422–428)]]
 > - **学科史编纂学启示** 学会丰富的历史[[Document|文献]]沉睡在各大大学档案馆，由于缺乏明确的职业晋升激励，极少有年轻学者专门投入学会档案挖掘；私人学术通信未被系统整理，亟待通过口述史和[[Comparative History of Comparative Education|比较教育学的比较史]]方法进行系统抢救与理论重构。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, pp. 7–8)]]

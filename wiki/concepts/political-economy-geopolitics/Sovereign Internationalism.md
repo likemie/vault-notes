@@ -5,7 +5,7 @@ aliases:
 summary: "Sakwa 提出的概念，指以主权平等、不干涉和制度多样性为基础的国际秩序理解。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -23,13 +23,14 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[World Bank]]"
   - "[[OECD]]"
 related_arguments:
   - "[[Argument_Marginson_2025_ROE]]"
 confidence: medium
 status: draft
 created: '2026-05-12'
-updated: 2026-07-09
+updated: 2026-09-12
 ---
 
 # Sovereign Internationalism
@@ -58,7 +59,7 @@ updated: 2026-07-09
 > - **世界作为多元空间** — 容忍文明差异和多元政治制度，不以单一标准衡量所有国家([[Argument_Marginson_2025_ROE|Marginson, 2025, p. 14]])
 > - **不干涉原则** — 尊重各国内部政治事务，只要遵守联合国公约等共同宪章价值。这是宪章国际体系与[[Radical Liberal Internationalism|激进自由国际主义]]最根本的区别
 > - **1945 年的乐观精神** — 旧金山会议后的精神是乐观的、多元世界主义的、包容的和宽容的，当时冷战尚未开始，自决权获得近乎普遍支持
-> - **国际组织的建立** — 此后创建了一系列旨在巩固以美国为首的全球秩序的机构：世界银行、国际货币基金组织、[[OECD]]、北约和关贸总协定（后为 WTO）（Heather & Rapley, 2023, pp. 36, 70）
+> - **国际组织的建立** — 此后创建了一系列旨在巩固以美国为首的全球秩序的机构：[[World Bank|世界银行]]、国际货币基金组织、[[OECD]]、北约和关贸总协定（后为 WTO）（Heather & Rapley, 2023, pp. 36, 70）
 
 ---
 

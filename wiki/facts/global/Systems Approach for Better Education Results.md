@@ -11,7 +11,7 @@ subtype: program
 region: "global"
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -37,6 +37,7 @@ related_methods:
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[World Bank]]"
   - "[[World Education Reform Database]]"
   - "[[OECD]]"
   - "[[Building Evidence in Education]]"
@@ -56,7 +57,7 @@ updated: 2026-09-12
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> 改善教育成果系统分析法（Systems Approach for Better Education Results，SABER）是世界银行（World Bank）于 2011 年正式推出的一项全球性教育政策系统评估与基准诊断计划。该项目旨在通过对成员国各细分教育政策领域的法律框架、制度规章与资源配置进行系统性标准化摸底，为发展中国家提供与其“最佳实践仓库（Portfolio of Best Practices）”相对照的政策诊断与借贷前置指南。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 543, 545)]]
+> 改善教育成果系统分析法（Systems Approach for Better Education Results，SABER）是[[World Bank|世界银行]]（World Bank）于 2011 年正式推出的一项全球性教育政策系统评估与基准诊断计划。该项目旨在通过对成员国各细分教育政策领域的法律框架、制度规章与资源配置进行系统性标准化摸底，为发展中国家提供与其“最佳实践仓库（Portfolio of Best Practices）”相对照的政策诊断与借贷前置指南。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 543, 545)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2011 年作为世界银行《2020 年教育部门战略：全民学习》（*Learning for All: Investing in People's Knowledge and Skills to Promote Development*）的核心支撑技术正式启动，持续运行至今。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 543)]]
@@ -69,7 +70,7 @@ updated: 2026-09-12
 ## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
-> 该项目确立了“制度基准与最佳实践比对”的[[Policy Brokerage|政策中介]]干预假说：主权国家的学业成果欠缺根源于其教育政策系统与制度法规的落后；通过将各国现行政策条文与全球循证研究（尤其是世界银行认可的[[Randomised Controlled Trials|随机对照试验]]）提炼的“最佳实践”进行对比评分，能够为受援国提供清晰的改革路径图，并将贷款流向与特定制度改革挂钩。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 545, 548)]]
+> 该项目确立了“制度基准与最佳实践比对”的[[Policy Brokerage|政策中介]]干预假说：主权国家的学业成果欠缺根源于其教育政策系统与制度法规的落后；通过将各国现行政策条文与全球循证研究（尤其是[[World Bank|世界银行]]认可的[[Randomised Controlled Trials|随机对照试验]]）提炼的“最佳实践”进行对比评分，能够为受援国提供清晰的改革路径图，并将贷款流向与特定制度改革挂钩。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 545, 548)]]
 
 > [!policy-design]- 方案设计
 > - **项目目标** 建立全球标准化教育政策知识库，消除教育政策领域的“技术赤字”，向成员国打包推介经过世界银行实证检验的最佳政策处方。
@@ -96,7 +97,7 @@ updated: 2026-09-12
 ## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
-> - **总部核心智库（World Bank HQ）** 华盛顿教育全球实践局核心团队负责设计评价指标、掌握量规解释权与发布全球综合报告。
+> - **总部核心智库（[[World Bank]] HQ）** 华盛顿教育全球实践局核心团队负责设计评价指标、掌握量规解释权与发布全球综合报告。
 > - **国家基层信息网络** 本土聘用的国家协调员与专家，主要承担向总部数据库上传本国官方政策文件、法律法令与数据填报的基层信息员角色。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 543)]]
 > - **双边资助联盟（[[Building Evidence in Education|BE2]] 伙伴）** 英国 FCDO、美国国际开发署（USAID）等双边援助机构，依托 SABER 工具协同设定受援国贷款与无偿援助的改革条件。
 > - **受援国政策制定者** 各国教育部官员，根据 SABER 评分报告识别自身政策短板，向世行申请针对性技术援助或政策贷款。
@@ -113,7 +114,7 @@ updated: 2026-09-12
 > [!indicators]- 评估指标体系
 > - **投入指标** 跨国信托基金投入数千万美元，动员数百名国际咨询顾问与跨国教育法学专家。
 > - **过程与依从性指标** 全球 100 多个国家完成不同领域的基准测试，形成数百份标准化政策诊断档案与公开数据集。
-> - **产出与制度转化指标** 评分结果直接转化为世界银行政策贷款的前置触发条件（Prior Actions），重塑受援国教师评价与学校治理立法。
+> - **产出与制度转化指标** 评分结果直接转化为[[World Bank|世界银行]]政策贷款的前置触发条件（Prior Actions），重塑受援国教师评价与学校治理立法。
 
 > [!finding-cards] 核心实证结论
 > - **主要效应（自指性循环运作）** 塞策等学者（Seitzer, Baek, & Steiner-Khamsi, 2023）利用[[World Education Reform Database|世界教育改革数据库]]（WERD）证实，世界银行的政策报告在推介建议时呈现高度的自指性，极少汲取非世行体系的跨国经验，而是反复循环引用自身在 SABER 中归档的最佳实践方案。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 545)]]
@@ -130,7 +131,7 @@ updated: 2026-09-12
 > [!debates] 核心争议
 >
 > > [!axis] 全球通用最佳实践 vs 地方情境性制度多样性
-> > 批判学者与世界银行技术官僚围绕是否存在普适性教育政策模板展开激烈争论。
+> > 批判学者与[[World Bank|世界银行]]技术官僚围绕是否存在普适性教育政策模板展开激烈争论。
 > >
 > > - **批判比较学者** 指责 SABER 奉行单一的新自由主义治理哲学，将[[New Public Management|新公共管理]]（如绩效挂钩、私营资本介入、学校竞争）设定为“领先级”标准，强行抹杀发展中国家在地多元的教育生态。
 > > - **世界银行专家** 坚称 SABER 量规提取自全球高质量因果实证研究（尤其是[[Randomised Controlled Trials|随机对照试验]]），旨在帮助资源匮乏的国家跨越试错成本，实现高效率制度跃升。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 545, 548)]]
@@ -147,7 +148,7 @@ updated: 2026-09-12
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Policy Brokerage]] | Concept | SABER 是世界银行推行政策中介与自指性经验汲取的首要制度化工具。 |
+> | [[Policy Brokerage]] | Concept | SABER 是[[World Bank\|世界银行]]推行政策中介与自指性经验汲取的首要制度化工具。 |
 > | [[Soft Power by Hard Facts]] | Concept | 世界银行通过 SABER 量化基准与成熟度分级对受援国实施非强制性软治理。 |
 > | [[Global Development Network]] | Fact (Organization) | SABER 等总部集中化数据项目直接取代并架空了 GDN 本土知识赋权构想。 |
 > | [[Global Education Governing Complex]] | Concept | 构成复合体内世界银行垄断政策评估与规制标准的基石设施。 |
@@ -157,4 +158,4 @@ updated: 2026-09-12
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 揭示世界银行如何依靠 SABER 构建自指性最佳实践仓库，并剖析其与[[OECD|经合组织]]外向型国别借鉴模式的本质分野。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 揭示[[World Bank|世界银行]]如何依靠 SABER 构建自指性最佳实践仓库，并剖析其与[[OECD|经合组织]]外向型国别借鉴模式的本质分野。

@@ -11,9 +11,9 @@ subtype: program
 region: "global"
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 13
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 16
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "2019–至今"
 initiator_organization: "Global Partnership for Education"
@@ -40,6 +40,9 @@ related_persons: []
 related_facts:
   - "[[Global Partnership for Education]]"
   - "[[OECD]]"
+  - "[[UNESCO]]"
+  - "[[UNICEF]]"
+  - "[[World Bank]]"
   - "[[Building Evidence in Education]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
@@ -133,7 +136,7 @@ updated: 2026-09-12
 > [!citation-card] 区域中介机制与多边竞争实证批判
 > 各国际组织是否通过在区域层面设立中介机构来加强与各国政府的联系（例如全球教育伙伴关系设立的四大知识与创新交流机制 KIX 区域枢纽）？尽管公开修辞反复强调协作，但初步评估表明，五大主要教育国际组织近年来加剧了彼此间的竞争，部分原因在于它们正在争夺相同的私人基金会资金与国别政策影响力。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 545)]]
 >
-> *Is it about strengthening ties with governments by instating intermediaries at the regional level (e.g. four regional hubs of the Global Partnership for Education’s Knowledge and Innovation Exchange (GPE KIX)), or is it about building coalitions with some but not with other IOs? Despite rhetorical aﬃrmations to the contrary, a preliminary assessment seems to suggest that the ﬁve main IOs in education (GPE, [[OECD]], UNESCO, UNICEF, and the World Bank) have increased their competition over the past few years...*
+> *Is it about strengthening ties with governments by instating intermediaries at the regional level (e.g. four regional hubs of the Global Partnership for Education’s Knowledge and Innovation Exchange (GPE KIX)), or is it about building coalitions with some but not with other IOs? Despite rhetorical aﬃrmations to the contrary, a preliminary assessment seems to suggest that the ﬁve main IOs in education (GPE, [[OECD]], [[UNESCO]], [[UNICEF]], and the [[World Bank]]) have increased their competition over the past few years...*
 
 > [!lessons] 经验教训与启示
 > 纯粹依靠自上而下的全球报告无法自然引发国家[[Theories of Policy Change|政策变革]]；[[Policy Brokerage|政策中介]]必须具备地缘空间与关系网络的制度根基。但若不触动核心出资方的霸权结构，区域互学平台依然难以摆脱依附性发展的宿命。

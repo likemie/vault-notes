@@ -6,7 +6,7 @@ aliases:
 summary: "Lyotard 提出的输入输出逻辑原则，要求社会系统不断优化表现并以可见的方式证明其表现，在教育研究中用于解释全球政策空间中行动者的实用主义联盟行为及其话语生产特征"
 type: concept
 domain: "comparative-education"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -43,13 +43,14 @@ related_persons:
   - "[[Jason Beech]]"
 related_facts:
   - "[[OECD]]"
+  - "[[World Bank]]"
 related_arguments:
   - "[[Argument_Beech_2009_CE]]"
   - "[[Argument_Partaken_2022_Springer]]"
 confidence: medium
 status: draft
 created: 2026-06-09
-updated: 2026-07-13
+updated: 2026-09-12
 ---
 
 # Performativity
@@ -63,7 +64,7 @@ updated: 2026-07-13
 
 > [!concept-lens] 概念透镜
 > - **指向机制** 操演性指向评估逻辑对社会关系的渗透。它强制要求系统成员不断生产出可通约的绩效证明，并将“可见的绩效”等同于“实际的价值”。
-> - **研究用途** 帮助研究者透视超国家教育组织（如 [[OECD]]、世界银行）通过数据发布和排名确立地缘政治权威，以及政策行动者如何在不具意识形态共识的情况下结成临时协作网。
+> - **研究用途** 帮助研究者透视超国家教育组织（如 [[OECD]]、[[World Bank|世界银行]]）通过数据发布和排名确立地缘政治权威，以及政策行动者如何在不具意识形态共识的情况下结成临时协作网。
 > - **边界** 它描述的是宏观与中观层面的治理机制与系统规则，侧重于评估环境对行动者身份和话语特征的形塑，不适合解释微观课堂中具体的教学策略或单纯的方法论测量偏差。
 
 > [!citation-card]- 关键表述 利奥塔原初定义

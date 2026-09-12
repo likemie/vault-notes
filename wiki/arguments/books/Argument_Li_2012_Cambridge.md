@@ -7,7 +7,7 @@ title: "Argument_Li_2012_Cambridge"
 argument_key: "Argument_Li_2012_Cambridge"
 argument_display_title: "Cultural Foundations of Learning: East and West"
 argument_kind: "book"
-argument_related_count: 150
+argument_related_count: 151
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -159,6 +159,7 @@ related_facts:
   - "[[Civil Service Examination]]"
   - "[[Cram Schools]]"
   - "[[Three Excellences]]"
+  - "[[UNESCO]]"
   - "[[Gaokao]]"
 related_persons:
   - "[[Jin Li]]"
@@ -3327,7 +3328,7 @@ Li 明确反对这一预测："本书回顾的研究证据表明，文化学习�
 **证据二：多元社会中的文化马赛克**。美国、加拿大、澳大利亚等传统移民社会的经验表明，多样的人口生活在同一国籍和共同语言下，并不等于文化上同化于主流群体。事实上，每个马赛克群体都在努力保留自身独特的文化遗产，bicultural 存在是常态(p.334)。
 
 > [!example]
-> Li 提供了一个生动的例证：中国如今设有国家级奖项"感动中国"，其获奖者中包括孝道的典范。中国向联合国教科文组织申请保护的物质（寺庙、考古遗址）和非物质（舞蹈、音乐、哲学）文化遗产数量创历史新高。在个人层面，越来越多的中国孩子通过更昂贵的方式——如带父母乘坐加勒比邮轮——而非仅仅为父母做饭——来表达孝道。Li 的洞察是："拥有更多资源可能使人们更便捷、更频繁、更容易地表达其文化塑造的欲望和价值观。文化价值可能以这种令人意外的方式得到延续。"(pp.333-334)
+> Li 提供了一个生动的例证：中国如今设有国家级奖项"感动中国"，其获奖者中包括孝道的典范。中国向[[UNESCO|联合国教科文组织]]申请保护的物质（寺庙、考古遗址）和非物质（舞蹈、音乐、哲学）文化遗产数量创历史新高。在个人层面，越来越多的中国孩子通过更昂贵的方式——如带父母乘坐加勒比邮轮——而非仅仅为父母做饭——来表达孝道。Li 的洞察是："拥有更多资源可能使人们更便捷、更频繁、更容易地表达其文化塑造的欲望和价值观。文化价值可能以这种令人意外的方式得到延续。"(pp.333-334)
 
 ---
 

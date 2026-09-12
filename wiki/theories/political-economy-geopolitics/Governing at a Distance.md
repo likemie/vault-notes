@@ -10,7 +10,7 @@ aliases:
 summary: "权力不依赖直接命令或物理在场，而是通过重塑话语、想象、评估技术与自我导向机制在“远处”组织并塑造行为的治理空间机制。在教育全球治理中，它表现为超国家组织（如 OECD）借助标准化测评（如 PISA）和数据基准对主权国家政策进行的去政治化软性规训与交付。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 16
+theory_related_count: 17
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -41,6 +41,7 @@ related_persons:
   - "[[Eleftherios Klerides]]"
 related_facts:
   - "[[OECD]]"
+  - "[[World Bank]]"
   - "[[PISA]]"
 related_arguments:
   - "[[Argument_Zelinka_2022_SCD_subjectivity]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-07-09
-updated: 2026-07-09
+updated: 2026-09-12
 ---
 
 # Governing at a Distance
@@ -62,7 +63,7 @@ updated: 2026-07-09
 
 > [!concept-lens] 概念透镜
 > - **含义** 一种去中心化、基于技术中介（如测评数据、最佳实践标准）和主体性生产的非接触式权力统治形式。
-> - **用途** 在比较教育与教育政策研究中，用于剖析超国家组织（如 [[OECD]]、世界银行）如何在缺乏国家主权命令权的前提下，通过数据基准测试（如 [[PISA]]）远程遥控主权国家的教育政策变迁。
+> - **用途** 在比较教育与教育政策研究中，用于剖析超国家组织（如 [[OECD]]、[[World Bank|世界银行]]）如何在缺乏国家主权命令权的前提下，通过数据基准测试（如 [[PISA]]）远程遥控主权国家的教育政策变迁。
 > - **边界** 它有别于依靠法律和警察权力的传统硬性主权命令，也不等于纯粹自发的市场交易行为，它是一种高度技术化、[[Disciplina and Doctrina|规训]]性的治理理性。
 
 > [!citation-card]- 关键表述

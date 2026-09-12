@@ -6,10 +6,10 @@ aliases:
 summary: "围绕数字平台、软件服务、数据基础设施和政策叙事形成的 EdTech 产业生态系统，通过利润、平等和专业发展等多重动机推动教育数字化、市场化和商业化。"
 type: concept
 domain: "educational-technology"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
 - edtech
 - educational-technology
@@ -27,6 +27,7 @@ related_persons: []
 related_facts:
   - "[[OECD]]"
   - "[[Sputnik Shock 1957]]"
+  - "[[UNESCO]]"
   - "[[Regional University Alliances]]"
   - "[[League of European Research Universities]]"
   - "[[Bologna Process]]"
@@ -35,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: '2026-05-18'
+updated: 2026-09-12
 ---
 
 ## 定义
@@ -65,7 +66,7 @@ updated: '2026-05-18'
 
 
 > [!abstract] 正义与平等（Justice and Equality）
-> UNESCO 推动数字化的核心理由是包容性：数字教材和格式虽然前期开发成本高，但一旦完成可被几乎无限复制和适配——"anytime, anywhere"。对于缺乏实体校舍或合格教师的地区，数字技术是唯一可行的教育供给方式。此外，数字化的灵活性有助于学生平衡学习、工作与家庭责任——不必全日制在校或受固定时间表约束([[Argument_Amos_2022_Springer|Amos, 2022, p.57]])。
+> [[UNESCO]] 推动数字化的核心理由是包容性：数字教材和格式虽然前期开发成本高，但一旦完成可被几乎无限复制和适配——"anytime, anywhere"。对于缺乏实体校舍或合格教师的地区，数字技术是唯一可行的教育供给方式。此外，数字化的灵活性有助于学生平衡学习、工作与家庭责任——不必全日制在校或受固定时间表约束([[Argument_Amos_2022_Springer|Amos, 2022, p.57]])。
 >
 > > 例：撒哈拉以南非洲的偏远村庄没有合格的物理教师，但若有一部联网手机，学生就能观看可汗学院或 Coursera 的物理课。问题在于："若有一部联网手机"本身就是一个巨大的分配问题——网络覆盖、电力供应、设备拥有率因地区而异。([[Argument_Amos_2022_Springer|Amos, 2022, pp.57–58]])
 

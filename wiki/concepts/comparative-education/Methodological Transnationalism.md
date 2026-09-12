@@ -5,7 +5,7 @@ aliases:
 summary: "Diane Stone (2020) 与 Steiner-Khamsi 等倡导的方法论立场，主张超越方法论民族主义与线性层级霸权观，将国家与全球视作相互依存的关系性空间，聚焦全球/国家联结。"
 type: concept
 domain: "comparative-education"
-related_count: 27
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -19,6 +19,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Methodological Nationalism]]"
   - "[[Relational Space]]"
+  - "[[Transfer Space]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Determinism]]"
   - "[[Construct]]"
@@ -43,6 +44,7 @@ related_persons:
   - "[[Gita Steiner-Khamsi]]"
 related_facts:
   - "[[OECD]]"
+  - "[[World Bank]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
   - "[[Argument_Beech_2009_CE]]"
@@ -59,7 +61,7 @@ updated: 2026-09-12
 ## 定义
 
 > [!def] 核心定义
-> 方法论跨国主义（Methodological Transnationalism）是跨国公共政策与比较教育研究中的一种[[Epistemology|认识论]]与方法论[[Paradigm|范式]]。它既拒斥将民族国家预设为自足封闭分析容器的[[Methodological Nationalism|方法论民族主义]]，亦反对将全球与国家关系机械设定为自上而下、单向线性的等级霸权支配模式；该范式主张将“全球”与“国家”理解为高度相互依存、多维渗透的[[Relational Space|关系性空间]]而非物理隔离的孤立处所，倡导通过解构政府实体的多元空间尺度（全球、区域、国家）、职能部门（咨询、行政、立法）与公私属性，系统探究行动者在转移空间（Transfer Space）中构建的“全球/国家联结”（Global/National Nexus），重点揭示本土行动者如何策略性动员、[[Transfer Translation Transformation|转译]]与重构全球政策工具，以及跨国中介如何内生于国家治理变迁过程。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 540)]]
+> 方法论跨国主义（Methodological Transnationalism）是跨国公共政策与比较教育研究中的一种[[Epistemology|认识论]]与方法论[[Paradigm|范式]]。它既拒斥将民族国家预设为自足封闭分析容器的[[Methodological Nationalism|方法论民族主义]]，亦反对将全球与国家关系机械设定为自上而下、单向线性的等级霸权支配模式；该范式主张将“全球”与“国家”理解为高度相互依存、多维渗透的[[Relational Space|关系性空间]]而非物理隔离的孤立处所，倡导通过解构政府实体的多元空间尺度（全球、区域、国家）、职能部门（咨询、行政、立法）与公私属性，系统探究行动者在[[Transfer Space|转移空间]]（Transfer Space）中构建的“全球/国家联结”（Global/National Nexus），重点揭示本土行动者如何策略性动员、[[Transfer Translation Transformation|转译]]与重构全球政策工具，以及跨国中介如何内生于国家治理变迁过程。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 540)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 将分析焦点从割裂的领土单位转向跨尺度流动、网络互动与关系性构型。
@@ -83,7 +85,7 @@ updated: 2026-09-12
 > | 维度 | 方法论跨国主义 | [[Methodological Nationalism\|方法论民族主义]] | [[Methodological Globalism\|方法论全球主义]] |
 > |------|--------------|---------------------------------------------|--------------|
 > | **空间[[Hypothesis\|假设]]** | 关系性、相互依存与多尺度重叠的空间 | 封闭、自足且领土边界固定的国家容器 | 去疆界化、均质且抹平差异的全球平面 |
-> | **分析焦点** | 全球/国家联结（Global/National Nexus）与转移空间 | 国家内部制度发生学与跨国平行横向对比 | 全球同质化模型、世界文化与超国家规制 |
+> | **分析焦点** | 全球/国家联结（Global/National Nexus）与[[Transfer Space\|转移空间]] | 国家内部制度发生学与跨国平行横向对比 | 全球同质化模型、世界文化与超国家规制 |
 > | **权力视角** | 多元节点[[Network Governance\|网络治理]]、策略性外在化与双向转译 | 主权科层垄断与自上而下的行政强制 | 单向、等级制与不可抗拒的外部结构霸权 |
 > | **国家角色** | 被解构的多功能复合体（行政、立法、咨询公私缠绕） | 均质统一的单一理性行动主体 | 逐步边缘化并被动服从全球规范的受体 |
 
@@ -95,7 +97,7 @@ updated: 2026-09-12
 > - **空间关系性与相互依存** 打破“内部”与“外部”的绝对两分，视全球与国家为相互渗透的动态空间；全球规范并非单纯自外强加，而是深度卷入国家治理体系的内部重构。
 > - **政府实体的多维解构** 拒绝将政府视为铁板一块的单一行动者，主张按空间尺度（全球、区域、国家）、职能部门（立法机关、行政官僚、咨询专家委员会）以及公私界限（公共机构与私营咨询实体）进行系统拆解。
 > - **反思线性层级假定** 批评将全球与国家关系片面理解为“霸权命令—被动服从”的机械观点，重点关注政策在流动过程中的折射、本土抵制、选择性采纳与杂糅创新。
-> - **转移空间（Transfer Space）为分析枢纽** 强调[[Policy Borrowing|政策借用]]与流通并非真空中的理念跳跃，而是在由各类中介机构、专家咨询组、跨国智库与本土官僚共同建构的转移空间中发生意义再生产。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 540, 546)]]
+> - **[[Transfer Space|转移空间]]（Transfer Space）为分析枢纽** 强调[[Policy Borrowing|政策借用]]与流通并非真空中的理念跳跃，而是在由各类中介机构、专家咨询组、跨国智库与本土官僚共同建构的转移空间中发生意义再生产。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 540, 546)]]
 
 > [!logic-map]- 方法论跨国主义[[Analytic Framework|分析框架]]
 > ```mermaid
@@ -137,11 +139,11 @@ updated: 2026-09-12
 
 ### 命题三　转移空间中的政策流动呈现非线性的选择性过滤与组织利基重构
 
-> [!concept-lens] 转移空间与非线性[[Transfer Translation Transformation|转译]]
+> [!concept-lens] [[Transfer Space|转移空间]]与非线性[[Transfer Translation Transformation|转译]]
 > 探讨[[Policy Borrowing|政策借用]]在转移空间中如何摆脱机械扩散假定，表现为中介工具打包与行政过滤的双重重构。
 
 > [!claim] [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]]
-> **转移空间中的非对称转译与组织利基竞争** 政策借用不是跨越国界的机械平移，也不是全球霸权下均质同质化的被动吸纳，而是在“转移空间”（Transfer Space）中发生的复杂转译。在转移空间内部，国际组织依据自身的组织利基提供差异化打包的政策证据（如[[OECD|经合组织]]横向国别经验借鉴 vs 世界银行自指性实践仓库）；而输入国的主权行政体系则根据本土政治考量与合法性需求实施激进的阶段性过滤。这一发现颠覆了将全球/国家关系预设为等级制、线性与单向霸权的传统偏见。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 540, 546–548)]]
+> **转移空间中的非对称转译与组织利基竞争** 政策借用不是跨越国界的机械平移，也不是全球霸权下均质同质化的被动吸纳，而是在“转移空间”（Transfer Space）中发生的复杂转译。在转移空间内部，国际组织依据自身的组织利基提供差异化打包的政策证据（如[[OECD|经合组织]]横向国别经验借鉴 vs [[World Bank|世界银行]]自指性实践仓库）；而输入国的主权行政体系则根据本土政治考量与合法性需求实施激进的阶段性过滤。这一发现颠覆了将全球/国家关系预设为等级制、线性与单向霸权的传统偏见。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 540, 546–548)]]
 
 ---
 
@@ -183,7 +185,7 @@ updated: 2026-09-12
 > > - **国家自主性论** 指出行政官僚对法案的最终签署权表明主权国家仍牢牢掌握政策关卡。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 548)]]
 
 > [!critique] 外部批评
-> - **微观实操界限与物质权力稀释** 批评者指出，过于强调跨尺度关系网络与转移空间的话语转译，容易模糊硬性国家财政约束、地缘政治强制与主权安全审查等刚性结构力量对政策流动的决定性封锁作用。
+> - **微观实操界限与物质权力稀释** 批评者指出，过于强调跨尺度关系网络与[[Transfer Space|转移空间]]的话语[[Transfer Translation Transformation|转译]]，容易模糊硬性国家财政约束、地缘政治强制与主权安全审查等刚性结构力量对政策流动的决定性封锁作用。
 
 > [!warning] 适用局限
 > 该方法论高度适用于高度开放、积极参与跨国治理[[Dialogue in Education|对话]]与国际评测的政策体系；对于极度封闭、排斥外部评估或面临严重外部制裁的孤立政权，全球/国家联结的解释力相对有限。

@@ -11,7 +11,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -42,6 +42,7 @@ related_facts:
   - "[[OECD]]"
   - "[[Sputnik Shock 1957]]"
   - "[[1960 Bellagio Conference]]"
+  - "[[UNESCO]]"
   - "[[International Institute for Educational Planning]]"
   - "[[International Indicators of Education Systems]]"
   - "[[PISA]]"
@@ -94,7 +95,7 @@ updated: 2026-09-12
 > [!dev-timeline]- 项目推进历程
 > - **1960–1962 — 理论论证与第一阶段国别规划编制** 响应 1960 年[[1960 Bellagio Conference|贝拉吉奥会议]]与 1961 年华盛顿会议的共识，[[OECD|经合组织]]在巴黎召集六国规划负责人，确立帕内斯模型，完成首轮宏观劳动力预测。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
 > - **1962–1965 — 政策落地与国家五年规划吸纳** 六国相继正式出版《地中海区域项目国别报告》（MRP Country Reports），将测算得出的师生比、校舍建设指标与生均公用经费直接写入国家发展计划（如西班牙第一期经济社会发展计划）。
-> - **1965–1970 — 跨国经验推广与规划[[Paradigm|范式]]全球辐射** 经合组织发布 MRP 全球总结报告与批评性审查，将该范式横向输出至拉丁美洲与经合组织其他成员国，并直接刺激了教科文组织[[International Institute for Educational Planning|国际教育规划研究所]]（IIEP）的全球规划培训业务。
+> - **1965–1970 — 跨国经验推广与规划[[Paradigm|范式]]全球辐射** 经合组织发布 MRP 全球总结报告与批评性审查，将该范式横向输出至拉丁美洲与经合组织其他成员国，并直接刺激了[[UNESCO|教科文组织]][[International Institute for Educational Planning|国际教育规划研究所]]（IIEP）的全球规划培训业务。
 
 ---
 

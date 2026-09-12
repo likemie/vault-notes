@@ -6,10 +6,10 @@ summary: "瑞典教育学者，经合组织教育研究与创新中心（OECD CE
 type: person
 nationality: "se"
 person_region: "se"
-person_related_count: 13
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 28
+person_related_level: 3
+person_related_stars: "⭐⭐⭐"
+person_related_color: "#ede9fe"
 born: 1941
 died: ""
 lifespan: "1941–至今"
@@ -22,25 +22,40 @@ tags:
   - theme/education-indicators
   - theme/lifelong-learning
 related_concepts:
+  - "[[International Education]]"
+  - "[[Lifelong Learning]]"
+  - "[[Scaffolding]]"
+  - "[[Further Education]]"
+  - "[[Paradigm]]"
   - "[[Performance Indicators]]"
+  - "[[Governing by Numbers]]"
+  - "[[Soft Power by Hard Facts]]"
+  - "[[Problem Finding]]"
   - "[[Façade of Rationality]]"
+  - "[[Hypothesis]]"
   - "[[Policy Brokerage]]"
+  - "[[Disciplina and Doctrina]]"
+related_theories:
+  - "[[Sociology of Measurement]]"
   - "[[Human Capital Theory]]"
-related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
   - "[[Andreas Schleicher]]"
+  - "[[Norberto Bottani]]"
   - "[[Christian Ydesen]]"
 related_facts:
   - "[[OECD]]"
+  - "[[Centre for Educational Research and Innovation]]"
   - "[[International Indicators of Education Systems]]"
   - "[[Education at a Glance]]"
   - "[[PISA]]"
   - "[[A Nation at Risk 1983]]"
+  - "[[World Bank]]"
+  - "[[UNESCO]]"
 related_arguments:
-  - "[[Argument_Gorur_2014_Discourse]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
+  - "[[Argument_Gorur_2014_Discourse]]"
 confidence: high
 status: active
 created: 2026-09-12
@@ -117,7 +132,7 @@ updated: 2026-09-12
 > - **理论路径** 实践并印证了政策工具社会学与[[Soft Power by Hard Facts|以硬事实施展软权力]]的核心[[Hypothesis|假设]]，为后续拉德卡·戈鲁尔（Radhika Gorur）与索蒂里亚·格雷克（Sotiria Grek）等学者开创[[Performance Indicators|教育指标]][[Sociology of Measurement|测量社会学]]提供了活生生的机构样本。
 > - **方法路径** 奠定了当代跨国教育指标矩阵与网络工作法（NES Networks），开创了跨国教育统计指标标准化定义（ISCED 体系在 [[OECD]] 的应用与延展）。
 > - **政策路径** 直接塑造了当代西方世界每逢教育改革必谈《[[Education at a Glance|教育概览]]》指标与 [[PISA]] 排名的政治反射；将教育部门推向国家宏观竞争力的战略核心。
-> - **跨国／跨领域传播** 其开创的指标开发治理[[Paradigm|范式]]被世界银行、欧盟委员会（欧委会教育与培训监测框架）以及 UNESCO 统计研究所（UIS）全面仿效。
+> - **跨国／跨领域传播** 其开创的指标开发治理[[Paradigm|范式]]被[[World Bank|世界银行]]、欧盟委员会（欧委会教育与培训监测框架）以及 [[UNESCO]] 统计研究所（UIS）全面仿效。
 
 > [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Gorur_2014_Discourse|Gorur (2014)]] — 详尽记录本特森在 1980 年代末如何突破各国外交疑虑，开创 [[International Indicators of Education Systems|INES]] 指标项目并确立 OECD 生产“可计算世界”的技术神话。

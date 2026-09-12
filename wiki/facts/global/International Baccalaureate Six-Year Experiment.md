@@ -9,7 +9,7 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 22
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -40,6 +40,7 @@ related_instruments: []
 related_persons:
   - "[[Gerard Renaud]]"
 related_facts:
+  - "[[UNESCO]]"
   - "[[United World Colleges]]"
   - "[[1967 Sevres International Conference on the IB]]"
   - "[[1976 Hague Intergovernmental Conference on the International Baccalaureate]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-23
-updated: 2026-08-24
+updated: 2026-09-12
 ---
 
 # International Baccalaureate Six-Year Experiment
@@ -61,7 +62,7 @@ updated: 2026-08-24
 
 > [!event-context] 事件背景
 > - **时间／地点** 1967 年塞夫尔会议后启动，正式考试覆盖 1970–1975 年；为履行对已入读学生的责任延至 1976 年，并以海牙政府间会议标志实验期结束。组织中心位于日内瓦，学校、大学和资助网络遍及欧洲、北美、亚洲、非洲和拉丁美洲。[[Argument_Peterson_1987_OpenCourt_Ch04|Peterson (1987, Ch. 4, pp. 61–97)]]
-> - **关键主体** [[International Baccalaureate|国际文凭]]（International Baccalaureate，IB）的管理机构国际文凭办公室（International Baccalaureate Office，IBO）、获批学校与考生、大学和教育部、国际主考官委员会、基金会、联合国教育、科学及文化组织（United Nations Educational, Scientific and Cultural Organization，UNESCO）、[[International Education|国际教育]]局（International Bureau of Education，IBE）及出资政府。
+> - **关键主体** [[International Baccalaureate|国际文凭]]（International Baccalaureate，IB）的管理机构国际文凭办公室（International Baccalaureate Office，IBO）、获批学校与考生、大学和教育部、国际主考官委员会、基金会、联合国教育、科学及文化组织（[[UNESCO|United Nations Educational, Scientific and Cultural Organization]]，UNESCO）、[[International Education|国际教育]]局（International Bureau of Education，IBE）及出资政府。
 > - **制度背景** 1967 年塞夫尔会议接受六学科与考试框架，并建议以每年不超过 500 名完整文凭考生进行有限期限的[[Action Research|行动研究]]。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 26–31)]]
 > - **触发条件** [[International Schools|国际学校]]需要不依附单一国家课程、又能被多国大学接受的共同资格；项目必须同时证明考试质量、学校适用性、大学承认和财务延续性。[[Argument_Peterson_1987_OpenCourt_Ch04|Peterson (1987, Ch. 4, pp. 61–68)]]
 
@@ -72,7 +73,7 @@ updated: 2026-08-24
 > - **1969–1970 年 — 试考转为正式考试** 1969 年举行完整试考，1970 年首次举办具有大学承认承诺的正式考试，29 名完整文凭考生进入资格实践。
 > - **1970–1973 年 — 学校与承认网络扩展** 英美大学逐校承认，法国等集中体系建立有限等值；学校类型扩展到公立实验学校、双语学校、[[Further Education|继续教育]]学院和多地区[[International Schools|国际学校]]。到 1973 年底，20 国给予一般承认，其他国家给予部分承认，学生进入 25 国的 175 所大学（pp. 68–82）。
 > - **1973–1975 年 — 财务危机与组织重构** 通货膨胀、汇率错配和阶段性基金会资助退出迫使 IBO 控制成本、把部分考试业务转至英国、建立学校加入费与年费，并扩大政府支持（pp. 83–94）。
-> - **1976 年 — 海牙会议结束实验期** 海牙政府间会议汇集十五国与 UNESCO 代表，九国原则同意为 1977–1978 年考试出资，会议支持出资国进入理事会并保留新的政府间结构选项（pp. 94–97）。
+> - **1976 年 — 海牙会议结束实验期** 海牙政府间会议汇集十五国与 [[UNESCO]] 代表，九国原则同意为 1977–1978 年考试出资，会议支持出资国进入理事会并保留新的政府间结构选项（pp. 94–97）。
 > - **1978 年 — 独立法律身份与政府支持结合** UNESCO 拒绝整合方案后，IBO 保留瑞士法律身份；政府常设会议获得部分理事提名权，常设国际资格组织的混合治理结构成形（p. 97）。
 
 ## 关键结果
@@ -115,7 +116,7 @@ updated: 2026-08-24
 > | 1969–1970 年 | 福特基金会后续拨款 20 万美元、二十世纪基金会第二笔 7.5 万美元等均为终止性资助 | 以紧缩预算把首年最高支出估计 16.3 万美元降至实际 124,775 美元；[[Gerard Renaud\|杰拉德·雷诺]]兼任日内瓦办公室负责人和财务主管 | 项目可覆盖早期义务，但必须在试验结束前找到常规收入 |
 > | 1970–1973 年 | 前三年确定收入每年约 13 万美元，第四年仅略高于 10 万美元；工资、日内瓦运营成本和国际人员薪酬上升 | 争取配套赠款，依靠无偿或只报销开支的人员，并把正式员工工资参照欧洲核子研究组织标准 | 节流延长了试验寿命，也使人员过劳和服务削减成为持续风险 |
 > | 1973–1974 年 | 约八成收入以美元或英镑取得，约九成支出以升值的瑞士法郎支付；考试规模又要求更强行政 | 将年度考试行政逐步转往成本较低且英语文书人员充足的英国，1974 年与南安普敦大学签约承接语言考试 | 日内瓦保留课程与总体治理，考试生产、翻译和分发形成跨地分工 |
-> | 1974–1976 年 | 紧缩迫使组织放弃部分有助效度的听力测验；UNESCO 常规资助前景转弱 | 收取学校 1,000 瑞士法郎加入费和 2,000 瑞士法郎年费，获得美国国务院三年每年 3 万美元资助；十所学校紧急把年费提高四倍 | 收入从基金会赠款转向考试费、学校订阅、政府拨款和出版物并存，海牙会议再把出资与治理代表权连接 |
+> | 1974–1976 年 | 紧缩迫使组织放弃部分有助效度的听力测验；[[UNESCO]] 常规资助前景转弱 | 收取学校 1,000 瑞士法郎加入费和 2,000 瑞士法郎年费，获得美国国务院三年每年 3 万美元资助；十所学校紧急把年费提高四倍 | 收入从基金会赠款转向考试费、学校订阅、政府拨款和出版物并存，海牙会议再把出资与治理代表权连接 |
 >
 > 这段转型没有把财务问题与教学质量分开。汇率、工资和印制成本会直接决定能否保留语言听力测验、能否及时组织口试与阅卷，以及学校能否负担参与费用。行政分权既是节约安排，也是维持考试效度与年度交付能力的制度条件。[[Argument_Peterson_1987_OpenCourt_Ch04|Peterson (1987, Ch. 4, pp. 83–96)]]
 

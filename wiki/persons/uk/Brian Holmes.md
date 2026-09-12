@@ -8,10 +8,10 @@ summary: "英国著名比较教育学家与科学哲学家，伦敦大学教育�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 49
-person_related_level: 5
-person_related_stars: "⭐⭐⭐⭐⭐"
-person_related_color: "#ffedd5"
+person_related_count: 50
+person_related_level: 6
+person_related_stars: "⭐⭐⭐⭐⭐⭐"
+person_related_color: "#fef3c7"
 born: "1920"
 died: "1993"
 lifespan: "1920–1993"
@@ -71,6 +71,7 @@ related_persons:
   - "[[Philip Foster]]"
 related_facts:
   - "[[Comparative Education Society in Europe]]"
+  - "[[UNESCO]]"
   - "[[National Education in Europe]]"
 related_arguments:
   - "[[Argument_Cowen_2023_CE]]"
@@ -80,7 +81,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-07
-updated: 2026-09-11
+updated: 2026-09-12
 ---
 
 # Brian Holmes
@@ -112,7 +113,7 @@ updated: 2026-09-11
 > - **1964** **获伦敦大学哲学博士学位奠定[[Problem Approach|问题法]]哲学基础** 完成博士学位论文，系统将波普尔的[[Critical Dualism|批判二元论]]、情境逻辑与[[John Dewey|约翰·杜威]]（[[John Dewey]]）的[[Reflective Thinking|反思性思维]]理论相熔铸，奠定“[[Problem Solving|问题解决]]法（Problem Approach）”的理论架构。
 > - **1965** **出版《教育问题：一种比较进路》与跨大西洋方法论围论** 出版方法论里程碑名著《教育问题：一种比较进路》（*Problems in Education: A Comparative Approach*），晋升为伦敦大学比较教育学读者（Reader）。他在书中高调向老派历史学派宣战，断言比较教育必须是一门以[[Nomothetic|通则式]]“预测”为标志的[[Policy Science in Comparative Education|政策科学]]，并对汉斯、[[Isaac Kandel|坎德尔]]的回溯性历史归因发起系统挑战，与[[George Bereday|乔治·贝雷迪]]、[[Harold Noah|哈罗德·诺亚]]、[[Max Eckstein|马克斯·埃克斯坦]]及[[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]展开长达十余年的跨大西洋方法论大论战。[[Argument_Kazamias_2009_ForgottenThemes|(Holmes, 1965: 19–21, 30; Kazamias, 2009: 53–54)]]
 > - **1975–1985** **执掌伦敦大学教育学院比较教育系主任** 接替荣休的劳威斯，荣任伦敦大学教育学院比较教育学正教授兼系主任（Head of Department），全面确立享誉全球的“伦敦问题学派”，培养了遍布英联邦与国际组织的教育决策专家。
-> - **1977–1983** **主政世界比较教育学会联合会（WCCES）推动国际治理** 当选并连任世界比较教育学会联合会（WCCES）主席，深度受聘为联合国教科文组织（United Nations Educational, Scientific and Cultural Organization, UNESCO）、日内瓦[[International Education|国际教育]]局（International Bureau of Education, IBE）与欧洲委员会高级咨询专家，主持撰写《国际教育系统指南》（*International Guide to Education Systems*, 1979）。
+> - **1977–1983** **主政世界比较教育学会联合会（WCCES）推动国际治理** 当选并连任世界比较教育学会联合会（WCCES）主席，深度受聘为[[UNESCO|联合国教科文组织]]（United Nations Educational, Scientific and Cultural Organization, UNESCO）、日内瓦[[International Education|国际教育]]局（International Bureau of Education, IBE）与欧洲委员会高级咨询专家，主持撰写《国际教育系统指南》（*International Guide to Education Systems*, 1979）。
 > - **1981** **出版《比较教育：方法论的若干思考》深化分析模型** 出版方法论专著《比较教育：方法论的若干思考》（*Comparative Education: Some Considerations of Method*），系统完善涵盖规范模式、体制模式、精神模式与自然环境模式的四维理想类型，深化“文化滞后”与“时代不同步（Asynchrony）”[[Analytic Framework|分析框架]]。
 > - **1985** **从伦敦大学教育学院荣休** 正式卸任教职与系主任职务。
 > - **1993** **逝世于伦敦与政策科学传统定评** 逝世于英国伦敦，享年 73 岁。[[Robert Cowen|罗伯特·考恩]]（[[Robert Cowen]]）高度评价其学术生涯，称其为 1960 年代[[Ontology|本体论]]大论战的中流砥柱，奠定了比较教育作为预测性政策科学的坚实基石。[[Argument_Cowen_2023_CE|(Cowen, 2023, pp. 328, 333)]]
@@ -169,7 +170,7 @@ updated: 2026-09-11
 > [!influence-path] 影响路径
 > - **理论路径** 创立[[Critical Dualism|批判二元论]]，与贝雷迪、诺亚与埃克斯坦共同开启比较教育社会科学化、[[Policy Science in Comparative Education|政策科学]]化与[[Scientific Paradigm|科学范式]]跨大西洋大论战；
 > - **方法路径** 确立了“问题甄别—假说提出—情境模式—逻辑演绎—后果预测”的假说-演绎[[Problem Approach|问题法]]，使跨国比较摆脱了无反思的经验白描与静态因素列举；
-> - **政策路径** 深度影响了英联邦、UNESCO 与 IBE 的教育规划专家培训，成为[[International Education|国际教育]]顾问制定政策可行性方案的标准分析工具；
+> - **政策路径** 深度影响了英联邦、[[UNESCO]] 与 IBE 的教育规划专家培训，成为[[International Education|国际教育]]顾问制定政策可行性方案的标准分析工具；
 > - **史料评价** 破除实证派对早期发端的傲慢偏见，高度肯定[[Henry Barnard|亨利·巴纳德]]（Henry Barnard）编纂世界教育百科全书的历史贡献。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 32–33; Holmes, 1965)]]
 
 > [!evidence-grid-a]- 相关研究索引

@@ -5,7 +5,7 @@ aliases:
 summary: "把现代社会理解为由流动网络而非稳定等级结构主导的理论，用于解释信息、资本与知识如何在跨边界连接中重新组织"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 18
+theory_related_count: 19
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -37,13 +37,14 @@ related_persons:
 related_facts:
   - "[[OECD]]"
   - "[[Education International]]"
+  - "[[World Bank]]"
 related_arguments:
   - "[[Argument_Rizvi_2022_Springer]]"
   - "[[Argument_Beech_2009_CE]]"
 confidence: low
 status: draft
 created: '2026-05-11'
-updated: 2026-09-11
+updated: 2026-09-12
 ---
 
 ## 核心主张
@@ -102,7 +103,7 @@ updated: 2026-09-11
 > 在全球教育[[Champ|场域]]中，大部分议程设定发生在流动空间中——国际机构、企业、咨询公司、大学和 NGO 通过跨国网络互动，生产并再生产全球教育话语。这些网络的运作遵循 Castells 所描述的网络逻辑：纳入／排除的二元运作、节点的信息处理能力决定权力、主导地位是临时的([[Argument_Beech_2009_CE|Beech, 2009, pp.350–351]])。
 
 > [!success] [[Snowball Sampling|网络化]]治理中的竞争与协作
-> 全球政策空间中的行动者构成了复杂的协作与竞争网络。同一个项目中的盟友可能在下一个项目中成为对手。这种看似意识形态矛盾的协作（如反新自由主义的 [[Education International]] 与 IMF 和世界银行的全球合作伙伴关系）可以通过网络的[[Performativity|操演性]]逻辑来理解：参与者的决策更多地取决于网络能否帮助其提升表现／影响力，而非意识形态的一致性([[Argument_Beech_2009_CE|Beech, 2009, pp.351–353]])。
+> 全球政策空间中的行动者构成了复杂的协作与竞争网络。同一个项目中的盟友可能在下一个项目中成为对手。这种看似意识形态矛盾的协作（如反新自由主义的 [[Education International]] 与 IMF 和[[World Bank|世界银行]]的全球合作伙伴关系）可以通过网络的[[Performativity|操演性]]逻辑来理解：参与者的决策更多地取决于网络能否帮助其提升表现／影响力，而非意识形态的一致性([[Argument_Beech_2009_CE|Beech, 2009, pp.351–353]])。
 
 > [!success] 网络话语的生产特征
 > 全球网络的话语生产受到网络属性的约束。由于网络旨在影响尽可能多的地方教育系统，生产出的话语必须是可塑的、高度抽象的、脱离地方历史经验的。这种话语成为"[[Floating Signifier|漂浮能指]]"，其具体含义取决于接收者的解读，使得同一个全球口号能在截然不同的语境中被转化为不同的政策与实践([[Argument_Beech_2009_CE|Beech, 2009, pp.353–355]])。这与 Rizvi 所观察的高等教育[[Transnational Research Collaboration|跨国研究合作]]中多重理性的网络化融合——学术、经济和外交目标的同一网络承载——在机制上是相通的。

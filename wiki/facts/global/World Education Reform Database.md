@@ -10,7 +10,7 @@ subtype: program
 region: "global"
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 16
+fact_related_count: 18
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -42,7 +42,9 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[OECD]]"
+  - "[[World Bank]]"
   - "[[Systems Approach for Better Education Results]]"
+  - "[[UNESCO]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
 confidence: high
@@ -80,7 +82,7 @@ updated: 2026-09-12
 > - **实施控制** 采用多语种研究人员双盲独立交叉编码，并依托跨国教育史专家网络对争议性政策条文进行权威[[Reliability|信度]]校验。
 
 > [!citation-card] 全球教育改革数据库的规模与实证贡献
-> [[Policy Brokerage|政策中介]]实践中的经验汲取模式生动展现了这一点。塞策、白承焕与施泰纳-哈姆西（Seitzer, Baek, and Steiner-Khamsi, 2023）利用详尽的世界教育改革数据库（WERD）的数据发现，[[OECD|经合组织]]的政策报告倾向于引用其他国家的具体改革经验。相反，世界银行的报告在汲取经验时往往表现出高度的自指性，因为其报告只是反复重复其自身在系统评估法（[[Systems Approach for Better Education Results|SABER]]）项目中所归档的最佳实践组合。该数据库收录了 1960 年至 2017 年期间 147 个国家的 6,700 项教育政策文件。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 545, 550)]]
+> [[Policy Brokerage|政策中介]]实践中的经验汲取模式生动展现了这一点。塞策、白承焕与施泰纳-哈姆西（Seitzer, Baek, and Steiner-Khamsi, 2023）利用详尽的世界教育改革数据库（WERD）的数据发现，[[OECD|经合组织]]的政策报告倾向于引用其他国家的具体改革经验。相反，[[World Bank|世界银行]]的报告在汲取经验时往往表现出高度的自指性，因为其报告只是反复重复其自身在系统评估法（[[Systems Approach for Better Education Results|SABER]]）项目中所归档的最佳实践组合。该数据库收录了 1960 年至 2017 年期间 147 个国家的 6,700 项教育政策文件。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 545, 550)]]
 >
 > *A case in point is the lesson-drawing practice in policy brokerage. Drawing on data from the comprehensive World Education Reform Database (WERD), Seitzer, Baek, and Steiner-Khamsi (2023) found that OECD reports tend to reference experiences in other countries. By contrast, the World Bank reports tend to be self-referential in drawing their lessons, in that the reports reiterate their portfolio of best practices, as documented in their SABER programme. The database contains documents on 6,700 education policies in 147 countries, over the period 1960–2017 (Bromley et al. 2021, 2023).*
 
@@ -89,7 +91,7 @@ updated: 2026-09-12
 ## 推进历程与阶段演进
 
 > [!dev-timeline]- 项目推进历程
-> - **2010年代初期 — 架构设计与[[Primary and Secondary Documents|原始文献]]采集** 团队系统检索各国官方公报、联合国教科文组织[[International Education|国际教育]]局（IBE）历史档案以及各国教育部历史卷宗，确立收录边界与元数据标准。
+> - **2010年代初期 — 架构设计与[[Primary and Secondary Documents|原始文献]]采集** 团队系统检索各国官方公报、[[UNESCO|联合国教科文组织]][[International Education|国际教育]]局（IBE）历史档案以及各国教育部历史卷宗，确立收录边界与元数据标准。
 > - **2018–2021 — [[Coding in Qualitative Research|编码]]系统成型与初步实证发表** 完成 6,700 项政策的统一量化标引，帕特里夏·布罗姆利等（Bromley et al., 2021）发表首期宏观分析报告，揭示 21 世纪以来国际组织报告在特定教育理念上的话语重心转移。
 > - **2023–至今 — 哈佛数据共享平台开源与第二代深度应用** 在 Harvard Dataverse 发布 WERD V2 全量开放数据集，引发全球学者利用该数据库开展自然语言处理（NLP）分析、政策扩散网络建模以及国际组织经验汲取模式比较。
 
@@ -117,7 +119,7 @@ updated: 2026-09-12
 > - **学术影响力指标** 成为多国顶级比较教育与政策学期刊进行跨国大样本定量文本分析的权威数据源。
 
 > [!finding-cards] 核心实证结论
-> - **主要效应** 塞策等学者（Seitzer, Baek, & Steiner-Khamsi, 2023）借助 WERD 进行文本交叉挖掘发现，[[OECD|经合组织]]报告倾向于开展**外向型跨国对照（Outward Referencing）**，大量引证其他成员国的实操举措；而世界银行报告呈现极强的**自指性（Self-referential）**，反复循环引证其自建的 [[Systems Approach for Better Education Results|SABER]] 政策库，极少吸纳非世行体系的在地实践。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 545)]]
+> - **主要效应** 塞策等学者（Seitzer, Baek, & Steiner-Khamsi, 2023）借助 WERD 进行文本交叉挖掘发现，[[OECD|经合组织]]报告倾向于开展**外向型跨国对照（Outward Referencing）**，大量引证其他成员国的实操举措；而[[World Bank|世界银行]]报告呈现极强的**自指性（Self-referential）**，反复循环引证其自建的 [[Systems Approach for Better Education Results|SABER]] 政策库，极少吸纳非世行体系的在地实践。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 545)]]
 > - **[[Heterogeneity|异质性]]效应** 布罗姆利等（Bromley et al., 2021）通过全库长时段分析证实，进入 21 世纪后，尽管全球政策数量持续激增，但在人权、社会正义等实质性人文主义维度的强调比例显著下降，取而代之的是新自由主义管理绩效与量化测评指标的泛滥。
 > - **边界条件** 数据库聚焦于国家官方颁布的法律与行政白皮书文本，对发展中国家普遍存在的政策文本与教室实际教学脱耦（Decoupling）现象具有解释边界。
 
@@ -157,4 +159,4 @@ updated: 2026-09-12
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 援引基于该数据库的实证成果，揭示 [[OECD]]（外向参照他国）与世界银行（自指循环闭环）在[[Policy Brokerage|政策中介]]与经验汲取模式上的深刻裂痕。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 援引基于该数据库的实证成果，揭示 [[OECD]]（外向参照他国）与[[World Bank|世界银行]]（自指循环闭环）在[[Policy Brokerage|政策中介]]与经验汲取模式上的深刻裂痕。

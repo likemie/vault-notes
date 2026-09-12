@@ -5,7 +5,7 @@ aliases:
 summary: "跨越单一国家教育边界组织人员、共同生活、课程、评价与资格承认的教育实践和制度；既包含国际理解的教育计划，也包含全球化推动的流动、比较和市场扩张。"
 type: concept
 domain: "higher-education"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -40,6 +40,7 @@ related_facts:
   - "[[Education International]]"
   - "[[English Schools Foundation Hong Kong]]"
   - "[[OECD]]"
+  - "[[UNESCO]]"
   - "[[International Baccalaureate Six-Year Experiment]]"
   - "[[1976 Hague Intergovernmental Conference on the International Baccalaureate]]"
   - "[[Education City Doha]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-16'
-updated: '2026-08-24'
+updated: 2026-09-12
 ---
 
 # International Education
@@ -235,7 +236,7 @@ updated: '2026-08-24'
 > [!critique] 实施与证据问题
 > - **师资培养落后于机构扩张** 全球只有少数大学提供国际教育专业培养，远不足以服务约 3,000 所学校和 200 万以上学生；缺少准备的教师容易把母国教学[[Hypothesis|假设]]和对[[Chinese Learner|中国学习者]]的刻板印象带入课堂。[[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, pp. 31–34)]]
 > - **本地系统可能承受机会成本** [[English Schools Foundation Hong Kong|ESF]] 等国际学校吸纳本地学生，可能加重出生率下降背景下公立学校的生源压力。[[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, p. 5)]]
-> - **规模数据可比性不足** 国际学生和国际学校统计来自[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD）、IIE、联合国教育、科学及文化组织（United Nations Educational, Scientific and Cultural Organization，UNESCO）、政府和媒体，不同来源对同一现象差异很大，原研究也没有系统评估数据质量。[[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, pp. 17–18)]]
+> - **规模数据可比性不足** 国际学生和国际学校统计来自[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD）、IIE、联合国教育、科学及文化组织（[[UNESCO|United Nations Educational, Scientific and Cultural Organization]]，UNESCO）、政府和媒体，不同来源对同一现象差异很大，原研究也没有系统评估数据质量。[[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, pp. 17–18)]]
 
 > [!warning] 解释边界
 > 皮特森提供的是参与者视角的制度形成史，能够揭示国际教育设计者如何理解自己的选择，却不能单独证明长期教育效果；斯莱特豪格的材料则是二手统计和[[Document|文献]]综合，适合描述规模与趋势，但其“国际教育”“全球化”和“[[Knowledge-Based Economy|知识经济]]”没有被严格[[Operationalization|操作化]]。两类材料互补，却都不能把跨国流动直接当作跨文化学习成效。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 57–59)]] [[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, pp. 1, 17–18, 31–34)]]

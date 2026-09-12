@@ -10,7 +10,7 @@ summary: "运用历史因果考证与跨国情境对照解释教育制度起源�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 34
+method_related_count: 37
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Whiggism]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Document]]"
+  - "[[Soft Power by Hard Facts]]"
   - "[[Policy Borrowing]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Going Native]]"
@@ -55,6 +56,8 @@ related_persons:
   - "[[Marc-Antoine Jullien]]"
 related_facts:
   - "[[OECD]]"
+  - "[[World Bank]]"
+  - "[[UNESCO]]"
 related_arguments:
   - "[[Argument_Kazamias_2009_ForgottenThemes]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
@@ -63,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-11
+updated: 2026-09-12
 ---
 
 # Historical-Comparative Method
@@ -78,7 +81,7 @@ updated: 2026-09-11
 > [!method-scope] 方法范围
 > - **研究对象** 民族国家教育体系的建制沿革、教育法令条款、课程与师资制度演化、教育哲学思想争鸣，以及超国家组织（IOs）的历史演进轨迹与[[Global Education Governing Complex|全球教育治理复合体]]的制度发生学。
 > - **问题类型** 历史成因与机制解释（Why and How）、制度发展动力探寻、理念演变脉络、跨国制度类型学建构、国际组织法定职能变迁与[[Policy Brokerage|政策中介]]合法性生成。
-> - **[[Unit of Analysis|分析单位]]** 民族国家、国家教育体系、历史分期、重要教育法案、跨国政府间组织（如 [[OECD]]、世界银行、UNESCO）、改革机构与核心理论家文本。
+> - **[[Unit of Analysis|分析单位]]** 民族国家、国家教育体系、历史分期、重要教育法案、跨国政府间组织（如 [[OECD]]、[[World Bank|世界银行]]、[[UNESCO]]）、改革机构与核心理论家文本。
 > - **输出形式** 历史因果脉络谱系、制度演进动力模型、跨国对照[[Analytic Framework|分析框架]]、中程工作假设（Working Hypotheses）、国际组织历史演化类型学。
 
 > [!citation-card] 历史比较法从个案归纳工作假设的[[Epistemology|认识论]]辩护
@@ -152,7 +155,7 @@ updated: 2026-09-11
 > - **适合使用** 
 >   - 探究民族国家教育体系的深层历史成因与长周期演进动力；
 >   - 剖析重大教育法令、现代学校形态与课程双轨制的历史发生学渊源；
->   - 追踪超国家组织（IOs）在长周期历史演变中如何确立其教育法定职责，以及从二战后经济重建转向全球[[Policy Brokerage|政策中介]]与硬事实软权力治理的历史轨迹（[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024]]）；
+>   - 追踪超国家组织（IOs）在长周期历史演变中如何确立其教育法定职责，以及从二战后经济重建转向全球[[Policy Brokerage|政策中介]]与[[Soft Power by Hard Facts|硬事实软权力]]治理的历史轨迹（[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024]]）；
 >   - 揭示[[Policy Borrowing|教育借用]]与政策移植过程中的文化阻抗、[[Transfer Translation Transformation|转译]]与[[Going Native|本土化]]机制；
 >   - 建立跨国教育制度类型学并阐明各民族或国际组织的独特文化精神底色与组织利基。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 38–42)]]
 > - **谨慎使用**
@@ -206,5 +209,5 @@ updated: 2026-09-11
 > - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009)]] — 卡扎米亚斯运用历史比较法梳理比较教育史中历史-哲学母题的起源、演变、[[Paradigm|范式]]分支与[[Positivism|实证主义]]危机，系统重构该方法论的现代合法性。
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] — 运用比较历史考证[[Marc-Antoine Jullien|朱利安]]与欧美行政官员在 19 世纪的[[Document|文献]]档案，揭示现代主义发端的双重母题。
 > - [[Argument_Cowen_2009_HistoryCreation|Cowen (2009a)]] — 运用比较史学方法剖析比较教育学科史编纂面临的档案隐蔽与材料匮乏困境，提出“[[Comparative History of Comparative Education|比较教育学的比较史]]”。
-> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 突破传统民族国家容器限制，将历史比较法创新性应用于跨国组织演进研究，通过对[[OECD|经合组织]]（OECD）与世界银行长达 50–75 年的历史档案与制度变迁进行长周期时空追踪，揭示二者如何从马歇尔计划与经济援助机构跨界扩张为教育[[Policy Brokerage|政策中介]]巨头，并在竞争中分化出不同的实证研究帝国与组织利基。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 突破传统民族国家容器限制，将历史比较法创新性应用于跨国组织演进研究，通过对[[OECD|经合组织]]（OECD）与[[World Bank|世界银行]]长达 50–75 年的历史档案与制度变迁进行长周期时空追踪，揭示二者如何从马歇尔计划与经济援助机构跨界扩张为教育[[Policy Brokerage|政策中介]]巨头，并在竞争中分化出不同的实证研究帝国与组织利基。
 

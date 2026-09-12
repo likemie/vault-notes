@@ -7,7 +7,7 @@ aliases:
 summary: "比较教育的四种理解形式之一，认为不同社会的教育系统正在趋向相似，经历了从 UNESCO 科学理想到新制度主义的多个阶段"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 8
+theory_related_count: 9
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -31,13 +31,14 @@ related_theories:
 related_methods: []
 related_persons:
   - "[[Robert Cowen]]"
-related_facts: []
+related_facts:
+  - "[[UNESCO]]"
 related_arguments:
   - "[[Argument_Cowen_2023_CE]]"
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: 2026-06-06
+updated: 2026-09-12
 ---
 
 # Convergence Theory in Comparative Education
@@ -47,7 +48,7 @@ updated: 2026-06-06
 ## 定义
 
 > [!info]
-> 趋同理论（Convergence Theory）是 [[Robert Cowen]]（Cowen 2023）所识别的比较教育四种长期并存的理解形式之一，认为不同社会的教育系统正在趋向相似。这一理解形式经历了从 UNESCO 科学理想到新制度主义的多个历史阶段，代码词是同构（isomorphisms）以及温和的动词（如出现、发生、成形），通常缺乏明确的行动主体([[Argument_Cowen_2023_CE|Cowen, 2023, p.333]])。
+> 趋同理论（Convergence Theory）是 [[Robert Cowen]]（Cowen 2023）所识别的比较教育四种长期并存的理解形式之一，认为不同社会的教育系统正在趋向相似。这一理解形式经历了从 [[UNESCO]] 科学理想到新制度主义的多个历史阶段，代码词是同构（isomorphisms）以及温和的动词（如出现、发生、成形），通常缺乏明确的行动主体([[Argument_Cowen_2023_CE|Cowen, 2023, p.333]])。
 
 ---
 
@@ -55,14 +56,14 @@ updated: 2026-06-06
 
 > [!example]
 > - vs 求同存异 — 求同存异关注不同社会的相似与差异，并以历史或情境来解释。趋同理论认为不同社会正在趋向相似，关注趋同的过程和机制。
-> - vs 新制度主义（Neo-Institutionalism） — 新制度主义是趋同理论的当代形态，但趋同理论的历史更为悠久，包括 UNESCO 科学理想、[[International Education|国际教育]]局趋势识别、技术趋同理论和现代性理论等多个阶段。
+> - vs 新制度主义（Neo-Institutionalism） — 新制度主义是趋同理论的当代形态，但趋同理论的历史更为悠久，包括 [[UNESCO]] 科学理想、[[International Education|国际教育]]局趋势识别、技术趋同理论和现代性理论等多个阶段。
 
 ---
 
 ## 概念演变
 
 > [!note]-
-> **UNESCO 的科学理想（1950 年代）**。趋同理论早期可见于 UNESCO 名称中科学概念所承载的期望，即科学家基于证据工作，因此他们的辩论基于理性的声音，科学的民主可以克服政治偏见（Lauwerys 1957）([[Argument_Cowen_2023_CE|Cowen, 2023, p.333]])。
+> **[[UNESCO]] 的科学理想（1950 年代）**。趋同理论早期可见于 UNESCO 名称中科学概念所承载的期望，即科学家基于证据工作，因此他们的辩论基于理性的声音，科学的民主可以克服政治偏见（Lauwerys 1957）([[Argument_Cowen_2023_CE|Cowen, 2023, p.333]])。
 >
 > **[[International Education|国际教育]]局的趋势识别**。Pedro Rossello 在日内瓦国际教育局提出了在全球范围内识别教育趋势的理念，这一理念延续至至少 1980 年代（Cowen 1981; 1983）。
 >

@@ -10,7 +10,7 @@ aliases:
 summary: "主张科学研究应排除研究者主观价值偏见并保持程序中立的认识论规范；在启蒙发轫期曾被道德改良统摄，在韦伯与20世纪实证学派中被法典化为科学基石，而在批判理论与当代循证反思中被解构为服务于数字审计治理的权力意识形态。"
 type: concept
 domain: "educational-philosophy"
-related_count: 61
+related_count: 62
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -77,6 +77,7 @@ related_persons:
   - "[[Terry Wrigley]]"
   - "[[Gert Biesta]]"
 related_facts:
+  - "[[World Bank]]"
   - "[[Education Endowment Foundation]]"
   - "[[PISA]]"
 related_arguments:
@@ -90,7 +91,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-17
-updated: 2026-09-11
+updated: 2026-09-12
 ---
 
 # Value Neutrality
@@ -196,7 +197,7 @@ updated: 2026-09-11
 > **实证主义清洗运动将价值负荷视为前科学残余** 20 世纪 50 至 60 年代比较教育学实证[[Transitology|转型学]]者（Templeton, 1958; Noah & Eckstein, 1969; Anderson, 1977）指出，学科要获得合法的科学身份，首要前提是彻底根除由历史哲学先驱所培育的定性与“价值负荷”（Value-laden）特征；他们主张通过量化数据存储检索技术与数理统计分析，系统解决“偏见、倾向性乃至任意武断”的弊病，把跨国教育研究重塑为价值无涉的经验假说检验工程。[[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009, pp. 61, 65)]]
 
 > [!claim] [[Brian Holmes|Holmes, B.]]
-> **[[Operationalization|操作化]]指标的假中立与概念价值渗透** 针对实证主义阵营声称的价值中立，霍姆斯（Holmes, 1981）展开了深刻的方法论反思。他指出实证派在[[Variable|变量]]操作化之前严重缺乏概念分析，误以为能够提炼出毫无歧义的客观中立指标，却忽视了概念本身不可避免地浸润着特定的意识形态与价值体系；这种唯量化取向抽空了[[Michael Sadler|萨德勒]]所谓的“活的精神”，且其实际推行的科学规划深度迎合了战后中央集权理性规划与国际援助机构（如世界银行、AID）的技术官僚政治诉求。[[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009, pp. 64, 66–67)]]
+> **[[Operationalization|操作化]]指标的假中立与概念价值渗透** 针对实证主义阵营声称的价值中立，霍姆斯（Holmes, 1981）展开了深刻的方法论反思。他指出实证派在[[Variable|变量]]操作化之前严重缺乏概念分析，误以为能够提炼出毫无歧义的客观中立指标，却忽视了概念本身不可避免地浸润着特定的意识形态与价值体系；这种唯量化取向抽空了[[Michael Sadler|萨德勒]]所谓的“活的精神”，且其实际推行的科学规划深度迎合了战后中央集权理性规划与国际援助机构（如[[World Bank|世界银行]]、AID）的技术官僚政治诉求。[[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009, pp. 64, 66–67)]]
 
 > [!claim] Smith, M. L. & [[Gene Glass|Glass, G.]] V.
 > **价值立场作为区分研究与评估的核心边界** 价值处理方式是区分纯科学研究（Research）与实践项目评估（Evaluation）的根本标尺：研究的认识论旨趣在于探寻去情境的普适因果律，因而追求价值中立；而评估是为了具体的民主决策与制度改进，必须系统收集并如实呈现多方利益相关者冲突的价值立场。[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011, p. 34)]]

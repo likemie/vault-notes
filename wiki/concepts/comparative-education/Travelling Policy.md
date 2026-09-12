@@ -8,7 +8,7 @@ aliases:
 summary: "在比较教育与政策分析中，指代全球化背景下教育改革模型脱离原有社会脉络，通过国际组织和政策网络在跨国空间中多维循环，并在不同本土情境中被不断转译、重新合法化和变形的非线性流变过程。"
 type: concept
 domain: "comparative-education"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -41,7 +41,8 @@ related_methods:
   - "[[Snowball Sampling]]"
 related_persons:
   - "[[Gita Steiner-Khamsi]]"
-related_facts: []
+related_facts:
+  - "[[World Bank]]"
 related_arguments:
   - "[[Argument_Klerides_2023_CE]]"
   - "[[Argument_Beech_2009_CE]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-11
-updated: 2026-07-11
+updated: 2026-09-12
 ---
 
 # Travelling Policy
@@ -110,7 +111,7 @@ updated: 2026-07-11
 > 这一命题分析为何同一政策模型在不同国家呈现出完全相异的实践面貌。
 
 > [!claim] [[Gita Steiner-Khamsi|Steiner-Khamsi, G.]] et al.
-> **外生政策的本土政治工具化** 阐明，在全球流动中旅行的教育政策，被接收国吸收的动力往往不是出于技术优化，而是本土政治行动者将其用作“外在合法化”（externalisation）的借口，以压制国内反对意见或换取外部资金援助（如世界银行贷款）。政策一旦落地，便会经历深度的本地化“ Indigenisation ”，与其宣称的全球统一效果产生严重的“实施偏差”（implementation gaps），呈现出混杂（hybridity）的非预期形态。([[Argument_Beech_2009_CE|Beech, 2009]])
+> **外生政策的本土政治工具化** 阐明，在全球流动中旅行的教育政策，被接收国吸收的动力往往不是出于技术优化，而是本土政治行动者将其用作“外在合法化”（externalisation）的借口，以压制国内反对意见或换取外部资金援助（如[[World Bank|世界银行]]贷款）。政策一旦落地，便会经历深度的本地化“ Indigenisation ”，与其宣称的全球统一效果产生严重的“实施偏差”（implementation gaps），呈现出混杂（hybridity）的非预期形态。([[Argument_Beech_2009_CE|Beech, 2009]])
 
 ---
 

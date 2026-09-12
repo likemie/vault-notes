@@ -5,7 +5,7 @@ aliases:
 summary: "两次世界大战期间国际联盟知识合作组织推动的概念，指世界各国人民中间一种比民族主义心态更适合国际合作的普遍心态。在理性主义国际关系传统下，该概念通过跨国教科书去偏见化和客观学校知识构建，成为二战后UNESCO和欧洲比较教育学会（CESE）推进科学治理与和平承诺的认知基础。"
 type: concept
 domain: "comparative-education"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -31,13 +31,14 @@ related_methods: []
 related_persons:
   - "[[Joseph Lauwerys]]"
 related_facts:
+  - "[[UNESCO]]"
   - "[[Comparative Education Society in Europe]]"
 related_arguments:
   - "[[Argument_Klerides_2023_CE]]"
 confidence: medium
 status: draft
 created: 2026-06-08
-updated: 2026-07-09
+updated: 2026-09-12
 ---
 
 # International Mind
@@ -81,7 +82,7 @@ updated: 2026-07-09
 > [!feature] 国际心智的核心要素
 > - **教科书去偏见化与客观知识重构** 通过跨国比较分析，消除历史教科书中的隐瞒（omissions）、歪曲（distortions）和刻板印象（stereotypes），建构具有主体间客观性（inter-subjectively objective）的学校知识，从知识源头上剪除国家冲突的根源。
 > - **[[Rationalism in International Relations|理性主义]]人类改善论承诺** 坚信国际社会可以通过科学的制度建设和理性[[Dialogue in Education|对话]]得到渐进改善，将比较教育定位为服务于此种人类命运改良的中立、客观的科学工具。
-> - **超国家学术网络与多边建制** 依赖于多边机构（如早期国联、现代联合国教科文组织）提供的科学合作平台，通过学者的跨国机制化交流反馈并优化成员国的[[Democratic Education|民主教育]]体系。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 424]])
+> - **超国家学术网络与多边建制** 依赖于多边机构（如早期国联、现代[[UNESCO|联合国教科文组织]]）提供的科学合作平台，通过学者的跨国机制化交流反馈并优化成员国的[[Democratic Education|民主教育]]体系。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 424]])
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -120,7 +121,7 @@ updated: 2026-07-09
 > **“国际理解”作为比较教育的建制核心** 认为英国首个比较教育学系及后来的[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE）成立的底色，是学者将“国际理解”、“民主理想”与“科学人文主义”深度结合的信念，以此将和平主义承诺固化为学术规范。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 424]])
 
 > [!claim] 索尔·罗宾松的学术回流观（1970年代）
-> **多边学术交换对国内教育改革的反馈循环** 提出国际组织（如 UNESCO 教育研究所）所引导的学者跨国学术交流，能够形成一种超越国别的专业理性；这种“国际心智”的学术回流，将有力促进成员国内部学校制度的民主化与科学化重构。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 424]])
+> **多边学术交换对国内教育改革的反馈循环** 提出国际组织（如 [[UNESCO]] 教育研究所）所引导的学者跨国学术交流，能够形成一种超越国别的专业理性；这种“国际心智”的学术回流，将有力促进成员国内部学校制度的民主化与科学化重构。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 424]])
 
 ---
 
@@ -138,7 +139,7 @@ updated: 2026-07-09
 
 > [!dev-timeline] 概念演变
 > - **1920s–1930s — 起源与早期教科书互审运动** 国际联盟知识合作组织（ICIC/IIIC）成立，副主任 Zimmern 正式界定“国际心智”。北欧协会及美洲国家国际会议开展跨国历史教科书审查，确立“消除遗漏与刻板印象”以建构客观知识的实践模式。
-> - **1940s–1970s — UNESCO建制化与大学学科网络确立** 联合国教科文组织（UNESCO）继承该遗产，首位比较教育教授 [[Joseph Lauwerys]] 将其列为学科三大价值之首。伦敦大学IOE比较教育学系与[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE，1961年）相继成立，将“国际理解”全面固化为专业建制话语。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 424]])
+> - **1940s–1970s — [[UNESCO]]建制化与大学学科网络确立** 联合国教科文组织（UNESCO）继承该遗产，首位比较教育教授 [[Joseph Lauwerys]] 将其列为学科三大价值之首。伦敦大学IOE比较教育学系与[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE，1961年）相继成立，将“国际理解”全面固化为专业建制话语。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 424]])
 > - **1990s 至今 — [[Lifelong Learning|终身学习]]与[[Global Citizenship|全球公民]]教育（GCED）的融合** “国际心智”的内核与 UNESCO 的终身学习与全球公民教育倡议融合，继续作为[[Rationalism in International Relations|理性主义]]话语框架，在逆全球化与地缘紧张局势中发挥跨国人文主义沟通的作用。
 
 ---
@@ -161,4 +162,4 @@ updated: 2026-07-09
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Klerides_2023_CE|Klerides, 2023]] — 深入解析了 Wight 的[[Rationalism in International Relations|理性主义]]传统在比较教育史中的表现，将“国际心智”定位为战前国联以及战后早期 UNESCO 体系推进教育去民族主义化、实现学科建制化的核心[[Epistemology|认识论]]武器。
+> - [[Argument_Klerides_2023_CE|Klerides, 2023]] — 深入解析了 Wight 的[[Rationalism in International Relations|理性主义]]传统在比较教育史中的表现，将“国际心智”定位为战前国联以及战后早期 [[UNESCO]] 体系推进教育去民族主义化、实现学科建制化的核心[[Epistemology|认识论]]武器。

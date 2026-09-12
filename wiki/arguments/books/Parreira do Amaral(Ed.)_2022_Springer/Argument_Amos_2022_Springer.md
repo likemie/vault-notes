@@ -9,7 +9,7 @@ title: "Argument_Amos_2022_Springer"
 argument_key: "Argument_Amos_2022_Springer"
 argument_display_title: "Which Vision of Education for Late Modernity? In M"
 argument_kind: "book"
-argument_related_count: 47
+argument_related_count: 48
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#ede9fe"
@@ -72,6 +72,7 @@ related_facts:
   - "[[Grammar School]]"
   - "[[Sputnik Shock 1957]]"
   - "[[OECD]]"
+  - "[[UNESCO]]"
   - "[[Regional University Alliances]]"
   - "[[League of European Research Universities]]"
   - "[[Bologna Process]]"
@@ -165,7 +166,7 @@ citation_aliases:
 >
 > > 例：Google 的 Jaime Casap 被称为"教育布道者"（education evangelist），在全球平台上推广 Google 教育工具。他不仅仅是"卖产品"——他是在塑造一种信念：技术是教育问题的解决之道。当 Google Classroom 被免费提供给学校，谷歌获得的不是直接收入，而是下一代用户的数据和习惯——这就是"利润"逻辑的深层运作方式。(p.57)
 >
-> **(2) 正义与平等（Justice and Equality）** 这看起来令人意外——数字化怎么可能跟正义有关？但 UNESCO 的逻辑是这样的：虽然开发数字教材和格式的前期成本很高，但一旦开发完成，它们可以被几乎无限复制和适配（anytime, anywhere 原则）。对于缺乏实体校舍的地区，数字教育是唯一的选择。
+> **(2) 正义与平等（Justice and Equality）** 这看起来令人意外——数字化怎么可能跟正义有关？但 [[UNESCO]] 的逻辑是这样的：虽然开发数字教材和格式的前期成本很高，但一旦开发完成，它们可以被几乎无限复制和适配（anytime, anywhere 原则）。对于缺乏实体校舍的地区，数字教育是唯一的选择。
 >
 > > 例：撒哈拉以南非洲的偏远村庄可能没有合格的物理教师，但如果有一部能上网的手机，学生就能观看可汗学院或 Coursera 的物理课程。"Anytime, anywhere"在理想情况下是包容性的——不需要全日制在校，不需要固定时间表，对有工作、有家庭责任的学生尤其有益。但 Amos 紧接着指出，这个叙事的盲点是基础设施：没有稳定电力和网络，"anytime, anywhere"就是空话。
 >
@@ -286,7 +287,7 @@ citation_aliases:
 >
 > ### 数字化的三重不可逆驱动力
 >
-> 利润（Google/Apple/Microsoft 的教育部门、EdTech 股票市场、Coursera/Udacity）、正义平等叙事（UNESCO 的 anytime/anywhere 逻辑）、专业发展（[[Learning Analytics|学习分析]]、个性化学习）同时推动数字化。这三重逻辑相互强化，使"去数字化"日益不可能——即便认识到数字化的不平等效应(pp.56–58)。
+> 利润（Google/Apple/Microsoft 的教育部门、EdTech 股票市场、Coursera/Udacity）、正义平等叙事（[[UNESCO]] 的 anytime/anywhere 逻辑）、专业发展（[[Learning Analytics|学习分析]]、个性化学习）同时推动数字化。这三重逻辑相互强化，使"去数字化"日益不可能——即便认识到数字化的不平等效应(pp.56–58)。
 >
 > ### [[Transhumanism|超人类主义]]的根本困境
 >

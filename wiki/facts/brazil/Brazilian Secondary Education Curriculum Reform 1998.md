@@ -10,7 +10,7 @@ subtype: policy
 region: brazil
 fact_region: "brazil"
 fact_kind: "policy"
-fact_related_count: 9
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -33,12 +33,14 @@ related_methods:
 related_persons: []
 related_facts:
   - "[[OECD]]"
+  - "[[World Bank]]"
+  - "[[UNESCO]]"
 related_arguments:
   - "[[Argument_Beech_2009_CE]]"
 confidence: medium
 status: draft
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-09-12
 ---
 
 # Brazilian Secondary Education Curriculum Reform 1998
@@ -48,7 +50,7 @@ updated: 2026-06-09
 ## 背景
 
 > [!info]
-> 1990 年代，阿根廷、巴西和智利的中等教育课程改革在官方修辞上强烈批判传统的[[Encyclopaedism|百科全书主义]]（强调学生需记忆大量脱离语境的事实知识），转向以能力发展为导向的教育理念。这一转向呼应了[[OECD]]、世界银行和 UNESCO 等国际机构在全球层面倡导的能力话语。[[Argument_Beech_2009_CE|(Beech, 2009, p. 356)]]
+> 1990 年代，阿根廷、巴西和智利的中等教育课程改革在官方修辞上强烈批判传统的[[Encyclopaedism|百科全书主义]]（强调学生需记忆大量脱离语境的事实知识），转向以能力发展为导向的教育理念。这一转向呼应了[[OECD]]、[[World Bank|世界银行]]和 [[UNESCO]] 等国际机构在全球层面倡导的能力话语。[[Argument_Beech_2009_CE|(Beech, 2009, p. 356)]]
 
 巴西先前的教育形式被官方文件描述为去语境化、被切割为隔间、基于信息积累。改革的核心目标是将学校知识从碎片化的学科分类转向以跨学科能力为基础的整合框架。[[Argument_Beech_2009_CE|(Beech, 2009, p. 356)]]
 

@@ -6,7 +6,7 @@ aliases:
 summary: "把政策理解为承载特定因果机制叙事的分析概念，用于追问政策为何在不同情境中产生不同变化路径"
 type: concept
 domain: "educational-policy-reform"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -29,6 +29,7 @@ related_theories:
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[World Bank]]"
   - "[[OECD]]"
   - "[[UN Sustainable Development Goals]]"
   - "[[Innovation Union]]"
@@ -41,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-13
-updated: 2026-05-18
+updated: 2026-09-12
 ---
 
 # Theories of Policy Change
@@ -78,7 +79,7 @@ updated: 2026-05-18
 
 变革理论是对政策因果链的明确或隐含表述。在国际组织中，若干广为人知的变革理论深刻影响了教育政策([[Argument_Rambla_2022_Springer|Rambla, 2022, p.166]])：
 
-- 1980 年代世界银行：基于各级教育[[Return on Investment|投资回报]]率数据，要求负债国家将教育支出集中于初等教育
+- 1980 年代[[World Bank|世界银行]]：基于各级教育[[Return on Investment|投资回报]]率数据，要求负债国家将教育支出集中于初等教育
 - [[OECD]]：传播"投资研发→培养[[Creativity|创造力]]→高比例青年完成高等教育→经济增长"的良性循环叙事
 - 《全球教育报告》：提出[[UN Sustainable Development Goals|可持续发展目标]]之间相互关联的[[Hypothesis|假设]]，强调教育、创新、减贫、健康等目标间的互利关系
 

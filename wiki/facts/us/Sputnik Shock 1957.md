@@ -12,7 +12,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 26
+fact_related_count: 27
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#fef3c7"
@@ -47,6 +47,7 @@ related_facts:
   - "[[Comparative Education Center at Chicago 1958]]"
   - "[[1960 Bellagio Conference]]"
   - "[[Mediterranean Regional Project]]"
+  - "[[UNESCO]]"
   - "[[International Institute for Educational Planning]]"
   - "[[National Science Foundation]]"
   - "[[Centre for Educational Research and Innovation]]"
@@ -85,7 +86,7 @@ updated: 2026-09-12
 > [!dev-timeline]- 事件推进历程
 > - **1957–1958 — 危机爆发与国家安全动员期** 苏联人造卫星升空引发全美舆论海啸，媒体与政界齐声谴责公立学校忽视学术严格性；1958 年美国国会闪电通过《国防教育法》（National Defense Education Act，NDEA），联邦财政首次对数学、科学与外语教育进行大规模定向注资；同年芝加哥大学在卡耐基基金会资助下成立[[Comparative Education Center at Chicago 1958|芝加哥大学比较教育中心]]，将比较研究推向跨学科与量化轨道。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 421–423)]]
 > - **1959–1961 — 跨国扩散与“经济北约”重塑期** 斯普特尼克危机促使大西洋两岸将教育置于地缘竞争前沿；欧洲经济合作组织（OEEC）顺势自我重塑为“世界一流教育的先驱”，于 1961 年正式改组为[[OECD|经合组织]]（OECD），被史学界定性为旨在抗衡华约经济阵营的“经济北约”；经合组织投入巨额资源开展跨国教育统计，将[[Human Capital Theory|人力资本理论]]与控制论规划缝合，以应对苏联五年计划模式。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 540–541)]]
-> - **1961–1970 年代 — 全球教育规划与比较[[Paradigm|范式]]转型** 1960 年[[1960 Bellagio Conference|贝拉吉奥会议]]与 1961 年华盛顿经合组织政策会议推动各国确立“教育投资驱动增长”正统；经合组织启动地中海地区项目（[[Mediterranean Regional Project]]，MRP），联合国教科文组织设立[[International Institute for Educational Planning|国际教育规划研究所]]（International Institute for Educational Planning，IIEP），现代教育经济学与宏观人力预测模型在第三世界技术援助与全球政策中全面扎根。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
+> - **1961–1970 年代 — 全球教育规划与比较[[Paradigm|范式]]转型** 1960 年[[1960 Bellagio Conference|贝拉吉奥会议]]与 1961 年华盛顿经合组织政策会议推动各国确立“教育投资驱动增长”正统；经合组织启动地中海地区项目（[[Mediterranean Regional Project]]，MRP），[[UNESCO|联合国教科文组织]]设立[[International Institute for Educational Planning|国际教育规划研究所]]（International Institute for Educational Planning，IIEP），现代教育经济学与宏观人力预测模型在第三世界技术援助与全球政策中全面扎根。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
 
 ---
 

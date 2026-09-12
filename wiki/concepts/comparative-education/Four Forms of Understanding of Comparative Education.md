@@ -6,7 +6,7 @@ aliases:
 summary: "Cowen（2023）诊断比较教育学科长期并存的四种理解形式，包括求同存异、趋同理论、政策科学和结果导向，指出它们各自的政治预设"
 type: concept
 domain: "comparative-education"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -34,6 +34,7 @@ related_persons:
   - "[[Nicholas Hans]]"
   - "[[Brian Holmes]]"
 related_facts:
+  - "[[UNESCO]]"
   - "[[IEA]]"
   - "[[PISA]]"
 related_arguments:
@@ -41,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: 2026-06-06
+updated: 2026-09-12
 ---
 
 # Four Forms of Understanding of Comparative Education
@@ -76,7 +77,7 @@ updated: 2026-06-06
 > [!info]
 > 认为不同社会的教育系统正在趋向相似。这一理解形式经历了多个阶段([[Argument_Cowen_2023_CE|Cowen, 2023, p.333]])：
 >
-> - **UNESCO 的科学理想（1950 年代）**。Lauwerys (1957) 认为科学家基于证据辩论，科学的民主可以克服政治偏见。
+> - **[[UNESCO]] 的科学理想（1950 年代）**。Lauwerys (1957) 认为科学家基于证据辩论，科学的民主可以克服政治偏见。
 > - **[[International Education|国际教育]]局的趋势识别**。Pedro Rossello 在日内瓦国际教育局提出识别全球教育趋势的理念，延续至 1980 年代。
 > - **技术趋同理论（1960 年代）**。工业国家因发展相似的复杂生产系统而趋同（Halsey, Floud, and Anderson 1965）。
 > - **现代性理论**。Alex Inkeles 的模式[[Variable|变量]]（pattern variables）等理论。

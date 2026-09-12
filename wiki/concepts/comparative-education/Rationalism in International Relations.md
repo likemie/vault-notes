@@ -9,7 +9,7 @@ aliases:
 summary: "Martin Wight 国际关系三大传统之一（对应 Grotius 思想），视国际社会为通过多边合作与规则缓和无政府冲突的“存在制度缺陷的社会”，以“权威”为核心概念。在比较教育中，它将学科塑造成促进国际理解与远处治理规范趋同的“理性事业”。"
 type: concept
 domain: "comparative-education"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -51,13 +51,14 @@ related_persons:
 related_facts:
   - "[[OECD]]"
   - "[[Comparative Education Society in Europe]]"
+  - "[[UNESCO]]"
   - "[[PISA]]"
 related_arguments:
   - "[[Argument_Klerides_2023_CE]]"
 confidence: high
 status: active
 created: 2026-07-09
-updated: 2026-07-11
+updated: 2026-09-12
 ---
 
 # Rationalism in International Relations
@@ -122,7 +123,7 @@ updated: 2026-07-11
 > 这一命题分析早期理性主义如何通过跨国合作制度化。
 
 > [!claim] [[Joseph Lauwerys|Lauwerys, J.]] et al.
-> **国际联盟 IIIC 与欧洲比较教育学社（[[Comparative Education Society in Europe|CESE]]）的和平理性实践** 阐明，在理性主义框架下，比较教育承载着消除民族主义狭隘性的 Pacifist 承诺。两战期间，国际思想合作组织（IIIC，国联下属机构）召集跨国比较，致力于清除学校历史教科书中的偏见与盲区，以构建跨主观客观的学校知识，塑造 Zimmern 提出的“[[International Mind|国际心智]]”；二战后，这一实践在 UNESCO 科学人道主义倡议下延续。Joseph Lauwerys（英国首位比较教育教授）与 Saul Robinsohn（UNESCO 教育研究所所长）紧密协作，于 1961 年建立 CESE 学会，旨在通过欧洲教育的跨国学术交换与技术探讨，实现民主化与人类福利的理性增长。([[Argument_Klerides, 2023, pp. 423–424]])
+> **国际联盟 IIIC 与欧洲比较教育学社（[[Comparative Education Society in Europe|CESE]]）的和平理性实践** 阐明，在理性主义框架下，比较教育承载着消除民族主义狭隘性的 Pacifist 承诺。两战期间，国际思想合作组织（IIIC，国联下属机构）召集跨国比较，致力于清除学校历史教科书中的偏见与盲区，以构建跨主观客观的学校知识，塑造 Zimmern 提出的“[[International Mind|国际心智]]”；二战后，这一实践在 [[UNESCO]] 科学人道主义倡议下延续。Joseph Lauwerys（英国首位比较教育教授）与 Saul Robinsohn（UNESCO 教育研究所所长）紧密协作，于 1961 年建立 CESE 学会，旨在通过欧洲教育的跨国学术交换与技术探讨，实现民主化与人类福利的理性增长。([[Argument_Klerides, 2023, pp. 423–424]])
 
 ### 命题二　新自由主义全球化下，比较教育转化为由大数据基准驱动的“远处治理”中介
 
@@ -138,7 +139,7 @@ updated: 2026-07-11
 
 > [!dev-timeline] 发展脉络
 > - **1920s–1940s — 国联智力合作与教科书改革** IIIC 开启跨国教科书修编，旨在破除极端国家性格，培育具有合作精神的“[[International Mind|国际心智]]”。(引自 [[Argument_Klerides, 2023, pp. 423–424]])
-> - **1950s–1970s — UNESCO 科学人道主义与 [[Comparative Education Society in Europe|CESE]] 成立** 随着 Lauwerys 等人的推动，理性主义以国际大学建制和欧洲学术交换为载体，在冷战对峙缝隙中搭建制度化合作桥梁。(引自 [[Argument_Klerides, 2023, p. 424]])
+> - **1950s–1970s — [[UNESCO]] 科学人道主义与 [[Comparative Education Society in Europe|CESE]] 成立** 随着 Lauwerys 等人的推动，理性主义以国际大学建制和欧洲学术交换为载体，在冷战对峙缝隙中搭建制度化合作桥梁。(引自 [[Argument_Klerides, 2023, p. 424]])
 > - **2000s 至今 — 新自由主义软治理与数据流变** [[PISA]] 基准测试全面崛起，比较教育演变为“[[Governing at a Distance|远处治理]]模式”；[[Actor-Network Theory|ANT]] 理论被引入解析[[Policy Entrepreneur|政策企业家]]与 [[Travelling Policy|travelling policies]] 的网格化交互。(引自 [[Argument_Klerides, 2023, pp. 424–425]])
 
 ---

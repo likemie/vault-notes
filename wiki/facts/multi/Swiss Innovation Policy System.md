@@ -10,9 +10,9 @@ subtype: policy
 region: multi
 fact_region: "multi"
 fact_kind: "policy"
-fact_related_count: 4
+fact_related_count: 5
 fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_stars: ""
 fact_related_color: "#dbeafe"
 issuing_organization: "Swiss Federal Government"
 tags:
@@ -27,12 +27,13 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[World Bank]]"
 related_arguments: []
 confidence: medium
 status: draft
 created: 2026-06-05
-updated: 2026-06-05
+updated: 2026-09-12
 ---
 
 # Swiss Innovation Policy System
@@ -60,7 +61,7 @@ updated: 2026-06-05
 > - **《联邦税制及社保财政改革法》** 确立面向所有企业的普惠性税收优惠制度，各州须建立"专利盒"制度，对研发投入及形成的专利和知识产权给予较大幅度税收减免
 > - **《债务执行破产法》** 优化外资企业破产重组流程，降低程序成本
 > - **国际开放** 作为WTO和欧洲自由贸易联盟成员，提供宽松市场准入。2022年吸引约19.05万名来自德法等国的高素质人才
-> - **营商环境** 世界银行《2020年营商环境报告》中位列190个经济体第36名。谷歌、苹果等科技巨头在瑞士设立AI研究中心
+> - **营商环境** [[World Bank|世界银行]]《2020年营商环境报告》中位列190个经济体第36名。谷歌、苹果等科技巨头在瑞士设立AI研究中心
 
 ---
 

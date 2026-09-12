@@ -19392,6 +19392,26 @@
     ]
   },
   {
+    "title": "UNESCO",
+    "type": "fact",
+    "path": "wiki/facts/global/UNESCO.md",
+    "aliases": [
+      "联合国教科文组织",
+      "教科文组织",
+      "United Nations Educational, Scientific and Cultural Organization"
+    ]
+  },
+  {
+    "title": "UNICEF",
+    "type": "fact",
+    "path": "wiki/facts/global/UNICEF.md",
+    "aliases": [
+      "联合国儿童基金会",
+      "儿童基金会",
+      "United Nations Children's Fund"
+    ]
+  },
+  {
     "title": "United World Colleges",
     "type": "fact",
     "path": "wiki/facts/global/United World Colleges.md",
@@ -19407,6 +19427,17 @@
     "aliases": [
       "UIIN",
       "大学产业创新网络"
+    ]
+  },
+  {
+    "title": "World Bank",
+    "type": "fact",
+    "path": "wiki/facts/global/World Bank.md",
+    "aliases": [
+      "世界银行",
+      "World Bank Group",
+      "世行",
+      "国际复兴开发银行"
     ]
   },
   {

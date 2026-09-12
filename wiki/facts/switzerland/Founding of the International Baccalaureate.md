@@ -9,7 +9,7 @@ subtype: event
 region: switzerland
 fact_region: "switzerland"
 fact_kind: "event"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -38,6 +38,7 @@ related_facts:
   - "[[International Schools Association]]"
   - "[[International Schools Examination Syndicate]]"
   - "[[International School of Geneva]]"
+  - "[[UNESCO]]"
   - "[[Founding of Atlantic College]]"
   - "[[1967 Sevres International Conference on the IB]]"
 related_arguments:
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-08-17
+updated: 2026-09-12
 ---
 
 # Founding of the International Baccalaureate
@@ -80,7 +81,7 @@ updated: 2026-08-17
 > |:---|:---|:---|:---|
 > | 保罗·迈霍弗（Paul Meyhoffer） | 思想先驱 | 1925 年向 17 位欧洲教育改革者发出[[Questionnaire\|问卷]]，提出 *maturité internationale*。 | 没有收到可查证的回复，也未建立课程、考试或组织，属于前史而非直接制度创立。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, p. 15)]] |
 > | 德斯蒙德·科尔-贝克（Desmond Cole-Baker） | 校内发动者 | 1961 年出任[[International School of Geneva\|日内瓦国际学校]]英语部主任后，把长期设想转为教师协作和机构行动。 | 主要作用是组织和启动；后续课程、考试与治理由多人共同完成。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, p. 17)]] |
-> | [[Bob Leach\|鲍勃·利奇（Bob Leach）]] | 草根倡议者 | 组织 1962 年日内瓦会议，明确讨论“International Baccalaureate”，并取得 UNESCO 2,500 美元资助；以社会研究课程为切入口建立跨校教师网络。 | 他自称“original promoter”，彼得森同时提醒他只是众多推动者之一，不能据此视为唯一创始人。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, pp. 17–18)]] |
+> | [[Bob Leach\|鲍勃·利奇（Bob Leach）]] | 草根倡议者 | 组织 1962 年日内瓦会议，明确讨论“International Baccalaureate”，并取得 [[UNESCO]] 2,500 美元资助；以社会研究课程为切入口建立跨校教师网络。 | 他自称“original promoter”，彼得森同时提醒他只是众多推动者之一，不能据此视为唯一创始人。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, pp. 17–18)]] |
 > | [[Gerard Renaud\|杰拉德·雷诺（Gerard Renaud）]] | 课程总架构者 | 与范·斯梅沃德提出六学科组折中；协商把法国必修哲学转化为全体学生共同修读的知识论，连接课程广度、选择和[[Reflexivity\|反思性]]共同核心。 | 他的贡献集中于课程架构；法律组织、融资、考试实施及资格承认并非由他单独完成。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, pp. 28–30)]] |
 > | 安德烈·范·斯梅沃德（André van Smeevoorde） | 课程与考试设计者 | 与雷诺形成六学科组方案，随后担任语言科首任主考官，帮助法英课程传统进入共同考试结构。 | 是关键共同设计者，但不是整个项目的行政负责人。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, pp. 28–30)]] |
 > | [[John Goormaghtigh\|约翰·戈尔马蒂赫（John Goormaghtigh）]] | 组织奠基者 | 借助卡内基国际和平基金会欧洲中心的法律与国际网络，长期领导 [[International Schools Examination Syndicate\|ISES]]／IBO 理事会，使项目获得独立治理和连续性。 | 主要贡献在制度治理与国际协调，而不是原创课程方案。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, pp. 18–20)]] |
@@ -98,7 +99,7 @@ updated: 2026-08-17
 >
 > - **1948–1955 — 战后需求使旧设想重新出现** 1948 年，国际意识学校会议要求日内瓦国际学校恢复倡议；1951 年成立的[[International Schools Association|国际学校协会]]（International Schools Association，ISA）为不断增加的国际学校协调共同问题；1955 年，欧洲共同体学校创办者范·豪特再次向 ISA 呼吁建立国际文凭。大学入学竞争加剧，使学生必须精确准备某一国家的课程与考试，国际共同资格由理想议题转为现实需要。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, pp. 15–17)]]
 >
-> - **1961–1962 — 日内瓦教师把倡议转为课程项目** 德斯蒙德·科尔-贝克（Desmond Cole-Baker）于 1961 年出任日内瓦国际学校英语部主任后，组织教师和日内瓦国际机构成员推进项目。1962 年，[[Bob Leach|鲍勃·利奇]]（Bob Leach）领导社会研究教师召开小型会议，正式使用“International Baccalaureate”名称，并以联合国教科文组织 2,500 美元资助讨论适合国际文凭的社会研究课程。联合国教科文组织后来四笔小额资助合计 10,000 美元，只足以维持教师会议，无法支持办公室和持续开发。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, pp. 17–18)]]
+> - **1961–1962 — 日内瓦教师把倡议转为课程项目** 德斯蒙德·科尔-贝克（Desmond Cole-Baker）于 1961 年出任日内瓦国际学校英语部主任后，组织教师和日内瓦国际机构成员推进项目。1962 年，[[Bob Leach|鲍勃·利奇]]（Bob Leach）领导社会研究教师召开小型会议，正式使用“International Baccalaureate”名称，并以[[UNESCO|联合国教科文组织]] 2,500 美元资助讨论适合国际文凭的社会研究课程。联合国教科文组织后来四笔小额资助合计 10,000 美元，只足以维持教师会议，无法支持办公室和持续开发。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, pp. 17–18)]]
 >
 > - **1964 — 从教师网络走向独立考试组织** ISA 的多数成员聚焦小学和初中，日内瓦国际学校本身又面临财政困难及英法两部无法合并的问题。1964 年 ISA 年会决定建立独立的[[International Schools Examination Syndicate|国际学校考试辛迪加]]（International Schools Examination Syndicate，ISES），自同年 6 月非正式运作。8 月，二十世纪基金提供 75,000 美元，资助国际大学入学考试可行性研究、办公室、执行秘书和国际学校访问，项目首次拥有连续开发条件。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, pp. 18–21)]]
 >
@@ -149,7 +150,7 @@ updated: 2026-08-17
 > | [[Theory of Knowledge]] | 概念 | 源于法国必修哲学要求与国际课程共同核心之间的折中。 |
 > | [[Founding of Atlantic College]] | 事件 | 大西洋学院的课程实验与跨国升学困难提供了 IB 的制度前史和首批试验学校之一。 |
 > | [[Alec Peterson]] | 人物 | 连接大西洋学院、牛津课程研究、国际筹资与 IBO 全职领导。 |
-> | [[Bob Leach]] | 人物 | 发动 1962 年课程会议、推动 IB 命名并取得首笔 UNESCO 资助。 |
+> | [[Bob Leach]] | 人物 | 发动 1962 年课程会议、推动 IB 命名并取得首笔 [[UNESCO]] 资助。 |
 > | [[Gerard Renaud]] | 人物 | 设计六学科组结构，并推动知识论成为共同核心。 |
 > | [[John Goormaghtigh]] | 人物 | 为 [[International Schools Examination Syndicate\|ISES]]／IBO 建立长期的国际治理与组织连续性。 |
 > | [[International Schools Examination Syndicate]] | 组织 | 把日内瓦教师网络转化为具有法律身份、资金管理与考试开发能力的治理主体。 |

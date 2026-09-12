@@ -10,7 +10,7 @@ title: "Argument_Peterson_1987_OpenCourt_Ch02"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch02"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch02"
 argument_kind: "book-chapter"
-argument_related_count: 31
+argument_related_count: 32
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -62,6 +62,7 @@ related_facts:
   - "[[International Schools Examination Syndicate]]"
   - "[[International School of Geneva]]"
   - "[[International Schools Association]]"
+  - "[[UNESCO]]"
   - "[[Oxford Council of Europe Studies in Curriculum and Examinations]]"
   - "[[OECD]]"
 related_arguments:
@@ -165,7 +166,7 @@ updated: 2026-08-17
 ### 教师从学科难题重新发动倡议（1948–1962）
 
 > [!claim] 教师把反复出现的学科难题转化为国际共同课程倡议
-> 1948 年和 1955 年的呼吁使国际毕业会考重新进入组织议程，却没有自动产生课程、经费或执行团队。1961 年后，日内瓦国际学校教师开始从每天面对的历史叙事、语言翻译和多轨备考问题组织合作。德斯蒙德·科尔-贝克（Desmond Cole-Baker）提供校内领导，[[Bob Leach|鲍勃·利奇]]（Bob Leach）把社会研究难题连接到国际学校协会与联合国教科文组织项目。资格倡议由此获得具体学科入口、教师工作组、会议名称和首笔经费（pp. 17–18）。
+> 1948 年和 1955 年的呼吁使国际毕业会考重新进入组织议程，却没有自动产生课程、经费或执行团队。1961 年后，日内瓦国际学校教师开始从每天面对的历史叙事、语言翻译和多轨备考问题组织合作。德斯蒙德·科尔-贝克（Desmond Cole-Baker）提供校内领导，[[Bob Leach|鲍勃·利奇]]（Bob Leach）把社会研究难题连接到国际学校协会与[[UNESCO|联合国教科文组织]]项目。资格倡议由此获得具体学科入口、教师工作组、会议名称和首笔经费（pp. 17–18）。
 
 > [!timeline] 从恢复倡议到第一次课程会议
 > - **1948：国际意识学校会议要求 Ecolint 重启倡议** 这一松散会议与 1925 年问卷收件人网络相似，能够表达共同愿望，却没有形成持续开发课程和考试的执行机构。

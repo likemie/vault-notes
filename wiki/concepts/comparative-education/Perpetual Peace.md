@@ -9,10 +9,10 @@ aliases:
 summary: "源自康德哲学与[[Enlightenment|启蒙国际主义]]的规范性政治与教育构想，主张通过普遍理性觉醒、共和立宪法权与跨国制度协作消除野蛮战争状态，构建人类永久和平共同体，构成现代比较教育与国际教育的奠基性伦理动因"
 type: concept
 domain: "comparative-education"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - theme/comparative-education
   - theme/international-education
@@ -52,6 +52,7 @@ related_persons:
   - "[[Jean-Jacques Rousseau]]"
 related_facts:
   - "[[Revue encyclopédique]]"
+  - "[[UNESCO]]"
   - "[[Esquisse d'un ouvrage sur l'éducation comparée]]"
 related_arguments:
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-06
+updated: 2026-09-12
 ---
 
 # Perpetual Peace
@@ -184,7 +185,7 @@ updated: 2026-09-06
 > [!dev-timeline] 概念演变
 > - **1795 — [[Immanuel Kant|康德]]确立先验哲学法权框架** 发表《论永久和平》，系统确立以共和宪政为预设、以自由国家联盟为组织、以世界公民普遍款待权为纽带的三大先决条件。
 > - **1817–1833 — [[Marc-Antoine Jullien|朱利安]]开创比较教育实践化进路** 朱利安将康德启蒙理性与世界和平追求转化为具体的教育操作工程：提出常设特别教育委员会与比较观察表，创办《[[Revue encyclopédique|百科评论]]》，加入伦敦和平之友协会，呼吁以“比较文明学”推进世界永久和平。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 22–24)]]
-> - **1925–1945 — 两次世界大战创伤与国际组织实体化** 国际联盟日内瓦[[International Education|国际教育]]局（IBE, 1925）与联合国教科文组织（UNESCO, 1945）相继诞生；《联合国教科文组织宪章》庄严宣告“战争起源于人之思想，故务需于人之思想中筑起保卫和平之屏障”，使朱利安与康德的永久和平蓝图正式转化为战后国际教育治理的实体架构。
+> - **1925–1945 — 两次世界大战创伤与国际组织实体化** 国际联盟日内瓦[[International Education|国际教育]]局（IBE, 1925）与[[UNESCO|联合国教科文组织]]（UNESCO, 1945）相继诞生；《联合国教科文组织宪章》庄严宣告“战争起源于人之思想，故务需于人之思想中筑起保卫和平之屏障”，使朱利安与康德的永久和平蓝图正式转化为战后国际教育治理的实体架构。
 > - **20世纪后期至今 — 批判比较教育与正义和平学拓展** 学术界深化了对消极和平与积极和平的区分；批判比较教育学者（如[[Dependency Theory|依附论]]与去殖民学派）承继康德[[Revolutionism|革命主义]]传统，致力于揭露全球资本与地缘不平等结构，开辟通往实质正义和平的多元教育实践。[[Argument_Klerides_2023_CE|Klerides (2023, pp. 426–429)]]
 
 ---

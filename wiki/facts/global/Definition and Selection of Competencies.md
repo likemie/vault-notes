@@ -11,7 +11,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 25
+fact_related_count: 26
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -54,6 +54,7 @@ related_facts:
   - "[[OECD]]"
   - "[[Centre for Educational Research and Innovation]]"
   - "[[PISA]]"
+  - "[[World Bank]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
 confidence: high
@@ -136,7 +137,7 @@ updated: 2026-09-12
 
 > [!stat-cards]- 关键实证数据
 > - **3 大能力范畴与 9 项具体素养** 构成全球核心素养分类体系的核心标准。
-> - **30+ 个国家与跨国组织采纳** 成为欧盟、世界银行及 30 余个成员国推进能力本位改革（Competency-Based Education）的基准蓝本。
+> - **30+ 个国家与跨国组织采纳** 成为欧盟、[[World Bank|世界银行]]及 30 余个成员国推进能力本位改革（Competency-Based Education）的基准蓝本。
 > - **90.9% 的法令引文垄断率** 在挪威教育部能力课程改革实证中，官方行政法令最终引用的 22 篇参考[[Document|文献]]中，高达 **20 篇**全部来自专门审议 OECD DeSeCo 项目的委员会，引文垄断率超过九成，其影响力远超一切国内外大学学者与学术明星。（Steiner-Khamsi et al., 2024, p. 548）
 
 ---

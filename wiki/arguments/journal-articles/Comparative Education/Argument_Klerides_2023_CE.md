@@ -9,7 +9,7 @@ title: "Argument_Klerides_2023_CE"
 argument_key: "Argument_Klerides_2023_CE"
 argument_display_title: "Comparative education and international relations"
 argument_kind: "journal-article"
-argument_related_count: 57
+argument_related_count: 59
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -79,7 +79,9 @@ related_persons:
 related_facts:
   - "[[Comparative and International Education Society]]"
   - "[[OECD]]"
+  - "[[UNESCO]]"
   - "[[International Institute for Educational Planning]]"
+  - "[[World Bank]]"
   - "[[Common School Movement]]"
   - "[[Comparative Education Society in Europe]]"
   - "[[PISA]]"
@@ -202,8 +204,8 @@ citation_aliases:
 >   - 1950s 起 西德与东德建立专门的比较教育研究机构，分别将学科[[Research Translation|研究转化]]为揭露对手“极权主义特征”或“资本主义阶级不平等”的政治工具(Waterkamp, 2008; Steiner-Khamsi, 2006)。
 > - **1960s–1970s — 战后霸权争夺下的[[Development Turn in Comparative Education|发展转向]]** 美苏争夺第三世界新独立国家的忠诚，大量研究资金被导向发展中国家区域研究，通过将“落后地区”诊断为“滞后”来正当化西方的干预和技术顾问输出，并促使美国比较教育学会在名称中加入“国际”一词，更名为“[[Comparative and International Education Society|比较与国际教育学会]]”。
 >   - 1961年 [[OECD|经合组织]]（OECD）成立，系统将教育规划纳入经济增长议程(Elfert, 2017)。
->   - 1963年 联合国教科文组织成立[[International Education|国际教育]]规划研究所（[[International Institute for Educational Planning|IIEP]]），由前美国助理国务卿库姆斯领导，将教育经济学与[[Human Capital Theory|人力资本]]投资在全球推广，芝加哥大学 Anderson 的比较教育中心在融合比较教育与教育经济学中发挥了关键作用。
-> - **1990s 至今 — 新自由主义全球化的延续** 苏联解体后，“发展[[Paradigm|范式]]”演变为新自由主义的“最佳实践”输出话语，世界银行、OECD 等国际组织通过输出“高效教育系统”的标准模型，维持后福特主义的资本积累和以美国为核心的全球资本主义权力网络(p. 422)。
+>   - 1963年 [[UNESCO|联合国教科文组织]]成立[[International Education|国际教育]]规划研究所（[[International Institute for Educational Planning|IIEP]]），由前美国助理国务卿库姆斯领导，将教育经济学与[[Human Capital Theory|人力资本]]投资在全球推广，芝加哥大学 Anderson 的比较教育中心在融合比较教育与教育经济学中发挥了关键作用。
+> - **1990s 至今 — 新自由主义全球化的延续** 苏联解体后，“发展[[Paradigm|范式]]”演变为新自由主义的“最佳实践”输出话语，[[World Bank|世界银行]]、OECD 等国际组织通过输出“高效教育系统”的标准模型，维持后福特主义的资本积累和以美国为核心的全球资本主义权力网络(p. 422)。
 > - **2000s 至今 — 解释学与转移研究的权力制约** 考恩等学者深化了转移、[[Transfer Translation Transformation|转译]]与转化的解释学框架([[Argument_Cowen_2009_CE|Cowen, 2009b]])，但“适应教育”模型从美国南方黑人学校流向非洲再到太平洋殖民地的跨国流动轨迹表明，思想的转移流向依然受到全球地缘权力等级链条的严格支配。
 
 > [!evidence-grid-a] 在场（Presences）
