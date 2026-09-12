@@ -10,10 +10,10 @@ aliases:
 summary: "产生、评估并在政策制定者、教育实践者与公众之间传播研究成果的制度化实体与中介网络，呈现出部委依附、政府资助自治与独立慈善三种治理模式，以及因果实证（RCT）与多元综合两种方法学立场；在两至三年的政治预算周期下面临突出的存续危机与跨机构元中介需求。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 46
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 52
+related_level: 5
+related_stars: "⭐⭐⭐⭐⭐"
+related_color: "#fecdd3"
 tags:
   - theme/knowledge-brokerage
   - theme/evidence-informed-policy
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Cumulative Knowledge Base]]"
   - "[[Network Governance]]"
+  - "[[Evidence Backlash]]"
   - "[[Epistemology]]"
   - "[[Evidence-Informed Decision-Making]]"
   - "[[School Leadership]]"
@@ -66,6 +67,7 @@ related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[Education Reform Initiative]]"
   - "[[Kennisrotonde]]"
+  - "[[Research Schools Network]]"
   - "[[Education Media Centre]]"
   - "[[What Works Clearinghouse]]"
   - "[[EPPI-Centre]]"
@@ -125,7 +127,7 @@ updated: 2026-09-13
 
 > [!feature] 核心要素
 > - **与政府部委的治理依附关系（Relationship with the Ministry）** 决定机构自主权与政策影响力的首要制度维度，呈现三类典型光谱：部委嵌入型（如新西兰 [[Best Evidence Synthesis|BES]]、荷兰 [[Kenniskamer]]，完全依附部委目标与预算）、政府资助自治型（如[[National Institute for Educational Policy Research|日本国立教育政策研究所]] NIER、挪威知识中心、瑞士 [[Swiss Coordination Centre for Research in Education|SKBF]]，由政府设立并提供经常性预算，但保持学术与运营独立）以及独立慈善／基金会型（如英国 [[Education Endowment Foundation|EEF]]、土耳其 [[Education Reform Initiative|ERG]]，由慈善基金会或社会资本出资成立，拥有完全独立的治理架构）（[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 61–62]]）。
-> - **目标受众与服务形态分化（Target Audience）** 从早期单一服务于中央部委高层政策咨询，演进为涵盖政策、实践与公众媒体的多维辐射体系。政策端侧重快速综述（Rapid Reviews）与[[Data Literacy|数据素养]]培训；实践端侧重开发通俗易懂的母语知识门户（如荷兰 NRO [[Kennisrotonde|知识环岛]] Kennisrotonde）与实体学校研究网络（如 EEF 研究学校网络）；媒体端设立专门证据沟通中心（如英国 [[Education Media Centre]]）反制虚假陈述（[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 62–63]]）。
+> - **目标受众与服务形态分化（Target Audience）** 从早期单一服务于中央部委高层政策咨询，演进为涵盖政策、实践与公众媒体的多维辐射体系。政策端侧重快速综述（Rapid Reviews）与[[Data Literacy|数据素养]]培训；实践端侧重开发通俗易懂的母语知识门户（如荷兰 NRO [[Kennisrotonde|知识环岛]] Kennisrotonde）与实体学校研究网络（如 EEF [[Research Schools Network|研究学校网络]]）；媒体端设立专门证据沟通中心（如英国 [[Education Media Centre]]）反制虚假陈述（[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 62–63]]）。
 > - **质量保障规程与方法学阵营（Methodologies and Standards）** 围绕“何为合规有效证据”形成两大方法论取向：一是以美国 [[What Works Clearinghouse|WWC]]、英国 [[Education Endowment Foundation|EEF]] 和 坎贝尔协作网 为代表的[[Randomised Controlled Trials|随机对照试验]]（RCT）黄金标准派，侧重可复制干预措施的因果效应评估与成本核算；二是以英国 [[EPPI-Centre]]、挪威知识中心和瑞典教育法为代表的多元方法论派，坚持质性与量化证据的系统综合，并赋予教师[[Phronesis|实践智慧]]与学术研究平等的本体地位（[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 63–64]]）。
 > - **[[Epistemic Governance|知识治理]]的三维流程（Knowledge Governance Dimensions）** 中介机构系统覆盖三大环节：[[Knowledge Production|知识生产]]（引导专项课题基金、设定绩效目标与政策试验）、[[Knowledge Mediation|知识中介]]与传播（人员跨部门兼聘流动、专业素养培训与跨组织共享）以及[[Research Utilization|知识利用]]（将特定循证策略嵌入学校考核或与财政拨款挂钩）（[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 61]]）。
 
@@ -217,7 +219,7 @@ updated: 2026-09-13
 > [!dev-timeline] 概念演变
 > - **2000–2007 — 政策导向与早期制度化试点** 伴随[[OECD|经合组织]]《教育中的证据：连接研究与政策》（OECD, 2007）发布，美、英、新西兰、丹麦、荷兰等多国建立早期教育中介机构（如 [[What Works Clearinghouse|WWC]]、[[EPPI-Centre]]、[[Best Evidence Synthesis|NZ BES]]、[[Danish Clearinghouse for Educational Research|Danish Clearinghouse]]、[[Kenniskamer]]），工作重心几乎完全聚焦于中央政策制定与高层宏观决策咨询（[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 56–58, 64]]）。
 > - **2010–2015 — 实践转向与规模化工具包普及** 欧洲 EIPEE 项目扩展为纳入实践维度的 EIPPEE 网络（2011）；英国斥巨资设立 [[Education Endowment Foundation|EEF]]（2011）并发布直面教师与校领导的《教学与学习工具包》（Teaching and Learning Toolkit）；[[Knowledge Mediation|知识中介]]服务重心全面由政策端向学校课堂与教师实践端大范围倾斜（[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 57–58]]）。
-> - **2016–2022 — 复杂系统治理、后真相挑战与元中介协作** 社交媒体时代算法信息茧房、对专业知识的不信任与后真相（Post-truth）语境带来“证据反弹”（Evidence Backlash）；澳大利亚 [[Australian Education Research Organisation|AERO]] 等新一代机构相继成立；学者反思过度偏向实践导致政策责任缺位，强调重塑政策-实践双向循环，并在循证医学镜鉴下提出“中介的中介”（Brokering the Brokers）系统化治理构想（[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 58–60, 66–69]]）。
+> - **2016–2022 — 复杂系统治理、后真相挑战与元中介协作** 社交媒体时代算法信息茧房、对专业知识的不信任与后真相（Post-truth）语境带来“[[Evidence Backlash|证据反弹]]”（Evidence Backlash）；澳大利亚 [[Australian Education Research Organisation|AERO]] 等新一代机构相继成立；学者反思过度偏向实践导致政策责任缺位，强调重塑政策-实践双向循环，并在循证医学镜鉴下提出“中介的中介”（Brokering the Brokers）系统化治理构想（[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 58–60, 66–69]]）。
 
 ---
 
@@ -259,7 +261,7 @@ updated: 2026-09-13
 > | 同上 | [[Canadian Council on Learning\|Canadian Council on Learning (CCL)]], 加拿大 | 联邦政府设立并拨款的独立法人机构 | 联邦与省教育部、学校实践者 | 跨省[[Lifelong Learning\|终身学习]]与教育研究综合监控 | 已关停（Closed） | 联邦与省际政治博弈及联邦保守党政府终止资助，非因绩效评估不达标（p. 64） |
 > | 同上 | [[Danish Clearinghouse for Educational Research\|Danish Clearinghouse]], 丹麦奥胡斯大学 | 大学下设国家级[[Educational Evidence Clearinghouses\|证据清算中心]]，国家拨款支持 | 丹麦教育部、地方市政当局、学校 | 面向北欧教育实践开展实证系统综述 | 已关停（Closed） | 伴随国家政策重点转移与部委资助终止而被迫关闭（p. 64） |
 > | 同上 | Knowledge Chamber ([[Kenniskamer]]), 荷兰 | 荷兰教育部内部专设高阶咨询室 | 荷兰教育部部长、政策制定高层官员 | 针对部委重大政策急难问题组织专家[[Dialogue in Education\|对话]]与研讨 | 休眠停摆（Hibernating） | 极度依赖主管大臣个人意志，随内阁更迭与人事变动陷入机制停摆（p. 64） |
-> | 同上 | [[Education Endowment Foundation\|Education Endowment Foundation (EEF)]], 英国 | 萨顿信托（Sutton Trust）发起设立的独立慈善信托 | 校长、一线教师、教育中介网络 | 严苛 RCT 评价；发布教学与学习工具包；研究学校网络 | 持续高度活跃（Highly active） | 2011年获英国教育部1.25亿英镑巨额留本基金资助，拥有高度独立的财务与治理保障（p. 58） |
+> | 同上 | [[Education Endowment Foundation\|Education Endowment Foundation (EEF)]], 英国 | 萨顿信托（Sutton Trust）发起设立的独立慈善信托 | 校长、一线教师、教育中介网络 | 严苛 RCT 评价；发布教学与学习工具包；[[Research Schools Network\|研究学校网络]] | 持续高度活跃（Highly active） | 2011年获英国教育部1.25亿英镑巨额留本基金资助，拥有高度独立的财务与治理保障（p. 58） |
 > | 同上 | [[National Institute for Educational Policy Research]] (NIER), 日本 | 文部科学省同楼办公但保持行政自治的国立研究机构 | 文部科学省、各都道府县教育委员会 | 课程实施评估、国家学力调查与政策实证分析 | 持续稳定运行（Active） | 法定国立政策研究机构定位，与中央教育行政形成稳定的共生协调机制（pp. 61–62） |
 
 ---

@@ -9,7 +9,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 51
+fact_related_count: 52
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -64,6 +64,7 @@ related_methods:
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Research Schools Network]]"
   - "[[BHP Foundation]]"
   - "[[Australian Education Research Organisation]]"
   - "[[What Works Clearinghouse]]"
@@ -93,7 +94,7 @@ updated: 2026-09-13
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 教育捐赠基金会（Education Endowment Foundation, EEF）是 2011 年成立于英国伦敦的准独立慈善证据中介旗舰机构，由萨顿信托（Sutton Trust）等联合设立并依托英国教育部 1.25 亿英镑种子基金运营，代表了从传统单向清算中心向“因果证据生产 $+$ 综合[[Transfer Translation Transformation|转译]] $+$ 研究学校网络深耕”的现代[[Evidence Ecosystem|教育证据生态系统]]（Evidence Ecosystem）模型的[[Paradigm|范式]]演进([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 58, 62]]; [[Argument_Revai_2022_ChangingLandscape|Révai, 2022, pp. 20–21]]; [[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])。
+> 教育捐赠基金会（Education Endowment Foundation, EEF）是 2011 年成立于英国伦敦的准独立慈善证据中介旗舰机构，由萨顿信托（Sutton Trust）等联合设立并依托英国教育部 1.25 亿英镑种子基金运营，代表了从传统单向清算中心向“因果证据生产 $+$ 综合[[Transfer Translation Transformation|转译]] $+$ [[Research Schools Network|研究学校网络]]深耕”的现代[[Evidence Ecosystem|教育证据生态系统]]（Evidence Ecosystem）模型的[[Paradigm|范式]]演进([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 58, 62]]; [[Argument_Revai_2022_ChangingLandscape|Révai, 2022, pp. 20–21]]; [[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])。
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 2011 年由萨顿信托（牵头机构）与帝国教育信托（Impactus Education Trust）联合创设，直接呼应全球“何者有效运动”（[[What Works Movement]]）在公共教育领域的专业化问责诉求([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])。
@@ -110,7 +111,7 @@ updated: 2026-09-13
 > - **2012–2015 — 成为全英最大的教育实证试验资助方** 建立独立评估招标体系，累计委托资助数百项大规模[[Randomised Controlled Trials|随机对照试验]]（Randomised Controlled Trials, RCT），将全英超过一半的中小学卷入实验干预网络。
 > - **2016 — 跨国政策辐射与制度输出** 澳大利亚政府生产力委员会建议直接以英国 EEF 为蓝本建立本土国家证据机构，直接催生了后来的[[Australian Education Research Organisation|澳大利亚教育研究组织]]（Australian Education Research Organisation, [[Australian Education Research Organisation|AERO]]）([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])。
 > - **2018 — 私人资本注资与全球生态复制** 启动“全球[[Evidence Ecosystem|证据生态系统]]”扩张战略，获得[[BHP Foundation|必和必拓基金会]]（[[BHP Foundation]]）巨额资助，联合澳大利亚社会风险投资机构共建“学习证据”（Evidence for Learning, E4L），并在智利设立覆盖拉美的“苏玛”（Summa）中介枢纽。
-> - **2019 — 启动“研究学校网络”打破线性推送** 认识到单纯的线上工具包与文本分发无法自动驱动基层教学变革，正式成立遍布全英的“研究学校网络”（Research Schools Network, RSNs），培育校本[[Boundary Spanner|知识经纪人]]，开展持续的面对面专业学习[[Dialogue in Education|对话]]([[Argument_Revai_2022_ChangingLandscape|Révai, 2022, pp. 20–21]])。
+> - **2019 — 启动“[[Research Schools Network|研究学校网络]]”打破线性推送** 认识到单纯的线上工具包与文本分发无法自动驱动基层教学变革，正式成立遍布全英的“研究学校网络”（Research Schools Network, RSNs），培育校本[[Boundary Spanner|知识经纪人]]，开展持续的面对面专业学习[[Dialogue in Education|对话]]([[Argument_Revai_2022_ChangingLandscape|Révai, 2022, pp. 20–21]])。
 > - **2020–2023 — 跨国治理渗透与认知科学推广** EEF 首任首席执行官凯万·柯林斯爵士（Sir Kevan Collins）受邀出任澳大利亚 AERO 专家委员会委员；2023 年发布《课堂中的认知科学》专题综述，系统推进基于[[Cognitive Load Theory|认知负荷理论]]（[[Cognitive Load Theory|Cognitive Load Theory]]）的显性教学规程([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 8, 11]])。
 
 ---
@@ -121,7 +122,7 @@ updated: 2026-09-13
 > - **信托受托人理事会（Board of Trustees）** 机构最高决策权力层，由萨顿信托代表、顶尖教育学者、前高级政务官及商界资深人士组成，决定战略资助方向与资金配置。
 > - **独立评估管理层（Evaluation Team）** 专门设立的科学审查管理团队，负责制定 [[Randomised Controlled Trials|RCT]] 试验方案标准、审查研究偏倚并维护[[Evaluator Independence|评估者独立性]]（Evaluator Independence）。
 > - **外包独立大学评估团队** 规定干预项目的开发者绝不可评估自身项目，所有因果检验必须公开竞标并委托给独立的大学研究中心或专业评估智库执行。
-> - **研究学校网络（RSNs 基层网络）** 由数十所遴选出的卓越公立中小学担任“研究学校”，作为连接宏观证据与微观教研室的核心边界跨越枢纽。
+> - **[[Research Schools Network|研究学校网络]]（RSNs 基层网络）** 由数十所遴选出的卓越公立中小学担任“研究学校”，作为连接宏观证据与微观教研室的核心边界跨越枢纽。
 
 > [!pathways]- 业务运行与生态化转化机制
 > - **因果生成闭环** 针对有潜力的教学创新公开招募提案 $\to$ 委托独立第三方开展[[Pre-test and Post-test|前测]]-后测大规模 RCT $\to$ 发布完全公开的独立评估报告。
@@ -153,7 +154,7 @@ updated: 2026-09-13
 > - **跨国政策话语权** 其证据标准直接被英美澳等国纳入教师资格认证（Initial Teacher Training, [[Intent-to-Treat Analysis|ITT]]）核心大纲([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])。
 
 > [!finding-cards] 关键成效与[[Paradigm|范式]]演变
-> - **确立新一代生态型中介范式** [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]] 与 [[Argument_Revai_2022_ChangingLandscape|Révai (2022)]] 一致指出，EEF 突破了早期美国 [[What Works Clearinghouse|WWC]] 单纯依靠网站被动推送[[Abstract|研究摘要]]的线性局限，首次将证据资助、[[Transfer Translation Transformation|转译]]、传播与一线的“研究学校网络”深度绑定，构建起当代最完备的[[Evidence-Informed Practice|证据知情实践]]生态系统。
+> - **确立新一代生态型中介范式** [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]] 与 [[Argument_Revai_2022_ChangingLandscape|Révai (2022)]] 一致指出，EEF 突破了早期美国 [[What Works Clearinghouse|WWC]] 单纯依靠网站被动推送[[Abstract|研究摘要]]的线性局限，首次将证据资助、[[Transfer Translation Transformation|转译]]、传播与一线的“[[Research Schools Network|研究学校网络]]”深度绑定，构建起当代最完备的[[Evidence-Informed Practice|证据知情实践]]生态系统。
 > - **严密的独立评估防火墙** 实行干预开发者与评估者彻底剥离的制度设计，显著遏制了商业课程机构自卖自夸所带来的[[Publication Bias|发表偏倚]]与[[Effect Size|效应量]]虚高。
 
 > [!stat-cards]- 核心规模数据

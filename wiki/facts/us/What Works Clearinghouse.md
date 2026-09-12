@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 53
+fact_related_count: 54
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -76,6 +76,7 @@ related_facts:
   - "[[Communities in Schools]]"
   - "[[National Dropout Prevention Center]]"
   - "[[Education Endowment Foundation]]"
+  - "[[Research Schools Network]]"
   - "[[ESSA 2015 Evidence Standards]]"
   - "[[EPPI-Centre]]"
 related_arguments:
@@ -213,7 +214,7 @@ updated: 2026-09-13
 > > 争论单纯依靠线性供给与文本转译能否真正驱动一线实践变革与[[Research Utilization|证据使用]]。
 > >
 > > - **[[Argument_Revai_2022_ChangingLandscape|Révai (2022)]]** WWC 体现了早期[[Knowledge Mediation|知识中介]]的线性研究转移模型，假定将研究成果转译为用户友好的指南和工具包即可直接指导实践。然而实证证据表明，单纯的“知识推送”（Push）与文本分发并不能保证决策中的研究利用。
-> > - **[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]] 生态模型反思** 相比英国 EEF 构建的“研究学校网络”等深耕基层的生态体系，WWC 缺乏双向关系型互动与本土能力建设，导致高质量证据容易陷入与学校日常实践脱节的窘境([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 58, 62]])。
+> > - **[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]] 生态模型反思** 相比英国 EEF 构建的“[[Research Schools Network|研究学校网络]]”等深耕基层的生态体系，WWC 缺乏双向关系型互动与本土能力建设，导致高质量证据容易陷入与学校日常实践脱节的窘境([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 58, 62]])。
 
 > [!critique] 局限性总结
 > - **微观分域导致的认知过载** WWC 针对同一项目在不同结果域分别发布独立评级，使得非专业用户难以获得一目了然的“整体推荐”信号。

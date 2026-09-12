@@ -11,7 +11,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 30
+fact_related_count: 31
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -58,6 +58,7 @@ related_facts:
   - "[[What Works Clearinghouse]]"
   - "[[Campbell Collaboration]]"
   - "[[Education Endowment Foundation]]"
+  - "[[Research Schools Network]]"
 related_arguments:
   - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
   - "[[Argument_Pellegrini_2021_ROE]]"
@@ -156,7 +157,7 @@ updated: 2026-09-13
 > > [!axis] 关系型中介与全系统生态网络（Ecosystem）的距离
 > > 探讨依托精英大学的研究中心能否充分激发一线教师的主动实践变革。
 > >
-> > - **[[Knowledge Mediation|知识中介]]演进批判** [[Argument_Revai_2022_ChangingLandscape|Révai (2022)]] 指出，尽管 EPPI-Centre 积极探索多方协作与能力建设，但其运行重心依然偏向大学象牙塔内的“证据生产与[[Transfer Translation Transformation|转译]]供给”；相比于 [[Education Endowment Foundation|EEF]] 构建的“研究学校网络”（Research Schools Network）扎根学校基层、驱动一线主动“拉动”（Pull）证据的全系统生态模型，传统学术证据中心依然存在一定程度的供给侧偏斜。
+> > - **[[Knowledge Mediation|知识中介]]演进批判** [[Argument_Revai_2022_ChangingLandscape|Révai (2022)]] 指出，尽管 EPPI-Centre 积极探索多方协作与能力建设，但其运行重心依然偏向大学象牙塔内的“证据生产与[[Transfer Translation Transformation|转译]]供给”；相比于 [[Education Endowment Foundation|EEF]] 构建的“[[Research Schools Network|研究学校网络]]”（Research Schools Network）扎根学校基层、驱动一线主动“拉动”（Pull）证据的全系统生态模型，传统学术证据中心依然存在一定程度的供给侧偏斜。
 
 ---
 

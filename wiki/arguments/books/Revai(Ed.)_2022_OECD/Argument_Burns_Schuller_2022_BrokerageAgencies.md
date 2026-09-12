@@ -7,7 +7,7 @@ title: "Argument_Burns_Schuller_2022_BrokerageAgencies"
 argument_key: "Argument_Burns_Schuller_2022_BrokerageAgencies"
 argument_display_title: "History and evolution of brokerage agencies in education"
 argument_kind: "book-chapter"
-argument_related_count: 76
+argument_related_count: 79
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -52,6 +52,8 @@ related_concepts:
   - "[[Lifelong Learning]]"
   - "[[Rationalism in International Relations]]"
   - "[[Epistemology]]"
+  - "[[Evidence Backlash]]"
+  - "[[Technocognition]]"
   - "[[Reliability]]"
   - "[[International Education]]"
   - "[[Evidence-Based Education]]"
@@ -59,7 +61,6 @@ related_concepts:
   - "[[Primary and Secondary Documents]]"
   - "[[Screening Off]]"
   - "[[Growth]]"
-  - "[[Causality]]"
   - "[[Internal Validity]]"
   - "[[Ecological Validity]]"
   - "[[School Leadership]]"
@@ -84,6 +85,7 @@ related_methods:
   - "[[Network Analysis]]"
   - "[[Systematic Review]]"
   - "[[Effect Size]]"
+  - "[[Meta-meta-analysis]]"
   - "[[Mixed Methods Research]]"
   - "[[Statistical Significance]]"
   - "[[Qualitative Research]]"
@@ -102,6 +104,7 @@ related_facts:
   - "[[Danish Clearinghouse for Educational Research]]"
   - "[[Kenniskamer]]"
   - "[[Education Endowment Foundation]]"
+  - "[[Research Schools Network]]"
   - "[[National Institute for Educational Policy Research]]"
   - "[[Kunnskapssenter for utdanning]]"
   - "[[Swiss Coordination Centre for Research in Education]]"
@@ -177,7 +180,7 @@ updated: 2026-09-13
 > | | [[Canadian Council on Learning\|加拿大终身学习委员会]]<br>（CCL, Canadian Council on Learning） | 加拿大 | 联邦资助独立非营利组织<br>（横跨联邦与各省） | 统筹跨省[[Lifelong Learning\|终身学习]]评估指标，提供全生命周期实证分析；后因两级政府管辖权博弈与预算撤销解散。 | **彻底关停**<br>（联邦制下缺乏跨行政区划法定协议导致资金链断裂） |
 > | | 丹麦教育研究清算中心<br>（[[Danish Clearinghouse for Educational Research\|Danish Clearinghouse, Danish Clearinghouse for Educational Research]]） | 丹麦 | 部委依托大学设立<br>（奥胡斯大学合作运营） | 依托部委短期服务合同；开展北欧教育系统综述与数据库建设；2017 年因政府未再续约而关停。 | **彻底关停（2017年）**<br>（依赖政府 2–3 年短期合同是中介机构夭折的核心诱因） |
 > | | 教育部知识室<br>（[[Kenniskamer\|Kenniskamer, Dutch Knowledge Chamber]]） | 荷兰 | 部委高层直属咨询机制<br>（教育部内部行政嵌入） | 紧密对齐特定部长的执政议程；在提出倡议的部长离任及内阁重组后丧失高层推力而停摆。 | **休眠停摆**<br>（依托特定政治人物政治意愿，无法形成不可逆组织沉淀） |
-> | **拓展与新兴中介样本** | 英国教育捐赠基金会<br>（[[Education Endowment Foundation\|EEF, Education Endowment Foundation]]） | 英国 | 独立慈善信托机构<br>（萨顿信托发起） | 依托 1.25 亿英镑留本基金；研发《教学与学习工具包》，创设研究学校网络并资助 200 余项现场因果试验。 | **持续活跃**<br>（留本基金打破选举周期，实践下沉与因果试验贯通） |
+> | **拓展与新兴中介样本** | 英国教育捐赠基金会<br>（[[Education Endowment Foundation\|EEF, Education Endowment Foundation]]） | 英国 | 独立慈善信托机构<br>（萨顿信托发起） | 依托 1.25 亿英镑留本基金；研发《教学与学习工具包》，创设[[Research Schools Network\|研究学校网络]]并资助 200 余项现场因果试验。 | **持续活跃**<br>（留本基金打破选举周期，实践下沉与因果试验贯通） |
 > | | [[National Institute for Educational Policy Research\|国立教育政策研究所]]<br>（NIER, National Institute for Educational Policy Research） | 日本 | 独立行政法人<br>（与文部科学省同楼办公） | 兼具学术研究独立性与高层决策紧密配合；统筹国家宏观教育政策研究与国际大规模调查。 | **持续活跃**<br>（物理空间嵌入与法律自主地位相平衡） |
 > | | [[Kunnskapssenter for utdanning\|教育知识中心]]<br>（Kunnskapssenter for utdanning / Knowledge Centre for Education） | 挪威 | 大学依托与分权试点<br>（斯塔万格大学） | 由教育部出资设立，2019 年迁往地方大学落实分权；开创吸纳教师参与的平行评审多元规程。 | **持续活跃**<br>（推进地方权力下放，探索质性与量化融合综合） |
 > | | [[Swiss Coordination Centre for Research in Education\|教育研究协调中心]]<br>（SKBF / CSRE, Swiss Coordination Centre for Research in Education） | 瑞士 | 联邦与各州联席常设机构<br>（独立法定法人） | 由瑞士联邦与各州教育局长联席会议联合出资；协调多语种与分权体制下的国家科研中介。 | **持续活跃**<br>（联邦制下多方利益相关者联合资助的稳定范式） |
@@ -239,11 +242,11 @@ updated: 2026-09-13
 
 > [!challenges] 后真相时代教育证据面临的生态危机（Lewandowsky et al., 2017; p. 57）
 > - **算法茧房与群体极化** 社交媒体推荐算法将受众聚拢在同质化社群中，既有偏见被成倍放大，未经质量审核的虚假信息与片面推论往往比严谨的同行评审成果传播得更快更广。
-> - **专家公信力危机与证据反弹（Evidence Backlash）** 互联网传播往往将网络流量误认为真实性，公开轻蔑甚至攻击“专家意见”成为一种博取关注的策略；在此情境下，若仅是一味提供更多数据，不仅无法消除偏见，反而容易诱发受众的心理防卫与认知反弹。
+> - **专家公信力危机与[[Evidence Backlash|证据反弹]]（Evidence Backlash）** 互联网传播往往将网络流量误认为真实性，公开轻蔑甚至攻击“专家意见”成为一种博取关注的策略；在此情境下，若仅是一味提供更多数据，不仅无法消除偏见，反而容易诱发受众的心理防卫与认知反弹。
 
-面对认识论与信息生态的双重危机，单纯依靠传统的科普培训已不足以应对，必须采纳整合认知科学与系统技术的“技术认知法”（p. 69）：
+面对认识论与信息生态的双重危机，单纯依靠传统的科普培训已不足以应对，必须采纳整合认知科学与系统技术的“[[Technocognition|技术认知法]]”（p. 69）：
 
-> [!proc] 应对后真相挑战的技术认知法（Technocognition, Lewandowsky et al., 2017; p. 69）
+> [!proc] 应对后真相挑战的技术认知法（[[Technocognition]], Lewandowsky et al., 2017; p. 69）
 > 1. **认知心理免疫机制** 依据人类记忆与认知规律设计防御虚假信息的策略，在错误信息先入为主之前提前提供反驳与证据铺垫（Prebunking）。
 > 2. **算法事实核查工具** 运用自动化工具对重大教育政策主张所引用的实证依据进行快速核查与[[Reliability|信度]]溯源。
 > 3. **动态风险警示机制** 在数字教育平台与社交媒体上，对存在误导倾向或被商业操纵的研究结论标注警示标签。
@@ -272,7 +275,7 @@ updated: 2026-09-13
 > [!case] 英国教育捐赠基金会（EEF）的实践下沉模式
 > - **法定留本基金资助与战略定位** 英国教育部于 2011 年一次性注资 1.25 亿英镑设立永久性留本基金（Endowment fund），由萨顿信托（Sutton Trust）联合唯爱基金会发起成立独立慈善信托教育捐赠基金会（Education Endowment Foundation, EEF）。依托留本基金投资收益维系长期自主运营，彻底斩断政府 2 至 3 年短期财政拨款周期与政党选举更迭对研究议程的直接撕扯；明确将组织使命聚焦于破解 3 至 16 岁弱势背景学生的学业差距，深度对接全英“学生溢价”（Pupil Premium）公共资助政策。
 > - **通俗化认知界面：《教学与学习工具包》** 针对一线教师“时间匮乏、学术行话晦涩难懂”的现实痛点，EEF 梳理并综合了 5,500 余项实证研究，涵盖 30 余类微观教学干预策略，创立三维直观量化指标体系：（1）*额外学业进展月数（Months of additional progress）*，将复杂的[[Effect Size|效应量]]折算为教师与校领导直观可感的“进展月数”（如[[Metacognition|元认知]]与自我调节策略 +7 个月、同行辅导 +5 个月、助教不当配置 0 个月）；（2）*实施成本分级*，采用 1 至 5 个英镑符号（£ 至 £££££）标明生均年化投入成本；（3）*证据安全等级*，采用 1 至 5 把挂锁图形化标注底层因果实证的严格程度与样本规模，让基层实践者一目了然看清证据的可靠性分量。（pp. 58, 62）
-> - **自上而下到自下而上：多级组织下沉与同伴教练网络** 为破解单纯工具包挂网导致的“形式化知晓而无实质采纳”，EEF 自 2016 年起联合[[Institute for Effective Education|有效教育研究所]]（IEE）在全英建设数十所标杆性“研究学校网络”（Research Schools Network, RSNs），以“学校带动学校”（School-led system）的同伴教练替代行政命令；下设“研究学习网络”（Research Learning Networks, RLNs）促进跨校教研研讨；培育在职骨干教师担任“教育证据带头人”（Evidence Leads in Education, ELEs），深入周边薄弱学校提供一对一临床教研辅导；同时发布包含“探索-准备-交付-维持”四阶段的系统化实施指南（Implementation Guidance Reports），指导学校科学落地教改。
+> - **自上而下到自下而上：多级组织下沉与同伴教练网络** 为破解单纯工具包挂网导致的“形式化知晓而无实质采纳”，EEF 自 2016 年起联合[[Institute for Effective Education|有效教育研究所]]（IEE）在全英建设数十所标杆性“[[Research Schools Network|研究学校网络]]”（Research Schools Network, RSNs），以“学校带动学校”（School-led system）的同伴教练替代行政命令；下设“研究学习网络”（Research Learning Networks, RLNs）促进跨校教研研讨；培育在职骨干教师担任“教育证据带头人”（Evidence Leads in Education, ELEs），深入周边薄弱学校提供一对一临床教研辅导；同时发布包含“探索-准备-交付-维持”四阶段的系统化实施指南（Implementation Guidance Reports），指导学校科学落地教改。
 > - **因果实证源头建设：全英最大现场试验资助平台** 突破传统清算所仅作“[[Primary and Secondary Documents|二手文献]]筛选”的被动定位，EEF 兼任独立因果试验资助者，面向大学独立科研团队资助了 200 余项大规模现场[[Randomised Controlled Trials|随机对照试验]]（RCTs），覆盖全英逾半数学校与上百万名学生，建立起“资助独立试验生成因果证据 -> 二阶工具包综合 -> 研究学校网络同伴教练 -> 校本实践落地”的全链条贯通机制。
 > - **人际信任与社会互动激活机制** Maxwell 等人（2019）针对“有效使用教学助理（Teaching Assistant, TA）”推广活动的追踪实证表明，单纯提供数字工具包和指南纸本无法带来真实课堂改变；唯有依托研究学校网络开展面对面深度工作坊、专业同行教练以及建立在深厚人际关系上的专业信任，才能切实帮助教师跨越认知门槛，促成组织教学常规的深度重塑。（p. 59）
 
@@ -320,17 +323,22 @@ updated: 2026-09-13
 
 各国在过去二十年间探索建立的教育中介机构，在组织依附、受众侧重与方法学立场上展现出清晰的类型学谱系（pp. 61–64）：
 
-> [!row-contrast] 国际教育中介机构的多维制度特征与案例谱系（pp. 61–64）
-> | 制度分析维度 | 类型亚型 | 典型代表案例与国别 | 组织架构与运行机制 | 制度比较优势 | 体制风险与伴生挑战 |
-> |---|---|---|---|---|---|
-> | **与教育部的治理依附关系** | **部委直属嵌入型** | 新西兰 [[Best Evidence Synthesis\|BES]]；<br>荷兰教育部知识室（Kenniskamer） | 设立于教育部内设行政处室，全额依托政府财政拨款与行政职能运作。 | 政策对齐度极高，研究议程直通国家决策核心，享有行政推力与官方数据准入。 | 缺乏学术与人事自主性，极易随政党轮替或部长换届而被迅速边缘化或关停。 |
-> | | **政府资助自治型** | 日本国立教育政策研究所（NIER）；<br>挪威教育知识中心；<br>瑞士 SKBF / CSRE；<br>[[Canadian Council on Learning\|加拿大 CCL]] | 依托国家立法设立独立行政法人、大学专业中心或联邦跨区域常设机构，享经常性公共预算。 | 享有法定的学术独立性与客观公信力，与日常政治官僚体系保持健康的专业距离。 | 跨部门协调沟通成本高；在联邦制分权博弈中极易面临财政撤销风险。 |
-> | | **独立慈善基金型** | 英国 [[Education Endowment Foundation\|EEF]]；<br>土耳其 ERG | 由独立慈善信托或民间大学基金会设立，依靠永久留本基金收益或社会捐赠维系运营。 | 战略自主性极强，彻底摆脱 2 至 3 年选举与短期预算周期撕扯，可长线布局。 | 与国家正式问责法规及教师认证体系脱节，若政策层不予吸纳容易导致体系外悬浮。 |
-> | **核心目标受众分工** | **政策制定导向型** | 早期中介机构；<br>部委咨询专家团；<br>日本 NIER 政策部 | 产出面向中央及地方决策层的快速政策简报、宏观指标监测与立法咨询报告。 | 紧扣大政方针制定与教育财政资源配置，宏观制度撬动力强。 | 文本表述高度抽象官僚化，严重脱离中小学微观课堂教学与教师真实学情。 |
-> | | **基层实践导向型** | [[Kennisrotonde\|荷兰国家教育研究所知识环岛]]（NRO Kennisrotonde）；<br>英国 EEF 研究学校网络；<br>[[Centre for the Use of Research and Evidence in Education\|CUREE]] | 开发平实通俗的实践工具包、母语双向咨询问答平台，搭建校际同伴学习与教练网络。 | 直接支持一线教师微观决策，有效突破学术语言壁垒，提升课堂实践采纳度。 | 面临规模化复制中的情境稀释风险，易被政策制定者借以推卸自身制度保障责任。 |
-> | | **大众媒体导向型** | [[Education Media Centre\|英国教育媒体中心]]（EMC） | 对接大众媒体记者与新闻采编室，提供突发教育议题的事实核查并推荐权威学者。 | 第一时间切断社交网络伪科学与夸大报道传播链，维护教育科学的公共公信力。 | 工作完全受制于外部突发新闻议程与舆论热点，难以自主规划长效系统的研究体系。 |
-> | **证据审查与方法学立场** | **因果实证派<br>（RCT 黄金标准）** | 美国 [[What Works Clearinghouse\|WWC]]；<br>英国 EEF；<br>[[Campbell Collaboration\|坎贝尔协作网]] | 确立随机对照试验（RCT）为[[Causality\|因果推断]]黄金标准，执行极其严苛的证据准入门槛与偏倚评估。 | 研究结论的[[Internal Validity\|内部效度]]极高，能够为特定干预手段提供确凿的因果效应量支撑。 | 排斥非实验性质性知识，筛选通过率畸低，难以阐释复杂生态中的“为何有效与如何发生”。 |
-> | | **多元综合派<br>（混合与多元方法）** | 英国伦敦大学学院 [[EPPI-Centre\|EPPI-Centre]]；<br>挪威教育知识中心；<br>新西兰 BES | 坚持质性、量化与[[Mixed Methods Research\|混合方法]]的全面系统综合，开发吸纳教师临床[[Phronesis\|实践智慧]]的多元评审规程。 | [[Ecological Validity\|生态效度]]极高，兼顾文化适应性与复杂微观语境，全面护持教师专业判断。 | 综合方法学规程繁复漫长，缺乏一刀切的量化直观指标，对使用者的批判素养要求高。 |
+> [!row-contrast] 国际教育中介机构的制度特征：治理依附谱系（pp. 61–64）
+> | 治理依附类型 | 典型代表案例 | 组织架构与运行机制 | 制度比较优势 | 体制风险与伴生挑战 |
+> |---|---|---|---|---|
+> | **部委直属嵌入型** | 新西兰 [[Best Evidence Synthesis\|BES]]；<br>荷兰 [[Kenniskamer]] | 教育部内设处室，全额依托政府行政预算。 | 政策对齐度极高，研究直通国家决策核心。 | 缺乏学术自主，极易随政党轮替被撤销。 |
+> | **政府资助自治型** | 日本 [[National Institute for Educational Policy Research\|NIER]]；<br>澳大利亚 [[Australian Education Research Organisation\|AERO]]；<br>瑞士 [[Swiss Coordination Centre for Research in Education\|SKBF / CSRE]]；<br>挪威 [[Kunnskapssenter for utdanning]]；<br>加拿大 [[Canadian Council on Learning\|CCL]] | 依托国家立法、独立行政法人或联邦/各州跨辖区联合资助。 | 享法定学术独立性，与日常政治保持健康距离。 | 跨部门协调成本高；分权体制下存财政撤销风险。 |
+> | **大学依托合同型** | 英国 [[EPPI-Centre]]；<br>丹麦 [[Danish Clearinghouse for Educational Research\|丹麦清算中心]] | 扎根顶尖大学学术共同体，依托部委定期服务合同或自主承接科研课题。 | 学术信誉高，能借助大学研究资源开展复杂综合。 | 高度依赖政府续约合同，合同终止即面临关停。 |
+> | **独立慈善基金型** | 英国 [[Education Endowment Foundation\|EEF]]；<br>土耳其 [[Education Reform Initiative\|ERG]] | 独立慈善信托或民间基金会支持，靠永久留本基金运作。 | 战略自主性强，彻底摆脱 2–3 年选举周期撕扯。 | 与正式问责法规易脱节，可能面临体制外悬浮。 |
+
+> [!row-contrast] 国际教育中介机构的制度特征：受众分工与方法学立场（pp. 61–64）
+> | 划分维度与亚型 | 典型代表案例 | 核心中介机制与产出 | 比较优势与功能价值 | 局限与伴生挑战 |
+> |---|---|---|---|---|
+> | **政策制定导向型** | 早期中介机构；<br>美国 [[What Works Clearinghouse\|WWC]]（政策端）；<br>日本 NIER 政策部 | 产出快速政策简报、宏观监测与立法咨询。 | 紧扣国家大政方针，宏观制度撬动力强。 | 文本抽象官僚化，脱离微观课堂教学。 |
+> | **基层实践导向型** | 澳大利亚 [[Australian Education Research Organisation\|AERO]]；<br>英国 [[Research Schools Network\|EEF 研究学校网络]]；<br>荷兰 [[Kennisrotonde]]；<br>英国 [[Centre for the Use of Research and Evidence in Education\|CUREE]] | 开发实践工具包、国家核心课程大纲、问答平台与校际同伴网络。 | 直接支持一线教师微观决策，提升课堂采纳度。 | 规模复制中存情境稀释风险，易被借以政策脱责。 |
+> | **大众媒体导向型** | 英国 [[Education Media Centre\|EMC]] | 对接新闻媒体采编室，提供事实核查与专家推荐。 | 阻断伪科学在公共舆论发酵，守护学术公信力。 | 受制于外部新闻突发热点，难以长线系统规划。 |
+> | **因果实证派（RCT）** | 美国 [[What Works Clearinghouse\|WWC]]；<br>英国 EEF；<br>澳大利亚 AERO；<br>[[Campbell Collaboration\|坎贝尔协作网]] | 确立随机对照试验为因果黄金标准，严苛偏倚评估。 | 结论[[Internal Validity\|内部效度]]极高，提供确凿因果效应量支撑。 | 排斥质性知识，难以阐释“为何有效与如何发生”。 |
+> | **多[[Meta-meta-analysis\|元综合]]派（混合）** | 英国 [[EPPI-Centre]]；<br>挪威 Kunnskapssenter；<br>新西兰 BES | 质性、量化与[[Mixed Methods Research\|混合方法]]系统综合，吸纳临床智慧。 | [[Ecological Validity\|生态效度]]高，兼顾复杂微观语境，护持专业判断。 | 方法规程繁复漫长，缺乏量化直观一刀切指标。 |
 
 这些制度维度的交织演化，形成了各具特色的代表性中介组织实践（pp. 61–64）：
 
@@ -339,11 +347,13 @@ updated: 2026-09-13
 > - **政府资助自治型：[[National Institute for Educational Policy Research|日本国立教育政策研究所]]（NIER）** 作为独立行政法人，特意将办公地点设在与文部科学省（Ministry of Education, Culture, Sports, Science and Technology, MEXT）同一栋大楼内，既保持了作为学术机构的相对独立性，又确保了与高层政策制定的紧密配合。（p. 62）
 > - **大学依托与分权化：[[Kunnskapssenter for utdanning|挪威教育知识中心]]** 由挪威教育科研部出资设立，保持学术自治；2019 年作为挪威政府行政权力下放改革的重要一环，由首都奥斯陆整体迁往斯塔万格大学（University of Stavanger）；在方法上突破对随机对照试验的单一推崇，开创了吸纳一线教师与研究者共同参与的平行评审与综合规程。（p. 63）
 > - **联邦制协同：[[Swiss Coordination Centre for Research in Education|瑞士教育研究协调中心]]（SKBF / CSRE）** 作为一个完全独立的常设机构，由瑞士联邦政府与瑞士各州教育局长联席会议（Swiss Conference of Cantonal Ministers of Education, EDK）联合出资维持，有效协调了多语种及高度分权的联邦体制下的知识治理需求。
+> - **跨辖区法定实体：[[Australian Education Research Organisation|澳大利亚教育研究组织]]（AERO）** 2021 年由澳大利亚联邦与各州政府联合注资注册设立，作为国家级重点公共投资的新型证据中介，致力于生成高等级实践指南并主导职前教师教育循证核心课程大纲。（p. 64）
 > - **基金会联合资助：[[Education Reform Initiative|土耳其教育改革倡议]]（ERG）** 设于萨班哲大学（Sabancı University），完全由土耳其主流慈善基金会联合出资支持，体现了民间社会力量在缺乏政府主动资助的环境下独立维系教育智库与中介服务的运作机制。
 
 在目标受众拓展方面，荷兰与英国开发了直面一线实践与大众传媒的创新中介机制（p. 62）：
 
 > [!case] 实践与媒体导向的前沿中介工具案例
+> - **[[Research Schools Network|英国研究学校网络]]（EEF Research Schools Network）** 英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）于 2016 年启动的校际中介网络，挑选全英各区域具备实证底蕴的优秀中小学作为区域证据中心，向周边学校网络辐射基于实证证据的教师培训与落地教练服务，实现了证据中介在微观学校生态中的规模化下沉。
 > - **荷兰国家教育研究所知识环岛（NRO Kennisrotonde）** 荷兰国家教育研究所（Netherlands Initiative for Education Research, NRO）为一线实践者设立专门知识门户，不仅提供通俗的母语[[Abstract|研究摘要]]，更创新建立"知识环岛"（kennisrotonde）中继咨询机制：一线教师与学校可以直接提出日常教学与管理困惑，由专业研究人员在规定期限内检索、综合相关[[Document|文献]]，提供定制化的荷兰语通俗解答，实现了极高的政策与实践采纳度。（p. 62）
 > - **[[Education Media Centre|英国教育媒体中心]]（EMC）** 借鉴科学媒介中心（[[Science Media Centre]], SMC）模式，专门面向大众媒体记者与新闻编辑室提供服务；每当公众舆论中出现关于教育质量、教学法争议或[[Academic Achievement|学业成绩]]的夸大、失实报道时，该中心第一时间向媒体记者提供严谨的事实核查并推荐专家受访，有效遏制了片面或虚假陈述在公共传播中的发酵。
 
@@ -384,7 +394,7 @@ updated: 2026-09-13
 在数字化与人工智能加速渗透的背景下，技术化决策规则对专业主体性的冲击演变为尖锐的认识论冲突（pp. 66–67）：
 
 > [!tension] 数字化算法拆解 vs 教师知识型专业主体（Facer & Selwyn, 2021; Guerriero & Révai, 2017; pp. 66–67）
-> - **技术驱动的“去技能化”风险（Facer & Selwyn, 2021）** 表面上看似“自动化”和“数据驱动”的教学管理，实质上要求教师耗费大量隐性精力去维系系统运转与录入数据；若将复杂的育人工作拆解（Unbundling）为一系列机械的离散任务，将不可避免地造成教师职业的“去技能化”（Deskilling），使教师由具备实践智慧的专业人员退化为执行算法指令的技术操作工。（pp. 66–67）
+> - **技术驱动的“去技能化”风险（Facer & Selwyn, 2021）** 表面上看似“自动化”和“数据驱动”的教学管理，实质上要求教师耗费大量隐性精力去维系系统运转与录入数据；若将复杂的育人工作拆解（Unbundling）为一系列机械的离散任务，将不可避免地造成教师职业的“去技能化”（Deskilling），使教师由具备[[Phronesis|实践智慧]]的专业人员退化为执行算法指令的技术操作工。（pp. 66–67）
 > - **知识型专业人员的制度防线（[[Teaching and Learning International Survey|TALIS]] & [[Centre for Educational Research and Innovation|CERI]]）** 经合组织历年跨国研究一再强调，教学是一项建立在深厚专业知识、微观情境智慧与伦理审议基础之上的复杂知识型职业，绝不能被简化为标准化技术代码；必须维护教师在教学实践中根据具体情境权衡、调适研究证据的专业自主性（Guerriero & Révai, 2017; Ulferts, 2021; p. 67）。
 
 ---
@@ -458,7 +468,7 @@ updated: 2026-09-13
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **后真相语境动摇科学客观信念** 社交媒体算法回音室与反智反专家情绪使传统依赖“增加供给与常规培训”的理性模型失效，必须融合认知心理学与算法审查推行“技术认知法”。（pp. 56–57, 69）
+> 1. **后真相语境动摇科学客观信念** 社交媒体算法回音室与反智反专家情绪使传统依赖“增加供给与常规培训”的理性模型失效，必须融合认知心理学与算法审查推行“[[Technocognition|技术认知法]]”。（pp. 56–57, 69）
 > 2. **向实践过度倾斜掩盖政策脱责** 过去十年中介资源向学校课堂工具包的大范围下沉，掩盖了政策制定层原本应当承担的制度设计、问责评价与科研经费导向责任，阻碍了全系统变革的推进。（pp. 57–58）
 > 3. **政治与财政周期主导中介夭折宿命** 15 年间 6 家标杆中介机构中仅 2 家保持活跃；机构关停的核心推手是 2–3 年的政党轮替与财政预算短周期，耗时漫长的中介成效评估几乎被行政部门完全跳过。（pp. 64–65）
 > 4. **必须推进“中介的中介”建构累积知识库** 单个机构无法独自确立具有普适权威的知识体系，必须依托跨机构、跨国别的元中介网络推进二阶[[Systematic Review|系统综述]]，方能攻克方法学鸿沟并建构坚实的教育科学知识大厦。（pp. 66–68）

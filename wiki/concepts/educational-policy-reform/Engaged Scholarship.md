@@ -7,7 +7,7 @@ aliases:
 summary: "由安德鲁·范德文与保罗·约翰逊（2006）开创的学术探究范式，主张将理论与实践的脱节界定为知识生产方式问题，通过学者与实践者在复杂现实问题上的平等合作与协同探究，从源头上弥合学术象牙塔与实践现场的制度与认识论鸿沟。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -51,12 +51,13 @@ related_facts:
   - "[[OECD]]"
   - "[[Centre for Educational Research and Innovation]]"
   - "[[Education Endowment Foundation]]"
+  - "[[Research Schools Network]]"
 related_arguments:
   - "[[Argument_Revai_2022_ChangingLandscape]]"
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-12
+updated: 2026-09-13
 ---
 
 # Engaged Scholarship
@@ -180,7 +181,7 @@ updated: 2026-09-12
 > [!case] 案例一：[[Teaching and Learning Research Programme|英国教与学研究计划]]（TLRP）的伙伴关系与联合[[Knowledge Production|知识生产]]
 > 在英国开展的[[Teaching and Learning Research Programme|教与学研究计划]]（TLRP, 2000–2011）中，项目团队系统落实参与式学术理念。大学研究人员与一线中小学教师共同组建联合课题组，从立项论证起共同商定课堂改进目标，协同收集教学反思与学业增值数据，使学术研究成果直接转化为一线教师能切实掌握的教学策略。[[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, p. 21)]]
 
-> [!case] 案例二：英国 [[Education Endowment Foundation|EEF]] 研究学校网络（Research Schools Network）的院校协同
+> [!case] 案例二：英国 [[Education Endowment Foundation|EEF]] [[Research Schools Network|研究学校网络]]（Research Schools Network）的院校协同
 > 英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）支持中小学建立研究学习网络（Research Learning Networks），大学学者以学术伙伴身份常态化进驻标杆研究学校，通过“学习[[Dialogue in Education|对话]]”（learning conversations）与校长、教研骨干协同反思实证工具包在课堂的落地偏差，形成边实践、边评估、边改良的动态共创闭环。[[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, p. 21)]]
 
 ---

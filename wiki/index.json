@@ -3705,6 +3705,16 @@
     ]
   },
   {
+    "title": "Evidence Backlash",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Evidence Backlash.md",
+    "aliases": [
+      "证据反弹",
+      "证据逆火效应",
+      "反科学证据情绪"
+    ]
+  },
+  {
     "title": "Evidence Ecosystem",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Evidence Ecosystem.md",
@@ -4290,6 +4300,15 @@
       "研究证据过剩",
       "信息过量时代证据过剩",
       "Surplus of Research Evidence"
+    ]
+  },
+  {
+    "title": "Technocognition",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Technocognition.md",
+    "aliases": [
+      "技术认知法",
+      "技术认知进路"
     ]
   },
   {
@@ -21053,6 +21072,16 @@
     "aliases": [
       "英国教育标准办公室",
       "Office for Standards in Education, Children's Services and Skills"
+    ]
+  },
+  {
+    "title": "Research Schools Network",
+    "type": "fact",
+    "path": "wiki/facts/uk/Research Schools Network.md",
+    "aliases": [
+      "RSN",
+      "英国研究学校网络",
+      "研究学校网络"
     ]
   },
   {

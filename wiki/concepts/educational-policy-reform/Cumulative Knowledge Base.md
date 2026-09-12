@@ -7,39 +7,52 @@ aliases:
 summary: "教育知识治理的核心终极命题，指通过跨机构协作、多元方法证据综合与元中介机制，建构一套被全球教育系统准普遍公认为基础坚实、可跨情境调适并经得起时间检验的共享性知识体系。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 32
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - concept/educational-policy-reform
   - theme/knowledge-governance
   - theme/evidence-synthesis
   - theme/epistemic-governance
 related_concepts:
-  - "[[Knowledge Mediation]]"
-  - "[[Educational Brokerage Agency]]"
-  - "[[Evidence-Informed Practice]]"
-  - "[[Research Utilization]]"
+  - "[[Epistemic Governance]]"
+  - "[[Epistemology]]"
+  - "[[Paradigm]]"
+  - "[[Document]]"
+  - "[[Heterogeneity]]"
+  - "[[Rich and Thick Description]]"
+  - "[[Phronesis]]"
+  - "[[Variable]]"
+  - "[[External Validity]]"
+  - "[[Ecological Validity]]"
+  - "[[Positivism]]"
+  - "[[Reflexivity]]"
+  - "[[Dialogue in Education]]"
   - "[[Professional Judgment]]"
   - "[[Research Literacy]]"
-  - "[[Heterogeneity]]"
-  - "[[Technocognition]]"
-related_theories:
-  - "[[Complexity Theory]]"
+  - "[[Educational Brokerage Agency]]"
+  - "[[Knowledge Mediation]]"
+related_theories: []
 related_methods:
   - "[[Systematic Review]]"
+  - "[[Randomised Controlled Trials]]"
+  - "[[Effect Size]]"
+  - "[[Case Study]]"
   - "[[Meta-analysis]]"
-  - "[[Mixed Methods Research]]"
+  - "[[Qualitative Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
-  - "[[OECD]]"
-  - "[[EPPI-Centre]]"
   - "[[What Works Clearinghouse]]"
+  - "[[Education Endowment Foundation]]"
   - "[[Canadian Council on Learning]]"
-  - "[[Education Media Centre]]"
   - "[[EU Evidence-Informed Education Policy Initiatives]]"
+  - "[[EPPI-Centre]]"
+  - "[[Best Evidence Synthesis]]"
+  - "[[Education Media Centre]]"
+  - "[[Science Media Centre]]"
 related_arguments:
   - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
 confidence: high
@@ -159,7 +172,7 @@ updated: 2026-09-13
 ### 命题总览
 
 > [!ref-table] 累积性知识库核心命题汇总
-> | 命题编号 | 命题核心主张 | 理论维度 | 代表性学者与文献 | 治理启示 |
+> | 命题编号 | 命题核心主张 | 理论维度 | 代表性学者与[[Document\|文献]] | 治理启示 |
 > |---|---|---|---|---|
 > | **命题一** | 政治换届与 2–3 年财政预算短周期在科学评估出炉前仓促决定项目存亡，阻断了知识体系的纵向累积。 | 政治周期与评估错配 | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]]; Borman et al. (2003) | 必须建立国家最高立法授权与经常性法定预算形成的制度护城河。 |
 > | **命题二** | 单体中介孤岛受制于资源与受众局限，唯有协同推进“中介的中介”与二阶系统综述方能凝聚全球公认共识。 | 组织元治理与网络协同 | Gough et al. (2011); OECD (2021) | 采用双轨会议机制平衡网络广度与专业深度，培育跨国元中介。 |

@@ -9,9 +9,9 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 16
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 14
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 issuing_organization: "Australian Education Research Organisation"
 tags:

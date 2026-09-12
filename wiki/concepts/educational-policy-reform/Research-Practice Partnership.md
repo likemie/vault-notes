@@ -8,7 +8,7 @@ aliases:
 summary: "研究者与实践组织之间长期、互惠的协作机制，通过共同确定问题、协同生产与情境化运用知识，被视为弥合研究-实践鸿沟并打破线性知识转移瓶颈的重要制度安排。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 37
+related_count: 38
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -58,6 +58,7 @@ related_facts:
   - "[[National Center for Research in Policy and Practice]]"
   - "[[Research Excellence Framework]]"
   - "[[Teaching and Learning Research Programme]]"
+  - "[[Research Schools Network]]"
   - "[[Education Endowment Foundation]]"
   - "[[OECD]]"
 related_arguments:
@@ -66,7 +67,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-26
-updated: 2026-09-12
+updated: 2026-09-13
 ---
 
 # Research-Practice Partnership
@@ -199,7 +200,7 @@ updated: 2026-09-12
 > - **2006 — [[Engaged Scholarship|参与式学术]]奠定[[Epistemology|认识论]]基石** Van de Ven & Johnson (2006) 提出“参与式学术”，将理论-实践鸿沟界定为[[Knowledge Production|知识生产]]方式问题，确立了研究者与实践者协同共创的正当性。
 > - **2010s — 美国学区-大学伙伴关系兴起与工具开发** 美国大批城市学区（如芝加哥、巴尔的摩、纽约）与顶尖大学建立制度化 RPP；[[National Center for Research in Policy and Practice|NCRPP]] 与 Coburn 等学者开始系统解构 RPP 对教育者心智模式与三类[[Research Utilization|研究使用]]的深层影响。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 132)]]
 > - **2017 — 全系统战略与多维测量框架成熟** [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] 整合特刊成果，通过安大略省 [[Knowledge Network for Applied Education Research|KNAER]] 案例确立了全系统 RPP 推进策略，并收录 Wentworth et al. (2017) 量化 RPP 感知影响的[[Questionnaire|问卷]]模型。
-> - **2018–2019 — 研究学校网络与学习[[Dialogue in Education|对话]]演进** 英国 [[Education Endowment Foundation|EEF]] 建立“研究学校网络”（Research Schools Network），并衍生出高校与学校深度合作的“研究学习网络”（Research Learning Networks, RLNs），通过学习对话促进知识共创（Brown, 2018；[[Argument_Revai_2022_ChangingLandscape|Révai, 2022, pp. 20–21]]）。
+> - **2018–2019 — [[Research Schools Network|研究学校网络]]与学习[[Dialogue in Education|对话]]演进** 英国 [[Education Endowment Foundation|EEF]] 建立“研究学校网络”（Research Schools Network），并衍生出高校与学校深度合作的“研究学习网络”（Research Learning Networks, RLNs），通过学习对话促进知识共创（Brown, 2018；[[Argument_Revai_2022_ChangingLandscape|Révai, 2022, pp. 20–21]]）。
 > - **2022 — 纳入复杂系统跨国政策调查** [[Argument_Revai_2022_ChangingLandscape|Révai (2022)]] 依托 [[OECD]] 29 国政策调查，将 RPP 提升为复杂[[Evidence Ecosystem|证据生态系统]]建设的支柱机制，指出当前国际上政策-研究伙伴关系远落后于实践-研究伙伴关系，呼吁建立更具包容性的多方共治网络。
 
 ---
@@ -258,5 +259,5 @@ updated: 2026-09-12
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] — 在特刊导言中将 RPP 确立为[[Knowledge Mobilisation|知识动员]]的关键伙伴关系策略，详细阐述安大略 [[Knowledge Network for Applied Education Research|KNAER]] 全系统网络与 Wentworth et al. 的成效[[Scale of Measurement|测量量表]]。
-> - [[Argument_Revai_2022_ChangingLandscape|Révai (2022)]] — 从[[Knowledge Production|知识生产]]方式演进（Van de Ven & Johnson, 2006）与复杂系统视角，梳理英格兰 [[Teaching and Learning Research Programme|TLRP]]、[[Education Endowment Foundation|EEF]] 研究学校网络及高校跨界合作机制，深刻揭示学术发表激励错位与知识共创的深层张力。
+> - [[Argument_Revai_2022_ChangingLandscape|Révai (2022)]] — 从[[Knowledge Production|知识生产]]方式演进（Van de Ven & Johnson, 2006）与复杂系统视角，梳理英格兰 [[Teaching and Learning Research Programme|TLRP]]、[[Education Endowment Foundation|EEF]] [[Research Schools Network|研究学校网络]]及高校跨界合作机制，深刻揭示学术发表激励错位与知识共创的深层张力。
 

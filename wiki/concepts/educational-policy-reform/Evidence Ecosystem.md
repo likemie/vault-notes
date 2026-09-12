@@ -9,7 +9,7 @@ aliases:
 summary: "指由研究生产者、政策制定者、教育实践者、中介机构与资助方等多方行动者共同构成，通过评价、综合、翻译、中介动员与实践应用等多向交互与动态反馈回路，驱动研究证据协同演化的复杂自适应系统。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 44
+related_count: 48
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Epistemic Governance]]"
   - "[[Construct]]"
   - "[[Knowledge Mobilisation]]"
+  - "[[Educational Brokerage Agency]]"
   - "[[Research Utilization]]"
   - "[[Innovation Ecosystem]]"
   - "[[Emergence]]"
@@ -45,6 +46,7 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Champ]]"
   - "[[Pragmatic Paradigm]]"
+  - "[[Evidence-Informed Decision-Making]]"
   - "[[Research-Practice Partnership]]"
   - "[[Positivism]]"
   - "[[Variable]]"
@@ -62,19 +64,21 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[Education Endowment Foundation]]"
+  - "[[Research Schools Network]]"
   - "[[Teaching and Learning Research Programme]]"
   - "[[Centre for Educational Research and Innovation]]"
   - "[[What Works Clearinghouse]]"
+  - "[[Best Evidence Synthesis]]"
   - "[[OECD]]"
   - "[[Strengthening the Impact of Education Research Project]]"
 related_arguments:
   - "[[Argument_Revai_2022_ChangingLandscape]]"
-  - "[[Argument_Revai(Ed.)_2022_OECD]]"
   - "[[Argument_Torres_2022_KMModels]]"
+  - "[[Argument_Revai(Ed.)_2022_OECD]]"
 confidence: medium
 status: draft
 created: 2026-09-12
-updated: 2026-09-12
+updated: 2026-09-13
 ---
 
 # Evidence Ecosystem
@@ -89,7 +93,7 @@ updated: 2026-09-12
 > [!concept-lens] 概念透镜
 > - **含义** 证据生态系统将证据利用确立为整体生态现象，聚焦多元异质主体在复杂系统中的互动质量、反馈调节与自组织适应。
 > - **用途** 克服传统线性[[Knowledge Transfer|知识转移]]（Knowledge Transfer）将受众预设为被动容器的机械论偏误，为政策制定者设计全系统[[Epistemic Governance|知识治理]]策略提供宏观[[Analytic Framework|分析框架]]。
-> - **边界** 证据生态系统是描述研究生产与利用全链条关系的宏观系统[[Construct|构念]]，区别于微观层面的单一[[Knowledge Mobilisation|知识动员]]项目（Knowledge Mobilisation Initiative）或单纯的中介组织（Brokerage Agency）。
+> - **边界** 证据生态系统是描述研究生产与利用全链条关系的宏观系统[[Construct|构念]]，区别于微观层面的单一[[Knowledge Mobilisation|知识动员]]项目（Knowledge Mobilisation Initiative）或单纯的中介组织（[[Educational Brokerage Agency|brokerage agency]]）。
 
 > [!citation-card] 证据生态系统跨越线性与关系模型的嵌套演进
 > 早期的线性知识转移模型演变为认识到复杂性的研究生态系统理解。英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation，EEF）所应用的新一代证据生态系统模型，将评估、证据综合、转译、[[Research Utilization|研究利用]]以及教育创新明确挂钩。不仅要建立人与人之间的联结，更要激活整个系统，在其各个组成部分之间建立深层互动与共创。[[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, pp. 18–20)]]
@@ -132,7 +136,7 @@ updated: 2026-09-12
 >   超越简单的信息[[Transfer Translation Transformation|转译]]与文本摘要分发，深入探寻不同群体的利益关切与深层相互依赖，在多方[[Dialogue in Education|对话]]中达成价值共识。[[Argument_Revai_2022_ChangingLandscape|(Best & Holmes, 2010; Révai, 2022, p. 19)]]
 
 > [!case] 证据生态系统的系统级实践载体
-> - **英国[[Education Endowment Foundation|教育捐赠基金会]]研究学校网络（EEF Research Schools Network）**
+> - **英国[[Education Endowment Foundation|教育捐赠基金会]][[Research Schools Network|研究学校网络]]（EEF Research Schools Network）**
 >   由 EEF 评选标杆学校担任区域[[Innovation Hub|创新枢纽]]，面向全区中小学校长与教师开展常态化循证教学培训，依托学者与一线教师深度结对开展学习对话（Learning Conversations），在课堂真实情境中协同调试与[[Going Native|本土化]]创生教学证据。[[Argument_Revai_2022_ChangingLandscape|(EEF, 2019; Révai, 2022, pp. 20–21)]]
 > - **英国[[Teaching and Learning Research Programme|教学与学习研究项目]]（Teaching and Learning Research Programme，TLRP，2000–2011）**
 >   将教师与决策官员作为平等研究伙伴嵌入立项与执行全过程，跨越高校与中小学校际边界组建跨专业学习共同体，联合界定实践难题并协同完成研究设计与成果转化，为全系统培育兼具学术洞察与实践敏感度的跨界人才。[[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, pp. 20–21)]]
@@ -141,13 +145,13 @@ updated: 2026-09-12
 
 ## 证据使用生态的演进机制与双层架构
 
-> [!phase] Gough 证据使用生态分析框架的三阶段范式演进（Gough et al., 2011, 2018, 2019; Torres, 2022）
+> [!phase] Gough [[Research Utilization|证据使用]]生态[[Analytic Framework|分析框架]]的三阶段[[Paradigm|范式]]演进（Gough et al., 2011, 2018, 2019; Torres, 2022）
 > - **生产-使用系统初构（Gough et al., 2011）**
 >   确立证据生产、中介与使用三元构件，率先将多元利益相关者参与、全系统协调及针对证据利用本身的“元研究”（Research on Evidence Production and Use）纳入统一图景。[[Argument_Torres_2022_KMModels|(Torres, 2022, pp. 41–42)]]
 > - **图式倒置凸显需求拉力（Gough, Maidment, & Sharples, 2018）**
 >   将传统置于左侧的研究生产移至右侧，将政策与实践决策移至左侧；通过打破自左向右阅读的心理定势，打破学术供给先验（Research Push）的惯性，突出实践需求拉力与中介支持的决定性地位。[[Argument_Torres_2022_KMModels|(Torres, 2022, p. 43)]]
 > - **双层嵌套生态确立（Gough, Thomas, & Oliver, 2019）**
->   确立双层嵌套架构：内层为狭义证据生态系统（证据综合、初级研究、沟通转译与决策采纳）；外层为广义的社会政治权力环境（行动者诉求、多元争鸣、治理体制与权力博弈）。[[Argument_Torres_2022_KMModels|(Torres, 2022, pp. 42–43)]]
+>   确立双层嵌套架构：内层为狭义证据生态系统（证据综合、初级研究、沟通[[Transfer Translation Transformation|转译]]与决策采纳）；外层为广义的社会政治权力环境（行动者诉求、多元争鸣、治理体制与权力博弈）。[[Argument_Torres_2022_KMModels|(Torres, 2022, pp. 42–43)]]
 
 > [!dimension] 证据生态系统的深化演化轨迹（Torres, 2022, pp. 44–46）
 > - **构件交互：从孤立管道走向双层嵌套生态**
@@ -244,7 +248,7 @@ updated: 2026-09-12
 > |---|---|---|---|
 > | **系统激活** | 证据生态系统运转取决于全系统使能机制与战略协调，非单体孤立能力 | 宏观[[Epistemic Governance\|知识治理]]规划、国家教育研发政策 | [[Argument_Revai_2022_ChangingLandscape\|Révai, N. (2022)]]; Best & Holmes (2010) |
 > | **激励错位** | 传统学术期刊评价体制与耗时的跨界共创存在深层结构冲突 | 大学科研管理改革、学术成果考评机制 | Cherney et al. (2012); Burkhardt & Schoenfeld (2021) |
-> | **专业启发** | 研究证据旨在启发与丰富专业判断，而非提供自动化处方或替代价值裁决 | 课堂教学改进、证据知情决策审议 | Nutley et al. (2013); Sharples (2013) |
+> | **专业启发** | 研究证据旨在启发与丰富专业判断，而非提供自动化处方或替代价值裁决 | 课堂教学改进、[[Evidence-Informed Decision-Making\|证据知情决策]]审议 | Nutley et al. (2013); Sharples (2013) |
 > | **共创张力** | 知识共创能保障现实关涉度，但在方法严谨度与跨情境可迁移性上面临治理挑战 | [[Research-Practice Partnership\|研究-实践伙伴关系]]建设、协同创新项目评估 | Cooper et al. (2017); Enthoven & de Bruijn (2010) |
 
 ---
@@ -253,9 +257,9 @@ updated: 2026-09-12
 
 > [!dev-timeline] 概念演变
 > - **2000s 初 — 部门知识管理赤字诊断** [[Centre for Educational Research and Innovation|经合组织教育研究与创新中心]]（CERI）跨部门调查揭示，教育系统相较于医疗与农业部门存在严重的知识管理与研发赤字。[[Argument_Revai_2022_ChangingLandscape|(OECD, 2000, 2003; Révai, 2022, p. 16)]]
-> - **2000s 中 — 循证金标准扩散与中介库兴起** 英美等国强力推行[[Positivism|实证主义]]循证运动，设立美国什么是有效研究所（[[What Works Clearinghouse]]，WWC）与新西兰最佳证据综合（Best Evidence Synthesis，BES），尝试以等级化因果干预库指导决策。[[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, pp. 16–17)]]
+> - **2000s 中 — 循证金标准扩散与中介库兴起** 英美等国强力推行[[Positivism|实证主义]]循证运动，设立美国什么是有效研究所（[[What Works Clearinghouse]]，WWC）与新西兰[[Best Evidence Synthesis|最佳证据综合]]（Best Evidence Synthesis，BES），尝试以等级化因果干预库指导决策。[[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, pp. 16–17)]]
 > - **2010 — 复杂系统模型与嵌套[[Paradigm|范式]]确立** Best & Holmes (2010) 提出[[Knowledge Mobilisation|知识动员]]三代嵌套演进模型（线性模型、关系模型、复杂系统模型），奠定了证据生态系统的理论骨架。[[Argument_Revai_2022_ChangingLandscape|(Best & Holmes, 2010; Révai, 2022, pp. 18–19)]]
-> - **2011–2019 — 系统级中介、双层嵌套与研究学校网络探索** 英国 [[Teaching and Learning Research Programme|TLRP]] 项目（2000–2011）与英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）研究学校网络相继落地，探索将评估、[[Transfer Translation Transformation|转译]]与实践反思有机统整的生态实践模式。[[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, pp. 20–21)]] 同时，Gough et al. (2011, 2018, 2019) 历经近十年演进，提出反转供需构图的需求拉力模型，并以虚线确立狭义证据生态与广义社会政治环境的双层嵌套生态架构。[[Argument_Torres_2022_KMModels|(Torres, 2022, pp. 41–43)]]
+> - **2011–2019 — 系统级中介、双层嵌套与[[Research Schools Network|研究学校网络]]探索** 英国 [[Teaching and Learning Research Programme|TLRP]] 项目（2000–2011）与英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）研究学校网络相继落地，探索将评估、[[Transfer Translation Transformation|转译]]与实践反思有机统整的生态实践模式。[[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, pp. 20–21)]] 同时，Gough et al. (2011, 2018, 2019) 历经近十年演进，提出反转供需构图的需求拉力模型，并以虚线确立狭义证据生态与广义社会政治环境的双层嵌套生态架构。[[Argument_Torres_2022_KMModels|(Torres, 2022, pp. 41–43)]]
 > - **2021–2022 — 跨国政策调查与五维诊断体系** [[OECD]] 启动[[Strengthening the Impact of Education Research Project|强化教育研究影响力项目]]，覆盖 29 国 37 个教育系统，正式构建涵盖结构、关系、质量、文化与能力的证据生态系统五维[[Analytic Framework|分析框架]]。[[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, pp. 24–27)]]
 > - **2022 — 跨领域知识动员模型生态演进比较** [[Argument_Torres_2022_KMModels|Torres (2022)]] 横向比照卫生、公共治理与教育领域主流知识动员模型，提炼出构件交互从孤立管道走向双层嵌套生态、行动者定位从一维标签走向多维功能复合体的深层演化轨迹，并提出兼具自适应机制与崇高教育目标的下一代生态构建路径。[[Argument_Torres_2022_KMModels|(Torres, 2022, pp. 43–46, 51–52)]]
 
@@ -301,4 +305,4 @@ updated: 2026-09-12
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Revai_2022_ChangingLandscape|Révai, N. (2022)]] — 梳理国际循证政策二十年演变历程，系统构建线性-关系-系统嵌套模型与五维[[Analytic Framework|分析框架]]，奠定跨国证据生态治理实证基底。
 > - [[Argument_Revai(Ed.)_2022_OECD|Révai, N. (Ed.) (2022)]] — [[OECD]] [[Strengthening the Impact of Education Research Project|强化教育研究影响力项目]]全景研究成果，基于 29 国 37 个教育系统调查摸排证据生态治理机制。
-> - [[Argument_Torres_2022_KMModels|Torres, P. (2022)]] — 系统横向比较跨领域主流与前沿知识动员模型，揭示证据生态的双层嵌套演化规律与下一代自适应生态治理路径。
+> - [[Argument_Torres_2022_KMModels|Torres, P. (2022)]] — 系统横向比较跨领域主流与前沿[[Knowledge Mobilisation|知识动员]]模型，揭示证据生态的双层嵌套演化规律与下一代自适应生态治理路径。

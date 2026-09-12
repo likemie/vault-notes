@@ -8,7 +8,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 40
+fact_related_count: 41
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -55,6 +55,7 @@ related_persons:
 related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[Ofsted]]"
+  - "[[Research Schools Network]]"
   - "[[Playing for Success]]"
   - "[[What Works Network]]"
 related_arguments:
@@ -69,7 +70,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: '2026-06-08'
+updated: 2026-09-13
 ---
 
 ## 背景
@@ -87,7 +88,7 @@ updated: '2026-06-08'
 > [!note]- 官方认可与欧洲定位
 > 英国教育部在 Coldwell et al.（2017）报告中将 EEF 列为官方认可的证据来源之一（与 Sutton Trust 和 [[John Hattie]] 并列），同时将 [[Ofsted]] 和议会内部报告排除在证据定义之外([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.4, 27]])。
 >
-> [[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet (2021)]]将 EEF 放入欧洲证据基础设施中理解：EEF 不仅维护 Toolkit，还资助独立评价、开展研究综述，并通过 Research Schools Network 支持学校使用证据；其功能与 [[Educational Evidence Clearinghouses]] 和 [[Knowledge Mobilisation]] 相连接（pp.32–33）。
+> [[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet (2021)]]将 EEF 放入欧洲证据基础设施中理解：EEF 不仅维护 Toolkit，还资助独立评价、开展研究综述，并通过 [[Research Schools Network]] 支持学校使用证据；其功能与 [[Educational Evidence Clearinghouses]] 和 [[Knowledge Mobilisation]] 相连接（pp.32–33）。
 
 ---
 

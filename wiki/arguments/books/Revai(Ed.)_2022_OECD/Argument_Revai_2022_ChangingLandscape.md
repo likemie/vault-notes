@@ -7,9 +7,9 @@ title: "Argument_Revai_2022_ChangingLandscape"
 argument_key: "Argument_Revai_2022_ChangingLandscape"
 argument_display_title: "The changing landscape of research use in education"
 argument_kind: "book-chapter"
-argument_related_count: 59
-argument_related_level: 3
-argument_related_stars: "⭐⭐⭐"
+argument_related_count: 60
+argument_related_level: 4
+argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
 authors:
   - "[[Nóra Révai|Révai, N.]]"
@@ -94,6 +94,7 @@ related_facts:
   - "[[What Works Clearinghouse]]"
   - "[[EPPI-Centre]]"
   - "[[Teaching and Learning Research Programme]]"
+  - "[[Research Schools Network]]"
   - "[[Research Excellence Framework]]"
   - "[[No Child Left Behind Act 2001]]"
 related_arguments: []
@@ -254,7 +255,7 @@ updated: 2026-09-12
 
 在英国 EEF 等新兴中介实践中，系统论思维被具象化为[[Evidence Ecosystem|证据生态系统]]框架：（pp.20–21）
 
-> [!case] 证据生态系统的全链条激活实践：英国 EEF 研究学校网络
+> [!case] 证据生态系统的全链条激活实践：英国 EEF [[Research Schools Network|研究学校网络]]
 > - **研究学校网络（Research Schools Network）**
 >   由 EEF 评选标杆学校担任区域[[Innovation Hub|创新枢纽]]，面向全区中小学校长与教师开展常态化循证教学培训，打破大学与中小学的制度壁垒。[[Argument_Revai_2022_ChangingLandscape|(EEF, 2019; Révai, 2022, pp. 20–21)]]
 > - **研究学习网络（Research Learning Networks, RLNs）**

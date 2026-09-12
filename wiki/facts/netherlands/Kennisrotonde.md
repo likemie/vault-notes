@@ -10,7 +10,7 @@ subtype: organization
 region: netherlands
 fact_region: "netherlands"
 fact_kind: "organization"
-fact_related_count: 20
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -46,6 +46,7 @@ related_persons: []
 related_facts:
   - "[[OECD]]"
   - "[[Education Endowment Foundation]]"
+  - "[[Research Schools Network]]"
   - "[[Centre for the Use of Research and Evidence in Education]]"
   - "[[What Works Clearinghouse]]"
 related_arguments:
@@ -101,7 +102,7 @@ updated: 2026-09-13
 > [!finding-cards] Kennisrotonde 核心贡献
 > - **解决语言壁垒** 荷兰语通俗化知识门户有效解决了一线教师因语言障碍无法获取英语学术研究的现实困境，大幅降低了[[Research Utilization|研究利用]]的认知门槛。
 > - **定制问答模式的创新价值** 将被动的证据"推送"（Push）转变为由实践者需求驱动的主动"拉取"（Pull）机制，使[[Research Question|研究问题]]与课堂实践真实需求高度对接；发布为公共知识库后，同类困惑教师均可直接受益。
-> - **作为国际中介模式创新的参照** [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]]将 Kennisrotonde 与荷兰 NRO 知识门户并列列举，作为"目标受众向基层实践下沉的代表性中介机制"，与英国 [[Education Endowment Foundation|EEF]] 研究学校网络及 [[Centre for the Use of Research and Evidence in Education|CUREE]] 等并列，证明非 [[Randomised Controlled Trials|RCT]] 文化导向的证据中介亦可实现高度的课堂采纳与专业影响。([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 62]])
+> - **作为国际中介模式创新的参照** [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]]将 Kennisrotonde 与荷兰 NRO 知识门户并列列举，作为"目标受众向基层实践下沉的代表性中介机制"，与英国 [[Education Endowment Foundation|EEF]] [[Research Schools Network|研究学校网络]]及 [[Centre for the Use of Research and Evidence in Education|CUREE]] 等并列，证明非 [[Randomised Controlled Trials|RCT]] 文化导向的证据中介亦可实现高度的课堂采纳与专业影响。([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 62]])
 
 ---
 
@@ -125,5 +126,5 @@ updated: 2026-09-13
 > | [[Research Utilization]] | 概念 | 通过定制化研究问答将学术证据直接转化为教师课堂决策，提升实践端的研究利用率。 |
 > | [[Evidence-Informed Practice]] | 概念 | Kennisrotonde 的核心使命是将学术证据转化为一线教育实践的实用依据。 |
 > | [[Cumulative Knowledge Base]] | 概念 | 作为单体基层中介，须与跨国元协作机制协同，方能共同支撑跨国累积性知识大厦。 |
-> | [[Education Endowment Foundation]] | 机构事实 | Burns & Schuller 将其与 EEF 研究学校网络并列为"基层实践导向型"中介的代表案例。 |
+> | [[Education Endowment Foundation]] | 机构事实 | Burns & Schuller 将其与 EEF [[Research Schools Network\|研究学校网络]]并列为"基层实践导向型"中介的代表案例。 |
 > | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]] | 论证条目 | 将 Kennisrotonde 定位为实践导向型知识中介创新，论证其在基层受众触达与母语转化上的制度优势。 |
