@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Educational Evidence Clearinghouses",
+      "path": "wiki/concepts/educational-policy-reform/Educational Evidence Clearinghouses.md"
+    },
+    {
       "basename": "Argument_Burns_Schuller_2022_BrokerageAgencies",
       "path": "wiki/arguments/books/Revai(Ed.)_2022_OECD/Argument_Burns_Schuller_2022_BrokerageAgencies.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "PISA for Development",
       "path": "wiki/facts/global/PISA for Development.md"
-    },
-    {
-      "basename": "Programme for the International Assessment of Adult Competencies",
-      "path": "wiki/facts/global/Programme for the International Assessment of Adult Competencies.md"
     }
   ],
   "omittedPaths": [],
