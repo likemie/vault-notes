@@ -13,7 +13,7 @@ person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
 born: "c. 1960"
 died: ""
-lifespan: ""
+lifespan: "c. 1960–至今"
 tags:
   - person/uk
   - theme/knowledge-brokerage

@@ -192,7 +192,7 @@ updated: 2026-09-13
 
 > [!dimension] [[International Education|国际教育]]中介机构的三维治理谱系（Burns & Schuller, 2022; pp. 61–64）
 > - **治理依附关系维度（Institutional Location）**
->   机构在体制上与中央/地方教育行政部门的从属关系，涵盖部委内部直属嵌入型（如新西兰 [[Best Evidence Synthesis|BES]]、荷兰 Kenniskamer）、政府资助的独立法定法人型（如日本 NIER、挪威知识中心、加拿大 [[Canadian Council on Learning|CCL]]），以及完全独立的民间慈善/基金型（如英国 [[Education Endowment Foundation|EEF]]、土耳其 ERG）。
+>   机构在体制上与中央/地方教育行政部门的从属关系，涵盖部委内部直属嵌入型（如新西兰 [[Best Evidence Synthesis|BES]]、荷兰 [[Kenniskamer]]）、政府资助的独立法定法人型（如日本 [[National Institute for Educational Policy Research|NIER]]、挪威知识中心、加拿大 [[Canadian Council on Learning|CCL]]），以及完全独立的民间慈善/基金型（如英国 [[Education Endowment Foundation|EEF]]、土耳其 ERG）。
 > - **目标受众与沟通定位维度（Target Audience）**
 >   机构的核心服务对象与信息转译方向，分化为服务内阁宏观立法的政策导向型、服务中小学课堂日常的实践导向型（如荷兰 NRO [[Kennisrotonde|知识环岛]]、EEF 工具包），以及专门反制媒体伪科学炒作的媒介沟通型（如[[Education Media Centre|英国教育媒体中心]]）。
 > - **证据审查与方法学立场维度（Synthesis Stance）**
@@ -321,7 +321,7 @@ updated: 2026-09-13
 > 探讨公共资助教育中介与清算机构在生命周期上的非绩效存续悖论，以及超越机构孤岛构建跨国累积性知识基石的组织化进路。
 
 > [!claim] [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]]
-> **政治预算周期[[Determinism|决定论]]与元中介协同** 纵向考察[[OECD|经合组织]] 2007 年确立的 6 家标杆清算与中介机构，历经十五年仅有 2 家（美国 WWC 与英国 [[EPPI-Centre]]）保持完全活跃，多达 4 家发生关停（加拿大 [[Canadian Council on Learning|CCL]]、丹麦 Clearinghouse）、收缩（新西兰 [[Best Evidence Synthesis|BES]]）或停摆（荷兰 Kenniskamer）。机构淘汰的核心推手绝非成效评估证实“绩效不佳”，而是源于 2 至 3 年的政党轮替与财政预算短周期与教育改革所需漫长显效[[Incubation|潜伏期]]的结构性错配；在预算紧缩与换届压力下，耗时漫长的中介成效评估几乎被行政部门完全跳过（OECD, 2009）。单一机构即便在本土取得成功，其实证综合规模与公信力依然受限；必须超越机构孤岛，在跨国层面协同推进“中介的中介”（Brokering the Brokers），通过联合攻关二阶[[Systematic Review|系统综述]]（Reviews of Reviews）与元协调机制，方能建立起经得起检验、被广泛公认的累积性教育知识基石([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 64–68]])。
+> **政治预算周期[[Determinism|决定论]]与元中介协同** 纵向考察[[OECD|经合组织]] 2007 年确立的 6 家标杆清算与中介机构，历经十五年仅有 2 家（美国 WWC 与英国 [[EPPI-Centre]]）保持完全活跃，多达 4 家发生关停（加拿大 [[Canadian Council on Learning|CCL]]、丹麦 Clearinghouse）、收缩（新西兰 [[Best Evidence Synthesis|BES]]）或停摆（荷兰 [[Kenniskamer]]）。机构淘汰的核心推手绝非成效评估证实“绩效不佳”，而是源于 2 至 3 年的政党轮替与财政预算短周期与教育改革所需漫长显效[[Incubation|潜伏期]]的结构性错配；在预算紧缩与换届压力下，耗时漫长的中介成效评估几乎被行政部门完全跳过（OECD, 2009）。单一机构即便在本土取得成功，其实证综合规模与公信力依然受限；必须超越机构孤岛，在跨国层面协同推进“中介的中介”（Brokering the Brokers），通过联合攻关二阶[[Systematic Review|系统综述]]（Reviews of Reviews）与元协调机制，方能建立起经得起检验、被广泛公认的累积性教育知识基石([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 64–68]])。
 
 ---
 

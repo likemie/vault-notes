@@ -20228,6 +20228,16 @@
     ]
   },
   {
+    "title": "National Institute for Educational Policy Research",
+    "type": "fact",
+    "path": "wiki/facts/japan/National Institute for Educational Policy Research.md",
+    "aliases": [
+      "NIER",
+      "国立教育政策研究所",
+      "日本国立教育政策研究所"
+    ]
+  },
+  {
     "title": "Japan Innovation Policy System",
     "type": "fact",
     "path": "wiki/facts/japan/Japan Innovation Policy System.md",
@@ -20367,6 +20377,16 @@
     "aliases": [
       "跨国主义与美国项目",
       "SYSU Transnationalism and America"
+    ]
+  },
+  {
+    "title": "Kenniskamer",
+    "type": "fact",
+    "path": "wiki/facts/netherlands/Kenniskamer.md",
+    "aliases": [
+      "Dutch Knowledge Chamber",
+      "知识室",
+      "荷兰教育部知识室"
     ]
   },
   {
@@ -20532,6 +20552,16 @@
     "aliases": [
       "北方基金会毛利与太平洋岛民教育计划",
       "MPEI"
+    ]
+  },
+  {
+    "title": "Kunnskapssenter for utdanning",
+    "type": "fact",
+    "path": "wiki/facts/norway/Kunnskapssenter for utdanning.md",
+    "aliases": [
+      "Norwegian Knowledge Centre for Education",
+      "挪威教育知识中心",
+      "Knowledge Centre for Education"
     ]
   },
   {

@@ -10,13 +10,13 @@ subtype: organization
 region: netherlands
 fact_region: "netherlands"
 fact_kind: "organization"
+fact_related_count: 20
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
+fact_related_color: "#dcfce7"
 org_type: "国家教育研究所下设知识中介门户"
 headquarters: "荷兰乌得勒支（Utrecht）"
 established: "2015"
-fact_related_count: 12
-fact_related_level: 1
-fact_related_stars: "⭐"
-fact_related_color: "#dcfce7"
 issuing_organization: Netherlands Initiative for Education Research
 tags:
   - region/netherlands
@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: '2026-09-13'
+updated: 2026-09-13
 ---
 
 # Kennisrotonde
