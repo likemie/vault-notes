@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Richard Rose",
-      "path": "wiki/persons/uk/Richard Rose.md"
+      "basename": "Argument_Peterson_1987_OpenCourt_Ch06",
+      "path": "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch06.md"
+    },
+    {
+      "basename": "Abstract",
+      "path": "wiki/concepts/academic-writing/Abstract.md"
+    },
+    {
+      "basename": "Unit of Analysis",
+      "path": "wiki/concepts/research-methodology/Unit of Analysis.md"
+    },
+    {
+      "basename": "Absorptive Capacity",
+      "path": "wiki/concepts/educational-leadership-administration/Absorptive Capacity.md"
     },
     {
       "basename": "Argument_Steiner-Khamsi_2024_CE",
       "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Steiner-Khamsi_2024_CE.md"
+    },
+    {
+      "basename": "Richard Rose",
+      "path": "wiki/persons/uk/Richard Rose.md"
     },
     {
       "basename": "Technologies of Exclusion",
@@ -183,22 +199,6 @@
     {
       "basename": "Knowledge Production",
       "path": "wiki/concepts/university-industry-collaboration/Knowledge Production.md"
-    },
-    {
-      "basename": "International Indicators of Education Systems",
-      "path": "wiki/facts/global/International Indicators of Education Systems.md"
-    },
-    {
-      "basename": "Sputnik Shock 1957",
-      "path": "wiki/facts/us/Sputnik Shock 1957.md"
-    },
-    {
-      "basename": "Transfer Translation Transformation",
-      "path": "wiki/concepts/comparative-education/Transfer Translation Transformation.md"
-    },
-    {
-      "basename": "Historical-Comparative Method",
-      "path": "wiki/methods/qualitative/Historical-Comparative Method.md"
     }
   ],
   "omittedPaths": [],

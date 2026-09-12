@@ -23,18 +23,13 @@
             }
           },
           {
-            "id": "b8a30d52ebcef69e",
+            "id": "38ce6d7010c62435",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/persons/uk/Richard Rose.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Richard Rose"
+              "title": "新标签页"
             }
           }
         ],
@@ -230,15 +225,20 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "b8a30d52ebcef69e",
+  "active": "1938c14344215b35",
   "lastOpenFiles": [
+    "raw/d7ff793d-en.pdf",
+    "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch06.md",
+    "wiki/concepts/academic-writing/Abstract.md",
+    "wiki/concepts/research-methodology/Unit of Analysis.md",
+    "wiki/concepts/educational-leadership-administration/Absorptive Capacity.md",
+    "wiki/arguments/journal-articles/Comparative Education/Argument_Steiner-Khamsi_2024_CE.md",
+    "wiki/persons/uk/Richard Rose.md",
     "wiki/facts/global/World Bank Education Sector Policy Paper 1980.md",
     "wiki/facts/global/Organisation for European Economic Co-operation.md",
     "wiki/concepts/comparative-education/Knowledge Bank.md",
     "wiki/concepts/comparative-education/Warehousing of Good Practices.md",
-    "wiki/arguments/journal-articles/Comparative Education/Argument_Steiner-Khamsi_2024_CE.md",
     "wiki/persons/us/Christopher Lubienski.md",
-    "wiki/persons/uk/Richard Rose.md",
     "wiki/facts/global/Education GPS.md",
     "wiki/concepts/comparative-education/Technologies of Exclusion.md",
     "wiki/facts/global/Education Policy Outlook.md",
@@ -253,11 +253,6 @@
     "wiki/facts/global/PISA for Development.md",
     "wiki/facts/global/Programme for the International Assessment of Adult Competencies.md",
     "wiki/facts/global/Teaching and Learning International Survey.md",
-    "wiki/facts/global/Global Partnership for Education.md",
-    "wiki/facts/global/Multiple Indicator Cluster Surveys.md",
-    "wiki/facts/global/UNICEF.md",
-    "wiki/facts/global/UNESCO.md",
-    "wiki/facts/global/World Bank.md",
     "wiki/persons/se",
     "wiki/persons/de",
     "wiki/persons/dk",
