@@ -142,9 +142,9 @@ updated: 2026-09-12
 
 > [!policy-design]- 全球产品线全景扩张
 > - **PISA for Schools** — 将跨国评估指标下沉至单一学校层面，为学校改进提供国际对标诊断。
-> - **PISA for Development (PISA-D)** — 针对中低收入发展中国家定制的评估工具，扩大在南半球的政策影响力。
+> - **[[PISA for Development]] (PISA-D)** — 针对中低收入发展中国家定制的评估工具，扩大在南半球的政策影响力。
 > - **[[Baby PISA]]（IELS）** — 国际早期学习与儿童福祉研究，将标准化量化测评延伸至 5 岁幼儿阶段。
-> - **PIAAC** — 国际成人能力评估项目，全面测量 16–65 岁劳动力人口的信息处理与职业技能。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]
+> - **[[Programme for the International Assessment of Adult Competencies|PIAAC]]** — 国际成人能力评估项目，全面测量 16–65 岁劳动力人口的信息处理与职业技能。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]
 
 ---
 

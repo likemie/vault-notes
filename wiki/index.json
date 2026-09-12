@@ -19597,6 +19597,18 @@
     ]
   },
   {
+    "title": "Global Education Monitoring Report",
+    "type": "fact",
+    "path": "wiki/facts/global/Global Education Monitoring Report.md",
+    "aliases": [
+      "GEMR",
+      "全球教育监测报告",
+      "EFA Global Monitoring Report",
+      "EFA 全球监测报告",
+      "UNESCO GEMR"
+    ]
+  },
+  {
     "title": "International Indicators of Education Systems",
     "type": "fact",
     "path": "wiki/facts/global/International Indicators of Education Systems.md",
@@ -19653,6 +19665,16 @@
     ]
   },
   {
+    "title": "Multiple Indicator Cluster Surveys",
+    "type": "fact",
+    "path": "wiki/facts/global/Multiple Indicator Cluster Surveys.md",
+    "aliases": [
+      "MICS",
+      "多指标聚类调查",
+      "UNICEF MICS"
+    ]
+  },
+  {
     "title": "OECD AHELO Project",
     "type": "fact",
     "path": "wiki/facts/global/OECD AHELO Project.md",
@@ -19682,6 +19704,28 @@
     ]
   },
   {
+    "title": "PISA for Development",
+    "type": "fact",
+    "path": "wiki/facts/global/PISA for Development.md",
+    "aliases": [
+      "PISA-D",
+      "发展中国家PISA",
+      "发展型PISA",
+      "OECD PISA-D"
+    ]
+  },
+  {
+    "title": "Programme for the International Assessment of Adult Competencies",
+    "type": "fact",
+    "path": "wiki/facts/global/Programme for the International Assessment of Adult Competencies.md",
+    "aliases": [
+      "PIAAC",
+      "国际成人能力评估项目",
+      "成人能力国际评估",
+      "OECD PIAAC"
+    ]
+  },
+  {
     "title": "Systems Approach for Better Education Results",
     "type": "fact",
     "path": "wiki/facts/global/Systems Approach for Better Education Results.md",
@@ -19690,6 +19734,17 @@
       "SABER",
       "系统性教育成效提升法",
       "Systems Approach for Better Education Results (SABER)"
+    ]
+  },
+  {
+    "title": "Teaching and Learning International Survey",
+    "type": "fact",
+    "path": "wiki/facts/global/Teaching and Learning International Survey.md",
+    "aliases": [
+      "TALIS",
+      "教师教学国际调查",
+      "国际教学与学习调查",
+      "OECD TALIS"
     ]
   },
   {

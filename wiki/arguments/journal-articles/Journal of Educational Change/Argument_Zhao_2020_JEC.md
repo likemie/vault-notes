@@ -204,7 +204,7 @@ PISA 推广者将威权教育系统中的自我谴责特质美化为教育卓越
 >
 > **评估领域的扩展**。从阅读、数学和科学扩展到财经素养、协作问题解决、全球能力，以及可能的[[Creativity|创造力]]。
 >
-> **产品线的扩展**。PISA for Schools、PISA for Development、[[Baby PISA]]（国际早期学习和儿童福祉研究）。Baby PISA 旨在以 PISA 评估 15 岁学生的方式评估 5 岁儿童，这意味着 PISA 企业将成为不仅是学校质量而且是学前班、社区和家庭质量的仲裁者。加上评估 16-65 岁技能的 PIAAC，PISA 企业将成为从学前班到高中到退休的全球教育政治、政策和实践中最有影响力的单一机构。
+> **产品线的扩展**。PISA for Schools、[[PISA for Development]]、[[Baby PISA]]（国际早期学习和儿童福祉研究）。Baby PISA 旨在以 PISA 评估 15 岁学生的方式评估 5 岁儿童，这意味着 PISA 企业将成为不仅是学校质量而且是学前班、社区和家庭质量的仲裁者。加上评估 16-65 岁技能的 [[Programme for the International Assessment of Adult Competencies|PIAAC]]，PISA 企业将成为从学前班到高中到退休的全球教育政治、政策和实践中最有影响力的单一机构。
 
 许多批评者希望拯救 PISA，希望看到 PISA 改进。但 PISA 不太可能显著改善，至少不是在批评者希望的方向上。技术改进可以进行，但技术修复几乎无法改变 PISA 的教育观，这是整个 PISA 企业建立的基础。因此，更合理的行动可能是完全忽视它，或者希望 PISA 自己结束。
 

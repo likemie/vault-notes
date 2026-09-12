@@ -89,7 +89,7 @@ updated: 2026-09-12
 > [!actor-grid] 组织治理架构
 > - **决策机构（大会 / 执行局）** 大会（General Conference）为最高审议中枢，每两年召开一次，全体成员国实行“一国一票”平等表决权；执行局（Executive Board）由 58 名当选成员国代表组成，负责监督经常预算与战略执行。
 > - **执行机构（总干事 / 教育助理总干事）** 秘书处设在巴黎，由总干事统率，教育助理总干事（ADG/ED）直接主管教育部门，统筹未来学习、[[Lifelong Learning|终身学习]]、包容与技术职业教育等常设处室。
-> - **专家与审议委员会** 全球教育监测报告（GEMR）独立专家顾问委员会、教科文组织教席网络（UNESCO Chairs Network）以及下设的一类机构管委会（[[International Institute for Educational Planning|IIEP]]、UIS、IBE、UIL 等）。
+> - **专家与审议委员会** [[Global Education Monitoring Report|全球教育监测报告]]（GEMR）独立专家顾问委员会、教科文组织教席网络（UNESCO Chairs Network）以及下设的一类机构管委会（[[International Institute for Educational Planning|IIEP]]、UIS、IBE、UIL 等）。
 > - **会员与外部利益相关者** 拥有极具特色的“国家委员会”（National Commissions for UNESCO）系统，深度联结各主权国教育部、外交部、高校学术界与民间公民社会团体。
 
 > [!pathways]- 业务运行机制
@@ -105,7 +105,7 @@ updated: 2026-09-12
 > - **指南、规程与标准体系** 《[[International Education|国际教育]]标准分类》（ISCED）；《全球高等教育学历学位互认公约》；《人工智能伦理与教育建议书》；女童教育行动规范指南。
 > - **数据库、证据库与监测平台** 联合国教科文组织统计研究所数据库（UIS Databank，全球官方教育数据核心权威源）；[[UN Sustainable Development Goals|SDG 4]] 进展指标基准库（Global Education Observatory）。
 > - **旗舰项目、调查与测评** 发展中国家国家教育战略规划技术援助（由 [[International Institute for Educational Planning|IIEP]] 执行）；扫盲先锋奖；世界遗产与[[Sustainability Education|可持续发展教育]]网络；与[[World Bank|世行]]、[[UNICEF]] 联合发起的[[Learning Data Compact|学习数据契约]]。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 545)]]
-> - **旗舰出版物与咨询成果** 《全球教育监测报告》（GEMR，年度独立报告）；《教育的未来：一种新的社会契约》（2021）；《全球水资源开发报告》与教育科学政策丛书。
+> - **旗舰出版物与咨询成果** 《[[Global Education Monitoring Report|全球教育监测报告]]》（GEMR，年度独立报告）；《教育的未来：一种新的社会契约》（2021）；《全球水资源开发报告》与教育科学政策丛书。
 
 > [!citation-card] 教科文组织与世界银行的制度[[Paradigm|范式]]分野
 > 在早期岁月，世界银行的教育项目组合与教科文组织几乎无异；然而，与世界银行形成鲜明对照的是，教科文组织始终秉持一种人道主义与人权驱动的教育理念。两家机构虽然在 1964 年签署了合作协定，但随着世界银行在教科文组织的帮助下打开了通往全球南方国家的大门，它便开始与教科文组织拉开距离。事实证明，这两家机构既没有共同的政策愿景与战略重点，也没有共同的治理运作模式。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
@@ -118,7 +118,7 @@ updated: 2026-09-12
 
 > [!indicators]- 影响力维度与指标
 > - **资源与网络规模** 经常性预算年均约 3–4 亿美元，全球雇员与专家约 2,500 人；覆盖 194 个成员国，建立超 800 个教科文组织大学教席和数千所联系学校网络（ASPnet）。
-> - **学术与[[Knowledge Production|知识生产]]** ISCED 成为全球所有国家官方统计的母体基准；GEMR 报告被各国学者、联合国大会及发展机构公认为最权威的全球教育政策审议[[Document|文献]]。
+> - **学术与[[Knowledge Production|知识生产]]** ISCED 成为全球所有国家官方统计的母体基准；[[Global Education Monitoring Report|GEMR]] 报告被各国学者、联合国大会及发展机构公认为最权威的全球教育政策审议[[Document|文献]]。
 > - **政策与制度渗透** 主导确立了 [[Exploratory Factor Analysis|EFA]] 和 [[UN Sustainable Development Goals|SDG 4]] 全球政治共识，促使数十个发展中国家将“免费普及初等教育”、“受教育权”写入国家宪法与基础教育法案。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
 
 > [!finding-cards] 关键成效与辐射影响

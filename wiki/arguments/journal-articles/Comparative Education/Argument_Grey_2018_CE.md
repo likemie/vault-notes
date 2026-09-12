@@ -296,7 +296,7 @@ issuing_organization: ""
 国际组织对国内政治力量对其数据的公然曲解往往保持心照不宣的默许。
 
 > [!warrant]- 跨国评估机构与国内政客的象征性共谋
-> 为什么面对英格兰政客对报告结论的公然扭曲，OECD 几乎从不公开发声纠偏？因为对于 OECD 而言，最核心的战略利益并不在于确保具体政策是否百分之百忠实于其建议，而在于确保全球范围内的教育话语被牢牢锁定在由其定义的量化评估框架之内。只要各国政客与媒体将 PISA 视为不可动摇的卓越质量金标准，OECD 的品牌霸权与治理工具（如后续衍生的早期学习与儿童福祉研究［[[Baby PISA|International Early Learning and Child Well-being Study]]，俗称幼儿版国际学生评估项目，[[Baby PISA]]］、国际成人能力评估项目［Programme for the International Assessment of Adult Competencies, PIAAC］以及校级国际学生评估项目［PISA for Schools］）便能顺利实现市场扩张。数据的可塑性（plasticity, Carvalho 2014）恰恰构成了 PISA 获得跨国成功的关键商品特质。（pp. 125–126）
+> 为什么面对英格兰政客对报告结论的公然扭曲，OECD 几乎从不公开发声纠偏？因为对于 OECD 而言，最核心的战略利益并不在于确保具体政策是否百分之百忠实于其建议，而在于确保全球范围内的教育话语被牢牢锁定在由其定义的量化评估框架之内。只要各国政客与媒体将 PISA 视为不可动摇的卓越质量金标准，OECD 的品牌霸权与治理工具（如后续衍生的早期学习与儿童福祉研究［[[Baby PISA|International Early Learning and Child Well-being Study]]，俗称幼儿版国际学生评估项目，[[Baby PISA]]］、[[Programme for the International Assessment of Adult Competencies|国际成人能力评估项目]]［Programme for the International Assessment of Adult Competencies, PIAAC］以及校级国际学生评估项目［PISA for Schools］）便能顺利实现市场扩张。数据的可塑性（plasticity, Carvalho 2014）恰恰构成了 PISA 获得跨国成功的关键商品特质。（pp. 125–126）
 
 #### 2. 学术界的迟滞抵抗与民间反思
 

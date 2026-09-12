@@ -89,7 +89,7 @@ updated: 2026-09-12
 > | **行动主体** | 经济协调组织（[[OECD]]、世行）、区域贸易组织（ASEAN、Caricom） | [[UNESCO\|联合国教科文组织]]（UNESCO）、[[UNICEF\|联合国儿童基金会]]（UNICEF） | 跨国出版集团（Pearson）、咨询巨头（McKinsey） |
 > | **法定根基** | 无直接教育法定管辖权，依附于核心经济/安全使命 | 具有明文规定的[[International Education\|国际教育]]专门法定管辖权 | 商业合同、服务外包协议与政府采购招标 |
 > | **主导修辞** | “教育服务于经济增长/[[Human Capital Theory\|人力资本]]/[[Knowledge-Based Economy\|知识经济]]/和平稳定” | “受教育权为人本基本人权”、“包容与公平的优质教育” | “交付成效（Deliverology）”、“教育技术[[Return on Investment\|投资回报]]” |
-> | **治理工具** | 大型国际测验（[[PISA]]）、政策系统基准（SABER）、同行评审 | 国际公约、国家政策建议书、全球监测报告（GEMR） | 数字化教学软件、自适应评测系统、私立学校加盟协议 |
+> | **治理工具** | 大型国际测验（[[PISA]]）、政策系统基准（SABER）、同行评审 | 国际公约、国家政策建议书、全球监测报告（[[Global Education Monitoring Report\|GEMR]]） | 数字化教学软件、自适应评测系统、私立学校加盟协议 |
 
 ---
 

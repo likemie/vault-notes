@@ -125,7 +125,7 @@ updated: 2026-09-12
 > - **1961–1970s — OECD 改组与冷战“[[Development Turn in Comparative Education|发展转向]]”** 1961 年 OECD 正式取代 OEEC，美欧国家共同将其打造成抗衡苏联意识形态竞争的制度堡垒。在[[Economics of Education Movement|教育经济学运动]]影响下，OECD 系统确立将教育视为经济增长“生产性投资”的新范式，与[[International Institute for Educational Planning|联合国教科文组织国际教育规划研究所]]（International Institute for Educational Planning，IIEP）形成双翼，推动了比较教育的[[Development Turn in Comparative Education|发展转向]]。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 420–423)]]
 >   - 1962 启动著名的地中海地区项目（[[Mediterranean Regional Project]]，MRP），将[[Human Capital Theory|人力资本理论]]系统转化为南欧各国的国家教育发展规划。
 > - **1980s–1990s — 指标体系建构与管理主义转向** 1983 年美国《国家处在危险之中》（*[[A Nation at Risk 1983|A Nation at Risk]]*）报告发布后引发教育危机恐慌，时任美国教育部助理部长 Chester Finn Jr. 转向经合组织下设的[[Centre for Educational Research and Innovation|教育研究与创新中心]]（Centre for Educational Research and Innovation，CERI），委托并资助 CERI 主管 [[Jarl Bengtsson]] 团队研发跨国[[Performance Indicators|教育指标]]体系。这一关键转向促成了 1988 年[[International Indicators of Education Systems|国际教育系统指标]]（International Indicators of Education Systems，INES）项目网络的正式启动，标志着 OECD 彻底从传统的投入端与粗放人力核算转向关注教育系统的产出效能与质量问责，随后于 1992 年推出旗舰年度报告《[[Education at a Glance|教育概览]]》（Education at a Glance，EAG），为后来的跨国测试奠定了方法论与组织基础。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 540–542)]]
-> - **2000–至今 — 大数据时代、[[Governing at a Distance|远处治理]]与[[Policy Brokerage|政策中介]]深化** 2000 年推出首轮 [[PISA]] 测评，随后扩展至教师教学国际调查（Teaching and Learning International Survey，TALIS）、国际成人能力评估项目（Programme for the International Assessment of Adult Competencies，PIAAC）及面向全球南方的发展型 PISA（PISA for Development，PISA-D）。经合组织不仅开创了跨国量化排名的[[Governing by Numbers|数字治理]]（Governing by Numbers）模式，更通过深度工具打包，将其跨国测评与外向型国别横向借鉴相结合，演进为全球教育政策知识的重要中介者与规范制定者。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 424–425)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 543–545)]]
+> - **2000–至今 — 大数据时代、[[Governing at a Distance|远处治理]]与[[Policy Brokerage|政策中介]]深化** 2000 年推出首轮 [[PISA]] 测评，随后扩展至[[Teaching and Learning International Survey|教师教学国际调查]]（Teaching and Learning International Survey，TALIS）、[[Programme for the International Assessment of Adult Competencies|国际成人能力评估项目]]（Programme for the International Assessment of Adult Competencies，PIAAC）及面向全球南方的发展型 PISA（[[PISA for Development]]，PISA-D）。经合组织不仅开创了跨国量化排名的[[Governing by Numbers|数字治理]]（Governing by Numbers）模式，更通过深度工具打包，将其跨国测评与外向型国别横向借鉴相结合，演进为全球教育政策知识的重要中介者与规范制定者。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 424–425)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 543–545)]]
 
 ---
 
@@ -154,7 +154,7 @@ updated: 2026-09-12
 经合组织的业务网络覆盖了从学前教育、基础教育到高等教育与成年人[[Lifelong Learning|终身学习]]的完整生命周期。
 
 > [!finding-cards] 核心产品与业务矩阵
-> - **跨国大规模学业与技能测评体系** 主导实施 [[PISA]]（15岁学生阅读、数学、[[Scientific Literacy|科学素养]]测验）、TALIS（初中教师教学实践与[[School Leadership|学校领导力]]调查）及 PIAAC（成年人核心认知技能调查），构建起全球最庞大的教育实证数据基准。
+> - **跨国大规模学业与技能测评体系** 主导实施 [[PISA]]（15岁学生阅读、数学、[[Scientific Literacy|科学素养]]测验）、[[Teaching and Learning International Survey|TALIS]]（初中教师教学实践与[[School Leadership|学校领导力]]调查）及 [[Programme for the International Assessment of Adult Competencies|PIAAC]]（成年人核心认知技能调查），构建起全球最庞大的教育实证数据基准。
 > - **指标体系与旗舰出版物** 每年持续出版权威报告《[[Education at a Glance|教育概览]]》（Education at a Glance），维护[[International Indicators of Education Systems|国际教育系统指标]]（INES）体系，提供涵盖教育财政投入、入学机会、教师待遇与毕业生劳动力市场回报的跨国宏观数据。
 > - **国别教育政策审查（National Reviews）** 应受测国政府官方邀请，派出高级别国际专家组对特定国家的教育体系展开全景式实地诊断，其评估结论往往直接成为该国立法与拨款机制改革的政策依据。
 > - **前沿技能与课程框架研制** 研制并推广“学习罗盘2030”（Learning Compass 2030）与社会情感能力测评（Survey on Social and Emotional Skills，SSES），持续引导全球基础教育课程改革的价值走向。
@@ -217,13 +217,13 @@ updated: 2026-09-12
 > > [!axis] 测试品牌霸权与对本土政治曲解的象征性共谋
 > > 探讨 OECD 面对主权国家政客公然扭曲其报告实证结论时的默许立场与民主授权争议。
 > >
-> > - **品牌扩张与象征性共谋（批判视角）** 学者指出，面对本土政客（如英国 Michael Gove）利用“遗漏话语”将平稳数据曲解为衰退危机、借机推销违背 OECD 建议的激进私有化与[[Performance Pay|绩效工资]]政策，OECD 几乎从不公开发声纠偏；因为对 OECD 而言，最核心利益在于确保全球教育话语被牢牢锁定在由其定义的量化评估框架内，政客制造危机反向巩固了 [[PISA]] 作为卓越质量金标准的品牌霸权，为其衍生测试工具（[[Baby PISA]]、PIAAC、PISA for Schools）开辟市场，展现出跨国机构与国内政客的象征性共谋。[[Argument_Grey_2018_CE|(Grey & Morris, 2018, pp. 125–126)]]
+> > - **品牌扩张与象征性共谋（批判视角）** 学者指出，面对本土政客（如英国 Michael Gove）利用“遗漏话语”将平稳数据曲解为衰退危机、借机推销违背 OECD 建议的激进私有化与[[Performance Pay|绩效工资]]政策，OECD 几乎从不公开发声纠偏；因为对 OECD 而言，最核心利益在于确保全球教育话语被牢牢锁定在由其定义的量化评估框架内，政客制造危机反向巩固了 [[PISA]] 作为卓越质量金标准的品牌霸权，为其衍生测试工具（[[Baby PISA]]、[[Programme for the International Assessment of Adult Competencies|PIAAC]]、PISA for Schools）开辟市场，展现出跨国机构与国内政客的象征性共谋。[[Argument_Grey_2018_CE|(Grey & Morris, 2018, pp. 125–126)]]
 > > - **民主授权缺失与短期应试修补（学术界公开信）** 2014 年 5 月全球 83 位著名教育学者在《卫报》发表联名公开信，直接致信 OECD 教育总监，严厉谴责 OECD 作为未经民主选举的经济机构缺乏主导各国公共教育政策的宪制授权，批评其过度依赖单一量化指标引发急功近利的短期应试修补（short-term fixes），严重牺牲了教育的人文与公民价值。[[Argument_Grey_2018_CE|(Grey & Morris, 2018, p. 123)]]
 >
 > > [!axis] 跨国治理复合体中的排他性同盟与利基割据
 > > 批判学者剖析 OECD 与其他跨国巨头在多边协调修辞掩护下的权力同盟与自利性制度壁垒。
 > >
-> > - **复合体知识武器化与排他壁垒（批判政治经济学）** 批判研究指出，经合组织与[[World Bank|世界银行]]、[[UNESCO|联合国教科文组织]]等构成了“[[Global Education Governing Complex|全球教育治理复合体]]”，将可量化、可比较且可标准化的知识武器化，用以向主权政府施加远处问责。尽管各机构高调宣称多边协同（如参与设立 [[Building Evidence in Education|BE2]] 智库联盟），但实践中极力防范自身专属利基被侵蚀；例如当联合国教科文组织与世界银行共同倡议“[[Learning Data Compact|学习数据协定]]”（Learning Data Compact）试图统合格局时，经合组织拒绝签署加入，转而独立与德国开发署合作推广 PISA-D（PISA for Development），在多边合作修辞下深层延续了排他性利益争夺与地盘割据。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 539, 549–550)]]
+> > - **复合体知识武器化与排他壁垒（批判政治经济学）** 批判研究指出，经合组织与[[World Bank|世界银行]]、[[UNESCO|联合国教科文组织]]等构成了“[[Global Education Governing Complex|全球教育治理复合体]]”，将可量化、可比较且可标准化的知识武器化，用以向主权政府施加远处问责。尽管各机构高调宣称多边协同（如参与设立 [[Building Evidence in Education|BE2]] 智库联盟），但实践中极力防范自身专属利基被侵蚀；例如当联合国教科文组织与世界银行共同倡议“[[Learning Data Compact|学习数据协定]]”（Learning Data Compact）试图统合格局时，经合组织拒绝签署加入，转而独立与德国开发署合作推广 [[PISA for Development|PISA-D]]（PISA for Development），在多边合作修辞下深层延续了排他性利益争夺与地盘割据。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 539, 549–550)]]
 
 > [!citation-card] 《[[PISA]] 2000：测量学生知识与技能》前言（2000年）
 > 随着经济全球化和技术变革对劳动者技能提出更高要求，PISA 测验旨在评估学生在义务教育结束时是否具备了完全参与社会和经济生活所需的关键知识和技能。经合组织通过提供跨国可比的实证基础，支持各国政府优化其教育政策。

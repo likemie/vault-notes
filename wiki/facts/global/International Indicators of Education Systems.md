@@ -113,7 +113,7 @@ updated: 2026-09-12
 > - **1973–1987 — 前期孕育与概念试错期** 1973 年 [[OECD]] 发布《指导公共政策决策的[[Performance Indicators|教育指标]]体系》，但因理论模型过于繁复（内外生[[Variable|变量]]无法分解）且缺乏可用数据而完全流产；1983 年美国《国家处在危险之中》重燃指标狂热；1987 年华盛顿跨国专家会议正式达成共识，宣布“国际基准比较已成为提升教育质量的不可或缺要素”。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, pp. 8, 10)]]
 > - **1988–1991 — INES 创立与大会建制探索期** 1988 年 INES 正式启动。1989 年奥地利塞默灵（Semmering）第一届全体大会编制出 160 项初始指标，因不可管理被大幅删减；1991 年瑞士卢加诺（Lugano）第二届全体大会经过白热化博弈，将指标压缩至约 50 项“理想指标”，并在此遭遇历史性分水岭——政治决策者强力击败学术统计学家的保留意见，强行决定将“学生[[Academic Achievement|学业成绩]]”纳入核心指标体系。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, pp. 11–12)]]
 > - **1992–1999 — 《[[Education at a Glance|教育概览]]》常态化与产出导向奠基期** 1992 年首版《教育概览》正式出炉；1995 年芬兰拉赫蒂（Lahti）召开第三届全体大会；INES 逐步从学术探索转向例行公事化的高阶政策供给，并直接催生了 1990 年代末启动策划的[[PISA|国际学生评估项目]]（[[PISA]]）。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, pp. 14, 17)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
-> - **2000 至今 — 政府间行政程序化与测评帝国整合** 2000 年日本东京第四届全体大会名存实亡，沦为严苛限制代表名额的纯政府间磋商，一线指标研发科学家被彻底排斥在外；INES 机制全面融入 OECD 教育与技能司的常态化行政流水线，成为支撑 PISA 与教师教学国际调查（Teaching and Learning International Survey，TALIS）等跨国巨型测试的底层数据基础设施。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 17)]]
+> - **2000 至今 — 政府间行政程序化与测评帝国整合** 2000 年日本东京第四届全体大会名存实亡，沦为严苛限制代表名额的纯政府间磋商，一线指标研发科学家被彻底排斥在外；INES 机制全面融入 OECD 教育与技能司的常态化行政流水线，成为支撑 PISA 与[[Teaching and Learning International Survey|教师教学国际调查]]（Teaching and Learning International Survey，TALIS）等跨国巨型测试的底层数据基础设施。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 17)]]
 
 ---
 

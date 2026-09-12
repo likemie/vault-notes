@@ -67,7 +67,7 @@ updated: 2026-09-12
 ## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
-> 通过三大核心国际组织统筹资金、协调测验工具（如结合 MICS、PASEC、SACMEQ 及国家自主评估）并提供统一方法论技术规范，消除跨机构数据割裂，实现对全球南方所有学龄儿童学习成果的定期普查与跨国通约。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 546)]]
+> 通过三大核心国际组织统筹资金、协调测验工具（如结合 [[Multiple Indicator Cluster Surveys|MICS]]、PASEC、SACMEQ 及国家自主评估）并提供统一方法论技术规范，消除跨机构数据割裂，实现对全球南方所有学龄儿童学习成果的定期普查与跨国通约。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 546)]]
 
 > [!policy-design]- 方案设计
 > - **项目目标** 确保到 2030 年所有低收入和中等收入国家至少开展两次具备国际可比性的大规模学生学业评估。
@@ -84,7 +84,7 @@ updated: 2026-09-12
 
 > [!dev-timeline]- 项目推进历程
 > - **2021 — 巴黎与华盛顿联合倡议启动** 三大机构在联合国大会与全球教育峰会期间正式发布《学习数据契约》，宣布建立多边数据联合融资窗口。
-> - **2022–2023 — 工具整合与基线普查** 推动[[UNICEF|联合国儿童基金会]] MICS 调查工具与[[UNESCO|教科文组织]]基础指标对接，协助数十个非洲与拉美国家开展疫情后首次全国性学习损失基准测验。
+> - **2022–2023 — 工具整合与基线普查** 推动[[UNICEF|联合国儿童基金会]] [[Multiple Indicator Cluster Surveys|MICS]] 调查工具与[[UNESCO|教科文组织]]基础指标对接，协助数十个非洲与拉美国家开展疫情后首次全国性学习损失基准测验。
 > - **2024–至今 — [[Governing by Numbers|数字治理]]同盟与平台竞争** 契约成为多边组织在数字治理 2.0 时代抗衡其他排他性联盟（如英美与[[World Bank|世行]]主导的 [[Building Evidence in Education|BE2]]）并确立联合国体系数据合法性的战略堡垒。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 545–546)]]
 
 ---
@@ -93,7 +93,7 @@ updated: 2026-09-12
 
 > [!actor-grid] 实施协同矩阵
 > - **标准与指标协调方** [[UNESCO|联合国教科文组织]]统计研究所（UNESCO-UIS）— 负责 [[UN Sustainable Development Goals|SDG 4]].1.1 全球指标托管与测验等值方法论核准。
-> - **[[Fieldwork|实地调查]]与弱势群体覆盖** [[UNICEF|联合国儿童基金会]]（UNICEF）— 依托 MICS  household 调查深入边远贫困社区，采集失学与残障儿童数据。
+> - **[[Fieldwork|实地调查]]与弱势群体覆盖** [[UNICEF|联合国儿童基金会]]（UNICEF）— 依托 [[Multiple Indicator Cluster Surveys|MICS]]  household 调查深入边远贫困社区，采集失学与残障儿童数据。
 > - **贷款杠杆与资金池** [[World Bank|世界银行]]（World Bank）— 通过 IDA 赠款与系统性教育贷款为各国开展学业评估提供长期财政支持。
 > - **国家技术执行机构** 各国教育部考试中心与国家统计局 — 负责命题、施测、阅卷与国家数据库维护。
 
