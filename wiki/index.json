@@ -1056,6 +1056,16 @@
     ]
   },
   {
+    "title": "Promissory Legitimacy",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Promissory Legitimacy.md",
+    "aliases": [
+      "期许性合法性",
+      "允诺合法性",
+      "承诺合法性"
+    ]
+  },
+  {
     "title": "Proto-Scientific Motif",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Proto-Scientific Motif.md",
@@ -3876,6 +3886,16 @@
       "PISA 分数负相关",
       "PISA score negative correlation",
       "PISA 高分低能"
+    ]
+  },
+  {
+    "title": "Policy Ambiguity",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Policy Ambiguity.md",
+    "aliases": [
+      "政策歧义性",
+      "政策含混性",
+      "决策歧义性"
     ]
   },
   {
@@ -8502,6 +8522,15 @@
       "文化等级",
       "文化层次",
       "文化支配等级"
+    ]
+  },
+  {
+    "title": "Datafication of Learning",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Datafication of Learning.md",
+    "aliases": [
+      "学习数据化",
+      "学习的数据化"
     ]
   },
   {
@@ -14008,6 +14037,18 @@
     ]
   },
   {
+    "title": "Manpower Requirements Approach",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Manpower Requirements Approach.md",
+    "aliases": [
+      "人力需求预测法",
+      "人力需求法",
+      "人力规划法",
+      "Manpower Planning",
+      "MRA"
+    ]
+  },
+  {
     "title": "Matched Pairs Design",
     "type": "method",
     "path": "wiki/methods/quantitative/Matched Pairs Design.md",
@@ -19068,6 +19109,17 @@
     ]
   },
   {
+    "title": "1960 Bellagio Conference",
+    "type": "fact",
+    "path": "wiki/facts/global/1960 Bellagio Conference.md",
+    "aliases": [
+      "1960年贝拉吉奥会议",
+      "贝拉吉奥会议",
+      "Bellagio Conference",
+      "Bellagio Conference on Education and Economic Development"
+    ]
+  },
+  {
     "title": "1961 Policy Conference on Economic Growth and Investment in Education",
     "type": "fact",
     "path": "wiki/facts/global/1961 Policy Conference on Economic Growth and Investment in Education.md",
@@ -19406,6 +19458,17 @@
       "Nagoya Protocol (2014)",
       "Nagoya Protocol on Access and Benefit-sharing",
       "遗传资源获取与惠益分享名古屋议定书"
+    ]
+  },
+  {
+    "title": "Poverty Reduction Strategy Papers",
+    "type": "fact",
+    "path": "wiki/facts/global/Poverty Reduction Strategy Papers.md",
+    "aliases": [
+      "减贫战略文件",
+      "减贫战略规划",
+      "PRSPs",
+      "PRSP"
     ]
   },
   {

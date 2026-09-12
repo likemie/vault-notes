@@ -90,7 +90,7 @@ updated: 2026-09-12
 > |:-----|:-----|:--------------|
 > | 人力资本积累（Human Capital Accumulation） | 概念 | 指劳动者通过正规学校教育、职业培训与健康投资沉淀于自身的知识、认知技能与工作能力存量。 |
 > | 教育收益率（[[Return on Investment\|rate of return to education]]） | 概念 | 衡量个人与社会在教育投资中所获得的未来折现收入增长，用以证明教育投资具有高于或持平于物质资本的经济回报。 |
-> | 人力需求预测法（Manpower Forecasting Approach） | 方法 | 基于宏观经济产业目标测算未来劳动力受教育结构需求的规划技术，指导国家五年计划中的教育规模与分流（Parnes, 1962）。 |
+> | [[Manpower Requirements Approach\|人力需求预测法]]（Manpower Forecasting Approach） | 方法 | 基于宏观经济产业目标测算未来劳动力受教育结构需求的规划技术，指导国家五年计划中的教育规模与分流（Parnes, 1962）。 |
 > | 潜在人才库（Latent Pool of Talents） | 概念 | 指社会大众（尤其是工农阶层）中未被传统精英教育发现和转化的智力资源，构成教育扩张的社会学论据（Halsey et al., 1961）。 |
 > | [[Social Science as Legitimation Alibi]] | 机制 | 政治决策者利用人力资本的量化预测与[[Return on Investment\|投资回报]]模型作为推卸行政责任与掩盖价值决断的科学借口。 |
 > | 教育收益率数据库与放贷门槛（Rates of Return Databank & Lending Conditionalities） | 机制 | 世界银行（George Psacharopoulos）建立的涵盖 139 国、1,120 项教育投资收益率估算的大规模数据库，将人力资本理论转化为跨国结构性调整与政策放贷的量化门槛与自指性治理帝国。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–542)]] |
@@ -179,7 +179,7 @@ updated: 2026-09-12
 ## 发展脉络
 
 > [!dev-timeline] 发展脉络
-> - **1957–1961 — 冷战冲击与国际政策正统确立** 1957 年苏联人造卫星升空引发[[Sputnik Shock 1957|斯普特尼克冲击]]，迫使西方世界将学校教育界定为科技专才的供给母体；欧洲经济合作组织（Organisation for European Economic Co-operation，OEEC）与改组后的[[OECD|经合组织]]（OECD）将自身重新定位为“经济北约”和世界一流教育先锋，引入控制论与人力资本理论开展大规模劳动力市场需求预测；1960 年贝拉吉奥会议、1961 年华盛顿经合组织“经济增长与教育投资”政策会议全面确立人力资本政策正统。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 540–541)]]
+> - **1957–1961 — 冷战冲击与国际政策正统确立** 1957 年苏联人造卫星升空引发[[Sputnik Shock 1957|斯普特尼克冲击]]，迫使西方世界将学校教育界定为科技专才的供给母体；欧洲经济合作组织（Organisation for European Economic Co-operation，OEEC）与改组后的[[OECD|经合组织]]（OECD）将自身重新定位为“经济北约”和世界一流教育先锋，引入控制论与人力资本理论开展大规模劳动力市场需求预测；1960 年[[1960 Bellagio Conference|贝拉吉奥会议]]、1961 年华盛顿经合组织“经济增长与教育投资”政策会议全面确立人力资本政策正统。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 540–541)]]
 > - **1960–1964 — 理论经典奠基** 西奥多·舒尔茨（Theodore W. Schultz）发表《人力资本投资》（1961）与《教育的经济价值》（1963），加里·贝克尔（Gary S. Becker）出版《人力资本》（1964），系统确立以个人与社会收益率为核心的新古典微观与宏观[[Analytic Framework|分析框架]]。
 > - **1962–1970 — 教育规划与比较教育应用** 赫伯特·帕恩斯（Herbert Parnes, 1962）主持 OECD 地中海地区项目（MRP），弗雷德里克·哈比森（Frederick Harbison）与查尔斯·迈尔斯（Charles Myers, 1964）建立跨国人力指数，人力资本理论成为比较教育“[[Development Turn in Comparative Education|发展转向]]”与战后国家规划的核心支柱。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 64, 67–68)]]
 > - **1970 年代中叶 — [[Paradigm|范式]]危机与反思** 经济滞胀爆发，[[Credential Inflation|文凭通胀]]与青年失业打破了教育投资必然带动经济繁荣的神话，[[Torsten Husén|托斯滕·胡森]]（Torsten Husén, 1982）指出实证规划承诺全面破灭。

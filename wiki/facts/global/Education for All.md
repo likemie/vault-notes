@@ -68,7 +68,7 @@ updated: 2026-09-12
 > [!policy-design]- 政策设计
 > - **政策目标** 承诺到 2000 年（后在达喀尔峰会延至 2015 年）实现初等义务教育全面普及（Universal Primary Education，UPE）、大幅削减成人文盲率、彻底消除女童基础教育性别不平等，并显著改善可测量的学习成效。
 > - **适用对象** 借贷与受援国教育部、地方教育局、公立与社区小学、失学青年及社会边缘群体。
-> - **政策工具** 设立国家全民教育行动计划（EFA National Plans）、建立跨国援助信托资金池、创设[[Global Partnership for Education|全民教育快车道倡议]]（EFA-FTI，后改组为全球教育伙伴关系 [[Global Partnership for Education|GPE]]），并发布年度《全球教育监测报告》（GEMR）。
+> - **政策工具** 设立国家全民教育行动计划（[[Exploratory Factor Analysis|EFA]] National Plans）、建立跨国援助信托资金池、创设[[Global Partnership for Education|全民教育快车道倡议]]（EFA-FTI，后改组为全球教育伙伴关系 [[Global Partnership for Education|GPE]]），并发布年度《全球教育监测报告》（GEMR）。
 > - **约束机制** 虽属非拘束性国际软法倡议，但通过联合国教科文组织年度跨国量化排位监测，以及与世界银行优惠贷款审批前置行动（Prior Actions）的深度绑定，构成了对受援国高度刚性的规制与问责约束。
 
 > [!citation-card] 全民教育倡议与全球南方量化治理规制转向
@@ -92,7 +92,7 @@ updated: 2026-09-12
 
 > [!actor-grid] 实施角色分工
 > - **多边协调与统计监测方** 联合国教科文组织（UNESCO）掌握全球议程倡导权，下属统计研究所（UIS）统一制定跨国比较指标并发布《全球教育监测报告》（GEMR）。
-> - **财政筹资与条件规制方** 世界银行（World Bank）依托减贫战略文件（PRSPs）与结构调整项目，将 [[Exploratory Factor Analysis|EFA]] 目标转化为放贷前置约束，牢牢掌控资金流向。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
+> - **财政筹资与条件规制方** 世界银行（World Bank）依托[[Poverty Reduction Strategy Papers|减贫战略文件]]（PRSPs）与结构调整项目，将 [[Exploratory Factor Analysis|EFA]] 目标转化为放贷前置约束，牢牢掌控资金流向。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
 > - **实地弱势干预方** 联合国儿童基金会（UNICEF）聚焦边缘化女童、战乱冲突与难民营地，在一线实地推动全纳教育方案。
 > - **国家履约主体** 受援国教育部与财政部，设立专门国家协调小组编制 EFA 计划，并向国际组织提供统计台账。
 
@@ -152,7 +152,7 @@ updated: 2026-09-12
 > > - **后殖民批判学者** 指责西方大国将教育援助与新自由主义经济改革绑架，受援国为了达标不得不牺牲中高等教育与本土课程自主权。
 
 > [!citation-card] 全民教育目标下的结构调整与量化依赖
-> 世界银行对发展中国家教育的影响源于其资金实力以及对管理主义-科学效率的宣称，其典型代表是高度官僚化的贷款周期和减贫战略文件等管理工具。伴随全民教育的推进，这种量化指标体系迅速膨胀，最终构筑起对整个受援国教育系统的深层规制。(Elfert & Ydesen, 2023, p. 100; 引自 Steiner-Khamsi et al., 2024, p. 541)
+> 世界银行对发展中国家教育的影响源于其资金实力以及对管理主义-科学效率的宣称，其典型代表是高度官僚化的贷款周期和[[Poverty Reduction Strategy Papers|减贫战略文件]]等管理工具。伴随全民教育的推进，这种量化指标体系迅速膨胀，最终构筑起对整个受援国教育系统的深层规制。(Elfert & Ydesen, 2023, p. 100; 引自 Steiner-Khamsi et al., 2024, p. 541)
 
 ---
 

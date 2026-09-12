@@ -7,7 +7,7 @@ aliases:
 summary: "经过目的性选择和加工的派生统计量，具备“技术理性”与“权力规制”双重属性（Le Galès, 2016）。通过将异质、复杂的教育系统还原为跨国可比的数值与排名，绩效指标在提供决策信息的同时重塑行动者行为与治理关系。在数字治理 2.0 时代，绩效指标成为中介机构为充满歧义性的政策决策构筑“理性表象”的核心脚手架（Steiner-Khamsi et al., 2024）。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 37
+related_count: 38
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Technical Rationality]]"
   - "[[Governing by Numbers]]"
+  - "[[Policy Ambiguity]]"
   - "[[Façade of Rationality]]"
   - "[[Scaffolding]]"
   - "[[Hypothesis]]"
@@ -75,7 +76,7 @@ updated: 2026-09-12
 ## 定义
 
 > [!def] 核心定义
-> 绩效指标（Performance Indicators，在教育领域通称“教育指标” Education Indicators），是指经过目的性选择、数学建模与情境化加工的派生统计量（Derived Statistics），专门用于跨时空监测系统运行状况、预警体制弊端并为公共决策提供综合信息依据（Blank, 1993; Gorur, 2014, p. 7）。从政策工具社会学的视阈，勒加莱斯（Patrick Le Galès, 2016）将绩效指标定义为同时包含**[[Technical Rationality|技术理性]]成分（Techniques）**与**权力规制成分（Power）**的复合体：其技术成分依托数理统计的客观合法性，而其权力成分则在充满不对等关系的行动者网络中运转，通过推动各主体参与评比排名，决定资源再分配并重塑组织行为。在[[Governing by Numbers|数字治理]] 2.0 时代，绩效指标进一步成为中介机构在海量知识过剩与政策歧义性生态下，为政策制定者构筑客观、精确与普适之“[[Façade of Rationality|理性表象]]”（Façade of Rationality）的核心政治[[Scaffolding|脚手架]]。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 7)]]; [[Argument_Rambla_2022_Springer|(Rambla, 2022, p. 165)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
+> 绩效指标（Performance Indicators，在教育领域通称“教育指标” Education Indicators），是指经过目的性选择、数学建模与情境化加工的派生统计量（Derived Statistics），专门用于跨时空监测系统运行状况、预警体制弊端并为公共决策提供综合信息依据（Blank, 1993; Gorur, 2014, p. 7）。从政策工具社会学的视阈，勒加莱斯（Patrick Le Galès, 2016）将绩效指标定义为同时包含**[[Technical Rationality|技术理性]]成分（Techniques）**与**权力规制成分（Power）**的复合体：其技术成分依托数理统计的客观合法性，而其权力成分则在充满不对等关系的行动者网络中运转，通过推动各主体参与评比排名，决定资源再分配并重塑组织行为。在[[Governing by Numbers|数字治理]] 2.0 时代，绩效指标进一步成为中介机构在海量知识过剩与[[Policy Ambiguity|政策歧义性]]生态下，为政策制定者构筑客观、精确与普适之“[[Façade of Rationality|理性表象]]”（Façade of Rationality）的核心政治[[Scaffolding|脚手架]]。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 7)]]; [[Argument_Rambla_2022_Springer|(Rambla, 2022, p. 165)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 绩效指标并非对原始事实的简单记录，而是一种“被制造出的度量工具”（Engineered Measure），将多源复杂异质数据压缩为单一可视数字，承载着特定的政策干预[[Hypothesis|假设]]。
@@ -159,7 +160,7 @@ updated: 2026-09-12
 > 当指标被确立为评价和资源配置的标准时，行动者的行为逻辑将从“提高教育质量”不可逆转地转向“提高指标得分”。指标不仅测量现实，更在反向重构现实并引发全系统的应试表演与防御性作弊。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, pp. 16–18)]]
 
 > [!claim] 命题三：信息过载时代指标成为构筑[[Façade of Rationality|理性表象]]与掩护政治叙事的[[Scaffolding|脚手架]]（Steiner-Khamsi et al., 2024）
-> 海量证据供给并没有带来理性的政策秩序，反而加剧了决策歧义性。中介机构与政客之所以热衷于生产和引用绩效指标，是因为数字既提供了坚不可摧的“科学客观”盾牌，又为依循自身意识形态讲述“指标故事”保留了最大弹性。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
+> 海量证据供给并没有带来理性的政策秩序，反而加剧了[[Policy Ambiguity|决策歧义性]]。中介机构与政客之所以热衷于生产和引用绩效指标，是因为数字既提供了坚不可摧的“科学客观”盾牌，又为依循自身意识形态讲述“指标故事”保留了最大弹性。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
 
 ---
 

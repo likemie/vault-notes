@@ -8,7 +8,7 @@ aliases:
 summary: "在比较教育与政策借用研究中，指被特定国家用作自身教育体制改革、政策辩护或合法化重构的外部参照范例或制度模板。概念源自施赖弗（Jürgen Schriewer）的“外化假说”与卢曼系统论，强调系统对外部参照点的内部建构以应对政策情境的偶然性与不确定性。在当代全球量化治理中，经合组织通过外向型同行比较建构参考社会，而世界银行则展现出以自身工具与项目为依归的自指性中介特征。"
 type: concept
 domain: "comparative-education"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Nordic Model of Education]]"
   - "[[Reflexivity]]"
+  - "[[Policy Ambiguity]]"
   - "[[Epistemology]]"
   - "[[Governing by Numbers]]"
   - "[[New Public Management]]"
@@ -140,7 +141,7 @@ updated: 2026-09-12
 ## 围绕概念形成的命题
 
 > [!claim] 命题一：系统[[Externalization|外化]]需求是参考社会被建构的内在动因（Schriewer, 1990）
-> 现代社会教育系统的结构性矛盾与决策歧义性，迫使政策行动者通过“内部建构外部参照点”来获得论据豁免权。参考社会并非客观给定的实体，而是本土系统为克服自身内在合法性赤字而制造的[[Epistemology|认识论]]避风港。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 540)]]
+> 现代社会教育系统的结构性矛盾与[[Policy Ambiguity|决策歧义性]]，迫使政策行动者通过“内部建构外部参照点”来获得论据豁免权。参考社会并非客观给定的实体，而是本土系统为克服自身内在合法性赤字而制造的[[Epistemology|认识论]]避风港。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 540)]]
 
 > [!claim] 命题二：参考社会的确立受文化亲和力与[[Institutional Isomorphism|制度同构]]性的偏向性规制
 > 国际评估排名仅构成候选池，真正的参考社会地位取决于与借用方社会的文化距离与政治兼容度。西方发达国家更倾向于将芬兰或加拿大而非东亚高分地区树立为标准典范，证明了符号借用中的西方中心主义与文化筛选逻辑。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]

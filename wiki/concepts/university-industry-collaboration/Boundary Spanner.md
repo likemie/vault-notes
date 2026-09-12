@@ -18,7 +18,7 @@ aliases:
 summary: "在异质组织、专业社群或制度系统（如学术研究与产业界、科学共同体与政策决策系统）之间充当沟通桥梁的专业角色或中介机构，通过双重语言转译、制度摩擦缓冲与多边信任建构，促进知识流动、资源对齐与跨界协同。在公共教育治理中，跨界中介者连接科学与政策两社区，在证据过剩与决策歧义性生态下以政策中介平衡公信力与行政两难。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 42
+related_count: 43
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -61,6 +61,7 @@ related_concepts:
   - "[[Evidence-Informed Practice]]"
   - "[[Governing by Numbers]]"
   - "[[Façade of Rationality]]"
+  - "[[Policy Ambiguity]]"
   - "[[Soft Power by Hard Facts]]"
 related_theories:
   - "[[Social Capital Theory]]"
@@ -253,7 +254,7 @@ updated: 2026-09-12
 > - [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] — 系统论证伙伴关系、中介组织与跨界中介者在全系统[[Evidence-Informed Practice|证据知情实践]]中的决定性支撑功能。
 > - [[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall (2025b)]] — 阐明大学[[University-Industry Collaboration|产学合作]]战略中边界跨越者的双重[[Transfer Translation Transformation|转译]]、信任建构与降低交易成本机制。
 > - [[Argument_Hoffman_2025_UI_Alliances_Consortia|Hoffman et al. (2025)]] — 深入分析产学联盟中关系经理（Relationship Manager）的组织化职责与合作维系机制。
-> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 在全球教育治理情境下考察边界跨越者从知识中介向[[Policy Brokerage|政策中介]]的演进，揭示国际组织如何作为超级跨界机构在证据过剩与决策歧义性环境下[[Soft Power by Hard Facts|以硬事实施展软权力]]，并剖析跨界者在内部官僚认知与外部学术独立性之间的公信力两难。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 在全球教育治理情境下考察边界跨越者从知识中介向[[Policy Brokerage|政策中介]]的演进，揭示国际组织如何作为超级跨界机构在证据过剩与[[Policy Ambiguity|决策歧义性]]环境下[[Soft Power by Hard Facts|以硬事实施展软权力]]，并剖析跨界者在内部官僚认知与外部学术独立性之间的公信力两难。
 > - Campbell et al. (2017) — 依托 [[Knowledge Network for Applied Education Research|KNAER]] [[Case Study|案例研究]]全系统[[Knowledge Mobilisation|知识动员]]战略，分析跨界中介网络在知识转译与全系统能力建设中的运作。
 > - Cooper, Klinger, & McAdie (2017) — 实证揭示教师工会与同行网络作为中介者在课堂评估证据流动中的核心地位。
 > - Akkerman & Bakker (2011) — 全面综述学习与教育研究中的边界跨越与[[Boundary Object|边界对象]]理论，提出识别、协调、反思与转化的四阶段学习机制。

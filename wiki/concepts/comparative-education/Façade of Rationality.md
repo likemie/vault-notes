@@ -8,7 +8,7 @@ aliases:
 summary: "吉塔·施泰纳-哈姆西（Gita Steiner-Khamsi）与温迪·埃斯佩兰德（Wendy Espeland）等学者提出的批判性理论构念，指在充斥歧义性、争议性与不确定性的教育决策生态中，量化指标相比质性论述能为政策制定者构筑出具备客观性、精确度与普适性的政治脚手架。这种外衣在压制外部质疑的同时，为决策者依循自身政治偏好自由阐释指标意义保留了弹性空间。"
 type: concept
 domain: "comparative-education"
-related_count: 21
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Technical Rationality]]"
   - "[[Value Neutrality]]"
   - "[[New Public Management]]"
+  - "[[Policy Ambiguity]]"
   - "[[Heterogeneity]]"
   - "[[Conatus]]"
   - "[[Policy Borrowing]]"
@@ -34,6 +35,7 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Positivism]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Soft Power]]"
 related_theories: []
 related_methods:
   - "[[Peer Debriefing]]"
@@ -95,7 +97,7 @@ updated: 2026-09-12
 ## 核心要素
 
 > [!feature] 核心要素
-> - **决策生态的三重约束** 教育领域具有不可化约的政策歧义性（多重思维方式互不相容）、专家知识民主化带来的高度公共争议性、以及育人结果指向不可见未来所导致的技术赤字。这三重生态约束构成了决策者亟需理性外衣的现实温床。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
+> - **决策生态的三重约束** 教育领域具有不可化约的[[Policy Ambiguity|政策歧义性]]（多重思维方式互不相容）、专家知识民主化带来的高度公共争议性、以及育人结果指向不可见未来所导致的技术赤字。这三重生态约束构成了决策者亟需理性外衣的现实温床。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
 > - **通约化与去语境化** 数字通过剥离地方学校、文化传统与历史脉络的特殊性，将[[Heterogeneity|异质性]]的教育经验还原为单一度量衡上的标量数值，制造出全球普适与科学精密的错觉。
 > - **政治[[Scaffolding|脚手架]]功能** 量化指标充当了阻挡公众批评与专业异见的防御性盾牌，为既有政策议程提供坚不可摧的客观外包装。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 539)]]
 > - **指标叙事的弹性空间** 数字不仅不消解叙事，反而激发叙事；决策者能够剥离原始统计口径的技术细节，根据政党选举与施政需要自由讲述关于指标含义的政治故事。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 539)]]

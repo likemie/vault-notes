@@ -39,14 +39,17 @@ related_concepts:
   - "[[Boundary Spanner]]"
   - "[[Scientific Uncertainty]]"
   - "[[Scaffolding]]"
+  - "[[Policy Ambiguity]]"
   - "[[Democratisation of Expertise]]"
   - "[[Champ]]"
+  - "[[Promissory Legitimacy]]"
   - "[[Technology Deficit of Education]]"
   - "[[Façade of Rationality]]"
   - "[[Development Turn in Comparative Education]]"
   - "[[Return on Investment]]"
   - "[[Education-for-Mandates]]"
   - "[[Transfer Space]]"
+  - "[[Datafication of Learning]]"
   - "[[Reference Society]]"
   - "[[Normal School]]"
   - "[[Attrition]]"
@@ -111,10 +114,10 @@ title: "Argument_Steiner-Khamsi_2024_CE"
 argument_key: "Argument_Steiner-Khamsi_2024_CE"
 argument_display_title: "Governance by numbers 2.0: policy brokerage as an instrument of global governance in the era of information overload"
 argument_kind: "journal-article"
-argument_related_count: 72
-argument_related_level: 4
-argument_related_stars: "⭐⭐⭐⭐"
-argument_related_color: "#dbeafe"
+argument_related_count: 75
+argument_related_level: 5
+argument_related_stars: "⭐⭐⭐⭐⭐"
+argument_related_color: "#fecdd3"
 journal: Comparative Education
 book_title: ""
 publication_place: ""
@@ -212,9 +215,9 @@ issuing_organization: ""
 教育领域的公共决策面临三重相互交织的制度生态约束，使得纯粹的学术研究成果无法顺畅转化为具体的政策行动。（pp.538–540）
 
 > [!quad-grid] 教育政策环境的三重生态特质与数字[[Scaffolding|脚手架]]
-> - **政策情境的歧义性（Ambiguity）** 援引[[Multiple Streams Framework|多源流分析框架]]（Multiple Streams Framework，MSF）关于决策歧义性的理论界定（Zahariadis, 2017），面对同一教育现象往往存在多种互不兼容的理解视角；在此情境下，更多知识不但无法消除分歧，反而加剧了解释冲突，迫使中介机构通过裁量与筛选建立确定性话语。（pp.538–539）
+> - **政策情境的歧义性（[[Policy Ambiguity]]）** 援引[[Multiple Streams Framework|多源流分析框架]]（Multiple Streams Framework，MSF）关于决策歧义性的理论界定（Zahariadis, 2017），面对同一教育现象往往存在多种互不兼容的理解视角（[[Policy Ambiguity|政策歧义性]]）；在此情境下，更多知识不但无法消除分歧，反而加剧了解释冲突，迫使中介机构通过裁量与筛选建立确定性话语。（pp.538–539）
 > - **[[Democratisation of Expertise|专业知识民主化]]带来的公共争议性（Contestation）** 教育领域呈现广泛的[[Democratisation of Expertise|专业知识民主化]]（Democratisation of Expertise）特征，缺乏医学等行业的技术排他壁垒，公众与从业者皆自视为教育行家，致使教育研究天然成为意识形态争夺的[[Champ|场域]]。（p.539）
-> - **未来结果不可验证导致的技术赤字（[[Technology Deficit of Education|Technology Deficit]]）** 教育面临固有的技术赤字（Technology Deficit of Education），由于育人成效应面向不可预测的未来，其因果链条无法在当下获得经验检验；决策者由此产生深刻的风险焦虑，促使中介机构将未来预设为可以通过当下干预来规避的行动方案。（pp.539–540）
+> - **未来结果不可验证导致的技术赤字与[[Promissory Legitimacy|期许性合法性]]** 教育面临固有的技术赤字（[[Technology Deficit of Education]]），由于育人成效应面向不可预测的未来，其因果链条无法在当下获得经验检验；决策者由此产生深刻的未来风险焦虑，促使国际组织通过建构[[Promissory Legitimacy|期许性合法性]]（Promissory Legitimacy），将未来预设为可以通过当下干预来规避的行动方案（Robertson & Beech, 2023; pp. 539–540）。
 > - **[[Façade of Rationality|数字理性表象]]脚手架（Numbers as Scaffolding for [[Façade of Rationality]]）** 援引[[Wendy Espeland|温迪·埃斯佩兰德]]（Wendy Espeland，2015）与门尼肯（Andrea Mennicken，2019）对量化社会学的理论分析，相比质性叙事，量化指标具备理性、精确与普适的话语表象（Façade of Rationality）；政策制定者热衷于数字，是因为数字指标“激发了叙事”，不仅看似客观，更为其依循自身政治意图讲述“指标意味着什么的故事”预留了充分空间。（Espeland, 2015, p. 65; pp. 539–540）
 
 ---
@@ -236,7 +239,7 @@ issuing_organization: ""
 >
 > - **1960–1970年代 — 控制论规划与技术官僚式人力预测**
 >
->   为应对计划经济体制的竞争，经合组织模仿其长期规划模式，引入控制论与[[Human Capital Theory|人力资本理论]]，推行专注于劳动力市场需求预测的技术官僚式人力规划。（p.541）
+>   为应对计划经济体制的竞争，经合组织模仿其长期规划模式，引入控制论与[[Human Capital Theory|人力资本理论]]，推行专注于劳动力市场需求预测的技术官僚式[[Manpower Requirements Approach|人力需求预测法]]（Manpower Requirements Approach，MRA / 人力规划）。（p.541）
 >
 > - **1980年代 — 教育标准确立与跨国指标项目起步**
 >
@@ -254,7 +257,7 @@ issuing_organization: ""
 > | 比较维度 | 世界银行（World Bank） | 联合国教科文组织（UNESCO） |
 > |---|---|---|
 > | **教育哲学** | 强调人力资本投入回报、管理主义效率与经济增长导向 | 秉持人文主义关怀、国际理解与受教育基本人权导向 |
-> | **治理手段** | 庞大的项目放贷权力、高度官僚化的放贷周期与减贫战略文件（Poverty Reduction Strategy Papers，PRSPs） | 道德劝诫、国际公约制定与规范性政策倡议 |
+> | **治理手段** | 庞大的项目放贷权力、高度官僚化的放贷周期与[[Poverty Reduction Strategy Papers\|《减贫战略文件》（Poverty Reduction Strategy Papers，PRSPs）]] | 道德劝诫、国际公约制定与规范性政策倡议 |
 > | **量化规模** | 指标库从 1989 年 116 项扩展至 2018 年 1,600 项；坐拥涵盖 139 国、1,120 项估算的回报率数据库 | 协调[[Education for All\|全民教育（Education for All，EFA）]]等国际基准，但缺乏强制性财政问责机制 |
 > | **脱钩节点** | [[1964 UNESCO-World Bank Cooperative Agreement\|1964 年签署合作协定]]借道入场，1980 年发布首份独立政策文件彻底决裂 | 失去对全球南方教育援助的主导权，退居话语倡导 |
 
@@ -271,14 +274,14 @@ issuing_organization: ""
 两大先行机构之所以能将硬事实转化为公认的软性规制权力，核心在于熟练运用全球教育危机叙事并借助高规格国际会议展开政策动员。（pp.542–543）
 
 > [!event-context] 战后全球教育危机叙事与国际政策动员节点
-> - **重点会议与政策议程** 1960 年贝拉吉奥会议呼吁以人力资本投资拉动经济增长；1961 年[[1961 Policy Conference on Economic Growth and Investment in Education|经合组织华盛顿政策会议]]聚焦教育投资；1967 年[[1967 Williamsburg Conference on the World Crisis in Education|弗吉尼亚威廉斯堡世界教育危机国际会议]]全面掀起全球危机舆论。
+> - **重点会议与政策议程** 1960 年[[1960 Bellagio Conference|贝拉吉奥会议]]呼吁以人力资本投资拉动经济增长；1961 年[[1961 Policy Conference on Economic Growth and Investment in Education|经合组织华盛顿政策会议]]聚焦教育投资；1967 年[[1967 Williamsburg Conference on the World Crisis in Education|弗吉尼亚威廉斯堡世界教育危机国际会议]]全面掀起全球危机舆论。
 > - **代表人物与普适话语** [[Philip H. Coombs|菲利普·H·库姆斯]]（Philip H. Coombs）身兼肯尼迪政府助理国务卿与[[International Institute for Educational Planning|国际教育规划研究所]]首任所长，其 1968 年名著《世界教育危机：系统分析》（*The World Education Crisis: A Systems Analysis*）将教育危机普遍化并推向全球。（p.542）
 > - **美国政策报告的催化效应** 1983 年美国《国家处在危险之中》报告将教育体系的不振视为国家落后于西德、日本和苏联的根源，直接催生了跨国可比指标的制度化研发需求。（pp.542–543）
 > - **危机叙事的治理机制** 通过周期性渲染教育落后危机，跨国比较使得排名带来的命名与羞辱机制常规化，为国际组织长期扮演不可替代的政策中介提供了持续的政治动力。（p.543）
 
 > [!dev-timeline]- 战后全球教育危机叙事与政策动员演进时间轴
 > - **1957 — [[Sputnik Shock 1957|斯普特尼克冲击]]（Sputnik Shock）** 苏联首颗人造地球卫星升空震撼西方世界，触发大西洋两岸对科技人力断层与国家安全脆弱性的极端恐慌，促使西方阵营将[[Common School Movement|公共学校]]教育系统重构为冷战科技军备竞赛的前沿阵地。（p.541）
-> - **1960 — 贝拉吉奥会议（Bellagio Conference）** 欧美多边战略智囊在意大利贝拉吉奥集会，呼吁西方阵营和新兴独立主权国家全面采纳[[Human Capital Theory|人力资本理论]]，通过大规模扩张教育公共财政投入拉动经济增长以抵御冷战意识形态渗透。
+> - **1960 — [[1960 Bellagio Conference|贝拉吉奥会议]]（Bellagio Conference）** 欧美多边战略智囊在意大利贝拉吉奥集会，呼吁西方阵营和新兴独立主权国家全面采纳[[Human Capital Theory|人力资本理论]]，通过大规模扩张教育公共财政投入拉动经济增长以抵御冷战意识形态渗透。
 > - **1961 — [[1961 Policy Conference on Economic Growth and Investment in Education|经合组织华盛顿政策会议]]** 欧洲经济合作组织改组为经合组织并被确立为“经济北约”，其华盛顿会议聚焦“经济增长与教育投资”，奠定了经济协调组织将教育视作生产要素、向全球南方输出人力预测模型的治理正当性。
 > - **1967 — [[1967 Williamsburg Conference on the World Crisis in Education|弗吉尼亚威廉斯堡世界教育危机国际会议]]** 由菲利普·库姆斯（Philip H. Coombs）领衔召集，汇聚跨国政学界精英，正式将教育供需失衡、体制僵化与成本失控诊断为超越个别主权国家疆界的普世系统性危机。（pp.541–542）
 > - **1968 — 库姆斯出版《世界教育危机：系统分析》** [[International Institute for Educational Planning|联合国教科文组织教育规划研究所]]（IIEP）正式出版该里程碑专著，确立了跨国多边组织通过建构“全球危机”叙事来拓展自身规制授权、实施专业技术干预的经典制度范式。（p.542）
@@ -359,7 +362,7 @@ issuing_organization: ""
 
 依据社会学系统论的[[Externalization|外化]]（Externalization）假说，外部世界对内部系统的影响，完全取决于内部系统如何赋予其意义并将其建构为外部权威。（p.546）
 
-系统外部的重大变迁（如公共行政领域转向以结果为导向的新自由主义规制）若要在教育系统中发挥实效，必须在教育系统内部产生共鸣，被赋予本土意义，并被转译为教育系统自身的逻辑和语言代码——在教育实践中，这种规制转向具体体现为从“教学（Teaching）”向“学习（Learning）”的重心位移，进而推动了对学习成效的全面数据化追踪。依据系统论的命题，系统对“外部参照点的内部建构”不仅赋予了系统额外的解释意义，更有助于再生产系统自身的制度认同并生产确定性。
+系统外部的重大变迁（如公共行政领域转向以结果为导向的新自由主义规制）若要在教育系统中发挥实效，必须在教育系统内部产生共鸣，被赋予本土意义，并被转译为教育系统自身的逻辑和语言代码——在教育实践中，这种规制转向具体体现为从“教学（Teaching）”向“学习（Learning）”的重心位移（Fenwick et al., 2014），进而推动了[[Datafication of Learning|学习数据化]]（Datafication of Learning）（Thoutenhoofd, 2018; p. 546）。依据系统论的命题，系统对“外部参照点的内部建构”不仅赋予了系统额外的解释意义，更有助于再生产系统自身的制度认同并生产确定性。
 
 依据[[Niklas Luhmann|尼克拉斯·卢曼]]（Niklas Luhmann）的系统论洞见，外化或对这类拟似外部参照点的建构，在本质上充当了规制性理念。在转移空间中，旷日持久的国内政策僵局、政党轮替、摆脱不光彩历史的冲动、地缘政治重构以及对外援助依赖，构成了促使本土精英策略性动员外部[[Reference Society|参考社会]]与国际组织权威的关键契机。（p.546）
 

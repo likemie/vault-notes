@@ -87,7 +87,7 @@ updated: 2026-09-11
 
 > [!dev-timeline]- 组织发展历程
 > - **1958–1962 — 理论奠基与地缘政治筹备** 芝加哥大学建立比较教育中心，推动教育经济学与比较研究深度融合；1961 年欧洲经济合作组织（Organisation for European Economic Co-operation，OEEC）改组为[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD，简称经合组织），被定位为“经济北约”并启动地中海地区项目（Mediterranean Regional Project，MRP）；赫伯特·帕恩斯（Herbert Parnes, 1962）发布教育人力预测模型，为全球技术官僚规划奠定了方法论标准。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 67–68)]]
-> - **1963–1970 — 机构创立与普世危机话语确立** 1963 年 7 月 IIEP 正式建立，首任主任由前美国教育与文化助理国务卿菲利普·库姆斯（Philip Coombs）担任；1967 年库姆斯牵头组织弗吉尼亚州威廉斯堡“世界教育危机国际会议”，并在 1968 年由 IIEP 正式出版里程碑著作《世界教育危机：系统分析》（*The World Education Crisis: A Systems Analysis*），将教育落后确立为跨国普世危机，开创了国际组织依托危机叙事拓展教育治理职能的经典[[Paradigm|范式]]。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 422)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
+> - **1963–1970 — 机构创立与普世危机话语确立** 1963 年 7 月 IIEP 正式建立，首任主任由前美国教育与文化助理国务卿[[Philip H. Coombs|菲利普·库姆斯]]（Philip Coombs）担任；1967 年库姆斯牵头组织弗吉尼亚州威廉斯堡“世界教育危机国际会议”，并在 1968 年由 IIEP 正式出版里程碑著作《世界教育危机：系统分析》（*The World Education Crisis: A Systems Analysis*），将教育落后确立为跨国普世危机，开创了国际组织依托危机叙事拓展教育治理职能的经典[[Paradigm|范式]]。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 422)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
 > - **1964–1980 — 世行—教科文组织合作期与实证扩张** 1964 年世界银行与联合国教科文组织签署合作协议借道入场，IIEP 深度参与世界银行向第三世界提供基础设施贷款的前期规划与学校建筑设计；同时为亚非拉数十个新独立国家编制国家五年教育扩张规划。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
 > - **1980 年代 — 世行决裂与规划理性危机反思** 1980 年世界银行发布首份独立《教育部门政策文件》，依托自身建立的 1,120 项教育投资收益率数据库彻底与联合国教科文组织合作机制决裂，自立实证放贷门户；同时伴随全球经济滞胀与文凭贬值，战后机械人力预测承诺破灭，IIEP 陷入方法论反思，逐步放弃僵化中央规划，转向基础教育普及、弱势群体公平与分权化行政治理。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 68–69)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 548)]]
 > - **2000 年代至今 — 危机情境治理与数字化规划转型** 面对全球冲突、气候灾害与数字鸿沟，IIEP 重构其核心使命，将业务重点转移至受危机影响地区的韧性教育规划、教育反腐败与伦理平台（Ethics and Corruption in Education，ETICO）审计、以及利用地理信息系统（Geographic Information System，GIS）进行学校网络布局优化。
@@ -178,6 +178,6 @@ updated: 2026-09-11
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 梳理战后系列教育危机国际会议，论证 Philip Coombs 与 IIEP 如何开创普世教育危机叙事[[Paradigm|范式]]，并详述 1964–1980 年世行与教科文组织的合作与制度决裂。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 梳理战后系列教育危机国际会议，论证 [[Philip H. Coombs|Philip Coombs]] 与 IIEP 如何开创普世教育危机叙事[[Paradigm|范式]]，并详述 1964–1980 年世行与教科文组织的合作与制度决裂。
 > - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 从冷战地缘政治三大范式切入，深刻拆解 IIEP 作为[[Realism in International Relations|现实主义]]国家利益与超级大国外交战略[[Soft Power|软实力]]延伸的制度成因。
 > - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 深度剖析 IIEP 所代表的战后国家规划理性与技术官僚[[Scientific Paradigm|科学范式]]，揭示量化实证模型如何沦为执政权力推卸道德政治责任的“[[Social Science as Legitimation Alibi|合法化借口]]”（Alibi）。
