@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-09-11
+updated: 2026-09-12
 ---
 
 # Global Education Governing Complex
@@ -191,6 +191,9 @@ updated: 2026-09-11
 > > 批评该复合体内部核心经济与金融组织缺乏民选合法性，却主导了公共教育价值导向。
 > >
 > > - **学术界与公民社会批判** 谴责[[OECD|经合组织]]与世界银行过度将教育工具化为[[Human Capital Theory|人力资本]]与经济增长的附庸，量化评价窄化了育人内涵，公私资本深度结盟侵害了教育作为公共产品的民主本质。
+
+> [!critique] 外部批评
+> - **民主问责赤字与排他性权力割据** 批判学者指出治理复合体将重大教育价值简化为狭隘的经济绩效与量化指标，五大国际组织与跨国私人资本深度结盟，在多边协作修辞下构建起排他性战略同盟，严重削弱了民族国家公共教育决策的民主问责基础。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 539, 545–546)]]
 
 > [!warning] 适用局限
 > 全球教育治理复合体概念高度聚焦于跨国多边平台、国际宏观规制网络与公私资本中枢，对于脱离国际援助体系的草根教育实验、微观学校日常实践以及完全封闭集权的本土体制解释力相对间接。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 550)]]

@@ -8,9 +8,9 @@ summary: "美国著名教育经济学家、高级外交官与国际教育规划�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 3
+person_related_count: 5
 person_related_level: 0
-person_related_stars: "☆"
+person_related_stars: ""
 person_related_color: "#e5e7eb"
 born: "1915"
 died: "2006"
@@ -20,7 +20,9 @@ tags:
   - person/educational-planning
   - theme/crisis-narrative
   - theme/cold-war
-related_concepts: []
+related_concepts:
+  - "[[Policy Brokerage]]"
+  - "[[Technology Deficit of Education]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -95,7 +97,16 @@ updated: 2026-09-12
 
 ---
 
-## 争议与评价
+## 关系网络
+
+> [!person-network] 关系网络
+> - **机构／运动／项目** [[International Institute for Educational Planning]] — 创始人兼首任所长（1963–1968），开创多边教育规划技术培训。
+> - **机构／运动／项目** 弗吉尼亚威廉斯堡世界教育危机大会（1967） — 会议核心组织者与议题设定者，正式确立全球教育危机叙事。
+> - **批评者／论敌** 冷战时期苏联与东欧社会主义学者 — 批评其普世主义危机论掩盖了资本主义体制矛盾与阶级压迫。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 542)]]
+
+---
+
+## 争议与批评
 
 > [!debates] 国际评价与冷战意识形态争端
 >
@@ -104,6 +115,25 @@ updated: 2026-09-12
 > >
 > > - **西方主流政策界与国际组织** 盛赞其著作揭示了教育系统的普遍运行规律，为战后国际教育援助与量化规划指明了科学方向。
 > > - **苏联与东欧社会主义学者** 强烈抨击其著作掩盖了阶级压迫与资本主义制度危机，指责其所谓“普世危机”是将资本主义教育失调强加给社会主义国家的意识形态修辞工具。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 542)]]
+
+> [!critique]- 批评索引
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 指出库姆斯所具象化的人格化普遍危机叙事在冷战中具有鲜明的西方地缘政治烙印，将特定资本主义工业社会的问题外推为全球普世问题。
+
+> [!warning] 未解问题与边界
+> 库姆斯的系统分析框架高度依赖国家层面的宏观投入-产出可量化指标，难以深入捕捉微观教室层面的教学情境复杂性与文化差异。
+
+---
+
+## 条目关联
+
+> [!entry-map]
+>
+> | 条目 | 类型 | 贡献 |
+> |:-----|:-----|:-----|
+> | [[Policy Brokerage]] | 概念 | 通过世界教育危机大会奠定跨国政策中介与多边干预的合法性基石。 |
+> | [[Technology Deficit of Education]] | 概念 | 将教育系统投入产出的内在滞后失衡界定为危机动因，强化跨国规划需求。 |
+> | [[A Nation at Risk 1983]] | 政策 | 其倡导的危机动员话语直接启发了 1980 年代美国国内及跨国指标危机报告。 |
+> | [[International Institute for Educational Planning]] | 组织 | 参与创建并担任首任所长，奠定战后国际教育规划专业化标准。 |
 
 ---
 

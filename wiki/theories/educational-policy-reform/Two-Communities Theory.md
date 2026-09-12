@@ -191,7 +191,7 @@ updated: 2026-09-12
 > > - **[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]]** 揭示当同一个组织兼具知识生产、推销与资助功能时，所谓跨越两界的中介本质上已演化为施展硬事实软权力的政治行为。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 538)]]
 
 > [!critique]- 批评索引
-> - [[Argument_Steiner-Khamsi_2024_CE]] — 批评传统两社区模型将科学与政治预设为彼此割裂、各自纯粹的孤岛，忽视了现代国际组织集知识生产、推介与资助为一体的权力共谋实质。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 批评传统两社区模型将科学与政治预设为彼此割裂、各自纯粹的孤岛，忽视了现代国际组织集知识生产、推介与资助为一体的权力共谋实质。
 
 ---
 
