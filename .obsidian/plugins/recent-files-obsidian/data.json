@@ -1,16 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Best Evidence Synthesis",
-      "path": "wiki/facts/new-zealand/Best Evidence Synthesis.md"
-    },
-    {
       "basename": "Argument_Burns_Schuller_2022_BrokerageAgencies",
       "path": "wiki/arguments/books/Revai(Ed.)_2022_OECD/Argument_Burns_Schuller_2022_BrokerageAgencies.md"
     },
     {
-      "basename": "Education Endowment Foundation",
-      "path": "wiki/facts/uk/Education Endowment Foundation.md"
+      "basename": "Centre for the Use of Research and Evidence in Education",
+      "path": "wiki/facts/uk/Centre for the Use of Research and Evidence in Education.md"
+    },
+    {
+      "basename": "Network Analysis",
+      "path": "wiki/methods/mixed/Network Analysis.md"
+    },
+    {
+      "basename": "Epistemic Governance",
+      "path": "wiki/concepts/higher-education/Epistemic Governance.md"
+    },
+    {
+      "basename": "Professional Judgment",
+      "path": "wiki/concepts/educational-policy-reform/Professional Judgment.md"
+    },
+    {
+      "basename": "Knowledge Mediation",
+      "path": "wiki/concepts/educational-policy-reform/Knowledge Mediation.md"
+    },
+    {
+      "basename": "Complexity Theory",
+      "path": "wiki/theories/educational-philosophy/Complexity Theory.md"
+    },
+    {
+      "basename": "Educational Brokerage Agency",
+      "path": "wiki/concepts/educational-policy-reform/Educational Brokerage Agency.md"
+    },
+    {
+      "basename": "EU Evidence-Informed Education Policy Initiatives",
+      "path": "wiki/facts/eu/EU Evidence-Informed Education Policy Initiatives.md"
+    },
+    {
+      "basename": "Danish Clearinghouse for Educational Research",
+      "path": "wiki/facts/denmark/Danish Clearinghouse for Educational Research.md"
     },
     {
       "basename": "EPPI-Centre",
@@ -19,6 +47,14 @@
     {
       "basename": "What Works Clearinghouse",
       "path": "wiki/facts/us/What Works Clearinghouse.md"
+    },
+    {
+      "basename": "Best Evidence Synthesis",
+      "path": "wiki/facts/new-zealand/Best Evidence Synthesis.md"
+    },
+    {
+      "basename": "Education Endowment Foundation",
+      "path": "wiki/facts/uk/Education Endowment Foundation.md"
     },
     {
       "basename": "Educational Evidence Clearinghouses",
@@ -85,10 +121,6 @@
       "path": "wiki/theories/educational-policy-reform/Knowledge-to-Action Models.md"
     },
     {
-      "basename": "Complexity Theory",
-      "path": "wiki/theories/educational-philosophy/Complexity Theory.md"
-    },
-    {
       "basename": "Evidence Ecosystem",
       "path": "wiki/concepts/educational-policy-reform/Evidence Ecosystem.md"
     },
@@ -153,10 +185,6 @@
       "path": "wiki/concepts/educational-philosophy/Phronesis.md"
     },
     {
-      "basename": "Epistemic Governance",
-      "path": "wiki/concepts/higher-education/Epistemic Governance.md"
-    },
-    {
       "basename": "Centre for Educational Research and Innovation",
       "path": "wiki/facts/global/Centre for Educational Research and Innovation.md"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "Unit of Analysis",
       "path": "wiki/concepts/research-methodology/Unit of Analysis.md"
-    },
-    {
-      "basename": "Absorptive Capacity",
-      "path": "wiki/concepts/educational-leadership-administration/Absorptive Capacity.md"
-    },
-    {
-      "basename": "Argument_Steiner-Khamsi_2024_CE",
-      "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Steiner-Khamsi_2024_CE.md"
-    },
-    {
-      "basename": "Richard Rose",
-      "path": "wiki/persons/uk/Richard Rose.md"
-    },
-    {
-      "basename": "Technologies of Exclusion",
-      "path": "wiki/concepts/comparative-education/Technologies of Exclusion.md"
-    },
-    {
-      "basename": "Social-Emotional Learning",
-      "path": "wiki/concepts/competency-and-assessment/Social-Emotional Learning.md"
-    },
-    {
-      "basename": "Global Education Monitoring Report",
-      "path": "wiki/facts/global/Global Education Monitoring Report.md"
-    },
-    {
-      "basename": "Education-for-Mandates",
-      "path": "wiki/concepts/comparative-education/Education-for-Mandates.md"
     }
   ],
   "omittedPaths": [],

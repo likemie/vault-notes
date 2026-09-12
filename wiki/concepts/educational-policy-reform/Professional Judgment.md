@@ -6,7 +6,7 @@ aliases:
 summary: "教师在复杂、非线性的教学情境中整合研究证据、伦理标准、教育学原则与实践经验做出决策的核心专业能力，是 EIP 多源整合的枢纽与抵御技术官僚主义去专业化的关键防线。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 42
+related_count: 44
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Research Literacy]]"
   - "[[Variable]]"
   - "[[Document]]"
+  - "[[International Education]]"
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
 related_theories:
   - "[[Critical Realism]]"
@@ -63,11 +64,12 @@ related_arguments:
   - "[[Argument_Ross_Morrison_2021_ROE]]"
   - "[[Argument_Biesta_2010_SPE]]"
   - "[[Argument_Qvortrup_2019_NordSTEP]]"
+  - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
   - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
 confidence: high
 status: draft
 created: "2026-05-03"
-updated: 2026-09-12
+updated: 2026-09-13
 ---
 
 # Professional Judgment
@@ -183,10 +185,13 @@ updated: 2026-09-12
 ### 命题二　新自由主义数字治理与排行榜文化挤压价值审议并导致教师去专业化
 
 > [!concept-lens] 制度环境与去专业化危机
-> 揭示绩效主义、数字审计与标准化工具包对教师专业判断空间的系统性剥夺。
+> 揭示绩效主义、数字审计、商业洗白与自动化算法对教师专业判断空间的系统性剥夺。
 
 > [!claim] [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]]; [[Argument_Biesta_2010_SPE|Biesta (2010)]]
 > **[[Governing by Numbers|数字治理]]与去专业化异化** 新自由主义政策盛行[[Governing by Numbers|数字治理]]，通过诸如 [[Education Endowment Foundation|EEF]] 工具包等扁平化排行榜向学校推销单一有效性话语。这种审计文化挤压了关于教育根本目的（To What Ends）的价值探讨，迫使教师沦为依照标准化清单执行技术传递的操作工人，造成教师群体的去专业化（De-professionalisation）。政策评估与学校改进必须警惕排行榜的破坏性决策，捍卫教师的专业自主能动性。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, pp. 4, 14, 16)]]
+
+> [!claim] [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]]
+> **循证医学危机镜像与反算法去技能化** 借鉴循证医学（Evidence-Based Medicine, EBM）发展后期的深刻危机（Greenhalgh et al., 2014）：过度膨胀的临床指南与僵化指标排挤了医生的微观临床审议，被商业营销绑架的“证据洗白”严重损害患者福祉。将此教训映射至教育领域，技术官僚试图将教学拆解为离散的自动化操作或依赖算法驱动决策，实质上是对教师的去技能化（De-skilling）。教学建立在复杂情境反思、扎根实践经验与伦理审议的基础之上，是不可替代的知识型专业（Knowledge-rich Profession）；面对商业包装的证据产品，教师扎根微观情境的临床专业判断是抵御算法异化与技术官僚侵蚀的核心防线([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 60, 65–66]])。
 
 ---
 
@@ -216,7 +221,7 @@ updated: 2026-09-12
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **证据概率性** | 研究证据为开放系统中的概率性资源，需专业判断情境激活 | 教学决策、证据转化 | [[Argument_Wrigley_2018_BERJ\|Wrigley (2018)]]; Pawson (2006) |
-> | **反数字治理** | 数字审计与排行榜文化剥夺价值审议，导致教师去专业化 | 政策评估、学校改进 | [[Argument_Biesta_2010_SPE\|Biesta (2010)]] |
+> | **反数字治理** | 数字审计与算法去技能化剥夺价值审议，导致教师去专业化 | 政策评估、学校改进、人机协同 | [[Argument_Biesta_2010_SPE\|Biesta (2010)]]; [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]] |
 > | **EIP 枢纽地位** | 专业判断为四源整合枢纽，严谨证据与严谨判断互为条件 | 证据知情实践推进 | [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]]; Campbell (2016) |
 > | **支持性生态** | 专业判断依赖反馈循环与跨层组织支持，拒绝孤立直觉 | 教师专业发展、共同体建设 | [[Argument_Qvortrup_2019_NordSTEP\|Qvortrup (2019)]]; [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] |
 
@@ -232,6 +237,7 @@ updated: 2026-09-12
 > - **2017 — [[Evidence-Informed Practice|EIP]] 四源整合的核心枢纽** [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] 将专业判断确立为 EIP 四源整合的核心枢纽，提出严谨证据与严谨判断并存的原则。
 > - **2018 — [[Critical Realism|批判实在论]]解构与概率性资源** Wrigley 在 BERJ 发表论文，将证据界定为开放系统中的概率性资源，深刻批判[[Governing by Numbers|数字治理]]对专业判断的侵蚀。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 16)]]
 > - **2021 — 复杂改革评价的多维解读** [[Argument_Ross_Morrison_2021_ROE|Ross & Morrison (2021)]] 结合巴尔的摩 [[Students and Teachers Accessing Tomorrow|STAT]] 项目，论证专业判断在解读复杂评估报告与权衡地方价值中的不可替代作用。
+> - **2022 — 循证医学危机镜像与反算法去技能化** [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]] 引入循证医学（EBM）发展后期的危机教训（Greenhalgh et al., 2014），警示自动化算法与离散任务拆解对教师专业判断的剥夺，确立教学作为知识型专业的不可替代性。
 > - **2026 — 专业能动性与多维整合范式** [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] [[Systematic Review|系统综述]]指出，学校[[Research Utilization|研究使用]]正由被动的线性实施转向以[[Teacher Professional Agency|教师专业能动性]]为核心的整合。
 
 ---
@@ -245,6 +251,12 @@ updated: 2026-09-12
 >
 > > [!axis] 专业判断与[[Empiricism|经验主义]]的滑坡风险
 > > 强循证学者担忧，若过度拔高专业判断而缺乏严谨证据和方法论约束，判断极易沦为捍卫落后教学习惯的主观遮羞布；因此必须维持严谨证据与严谨判断的动态张力。[[Argument_Ross_Morrison_2021_ROE|(Ross & Morrison, 2021, p. 123)]]; [[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 132)]]
+>
+> > [!axis] 算法驱动标准化处方 vs 现场临床专业审议
+> > 探讨在教育科技与算法管理兴起背景下，算法推荐能否替代教师在真实教学互动中的专业判断。
+> >
+> > - **技术官僚与商业算法视角** 认为基于大数据的算法分析与标准化操作指南能够剔除教师主观偏倚，实现教学干预效能的最优化。
+> > - **知识型专业批判视角** [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]] 结合批判学者（Facer & Selwyn, 2021; Ulferts, 2021）指出，教学充满不可预测的伦理互动与微观情境变化，依赖算法处方将引发教师严重去技能化（De-skilling），现场专业判断是抵御证据异化的核心防线。
 
 > [!tension] 实验黄金标准（What Works） vs 专业价值审议（What Matters）
 > - **实验黄金标准（What Works）** 追求去情境化的普遍因果效度，主张以高等级证据规范教学行为。
@@ -267,6 +279,7 @@ updated: 2026-09-12
 > | [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017, p. 130)]] 转述 Cooper et al. | 小学教师群体，课堂评估实践信息搜寻 | 大规模调查与[[In-depth Interview\|深度访谈]] | 教师获取信息的最首要渠道 | 教师主要从其他一线教师（同行专业网络）获取评估信息 | — | 证实专业人际网络主导着微观证据流向 |
 > | [[Argument_Ross_Morrison_2021_ROE\|Ross & Morrison, 2021, pp. 122–123]] | 美国巴尔的摩县 [[Students and Teachers Accessing Tomorrow\|STAT]] 技术改革 | 形成性项目评估[[Case Study\|案例研究]] | 不同决策主体对同一份评估报告的解读与态度 | 校董、校长与教师基于各自专业判断给出了截然不同的政策解读 | — | 证明专业判断在复杂数据解释中的持续主导性 |
 > | [[Argument_Wrigley_2018_BERJ\|Wrigley, 2018, p. 12]] | 英国中小学面临预算缩减情境 | 实证案例与政策文本分析 | [[Education Endowment Foundation\|EEF]] 工具包效应量排行的决策应用 | 部分学校盲信工具包低效应量排行误裁教学助理（TA） | — | 证实抹杀专业判断的技术官僚决策会产生破坏性后果 |
+> | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022, pp. 65–66)]] | [[International Education\|国际教育]]中介演进与循证医学危机交叉考察 | 历史制度主义与理论批判综合 | 商业化证据洗白与技术官僚对专业判断的侵蚀 | 揭示将指南与算法绝对化会导致临床专业判断退化，教学作为知识型专业需抵御去技能化 | — | 提示防范教育证据中介滑向算法技术官僚主义 |
 > | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] | 涵盖 28 个国家的 109 项学校[[Research Utilization\|研究使用]]实证文献 | [[Systematic Review\|系统综述]]＋[[Framework Synthesis\|框架综合]] | 教师研究使用中的能动性与整合形态 | 象征性与[[Conceptual, Instrumental, and Symbolic Use of Research\|工具性使用]]居多，[[Reflexivity\|反思性]]深度整合相对罕见 | — | 提示需在组织层级为专业判断提供可持续支持结构 |
 
 ---
@@ -277,5 +290,6 @@ updated: 2026-09-12
 > - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 以[[Critical Realism|批判实在论]]将研究证据界定为开放系统中的概率性资源，分析抹杀专业判断导致的教学助理误裁实证案例。
 > - [[Argument_Biesta_2010_SPE|Biesta (2010)]] — 批判技术官僚话语，提出教育核心在于价值审议（“为了什么目的”），确立专业判断的伦理与政治维度。
 > - [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] — 将专业判断确立为 [[Evidence-Informed Practice|EIP]] 四源整合的核心枢纽，论述严谨证据与严谨判断过程并存的原则。
+> - [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]] — 引入循证医学危机透镜，批判技术官僚算法化对教师专业判断的剥夺与去技能化风险，捍卫教学作为知识型专业的核心地位。
 > - [[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]] — 结合[[Bounded Rationality|有限理性]]理论，论证专业判断是 [[Visible Learning]] 体系中的缺失环节，反馈是支持教师判断的核心工具。
 > - [[Argument_Ross_Morrison_2021_ROE|Ross & Morrison (2021)]] — 通过 [[Students and Teachers Accessing Tomorrow|STAT]] 项目[[Formative Assessment|形成性评估]]案例，展示专业判断在复杂评估报告解读与地方价值权衡中的主导作用。

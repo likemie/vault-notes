@@ -2099,7 +2099,7 @@ Total entries: **2412**
 > - [[SFI Report]] — Winther & Nielsen 编辑的丹麦 SFI 报告，是检验 Hattie/Meyer/Helmke 有效教学综合丹麦适用性的主要本土证据
 
 > [!index-list]- Organization (1)
-> - [[Danish Clearinghouse for Educational Research]] — 2006年奥胡斯大学建立的欧洲大陆早期证据本位教育中心，通过系统综述为丹麦学校实践者提供研究证据。
+> - [[Danish Clearinghouse for Educational Research]] — 2006年奥胡斯大学建立、2017年关停的欧洲大陆先驱教育证据清算机构，经合组织2007年追踪的标杆样本之一，其夭折揭示了依赖短期合同拨款的中介机构在政治预算周期面前的存续脆弱性。
 
 > [!index-list]- Policy (1)
 > - [[Danish Public School Reform]] — 丹麦议会多数通过公立学校改革，以学习目标替代科目目标，明确引用 Hattie VL，引发教师和研究者的强烈反对
@@ -2124,7 +2124,7 @@ Total entries: **2412**
 > - [[Comparative Education Society in Europe]] — 1961年在战后欧洲多边主义合作和教育民主化浪潮下成立的专业学术学会。首任主席为英国首位比较教育教授 Joseph Lauwerys，学会的成立标志着比较教育在欧洲的专业化与大学建制化，是理性主义国际合作传统重塑比较教育的经典制度产物。
 
 > [!index-list]- Policy (10)
-> - [[EU Evidence-Informed Education Policy Initiatives]] — 2006年以来欧盟通过评价文化、知识中介网络和Eurydice支持机制推动成员国在教育决策中使用证据，但主要以指导和协调为主而非强制统一政策。
+> - [[EU Evidence-Informed Education Policy Initiatives]] — 2006年以来欧盟通过软法治理、评价文化与EIPPEE知识中介网络推动成员国在教育决策中使用多元证据，开创了从线性单向推送走向跨国元中介协同的欧洲实践进路。
 > - [[EU Key Competences for Lifelong Learning]] — 2018年欧盟理事会修订的终身学习关键能力框架，将能力定义为知识、技能和态度的动态组合，并提出八项关键能力及其评估挑战。
 > - [[EU Skills Agenda]] — EU 2016 年技能政策，融合积极劳动力市场政策与教育培训，并在欧盟各地呈现差异化实施路径
 > - [[Europe 2020 Strategy]] — EU 2010–2020 十年战略规划，以“智能、可持续与包容性增长“为框架，涵盖就业、研发、气候、教育、减贫五大领域
