@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-09-12
+updated: '2026-09-12'
 ---
 
 # Global Education Governing Complex
@@ -146,7 +146,7 @@ updated: 2026-09-12
 > 分析复合体如何在缺乏强制制裁权的情境下，通过数据技术维持对主权国家的有效调控。
 
 > [!claim] Ydesen (2019); [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]]
-> **硬事实充当跨国规制的强制性替代物** 全球教育治理复合体的权力运作高度依赖对量化、标准化与可比较知识的技术垄断；通过大型国际评估（如[[PISA|国际学生评估项目]]（Programme for International Student Assessment，PISA））与基准数据库，复合体将去情境化的[[Performance Indicators|表现指标]]转化为问责杠杆，诱发国际排名与“点名羞辱”（naming and shaming）机制，从而在国家主权边界内部驱动政策重构。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 539, 549)]]
+> **硬事实充当跨国规制的强制性替代物** 全球教育治理复合体的权力运作高度依赖对量化、标准化与可比较知识的技术垄断；通过大型国际评估（如[[PISA|国际学生评估项目]]（Programme for International Student Assessment，PISA））与基准数据库，复合体将去情境化的表现指标转化为问责杠杆，诱发国际排名与“点名羞辱”（naming and shaming）机制，从而在国家主权边界内部驱动政策重构。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 539, 549)]]
 
 ---
 

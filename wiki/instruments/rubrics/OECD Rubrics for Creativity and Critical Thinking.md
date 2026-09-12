@@ -9,7 +9,7 @@ aliases:
 summary: "由OECD教育研究与创新中心（CERI）研发的通用高阶思维评价量规，构建了贯穿探究、想象、实作与反思四大维度的2x4认知表现矩阵，为教师在跨学科课堂中培养与评估创造力与批判性思维提供操作化支架。"
 type: instrument
 instrument_type: rubric
-instrument_related_count: 16
+instrument_related_count: 17
 instrument_related_level: 3
 instrument_related_stars: "⭐⭐⭐"
 instrument_related_color: "#ffedd5"
@@ -51,12 +51,13 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[OECD]]"
+  - "[[Centre for Educational Research and Innovation]]"
 related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
 confidence: high
 status: completed
 created: 2026-08-28
-updated: 2026-09-11
+updated: '2026-09-12'
 ---
 
 # OECD Rubrics for Creativity and Critical Thinking
@@ -67,7 +68,7 @@ updated: 2026-09-11
 
 > [!instrument-profile] [[OECD]] [[Creativity|创造力]]与[[Critical Thinking|批判性思维]]量规
 > - **工具类型** 跨学科[[Authentic Assessment|表现性评价]]量规（Cross-Disciplinary Assessment Rubrics）。
-> - **开发者与年份** Vincent-Lancrin et al. / OECD 教育研究与[[Innovation Hub|创新中心]]（CERI）（2019）。[[Argument_Bouckaert_2023_OECD|(Vincent-Lancrin et al., 2019; Bouckaert, 2023, pp. 28, 30)]]
+> - **开发者与年份** Vincent-Lancrin et al. / OECD 教育研究与[[Innovation Hub|创新中心]]（[[Centre for Educational Research and Innovation|CERI]]）（2019）。[[Argument_Bouckaert_2023_OECD|(Vincent-Lancrin et al., 2019; Bouckaert, 2023, pp. 28, 30)]]
 > - **测量目的** 帮助大中小学教师将宏观抽象的批判性思维与创造力解构为可观察、可教学、可评价的课堂行为指标，支持形成性学习设计与表现性学业评价。
 > - **实施方式** 嵌入日常学科课程教学与任务考核，教师与学生依据量规阶梯描述符进行自我评估、同伴互评与教师定性评价。
 

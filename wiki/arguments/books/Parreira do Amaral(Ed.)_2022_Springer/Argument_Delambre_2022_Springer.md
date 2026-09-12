@@ -59,7 +59,7 @@ sources:
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
 created: '2026-05-11'
-updated: '2026-08-27'
+updated: '2026-09-12'
 year: 2022
 doi: ""
 citation_aliases:
@@ -90,7 +90,7 @@ Delambre 的核心关切是：现有的知识地缘政治讨论（以 [[Walter M
 > - **理论建构** 基于作者 2013–2020 年在巴西里约热内卢开展的多案例实践，归纳提出 [[Creative Tension of Sense]] [[Epistemology|认识论]]和 [[Ganz-Methode]] 方法论(p.107)
 > - **案例范围** 涵盖六个实践领域——个体发展、地方发展（通过 [[Ecomuseology|生态博物馆]] 和剧场）、商业发展、学校发展、制度发展、可持续发展
 > - **关键案例** 里约热内卢 Rocinha 贫民窟的剧场项目（"Bando Cultural Favelados da Rocinha"），导演 [[Richard Castelo Branco]] 以自创的 EspectAtor 方法指导居民讲述自身的暴力创伤故事。该案例被用作"[[Epistemology of Resistance|抵抗认识论]]"（epistemology of resistance）在实践中的具体呈现(p.109–110)
-> - **方法论局限** 论文未提供案例的系统性数据（如访谈[[Transcription in Qualitative Research|转录]]、参与者数量、[[Performance Indicators|评估指标]]），案例仅以简要叙述方式呈现，是"说明"而非"证明"
+> - **方法论局限** 论文未提供案例的系统性数据（如访谈[[Transcription in Qualitative Research|转录]]、参与者数量、评估指标），案例仅以简要叙述方式呈现，是"说明"而非"证明"
 
 ## 论证结构
 
@@ -171,7 +171,7 @@ Delambre 的最终结论是一个概念重构：在 [[Tense Society|张力社会
 > - AI、数字技术和社交媒体的崛起不只是技术变革，而是对"人是什么"的追问——当公司可以没有工人、信息权威从机构转向个体 influencer、人际关系被社交媒体的时间逻辑重组时，"活着的意义"（sense of life）成为张力社会的核心问题(p.115–117)
 
 > [!info]- 核心数据
-> 本文为理论建构文章，未提供系统的实证数据。作者提及 2013–2020 年间的多案例实践（涵盖六个领域）但未报告[[Sample Size Determination|样本量]]、[[Performance Indicators|评估指标]]或案例比较结果(p.107)。
+> 本文为理论建构文章，未提供系统的实证数据。作者提及 2013–2020 年间的多案例实践（涵盖六个领域）但未报告[[Sample Size Determination|样本量]]、评估指标或案例比较结果(p.107)。
 
 ## 关键引用
 

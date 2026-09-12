@@ -107,7 +107,7 @@ related_theories:
   - "[[Creative Problem Solving]]"
 status: draft
 created: 2026-08-23
-updated: '2026-08-27'
+updated: '2026-09-12'
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Runco_2026_CRJ"
@@ -250,7 +250,7 @@ issuing_organization: ""
 > | [[Publication Bias\|发表偏倚]]检验 | 是否通过[[Funnel Plot\|漏斗图]]、艾格回归等评估潜在发表偏倚？ |
 > | [[Conflict of Interest in Research\|利益冲突]]声明 | 是否明确列出资金资助来源与无潜在利益冲突声明？ |
 >
-> **图表解读** 本表呈现了用于评估 52 项一阶元分析科学规范度的 12 项 AMSTAR [[Performance Indicators|评估指标]]。每项指标按满足（1 分）与未满足（0 分）进行二分类独立双盲编码（评定者间一致性达到 97%）。以得分达到 0.75（即至少满足 9 项准则）作为高质量元分析判定阈值。统计检验显示，方法学质量未对综合效应量产生显著调节影响（$F(1, 12.9) = 0.97, p = .34$），表明纳入研究在不同质量等级下均展现出一致稳健的实证效应。（pp. 4–6）
+> **图表解读** 本表呈现了用于评估 52 项一阶元分析科学规范度的 12 项 AMSTAR 评估指标。每项指标按满足（1 分）与未满足（0 分）进行二分类独立双盲编码（评定者间一致性达到 97%）。以得分达到 0.75（即至少满足 9 项准则）作为高质量元分析判定阈值。统计检验显示，方法学质量未对综合效应量产生显著调节影响（$F(1, 12.9) = 0.97, p = .34$），表明纳入研究在不同质量等级下均展现出一致稳健的实证效应。（pp. 4–6）
 
 > [!ref-table]- 表 3：调节变量亚组分析与[[Prediction Interval|预测区间]]
 > | 调节变量与亚组分类 | 估计效应量 | 95% 置信区间（CI） | 95% [[Prediction Interval\|预测区间]]（Prediction Interval, PI） |

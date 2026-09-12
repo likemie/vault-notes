@@ -41,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-13'
-updated: '2026-08-27'
+updated: '2026-09-12'
 ---
 
 # Selectivity
@@ -54,7 +54,7 @@ updated: '2026-08-27'
 > Jessop 的关键洞见在于：选择性不是决策者有意的偏见或偏袒，而是政策工具本身的结构性特征。在自由主义经济秩序的框架下——即 Jessop 所描述的"欧盟就业和经济政策的深层预设"——政策工具"不可避免地使决策者聚焦于某些议题而忽略其他"(Jessop, 2007; [[Argument_Rambla_2022_Springer|Rambla, 2022, p.166]])。
 
 > [!quote]
-> "[[Performance Indicators|policy instruments]] 'select' relevant policy issues in the arena of public debate and simultaneously induce actors to sideline other issues."（Jessop, 2007，引用于 Rambla, 2022, p.166）
+> "policy instruments 'select' relevant policy issues in the arena of public debate and simultaneously induce actors to sideline other issues."（Jessop, 2007，引用于 Rambla, 2022, p.166）
 
 ## 概念辨析
 
@@ -73,7 +73,7 @@ updated: '2026-08-27'
 ## 核心要素
 
 > [!abstract]
-> 基于 Rambla（2022, p.174–175）对欧盟创新与教育培训政策的分析，选择性通过以下三种机制运作（参见 [[Argument_Rambla_2022_Springer]] 第 6 步的详细拆解）：
+> 基于 [[Argument_Rambla_2022_Springer|Rambla (2022, pp. 174–175)]] 对欧盟创新与教育培训政策的分析，选择性通过以下三种机制运作（参见 [[Argument_Rambla_2022_Springer|Rambla (2022)]] 第 6 步的详细拆解）：
 
 ### 筛选议题优先次序
 
@@ -100,7 +100,7 @@ updated: '2026-08-27'
 ## 实证发现
 
 > [!success]
-> 以下发现全部来自 Rambla（2022）基于 [[YOUNG_ADULLLT]] 数据的分析：
+> 以下发现全部来自 [[Argument_Rambla_2022_Springer|Rambla (2022)]] 基于 [[YOUNG_ADULLLT]] 数据的分析：
 
 ### 制度传统对选择性的缓冲效应
 

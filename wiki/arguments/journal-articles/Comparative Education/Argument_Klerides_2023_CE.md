@@ -9,7 +9,7 @@ title: "Argument_Klerides_2023_CE"
 argument_key: "Argument_Klerides_2023_CE"
 argument_display_title: "Comparative education and international relations"
 argument_kind: "journal-article"
-argument_related_count: 56
+argument_related_count: 57
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Reference Society]]"
   - "[[Hypothesis]]"
   - "[[International Mind]]"
+  - "[[Externalization]]"
   - "[[Policy Entrepreneur]]"
   - "[[Travelling Policy]]"
   - "[[Educated Identity]]"
@@ -89,7 +90,7 @@ sources:
 part_of: ''
 status: active
 created: 2026-06-08
-updated: 2026-07-11
+updated: 2026-09-12
 year: 2023
 doi: "10.1080/03050068.2023.2216045"
 citation_aliases:
@@ -203,7 +204,7 @@ citation_aliases:
 >   - 1961年 [[OECD|经合组织]]（OECD）成立，系统将教育规划纳入经济增长议程(Elfert, 2017)。
 >   - 1963年 联合国教科文组织成立[[International Education|国际教育]]规划研究所（[[International Institute for Educational Planning|IIEP]]），由前美国助理国务卿库姆斯领导，将教育经济学与[[Human Capital Theory|人力资本]]投资在全球推广，芝加哥大学 Anderson 的比较教育中心在融合比较教育与教育经济学中发挥了关键作用。
 > - **1990s 至今 — 新自由主义全球化的延续** 苏联解体后，“发展[[Paradigm|范式]]”演变为新自由主义的“最佳实践”输出话语，世界银行、OECD 等国际组织通过输出“高效教育系统”的标准模型，维持后福特主义的资本积累和以美国为核心的全球资本主义权力网络(p. 422)。
-> - **2000s 至今 — 解释学与转移研究的权力制约** 考恩等学者深化了转移、[[Transfer Translation Transformation|转译]]与转化的解释学框架([[Argument_Cowen_2009_CE|Cowen, 2009]])，但“适应教育”模型从美国南方黑人学校流向非洲再到太平洋殖民地的跨国流动轨迹表明，思想的转移流向依然受到全球地缘权力等级链条的严格支配。
+> - **2000s 至今 — 解释学与转移研究的权力制约** 考恩等学者深化了转移、[[Transfer Translation Transformation|转译]]与转化的解释学框架([[Argument_Cowen_2009_CE|Cowen, 2009b]])，但“适应教育”模型从美国南方黑人学校流向非洲再到太平洋殖民地的跨国流动轨迹表明，思想的转移流向依然受到全球地缘权力等级链条的严格支配。
 
 > [!evidence-grid-a] 在场（Presences）
 > - **以国家为[[Unit of Analysis|分析单位]]** 聚焦于国家管理和运行的[[Common School Movement|公共学校]]系统。
@@ -241,7 +242,7 @@ citation_aliases:
 
 > [!evidence-grid-a] 在场（Presences）
 > - **跨国与全球治理分析** 照亮了多行动者网络、国际组织、慈善事业及跨国公司的政策影响力。
-> - **远处治理的运作机制** 揭示了大数据、基准测试和[[Performance Indicators|评估指标]]如何作为软性政治控制工具起作用。
+> - **远处治理的运作机制** 揭示了大数据、基准测试和评估指标如何作为软性政治控制工具起作用。
 > - **和平政治与制度化历史** 展现了比较教育在促进教科书去刻板印象、推动国际理解中的作用。
 > - **身份多元性与全球公民** 拓宽了分析视野，关注多重身份交叉性与全球公民认同的重组。
 

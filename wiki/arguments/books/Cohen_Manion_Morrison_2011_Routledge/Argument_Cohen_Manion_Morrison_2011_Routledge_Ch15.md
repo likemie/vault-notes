@@ -68,7 +68,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08]]"
 status: draft
 created: 2026-07-12
-updated: '2026-08-27'
+updated: '2026-09-12'
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
@@ -229,7 +229,7 @@ Ary et al.（2009, p. 335）进一步将这两种路径分别命名为前瞻性�
 共变关系（或因果）研究旨在识别当前条件的先行因素。顾名思义，它涉及收集两组数据，其中一组是回溯性的，以确定二者之间的关系。基本设计可表示为（使用 Campbell & Stanley, 1963 的符号：X = 自变量；O = 因变量）：
 
 > [!case] Borkowsky（1970）：音乐教师培训与教学效能
-> 基于这种设计尝试展示音乐教师本科培训质量（X）与后续教学效能（O）之间的关系。培训质量的测量可包括：具体课程成绩、平均绩点、自评等。教学效能可通过学生[[Performance Indicators|表现指标]]、学生知识、[[Student Attitude|学生态度]]和专家判断等评估。所有测量之间的相关被计算以确定关系。
+> 基于这种设计尝试展示音乐教师本科培训质量（X）与后续教学效能（O）之间的关系。培训质量的测量可包括：具体课程成绩、平均绩点、自评等。教学效能可通过学生表现指标、学生知识、[[Student Attitude|学生态度]]和专家判断等评估。所有测量之间的相关被计算以确定关系。
 >
 > 这项研究最多能显示培训质量与教学效能之间存在事后关系（p. 307）。
 
@@ -504,7 +504,7 @@ Ary et al.（2009, p. 335）进一步将这两种路径分别命名为前瞻性�
 > [!citation-card]- 证据只能说明[[Hypothesis|假设]]，不能检验假设
 > 事后回溯假设生成于数据收集之后，因此无法被[[Falsification|证伪]]（Babbie, 2010, p. 462）。正如 Lord（1973, p. 7）所强调的，证据说明假设，不能检验假设：假设不能在与推导出假设的同一数据上进行检验。（第15章，pp. 313, 316）
 >
-> *The ex post facto hypothesis is generated after the data have been collected, so it is not possible to disconfirm it (Babbie, 2010, p. 462). The evidence illustrates rather than tests the hypothesis here (Lord, 1973, p. 7).*
+> *The ex post facto hypothesis is generated after the data have been collected, so it is not possible to disconfirm it (Babbie, 2010, p. 462). The evidence illustrates rather than tests the hypothesis here .*
 
 > [!citation-card]- 将事后回溯研究重新定位为调查
 > 事后回溯设计更适合被理解为调查（surveys），作为需由更常规实验方法在日后检验的假设的有用来源。尽管有诸多局限，教育和心理学中许多重要研究都是事后回溯设计：通常别无选择，无法使一组人成为失败者、犯罪者、自杀者或脑损伤者，研究必须依赖已有群体。（第15章，p. 310）

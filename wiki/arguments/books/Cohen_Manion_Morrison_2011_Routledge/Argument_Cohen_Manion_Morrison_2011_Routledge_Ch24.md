@@ -98,7 +98,7 @@ related_instruments:
   - "[[Consensual Assessment Technique]]"
 status: draft
 created: 2026-07-24
-updated: '2026-08-27'
+updated: '2026-09-12'
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24
 
@@ -555,7 +555,7 @@ Gronlund & Linn（1990）建议题目分析需考虑八项准则：
 > 3. 选择将出现在测验中的成分——尽可能代表更大的领域（如需要领域参照）
 > 4. 将成分重新表述为具体、可实践、可观察的行为、活动和实践，它们合理代表和覆盖该成分
 > 5. 指定提供达标信息所需的数据种类
-> 6. 在实操层面指定成功标准（[[Performance Indicators|表现指标]]）——确定分数和等级以及权重处理方法
+> 6. 在实操层面指定成功标准（表现指标）——确定分数和等级以及权重处理方法
 > 7. 编写测验的每个项目
 
 题目分析旨在确保（Gronlund & Linn, 1990, p. 255; Millman & Greene, 1993）：

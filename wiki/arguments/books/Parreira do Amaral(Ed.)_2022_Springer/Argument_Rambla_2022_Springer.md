@@ -74,7 +74,7 @@ sources:
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
 created: '2026-05-13'
-updated: '2026-06-08'
+updated: '2026-09-12'
 year: 2022
 doi: ""
 citation_aliases:
@@ -248,7 +248,7 @@ Rambla 的论证逐层推进，从分析工具的建立到空间背景的交代�
 > [!quote]
 > “欧盟已经通过使用专家知识的政策工具，描绘出成员国及其内部区域的特定地理图像，从而构建了相当复杂的教育和创新想象。”
 > (“欧盟已经通过使用专家知识的政策工具，描绘出成员国及其内部区域的特定地理图像，从而构建了相当复杂的教育和创新想象。”
-> ("The European Union has elaborated quite sophisticated imaginaries of education and innovation by means of [[Performance Indicators|policy instruments]] that use expert knowledge to draw certain geographical images of the member states and the regions within these states."))(p.176)
+> ("The European Union has elaborated quite sophisticated imaginaries of education and innovation by means of policy instruments that use expert knowledge to draw certain geographical images of the member states and the regions within these states."))(p.176)
 
 > [!quote]
 > “绩效指标传达了‘变革理论’，凸显了政策如何在特定情境中激活某些机制。”
