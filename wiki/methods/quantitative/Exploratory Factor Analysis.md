@@ -7,7 +7,7 @@ summary: "一种多变量统计技术，用于在没有预设明确结构的情�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 16
+method_related_count: 17
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -30,6 +30,7 @@ related_instruments:
   - "[[Schommer's Modified Epistemological Questionnaire]]"
 related_persons: []
 related_facts:
+  - "[[Education for All]]"
   - "[[Sense about Science]]"
 related_arguments:
   - "[[Argument_Bergeron_2015_TeachingTOK]]"
@@ -38,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-17
-updated: 2026-08-29
+updated: 2026-09-12
 ---
 
 # Exploratory Factor Analysis
@@ -48,7 +49,7 @@ updated: 2026-08-29
 ## 定义
 
 > [!def] 方法定义
-> 探索性因子分析（Exploratory Factor Analysis, EFA）是一种用于识别数据底层结构的降维技术。它在没有特定关于哪个观测[[Variable|变量]]测量哪个潜在因子[[Hypothesis|假设]]的情况下，通过分析变量之间的相关矩阵，归纳提取出少数几个潜在的公共因子，以解释观测变量之间的大部分方差。
+> 探索性因子分析（Exploratory Factor Analysis, [[Education for All|EFA]]）是一种用于识别数据底层结构的降维技术。它在没有特定关于哪个观测[[Variable|变量]]测量哪个潜在因子[[Hypothesis|假设]]的情况下，通过分析变量之间的相关矩阵，归纳提取出少数几个潜在的公共因子，以解释观测变量之间的大部分方差。
 
 > [!method-scope] 方法范围
 > - **研究对象** 新开发的[[Questionnaire|问卷]]量表数据、尚未确立维度结构的指标体系。
@@ -66,7 +67,7 @@ updated: 2026-08-29
 > - **有效性标准** 提取出的因子具有理论意义上的可解释性，同时满足统计标准（如 KMO 检验、Bartlett 球形检验）。
 
 > [!method-stack] 方法层级
-> - **分析方法** 探索性因子分析（EFA）。
+> - **分析方法** 探索性因子分析（[[Education for All|EFA]]）。
 > - **辅助技术** 主成分分析法（PCA，常被借用为因子提取方法）、最大方差正交旋转（Varimax）、斜交旋转（Promax 或 Oblimin）。
 
 ---
@@ -114,7 +115,7 @@ updated: 2026-08-29
 ## 局限性
 
 > [!method-limits] 方法局限
-> - **误用风险** 经常与主成分分析（PCA）混淆（软件中常默认 PCA），而两者的理论[[Hypothesis|假设]]不同（EFA 假设观测[[Variable|变量]]受潜在因子影响并包含误差，PCA 仅是数据的数学降维重组）。
+> - **误用风险** 经常与主成分分析（PCA）混淆（软件中常默认 PCA），而两者的理论[[Hypothesis|假设]]不同（[[Education for All|EFA]] 假设观测[[Variable|变量]]受潜在因子影响并包含误差，PCA 仅是数据的数学降维重组）。
 > - **适用边界** EFA 只是一个探索过程，不能提供模型整体拟合程度的显著性检验。[[Scale Development|量表编制]]完成后，通常还需要重新收集另一个独立样本的数据，进行[[Confirmatory Factor Analysis|验证性因子分析]]（CFA）来确认该结构。
 
 ---
@@ -122,6 +123,6 @@ updated: 2026-08-29
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Bergeron_2015_TeachingTOK|Bergeron & Rogers (2015)]] — 量化部分利用探索性因子分析（EFA，带主成分提取）检验了包含 11 道题的教学信心量表结构，确认其单一维度结构并解释了 35.03% 的累积方差。
+> - [[Argument_Bergeron_2015_TeachingTOK|Bergeron & Rogers (2015)]] — 量化部分利用探索性因子分析（[[Education for All|EFA]]，带主成分提取）检验了包含 11 道题的教学信心量表结构，确认其单一维度结构并解释了 35.03% 的累积方差。
 > - [[Argument_Lodewyk_2007_EP|Lodewyk (2007)]] — 对 447 名十年级中学生的 Schommer 修订版[[Epistemology|认识论]][[Questionnaire|问卷]]（[[Schommer's Modified Epistemological Questionnaire|SMEQ]]）52 个题项进行主轴探索性因子分析与方差最大旋转，提取出固定与快速学习能力（FQAL）、[[Simplicity of Knowledge|简单知识]]（SK）和确定知识（CK）三个核心因子（解释 16.81% 方差）。
 > - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|Kazancı Tınmaz & Sezgin (2023)]] — 对 310 名中小学教师的 56 个初测题项进行主轴因子提取法（Principal Axis Factoring, PAF）与方差最大正交旋转（Varimax Rotation），经矫正题总相关（$r < .30$ 剔除 3 题）与载荷准则（载荷 $> .32$、跨载荷差 $> .10$）逐题筛选，在 [[KMO and Bartlett's Test of Sphericity|Kaiser-Meyer-Olkin]] 抽样适宜性系数（KMO = .966）支持下，最终提取出涵盖技能（46.90% 方差）、态度（7.20% 方差）、使用（4.60% 方差）与意识（3.80% 方差）的 4 因子 20 题结构（解释 62.602% 累积方差）。

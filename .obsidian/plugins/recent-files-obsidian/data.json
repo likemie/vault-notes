@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "World Education Reform Database",
-      "path": "wiki/facts/global/World Education Reform Database.md"
+      "basename": "UN Sustainable Development Goals",
+      "path": "wiki/facts/global/UN Sustainable Development Goals.md"
+    },
+    {
+      "basename": "Argument_Steiner-Khamsi_2024_CE",
+      "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Steiner-Khamsi_2024_CE.md"
+    },
+    {
+      "basename": "Education for All",
+      "path": "wiki/facts/global/Education for All.md"
     },
     {
       "basename": "Systems Approach for Better Education Results",
       "path": "wiki/facts/global/Systems Approach for Better Education Results.md"
     },
     {
-      "basename": "Argument_Steiner-Khamsi_2024_CE",
-      "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Steiner-Khamsi_2024_CE.md"
+      "basename": "World Education Reform Database",
+      "path": "wiki/facts/global/World Education Reform Database.md"
     },
     {
       "basename": "Global Development Network",
@@ -79,10 +87,6 @@
     {
       "basename": "template-person",
       "path": "wiki/templates/template-person.md"
-    },
-    {
-      "basename": "UN Sustainable Development Goals",
-      "path": "wiki/facts/global/UN Sustainable Development Goals.md"
     },
     {
       "basename": "A Nation at Risk 1983",
@@ -195,10 +199,6 @@
     {
       "basename": "Argument_Cowen_2023_CE",
       "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Cowen_2023_CE.md"
-    },
-    {
-      "basename": "Argument_Cowen_2009_CE",
-      "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Cowen_2009_CE.md"
     }
   ],
   "omittedPaths": [],

@@ -7,7 +7,7 @@ aliases:
 summary: "西方文化学习者模型，以心智为首要、好奇心为驱动、探究为过程、掌握世界为目标，与儒家学习者形成系统对比"
 type: concept
 domain: "comparative-education"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -46,13 +46,14 @@ related_persons:
   - "[[Plato]]"
   - "[[Socrates]]"
   - "[[Aristotle]]"
-related_facts: []
+related_facts:
+  - "[[Education for All]]"
 related_arguments:
   - "[[Argument_Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-05-24
+updated: 2026-09-12
 ---
 
 # Western Learner
@@ -232,7 +233,7 @@ O'Connor & Michaels（1993）的研究揭示了西方课堂如何通过 [[Revoic
 ## 争议与批评
 
 > [!warning]
-> - 西方学习者模型中"区分最有能力者与普通者"的倾向（[[Plato]] 的护卫者选拔），与儒家"有教无类""人人皆可为尧舜"的平等主义形成对比。但 Li 也指出，西方同样有 Comenius 的全民教育传统——两条线索并存([[Argument_Li_2012_Cambridge|Li, 2012, pp.34-35]])
+> - 西方学习者模型中"区分最有能力者与普通者"的倾向（[[Plato]] 的护卫者选拔），与儒家"有教无类""人人皆可为尧舜"的平等主义形成对比。但 Li 也指出，西方同样有 Comenius 的[[Education for All|全民教育]]传统——两条线索并存([[Argument_Li_2012_Cambridge|Li, 2012, pp.34-35]])
 > - "奖励与庆祝个人成就"的文化取向可能在实践中加剧竞争而非促进[[Cooperative Learning|合作学习]]。Li 本人对此并未深论，但这一对比隐含在她的文化比较框架中
 
 ---

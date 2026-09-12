@@ -75,6 +75,7 @@ related_facts:
   - "[[HarmoS]]"
   - "[[National Assessment of Education Quality China 2007]]"
   - "[[Lisbon Strategy]]"
+  - "[[Education for All]]"
   - "[[Sputnik Shock 1957]]"
 related_arguments: []
 sources:
@@ -82,14 +83,14 @@ sources:
 part_of:
 status: draft
 created: 2026-07-05
-updated: 2026-08-22
+updated: 2026-09-12
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Li_2025_HSSC"
 argument_key: "Argument_Li_2025_HSSC"
 argument_display_title: "The effects of PISA on global basic education reform: A systematic literature review"
 argument_kind: "journal-article"
-argument_related_count: 47
+argument_related_count: 48
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -312,7 +313,7 @@ issuing_organization: ""
 >   Martens & Niemann（2013）指出 PISA 影响教育改革需要两个条件同时满足：（1）PISA 评估内容在国家话语中被赋予足够权重；（2）国家自我认知与实证结果之间存在巨大差距。德国的案例展示了这两个条件同时满足时的政策冲击效应：PISA 揭示了德国作为教育强国的自我形象与实际表现之间的鸿沟。瑞士和挪威（教育体系被视为欧洲最佳之一，但 PISA 分数低于国家预期）同样经历了因认知落差而引发的改革压力。
 > - **文化传统与政治制度的转译框架**
 >   各国的社会文化传统和政治制度背景构成了外部影响推动国内政策回应的转译（translation）框架。不同国家对同一 PISA 结果的解读和政策回应因其翻译机制不同而呈现显著差异（Xie et al., 2022）。
-> - **挪威案例** [[Nordic Model of Education|北欧模式]]的文化背景因素强调全民教育（Education for All）和包容，与 PISA 框架一致；挪威语中缺乏 accountability 一词，加之国家对学校和市政自治的传统支持影响了其政策回应特征（Baird et al., 2016）。
+> - **挪威案例** [[Nordic Model of Education|北欧模式]]的文化背景因素强调[[Education for All|全民教育]]（Education for All）和包容，与 PISA 框架一致；挪威语中缺乏 accountability 一词，加之国家对学校和市政自治的传统支持影响了其政策回应特征（Baird et al., 2016）。
 > - **韩国案例** 政策回应融合了与许多西方国家不同的特征，与韩国政治结构和背景特征密切相关。韩国政府已有非常强势的存在，同时教育总督等新兴行动者正在分权化教育政策；教师和家长通过强大的工会和频繁的选举制衡政府权力，而私营企业参与教育属禁忌（Kim & Choi, 2023）。
 > - **中国案例** 政策回应深受文化传统和政治制度的影响。OECD 倡导的教育模式被视为西方的、新自由主义的、经济驱动的，并削弱了国家政府的角色。高度重视自身文化传统和政治稳定的国家可能在政策回应上与西方国家不同（Xie et al., 2022）。
 > - **政治经济因素的影响** 政策变化和改革与 PISA 结果发布日期相关，但实际政治倡议更可能基于执政党的社会经济和政治展望（Baird et al., 2016; Choi & Jerrim, 2016）。倡导全球化和新自由主义改革议程的执政党倾向于对 PISA 做出积极回应（Xie et al., 2022）。

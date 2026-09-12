@@ -12,7 +12,7 @@ summary: "在心理学与教育学中开发和验证测量不可直接观测潜�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 51
+method_related_count: 52
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -77,10 +77,12 @@ related_arguments:
   - "[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO]]"
   - "[[Argument_Bergeron_2015_TeachingTOK]]"
   - "[[Argument_Greene_2010_JEP]]"
+related_facts:
+  - "[[Education for All]]"
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-08-29
+updated: 2026-09-12
 ---
 
 # Scale Development
@@ -99,7 +101,7 @@ updated: 2026-08-29
 > - **输出形式** 标准化量表手册（包含题项清单、作答等级与计分指南）、探索性因子载荷矩阵、验证性结构方程模型拟合参数、[[Average Variance Extracted|平均方差抽取量]]（AVE）与[[Composite Reliability|组合信度]]（CR）效度矩阵、跨组测量等值性阶梯报告及常模参照基准。
 
 > [!citation-card]- 关键定义
-> 现代量表编制是一个多阶段、迭代演进的严格科学流程：研究者首先从理论[[Document|文献]]中界定构念边界并生成初始题池，通过专家[[Content Validity Index|内容效度指数]]（CVI）评审与目标群体认知访谈进行初筛；随后在样本 1 中执行[[Item Analysis|项目分析]]与[[Exploratory Factor Analysis|探索性因子分析]]（EFA）精简题项并探索潜在维度；最后在独立样本 2 中运用[[Confirmatory Factor Analysis|验证性因子分析]]（CFA）确证一阶与高阶因子结构，检验[[Convergent and Discriminant Validity|收敛效度]]（AVE ≥ .50）与区分效度（Fornell-Larcker 准则），并确立跨群体的严格测量等值性。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|(Kazancı Tınmaz & Sezgin, 2023, pp. 4–5)]]
+> 现代量表编制是一个多阶段、迭代演进的严格科学流程：研究者首先从理论[[Document|文献]]中界定构念边界并生成初始题池，通过专家[[Content Validity Index|内容效度指数]]（CVI）评审与目标群体认知访谈进行初筛；随后在样本 1 中执行[[Item Analysis|项目分析]]与[[Exploratory Factor Analysis|探索性因子分析]]（[[Education for All|EFA]]）精简题项并探索潜在维度；最后在独立样本 2 中运用[[Confirmatory Factor Analysis|验证性因子分析]]（CFA）确证一阶与高阶因子结构，检验[[Convergent and Discriminant Validity|收敛效度]]（AVE ≥ .50）与区分效度（Fornell-Larcker 准则），并确立跨群体的严格测量等值性。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|(Kazancı Tınmaz & Sezgin, 2023, pp. 4–5)]]
 >
 > *Scale development is an iterative, multi-phase methodology in which researchers define construct boundaries, generate item pools, evaluate content validity via expert panels, and administer the instrument across independent samples to conduct EFA for dimension discovery and CFA for structural verification, convergent/discriminant validity, and measurement invariance.*
 
@@ -116,7 +118,7 @@ updated: 2026-08-29
 > [!method-stack] 方法层级
 > - **研究设计** 心理测量工具开发设计、两阶段双独立样本横断面调查设计。
 > - **数据收集** 专家[[Delphi Technique|德尔菲法]]、认知访谈预试、大规模纸笔或在线[[Questionnaire|问卷调查]]。
-> - **分析方法** [[Item Analysis|项目分析]]（Item Analysis）、探索性因子分析（EFA）、验证性因子分析（CFA）、多组验证性因子分析（MG-CFA）、多[[Variable|变量]][[Analysis of Variance|方差分析]]（[[Multivariate Analysis of Variance|MANOVA]]）。
+> - **分析方法** [[Item Analysis|项目分析]]（Item Analysis）、探索性因子分析（[[Education for All|EFA]]）、验证性因子分析（CFA）、多组验证性因子分析（MG-CFA）、多[[Variable|变量]][[Analysis of Variance|方差分析]]（[[Multivariate Analysis of Variance|MANOVA]]）。
 > - **辅助技术** 期望极大化（EM）算法[[Imputation Methods|缺失值插补]]、马氏距离多变量离群值筛查、Bootstrap 稳健[[Standard Error|标准误]]估计、方差最大正交旋转（Varimax）与斜交旋转（Promax）。
 
 ---
@@ -128,7 +130,7 @@ updated: 2026-08-29
 > 2. **初始题池编写与作答格式设计** 编写 3–4 倍于目标题数的陈述句题池（通常 40–80 题），设定平衡的李克特计分点（如 5 级或 7 级）。
 > 3. **专家[[Content Validity|内容效度]]评审与认知访谈** 邀请 5–10 位专家计算 [[Content Validity Index|内容效度指数]]（CVI） 与 CVR，结合 10–20 位目标被试的[[Pilot Testing|预测试]]完成题池初审。
 > 4. **样本 1 施测与[[Item Analysis|项目分析]]初筛** 在样本 1（$N \ge 300$）中施测，计算矫正题总相关（剔除 $r < .30$），执行极端分组 $t$ 检验。
-> 5. **[[Exploratory Factor Analysis|探索性因子分析]]（EFA）与维度提炼** 检验 KMO 与 Bartlett 球形检验，采用主轴因子提取法（PAF）与方差最大正交旋转，依据载荷 $> .32$ 且跨载荷差 $> .10$ 精简题项。
+> 5. **[[Exploratory Factor Analysis|探索性因子分析]]（[[Education for All|EFA]]）与维度提炼** 检验 KMO 与 Bartlett 球形检验，采用主轴因子提取法（PAF）与方差最大正交旋转，依据载荷 $> .32$ 且跨载荷差 $> .10$ 精简题项。
 > 6. **独立样本 2 施测与[[Confirmatory Factor Analysis|验证性因子分析]]（CFA）** 收集独立样本 2（$N \ge 200\sim300$），拟合并对比单因子、一阶多因子与二阶因子模型，评估拟合指数（$\chi^2/df, \text{[[Model Fit Indices in SEM and CFA|RMSEA]]}, \text{CFI}$）。
 > 7. **[[Construct Validity|构念效度]]与[[Composite Reliability|复合信度]]电池检验** 计算各因子的[[Average Variance Extracted|平均方差抽取量]]（AVE $\ge .50$）与组合[[Reliability|信度]]（CR $\ge .70$），验证 Fornell-Larcker [[Convergent and Discriminant Validity|区分效度]]准则，报告 Cronbach's $\alpha$ 与 McDonald's $\omega$。
 > 8. **跨群体[[Measurement Invariance|多组测量等值性]]检验与实证应用** 阶梯检验形态、弱、强与严格等值性（$|\Delta\text{CFI}| \le .010$），结合[[Analysis of Variance|方差分析]]（[[Multivariate Analysis of Variance|MANOVA]]）探索背景[[Variable|变量]]的赋能效应。
@@ -202,7 +204,7 @@ flowchart LR
 > [!contrast-table] 阶段三核心方法与工具矩阵
 > | 统计方法/工具条目 | 方法定位与角色 | 解决的核心问题与痛点 | 判断标准与决策阈值 | 深度条目索引 |
 > |:---|:---|:---|:---|:---|
-> | **[[Confirmatory Factor Analysis\|验证性因子分析（CFA）]]** | **理论模型拟合确证** | 检验 EFA 探索出的因子结构是否能在独立新样本中稳定复现，对比竞争模型并检验高阶二阶构念。 | 拟合优良标准：$\chi^2/df < 3.0$，**$\text{RMSEA} < 0.08$**（优选 $< 0.06$），**$\text{SRMR} < 0.08$**，**$\text{CFI} \ge 0.90$**，**$\text{TLI} \ge 0.90$**。 | 🔗 [[Confirmatory Factor Analysis]] |
+> | **[[Confirmatory Factor Analysis\|验证性因子分析（CFA）]]** | **理论模型拟合确证** | 检验 [[Education for All\|EFA]] 探索出的因子结构是否能在独立新样本中稳定复现，对比竞争模型并检验高阶二阶构念。 | 拟合优良标准：$\chi^2/df < 3.0$，**$\text{RMSEA} < 0.08$**（优选 $< 0.06$），**$\text{SRMR} < 0.08$**，**$\text{CFI} \ge 0.90$**，**$\text{TLI} \ge 0.90$**。 | 🔗 [[Confirmatory Factor Analysis]] |
 > | **[[Model Fit Indices in SEM and CFA\|结构方程拟合指数体系]]** | **多维模型适配度量化判定** | 提供绝对拟合（$\chi^2/df, \text{RMSEA}, \text{SRMR}$）与增量拟合（$\text{CFI}, \text{TLI}$）的综合决策标准。 | Hu & Bentler 准则：**$\text{CFI} \ge .95$**，**$\text{TLI} \ge .95$**，**$\text{RMSEA} \le .06$**，**$\text{SRMR} \le .08$**。 | 🔗 [[Model Fit Indices in SEM and CFA]] |
 > | **[[Cronbach's Alpha\|克隆巴赫 α 系数]]** | **经典测量[[Internal Consistency\|内部一致性]]基准** | 评估量表各题项在同质性测量中的一致性，提供基线信度参考。 | 决策阈值：**$\alpha \ge .70$**（可接受），**$\alpha \ge .80$**（良好），**$\alpha \ge .90$**（卓越）。 | 🔗 [[Cronbach's Alpha]] |
 > | **[[McDonald's Omega\|麦克唐纳 ω 系数]]** | **现代潜变量内部一致性首选** | 突破等载荷假设，精准估计异质载荷下的总信度（$\omega_t$）与分层信度（$\omega_h$）。 | 决策阈值：**$\omega_t \ge .70$**，若作为单维合成总分要求 **$\omega_h \ge .80$**。 | 🔗 [[McDonald's Omega]] |
@@ -301,7 +303,7 @@ flowchart LR
 
 > [!evidence-grid] 使用量表编制方法论的经典实证代表作
 > - **《[[Research Literacy Scale for Teachers|教师研究素养量表]]》（RLS）** [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|Kazancı Tınmaz & Sezgin (2023)]] 严格遵循 DeVellis 现代[[Paradigm|范式]]开发 20 题四维度量表，在样本 1（$N=310$）中通过 [[Exploratory Factor Analysis|EFA]] 提取 4 因子（解释 $62.60\%$ 方差），在独立样本 2（$N=258$）中通过 [[Confirmatory Factor Analysis|CFA]] 确立二阶因子结构，验证了各维度优良的 [[Average Variance Extracted|AVE]]（$.50\sim.56$）、CR（$.75\sim.90$）及跨性别严格[[Measurement Invariance|测量等值性]]，并运用 [[Multivariate Analysis of Variance|MANOVA]] 证实了做研究与读期刊的双轨独立赋能机制。
-> - **《[[Confidence Teaching TOK Scale|知识论教学信心量表]]》** [[Argument_Bergeron_2015_TeachingTOK|Bergeron & Rogers (2015)]] 编制并验证包含 11 道题的教学信心量表，通过 EFA 确立单因子结构并解释 35.03% 方差，为评估跨学科[[Epistemology|认识论]]教学效能感提供标准化工具。
+> - **《[[Confidence Teaching TOK Scale|知识论教学信心量表]]》** [[Argument_Bergeron_2015_TeachingTOK|Bergeron & Rogers (2015)]] 编制并验证包含 11 道题的教学信心量表，通过 [[Education for All|EFA]] 确立单因子结构并解释 35.03% 方差，为评估跨学科[[Epistemology|认识论]]教学效能感提供标准化工具。
 > - **《[[Epistemic and Ontological Cognition Questionnaire|认识论与本体论认知问卷]]》（EOCQ）** [[Argument_Greene_2010_JEP|Greene et al. (2010)]] 编制并检验 13 题[[Questionnaire|问卷]]，通过 CFA 在数学和历史领域检验[[Epistemological Beliefs|认识论信念]]与[[Ontology|本体论认知]]的维度结构及[[Domain Specificity|领域特异性]]拟合度。
 
 ---

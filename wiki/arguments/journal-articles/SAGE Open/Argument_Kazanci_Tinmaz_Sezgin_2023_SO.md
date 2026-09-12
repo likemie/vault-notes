@@ -71,19 +71,20 @@ related_facts:
   - "[[No Child Left Behind Act 2001]]"
   - "[[OECD]]"
   - "[[National Education]]"
+  - "[[Education for All]]"
 related_theories:
   - "[[Theory of Planned Behavior]]"
   - "[[Research Utilization Models]]"
 status: draft
 created: 2026-08-26
-updated: 2026-08-30
+updated: 2026-09-12
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Kazanci_Tinmaz_Sezgin_2023_SO"
 argument_key: "Argument_Kazanci_Tinmaz_Sezgin_2023_SO"
 argument_display_title: "Development of the Research Literacy Scale for Teachers"
 argument_kind: "journal-article"
-argument_related_count: 50
+argument_related_count: 51
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -150,7 +151,7 @@ journal: "SAGE Open"
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |----------|------|
-> | **研究一（EFA 样本）** | 土耳其在职中小学教师 $N = 310$（女性 62.9%，男性 37.1%；年龄 24–61 岁；教龄 1–38 年；本科学历 88.7%，专科 2.9%，研究生 8.0%）。（p.4） |
+> | **研究一（[[Education for All\|EFA]] 样本）** | 土耳其在职中小学教师 $N = 310$（女性 62.9%，男性 37.1%；年龄 24–61 岁；教龄 1–38 年；本科学历 88.7%，专科 2.9%，研究生 8.0%）。（p.4） |
 > | **研究二（CFA 与实证样本）** | 土耳其黑海地区 3 个省份 14 所中小学在职教师 $N = 258$（女性 70.2%，男性 29.8%；年龄 23–64 岁；教龄 1–46 年；本科学历 86.4%，专科 8.5%，研究生 5.0%）。（p.7） |
 > | **材料情境** | 2018 年春季学期在学校现场发放纸质问卷，采用匿名自愿填写形式，数据录入后经期望极大化算法（Expectation-Maximization algorithm, EM）补齐随机缺失值（$<1\%$）并剔除单变量（Z 绝对值 $>3.29$）与多变量（马氏距离 $p<.001$）异常值。（pp.5–7） |
 
@@ -386,7 +387,7 @@ journal: "SAGE Open"
 > 4. **亲自做研究与期刊追踪具有差异化赋能机制** 开展科研对提升技能产生最大主效应（$\eta^2 = .056$），追踪专业期刊则最强效地驱动[[Research Utilization|研究使用]]行为（$\eta^2 = .046$）。（p.13）
 
 > [!stat-cards]- 核心数据
-> - **$62.602\%$** EFA 4 因子解释的总方差（技能 $46.90\%$，态度 $7.20\%$，使用 $4.60\%$，意识 $3.80\%$）。（p.6）
+> - **$62.602\%$** [[Education for All|EFA]] 4 因子解释的总方差（技能 $46.90\%$，态度 $7.20\%$，使用 $4.60\%$，意识 $3.80\%$）。（p.6）
 > - **$\alpha = .94, \omega = .95$** 20 题 RLS 总量表的 [[Cronbach's Alpha|Cronbach's α]] 与 [[McDonald's Omega|McDonald's ω]] 复合[[Reliability|信度]]。（p.11）
 > - **$\chi^2/df = 1.94, \text{[[Model Fit Indices in SEM and CFA|CFI]]} = 0.94, \text{RMSEA} = 0.060$** 一阶四因子修正模型的 [[Confirmatory Factor Analysis|CFA]] 拟合参数。（p.9）
 > - **$\Delta\text{CFI} \le .003, \Delta\text{RMSEA} \le .003$** 跨性别严格等值性检验指标。（p.12）

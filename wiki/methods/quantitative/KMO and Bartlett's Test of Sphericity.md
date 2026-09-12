@@ -11,7 +11,7 @@ summary: "探索性因子分析与主成分分析前置诊断观测变量相关�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 13
+method_related_count: 14
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -36,14 +36,15 @@ related_methods:
 related_instruments:
   - "[[Schommer's Modified Epistemological Questionnaire]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Education for All]]"
 related_arguments:
   - "[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO]]"
   - "[[Argument_Lodewyk_2007_EP]]"
 confidence: high
 status: draft
 created: 2026-08-29
-updated: 2026-08-29
+updated: 2026-09-12
 ---
 
 # KMO and Bartlett's Test of Sphericity
@@ -53,7 +54,7 @@ updated: 2026-08-29
 ## 定义
 
 > [!def] 方法定义
-> **KMO 抽样适宜性度量与巴特利特球形度检验（KMO and Bartlett's Test of Sphericity）** 是在执行[[Exploratory Factor Analysis|探索性因子分析]]（EFA）或主成分分析（PCA）之前，用于检验多[[Variable|变量]]相关矩阵是否具备可因子化性（Factorability）的标准前置诊断规程。KMO 度量观测变量之间的偏相关程度是否足够低，以确保存在紧密的公共因子结构；Bartlett 球形度检验则从全局推断样本相关矩阵是否显著异于变量互不相关的单位矩阵（Identity Matrix）。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|(Kazancı Tınmaz & Sezgin, 2023, p. 5)]]
+> **KMO 抽样适宜性度量与巴特利特球形度检验（KMO and Bartlett's Test of Sphericity）** 是在执行[[Exploratory Factor Analysis|探索性因子分析]]（[[Education for All|EFA]]）或主成分分析（PCA）之前，用于检验多[[Variable|变量]]相关矩阵是否具备可因子化性（Factorability）的标准前置诊断规程。KMO 度量观测变量之间的偏相关程度是否足够低，以确保存在紧密的公共因子结构；Bartlett 球形度检验则从全局推断样本相关矩阵是否显著异于变量互不相关的单位矩阵（Identity Matrix）。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|(Kazancı Tınmaz & Sezgin, 2023, p. 5)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 包含 3 个及以上连续或有序分类题项的相关矩阵（Correlation Matrix $\mathbf{R}$）。

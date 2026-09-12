@@ -9,7 +9,7 @@ title: "Argument_Rappleye_2006_RCIE"
 argument_key: "Argument_Rappleye_2006_RCIE"
 argument_display_title: "Theorizing educational transfer: Toward a conceptual map of the context of cross-national attraction"
 argument_kind: "journal-article"
-argument_related_count: 25
+argument_related_count: 26
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -47,6 +47,7 @@ related_facts:
   - "[[PISA]]"
   - "[[OECD]]"
   - "[[Sputnik Shock 1957]]"
+  - "[[Education for All]]"
   - "[[Civil Service Examination]]"
   - "[[Late Qing Borrowing of Japanese Education]]"
   - "[[A Nation at Risk 1983]]"
@@ -57,7 +58,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-06'
-updated: 2026-08-20
+updated: 2026-09-12
 year: 2006
 doi: ""
 citation_aliases:
@@ -90,7 +91,7 @@ citation_aliases:
 >
 > ![](https://img.mylikemie.icu/sources/Rappleye_2006_RCIE/figures/Rappleye_2006_Fig1_Four_Stages.png)
 >
-> > **图解读：** 四阶段呈环形排列，箭头表示时间上的先后联系而非[[Causality|因果关系]]。第一格"跨国吸引力"包含两部分——左侧的"推动力"（impulses，如系统性崩溃、内部不满、负面外部评估等）和右侧的"外部化潜力"（externalizing potential，如指导哲学、策略、技术等可被借用的元素）。论证正是在这一格内部展开工作：将原本笼统的"推动力"拆为结构层与人的层面双层，并新增对称的"阻力"侧。
+> > **图解读：** 四阶段呈环形排列，箭头表示时间上的先后联系而非[[Causality|因果关系]]。第一格"跨国吸引力"包含两部分——左侧的"推动力"（impulses，如系统性崩溃、内部不满、负面外部评估等）和右侧的"[[Externalization|外部化]]潜力"（externalizing potential，如指导哲学、策略、技术等可被借用的元素）。论证正是在这一格内部展开工作：将原本笼统的"推动力"拆为结构层与人的层面双层，并新增对称的"阻力"侧。
 >
 > - **[[Externalization]]**(Schriewer, 1990, 2003)——"外化"指教育系统将内部的"问题构型"（problem configurations）和"反思情境"（reflection situations）投射到国际参照系中的过滤过程。这个概念解释了为什么同一组国际数据（如 [[PISA]] 排名）在不同国家会被读出完全不同的"教训"——因为每个国家都是在用国际参照来回应自己的内部问题(p. 230)。论证将外化发展为双向机制：改革方外化到国际趋势，抵制方外化到"传统"。
 > - **Halpin & Troyna (1995)** 和 **Gonon (1998)**——论证外国范例诞生于教育改革辩论之中，是辩论的产物而非独立存在的客观参照物。这两项研究为"吸引力是政治辩论的产物"这一核心前提提供了经验基础(p. 228)。
@@ -223,7 +224,7 @@ citation_aliases:
 >
 > ---
 >
-> 3. **物理设施。** 现有设施无法容纳快速变化。这个因素在发达国家文献中很少被讨论，但在发展中国家尤为关键。全民教育目标（Education for All，简称 [[Exploratory Factor Analysis|EFA]]）要求新增 500 万名教师和 1 亿个学位(Colclough, 2004,引自 p. 231)。对于缺乏这种基本基础设施的国家来说，无论某个外国教育模式多么"有吸引力"，实施的前提条件都不具备。
+> 3. **物理设施。** 现有设施无法容纳快速变化。这个因素在发达国家文献中很少被讨论，但在发展中国家尤为关键。[[Education for All|全民教育]]目标（Education for All，简称 [[Exploratory Factor Analysis|EFA]]）要求新增 500 万名教师和 1 亿个学位(Colclough, 2004,引自 p. 231)。对于缺乏这种基本基础设施的国家来说，无论某个外国教育模式多么"有吸引力"，实施的前提条件都不具备。
 >
 > ---
 >

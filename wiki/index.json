@@ -10687,6 +10687,18 @@
     ]
   },
   {
+    "title": "Multiple Streams Framework",
+    "type": "theory",
+    "path": "wiki/theories/educational-policy-reform/Multiple Streams Framework.md",
+    "aliases": [
+      "多源流分析框架",
+      "多源流模型",
+      "多源流理论",
+      "Multiple Streams Approach",
+      "MSF"
+    ]
+  },
+  {
     "title": "Quality Use of Research Evidence Framework",
     "type": "theory",
     "path": "wiki/theories/educational-policy-reform/Quality Use of Research Evidence Framework.md",
@@ -16095,6 +16107,16 @@
     ]
   },
   {
+    "title": "Andreas Schleicher",
+    "type": "person",
+    "path": "wiki/persons/germany/Andreas Schleicher.md",
+    "aliases": [
+      "安德烈亚斯·施莱歇尔",
+      "施莱歇尔",
+      "A. Schleicher"
+    ]
+  },
+  {
     "title": "Christiane Thompson",
     "type": "person",
     "path": "wiki/persons/germany/Christiane Thompson.md",
@@ -19272,6 +19294,17 @@
       "旧金山科研评估宣言",
       "San Francisco Declaration on Research Assessment",
       "科研评估宣言"
+    ]
+  },
+  {
+    "title": "Education for All",
+    "type": "fact",
+    "path": "wiki/facts/global/Education for All.md",
+    "aliases": [
+      "全民教育",
+      "全民教育倡议",
+      "全民教育运动",
+      "Education for All (EFA)"
     ]
   },
   {

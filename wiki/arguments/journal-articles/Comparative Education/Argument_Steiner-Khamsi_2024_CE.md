@@ -41,6 +41,7 @@ related_concepts:
   - "[[Democratisation of Expertise]]"
   - "[[Champ]]"
   - "[[Technology Deficit of Education]]"
+  - "[[Development Turn in Comparative Education]]"
   - "[[Return on Investment]]"
   - "[[Education-for-Mandates]]"
   - "[[Transfer Space]]"
@@ -54,10 +55,12 @@ related_concepts:
 related_theories:
   - "[[Two-Communities Theory]]"
   - "[[Knowledge-to-Action Models]]"
+  - "[[Multiple Streams Framework]]"
   - "[[Human Capital Theory]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Historical-Comparative Method]]"
+  - "[[Exploratory Factor Analysis]]"
   - "[[Qualitative Research]]"
   - "[[Systematic Review]]"
   - "[[Randomised Controlled Trials]]"
@@ -66,6 +69,7 @@ related_persons:
   - "[[Niklas Luhmann]]"
   - "[[George Psacharopoulos]]"
   - "[[Philip H. Coombs]]"
+  - "[[Andreas Schleicher]]"
   - "[[John Hattie]]"
 related_facts:
   - "[[OECD]]"
@@ -76,6 +80,7 @@ related_facts:
   - "[[International Indicators of Education Systems]]"
   - "[[Education at a Glance]]"
   - "[[PISA]]"
+  - "[[Education for All]]"
   - "[[Global Development Network]]"
   - "[[Systems Approach for Better Education Results]]"
   - "[[International Institute for Educational Planning]]"
@@ -97,9 +102,9 @@ title: "Argument_Steiner-Khamsi_2024_CE"
 argument_key: "Argument_Steiner-Khamsi_2024_CE"
 argument_display_title: "Governance by numbers 2.0: policy brokerage as an instrument of global governance in the era of information overload"
 argument_kind: "journal-article"
-argument_related_count: 58
-argument_related_level: 3
-argument_related_stars: "⭐⭐⭐"
+argument_related_count: 63
+argument_related_level: 4
+argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
 journal: Comparative Education
 book_title: ""
@@ -198,7 +203,7 @@ issuing_organization: ""
 教育领域的公共决策面临三重相互交织的制度生态约束，使得纯粹的学术研究成果无法顺畅转化为具体的政策行动。（pp.538–540）
 
 > [!quad-grid] 教育政策环境的三重生态特质与数字[[Scaffolding|脚手架]]
-> - **政策情境的歧义性（Ambiguity）** 面对同一教育现象往往存在多种互不兼容的理解视角；在此情境下，更多知识不但无法消除分歧，反而加剧了解释冲突，迫使中介机构通过裁量与筛选建立确定性话语。（pp.538–539）
+> - **政策情境的歧义性（Ambiguity）** 援引[[Multiple Streams Framework|多源流分析框架]]（Multiple Streams Framework，MSF）关于决策歧义性的理论界定（Zahariadis, 2017），面对同一教育现象往往存在多种互不兼容的理解视角；在此情境下，更多知识不但无法消除分歧，反而加剧了解释冲突，迫使中介机构通过裁量与筛选建立确定性话语。（pp.538–539）
 > - **[[Democratisation of Expertise|专业知识民主化]]带来的公共争议性（Contestation）** 教育领域呈现广泛的[[Democratisation of Expertise|专业知识民主化]]（Democratisation of Expertise）特征，缺乏医学等行业的技术排他壁垒，公众与从业者皆自视为教育行家，致使教育研究天然成为意识形态争夺的[[Champ|场域]]。（p.539）
 > - **未来结果不可验证导致的技术赤字（[[Technology Deficit of Education|Technology Deficit]]）** 教育面临固有的技术赤字（Technology Deficit of Education），由于育人成效应面向不可预测的未来，其因果链条无法在当下获得经验检验；决策者由此产生深刻的风险焦虑，促使中介机构将未来预设为可以通过当下干预来规避的行动方案。（pp.539–540）
 > - **数字理性脚手架（Numbers as Scaffolding）** 相比质性叙事，量化指标具备理性、精确与普适的话语表象；政策制定者热衷于数字，是因为数字指标不仅看似客观，更为其依循自身政治意图诠释指标背后的故事预留了充分空间。（p.540）
@@ -234,14 +239,14 @@ issuing_organization: ""
 
 #### 2. 世界银行脱离教科文组织人文路线，以放贷权力和回报率指标构建自指性政策帝国
 
-在后殖民时期的全球南方，世界银行成为西方大国与苏联争夺不结盟国家影响力的关键金融与制度杠杆。（p.541）
+在后殖民时期的全球南方，世界银行成为西方大国与苏联争夺不结盟国家影响力的关键金融与制度杠杆；[[Development Turn in Comparative Education|发展转向]]对全球南方国家的作用，正如量化转向对非共产主义全球北方国家的作用一样——自 1990 年确立首项国际协议《[[Education for All|全民教育]]》（Education for All，[[Exploratory Factor Analysis|EFA]]）开始，全球南方国家才被系统性置于国际组织的量化规制体系之下。（p.541）
 
 > [!tension-table] 世界银行与联合国教科文组织的治理理念与制度[[Paradigm|范式]]分野
 > | 比较维度 | 世界银行（World Bank） | 联合国教科文组织（UNESCO） |
 > |---|---|---|
 > | **教育哲学** | 强调人力资本投入回报、管理主义效率与经济增长导向 | 秉持人文主义关怀、国际理解与受教育基本人权导向 |
 > | **治理手段** | 庞大的项目放贷权力、高度官僚化的放贷周期与减贫战略文件（Poverty Reduction Strategy Papers，PRSPs） | 道德劝诫、国际公约制定与规范性政策倡议 |
-> | **量化规模** | 指标库从 1989 年 116 项扩展至 2018 年 1,600 项；坐拥涵盖 139 国、1,120 项估算的回报率数据库 | 协调全民教育（Education for All）等国际基准，但缺乏强制性财政问责机制 |
+> | **量化规模** | 指标库从 1989 年 116 项扩展至 2018 年 1,600 项；坐拥涵盖 139 国、1,120 项估算的回报率数据库 | 协调[[Education for All\|全民教育（Education for All，EFA）]]等国际基准，但缺乏强制性财政问责机制 |
 > | **脱钩节点** | 1964 年签署合作协定借道入场，1980 年发布首份独立政策文件彻底决裂 | 失去对全球南方教育援助的主导权，退居话语倡导 |
 
 世界银行通过系统资助教育[[Return on Investment|投资回报]]率测算，建立起庞大的应用政策研究体系，为其直接干预借贷国的教育体制奠定了技术合法性。（pp.542, 548）
@@ -340,6 +345,8 @@ issuing_organization: ""
 > - **第一代：线性知识传播（Linear / Push Models）** 侧重于将科研成果单向推送到决策者手中，关注信息的清晰呈现与有效分发。（p.547）
 > - **第二代：关系协同共建（Relational / Co-production Models）** 关注[[Knowledge Production|知识生产]]者与使用者的双向互动，强调政策知识的双向协商、利益调适与合作生产。
 > - **第三代：程序生态与系统容量（Systems / Procedural Eco-system Models）** 将政策过程程序化解构为动态环节，考察不同决策阶段对研究证据的制度吸收容量，以及维系数据流动的数字平台与区域中介基础设施。
+
+大规模跨国测评的设计者绝不满足于每隔几年发布成绩时引发的公众舆论轰动；正如经合组织 PISA 总设计师[[Andreas Schleicher|安德烈亚斯·施莱歇尔]]（Andreas Schleicher）及其团队所指出的，经合组织定位于为全球公共政策与国际标准制定提供集数据分析、经验交流、最佳实践共享于一体的独特知识枢纽（Schleicher et al., 2021, p. 1）。（p.547）
 
 依据社会学系统论的[[Externalization|外化]]（Externalization）假说，外部世界对内部系统的影响，完全取决于内部系统如何赋予其意义并将其建构为外部权威。（p.546）
 

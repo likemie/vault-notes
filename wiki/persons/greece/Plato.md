@@ -6,7 +6,7 @@ summary: "古希腊哲学家，苏格拉底的学生、亚里士多德的老师�
 type: person
 nationality: greece
 person_region: "greece"
-person_related_count: 19
+person_related_count: 20
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -43,14 +43,15 @@ related_persons:
   - "[[Immanuel Kant]]"
   - "[[John Dewey]]"
   - "[[Paulo Freire]]"
-related_facts: []
+related_facts:
+  - "[[Education for All]]"
 related_arguments:
   - "[[Argument_Li_2012_Cambridge]]"
   - "[[Argument_Darwish_2009_Queens]]"
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-09-11
+updated: 2026-09-12
 ---
 # Plato
 
@@ -135,7 +136,7 @@ updated: 2026-09-11
 ## 争议与批评
 
 > [!warning]
-> - 柏拉图的"区分最有能力者"的精英主义教育取向，与儒家"有教无类""人人皆可为尧舜"的平等主义形成核心对比。Li 指出西方同样有 Comenius 的全民教育传统——两条线索并存([[Argument_Li_2012_Cambridge|Li, 2012, pp.34-35]])
+> - 柏拉图的"区分最有能力者"的精英主义教育取向，与儒家"有教无类""人人皆可为尧舜"的平等主义形成核心对比。Li 指出西方同样有 Comenius 的[[Education for All|全民教育]]传统——两条线索并存([[Argument_Li_2012_Cambridge|Li, 2012, pp.34-35]])
 > - [[Socrates|苏格拉底]]在柏拉图[[Dialogue in Education|对话]]录中的"无情"追问方式——如在优绪弗洛对话中"不关心优绪弗洛的感受"——是否具有跨文化普适性？这一问题是 Li 中西学习传统比较的隐含关切之一([[Argument_Li_2012_Cambridge|Li, 2012, pp.51-53]])
 > - "柏拉图的苏格拉底"与"历史上的苏格拉底"之间的区分是柏拉图研究中的经典难题([[Argument_Li_2012_Cambridge|Li, 2012, p.27 脚注 1]])
 > - [[John Dewey|杜威]]（John Dewey）与弗雷尔（[[Paulo Freire]]）等进步主义及[[Critical Pedagogy|批判教育学]]者指出，柏拉图将城邦划分为统治者、军人与平民三个固化阶层，仅允许统治者（护卫者）接受[[Critical Thinking|批判性思维]]与真知训练。杜威批判柏拉图设想了一个终极目的固定、排斥后续变革与平民[[Growth|成长]]的静态社会图景 [[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 3, 5)]]。

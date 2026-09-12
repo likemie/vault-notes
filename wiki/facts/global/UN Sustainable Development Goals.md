@@ -14,7 +14,7 @@ subtype: policy
 region: global
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 26
+fact_related_count: 28
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -50,6 +50,8 @@ related_methods:
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Education for All]]"
+  - "[[Global Partnership for Education]]"
   - "[[OECD]]"
   - "[[PISA]]"
   - "[[Education International]]"
@@ -61,7 +63,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-11
-updated: 2026-09-11
+updated: 2026-09-12
 ---
 
 # UN Sustainable Development Goals
@@ -73,7 +75,7 @@ updated: 2026-09-11
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2015 年 9 月由联合国（United Nations，UN）全数 193 个成员国在纽约可持续发展峰会上一致通过，正式发布题为《改变我们的世界：2030年可持续发展议程》（*Transforming our world: the 2030 Agenda for Sustainable Development*）的里程碑决议。[[Argument_Zapp_2022_Springer|(Zapp, 2022, p. 150)]]
 > - **适用地区 / 对象** 覆盖全球所有主权国家、跨国国际组织、公民社会以及高等教育机构；特别在基础教育阶段针对全球南方借款国实施密集监测，在高等教育阶段覆盖全球研究型大学。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
-> - **问题背景** 全球面临贫困、环境退化、气候变化、社会不公及教育危机等多重复合挑战；继 1990 年全民教育（Education for All，[[Exploratory Factor Analysis|EFA]]）与 2000–2015 年千年发展目标（Millennium Development Goals，MDGs）之后，国际社会亟需一套具有普遍约束力的全球统领性行动纲领。[[Argument_Zapp_2022_Springer|(Zapp, 2022, p. 151)]]
+> - **问题背景** 全球面临贫困、环境退化、气候变化、社会不公及教育危机等多重复合挑战；继 1990 年[[Education for All|全民教育]]（Education for All，[[Exploratory Factor Analysis|EFA]]）与 2000–2015 年千年发展目标（Millennium Development Goals，MDGs）之后，国际社会亟需一套具有普遍约束力的全球统领性行动纲领。[[Argument_Zapp_2022_Springer|(Zapp, 2022, p. 151)]]
 > - **制度位置** 取代 MDGs 成为 2015–2030 年全球最高发展纲领；在教育领域确立第四个可持续发展目标（Sustainable Development Goal 4，SDG 4: 优质教育），成为衔接联合国专门机构倡导、多边银行放贷门槛与全球大学治理的核心枢纽。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541, 545)]]
 
 ---
@@ -104,10 +106,10 @@ updated: 2026-09-11
 ## 时间线
 
 > [!dev-timeline] 全球可持续发展与教育治理演进历程
-> - **1990 — 宗迪恩全民教育（[[Exploratory Factor Analysis|EFA]]）世界宣言** 联合国教科文组织、联合国儿童基金会（United Nations Children's Fund，UNICEF）、联合国开发计划署与世界银行（World Bank）在泰国宗迪恩联合发起 EFA 倡议，标志着全球南方国家开始系统性卷入国际组织的量化治理体制。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
+> - **1990 — 宗迪恩[[Education for All|全民教育]]（[[Exploratory Factor Analysis|EFA]]）世界宣言** 联合国教科文组织、联合国儿童基金会（United Nations Children's Fund，UNICEF）、联合国开发计划署与世界银行（World Bank）在泰国宗迪恩联合发起 EFA 倡议，标志着全球南方国家开始系统性卷入国际组织的量化治理体制。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
 > - **2000 — 达喀尔世界教育论坛与千年发展目标（MDGs）** 确立初等教育普及（MDG 2）与消除性别差距（MDG 3）的硬性量化指标，跨国资金援助全面与初等教育入学率指标挂钩。
 > - **2015 — 仁川世界教育论坛与 SDGs 纽约峰会正式通过** 5 月仁川论坛通过《仁川宣言》确立《教育 2030 行动框架》；9 月联合国大会正式通过涵盖 17 目标与 169 项指标的《2030 年可持续发展议程》，将教育从单纯的初等入学扩展为[[Lifelong Learning|终身学习]]与公平优质。[[Argument_Zapp_2022_Springer|(Zapp, 2022, p. 150)]]
-> - **2018–2020 — 指标垄断深化与多边数据联盟分化** 伴随 SDG 4 监测需求激增，五大多边组织（GPE, [[OECD]], UNESCO, UNICEF, World Bank）展开激烈的数据主导权博弈；世界银行联合英美援助机构组建打造教育成效证据联盟（Building Evidence in Education，BE2），联合国教科文组织、儿童基金会与世行则另立“学习数据协定”（Learning Data Compact，LDC）。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 545)]]
+> - **2018–2020 — 指标垄断深化与多边数据联盟分化** 伴随 SDG 4 监测需求激增，五大多边组织（[[Global Partnership for Education|GPE]], [[OECD]], UNESCO, UNICEF, World Bank）展开激烈的数据主导权博弈；世界银行联合英美援助机构组建打造教育成效证据联盟（Building Evidence in Education，BE2），联合国教科文组织、儿童基金会与世行则另立“学习数据协定”（Learning Data Compact，LDC）。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 545)]]
 > - **2020 至今 — 危机叠加与[[Third Mission|大学第三使命]]重塑** 全球公共卫生与气候危机暴露出单一量化指标的局限；全球高校在研究、教学与校园运营中系统制度化 SDGs，但同时面临主权国家地缘科技竞争“再领土化”（Re-territorialization）的逆流冲击。[[Argument_Zapp_2022_Springer|(Zapp, 2022, pp. 155–157)]]
 
 ---

@@ -7,7 +7,7 @@ title: "Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings"
 argument_key: "Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings"
 argument_display_title: "The Modernist Beginnings of Comparative Education: The Proto-Scientific and The Reformist-meliorist Administrative Motif"
 argument_kind: "book-chapter"
-argument_related_count: 68
+argument_related_count: 70
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -61,6 +61,7 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Perpetual Peace]]"
   - "[[Pride in Learning]]"
+  - "[[School Inspection]]"
   - "[[Ontology]]"
   - "[[State Educational Sovereignty]]"
   - "[[Culture Générale]]"
@@ -103,6 +104,7 @@ related_facts:
   - "[[Report on Elementary Public Instruction in Europe]]"
   - "[[National Education in Europe]]"
   - "[[Revue encyclopédique]]"
+  - "[[Education for All]]"
   - "[[Common School Movement]]"
   - "[[Boston Schoolmasters Controversy]]"
   - "[[Grammar School]]"
@@ -112,7 +114,7 @@ sources:
 part_of: "[[Argument_Cowen(Ed.)_2009_Springer]]"
 status: draft
 created: 2026-09-06
-updated: 2026-09-07
+updated: 2026-09-12
 ---
 # Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings
 
@@ -349,14 +351,14 @@ updated: 2026-09-07
 
 > [!reception] [[Report on the State of Public Instruction in Prussia|库森报告]]的跨大西洋反响与政治合法化效应
 > - **英格兰公学辩护与“海陆军之比”** 英国《外国季刊评论》（*Foreign Quarterly Review*）宣称该报告以“完全实际成功的确凿论据”证明，国民公立教育绝非空想哲学家的虚幻嵌合体（chimera），而是如常备陆军或海军一样切实可行的现代国家制度。（Knight, 1930:116–119; Brewer, 1971:54–57; p. 27）
-> - **北美各州公立集权与师范立法** 在美国，报告深刻启发了密歇根州与马萨诸塞州的教育改革家，为强化州立教育督导权及创办公立[[Normal School|师范学校]]提供了无可争议的域外成功依据。（Knight, 1930:116; p. 27）
+> - **北美各州公立集权与师范立法** 在美国，报告深刻启发了密歇根州与马萨诸塞州的教育改革家，为强化州立[[School Inspection|教育督导]]权及创办公立[[Normal School|师范学校]]提供了无可争议的域外成功依据。（Knight, 1930:116; p. 27）
 > - **法国本土实定法直接转置** 在母国法国，库森直接主持将普鲁士考察成果法典化为 1833 年基佐法案，开创了从跨国调研走向国家强制立法的欧陆经典范式。（Brewer, 1971:36; Halls, 1965:20; pp. 27–28）
 
 外国技术条款在母国的直接法典化，深刻依赖于法哲学对国家公权力强制介入的伦理正当性论证：
 
 > [!info] 制度背景：法哲学对实定法立法的正当性奠基功能
 > - **法哲学的规范追问** 探究法律的效力渊源、正义目标与公权力行使的伦理正当性。在教育立法与制度转置中，法哲学为国家介入公共领域提供超越实定法条文的[[Ontology|本体论]]基础。
-> - **教育权归属的历史博弈** 传统宗法与自由放任秩序将教育视为教会神权或家庭私事；国家若要动用公共财政强制推行全民教育，必须在法哲学层面打破“教育属私人消费品”的旧观念，确立国家公权力的介入合法性。
+> - **教育权归属的历史博弈** 传统宗法与自由放任秩序将教育视为教会神权或家庭私事；国家若要动用公共财政强制推行[[Education for All|全民教育]]，必须在法哲学层面打破“教育属私人消费品”的旧观念，确立国家公权力的介入合法性。
 
 基于对普鲁士制度实践的考察，库森在 1831 年报告中提炼出一套划时代的[[State Educational Sovereignty|国家教育权]]法哲学命题，打破了教会特权与自由市场放任，为法国国家立法提供了本体法理支撑：
 
